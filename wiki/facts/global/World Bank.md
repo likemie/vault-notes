@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Return on Investment]]"
   - "[[Performance Indicators]]"
+  - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
   - "[[Dialogue in Education]]"
   - "[[Document]]"
@@ -84,7 +85,7 @@ updated: 2026-09-12
 > - **1944–1968 — 砖瓦基建与[[UNESCO|教科文组织]]早期依附期** 初期严守硬性物理基础设施借贷，不涉足教育社会事业；1962 年向突尼斯发放首笔中等技术教育贷款；1964 年与教科文组织（UNESCO）签署《合作协定》（Co-operative Agreement），依靠 UNESCO 的专业团队物色与评估借贷国教育项目，初步敲开全球南方的教育大门。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（[[George Psacharopoulos]]）等组建中央研究团队，开创覆盖全球的[[Return on Investment|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1981–1999 — 结构调整贷款与量化指标急剧扩张期** 推行华盛顿共识，将削减公共开支、用户付费与基础教育分权作为结构调整贷款的严苛附加条件；全面启动指标库建设，其宏观指标体系从 1989 年 4 月的 116 项急剧扩张至后期的 1,600 项；1999 年与国际货币基金组织（IMF）联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（[[Poverty Reduction Strategy Papers|PRSPs]]），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]
-> - **1999–至今 — 知识银行转型与自指性政策仓库建构期** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank）；虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立以[[Randomised Controlled Trials|随机对照试验]]（[[Randomised Controlled Trials|RCTs]]）和成熟度量规为核心的自指性[[Policy Brokerage|政策中介]]帝国。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
+> - **1999–至今 — [[Knowledge Bank|知识银行]]转型与自指性政策仓库建构期** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank）；虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立以[[Randomised Controlled Trials|随机对照试验]]（[[Randomised Controlled Trials|RCTs]]）和成熟度量规为核心的自指性[[Policy Brokerage|政策中介]]帝国。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_instruments: []
 related_persons:
   - "[[Jarl Bengtsson]]"
 related_facts:
+  - "[[Organisation for European Economic Co-operation]]"
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
   - "[[1960 Bellagio Conference]]"
@@ -62,7 +63,7 @@ updated: 2026-09-12
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 地中海区域项目（Mediterranean Regional Project，MRP）是由欧洲经济合作组织（OEEC，1961 年改组为经合组织 [[OECD]]）与美国福特基金会联合资助，在南欧六国（希腊、意大利、葡萄牙、西班牙、土耳其、南斯拉夫）展开的划时代跨国教育规划试点；旨在通过定量预测未来十五年的经济增长与劳动力需求，为落后国家编制国家级中长期教育扩招与投资蓝图。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 地中海区域项目（Mediterranean Regional Project，MRP）是由[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC，1961 年改组为经合组织 [[OECD]]）与美国福特基金会联合资助，在南欧六国（希腊、意大利、葡萄牙、西班牙、土耳其、南斯拉夫）展开的划时代跨国教育规划试点；旨在通过定量预测未来十五年的经济增长与劳动力需求，为落后国家编制国家级中长期教育扩招与投资蓝图。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1960 年底正式启动，历经第一阶段规划编制（1960–1962）与第二阶段国家政策执行评估（1962–1965），成果以六国国别报告与综合评估报告形式常态化沉淀。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]

@@ -8,7 +8,7 @@ summary: "国际著名教育经济学家、世界银行资深教育顾问与人�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
   - theme/rate-of-return
 related_concepts:
   - "[[Return on Investment]]"
+  - "[[Knowledge Bank]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Evaluation Research]]"
@@ -57,7 +58,7 @@ updated: 2026-09-12
 
 > [!person-profile] 人物档案
 > - **身份位置** 希腊裔美籍经济学家、教育经济学奠基人之一、[[World Bank|世界银行]]长期首席教育顾问与前教育及社会政策部主管。
-> - **核心角色** 将芝加哥学派[[Human Capital Theory|人力资本理论]]系统注入国际多边金融机构，建立起跨越半个多世纪的全球[[Return on Investment|教育投资回报率]]（RORE）计量基准体系，是推动世界银行转型为“知识银行”与自立研究帝国的领军学者。
+> - **核心角色** 将芝加哥学派[[Human Capital Theory|人力资本理论]]系统注入国际多边金融机构，建立起跨越半个多世纪的全球[[Return on Investment|教育投资回报率]]（RORE）计量基准体系，是推动世界银行转型为“[[Knowledge Bank|知识银行]]”与自立研究帝国的领军学者。
 > - **代表贡献** 开创跨国教育成本效益与明瑟收益率横向比较框架；主持编制世界银行历次十年期全球教育投资回报率全景综述（1973, 1985, 1994, 2004, 2018）；推动初等教育高社会收益率理论成为世界银行向全球南方放贷的法定准则。
 
 > [!citation-card] 独立研究帝国与比较教育材料宝库

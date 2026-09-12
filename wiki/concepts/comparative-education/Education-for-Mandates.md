@@ -7,10 +7,10 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi 等提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/comparative-education
   - theme/global-governance
@@ -48,6 +48,7 @@ related_facts:
   - "[[UNICEF]]"
   - "[[PISA]]"
   - "[[Global Education Monitoring Report]]"
+  - "[[Organisation for European Economic Co-operation]]"
   - "[[International Indicators of Education Systems]]"
   - "[[International Labour Organization]]"
 related_arguments:
@@ -100,7 +101,7 @@ updated: 2026-09-12
 > [!feature] 核心要素
 > - **五大外延性使命话语类型（Thematic Line of Argumentation）** 跨界组织普遍将教育归口于五大[[Grand Theory|元叙事]]：① 教育促进经济增长（Economic [[Growth]]）；② 教育维护地缘和平（Peace）；③ 教育增进国际理解（International Understanding）；④ 教育推动可持续发展（Sustainable Development）；⑤ 教育支撑全球[[Knowledge-Based Economy|知识经济]]（Global Knowledge Economy）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **经济金融机构的压倒性渗透（Dominance of Economic Coordination IOs）** 经济合作类机构凭借雄厚的主权出资网络与财政贷款权力，在所有涉教育国际组织中占比高达 33.3%，构成跨界嵌入的主导力量。
-> - **组织生存与利基开辟逻辑（Organisational Survival & Niche Carving）** 冷战时期斯普特尼克危机等外部地缘震荡，迫使 OEEC/[[OECD]] 等传统经济组织寻找新的增长点，将教育界定为高精尖技术人员供给母体，借此实现官僚机构的自我续命与权能扩张。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **组织生存与利基开辟逻辑（Organisational Survival & Niche Carving）** 冷战时期斯普特尼克危机等外部地缘震荡，迫使 [[Organisation for European Economic Co-operation|OEEC]]/[[OECD]] 等传统经济组织寻找新的增长点，将教育界定为高精尖技术人员供给母体，借此实现官僚机构的自我续命与权能扩张。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **硬事实[[Policy Brokerage|政策中介]]作为嵌入载体（Hard-Fact Brokerage as Vehicle）** 跨界组织因缺乏教育法理管辖权，必须借助高度标准化、去情境化的数字指标体系（如 [[PISA]] 或 [[International Indicators of Education Systems|INES]]）施展软治理，以此弥补其民主授权与专业合法性赤字。
 
 > [!logic-map]- 要素关系

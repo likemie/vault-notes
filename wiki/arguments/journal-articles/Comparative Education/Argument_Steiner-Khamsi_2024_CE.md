@@ -50,7 +50,9 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Return on Investment]]"
+  - "[[Knowledge Bank]]"
   - "[[Education-for-Mandates]]"
+  - "[[Warehousing of Good Practices]]"
   - "[[Social-Emotional Learning]]"
   - "[[Transfer Space]]"
   - "[[Datafication of Learning]]"
@@ -76,7 +78,6 @@ related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
-  - "[[Christopher Lubienski]]"
   - "[[Christian Ydesen]]"
   - "[[Kerstin Martens]]"
   - "[[Niklas Luhmann]]"
@@ -91,6 +92,7 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[Global Partnership for Education]]"
+  - "[[Organisation for European Economic Co-operation]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Mediterranean Regional Project]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -105,6 +107,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[1964 UNESCO-World Bank Cooperative Agreement]]"
+  - "[[World Bank Education Sector Policy Paper 1980]]"
   - "[[Global Development Network]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[1960 Bellagio Conference]]"
@@ -140,7 +143,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 101
+argument_related_count: 104
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -157,7 +160,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在数字经济催生研究证据严重过剩（[[Surplus of Evidence]]）与信息孤岛（[[Christopher Lubienski|Lubienski]] & Malin, 2022）林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何[[Soft Power by Hard Facts|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
+> 在数字经济催生研究证据严重过剩（[[Surplus of Evidence]]）与信息孤岛（Lubienski & Malin, 2022）林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何[[Soft Power by Hard Facts|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
 
 > [!claim] 核心主张
 > 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差异化知识产品打包，[[Soft Power by Hard Facts|以硬事实施展软权力]]，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。（pp.538–540, 547–549）
@@ -255,7 +258,7 @@ issuing_organization: ""
 
 #### 1. 经合组织从冷战技术官僚预测转向由外部危机感驱动的跨国比较指标帝国
 
-二战后西方阵营急需建立具有规范协调功能的国际机制以抵御苏联阵营的意识形态渗透，欧洲经济合作组织（Organisation for European Economic Co-operation，OEEC）应运而生并在 1961 年改组为经合组织，被史学界定性为与北约并行的经济北约。（pp.540–541）
+二战后西方阵营急需建立具有规范协调功能的国际机制以抵御苏联阵营的意识形态渗透，[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（[[Organisation for European Economic Co-operation|Organisation for European Economic Co-operation]]，OEEC）应运而生并在 1961 年改组为经合组织，被史学界定性为与北约并行的经济北约。（pp.540–541）
 
 > [!phase] 经合组织从经济北约到全球教育测验帝国的演化历程
 >
@@ -285,12 +288,12 @@ issuing_organization: ""
 > | **教育哲学** | 强调人力资本投入回报、管理主义效率与经济增长导向 | 秉持人文主义关怀、国际理解与受教育基本人权导向 |
 > | **治理手段** | 庞大的项目放贷权力、高度官僚化的放贷周期与[[Poverty Reduction Strategy Papers\|《减贫战略文件》（Poverty Reduction Strategy Papers，PRSPs）]] | 道德劝诫、国际公约制定与规范性政策倡议 |
 > | **量化规模** | 指标库从 1989 年 116 项扩展至 2018 年 1,600 项；坐拥涵盖 139 国、1,120 项估算的回报率数据库 | 协调[[Education for All\|全民教育（Education for All，EFA）]]等国际基准，但缺乏强制性财政问责机制 |
-> | **脱钩节点** | [[1964 UNESCO-World Bank Cooperative Agreement\|1964 年签署合作协定]]借道入场，1980 年发布首份独立政策文件彻底决裂 | 失去对全球南方教育援助的主导权，退居话语倡导 |
+> | **脱钩节点** | [[1964 UNESCO-World Bank Cooperative Agreement\|1964 年签署合作协定]]借道入场，[[World Bank Education Sector Policy Paper 1980\|1980 年发布首份独立政策文件]]彻底决裂 | 失去对全球南方教育援助的主导权，退居话语倡导 |
 
 世界银行通过系统资助教育[[Return on Investment|投资回报]]率测算，建立起庞大的应用政策研究体系，为其直接干预借贷国的教育体制奠定了技术合法性。（pp.542, 548）
 
 > [!case] 世界银行[[Global Development Network|全球发展网络]]（GDN）从本土去中心化转向总部集权的演变案例
-> - **转型为“知识银行”的制度承诺** 1990 年代世界银行加速拓展教育研究职能，于 1999 年发起设立[[Global Development Network|全球发展网络]]（Global Development Network，GDN），承诺支持借贷国本土层面的知识生产与循证决策，改变华盛顿总部对政策知识的单向垄断。（Stone, 2000; p.543）
+> - **转型为“[[Knowledge Bank|知识银行]]”的制度承诺** 1990 年代世界银行加速拓展教育研究职能，于 1999 年发起设立[[Global Development Network|全球发展网络]]（Global Development Network，GDN），承诺支持借贷国本土层面的知识生产与循证决策，改变华盛顿总部对政策知识的单向垄断。（Stone, 2000; p.543）
 > - **去中心化构想的迅速流产** 这一旨在激活国别本土智库与学术机构的去中心化倡议很快丧失势头，被世界银行随后推行的大量总部集中管理项目（如[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER））彻底边缘化并取代。
 > - **本土专家的工具化降格** 跨国大型数据库的设计与维护权牢牢保留在华盛顿总部手中，借贷国的本土学者与国家专家并未获得实[[Qualitative Research|质性研究]]主导权，沦为仅负责为总部数据库搜集、填报指标并提供语篇翻译的基层信息员。
 > - **60 年回报率实证帝国的规制底色** 伴随这一集权过程，世界银行系统构建起庞大的应用政策研究体系；[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）与帕特里诺斯（Harry Anthony Patrinos，2018）对 60 年教育投资回报率研究的[[Systematic Review|系统综述]]显示，该数据库累计涵盖 139 个国家的 1,120 项估算，为世行脱离联合国教科文组织、以贷款附加条件深度干预借贷国教育体制提供了自给自足的数据霸权。（p.548）
@@ -349,7 +352,7 @@ issuing_organization: ""
 > | 国际组织（IO） | 核心政策中介工具（Primary Instrument） | 打包知识产品与服务（Bundled Knowledge Products） | 经验汲取模式与实证特征（Lesson-Drawing Orientation） | 治理机制与战略同盟（Governance & Alliances） |
 > |---|---|---|---|---|
 > | **[[OECD\|经合组织（OECD）]]** | **[[PISA]]**（国际学生评估项目）及其衍生产品矩阵（[[Teaching and Learning International Survey\|TALIS]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]]、[[PISA for Development\|PISA-D]]） | 国别同行评议（Peer Reviews）、《教育概览》（Education at a Glance，EAG）、[[Education Policy Outlook\|教育政策展望]]（Education Policy Outlook）、[[Education GPS\|教育 GPS]] 数字平台 | **外向型国别横向对照（Outward-looking cross-national referencing）**<br>[[World Education Reform Database\|世界教育改革数据库]]（World Education Reform Database，WERD）实证表明，其报告高度依赖对其他成员国具体改革经验的交叉引证，将跨国横向比较作为提升教育质量的核心引擎。（Seitzer et al., 2023; pp.544–545） | 以软法（Soft Law）、指标排序与“命名与羞辱”实施远程规制；依托非成员国测验扩张与盖茨等私人基金会资助，构建全球比较帝国。 |
-> | **世界银行（World Bank）** | **贷款与赠款附加条件**、[[Systems Approach for Better Education Results\|改善教育成果系统分析法（SABER）]]、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、[[World Development Indicators\|世界发展指标库]]（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践循环（Self-referential lesson-drawing）**<br>[[World Education Reform Database\|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交,联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的[[Building Evidence in Education\|构建教育证据联盟（BE2）]]。 |
+> | **世界银行（World Bank）** | **贷款与赠款附加条件**、[[Systems Approach for Better Education Results\|改善教育成果系统分析法（SABER）]]、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | [[Warehousing of Good Practices\|集中化最佳实践政策仓库]]（Warehousing of Good Practices）、[[World Development Indicators\|世界发展指标库]]（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践循环（Self-referential lesson-drawing）**<br>[[World Education Reform Database\|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交,联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的[[Building Evidence in Education\|构建教育证据联盟（BE2）]]。 |
 > | **[[Global Partnership for Education\|全球教育伙伴关系（GPE）]]** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | [[Knowledge and Innovation Exchange\|知识与创新交流机制（Knowledge and Innovation Exchange，KIX）]]，在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
 > | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | **国际公约与规范性框架制定**、[[Global Education Monitoring Report\|《全球教育监测报告》]]（Global Education Monitoring Report，GEMR）、[[UNESCO Institute for Statistics\|统计研究所]]（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、[[International Institute for Educational Planning\|国际教育规划研究所]]（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立[[Learning Data Compact\|“学习数据协定”（Learning Data Compact）]]，在跨国监测主导权上与世行体系形成制衡。 |
 > | **[[UNICEF\|联合国儿童基金会]]（UNICEF）** | **[[Multiple Indicator Cluster Surveys\|多指标聚类调查]]（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如[[Social-Emotional Learning\|社会情感学习]] SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将[[Social-Emotional Learning\|社会情感学习]]（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |

@@ -876,6 +876,16 @@
     ]
   },
   {
+    "title": "Knowledge Bank",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Knowledge Bank.md",
+    "aliases": [
+      "知识银行",
+      "World Bank as Knowledge Bank",
+      "Knowledge-Based Development Bank"
+    ]
+  },
+  {
     "title": "Learning Gap",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Learning Gap.md",
@@ -1307,6 +1317,16 @@
       "travelling policies",
       "travelling reforms",
       "旅途改革"
+    ]
+  },
+  {
+    "title": "Warehousing of Good Practices",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Warehousing of Good Practices.md",
+    "aliases": [
+      "最佳实践仓储",
+      "最佳实践政策仓库",
+      "Good Practices Repository"
     ]
   },
   {
@@ -19305,6 +19325,16 @@
     ]
   },
   {
+    "title": "Organisation for European Economic Co-operation",
+    "type": "fact",
+    "path": "wiki/facts/global/Organisation for European Economic Co-operation.md",
+    "aliases": [
+      "OEEC",
+      "欧洲经济合作组织",
+      "European Economic Co-operation"
+    ]
+  },
+  {
     "title": "Regional University Alliances",
     "type": "fact",
     "path": "wiki/facts/global/Regional University Alliances.md",
@@ -19320,6 +19350,16 @@
       "斯坦福监狱实验",
       "Stanford Prison Experiment (SPE)",
       "Zimbardo Prison Experiment"
+    ]
+  },
+  {
+    "title": "World Bank Education Sector Policy Paper 1980",
+    "type": "fact",
+    "path": "wiki/facts/global/World Bank Education Sector Policy Paper 1980.md",
+    "aliases": [
+      "Education Sector Policy Paper 1980",
+      "世界银行1980年教育部门政策文件",
+      "World Bank 1980 Education Paper"
     ]
   },
   {

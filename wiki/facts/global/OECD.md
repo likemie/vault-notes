@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 67
+fact_related_count: 68
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -72,6 +72,7 @@ related_persons:
   - "[[Jarl Bengtsson]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Organisation for European Economic Co-operation]]"
   - "[[Economics of Education Movement]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Comparative Education Center at Chicago 1958]]"
@@ -112,7 +113,7 @@ updated: 2026-09-12
 > 经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD，简称经合组织）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构在后冷战时代演进为[[Global Education Governing Complex|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage|政策中介]]与[[Peer Debriefing|同行审议]]为基础的[[Governing at a Distance|远处治理]]（Governing at a Distance）模式，系统地将各成员国教育体系重塑为服务于[[Human Capital Theory|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1961年正式改组成立（其前身为 1948 年为管理马歇尔计划而设立的欧洲经济合作组织（Organisation for European Economic Co-operation，OEEC））；深层背景为冷战前沿地缘政治对抗与美国[[Economics of Education Movement|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
+> - **成立时间 / 创设背景** 1961年正式改组成立（其前身为 1948 年为管理马歇尔计划而设立的[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC））；深层背景为冷战前沿地缘政治对抗与美国[[Economics of Education Movement|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
 > - **总部地点 / 业务辐射** 总部位于法国巴黎；业务直接覆盖 38 个正式成员国及全球数十个伙伴国家和经济体，对世界教育政策议程具有全局性辐射力。
 > - **法人属性与经费基础** 超国家政府间国际组织（Intergovernmental Organization）；由各成员国按国民经济规模按比例分摊的核心法定预算、自愿性专项捐款及各国出资的测评项目联合经费维持运作。
 > - **核心宗旨与法定职责** 致力于促进实现成员国最高水平的可持续经济增长、充分就业及民众生活水平提升；在教育领域旨在提供客观且高度跨国可比的循证证据，引导公共教育投资的合理化配置。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
@@ -124,7 +125,7 @@ updated: 2026-09-12
 经合组织的教育治理职能并非自创设起就天然具备，而是伴随冷战地缘博弈、比较教育学科[[Paradigm|范式转换]]与新自由主义全球治理技术的发展经历了深刻转型。
 
 > [!dev-timeline]- 组织发展历程
-> - **1948–1960 — 欧洲经济合作组织（OEEC）的奠基** 美国政府为管理二战后欧洲复兴的马歇尔计划而主导创立 OEEC。该援助框架从一开始就将科技人力供给与西欧工业复兴紧密绑定，为后来的教育规划奠定了技术官僚雏形。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
+> - **1948–1960 — [[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）的奠基** 美国政府为管理二战后欧洲复兴的马歇尔计划而主导创立 OEEC。该援助框架从一开始就将科技人力供给与西欧工业复兴紧密绑定，为后来的教育规划奠定了技术官僚雏形。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
 >   - 1957 苏联人造卫星（[[Sputnik Shock 1957|Sputnik]]）升空引发西方世界的科技危机与教育动员浪潮。
 >   - 1958 [[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
 > - **1961–1970s — OECD 改组与冷战“[[Development Turn in Comparative Education|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态竞争的制度堡垒。在[[Economics of Education Movement|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动了比较教育的[[Development Turn in Comparative Education|发展转向]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]

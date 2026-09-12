@@ -11,9 +11,9 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -43,6 +43,7 @@ related_instruments: []
 related_persons:
   - "[[Philip H. Coombs]]"
 related_facts:
+  - "[[Organisation for European Economic Co-operation]]"
   - "[[OECD]]"
   - "[[1961 Policy Conference on Economic Growth and Investment in Education]]"
   - "[[Mediterranean Regional Project]]"
@@ -67,7 +68,7 @@ updated: 2026-09-12
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1960 年 6 月，意大利科莫湖畔贝拉吉奥（Villa Serbelloni，洛克菲勒基金会贝拉吉奥研究中心）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
-> - **核心当事主体** 洛克菲勒基金会、欧洲经济合作组织（OEEC，[[OECD|经合组织]]前身）、西奥多·舒尔茨（Theodore W. Schultz）、爱德华·德尼森（Edward F. Denison）、阿瑟·刘易斯（W. Arthur Lewis）、约翰·瓦齐（John Vaizey）以及欧美核心财政与教育规划官员。
+> - **核心当事主体** 洛克菲勒基金会、[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC，[[OECD|经合组织]]前身）、西奥多·舒尔茨（Theodore W. Schultz）、爱德华·德尼森（Edward F. Denison）、阿瑟·刘易斯（W. Arthur Lewis）、约翰·瓦齐（John Vaizey）以及欧美核心财政与教育规划官员。
 > - **深层制度与社会背景** 1957 年苏联斯普特尼克人造卫星升空引发西方科技人才恐慌；冷战美苏阵营争夺全球南方不结盟国家的对外援助竞争白热化；战后传统财政学将教育视为“纯消费性福利负担”的旧[[Paradigm|范式]]无法回应第三世界工业化起飞的技术诉求。
 > - **直接导火索 / 触发事件** 亚非拉大批新独立主权国家爆发对受过教育的技术官僚与工程人员的迫切需求，促使西方主要慈善基金会与欧洲经济合作机构联合寻求全新的教育投资规划模型。
 
@@ -77,7 +78,7 @@ updated: 2026-09-12
 
 > [!dev-timeline]- 事件推进历程
 > - **1959–1960 — 危机酝酿与跨学科筹备**
->   - 洛克菲勒基金会联合欧洲经济合作组织（OEEC）理事会，选定贝拉吉奥作为秘密学术与[[Policy Brokerage|政策中介]]孵化基地，邀请芝加哥大学舒尔茨等顶尖经济学家起草关于教育与经济生产力的[[Blue Skies Research|基础研究]]备忘录。
+>   - 洛克菲勒基金会联合[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）理事会，选定贝拉吉奥作为秘密学术与[[Policy Brokerage|政策中介]]孵化基地，邀请芝加哥大学舒尔茨等顶尖经济学家起草关于教育与经济生产力的[[Blue Skies Research|基础研究]]备忘录。
 > - **1960-06 — 贝拉吉奥峰会召开与[[Paradigm|范式]]对决**
 >   - 经济学家与传统教育官僚展开交锋：舒尔茨系统提出[[Human Capital Theory|人力资本]]概念，瓦齐与刘易斯论证教育投入对国民生产总值的直接拉动效应；会议达成一致共识，正式确立“教育是生产性经济投资”的西方共同施政纲领。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **1961–1968 — 成果制度化与全球危机叙事三部曲演进**
@@ -98,7 +99,7 @@ updated: 2026-09-12
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 经济学家集团** 舒尔茨、德尼森、刘易斯 — 依托计量经济学与增长残差模型，力证教育投资具备极高的资本回报率，主张将教育部门彻底纳入国家经济发展规划。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
-> - **多边组织与慈善资本** OEEC 理事会、洛克菲勒基金会、福特基金会 — 寻求冷战背景下超越传统军事援助的新型[[Soft Power|软实力]]规制杠杆，主张以技术官僚援助重构第三世界政权。
+> - **多边组织与慈善资本** [[Organisation for European Economic Co-operation|OEEC]] 理事会、洛克菲勒基金会、福特基金会 — 寻求冷战背景下超越传统军事援助的新型[[Soft Power|软实力]]规制杠杆，主张以技术官僚援助重构第三世界政权。
 > - **传统人文教育防御者** 传统欧陆大学校长与保守派教育部官员 — 担忧经济功利主义侵蚀自由[[Bildung|教化]]（[[Liberal Education]]）传统，抵制将学生降格为劳动力要素与工业机器配件。
 > - **广大第三世界受援国** 迫切渴望摆脱后殖民贫困与技术依赖，急需获取西方优惠资本与师训支持，但缺乏独立制定宏观教育规划的专业能力。
 

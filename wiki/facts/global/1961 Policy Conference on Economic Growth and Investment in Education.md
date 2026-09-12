@@ -12,7 +12,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Organisation for European Economic Co-operation]]"
   - "[[Mediterranean Regional Project]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
@@ -64,7 +65,7 @@ updated: 2026-09-12
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1961 年 10 月 16–20 日，美国华盛顿特区。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **核心当事主体** 经济合作与发展组织（OECD）秘书处、美国肯尼迪政府（国务院与国际开发总署）、西方主要发达成员国教育与财政部长，以及以西奥多·舒尔茨（Theodore W. Schultz）、爱德华·丹尼森（Edward Denison）和扬·廷伯根（Jan Tinbergen）为代表的经济学家群体。
-> - **深层制度与社会背景** 冷战大西洋阵营地缘政治对峙；1957 年苏联[[Sputnik Shock 1957|斯普特尼克冲击]]引发西方技术人才恐慌；欧洲经济合作组织（OEEC）于 1960–1961 年正式改组为经合组织（OECD），急需开辟全新制度疆域以协调跨国资本积累与生产力规划。
+> - **深层制度与社会背景** 冷战大西洋阵营地缘政治对峙；1957 年苏联[[Sputnik Shock 1957|斯普特尼克冲击]]引发西方技术人才恐慌；[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）于 1960–1961 年正式改组为经合组织（OECD），急需开辟全新制度疆域以协调跨国资本积累与生产力规划。
 > - **直接导火索 / 触发事件** 1960 年意大利贝拉吉奥（Bellagio）跨国专家会议倡议各国将教育投资与国家发展规划挂钩；美国行政当局力促 OECD 确立十年经济增长 50% 的跨国宏伟目标，迫切需要对人力资源供给提供标准化模型测算。
 
 ---
