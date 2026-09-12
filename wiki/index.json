@@ -19611,6 +19611,17 @@
     ]
   },
   {
+    "title": "Mediterranean Regional Project",
+    "type": "fact",
+    "path": "wiki/facts/global/Mediterranean Regional Project.md",
+    "aliases": [
+      "地中海区域项目",
+      "MRP",
+      "OECD MRP",
+      "地中海地区教育规划项目"
+    ]
+  },
+  {
     "title": "OECD AHELO Project",
     "type": "fact",
     "path": "wiki/facts/global/OECD AHELO Project.md",

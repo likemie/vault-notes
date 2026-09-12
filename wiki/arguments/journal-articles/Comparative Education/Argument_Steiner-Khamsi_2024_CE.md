@@ -85,6 +85,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Global Partnership for Education]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Mediterranean Regional Project]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[A Nation at Risk 1983]]"
   - "[[International Indicators of Education Systems]]"
@@ -120,7 +121,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 81
+argument_related_count: 82
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -245,7 +246,7 @@ issuing_organization: ""
 >
 > - **1960–1970年代 — 控制论规划与技术官僚式人力预测**
 >
->   为应对计划经济体制的竞争，经合组织模仿其长期规划模式，引入控制论与[[Human Capital Theory|人力资本理论]]，推行专注于劳动力市场需求预测的技术官僚式[[Manpower Requirements Approach|人力需求预测法]]（Manpower Requirements Approach，MRA / 人力规划）。（p.541）
+>   为应对计划经济体制的竞争，经合组织模仿其长期规划模式，引入控制论与[[Human Capital Theory|人力资本理论]]，联合南欧六国实施战后首个跨国宏观规划工程[[Mediterranean Regional Project|地中海区域项目]]（Mediterranean Regional Project，MRP），推行专注于劳动力市场需求预测的技术官僚式[[Manpower Requirements Approach|人力需求预测法]]（Manpower Requirements Approach，MRA / 人力规划）。（p.541）
 >
 > - **1980年代 — 教育标准确立与跨国指标项目起步**
 >

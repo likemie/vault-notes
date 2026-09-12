@@ -12,7 +12,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Mediterranean Regional Project]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
   - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
@@ -74,7 +75,7 @@ updated: 2026-09-12
 >   - 1961-09 OECD 成立条约正式生效，秘书长托基尔·克里斯滕森（Thorkil Kristensen）强调教育是经济增长的关键瓶颈。
 > - **1961-10 — 华盛顿会议召开与[[Paradigm|范式]]决战** 大西洋两岸政要与经济学者汇聚华盛顿，丹尼森发布关于教育对美国经济增长贡献的测算报告，确立人力规划与教育财政倍增的战略共识。
 >   - 1961-10-18 美国国务卿迪恩·腊斯克（Dean Rusk）与肯尼迪助理国务卿[[Philip H. Coombs|菲利普·H·库姆斯]]（Philip H. Coombs）发表主旨演讲，宣告教育规划是自由世界生存与现代化的关键武器。
-> - **1962–1965 — 成果制度化与地中海项目落地** 会议成果汇编为五卷本《政策会议报告》（*Policy Conference on Economic [[Growth]] and Investment in Education*），推动 OECD 正式启动地中海区域项目（Mediterranean Regional Project，MRP），率先在希腊、意大利、西班牙、土耳其等国实施标准化人力预测与规划模型。
+> - **1962–1965 — 成果制度化与地中海项目落地** 会议成果汇编为五卷本《政策会议报告》（*Policy Conference on Economic [[Growth]] and Investment in Education*），推动 OECD 正式启动[[Mediterranean Regional Project|地中海区域项目]]（Mediterranean Regional Project，MRP），率先在希腊、意大利、西班牙、土耳其等国实施标准化人力预测与规划模型。
 
 ---
 
@@ -117,7 +118,7 @@ updated: 2026-09-12
 
 > [!finding-cards] 关键历史后果
 > - **[[Education-for-Mandates|使命性教育嵌入]]制度化** 为 [[OECD]] 等非教育国际组织奠定了“教育服务于使命”（[[Education-for-Mandates]]）的示范模式，开启了战后多边经济组织反客为主统治全球教育议程的历史潮流。
-> - **地中海区域项目（MRP）样板** 催生了战后首个跨国量化教育规划工程，首次将规范的人力需求预测模型在大规模区域实地落地，成为后续跨国教育统计分析的原型。
+> - **[[Mediterranean Regional Project|地中海区域项目]]（MRP）样板** 催生了战后首个跨国量化教育规划工程，首次将规范的人力需求预测模型在大规模区域实地落地，成为后续跨国教育统计分析的原型。
 > - **从规划扩张走向指标规制** 随着 1970 年代滞胀与财政紧缩，华盛顿会议所确立的“增加投资驱动增长”逻辑反向逆转为“检验投资效率与产出效益”，直接倒逼经合组织转型研发 [[International Indicators of Education Systems|INES]] 与 [[PISA]]。
 
 ---

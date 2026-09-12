@@ -10,7 +10,7 @@ summary: "一种在宏观教育与经济规划中运用的定量预测方法。�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_persons:
   - "[[George Psacharopoulos]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Mediterranean Regional Project]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -60,7 +61,7 @@ updated: 2026-09-12
 > [!method-scope] 方法范围
 > - **研究对象** 宏观国民经济产业结构、行业劳动力总量、职业技术系数矩阵以及各级各类教育系统的学额供给链。
 > - **问题类型** 宏观预测与规范性配额规划问题（“为实现 GDP 年均增长 X%，教育系统在未来十年必须培养多少特定专业毕业生？”）。
-> - **[[Unit of Analysis|分析单位]]** 国家、跨国区域联盟（如 [[OECD]] 地中海区域项目 MRP）或省级宏观行政区划。
+> - **[[Unit of Analysis|分析单位]]** 国家、跨国区域联盟（如 [[OECD]] [[Mediterranean Regional Project|地中海区域项目]] MRP）或省级宏观行政区划。
 > - **输出形式** 多年期教育扩张指标表、专业招生计划指导目录、师资培养配额及教育财政资本性支出预算方案。
 
 > [!citation-card] 经合组织早期人力规划的技术官僚属性与五年计划模仿
@@ -100,7 +101,7 @@ updated: 2026-09-12
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据结构** 部门产出时序数据与宏观职业教育二维列联交叉矩阵。
 > - **核心变量** 目标年份部门产出 $Y_{j,t}$、部门劳动力 $L_{j,t}$、各职业岗位规模 $L_{jk,t}$、受过各级教育的劳动力 $L_{jke,t}$。
-> - **模型架构** 帕内斯（Herbert S. Parnes, 1962）MRP 标准解构模型。
+> - **模型架构** 帕内斯（Herbert S. Parnes, 1962）[[Mediterranean Regional Project|MRP]] 标准解构模型。
 
 > [!formula-step] 公式步骤　教育合格劳动力需求连乘分解模型
 > $$L_{e,t} = \sum_{j} \sum_{k} \left( Y_{j,t} 	imes rac{L_{j,t}}{Y_{j,t}} 	imes rac{L_{jk,t}}{L_{j,t}} 	imes rac{L_{jke,t}}{L_{jk,t}} 
@@ -157,7 +158,7 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 > | [[Human Capital Theory]] | 理论 | 为人力规划将劳动力技能视作生产性资产提供核心经济学学理支撑。 |
 > | [[Return on Investment]] | 替代方法 | [[George Psacharopoulos\|乔治·萨卡罗普洛斯]]开创的教育投资回报率法，强调市场价格信号与收益成本权衡，与人力规划构成战后教育经济学两大论敌。 |
 > | [[Performance Indicators]] | 延伸方法 | [[OECD\|经合组织]]在 1970 年代人力规划破产后，演化出的基于指标与基准测试的现代化治理工具箱。 |
-> | [[OECD]] | 事实 | 1960 年代在地中海区域项目（MRP）中系统推行并完善人力需求预测法的核心多边机构。 |
+> | [[OECD]] | 事实 | 1960 年代在[[Mediterranean Regional Project\|地中海区域项目]]（MRP）中系统推行并完善人力需求预测法的核心多边机构。 |
 
 ---
 

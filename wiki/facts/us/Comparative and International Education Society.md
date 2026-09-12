@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_persons:
   - "[[Robert Cowen]]"
 related_facts:
   - "[[Economics of Education Movement]]"
+  - "[[Mediterranean Regional Project]]"
   - "[[OECD]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Comparative Education Society in Europe]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-08
-updated: 2026-09-06
+updated: 2026-09-12
 ---
 
 # Comparative and International Education Society
@@ -80,7 +81,7 @@ updated: 2026-09-06
 
 > [!dev-timeline] 学会历史演进节点
 > - **1956：比较教育学会（CES）在美创立** 战后比较教育学在大学中加速专业化，美国学者在纽约正式创立 CES，旨在推动国家间公共教育制度的哲学与历史对比研究。
-> - **1950年代末–1960年代：结构功能主义渗透与对外援助绑定** 受到冷战意识形态动员及美国[[Economics of Education Movement|教育经济学运动]]的驱使，学会深受结构功能主义影响，大批学者出任美援项目与地中海区域项目的专家顾问，学术研究与开发干预的界线趋于模糊。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
+> - **1950年代末–1960年代：结构功能主义渗透与对外援助绑定** 受到冷战意识形态动员及美国[[Economics of Education Movement|教育经济学运动]]的驱使，学会深受结构功能主义影响，大批学者出任美援项目与[[Mediterranean Regional Project|地中海区域项目]]的专家顾问，学术研究与开发干预的界线趋于模糊。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 > - **1969：词汇突变与正式更名为 CIES** 学会决议在名称中植入 International 一词作为修饰或并置，正式更名为比较与[[International Education|国际教育]]学会（CIES），标志着学术共同体在建制与元[[Epistemology|认识论]]上全面对接多边开发援助议程。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
 > - **1970年代至今：全球最大比较教育学社的发展与多维[[Paradigm|范式]]博弈** 学会规模迅速扩张，由[[George Bereday|乔治·贝雷迪]]（George Bereday）创刊的旗舰学术期刊《比较教育评论》（*Comparative Education Review*, CER）成为全球思想高地；在[[Harold Noah|哈罗德·诺亚]]（Harold Noah，1976–1977 年会长）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein，1988–1989 年会长）等历任会长领航下，在[[Dependency Theory|依附理论]]与后殖民思潮的冲击下，成为[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]与[[Revolutionism|革命主义]]等多维学术[[Paradigm|范式]]交锋的核心论坛。
 > - **2000年代：史料档案挖掘与口述史抢救工程** 学会在美国各大顶尖大学积累了浩瀚的历史档案，但面临青年学者研究激励不足的困境；彼得·哈克特（Peter Hackett）与理查德·拉帕茨（Richard Rapacz）等学者留下了珍贵的私人学术通信；[[Gita Steiner-Khamsi|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi）等人率先开启口述史工程，抢救被官方档案遗漏的活态学会记忆。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
@@ -136,4 +137,4 @@ updated: 2026-09-06
 > | [[International Education]] | 概念 | CIES 的合并标志着应用政策实务流派与纯基础学术流派在建制上的合流。 |
 > | [[Comparative Education Center at Chicago 1958]] | 事实 | 战后美国最核心的学科重镇，其主要成员亦是 CIES 创立与演进的重要领导力量。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 跨大西洋姊妹学会，在制度取向、[[Rationalism in International Relations\|理性主义]]追求与学会史编纂上形成鲜明对照。 |
-> | [[OECD]] | 事实 | CIES 的专家网络与经合组织的地中海区域项目等开发援助工程存在广泛互动。 |
+> | [[OECD]] | 事实 | CIES 的专家网络与经合组织的[[Mediterranean Regional Project\|地中海区域项目]]等开发援助工程存在广泛互动。 |

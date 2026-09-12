@@ -7,10 +7,10 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 30
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 33
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - economics-of-education
   - educational-planning
@@ -38,6 +38,7 @@ related_concepts:
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
+  - "[[Manpower Requirements Approach]]"
   - "[[Pre-test and Post-test]]"
   - "[[Analytic Framework]]"
 related_instruments: []
@@ -47,6 +48,8 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Mediterranean Regional Project]]"
+  - "[[1960 Bellagio Conference]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
@@ -145,7 +148,7 @@ updated: 2026-09-12
 > ```
 
 > [!exegesis]- 教育规划与综合中学运动的实证案例
-> 在 1960 年代 OECD 推动的地中海地区项目（Mediterranean Regional Project，MRP）以及英美等国的综合学校（Comprehensive School）运动中，政策制定者深度动用了人力资本理论。一方面，技术官僚依据帕恩斯（Herbert Parnes, 1962）的人力需求模型，测算未来二十年工业升级所需的工程师与技术人员配额，以此作为中央财政向中等与高等教育大幅追加拨款的铁证；另一方面，当经济陷入周期性失业或文凭贬值时，行政部门便以“劳动力市场结构调整与滞[[Pre-test and Post-test|后测]]算”为技术由头规避问责，充分展现了该理论作为政策护甲与合法化借口的双重功能。
+> 在 1960 年代 OECD 推动的地中海地区项目（[[Mediterranean Regional Project]]，MRP）以及英美等国的综合学校（Comprehensive School）运动中，政策制定者深度动用了人力资本理论。一方面，技术官僚依据帕恩斯（Herbert Parnes, 1962）的人力需求模型，测算未来二十年工业升级所需的工程师与技术人员配额，以此作为中央财政向中等与高等教育大幅追加拨款的铁证；另一方面，当经济陷入周期性失业或文凭贬值时，行政部门便以“劳动力市场结构调整与滞[[Pre-test and Post-test|后测]]算”为技术由头规避问责，充分展现了该理论作为政策护甲与合法化借口的双重功能。
 > 
 > 在跨国治理维度上，世界银行自 1980 年代起依托 Psacharopoulos 主导的教育收益率大样本跨国数据库，持续将初等教育的高回报率作为强加给第三世界借款国的政策处方，将原本具有高度不确定性的教育过程简化为确定性的金融贴现资产，构成了冷战后国际组织以数据统治教育的经典案例。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
@@ -181,7 +184,7 @@ updated: 2026-09-12
 > [!dev-timeline] 发展脉络
 > - **1957–1961 — 冷战冲击与国际政策正统确立** 1957 年苏联人造卫星升空引发[[Sputnik Shock 1957|斯普特尼克冲击]]，迫使西方世界将学校教育界定为科技专才的供给母体；欧洲经济合作组织（Organisation for European Economic Co-operation，OEEC）与改组后的[[OECD|经合组织]]（OECD）将自身重新定位为“经济北约”和世界一流教育先锋，引入控制论与人力资本理论开展大规模劳动力市场需求预测；1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]、1961 年华盛顿经合组织“经济增长与教育投资”政策会议全面确立人力资本政策正统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 > - **1960–1964 — 理论经典奠基** 西奥多·舒尔茨（Theodore W. Schultz）发表《人力资本投资》（1961）与《教育的经济价值》（1963），加里·贝克尔（Gary S. Becker）出版《人力资本》（1964），系统确立以个人与社会收益率为核心的新古典微观与宏观[[Analytic Framework|分析框架]]。
-> - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 OECD 地中海地区项目（MRP），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数，人力资本理论成为比较教育“[[Development Turn in Comparative Education|发展转向]]”与战后国家规划的核心支柱。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
+> - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 OECD 地中海地区项目（[[Mediterranean Regional Project|MRP]]），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数，人力资本理论成为比较教育“[[Development Turn in Comparative Education|发展转向]]”与战后国家规划的核心支柱。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
 > - **1970 年代中叶 — [[Paradigm|范式]]危机与反思** 经济滞胀爆发，[[Credential Inflation|文凭通胀]]与青年失业打破了教育投资必然带动经济繁荣的神话，[[Torsten Husén|托斯滕·胡森]]（Torsten Husén, 1982）指出实证规划承诺全面破灭。
 > - **1980–1990 年代 — 世界银行放贷帝国与内生增长** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；罗伯特·卢卡斯（Robert Lucas, 1988）将人力资本作为内生经济增长模型的核心。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **2000 年代至今 — 全球指标治理与测评帝国再融合** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）网络、《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG）与[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）跨国技能测试中被深度重构为“全球[[Knowledge-Based Economy|知识经济]]竞争力”治理框架，从粗放投入预测转向基于测评数据的产出绩效规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]

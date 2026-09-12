@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 59
+fact_related_count: 60
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[International Institute for Educational Planning]]"
+  - "[[Mediterranean Regional Project]]"
   - "[[A Nation at Risk 1983]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[International Indicators of Education Systems]]"
@@ -120,7 +121,7 @@ updated: 2026-09-12
 >   - 1957 苏联人造卫星（[[Sputnik Shock 1957|Sputnik]]）升空引发西方世界的科技危机与教育动员浪潮。
 >   - 1958 [[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
 > - **1961–1970s — OECD 改组与冷战“[[Development Turn in Comparative Education|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态竞争的制度堡垒。在[[Economics of Education Movement|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动了比较教育的[[Development Turn in Comparative Education|发展转向]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]
->   - 1962 启动著名的地中海地区项目（Mediterranean Regional Project，MRP），将[[Human Capital Theory|人力资本理论]]系统转化为南欧各国的国家教育发展规划。
+>   - 1962 启动著名的地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory|人力资本理论]]系统转化为南欧各国的国家教育发展规划。
 > - **1980s–1990s — 指标体系建构与管理主义转向** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向经合组织下设的[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI），委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
 > - **2000–至今 — 大数据时代、[[Governing at a Distance|远处治理]]与[[Policy Brokerage|政策中介]]深化** 2000 年推出首轮 [[PISA]] 测评，随后扩展至教师教学国际调查（Teaching and Learning International Survey，TALIS）、国际成人能力评估项目（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（PISA for Development，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，更通过深度工具打包，将其跨国测评与外向型国别横向借鉴相结合，演进为全球教育政策知识的重要中介者与规范制定者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 
@@ -165,7 +166,7 @@ updated: 2026-09-12
 >
 > *The aims of the Organisation for Economic Co-operation and Development shall be to promote policies designed: (a) to achieve the highest sustainable economic [[Growth]] and employment and a rising standard of living in Member countries... (b) to contribute to sound economic expansion in Member as well as non-member countries... and (c) to contribute to the expansion of world trade on a multilateral, non-discriminatory basis...*
 
-> [!citation-card] 《地中海区域项目报告》（1962年）
+> [!citation-card] 《[[Mediterranean Regional Project|地中海区域项目]]报告》（1962年）
 > 地中海区域项目（Mediterranean Regional Project）是经合组织在教育领域的第一个重大制度实践。它将成员国（如意大利、西班牙、葡萄牙、希腊、土耳其和南斯拉夫）的教育规划与未来十五年经济发展的预期[[Human Capital Theory|人力资本]]需求挂钩，系统地将教育投入重构为经济“投资”，成为冷战“[[Development Turn in Comparative Education|发展转向]]”期间将人力资本理论转化为国家政策模板的关键蓝本。
 >
 > *The Mediterranean Regional Project (MRP) represents the first major attempt by the OECD to relate educational planning to economic growth, setting a template for translating human capital theory into national educational plans.*

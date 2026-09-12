@@ -11,7 +11,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[1961 Policy Conference on Economic Growth and Investment in Education]]"
+  - "[[Mediterranean Regional Project]]"
   - "[[International Institute for Educational Planning]]"
   - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
 related_arguments:
@@ -80,7 +81,7 @@ updated: 2026-09-12
 > - **1960-06 — 贝拉吉奥峰会召开与[[Paradigm|范式]]对决**
 >   - 经济学家与传统教育官僚展开交锋：舒尔茨系统提出[[Human Capital Theory|人力资本]]概念，瓦齐与刘易斯论证教育投入对国民生产总值的直接拉动效应；会议达成一致共识，正式确立“教育是生产性经济投资”的西方共同施政纲领。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **1961–1968 — 成果制度化与全球危机叙事三部曲演进**
->   - 贝拉吉奥会议成果直接递交新成立的[[OECD|经合组织]]（OECD），催生了 1961 年[[1961 Policy Conference on Economic Growth and Investment in Education|经合组织华盛顿政策会议]]，并启动首个跨国量化工程“地中海区域项目”（MRP）；随后演进为 1967 年威廉斯堡世界教育危机国际会议与 [[International Institute for Educational Planning|IIEP]] 的创立，完成跨国危机治理模式的制度化定型。
+>   - 贝拉吉奥会议成果直接递交新成立的[[OECD|经合组织]]（OECD），催生了 1961 年[[1961 Policy Conference on Economic Growth and Investment in Education|经合组织华盛顿政策会议]]，并启动首个跨国量化工程“[[Mediterranean Regional Project|地中海区域项目]]”（MRP）；随后演进为 1967 年威廉斯堡世界教育危机国际会议与 [[International Institute for Educational Planning|IIEP]] 的创立，完成跨国危机治理模式的制度化定型。
 
 ---
 
@@ -117,7 +118,7 @@ updated: 2026-09-12
 ## 历史后果与深远影响
 
 > [!indicators]- 历史影响维度
-> - **制度创生与立法** 直接催生了[[OECD|经合组织]]（OECD）成立初期的教育工作序列，奠定了 1961 年华盛顿会议、地中海区域项目（MRP）以及[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（IIEP）的创设基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **制度创生与立法** 直接催生了[[OECD|经合组织]]（OECD）成立初期的教育工作序列，奠定了 1961 年华盛顿会议、[[Mediterranean Regional Project|地中海区域项目]]（MRP）以及[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（IIEP）的创设基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **思想[[Paradigm|范式]]变迁** 彻底终结了“教育无关于经济”的传统教条，将[[Human Capital Theory|人力资本理论]]从边陲异端推向全球主流，开创了现代教育经济学建制化研究的新纪元。
 > - **跨国地缘格局重塑** 开启了战后西方国际组织重塑全球南方教育政策的“[[Development Turn in Comparative Education|发展转向]]”，促使教育成为多边资本调配与意识形态拉拢的战略前沿。
 
