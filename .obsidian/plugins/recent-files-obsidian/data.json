@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "UN Sustainable Development Goals",
-      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
-    },
-    {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Knowledge and Innovation Exchange",
+      "path": "wiki/facts/global/Knowledge and Innovation Exchange.md"
+    },
+    {
+      "basename": "1967 Williamsburg Conference on the World Crisis in Education",
+      "path": "wiki/facts/global/1967 Williamsburg Conference on the World Crisis in Education.md"
+    },
+    {
+      "basename": "Scientific Uncertainty",
+      "path": "wiki/concepts/educational-philosophy/Scientific Uncertainty.md"
+    },
+    {
+      "basename": "Performance Indicators",
+      "path": "wiki/concepts/educational-policy-reform/Performance Indicators.md"
+    },
+    {
+      "basename": "Reference Society",
+      "path": "wiki/concepts/comparative-education/Reference Society.md"
+    },
+    {
+      "basename": "Soft Power",
+      "path": "wiki/concepts/political-economy-geopolitics/Soft Power.md"
+    },
+    {
+      "basename": "UN Sustainable Development Goals",
+      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
     },
     {
       "basename": "Education for All",
@@ -137,10 +161,6 @@
       "path": "wiki/facts/us/Sputnik Shock 1957.md"
     },
     {
-      "basename": "Scientific Uncertainty",
-      "path": "wiki/concepts/educational-philosophy/Scientific Uncertainty.md"
-    },
-    {
       "basename": "Transfer Translation Transformation",
       "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
       "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
-    },
-    {
-      "basename": "Steiner-Khamsi_2024_CE_Fig1_World_of_IOs",
-      "path": "sources/Steiner-Khamsi_2024_CE/figures/Steiner-Khamsi_2024_CE_Fig1_World_of_IOs.jpg"
-    },
-    {
-      "basename": "Policy Brokerage",
-      "path": "wiki/concepts/comparative-education/Policy Brokerage.md"
-    },
-    {
-      "basename": "OECD",
-      "path": "wiki/facts/global/OECD.md"
-    },
-    {
-      "basename": "Steiner-Khamsi_2024_CE",
-      "path": "sources/Steiner-Khamsi_2024_CE/Steiner-Khamsi_2024_CE.md"
-    },
-    {
-      "basename": "Argument_Cowen_2023_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2023_CE.md"
     }
   ],
   "omittedPaths": [],

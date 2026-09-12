@@ -70,6 +70,7 @@ related_instruments: []
 related_persons:
   - "[[Niklas Luhmann]]"
   - "[[George Psacharopoulos]]"
+  - "[[Wendy Espeland]]"
   - "[[Philip H. Coombs]]"
   - "[[Andreas Schleicher]]"
   - "[[John Hattie]]"
@@ -86,6 +87,7 @@ related_facts:
   - "[[1964 UNESCO-World Bank Cooperative Agreement]]"
   - "[[Global Development Network]]"
   - "[[Systems Approach for Better Education Results]]"
+  - "[[1961 Policy Conference on Economic Growth and Investment in Education]]"
   - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
   - "[[International Institute for Educational Planning]]"
   - "[[Common School Movement]]"
@@ -109,7 +111,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 72
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -213,7 +215,7 @@ issuing_organization: ""
 > - **政策情境的歧义性（Ambiguity）** 援引[[Multiple Streams Framework|多源流分析框架]]（Multiple Streams Framework，MSF）关于决策歧义性的理论界定（Zahariadis, 2017），面对同一教育现象往往存在多种互不兼容的理解视角；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
 > - **[[Democratisation of Expertise|专业知识民主化]]带来的公共争议性（Contestation）** 教育领域呈现广泛的[[Democratisation of Expertise|专业知识民主化]]（Democratisation of Expertise）特征，缺乏医学等行业的技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ|场域]]。（p.539）
 > - **未来结果不可验证导致的技术赤字（[[Technology Deficit of Education|Technology Deficit]]）** 教育面临固有的技术赤字（Technology Deficit of Education），由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的风险焦虑，促使中介机构将未来预设为可以通过当下干预来规避的行动方案。（pp.539–540）
-> - **[[Façade of Rationality|数字理性表象]]脚手架（Numbers as Scaffolding for [[Façade of Rationality]]）** 相比质性叙事，量化指标具备理性、精确与普适的话语表象（Façade of Rationality）；政策制定者热衷于数字，是因为数字指标不仅看似客观，更为其依循自身政治意图诠释指标背后的故事预留了充分空间。
+> - **[[Façade of Rationality|数字理性表象]]脚手架（Numbers as Scaffolding for [[Façade of Rationality]]）** 援引[[Wendy Espeland|温迪·埃斯佩兰德]]（Wendy Espeland，2015）与门尼肯（Andrea Mennicken，2019）对量化社会学的理论分析，相比质性叙事，量化指标具备理性、精确与普适的话语表象（Façade of Rationality）；政策制定者热衷于数字，是因为数字指标“激发了叙事”，不仅看似客观，更为其依循自身政治意图讲述“指标意味着什么的故事”预留了充分空间。（Espeland, 2015, p. 65; pp. 539–540）
 
 ---
 
@@ -269,7 +271,7 @@ issuing_organization: ""
 两大先行机构之所以能将硬事实转化为公认的软性规制权力，核心在于熟练运用全球教育危机叙事并借助高规格国际会议展开政策动员。（pp.542–543）
 
 > [!event-context] 战后全球教育危机叙事与国际政策动员节点
-> - **重点会议与政策议程** 1960 年贝拉吉奥会议呼吁以人力资本投资拉动经济增长；1961 年经合组织华盛顿政策会议聚焦教育投资；1967 年[[1967 Williamsburg Conference on the World Crisis in Education|弗吉尼亚威廉斯堡世界教育危机国际会议]]全面掀起全球危机舆论。
+> - **重点会议与政策议程** 1960 年贝拉吉奥会议呼吁以人力资本投资拉动经济增长；1961 年[[1961 Policy Conference on Economic Growth and Investment in Education|经合组织华盛顿政策会议]]聚焦教育投资；1967 年[[1967 Williamsburg Conference on the World Crisis in Education|弗吉尼亚威廉斯堡世界教育危机国际会议]]全面掀起全球危机舆论。
 > - **代表人物与普适话语** [[Philip H. Coombs|菲利普·H·库姆斯]]（Philip H. Coombs）身兼肯尼迪政府助理国务卿与[[International Institute for Educational Planning|国际教育规划研究所]]首任所长，其 1968 年名著《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*）将教育危机普遍化并推向全球。（p.542）
 > - **美国政策报告的催化效应** 1983 年美国《国家处在危险之中》报告将教育体系的不振视为国家落后于西德、日本和苏联的根源，直接催生了跨国可比指标的制度化研发需求。（pp.542–543）
 > - **危机叙事的治理机制** 通过周期性渲染教育落后危机，跨国比较使得排名带来的命名与羞辱机制常规化，为国际组织长期扮演不可替代的政策中介提供了持续的政治动力。（p.543）
@@ -277,7 +279,7 @@ issuing_organization: ""
 > [!dev-timeline]- 战后全球教育危机叙事与政策动员演进时间轴
 > - **1957 — [[Sputnik Shock 1957|斯普特尼克冲击]]（Sputnik Shock）** 苏联首颗人造地球卫星升空震撼西方世界，触发大西洋两岸对科技人力断层与国家安全脆弱性的极端恐慌，促使西方阵营将[[Common School Movement|公共学校]]教育系统重构为冷战科技军备竞赛的前沿阵地。（p.541）
 > - **1960 — 贝拉吉奥会议（Bellagio Conference）** 欧美多边战略智囊在意大利贝拉吉奥集会，呼吁西方阵营和新兴独立主权国家全面采纳[[Human Capital Theory|人力资本理论]]，通过大规模扩张教育公共财政投入拉动经济增长以抵御冷战意识形态渗透。
-> - **1961 — [[OECD|经合组织]]华盛顿政策会议** 欧洲经济合作组织改组为经合组织并被确立为“经济北约”，其华盛顿会议聚焦“经济增长与教育投资”，奠定了经济协调组织将教育视作生产要素、向全球南方输出人力预测模型的治理正当性。
+> - **1961 — [[1961 Policy Conference on Economic Growth and Investment in Education|经合组织华盛顿政策会议]]** 欧洲经济合作组织改组为经合组织并被确立为“经济北约”，其华盛顿会议聚焦“经济增长与教育投资”，奠定了经济协调组织将教育视作生产要素、向全球南方输出人力预测模型的治理正当性。
 > - **1967 — [[1967 Williamsburg Conference on the World Crisis in Education|弗吉尼亚威廉斯堡世界教育危机国际会议]]** 由菲利普·库姆斯（Philip H. Coombs）领衔召集，汇聚跨国政学界精英，正式将教育供需失衡、体制僵化与成本失控诊断为超越个别主权国家疆界的普世系统性危机。（pp.541–542）
 > - **1968 — 库姆斯出版《世界教育危机：系统分析》** [[International Institute for Educational Planning|联合国教科文组织教育规划研究所]]（IIEP）正式出版该里程碑专著，确立了跨国多边组织通过建构“全球危机”叙事来拓展自身规制授权、实施专业技术干预的经典制度范式。（p.542）
 > - **1980 — 世界银行《教育部门政策文件》与收益率自立门户** 世界银行彻底脱离联合国教科文组织的人文主义路线，依托 1,120 项教育收益率数据库推行初等教育优先放贷，将危机转译为全球南方借贷国结构调整的量化治理门槛。（pp.541–542, 548）

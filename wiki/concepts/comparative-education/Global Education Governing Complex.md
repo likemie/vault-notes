@@ -72,7 +72,7 @@ updated: 2026-09-12
 > - **边界** 不等于传统的联合国多边官僚体系，亦非单纯的市场化商业集团，而是公共与私营权力紧密缠绕的混合治理网络。
 
 > [!citation-card] 全球教育治理复合体的权力机制
-> 目前，教育领域的五大巨头（全球教育伙伴关系、经合组织、教科文组织、儿童基金会、世界银行）都在以硬事实施展软权力。五大组织与其资助者（成员国、商业企业、私人基金会）共同构成了全球教育治理复合体；该复合体将特定类型的知识——可量化、可比较且可标准化的知识——武器化，以此要求各国政府为实现国际目标和基准承担问责责任。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
+> 目前，教育领域的五大巨头（全球教育伙伴关系、经合组织、教科文组织、儿童基金会、世界银行）都在以硬事实施展[[Soft Power|软权力]]。五大组织与其资助者（成员国、商业企业、私人基金会）共同构成了全球教育治理复合体；该复合体将特定类型的知识——可量化、可比较且可标准化的知识——武器化，以此要求各国政府为实现国际目标和基准承担问责责任。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 >
 > *By now, all Big Five in the education sector (Global Partnership for Education, OECD, UNESCO, UNICEF, World Bank) exert '[[Soft Power]] by hard facts' (Niemann and Martens 2018). Combined, the Big Five and their funders (member states, businesses, private foundations) constitute a 'global education governing complex' (Ydesen 2019) that weaponises a particular kind of knowledge – quantifiable, comparable, and standardizable – in order to hold governments accountable for the achievement of international goals and targets.*
 
@@ -146,7 +146,7 @@ updated: 2026-09-12
 > 分析复合体如何在缺乏强制制裁权的情境下，通过数据技术维持对主权国家的有效调控。
 
 > [!claim] Ydesen (2019); [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **硬事实充当跨国规制的强制性替代物** 全球教育治理复合体的权力运作高度依赖对量化、标准化与可比较知识的技术垄断；通过大型国际评估（如[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA））与基准数据库，复合体将去情境化的表现指标转化为问责杠杆，诱发国际排名与“点名羞辱”（naming and shaming）机制，从而在国家主权边界内部驱动政策重构。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549)]]
+> **硬事实充当跨国规制的强制性替代物** 全球教育治理复合体的权力运作高度依赖对量化、标准化与可比较知识的技术垄断；通过大型国际评估（如[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA））与基准数据库，复合体将去情境化的[[Performance Indicators|表现指标]]转化为问责杠杆，诱发国际排名与“点名羞辱”（naming and shaming）机制，从而在国家主权边界内部驱动政策重构。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549)]]
 
 ---
 

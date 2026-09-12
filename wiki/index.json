@@ -1117,7 +1117,9 @@
       "参考社会",
       "参照社会",
       "model society",
-      "模范社会"
+      "模范社会",
+      "参照国",
+      "参照体系"
     ]
   },
   {
@@ -3795,7 +3797,9 @@
       "绩效指标",
       "education indicators",
       "教育指标",
-      "policy instruments"
+      "policy instruments",
+      "表现指标",
+      "评估指标"
     ]
   },
   {
@@ -6721,7 +6725,10 @@
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Soft Power.md",
     "aliases": [
-      "软实力"
+      "软实力",
+      "软权力",
+      "soft power",
+      "软性权力"
     ]
   },
   {
@@ -17880,6 +17887,16 @@
     ]
   },
   {
+    "title": "Wendy Espeland",
+    "type": "person",
+    "path": "wiki/persons/us/Wendy Espeland.md",
+    "aliases": [
+      "温迪·埃斯佩兰德",
+      "温迪·N·埃斯佩兰德",
+      "Wendy Nelson Espeland"
+    ]
+  },
+  {
     "title": "William Foote Whyte",
     "type": "person",
     "path": "wiki/persons/us/William Foote Whyte.md",
@@ -19054,6 +19071,18 @@
       "德国高等教育能力建模与测量计划",
       "德国能力建模与测量计划",
       "Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor"
+    ]
+  },
+  {
+    "title": "1961 Policy Conference on Economic Growth and Investment in Education",
+    "type": "fact",
+    "path": "wiki/facts/global/1961 Policy Conference on Economic Growth and Investment in Education.md",
+    "aliases": [
+      "1961年经合组织华盛顿政策会议",
+      "1961年华盛顿经济增长与教育投资政策会议",
+      "1961 OECD Policy Conference on Economic Growth and Investment in Education",
+      "1961 Washington Policy Conference",
+      "经合组织华盛顿政策会议"
     ]
   },
   {

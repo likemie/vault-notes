@@ -128,7 +128,7 @@ updated: 2026-09-12
 > 分析为何在多元的外延性使命中，经济增长与[[Human Capital Theory|人力资本]]成为主导全球教育治理的最强力范式。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]; Martens et al. (2024)
-> **经济理性对公共教育价值的结构性重构** 尽管和平、人权与可持续发展同属常见的使命延伸话语，但在全球涉教育国际组织中，以经济合作为导向的机构占据了 33.3% 的绝对统治地位；这类组织依托贷款附带条件（World Bank）与跨国经济指标排名的软权力（[[OECD]]），强力将人力资本[[Return on Investment|投资回报]]率与劳动力市场适应性确立为全球教育改革的最高评价基准，导致人文主义与受教育权传统被边陲化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
+> **经济理性对公共教育价值的结构性重构** 尽管和平、人权与可持续发展同属常见的使命延伸话语，但在全球涉教育国际组织中，以经济合作为导向的机构占据了 33.3% 的绝对统治地位；这类组织依托贷款附带条件（World Bank）与跨国经济指标排名的[[Soft Power|软权力]]（[[OECD]]），强力将人力资本[[Return on Investment|投资回报]]率与劳动力市场适应性确立为全球教育改革的最高评价基准，导致人文主义与受教育权传统被边陲化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
 
 ---
 

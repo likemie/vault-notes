@@ -8,7 +8,7 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）与温迪·埃斯佩兰德（Wendy Espeland）等学者提出的批判性理论构念，指在充斥歧义性、争议性与不确定性的教育决策生态中，量化指标相比质性论述能为政策制定者构筑出具备客观性、精确度与普适性的政治脚手架。这种外衣在压制外部质疑的同时，为决策者依循自身政治偏好自由阐释指标意义保留了弹性空间。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Wendy Espeland]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -148,7 +149,7 @@ updated: 2026-09-12
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990–2000年代 — 量化社会学奠基** 西奥多·M·波特（Theodore M. Porter）与温迪·埃斯佩兰德（Wendy Espeland）等学者揭示通约化与信赖数字的政治本质，指出量化是弱势专业群体抵抗政治干预与政府建立公众信任的技术策略。
+> - **1990–2000年代 — 量化社会学奠基** 西奥多·M·波特（Theodore M. Porter）与[[Wendy Espeland|温迪·埃斯佩兰德]]（Wendy Espeland）等学者揭示通约化与信赖数字的政治本质，指出量化是弱势专业群体抵抗政治干预与政府建立公众信任的技术策略。
 > - **2013 — 比较教育[[Policy Borrowing|政策借用]]中的理性外衣** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）在反思教育政策借鉴中的“成功经验路径”时，明确提出量化硬事实为争议性政策移植提供了“理性、精确与普适的表象（façade of rationality, precision, and universality）”。
 > - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代[[Policy Brokerage|政策中介]]的运作机制** 施泰纳-哈姆西、马滕斯（Kerstin Martens）与伊德森（Christian Ydesen）在《数字治理 2.0》中将理性表象概念进一步升华，确立为剖析国际组织从单纯知识中介走向政治化政策中介的核心机制枢纽。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
@@ -175,4 +176,4 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合多学科视角，系统阐释[[Policy Brokerage|政策中介]]机构如何在教育决策面临歧义、争议与不确定的生态下，运用硬事实构筑理性表象以施展全球软权力。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合多学科视角，系统阐释[[Policy Brokerage|政策中介]]机构如何在教育决策面临歧义、争议与不确定的生态下，运用硬事实构筑理性表象以施展全球[[Soft Power|软权力]]。
