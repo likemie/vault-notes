@@ -664,7 +664,10 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Externalization.md",
     "aliases": [
-      "外化"
+      "外化",
+      "外部化",
+      "策略性外在化",
+      "Strategic Externalization"
     ]
   },
   {
@@ -10651,6 +10654,18 @@
     ]
   },
   {
+    "title": "Knowledge-to-Action Models",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Knowledge-to-Action Models.md",
+    "aliases": [
+      "知识-行动联结模型",
+      "知识到行动模型",
+      "知识行动联结模型",
+      "三代知识-行动联结模型",
+      "Knowledge-to-Action Framework"
+    ]
+  },
+  {
     "title": "Quality Use of Research Evidence Framework",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md",
@@ -17654,6 +17669,16 @@
     ]
   },
   {
+    "title": "Philip H. Coombs",
+    "type": "person",
+    "path": "wiki/persons/us/Philip H. Coombs.md",
+    "aliases": [
+      "菲利普·H·库姆斯",
+      "菲利普·库姆斯",
+      "Philip Coombs"
+    ]
+  },
+  {
     "title": "Robert E. Stake",
     "type": "person",
     "path": "wiki/persons/us/Robert E. Stake.md",
@@ -19327,6 +19352,16 @@
       "国际学生评估项目",
       "Programme for International Student Assessment",
       "国际学生评价项目"
+    ]
+  },
+  {
+    "title": "World Education Reform Database",
+    "type": "fact",
+    "path": "wiki/facts/global/World Education Reform Database.md",
+    "aliases": [
+      "世界教育改革数据库",
+      "WERD",
+      "World Education Reform Database (WERD)"
     ]
   },
   {

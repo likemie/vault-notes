@@ -36,8 +36,12 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Scientific Uncertainty]]"
   - "[[Scaffolding]]"
+  - "[[Democratisation of Expertise]]"
   - "[[Champ]]"
+  - "[[Technology Deficit of Education]]"
   - "[[Return on Investment]]"
+  - "[[Transfer Space]]"
+  - "[[Externalization]]"
   - "[[Attrition]]"
   - "[[Hypothesis]]"
   - "[[Soft Power]]"
@@ -45,6 +49,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Knowledge-to-Action Models]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
@@ -52,6 +57,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Niklas Luhmann]]"
+  - "[[Philip H. Coombs]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[OECD]]"
@@ -64,6 +70,7 @@ related_facts:
   - "[[International Institute for Educational Planning]]"
   - "[[Common School Movement]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[World Education Reform Database]]"
 related_arguments: []
 sources:
   - "[[sources/Steiner-Khamsi_2024_CE/Steiner-Khamsi_2024_CE|Steiner-Khamsi_2024_CE]]"
@@ -78,9 +85,9 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 46
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 book_title: ""
@@ -180,9 +187,9 @@ issuing_organization: ""
 
 > [!quad-grid] 教育政策环境的三重生态特质与数字[[Scaffolding|脚手架]]
 > - **政策情境的歧义性（Ambiguity）** 面对同一教育现象往往存在多种互不兼容的理解视角；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
-> - **专业知识民主化带来的公共争议性（Contestation）** 教育领域呈现广泛的专业知识民主化特征，缺乏医学等行业的技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ|场域]]。
-> - **未来结果不可验证导致的技术赤字（Technology Deficit）** 教育面临固有的技术赤字，由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的风险焦虑，促使中介机构将未来预设为可以通过当下干预来规避的行动方案。
-> - **数字理性脚手架（Numbers as Scaffolding）** 相比质性叙事，量化指标具备理性、精确与普适的话语表象；政策制定者热衷于数字，是因为数字指标不仅看似客观，更为其依循自身政治意图诠释指标背后的故事预留了充分空间。（pp.539–540）
+> - **专业知识民主化带来的公共争议性（Contestation）** 教育领域呈现广泛的[[Democratisation of Expertise|专业知识民主化]]（Democratisation of Expertise）特征，缺乏医学等行业的技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ|场域]]。（p.539）
+> - **未来结果不可验证导致的技术赤字（Technology Deficit）** 教育面临固有的[[Technology Deficit of Education|技术赤字]]（Technology Deficit of Education），由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的风险焦虑，促使中介机构将未来预设为可以通过当下干预来规避的行动方案。（pp.539–540）
+> - **数字理性脚手架（Numbers as Scaffolding）** 相比质性叙事，量化指标具备理性、精确与普适的话语表象；政策制定者热衷于数字，是因为数字指标不仅看似客观，更为其依循自身政治意图诠释指标背后的故事预留了充分空间。（p.540）
 
 ---
 
@@ -233,7 +240,7 @@ issuing_organization: ""
 
 > [!event-context] 战后全球教育危机叙事与国际政策动员节点
 > - **重点会议与政策议程** 1960 年贝拉吉奥会议呼吁以人力资本投资拉动经济增长；1961 年经合组织华盛顿政策会议聚焦教育投资；1967 年弗吉尼亚威廉斯堡世界教育危机国际会议全面掀起全球危机舆论。
-> - **代表人物与普适话语** 菲利普·库姆斯（Philip H. Coombs）身兼肯尼迪政府助理国务卿与[[International Institute for Educational Planning|国际教育规划研究所]]首任所长，其 1968 年名著《世界教育危机》将教育危机普遍化并推向全球。（p.542）
+> - **代表人物与普适话语** [[Philip H. Coombs|菲利普·H·库姆斯]]（Philip H. Coombs）身兼肯尼迪政府助理国务卿与[[International Institute for Educational Planning|国际教育规划研究所]]首任所长，其 1968 年名著《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*）将教育危机普遍化并推向全球。（p.542）
 > - **美国政策报告的催化效应** 1983 年美国《国家处在危险之中》报告将教育体系的不振视为国家落后于西德、日本和苏联的根源，直接催生了跨国可比指标的制度化研发需求。（pp.542–543）
 > - **危机叙事的治理机制** 通过周期性渲染教育落后危机，跨国比较使得排名带来的命名与羞辱机制常规化，为国际组织长期扮演不可替代的政策中介提供了持续的政治动力。（p.543）
 
@@ -280,8 +287,8 @@ issuing_organization: ""
 > [!row-contrast] 主要国际组织的政策中介工具打包组合与经验汲取取向（pp.544–546）
 > | 国际组织（IO） | 核心政策中介工具（Primary Instrument） | 打包知识产品与服务（Bundled Knowledge Products） | 经验汲取模式与实证特征（Lesson-Drawing Orientation） | 治理机制与战略同盟（Governance & Alliances） |
 > |---|---|---|---|---|
-> | **[[OECD\|经合组织（OECD）]]** | **[[PISA]]**（国际学生评估项目）及其衍生产品矩阵（TALIS、PIAAC、PISA-D） | 国别同行评议（Peer Reviews）、《教育概览》（Education at a Glance，EAG）、教育政策展望（Education Policy Outlook）、教育 GPS 数字平台 | **外向型国别横向对照（Outward-looking cross-national referencing）**<br>世界教育改革数据库（World Education Reform Database，WERD）实证表明，其报告高度依赖对其他成员国具体改革经验的交叉引证，将跨国横向比较作为提升教育质量的核心引擎。（Seitzer et al., 2023; pp.544–545） | 以软法（Soft Law）、指标排序与“命名与羞辱”实施远程规制；依托非成员国测验扩张与盖茨等私人基金会资助，构建全球比较帝国。 |
-> | **世界银行（World Bank）** | **贷款与赠款附加条件**、教育成果系统评估法（Systems Approach for Better Education Results，SABER）、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、世界发展指标库（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践闭环（Self-referential lesson-drawing）**<br>WERD 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交、联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的“构建教育证据联盟”（BE2）。 |
+> | **[[OECD\|经合组织（OECD）]]** | **[[PISA]]**（国际学生评估项目）及其衍生产品矩阵（TALIS、PIAAC、PISA-D） | 国别同行评议（Peer Reviews）、《教育概览》（Education at a Glance，EAG）、教育政策展望（Education Policy Outlook）、教育 GPS 数字平台 | **外向型国别横向对照（Outward-looking cross-national referencing）**<br>[[World Education Reform Database|世界教育改革数据库]]（World Education Reform Database，WERD）实证表明，其报告高度依赖对其他成员国具体改革经验的交叉引证，将跨国横向比较作为提升教育质量的核心引擎。（Seitzer et al., 2023; pp.544–545） | 以软法（Soft Law）、指标排序与“命名与羞辱”实施远程规制；依托非成员国测验扩张与盖茨等私人基金会资助，构建全球比较帝国。 |
+> | **世界银行（World Bank）** | **贷款与赠款附加条件**、教育成果系统评估法（Systems Approach for Better Education Results，SABER）、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、世界发展指标库（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践闭环（Self-referential lesson-drawing）**<br>[[World Education Reform Database|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交、联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的“构建教育证据联盟”（BE2）。 |
 > | **全球教育伙伴关系（GPE）** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | 知识与创新交流机制（Knowledge and Innovation Exchange，KIX），在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
 > | **联合国教科文组织（UNESCO）** | **国际公约与规范性框架制定**、《全球教育监测报告》（Global Education Monitoring Report，GEMR）、统计研究所（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、国际教育规划研究所（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立“学习数据协定”（Learning Data Compact），在跨国监测主导权上与世行体系形成制衡。 |
 > | **联合国儿童基金会（UNICEF）** | **多指标聚类调查（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如社会情感学习 SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将社会情感学习（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |
@@ -297,26 +304,36 @@ issuing_organization: ""
 ### 论证步骤四　主权国家在转移空间中策略性动员外部权威，但在法定行政出台阶段实施严酷政治过滤
 
 > [!claim] 步骤四核心主张
-> 主权国家并非被动接受全球政策中介灌输的受体；基于[[Methodological Transnationalism|方法论跨国主义]]框架，国家政府在转移空间中对外部证据展开策略性利用，呈现出议程设置阶段借力动员、决策出台阶段严苛过滤的周期性断裂特征。（pp.546–548）
+> 主权国家并非被动接受全球政策中介灌输的受体；基于[[Methodological Transnationalism|方法论跨国主义]]框架，国家政府在[[Transfer Space|转移空间]]（Transfer Space）中对外部证据展开策略性利用，呈现出议程设置阶段借力动员、决策出台阶段严苛过滤的周期性断裂特征。（pp.546–548）
 
-#### 1. 决策者在危机时刻将外部中介建构为准客观裁判，借外在化投射化解本土改革僵局
+#### 1. 决策者借助策略性外化将外部中介建构为准客观裁判，以“仿佛有效”的投射打破本土改革僵局
 
 克服[[Methodological Nationalism|方法论民族主义]]的局限，要求将知识与政策的关系置于深层的制度生态与程序演变脉络中加以审视。（p.547）
 
-> [!spectrum] 知识-行动联结三代研究范式谱系
+> [!spectrum] [[Knowledge-to-Action Models|知识-行动联结三代模型]]的演进谱系
 > **← 单向推送**　·　**程序生态 →**
 >
-> - **第一代：线性知识传播** 侧重于将科研成果单向推送到决策者手中，关注信息的有效分发。（p.547）
-> - **第二代：关系协同共建** 关注[[Knowledge Production|知识生产]]者与使用者的双向互动，强调政策知识的双向协商与合作生产。
-> - **第三代：程序生态与系统容量** 将政策过程解构为动态程序，考察不同决策阶段对研究证据的使用容量与制度生态。
+> - **第一代：线性知识传播（Linear / Push Models）** 侧重于将科研成果单向推送到决策者手中，关注信息的清晰呈现与有效分发。（p.547）
+> - **第二代：关系协同共建（Relational / Co-production Models）** 关注[[Knowledge Production|知识生产]]者与使用者的双向互动，强调政策知识的双向协商、利益调适与合作生产。
+> - **第三代：程序生态与系统容量（Systems / Procedural Eco-system Models）** 将政策过程程序化解构为动态环节，考察不同决策阶段对研究证据的制度吸收容量，以及维系数据流动的数字平台与区域中介基础设施。
 
-依据社会学系统论的外在化假说，外部世界对内部系统的影响，完全取决于内部系统如何赋予其意义并将其建构为外部权威。（p.546）
+依据社会学系统论的[[Externalization|外化]]（Externalization）假说，外部世界对内部系统的影响，完全取决于内部系统如何赋予其意义并将其建构为外部权威。（p.546）
 
-> [!policy-design] 转移空间中的策略性外在化机制
-> - **治理目标** 打破国家内外的二元隔离，将全球中介力量转化为化解本土政治博弈僵局的合法性杠杆。（pp.540, 546）
-> - **适用情境** 遭遇国内长期改革僵局、政党轮替压力或选民信任危机的主权决策者。
-> - **政策工具** 策略性构建仿佛有效的外在参考点；例如将芬兰成功随意投射为大学化教师教育、少分流的包容性学校体系，或是缺乏高利害考试的宽松环境。（p.546）
-> - **约束边界** 外部证据的动员深度，完全受制于能否契合本土政治派别的既定施政蓝图与选拔议程。
+系统外部的重大变迁（如公共行政领域转向以结果为导向的新自由主义规制）若要在教育系统中发挥实效，必须在教育系统内部产生共鸣，被赋予本土意义，并被转译为教育系统自身的逻辑和语言代码——在教育实践中，这种规制转向具体体现为从“教学（Teaching）”向“学习（Learning）”的重心位移，进而推动了对学习成效的全面数据化追踪。依据系统论的命题，系统对“外部参照点的内部建构”不仅赋予了系统额外的解释意义，更有助于再生产系统自身的制度认同并生产确定性。
+
+依据[[Niklas Luhmann|尼克拉斯·卢曼]]（Niklas Luhmann）的系统论洞见，外化或对这类拟似外部参照点的建构，在本质上充当了规制性理念。在转移空间中，旷日持久的国内政策僵局、政党轮替、摆脱不光彩历史的冲动、地缘政治重构以及对外援助依赖，构成了促使本土精英策略性动员外部参考社会与国际组织权威的关键契机。（p.546）
+
+> [!case] 芬兰“PISA 奇迹”作为规制性投射的按需建构案例
+> - **案例背景与外在化动机** 各国面对旷日持久的国内改革僵局与合法性赤字，急需寻求超越本土纷争的外部参考系，芬兰在国际大规模学生评估中的优异表现被迅速推向全球神坛。（p.546）
+> - **“仿佛有效”的拟似权威** 依据卢曼系统论，芬兰奇迹并非外在客观真理，而是只有当行动者假定其“仿佛（as if）”有效时才具备合法化效力的规制性投射。
+> - **按需剪裁的多重归因话语** 针对不同的本土争议，芬兰经验被随意赋予不同解释：推行专业化者将其归因于大学化师范教育，倡导公平者将其定性为不分流的包容体制，呼吁减负者则将其归结为极少高利害考试的关怀生态。
+> - **治理启示** 证实外部参照点本质上是本土决策者在系统内部按需反向建构的符号工具，服务于国内执政派别的特定施政议程。
+
+> [!policy-design] [[Transfer Space|转移空间]]中的策略性[[Externalization|外化]]机制
+> - **治理目标** 打破国家内外的二元隔离，将全球中介力量建构为超越党派纷争的客观裁判，作为化解本土政治博弈僵局的正当性杠杆。（pp.540, 546）
+> - **适用情境** 遭遇国内长期改革僵局、政党轮替压力、地缘政治重组或选民信任危机的主权决策者。
+> - **政策工具** 策略性构建“仿佛有效”的拟似外在参考点，工具性动员国际排名与标杆经验压制异见。
+> - **约束边界** 外部证据的动员深度与取舍偏好，完全受制于能否契合本土执政派别的既定施政蓝图与选拔利益。
 
 #### 2. 北欧政策咨询实证揭示专家委员会海量文献在最终行政法令中遭遇断崖式政治筛选
 

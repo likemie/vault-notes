@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
     },
     {
+      "basename": "Knowledge-to-Action Models",
+      "path": "wiki/theories/educational-policy-reform/Knowledge-to-Action Models.md"
+    },
+    {
       "basename": "John Hattie",
       "path": "wiki/persons/new-zealand/John Hattie.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Performance Pay",
       "path": "wiki/concepts/educational-policy-reform/Performance Pay.md"
-    },
-    {
-      "basename": "Baby PISA",
-      "path": "wiki/facts/global/Baby PISA.md"
     }
   ],
   "omittedPaths": [],
