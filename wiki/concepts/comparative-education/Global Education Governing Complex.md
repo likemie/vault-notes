@@ -6,7 +6,7 @@ aliases:
 summary: "Christian Ydesen (2019) 提出的概念，指由五大政府间组织、主权国家、跨国企业与私人慈善基金会构成的治理网络，通过标准化与可量化知识施展硬事实软权力。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Network Governance]]"
   - "[[Policy Brokerage]]"
+  - "[[Soft Power by Hard Facts]]"
   - "[[Soft Power]]"
   - "[[Global Education Industry]]"
   - "[[New Public Management]]"
@@ -26,6 +27,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Governing by Numbers]]"
   - "[[Construct]]"
+  - "[[Transfer Space]]"
   - "[[Policy Borrowing]]"
   - "[[Methodological Transnationalism]]"
   - "[[Document]]"
@@ -40,6 +42,7 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Global Partnership for Education]]"
   - "[[PISA]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[International Indicators of Education Systems]]"
@@ -59,7 +62,7 @@ updated: 2026-09-12
 ## 定义
 
 > [!def] 核心定义
-> 全球教育治理复合体（Global Education Governing Complex）是指由五大核心国际组织——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）、世界银行（World Bank）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与全球教育伙伴关系（Global Partnership for Education，GPE）为中枢，深度整合了主权国家资本、跨国教育商业企业与私人慈善基金会的多元跨国[[Network Governance|网络治理]]形态。该复合体打破了传统民族国家对公共教育政策的专属垄断，将可量化、可比较与可标准化的知识深度工具化与武器化，依靠设定国际目标、基准测验、跨国排名与[[Policy Brokerage|政策中介]]等“以硬事实施展软权力”的间接治理技术，在缺乏法律强制制裁权的前提下跨尺度重塑全球与国家教育改革议程并实施远距离绩效问责。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
+> 全球教育治理复合体（Global Education Governing Complex）是指由五大核心国际组织——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）、世界银行（World Bank）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与[[Global Partnership for Education|全球教育伙伴关系]]（Global Partnership for Education，GPE）为中枢，深度整合了主权国家资本、跨国教育商业企业与私人慈善基金会的多元跨国[[Network Governance|网络治理]]形态。该复合体打破了传统民族国家对公共教育政策的专属垄断，将可量化、可比较与可标准化的知识深度工具化与武器化，依靠设定国际目标、基准测验、跨国排名与[[Policy Brokerage|政策中介]]等“[[Soft Power by Hard Facts|以硬事实施展软权力]]”的间接治理技术，在缺乏法律强制制裁权的前提下跨尺度重塑全球与国家教育改革议程并实施远距离绩效问责。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画冷战以来跨国公共机构与私营资本在教育领域形成的结构性共谋与网络拓扑。
@@ -92,7 +95,7 @@ updated: 2026-09-12
 ## 核心要素
 
 > [!feature] 核心要素
-> - **五大组织核心网络（The Big Five）** 复合体的常设支柱包括[[OECD|经合组织]]（OECD）、世界银行（World Bank）、联合国教科文组织（UNESCO）、联合国儿童基金会（UNICEF）与全球教育伙伴关系（GPE），各方在治理资源、合法性来源与主导工具上存在结构性互补与竞合。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
+> - **五大组织核心网络（The Big Five）** 复合体的常设支柱包括[[OECD|经合组织]]（OECD）、世界银行（World Bank）、联合国教科文组织（UNESCO）、联合国儿童基金会（UNICEF）与[[Global Partnership for Education|全球教育伙伴关系]]（GPE），各方在治理资源、合法性来源与主导工具上存在结构性互补与竞合。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **非教育机构的跨界渗透** 经济协调与金融类国际组织（如经合组织、世界银行、区域开发银行）凭借资金实力与数据技术，以“教育促进经济增长”为合法性修辞深度介入教育议程，占据全部涉教育国际组织的三分之一。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **公私伙伴关系与慈善资本联结** 私人基金会（如盖茨基金会）与跨国教育企业（如培生集团）通过专项资助与联合项目嵌入治理中枢，重塑公共政策议程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]
 > - **排他性联盟与利基竞争** 复合体内部并非均质铁板一块，各组织在围绕全球规范制定与项目资金展开激烈竞争的同时，组建差异化排他性联盟（如世界银行主导的构建教育证据联盟（Building Evidence in Education，BE2）、联合国体系主导的学习数据协定）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
@@ -173,7 +176,7 @@ updated: 2026-09-12
 > - **1961–1970s — 冷战地缘对抗与经济组织跨界** 伴随斯普特尼克危机，欧洲经济合作组织（Organisation for European Economic Co-operation，OEEC）重组为[[OECD|经合组织]]（OECD），被视作经济北约；世界银行于 1964 年与教科文组织签订合作协议借道入场；贝拉吉奥、华盛顿与威廉斯堡三次国际会议系统掀起全球教育危机叙事。
 > - **1980s — 危机叙事催化与跨国指标网络奠基** 美国《国家处在危险之中》报告直接刺激经合组织启动[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目；世界银行发布首份独立教育政策文件彻底与教科文组织脱钩，建立起基于放贷与[[Return on Investment|投资回报]]率测算的独立研究帝国。
 > - **1990s–2005 — [[PISA]] 评价帝国形成与全球版图饱和** 经合组织相继推出《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG）与 PISA 测验，全球涉足教育的政府间组织扩张至 30 家并达到饱和峰值（2005 年后仅新设 2 家）。
-> - **2019–2024 — 复合体理论化与[[Governing by Numbers|数字治理]] 2.0 议程** Christian Ydesen (2019) 正式提出全球教育治理复合体[[Construct|构念]]；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 将其推进至数字治理 2.0，揭示信息过载下[[Policy Brokerage|政策中介]]工具打包、排他战略同盟与转移空间内主权国家的政治过滤机制。
+> - **2019–2024 — 复合体理论化与[[Governing by Numbers|数字治理]] 2.0 议程** Christian Ydesen (2019) 正式提出全球教育治理复合体[[Construct|构念]]；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 将其推进至数字治理 2.0，揭示信息过载下[[Policy Brokerage|政策中介]]工具打包、排他战略同盟与[[Transfer Space|转移空间]]内主权国家的政治过滤机制。
 
 ---
 
@@ -185,7 +188,7 @@ updated: 2026-09-12
 > > 争论全球治理复合体是否具有不可阻挡的同质化效力，抑或受制于本土政治过滤。
 > >
 > > - **全球[[Convergence Theory in Comparative Education|趋同论]]** 强调复合体通过全球目标、排名压力与跨国[[Policy Borrowing|政策借用]]制造了强大的趋同重力，削弱了主权国家教育体系的本土自主性。
-> > - **[[Methodological Transnationalism|方法论跨国主义]]论** 指出全球与国家并非外在对立，主权国家在转移空间中策略性动员外部权威以打破国内政治僵局，但在法定行政决策出台阶段实施极其严苛的政治筛选（如挪威实证所示[[Document|文献]]损耗率达 95%）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 546–548)]]
+> > - **[[Methodological Transnationalism|方法论跨国主义]]论** 指出全球与国家并非外在对立，主权国家在[[Transfer Space|转移空间]]中策略性动员外部权威以打破国内政治僵局，但在法定行政决策出台阶段实施极其严苛的政治筛选（如挪威实证所示[[Document|文献]]损耗率达 95%）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 546–548)]]
 >
 > > [!axis] 民主授权赤字与新自由主义价值偏向
 > > 批评该复合体内部核心经济与金融组织缺乏民选合法性，却主导了公共教育价值导向。
@@ -214,4 +217,4 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理全球教育治理复合体的历史成因与当代运作，剖析五大组织以硬事实施展软权力的结构性机制。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理全球教育治理复合体的历史成因与当代运作，剖析五大组织[[Soft Power by Hard Facts|以硬事实施展软权力]]的结构性机制。

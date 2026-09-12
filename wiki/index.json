@@ -622,6 +622,16 @@
     ]
   },
   {
+    "title": "Education-for-Mandates",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Education-for-Mandates.md",
+    "aliases": [
+      "使命性教育嵌入",
+      "使命驱动型教育干预",
+      "使命导向的教育参与"
+    ]
+  },
+  {
     "title": "Educational Immunology",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Educational Immunology.md",
@@ -17373,6 +17383,16 @@
     ]
   },
   {
+    "title": "George Psacharopoulos",
+    "type": "person",
+    "path": "wiki/persons/us/George Psacharopoulos.md",
+    "aliases": [
+      "乔治·萨卡罗普洛斯",
+      "乔治·普萨查罗普洛斯",
+      "萨卡罗普洛斯"
+    ]
+  },
+  {
     "title": "Gilbert Nicol",
     "type": "person",
     "path": "wiki/persons/us/Gilbert Nicol.md",
@@ -19405,6 +19425,17 @@
       "国际学生评估项目",
       "Programme for International Student Assessment",
       "国际学生评价项目"
+    ]
+  },
+  {
+    "title": "Systems Approach for Better Education Results",
+    "type": "fact",
+    "path": "wiki/facts/global/Systems Approach for Better Education Results.md",
+    "aliases": [
+      "改善教育成果系统分析法",
+      "SABER",
+      "系统性教育成效提升法",
+      "Systems Approach for Better Education Results (SABER)"
     ]
   },
   {

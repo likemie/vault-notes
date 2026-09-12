@@ -7,7 +7,7 @@ aliases:
 summary: "Grek (2009) 提出的概念，指通过量化指标、国际排名和数据比较实现跨国教育治理的软性机制，PISA 是这一治理模式的典型工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
+  - "[[Soft Power by Hard Facts]]"
   - "[[Soft Power]]"
   - "[[Relational Space]]"
   - "[[Technical Rationality]]"
@@ -44,13 +45,14 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Systems Approach for Better Education Results]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Governing by Numbers
@@ -96,7 +98,7 @@ updated: 2026-09-11
 > - **量化数据的政治权威** [[PISA]] 等数据被分析和解读后为教育政策制定和改革所用。国际组织通过发布测评结果和全球排名，为各国政策制定者提供远距离指导（Remote Guidance），用以验证既有改革的合法性或驱动后续政策（Gillis et al., 2016）。
 > - **去情境化与普遍性外观** 跨国测验受益于其去情境化和普遍性特征，使不同政治、文化和历史背景的教育体系可以在同一标尺上被排列和比较，为循证政策制定披上理性外衣。
 > - **信息过量下的[[Policy Brokerage|政策中介]]化（2.0 阶段特征）** 在数字化时代的研究证据过剩与信息孤岛环境下，更多知识并未减少政策歧义；数字治理演进为依托[[Policy Brokerage|政策中介]]机构选择性筛选科研发现并将其[[Transfer Translation Transformation|转译]]为定向政策证据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
-> - **以硬事实施展软权力（[[Soft Power]] by Hard Facts）** 国际组织将核心中介工具与差异化知识产品打包（如[[OECD|经合组织]]的 PISA 绑定国别经验对照，世界银行的基准数据库绑定自指性实践仓库），通过指标问责施展软权力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
+> - **[[Soft Power by Hard Facts|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 国际组织将核心中介工具与差异化知识产品打包（如[[OECD|经合组织]]的 PISA 绑定国别经验对照，世界银行的基准数据库绑定自指性实践仓库），通过指标问责施展软权力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
 
 > [!logic-map]- 数字治理 1.0 向 2.0 演进逻辑图
 > ```mermaid
@@ -173,7 +175,7 @@ updated: 2026-09-11
 
 > [!dev-timeline] 概念演变
 > - **2009 — 数字治理 1.0 确立** Grek 提出以数字治理概念，系统剖析[[OECD|经合组织]]如何依托 [[PISA]] 产生的数据流将欧洲乃至全球教育空间纳入软治理网络。
-> - **2018 — 硬事实软权力机制提炼** Niemann & Martens 提出 Soft governance by hard facts 命题，揭示量化事实作为非强制治理工具的有效性。
+> - **2018 — [[Soft Power by Hard Facts|硬事实软权力]]机制提炼** Niemann & Martens 提出 Soft governance by hard facts 命题，揭示量化事实作为非强制治理工具的有效性。
 > - **2024 — 数字治理 2.0 理论跃升** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 提出数字治理 2.0 议程，将研究视域拓展至多学科、跨国[[Relational Space|关系性空间]]，聚焦[[Policy Brokerage|政策中介]]在信息过载时代的多阶段证据包装与组织竞合。
 
 ---
@@ -207,7 +209,7 @@ updated: 2026-09-11
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 547)]] | 挪威能力课程改革（5 个专家委员会[[Document\|文献]] vs 最终颁布的部长令） | 跨国政策咨询文献引用网络追踪分析 | 专家委员会参考文献总数 vs 最终进入部长令的文献数 | 专家委员会总计列入 464 篇文献，最终仅有 22 篇被部长令引用；且被引的 22 篇中有 20 篇全部来自专门审查[[OECD\|经合组织]] DeSeCo 项目的同一专家委员会 | — | 强有力证明国家行政当局在法定决策阶段对数字治理中介知识的极端选择性吸收与政治过滤 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 544, 549)]] | 全球 30 个涉教育政府间组织（IOs）；世界银行 SABER 与教育回报率数据库 | 跨国治理机构职能数据库追踪；多边政策工具计量普查 | 经济类国际组织占比；指标与基准工具规模 | 涉教育国际组织中 33.3% 为非专门的经济合作协调组织；世界银行 SABER 涵盖 1,600 余项系统性指标，政策仓库汇聚 1,120 项教育回报率自指性研究 | — | 实证揭示跨界经济组织在数字治理中的主导地位，以及跨国中介依赖自指性量化证据建构组织利基的规模 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 544, 549)]] | 全球 30 个涉教育政府间组织（IOs）；世界银行 [[Systems Approach for Better Education Results\|SABER]] 与教育回报率数据库 | 跨国治理机构职能数据库追踪；多边政策工具计量普查 | 经济类国际组织占比；指标与基准工具规模 | 涉教育国际组织中 33.3% 为非专门的经济合作协调组织；世界银行 SABER 涵盖 1,600 余项系统性指标，政策仓库汇聚 1,120 项教育回报率自指性研究 | — | 实证揭示跨界经济组织在数字治理中的主导地位，以及跨国中介依赖自指性量化证据建构组织利基的规模 |
 
 ---
 

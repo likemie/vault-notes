@@ -10,7 +10,7 @@ aliases:
 summary: "衡量教育、研发或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面，它经由人力资本理论和世界银行被建构为跨国政策放贷与结构调整的自指性指标帝国；在微观产学合作层面，各方对回报定义的结构性分歧则被视作驱动复合价值创造的核心引擎。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,7 +46,8 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Focus Group]]"
-related_persons: []
+related_persons:
+  - "[[George Psacharopoulos]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
@@ -58,7 +59,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-02
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Return on Investment
@@ -144,7 +145,7 @@ updated: 2026-09-11
 > 揭示跨国组织如何将经验经济学测算转化为剥夺受援国政策自决权的硬性治理技术。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **收益率数据库构建自指性知识闭环** 1980 年世界银行发布首份独立《教育部门政策文件》，彻底脱离联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）的人文主义倡导路线；高级顾问 George Psacharopoulos 等人基于涵盖 139 国、1,120 项估算的回报率数据库，系统论证初等教育相较于高等教育具有压倒性的社会回报率优势；世界银行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放结构调整贷款的强制性前置条件，打造出一个高度自给自足、无视本土脉络的量化治理帝国。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542, 548)]]
+> **收益率数据库构建自指性知识闭环** 1980 年世界银行发布首份独立《教育部门政策文件》，彻底脱离联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）的人文主义倡导路线；高级顾问 [[George Psacharopoulos]] 等人基于涵盖 139 国、1,120 项估算的回报率数据库，系统论证初等教育相较于高等教育具有压倒性的社会回报率优势；世界银行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放结构调整贷款的强制性前置条件，打造出一个高度自给自足、无视本土脉络的量化治理帝国。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542, 548)]]
 
 ---
 
@@ -172,7 +173,7 @@ updated: 2026-09-11
 
 > [!dev-timeline] 概念演变历程
 > - **1960–1974 — [[Human Capital Theory|人力资本理论]]奠基与明瑟收益率模型** 西奥多·舒尔茨（Theodore W. Schultz, 1961）与加里·贝克尔（Gary S. Becker, 1964）提出人力资本投资分析；雅各布·明瑟（Jacob Mincer, 1974）确立半对数收入方程，将[[Educational Level|受教育年限]]与工作经验转化为边际收益率，奠定了微观实证测算的标准模型。
-> - **1980–1990s — 世界银行放贷帝国与全球数据库霸权** 1980 年世行发布《教育部门政策文件》，高级顾问 George Psacharopoulos 建立起跨越 139 个国家的全球教育收益率大样本库；世行借此推行“初等教育优先于高等教育”的放贷处方，将收益率测算转化为跨国技术官僚执法的核心依据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **1980–1990s — 世界银行放贷帝国与全球数据库霸权** 1980 年世行发布《教育部门政策文件》，高级顾问 [[George Psacharopoulos]] 建立起跨越 139 个国家的全球教育收益率大样本库；世行借此推行“初等教育优先于高等教育”的放贷处方，将收益率测算转化为跨国技术官僚执法的核心依据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **2000s–2010s — [[University-Industry Collaboration|产学合作]]指标扩展与[[Counterfactual|反事实]]透镜引入** [[Knowledge-Based Economy|知识经济]]时代的产学研协同拓展了 ROI 的内涵；美国大学与产业示范伙伴关系（[[University Industry Demonstration Partnership]]，UIDP）提出超越单纯专利与论文产出计数，引入[[Counterfactual|反事实]]（Counterfactual）与影响额外性（Additionality）分析，强调根据利益相关者定制定制化叙事指标。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 11–12, 23–24)]]
 > - **2018–2025 — 六十年历史检视与终端用户中心转向** Psacharopoulos & Patrinos (2018) 完成 60 年教育投资回报全球回顾；[[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025)]] 确立产学协同中 ROI 的“终端用户中心透镜”，强调跨国协作中感知偏差的消解。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]; [[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, p. 192)]]
 
@@ -226,7 +227,7 @@ updated: 2026-09-11
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理世界银行脱离教科文组织后，如何依托 George Psacharopoulos 建立的 1,120 项收益率数据库将投资回报构建为跨国放贷与[[Governing at a Distance|远处治理]]的自指性指标帝国。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理世界银行脱离教科文组织后，如何依托 [[George Psacharopoulos]] 建立的 1,120 项收益率数据库将投资回报构建为跨国放贷与[[Governing at a Distance|远处治理]]的自指性指标帝国。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 揭示教育投资回报模型如何充当实证社会科学为国家财政扩张与政策免责背书的“[[Social Science as Legitimation Alibi|合法化借口]]”（Alibi）。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 深入探讨[[University-Industry Collaboration|产学合作]]联合体中 ROI 的差异化定义机制、[[Counterfactual|反事实]]测算原则与以终端用户受益为核心的价值检验框架。
 > - [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025)]] — 论证[[Academic Health System|学术健康系统]]在[[Applied Medical Innovation|医用创新]]产学合作中的独特组织功能，确立以终端用户（患者）安全与体验为底线的 ROI 评估准则与价值对齐机制。
