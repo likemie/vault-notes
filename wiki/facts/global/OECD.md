@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 62
+fact_related_count: 65
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -80,6 +80,9 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
+  - "[[Teaching and Learning International Survey]]"
+  - "[[Programme for the International Assessment of Adult Competencies]]"
+  - "[[PISA for Development]]"
   - "[[World Bank]]"
   - "[[Definition and Selection of Competencies]]"
   - "[[Baby PISA]]"

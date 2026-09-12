@@ -92,6 +92,8 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
+  - "[[Programme for the International Assessment of Adult Competencies]]"
+  - "[[Teaching and Learning International Survey]]"
   - "[[Education for All]]"
   - "[[UNESCO]]"
   - "[[Poverty Reduction Strategy Papers]]"
@@ -104,11 +106,14 @@ related_facts:
   - "[[International Institute for Educational Planning]]"
   - "[[Common School Movement]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[PISA for Development]]"
   - "[[World Education Reform Database]]"
   - "[[Building Evidence in Education]]"
   - "[[Knowledge and Innovation Exchange]]"
+  - "[[Global Education Monitoring Report]]"
   - "[[Learning Data Compact]]"
   - "[[UNICEF]]"
+  - "[[Multiple Indicator Cluster Surveys]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments: []
 sources:
@@ -124,7 +129,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 85
+argument_related_count: 90
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -141,7 +146,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在数字经济催生研究证据严重过剩与信息孤岛林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何[[Soft Power by Hard Facts|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
+> 在数字经济催生研究证据严重过剩（[[Surplus of Evidence]]）与信息孤岛林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何[[Soft Power by Hard Facts|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
 
 > [!claim] 核心主张
 > 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差异化知识产品打包，[[Soft Power by Hard Facts|以硬事实施展软权力]]，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。（pp.538–540, 547–549）
@@ -226,7 +231,7 @@ issuing_organization: ""
 
 > [!quad-grid] 教育政策环境的三重生态特质与数字[[Scaffolding|脚手架]]
 > - **政策情境的歧义性（[[Policy Ambiguity]]）** 援引[[Multiple Streams Framework|多源流分析框架]]（Multiple Streams Framework，MSF）关于决策歧义性的理论界定（Zahariadis, 2017），面对同一教育现象往往存在多种互不兼容的理解视角（[[Policy Ambiguity|政策歧义性]]）；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
-> - **[[Democratisation of Expertise|专业知识民主化]]带来的公共争议性（Contestation）** 教育领域呈现广泛的[[Democratisation of Expertise|专业知识民主化]]（Democratisation of Expertise）特征，缺乏医学等行业的技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ|场域]]。（p.539）
+> - **[[Democratisation of Expertise|专业知识民主化]]带来的公共争议与[[Technologies of Exclusion|排除性技术]]（Technologies of Exclusion）** 教育领域呈现广泛的[[Democratisation of Expertise|专业知识民主化]]（Democratisation of Expertise）特征，缺乏医学等行业的天赋技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ|场域]]；面对这一公众质疑压力，国际组织与政策中介通过推行[[Randomised Controlled Trials|随机对照试验]]（RCTs）或复杂的跨国心理测量模型等[[Technologies of Exclusion|排除性技术]]（Technologies of Exclusion），构筑起唯有专家方能解读的统计壁垒，以维护其科学垄断特权。（p.539）
 > - **未来结果不可验证导致的技术赤字与[[Promissory Legitimacy|期许性合法性]]** 教育面临固有的技术赤字（[[Technology Deficit of Education]]），由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的未来风险焦虑，促使国际组织通过建构[[Promissory Legitimacy|期许性合法性]]（Promissory Legitimacy），将未来预设为可以通过当下干预来规避的行动方案（Robertson & Beech, 2023; pp. 539–540）。
 > - **数字作为[[Façade of Rationality|理性表象]]的脚手架（Numbers as Scaffolding for [[Façade of Rationality]]）** 援引[[Wendy Espeland|温迪·埃斯佩兰德]]（Wendy Espeland，2015）与门尼肯（Andrea Mennicken，2019）对量化社会学的理论分析，相比质性叙事，量化指标具备理性、精确与普适的话语表象（Façade of Rationality）；政策制定者热衷于数字，是因为数字指标“激发了叙事”，不仅看似客观，更为其依循自身政治意图讲述“指标意味着什么的故事”预留了充分空间。（Espeland, 2015, p. 65; pp. 539–540）
 
@@ -257,7 +262,7 @@ issuing_organization: ""
 >
 > - **1990年代至今 — 《[[Education at a Glance|教育概览]]》出版与 [[PISA]] 评价帝国形成**
 >
->   1992 年首度出版《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），并在 2000 年正式推出国际学生评估项目（Programme for International Student Assessment，PISA）；此后相继衍生出[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（PIAAC）、[[Teaching and Learning International Survey|教师教学国际调查]]（TALIS）、教育政策展望等知识平台，确立了不可逆转的跨国比较规制体系。（pp.541–543）
+>   1992 年首度出版《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），并在 2000 年正式推出作为[[International Large-Scale Assessments|国际大规模评估]]（International Large-Scale Assessments，ILSAs）旗舰标杆的国际学生评估项目（Programme for International Student Assessment，PISA）；此后相继衍生出[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（PIAAC）、[[Teaching and Learning International Survey|教师教学国际调查]]（TALIS）、教育政策展望等知识平台，确立了不可逆转的跨国比较规制体系。（pp.541–543）
 
 #### 2. 世界银行脱离教科文组织人文路线，以放贷权力和回报率指标构建自指性政策帝国
 
@@ -336,10 +341,10 @@ issuing_organization: ""
 > | **世界银行（World Bank）** | **贷款与赠款附加条件**、[[Systems Approach for Better Education Results\|改善教育成果系统分析法（SABER）]]、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、世界发展指标库（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践循环（Self-referential lesson-drawing）**<br>[[World Education Reform Database\|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交,联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的[[Building Evidence in Education\|构建教育证据联盟（BE2）]]。 |
 > | **[[Global Partnership for Education\|全球教育伙伴关系（GPE）]]** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | [[Knowledge and Innovation Exchange\|知识与创新交流机制（Knowledge and Innovation Exchange，KIX）]]，在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
 > | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | **国际公约与规范性框架制定**、[[Global Education Monitoring Report\|《全球教育监测报告》]]（Global Education Monitoring Report，GEMR）、统计研究所（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、[[International Institute for Educational Planning\|国际教育规划研究所]]（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立[[Learning Data Compact\|“学习数据协定”（Learning Data Compact）]]，在跨国监测主导权上与世行体系形成制衡。 |
-> | **[[UNICEF\|联合国儿童基金会]]（UNICEF）** | **[[Multiple Indicator Cluster Surveys\|多指标聚类调查]]（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如社会情感学习 SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将社会情感学习（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |
+> | **[[UNICEF\|联合国儿童基金会]]（UNICEF）** | **[[Multiple Indicator Cluster Surveys\|多指标聚类调查]]（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如[[Social-Emotional Learning\|社会情感学习]] SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将[[Social-Emotional Learning\|社会情感学习]]（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |
 
-> [!case] 联合国儿童基金会开辟社会情感学习（SEL）引发的组织利基争夺案例
-> - **开辟未受关注的新兴政策优先事项** 在全球教育规制市场高度拥挤的背景下，国际组织竞相寻找未被开发的全新政策领域以确立比较优势；联合国儿童基金会率先将社会情感学习（Social-Emotional Learning，SEL）推向全球政策议程，开辟出自身专属的政策中介蓝海。
+> [!case] 联合国儿童基金会开辟[[Social-Emotional Learning|社会情感学习]]（SEL）引发的组织利基争夺案例
+> - **开辟未受关注的新兴政策优先事项** 在全球教育规制市场高度拥挤的背景下，国际组织竞相寻找未被开发的全新政策领域以确立比较优势；联合国儿童基金会率先将[[Social-Emotional Learning|社会情感学习]]（Social-Emotional Learning，SEL）推向全球政策议程，开辟出自身专属的政策中介蓝海。
 > - **两大巨头的跨界跟进与空间挤压** 一旦 SEL 的政策号召力与规制潜力得到验证，经合组织与联合国教科文组织迅速跨界介入该领域，相继推出各自的社会情感能力测验与监测框架，直接挤压儿童基金会的先发利基。
 > - **对私人慈善基金会有限资源的零和争夺** 这一利基争夺的背后是多边机构对非传统资金的依赖加深；五大多边机构（世行、经合组织、教科文组织、儿童基金会、[[Global Partnership for Education|全球教育伙伴关系]]）不仅在地理空间上因经合组织 PISA 扩展至非成员国而高度重叠，更在比尔及梅琳达·盖茨基金会（Bill & Melinda Gates Foundation）、惠普基金会、乐高基金会等私人慈善资本的赠款竞争中短兵相接。（p.545）
 > - **制度启示** 表面上的跨国数据共享与多边协作网络并未消除竞争，各大组织在规范设定权与外部资金的双重压力下，始终处于动态的领地防守与利基抢占博弈之中。

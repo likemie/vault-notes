@@ -9,6 +9,12 @@ summary: "经合组织（OECD）于 2008 年创设的全球最大规模教师与
 type: fact
 subtype: program
 region: global
+fact_region: "global"
+fact_kind: "program"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#ede9fe"
 period: "2008–至今"
 initiator_organization: "[[OECD]]"
 tags:
@@ -18,23 +24,31 @@ tags:
   - theme/educational-evaluation
   - theme/global-governance
 related_concepts:
+  - "[[School Leadership]]"
+  - "[[New Public Management]]"
   - "[[Policy Brokerage]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Direct Instruction]]"
+  - "[[Self-Efficacy]]"
+  - "[[Heterogeneity]]"
+  - "[[Attrition]]"
+  - "[[Causality]]"
+  - "[[Rich and Thick Description]]"
   - "[[Governing by Numbers]]"
-  - "[[Performance Indicators]]"
-  - "[[Soft Power by Hard Facts]]"
-  - "[[Façade of Rationality]]"
 related_theories: []
 related_methods:
-  - "[[Survey Research]]"
-  - "[[Quantitative Research]]"
+  - "[[Questionnaire]]"
+  - "[[Back Translation]]"
+  - "[[Triangulation]]"
+  - "[[Observation Method]]"
 related_instruments: []
-related_persons:
-  - "[[Christian Ydesen]]"
-  - "[[Kerstin Martens]]"
-  - "[[Gita Steiner-Khamsi]]"
+related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[IEA]]"
+  - "[[Programme for the International Assessment of Adult Competencies]]"
+  - "[[UN Sustainable Development Goals]]"
   - "[[Education at a Glance]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"

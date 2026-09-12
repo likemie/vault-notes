@@ -81,7 +81,7 @@ updated: '2026-09-12'
 > *“The Rashomon effect reminds researchers that causal narratives are constructed by multiple actors... there is not a single, unproblematic causal chain, but multiple causal pathways.”*
 
 > [!citation-card]- 关键表述二：全球教育治理中的数据可塑性与“多重真实”（2018）
-> 国际大规模评估（如 [[PISA]]）的结果并非中立的科学镜鉴，而是具备高度可塑性的话语资源。关于英格兰学生成绩的同一种数据，在[[OECD|经合组织]]专家手中是强调教育公平与专业合作的诊断，在执政政客口中是被剪裁为国家危机以强推市场化政策的弹药，在媒介眼中则是耸动的排行榜新闻。评估结果因此分裂为互不相容的“多重真实”。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 111–112, 125–126)]]
+> [[International Large-Scale Assessments|国际大规模评估]]（如 [[PISA]]）的结果并非中立的科学镜鉴，而是具备高度可塑性的话语资源。关于英格兰学生成绩的同一种数据，在[[OECD|经合组织]]专家手中是强调教育公平与专业合作的诊断，在执政政客口中是被剪裁为国家危机以强推市场化政策的弹药，在媒介眼中则是耸动的排行榜新闻。评估结果因此分裂为互不相容的“多重真实”。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 111–112, 125–126)]]
 >
 > *“PISA produces multiple ‘truths’ that serve different interests... The plasticity of the data allows it to be used as a discursive resource for contrasting political agendas.”*
 

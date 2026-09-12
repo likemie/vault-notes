@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi 等提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,6 +47,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNICEF]]"
   - "[[PISA]]"
+  - "[[Global Education Monitoring Report]]"
   - "[[International Indicators of Education Systems]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"

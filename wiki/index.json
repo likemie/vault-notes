@@ -847,6 +847,18 @@
     ]
   },
   {
+    "title": "International Large-Scale Assessments",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/International Large-Scale Assessments.md",
+    "aliases": [
+      "ILSAs",
+      "ILSA",
+      "国际大规模评估",
+      "国际大规模学生评估",
+      "国际大规模教育评估"
+    ]
+  },
+  {
     "title": "International Mind",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/International Mind.md",
@@ -1226,6 +1238,17 @@
       "教育国家化",
       "教育为国家公共资源",
       "education as a public resource"
+    ]
+  },
+  {
+    "title": "Technologies of Exclusion",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Technologies of Exclusion.md",
+    "aliases": [
+      "排除性技术",
+      "技术性壁垒",
+      "专业排除技术",
+      "Technologies of Exclusion in Education"
     ]
   },
   {
@@ -1783,6 +1806,18 @@
       "自我规范学习",
       "SRL",
       "self-regulation in learning"
+    ]
+  },
+  {
+    "title": "Social-Emotional Learning",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Social-Emotional Learning.md",
+    "aliases": [
+      "SEL",
+      "社会情感学习",
+      "社会与情感能力",
+      "社会情感能力",
+      "Social and Emotional Learning"
     ]
   },
   {
@@ -4143,6 +4178,17 @@
       "STEM教育",
       "科学、技术、工程和数学教育",
       "Science, Technology, Engineering, and Mathematics Education"
+    ]
+  },
+  {
+    "title": "Surplus of Evidence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Surplus of Evidence.md",
+    "aliases": [
+      "证据过剩",
+      "研究证据过剩",
+      "信息过量时代证据过剩",
+      "Surplus of Research Evidence"
     ]
   },
   {
@@ -19603,8 +19649,8 @@
     "aliases": [
       "GEMR",
       "全球教育监测报告",
+      "全民教育全球监测报告",
       "EFA Global Monitoring Report",
-      "EFA 全球监测报告",
       "UNESCO GEMR"
     ]
   },
@@ -19709,8 +19755,8 @@
     "path": "wiki/facts/global/PISA for Development.md",
     "aliases": [
       "PISA-D",
-      "发展中国家PISA",
-      "发展型PISA",
+      "发展中国家国际学生评估项目",
+      "发展型国际学生评估",
       "OECD PISA-D"
     ]
   },

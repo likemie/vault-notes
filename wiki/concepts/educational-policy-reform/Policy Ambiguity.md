@@ -70,7 +70,7 @@ updated: 2026-09-12
 ## 定义
 
 > [!def] 核心定义
-> **政策歧义性（Policy Ambiguity）**是指在公共决策环境中，面对同一政策议题、客观情境或社会现象，存在多种互不相容、无法简单依靠经验事实或计算逻辑予以弥合的理解框架、价值诉求与阐释视角的根本性生态特质（state of having many ways of thinking about the same circumstances or phenomena）。在数字经济造成海量证据过剩的时代，信息供给的扩张非但无法自动消除歧义性以实现理性的循证决策，反而加剧了多元立场的解释性冲突，迫使治理系统诉诸具备理性客观外衣的量化指标构筑话语[[Scaffolding|脚手架]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> **政策歧义性（Policy Ambiguity）**是指在公共决策环境中，面对同一政策议题、客观情境或社会现象，存在多种互不相容、无法简单依靠经验事实或计算逻辑予以弥合的理解框架、价值诉求与阐释视角的根本性生态特质（state of having many ways of thinking about the same circumstances or phenomena）。在数字经济造成海量[[Surplus of Evidence|证据过剩]]的时代，信息供给的扩张非但无法自动消除歧义性以实现理性的循证决策，反而加剧了多元立场的解释性冲突，迫使治理系统诉诸具备理性客观外衣的量化指标构筑话语[[Scaffolding|脚手架]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向决策者所处的情境具有多重、流动且相互竞争的意义解释，不存在唯一的客观问题定义。
@@ -106,7 +106,7 @@ updated: 2026-09-12
 
 > [!feature] 核心要素
 > - **不可调和的多元思考[[Paradigm|范式]]** 政策主体针对同一教育事实（如[[Academic Achievement|学业成绩]]分布不均）存在互不兼容的归因模型（如社会阶层固化论 vs 教师专业投入不足论 vs 课程标准落后论）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
-> - **信息过载反噬机制** 在数字经济时代，海量研究成果呈指数级爆发，证据过剩并未达成科学共识，反而使各利益集团都能轻松筛选出支持自身政治偏好的“定制证据”（Customised Evidence）。
+> - **信息过载反噬机制** 在数字经济时代，海量研究成果呈指数级爆发，[[Surplus of Evidence|证据过剩]]并未达成科学共识，反而使各利益集团都能轻松筛选出支持自身政治偏好的“定制证据”（Customised Evidence）。
 > - **裁量选择的制度强制性** 面对无法通约的多重观念，政府无法以折衷方式兼顾所有主张，必须运用权力进行排他性的政策议程决断。
 > - **对数字[[Scaffolding|脚手架]]的结构性寄生** 面对充满分歧的公众舆论，政策制定者无法依靠纯粹理论思辨说服异见者，只能依托看似精密客观的量化排名（如 [[PISA]] 分数、[[Return on Investment|ROI]] 收益率）建立决断的正当性。
 
@@ -137,7 +137,7 @@ updated: 2026-09-12
 > **组织信息生产的符号功能超越决策功能** 官僚组织生产海量信息的首要动机往往不是为了在决策前消除认知模糊，而是作为展现自身理性运作、专业素养与审慎形象的组织符号；信息越充裕，组织内部对信息的解读分支便越繁杂，歧义性深植于官僚生态结构之中。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]
-> **证据过剩催生[[Policy Brokerage|政策中介]]的选择性[[Transfer Translation Transformation|转译]]** 在信息过载环境下，单纯积累更多实证数据无法自动实现证据知情的政策制定；相反，证据的泛滥恰恰为政策中介机构提供了巨大的政治套利空间——中介机构通过选择性筛选特定研究、将其[[Coding in Qualitative Research|编码]]为权威证据，帮助政府在充满歧义的意见丛林中强行确立单一合法叙事。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> **[[Surplus of Evidence|证据过剩]]催生[[Policy Brokerage|政策中介]]的选择性[[Transfer Translation Transformation|转译]]** 在信息过载环境下，单纯积累更多实证数据无法自动实现证据知情的政策制定；相反，证据的泛滥恰恰为政策中介机构提供了巨大的政治套利空间——中介机构通过选择性筛选特定研究、将其[[Coding in Qualitative Research|编码]]为权威证据，帮助政府在充满歧义的意见丛林中强行确立单一合法叙事。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 ---
 
@@ -170,7 +170,7 @@ updated: 2026-09-12
 > - **1972 — 组织决策的垃圾桶模型** 科恩、马奇与奥尔森（Cohen, March, & Olsen, 1972）提出组织歧义性概念，指出大学等组织具有目标含混、技术不清晰与参与流动三大特征。
 > - **1989 — 《无序的秩序》确立政策歧义性分析** 费尔德曼（Martha Feldman, 1989）系统界定歧义性为“对同一情境存在多种并存思考方式”，论证信息生产在政策制定中的符号化机制。
 > - **2003–2017 — [[Multiple Streams Framework|多源流分析框架]]的深化** 扎哈里亚迪斯（Nikolaos Zahariadis）将决策歧义性确立为多源流理论的[[Epistemology|认识论]]基石，强调政策过程的本质是操纵与管理歧义性。
-> - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代的[[Policy Brokerage|政策中介]]整合** 施泰纳-哈姆西等（Steiner-Khamsi et al., 2024）指出在证据过剩的数字时代，政策中介凭借数字理性[[Scaffolding|脚手架]]对政策歧义性进行定向[[Transfer Translation Transformation|转译]]与治理控制。
+> - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代的[[Policy Brokerage|政策中介]]整合** 施泰纳-哈姆西等（Steiner-Khamsi et al., 2024）指出在[[Surplus of Evidence|证据过剩]]的数字时代，政策中介凭借数字理性[[Scaffolding|脚手架]]对政策歧义性进行定向[[Transfer Translation Transformation|转译]]与治理控制。
 
 ---
 

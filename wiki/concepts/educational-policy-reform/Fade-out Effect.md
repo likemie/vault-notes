@@ -113,7 +113,7 @@ updated: 2026-08-22
 
 > [!case] 早期学前教育（Head Start / Perry Preschool）的认知衰退与非认知长效性
 > - **认知效应的迅速消退** 全美 Head Start 大规模追踪显示，处境不利儿童在学前班结束时获得的 IQ 与阅读优势，在升入小学三年级时基本被对照组完全追平（典型的认知 Fade-out）。
-> - **成年期的长效觉醒** 著名的 Perry 幼教长期跟踪（Schweinhart et al., 2005）表明，尽管认知测验优势在小学中期消失，但干预培养的自律性、出勤习惯与社会情感能力在成年后重新显现（Sleeper Effect），表现为高中毕业率显著提升、犯罪率显著下降与收入增加。
+> - **成年期的长效觉醒** 著名的 Perry 幼教长期跟踪（Schweinhart et al., 2005）表明，尽管认知测验优势在小学中期消失，但干预培养的自律性、出勤习惯与[[Social-Emotional Learning|社会情感能力]]在成年后重新显现（Sleeper Effect），表现为高中毕业率显著提升、犯罪率显著下降与收入增加。
 
 > [!case] [[Peer-Assisted Learning Strategies|PALS]] 与 [[Community Innovation Survey|CIS]] 在 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 审查中的随访滑铁卢（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]）
 > - [[Peer-Assisted Learning Strategies|PALS]]（[[Peer-Supported Learning|同伴互助]]）与 CIS（[[Communities in Schools|校内社区]]）在多个机构中被证明能显著提升当期阅读与学校参与；

@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -51,6 +51,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Education for All]]"
+  - "[[Global Education Monitoring Report]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[UNICEF]]"

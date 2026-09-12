@@ -7,10 +7,10 @@ aliases:
 summary: "Grek (2009) 提出的概念，指通过量化指标、国际排名和数据比较实现跨国教育治理的软性机制，PISA 是这一治理模式的典型工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - governance-by-numbers
   - pisa
@@ -50,6 +50,7 @@ related_facts:
   - "[[Building Evidence in Education]]"
   - "[[UNESCO]]"
   - "[[Learning Data Compact]]"
+  - "[[PISA for Development]]"
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -102,7 +103,7 @@ updated: 2026-09-12
 > [!feature] 核心要素
 > - **量化数据的政治权威** [[PISA]] 等数据被分析和解读后为教育政策制定和改革所用。国际组织通过发布测评结果和全球排名，为各国政策制定者提供远距离指导（Remote Guidance），用以验证既有改革的合法性或驱动后续政策（Gillis et al., 2016）。
 > - **去情境化与普遍性外观** 跨国测验受益于其去情境化和普遍性特征，使不同政治、文化和历史背景的教育体系可以在同一标尺上被排列和比较，为循证政策制定披上[[Façade of Rationality|理性外衣]]。
-> - **信息过量下的[[Policy Brokerage|政策中介]]化（2.0 阶段特征）** 在数字化时代的研究证据过剩与信息孤岛环境下，更多知识并未减少政策歧义；数字治理演进为依托[[Policy Brokerage|政策中介]]机构选择性筛选科研发现并将其[[Transfer Translation Transformation|转译]]为定向政策证据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> - **信息过量下的[[Policy Brokerage|政策中介]]化（2.0 阶段特征）** 在数字化时代的[[Surplus of Evidence|研究证据过剩]]与信息孤岛环境下，更多知识并未减少政策歧义；数字治理演进为依托[[Policy Brokerage|政策中介]]机构选择性筛选科研发现并将其[[Transfer Translation Transformation|转译]]为定向政策证据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **[[Soft Power by Hard Facts|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 国际组织将核心中介工具与差异化知识产品打包（如[[OECD|经合组织]]的 PISA 绑定国别经验对照，[[World Bank|世界银行]]的基准数据库绑定自指性实践仓库），通过指标问责施展软权力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
 
 > [!logic-map]- 数字治理 1.0 向 2.0 演进逻辑图
@@ -151,7 +152,7 @@ updated: 2026-09-12
 > 探讨从 1.0 的测验排名推进至 2.0 阶段的[[Policy Brokerage|政策中介]]竞争与国家政策周期的多阶段过滤。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **中介证据包装与行政出台阶段的政治过滤** 在信息过载与证据过剩的数字经济下，数字治理进入 2.0 阶段；国际组织不再仅靠单次发榜制造冲击，而是通过长期扮演政策中介，将测评工具与辅助知识打包以确立组织利基。在国家政策周期中，跨国中介证据在议程设置阶段被广泛动员，但在行政部门颁布法令的法定决策阶段，主权国家官僚往往展现出强烈的自主筛选与政治过滤倾向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–547)]]
+> **中介证据包装与行政出台阶段的政治过滤** 在信息过载与[[Surplus of Evidence|证据过剩]]的数字经济下，数字治理进入 2.0 阶段；国际组织不再仅靠单次发榜制造冲击，而是通过长期扮演政策中介，将测评工具与辅助知识打包以确立组织利基。在国家政策周期中，跨国中介证据在议程设置阶段被广泛动员，但在行政部门颁布法令的法定决策阶段，主权国家官僚往往展现出强烈的自主筛选与政治过滤倾向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–547)]]
 
 ---
 

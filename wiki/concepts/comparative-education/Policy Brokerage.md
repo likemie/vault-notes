@@ -123,7 +123,7 @@ updated: 2026-09-12
 > 探讨数字化时代知识供给过剩如何颠覆传统理性决策[[Hypothesis|假设]]，促成政策中介机构的制度性崛起。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **证据过剩催生选择性[[Transfer Translation Transformation|转译]]需求** 在数字经济与海量信息时代，更多研究证据并不必然减少政策制定中的歧义性或自动促进循证决策；恰恰相反，信息过载为那些能够选择性吸纳研究成果、将科研发现精炼转化为政策证据并进而开展实用转译的机构与个人提供了繁茂[[Growth|生长]]的土壤。政策中介的核心说服机制在于让决策者确信中介机构洞悉全局并能从中提炼出不可替代的确定性结论。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
+> **[[Surplus of Evidence|证据过剩]]催生选择性[[Transfer Translation Transformation|转译]]需求** 在数字经济与海量信息时代，更多研究证据并不必然减少政策制定中的歧义性或自动促进循证决策；恰恰相反，信息过载为那些能够选择性吸纳研究成果、将科研发现精炼转化为政策证据并进而开展实用转译的机构与个人提供了繁茂[[Growth|生长]]的土壤。政策中介的核心说服机制在于让决策者确信中介机构洞悉全局并能从中提炼出不可替代的确定性结论。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
 
 ---
 

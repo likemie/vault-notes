@@ -325,7 +325,7 @@ updated: 2026-08-22
 > | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | 166 | 属于[[Academic Achievement\|学业表现]]、学校文化、就学准备主题下的项目 |
 > | **[[Best Evidence Encyclopedia\|BEE]]** | 124 | BEE 网站按字母顺序列出的全部具名项目（涵盖阅读、写作、早教、全校改革、数学等） |
 > | **[[Home Visiting Evidence of Effectiveness\|HomVEE]]** | 53 | 处理儿童发展与就学准备结果的家访模型项目 |
-> | **[[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]]** | 25 | 2015 版 CASEL 指南中收录的全部社会情感学习项目 |
+> | **[[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]]** | 25 | 2015 版 CASEL 指南中收录的全部[[Social-Emotional Learning\|社会情感学习]]项目 |
 > | **[[Social Programs That Work\|SPTW]]** | 24 | 产前/早期儿童、K–12 教育、高等教育主题下的项目 |
 > | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]** | 11 | 儿童福利系统下儿童与青少年教育干预主题项目 |
 > | **[[CNCS Evidence Exchange\|CNCS EE]]** | 52 | “教育”与“能力建设”领域内有成效研究且具备证据等级的项目 |

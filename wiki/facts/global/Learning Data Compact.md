@@ -10,7 +10,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_facts:
   - "[[UNICEF]]"
   - "[[World Bank]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Multiple Indicator Cluster Surveys]]"
   - "[[Building Evidence in Education]]"
   - "[[PISA]]"
   - "[[OECD]]"

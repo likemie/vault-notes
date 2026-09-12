@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 53
+fact_related_count: 55
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -64,7 +64,9 @@ related_facts:
   - "[[OECD]]"
   - "[[Beyond 2000 Report]]"
   - "[[IEA]]"
+  - "[[PISA for Development]]"
   - "[[Baby PISA]]"
+  - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[HarmoS]]"
   - "[[National Assessment of Education Quality China 2007]]"
   - "[[Lisbon Strategy]]"

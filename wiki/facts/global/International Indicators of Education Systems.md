@@ -16,7 +16,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -59,6 +59,7 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[PISA]]"
   - "[[A Nation at Risk 1983]]"
+  - "[[Teaching and Learning International Survey]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"

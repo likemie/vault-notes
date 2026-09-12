@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: specialized-un-fund
 headquarters: "纽约（美国）"
@@ -37,6 +37,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[Education for All]]"
+  - "[[Multiple Indicator Cluster Surveys]]"
   - "[[OECD]]"
   - "[[Learning Data Compact]]"
   - "[[Global Partnership for Education]]"

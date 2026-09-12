@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -41,7 +41,9 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[IEA]]"
+  - "[[PISA for Development]]"
   - "[[Baby PISA]]"
+  - "[[Programme for the International Assessment of Adult Competencies]]"
 related_arguments: []
 sources:
   - "[[sources/Zhao_2020_JEC|Zhao_2020_JEC]]"

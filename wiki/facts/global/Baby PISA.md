@@ -13,9 +13,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 38
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2015–至今"
 initiator_organization: "[[OECD]]"
@@ -26,31 +26,54 @@ tags:
   - oecd
   - pisa
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Champ]]"
+  - "[[Return on Investment]]"
+  - "[[Hypothesis]]"
+  - "[[Academic Achievement]]"
+  - "[[Construct]]"
+  - "[[Executive Function]]"
+  - "[[Working Memory]]"
+  - "[[Gamification]]"
+  - "[[Growth]]"
+  - "[[Educational Level]]"
+  - "[[Affective Outcomes]]"
+  - "[[Technical Rationality]]"
+  - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Lifelong Learning]]"
-  - "[[Academic Achievement]]"
   - "[[Test-Based Accountability]]"
   - "[[Mediatised Governance]]"
   - "[[Rashomon Effect]]"
   - "[[Policy Borrowing]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
+  - "[[Item Response Theory]]"
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Triangulation]]"
   - "[[Rasch Measurement]]"
   - "[[Sampling Frame]]"
   - "[[Pilot Testing]]"
+  - "[[Random Sampling]]"
+  - "[[Item Analysis]]"
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Yong Zhao]]"
 related_facts:
-  - "[[OECD]]"
   - "[[PISA]]"
+  - "[[OECD]]"
+  - "[[Educational Testing Service]]"
+  - "[[Australian Council for Educational Research]]"
+  - "[[Programme for the International Assessment of Adult Competencies]]"
 related_arguments:
   - "[[Argument_Zhao_2020_JEC]]"
   - "[[Argument_Grey_2018_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Baby PISA
@@ -81,7 +104,7 @@ updated: 2026-09-11
 >   - **早期读写能力（Emergent Literacy）** 包含口头表达、语音意识与词汇理解；
 >   - **早期数理素养（Emergent Numeracy）** 包含计数、数字感知、形状识别与简单推理；
 >   - **自我调节（Self-Regulation / [[Executive Function]]）** 包含[[Working Memory|工作记忆]]、抑制控制与注意力切换；
->   - **社会情感能力（Social-Emotional Skills）** 重点测量同理心认知、情绪识别与亲社会行为。
+>   - **[[Social-Emotional Learning|社会情感能力]]（Social-Emotional Skills）** 重点测量同理心认知、情绪识别与亲社会行为。
 > - **测试媒介与干预形态** 改变传统纸笔测试，采用装载趣味动画叙事的平板电脑[[Gamification|游戏化]]软件进行一对一施测，由经过培训的外部主试员对儿童进行约 60 分钟的分段互动测试。
 > - **[[Questionnaire|问卷]]与多源[[Triangulation|三角互证]]** 向受测儿童父母发放家庭养育环境与 SES 调查表，向带班教师发放儿童日常行为观察量表，试图将微观家庭互动与社区生态纳入数据模型。
 

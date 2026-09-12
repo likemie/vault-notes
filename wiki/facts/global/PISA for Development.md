@@ -2,13 +2,19 @@
 title: PISA for Development
 aliases:
   - PISA-D
-  - 发展中国家PISA
-  - 发展型PISA
+  - 发展中国家国际学生评估项目
+  - 发展型国际学生评估
   - OECD PISA-D
 summary: "经合组织（OECD）于 2014 年针对中低收入发展中国家专门设立的定制化测评与能力建设项目，旨在将其旗舰测评工具扩张至非经合组织伙伴国。通过调整试题难度下限、纳入校外青少年抽样、丰富背景问卷指标，将全球南方的基础素养监测纳入侵入性的经合组织标准化量规体系，标志着 OECD 与世界银行、教科文组织在全球南方治理版图上的直接竞争。"
 type: fact
 subtype: program
 region: global
+fact_region: "global"
+fact_kind: "program"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#ede9fe"
 period: "2014–至今"
 initiator_organization: "[[OECD]]"
 tags:
@@ -18,26 +24,28 @@ tags:
   - theme/development-education
   - theme/global-governance
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
+  - "[[Grade Retention]]"
+  - "[[Variable]]"
+  - "[[Going Native]]"
   - "[[Policy Brokerage]]"
-  - "[[Global Education Governing Complex]]"
   - "[[Development Turn in Comparative Education]]"
-  - "[[Governing by Numbers]]"
-  - "[[Education-for-Mandates]]"
+  - "[[Global Education Governing Complex]]"
 related_theories: []
-related_methods:
-  - "[[Quantitative Research]]"
-  - "[[Survey Research]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Christian Ydesen]]"
-  - "[[Kerstin Martens]]"
-  - "[[Gita Steiner-Khamsi]]"
+related_persons: []
 related_facts:
-  - "[[OECD]]"
   - "[[PISA]]"
+  - "[[OECD]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Global Partnership for Education]]"
+  - "[[UNICEF]]"
+  - "[[Australian Council for Educational Research]]"
+  - "[[Educational Testing Service]]"
+  - "[[Learning Data Compact]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -75,7 +83,7 @@ updated: 2026-09-12
 > - **实施控制** 采用纸笔测验与平板入户调查并行模式，建立严格的跨国等值化参数锚定规程，确保其得分与主线 PISA 量表绝对互通。
 
 > [!citation-card] [[OECD|经合组织]]测评帝国向全球南方的扩张与组织间竞争
-> 随着经合组织的 PISA 测评全面扩张至非经合组织伙伴国（通过 PISA-D 等工具），这些国际组织（[[Global Partnership for Education|GPE]]、OECD、[[UNESCO]]、[[UNICEF]] 与[[World Bank|世界银行]]）如今在很大程度上处于同一批国家开展业务竞争的重叠格局。各国际组织之间围绕全球规范制定与政策影响力的争夺日益白热化，多边机构正通过扩展其测评工具与建立排他性跨界联盟来标定各自的势力范围。Steiner-Khamsi et al. (2024, p. 544)
+> 随着经合组织的 PISA 测评全面扩张至非经合组织伙伴国（通过 PISA-D 等工具），这些国际组织（[[Global Partnership for Education|GPE]]、OECD、[[UNESCO]]、[[UNICEF]] 与[[World Bank|世界银行]]）如今在很大程度上处于同一批国家开展业务竞争的重叠格局。各国际组织之间围绕全球规范制定与政策影响力的争夺日益白热化，多边机构正通过扩展其测评工具与建立排他性跨界联盟来标定各自的势力范围。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 >
 > *With the OECD’s PISA expansion into non-OECD partner countries, these IOs now operate in great part in the same countries. A preliminary assessment seems to suggest that the five main IOs in education have increased their competition over the past few years... demarcating their territory and extolling their comparative advantage vis-à-vis other IOs.*
 

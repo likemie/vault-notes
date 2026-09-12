@@ -56,7 +56,7 @@ updated: '2026-05-18'
 > - Vol. 1: *Policy and Practice*（Pont, Nusche & Moorman, 2008b）
 > - Vol. 2: *Case Studies on System Leadership*（Pont, Nusche & Hopkins, 2008a）
 >
-> 其中第二卷邀请研究者（包括 Møller 本人）从五个国家收集"最佳实践"案例，这些国家基于 [[PISA]] 等国际大规模评估的积极结果和创新性领导力分配模型入选([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])。
+> 其中第二卷邀请研究者（包括 Møller 本人）从五个国家收集"最佳实践"案例，这些国家基于 [[PISA]] 等[[International Large-Scale Assessments|国际大规模评估]]的积极结果和创新性领导力分配模型入选([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])。
 
 ## 核心建议
 

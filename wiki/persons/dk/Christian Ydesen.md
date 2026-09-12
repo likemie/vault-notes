@@ -7,7 +7,7 @@ summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大�
 type: person
 nationality: "dk"
 person_region: "dk"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -58,6 +58,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
+  - "[[Global Education Monitoring Report]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[1960 Bellagio Conference]]"
   - "[[1964 UNESCO-World Bank Cooperative Agreement]]"

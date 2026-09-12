@@ -3,13 +3,19 @@ title: Global Education Monitoring Report
 aliases:
   - GEMR
   - 全球教育监测报告
+  - 全民教育全球监测报告
   - EFA Global Monitoring Report
-  - EFA 全球监测报告
   - UNESCO GEMR
 summary: "由联合国教科文组织（UNESCO）主持、编辑独立的法定年度全球教育监测出版物与政策倡导工具，前身为 2002 年设立的《全民教育全球监测报告》（EFA GMR）。受国际社会与联合国大会委托，承担监督《2030 年可持续发展议程》教育目标（SDG 4）全球落实进展的法定职能，每年聚焦特定重大主题（如问责、包容、移民、技术等），运用严谨跨国证据评估主权国家政策依从性与资金缺口。"
 type: fact
 subtype: program
 region: global
+fact_region: "global"
+fact_kind: "program"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#ede9fe"
 period: "2002–至今"
 initiator_organization: "[[UNESCO]]"
 tags:
@@ -20,26 +26,29 @@ tags:
   - theme/global-governance
 related_concepts:
   - "[[Policy Brokerage]]"
-  - "[[Global Education Governing Complex]]"
-  - "[[Soft Power by Hard Facts]]"
+  - "[[Development Turn in Comparative Education]]"
+  - "[[Realism in International Relations]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Governing by Numbers]]"
-  - "[[Performance Indicators]]"
+  - "[[Global Citizenship]]"
+  - "[[Soft Power]]"
+  - "[[Dialogue in Education]]"
+  - "[[Soft Power by Hard Facts]]"
 related_theories: []
 related_methods:
-  - "[[Historical-Comparative Method]]"
-  - "[[Quantitative Research]]"
-  - "[[Qualitative Research]]"
+  - "[[Exploratory Factor Analysis]]"
 related_instruments: []
-related_persons:
-  - "[[Christian Ydesen]]"
-  - "[[Kerstin Martens]]"
-  - "[[Gita Steiner-Khamsi]]"
+related_persons: []
 related_facts:
+  - "[[Education for All]]"
   - "[[UNESCO]]"
   - "[[UN Sustainable Development Goals]]"
-  - "[[Education for All]]"
+  - "[[World Bank]]"
+  - "[[OECD]]"
+  - "[[UNICEF]]"
+  - "[[Multiple Indicator Cluster Surveys]]"
+  - "[[Global Partnership for Education]]"
   - "[[International Institute for Educational Planning]]"
-  - "[[Learning Data Compact]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -77,7 +86,7 @@ updated: 2026-09-12
 > - **实施控制** 设立独立的国际咨询委员会（Advisory Board），由世界知名教育学者、统计学家与民间代表审定报告方向，实行严格的同行外部匿名评审与事实核查机制，[[UNESCO|教科文组织]]官方无权修改其结论。
 
 > [!citation-card] 国际协定催生的全球基准与多边中介规制
-> [[Development Turn in Comparative Education|发展转向]]对全球南方国家的作用，正如量化转向对全球北方国家的作用一样。自 1990 年《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）确立以来，全球南方国家才被系统性置于国际组织的量化规制体系之下。新时代的国际协定推动了一批不断增长的国际基准与监测工具的诞生，这些基准由联合国教科文组织等机构统筹协调，并由[[World Bank|世界银行]]及其他多边[[Policy Brokerage|政策中介]]全面推行。Steiner-Khamsi et al. (2024, p. 541)
+> [[Development Turn in Comparative Education|发展转向]]对全球南方国家的作用，正如量化转向对全球北方国家的作用一样。自 1990 年《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）确立以来，全球南方国家才被系统性置于国际组织的量化规制体系之下。新时代的国际协定推动了一批不断增长的国际基准与监测工具的诞生，这些基准由联合国教科文组织等机构统筹协调，并由[[World Bank|世界银行]]及其他多边[[Policy Brokerage|政策中介]]全面推行。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 >
 > *The development turn was for countries of the Global South what the quantification turn was for countries of the non-communist Global North. The new era of international agreements propelled the creation of an ever-growing number of international benchmarks coordinated by UNESCO and enforced by IOs.*
 

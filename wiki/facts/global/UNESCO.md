@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNICEF]]"
   - "[[Learning Data Compact]]"
+  - "[[Global Education Monitoring Report]]"
   - "[[1960 Bellagio Conference]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"

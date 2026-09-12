@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -53,6 +53,8 @@ related_facts:
   - "[[OECD]]"
   - "[[Baby PISA]]"
   - "[[Educational Testing Service]]"
+  - "[[PISA for Development]]"
+  - "[[Programme for the International Assessment of Adult Competencies]]"
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Zhao_2020_JEC]]"

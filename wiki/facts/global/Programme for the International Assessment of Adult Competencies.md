@@ -9,6 +9,12 @@ summary: "经合组织（OECD）于 2011 年启动的全球大规模成人核心
 type: fact
 subtype: program
 region: global
+fact_region: "global"
+fact_kind: "program"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#ede9fe"
 period: "2011–至今"
 initiator_organization: "[[OECD]]"
 tags:
@@ -18,25 +24,31 @@ tags:
   - theme/human-capital
   - theme/global-governance
 related_concepts:
-  - "[[Policy Brokerage]]"
-  - "[[Governing by Numbers]]"
-  - "[[Human Capital Theory]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Problem Solving]]"
   - "[[Lifelong Learning]]"
-  - "[[Soft Power by Hard Facts]]"
+  - "[[Governing by Numbers]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Construct]]"
+  - "[[Further Education]]"
+  - "[[Educational Level]]"
+  - "[[Ecological Validity]]"
+  - "[[Paradigm]]"
+  - "[[Policy Brokerage]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Item Response Theory]]"
 related_methods:
-  - "[[Survey Research]]"
-  - "[[Quantitative Research]]"
+  - "[[Random Sampling]]"
+  - "[[Questionnaire]]"
+  - "[[Qualitative Research]]"
 related_instruments: []
-related_persons:
-  - "[[Christian Ydesen]]"
-  - "[[Kerstin Martens]]"
-  - "[[Gita Steiner-Khamsi]]"
+related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
-  - "[[Education at a Glance]]"
+  - "[[Educational Testing Service]]"
+  - "[[Teaching and Learning International Survey]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -74,7 +86,7 @@ updated: 2026-09-12
 > - **实施控制** 训练专职入户访调员、全流程数字轨迹质控、严格的计算机自适应算法校准与跨国[[Item Response Theory|项目反应理论]]（IRT）参数等价化处理。
 
 > [!citation-card] [[OECD|经合组织]]能力治理从学校走向全生命周期的扩张
-> 经合组织在 2000 年正式推出[[PISA|国际学生评估项目]]（PISA），此后相继衍生出成人能力评估（PIAAC）、教师教学调查（[[Teaching and Learning International Survey|TALIS]]）等跨国评价平台，确立了不可逆转的跨国比较规制体系。这种将知识与能力彻底量化化的规制企业，使其不仅穿透了各成员国的中小学课程，更将多边治理的触角直接伸向劳动力技能市场与[[Lifelong Learning|终身学习]]全生命周期。Steiner-Khamsi et al. (2024, pp. 541–542)
+> 经合组织在 2000 年正式推出[[PISA|国际学生评估项目]]（PISA），此后相继衍生出成人能力评估（PIAAC）、教师教学调查（[[Teaching and Learning International Survey|TALIS]]）等跨国评价平台，确立了不可逆转的跨国比较规制体系。这种将知识与能力彻底量化化的规制企业，使其不仅穿透了各成员国的中小学课程，更将多边治理的触角直接伸向劳动力技能市场与[[Lifelong Learning|终身学习]]全生命周期。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 >
 > *[[Governing by Numbers|governance by numbers]] fully evolved with PISA and PISA-induced education knowledge outlets. Cross-national comparison or metrics became the hallmark of the OECD. The quantification enterprise of the OECD became unstoppable, expanding its reach into lifelong learning and adult competencies.*
 

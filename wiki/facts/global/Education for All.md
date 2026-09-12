@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_facts:
   - "[[UNICEF]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Global Partnership for Education]]"
+  - "[[Global Education Monitoring Report]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[OECD]]"
 related_arguments:

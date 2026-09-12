@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
     },
     {
+      "basename": "PISA for Development",
+      "path": "wiki/facts/global/PISA for Development.md"
+    },
+    {
+      "basename": "Programme for the International Assessment of Adult Competencies",
+      "path": "wiki/facts/global/Programme for the International Assessment of Adult Competencies.md"
+    },
+    {
+      "basename": "Teaching and Learning International Survey",
+      "path": "wiki/facts/global/Teaching and Learning International Survey.md"
+    },
+    {
+      "basename": "Global Partnership for Education",
+      "path": "wiki/facts/global/Global Partnership for Education.md"
+    },
+    {
       "basename": "Knowledge and Innovation Exchange",
       "path": "wiki/facts/global/Knowledge and Innovation Exchange.md"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "Technology Deficit of Education",
       "path": "wiki/concepts/comparative-education/Technology Deficit of Education.md"
-    },
-    {
-      "basename": "Global Partnership for Education",
-      "path": "wiki/facts/global/Global Partnership for Education.md"
     },
     {
       "basename": "Soft Power by Hard Facts",
@@ -187,18 +199,6 @@
     {
       "basename": "Global Education Governing Complex",
       "path": "wiki/concepts/comparative-education/Global Education Governing Complex.md"
-    },
-    {
-      "basename": "Relational Space",
-      "path": "wiki/concepts/comparative-education/Relational Space.md"
-    },
-    {
-      "basename": "Absorptive Capacity",
-      "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
     }
   ],
   "omittedPaths": [],
