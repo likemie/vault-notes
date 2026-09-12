@@ -10,7 +10,7 @@ aliases:
 summary: "循证教育治理中的制度化中介机构，指通过设定因果证据标准、审查实证研究并发布项目有效性评级的专业实体平台；在更广泛的知识治理中涵盖部委嵌入、自主资助与独立慈善等多元制度谱系；实证研究表明其评级面临显著的跨机构门槛分歧与构念效度挑战，且在长效存续上面临2至3年短期政治预算周期的制度性制约。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 96
+related_count: 97
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Fade-out Effect]]"
   - "[[Iatrogenic Effects in Education]]"
   - "[[International Education]]"
+  - "[[Ecological Validity]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evaluation Research]]"
   - "[[Convergent and Discriminant Validity]]"
@@ -59,7 +60,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm]]"
-  - "[[Ecological Validity]]"
   - "[[Selectivity]]"
   - "[[Professional Judgment]]"
 related_theories:
@@ -74,9 +74,7 @@ related_methods:
   - "[[PRISMA]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Case Study]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Pilot Testing]]"
   - "[[Multitrait-Multimethod Matrix]]"
   - "[[Statistical Significance]]"
   - "[[Experimental Research]]"
@@ -97,12 +95,19 @@ related_facts:
   - "[[Best Evidence Synthesis]]"
   - "[[Kenniskamer]]"
   - "[[National Institute for Educational Policy Research]]"
+  - "[[Australian Education Research Organisation]]"
+  - "[[Swiss Coordination Centre for Research in Education]]"
+  - "[[Kunnskapssenter for utdanning]]"
   - "[[Canadian Council on Learning]]"
+  - "[[EPPI-Centre]]"
+  - "[[Danish Clearinghouse for Educational Research]]"
   - "[[Education Endowment Foundation]]"
   - "[[Education Reform Initiative]]"
+  - "[[Research Schools Network]]"
   - "[[Kennisrotonde]]"
+  - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[Education Media Centre]]"
-  - "[[EPPI-Centre]]"
+  - "[[Campbell Collaboration]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[Promising Practices Network]]"
@@ -114,15 +119,11 @@ related_facts:
   - "[[CNCS Evidence Exchange]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Institute for Effective Education]]"
-  - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[Evidence-Based Teachers Network]]"
-  - "[[Danish Clearinghouse for Educational Research]]"
   - "[[Swedish Institute for Educational Research]]"
-  - "[[Campbell Collaboration]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[OECD]]"
   - "[[No Child Left Behind Act 2001]]"
-  - "[[Australian Education Research Organisation]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
@@ -191,15 +192,26 @@ updated: 2026-09-13
 
 ---
 
-### 2. 国际教育中介与清算机构的三维治理谱系
+### 2. 国际教育中介与清算机构的三维治理谱系与制度特征（Burns & Schuller, 2022; pp. 61–64）
 
-> [!dimension] [[International Education|国际教育]]中介机构的三维治理谱系（Burns & Schuller, 2022; pp. 61–64）
-> - **治理依附关系维度（Institutional Location）**
->   机构在体制上与中央/地方教育行政部门的从属关系，涵盖部委内部直属嵌入型（如新西兰 [[Best Evidence Synthesis|BES]]、荷兰 [[Kenniskamer]]）、政府资助的独立法定法人型（如日本 [[National Institute for Educational Policy Research|NIER]]、挪威知识中心、加拿大 [[Canadian Council on Learning|CCL]]），以及完全独立的民间慈善/基金型（如英国 [[Education Endowment Foundation|EEF]]、土耳其 [[Education Reform Initiative|ERG]]）。
-> - **目标受众与沟通定位维度（Target Audience）**
->   机构的核心服务对象与信息转译方向，分化为服务内阁宏观立法的政策导向型、服务中小学课堂日常的实践导向型（如荷兰 NRO [[Kennisrotonde|知识环岛]]、EEF 工具包），以及专门反制媒体伪科学炒作的媒介沟通型（如[[Education Media Centre|英国教育媒体中心]]）。
-> - **证据审查与方法学立场维度（Synthesis Stance）**
->   机构对待证据合法性的[[Epistemology|认识论]]路线，分化为主张唯 RCT 与准实验为准绳的因果实证派（如美国 WWC、英国 EEF），以及主张质性经验、[[Case Study|个案研究]]与多元[[Mixed Methods Research|混合方法]]具有平等认识论地位的多[[Meta-meta-analysis|元综合]]派（如英国 UCL [[EPPI-Centre]]、挪威知识中心）。
+国际[[Evidence-Based Education|循证教育]]治理体系中的清算中心与中介机构，在行政依附、受众导向与方法学立场上展现出清晰的类型学分化。这些类型特征直接决定了机构的资源稳定性、学术公信力、政策对齐度以及面对 2 至 3 年短期政治预算周期时的存续韧性：
+
+> [!row-contrast] [[International Education|国际教育]]中介机构的制度特征：治理依附谱系（pp. 61–64）
+> | 治理依附类型 | 典型代表案例 | 组织架构与运行机制 | 制度比较优势 | 体制风险与伴生挑战 |
+> |---|---|---|---|---|
+> | **部委直属嵌入型** | 新西兰 [[Best Evidence Synthesis\|BES]]；<br>荷兰 [[Kenniskamer]] | 教育部内设处室，全额依托政府行政预算。 | 政策对齐度极高，研究议程直通国家决策核心。 | 缺乏学术自主，极易随政党轮替或部长换届被关停。 |
+> | **政府资助自治型** | 日本 [[National Institute for Educational Policy Research\|NIER]]；<br>澳大利亚 [[Australian Education Research Organisation\|AERO]]；<br>瑞士 [[Swiss Coordination Centre for Research in Education\|SKBF / CSRE]]；<br>挪威 [[Kunnskapssenter for utdanning]]；<br>加拿大 [[Canadian Council on Learning\|CCL]] | 依托国家立法、独立行政法人或联邦/各州跨辖区联合资助。 | 享法定学术独立性，与日常政治保持健康专业距离。 | 跨部门协调成本高；在联邦制分权博弈中存财政撤销风险。 |
+> | **大学依托合同型** | 英国 [[EPPI-Centre]]；<br>丹麦 [[Danish Clearinghouse for Educational Research\|丹麦清算中心]] | 扎根顶尖大学学术共同体，依托部委定期服务合同或自主承接课题。 | 学术信誉高，能借助大学科研资源开展复杂综合。 | 高度依赖政府续约合同，合同终止即面临解散关停。 |
+> | **独立慈善基金型** | 英国 [[Education Endowment Foundation\|EEF]]；<br>土耳其 [[Education Reform Initiative\|ERG]] | 独立慈善信托或民间基金会支持，靠永久留本基金运作。 | 战略自主性极强，彻底摆脱 2–3 年选举与短期预算撕扯。 | 与正式问责法规易脱节，若政策层不吸纳易致体制外悬浮。 |
+
+> [!row-contrast] 国际[[Educational Brokerage Agency|教育中介机构]]的制度特征：受众分工与方法学立场（pp. 61–64）
+> | 划分维度与亚型 | 典型代表案例 | 核心中介机制与产出 | 比较优势与功能价值 | 局限与伴生挑战 |
+> |---|---|---|---|---|
+> | **政策制定导向型** | 早期中介机构；<br>美国 [[What Works Clearinghouse\|WWC]]（政策端）；<br>日本 NIER 政策部 | 产出快速政策简报、宏观监测指标与立法咨询。 | 紧扣国家大政方针，宏观制度撬动力强。 | 文本抽象官僚化，脱离微观课堂教学与教师学情。 |
+> | **基层实践导向型** | 澳大利亚 [[Australian Education Research Organisation\|AERO]]；<br>英国 [[Research Schools Network\|EEF 研究学校网络]]；<br>荷兰 [[Kennisrotonde]]；<br>英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]] | 开发实践工具包、国家核心课程大纲、问答平台与校际同伴网络。 | 直接支持一线教师微观决策，提升课堂实践采纳度。 | 规模复制中存情境稀释风险，易被借以政策脱责。 |
+> | **大众媒体导向型** | 英国 [[Education Media Centre\|EMC]] | 对接新闻媒体采编室，提供事实核查与专家推荐。 | 阻断伪科学在公共舆论发酵，守护学术公信力。 | 受制于外部新闻突发热点，难以长线系统规划。 |
+> | **因果实证派（RCT）** | 美国 [[What Works Clearinghouse\|WWC]]；<br>英国 EEF；<br>澳大利亚 AERO；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 确立随机对照试验为因果黄金标准，严苛偏倚评估。 | 结论[[Internal Validity\|内部效度]]极高，提供确凿因果效应量支撑。 | 排斥质性知识，难以阐释“为何有效与如何发生”。 |
+> | **多[[Meta-meta-analysis\|元综合]]派（混合）** | 英国 [[EPPI-Centre]]；<br>挪威 Kunnskapssenter；<br>新西兰 BES | 质性、量化与[[Mixed Methods Research\|混合方法]]系统综合，吸纳临床智慧。 | [[Ecological Validity\|生态效度]]高，兼顾复杂微观语境，护持专业判断。 | 方法规程繁复漫长，缺乏量化直观一刀切指标。 |
 
 ---
 
@@ -235,42 +247,17 @@ updated: 2026-09-13
 
 ### 4. 全球主要教育证据清算中心与中介机构全景索引
 
-> [!dual-header] 全球主要教育证据清算中心与中介机构全景索引（共 33 所代表性机构，可横向拖拽浏览）
-> | 机构名称与国别 (CH / Country) | 主要领域与学科焦点 | 目标人群定位 | 资助性质与依托机构 | 评估对象与综合形式 | 当前运营状态 | 官方平台与治理动态说明 |
-> |:---|:---|:---|:---|:---|:---:|:---|
-> | **[[What Works Clearinghouse\|美国强效作为清算所]]**<br>*(WWC, 美国)* | **教育全领域专精**<br>学前早教 · 读写与数学 · 英语学习者 · 特教 · 教师卓越 · 高等教育 | 学前至高校全体学生 | **联邦公共部门 (Public)**<br>美国教育部教育科学研究院 (IES, >$100M) | 项目、政策、实践指南<br>单项研究技术审查 | 🟢 **活跃运营**<br>*(Active)* | [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)<br>全球旗舰清算所，技术手册已迭代至 v5.0，受联邦法定授权与经常性预算支撑。 |
-> | **[[Blueprints for Healthy Youth Development\|健康青年发展蓝图]]**<br>*(Blueprints, 美国)* | **跨界发展与行为**<br>青少年行为 · 犯罪与暴力预防 · 身心健康 · 学业留存 | 青少年与儿童 | **大学依托非营利 (Nonprofit)**<br>科罗拉多大学博尔德分校 IBS | 具名项目与干预方案<br>(Model Plus / Model) | 🟢 **活跃运营**<br>*(Active)* | [blueprintsprograms.org](https://www.blueprintsprograms.org)<br>设立最严苛门槛，强制要求独立第三方评估与 12 个月持续追踪，过滤 90% 以上商业项目。 |
-> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|加州儿童福利循证清算中心]]**<br>*(CEBC, 美国)* | **儿童福利与基础教育**<br>儿童福利 · 行为发展 · 家庭干预 · 学业支持 | 脆弱儿童与家庭 | **州立公共部门 (Public)**<br>加利福尼亚州社会服务部 (CDSS) | 具名项目与干预方案 | 🟢 **活跃运营**<br>*(Active)* | [cebc4cw.org](https://www.cebc4cw.org)<br>仅限同行评审文献入库，设置 12 个月随访持续效果刚性门槛，在全美具有广泛引用效力。 |
-> | **[[Home Visiting Evidence of Effectiveness\|家访成效证据清算所]]**<br>*(HomVEE, 美国)* | **早期教育与家庭保健**<br>早期照护 · 亲子互动 · 语言发育 · 就学准备 | 孕妇家庭及 0–5 岁儿童 | **联邦公共部门 (Public)**<br>美国卫生与公众服务部 (HHS/ACF) | 具名项目与单项研究 | 🟢 **活跃运营**<br>*(Active)* | [homvee.acf.hhs.gov](https://homvee.acf.hhs.gov)<br>为 RCT、QED、RDD 设立极详尽标准，评级结果直接与联邦 MIECHV 专项拨款挂钩。 |
-> | **[[Promising Practices Network\|前景广阔的实践网络]]**<br>*(PPN, 美国)* | **儿童发展与综合教育**<br>行为发展 · 心理健康 · 基础教育 · 家庭经济 | 儿童、家庭与社区 | **智库非营利 (Nonprofit)**<br>兰德公司 (RAND Corporation) | 具名项目与干预方案 | 🔴 **结项归档**<br>*(Discontinued)* | [rand.org/pubs/tools/TL145](https://www.rand.org/pubs/tools/TL145.html)<br>兰德于 2014 年结项，网站于 2019 年下线，历史有效性评级沉淀于总结性技术报告。 |
-> | **[[Best Evidence Encyclopedia\|最佳证据百科全书]]**<br>*(BEE, 美国)* | **教育教学专精**<br>早期读写 · 中小学数学 · 科学教育 · 全校改革 | K–12 中小学生 | **大学/基金资助 (Academic)**<br>约翰斯·霍普金斯大学 (JHU CRRE) | 具名干预方案<br>(定量加权元分析) | 🟡 **平台重心迁移**<br>*(Shifted)* | [bestevidence.org](https://www.bestevidence.org)<br>罗伯特·斯莱文领衔开创；现核心评级功能已整合迁移至面向 ESSA 法案的新平台 [Evidence for ESSA](https://www.evidenceforessa.org)。 |
-> | **[[National Dropout Prevention Center\|国家预防辍学中心]]**<br>*(NDPC, 美国)* | **控辍保学专精**<br>高危生辍学预防 · 出勤留存 · 学业促进 · 辅导支持 | 处于学业高危风险的学生 | **非营利专业组织 (Nonprofit)**<br>Successful Practices Network | 具名项目与实践策略 | 🟢 **活跃运营**<br>*(Active)* | [dropoutprevention.org](https://dropoutprevention.org)<br>奉行实践包容哲学，准入门槛包容，要求项目在学校现场实际运行满 3 年即可参评。 |
-> | **[[Social Programs That Work\|行之有效的社会项目]]**<br>*(SPTW, 美国)* | **社会与教育跨界**<br>基础与高等教育 · 劳动就业 · 预防保健 · 社会福利 | 全年龄段人口 | **基金会资助 (Nonprofit)**<br>阿诺德风险基金 (Arnold Ventures) | 具名项目与干[[Pilot Testing\|预实验]] | 🟡 **活跃·极严门槛**<br>*(Selective)* | [evidencebasedprograms.org](https://evidencebasedprograms.org)<br>坚持严格 RCT 唯实主义，仅收录低流失（<20%）、真实世界良好实施并经独立多中心复制的项目。 |
-> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|军人家庭准备清算中心]]**<br>*(CMFR, 美国)* | **军属子女与家庭**<br>军人子女教育 · 心理健康 · 行为调适 · 就业衔接 | 军属家庭及适龄子女 | **联邦与大学合作 (Public)**<br>国防部/农业部与宾州州立大学 | 具名项目与干预方案 | 🟢 **活跃运营**<br>*(Active)* | [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)<br>维护“证据连续体”数据库，为实验与准实验设立分级标准，仅检索同行评审文献。 |
-> | **[[Collaborative for Academic Social and Emotional Learning Guide\|学术、社会与情感学习协作指南]]**<br>*(CASEL, 美国)* | **SEL 专项专精**<br>社会情感学习 (SEL) · 课堂行为整合 · 心理韧性 | 学前至中小学学生 | **专业非营利组织 (Nonprofit)**<br>CASEL 协同体 | 具名方案与课程指南 | 🟢 **活跃运营**<br>*(Active)* | [pg.casel.org](https://pg.casel.org)<br>发布 SEL 全美权威评级，兼顾严格实证因果效应、方案教学设计与教师专业培训支持。 |
-> | **[[Promise Neighborhoods Research Consortium\|承诺社区研究联盟]]**<br>*(PNRC, 美国)* | **脆弱社区综合治理**<br>贫困儿童早期预备 · 社区学校建设 · 心理支持 | 贫困社区青少年 | **联邦研究联盟 (Public)**<br>国家药物滥用研究所 (NIDA) 资助 | 政策、项目与实践体系 | 🔴 **结项下线**<br>*(Defunct)* | 原网站已停运<br>2009–2012 年联邦攻坚专项，项目结束后其“培育性环境”指标框架转化为学术文献。 |
-> | **[[CNCS Evidence Exchange\|国家与社区服务公司证据交流中心]]**<br>*(AmeriCorps, 美国)* | **志愿服务与教育辅导**<br>国民志愿服务 · 早期阅读辅导 · 退伍军人衔接 | 志愿服务者、中小学生 | **联邦法定机构 (Public)**<br>AmeriCorps 国家与社区服务公司 | 资助项目与干预模块 | 🟢 **活跃运营**<br>*(Active)* | [americorps.gov/evidence-exchange](https://americorps.gov/about/our-impact/evidence-exchange)<br>维护证据分层体系（Strong/Moderate/Preliminary），直接决定联邦数亿美元资助配置。 |
-> | **[[Education Endowment Foundation\|英国教育捐赠基金会]]**<br>*(EEF, 英国)* | **中小学教学法专精**<br>早期读写 · 数学思维 · 元认知 · 助教配置 · 教师专业发展 | 5–16 岁中小学生<br>(聚焦家庭经济劣势群体) | **独立慈善信托 (Charity)**<br>英国教育部 1.25 亿英镑留本设立 | 教学实践干预方案<br>大规模独立 RCT | 🟢 **活跃运营**<br>*(Active)* | [educationendowmentfoundation.org.uk](https://educationendowmentfoundation.org.uk)<br>欧洲旗舰中介机构，累计资助超 200 项独立 RCT，统领全英 Pupil Premium 经费开支。 |
-> | **[[EEF Teaching and Learning Toolkit\|EEF 教学与学习工具箱]]**<br>*(EEF Toolkit, 英国)* | **教学策略综合**<br>反馈 · 元认知 · 同伴辅导 · 班级规模等 30+ 项微观教学策略 | 中小学教师与校长 | **大学与慈善合作 (Academic)**<br>EEF 联合杜伦大学 / 约克大学 | 教学策略类别<br>(元分析系统综合) | 🟢 **活跃运营**<br>*(Active)* | [educationendowmentfoundation.org.uk/toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)<br>全球广泛借鉴的决策工具箱，以“额外学术进展月数（Months of Progress）”与成本直观呈现。 |
-> | **[[EPPI-Centre\|循证政策与实践信息协同中心]]**<br>*(EPPI-Centre, 英国)* | **社会科学与教育全科**<br>教育政策 · 教学法 · 卫生健康 · 社会关怀 | 政策制定者、研究者与实践群体 | **大学学术研究机构 (Academic)**<br>伦敦大学学院教育研究院 (UCL IoE) | 系统综述、方法学工具<br>(开发 EPPI-Reviewer 平台) | 🟢 **活跃运营**<br>*(Active)* | [eppi.ioe.ac.uk](https://eppi.ioe.ac.uk)<br>全球系统综述方法学重镇，开创质性与定量融合综合规程，依托大学共同体保持自治。 |
-> | **[[Institute for Effective Education\|有效教育研究所]]**<br>*(IEE / E4I, 英国)* | **基础教育教学法**<br>中小学读写 · 数学 · 科学 · 教育科技有效性 | 中小学教师与学校管理者 | **大学学术机构 (Academic)**<br>英国约克大学 (University of York) | 具名项目与评级指南<br>(Evidence 4 Impact 库) | 🟡 **在线资料库归档**<br>*(Archived)* | [evidence4impact.org.uk](https://www.evidence4impact.org.uk)<br>曾运营英国首个教育有效性检索平台 Evidence 4 Impact；后因专项资助到期归档维护。 |
-> | **[[Centre for the Use of Research and Evidence in Education\|循证教育研究与使用中心]]**<br>*(CUREE, 英国)* | **教师专业学习专精**<br>教师在职培训（CPD） · 证据知情教学 · 行动研究转译 | 中小学教师与学科带头人 | **专业独立咨询中介 (Intermediary)**<br>Philippa Cordingley 创立领衔 | 实践微观转译工具<br>(Research Route Maps) | 🟢 **活跃运营**<br>*(Active)* | [curee.co.uk](http://www.curee.co.uk)<br>专注于将复杂实证研究转译为教师易读的微观教学路线图，推动证据扎根教研日常。 |
-> | **[[Evidence-Based Teachers Network\|循证教师网络]]**<br>*(EBTN, 英国)* | **一线教学策略**<br>认知负荷理论 · 形成性评价 · 直接教学 · 记忆与检索练习 | 一线中小学教师与教研员 | **草根实践者网络 (Grassroots)**<br>一线教师自主联合发起 | 教学法实战手册与同行案例 | 🟢 **活跃运营**<br>*(Active)* | [ebtn.org.uk](http://www.ebtn.org.uk)<br>英国草根教师网络，倡导教师自主运用经认知科学检验的教学策略，形成自下而上的社群。 |
-> | **英国教育媒体中心**<br>*(Education Media Centre, 英国)* | **教育舆论事实核查**<br>公共媒体教育报道 · 热点教学法争议 · 政策解读 | 媒体记者、新闻编辑与大众公众 | **独立慈善中介 (Charity)**<br>借鉴科学媒介中心 (SMC) 模式 | 媒体事实核查简报、专家答疑 | 🟢 **活跃运营**<br>*(Active)* | [educationmediacentre.org](https://educationmediacentre.org)<br>专门对接主流媒体新闻编辑室，针对教育热点争议快速提供实证核查与专家引荐，反制谣言。 |
-> | **[[Danish Clearinghouse for Educational Research\|丹麦教育研究清算中心]]**<br>*(Clearinghouse DPU, 丹麦)* | **北欧教育与教师发展**<br>学前教育 · 基础教育 · 职业教育 · 教师专业化 | 丹麦及北欧教育者与政府部门 | **大学与政府合同 (Public)**<br>奥胡斯大学丹麦教育学院 (DPU) | [[Systematic Review\|系统综述]]与政策简报 | 🔴 **彻底关停**<br>*(Closed in 2017)* | 原中心已撤销<br>曾是北欧标志性清算中心；因依托政府 2–3 年短期合同，2017 年新内阁未续约被迫解散。 |
-> | **[[Swedish Institute for Educational Research\|瑞典教育研究所]]**<br>*(Skolfi, 瑞典)* | **基础教育系统综述**<br>学前教育 · 特殊教育 · 学科教学法 · 数字化学习 | 瑞典教师、校长与市镇教育局 | **国家法定机构 (State Agency)**<br>瑞典议会与政府全额法定拨款 | 本土化实践系统综述<br>资助一线实践研究 | 🟢 **活跃运营**<br>*(Active)* | [skolfi.se](https://www.skolfi.se)<br>瑞典国家级法定独立机构，系统开展北欧本土实践导向的系统综述，具备长期预算保障。 |
-> | **[[Top Institute for Evidence-Based Education Research\|循证教育研究顶尖研究所]]**<br>*(TIER, 荷兰)* | **教育经济学与政策评估**<br>教育因果政策评估 · 早期干预 · 高等教育改革 | 荷兰教育决策者与科研人员 | **国家大学联盟 (Academic)**<br>阿姆斯特丹大学 / 马斯特里赫特等 | 计量政策评估报告与 RCT | 🟡 **学术研究网络**<br>*(Academic Network)* | [tierweb.nl](https://www.tierweb.nl)<br>汇聚荷兰顶尖教育经济学家，运用微观计量方法与准实验设计评估重大国家教育政策成效。 |
-> | **荷兰教育部知识室**<br>*(Kenniskamer, 荷兰)* | **国家教育决策咨询**<br>教育部宏观战略 · 快速政策简报 · 部门协同 | 荷兰教育部高级决策官员与内阁 | **部委嵌入处室 (Embedded)**<br>荷兰教育部高层直属设立 | 快速政策综述与专家圆桌咨询 | 🔴 **休眠停摆**<br>*(Hibernating)* | 部委内部机制<br>完全对齐特定部长的个人执政议程；部长离任与内阁改组后，缺乏长效法制化保障而陷入停摆。 |
-> | **荷兰国家教育研究所知识环岛**<br>*(NRO Kennisrotonde, 荷兰)* | **基层教学与管理问答**<br>课堂教学日常 · 行为管理 · 全纳教育 · 课程改革 | 中小学与职业教育一线教师与校长 | **国家公共资助 (Public)**<br>荷兰国家教育研究所 (NRO/NWO) | 一线教师定制化双向问答服务<br>(母语通俗快速综述) | 🟢 **活跃运营**<br>*(Active)* | [kennisrotonde.nl](https://www.kennisrotonde.nl)<br>首创教师直接提问机制，专业中介在时限内出具定制化荷兰语解答，采纳率与满意度极高。 |
-> | **挪威教育知识中心**<br>*(Kunnskapssenter, 挪威)* | **全纳教育与实践综合**<br>学前教育 · 基础教育 · 教师教育 · 全纳支持 | 挪威各级教育者与决策部门 | **大学分权实体 (Academic/Public)**<br>斯塔万格大学 (2019年下放) | 实践系统综述与证据地图<br>(研究者-教师平行评审) | 🟢 **活跃运营**<br>*(Active)* | [uis.no/kunnskapssenter](https://www.uis.no/nb/kunnskapssenter-for-utdanning)<br>2019 年从国家研究理事会下放到大学分权试点，首创一线教师与研究者并行的综合与审查流程。 |
-> | **瑞士教育研究协调中心**<br>*(SKBF / CSRE, 瑞士)* | **联邦教育监测与综合**<br>国家教育体系效能 · 多语种教育 · 分权治理 | 瑞士联邦与各州教育部、研究者 | **联邦与州联合资助 (Joint Public)**<br>瑞士联邦政府与各州局长联席会 (EDK) | 四年一度《瑞士教育报告》<br>国家级教育专题综述 | 🟢 **活跃运营**<br>*(Active)* | [skbf-csre.ch](https://www.skbf-csre.ch)<br>独立常设机构，成功维系多语种（德/法/意/罗曼什）与高度分权联邦制环境下的知识中介治理。 |
-> | **[[Best Evidence Synthesis\|新西兰最佳证据综合]]**<br>*(NZ BES, 新西兰)* | **毛利族裔与领导力**<br>学校领导力 · 毛利与太平洋岛民教学 · 课堂社会生态 | 新西兰中小学教师与[[School Leadership\|学校领导]] | **部委嵌入项目处室 (Embedded)**<br>新西兰教育部直属全额资助 | 最佳证据综合报告、实践案例教学视频 | 🟡 **职能收缩·转向视频**<br>*(Shifted)* | [educationcounts.govt.nz](https://www.educationcounts.govt.nz)<br>早期开创“手把手辅导”综合模式；后因执政党更迭终止新综述资助，转向已有证据的视频化案例展示。 |
-> | **加拿大终身学习委员会**<br>*(CCL, 加拿大)* | **终身学习与原住民教育**<br>全生命周期学习 · 成人技能 · 早期教育 · 原住民发展 | 全年龄段学习者、联邦与各省决策者 | **联邦出资独立非营利 (Nonprofit)**<br>加拿大联邦政府出资设立 | 综合知识报告、复合学习指数 (CLI) | 🔴 **彻底关停**<br>*(Closed in 2012)* | 官方资产已清算<br>曾是加拿大全国性循证枢纽；在联邦政党轮替与联邦-省际教育主权博弈中被撤销拨款，被迫解散。 |
-> | **日本国立教育政策研究所**<br>*(NIER, 日本)* | **国家课程与学力监测**<br>全国学力调查 · 国家课程标准 · 教员队伍素质 | 日本文部科学省、地方教委与中小学 | **独立行政法人 (Autonomous Public)**<br>与文部科学省 (MEXT) 同楼办公 | 政策[[Evaluation Research\|评估研究]]、全国监测调查、教学指导资料 | 🟢 **活跃运营**<br>*(Active)* | [nier.go.jp](https://www.nier.go.jp)<br>特意与教育部同楼设立的法定智库，兼顾法定学术研究的客观独立性与对高层国家政策制定的无缝协同。 |
-> | **澳大利亚教育研究组织**<br>*(AERO, 澳大利亚)* | **教学实践与全纳学习**<br>早期学习 · 基础读写算 · 循证教学策略 · 实施科学 | 全澳各州教育官员、学校领导与教师 | **联邦与各州联席资助 (Joint Public)**<br>全澳各州与联邦教育部长联席会设立 | 实践指南、证据综合、实施工具包与因果标准 | 🟢 **活跃运营**<br>*(Active)* | [edresearch.edu.au](https://www.edresearch.edu.au)<br>2021 年新建的国家级循证中介旗舰，致力于统领全澳教育证据标准，推进证据在一线深度扎根。 |
-> | **土耳其教育改革倡议**<br>*(ERG, 土耳其)* | **教育公平与政策监测**<br>教育公平 · 性别与包容 · 课程政策 · 办学经费监测 | 土耳其决策界、教师共同体与公众 | **民间基金会联合资助 (Foundation)**<br>萨班哲大学 (Sabancı University) 依托 | 年度教育监测报告、政策建议案与研讨网络 | 🟢 **活跃运营**<br>*(Active)* | [egitimreformugirisimi.org](https://www.egitimreformugirisimi.org)<br>独立民间智库与中介典范，在缺乏国家拨款的环境下，完全依托社会慈善资本开展长期教育政策实证监测。 |
-> | **[[Campbell Collaboration\|坎贝尔协作网]]**<br>*(Campbell, 国际)* | **社会科学与教育全科**<br>教育学 · 社会福利 · 犯罪与司法 · 国际发展 · 残障 | 全球弱势群体、跨国组织与各国政府 | **国际非营利学术网络 (International)**<br>设于挪威公共卫生研究所 (NIPH) 等 | 跨国高标准系统综述、证据与差距地图 (EGM) | 🟢 **活跃运营**<br>*(Active)* | [campbellcollaboration.org](https://www.campbellcollaboration.org)<br>与医学 Cochrane 齐名的社会科学国际殿堂，遵循严苛的系统综述规程，引领全球循证方法学前沿。 |
-> | **[[EU Evidence-Informed Education Policy Initiatives\|欧洲教育循证政策网络]]**<br>*(EIPPEE, 欧洲)* | **跨国中介元治理**<br>跨国中介协同 · 系统综述标准 · 证据使用测度 | 欧洲 23 国政策制定者、中介机构与学者 | **欧盟资助转自费网络 (EU Network)**<br>欧盟委员会资助发起 (2010–2013) | 跨国中介大会、双轨治理会议、二阶综合指南 | 🟡 **自主联盟**<br>*(Network)* | [eippee.eu](http://www.eippee.eu)<br>欧洲标志性“中介的中介”元协调网络，汇聚 23 国 36 家机构，开创网络广度与专业深度并进的双轨机制。 |
+> [!dual-header] 全球主要教育证据清算中心与中介机构全景矩阵（共 33 所代表性机构横向全景对照，按“分析维度×机构实体”行列转置展开，可横向拖拽滑动）
+> | 比较与分析维度 (Dimensions) | **[[What Works Clearinghouse\|美国强效作为清算所]]**<br>*(WWC, 美国)* | **[[Blueprints for Healthy Youth Development\|健康青年发展蓝图]]**<br>*(Blueprints, 美国)* | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|加州儿童福利循证清算中心]]**<br>*(CEBC, 美国)* | **[[Home Visiting Evidence of Effectiveness\|家访成效证据清算所]]**<br>*(HomVEE, 美国)* | **[[Promising Practices Network\|前景广阔的实践网络]]**<br>*(PPN, 美国)* | **[[Best Evidence Encyclopedia\|最佳证据百科全书]]**<br>*(BEE, 美国)* | **[[National Dropout Prevention Center\|国家预防辍学中心]]**<br>*(NDPC, 美国)* | **[[Social Programs That Work\|行之有效的社会项目]]**<br>*(SPTW, 美国)* | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|军人家庭准备清算中心]]**<br>*(CMFR, 美国)* | **[[Collaborative for Academic Social and Emotional Learning Guide\|学术、社会与情感学习协作指南]]**<br>*(CASEL, 美国)* | **[[Promise Neighborhoods Research Consortium\|承诺社区研究联盟]]**<br>*(PNRC, 美国)* | **[[CNCS Evidence Exchange\|国家与社区服务公司证据交流中心]]**<br>*(AmeriCorps, 美国)* | **[[Education Endowment Foundation\|英国教育捐赠基金会]]**<br>*(EEF, 英国)* | **[[EEF Teaching and Learning Toolkit\|EEF 教学与学习工具箱]]**<br>*(EEF Toolkit, 英国)* | **[[EPPI-Centre\|循证政策与实践信息协同中心]]**<br>*(EPPI-Centre, 英国)* | **[[Institute for Effective Education\|有效教育研究所]]**<br>*(IEE / E4I, 英国)* | **[[Centre for the Use of Research and Evidence in Education\|循证教育研究与使用中心]]**<br>*(CUREE, 英国)* | **[[Evidence-Based Teachers Network\|循证教师网络]]**<br>*(EBTN, 英国)* | **[[Education Media Centre\|英国教育媒体中心]]**<br>*(EMC, 英国)* | **[[Danish Clearinghouse for Educational Research\|丹麦教育研究清算中心]]**<br>*(Clearinghouse DPU, 丹麦)* | **[[Swedish Institute for Educational Research\|瑞典教育研究所]]**<br>*(Skolfi, 瑞典)* | **[[Top Institute for Evidence-Based Education Research\|循证教育研究顶尖研究所]]**<br>*(TIER, 荷兰)* | **[[Kenniskamer\|荷兰教育部知识室]]**<br>*(Kenniskamer, 荷兰)* | **[[Kennisrotonde\|荷兰国家教育研究所知识环岛]]**<br>*(NRO Kennisrotonde, 荷兰)* | **[[Kunnskapssenter for utdanning\|挪威教育知识中心]]**<br>*(Kunnskapssenter, 挪威)* | **[[Swiss Coordination Centre for Research in Education\|瑞士教育研究协调中心]]**<br>*(SKBF / CSRE, 瑞士)* | **[[Best Evidence Synthesis\|新西兰最佳证据综合]]**<br>*(NZ BES, 新西兰)* | **[[Canadian Council on Learning\|加拿大终身学习委员会]]**<br>*(CCL, 加拿大)* | **[[National Institute for Educational Policy Research\|日本国立教育政策研究所]]**<br>*(NIER, 日本)* | **[[Australian Education Research Organisation\|澳大利亚教育研究组织]]**<br>*(AERO, 澳大利亚)* | **[[Education Reform Initiative\|土耳其教育改革倡议]]**<br>*(ERG, 土耳其)* | **[[Campbell Collaboration\|坎贝尔协作网]]**<br>*(Campbell, 国际)* | **[[EU Evidence-Informed Education Policy Initiatives\|欧洲教育循证政策网络]]**<br>*(EIPPEE, 欧洲)* |
+> |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+> | **治理依附类型<br>(Governance Typology)** | **联邦法定直属型**<br>美国教育部教育科学研究院 (IES, >$100M) | **大学依托非营利**<br>科罗拉多大学博尔德分校行为科学研究所 (IBS) | **州立公共部门**<br>加利福尼亚州社会服务部 (CDSS) 资助支持 | **联邦法定直属型**<br>美国卫生与公众服务部儿童与家庭局 (HHS/ACF) | **智库非营利型**<br>兰德公司 (RAND Corporation) 统筹运作 | **大学学术驱动型**<br>约翰斯·霍普金斯大学教育改革研究中心 (JHU CRRE) | **专业非营利组织**<br>Successful Practices Network (原克莱姆森大学依托) | **民间慈善资助型**<br>阿诺德风险基金 (Arnold Ventures) 循证政策联盟 | **联邦-大学合作型**<br>美国国防部与农业部依托宾夕法尼亚州立大学运营 | **专业标准组织**<br>CASEL 协同体 (全美跨界学术与实践协作网络) | **联邦联合攻坚型**<br>国家药物滥用研究所 (NIDA) 资助顶尖学者联盟 | **联邦法定资助型**<br>AmeriCorps 国家与社区服务公司独立联邦机构 | **独立慈善信托型**<br>英国教育部 1.25 亿英镑留本基金设立 (Sutton Trust) | **大学-慈善合作型**<br>EEF 联合杜伦大学 / 约克大学学术团队持续研发 | **大学学术实体型**<br>伦敦大学学院教育研究院 (UCL IoE) 社会科学研究组 | **大学依托学术型**<br>英国约克大学 (University of York) | **专业独立咨询型**<br>Philippa Cordingley 领衔创办的专业中介机构 | **草根实践者联盟**<br>英国一线优秀教师与教研带头人自主联合发起 | **独立媒介中介型**<br>借鉴科学媒介中心 (SMC) 模式设立的独立慈善机构 | **部委依托大学合同型**<br>奥胡斯大学丹麦教育学院 (DPU) 承办运营 | **国家法定独立机构**<br>瑞典议会与政府全额法定拨款设立 | **国家学术联盟型**<br>阿姆斯特丹大学、马斯特里赫特大学等顶尖高校联合体 | **部委直属嵌入型**<br>荷兰教育部高层直属设立的内部咨询机制 | **科研理事会延伸型**<br>荷兰国家教育研究所 (NRO/NWO) 统筹运作 | **大学依托分权型**<br>挪威教育与研究部资助，斯塔万格大学承接运营 | **联邦-各州联席法定型**<br>瑞士联邦政府与各州教育局长联席会 (EDK) 联合出资 | **部委嵌入项目型**<br>新西兰教育部直属项目预算全额资助 | **联邦资助独立非营利**<br>加拿大联邦人力资源部 8,500 万加元专项拨款设立 | **政府独立行政法人**<br>文部科学省 (MEXT) 资助，与教育部同楼物理办公 | **国家跨辖区法定型**<br>全澳各州与联邦教育部长教育委员会联合注资发起 | **民间慈善智库依托型**<br>萨班哲大学依托，全由土耳其主流私人基金会注资 | **国际学术非营利组织**<br>挪威公共卫生研究所等国际顶尖学术机构联合支持 | **跨国元中介网络型**<br>欧盟委员会资助发起 (2010–2013)，后由成员自律延续 |
+> | **目标受众定位<br>(Target Audience)** | 学前至高校决策官员、学区采购委员会、学校领导与教师 | 青少年司法部门、社区预防机构、中小学采购者与心理辅导员 | 儿童福利社工、脆弱家庭服务机构、地方公立学区与临床人员 | 联邦妇幼卫生管理机构、州政府卫生局、社区早教家访团队 | 跨部门政策制定者、社区领袖、中小学管理者与家庭工作者 | K–12 中小学校长、教务主任、学区课程采购委员会与教师 | 学业高危学生所在学校校长、一线辅导员与控辍保学督导员 | 联邦与各州财政预算官员、慈善资助决策者、宏观社会政策学者 | 军人子女学校教师、基地心理辅导员、军人家庭支持网络 | 州教育厅课程官员、中小学校长、SEL 课程教师与教研员 | 贫困社区综合治理委员会、社区学校领导、公共卫生专家 | 国民志愿服务组织、中小学早期辅导机构、退伍军人服务站 | 全英中小学校长、教研负责人与 Pupil Premium 经费管理员 | 中小学校长、学科带头人、一线教师与地方教育局督导人员 | 宏观教育政策制定者、国际组织官员、多学科系统综述学者 | 中小学读写与数学学科带头人、学校采购者、教育科技企业 | 一线中小学教师、学科教研组长、校际教研联盟带头人 | 英国一线草根教师、教研骨干、认知科学教学法实践者 | 全英主流新闻媒体教育记者、全国性新闻编辑室与大众公众 | 丹麦及北欧教育部门官员、教师教育机构、职业学校管理者 | 瑞典中小学校长、教师、特殊教育工作者与市镇教育局官员 | 荷兰教育部高级决策官员、财政部预算审查员、政策经济学者 | 荷兰教育部长、内阁高级智囊团、教育部跨司局核心处室 | 中小学与职业教育一线教师、教研组长、学校日常管理者 | 挪威各级学校教师、全纳教育专家、地方教育局与政策部门 | 瑞士联邦政府、26 州教育局长联席会 (EDK)、教育研究者 | 新西兰中小学领导、毛利与太平洋岛民教学督导、一线教师 | 加拿大联邦人力资源部门、各省教育厅、原住民社区与全民 | 文部科学省政策规划司局、地方教育委员会、中小学教务负责人 | 全澳联邦与各州教育部长、公私立中小学校长、职前教师学者 | 土耳其教育部、民间公益组织、教师专业共同体与关切公众 | 联合国机构、跨国发展组织、各国社会政策部委与系统综述学者 | 欧洲 23 国教育部决策层、各成员国知识中介机构与方法学者 |
+> | **方法学审查立场<br>(Methodological Stance)** | **因果实证派**<br>以 RCT 为黄金标准，严格审查基线等值、流失偏倚与集群 ICC | **极严实证派**<br>坚持临床医学级门槛，强制要求独立复制与 12 个月持续追踪 | **严格实证派**<br>严格依托同行评审发表文献，强制要求干预后 12 个月随访效应 | **计量门控派**<br>为 RCT、QED、RDD 设立极详尽标准，硬性指标绑定联邦资助 | **综合实证派**<br>依托跨学科评估框架，严格界定 Proven 与 Promising 标准 | **定量元分析派**<br>强调真实课堂可复制性与效应量可比性，运用加权元分析评级 | **实践包容派**<br>降低因果准入门槛，认可现场稳定运行满 3 年或单项 QED | **极端实证派**<br>坚守严格 RCT 唯实主义，强制极低流失率（<20%）与真实实施 | **规范实证派**<br>维护“证据连续体”，设立严谨分级标准并仅检索期刊同行评审 | **综合实证派**<br>兼顾准实验/实验因果效应量与方案教学设计、师资培训支持 | **多元转化派**<br>突破单项因果局限，以“培育性环境”实证指标建构系统框架 | **分层实证派**<br>建立 Strong/Moderate/Preliminary 分层，直接决定财政配置 | **因果实证派**<br>直接组织并资助大规模独立现场 RCT 评估，自建独立评估者网络 | **定量二阶综合派**<br>首创将全球复杂元分析效应量折算为直观的“进展月数”与成本 | **多元混合综合派**<br>开创质性与量化系统综述标准规程，兼顾实证严谨与复杂语境 | **因果实证派**<br>对齐美国 BEE 标准，为基础教育干预方案提供具名因果评级 | **质性行动转化派**<br>深耕教师专业学习与同行教研，将复杂证据转译为微观路线图 | **认知科学派**<br>聚焦认知负荷理论与形成性评价，倡导教师自主运用实战策略 | **事实核查派**<br>专精公共传媒事实核查，对接同行评审学者阻断舆论虚假谣言 | **系统综述派**<br>结合欧陆教育学传统（Didaktik）与英美循证范式开展系统综述 | **本土实践综合派**<br>吸取国际教训，专门资助契合瑞典本土课堂情境的系统综述 | **微观计量派**<br>汇聚顶尖教育经济学家，运用行政登记大数据与自然实验评估政策 | **快速咨询派**<br>紧扣部委高层当前紧迫政治决策疑难，出具快速政策综述与圆桌 | **快速定向综述派**<br>首创定制化双向问答，出具母语通俗快速证据摘要精准解惑 | **平行评审综合派**<br>首创在系统综述全流程中吸纳一线教师与学术专家组成双轨评审 | **系统监测派**<br>协调联邦分权治理，四年一度出具跨语种国家教育体系监测报告 | **伴随辅导综合派**<br>开创“研究者-部委-实践者”深度伴随式指导综合与案例建构 | **综合指标派**<br>首创复合学习指数 (CLI)，开展跨省全生命周期学习实证监测 | **调查监测派**<br>兼具法定学术独立与文部省同楼协同，统筹国家学力调查与课标 | **严格实证派**<br>统筹国家证据分层标准，强力推行因果试验与循证职前师资认证 | **独立倡导派**<br>完全依托民间社会资本，持续开展国家教育公平与包容实证监测 | **严苛系统综述派**<br>对齐 Cochrane 规程，制定并引领全球社科与教育综述黄金标准 | **元方法治理派**<br>推进“中介的中介”元治理，首创公开大会与闭门研讨双轨机制 |
+> | **核心业务与综合形式<br>(Core Functions & Outputs)** | 具名项目、政策干预与实践指南评级；单项因果审查与分领域指引 | 具名干预方案与综合项目；设立 Model Plus / Model / Promising 三阶评级 | 具名项目与干预模块；设定 1–5 级科学有效性与儿童福利适配性分级 | 具名干预项目与单项研究；界定符合联邦有效性标准的家访模型清单 | 具名项目与干预方案；划分为 Proven 与 Promising 两级标准发布 | 具名教学干预方案；采用加权效果量进行大样本定量元分析综合评级 | 具名项目与实践策略；划分为 Strong / Moderate / Promising 证据级 | 具名社会与教育干预项目；设立 Top Tier / Near Top Tier 评级发布 | 具名项目与干预方案；建立 Effective / Promising / Supported 连续体分级 | 具名方案与课程指南；评定 CASEL SELect 黄金推荐标准并出具指引 | 综合治理政策、项目与实践体系；构建“培育性环境”实证指标清单 | 资助项目与干预模块评估报告；划定 Strong / Moderate / Preliminary 级 | 教学实践干预方案；组织资助超 200 项大规模独立第三方现场 RCT 评估 | 教学法微观策略类别；基于全球元分析进行二阶量化综合与进展折算 | 系统综述、质性综合、方法学专著；自主研发维护 EPPI-Reviewer 平台 | 具名干预方案与软件；运营英国首个教育有效性检索平台 E4I 数据库 | 实践微观转译工具、教学法路线图 (Research Route Maps) 与定制评估 | 教学法实操手册、同伴教研案例库与一线教师交流年会实操指南 | 新闻媒体事实核查简报、专家答疑直通车与突发事件实证背景说明 | 北欧本土教育系统综述、实践概念简报与北欧实证文献数据库建设 | 本土实践系统综述、教师教学实践指南与一线联合研究专项资助项目 | 计量政策评估长篇报告、政策自然实验与国家级现场 RCT 研究报告 | 快速政策综述、专家圆桌咨询会议与部委跨部门证据对话机制建立 | 一线教师定制化双向问答服务；出具荷兰语通俗微型证据综述解答 | 实践系统综述、证据与差距地图 (EGM)；创设教师-学者平行同行评审 | 四年一度《瑞士教育报告》、国家教育科研专题综述与数据库维护 | 最佳证据综合里程碑长篇报告；一线教师实践案例与课堂实景视频库 | 综合知识报告、复合学习指数 (Composite Learning Index) 与专题网络 | 政策评估研究、全国学力与学习状况调查报告、中小学指导实务资料 | 国家级教学实践指南、证据综合评级、实施工具包与因果证据标准手册 | 年度国家教育监测报告、专题政策建议案、民间教研研讨会与倡导网络 | 跨国最高标准系统综述、证据与差距地图 (EGM) 与证据综合方法学准则 | 跨国中介大会、双轨治理闭门研讨、二阶综合指南与跨国知识能力培训 |
+> | **核心制度特征<br>(Institutional Features)** | 获联邦法案强制授权与超亿美元经常性预算；审查规程迭代至 v5.0 | 设立全球最严苛证据综合准则，强制要求独立第三方评估与 12 个月持续追踪 | 紧密对齐加州社会服务与儿童救助标准；强制要求干预后 12 个月随访持续效应 | 为 RCT、QED、RDD 设立极详尽量化标准；评级结果直接与联邦专项拨款挂钩 | 依托顶级智库兰德公司跨学科评估框架，长期为全美提供高公信力干预分级 | 罗伯特·斯莱文创立，强调教学法可复制性，首创课堂教学方案元分析评级 | 奉行实践包容哲学，准入门槛包容，项目在现场稳定运行满 3 年即可参评 | 坚守极严 RCT 唯实主义，强制要求低流失（<20%）、良好实施与多中心复制 | 维护专门“证据连续体”数据库，设立规范分级标准并仅检索同行评审发表文献 | 全美 SEL 领域标准制定者，将严格因果效应量与方案教学设计、师资培训融合 | 对标哈莱姆儿童区 (HCZ)，由多所大学学者联合攻关，构建贯穿式综合干预 | 建立严密联邦证据分层与准入机制，评级直接决定数亿美元联邦志愿服务经费 | 依托 1.25 亿英镑留本基金对冲选举周期，自设独立评估网络统领补贴开支 | 首创将全球复杂元分析效应量折算为直观的“进展月数”与单位实施成本分级 | 全球系统综述方法学重镇，奠定质性与量化混合标准；扎根大学课题自治 | 深度参与开发全英有效性检索平台，与美国 BEE 形成跨大西洋方法学协同 | 深耕教师专业学习与同行教研，首创“研究路线图”，将证据转译为教学脚手架 | 完全自下而上发起，倡导一线教师自主学习认知科学，去官僚化且草根认同强 | 全球极少数专精于大众传媒的教育中介，重大争议爆发时对接学者快速核查 | 曾是北欧规模最大的系统综述中介，开创欧陆传统（Didaktik）与循证结合先河 | 由瑞典议会立法确立为法定独立机构，享有经常性财政预算，专门开展本土综述 | 汇聚全荷顶尖微观计量学者，擅长利用全国行政注册登记大数据进行因果识别 | 部委直属嵌入型典型，行政级别高，研究议程直接对准教育部长当前紧迫疑难 | 首创“教师提问—中介梳理—专家限时解答”交互环岛机制，打破单向推送 | 2019 年分权试点下放至地方大学，首创一线教师与学者平行评审流程 | 跨辖区联席法定机构，由联邦与 26 州共同出资设立，独立法人常设运营 | 早期由 Alton-Lee 开创“研究者-官员-实践者”深度伴随式指导综合范式 | 开创“复合学习指数”，在缺乏联邦教育部的高度分权体制下维系跨省枢纽 | 空间嵌入与法定自治并存，受独立行政法人法保护又与文部省同楼协同办公 | 2021 年新建国家级旗舰，确立联邦与各州联席联合注资架构，统筹全国标准 | 发展中国家民间社会资本中介典范，完全依靠私人基金会支持立足与深耕 | 国际社科证据综合最高殿堂，制定并引领全球社会科学与教育因果综述准则 | 欧洲标志性“中介的中介”元治理网络，汇聚 23 国 36 家机构，首创双轨机制 |
+> | **制度比较优势<br>(Comparative Advantages)** | 评级结果直接决定联邦多项重点基金资助准入；因果标准成为全球范本 | 严格排除医源性伤害与多中心复制，过滤 90% 以上商业噱头，认证方案信誉极高 | 在全美州级层面具有标杆法律与资助指引效力，直接支撑州级法案采购与社工实务 | 因果证据直接绑定数亿美元联邦专项财政配置，从源头杜绝财政沉淀与公款浪费 | 兼具智库政策敏锐度与多学科实证审查深度，开辟非营利组织引领循证先河 | 紧扣一线教师教学法改革，以直观效应量打破学术壁垒，为 ESSA 提供学术原型 | 最大限度保护一线草根教育创新积极性，避免学校面临高危生时无认证方案可用 | 在全美政策与慈善界享有极高因果信誉，通过 Top Tier 审查的项目成全国标杆 | 针对军属家庭、随军子女及退役衔接特殊生态，跨部委联邦资源与大学科研协同 | 兼具实证严谨性与实操指导力，成为全球学区采购和实施 SEL 方案的绝对权威 | 突破单项孤立干预局限，从家庭、学校到社区协同建构综合系统性反贫困框架 | 形成“评级—资助—评估”闭环管理，倒逼全美受资助志愿组织提升因果质量 | 战略自主性强，彻底摆脱 2–3 年选举撕扯，将因果检验与学校对接根除自利偏倚 | 极具直观性与决策可用性，全球十余个系统竞相引进，显著降低基层决策门槛 | 学术信誉卓著，兼顾实证严谨与微观社会现实复杂性；自研软件成为国际基础设施 | 为英国基础教育提供早期本土化检索基础设施，推动循证教学理念在英格兰启蒙 | 极度贴近微观教学日常，激发教师作为研究型人员主体性，在教研体系口碑极高 | 彻底打破自上而下行政命令式中介灌输，以同伴交流手册推动认知科学策略扎根 | 从源头阻断教育谣言、公关营销与伪科学在公共舆论发酵，守护实证公信力 | 兼具大学严谨学术基因与北欧福利国家政策视野，建立北欧首个本土证据枢纽 | 法定地位与经常性拨款构筑坚固护城河，摆脱短期政治撕扯；资助教师实践扎根 | 研究成果直通内阁财政与教育部高层，为国家重大教育财政投入提供硬核依据 | 政策对齐度与行政穿透速度极快，最短时间内调动部内外智识化解政治审议危机 | 用母语通俗语言精准击穿微观实践痛点，双向人际互动紧密，采纳率与满意度高 | 成功打破学术霸权，兼顾科学因果严谨性与一线生态效度，树立北欧分权范式 | 成功化解地方主权与国家证据集中治理冲突，有效支撑多语种平权发布与监测 | 产出毛利教学、全纳教育与领导力世界级巨著，深刻重塑新西兰国家课程改革 | 突破传统学校局限，将原住民教育、成人技能与早期照护综合，构建跨省枢纽 | 兼具法定研究独立与高层政策制定无缝对接，成果直接融入《学习指导要领》修订 | 吸取国际经验建立长期法定资助，统领全国改革，强力推动证据进课堂与职前认证 | 彻底对冲政府行政预算与政党干预，数十年如一日独立发布数据守护教育公平 | 遵循极严苛系统检索与偏倚评估规程，在联合国机构与多国政府享有无上公信力 | 打破单体中介国别孤岛，开创二阶系统综合路径，为跨国累积性知识库提供架构 |
+> | **伴生挑战与体制风险<br>(Challenges & Systemic Risks)** | 缺独立复制与持续效果强制门槛，致与其他清算所产生 35.4% 冲突；情境成本信息缺失 | 门槛过高导致绝大多数现实教育项目无法入库，学校采购常面临“无项目可用”短缺 | 仅检索同行评审发表文献，完全排除未发表灰色文献与委托评估，存发表偏倚风险 | 高度绑定联邦特定法案与早教专项拨款，学科拓展弹性较弱，一线自主创新受限 | 缺乏长效法定公共拨款保障，专项资助于 2014 年结项，映射非营利中介资助脆弱 | 创始人离世与平台迭代促使其机制整体迁移至 Evidence for ESSA，原平台停止更新 | 因果严谨性门槛偏低，评级与严谨型清算所脱节，存将弱证据方案推向采购潜在风险 | 数十年来全美仅数十项干预通过审查，过度严苛排斥了微观情境与质性解释，覆盖过窄 | 服务群体与情境高度特定，在主流公立中小学教育全科领域的外部效度与推广有限 | 高度聚焦于社会情感与心理健康领域，对基础教育核心学科教学法的因果覆盖不足 | 属于 2009–2012 年联邦专项任务型联盟，期满后缺乏实体支撑，网络下线沉淀为文献 | 受制于联邦行政官僚程序，审查周期漫长，对缺乏大样本能力的新兴草根门槛偏高 | 面临 RCT 内部效度与微观真实课堂生态效度深层张力；过度关注教学致宏观政策脱责 | “月数”折算在学术界存因果解读过简争议，且均值效应量可能掩盖亚群体间异质性 | 系统综述规程繁复耗时漫长，缺乏商业化敏捷响应机制，产出学术门槛高不易直接吸收 | 高度依赖外部特定科研专项资助与慈善赞助，资助期满后停止高频迭代转为学术归档 | 属于市场化咨询实体，高度依赖政府采购与学校委托合同，在公共预算紧缩期韧性较弱 | 缺乏国家级法定公共财政支持与专职方法学审查团队，更新深度受制于志愿者精力 | 工作议程高度被动依附于外部突发新闻热点，缺乏对长线系统化证据库建设的主动规划 | 典型“大学依托合同型”牺牲品；依附于政府 2–3 年短期合同，2017 年未续约被迫彻底解散 | 产出严格限于瑞典本土语言与高度均衡体制，对外部高度分权或市场化生态辐射有限 | 高度专注于宏观教育经济学与因果问责政策，与一线校长教师日常教学法改进存语系鸿沟 | 极端政治依附性；完全对齐特定倡议部长政治生命，换届后丧失动力沦为休眠实体 | 每个定制问答均需耗费专业学术人力梳理文献，大规模推广面临较高边际成本与时效压力 | 平行评审显著增加综合协调摩擦与时间成本，面对决策者紧急简报诉求难以敏捷交割 | 跨州协商与多方利益共识机制致综合产出周期较长，对基层学校即时教学痛点干预滞后 | 政党更迭与部委行政预算削减后终止新证据资助，机构职能大幅收缩为既有视频库维护 | 联邦制管辖权冲突与政权更迭经典牺牲品；保守党政府因主权博弈与预算削减撤资解散 | 行政官僚色彩较浓厚，议程高度依附国家宏观行政规划，对自下而上微观教学创新吸纳保守 | 推动特定实证法作为教师问责硬性指标，引发学术界关于行政过度干预与削弱专业判断争论 | 缺乏官方行政准入与法定决策通道，政策建议高度依赖舆论倡导，难以直接制度化立法 | 综述立项审查与发表周期漫长（常达 1–2 年），面对急速公共政策危机与微观教学响应滞后 | 欧盟行政孵化资助结束后转入成员自费维持，缺乏跨国经常性法定预算，大型综述开展受限 |
+> | **当前状态与平台<br>(Status & Platform)** | 🟢 **活跃运营**<br>[ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc) | 🟢 **活跃运营**<br>[blueprintsprograms.org](https://www.blueprintsprograms.org) | 🟢 **活跃运营**<br>[cebc4cw.org](https://www.cebc4cw.org) | 🟢 **活跃运营**<br>[homvee.acf.hhs.gov](https://homvee.acf.hhs.gov) | 🔴 **结项归档**<br>[rand.org/pubs/tools/TL145](https://www.rand.org/pubs/tools/TL145.html) | 🟡 **平台迁移**<br>[bestevidence.org](https://www.bestevidence.org) | 🟢 **活跃运营**<br>[dropoutprevention.org](https://dropoutprevention.org) | 🟡 **极严筛选**<br>[evidencebasedprograms.org](https://evidencebasedprograms.org) | 🟢 **活跃运营**<br>[militaryfamilies.psu.edu](https://militaryfamilies.psu.edu) | 🟢 **活跃运营**<br>[pg.casel.org](https://pg.casel.org) | 🔴 **结项下线**<br>*(Defunct)* | 🟢 **活跃运营**<br>[americorps.gov/evidence-exchange](https://americorps.gov/about/our-impact/evidence-exchange) | 🟢 **活跃运营**<br>[educationendowmentfoundation.org.uk](https://educationendowmentfoundation.org.uk) | 🟢 **活跃运营**<br>[educationendowmentfoundation.org.uk/toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit) | 🟢 **活跃运营**<br>[eppi.ioe.ac.uk](https://eppi.ioe.ac.uk) | 🟡 **在线归档**<br>[evidence4impact.org.uk](https://www.evidence4impact.org.uk) | 🟢 **活跃运营**<br>[curee.co.uk](http://www.curee.co.uk) | 🟢 **活跃运营**<br>[ebtn.org.uk](http://www.ebtn.org.uk) | 🟢 **活跃运营**<br>[educationmediacentre.org](https://educationmediacentre.org) | 🔴 **彻底关停 (2017)**<br>*(Defunct)* | 🟢 **活跃运营**<br>[skolfi.se](https://www.skolfi.se) | 🟡 **学术网络**<br>[tierweb.nl](https://www.tierweb.nl) | 🔴 **休眠停摆**<br>*(Hibernating)* | 🟢 **活跃运营**<br>[kennisrotonde.nl](https://www.kennisrotonde.nl) | 🟢 **活跃运营**<br>[uis.no/kunnskapssenter](https://www.uis.no/nb/kunnskapssenter-for-utdanning) | 🟢 **活跃运营**<br>[skbf-csre.ch](https://www.skbf-csre.ch) | 🟡 **职能收缩**<br>[educationcounts.govt.nz](https://www.educationcounts.govt.nz) | 🔴 **彻底关停 (2012)**<br>*(Defunct)* | 🟢 **活跃运营**<br>[nier.go.jp](https://www.nier.go.jp) | 🟢 **活跃运营**<br>[edresearch.edu.au](https://edresearch.edu.au) | 🟢 **活跃运营**<br>[egitimreformugirisimi.org](https://www.egitimreformugirisimi.org) | 🟢 **活跃运营**<br>[campbellcollaboration.org](https://www.campbellcollaboration.org) | 🟡 **自主联盟**<br>[eippee.eu](http://www.eippee.eu) |
 
 ---
 
