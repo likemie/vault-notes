@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 57
+fact_related_count: 58
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -81,6 +81,7 @@ related_facts:
   - "[[Definition and Selection of Competencies]]"
   - "[[Baby PISA]]"
   - "[[Building Evidence in Education]]"
+  - "[[Learning Data Compact]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -218,7 +219,7 @@ updated: 2026-09-12
 > > [!axis] 跨国治理复合体中的排他性同盟与利基割据
 > > 批判学者剖析 OECD 与其他跨国巨头在多边协调修辞掩护下的权力同盟与自利性制度壁垒。
 > >
-> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与世界银行、联合国教科文组织等构成了“[[Global Education Governing Complex|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“学习数据协定”（Learning Data Compact）试图统合格局时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 PISA-D（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
+> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与世界银行、联合国教科文组织等构成了“[[Global Education Governing Complex|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact）试图统合格局时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 PISA-D（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
 
 > [!citation-card] 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）
 > 随着经济全球化和技术变革对劳动者技能提出更高要求，PISA 测验旨在评估学生在义务教育结束时是否具备了完全参与社会和经济生活所需的关键知识和技能。经合组织通过提供跨国可比的实证基础，支持各国政府优化其教育政策。

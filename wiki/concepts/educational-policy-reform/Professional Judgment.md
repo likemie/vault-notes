@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-03"
-updated: 2026-09-02
+updated: 2026-09-12
 ---
 
 # Professional Judgment

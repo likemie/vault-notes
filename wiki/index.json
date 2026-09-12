@@ -9212,6 +9212,7 @@
       "关系经理",
       "boundary spanning",
       "boundary crosser",
+      "Boundary Spanners",
       "Knowledge Broker",
       "relationship manager",
       "innovation support officer"
@@ -19308,6 +19309,17 @@
     ]
   },
   {
+    "title": "1964 UNESCO-World Bank Cooperative Agreement",
+    "type": "fact",
+    "path": "wiki/facts/global/1964 UNESCO-World Bank Cooperative Agreement.md",
+    "aliases": [
+      "1964年教科文组织-世界银行合作协定",
+      "教科文组织-世界银行合作协定",
+      "UNESCO-World Bank Cooperative Agreement 1964",
+      "UNESCO-World Bank Cooperative Agreement"
+    ]
+  },
+  {
     "title": "Australia in the Asian Century White Paper",
     "type": "fact",
     "path": "wiki/facts/global/Australia in the Asian Century White Paper.md",
@@ -19463,6 +19475,27 @@
     "path": "wiki/facts/global/ISSPP Project.md",
     "aliases": [
       "ISSPP项目"
+    ]
+  },
+  {
+    "title": "Knowledge and Innovation Exchange",
+    "type": "fact",
+    "path": "wiki/facts/global/Knowledge and Innovation Exchange.md",
+    "aliases": [
+      "GPE KIX",
+      "KIX",
+      "全球教育伙伴关系知识与创新交流机制",
+      "知识与创新交流机制"
+    ]
+  },
+  {
+    "title": "Learning Data Compact",
+    "type": "fact",
+    "path": "wiki/facts/global/Learning Data Compact.md",
+    "aliases": [
+      "学习数据契约",
+      "学习数据协定",
+      "LDC"
     ]
   },
   {

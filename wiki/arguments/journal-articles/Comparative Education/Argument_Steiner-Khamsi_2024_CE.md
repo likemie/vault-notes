@@ -36,6 +36,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Performance Indicators]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Boundary Spanner]]"
   - "[[Scientific Uncertainty]]"
   - "[[Scaffolding]]"
   - "[[Democratisation of Expertise]]"
@@ -82,6 +83,7 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[PISA]]"
   - "[[Education for All]]"
+  - "[[1964 UNESCO-World Bank Cooperative Agreement]]"
   - "[[Global Development Network]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
@@ -90,6 +92,8 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[World Education Reform Database]]"
   - "[[Building Evidence in Education]]"
+  - "[[Knowledge and Innovation Exchange]]"
+  - "[[Learning Data Compact]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments: []
 sources:
@@ -105,7 +109,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 70
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -189,7 +193,7 @@ issuing_organization: ""
 
 #### 1. 证据供给过剩并未带来理性秩序，反而倒逼出选择性打包知识的政治化政策中介
 
-在数字化时代，科研成果呈现爆炸式增长，然而知识的充盈并未自发带来理性的决策秩序，反而导致了严重的认知超载与信息孤岛。（p.538）
+在数字化时代，科研成果呈现爆炸式增长，然而知识的充盈并未自发带来理性的决策秩序，反而导致了严重的认知超载与信息孤岛；致力于在科学界与政治界两社区之间转移、[[Transfer Translation Transformation|转译]]或推送研究事实的行动者被称为[[Boundary Spanner|边界跨越者]]（Boundary Spanners）或知识经纪人。（p.538）
 
 > [!contrast-table] 传统知识中介与现代政策中介的[[Paradigm|范式]]对比
 > | 比较维度 | 传统知识中介（Knowledge Brokerage） | 现代政策中介（Policy Brokerage） |
@@ -250,7 +254,7 @@ issuing_organization: ""
 > | **教育哲学** | 强调人力资本投入回报、管理主义效率与经济增长导向 | 秉持人文主义关怀、国际理解与受教育基本人权导向 |
 > | **治理手段** | 庞大的项目放贷权力、高度官僚化的放贷周期与减贫战略文件（Poverty Reduction Strategy Papers，PRSPs） | 道德劝诫、国际公约制定与规范性政策倡议 |
 > | **量化规模** | 指标库从 1989 年 116 项扩展至 2018 年 1,600 项；坐拥涵盖 139 国、1,120 项估算的回报率数据库 | 协调[[Education for All\|全民教育（Education for All，EFA）]]等国际基准，但缺乏强制性财政问责机制 |
-> | **脱钩节点** | 1964 年签署合作协定借道入场，1980 年发布首份独立政策文件彻底决裂 | 失去对全球南方教育援助的主导权，退居话语倡导 |
+> | **脱钩节点** | [[1964 UNESCO-World Bank Cooperative Agreement\|1964 年签署合作协定]]借道入场，1980 年发布首份独立政策文件彻底决裂 | 失去对全球南方教育援助的主导权，退居话语倡导 |
 
 世界银行通过系统资助教育[[Return on Investment|投资回报]]率测算，建立起庞大的应用政策研究体系，为其直接干预借贷国的教育体制奠定了技术合法性。（pp.542, 548）
 
@@ -315,8 +319,8 @@ issuing_organization: ""
 > |---|---|---|---|---|
 > | **[[OECD\|经合组织（OECD）]]** | **[[PISA]]**（国际学生评估项目）及其衍生产品矩阵（TALIS、PIAAC、PISA-D） | 国别同行评议（Peer Reviews）、《教育概览》（Education at a Glance，EAG）、教育政策展望（Education Policy Outlook）、教育 GPS 数字平台 | **外向型国别横向对照（Outward-looking cross-national referencing）**<br>[[World Education Reform Database\|世界教育改革数据库]]（World Education Reform Database，WERD）实证表明，其报告高度依赖对其他成员国具体改革经验的交叉引证，将跨国横向比较作为提升教育质量的核心引擎。（Seitzer et al., 2023; pp.544–545） | 以软法（Soft Law）、指标排序与“命名与羞辱”实施远程规制；依托非成员国测验扩张与盖茨等私人基金会资助，构建全球比较帝国。 |
 > | **世界银行（World Bank）** | **贷款与赠款附加条件**、[[Systems Approach for Better Education Results\|改善教育成果系统分析法（SABER）]]、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、世界发展指标库（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践循环（Self-referential lesson-drawing）**<br>[[World Education Reform Database\|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交、联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的[[Building Evidence in Education\|构建教育证据联盟（BE2）]]。 |
-> | **[[Global Partnership for Education\|全球教育伙伴关系（GPE）]]** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | 知识与创新交流机制（Knowledge and Innovation Exchange，KIX），在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
-> | **联合国教科文组织（UNESCO）** | **国际公约与规范性框架制定**、《全球教育监测报告》（Global Education Monitoring Report，GEMR）、统计研究所（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、国际教育规划研究所（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立“学习数据协定”（Learning Data Compact），在跨国监测主导权上与世行体系形成制衡。 |
+> | **[[Global Partnership for Education\|全球教育伙伴关系（GPE）]]** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | [[Knowledge and Innovation Exchange\|知识与创新交流机制（Knowledge and Innovation Exchange，KIX）]]，在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
+> | **联合国教科文组织（UNESCO）** | **国际公约与规范性框架制定**、《全球教育监测报告》（Global Education Monitoring Report，GEMR）、统计研究所（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、国际教育规划研究所（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立[[Learning Data Compact\|“学习数据协定”（Learning Data Compact）]]，在跨国监测主导权上与世行体系形成制衡。 |
 > | **联合国儿童基金会（UNICEF）** | **多指标聚类调查（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如社会情感学习 SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将社会情感学习（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |
 
 > [!case] 联合国儿童基金会开辟社会情感学习（SEL）引发的组织利基争夺案例
@@ -329,7 +333,7 @@ issuing_organization: ""
 
 > [!tension] 数字化时代国际组织的平台协作修辞与排他性权力同盟
 > - **协作修辞（蓝方）** 共同承诺推进联合国[[UN Sustainable Development Goals|可持续发展目标]]（Sustainable Development Goals，SDGs）中的第四项优质教育目标（SDG 4），在公开报告中统一采用三大要点、六项洞见、研究表明等标准化中介修辞，维持多边协同的制度表象。（p.545）
-> - **排他同盟（红方）** 围绕关键数据与研究话语权组建排他性同盟：世界银行联合英国外交、联邦及发展事务部（Foreign, Commonwealth & Development Office，FCDO）与美国国际开发署（United States Agency for International Development，USAID）成立构建教育证据工作组（Building Evidence in Education，BE2），而联合国教科文组织与儿童基金会则另立学习数据协定，彼此形成严密割据。（pp.545–546）
+> - **排他同盟（红方）** 围绕关键数据与研究话语权组建排他性同盟：世界银行联合英国外交、联邦及发展事务部（Foreign, Commonwealth & Development Office，FCDO）与美国国际开发署（United States Agency for International Development，USAID）成立构建教育证据工作组（Building Evidence in Education，BE2），而联合国教科文组织与儿童基金会则另立[[Learning Data Compact|学习数据协定]]，彼此形成严密割据。（pp.545–546）
 
 ---
 

@@ -11,7 +11,7 @@ subtype: organization
 region: "global"
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Learning Data Compact]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[OECD]]"
 related_arguments:
@@ -129,7 +130,7 @@ updated: 2026-09-12
 > [!citation-card] 排他性同盟与证据标准垄断批判
 > 数字化经济时代的信息过量造成了一种看似矛盾的格局：即便国际组织之间在资金与影响力上激烈竞争，它们仍依赖数据共享与[[Snowball Sampling|网络化]]平台来维持受众。然而，在普遍开放的表象之下，[[Emergence|涌现]]出在排斥其他组织的前提下组建同盟与网络的浪潮，例如由世界银行、英国外交联邦及发展事务部（FCDO）、美国国际开发署（USAID）与一个轮值联合国机构构成的构建教育证据联盟（BE2）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 >
-> *As a result, there is a surge in coalition building and networking activities among some IOs at the exclusion of others, such as in the Building Evidence in Education (BE2) (World Bank Group, FCDO, USAID, and one rotating UN agency) or the Learning Data Compact (UNESCO, UNICEF, World Bank).*
+> *As a result, there is a surge in coalition building and networking activities among some IOs at the exclusion of others, such as in the Building Evidence in Education (BE2) (World Bank Group, FCDO, USAID, and one rotating UN agency) or the [[Learning Data Compact]] (UNESCO, UNICEF, World Bank).*
 
 ---
 

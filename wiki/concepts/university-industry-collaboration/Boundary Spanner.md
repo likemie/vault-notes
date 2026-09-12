@@ -11,30 +11,34 @@ aliases:
   - 关系经理
   - boundary spanning
   - boundary crosser
+  - Boundary Spanners
   - Knowledge Broker
   - relationship manager
   - innovation support officer
-summary: "在异质组织、专业社群或制度系统之间充当沟通桥梁的专业角色，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同共创。"
+summary: "在异质组织、专业社群或制度系统（如学术研究与产业界、科学共同体与政策决策系统）之间充当沟通桥梁的专业角色或中介机构，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同。在公共教育治理中，跨界中介者连接科学与政策两社区，在证据过剩与决策歧义性生态下以政策中介平衡公信力与行政两难。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 36
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 42
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/boundary-spanning
   - theme/knowledge-mobilisation
   - theme/university-industry-collaboration
   - theme/evidence-informed-practice
   - theme/school-improvement
+  - theme/policy-brokerage
+  - theme/comparative-education
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Evidence-Informed Practice]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Research-Practice Partnership]]"
+  - "[[Global Education Governing Complex]]"
+  - "[[Policy Brokerage]]"
   - "[[Boundary Object]]"
   - "[[Concierge Service]]"
   - "[[Flow]]"
@@ -54,6 +58,10 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Governing by Numbers]]"
+  - "[[Façade of Rationality]]"
+  - "[[Soft Power by Hard Facts]]"
 related_theories:
   - "[[Social Capital Theory]]"
   - "[[Third Generation Activity Theory]]"
@@ -68,11 +76,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-10
+updated: 2026-09-12
 ---
 
 # Boundary Spanner
@@ -82,14 +91,19 @@ updated: 2026-09-10
 ## 定义
 
 > [!def] 核心定义
-> 边界跨越者（Boundary Spanner，亦称跨界中介者或知识经纪人 Knowledge Broker）指在异质组织、专业社群或制度系统之间承担连接、沟通与协调职能的专业行动者。他们具备理解不同系统语言、文化与运行逻辑的双重能力，致力于打破部门隔阂、降低交易成本、化解制度摩擦并培育多边信任。在[[University-Industry Collaboration|产学合作]]中，边界跨越者负责在学术探索与商业应用之间架设桥梁（Jonsson et al., 2015; [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p. 54]]）；在基础教育[[Knowledge Mobilisation|知识动员]]（Knowledge Mobilisation, KMb）与[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）中，边界跨越者（如中层领导、学区教研员、工会专家与网络协调人）则承担着将学术研究成果与本土实践经验双向[[Transfer Translation Transformation|转译]]、促进大学与中小学协作共创的核心功能。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–131)]]
+> **边界跨越者（Boundary Spanner，亦称跨界中介者或知识经纪人 Knowledge Broker）**指在异质组织、专业社群或制度系统之间承担连接、沟通与协调职能的专业行动者或中介机构。他们具备理解不同系统语言、文化与运行逻辑的双重能力，致力于打破部门隔阂、降低交易成本、化解制度摩擦并培育多边信任。在[[University-Industry Collaboration|产学合作]]中，边界跨越者负责在学术探索与商业应用之间架设桥梁（Jonsson et al., 2015; [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p. 54]]）；在基础教育[[Knowledge Mobilisation|知识动员]]中承担学术成果与学校实践的双向[[Transfer Translation Transformation|转译]]（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp. 127–131]]）；而在宏观公共政策与全球教育治理中，边界跨越者特指在科学研究界与政治决策界两社区之间致力于转移、转译与推介研究事实、将证据打包为政策方案的跨界中介机构与专业人员。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 聚焦异质系统间认知鸿沟的弥合、利益诉求的对齐、合作流程的编排以及关系型社会资本的长期维系。
-> - **应用[[Champ|场域]]** 广泛分布于大学企业合作办公室（[[University Corporate Engagement Professional|UCEP]]）、产学联合体、教育知识网络（如 [[Knowledge Network for Applied Education Research|KNAER]]）、学区教研共同体及[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）中。
-> - **边界限定** 边界跨越者指具有主观能动性的人类行动者或团队；它不同于作为静态中介工具的[[Boundary Object|边界对象]]（Boundary Object），也不同于纯粹提供流程指引的[[Concierge Service|礼宾服务]]（Concierge Service）模式。
+> - **应用[[Champ|场域]]** 广泛分布于大学企业合作办公室（[[University Corporate Engagement Professional|UCEP]]）、产学联合体、教育知识网络（如 [[Knowledge Network for Applied Education Research|KNAER]]）、学区教研共同体、[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）以及[[Global Education Governing Complex|全球教育治理复合体]]中的多边[[Policy Brokerage|政策中介]]平台中。
+> - **边界限定** 边界跨越者指具有主观能动性的人类行动者、专业团队或专门中介组织；它不同于作为静态中介工具的[[Boundary Object|边界对象]]（Boundary Object），也不同于纯粹提供流程指引的[[Concierge Service|礼宾服务]]（Concierge Service）模式。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 全球教育治理中的跨界中介者与公信力两难
+> 致力于在科学与政治两社区之间转移、转译或推送研究、真理与事实以沟通两界的个体或组织，被称为知识经纪人、中介机构或边界跨越者。在教育政策中，中介者深陷公信力两难：一方面，政府倾向于信赖深谙官僚机构内部运作以提供务实建议的内部专家；另一方面，最可信的专家却是独立于官僚体系之外的学者。鲜少有行动者能同时跨越两个空间，这促成了证据金字塔与特定国际组织权威的确立。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+>
+> *The individuals or organisations dedicated to transferring, translating, or ‘pushing’ research, truth, or facts onto political decision-makers – that is, bridging the two communities – are called brokers, intermediaries, or boundary spanners... A dilemma complicates the issue. On the one hand, governments would like to rely on experts with insider knowledge who are sufficiently familiar with the bureaucracy to provide valuable and realistic advice regarding complex matters. On the other hand, the most credible experts are independent experts, preferably academics working outside the bureaucracy (see Boswell 2017).*
+
+> [!citation-card] 知识动员网络中的跨界中介支持
 > “伙伴关系与网络是克服证据利用壁垒的核心支柱；学校与系统领导者、专业协会和中介组织必须发挥跨界中介者功能，在研究者与实践者之间建立双向知识流动的肥沃土壤。”[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127, 130)]]
 >
 > *"Partnerships and networks are essential for evidence mobilization... school and system leaders, professional associations, and intermediaries act as boundary spanners to cultivate fertile ground for two-way knowledge [[Flow]] between researchers and practitioners."*
@@ -122,6 +136,7 @@ updated: 2026-09-10
 > - **关系型社会资本与多边专业信任建构（Relational Capital & Trust Cultivation）** 跨越制度性怀疑，通过长期的专业[[Dialogue in Education|对话]]、定期会议与履约保障，建立跨组织的心理安全感与合作默契。
 > - **协作探究与共创流程编排（Process Orchestration & Co-creation Facilitation）** 拒绝单向被动传递，主动搭建跨界工作坊、专业学习共同体与探究循环，引导研究者与实践者共同定义问题并研发解决方案。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
 > - **组织化具体形态：关系经理与专业中介网络（Relationship Manager & Intermediary Networks）** 在产学联盟中体现为对特定双边关系存续负全责的“关系经理”（[[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025]]）；在教育[[Knowledge Mobilisation|知识动员]]中体现为中层领导、教师工会代表及区域知识网络协调员。
+> - **公信力与体制嵌入两难（Credibility-Access Dilemma）** 在宏观[[Policy Brokerage|政策中介]]中，边界跨越者既需深谙政府行政官僚机器运作逻辑以提供具可操作性的方案，又必须维系体制外的学术独立外观以抵御“政治利益附庸”的公众质疑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 > [!logic-map]- 要素关系与跨界中介逻辑
 > ```mermaid
@@ -197,7 +212,7 @@ updated: 2026-09-10
 > |---|---|---|---|
 > | **认知与制度转译命题** | 阐明边界跨越者运用双重[[Language Skills\|语言能力]]弥合异质系统认知鸿沟、缓冲制度摩擦的运作机制 | 产学合作技术对接、教育学术[[Document\|文献]]向课堂工具转译 | Aldrich & Herker (1977); Boccanfuso & Hall (2025); Akkerman & Bakker (2011) |
 > | **社会资本与信任命题** | 揭示跨界协作的长期维系依赖于中介者对关系的专门认领与多边信任培育 | 产学长期联盟管理、学区与大学战略伙伴关系（[[Research-Practice Partnership\|RPP]]） | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; Carol Campbell 等 |
-> | **共创能动性命题** | 论证中介角色从单向线性传递向双向协同探究与共创编排的[[Paradigm\|范式]]跃迁 | 全系统知识动员战略、校本探究循环、产学联合研发 | Julie Nelson 等; Cooper et al. (2017); Malin & Brown (2019) |
+> | **共创能动性命题** | 论证中介角色从单向线性传递向双向协同探究与共创编排的[[Paradigm\|范式]]转变 | 全系统知识动员战略、校本探究循环、产学联合研发 | Julie Nelson 等; Cooper et al. (2017); Malin & Brown (2019) |
 
 ---
 
@@ -209,6 +224,7 @@ updated: 2026-09-10
 > - **2010s — [[University-Industry Collaboration|产学合作]]与教育[[Knowledge Mobilisation|知识动员]]双向繁荣** 在高教领域，Pertuze et al. (2010) 与 Jonsson et al. (2015) 确立“专业创新支持官”为产学最佳实践；在教育政策领域，Levin (2011) 与 Campbell (2014) 系统阐发教育中的“知识经纪人”（Knowledge Brokers）。
 > - **2017 — 特刊确立中介网络在 [[Evidence-Informed Practice|EIP]] 中的决定性地位** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 汇聚多国经验，正式将跨界中介者与协作网络界定为推动证据知情实践不可或缺的系统基础设施。
 > - **2020s — [[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）与全系统共创常态化** 边界跨越从偶发的中介活动演化为跨部门长效制度设计，大学企业合作专业人员（[[University Corporate Engagement Professional|UCEP]]）与教育 RPP 协调员成为高度专业化的职业群体。
+> - **2024 — 全球治理 2.0 时代的[[Policy Brokerage|政策中介]]与两难反思** 施泰纳-哈姆西、马滕斯与伊德森在《[[Governing by Numbers|数字治理]] 2.0》中将边界跨越者与政策中介相融合，揭示在信息过载时代国际组织作为超级中介机构如何凭借硬事实构筑[[Façade of Rationality|理性表象]]，并深化了跨界者公信力悖论的理论考察。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 ---
 
@@ -237,6 +253,7 @@ updated: 2026-09-10
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统论证伙伴关系、中介组织与跨界中介者在全系统[[Evidence-Informed Practice|证据知情实践]]中的决定性支撑功能。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 阐明大学[[University-Industry Collaboration|产学合作]]战略中边界跨越者的双重[[Transfer Translation Transformation|转译]]、信任建构与降低交易成本机制。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 深入分析产学联盟中关系经理（Relationship Manager）的组织化职责与合作维系机制。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 在全球教育治理情境下考察边界跨越者从知识中介向[[Policy Brokerage|政策中介]]的演进，揭示国际组织如何作为超级跨界机构在证据过剩与决策歧义性环境下[[Soft Power by Hard Facts|以硬事实施展软权力]]，并剖析跨界者在内部官僚认知与外部学术独立性之间的公信力两难。
 > - Campbell et al. (2017) — 依托 [[Knowledge Network for Applied Education Research|KNAER]] [[Case Study|案例研究]]全系统[[Knowledge Mobilisation|知识动员]]战略，分析跨界中介网络在知识转译与全系统能力建设中的运作。
 > - Cooper, Klinger, & McAdie (2017) — 实证揭示教师工会与同行网络作为中介者在课堂评估证据流动中的核心地位。
 > - Akkerman & Bakker (2011) — 全面综述学习与教育研究中的边界跨越与[[Boundary Object|边界对象]]理论，提出识别、协调、反思与转化的四阶段学习机制。

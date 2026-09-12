@@ -9,7 +9,7 @@ aliases:
 summary: "Allan Best 与 Bob J. Holmes (2010) 提出的知识利用理论分析框架，将研究与政策行动的联结划分为线性推动模型（第一代）、关系型协同生产模型（第二代）与系统生态学模型（第三代），解释了国际组织与国家从单向证据推销转向区域枢纽与制度吸收容量建设的演进逻辑。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_facts:
   - "[[Global Partnership for Education]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Knowledge and Innovation Exchange]]"
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -133,7 +134,7 @@ updated: 2026-09-12
 > 以国际组织在发展中国家推动教育改革为例：
 > 1. **第一代应用** 世界银行直接向借贷国寄送标准化教育经济学政策报告，要求该国教育部门照单全收，结果往往遭遇官僚抵制与方案搁置。
 > 2. **第二代应用** 联合国教科文组织派遣技术官员进驻成员国，与当地教育部官员联合起草国家教育部门审查草案，实现方案的情境化调试。
-> 3. **第三代应用** [[Global Education Governing Complex|全球教育治理复合体]]中的全球教育伙伴关系（Global Partnership for Education，GPE）建立四大知识与创新交流（Knowledge and Innovation Exchange，KIX）区域中介枢纽，常态化开展区域同侪互学、数字平台数据共享，深度嵌入成员国长期的政策规划制度生态之中。
+> 3. **第三代应用** [[Global Education Governing Complex|全球教育治理复合体]]中的全球教育伙伴关系（Global Partnership for Education，GPE）建立四大知识与创新交流（[[Knowledge and Innovation Exchange]]，KIX）区域中介枢纽，常态化开展区域同侪互学、数字平台数据共享，深度嵌入成员国长期的政策规划制度生态之中。
 
 ---
 

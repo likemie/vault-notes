@@ -6,10 +6,10 @@ aliases:
 summary: "Christian Ydesen (2019) 提出的概念，指由五大政府间组织、主权国家、跨国企业与私人慈善基金会构成的治理网络，通过标准化与可量化知识施展硬事实软权力。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/comparative-education
   - theme/global-governance
@@ -44,6 +44,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Global Partnership for Education]]"
   - "[[Building Evidence in Education]]"
+  - "[[Learning Data Compact]]"
   - "[[PISA]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[International Indicators of Education Systems]]"
@@ -99,7 +100,7 @@ updated: 2026-09-12
 > - **五大组织核心网络（The Big Five）** 复合体的常设支柱包括[[OECD|经合组织]]（OECD）、世界银行（World Bank）、联合国教科文组织（UNESCO）、联合国儿童基金会（UNICEF）与[[Global Partnership for Education|全球教育伙伴关系]]（GPE），各方在治理资源、合法性来源与主导工具上存在结构性互补与竞合。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **非教育机构的跨界渗透** 经济协调与金融类国际组织（如经合组织、世界银行、区域开发银行）凭借资金实力与数据技术，以“教育促进经济增长”为合法性修辞深度介入教育议程，占据全部涉教育国际组织的三分之一。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **公私伙伴关系与慈善资本联结** 私人基金会（如盖茨基金会）与跨国教育企业（如培生集团）通过专项资助与联合项目嵌入治理中枢，重塑公共政策议程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]
-> - **排他性联盟与利基竞争** 复合体内部并非均质铁板一块，各组织在围绕全球规范制定与项目资金展开激烈竞争的同时，组建差异化排他性联盟（如世界银行主导的[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2）、联合国体系主导的学习数据协定）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
+> - **排他性联盟与利基竞争** 复合体内部并非均质铁板一块，各组织在围绕全球规范制定与项目资金展开激烈竞争的同时，组建差异化排他性联盟（如世界银行主导的[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2）、联合国体系主导的[[Learning Data Compact|学习数据协定]]）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!logic-map]- 全球教育治理复合体拓扑架构
 > ```mermaid
@@ -155,7 +156,7 @@ updated: 2026-09-12
 > 剖析国际组织在表面多边协作修辞下如何通过组建排他性联盟争夺全球规制领导权。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **公开平台协作与私下排他联盟的双重结构** 复合体内部各大组织在公开报告中普遍使用高度趋同的中介修辞（如强调推进[[UN Sustainable Development Goals|可持续发展目标]]、提炼政策洞见），并在数字平台上提供开放数据与研讨资源；然而在争夺核心规制主导权与外部资助时，各大机构表现出强烈的排他性割据倾向——世界银行联合美英援助机构成立[[Building Evidence in Education|构建教育证据联盟]]（BE2），联合国教科文组织与儿童基金会则另立学习数据协定，彼此在组织利基上形成严密防范与正面竞争。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> **公开平台协作与私下排他联盟的双重结构** 复合体内部各大组织在公开报告中普遍使用高度趋同的中介修辞（如强调推进[[UN Sustainable Development Goals|可持续发展目标]]、提炼政策洞见），并在数字平台上提供开放数据与研讨资源；然而在争夺核心规制主导权与外部资助时，各大机构表现出强烈的排他性割据倾向——世界银行联合美英援助机构成立[[Building Evidence in Education|构建教育证据联盟]]（BE2），联合国教科文组织与儿童基金会则另立[[Learning Data Compact|学习数据协定]]，彼此在组织利基上形成严密防范与正面竞争。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ---
 

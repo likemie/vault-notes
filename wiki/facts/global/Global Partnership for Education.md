@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_persons: []
 related_facts:
   - "[[Education for All]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Knowledge and Innovation Exchange]]"
   - "[[OECD]]"
   - "[[PISA]]"
 related_arguments:
@@ -72,7 +73,7 @@ updated: 2026-09-12
 > [!dev-timeline] 组织发展历程
 > - **2002–2010 — [[Education for All|全民教育]]快车道倡议（[[Exploratory Factor Analysis|EFA]]-FTI）奠基期** 2002 年在蒙特雷发展筹资国际会议上发起成立，作为世界银行与联合国教科文组织加速落实全民教育达喀尔目标的紧密合作工具；初期高度依附于世界银行放贷审批流程，重点资助初等教育完成率考核达标的发展中国家。
 > - **2011–2018 — 机构独立重组与 GPE 多边治理确立** 2011 年彻底脱离单纯依靠世行托管的运作模式，正式更名为全球教育伙伴关系（GPE）；吸纳发展中国家、教师工会与国际非政府组织代表进入董事会，建立起首个多利益相关方联合治理架构。
-> - **2019–至今 — KIX 枢纽建立与[[Policy Brokerage|政策中介]]深化** 2019 年联合加拿大国际发展研究中心（IDRC）正式设立“知识与创新交流”（Knowledge and Innovation Exchange，KIX）机制，在全球南方设立 4 大区域中介枢纽，推动从传统的外部援助赠款向系统性支持区域同侪互学与本土证据利用演变。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **2019–至今 — [[Knowledge and Innovation Exchange|KIX]] 枢纽建立与[[Policy Brokerage|政策中介]]深化** 2019 年联合加拿大国际发展研究中心（IDRC）正式设立“知识与创新交流”（Knowledge and Innovation Exchange，KIX）机制，在全球南方设立 4 大区域中介枢纽，推动从传统的外部援助赠款向系统性支持区域同侪互学与本土证据利用演变。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 ---
 
@@ -87,7 +88,7 @@ updated: 2026-09-12
 > [!pathways]- 业务运行机制
 > - **联合部门审查（Joint Sector Reviews，JSR）** 每年由 GPE 牵头，会同受援国教育部与外部利益相关方对国家教育系统进展进行全景式数据审议，将资金拨款与部门[[Performance Indicators|绩效指标]]直接挂钩。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **国家教育规划（ESP）赠款协同** 要求受援国必须依据国际可比指标研制国家教育部门规划，通过审查后方可分阶段拨付教育系统改革专项赠款。
-> - **KIX 区域知识中介枢纽运作** 在非洲、亚洲、拉美设立 4 大区域中介枢纽，常态化组织发展中国家教育部政策官员开展研讨会、横向同侪互学与跨国方案借鉴。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **[[Knowledge and Innovation Exchange|KIX]] 区域知识中介枢纽运作** 在非洲、亚洲、拉美设立 4 大区域中介枢纽，常态化组织发展中国家教育部政策官员开展研讨会、横向同侪互学与跨国方案借鉴。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---
 
@@ -95,7 +96,7 @@ updated: 2026-09-12
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **大规模多边教育赠款工具箱** 涵盖系统转型赠款（System Transformation Grants）、加速资金（Accelerated Funding）与数据赋能赠款，累计配置数十亿美元[[International Education|国际教育]]公共财政。
-> - **知识与创新交流（KIX）平台** 全球最大的发展中国家教育政策循证知识共享平台，支持 70 多个全球南方国家在课程改革、教师专业化与早期教育领域的实用研究。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **知识与创新交流（[[Knowledge and Innovation Exchange|KIX]]）平台** 全球最大的发展中国家教育政策循证知识共享平台，支持 70 多个全球南方国家在课程改革、教师专业化与早期教育领域的实用研究。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **《全球教育成效与伙伴关系成果报告》** 连续发布的年度旗舰监测报告，全景展现受援国[[Performance Indicators|教育指标]]进展与系统改革瓶颈。
 > - **教育系统诊断与政策准则** 编制并推广《国家教育部门规划制定与评估指南》，为低收入国家制定教育战略提供标准化的技术框架。
 
@@ -110,7 +111,7 @@ updated: 2026-09-12
 
 > [!indicators]- 影响力维度与指标
 > - **资源与网络规模** 汇聚全球数十个双边捐助国与多边机构资金，累计动员超 80 亿美元多边赠款，覆盖近 90 个伙伴发展中国家。
-> - **[[Knowledge Production|知识生产]]与同侪中介** 依托 KIX 机制资助设立 4 大区域知识枢纽，支持 70 余个国家开展本土应用政策研究与跨国经验交流。
+> - **[[Knowledge Production|知识生产]]与同侪中介** 依托 [[Knowledge and Innovation Exchange|KIX]] 机制资助设立 4 大区域知识枢纽，支持 70 余个国家开展本土应用政策研究与跨国经验交流。
 > - **政策与制度渗透** 通过地方教育集团（LEG）与年度联合部门审查（JSR），深度介入发展中国家国家教育部门规划（ESP）的起草与财政预算分配。
 
 > [!finding-cards] 关键成效与辐射影响
@@ -147,7 +148,7 @@ updated: 2026-09-12
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Global Education Governing Complex]] | Concept | GPE 是全球教育治理复合体五大多边核心机构之一。 |
-> | [[Policy Brokerage]] | Concept | GPE 依托 KIX 区域枢纽在全球南方国家扮演关键的政策中介角色。 |
+> | [[Policy Brokerage]] | Concept | GPE 依托 [[Knowledge and Innovation Exchange\|KIX]] 区域枢纽在全球南方国家扮演关键的政策中介角色。 |
 > | [[OECD]] | Fact (Organization) | 与 GPE 共同争夺有限私人慈善资本的全球规制巨头。 |
 > | [[UN Sustainable Development Goals]] | Fact (Policy) | GPE 的核心法定使命是推进落实 SDG 4 优质教育目标。 |
 > | [[PISA]] | Fact (Program) | GPE 协调受援国基础教育评估时参考的国际测评标准。 |
@@ -157,7 +158,7 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析 GPE 的区域同侪经验汲取模式、KIX 枢纽运作及其与[[OECD|经合组织]]、世界银行围绕慈善资本的利基竞争。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析 GPE 的区域同侪经验汲取模式、[[Knowledge and Innovation Exchange|KIX]] 枢纽运作及其与[[OECD|经合组织]]、世界银行围绕慈善资本的利基竞争。
 
 ---
 
