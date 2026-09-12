@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-09-12
 ---
 
 # Danish Clearinghouse for Educational Research
@@ -53,6 +53,7 @@ updated: 2026-05-23
 
 > [!note]-
 > - 2006 — Danish [[Educational Evidence Clearinghouses|Clearinghouse]] for Educational Research 在奥胡斯大学建立([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
+> - 2007–2022 — 该中心被 2007 年经合组织报告列为欧洲大陆代表性中介机构之一；然而伴随政府资助政策调整与换届，该中心在缺乏长效机制支持下被迫关停，成为中介机构受制于政治与财政周期脆弱性的典型案例（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]]）。
 
 ## 实施情况
 
@@ -67,11 +68,13 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> 这类国家级清算中心能提高本国证据可及性，但欧洲整体仍缺少跨国协调；[[Argument_Pellegrini_2021_ROE]] 指出，欧洲证据倡议多、路径多样，却在跨欧洲层面的合作和协调上不足([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.30]])。
+> - 跨国协调缺失：这类国家级清算中心能提高本国证据可及性，但欧洲整体仍缺少跨国协调；[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] 指出，欧洲证据倡议多、路径多样，却在跨欧洲层面的合作和协调上不足([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.30]])。
+> - 机构存续脆弱性：[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, p. 64)]] 强调该中心的关闭并非因其绩效评估不达标，而是暴露出依托短期项目拨款的中介机构在政党轮替与 2–3 年预算周期面前极易被削减牺牲的制度困境。
 
 ## 相关概念／理论
 
 > [!tip]-
+> - [[Educational Brokerage Agency]] — 该中心属于大学附设型国家教育中介机构的代表性案例。
 > - [[EU Evidence-Informed Education Policy Initiatives]] — 该中心属于欧洲证据知情教育政策生态中的国家级证据机构。
 > - [[Educational Evidence Clearinghouses]] — 该中心是[[Systematic Review|系统综述]]型清算中心案例。
 

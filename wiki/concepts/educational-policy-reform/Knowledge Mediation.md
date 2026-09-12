@@ -100,6 +100,8 @@ updated: 2026-09-12
 > [!feature] 知识中介的核心功能构件
 > - **跨界沟通与转译（Cross-boundary Translation）** 将晦涩复杂的原始学术统计报告[[Transfer Translation Transformation|转译]]为一线教师和决策官员可理解、可操作的实践指南与概念透镜（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 130]]）。
 > - **需求诊断与拉力激活（Demand Formulation & Pull）** 协助学校和行政部门诊断实践痛点与学情断层，将模糊的现实困境转化为明确的“外部知识需求”（Révai, 2020; [[Argument_Torres_2022_KMModels|Torres, 2022, pp. 49–51]]）。
+> - **支持研究使用的三大支柱（Three Dimensions of Research Use Support）** 中介功能必须协同涵盖获取（Access，提供易读可用证据）、技能（Skills，培养理解与评判证据的能力）与互动（Interactions，促进多方社群协作）；其中“互动”在维系深度学习与行为改变中发挥关键驱动作用（Langer et al., 2016; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 59]]）。
+> - **知识治理的三维全流程覆盖（Three Elements of Knowledge Governance）** 中介功能系统贯穿三大环节：知识生产（引导定向课题基金与政策试验）、知识中介与传播（人员流动与跨组织共享）以及知识利用（将证据与考核及资源配置挂钩）（Burns et al., 2016; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 61]]）。
 > - **关系撮合与社会信任培育（Relational Brokering & Trust）** 搭建跨越大学与中小学的常设交流网络，破除学者与实践者之间的文化隔阂，维系深层社会资本。
 > - **功能重叠性与多重身份流动（Functional Fluidity）** 在成熟生态中，中介者并非固化组织标签，学者、资深教师、教研员均可根据情境动态跨界穿梭承担中介功能（Levin, 2013; [[Argument_Torres_2022_KMModels|Torres, 2022, pp. 40–41]]）。
 
@@ -149,7 +151,7 @@ updated: 2026-09-12
 > 揭示中介技术如何伴随知识动员三代范式转型，从单纯的“信息邮差”转变为自适应生态的“连接网络枢纽”。
 
 > [!claim] Gough et al. (2011, 2018, 2019) / [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] / [[Argument_Torres_2022_KMModels|Torres (2022)]]
-> **从流水线传递到双层嵌套生态枢纽** 知识中介的角色定位历经代际跃迁：在第一代线性模型中，中介被窄化为单向推介研究的包装者与分发管道；在第二代关系模型中，中介进化为撮合研究者与使用者协同生产（Co-production）的伙伴桥梁；在第三代系统模型中，中介进一步演进为维系长期数字化共享基础设施、区域同行互换枢纽以及推动全政策周期吸收容量建设的系统治理核心。中介的重心已彻底从“优化供给推力”转向“激发需求拉力与赋能生态自组织”。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 41–46)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 547)]]
+> **从流水线传递到双层嵌套生态枢纽** 知识中介的角色定位历经代际演变：在第一代线性模型中，中介被窄化为单向推介研究的包装者与分发管道；在第二代关系模型中，中介进化为撮合研究者与使用者协同生产（Co-production）的伙伴桥梁；在第三代系统模型中，中介进一步演进为维系长期数字化共享基础设施、区域同行互换枢纽以及推动全政策周期吸收容量建设的系统治理核心。中介的重心已彻底从“优化供给推力”转向“激发需求拉力与赋能生态自组织”。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 41–46)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 547)]]
 
 ---
 
@@ -188,6 +190,7 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 系统梳理知识中介在知识生产、传播与利用三大治理环节中的全流程覆盖，提出获取、技能与互动三维支持支柱，并反思政策短周期对中介机制的冲击。
 > - [[Argument_Torres_2022_KMModels|Torres (2022)]] — 横向评述跨领域知识动员框架，系统界定知识中介的概念内涵与其在三代系统演进中的核心功能。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析国际组织如何运用第三代中介机制设立常设区域枢纽，以缓解全球证据闲置危机。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 结合英加实践，阐明一线教师对同行中介网络与实践本位证据的显著偏好。

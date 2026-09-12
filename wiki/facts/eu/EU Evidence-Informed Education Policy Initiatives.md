@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: '2026-09-02'
+updated: 2026-09-12
 ---
 
 # EU Evidence-Informed Education Policy Initiatives
@@ -80,14 +80,21 @@ updated: '2026-09-02'
 > - 2006 — 欧洲理事会春季结论强调建立评价文化，鼓励系统使用证据来推动教育系统现代化和平等化；同年 “Efficiency and Equity in European Education and Training Systems” 强调验证和传播良好实践的重要性([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.28]])。
 > - 2007 — 欧洲委员会发布 “Towards More Knowledge-Based Policy and Practice in Education and Training”，提出知识创造、知识应用和知识中介三类挑战，并指出各国在研究、政策和实践关系上的发展程度差异明显([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.29]])。
 > - 2009 — ET 2020 把周期性进展监测视为证据本位政策制定的重要贡献；2015 年联合报告再次强调分析证据和进展监测对 ET 2020 框架有效性的重要性([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.30]])。
-> - 2009-2013 — 欧盟发起知识中介网络提案，EIPPEE 项目于 2010-2013 年运行，调查欧洲国家连接研究和政策的做法，并提出提高[[Research Utilization|研究使用]]的建议。
+> - 2010–2011 — 欧盟委员会资助启动欧洲教育证据知情政策项目（EIPEE），聚焦识别欧洲连接研究与政策制定的活动并进行能力建设（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 58]]）。
+> - 2011–2013 — 项目正式拓展为纳入实践维度的“欧洲教育证据知情政策与实践项目”（EIPPEE），汇聚欧洲 23 个国家的 36 家机构及 7 家国际附属机构，成为欧洲最大的教育知识中介跨国协作网络（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 67]]）。
+> - 2013–2020 — 欧盟官方资助结束后，该网络作为自发性跨国专业共同体（EIPPEE Network）持续维系，通过分轨机制（面向广泛受众的公开网络大会与面向资深中介机构的闭门专家研讨会）平衡“扩大广度”与“深化专业”的内在张力，定期举行研讨直至 2020 年疫情（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 67–68]]）。
 > - 2017 — Eurydice 报告系统梳理欧洲证据本位政策制定支持机制，显示多数国家已有官方安排和组织为政策提供证据，但形式差异很大([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.31]])。
 > - 2017 — 英国推出 SSIF and TLIF；SSIF 资助弱势学校并偏好有有效性证据支持的项目，TLIF 则资助学校专业和领导力发展项目并开展[[Mixed Methods Research|混合方法]]评价。
 
 ## 实施情况
 
 > [!example] 实施情况
-> 欧洲层面的实施主要表现为网络、报告和知识中介机制，而不是统一的欧盟教育项目清单。EIPPEE 调查显示，各国尝试改善研究证据在政策场景中的使用，活动水平较高、路径多样，但跨欧洲层面的协作和协调仍较少([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.30]])。
+> 欧洲层面的实施主要表现为网络、报告和知识中介机制，而不是统一的欧盟教育项目清单。
+>
+> EIPPEE 项目的历史经验系统揭示了欧洲中介生态的三大核心特征（Gough et al., 2011; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 67–68]]）：
+> 1. **有效干预实证匮乏** 尽管各机构展现出极高参与热情，但极少能识别出关于“何种干预在何种情境下切实有效”的扎实经验研究；
+> 2. **重生产传播而轻全系统使用** 绝大多数中介活动局限于研究成果的撰写与单向分发，极少关注证据的真实采纳过程，更缺乏对“整个证据-政策系统”的全局观照；
+> 3. **国家行政依附与跨国协同脱节** 多数中介倡议属于政府性质且局限于国家内部行政体系，缺乏跨欧洲层面的制度化统筹与机制整合。
 
 在成员国层面，英国被视为欧洲较前沿的案例。英国 1999 年白皮书 “Modernizing Government” 明确承诺证据本位决策，随后建立 [[EPPI-Centre]] 等研究中心；[[Education Endowment Foundation|EEF]] 则以政府资助的独立慈善组织身份生成和转化学校证据([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.31]])。
 

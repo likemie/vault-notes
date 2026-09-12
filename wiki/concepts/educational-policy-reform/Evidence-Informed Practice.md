@@ -253,6 +253,7 @@ updated: 2026-09-12
 > - **2021 — 欧洲政策语言与非处方化协调** 在欧盟语境中，EIP 被重新概念化为适应成员国教育主权、培育评价文化与知识中介的非处方化政策语言。[[Argument_Pellegrini_2021_ROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
 > - **2021 — [[Local Knowledge in Evidence-Based Policy|地方知识]]与多维决策信息的显影** [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] 结合 ESSA 证据标准与巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证实施语境、成本与地方知识对证据使用的塑造作用。
 > - **2022 — 系统论转向与政策调查国际映射** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 依托 [[OECD]] 项目将 EIP 拓展至 29 个国家的 37 个教育系统，从复杂系统论和行动者生态视角，揭示政策制定者与实践者在证据知情过程中面临的结构性壁垒与共创瓶颈。
+> - **2022 — 实践倾斜反思、商业异化与循证医学镜鉴** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 考证 EIP 重心由政策端向实践端的历史转移（如 EEF 与 EIPPEE 的兴起），警告过度偏向课堂易诱发政策层“自我脱责”；揭示“证据知情”标签存在被商业资本与自利操纵者（Spinners）绑架的异化风险，并援引循证医学危机（Greenhalgh et al., 2014）阐明僵化指南和算法决策对教育者专业判断的潜在侵蚀。
 > - **2026 — 从线性实施转向多维整合** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 基于跨国[[Systematic Review|系统综述]]，主张 EIP 应由外部干预的机械执行，转向强调[[Teacher Professional Agency|教师能动性]]、多源知识交互与跨层治理的整合[[Paradigm|范式]]。
 
 ---
@@ -301,6 +302,7 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 追溯 15 年来循证运动从政策端向实践端的演进历程，反思“证据知情”标签的商业公关化风险，并借助循证医学反思捍卫教师专业判断与知识中介的独立性。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation|知识动员]]策略与成果测量类型学。
 > - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 通过马里兰州 [[Students and Teachers Accessing Tomorrow|STAT]] 技术改革项目，检验 ESSA 证据标准在学区采购与复杂改革中的局限性，论证[[Local Knowledge in Evidence-Based Policy|地方知识]]与实施成本对证据知情决策的塑造作用。
 > - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 梳理欧盟证据知情教育政策与中介机构网络，提出适应成员国教育主权、非处方式推进评价文化与证据支持的跨国治理路径。
