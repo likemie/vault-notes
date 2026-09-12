@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_facts:
   - "[[PISA]]"
   - "[[IEA]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
+  - "[[Education Policy Outlook]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Education at a Glance]]"
 related_arguments:
@@ -87,7 +88,7 @@ updated: 2026-09-12
 > - **实施控制** 统一采用国际质量监督员现场巡视、匿名在线填报系统、标准翻译与跨文化[[Back Translation|回译]]审定规程，确保跨国测量等价性。
 
 > [!citation-card] [[OECD|经合组织]]知识中介工具的生态矩阵
-> 经合组织为成员国提供了一个独特的数据与分析多边论坛及知识中枢，促进了经验交流、最佳实践分享以及公共政策建议与国际标准制定。在[[Policy Brokerage|政策中介]]实践中，经合组织将其首要知识中介工具（以 PISA 及其衍生产品 TALIS、[[Programme for the International Assessment of Adult Competencies|PIAAC]] 等为核心）与其他各类知识产品（如对等审议、教育政策展望）紧密捆绑，形成了不可逆转的跨国比较规制网络。Schleicher et al. (2021, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 544, 547]])
+> 经合组织为成员国提供了一个独特的数据与分析多边论坛及知识中枢，促进了经验交流、最佳实践分享以及公共政策建议与国际标准制定。在[[Policy Brokerage|政策中介]]实践中，经合组织将其首要知识中介工具（以 PISA 及其衍生产品 TALIS、[[Programme for the International Assessment of Adult Competencies|PIAAC]] 等为核心）与其他各类知识产品（如对等审议、[[Education Policy Outlook|教育政策展望]]）紧密捆绑，形成了不可逆转的跨国比较规制网络。Schleicher et al. (2021, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 544, 547]])
 >
 > *The organisation provides a unique forum and knowledge hub for data and analysis, exchange of experiences, best-practice sharing, and advice on public policies and international standard-setting. In policy brokerage, each IO bundles its primary knowledge brokerage instrument (in the case of OECD, mainly PISA, including its offspring products) with a different set of knowledge products.*
 

@@ -11,9 +11,9 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "UNESCO, World Bank, UNICEF, UNDP"
 tags:
@@ -41,6 +41,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Global Partnership for Education]]"
   - "[[Global Education Monitoring Report]]"
+  - "[[UNESCO Institute for Statistics]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[OECD]]"
 related_arguments:
@@ -96,7 +97,7 @@ updated: 2026-09-12
 ## 实施情况
 
 > [!actor-grid] 实施角色分工
-> - **多边协调与统计监测方** [[UNESCO|联合国教科文组织]]（UNESCO）掌握全球议程倡导权，下属统计研究所（UIS）统一制定跨国比较指标并发布《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR）。
+> - **多边协调与统计监测方** [[UNESCO|联合国教科文组织]]（UNESCO）掌握全球议程倡导权，下属统计研究所（[[UNESCO Institute for Statistics|UIS]]）统一制定跨国比较指标并发布《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR）。
 > - **财政筹资与条件规制方** [[World Bank|世界银行]]（World Bank）依托[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSPs）与结构调整项目，将 [[Exploratory Factor Analysis|EFA]] 目标转化为放贷前置约束，牢牢掌控资金流向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **实地弱势干预方** [[UNICEF|联合国儿童基金会]]（UNICEF）聚焦边缘化女童、战乱冲突与难民营地，在一线实地推动全纳教育方案。
 > - **国家履约主体** 受援国教育部与财政部，设立专门国家协调小组编制 EFA 计划，并向国际组织提供统计台账。

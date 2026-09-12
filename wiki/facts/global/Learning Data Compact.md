@@ -10,7 +10,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[UNESCO]]"
+  - "[[UNESCO Institute for Statistics]]"
   - "[[UNICEF]]"
   - "[[World Bank]]"
   - "[[UN Sustainable Development Goals]]"
@@ -55,7 +56,7 @@ updated: 2026-09-12
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 学习数据契约（Learning Data Compact，简称 LDC）是[[UNESCO|联合国教科文组织]]统计研究所（UNESCO-UIS）、[[UNICEF|联合国儿童基金会]]（UNICEF）与[[World Bank|世界银行]]（World Bank）于 2021 年联合发起的高级别数据协同倡议，旨在构建全球一体化的学生学业测评数据采集与监测架构，为落实 2030 [[UN Sustainable Development Goals|可持续发展目标]]（SDG 4）提供坚实的数据基础设施。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
+> 学习数据契约（Learning Data Compact，简称 LDC）是[[UNESCO|联合国教科文组织]]统计研究所（UNESCO-[[UNESCO Institute for Statistics|UIS]]）、[[UNICEF|联合国儿童基金会]]（UNICEF）与[[World Bank|世界银行]]（World Bank）于 2021 年联合发起的高级别数据协同倡议，旨在构建全球一体化的学生学业测评数据采集与监测架构，为落实 2030 [[UN Sustainable Development Goals|可持续发展目标]]（SDG 4）提供坚实的数据基础设施。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2021 年启动，与 2030 年联合国可持续发展议程时间跨度相锚定。
@@ -74,7 +75,7 @@ updated: 2026-09-12
 > - **项目目标** 确保到 2030 年所有低收入和中等收入国家至少开展两次具备国际可比性的大规模学生学业评估。
 > - **覆盖对象** 目标涵盖 100 余个全球南方受援国的基础教育学龄儿童及国家统计部门。
 > - **干预措施** 向成员国提供测验开发技术援助、联合出资补足国家学业测验的财政缺口、建立统一的全球学习数据仪表盘。
-> - **实施控制** 依托全球教育监测联盟与 UIS 技术标准委员会，统合各区域测验的心理计量学等值转换（Psychometric Equating）规程。
+> - **实施控制** 依托全球教育监测联盟与 [[UNESCO Institute for Statistics|UIS]] 技术标准委员会，统合各区域测验的心理计量学等值转换（Psychometric Equating）规程。
 
 > [!citation-card] 学习数据契约三大多边机构联合行动声明
 > 没有高质量的数据，我们就像在黑暗中航行。学习数据契约代表了[[UNESCO|教科文组织]]、[[UNICEF|儿童基金会]]和[[World Bank|世界银行]]共同的坚定承诺：通过统一努力与汇聚资源，确保每一个国家都具备衡量学习成果的可靠工具，让没有任何一个儿童在国际政策的视野中被遗漏。(UNESCO, UNICEF, & World Bank, 2021)
@@ -93,7 +94,7 @@ updated: 2026-09-12
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **标准与指标协调方** [[UNESCO|联合国教科文组织]]统计研究所（UNESCO-UIS）— 负责 [[UN Sustainable Development Goals|SDG 4]].1.1 全球指标托管与测验等值方法论核准。
+> - **标准与指标协调方** [[UNESCO|联合国教科文组织]]统计研究所（UNESCO-[[UNESCO Institute for Statistics|UIS]]）— 负责 [[UN Sustainable Development Goals|SDG 4]].1.1 全球指标托管与测验等值方法论核准。
 > - **[[Fieldwork|实地调查]]与弱势群体覆盖** [[UNICEF|联合国儿童基金会]]（UNICEF）— 依托 [[Multiple Indicator Cluster Surveys|MICS]]  household 调查深入边远贫困社区，采集失学与残障儿童数据。
 > - **贷款杠杆与资金池** [[World Bank|世界银行]]（World Bank）— 通过 IDA 赠款与系统性教育贷款为各国开展学业评估提供长期财政支持。
 > - **国家技术执行机构** 各国教育部考试中心与国家统计局 — 负责命题、施测、阅卷与国家数据库维护。

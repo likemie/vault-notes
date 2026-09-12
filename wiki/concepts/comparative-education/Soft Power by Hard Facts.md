@@ -8,7 +8,7 @@ aliases:
 summary: "以硬事实施展软权力由 Dennis Niemann、Kerstin Martens 与 Christian Ydesen 等提出，指涉国际组织在缺乏法定强制制裁权的前提下，通过生产标准化、可量化与可比较的硬性实证数据（如 PISA、教育指标、投资回报率），赋予政策倡议以客观科学表象并实施远处治理与绩效问责的核心规制机制。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -53,6 +53,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Building Evidence in Education]]"
   - "[[Definition and Selection of Competencies]]"
+  - "[[World Development Indicators]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -206,7 +207,7 @@ updated: 2026-09-12
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 547–548)]] | 挪威教育部能力改革政策咨询网络（5 个专家委员会与最终行政法令） | 政策[[Document\|文献]]计量与引文网络追踪 | 咨询报告与行政法令中的外部参考文献分布及机构来源 | 咨询报告共引用 464 篇文献；最终行政法令仅引用 22 篇（引文损耗率 >95%）；仅存的 22 篇引文中 20 篇（90.9%）全部来自审议 [[OECD]] [[Definition and Selection of Competencies\|DeSeCo]] 的委员会 | — | 实证证实了 OECD 硬事实在行政出台阶段的垄断性权威，同时揭示了主权国家对外部学术文献的大规模政治清洗 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 548)]] | 世界银行 60 年[[Return on Investment\|教育投资回报率]]实证研究与世界发展指标库 | 文献综合与指标库历史追踪 | 回报率估算覆盖面与[[Performance Indicators\|教育指标]]数量 | 回报率数据库覆盖 139 个国家、1,120 项估算；世界发展指标库中的教育指标从 1989 年 116 项激增至 2018 年 1,600 项 | — | 证实[[World Bank\|世行]]依托超大规模实证数据库构建起自指性最佳实践仓库，以此向借贷国施加贷款附加条件 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 548)]] | 世界银行 60 年[[Return on Investment\|教育投资回报率]]实证研究与世界发展指标库 | 文献综合与指标库历史追踪 | 回报率估算覆盖面与[[Performance Indicators\|教育指标]]数量 | 回报率数据库覆盖 139 个国家、1,120 项估算；[[World Development Indicators\|世界发展指标库]]中的教育指标从 1989 年 116 项激增至 2018 年 1,600 项 | — | 证实[[World Bank\|世行]]依托超大规模实证数据库构建起自指性最佳实践仓库，以此向借贷国施加贷款附加条件 |
 
 ---
 

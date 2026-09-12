@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 22
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: specialized-un-agency
 headquarters: "巴黎（法国）"
@@ -44,9 +44,11 @@ related_persons:
 related_facts:
   - "[[Education for All]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[International Labour Organization]]"
   - "[[International Institute for Educational Planning]]"
   - "[[World Bank]]"
   - "[[UNICEF]]"
+  - "[[UNESCO Institute for Statistics]]"
   - "[[Learning Data Compact]]"
   - "[[Global Education Monitoring Report]]"
   - "[[1960 Bellagio Conference]]"
@@ -78,9 +80,9 @@ updated: 2026-09-12
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **1945–1964 — 战后人权奠基与全球南方启蒙期** 作为 1945 年二战结束时全球仅存的两大涉教育国际组织之一（另一为 ILO），致力于战后废墟重建与基本扫盲；1948 年推动《世界人权宣言》将第 26 条受教育权写入国际法；1963 年在巴黎建立[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP），由[[Philip H. Coombs|菲利普·库姆斯]]（Philip H. Coombs）掌舵，开启对第三世界新建国家的规划官僚培训业务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
+> - **1945–1964 — 战后人权奠基与全球南方启蒙期** 作为 1945 年二战结束时全球仅存的两大涉教育国际组织之一（另一为 [[International Labour Organization|ILO]]），致力于战后废墟重建与基本扫盲；1948 年推动《世界人权宣言》将第 26 条受教育权写入国际法；1963 年在巴黎建立[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP），由[[Philip H. Coombs|菲利普·库姆斯]]（Philip H. Coombs）掌舵，开启对第三世界新建国家的规划官僚培训业务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
 > - **1964–1980 — [[World Bank|世行]]合作蜜月与人文路线分道扬镳** 1964 年与世界银行签署《合作协定》（Co-operative Agreement），为世行初入教育借贷提供专业技术团队背书；然而双方在理念上发生深刻断裂——教科文组织坚持人文主义与教育权利导向，断然拒绝世行将学校沦为单一经济产出投入要素的功利算计；1980 年世行正式发表政策文件宣告独立，双方合作机制名存实亡。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **1980–2000 — 政治极化震荡与《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）崛起** 冷战后期深陷意识形态争端，美英等国因不满新世界信息秩序倡议相继于 1984–1985 年退约并冻结预算；面对财政边缘化，教科文组织于 1990 年在泰国宗迪恩联合世行、[[UNICEF|儿童基金会]]等发起《世界全民教育大会》（EFA），1996 年发布《学习：内在的财富》（德洛尔报告），确立教育四大支柱；1999 年在蒙特利尔成立统计研究所（UIS），奠定联合国统一教育统计基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **1980–2000 — 政治极化震荡与《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）崛起** 冷战后期深陷意识形态争端，美英等国因不满新世界信息秩序倡议相继于 1984–1985 年退约并冻结预算；面对财政边缘化，教科文组织于 1990 年在泰国宗迪恩联合世行、[[UNICEF|儿童基金会]]等发起《世界全民教育大会》（EFA），1996 年发布《学习：内在的财富》（德洛尔报告），确立教育四大支柱；1999 年在蒙特利尔成立统计研究所（[[UNESCO Institute for Statistics|UIS]]），奠定联合国统一教育统计基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **2000–至今 — [[UN Sustainable Development Goals|SDG 4]] 全球协调中枢与数字时代再平衡** 2000 年达喀尔行动框架确立 EFA 六大目标并建立年度监测机制；2015 年仁川世界教育论坛通过《教育 2030 行动框架》，被联合国大会指定为《2030 年可持续发展议程》中第四项目标（[[UN Sustainable Development Goals|SDG 4]]）的全球牵头与协调机构；2021 年发布《共同重新构想我们的未来：一种新的教育社会契约》，联合世行、UNICEF 发起[[Learning Data Compact|学习数据契约]]，在数字规制时代努力平衡技术测评与人道价值。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 545)]]
 
 ---
@@ -90,7 +92,7 @@ updated: 2026-09-12
 > [!actor-grid] 组织治理架构
 > - **决策机构（大会 / 执行局）** 大会（General Conference）为最高审议中枢，每两年召开一次，全体成员国实行“一国一票”平等表决权；执行局（Executive Board）由 58 名当选成员国代表组成，负责监督经常预算与战略执行。
 > - **执行机构（总干事 / 教育助理总干事）** 秘书处设在巴黎，由总干事统率，教育助理总干事（ADG/ED）直接主管教育部门，统筹未来学习、[[Lifelong Learning|终身学习]]、包容与技术职业教育等常设处室。
-> - **专家与审议委员会** [[Global Education Monitoring Report|全球教育监测报告]]（GEMR）独立专家顾问委员会、教科文组织教席网络（UNESCO Chairs Network）以及下设的一类机构管委会（[[International Institute for Educational Planning|IIEP]]、UIS、IBE、UIL 等）。
+> - **专家与审议委员会** [[Global Education Monitoring Report|全球教育监测报告]]（GEMR）独立专家顾问委员会、教科文组织教席网络（UNESCO Chairs Network）以及下设的一类机构管委会（[[International Institute for Educational Planning|IIEP]]、[[UNESCO Institute for Statistics|UIS]]、IBE、UIL 等）。
 > - **会员与外部利益相关者** 拥有极具特色的“国家委员会”（National Commissions for UNESCO）系统，深度联结各主权国教育部、外交部、高校学术界与民间公民社会团体。
 
 > [!pathways]- 业务运行机制
@@ -104,7 +106,7 @@ updated: 2026-09-12
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** 《[[International Education|国际教育]]标准分类》（ISCED）；《全球高等教育学历学位互认公约》；《人工智能伦理与教育建议书》；女童教育行动规范指南。
-> - **数据库、证据库与监测平台** 联合国教科文组织统计研究所数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）。
+> - **数据库、证据库与监测平台** [[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）。
 > - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **旗舰出版物与咨询成果** 《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告）；《教育的未来：一种新的社会契约》（2021）；《全球水资源开发报告》与教育科学政策丛书。
 
@@ -128,7 +130,7 @@ updated: 2026-09-12
 > - **学校与实践改变** 在发展中国家基层推动扫盲课程、和平教育、母语教学与环境[[Sustainability Education|可持续发展教育]]实验。
 
 > [!stat-cards]- 核心规模数据
-> 全球 194 个成员国与 12 个准会员；UIS 汇聚全球超 200 个国家和地区的年度官方教育普查数据；主导监测覆盖数十亿人口的 2030 年 SDG 4 宏伟目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 全球 194 个成员国与 12 个准会员；[[UNESCO Institute for Statistics|UIS]] 汇聚全球超 200 个国家和地区的年度官方教育普查数据；主导监测覆盖数十亿人口的 2030 年 SDG 4 宏伟目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi 等提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,6 +49,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Global Education Monitoring Report]]"
   - "[[International Indicators of Education Systems]]"
+  - "[[International Labour Organization]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -151,7 +152,7 @@ updated: 2026-09-12
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1945–1960 — 专门机构双寡头格局** 战后初期仅有国际劳工组织（ILO）与[[UNESCO|联合国教科文组织]]（UNESCO）两家涉足教育，严格遵循法定管辖权分工。
+> - **1945–1960 — 专门机构双寡头格局** 战后初期仅有[[International Labour Organization|国际劳工组织]]（ILO）与[[UNESCO|联合国教科文组织]]（UNESCO）两家涉足教育，严格遵循法定管辖权分工。
 > - **1961–1970s — 冷战地缘催化与跨界嵌入肇始** 经合组织（1961）借斯普特尼克危机将教育锚定为经济防务工具；世界银行（1964）借道教科文组织入场，开启以教育促进经济增长的使命嵌入。
 > - **1990s–2005 — 区域化跨界浪潮与总量饱和** 东南亚国家联盟（ASEAN）、加勒比共同体（Caricom）等区域组织普遍将教育列入政策组合，涉教育国际组织达到 30 家饱和峰值。
 > - **2024 — [[Governing by Numbers|数字治理]] 2.0 与理论确立** Martens, Niemann, & Krogmann (2024) 与 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 正式确立“使命性教育嵌入”概念，系统剖析非专门机构在数字治理时代依靠硬事实[[Policy Brokerage|政策中介]]维持治理特权的生态。

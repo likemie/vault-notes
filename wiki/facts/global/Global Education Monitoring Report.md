@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[World Bank]]"
+  - "[[UNESCO Institute for Statistics]]"
   - "[[OECD]]"
   - "[[UNICEF]]"
   - "[[Multiple Indicator Cluster Surveys]]"
@@ -105,7 +106,7 @@ updated: 2026-09-12
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 国际社会达喀尔框架委托设立，[[UNESCO]] 担任行政托管组织，由多国政府与慈善基金会联合注资。
-> - **研发与数据中心** GEMR 独立报告团队（常驻巴黎，配备跨学科经济学、统计学与政策分析专家）、联合国教科文组织统计研究所（UIS）。
+> - **研发与数据中心** GEMR 独立报告团队（常驻巴黎，配备跨学科经济学、统计学与政策分析专家）、[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UIS）。
 > - **一线执行机构** 全球各参与国研究学者、智库委托团队与各主权国国家统计局。
 > - **受试与受益对象** 各国政府首脑、议会立法者、草根教师组织、青年活动家及联合国大会审议代表。
 

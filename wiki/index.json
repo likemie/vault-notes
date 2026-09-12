@@ -19393,6 +19393,17 @@
     ]
   },
   {
+    "title": "International Labour Organization",
+    "type": "fact",
+    "path": "wiki/facts/global/International Labour Organization.md",
+    "aliases": [
+      "ILO",
+      "国际劳工组织",
+      "国际劳工局",
+      "International Labour Office"
+    ]
+  },
+  {
     "title": "International Schools Association",
     "type": "fact",
     "path": "wiki/facts/global/International Schools Association.md",
@@ -19446,6 +19457,17 @@
       "联合国教科文组织",
       "教科文组织",
       "United Nations Educational, Scientific and Cultural Organization"
+    ]
+  },
+  {
+    "title": "UNESCO Institute for Statistics",
+    "type": "fact",
+    "path": "wiki/facts/global/UNESCO Institute for Statistics.md",
+    "aliases": [
+      "UIS",
+      "教科文组织统计研究所",
+      "联合国教科文组织统计研究所",
+      "UNESCO UIS"
     ]
   },
   {
@@ -19644,6 +19666,16 @@
     ]
   },
   {
+    "title": "Education Policy Outlook",
+    "type": "fact",
+    "path": "wiki/facts/global/Education Policy Outlook.md",
+    "aliases": [
+      "EPO",
+      "教育政策展望",
+      "OECD Education Policy Outlook"
+    ]
+  },
+  {
     "title": "Global Education Monitoring Report",
     "type": "fact",
     "path": "wiki/facts/global/Global Education Monitoring Report.md",
@@ -19792,6 +19824,17 @@
       "教师教学国际调查",
       "国际教学与学习调查",
       "OECD TALIS"
+    ]
+  },
+  {
+    "title": "World Development Indicators",
+    "type": "fact",
+    "path": "wiki/facts/global/World Development Indicators.md",
+    "aliases": [
+      "WDI",
+      "世界发展指标",
+      "世界发展指标库",
+      "World Development Indicators database"
     ]
   },
   {

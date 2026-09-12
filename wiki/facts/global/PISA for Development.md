@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -45,6 +45,7 @@ related_facts:
   - "[[UNICEF]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Educational Testing Service]]"
+  - "[[UNESCO Institute for Statistics]]"
   - "[[Learning Data Compact]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -102,7 +103,7 @@ updated: 2026-09-12
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[OECD]] 教育与技能司、国际捐助者财团（涵盖英国国际发展部、法国开发署等）。
-> - **研发与数据中心** [[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）、[[Educational Testing Service|美国教育考试服务中心]]（ETS）以及[[UNESCO|联合国教科文组织]]统计研究所（UIS）。
+> - **研发与数据中心** [[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）、[[Educational Testing Service|美国教育考试服务中心]]（ETS）以及[[UNESCO|联合国教科文组织]]统计研究所（[[UNESCO Institute for Statistics|UIS]]）。
 > - **一线执行机构** 各受试国教育部直属的规划与国家考试中心、本土入户统计调研队。
 > - **受试与受益对象** 9 个试点国处于全球教育边缘的底层在校与失学青少年群体及其教师和教育部门官员。
 
