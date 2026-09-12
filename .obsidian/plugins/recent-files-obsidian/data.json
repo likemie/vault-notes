@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Technologies of Exclusion",
+      "path": "wiki/concepts/comparative-education/Technologies of Exclusion.md"
+    },
+    {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Social-Emotional Learning",
+      "path": "wiki/concepts/competency-and-assessment/Social-Emotional Learning.md"
+    },
+    {
+      "basename": "Global Education Monitoring Report",
+      "path": "wiki/facts/global/Global Education Monitoring Report.md"
     },
     {
       "basename": "Education-for-Mandates",
@@ -187,18 +199,6 @@
     {
       "basename": "Niklas Luhmann",
       "path": "wiki/persons/germany/Niklas Luhmann.md"
-    },
-    {
-      "basename": "Methodological Nationalism",
-      "path": "wiki/concepts/comparative-education/Methodological Nationalism.md"
-    },
-    {
-      "basename": "Methodological Transnationalism",
-      "path": "wiki/concepts/comparative-education/Methodological Transnationalism.md"
-    },
-    {
-      "basename": "Research Utilization",
-      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
     }
   ],
   "omittedPaths": [],
