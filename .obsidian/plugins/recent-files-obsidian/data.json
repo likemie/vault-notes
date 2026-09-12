@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
     },
     {
+      "basename": "Education-for-Mandates",
+      "path": "wiki/concepts/comparative-education/Education-for-Mandates.md"
+    },
+    {
       "basename": "PISA for Development",
       "path": "wiki/facts/global/PISA for Development.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Research Utilization",
       "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
-    },
-    {
-      "basename": "Global Education Governing Complex",
-      "path": "wiki/concepts/comparative-education/Global Education Governing Complex.md"
     }
   ],
   "omittedPaths": [],
