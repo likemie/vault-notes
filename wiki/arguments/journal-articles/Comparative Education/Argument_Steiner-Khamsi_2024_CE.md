@@ -76,10 +76,12 @@ related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
+  - "[[Christopher Lubienski]]"
   - "[[Christian Ydesen]]"
   - "[[Kerstin Martens]]"
   - "[[Niklas Luhmann]]"
   - "[[George Psacharopoulos]]"
+  - "[[Richard Rose]]"
   - "[[Wendy Espeland]]"
   - "[[Jarl Bengtsson]]"
   - "[[Philip H. Coombs]]"
@@ -113,6 +115,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[International Labour Organization]]"
   - "[[PISA for Development]]"
+  - "[[Education GPS]]"
   - "[[World Education Reform Database]]"
   - "[[World Development Indicators]]"
   - "[[Building Evidence in Education]]"
@@ -137,9 +140,9 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 98
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_count: 101
+argument_related_level: 6
+argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 journal: Comparative Education
 book_title: ""
@@ -154,7 +157,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在数字经济催生研究证据严重过剩（[[Surplus of Evidence]]）与信息孤岛林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何[[Soft Power by Hard Facts|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
+> 在数字经济催生研究证据严重过剩（[[Surplus of Evidence]]）与信息孤岛（[[Christopher Lubienski|Lubienski]] & Malin, 2022）林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何[[Soft Power by Hard Facts|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
 
 > [!claim] 核心主张
 > 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差异化知识产品打包，[[Soft Power by Hard Facts|以硬事实施展软权力]]，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。（pp.538–540, 547–549）
@@ -188,7 +191,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **历史比较分析法**<br>[[Historical-Comparative Method\|Historical-Comparative Analysis]] | 梳理[[OECD\|经合组织]]与世界银行五十年发展档案，结合关键历史[[Document\|文献]]与亲历者访谈史料（如 Jarl Bengtsson 回忆录、[[George Psacharopoulos\|George Psacharopoulos]] 政策评估文本），重构冷战与后殖民时期国际组织向教育统计与指标规制转型的制度轨迹。（pp.540–542） |
-> | **跨国组织比较与网络分析**<br>Transnational & Relational Policy Network Analysis | 运用世界教育改革数据库（World Education Reform Database，WERD）等跨国数据，横向对比 OECD、世界银行、联合国教科文组织等在[[Policy Brokerage\|政策中介]]工具打包、经验汲取模式（外向国别经验 vs 自指性实践库）及排他性联盟策略上的异同。（pp.543–546） |
+> | **跨国组织比较与网络分析**<br>Transnational & Relational Policy Network Analysis | 运用世界教育改革数据库（World Education Reform Database，WERD）等跨国数据，横向对比 OECD、世界银行、联合国教科文组织等在[[Policy Brokerage\|政策中介]]工具打包、[[Richard Rose\|Rose]]（1993）经验汲取模式（外向国别经验 vs 自指性实践库）及排他性联盟策略上的异同。（pp.543–546） |
 > | **政策周期引文追踪法**<br>Procedural Citation Tracing in Policy Cycle | 依托北欧五国政策咨询网络实证研究材料，系统追踪专家咨询委员会报告与教育部正式法令之间的参考文献承继关系，精确量化跨国中介证据在行政规制出台阶段的损耗与过滤。（pp.547–548） |
 
 > [!sample-panel]- 样本与材料快照
@@ -345,7 +348,7 @@ issuing_organization: ""
 > [!row-contrast] 主要国际组织的政策中介工具打包组合与经验汲取取向（pp.544–546）
 > | 国际组织（IO） | 核心政策中介工具（Primary Instrument） | 打包知识产品与服务（Bundled Knowledge Products） | 经验汲取模式与实证特征（Lesson-Drawing Orientation） | 治理机制与战略同盟（Governance & Alliances） |
 > |---|---|---|---|---|
-> | **[[OECD\|经合组织（OECD）]]** | **[[PISA]]**（国际学生评估项目）及其衍生产品矩阵（[[Teaching and Learning International Survey\|TALIS]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]]、[[PISA for Development\|PISA-D]]） | 国别同行评议（Peer Reviews）、《教育概览》（Education at a Glance，EAG）、[[Education Policy Outlook\|教育政策展望]]（Education Policy Outlook）、教育 GPS 数字平台 | **外向型国别横向对照（Outward-looking cross-national referencing）**<br>[[World Education Reform Database\|世界教育改革数据库]]（World Education Reform Database，WERD）实证表明，其报告高度依赖对其他成员国具体改革经验的交叉引证，将跨国横向比较作为提升教育质量的核心引擎。（Seitzer et al., 2023; pp.544–545） | 以软法（Soft Law）、指标排序与“命名与羞辱”实施远程规制；依托非成员国测验扩张与盖茨等私人基金会资助，构建全球比较帝国。 |
+> | **[[OECD\|经合组织（OECD）]]** | **[[PISA]]**（国际学生评估项目）及其衍生产品矩阵（[[Teaching and Learning International Survey\|TALIS]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]]、[[PISA for Development\|PISA-D]]） | 国别同行评议（Peer Reviews）、《教育概览》（Education at a Glance，EAG）、[[Education Policy Outlook\|教育政策展望]]（Education Policy Outlook）、[[Education GPS\|教育 GPS]] 数字平台 | **外向型国别横向对照（Outward-looking cross-national referencing）**<br>[[World Education Reform Database\|世界教育改革数据库]]（World Education Reform Database，WERD）实证表明，其报告高度依赖对其他成员国具体改革经验的交叉引证，将跨国横向比较作为提升教育质量的核心引擎。（Seitzer et al., 2023; pp.544–545） | 以软法（Soft Law）、指标排序与“命名与羞辱”实施远程规制；依托非成员国测验扩张与盖茨等私人基金会资助，构建全球比较帝国。 |
 > | **世界银行（World Bank）** | **贷款与赠款附加条件**、[[Systems Approach for Better Education Results\|改善教育成果系统分析法（SABER）]]、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、[[World Development Indicators\|世界发展指标库]]（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践循环（Self-referential lesson-drawing）**<br>[[World Education Reform Database\|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交,联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的[[Building Evidence in Education\|构建教育证据联盟（BE2）]]。 |
 > | **[[Global Partnership for Education\|全球教育伙伴关系（GPE）]]** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | [[Knowledge and Innovation Exchange\|知识与创新交流机制（Knowledge and Innovation Exchange，KIX）]]，在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
 > | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | **国际公约与规范性框架制定**、[[Global Education Monitoring Report\|《全球教育监测报告》]]（Global Education Monitoring Report，GEMR）、[[UNESCO Institute for Statistics\|统计研究所]]（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、[[International Institute for Educational Planning\|国际教育规划研究所]]（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立[[Learning Data Compact\|“学习数据协定”（Learning Data Compact）]]，在跨国监测主导权上与世行体系形成制衡。 |

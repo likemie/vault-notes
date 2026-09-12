@@ -9,9 +9,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 tags:
   - education-at-a-glance
@@ -47,6 +47,7 @@ related_facts:
   - "[[IEA]]"
   - "[[PISA]]"
   - "[[Education Policy Outlook]]"
+  - "[[Education GPS]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -98,7 +99,7 @@ updated: 2026-09-12
 > - **1992–1994 — 探索诞生与体量扩张期** 1992 年首版发行仅 150 页，由于缺乏统合测试，主要聚焦于投入与参与度指标；1993 年第二版篇幅激增至 300 页，国际关注度急剧攀升。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 14)]]
 > - **1995–2001 — 双语分行与数据标准化期** 1995 年起英法版本独立成册发行（每册达 370 页）；随着 [[International Indicators of Education Systems|INES]] 收集网络日益制度化，数据缺失值显著降低，开始稳步吸收[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement，IEA）等外部评估成果。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 13)]]
 > - **2002 — 框架重组与“产出/绩效霸权”确立** 经历 2000 年首轮[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）测试后，2002 版 EAG 发生决定性重组：[[Performance Indicators|绩效指标]]从全书最后一章强行前提至第一章（维度 A），标志着 [[OECD]] 正式确立以“学生成绩与系统效能产出”为统领的现代问责[[Paradigm|范式]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 13–14)]]
-> - **2003 至今 — 衍生生态矩阵与[[Governing at a Distance|远处治理]]深化** EAG 成为 OECD 庞大[[Knowledge Production|知识生产]]网络的中枢平台，直接衍生出《[[Education Policy Outlook|教育政策展望]]》（Education Policy Outlook）、教育全球定位系统（Education Global Positioning System，Education GPS）等数字化即时交互平台，构筑了对成员国教育决策的长期[[Policy Brokerage|政策中介]]与“远处治理”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
+> - **2003 至今 — 衍生生态矩阵与[[Governing at a Distance|远处治理]]深化** EAG 成为 OECD 庞大[[Knowledge Production|知识生产]]网络的中枢平台，直接衍生出《[[Education Policy Outlook|教育政策展望]]》（Education Policy Outlook）、教育全球定位系统（Education Global Positioning System，[[Education GPS]]）等数字化即时交互平台，构筑了对成员国教育决策的长期[[Policy Brokerage|政策中介]]与“远处治理”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
 
 ---
 

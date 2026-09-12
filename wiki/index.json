@@ -17138,6 +17138,16 @@
     ]
   },
   {
+    "title": "Richard Rose",
+    "type": "person",
+    "path": "wiki/persons/uk/Richard Rose.md",
+    "aliases": [
+      "理查德·罗斯",
+      "Rose, R.",
+      "R. Rose"
+    ]
+  },
+  {
     "title": "Robert Cowen",
     "type": "person",
     "path": "wiki/persons/uk/Robert Cowen.md",
@@ -17397,6 +17407,17 @@
     "aliases": [
       "Lewis, C.",
       "凯瑟琳·刘易斯"
+    ]
+  },
+  {
+    "title": "Christopher Lubienski",
+    "type": "person",
+    "path": "wiki/persons/us/Christopher Lubienski.md",
+    "aliases": [
+      "克里斯托弗·卢宾斯基",
+      "Lubienski, C.",
+      "C. Lubienski",
+      "Chris Lubienski"
     ]
   },
   {
@@ -19663,6 +19684,16 @@
     "aliases": [
       "教育概览",
       "EAG"
+    ]
+  },
+  {
+    "title": "Education GPS",
+    "type": "fact",
+    "path": "wiki/facts/global/Education GPS.md",
+    "aliases": [
+      "OECD Education GPS",
+      "教育全球政策调查",
+      "OECD Education GPS platform"
     ]
   },
   {

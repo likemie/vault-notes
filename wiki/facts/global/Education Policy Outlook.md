@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_facts:
   - "[[Teaching and Learning International Survey]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[Education at a Glance]]"
+  - "[[Education GPS]]"
   - "[[World Education Reform Database]]"
   - "[[World Bank]]"
 related_arguments:
@@ -78,7 +79,7 @@ updated: 2026-09-12
 > [!policy-design]- 方案设计
 > - **[[Analytic Framework|分析框架]]** 沿用经合组织"教育质量、公平、效率、制度容量"四维分析框架，系统评估各国教育系统的相对优势与政策缺口。
 > - **数据整合** 深度整合[[PISA]]学生成绩数据、[[Teaching and Learning International Survey|TALIS]]教师调查数据、《[[Education at a Glance|教育概览]]》（EAG）结构性指标，以及各成员国政府提交的政策[[Questionnaire|问卷]]数据，形成多维混合证据矩阵。
-> - **产品线** 双年度旗舰报告（约 300–400 页）；专题政策聚焦报告（Policy Spotlights，约 20 页）；国别概况简报（Country Profiles，每国 8–12 页摘要卡片）；互动式在线数据可视化工具（Education GPS 平台）。
+> - **产品线** 双年度旗舰报告（约 300–400 页）；专题政策聚焦报告（Policy Spotlights，约 20 页）；国别概况简报（Country Profiles，每国 8–12 页摘要卡片）；互动式在线数据可视化工具（[[Education GPS]] 平台）。
 > - **知识借鉴导向** 高度侧重于"外向型国别横向对照"（Outward-looking Cross-national Referencing）——[[World Education Reform Database|世界教育改革数据库]]（[[World Education Reform Database|WERD]]）分析证实，经合组织报告相比[[World Bank|世界银行]]更频繁地引用其他成员国具体改革案例，将跨国横向比较作为提升教育质量的核心论证引擎。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 > [!citation-card] Education Policy Outlook 作为[[Policy Brokerage|政策中介]]知识打包工具
@@ -90,7 +91,7 @@ updated: 2026-09-12
 
 > [!dev-timeline]- 项目推进历程
 > - **2012 年 — 首期发布：从测评数据到政策分析的跨越** 首版《教育政策展望 2012》出版，标志[[OECD|经合组织]]正式将测评结果系统转化为跨国政策建议产品，弥补了《[[Education at a Glance|教育概览]]》以指标展示为主、缺乏政策解读深度的功能空缺。
-> - **2014–2018 年 — 双年度机制成熟与国别简报推广** 相继出版 2014、2016、2018 各年度版本，逐步建立覆盖所有成员国的标准化国别政策概况卡片（Country Snapshot），并开发 Education GPS 互动在线平台。
+> - **2014–2018 年 — 双年度机制成熟与国别简报推广** 相继出版 2014、2016、2018 各年度版本，逐步建立覆盖所有成员国的标准化国别政策概况卡片（Country Snapshot），并开发 [[Education GPS]] 互动在线平台。
 > - **2020–至今 — 危机与重建议题的紧急响应** 2020 年版（Shaping Responsive Education Systems）聚焦韧性与危机应对；2022 年版聚焦教师政策；疫情后发布专题政策快报，系统追踪各国疫情期间教育连续性与学习损失（Learning Loss）的政策回应。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-09-12
 > - **知识市场地位** 与[[World Education Reform Database|世界教育改革数据库]]（WERD）研究证实，[[OECD|经合组织]]报告整体呈现高度"外向型"知识借鉴特征，引用其他成员国改革实践的频次显著高于[[World Bank|世界银行]]报告的自指性引用模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 > [!stat-cards]- 核心规模数据
-> 覆盖经合组织 38 个成员国及多个伙伴国；每两年发布一部 300–400 页旗舰报告及逾 40 份国别简报；配套 Education GPS 平台提供实时互动政策比较数据可视化；与[[PISA]]、[[Teaching and Learning International Survey|TALIS]]、[[Programme for the International Assessment of Adult Competencies|PIAAC]] 数据深度整合联动。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
+> 覆盖经合组织 38 个成员国及多个伙伴国；每两年发布一部 300–400 页旗舰报告及逾 40 份国别简报；配套 [[Education GPS]] 平台提供实时互动政策比较数据可视化；与[[PISA]]、[[Teaching and Learning International Survey|TALIS]]、[[Programme for the International Assessment of Adult Competencies|PIAAC]] 数据深度整合联动。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
 
 ---
 
