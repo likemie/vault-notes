@@ -1,0 +1,439 @@
+================================================================================
+Chapter: Improving research-policy-practice engagement: Lessons learnt and ways forward
+Author(s): Nóra Révai
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part III: New approaches to understanding research use
+Book Pages: pp. 235–243
+PDF Pages: pp. 237–245 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 237 / Book Page 235] ---
+
+11 Improving research-policy-
+
+practice engagement: Lessons
+learnt and ways forward
+Nóra Révai, OECD
+
+This chapter summarises the main lessons learnt from the volume. It begins
+by connecting the themes discussed in the publication with wider societal
+challenges. It then summarises six key lessons. Two relate to conceptual
+developments: The need for shared understanding, vocabulary and
+conceptual clarity; and a call to view policy and practice as two parts of the
+same whole rather than separate contexts. Three pertain to enabling
+systematic and high-quality production and use of research: The need to
+improve research quality and use it well; the need for deeper and more
+meaningful collaboration between researchers, policy makers and
+practitioners; and enhanced governance through renewed leadership,
+stronger incentives and appropriate funding. Finally, a last message calls
+for a greater focus on understanding “what works in what works’’. The
+chapter ends with a proposal to advance this agenda in two concrete ways.
+
+--- [PDF Page 238 / Book Page 236] ---
+
+Introduction
+Viewing the pale blue dot (Sagan, 1994[1]) – our planet – in the vastness of space raises a razor-sharp
+awareness of what matters most for humanity: To protect life. Education also needs to respond
+appropriately to what is already happening: The scarcity of resources and energy, large-scale migration
+due to climate change and the changing landscape of our planet. Responding appropriately requires a
+relentless effort to build cumulative knowledge of how we can best empower children not just to cope in
+life and with the coming challenges but also to become active and responsible agents of change.
+Continuously generating relevant research and ensuring its quality use in education policy and practice is
+fundamental to keeping education systems agile, relevant and efficient.
+Evidence-informed decision making is not a new idea nor a new movement but its importance and
+complexity are becoming increasingly more visible not just to experts, policy makers and practitioners but
+to the general public. This increased awareness, particularly in the health and environment sectors,
+presents a window of opportunity for other sectors such as education to rethink research use in policy
+making and practice. Inversely, understanding how we can reinforce the dynamics of research production
+and use in education might also inform other sectors.
+This volume set out to map recent developments in knowledge mobilisation in education policy and
+practice. Leading experts brought new perspectives on evidence-informed policy/practice through recent
+research. The OECD Strengthening the Impact of Education Research policy survey provided initial
+insights into how countries are tackling the challenge of reinforcing research use. The introduction chapter
+pointed to two conceptual considerations:
+
+
+Recognising complexity in the way we talk about “knowledge mobilisation”.
+
+
+
+Connecting policy and practice.
+
+It also outlined key questions related to enabling a more systematic and high-quality production and use
+of research in policy and practice.
+
+
+How can we think about the quality and relevance of research and its use?
+
+
+
+What structures, processes and relationships support this? (see Table 1.1).
+
+While there are no straightforward answers or recipes to respond to these questions, a number of
+messages have emerged from the chapters of this volume that can take us forward on the path.
+
+What have we learnt about the conceptual considerations?
+Naming the game: From brokerage to engagement
+The first conceptual consideration was that the terms we use to talk about knowledge mobilisation do not
+appropriately recognise complexity. The chapters in this volume demonstrate just how scattered our
+vocabulary is when it comes to capturing the dynamics of research production, mediation and use. In fact,
+the OECD team has been struggling from the beginning of this project to decide what term to use. Just the
+introduction above uses four different expressions: Knowledge mobilisation; evidence-informed
+practice/policy; strengthening the impact of education research; and reinforcing research use.
+Terms that suggest clearly linear thinking – knowledge transfer, transmission, dissemination, knowledgeto-action – are no longer “trendy” in literature, precisely to avoid narrowing the problem to a push/transfer
+one. Mediation and brokerage evoke a two-way process and are used more frequently, particularly when
+the focus is on the “in-between” of research and decision making. In this volume, David Gough, Jonathan
+Sharples and Chris Maidment, speak about “knowledge brokerage initiatives” (Chapter 7). Tracey Burns
+and Tom Schuller (Chapter 3) explicitly point to the contested nature of terminology and use brokerage
+
+--- [PDF Page 239 / Book Page 237] ---
+
+agencies to signal continuity with previous work that looked at institutional brokerage efforts. As Gábor
+Halász (Chapter 8) underlines, the term “knowledge mobilisation” is increasingly popular because it turns
+away from linear thinking and brings into focus the idea of co-creation. This means that researchers and
+practitioners / policy makers are not simply connected but work together to come up with new solutions.
+Mark Rickinson and colleagues (Chapter 9) focus on a particular aspect: The quality of research use, which
+they define as the “thoughtful engagement with and implementation of appropriate research evidence”.
+Annette Boaz, Kathryn Oliver and Anna Numa Hopkins (Chapter 6) use “research-policy engagement
+initiatives”, which draws attention to the importance of mutual engagement to reinforce research production
+and use. Engagement is described as ultimately the key element in several of the opinion pieces in Chapter
+10 as well (e.g. Tine Prøitz, Vivian Tseng, Emese K. Nagy), and appears central in the most recent
+“evidence ecosystem” models by David Gough, Jonathan Sharples and Chris Maidment (Chapter 2 and
+7).
+If we believe that discourse shapes how we think about “the impact of education research” and ultimately
+what we do to reinforce its use, then we must make deliberate efforts to improve the clarity of that
+discourse. Research today seems robust on the importance of the collective engagement of different actors
+– primarily but not limited to researchers, practitioners and policy makers – in both the production and use
+of research. In fact, engagement of latter two increasingly overlap from a co-creation perspective. Thus,
+research-policy-practice engagement seems a promising new phrasing. (Although to note the beauty
+and hazard of the conceptual nature of the English language: One can put everything and nothing in a
+condensed expression. Such expressions are also often untranslatable into other languages.)
+
+Policy and practice: Putting the pieces together
+The second conceptual consideration set out in the introduction chapter aims to recognise and elaborate
+on connections between policy and practice. While there are distinctive differences between policy and
+practice (e.g. in terms of structures, the number of actors and the nature of work), there are also
+fundamental similarities, particularly in terms of practitioner and policy maker professionalism, including
+research competences. Not recognising the link between research use in policy and practice ultimately
+hampers the capacity of both policy and practice to improve student learning. As pointed out by
+Tracey Burns and Tom Schuller in Chapter 3, it has been difficult to shift the focus from evidence-informed
+policy to evidence-informed practice in education. When this happened, the discussions shifted too much
+and almost “left policy off the hook”.
+This phenomenon is apparent in several instances across this volume. When it comes to deeper forms of
+engagement in education, in particular research co-production (or more broadly, knowledge co-creation),
+most chapters talk about research-practice partnerships (see e.g. Emese K. Nagy, Tine Prøitz and Vivian
+Tseng). But there is a general lack of discourse on policy-research partnerships (although some examples
+are given by Gábor Halász in Chapter 8). Recent research such as that conducted by Mark Rickinson and
+colleagues has advanced the understanding of research use in practice but this has not yet been
+translated/applied to policy. Similarly, as pointed out by Annette Boaz, Kathryn Oliver and Anna Numa
+Hopkins, we now have a decent amount of evidence on teachers’ professional learning but policy makers’
+capacity building has not been widely evaluated. To avoid shifting emphases and parallel but disconnected
+developments, the first step would be to connect research use in policy and practice at the abstract level.
+The second step is unfolding what research-policy-practice engagement means in practice. Jordan Hill (in
+Chapter 4) argues that policy organisations should have strong relationships not just with research
+producers but also with organisations that work across the contexts of research and practice. Linking policy
+with practice-oriented research intermediaries can create a unique channel in which research “travels”
+across these interconnected contexts. Some interesting examples were given in various chapters such as
+the Policy Innovation Research Unit that works with the United Kingdom’s Ministry of Health to pilot policies
+and co-produce early-stage research with healthcare stakeholders at both the policy and practice levels
+
+--- [PDF Page 240 / Book Page 238] ---
+
+(in Chapter 6). The OECD survey shows that some ministries of education solicit university-school
+partnerships to facilitate research use in policy, which suggests that there are examples for the threefold
+nature of research-policy-practice engagement. Understanding how such partnerships work exactly and
+what their potential is in increasing research dynamics and improving learning should be on our research
+agenda in the future.
+
+What have we learnt about the key questions?
+Research yes, but quality research! And, also values…
+Reinforcing the use of research in decision making is only desirable if we have good research and if that
+research is used well. Quality is a recurring theme in this volume. Chapter 7 stresses that brokerage
+initiatives must attend to the quality of research by establishing clear standards for evidence. What this
+involves is exemplified by the standards of the United States Institute of Education described by Mark
+Schneider in Chapter 10. Dirk Van Damme (Chapter 10) suggests that this is not just about methodology
+but about establishing a disciplinary identity for education research; overcoming ideological dispositions
+and biases; and acknowledging limitations.
+Tracey Burns and Tom Schuller (Chapter 3) stress the need to collectively create a cumulative knowledge
+base in education that is “quasi-universally acknowledged as well-founded”. A consolidated body of
+knowledge requires research to be replicated in different contexts and the growing evidence to be regularly
+synthesised. The authors suggest that brokerage organisations should be working more closely together
+to advance the science of evidence synthesis.
+Even if we do have high-quality education research, using it well adds another dimension to quality as
+explored by Mark Rickinson and colleagues in Chapter 9. The authors unpack the term “thoughtful
+engagement” with research and identify its key ingredients. These include individual enablers (skills,
+mindset and relationships), organisational ones (leadership, culture and infrastructure) as well as systemic
+elements.
+As stressed by José Manuel Torres in Chapter 2, values and the ultimate objectives of producing and using
+research should not disappear into the distant horizon. Learning needs to be at the centre of all efforts.
+Research is not and should not be deprived of values. Vivian Tseng reminds us to not forget marginalised
+groups, and to work with them instead of treating them as research objects. Makito Yurita also draws our
+attention to the dangers of marginalising research groups and methodologies, and even entire systems if
+we narrow the focus and methods of education research too harshly.
+
+Unpacking engagement: Dialogue is not enough
+The meaning of high-quality research-policy-practice engagement is not straightforward and must be
+unpacked.
+As research evidence rarely gives clear instructions for practice, teachers and policy makers need to be
+active in interpreting and implementing it. Engaging with research does not necessarily involve interaction
+with researchers. For Rickinson et al. (Chapter 9), “thoughtful engagement and implementation” means
+that teachers critically engage with research evidence, collectively deliberate about its meaning, and
+effectively integrate aspects of the evidence within practice. Such direct research use remains important.
+However, to strengthen the link between research, policy and practice, scholars have been encouraging
+more dialogue between researchers, practitioners and policy makers. The OECD policy survey shows that
+almost all countries have projects that encourage interactions between various actors and ministries often
+have extensive relationships with a number of actors. Still, many countries perceive the lack of relationships
+as a main barrier to research use. It seems that speaking to each other is not enough. Research has shown
+
+--- [PDF Page 241 / Book Page 239] ---
+
+that interaction needs to be accompanied by capacity building (see Chapter 5). As Gábor Halász describes
+in one of his personal experiences: Researchers have to learn to listen. The language and stories of
+teachers and policy makers is not a scientific discourse but carries the deep knowledge of students,
+schools, teaching and learning. Without understanding their experience and unpacking their knowledge, it
+is more difficult to ask relevant research questions, formulate meaningful hypotheses, and design
+appropriate research. A good conversation between the different actors requires genuine curiosity, respect
+and active listening.
+There seems to be consensus across the board that teachers’ and policy makers’ involvement in research
+is important to make research more relevant and reinforce its use. However, the nature of involvement is
+significant. Emese K. Nagy (Chapter 10) demonstrates how research can be useless for a school when
+teachers and students are mere objects of study. Vivian Tseng (Chapter 10) goes beyond that, pointing to
+the deep disrespect of communities, particularly marginalised ones, when research does not originate from
+their needs and does not feed its results back to those groups. John Bangs and Martin Henry (Chapter 10)
+emphasise the role unions can play in bringing research and practice closer to each other, both through
+advocacy and direct involvement in research production.
+Teachers and policy makers need to recognise the hypotheses studied as relevant to problems.
+Developing appropriate hypotheses is easier when researchers and practitioners / policy makers work
+closely: Teachers / policy makers can help refine the hypotheses to be relevant, while researchers can
+make sure they are suitable for research. Similarly, collective engagement in the subsequent phases of
+research production – research design, interpretation and dissemination of findings – can also strenghten
+the relevance and usefulness of research. Yet, the OECD policy survey finds that teachers and school
+leaders are primarily involved in restricted ways in research production: Most often in data collection, i.e. as
+objects of study. The situation is not much better for policy makers who may be more involved in asking
+questions and communicating results but rarely have a say in research design and interpreting the findings.
+There are promising initiatives that explore deeper forms of engagement and genuine co-creation (as the
+Swedish research-practice partnerships described in Chapter 10). But there is still a need to understand
+how such partnerships can produce relevant and high-quality research. Tine Prøitz (Chapter 10) points to
+key elements such as having a space for co-creation, understanding how the specialised knowledge of all
+participants can be best capitalised on, and producing suitable deliverables for all parties. Research in this
+field is only in its infancy and has, until now, been largely confined to a handful of countries where researchpractice partnerships have existed for a while (Coburn and Penuel, 2016[2]). We have limited understanding
+of how engagement between researchers, practitioners and policy makers works exactly; what the
+necessary ingredients and the current barriers are to it.
+
+Governing the system: Leadership, incentives and funding
+Research-policy-practice engagement is not a simple triangle with three groups of actors. Research
+dynamics (production and use) is a complex sub-system of a complex education system. Systems thinking
+– as laid out by Best and Holmes (2010[3]) and discussed across various chapters in this volume – requires
+a good understanding of the landscape of mechanisms and the network of actors. David Gough, Jonathan
+Sharples and Chris Maidment point out in Chapter 7 that mapping this landscape and developing a theory
+of change based on its understanding is largely missing in the work of brokerage institutions. The OECD
+policy survey attempts an initial mapping across countries. The survey data presented in Chapters 4 and
+5 show the diversity of this landscape. Some key findings are:
+
+
+Overall, a large number of organisations are active in producing research and facilitating its use in
+policy and practice, with universities and teacher education institutions dominating the landscape
+in many systems. However, the number and type of organisations active across research
+production and mobilisation varies considerably across systems.
+
+--- [PDF Page 242 / Book Page 240] ---
+
+
+
+Brokerage agencies (i.e. institutions with an explicit mission to facilitate research use) exist in less
+than half of the systems. Some systems did not report any connection between ministries and
+brokerage agencies despite the latter being active in research production and facilitating its use in
+policy and practice.
+
+
+
+The number of mechanisms that facilitate research use in policy and practice vary greatly across
+systems.
+
+
+
+Around 40% of systems do not synthesise and disseminate educational research findings through
+user-friendly tools, and less than a quarter of them have a system-wide strategy for facilitating
+research use in policy/practice.
+
+While there is no one approach that can suit such diverse landscapes, there are elements that all countries
+and initiatives aiming to reinforce research dynamics need to consider. There are also many opportunities
+for shared learning, which can result from comparing and contrasting these different contexts.
+First, strategic leadership – within and across organisations and at the system level – is necessary to drive
+the dynamics of research production and use. Annette Boaz and colleagues (Chapter 6) found that only
+less than half of research-policy-practice engagement initiatives have an explicit focus on strategic
+leadership and this is mostly limited to advocacy. The analysis of David Gough, Jonathan Sharples and
+Chris Maidment (Chapter 7) echoes this finding for the United Kingdom What Works Centres. Going
+beyond leadership of brokerage initiatives, leadership at the central level remains important in governing
+complex education systems, notably in providing a strategic vision, clear guidelines and feedback (Burns
+and Köster, 2016[4]).
+Second, incentives for a good research-policy-practice engagement need to be in place for practitioners,
+policy makers and researchers. The OECD survey shows that teachers, school leaders and policy makers
+are encouraged to use research but do not have formal incentives such as allocated time, salary
+supplement and formal recognition to do so. Some promising initiatives include research co-production
+built into teachers’ career development (e.g. a “researcher teacher” status in Hungary that requires
+completing doctoral studies and regularly conducting research); public sector PhD schemes; and various
+researcher roles in government (e.g. embedded researchers, research fellows). It will be important to
+evaluate and compare these initiatives to understand their impact and the conditions under which they
+work. In addition, traditional academic incentives, such as publishing in high-impact journals, seem to be
+a major obstacle to researchers engaging with practitioners and policy makers more deeply. This point
+appears across the chapters.
+Finally, funding mechanisms need to respond to the nature of research-policy-practice engagement.
+Dirk Van Damme (Chapter 10) reminds us that, despite growing investment, funding for education research
+remains much lower than in other comparable sectors. Importantly, Vivian Tseng calls for rethinking
+funding schemes and aligning criteria, timeframes and deliverables to adjust to the needs of high-quality
+research-policy-practice engagement. In particular, funding needs to take into account all of the above
+points. It should provide appropriate incentives, recognise the time it takes to create trustful relationships,
+reward skills and capacity building as one of the outcomes of such partnerships, and emphasise outputs
+that serve the needs of users and ultimate beneficiaries.
+
+What works in what works? More meta-research is needed
+The ultimate objective of the OECD project Strengthening the Impact of Education Research is to
+understand how we can effectively reinforce the use of research in education practice and policy. This
+meta-level in education research has been termed as “What works in what works” (Gough, Maidment and
+Sharples, 2018[5]) or the Science of Using Science (Langer, Tripney and Gough, 2016[6]).
+
+--- [PDF Page 243 / Book Page 241] ---
+
+The good news is: This has become a vibrant field of study across countries and sectors, and it has brought
+important insights already as demonstrated by numerous chapters in this volume (some of which have
+been summarised above). As stressed by José Manuel Torres in Chapter 2, conceptual development is
+important because it helps frame discussions in new ways and drive our thinking on research-policypractice engagement forward. However, mental gymnastics are not enough. The study by David Gough,
+Jonathan Sharples and Chris Maidment (Chapter 7) was one of the first efforts to build evidence on
+brokerage initiatives. The chapter underscores the need for these initiatives to become evidence-informed
+themselves. The systematic investigation and evaluation of existing efforts aimed at reinforcing research
+impact are critical to improving such efforts. However, Annette Boaz, Kathryn Oliver and Anna Numa
+Hopkins (Chapter 6), and Tracey Burns and Tom Schuller (Chapter 3) point to the striking lack of such
+evaluations.
+Further research is needed to understand how we can make research-policy-practice engagement more
+effective. As the authors of Chapter 7 emphasise: Neglecting research on research use jeopardises the
+credibility and effectiveness of efforts aiming to increase research impact. The different chapters point to
+a number of questions that remain to be explored, including, but not limited to the following:
+
+
+How can we conceptualise and measure the impact of education research?
+
+
+
+How successful are initiatives that support knowledge production by non-researcher actors
+(e.g. governments) in generating high-quality research and reinforcing its use?
+
+
+
+Under what conditions are partnerships (research-practice, research-policy and research-policypractice) most effective in generating high-quality research and reinforcing its use?
+
+
+
+How should the various types of brokerage efforts be prioritised, sustained and funded?
+
+
+
+How can we coordinate efforts at the system level more effectively? What sort of leadership,
+incentives and funding are needed?
+
+
+
+How should education research as a discipline improve to produce higher quality and more relevant
+findings?
+
+It must be recognised that “what works in what works” research is unlikely to produce a simple checklist
+approach or prescriptive recipes for solving the problem. Such checklists or recipes would either be too
+general (and thus not operational) or overwhelmingly detailed with myriads of conditions and dependencies
+(and thus not operational). This is because the research production-use system is in constant evolution
+and it is hard to predict what patterns will be emerging. A complex system cannot be geared towards a
+particular idealised state in a straightforward way by fixing some parameters at a certain point of time. In
+addition, Annette Boaz, Kathryn Oliver and Anna Numa Hopkins (Chapter 6) remind us that contextspecific solutions will always be fundamental: A top-down, “one size fits all” approach will not work.
+However, complexity does not mean we are unable to act. Further investigation of the above questions
+and continuous reflection on the state of the system is critical for building a cumulative knowledge base on
+what works in what works – as underscored by Tracey Burns and Tom Schuller (Chapter 3). It is possible
+to steer the system by finding “triggers” that make an impact, understanding what structures and processes
+are effective under what conditions, and scaling them.
+
+What’s next?
+This volume’s primary focus was to provide an overview of recent research and an initial mapping of
+structures, processes and relationships aimed at reinforcing research use. The introduction chapter
+outlined a number of questions around the key dimensions for strengthening the impact of education
+research: Quality and relevance of research; culture and mindset; and skills and capacity necessary for
+high-quality, systematic research production and use. This report helped specify what we already know
+and what elements of those questions remain to be explored (see the list of questions above for example).
+
+--- [PDF Page 244 / Book Page 242] ---
+
+The next step in developing a more robust knowledge base on research mobilisation – or research-policypractice engagement – in education is to systematically explore these dimensions.
+The Strengthening the Impact of Education Research CERI project will continue to advance this agenda
+in two main ways.
+First, through research and analysis. The policy survey conducted in 2021 offers insights into aspects not
+yet explored in this volume. In particular, building individual skills, and organisational and systemic capacity
+for better research production and use is critical for countries. This will be the main focus of the next
+volume. The policy survey represents the perspectives of one group of actors only – policy makers at the
+level of education ministries. As such, it paints a partial and one-sided picture of the landscape. The next
+phase of the project will focus on collecting data from other actors. In particular, it will target intermediary
+organisations, including not only brokerage agencies but other types of intermediaries that can reveal
+various facets of what works in research-policy-practice engagement, and how it works.
+Second, through building a network of key actors in the field and providing extensive opportunities for peer
+learning. These actors include academics and experts, a range of intermediary organisations, and, of
+course, regional and national authorities across OECD and partner countries. Several of the chapters in
+this volume point to the untapped but immense potential of peer learning in these areas from a number of
+different angles:
+
+
+Learning from other contexts: Discussion and debate about education research should not stay
+within closed cliques – confined within the walls of academia, public authorities, schools or funding
+institutions. We have already seen how much policy and practice could borrow from one another’s
+developments in the field of research use.
+
+
+
+Learning from other countries and systems: Our survey demonstrates the diverse landscape of
+research production and use across systems. This diversity provides fertile ground for sharing good
+and bad practices, and exploring what works and how.
+
+
+
+Learning from other sectors: This volume provides an initial glimpse into the vastness of research
+and experience accumulated in other sectors from which education could benefit.
+
+By developing a platform for mutual learning, the OECD can play the role of an independent broker of
+brokers in education, as advocated by Tracey Burns and Tom Schuller in Chapter 3 in this volume. By
+collecting and analysing data from OECD and partner countries, it can contribute to developing a robust
+knowledge base in the field.
+
+References
+
+Best, A. and B. Holmes (2010), “Systems thinking, knowledge and action: Towards better
+models and methods”, Evidence & Policy: A Journal of Research, Debate and Practice,
+Vol. 6/2, pp. 145–159, https://doi.org/10.1332/174426410X502284.
+
+[3]
+
+Burns, T. and F. Köster (eds.) (2016), Governing Education in a Complex World, Educational
+Research and Innovation, OECD Publishing, Paris, https://doi.org/10.1787/9789264255364en.
+
+[4]
+
+Coburn, C. and W. Penuel (2016), “Research–practice partnerships in education”, Educational
+Researcher, Vol. 45/1, pp. 48-54, https://doi.org/10.3102/0013189x16631750.
+
+[2]
+
+--- [PDF Page 245 / Book Page 243] ---
+
+Gough, D., C. Maidment and J. Sharples (2018), UK What Works Centres: Aims, Methods and
+Contexts, PPI-Centre, Social Science Research Unit, UCL Institute of,
+https://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/UK%20what%2
+0works%20centres%20study%20final%20report%20july%202018.pdf?ver=2018-07-03155057-243.
+
+[5]
+
+Langer, L., J. Tripney and D. Gough (2016), The Science of Using Science Researching the Use
+of Research Evidence in Decision-Making, EPPI-Centre, Institute of Education, University
+College London.
+
+[6]
+
+Sagan, C. (1994), Pale Blue Dot: A Vision of the Human Future in Space, Random House.
+
+[1]

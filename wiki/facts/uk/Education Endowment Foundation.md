@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 29
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 34
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: Education Endowment Foundation
 tags:
@@ -21,7 +21,12 @@ tags:
   - theme/intermediary-organisation
 related_concepts:
   - "[[What Works Movement]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Research Translation]]"
+  - "[[Evidence Ecosystem]]"
+  - "[[Paradigm]]"
   - "[[Learning Gap]]"
+  - "[[Dialogue in Education]]"
   - "[[Scientific Method]]"
   - "[[School Leadership]]"
   - "[[Policy Network]]"
@@ -30,7 +35,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Variable]]"
   - "[[Professional Judgment]]"
-  - "[[Paradigm]]"
   - "[[Praxis]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -50,6 +54,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Cowen_2019_ERE]]"
@@ -57,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-06-20
+updated: 2026-09-12
 ---
 
 # Education Endowment Foundation
@@ -69,7 +74,7 @@ updated: 2026-06-20
 > [!event-context] 机构背景
 > - **时间 / 地点** 2011年成立于英国伦敦。
 > - **关键主体** 萨顿信托（Sutton Trust，牵头机构）、帝国教育信托（Impactus Education Trust，联合机构）、英国教育部（提供首期 1.25 亿英镑种子基金）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
-> - **制度背景** 作为全球“[[What Works Movement|什么有效运动]]”（What Works Movement）在教育政策与实践领域的旗舰中介组织（Evidence Broker），致力于建立以定量实验证据为基础的教学实践规范。
+> - **制度背景** 作为全球“[[What Works Movement|什么有效运动]]”（What Works Movement）在教育政策与实践领域的旗舰中介组织（Evidence Broker），致力于建立以定量实验证据为基础的教学实践规范。在当代[[Knowledge Mobilisation|知识动员]]演进中，EEF 代表了从单纯的线性[[Research Translation|研究转化]]向更为综合的[[Evidence Ecosystem|证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm|范式]]跃迁，将证据合成、评估、翻译、使用支持与实践创新有机绑定([[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]])。
 > - **触发条件** 通过系统化收集和提供高概率有效的教学干预证据，帮助学校合理分配学生津贴（Pupil Premium）资金，以减少弱势学生的[[Learning Gap|学习差距]]并促进教育公平([[Argument_Higgins_2016_RE|Higgins, 2016, p. 46]])。
 
 ---
@@ -77,9 +82,10 @@ updated: 2026-06-20
 ## 经过
 
 > [!dev-timeline]- 机构发展与全球扩张
-> - **2011 — 创立与工具包开发** 萨顿信托联合慈善信托在英国政府资助下创立教育捐赠基金会（EEF），着手开发《教学与学习工具包》（Teaching and Learning Toolkit），以比较性量表的形式为学校决策提供循证支持。
+> - **2011 — 创立与工具包开发** 萨顿信托联合慈善信托在英国政府资助下创立教育捐赠基金会（Education Endowment Foundation, EEF），着手开发《教学与学习工具包》（Teaching and Learning Toolkit），以比较性量表的形式为学校决策提供循证支持。
 > - **2016 — 模式国际辐射** 澳大利亚政府生产力委员会建议应当以英国的 EEF 为直接蓝本，建立本土的证据中介机构，直接催生了后来的 [[Australian Education Research Organisation|AERO]] 组织([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
-> - **2018 — 私人资本注资与全球网络构建** EEF 启动“全球证据生态系统”扩张计划，获得跨国矿业巨头旗下**[[BHP Foundation|必和必拓基金会]]**的大额资金支持，通过资助澳大利亚社会风险投资公司旗下的“学习证据”（E4L），在全球复制“EEF式”的本地证据治理组织。
+> - **2018 — 私人资本注资与全球网络构建** EEF 启动“全球[[Evidence Ecosystem|证据生态系统]]”扩张计划，获得跨国矿业巨头旗下**[[BHP Foundation|必和必拓基金会]]**的大额资金支持，通过资助澳大利亚社会风险投资公司旗下的“学习证据”（Evidence for Learning, E4L），在全球复制“EEF式”的本地证据治理组织。
+> - **2019 — 建立研究学校网络深化生态落地** EEF 认识到单纯的线性证据传递无法自动驱动学校实践变革，正式推出“研究学校网络”（Research Schools Network），由示范学校牵头开展定期的循证专业发展、领导力培训与教学创新，并将部分网络演化为大学与中小学深度合作的“研究学习网络”（Research Learning Networks, RLNs），促进研究者与一线教师在学习[[Dialogue in Education|对话]]中共创知识([[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]])。
 > - **2020–2023 — 跨国治理与认知心理学推广** EEF 创始人柯林斯爵士（Sir Kevan Collins）直接担任澳大利亚 AERO 专家委员会成员。2023年，EEF 发布证据综述报告《课堂中的认知[[Scientific Method|科学方法]]》，积极推广以[[Cognitive Load Theory|认知负荷理论]]为核心的认知心理学教学实践([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 8, 11]])。
 
 ---
@@ -87,7 +93,7 @@ updated: 2026-06-20
 ## 关键文件／声明
 
 > [!citation-card]- 《教学与学习工具包》（Teaching and Learning Toolkit）
-> 总结了超过 5500 项教育研究，从“效果量”（[[Effect Size]]，折算为“额外学习月数”）、“成本级别”（Cost）以及“证据确定性”（使用挂锁安全标志）三个维度对 30 多类教学干预进行比较，是全球[[School Leadership|学校领导]]者评估循证方案的权威指引手册([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]])。
+> 总结了超过 5500 项教育研究，从“效果量”（[[Effect Size]]，折算为“额外学习月数”）、“成本级别”（Cost）以及“证据确定性”（使用挂锁安全标志）三个维度对 30 多类教学干预进行比较，是全球[[School Leadership|学校领导]]者评估循证方案的权威指引手册([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]])。同时，EEF 亦通过《教师有效专业发展指导报告》（Guidance Report on Effective Professional Development）等系列指南，指导研究学校网络将实证成果转化为可落地的校本改进方案([[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]])。
 
 ---
 

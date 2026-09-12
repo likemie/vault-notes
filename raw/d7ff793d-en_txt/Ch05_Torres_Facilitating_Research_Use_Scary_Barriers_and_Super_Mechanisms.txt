@@ -1,0 +1,1483 @@
+================================================================================
+Chapter: Facilitating research use: Scary Barriers (and Super Mechanisms)
+Author(s): José Manuel Torres
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part II: Actors and mechanisms facilitating research use in policy and practice
+Book Pages: pp. 103–124
+PDF Pages: pp. 105–126 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 105 / Book Page 103] ---
+
+5 Facilitating research use: Scary
+
+Barriers (and Super Mechanisms)
+José Manuel Torres, OECD
+
+This chapter presents the results of the OECD Strengthening the Impact of
+Education Research policy survey with regard to the various mechanisms
+countries are using to facilitate research use. It presents a framework for
+classifying factors that influence research use, based on a review of
+literature. It then describes and contrasts mechanisms and barriers
+reported by the 37 survey-participating education systems. The chapter
+concludes by noting the importance of system-level coordination of the
+various mechanisms and research production.
+
+--- [PDF Page 106 / Book Page 104] ---
+
+Introduction
+At the beginning of the 20th century, John Dewey, one of the founding fathers of the scientific tradition in
+education, considered that scientific knowledge had the enormous mission of influencing teachers’
+practices. But the abstract world of researchers, their simplification of the classroom for the study of
+phenomena, and the intricate social world that teachers live in made such study complex and challenging
+(Berliner, 2008[1]).
+Close to 120 years later and despite a constant growing body of literature on the benefits of evidencebased practice and policy making for education, educational research remains under-used. Instead, what
+has become clear is that research alone does not inform or have direct effects – such as immediate
+adoption – on practice and policy (Jones, Procter and Younie, 2015[2]; Levin, 2011[3]). Communicating
+research findings is not enough to increase their use (Langer, Tripney and Gough, 2016[4]). And promoting
+the use of research is not the same as ensuring it (Fazekas and Burns, 2012[5]).
+Governments around the world have much enthusiasm and expectations about educational research
+providing teachers “with evidence about what works” and thus improving the quality of teaching (Cain,
+2015, p. 1[6]). However, this is not an easy task. Despite strong interest in research findings, decisionmaking practitioners and policy makers do not appear to be heavy consumers of education research,
+especially in its original format (Levin, 2013[7]). Many countries in the OECD have invested in remedying
+this situation in the past decade. As mentioned in the introduction to this volume, efforts have included the
+production of evidence synthesis for teaching practice and schools; partnerships between practitioners,
+policy makers and researchers for the sustainability of knowledge generation; and capacity building for
+research use.
+The gaps between research production and its use in policy and practice (the so-called research-policy
+and research-practice gaps) together with interventions to bridge them have been the subject of recent
+research in a variety of sectors, including health, education, criminal justice and environmental
+conservation (Walter, Nutley and Davies, 2003[8]; Nutley, Walter and Davies, 2009[9]; Humphries et al.,
+2014[10]; Oliver et al., 2014[11]). Knowledge mobilisation in the education sector refers to processes aimed
+at improving the use of evidence to inform school leaders and teachers’ practices, and policy makers’
+decisions. It has become a research field in its own right, and yet, the mechanisms that effectively mediate
+between research, practice and policy are not yet properly established (Révai and Guerriero, 2017[12]).
+It is now time to take stock of the various mechanisms that scale up research use, making them accessible
+to educational researchers, policy makers, school leaders and teachers for effective evidence-based
+practices and policies (Jones, Procter and Younie, 2015[2]). Collaborative mechanisms that increase
+research use are also included. The momentary, unique and specific nature and context of each system
+makes it difficult to build generally applicable solutions. But common problems exist across different
+contexts and the sharing of this knowledge can reduce redundancy (Boh, 2007[13]).
+This chapter presents factors that facilitate or hinder the use of educational research in policy making and
+in school and teaching practice. It starts by defining key concepts and suggests an overarching framework
+based on a cross-sectoral literature. This is followed by the presentation and analysis of the OECD
+Strengthening the Impact of Education Research policy survey results on mechanisms of and barriers to
+the use of educational research in national and sub-national systems. The last section discusses
+coordination of the educational research production system and identifies potential risks. The chapter ends
+with a brief conclusion that summarises the main findings.
+
+--- [PDF Page 107 / Book Page 105] ---
+
+What influences the use of research? Framing the discussion
+The use of evidence in educational policy and practice depends on a variety of elements (Levin, 2013[7]).
+The literature defines and uses concepts such as factor, mechanism, facilitator, intervention and strategy
+in a variety of heterogeneous ways that commonly overlap each other. The following definitions attempt to
+introduce more uniformity into the understanding and use of these concepts in this chapter.
+
+
+Factors are processes or means by which the particular activity influences research use.
+Mechanisms enable and barriers hinder the use of evidence in policy making and practice (Gough
+et al., 2011[14]). These factors can be intentionally created, such as mechanisms specifically
+designed to bridge the gap between research and its use. They can also be unintentionally created,
+such as organisational structures or cultures that may act as mechanisms or barriers without this
+being its original, intentional goal. They can also be formal or informal.
+
+
+
+Intervention is a deliberate action or plan to enhance the use of research evidence, addressing
+genuine barriers to research uptake and drawing on mechanisms which are likely to affect it (Oliver
+et al., 2014[11]).
+
+
+
+Strategy is a concrete and wider action plan commonly based on more than one of these
+interventions in order to encourage better use of research (Nutley, Walter and Davies, 2009[9]).
+This can also be the other way around, with designed interventions based on a previously
+established broad strategy.
+
+Figure 5.1 represents graphically these concepts, and their link to each other, to ease their comprehension.
+
+Figure 5.1. Mindmap of concepts
+
+Mechanisms and barriers influencing research use
+Mechanisms vary according to the different levels at which they act: individual, organisational and system
+(Nutley, Walter and Davies, 2009[9]). On the one hand, organisational mechanisms, also referred as
+institutionalised mechanisms, are collective and formally embedded into the processes, structures and
+culture of organisations. These mechanisms enable a more effective mobilisation of knowledge to a larger
+number of individuals and allow organisations to select the knowledge to be mobilised. They are, however,
+costly in terms of time and resources. On the other hand, individualised mechanisms are casual,
+unstructured, and informal. These mechanisms have limited reach as they are unique to individuals or
+
+--- [PDF Page 108 / Book Page 106] ---
+
+small groups but free of the organisations’ interests and structured forms. For the same reasons, they can
+suffer from problems of scalability (Boh, 2007[13]).
+Another widely used categorisation of knowledge mobilisation activities is based on three conceptual
+approaches described by Best and Holmes (2010[15]) (see Chapters 1, 2 and 6 for further details): linear,
+relational and systems. Linear models focus on the dissemination of research findings. This includes
+making research available for users in terms of format and accessibility. Relationship models emphasise
+strengthening relationships among stakeholders in order to facilitate the research-practice-policy link. And
+finally, systems models recognise that actors are part of a complex system. They aim to activate this entire
+system rather than just a few elements of it.
+Humphries and colleagues’ (2014[10]) categorisation of factors fairly and consistently represents the variety
+of levels present in the research production and use system. For the purposes of this chapter, this
+framework has been adapted and enriched with the work of other authors who have studied factors of
+research use beyond the healthcare sector to propose a new typology (see Table 5.1). It broadens the
+definition and applicability of the categories in the education sector and considers both practice and policy
+contexts. This proposed typology and the above-mentioned Best and Holmes’ conceptual approaches will
+frame further analysis in this chapter.
+
+Table 5.1. Typology of factors influencing research use
+Type
+
+Definition
+
+Information
+
+Factors related to the existence and quality of relevant research evidence, its availability, accessibility, format,
+presentation, and the characteristics of its level and channels of circulation and dissemination.
+
+Interaction
+
+Factors related to the contact, collaboration and flow of information between researchers, practitioners and policy
+makers through formal or informal, intended or unplanned relationships, as well as the values associated with
+them, such as trust and mutual respect.
+
+Individual characteristics
+
+Factors related to researchers' understanding of the policy and practice processes and context, and to practitioners
+and policy makers' skills and capacities to use and apply research, and their formal education and/or training
+experience for this. It may also consider the presence of other actors influencing the use of research evidence.
+
+Structure and organisation
+
+Factors related to the existence of system and/or organisational support for the production and use of research,
+manifested in their formal structure (e.g. provision of time, funding, learning opportunities, formal training) and/or
+processes (e.g. the presence of guidelines and financial incentives).
+
+Culture
+
+Factors related to: researchers, practitioners and policy makers' priorities and their alignment; practitioners and
+policy makers' attitudes towards research and will to use it; and system and/or organisational values, principles,
+beliefs, and valorisation of research production and use.
+
+Source: Adapted from Humphries, S. et al. (2014[10]), “Barriers and facilitators to evidence-use in program management: A systematic review of
+the literature”, https://doi.org/10.1186/1472-6963-14-171.
+
+Annex Table 5.A.1 summarises the mechanisms and barriers identified by the literature and classified by
+the proposed framework. It is important to mention that these categories are not exclusive as a mechanism
+or a barrier can be classified in more than one category, depending on the lens through which it is studied.
+
+How do systems facilitate the use of research? Findings from the survey
+The presence of mechanisms and barriers provides valuable information on the level of relevance and
+priority research, research use, and research mobilisation have for different education systems and their
+communities. Few mechanisms and many barriers indicate that facilitating research production and use is
+a low priority for an education system (Levin, 2011[3]).
+
+--- [PDF Page 109 / Book Page 107] ---
+
+Strengthening the Impact of Education Research surveys 37 education systems in 29 countries about the
+production and use of educational research in policy making and practice. Six countries were selected for
+further data collection through semi-structured follow-up interviews. The following three sections analyse
+the results related to factors that facilitate or hinder the use and production of education research in these
+systems.
+The survey proposed a dozen mechanisms for and barriers to research use in participating systems. These
+are classified conceptually based on the work of Best and Holmes (2010[15]) and the proposed framework
+of the preceding section in Annex Table 5.A.2 and Annex Table 5.A.3, respectively.
+
+Figure 5.2. Number of mechanisms by system, 2021
+In policy making
+
+In school practice
+
+No. of reported mechanisms
+12
+10
+8
+6
+4
+
+2
+0
+
+Note: Data refers to the number of reported mechanisms out of a dozen options, by system and context. Data was collected at national and subnational levels.
+“Appenzell A.” refers to the Swiss canton of Appenzell Ausserrhoden.
+Source: OECD Strengthening the Impact of Education Research policy survey data
+StatLink 2 https://stat.link/2h1dco
+
+Survey-participating education systems reported an average of 4.7 mechanisms in policy and 4.9 in
+practice out of a dozen suggested options, with more systems reporting more mechanisms in practice than
+in policy. Although it is a small difference, this could be linked to the slightly stronger focus on facilitating
+research use in practice as opposed to policy in the past 15 years (see also Chapter 1). For example, New
+Zealand reported (in a follow-up interview) that this stronger focus could relate to the larger amount of
+funds available to improve practice. Historically, there have been more activities, projects and studies on
+research use in practice than policy.
+However, results from the survey showed strong dispersion in the number of reported mechanisms (see
+Figure 5.2). Whereas Turkey, the Netherlands, Finland and Sweden declared at least nine mechanisms
+
+--- [PDF Page 110 / Book Page 108] ---
+
+that facilitate research use in both policy and practice, systems like the Swiss cantons of Uri and
+Nidwalden, the Czech Republic and the Slovak Republic declared two or fewer mechanisms for both.
+Within the same systems, there is some strong variation: on the one hand, New Zealand, England (UK),
+the Swiss canton of Appenzell Ausserrhoden, and Illinois in the United States reported significantly more
+mechanisms in practice than policy. On the other hand, Quebec (Canada) reported significantly more
+mechanisms in policy than practice.
+
+Types of mechanisms
+
+Figure 5.3. Presence of mechanisms facilitating the use of educational research, 2021
+
+Inter.
+
+In school practice
+
+In policy making
+65
+
+Projects encouraging actors' interactions
+to facilitate the use of educational research
+
+Structure and organisation
+
+Providing targeted funding
+for research on specific topics
+
+70
+70
+
+Systematically commissioning research
+to address needs
+
+62
+
+49
+No data
+
+Offering resources (e.g. financial, human)
+to support research use
+
+49
+
+Systematically identifying needs
+in terms of research knowledge
+
+51
+32
+25
+
+Legislation/law or professional guidelines
+that promote educational. research use
+System-wide strategy for facilitating
+the use of educational research
+
+28
+
+22
+22
+
+Information
+
+Synthesising and disseminating educational
+research findings through user-friendly tools
+
+Indiv.
+
+86
+
+59
+61
+49
+
+Systematically identifying relevant research gaps
+
+43
+
+Regular system-wide activities to monitor/
+evaluate the impact of educational research
+
+17
+
+22
+
+Regular system-wide activities to develop
+capacity/skills to use educational research
+
+49
+39
+19
+
+Other
+
+11
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+%
+
+Note: Data refers to percentage of systems reporting the existence of a given mechanism, by type of factor and context. Data was collected at
+national and sub-national levels. Data was not collected for the mechanism "Offering resources to support research” in policy making.
+“Indiv.” refers to mechanisms targeting individuals and “Inter.” refers to mechanisms aiming to facilitate interaction between individuals.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/jswge5
+
+One of the most reported mechanisms facilitating evidence use are projects encouraging actors’
+interactions (see Figure 5.3), which is line with the reviewed literature (Oliver et al., 2014[11]). This
+mechanism has a greater presence in school and teaching practice than in policy by more than
+20 percentage points. This suggests that policy makers, despite opportunities to interact with researchers,
+still have fewer opportunities than practitioners do. The New Zealand Teaching and Learning Research
+Initiative is an example of the efforts encouraging research-practice connections (see Box 5.1).
+
+--- [PDF Page 111 / Book Page 109] ---
+
+Interaction has been reported to generate an increase in research impact but differences in culture, goals,
+timescales and information needs remain barriers (Walter, Nutley and Davies, 2003[16]). Interactive
+mechanisms, although promising and necessary, are not sufficient for increasing evidence use. They must
+be supported by an increase in motivations, opportunities and capacities for the use of evidence in practice
+or have a more comprehensive strategy (Langer, Tripney and Gough, 2016[4]).
+Capacity-building activities are fewer among surveyed systems, with about half of systems reporting them
+in policy and only 39% in practice. In contrast to projects encouraging interaction, capacity-building
+activities are slightly more common in policy making than in school practice. Systems seem aware of the
+co-dependence between these two mechanisms. Those reporting projects encouraging interaction
+between actors reported more regular system-wide activities to develop skills and capacities for research
+use in both policy and practice.
+
+Box 5.1. Teaching and Learning Research Initiative in New Zealand
+New Zealand’s Teaching and Learning Research Initiative (TLRI) is a government fund established in
+2003 for collaborative research about teaching and learning in the early childhood, school and tertiary
+sectors. It aims to enhance the connections between educational research and practice, to accumulate
+a body of knowledge linking teaching and learning, and to build research capacity in learning and
+teaching. Their 2021 funding of NZD 1.5 million was allocated to five projects.
+The TLRI’s objectives are achieved through research projects awarded with TLRI funding if they show
+that a robust partnership between researchers and practitioners is at the core of the envisioned project.
+Thus, it enables practitioners to critically reflect on their work and researchers to gain insight into the
+context and challenges of teaching and learning. The funded-project leaders are key actors as they are
+responsible for involving researchers and practitioners, shaping their research and practice capacities
+and encouraging a true co-production of research.
+One of their most recent funded projects is focused on transforming the pedagogy of Early Child
+Education teachers by improving sustainable and comprehensive outcomes for indigenous infants and
+toddlers. It aims to develop a rigorous and robust conceptual framework of pedagogy that supports the
+cultural well-being and the sense of belonging of Samoan infants and toddlers. The project is a
+collaboration between the University of Auckland, Massey University, and Samoa Aoga Amata I
+Incorporated (SAASIA), an organisation comprised of early childhood centres nationally, representing
+Auckland, Napier, Palmerston North, Wellington and Christchurch.
+Currently, the Teaching and Learning Research Initiative encompasses 167 funded projects, more than
+150 published research reports, and is composed of over 400 researchers and practitioners. Its impact,
+measured through a survey answered by a randomly selected sample of past research projects and
+some additional interview data, is mainly self-reported, with participants describing a profound and
+positive change to their practices.
+Source: Hipkins, R., J. Whatman and R. Felgate (2017[17]), Exploring the Impact of the Teaching and Learning Research Initiative; TLRI
+(2022[18]), Teaching and Learning Research Initiative; TLRI (2021[19]), “Pepe meamea in the spirit of the collective: Embedding Samoan
+indigenous philosophy in ECE for Samoan children under two”, http://www.tlri.org.nz/tlri-research/research-progress/ece-sector/pepemeamea-spirit-collective-embedding-samoan-indigenous (accessed on 20 April 2022).
+
+Capacity-building interventions have significant positive benefits and outcomes on engagement in and with
+research for both pupils and teachers. In particular, studies have positively linked these strategies with
+pupils’ motivation, their attitudes to subjects, test performance, specific skills, pupils’ self- and grouporganisation, their approaches to collaboration and selection of learning and problem-solving strategies
+
+--- [PDF Page 112 / Book Page 110] ---
+
+(Cordingley, 2016[20]). These interventions have also reportedly improved decision makers’ skills to access
+and make sense of evidence. Nevertheless, these effects are, once again, conditioned by intervention
+design (Langer, Tripney and Gough, 2016[4]).
+Another widely reported mechanism was targeted funding for research on specific topics: In both policy
+and practice, 70% of respondents reported the existence of this mechanism within their system.
+Interestingly, the literature does not report the use of targeted funding in educational systems as a
+mechanism to promote research use but, rather, the lack of funding mechanisms as a barrier, although not
+widely (Oliver et al., 2014[11]).
+Other mechanisms in the “Structure and organisation” category have varying results among surveyed
+systems. Strategies formalising and embedding research-use mechanisms within existing decision-making
+structures and processes have been reported to have positive effects although the evidence is not robust
+enough (Langer, Tripney and Gough, 2016[4]). In that line, South Africa reported during follow-up interviews
+that until they become embedded in organisational processes, projects enhancing the use of research in
+education have little influence on policies. Thus, support at all hierarchical levels is a key condition of the
+success of this type of project.
+The majority of identified mechanisms in a 2014 systematic review in health sector organisations
+(Humphries et al., 2014[10]) was informational. Although such mechanisms are also highly reported in the
+OECD survey of the educational sector, they are not as dominant. The presentation and circulation of
+research findings in suitable formats is reported as a common existing mechanism in both policy making
+and school practice, with 60% of the systems declaring its presence. One of the best-known examples of
+this mechanism is the British Education Endowment Foundation’s Teaching and Learning Toolkit (see
+Box 5.2). The other two informational mechanisms – systematically identifying research gaps and systemwide monitoring of research impact – were rarer. This might be caused by both mechanisms referring to
+regular, systemic activities whereas in some systems these mechanisms may only exist sporadically.
+
+Box 5.2. EEF’s Teaching and Learning Toolkit
+The Teaching and Learning Toolkit of the British Education Endowment Foundation (EEF) aims to
+support teachers and school leaders’ efforts to improve learning outcomes, particularly for
+disadvantaged children, through the provision of summaries of education research in a systematised
+and accessible way.
+The Toolkit synthetises research evidence from 30 pedagogical, institutional and relational approaches
+focused on enhancing teaching and learning at classroom and school levels in general. The studies are
+selected based on a systematic review, which stipulates the inclusion criteria in advance in order to
+avoid biased results. They are continuously updated in light of new research evidence, making it a live
+and dynamic resource.
+The summary of evidence on each approach includes:
+
+
+Description of the approach.
+
+
+
+Key findings.
+
+
+
+Average impact on attainment, measured by the number of months of additional progress made
+by pupils.
+
+
+
+Strength of evidence measured by the number of studies satisfying the inclusion criteria
+
+
+
+Average cost of a given intervention.
+
+
+
+Recommendations on implementation.
+
+--- [PDF Page 113 / Book Page 111] ---
+
+The Toolkit is meant to be a starting point for discussion between education professionals, relying on
+their judgement and expertise about what works in a particular school context and taking the Toolkit’s
+interpretations with caution. This is complemented by other resources. As of 2017, 70% of secondaryschool leaders used it to inform their decision making.
+Source: EEF (2017[21]), “EEF launches updated Teaching and Learning Toolkit”, https://educationendowmentfoundation.org.uk/news/eeflaunches-updated-teaching-and-learning-toolkit (accessed on 28 March 2022); EEF (2022[22]), Teaching and Learning Toolkit,
+https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit (accessed on 28 March 2022);
+
+While informational factors are undoubtedly necessary for research use, by themselves they do not lead
+to improved use of evidence. Timely access to good quality and relevant research, and collaboration and
+relationships between research producers and users also have to be considered (Langer, Tripney and
+Gough, 2016[4]).
+Systems tend to have the same mechanism in both policy and practice although this depends on the
+mechanism in particular. Projects that encourage interactions between actors, provide targeted funding for
+research, and generate tools based on research findings tend to exist in both contexts. This tendency could
+suggest that these reported mechanisms are comprehensive in both contexts. In contrast, regular systemwide activities to develop skills and capacities to use research or monitor and evaluate research impact
+tend to only exist in either policy or practice.
+
+Mechanisms by approach: Linear, relational and systems
+Reported mechanisms facilitating research use vary based on their approach as described by Best and
+Holmes (see Chapter 2 for a more detailed description).
+Linear mechanisms such as the systematic identification of needs in research knowledge and the
+commissioning of research to address these needs are more widely present in policy making than in school
+and teaching practice. Surprisingly, respondents reported commissioning research more frequently than
+the systematic identification of needs in both policy and practice. This suggests that the determination of
+education systems’ needs, which guides their demand for research, is not based on direct information from
+those who will benefit from it, such as students and teachers. When there is no systematic mapping of
+needs, questions arise about the basis of commissioned research and whether it is aligned to real needs.
+System-level activities, and particularly system-wide activities (highlighted in Figure 5.3), are the least
+mentioned in both policy and practice. Only one-fourth of education systems reported the existence of
+legislation, laws or guidelines promoting the use of research while one out of every five systems has regular
+system-wide activities to monitor and/or evaluate the impact of educational research. Moreover, only 22%
+of respondent systems reported having a system-wide strategy for facilitating research use in policy and
+this proportion is the same in practice. Interestingly, systems that have a system-wide strategy reported a
+greater number of mechanisms than those without.
+Linear mechanisms of dissemination and diffusion are incorporated into relationship mechanisms, which
+are the base for systems thinking (Best and Holmes, 2010[15]). But some education systems still lack basic
+linear mechanisms such as identifying actors’ needs, commissioning research based on these needs and
+disseminating research findings. This is the foremost and most substantial barrier hindering the use of
+education-related evidence in policy and practice.
+In sum, efforts lean towards generating interactions between research producers and users, and more so
+in practice than in policy. However, surveyed systems tend to not complement this with capacity-building
+activities and learning opportunities, which would improve the use of evidence (Langer, Tripney and
+Gough, 2016[4]). Despite some systems reporting the presence of reasonable number of mechanisms,
+
+--- [PDF Page 114 / Book Page 112] ---
+
+there remains a lack of system-wide strategies which could serve to enhance their coordination. This, along
+with systems reporting the identification of research needs more than commissioning research to address
+these needs suggests an insufficiently comprehensive strategy of effort to improve educational research
+use.
+
+What prevents systems from using evidence? Findings from the survey
+Education systems were asked to rank three to six barriers out of a dozen suggested options in order of
+importance. These barriers are classified by their conceptual approach based on the work of Best and
+Holmes (2010[15]) and by the proposed framework in Annex Table 5.A.2 and Annex Table 5.A.3,
+respectively. As with mechanisms, barriers and their perceived existence and relevance vary in relation to
+the category they belong (see Figure 5.4); their conceptual approach (see Table 5.2); and context.
+
+Figure 5.4 Presence and relevance of barriers to the use of research, 2021
+IN POLICY MAKING
+
+INDIV. INTER.
+
+INFORMATION
+
+STRUCTURE AND ORGANISATIONS
+
+Rank 1
+
+Rank 2-3
+
+IN SCHOOL PRACTICE
+
+Rank 4-6
+
+Rank 2-3
+
+Rank 4-6
+
+30%
+
+50%
+
+Lack of time to access and engage with research
+Conflicting timeframes with research
+Lack of mechanisms that facilitate the use of research
+Lack of financial resources
+Lack of learning opportunities
+Lack of relevant research
+Low accessibility of research in appropriate formats
+Low quality of research in key areas
+Lack of relationships between different actors
+Low levels of skills and capacity to use research
+Lack of broader political will to use research
+
+CULTURE
+
+Rank 1
+
+No Data
+
+Lack of openness to new ideas from research
+Lack of willingness to use research
+70%
+
+50%
+
+30%
+
+10%
+
+10%
+
+70%
+
+Note: Data showing the percentage of systems ranking the given barrier, by context, type of factor and rank range. Data was collected at a
+national and at a sub-national level. “Lack of broader political will” was not offered as an option in practice.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/eb03nl
+
+--- [PDF Page 115 / Book Page 113] ---
+
+Types of barriers
+Overall, the most widely reported barriers are linked to structures and organisation, followed by
+information-related factors. Interestingly, factors related to the culture of research use are perceived as
+less of a barrier in most education systems.
+Low levels of skills and capacities in using research and the lack of learning opportunities are both
+perceived as being more of a barrier in practice than in policy. However, there are education systems that
+consider that there is a lack of training and learning opportunities for both practitioners and policy makers.
+This is true of Slovenia, which reported it during their follow-up interview.
+Overall, the presence and relevance of both barriers and the perceived existence of corresponding
+mechanisms seem to match. These barriers are more widely reported in practice, and capacity-building
+mechanisms have a weaker presence, precisely, in practice. However, at a country or system level, there
+was no systematic matching between capacity-building mechanisms, and the lack of capacities and
+learning opportunities as perceived barriers. Some education systems perceived these barriers even
+though they have capacity-building mechanisms. This was true for both practice and policy.
+Besides the lack of political will to use research, which was mentioned by 32% of education systems,
+cultural barriers were not reported in great number by respondents. This contrasts with some of the
+literature suggesting that the main barriers to research use arise in cultures that do not foster its use
+(Rickinson et al., 2020[23]). In that vein, during their follow-up interviews, New Zealand reported that one of
+their main interests was to develop its culture into an evidence-based one. Slovenia noted that they were
+reshaping the thinking of their Ministry of Education along the same lines.
+
+Barriers by approach: Linear, relational and systems
+With respect to the types of approach as described by Best and Holmes (2010[15]) (see Table 5.2), systemlevel barriers are the most mentioned and relational barriers the least in both policy and practice.
+Nevertheless, basic linear factors such as little availability of relevant research and low accessibility to
+appropriate formats were still significantly reported as major barriers in policy making and/or in practice.
+Education systems broadly considered the lack of mechanisms facilitating the use of research as one of
+the most relevant barriers to research use: 11 systems considered it to be one of their top three main
+barriers in policy and 16 did in practice. Latvia and Slovenia considered this to be their main barrier in both
+policy and practice.
+Contradictorily, these systems reported a higher number of mechanisms on average. This could imply that
+surveyed systems consider existing mechanisms to be insufficient in facilitating research use. The lack of
+connections between existing mechanisms or the lack of a system-level coordination of mechanisms could
+be the source of the problem, leading to the perceived need for more mechanisms.
+In sum, data collected from the policy survey show some coherence. With linear mechanisms being highly
+reported and system-level ones only by a few education systems, system-level barriers are highly reported
+and linear barriers only a little. However, some inconsistencies are also observed. First, the large number
+of projects encouraging interactions coupled with a relatively large number of reports of the absence of
+relationships between actors suggest that these projects are not strictly focused on facilitating research
+use. Second, lack of mechanisms was reported to be an important barrier together with a relatively high
+number of reported mechanisms. This points to existing mechanisms having insufficient impact. This raises
+questions about the need for connections between mechanisms and comprehensive coordination
+strategies.
+
+--- [PDF Page 116 / Book Page 114] ---
+
+Table 5.2. Systems according to their main reported barriers by type of approach
+School practice
+Policy making
+
+Linear
+
+Relationships
+
+Systems
+
+Linear
+
+Relationships
+
+Systems
+
+Spain
+
+Sweden
+United States
+(Illinois)
+
+Colombia
+Costa Rica
+
+Switzerland
+(Nidwalden)
+
+Switzerland
+(Zurich)
+
+Slovak Republic
+Switzerland
+(Appenzell Ausserrhoden)
+
+Chile
+Belgium (Flemish
+Community)
+Czech Republic
+Norway
+Switzerland
+(Lucerne)
+
+Austria
+Belgium (French
+Community)
+Lithuania
+Portugal
+
+Canada (Quebec)
+Canada
+(Saskatchewan)
+Denmark
+Estonia
+Finland
+Hungary
+
+Iceland
+Japan
+Latvia
+Netherlands
+New Zealand
+Slovenia
+
+South Africa
+Switzerland
+(Obwalden)
+Switzerland (Uri)
+Turkey
+United Kingdom
+(England)
+
+Note: Data was collected at a national and at a sub-national level. Switzerland (St. Gallen) did not provide data on this question.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+
+How do systems coordinate research production?
+The OECD Strengthening the Impact of Education Research policy survey asked education systems how
+the production of education research is coordinated, regulated or managed (see Figure 5.5).
+
+Figure 5.5. Presence of coordinating mechanisms of research production, 2021
+Funding mechanisms
+
+59
+
+Regular consultations with policy makers on their needs
+
+59
+
+A public research organisation
+
+49
+
+Regular consultations with practitioners on their needs
+
+43
+
+A long-term strategy for producing education research
+
+41
+
+No co-ordination of research production
+
+28
+
+A National Education Act
+
+19
+
+Other
+
+11
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+%
+
+Note: Data showing percentage of systems reporting the existence of a given mechanism for the coordination, regulation or management of
+research production. Data was collected at a national and at a sub-national level.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/u9qiaz
+
+--- [PDF Page 117 / Book Page 115] ---
+
+One of the most cited methods of research production are funding mechanisms, with 59% of systems
+reporting them. These education systems reported more provision of funding for research in specific topics
+in both policy and practice. Funding mechanisms are active facilitators of both research production and
+research use, and are not focused exclusively on one or the other. The Norwegian Programme for
+Research and Innovation in the Educational Sector is an example of a system-wide institutionalised funding
+mechanism (see Box 5.3).
+Regular consultations with policy makers on their needs was the other most cited coordinating mechanism
+for research production, with 59% of education systems reporting this. These consultations are mentioned
+16 percentage points more than those with practitioners. Education systems reporting this type of
+consultation with policy makers also reported the systematic identification of policy makers’ needs in terms
+of research knowledge more frequently as an existing mechanism facilitating the use of research. This is
+similar to consultations with practitioners as a mechanism for coordinating research production and the
+systematic identification of practitioners’ needs. As with the funding mechanisms, it would appear that
+these practices, when present, tend to be used for both research production and research use.
+
+Box 5.3. Programme for Research and Innovation in the Educational Sector in Norway
+The Programme for Research and Innovation in the Educational Sector (FINNUT) is a long-term
+research and development programme for the education system carried out by the Research Council
+of Norway from 2014 to 2023. Its primary goal is to support high-quality research aimed at spurring
+innovation and informing practice and policy development at all levels of the education sector.
+FINNUT provides funding for research projects across four main areas – teaching and learning;
+professional education and practice; management, leadership and organisation; and education and
+work – covering the entire sector, from early childhood education and care to adult learning. For the
+assessment of the future impact of these funded research projects, the programme considers some
+academic indicators such as the frequency of citations in international scientific journal and the inclusion
+in systematic reviews, among others.
+The programme features three main types of calls for applications:
+
+
+Investigator-driven projects, aiming at developing high-quality, relevant knowledge and
+addressing research fragmentation. Allocated grants cover doctoral and post-doctoral research
+fellowships and projects related to national and international co-operation and mobility.
+
+
+
+User-driven projects, providing practice-based training and competence development to
+researchers within relevant topics for the development of practice and innovation in the
+education sector.
+
+
+
+Projects with users’ participation, developed jointly by researchers and users who identify
+the needs of the latter. Collaborative research is seen to improve the sector-specific knowledge
+among the research community and develop research capacity among practitioners.
+
+FINNUT also functions as a national cooperative arena for research groups, national and local public
+administration, and other organisations in the education sector while also strengthening the ties
+between strategic basic research, applied research and innovation in the field of education. Another
+major activity of the programme is targeted dissemination of findings and research results while
+individual projects are charged with informing target groups about their research activity through
+communication and dissemination plans.
+Source: University of Stavanger (2022[24]), The Knowledge Centre for Education, https://www.uis.no/en/research/knowledge-centre-foreducation (accessed on 23 March 2022); Research Council of Norway (2017[25]), FINNUT Work Programme 2014-2023.
+
+--- [PDF Page 118 / Book Page 116] ---
+
+In half of education systems surveyed, a public research organisation is in charge of the coordination,
+regulation or management of research production. However, only 41% of systems have a long-term
+strategy for producing education research. (See Box 5.4) There are twice as many education systems
+reporting such long-term strategies as those reporting a system-wide strategy for facilitating the use of
+research in policy or practice. Nevertheless, education systems reporting a strategy in research production
+report a higher presence of strategies facilitating research use in policy and in practice than those that do
+not. Hungary, the Netherlands, Sweden and Turkey reported having a system-wide strategy for research
+use in both practice and policy as well as a strategy for research production.
+The data above suggest that there are systems that think in a “research dynamics” logic, i.e. that invest in
+various mechanisms to facilitate research use and acknowledge the importance of coordinating research
+production. However, given that research production is a necessary, although not sufficient, condition for
+increasing interest in the use of evidence, the number of systems that do not strategically coordinate the
+production of research is still high.
+
+Box 5.4. Coordinating efforts at a system level
+The Netherlands – NRO
+The Netherlands Initiative for Education Research (NRO, a unit of the Netherlands Organisation for
+Scientific Research, the Dutch Research Council) is in charge of coordinating research education and
+its funding. The initiative aims to promote high-quality knowledge use and to enhance innovation in the
+education sector by promoting collaboration between researchers and practitioners at all education
+levels. The three core tasks of NRO include improving the coherence of education research, financing
+high-quality research and encouraging the use of research evidence in practice. The involvement of
+educational institutions and policy makers is encouraged throughout the research project cycle.
+By identifying research gaps, NRO programmes upcoming research to improve the coherence of
+education research. This is done through:
+
+
+Gathering information from school directors, policy makers, research institutes and other key
+stakeholders to help formulate the subjects for the research programmes.
+
+
+
+Publishing calls for research proposals.
+
+
+
+Evaluating proposals according to prescribed criteria of practical relevance and scientific rigour.
+
+Researchers can submit applications for funding in partnership with ministries, companies or other
+organisations. In addition, monitoring research projects helps to ensure that they keep in line with
+established priorities throughout the process. Disseminating results enables education to gain
+maximum benefits from scientific insights.
+
+Wales – NSERE
+In Wales, the National Strategy for Educational Research and Enquiry (NSERE) directs the coordination
+of research-focused policy activity and the development of officials’ capacities to effectively use
+research in policy development work, aiming to educational policy and practice being informed by the
+best available research evidence.
+This strategy was born after the commission of the UK Ministry of Education to the Welsh Government
+to “co-create a national education research strategy that provides a coherent and transparent
+framework for education research in Wales” in November 2018. The government then worked with
+organisations and individuals within the Welsh education research ecosystem and abroad to develop
+the NSERE.
+
+--- [PDF Page 119 / Book Page 117] ---
+
+Although the NSERE relates to all age groups, levels and sectors within the Welsh education system,
+it mainly focuses on “3 to 18 education” and educational research within higher education. The
+strategy’s main objectives are to:
+
+
+Develop high-quality research capacity and volume within higher education institutions focused
+on the needs of the Welsh education system.
+
+
+
+Develop a national evidence-informed profession, where educational professionals use highquality research evidence and are provided with opportunities to participate in its production.
+
+
+
+Support the development of evidence-informed policy through engagement with a wide range
+of research.
+
+
+
+Contribute to and learn from international research and evidence.
+
+Source: For the Netherlands: PO-Raad et al. (2019[26]), “Smart Connections towards a strong knowledge infrastructure for education”; NRO
+(2022[27]), About NRO, https://www.nro.nl/en/about-nro (accessed on 24 March 2022); for Wales: Welsh Government (2021[28]), The National
+Strategy for Educational Research and Enquiry (NSERE): Vision Document, https://gov.wales/national-strategy-educational-research-andenquiry-nsere-vision-document-html.
+
+Impact: A missing piece
+Despite evidence-based practice being one of the goals of public services in OECD member countries and
+several activities being developed for its promotion, there are too few consensual agreements on how
+evidence-based practices and policies are best promoted (Nutley, Walter and Davies, 2009[9]; Boaz et al.,
+2019[29]). Nevertheless, knowledge mobilisation interventions seem to work well when an appropriate
+mechanism is employed (Jasimuddin, 2007[30]) and they address the clear and genuine barriers preventing
+the research uptake (Oliver et al., 2014[11]).
+The way in which researchers define and measure “evidence or research use” determines the
+effectiveness and impact of the mechanisms and repercussion of the barriers. The concept of “research
+use” has multiple dimensions (Levin, 2011[3]). Evaluations of research use interventions employ a wide
+range of indicators such as changes in access to research; in knowledge and understanding; in attitudes
+and beliefs; in behaviour; and/or in outcomes for services users (Nutley, Walter and Davies, 2009[9]). Thus,
+even though there are considerable literature results on the impact of existing mechanisms influencing
+decision makers’ research use, their evaluation outcomes are often not comparable.
+An analysis of What Works Centres in the United Kingdom (Gough, Maidment and Sharples, 2018[31])
+assesses impact based on:
+
+
+Ultimate beneficiaries (e.g. pupils or pupils’ attainment).
+
+
+
+Behaviours of intended users (e.g. practitioners’ or policy makers’ use of evidence to inform
+decisions).
+
+
+
+Intermediate outcomes (e.g. research users’ knowledge of research findings).
+
+The analysis reveals that these Centres, with the exception of the Education Endowment Foundation
+(EEF), undertake relatively little evaluation of impact of their work on ultimate beneficiaries (see also
+Chapter 7).
+It is noteworthy that research can have impact in varying ways and that most of these do not yield direct
+application results in a short time frame. Its effects are often gradual and indirect, mediated through several
+social processes, and shaped by the larger socio-political context (Levin, 2011[3]). Research on the health
+sector considers that the time lag between the availability of research evidence and its application in
+
+--- [PDF Page 120 / Book Page 118] ---
+
+funded Research School Network project achieved a change in the practices of teachers and school
+leaders in its first three years of implementation but has not shown any sign of impact in terms of student
+outcomes (Gu et al., 2021[33]).
+An extensive systematic review analysed the effectiveness of interventions focused on increasing decision
+makers’ use of research. Regarding information and dissemination-related interventions, it pointed to
+positive effects on research use. However, these effects are “conditional on the intervention design
+simultaneously trying to enhance decision makers’ opportunity and motivation to use evidence” (Langer,
+Tripney and Gough, 2016, p. 1[4]). Interventions aiming to enhance the use of educational research in policy
+making and/or school and teaching practice should consider multiple mechanisms to ensure and increase
+impact. Such a tendency is already observable: many strategies aiming to encourage research use draw
+on more than one mechanism (Nutley, Walter and Davies, 2009[9]).
+
+Conclusion
+Education systems are complex: Multiple actors operate at different levels and with different degrees of
+power, empowerment, autonomy and demands, and they interact with each other with different intensities.
+In such complexity, the sharing of knowledge between different elements of education systems and the
+coordinating efforts and mechanisms facilitating this become essential (Burns and Köster, 2016[34]).
+System-wide coordination, involving a wide and diverse set of relevant actors, is necessary for effective
+modern governance. The goal of these coordinated strategies is to replace isolated interventions and align
+action to a system’s specific context, actors and resources (Burns and Köster, 2016[34]). These strategies
+should aim to move the system from “single interventions and simplistic solutions to the recognition of the
+need for coordinated changes throughout the system and to its constraining and enabling contexts and
+resources” (Mason, 2016, p. 52[35]).
+Data from the OECD Strengthening the Impact of Education Research policy survey provide insight into
+these strategies by mapping existing mechanisms for and barriers to the use of research in policy making
+and in school and teaching practice across education systems. There are three main and interrelated
+points that emerge from the analysis.
+
+Efforts to enhance research use are misaligned with the specific systems’ problems
+Interventions focused on bridging gaps between research production and research use have to draw on
+mechanisms that are likely to affect genuine barriers to research uptake (Oliver et al., 2014[11]).
+Nevertheless, survey results show that there are misalignments between barriers and mechanisms in
+many education systems. Analyses such as this complemented with more detailed national data could
+point to areas for improvement. Once barriers to the use of education research have been identified,
+mechanisms to overcome them can be designed and implemented in a more targeted manner.
+
+Lack of strategic coordination inhibits impact
+Local efforts to improve the use of education research exist. They aim to transform teachers, school leaders
+and policy makers into critical research consumers (Jones, Procter and Younie, 2015[2]), and make
+research producers aware of the context of their potential users. However, isolated one-dimensional efforts
+are not enough. The lack of coordination between these initiatives at a higher level and the lack of a
+system-wide strategy can block their scale-up and fulfilment of their potential impact. Research has shown
+that the impact of certain mechanisms facilitating the use of educational research is stronger when these
+are combined (Langer, Tripney and Gough, 2016[4]). However, the “ideal” combination of mechanisms for
+each specific context and definition of this mix are, as yet, poorly understood.
+
+--- [PDF Page 121 / Book Page 119] ---
+
+Still some way to go for systems thinking
+Systems thinking and system-wide coordination can have deep impact on policy, practice and research.
+Coordinated and effective interventions are relevant for change at the individual, organisational, and
+community level. Strategic communications have a critical role in coordinating these changes and effective
+coordination structures can speed uptake of innovations (Best and Holmes, 2010[15]). However, despite
+the unanimous view that governing education systems must take a systems approach, governments are
+struggling to figure out how that can be done in practice. An investigation of activities that encourage
+knowledge mobilisation found that while there is a large number of such activities, there is little overall
+coordination between them (Cain, Wieser and Livingston, 2016[36]; Gough et al., 2011[14]). The same
+picture emerges from the data presented in this chapter as well, with systems mechanisms being poorly
+reported.
+Finally, there is a note of caution. The effects of coordinated mechanisms or of a system-wide strategy on
+facilitating the use of educational research have not yet been broadly studied. Further research should aim
+to analyse and evaluate this type of strategy; enabling conditions for its correct development and
+implementation in order to achieve its highest impact; and who should lead it.
+A first step for education systems could be to carefully and thoroughly map the state of their educational
+research use system in order to identify the factors influencing the use of research. Doing so will allow
+them to align mechanisms and barriers, generating effective interventions under a holistic strategy to
+enhance research use. The coordination of this strategy and its evaluation are key pieces that are
+commonly neglected yet fundamental for strategic improvement.
+
+References
+Berliner, D. (2008), “Research, policy, and practice: The great disconnect”, in Lapan, S. and
+M. Quartaroli (eds.), Research Essentials: An Introduction to Designs and Practices,
+https://www.researchgate.net/publication/268390512.
+
+[1]
+
+Best, A. and B. Holmes (2010), “Systems thinking, knowledge and action: Towards better
+models and methods”, Evidence and Policy, Vol. 6/2, pp. 145-159,
+https://doi.org/10.1332/174426410X502284.
+
+[15]
+
+Boaz, A. et al. (2019), “What works now? An introduction”, in Boaz, A. et al. (eds.), What Works
+Now?: Evidence-informed Policy and Practice, Policy Press.
+
+[29]
+
+Boh, W. (2007), “Mechanisms for sharing knowledge in project-based organizations”, Information
+and Organization, Vol. 17/1, pp. 27-58, https://doi.org/10.1016/j.infoandorg.2006.10.001.
+
+[13]
+
+Burns, T. and F. Köster (eds.) (2016), Governing Education in a Complex World, OECD
+Publishing, Paris, https://doi.org/10.1787/9789264255364-en.
+
+[34]
+
+Cain, T. (2015), “Teachers’ engagement with research texts: Beyond instrumental, conceptual or
+strategic use”, Journal of Education for Teaching, Vol. 41/5, pp. 478-492,
+https://doi.org/10.1080/02607476.2015.1105536.
+
+[6]
+
+Cain, T., C. Wieser and K. Livingston (2016), “Mobilising research knowledge for teaching and
+teacher education”, European Journal of Teacher Education, Vol. 39/5, pp. 529-533,
+https://doi.org/10.1080/02619768.2016.1256086.
+
+[36]
+
+--- [PDF Page 122 / Book Page 120] ---
+
+Cordingley, P. (2016), “Knowledge and research use in local capacity building”, in Burns, T. and
+F. Köster (eds.), Governing Education in a Complex World.
+
+[20]
+
+EEF (2022), Teaching and Learning Toolkit, Education Endowment Foundation,
+https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit
+(accessed on 28 March 2022).
+
+[22]
+
+EEF (2017), “EEF launches updated Teaching and Learning Toolkit”, Education Endowment
+Foundation, https://educationendowmentfoundation.org.uk/news/eef-launches-updatedteaching-and-learning-toolkit (accessed on 28 March 2022).
+
+[21]
+
+Fazekas, M. and T. Burns (2012), “Exploring the Complex Interaction Between Governance and
+Knowledge in Education”, OECD Education Working Papers, No. 67, OECD Publishing,
+Paris, https://doi.org/10.1787/5k9flcx2l340-en.
+
+[5]
+
+Gough, D., C. Maidment and J. Sharples (2018), EPPI-Centre.
+
+[31]
+
+Gough, D. et al. (2011), Evidence Informed Policymaking in Education in Europe : EIPEE Final
+Project Report, EPPI-Centre, Social Science Research Unit, Institute of Education, University
+of London.
+
+[14]
+
+Gu, Q. et al. (2021), The Research Schools Programme in Opportunity Areas: Investigating the
+Impact of Research Schools in Promoting Better Outcomes in Schools, Evaluation Report,
+Education Endowment Foundation,
+https://educationendowmentfoundation.org.uk/public/files/RS_Evaluation.pdf.
+
+[33]
+
+Hering, J. (2016), “Do we need “more research” or better implementation through knowledge
+brokering?”, Sustainability Science, Vol. 11/2, pp. 363-369, https://doi.org/10.1007/s11625015-0314-8.
+
+[38]
+
+Hipkins, R., J. Whatman and R. Felgate (2017), Exploring the Impact of the Teaching and
+Learning Research Initiative.
+
+[17]
+
+Humphries, S. et al. (2014), “Barriers and facilitators to evidence-use in program management: A
+systematic review of the literature”, BMC Health Services Research, Vol. 14/1,
+https://doi.org/10.1186/1472-6963-14-171.
+
+[10]
+
+Hutchinson, A. and L. Johnston (2006), “Beyond the BARRIERS scale: Commonly reported
+barriers to research use”, JONA, Vol. 36/4, pp. 189-199.
+
+[32]
+
+Jasimuddin, S. (2007), “Exploring knowledge transfer mechanisms: The case of a UK-based
+group within a high-tech global corporation”, International Journal of Information
+Management, Vol. 27/4, pp. 294-300, https://doi.org/10.1016/j.ijinfomgt.2007.03.003.
+
+[30]
+
+Jones, S., R. Procter and S. Younie (2015), “Participatory knowledge mobilisation: An emerging
+model for international translational research in education”, Journal of Education for
+Teaching, Vol. 41/5, pp. 555-573, https://doi.org/10.1080/02607476.2015.1105540.
+
+[2]
+
+Langer, L., J. Tripney and D. Gough (2016), The science of using science: Researching the use
+of research evidence in decision-making, EPPI-Centre, Social Science Research Unit, UCL
+Institute of Education, University College London.
+
+[4]
+
+Levin, B. (2013), “To know is not enough: Research knowledge and its use”, Review of
+Education, Vol. 1/1, pp. 2-31, https://doi.org/10.1002/rev3.3001.
+
+[7]
+
+--- [PDF Page 123 / Book Page 121] ---
+
+Levin, B. (2011), “Mobilising research knowledge in education”, London Review of Education,
+Vol. 9/1, pp. 15-26, https://doi.org/10.1080/14748460.2011.550431.
+
+[3]
+
+Mason, M. (2016), “Complexity theory and systemic change in education governance”, in
+Burns, T. and F. Köster (eds.), Governing Education in a Complex World.
+
+[35]
+
+NRO (2022), About NRO, Nationaal Regieorgaan Onderwijsonderzoek, Netherlands,
+https://www.nro.nl/en/about-nro (accessed on 24 March 2022).
+
+[27]
+
+Nutley, S., I. Walter and H. Davies (2009), “Promoting evidence-based practice: Models and
+mechanisms from cross-sector review”, Research on Social Work Practice, Vol. 19/5,
+pp. 552-559, https://doi.org/10.1177/1049731509335496.
+
+[9]
+
+Oliver, K. et al. (2014), “A systematic review of barriers to and facilitators of the use of evidence
+by policymakers”, BMC Health Services Research, Vol. 14/2, https://doi.org/10.1186/14726963-14-2.
+
+[11]
+
+PO-Raad et al. (2019), “Smart Connections towards a strong knowledge infrastructure for
+education”.
+
+[26]
+
+Research Council of Norway (2017), FINNUT Work Programme 2014-2023.
+
+[25]
+
+Révai, N. and S. Guerriero (2017), “Knowledge dynamics in the teaching profession”, in
+Pedagogical Knowledge and the Changing Nature of the Teaching Profession, OECD
+Publishing, Paris, https://doi.org/10.1787/9789264270695-4-en.
+
+[12]
+
+Rickinson, M. et al. (2020), Using Evidence Better: Quality Use of Research Evidence
+Framework, Monash University, Victoria, Australia,
+http://monash.edu/education/research/projects/qproject (accessed on 1 September 2021).
+
+[23]
+
+Sutherland, W. et al. (2019), “Building a tool to overcome barriers in research-implementation
+spaces: The conservation evidence database”, Biological Conservation, Vol. 238,
+https://doi.org/10.1016/j.biocon.2019.108199.
+
+[37]
+
+TLRI (2022), Teaching and Learning Research Initiative.
+
+[18]
+
+TLRI (2021), “Pepe meamea in the spirit of the collective: Embedding Samoan indigenous
+philosophy in ECE for Samoan children under two”, Teaching and Learning Research
+Initiative, http://www.tlri.org.nz/tlri-research/research-progress/ece-sector/pepe-meameaspirit-collective-embedding-samoan-indigenous (accessed on 20 April 2022).
+
+[19]
+
+University of Stavanger (2022), The Knowledge Centre for Education,
+https://www.uis.no/en/research/knowledge-centre-for-education (accessed on
+23 March 2022).
+
+[24]
+
+Walter, I., S. Nutley and H. Davies (2003), “Developing a taxonomy of interventions used to
+increase the impacts of research”, https://www.researchgate.net/publication/265233164.
+
+[8]
+
+Walter, I., S. Nutley and H. Davies (2003), “Research impact: A cross sector literature review”.
+
+[16]
+
+Welsh Government (2021), The National Strategy for Educational Research and Enquiry
+(NSERE): Vision Document, https://gov.wales/national-strategy-educational-research-andenquiry-nsere-vision-document-html.
+
+[28]
+
+--- [PDF Page 124 / Book Page 122] ---
+
+Annex 5.A. Additional tables
+Annex Table 5.A.1. Factors influencing research use by type of factor
+Mechanisms for and barriers to the use of educational research
+Type
+Information
+
+Mechanisms
+ Research users' timely access to relevant information
+ Targeted and improved dissemination of good quality
+research findings to practitioners and policy makers
+
+Individual
+characteristics
+
+ Poor access to good quality relevant research
+(e.g. paywalls)
+ Lack of availability to research
+
+ Complex intervention evaluation methods (in the case of
+empirical research)
+
+ Lack of relevance of research
+
+ High clarity, reliability and/or relevance of research
+evidence
+
+ Poor presentation (e.g. without synthesis or highly complex)
+
+ Audience-tailored format of research findings
+Interaction
+
+Barriers
+
+ Poor dissemination
+ Negative perceptions of research by users
+
+ Local collaboration between the research and policy or
+practice communities enabling greater discussion on
+findings
+
+ Lack of personal and/or professional contact between
+research producers and potential users
+
+ Formal, constant, large-scale partnerships between
+research producers and users to support better connections
+between them
+
+ Lack of incentives for contact and/or collaboration
+
+ Lack of structures and/or spaces for contact
+ Lack of support for collaboration
+
+ Trust and mutual respect among research producers and
+users
+
+ Cultural and/or linguistic mismatches and
+misunderstandings between research producers and users
+
+ Researchers' skills and capacities related to effective
+dissemination of useful evidence
+
+ Lack or deficit of comprehension of policy processes and
+school contexts of researchers
+
+ Researchers' good comprehension of policy processes and
+the context surrounding policy priorities
+
+ The perception of research producers as partisan and
+producing biased results
+
+ Researchers' good comprehension of educational
+structures and processes and teachers’ professional
+practice
+
+ Lack or deficit of research analytical skills, experience,
+literacy and awareness of practitioners and policy makers
+
+ Policy makers and practitioners' skills and capacities
+related to research literacy, utilisation and application
+
+ Lack of formal training
+
+ Practitioners' skills development through career-long
+professional learning, beginning in initial teacher education
+ "Influencers" (experts, peers)' positive attitudes, behaviour
+and influence towards research use
+Structure and
+organisation
+
+ Technical support (e.g. guidelines, laws)
+ Financial support (e.g. funding)
+ Organisational support (e.g. time, rewards, incentives)
+ Provision of necessary human resources and training
+
+ Teachers' lack of time to read research, to familiarise
+themselves with new evidence-based strategies and/or to
+interpret and adapt these approaches to their specific
+context
+ Conflicting timelines (e.g. political and research cycles),
+with research outputs being not available at the time when
+they are needed as input to decision making
+ Inadequate system and/or organisational support (e.g. lack
+of reward system)
+ Financial and/or human resource constraints
+ Lack of or poor formal long-term planning processes
+ Inflexible and non-transparent policy processes
+
+--- [PDF Page 125 / Book Page 123] ---
+
+Type
+Culture
+
+Mechanisms
+ Positive leadership and authority
+ Facilitation role of national and local governments
+
+Barriers
+ Lack of senior management support for evidence-informed
+decision making
+
+ Support of school leaders for the use of research
+
+ Perceived lack of authority to change procedures
+
+ System and/or organisational support to and commitment
+with evidence development and use
+
+ Overall resistance to change
+ Negative perception towards research use
+
+ System and/or organisation underlining the value of
+research use
+
+ Difference on the priorities of research producers and users
+ Competing pressures (economic, political, social factors)
+ Highly politicised environment
+
+Source: Humphries, S. et al. (2014[10]), “Barriers and facilitators to evidence-use in program management: A systematic review of the literature”,
+http://dx.doi.org/10.1186/1472-6963-14-171; Oliver, K. et al. (2014[11]), “A systematic review of barriers to and facilitators of the use of evidence
+by policymakers”, http://dx.doi.org/10.1186/1472-6963-14-2; Nutley, S., I. Walter and H. Davies (2009[9]), “Promoting evidence-based practice:
+Models and mechanisms from cross-sector review”, http://dx.doi.org/10.1177/1049731509335496; Hutchinson, A. and L. Johnston (2006[32]),
+“Beyond the BARRIERS scale: Commonly reported barriers to research use”, JONA, Vol. 36/4, pp. 189-199; Sutherland, W. et al. (2019[37]),
+“Building a tool to overcome barriers in research-implementation spaces: The conservation evidence database”, http://dx.doi.org/10.1016/j.bio
+con.2019.108199; Hering, J. (2016[38]), “Do we need “more research” or better implementation through knowledge brokering?”,
+http://dx.doi.org/10.1007/s11625-015-0314-8; Welsh Government (2021), The National Strategy for Educational Research and Enquiry
+(NSERE): Vision Document, https://gov.wales/national-strategy-educational-research-and-enquiry-nsere-vision-document-html; Rickinson, M.
+et al. (2020[23]), Using Evidence Better: Quality Use of Research Evidence Framework, http://monash.edu/education/research/projects/qproject
+(accessed on 1 September 2021).
+
+Annex Table 5.A.2. Factors influencing research use by type of approach in the OECD
+Strengthening the Impact of Education Research policy survey
+Type of approach
+
+Barriers
+
+Mechanisms
+
+Linear
+
+ Low quality of research in key areas
+ Low accessibility of research in appropriate formats
+ Lack of relevant research
+
+ Systematically identifying relevant research gaps
+ Systematically identifying needs in terms of research
+knowledge
+ Systematically commissioning research to address
+needs
+ Synthesising and disseminating ed. research findings
+through user-friendly tools
+
+Relationships
+
+ Lack of willingness to use research
+ Lack of learning opportunities
+ Lack of openness to new ideas from research
+ Low levels of skills and capacity to use research
+ Lack of relationships between different actors
+
+ Regular system-wide activities to develop capacity/skills
+to use ed. research
+ Projects encouraging actors' interactions to facilitate the
+use of ed. research
+
+Systems
+
+ Lack of broader political will to use research
+ Lack of financial resources
+ Lack of mechanisms that facilitate the use of research
+ Conflicting timeframes with research
+ Lack of time to access and engage with research
+
+ Regular system-wide activities to monitor/evaluate the
+impact of ed. research
+ System-wide strategy for facilitating the use of
+ed. research
+ Legislation/law or professional guidelines that promote
+ed. research use
+ Offering resources (e.g. financial, human) to support
+research use
+ Providing targeted funding for research on specific topics
+
+--- [PDF Page 126 / Book Page 124] ---
+
+Annex Table 5.A.3. Factors influencing research use by type of factor in the OECD Strengthening
+the Impact of Education Research policy survey
+Type of Factor
+
+Barriers
+
+Mechanisms
+
+Information
+
+ Low quality of research in key areas
+ Low accessibility of research in appropriate formats
+ Lack of relevant research
+
+ Systematically identifying relevant research gaps
+ Systematically identifying needs in terms of research
+knowledge
+ Systematically commissioning research to address
+needs
+ Synthesising and disseminating ed. research findings
+through user-friendly tools
+
+Interaction
+
+ Lack of relationships between different actors
+
+ Projects encouraging actors' interactions to facilitate the
+use of ed. research
+
+Individual
+Characteristics
+
+ Low levels of skills and capacity to use research
+
+ Regular system-wide activities to develop capacity/skills
+to use ed. research
+
+Structure and
+Organisation
+
+ Lack of financial resources
+ Lack of mechanisms that facilitate the use of research
+ Conflicting timeframes with research
+ Lack of time to access and engage with research
+ Lack of learning opportunities
+
+ Regular system-wide activities to monitor/evaluate the
+impact of ed. research
+ System-wide strategy for facilitating the use of
+ed. research
+ Legislation/law or professional guidelines that promote
+ed. research use
+ Offering resources (e.g. financial, human) to support
+research use
+ Providing targeted funding for research on specific topics
+
+Culture
+
+ Lack of broader political will to use research
+ Lack of willingness to use research
+ Lack of openness to new ideas from research

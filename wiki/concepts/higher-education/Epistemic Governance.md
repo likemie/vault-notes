@@ -8,10 +8,10 @@ aliases:
 summary: "以规范、认知和知识为基础的治理机制，用于说明高等教育机构如何通过知识权威、专家培养和价值框架参与全球治理。"
 type: concept
 domain: "higher-education"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - region/global
 - level/higher-ed
@@ -23,6 +23,9 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
+  - "[[Innovation Hub]]"
+  - "[[Knowledge Production]]"
+  - "[[Evidence Ecosystem]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
@@ -34,21 +37,26 @@ related_concepts:
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
+  - "[[Governing at a Distance]]"
+  - "[[Varieties of Capitalism]]"
 related_methods: []
 related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals]]"
-  - "[[Academic Ranking of World Universities]]"
+  - "[[Centre for Educational Research and Innovation]]"
   - "[[OECD]]"
+  - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Academic Ranking of World Universities]]"
   - "[[Research Excellence Framework]]"
   - "[[THE Impact Ranking]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
-confidence: medium
-status: draft
+confidence: high
+status: active
 created: '2026-05-11'
-updated: 2026-07-10
+updated: 2026-09-12
 ---
 
 # Epistemic Governance
@@ -79,10 +87,11 @@ updated: 2026-07-10
 - 1990 年代以来，[[Constructivist Paradigm|建构主义]]国际关系学（Wendt, 1999; Barnett & Finnemore, 2004）和 [[World Society Theory]]（Meyer et al., 1997）的兴起推动了从"硬"治理到"软"治理的[[Paradigm|范式]]转移。核心发现是：观念、知识、意义、规范和[[Cultural Models|文化模型]]本身具有建构性力量——它们不是枪炮，但能改变"什么是合理的"这个基准线。当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"——这就是知识治理的基本运作逻辑([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
 - 伴随这一转向，全球治理的分析范围从传统的安全与经济领域扩展到社会政策、卫生、环境以及教育与科学——恰好是大学最擅长的领域([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
 
-### 在教育治理中的应用
+### 在教育治理与跨国组织中的应用
 
-- 2016 年 Normand 在 *The Changing Epistemic Governance of European Education* 中系统阐述了欧洲教育的知识治理转型，将 epistemic governance 概念引入教育政策分析([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
-- [[Argument_Zapp_2022_Springer|Zapp (2022)]]将分析焦点转向大学，论证大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——嵌入全球知识治理，以 2015 年 [[UN Sustainable Development Goals|SDGs]] 为关键催化剂（详见该 Argument 第四步，pp.150–154）
+- **欧洲教育知识治理转型** 2016 年 Normand 在 *The Changing Epistemic Governance of European Education* 中系统阐述了欧洲教育的知识治理转型，将 epistemic governance 概念引入教育政策分析。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 145)]]
+- **大学与全球议程对齐机制** [[Argument_Zapp_2022_Springer|Zapp (2022)]] 将分析焦点转向大学，论证大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——嵌入全球知识治理，以 2015 年 [[UN Sustainable Development Goals|SDGs]] 为关键催化剂（pp. 150–154）。
+- **[[Centre for Educational Research and Innovation|OECD CERI]] 的国家级教育知识治理议程（2000–2022）** [[OECD|经合组织]]教育研究与[[Innovation Hub|创新中心]]（CERI）自 2000 年起开启了从指标[[Governing at a Distance|远处治理]]向深层“教育知识治理”（Education Knowledge Governance）的范式演进：通过 2000/2003 年跨部门研发调查、2007 年《Evidence in Education》旗舰专著、2010 年《The Nature of Learning》以及教师知识调查（TKS），诊断成员国在[[Knowledge Production|知识生产]]、中介与使用中的系统能力赤字；并于 2021 年启动[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem|证据生态系统]]治理框架，标志着国际组织从输出外部测验指标转向调控主权国家内部的知识[[Varieties of Capitalism|生产体制]]与科研激励生态。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
 
 ### 作为地缘政治装置的认识论治理
 
@@ -137,5 +146,6 @@ updated: 2026-07-10
 > [!example]
 > - [[UN Sustainable Development Goals]] — SDGs 是知识治理的典型案例：大学知识的普世性和应用性满足了全球治理对科学证据日益增长的需求
 > - [[THE Impact Ranking]] — THE 影响力排名体现了知识治理中"测量"的角色：将大学对全球治理目标的贡献量化为排名指标
+> - [[Strengthening the Impact of Education Research Project]] — [[Centre for Educational Research and Innovation|OECD CERI]] 启动的国家级知识治理实证项目，标志着跨国组织从指标输出转向重构主权国家[[Evidence Ecosystem|教育证据生态系统]]
 
 ---

@@ -10,8 +10,9 @@ You are a knowledge management assistant for an academic wiki vault on education
 ## Startup
 
 1. Read `vault-schema.md` first — it is the authoritative specification for folder structure, templates, workflows, naming, linking, source records, and writing rules.
-2. Read `wiki/index.json` for quick lookup of existing entries.
-3. All content rules (summary, argument writing, aliases, tags, extraction criteria, updating, link safety) are in `vault-schema.md`. Do not duplicate them here.
+2. For questions that require exploring, synthesizing, or tracing evidence in the existing vault, read `vault-use.md` and follow its traversal and source-verification workflow.
+3. Read `wiki/index.json` for quick lookup of existing entries.
+4. All content rules (summary, argument writing, aliases, tags, extraction criteria, updating, link safety) are in `vault-schema.md`. Do not duplicate them here.
 
 
 ## Specialized Workflows

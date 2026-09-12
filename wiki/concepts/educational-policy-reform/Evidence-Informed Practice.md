@@ -6,10 +6,10 @@ aliases:
 summary: "一种将研究证据视为多种决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统层面数据与课堂数据，并依托全系统知识动员战略推进教育改进。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - evidence-informed-practice
   - evidence-based-education
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Variable]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Evidence Ecosystem]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
@@ -60,22 +61,26 @@ related_methods:
   - "[[Action Research]]"
   - "[[In-depth Interview]]"
   - "[[Mixed Methods Research]]"
+  - "[[Semi-structured Interview]]"
   - "[[Framework Synthesis]]"
   - "[[Questionnaire]]"
 related_persons: []
 related_facts:
+  - "[[Teaching and Learning Research Programme]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[ResearchED]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-09-02
+updated: 2026-09-12
 ---
 
 # Evidence-Informed Practice
@@ -85,25 +90,26 @@ updated: 2026-09-02
 ## 定义
 
 > [!def] 核心定义
-> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于超越单纯的研究供给，构建全系统的[[Knowledge Mobilisation|知识动员]]支撑条件与多维成果评估体系。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–129)]]
+> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于超越单纯的研究供给，构建全系统的[[Knowledge Mobilisation|知识动员]]支撑条件与多维成果评估体系。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–129)]]；[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 17–18)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注研究证据在教育决策中的位置与转化机制：研究是证据拼图的关键板块，须由教育者结合微观课堂情境与宏观系统数据进行专业审议。
 > - **用途** 解释为何高质量研究不会自动改变课堂实践，指导学校与教育系统培育使证据有效落地的肥沃土壤。
 > - **边界** 回答证据在决策中处于何种位置以及如何被整合，不直接评价具体研究设计的因果证据等级（后者见 [[Quality Use of Research Evidence Framework|研究证据质量使用框架]]）。
 
-> [!citation-card]- 关键表述：证据只是多种决策因素之一
-> "我们把这个特刊命名为'教育中的证据知情实践'，以反映我们的观点：证据只是影响教育决策的诸多因素之一，教育者需要运用专业判断，而非只被研究证据或数据驱动。"[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 128)]]
->
-> *"We named this special issue Evidence-informed practice in education to reflect our view that evidence is just one of a number of factors that influence educational decisions, with educators needing to apply professional judgment, rather than being driven solely by research evidence or data."*
-
-> [!citation-card]- 摒弃脚本化教学与多源整合本质
-> "证据本位实践不是'按脚本行事'式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。"（Sharples, 2013, p. 7，引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）
+> [!citation-card] 专业技能与最佳外部证据的有机整合
+> "证据本位实践不是'按脚本行事'式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。"（Sharples, 2013, p. 7，引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]；[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 17–18]]）
 >
 > *"Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice."*
 
+> [!citation-card] 决策前咨询多源信息与最佳实证
+> 证据知情决策（EIDM）是“在做出规划、实施以及（适当时）改变政策、项目和其他服务的决策之前，查阅包括最佳可用研究证据在内的多种信息来源的过程。”（Langer et al., 2016, p. 6，引于 [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 18]]）
+>
+> *"Evidence-informed decision making is a process whereby multiple sources of information, including the best available research evidence, are consulted before making a decision to plan, implement, and (where relevant) alter policies, programmes and other services."*
+
 > [!boundary]- 概念边界
 > - 区别于 [[Evidence-Based Education|证据本位教育]]（EBE）：EBE 主张由高等级[[Experimental Research|实验研究]]直接驱动决策；EIP 将研究定位为多元输入之一，由专业判断进行权衡与改编。
+> - 区别于证据知情决策（Evidence-Informed Decision-Making, EIDM）：EIP 聚焦一线学校与课堂教学实践情境中的专业审议；EIDM 则聚焦系统治理、跨部门政策制定与公共服务项目方案调整中的决策咨询程序（Langer et al., 2016；[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 18]]）。
 > - 区别于 [[Research-Informed Teaching Practice|研究知情教学实践]]（RITP）：RITP 侧重学术[[Document|文献]]的转化；EIP 强调系统管理数据与课堂形成性数据具有同等合法的证据地位。
 > - 区别于 [[Data-Based Decision Making|基于数据的决策]]（DBDM）：DBDM 通常局限于校内测试数据的局部调整；EIP 强调将内部数据诊断与外部研究新知统一嵌入探究循环。
 > - 区别于 [[Knowledge Mobilisation|知识动员]]（KMb）：知识动员是支撑 EIP 实现的中介转化机制与系统策略；EIP 则是教育者在专业决策中所秉持的实践取向本身。
@@ -241,11 +247,12 @@ updated: 2026-09-02
 > [!dev-timeline] 概念演变
 > - **1979 — [[Research Utilization|研究利用]]理论奠基** Weiss (1979) 提出研究利用的多元模式（工具性、概念性、象征性等），打破研究直接指导决策的[[Technical Rationality|技术理性]]设想，为 EIP 奠定[[Epistemology|认识论]]基石。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 127)]]
 > - **1996 — 教学作为研究本位专业** Hargreaves (1996) 发表演讲，倡导重塑教学为由研究支撑的专业，引发英美等国关于教育证据角色的大规模政策论争。
-> - **2000s–2010s — 制度化推进与因果问责** 英国实施 TLRP 研究计划，美国出台 [[No Child Left Behind Act 2001|NCLB]] 强化因果实验标准与 What Works 运动，加拿大安大略省推进教育研究与评估战略。
+> - **2000s–2010s — 制度化推进与因果问责** 英国实施 [[Teaching and Learning Research Programme|TLRP]] 研究计划，美国出台 [[No Child Left Behind Act 2001|NCLB]] 强化因果实验标准与 What Works 运动，加拿大安大略省推进教育研究与评估战略。
 > - **2013–2015 — 草根转向与翻转系统** 英国一线教师发起 [[ResearchED]] 草根运动，特许教学学院成立；Evers & Kneyber (2015) 编著《Flip the System》，倡导教师[[Professional Judgment|专业判断]]引领变革、抗衡自上而下行政问责。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 128)]]
 > - **2017 — 定义、应用与测量的三轴整合** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 编辑特刊，将 EIP 系统化组织为定义（四源整合）、应用（[[Knowledge Mobilisation|知识动员]]四策略与肥沃土壤）与测量（双重缺口与成果分层）三大主题。
 > - **2021 — 欧洲政策语言与非处方化协调** 在欧盟语境中，EIP 被重新概念化为适应成员国教育主权、培育评价文化与知识中介的非处方化政策语言。[[Argument_Pellegrini_2021_ROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
 > - **2021 — [[Local Knowledge in Evidence-Based Policy|地方知识]]与多维决策信息的显影** [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] 结合 ESSA 证据标准与巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证实施语境、成本与地方知识对证据使用的塑造作用。
+> - **2022 — 系统论转向与政策调查国际映射** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 依托 [[OECD]] 项目将 EIP 拓展至 29 个国家的 37 个教育系统，从复杂系统论和行动者生态视角，揭示政策制定者与实践者在证据知情过程中面临的结构性壁垒与共创瓶颈。
 > - **2026 — 从线性实施转向多维整合** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 基于跨国[[Systematic Review|系统综述]]，主张 EIP 应由外部干预的机械执行，转向强调[[Teacher Professional Agency|教师能动性]]、多源知识交互与跨层治理的整合[[Paradigm|范式]]。
 
 ---
@@ -285,6 +292,7 @@ updated: 2026-09-02
 > | 同上 转述 LaPointe-McEwan et al. | 协作探究网络中的教师[[Research Utilization\|证据使用]] | [[Mixed Methods Research\|混合方法]]实证研究 | 各类证据来源的接纳与使用频率 | 实践来源证据的使用频率与信赖度显著高于原始学术研究 | — | 证实即使在主动推进证据使用的试验项目中，实践证据依然居主导 |
 > | 同上 转述 CUREE (2011) | 英格兰专业发展中实践者参与研究的状况 | [[Systematic Review\|系统综述]] | 实践者参与研究的普及程度 | 实践者参与研究日益普遍，但实现常态化依然进展缓慢 | — | 证实对教学实践有潜在益处，但尚未转化为全行业普遍制度文化 |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 131)]] 转述 Dagenais et al. (2012) | EIP 实际成效与收益的实证[[Document\|文献]]库 | 实证证据综述 | EIP 实际成效的严谨实证积累量 | 严谨实证证据极其匮乏 | — | 提示教育界自身关于 EIP 成效的定量与定性评估严谨性仍显不足 |
+> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 25–27)]] | 29 个国家的 37 个教育系统教育部高层决策者与政策团队 | 跨国政策调查与[[Semi-structured Interview\|半结构化访谈]] | 循证政策与实践推进机制及系统性阻碍 | 绝大多数系统缺乏对多样化中介机制的统筹协调，政策与实践环境割裂严重，学术激励错位与及时性不足是核心瓶颈 | — | 代表中央与地方教育部官员主观认知与制度自陈，各系统对政策制定者边界定义存在口径差异 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校[[Research Utilization\|研究使用]]实证研究 | 系统综述＋[[Framework Synthesis\|框架综合]] | 研究使用形态分布与主导[[Paradigm\|范式]] | 象征性与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]占据主导，深思熟虑的探究性参与相对罕见 | — | 支持从单纯外部研究实施转向内生多源整合 |
 > | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison, 2021, pp. 120–121]] | 学校教育产品与改革方案的决策者 | [[Questionnaire\|问卷调查]]与案例分析 | 决策信息渠道的信赖与采纳偏好 | 显著偏好同伴推荐与本地试点经验，而非纯粹学术研究证据 | — | 决策者更关注项目特征、实施要求、使用满意度与本土适配性 |
 
@@ -296,4 +304,5 @@ updated: 2026-09-02
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation|知识动员]]策略与成果测量类型学。
 > - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 通过马里兰州 [[Students and Teachers Accessing Tomorrow|STAT]] 技术改革项目，检验 ESSA 证据标准在学区采购与复杂改革中的局限性，论证[[Local Knowledge in Evidence-Based Policy|地方知识]]与实施成本对证据知情决策的塑造作用。
 > - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 梳理欧盟证据知情教育政策与中介机构网络，提出适应成员国教育主权、非处方式推进评价文化与证据支持的跨国治理路径。
+> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 梳理 EIP [[Epistemology|认识论]]变迁与 20 年知识管理脉络，将实践知情与政策决策统合进复杂[[Evidence Ecosystem|证据生态系统]]，并对 29 国跨国政策调查框架展开系统奠基。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 基于跨国 109 项研究的[[Systematic Review|系统综述]]，提出学校[[Research Utilization|研究使用]]应从自上而下的线性实施转向以[[Teacher Professional Agency|教师能动性]]为核心的多维整合[[Paradigm|范式]]。

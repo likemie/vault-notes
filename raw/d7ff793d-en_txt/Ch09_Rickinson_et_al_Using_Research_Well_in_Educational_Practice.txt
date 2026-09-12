@@ -1,0 +1,1086 @@
+================================================================================
+Chapter: Using research well in educational practice
+Author(s): Mark Rickinson, Lucas Walsh, Joanne Gleeson, Blake Cutler, Connie Cirkony and Mandy Salisbury
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part III: New approaches to understanding research use
+Book Pages: pp. 182–199
+PDF Pages: pp. 184–201 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 184 / Book Page 182] ---
+
+9 Using research well in educational
+practice
+
+Mark Rickinson, Monash University, Australia
+Lucas Walsh, Monash University, Australia
+Joanne Gleeson, Monash University, Australia
+Blake Cutler, Monash University, Australia
+Connie Cirkony, Monash University, Australia
+Mandy Salisbury, Monash University, Australia
+
+International efforts to improve the use of educational research raise
+important questions about what it means to use research well in
+educational practice. To date, there has been wide-ranging debate about
+what counts as quality evidence, but very little dialogue about what counts
+as quality use. This chapter focuses on this idea of quality use (or using
+research well) and explores how it can be conceptualised, what it involves
+in practice, and how it can be supported. It draws on findings emerging
+from a five-year study of research use in Australian schools, which has
+involved a systematic review of international research as well as surveys
+and interviews with over 900 educators. The findings presented provide a
+frame with which to review current approaches to using and supporting
+research use. The work overall highlights the value of practitioner
+perspectives and the need for more work on using research well in
+education.
+
+--- [PDF Page 185 / Book Page 183] ---
+
+Introduction
+Internationally there are widespread efforts to improve the use of research evidence across many sectors
+(Boaz et al., 2019[1]). Education has been very much part of such trends, with the “global push to bolster
+the connections between research and practice” (Malin et al., 2020, p. 1[2]). The Emerald Handbook of
+Evidence-Informed Practice in Education (Brown and Malin, 2022[3]), for example, outlines developments
+within more than 20 different countries. Earlier edited collections (e.g. Finnigan and Daly (2014[4]); Gorard
+(2020[5]); Levin et al. (2013[6])) painted a similar picture of evidence-related developments across varied
+countries.
+These kinds of developments raise important questions about what it means to use research well in
+education. As Parkhurst (2017, p. 170[7]) argues in the field of policy, “To improve the use of evidence in
+policy requires an explicit engagement with the question of what constitutes better use from a political
+perspective” [original emphasis]. This is about a subtle but important shift from a focus on the quality of
+the evidence towards a focus on the quality of the use.
+This distinction is important because improved evidence use in education requires clarity about not only
+what counts as quality evidence but what counts as quality use. To date, there has been wide-ranging
+debate about the former but very little dialogue about the latter. There is a well-developed literature around
+understanding and appraising the quality of different kinds of evidence (e.g. Cook and Gorard (2007[8]);
+Freeman et al. (2007[9]); Nutley, Powell and Davies (2013[10]); Puttick (2018[11])) but little in the way of an
+equivalent for understanding and appraising the quality of different kinds of use.
+Overlooking quality of use relative to quality of evidence is problematic. Most fundamentally, it fails to
+challenge the tendency for efforts to focus more on the communication and synthesis of research findings
+and less on supporting the uptake and application of such evidence (see for example, Gough, Maidment
+and Sharples (2018[12])). In a similar way, discussions about quality in relation to evidence use can become
+too easily framed as a research/supply issue more than a use/demand issue. This can lead to systemlevel developments focusing heavily on creating access to valid and reliable evidence but saying little about
+how to support intelligent use of that evidence.
+Against this backdrop, this chapter introduces and explores the idea of “quality use of research” or using
+research well. It presents insights emerging from an ongoing five-year study, the Monash Q Project, to
+understand and improve research use within Australian schools. The discussion covers three aspects of
+quality use of research: (i) how it can be conceptualised; (ii) what it involves in practice; and (iii) how it can
+be supported. The ideas presented are underpinned by a cross-sector systematic review and narrative
+synthesis of relevant international research as well as surveys and interviews with over 900 Australian
+educators.
+We are aware that practice can be informed by many different types of evidence such as research-based
+evidence, practice-based evidence and data-based evidence (Nelson and Campbell, 2019[13]). We are also
+aware that practitioners’ research engagement can involve engagement in (doing) research and
+engagement with (using) research (Bell et al., 2010[14]; Prendergast and Rickinson, 2019[15]). The ideas
+presented in this chapter, though, are focused on a particular type of evidence, namely research evidence,
+and a particular kind of research engagement, namely using research. By “research evidence”, we mean
+evidence generated through systematic studies undertaken by universities or research organisations and
+reported in books, reports, articles, research summaries, training courses or events (Nelson et al., 2017[16]).
+By “using research”, we mean the process of actively engaging with and drawing on research evidence to
+inform, change and improve decision making and practice (Coldwell et al., 2017[17]).
+The remainder of the chapter is presented in five main sections. We begin by explaining the research
+processes of the Monash Q Project that underpin the ideas and insights discussed. We then discuss the
+framing of quality use in terms of the Quality Use of Research Evidence (QURE) Framework. Next, we
+look into quality use in practice in terms of educators’ perspectives on using research well. We then
+
+--- [PDF Page 186 / Book Page 184] ---
+
+consider the question of how quality use can be supported within schools, drawing again on the
+experiences of educators. Finally, we conclude by summarising the key arguments of the chapter and
+discussing their implications for strengthening the quality use of research evidence in education.
+
+Monash Q Project
+The Monash Q Project is a five-year study to understand and improve the use of research in Australian
+schools. A partnership between Monash University and the Paul Ramsay Foundation, it involves close
+collaboration among teachers, school leaders, policy makers, researchers, research brokers and other key
+stakeholders across Australia. To date, the main research activities have included a systematic review and
+narrative synthesis in order to develop a conceptual framework of quality use, and empirical investigation
+in order to explore educators” perspectives on quality use in practice (see Box 9.1).
+
+Box 9.1. Monash Q Project: Study methodology
+Systematic review and framework development
+The early phase of the project in 2019 involved a systematic review and narrative synthesis of relevant
+literature in health, social care, policy and education in order to define what “quality use of research”
+might mean in education. The aim was to explore if and how quality of research use had been defined
+and described within each of the sectors. The selected publications provided the basis for four narrative
+syntheses that addressed how quality of evidence use had been defined, described and conceptualised
+within each sector. Thematic analysis was then undertaken to identify similarities and differences
+between the four narratives as the basis for the development of the Quality Use of Research Evidence
+(QURE) Framework, which is discussed in the next section. Throughout the development of the
+framework, the research team shared evolving ideas about quality research use with project partners
+and stakeholders through meetings, workshops and conferences. This feedback from stakeholders
+informed the development and refinement of the framework (see Rickinson et al. (2017[18]) for full
+details).
+
+Empirical investigation with educators
+Building on the conceptual analysis and framework development, the project’s school-based research
+phase commenced in 2020 with a number of surveys and interviews conducted between March 2020
+and October 2021. These research activities aimed to explore educators’ perceptions and use of
+research in their practice; The enablers and barriers affecting research use as well as what educators
+believe is involved in using research well. This chapter reports quantitative and qualitative findings from
+27 in-depth interviews as well as two surveys involving a total of 906 educators from 4 Australian states
+(Queensland [QLD], New South Wales [NSW], Victoria [VIC] and South Australia [SA]). Survey 1
+explored perceptions and use of research in practice and was completed by 492 educators; Survey 2
+explored research-use enablers and barriers and was completed by 414 educators; and the in-depth
+interviews explored views on using research well and involved 27 educators (see Annex A for sample
+and analysis details, or Rickinson et al. (2021[19]) and Walsh et al. (2022[20]) for additional information).
+Source: Rickinson, M. et al. (2017[18]), “What can evidence-use in practice learn from evidence-use in policy?”, Educational Research,
+Vol. 59/2, pp. 173-189; Rickinson, M. et al. (2021[19]), Using Research Well in Australian Schools; Walsh, L. et al. (2022[20]), What, Why,
+When and How: Australian Educators’ Use of Research in Schools.
+
+--- [PDF Page 187 / Book Page 185] ---
+
+The following three sections introduce our definition of quality use and explain the components of the
+QURE Framework; explore educators’ perspectives on quality use in practice; and highlight how quality
+use can be supported in schools.
+
+Quality use of research: The QURE Framework
+The cross-sector systematic review and narrative synthesis (Box 9.1) found a definite lack of explicit
+definitions or descriptions of quality of evidence use across all sectors. With a few important exceptions
+(e.g. Earl and Timperley (2009[21]); Parkhurst (2017[7]); Rutter and Gold (2015[22]); Sackett et al. (1996[23])),
+well-developed articulations or discussions about what “using research well” means or involves were not
+found. In all sectors, though, there were lines of thinking that touched on quality use indirectly, often in
+connection with evidence-use improvement or capacity building (Rickinson et al., 2021[19]). Drawing on
+these ideas, a framing of high-quality use of research was developed as:
+… thoughtful engagement with and implementation of appropriate research evidence, supported by a blend of
+individual and organisational enabling components within a complex system (Rickinson et al., 2020, p. 5[24]).
+As shown in Figure 9.1, this definition sees quality use as comprising:
+
+
+two core components (appropriate research evidence and thoughtful engagement and
+implementation)
+
+
+
+three individual enabling components (skillsets, mindsets and relationships)
+
+
+
+three organisational enabling components (culture, leadership and infrastructure)
+
+
+
+system-level influences.
+
+The following sections now elaborate on each of these different parts of the QURE Framework, drawing
+on key ideas from the literature and, where relevant, some brief practical examples.
+
+Core components
+At the centre of the QURE Framework are two aspirations: for the research evidence to be appropriate,
+and for the engagement and implementation to be thoughtful. It is important to stress that these two core
+components are highly interconnected in the sense that coming to appropriate evidence will depend on
+thoughtful engagement, and engaging and implementing thoughtfully will depend on the evidence being
+appropriate.
+“Appropriate research evidence” is about emphasising the context-specific nature of quality evidence.
+From a use perspective, quality research evidence needs to be not only methodologically rigorous but also
+appropriate for the educational issue, the context and the intended use. As Nutley and colleagues (2013,
+p. 6[10]) argue: “Evidence quality depends on what we want to know, why we want to know it and how we
+envisage that evidence being used.”
+“Thoughtful engagement and implementation”, meanwhile, reflects educators’ critical engagement with the
+research evidence, shared deliberation about its meaning, and effective integration of aspects of the
+evidence within practice. According to Coburn, Honig and Stein (2009, p. 71[25]), research evidence “does
+not speak for itself” and so educators must actively “interpret and make meaning of it in order to use it”.
+Research evidence does not replace professional expertise, rather, using evidence well involves
+integrating “professional expertise with the best external evidence from research” (Sharples, 2013, p. 7[26]).
+
+--- [PDF Page 188 / Book Page 186] ---
+
+Figure 9.1. Quality Use of Research Evidence (QURE) Framework
+
+Source: Rickinson, M. et al. (2020[24]), Quality Use of Research Evidence Framework, pp. 6(24).
+
+Individual enabling components
+It will be clear from what has been said about the core components that high-quality evidence use is a
+sophisticated undertaking. At an individual level, it requires educators with particular skillsets, mindsets
+and relationships in order to thoughtfully engage with and implement research that is appropriate to their
+intended use and setting (see Box 9.2).
+“Skillsets” refer to the significant knowledge and capabilities involved in being able to translate, apply and
+sustainably implement evidence-informed decisions and approaches in specific contexts. Specifically, this
+involves being able to access research, assess its quality, and understand research approaches and
+methods (Brown and Greany, 2018[27]; Earl, 2015[28]; Nelson and O’Beirne, 2014[29]; Stoll et al., 2018[30]).
+More broadly, this involves educators’ abilities to draw on their professional judgement (Coldwell et al.,
+
+--- [PDF Page 189 / Book Page 187] ---
+
+2017[17]) and combine their understanding of context and existing practice with the research (Spencer,
+Detrich and Slocum, 2012[31]).
+Alongside skillsets, “mindsets” are the dispositions, attitudes, and values that are required to use research
+well. For example, educators with a disposition towards evidence use have a questioning mind (Earl,
+2015[28]), a conscious motivation to engage with research (Stoll et al., 2018[30]), and an awareness of their
+own biases and assumptions (Earl, 2015[28]; Evans, Waring and Christodoulou, 2017[32]; Spencer, Detrich
+and Slocum, 2012[31]). Using evidence is not simply a technical activity, it is influenced by personal and
+professional values and beliefs (Nelson and Campbell, 2017[33]).
+In addition to skillsets and mindsets, “relationships” refer to the interpersonal processes and connections
+that are required for quality research use. Using research well is not an isolated, individual activity. Rather,
+viewing and supporting evidence use as a social process requires collective learning and responsibility
+(Earl, 2015[28]) along with genuine and structured collaboration both within and across schools (Greany
+and Maxwell, 2017[34]; Park, 2018[35]).
+
+Box 9.2. Alex’s story – Individual enablers in action
+Alex is a specialist teacher at a small government primary school where many of the students come
+from highly disadvantaged backgrounds. He is passionate about being a “curious, adventurous and
+proactive” user of research, particularly in relation to understanding how to best support his students
+who have a disability, are living in poverty, and/or are experiencing trauma.
+Alex accesses research from a wide variety of sources, including academic databases, university
+researchers as well as research translation services within his state-based Department of Education.
+He also examines whether the research is “fit for purpose” in a number of ways, including in relation to
+surveys of colleagues’ professional development needs, his school’s improvement agenda, and
+standards of evidence published by his Department of Education. As he explains:
+You need to ask: ‘Am I getting an outcome?’, ‘How well does this fit in my context?’, and ‘How likely is it
+that my colleagues and I will be able to implement the research or evidence properly?’
+After finding research that goes “hand in hand” with his intended purpose for using it, Alex works closely
+with his principal, Phoebe, to support their colleagues to engage with this research in professional
+learning teams. Alex also supports teachers to trial research-informed changes in the classroom and
+collect data to determine the effectiveness of these interventions.
+Alex’s story demonstrates the individual enablers of: skillsets in how he accesses, appraises, and
+implements research that is fit for his specific purpose and context; mindsets given his belief in the
+value of using research and his questioning mind to ensure that it is appropriate; and relationships
+because of how he collaborates with his principal and colleagues via professional learning teams.
+
+Organisational enabling components
+At an organisational-level, quality use of research also requires organisational contexts with supportive
+leadership, culture and infrastructure. Together, these organisational enablers provide educators with the
+conditions and resources to thoughtfully engage with research in their context (see Box 9.3).
+“Leadership” is about the organisational vision, commitments and role models that support and encourage
+quality research use. At the school level, leadership has been identified as a key leverage point for
+developing and modelling a research-engaged school culture (e.g. Dyssegaard, Egelund and Sommersel
+(2017[36]); Godfrey (2019[37]); Nelson and Campbell (2019[13])). In highly research-engaged schools in the
+
+--- [PDF Page 190 / Book Page 188] ---
+
+United Kingdom, for example, senior leaders were found to “play a key role, acting as intermediaries and
+facilitators of access to, engagement with and use of research evidence, for staff in their schools” (Coldwell
+et al., 2017, p. 7[17]).
+Closely entwined with leadership is organisational “culture”, which is about the organisational ethos, values
+and norms. There is a need for evidence use to be a cultural norm that is embedded within an
+organisation’s “outlook, systems and activity” (Handscomb and MacBeath, 2003, p. 10[38]). This involves,
+for instance, promoting research use within whole-school policy and planning documents (Brown and
+Greany, 2018[27]; Stoll et al., 2018[30]; Tripney et al., 2018[39])Critically important is an ethos that encourages
+staff to regularly reflect on their practice as well as take risks and try different approaches based on
+evidence (Brown, Schildkamp and Hubers, 2017[40]).
+Quality use also depends on “infrastructure”; that is, the organisational structures, resources and
+processes to support research use. There is a need for measures such as: the allocation of time, space,
+facilities and budget; the creation of school-based research coordinators or champions; the establishment
+of links with external research partners and networks; and the development of formal and informal
+processes to support staff learning and deliberation about research and practice (Cain, 2019[41]).
+
+Box 9.3. Genevieve’s story – Organisational enablers in action
+Genevieve is a classroom teacher at a small government school for students with physical and
+intellectual disabilities. One of the core improvement priorities at her school is better using researchinformed strategies to support students’ learning.
+Genevieve explains how her principal, Kerrie, is very “hands on” and each week, individually meets with
+every teacher for an hour to unpack research, think about how it could be used in their classroom, and
+address any potential difficulties that they may face. Kerrie has also established professional learning
+communities that allow teachers and teacher aides to regularly meet and plan a common approach for
+making research-informed changes across the school:
+[We have] that time to sit down as a group to be able to talk about things, to explain things, and to go
+through the bits of research. … That gives people the chance to ask if they’re not sure … [and] not just
+have it squished in a staff meeting
+At the same time, Genevieve engages with other schools in her region to understand and trial different
+research-informed strategies and report back on their findings. Her regional office also provides access
+to research and regularly sends an advisor to help Genevieve and her colleagues adapt the research
+and consider what improvements could be made.
+Genevieve’s story demonstrates the organisational enablers of: leadership because of how her
+principal is “hands on” in supporting teachers to engage with research; culture given how research is
+embedded into whole-school priorities and regular staff meetings; and infrastructure through
+establishing structured time and external partnerships to support the improved use of research.
+
+System-level influences
+“System-level influences” take account of the complex interactions and interdependencies across the
+education sector that are needed to support thoughtful engagement with and implementation of appropriate
+research evidence. There is growing support for understanding and improving evidence use through
+system-wide approaches, which focus on building connections between evidence generation, synthesis,
+distribution and use to form effective “evidence ecosystems” (Boaz and Nutley, 2019, p. 251[42]; Sharples,
+2013[26]). There is also increasing awareness of the need to consider the “wider political and societal
+
+--- [PDF Page 191 / Book Page 189] ---
+
+systems” (Gough, Maidment and Sharples, 2018, p. 11[12]) and the (often limiting) impact that other system
+influences such as accountability policies and improvement priorities can have on evidence use in schools
+(Godfrey, 2019[37]). At the same time, system leaders can enable broad support for evidence use by
+prioritising research use at the board, district or central office level (Education Endowment Foundation,
+2019[43]; Farley-Ripple et al., 2018[44]) and by providing funding to support the creation of evidenceinformed cultures and infrastructures (Nelson and Campbell, 2019[13]).
+
+Practising quality use
+The role of educators’ voices in helping to move models of research use beyond the theoretical have been
+acknowledged within relevant literature (e.g. Boaz and Nutley (2019[42]); Oliver, Lorenc and Innvær
+(2014[45])). In our work, educators’ responses have helped to ground the QURE Framework in practical
+perspectives and to shed light on what is involved in practising quality research use. Overall, educators’
+interview and survey responses indicated that how well research is used is an issue that matters to
+teachers and school leaders (Rickinson et al., 2021[19]). When talking about research use in practice,
+educators were strong in their views that quality research use needed to be intentional and purposeful. It
+needs to be aimed at bringing about positive change in students’ learning and outcomes, school
+performance and/or educators’ own knowledge, practice and professionalism.
+These views, however, were expressed by educators in different ways. Firstly, educators used emotive
+language and expressions to describe quality research use in their schools. The language used suggested
+the importance of using research and the positive contribution it can make to their work. For example,
+one primary school leader expressed their passion for research use as follows:
+I love research, I just think it has such a positive impact. And I think that if you can prove that it works…then
+that’s what you should be using. (Interview response, Senior Leader, Government Primary School)
+Secondly, educators had clear views not only about using research well but also using research poorly.
+These descriptions provided rich insights into the dimensions of quality research use that mattered to them
+as well as the complex nature of quality use in practice. Table 9.1 shows examples of educators’ different
+descriptions, highlighting how each dimension of research use was discussed both in relation to quality
+use and poor use.
+
+Table 9.1. Examples of quotes about quality research use and poor research use from educators'
+interviews and responses to Survey 1
+Dimensions of research use
+
+Quality research use quotes
+
+Poor research use quotes
+
+The research
+
+Quality research use involves “a strong research
+basis. For example, either a history or there are
+multiple researchers in the field who are affirming
+[an] appropriate teaching practice based on
+research. [Or] clear impact has been shown over
+time”.
+Interview response, Senior Leader, Independent
+P-12 School
+
+Poor research use involves “research that “fits” a
+particular trend or fad that doesn’t have any
+evidence of improving student learning. Something
+found on Twitter that has not been looked at
+critically”.
+Survey response, Senior Leader, Government
+Primary School
+
+The user’s mindset
+
+Quality research use means “to keep an open-mind
+and not be biased, but still having a focus and a
+particular lens when searching for, reading and
+discussing research. It means to not jump so quickly
+into agreeing or disagreeing with the evidence”.
+Survey response, Senior Leader, Government
+Primary School
+
+Poor research use means “teachers only seeking
+research that fits their beliefs, resulting in a static
+state of mind where there is no room to learn”.
+Survey response, Education Support Staff,
+Government Secondary School
+
+--- [PDF Page 192 / Book Page 190] ---
+
+Dimensions of research use
+
+Quality research use quotes
+
+Poor research use quotes
+
+The school leadership
+
+Quality research use is when “leaders collaborate
+with teachers to gather research to help design
+systems and structures in line with the school’s
+vision”.
+Survey response, Teacher, Government Primary
+School
+
+Poor research use is when “someone in power gets
+a bee in their bonnet about a new research idea and
+foists it on the entire school community with no
+ownership or engagement”.
+Survey response, Teacher, Government
+Secondary School
+
+The outcomes
+
+Quality research use leads to “reduced pressure on
+both teachers and students”.
+Survey response, Teacher, Independent P-12
+School
+
+Poor research use leads to “unhappy staff, low
+student progress, and complacency”.
+Survey response, Teacher, Government Special
+School
+
+Thirdly, from the ways in which educators described quality research use, six key characteristics became
+clear across our interview and survey data. For educators, quality research use needs to be: purposeful,
+embedded, connected to teacher professionalism, collective, time and effort dependent, and curiositydriven (see Table 9.2). These characteristics were selected as key because of the powerful ways in which
+they featured in educators’ responses as well as how often they were referenced within the interviews and
+surveys (Rickinson et al., 2021[19]).
+
+Table 9.2. Key characteristics of quality research use from educators’ responses in interviews and
+Survey 1
+Quality research use characteristics
+
+Educator quote examples
+
+Purposeful
+ There is purpose in both research use intent and individuals” behaviours.
+ There is direction about intended practice change, with clear and transparent
+rationale for both the research itself and its use. Research use decisions and
+actions are shaped by the context of the practice, students or the school
+environment.
+
+“It starts at the top…and that’s our decision for the whole
+school. And it’s transparent and we make sure that all staff
+have an understanding of what’s expected [when using
+research]”.
+Interview response, Senior Leader, Government
+Primary School
+
+Embedded
+ It is an intrinsic part of the school’s culture or environment.
+ It is embedded in practice, school processes and schedules, such as planning
+and review cycles, informal and formal discussions, and decision making.
+
+“Using research well means it’s intrinsic in your
+approach…we talk research all the time”.
+Interview response, Senior Leader, Government
+Primary School
+
+Connected to teacher professionalism
+ Research use is seen as a professional expectation.
+ It is associated with improvements in teaching practice and student outcomes,
+educators’ own teaching skills, confidence and knowledge, and school
+performance and credibility.
+
+“For me, to feel like I’m doing my job well, I have to do that
+professional reading [of research] that informs my practice,
+so I know that practice deeply and I know that what I’m
+doing is the right thing to do”.
+Interview response, Senior Leader, Government
+Primary School
+
+Collective
+ There is collective engagement in the use of research.
+ This involves staff consultation and buy-in to research use-related decisions and
+processes, group discussions, debate and reflection about research use and
+outcomes, and a research-use school culture that is collaborative and
+trustworthy.
+
+“It’s not about me [the school leader]. It’s about the
+collective and empowering staff to get on board with the
+research”.
+Interview response, Senior Leader, Catholic Secondary
+School
+
+Time and effort dependent
+ Time and effort are dedicated and taken within school hours to use research.
+ Taking the time to engage with research deeply and carefully, experimenting with
+research, and evaluating different practice approaches and outcomes is valued
+within the school culture.
+
+“Because we live in this fast-paced way that we work and
+schooling … I think that the concept of slowing down to
+then help you speed up is something that we might need to
+do”.
+Interview response, Senior Leader, Government
+Primary School
+
+Curiosity-driven
+ Being curious and inquisitive involves individuals having a growth mindset and
+being open-minded to new knowledge through research use.
+
+“Number one disposition is being curious. I keep using the
+word “inquiry”...having the willingness to go forward with
+inquiry-oriented action into exploring what that research is.”
+Interview response, Senior Leader, Government
+
+--- [PDF Page 193 / Book Page 191] ---
+
+Quality research use characteristics
+ There is a school culture of questioning practice and looking to improve teaching
+and outcomes through research use.
+
+Educator quote examples
+Primary School
+
+Finally, there were clear differences between the ways in which teachers and school leaders responded to
+questions about using research well or poorly. The main difference between teachers’ and school leaders’
+responses was the criticism that each levelled at others for poor research use. Teachers appeared more
+explicitly critical of school leaders when research was not used well, with responses indicating a need for
+or expectation of school leaders to guide and involve others when using research. One teacher, for
+example, described poor research use as:
+When research is used to make decisions by those at the top without giving teachers an opportunity to consider
+the evidence and to discuss its implications. (Survey response, Teacher, Independent P-12 School)
+School leaders’ responses, meanwhile, tended to be less explicitly critical of others, although there were
+some occasions where teachers were blamed for research use being used poorly. For example:
+Poor research use occurs when teachers disregard the research, and do not simply ‘give it a go’. (Survey
+response, Senior Leader, Catholic Primary School)
+These different perspectives on using research well or poorly highlight the critical role of school-level
+support in improving the use of research in practice.
+
+Supporting quality use
+Overwhelmingly, educators’ survey and interview responses indicated that using research well was
+enabled within a school by the intentions and actions of school leaders. Educators indicated that school
+leaders could be instrumental in making quality research use a “normal” part of how a school performs in
+three main ways:
+1. Creating a positive and trusting research-engaged school culture that includes them, as leaders,
+role-modelling research-engaged mindsets and behaviours.
+2. Helping teachers and staff to develop their research use-related skills and knowledge.
+3. Providing school resources, processes and schedules that support research use (Gleeson et al.,
+2020[46]; Rickinson et al., 2021[19]).
+Firstly, in Survey 1 and interviews, educators emphasised the importance of leadership for quality research
+use (referenced in 89% of interviews and 72% of surveys) and highlighted the connection between effective
+leadership and a research-engaged school culture (96% of interviews, 40% of surveys). Building on this,
+educators in Survey 2 identified specific aspects of a school culture that were seen as critical for supporting
+increased and improved use of research in practice. These included “trusted staff-leadership relationship”
+(seen as important by 82%) and a “culture of knowledge sharing” (81%).
+Notably, each of these aspects were important to both leaders and teachers. For example, whether
+“leaders demonstrated, and role modelled research use and implementation” was valued by 84% of
+leaders and 73% of teachers. As one survey respondent explained:
+Leaders should not only quote what the ‘research says’, they have to walk the talk and model its
+implementation. (Survey response, Teacher, Catholic Primary School)
+Secondly, educators looked to leaders for support with their research use-related skill and confidence
+development. In their responses to Survey 1 and the follow-up interviews, educators associated several
+key skills with quality research use including: “research skills”, involving capabilities to find, read, interpret
+and critique research (referenced in 81% of interviews and 85% of surveys); “relational skills”, involving
+
+--- [PDF Page 194 / Book Page 192] ---
+
+capabilities to mentor others and network for improved research use (52% of interviews, 21% of surveys);
+“thinking skills”, involving “forward thinking”, problem-solving and reflective capabilities (44% of interviews,
+56% of surveys); and “data literacy skills”, involving capabilities to collect and analyse data (22% of
+interviews, 11% of surveys).
+In Survey 1, a number of educators indicated that they lacked confidence in their capabilities to “judge the
+quality of research” (44% lacked confidence) and “analyse and interpret research” (32%), while 64%
+indicated struggling to “find relevant research”. Consistent with previous studies (e.g. Dagenais et al.
+(2012[47]); van Schaik et al. (2018[48])), educators who were not confident to “judge the quality of research”
+were significantly less likely to regularly use research in practice compared with educators who were
+confident to “judge the quality of research” (see Annex A for details of statistical methods).
+Similar responses were also seen in Survey 2 where just over a third (36%) felt that research use was not
+worthwhile because the research was “being described in a way that could not easily be used or applied
+to practice”. As a result, educators’ most critical development needs were about how to “identify issues
+where research could help” (43% ranked in top 5 needs, 1st ranked overall), “assess the usability of
+research” (42%, 2nd ranked), and “assess research for contextual relevance and fit” (41%, 3rd ranked).
+Given these findings, it is unsurprising that Professional Learning (PL) was reported as a priority for school
+and system leaders to address. In the second survey, just over two-thirds of educators (68%) indicated
+that it was “important” or “very important” for schools to provide “internal collaborative learning
+opportunities and/or structured professional learning communities”. Furthermore, educators who indicated
+the adequate provision of internal PL opportunities within their school were significantly more likely to report
+regularly using university research and/or university guidance in their practice compared with educators
+who indicated a lack of adequate provision of such opportunities within their school. This statistically
+significant relationship was also seen in relation to external (beyond school) PL opportunities (see Annex
+A for details of statistical methods).
+Finally, educators stressed the need for school leaders to provide school resources, processes and
+schedules to support quality research use. Specifically, their responses highlighted the provision of
+sufficient time to engage with research while at school as a priority issue for school leaders to address.
+Educators reported that finding sufficient time to use research was a prominent challenge. In Survey 1, the
+majority of educators (76%) did not feel that they had “adequate time to engage with research” and the
+same percentage reported struggling to “keep up with new research” (76%). Unsurprisingly, educators who
+felt that they lacked “adequate time to engage with research” were significantly less likely to report regularly
+using research in their practice compared with those educators who felt that they did have sufficient time
+to engage with research (see Annex A for details of statistical methods).
+The challenges in finding sufficient time for research use were also striking in educators’ responses in
+Survey 2, with nearly two-thirds of respondents (61%) indicating that using research was not worthwhile
+because of the “significant time needed to access, read and put research into practice”. For educators who
+used research during the school term, 81% indicated doing so at school during work hours. However, they
+also used their own time, with many engaging with research at home after school (59%) and/or at home
+on weekends (69%). While educators indicated that it was important for schools to provide structured time
+to engage with research (e.g. 72% of Survey 2 indicated it was “important” or “very important” to “build
+time into staff schedules”), they also highlighted the need for system actors such as state and federal
+Departments of Education to address workload pressures and insufficient teaching resources in schools
+to help free time to engage with research. For example:
+It raises questions around [the] issues with our system. … Time is the biggest issue because we have some
+very well-intentioned staff who want to try [using research] but feel so burdened by the documentation and
+administrative requirements [of the profession]. (Interview response, Middle leader, Catholic Secondary
+School)
+
+--- [PDF Page 195 / Book Page 193] ---
+
+Conclusion and implications
+Our purpose in this chapter was to introduce and explore the idea of “quality use of research evidence” or
+using research well. This idea comes against a backdrop of growing efforts to improve the use of
+educational research internationally, which can be seen to raise important questions about what “using
+research well” in education means and involves. To date, however, such questions have been little
+discussed. As explained at the outset, there is a well-developed literature around understanding and
+appraising the quality of different kinds of evidence but little in the way of an equivalent for understanding
+and appraising the quality of different kinds of use.
+In response, this chapter has shared conceptual understandings and empirical insights in relation to
+framing, practising and supporting quality use. In summary, it has argued that:
+
+
+Quality use of research evidence in education can be defined as “thoughtful engagement with and
+implementation of appropriate research evidence supported by a blend of individual and
+organisational enabling components and system-level influences”.
+
+
+
+Educators have strong views on what using research well involves in practice and emphasise the
+importance of it being purposeful, embedded, connected to teacher professionalism, collective,
+time and effort dependent, and curiosity-driven.
+
+
+
+Educators make clear that using research well does not happen in a vacuum but requires schoollevel support, in particular, research-engaged leadership and culture, research-related professional
+learning opportunities and most importantly, time provision for engagement with research.
+
+Based on these main arguments, we see four potential implications for individuals and organisations
+interested in strengthening the role of research within school and system improvement. This includes
+teachers, school leaders, system leaders, teacher educators, policy makers, funders, researchers and
+research brokers, and the organisations, networks and systems within which they work.
+
+Focus on evidence utilisation (pull) as well as evidence production (push)
+Firstly, the ideas in this chapter can provide a frame with which to review current efforts to support evidence
+use. The idea of quality use, for example, highlights the need for system-level developments that not only
+create access to valid and reliable evidence but also support productive use of that evidence. There is a
+reported tendency, even among evidence brokerage organisations, to focus on “a research production
+(push) approach to the use of research rather than a problem-solving, demand-led (pull) approach”
+(Gough, Maidment and Sharples, 2018, p. 7[12]). The concept of quality use, then, can be a stimulus for
+reviewing the balance between efforts to improve the production and availability of high-quality research
+evidence (push) and efforts to improve the capacity of policy makers and practitioners to use it productively
+(pull). Similarly, the enabling components of the QURE Framework can encourage educational leaders of
+all kinds to think carefully about how well they are modelling and fostering the development of:
+
+
+Education professionals with not only the knowledge and capabilities to understand research but
+also the dispositions and values to be open to its meaning and the capacity to work with others to
+figure out how to use it in context.
+
+
+
+Education organisations with not only the structures and processes to enable staff to engage with
+evidence but the ethos and values to make this a cultural norm, and the leadership and commitment
+to demonstrate and promote its significance.
+
+
+
+Education systems that support quality evidence use not only within specific individuals, institutions
+or contexts but also through coordinated interventions across multiple levels and with varied key
+stakeholders.
+
+--- [PDF Page 196 / Book Page 194] ---
+
+In connection with all of the above, educators’ perspectives on using research well highlight the importance
+of reviewing the extent to which school-level supports prioritise protected time through formal and informal
+processes, and the ongoing development of skills and confidence through professional learning.
+
+Move the conversation from whether we use evidence to how well we use evidence
+Secondly, the ideas presented in this chapter can be a stimulus for reflection on current approaches to
+using evidence. At a general level, these ideas can encourage us to think carefully about: how willing we
+are to move from talking about whether we use evidence to talking about how well we use evidence; and
+how interested we are in improving not just the quality of our evidence but also the quality of its use. More
+specifically, the core components of the QURE Framework and the six characteristics of quality use in
+practice can be seen as an invitation to reflect honestly on current approaches to:
+
+
+Practising evidence use – How curious are we about the “appropriateness” of our evidence, and
+the “thoughtfulness” of our engagement and implementation of that evidence?
+
+
+
+Developing evidence use – How serious are we about our evidence use being “purposeful”,
+“curiosity-driven” and “connected to professionalism”?
+
+
+
+Leading evidence use – How focused are we on enabling evidence use that is “embedded”,
+“collective” and “time and effort dependent”?
+
+Support evidence use as a practice and listen to the views of practitioners
+Thirdly, the ideas within this chapter underline the value of practitioner perspectives for understanding and
+improving evidence use. Several authors have pointed out a lack of work focused on the practice and
+practitioners of evidence use. Farley-Ripple et al. (2018, p. 236[44]), for example, describe how “little
+attention has been paid to the practice of evidence use” within education, with the result that “what
+practitioners actually do and use when engaging with research” is not well understood. Along similar lines,
+Lomas and Brown (2009, p. 914[49]) note that most models of research use in policy “address the role of
+the researcher trying to get his or her research used more than that of the civil servant trying to do the
+using”. With these kinds of concerns in mind, the work reported in this chapter can be seen as an attempt
+to explore not just what using research well means conceptually but also what it involves practically in
+terms of teachers’ and school leaders’ experiences and perspectives. The findings reported here are, of
+course, at an early stage and there is much more to be done but the more general point is that evidence
+use as a field needs far more work that is focused on the practices and perspectives of the users of
+evidence.
+
+Build international understanding of high-quality evidence use
+Finally, the insights shared within this chapter can be a stimulus for increased work on the quality of
+evidence use. Some five years ago, we argued that there was “real potential in coming years for more
+sustained exploration of the quality and qualities of evidence use within [...] educational practice and policy”
+(Rickinson et al., 2017, p. 187[18]). The work reported in this chapter is a first attempt to initiate this kind of
+exploration within one geographical context but we hope it can help to stimulate future similar studies of
+what using research well looks like in practice in other countries and/or systems. Writing several years
+ago, Qi and Levin (2013, p. 19[50]) reported that “knowledge mobilisation in the field of education is still a
+relatively new area”. While much has changed since the time of that statement, we would argue that the
+“relatively new area” description is still true for our understanding of quality use of research in practice and
+how best to support it.
+
+--- [PDF Page 197 / Book Page 195] ---
+
+References
+Bell, M. et al. (2010), Report of Professional Practitioner Use of Research Review: Practitioner
+Engagement In and/or With Research, CUREE, GTCE, LSIS & NTRP, Coventry,
+http://www.curee.co.uk/node/2303.
+
+[14]
+
+Boaz, A. et al. (eds.) (2019), What Works Now? Evidence-Informed Policy and Practice, Policy
+Press.
+
+[1]
+
+Boaz, A. and S. Nutley (2019), “Using evidence”, in Boaz, A. et al. (eds.), What Works Now?
+Evidence-Informed Policy and Practice, Policy Press, Bristol.
+
+[42]
+
+Braun, V. and V. Clarke (2006), “Using thematic analysis in psychology”, Qualitative Research in
+Psychology, Vol. 3/2, pp. 77-101.
+
+[51]
+
+Brown, C. and T. Greany (2018), “The evidence-informed school system in England: Where
+should school leaders be focusing their efforts?”, Leadership and Policy in Schools, Vol. 17/1,
+pp. 115-137.
+
+[27]
+
+Brown, C. and J. Malin (eds.) (2022), The Emerald Handbook of Evidence-Informed Practice in
+Education, Emerald Publishing Limited.
+
+[3]
+
+Brown, C., K. Schildkamp and M. Hubers (2017), “Combining the best of two worlds: A
+conceptual proposal for evidence-informed school improvement”, Educational Research,
+Vol. 59/2, pp. 154-172.
+
+[40]
+
+Cain, T. (ed.) (2019), Becoming a Research-Informed School, Routledge.
+
+[41]
+
+Coburn, C., M. Honig and M. Stein (2009), “What’s the evidence on districts’ use of evidence?”,
+in Bransford, J. et al. (eds.), The Role of Research in Educational Improvement, Harvard
+Education Press.
+
+[25]
+
+Coldwell, M. et al. (2017), Evidence-informed Teaching: An Evaluation of Progress in England,
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_dat
+a/file/625007/Evidence-informed_teaching_-_an_evaluation_of_progress_in_England.pdf.
+
+[17]
+
+Cook, T. and S. Gorard (2007), “What counts and what should count as evidence”, Evidence in
+Education: Linking Research and Policy, pp. 33-49.
+
+[8]
+
+Dagenais, C. et al. (2012), “Use of research-based information by school practitioners and
+determinants of use: A review of empirical research”, Evidence & Policy: A Journal of
+Research, Debate and Practice, Vol. 8/3, pp. 285-309.
+
+[47]
+
+Dyssegaard, C., N. Egelund and H. Sommersel (2017), What Enables or Hinders the Use of
+Research-based Knowledge in Primary and Lower Secondary School – A Systematic Review
+and State of the Field Analysis, https://www.videnomlaesning.dk/media/2176/what-enablesor-hinders-the-use-of-research-based-knowledge-in-primary-and-lower-secondary-school-asystematic-review-and-state-of-the-field-analysis.pdf.
+
+[36]
+
+Earl, L. (2015), “Reflections on the challenges of leading research and evidence use in schools”,
+Institute of Education Press.
+
+[28]
+
+--- [PDF Page 198 / Book Page 196] ---
+
+Earl, L. and H. Timperley (eds.) (2009), “Understanding how evidence and learning
+conversations work”, Professional Learning Conversations: Challenges in Using Evidence for
+Improvement, pp. 1-12.
+
+[21]
+
+Education Endowment Foundation (2019), The EEF Guide to Becoming an Evidence-informed
+School Governor and Trustee,
+https://educationendowmentfoundation.org.uk/public/files/Publications/EEF_Guide_for_Schoo
+l_Governors_and_Trustees_2019.pdf.
+
+[43]
+
+Evans, C., M. Waring and A. Christodoulou (2017), “Building teachers’ research literacy:
+Integrating practice and research”, Research Papers in Education, Vol. 32/4, pp. 403-423.
+
+[32]
+
+Farley-Ripple, E. et al. (2018), “Rethinking connections between research and practice in
+education: A conceptual framework”, Educational Researcher, Vol. 47/4, pp. 235-245,
+https://doi.org/10.3102/0013189X18761042.
+
+[44]
+
+Finnigan, K. and A. Daly (eds.) (2014), Using Research Evidence in Education: From the
+Schoolhouse Door to Capitol Hill, Springer International Publishing.
+
+[4]
+
+Freeman, M. et al. (2007), “Standards of evidence in qualitative research: An incitement to
+discourse”, Educational Researcher, Vol. 36/1, pp. 25-32.
+
+[9]
+
+Gleeson, J. et al. (2020), “Quality leadership, quality research use: The role of school leaders in
+improving the use of research”, Australian Educational Leader, Vol. 42/4, pp. 27-30,
+https://search.informit.org/doi/10.3316/informit.795627890885931.
+
+[46]
+
+Godfrey, D. (2019), “Moving forward – How to create and sustain an evidence-informed school
+ecosystem”, in Godfrey, D. and C. Brown (eds.), An Ecosystem for Research-Engaged
+Schools, Routledge.
+
+[37]
+
+Gorard, S. (ed.) (2020), Getting Evidence into Education: Evaluating the Routes to Policy and
+Practice, Routledge.
+
+[5]
+
+Gough, D., C. Maidment and J. Sharples (2018), UK What Works Centres: Aims, Methods and
+Contexts,
+https://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/UK%20what%2
+0works%20centres%20study%20final%20report%20july%202018.pdf?ver=2018-07-03155057-243.
+
+[12]
+
+Greany, T. and B. Maxwell (2017), “Evidence-informed innovation in schools: Aligning
+collaborative research and development with high quality professional learning for teachers”,
+International Journal of Innovation in Education, Vol. 4/2/3.
+
+[34]
+
+Handscomb, G. and J. MacBeath (2003), The Research Engaged School, Essex: Forum for
+Learning and Research Enquiry (FLARE), Essex County Council, UK.
+
+[38]
+
+Levin, B. et al. (eds.) (2013), The Impact of Research in Education: An International Perspective,
+Policy Press.
+
+[6]
+
+Lomas, J. and A. Brown (2009), “Research and advice giving: A functional view of evidenceinformed policy advice in a Canadian Ministry of Health”, Milbank Quarterly, Vol. 87/4,
+pp. 903-926.
+
+[49]
+
+--- [PDF Page 199 / Book Page 197] ---
+
+Malin, J. et al. (2020), “World-wide barriers and enablers to achieving evidence-informed practice
+in education: What can be learnt from Spain, England, the United States, and Germany?”,
+Humanities and Social Sciences Communications, Vol. 7/1, p. 99.
+
+[2]
+
+Nelson, J. and C. Campbell (2019), “Using evidence in education”, in Boaz, A. et al. (eds.), What
+Works Now? Evidence-Informed Policy and Practice, Policy Press.
+
+[13]
+
+Nelson, J. and C. Campbell (2017), “Evidence-informed practice in education: Meanings and
+applications”, Educational Research, Vol. 59/2, pp. 127-135.
+
+[33]
+
+Nelson, J. et al. (2017), Measuring Teachers’ Research Engagement: Finding from a Pilot Study,
+https://educationendowmentfoundation.org.uk/public/files/Evaluation/Research_Use/NFER_R
+esearch_Use_pilot_report_-_March_2017_for_publication.pdf.
+
+[16]
+
+Nelson, J. and C. O’Beirne (2014), Using Evidence in the Classroom: What Works and Why?,
+National Foundation for Educational Research,
+https://www.nfer.ac.uk/publications/impa01/impa01.pdf.
+
+[29]
+
+Nutley, S., A. Powell and H. Davies (2013), What Counts as Good Evidence,
+http://hdl.handle.net/10023/3518.
+
+[10]
+
+Oliver, K., T. Lorenc and S. Innvær (2014), “New directions in evidence-based policy research: A
+critical analysis of the literature”, Health Research Policy and Systems, Vol. 12, p. 34.
+
+[45]
+
+Parkhurst, J. (2017), The Politics of Evidence: From Evidence-based Policy to the Good
+Governance of Evidence, Routledge.
+
+[7]
+
+Park, V. (2018), “Leading data conversation moves: Toward data-informed leadership for equity
+and learning”, Educational Administration Quarterly, Vol. 54/4, pp. 617-647,
+https://doi.org/10.1177/0013161X18769050.
+
+[35]
+
+Prendergast, S. and M. Rickinson (2019), “Understanding school engagement in and with
+research”, The Australian Educational Researcher, Vol. 46/1, pp. 17-39.
+
+[15]
+
+Puttick, S. (2018), “Student teachers’ positionalities as knowers in school subject departments”,
+British Educational Research Journal, Vol. 44/1, pp. 25-42.
+
+[11]
+
+Qi, J. and B. Levin (2013), “Introduction and overview”, in Levin, B. et al. (eds.), The Impact of
+Research in Education: An International Perspective, Policy Press.
+
+[50]
+
+Rickinson, M. et al. (2017), “What can evidence-use in practice learn from evidence-use in
+policy?”, Educational Research, Vol. 59/2, pp. 173-189.
+
+[18]
+
+Rickinson, M. et al. (2021), Using Research Well in Australian Schools.
+
+[19]
+
+Rickinson, M. et al. (2020), Quality Use of Research Evidence Framework.
+
+[24]
+
+Rutter, J. and J. Gold (2015), Show Your Workings: Assessing How Government Uses Evidence
+to Make Policy, https://www.instituteforgovernment.org.uk/publications/show-your-workings.
+
+[22]
+
+Sackett, D. et al. (1996), “Evidence based medicine: What it is and what it isn’t”, British Medical
+Journal, Vol. 312/71.
+
+[23]
+
+Sharples, J. (2013), Evidence for the Frontline: A Report for the Alliance for Useful Evidence,
+https://apo.org.au/sites/default/files/resource-files/2013-06/apo-nid34800.pdf.
+
+[26]
+
+--- [PDF Page 200 / Book Page 198] ---
+
+Spencer, T., R. Detrich and T. Slocum (2012), “Evidence-based practice: A framework for
+making effective decisions”, Education and Treatment of Children, Vol. 35/2, pp. 127-151.
+
+[31]
+
+Stoll, L. et al. (2018), Evidence-informed Teaching: Self-assessment Tool for Schools,
+https://discovery.ucl.ac.uk/id/eprint/10106469/1/Stoll_Evidenceinformed%20teaching%20self-assessment%20tool%20for%20schools.pdf.
+
+[30]
+
+Tripney, J. et al. (2018), Promoting Teacher Engagement with Research Evidence,
+https://www.wcpp.org.uk/wp-content/uploads/2018/11/WCPP-Promoting-TeacherEngagement-with-Research-Evidence-October-2018.pdf.
+
+[39]
+
+van Schaik, P. et al. (2018), “Barriers and conditions for teachers’ utilisation of academic
+knowledge”, International Journal of Educational Research, Vol. 90, pp. 50-63.
+
+[48]
+
+Walsh, L. et al. (2022), What, Why, When and How: Australian Educators’ Use of Research in
+Schools.
+
+[20]
+
+--- [PDF Page 201 / Book Page 199] ---
+
+Annex 9.A. Sample and analysis details
+Annex Table 9.A.1 below provides details of the sample for each of the empirical research activities that
+are reported on in the chapter. It outlines educators’ geographical location and role within their school.
+
+Annex Table 9.A.1. Sample details
+State
+
+Role
+
+Survey 1 (N=492)
+
+Survey 2 (N=414)
+
+New South Wales (NSW)
+
+Interviews (N=29)*
+
+149
+
+158
+
+5
+
+Victoria (VIC)
+
+195
+
+150
+
+13
+
+Queensland (QLD)
+
+116
+
+83
+
+9
+
+South Australia (SA)
+
+32
+
+23
+
+2
+
+Teacher
+
+281
+
+307
+
+2
+
+Middle leader
+
+60
+
+32
+
+7
+
+Senior leader
+
+99
+
+24
+
+20
+
+Other role
+
+52
+
+51
+
+0
+
+Note:
+* 27 interviews were conducted with a total of 29 interviewees.
+
+In terms of analysis processes, quantitative survey data were analysed in SPSS Statistics (Version 27.0)
+and the percentages reported in the chapter represent the number of respondents who either: “agreed”
+and “strongly agreed” with Likert-style rating items; ranked items in the top five positions for ranking-style
+questions; or selected an item for dichotomous questions. Likert-style and ranking-style questions were
+also recoded (e.g. “agree” and “strongly agree” responses were grouped together) to allow for similar
+statistical analyses to the dichotomous questions. Throughout the chapter, the phrase “significantly less”
+or “significantly more” denotes a statistically significant relationship (p < .05) between two recoded survey
+items based on Fisher’s exact tests (see Walsh et al. (2022[20]) for more details).
+Qualitative interview data were analysed in NVivo (Version 12) using Braun and Clarke’s (2006[51])
+codebook thematic analysis approach, which provided flexibility to allow for both deductive coding as well
+as inductive coding and the identification of new themes. Percentages reported in the chapter reflect the
+proportion of interview and/or survey responses which were coded to a specific theme (see Rickinson et al.
+(2021[19]) for more details).

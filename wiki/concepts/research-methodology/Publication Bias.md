@@ -6,7 +6,7 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，用于解释证据库为何可能高估干预效果。"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Evaluator Independence]]"
   - "[[Categorical Funding]]"
+  - "[[Knowledge Mobilisation]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Visible Learning]]"
   - "[[Preregistration]]"
@@ -44,6 +45,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -51,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-05
+updated: 2026-09-12
 ---
 
 ## 定义
@@ -76,10 +78,11 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 
 ## 核心要素
 
-> [!feature] 发表偏倚的双重机制
-> [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 429)]] 识别了教育评估中发表偏倚的双重来源：
-> - **学术发表压力** 学术机构研究者面临发表压力，期刊偏好发表"引人注目、干净的故事"（John, Loewenstein, & Prelec, 2012; McBee, Makel, Peters, & Matthews, 2017）
-> - **开发者经济激励** 开发者有更强的动机不传播关于其产品功效的零结果或负面结果——即使是开发者雇佣的[[Evaluator Independence|独立评估者]]也可能因不愿破坏与客户关系而压制零结果
+> [!feature] 发表偏倚的多重机制与系统后果
+> [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 429)]] 与 [[Argument_Revai_2022_ChangingLandscape|Révai (2022, p. 22)]] 揭示了教育研究中发表偏倚的多重诱因及其系统性危害：
+> - **学术发表压力与期刊偏好** 学术机构研究者面临“不发表就出局”的制度压力，期刊出版商系统性偏爱“引人注目、干净的故事”（John et al., 2012; McBee et al., 2017），优先接收统计显著且证实理论[[Hypothesis|假设]]的正面结果。
+> - **开发者与资助者的经济激励** 商业产品开发者与项目利益相关方有极强的动机压制零结果或负面评估；即使是受雇的[[Evaluator Independence|独立评估者]]，也往往因顾及客户合作关系而在报告中弱化不利发现。
+> - **阻滞累积性知识库建构的系统效应** 出版生态对显著正向结果的偏好直接导致教育实证证据呈现高度碎片化，排斥了零结果与情境复制研究，阻碍了教学与学校改进所需累积性知识库（cumulative knowledge base）的生成，使循证决策者难以辨识真实可靠的有效实践（Burkhardt & Schoenfeld, 2003）。
 
 > [!warning] 文件抽屉问题的最早案例（1940）
 > Pratt and Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计了未发表论文对总体汇总效果的影响。他们基于汇总证据认为超感知觉存在，但后世对此持怀疑态度——最重要的原因是这些发现未能被重复验证。这说明发表偏差可能导致系统性不完整的研究图景，即使按当时标准进行严格分析也可能无法发现（[[Argument_Higgins_2016_RE|Higgins, 2016, p.35]]）。
@@ -100,6 +103,7 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 > - **1991 — Rosenthal 的文件抽屉方法** 提出量化发表偏倚的经典方法，计算推翻显著结论所需未发表研究数量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, p.355]]）
 > - **1995 — Vevea & Hedges 权重函数模型** 提出用于[[Meta-analysis|元分析]]中发表偏倚统计校正的方法
 > - **2020 — Wolf et al. 首次应用于[[Developer Effect|开发者效应]]** 将 Vevea-Hedges 校正应用于开发者 vs 独立研究的[[Effect Size|效应量]]比较
+> - **2022 — Révai 的[[Knowledge Mobilisation|知识动员]]复杂系统批评** 将发表偏倚从单纯的方法学统计误差扩展至教育知识动员生态系统维度，揭示出版商对[[Hypothesis|假设]]证实性正向结果的偏好直接阻断了教育证据的累积性生成，加剧了科研成果与政策实践之间的结构性脱节（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 22]]）
 > - **2023 — Kraft 的教育 [[Randomised Controlled Trials|RCT]] 经验分布** 指出发表偏倚使教育干预"失败"的比例高于已发表[[Document|文献]]显示的 36%（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183, 186]]）
 
 ---
@@ -143,5 +147,6 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 
 > [!evidence-grid-a] 相关案例索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 结合[[Funnel Plot|漏斗图]]目视诊断与 Egger 线性回归检验（$t = 1.871, p = 0.066$）对生成式 AI 促进[[Higher-Order Thinking Skills|高阶思维]]的[[Meta-analysis|元分析]]证据池开展发表偏倚审计，确证了合并促学效应的发表稳健性。
+> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022, p. 22)]] — 从复杂知识生态视角分析学术出版偏好对教育累积性知识库构建的系统性阻滞与决策困境。
 > - [[Creation of REES]] — [[Preregistration|预注册]]制度被设计用于减少发表偏倚和选择性报告
 > - [[ESSA 2015 Evidence Standards]] — 要求采用有证据支持的项目，间接增加了开发者的发表偏倚激励

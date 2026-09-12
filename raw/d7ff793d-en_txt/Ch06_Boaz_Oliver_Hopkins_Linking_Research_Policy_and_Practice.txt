@@ -1,0 +1,1389 @@
+================================================================================
+Chapter: Linking research, policy and practice: Learning from other sectors
+Author(s): Annette Boaz, Kathryn Oliver and Anna Numa Hopkins
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part II: Actors and mechanisms facilitating research use in policy and practice
+Book Pages: pp. 125–145
+PDF Pages: pp. 127–147 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 127 / Book Page 125] ---
+
+6 Linking research, policy and
+
+practice: Learning from other
+sectors
+Annette Boaz, London School of Hygiene and Tropical Medicine and Transforming Evidence
+Kathryn Oliver, London School of Hygiene and Tropical Medicine and Transforming Evidence
+Anna Numa Hopkins, Transforming Evidence
+
+International learning networks, significant investments in new research,
+and research synthesis and methodological innovations have led the way in
+developing work on evidence use in the education sector, particularly at the
+practice level. However, work on research use can learn from other
+domains as well. This chapter considers themes across sectors and their
+implications for education. It is structured in three parts. The first part maps
+the interactions between research, policy and practice in various sectors.
+The second draws together the evidence from various initiatives that have
+had success in facilitating research use. The final part takes these lessons
+and frames them as five questions, which can help clarify implications for
+the education sector.
+
+--- [PDF Page 128 / Book Page 126] ---
+
+Introduction
+Education has led the way in developing work on evidence use, particularly at the practice level.
+International networks (such as the European Union [EU]-funded Evidence Informed Policy and Practice
+in Education in Europe [EIPPEE] network) have developed research use for education improvement. So
+too have investments like the William T. Grant Foundation programme for use of research evidence in the
+United States and the United Kingdom government investment in the Education Endowment Foundation.
+And methodological innovations such as Research-Practice Partnerships between researchers and
+practitioners have added to furthering research use in improving education. A recent overview looking
+across sectors and geographies included two chapters focusing on learning from research use in education
+(Boaz et al., 2019[1]) and there are many more reports, books and journal articles disseminating learning
+from this work.
+There have also been many initiatives and activities to improve links between research and policy from
+other domains but these tend to be overlooked (Oliver and Boaz, 2019[2]). This chapter considers what
+learning may be relevant and useful to education from other sectors. In particular, it draws on the
+cross-cutting analysis in What Works Now1 (Boaz et al., 2019[1]) and a mapping exercise looking at
+initiatives designed to promote the use of research in policy (Hopkins et al., 2021[3]; Oliver et al., 2022[4]).
+
+Mapping interactions between research, policy and practice
+Many researchers and their partners in policy and practice have tried out new ways to promote
+engagement between decision-making and research evidence. These include secondments and
+fellowships; collaborative research projects and programmes; and networking and dissemination events.
+All have been undertaken to increase research use yet few have been evaluated. There is a need for more
+evidence of the value of investments by our funders, and we need a robust evidence base to help us make
+better decisions about how to improve research use.
+To establish the quality and size of the existing evidence base, we focused on activities undertaken by
+research organisations, funders, decision making organisations and intermediaries with the goal of
+promoting academic-policy engagement. We mapped the activities of 513 organisations promoting
+research-policy engagement between October 2019 and December 2020. To identify relevant activities,
+we conducted systematic desk-based searches for eight types of organisations (research funders; learned
+societies; universities; intermediaries policy organisations and bodies; practice organisations and bodies;
+think tanks and independent research organisations; NGOs and non-profits; and for-profits/consultancies).
+The search was international but aimed to gather learning with relevance for our own context in
+the United Kingdom. For each organisation, we reviewed websites and strategy documents, and published
+evaluations to identify research-policy engagement activities. This systematic search was supported by a
+stakeholder roundtable, expert interviews and a survey sent to a subset of the sample. Both stakeholder
+consultation and the survey served to support the quality and robustness of our approach.
+To categorise and analyse the data, we drew on the work of Allan Best and Bev Holmes (2010[5]). Best
+and Holmes identify three ways of thinking about improving research use: linear models, relational models,
+and systemic models. Within these three categories, we also drew on a large systematic review about
+evidence use to analyse initiatives (Langer, Tripney and Gough, 2016[6]).
+For each identified initiative, we collected data on:
+
+
+The initiative and its host organisation (who; where; when; at what cost; funded by whom).
+
+--- [PDF Page 129 / Book Page 127] ---
+
+
+
+How it sought to promote academic policy engagement (what specific activities, and what types of
+practices they were engaged in).
+
+
+
+To what effect (whether there was any evaluation of their activities or other research indicating the
+impact of these practices).
+
+We identified over 513 organisations around the world including universities, government departments,
+parliaments, learned societies, research funders, intermediaries, businesses. Their activities spanned a
+large range of policy areas (see Figure 6.1). While education is not the largest category, we did identify
+more than 20 organisations promoting academic-policy engagement in education and higher education
+(with 12 focusing specifically on school-based education).
+
+Figure 6.1. Types of organisations that host academic-policy engagement
+
+Note: a: Parliamentary initiatives (51); b: Business (21); c: Non-profit initiative (7)
+Source: Adapted from Oliver, K. et al. (2022[4]), “What works to promote research-policy engagement?”, http://dx.doi.org/10.1332/174426421X
+16420918447616.
+
+We grouped these initiatives into nine practices (see the frequency of their use in Figure 6.2) which fall
+under the three models of improving research use mentioned earlier.
+In the next section, we discuss some examples and describe how initiatives are using linear, relational and
+systems strategies to improve research use in different sectors and contexts. Many initiatives also combine
+linear, relational and systems elements as part of a multi-dimensional approach.
+
+--- [PDF Page 130 / Book Page 128] ---
+
+Figure 6.2. What do research-policy engagement initiatives do?
+400
+
+350
+300
+250
+200
+150
+100
+50
+
+0
+
+Disseminating
+and
+communicating
+research
+
+Formal
+institutional
+requests for
+evidence
+Linear
+
+Facilitating
+access to
+research
+
+Building
+decision-maker
+skills
+
+Building
+researcher
+skills
+
+Building
+partnerships
+and networks
+
+Strategic
+leadership
+
+Relational
+
+Rewarding and Creating and
+incentivising
+embedding
+impact and
+infrastructure
+engagement
+and posts
+Systems
+
+Source: Adapted from Hopkins, A. et al. (2021[7]), Science Advice in the UK, http://dx.doi.org/10.53289/GUTW3567, p 343.
+
+Linear approaches
+Practices 1-3 all follow the linear model. Here, knowledge and research is seen as a commodity that is
+generated by researchers, turned in to products such as reports or toolkits, and used by decision makers.
+The process of applying knowledge is seen as a one-way exchange: people who produce research hand
+it over to research users, who are assumed to be in a knowledge “deficit”. In this way of thinking, effective
+communication is essential for evidence use. Implicitly, linear models view the process of getting research
+evidence into policy or practice as fairly predictable and manageable.
+We found that most activity and investment is focused on linear approaches. They either push evidence
+out from academia (Dissemination and communication) or pull evidence into government (through formal
+evidence requests, or facilitating access). Indeed, producing and disseminating research is the dominant
+activity and has increased since the late 1990s. Pull mechanisms are used by decision makers to address
+a particular need. They may use formal institutional mechanisms such as science advisory committees or
+requests for evidence issued through legislatures and consultations (Beswick and Geddes, 2020[8];
+Hopkins et al., 2021[3]). While COVID-19 has made these processes more visible (OECD, 2019[9]; Cairney,
+2021[10]), formal institutional mechanisms have been the primary way that research informs policy making
+from food safety to building regulation for a long time.
+Initiatives may also facilitate access to research often through the (co-)commissioning of research and
+evaluation projects. Beginning in the early 2000s, there has been a large increase in the number of
+initiatives that support policy to commission more effectively and (mostly since 2015) co-create research
+or develop briefs through consultation. See examples of linear approaches in Table 6.1 and Box 6.1.
+
+Table 6.1. Examples of initiatives using linear approaches
+Organisation
+
+Sector
+
+Country/
+Region
+
+Government consultations and
+requests for evidence
+
+All
+
+Multiple
+
+Activity
+Governments may request evidence for policy by issuing consultations or
+other requests on specific policy areas or topics.
+
+--- [PDF Page 131 / Book Page 129] ---
+
+Organisation
+
+Sector
+
+Country/
+Region
+
+Scientific Advisory Committees
+
+All
+
+Multiple
+
+Scientific advisory committees may be temporary or permanent, involve
+one type of scientific expertise, or combine expert advice from multiple
+disciplines to inform policy.
+
+The Center for Rapid Evidence
+Synthesis (ACRES)
+
+Health
+
+Uganda
+
+ACRES conducts rapid evidence synthesis on key policy topics and in
+response to decision makers’ requests.
+
+Partnership for Evidence and
+Equity in Responsive Social
+Systems (PEERSS) (Previously
+PERLSS)
+
+Development
+
+Multiple
+
+PEERSS is trialling different approaches to improving evidence use in
+policy to support the UN Sustainable Development Goals, including:
+ Rapid evidence synthesis.
+
+What Works Centres
+
+Social Policy
+
+UK
+
+The 13 What Works Centres comprise a network of social policy evidence
+centres in the UK. Their work includes:
+ Conducting evidence synthesis.
+ Publishing evidence briefs, summaries, reports and practice guides.
+ Creating evidence toolkits and rating systems to help decision makers
+assess the strength of evidence supporting a programme or practice.
+
+Danish Clearinghouse for
+Educational Research
+
+Education
+
+Denmark
+
+Based at Aarhus University, the Danish Clearinghouse for Educational
+Research compiles, analyses and disseminates the results of educational
+research, including:
+ Conducting evidence synthesis.
+ Publishing evidence briefs, summaries and reports.
+ Maintaining a registry of Danish and Scandinavian educational
+research.
+
+Sax Institute
+
+Health
+
+Australia
+
+The Sax Institute has a number of support tools such as:
+ ChangeMap, an approach to helping service-delivery agencies
+understand and address local barriers to adopting best-practice care.
+ Analysis for Policy, designed to help health decision makers undertake
+policy-relevant research using the Institute’s longitudinal research
+study.
+ Evidence Check, supports policy makers to commission evidence
+reviews.
+ Research partnerships including policy and practice stakeholders.
+
+Activity
+
+Note: Some of these initiatives, such as PEERSS and the Sax Institute, also use relational approaches.
+Source: Data from Oliver, K. et al. (2022[4]), “What works to promote research-policy engagement?”, http://dx.doi.org/10.1332/174426421X164
+20918447616.
+
+Box 6.1. Demand-led rapid evidence synthesis at The Center for Rapid Evidence Synthesis
+(ACRES), Uganda
+Based at the College of Health Sciences at Makerere University, the Center for Rapid Evidence
+Synthesis provides a mechanism for decision makers to more effectively “pull” evidence in to policy.
+The response service was the first in a low- and middle-income country and is now modelled in over
+15 countries. It aims to engage with all levels of government and support decision-making processes
+with high-quality and timely evidence.
+The service produces policy briefs in response to decision-makers’ requests. An evaluation of the
+service focused on which formats of briefing documents were most useful and acceptable. Mijumi-Deve
+and colleagues conducted user testing with healthcare policy makers at different levels of decision
+making, collecting data on useability, usefulness, understandability, desirability, credibility and value of
+the document. The participants generally found the format of the rapid response briefs useable,
+
+--- [PDF Page 132 / Book Page 130] ---
+
+credible, desirable and valuable. However, they also highlighted some issues, including the need for
+recommendations and a lack of clarity about the type of document and its potential uses.
+A process evaluation was also conducted, drawing on interviews with researchers, knowledge
+translation (KT) specialists and policy makers. This highlighted the different contextual factors that
+influenced the ability of the service to support health decision making. It found that key internal factors
+were the design of the service and resources available for it. Key external factors were the service’s
+visibility, integrity and relationships. Finally, the authors pointed to environmental factors that affected
+its impact, including political will and the Ugandan health system and policy infrastructure.
+Source: Mijumbi-Deve, R. et al. (2017[11]), “Policymaker experiences with rapid response briefs to address health-system and technology
+questions in Uganda”, http://dx.doi.org/10.1186/s12961-017-0200-1; Mijumbi-Deve, R. and N. Sewankambo (2017[12]), “A process
+evaluation to assess contextual factors associated with the uptake of a rapid response service to support health systems’ decision-making
+in Uganda”, http://dx.doi.org/10.15171/ijhpm.2017.04.
+
+Relational approaches
+Practices 4-6 adopt the relational model. Here, knowledge production and use is seen as embedded in
+social relationships and contexts. Initiatives focus on sharing knowledge among diverse stakeholders, and
+developing networks and partnerships underpinned by common interests and perspectives. Importantly,
+knowledge sharing is seen as a two-way process, with an appreciation of the different skills and areas of
+expertise brought by all. While decision makers can learn from researchers and their evidence, researchers
+also need to learn about policy contexts, issues and priorities.
+Investment in relational approaches is more recent and growing. We identified two main types of initiative.
+Firstly, building skills for both policy makers and researchers. Training and professional development
+focused on academic-policy engagement is an expanding area. Most initiatives are one-offs and support
+for academics to do engagement is patchy. In the United Kingdom, more attention is now given to training
+opportunities for academics, government analysts and policy makers to support academic-policy
+engagement. These are often provided by government, funders or intermediaries. The content of training
+offers depend on the organisation, its stakeholders and aims. Several examples are included in Table 6.2.
+
+Table 6.2. Examples of initiatives using relational approaches
+Country/
+Region
+
+Organisation
+
+Sector
+
+Activity
+
+Natural Environment Research
+Council CASE studentships
+
+Environment
+
+United
+Kingdom
+
+CASE studentships provide doctoral students with research training
+experience within the context of a research collaboration between
+academic and non-academic partner organisations. Non-academic
+partners include those from industry, business, public and the third/civil
+sectors.
+
+University Policy Institutes
+
+Higher
+education /
+Policy
+engagement
+
+United
+Kingdom
+
+Policy Institutes aim to provide a “one-stop-shop” for policy enquiries and a
+more strategic approach to policy engagement expertise within
+universities. Activities may include:
+ Training researchers in policy engagement and communication.
+ Recommending experts to provide advice or expertise.
+ Circulating government requests for evidence and other opportunities.
+ Publishing blogs and policy briefs.
+
+--- [PDF Page 133 / Book Page 131] ---
+
+Organisation
+
+Sector
+
+Country/
+Region
+
+Cambridge University Centre
+for Science and Policy(CSaP)
+
+Science /
+Science Policy
+
+United
+Kingdom
+
+Activity
+CSaP aims to build policy makers” research understanding and create
+opportunities for networking and exchange through:
+ Public lectures and seminars.
+ Policy workshops.
+ Senior and Junior Policy Fellowship Schemes.
+ Services to Research initiative which helps researchers at the
+University build policy-relevant activities into their research proposals.
+
+American Association for the
+Advancement of Science
+(AAAS) Science and
+Technology Policy Fellowships
+
+Science /
+Science Policy
+
+US
+
+The AAAS aims to advance science and serve society through initiatives in
+science policy, diplomacy, education, career support, public engagement
+with science, and evidence advocacy. The Science and Technology Policy
+Fellowships provide opportunities for scientists and engineers to learn
+about policymaking and contribute their knowledge and analytical skills
+during a Fellowship placement in the policy realm.
+
+Parliamentary Office of
+Science and Technology
+(POST)
+
+Science and
+social science
+/ Policy
+
+United
+Kingdom
+
+POST is the in-house science advice mechanism in the UK Parliament,
+which bridges research and policy. It provides:
+ Horizon scanning, reports and briefings.
+ Professional training to civil service staff.
+ Policy internship programme run with UK research councils and others.
+ Fellowship programmes for doctoral students and for established
+academics.
+ Knowledge Exchange Unit (KEU) to strengthen connections between
+research and policy.
+
+Canadian Science Policy
+Centre (CSPC)
+
+Science Policy
+
+Canada
+
+The Canadian Science Policy Centre supports stakeholder engagement by
+bringing together multi-sector expertise through:
+ Knowledge exchange activities (e.g. Science meets Parliament
+Program).
+ Conferences, policy workshop and events.
+ Science-Policy Interface programme provides departments with
+evaluation assistance.
+ Training, workshops and various knowledge exchange schemes for
+both scientists and policymakers.
+ Canadian Science Policy Awards of Excellence.
+ National science policy network.
+
+ACED (Actions pour
+l”Environnement et le
+Développement Durable)
+
+Environment,
+agriculture and
+sustainability
+
+Benin
+
+ACED aims to combine research, policy and local action to reduce poverty
+and hunger in vulnerable communities. It pilots solutions by collaborating
+with local communities and agricultural stakeholders. It runs capacity
+development for decision-makers as part of projects, as well as offering
+some stand-alone workshops e.g. the Knowledge Sharing and Policy
+Engagement workshop/
+
+African Evidence Network
+(AEN)
+
+Multiple
+
+Africa
+
+AEN aims to foster collaboration among those engaged in or supporting
+evidence-informed decision making (EIDM) and increase knowledge and
+understanding of EIDM. It does this through:
+ The AEN Network.
+ Advocating for evidence and for EIDM in Africa.
+ Knowledge sharing opportunities, seminars and workshops.
+ Publications.
+ Online learning space.
+ African Evidence Leadership Award.
+
+--- [PDF Page 134 / Book Page 132] ---
+
+Organisation
+UK Policy Research Units
+
+Sector
+
+Country/
+Region
+
+Health and
+social care
+
+United
+Kingdom
+
+Activity
+The UK”s 15 Policy Research Units (PRUs) undertake research to inform
+government and arms-length bodies making policy decisions about health
+and social care. They support short- and long-term policy development
+through:
+ Multidisciplinary teams.
+ Long-term partnerships with the Department of Health and Social Care
+(DHSC).
+ Rapid response services.
+ Policy liaison roles and oversight mechanisms aims to create alignment
+with long-term departmental priorities.
+
+Collaborations for Leadership
+in Applied Health Research
+and Care (CLAHRCs)
+
+Health
+
+United
+Kingdom
+
+The Collaborations for Leadership in Applied Health Research and Care
+(CLAHRCs) were partnerships between universities and local health
+service organisations. They trialled different approaches to long-term
+collaborative working between academic organisations and health
+services, continuous knowledge production and implementation cycles
+focused on health improvement, hybrid roles combining research, policy
+and practice expertise, and capacity building. See Box 6.3.
+
+Source: Data from Oliver, K. et al. (2022[4]), “What works to promote research-policy engagement?”, http://dx.doi.org/10.1332/174426421X164
+20918447616.
+
+The UK Parliamentary Office of Science and Technology (POST) also runs the Parliamentary Academic
+Fellowship Scheme. It provides the opportunity for arts, humanities and social science researchers to be
+seconded to a parliamentary office to develop a project and work alongside, advise and influence
+parliamentarians. University policy institutes and teams offer training that ranges from communication and
+presentation skills, and the practicalities of engagement to building research “impact” and collaboration
+into projects. Commonly, training for researchers is aimed at early-career academics and is relatively short
+in duration (averaging 3 months in length). The US marketplace for impact and influence training appears
+to be the most diverse – a varied range of training, mentorship, advocacy and skills-building programmes
+are offered by research centres and institutes, independent consultancies and policy bodies (see example
+in Box 6.2).
+
+Box 6.2. Science and Technology Policy Fellowships at the American Association for the
+Advancement of Science (AAAS)
+The AAAS Science and Technology Policy Fellowships provide opportunities for scientists to spend
+time in government, contributing to federal policy making while learning about the intersection of science
+and policy. AAAS Fellowships are a long-standing example, running annually since 1973.
+Fellows spend one year in the executive, legislative and judicial branches of the federal government in
+Washington. The aim is to provide them with hands-on policy experience; support skills development;
+and foster a network of science and engineering leaders who understand government and policy
+making. Fellows receive a stipend of USD 80-105 000 per year, publish blogs, and convene thematic
+workshops and symposia.
+In 2020, the programme was retrospectively evaluated.
+
+--- [PDF Page 135 / Book Page 133] ---
+
+The evaluation found generally high levels of Fellows” satisfaction with the programme. Over 80% felt
+it improved their understanding of the intersection between science, technology and policy, and 77%
+reported it encouraged them to explore a different career path. Fellows reported improved policy knowhow and skills, including on the workings of government, policy and science integration and
+collaborative skills. It also showed that Fellows continued to be involved in policy-related activity after
+the end of the programme. Mentors based in host offices were also evaluated. It was found that they
+contributed to the overall office environment and gave their expertise to address complex problems,
+clarify data interpretations, summarise and translate scientific information, and provide technical input.
+Source: Pearl, J. and K. Gareis (2020[13]), “A retrospective evaluation of the STPF program”, https://www.aaas.org/sites/default/files/202007/STPF%20Evaluation%20Presentation%20PDF.pdf.
+
+For decision makers, initiatives offer courses, fellowships and other opportunities that to aim to build
+research skills and awareness. For example, the Cambridge University Centre for Science and Policy offer
+Fellowships for policy makers in which Fellows are given opportunities to meet with a range of researchers
+from different disciplines, attend workshops and build relationships. Many universities offer support
+services through policy institutes or teams. Specialist training and capacity building offers are also
+developed by intermediary organisations that specialise in work across research, policy and practice.
+ACED (Actions pour l’Environnement et le Développement Durable) in Benin, for example, works
+collaboratively with local decision makers and offers tailored capacity-building as part of pilot environmental
+sustainability projects. It also provides stand-alone courses on knowledge sharing.
+Secondly, relational initiatives aim to build professional partnerships – that is, long-term, non-transactional
+joint working relationships to foster mutualism and trust across sectors. This includes networking activities
+that support participants to leverage sustained and useful professional relationships. Examples of this
+approach include the African Evidence Network (AEN), an intersectoral network of over 3 000 people that
+has been running for over 15 years. In the last decade or so there have been some relatively rare attempts
+to develop more formalised partnership approaches in which research and policy or practice organisations
+come together on a shared work programme. Frequently cited examples in health and social care include
+the United Kingdom’s Policy Research Units, which support short- and long-term policy development and
+partnership (PIRU, n.d.[14]). In practice, the Collaborations for Leadership in Applied Health Research and
+Care (CLAHRCs) provide a long-running example of collaborations that bring together universities and
+healthcare providers to test new treatments and ways of working (Box 6.3).
+
+Box 6.3. Partnership and collaboration in the Collaborations for Leadership in Applied Health
+Research and Care (CLAHRCs)
+The Collaborations for Leadership in Applied Health Research and Care (CLAHRCs) were funded by
+England’s National Institute of Health Research (NIHR) in 2008 and 2014. The collaborations were
+partnerships between universities and local health service organisations and aimed to improve the
+quality of healthcare through the production and use of applied health research. The CLAHRC model
+was focused on experimentation and agenda setting at the local level. Each developed slightly
+differently, with key health service stakeholders and researchers shaping the focus of work within
+different local contexts. This aimed to create approaches to evidence production and use that took
+account of how health care is delivered across sectors and in a defined geographical area. The
+CLAHRCs drew on lessons from other countries, including Australia and the United States, and aimed
+to foster collective knowledge mobilisation processes to “improve care through a continuous cycle of
+knowledge production and implementation”.
+
+--- [PDF Page 136 / Book Page 134] ---
+
+Central aims of the CLAHRCs were:
+
+
+To develop and conduct applied health research that is relevant across the National Health
+Service (NHS) in the United Kingdom, and to translate research findings into improved
+outcomes for patients.
+
+
+
+To create a distributed model for the conduct and application of applied health research that
+links those who conduct applied research to those who use it in practice.
+
+
+
+To create and embed approaches to research and its dissemination.
+
+
+
+To increase the country’s capacity to conduct high-quality applied health research focused on
+the needs of patients and targeted at chronic health conditions and public health interventions.
+
+
+
+To improve patient outcomes locally and across the wider NHS.
+
+
+
+To contribute to the country’s growth by working with the life sciences industry.
+
+The NIHR commissioned independent longitudinal research evaluations of the early CLAHRCs in 2010
+and a number of smaller evaluations were also conducted. In 2018, Kislov and colleagues synthesised
+the findings of 26 evaluations to draw out overarching learning about the CLAHRCs. The synthesis
+found that many evaluations focused on describing and exploring the nature of the partnerships, and
+the vision, values, structures and processes developed to facilitate sustained collaboration between
+academic and health partners. Evaluations also focused on the nature and role of boundaries between
+organisations, and the use of knowledge brokers and hybrid roles to support knowledge mobilisation.
+Some focused on capacity building such as secondment schemes.
+Overall, the evaluation synthesis noted a lack of evidence about the impact of CLAHRCs on health care
+provision and outcomes. The authors highlighted the need for more studies on which knowledge
+mobilisation approaches work in research and practice partnerships; what the contexts were; and the
+reasons for success. A further round of funding has led to the creation of Applied Research
+Collaborations (ARCs) in the place of the CLAHRCs.
+Source: Kislov, R. et al. (2018[15]), “Learning from the emergence of NIHR Collaborations for Leadership in Applied Health Research and
+Care (CLAHRCs): A systematic review of evaluations”, http://dx.doi.org/10.1186/s13012-018-0805-y; NIHR (2019[16]), About Us,
+https://www.clahrc-eoe.nihr.ac.uk/about-us/.
+
+Systems approaches
+Practices 7-9 attempt to respond to the systems model by recognising that all activities and actors
+associated with knowledge production and use are embedded within wide and complex systems, working
+through dynamic systemic processes. Taking a systems-informed approach includes being aware of what
+needs to be in place to support research use in government, such as a positive culture of research use;
+rewarded and valued career pathways associated with promotion of evidence use; and a healthy and
+dynamic research production ecosystem. Systems approaches attempt to create a culture of evidence use
+that is sustained and productive. These include strategic leadership and advocacy for evidence use; the
+rewarding and incentivisation of engagement; and the creation of infrastructure to enable impact. Some
+initiatives work across all three practices. An example might be the research-practice partnerships fostered
+by the William T Grant Foundation, discussed in Chapter 10 of this publication. See Table 6.3 for examples
+of different initiatives.
+Most initiatives we identified focused on strategic leadership; mainly through advocacy initiatives that aim
+to champion evidence use and engagement. The Bipartisan Policy Center’s Evidence Project in the United
+States provides a good example of successful advocacy and influencing. At a practice level, the examples
+used most frequently are the Veterans Administration and the Kaiser Permanente health systems, which
+have sought to build evidence-infused services. There are many other potential aspects of strategic
+
+--- [PDF Page 137 / Book Page 135] ---
+
+leadership such as policy planning and cross-sector leadership of which, however, we found very few
+examples.
+A small but growing number of initiatives aim to reward and incentivise impact; we identified prizes and
+professional incentives to recognise impact and engagement between research and policy. Some prizes
+celebrate “research impact”; for example, the Economic and Social Research Council’s Celebrating Impact
+Prize in the United Kingdom, which has been running since 2013. Others focus on public policy; for
+example, the Federation of American Scientists (FAS) Public Service Award, which has been running since
+1971 (FAS, n.d.[17]). The Irish Health Research Board Impact Prize competition is an example of a healthspecific award, while the Africa Evidence Network’s African Evidence Leadership Award (launched 2018)
+is unique in recognising leadership across sectors.
+Creating and embedding infrastructure covers new roles and career pathways, and supports operations
+within and across organisations as well as different approaches to embedding expertise. There is little
+cross-sector activity at a system’s level to promote the use of research. There are also some interesting
+examples of strategic collaborations between funders, like the EU Scientific Knowledge for Environmental
+Protection programme, and the Area of Research Interest programme in the United Kingdom.
+The creation of new job posts and roles can contribute to the implementation of systems change. Examples
+include the creation of hybrid, intermediary, brokerage and “boundary spanning” roles. In environmental
+science and policy, for example, a literature on boundary spanning roles has described how these roles
+create and develop specialist skill sets that combine expertise about both research and policy, serving a
+whole host of functions (Posner and Cvitanovic, 2019[18]). Brokerage roles are central to the expertise of
+both government and research teams working together to improve research use. Attempts to embed
+researchers in practice and policy organisations have sought to make these, or at least the knowledge
+they generate, sustainable (Graham, Kothari and McCutcheon, 2018[19]; Gradinger et al., 2019[20]).
+However, like other initiatives that tackle systems-level challenges, they meet significant barriers in their
+attempts to change organisational cultures, incentives and infrastructures.
+
+Table 6.3. Examples of initiatives using systems approaches
+Organisation
+
+Sector
+
+Country /
+Region
+
+William T Grant Foundation
+Research-Practice
+Partnerships
+
+Education
+
+United States
+
+William T Grant Foundation funds long-term, mutually beneficial
+collaborations that promote the production and use of research called
+Research-Practice Partnerships (RPPs). RPPs are formal partnerships
+between research and practice, and can involve schools, education
+practitioners, researchers, designers and government bodies. They aim to
+leverage research to address persistent problems of practice by building
+relationships and trust, creating a shared research agenda, using the
+research and evidence generated to improve practice.
+
+Bipartisan Policy Center’s
+Evidence Project
+
+Evidence in
+policy
+
+United States
+
+The Evidence-Based Policymaking Initiative was created to support the
+implementation of the US Commission on Evidence-Based Policymaking’s
+initiatives and recommendations. The project published reports, convening
+and advocacy, and provided expertise on implementation strategies. It was
+housed within the Bipartisan Policy Center, a non-profit think tank
+(https://bipartisanpolicy.org/report/evidenceworks/).
+
+Federation of American
+Scientists Public Service
+Award
+
+Science and
+Security
+
+United States
+
+Established in 1971, the Federation of American Scientists (FAS) Public
+Service Award recognises a statesperson or public interest advocate who
+has made a distinctive contribution to public policy at the intersection of
+science and national security (https://fas.org/about-fas/awards/).
+
+ESRC Celebrating Impact
+Prize
+
+Science and
+social science
+
+United
+Kingdom
+
+The ESRC Celebrating Impact Prize is an annual award which recognises
+ESRC-funded researchers in achieving and enabling outstanding economic
+or societal impact from their research (https://www.ukri.org/publications/esrccelebrating-impact-prize-2021).
+
+Activity
+
+--- [PDF Page 138 / Book Page 136] ---
+
+Organisation
+
+Sector
+
+Country /
+Region
+
+Irish Health Research Board
+impact prize competition
+
+Health
+
+Ireland
+
+Established in the 2019, the Irish Health Board Impact Award recognises
+people who use their research to create real changes in health and care. The
+award looks at the impact of health research in relation to practice, people’s
+health, patient care and health policy (https://www.hrb-crci.ie/2018/08/hrbimpact-award-2019/).
+
+African Evidence Leadership
+Award
+
+Evidence in
+policy
+
+Africa
+
+The African Evidence Leadership Award has been offered annually since
+2018 to members of the African Evidence Network who demonstrate
+leadership in and an influential contribution to evidence-informed decision
+making in Africa. There are three categories, including evidence producers
+(e.g. researchers), evidence intermediaries (e.g. knowledge brokers or
+knowledge translators), and evidence users (e.g. decision makers, private
+sector leaders) (https://aen-website.azurewebsites.net/en/learningspace/article/6/).
+
+EU Scientific Knowledge for
+Environmental Protection –
+Network of Funding Agencies
+
+Environment
+
+EU
+
+The SKEP ERA-NET project brought together key funders of the national
+research programmes in different European states to take a forward-looking,
+strategic overview of the research needs of policy and regulation for
+environmental protection. It aimed to create structure for research
+coordination and co-operation between the 14 SKEP partners and provide
+for effective alignment of national programmes
+(https://ec.europa.eu/research/fp7/pdf/era-net/fact_sheets/fp6/skep_en.pdf).
+Activities included:
+ development and sharing of good practice in the management and
+dissemination of research
+ the identification and analysis of common strategic issues
+ the development and implementation of joint research activities.
+
+Area of Research Interest
+
+Departmental
+Policy
+
+United
+Kingdom
+
+Areas of Research Interest (ARIs) are produced by government departments
+to provide information about the main research questions they are facing.
+ARIs aim to align scientific and research evidence from academia with policy
+development and decision making, support engagement with researchers,
+and allow departments to access stronger policy evidence bases at better
+value for money, for example through shared research commissions. In
+2019, two Academic Fellows working with the Government Office for Science
+identified a set of topics based on existing departmental ARIs that should be
+addressed as a priority during the COVID 19 pandemic. These ARIs were
+divided into nine themes, which were addressed by nine Working Groups
+consisting of researchers, funding bodies and policy makers
+(https://www.gov.uk/government/collections/areas-of-research-interest).
+
+EVIP-Net, World Health
+Organisation EvidenceInformed Policy Network
+
+Health
+
+Multiple
+
+EVIPNet was established by WHO in 2005 and is currently active in multiple
+regions. EVIPNet aims to promote a network of partnerships at the national,
+regional and global levels to strengthen health systems and improve health
+outcomes (https://www.who.int/initiatives/evidence-informed-policy-network).
+Activities include:
+ Capacity-strengthening strategies to enable policymakers, researchers
+and civil society representatives to combine political and policy analysis
+with evidence synthesis and stakeholder engagement.
+ Country-level teams who produce evidence briefs for policy conduct
+policy dialogues and undertake rapid evidence synthesis and
+dissemination.
+
+Activity
+
+Source: Data from Oliver, K. et al. (2022[4]), “What works to promote research-policy engagement?”, http://dx.doi.org/10.1332/174426421X164
+20918447616.
+
+--- [PDF Page 139 / Book Page 137] ---
+
+How successful are these approaches? Learning from research and evaluation
+Sharing and disseminating research can’t improve research use on its own
+Although most money is spent on disseminating and communicating research, accessibility alone is not
+enough to improve the use of evidence. We now have good evidence on which communications
+approaches are most successful in helping audiences understand research findings, and we also have an
+expanding national infrastructure for dissemination across multiple policy areas (Langer, Tripney and
+Gough, 2016[6]). “Push” mechanisms that aim to inform government advice or consultation may be
+hampered by the low academic and public visibility of Scientific Advisory Committees and Expert
+Committees (UK Parliament Cabinet Office, 2017[21]). Instead, access to formal mechanisms of influence
+in government occurs through multiple channels and in multiple ways.
+
+Linear models underestimate the complexity of policy environments and evidence use
+processes
+Linear activities are assumed to operate by providing “missing” evidence. This is what we call the “deficit
+model”. The underlying logic is that if more evidence were made available, policy makers would act
+differently. However, it does not fit with what we know about policy processes from political science studies.
+Instead, policy is influenced by a range of knowledge types over time, which are delivered in different ways.
+For example, we know that greater dissemination does not equate with greater uptake and that single
+pieces of evidence are unlikely to change a policy decision. Evaluations suggest that linear approaches to
+improving evidence use do not address practical, cultural or institutional barriers to engagement.
+
+Relationship building is important for producing useful research and supporting
+research use in decision making
+Recent investments aim to support government to commission and co-develop research. These projects
+– as discussed in learning reports generated by the Policy Research Units and the Policy Knowledge Fund,
+for example – have more potential in conducting both short- and longer-term policy-responsive research.
+But there are still gaps as to how successful these knowledge production-supporting initiatives are in
+supporting knowledge use. Without rigorous evaluations we can learn little about the benefits of these
+substantial investments.
+Regarding new training and development initiatives, there is little empirical evidence about what works
+best in the evidence-use literature. However, we can learn from other sectors. Notably, from evidence on
+the effectiveness of continuing professional development for teachers and other professional groups.
+Networks and knowledge exchange opportunities are growing too. There are more diverse and greater
+numbers of organisations that provide these opportunities, and learning from other funders and societies
+will advance research use in decision making.
+
+Collaboration is promising but lacks evidence
+Collaboration appears promising but learning is difficult to capture. Initiatives that aim to build relationships
+over the long term through partnerships or networks are often limited by insecure or project-based funding.
+Evaluations of these approaches are limited in the United Kingdom but there is an evidence base on
+partnerships in the United States, particularly on structuring and embedding learning opportunities in
+professions and institutions. The CLAHRC evaluations highlighted challenges around embedding
+secondment schemes in organisations while the Royal College of Policing provides a strong example of
+embedding training within professional development structures (Hunter, May and Hough, 2017[22]).
+
+--- [PDF Page 140 / Book Page 138] ---
+
+Some learning has highlighted networks as a potentially powerful mechanism at the practice level (Boaz
+et al., 2015[23]). Few have been robustly evaluated, however, and none test the primary assumption that
+greater collaboration and co-working between academic and policy audiences will generate more useful,
+and more used, research. Evaluations do not, so far, support the notion that working in partnerships, which
+is sometimes costly, is always justified by the outputs, which are themselves hard to measure (Kislov et al.,
+2018[15]). Limited evidence about their effectiveness in sustaining new connections over the long term
+jeopardises networks, many of which are insecurely funded. There is much to be learnt, particularly from
+the United States and Africa, about how to run effective collaborations (Cornish, Fransman and Newman,
+2017[24]) and research-practice partnerships yet little robust empirical evidence about how well these
+approaches might translate to others contexts, and indeed to government engagement.
+
+Systems-level support can encourage evidence use and relational activity
+What kinds of systems-level activities support activity at the relational level and fresh approaches to
+strategic leadership within and across sectors? What are the best ways of incentivising engagement and
+supporting brokers and boundary spanners, and infrastructures? Evidence from healthcare (Bornbaum
+et al., 2015[25]) and climate science (Posner and Cvitanovic, 2019[18]) highlights several challenges in
+developing, supporting and measuring the success of intermediary and boundary-spanning roles.
+
+What effective system supports look like across different sectors and contexts
+Cross-sector initiatives are key in strategic leadership but they are rare or in the early stages of
+development. Higher education organisations are not set up to make the most of individuals who have
+policy experience. This requires systematic thinking about how to reward and incentivise this across the
+sector. Systems-levels approaches are hard to implement but allow a more comprehensive use of
+evidence culture to grow and individual investments to flourish.
+
+Cross-cutting themes
+There is a well-described literature on barriers to evidence use in policy and practice (see e.g. Verboom
+and Baumann (2020[26]), Orton et al. (2011[27]), Oliver et al. (2014[28])), and on policy and practice decisionmaking processes (Cairney, 2016[29]; Parkhurst, 2017[30]). However, many of the initiatives we identified in
+the mapping exercise do not draw on this literature. There are also very few robust evaluations of initiatives
+for us to learn from. Overall, we see increasing activity that is uncoordinated and unevaluated. We need
+to better understand the decision-making context before investing in new initiatives.
+To reflect on what we have to learn, we draw on our wider work synthesising and analysing the evidenceuse literature (Oliver, Lorenc and Innvær, 2014[31]; Boaz et al., 2019[1]; Oliver and Boaz, 2019[2]). We also
+reflect on the recent “wake up” call issued by The Global Evidence Commission. It promotes a whole
+system response to improve the use of evidence in tackling societal challenges (Evidence Commission,
+2022[32]). The themes represent grand challenges for evidence use across different fields.
+The first relates to what counts as evidence when we talk about evidence use for policy and practice. Some
+organisations and initiatives promote evidence of effectiveness drawn from randomised controlled trials.
+While this “what works” evidence is valuable to decision makers there continues to be a concern about the
+potential exclusion of a wide range of other evidence that helps to address the wide range of questions
+posed by decision makers. As a result, some initiatives, such as the Africa Evidence Network, were set up
+with an explicit cross-disciplinary approach, aiming to avoid association with a specific form of evidence.
+We continue to be surprised by the inability of research to transform policy and practice. While the language
+may have shifted from evidence-based policy to evidence-informed we still shake our heads in despair that
+the research remains “on tap” rather than “on top”. It is in this space that initiatives to increase research
+
+--- [PDF Page 141 / Book Page 139] ---
+
+literacy in policy and practice communities and vice versa have traction. They help us understand the
+differences between research, policy and practice environments, and the implications for the ways in which
+we produce, promote research and understand research use. This is also where we see a value in
+opportunities to move between worlds of research, policy and practice through work experience,
+secondments and fellowships. For example, the Cambridge Centre for Science Policy fellowship scheme
+provides an opportunity for civil servants to spend time at the university on their own programme of work
+and afterwards to join a growing network of fellows to continue to share learning. Fellows flow in the other
+direction as well as academics join government departments to learn about how government works.
+The way we prioritise and carry out research is likely to impact on its usefulness and use. For example,
+there is a growing interest in engaging stakeholders in research through approaches such as
+co-production, action research and partnerships. This work includes both initiatives to include both
+professional stakeholders (teachers, nurses, government officials) and lay stakeholders (the public,
+students, patients and carers) in research processes. While some of this work might look tokenistic and
+focused on academic priorities, other initiatives seek to build deep and sustained partnerships that are
+mutually beneficial. An example of this is the work undertaken in the United States to build researchpractice partnerships in education and in Australia and New Zealand to establish academic practice
+partnerships in social work. Another approach is to engage stakeholders more systematically in
+establishing research priorities. The James Lind Alliance in the United Kingdom has developed a process
+for bringing together patients, carers and clinicians to bring the issues that matter most to the attention of
+health research funders (James Lind Alliance, n.d.[33]).
+The importance of thinking about evidence use from a systems perspective is gaining greater attention.
+We have already improved our approaches to dissemination and established better relationships between
+the users and producers of research. These efforts need to continue but the next step is to pay greater
+attention to the systems that produce research and those that use it to make sure they are designed to
+make the best use of research. This is the next frontier for evidence use. This is a challenging area. We
+often conclude that evidence use is being thwarted by “contextual factors” and leave it there. We do know
+about some important systemic factors such as the critical importance of leadership in supporting research
+use. In particular, the importance of strategic leadership by organisations aiming to promote evidence use
+(Oliver et al., 2022[4]) is a common feature of the literature. The role of individuals as champions and
+opinion leaders who can support (and also thwart) evidence use is also highlighted in the evidence-topractice literature (Boaz, Baeza and Fraser, 2016[34]). Hopefully, in years to come we will be able to point
+to the key features of healthy systems to produce and use research (and the connections between them).
+We need to pay more attention to concrete policy and practice contexts, and be willing to adapt.
+Researchers who study “evidence based policy making” (EBPM) tend to identify barriers between their
+evidence and policy, and describe what a better-designed model of research production and use might
+look like (Cairney, 2016[29]; Parkhurst, 2017[30]). In general, we need to get better at working with, and
+attending to, the policy and practice environments we aim to influence. For example, policy theories
+describe complex policy-making environments in which it is not clear who the most relevant policy makers
+are, how they think about policy problems, or the ability policy makers have in turning evidence into policy
+outcomes. Initiatives should carefully identify relevant policy makers, work (perhaps collaboratively) to
+frame problems in ways that are relevant or persuasive, and identify opportune moments to try to influence
+policy. Few initiatives are informed by these concerns, and much training for researchers relies on
+simplified (linear) models of policy processes.
+There are important strategic choices to be made about investments in strengthening evidence use,
+including clarifying support for individuals, institutions, and systems. In general, initiatives focus on
+providing support for individuals – whether researchers or decision makers (for example, through training,
+support in responding to calls for evidence, or funding opportunities). But this fails to address the cultural,
+institutional and systemic factors that influence how research is produced and used in policy or practice.
+Moving towards a more systems-informed approach means recognising that different kinds of support will
+
+--- [PDF Page 142 / Book Page 140] ---
+
+be needed at different levels, and that we need to think through the relationships between these levels. A
+recent initiative focused on the institution highlights this point: the Universities Policy Engagement Network
+(UPEN) in the United Kingdom aims to influence the institutional rules and norms that shape policy
+engagement in universities, for example, through a focus on equality, diversity and inclusion (UPEN,
+2021[35]). These issues have different implications – and require different strategies to address – when
+considered at the individual, institutional and systems levels. Taking a more strategic approach means
+considering the ends as well as the means of work to strengthen research evidence use.
+
+Implications for the education sector
+Our mapping study identified 25 organisations focused on education (including higher education). Many
+others addressed education as part of a broader or intersectoral agenda (such as children and young
+people or development). As with the whole dataset, most of these focused on dissemination activities. The
+Danish Clearinghouse, for example, provides an example of a registry of educational research while the
+Education Endowment Foundation (EEF) in the United Kingdom also runs evidence seminars and provides
+teaching and learning toolkits and support. Other examples focus on formal institutional mechanisms such
+as the National Foundation for Educational Research (NFER), which responds to consultation requests for
+expert input into government processes.
+In practice, education initiatives provide some strong examples of relational approaches. In the
+United States, in particular, we found initiatives aiming to develop and support research-practice
+partnerships (or RPPs) and design-based education research collaboratives. These approaches
+emphasise bringing researchers and practitioners together across the life cycle of making and using
+research. Many models for these kinds of collaboration exist, one approach, funded by the William T Grant
+Foundation, is supported by a body of research and evaluation evidence that investigates the
+characteristics, processes and impacts of partnerships (see for example Henrick et al. (2017[36])). We found
+fewer examples of collaborative, partnership approaches for policy, although EEF, for example, has begun
+to focus more on work with teachers and practitioners to support implementation. We found a small number
+of examples of training and certification around evidence use and engagement skills in education (run by
+the Bloomberg and Mastercard Foundations) and in grant-making skills.
+Several education initiatives describe systems-level activities. In higher education, this focuses on the
+monitoring and analysis of data to support policy and planning by, for example, the Research and Higher
+Education Monitoring and Analysis Centre (MOSTA) of Lithuania. Key international education stakeholders
+such as UNESCO play roles in global advocacy and thought leadership, establishing multi-country
+programmes and research initiatives, and investing in education, science and policy interaction at the
+international level.
+In comparison to sectors such as health (which represents 21.1% of the evaluations we found), public
+policy (19.3% of evaluations) and the environment (8.8% of evaluations), we found comparatively little
+evidence supporting education interventions (3.5% of evaluations).
+
+Five questions to strengthen evidence for education
+We identify five questions to inform learning in the education sector, drawing evidence from initiatives in
+other sectors and the wider research literature.
+
+1. How is research evidence made and shared with education stakeholders?
+Our mapping found relatively few examples of education research being made and shared for education
+policy and practice stakeholders in demand-led, responsive ways. In health, rapid evidence response
+services (such as The Center for Rapid Evidence Synthesis [ACRES] in Uganda) facilitated commissioning
+
+--- [PDF Page 143 / Book Page 141] ---
+
+processes (for example, in Table 6.1) and long-term research-policy partnerships at the national level
+(including the United Kingdom Policy Research Units). These are examples of different mechanisms that
+support researchers to generate more policy-relevant research and policy makers to gain access to more
+timely evidence.
+At a more local level, research-practice partnerships and other collaborative approaches in education
+provide strong examples of ways to involve professional stakeholders (teachers and managers) and lay
+stakeholders (the public, students and parents) in research processes. There is scope to share learning
+here as well as to consider which approaches work best in different contexts and why. Learning from
+education about collaborative approaches is proving useful in other sectors such as social care
+(Transforming Evidence, n.d.[37]).
+
+2. What kinds of relationships can support evidence use in education?
+Across sectors, a range of different relationships supports the production and use of research. These
+include relationships between the communities of research, policy and practice as well as relationships
+with intermediaries and “boundary spanners” of different kinds (see pages 13 and 16). We found relatively
+few examples of education researchers, policy makers and practitioners being brought together to learn,
+share ideas or work together outside of practice initiatives with a predominantly local focus. Fellowship
+opportunities, secondments, internships and exchange programmes all provide possible pathways to
+learning across these communities (see Table 6.2). Similarly, education networks might prioritise bringing
+research, policy and practice communities together to address decision-making priorities, an approach
+taken by NORRAG (the Network for International Policies and Cooperation in Education and Training in
+Geneva) for example. While we found a small number of skills-building initiatives in education, there is lots
+of scope for education to learn from other sectors in providing training opportunities for researchers and
+decision makers.
+In the environment and health sectors, intermediary organisations and professionals play an important role
+in summarising, translating and curating evidence, supporting the production of policy-relevant research,
+and holding relationships across research and policy. While our mapping was limited in scope, we found
+very few examples of initiatives that aimed to foster these skillsets and cross-sector relationships in
+education (for example, the African Evidence Leadership Award, Table 6.3). Often, intermediaries can help
+identify who needs to be at the table to support the production and use of research.
+
+3. What is the best way to support research use in (specific) education systems and
+contexts?
+Education systems are highly complex and varied, involving multiple stakeholders and competing priorities
+at local, national, regional and global levels. Increasingly, those working on evidence use across sectors
+need to attend to the specifics of concrete decision- making contexts rather than adopting a linear model,
+which simplifies policy and evidence-use processes or takes a top-down, “one size fits all” approach. If a
+systems approach means attending to “contextual factors”, then efforts to strengthen evidence use must
+be context-sensitive too. Examples such as the European Union Scientific Knowledge for Environmental
+Protection programme (Table 6.3) can inform education systems of evidence-use interventions. This can
+build strategic oversight and strengthened infrastructure while providing appropriate support for individuals,
+institutions and systems. Connecting with ongoing evidence-use initiatives and opportunities, and
+designing new complementary interventions to strengthen local systems may also be wise to focus on.
+Recent work using a systems framework to look at evidence-informed policy and practice in education has
+helped to build a richer understanding of research use in context (MacGregor, Malin and Farley-Ripple,
+2022[38]).
+
+--- [PDF Page 144 / Book Page 142] ---
+
+4. What is the relationship between how evidence is produced and how it is used in
+education?
+The evidence research community is paying increasing attention to how knowledge production impacts
+the uses of research evidence in policy and practice. This includes attending to who produces evidence,
+whose agenda evidence serves, and the values that underpin evidence and evidence-informed decision
+making. Education provides some strong examples of opening up knowledge production processes but
+these are unequally distributed in terms of geography and topic area, and have been used largely for
+practice improvements. As education, along with other sectors, aims to take a more strategic approach,
+stakeholders might benefit from considering other strategic agendas – such as Sustainable Development
+Goal 4 (SDG) 4 – that evidence for policy and practice might serve, and how. Finally, there is interesting
+work in Australia that looks at the quality of research use in education. It looks beyond dissemination to
+understand how teachers use research in their practice. On this note, it is worth referring to work by
+Rickinson et al. (2021[39]), which features in Chapter 9 of this publication.
+
+5. Are we are investing in initiatives that work?
+Across different sectors, we have much to learn about how to best improve evidence use, and how to
+measure success. Establishing the impact of research on policy and practice is challenging, and in general,
+evaluation has not been a priority for those with limited funds to support evidence use. This is now changing
+as the need to find solutions that can effectively support policy and practice becomes pressing. Important
+pockets of learning do exist across our different sectors and contexts as in, for example, the CLAHRC
+evaluations (Box 6.3). We hope that by investing in learning, and sharing our insights across disciplines
+and policy domains, we can take a faster route to more effective strategies.
+
+References
+Best, A. and B. Holmes (2010), “Systems thinking, knowledge and action: Towards better
+models and methods”, Evidence & Policy, Vol. 6/2, pp. 145-159,
+https://doi.org/10.1332/174426410X502284.
+
+[5]
+
+Beswick, D. and M. Geddes (2020), Evaluating Academic Engagement with UK Legislatures:
+Exchanging Knowledge on Knowledge Exchange,
+http://www.pol.ed.ac.uk/__data/assets/pdf_file/0008/268496/Evaluating_academic_engagem
+ent_with_UK_legislatures_Web.pdf.
+
+[8]
+
+Boaz, A., J. Baeza and A. Fraser (2016), “Does the “diffusion of innovations” model enrich
+understanding of research use? Case studies of the implementation of thrombolysis services
+for stroke”, Journal of Health Services Research & Policy, Vol. 24/4,
+https://doi.org/10.1177/1355819616639068.
+
+[34]
+
+Boaz, A. et al. (eds.) (2019), What Works Now? Evidence-Informed Policy and Practice, Policy
+Press, https://policy.bristoluniversitypress.co.uk/what-works-now.
+
+[1]
+
+Boaz, A. et al. (2015), “Does the engagement of clinicians and organisations in research improve
+healthcare performance: A three-stage review”, BMJ Open, Vol. 5/12, p. e009415,
+https://doi.org/10.1136/BMJOPEN-2015-009415.
+
+[23]
+
+--- [PDF Page 145 / Book Page 143] ---
+
+Bornbaum, C. et al. (2015), “Exploring the function and effectiveness of knowledge brokers as
+facilitators of knowledge translation in health-related settings: A systematic review and
+thematic analysis”, Implementation Science, Vol. 10/1, pp. 1-12,
+https://doi.org/10.1186/S13012-015-0351-9/TABLES/1.
+
+[25]
+
+Cairney, P. (2021), “The UK government”s COVID-19 policy: What does “guided by the science”
+mean in practice?”, Frontiers in Political Science,
+https://doi.org/10.3389/FPOS.2021.624068/FULL.
+
+[10]
+
+Cairney, P. (2016), The Politics of Evidence-based Policymaking, 1st Ed., Palgrave Macmillan
+UK, London, https://doi.org/10.1057/978-1-137-51781-4.
+
+[29]
+
+Cornish, H., J. Fransman and K. Newman (2017), Rethinking Research Partnerships: Discussion
+Guide and Toolkit, https://www.christianaid.org.uk/resources/about-us/rethinking-researchpartnerships.
+
+[24]
+
+Evidence Commission (2022), The Evidence Commission Report: A Wake-up Call and Path
+Forward for Decisionmakers, Evidence Intermediaries, and Impact-oriented Evidence
+Producers, Global Commission on Evidence to Address Societal Challenges,
+https://www.mcmasterforum.org/networks/evidence-commission/report/english.
+
+[32]
+
+FAS (n.d.), Awards, Federation of American Scientists, https://fas.org/about-fas/awards/.
+
+[17]
+
+Gradinger, F. et al. (2019), “Reflections on the Researcher-in-Residence model co-producing
+knowledge for action in an Integrated Care Organisation: A mixed methods case study using
+an impact survey and field notes”, Evidence & Policy, Vol. 15/2, pp. 197–215,
+https://doi.org/10.1332/174426419X15538508969850.
+
+[20]
+
+Graham, I., A. Kothari and C. McCutcheon (2018), “Moving knowledge into action for more
+effective practice, programmes and policy: Protocol for a research programme on integrated
+knowledge translatio”, Implementation Science, Vol. 13/22, https://doi.org/10.1186/s13012017-0700-y.
+
+[19]
+
+Henrick, E. et al. (2017), “Assessing research-practice partnerships: Five dimensions of
+effectiveness”.
+
+[36]
+
+Hopkins, A. et al. (2021), Science Advice in the UK, Technical Report, Foundation for Science
+and Technology, https://doi.org/10.53289/GUTW3567.
+
+[7]
+
+Hopkins, A. et al. (2021), “Are research-policy engagement activities informed by policy theory
+and evidence? 7 challenges to the UK impact agenda”, Policy Design and Practice, Vol. 4/3,
+pp. 341–356, https://doi.org/10.1080/25741292.2021.1921373.
+
+[3]
+
+Hunter, G., T. May and M. Hough (2017), An Evaluation of the ‘What Works Centre for Crime
+Reduction’, Final Report.
+
+[22]
+
+James Lind Alliance (n.d.), About Priority Setting Partnerships, https://www.jla.nihr.ac.uk/aboutthe-james-lind-alliance/about-psps.htm (accessed on 26 April 2022).
+
+[33]
+
+Kislov, R. et al. (2018), “Learning from the emergence of NIHR Collaborations for Leadership in
+Applied Health Research and Care (CLAHRCs): A systematic review of evaluations”,
+Implementation Science, Vol. 13/1, p. 111, https://doi.org/10.1186/s13012-018-0805-y.
+
+[15]
+
+--- [PDF Page 146 / Book Page 144] ---
+
+Langer, L., J. Tripney and D. Gough (2016), The Science of Using Science Researching the Use
+of Research Evidence in Decision-Making,
+https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3504.
+
+[6]
+
+MacGregor, S., J. Malin and E. Farley-Ripple (2022), “An application of the social-ecological
+systems framework to promoting evidence-informed policy and practice”, Peabody Journal of
+Education, Vol. 97/1, pp. 1-14, https://doi.org/10.1080/0161956X.2022.2026725.
+
+[38]
+
+Mijumbi-Deve, R. et al. (2017), “Policymaker experiences with rapid response briefs to address
+health-system and technology questions in Uganda”, Health Research Policy and Systems,
+Vol. 15/1, https://doi.org/10.1186/s12961-017-0200-1.
+
+[11]
+
+Mijumbi-Deve, R. and N. Sewankambo (2017), “A process evaluation to assess contextual
+factors associated with the uptake of a rapid response service to support health systems’
+decision-making in Uganda”, International Journal of Health Policy and Management,
+Vol. 6/10, pp. 561-571, https://doi.org/10.15171/ijhpm.2017.04.
+
+[12]
+
+NIHR (2019), About Us, National Institute for Health Research, https://www.clahrceoe.nihr.ac.uk/aboutus/#:~:text=%20The%20aims%20of%20the%20NIHR%20CLAHRCs%20,on%20the%20need
+s%20of%20patients%20and...%20More%20.
+
+[16]
+
+OECD (2019), Science Advice in Times of COVID-19, OECD, Paris,
+https://www.oecd.org/sti/science-technology-innovation-outlook/Science-advice-COVID/.
+
+[9]
+
+Oliver, K. and A. Boaz (2019), “Transforming evidence for policy and practice: creating space for
+new conversations”, Palgrave Communications, Vol. 5/1, https://doi.org/10.1057/s41599-0190266-1.
+
+[2]
+
+Oliver, K. et al. (2022), “What works to promote research-policy engagement?”, Evidence &
+Policy, https://doi.org/10.1332/174426421X16420918447616.
+
+[4]
+
+Oliver, K. et al. (2014), “A systematic review of barriers to and facilitators of the use of evidence
+by policymakers”, BMC Health Services Research, Vol. 14/1, p. 2,
+https://doi.org/10.1186/1472-6963-14-2.
+
+[28]
+
+Oliver, K., T. Lorenc and S. Innvær (2014), “New directions in evidence-based policy research: A
+critical analysis of the literature”, Health Research Policy and Systems, Vol. 12/1, p. 34,
+https://doi.org/10.1186/1478-4505-12-34.
+
+[31]
+
+Orton, L. et al. (2011), “The use of research evidence in public health decision making
+processes: Systematic review”, PLoS ONE, https://doi.org/10.1371/journal.pone.0021704.
+
+[27]
+
+Parkhurst, J. (2017), The Politics of Evidence: From Evidence-based Policy to the Good
+Governance of Evidence, Routledge Studies in Governance and Public Policy,
+https://doi.org/10.4324/9781315675008.
+
+[30]
+
+Pearl, J. and K. Gareis (2020), “A retrospective evaluation of the STPF program”,
+https://www.aaas.org/sites/default/files/202007/STPF%20Evaluation%20Presentation%20PDF.pdf.
+
+[13]
+
+PIRU (n.d.), Progress Report 2018-19, Policy Innovation Research Unit,
+https://piru.ac.uk/assets/files/PIRU progress report, Jan 11-Aug 14 for website 26 Oct.pdf.
+
+[14]
+
+--- [PDF Page 147 / Book Page 145] ---
+
+Posner, S. and C. Cvitanovic (2019), “Evaluating the impacts of boundary-spanning activities at
+the interface of environmental science and policy: A review of progress and future research
+needs”, Environmental Science and Policy, Vol. 92, pp. 141-151,
+https://doi.org/10.1016/j.envsci.2018.11.006.
+
+[18]
+
+Rickinson, M. et al. (2021), “Insights from a cross-sector review on how to conceptualise the
+quality of use of research evidence”, Humanities and Social Sciences Communications,
+Vol. 8/141, https://doi.org/10.1057/s41599-021-00821-x.
+
+[39]
+
+Transforming Evidence (n.d.), Creating Care Partnerships, https://transformingevidence.org/projects/creating-care-partnerships.
+
+[37]
+
+UK Parliament Cabinet Office (2017), Functional Review of Bodies Providing Expert Advice to
+Government - A Review by the Cabinet Office Public Bodies Reform Team,
+https://www.gov.uk/government/publications/public-bodies-2016.
+
+[21]
+
+UPEN (2021), Surfacing Equity, Diversity and Inclusion in Academic-Policy Engagement,
+Universities Policy Engagement Network.
+
+[35]
+
+Verboom, B. and A. Baumann (2020), ““Mapping the qualitative evidence base on the use of
+research evidence in health policy-making: A systematic review”, IJHPM,
+https://www.ijhpm.com/article_3946_0.html.
+
+[26]
+
+Note
+1
+
+What Works Now is an internationally edited book bringing together key thinkers and researchers to
+consider what we know about evidence-informed policy and practice in different countries and policy
+sector. The text includes a sector-by-sector analysis, consideration of cross-cutting themes and
+international commentaries. This chapter draws in particular on the final chapter of the book, which
+considers cross-sector lessons from the past and prospects for the future.

@@ -1,0 +1,1042 @@
+================================================================================
+Chapter: History and evolution of brokerage agencies in education
+Author(s): Tracey Burns and Tom Schuller
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part I: Conceptual landscape and the evolution of the field
+Book Pages: pp. 55–72
+PDF Pages: pp. 57–74 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 57 / Book Page 55] ---
+
+3 History and evolution of brokerage
+agencies in education
+
+Tracey Burns, OECD and National Center on Education and the Economy, United States (seconded)
+Tom Schuller, Academy of Social Sciences, United Kingdom
+
+Despite impressive advances in evidence-informed policy and practice,
+many of the same challenges remain. New challenges have also arisen,
+including a disdain for “experts” and a worry that science is being
+deliberately devalued. The chapter highlights three key changes in the
+debate. It looks at the evolution of education brokerage agencies and their
+diverse goals, audiences and methodologies. It highlights the importance of
+evaluating their effectiveness and impact and learning from other sectors. It
+ends with a call to go one step further: Just as research synthesis has
+moved beyond individual papers to systematic reviews of reviews, so too
+do the structures and processes of brokerage need to work together across
+institutions and systems. Only by doing so will we be able to establish a
+cumulative knowledge base that is quasi-universally acknowledged as well
+founded.
+
+--- [PDF Page 58 / Book Page 56] ---
+
+Introduction
+In 2007, we published the report Evidence in Education: Linking Research and Policy (OECD, 2007[1]). At
+the time, we made the case for the importance of using evidence to inform policy by connecting the issue
+to a series of recent public crises that required rapid responses from governments to ensure the health
+and safety of the public and maintain their confidence in policy makers. The examples we gave – the 2001
+foot and mouth crisis in the United Kingdom, and the 2003 outbreak of SARS in Asia and Canada –
+highlight the difficulties of decision making for policy makers and the importance of time-sensitive
+information on which to base those decisions. This urgency sometimes meant that decisions were taken
+that were later reversed or revealed to be less effective than had been hoped.
+The report also pointed to climate change as an example of a very public debate where the research itself
+might be contested, further adding to the complexity of the process. And indeed, for all examples – crises
+or not – the information that was readily available was often not “perfect”. As we stated: “This could be
+either because the rigorous research relevant to policy needs has not been conducted; or because there
+is a disjoint between policy and research communities such that the relevant information is not widely
+disseminated and so overlooked by the policy maker; or simply that the research that is available is
+contradictory and so does not suggest a single course of action that could be reflected in policy. Yet clearly
+it is crucial that policy decisions be made.” (OECD, 2007, p. 17[1]).
+Revisiting this report in the wake of the COVID-19 pandemic, the discussion seems surprisingly up-todate. We have seen in real time the imperative of urgent decision making to protect health and lives, with
+a very specific impact on schools and education. We have witnessed the struggle to ascertain the quality
+and availability of evidence, and the tension involved in deciding between different policy solutions when
+research itself is emerging and contradictory.
+However, time has not stood still. In the decade and a half since our volume was published, the arguments
+have evolved in at least three domains:
+
+
+The ubiquity of social media and the explosion of information, including fundamental questions
+about the nature of knowledge and expertise itself.
+
+
+
+A focus on practice (complementing and perhaps supplanting the initial focus on policy).
+
+
+
+The acknowledgement that simply providing access to evidence is not the same as ensuring its
+use, and it is the relational as well as structural elements that need attention.
+
+The following sections will look at these three points more closely, building on personal reflections
+developed by following the discussions, policy decisions and literature across time and projects; the
+numerous efforts and spending in countries; and interacting with key players and institutions over time. We
+have benefitted particularly from open and honest discussions with researchers, policy makers and
+practitioners, including the OECD CERI Governing Board members, on both successes and failures.
+
+Three key changes
+The changing notions of evidence
+One obvious change since our 2007 chapter is the ubiquity of social media. It has accelerated twin effects
+of greater access to information with less quality control. The online algorithms that sort us into groups of
+like-minded individuals and resulting echo chambers can serve to amplify our views while at the same time
+leaving us uninformed of opposing arguments. This abundance of information – or “evidence” as it is often
+referred to – has reshaped the policy and practice landscape in many countries.
+
+--- [PDF Page 59 / Book Page 57] ---
+
+In this context the 2007 report seems naïve in its trust in the generalised respect for evidence and
+objectivity of science. The quote above illustrates this well, operating as it does within the confines of a
+rational evidentiary system where the lack of evidence is due to either availability, access, or contradiction.
+The sense is that these are essentially solvable challenges and with effort we can sort out both access
+and availability. Contradiction is thornier, but, as with the rest of science, the belief is that with time the
+self-correcting nature of science will sort that out too.
+However, the essential belief in science and objective truth has eroded in the last decade and a half. There
+are arguments that we are living in a “post-truth” world where reality has become fungible and viral reach
+is valued more than quality in the distribution of information. Recent elections continue to demonstrate the
+traction of claims that are demonstrably wrong; and although some erroneous claims are simply wellintentioned mistakes, others are deliberately misleading. A disdain for “experts” in some discourses has
+given rise to worries that truth and fact are losing currency, and that we could be witnessing an “evidence
+backlash” in which science and research are deliberately devalued (Lewandowsky, Ecker and Cook,
+2017[2]).
+These are alarming arguments. If they are true, then the lack of use of evidence in education practice and
+policy is not simply an issue of access or availability or better processes for ensuring that available
+evidence is actually used. The lack of use (or deliberate misuse) can no longer be considered as failures
+of individual or group cognition. As a result, it cannot be fixed by providing more access, more availability,
+or even by building capacity. Rather, if these arguments are true, we must recognise that the nature of the
+challenge has changed, and that prospective solutions need to look at the issue from both cognitive and
+technological perspectives.
+We will come back to this point later in the chapter. For now, let’s proceed with the shared understanding
+(hope?) that we are still playing the same game, that there is belief in the scientific method, and we can
+reasonably continue to push for evidence-informed practice and policy. Certainly, given greater access to
+information, less quality control and a more informed (and potentially misinformed) public, the need for
+clear, rigorous, and easily available evidence is more important than ever.
+
+A focus on practice
+Another major change has been the shift in focus from policy to practice. Our 2007 volume reflected the
+state of the discussion at the time, which focused almost exclusively on policy and its supporting actors,
+processes, structures and institutions. A search of the book for references to evidence-based (or evidenceinformed, this shift in terminology was specifically addressed in our introductory chapter) practice reveals
+a few exceptions: Contributions from The Evidence for Policy and Practice Information Centre (EPPICentre)1 in the United Kingdom and New Zealand’s Best Evidence Synthesis programme2 both mention it,
+although their focus skews heavily to policy. There was also a special chapter from the Netherlands’
+Minister of the Economy at the time, Maria van der Hoeven, with a formal plea: Evidence-based Policy:
+Yes, but Evidence-based Practice as Well! (Chapter 15 in OECD (2007[1])). However overall, issues
+relating to the use of research in practice remain underdeveloped.
+This does not mean that there was not a lively field of study in the area (e.g. Cordingley et al. (2003[3])).
+The Centre for the Use of Research and Evidence in Education (CUREE),3 for example, was one of the
+early centres that focused explicitly – and solely – on teachers and teaching. The EPPI-Centre in the United
+Kingdom, the WhatWorks Clearinghouse (WWC)4 in the United States and New Zealand’s Best Evidence
+Synthesis Programme, among others, were set up to address both policy and practice from the beginning.
+Rather, the heavy focus on policy reflects the preoccupations of the discourse at the time and, to some
+extent, the areas of targeted funding.
+
+--- [PDF Page 60 / Book Page 58] ---
+
+While this has now clearly changed, the shift to foreground practice took some time. As an example, in
+2010 the European Commission funded the Evidence Informed Policy in Education in Europe (EIPEE)
+project. It operated between 2010-11 to identity the range of activities used across Europe to link research
+and policy making in education and build capacity in this area (Gough et al., 2011[4]). It was not until 2011
+that this initiative was expanded to include the “P” of practice with the Evidence Informed Policy and
+Practice in Education in Europe (EIPPEE) initiative.5 This was an explicit acknowledgment that teacher
+practice was a key area.
+Since then, there has been an almost complete shift away from policy and towards practice. One of the
+most dramatic examples is the creation of the UK Education Endowment Foundation (EEF),6 established
+in 2011 with a GBP 125 million investment from the UK Department of Education to help, among other
+things, summarise “the best available evidence in plain language for busy, time-poor teachers and senior
+leaders” (EEF website). Their Toolkit is aimed at practitioners, and a key measure of impact is uptake in
+schools and school networks. This focus on practice has facilitated the development of deeper
+relationships between research and practice, spurring change in schools and classrooms in England.
+Numerous other examples of the shift towards practice can be cited across countries, systems, and
+institutions.
+The shift is so complete, in fact, that we are tempted to ask if policy makers have left themselves off the
+hook. Judging by policy documents, funding priorities and the set of initiatives emerging across the OECD,
+the policy side of the equation is no longer a prime focus, even though many of the issues that we struggled
+with in 2007 have only gained in importance. And yet a focus on policy is essential. It is policy (and politics)
+that has the ultimate responsibility for steering systems, setting accountability structures, and working with
+professional bodies to enact standards and requirements for the certification and licencing of practitioners.
+Policy also plays an essential role in setting priorities and guiding funding for research. Effecting meaningful
+change in the use of evidence across an education system requires extensive diffusion and impact on
+practice, as well as broad system-wide incentives, structures and mechanisms in policy. We will come
+back to this point a bit later in this chapter.
+
+The complexity and importance of evidence use
+Another important shift since our 2007 volume is an acknowledgement of the increasing complexity of
+education systems. Across the OECD, education systems have become increasingly decentralised (with
+some exceptions), involving a large number of additional actors, from local and state level authorities to
+school leaders and practitioners. These structural changes intersect (and are fuelled by) several other
+intersecting trends, such as more highly educated parents better able to use the power of networks and
+social media to advocate for their children (Burns, Köster and Fuster, 2016[5]). These changes mean that
+the traditional models of knowledge governance and their focus on three key groups: researchers, policy
+makers and practitioners are no longer adequate.
+Relevant stakeholders now include not only the traditional research-policy-practice trio and extended
+vertical and horizontal governance actors but also, for example, funders of research; textbook publishers
+and EdTech platforms; think tanks and networks of researchers and practitioners; the media; students etc.
+(Burns, Köster and Fuster, 2016[5]). The links between these multiple actors are fluid and more open to
+negotiation. In addition, these groups are overlapping and individuals can be in more than one group at
+any given time (Best and Holmes, 2010[6]; Levin, 2011[7]).
+As part of acknowledging the complexity of educational knowledge governance, there has been a growing
+recognition that promoting the use of evidence is not the same thing as ensuring its use. A number of
+realities intrude, including the limited time and capacity of policy makers and practitioners; the time and
+effort required to learn new habits and behaviours; and the interaction among different forms of knowledge
+when determining the best course of action (Burns, Köster and Fuster, 2016[5]).
+
+--- [PDF Page 61 / Book Page 59] ---
+
+Linear models of research production and use failed to take these realities into account. In addition, the
+rich variety of evidence available (e.g. descriptive statistics, student achievement and teacher assessment
+data, research results, etc.) can inadvertently complicate the process. In fact, the push to increase the
+availability of data to support transparency and accountability has had an unintended consequence: too
+much information. Loeb and Plank (2008[8]) illustrated this with the example of the California Education
+Code, which at the time included more than 100 000 articles and over 2 000 pages. As early as 2002,
+O'Day pointed out that the abundance of information may be counterproductive as “teachers and schools
+may metaphorically and literally close the door on new information, shutting out the noise” (O’Day, 2002[9]).
+The challenge – and volume of information – has only increased exponentially since that time.
+When focusing on strengthening the use of research for policy and practice, the focus is moving away from
+a simple “push” model of research production (by researchers) and research adoption (by policy makers
+and practitioners) to capturing and nourishing the interactions between and within the groups. Efforts to
+promote and encourage the use of research-based knowledge as a tool for improving policy and practice
+must thus include three dimensions (adapted from Langer et al. (2016[10])):
+
+
+Access (do policy makers and practitioners have access to evidence in a form that is useable and
+understandable?).
+
+
+
+Skills (do policy makers and practitioners have the skills and capacity needed to make sense of
+the evidence?).
+
+
+
+Interactions (is interaction and collaboration between relevant actors facilitated?).
+
+These questions can be applied to other actors (e.g. the media, research funders and more listed above).
+The final point on interactions is crucial and speaks to the social nature of research use. It is not enough
+to build awareness, access and skills. Interactions contribute to motivation, key to developing and
+sustaining changes in behaviour. Effectively supporting use of evidence calls for an unusual combination
+of skills that is usually more easily acquired through accessing a network of colleagues rather than bilateral
+relationships. Such networks require structural encouragement and support from, for example, local
+districts and universities if they are to flourish (Cordingley, 2016[11]).
+This process is not automatic. The strongest incentive for policy makers and practitioners to engage with
+research is its promise to help them address their challenges. For practitioners, evidence use thus involves
+a dialogue between formal research knowledge and the local, practical knowledge of teachers (Révai,
+2020[12]). Importantly, teachers do not simply acquire and develop their own knowledge; it is through
+sharing and co-constructing knowledge that they also contribute to creating a collective knowledge base.
+Uptake of research is thus based on trust and personality as much as practical usefulness – networks,
+direct contacts and brokerage are important (Maxwell et al., 2019[13]). One open question we have is to
+what extent these issues map across practice to policy; and conversely, which do not.
+
+Victims of our own success?
+Since the early 2000s the “evidence-based policy” (and later evidence-informed policy and practice)
+movement has made huge inroads in shaping public discourse and expectations. In most OECD countries,
+it is now expected that policy be informed by evidence, and the use of research evidence by teachers is
+increasingly built into teaching standards and certification. More and more funding supports mechanisms
+to raise awareness, ensure accessibility and build capacity in and for the use of evidence. To those of us
+who have spent considerable time and effort working on the issue, this shift is exciting.
+But are we victims of our own success? “Evidence-informed” is now also a buzzword, disconnected from
+its original intended meaning. Policy often prioritises particular forms of evidence (for example, mediafriendly rankings, achievement and assessment data) that are important politically but do not represent the
+
+--- [PDF Page 62 / Book Page 60] ---
+
+depth and breadth of information necessary for making strategic choices for the long-term development of
+education.
+The gap between the intended and actual meaning of “evidence-informed” is not entirely surprising: When
+a wide range of data becomes available, it becomes easier for individuals to pick and choose the indicators
+that will paint a more favourable picture (Blanchenay, Burns and Köster, 2014[14]). And as one of our
+interviewees for that case study remarked: “One cannot blame them for being rational” (2014, p. 32[14]).
+The misappropriation of the terms has been noted elsewhere and in other sectors, notably the medical
+field (Greenhalgh, Howick and Maskrey (2014[15]); see also Box 3.1). In education there is clear scope to
+question how and when these terms are used and for what purpose. Is the ultimate goal improving student
+learning? If not, who or what benefits? Questioning the aims for both the production and use of evidence
+is important, and especially relevant with the increasing presence of private interests and education
+markets in our systems (including but not limited to EdTech) (Burns, 2022[16]).
+Lubienski (2019[17]) takes these concerns a step further, asking whether instead of continued strengthening
+of objective brokerage between research and practice (the term he uses is “boundary spanners”), we will
+rather witness the rise of self-interested “spinners” and influencers intent on increasing their market share
+in whatever solution they are selling. In this scenario the banner of “evidence-informed practice/policy”
+becomes a tool for vested interests and is used more as a marketing instrument than an objective exercise
+to help improve teaching and learning.
+So what can be done? Just as there are calls for “real evidence-based medicine” (Greenhalgh, Howick
+and Maskrey, 2014[15]), it is time for education to insist on a return to the original intended meaning of
+evidence-informed policy and practice. This requires demanding better evidence that is better explained
+and used without vested interests. It involves funders of research insisting on quality and useability.
+Objective, independent and trusted brokers – both formal agencies and networks as well as informal
+connections and relationships – play a key role in making this possible.
+
+Brokerage agencies in education
+This takes us to the heart of this chapter. Bridging the structural and relational gaps between internally and
+externally heterogeneous groups of researchers, policy makers and educators (among multiple other
+actors) is no easy task. Our 2007 volume was one of the first to highlight the variety of deliberate efforts
+across countries to invest and build capacity to use evidence to inform policy and practice.
+This process of bridging the gaps and building capacity can be informal, e.g. the exchange among
+colleagues of research evidence and information related to a specific practice or policy challenge. It can
+also be formalised, e.g. the creation of ties between national research institutions and their policy/practice
+counterparts. These formal efforts can also be institutionalised, with the development of brokerage
+agencies to officially facilitate both the process of information sharing and ensure a certain level of quality
+control.
+What term to use for this process – knowledge mediation, translation, brokering – is still contested. In our
+2007 volume, we used “brokering” and “brokerage agencies”, in part to try and distinguish the formal
+element of the process from the informal networked approach that had previously been the default. In order
+to link directly to the discussion from 2007 we will continue to use the same terms in this chapter, but it is
+important to note that these terms were and are contentious. They strike some as being too connected to
+business and financial institutions, far removed from education and social policy goals. Others criticise
+them as being too Anglo-Saxon, a reflection of a broader movement concerned with inputs and outputs
+concentrated primarily in certain countries (e.g. England and the United States). Certainly, they can be
+difficult to translate to other languages.
+
+--- [PDF Page 63 / Book Page 61] ---
+
+The belief that this is a primarily Anglo-Saxon movement (in education, at least) – is important to address.
+England and the United States did indeed play a driving role, backing up research efforts with substantial
+public contributions and funding. Canada and New Zealand have also been very active. However, not all
+English-speaking countries took this up at the same time (Ireland and Australia, for example, came to the
+table later). By the time of the 2007 publication, there was a variety of international initiatives included as
+chapters in the book. Notably (but not exclusively), in the Nordic countries and the Netherlands (examples
+from Denmark, The Netherlands and Singapore). In addition, European countries such as France,
+Germany and Switzerland highlighted the importance of research and evidence in decision making while
+using their own vocabulary and sets of relationships and structures. As part of the German Presidency of
+the European Union, the conference “Knowledge to Action” was held in Frankfurt in March 2007, bringing
+together researchers and policy makers in education from around Europe. Reducing these efforts to the
+label “Anglo-Saxon” is thus not only inaccurate, it potentially limits the kinds of initiatives and efforts
+considered.
+As noted in Chapter 1, systematically mapping the diverse set of national and international actors and
+initiatives is key to understanding the history of brokering and brokerage agencies as well as the multiplicity
+of approaches across contexts and traditions. Including formal institutions as well as networks and the
+broad web of contributors that are an integral part of this process in different systems is also essential.
+
+The diversity of brokerage and brokering
+Brokerage agencies work to generate, assess and communicate research findings to and between
+interested parties. Brokerage agencies can be designed to aid a particular ministry to increase effective
+communication regarding the research and policy/practice interface, evaluate proposed changes and
+recommendations, and assess the implementation of these programmes. However, most brokerage
+agencies have a broader agenda and seek to collaborate with as wide a community of researchers,
+practitioners and policy makers as possible to broaden the relevance of their work and findings.
+A number of different initiatives exist to both bridge the divides as well as assess the quality of evidence
+available. Since our 2007 publication, the numbers of brokerage centres have increased, with explicit aims
+to improve the links between research and policy as well as, crucially, practice. Our review identified three
+specific elements of the process (Burns, Köster and Fuster, 2016[5]):
+
+
+Knowledge production (e.g. directing funding and support through grants and sponsorship,
+performance measurement and target setting, and experimentation in policy implementation).
+
+
+
+Knowledge mediation and dissemination (e.g. personnel movement and training on the individual
+level; organisational and inter-organisational knowledge sharing).
+
+
+
+Knowledge utilisation (e.g. mandating the use of certain methodologies or tests, linking funding to
+research strategies in schools etc.).
+
+Brokerage agencies are distinguished in their goals and functions (funding and relationship to Ministry,
+degree of autonomy, target audiences and activities) and the methodologies they use and promote. The
+section below sets out some examples of how this has played out in practice as illustrative examples.
+The goals and functions of brokerage agencies can be broken into a number of subsections.
+
+Relationship with the Ministry
+One important aspect is the relationship of the institution with the Ministry in terms of autonomy of funding,
+operations and position in the education system more broadly. Some agencies or programmes are
+principally funded by the Ministry and are embedded with the Ministry itself. One example of this is New
+Zealand’s Best Evidence Synthesis programme,7 which traditionally provided hands-on guidance to those
+wishing to conduct a synthesis of available evidence (this function has now ended, and the focus has
+
+--- [PDF Page 64 / Book Page 62] ---
+
+shifted to brokering evidence already available). The Dutch Knowledge Chamber (Kenniskamer) was
+similarly located within the Ministry and designed to respond to Ministry goals and priorities.
+Other agencies are principally funded by the Ministry/Government but maintain their independence, often
+located with or near the Ministry to facilitate alignment and coordination with policy goals. For example,
+the Japanese National Institute for Educational Policy Research8 is independent yet located in the same
+building as the Ministry of Education. The Norwegian Knowledge Centre9 is funded by the Ministry but is
+an autonomous institution, and in 2019 it moved from Oslo to the University of Stavanger as part of a more
+general decentralisation effort by the government of Norway. The Swiss Coordination Centre for Research
+in Education10 is a stand-alone institution funded by the Swiss federal government and the Swiss
+Conference of Cantonal Ministers of Education. The now defunct Canadian Council on Learning was,
+similarly, federally funded but independent (geographically and formally) from the various federal and
+provincial ministries.
+Still other brokerage agencies are formally and financially independent from the Ministry although,
+naturally, the Ministry and local administration remain important partners. The Education Reform Initiative11
+in Turkey, for example, is an independent organisation supported by leading foundations, located in
+Sabancı University. England’s EEF is an independent charity established by the Sutton Trust.
+
+Target audience
+While most brokerage agencies aim to affect both policy and practice in education, some specialise more
+in one or the other. As mentioned earlier in this chapter, the original emphasis was very much on policy
+and policy making, shifting heavily in the last decade to practice.
+Brokerage agencies generally have a commitment to disseminating research results to as wide an
+audience as possible, aiming to support both top-down and bottom-up change to the system. Initiatives
+focused on evidence-informed policy are aimed at decision makers, providing access to evidence,
+supporting rapid reviews on topics selected by policy makers, and building capacity within ministries and
+local administration to design, collect and use education data and evidence. They also connect to
+researchers and (at least, theoretically) practitioners as well as to a lesser extent, other players in the
+ecosystem including international organisations, textbook publishers, and, notably, the media.
+For practice, the audiences have evolved to include school leaders, teachers, inspectors, school boards,
+parents and more. The efforts are largely similar to those in the policy sphere though adapted,
+e.g. providing access to research results in the local language (e.g. the Netherlands’ Initiative for Education
+Research (NRO)’s knowledge portal12 for practitioners that provides access to research, summaries of key
+research in accessible language, and even tailored help in Dutch through their “knowledge roundabout”
+[kennisrotonde]). Other efforts include developing rapid reviews on topics selected by practitioners
+(including co-creation of research questions with practitioners themselves) and building capacity within
+schools and teacher education institutions and communities of practice to design, collect and use
+education data and evidence. There are also increasing efforts to scale up the level of intervention and
+coordinate between networks of schools, for example, in the EEF’s Research Schools Network,13 launched
+in 2016.
+It is also worth highlighting efforts to connect the media to high-quality evidence and experts. For example,
+the Science Media Centre14 connects journalists, scientists and press offices to relevant medical and
+scientific research and expertise. Building on this model, the UK’s Education Media Centre15 targets not
+only media but also the broader public seeking to understand the evidence base for claims about education
+made in the media.
+
+--- [PDF Page 65 / Book Page 63] ---
+
+Ensuring quality and building capacity
+In order to deliver on their mission, brokerage agencies also work to ensure the quality of research and
+provide tools and capacity building to evaluate what works and what does not work in education. An
+important first step in this process is the creation of a database of quality education research as well as
+providing clear goals and criteria for conducting and evaluating educational research. These criteria serve
+as a baseline for conducting reviews of research that can then be used to provide systematic evidence as
+to the effectiveness of particular policies or classroom practices.
+A key component to this quality-mark process is the transparent exchange of findings: reviews must be
+widely available on the various brokerage agency websites to all users (i.e. not hidden behind a paywall
+or for members only). In addition, methodologies used by the review process must be defined in detail and
+any data must be publicly available where possible. Centres are increasingly requiring reviewers to commit
+to updating their work on a regular and pre-defined basis, to include new evidence and maintain a stateof-the-art synthesis on each topic.
+
+Methodologies
+The methodological debate about what constitutes good evidence and what kinds of evidence (and burden
+of proof) required to guide decision making is an old, and fraught, conversation. The 2007 volume
+addressed this specifically by highlighting the importance of multiple methods and showcasing a
+conversation between two leading methodologists in the field, Thomas Cook and Stephen Gorard
+(2007[18]). Despite their relatively broad agreement on key elements – that multiple methods are important
+and needed to answer the different types of questions policy makers and practitioners could have, and that
+causal evidence is needed to understand whether something works or not – the evidence arguments are
+still alive and well today.
+In the randomised controlled trials (RCT) camp, the WhatWorks Clearinghouse16 (United States) works in
+collaboration with a number of other institutes and subcontractors to provide information and databases of
+research syntheses of replicable high-quality interventions, with a particular focus on RCTs. The EEF17
+has developed a toolkit to provide policy makers and practitioners an accessible summary of the RCTs
+and the effectiveness of particular interventions, including the costs and strength of the evidence. Also fully
+committed to the RCT gold standard, the Campbell Collaboration18 extends beyond the education sector
+and focuses on systematic reviews from multiple social interventions, including justice, well-being,
+demography, development and, of course, education. This is a sister organisation to the Cochrane
+Collaboration,19 which has been producing systematic reviews in health care since 1994.
+Deviating from a strict emphasis on RCTs, the EPPI-Centre20 in England has been conducting systematic
+reviews that bring together different types of evidence, including developing a structured methodology for
+combining qualitative and quantitative evidence to input into the reviews. In a similar vein, the Norwegian
+Knowledge Centre21 works with a broad set of additional actors in parallel review processes to make sure
+the views and priorities of practitioners are included in their summaries of evidence. And, most uniquely,
+the Swedish Education Act considers “teacher knowledge” as separate but equal to knowledge derived
+from formal research processes, although the mechanisms for combining these disparate sources of
+evidence are not clearly specified.
+Despite these diverse initiatives, there is still serious disagreement about what counts and what should
+count as evidence, and the kinds of evidence that meet the standards required for decision making. Many
+of the same arguments set out in our 2007 volume still hold. So too does our basic proposition that there
+is no single best method for or type of evidence-based policy [and practice] research (OECD, 2007[1]).
+Using different methodologies for different questions – and combining methodologies to understand not
+only whether something works but how and in which contexts, is key. But how to do this in a way that
+
+--- [PDF Page 66 / Book Page 64] ---
+
+insists on the rigour of evidence and the quality of the research (including its relevance to the specific policy
+or practice question) is still hotly debated.
+
+Understanding what works and what does not (and under which conditions)
+Brokerage agencies can and do play a key role in bringing together the disparate communities and bridging
+the gaps in the use of evidence in policy and practice. They have provided resources and tools for
+researchers, policy makers, and educators to openly engage in the discussion of what works in education
+and allowed for capacity building in each of those domains. Increasingly they also work to synthesise
+discrete findings by different agencies and evidence producers to contribute to a cumulative knowledge
+base.
+Formal brokerage agencies have been around on the research side since the 1970s, and we continue to
+see high-profile public investments in new organisations (e.g. Australian Education Research
+Organisation,22 incorporated in 2021). Despite the focused funding, these agencies tend to struggle with a
+series of standard challenges (OECD, 2007[1]; Blanchenay, Burns and Köster, 2014[14]), including how best
+to:
+
+
+Incorporate all stakeholders into the process.
+
+
+
+Address the tension between the time required for solid research and the necessity of quick results
+for policy making.
+
+
+
+Disseminate findings to all stakeholders, including media, parents, and students.
+
+
+
+Ensure sustainability and stability of funding.
+
+This last point is particularly challenging. Of the six education-specific brokerage agencies highlighted in
+our 2007 publication, only two are still fully active: the What Works Clearinghouse in the United States and
+the EPPI-Centre in England. New Zealand’s Best Evidence Synthesis programme still exists but funding
+for new syntheses has been discontinued; the programme now illustrates evidence in action through videos
+that show what transformative action is possible when evidence is used. The remaining three brokerage
+agencies are no longer active:
+
+
+the Canadian Council on Learning (closed)
+
+
+
+the Danish Clearinghouse (closed)
+
+
+
+the Dutch Knowledge Chamber (hibernating).
+
+We might assume that the initiatives that were discontinued were simply not delivering as intended, as
+clearly any intervention funded by public money should be evaluated for its impact and effectiveness. This
+would imply that their funders and constituents were able to understand what was successful, under which
+circumstances, and what interesting and useful measures of impact would look like.
+However, it is also possible that the decisions were made for political as well as practical reasons. We
+have not yet touched on this point in this chapter, but evidence does not take the politics out of policy
+making. Indeed, previous OECD work on systemic innovation found that decisions about whether to
+continue to fund a particular initiative are often taken before results of a programme evaluation are
+available, and that the evaluation step is the most likely to be skipped or omitted if there are time or financial
+constraints (OECD, 2009[19]). Among the examples above, funding cuts were more related to changes in
+government rather than impact or performance measures.
+Although we have been discussing evidence-informed policy and practice, we ignore politics at our peril.
+Budget timeframes and grant agreements often are set to two- to three-year cycles, which research
+suggests is not long enough to see the effect of a particular reform in its entirety (Borman et al., 2003[20]).
+Our work on education governance points out that deciding whether an initiative should be considered a
+
+--- [PDF Page 67 / Book Page 65] ---
+
+success or failure is a serious empirical, political and ethical challenge, particularly in a fast-paced world
+where expectations are likely to rise faster than performance (Burns, Köster and Fuster, 2016[5]).
+How, then, to resolve these tensions? Evaluating the functioning and impact of brokerage agencies is
+clearly important, and yet under-specified. So too is developing a clear understanding of how these
+agencies might work together to create a cumulative knowledge base, one that is both useful and used.
+But how these efforts are prioritised, sustained and funded are political as much as empirical questions.
+
+Learning from other sectors
+One way to address these long-standing challenges is to look for inspiration from other sectors. Annette
+Boaz’s contribution to this volume (Chapter 6) does precisely this, highlighting original research mapping
+intermediary organisations and mechanisms across sectors. Learning from other sectors – both their
+successes and failures – is an important way to move the discussion forward. Box 3.1 highlights a set of
+critical observations in evidence-based medicine.
+
+Box 3.1. Learning from other sectors: A crisis in evidence-based medicine?
+Despite the advances in evidence-based medicine, Trisha Greenhalgh and colleagues have highlighted
+five unintended consequences that are affecting the quality of patient treatment (Greenhalgh et al, 2014,
+order slightly changed from original):
+
+
+The evidence-based “quality mark” has been misappropriated by vested interests.
+
+
+
+The volume of evidence, especially clinical guidelines, has become unmanageable.
+
+
+
+Statistically significant benefits may be marginal in clinical practice.
+
+
+
+Evidence-based guidelines often map poorly to complex multi-morbidity.
+
+
+
+Inflexible rules and technology-driven prompts may produce care that is management-driven
+rather than patient-centred.
+
+The authors argue for a “renaissance” in evidence-based medicine with the goal of providing useable
+evidence that, combined with context and professional expertise, will help patients receive optimal
+treatment.
+
+Although comparing education to medicine is not always straightforward or, indeed, helpful, the criticisms
+of Greenhalgh, Howick and Maskrey (2014[15]) are (perhaps surprisingly) pertinent. Certainly, it is clear that
+the terms “evidence-based” and “evidence-informed” are now applied broadly by many educational actors
+to suit their own purposes. The link to the ultimate goal of using evidence to help improve student learning
+is not always clear. We argued earlier in the chapter that the rise in awareness of the terms and the
+popularity of the discussion has had mixed consequences, including, to some extent, becoming victims of
+our own success.
+Similarly, many scholars have made the argument that the volume of evidence in education is
+unmanageable. How does a policy maker or practitioner make sense of the sheer amount of (often
+contradictory) evidence at their disposal, particularly in a field like education which does not have a
+knowledge base that is quasi-universally acknowledged as well founded? Better tools to highlight quality
+research and improve the accessibility of reviews (as a way to summarise across multiple studies and
+findings and continuously update the cumulative knowledge base) are useful, but clearly they have not
+solved the problem. It must also be admitted that education is not immune to the challenges of large-scale
+
+--- [PDF Page 68 / Book Page 66] ---
+
+datasets that can overpower studies, revealing significant differences that have little real-life relevance
+(Orben and Przybylski, 2020[21]).
+Likewise, just as evidence-based medical guidelines often map poorly to complex multi-morbidity (the
+coexistence of multiple health conditions), strict recipes for learning and teaching cannot capture the
+complexity of the social and educational environment (Thompson and Wiliam, 2008[22]). Research
+evidence is just one of many sources of information used by policy makers and teachers in their practice
+(Farley-Ripple et al., 2018[23]; Cain et al., 2019[24]).
+These are all well-known challenges, and it is important to continue to address them. In addition, we must
+also consider the last point: That inflexible rules and technology-driven prompts may produce care that is
+management-driven rather than patient-centred. Greenhalgh, Howick and Maskrey (2014[15]) highlight the
+“well-intentioned efforts to automate use of evidence through computerised decision-support systems,
+structured templates…[which] can crowd out the local, individualised, and patient-initiated elements of the
+clinical consultation”. They argue that mechanical reliance on rules can stifle “the development of a more
+nuanced clinical expertise that embraces accumulated practical experience, tolerance of uncertainty, and
+the ability to apply practical and ethical judgement in a unique case”.
+This sounds surprisingly familiar. While education has not hitherto relied on the intense use of
+computerised decision-support systems, we are seeing increased digitalisation of education as part of a
+move away from a traditional industrial model and towards a more student-centred approach (Schleicher,
+2018[25]). Collaborative tools and technologies such as classroom analytics and AI-powered assessments
+are expected to help teachers to teach more effectively, reducing the amount of time spent on
+administrative and management tasks and allowing them to orchestrate their teaching more effectively
+(OECD, 2021[26]).
+Unfortunately, digital technologies do not yet seem to deliver on these promises. Facer and Selwyn (2021,
+p. 8[27]) provide an overview of the challenge, including “seemingly ‘automated’ and ‘data-driven’ processes
+[that] actually require considerable amounts of behind-the-scenes work from teachers in order to ensure
+the continued functioning of systems as well as the production of data and other inputs.” They further argue
+that the “unbundling” of teacher’s work into discrete units to be automated also unintentionally reduces
+teacher professionalisation, fragmenting the role into disconnected work processes that require little
+conceptual ability (Facer and Selwyn, 2021[27]).
+CERI/OECD has spent a considerable amount of effort arguing for the importance of understanding
+teaching as a knowledge profession (Guerriero and Révai, 2017[28]; Révai, 2020[12]; Ulferts, 2021[29]).
+Thinking through how formalised pedagogical knowledge interacts with practical experience and teacher
+judgement helps conceptualise not only the skills required for quality teaching but how initial teacher
+education and ongoing professional development might help improve them. Despite this, and connecting
+to Greenhalgh, Howick and Maskrey’s (2014[15]) point about management-driven rather than patientcentred care, there is also increasing concern that emphasis on rigid accountability mechanisms work
+against the development of teacher expertise, undermining practical experience and teacher judgement.
+This has an impact not only on the quality of teaching but also the status and attractiveness of teaching as
+a profession (OECD, 2020[30]).
+We can learn a lot from the efforts taken in other sectors to address some of the weaknesses in education.
+But we must also insist on developing education-specific solutions to our long-standing challenges.
+
+Building a cumulative knowledge base
+Unlike medicine, education is conspicuously weak in its ability to continuously develop and refine a body
+of knowledge that is quasi-universally acknowledged as well founded. Designing and supporting an
+
+--- [PDF Page 69 / Book Page 67] ---
+
+effective educational R&D system is one step to achieve this. Brokerage agencies can play a major part
+in designating the most recent authoritative additions to the knowledge pile and connecting between them.
+While ensuring the quality and effectiveness of individual agencies and initiatives is important, it is not
+enough. Just as research synthesis itself has moved beyond a focus on individual research papers to
+systematic reviews of reviews, so too do the structures and processes of brokerage need to work together
+across institutions and systems to support a cumulative effort.
+For this to work, action must be taken on multiple levels. On the level of individual brokerage agencies, we
+must continue to ensure that:
+
+
+The quality and effectiveness of brokerage efforts can be sustained and improved (building
+knowledge, capacity and relationships in the local community and language takes time and
+sustained effort, so too does change in behaviour).
+
+
+
+Outreach and interactions must be increasingly scaled up to include more actors with multiple
+needs and in diverse contexts (i.e. going beyond the early adopters and the excited champions to
+support a broad set of actors, and covering both practice and policy).
+
+
+
+The methodologies and processes of brokerage must continue to evolve and improve, addressing
+thorny questions (e.g. how best to combine disparate sources of information; what aspects of
+synthesis can be automated or not, how to go beyond engagement to quality use of research, etc.).
+
+In addition, brokerage agencies and networks need to collectively:
+
+
+Link to and build on the work of other brokerage agencies and networks, connecting across
+different languages, research traditions and contexts to the extent possible.
+
+
+
+Work together to continue to advance the science of evidence synthesis, quality use of research
+in policy and practice, and long-standing methodological and relational challenges.
+
+
+
+Think through measures of impact and effectiveness of their interconnections and joint
+collaborations.
+
+Collective work is essential to developing a cumulative knowledge base and to ensuring that quality
+research is supported and widely available in useable form. It is also a necessary precondition to the
+elaboration of a body of knowledge that is “quasi-universally acknowledged as well-founded”. For this to
+happen, the knowledge must be supported across contexts; have been tried and adapted as necessary so
+that a core element is clearly generalisable and (potentially) a certain set of adaptations set out for different
+contexts. Ideally, this would be cross-sectoral and cross-disciplinary, connecting education research to the
+broader social sciences and beyond. But even if it remains education-specific, there is important work to
+be done connecting different research traditions, brokerage agencies, and types of impact.
+
+Brokering the brokers
+Previous efforts to bring brokerage agencies together on a regional level include the European
+Commission-funded Evidence Informed Policy in Education in Europe (EIPEE)/ Evidence Informed Policy
+and Practice in Education in Europe (EIPPEE) initiative.23 Between 2010 and 2013, EIP[P]EE brought
+together 36 partners from 23 different countries across Europe. A further seven organisations from four
+countries outside Europe joined the project as international affiliates. Many of the lessons learnt from this
+initiative still resonate today, including (Gough et al., 2011[4]):
+
+
+Although there was a high level of interest and activity, very little empirical research on which
+interventions worked (and in what context) was identified.
+
+
+
+Most of the activities were concerned with producing or communicating research, with little focus
+on the use of the research itself and even less on the “entire evidence to policy system”.
+
+--- [PDF Page 70 / Book Page 68] ---
+
+
+
+Most brokerage initiatives were governmental in nature and focused on the national system. Very
+little collaboration and coordination existed at a trans-European level (other regions were not
+covered).
+
+Although the European Commission funding ended in 2013, this initiative continued as the EIPPEE
+Network, with large-scale international conferences and seminars bringing together national actors and
+the international EIPPEE partners. The opportunity to exchange ideas and share challenges with other
+leaders in the brokerage field was as welcome as it was rare, demonstrating the dearth of cumulative
+activities in this space.
+One of us (TB) was a partner of the EIPPEE network throughout this time. A consistent observation was
+the tension between the two major goals of broadening and deepening the initiative. Broadening and
+opening to new partners required raising awareness and building capacity for new members to participate
+in the discussions. Deepening and building on the collective expertise of existing members required the
+space and time to address difficult challenges and engage in expert methodological discussions. This
+tension was solved by creating two different activities: 1) EIPPEE network meetings and conferences,
+which took place over a full day or two and included as broad a set of actors and agencies as possible,
+and 2) EIPPEE partner meetings, which were often held just before or after the network meetings and
+addressed shared challenges and solutions of experienced brokers.
+There was - and continues to be - a need for building and sharing cumulative knowledge on brokerage,
+brokering and the processes of quality research use. Despite the lack of funding support, a core group of
+institutions and individuals met once or twice a year for EIPPEE partner meetings until interrupted by the
+COVID-19 pandemic in 2020. The warm reception to the new CERI/OECD project when it started in 2021
+was an additional indication of the interest and appetite for this kind of initiative.
+We have argued – hopefully uncontentiously – that brokerage agencies play a vital role and there are
+valuable formative lessons to be learnt from their individual and combined experiences. They are
+potentially a fundamental mechanism in aligning supply and demand, and there are valuable formative
+lessons to be learnt from their experiences to date.
+Despite this, and despite the extensive funding that has gone into the creation and support of such
+agencies, the monitoring and evaluation of the work and impact of these centres is limited. There is even
+less work on understanding how these agencies might work together to create a cumulative knowledge
+base (although see Gough, Maidment and Sharples (2018[31]) for an example from the United Kingdom).
+This is a serious failing.
+
+Concluding note
+This chapter set out to revisit the discussion of evidence-informed policy since the publication of our 2007
+volume, with a specific focus on brokerage and brokerage agencies. It has argued that although there have
+been many impressive advances in the field in the last decade and a half, many of the same challenges
+remain.
+In addition, new challenges have arisen, including quality control on social media and a perceived disdain
+for “experts” and a worry that science and research is being deliberately devalued. Fabricators of “fake
+news” and alternative claims (for example, contradictory evidence on climate change) often do not aim to
+logically challenge the science; rather, they seek to erode trust in facts to the point where they no longer
+matter. This allows “people to choose their own reality, where facts and objective evidence are trumped
+by existing beliefs and prejudices” (Lewandowsky, Ecker and Cook, 2017[2]).
+
+--- [PDF Page 71 / Book Page 69] ---
+
+Addressing this challenge – and other future challenges as yet unknown – will require new forms of
+intervention. Lewandowsky, Ecker and Cook (2017[2]) argue that the best approach is “technocognition”,
+an interdisciplinary approach that uses findings from cognitive science and design to combat
+misinformation as well as technological solutions such as algorithmic fact checkers, automatic alerts for
+suspected disinformation, and increasing the variety and kinds of suggested content (i.e. broadening what
+is received as “you might also like”) to extend the filter bubble.
+If we are to build a cumulative knowledge base of quality education research to inform policy and practice,
+we must address both existing and emerging challenges. We must continue to learn from the successes
+and failures of the rich work that has been done. We must insist that the “evidence-informed” quality mark
+is used to support better education and improved student learning, not misappropriated by vested interests.
+We must continue to fund and deliver high-quality and relevant research that is useable and accessible,
+and that can be synthesised across individual studies. We must solve the difficult methodological
+challenges involved in combining different types of evidence and knowledge. We must also broaden our
+understanding of how this process plays out in different contexts and the important role of funders in
+prioritising and supporting research quality and synthesis.
+In addition, we need to continue to focus on efforts to understand quality research use for policy makers
+and practitioners alike. The attention to practice has been important and useful, but work on evidenceinformed policy needs to be brought back into the mix to effect system-wide change. While we continue to
+build a good understanding of what works between and across agencies (that is, how can brokerage efforts
+be most effective), we must also insist on deepening collaboration to systematically build a cumulative
+knowledge base. That is, we must push for larger efforts to “broker the brokers”, building and scaling
+knowledge about what works in brokerage itself. These must extend beyond Europe and the OECD to
+include efforts from across the world.
+And lastly, we must design teacher education and public servant training to hone the capacity to critically
+engage with and use research of various kinds and from multiple methodologies. This is an essential step
+in defending scientific literacy as a basic democratic right (Chalmers et al., 2018[32]), key to asserting the
+importance of and trust in science and the scientific process in education and beyond.
+
+References
+Best, A. and B. Holmes (2010), “Systems thinking, knowledge and action: Towards better
+models and methods”, Evidence and Policy, Vol. 6/2, pp. 145-159.
+
+[6]
+
+Blanchenay, P., T. Burns and F. Köster (2014), “Shifting Responsibilities - 20 Years of Education
+Devolution in Sweden: A Governing Complex Education Systems Case Study”, OECD
+Education Working Papers, No. 104, OECD Publishing, Paris,
+https://doi.org/10.1787/19939019.
+
+[14]
+
+Borman, G. et al. (2003), “Comprehensive school reform and achievement: A meta-analysis”,
+Review of Educational Research, Vol. 73/2, pp. 125-230,
+https://doi.org/10.3102/00346543073002125.
+
+[20]
+
+Burns, T. (2022), What Schools for Tomorrow? Futures Thinking and Leading for Uncertainty,
+CSE Leading Education Series #8, Centre for Strategic Education, Melbourne,
+https://drive.google.com/file/d/13Tt4GGQE_JLk9PWnUdEU-tZCoC93zqT1/view.
+
+[16]
+
+Burns, T., F. Köster and M. Fuster (2016), Education Governance in Action: Lessons from Case
+Studies, Educational Research and Innovation, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264262829-en.
+
+[5]
+
+--- [PDF Page 72 / Book Page 70] ---
+
+Cain, T. et al. (2019), “Bounded decision-making, teachers’ reflection, and organisational
+learning: How research can inform teachers and teaching”, British Education Research
+Journal, Vol. 45/5, pp. 1072-1087.
+
+[24]
+
+Chalmers, I. et al. (2018), “Key concepts for informed health choices: A framework for helping
+people learn how to assess treatment claims and make informed choices”, BMJ EvidenceBased Medicine, Vol. 23/1, pp. 29-33, https://doi.org/10.1136/ebmed-2017-110829.
+
+[32]
+
+Cook, T. and G. Gorard (2007), “What counts and what should count as evidence”, in Burns, T.
+and T. Schuller (eds.), Evidence in Education: Linking Research and Policy, OECD
+Publishing, Paris, https://doi.org/10.1787/9789264033672-en.
+
+[18]
+
+Cordingley, P. (2016), “Knowledge and research use in local capacity building”, in Burns, T. and
+F. Köster (eds.), Governing Education in a Complex World, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264255364-9-en.
+
+[11]
+
+Cordingley, P. et al. (2003), “The impact of collaborative CPD on classroom teaching and
+learning”, in Research Evidence in Education Library, EPPI-Centre, Social Science Research
+Unit, Institute of Education, University of London.
+
+[3]
+
+Facer, K. and N. Selwyn (2021), “Digital technology and the futures of education: Towards ‘nonstupid’ optimism”, UNESCO, https://unesdoc.unesco.org/ark:/48223/pf0000377071.
+
+[27]
+
+Farley-Ripple, E. et al. (2018), “Rethinking connections between research and practice in
+education: A conceptual framework”, Educational Researcher, Vol. 47/4, pp. 235–245,
+https://doi.org/10.3102/0013189X18761042.
+
+[23]
+
+Gough, D., C. Maidment and J. Sharples (2018), UK What Works Centres: Aims, Methods and
+Contexts, EPPI-Centre, Social Science Research Unit, UCL Institute of Education, University
+College London, https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3731.
+
+[31]
+
+Gough, D. et al. (2011), Evidence Informed Policy in Education in Europe: EIPEE Final Project
+Report, EPPI-Centre, Social Science Research Unit, Institute of Education, University of
+London.
+
+[4]
+
+Greenhalgh, T., J. Howick and N. Maskrey (2014), “Evidence based medicine: a movement in
+crisis?”, British Medical Journal, Vol. 348, p. g3725, https://doi.org/10.1136/bmj.g3725.
+
+[15]
+
+Guerriero, S. and N. Révai (2017), “Knowledge-based teaching and the evolution of a
+profession”, in Guerriero, S. (ed.), Pedagogical Knowledge and the Changing Nature of the
+Teaching Profession, OECD Publishing, Paris, https://doi.org/10.1787/978926427069.
+
+[28]
+
+Langer, L., J. Tripney and D. Gough (2016), The Science of Using Science: Researching the
+Use of Research Evidence in Decision-Making, EPPI-Centre, Social Science Research Unit,
+UCL Institute of Education, University College London.
+
+[10]
+
+Levin, B. (2011), “Mobilising research knowledge in education”, London Review of Education,
+Vol. 9/11, pp. 15-26.
+
+[7]
+
+Lewandowsky, S., U. Ecker and J. Cook (2017), “Beyond misinformation: Understanding and
+coping with the “post-truth” era”, Journal of Applied Research in Memory and Cognition,
+Vol. 6/4, pp. 353-369, https://doi.org/10.1016/j.jarmac.2017.07.008.
+
+[2]
+
+--- [PDF Page 73 / Book Page 71] ---
+
+Loeb, S. and D. Plank (2008), “Learning what works: Continuous improvement in California’s
+education system”, Policy Brief, Vol. 8/4, Policy Analysis for California Education, Berkeley
+and Stanford.
+
+[8]
+
+Lubienski, C. (2019), “Conclusion: The future of research use”, in Malin, J. and C. Brown (eds.),
+The Role of Knowledge Brokers in Education: Connecting the Dots Between Research and
+Practice (1st ed.), Routledge, https://doi.org/10.4324/9780429462436.
+
+[17]
+
+Maxwell, B. et al. (2019), Teaching Assistants Regional Scale-up Campaign: Lessons Learned,
+Education Endowment Foundation, London,
+https://educationendowmentfoundation.org.uk/public/files/Campaigns/TA_scale_up_lessons_l
+earned.pdf.
+
+[13]
+
+O’Day, J. (2002), “Complexity, accountability, and school improvement”, Harvard Educational
+Review, Vol. 72/3, http://www.hepg.org/her-home/issues/harvard-educational-review-volume72-issue-3/herarticle/_48.
+
+[9]
+
+OECD (2021), OECD Digital Education Outlook 2021: Pushing the Frontiers with Artificial
+Intelligence, Blockchain and Robots, OECD Publishing, Paris,
+https://doi.org/10.1787/589b283f-en.
+
+[26]
+
+OECD (2020), TALIS 2018 Results (Volume II): Teachers and School Leaders as Valued
+Professionals, TALIS, OECD Publishing, Paris, https://doi.org/10.1787/19cf08df-en.
+
+[30]
+
+OECD (2009), Working Out Change: Systemic Innovation in Vocational Education and Training,
+OECD Publishing, Paris, https://doi.org/10.1787/9789264075924-en.
+
+[19]
+
+OECD (2007), Evidence in Education: Linking Research and Policy, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264033672-en.
+
+[1]
+
+Orben, A. and A. Przybylski (2020), “Teenage sleep and technology engagement across the
+week”, PeerJ, Vol. 8, p. e8427, https://doi.org/10.7717/peerj.8427.
+
+[21]
+
+Révai, N. (2020), “What difference do networks make to teachers’ knowledge?”, OECD
+Education Working Papers, No. 215, OECD Publishing, Paris,
+https://doi.org/10.1787/75f11091-en.
+
+[12]
+
+Schleicher, A. (2018), “Educating learners for their future, not our past”, ECNU Review of
+Education, Vol. 1/1, pp. 58-75, https://doi.org/10.30926/ecnuroe2018010104.
+
+[25]
+
+Thompson, M. and D. Wiliam (2008), “Tight but loose: A conceptual framework for scaling up
+school reforms”, in Wylie, C. (ed.), Tight but Loose: Scaling Up Teacher Professional
+Development in Diverse Contexts, Educational Testing Service (ETS), Princeton.
+
+[22]
+
+Ulferts, H. (ed.) (2021), Teaching as a Knowledge Profession: Studying Pedagogical Knowledge
+across Education Systems, Educational Research and Innovation, OECD Publishing, Paris,
+https://doi.org/10.1787/e823ef6e-en.
+
+[29]
+
+--- [PDF Page 74 / Book Page 72] ---
+
+Notes
+1
+
+For more information, see https://eppi.ioe.ac.uk/cms/.
+
+2
+
+For more information, see http://www.minedu.govt.nz/goto/bestevidencesynthesis.
+
+3
+
+For more information, see http://www.curee.co.uk/.
+
+4
+
+For more information, see http://www.whatworks.ed.gov/.
+
+5
+
+For more information, see http://www.eippee.eu/.
+
+6
+
+For more information, see https://educationendowmentfoundation.org.uk/.
+
+7
+
+For more information, see http://www.minedu.govt.nz/goto/bestevidencesynthesis.
+
+8
+
+For more information, see http://www.nier.go.jp/English/index.html.
+
+9
+
+For more information, see https://www.uis.no/en/research/knowledge-centre-for-education.
+
+10
+
+For more information, see http://www.skbf-csre.ch/en/.
+
+11
+
+For more information, see http://en.egitimreformugirisimi.org/.
+
+12
+
+See https://www.nro.nl/en/knowledge-practice.
+
+13
+
+For more information, see https://educationendowmentfoundation.org.uk/support-for-schools/researchschools-network.
+14
+
+For more information, see https://www.sciencemediacentre.org/.
+
+15
+
+For more information, see https://www.educationmediacentre.org/.
+
+16
+
+For more information, see http://www.whatworks.ed.gov/.
+
+17
+
+For more information, see https://educationendowmentfoundation.org.uk/.
+
+18
+
+For more information, see http://www.campbellcollaboration.org/.
+
+19
+
+For more information, see https://www.cochrane.org/.
+
+20
+
+For more information, see https://eppi.ioe.ac.uk/cms/.
+
+21
+
+For more information, see https://www.uis.no/en/research/knowledge-centre-for-education.
+
+22
+
+For more information, see https://www.edresearch.edu.au/.
+
+23
+
+For more information, see http://www.eippee.eu/.

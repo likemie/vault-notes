@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 68
+fact_related_count: 76
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Performance Indicators]]"
+  - "[[Epistemic Governance]]"
   - "[[Governing by Numbers]]"
+  - "[[Evidence Ecosystem]]"
   - "[[Research Topic]]"
   - "[[Going Native]]"
   - "[[Variable]]"
@@ -37,6 +39,8 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[School Leadership]]"
   - "[[Social-Emotional Learning]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Innovation Hub]]"
   - "[[Growth]]"
   - "[[Knowledge Production]]"
   - "[[Evidence-Based Education]]"
@@ -59,6 +63,7 @@ related_concepts:
   - "[[Mediatised Governance]]"
   - "[[Media Logic]]"
   - "[[Rashomon Effect]]"
+  - "[[Construct]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
@@ -68,6 +73,7 @@ related_theories:
 related_methods:
   - "[[Peer Debriefing]]"
   - "[[Questionnaire]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Jarl Bengtsson]]"
 related_facts:
@@ -85,6 +91,7 @@ related_facts:
   - "[[Teaching and Learning International Survey]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[PISA for Development]]"
+  - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Education GPS]]"
   - "[[World Bank]]"
   - "[[Definition and Selection of Competencies]]"
@@ -95,6 +102,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: medium
@@ -131,7 +139,7 @@ updated: 2026-09-12
 > - **1961–1970s — OECD 改组与冷战“[[Development Turn in Comparative Education|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态竞争的制度堡垒。在[[Economics of Education Movement|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动了比较教育的[[Development Turn in Comparative Education|发展转向]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]
 >   - 1962 启动著名的地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory|人力资本理论]]系统转化为南欧各国的国家教育发展规划。
 > - **1980s–1990s — 指标体系建构与管理主义转向** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向经合组织下设的[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI），委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
-> - **2000–至今 — 大数据时代、[[Governing at a Distance|远处治理]]与[[Policy Brokerage|政策中介]]深化** 2000 年推出首轮 [[PISA]] 测评，随后扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，更通过深度工具打包，将其跨国测评与外向型国别横向借鉴相结合，演进为全球教育政策知识的重要中介者与规范制定者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
+> - **2000–至今 — 大数据时代、[[Governing at a Distance|远处治理]]与[[Epistemic Governance|知识治理]]体系深化** 2000 年推出首轮 [[PISA]] 测评，随后扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，更通过深度工具打包与外向型国别横向借鉴演进为全球教育政策规范制定者。与此同时，OECD 下属[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）自 2000 年起开启了长达二十余年的教育知识管理与知识治理体系探索（2000/2003 部门知识治理调查、2007 年《Evidence in Education》旗舰专著、2010 年《The Nature of Learning》学习科学工程、教师知识调查 TKS 及 2021 年启动的[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]），推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem|证据生态系统]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]; [[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
 
 ---
 
@@ -165,6 +173,7 @@ updated: 2026-09-12
 > - **国别教育政策审查（National Reviews）** 应受测国政府官方邀请，派出高级别国际专家组对特定国家的教育体系展开全景式实地诊断，其评估结论往往直接成为该国立法与拨款机制改革的政策依据。
 > - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与[[Social-Emotional Learning|社会情感能力]]测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
 > - **[[Policy Brokerage|政策中介]]工具打包与外向型横向经验借鉴** 以 PISA 基准测验为中枢，打包国别同行评议、教育政策审查与教育全球定位系统（Education Global Positioning System，[[Education GPS]]）数据平台；与[[World Bank|世界银行]]依赖内部自指性实践库的风格截然不同，经合组织的中介风格高度依赖“外向型横向经验借鉴”（outward-looking cross-national referencing），系统提炼并推介其他高表现成员国的成功政策经验与改革教训，在知识过剩环境中为受测国精准供给具有确定性表象的政策处方。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
+> - **教育[[Epistemic Governance|知识治理]]与[[Knowledge Mobilisation|知识动员]]体系研发（[[Centre for Educational Research and Innovation|CERI]] 业务线）** 依托教育研究与[[Innovation Hub|创新中心]]（CERI）长期推进教育研发（R&D）与知识管理议程。相继推出 2007 年旗舰专著《Evidence in Education》、2010 年《The Nature of Learning》学习科学工程、教师知识调查（Teacher Knowledge Survey，TKS），并于 2021 年立项实施跨越 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem|证据生态系统]]宏观政策诊断工具。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
 
 > [!citation-card] 《经济合作与发展组织公约》第一条（1960年）
 > 经合组织（OECD）的宗旨应为促进旨在实现以下目标的政策：
@@ -260,3 +269,6 @@ updated: 2026-09-12
 > | [[Mediatised Governance]] | Concept | OECD 测评数据进入主权国家后，与本土政治修辞及[[Media Logic\|媒体逻辑]]深度交织形成的治理异化形态。 |
 > | [[Rashomon Effect]] | Concept | 解释同一批 OECD 评估数据被国际组织、本土政客与大众媒体赋予多重冲突真实的[[Epistemology\|认识论]]效应。 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | Argument | 剖析数字治理 2.0 时代 OECD 如何通过政策中介工具打包与经验横向借鉴实现远处治理。 |
+> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] | Argument | 总结 [[Centre for Educational Research and Innovation\|CERI]] 二十年循证政策与[[Epistemic Governance\|知识治理]]研究脉络，基于跨国政策调查构建五维证据生态[[Analytic Framework\|分析框架]]。 |
+> | [[Strengthening the Impact of Education Research Project]] | Fact (Program) | OECD CERI 启动的旗舰跨国调查项目，覆盖 29 国 37 个教育系统，系统摸排[[Knowledge Mobilisation\|知识动员]]与证据生态治理机制。 |
+> | [[Evidence Ecosystem]] | Concept | OECD 倡导的新一代知识治理核心[[Construct\|构念]]，超越线性传递与点状网络，强调全系统动态反馈与使能机制。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "以学术研究证据为依据组织课堂教学决策的取向，强调外部实证文献对教学的启发与支撑，是证据知情实践（EIP）的关键拼图之一；在现实中常与基于数据的决策（DBDM）割裂，亟需依托教师研究素养与学校探究循环实现双轮整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,9 +38,14 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
-  - "[[Research-Practice Partnership]]"
+  - "[[Engagement in and with Research]]"
+  - "[[Dialogue in Education]]"
   - "[[Homework]]"
-related_theories: []
+  - "[[Didaktik]]"
+  - "[[Teacher Professional Agency]]"
+related_theories:
+  - "[[Research Utilization Models]]"
+  - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
@@ -51,14 +56,16 @@ related_persons:
   - "[[Julie Nelson]]"
   - "[[Carol Campbell]]"
 related_facts:
+  - "[[OECD]]"
   - "[[Elementary Teachers' Federation of Ontario]]"
   - "[[Knowledge Network for Applied Education Research]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Torres_2022_KMModels]]"
 confidence: medium
 status: draft
 created: 2026-08-26
-updated: 2026-09-02
+updated: 2026-09-12
 ---
 
 # Research-Informed Teaching Practice
@@ -107,6 +114,7 @@ updated: 2026-09-02
 > - **批判性[[Research Literacy|研究素养]]与[[Analytical Stance|分析立场]]（Research Literacy & Analytical Stance）** 教师具备辨识研究质量、识破商业化[[Persuasive Communication in Education|说服性修辞]]包装并评估实证效能的专业素养。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
 > - **同行实践证据中介网络（Peer-Mediated Practice Evidence）** 依托教师工会、学区教研员与[[School Leadership|学校领导]]等中介者，将原始学术成果[[Transfer Translation Transformation|转译]]为易吸收的[[Practice-Based Evidence|实践本位证据]]（Practice-Based Evidence, PBE）。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 > - **[[School Enquiry Cycle|学校探究循环]]整合机制（School Enquiry Cycle Integration）** 在学校探究循环中，将 RITP 的实证干预策略与 [[Data-Based Decision Making|DBDM]] 的校本诊断紧密嵌合。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–130)]]
+> - **审议协商中的三种声音对话（Three Voices in Teacher Deliberation）** 承认教师个人经验信念（第一声音）、同行学校文化（第二声音）与外来学术研究（第三声音）在课堂决策中的多维碰撞与深度对话（Cain, 2015; [[Argument_Torres_2022_KMModels|Torres, 2022, pp. 47–49]]）。
 
 > [!logic-map]- 要素关系与探究循环
 > ```mermaid
@@ -116,7 +124,7 @@ updated: 2026-09-02
 >     D["校内系统与课堂数据<br>(评估/观察/记录)"] --> E["教师数据素养<br>& 三角验证"]
 >     E --> F["基于数据的决策<br>(DBDM: 校本诊断)"]
 >     C & F --> G["学校探究循环<br>(School Enquiry Cycle)"]
->     G --> H["教师专业判断审议<br>(Professional Judgment)"]
+>     G --> H["教师专业判断审议<br>(三种声音碰撞)"]
 >     H --> I["课堂教学证据知情改进<br>(EIP Action)"]
 > ```
 
@@ -165,6 +173,24 @@ updated: 2026-09-02
 
 ---
 
+### 命题四　教师对研究文本的采纳置身于三种声音碰撞中且表现为非线性的多元能动反应模式
+
+> [!concept-lens] 教师微观认知能动性与反身性对话机制
+> 教师绝非外部证据的被动载体，而是通过三种声音的审议权衡与五类能动反应模式决定研究的去留与形态。
+
+> [!claim] Tim Cain (2015) / [[Argument_Torres_2022_KMModels|Torres (2022)]]
+> **审议协商与五类能动反应模式** 教师在审视学术研究文献时，并非机械被动地照搬外部处方，而是置身于“三种声音”的动态碰撞之中：教师自身的个人价值与教学信念（第一声音）、学校同事与同行共同体的本土实践文化（第二声音），以及外来学术研究文献的实证主张（第三声音）。由于前两种声音在日常课堂中占据基础地位，第三声音若要产生实质影响，必须经由教师的反思性审议展开协商对话。在此微观机制下，教师展现出五类能动反应模式（Cain, 2015; [[Argument_Torres_2022_KMModels|Torres, 2022, pp. 47–49]]）：
+> - **直接忽略（Ignore）** 视研究证据为不相关或不切实际的外部噪音，教学实践维持原状。
+> - **证实既有经验（Confirmatory Use）** 选择性摄取能佐证自身过往教学习惯与直觉信念的研究观点。
+> - **策略性利用（Strategic Use）** 借用学术术语与研究权威作为争取外部资源或应对行政考核的合法化工具。
+> - **概念性启发与重构（Conceptual Use）** 吸收研究中的概念透镜，深层重塑教师自身的教学理解与专业思维。
+> - **批判性拒绝（Reject）** 基于真实的课堂情境与实践智慧，对研究结论提出合理反驳与专业审视。
+
+> [!warrant]- 能动审议超越技术采纳假设
+> 证实、策略、概念乃至批判性拒绝等模式的存在，证明了教师专业能动性在知识动员中的核心地位；单纯将未按研究处方行事实践判定为“阻抗”，在理论上忽视了教师专业实践知识的合法性。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -173,6 +199,7 @@ updated: 2026-09-02
 > | **认识论界定命题** | 确立研究证据作为证据知情拼图的关键碎片地位，划定其与 EIP 的本质区别 | 教师教研培训、循证教学设计、反对脚本化与教条化教学 | Jonathan Sharples (2013); [[Julie Nelson]] 等 |
 > | **系统整合命题** | 揭示 RITP 与 DBDM 的结构性割裂，倡导依托学校探究循环实现双轮嵌合 | 校本教研改革、学校持续改进计划、跨校协作网络 | Brown et al. (2017); [[Carol Campbell]] 等 |
 > | **社会动员与素养命题** | 阐明同行中介网络对证据流动的决定性作用，强调教师分析立场与研究素养建设 | 流行教育创新甄别、全系统知识动员、专业学习共同体建设 | Cooper et al. (2017); Carrier (2017); Campbell et al. (2017) |
+> | **微观认知能动命题** | 阐明三种声音碰撞与五类能动反应模式，揭示教师作为反思审议主体的微观采纳机制 | 教师专业发展设计、研究文本转译、校本教研反思研讨 | Tim Cain (2015); [[Argument_Torres_2022_KMModels\|Torres (2022)]] |
 
 ---
 
@@ -182,8 +209,9 @@ updated: 2026-09-02
 > - **1996 — 教学作为研究支撑专业** David Hargreaves 发表奠基性演讲，呼吁将教学重塑为由研究支撑的循证专业，引发国际学界对教育[[Research Utilization|研究利用]]的广泛讨论。
 > - **2000s — [[Evidence-Based Education|证据本位教育]]（EBE）与医学模式移植** 伴随欧美教育问责制和“什么有效”运动，强调以高等级实验因果证据直接指导课堂操作的“证据本位”或“研究本位”取向成为政策主流。
 > - **2010s — 从 Research-Based 到 Research-Informed 的语意转向** 学界反思医学模式在复杂教育情境中的局限，逐渐用“研究知情”（Research-Informed）取代具有硬性规定意味的“研究本位”（Research-Based），强调研究对教师[[Professional Judgment|专业判断]]的启发而非支配。
+> - **2015 — 教师与研究文本互动的三种声音理论** Tim Cain 发表《Teachers’ [[Engagement in and with Research|Engagement with Research]] texts》，提出“第一声音”（教师个人价值与经验）、“第二声音”（同行同事交流）与“第三声音”（外来学术研究），指出研究文本要真正进入教学思维，必须与前两种声音产生[[Dialogue in Education|对话]]与深层碰撞。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 47–49)]]
 > - **2017 — 特刊确立 RITP 拼图地位与 [[Data-Based Decision Making|DBDM]] 整合模型** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 汇聚多国经验，正式将 RITP 界定为 [[Evidence-Informed Practice|EIP]] 的重要组成板块，并与 DBDM 并置，提出依托[[School Enquiry Cycle|学校探究循环]]实现内部数据诊断与外部研究干预的深度融合。
-> - **2020s — 全系统[[Knowledge Mobilisation|知识动员]]与[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）常态化** 随着全系统知识动员战略的推行，RITP 进一步嵌入政府-大学-学区-工会的双向协作网络中，转向研究者与实践者的共同知识创造。
+> - **2022 — [[OECD]] [[Knowledge Mobilisation|知识动员]]模型横向审视** [[Argument_Torres_2022_KMModels|Torres (2022)]] 梳理教学端[[Research Utilization Models|研究使用模型]]，强调教师并非被动接受学术结论，而是通过策略性、证实性或概念性对话将研究内化为专业思维方式。
 
 ---
 
@@ -208,9 +236,11 @@ updated: 2026-09-02
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统阐明 RITP 在证据知情拼图中的定位，揭示 RITP 与 [[Data-Based Decision Making|DBDM]] 两个世界的割裂，并提出全系统[[Knowledge Mobilisation|知识动员]]与探究整合模型。
-> - Brown, Schildkamp, & Hubers (2017) — 提出证据知情学校与教师改进模型，通过系统的[[School Enquiry Cycle|学校探究循环]]实现 RITP 与 DBDM 的深度融合。
-> - Cooper, Klinger, & McAdie (2017) — 实证揭示教师在课堂评估信息搜寻中对同行交流网络与[[Practice-Based Evidence|实践本位证据]]的显著依赖。
-> - Carrier (2017) — 剖析流行教育创新的[[Persuasive Communication in Education|说服性沟通策略]]，论证教师培养[[Analytical Stance|批判性分析立场]]与[[Research Literacy|研究素养]]的紧迫性。
-> - Campbell et al. (2017) — 依托 [[Knowledge Network for Applied Education Research|KNAER]] [[Case Study|案例研究]]全系统知识动员战略，提出优质知识产品、协作关系与全系统能力建设三位一体模型。
+> [!evidence-grid] 相关研究索引
+> - **[[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]** 系统阐明 RITP 在证据知情拼图中的定位，揭示 RITP 与 [[Data-Based Decision Making|DBDM]] 两个世界的割裂，并提出全系统[[Knowledge Mobilisation|知识动员]]与探究整合模型。
+> - **Cain (2015)** 提出教师与研究文本互动的“三种声音”理论与使用形态矩阵（忽略、证实、策略、概念、拒绝），揭示课堂证据采纳的微观机制。
+> - **[[Argument_Torres_2022_KMModels|Torres (2022)]]** 评述 Cain 的研究知情[[Didaktik|教学理论]]与 Rickinson 的 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立从[[Teacher Professional Agency|教师能动性]]与质量使用理解知识动员的实践路径。
+> - **Brown et al. (2017)** 提出证据知情学校与教师改进模型，通过系统的[[School Enquiry Cycle|学校探究循环]]实现 RITP 与 DBDM 的深度融合。
+> - **Cooper et al. (2017)** 实证揭示教师在课堂评估信息搜寻中对同行交流网络与[[Practice-Based Evidence|实践本位证据]]的显著依赖。
+> - **Carrier (2017)** 剖析流行教育创新的[[Persuasive Communication in Education|说服性沟通策略]]，论证教师培养[[Analytical Stance|批判性分析立场]]与[[Research Literacy|研究素养]]的紧迫性。
+> - **Campbell et al. (2017)** 依托 [[Knowledge Network for Applied Education Research|KNAER]] [[Case Study|案例研究]]全系统知识动员战略，提出优质知识产品、协作关系与全系统能力建设三位一体模型。

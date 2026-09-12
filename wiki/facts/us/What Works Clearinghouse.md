@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 46
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_count: 52
+fact_related_level: 6
+fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
 tags:
   - what-works-clearinghouse
@@ -25,6 +25,9 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Knowledge Mobilisation]]"
   - "[[Clinical Trial]]"
   - "[[Internal Validity]]"
   - "[[Attrition]]"
@@ -37,7 +40,8 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Publication Bias]]"
-  - "[[Paradigm]]"
+  - "[[Research Utilization]]"
+  - "[[Dialogue in Education]]"
   - "[[Causality]]"
   - "[[5-3-20 Rule]]"
 related_theories:
@@ -68,9 +72,11 @@ related_facts:
   - "[[Success for All]]"
   - "[[Communities in Schools]]"
   - "[[National Dropout Prevention Center]]"
+  - "[[Education Endowment Foundation]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
@@ -78,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-05
+updated: 2026-09-12
 ---
 
 # What Works Clearinghouse
@@ -87,10 +93,12 @@ updated: 2026-09-05
 
 ## 机构定位与运营概况
 
-> [!info] 机构定位与运营概况
-> **有效干预清算中心（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）** 是由美国教育部教育科学研究院（IES）于 2002 年依据《教育科学改革法案》（ESRA）创立的联邦官方教育证据清算中心，是当代[[Evidence-Based Education|循证教育]]（EBE）与循证改革（EBR）基础设施的核心旗舰平台([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 7–8]])。
->
-> WWC 专注于早期教育至高等教育全学段，评估对象穿透至具名项目（Programs）、教学实践（Practices）、教育政策（Policies）以及单项实证研究。当前处于**活跃运营（Active）**状态，官方平台为 [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)，技术审查规程已持续演进至审查手册第 5 版（Handbook v5.0）。
+> [!claim] 核心定位
+> **有效干预清算中心（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）** 是由美国教育部教育科学研究院（IES）于 2002 年依据《教育科学改革法案》（ESRA）创立的联邦官方教育证据清算中心，是当代[[Evidence-Based Education|循证教育]]（EBE）与循证改革（EBR）基础设施的核心旗舰平台。([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 7–8]])
+
+> [!org-context] 运营概况与知识中介[[Paradigm|范式]]
+> - **学段与对象全覆盖** 专注于早期教育至高等教育全学段，评估对象穿透至具名干预项目（Programs）、教学实践（Practices）、教育政策（Policies）以及单项实证因果研究。当前处于**活跃运营（Active）**状态，官方平台为 [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)，技术审查规程已持续演进至审查手册第 5 版（Handbook v5.0）。
+> - **早期线性“推送”与[[Transfer Translation Transformation|转译]]范式代表** [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 20–21)]] 将 WWC 视为早期知识经纪（knowledge brokerage）的标志性机构。WWC 旨在向教师提供“制定循证决策所需的信息”，核心机制依赖“[[Knowledge Mobilisation|知识转译]]”（translation）——将高严谨性的研究成果转化为用户友好的实践指南（practice guides）、干预评估快报与工具包，呈现出典型的线性研究转移（research transfer）与单向知识推送特征。
 
 ---
 
@@ -189,9 +197,15 @@ updated: 2026-09-05
 > >
 > > - **联邦政策制定者** 坚持 WWC 必须作为纯净的因果过滤器，防止低质量研究浪费纳税人资金([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
 > > - **学区与[[School Leadership|学校领导]]者** 批评 WWC 缺乏**实施成本（Cost Analysis）**、**本地适配性（Local Adaptability）**与**师生接受度**信息，导致实践者无法仅凭 WWC 评级做出采购决策([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 120–122]])。
-> >
-> > > [!axis] 开发者[[Conflict of Interest in Research|利益冲突]]与独立复制缺失
+>
+> > [!axis] 开发者[[Conflict of Interest in Research|利益冲突]]与独立复制缺失
 > > 争论 WWC 允许由干预开发者（Developers）主导的评估作为评级证据是否会引入[[Publication Bias|发表偏倚]]与[[Effect Size|效应量]]虚高([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 15]])。
+>
+> > [!axis] 单向“知识推送”与“[[Transfer Translation Transformation|转译]]”[[Paradigm|范式]]的系统局限
+> > 争论单纯依靠线性供给与文本转译能否真正驱动一线实践变革与[[Research Utilization|证据使用]]。
+> >
+> > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** WWC 体现了早期知识中介的线性研究转移模型，假定将研究成果转译为用户友好的指南和工具包即可直接指导实践。然而实证证据表明，单纯的“知识推送”（push）与文本分发并不能保证决策中的研究利用（Langer et al., 2016）。
+> > - **生态模型反思** 相比英国 [[Education Endowment Foundation|EEF]] 构建的“研究学校网络”等生态体系，WWC 缺乏双向“拉动”（pull）机制，未能在研究者与教师之间建立持续的关系型[[Dialogue in Education|对话]]与本土能力建设，导致高质量证据容易陷入与学校日常实践脱节的窘境。
 
 > [!critique] 局限性总结
 > - **微观分域导致的认知过载** WWC 针对同一项目在不同结果域分别发布独立评级，使得非专业用户难以获得一目了然的“整体推荐”信号。
@@ -210,4 +224,5 @@ updated: 2026-09-05
 > | [[Campbellian Validity Framework]] | 理论基础 | WWC 审查程序与门控机制直接奠基于 Campbellian 效度体系。 |
 > | [[5-3-20 Rule]] | 技术规程 | WWC 单一被试实验审查与综合证据认定的标志性门槛规则。 |
 > | [[ESSA 2015 Evidence Standards]] | 法律依托 | ESSA 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
-> | [[Argument_Chen_Cheung_2025_ERR]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |
+> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] | 理论反思 | 批判性分析 WWC 早期线性[[Transfer Translation Transformation\|转译]]与单向推送模式的局限，倡导走向双向推拉与共创的生态模型。 |

@@ -1,0 +1,1845 @@
+================================================================================
+Chapter: Perspectives on education research
+Author(s): John Bangs, Martin Henry, Emese K. Nagy, Tine S. Prøitz, Mark Schneider, Vivian Tseng, Dirk Van Damme and Makito Yurita (Edited by Nóra Révai)
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part III: New approaches to understanding research use
+Book Pages: pp. 200–234
+PDF Pages: pp. 202–236 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 202 / Book Page 200] ---
+
+10 Perspectives on education
+research
+
+John Bangs, Education International
+Martin Henry, Education International
+Emese K. Nagy, Hejőkeresztúr Primary School, University of Miskolc, Hungary
+Tine S. Prøitz, University of South-Eastern Norway
+Mark Schneider, United States Institute of Education
+Vivian Tseng, William T. Grant Foundation
+Dirk Van Damme, Center for Curriculum Design
+Makito Yurita, National Institute for School Teachers and Staff Development, Japan
+Edited by: Nóra Révai, OECD
+
+This chapter presents different perspectives on what education research is,
+what types of research are relevant for policy and practice, and how
+research should be produced. The discussion is framed by some key
+questions that have emerged from decades of debate about the relevance
+of education research for teaching practice and policy. This is followed by
+short opinion pieces in which experts representing different countries, types
+of organisations and roles answer these questions from their own
+perspectives. The viewpoints include academia, policy, practice, funders,
+unions and teacher training. The chapter concludes with a set of
+convergences, divergences and open questions.
+
+--- [PDF Page 203 / Book Page 201] ---
+
+Introduction
+In a discussion on the impact and use of education research in policy and practice one cannot avoid getting
+into the core questions about research itself. The nature and sources of research evidence as well as its
+quality and relevance for policy and practice have long been debated (e.g. Nutley, Walter and Davies
+(2007[1]), OECD (2007[2]), Nutley et al. (2010[3])). There has been a great deal of discussion about what
+purpose education research should serve, and which methodologies are the highest quality and most
+useful for addressing various questions. The debate also includes the question of how, by whom and under
+what circumstances research should be produced, and how it should be financed.
+In 2007, Thomas Cook and Stephen Gorard debated the place of experimental design in evidence-based
+policy making and practice in the “Evidence in Education” OECD volume (OECD, 2007[2]). Despite the fact
+that one of them (Thomas Cook) is a strong proponent of randomised control trials (RCT) while the other
+(Stephen Gorard) is an advocate of mixing different methods, there was more agreement than
+disagreement between them. Notably, they both pointed to the importance of addressing causal questions
+that lie at the core of the evidence base for education policy, much of which is concerned with improving
+educational outcomes and efficiency. They also agreed that there was a lack of experimental design in
+education research. Where they disagreed was the urgency of producing more research on effective
+practices and the weight that experiments should have in causal studies. Fifteen years later, this chapter
+aims to pick that conversation up and take it forward in four main ways.
+First, by reflecting on what has changed since then and the implications of those changes for education
+research today. The “what works” movement in education has led to significant investments into
+intervention testing in many countries, including through RCTs, over the past decades. Does that mean
+that education research today serves policy and practice more effectively? If so, in what ways? What is
+still missing, if anything? Research has been growing in other areas too. For example, the interdisciplinary
+fields of neuroscience and cognitive science have been yielding knowledge that could be relevant for policy
+and practice. Can that knowledge be used in educational decision making and is it? Could the same debate
+today be sparked by the question: “Experimental research or cognitive sciences: Which one yields a
+stronger evidence base?” What other substantive changes in research matter for education policy and
+practice?
+Second, by enlarging the debate from a primarily methodological one to a broader discussion on the role
+of actors in research production and its implications for the quality of research. The evidence-based
+practice and policy agenda has led to increased collaboration between practitioners and researchers. Part
+of the appeal of co-production is that it brings research knowledge directly into practice while also enriching
+research with an understanding of what the practice-based challenges are. With this, the popularity of
+applied research and practice-based methodologies such as action research, collaborative enquiry and
+design-based research has grown. Are there additional actors engaged in research production and is now
+the time for them, or for others, to become more involved? What do such models imply for the scientific
+rigour of research? How can we (re-)define and ensure the quality of education research given that it now
+exceeds the boundaries of academia?
+Third, by considering the overall coordination of research production and what can be done to address the
+perceived lack of it. Education research has been accused of not producing evidence in a cumulative way
+and thus being unable to systematically improve practice and policy. Can and should education research
+work towards building a comprehensive knowledge base for teaching and schooling? If so, how can that
+be done? Attempts have been made to direct research production through funding but some of these have
+also been strongly criticised. Should public funding be (more) prescriptive with respect to the production of
+education research? And if so, how? Is there a tension between evidence-informed policy/practice and
+policy/practice-driven evidence? Funders of education research have diversified in the past decades. In
+addition to public funding, which in many countries is very limited compared to other service sectors,
+increasingly more education research is funded by private organisations and foundations. While this
+
+--- [PDF Page 204 / Book Page 202] ---
+
+implies more resources, the particular interests, goals and criteria of funders influence the aim, scope and
+sometimes also the methods of the research. What does that mean for research relevance and quality?
+Are there any ethical considerations, and if so, how should they be addressed?
+Fourth, by adding more voices to the table. In the 2007 volume, the debate took place between
+two prominent academics. In general, a lot of the discussion about the purpose, quality and the production
+of education research takes place within the confines of the research community. These issues are
+discussed during academic conferences and published in academic literature (e.g. Moss et al. (2009[4]),
+Nelson and Campbell (2017[5]), Furlong and Oancea (2005[6]), Rasmussen (2021[7]) to cite only a few
+examples relevant to the above questions). This chapter aims to make other voices heard: Actors who
+have roles in education policy or practice, or are at the crossroads of these communities. They may or may
+not have engaged in academic education research but they are all concerned with various aspects of
+research production. The invited experts not only represent different roles and types of institutions but also
+different countries with different education systems.
+The next section presents short opinion pieces by invited experts. They were all prompted to react to the
+above introduction either by selecting and addressing one or more of the questions proposed above that
+they consider the most pressing or by bringing in a new question they think is more important. These
+opinion pieces aim to enrich the discussion and contrast distinct perspectives, with a view to learn from
+each other and broaden the scope of reflections.
+The seven opinion pieces draw an interesting arc that spans from the production of research in a more
+traditional, academic sense, to the engagement of various actors, funding issues and ethical
+considerations. Dirk Van Damme focuses on core issues of research production, such as the disciplinary
+identity of educational research, funding (or the lack thereof), methodological and research quality issues.
+Mark Schneider presents a way forward to increase the scientific rigour of education research, where this
+takes into account the fact that research should serve practice and policy. John Bangs and Martin Henry
+provide a perspective that bridges research and advocacy, pointing to the important role of unions in
+ensuring the relevance of research production, facilitating teachers’ research use and engagement in
+research. The teacher engagement piece is brought forward, with a focus on research co-production, by
+Emese K. Nagy’s voice as a school leader, researcher and teacher educator. Tine S. Prøitz extends this
+discussion with deeper considerations for the effectiveness of research-practice partnerships.
+Vivian Tseng frames such partnerships in the democratisation of research production and proposes new
+and suitable approaches to funding research. Finally, Makito Yurita expands on the idea of
+democratisation, by pointing to imbalances and power issues not just between various groups of people,
+but also between research methodologies and countries.
+
+The long and winding road for educational research
+Dirk Van Damme, Center for Curriculum Design, former head of CERI, OECD
+Educational research is in a dire state
+This bold statement may seem counterintuitive because the output of research is steadily growing and the
+call for evidence-informed policy and practice has never sounded as loud as today. The list of interesting
+initiatives and organisations devoting themselves to the dissemination and translation of educational
+research (see the interesting overview for Europe in Pellegrini and Vivanet (2020[8])) is growing longer and
+the integration of research evidence in policy and practice is steadily improving.
+Educational research has grown and matured. This has resulted in thousands of valuable and interesting
+research papers in specialised outlets. It has also led to growing optimism that educational research could
+resolve some of the most difficult issues in educational policy and practice. The expansion of experimental
+
+--- [PDF Page 205 / Book Page 203] ---
+
+design and, especially, of randomised controlled trials (RCTs), often proclaimed to be the gold standard of
+educational research design, has brought many people to believe that it is possible to develop a catalogue
+of ‘what works’ interventions that can be readily implemented.
+With the expansion of educational research funding, activity and output, the methodological quality of
+educational research has improved. Though one can still find a lot of contemplative and opinionated papers
+in educational journals, the ‘empirical turn’ in educational research has clearly turned research output in
+the direction of quantitative, methodologically sound research. Research methodologies have become
+more sophisticated and research designs more complex.
+However, focusing on these positive trends leads to a distorted picture. The reality is that education
+systems are still very far from becoming knowledge-intensive systems in which research evidence
+penetrates decision-making processes both at macro-, meso- and micro-level. Like other complex public
+policy systems, education is looking for reliable sources of knowledge and is increasingly turning to
+scientifically founded research knowledge. Research evidence promises to provide the knowledge and
+information-enabling complex systems to change in order to adapt to or to anticipate changing
+circumstances (Fazekas and Burns, 2012[9]; Burns and Köster, 2016[10]). However, despite the growing
+number of educational researchers and increasing quantity of published educational research, the influx
+of research evidence into educational policy and practice is still far below what is necessary to turn
+education into an evidence-informed system. The consequence is that education – both at the macro- and
+at the micro-level – suffers from an epistemic or lack-of-knowledge uncertainty problem. Policy makers as
+well as practitioners try to minimise the risks associated with epistemic uncertainty by tapping into various
+knowledge sources that compete with research evidence, such as experiential knowledge or teachers’
+professional knowledge. These knowledge sources, although valuable and not to be underestimated,
+cannot match the accuracy of scientifically founded research evidence. The consequence is the
+multiplication of ineffective and sometimes counterproductive interventions and practices.
+To explain why education has so far failed to turn into an evidence-based system, one can look at three
+possible factors: The production of research evidence; the transmission and translation of research
+evidence; and the reception and integration of research evidence into policy and practice. Each factor is
+relevant. But in my view, the core issue is situated on the production side. The research system is failing
+to produce sufficient quantity and quality of evidence to feed a complex system such as education.
+
+Funding and supply issues
+The easy explanation is that this is the result of a lack of funding and that if more resources were available,
+the situation would automatically improve. There is some truth in this. Compared to the health sector, which
+is a public policy sector similar in size and mission, education is very far behind in terms of moving to an
+evidence-informed system. Estimates suggest that the share of education research in public research
+expenditure is about one-fifth of that of biomedical research.
+But in order to assess the maturity of a research sector, the quality of published research is much more
+relevant than its financial input. The share of published research synthesis papers is an excellent indicator
+of this. In its recent White Paper, education.org calculated that, globally, the health/education expenditure
+ratio is 1.75 but the health/education knowledge synthesis ratio is no less than 26 (Education.org, 2021[11]).
+Whether the publication of research synthesis papers is a reliable metric is open to debate, but the
+magnitude of the gap is significant.
+However, there is little empirical support for the claim that we are dealing with a purely quantitative supply
+problem. If that were the case, the positive trends in production and dissemination of educational research
+would have had a visible impact on the overall effectiveness and efficiency of the educational system itself
+(Tucker, 2019[12]).
+
+--- [PDF Page 206 / Book Page 204] ---
+
+Deeper causes
+Over the past decades, education systems have not benefitted from the increase in educational research
+spending and output. Education has not improved in terms of macro-efficiency indicators such as per
+student cost nor overall learning outcomes or equity This is the case for both developed and developing
+economies (Angrist et al., 2021[13]). How is it possible that, while knowledge of effective teaching and
+learning has grown, progress in getting children into schools (i.e. in building schools and training teachers)
+has not resulted in better learning opportunities?
+What are the deeper causes of the problem? Why has more and better educational research not resulted
+in visible impact?
+
+The theoretical basis is weak and flawed
+A lot of educational research is heavily influenced by fashionable frameworks with weak scientific support
+such as social constructivism. The empirical turn in educational research enabled it to distance itself from
+old philosophical and pedagogical foundations without, however, establishing a theoretical basis of its own.
+Theories have been imported from neighbouring disciplines and only very rarely have they emerged from
+educational research itself. The space of theory in research has been filled by particular pedagogical belief
+and value systems such as early 20th-century child-centred Reformpädogogik, John Dewey’s pragmatism,
+or Paulo Freire’s critical pedagogy.
+The most interesting research on education is found in neighbouring research domains such as sociology
+of education, economics of education, cognitive psychology and neuroscience. Educational research
+benefits from these fields, but as an interdisciplinary and applied field of research, it should also be able to
+produce groundbreaking research itself.
+
+Methodological debates and biases
+Philosophical and normative debates on methodology have absorbed enormous research power and
+energy, and occupy a large part of publication output (Wrigley, 2018[14]). For example, the discussion on
+randomised controlled trials (RTCs) lingers on, turning into an unproductive and unsolvable ideological
+battle (Connolly, Keenan and Urbanska, 2018[15]).
+The replication crisis in social sciences has hit educational research very hard. Already in 2014, an analysis
+of the top 100 education journals revealed that only 0.13% of the published papers were replications, far
+less than in any other field of social research (Makel and Plucker, 2014[16]; Perry, Morris and Lea, 2022[17]).
+Policy makers and practitioners are calling on educational researchers to do more relevant research that
+is applicable to educational policy and practice (Wyse, 2020[18]) and this risks further weakening the
+scientific basis of educational research. Situated research with often weak methodologies does not lend
+itself to generalisation and the construction of a consolidated knowledge base (Tipton and Olsen, 2018[19]).
+Educational research suffers from different kinds of biases. “Insider bias” (i.e. those designing and
+implementing an educational intervention being the ones evaluating its impact) is strong in educational
+research (Barshay, 2019[20]). External, independent evaluation studies are rare in the educational field.
+Finally, educational researchers are particularly prone to ideological or political bias. Many are strongly
+motivated by political activism, which influences their research design and findings.
+Education systems and societies at large do not receive the high-quality educational research they need
+and deserve.
+
+--- [PDF Page 207 / Book Page 205] ---
+
+How to fix them
+There are no quick fixes to the current situation. Making education systems more evidence-based will
+require a lot of effort on multiple levels. And it will require time. More fundamental issues need to be
+addressed.
+
+Provide more strategic funding for research growth
+Educational research has not reached the quantitative threshold to meet the demands of a huge and
+complex system like education for reliable evidence. Growth in the production of educational research is
+very much needed. Governments and research funders need to develop a strategic plan for the gradual
+increase of funding resources. Qualitative issues will be more easily solved with some extra quantitative
+space. Despite the call for more relevant, policy- and practice-oriented research, sufficient resources need
+to go to more fundamental, time-intensive research (for example, in longitudinal designs) and theoretical
+research building on generalisable empirical findings.
+Educational research does not enjoy high priority in research funding mechanisms. Even though it is
+perceived to be applied, educational research does not enjoy the same status as more fundamental
+research domains. But for more funding and improved status to have impact, educational research must
+address its qualitative deficiencies.
+
+Establish education research as an academic discipline
+The funding issue is closely related to the relationship between educational research and its neighbouring
+disciplines. Interdisciplinary connections and mutual fertilisation are extremely important but education
+needs and deserves its own foundational body of research evidence, informed by but not reduced to the
+perspectives of neighbouring disciplines.
+To establish itself firmly as an academic discipline, education needs to devote more attention and energy
+to establishing its own theoretical foundation. Important pedagogical traditions can certainly inform the
+construction of educational theory but are not to be considered as theories in their own right. Theories
+emerge through sufficiently generalisable and replicable empirical research, not through ideological
+frameworks.
+
+Improve self-regulation and evaluation
+The educational research field has to improve self-regulation in its assessment and evaluation procedures,
+peer review practices and publication procedures. There needs to be more rigorous approaches to
+research, and less ideology and activism. The publication pressure on researchers also leads to overpublication, with too many close to worthless papers. With so many competing publications, high-quality
+publications struggle for visibility and impact. There also needs to be much more rigor in educational
+research associations, research funding bodies and educational journals.
+
+Accept limitations
+In order to gain more respect (and funding), educational researchers often over-sell the capacity of
+empirical research to provide useable answers to policy and practice. Much effort that goes into promoting
+evidence-based policy and practice implicitly suggests that there is an evidence-based answer to every
+problem in education. This is untrue; in fact, research evidence provides useful knowledge for addressing
+only a very limited number of issues in policy and practice. The often-used phrase “research evidence
+shows” should be employed only when there is robust, replicated and generalisable evidence from highquality research.
+
+--- [PDF Page 208 / Book Page 206] ---
+
+The road to upgrading educational research so that education systems become evidence-based
+knowledge systems is a long and winding one. In the meantime, let’s be respectful of how policy makers
+and practitioners solve their knowledge needs. The challenge lies with the research community, not with
+teachers and policy makers.
+
+More scientific rigour for education research
+Mark Schneider, Director of the Institute of Education Sciences, United States
+
+Box 10.1. Institute of Education Sciences, United States
+The Institute of Education Sciences (IES) is the science office within the United States (US) Department
+of Education. The Institute’s portfolio supports research on early childhood, elementary, secondary,
+tertiary, and adult education.
+With an annual investment in education research of around USD150 million, IES is one of the world’s
+largest education research funders. Since its founding in 2002, IES has been focused on supporting
+rigorous education research that is transparent, actionable, and focused on consequential outcomes
+with the potential to improve student achievement.
+Source: IES (n.d.[21]), Homepage, https://ies.ed.gov/.
+
+This chapter has a wide purview but I have chosen to focus on the last point enumerated in the chapter
+introduction: How should research be produced? Education research is a large field pursued in many
+different ways around the globe. My contribution to this chapter has a particular focus: Increasing the
+scientific rigor of education research.
+I have the pleasure of reflecting on what I believe to be some of the challenges that the field of education
+research faces as it works to increase the quality of work aimed at improving learner outcomes. This brief
+essay reflects a set of fundamental principles I believe need to be followed to move education sciences
+forward.
+
+From RCTs to standards for excellence
+For the first 20 years of the Institute of Education Sciences (IES) in the United States (see Box 10.1), we
+focused on strengthening the field's capacity to do rigorous research characterised by internal validity and
+relying heavily on randomised control trials (RCTs). But simply knowing that something works is not
+enough. To be truly transformational, research must address a wider range of issues. We have embarked
+on an institute-wide effort that emphasises factors that can make research transformational. We call this
+effort Standards for Excellence in Education Research (SEER).1 I introduced SEER in two blog posts.2 IES
+has refined SEER frequently and will continue to do so as we receive feedback from researchers,
+practitioners, and policy makers.
+IES previously enumerated eight SEER principles encouraging researchers to:
+
+
+Pre-register studies.
+
+
+
+Make findings, methods, and data open.
+
+
+
+Identify interventions' components.
+
+
+
+Document treatment implementation and contrast.
+
+--- [PDF Page 209 / Book Page 207] ---
+
+
+
+Analyse intervention costs.
+
+
+
+Use high-quality outcome measures.
+
+
+
+Facilitate generalisation of study findings.
+
+
+
+Support scaling up of promising interventions.
+
+IES recently announced a ninth principle focused on equity in education research, calling on researchers
+to “Address inequities in societal resources, opportunities, and outcomes”.
+SEER codifies practices that IES expects – and increasingly requires – to be implemented as part of
+IES-funded causal impact studies. But note that many SEER principles and associated recommendations
+are applicable to other types of research the Institute supports as well.
+There is growing scientific literature supporting each of these principles – but much of SEER is relatively
+new to education science research. The first two are clearly “normal science” and I will not comment on
+them further. In the rest of this brief essay, I briefly highlight the importance of a few principles that have
+presented challenges to American education researchers. I begin with the challenge of identifying the core
+components of an intervention.
+
+Identify the components of an intervention
+Imagine a medical trial where the intervention consisted of a bag of pills – some green, some red, some
+yellow. Patients take these pills and at the end of the experiment, we find that these pills improved
+outcomes. It is unlikely that any medical review board would ever approve such a treatment and the results
+would likely (and deservedly) be denied publication. Yet, far too many education interventions are exactly
+like the bag of pills – a collection of parts, many of which have never been clearly identified, let alone
+evaluated. IES has been pushing hard to get education researchers to identify the components of an
+intervention and then work to isolate the effects (and the costs) of each component. This requires a lot of
+work, especially in developing a common taxonomy by which to classify components and a nomenclature
+to identify and describe the components themselves. We have been supporting social science research
+firms who have, in turn, partnered with intervention developers and study authors to help create both.
+
+Analyse costs
+For several years, we have been requiring cost analysis for most of the research we support and the
+requirements for cost analysis have been getting more demanding. Education officials need to know how
+much something costs. Sometimes a less effective programme should be chosen because it is much
+cheaper than a more effective programme that exceeds a school’s budget. Introducing cost analysis was
+a challenge to American education researchers, very few of whom have training in economics. In the first
+year of implementing this SEER principle, many grant applications were rejected as being “non-responsive”
+to this requirement. We, in turn, provided technical assistance3 – from easy-to-use tools to help desks4
+staffed with cost analysis experts – to the field. Given how many proposals were rejected as nonresponsive, it was obvious that we were serious about cost analysis and now almost all applications meet
+this requirement (and the proposed work is getting better and better).
+
+Use high-quality outcome measures
+Consider the SEER principle that calls for the use high-quality outcome measures. This principle traces
+back to a simple fact: When researchers or developers create their own outcome measures, the measures
+are all too often “over-aligned” with the intervention, producing estimates of effects that can be several
+times larger than observed using measures created by others. As the late Robert Slavin convincingly
+argued (2014[22]) these biased measures all too often lead to false conclusions and bad recommendations.
+While we still allow developers and researchers to use their own measures, we are now requiring them to
+
+--- [PDF Page 210 / Book Page 208] ---
+
+use high-quality “common measures” so that results can be more easily validated and compared across
+interventions. We have supported work like EdInstruments5 to help catalogue measures used in
+contemporary education research. More work is needed, though, to identify a more parsimonious set of
+high-quality outcome measures.
+
+Facilitate generalisation of findings
+There are many prongs to the generalisation SEER principle. The one that we have emphasised most
+focuses on replication. Many sciences have a replication crisis – that is outcomes of experiments fail to
+replicate. The good news: Education science research does not have a replication crisis. The bad news:
+That is because we hardly ever replicate existing work. There are at least two consequences to that. First,
+idiosyncratic (sometimes fraudulent) work enters the mainstream (see Stuart Ritchie’s book Science
+Fictions6 for just how common this is) and, often, consequential decisions are made on the basis of those
+claims. Second, without replicating work, we cannot identify which populations of learners might benefit
+the most (or not at all) from specific interventions. Thus, not only do we need more replications but we
+need to make sure those replications systematically vary population groups to advance IES’ mission of
+identifying “what works for whom under what conditions”.
+Unfortunately, traditional field-based impact evaluations, especially randomised control trials, the gold
+standard of research, can be very expensive and take a long time to implement and analyse. We have
+been supporting7 digital learning platforms that can accommodate multiple researchers conducting faster
+turnaround studies than is the norm in traditional experiments. Here, we borrowed from the work of Jim
+Manzi8 and his mantra to “fail fast.” We are supporting an XPrize competition to instantiate that idea by
+having teams of researchers use digital learning platforms to deliver experiments and then replications
+based on the findings of the original experiment. To compete, teams had to have platforms with at least
+100 000 users (some have far more).
+
+Support scaling
+Another SEER principle pertains to the scaling up of promising interventions. All too often, interventions
+that have promise in transforming learner outcomes never come to market and never scale beyond the
+small number of schools/students that were involved in the original field tests. Part of the problem is one
+of misalignment of incentives. To the extent to which we fund academic researchers, their interests are to
+publish and get tenure and promotion. Most do not have the interest nor the skills to scale their products.
+IES has been struggling with this issue for some time. Most recently we have worked with SRI International
+to identify and inculcate explicit market orientation into work we fund (Wu et al., 2021[23]). We still have not
+found a scaleable way of encouraging scaling – but we are working on it.9
+
+Address inequities
+The final SEER principle calling on researchers to "address inequities in societal resources, opportunities,
+and outcomes" is the newest addition. This principle reflects the growing concern for social justice and for
+addressing historical inequities in education. This principle is a sharper version of our long-standing
+commitment to research designed to close education gaps – a commitment built into our 2002 authorising
+legislation (US Congress, 2002[24]).
+
+In sum
+SEER is not the only set of principles to structure the study of education interventions – and for many
+problems facing education around the world, it is not even the best way. However, we can often conduct
+far more rigorous research than we have done in the past. IES has placed a large bet that SEER can
+
+--- [PDF Page 211 / Book Page 209] ---
+
+increase the rigor of education research, help education research improve its standing as a scientific
+enterprise, and, most importantly, improve the outcomes of more and more learners across the life span.
+
+From research to advocacy
+John Bangs, Special Consultant, Education International
+Martin Henry, Research Coordinator, Education International
+
+Box 10.2. Education International
+Education International (EI) is the largest global union federation with just under 400 member unions
+and organisations in membership who represent over 32 million teachers and support staff. Founded in
+1993, it has become the principal advocate for the teaching profession across the world. In the last 15
+years, EI has increasingly focused on linking research evidence to the framing of teacher policy. It works
+closely with UNESCO, the OECD and a range of other global organisations.
+Triennially EI publishes comprehensive research on the Global Status of Teachers. The 2021 edition
+painted a graphic picture of the views and aspirations of the global teaching profession as it emerged
+from adapting education to respond to the impact of the pandemic.
+The full range of Education International’s research and publications can be accessed at www.eiie.org/en/resources/publications-and-research.
+Source: EI (n.d.[25]), Homepage, https://www.ei-ie.org/en and EI (2021[26]), The Global Report on the Status of Teachers.
+
+Introduction
+In inviting Education International (EI) (see Box 10.2) to give its perspective on the use of research
+evidence in education, the OECD asked some interesting questions. One of the most relevant to EI is:
+“Does education research serve policy and practice more effectively?” (It is a question, we assume, which
+uses the 2007 baseline when the OECD’s Evidence in Education: Linking Policy and Practice (2007[2]) was
+published). The purpose of this paper is to demonstrate that the answer to the OECD’s question is,
+unequivocally, “Yes”.
+
+Education International and research
+To answer this question, we refer to the wide range of EI research and how it informs EI’s advocacy. We
+then focus on how EI’s and the OECD’s research have contributed to the development of effective teacher
+policy by way of providing an in-depth exemplar of how EI has constructed research and advocacy
+partnerships with another global organisation. This does not mean, however, that because a specific
+EI/OECD lens is used to illustrate EI’s relationship with research and teacher policy that this presents an
+exclusive summary of all EI’s research output on teaching as a profession.
+Union membership density – the proportion of teachers who are members of unions – within the teaching
+profession is the highest and most stable among all economic sectors (Carter, Stevenson and Passy,
+2010[27]). It is not surprising, therefore, that unions are in constant touch with their membership,
+investigating and analysing their views and the professional environments within which they work. In the
+past, teacher unions were targets of research and contributors to research but, increasingly, teacher unions
+
+--- [PDF Page 212 / Book Page 210] ---
+
+have become key players in commissioning educational research. Twenty years ago, EI created its own
+Research Network of member organisations who share their own research with other unions and an
+independent Research Institute which commissions research directly.
+Why does EI commission research? The answer is quite simply to inform the development of its education
+policies and to enable its member organisations to be able to confidently advocate for them knowing that
+they are supported by research evidence. One example among many illustrates this. Triennially EI
+publishes comprehensive research on the Global Status of Teachers.10 The 2021 edition painted a graphic
+picture of the views and aspirations of the global teaching profession as it emerged from adapting
+education to respond to the impact of the pandemic (EI, 2021[26]).
+
+Research and teacher policy – Education International and the OECD
+EI supports teachers’ ownership of research
+Of course, research and evidence collection has always been important to teacher unions. Prior to 2010,
+the OECD’s social partner, the Trade Union Advisory Committee (TUAC) through which EI is represented,
+was not represented on the OECD’s key research boards such as those for the Centre for Educational
+Research and Innovation (CERI), the Programme for International Student Assessment (PISA) and the
+Teaching and Learning International Survey (TALIS). Now TUAC is invited by these boards to send
+participating observers to their planning meetings.
+One of the reasons for this shift was that, through EI’s advocacy, the OECD understood that teachers’
+active consent to take part in OECD teacher-focused studies helped it to both implement those studies
+more smoothly and to achieve a much wider understanding among teachers of the studies’ outcomes. For
+its part, EI’s engagement in the development of TALIS and PISA through TUAC has enabled it to contribute
+to the teacher policy aspects of those studies and to argue that their data and policy findings are as much
+the property of teachers and their organisations as they are of educational jurisdictions.
+
+EI helps research reflect the reality of teaching
+EI’s engagement in the developmental processes of TALIS and PISA has also, for example, led to the
+questionnaire scales on the causes and nature of teachers’ stress within TALIS 2018 (OECD, 2020[28]).
+This came about as result of proposals made by EI. Additionally, the scales on teacher leadership within
+the TALIS 2013 questions and the conclusions within TALIS 2013 (OECD, 2014[29]) about the need for
+systemic guidance on securing a shift towards distributed leadership in schools (OECD, 2014, p. 200[29])
+were influenced by EI’s own commissioned study on teacher leadership (Bangs and Frost, 2012[30]). This
+EI study involved a qualitative survey of classroom teachers and their organisations in a range of countries
+in order to provide EI with recommendations for a policy framework for enhancing teacher leadership.
+The inverse is also true: data from OECD studies has also provided the basis for EI-commissioned
+research into the impact or absence of jurisdiction-wide teacher policies. For example, Burns and DarlingHammond’s analysis of TALIS 2013 data led to insights and policy proposals independent of the original
+report itself, particularly in relation to teacher shortages, collaboration and leadership (Burns and DarlingHammond, 2014[31]).
+Teachers themselves are also increasingly engaged in carrying out research themselves, not least
+because Masters degrees and Doctorates require research reviews if not primary research. An important
+question for teachers is how they can gain access to research partnerships and work alongside
+researchers. Securing these opportunities is becoming an increasingly important goal for teacher unions
+in countries such as Norway where teacher training includes an academic dimension involving teachers
+learning about research disciplines and carrying out action research.
+
+--- [PDF Page 213 / Book Page 211] ---
+
+EI supports research that informs the creation of effective teacher policy
+EI partnership with the OECD on teacher policy-related research has continued since 2010. For example,
+through TUAC, EI has twice contributed chapters to the OECD’s synthesis of educational policy
+development, Education Policy Outlook (EPO). Those contributions were informed by surveys of teacher
+unions in OECD member countries carried out by EI to provide the evidential basis for its TUAC chapters.
+In essence, the surveys tracked teacher unions’ changing priorities within teacher policy. For example,
+“Education union partnerships in policy reforms” (OECD, 2015[32]) found that the most productive teacher
+union discussions with governments were on teachers’ professional development, working conditions,
+equity issues and curriculum in that order. By 2019, “Success in hard times” reported that the highest
+percentages of teacher union respondents believed that the most productive areas of discussion with
+governments were now on teachers’ pay and conditions, and curriculum reform (OECD, 2019[33]).
+Since 2010 EI’s and the OECD’s developing relationship on research and evidence-informed policies has
+enabled the creation of the International Summits on the Teaching Profession (ISTPs), which is a unique
+partnership between OECD Education Ministers, the OECD itself and EI (see Box 10.3). Bangs (2020[34])
+provides an in-depth analysis of the ISTPs’ relationship to the development of teacher policy. It came to
+two conclusions. The first was that the bedrock of outstanding education systems was a confident teaching
+profession at the edge of its game, engaged as equals in the development of reform. Secondly, it concluded
+that the organised voice of teachers was essential to the success of those reforms.
+
+Box 10.3. The International Summits on the Teaching Profession
+Established in 2011 by United States Secretary for Education, Arne Duncan, the National Education
+Association and the American Federation of Teachers, the ISTPs have taken place annually up until
+the present day. They are unique in providing the only international forum in which elected Ministers
+and teacher union leaders can meet on a confidential basis to share educational practice and set
+practical education targets for the coming year. Hosted by individual OECD countries, each ISTP has
+focused broadly on aspects of teacher policy. They are supported by background reports from the
+OECD and EI, which synthesise evidence and research outcomes relevant to each Summit’s discussion
+themes.
+The most recent Summit was again hosted by the United States. Its theme, Learning from the Past,
+Looking to the Future: Excellence and Equality for All, explored actions needed for post-pandemic
+educational reconstruction with a focus on teacher professionalism and well-being, whole child
+education and equity, and intentional collaboration (NCEE, 2021[35]). The OECD and EI reports provided
+the research evidence for the background reading for the Summit (Schleicher, 2021[36]; EI, 2021[37]).
+Source: NCEE (2021[35]), Learning from the Past, Looking to the Future: Excellence and Equity for All, https://ncee.org/quick-read/learningfrom-the-past-looking-to-the-future-excellence-and-equity-for-all/; Schleicher, A. (2021[36]), Learning from the Past, Looking to the Future:
+Excellence and Equity for All, https://doi.org/10.1787/f43c1728-en; EI (2021[37]), Learning from the Past, Looking to the Future: Excellence
+and Equity for All: A Briefing by Education International, https://www.ei-ie.org/en/item/25427:learning-from-the-past=looking-to-the-futureexcellence-and-equity-for-all.
+
+The relationship between EI and the OECD on research developed since 2010 has led to a joint initiative
+to set out the principles both organisations believe should inform post-pandemic educational recovery.
+Published in 2021, they emphasise that the recovery of education systems from the effects of the health
+crisis will be vital to the future social and economic health of societies. They also stress the importance of:
+Schools as centres of their communities; digital technology which supports teaching; focusing on education
+
+--- [PDF Page 214 / Book Page 212] ---
+
+for the whole child; and the need to foster teacher well-being and efficacy. The principles draw on the
+research and policy collaboration between EI and the OECD since 2010 (OECD/EI, 2021[38]).
+
+In conclusion
+It is quite clear from EI’s experience that partnership and engagement has served policy and practice more
+effectively because of the alliances it has built up with global organisations that understand the policy and
+practice link. OECD is one example but a similar story could be told about EI’s relationships with
+organisations such as UNESCO and the United Nations.
+EI’s primary interest in creating effective teacher policy is not solely because it enhances the daily
+professional lives of our members but because education systems function better and students learn more
+when teacher perspectives are taken into account. We also know that education systems that seek to
+enhance the well-being and efficacy of their teachers are correlated overall with high levels of achievement
+among all their students.
+Teacher unions’ involvement in research is not confined to pay and conditions. Teacher unions around the
+world commission and carry out significant research on professional issues. Yet the value, quality and
+extent of teacher union-initiated research is often underestimated by educational jurisdictions, which is a
+mistake because, increasingly, unions understand that evidence-informed policies are far more persuasive
+than policies based on assertion.
+Indeed, the primary purpose of research commissioned by unions is to support their advocacy of union
+policies. Increasingly, researchers are attracted to working for teacher unions because they know that the
+policy impact of their research is much more likely to be amplified by union advocacy than when it is
+confined to publication in academic journals. Yet, interestingly, given the density of union membership in
+teaching, there are very few academics whose main research discipline is the study of the teaching
+profession and its organisations.
+Engagement in research, whether as a participant completing questionnaire scales or as a director of
+research, does not come without a time cost. Survey fatigue is real among teachers involved in studies.
+However, teachers will willingly engage with surveys if they understand their purpose and can have access
+to their results. That is why the research teachers engage in most willingly is research that is relevant to
+their professional lives. They are as interested in seeing evidence have an impact as the union leaders
+who represent them.
+For the day-to-day practice of teaching, teacher unions can reinforce the relevance of research for
+teachers. For researchers and research itself, teacher union involvement in research can amplify research
+findings and encourage an increase in the range and foci of educational research activities. For the
+development of robust and effective education policies, teacher unions can play a major role in
+strengthening the impact of research on policy.
+
+Thoughts on public education research
+Emese K. Nagy, School leader, Hejőkeresztúr; Head of Institute of Teacher Education, University of Miskolc,
+Hungary
+As the director-general of a Teacher Training Institute and a core member of a doctoral school,
+I continuously participate in university research. As the head of a primary school, I experience how external
+and internal examinations and research affect the school. I treat the two as complementary, keeping in
+mind how useful they are together for the school. There is already a lot of joint research between
+universities and the school but our goal is to involve both parties in joint research with the same
+communication status to increase efficiency.
+
+--- [PDF Page 215 / Book Page 213] ---
+
+Other public education institutions think similarly. Most have recognised that education-related research
+(action research) and internal, institutional research are essential for their successful operation. While there
+is excellent research going on in universities and doctoral schools, the widespread publication and practical
+implementation of some of this research is slow and sometimes lags behind.
+The purpose of my writing is to draw attention to the importance of action research 11 for the school and
+the importance of its joint implementation by researchers and school teachers.
+
+The purpose of educational research
+Research can take place at multiple levels, affecting society as a whole. It can affect an institution, a
+teacher, a student, or a parent. The overarching goal of organisational research (theory / cognitive and
+experimental / action research) generated at all levels of education is to improve the quality of education,
+bearing in mind that it effectively influences and supports (educational) policy and school practice.
+Research on pedagogical practice (action research) can only be interpreted positively if the aim and results
+of the given teaching and learning activity are mutually reinforcing, the teachers are aware of the
+importance of their own activities, and all this is related to their own activities and self-efficacy. As a school
+leader, useful research means that its results can be transferred to everyday education. However, I argue
+that in research, process and content are at least as important as outcome. A meaningful outcome is only
+possible if the research is conducted by professionals who are experienced in the activity.
+School research can focus on teaching and learning in the narrow sense as well as education more
+broadly. We research how to improve learning, literacy, intellectual development, and within that,
+personality development, keeping in mind how knowledge gained in practice can be used to improve
+education. All this is aided by the relationship between research and practice as well as that between basic
+research and applied research. As a school leader, useful research is related not only to phenomena and
+facts but also to their practical application or use. Therefore, applied research supported by education
+policy plays an increasingly important role. It is expected that research results will be disseminated and
+utilised as widely as possible, and that research will make a positive contribution to the overall development
+of education policy.
+
+Who should participate in research and how?
+It is common for most school-action research to be carried out by “external” professionals and that the
+whole research process follows the methods and pace they define. In such research, school teachers are
+only passive participants in a process. The role of the educator in this case is not so different from when
+education policy or the education government initiates reform efforts. In this configuration, teachers do not
+find research useful because they feel they do not “own” the research. Thus, they do not benefit from its
+results and the research does not help their daily work so there is no reason to change their daily work or
+increase their knowledge. In the absence of direct impact, research is not important to them or to the
+school. Once the research project ends, it is often not followed by pedagogical development. This is
+regrettable as researchers primarily involved teachers because they believed that they would use the
+knowledge gained during the process.
+Accumulated theoretical knowledge is usually far removed from the school context. A better understanding
+of educational processes is not as important and useful for a school as putting the knowledge gained
+through the teaching and learning process into practice. In the life of teachers, action research only
+becomes useful if they can hope to change their own school conditions and competencies, i.e. it brings
+practical benefits. After identifying the questions to be answered, area to be studied, and research aspects,
+and selecting the partners, the school treats both parties – external researchers and teachers – as equal
+partners with both parties influencing the research. In this configuration, the teacher has the status of a
+competent expert.
+
+--- [PDF Page 216 / Book Page 214] ---
+
+When school educators initiate action research, they often focus on areas that were not previously
+available to developers. Theoretical researchers usually look at issues related to disciplines, trying to find
+the system in them while school educators look for answers to questions that are expected to have a direct
+and usually immediate impact on their work. In the course of the research, it is therefore worth relying on
+the opinions, knowledge and research of professionals and educators with practical experience as all this
+can be transformed into useful knowledge.
+Box 10.4 gives two examples. One illustrates research- “burdened” teachers whose involvement in
+research did not benefit the school. The other example demonstrates how the close collaboration between
+a research group and the school was able to provide information that subsequently increased student
+performance. It is fundamental for researchers to involve teachers in research if the aim is to expand
+teachers’ professional knowledge. Action research will only be useful in the lives of educators if they can
+hope to change their own school conditions and develop their competences, thereby bringing practical
+benefits.
+
+Box 10.4. Good and bad research in schools: Two examples from the author’s school
+Example 1
+The aim of a research project conducted in 2008 was to assess the work and workload of teachers, and
+to explore the use of teachers' working time frameworks, especially mental and temporal workloads and
+their distribution. The study was exploratory in nature. As the researchers had little knowledge of
+teachers’ use of time, one expected result of this exploratory research was the development of an
+analytical framework for teacher workload. The study aimed to measure the average number of
+pedagogical hours spent in the school building, the way in which compulsory working time frame was
+filled in and out of school, and the proportion of time spent teaching students per day. Methods included
+questionnaires, detailed interviews and document analysis. However, after the research was
+conducted, no feedback was received from the researchers. The school could not use the results and
+conclusions and as school director I could not benefit from them to increase school performance.
+
+Example 2
+One of the country’s leading universities launched a research project at the school aiming to transform
+the school’s organisation after diagnosis and adapting the results to school. The research would be
+important in informing the school’s endeavour to scale up a major innovation. The school had adapted
+the Complex Instruction Programme developed by Stanford University, transformed it into a new
+innovation, and began to disseminate it to other schools. The diagnosis had three main foci:
+
+
+Assess the operation and condition of the organisation.
+
+
+
+Examine the motivation and behaviour of the faculty and teachers.
+
+
+
+Map the operation of school management.
+
+The diagnosis enabled the school to apply and stably integrate the programme.
+As the programme is used in nearly 200 schools in Hungary, it was important that the measurement
+tools be valid. University researchers prepared a questionnaire based on continuous feedback received
+from school management and teachers to help ensure that the measurement could be conducted in
+other schools as well. School teachers therefore played an important role in the process, drawing
+researchers’ attention to the fact that questionnaires can be too general and misleading without proper
+knowledge of the method. The results of the research provided useful information for the proper
+foundation of the management of the institution.
+
+--- [PDF Page 217 / Book Page 215] ---
+
+How can policies support research and practice links?
+In Hungary, the pedagogical career model and related evaluation system were launched in 2013 to support
+the effectiveness of educators’ pedagogical work and identify areas for improvement. In addition to
+professional recognition, financial motivation was created: The assessment qualification serving as the
+basis of the teacher advancement system. The career development system includes the following grades
+for qualification:
+
+
+Trainee.
+
+
+
+Teacher I.
+
+
+
+Teacher II.
+
+
+
+Master teacher.
+
+
+
+Researcher teacher.
+
+While obtaining the Teacher I. and II. categories is based on previous performance and assessed
+competences, the "Master" and "Researcher Teacher" categories involve specific future assignments. This
+is not simply a higher degree of a linear progression system but is quite different in quality. Teachers in
+these roles are expected to contribute actively and intensively to the development, research and innovation
+processes in the public education system. A researcher teacher is also expected to share their research
+results outside their own school and offer solutions to improve public education (see also Box 4.3).
+As an example, research has made my school a knowledge-creating organisation. Due to the help and
+involvement in various projects of researcher and master teachers, the school is today characterised by
+continuous research, measurement and evaluation, and the sharing and incorporation of results into
+education both within the institution (with the help of master teachers) and outside the institution (thanks
+to researcher teachers).
+I must note, however, that we are talking about a “lucky coincidence” in the case of this school as it has a
+researcher teacher who works closely with the university (as an instructor) and three master teacher
+colleagues who are also involved in research. In addition, their research topics are all related to the school’s
+pedagogical programme, the Complex Instruction Programme. As a researcher teacher, my own research
+on the preparation of university students for a teaching career extends beyond school education. Such
+lucky constellations, however, are not yet widespread.
+
+Summary
+In sum, action research is important for schools but can only be truly beneficial if implemented jointly by
+researchers and teachers. I strongly believe in the effectiveness of research for public educational
+institutions involving school educators. Therefore, education policy makers should support and facilitate
+this type of collaborative research and ensure that they are not just sporadic “lucky constellations”.
+
+Time to rethink research-practice relationships for practitioners
+Tine S. Prøitz, professor in education science, University of South-Eastern Norway
+Recent developments in education policy have emphasised the importance of practitioner involvement in
+education research. Although the question of practitioner involvement in research is not new, today’s newer
+ways of working collaboratively and understanding knowledge development and relationships between
+researchers and practitioners have interesting potential but also face several obstacles.
+
+--- [PDF Page 218 / Book Page 216] ---
+
+One obstacle is how the focus of research on research-practice collaboration and partnerships often are
+limited to the research itself and fail to focus on the collaborative efforts involved. In a time when
+collaborative efforts are called for by policy and academia alike, there is paradoxically limited systematic
+and empirical knowledge about how research-practice partnerships can be optimally performed.
+Developing not only communities for the practice-based education research of scientific quality involving
+multiple actor groups but also researching how such communities can work productively for all parties
+involved is highly important for the development of new knowledge in education. And, it seems to be very
+timely.
+Still, emergent research on the topic underscores the point that research-practice relationships
+characterised by the involvement of multiple actor groups need to be explored to find newer ways of
+involving and mobilising both practitioners and researchers. There are multiple forms of research-practice
+collaboration but finding the best way of working together requires a rethinking of both researcher and
+practitioner roles.
+Researchers have varied understanding of the relationship between research and practice in education,
+how research use can be understood and what factors contribute to reducing or upholding the so-called
+research-practice “gap”. Further, practice-based research has been highlighted as an umbrella term for
+newer approaches to linking and tightening this relationship (Furlong and Oancea, 2005[6]). Governments
+and universities have introduced initiatives aiming to strengthen the research-practice relationship in
+education. Across the Nordic countries, we can see variations of these initiatives, including:
+
+
+Partnership agreements between universities and schools, as well as with local authorities
+
+
+
+Funding schemes that require collaboration between researchers and practitioners
+
+
+
+Growth in professional doctoral programmes in which applicants must have teacher education and
+preferably work in teacher education or in schools while doing their doctoral work (e.g. Prøitz and
+Aasen (2016[39]); Prøitz and Wittek (2019[40])).
+
+There is a recent and ongoing example of an ambitious national research-practice initiative in Sweden
+(Box 10.5). Studies conducted on the initiative’s first five years of operation have shown that the issue of
+multiple actor roles in education research is a particularly interesting topic to revisit (Prøitz et al.,
+forthcoming[41]). Research approaches involving teachers and other practitioners in research activities as,
+for example, co-researchers, is not new in Sweden; rather, there is a long tradition of action and design
+research. However, this new initiative both includes and parallels these approaches, thereby raising the
+question of multiple actor involvement in all types of education research, not only those that have teacher
+involvement as a built-in part of the methodology.
+
+Box 10.5. The Swedish ULF project
+ULF was a national pilot project commissioned by the Swedish government from 2017 to 2021. The
+project developed and tested sustainable collaboration models between academia and the school or
+school system in research, school activities, and teacher education. The project involved 25 universities
+with teacher education and more than 150 municipalities and a substantial number of schools and
+teachers.
+The goal for the pilot project has been to develop an infrastructure that deploys long-term sustainable
+collaboration models between academia and schools to strengthen the disciplinary foundations and
+approaches used in schools. The collaboration models are intended to result in research that is relevant
+to schools by enabling professional groups within schools to initiate research, not just researchers within
+academia. After the pilot project ends, the ultimate goal is to make successful collaborative models
+
+--- [PDF Page 219 / Book Page 217] ---
+
+permanent and start using them nationally. The vision is for the collaboration models to serve as the
+basis for professional practice in schools and for teacher education.
+Following the initial pilot phase the ULF project has been continued to 2024 by the Swedish government
+as a transition period. The intention is for it to become a permanent arrangement after this transition
+period.
+Note: The Swedish acronym ULF stands for Utveckling (Development), Lärande (Learning) and Forskning (Research).
+Source: Ulfavtal (n.d.[42]), ULF FAQ, https://www.ulfavtal.se/about-ulf/ (accessed on 2 March 2022).
+
+The research-practice gap – A metaphor stating the obvious?
+Despite variations, a common characteristic of initiatives is the involvement of multiple actor groups in what
+we traditionally have considered to be the academic turf of researchers. Another characteristic is a strong
+belief in how these actors who have been brought together will almost effortlessly develop not only a
+stronger relationship between research and practice but new and improved knowledge that is applicable
+and relevant to education practice (Prøitz, 2020[43]). Seen from a traditional perspective, initiatives to
+strengthen the research-practice relationship and close the gap blur the demarcation lines between theory
+and practice; scientific knowledge and experience-based knowledge; researcher and practitioner; and the
+university and school. In the field of education, the relationship between these categories is often
+characterised by tension, and as being opposites, contradictory, and even conflicting.
+On the other hand, researchers have pointed out how the gap metaphor is an exaggerated
+misunderstanding and that it can be used productively to make people aware of the challenges in the field
+and in their development towards more integrated perspectives. Further, the literature presenting “newer
+perspectives” on these matters is 15–20 years old, with studies discussing more integrated ways education
+research can involve multiple actor groups. Developments in today’s situation in both academia and the
+education sector indicate a growth in the mutual interest and discovery of the benefits of collaboration that
+can overcome the less functional sides of the traditional divisionary lines between theory and practice, and
+between discipline and profession. Most of these perspectives are rooted in the perceived need to bridge
+and overcome the research-practice gap. However, the key question is whether such initiatives are
+approaching the issue in the most constructive way by trying to reduce and overcome differences that are
+considered to be the very qualities of the professions concerned. Another way could be to explicitly
+recognise and even appreciate the differences between researchers and practitioners including the values,
+perspectives, strengths and weaknesses that follow from their practices. Acknowledging the differences in
+collaborative initiatives cannot only push collaborations further but also their outcomes.
+One way to think of the involvement of multiple actors in practice-based research can be to consider
+collaboration as an effort involving different discourses with different languages and frames of reference
+anchored in the actor’s workplaces and profession. Over time and with resources and efforts, the
+discourses can potentially become a common one with shared language and interests between
+researchers and practitioners, creating a “third space discourse” (Moje et al., 2004[44]). This does not
+necessarily mean discourses that are harmonious, without disagreement or debate or where practitioners
+or researchers have to become more alike; rather, these are areas where dialogue is based on a shared
+goal.
+Getting there requires more than simply placing the different actors in the same physical room: It requires
+time, money, dialogue, the exchange of views and mutual respect, interest, and understanding for each
+other´s work environments and contexts. It will probably challenge traditional views on the status of
+knowledge types as well as require openness to innovation, the redesign of roles, and different ways to
+develop research-practice relationships. Even with these challenges, the potential for developing not only
+
+--- [PDF Page 220 / Book Page 218] ---
+
+new knowledge but innovation in education research that is informed by shared understandings in a
+common search for solutions makes the effort critical.
+
+Rethinking the research-practice relationship
+A central question in research-practice initiatives is as follows: What role should/can different actor groups
+have in practice-based research? Research that has described well-functioning partnerships points
+towards the ideal of involving actors as equal partners in all parts of the research process. This can be
+from research problem identification, definition and data collection to analysis and the presentation of
+results. Others have pointed out how challenging this can be, for example, for economic reasons. It is
+difficult to get the resources required to work together and find the right time and place for meetings
+between teachers and researchers. Culturally, the lack of a shared language and knowledge frameworks,
+and asymmetrical power structures and status also inhibit productive collaborations.
+What is to be gained by teachers or administrators as co-researchers and is it best for all to get involved?
+The Swedish example displays successful projects involving teachers and school administrators in various
+ways, such as in the research process and other roles in the research process; it also points out practical
+difficulties such as providing practitioners with the necessary time to become involved and finding gathering
+areas that can function for all. Other issues relate to research competence and research literacy among
+practitioners; researcher knowledge about the everyday life of schools; and funding and available
+resources. The varied approaches can hopefully lead to relationships that can be beneficial to the
+development of new knowledge relevant for practitioners as well as provide important new and expanded
+insights into education that can further research and knowledge development in the field. Furthermore, the
+Swedish initiative provides a concrete - though not exhaustive - list of proposals for further work on
+practice-research relationships that have been developed by acknowledging the differences of the actor
+groups involved and what they bring into education research processes.
+
+Clarity in actor roles for both practitioners and researchers
+Explore and clarify the roles of both teachers and researchers in the relationships by engaging in earlystage discussions on what involving multiple actor groups entails in research-practice initiatives. A timely
+question is whether a more productive way of involving practitioners would be to have them take part in
+discussions and decision-making processes to secure a practice-based perspective rather than being coresearchers.
+
+Equality between practitioners and researchers involved
+For the discussion on actor roles to be productive, every actor should be involved in research based on
+their existing knowledge, competences, and experience, with the researcher as researcher and teacher as
+teacher. This approach requires several issues to be considered: It requires the acknowledgment of
+practitioner knowledge as being equally important in research development processes to scientific
+knowledge. This is not necessarily easy because actor status, actor power, and perceptions of hierarchy
+between researchers and practitioners influence what knowledge will dominate the discussions. It requires
+mutual competence building, respect, and curiosity between the parties involved, which takes time and
+engagement.
+
+Accessible arenas where practitioners and researchers easily can meet
+The Swedish initiative has shown that practice-based research requires well thought-out processes and
+arenas adapted to practitioners and researchers working together. One example of such efforts is to gather
+practitioners and researchers in seminars with smaller groups to discuss, collectively identify knowledge
+needs and develop researchable topics of relevance and interest to all parties involved. Later in the
+
+--- [PDF Page 221 / Book Page 219] ---
+
+process, the same seminars can be used to discuss central concepts, challenges, opportunities as well as
+results.
+
+Ensuring scientific quality in the research-practice relationship
+Careful considerations of what scientific quality means and what requirements must be covered to secure
+quality in research-practice collaboration is needed. Issues that will emerge include questions regarding
+research ethics, ownership of data and results and epistemological and methodological issues. This
+requires the involvement of researcher competence and researchers experienced in practice-based
+research that can foresee and handle challenges that arise when multiple actors are involved. As an
+example, Swedish history has shown that over time, practice-based initiatives can become more
+developmental than research-oriented and that it can be a challenge to uphold the principles of scientific
+rigour when multiple actor groups with varied interests collaborate. The question of involvement requires
+epistemological considerations of what constitutes and ensures quality in education research when
+multiple actors are involved.
+
+Actor involvement in the various phases of the research process
+Practitioners’ involvement can be carried out in terms of practice orientation and practice involvement in
+the various phases of the research process. It can also occur in pre- and post-research processes; for
+example, as part of needs identification and considerations of relevance as an integrated part of securing
+scientific quality. Collaboration between practitioners and researchers in these processes is highly
+important for the development of a scientific knowledge basis for both policy and practice.
+
+Multiple actor involvement for larger practice- research projects
+Finally, the question of multiple actor groups in education research is not confined to smaller, local, contextbound, and practice-based research projects; it is also highly relevant for larger research projects aiming
+for empirical or analytical generalisations.
+
+First things first
+Vivian Tseng, Senior Vice-President, William T. Grant Foundation
+
+Box 10.6. William T. Grant Foundation
+The William T. Grant Foundation invests in high-quality research focused on reducing inequality in youth
+outcomes and improving the use of research evidence in decisions that affect young people in the
+United States.
+Source: William T. Grant Foundation (n.d.[45]), Homepage, http://wtgrantfoundation.org/.
+
+First things first: What is the purpose of education research?
+Any discussion about what research is needed – and the ancillary questions of how it should be conducted
+and funded – must begin with the fundamental question of what purpose research serves. If the central
+goal of education research is to improve practice and policy, then research agendas should focus on key
+practice and policy concerns. Unfortunately, that is more often the exception than the rule. For far too long,
+
+--- [PDF Page 222 / Book Page 220] ---
+
+researchers and research funders have had outsized influence on research agendas, and thus it is
+unsurprising that research is more likely to fill gaps in the academic literature than inform practice or policy
+dilemmas. Even as the research community has increasingly sought to produce more relevant research,
+we still rely heavily on our discussions about practitioners and policy makers rather than with them. Even
+our attempts to study a practical topic like implementation ends up focusing on questions about intervention
+dosage and fidelity (researchers’ priorities) rather than questions about adaptation for specific populations,
+contextual concerns, or implementation conditions (practitioners’ priorities).
+Informing practice and policy is not an end unto itself and, for many of us, the ultimate goal of education
+research is to serve students and communities. Unfortunately, students and communities – especially
+those marginalised by racism, poverty, xenophobia, and homophobia – are even further sidelined in
+research agenda-setting than are education practitioners and policy makers.
+In the United States, both universities and school districts have long histories of racial injustice (Diamond,
+2021[46]). Universities sit on land acquired through theft, conquest, and the genocide of Indigenous peoples.
+They were built using the proceeds from slavery and exploitive taxation of Chinese labourers. In modern
+times, universities still produce “extractive research” wherein academics collect data from marginalised
+students and communities but neglect to leave behind anything of significant value for the people who
+shared their personal experiences, family lives, instructional time, or saliva. On the other side of the table,
+education practice and policy-making bodies have also been sites of exclusion. Black, Asian, and Chicano
+children were segregated from White children throughout most of US history. Indigenous children were
+sent to residential schools to separate them from family members and erase their cultures and languages.
+White flight from urban communities drove segregation in the 1970s and 80s, and gentrification fuels it
+today.
+If we see students and their communities as beneficiaries of education, then their interests should be at
+the centre of education research. Their self-determination is critical given our colonial and racialised
+history, and education research should serve their interests in the ways they want to be served. This is not
+to say that researchers and funders have not sought to centre marginalised students in research but too
+often it has been done through researchers’ perceptions of what would benefit marginalised students
+(Bruno and Iruka, 2022[47]). Moreover, because the research enterprise has been racialised, research on
+racially and socio-economically marginalised students has too often been deficit-oriented and damagecentred (Kirkland, 2019[48]; Tuck, 2009[49]).
+If the purpose of education research is to make policy and practice more equitable, then it is critical that
+marginalised students and their families and communities be present at the research agenda-setting table
+along with practitioners, policy makers, and researchers. Designing, conducting, interpreting and using
+research alongside them has never been more important, especially given our current social and political
+moment when, for example in the United States, we witness the widening inequality caused by the
+pandemic, the racial reckoning spurred by the murder of George Floyd, the White supremacist insurrection
+at the US Capitol, rising anti-Asian violence, the callous treatment of Haitian and Central American
+refugees at our southern border, and the backlash in communities where families of colour are moving in.
+
+Democratising Evidence through Partnered Research
+To re-centre research agendas on the intended beneficiaries of education research, practice, and policy,
+we can look to the democratising evidence movement (Democratizing Evidence in Education, n.d.[50];
+Tseng, forthcoming[51]). The idea is simple: To apply democratic principles to the production and use of
+research evidence. Democratising the production of education research would mean that agendas are no
+longer set primarily by researchers and research funders but by a variety of stakeholders who decide “what
+questions are asked and answered…result[ing] in an evidence base that is more relevant to the concerns
+of stakeholders, including the communities served by educational institutions” (Jackson, 2021, p. 209[52]).
+Researchers, practitioners, communities, youth, and policy makers would deliberate, negotiate, and
+
+--- [PDF Page 223 / Book Page 221] ---
+
+compromise over research priorities. The agenda-setting process would likely be messier and more timeand resource-intensive than our current system but the research would yield more relevant, trusted, and
+impactful work (Tseng, Fleischman and Quintero, 2018[53]).
+Research-practice partnerships (RPPs) are a promising strategy for democratising evidence. In a recent
+landscape scan in the United States, Farrell and her colleagues (Farrell et al., 2021[54]) define RPPs as
+“long-term collaboration[s] aimed at educational improvement or equitable transformation through
+engagement with research. [They] are intentionally organized to connect diverse forms of expertise and
+shift power relations in the research endeavour to ensure that all partners have a say in the joint work.”
+RPPs contrast in several ways from traditional research arrangements (Tseng and Coburn, 2019[55]). First,
+researchers co-develop research agendas with practitioners, youth, and/or community members. Second,
+partnerships embrace relationship building as opposed to strict researcher independence and detachment
+from “the researched” (Vakil et al., 2016[56]). RPPs rely on close, iterative interactions to determine
+research needs and to collectively interpret findings and their implications for policy or practice. Trust
+between partners is a marker of the strength of the partnership. Third, partnerships embrace long-term
+commitments. Researchers do not come and go with different projects and grants. No study can ever
+address the complex problems faced by educators or communities, and RPPs emphasise sustained
+commitments to build knowledge over time, delve into complex challenges, and iteratively apply research
+to educational improvement.
+
+Implications for funders
+The success of research-practice partnerships and other forms of community-engaged or participatory
+action research will rely in part on funders’ willingness and capacity to depart from some traditional funding
+practices (Bednarek and Tseng, 2022[57]; Tseng, Bednarek and Faccer, forthcoming[58]). Below I offer four
+recommendations for funders who seek to join the movement to democratise evidence.
+
+1. Provide sustained and flexible funding
+Building any kind of productive relationship requires time and the challenges are amplified by historical
+uses of research to justify and exacerbate inequality. Many marginalised communities are wary of research
+and researchers, and it takes time and intentionality to build more equitable, trusting relationships.
+Relationship building is not a one-and-done activity (Wentworth et al., 2021[59]). Sometimes trust is broken,
+and repair work is needed. Other times, leadership changes and new relationships must be created.
+Funders can invest patiently in relationship building, especially with communities that have been
+systematically marginalised. On the front end, funders can launch new partnerships by supporting planning
+periods when partners can begin building trust and developing a shared sense of purpose and
+commitments. In times of leadership transitions or community change, funders can provide supplemental
+funding so partners can revisit their goals and agreements. Throughout the partnership, funders can
+support “brokers” or “boundary spanners,” staff who shoulder the responsibility of strengthening the
+partnership and partners’ skills to carry out collaborative work (Wentworth et al., 2021[59]).
+Funders can consider which expenses are allowed, encouraged, or even required in grant budgets. When
+the funding system incentivises researchers to constantly seek support for new projects, their time and
+energy is diverted away from the long-term agendas developed with partners and towards funders’
+priorities, which may not align with those developed in partnership with communities. Further,
+organisational infrastructure and staffing are crucial for partnership activities such as communicating
+findings to diverse stakeholders; applying findings to practice or programme change; supporting
+communities and youth to mobilise research to advocate for change; scoping new projects; and
+maintaining robust data systems (López Turley and Stevens, 2015[60]; Tseng, Easton and Supplee,
+
+--- [PDF Page 224 / Book Page 222] ---
+
+2017[61]). These are all operating and capacity-building costs that are not adequately covered in most
+research grants.
+Funders can also attend to how funds are allocated across partners (Fine, 2022[62]). Because researchers
+are often the Principal Investigators on research projects, funding tends to support the researchers and
+research organisations. While it is common for budgets to include “incentives” for study participants, the
+payments are premised on the need to induce “the researched” to participate in studies. When funders
+back authentic collaborations, however, community and practice organisations will need support for their
+time, effort, staffing, and expertise.
+
+2. Redefine deliverables
+Research funders often consider publications as key deliverables, and thus it is no surprise that the field
+is awash with journal articles and lengthy reports. The unfortunate reality, however, is that those
+publications are rarely read by practitioners and policy makers and even more rarely by communities and
+youth.
+Relationships, not papers, drive the use of research (Nutley, Walter and Davies, 2007[1]). Practitioners and
+policy makers seldom turn to journals, reports, or books to help them solve problems; instead, they look to
+trusted colleagues. Communities turn to their neighbours. In strong RPPs, they turn to their research
+partners. Publications are still important for codifying research findings but they are not the mechanism
+through which research achieves impact. If funders want research to be used, we might do well to focus
+less on the number of publications and more on the quality of relationships, partnership infrastructure, and
+capacity support for interpreting and using findings.
+While interpersonal relationships are foundational, institutional relationships are better positioned to
+withstand leadership turnover. Urban school superintendents in the United States last less than three years
+in their positions, and thus RPPs that foster institutional collaboration persist even as individuals come and
+go (Tseng, Easton and Supplee, 2017[61]).
+Funders might also consider changes in organisational capacity, incentives, and norms as grant outcomes.
+Academic incentives tend to reward faculty for their influence on other academics, not policy makers,
+practitioners, or communities (Bogenschneider and Corbett, 2021[63]; Hart and Silka, 2020[64]; Gamoran,
+2018[65]). Graduate students and faculty are offered little guidance, mentoring, or skill-building opportunities
+to conduct partnered research (Tseng et al., in press). Funders can use their grant making to incentivise
+changes so that academia rewards faculty and departments that produce socially impactful research and
+equips academics with the requisite skills.
+
+Box 10.7. Examples of democratised research funding
+Deliverables
+
+
+The Carnegie Corporation of New York’s Rigor and Relevance Initiative (2014[66]) provides
+special funding consideration to universities that “count” policy-relevant activities in promotion
+and tenure reviews and that stop tenure clocks for “periods of immersion in policy work”.
+
+
+
+The William T. Grant, Doris Duke, and Spencer Foundations’ Institutional Challenge Grants
+encourage universities to reward faculty partnerships with policy makers and practitioners
+(Tseng, Bednarek and Faccer, forthcoming[58]).
+
+--- [PDF Page 225 / Book Page 223] ---
+
+Grant criteria and processes
+
+
+The Lenfest Oceans Programme at the Pew Charitable Trusts has developed a set of grantmaking criteria, which might serve as a model for education funders (Landrum et al., 2022[67]).
+
+
+
+Henrick and colleagues’ (2017[68]) Five Dimensions of RPP Effectiveness can also inform
+funding criteria for partnership proposals. The dimensions are 1) building trust and cultivating
+partnership relationships, 2) conducting rigorous research to inform action, 3) supporting the
+practice organisation in achieving its goals, 4) producing knowledge that can inform educational
+improvement efforts more broadly, and 5) building the capacity of participating researchers,
+practitioners, practice organisations, and research organisations to engage in partnership work.
+
+Source: Carnegie Corporation of New York (2014[66]), “Rigor and Relevance Initiative: Bridging the academic-policy gap”, Request for
+Proposal; Tseng, V., A. Bednarek and K. Faccer (forthcoming[58]), “How can funders promote the use of research? Three converging views
+on relational research”, Humanities & Social Sciences Communications; Landrum, J. et al. (2022[67]), “Grant-making criteria for developing
+useful and usable marine science: A philanthropic perspective”, https://doi.org/10.3389/fmars; Henrick, E. et al. (2017[68]), “Assessing
+research-practice partnerships: Five dimensions of effectiveness”, https://wtgrantfoundation.org/new-report-assessing-research-practicepartnerships-five-dimensions-effectiveness.
+
+3. Reconsider grant criteria and processes
+Changing what gets funded requires changes in how grants are funded. Academia has criteria for
+determining what constitutes strong research but funders will need additional grant-making criteria to
+evaluate the strength of partnerships and partnership research, and the extent to which it serves
+marginalised communities.
+Grant review processes can be more inclusive and funders might consider both who they bring into the
+review process and how different stakeholders are engaged in reviews. The academic peer review process
+has relied on researchers as reviewers but if studies are to serve the interests of practitioners, policy
+makers, youth, or communities, then perhaps there should also be proposal evaluators. Review processes
+may also need to be reconfigured: While all stakeholders can weigh in on all aspects of proposals, different
+parties might weigh in more heavily on certain issues. For example, communities might have final say in
+whether the research fits with their goals and interests whereas researchers might be relied on more
+heavily to evaluate the research methods and analyses, and practitioners might closely attend to the
+potential actionability of findings.
+
+4. Study thyself
+For funders who want the research they support to be more useful and used, we can put our ideas and
+practices under empirical scrutiny. We can support studies examining whether, how, and under what
+conditions collaborative projects are successful, and ways to improve their effectiveness. This includes
+developing methods and measures to rigorously assess whether collaborative research is used in policy
+and practice and whether educational outcomes improve. We can also study the partnership practices,
+and operating conditions that make some collaborative projects more successful than others – findings
+that could help partners improve their work. We can also study which funding practices are more likely to
+support successful projects and thereby improve our work as funders. By supporting rigorous empirical
+studies, we can build stronger knowledge of how we can produce and use research to achieve educational
+equity.
+
+--- [PDF Page 226 / Book Page 224] ---
+
+Conclusion
+In offering my take on education research, I have suggested that we focus on first things first: What is the
+purpose of education research? If the goal is to inform more equitable policy and practice for marginalised
+students and communities, then we will need to redesign our research enterprise to fit that goal. Today we
+have a research enterprise designed to address researchers’ questions. We will need to innovate new
+ways to conduct and fund research so that it meets the goals of democratising evidence. ResearchPractice Partnerships are one important strategy for redesigning research so that the agendas are
+co-defined by education stakeholders. Education RPPs are already expanding across the United States
+but their success will strongly depend on funders’ willingness and capacity to alter our practices to support
+that work.
+
+Professionalism in the production and use of education research in the era of
+useability and utility
+Makito Yurita, Professor, National Institute for School Teachers and Staff Development (NITS), Japan
+Introduction
+This opinion piece calls for a critical look at how two decades of discussion on education research affected
+what discerning and choosing “quality” research in education in today’s rhetorical space means.
+Two issues are to be addressed: First, we need to critically investigate the role of different actors in defining
+or affecting what constitutes “quality” in the education research chosen to make “informed decisions” in
+policy and practice. Second, we need to examine the rhetoric around “quality” that poses threats on
+narrowing the scope of education and limits what knowledge is used. Hence, we need to examine who are
+the participants in education research and how are questions asked to inform policy and practice in
+education today.
+
+New criterion of “quality” in education research and threats to professionalism
+Democratising the decision-making process in education is an ideal that makes our education system
+accountable and inclusive of all people in a society. However, applying the rhetoric of democratisation to
+how we decide on what education research should look like sets a trap. This is because there are complex
+power dynamics and imbalances across stakeholders and participants in education decision making. Such
+a trap may threaten the rigour and ethics in education research and its application to policy and practice.
+Education research has measures set in place to ensure its quality. Traditionally, it is the professionals in
+the research community that take on the responsibility to ensure rigour in education research through peer
+review. However, there have been persisting challenges in education regarding the gap between research
+and practice.
+Nonetheless, the past two decades of discussion on the quality and use of education research have
+ushered in new criteria on discerning the quality of research that has a bearing on policy and practice.
+These criteria are established by needs and forces outside the research community: Namely, the criteria
+that research findings be practically applicable to resolve pragmatic needs or grasp current issues in
+education. “Is this finding applicable to resolve or answer (a certain) pressing issue?” has become a
+criterion of discerning and measuring the “quality” of chosen research.
+
+--- [PDF Page 227 / Book Page 225] ---
+
+Whose useability should define quality?
+With “useability” as the essential criterion for discerning “quality” in education research, it is critical to work
+out in detail ways to balance different political powers. These are exercised by diverse actors who affect
+education research and its use in policy and practice. In discussions on making education research more
+relevant and responding to pragmatic needs in education, it is ideal to ensure the involvement of usercommunities such as policy makers, practitioners, students, parents and even future employers. There are
+enough arguments in favour of a democratic forum in which the research community could come into
+dialogue with its user-communities, and progress towards education research that contributes better to the
+production of knowledge relevant to policy and practice. This is an interesting argument and even,
+theoretically, ideal but there are constraints to be addressed before its application in practice.
+That said, education research has already or always been open to diverse users, some of whom are
+outside the research community. Furthermore, the user-communities of education research are overly
+diverse and fluid, and thus each of them represents different roles, responsibilities, interest, financial
+capacities and power to influence decision making in policy and practice in education. The research
+community does not have exclusive power of determination over education research, and thus, it has
+proved difficult to find sufficient common ground among user-communities.
+The differentials in power held by different actors means that some actors have more determining power
+over others on how research gets funded, what scopes are set and what methods are used when designing
+research in education. For instance, in the United States, the Department of Education aims to control the
+types of education research by prioritising funding for randomised control trials. In so doing, it aims to make
+education research contribute to building a causal knowledge base to inform policy and practice. Many
+countries have also shifted investment in education research to that which promises the production of
+causal knowledge in education. Setting such a priority in the allocation of research spending is a rational
+policy action in the pursuit of “value-for-money” in public spending.
+Funding allocation driven by utility and efficiency in research spending prioritises responding to the needs
+of the political and quantitative mainstream. Allowing the lens of “applicability” to discern who the majority
+is, what a majority wants and needs, and the ways to make a functional majority drive research risks
+overlooking the realities and needs of minorities, the disenfranchised, and voices that do not align with the
+criteria of “applicability” in a given context. Therefore, it is important to acknowledge that efficiency-based
+quality in education research comes at a cost. It sets limits on those who have a voice in education research
+as well as those whose voice is represented in policy and practice through education research.
+
+Latent threats in the dominance of experimental design
+Along with favouring useability of research knowledge, there is a trend in investing in education research
+using experimental design. This trend poses a threat to fairness and equity in the use of and access to
+quality research in education. Experimental design in education research is costly, one that is higher when
+the scope is set for system-level policy and practice. There are also the costs of the verification of produced
+knowledge. Hence, making overly heavy investments in particular types of research with a certain agenda
+or methodology may narrow not only the scope of research but the number and diversity of researchers
+who are able to participate in knowledge production.
+Lastly, in an era of declining education spending, the current trend in focusing research investment on
+experimental design comes at the cost of undermining, if not ignoring, other important questions that
+cannot be answered with causal explanations. Experimental design is an adequate means to understand
+and measure the causal relations between inputs and their outcomes. It offers causal knowledge to better
+inform decision making in policy and practice in education but the causal knowledge produced by such
+research is done so through the removal of existing diversities and complexities in education practice in
+the form of variables. In this respect, research-based causal knowledge can tell us what intervention
+
+--- [PDF Page 228 / Book Page 226] ---
+
+techniques or what area of intervention would likely impact student learning or teacher teaching more
+greatly, for example. However, it answers very little about how such interventions functioned where they
+were implemented. More importantly, it does not answer why the same interventions worked differently or
+did not work for those for whom there was no impact.
+If too much investment goes into education research that promises immediate useability in pragmatic
+issues of policy and practice, this could accelerate operationalisation in teacher policy and teacher
+professional development practice. Teachers would face de-professionalisation and become mere utility
+tools, enacting operations of “what works”. This would be validated by quality education research at the
+cost of making statistically insignificant variables of the outliers (e.g. students on both tails of the normal
+distribution in terms of learning or social advantages). Undermining outliers works to reproduce social and
+political inequality as they cannot afford educational alternatives and would lose educational opportunities.
+
+Issues smouldering beneath useability-based quality in education research
+To sum up, while recognising the value in the democratic involvement of different actors, interests, and
+views in defining purposes and “desirable quality” in education research that is applicable to policy and
+practice, it is essential to critically examine how this diversity affects the funding of and choices made in
+education research. While pragmatically applicable research may enable the policy design to respond to
+a perceived majority of needs, the uneven and greater distribution of investment towards research and
+consequent policy that caters only to such needs leaves out “outliers” via statistic normalisation (e.g. in
+terms of research fields/questions or researchers’ interests). Such omissions and exclusions of “outliers”
+in education contributes to a social reproduction detrimental to minorities, disenfranchised / disadvantaged
+groups and ideas that do not fit the statistical mean.
+This leaves out not only individuals, communities, or minority groups of a given society but even entire
+countries and systems that cannot afford or do not have the means or specialists to adapt such research
+to their own conditions and contexts. They end up taking on research productions that overlook their own
+context in an attempt to align to a “normality” defined without them. Similarly, the operationalisation of
+teachers carried out from sources and processes external to them would make them into mere tools to
+seed and enact “useable”, functional knowledge defined outside their communities of practice and their
+teaching/learning sensitive contexts.
+
+Professionalism and ethics in education research
+We need to remember at all times that a productive, successful education is just as much about the needs
+and rights of outliers to develop and access the opportunities of a modern society as it is about the “median
+majority”. This needs to be reflected in the funding of education research as well as in the definitions of
+“quality” and decisions about “applicable” research designs and products.
+Therefore, no discussion on the quality and use of education research can be complete without defining
+the roles of the professional community in education and ways to build trust around it. As argued in this
+opinion piece, education research is open to diverse actors; and the professional community has even
+smaller roles in today’s rhetorical space in which “useability” has become an additional criterion in
+discerning the quality of education research. Today, education is increasingly a field in which differences
+in values and priorities are constantly negotiated among diverse actors and across complex agendas. The
+quality and use of education research cannot be established without defining some fundamentals of
+professional rigour and ethics that should cut across participants and discussions. Professionalism,
+therefore, is not so much about the knowledge and skills in conducting research in education but the ability
+to be entrusted with monitoring ethics in education research and its application in policy and practice.
+
+--- [PDF Page 229 / Book Page 227] ---
+
+Conclusions: The future of education research
+Although the seven opinion pieces in this chapter are markedly different in terms of focus, narrative and
+proposed solutions, they have a striking common element. They all want education research to be more
+relevant. Some authors concentrate on relevance for policy makers and educational practitioners while
+others go beyond to include students and communities. There are four emerging themes that cut across
+several of the perspectives.
+
+Theme 1: Research quality and scientific rigour
+It appears that the discussion on research quality has moved forward on several fronts in the past decade.
+First, among those concerned with scientific rigour, the debate is no longer focused primarily on
+methodological approaches. Mark Schneider demonstrates how the new research standards of the
+United States Institute of Education now extend beyond traditional scientific rigour with a view to helping
+establish a stronger knowledge base for educational practice and policy. Notably, they include
+considerations for generalisation and scaling. In the same vein, Dirk Van Damme notes that the “empirical
+turn” in education research has brought more rigorous research; however, understanding how far these
+findings generalise is still a challenge. Both emphasise the lack of replications and various biases as major
+obstacles and both advocate providing strategic funding and working to overcome the main biases. What
+differs is that Dirk Van Damme believes that educational research needs its own identity (as a separate
+academic discipline with its own non-ideological theories and more self-regulation). Mark Schneider, on
+the other hand, focuses on more practical ways to increase research standards (e.g. well-defined
+components, unbiased outcome measures, considerations for generalisation and scaling).
+Second, those whose primary focus is to involve users (and, even, ultimate beneficiaries) in research call
+for a novel conceptualisation of scientific quality. Rather than viewing practitioners’ engagement in
+research as a threat to scientific rigour (as viewed by Dirk Van Damme), they favour the meaningful and
+deep engagement of several actors as a new criterion of research quality. At the same time, as Tine Prøitz
+stresses, ensuring scientific quality when multiple actor groups collaborate in the research process remains
+an important consideration. Vivian Tseng brings this discussion to a meta-level: Rigour is needed not only
+from those conducting research but those who fund it. Education research itself should be researched and
+evaluated to determine what works, how and under what conditions.
+
+Theme 2: The nature and quality of collaboration between researchers and practitioners
+The authors of the last five pieces all agree that actors’ engagement in research is what ensures its
+relevance. They point to various developments while also drawing attention to major challenges that
+remain.
+Over the past 20 years, practitioner-researcher collaboration has evolved from a wish and a discourse to
+reality in many countries. However, as demonstrated by Emese K. Nagy, the nature of collaboration
+matters strongly for the relevance and applicability of research. Developing mutual respect and overcoming
+traditional power relations is key. Rather than forcing different types of knowledge (research knowledge
+and practice-based, experiential knowledge) to converge, mutual respect is about valuing all forms of
+knowledge and experience equally, according to Tine S. Prøitz.
+Scaling research-practice partnerships, as illustrated by examples in Sweden and the United States, is
+more recent. As a result, evidence on how and under what conditions such partnerships can contribute to
+building a robust and cumulative knowledge base for education is still in its infancy. Two sets of factors are
+to be understood: One is a set of characteristics internal to research-practice partnerships, including actors’
+respective roles, and suitable spaces and timeframes for collaboration; the other is a set of external factors
+such as funding schemes for research and systemic incentives for all actors.
+
+--- [PDF Page 230 / Book Page 228] ---
+
+Theme 3: Ethical considerations of democratised education research
+Education research should help repair inequities in our society by making education better for everyone.
+Several of the pieces are concerned with how this can be realised in practice. Addressing inequities was
+added as a separate principle to the standards of research excellence in the United States. Vivian Tseng
+believes that for education research to fulfil this mission, evidence itself should be democratised. The
+voices of all actors, and in particular of marginalised groups, should be heard and incorporated not just in
+the process of each individual research initiative but in agenda setting. Makito Yurita also discusses
+democratisation in terms of methodologies. Prioritising certain methodologies, particularly expensive
+experimental designs, can lead to certain types of research and groups of researchers being sidelined.
+This is problematic because helping marginalised groups requires addressing different types of questions
+through different methodologies.
+
+Theme 4: Better policies for education research
+Better research for better policies, yes, but also better policies for better research. Several of the pieces
+remind us that improving research production has policy conditions. First and foremost: funding. The
+volume and nature of the research produced is contingent not only on available funds but the criteria for
+funding. Unsurprisingly, more would be better. The criteria however is a complex matter. What kind of
+research should be funded? Experimental designs? Foundational and theoretical research? Participatory
+research? What is the right formula to get desired outcomes?
+Vivian Tseng demonstrates just how much equity depends on the way funding is provided. Makito Yurita
+adds that funding criteria such as prioritising high-cost designs can marginalise education research for
+entire education systems.
+However, it is not just about money. Incentives for different actors also determine what and how research
+is produced. John Bangs and Martin Henry emphasise incentives for teachers. Emese K. Nagy illustrates
+this through a career model that explicitly incentivises teachers to engage in research. Several authors
+also highlight the problem of academic incentives that, by requiring certain types of output, discourage
+producing research for policy and practice. They do not favour participatory approaches either.
+
+Bottom line
+This chapter moves the dialogue on education research forward by offering a discussion space beyond
+the walls of academia that spans the different contexts of policy, practice, research and advocacy, and
+different countries. A great deal of thinking has gone into the production of education research in the past
+decades. As a result, there is more education research today. It has become more relevant for policy and
+practice, and more rigorous and more participatory. These developments have provoked a more refined
+understanding of what still needs to be done. The perspectives presented above express diverse but not
+truly contradictory views. We hope that readers and the authors themselves will recognise and benefit from
+the complementarity of these perspectives to advance the agenda of education research. Importantly, this
+dialogue should not just be broadened and continued but become more evidence-based itself.
+
+References
+Ainscow, M. et al. (2016), “Using collaborative inquiry to foster equity within school systems:
+Opportunities and barriers”, School Effectiveness and School Improvement, Vol. 27/1, pp. 723, https://doi.org/10.1080/09243453.2014.939591.
+
+[70]
+
+--- [PDF Page 231 / Book Page 229] ---
+
+Angrist, N. et al. (2021), “Measuring human capital using global learning data”, Nature,
+Vol. 592/7854, pp. 403-408, https://doi.org/10.1038/s41586-021-03323-7.
+
+[13]
+
+Bangs, J. (2020), “The organised voice of teachers”, in MacBeath, J., M. Galton and J. Bangs
+(eds.), Reforming or Re-inventing Schools? Key Issues in School and System Reform,
+Routledge, Oxford.
+
+[34]
+
+Bangs, J. and D. Frost (2012), Teacher Self-Efficacy, Voice and Leadership: Towards a Policy
+Framework for Education International, Education International Research Institute, Brussels.
+
+[30]
+
+Barshay, J. (2019), “The dark side of education research: Widespread bias”, The Hechinger
+Report, https://hechingerreport.org/the-dark-side-of-education-research-widespread-bias/.
+
+[20]
+
+Bednarek, A. and V. Tseng (2022), “A global movement for engaged research”, Issues in
+Science and Technology, Vol. 38/3, pp. 53-56.
+
+[57]
+
+Bogenschneider, K. and T. Corbett (2021), Evidence-based Policymaking: Envisioning a New
+Era of Theory, Research, and Practice, Routledge, https://doi.org/10.4324/9781003057666.
+
+[63]
+
+Bruno, E. and I. Iruka (2022), “Reexamining the Carolina Abecedarian project using an antiracist
+perspective: Implications for early care and education research”, Early Childhood Research
+Quarterly, Vol. 58, pp. 165-176, https://doi.org/10.1016/j.ecresq.2021.0.
+
+[47]
+
+Burns, D. and L. Darling-Hammond (2014), Teaching Around the World: What Can TALIS Tell
+Us?, Stanford Center for Opportunity Policy in Education, Stanford, California.
+
+[31]
+
+Burns, T. and F. Köster (eds.) (2016), Governing Education in a Complex World, Educational
+Research and Innovation, OECD Publishing, Paris, https://doi.org/10.1787/9789264255364en.
+
+[10]
+
+Carnegie Corporation of New York (2014), “Rigor and Relevance Initiative: Bridging the
+academic-policy gap”, Request for Proposal.
+
+[66]
+
+Carter, B., H. Stevenson and R. Passy (2010), Industrial Relations in Education-Transforming
+the School Workforce, Routledge, London.
+
+[27]
+
+Connolly, P., C. Keenan and K. Urbanska (2018), “The trials of evidence-based practice in
+education: A systematic review of randomised controlled trials in education research 19802016”, Educational Research, Vol. 60/3, pp. 276-291,
+https://doi.org/10.1080/00131881.2018.1493353.
+
+[15]
+
+Democratizing Evidence in Education (n.d.), Homepage, http://www.democratizingevidence4.us/.
+
+[50]
+
+Diamond, J. (2021), “Racial equity and research practice partnerships 2.0: A critical reflection”,
+William T. Grant Foundation, New York, http://wtgrantfoundation.org/racial-equity-andresearch-practice-partnerships-2-0-a-critical-reflection.
+
+[46]
+
+Education.org (2021), Calling for an Education Knowledge Bridge. A White Paper to Advance
+Evidence Use in Education, https://education.org/white-paper.
+
+[11]
+
+EI (2021), Learning from the Past, Looking to the Future: Excellence and Equity for All: A
+Briefing by Education International, 2021 International Summit on the Teaching Profession,
+Education International, https://www.ei-ie.org/en/item/25427:learning-from-the-past=lookingto-the-future-excellence-and-equity-for-all.
+
+[37]
+
+--- [PDF Page 232 / Book Page 230] ---
+
+EI (2021), The Global Report on the Status of Teachers, Education International, http://www.eiie.org/en/item/25403:the-global-report-on-the-status-of-teachers.
+
+[26]
+
+EI (n.d.), Homepage, Education International, https://www.ei-ie.org/en (accessed on
+27 June 2022).
+
+[25]
+
+Farrell, C. et al. (2021), Research-practice Partnerships in Education: The State of the Field,
+William T. Grant Foundation, https://wtgrantfoundation.org/research-practice-partnerships-ineducation-the-state-of-the-field.
+
+[54]
+
+Fazekas, M. and T. Burns (2012), “Exploring the Complex Interaction Between Governance and
+Knowledge in Education”, OECD Education Working Papers, No. 67, OECD Publishing,
+Paris, https://doi.org/10.1787/5k9flcx2l340-en.
+
+[9]
+
+Fine, M. (2022), “Critical participatory action research: From community led inquiry to policy
+transformations”, Presented at Funders Learning Group for Using Evidence for Change.
+
+[62]
+
+Furlong, J. and A. Oancea (2005), Assessing Quality in Applied and Practice-based Educational
+Research A Framework for Discussion, Department of Educational Studies, Oxford
+University,
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.572.1721&rep=rep1&type=pdf
+(accessed on 11 June 2020).
+
+[6]
+
+Gamoran, A. (2018), “Evidence-based policy in the real world: a cautionary view”, The ANNALS
+of the American Academy of Political and Social Science, Vol. 678/1, pp. 180-191,
+https://doi.org/10.1177/0002716218770138.
+
+[65]
+
+Hart, D. and L. Silka (2020), “Rebuilding the ivory tower: A bottom-up experiment in aligning
+research with societal needs”, Issues in Science and Technology, Vol. 36/3, pp. 64-70,
+https://issues.org/aligning-research-with-societal-needs/.
+
+[64]
+
+Henrick, E. et al. (2017), “Assessing research-practice partnerships: Five dimensions of
+effectiveness”, William T. Grant Foundation, New York, https://wtgrantfoundation.org/newreport-assessing-research-practice-partnerships-five-dimensions-effectiveness.
+
+[68]
+
+IES (n.d.), Homepage, Institute of Education Sciences, https://ies.ed.gov/ (accessed on
+27 June 2022).
+
+[21]
+
+Jackson, C. (2021), “Democratizing the Development of Evidence”, Educational Researcher,
+Vol. 51/3, pp. 209-215, https://doi.org/10.3102/0013189x211060357.
+
+[52]
+
+Kirkland, D. (2019), No Small Matters: Reimagining the Use of Research Evidence from a Racial
+Justice Perspective, William T. Grant Foundation, New York,
+http://wtgrantfoundation.org/library/uploads/2019/12/David-E.-Kirkland-2019-WTG-Digest.pdf.
+
+[48]
+
+Kuhne, G. and B. Quigley (1997), “Understanding and using action research in practice
+Settings”, in Creating Practical Knowledge Through Action Research: Posing Problems,
+Solving Problems, and Improving Daily Practice, Jossey-Bass,
+https://doi.org/10.1002/ace.7302.
+
+[69]
+
+Landrum, J. et al. (2022), “Grant-making criteria for developing useful and usable marine
+science: A philanthropic perspective”, Frontiers in Marine Science,
+https://doi.org/10.3389/fmars.
+
+[67]
+
+--- [PDF Page 233 / Book Page 231] ---
+
+López Turley, R. and C. Stevens (2015), “Lessons from a school district-university research
+partnership: The Houston Education Research Consortium”, Educational Evaluation and
+Policy Analysis, Vol. 37/1S, pp. 6S-15S, https://doi.org/10.3102/0162373715576074.
+
+[60]
+
+Makel, M. and J. Plucker (2014), “Facts are more important than novelty”, Educational
+Researcher, Vol. 43/6, pp. 304-316, https://doi.org/10.3102/0013189x14545513.
+
+[16]
+
+Moje, E. et al. (2004), “Working toward third space in content area literacy: An examination of
+everyday funds of knowledge and discourse”, Reading Research Quarterly, Vol. 39/1, pp. 3870.
+
+[44]
+
+Moss, P. et al. (2009), “Learning from our differences: A dialogue across perspectives on quality
+in education research”, Educational Researcher, Vol. 38/7, pp. 501-517,
+https://doi.org/10.3102/0013189x09348351.
+
+[4]
+
+NCEE (2021), Learning from the Past, Looking to the Future: Excellence and Equity for All,
+NCEE’s Report from the 2021 International Summit on the Teaching Profession, National
+Center on Education and the Economy, https://ncee.org/quick-read/learning-from-the-pastlooking-to-the-future-excellence-and-equity-for-all/.
+
+[35]
+
+Nelson, J. and C. Campbell (2017), “Evidence-informed practice in education: Meanings and
+applications”, Educational Research, Vol. 59/2, pp. 127-135,
+https://doi.org/10.1080/00131881.2017.1314115.
+
+[5]
+
+Nutley, S. et al. (2010), Evidence and Policy in Six European Countries: Diverse Approaches
+and Common Challenges, Policy Press, https://doi.org/10.1332/174426410X502275.
+
+[3]
+
+Nutley, S., I. Walter and H. Davies (2007), Using Evidence - How Research Can Inform Public
+Services, Policy Press, Bristol.
+
+[1]
+
+OECD (2020), TALIS 2018 Results (Volume II): Teachers and School Leaders as Valued
+Professionals, OECD Publishing, Paris, https://doi.org/10.1787/19cf08df-en.
+
+[28]
+
+OECD (2019), “Success in hard times: Learning from effective union partnerships in education
+policy reform”, in Education Policy Outlook 2019: Working Together to Help Students Achieve
+their Potential, OECD Publishing, Paris, https://doi.org/10.1787/4c334.
+
+[33]
+
+OECD (2015), “Education union partnerships in policy reforms”, in Education Policy Outlook
+2015: Making Reforms Happen, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264225442-14-en.
+
+[32]
+
+OECD (2014), TALIS 2013 Results: An International Perspective on Teaching and Learning,
+OECD Publishing, Paris, https://doi.org/10.1787/9789264196261-en.
+
+[29]
+
+OECD (2007), Evidence in Education: Linking Research and Policy, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264033672-en.
+
+[2]
+
+OECD/EI (2021), Principles for an Effective and Equitable Educational Recovery, Education
+International, Brussels, http://www.ei-ie.org/en/item/25231:effective-and-equitableeducational-recovery-10-principles.
+
+[38]
+
+Pellegrini, M. and G. Vivanet (2020), “Evidence-based policies in education: Initiatives and
+challenges in Europe”, ECNU Review of Education, Vol. 4/1, pp. 25-45,
+https://doi.org/10.1177/2096531120924670.
+
+[8]
+
+--- [PDF Page 234 / Book Page 232] ---
+
+Perry, T., R. Morris and R. Lea (2022), “A decade of replication study in education? A mapping
+review (2011-2020)”, Educational Research and Evaluation, Vol. 27/1-2, pp. 12-34,
+https://doi.org/10.1080/13803611.2021.2022315.
+
+[17]
+
+Prøitz, T. (2020), “Praksisnær forskning og partnerskap i et tredje rom”, Pedagogisk forskning i
+Sverige, Vol. 25/4, pp. 79-82.
+
+[43]
+
+Prøitz, T. and P. Aasen (2016), “Balancing evidence-based and experience-based knowledge in
+education”, in Att ta utbildningens komplexitet på allvar. En vänskrift till Eva Forsberg,
+Uppsala University.
+
+[39]
+
+Prøitz, T. et al. (forthcoming), Utbildning, lärande, forskning. En evalueringsstudie av ULFförsöksverksamhet, XX University of South-Eastern Norway.
+
+[41]
+
+Prøitz, T. and L. Wittek (2019), “New directions in doctoral programmes: Bridging tensions
+between theory and practice?”, Teaching in Higher Education, Vol. 25/5, pp. 1-19.
+
+[40]
+
+Rasmussen, P. (2021), “Educational research – Public responsibility, private funding?”, Nordic
+Journal of Studies in Educational Policy, pp. 1-10,
+https://doi.org/10.1080/20020317.2021.2018786.
+
+[7]
+
+Schleicher, A. (2021), Learning from the Past, Looking to the Future: Excellence and Equity for
+All, International Summit on the Teaching Profession, OECD Publishing, Paris,
+https://doi.org/10.1787/f43c1728-en.
+
+[36]
+
+Slavin, R. (2014), How Biased Measures Lead to False Conclusions, Robert Slavin’s Blog,
+https://robertslavinsblog.wordpress.com/2014/11/06/how-biased-measures-lead-to-falseconclusions/ (accessed on 27 June 2022).
+
+[22]
+
+Tipton, E. and R. Olsen (2018), “A review of statistical methods for generalizing from evaluations
+of educational interventions”, Educational Researcher, Vol. 47/8, pp. 516-524,
+https://doi.org/10.3102/0013189x18781522.
+
+[19]
+
+Tseng, V. (forthcoming), “Democratizing evidence for equity”, in Bauer, T., R. Haskins and
+K. Fitzsimmons (eds.), Next Generation Evidence, Brookings.
+
+[51]
+
+Tseng, V., A. Bednarek and K. Faccer (forthcoming), “How can funders promote the use of
+research? Three converging views on relational research”, Humanities & Social Sciences
+Communications.
+
+[58]
+
+Tseng, V. and C. Coburn (2019), “Using evidence in the US”, in Boaz, A. et al. (eds.), What
+Works Now? Evidence-informed Policy and Practice, Policy Press.
+
+[55]
+
+Tseng, V., J. Easton and L. Supplee (2017), “Research-practice partnerships: Building two-way
+streets of engagement”, Social Policy Report, Vol. 30/4, https://doi.org/10.1002/j.23793988.2017.tb00089.x.
+
+[61]
+
+Tseng, V., S. Fleischman and E. Quintero (2018), “Democratizing evidence in education”, in
+Bevan, B. and W. Penuel (eds.), Connecting Research and Practice for Educational
+Improvement: Ethical and Equitable Approaches, Routledge, New York.
+
+[53]
+
+Tuck, E. (2009), “Suspending damage: A letter to communities”, Harvard Educational Review,
+Vol. 79/3, pp. 409-428, https://doi.org/10.17763/haer.79.3.n0016675661t3n15.
+
+[49]
+
+--- [PDF Page 235 / Book Page 233] ---
+
+Tucker, M. (2019), “Education research: Does the United States have the right model?”, National
+Center on Education and the Economy (NCEE), https://ncee.org/tucker-writing/educationresearch/.
+
+[12]
+
+Ulfavtal (n.d.), ULF FAQ, https://www.ulfavtal.se/about-ulf/ (accessed on 2 March 2022).
+
+[42]
+
+US Congress (2002), No Child Left Behind Act of 2001, H.R.1, 107th Cong., H.R.1 - 107th
+Congress (2001-2002), http://www.congress.gov/.
+
+[24]
+
+Vakil, S. et al. (2016), “Rethinking race and power in design-based research: Reflections from
+the field”, Cognition and Instruction, Vol. 34/3, pp. 194-209,
+https://doi.org/10.1080/07370008.2016.1169817.
+
+[56]
+
+Wentworth, L. et al. (2021), RPP Brokers Handbook: A Guide to Brokering in Education
+Research-Practice Partnerships, National Network of Education Research-Practice
+Partnerships (NNERPP), Houston, Texas.
+
+[59]
+
+William T. Grant Foundation (n.d.), Homepage, http://wtgrantfoundation.org/ (accessed on
+27 June 2022).
+
+[45]
+
+Wrigley, T. (2018), “The power of ‘evidence’: Reliable science or a set of blunt tools?”, British
+Educational Research Journal, Vol. 44/3, pp. 359-376, https://doi.org/10.1002/berj.3338.
+
+[14]
+
+Wu, J. et al. (2021), From research to market: Development of a transition process to integrate
+sustainable scaling methodologies into education innovation research design and
+development, SRI International, https://www.sri.com/publication/from-research-to-marketdevelopment-of-a-transition-process-to-integrate-sustainable-scaling-methodologies-intoeducation-innovation-research-design-and-development/.
+
+[23]
+
+Wyse, D. (2020), “Presidential Address: The academic discipline of education. Reciprocal
+relationships between practical knowledge and academic knowledge”, British Educational
+Research Journal, Vol. 46/1, pp. 6-25, https://doi.org/10.1002/berj.3597.
+
+[18]
+
+--- [PDF Page 236 / Book Page 234] ---
+
+Notes
+1
+
+For more information, see https://ies.ed.gov/seer.
+
+2
+
+See https://ies.ed.gov/director/remarks/researchcomp2018.asp and https://ies.ed.gov/director/remarks/
+seer2018.asp.
+3
+
+See https://capproject.org/.
+
+4
+
+See https://ies.ed.gov/seer/cost_analysis.asp.
+
+5
+
+See https://edinstruments.com/.
+
+6
+
+For more information, see https://us.macmillan.com/books/9781250222695/sciencefictions.
+
+7
+
+See https://seernet.org/.
+
+8
+
+See https://www.basicbooks.com/titles/jim-manzi/uncontrolled/9780465023240/.
+
+9
+
+See https://ies.ed.gov/funding/pdf/2022_84305N.pdf.
+
+10
+
+See https://issuu.com/educationinternational/docs/2021_ei_research_statusofteachers_eng_final/.
+
+11
+
+Action research – originally termed by Kurt Lewin – is a systematic enquiry centred on a problem related
+to teaching practice, in which the practitioner performs the roles of both researcher and teacher. In its
+popular adaptation, collaborative enquiry, researchers and teachers work together to solve a problem
+through systematic investigation (Kuhne and Quigley, 1997[69]; Ainscow et al., 2016[70]).

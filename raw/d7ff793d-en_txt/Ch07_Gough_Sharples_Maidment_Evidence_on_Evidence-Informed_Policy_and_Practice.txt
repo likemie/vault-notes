@@ -1,0 +1,1037 @@
+================================================================================
+Chapter: Evidence on evidence-informed policy and practice
+Author(s): David Gough, Jonathan Sharples and Chris Maidment
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part II: Actors and mechanisms facilitating research use in policy and practice
+Book Pages: pp. 146–162
+PDF Pages: pp. 148–164 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 148 / Book Page 146] ---
+
+7 Evidence on evidence-informed
+policy and practice
+
+David Gough, University College London
+Jonathan Sharples, University College London
+Chris Maidment, University College London
+
+Knowledge brokerage and knowledge mobilisation are generic terms used
+to describe activities that enable the use of research evidence to inform
+policy, practice and individual decision making. Knowledge brokerage
+intermediary (KBI) initiatives facilitate such use of research evidence.
+Drawing on examples from existing brokerage initiatives, this chapter is
+structured in five parts. Each part seeks to address areas where KBIs could
+be more evidence-informed in their work: 1. Needs analysis; 2. Integrating
+evidence use in wider systems and contexts; 3. Methods and theories of
+change; 4. Evidence standards; and 5. Evaluation and monitoring. For each
+area, questions are suggested that explore how the principles are being
+followed in practice. Recommendations for KBIs, policy makers and funders
+are provided at the end of the chapter. The chapter is adapted from an
+open-access paper published in Evidence & Policy.
+
+--- [PDF Page 149 / Book Page 147] ---
+
+Introduction
+Policy, practice and individual decisions are informed and influenced by many factors. Research findings
+can be an important source of information. 1 Over recent years, there has been concern that research
+evidence has not always been used to its full potential in decision making (Boaz et al., 2019[1]) or has been
+used to justify decisions that have really been made on other grounds (Weiss, 1979[2]). A number of
+strategies have been used to enable the greater consideration and use of research evidence (Cooper,
+2014[3]; Langer, Tripney and Gough, 2016[4]; Gough, Maidment and Sharples, 2018[5]). Knowledge
+Brokerage Intermediaries (KBIs) are individuals and organisations that aim to broker the intermediary
+space between the use and production of research evidence (see Box 7.1).
+
+Box 7.1. Examples of KBI organisations and strategies
+KBI organisations can include:
+
+
+Portals to communicate research findings to potential users of evidence.
+
+
+
+Knowledge brokerage organisations, including What Works Centres (WWCs) and research
+observatories (such as the International Public Policy Observatory on COVID-19).
+
+
+
+University offices to communicate research findings.
+
+
+
+Evidence advisory systems for governments.
+
+Strategies to integrate research findings into decision making:
+
+
+Access: initiatives to raise awareness of research evidence and make it more available to
+potential users of research.
+
+
+
+Uptake: strategies to support and encourage decision makers to make use of research evidence
+in their work.
+
+
+
+Science advice: researchers’ availability to advise decision makers as in expert advisory
+committees, academic secondments to government departments or in partnerships between
+universities, policy makers and professional practitioners.
+
+
+
+Co-production of research and its use: by researchers, users of that research, and
+intermediaries between the two.
+
+
+
+Impact: measures to encourage researchers to enable their work to influence decision making.
+
+
+
+Implementation: strategies to support changes in practice that are based on decisions informed
+by research evidence.
+
+This paper builds on the work of Powell, Davies and Nutley (2016[6]) to contribute to and extend the debate
+on the importance of KBIs themselves being evidence-informed in how they go about their work. If KBIs
+do not take an evidence-informed approach to their own work, they may be less effective than they could
+be. They may also lose credibility and trust by not following their own advice on using research evidence
+in decision making. This chapter argues that a more overt focus on being evidence-informed can help KBIs
+reflect on and develop the theory, practice, and study of their work in at least five areas:
+1. Needs analysis: appraisal of the pre-existing evidence ecosystem that initiatives wish to influence.
+2. Integrating evidence use in wider systems and contexts.
+3. Methods and theories of change: initiatives’ activities and methods, and the basis for belief they
+will produce the outcomes desired.
+4. Evidence standards: the quality and relevance criteria for evidence claims made by KBIs.
+
+--- [PDF Page 150 / Book Page 148] ---
+
+5. Evaluation and monitoring: KBIs’ evaluation of their own activities and their contribution to the
+knowledge base on evidence use.
+Although the focus is on the work of KBIs in the United Kingdom, the principles and considerations should
+be relevant to other countries’ contexts.
+
+Evidence-informed in their aims and needs analysis
+Evidence-informed policy and practice is where relevant research findings are used in an appropriate and
+useful way to inform decision making. Evidence claims may be justified in some contexts but applied to
+decisions where they have no or limited relevance; for example, evidence about what works on average
+may be ineffective or even harmful in specific circumstances (and vice versa).
+Matching the needs of the decision maker to the questions asked and the contexts in which they apply
+involves some engagement between decision making and research production. This can be conceived of
+as an evidence ecosystem operating within a wider system of various stakeholders influencing research
+production and research use (Best and Holmes, 2010[7]; Gough, Thomas and Oliver, 2019[8]). The main
+components of such an evidence ecosystem include decision making, research production, and some
+engagement between such decision making and research production. All of this activity interacts with wider
+systems and contexts. An awareness of the components and functioning of evidence ecosystems (as in
+Figure 7.1) can help KBIs and other actors plan and assess their work.
+
+Figure 7.1. Evidence ecosystem
+WIDER SYSTEMS AND CONTEXTS
+Many players and interests
+
+ACTORS | PERSPECTIVES | ISSUES | QUESTIONS | POWER
+
+POLICY, PRACTICE
+AND DECISIONMAKING
+Enlightenment and/or
+instrumental use of
+evidence
+
+ENGAGEMENT
+
+WHAT WE KNOW
+FROM RESEARCH
+(synthesis)
+Conceptual and/or
+instrumental
+evidence
+
+IMPLEMENTATION OF
+DECISIONS
+
+RESEARCH
+PRODUCTION
+(primary research)
+
+Note: In this model we have purposely placed ‘evidence production’ on the right-hand side to guard against evidence use being seen as a
+process of ‘pushing’ evidence from producers to users (typically represented as moving from left to right).
+Source: Gough, D. et al. (2011[9]), Evidence Informed Policy in Education in Europe: EIPEE Final Project Report, http://www.eippee.eu/cms/Po
+rtals/41/EIPEE%20final%20project%20report_250711.pdf?ver=2011-11-17-135453-957.
+
+--- [PDF Page 151 / Book Page 149] ---
+
+KBIs aim to facilitate the functioning of evidence ecosystems. An obvious starting point, therefore, is to
+assess the functioning of the evidence ecosystem they are currently or plan to work within. What is the
+pre-existing nature of research production, engagement with that research by users, and actual use of
+evidence in decision making? This kind of assessment can inform the choice of strategies to promote the
+use of research evidence.
+So, to what extent do KBIs systematically appraise the relationship between the use and production of
+research evidence in their field? And having made such an appraisal, what are their strategies for improving
+the functioning of that evidence ecosystem?
+What Works Centres (WWC) are one type of KBI and evidence-use infrastructure. In a study of WWCs in
+the United Kingdom (Gough, Maidment and Sharples, 2018[5]), the most common aims identified were:
+
+
+Primary research base: development of primary research.
+
+
+
+Co-production: by researchers and users of primary and secondary research.
+
+
+
+Synthesis: clarifying the knowledge base.
+
+
+
+User access to research: communication of the evidence to professional practitioners.
+
+
+
+Supporting evidence uptake: enabling the consideration and uptake of research.
+
+
+
+Evidence-informed guidance: developing guidelines/recommendations for practice.
+
+
+
+Enabling implementation: of decisions that have been informed by research evidence, including
+the use of strategies informed by the behavioural needs of users.
+
+The centres thought that it was important for decision makers to have access to research evidence or
+guidance informed by research. And, that it is more efficient for a national service to identify relevant
+research evidence than individual policy makers and practitioners. Nevertheless, it is not always clear why
+WWCs’ predominant aim was to provide access to research evidence when other aspects of the evidence
+ecosystem could be attended to. At the time of the study, some centres took a more holistic approach to
+appraising and enabling all parts of their evidence ecosystems and the wider systems within which these
+existed (including political dynamics), though these might not be included in public descriptions of their
+work. There was also some explicit discussion of how different KBIs might relate to and interact with each
+other.
+There are also differences in the type of policy and practice issues, and related research evidence that
+KBIs work with. Many KBIs focus on the identification and implementation of effective interventions or
+“what works”. For some of these, the emphasis is on manualised programmes for intervention with a
+concern for fidelity of application. Others emphasise effective strategies and mechanisms that can be
+applied differently in different contexts (Gough, 2021[10]).
+There has been development over time in the aims and methods of WWCs in the United Kingdom. Most
+started with a focus on the synthesis and communication of evidence, and then developed an increased
+focus on user engagement and implementation. The Education Endowment Foundation (EEF) in particular
+has invested in developing, and, most importantly, evaluating a number of different strategies for enabling
+the use of evidence (Sharples et al., 2019[11]), including how schools use research as a result of engaging
+with the Research Schools Network (Gu et al., 2020[12]), and the scale up of research-informed practice in
+regards to the use of teaching assistants in schools (Maxwell et al., 2019[13]). Another example is the Early
+Intervention Foundation’s (EIF) work on “Supporting evidence-use in policy and practice” (Wadell, 2021[14]),
+which advocates a better understanding of the behavioural needs of users (Waddell and Sharples,
+2020[15]). Bache (2020[16]) has also written about the role of evidence in the work of the What Works Centre
+for Wellbeing.
+
+--- [PDF Page 152 / Book Page 150] ---
+
+A similar principle applies to expert scientific advisory committees as to WWCs. They provide science
+advice to parliaments and government departments. What is less clear is the rationale for developing this
+type of structure. There are other ways governments can access research evidence, such as through
+academic societies and government research analysts (Gough, 2020[17]).
+Ultimately, there are limits to what KBIs can achieve within their context, therefore making well-informed
+strategic decisions on how, and where, they place their effort and resources is important. KBIs should be
+more explicit about their analysis of the ecosystem in which they are intervening; what is needed to improve
+the functioning of this system; why they have chosen their specific strategy; and how their contribution fits
+into this wider picture. For questions to consider, see Box 7.2.
+
+Box 7.2. Questions about being evidence-informed in aims and needs analysis
+The following questions are worth considering by KBIs when establishing their aims and roles:
+
+
+Analysis of the evidence ecosystem: How has the KBI assessed the pre-existing
+relationships between the use of research and its production, and the ways in which it proposes
+to enhance this? The aims may be evident from a KBI’s name but is there justification of why a
+particular approach has been chosen over others?
+
+
+
+Specific aims: Which particular parts of the pre-existing evidence ecosystem does a KBI wish
+to change? What does it wish to change? What type of user issues and what types of research
+evidence and evidence claim does it focus on?
+
+
+
+Users and beneficiaries: Who will use and/or benefit from the KBI’s work?
+
+
+
+KBI development over time: What changes are there in the focus of their work overtime and
+the reasons for this (including changes in the wider evidence ecosystem or their position within
+it)?
+
+
+
+Collaboration within the evidence ecosystem: What interactions are there with the other
+actors (including overlaps with the aims and work of other KBIs and collaboration with them)?
+
+Integrating evidence use in wider systems and contexts
+A key consideration for KBIs as intermediary organisations is how they sit and work within wider systems
+and contexts. This includes not just the systems of evidence production, mobilisation and use they are part
+of but also the wider political and societal systems in which the benefits of evidence use will be realised.
+Evidence activities do not work in isolation. They sit within complex systems outside of research, with
+multiple actors and influences, each with their own priorities, processes, timescales and motivations
+e.g. policy, improvement, funding, accountability systems (Best and Holmes, 2010[7]). In this type of
+“systems” model, KBIs are effective when they integrate well with external organisations and the systems
+in which they operate. Put another way, you could, in theory, create an elegant evidence ecosystem with
+excellent, well-connected processes yet have little impact if those activities fail to achieve traction in the
+wider systems.
+The study on What Works Centres in the United Kingdom found that all centres face challenges in
+impacting these wider systems. This should not come as a surprise. Firstly, the systems that WWCs are
+trying to engage with – such as accountability, funding, and policy systems – are often predominant
+influences in the sector. For example, the high-stakes accountability system in English education has a
+huge influence on the decisions schools make, meaning that the Education Endowment Foundation needs
+to find a way of complementing, rather than competing with, these accountability processes.
+
+--- [PDF Page 153 / Book Page 151] ---
+
+Secondly, the wider systems are not always structured in a way that is receptive to research evidence, and
+cannot naturally accommodate the work of the WWC. For example, the relatively short timeframes for
+government policy making are not necessarily commensurate with the longer timeframes of designing,
+conducting, synthesising, interpreting and using research.
+A third, related, challenge for WWCs is that they typically operate in sectors with historically weak track
+records and cultures of engaging with research. Indeed, many WWCs see an important aspect of their
+work as encouraging a long-term culture shift towards research engagement and use as part
+of evidence-informed policy and practice. This challenge is even greater when the remit of a WWC includes
+changing perspectives and understandings on the focal issue itself, such as is the case for the What Works
+Centre for Wellbeing.
+The challenges WWCs face is typical of most KBIs, research organisations, universities and funding bodies
+that are trying to influence wider decision making. In this respect, there are potential advantages to having
+a single organisation such as a What Works Centre acting as a focal point for evidence-informed decision
+making. By operating in the synthesis, communication and engagement domains of the evidence
+ecosystem (see Figure 7.1), WWCs process and coordinate a large, and, potentially, overwhelming, body
+of evidence. Consistent standards, processes and styles can help develop a brand where users expect a
+certain type of output, leading to increased confidence in the results.
+However, if KBIs are working predominantly in only one element of the evidence ecosystem, how do they
+best go about influencing the wider, non-evidence systems? Where and how does that wider coordination
+take place?
+In this context, the natural progression we observed for WWCs to take on a broader remit – such as
+supporting more active uptake of evidence – is a logical response in providing more coordination to the
+system by doing more functions. An alternative strategy is to retain a tighter remit and operate in a system
+where there is more overarching coordination (e.g. the National Institute for Health and Care Excellence
+[NICE] in the healthcare system). In this scenario, KBIs may attempt to manage some overarching
+coordination, influence it or stay largely removed.
+Whatever the approach, KBIs need to be adept at identifying levers of influence, nimble in capitalising on
+opportunities as they arise, and persuasive in their approach. Doing so relies on being able to understand
+and influence the wider systems and contexts in which they operate. Some of this knowledge can be
+sophisticated without being explicit. Indeed, we noted that having an implicit awareness of, and influence
+on, wider systems at leadership level was an important strategic advantage for What Works Centres. At
+the same time, we saw few examples of attempts to explicitly analyse the evidence ecosystem and its
+relationship with the wider systems. It is notable that the model describing the What Works Network did
+not include a representation of the non-evidence systems (Cabinet Office, 2018[18]). See questions to
+consider in Box 7.3.
+
+Box 7.3. Questions about awareness of the wider systems
+The following questions are worth considering by KBIs in relation to their interactions with wider systems
+and contexts:
+
+
+Analysis of wider systems: Is there a receptive infrastructure for the work of KBIs? What is
+the relationship between a KBI and that infrastructure? What strategic choices are KBIs making
+to engage with the wider systems?
+
+--- [PDF Page 154 / Book Page 152] ---
+
+
+
+System-level coordination: Whose responsibility is it to create a receptive infrastructure for
+the work of the KBIs? Who coordinates the overall evidence ecosystem and the wider systems?
+
+
+
+Relationships: What relationships exist between different actors in the evidence system and
+wider systems (e.g. government)? What is the quality of those relationships and how do they
+impact on the work of the KBI?
+
+Evidence-informed in their methods and theory of change
+In addition to, and highly related, to the aims of the KBIs, are the methods and theories of change by which
+these aims will be achieved. If the aim is, for example, to synthesise and communicate evidence, KBIs will
+likely state the methods they use to achieve this. The study of WWCs (Gough, Maidment and Sharples,
+2018[5]) and another study of evidence web portals (Gough and White, 2018[19]) found considerable
+variation in the nature and extent of their description of KBI methods of work in terms of:
+
+
+The use of standardised specific methods, guidance that allows flexibility, or individual project
+specific methods.
+
+
+
+Explaining and justifying the choice of specific methods.
+
+
+
+The quality of reporting of those methods.
+
+KBIs are increasingly developing Theories of Change i.e. an evidence-based rationale that builds on causal
+analysis and explains how a set of interventions is expected to lead to a specific change. In doing so, they
+are explicit about how their methods will achieve their fundamental aims (Bache, 2020[16]; Gough, 2021[10];
+Wadell, 2021[14]). But there are still instances of KBIs assuming an approach will be effective and useful
+without being explicit about why.
+This is well illustrated by the communication of research findings, a default approach to supporting user
+engagement and decision making (Davies, Powell and Nutley, 2015[20]). But evidence from “research on
+research use” shows that the communication of research findings on its own is not associated with
+increased use of those findings (Langer, Tripney and Gough, 2016[4]). EEF has shown this through its
+multi-armed randomised controlled trial of different ways to communicate research on literacy to teachers,
+where no evidence was found that any of these strategies were effective on their own (Lord, Rabiasz and
+Styles, 2017[21]). Communicating evidence does not guarantee it will be used.
+There are behavioural factors to consider, such as the capacity (personal attributes), opportunity
+(environmental attributes) and motivations (psychological processes) that enable the use of evidence
+(Michie, van Stralen and West, 2011[22]). Research use activities can often be driven by a desire by
+researchers for their findings to have impact, rather than by user demand for research on particular topics
+and perspectives, or more nuanced interactions between evidence and policy (Boswell and Smith, 2018[23];
+Langer, Tripney and Gough, 2016[4]). This can be addressed by KBIs, for example in the previously
+mentioned EIF project that designed KM strategies based on an understanding of the behavioural needs
+of research users (Waddell and Sharples, 2020[15]).
+There are also strong examples of KBIs integrating user perspectives into their work. The National Institute
+for Health and Care Excellence (NICE), for example, has a stakeholder-driven process for identifying
+health and social care practice questions; commissioning systematic reviews to address these issues
+(including the cost/benefits of different actions); and then stakeholder-driven interpretation of this to make
+recommendations for practice. The process is supported by research on stakeholder engagement,
+synthesis of evidence, social values, and the importance of contextual information (Gough, 2021[10]; NICE,
+2020[24]).
+
+--- [PDF Page 155 / Book Page 153] ---
+
+Some KBI strategies put an emphasis on building relationships between researchers and potential users
+of research, as in, for example, the secondment of researchers to government departments. However,
+“research on research use” indicates that such relationships are, again, a necessary but not sufficient
+condition. Relationships can have an effect on research use as long as it is accompanied by efforts to
+increase the capacity, opportunity and motivation for the evidence to be used in practice (Langer, Tripney
+and Gough, 2016[4]).
+Similar questions about the nature of the brokerage activity can be asked of expert scientific advisory
+committees. There is not always clarity about how they identify and select experts to be members (including
+skills, topic areas, relationships with and perspectives shared with government). The functioning of the
+committees and how they make decisions is also unclear (Gough, 2020[17]; Geddes, 2020[25]). As the
+methods and processes are not explicit, theories of change about their outcomes (and how this would
+differ from other ways to provide science advice) lack clarity.
+In sum, KBIs could build further confidence in their value and impact by demonstrating that their ways of
+operating are based on evidence on research use. See questions to consider in Box 7.4.
+
+Box 7.4. Questions about methods and theories of change
+The following questions are worth considering by KBIs when establishing their methods and theories of
+change:
+
+
+Has there been overt consideration of:
+i)
+
+both the demand (‘pull’) as well as the production (‘push’) components of the evidence
+ecosystem
+
+ii) the engagement of the planned users and beneficiaries in the work and their role and power
+in such decision making
+iii) the capacity, opportunity and motivation of decision makers to use research evidence in
+their work
+iv) potential negative effects and risks from the KBI’s work and how will these be avoided or
+ameliorated
+v) sustainability of the aims, methods and theories of change and capacity of the KBI to
+achieve this over time?
+
+
+Theory of change: What specific methods are being used and what is the causal chain by
+which these are thought to achieve the interim and ultimate aims of the KBI?
+
+
+
+Fitness for purpose and effectiveness: What is the basis for believing that the methods and
+theory of change are appropriate and effective and that this is supported by “research on
+research use”?
+
+Credible standards for making justifiable evidence claims
+KBIs aim to increase the use of research evidence by decision makers. In communicating selected
+research evidence, they are making claims about the trustworthiness and relevance of research evidence,
+and so the criteria they use for making such evidence claims are key. The strength of evidence required
+to inform a decision may depend, of course, on the importance of the decision and the opportunity costs
+of making a decision one way or another. A short-term response to an immediate crisis is not the same as
+a long-term policy strategy. Whatever the nature of the decision, there is the danger that if the evidence
+claims are based on weak or inconsistent standards (and so not justifiable), then the users of research
+
+--- [PDF Page 156 / Book Page 154] ---
+
+may be misled. Similar arguments can be made for the use of evidence provided by expert witnesses in
+courts (Ward, 2015[26]) and scientific advisory committees. The evidence claims need to be both justifiable
+from the research and relevant to the issue at hand.
+An evidence claim may not be justified for many reasons including:
+
+
+Representativeness of the evidence base: The claim is made on the basis of research findings that
+are not representative of all of the relevant and trustworthy studies on an issue.
+
+
+
+Quality and relevance: The research is not of sufficient quality (methodologically trustworthy) and
+relevance to be relied upon.
+
+
+
+Extent of evidence: The research is of sufficient quality and relevance but is not sufficient in extent
+to make the specific evidence claim (for e.g. trustworthy relevant evidence may be available on a
+large population but it might not be able to make justifiable claims about some sub-populations).
+
+
+
+Interpretation and application: The research findings are not being applied appropriately to the
+issue under consideration.
+
+When making a claim about what is known about a particular research question, it is, of course, important
+to consider all of the relevant evidence rather than individual studies that may not be representative of all
+of the relevant and trustworthy evidence. The appraisal of evidence, therefore, requires an assessment of:
+(i) the ways that the evidence has been identified and brought together; (ii) the quality and relevance of
+the studies included in such reviews including ethical issues; (iii) and the nature and extent of the totality
+of all of the relevant evidence (Gough, 2021[10]).
+There can be dangers in only focusing on individual studies on their own. An example is the pressure that
+academics can be under for their research to have an impact. Their individual studies may be of high
+quality, but a decision maker would be better informed by knowing and being able to take account of all
+relevant justifiable research claims.
+One way to examine the evidence standards of KBIs is to examine the evidence claims in their summaries
+of “evidence-informed” policy and practice interventions, as in evidence portals and toolkits. The
+recommendations of portals may have widespread effect. Results for the United States, for example, has
+produced an Economic Mobility Catalog, a web-based resource for local governments to identify strategies
+that are effective in driving upward social mobility. The ratings of “good enough” evidence are based on
+the ratings provided by a number of evidence portals that may have different evidence standards.2
+The previously mentioned small international survey of 15 national and international evidence portals found
+that only six of the portals used a formal (systematic) method of identifying and synthesising evidence
+informing users of research about effective interventions (Table 7.1). In some cases, there was variation
+in the standards used within a single centre.
+Two of the portals used expert reviews, where a researcher uses their knowledge of a field to provide an
+overview of what is known. Such reviews may be excellent but rely on the knowledge of the expert, which
+may not be systematic in the depth and detail that they are able to identify, evaluate and synthesise
+knowledge from different studies.
+Five of the portals in the survey based their evidence claims on the basis of one or two good studies. The
+danger with such an evidence standard is that it is not considering the whole knowledge base and there
+may be many other good quality studies that found an opposite result. It is interesting that most of the
+portals using the “1 or 2 good studies” criteria were focused on the effectiveness of intervention
+programmes (a specific combination of intervention components) rather than evidence of particular
+intervention strategies. Specific programmes are useful for indicating efficacy where there is intervention
+fidelity but may be less adaptable to contexts that differ significantly from those in which the programmes
+were developed. Table 7.1 shows that for the five portals providing evidence on programmes, just one or
+two studies were enough for the evidence portals to inform users that the programmes were effective.
+
+--- [PDF Page 157 / Book Page 155] ---
+
+The evidence standards of at least one of these portals have improved since the survey but it is clear that
+the standards of some KBIs for making an evidence claim of effectiveness can be quite low.
+
+Table 7.1. Web-based portals evidence standards for making evidence claims of efficacy
+Intervention programmes
+
+Intervention approaches
+
+Systematic review
+
+Basis for applying criteria
+
+0
+
+6
+
+‘Narrative/ expert reviews’
+
+0
+
+2
+
+Listing studies and results
+
+0
+
+2
+
+Vote counting
+
+0
+
+0
+
+One or two good studies*
+
+5
+
+0
+
+Total N=15
+
+5
+
+10
+
+Note:
+* Maybe plus no evidence of harms from the intervention.
+Source: Adapted from Gough, D. and H. White (2018[19]), Evidence Standards and Evidence Claims in Web Based Research Portals,
+https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3743.
+
+Specific standards will depend on the research questions being asked and the evidence claims made in
+response to these (Gough, 2021[10]). The nature of the evidence and the standards for making evidence
+claims vary between, for example, research evidence on the effectiveness of an intervention, and the
+evidence in support of a causal model by which it had its effect.
+The term “evidence standards” itself can be problematic in that it is used to describe a range of different
+approaches to supporting or appraising research to make justifiable evidence claims. These approaches
+can include (Gough, 2021[10]):
+
+
+Methods standards criteria (methodological criteria for making an evidence claim).
+
+
+
+Methods guidance (advice as to appropriate research methods to make justifiable evidence
+claims).
+
+
+
+Internal quality assurance (processes for ensuring that research methods are performed
+appropriately).
+
+
+
+Reporting standards (criteria for transparent reporting of the execution of research).
+
+
+
+Methods appraisal (procedures for checking and reporting on the relevance and trustworthiness of
+research studies and the basis of their evidence claims).
+
+
+
+Stage of development, appraisal of effectiveness, and implementation of interventions (the extent
+that a certain policy or practice intervention has research evidence to justify its effectiveness and
+use).
+
+All of these may be specified in extensive or minimal detail. There is, thus, much potential for confusion
+about what “evidence standards” means, as well as the bases or making judgements within each of these
+different types of standards. Clarity about these issues is an important area for KBIs to be clear, consistent
+and coherent.
+In sum, inadequate or inconsistent evidence standards could lead to audiences misinterpreting or placing
+too much trust in the findings and guidance presented. See questions to consider in Box 7.5.
+
+--- [PDF Page 158 / Book Page 156] ---
+
+Box 7.5. Questions about the use of credible evidence standards for making evidence claims
+The following questions are worth considering by KBIs when establishing and reporting their evidence
+standards:
+
+
+Transparency: Do the KBIs fully and explicitly report their specific methods and criteria for
+making evidence claims? Are these simple lists or are they manuals providing detailed
+explanations of the nature and basis of such judgements?
+
+
+
+Consistency: Are the KBIs consistent in their methods and criteria for making different
+evidence claims in different outputs?
+
+
+
+Clarity: Are KBIs clear about the nature of the evidence claim and how it is relevant and fits the
+needs of those to whom the claim is being communicated?
+
+Evaluation of KBIs and contributing to the “use of research” knowledge base
+For KBIs to be evidence-informed, it would be expected that they evaluate their progress in meeting their
+aims and modify their activity in response to their evaluations (as per Section 2 on the KBIs’ theories of
+change). Such evaluation would also allow KBIs to provide research findings to contribute to the scientific
+knowledge of “research on research use”.
+KBIs are naturally focused on the activities that they have been funded for. There may be few resources
+available for them to commission external independent or internal self-evaluations. There are, of course,
+exceptions, with some KBIs formally evaluating most of their activities.
+Where evaluation does take place, a distinction can be made between monitoring work activity, measuring
+the achievement of desired outcomes (KBI goals), and the processes by which these are achieved.
+Monitoring activity can be relatively straightforward, such as recording numbers of meetings or products
+produced. For measuring the extent of desired outcomes, a distinction can be made between interim and
+final outcome measures. Interim measures can be testing stages in a hypothesised theory of change and
+the processes involved.
+Assessing detailed theories of change are rare and interim measures of assessing change can be very
+simplistic, such as web analytics of visits to KBIs web pages. These may indicate that users at least have
+had some contact with KBIs’ resources, though this does not necessarily mean that this has then informed
+decision making, policy and practice. “Use of research” means that research evidence was considered
+though it may not always be easily apparent what role the research had in the decision-making process.
+The case of expert scientific advisory committees for government is relevant as there do not seem to be
+clear methods by which they are evaluated. There has been a focus on how government uses advice to
+respond to health emergencies such as the Bovine spongiform encephalopathy (BSE) crisis (Hinchliffe,
+2001[27]) and now the COVID-19 pandemic, with the latter subject to an inquiry by the UK parliament’s
+Science and Technology Committee.3 There is also research on the use of evidence by legislatures
+(Geddes, 2020[25]; Kenny et al., 2017[28]).
+Final outcome measures are often weakly specified. If the overall aim of a KBI is to increase the use of
+evidence, then any data showing use has increased may be a measure of success (though in such “natural
+experiments” the data is correlational and one cannot be sure what the cause of the changes are). This
+does not necessarily mean that the research has been used wisely or appropriately – just that it has been
+used. Even where the research has been wisely used, it may have led a decision maker to stop a planned
+action and so the influence of the KBI may be difficult to measure.
+
+--- [PDF Page 159 / Book Page 157] ---
+
+A more detailed way of appraising outcomes is to assess the effects on the intended beneficiaries of a
+KBI’s work. KBIs occasionally do measure changes in achievements of their ultimate beneficiaries
+(e.g. pupil attainment), although this is rare (for e.g. Sibieta and Sianesi (2019[29])). For expert scientific
+advisory committees, final outcome measures could be based on whether the advice was acted upon and
+by the nature of the outcomes ultimately achieved.
+In sum, external or self-evaluation is important in determining whether and to what extent KBIs are meeting
+their objectives, and how they or others can better meet such objectives in the future. See questions to
+consider in Box 7.6.
+
+Box 7.6. Questions about evaluation of KBI’s work and contribution to the knowledge base
+The following questions are worth considering by KBIs in terms of being evidence-informed in evaluating
+their work:
+
+
+Rigorous evaluation: Are KBIs indicating how they are meeting their aims (and other positive
+and negative effects) through the planned interim and final outcomes and appraisal of their
+theory of change?
+
+
+
+Strategic development: How do KBIs use their evaluations to adjust and develop their work
+over time?
+
+
+
+Evidence of effect: Are KBIs providing justifiable and relevant evidence claims about their
+positive contribution to the users and/or planned ultimate beneficiaries of their work?
+
+
+
+Evidence standards: Is there evidence for making any such claims (including the methods
+used to assess change and the use of subjective or objective measures of change)?
+
+
+
+Research on research use: Is KBIs’ work contributing to the knowledge base on “research on
+research use”?
+
+Discussion, implications and recommendations
+There are relatively few studies of “research on research use” despite it being a key area of social science
+with major practical implications. The use of evidence is an issue for all sciences and its study is the one
+area of social science that applies to all other sciences.
+This chapter contributes to the debate on how knowledge brokerage intermediaries (KBIs) can advance
+the study and practice of using research evidence by using evidence in their own decision making. It has
+provided some examples of how KBIs have become more explicit about being evidence-informed,
+particularly in regards to their aims, beneficiaries and methods to enable the uptake of research evidence.
+A number of recommendations are outlined in Box 7.7 below.
+It is useful to consider why KBIs are not always evidence-informed in their work. One reason may be that
+the funders of new initiatives and the initiatives themselves are focused on action. The initiatives wish the
+tasks they undertake to progress, and they may be evaluated and obtain further funding on the basis of
+such activity, products and outputs. When KBIs are initiated, particularly when the focus is on providing
+access to research evidence, there may be an expectation of immediate evidence products. Evidence
+standards may then continue to develop organically rather than systematically and not be applied
+consistently.
+The priorities of funders and initiatives is often on actions to increase research use rather than seeing the
+actions themselves as something that needs to be evidence-informed. There has only been limited
+research on KBIs. The Economic and Social Research Council (ESRC) in the United Kingdom, for
+
+--- [PDF Page 160 / Book Page 158] ---
+
+example, partly funds some What Works Centres (WWCs), as well as studies of their work, but such
+studies tend to be administrative appraisals and development work rather than academic studies of the
+nature and effectiveness of knowledge brokerage (ESRC, 2016[30]).
+A second possible reason is that even though KBIs should be major players within evidence ecosystems,
+they may not fully take on board an ecosystem perspective. It seems common sense that research needs
+to be communicated to decision makers in order for it to be used and that the role of KBIs is to provide
+access to research evidence. Yet, it is the obviousness of this process that hinders reflections on the
+limitations of simply “pushing” research to users.
+Similarly, developing relationships between researchers and decision makers, and seconding researchers
+in policy departments can seem indisputable. Yet, “research on research use” indicates that such
+mechanisms in themselves may not be sufficient. What is needed is a holistic approach to examining the
+evidence ecosystem and using evidence in judging how a KBI can most effectively contribute.
+Neglecting “research on research use” jeopardises KBI credibility and effectiveness. The analysis and
+recommendations in this chapter are intended to help increase the coherence of the planning and
+evaluation of KBIs and further develop knowledge brokerage as a field. But we must also acknowledge
+that political issues within the wider ecosystem, within which evidence ecosystems exist, may, of course,
+have a larger impact than the rational arguments of being evidence-informed.
+
+Box 7.7. Recommendations
+Recommendations for KBIs:
+
+
+Examine the functioning of the existing evidence ecosystem and make informed decisions as
+to where best to intervene and how. Clarify the needs analyses and opportunity costs of different
+possible strategic choices.
+
+
+
+Undertake an explicit analysis of the wider systems and contexts in which the KBI sits, to inform
+Theories of Change and engagement strategies. Consider whether there is a receptive
+infrastructure for the work of the KBI and where responsibility lies to coordinate the evidence
+ecosystem. Seek to actively influence and shape the wider systems and contexts to build
+readiness and receptivity for the work of the KBI.
+
+
+
+Be explicit in specifying how the methods being used will achieve the interim and overall aims
+of the KBI e.g. theories of change. Outline the evidential basis for how the methods are
+appropriate and effective, and supported by “research on research use”.
+
+
+
+Be evidence-informed in the use of credible evidence standards for making evidence claims in
+terms of:
+
+
+
+o
+
+Transparency: Explicitly report specific methods and criteria for making evidence claims.
+
+o
+
+Consistency: Be consistent in the methods and criteria for making different evidence claims
+in different outputs.
+
+o
+
+Clarity: Be clear about the nature of the evidence claim and how it is relevant and fits the
+needs of those to whom the claim is being communicated.
+
+Use external and self-evaluation to determine whether, and to what extent, KBIs are meeting
+their objectives, and how they or others can better meet such objectives in the future.
+
+Recommendations for policy makers
+
+
+Recognise that evidence use and the work of KBIs cannot be considered in isolation but,
+instead, sits within the broader context in which schools operate. Consider how the wider
+
+--- [PDF Page 161 / Book Page 159] ---
+
+systems in education – accountability, school improvement, teacher training etc. – can enhance
+effective evidence use.
+
+
+Promote evidence use as a clear priority throughout the system to encourage alignment and
+consistent expectations at different levels of the system e.g. leadership, regional policy.
+
+
+
+Actively encourage and support the development of coordinated, trusted and fluid interactions
+and relationships between KBIs and other actors in the evidence system e.g. schools, policy
+makers.
+
+
+
+Consider where the responsibility lies to coordinate the overall evidence system, and provide
+active coordination and support if needed.
+
+Recommendations for funders
+
+
+Work with policy makers and KBIs to consider the overall evidence ecosystem and where
+funding may be best directed to address weaknesses in that system.
+
+
+
+Encourage KBIs to establish clearly defined theories of change as part of funding agreements,
+specifying how the methods being used will achieve the aims.
+
+
+
+Recognise that short-term funding and budget inflexibility limit the capacity of KBIs to be
+strategic in the medium- and longer-term – where possible aim for longer cycles of funding and
+upfront endowments that encourage strategic flexibility.
+
+
+
+Fund monitoring and evaluation of KBIs’ activities and outputs, as well as delivering services.
+
+References
+Bache, I. (2020), Evidence, Policy and Wellbeing. Wellbeing in Politics and Policy, Palgrave
+Pivot, London.
+
+[16]
+
+Best, A. and B. Holmes (2010), “Systems thinking, knowledge and action: towards better
+1227models and methods”, Evidence & Policy, Vol. 6/2, pp. 145-59,
+https://doi.org/10.1332/174426410X502284.
+
+[7]
+
+Boaz, A. et al. (2019), What Works Now? Evidence-Informed Policy and Practice, Policy Press,
+Bristol.
+
+[1]
+
+Boswell, C. and K. Smith (2018), “Rethinking policy ‘impact’: Four models of research-policy
+relations”, Palgrave Communications, Vol. 4/UNSP 20, pp. 1-11,
+https://doi.org/10.1057/s41599-017-0042-z.
+
+[23]
+
+Cabinet Office (2018), “The What Works Network: Five years on”,
+https://www.gov.uk/government/publications/the-what-works-network-five-years-on.
+
+[18]
+
+Cooper, A. (2014), “Knowledge mobilisation in education across Canada: A cross-case analysis
+of 44 research brokering organisations in Canada”, Evidence & Policy, Vol. 10/1, pp. 29-59,
+https://doi.org/10.1332/174426413X662806.
+
+[3]
+
+Davies, H., A. Powell and S. Nutley (2015), “Mobilising knowledge to improve UK health care:
+Learning from other countries and other sectors - A multimethod mapping study”, Health and
+Social Care Delivery Research, Vol. 3/27, https://doi.org/10.3310/hsdr03270.
+
+[20]
+
+--- [PDF Page 162 / Book Page 160] ---
+
+ESRC (2016), What Works Strategic Review: Report of Stakeholder Survey and Documentary
+Analysis, Ecocnomic and Social Research Council,
+https://esrc.ukri.org/files/collaboration/what-works-strategic-review-report/.
+
+[30]
+
+Geddes, M. (2020), “The webs of belief around ‘evidence’ in legislatures: The case of select
+committees in the UK House of Commons”, Public Administration, Vol. 99/1, pp. 40-54,
+https://doi.org/10.1111/padm.12687.
+
+[25]
+
+Gough, D. (2021), “Appraising evidence statements”, Review of Research in Education,
+https://doi.org/10.3102/0091732X20985072.
+
+[10]
+
+Gough, D. (2020), “Written evidence submitted to Science and Technology Committee
+(Commons) inquiry: UK Science, Research and Technology Capability and Influence in
+Global Health Disease Outbreaks”, Submission C190097,
+https://committees.parliament.uk/writtenevidence/9567/pdf/.
+
+[17]
+
+Gough, D., C. Maidment and J. Sharples (2021), “Enabling knowledge brokerage intermediaries
+to be evidence-informed”, Evidence & Policy,
+https://doi.org/10.1332/174426421X16353477842207.
+
+[31]
+
+Gough, D., C. Maidment and J. Sharples (2018), UK What Works Centres: Aims, Methods and
+Contexts, EPPI-Centre, University College London, London,
+https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3731.
+
+[5]
+
+Gough, D., J. Thomas and S. Oliver (2019), “Clarifying differences between reviews within
+evidence ecosystems”, Systematic Reviews, Vol. 8/1, p. 170, https://doi.org/10.1186/s13643019-1089-2.
+
+[8]
+
+Gough, D. et al. (2011), Evidence Informed Policy in Education in Europe: EIPEE Final Project
+Report, EPPI-Centre, Social Science Research Unit, Institute of Education, University of
+London, London,
+http://www.eippee.eu/cms/Portals/41/EIPEE%20final%20project%20report_250711.pdf?ver=
+2011-11-17-135453-957.
+
+[9]
+
+Gough, D. and H. White (2018), Evidence Standards and Evidence Claims in Web Based
+Research Portals, Centre for Homelessness Impact, London,
+https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3743.
+
+[19]
+
+Gu, Q. et al. (2020), The Research Schools Network: Supporting Schools to Develop EvidenceInformed Practice, Education Endowment Foundation, London,
+https://educationendowmentfoundation.org.uk/public/files/RS_Evaluation.pdf.
+
+[12]
+
+Hinchliffe, S. (2001), “Indeterminacy in‐decisions – Science, policy and politics in the BSE
+(Bovine spongiform Encephalopathy) crisis”, Transactions of the Institute of British
+Geographers, Vol. 26/2, pp. 182-204, https://www.jstor.org/stable/3650667.
+
+[27]
+
+Kenny, C. et al. (2017), The Role of Research in the UK Parliament, Volume One, Houses of
+Parliament, London, https://www.parliament.uk/globalassets/documents/post/The-Role-ofResearch-in-the-UK-Parliament.pdf.
+
+[28]
+
+Langer, L., J. Tripney and D. Gough (2016), The Science of Using Science: Researching the
+Use of Research Evidence in Decision-Making, EPPI-Centre, Social Science Research Unit,
+UCL Institute of Education, University College London,
+https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3504.
+
+[4]
+
+--- [PDF Page 163 / Book Page 161] ---
+
+Lord, P., A. Rabiasz and B. Styles (2017), Evaluation of the ‘Literacy Octopus’ Dissemination
+Trial, https://www.nfer.ac.uk/media/1689/eefa02.pdf.
+
+[21]
+
+Maxwell, B. et al. (2019), Teaching Assistants Regional Scale-up Campaigns: Lessons Learned,
+Education Endowment Foundation, London,
+https://educationendowmentfoundation.org.uk/public/files/Campaigns/TA_scale_up_lessons_l
+earned.pdf.
+
+[13]
+
+Michie, S., M. van Stralen and R. West (2011), “The behaviour change wheel: a new method for
+characterising and designing behaviour change interventions”, Implementation Science,
+Vol. 6/1, p. 42, https://doi.org/10.1186/1748-5908-6-42.
+
+[22]
+
+NICE (2020), Our Principles: The Principles that Guide the Development of NICE Guidance and
+Standards, National Institute for Health and Care Excellence,
+https://www.nice.org.uk/about/who-we-are/our-principles.
+
+[24]
+
+Powell, A., H. Davies and S. Nutley (2016), “Missing in action? The role of the knowledge
+mobilisation literature in developing knowledge mobilisation practices”, Evidence & Policy,
+Vol. 13/2, pp. 201-223, https://doi.org/10.1332/174426416X1453467.
+
+[6]
+
+Sharples, J. et al. (2019), Putting Evidence to Work: A School’s Guide to Implementation.
+Guidance Report. 2nd Edition., Educational Endowment Foundation, London,
+https://educationendowmentfoundation.org.uk/education-evidence/guidancereports/implementation.
+
+[11]
+
+Sibieta, L. and B. Sianesi (2019), Impact Evaluation of the South West Yorkshire Teaching
+Assistants Scaleup Campaign, Education Endowment Foundation, London,
+https://educationendowmentfoundation.org.uk/public/files/Campaigns/TA_scale_up_lessons_l
+earned.pdf.
+
+[29]
+
+Waddell, S. and J. Sharples (2020), Developing a Behavioural Approach to Knowledge
+Mobilisation: Reflections for the What Works Network, Early Intervention Foundation, London,
+https://www.eif.org.uk/report/developing-a-behavioural-approach-to-knowledge-mobilisationreflections-for-the-what-works-network.
+
+[15]
+
+Wadell, S. (2021), Supporting Evidence-use in Policy and Practice: Reflections for the What
+Works Network, Early Intervention Foundation, London,
+https://www.eif.org.uk/report/supporting-evidence-use-in-policy-and-practice-reflections-forthe-what-works-network.
+
+[14]
+
+Ward, T. (2015), “A new and more rigorous approach’ to expert evidence in England and
+Wales?”, International Journal of Evidence & Proof, Vol. 19/4, pp. 228-245,
+https://doi.org/10.1177/1365712715591471.
+
+[26]
+
+Weiss, C. (1979), “The many meanings of research utilization”, Public Administration Review,
+Vol. 39/5, pp. 426–31, https://doi.org/10.2307/3109916.
+
+[2]
+
+--- [PDF Page 164 / Book Page 162] ---
+
+Notes
+1 This chapter is adapted from an open-access paper published in Evidence & Policy (Gough, Maidment
+
+and Sharples, 2021[31]).
+2
+
+See Results for America, About the Economic Mobility Catalog, https://catalog.results4america.org/abo
+ut.
+3
+
+For more information see https://committees.parliament.uk/work/91/uk-science-research-andtechnology-capability-and-influence-in-global-disease-outbreaks/publications/

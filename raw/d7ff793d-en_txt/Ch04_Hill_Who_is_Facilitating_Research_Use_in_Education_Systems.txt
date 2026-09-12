@@ -1,0 +1,2221 @@
+================================================================================
+Chapter: Who is facilitating research use in education systems?
+Author(s): Jordan Hill
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part II: Actors and mechanisms facilitating research use in policy and practice
+Book Pages: pp. 73–102
+PDF Pages: pp. 75–104 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 75 / Book Page 73] ---
+
+Part II
+Actors and mechanisms
+facilitating research use in
+policy and practice
+
+--- [PDF Page 76 / Book Page 74] ---
+
+4 Who is facilitating research use in
+education systems?
+
+Jordan Hill, OECD
+
+This chapter describes which actors are active in facilitating the use of
+research evidence in the education sector at the organisational and
+individual levels. It develops key dimensions for assessing interactions
+between ministries of education and relevant actors in order to advance
+discussion on strengthening the use of research evidence. It also analyses
+practitioner involvement in research production and the provision of
+incentives. Finally, the chapter looks at the nature of policy makers’
+relationships. The discussion is based on a review of the available literature
+and analysis of the OECD’s Strengthening the Impact of Education
+Research policy survey results.
+
+--- [PDF Page 77 / Book Page 75] ---
+
+Introduction
+Over the past decade, there has been increasing attention on actors who facilitate research use in
+education systems and the interactions between them. This is the result of a conceptual shift towards
+relationships and systems thinking, as put forward by Best and Holmes (2010[1]). A systems approach calls
+for a better understanding of the interactions that govern the production, dissemination and diffusion of
+knowledge between actors. This chapter aims to understand actors and relationships at the organisational
+and individual level, which are crucial for the effective use of research evidence.
+Interpersonal relationships, whether they are built through formal organisational connections or informal
+interactions, are key to shaping research use in policy and practice (Levin, 2011[2]; Ion and Iucu, 2014[3];
+Wiggins et al., 2019[4]). Catalysing interpersonal relationships supports the efficient mobilisation of
+resources, both human and financial (Ward, House and Hamer, 2009[5]). Interpersonal relationships are
+also crucial for facilitating mutual understanding of the different knowledge needs of policy makers,
+practitioners, researchers and other actors (Burns and Köster, 2016[6]). These two features of relationships,
+among others, have long been held as a way to enhance the impact of education research (Mitton et al.,
+2007[7]). Rickinson and colleagues (2020[8]) summarise the reasons why relationships between actors who
+can facilitate the use of research still require a larger amount of attention from scholars, policy makers and
+practitioners alike:
+
+
+They result in the development of interpersonal skills, making it possible to explore deeper
+meanings of research evidence.
+
+
+
+They are vehicles for enhanced communication and collaboration to give the breadth of voices
+needed to use evidence.
+
+
+
+Relationships, when they are built on mutual trust, allow the consideration of appropriate
+instructional, structural or policy changes.
+
+
+
+Connections between individuals can foster stimulating debates around evidence leading to
+sustained changes in practice.
+
+The increasing recognition of the importance of relationships runs in parallel with an increasing number of
+initiatives focused on building these connections within education systems to improve evidence use (Coe
+and Kime, 2019[9]). Among these initiatives, establishing networks has become a popular tool for building
+relationships at both individual and organisational levels (Best and Holmes, 2010[1]). However, networks
+do not automatically facilitate innovation and research mobilisation (Révai, 2020[10]). For such initiatives to
+be effective, a deeper understanding of the nature, quality and processes of interactions is necessary.
+With this in mind, this chapter focuses on two central questions:
+
+
+Who are the actors in this landscape and to what extent do they facilitate the use of education
+research in policy and practice?
+
+
+
+What do the relationships between these actors look like and how do they connect research
+production and use?
+
+The chapter addresses these questions through international data collected in the Strengthening the
+Impact of Education Research policy survey and follow-up interviews conducted with a number of
+respondent countries.
+The chapter is structured in two parts. The first part looks at different organisational-level actors and their
+perceived levels of research mobilisation activity. It then assesses the relevance of ministry relationships.
+The second part looks at the nature of individual actors such as practitioners, policy makers and
+researchers. Since the survey only gathered data on how policy makers use research, an assessment of
+the quality of individual relationships is offered from the perspective of policy makers.
+
+--- [PDF Page 78 / Book Page 76] ---
+
+Key dimensions
+This section reviews a number of dimensions to identify the scope of the analysis of actors and their
+relationships. Actors do not sit within a vacuum and any analysis must take into account the wider context
+of structures, incentives and resources that facilitate or hinder research use.
+The key dimensions for this chapter are explained below, and have been summarised in Table 4.1. The
+term “activeness” was purposefully kept open in the survey to allow for richer data, and defined only
+through a five-point Likert scale ranging from “not active at all” to “very active”.
+
+Table 4.1. Key dimensions summary
+Key dimensions
+
+Sub-dimensions/Categories
+
+Indicators
+
+System level
+Context (can be at
+organisation or individual
+level)
+
+Structures, priorities and resources of organisations
+
+Presence of educational research strategy or other
+mechanisms/incentives such as salary supplement for
+a teacher to be involved in research production
+
+Actor relevance for facilitating
+the use of research
+
+Policy organisations
+
+Activeness of ministries of education, government
+funding agencies and policy networks in facilitating
+research use
+
+Research organisations
+
+Activeness of universities, public research
+organisations and academic networks, in facilitating
+research use
+
+Practice-oriented organisations
+
+Activeness of teacher unions, school networks, other
+professional groups, teacher education institutions
+and professional development providers in facilitating
+research use
+
+Intermediary (brokerage) organisations
+
+Activeness of university-school partnerships,
+education consulting firms, official brokerage agencies
+and think tanks in facilitating research use
+
+Other system stakeholders
+
+Activeness of media outlets and businesses in
+facilitating research use
+
+Size of the ministry’s network
+
+Number of actors regularly solicited
+
+“Strength” of connections between the ministry and
+actors
+
+Frequency and intensity of interactions
+
+Relevance of ministry relationships for research use in
+policy
+
+Strength of ministry connection to actors seen as
+active in facilitating research use in policy
+
+Relevance of ministry relationship for feedback loop
+
+Strength of ministry connection to actors seen as
+active in facilitating research across policy and
+practice contexts
+
+Organisational level
+
+Relationships of ministry
+
+Individual level
+Actors
+
+Individual relationships
+
+Individuals with a research background
+
+Embedded researcher, research fellow, research
+champion, research advisor, government researchers,
+academic researchers, independent researchers
+
+Individuals in the practice context
+
+Teachers, school leaders, teacher educators
+
+Individuals in the policy context
+
+Policy makers
+
+An individual culture and mindset which supports
+relationships for research use
+
+High levels of trust, respect and shared understanding
+between individuals
+
+Presence of collaborative activities between
+individuals
+
+How policy makers access, evaluate and use
+education research during the policy process
+
+--- [PDF Page 79 / Book Page 77] ---
+
+Organisations
+The primary stakeholder groups most relevant for research mobilisation are policy organisations, research
+organisations and practitioner organisations (OECD, 2007[11]). Yet, evidence shows that similar types of
+organisations can have very different knowledge mobilisation roles in different systems (Powell, Davies
+and Nutley, 2018[12]). Understanding which organisational actors are key “evidence intermediaries” that
+bridge research use with policy and practice in individual systems is crucial. Recent research has provided
+a framework for understanding the variety of organisations that fulfil this intermediary role in different
+contexts. They are broadly defined as either research-producing or non-research producing intermediaries
+(Global Commission on Evidence to Address Societal Challenges, 2022 [13]).
+
+Organisational relationships
+The survey asked ministries about their relationships with other organisations. Taking a systems approach
+necessitates consideration of both the variety of connections and flows of evidence use between
+organisational actors (Best and Holmes, 2010[1]). In high-quality organisational relationships, information,
+materials, resources, services, and social support should flow reciprocally between policy, practice and
+research (OECD, 2007[11]). Since the survey data contains only the ministry perspective, the reciprocity of
+organisational relationships and direction of information flows remains an open question. However, the
+survey data does contain information regarding the size of the ministry’s network and the strength of
+relationships between the ministries of education and different actors in the policy, practice and research
+contexts.
+Taking into account the size and strength of ministry relationships, the relevance of these relationships for
+facilitating research use must be assessed. Speaking from the perspective of healthcare policy, Brown and
+colleagues (2018[14]) argue that evidence-informed policy occurs through relationships between policy and
+research organisations. While this is true, it must be recognised that policy and practice are deeply
+interdependent and interconnected. While it is essential to map the ministries’ relationships with
+organisations working to facilitate research use policy, it is also crucial to map relationships with those
+working in multiple contexts.
+
+Individuals
+The survey asked a number of questions about specific individuals relevant to research production and
+use within systems. These included teachers, school leaders, policy makers, embedded researchers,
+research fellows and advisors. As discussed in Chapter 1, policy makers in the context of the survey refer
+to the highest level of decision making in education (ministry/department of education), with some variation
+in survey respondents’ interpretation of the term. Those with a research background embedded in different
+contexts (e.g. policy or practice) are particularly relevant for knowledge mobilisation (Gough, Maidment
+and Sharples, 2021[15]). The distinction between having a research background and being a researcher is
+an important one as those who facilitate the use of research can occupy various roles in an organisation,
+and do not have to be formal researchers (Bednarek et al., 2018[16]). In that sense, they are characterised
+by their skills more than their title.
+
+Individuals’ relationships
+At the individual level, scholars have defined relationships in the education context as “the interpersonal
+processes and connections that are required to thoughtfully engage with and implement appropriate
+research evidence” (Rickinson et al., 2020, p. 14[8]). Researchers have tried to understand and categorise
+individual relationships in a knowledge mobilisation context and often regard the culture and mindset of
+research use as connected to productive individual relationships (OECD, 2007[11]; Oliver et al., 2014[17]).
+This culture and mindset necessitate high levels of trust, respect, and mutual understanding between
+
+--- [PDF Page 80 / Book Page 78] ---
+
+individuals. In addition to culture and mindset, Rickinson and colleagues (2020[8]) argue that the right skills
+and knowledge are needed to facilitate the collaborative relationships between practitioners around
+research use. When deploying their framework for a review of evidence use in Australian schools (see also
+Chapter 9), one of the most common forms of research use was discussing best practices with colleagues
+(Rickinson et al., 2021[18]). This also shows how tightly intertwined intrinsic factors such as skills, culture
+and mindset are with relationships for research use.
+In addition to these intrinsic aspects of individual relationships, the presence of collaborative activities must
+also be taken into account. Here, Gough and colleagues (2011[19]) provide three key activities related to
+research use, based on an analysis of 269 different initiatives in 30 European countries. These activities
+are: Use of evidence for social influence and/ or persuasion; seeking evidence from others and/or
+interpreting evidence with external input and; facilitating interaction and/or collaboration with others.
+
+Organisational actors
+One of the central questions of this chapter asks who the actors are in the landscape and to what extent
+they facilitate the systematic use of education research in policy and practice. In the survey, respondent
+systems were asked which actors were active in their systems on a scale from 1 to 5: ‘’Not active at all’’,
+“slightly active”, “moderately active”, “active” and “very active.’’ They were asked to provide this rating for
+each actor in the areas of research production, facilitating research use in policy and facilitating research
+use in practice. These last two will also be referred to as “research mobilisation” in this chapter.
+Education systems vary greatly in terms of the overall levels of activity of organisations. On one end of the
+scale, Finland perceived its organisations as, overall, very active, with an average of 4.94 (facilitating
+research use in policy), 4.59 (facilitating research use in practice) and 4.88 (research production). On the
+other end, Switzerland (Uri) perceived its organisations as only slightly active, with an average of 2.14
+(facilitating research use in policy) 1.86 (facilitating research use in practice) and 1.64 (research
+production). An overview of system-level profiles can be found in Annex 4.A. Most respondents to the
+survey did not report large differences within the system in terms of average levels of actor activity across
+the three areas.
+
+Number, type and distribution of organisations
+The survey data revealed that a large number of different organisations are seen as active to some degree
+in producing research and facilitating its use in policy and/ or in practice in each of the respondent systems.
+The maximum number of actors that systems could report as active in the survey was 17. The average
+number of actors reported as at least “slightly active” in systems was 14. Just under 1/3 of respondent
+systems reported that the maximum number of actors (17) were active to some degree in their system.
+Table 4.2 shows the number of systems reporting each actor to be very active or active (henceforth
+“active”) in each of the three areas.
+
+--- [PDF Page 81 / Book Page 79] ---
+
+Teacher education
+institutions
+
+Other public research
+organisations
+
+Academic or research
+networks
+
+Government funding
+agencies
+
+University - School
+networks
+
+Pro. devt.. providers for
+teachers
+
+Other professional groups
+
+Policy networks
+
+Education consulting firms
+
+Teacher unions
+
+Brokerage agencies
+
+Think tanks
+
+Media
+
+32
+
+32
+
+17
+
+20
+
+21
+
+18
+
+17
+
+12
+
+14
+
+11
+
+13
+
+13
+
+8
+
+10
+
+11
+
+Facilitating research use in
+PRACTICE
+
+24
+
+21
+
+21
+
+17
+
+13
+
+16
+
+14
+
+19
+
+13
+
+10
+
+9
+
+12
+
+10
+
+4
+
+2
+
+12
+
+7
+
+Producing education
+RESEARCH
+
+30
+
+26
+
+22
+
+20
+
+22
+
+21
+
+14
+
+13
+
+5
+
+10
+
+8
+
+4
+
+9
+
+6
+
+6
+
+7
+
+4
+
+Businesses
+
+Ministry of Education
+
+Facilitating research use in
+POLICY
+
+School networks
+
+Universities/ Faculties of
+Education
+
+Table 4.2. Number of systems reporting organisations to be active in facilitating the use of education research and in research production
+
+6
+
+Note: Data was collected at national and sub-national levels. School networks did not feature as an option when ministries were asked about facilitating research use in policy. This was building on the
+assumption that school networks are not focused on increasing the use of research in policy.
+“Pro. devt. providers for practitioners” refers to professional development providers for school practitioners.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+
+--- [PDF Page 82 / Book Page 80] ---
+
+Education ministries
+Overall, the data suggest that, while ministries often see a wide range of actors as active, certain actors
+are more relevant when it comes to facilitating the use of research. Universities, faculties of education and
+the ministries of education themselves were seen as the most active organisations in both the production
+and mobilisation of education research across the systems. Fourteen education systems viewed the
+education ministry as the most active overall in all three areas. In four of these systems – Belgium (French
+community), Switzerland (both Zurich and Uri) and Turkey – the ministry was reported as more active than
+any other organisation. In terms of facilitating research use in practice, ministries of education often
+perceive themselves to be as active in facilitating research use as, for example, teacher education
+institutions. This may reflect ministries’ investments in initiatives that facilitate research use in practice. In
+a small number of systems, the ministries of education perceived themselves to be the most active
+organisation in the production of research. This was the case in New Zealand and Belgium (French
+community).
+Some scholars maintain that departments and ministries of education remain quite weak in knowledge
+mobilisation (Levin, 2013[20]; Cooper, 2014[21]). However, the presence of “in-house” brokerage units that
+support particular ministries in research gathering, translation and communication efforts has been
+reported for some time (OECD, 2007[11]). This process has become more formalised over the past decade
+within certain national administrations through the establishment of strategic intelligence units in ministries
+of education (Gough et al., 2011[19]). The follow-up interviews confirmed the presence of these research
+and analysis units in several systems (see Box 4.1 for two examples).
+
+Box 4.1. Policy and analysis units in ministries of education
+Slovenia
+In July 2021, the Slovenian government established a new Quality and Analysis Unit within the
+Department of Educational Development and Quality of the Ministry for Education, Science and Sport.
+The aim of this unit is to improve the production, analysis and use of data and educational research in
+policy development and practice. In this way, it operates as an internal knowledge broker within the
+ministry through the commissioning of educational research and by participating in international studies.
+Key outputs are expected to be best practices in both policy and practice, and enhanced involvement
+in international surveys and studies. It also performs a matching function, gathering, translating and
+disseminating educational research and data in response to questions around education posed by
+policy makers across government. The unit is staffed by a mixture of professional civil servants and
+experienced researchers.
+
+Norway
+The Norwegian Ministry of Education and Research has a special unit: Section for Policy Analysis.
+The section has a specific mandate to provide educational research and data to support policy making
+in cooperation with all departments at the Ministry. The section works as a “knowledge broker” through
+dissemination of relevant research, and by offering analytical support to the departments and to the
+political and ministry leaders. Furthermore, the section works to develop and increase the evidence
+base for kindergartens, schools, higher education and research in Norway. To this end, it follows
+international research, facilitates strategic discussions in the field of educational research and works
+long term to strengthen educational research. It also coordinates research initiatives with the Norwegian
+Research Council, the Norwegian Directorate for Education and Training, the Norwegian Directorate
+
+--- [PDF Page 83 / Book Page 81] ---
+
+for Higher Education and Skills and the Knowledge Center for Education – the allocation of budget
+means to educational research being one of these tasks.
+Source: Follow-up interviews with respondent countries and data submitted in open questions of OECD Strengthening the Impact of
+Education Research policy survey.
+
+Brokerage agencies
+Official brokerage agencies (i.e. formal agencies with a specific mandated function to support the use of
+research in policy/practice) were reported as being active to some degree in 16 systems that responded
+to the survey. Two systems reported they exist but were not active (Austria and Switzerland [Zurich]). As
+more brokerage agencies have been established across OECD countries, they have taken a wide variety
+of forms, with different goals and means (OECD, 2007[11]) (see more on the changing landscape and
+challenges of brokerage agencies in Chapters 3 and 7).
+Although 16 systems reported that official brokerage agencies were active, only one system (England)
+reported this agency to be the most active organisation across research production and facilitation of use
+in policy and practice. As outlined in Chapters 5 and 7, England has a particularly well-developed
+brokerage system. In the other 15 systems, such formal agencies often received much lower overall
+activeness ratings and were very diverse in terms of the focus of their activities.
+It is possible to draw out two distinct activity profiles for these agencies. Some systems report them to be
+active in producing research and facilitating its use in both policy and practice. This was the case for six
+systems (Costa Rica, Chile, Finland, Norway, Portugal and UK [England]). While others see them as active
+in only one or two areas. This was the case in seven systems (Columbia, Denmark, Hungary, New Zealand,
+Sweden, Switzerland [Obwalden] and Turkey). New Zealand for example reported them as only active in
+facilitating the use of research in practice. Furthermore, five systems reported the presence of brokerage
+agencies but also reported that they were mostly or entirely inactive in producing research or facilitating its
+use (Austria, South Africa [Pretoria], Switzerland [Lucerne], Switzerland [Zurich], Switzerland [Appenzell
+Ausserrhoden]).
+The range of brokerage agencies reported in the open questions of the survey indicates that ministries do
+not perceive a standard model for these organisations (see Annex 4.B). Some have a more traditional set
+of educational stakeholders (e.g. teachers, educational establishments and decision makers in the
+promotion of learning and development of education). Others, such as the EDULOG initiative1 by the
+Belmiro de Azevedo Foundation in Portugal, have a much broader mandate to build bridges between
+education, politics and society as a whole. Many have a classical set of brokerage goals, such as the
+Knowledge Centre for Education,2 established by the Norwegian Ministry of Education and Research in
+2013, or the United Kingdom (UK) “What Works” Centres,3 both of which carry out and disseminate
+research syntheses to support the use of research by practitioners, researchers and policy makers.
+However, others also provide statistical services or access to data, for example Statistics Finland,4 which
+produces statistics for the entire education system from pre-primary to adult education. Some brokerage
+organisations reported in the survey are tasked with the creation of specific educational products, such as
+the Costa Rican National Dean Council (CONARE),5 which produces a bi-annual General State of the
+Education Report. Overall, the diversity in both levels of activity and organisational structures and goals
+indicates that there is the potential for a large amount of knowledge exchange and shared learning between
+the different models.
+
+--- [PDF Page 84 / Book Page 82] ---
+
+Networks
+Education consulting firms, policy networks, school networks and businesses were reported to be active
+in the fewest number of systems. Looking specifically at networks, they were seen as active to very
+different extents in education systems. In particular, policy networks and school networks are not active in
+a large number of systems (7 and 8, respectively). This is interesting given the huge investment that has
+gone into establishing networks across different research disciplines and sectors (e.g. EC (2013[22])). In
+the survey data, networks with direct involvement of academia, such as academic networks and universityschool partnerships, were seen as the most prevalent and active in both the production and mobilisation
+of education research. However, the specific areas of university-school partnership activity were quite
+unique to each system. Crucially, a diverse range of education systems (e.g. Colombia and Canada
+[Quebec]) report that university-school partnerships and networks are not active in facilitating research use
+in practice, which is not quite in line with their supposed and reported function (Farrell et al., 2021[23]).
+Some systems also reported that these networks are only active in research production, as is the case in
+Austria and the Slovak Republic. The varying levels of activeness of such mixed-profile partnerships and
+networks suggest that these are not yet consistently adopted as institutionalised forms of collaboration
+across OECD countries. This is in spite of their large potential in strengthening research use in education
+policy and practice (Farrell et al., 2021[23]).
+Looking specifically at school networks, research on teachers’ professional relationships has shown that
+those who have more frequent interactions with other teachers also report more use of research evidence
+in their schools (Brown, Daly and Liou, 2016[24]). However, school networks as a vehicle to connect
+evidence and innovation in education have only recently become more widely recognised worldwide
+(Révai, 2020[10]). These networks traditionally focus more on practice-based knowledge sharing, joint
+activities for students, teaching and learning-related collaboration and innovation. Harnessing research
+use is thus not a strong/specific focus of such networks, as illustrated by the example of the European
+eTwinning network.6 This may explain why school networks in particular are perceived as less active by
+the ministries in facilitating the use of education research.
+
+Relationship between research production and mobilisation
+As noted in the key dimensions section, evidence intermediaries may be active in both the production of
+education research and facilitating its use, or may only be active in the latter (i.e. in research mobilisation).
+This section will uncover those two kinds of evidence intermediaries in the survey data.
+There is a large variation in terms of the total number of organisations active across research production
+and mobilisation across systems (Figure 4.1). On one end of the scale, Chile, Finland and Spain, reported
+a large number of organisations to be active in all three areas. On the other end, some systems – including
+Switzerland (Uri and Lucerne), Belgium (French community), and South Africa – reported very few
+organisations that are active in producing or facilitating research use.
+In most of the systems, the number of actors reported as active was different for each of the three areas.
+Some systems reported very large differences in terms of the number of active organisations in each of
+the three areas. For example, New Zealand and England both reported significantly fewer actors to be
+active in producing research (New Zealand also reported far fewer to be active in facilitating research use
+in policy). Interestingly, research production is the area where most systems have the largest number of
+active organisations.
+When it comes to research-producing intermediaries, 13 systems reported one or more actors to be
+very active across research production and mobilisation in both policy and practice. This was most
+commonly ministries of education, universities and teacher education institutions. These organisations can
+therefore be seen as key intermediaries in many systems, often spanning the boundaries between
+
+--- [PDF Page 85 / Book Page 83] ---
+
+research, policy and practice. There are some interesting exceptions, such as the Czech Republic, where
+think tanks were the only actor seen as active in all three areas.
+While evidence intermediaries often produce and use research, there are also organisations that are only
+focused on research mobilisation and less, or not at all, on production. Overall, 12 systems reported at
+least one actor to be active in facilitating research use in both policy and practice but with low levels of
+research production. These systems most commonly reported education consulting firms and teacher
+unions in this way.
+Some actors were only active in facilitating research use in policy: 15 systems reported at least one such
+actor. These were most commonly media and think tanks but other professional groups, and interestingly,
+even school-university partnerships, were also mentioned. Even more systems (17) reported actors only
+active in facilitating research use in practice. The most commonly reported “practice intermediaries” were
+school networks and professional development providers.
+The data also suggest that the profiles of different organisations is highly system-specific. For example,
+public research organisations other than universities or teacher education institutions were only perceived
+to be active in producing research in some systems (e.g. Iceland and Latvia) while they were very active
+in producing and facilitating use in both policy and practice in others (e.g. Austria). An overall trend is that
+most organisations that were seen as active in facilitating the use of research in both policy and practice
+were generally also rated as active in the production of education research. In the future, it will be important
+to better understand how each of these organisations actually facilitates research use and if there are
+configurations that are more effective than others.
+
+Figure 4.1. Number of actors reported as active in systems
+Facilitating research use in policy
+
+Facilitating research use in practice
+
+Producing research
+
+18
+16
+14
+12
+
+10
+8
+6
+4
+2
+0
+
+Note: Data collected shows the number of actors reported as active in each of the three areas. An organisation is considered active when the
+ministry perceives them to be either ‘’active’’ or ‘’very active’’ in their response. Data collected at national and sub-national levels. “Appenzell A.”
+refers to the Swiss canton of Appenzell Ausserrhoden.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/junafy
+
+--- [PDF Page 86 / Book Page 84] ---
+
+Quality of ministries’ relationships
+No actor alone can foster the use of research; they must be connected to others to facilitate an exchange
+of ideas and the construction of knowledge. The policy survey looked at the relationship of ministries with
+various types of organisations. This section describes the breadth and relevance of these relationships.
+
+Number and strength of connections at the landscape level
+In the survey, ministries of education were asked how frequently and intensively they solicited different
+organisations to facilitate the use of research in policy; for example, by seeking ad-hoc advice on research,
+commissioning research based on policy needs or coordinating research production. The respondents
+were given six potential options ranging from ‘’never’’ to ‘’very frequently”.
+While there is some variation in the number of organisations ministries solicit to facilitate research use in
+policy, over half of the systems indicated they have connections to at least ten types of organisations. On
+the lower end of the scale, Iceland, Switzerland (Uri) Slovenia and Chile all indicated five or fewer, with a
+wide range of relationship intensities. Figure 4.2 does not indicate any particular relationship between
+quantity and quality. Some countries, such as Finland, have strong and extensive relationships. Others,
+such as Chile and Switzerland (Nidwalden), have fewer but stronger ties.
+
+Figure 4.2. Size and strength of ministries’ networks
+Brokerage
+
+Number of organisations
+16
+
+Policy
+
+Practice
+
+Research
+
+Other
+
+Strength
+
+Average frequency/intensity of ties
+4.00
+
+14
+
+3.50
+
+12
+
+3.00
+
+10
+
+2.50
+
+8
+
+2.00
+
+6
+
+1.50
+
+4
+
+1.00
+
+2
+
+0.50
+
+0
+
+0.00
+
+Note: Size refers to the number of organisations ministries reported soliciting to facilitate research use in policy. Strength refers to the average
+frequency/ /intensity of the interactions with the different organisations that respondents rated on a 6-point Likert scale. Data was collected at
+national and sub-national levels. “Appenzell A.” refers to the Swiss canton of Appenzell Ausserrhoden.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/jag8u6
+
+--- [PDF Page 87 / Book Page 85] ---
+
+Looking at absolute numbers, relationships with practice-oriented organisations (teacher unions, school
+leaders’ unions, subject teacher associations, teacher education institutions, professional development
+providers etc.) were reported most often by ministries but were generally the weakest connections. For
+example, 65% of systems reported having some contact with teacher unions. However, 92% of the systems
+reporting these connections reported them as “very rare” or “occasional”.
+The most commonly reported strong relationships were with research actors (universities, public research
+organisations and academic or research networks). This was most often the case with universities and
+faculties of education, where 11 systems reported “quite frequently” soliciting their input to facilitate the
+use of research in policy. Important to bear in mind is that no ministry in the survey reported “very
+frequently” soliciting any of the organisations to facilitate the use of research in policy.
+
+Relevance of ministry connections
+This section looks at the relevance of ministries’ relationships, i.e. whether they interact with the actors
+they see as active in the mobilisation of education research. The section explores the relevance of
+relationships from two perspectives:
+
+
+Relationships the ministry has with organisations most active in facilitating research use in policy.
+
+
+
+Relationships the ministry has with organisations that have a strong research-policy-practice
+intermediary role in their system.
+
+At the landscape level, the activeness of organisations in facilitating the use of education research in policy
+roughly corresponds to the frequency of the ministry’s connections with those organisations (Figure 4.3).
+While ministries generally do not have connections to every single relevant actor in the system, many
+appear to have overall fairly strong connections to at least one of the actors who are active in facilitating
+research use in policy. This suggests that, overall, the relationships the ministries have with organisations
+facilitating research use in policy are quite relevant, albeit incomplete. There are some instances where
+the relationships do not match the levels of activity. For example, think tanks often have much less frequent
+ties with the ministries despite a number of systems reporting them to be active in facilitating research use
+in policy.
+It appears that, for some organisations, ministry awareness of their activeness in facilitating research use
+often, but not always, translates into a relationship. This brings in a wider question around the role that an
+organisations’ informal influence plays on research use in policy making without an actual relationship
+being established. In their analysis of relationships promoting evidence-informed policy and practice,
+MacGregor and colleagues (2022[25]) found that although actors in education systems often had formal
+networks, many wielded indirect or invisible influence, which can still create the conditions for educational
+improvement.
+The data at the landscape level, presented in Figure 4.3, hides an important nuance at the level of
+individual systems.
+It may be the case that ministries are heavily connected to organisations because they are research
+producers rather than because they are active in facilitating the use of research in policy. This is difficult to
+determine because, as already noted, activeness in research mobilisation is often intertwined with research
+production. For example, Belgium (Flemish community) reported having quite frequent connections to
+universities and teacher education institutions, both seen as active in facilitating research use in policy but
+also in producing research. One way of clarifying the interplay between production of research and
+facilitation of use in policy is to look at individual ministry relationships with organisations who were less
+active or not active in producing research but still active in facilitating its use in policy (i.e. policy
+intermediary actors).
+
+--- [PDF Page 88 / Book Page 86] ---
+
+Figure 4.3. Relevance of ministry connections to organisations active in facilitating research use in
+policy
+Actor is ''active'' or ''very active''
+
+Systems soliciting input "irregularly with peak periods" or "quite frequently"
+
+35
+30
+25
+20
+15
+10
+5
+0
+
+Note: Data showing the number of systems reporting that a given actor was active in facilitating research use in policy compared with the number
+of systems regularly soliciting input from that actor in the policy-making process. Data was collected at national and sub-national levels. “Pro.
+Devt. Providers for practitioners” refers to professional development providers for school practitioners.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/1fgnzu
+
+In the vast majority of cases ministries did not report strong connections to “policy intermediary” actors.
+In a number of cases this actor was the media, where it is natural that ministries solicit them less for
+research advice or commissioning research. However, the pattern is similar with other “intermediary only”
+actors, such as think tanks and professional groups. In fact, only two systems reported working “quite
+frequently’’ or “occasionally” with an actor who was active in facilitating research use in policy but with low,
+or no, activity in research production (Colombia with teacher unions and Slovenia with professional
+groups).
+Given that the purpose of education policy is to improve education practice, policy organisations also need
+relationships with organisations working across multiple contexts rather than just those focusing on
+research production for policy making. These relationships can support research use in practice indirectly
+and reinforce the impact of policy ideas on the practice context. They are also important as practitioners
+seek and share evidence from multiple sources, including ministries of education. As argued by Bednarek
+and colleagues (2018, p. 1179[16]), “creating and nurturing this knowledge exchange infrastructure can help
+actors in the process (including scientists) absorb new information and account for conflicting evidence
+without derailing an entire [policy] process.” In this way, having a “feedback loop” with actors who use
+research but are active in areas beyond producing it can also be seen as a crucial part of research-informed
+policy making.
+Encouragingly, systems generally reported having connections to actors seen as the most active
+intermediaries working across the research, policy and practice contexts. However, there are some
+exceptions within ministry networks. For example, Switzerland (Obwalden) reported academic or research
+networks to be active in producing research and facilitating its use in policy and practice but reported that
+it never solicits their research-related input to policy making. As previously mentioned, the Czech Republic
+reported think tanks as key organisations but did not report any relationship with them. In some cases the
+inverse was true: Ministries reported connections to actors who were not seen as very active in producing
+
+--- [PDF Page 89 / Book Page 87] ---
+
+research or facilitating its use. Sweden, for example, reported policy networks to be only “moderately
+active” in both the production and mobilisation of research in policy. However, the ministry reported very
+frequent and intense ties with these networks.
+The ministries’ connections to brokerage agencies are also important since these are often intended to
+be broad evidence intermediaries in most systems where they are active (see Chapters 3 and 7). Of the
+16 systems where brokerage agencies are active, only nine reported having connections to them.
+Generally, the more active these agencies are, the stronger the ministry connection to them is. There is
+one exception: The ministry of education in the United Kingdom (England) reported having the strongest
+relationships with universities and faculties of education as well as reporting strong links with other public
+research organisations. The ministry perceived the most active organisation overall in the system to be
+official brokerage agencies, yet it only reported occasional interactions with them. The main brokerage
+agency in the United Kingdom, the Education Endowment Foundation (EEF), was established with a
+15-year funding plan and is intended to be independent, autonomous and free from political pressures or
+influence from the United Kingdom Parliamentary cycle (Education Endowment Foundation, 2012[26]).
+However, this set up does not mean a strong relationship with the ministry is unnecessary since the
+purpose of the agency is to influence decision making with evidence.
+Seven systems did not report any connection to brokerage agencies despite their being active in the
+system. In Chile and Denmark, for example, these agencies are seen to be very active in facilitating
+research use in policy but the ministry did not report a relationship with them. Furthermore, in some
+systems, the opposite pattern can be seen. The ministry in Colombia reported having the strongest
+relationship with brokerage agencies. However, actors seen to be the main evidence intermediaries in the
+system were, in fact, universities, education consulting firms and policy networks. It is remarkable that the
+ministry did not report having any relationship with these three actors in the survey.
+Overall, in looking at the strength of ministry connections to actors with different activity profiles, two
+conclusions can be drawn.
+
+
+Firstly, whether an organisation is active in research production appears to have more bearing on
+how strong the ministry connection is rather than whether they are active in facilitating the use of
+research in policy.
+
+
+
+Secondly, actors that have a strong research-policy-practice intermediary role often have strong
+connections to the ministry but not always. This variance is especially pronounced for brokerage
+agencies, which often have a unique system context.
+
+Individual actors
+Organisations contain a variety of individual profiles and roles, which affect the use of research to different
+extents. This section looks at a number of individual roles across policy, practice and research to
+understand the nature of their involvement in facilitating research use.
+
+The landscape of individuals relevant to research use
+Three questions from the survey asked systems about the types of individual roles in their context. One
+question asked whether specific individuals (embedded researchers, research advisors, research
+champions and research fellows) existed to facilitate the use of research (Figure 4.4). These individuals
+were perceived to be far more prevalent in policy making than in school practice. Two further questions
+asked how active different individuals were in research production (Figure 4.5) and at which stages
+(Figure 4.6).
+
+--- [PDF Page 90 / Book Page 88] ---
+
+Figure 4.4. Systems reporting the presence of individual roles to facilitate the use of research
+In school practice
+
+In policy making
+73
+
+Embedded researcher
+
+32
+
+57
+
+Research advisor
+
+43
+35
+
+Research champion
+
+22
+
+32
+
+Research fellow
+
+22
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+%
+
+Note: Figure shows the percentage of systems reporting the given role is present in their system. Data collected at national and at a sub-national
+level.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/fp8cmn
+
+Some systems maintain or increase the numbers of individuals with a research background through PhD
+schemes in both policy and practice contexts (see Box 4.2). While research skills are key to increasing the
+systematic use of research in policy making, data from the survey suggests that there are important
+variations across systems in terms of research skills in the civil service. Embedding researchers in
+ministries is often seen as a way of building relationships between the research and policy communities
+(Gough, Maidment and Sharples, 2021[15]). Data from the survey indicates that the number of these
+researchers varies depending on the ministry and unit. Latvia, for example, reported in the open questions
+of the survey that 7.4% of employees at the ministry had a PhD in 2021. Norway stated in a follow-up
+interview that around 50% of employees in the special unit Section for Policy Analysis have a PhD and/or
+research background.
+
+Box 4.2. Two models of integrated doctoral training programmes focused on the production and
+use of educational research
+Public Sector PhD Scheme in Norway
+In public administration, the Norwegian Public Sector PhD Scheme (OFFPHD) has the specific goal
+of expanding research activities in public sector bodies to increase researcher recruitment within the
+public sector and promote greater collaboration between academia and the public sector. It is only open
+to permanent employees in the public sector body. Approximately ten projects have been awarded in
+the area of education policy and practice on topics including curriculum renewal, inclusive education,
+English-language teaching, and new pedagogical models in citizenship education, school management
+and leadership, and sports education.
+
+--- [PDF Page 91 / Book Page 89] ---
+
+Doctoral Grant for Teachers programme in the Netherlands
+Related specifically to facilitating the use of education research in practice, the Dutch Research
+Council has been organising calls for their Doctoral Grant for Teachers programme since 2010 and
+awarded almost 500 projects. The grant is aimed at teachers in primary, secondary, vocational, higher
+vocational and special education. The focus of the studies is very open, and the grant includes the costs
+of a replacement teacher up to the equivalent of a maximum of 0.4 full time for a maximum of five years.
+Source: OECD Strengthening the Impact of Education Research policy survey data; Research Council of Norway (n.d.[27])
+https://www.forskningsradet.no/en/apply-for-funding/funding-from-the-research-council/public-sector-phd-scheme/; Dutch Research
+Council (n.d.[28]), Doctoral Grant for Teachers, https://www.nwo.nl/en/researchprogrammes/doctoral-grantteachers#:~:text=The%20Doctoral%20Grant%20for%20Teachers,ties%20between%20universities%20and%20schools.
+
+Regarding the specific levels of activity in research production (Figure 4.5), at one end of the scale
+academic researchers and government researchers are most frequently reported as “active’’ or ‘’very
+active’’. Policy makers, school leaders, teachers and community members sit at the other end of the scale,
+and are seen as, overall, less active or not active at all. Teacher educators are the only stakeholder group
+involved in producing research to some extent in all systems. This is in line with the high involvement of
+teacher education institutions in producing research and the strong relationships reported by the ministries
+with them. One further element to consider is that teacher educators are, in many systems, embedded in
+faculties of education within universities. It is therefore not necessarily straightforward to separate them
+from academic researchers.
+
+Figure 4.5. Levels of individuals’ activity reported by systems in research production.
+"Not active at all"
+Academic researchers 3
+Government researchers
+
+9
+7
+
+23
+
+70
+36
+
+6
+
+Teacher educators
+
+61
+38
+
+56
+
+47
+
+53
+
+Policy makers
+
+9
+
+School leaders
+
+12
+
+79
+
+Teachers
+
+12
+
+82
+
+Community members
+
+"Active" + "Very active"
+
+88
+
+Students (master's, doctoral) 3
+Independent researchers
+
+"Slightly active" + "Moderately active"
+
+58
+
+36
+
+33
+9
+6
+61
+
+3
+%
+
+Note: Data showing the percentage of systems reporting a given individual profile was active in research production at a given level. Data
+collected at a national and sub-national level.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/jmncl4
+
+--- [PDF Page 92 / Book Page 90] ---
+
+Who is involved in the various stages of the research production cycle is also highly relevant for assessing
+the impact of research (Figure 4.6). Unsurprisingly, academic and independent researchers are perceived
+as active across all stages of research production. In contrast, practitioners (teachers and school leaders)
+were least frequently reported to be involved across the whole research production cycle, and most heavily
+associated with data collection. This may suggest that practitioners’ involvement in the different phases is
+primarily a passive involvement (as “objects” of research) rather than being meaningfully involved in the
+production of research. The nature of co-production is also discussed in Chapters 8 and 10 of this
+publication.
+
+Figure 4.6. Individuals’ involvement in the different stages of research production
+Academic or independent researchers
+Government researchers
+Policy makers
+Teacher educators
+Teachers
+School leaders
+In formulating the research questions
+20
+15
+In communicating research results
+
+In designing the research
+10
+5
+0
+
+In evaluating the research results
+
+In analysing and interpreting the data
+
+In co-ordinating the research
+
+In collecting the data
+
+Note: Data showing the number of systems reporting that the given group is involved in the given stage of research production. Data collected
+at a national and a sub-national level.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/posudq
+
+Incentives for (co-)production?
+It has been clear for decades that a strictly “push” approach to research use does not work alone. For
+research to be relevant for practice and for teachers to have ownership of research, co-producing research
+has been promoted by many. While co-production is a fundamental form of evidence-use infrastructure
+(Gough, Maidment and Sharples, 2021[15]), it is still far from being a mainstream instrument in education
+(Honingh, Bondarouk and Brandsen, 2018[29]). This is also clear from the data.
+Incentives are a key tool for driving co-production. A research-engaged school can provide the values,
+resources and structures to mobilise knowledge (Rickinson et al., 2020[8]). When looking at the incentives
+for research production, ministries reported more “intrinsic” motivators than “extrinsic” incentives
+(Figure 4.7). Furthermore, when comparing the total number of incentives for researchers to those of
+practitioners, researchers have a higher number and far more “extrinsic’’ incentives than practitioners.
+
+--- [PDF Page 93 / Book Page 91] ---
+
+Systems reporting a greater number of incentives for practitioners to be involved in research production
+generally also reported that practitioners were more active in producing research. In that sense, incentives
+do seem to be connected to the deeper involvement of practitioners.
+It should be noted that the survey data cannot show whether the involvement of individuals across the
+different stages of the research cycle indicates actual co-production. It may indicate co-production or it
+may simply indicate that different stakeholder groups produce research in isolation. What the data does
+show is that broader practitioner involvement in many stages of the research production cycle does not
+necessarily mean that practitioners are overall perceived as deeply involved in research production. For
+example, the Netherlands, Latvia and Spain reported that practitioners were involved in nearly all stages
+of research production; however, they also reported that both teachers and school leaders were only
+slightly active in the production of research overall. Furthermore, it must be recognised that incentives may
+encourage different kinds of practitioner involvement in certain systems although more research is needed
+to understand how these may work. Mechanisms can be aimed at incentivising research production more
+intensively with a specific subset of practitioners rather than practitioners on the whole. This is, for example,
+the case with researcher teachers in Hungary (Box 4.3).
+
+Figure 4.7. Individuals’ extrinsic and intrinsic incentives to produce education research
+Gives them a sense of participation in national debate
+Allows them to improve practices and processes
+Implies informal recognition (e.g. from their peers, hierarchy)
+Allows them to support decision-making
+Is part of their performance evaluation criteria (e.g. for promotion, tenure)
+Implies time allocation (e.g. a certain number of hours per week)
+
+Is part of their job description
+Implies a salary supplement
+
+Extrinsic
+
+Intrinsic
+
+Academic or independent researchers
+Teacher educators
+Government researchers
+Teachers
+School leaders
+Policy makers
+-70
+
+-60
+
+-50
+
+-40
+
+-30
+
+-20
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+Note: Numbers refer to the number of systems reporting the given incentives are present in their systems for each group of individuals. Data
+collected at a national and at a sub-national level.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/6qolam
+
+Box 4.3. Researcher teachers in Hungary
+Hungary launched the current pedagogical career model and related evaluation system in 2013. The
+aim of this model is to support the effectiveness of teacher’s pedagogical work and identify areas for
+improvement. In addition to professional recognition, this assessment can lead to career advancement
+and therefore also has a financial incentive. In this pedagogical model, the following levels exist:
+
+
+Trainee.
+
+--- [PDF Page 94 / Book Page 92] ---
+
+
+
+Teacher I.
+
+
+
+Teacher II.
+
+
+
+Master teacher and/ or Researcher teacher.
+
+The "Master" and "Research Teacher" categories are not simply a higher degree of a linear progression,
+they are an invitation to teachers who wish to pursue a specific path. It is possible to be a researcher
+teacher without being a master teacher, although a researcher teacher requires a PhD.
+The research undertaken by these categories can be about a subject matter or about teaching and
+pedagogy, although teaching and pedagogy is a more common research area. Teachers working under
+these two classifications are expected to contribute actively and intensively to the development,
+research, and innovation processes in the public education system.
+A researcher teacher is different to a master teacher in that the researcher teacher is tasked with sharing
+their research results more widely. This can be outside their own school. Researcher teachers therefore
+offer solutions to improve public education in general while master teachers integrate their innovative
+practices into their own school.
+In 2021, there were 35 researcher teachers in Hungary and 1337 master teachers. Each of these
+categories has a five-year research programme, which is renewable.
+Source: Information provided by National Education Authority of Hungary.
+
+Quality of individuals’ relationships
+Individuals working in siloes are less able to access research or advocate for its use among colleagues.
+Understanding the current nature of policy makers’ relationships can provide insights into what already
+facilitates the use of research and what can be improved.
+
+Culture and mindset
+A strong culture and mindset of research use requires trust between individuals, a shared understanding
+of the purpose of research and a willingness to engage with and implement it (Rickinson et al., 2020[8]). As
+discussed in Chapter 9, culture and mindset are key components not just of using research but of using
+research well.
+Willingness - both to use research and to engage in conversations about it - is seen by scholars as a
+primary precondition of engaging in research mobilisation (Wehn and Montalvo, 2018[30]). Having a shared
+understanding of what education research is and what it can be used for is also an important predictor for
+research use. Research has shown that a shared understanding supports the identification of
+interdependencies and trade-offs, and facilitates negotiating different interests (Best and Holmes, 2010[1]).
+Levels of trust, which can be facilitated through specific initiatives, are also crucial for greater systematic
+connectivity between individuals involved in evidence production and use (Oliver, Adie and Boaz, 2022[31]).
+Research on evidence use commonly recognises that trust is crucial and can be built through sustained
+individual interactions (Oliver et al., 2014[17]). However, studies have shown that interventions focused on
+interactions between decision makers and researchers often lack conceptual clarity of what actually
+constitutes trust, which may limit their effectiveness (Langer, Tripney and Gough, 2016[32]).
+Figure 4.8 shows that ministries perceive individual attitudes, practices and processes relatively positively.
+However, they seem to be less positive about the quality of relationships between individuals in the policy
+
+--- [PDF Page 95 / Book Page 93] ---
+
+and research communities (highlighted in the figure). This data also shows little variation perceived
+between policy making and practice.
+
+Figure 4.8. Average degree of ministries’ agreement with statements about the culture and mindset
+of using research in policy and practice
+Practitioners
+
+Policy makers
+4.46
+4.3
+
+Using education research in their processes is important for them
+4.04
+3.95
+
+They are expected to use education research in their processes
+
+There is a strong political will to use education research in their field
+
+3.73
+3.75
+
+They are willing to learn new skills for using education research
+
+3.69
+3.65
+
+They are willing to try new ways to integrate education research into their field
+
+3.73
+3.58
+
+There is a high level of trust in research amongst them
+
+3.4
+
+3.65
+
+There is a high level of trust with researchers
+
+3.52
+3.4
+
+They are willing to use education research to question their ideas and
+preconceptions
+They have a shared understanding of education research and its use with
+researchers
+
+3.5
+3.5
+3.27
+3.1
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+
+4.5
+
+5
+
+Note: Respondents rated their degree of agreement with the above statements on a Likert scale of 1 to 5. Five indicates strong agreement with
+a statement and 1 indicates strong disagreement. Data collected at a national and at a sub-national level.
+The highlighted responses are those that involve relationships with colleagues or others outside the ministries.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/abl0vd
+
+Collaborative activities and research use in policy
+Research evidence plays an important role in building and sustaining relationships for many reasons. As
+outlined by Gough and colleagues (2011[19]), relationships between individuals can improve access to, and
+interpretation of, quality research evidence. In the survey data, this reliance on others for access appears
+particularly important. Over half of respondent systems expressed uncertainty or disagreement about
+whether policy makers have access to the right learning opportunities to develop their own research skills
+(Figure 4.9).
+As shown in Figure 4.10, relationships with external experts and in-house researchers are the primary
+method of accessing research. This suggests that, on the whole, policy makers do have relationships with
+relevant individuals who can support the use of education research in the policy process.
+The right relationships are needed to access research evidence; however, in order to actually use research
+evidence in policy making, relationships require certain characteristics. Influencing others, persuading
+them to collaborate and facilitating new interactions between individuals are seen as key enablers of
+research-informed policy making (Gough et al., 2011[19]). With this in mind, Figure 4.11 shows the ways in
+which policy makers use education research. Overall, the data reveals that the use of research to stimulate
+debate, earn trust and leverage political influence was least-commonly reported by systems. When
+contrasting this data with how policy makers access research evidence, existing relationships may still be
+described as rather transactional in nature (i.e. while research is systematically accessed through
+relationships, it is not systematically used when interacting or discussing policy options with others).
+
+--- [PDF Page 96 / Book Page 94] ---
+
+The above discussion suggests that a typical research use scenario in policy involves a policy maker who
+finds a piece of research, via an academic researcher for example, and validates its usefulness through a
+discussion with a colleague, possibly a public servant with a research background. However, in many
+systems, the actual use of this research on an advocacy level to influence, build trust and stimulate debate
+appears to be weak. Thus, its impact on policy is by no means assured.
+
+Figure 4.9. Overview of policy makers’ learning opportunities
+"POLICY MAKERS HAVE EXTENSIVE LEARNING OPPORTUNITIES TO DEVELOP THEIR RESEARCH
+KNOWLEDGE AND SKILLS"
+Strongly disagree
+
+4
+
+0
+
+Disagree
+
+27
+
+10
+
+20
+
+30
+
+Neither agree, nor disagree
+
+Agree
+
+31
+
+27
+
+40
+
+50
+
+60
+
+70
+
+Strongly agree
+
+12
+
+80
+
+90
+
+100
+%
+
+Note: Percentage indicates the number of systems reporting a given level agreement with the statement. Data collected at a national and at a
+sub-national level.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/pqhr08
+
+Figure 4.10. How policy makers access education research
+Seeking advice from external experts
+
+92
+
+Seeking advice from in-house researchers/evaluators
+
+84
+
+Attending conferences and workshops
+
+84
+
+Commissioning research
+
+78
+
+Searching the internet
+
+76
+
+Consulting/Reading academic journals
+
+73
+
+Consulting/Reading the media
+
+68
+
+Consulting quality controlled research repositories
+
+59
+
+Searching scientific databases
+
+57
+
+Social media platforms
+
+38
+
+Speaking to journalists
+
+31
+
+Other
+
+11
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+%
+
+Note: Percentage indicates the systems reporting that policy makers access education research in a given way. Data collected at a national and
+at a sub-national level.
+The highlighted responses are those that involve relationships with colleagues or others outside the ministries.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/sdvcgz
+
+--- [PDF Page 97 / Book Page 95] ---
+
+Figure 4.11. How policy makers use education research during the policy process
+"Never" + "A little"
+"Quite a lot" + "Systematically"
+Designing policies, programmes, projects, reforms
+
+5
+
+Identifying the problems in the system
+
+5
+
+"Moderately"
+
+24
+
+70
+30
+
+65
+
+Evaluating policies, programmes, projects, reforms
+
+14
+
+25
+
+61
+
+Identifying and selecting relevant existing interventions, policies
+
+11
+
+32
+
+57
+
+Formulating legislations, regulations, guidelines
+
+14
+
+38
+
+Stimulating debate, dialogue and collaboration 3
+Earning the trust of other policy makers or stakeholders
+
+50
+6
+
+Leveraging political influence in policy decision-making
+
+49
+47
+
+53
+
+42
+
+21
+0
+
+10
+
+45
+20
+
+30
+
+40
+
+33
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+%
+
+Note: Percentage indicates the number of systems reporting that policy makers use education research in a given way. Data collected at a
+national and at a sub-national level.
+The highlighted responses are those that involve relationships with colleagues or others outside the ministries.
+Source: OECD Strengthening the Impact of Education Research policy survey data.
+StatLink 2 https://stat.link/42qj7y
+
+Conclusion
+A number of overall messages are emerging on actors’ involvement in research production and facilitating
+its use in policy and practice.
+
+The field of actors facilitating the use of research is diverse
+Overall, a large number of organisations are active in producing research and, in most cases, also
+facilitating its use in policy and practice across the OECD. The landscape appears to be dominated by
+research producers in many systems, most commonly universities and teacher education institutions.
+Networks with direct involvement of academia such as research networks and university-school
+partnerships are the most prevalent and active in both the production and mobilisation of education
+research. This shows how tightly intertwined research production is with mobilisation (i.e. facilitating
+research use). For this reason, it will be important to better understand how each of these organisations
+actually operates in a knowledge mobilisation context to uncover concrete configurations or practices in
+OECD countries that are more effective than others.
+While universities and teacher education institutions generally have a consistent role across systems –
+often active in the production of research as well as its mobilisation in policy and practice – most
+organisations’ activities are highly system-specific. For example, the ministry of education’s role was quite
+diverse within systems. Some are only active in facilitating research use in policy and practice and not
+production whereas others are the most active research producers in the whole system. The diversity also
+extends to systems reporting the presence of brokerage agencies.
+This diversity in both levels of activity, and organisational structures and goals indicates that there is a
+huge potential for knowledge exchange and shared learning between the same types of organisations
+operating in different systems and contexts.
+
+--- [PDF Page 98 / Book Page 96] ---
+
+Relationships of education ministries are relevant but there are some missing pieces
+In the majority of systems, ministries solicit a large number of different types of organisations in matters of
+research, although the intensity of these relationships varies. The most commonly reported strong
+relationships were with research actors (universities, public research organisations and academic or
+research networks). This again paints the picture that the landscape is dominated by those producing
+research despite the presence of non-research producing evidence intermediaries.
+Interestingly, some systems did not report any connection to brokerage agencies despite their being active
+in both the production of research and facilitating of its use in policy and practice. Further work is needed
+to understand the precise role of these brokerage agencies in specific systems, the ways in which
+ministries work with them and how this can improve research use.
+
+Co-production is not yet a mainstream instrument across OECD countries despite its
+potential role in facilitating research use
+Co-production is a fundamental form of evidence-use infrastructure but it is still far from becoming a
+mainstream instrument in education. Teachers and school leaders are most heavily associated with data
+collection and more rarely involved in other stages of research production. This suggests that practitioners’
+involvement is primarily passive rather than active in the production of research evidence. Encouragingly,
+systems reporting a greater number of incentives for practitioners to be involved in research production
+reported that practitioners were more active in producing research.
+
+Policy makers’ relationships should be further leveraged to improve research use
+There is a large recognition that research use is both important and expected for policy makers and
+practitioners. Ministries also perceive individual attitudes, practices and processes related to research use
+positively. However, they seem to be less positive about the quality of relationships between individuals in
+the policy and research communities. Policy makers appear to already have relationships that could
+support greater use of research but these relationships remain transactional. As such, the extent to which
+research is actually used is unclear.
+Further research would be useful in understanding how building the capacity of policy makers to become
+‘’research advocates’’ and improve the quality of their existing relationships may result in a more systematic
+deployment of evidence in policies, programmes, projects and reforms. Concurrently, one method of
+increasing the use of education research in public administration could be linked to a shift in the selfconception of civil servants and policy makers towards being autonomous agents or empowered owners
+of education research. This may be supported by moving away from the view that research use is chiefly
+the responsibility of those with a research background.
+
+References
+Bednarek, A. et al. (2018), “Boundary spanning at the science–policy interface: The practitioners’
+perspectives”, Sustainability Science, Vol. 13/4, pp. 1175-1183,
+https://doi.org/10.1007/s11625-018-0550-9.
+
+[16]
+
+Best, A. and B. Holmes (2010), “Systems thinking, knowledge and action: Towards better
+models and methods”, Evidence & Policy: A Journal of Research, Debate and Practice,
+Vol. 6/2, pp. 145-159, https://doi.org/10.1332/174426410x502284.
+
+[1]
+
+--- [PDF Page 99 / Book Page 97] ---
+
+Brown, A. et al. (2018), “A fragile but critical link: A commentary on the importance of
+government-academy relationships”, Israel Journal of Health Policy Research, Vol. 7/1,
+https://doi.org/10.1186/s13584-018-0247-7.
+
+[14]
+
+Brown, C., A. Daly and Y. Liou (2016), “Improving trust, improving schools”, Journal of
+Professional Capital and Community, Vol. 1/1, pp. 69-91, https://doi.org/10.1108/jpcc-092015-0004.
+
+[24]
+
+Burns, T. and F. Köster (eds.) (2016), Governing Education in a Complex World, Educational
+Research and Innovation, OECD Publishing, Paris, https://doi.org/10.1787/9789264255364en.
+
+[6]
+
+Coe, R. and S. Kime (2019), “A (new) manifesto for evidence-based education: Twenty years
+on”, Evidence Based Education.
+
+[9]
+
+Cooper, A. (2014), “Knowledge mobilisation in education across Canada: A cross-case analysis
+of 44 research brokering organisations”, Evidence and Policy, Vol. 10/1,
+https://doi.org/10.1332/174426413X662806.
+
+[21]
+
+Dutch Research Council (n.d.), Doctoral Grant for Teachers,
+https://www.nwo.nl/en/researchprogrammes/doctoral-grantteachers#:~:text=The%20Doctoral%20Grant%20for%20Teachers,ties%20between%20univer
+sities%20and%20schools. (accessed on 27 June 2022).
+
+[28]
+
+EC (2013), The Role of Clusters in Smart Specialisation Strategies, Publications Office,
+European Commission, https://data.europa.eu/doi/10.2777/43211.
+
+[22]
+
+Education Endowment Foundation (2012), Annual Report 2011/12,
+https://d2tic4wvo1iusb.cloudfront.net/documents/annual-reports/EEF_Annual_Report_2012__printable.pdf?v=1631364429 (accessed on 25 May 2022).
+
+[26]
+
+Farrell, C. et al. (2021), Research-practice Partnerships in Education: The State of the Field,
+William T. Grant Foundation.
+
+[23]
+
+Global Commission on Evidence to Address Societal Challenges (2022), The Evidence
+Commission Report: A Wake-up Call and Path Forward for Decision-makers, Evidence
+Intermediaries, and Impact-oriented Evidence Producers, McMaster Health Forum, Hamilton.
+
+[13]
+
+Gough, D., C. Maidment and J. Sharples (2021), “Enabling knowledge brokerage intermediaries
+to be evidence-informed”, Evidence & Policy: A Journal of Research, Debate and Practice,
+https://doi.org/10.1332/174426421x16353477842207.
+
+[15]
+
+Gough, D. et al. (2011), “Evidence informed policymaking in education in Europe”, EIPEE Final
+Project Report Summary.
+
+[19]
+
+Honingh, M., E. Bondarouk and T. Brandsen (2018), “Co-production in primary schools: A
+systematic literature review”, International Review of Administrative Sciences, Vol. 86/2,
+pp. 222-239, https://doi.org/10.1177/0020852318769143.
+
+[29]
+
+Ion, G. and R. Iucu (2014), “Professionals’ perceptions about the use of research in educational
+practice”, European Journal of Higher Education, Vol. 4/4, pp. 334-347,
+https://doi.org/10.1080/21568235.2014.899154.
+
+[3]
+
+--- [PDF Page 100 / Book Page 98] ---
+
+Langer, L., J. Tripney and D. Gough (2016), The Science of Using Science: Researching the
+Use of Research Evidence in Decision-Making, EPPI-Centre, Social Science Research Unit,
+UCL Institute of Education, University College London.
+
+[32]
+
+Levin, B. (2013), “To know is not enough: Research knowledge and its use”, Review of
+Education, Vol. 1/1, pp. 2-31, https://doi.org/10.1002/rev3.3001.
+
+[20]
+
+Levin, B. (2011), “Mobilising research knowledge in education”, London Review of Education,
+https://doi.org/10.1080/14748460.2011.550431.
+
+[2]
+
+MacGregor, S., J. Malin and E. Farley-Ripple (2022), “An application of the social-ecological
+systems framework to promoting evidence-informed policy and practice”, Peabody Journal of
+Education, Vol. 97/1, pp. 112-125, https://doi.org/10.1080/0161956x.2022.2026725.
+
+[25]
+
+Mitton, C. et al. (2007), “Knowledge transfer and exchange: Review and synthesis of the
+literature”, Milbank Quarterly, Vol. 85/4, https://doi.org/10.1111/j.1468-0009.2007.00506.x.
+
+[7]
+
+OECD (2007), Evidence in Education: Linking Research and Policy, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264033672-en.
+
+[11]
+
+Oliver, K., E. Adie and A. Boaz (2022), “Mapping the field of evidence production and use”, in
+Derrick, G., A. Oancea and N. Nuseibeh (eds.), A Handbook of Meta-Research, Elgar,
+https://researchonline.lshtm.ac.uk/id/eprint/4664478.
+
+[31]
+
+Oliver, K. et al. (2014), “A systematic review of barriers to and facilitators of the use of evidence
+by policymakers”, BMC Health Services Research, Vol. 14/2, https://doi.org/10.1186/14726963-14-2.
+
+[17]
+
+Powell, A., H. Davies and S. Nutley (2018), “Facing the challenges of research-informed
+knowledge mobilization: ‘Practising what we preach’?”, Public Administration, Vol. 96/1,
+https://doi.org/10.1111/padm.12365.
+
+[12]
+
+Research Council of Norway (n.d.), Public Sector Ph.D. scheme,
+https://www.forskningsradet.no/en/apply-for-funding/funding-from-the-research-council/publicsector-phd-scheme/ (accessed on 27 June 2022).
+
+[27]
+
+Révai, N. (2020), “What difference do networks make to teachers’ knowledge?: Literature review
+and case descriptions”, OECD Education Working Papers, No. 215, OECD Publishing, Paris,
+https://doi.org/10.1787/75f11091-en.
+
+[10]
+
+Rickinson, M. et al. (2021), Research and Evidence Use in Australian Schools: Survey, Analysis
+and Key Findings, Monash Q Project, Monash University Faculty of Education, VIC, Australia,
+https://doi.org/10.26180/14445663.
+
+[18]
+
+Rickinson, M. et al. (2020), Quality Use of Research Evidence Framework, Monash Q Project,
+Monash University Faculty of Education, VIC, Australia,
+https://researchmgt.monash.edu/ws/portalfiles/portal/320719238/319855344_oa.pdf.
+
+[8]
+
+Ward, V., A. House and S. Hamer (2009), “Knowledge brokering: The missing link in the
+evidence to action chain?”, Evidence & Policy: A Journal of Research, Debate and Practice,
+Vol. 5/3, pp. 267-279, https://doi.org/10.1332/174426409x463811.
+
+[5]
+
+--- [PDF Page 101 / Book Page 99] ---
+
+Wehn, U. and C. Montalvo (2018), “Knowledge transfer dynamics and innovation: Behaviour,
+interactions and aggregated outcomes”, Journal of Cleaner Production, Vol. 171, pp. S56S68, https://doi.org/10.1016/j.jclepro.2016.09.198.
+
+[30]
+
+Wiggins, M. et al. (2019), The Rise Project: Evidence-Informed School Improvement, Education
+Endowment Foundation.
+
+[4]
+
+Notes
+1
+
+For more information, see https://www.edulog.pt/ (accessed on 24 February 2022).
+
+2
+
+See https://www.uis.no/nb/forskning/kunnskapssenter-for-utdanning (accessed on 16 May 2022).
+
+3
+
+For more information, see https://www.whatworksnetwork.org.uk/ (accessed on 16 May 2022).
+
+4
+
+For more information, see https://www.stat.fi/til/kou_en.html (accessed on 16 May 2022).
+
+5
+
+For more information, see http://www.inie.ucr.ac.cr/ (accessed on 24 February 2022).
+
+6
+
+For more information, see https://www.etwinning.net/en/pub/index.htm (accessed on 31 January 2022).
+
+--- [PDF Page 102 / Book Page 100] ---
+
+Annex 4.A. Average activity levels reported by
+systems in survey
+The OECD Strengthening the Impact of Education Research policy survey data asked systems to rate the
+levels of organisational activity in research production and mobilisation for 17 actors on a Likert scale of 1
+(not active at all) to 5 (very active). From this, the following averages have been calculated showing the
+average levels of activity within each system for each area.
+Facilitating research use in
+policy
+
+Facilitating research use in
+practice
+
+Producing research
+
+Finland
+
+4.94
+
+4.59
+
+4.88
+
+Switzerland (St. Gallen)
+
+5.00
+
+4.67
+
+4.50
+
+Iceland
+
+4.27
+
+4.45
+
+4.11
+
+Chile
+
+4.40
+
+4.18
+
+4.18
+
+Colombia
+
+3.88
+
+4.00
+
+4.29
+
+Spain
+
+4.00
+
+4.07
+
+4.00
+
+Hungary
+
+4.07
+
+4.00
+
+3.94
+
+UK (England)
+
+3.88
+
+3.88
+
+3.35
+
+Sweden
+
+3.81
+
+3.88
+
+3.41
+
+Switzerland (Obwalden)
+
+3.92
+
+3.88
+
+3.17
+
+Switzerland (Nidwalden)
+
+3.60
+
+3.69
+
+3.56
+
+New Zealand
+
+3.29
+
+4.19
+
+2.94
+
+Turkey
+
+3.56
+
+3.29
+
+3.47
+
+Netherlands
+
+3.53
+
+3.67
+
+3.00
+
+Canada (Saskatchewan)
+
+3.73
+
+3.13
+
+3.13
+
+Portugal
+
+3.07
+
+3.36
+
+3.47
+
+Norway
+
+3.00
+
+3.35
+
+3.24
+
+Costa Rica
+
+3.06
+
+2.94
+
+3.47
+
+Estonia
+
+3.08
+
+3.62
+
+2.67
+
+Switzerland (Appenzell Ausserrhoden)
+
+3.13
+
+3.35
+
+2.76
+
+Slovenia
+
+3.40
+
+2.55
+
+3.00
+
+Latvia
+
+3.25
+
+2.83
+
+2.85
+
+Canada (Quebec)
+
+3.20
+
+2.64
+
+2.94
+
+Czech Republic
+
+3.23
+
+2.64
+
+2.86
+
+Slovak Republic
+
+2.62
+
+2.55
+
+3.38
+
+Lithuania
+
+3.25
+
+2.50
+
+2.69
+
+Austria (Federal)
+
+2.25
+
+3.29
+
+2.88
+
+Switzerland (Zurich)
+
+2.75
+
+2.59
+
+2.94
+
+Belgium (French Community)
+
+2.30
+
+1.92
+
+3.80
+
+South Africa (Pretoria)
+
+2.56
+
+2.53
+
+2.71
+
+Belgium (Flemish Community)
+
+2.75
+
+2.43
+
+2.50
+
+Switzerland (Uri)
+
+2.14
+
+1.86
+
+1.64
+
+System
+
+--- [PDF Page 103 / Book Page 101] ---
+
+Annex 4.B. List of official brokerage agencies
+reported by systems in survey
+The survey asked systems to describe the brokerage agency(ies) in their systems as part of the open
+questions. They were also asked to describe the funding, audience and activities. These descriptions can
+be categorised as follows:
+Private organisations
+
+
+“Edupreneurs”: business actors offering products and services to schools [Sweden]
+
+
+
+Educational consultancy groups [South Africa]
+
+Not-for-profit organisations
+
+
+Teacher-trainers not-for-profit organisations [South Africa]
+
+
+
+NGOs and Foundations [South Africa, Colombia, Portugal]
+
+Academy
+
+
+Universities and Teacher Education Faculties [Finland, Norway]
+
+
+
+Scholars and students groups [South Africa]
+
+Research bodies
+
+
+National institute for educational research [Finland, Costa Rica]
+
+
+
+Centres for research on learning and education [Finland]
+
+
+
+Research units on education [Finland, Norway]
+
+
+
+Centre for social science research [Denmark]
+
+
+
+Government’s analysis, assessment and research activities [Finland]
+
+
+
+Economic advisory bodies overseeing education research [Denmark]
+
+
+
+Research institute for economic analysis and modelling, with exploration and development of
+education projections [Denmark]
+
+Evaluation bodies
+
+
+Independent agencies responsible for the evaluation of national education [Finland]
+
+
+
+Centres for educational assessment [Finland]
+
+
+
+Education statistics open sites [Finland]
+
+
+
+System for monitoring the performance of the education system [Costa Rica]
+
+Other government bodies
+
+
+Edu-political apparatus (teacher certification, school inspections, new curricula) [Sweden]
+
+
+
+National agencies for education [Finland]
+
+
+
+School leadership centres supported by the Ministry [Chile]
+
+--- [PDF Page 104 / Book Page 102] ---
+
+Independent bodies
+
+
+Partially or fully public-funded independent brokerage agencies [Denmark]
+
+
+
+Grassroots organisations [Colombia]
+
+
+
+National and international experts [Colombia]

@@ -4,22 +4,25 @@ aliases:
   - 知识转移
   - geopolitics of knowledge transfer
   - knowledge in motion
-summary: "指知识在生产之后进入传授、挪用、流通、审查、窃取或破坏等动态过程的概念，用于分析知识如何在权力关系中移动。"
+summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 34
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
-- geopolitics-of-knowledge
-- knowledge-economy
-- region/global
+  - geopolitics-of-knowledge
+  - knowledge-economy
+  - theme/knowledge-mobilisation
+  - region/global
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Exchange]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Research Utilization]]"
   - "[[Junzi]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
@@ -35,9 +38,13 @@ related_concepts:
   - "[[Professors of Practice]]"
   - "[[Technology Transfer Office]]"
   - "[[Academic Engagement]]"
+  - "[[Blue Skies Research]]"
+  - "[[Technical Rationality]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Systems of Innovation]]"
+  - "[[Luhmann's Systems Theory]]"
+  - "[[Knowledge-to-Action Models]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
@@ -55,156 +62,184 @@ related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Glitz_2020_AER]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-confidence: medium
-status: draft
+  - "[[Argument_Torres_2022_KMModels]]"
+confidence: high
+status: active
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-09-12
 ---
 
 # Knowledge Transfer
 
-> [!warning]- 术语歧义
-> "knowledge transfer"（知识转移）在教育研究中有两种不同的使用脉络：
-> - **含义一（地缘政治意义）**[[Argument_Partaken_2022_Springer|Partaken (2022)]]在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）框架下的概念，指知识在被生产后进入挪用、流通、审查、窃取或破坏等动态过程——知识在权力关系中的"运动"
-> - **含义二（[[University-Industry Collaboration|产学合作]]意义）** 在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，指知识在大学与产业之间的流动——包括从非正式的人际交流到高度结构化的合同协议的全谱系
->
-> 两种含义共享"知识在主体间移动"的基本意象，但理论传统（[[Critical Geopolitics|批判地缘政治]] vs [[Systems of Innovation|创新系统]]/组织理论）、分析层次（国家/地缘政治 vs 组织/制度）和价值取向完全不同。以下分别阐述。
-
 ---
 
-## 含义一：知识转移（地缘政治意义）
+## 定义
 
-### 定义
+> [!warning]- 术语歧义
+> “knowledge transfer”（知识转移）在当代社会科学与教育研究中存在三种截然不同的使用脉络：
+> - **脉络一（知识地缘政治意义）** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）框架下的概念，指知识在被生产后进入传授、挪用、流通、审查、窃取或破坏等动态过程——知识在权力关系中的“运动”。
+> - **脉络二（产学合作与创新意义）** 在[[University-Industry Collaboration|产学合作]]与组织管理脉络中，指知识在大学与产业组织之间的流动——涵盖从非正式的人际交流到高度结构化的合同协议全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]]）。
+> - **脉络三（知识动员与循证政策意义）** 在教育知识治理与公共政策脉络中，代表[[Knowledge Mobilisation|知识动员]]历史上的第一代线性流水线范式，以 Lavis et al. (2003) 的“五问”受众战略模型为典型代表（[[Argument_Torres_2022_KMModels|Torres, 2022]]）。
+>
+> 三种脉络共享“知识在主体或场域间移动”的基本意象，但在理论传统（[[Critical Geopolitics|批判地缘政治]] vs. 创新系统理论 vs. 循证知识治理）、分析层次（国家全球地缘 vs. 大学产业组织 vs. 政策实践转化）与价值预设上截然不同。
 
-> [!info]
-> [[Argument_Partaken_2022_Springer|Partaken (2022)]] 提出，[[Geopolitics of Knowledge|知识地缘政治]]（GPK）的核心问题域应从[[Knowledge Production|知识生产]]（knowledge production）转向知识转移（knowledge transfer）。知识一旦被生产即进入挪用过程，成为知识生产者与获取者之间互动的对象——知识此时处于运动之中，可以被教授、学习、出售、购买、窃取、审查、分级、规定或公之于众。这一系列可能的运动统称为"知识转移"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.74–75]])。
+> [!def] 核心定义
+> 知识转移（Knowledge Transfer, KT）指知识客体跨越个体、组织、部门或国家边界，进入传递、吸收、转化、规训或商业化应用的流动过程。在地缘政治视域下，它是知识在非对称权力结构中被强制灌输、监视、审查或窃取的运动机制（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 74–75]]）；在产学合作视域下，它是大学通过正式契约与非正式交往向工业界辐射学术成果的制度化通道（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p. 55]]）；在循证政策视域下，它是将综合研究证据依据目标受众进行标准化包装与定向交付的战略传播流程（[[Argument_Torres_2022_KMModels|Torres, 2022, pp. 37–38]]）。
 
-> [!quote]
-> "Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of 'knowledge in motion' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship."([[Argument_Partaken_2022_Springer|Partaken, 2022, p.84]])
+> [!concept-lens] 概念透镜
+> - **含义** 指向知识在生产者与获取者之间位移的动态过程，关注知识载体、流动通道、制度中介与权力博弈。
+> - **用途** 帮助研究者超越静态的“知识生产”分析，透析知识流动过程中的不对等依附、组织协调成本以及政策吸纳障碍。
+> - **边界** 知识转移侧重知识本身的单向传递与通道架构，区别于强调双向平等互惠的[[Knowledge Exchange|知识交换]]（Knowledge Exchange），也区别于强调多方网络共创与全系统自组织的[[Knowledge Mobilisation|知识动员]]（Knowledge Mobilisation）。
+
+> [!citation-card] Partaken 论知识运动的地缘政治转向
+> 地缘政治探究不应仅仅停留在知识生产的静态特征上，而应更加关注知识在运动中的现象，如转移、传播、教学法、灌输、窃取、间谍活动、监视和审查。[[Argument_Partaken_2022_Springer|Partaken, 2022, p. 84]]
+>
+> *Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of 'knowledge in motion' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship.*
+
+> [!boundary]- 概念边界
+> - 不等于 [[Technology Transfer|技术转移]] — 技术转移特指通过专利、许可、衍生企业等知识产权法权进行的商业化流动；知识转移外延更广，涵盖学术论文、师生交流、咨询建议等非商业与隐性知识通道（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp. 53–55]]）。
+> - 不等于 [[Knowledge Exchange|知识交换]] — 知识交换暗示对等主体间的双向互惠互动；知识转移涵盖自上而下的强制、非对等转移及战略单向输送。
+> - 不等于 [[Knowledge Mobilisation|知识动员]] — 知识动员是涵盖生产、中介、使用与系统环境的多方共创复杂生态；知识转移是知识动员演化谱系中的第一代线性传递技术与物理底座（[[Argument_Torres_2022_KMModels|Torres, 2022, pp. 35–37]]）。
 
 ---
 
 ## 概念辨析
 
-> [!example]
-> - vs [[Geopolitics of Knowledge]] — 知识地缘政治是整体概念范畴，知识转移是 Partaken 主张的 GPK 核心分析维度（另一维度是[[Knowledge Production|知识生产]]）；Partaken 批评后殖民研究过度关注知识生产的"静态"特征，忽视知识在转移过程中的动态地缘政治
-> - vs 知识交换（[[Knowledge Exchange]]） — 知识交换暗示双方在对等基础上进行物物交换，政治敏感性较低（大学几乎总是在使命声明中偏好"知识交换"而非"知识转移"）；知识转移则涵盖从上至下的各种不对等流动模态([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])
-
----
-
-## 概念演变
-
-> [!note]-
-> "知识转移"作为地缘政治概念的分析重心转移，经历了从哲学命题到地缘教义再到 [[Geopolitics of Knowledge|GPK]] 分析工具的演变：
-> - **希腊形而上学根基** 关于 agathos（善）的理论经新[[Plato|柏拉图]]主义（Pseudo-Dionysius）和新[[Aristotle|亚里士多德]]主义（Thomas Aquinas）发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，具有自我传播和扩散的天然倾向([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]]; McClymond, 2010, p.92)
-> - **古典等级制的障碍** 然而恰恰因为知识是善，其转移从未畅通无阻——从 Plato 的"agathos kai sophos"（善且智）和 [[Confucius]] 的"[[Junzi|君子]] junzi"以来，知识始终与智识和社会等级制相联系(; Park, 2016)
-> - **Bacon 到德国地缘教义** Bacon "knowledge is power"（1597）在 17 世纪仍表达为神学中的神圣属性（potestas Dei）；到 19 世纪德国统一后，演变为地缘政治教义——"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）——服务于扩张主义和霸权政治([[Argument_Partaken_2022_Springer|Partaken, 2022, p.67–68]]; Shimazu, 2015)
-> - **Katz 的权力独立冲突源**Katz (1965) 论证权力不仅是获取经济优势或意识形态最大化的手段，"它本身就是冲突的独立来源"（p.374）——这一论断将知识转移从"工具"提升为 GPK 中独立的地缘政治冲突[[Champ|场域]]
-> - **Partaken 的[[Paradigm|范式转换]]** 2022 年 Partaken 明确提出 GPK 的分析重心应从[[Knowledge Production|知识生产]]（后殖民传统的焦点）转向知识转移——知识在运动中的挪用、传授、窃取、审查、监视和破坏的动态过程，才是[[Decodification|解码]]当代新自由全球化中新殖民动力的关键([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]])
+> [!contrast-table] 知识转移的三大理论脉络多维比照
+> | 维度 | 脉络一：知识地缘政治（GPK） | 脉络二：产学合作与创新（UIC） | 脉络三：知识动员第一代范式（KMb） |
+> |---|---|---|---|
+> | **核心分析对象** | 国家与霸权体系中的“知识运动” | 大学与产业界之间的知识流动 | 研究成果向决策者与实践者的战略传递 |
+> | **主导理论范式** | [[Critical Geopolitics\|批判地缘政治]]、福柯权力论 | 创新系统理论（NIS）、组织战略理论 | 循证卫生与公共政策分析、信息传播学 |
+> | **关键流动机制** | 强制灌输、间谍窃取、审查屏蔽、网络破坏 | 赞助研究、专利许可、合作教育、学术参与 | 五问战略受众分析、信息提炼、传播基建 |
+> | **行动者权力预设** | 严重不对等、充满地缘博弈与强制服从 | 互利合同交换、市场导向契约合作 | 供给推动为主、预设受众为被动吸收容器 |
+> | **代表文献与学者** | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]]; Cohen et al. (2002) | Lavis et al. (2003); [[Argument_Torres_2022_KMModels\|Torres (2022)]] |
 
 ---
 
 ## 核心要素
 
-> [!abstract]
-> Partaken 识别出知识转移在 [[Geopolitics of Knowledge|GPK]] 中运作的六种模态([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–84]])：
-> - **[[Forced Knowledge Transfer]]** 通过规定、胁迫和暴力进行的自上而下知识灌输，以 Freire 的"银行概念"和日本帝国 [[Kokutai no Hongi]] 为典型案例
-> - **[[Economic and Industrial Espionage]]** 国家支持或非国家行为者通过非法手段获取有价值知识，以 中美技术紧张 为当代核心案例
-> - **监视（Surveillance）** 通过大规模数据收集监控个体与群体的知识行为，以 Foucault 全景敞视主义为其运作逻辑，[[China Social Credit System]] 为当代典范
-> - **审查（Censorship）** 通过阻断知识获取和言论自由来干涉知识转移，以 [[Great Firewall of China]] 为制度典范
-> - **[[Knowledge Sabotage]]** 蓄意破坏敌对方的知识资产，以网络攻击为主要当代形式
-> - **知识交换（[[Knowledge Exchange]]）** 在相对对等基础上的双向知识流动，是更平等的替代模态但非当前国际关系的默认状态
+> [!feature] 知识转移的多维核心要素
+> - **地缘转移的六大运动模态（Geopolitical Modalities）** 涵盖[[Forced Knowledge Transfer|强制知识转移]]（自上而下灌输）、[[Economic and Industrial Espionage|经济与工业间谍]]（跨国技术窃取）、监视（Surveillance 大规模数据监控）、审查（Censorship 信息阻断）、[[Knowledge Sabotage|知识破坏]]（网络攻击）以及对等[[Knowledge Exchange|知识交换]]（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 75–84]]）。
+> - **产学转移的多重通道连续体（Formal-Informal Spectrum）** 分布于从非正式渠道（学术文献、校友网络、非正式对话）、半正式渠道（[[Cooperative Education|合作教育]]、[[Professors of Practice|实践教授]]聘任）到正式合同渠道（赞助研究、知识产权许可、数据协议）的全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp. 54–55]]）。
+> - **中介组织载体（Intermediary Offices）** 在大学层面依托知识转移办公室（KTO）或[[Technology Transfer Office|技术转移办公室]]（TTO），承担“信息科学链接”与“交易谈判专家”双重职能。
+> - **Lavis 五问受众战略构件（Lavis's 5-Question Framework）** 涵盖信息（综合研究结论而非单一生硬数据）、目标受众（公众、实践者、管理决策者、政策制定者）、传递者（信誉公信力保障）、转移流程与通信基建（双向支持网络）以及战略成效评估（[[Argument_Torres_2022_KMModels|Torres, 2022, pp. 37–38]]）。
+
+> [!logic-map]- 要素结构关系
+> ```mermaid
+> flowchart TD
+>     subgraph Geopolitics ["地缘政治语境 (权力与控制)"]
+>         GPK1["知识运动: 灌输 / 间谍 / 审查 / 破坏"]
+>     end
+> 
+>     subgraph Industry ["产学创新语境 (组织与渠道)"]
+>         UIC1["非正式交流 <br>(学术发表/校友)"] --> UIC2["半正式合作 <br>(实习/实践教授)"]
+>         UIC2 --> UIC3["正式契约 <br>(专利/赞助研究/KTO)"]
+>     end
+> 
+>     subgraph Mobilisation ["循证治理语境 (战略与传播)"]
+>         KM1["信息清洗与综合"] --> KM2["受众情境画像"]
+>         KM2 --> KM3["可信传递者交付"]
+>         KM3 --> KM4["通信基建与成效评估"]
+>     end
+> 
+>     GPK1 --- KT["知识转移 (Knowledge Transfer)<br>知识客体在主体与场域间的位移"]
+>     UIC3 --- KT
+>     KM4 --- KT
+> ```
 
 ---
 
-## 理论基础
-
-> [!abstract]
-> Partaken 的知识转移概念建立在对后殖民 [[Geopolitics of Knowledge|GPK]] 研究的批判之上：
-> - 后殖民 GPK 分析传统（Fanon → Mignolo → [[Chen Kuan-Hsing]]）关注[[Knowledge Production|知识生产]]——谁生产知识、以何种视角、为谁的利益([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72–74]])
-> - Partaken 认为，从殖民主义以来 GPK 的真正核心一直是知识转移而非其生产；知识转移的分析能够更好地[[Decodification|解码]]当代新自由全球化中的新殖民动力([[Argument_Partaken_2022_Springer|Partaken, 2022, p.74–75]])
-> - 哲学基础：希腊形而上学中关于 agathos（善）的理论——"omne bonum diffusum sui est"（一切善倾向于自我扩散），知识作为善倾向于在人群中传播([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]])
+## 围绕概念形成的命题
 
 ---
 
-## 实证发现
+### 命题一　知识转移是地缘政治权力冲突的独立场域且比知识生产更能解码当代全球不平等
 
-> [!success]
-> - 欧洲学术专利中 60%–81% 为工业公司所有（视国家而定），而美国大学拥有 68.7% 的学术专利——说明知识在学术生产后即发生所有权转移，模式因国家制度环境而异([[Argument_Partaken_2022_Springer|Partaken, 2022, p.71]]; Lissoni, 2012)
-> - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] 对东德国家支持的经济间谍的大规模研究证明，间谍活动有效缩小了东德与西德之间的工业技术差距([[Argument_Partaken_2022_Springer|Partaken, 2022, p.77]])
-> - 中国已成为最大的网络攻击来源国：约 27% 的网络攻击直接来自中国，计入重定向攻击可达 41%（Baig, 2017; 引自 Partaken, 2022, p.83）
+> [!concept-lens] 知识地缘政治分析重心转向
+> 批判后殖民研究长期将重心偏置于知识生产的静态特征，确立知识运动与转移在权力宰制中的独立冲突源地位。
+
+> [!claim] [[Argument_Partaken_2022_Springer|Partaken (2022)]]
+> **知识在运动中的地缘权力冲突** 知识一旦被生产即进入挪用与流通，成为生产者与获取者互动的客体。权力不仅是获取经济利益的工具，更是独立的冲突根源（Katz, 1965）。当代新自由全球化中的新殖民动力与地缘对抗，主要不是体现在知识是在何处被生产的，而是体现在知识在跨国流动中如何遭遇[[Forced Knowledge Transfer|强制转移]]、国家支持的[[Economic and Industrial Espionage|工业间谍]]、全景敞视式数据监视与审查阻断。知识转移本身构成了独立的地缘政治博弈场域。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 74–75, 84)]]
+
+---
+
+### 命题二　产学知识转移超越商业化技术专利且高度依赖非正式与半正式多重渠道支撑
+
+> [!concept-lens] 产学知识转移渠道全谱系
+> 纠正将产学知识流动窄化为专利许可的商业偏误，确立隐性交往与组织边界跨越的基础价值。
+
+> [!claim] [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]]
+> **全谱系多通道流动与中介双重功能** 大学与产业界的知识转移绝不仅限于专利许可和衍生公司等商业化技术转移（[[Technology Transfer]]）。文献发表、校友交往、师生面对面咨询等非正式渠道，以及学生实习、[[Cooperative Education|合作教育]]等半正式渠道，构成了工业界吸收大学隐性知识最广泛且最频繁的通路。知识转移办公室（KTO）必须同时兼顾“信息链接”与“法务交易专家”功能，才能有效维系这一跨界连续体。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 53–55)]]
 
 ---
 
-## 相关案例／政策
+### 命题三　线性知识转移模型虽受限于推力偏误但构成了现代复杂证据生态的物理底层
 
-> [!example]
-> - [[Sino-American Trade War]] — 中美知识转移紧张关系的贸易与安全维度
-> - [[Kokutai no Hongi]] — [[Forced Knowledge Transfer|强制知识转移]]的殖民历史案例
-> - [[Great Firewall of China]] — 审查模态的核心制度工具
-> - [[Thousand Talents Program]] — 跨越合法与非法边界的知识转移机制
+> [!concept-lens] 知识动员代际演进中的定位
+> 阐明第一代线性传递模型在克服行动者矮化局限的同时，其信息加工与通信基建为高级系统生态提供不可替代的底线支撑。
+
+> [!claim] Lavis et al. (2003) / [[Argument_Torres_2022_KMModels|Torres (2022)]]
+> **流水线局限与底层可及性基石** 传统知识转移假定知识是去情境化的货品，误以为只要经由中介包装顺畅交付，实践端便会自然采纳，这一假设遮蔽了实践者的决策情境与[[Professional Judgment|专业判断]]。然而，Lavis 等人通过“五问战略框架”确立的受众差异化画像、综合信息提炼、可信传递者遴选与通信基础设施，并未随第三代复杂生态学模型的兴起而失效，而是构成了全系统知识动员赖以运转的物理底层与底线可及性保障。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 35–38)]]
 
 ---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **地缘冲突命题** | 确立知识运动与转移在地缘政治中的独立场域地位，解构非对称权力模态 | 跨国技术竞争、审查体系、国家技术安全与后殖民批判 | [[Argument_Partaken_2022_Springer\|Partaken (2022)]] |
+> | **组织通道命题** | 确立产学知识转移超越专利的技术全谱系，揭示非正式渠道与中介功能 | 大学技术转移、产学合作教育、知识经济战略 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]] |
+> | **生态基石命题** | 揭示第一代流水线转移的行动者局限及其作为复杂生态物理底座的价值 | 知识动员战略规划、政策研究受众定制、循证知识传播基础设施 | Lavis et al. (2003); [[Argument_Torres_2022_KMModels\|Torres (2022)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 知识转移的演变历程
+> - **古典与经院哲学根基** 希腊哲学善的理论经伪狄奥尼修斯与托马斯·阿奎那提炼为拉丁箴言 *omne bonum diffusum sui est*（一切善倾向于自我扩散），确立知识天然具有在人群中扩散的本体倾向；但古典等级制（柏拉图智者、儒家[[Junzi|君子]]）始终制约着转移的平权性（[[Argument_Partaken_2022_Springer|Partaken, 2022, p. 75]]）。
+> - **17–19世纪 — 从神学权力到地缘教义** 培根“知识即权力”（1597）在 19 世纪德国统一后被改造为扩张主义地缘政治教义——“地理知识即世界权力”，知识转移成为服务于国家霸权领土扩张的工具（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 67–68]]）。
+> - **1980s — 大学拜杜法案与产学知识转移兴起** 伴随知识经济崛起，欧美大学成立知识转移办公室（KTO），知识转移在管理学中确立为技术商业化与校企隐性知识流动的核心概念。
+> - **2003 — 循证卫生决策中的 Lavis 战略框架** Lavis et al. (2003) 提出“五问”受众战略模型，标志着循证政策领域第一代知识转移分析工具的成熟。
+> - **2010–2022 — 知识动员三代演进与再定位** Best & Holmes (2010) 与 [[Argument_Torres_2022_KMModels|Torres (2022)]] 确立知识转移作为知识动员第一代线性模型的历史地位，阐明其向关系协同与自适应复杂系统模型的代际跨越。
+> - **2022 — 知识地缘政治（GPK）分析范式转换** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 系统提出将批判地缘政治的核心从“知识生产”转向“知识转移”，界定知识在运动中的六大控制模态。
 
 ---
 
 ## 争议与批评
 
-> [!warning]
-> - **"生产 vs 转移"是否构成虚假对立** Partaken 将[[Knowledge Production|知识生产]]与知识转移呈现为"两面"（two faces），但两者在实际中是否可清晰分离存疑——知识在生产过程中已包含转移（如合作研究、学术出版），而知识在转移过程中也发生着生产（如教学中的知识重构）。Partaken 本人承认后殖民传统关注知识生产有其历史合法性，但他将两者作为分析范畴对立起来的做法，可能低估了二者的交织程度([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.72–75]])
-> - **知识转移作为[[Analytic Framework|分析框架]]的[[Value Neutrality|价值中立]]问题** Partaken 将六种模态从"强制转移"到"知识交换"按合法性递减排列，但"交换"本身在不对等权力结构中也可能是不平等的——如南北学术合作中的知识提取。该框架对"交换"的理想化预设需要进一步检视([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])
-> - **经验基础的限制** Partaken 主要依赖中美案例验证知识转移框架，但六模态类型学是否适用于其他 [[Geopolitics of Knowledge|GPK]] 情境（如欧盟内部知识流动、南南合作、非国家行为者之间的知识转移）尚待检验
+> [!debates] 学术争议
+>
+> > [!axis] “知识生产 vs. 知识转移”的分离是否构成虚假二元对立
+> > 批评者质疑能否在经验上将知识生产与知识转移截然分开。
+> >
+> > - **[[Argument_Partaken_2022_Springer|Partaken (2022)]]** 主张将知识生产与转移视为两面，强调后殖民传统过度聚焦生产，必须将转移确立为独立的分析范畴。
+> > - **建构主义与行动者网络学者** 指出知识在转移与教学过程中时刻发生着再生产与本地转译，两者不可分割。
+>
+> > [!axis] 线性转移模型的“受众被动容器”假设
+> > 知识动员学者批评线性转移框架遮蔽了一线教师与决策者的能动性。
+> >
+> > - **传统传播技术论者** 认为只要优化信息清晰度与分发渠道，就能消除政策与实践的证据赤字。
+> > - **[[Argument_Torres_2022_KMModels|Torres (2022)]]** 批判线性转移将实践者窄化为被动吸收信息的末端容器，强调必须由关系互动与自组织生态取而代之。
 
 ---
 
-## 含义二：知识转移（产学合作意义）
+## 实证数据
 
-### 定义
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] | 东德（冷战时期）与西德工业部门 | 历史档案计量分析与行业面板数据 | 国家支持的经济间谍活动与全要素生产率差距 | 间谍获取的工业机密显著缩小了东德与西德之间的技术生产率差距 | $p < 0.01$ | 揭示非对等非法知识转移在地缘技术追赶中的真实效力 |
+> | Lissoni (2012) 与 Baig (2017)；引于 [[Argument_Partaken_2022_Springer\|Partaken (2022)]] | 欧美大学学术专利（Lissoni）与全球网络安全攻击源（Baig） | 跨国数据库比较与流量监控统计 | 专利归属比例与跨国知识攻击源占比 | 欧洲 60%–81% 专利归工业公司所有；约 27%（重定向达 41%）攻击源自特定来源国 | — | 实证支持产学产权转移与网络空间知识破坏的地缘现实 |
 
-> [!info]
-> 在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，知识转移（knowledge transfer）指知识在大学与产业之间的流动——包括从非正式的个人交流到高度结构化的合同协议的全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.55]]）。
+---
 
-与[[Technology Transfer|技术转移]]不同，知识转移是一个更宽泛的概念：技术转移特指通过知识产权制度（专利、许可、衍生企业）进行的**商业化导向**的知识流动，而知识转移还包括非商业化的、非正式的知识流动——学术[[Document|文献]]、会议报告、校友网络中的信息交流、学生实习中的技能传递，以及教师咨询中的隐性知识分享（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.53–55]]）。
+## 相关研究
 
-> [!quote]
-> "Knowledge sharing and technology transfer are common components, but the exact form varies over a spectrum from informal conversations to highly structured contractual agreements."（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.55]]）
-
-### 转移渠道：正式与非正式
-
-> [!example]
-> Boccanfuso & Hall（2025, pp.54–55）总结了产学知识转移的多种渠道，分布于一个从非正式到正式的连续体上：
-
-**非正式渠道**（不涉及合同或机构协议）：
-- 学术文献和会议报告——公开发表的知识，对所有人开放
-- 校友网络和与前学生的非正式交流
-- 教师与产业从业者的个人[[Dialogue in Education|对话]]
-
-**半正式渠道**（涉及机构安排但不涉及知识产权交易）：
-- 学生实习和[[Cooperative Education|合作教育]]（co-ops）——学生作为知识载体在两界之间移动
-- 产业从业者担任兼职讲师或[[Professors of Practice|实践教授]]
-- 联合会议和工作坊
-
-**正式渠道**（通过合同和机构协议管理）：
-- 产业赞助研究——通过赞助项目办公室谈判合同
-- 技术许可——通过[[Technology Transfer|技术转移]]办公室管理知识产权
-- 合资企业和联合体
-- 数据与材料转移协议
-
-Cohen et al.（2002）系统记录了这些多样化的渠道，并指出不同渠道在不同产业和不同大学中的重要性差异显著（转引自 Boccanfuso & Hall, 2025b, p.54）。
-
-### 组织载体：知识转移办公室
-
-> [!note]-
-> 在大学组织层面，知识转移通常由知识转移办公室（Knowledge Transfer Offices, KTOs）或[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Offices, TTOs）负责（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
-
-Brescia et al.（2016）对 200 所高排名大学的调查发现，知识转移的组织方式存在显著差异——有的采用内部专门办公室，有的依赖外部机构，有的嵌入科研副校长办公室——没有统一的标准模式（转引自 Boccanfuso & Hall, 2025b, p.54）。
-
-Debackere & Veugelers（2005）进一步指出，有效的知识转移办公室需要同时扮演两种角色："信息科学链接"（information science links）——连接分散的研究团队与产业伙伴，以及"交易专家"（transaction specialists）——在许可谈判中精确定义权利和义务（转引自 Boccanfuso & Hall, 2025b, p.54）。这两种角色对应知识转移的两种基本功能：**建立联系**（非正式/半正式端）和**管理交易**（正式端）。
-
-### 概念辨析
-
-> [!example]
-> - vs [[Technology Transfer]] — 技术转移是知识转移的一个**子集**，特指通过正式知识产权制度（专利、许可、衍生企业）进行的商业化导向的知识流动。知识转移的范围更广，包括了非正式和非商业化的知识流动形式（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.53–55]]）
-> - vs [[Knowledge Exchange]] — 在产学合作文献中，知识交换（Knowledge Exchange）通常暗示双方在更对等的基础上进行双向知识流动，政治敏感性较低；知识转移则更中性，涵盖各种流向。Boccanfuso & Hall（2025）未严格区分二者，但 Ch3 更倾向于使用 "engagement" 来涵盖从知识转移到联合创造的全谱系
-> - vs [[Academic Engagement|学术参与]]（产学） — Perkmann et al.（2013）的"学术参与"概念与知识转移有重叠但侧重不同：学术参与强调**学者的个人行为**（咨询、联合研究、会议交流），知识转移强调**知识本身的流动过程**和**制度安排**。前者侧重行动者，后者侧重对象和渠道
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 奠定知识地缘政治（GPK）中的知识转移概念，系统提出知识在运动中的六大权力模态。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 阐释产学合作中的知识转移全谱系，区分正式知识产权交易与非正式/半正式人际渠道。
+> - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] — 提供国家支持经济间谍实现强制性知识转移的大规模实证计量证据。
+> - [[Argument_Torres_2022_KMModels|Torres (2022)]] — 梳理知识动员中的第一代线性知识转移模型（Lavis 五问框架），阐明其向关系协同与自组织生态演进的脉络。

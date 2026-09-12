@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 29
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 35
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "international-organization"
 headquarters: "法国巴黎（Paris, France）"
@@ -29,19 +29,22 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[Lifelong Learning]]"
+  - "[[Epistemic Governance]]"
+  - "[[Evidence Ecosystem]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Reflexivity]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Creativity Assessment]]"
   - "[[New Public Management]]"
   - "[[Dialogue in Education]]"
-  - "[[Knowledge Production]]"
+  - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Growth]]"
   - "[[Creativity]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Performance Indicators]]"
+  - "[[Construct]]"
   - "[[Critical Thinking]]"
 related_theories: []
 related_methods: []
@@ -56,12 +59,15 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
+  - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Gorur_2014_Discourse]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Revai(Ed.)_2022_OECD]]"
 confidence: high
 status: active
 created: 2026-09-11
@@ -90,7 +96,9 @@ updated: 2026-09-12
 > [!dev-timeline]- 组织发展历程
 > - **1968–1970 年代 — 概念突破与前瞻实验期** 1968 年创立后，CERI 迅速打破传统[[OECD|经合组织]]单纯依赖劳动力宏观预测的局限，积极吸收欧洲激进教育学与[[Lifelong Learning|终身学习]]思想；1973 年发布里程碑式报告《循环教育：终身学习策略》（*Recurrent Education: A Strategy for Lifelong Learning*），率先将教育从青年期终结的封闭形态重塑为贯穿个体生命全程的弹性制度；同期发起首批跨国指标试错探索。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 10)]]
 > - **1980–1990 年代 — 指标孵化与实证帝国奠基** 1983 年美国《国家处在危险之中》报告发布后，里根政府教育部门转向 CERI 寻求跨国比较方案；在 CERI 资深主管 [[Jarl Bengtsson]] 推动下，该中心于 1988 年正式孵化设立[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络，由教育社会学家 [[Norberto Bottani]] 挂帅长达十年，成功奠定了《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG）的生产母体，并直接催生了后来的[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 5, 8)]]
-> - **2000 年代至今 — 未来学校构想与高阶素养量规研发** 进入 21 世纪，随着大型评测与常规指标转交教育与技能司行政流水线，CERI 回归前瞻实验室定位；先后推出“明日学校”（Schooling for Tomorrow）情境规划项目与[[Definition and Selection of Competencies|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）基础理论工程；2019 年研制发布跨学科[[Higher-Order Thinking Skills|高阶思维]]评价量规，2021 年启动“强化教育研究影响”倡议，推动从机械证据中介向[[Reflexivity|反思性]]协作参与转向。[[Argument_Bouckaert_2023_OECD|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 108)]]
+> - **2000 年代至今 — 未来学校构想、[[Epistemic Governance|知识治理]]探索与高阶素养量规研发** 进入 21 世纪，随着大型评测与常规指标转交教育与技能司行政流水线，CERI 全面深化其前瞻实验室与教育知识治理智库定位：
+>   - **知识管理与证据治理深耕** 2000/2003 年率先开展跨部门知识治理与教育研发调查，2007 年出版划时代旗舰专著《Evidence in Education: Linking Research and Policy》；2010 年发布《The Nature of Learning》汇聚学习科学成果；针对多国教师开展“教师知识调查”（Teacher Knowledge Survey，TKS）；2021 年立项实施覆盖 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem|证据生态系统]]宏观政策诊断工具。[[Argument_Revai_2022_ChangingLandscape|(OECD, 2000, 2003, 2007; Révai, 2022, pp. 16–27)]]
+>   - **前瞻情境与真实素养量规** 先后推出“明日学校”（Schooling for Tomorrow）情境规划项目与[[Definition and Selection of Competencies|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）基础理论工程；2019 年研制发布跨学科[[Higher-Order Thinking Skills|高阶思维]]评价量规，推动从机械证据中介向[[Reflexivity|反思性]]协作参与转向。[[Argument_Bouckaert_2023_OECD|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 108)]]
 
 ---
 
@@ -98,11 +106,11 @@ updated: 2026-09-12
 
 > [!actor-grid] 组织治理架构
 > - **CERI 领导理事会（Governing Board）** 由各参与成员国任命的杰出教育学者、资深[[Policy Science in Comparative Education|政策科学]]家与高级规划官员组成，独立于 [[OECD]] 传统政府间代表大会，享有自主决定中长期研究优先议题的权力。
-> - **中心管理团队与资深主管** 历任领导层（如 [[Jarl Bengtsson]], [[Norberto Bottani]], Stéphan Vincent-Lancrin）多具备深厚的社会学、经济学或测量学学术背景，擅长在学术纯粹性与政策应用性之间寻求精妙平衡。
+> - **中心管理团队与资深主管** 历任领导层（如 [[Jarl Bengtsson]], [[Norberto Bottani]], Stéphan Vincent-Lancrin）及当代项目主管（如 Nóra Révai）多具备深厚的社会学、经济学、测量学与政策分析学术背景，擅长在学术纯粹性与政策应用性之间寻求精妙平衡。
 > - **跨国大学与独立智库协同网络** 与全球顶尖大学、教育科学院及基金会研究人员建立项目制紧密联盟，承担探索性田野试验、心理测量建模与质性案例研讨。
 
 > [!pathways]- 业务运行机制
-> - **前瞻情境研判与先导试验** 针对尚未形成政策共识的边缘议题（如人工智能在教学中的伦理边界、教师[[Creativity Assessment|创造力评价]]、神经科学与学习机制）设立中短期探索课题，先行开发原型工具。
+> - **前瞻情境研判与先导试验** 针对尚未形成政策共识的边缘议题（如人工智能在教学中的伦理边界、教师[[Creativity Assessment|创造力评价]]、神经科学与学习机制、[[Evidence Ecosystem|教育证据生态系统]]）设立中短期探索课题，先行开发原型工具。
 > - **制度化概念孵化与成果交割** 一旦探索性项目验证成功并具备全球推广价值，CERI 便将其机制化交割给经合组织常设行政司局（如 [[International Indicators of Education Systems|INES]] 项目成熟后移交教育与技能司，[[Definition and Selection of Competencies|DeSeCo]] 框架成熟后交由 [[PISA]] 实施）。
 > - **循证参与与信任生态倡导** 近年来积极反思[[New Public Management|新公共管理]]模式下的单向知识传输，倡导在科研工作者与一线教师之间建立多维[[Dialogue in Education|对话]]与审慎参与生态。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 108)]]
 
@@ -114,7 +122,7 @@ updated: 2026-09-12
 > - **前瞻政策理念框架** 循环教育（Recurrent Education）构想、“明日学校”六大情境模型、[[Definition and Selection of Competencies|DeSeCo]] 关键素养理论框架。
 > - **跨国评估与指标基础设施原型** 1988 年创设的 [[International Indicators of Education Systems|INES]] 项目网络及其孵化的《[[Education at a Glance|教育概览]]》前三版。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8, 14)]]
 > - **质性与真实性表现量规** 研发贯穿探究、想象、实作与反思维度的[[OECD Rubrics for Creativity and Critical Thinking|创造力与批判性思维评价量规]]（CERI Rubrics），为全球高校与基础教育提供了超越标准化客观题的校本评价支架。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 28, 30)]]
-> - **教育研究生态白皮书** 连续出版探讨[[Knowledge Production|知识生产]]、循证研究应用及教育前沿技术趋势的学术专著与研究丛书。
+> - **教育[[Epistemic Governance|知识治理]]与研发网络系列专著** 连续出版探讨教育知识管理、循证政策与[[Research Utilization|研究利用]]生态的旗舰学术专著：涵盖《Evidence in Education》（2007）、《The Nature of Learning》（2010）、教师知识调查（TKS）成果丛书及《Who Cares about Using Education Research in Policy and Practice?》（2022），系统构建跨国[[Evidence Ecosystem|证据生态系统]]政策诊断工具。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
 
 > [!citation-card] CERI 论从证据中介向研究参与的[[Paradigm|范式]]转向
 > 在数据问责的驱动下，标准化的“证据本位”做法往往退化为对研究的[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]；真正的专业变革必须从浅层的“知识中介”转向深度的“专业参与”，而审慎深入的参与唯有在充分信任与专业自主的制度环境中方能扎根[[Growth|生长]]。
@@ -159,6 +167,8 @@ updated: 2026-09-12
 > | [[OECD Rubrics for Creativity and Critical Thinking]] | Instrument | CERI 研发并推广的[[Higher-Order Thinking Skills\|高阶思维]]评价量规。 |
 > | [[Norberto Bottani]] | Person | CERI 资深研究员，受命领衔 INES 项目长达十年的关键奠基人。 |
 > | [[Sputnik Shock 1957]] | Fact (Event) | 推动西方阵营建立教育研发与创新机制的历史发端。 |
+> | [[Strengthening the Impact of Education Research Project]] | Fact (Program) | CERI 2021 年发起的旗舰项目，系统调研 29 国证据生态治理机制。 |
+> | [[Evidence Ecosystem]] | Concept | CERI [[Epistemic Governance\|知识治理]]业务线倡导的新一代宏观系统[[Construct\|构念]]。 |
 
 ---
 
@@ -169,3 +179,5 @@ updated: 2026-09-12
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 记录 CERI 在 1980 年代孕育指标网络与《[[Education at a Glance|教育概览]]》的科学争论档案，呈现学者与决策者围绕数据通约性的博弈。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统评析 OECD CERI 在高等教育领域推行的[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]原型评价量规及其在真实教学情境中的赋能机制。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 引述 CERI 近年来关于“加强教育研究影响”的政策反思，探讨超越机械循证中介、迈向专业信任与协作参与的新路径。
+> - [[Argument_Revai_2022_ChangingLandscape|Révai, N. (2022)]] — 梳理 CERI 20 年知识管理与证据治理研究脉络，基于跨国政策调查构建五维[[Evidence Ecosystem|证据生态系统]]诊断框架。
+> - [[Argument_Revai(Ed.)_2022_OECD|Révai, N. (Ed.) (2022)]] — CERI [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]综合成果专著，全面呈现 29 国 37 个教育系统证据治理调研结论。

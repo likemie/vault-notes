@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_ER"
 argument_key: "Argument_Nelson_2017_ER"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -82,6 +82,7 @@ related_persons:
 related_facts:
   - "[[Elementary Teachers' Federation of Ontario]]"
   - "[[National Center for Research in Policy and Practice]]"
+  - "[[Teaching and Learning Research Programme]]"
   - "[[ResearchED]]"
   - "[[Knowledge Network for Applied Education Research]]"
   - "[[OECD]]"
@@ -92,7 +93,7 @@ sources:
 part_of: ""
 status: draft
 created: "2026-05-01"
-updated: 2026-09-02
+updated: 2026-09-12
 ---
 # Argument_Nelson_2017_ER
 
@@ -183,7 +184,7 @@ updated: 2026-09-02
 > [!timeline] EIP 发展的制度脉络与关键节点
 > - **1979 — [[Research Utilization|研究利用]]理论奠基** Weiss (1979) 提出研究利用的多元模式，打破研究必然直接指导决策的[[Technical Rationality|技术理性]]设想，为理解证据如何进入教育实践提供早期理论基石。
 > - **1996 — 教学作为研究本位专业** Hargreaves (1996) 发表演讲，倡导将教学重塑为由研究支撑的专业，引发英美等国关于教育证据角色的大规模政策论争。
-> - **2000s–2010s — 国际系统化改革与研究计划** 英国启动“教学与学习研究计划”（Teaching and Learning Research Programme, TLRP）（Parsons & Burkey, 2011; Pollard, 2011）；美国推行强化教育问责与严格因果证据标准的联邦政策（Slavin, 2004; Easton, 2010）；加拿大安大略省实施全面的教育研究与评估战略（Campbell, 2014）。
+> - **2000s–2010s — 国际系统化改革与研究计划** 英国启动“教学与学习研究计划”（[[Teaching and Learning Research Programme]], TLRP）（Parsons & Burkey, 2011; Pollard, 2011）；美国推行强化教育问责与严格因果证据标准的联邦政策（Slavin, 2004; Easton, 2010）；加拿大安大略省实施全面的教育研究与评估战略（Campbell, 2014）。
 > - **2013 起 — 草根证据运动兴起** 英国一线教师自发发起 [[ResearchED]] 运动，证据知情取向的特许教学学院（Chartered College of Teaching）正式成立。
 > - **2015 — 翻转系统话语** Evers & Kneyber (2015) 编著出版《Flip the System》，国际学界与实践界掀起倡导由教师[[Professional Judgment|专业判断]]引领教育变革、抗衡自上而下行政问责的自下而上浪潮。（pp.127–128）
 

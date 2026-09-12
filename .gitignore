@@ -13,3 +13,7 @@ books/**/*.pdf
 books/**/*.PDF
 books/**/*.epub
 books/**/*.EPUB
+
+# Office / Word lock & temporary files
+~$*
+*.tmp

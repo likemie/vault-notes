@@ -3646,6 +3646,16 @@
     ]
   },
   {
+    "title": "Engaged Scholarship",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Engaged Scholarship.md",
+    "aliases": [
+      "参与式学术",
+      "合作式学术",
+      "协作式学术"
+    ]
+  },
+  {
     "title": "Evaluation Research",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evaluation Research.md",
@@ -3671,6 +3681,18 @@
     ]
   },
   {
+    "title": "Evidence Ecosystem",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md",
+    "aliases": [
+      "证据生态系统",
+      "教育证据生态系统",
+      "research ecosystem",
+      "evidence ecosystems",
+      "教育研究生态系统"
+    ]
+  },
+  {
     "title": "Evidence-Based Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
@@ -3691,12 +3713,33 @@
     ]
   },
   {
+    "title": "Evidence-Informed Decision-Making",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence-Informed Decision-Making.md",
+    "aliases": [
+      "证据知情决策",
+      "证据知情决策制定",
+      "EIDM"
+    ]
+  },
+  {
     "title": "Evidence-Informed Practice",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md",
     "aliases": [
       "证据知情实践",
       "EIP"
+    ]
+  },
+  {
+    "title": "Evidence-Innovation Knowledge Dynamics",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence-Innovation Knowledge Dynamics.md",
+    "aliases": [
+      "证据-创新知识动力学",
+      "证据-创新知识动力学模型",
+      "证据创新生态知识动力学",
+      "Knowledge Dynamics in Evidence-Innovation Ecosystem"
     ]
   },
   {
@@ -3803,6 +3846,16 @@
     ]
   },
   {
+    "title": "Knowledge Mediation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Knowledge Mediation.md",
+    "aliases": [
+      "知识中介",
+      "知识中介功能",
+      "知识中介机制"
+    ]
+  },
+  {
     "title": "Knowledge Mobilisation",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md",
@@ -3810,7 +3863,12 @@
       "知识动员",
       "知识转译",
       "KMb",
-      "knowledge mobilization"
+      "knowledge mobilization",
+      "Three Generations of Knowledge Mobilisation",
+      "知识动员三代演进模型",
+      "知识动员三代模型",
+      "嵌套系统模型",
+      "Three Generations of KMb"
     ]
   },
   {
@@ -4094,7 +4152,8 @@
     "aliases": [
       "研究-实践伙伴关系",
       "研究实践合作",
-      "RPP"
+      "RPP",
+      "Research-Practice Partnerships"
     ]
   },
   {
@@ -10598,7 +10657,9 @@
     "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md",
     "aliases": [
       "卢曼系统理论",
-      "系统理论"
+      "系统理论",
+      "Luhmannian Systems Theory",
+      "社会系统理论"
     ]
   },
   {
@@ -10815,6 +10876,17 @@
       "QURE",
       "研究证据质量使用框架",
       "Quality Use of Research Evidence"
+    ]
+  },
+  {
+    "title": "Research Knowledge Mobilisation Model",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Research Knowledge Mobilisation Model.md",
+    "aliases": [
+      "研究知识动员模型",
+      "RKM",
+      "Levin's RKM Model",
+      "莱文研究知识动员模型"
     ]
   },
   {
@@ -19876,6 +19948,16 @@
     ]
   },
   {
+    "title": "Strengthening the Impact of Education Research Project",
+    "type": "fact",
+    "path": "wiki/facts/global/Strengthening the Impact of Education Research Project.md",
+    "aliases": [
+      "强化教育研究影响力项目",
+      "OECD Strengthening the Impact of Education Research",
+      "SIER Project"
+    ]
+  },
+  {
     "title": "Systems Approach for Better Education Results",
     "type": "fact",
     "path": "wiki/facts/global/Systems Approach for Better Education Results.md",
@@ -21244,6 +21326,17 @@
       "科学智慧项目",
       "科学智慧计划",
       "Sciencewise Public Dialogue"
+    ]
+  },
+  {
+    "title": "Teaching and Learning Research Programme",
+    "type": "fact",
+    "path": "wiki/facts/uk/Teaching and Learning Research Programme.md",
+    "aliases": [
+      "TLRP",
+      "教与学研究计划",
+      "英国教与学研究计划",
+      "教学与学习研究项目"
     ]
   },
   {
@@ -22654,6 +22747,21 @@
     "title": "Argument_QiMei_2015_EducationalResearchMethods",
     "type": "argument",
     "path": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md"
+  },
+  {
+    "title": "Argument_Revai(Ed.)_2022_OECD",
+    "type": "argument",
+    "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai(Ed.)_2022_OECD.md"
+  },
+  {
+    "title": "Argument_Revai_2022_ChangingLandscape",
+    "type": "argument",
+    "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai_2022_ChangingLandscape.md"
+  },
+  {
+    "title": "Argument_Torres_2022_KMModels",
+    "type": "argument",
+    "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_KMModels.md"
   },
   {
     "title": "Argument_Ryan_2010_ChineseLearner",

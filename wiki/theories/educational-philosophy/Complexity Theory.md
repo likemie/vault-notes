@@ -8,7 +8,7 @@ aliases:
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -66,10 +66,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
+  - "[[Argument_Torres_2022_KMModels]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-12
 ---
 
 # Complexity Theory
@@ -174,6 +175,16 @@ updated: 2026-09-09
 > - **微观[[Avatar|化身]]与宏观规范的共构** 在虚拟世界中，多元学习者通过虚拟化身（Avatar）展开互动，宏观社区文化与交互规范从个体交往中自发涌现。
 > - **开放系统的[[Autopoiesis|自创生]]（Autopoiesis）** 虚拟环境具备自适应、多重连接与递归反馈特征，为观察教育复杂性提供了低风险、可重复沉浸的实验室。
 
+### 命题五　复杂自适应系统构筑教育知识动员与证据生态治理的元理论透镜
+
+在宏观教育政策与知识动员领域，复杂性理论（特别是复杂自适应系统，CAS）超越了将研究证据视为去情境化技术货品的流水线模型，确立了第三代系统生态治理范式（Best & Holmes, 2010; Burns & Köster, 2016; [[Argument_Torres_2022_KMModels|Torres, 2022, pp. 35–37]]）：
+
+> [!proposition-chain] 复杂自适应系统对教育证据治理的重塑
+> - **前提一** 教育系统由多元异质的行动者（研究者、决策长官、学校领导、一线教师与中介机构）组成，各子系统具有自组织演化与非线性反馈特征（Burns & Köster, 2016; Torres, 2022, pp. 35–36）。
+> - **前提二** 传统自上而下的行政命令与流水线式的知识分发，预设了实践端是被动接收信息的容器，忽视了实践者的情境智慧与反思性抵抗（Best & Holmes, 2010; Torres, 2022, p. 35）。
+> - **机制** 证据动员发生在多维功能重叠与双层嵌套网络中，系统整体效能取决于网络连接强度、自组织赋权与多向反馈调节，而非孤立节点的单向推力（Torres, 2022, pp. 43–46）。
+> - **结论** 教育治理必须从静态机械控制转向培育自适应生态，通过构建赋权型领导力、反思性对话场域与常态化反馈回路，驱动证据在真实教育系统中的自发涌现与持续演进。
+
 ---
 
 ## 理论立场与使用方式
@@ -205,8 +216,8 @@ updated: 2026-09-09
 >   学术重心从纯粹不可预测性转向自组织与高阶涌现（Waldrop, 1992; Lewin, 1993）。[[Stuart Kauffman|考夫曼]]（Stuart Kauffman, 1995）提出复杂适应系统与“秩序免费”概念；巴克（Per Bak, 1996）创立自组织临界性学说，奠定现代复杂系统动力学基石。
 > - **2000s — 教育[[Paradigm|研究范式]]建构与方法论深化**
 >   [[Keith Morrison|莫里森]]（Keith Morrison, 2002a, 2008）等学者系统将复杂性理论引入教育学，将其建制化为抗衡[[Positivism|实证主义]]量化霸权的新兴范式。库恩（Sarah Kuhn, 2007）提出复杂性研究五大公理；菲尔普斯与格雷厄姆（Phelps & Graham, 2010）论证其与[[Action Research|行动研究]]的九重互补，激发教师作为研究者的实践转向。
-> - **2010s 至今 — [[Computer Simulation|计算机模拟]]、[[Agent-based Modelling|ABM]] 与虚拟生态实践**
->   基于主体建模（ABM）与复杂[[Network Analysis|网络分析]]成为检验复杂系统假说的强力数字工具；虚拟现实、[[Generative Artificial Intelligence|生成式人工智能]]与数字学习生态的兴起，使复杂性理论在人机协同、去中心化学习网络中获得空前深广的应用场景。
+> - **2010s 至今 — [[Computer Simulation|计算机模拟]]、[[Agent-based Modelling|ABM]]、系统治理与虚拟生态实践**
+>   基于主体建模（ABM）与复杂[[Network Analysis|网络分析]]成为检验复杂系统假说的强力数字工具；同时，Best & Holmes (2010)、Burns & Köster (2016) 与 [[Argument_Torres_2022_KMModels|Torres (2022)]] 将复杂适应系统确立为教育治理与证据生态的元理论透镜，驱动公共教育政策从单向流水线控制转向自组织生态培育。
 
 ---
 
@@ -258,3 +269,4 @@ updated: 2026-09-09
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch. 16, p. 319)]] — 深入反思[[Experimental Research|实验研究]]在开放教育情境中的因果局限与[[Variable|变量]]控制悖论。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18, p. 278)]] — 系统论证行动研究与复杂性理论的九重深层学理共鸣。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19, p. 335)]] — 详析基于主体建模（ABM）与[[Virtual World|虚拟世界]]对复杂性自组织涌现原理的实践化检验。
+> - [[Argument_Torres_2022_KMModels|Torres (2022, pp. 35–37)]] — 论证复杂自适应系统作为知识动员第三代范式与教育系统生态治理的元理论价值。

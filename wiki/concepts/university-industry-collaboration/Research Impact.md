@@ -10,10 +10,10 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/higher-education
   - theme/research-assessment
@@ -47,10 +47,11 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Torres_2022_KMModels]]"
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-10
+updated: 2026-09-12
 ---
 
 # Research Impact
@@ -129,6 +130,15 @@ updated: 2026-09-10
 > **短期商业化优先与早期学者外展挤出** 由于高分案例直接决定大学核心拨款，高校内部资金与法务支持严重向能快速产生经济产值的商业化与专利转化倾斜，投向公众参与的资源相对匮乏；同时，对确定性“最终影响”的过度聚焦，导致高校资源远离了难以量化直接成效的早期职业学者（ECRs）探索性活动与面向公众的通识性传播。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
 ---
+### 命题三　教育科研影响力具有间接性与缓慢渗透性，系统治理需依托崇高目标指引（乌托邦之喻）
+
+> [!concept-lens] 间接缓慢特征与系统导向价值
+> 探讨教育人文与社会科学科研影响力的特殊性。与生物医药或工业技术产生直接、线性的产出不同，教育科学对真实课堂和学生学习的影响往往是高度间接、潜移默化且极其缓慢的。
+
+> [!claim] Galeano (2012); [[Argument_Torres_2022_KMModels|Torres (2022)]]
+> **终极目标在系统治理中的导向价值：乌托邦之喻** 绝大多数知识动员框架仅将促发证据使用视作终点，忽略了系统追求的终极目标。如果将教育研究视为对学生学习产生间接而缓慢影响的事物，那么学生学习可能看起来就像地平线上遥不可及的目标；无论我们走多远，都无法真正触及那个地平线。然而正如作家 Eduardo Galeano (2012) 的乌托邦之喻所指出的，遥不可及目标的真正意义在于指引系统前行；承诺一个明确目标并在图示和文字中清晰表达，能让教育系统及其行动者在应对缓慢复杂的因果链条时始终锁定终极方向。[[Argument_Torres_2022_KMModels|(Torres, 2022, p. 51)]]
+
+---
 
 ### 命题总览
 
@@ -137,6 +147,7 @@ updated: 2026-09-10
 > |---|---|---|---|
 > | **转化路径与归因困境** | 阐明公众参与对多元社会影响的支撑作用及非线性复杂归因特征 | 国家科研评估、长周期政策倡导与公共卫生改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6, p. 101)]] |
 > | **评价偏差与资源挤出** | 揭示准市场量化审计导致大学偏向商业化并挤出青年学者外展的体制弊端 | 大学内部资源配置、科研人事考核与青年学者职业发展 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6, p. 100)]] |
+> | **终极目标导向价值** | 教育科研影响具有间接缓慢特征，需确立显性崇高目标指引系统前行 | 教育研究生态治理、宏观政策战略规划 | Galeano (2012); [[Argument_Torres_2022_KMModels\|Torres (2022, p. 51)]] |
 
 ---
 
@@ -146,6 +157,7 @@ updated: 2026-09-10
 > - **1986–2008 — 纯学术产出阶段（[[Research Excellence Framework|RAE]] 时代）** 英国大学评估（RAE）聚焦于论文发表质量（Outputs）与同行评议等级，科研影响力未进入国家资源分配考核。
 > - **2014 — 社会影响法定化（REF 2014）** 英国科研卓越框架首次正式引入“影响力案例”（Impact Cases），设置 20% 考评权重，要求论证科研对经济与社会的实质效益，引发全球高校研究评估[[Paradigm|范式]]转型。
 > - **2021 — 权重深化与路径反思（REF 2021）** 影响力权重提升至 25%；近半数案例展现公众参与价值，但商业化偏倚与量化因果证明困难促发学界强烈反思。
+> - **2022 — 系统生态视角下的教育研究影响力反思** [[Argument_Torres_2022_KMModels|Torres (2022)]] 提出教育科学的影响力具有间接性与缓慢渗透特征，批评多数知识动员模型缺乏终极目标的缺陷，主张以学生学习与教师专业发展为崇高目标基准统摄全系统演进（乌托邦之喻）。
 > - **2029 — 过程与生态重构（REF 2029）** 针对以往过度聚焦短期经济结果的弊端，改革方案设立独立的“参与与影响”（Engagement and Impact）考评剖面，要求将参与战略内嵌于科研环境并核算专职队伍编制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, p. 101)]]
 
 ---
@@ -176,3 +188,4 @@ updated: 2026-09-10
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026)]] — 系统解构英国科研卓越框架（[[Research Excellence Framework|REF]]）中科研影响力的评价机制，揭示约 50% 案例依赖[[Public Engagement with Science|公众科学参与]]的事实，指出商业化挤出效应与归因困难，并提出 REF 2029 设立“参与与影响”独立考评剖面的改革路径。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 阐述英国研究评估从单纯资助科学向催化社会经济效益转型的国际政策脉络，分析高校在[[Knowledge Exchange|知识交流]]与产学伙伴中的影响力测度。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 从[[New Public Management|新公共管理]]与[[Quasi-markets in Higher Education|高等教育准市场]]视角，剖析国家评估机制通过量化[[Performance Indicators|绩效指标]]控制高校资源配置的制度后果。
+> - [[Argument_Torres_2022_KMModels|Torres, P. (2022)]] — 系统评析知识动员模型，揭示教育科研影响力的间接缓慢渗透属性，提出乌托邦之喻以强化崇高教育终极目标对生态治理的牵引价值。

@@ -1,0 +1,965 @@
+================================================================================
+Chapter: The changing landscape of research use in education
+Author(s): Nóra Révai
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part I: Conceptual landscape and the evolution of the field
+Book Pages: pp. 14–32
+PDF Pages: pp. 16–34 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 16 / Book Page 14] ---
+
+Part I
+Conceptual landscape and
+the evolution of the field
+
+--- [PDF Page 17 / Book Page 15] ---
+
+1 The changing landscape of research
+use in education
+
+Nóra Révai, OECD
+
+This chapter provides an overview of the evolution of evidence-informed
+policy and practice discourse. It starts with a brief discussion of the key
+concepts: research, evidence and knowledge. The chapter then presents
+the conceptual evolution of the field, developments in efforts to reinforce
+research use in policy and practice as well as some questions and
+challenges related to research production. Building on contemporary
+conceptualisations, some conceptual considerations and a number of
+questions are raised regarding current barriers to increasing research
+dynamics. To address some of these questions the OECD conducted a
+policy survey in 2021. The chapter describes this survey and presents the
+purpose and structure of the volume.
+
+--- [PDF Page 18 / Book Page 16] ---
+
+Introduction
+We may be getting tired of every book starting with “The pandemic has shown us…” but when we talk
+about using science in decision making, this is an almost inevitable reference. In the context of the
+pandemic, we have been able to witness both the power of science (e.g. the extremely rapid development
+of vaccines) and the difficulty in balancing evidence on epidemiology and risks affecting the economy, and
+knowledge of people’s behaviours and attitudes. With limited evidence available, governments have had
+to make difficult decisions on education with huge, potentially unpredictable impacts on children and
+society. The challenge of using evidence in decision making is, however, not new. (OECD, 2007[1])
+Using research more systematically to improve public services has become a policy imperative in the past
+two decades (Powell, Davies and Nutley, 2017[2]). The Centre for Educational Research and Innovation
+(CERI) has contributed to advancing this agenda in education. In 2000, CERI work on knowledge
+management highlighted that the rate and quality of knowledge creation, mediation and use in the
+education sector was low compared with other sectors (OECD, 2000[3]). In the early 2000s, country reviews
+on educational research and development (R&D) showed generally low levels of investment in educational
+research as well as in research capacity, especially in quantitative research. They also confirmed weak
+links between research, policy and innovation in many OECD systems (OECD, 2003[4]).
+However, the landscape has started to change as the evidence-informed movement spread in education.
+First, many countries have invested in strengthening research itself. Although public spending on
+educational research and development is still limited compared to other sectors (Education.org, 2021[5]),
+significant funding has gone into experiments, systematic reviews and other forms of primary and
+secondary education research (OECD, 2007[1]). Second, there has been growing investment in initiatives
+intended to facilitate the use of research. These include establishing dedicated brokerage institutions
+designed to mediate research for policy and practice (OECD, 2007[1]), and making research more
+accessible to users through funding research syntheses and toolkits. In the 2007 OECD volume Evidence
+in Education, experts and politicians formulated a number of challenges to stronger evidence use in
+decision making (OECD, 2007[1]). They highlighted the lack of relevant and accessible research for policy
+and the conflicting timeframes of political cycles and research production. In addition, challenges included
+the lack of appropriate processes to facilitate the interpretation and implementation of evidence by decision
+makers and the difficulty of ensuring sustainability and stability of funding (OECD, 2007[1]). Despite
+widespread investment since then, OECD countries still face many of the same challenges today.
+Third, research on evidence-informed policy and practice has also been expanding. Early
+conceptualisations of knowledge transfer as a linear process (OECD, 2000[3]) have evolved into an
+understanding of research ecosystems that recognise complexity (Burns and Köster, 2016[6]; Boaz and
+Nutley, 2019[7]; Best and Holmes, 2010[8]). Increasingly, more studies are also looking at various brokerage
+initiatives. However, very few of such initiatives have been rigorously evaluated. Research has only
+recently started to explore how they work and can be improved (Gough, Maidment and Sharples, 2018[9]).
+To date, there is no strong evidence about how we can effectively strengthen the use of research in
+decision making.
+The CERI project Strengthening the Impact of Education Research was launched in 2021 to address the
+knowledge gap on what and how initiatives to increase research use work. The project thus aims to support
+countries in understanding how to use education research in policy and practice systematically and at
+scale.
+This first volume of the project presents an initial mapping of countries’ strategies to facilitate the use of
+education research in policy and practice. To frame the discussion for the volume, this chapter starts with
+an overview of how evidence-informed policy and practice discourse has evolved. It also discusses
+developments in knowledge mobilisation and research production. The chapter then outlines some
+conceptual considerations and key questions that build on contemporary conceptualisations of knowledge
+
+--- [PDF Page 19 / Book Page 17] ---
+
+mobilisation. Next, the chapter describes the policy survey, which was developed by the project, to answer
+a first set of these questions. Finally, the purpose and structure of this volume is presented.
+
+Cornerstones: Research, evidence and knowledge
+The nature and source of research evidence as well as its quality and relevance for policy and practice
+have long been debated (e.g. Nutley, Walter and Davies (2007[10]), OECD (2007[1]), Nutley et al. (2010[11])).
+“What counts as evidence?” has been a core question ever since the evidence-informed movement
+started.
+The evidence-based (or evidence-informed) practice and policy agenda is built on the premise that
+education research can and should establish “what works”, similar to many other sectors including health
+and agriculture and to other social sciences. In the hierarchy of evidence established in the health sector,
+systematic reviews and evidence syntheses represent the highest level, followed by randomised control
+trials (RCT), cohort studies, case studies and expert opinion at the lowest level (Glover et al., 2006[12]).
+Some in education have also promoted rigorous syntheses and RCTs as the gold standard (Goldacre,
+2013[13]).
+The “what works” movement in education has led to the reformulation of research agendas in some (mostly
+Anglo-Saxon) countries (Cochran-Smith and Lytle, 2006[14]). This has focused attention on intervention
+and effectiveness research. Examples include the Best Evidence Synthesis (BES) in New Zealand (New
+Zealand Ministry of Education, 2019[15]) and the Teaching and Learning Toolkit developed by the Education
+Endowment Foundation in England (EEF, n.d.[16]). Continuously updated, the latter puts great emphasis
+on high standards of evidence and has gained huge traction around the world in the past years.
+However, the narrow interpretation of evidence associated with the “what works” movement has opened
+up a strong debate between methodological schools and has provoked reflections about its implications
+for practitioners’ professionalism. As a result, understandings of the evidence itself and what it means to
+be “evidence-informed” have evolved considerably. First, numerous scholars have suggested more
+inclusive conceptualisations of evidence (OECD, 2007[1]). Nutley, Powell and Davies (2013[17]) argue that
+the type and quality of evidence depends on the question, which is not necessarily an instrumentalist view
+of “what works”. For example, practitioners and decision makers could be interested in why, when and for
+whom something works, how much it costs, and what the risks are. They may also wish to understand the
+nature of social problems, why they occur, and which groups and individuals are most at risk. The authors
+suggest that mapping what kind of evidence can answer what kind of question is more useful than defining
+a hierarchy of evidence types that does not take the question into account. For example, questions such
+as “how does it work” and “does it matter” are ones that qualitative research can answer but RCT evidence
+cannot (Petticrew and Roberts, 2003[18]).
+Second, scholars have contributed to understanding what we mean by “evidence-informed” in more subtle
+ways. Research and other sources of evidence are often not used directly but they shape attitudes and
+ways of thinking in indirect and subtle ways (Nutley, Powell and Davies, 2013[17]). In relation to teacher
+professionalism, scholars have emphasised that research is an important contribution to teachers’
+“technical knowledge”, which provides support for decision making (Kvernbekk, 2015[19]; Winch, Oancea
+and Orchard, 2015[20]). It is often used indirectly to “back up” a decision (Kvernbekk, 2015[19]). In this sense,
+evidence does not replace professional judgement or prevent a value-based decision. Teachers’
+engagement with and in research enriches their reflection on practice and vice versa: Teachers’ reflection
+on their practice helps them interpret research and enhances research itself (Winch, Oancea and Orchard,
+2015[20]).
+Recent definitions explicitly distinguish between research knowledge and practical knowledge (expertise),
+and emphasise the connection between them. For example, Sharples defines evidence-informed practice
+
+--- [PDF Page 20 / Book Page 18] ---
+
+as “integrating professional expertise with the best external evidence from research to improve the quality
+of practice” (Sharples, 2013, p. 7[21]). In a similar vein, Langer, Tripney and Gough define evidenceinformed decision making as “a process whereby multiple sources of information, including the best
+available research evidence, are consulted before making a decision to plan, implement, and (where
+relevant) alter policies, programmes and other services” (2016, p. 6[22]).
+These definitions also recognise a distinction between evidence and research. This is particularly important
+in today’s world, which is characterised by an abundance of information and data that is often cited or
+taken as “evidence”. Indeed, the concept of evidence can range from a narrow understanding of “gold
+standards” (RCTs, systematic reviews) to a broader one that incorporates data and information, including
+in raw and unanalysed forms. See Box 1.1 for the use of “research” in this volume.
+
+Box 1.1. Meaning of “research” in the Strengthening the Impact of Education Research project
+In the Strengthening the Impact of Education Research project, the focus is on the production and use
+of education research, understood as a form of systematic investigation of educational and learning
+processes with a view to increasing or revising current knowledge. This is consistent with most
+definitions of research (e.g. Langer, Tripney and Gough (2016[22])). It is a broader conceptualisation that
+recognises that research need not necessarily be conducted within academia or by researchers only.
+However, this definition does not consider (raw) information and data as “research” as such - only when
+these are analysed and investigated for a purpose.
+
+Conceptual evolution of knowledge mobilisation
+The evidence-informed practice movement gave rise to a rich field of study looking into the dynamics of
+knowledge. Terms such as knowledge management, knowledge-to-action, knowledge translation, transfer,
+mobilisation, brokerage and mediation consider the dynamics of knowledge from different angles (Levin,
+2008[23]). There have been two major and interrelated developments in conceptualising the interplay of
+research production and use.
+The first is a change of perspective from linear to system models. Best and Holmes (2010[8]) describe the
+three models of knowledge mobilisation in a nested perspective:
+
+
+Linear model – Making research available for users, focusing on “getting the right information to
+the right people in the right format at the right time” as defined in the health sector (Levin, 2008[23]).
+This model focuses on disseminating research evidence to users such as teachers and policy
+makers, who are seen as passive recipients of knowledge.
+
+
+
+Relationship model – Incorporating linear models but focusing on strengthening the relationship
+among stakeholders through partnerships and networks to facilitate the link between research and
+practice/policy. Here, knowledge can come from multiple sources (research, theory, policy,
+practice).
+
+
+
+Systems model – Building on linear and relationship models but recognising that agents are
+embedded in complex systems and the whole system needs to be activated to establish
+connections among its various parts (Best and Holmes, 2010[8]).
+
+--- [PDF Page 21 / Book Page 19] ---
+
+In both the linear and relationship models, a strong emphasis is placed on mediation, i.e. intermediary
+actors and processes that bridge the gap between communities of research producers and users.
+Intermediary actors include organisations (e.g. brokerage agencies) and individuals (e.g. translators,
+brokers, gatekeepers, boundary spanners and champions). While each actor is important in a systems
+view, this view implies that all actors together shape the research ecosystem through their interactions,
+feedback loops and co-creation (Campbell et al., 2017[24]).
+The second development is a shift from a research push to a user-pull approach. Early efforts focused
+primarily on disseminating research evidence towards practice and policy. The push approach corresponds
+to the linear model of knowledge dissemination and a transfer issue focused on making research findings
+more accessible to practitioners and policy makers. It has since become clear that dissemination alone
+does not increase research use in decision making (Langer, Tripney and Gough, 2016[22]), building on
+users’ needs in producing research and synthesising available evidence has gained attention. Pull
+mechanisms require researchers (and research funding schemes) to map and understand users’ needs,
+and respond to them accordingly. They also require practitioners and policy makers to formulate their
+knowledge needs as part of their work and problem solving process. The most recent research ecosystem
+models put greater emphasis on pull mechanisms (Gough, Maidment and Sharples, 2018[9]).
+Neither of these developments can be equated to a simple shift from one model or strategy to another.
+Push and pull mechanisms can – and perhaps should – co-exist. Linear processes of knowledge transfer
+are not outdated; rather, they are embedded in more complex dynamics and remain key building blocks of
+research use. Relationships are fundamental elements of a systems view but it is not sufficient to only
+consider and foster partnerships. Strengthening the dynamics of research production and use is not simply
+about transferring and translating a narrow set of “codes” from one community to the other.
+This idea is captured by Van de Ven and Johnson’s (2006[25]) three ways of framing the “theory-practice”
+gap. The first framing sees this gap as an issue of knowledge transfer. Users (e.g. teachers and policy
+makers) do not adopt and implement findings from research because it is frequently unavailable in a
+suitable format. This interpretation corresponds to the linear model and a push approach. The second
+framing sees theory and practice as distinct forms of knowledge. Practitioners’ knowledge and research
+knowledge are ontologically and epistemologically different from that of researchers. Because these two
+forms of knowledge are in themselves partial, the issue relates to ensuring that they are effectively
+combined. This leads to the third framing, which views the gap as a knowledge production issue. Where,
+how and by whom knowledge is produced determines the distance between theory and practice.
+Collaborative forms of enquiry in which researchers and practitioners work together on a complex problem
+(called “engaged scholarship” by the authors) reduce this distance in a natural way (Van De Ven and
+Johnson, 2006[25]). The latter two framings recognise that relationships as such are not enough: The ways
+in which different communities engage with each other is what makes the difference.
+However, more is needed to activate the entire system. Best and Holmes (2010[8]) identify four components
+of systems thinking:
+
+
+Evidence and knowledge: Research evidence is only one form of knowledge and the interplay
+between different forms (e.g. tacit and explicit) needs to be considered.
+
+
+
+Leadership: Rather than merely command and control, leadership in a complex system involves
+“facilitation and empowerment, self-organising structures, participatory action and continuous
+evaluation” (p. 151[8]).
+
+
+
+Networks: Organisational networks can strengthen relationships between actors if coupled with
+collaborative (system) leadership to help work towards shared goals (see also literature on network
+effectiveness in e.g. Rincón-Gallardo and Fullan (2016[26])).
+
+
+
+Communications: Rather than simple information packaging, strategic communication identifies
+interdependencies and trade-offs, and negotiates interests in a process leading to mutual
+understanding (Best and Holmes, 2010[8]).
+
+--- [PDF Page 22 / Book Page 20] ---
+
+The next two sections discuss the evolution of knowledge mobilisation policies and practices.
+
+Developments in knowledge mobilisation in policy and practice
+In the context of teaching practice, evidence use is strongly rooted in discourses on teacher
+professionalism. The core idea is that the teaching profession lacks a systematic and robust knowledge
+base that can consistently constitute the scientific basis of teaching practice. More than 20 years ago,
+Hargreaves’ seminal lecture (1996[27]) laid the groundwork for the research-based profession paradigm.
+This exerted a large influence on policy. With growing pressure for greater accountability and effectiveness
+in education in the late 1990s and 2000s, the call for educational policy decisions to be based on the best
+evidence also became stronger in OECD countries (OECD, 2007[1]).
+Early knowledge brokerage efforts in practice and policy adopted primarily linear and push approaches
+and many still bear the signs of a research transfer model to date. For example, What Works Clearinghouse
+(WWC) provides teachers “with the information they need to make evidence-based decisions” (Institute of
+Education Sciences, n.d.[28]). Other agencies, such as the Evidence for Policy and Practice Information
+and Co-ordinating Centre (EPPI-Centre) in the United Kingdom and the Best Evidence Synthesis (BES)
+programme in New Zealand, also provide robust evidence syntheses. Products of such agencies are based
+on the idea of “translation”, i.e. transforming researchers’ knowledge products into products accessible for
+users. These include user-friendly evidence snapshots, practice guides and sometimes more sophisticated
+toolkits.
+Recognising that linear transmission is not enough, efforts have increasingly gone towards building
+relationships between researcher and practitioner/policy communities. The EPPI-Centre, for example,
+provided capacity-building opportunities and worked with a range of partners to foster evidence-informed
+policy. The BES programme in New Zealand also emphasised collaborative approaches to foster dialogue
+and engagement (OECD, 2007[1]).
+An early example of bringing together researchers and practitioners is the Teaching and Learning
+Research Programme (TLRP) in England between 2000 and 2011 (OECD, 2007[1]). Its strategic
+commitments include user engagement; partnerships for sustainability; knowledge generation by project
+teams; and capacity building for professional development (OECD, 2007[1]).
+The new generation of the United Kingdom’s brokerage effort, the Education Endowment Foundation/
+Sutton Trust (EEF), applies an “evidence ecosystem” model, drawing heavily on the systems view
+described above. In this model, evaluation, synthesis, translation, use of research, and innovation are
+explicitly linked (Gough, Maidment and Sharples, 2018[9]). Activities include synthesising evidence,
+generating new evidence and supporting schools in using this evidence (EEF, 2019[29]). The latter is
+realised through the “Research Schools Network”. Member schools benefit from regular communication
+and events, and professional development for senior leaders and teachers on how to improve classroom
+practice based on evidence. They also receive support for developing innovative ways of improving
+teaching and learning. Some Research Learning Networks have developed close partnerships between
+universities and schools in which researchers and teachers co-create knowledge through learning
+conversations (Brown, 2018[30]). University-school partnerships are becoming popular forms of facilitating
+interactions between researchers and teachers in many OECD countries.
+Practice and policy share many challenges in using evidence. The relevance and timeliness of research,
+and difficulty of reconciling different sources of knowledge, attitudes and values are subjects of discussion
+in both contexts. In addition, evidence and research in policy must be reconciled with politics and the
+agendas of different stakeholder groups. Scholars complain that policy makers often cherry-pick research
+to underpin their predetermined agendas while policy makers struggle to find answers from research when
+they need them. These tensions have been demonstrated and discussed widely (OECD, 2007[1]).
+
+--- [PDF Page 23 / Book Page 21] ---
+
+Box 1.2. CERI work on knowledge for policy and practice
+Since its work on knowledge management and educational R&D in the early 2000s, and the publication
+of Evidence in Education in 2007, CERI has continued to contribute to the agenda of increasing the
+impact of education research on multiple fronts.
+
+Teacher knowledge and innovation
+Work on innovative teaching and learning has promoted and supported the use of research in practice
+for over a decade. The Nature of Learning volume brought together research on learning with the
+objective of “help[ing] build the bridges, ‘using research to inspire practice’” (Dumont, Istance and
+Benavides, 2010, p. 14[31]). The contribution of Science of learning to building teachers’ professional
+knowledge has been further explored (Kuhl et al., 2019[32]). The OECD’s Teacher Knowledge Survey1
+set out to assess teachers’ pedagogical knowledge (Sonmark et al., 2017[33]; Ulferts, 2019[34]; 2021[35])
+to obtain an objective picture of the current knowledge base across systems. As part of the conceptual
+basis for this work, CERI explored teachers’ knowledge dynamics, arguing for an appropriate
+governance of teachers’ professional knowledge in a complexity perspective (Révai and Guerriero,
+2017[36]). Recent work looking at the role of networks in scaling innovation and evidence in education
+demonstrated the complexity of knowledge dynamics underlying these questions (Révai, 2020[37]).
+
+Knowledge governance
+Work on governance helped better understand complexity in education systems and for policy making,
+and rethink the range of actors involved in shaping systems (Burns and Köster, 2016[6]; Burns, Köster
+and Fuster, 2016[38]). This work also conceptualised the relationship between knowledge and
+governance. The governance frameworks were then used to support countries in strengthening
+evidence-informed policies and map systems’ capacity for effective knowledge production and use
+(Shewbridge and Köster, 2021[39]; Köster, Shewbridge and Krämer, 2020[40]).
+
+Stronger collaboration between policy makers and researchers may ease such tensions. Interestingly,
+policy-research partnerships are much less discussed in the literature than research-practice partnerships.
+Nevertheless, policy networks, in which policy makers and various interest groups including researchers
+interact (Cairney, 2019[41]), are examples of spaces where research can shape policy makers’ thinking.
+Governments also have mechanisms for commissioning research to address specific policy interests. In
+some cases, this is done in collaboration with research councils or advisory groups. W hile partnerships
+and networks are popular ways of scaling evidence use in education (and have in some cases, become
+policy tools), few have been studied over time and in depth, let alone systematically evaluated (Révai,
+2020[37]; Coburn and Penuel, 2016[42]).
+Overall, the inability of linear knowledge transfer mechanisms to address the complexity of evidence use
+in policy and practice is today widely accepted. With recent developments over the past decade, it is time
+to ask what efforts have been successful in developing necessary relationships and “activating” the whole
+system to increase research use. In a systems perspective, facilitating the production of research in novel
+ways is part of the answer.
+
+Research production
+From the perspective of knowledge production (Van De Ven and Johnson, 2006[25]), the focus of researchpolicy and research-practice links is on co-producing knowledge. The collaboration of teachers and
+researchers in knowledge production is central to relational and systems approaches to knowledge
+
+--- [PDF Page 24 / Book Page 22] ---
+
+mobilisation. It is argued that teachers will find research relevant and applicable for their practice if they
+have ownership of the research – if they are involved in the production process from the start. While some
+positive outcomes have been reported on teachers’ engagement in research for pupils and teachers,
+difficulties have also been highlighted such as lack of time and inadequate external support for practitioners
+(Cooper, Klinger and McAdie, 2017[43]; Bell et al., 2010[44]).
+In addition, researchers are often not prepared for co-production either. Co-producing research requires
+research institutions and researchers to understand the contexts of policy and practice while actively
+seeking to address needs. Despite the increasing requirement in some countries to demonstrate research
+impact (e.g. through research excellence frameworks in the United Kingdom and Australia), academic
+incentives are still not aligned to these needs (Cherney et al., 2012[45]). Publishing in high-impact journals
+is favoured over grey literature or user-friendly formats. Academics also lack support and training in how
+to work together with practitioners and policy makers. In sum, a number of educationalists still criticise the
+culture of research production (Burkhardt and Schoenfeld, 2021[46]).
+Another issue with research production relates to its overall coordination, or rather, the lack of it. Education
+research has been accused of not producing evidence in a cumulative way (e.g. Burkhardt and Schoenfeld
+(2003[47])). This implies that education research does not directly lead to improved practice. Research
+insights and outcomes are often scattered and disconnected from practice and policy. In addition,
+publishers tend to prioritise certain methodologies and results (notably positive ones that confirm
+hypotheses). This inhibits building a comprehensive knowledge base for teaching and schooling.
+The fact that multiple actors are involved in research production and use means that the traditional
+gatekeepers of research quality are no longer necessarily used. For many decision makers, it is difficult to
+know what information they can trust to guide policy and practice. The co-creation of knowledge by
+researchers and practitioners / policy makers also raises questions about the quality and rigour of research.
+While true co-production automatically ensures the relevance of research for practice/policy, it also
+necessitates consolidating such locally created knowledge. This implies iterations within the same context
+and replications in other contexts. While such processes are necessary for local knowledge to become
+explicit, robust and suitable for wider diffusion and use, they happen to a very limited extent (Enthoven and
+de Bruijn, 2010[48]).
+Finally, funding sources and mechanisms raise a number of questions with respect to research production.
+In some countries, national education acts set out a strongly directed agenda for education research. A
+widely criticised example for this was the No Child Left Behind Act in the United States that regulated
+production in ways that restricted funding to certain types of methodologies and ways of production
+(e.g. Fazekas and Burns (2012[49])). Actors funding education research have diversified in the past
+decades. In addition to public funding, education research is increasingly funded by private organisations
+and foundations. Given that the particular interests, aims and criteria of funders influence the aim, scope
+and sometimes even the methods of research, the funding source becomes an important consideration for
+the relevance and quality of research (Rasmussen, 2021[50]).
+
+Research dynamics in systems thinking: Key questions remain
+Most knowledge mobilisation initiatives have so far been unsuccessful in realising the promise of a systems
+model and in enabling well-functioning dynamics in research production and use (Cooper, 2014[51]; Boaz
+et al., 2019[52]). To drive research dynamics in a true systems approach, we need to depart from some
+long-used terminology and frames of reference. We also need to identify and understand the factors that
+facilitate and hinder the systematic and high-quality production and use of research in a holistic way. This
+section raises two important conceptual considerations and highlights key questions that still need to be
+answered.
+
+--- [PDF Page 25 / Book Page 23] ---
+
+Conceptual considerations
+Recognising complexity in the way we talk about “knowledge mobilisation”
+The literature talks about knowledge transfer, transmission, mediation, knowledge-to-action, knowledge
+mobilisation and brokerage. Though the definitions of some of these terms have evolved towards a more
+complex understanding, the words themselves have a linear association; that is, of passing on explicit
+forms of knowledge in direct and straightforward ways. However, modern theories describe education
+systems as complex: With multiple actors interacting at multiple levels, characterised by non-linear
+feedback loops and emerging patterns (Burns, Köster and Fuster, 2016[38]). None of these terms reflects
+this complexity. Yet, systems thinking will only be truly taken on board when it is reflected in the vocabulary
+used.
+By understanding which words should be used to capture complex research (or more broadly, knowledge)
+dynamics (Révai and Guerriero, 2017[36]), we can reframe the problem in a way that helps us move forward.
+
+Connecting policy and practice
+Despite recurring efforts to bridge the worlds of policy and practice, discussions on the use of research in
+education tend to focus on the context of policy or practice (evidence-informed policy/practice). These two
+fields have developed in parallel and – as this volume will demonstrate – developments have not been
+systematically translated from one context to the other.
+However, separating policy from practice is artificial and problematic: Not recognising the intimate link
+between the two prevents a true systems perspective. In reality, the boundary between education policy
+and practice is blurred. In decentralised systems, school leaders have substantial autonomy to shape
+school-level policies (e.g. on teachers’ professional learning). Some actors, such as system leaders
+(e.g. leader of a school cluster), directly shape both practice and policy. In addition, the subject of policy
+and practice substantially overlaps. For example, both are directly concerned with pedagogical
+approaches, and monitoring and assessing student learning. At the same time, they also have their distinct
+areas of focus: For example, teachers’ status and salary are policy areas whereas interacting with students
+and parents are matters of practice.
+The complex and increasingly fluid relationship between policy and practice requires rethinking the use of
+research as well. Further consideration must be given to whether evidence-informed policy can truly be
+seen as distinct from evidence-informed practice. Exploring how using research in policy making influences
+and interacts with its use in practice, and what this means for the production of research can help us better
+understand how to drive these processes.
+
+Key questions
+If the policy, practice and research environments are complex, non-linear, “messy” processes (Best and
+Holmes, 2010[8]; Cairney, 2019[41]; Burns and Köster, 2016[6]), how can we enable a more systematic and
+high-quality production and use of research in both policy and practice?
+Unlocking the potential of systems approaches requires understanding all dimensions of the education
+research “ecosystem”. These include the quality and relevance of education research; the quality use of
+evidence in different contexts; the culture and mindset required for high-quality, systematic research use;
+and the skills and capacity of actors at individual and organisational levels (Figure 1.1).
+Key questions that still remain along these dimensions are summarised in Table 1.1.
+
+--- [PDF Page 26 / Book Page 24] ---
+
+Figure 1.1. Dimensions of strengthening the impact of education research
+
+Source: Inspired by the QURE framework in Rickinson, M. et al. (2020[53]), Quality Use of Research Evidence Framework, Monash University,
+Melbourne.
+
+Table 1.1. Key questions around strengthening the impact of education research
+Dimensions
+
+Questions
+
+1. Structures and processes
+
+How can we evaluate the impact of education research, and the structures and processes that support research
+use?
+What structures (e.g. institutions, networks) and processes facilitate the use of research in policy and practice?
+What system-level strategies and coordination can strengthen the impact of education research at scale?
+
+2. Relationships
+
+What relationships are necessary to strengthen the impact of education research in policy and practice?
+How can relationships and interactions reinforce research use?
+
+3. Quality and relevance
+
+How can we describe the quality use of research in policy and practice?
+How can we improve the quality of education research and how can we make it more relevant?
+
+4. Culture and mindset
+
+How can we raise awareness of and build positive attitudes towards using research systematically in policy and
+practice?
+How can (organisational and system-level) leadership contribute to strengthening the impact of education
+research?
+How can we redesign systemic incentives to increase the impact of research for policy and practice?
+
+5. Skills and capacity
+
+What skills and support do policy makers, practitioners, researchers and other actors need for using and (co)producing research?
+What organisational and systemic capacity is needed to support the (co-)production and use of research in
+policy and practice?
+
+--- [PDF Page 27 / Book Page 25] ---
+
+Mapping the landscape: Policy survey
+Although understanding of the evidence system has evolved greatly and major efforts have been made
+across the OECD to strengthen the impact of education research, how to effectively ensure its systematic
+use in policy and practice remains a challenge. The first step in addressing that challenge is to map existing
+mechanisms, actors and challenges across systems.
+The OECD Strengthening the Impact of Education Research policy survey – conducted from June to
+September 2021 – is one of the first international efforts to collect data on the mechanisms used to facilitate
+research use in countries/systems. Overall, 37 education systems from 29 countries2 have responded to
+the survey. Responses represent the perspective of ministries of education at the national or sub-national
+(state, province, canton, etc.) level. As such, they are subject to the bias of personnel within these
+ministries, their perceptions and personal realities (see Box 1.3 for who policy makers are in this survey).
+
+Box 1.3. Who are policy makers?
+There are policy makers at national, regional and local levels in every system. However, the nature of
+the education system (e.g. centralised, decentralised, federal) implies different structures, which involve
+differences in the locus of control for decision making (OECD, 2007[1]). The Strengthening the Impact
+of Education Research policy survey targeted the highest level of decision making in education
+(ministry/department of education). In federal systems, this corresponds to the state (province, canton,
+autonomous community, etc.) department. Ministries were asked to coordinate the response across
+departments.
+The follow-up interviews revealed that ministries of education had various definitions of policy makers.
+Interviewees most commonly associated the term with high-level ministry officials such as Directors,
+Deputy Directors and Director Generals. There was overall a high degree of recognition that policy
+makers are those with influence over the policy process, rather than those tasked with implementation
+of policies. Some systems however took a broader view, considering all those working at the ministry
+of education, as well as individuals in the executive and legislative branches of government. As a result
+of the different understandings, comparisons between systems in policy survey data should be made
+with caution.
+The survey has three parts, which cover the various elements and dimensions represented in Figure 1.1
+
+
+The first part maps the actors, mechanisms and relationships that facilitate the use of research in
+policy making. It also asks how policy makers use research and their levels of satisfaction with
+research use.
+
+
+
+The second part pertains to using education research in practice and maps actors and mechanisms
+that foster this. In line with the key dimensions described above, the survey asks about drivers of
+and barriers to research use in policy and practice, covering issues of mindset and culture,
+resources, skills and capacity as well as learning opportunities.
+
+
+
+Finally, the third part relates to the production of education research: The accessibility and
+relevance of research; the various mechanisms in place; the involvement of actors and their
+incentives; and funding for research.
+
+As a follow-up to the survey, six countries 3 were selected for further data collection through semi-structured
+interviews. The criteria for selection included: Ensuring that diverse geographical and educational contexts
+are represented, including countries/systems that provide substantial qualitative information through the
+open-ended answers in the survey.
+
+--- [PDF Page 28 / Book Page 26] ---
+
+The purpose of these interviews is to:
+
+
+Ensure that survey data is correctly interpreted.
+
+
+
+Further understand good practices and challenges with regard to using research in policy and
+practice systematically and at scale.
+
+
+
+Understand what ministries/governments hope to gain from the analysis of survey data; highlight
+any specific areas of interest; and answer any questions.
+
+In this volume, two chapters (6 and 7) provide a first set of analysis of survey data.
+
+Purpose and structure of this report
+This volume aims to provide a modern account of research use in education policy and practice. It does
+so in two main ways. First, by inviting a number of leading experts in knowledge mobilisation (evidenceinformed policy/practice) to present their cutting-edge research. Second, by reporting on the first results of
+the OECD Strengthening the Impact of Education Research policy survey. While chapters across the
+volume touch upon most questions set out in Table 1.1, the main focus at this stage is to provide an initial
+mapping of structures, processes and relationships and the main barriers to improving research use.
+Rather than offering clear solutions, the report illustrates some promising practices and directions for future
+work. The report is structured as follows.
+
+Part I. Conceptual landscape and the evolution of the field
+The first part sets the scene for the report with three introductory chapters.
+The current Chapter 1 presents the background and rationale for this work.
+In Chapter 2, José Manuel Torres provides an overview of some dominant models of knowledge
+mobilisation. The author compares and contrasts these models, and analyses the evolution of perceptions
+and priorities of this field over time. The chapter highlights some additional, more recent models that focus
+on a specific aspect of research dynamics. The author concludes with questions and recommendations for
+developing a new vision that captures research dynamics in the complex interactions of education
+research, policy and practice.
+In Chapter 3, authored by Tracey Burns and Tom Schuller, revisits the discussion of evidence-informed
+policy with a specific focus on brokerage and brokerage agencies. The chapter presents some advances
+in the field and argues that, despite these, the same challenges remain with additional emerging ones. To
+conclude, the chapter proposes an ambitious agenda for moving forward towards building a collective
+knowledge base on research brokering.
+
+Part II. Actors and mechanisms facilitating research use in policy and practice
+The second part of the volume focuses on the various actors and mechanisms that aim to facilitate the use
+of research in policy and practice.
+In Chapter 4, Jordan Hill analyses the OECD Strengthening the Impact of Education Research policy
+survey results with respect to the actors involved in producing research and facilitating its use. The chapter
+starts with an overview of the various factors to be considered when mapping actors and their relationships.
+It presents actors active in facilitating the use of research evidence at organisational and individual levels
+in the 37 participating education systems. The chapter describes actors’ engagement in the production of
+research and how co-production is incentivised and realised. Finally, it discusses the quality of policy
+makers’ relationships and interactions with various actors.
+
+--- [PDF Page 29 / Book Page 27] ---
+
+Chapter 5 provides an analysis of the OECD survey regarding the mechanisms of and barriers to
+facilitating research use. José Manuel Torres presents a framework for classifying the various mechanisms
+and describes their use in the policy and practice contexts across respondent systems. It then discusses
+the various barriers countries face in making research use systematic. The chapter concludes noting the
+importance of system-level coordination of the various mechanisms and the current lack of such
+coordination.
+In Chapter 6, Annette Boaz, Kathryn Oliver and Anna Numa Hopkins present results from a cross-sectoral
+mapping exercise that mapped and reviewed 513 organisations promoting research-policy engagement.
+The chapter catalogues a large number of examples of linear, relational and systems approaches from a
+wide range of sectors, including health, agriculture and environment. Drawing on evaluations, the authors
+highlight key findings with respect to the effectiveness of the various approaches. The chapter ends with
+a number of cross-cutting themes and implications for the education sector, presented through five key
+questions.
+In Chapter 7, David Gough, Jonathan Sharples and Chris Maidment discuss how initiatives that aim to
+facilitate the link between research, policy and practice can themselves be evidence-informed. Drawing on
+examples of “knowledge brokerage initiatives”, the chapter addresses five areas of evidence-informed
+brokerage. These are: Needs analysis; integrating evidence use in wider systems and contexts; methods
+and theories of change; evidence standards and evaluation and monitoring. The chapter ends with a set
+of recommendations for brokerage initiatives, policy makers and funders.
+
+Part III. New approaches to understanding research use
+The third part offers fresh perspectives on the production and use of education research.
+Chapter 8 argues that research use and research impact in education should be discussed from the
+perspective of co-construction. Gábor Halász tells stories of co-construction through a range of personal
+experiences. The chapter presents various forms of cooperative knowledge production in which
+researchers and practitioners learn from each other. It argues that using innovation and knowledgemanagement approaches could add a positive dimension to thinking about research use and impact.
+In Chapter 9, Mark Rickinson and colleagues focus on using research well in practice. The chapter draws
+on findings from a five-year study of research use in Australian schools. It explores how quality use of
+research can be conceptualised, what it involves in practice, and how it can be supported. The chapter
+concludes with four implications for individuals and organisations interested in strengthening the role of
+research in school and system improvement.
+Chapter 10 presents different perspectives on education research. The chapter starts with a short
+overview of key questions that have emerged from decades of debate about the relevance of education
+research for teaching practice and policy. What is its purpose? What types of research are relevant for
+policy and practice? How should research be produced? This is followed by seven short opinion pieces
+by: Mark Schneider, Dirk Van Damme, Vivian Tseng, Makito Yurita, Tine Prøitz, Emese K. Nagy, Martin
+Henry and John Bangs. The viewpoints come from academia, policy, consultancy, funders, teacher
+training, and unions, and from different countries. The chapter concludes with a set of convergences,
+divergences and open questions.
+Chapter 11 draws together the lessons learnt from the previous chapters and the OECD policy survey.
+Nóra Révai highlights six overall messages that emerged from the research presented in the volume,
+taking stock of the remaining challenges for improving research-policy-practice engagement. The chapter
+ends with describing how the Strengthening the Impact of Education Research project will advance this
+agenda in the coming years.
+
+--- [PDF Page 30 / Book Page 28] ---
+
+References
+Bell, M. et al. (2010), Report of Professional Practitioner Use of Research Review: Practitioner
+Engagement in and/or with Research, Centre for the Use of Research and Evidence in
+Education (CUREE), http://www.curee.co.uk/node/2303 (accessed on 22 January 2022).
+
+[44]
+
+Best, A. and B. Holmes (2010), “Systems thinking, knowledge and action: Towards better
+models and methods”, Evidence & Policy: A Journal of Research, Debate and Practice,
+Vol. 6/2, pp. 145–159, https://doi.org/10.1332/174426410X502284.
+
+[8]
+
+Boaz, A. et al. (eds.) (2019), What Works Now? Evidence-informed Policy and Practice, Policy
+Press, Bristol.
+
+[52]
+
+Boaz, A. and S. Nutley (2019), “Using evidence”, in Boaz, A. et al. (eds.), What Works Now?
+Evidence-Informed Policy and Practice, Policy Press.
+
+[7]
+
+Brown, C. (2018), “Research learning networks - A case study in using networks to increase
+knowledge mobilization at scale”, in Brown, C. and C. Poortman (eds.), Networks for
+Learning, Routledge, London and New York.
+
+[30]
+
+Burkhardt, H. and A. Schoenfeld (2021), “Not just “implementation”: The synergy of research and
+practice in an engineering research approach to educational design and development”, ZDM
+– Mathematics Education, Vol. 53/5, pp. 991-1005, https://doi.org/10.1007/s11858-02001208-z.
+
+[46]
+
+Burkhardt, H. and A. Schoenfeld (2003), “Improving educational research: Toward a more useful,
+more influential, and better-funded enterprise”, Educational Researcher, Vol. 32/9, pp. 3-14,
+https://doi.org/10.3102/0013189x032009003.
+
+[47]
+
+Burns, T. and F. Köster (eds.) (2016), Governing Education in a Complex World, Educational
+Research and Innovation, OECD Publishing, Paris, https://doi.org/10.1787/9789264255364en.
+
+[6]
+
+Burns, T., F. Köster and M. Fuster (2016), Education Governance in Action: Lessons from Case
+Studies, Educational Research and Innovation, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264262829-en.
+
+[38]
+
+Cairney, P. (2019), “Evidence and policy making”, in Boaz, A. et al. (eds.), What Works Now?
+Evidence-informed Policy and Practice, Policy Press.
+
+[41]
+
+Campbell, C. et al. (2017), “Developing a knowledge network for applied education research to
+mobilise evidence in and for educational practice”, Educational Research, Vol. 59/2, pp. 209227, https://doi.org/10.1080/00131881.2017.1310364.
+
+[24]
+
+Cherney, A. et al. (2012), “What influences the utilisation of educational research by policymakers and practitioners?: The perspectives of academic educational researchers”,
+International Journal of Educational Research, Vol. 56, pp. 23-34,
+https://doi.org/10.1016/j.ijer.2012.08.001.
+
+[45]
+
+Coburn, C. and W. Penuel (2016), “Research-practice partnerships in education”, Educational
+Researcher, Vol. 45/1, pp. 48-54, https://doi.org/10.3102/0013189x16631750.
+
+[42]
+
+--- [PDF Page 31 / Book Page 29] ---
+
+Cochran-Smith, M. and S. Lytle (2006), “Troubling images of teaching in no child left behind”,
+Harvard Educational Review, Vol. 76/4, pp. 668-697,
+https://doi.org/10.17763/HAER.76.4.56V8881368215714.
+
+[14]
+
+Cooper, A. (2014), “Knowledge mobilisation in education across Canada: A cross-case analysis
+of 44 research brokering organisations”, Evidence & Policy: A Journal of Research, Debate
+and Practice, Vol. 10/1, pp. 29-59, https://doi.org/10.1332/174426413x662806.
+
+[51]
+
+Cooper, A., D. Klinger and P. McAdie (2017), “What do teachers need? An exploration of
+evidence-informed practice for classroom assessment in Ontario”, Educational Research,
+Vol. 59/2, pp. 190-208, https://doi.org/10.1080/00131881.2017.1310392.
+
+[43]
+
+Dumont, H., D. Istance and F. Benavides (eds.) (2010), The Nature of Learning: Using Research
+to Inspire Practice, Educational Research and Innovation, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264086487-en.
+
+[31]
+
+Education.org (2021), Calling for an Education Knowledge Bridge. A White Paper to Advance
+Evidence Use in Education, https://education.org/white-paper.
+
+[5]
+
+EEF (2019), About Us, Education Endowment Foundation,
+https://educationendowmentfoundation.org.uk/about/history/ (accessed on 6 July 2019).
+
+[29]
+
+EEF (n.d.), Teaching and Learning Toolkit, Education Endowment Foundation,
+https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit
+(accessed on 11 October 2018).
+
+[16]
+
+Enthoven, M. and E. de Bruijn (2010), “Beyond locality: The creation of public practice-based
+knowledge through practitioner research in professional learning communities and
+communities of practice. A review of three books on practitioner research and professional
+communities”, Educational Action Research, Vol. 18/2, pp. 289-298,
+https://doi.org/10.1080/09650791003741822.
+
+[48]
+
+Fazekas, M. and T. Burns (2012), “Exploring the Complex Interaction Between Governance and
+Knowledge in Education”, OECD Education Working Papers, No. 67, OECD Publishing,
+Paris, https://doi.org/10.1787/5k9flcx2l340-en.
+
+[49]
+
+Glover, J. et al. (2006), “Evidence-based medicine pyramid”.
+
+[12]
+
+Goldacre, B. (2013), “Building evidence into education”, Department for Education,
+https://www.gov.uk/government/news/building-evidence-into-education (accessed on
+3 November 2017).
+
+[13]
+
+Gough, D., C. Maidment and J. Sharples (2018), UK What Works Centres: Aims, Methods and
+Contexts, EPPI-Centre, Social Science Research Unit, UCL Institute of London,
+https://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/UK%20what%2
+0works%20centres%20study%20final%20report%20july%202018.pdf?ver=2018-07-03155057-243.
+
+[9]
+
+Hargreaves, D. (1996), Teaching as a research-based profession: Possibilities and prospects,
+The Teacher Training Agency, London.
+
+[27]
+
+Institute of Education Sciences (n.d.), What Works Clearinghouse,
+https://ies.ed.gov/ncee/wwc/FWW (accessed on 6 July 2019).
+
+[28]
+
+--- [PDF Page 32 / Book Page 30] ---
+
+Köster, F., C. Shewbridge and C. Krämer (2020), Promoting Education Decision Makers’ Use of
+Evidence in Austria, Educational Research and Innovation, OECD Publishing, Paris,
+https://doi.org/10.1787/0ac0181e-en.
+
+[40]
+
+Kuhl, P. et al. (2019), Developing Minds in the Digital Age: Towards a Science of Learning for
+21st Century Education, Educational Research and Innovation, OECD Publishing, Paris,
+https://doi.org/10.1787/562a8659-en.
+
+[32]
+
+Kvernbekk, T. (2015), Evidence-based Practice in Education: Functions of Evidence and Causal
+Presuppositions, Routledge.
+
+[19]
+
+Langer, L., J. Tripney and D. Gough (2016), The Science of Using Science Researching the Use
+of Research Evidence in Decision-Making, EPPI-Centre, Institute of Education, University
+College London.
+
+[22]
+
+Levin, B. (2008), “Thinking about knowledge mobilization”, Paper presented at a symposium
+sponsored by the Canadian Council on Learning and the Social Sciences and Humanities
+Research Council of Canada,
+https://www.oise.utoronto.ca/rspe/UserFiles/File/KM%20paper%20May%20Symposium%20F
+INAL.pdf.
+
+[23]
+
+New Zealand Ministry of Education (2019), The Iterative BES Programme,
+https://www.educationcounts.govt.nz/topics/BES/about-bes (accessed on 8 July 2019).
+
+[15]
+
+Nutley, S. et al. (2010), Evidence and Policy in Six European Countries: Diverse Approaches
+and Common Challenges, Policy Press, https://doi.org/10.1332/174426410X502275.
+
+[11]
+
+Nutley, S., A. Powell and H. Davies (2013), “What counts as good evidence? Provocation paper
+for the Alliance for Useful Evidence”, Alliance for Useful Evidence, University of St Andrews,
+http://www.alliance4usefulevidence.org (accessed on 18 October 2019).
+
+[17]
+
+Nutley, S., I. Walter and H. Davies (2007), Using Evidence - How Research Can Inform Public
+Services, Policy Press, Bristol.
+
+[10]
+
+OECD (2007), Evidence in Education: Linking Research and Policy, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264033672-en.
+
+[1]
+
+OECD (2003), New Challenges for Educational Research, Knowledge Management, OECD
+Publishing, Paris, https://doi.org/10.1787/9789264100312-en.
+
+[4]
+
+OECD (2000), Knowledge Management in the Learning Society, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264181045-en.
+
+[3]
+
+Petticrew, M. and H. Roberts (2003), “Evidence, hierarchies, and typologies: Horses for
+courses”, Journal of Epidemiology and Community Health, Vol. 57/7, pp. 527-529,
+https://doi.org/10.1136/jech.57.7.527.
+
+[18]
+
+Powell, A., H. Davies and S. Nutley (2017), “Facing the challenges of research-informed
+knowledge mobilization: ‘Practising what we preach’?”, Public Administration, Vol. 96/1,
+pp. 36-52, https://doi.org/10.1111/padm.12365.
+
+[2]
+
+Rasmussen, P. (2021), “Educational research – Public responsibility, private funding?”, Nordic
+Journal of Studies in Educational Policy, pp. 1-10,
+https://doi.org/10.1080/20020317.2021.2018786.
+
+[50]
+
+--- [PDF Page 33 / Book Page 31] ---
+
+Révai, N. (2020), “What difference do networks make to teachers’ knowledge?: Literature review
+and case descriptions”, OECD Education Working Papers, No. 215, OECD Publishing, Paris,
+https://doi.org/10.1787/75f11091-en.
+
+[37]
+
+Révai, N. and S. Guerriero (2017), “Knowledge dynamics in the teaching profession”, in
+Pedagogical Knowledge and the Changing Nature of the Teaching Profession, OECD
+Publishing, Paris, https://doi.org/10.1787/9789264270695-4-en.
+
+[36]
+
+Rickinson, M. et al. (2020), Quality Use of Research Evidence Framework, Monash University,
+Melbourne.
+
+[53]
+
+Rincón-Gallardo, S. and M. Fullan (2016), “Essential features of effective networks in education”,
+Journal of Professional Capital and Community, Vol. 1/1, pp. 5-22,
+https://doi.org/10.1108/JPCC-09-2015-0007.
+
+[26]
+
+Sharples, J. (2013), Evidence for the Frontline: A Report for the Alliance for Useful Evidence,
+Alliance for Useful Evidence, London, http://www.alliance4usefulevidence.org.
+
+[21]
+
+Shewbridge, C. and F. Köster (2021), Promoting Education Decision Makers’ Use of Evidence in
+Flanders, Educational Research and Innovation, OECD Publishing, Paris,
+https://doi.org/10.1787/de604fde-en.
+
+[39]
+
+Sonmark, K. et al. (2017), “Understanding teachers’ pedagogical knowledge: report on an
+international pilot study”, OECD Education Working Papers, No. 159, OECD Publishing,
+Paris, https://doi.org/10.1787/43332ebd-en.
+
+[33]
+
+Ulferts, H. (ed.) (2021), Teaching as a Knowledge Profession: Studying Pedagogical Knowledge
+across Education Systems, Educational Research and Innovation, OECD Publishing, Paris,
+https://doi.org/10.1787/e823ef6e-en.
+
+[35]
+
+Ulferts, H. (2019), “The relevance of general pedagogical knowledge for successful
+teaching: Systematic review and meta-analysis of the international evidence from primary to
+tertiary education”, OECD Education Working Papers, No. 212, OECD Publishing, Paris,
+https://doi.org/10.1787/ede8feb6-en.
+
+[34]
+
+Van De Ven, A. and P. Johnson (2006), “Knowledge for theory and practice”, The Academy of
+Management Review, Vol. 31/4, pp. 802-821, https://www.jstor.org/stable/pdf/20159252.pdf
+(accessed on 9 December 2019).
+
+[25]
+
+Winch, C., A. Oancea and J. Orchard (2015), “The contribution of educational research to
+teachers’ professional learning: Philosophical understandings”, Oxford Review of Education,
+Vol. 41/2, pp. 202-216, https://doi.org/10.1080/03054985.2015.1017406.
+
+[20]
+
+Notes
+1
+
+The Teacher Knowledge Survey has been integrated as an optional module in the 2024 Teaching and
+Learning International Survey (TALIS).
+
+--- [PDF Page 34 / Book Page 32] ---
+
+OECD member countries: Austria, Belgium (Flemish and French Communities), Canada (Quebec,
+Saskatchewan), Chile, Colombia, Costa Rica, Czech Republic, Denmark, Estonia, Finland, Hungary,
+Iceland, Japan, Korea, Latvia, Lithuania, Netherlands, New Zealand, Norway, Portugal, Slovak Republic,
+Slovenia, Spain, Sweden, Switzerland (Appenzell Ausserrhoden, Lucerne, Nidwalden, Obwalden, St.
+Gallen, Uri, Zurich), Turkey, United Kingdom (England), United States (Illinois). Non-member countries:
+Russian Federation, South Africa.
+3
+
+Japan, New Zealand, Norway, Portugal, Slovenia, South Africa.

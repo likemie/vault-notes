@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -33,6 +33,9 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Research-Practice Partnership]]"
+  - "[[Knowledge Production]]"
+  - "[[Evidence-Based Education]]"
   - "[[Public Engagement with Science]]"
   - "[[Shape-Shifting]]"
   - "[[New Professionalism]]"
@@ -48,11 +51,12 @@ related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Cowen_2009_CE]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-09-04
+updated: 2026-09-12
 ---
 
 # Research Excellence Framework
@@ -96,6 +100,8 @@ updated: 2026-09-04
 >   REF 同时运作三种功能：**符号分配**（赋予大学“世界领先”或“国际卓越”的声誉等级）、**物质分配**（决定质量相关财政拨款）、以及**合法性制造**（声称评估基于中立专家的研究质量评审）。相同的评分结果在 Russell Group 精英大学（作为扩张的公关资本）与 1992 年后升格大学（作为削减预算的合理化备忘录）产生了截然相反的合法性与生存后果。
 > - **大学及学者的行为性优化**
 >   院系和研究机构的日常运转、招聘、晋升以及资源配置系统性地围绕 REF 的审计标准展开。这驱使学者在选题时避开风险高、见效慢的研究，转而追求在 REF 周期内更易产生发表和可测度影响的研究，造成学术生态向短期效益偏斜。
+> - **科研考评导向与知识共创（Co-production）的结构性脱节**
+>   尽管 REF 等评估框架逐步强化了[[Research Impact|社会经济影响]]（impact）的要求，但大学内部的职称晋升与同行考评依然严重向高影响因子期刊发表倾斜（Cherney et al., 2012）。学者投身于教育实践一线、开展研究—实践伙伴关系（[[Research-Practice Partnership|RPP]]）和协同[[Knowledge Production|知识生产]]所需的大量时间与信任投入，在现行学术考核中缺乏制度化承认与折算机制，导致学术激励导向与国家所倡导的[[Evidence-Based Education|循证教育]]实践需求发生深层错位（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 22]]；Burkhardt & Schoenfeld, 2021）。
 > - **[[Public Engagement with Science|公众科学参与]]影响力的测度困境与资源偏倚**
 >   在 REF 2014 与 REF 2021 中，虽然约 50% 的影响力案例提及公众科学参与（人文社科领域显著高于理工医领域），但由于公众参与带来的社会认知与文化变革具有微妙、弥散与长周期特征，因果链条极其难以进行简单量化归因，导致高校在申报时存在顾虑，对公众参与的实质资源投入显著逊于专利商业化与技术创新（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society, 2026, p. 101]]）。
 
@@ -105,20 +111,21 @@ updated: 2026-09-04
 
 > [!dimension] RAE/REF 审计催生的英国大学[[Shape-Shifting|形变]]维度
 > - **外部治理的自治权力侵蚀**
->   大学对“学术质量”和“制度使命”的自我定义权向[[External Auditor|外部审计]]机构转移。由 REF/RAE 与高等教育质量保障署（QAA）等准政府机构主导的数值化评估，在大学外部确立了以审计为主导的质量控制边界，削弱了学术共同体的传统自治权（[[Argument_Cowen_2009_CE|Cowen, 2009, p. 320]]）。
+>   大学对“学术质量”和“制度使命”的自我定义权向[[External Auditor|外部审计]]机构转移。由 REF/RAE 与高等教育质量保障署（QAA）等准政府机构主导的数值化评估，在大学外部确立了以审计为主导的质量控制边界，削弱了学术共同体的传统自治权（[[Argument_Cowen_2009_CE|Cowen, 2009b, p. 320]]）。
 > - **内部治理的管理主义化**
->   大学从“学术共同体”蜕化为高度集权的管理主义公司。高层经理人（前学术人员）致力于度量并压榨学术人员的剩余价值，将科研指标转化为具体的生产率约束，迫使学者卷入以记录保存（record-keeping）为日常核心的官僚审计泥潭，从而压制了大学吸纳和支持长时段风险研究的能力（[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 320–321]]）。
+>   大学从“学术共同体”蜕化为高度集权的管理主义公司。高层经理人（前学术人员）致力于度量并压榨学术人员的剩余价值，将科研指标转化为具体的生产率约束，迫使学者卷入以记录保存（record-keeping）为日常核心的官僚审计泥潭，从而压制了大学吸纳和支持长时段风险研究的能力（[[Argument_Cowen_2009_CE|Cowen, 2009b, pp. 320–321]]）。
 > - **教学契约的[[New Professionalism|新专业主义]]化**
 >   教学关系被新专业主义（new professionalism）的审计契约关系所取代。教学过程被标准化课程手册、辅导备忘录存档所监控，师生间传统的学术伦理纽带被官僚契约所驱逐，以符合外部审计机构的可见性与可监控性要求。
 > - **研究承诺的功利化与降级**
->   研究关系陷入彻底的效能化和准商品化。为迎合 REF 的评估指标，科研经费和评估等级被高度绑定于社会影响（impact）。这导致探索未知本质的[[Blue Skies Research|蓝天研究]]被降级为非[[Pragmatic Paradigm|实用主义]]学术，传统的洪堡与雅斯贝尔斯式的人文主义科研追求被纯粹的工具主义契约关系所取代（[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 321–322]]）。
+>   研究关系陷入彻底的效能化和准商品化。为迎合 REF 的评估指标，科研经费和评估等级被高度绑定于社会影响（impact）。这导致探索未知本质的[[Blue Skies Research|蓝天研究]]被降级为非[[Pragmatic Paradigm|实用主义]]学术，传统的洪堡与雅斯贝尔斯式的人文主义科研追求被纯粹的工具主义契约关系所取代（[[Argument_Cowen_2009_CE|Cowen, 2009b, pp. 321–322]]）。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid] 学术审计与 REF 影响研究
-> - **[[Argument_Cowen_2009_CE|Cowen (2009)]]** 批判性揭示了以 RAE/REF 为代表的数值化外部评估如何侵蚀大学自治自治边界，迫使大学转向管理主义公司并剥离[[Blue Skies Research|蓝天研究]]。
+> - **[[Argument_Cowen_2009_CE|Cowen (2009b)]]** 批判性揭示了以 RAE/REF 为代表的数值化外部评估如何侵蚀大学自治自治边界，迫使大学转向管理主义公司并剥离[[Blue Skies Research|蓝天研究]]。
 > - **[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]** 将 REF 定位为[[Quasi-markets in Higher Education|高等教育准市场]]最成熟的制度形式，系统分析了其将[[Performance Indicators|绩效指标]]与财政拨款挂钩所带来的制度效应与行为重塑。
 > - **[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]]** 阐述了 REF 框架下“[[Research Impact|社会经济影响]]（impact）”评估指标的引入，探讨其对大学科研成果向社会成果转化的催化作用与政策张力。
 > - **[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6)]]** 系统解构了 REF 影响力评估机制对大学[[Public Engagement with Science|公众科学参与]]的双重效应，揭示约 50% 案例涉及参与背后的微观量化困境，并阐释 REF 2029 设立独立“参与与影响”维度的制度改革意涵。
+> - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022, p. 22)]]** 揭示了 REF 等国家科研卓越评估框架下学术激励与实践需求的结构性错位：尽管政策要求论证研究影响，但大学考评依然高度向高影响因子学术期刊发表倾斜，导致学者缺乏投身[[Evidence-Based Education|循证教育]]知识共创（co-production）与跨界协作的实质性制度支持。

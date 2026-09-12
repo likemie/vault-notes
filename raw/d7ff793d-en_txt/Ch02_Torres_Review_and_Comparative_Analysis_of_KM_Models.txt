@@ -1,0 +1,1360 @@
+================================================================================
+Chapter: Louder than Words: Review and comparative analysis of knowledge mobilisation models
+Author(s): José Manuel Torres
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Part I: Conceptual landscape and the evolution of the field
+Book Pages: pp. 33–54
+PDF Pages: pp. 35–56 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 35 / Book Page 33] ---
+
+2 Louder than Words: Review and
+
+comparative analysis of knowledge
+mobilisation models
+José Manuel Torres, OECD
+
+This chapter provides an overview of some dominant models of knowledge
+mobilisation. First, it compares and contrasts these models using the three
+approaches of thinking described by Best and Holmes: Linear, relationship
+and systems. Second, the chapter highlights some additional, more recent
+models that focus on a specific aspect of research dynamics. The last
+section builds on these models and presents recommendations to capture
+the research dynamics at play within the complex interactions of education
+research, policy and practice. These recommendations may inform the
+development of a future model which could ultimately enhance student and
+professional learning.
+
+--- [PDF Page 36 / Book Page 34] ---
+
+Introduction
+Understanding the links between education research and its use in policy and practice is important to frame
+efforts to increase the impact of research. Substantial research has been done to conceptualise and model
+knowledge mobilisation over the past two decades. It is now timely to map the evolution of this field and
+identify major developments and current shortcomings.
+The literature presents a large number of sometimes confusing concepts describing knowledge
+mobilisation, its different elements and the contexts in which it develops. Gough and colleagues refer to
+“knowledge mediation” defined as “connections between evidence production and use with the overt
+purpose of bringing together producers and users of evidence” (Gough et al., 2011, p. 23[1]), Cooper uses
+“knowledge mobilisation” and defines it as “intentional efforts to increase the use of research evidence […]
+in policy and practice at multiple levels of the education sector” (Cooper, 2014, p. 29[2]).
+In line with this diversity of definitions, multiple conceptual frameworks on knowledge mobilisation have
+been developed. The focus of the models and the sectors for which they were developed differ, with health
+and education being the most common. As with definitions, some frameworks cover the relationships
+between research production and research use while others centre their analyses on the relationships
+between research, practice and policy. The lack of agreement on terminology, conceptual framing and the
+elements composing them was identified more than 10 years ago as one of the main challenges to
+enhancing knowledge mobilisation efforts (Levin, 2008[3]).
+These frameworks have evolved over time to capture more of the complexity of educational research
+systems. They have shifted from presenting one-way processes, with research as a generalisable product,
+to considering the system as a whole. This system is characterised by different elements influencing one
+another. Nevertheless, this evolution has not converged towards a general framework of knowledge
+mobilisation, articulating each local framework within a larger framework (Nokes, 2009[4]). Nor has it
+resulted in a universally agreed model outlining the nature of research-based practice and policy (Gough,
+Maidment and Sharples, 2018[5]). The feasibility of converging on such a model is highly unlikely due to
+the complexity of educational ecosystems and the specific interests that different stakeholders may choose
+focus on.
+The aim of this chapter is to identify the strengths of existing frameworks and the shortcomings they may
+still have despite their evolution. The analysis of different knowledge mobilisation models provides an
+overview of how depicting complexity in education research systems have evolved over time. It also sheds
+light on the relative importance assigned to each element in the models. Ultimately, this will help us think
+about knowledge mobilisation in new ways and this thinking will inform initiatives aimed at reinforcing
+research production and use.
+First, the chapter provides an overview of selected models of knowledge mobilisation, analysing and
+comparing them using three conceptual approaches described by Best and Holmes (2010[6]). Next, it
+presents some additional models that focus on specific aspects of research dynamics that provide new
+perspectives on knowledge mobilisation. The last section proposes recommendations emerging from the
+analysis of existing models to capture the complexity of educational research dynamics in policy making
+and teaching practice and inform the development of a clearer vision of knowledge mobilisation.
+
+Conceptual approaches: An analytical lens
+The different conceptualisations of interactions between research, policy and practice on one side, and
+research production and its use on the other, determine their relevance and shape efforts to improve their
+outcomes (Best and Holmes, 2010[6]). Finding an appropriate model for knowledge mobilisation can
+
+--- [PDF Page 37 / Book Page 35] ---
+
+ultimately contribute to harnessing the use of research evidence in both policy making, and school and
+teaching practice.
+Best and Holmes (2010[6]) characterised three ways of thinking about research-policy-practice links: The
+linear model, the relationship model, and the systems model. The former two have already been analysed
+in earlier OECD work (2000[7]).
+The linear model presents one-way processes in which knowledge is a generalisable product and the use
+of it depends on “effective packaging”. Knowledge is produced by researchers, disseminated to users, and
+incorporated into practice and policy. This model assumes that these phases or processes follow a logical
+successive and dependent order, an assumption reflected in the language used to describe these phases
+(e.g. “knowledge transfer”, “research uptake”). While Figure 2.1 gives a simplistic representation of a linear
+model of knowledge mobilisation with three phases, in more detailed models these phases can go up to
+seven: production, validation, collation, dissemination, adoption, implementation, and institutionalisation
+(OECD, 2000[7]).
+
+Figure 2.1. Knowledge mobilisation linear model
+
+Knowledge
+production
+
+Knowledge
+mediation
+
+Knowledge
+application
+
+Source: OECD (2000[7]), Knowledge Management in the Learning Society, https://doi.org/10.1787/9789264181045-en.
+
+With research knowledge production being isolated from research use in policy and practice, these linear
+knowledge transfer models have been refuted since at least the late 1970s (Lave and Wenger, 1991[8]).
+One argument is that one-way research transfer processes (i.e. research “passing” from producers to users
+who implement it) do not adequately explain what happens in reality (Levin, 2013[9]). A second argument
+is that the assumption of a linear model has led to “a gap between the communities of researchers and
+decision-makers, [failing] to interact and understand each other” (Langer, Tripney and Gough, 2016,
+p. 49[10]). Far from being an orderly exercise, “knowledge processes” tend to have feedback loops and
+overlaps between them. Thus, a more accurate representation would be interactive modelling, where
+connections and interdependencies between components influence one another at different points.
+The relationship model focuses on the connections and interactions between either actors using
+knowledge or processes related to its production and use. This model still takes into account linear
+processes such as dissemination and diffusion of knowledge. It also stresses the influence that
+partnerships and networks of actors with similar concerns can have on the sharing of knowledge. In this
+approach, knowledge can come from multiple sources – either research or theory, policy or practice – and
+its use will depend on the effectiveness of the processes and relationships developed.
+In this conceptualisation, knowledge users such as teachers have a more engaged role in knowledge
+production. It also accounts for the active contribution research producers can make to knowledge
+mobilisation processes. These processes of transfer and integration can, in turn, lead to the creation of
+new knowledge. Figure 2.2 presents a simplified version of knowledge mobilisation through the lens of this
+more sophisticated way of thinking, with the interaction between the elements in the system being one of
+its most relevant characteristics (OECD, 2000[7]).
+Finally, the systems model builds on and extends the diffusion, dissemination and relational processes of
+the former models. It builds on both systems theory and complexity theory, which postulates that systems
+consist of individual actors who create relationships among each other, which in turn are formed in
+
+--- [PDF Page 38 / Book Page 36] ---
+
+response to feedback. New structures and behaviours emerge as a result of actors’ actions and
+interactions (Snyder, 2013[11]). Self-organisation, the emergence of patterns and multi-directional flows of
+knowledge are thus inherent to systems models. Here, the presence of constant feedback loops and the
+understanding of the roles, actions and contexts of key stakeholders, and how they shape – and are
+shaped by – the system are key.
+
+Figure 2.2. Knowledge mobilisation relationships model
+
+Knowledge
+production
+
+Knowledge
+mediation
+
+Knowledge
+application
+
+Source: OECD (2000[7]), Knowledge Management in the Learning Society, https://doi.org/10.1787/9789264181045-en.
+
+Systems theory sees systems (e.g. the education research system) as containing interdependent
+components, structured in a hierarchical order. Organisations within these systems are also
+interdependent and must maintain permeable boundaries in order to receive, transform and export
+knowledge. During these processes, systems engage in negative and positive feedback loops. These
+feedback loops serve to correct errors or improve the system as a whole or one particular element of it.
+These different processes allow a whole system to be greater than the sum of its parts (Lai and Huili Lin,
+2017[12]).
+This type of model considers the presence of multiple sources of knowledge and interrelated circuits of
+knowledge linking locally generated knowledge to knowledge developed through more systematic
+coordination. All the relevant stakeholders actively participate in the production and/or the use of
+knowledge. Researchers, practitioners, policy makers and other actors influence one another, directly and
+indirectly, within dynamic systems.
+Through the systems lens, strategies to coordinate the use of research knowledge have to take into
+account all the key actors and factors that could affect processes in educational systems. The success of
+these strategies will depend on their coordination across multiple levels; skills and capacities of the actors;
+the existence of leadership spread across various actors; the effectiveness of communication channels;
+and well-placed structures of accountability. It is the interdependencies of these elements that make it
+difficult to capture the complexity of education research dynamics in a model.
+Three ways of thinking about knowledge mobilisation – linear, relational and systems – guide the analysis
+of the selected frameworks in this chapter. This point hides an important caveat: That a model is a
+simplified description of a system and/or its processes. When the system it depicts is highly complex,
+certain elements are not represented or minimised and some others are emphasised. The models
+
+--- [PDF Page 39 / Book Page 37] ---
+
+representing knowledge mobilisation, and the elements their authors chose to include, have an impact on
+which, and how, different actors within the system are represented and where the efforts will be focused
+(Sharples, forthcoming[13]). Thus, it must be recognised that an analysis of the evolution of these depictions
+also maps changes in the perceptions of the education research system and the components of it that are
+most valued.
+
+Knowledge mobilisation models
+The next two sections will briefly present the four selected models, and compare and contrast them. The
+selected frameworks and models reflect the evolution of knowledge mobilisation perspectives over time.
+Rather than a comprehensive review, the following four models have been selected because they are
+widely cited, highly recognised by leading experts in the field and/or add a new perspective and elements
+to consider on the subject.
+The section starts with a brief description of each model, which is followed by a more in-depth analysis
+summarised in Table 2.1.
+
+Knowledge-transfer strategy framework
+Lavis and colleagues (2003[14]) provide an organisational framework for a knowledge-transfer strategy in
+both the applied health and economic/social policy sectors, represented by Figure 2.3. This framework
+considers five elements, which are laid out in the form of answers to the following questions.
+
+
+What should be transferred to decision makers? The message
+Research organisations have to transfer actionable messages coming from a broad body of
+research and not simply from a unique study. The authors highlight that not all research can or
+should have an impact. The work can help with identifying problems, generating hypotheses, and
+developing new methodologies rather than solely informing decision making.
+
+
+
+Whom should research knowledge be transferred to? The target audience
+The clear identification of a target audience is key. The audience, its environment and the decisions
+they face define the specific strategy for the message’s transfer. Thus, the target audience directly
+affects the nature of other elements in the framework. The authors describe four types of audience:
+General public or service recipients; service providers; managerial decision makers; and policy
+decision makers. These different audiences with their different characteristics and objectives
+influence the format in which the message is delivered.
+
+
+
+Who should transfer research knowledge? The messenger
+The messenger can be an individual, group or organisation. What is most important is that the
+messenger has credibility in this role as this can affect the potential success of knowledge-transfer
+strategies. Building this credibility is time-consuming and skill-intensive, and having the right
+messenger for a particular strategy depends on the capacity of other elements of the framework.
+For instance, a credible messenger who is known among policy makers in the health sector would
+not be the best choice for transferring research knowledge to teachers.
+
+
+
+How should research knowledge be transferred? Knowledge transfer processes and supporting
+communications infrastructure
+Regardless of the target audience, active rather than passive engagement processes are the most
+effective. One-way processes such as “producer-push” efforts that are, for example, led by research
+producers who push research out into policy or practice (Davies, Powell and Nutley, 2015[15]) are
+less desirable than “user-pull” approaches in which, for example, research users reach out to
+researchers to obtain information (Davies, Powell and Nutley, 2015[15]). Bi-directional processes
+
+--- [PDF Page 40 / Book Page 38] ---
+
+that place value on what research producers and users can learn from each other are optimal for
+generating an actual change in decision-making cultures, regardless of the audience. The mode of
+interaction between actors requires significant attention and, consequently, so does the
+communications infrastructure that supports it.
+
+
+With what effect should research knowledge be transferred? The evaluation
+The expected results and measurement of a knowledge-transfer strategy’s outputs depends on the
+target audience, its objectives, and the types of processes analysed. In the case of education, the
+objective could be changing a particular teaching practice (or the practice of a health professional
+in the original focus) whereas for policy makers, it could be informing debate on the selection of a
+possible course of action.
+
+Figure 2.3. Knowledge-transfer strategy framework
+
+MESSENGER
+• Individual
+• Group
+• Organisation
+
+TARGET AUDIENCE
+transfers
+
+MESSAGE
+
+defines
+
+• General public or service
+recipients
+• Service providers
+• Managerial decision
+makers
+• Policy makers
+
+KNOWLEDGE-TRANSFER PROCESSES | SUPPORTING COMMUNICATION INFRASTRUCTURE
+
+EVALUATION
+
+Measurement depending on:
+• Target audience
+• Objectives
+• Type of process
+
+Source: Own elaboration, based on Lavis, J. et al. (2003[14]), “How can research organizations more effectively transfer research knowledge to
+decision makers”, The Milbank Quarterly, Vol. 81/2, pp. 221-248.
+
+Knowledge-to-action framework
+Graham and colleagues (2006[16]) offered a framework to elucidate the key elements of the knowledge-toaction (KTA) process in the health sector with action encompassing the use of knowledge by practitioners,
+policy makers, patients, and the public. This framework is represented in Figure 2.4.
+Conceptually, the KTA process is divided into two main components: Knowledge creation, represented in
+the figure by the funnel, and the Action cycle, with each of them comprised of ideal phases. However, the
+authors acknowledge that the actual process is complex and dynamic, and the hierarchy and limits
+between the components and their phases are fluid and permeable, occurring in sequence or
+simultaneously and influencing each other.
+In this framework, knowledge is mainly research-based but also includes other forms of knowing such as
+experiential knowledge. The Action cycle represents the activities and processes related to the use or
+application of knowledge.
+
+--- [PDF Page 41 / Book Page 39] ---
+
+Figure 2.4. Knowledge-to-Action framework: Knowledge creation and Action cycle
+
+Source: Crockett, L. (2017[17]), “The Knowledge-to-Action Framework”, https://medium.com/knowledgenudge/kt-101-the-knowledge-to-actionframework-7fbe399723e8 (accessed on 27 August 2021), based on Graham, I. et al. (2006[16]), “Lost in knowledge translation: Time for a map?”,
+http://dx.doi.org/10.1002/chp.47.
+
+Knowledge creation
+The knowledge creation component of the KTA framework considers the major types of knowledge that
+exist and can be used. It starts with the phase of knowledge inquiry, which represents the broad body of
+primary research or information of variable quality, relevance and accessibility. The next phase, knowledge
+synthesis, represents the aggregation of existing knowledge through the identification, appraisal, and
+synthesis of studies or information relevant to specific questions. This synthesis often takes the form of
+systematic reviews, including meta-analysis and meta-synthesis. Lastly, the third phase considers the
+creation of knowledge tools or products such as synopses, practice guidelines and decision aids, which
+aim to present knowledge in clear, concise, and user-friendly formats to ideally influence what research
+users do.
+Knowledge producers can adapt their activities to the needs of potential users in each of the phases,
+tailoring their research questions to address the problems identified by users or customising the message
+for the different users.
+
+Action cycle
+The authors consider the Action cycle of the KTA framework as a process leading to the implementation
+of knowledge, representing the activities needed for this application. These phases, summarised in
+
+--- [PDF Page 42 / Book Page 40] ---
+
+Figure 2.4, are dynamic and can influence each other, leading to permanent feedback between them. They
+can also be influenced by the knowledge creation phases.
+
+Research knowledge mobilisation model
+Levin (2004[18]) developed a framework on research impact in the education sector, which would later be
+used by several authors to conceptualise knowledge mobilisation and later formed the basis of Levin’s own
+knowledge mobilisation model. In this framework, the author considers research impact to have four core
+elements.
+First, the context of research production. This includes what and how research gets done, who does it, and
+the communication activities undertaken. It assumes that the production is mainly located in the academic
+world but that it also takes place in a variety of organisations.
+Second, the context of research use. This includes governments, educational organisations, teachers, the
+school community, students and all contexts that have an interest in the application of research. It
+considers the views, capacities and structures enabling these organisations to find, understand and use
+research or limiting them.
+The framework emphasises all types of connections and interactions between these two contexts – direct
+or mediated; formal or informal; face-to-face or digital; strong or weak – which should enhance impact over
+time. These connections tend to happen through third-party mediation – the third element. This extends to
+varying degrees in both directions as research production and mediation can be influenced by research
+use. The author suggests that the contexts of mediation and use are larger than the research production
+context, as they bring together a wider set of institutions, organisations and individuals.
+Finally, these three elements are situated in a larger social context – the fourth element – which is itself in
+constant flux. This suggests that the actions of research producers and users, while important, are not the
+only ones affecting ideas and social practices. Furthermore, a variety of people and organisations work in
+both research production and use contexts, with individuals moving between research posts and
+educational practice.
+Levin (2011[19]; 2013[9]) would later present his research knowledge mobilisation model based on the
+above-mentioned framework. It represents three overlapping contexts: The production of research; use of
+research; and all mediating processes between these two (see Figure 2.5). In Levin’s model, which is
+based on systems theory, knowledge mobilisation happens where two or more of these contexts interact.
+These contexts do not refer necessarily to structures or organisations but, rather, to functions. The model
+acknowledges that some people and groups can operate in more than one context, which is why the
+triangles in the representation overlap. Within each context there is a wide range of connections and
+feedback loops with other parts of the system. The multiple organisational and personal connections
+between the contexts are represented by two-way arrows of different thicknesses, indicating the strength
+or the intensity of these relationships.
+While research production mainly (though not only) takes place in academia, research use considers both
+policy and practice settings such as schools and governmental organisations where the knowledge can be
+applied. Research mediation considers all the individuals or organisations attempting to connect research
+production and use such as think tanks, lobby groups, the media and professional organisations.
+The three contexts and the knowledge mobilisation processes taking place among them are influenced by
+institutional and organisational settings, and the social context in general. The structure of the system –
+e.g. the institutions, legal constraints and governance arrangements – also strongly shapes the
+mobilisation of research knowledge.
+
+--- [PDF Page 43 / Book Page 41] ---
+
+Figure 2.5. Research Knowledge Mobilisation model
+
+Production
+
+Use
+
+Universities
+Others
+
+Policymakers
+Practitioners
+
+Sector
+organisation
+
+Mediation
+Individuals
+Organisations
+Processes
+
+Social
+context
+
+Source: Levin, B. (2013[9]), “To know is not enough: Research knowledge and its use”, http://dx.doi.org/10.1002/rev3.3001.
+
+Evidence use analytical framework
+Gough and colleagues (2011[1]) developed a first framework to classify activities linking research evidence
+with policy making. Their model focuses on components already described by some of the other selected
+frameworks. In particular, it refers to the production of evidence, its use, and the mediation between these
+two as outlined by both Graham and colleagues, and Levin.
+The production of evidence includes not only producing relevant research but also enabling its production
+(e.g. individual and organisational conditions that facilitate the research production) and communicating its
+results. The use of evidence encompasses the direct use – i.e. the change of policy makers’ behaviour
+and ultimately of policy itself – and the indirect use – i.e. the shape of policy makers’ knowledge and
+attitudes. Mediation of evidence refers to the connections that bring together evidence producers and
+users. These are all processes that may occur at the individual, organisational and structural or system
+level.
+Although the terms “producers” and “users” could imply a linear, unidirectional flow of information, the
+authors highlight that these relationships occur in multiple directions. In this sense, evidence users are
+active constructors of knowledge and not just passive recipients of the work of research producers. Despite
+the fact that the three components – evidence production, mediation and use – are usually shown as
+separated in models, the authors highlight that they are commonly intertwined. To reflect these
+complexities of the system, Gough and colleagues added three other dimensions:
+
+
+Engagement of stakeholders other than evidence producers and users that may be involved in the
+process, such as civil society organisations, employers’ organisations, social partners and the
+media.
+
+
+
+Recognition that the components of the model work together as a system, emphasising the
+importance of coordinated and effective interventions.
+
+
+
+Research on evidence production and use itself, which informs the processes occurring within the
+system and its continuous improvement.
+
+The framework developed by Gough and colleagues has evolved over time, and this evolution is discussed
+below and represented by Figure 2.6.
+
+--- [PDF Page 44 / Book Page 42] ---
+
+Figure 2.6. Evidence use ecosystem framework
+A. Evidence production-to-use system
+
+EVIDENCE-INFORMED SYSTEM
+STAKEHOLDER ENGAGEMENT
+
+EVIDENCE
+PRODUCTION
+
+EVIDENCE
+USE
+
+MEDIATION
+
+RESEARCH ON EVIDENCE PRODUCTION AND USE
+B. Evidence ecosystem
+
+WIDER SYSTEMS AND CONTEXTS
+ACTORS | PERSPECTIVES | ISSUES | QUESTIONS | POWER
+
+DECISION MAKING
+
+RESEARCH PRODUCTION
+
+ENGAGEMENT
+
+Informed by research
+
+Support
+uptake
+
+Primary research
+Mapping and synthesis
+Communication
+and interpretation
+
+C. Evidence use ecosystem analytical framework
+
+WIDER SYSTEMS AND CONTEXTS
+Many players and interests
+ACTORS | PERSPECTIVES | ISSUES | QUESTIONS | POWER
+
+POLICY, PRACTICE AND
+DECISION-MAKING
+
+ENGAGEMENT
+
+(synthesis)
+Demand for research
+Prioritise issues | Support uptake
+Guidance | Interpret | Communicate
+
+Enlightenment and/or
+instrumental use of
+evidence
+
+WHAT WE KNOW FROM
+RESEARCH
+
+IMPLEMENTATION OF
+DECISIONS
+
+Conceptual and/or
+instrumental
+evidence
+
+RESEARCH PRODUCTION
+(primary research)
+EVIDENCE ECOSYSTEM
+
+Source: Panel A: Adapted from Gough, D. et al. (2011[1]), Evidence Informed Policymaking in Education in Europe : EIPEE Final Project Report,
+EPPI-Centre, Social Science Research Unit, Institute of Education, University of London; Panel B: Adapted from Gough, D., C. Maidment and
+J. Sharples (2018[5]), EPPI-Centre; Panel C: Adapted from Gough, D., J. Thomas and S. Oliver (2019[20]), “Clarifying differences between
+reviews within evidence ecosystems”, http://dx.doi.org/10.1186/s13643-019-1089-2.
+
+--- [PDF Page 45 / Book Page 43] ---
+
+In 2018, Gough and colleagues (2018[5]) adapted this model to analyse the work undertaken by the United
+Kingdom’s What Works Centres, enlarging its scope to evidence-informed policy and practice. Graphically,
+the swap between the two components of research production, commonly on the left, and the research
+use, commonly on the right, forces a new consideration of their non-linear relationship. As most countries
+read from left to right, the previous configuration emphasised a “research push” interpretation in which
+produced knowledge comes first and should inform decision making in practice and policy. The later model
+inverses the perspective to put greater emphasis on pull mechanisms and adopts a systems view indicating
+various interacting elements.
+Regarding research use, the authors distinguished between use by policy makers and practitioners,
+directly making and implementing the decisions (“decision making” in the figure) and use by the Centres.
+This latter use acts as an enabler of the former, supporting individuals and organisations in the policy and
+practice contexts to use research (“supporting uptake” in the figure).
+The dotted lines surrounding the core elements of the system, represented in a later work by Gough and
+colleagues (2019[20]), signifies two levels to the framework: On one hand, the narrow evidence ecosystem
+with engagement between research production and research use; on the other, the broader socio-political
+system and context within which the evidence ecosystem sits. The use of the term “ecosystem” points to
+a dynamic figure, with different components affecting each other, directly or indirectly, and with positive
+and negative feedback loops. Both systems affect the decisions made in policy and practice, the research
+produced and the connections and influences between these two.
+
+Comparative analysis
+Through the lens of the conceptual approaches developed by Best and Holmes (2010[6]), this section will
+analyse the above presented models. Table 2.1 summarises the main characteristics of the frameworks
+and sheds light on the evolution of the conceptualisation of knowledge mobilisation.
+
+Table 2.1. Comparative analysis of knowledge mobilisation models
+Author(s)
+
+Lavis et al.
+
+Graham et al.
+
+Levin
+
+Gough et al.
+
+Name
+
+Knowledge-transfer strategy
+framework
+
+Knowledge-to-Action
+framework
+
+Research Knowledge
+Mobilisation model
+
+Evidence use ecosystem
+analytical framework
+
+Year(s)
+
+2003
+
+2006
+
+2004 – 2013
+
+2011 – 2019
+
+Academic
+relevance
+
+1 467 citations
+
+4 606 citations
+
+949 citations
+(4 articles)
+
+123 citations
+(3 articles)
+
+Widely considered by
+experts.
+
+Widely considered by
+experts
+
+Sector
+
+Health, Socio-economic
+sectors
+
+Health
+
+Education
+
+Education
+
+Context
+
+Policy and Practice
+
+Policy and Practice
+
+Policy and Practice
+
+Policy and Practice
+
+Generation
+(Best & Holmes)
+
+Linear
+
+Relationship
+
+Relationship-System
+
+Relationship-System
+
+Core elements
+
+Message; Actors
+
+Knowledge creation;
+Knowledge use
+
+Research knowledge
+functions:
+Production, Use and
+Mediation
+
+Research production;
+Multi-level research use;
+Ecosystems
+
+Isolated
+
+Permeable
+
+Overlapped
+
+Intertwined and
+influenceable
+
+Elements’
+interaction
+
+--- [PDF Page 46 / Book Page 44] ---
+
+Author(s)
+
+Lavis et al.
+
+Graham et al.
+
+Levin
+
+Gough et al.
+
+Key actors
+
+Messenger and Target
+audience (potential users)
+
+Producers and Users
+(practitioners, policy
+makers, the general public)
+
+Producers, Users and
+Mediators
+
+Producers, Users, Mediators
+and other Stakeholders
+
+Activities
+(Actors’ roles)
+
+Knowledge Transmission
+(messenger); Knowledge
+Application (user)
+
+Knowledge Creation
+(producers); Knowledge
+Application (users)
+
+Research production;
+Research use; Research
+mediation.
+
+Research production and
+communication (producers);
+Research construction and
+direct and indirect use
+(users); Bringing together
+producers and users
+(mediators); Engagement
+(stakeholders)
+
+(Actors can operate
+in more than one
+particular context)
+
+Contribution
+
+Tailoring of the message to
+the audience.
+Presence of evaluation.
+
+Fluidity and permeability of
+components allowing
+feedback loops.
+
+Overlapping of functions.
+Influence of larger setting
+and social context.
+
+Consideration of evidenceinformed system as a whole
+and its influence.
+
+Note: Number of citations according to Google Scholar on 12 May 2022.
+
+The analysis compares the frameworks across a few key characteristics. The first five rows of the table
+provide some basic information. The row “generation” refers to the Best and Holmes’ conceptual approach
+that is reflected in the framework. “Core elements” refers to the elements that are at the centre of each
+considered model. “Elements’ interaction” captures the relationships between the core elements. “Key
+actors” points to the actors identified as playing a role within the models, while “activities” depicts the roles
+assigned, if any, to each of these actors. Finally, “contribution” summarises the main outputs and novelties
+from the reviewed models.
+
+Core elements and their interaction
+Each of the presented models has a different set of core elements. These and their relationships indicate
+which “generation” of knowledge mobilisation they belong to.
+The first difference is the way in which the models describe knowledge. Lavis and colleagues do not feature
+the “functions” of knowledge (production, use); rather they focus on the “message”, a product to be
+formatted to fulfil the target audience’s requirements by the “messenger”. To a certain extent, this
+corresponds to a partial and static version of the “mediation” element of Levin’s model, focused exclusively
+on the translation and formatting of knowledge. Graham and colleagues favour the terms “knowledge
+creation” and “action” (used as the title of their model) while the two most recent models prefer the terms
+“production” and “use”. This vocabulary, while different, can be seen as roughly corresponding
+(i.e. production-creation and use-action), with some nuances. Creation has creativity as its root while
+production has product. The former perhaps more naturally implies the combination of different knowledge
+types (research and experiential) while the latter can be more easily associated to something thought to
+be used (as a product). On the other end, “use” could be much broader than “action” once we acknowledge
+that research can shape attitudes and knowledge, even when its use cannot be explicitly captured by
+discrete action.
+The second difference relates to the relationships between the core knowledge elements. In Lavis et al.,
+the message connects two groups of actors (messenger and target audience); however, research
+production and its use are clearly isolated from each other. In Graham et al.’s framework, knowledge
+creation is at the centre, surrounded by stages of action that may occur simultaneously. The fluidity and
+permeability of creation and action stages generate permanent feedback loops. In Levin and in Gough et
+al., production and use are connected through mediation, although quite differently. In the former, the three
+components appear to be equal whereas in the latter, the representation suggests that mediation is more
+of a process (rather than a knowledge activity) that connects production and use.
+
+--- [PDF Page 47 / Book Page 45] ---
+
+An additional difference is the explicit presence (or not) of knowledge mobilisation (or similar) in the models.
+Whereas Graham et al.’s model simply neglects it, Lavis et al. recognise the presence of knowledge
+transfer processes and that bi-directional efforts are considered to be more effective. Levin and Gough
+and colleagues consider knowledge mediation or engagement as core elements in their frameworks.
+Levin’s mediation function regroups some of the connections between the contexts of research production
+and research use. It overlaps with and is influenced by these contexts. Gough et al.’s mediation component
+– later renamed “engagement” – also refers to the connections bringing together evidence producers and
+users.
+
+Key actors and their roles
+The studied frameworks also differ on how they represent – if at all – the actors involved in the knowledge
+mobilisation processes and the roles assigned to them.
+The early-2000s conceptualisation of Lavis et al. identifies two main groups: The messenger and the target
+audience, and the potential users, with the former being key to the success of the transmission of the
+knowledge. Research producers are not considered, and research users are only considered as indirectly
+defining the communication strategy of the product – the knowledge – for its correct transfer.
+For their part, Gough et al. identify producers and users of evidence as relevant actors, although they
+highlight that these actors are not necessarily the same in every sector and that actors can perform a
+variety of different roles. Research users can be active constructors of knowledge whereas research
+producers should be aware of the context of the users. Furthermore, Gough et al. recognise the presence
+and relevance of other actors who influence the evidence ecosystem in the wider systems and contexts
+surrounding production and use.
+Graham and colleagues and Levin do not depict the actors as the central components of their models.
+Instead, Graham and colleagues consider knowledge creation and use processes, and Levin considers
+functions as the core elements. Whereas Graham et al. do not specify which actors are meant to be
+engaged in each process, Levin acknowledges that actors can be related to more than one context, and
+so their functions can overlap. Rather than a standard model focused on the relationships between the
+actors – an actor-relationships model – both frameworks are more of a function-relationships model,
+focused on the interactions and the influences between the functions. This allows consideration of actors
+beyond a single context, not solely linked to their prescribed primary function.
+
+Generating knowledge mobilisation: linear, relationship and systems perspectives
+The analysis of these four selected knowledge mobilisation models allows the evolution of the
+conceptualisation of this field to be traced over time.
+There is a general move away from linear ways of thinking and towards relationship and system
+approaches. Although the evaluation of all the components as a whole in Lavis and colleagues’ model may
+implicitly point to one of the main characteristics of a systems perspective, it is only with Gough and
+colleagues’ model that the evidence ecosystem is explicitly attempted to be considered in its entirety. This
+system influences, and is influenced by, the different elements considered in the model, generating multiple
+and constant feedback loops.
+Nevertheless, representation of some of the elements is highly influenced by linear and relationships ideas.
+Production and use of evidence are strongly differentiated with no overlap between them except in Levin’s
+model. These functions tend to represent the relationship between research production and research use
+as a unidirectional or a bi-directional one, with research production commonly being independent from
+research use. This falls short of acknowledging and representing the multiple relationships within the
+system in practice.
+
+--- [PDF Page 48 / Book Page 46] ---
+
+Over time, there is also a stronger consideration of the contexts and wider systems surrounding the
+educational evidence ecosystem. Once again, both Lavis and colleagues, and Levin suggest it in their
+models but it is Gough and colleagues who make explicit this “two-level” system and the influence they
+have on the evidence ecosystem. This multi-level system characteristic, with system and sub-systems,
+has been also described as “nested” or “layered” (Sharples, forthcoming[13]).
+Some of the selected authors have abandoned the process-product modelling, i.e. an input (research
+evidence) and an outcome (practices or decisions), with processes linking both. The former exclusive focus
+on “push” processes has now included the “pull” processes. Thus, the relationships shift from unidirectional
+to bi-directional. Some models even consider relationships as multi-directional, as is the case in the
+frameworks of both Levin and Gough and colleagues. Actors and contexts in these conceptualisations
+relate to each other in different ways and with different purposes.
+Models have also shifted from a focus on actors to a focus on contexts and functions. Authors have
+recognised that functions can be fulfilled by different actors and that actors can belong to different contexts.
+This enriches the conception of both actors, contexts and functions by avoiding a one-dimensional
+characterisation of the actors. Frameworks range in terms of their level of detail and comprehensiveness
+from the specificity of Gough and colleagues’ to the simplicity and broad potential use of Levin’s.
+It should not be the aim of frameworks to fully represent the complexity of systems, although non-linear
+models are able to capture complexity more effectively (Sharples, forthcoming[13]). However, there is room
+to improve the present conceptualisations of knowledge mobilisation. Models still struggle to jointly
+represent the different functions of the education research system and the different contexts in which they
+operate. They often lack consideration of the education research system as a whole and neglect the larger
+system surrounding the former. Additionally, the frequent segregation between the identified functions
+could suggest that the system and its elements are somehow perceived as isolated. These gaps may result
+in the need for strategic coordination being overlooked.
+Whereas the reviewed frameworks attempt to capture the complex nature of knowledge mobilisation – with
+varying degrees of success – other models focus on some specific dimensions of the education research
+system. The same way the analysis of a cross-sectoral exercise can generate key lessons for the education
+sector (see Chapter 6), the analysis of models beyond knowledge mobilisation can provide useful insights
+and a new perspective towards this subject. The following section discusses models directly or indirectly
+related to knowledge mobilisation.
+
+Other models relevant for understanding knowledge mobilisation
+Scholars have developed knowledge mobilisation-related frameworks focused on particular aspects and
+processes of knowledge mobilisation. Such processes include, for example, the use of evidence by
+decision makers or teachers and the relationship between evidence and innovation. These
+conceptualisations can provide a different perspective when thinking about knowledge mobilisation, and
+may solve some of the shortcomings that the above-mentioned frameworks present. It is not the intention
+of this section to provide a thorough analysis of these frameworks. Rather, the section aims to highlight
+aspects that may enhance the understanding and conceptualisation of knowledge mobilisation in education
+systems.
+Langer, Tripney and Gough (2016[10]) developed a conceptual framework of how evidence-informed
+decision making (EIDM) occurs. The authors define EIDM as the process in which multiple sources of
+information, in particular the best available research evidence, are consulted prior to making a decision to
+plan, implement and/or alter policies, programmes and other services. These interventions have the
+ultimate objective of changing behaviour through the use of evidence. The EIDM framework, represented
+in Figure 2.7, highlights the complexity in the use of evidence in decision making, characterising it not as
+
+--- [PDF Page 49 / Book Page 47] ---
+
+a straightforward action or function but, rather, as a process influenced by multiple factors such as
+intervention types and levels; mechanisms; and intermediary behavioural outcomes. Furthermore, this
+framework breaks with the dominant focus of thinking in knowledge mobilisation: research production
+(Levin, 2013[9]).
+
+Figure 2.7. Evidence-informed decision-making framework
+INTERVENTION
+TYPES
+
+MECHANISMS
+Awareness
+
+Directly impacting
+EIDM
+
+Broader focus,
+indirectly impacting
+EIDM
+
+BEHAVIOURAL
+CHANGE
+
+INTERMEDIARY
+BEHAVIOURAL
+OUTCOMES
+
+Agreement
+
+Capability
+
+Communication
+& Access
+
+Motivation
+
+Interaction
+
+opportunity
+
+Evidence Use
+
+Skills
+Structure
+& Process
+
+INTERVENTION LEVELS
+Individual behaviour
+
+Immediate organisational
+context
+
+Broader organisational
+context
+
+National or international
+organisations
+
+Source: Own elaboration based on Langer, L., J. Tripney and D. Gough (2016[10]), The Science of Using Science: Researching the Use of
+Research Evidence in Decision-making, http://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/Science%20Technical%2
+0report%202016%20Langer.pdf?ver=2016-04-18-142648-770.
+
+Cain (2015[21]) proposed a framework on teachers’ use of research evidence. According to the author,
+teachers, faced with a research text, have the options to plainly ignore it, use it in different ways and with
+different objectives, or reject it after discussion. To illustrate this, Cain identifies three “voices.” Teachers’
+own voice – the “first voice” – is composed of their values, previous experiences and ways of thinking and
+acting. Colleagues’ voices act as a “second voice”, often sharing some of the teacher’s values. Research
+acts as a “third voice” in teachers’ discussions, providing an external view often very different to the other
+two voices. The literature has shown that the first two voices are more important sources for teachers than
+the third one (Nelson and O’Beirne, 2014[22]; Nelson et al., 2017[23]). To become part of the discussion and
+influence the content and ways of teachers’ thinking, knowledge from research has to be linked with
+knowledge from the other voices. This framework, represented in Figure 2.8, gives another insight into the
+use of evidence, considering the intentions and objectives of the potential user – in this case, the teacher.
+Rickinson and colleagues (2020[24]) developed a conceptual framework defining and elaborating what
+“quality use of research evidence” means in education. The emphasis here is on factors that enable the
+“thoughtful engagement and implementation of appropriate research evidence” (Rickinson et al., 2020,
+p. 6[24]). Chapter 9 deeply describes these elements. Rickinson et al. emphasise components at the
+individual, organisational and system levels, all represented in In the format of an OECD working paper,
+Révai proposed a representation of the knowledge dynamics around evidence and innovation in the
+education sector, represented in Figure 2.10. This work aims to “repair” the broken link in education
+between knowledge mobilisation for evidence and knowledge construction for innovation. It notes that
+policy questions today tend to relate to scaling innovation efforts or to increasing evidence use instead of
+acknowledging that the two often do and, indeed should, go together. The knowledge dynamics model
+
+--- [PDF Page 50 / Book Page 48] ---
+
+builds on existing innovation models in education. These traditionally begin with teachers diagnosing a
+situation, identifying their needs and challenges, and formulating these issues explicitly in terms of what
+additional knowledge they would need. This process may be facilitated by either knowledge brokers or
+researchers (as actors external to the school or internal such as teachers or school leaders) who can
+provide this external knowledge. Teachers then translate this into practice, adapting it to their context.
+Experimentation leads to the readjustment of practices and the creation of new knowledge. Thus, this
+knowledge mobilisation process involves knowledge creation, solving a practice-based problem by
+innovation. This new knowledge is consolidated and ideally diffused or disseminated, systematised and
+integrated into existing knowledge.
+Figure 2.9, each of which can support quality research use and the interactions between the actors. These
+components and interactions influence, and are influenced by, multiple factors. By taking this approach,
+the framework implicitly adopts a systems approach.
+In the format of an OECD working paper, Révai (2020[25]) proposed a representation of the knowledge
+dynamics around evidence and innovation in the education sector, represented in Figure 2.10. This work
+aims to “repair” the broken link in education between knowledge mobilisation for evidence and knowledge
+construction for innovation. It notes that policy questions today tend to relate to scaling innovation efforts
+or to increasing evidence use instead of acknowledging that the two often do and, indeed should, go
+together. The knowledge dynamics model builds on existing innovation models in education. These
+traditionally begin with teachers diagnosing a situation, identifying their needs and challenges, and
+formulating these issues explicitly in terms of what additional knowledge they would need. This process
+may be facilitated by either knowledge brokers or researchers (as actors external to the school or internal
+such as teachers or school leaders) who can provide this external knowledge. Teachers then translate this
+into practice, adapting it to their context. Experimentation leads to the readjustment of practices and the
+creation of new knowledge. Thus, this knowledge mobilisation process involves knowledge creation,
+solving a practice-based problem by innovation. This new knowledge is consolidated and ideally diffused
+or disseminated, systematised and integrated into existing knowledge.
+
+Figure 2.8. Research-informed teaching theory
+Reading
+research texts
+
+Ignore
+
+Strategic
+use
+
+Confirmatory
+use
+
+Long, focused
+discussion
+
+Reject
+
+Conceptual
+use
+Content of
+thinking
+
+Ways of
+thinking
+
+Research-informed teaching
+
+--- [PDF Page 51 / Book Page 49] ---
+
+Source: Cain, T. (2015[21]), “Teachers’ engagement with research texts: Beyond instrumental, conceptual or strategic use”, http://dx.doi.org/10.
+1080/02607476.2015.1105536.
+
+In the format of an OECD working paper, Révai (2020[25]) proposed a representation of the knowledge
+dynamics around evidence and innovation in the education sector, represented in Figure 2.10. This work
+aims to “repair” the broken link in education between knowledge mobilisation for evidence and knowledge
+construction for innovation. It notes that policy questions today tend to relate to scaling innovation efforts
+or to increasing evidence use instead of acknowledging that the two often do and, indeed should, go
+together. The knowledge dynamics model builds on existing innovation models in education. These
+traditionally begin with teachers diagnosing a situation, identifying their needs and challenges, and
+formulating these issues explicitly in terms of what additional knowledge they would need. This process
+may be facilitated by either knowledge brokers or researchers (as actors external to the school or internal
+such as teachers or school leaders) who can provide this external knowledge. Teachers then translate this
+into practice, adapting it to their context. Experimentation leads to the readjustment of practices and the
+creation of new knowledge. Thus, this knowledge mobilisation process involves knowledge creation,
+solving a practice-based problem by innovation. This new knowledge is consolidated and ideally diffused
+or disseminated, systematised and integrated into existing knowledge.
+
+Figure 2.9. Quality Use of Research Evidence (QURE) framework
+
+Source: Rickinson, M. et al. (2020[24]), Using Evidence Better: Quality Use of Research Evidence Framework, http://monash.edu/education/res
+earch/projects/qproject (accessed on 1 September 2021).
+
+--- [PDF Page 52 / Book Page 50] ---
+
+Figure 2.10. Knowledge dynamics in the evidence-innovation ecosystem
+
+Source: Révai, N. (2020[25]), “What difference do networks make to teachers’ knowledge?: Literature review and case descriptions”,
+https://dx.doi.org/10.1787/75f11091-en.
+
+These specific models provide fresh insights that may be complementary to the conceptualisation of
+knowledge mobilisation contained in the previously analysed models. For example, Langer and colleagues
+identified a concrete objective of knowledge mobilisation, which is commonly omitted in the related
+literature. Furthermore, the authors recognised and classified multiple factors, at multiple levels, affecting
+this outcome. Related work by Rickinson and colleagues, focused on how these factors influence the
+quality of the use of research. Whereas the recognition and classification of these causal mechanisms is
+one of the novelties of both models, the definition of quality use is an original contribution by Rickinson
+et al.’s study. For its part, Cain focuses on the teachers’ perspective and considers the multiple sources of
+knowledge that teachers have, beyond research alone, and how research may influence the content and
+ways of teachers’ thinking. Finally, Révai provides a perspective on how research is closely linked to
+innovation and how knowledge mobilisation in education can be influenced by other systems.
+
+Table 2.2 summarises these models and the new perspectives they provide to the conceptualisation of
+knowledge mobilisation.
+
+Table 2.2. Analysis of knowledge mobilisation-related models
+Author(s)
+
+Langer, Tripney and Gough
+
+Cain
+
+Rickinson et al.
+
+OECD (Révai)
+
+Name
+
+Evidence-Informed DecisionMaking framework
+
+Research-Informed
+Teaching theory
+
+Quality Use of Research
+Evidence framework
+
+Knowledge Dynamics
+Model
+
+Year(s)
+
+2016
+
+2015
+
+2020
+
+2020
+
+Sector
+
+Cross-sector
+
+Education
+
+Education
+
+Education
+
+Context
+
+Policy and Practice
+
+Practice
+
+Practice
+
+Practice
+
+--- [PDF Page 53 / Book Page 51] ---
+
+KMb specific
+aspect
+
+Evidence use by decision
+makers
+
+Research use by
+practitioners (teachers)
+
+Research evidence use by
+practitioners
+
+Evidence creation,
+mobilisation, innovation
+and use
+
+Core elements
+
+Interventions types and levels;
+Mechanisms; Behavioural
+outcomes and change.
+
+Types of research use
+in school practice.
+
+Core components
+(Evidence and
+Engagement); Enabling
+components (Individualand Organisational-level);
+System-level influences.
+
+Research, Innovation,
+Knowledge processes:
+mobilisation, brokering,
+creation, systematisation,
+integration.
+
+Contribution
+
+Identification of an ultimate
+objective.
+Influence of multiple factors.
+
+Focus on teachers’
+perspective and work.
+Multiple sources of
+knowledge.
+
+Influence of multiple factors
+enabling engagement with
+research evidence.
+Definition of “quality use”.
+
+Joint consideration of
+research and innovation.
+Knowledge mobilisation as
+knowledge creation.
+
+Note: The row “KMb specific aspects” contains the terms “evidence”, “research” and “research evidence”. These terms are used by the authors
+of each model and taken to be interchangeable for the purposes of the analysis. For a definition of “research” in the Strengthening the Impact
+of Education Research project, see Chapter 1.
+
+Towards a new approach
+For over two decades, scholars have conceptualised and modelled knowledge mobilisation in diverse
+ways. These efforts have substantively evolved in terms of their sector of origin, focus, components and
+approaches, among others. Yet, there are still some shortcomings which may have important
+repercussions on initiatives that try to address deficits of research production and use.
+Linear and relationship thinking still have a considerable influence on the representation of knowledge
+mobilisation processes. For example, consideration of the education research system as a whole and the
+existence of systems and sub-systems are commonly neglected elements in knowledge mobilisation
+models. Furthermore, the various elements in focus – whether functions or contexts – tend to be depicted
+as removed from each other, with a certain degree of mutual influence but without a clear idea of their
+interdependencies and overlaps. This artificial separation hampers a holistic vision and overlooks the need
+for any strategic coordination.
+More recent knowledge mobilisation models tend to exclusively focus on research knowledge. While
+considering the entire spectrum of knowledge sources within a single model is unfeasible, it is important
+that future efforts recognise that research evidence is not the sole source of educational practitioners’ and
+policy makers’ knowledge. Their decisions are also affected by other types of knowledge, gained for
+example through professional experience or via exchanges with colleagues.
+Most of the frameworks analysed in this chapter omit the main objectives that systems aim for. Committing
+to a specific goal, representing it graphically and putting it in writing can allow education systems and their
+actors to keep the ultimate goal in sight. In this case, if we think of educational research as something that
+has indirect and slow impact on student learning, this latter may appear as an unreachable goal on the
+horizon. And no matter how far we go, we can never reach that horizon. But that is the exact purpose of
+this seemingly unreachable goal: To make us move forward (Galeano, 2012[26]).
+Framing the conceptual discussion on knowledge mobilisation is important because it shapes our
+understanding of what can be done to improve it. The way the education research system is conceptualised
+can drive thinking into new directions and break with traditional and outdated notions and practices. This
+includes moving away from one-way “push” approaches, the division between components and the onedimensionality of actors. Future conceptualisations should represent a systems approach to research
+dynamics in education and try to address some of the limitations of previous models. Importantly, they
+should aim to drive the discussion forward and generate new ideas about reinforcing research production
+and use.
+
+--- [PDF Page 54 / Book Page 52] ---
+
+The dialogue between experts should continue and be extended to other actors who can bring fresh
+perspectives to this discussion. A shared language and understanding would ease the flow of information
+and collaboration between those specialised in knowledge mobilisation. Because of this, there is a strong
+interest in developing a new model collaboratively that can address the shortcomings identified above and
+drive an improved understanding of research dynamics in education. A new model, collectively developed,
+would make the different efforts in this field more efficient, and ultimately enhance student and professional
+learning.
+
+References
+Best, A. and B. Holmes (2010), “Systems thinking, knowledge and action: Towards better
+models and methods”, Evidence and Policy, Vol. 6/2, pp. 145-159,
+https://doi.org/10.1332/174426410X502284.
+
+[6]
+
+Burns, T. and F. Köster (eds.) (2016), Governing Education in a Complex World, Educational
+Research and Innovation, OECD Publishing, Paris, https://doi.org/10.1787/9789264255364en.
+
+[27]
+
+Cain, T. (2015), “Teachers’ engagement with research texts: Beyond instrumental, conceptual or
+strategic use”, Journal of Education for Teaching, Vol. 41/5, pp. 478-492,
+https://doi.org/10.1080/02607476.2015.1105536.
+
+[21]
+
+Cooper, A. (2014), “Knowleedge mobilisation in education across Canada: A cross-case analysis
+of 44 research brokering organisations”, Evidence & Policy, Vol. 10/1, pp. 29-59,
+https://doi.org/10.1332/174426413X662806.
+
+[2]
+
+Crockett, L. (2017), “The Knowledge-to-Action Framework”, medium.com,
+https://medium.com/knowledgenudge/kt-101-the-knowledge-to-action-framework7fbe399723e8 (accessed on 27 August 2021).
+
+[17]
+
+Davies, H., A. Powell and S. Nutley (2015), “Mobilising knowledge to improve UK health care:
+learning from other countries and other sectors – A multimethod mapping study”, Health
+Services and Delivery Research, Vol. 3/27, pp. 1-190, https://doi.org/10.3310/hsdr03270.
+
+[15]
+
+Galeano, E. (2012), “¿Para qué sirve la Utopía?”,
+https://www.youtube.com/watch?v=GaRpIBj5xho (accessed on 3 May 2022).
+
+[26]
+
+Gough, D., C. Maidment and J. Sharples (2018), EPPI-Centre.
+
+[5]
+
+Gough, D., J. Thomas and S. Oliver (2019), “Clarifying differences between reviews within
+evidence ecosystems”, Systematic Reviews, Vol. 8/170, https://doi.org/10.1186/s13643-0191089-2.
+
+[20]
+
+Gough, D. et al. (2011), Evidence Informed Policymaking in Education in Europe : EIPEE Final
+Project Report, EPPI-Centre, Social Science Research Unit, Institute of Education, University
+of London.
+
+[1]
+
+Graham, I. et al. (2006), “Lost in knowledge translation: Time for a map?”, Journal of Continuing
+Education in the Health Professions, Vol. 26/1, pp. 13-24, https://doi.org/10.1002/chp.47.
+
+[16]
+
+Lai, C. and S. Huili Lin (2017), “Systems theory”, in The International Encyclopedia of
+Organizational Communication, Wiley, https://doi.org/10.1002/9781118955567.wbieoc203.
+
+[12]
+
+--- [PDF Page 55 / Book Page 53] ---
+
+Langer, L., J. Tripney and D. Gough (2016), The Science of Using Science: Researching the
+Use of Research Evidence in Decision-making, EPPI-Centre, Social Science Research Unit,
+UCL Institute of Education, University College London,
+http://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/Science%20Tech
+nical%20report%202016%20Langer.pdf?ver=2016-04-18-142648-770.
+
+[10]
+
+Lave, J. and E. Wenger (1991), Situated Learning: Legitimate Peripheral Participation,
+Cambridge University Press, Cambridge, https://doi.org/10.1017/CBO9780511815355.
+
+[8]
+
+Lavis, J. et al. (2003), “How can research organizations more effectively transfer research
+knowledge to decision makers”, The Milbank Quarterly, Vol. 81/2, pp. 221-248.
+
+[14]
+
+Levin, B. (2013), “To know is not enough: Research knowledge and its use”, Review of
+Education, Vol. 1/1, pp. 2-31, https://doi.org/10.1002/rev3.3001.
+
+[9]
+
+Levin, B. (2011), “Mobilising research knowledge in education”, London Review of Education,
+Vol. 9/1, pp. 15-26, https://doi.org/10.1080/14748460.2011.550431.
+
+[19]
+
+Levin, B. (2008), “Thinking about knowledge mobilization”, A discussion paper prepared at the
+request of the Canadian Council on Learning and the Social Sciences and Humanities
+Research Council.
+
+[3]
+
+Levin, B. (2004), “Making research matter more”, Education Policy Analysis Archives, Vol. 12/56,
+p. 12, https://doi.org/10.14507/epaa.v12n56.2004.
+
+[18]
+
+Nelson, J. et al. (2017), Measuring Teachers’ Research Engagement: Findings from a Pilot
+Study, Education Endowment Foundation, London,
+https://educationendowmentfoundation.org.uk/public/files/Evaluation/Research_Use/NFER_R
+esearch_Use_pilot_report_-_March_2017_for_publication.pdf.
+
+[23]
+
+Nelson, J. and C. O’Beirne (2014), Using Evidence in the Classroom: What Works and Why?,
+National Foundation for Educational Research, Slough,
+https://www.nfer.ac.uk/publications/impa01/impa01.pdf.
+
+[22]
+
+Nokes, T. (2009), “Mechanisms of knowledge transfer”, Thinking and Reasoning, Vol. 15/1,
+pp. 1-36, https://doi.org/10.1080/13546780802490186.
+
+[4]
+
+OECD (2009), Working Out Change: Systemic Innovation in Vocational Education and Training,
+Educational Research and Innovation, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264075924-en.
+
+[28]
+
+OECD (2000), Knowledge Management in the Learning Society, OECD Publishing, Paris,
+https://doi.org/10.1787/9789264181045-en.
+
+[7]
+
+Révai, N. (2020), “What difference do networks make to teachers’ knowledge?: Literature review
+and case descriptions”, OECD Education Working Papers, No. 215, OECD Publishing, Paris,
+https://doi.org/10.1787/75f11091-en.
+
+[25]
+
+Rickinson, M. et al. (2020), Using Evidence Better: Quality Use of Research Evidence
+Framework, Monash University, Victoria, Australia,
+http://monash.edu/education/research/projects/qproject (accessed on 1 September 2021).
+
+[24]
+
+Sharples, J. (forthcoming), “Developing a systems-based based approach to research-use in
+education: The case of the EEF and the deployment of teaching assistants”.
+
+[13]
+
+--- [PDF Page 56 / Book Page 54] ---
+
+Snyder, S. (2013), “The Simple, the Complicated, and the Complex: Educational Reform
+Through the Lens of Complexity Theory”, OECD Education Working Papers, No. 96, OECD
+Publishing, Paris, https://doi.org/10.1787/5k3txnpt1lnr-en.
+
+[11]

@@ -1,0 +1,607 @@
+================================================================================
+Chapter: Front Matter (Title, Foreword, Acknowledgements, Table of Contents)
+Author(s): OECD / Andreas Schleicher (Foreword)
+Book: Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement
+Series: Educational Research and Innovation
+Publisher: OECD Publishing, Paris (2022)
+DOI: https://doi.org/10.1787/d7ff793d-en
+ISBN: 978-92-64-73132-5 (PDF) / 978-92-64-96272-9 (print)
+Section / Part: Front Matter
+Book Pages: pp. 1–10
+PDF Pages: pp. 1–12 (in raw/d7ff793d-en.pdf)
+================================================================================
+--- [PDF Page 1 / Front Cover] ---
+
+Educational Research and Innovation
+
+Who Cares about Using
+Education Research in Policy
+and Practice?
+STRENGTHENING RESEARCH ENGAGEMENT
+
+--- [PDF Page 2 / Half Title / Blank] ---
+
+
+--- [PDF Page 3 / Title Page] ---
+
+Educational Research and Innovation
+
+Who Cares about
+Using Education Research
+in Policy and Practice?
+STRENGTHENING RESEARCH ENGAGEMENT
+
+--- [PDF Page 4 / Copyright & Citation Information] ---
+
+This work is published under the responsibility of the Secretary-General of the OECD. The opinions expressed and
+arguments employed herein do not necessarily reflect the official views of the Member countries of the OECD.
+This document, as well as any data and map included herein, are without prejudice to the status of or sovereignty over
+any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area.
+
+Please cite this publication as:
+OECD (2022), Who Cares about Using Education Research in Policy and Practice?: Strengthening Research Engagement,
+Educational Research and Innovation, OECD Publishing, Paris, https://doi.org/10.1787/d7ff793d-en.
+
+ISBN 978-92-64-96272-9 (print)
+ISBN 978-92-64-73132-5 (pdf)
+ISBN 978-92-64-94956-0 (HTML)
+ISBN 978-92-64-88556-1 (epub)
+
+Educational Research and Innovation
+ISSN 2076-9660 (print)
+ISSN 2076-9679 (online)
+
+Revised version, November 2022
+Details of revisions available at: https://www.oecd.org/about/publishing/Corrigendum_WhoCaresAboutUsingEducationResearch.pdf
+
+Photo credits: Cover design on the basis of images from © Kit8.net/Shutterstock.com.
+
+Corrigenda to publications may be found on line at: www.oecd.org/about/publishing/corrigenda.htm.
+
+© OECD 2022
+The use of this work, whether digital or print, is governed by the Terms and Conditions to be found at https://www.oecd.org/termsandconditions.
+
+--- [PDF Page 5 / Book Page 3] ---
+
+Foreword
+
+Policy makers like immediate answers but education research moves at a snail’s pace: It sometimes takes
+decades before a longitudinal survey yields policy-relevant insights to the burning questions we have right
+now. Education research also does not always focus on the questions that are most relevant to policy
+makers and practitioners. Nor are research results always available in a form intelligible to them. And even
+when they are, research will have insufficient impact if it is not used to challenge conventional wisdom or
+long-held beliefs in what works. Sometimes policy makers and practitioners forget that data are not the
+plural of anecdote, and often they are simply too busy to look for research-based answers. On top of that,
+education systems often lack adequate infrastructure and mechanisms to support them in using research
+in their daily decisions.
+In the medical sector, a vaccine will not go into the field before clinical trials have delivered sufficient
+evidence that it will not be harmful – even amid a pandemic. In contrast, 9 out of 10 reforms studied in
+OECD’s Education Policy Outlook did not even attempt to study their long-term efficacy. It is no surprise
+then that the health sector invests 17 times more on research and innovation than the education sector
+does even though education and health occupy similar positions in public budgets.
+The price of this disconnect between education policy, research and practice has been high: Over the last
+few decades, education in most OECD countries has lost productivity, with teacher salaries having risen
+but outcomes not improved.
+The good news is that we can do better. The OECD’s Strengthening the Impact of Education Research
+project looks at a question at the heart of the Centre for Educational Research and Innovation (CERI)’s
+mission: How can we make education research more relevant and more impactful? This report represents
+the first step towards addressing the knowledge gap on what and how initiatives to increase the use of
+research can be effective. It brings together leading experts who discuss recent research in the field of
+education and other sectors. The report describes mechanisms used to strengthen the impact of education
+research in policy and practice, and the different levels of engagement by individual and institutional actors
+in these processes. It also looks at the drivers of, and barriers to, using research in education policy and
+practice systematically and at scale.
+Getting this right is important. Our schools and universities of today are our economy and society tomorrow.
+Only bold, innovative and evidence-based education policy and practice will help develop better and more
+equitable economic outcomes, greater social participation and stronger democracies.
+
+--- [PDF Page 6 / Book Page 4] ---
+
+Acknowledgements
+
+This publication was planned and developed by the OECD’s Strengthening the Impact of Education
+Research project team – Nóra Révai (project leader), José Manuel Torres, Jordan Hill, Mykolas
+Steponavičius, Victoria Liberatore and Aurelija Masiulytė. We would like to acknowledge the essential
+contribution of Tracey Burns, whose role in launching the project, building the network of experts and
+providing feedback was invaluable.
+This publication would also not have been possible without the key contributions of renowned experts, who
+are supporting the project.
+Firstly, we would like to express our immense gratitude to all authors who contributed to the chapters in
+this publication (in order of their chapters): Tracey Burns, Tom Schuller, Annette Boaz, Kathryn Oliver,
+Anna Numa Hopkins, David Gough, Jonathan Sharples, Chris Maidment, Gábor Halász, Mark Rickinson,
+Lucas Walsh, Joanne Gleeson, Blake Cutler, Connie Cirkony, Mandy Salisbury, John Bangs, Martin Henry,
+Emese K. Nagy, Tine S. Prøitz, Mark Schneider, Vivian Tseng, Dirk Van Damme and Makito Yurita.
+Secondly, we would like to thank the Strengthening the Impact of Education Research project’s ‘‘Critical
+Friends’’, Annette Boaz, Mathias Bouckaert, Lucie Cerna, Stuart Elliott, Marc Fuster, Jonathan Sharples
+and Danielle Toon for their helpful feedback on drafts of various chapters.
+We are grateful to all of the education systems that responded to the survey and for the encouragement
+and support of the CERI Governing Board in the development of the project and this volume.
+Our special thanks also go to those working within the national administrations of Japan, New Zealand,
+Norway, Portugal, Slovenia and South Africa who kindly gave their time to take part in follow-up interviews.
+Additionally, we wish to thank our colleagues (past and present) in the Centre for Educational Research
+and Innovation (CERI). Matthew Gill, former project assistant, who made an enormous contribution to the
+early stages of the project. Hiroyoshi Hiratsuka and Sergio Hernandez Mendoza, former members of the
+project team, who contributed to developing the policy survey. Tia Loukkola, Head of Division, who
+provided oversight during the process and valuable feedback on the draft report.
+Our thanks are extended to Clara Young, who edited the publication; Sophie Limoges for her unwavering
+support; and other colleagues on the Directorate for Education and Skills communications team and in the
+Public Affairs and Communications Directorate.
+
+--- [PDF Page 7 / Book Page 5] ---
+
+Table of contents
+
+Foreword
+
+3
+
+Acknowledgements
+
+4
+
+Executive summary
+
+11
+
+Part I Conceptual landscape and the evolution of the field
+
+14
+
+1 The changing landscape of research use in education
+
+15
+
+Nóra Révai
+Introduction
+Cornerstones: Research, evidence and knowledge
+Conceptual evolution of knowledge mobilisation
+Developments in knowledge mobilisation in policy and practice
+Research production
+Research dynamics in systems thinking: Key questions remain
+Mapping the landscape: Policy survey
+Purpose and structure of this report
+References
+Notes
+
+2 Louder than Words: Review and comparative analysis of knowledge mobilisation
+models
+
+16
+17
+18
+20
+21
+22
+25
+26
+28
+31
+
+33
+
+José Manuel Torres
+Introduction
+Conceptual approaches: An analytical lens
+Knowledge mobilisation models
+Comparative analysis
+Other models relevant for understanding knowledge mobilisation
+Towards a new approach
+References
+
+34
+34
+37
+43
+46
+51
+52
+
+3 History and evolution of brokerage agencies in education
+
+55
+
+Tracey Burns and Tom Schuller
+Introduction
+Three key changes
+Brokerage agencies in education
+Understanding what works and what does not (and under which conditions)
+
+--- [PDF Page 8 / Book Page 6] ---
+
+Learning from other sectors
+Building a cumulative knowledge base
+Concluding note
+References
+Notes
+
+65
+66
+68
+69
+72
+
+Part II Actors and mechanisms facilitating research use in policy and practice
+
+73
+
+4 Who is facilitating research use in education systems?
+
+74
+
+Jordan Hill
+Introduction
+Key dimensions
+Organisational actors
+Quality of ministries’ relationships
+Individual actors
+Quality of individuals’ relationships
+Conclusion
+References
+Notes
+Annex 4.A. Average activity levels reported by systems in survey
+Annex 4.B. List of official brokerage agencies reported by systems in survey
+
+75
+76
+78
+84
+87
+92
+95
+96
+99
+100
+101
+
+5 Facilitating research use: Scary Barriers (and Super Mechanisms)
+
+103
+
+José Manuel Torres
+Introduction
+What influences the use of research? Framing the discussion
+How do systems facilitate the use of research? Findings from the survey
+What prevents systems from using evidence? Findings from the survey
+How do systems coordinate research production?
+Impact: A missing piece
+Conclusion
+References
+Annex 5.A. Additional tables
+
+104
+105
+106
+112
+114
+117
+118
+119
+122
+
+6 Linking research, policy and practice: Learning from other sectors
+
+125
+
+Annette Boaz, Kathryn Oliver and Anna Numa Hopkins
+Introduction
+Mapping interactions between research, policy and practice
+How successful are these approaches? Learning from research and evaluation
+Cross-cutting themes
+Implications for the education sector
+References
+Note
+
+7 Evidence on evidence-informed policy and practice
+
+126
+126
+137
+138
+140
+142
+145
+
+146
+
+David Gough, Jonathan Sharples and Chris Maidment
+Introduction
+Evidence-informed in their aims and needs analysis
+Integrating evidence use in wider systems and contexts
+Evidence-informed in their methods and theory of change
+
+--- [PDF Page 9 / Book Page 7] ---
+
+Credible standards for making justifiable evidence claims
+Evaluation of KBIs and contributing to the “use of research” knowledge base
+Discussion, implications and recommendations
+References
+Notes
+
+153
+156
+157
+159
+162
+
+Part III New approaches to understanding research use
+
+163
+
+8 Communication, collaboration and co-production in research: Challenges and
+benefits
+
+164
+
+Gábor Halász
+Introduction
+Use of evidence and knowledge mobilisation
+Design-based research
+Research-practice partnerships
+Consultancy
+Using narratives and storytelling
+Using teaching to connect research with practice
+Conclusions
+References
+Notes
+
+165
+166
+167
+168
+171
+172
+174
+175
+177
+181
+
+9 Using research well in educational practice
+
+182
+
+Mark Rickinson, Lucas Walsh, Joanne Gleeson, Blake Cutler, Connie Cirkony and
+Mandy Salisbury
+Introduction
+Monash Q Project
+Quality use of research: The QURE Framework
+Practising quality use
+Supporting quality use
+Conclusion and implications
+References
+Annex 9.A. Sample and analysis details
+
+10 Perspectives on education research
+
+183
+184
+185
+189
+191
+193
+195
+199
+
+200
+
+John Bangs, Martin Henry, Emese K. Nagy, Tine S. Prøitz, Mark Schneider, Vivian
+Tseng, Dirk Van Damme and Makito Yurita
+Introduction
+The long and winding road for educational research
+More scientific rigour for education research
+From research to advocacy
+Thoughts on public education research
+Time to rethink research-practice relationships for practitioners
+First things first
+Professionalism in the production and use of education research in the era of useability and
+utility
+Conclusions: The future of education research
+References
+Notes
+
+--- [PDF Page 10 / Book Page 8] ---
+
+11 Improving research-policy-practice engagement: Lessons learnt and ways
+forward
+
+235
+
+Nóra Révai
+Introduction
+What have we learnt about the conceptual considerations?
+What have we learnt about the key questions?
+What works in what works? More meta-research is needed
+What’s next?
+References
+
+Annex A. List of contributors
+
+236
+236
+238
+240
+241
+242
+
+244
+
+FIGURES
+Figure 1.1. Dimensions of strengthening the impact of education research
+Figure 2.1. Knowledge mobilisation linear model
+Figure 2.2. Knowledge mobilisation relationships model
+Figure 2.3. Knowledge-transfer strategy framework
+Figure 2.4. Knowledge-to-Action framework: Knowledge creation and Action cycle
+Figure 2.5. Research Knowledge Mobilisation model
+Figure 2.6. Evidence use ecosystem framework
+Figure 2.7. Evidence-informed decision-making framework
+Figure 2.8. Research-informed teaching theory
+Figure 2.9. Quality Use of Research Evidence (QURE) framework
+Figure 2.10. Knowledge dynamics in the evidence-innovation ecosystem
+Figure 4.1. Number of actors reported as active in systems
+Figure 4.2. Size and strength of ministries’ networks
+Figure 4.3. Relevance of ministry connections to organisations active in facilitating research use in policy
+Figure 4.4. Systems reporting the presence of individual roles to facilitate the use of research
+Figure 4.5. Levels of individuals’ activity reported by systems in research production.
+Figure 4.6. Individuals’ involvement in the different stages of research production
+Figure 4.7. Individuals’ extrinsic and intrinsic incentives to produce education research
+Figure 4.8. Average degree of ministries’ agreement with statements about the culture and mindset of using
+research in policy and practice
+Figure 4.9. Overview of policy makers’ learning opportunities
+Figure 4.10. How policy makers access education research
+Figure 4.11. How policy makers use education research during the policy process
+Figure 5.1. Mindmap of concepts
+Figure 5.2. Number of mechanisms by system, 2021
+Figure 5.3. Presence of mechanisms facilitating the use of educational research, 2021
+Figure 5.4 Presence and relevance of barriers to the use of research, 2021
+Figure 5.5. Presence of coordinating mechanisms of research production, 2021
+Figure 6.1. Types of organisations that host academic-policy engagement
+Figure 6.2. What do research-policy engagement initiatives do?
+Figure 7.1. Evidence ecosystem
+Figure 8.1. Strategic self-positioning of national government-led educational development and research
+institutes
+Figure 9.1. Quality Use of Research Evidence (QURE) Framework
+
+24
+35
+36
+38
+39
+41
+42
+47
+48
+49
+50
+83
+84
+86
+88
+89
+90
+91
+93
+94
+94
+95
+105
+107
+108
+112
+114
+127
+128
+148
+171
+186
+
+TABLES
+Table 1.1. Key questions around strengthening the impact of education research
+Table 2.1. Comparative analysis of knowledge mobilisation models
+Table 2.2. Analysis of knowledge mobilisation-related models
+
+--- [PDF Page 11 / Book Page 9] ---
+
+Table 4.1. Key dimensions summary
+76
+Table 4.2. Number of systems reporting organisations to be active in facilitating the use of education research
+and in research production
+79
+Table 5.1. Typology of factors influencing research use
+106
+Table 5.2. Systems according to their main reported barriers by type of approach
+114
+Table 6.1. Examples of initiatives using linear approaches
+128
+Table 6.2. Examples of initiatives using relational approaches
+130
+Table 6.3. Examples of initiatives using systems approaches
+135
+Table 7.1. Web-based portals evidence standards for making evidence claims of efficacy
+155
+Table 9.1. Examples of quotes about quality research use and poor research use from educators' interviews
+and responses to Survey 1
+189
+Table 9.2. Key characteristics of quality research use from educators’ responses in interviews and Survey 1 190
+
+Annex Table 5.A.1. Factors influencing research use by type of factor
+Annex Table 5.A.2. Factors influencing research use by type of approach in the OECD Strengthening the
+Impact of Education Research policy survey
+Annex Table 5.A.3. Factors influencing research use by type of factor in the OECD Strengthening the Impact
+of Education Research policy survey
+Annex Table 9.A.1. Sample details
+
+122
+123
+124
+199
+
+BOXES
+Box 1.1. Meaning of “research” in the Strengthening the Impact of Education Research project
+18
+Box 1.2. CERI work on knowledge for policy and practice
+21
+Box 1.3. Who are policy makers?
+25
+Box 3.1. Learning from other sectors: A crisis in evidence-based medicine?
+65
+Box 4.1. Policy and analysis units in ministries of education
+80
+Box 4.2. Two models of integrated doctoral training programmes focused on the production and use of
+educational research
+88
+Box 4.3. Researcher teachers in Hungary
+91
+Box 5.1. Teaching and Learning Research Initiative in New Zealand
+109
+Box 5.2. EEF’s Teaching and Learning Toolkit
+110
+Box 5.3. Programme for Research and Innovation in the Educational Sector in Norway
+115
+Box 5.4. Coordinating efforts at a system level
+116
+Box 6.1. Demand-led rapid evidence synthesis at The Center for Rapid Evidence Synthesis (ACRES), Uganda129
+Box 6.2. Science and Technology Policy Fellowships at the American Association for the Advancement of
+Science (AAAS)
+132
+Box 6.3. Partnership and collaboration in the Collaborations for Leadership in Applied Health Research and
+Care (CLAHRCs)
+133
+Box 7.1. Examples of KBI organisations and strategies
+147
+Box 7.2. Questions about being evidence-informed in aims and needs analysis
+150
+Box 7.3. Questions about awareness of the wider systems
+151
+Box 7.4. Questions about methods and theories of change
+153
+Box 7.5. Questions about the use of credible evidence standards for making evidence claims
+156
+Box 7.6. Questions about evaluation of KBI’s work and contribution to the knowledge base
+157
+Box 7.7. Recommendations
+158
+Box 8.1. When behavioural inflexibilities block policy making: Two examples
+166
+Box 8.2. Researchers and practitioners co-creating solutions: Three examples
+167
+Box 8.3. Mutual learning through workshopping: An example
+169
+Box 8.4. Honing researcher skills in the field
+172
+Box 8.5. The researcher policy maker: An example
+174
+Box 8.6. Recommendations for strengthening the research-policy-practice link in education
+175
+Box 9.1. Monash Q Project: Study methodology
+184
+Box 9.2. Alex’s story – Individual enablers in action
+
+--- [PDF Page 12 / Book Page 10] ---
+
+Box 9.3. Genevieve’s story – Organisational enablers in action
+Box 10.1. Institute of Education Sciences, United States
+Box 10.2. Education International
+Box 10.3. The International Summits on the Teaching Profession
+Box 10.4. Good and bad research in schools: Two examples from the author’s school
+Box 10.5. The Swedish ULF project
+Box 10.6. William T. Grant Foundation
+Box 10.7. Examples of democratised research funding

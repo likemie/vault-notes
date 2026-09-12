@@ -9,10 +9,10 @@ aliases:
 summary: "Allan Best 与 Bob J. Holmes (2010) 提出的知识利用理论分析框架，将研究与政策行动的联结划分为线性推动模型（第一代）、关系型协同生产模型（第二代）与系统生态学模型（第三代），解释了国际组织与国家从单向证据推销转向区域枢纽与制度吸收容量建设的演进逻辑。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 28
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 35
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/educational-policy
   - theme/research-use
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Transfer Space]]"
   - "[[Champ]]"
+  - "[[Evidence Ecosystem]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Heterogeneity]]"
@@ -37,8 +38,13 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Policy Network]]"
   - "[[Academic Achievement]]"
+  - "[[Problem Finding]]"
+  - "[[Knowledge Mobilisation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
+  - "[[Rationalism in International Relations]]"
+  - "[[Blue Skies Research]]"
+  - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -54,6 +60,7 @@ related_facts:
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Torres_2022_KMModels]]"
 confidence: high
 status: draft
 created: 2026-09-12
@@ -93,7 +100,7 @@ updated: 2026-09-12
 > | [[Transfer Space]] | 框架 | 分析全球证据向国家/地方流动时所依附的多尺度关系性[[Champ\|场域]]。 |
 > | 吸收容量（[[Absorptive Capacity]]） | 概念 | 政策系统识别、同化并有效应用外部高价值证据的内在制度能力。 |
 > | 协同生产（Co-production） | 机制 | 第二代模型的核心操作机制，打破生产者与消费者的界限以提升证据合意性。 |
-> | 证据生态系统（Evidence Eco-system） | 框架 | 第三代模型用于描述数据生成、中介平台、资金支持与政策规制的互联共生网络。 |
+> | [[Evidence Ecosystem\|证据生态系统]]（Evidence Eco-system） | 框架 | 第三代模型用于描述数据生成、中介平台、资金支持与政策规制的互联共生网络。 |
 
 ---
 
@@ -175,8 +182,10 @@ updated: 2026-09-12
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2010 — 理论创立** Allan Best 与 Bob J. Holmes 于 *Evidence & Policy* 发表奠基性论文，正式确立知识-行动联结的三代演化[[Analytic Framework|分析框架]]。
+> - **2006 — 经典 KTA 漏斗与行动循环模型提出** Ian Graham 等人于 *Journal of Continuing Education in the Health Professions* 发表里程碑式论文，正式提出知识到行动（Knowledge-to-Action, KTA）框架，将转化过程划分为“知识创造漏斗”（探究→综合→工具）与动态渗透的“行动循环”（[[Problem Finding|问题界定]]→情境适配→阻碍评估→干预定制→应用监测→成效评估→持续使用）。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 38–40)]]
+> - **2010 — 三代演化[[Analytic Framework|分析框架]]奠基** Allan Best 与 Bob J. Holmes 于 *Evidence & Policy* 发表论文，在卫生与公共政策领域正式提炼出三代知识-行动联结演化模型（线性推动、关系协同、系统生态），成为跨学科诊断宏观知识流动机制的中层理论。
 > - **2010–2020年代 — 公共卫生向公共政策与教育迁移** 框架被广泛应用于加拿大、英国等地的公共政策评估与循证社会服务研究。
+> - **2022 — [[OECD]] [[Knowledge Mobilisation|知识动员]]模型系统性比较** [[Argument_Torres_2022_KMModels|Torres (2022)]] 对比 KTA、Lavis、Levin 与 Gough 等主流模型，确认 Graham 等人的 KTA 框架凭借构件间的渗透性、流体性与持续双向反馈，成为突破单向转移、奠定关系主义[[Paradigm|范式]]的核心里程碑。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 38–40, 44–46)]]
 > - **2024 — 全球教育治理与[[Policy Brokerage|政策中介]]分析** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, & Ydesen (2024)]] 将该理论深度融入对 [[OECD]]、[[World Bank|世界银行]]、[[Global Partnership for Education|GPE]] 等国际组织政策中介演进的批判性审视。
 
 ---
@@ -190,13 +199,22 @@ updated: 2026-09-12
 > >
 > > - **技术[[Pragmatic Paradigm|实用主义]]者** 批评系统模型将过多制度、文化与心理[[Variable|变量]]卷入，导致评估指标模糊，难以在具体政策项目中进行精准的因果归因。
 > > - **系统复杂性学者** 坚称将知识转化还原为简单的双向沟通严重低估了官僚体系的阻力，唯有系统论视角才能抓住政策运行的本质。
+>
+> > [!axis] 知识转化漏斗的[[Rationalism in International Relations|理性主义]]色彩
+> > Graham et al. (2006) 的 KTA 漏斗模型是否暗含了从[[Blue Skies Research|基础研究]]到工具研发的线性演进假定。
+> >
+> > - **实证转化论者** 认为漏斗清晰刻画了知识逐步蒸馏、去粗取精并具象化为临床与教学指南的必然过程。
+> > - **系统论批判学者** 指出实践现场的知识往往直接生发于行动者的试错与默会经验，漏斗模型在很大程度上仍未能摆脱研究生产端主导的先验偏见。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 44–46)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 指出即便国际组织演进至第三代系统生态模型，由于国际机构内在的自指性偏好（如[[World Bank|世行]]反复援引自建 [[Systems Approach for Better Education Results|SABER]] 库）与国家官僚在行政立法阶段的剧烈过滤，系统生态仍难以根本解决证据闲置与权力不对称问题。
+> - [[Argument_Torres_2022_KMModels|Torres (2022)]] — 指出 Graham et al. (2006) 的 KTA 框架虽然具备高度的阶段流体性与反馈循环，但模型本身忽略了知识中介或动员功能（Mobilisation / Brokering）的明确组织定位，且未将宏观社会政治环境对行动循环的制约结构化呈现。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用知识-行动联结三代模型，剖析国际组织面对数字时代研究证据闲置危机时，为何加速布局区域常设中介枢纽与生态化网络。
+> [!evidence-grid] 相关研究索引
+> - **[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]** 运用知识-行动联结三代模型，剖析国际组织面对数字时代研究证据闲置危机时，为何加速布局区域常设中介枢纽与生态化网络。
+> - **[[Argument_Torres_2022_KMModels|Torres (2022)]]** 系统比较 KTA（Graham et al., 2006）、[[Knowledge Transfer|知识转移]]战略（Lavis et al., 2003）、动员模型（Levin, 2013）与证据生态（Gough et al., 2019），确立代际演进谱系。
+> - **Best & Holmes (2010)** 奠定知识-行动联结三代演化模型（线性推动、关系协同、系统生态），奠定宏观中介分析基石。

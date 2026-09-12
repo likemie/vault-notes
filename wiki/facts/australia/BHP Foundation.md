@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Knowledge Production]]"
+  - "[[Evidence Ecosystem]]"
   - "[[Value Neutrality]]"
   - "[[Policy Network]]"
   - "[[Paradigm]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-09-12
 ---
 
 # BHP Foundation
@@ -55,7 +56,7 @@ updated: 2026-06-16
 ## 经过
 
 > [!timeline] 机构发展与关键活动
-> - 2018 必和必拓基金会宣布对英国[[Education Endowment Foundation|教育捐赠基金会]] (EEF) 注资，启动并全面资助为期五年的“在教学中构建全球证据生态系统”项目。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - 2018 必和必拓基金会宣布对英国[[Education Endowment Foundation|教育捐赠基金会]] (EEF) 注资，启动并全面资助为期五年的“在教学中构建全球[[Evidence Ecosystem|证据生态系统]]”项目。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - 2018-2023 基金会利用注资项目，促成在各合作伙伴国家复制“EEF模式的循证机构”，直接催生和塑造了澳大利亚 [[Australian Education Research Organisation|AERO]] 的政策运作和治理规程。
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-06-16
 ## 关键文件／声明
 
 > [!citation-card]- [[Education Endowment Foundation|EEF]] 全球证据生态建设计划
-> - 资助英国 EEF 推动“在教学中构建全球证据生态系统”项目（EEF, 2024）。该项目旨在构建跨国标准化证据库，并将学校教学实践重新框定为可测量、可审计的企业理性。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - 资助英国 EEF 推动“在教学中构建全球[[Evidence Ecosystem|证据生态系统]]”项目（EEF, 2024）。该项目旨在构建跨国标准化证据库，并将学校教学实践重新框定为可测量、可审计的企业理性。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 
