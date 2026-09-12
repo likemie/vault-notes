@@ -7,55 +7,48 @@ aliases:
 summary: "在规划、实施或调整政策、项目与服务前系统咨询最佳可用研究证据的审议过程，强调通过六大因果机制改变决策者行为与心理状态的系统框架。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/evidence-informed-practice
   - theme/research-use
   - theme/policy-decision-making
   - theme/behaviour-change
 related_concepts:
-  - "[[Data-Based Decision Making]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Research-Informed Teaching Practice]]"
-  - "[[Knowledge Mobilisation]]"
   - "[[Research Utilization]]"
-  - "[[Knowledge Mediation]]"
-  - "[[Professional Judgment]]"
+  - "[[Research-Informed Teaching Practice]]"
+  - "[[Data-Based Decision Making]]"
   - "[[Technical Rationality]]"
+  - "[[Determinism]]"
+  - "[[Professional Judgment]]"
+  - "[[Literature Search]]"
+  - "[[Dialogue in Education]]"
   - "[[Research Literacy]]"
-  - "[[Data Literacy]]"
-  - "[[Construct]]"
-  - "[[Champ]]"
-  - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Analytical Stance]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Problem Solving]]"
-  - "[[Heterogeneity]]"
-  - "[[Epistemology]]"
-related_theories:
-  - "[[Quality Use of Research Evidence Framework]]"
-  - "[[Research Utilization Models]]"
-  - "[[Theory of Planned Behavior]]"
-  - "[[Complexity Theory]]"
+  - "[[Construct]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Knowledge Production]]"
+  - "[[Document]]"
+  - "[[Paradigm]]"
+  - "[[Evidence-Informed Practice]]"
+related_theories: []
 related_methods:
-  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts:
-  - "[[OECD]]"
   - "[[EPPI-Centre]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Nelson_2017_ER]]"
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Evidence-Informed Decision-Making
@@ -69,7 +62,7 @@ updated: 2026-09-12
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向决策者获取、评估并整合学术研究证据以调整政策行动的完整行为因果链条。
-> - **用途** 帮助研究者透析为何充足的研究供给往往无法自发转化为政策采纳，揭示阻碍证据使用的多层级制度与心理中介机制。
+> - **用途** 帮助研究者透析为何充足的研究供给往往无法自发转化为政策采纳，揭示阻碍[[Research Utilization|证据使用]]的多层级制度与心理中介机制。
 > - **边界** EIDM 聚焦公共部门与教育行政管理层的决策行为改变；区别于微观课堂维度的[[Research-Informed Teaching Practice|研究知情教学实践]]（RITP），也区别于以校内统计数据为核心的[[Data-Based Decision Making|基于数据的决策]]（DBDM）。
 
 > [!citation-card] Langer 论证据知情决策的干预因果本质
@@ -78,20 +71,20 @@ updated: 2026-09-12
 > *The process in which multiple sources of information, in particular the best available research evidence, are consulted prior to making a decision to plan, implement and/or alter policies, programmes and other services. These interventions have the ultimate objective of changing behaviour through the use of evidence.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Data-Based Decision Making|基于数据的决策]]（DBDM） — DBDM 依赖学校或行政系统内部生成的评估成绩、考勤与问卷等实务数据，侧重本地学情诊断；EIDM 核心依据是外部学术界发表的高质量实证研究证据与系统评价。
-> - 不等于机械的证据本位决策（Evidence-Based Policy） — 传统证据本位常预设“研究即处方”的技术理性决定论；EIDM 强调研究证据必须与决策者的专业判断、利益相关者偏好以及资源约束展开审议权衡。
-> - 不等于单一的文献检索或信息披露 — 仅有信息的公开无法构成 EIDM；唯有当证据通过特定干预机制实质重构了决策者的能力、动机与决策行为时，EIDM 方告成立。
+> - 不等于 [[Data-Based Decision Making|基于数据的决策]]（DBDM） — DBDM 依赖学校或行政系统内部生成的评估成绩、考勤与[[Questionnaire|问卷]]等实务数据，侧重本地学情诊断；EIDM 核心依据是外部学术界发表的高质量实证研究证据与系统评价。
+> - 不等于机械的证据本位决策（Evidence-Based Policy） — 传统证据本位常预设“研究即处方”的[[Technical Rationality|技术理性]][[Determinism|决定论]]；EIDM 强调研究证据必须与决策者的[[Professional Judgment|专业判断]]、利益相关者偏好以及资源约束展开审议权衡。
+> - 不等于单一的[[Literature Search|文献检索]]或信息披露 — 仅有信息的公开无法构成 EIDM；唯有当证据通过特定干预机制实质重构了决策者的能力、动机与决策行为时，EIDM 方告成立。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 证据知情决策（EIDM） vs. 基于数据的决策（DBDM） vs. 研究知情教学实践（RITP）
+> [!contrast-table] 证据知情决策（EIDM） vs. [[Data-Based Decision Making|基于数据的决策]]（DBDM） vs. [[Research-Informed Teaching Practice|研究知情教学实践]]（RITP）
 > | 维度 | 证据知情决策（EIDM） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） |
 > |---|---|---|---|
 > | **核心适用主体** | 教育行政官员、政策制定者、项目规划者 | 学校管理者、教研组长、一线教师 | 课堂任课教师、专业学习共同体 |
-> | **主要证据来源** | 外部学术实证文献、[[Systematic Review\|系统综述]]与循证评估报告 | 内部管理数据、标准化测试成绩、课堂形成性记录 | 外部发表的教学法实证研究、元分析与教师实践证据 |
-> | **核心解释目标** | 解释政策规划与干预背后的**决策者行为改变**因果链 | 解释校本问题诊断与基于指标的精准干预流程 | 解释外部研究在课堂日常教学中的审议转化与三种声音对话 |
+> | **主要证据来源** | 外部学术实证文献、[[Systematic Review\|系统综述]]与循证评估报告 | 内部管理数据、标准化测试成绩、课堂形成性记录 | 外部发表的教学法实证研究、[[Meta-analysis\|元分析]]与教师实践证据 |
+> | **核心解释目标** | 解释政策规划与干预背后的**决策者行为改变**因果链 | 解释校本问题诊断与基于指标的精准干预流程 | 解释外部研究在课堂日常教学中的审议转化与三种声音[[Dialogue in Education\|对话]] |
 > | **关键理论代表** | Langer et al. (2016); [[Argument_Torres_2022_KMModels\|Torres (2022)]] | Schildkamp et al. (2017) | Cain (2015); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
 
 ---
@@ -104,10 +97,10 @@ updated: 2026-09-12
 >   1. **意识建立（Awareness）** 唤醒决策者对研究证据价值与可及性的认知；
 >   2. **认同协商（Agreement）** 促成决策者对特定研究结论与改革方向的价值认同；
 >   3. **能力建设（Skills）** 培育搜寻、评估与解读复杂学术证据的[[Research Literacy|研究素养]]；
->   4. **沟通可及（Communication）** 通过清晰转译消除学术晦涩话语，提升证据触达率；
->   5. **互动机会（Interaction）** 搭建研究者与官员面对面研讨与持续对话的常态化平台；
+>   4. **沟通可及（Communication）** 通过清晰[[Transfer Translation Transformation|转译]]消除学术晦涩话语，提升证据触达率；
+>   5. **互动机会（Interaction）** 搭建研究者与官员面对面研讨与持续[[Dialogue in Education|对话]]的常态化平台；
 >   6. **结构规程（Structure）** 建立要求在政策出台前必须出具实证证据评估的行政法制规程。
-> - **中介心理状态转化链（Intermediate Psychological Outcomes）** 六大机制作用于中间心理状态——能力、动机与机会（Capability, Motivation, Opportunity / COM-B 行为改变模型），最终驱动实质性证据使用行为的发生（[[Argument_Torres_2022_KMModels|Torres, 2022, pp. 46–47]]）。
+> - **中介心理状态转化链（Intermediate Psychological Outcomes）** 六大机制作用于中间心理状态——能力、动机与机会（Capability, Motivation, Opportunity / COM-B 行为改变模型），最终驱动实质性[[Research Utilization|证据使用]]行为的发生（[[Argument_Torres_2022_KMModels|Torres, 2022, pp. 46–47]]）。
 
 > [!logic-map]- EIDM 行为改变因果路径
 > ```mermaid
@@ -149,17 +142,17 @@ updated: 2026-09-12
 ### 命题一　证据利用在本质上是由多层干预驱动决策者行为改变的因果干预过程
 
 > [!concept-lens] 行为改变视角下的证据利用本体
-> 突破将知识利用窄化为纯粹认知功能或静态信息消费的理论偏误，确立其作为多维行为干预过程的因果机制。
+> 突破将[[Research Utilization|知识利用]]窄化为纯粹认知功能或静态信息消费的理论偏误，确立其作为多维行为干预过程的因果机制。
 
 > [!claim] Langer, Tripney, & Gough (2016) / [[Argument_Torres_2022_KMModels|Torres (2022)]]
-> **证据知情决策的行为因果链条** 证据知情决策绝非一项孤立直接的理智计算，而是一个受到干预类型、组织层级、心理构念与制度结构多重制约的复杂过程。该框架根本性打破了知识动员传统上以“知识生产”为支配重心的供给侧偏误（Levin, 2013），将知识动员的终极锚点明确转移至“引发决策者行为改变”。证据若未能在能力（Capability）、动机（Motivation）或机会（Opportunity）层面引发决策者的心理状态迁移，就无法克服行政惯性生成真实的政策采纳。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 46–47)]]
+> **证据知情决策的行为因果链条** 证据知情决策绝非一项孤立直接的理智计算，而是一个受到干预类型、组织层级、心理[[Construct|构念]]与制度结构多重制约的复杂过程。该框架根本性打破了[[Knowledge Mobilisation|知识动员]]传统上以“[[Knowledge Production|知识生产]]”为支配重心的供给侧偏误（Levin, 2013），将知识动员的终极锚点明确转移至“引发决策者行为改变”。证据若未能在能力（Capability）、动机（Motivation）或机会（Opportunity）层面引发决策者的心理状态迁移，就无法克服行政惯性生成真实的政策采纳。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 46–47)]]
 
 ---
 
 ### 命题二　孤立的信息供给无法促成决策转化且唯有六大机制协同才能激活决策机会与能力
 
 > [!concept-lens] 机制协同与制度约束
-> 揭示单一的“文献推介”在政策环境中的低效性，论证软性能力培养与硬性行政规程双轮驱动的必要性。
+> 揭示单一的“[[Document|文献]]推介”在政策环境中的低效性，论证软性能力培养与硬性行政规程双轮驱动的必要性。
 
 > [!claim] Langer, Tripney, & Gough (2016) / [[Argument_Torres_2022_KMModels|Torres (2022)]]
 > **六大因果机制的非充分性与协同整合** 仅靠“沟通可及”（如将报告改写为政策摘要）无法确保证据知情决策的发生。如果决策者缺乏解读实证研究的方法素养（缺乏能力 Skills），或者面临紧迫的政治问责压力而排斥反直觉的学术结论（缺乏认同 Agreement 与动机 Motivation），抑或行政体制内并未规定重大决策必须附带证据综述报告（缺乏结构规程 Structure），证据依然会被边缘化。唯有将意识、认同、技能、沟通、互动与结构六大机制立体嵌套，才能为决策者营造实质性的循证审议空间。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 46–47)]]
@@ -181,8 +174,8 @@ updated: 2026-09-12
 > [!dev-timeline] 概念演变
 > - **1990s — 证据为本决策（Evidence-Based Policymaking）的兴起** 受循证医学启发，英国布莱尔政府提出“什么有效即是真理”，开启了追求高等级实证证据指导政策的时代。
 > - **2000s — 从 Evidence-Based 向 Evidence-Informed 的现实转向** 政策学者意识到政治博弈、价值冲突与行政情境的制约，“证据知情”（Evidence-Informed）取代“证据为本”，承认证据是决策审议的多元输入之一而非唯一决定者。
-> - **2016 — Langer 等人提出 EIDM 行为改变因果框架** EPPI-Centre 的 Laurenz Langer 等人发表《The Science of Using Science》，整合行为科学与心理学理论，首次构建以行为改变为终极目标、包含六大机制与 COM-B 中介心理构念的 EIDM 分析模型。
-> - **2022 — [[OECD]] 知识动员比较中的理论定位** [[Argument_Torres_2022_KMModels|Torres (2022)]] 将 EIDM 确立为补充宏观动员模型理论盲区的前沿微观机制典范，强调其填补了决策端行动者微观因果转化机制的长期空白。
+> - **2016 — Langer 等人提出 EIDM 行为改变因果框架** [[EPPI-Centre]] 的 Laurenz Langer 等人发表《The Science of Using Science》，整合行为科学与心理学理论，首次构建以行为改变为终极目标、包含六大机制与 COM-B 中介心理[[Construct|构念]]的 EIDM 分析模型。
+> - **2022 — [[OECD]] [[Knowledge Mobilisation|知识动员]]比较中的理论定位** [[Argument_Torres_2022_KMModels|Torres (2022)]] 将 EIDM 确立为补充宏观动员模型理论盲区的前沿微观机制典范，强调其填补了决策端行动者微观因果转化机制的长期空白。
 
 ---
 
@@ -190,7 +183,7 @@ updated: 2026-09-12
 
 > [!debates] 学术争议
 >
-> > [!axis] “行为改变”范式对政策复杂政治属性的过度简化
+> > [!axis] “行为改变”[[Paradigm|范式]]对政策复杂政治属性的过度简化
 > > 批评者质疑将公共决策还原为心理学层面的“个体行为改变”是否脱离了政治现实。
 > >
 > > - **行为科学论者** 主张决策终究由具体的人做出，解构个体与组织的认知、动机和机会是破除证据忽视的微观钥匙。
@@ -201,5 +194,5 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Torres_2022_KMModels|Torres (2022)]] — 系统引入 Langer 等人的 EIDM 行为改变框架，横向阐明其对突破知识动员供给侧偏误的理论突破。
-> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 探讨证据知情实践在教育系统中的多源拼图架构与中介网络支撑。
+> - [[Argument_Torres_2022_KMModels|Torres (2022)]] — 系统引入 Langer 等人的 EIDM 行为改变框架，横向阐明其对突破[[Knowledge Mobilisation|知识动员]]供给侧偏误的理论突破。
+> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 探讨[[Evidence-Informed Practice|证据知情实践]]在教育系统中的多源拼图架构与中介网络支撑。

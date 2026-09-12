@@ -11,9 +11,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 22
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: European Commission
 tags:
@@ -22,6 +22,7 @@ tags:
   - theme/evidence-based-education
   - theme/educational-policy
 related_concepts:
+  - "[[Knowledge Mediation]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Utilization]]"
@@ -49,10 +50,11 @@ related_facts:
   - "[[EU Key Competences for Lifelong Learning]]"
 related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # EU Evidence-Informed Education Policy Initiatives
@@ -60,14 +62,14 @@ updated: 2026-09-12
 ## 背景
 
 > [!info] 背景
-> 欧盟层面的证据知情教育政策倡议不是一项单一法案，而是一组自 2006 年以来逐步形成的政策信号、工作文件、知识中介项目和支持机制。其共同方向是鼓励成员国在教育政策和实践决策中使用研究证据，但由于教育主要由各国负责，欧盟文件通常提供指导而非强制要求；完整论证见 [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021, pp. 26, 28)]]。
+> 欧盟层面的证据知情教育政策倡议不是一项单一法案，而是一组自 2006 年以来逐步形成的政策信号、工作文件、[[Knowledge Mediation|知识中介]]项目和支持机制。其共同方向是鼓励成员国在教育政策和实践决策中使用研究证据，但由于教育主要由各国负责，欧盟文件通常提供指导而非强制要求；完整论证见 [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021, pp. 26, 28)]]。
 
 欧洲更常使用 evidence-informed education 而不是 [[Evidence-Based Education]]。这一用语差异很重要：在研究层面，它允许[[Qualitative Research|定性研究]]和[[Mixed Methods Research|混合方法]]进入证据来源；在政策层面，它意味着欧盟文件更倾向建议成员国使用证据，而不是规定统一的证据标准或行动线([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 26]])。
 
 ## 政策文本摘要
 
 > [!abstract] 政策摘要
-> 欧盟证据知情教育政策倡议主要围绕三件事展开：建立评价文化，改善研究、政策和实践之间的联系，发展能把研究证据转化给政策制定者和学校使用的 知识中介机制([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.28-31]])。
+> 欧盟证据知情教育政策倡议主要围绕三件事展开：建立评价文化，改善研究、政策和实践之间的联系，发展能把研究证据转化给政策制定者和学校使用的 [[Knowledge Mediation|知识中介机制]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.28-31]])。
 
 2007 年欧洲委员会工作文件把知识本位政策与实践拆成三个维度：知识创造、知识应用和知识中介。知识创造指研究本位知识的生产；知识应用指政策制定者和实践者使用证据；知识中介则是把[[Knowledge Mobilisation|知识转译]]成可获得、可理解、可使用的形式([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.29]])。
 
@@ -78,7 +80,7 @@ updated: 2026-09-12
 
 > [!note]- 主要节点
 > - 2006 — 欧洲理事会春季结论强调建立评价文化，鼓励系统使用证据来推动教育系统现代化和平等化；同年 “Efficiency and Equity in European Education and Training Systems” 强调验证和传播良好实践的重要性([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.28]])。
-> - 2007 — 欧洲委员会发布 “Towards More Knowledge-Based Policy and Practice in Education and Training”，提出知识创造、知识应用和知识中介三类挑战，并指出各国在研究、政策和实践关系上的发展程度差异明显([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.29]])。
+> - 2007 — 欧洲委员会发布 “Towards More Knowledge-Based Policy and Practice in Education and Training”，提出知识创造、知识应用和[[Knowledge Mediation|知识中介]]三类挑战，并指出各国在研究、政策和实践关系上的发展程度差异明显([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.29]])。
 > - 2009 — ET 2020 把周期性进展监测视为证据本位政策制定的重要贡献；2015 年联合报告再次强调分析证据和进展监测对 ET 2020 框架有效性的重要性([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.30]])。
 > - 2010–2011 — 欧盟委员会资助启动欧洲教育证据知情政策项目（EIPEE），聚焦识别欧洲连接研究与政策制定的活动并进行能力建设（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 58]]）。
 > - 2011–2013 — 项目正式拓展为纳入实践维度的“欧洲教育证据知情政策与实践项目”（EIPPEE），汇聚欧洲 23 个国家的 36 家机构及 7 家国际附属机构，成为欧洲最大的教育知识中介跨国协作网络（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 67]]）。
@@ -89,7 +91,7 @@ updated: 2026-09-12
 ## 实施情况
 
 > [!example] 实施情况
-> 欧洲层面的实施主要表现为网络、报告和知识中介机制，而不是统一的欧盟教育项目清单。
+> 欧洲层面的实施主要表现为网络、报告和[[Knowledge Mediation|知识中介机制]]，而不是统一的欧盟教育项目清单。
 >
 > EIPPEE 项目的历史经验系统揭示了欧洲中介生态的三大核心特征（Gough et al., 2011; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 67–68]]）：
 > 1. **有效干预实证匮乏** 尽管各机构展现出极高参与热情，但极少能识别出关于“何种干预在何种情境下切实有效”的扎实经验研究；
@@ -121,6 +123,6 @@ updated: 2026-09-12
 
 > [!tip]-
 > - [[Evidence-Informed Practice]] — 欧盟更常采用的政策语言，强调研究证据是决策资源之一。
-> - [[Evidence-Based Reform]] — 与 Slavin 式强证据项目和政策激励相比，欧洲路径更强调倡议、指导和知识中介。
+> - [[Evidence-Based Reform]] — 与 Slavin 式强证据项目和政策激励相比，欧洲路径更强调倡议、指导和[[Knowledge Mediation|知识中介]]。
 > - [[Educational Evidence Clearinghouses]] — 欧洲证据政策依赖中介机构把[[Research Translation|研究转化]]为可用信息。
 

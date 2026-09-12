@@ -7,7 +7,7 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Research Question]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Evidence-Informed Decision-Making]]"
   - "[[Hypothesis]]"
   - "[[Abstract]]"
   - "[[Research-Practice Partnership]]"
@@ -88,6 +89,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Best Evidence Synthesis]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
@@ -188,7 +190,7 @@ updated: 2026-09-12
 在工具主义循证政策推动下，英美等国先后确立了以量化证据综合为导向的中介架构：（p.17）
 
 > [!case] 实证主义证据等级导向的中介机制探索
-> - **新西兰最佳证据综合（Best Evidence Synthesis, BES）**
+> - **新西兰[[Best Evidence Synthesis|最佳证据综合]]（Best Evidence Synthesis, BES）**
 >   系统梳理大规模实证干预效应，尝试为教育政策提供等级化的因果干预依据，但早期实践暴露出对微观情境[[Heterogeneity|异质性]]解释乏力的困境。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 17)]]
 > - **英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）教学与学习工具箱**
 >   以标准化[[Effect Size|效应量]]（月度进展）和实施成本对教学干预分类建档，推动了实证研究的普及，但也引发了关于处方式教学工具是否侵蚀教师专业裁量权的学界反思。同上
@@ -217,7 +219,7 @@ updated: 2026-09-12
 > [!term] 循证教育核心术语辨析
 > - **[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）**
 >   沙普尔斯（Sharples, 2013, p. 7）界定为：将专业实践智慧与来自研究的最佳外部证据有机整合，以提升教育教学实践品质的专业行动过程。
-> - **证据知情决策（Evidence-Informed Decision-Making, EIDM）**
+> - **[[Evidence-Informed Decision-Making|证据知情决策]]（Evidence-Informed Decision-Making, EIDM）**
 >   兰格等学者（Langer et al., 2016, p. 6）界定为：在制定规划、实施干预或调整政策与项目前，系统咨询包括最佳可用研究证据在内的多元信息来源的审议与裁决过程。
 
 ---

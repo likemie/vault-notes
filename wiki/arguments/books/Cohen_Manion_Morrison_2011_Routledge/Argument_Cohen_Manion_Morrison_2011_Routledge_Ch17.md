@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -98,6 +98,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Research Informed Practice Site]]"
   - "[[Evidence-Based Education Institutions]]"
+  - "[[Best Evidence Synthesis]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
 status: draft
@@ -506,7 +507,7 @@ Thomas & Pring（2004, pp. 54–55）从研究设计层面补充了元分析应�
 > |---|---|---|
 > | **叙事综述与总结** | 对研究发现进行叙述性总结 | — |
 > | **投票计数综述** | 计数有多少结果在一个方向上有统计显著性，多少无效应 | Davies, 2000, p. 367 |
-> | **最佳证据综合** | 基于明确标准和方法论选择研究 | Slavin, 1986 |
+> | **[[Best Evidence Synthesis\|最佳证据综合]]** | 基于明确标准和方法论选择研究 | Slavin, 1986 |
 > | **元[[Ethnography\|民族志]]** | 总结和综合来自民族志和解释性质性研究的证据 | — |
 > | **主题分析** | 基于主题的综合 | — |
 > | **[[Grounded Theory\|扎根理论]]** | 使用扎根理论方法综合 | — |

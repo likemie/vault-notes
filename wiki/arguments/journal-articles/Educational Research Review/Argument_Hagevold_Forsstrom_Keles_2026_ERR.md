@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -86,6 +86,7 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[OECD]]"
+  - "[[Centre for Educational Research and Innovation]]"
   - "[[Ofsted]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
@@ -105,7 +106,7 @@ updated: 2026-08-26
 > [!question]
 > 二十年来，各国教育系统都把"用研究证据改进学校"当作目标，但多项国际测试显示，学生成绩在许多领域仍在下滑。这段历史可追溯到 1996 年 Hargreaves 在伦敦教师培训署（Teacher Training Agency）的演讲，它引发了与 Hammersley 关于"教学能否成为研究本位专业"的争论。此后"什么有效"（What Works）运动兴起：[[Argument_Slavin_2002_ER|Slavin (2002)]]主张用[[Randomised Controlled Trials|随机对照试验]]检验教学法，Hattie（2008）的《[[Visible Learning|可见的学习]]》把"[[Effect Size|效应量]]"带进教师词汇，美国 What Works 信息交换所和英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）等机构负责[[Evaluation Research|评价研究]]质量、充当证据中介。但"识别并传播有效干预本身就会带来实践改变"的[[Hypothesis|假设]]并未如期实现，于是出现了强调把证据[[Transfer Translation Transformation|转译]]进实践的实施研究（implementation research）。
 >
-> 在数据问责的推动下，标准化的"证据本位"做法常常变成对研究的[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]（Weiss, 1979）：新做法只是浅层叠加在旧思维之上。[[OECD]] 教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）2021 年启动"加强教育研究的影响"项目，呼吁从"中介"转向"参与"，并指出深思熟虑的参与只有在信任的环境里才能[[Growth|生长]]（Révai, 2022; Révai & Mouthaan, 2023）。与此同时，[[New Public Management|新公共管理]]与[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM）带来的竞争、标准化与问责，进一步压缩了信任与创新的空间（Sahlberg, 2023）。
+> 在数据问责的推动下，标准化的"证据本位"做法常常变成对研究的[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]（Weiss, 1979）：新做法只是浅层叠加在旧思维之上。[[OECD]] 教育研究与[[Innovation Hub|创新中心]]（[[Centre for Educational Research and Innovation]], CERI）2021 年启动"加强教育研究的影响"项目，呼吁从"中介"转向"参与"，并指出深思熟虑的参与只有在信任的环境里才能[[Growth|生长]]（Révai, 2022; Révai & Mouthaan, 2023）。与此同时，[[New Public Management|新公共管理]]与[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM）带来的竞争、标准化与问责，进一步压缩了信任与创新的空间（Sahlberg, 2023）。
 >
 > 既有[[Systematic Review|系统综述]]反复列出[[Research Utilization|研究使用]]的障碍清单，却很少说明研究参与真正发生时是什么样子，也没有解释这些障碍为何如此顽固。要回答的问题有两个：第一，经验研究如何描述学校中的[[Research Utilization|研究使用]]，其中包含哪些组成部分，它们之间是什么关系？第二，[[Document|文献]]里提到了哪些阻碍和促进研究使用的因素？
 

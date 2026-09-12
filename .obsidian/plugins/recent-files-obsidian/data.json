@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Educational Evidence Clearinghouses",
-      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
+      "basename": "Best Evidence Synthesis",
+      "path": "wiki/facts/new-zealand/Best Evidence Synthesis.md"
     },
     {
       "basename": "Argument_Burns_Schuller_2022_BrokerageAgencies",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
+    },
+    {
+      "basename": "Education Endowment Foundation",
+      "path": "wiki/facts/uk/Education Endowment Foundation.md"
+    },
+    {
+      "basename": "EPPI-Centre",
+      "path": "wiki/facts/uk/EPPI-Centre.md"
+    },
+    {
+      "basename": "What Works Clearinghouse",
+      "path": "wiki/facts/us/What Works Clearinghouse.md"
+    },
+    {
+      "basename": "Educational Evidence Clearinghouses",
+      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
     },
     {
       "basename": "Argument_Revai(Ed.)_2022_OECD",
@@ -117,14 +133,6 @@
       "path": "wiki/concepts/university-industry-collaboration/Boundary Spanner.md"
     },
     {
-      "basename": "What Works Clearinghouse",
-      "path": "wiki/facts/us/What Works Clearinghouse.md"
-    },
-    {
-      "basename": "EPPI-Centre",
-      "path": "wiki/facts/uk/EPPI-Centre.md"
-    },
-    {
       "basename": "Publication Bias",
       "path": "wiki/concepts/research-methodology/Publication Bias.md"
     },
@@ -143,10 +151,6 @@
     {
       "basename": "Phronesis",
       "path": "wiki/concepts/educational-philosophy/Phronesis.md"
-    },
-    {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
     },
     {
       "basename": "Epistemic Governance",
@@ -195,10 +199,6 @@
     {
       "basename": "Education-for-Mandates",
       "path": "wiki/concepts/comparative-education/Education-for-Mandates.md"
-    },
-    {
-      "basename": "PISA for Development",
-      "path": "wiki/facts/global/PISA for Development.md"
     }
   ],
   "omittedPaths": [],

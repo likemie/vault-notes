@@ -2378,7 +2378,7 @@ Total entries: **2412**
 > - [[Tomorrow's Schools Reforms]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
 
 > [!index-list]- Program (2)
-> - [[Best Evidence Synthesis]] — 新西兰教育部自2003年起设立的部委嵌入型教育知识中介与循证研究综合项目，通过为研究者提供系统综述操作指导以及研发教师专业学习与领导力实践视频，开创了循证政策与实践协同演化的国家典范。
+> - [[Best Evidence Synthesis]] — 新西兰教育部自2003年起主导设立的部委嵌入型国家级知识中介项目，通过迭代综合方法深度融合实证因果与毛利文化响应性教学，开创了从方法论指导向多模态实践转译演进的国家典范。
 > - [[Foundation North Māori and Pasifika Education Initiative]] — Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
 
 ### Norway
@@ -2463,9 +2463,9 @@ Total entries: **2412**
 > - [[CEM Centre]] — 1983 年成立的杜伦大学教育评估与监测研究中心，开发 PIPS、MidYIS、ALIS 等学校监测系统，2019 年被剑桥大学出版与评估院收购
 > - [[Centre for the Use of Research and Evidence in Education]] — 英国证据传播机构，主要把研究报告转化为教师和政策制定者可理解、可用于学校真实情境的材料。
 > - [[Committee for the Accreditation of Teacher Education]] — 1984年英国保守党政府设立的教师教育认证机制，将教师教育从学科基础转向课堂技能和能力导向的教师训练。
-> - [[Education Endowment Foundation]] — 英国的教育证据中介组织，2011年成立，由公益基金资助，通过制作教学工具包和资助RCT来推广基于证据的教育实践，是全球what works运动在教育领域的制度化标杆。
+> - [[Education Endowment Foundation]] — 英国2011年由萨顿信托联合创立的准独立慈善证据中介旗舰，依托1.25亿英镑政府种子基金，通过《教学与学习工具包》、大规模RCT资助及研究学校网络，开创了循证教育生态系统模型。
 > - [[EngineeringUK]] — 英国推动青少年工程与科技教育的核心非营利全国性机构，联合产业界、学校与政府主办大爆炸科技博览会，并与英国皇家学会联合开展全国青少年科学教育追踪调查（SET），致力于消除工程领域的性别与社会阶层机会鸿沟
-> - [[EPPI-Centre]] — 1995年设于伦敦大学学院教育学院（UCL IOE）的国际先驱证据中介机构，致力于开发系统综述方法论，并积极探索从线性转译走向能力建设与多边伙伴协同的知识动员模式。
+> - [[EPPI-Centre]] — 1995年设于伦敦大学学院教育学院（UCL IOE）的国际先驱证据中介机构，经合组织2007年追踪机构中唯二保持十五年完全活跃的标杆之一，开创了从线性转译向多方参与综述、软件平台及元中介网络协同演进的学术中介范式。
 > - [[Higher Education Funding Council for England]] — 英国英格兰地区1992–2018年间法定高等教育资助与规约中介机构，负责分配公共教学科研经费，主导发起全国学习增益项目并奠定卓越教学框架制度基石。
 > - [[Institute for Effective Education]] — 英国约克大学相关独立慈善机构，通过学校支持、严格评价、Evidence in Brief和Evidence 4 Impact推动教育政策与实践中的证据使用。
 > - [[Institute for Research in Schools]] — 英国全国性科学教育慈善机构，搭建中学与顶尖高校及国际大科学工程的合作桥梁，使中学生直接使用真实科研数据和前沿课题开展长周期科学探究
@@ -2594,7 +2594,7 @@ Total entries: **2412**
 > - [[Promise Neighborhoods Research Consortium]] — 美国国家药物滥用研究所（NIDA）资助建立的多领域公共证据平台，基于培育环境理论为脆弱社区提供教育、行为与健康综合干预清单；2012年结项后归档。
 > - [[University City Science Center]] — 费城的非营利产学合作组织，通过项目设计激励创业者关系发展并提供培训和资源，聚焦费城本地相对优势，后建立实体空间进一步集聚创业者、学者和产业伙伴
 > - [[US-China Economic and Security Review Commission]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
-> - [[What Works Clearinghouse]] — 美国教育部教育科学研究院（IES）2002年依据ESRA设立的联邦旗舰教育证据清算中心，累计资助超1亿美元，确立了以RCT/QED/RDD和Handbook为核心的因果推断规程与ESSA证据认定基准。
+> - [[What Works Clearinghouse]] — 美国教育部教育科学研究院（IES）2002年设立的联邦旗舰教育证据清算中心，经合组织2007年追踪机构中唯二保持十五年完全活跃的标杆之一，依托法定预算与外包合同制确立了严密的因果推断与证据认定基准。
 
 > [!index-list]- Policy (17)
 > - [[CHIPS and Science Act]] — 2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设
