@@ -577,6 +577,17 @@
     ]
   },
   {
+    "title": "Democratisation of Expertise",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Democratisation of Expertise.md",
+    "aliases": [
+      "专业知识民主化",
+      "专家的去神圣化",
+      "专业知识的民主化",
+      "Democratization of Expertise"
+    ]
+  },
+  {
     "title": "Development Turn in Comparative Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Development Turn in Comparative Education.md",
@@ -1172,6 +1183,17 @@
     ]
   },
   {
+    "title": "Technology Deficit of Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Technology Deficit of Education.md",
+    "aliases": [
+      "教育的技术赤字",
+      "教育技术赤字",
+      "Technologiedefizit der Erziehung",
+      "Technology Deficit"
+    ]
+  },
+  {
     "title": "The Nation-State as the Unit of Comparison",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
@@ -1182,6 +1204,17 @@
       "比较教育中的民族国家单位",
       "Nation-State as the Unit of Analysis",
       "Nation-State as Unit of Comparison"
+    ]
+  },
+  {
+    "title": "Transfer Space",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Transfer Space.md",
+    "aliases": [
+      "政策转移空间",
+      "转移空间",
+      "借用空间",
+      "Policy Transfer Space"
     ]
   },
   {

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-12
 ---
 
 # Correlated and Hierarchical Effects Model
@@ -117,12 +117,14 @@ updated: 2026-08-24
 ### 2. 抽样协方差矩阵的插补构造
 
 > [!formula-step] 公式步骤　块对角协方差工作矩阵构建
-> $$\mathbf{V}_j = \begin{pmatrix} 
+> $$
+> \mathbf{V}_j = \begin{pmatrix}
 > V_{1j} & \rho \sqrt{V_{1j} V_{2j}} & \cdots & \rho \sqrt{V_{1j} V_{k_j j}} \\
 > \rho \sqrt{V_{2j} V_{1j}} & V_{2j} & \cdots & \rho \sqrt{V_{2j} V_{k_j j}} \\
 > \vdots & \vdots & \ddots & \vdots \\
 > \rho \sqrt{V_{k_j j} V_{1j}} & \rho \sqrt{V_{k_j j} V_{2j}} & \cdots & V_{k_j j}
-> \end{pmatrix}$$
+> \end{pmatrix}
+> $$
 >
 > **这个公式在做什么** 在[[Primary and Secondary Documents|原始文献]]未完整报告测量间相关系数时，设定合理的先验集群内相关常数 $\rho$（在敏感性分析中通常设定 $\rho = 0.8$，并检验 $\rho \in [0.0, 0.9]$ 范围内的稳定性），插补构造块对角抽样协方差矩阵。
 
