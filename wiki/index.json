@@ -3659,6 +3659,16 @@
     ]
   },
   {
+    "title": "Embedded Researcher",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Embedded Researcher.md",
+    "aliases": [
+      "嵌入式研究者",
+      "嵌入式研究员",
+      "embedded researchers"
+    ]
+  },
+  {
     "title": "Endogenous and Exogenous Privatisation",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Endogenous and Exogenous Privatisation.md",
@@ -3877,6 +3887,19 @@
     "aliases": [
       "制度性不信任",
       "制度不信任"
+    ]
+  },
+  {
+    "title": "Knowledge Co-production",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Knowledge Co-production.md",
+    "aliases": [
+      "知识共创",
+      "知识合作生产",
+      "合作生产",
+      "协同生产",
+      "co-production",
+      "research co-production"
     ]
   },
   {
@@ -22210,8 +22233,10 @@
     "type": "fact",
     "path": "wiki/facts/us/What Works Clearinghouse.md",
     "aliases": [
-      "何者有效清算中心",
       "有效干预清算中心",
+      "何者有效清算中心",
+      "实用有效清算中心",
+      "强效作为清算所",
       "WWC"
     ]
   },
@@ -22918,6 +22943,11 @@
     "title": "Argument_Burns_Schuller_2022_BrokerageAgencies",
     "type": "argument",
     "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
+  },
+  {
+    "title": "Argument_Hill_2022_FacilitatingActors",
+    "type": "argument",
+    "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Hill_2022_FacilitatingActors.md"
   },
   {
     "title": "Argument_Revai(Ed.)_2022_OECD",

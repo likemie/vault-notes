@@ -174,7 +174,7 @@ updated: 2026-09-13
 > [!row-contrast] 考察机构与案例快照（15 个标杆案例与跨国协作网络全景）
 > | 考察组别 | 机构或网络全称与简称 | 所属国别/区域 | 组织治理属性 | 核心中介机制与代表产出 | 存续状态与案例启示 |
 > |---|---|---|---|---|---|
-> | **2007 年 OECD 标杆追踪样本** | 美国强效作为清算所<br>（[[What Works Clearinghouse\|WWC, What Works Clearinghouse]]） | 美国 | 联邦直属法定机构<br>（IES 合同外包运营） | 依据联邦教育法案强制授权；推行因果实证黄金标准审查，发布干预指南与[[Recommendations for Practice\|实践建议]]。 | **持续活跃**<br>（法律强制授权与法定预算形成制度护城河） |
+> | **2007 年 OECD 标杆追踪样本** | 美国有效干预清算中心<br>（[[What Works Clearinghouse|WWC, What Works Clearinghouse]]） | 美国 | 联邦直属法定机构<br>（IES 合同外包运营） | 依据联邦教育法案强制授权；推行因果实证黄金标准审查，发布干预指南与[[Recommendations for Practice|实践建议]]。 | **持续活跃**<br>（法律强制授权与法定预算形成制度护城河） |
 > | | 循证政策与实践信息协同中心<br>（[[EPPI-Centre\|EPPI-Centre, Evidence for Policy and Practice Information and Co-ordinating Centre]]） | 英国 | 大学依托型学术实体<br>（伦敦大学学院教育研究院） | 扎根顶尖学术共同体；开创多元混合[[Systematic Review\|系统综述]]规程，自主研发 EPPI-Reviewer 专业综述软件。 | **持续活跃**<br>（大学学术自治与多元竞争性课题对冲财政风险） |
 > | | 最佳证据综合<br>（[[Best Evidence Synthesis\|BES, Best Evidence Synthesis]]） | 新西兰 | 部委嵌入型处室<br>（新西兰教育部直属） | 早期开创“研究者-部委”伴随式指导模式，产出多部领导力与毛利教学里程碑综述；后因更迭停资。 | **职能收缩**<br>（新证据综合报告资助终止，转向既有证据视频展示） |
 > | | [[Canadian Council on Learning\|加拿大终身学习委员会]]<br>（CCL, Canadian Council on Learning） | 加拿大 | 联邦资助独立非营利组织<br>（横跨联邦与各省） | 统筹跨省[[Lifelong Learning\|终身学习]]评估指标，提供全生命周期实证分析；后因两级政府管辖权博弈与预算撤销解散。 | **彻底关停**<br>（联邦制下缺乏跨行政区划法定协议导致资金链断裂） |
@@ -411,7 +411,7 @@ updated: 2026-09-13
 > [!row-contrast] 2007 年 OECD 标杆中介机构 15 年存续与归因追踪表（pp. 64–65）
 > | 机构名称与国别 | 创立背景与治理属性 | 2022 年存续状态 | 存续或夭折的核心制度根源 | 对中介长效治理的学理启示 |
 > |---|---|---|---|---|
-> | **美国强效作为清算所（[[What Works Clearinghouse\|WWC]]）**<br>（美国） | 联邦教育科学研究院（Institute of Education Sciences, IES）设立，由专业研究机构竞标承包运营 | **持续活跃** | 依托《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|No Child Left Behind Act]], NCLB）及后续《每一个学生成功法》（Every Student Succeeds Act, ESSA）等联邦法案的法定授权与经常性强制预算，建立严格的随机对照试验准入审查标准。 | 法律强制授权与法定预算保障是抵御政党轮替冲击的根本制度护城河。 |
+> | **美国有效干预清算中心（[[What Works Clearinghouse|WWC]]）**<br>（美国） | 联邦教育科学研究院（Institute of Education Sciences, IES）设立，由专业研究机构竞标承包运营 | **持续活跃** | 依托《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）及后续《每一个学生成功法》（Every Student Succeeds Act, ESSA）等联邦法案的法定授权与经常性强制预算，建立严格的随机对照试验准入审查标准。 | 法律强制授权与法定预算保障是抵御政党轮替冲击的根本制度护城河。 |
 > | **循证政策与实践信息协同中心（[[EPPI-Centre]]）**<br>（英国） | 伦敦大学学院教育研究院（University College London Institute of Education, UCL IoE）社会科学研究部下设学术中心 | **持续活跃** | 根植于顶尖研究型大学的深厚学术共同体，采用多元竞争性研究课题基金与国际咨询委托模式，不单纯依附单一政府资助。 | 大学依托型实体具备更强的学术自治韧性与多元化资金对冲能力。 |
 > | **最佳证据综合（[[Best Evidence Synthesis\|BES]]）**<br>（新西兰） | 新西兰教育部内部直属设立并全额资助的常设项目处室 | **职能收缩** | 早期开创“手把手指导”的迭代综合模式；后因执政党更替与部委优先事项转移，官方彻底终止了对新证据综合报告的专项资助，现仅通过转化视频展示既有证据。 | 深度嵌入部委虽能保障政策对齐，但极易随部委领导层变更而被迅速边缘化。 |
 > | **[[Canadian Council on Learning\|加拿大终身学习委员会]]（CCL）**<br>（加拿大） | 联邦政府出资设立的全国性独立非营利机构，横跨联邦与各省 | **彻底关停** | 虽保持运营独立，但高度依赖联邦政府单一财政拨款；在经历联邦政党更迭及省际教育主权管辖权博弈后，联邦财政拨款被直接撤销导致解散。 | 联邦制国家跨行政区划中介机构若缺乏稳定的法定资金协议，极易在政党博弈中被抛弃。 |

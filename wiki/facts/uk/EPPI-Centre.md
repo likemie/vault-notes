@@ -120,7 +120,7 @@ updated: 2026-09-13
 > - **跨国元中介网络平台（[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]）** 主导建立欧洲教育循证政策与实践知识库，统筹制定跨国教育综述的共享质量标准，实现证据成果跨国流转([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 67]])。
 
 > [!citation-card] Burns & Schuller 论 EPPI-Centre 的纵向存续机制
-> [[OECD|经合组织]] 2007 年报告纵向追踪的 6 家标杆机构中，历经十五年仅有 2 家依然保持完全活跃（Fully active）状态，即美国强效作为清算所（[[What Works Clearinghouse|WWC]]）与英国循证政策与实践信息协同中心（EPPI-Centre）。EPPI-Centre 依托世界领先教育学院的学术根基与高度多元化的科研委托资助组合，成功化解了单一财政预算周期与政党轮替对独立[[Educational Brokerage Agency|知识中介机构]]的致命生存威胁。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])
+> [[OECD|经合组织]] 2007 年报告纵向追踪的 6 家标杆机构中，历经十五年仅有 2 家依然保持完全活跃（Fully active）状态，即美国有效干预清算中心（[[What Works Clearinghouse|WWC]]）与英国循证政策与实践信息协同中心（EPPI-Centre）。EPPI-Centre 依托世界领先教育学院的学术根基与高度多元化的科研委托资助组合，成功化解了单一财政预算周期与政党轮替对独立[[Educational Brokerage Agency|知识中介机构]]的致命生存威胁。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])
 >
 > *Of the six agencies tracked longitudinally from the OECD 2007 benchmark, only two remain fully active fifteen years later: the US What Works [[Educational Evidence Clearinghouses|Clearinghouse]] (WWC) and the UK Evidence for Policy and Practice Information and Co-ordinating Centre (EPPI-Centre).*
 

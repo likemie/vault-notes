@@ -94,7 +94,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Survey Research
@@ -326,6 +326,8 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国代表性成年抽样 $N = 5,281$）及科研人员参与[[Questionnaire|问卷调查]]的大样本定量数据，全面评估数字智能环境下公众科学信息获取渠道、真实性信任度以及学术共同体开展公众参与面临的体制性阻碍；并在[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|第五章]]中委托 YouGov 对 108 名英国国会议员（MPs）开展专属问卷调查，定量揭示立法决策者在科学信源选择上的偏误结构（55% 依赖智库 vs 仅 22% 依赖[[Parliamentary Office of Science and Technology|议会科学技术办公室]]），并测度公众对科学政策民主咨询的强烈诉求。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 在第六章中系统利用 Technopolis 受托执行的《影响英国科研人员公众参与的因素调查 2025》（Factors Affecting Public Engagement by UK Researchers 2025），通过与 2006 年及 2015 年前序调查的重复横截面大样本比较，定量揭示科研人员参与覆盖率（85%）与道德认同（83%）的高涨趋势，以及时间压力激增（75%）与高校职称考评激励匮乏（仅 25% 认为有助于晋升）构成的核心制度瓶颈。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 25–27)]] — 在[[OECD|经合组织]]（OECD）旗舰著作第一章中，介绍“[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]”实施的跨国标准化政策调查（涵盖 29 国 37 个教育系统教育部）与 6 国跟进[[In-depth Interview|深度访谈]]，系统映射各国教育行政决策中教育研究生产、中介促成与实践转化的制度全景，诊断时间匮乏、格式不便与学术考评体制激励错位等结构性壁垒。
+> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 75–102)]] — 在 OECD 编著第四章中，系统运用跨国政策调查（覆盖 29 国 37 个教育系统教育部）的标准化定量数据（5 点与 6 点李克特量表测度），对 17 类组织行动者在研究生产与政策/实践促成维度的活跃度、教育部人际与组织网络规模与强度、嵌入式研究者等专业角色分布、研究生产周期的各阶段介入、内在与外在激励机制，以及政策制定者人际互动的交易型特征展开全方位量化剖析与跨国比较。
+
 
 
 
