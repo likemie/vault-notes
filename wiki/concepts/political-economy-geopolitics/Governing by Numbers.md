@@ -7,7 +7,7 @@ aliases:
 summary: "Grek (2009) 提出的概念，指通过量化指标、国际排名和数据比较实现跨国教育治理的软性机制，PISA 是这一治理模式的典型工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
+  - "[[Façade of Rationality]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Soft Power]]"
   - "[[Relational Space]]"
@@ -45,6 +46,7 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Building Evidence in Education]]"
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -96,7 +98,7 @@ updated: 2026-09-12
 
 > [!feature] 核心要素
 > - **量化数据的政治权威** [[PISA]] 等数据被分析和解读后为教育政策制定和改革所用。国际组织通过发布测评结果和全球排名，为各国政策制定者提供远距离指导（Remote Guidance），用以验证既有改革的合法性或驱动后续政策（Gillis et al., 2016）。
-> - **去情境化与普遍性外观** 跨国测验受益于其去情境化和普遍性特征，使不同政治、文化和历史背景的教育体系可以在同一标尺上被排列和比较，为循证政策制定披上理性外衣。
+> - **去情境化与普遍性外观** 跨国测验受益于其去情境化和普遍性特征，使不同政治、文化和历史背景的教育体系可以在同一标尺上被排列和比较，为循证政策制定披上[[Façade of Rationality|理性外衣]]。
 > - **信息过量下的[[Policy Brokerage|政策中介]]化（2.0 阶段特征）** 在数字化时代的研究证据过剩与信息孤岛环境下，更多知识并未减少政策歧义；数字治理演进为依托[[Policy Brokerage|政策中介]]机构选择性筛选科研发现并将其[[Transfer Translation Transformation|转译]]为定向政策证据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **[[Soft Power by Hard Facts|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 国际组织将核心中介工具与差异化知识产品打包（如[[OECD|经合组织]]的 PISA 绑定国别经验对照，世界银行的基准数据库绑定自指性实践仓库），通过指标问责施展软权力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
 
@@ -156,7 +158,7 @@ updated: 2026-09-12
 > 分析各大国际组织如何将指标与测评工具转化为维系自身排他性权力同盟与资助地盘的武器。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **量化知识的排他性武器化与多边利基割据** 在数字治理 2.0 阶段，量化指标与测评工具不仅被用于向受测主权国家施加问责压力，更在跨国机构之间被深度“武器化”（weaponised），演变为各大国际组织维系专属治理领地、防范职能被蚕食的防御性制度武器。尽管跨国组织在修辞上高调宣称多边协同（如发起 BE2 智库联盟），但在实践中极力捍卫自身不可替代的测量品牌与项目资助利基。例如当联合国教科文组织与世界银行共同发起“学习数据协定”（Learning Data Compact）意图统合格局时，经合组织明确拒绝加入，转而独立与德国开发署合作推广 PISA-D，揭示出数字治理表面量化中立性掩盖下的跨国地盘割据与制度权力同盟。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
+> **量化知识的排他性武器化与多边利基割据** 在数字治理 2.0 阶段，量化指标与测评工具不仅被用于向受测主权国家施加问责压力，更在跨国机构之间被深度“武器化”（weaponised），演变为各大国际组织维系专属治理领地、防范职能被蚕食的防御性制度武器。尽管跨国组织在修辞上高调宣称多边协同（如发起 [[Building Evidence in Education|BE2]] 智库联盟），但在实践中极力捍卫自身不可替代的测量品牌与项目资助利基。例如当联合国教科文组织与世界银行共同发起“学习数据协定”（Learning Data Compact）意图统合格局时，经合组织明确拒绝加入，转而独立与德国开发署合作推广 PISA-D，揭示出数字治理表面量化中立性掩盖下的跨国地盘割据与制度权力同盟。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
 
 ---
 

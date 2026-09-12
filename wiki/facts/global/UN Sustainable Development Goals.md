@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_facts:
   - "[[Education for All]]"
   - "[[Global Partnership for Education]]"
   - "[[OECD]]"
+  - "[[Building Evidence in Education]]"
   - "[[PISA]]"
   - "[[Education International]]"
   - "[[THE Impact Ranking]]"
@@ -109,7 +110,7 @@ updated: 2026-09-12
 > - **1990 — 宗迪恩[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）世界宣言** 联合国教科文组织、联合国儿童基金会（United Nations Children's Fund，UNICEF）、联合国开发计划署与世界银行（World Bank）在泰国宗迪恩联合发起 EFA 倡议，标志着全球南方国家开始系统性卷入国际组织的量化治理体制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **2000 — 达喀尔世界教育论坛与千年发展目标（MDGs）** 确立初等教育普及（MDG 2）与消除性别差距（MDG 3）的硬性量化指标，跨国资金援助全面与初等教育入学率指标挂钩。
 > - **2015 — 仁川世界教育论坛与 SDGs 纽约峰会正式通过** 5 月仁川论坛通过《仁川宣言》确立《教育 2030 行动框架》；9 月联合国大会正式通过涵盖 17 目标与 169 项指标的《2030 年可持续发展议程》，将教育从单纯的初等入学扩展为[[Lifelong Learning|终身学习]]与公平优质。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 150)]]
-> - **2018–2020 — 指标垄断深化与多边数据联盟分化** 伴随 SDG 4 监测需求激增，五大多边组织（[[Global Partnership for Education|GPE]], [[OECD]], UNESCO, UNICEF, World Bank）展开激烈的数据主导权博弈；世界银行联合英美援助机构组建打造教育成效证据联盟（Building Evidence in Education，BE2），联合国教科文组织、儿童基金会与世行则另立“学习数据协定”（Learning Data Compact，LDC）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **2018–2020 — 指标垄断深化与多边数据联盟分化** 伴随 SDG 4 监测需求激增，五大多边组织（[[Global Partnership for Education|GPE]], [[OECD]], UNESCO, UNICEF, World Bank）展开激烈的数据主导权博弈；世界银行联合英美援助机构组建打造教育成效证据联盟（[[Building Evidence in Education]]，BE2），联合国教科文组织、儿童基金会与世行则另立“学习数据协定”（Learning Data Compact，LDC）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **2020 至今 — 危机叠加与[[Third Mission|大学第三使命]]重塑** 全球公共卫生与气候危机暴露出单一量化指标的局限；全球高校在研究、教学与校园运营中系统制度化 SDGs，但同时面临主权国家地缘科技竞争“再领土化”（Re-territorialization）的逆流冲击。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]
 
 ---
@@ -154,7 +155,7 @@ updated: 2026-09-12
 > | **核心行动者** | UNESCO、UNICEF、[[Education International\|国际教育协会]]（EI）、全球南方批判学者 | 世界银行、美国国际开发署（USAID）、英国外交发展部（FCDO） |
 > | **资源基础** | 联合国规范授权、全球教师工会网络、人权宪章 | 巨额项目贷款、双边外援资金、大[[Sample Size Determination\|样本量]]化实证数据库 |
 > | **利益框架** | 强调教育是基本人权与公共产品，反对将教育降维为单一劳动力技能。 | 强调[[Human Capital Theory\|人力资本]]投入产出效率，坚持基于实证因果证据与成本收益测算。 |
-> | **主要策略** | 制定包容性社会指标、倡导公共财政增资、提供系统生态规划。 | 组建 BE2 等排他性同盟、推行“学习贫困”指标、设定贷款前置条件。 |
+> | **主要策略** | 制定包容性社会指标、倡导公共财政增资、提供系统生态规划。 | 组建 [[Building Evidence in Education\|BE2]] 等排他性同盟、推行“学习贫困”指标、设定贷款前置条件。 |
 >
 > **关键分歧** SDGs 究应作为保障每一个公民全面发展的伦理愿景，抑或充当国际金融资本重新规约全球南方主权财政的“数字紧身衣”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 545)]]
 

@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 55
+fact_related_count: 57
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -78,7 +78,9 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
+  - "[[Definition and Selection of Competencies]]"
   - "[[Baby PISA]]"
+  - "[[Building Evidence in Education]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -87,7 +89,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # OECD
@@ -181,7 +183,7 @@ updated: 2026-09-11
 > - **学术[[Paradigm|范式]]迁移** 强力助推了“[[Evidence-Based Education|循证教育]]政策”在全球的合法性确立，引导教育决策从传统的政治协商或意识形态偏好转向高度依赖量化测量的[[Positivism|实证主义]]逻辑。
 > - **政策震慑与标杆树立** 借助公开排名触发跨国“PISA 冲击”，迫使德国、日本等传统教育强国展开自上而下的全国性标准改革与课程洗牌，树立以高表现国家为原型的“[[Reference Society|参考社会]]”，引发广泛的[[Policy Borrowing|政策借用]]。
 > - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance|远处治理]]（Governing at a Distance）与[[Governing by Numbers|数字治理]]典型模式。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]
-> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖能力界定与选择（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的话语权威。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的话语权威。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 核心规模数据
 > 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
@@ -216,7 +218,7 @@ updated: 2026-09-11
 > > [!axis] 跨国治理复合体中的排他性同盟与利基割据
 > > 批判学者剖析 OECD 与其他跨国巨头在多边协调修辞掩护下的权力同盟与自利性制度壁垒。
 > >
-> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与世界银行、联合国教科文组织等构成了“[[Global Education Governing Complex|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 BE2 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“学习数据协定”（Learning Data Compact）试图统合格局时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 PISA-D（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
+> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与世界银行、联合国教科文组织等构成了“[[Global Education Governing Complex|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“学习数据协定”（Learning Data Compact）试图统合格局时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 PISA-D（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
 
 > [!citation-card] 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）
 > 随着经济全球化和技术变革对劳动者技能提出更高要求，PISA 测验旨在评估学生在义务教育结束时是否具备了完全参与社会和经济生活所需的关键知识和技能。经合组织通过提供跨国可比的实证基础，支持各国政府优化其教育政策。

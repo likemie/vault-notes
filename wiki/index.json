@@ -694,6 +694,17 @@
     ]
   },
   {
+    "title": "Façade of Rationality",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Façade of Rationality.md",
+    "aliases": [
+      "理性表象",
+      "理性外衣",
+      "Facade of Rationality",
+      "数字理性表象"
+    ]
+  },
+  {
     "title": "Floating Signifier",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Floating Signifier.md",
@@ -19045,6 +19056,18 @@
     ]
   },
   {
+    "title": "1967 Williamsburg Conference on the World Crisis in Education",
+    "type": "fact",
+    "path": "wiki/facts/global/1967 Williamsburg Conference on the World Crisis in Education.md",
+    "aliases": [
+      "1967年威廉斯堡世界教育危机国际会议",
+      "威廉斯堡世界教育危机大会",
+      "弗吉尼亚威廉斯堡世界教育危机国际会议",
+      "Williamsburg Conference on the World Crisis in Education",
+      "1967 Williamsburg Conference"
+    ]
+  },
+  {
     "title": "1976 Hague Intergovernmental Conference on the International Baccalaureate",
     "type": "fact",
     "path": "wiki/facts/global/1976 Hague Intergovernmental Conference on the International Baccalaureate.md",
@@ -19137,6 +19160,17 @@
       "非洲孤儿作物联盟",
       "AOCC",
       "African Orphan Crops Consortium"
+    ]
+  },
+  {
+    "title": "Building Evidence in Education",
+    "type": "fact",
+    "path": "wiki/facts/global/Building Evidence in Education.md",
+    "aliases": [
+      "BE2",
+      "构建教育证据工作组",
+      "构建教育证据联盟",
+      "Building Evidence in Education Working Group"
     ]
   },
   {

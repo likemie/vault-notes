@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织或中介机构通过筛选、转译和打包研究证据以施展软治理的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Façade of Rationality]]"
   - "[[Research Translation]]"
   - "[[Boundary Spanner]]"
   - "[[Policy Borrowing]]"
@@ -62,7 +63,7 @@ updated: 2026-09-12
 ## 定义
 
 > [!def] 核心定义
-> 政策中介（Policy Brokerage）是指在公共政策与教育治理[[Champ|场域]]中，行动者连接科学研究社群与政治决策系统，通过对繁杂科研成果的选择性提取、包装转化与定向[[Transfer Translation Transformation|转译]]，为政策制定提供确定性证据支撑与合法性辩护的制度化治理机制。与侧重技术性信息扩散的中立知识中介不同，政策中介深度嵌入全球与国家治理网络；当特定跨国组织或智库在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供项目资助时，中立中介便异化为兼具议程设置特权与自身制度利益诉求的政治化政策中介，依靠量化指标与理性表象施展软性政策规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> 政策中介（Policy Brokerage）是指在公共政策与教育治理[[Champ|场域]]中，行动者连接科学研究社群与政治决策系统，通过对繁杂科研成果的选择性提取、包装转化与定向[[Transfer Translation Transformation|转译]]，为政策制定提供确定性证据支撑与合法性辩护的制度化治理机制。与侧重技术性信息扩散的中立知识中介不同，政策中介深度嵌入全球与国家治理网络；当特定跨国组织或智库在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供项目资助时，中立中介便异化为兼具议程设置特权与自身制度利益诉求的政治化政策中介，依靠量化指标与[[Façade of Rationality|理性表象]]施展软性政策规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示知识向政策转化过程中的非中立性，阐明中介机构如何将自身偏好的[[Research Translation|研究转化]]为不可置疑的决策依据。

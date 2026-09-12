@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_persons: []
 related_facts:
   - "[[World Education Reform Database]]"
   - "[[OECD]]"
+  - "[[Building Evidence in Education]]"
   - "[[Global Development Network]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -97,7 +98,7 @@ updated: 2026-09-12
 > [!actor-grid] 实施协同矩阵
 > - **总部核心智库（World Bank HQ）** 华盛顿教育全球实践局核心团队负责设计评价指标、掌握量规解释权与发布全球综合报告。
 > - **国家基层信息网络** 本土聘用的国家协调员与专家，主要承担向总部数据库上传本国官方政策文件、法律法令与数据填报的基层信息员角色。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
-> - **双边资助联盟（BE2 伙伴）** 英国 FCDO、美国国际开发署（USAID）等双边援助机构，依托 SABER 工具协同设定受援国贷款与无偿援助的改革条件。
+> - **双边资助联盟（[[Building Evidence in Education|BE2]] 伙伴）** 英国 FCDO、美国国际开发署（USAID）等双边援助机构，依托 SABER 工具协同设定受援国贷款与无偿援助的改革条件。
 > - **受援国政策制定者** 各国教育部官员，根据 SABER 评分报告识别自身政策短板，向世行申请针对性技术援助或政策贷款。
 
 > [!pathways]- 实施路径与管理

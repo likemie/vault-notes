@@ -8,7 +8,7 @@ aliases:
 summary: "以硬事实施展软权力由 Dennis Niemann、Kerstin Martens 与 Christian Ydesen 等提出，指涉国际组织在缺乏法定强制制裁权的前提下，通过生产标准化、可量化与可比较的硬性实证数据（如 PISA、教育指标、投资回报率），赋予政策倡议以客观科学表象并实施远处治理与绩效问责的核心规制机制。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Global Education Governing Complex]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Attrition]]"
+  - "[[Façade of Rationality]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
@@ -47,6 +48,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Global Partnership for Education]]"
   - "[[PISA]]"
+  - "[[Building Evidence in Education]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -99,7 +101,7 @@ updated: 2026-09-12
 > - **量化硬化（Data Hardening）** 借助复杂的心理测量学与计量经济学模型，将高度异质且充满价值争议的教育过程压缩还原为单一、客观、标准化的量化分值。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
 > - **跨国横向基准（Cross-National Benchmarking）** 建立跨越主权边界的共同参照系，使任何国家的本土实践都必须在统一的跨国尺度下接受比较与评判。（p.542）
 > - **命名与羞辱机制（Naming and Shaming）** 公开发布排行榜与危机诊断报告，在媒体舆论中激化国内教育落后恐慌，迫使政府将外部建议转变为国内改革议程。（pp.542–543）
-> - **科学理性表象（Façade of Rationality）** 用精准的数字掩盖背后的规范预设与政治意图，使充满利益偏向的政策处方呈现出不偏不倚的客观学术外观。（Steiner-Khamsi, 2013; p.540）
+> - **科学[[Façade of Rationality|理性表象]]（Façade of Rationality）** 用精准的数字掩盖背后的规范预设与政治意图，使充满利益偏向的政策处方呈现出不偏不倚的客观学术外观。（Steiner-Khamsi, 2013; p.540）
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -144,7 +146,7 @@ updated: 2026-09-12
 > 批判硬事实背后的利益垄断、[[Paradigm|范式]]排他以及与跨国商业资本的共生关系。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **知识武器化** 当代信息过载并未削弱国际组织的影响，反而促使其将特定类型的可量化、可比较知识深度武器化；各机构通过组建排他性同盟（如世行主导的 BE2）并争夺私人慈善资本，在数字平台共享的掩护下维持各自的政策垄断，硬事实本质上是全球治理复合体维系制度霸权的政治利基工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
+> **知识武器化** 当代信息过载并未削弱国际组织的影响，反而促使其将特定类型的可量化、可比较知识深度武器化；各机构通过组建排他性同盟（如世行主导的 [[Building Evidence in Education|BE2]]）并争夺私人慈善资本，在数字平台共享的掩护下维持各自的政策垄断，硬事实本质上是全球治理复合体维系制度霸权的政治利基工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
 
 ---
 

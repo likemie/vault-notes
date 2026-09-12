@@ -41,6 +41,7 @@ related_concepts:
   - "[[Democratisation of Expertise]]"
   - "[[Champ]]"
   - "[[Technology Deficit of Education]]"
+  - "[[Façade of Rationality]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Return on Investment]]"
   - "[[Education-for-Mandates]]"
@@ -83,10 +84,12 @@ related_facts:
   - "[[Education for All]]"
   - "[[Global Development Network]]"
   - "[[Systems Approach for Better Education Results]]"
+  - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
   - "[[International Institute for Educational Planning]]"
   - "[[Common School Movement]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[World Education Reform Database]]"
+  - "[[Building Evidence in Education]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments: []
 sources:
@@ -102,7 +105,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -206,7 +209,7 @@ issuing_organization: ""
 > - **政策情境的歧义性（Ambiguity）** 援引[[Multiple Streams Framework|多源流分析框架]]（Multiple Streams Framework，MSF）关于决策歧义性的理论界定（Zahariadis, 2017），面对同一教育现象往往存在多种互不兼容的理解视角；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
 > - **[[Democratisation of Expertise|专业知识民主化]]带来的公共争议性（Contestation）** 教育领域呈现广泛的[[Democratisation of Expertise|专业知识民主化]]（Democratisation of Expertise）特征，缺乏医学等行业的技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ|场域]]。（p.539）
 > - **未来结果不可验证导致的技术赤字（[[Technology Deficit of Education|Technology Deficit]]）** 教育面临固有的技术赤字（Technology Deficit of Education），由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的风险焦虑，促使中介机构将未来预设为可以通过当下干预来规避的行动方案。（pp.539–540）
-> - **数字理性脚手架（Numbers as Scaffolding）** 相比质性叙事，量化指标具备理性、精确与普适的话语表象；政策制定者热衷于数字，是因为数字指标不仅看似客观，更为其依循自身政治意图诠释指标背后的故事预留了充分空间。（p.540）
+> - **[[Façade of Rationality|数字理性表象]]脚手架（Numbers as Scaffolding for [[Façade of Rationality]]）** 相比质性叙事，量化指标具备理性、精确与普适的话语表象（Façade of Rationality）；政策制定者热衷于数字，是因为数字指标不仅看似客观，更为其依循自身政治意图诠释指标背后的故事预留了充分空间。
 
 ---
 
@@ -262,7 +265,7 @@ issuing_organization: ""
 两大先行机构之所以能将硬事实转化为公认的软性规制权力，核心在于熟练运用全球教育危机叙事并借助高规格国际会议展开政策动员。（pp.542–543）
 
 > [!event-context] 战后全球教育危机叙事与国际政策动员节点
-> - **重点会议与政策议程** 1960 年贝拉吉奥会议呼吁以人力资本投资拉动经济增长；1961 年经合组织华盛顿政策会议聚焦教育投资；1967 年弗吉尼亚威廉斯堡世界教育危机国际会议全面掀起全球危机舆论。
+> - **重点会议与政策议程** 1960 年贝拉吉奥会议呼吁以人力资本投资拉动经济增长；1961 年经合组织华盛顿政策会议聚焦教育投资；1967 年[[1967 Williamsburg Conference on the World Crisis in Education|弗吉尼亚威廉斯堡世界教育危机国际会议]]全面掀起全球危机舆论。
 > - **代表人物与普适话语** [[Philip H. Coombs|菲利普·H·库姆斯]]（Philip H. Coombs）身兼肯尼迪政府助理国务卿与[[International Institute for Educational Planning|国际教育规划研究所]]首任所长，其 1968 年名著《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*）将教育危机普遍化并推向全球。（p.542）
 > - **美国政策报告的催化效应** 1983 年美国《国家处在危险之中》报告将教育体系的不振视为国家落后于西德、日本和苏联的根源，直接催生了跨国可比指标的制度化研发需求。（pp.542–543）
 > - **危机叙事的治理机制** 通过周期性渲染教育落后危机，跨国比较使得排名带来的命名与羞辱机制常规化，为国际组织长期扮演不可替代的政策中介提供了持续的政治动力。（p.543）
@@ -271,7 +274,7 @@ issuing_organization: ""
 > - **1957 — [[Sputnik Shock 1957|斯普特尼克冲击]]（Sputnik Shock）** 苏联首颗人造地球卫星升空震撼西方世界，触发大西洋两岸对科技人力断层与国家安全脆弱性的极端恐慌，促使西方阵营将[[Common School Movement|公共学校]]教育系统重构为冷战科技军备竞赛的前沿阵地。（p.541）
 > - **1960 — 贝拉吉奥会议（Bellagio Conference）** 欧美多边战略智囊在意大利贝拉吉奥集会，呼吁西方阵营和新兴独立主权国家全面采纳[[Human Capital Theory|人力资本理论]]，通过大规模扩张教育公共财政投入拉动经济增长以抵御冷战意识形态渗透。
 > - **1961 — [[OECD|经合组织]]华盛顿政策会议** 欧洲经济合作组织改组为经合组织并被确立为“经济北约”，其华盛顿会议聚焦“经济增长与教育投资”，奠定了经济协调组织将教育视作生产要素、向全球南方输出人力预测模型的治理正当性。
-> - **1967 — 弗吉尼亚威廉斯堡世界教育危机国际会议** 由菲利普·库姆斯（Philip H. Coombs）领衔召集，汇聚跨国政学界精英，正式将教育供需失衡、体制僵化与成本失控诊断为超越个别主权国家疆界的普世系统性危机。（pp.541–542）
+> - **1967 — [[1967 Williamsburg Conference on the World Crisis in Education|弗吉尼亚威廉斯堡世界教育危机国际会议]]** 由菲利普·库姆斯（Philip H. Coombs）领衔召集，汇聚跨国政学界精英，正式将教育供需失衡、体制僵化与成本失控诊断为超越个别主权国家疆界的普世系统性危机。（pp.541–542）
 > - **1968 — 库姆斯出版《世界教育危机：系统分析》** [[International Institute for Educational Planning|联合国教科文组织教育规划研究所]]（IIEP）正式出版该里程碑专著，确立了跨国多边组织通过建构“全球危机”叙事来拓展自身规制授权、实施专业技术干预的经典制度范式。（p.542）
 > - **1980 — 世界银行《教育部门政策文件》与收益率自立门户** 世界银行彻底脱离联合国教科文组织的人文主义路线，依托 1,120 项教育收益率数据库推行初等教育优先放贷，将危机转译为全球南方借贷国结构调整的量化治理门槛。（pp.541–542, 548）
 > - **1983 — 美国《国家处在危险之中》（[[A Nation at Risk 1983|A Nation at Risk]]）报告** 里根政府将公立教育不振定性为使美国在经济与产业技术上被日、德、苏“单方面解除武装”的严峻国家危机，直接催生了由联邦政府委托经合组织开发跨国可比[[Performance Indicators|教育指标]]的紧迫政治需求。
@@ -311,7 +314,7 @@ issuing_organization: ""
 > | 国际组织（IO） | 核心政策中介工具（Primary Instrument） | 打包知识产品与服务（Bundled Knowledge Products） | 经验汲取模式与实证特征（Lesson-Drawing Orientation） | 治理机制与战略同盟（Governance & Alliances） |
 > |---|---|---|---|---|
 > | **[[OECD\|经合组织（OECD）]]** | **[[PISA]]**（国际学生评估项目）及其衍生产品矩阵（TALIS、PIAAC、PISA-D） | 国别同行评议（Peer Reviews）、《教育概览》（Education at a Glance，EAG）、教育政策展望（Education Policy Outlook）、教育 GPS 数字平台 | **外向型国别横向对照（Outward-looking cross-national referencing）**<br>[[World Education Reform Database\|世界教育改革数据库]]（World Education Reform Database，WERD）实证表明，其报告高度依赖对其他成员国具体改革经验的交叉引证，将跨国横向比较作为提升教育质量的核心引擎。（Seitzer et al., 2023; pp.544–545） | 以软法（Soft Law）、指标排序与“命名与羞辱”实施远程规制；依托非成员国测验扩张与盖茨等私人基金会资助，构建全球比较帝国。 |
-> | **世界银行（World Bank）** | **贷款与赠款附加条件**、[[Systems Approach for Better Education Results\|改善教育成果系统分析法（SABER）]]、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、世界发展指标库（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践循环（Self-referential lesson-drawing）**<br>[[World Education Reform Database\|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交、联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的“构建教育证据联盟”（BE2）。 |
+> | **世界银行（World Bank）** | **贷款与赠款附加条件**、[[Systems Approach for Better Education Results\|改善教育成果系统分析法（SABER）]]、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、世界发展指标库（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践循环（Self-referential lesson-drawing）**<br>[[World Education Reform Database\|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交、联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的[[Building Evidence in Education\|构建教育证据联盟（BE2）]]。 |
 > | **[[Global Partnership for Education\|全球教育伙伴关系（GPE）]]** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | 知识与创新交流机制（Knowledge and Innovation Exchange，KIX），在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
 > | **联合国教科文组织（UNESCO）** | **国际公约与规范性框架制定**、《全球教育监测报告》（Global Education Monitoring Report，GEMR）、统计研究所（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、国际教育规划研究所（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立“学习数据协定”（Learning Data Compact），在跨国监测主导权上与世行体系形成制衡。 |
 > | **联合国儿童基金会（UNICEF）** | **多指标聚类调查（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如社会情感学习 SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将社会情感学习（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |
@@ -326,7 +329,7 @@ issuing_organization: ""
 
 > [!tension] 数字化时代国际组织的平台协作修辞与排他性权力同盟
 > - **协作修辞（蓝方）** 共同承诺推进联合国[[UN Sustainable Development Goals|可持续发展目标]]（Sustainable Development Goals，SDGs）中的第四项优质教育目标（SDG 4），在公开报告中统一采用三大要点、六项洞见、研究表明等标准化中介修辞，维持多边协同的制度表象。（p.545）
-> - **排他同盟（红方）** 围绕关键数据与研究话语权组建排他性同盟：世界银行联合英国外交、联邦及发展事务部（Foreign, Commonwealth & Development Office，FCDO）与美国国际开发署（United States Agency for International Development，USAID）成立构建教育证据联盟（Building Evidence in Education，BE2），而联合国教科文组织与儿童基金会则另立学习数据协定，彼此形成严密割据。（pp.545–546）
+> - **排他同盟（红方）** 围绕关键数据与研究话语权组建排他性同盟：世界银行联合英国外交、联邦及发展事务部（Foreign, Commonwealth & Development Office，FCDO）与美国国际开发署（United States Agency for International Development，USAID）成立构建教育证据工作组（Building Evidence in Education，BE2），而联合国教科文组织与儿童基金会则另立学习数据协定，彼此形成严密割据。（pp.545–546）
 
 ---
 

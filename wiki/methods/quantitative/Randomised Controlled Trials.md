@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 103
+method_related_count: 104
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -98,6 +98,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Building Evidence in Education]]"
   - "[[Stanford Prison Experiment]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[Blueprints for Healthy Youth Development]]"
@@ -130,7 +131,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Randomised Controlled Trials
@@ -163,7 +164,7 @@ updated: 2026-09-11
 >    - 2023 — [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现：若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10
 >    - 2024 — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 全景检验 12 所[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示 11 所中心均将 RCT 确立为证据金字塔顶端；但基于 RCT 支持的多中心评级一致率仅 30.5%，极端冲突率达 35.4%，证明微观 RCT [[Internal Validity|内部效度]]达标不能等同于宏观政策综合收敛
 > 4. **跨国发展治理与全球[[Policy Brokerage|政策中介]]中的黄金标准建制（2010s–至今）**
->    - 2024 — [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024, pp. 544–545, 548)]] 比较了全球教育治理核心机构的政策中介（Policy Brokerage）风格：与[[OECD|经合组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）依托[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）与外向型国别横向借鉴截然不同，世界银行（World Bank）依托发展影响评估（Development Impact Evaluation，DIME）等机制，将其“最佳政策与改革组合库”完全建立在随机对照试验（RCT）之上；世界银行联合美英援助机构（如美国国际开发署（United States Agency for International Development，USAID）、英国外交、联邦和发展事务部（Foreign, Commonwealth & Development Office，FCDO）等打造教育成效证据联盟（Building Evidence in Education，BE2）），将微观 RCT 打造为推行循证放贷门槛的核心技术工具，展示了因果识别技术如何被制度化为全球治理的自指性政策帝国。
+>    - 2024 — [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024, pp. 544–545, 548)]] 比较了全球教育治理核心机构的政策中介（Policy Brokerage）风格：与[[OECD|经合组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）依托[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）与外向型国别横向借鉴截然不同，世界银行（World Bank）依托发展影响评估（Development Impact Evaluation，DIME）等机制，将其“最佳政策与改革组合库”完全建立在随机对照试验（RCT）之上；世界银行联合美英援助机构（如美国国际开发署（United States Agency for International Development，USAID）、英国外交、联邦和发展事务部（Foreign, Commonwealth & Development Office，FCDO）等打造教育成效证据联盟（[[Building Evidence in Education]]，BE2）），将微观 RCT 打造为推行循证放贷门槛的核心技术工具，展示了因果识别技术如何被制度化为全球治理的自指性政策帝国。
 
 > [!citation-card] 实验技术与变量控制的因果效力
 > 实验技术，尤其是随机对照试验（RCT），在建立[[Causality|因果性]]方面具有强大效力。通过识别、隔离和控制自变量，操纵一个自变量看其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则变化可归因于该自变量——它成为原因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, Ch. 4, pp. 78, 81]]
