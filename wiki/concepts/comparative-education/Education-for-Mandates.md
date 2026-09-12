@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi 等提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
+  - "[[Soft Power]]"
   - "[[Global Education Governing Complex]]"
   - "[[Governing by Numbers]]"
   - "[[Examination-Oriented Education]]"
@@ -38,6 +39,7 @@ related_methods:
   - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Kerstin Martens]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[OECD]]"
@@ -58,7 +60,7 @@ updated: 2026-09-12
 ## 定义
 
 > [!def] 核心定义
-> 使命性教育嵌入（Education-for-Mandates，或称使命驱动型教育干预）是指在跨国公共政策与全球教育治理中，原本未被赋予专门教育政策法定管辖权（Direct Mandate）的非教育类国际组织、区域贸易集团或金融机构，通过将教育议题与自身核心的非教育法定使命——如经济增长、地缘和平、国际理解、可持续发展或[[Knowledge-Based Economy|知识经济]]——进行策略性语义挂钩，从而为自身涉足教育政策制定、动员专项预算与推行跨国规制工具提供政治合法性与道义正当性的治理机制。该概念由克斯汀·马滕斯（Kerstin Martens）、丹尼斯·尼曼（Dennis Niemann）与迪尔克·克罗格曼（Dirk Krogmann）于 2024 年[[Luhmann's Systems Theory|系统理论]]化，并被吉塔·施泰纳-哈姆西等学者用于解释冷战以来全球教育治理中经济与金融机构“反客为主”主导公共教育改革议程的深层制度动因。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–544)]]
+> 使命性教育嵌入（Education-for-Mandates，或称使命驱动型教育干预）是指在跨国公共政策与全球教育治理中，原本未被赋予专门教育政策法定管辖权（Direct Mandate）的非教育类国际组织、区域贸易集团或金融机构，通过将教育议题与自身核心的非教育法定使命——如经济增长、地缘和平、国际理解、可持续发展或[[Knowledge-Based Economy|知识经济]]——进行策略性语义挂钩，从而为自身涉足教育政策制定、动员专项预算与推行跨国规制工具提供政治合法性与道义正当性的治理机制。该概念由克斯汀·马滕斯（[[Kerstin Martens]]）、丹尼斯·尼曼（Dennis Niemann）与迪尔克·克罗格曼（Dirk Krogmann）于 2024 年[[Luhmann's Systems Theory|系统理论]]化，并被吉塔·施泰纳-哈姆西等学者用于解释冷战以来全球教育治理中经济与金融机构“反客为主”主导公共教育改革议程的深层制度动因。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–544)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示非教育专业机构如何依靠“借壳包装”与“外延使命修辞”，突破主权国家与联合国专门机构的传统管辖壁垒。

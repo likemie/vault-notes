@@ -701,7 +701,8 @@
       "理性表象",
       "理性外衣",
       "Facade of Rationality",
-      "数字理性表象"
+      "数字作为理性表象的脚手架",
+      "理性表象脚手架"
     ]
   },
   {
@@ -15971,6 +15972,14 @@
     ]
   },
   {
+    "title": "Kerstin Martens",
+    "type": "person",
+    "path": "wiki/persons/de/Kerstin Martens.md",
+    "aliases": [
+      "克里斯汀·马滕斯"
+    ]
+  },
+  {
     "title": "Jill Mehlbye",
     "type": "person",
     "path": "wiki/persons/denmark/Jill Mehlbye.md",
@@ -16023,6 +16032,15 @@
     "aliases": [
       "Rømer, T. A.",
       "托马斯·奥斯特鲁普·勒默"
+    ]
+  },
+  {
+    "title": "Christian Ydesen",
+    "type": "person",
+    "path": "wiki/persons/dk/Christian Ydesen.md",
+    "aliases": [
+      "克里斯蒂安·伊德森",
+      "Christian Valdemar Ydesen"
     ]
   },
   {
@@ -16479,6 +16497,14 @@
       "李森科",
       "Lysenko, T.",
       "Lysenko, T. D."
+    ]
+  },
+  {
+    "title": "Jarl Bengtsson",
+    "type": "person",
+    "path": "wiki/persons/se/Jarl Bengtsson.md",
+    "aliases": [
+      "雅尔·本特森"
     ]
   },
   {

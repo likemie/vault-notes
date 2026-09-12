@@ -8,10 +8,10 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 34
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Structural Holes]]"
   - "[[Comparative History of Comparative Education]]"
+  - "[[Soft Power by Hard Facts]]"
   - "[[Growth]]"
   - "[[Hypothesis]]"
   - "[[Methodological Transnationalism]]"
@@ -49,6 +50,8 @@ related_methods:
   - "[[Network Analysis]]"
 related_persons:
   - "[[Niklas Luhmann]]"
+  - "[[Kerstin Martens]]"
+  - "[[Christian Ydesen]]"
   - "[[Jeremy Rappleye]]"
   - "[[Robert Cowen]]"
 related_facts:
@@ -91,7 +94,7 @@ updated: 2026-09-12
 > - **2004** 在德国教育研究协会苏黎世会议上发表论文，创新性结合社会[[Network Analysis|网络分析]]与创新扩散理论，提出跨国教育政策中的马里斯·奥罗克效应（Maris O'Rourke Effect）。
 > - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被遮蔽的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
 > - **2012** 与弗洛里安·瓦尔多（Florian Waldow）共同主编《世界教育年鉴 2012：教育中的政策借用》（*World Yearbook of Education 2012*），进一步将政策借用理论扩展至实证比较。
-> - **2024** 与 Kerstin Martens 及 Christian Ydesen 在 *Comparative Education* 合作发表重要论文，正式提出“[[Governing by Numbers|数字治理]] 2.0”与[[Policy Brokerage|政策中介]]跨学科比较研究议程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024)]]
+> - **2024** 与 [[Kerstin Martens]] 及 [[Christian Ydesen]] 在 *Comparative Education* 合作发表重要论文，正式提出“[[Governing by Numbers|数字治理]] 2.0”与[[Policy Brokerage|政策中介]]跨学科比较研究议程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024)]]
 
 ---
 
@@ -103,14 +106,14 @@ updated: 2026-09-12
 > - **2004b — *[[Network Analysis|social network analysis]] and Diffusion of Innovation Revisited: The Maris O'Rourke Effect in [[International Education]]*** 引入社会网络分析方法，揭示关键政策能动者在跨国政策扩散网络中的[[Structural Holes|结构洞]]与杠杆作用。
 > - **2009 — *Comparison and Conceptualisation in Comparative Education*** 系统概念化比较教育学科的发展脉络，为构建全景式的[[Comparative History of Comparative Education|比较教育学比较史]]提供分析[[Paradigm|范式]]。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 8)]]
 > - **2012 — *Understanding policy borrowing and lending*** 与 Florian Waldow 合作，提炼跨国政策借用的多阶段分析工具，深度整合外在化、情境化与本土杂糅机制。
-> - **2024 — *[[Governing by Numbers|governance by numbers]] 2.0: [[Policy Brokerage]] as an instrument of global governance in the era of information overload*** 与 Martens 和 Ydesen 合作，提出数字治理 2.0 研究纲领，系统论证信息过量时代国际组织以硬事实施展软权力的政策中介与工具打包机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024)]]
+> - **2024 — *[[Governing by Numbers|governance by numbers]] 2.0: [[Policy Brokerage]] as an instrument of global governance in the era of information overload*** 与 Martens 和 Ydesen 合作，提出数字治理 2.0 研究纲领，系统论证信息过量时代国际组织[[Soft Power by Hard Facts|以硬事实施展软权力]]的政策中介与工具打包机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 施泰纳-卡姆西的核心洞见是：跨国教育[[Policy Borrowing|政策借用]]在本质上是高度政治化的本土合法化过程，而非中立的最佳实践技术传递。学者必须将注意力从被借用的政策内容转向借用行动者、制度利益与流通机制，探究谁在借用、为何借用以及借用服务于何种国内政治冲突；在研究方法上，她倡导结合社会[[Network Analysis|网络分析]]与口述史，不仅捕捉跨国行动者的流动轨迹，更抢救被官方档案遗忘的活态学科历史。面对数字化时代的信息过载，她进一步提出[[Governing by Numbers|数字治理]] 2.0，揭示国际组织如何将[[Policy Brokerage|政策中介]]作为全球治理工具，以硬事实施展软权力。
+> 施泰纳-卡姆西的核心洞见是：跨国教育[[Policy Borrowing|政策借用]]在本质上是高度政治化的本土合法化过程，而非中立的最佳实践技术传递。学者必须将注意力从被借用的政策内容转向借用行动者、制度利益与流通机制，探究谁在借用、为何借用以及借用服务于何种国内政治冲突；在研究方法上，她倡导结合社会[[Network Analysis|网络分析]]与口述史，不仅捕捉跨国行动者的流动轨迹，更抢救被官方档案遗忘的活态学科历史。面对数字化时代的信息过载，她进一步提出[[Governing by Numbers|数字治理]] 2.0，揭示国际组织如何将[[Policy Brokerage|政策中介]]作为全球治理工具，[[Soft Power by Hard Facts|以硬事实施展软权力]]。
 
 > [!citation-card] 本土情境焦点与能动者转向
 > 如果研究者仅仅聚焦于转移的内容，毫无疑问他们会找到一个最大公约数；然而，如果我们选择将本土情境推向前台，将注意力引向借出与借用的能动者，并追问某种观念或话语为何被转移，我们就会对教育转移获得一种截然不同的理解。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 224)]]
@@ -145,7 +148,7 @@ updated: 2026-09-12
 > - **学术[[Dialogue in Education|对话]]者** Jürgen Schriewer 共同推进基于系统论的[[Policy Borrowing|教育借用]]外在化（Externalisation）理论对话。
 > - **理论延伸者** [[Jeremy Rappleye]] 在 2006 年[[Concept Mapping|概念地图]]中将施泰纳-卡姆西的能动者分析整合为[[Pre-Transfer Agency|前转移能动性]]模型。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 224)]]
 > - **合作主编** Florian Waldow 共同主编《世界教育年鉴 2012》，推进比较政策借用分析工具标准化。
-> - **跨国治理合作者** Kerstin Martens 与 Christian Ydesen 共同开拓[[Governing by Numbers|数字治理]] 2.0 与[[Global Education Governing Complex|全球教育治理复合体]]研究。
+> - **跨国治理合作者** [[Kerstin Martens]] 与 [[Christian Ydesen]] 共同开拓[[Governing by Numbers|数字治理]] 2.0 与[[Global Education Governing Complex|全球教育治理复合体]]研究。
 > - **史学对话者** [[Robert Cowen]] 高度评价其口述史开创性工作与学科演进概念化，呼吁欧洲学会全面跟进口述史方法。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
 > - **学术机构** 哥伦比亚大学教师学院、日内瓦高等国际关系与发展研究院、[[Comparative Education Society in Europe]]（CESE）。
 

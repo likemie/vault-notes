@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Comparative Education Center at Chicago 1958]]"
+  - "[[1960 Bellagio Conference]]"
   - "[[International Institute for Educational Planning]]"
   - "[[National Science Foundation]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Sputnik Shock 1957

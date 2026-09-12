@@ -127,10 +127,10 @@ updated: 2026-09-12
 > - **政策工具层面的四维运作机制（Rambla, 2022）**
 >   - **通过互动性专业技能获取合法性** 指标依靠柯林斯（Harry Collins）所称的“互动专业知识”（Interactive Expertise），在专家与官员的反复博弈协商中建构出被视为不容置疑的技术权威。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]
 >   - **展示可测量的治理成果** 将极其错综复杂的学校教育现实压缩为简洁清晰的可视化地图、柱状图与仪表板（如欧盟区域创新记分牌 RIS）。
->   - **传播内嵌的[[Theories of Policy Change|政策变革理论]]（Theories of Policy Change）** 指标体系内部预设了不可言明的因果假说（如“提高教育财政投入$	o$提升 STEM 技能$	o$拉动区域 GDP 增长”）。
+>   - **传播内嵌的[[Theories of Policy Change|政策变革理论]]（Theories of Policy Change）** 指标体系内部预设了不可言明的因果假说（如“提高教育财政投入$\to$提升 STEM 技能$\to$拉动区域 GDP 增长”）。
 >   - **重塑政治关系并执行结构性选择（[[Selectivity]]）** 遵循杰索普（[[Bob Jessop]]）的国家理论，指标通过“决定度量什么和忽视什么”，特权化某些群体的利益诉求，同时使无法量化的教育价值边缘化。
 > - **[[Governing by Numbers|数字治理]] 2.0 时代的[[Façade of Rationality|理性表象]]与叙事空间**
->   - **构筑“理性表象”[[Scaffolding|脚手架]]（Scaffolding for Façade of Rationality）** 当代公共教育充满深刻的政治争议与不可知风险，指标作为“硬事实”为政府决策构筑了客观、科学与普适的防护外壳，对内平息争端，对外抵御问责。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+>   - **数字作为“理性表象”数字作为理性表象的[[Scaffolding|脚手架]]（Numbers as Scaffolding for Façade of Rationality）** 当代公共教育充满深刻的政治争议与不可知风险，指标作为“硬事实”为政府决策构筑了客观、科学与普适的防护外壳，对内平息争端，对外抵御问责。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 >   - **数字激发意识形态叙事（Numbers Evoking Narratives）** 援引埃斯佩兰德（Espeland, 2015）指标社会学理论，指标并未消灭政治，相反，其高度通约化（Commensuration）与去语境化赋予了政客极大的“自由阐释空间”，决策者可以依据自身选战策略编织指标涨跌背后的政治故事。
 
 > [!logic-map]- 绩效指标的双重属性与治理运作机制流程图
@@ -144,7 +144,7 @@ updated: 2026-09-12
 >     E --> G[互动专业合法性 / 结构选择性]
 >     F --> H[生产数字硬事实]
 >     G --> H
->     H --> I[构筑理性表象脚手架]
+>     H --> I[数字作为理性表象的脚手架]
 >     I --> J[激发政治叙事空间]
 >     J --> K[推动国家政策趋同与远处规制]
 > ```

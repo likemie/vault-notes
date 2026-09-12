@@ -3,12 +3,12 @@ summary: "提出数字治理 2.0 比较研究议程，运用多学科与方法�
 type: argument
 authors:
   - "[[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]"
-  - "Martens, K."
-  - "Ydesen, C."
+  - "[[Kerstin Martens|Martens, K.]]"
+  - "[[Christian Ydesen|Ydesen, C.]]"
 source_language: en
-citation: "Steiner-Khamsi, G., Martens, K., & Ydesen, C. (2024). Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload. Comparative Education, 60(4), 537–554. https://doi.org/10.1080/03050068.2024.2308348"
+citation: "Steiner-Khamsi, G., Martens, K., & Ydesen, C. (2024). Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload. Comparative Education, 60(4), 537–554."
 year: 2024
-doi: "10.1080/03050068.2024.2308348"
+doi: ""
 citation_aliases:
   - "Steiner-Khamsi et al., 2024"
   - "Steiner-Khamsi et al. (2024)"
@@ -65,15 +65,19 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Manpower Requirements Approach]]"
   - "[[Exploratory Factor Analysis]]"
   - "[[Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons:
+  - "[[Christian Ydesen]]"
+  - "[[Kerstin Martens]]"
   - "[[Niklas Luhmann]]"
   - "[[George Psacharopoulos]]"
   - "[[Wendy Espeland]]"
+  - "[[Jarl Bengtsson]]"
   - "[[Philip H. Coombs]]"
   - "[[Andreas Schleicher]]"
   - "[[John Hattie]]"
@@ -87,9 +91,11 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[PISA]]"
   - "[[Education for All]]"
+  - "[[Poverty Reduction Strategy Papers]]"
   - "[[1964 UNESCO-World Bank Cooperative Agreement]]"
   - "[[Global Development Network]]"
   - "[[Systems Approach for Better Education Results]]"
+  - "[[1960 Bellagio Conference]]"
   - "[[1961 Policy Conference on Economic Growth and Investment in Education]]"
   - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
   - "[[International Institute for Educational Planning]]"
@@ -114,7 +120,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 75
+argument_related_count: 81
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -149,7 +155,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Policy Brokerage\|政策中介理论（Policy Brokerage）]]** | 发轫于[[Two-Communities Theory\|两社区理论]]（Caplan, 1979）与边界跨越研究（Mackillop et al., 2019）；阐明当国际组织将[[Knowledge Production\|知识生产]]、方案推介与项目资助融为一体时，中立的知识中介便转变为服务于特定政治议程的政策中介，并在充满歧义、争议与不确定性的决策环境中，通过量化指标确立权威。（pp.538–540） |
-> | **[[Global Education Governing Complex\|全球教育治理复合体（Global Education Governing Complex）]]** | Christian Ydesen (2019) 提出、结合 Niemann & Martens (2018) [[Soft Power by Hard Facts\|以硬事实施展软权力]]的论断，指涉由[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）、[[OECD\|经合组织]]（OECD）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与世界银行五大组织，连同私人基金会与商业资本共同构成的跨国规制网络，揭示非教育专门机构跨界掌控教育治理的结构根源。（pp.539, 544） |
+> | **[[Global Education Governing Complex\|全球教育治理复合体（Global Education Governing Complex）]]** | [[Christian Ydesen\|克里斯蒂安·伊德森]]（Christian Ydesen，2019）提出、结合[[Kerstin Martens\|克里斯汀·马滕斯]]与尼曼（Niemann & Martens, 2018）[[Soft Power by Hard Facts\|以硬事实施展软权力]]的论断，指涉由[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）、[[OECD\|经合组织]]（OECD）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与世界银行五大组织，连同私人基金会与商业资本共同构成的跨国规制网络，揭示非教育专门机构跨界掌控教育治理的结构根源。（pp.539, 544） |
 > | **[[Methodological Transnationalism\|方法论跨国主义（Methodological Transnationalism）]]** | Diane Stone (2020) 范式，打破将国家视为孤立容器的[[Methodological Nationalism\|方法论民族主义]]与线性等级霸权模型，将全球与国家界定为相互依存的关系性空间。（p.540） |
 > | **[[Externalization\|系统论外化假说（Externalisation Thesis）]]** | [[Niklas Luhmann\|卢曼]]（Niklas Luhmann）与施里弗（Jürgen Schriewer）的社会学系统理论概念，解释本土教育系统如何在内部构建准外部参考点，以化解国内政治冲突并维系系统自身的运作合法性与自我再生产。（p.546） |
 > | **[[Knowledge-to-Action Models\|知识-行动转化三代模型（Knowledge-to-Action，KTA）]]** | Best & Holmes (2010) 模型，区分单向传播推送、关系共建与系统程序生态三代视角，为考察政策周期不同阶段的[[Research Utilization\|证据使用]]提供[[Analytic Framework\|分析框架]]。（p.547） |
@@ -218,7 +224,7 @@ issuing_organization: ""
 > - **政策情境的歧义性（[[Policy Ambiguity]]）** 援引[[Multiple Streams Framework|多源流分析框架]]（Multiple Streams Framework，MSF）关于决策歧义性的理论界定（Zahariadis, 2017），面对同一教育现象往往存在多种互不兼容的理解视角（[[Policy Ambiguity|政策歧义性]]）；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
 > - **[[Democratisation of Expertise|专业知识民主化]]带来的公共争议性（Contestation）** 教育领域呈现广泛的[[Democratisation of Expertise|专业知识民主化]]（Democratisation of Expertise）特征，缺乏医学等行业的技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ|场域]]。（p.539）
 > - **未来结果不可验证导致的技术赤字与[[Promissory Legitimacy|期许性合法性]]** 教育面临固有的技术赤字（[[Technology Deficit of Education]]），由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的未来风险焦虑，促使国际组织通过建构[[Promissory Legitimacy|期许性合法性]]（Promissory Legitimacy），将未来预设为可以通过当下干预来规避的行动方案（Robertson & Beech, 2023; pp. 539–540）。
-> - **[[Façade of Rationality|数字理性表象]]脚手架（Numbers as Scaffolding for [[Façade of Rationality]]）** 援引[[Wendy Espeland|温迪·埃斯佩兰德]]（Wendy Espeland，2015）与门尼肯（Andrea Mennicken，2019）对量化社会学的理论分析，相比质性叙事，量化指标具备理性、精确与普适的话语表象（Façade of Rationality）；政策制定者热衷于数字，是因为数字指标“激发了叙事”，不仅看似客观，更为其依循自身政治意图讲述“指标意味着什么的故事”预留了充分空间。（Espeland, 2015, p. 65; pp. 539–540）
+> - **数字作为[[Façade of Rationality|理性表象]]的脚手架（Numbers as Scaffolding for [[Façade of Rationality]]）** 援引[[Wendy Espeland|温迪·埃斯佩兰德]]（Wendy Espeland，2015）与门尼肯（Andrea Mennicken，2019）对量化社会学的理论分析，相比质性叙事，量化指标具备理性、精确与普适的话语表象（Façade of Rationality）；政策制定者热衷于数字，是因为数字指标“激发了叙事”，不仅看似客观，更为其依循自身政治意图讲述“指标意味着什么的故事”预留了充分空间。（Espeland, 2015, p. 65; pp. 539–540）
 
 ---
 
@@ -243,7 +249,7 @@ issuing_organization: ""
 >
 > - **1980年代 — 教育标准确立与跨国指标项目起步**
 >
->   在[[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI）资深主管 Jarl Bengtsson 推动下，经合组织重心全面转向教育标准与跨国指标开发；在美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告的危机刺激下，经合组织受托启动[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目。（pp.541–542）
+>   在[[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI）资深主管[[Jarl Bengtsson|雅尔·本特森]]（Jarl Bengtsson）推动下，经合组织重心全面转向教育标准与跨国指标开发；在美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告的危机刺激下，经合组织受托启动[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目。（pp.541–542）
 >
 > - **1990年代至今 — 《[[Education at a Glance|教育概览]]》出版与 [[PISA]] 评价帝国形成**
 >
@@ -304,7 +310,7 @@ issuing_organization: ""
 > [!example]- 图1：政府间组织的世界分布格局
 > ![](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_CE/figures/Steiner-Khamsi_2024_CE_Fig1_World_of_IOs.jpg)
 
-图 1 直观呈现了全球涉足教育事务的 30 个政府间组织在空间辐射范围与核心职能主题上的拓扑分布。（p.544）
+图 1 直观呈现了全球涉足教育事务的 30 个政府间组织在空间辐射范围与核心职能主题上的拓扑分布（依据[[Kerstin Martens|克里斯汀·马滕斯]]主持构建的全球 IO-ED 组织数据库；p.544）。
 
 > [!dual-header] 全球涉足教育事务的 30 个政府间组织空间分布与职能主题交叉矩阵
 > | 地理覆盖 \ 职能类型 | 经济协调类 | 专门教育类 | 综合多元类 | 单一专门类 |
@@ -313,7 +319,7 @@ issuing_organization: ""
 > | **跨区域层级** | — | 伊比利亚美洲国家组织（Organization of Ibero-American States，OEI）<br>伊斯兰世界教育、科学及文化组织（Islamic World Educational, Scientific and Cultural Organization，ICESCO） | 英联邦（Commonwealth）<br>亚欧基金会（Asia-Europe Foundation，ASEF） | — |
 > | **区域层级** | 欧洲自由贸易联盟（European Free Trade Association，EFTA）<br>中非国家经济共同体（Economic Community of Central African States，ECCAS）<br>非洲开发银行（African Development Bank，AfDB）<br>南方共同市场（Southern Common Market，Mercosur）<br>美洲开发银行（Inter-American Development Bank，IADB）<br>亚洲开发银行（Asian Development Bank，ADB）<br>亚太经济合作组织（Asia-Pacific Economic Cooperation，APEC） | 独联体成员国人文合作跨国基金会（Intergovernmental Foundation for Educational, Scientific and Cultural Cooperation of the CIS，IFESCCO）<br>阿拉伯国家教育、文化和科学组织（Arab League Educational, Cultural and Scientific Organization，ALECSO）<br>海湾阿拉伯国家教育局（Arab Bureau of Education for the Gulf States，ABECS）<br>东南亚教育部长组织（Southeast Asian Ministers of Education Organization，SEAMEO） | 波罗的海国家理事会（Council of the Baltic Sea States，CBSS）<br>欧洲联盟（European Union，EU）<br>非洲联盟（African Union，AU）<br>东加勒比国家组织（Organisation of Eastern Caribbean States，OECS）<br>加勒比共同体（Caribbean Community，CARICOM）<br>美洲国家组织（Organization of American States，OAS）<br>南美洲国家联盟（Union of South American Nations，UNASUR）<br>东南亚国家联盟（Association of Southeast Asian Nations，ASEAN）<br>南亚区域合作联盟（South Asian Association for Regional Cooperation，SAARC） | — |
 
-截至 2023 年，在参与全球教育治理的 30 个国际组织中，原本旨在协调经济合作的非专门组织已占据整整三分之一，说明各类机构通过将教育与自身使命相挂钩（即[[Education-for-Mandates|使命性教育嵌入]]，Education-for-mandates），成功实现了对教育领域的跨界规制。（p.544）
+截至 2023 年，在参与全球教育治理的 30 个国际组织中，原本旨在协调经济合作的非专门组织已占据整整三分之一，说明各类机构通过将教育与自身使命相挂钩（即马滕斯等界定的[[Education-for-Mandates|使命性教育嵌入]]，Education-for-mandates），成功实现了对教育领域的跨界规制。（p.544）
 
 #### 2. 国际组织差异化打包专属中介工具，并在数据共享假象下组建排他性战略同盟
 

@@ -9,6 +9,12 @@ summary: "世界银行与国际货币基金组织自1999年起在全球南方受
 type: fact
 subtype: policy
 region: global
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "World Bank; International Monetary Fund"
 tags:
   - fact/policy
@@ -16,29 +22,27 @@ tags:
   - theme/global-south
   - theme/educational-governance
 related_concepts:
-  - "[[Soft Power by Hard Facts]]"
+  - "[[Public-Private Partnership in Research]]"
   - "[[Performance Indicators]]"
-  - "[[Return on Investment]]"
-  - "[[Façade of Rationality]]"
-  - "[[Global Education Governing Complex]]"
-related_theories:
-  - "[[Two-Communities Theory]]"
+  - "[[Document]]"
+  - "[[Soft Power by Hard Facts]]"
+related_theories: []
 related_methods:
+  - "[[Exploratory Factor Analysis]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
-related_persons:
-  - "[[George Psacharopoulos]]"
+related_persons: []
 related_facts:
-  - "[[World Bank]]"
-  - "[[Education for All]]"
+  - "[[Global Partnership for Education]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Systems Approach for Better Education Results]]"
   - "[[Building Evidence in Education]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: '2026-09-12'
-updated: '2026-09-12'
+updated: 2026-09-12
 ---
 
 # Poverty Reduction Strategy Papers
@@ -67,7 +71,7 @@ updated: '2026-09-12'
 > - **约束机制** 必须通过世行与 IMF 联合参谋部咨询评估（Joint Staff Advisory Note，JSAN）的严格审计，否则直接中止后续放贷周期。
 
 > [!citation-card] 世界银行通过放贷周期与减贫战略文件实施教育规制
-> 世界银行对发展中国家教育的影响源于其资金实力以及对管理-科学效率的绝对宣称，具体体现为其高度官僚化的放贷周期和《减贫战略文件》（PRSPs）等管理工具。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023, p. 100; Steiner-Khamsi et al., 2024, p. 542)]]
+> 世界银行对发展中国家教育的影响源于其资金实力以及对管理-科学效率的绝对宣称，具体体现为其高度官僚化的放贷周期和《减贫战略文件》（PRSPs）等管理工具。Elfert & Ydesen (2023, p. 100, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
 >
 > *The World Bank’s influence on education in developing countries derived from its funding power and claims to managerial-scientific efficiency, exemplified by its managerial tools, such as the highly bureaucratic lending cycle and the Poverty Reduction Strategy Papers (Elfert and Ydesen 2023, 100).*
 
@@ -110,7 +114,7 @@ updated: '2026-09-12'
 >
 > | 维度 | 多边信贷与财政管理联盟 | 教师工会与受教育权社会同盟 |
 > |:---|:---|:---|
-> | 核心行动者 | [[World Bank\|世界银行]]、IMF、国家财政部 | 教师工会全国联合会、家长组织、人权 NGO |
+> | 核心行动者 | 世界银行（World Bank）、IMF、国家财政部 | 教师工会全国联合会、家长组织、人权 NGO |
 > | 资源基础 | 数百亿美元借贷资本、技术官僚审计工具箱 | 选民选票、罢工罢教动员、宪法受教育权条款 |
 > | 利益框架 | 财政可持续性 / 产出绩效透明度 / 资本回报率 | 劳动权益保障 / 教育公共性 / 消除结构性不公 |
 > | 主要策略 | 贷款附加条件挂钩 / 指标排名羞辱 / 预算控制 | 街头抗议 / 揭露民主赤字 / 法律诉讼防御 |
@@ -144,7 +148,7 @@ updated: '2026-09-12'
 > > 围绕受援国政府与公民社会在 PRSP 制定中是否真正享有决策自主权。
 > >
 > > - **世界银行官方修辞** 坚持认为 PRSP 打破了传统的外部强加模式，首次实现了由受援国政府自主制定、全社会广泛参与的民主减贫战略。
-> > - **批判政治经济学者（2023）** 揭露所谓“国家自主”是一场虚伪的表演：借贷国必须先由受邀的西方咨询顾问根据世行指南起草草案，任何违背新自由主义信条的条款均会在华盛顿联合审查中被否决。(Elfert & Ydesen, 2023; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
+> > - **批判政治经济学者（2023）** 揭露所谓“国家自主”是一场虚伪的表演：借贷国必须先由受邀的西方咨询顾问根据世行指南起草草案，任何违背新自由主义信条的条款均会在华盛顿联合审查中被否决。(Elfert & Ydesen, 2023, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
 >
 > > [!axis] 教师劳工政策争鸣：管理效率优化 vs 教师专业地位贬损
 > > 关注 PRSP 中捆绑的削减正规编制、大规模雇佣无保障低薪“合同制教师”的规制政策。
@@ -153,7 +157,7 @@ updated: '2026-09-12'
 > > - **国际比较教育学者** 批判这种做法严重摧毁了发展中国家的教师专业尊严，制造了恶劣的教学质量两极分化。
 
 > [!citation-card] 代表性评论
-> PRSP 绝不仅仅是一份单纯的发展规划文件，它是国际金融资本与管理主义科学效率联手打造的最精密规制网络；通过将主权国家的财政预算、行政程序与量化指标彻底透明化在华盛顿的电脑屏幕上，它实现了人类历史上前所未有的远处监控与软性主权驯服。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023)]]
+> PRSP 绝不仅仅是一份单纯的发展规划文件，它是国际金融资本与管理主义科学效率联手打造的最精密规制网络；通过将主权国家的财政预算、行政程序与量化指标彻底透明化在华盛顿的电脑屏幕上，它实现了人类历史上前所未有的远处监控与软性主权驯服。Elfert & Ydesen (2023, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
 >
 > *The PRSP is by no means a simple development planning [[Document]]; it is the most sophisticated regulatory network crafted jointly by international finance capital and managerial-scientific efficiency; by rendering a sovereign state's fiscal budget, administrative procedures, and quantitative indicators completely transparent on computer screens in Washington, it has achieved an unprecedented remote surveillance and soft subjugation of sovereignty in human history.*
 
@@ -165,7 +169,7 @@ updated: '2026-09-12'
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[World Bank]] | 机构 | 设计、推动并实施 PRSP 规制机制的全球最高多边金融中枢。 |
+> | 世界银行（World Bank） | 机构 | 设计、推动并实施 PRSP 规制机制的全球最高多边金融中枢。 |
 > | [[Soft Power by Hard Facts]] | 概念 | PRSP 赖以运转的核心治理机制：以量化硬事实构筑债务与借贷的软性规制权力。 |
 > | [[Systems Approach for Better Education Results]] | 事实 (项目) | 世界银行后续推出的诊断工具，为 PRSP 提供模块化指标基准库。 |
 > | [[Building Evidence in Education]] | 事实 (机构) | 世行与英美援助署建立的排他同盟，为包括 PRSP 在内的项目输出 [[Randomised Controlled Trials\|RCT]] 循证标准。 |

@@ -13,7 +13,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -48,7 +48,8 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
-related_persons: []
+related_persons:
+  - "[[Philip H. Coombs]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # International Institute for Educational Planning

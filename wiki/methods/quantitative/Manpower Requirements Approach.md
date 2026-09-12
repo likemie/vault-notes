@@ -9,34 +9,43 @@ aliases:
 summary: "一种在宏观教育与经济规划中运用的定量预测方法。该方法将未来国民经济增长目标、产业结构变迁与技术系数解构为各职业门类对受过特定教育程度劳动力的刚性需求，进而反推国家各级各类教育系统的招生规模与扩张指标。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/quantitative
   - theme/educational-economics
   - theme/educational-planning
   - theme/macro-forecasting
 related_concepts:
+  - "[[Technical Rationality]]"
+  - "[[Unit of Analysis]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
+  - "[[Interaction Effect]]"
   - "[[Return on Investment]]"
-  - "[[Education-for-Mandates]]"
-  - "[[Policy Brokerage]]"
+  - "[[Attrition]]"
+  - "[[Variable]]"
+  - "[[Hypothesis]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
-  - "[[Randomised Controlled Trials]]"
+  - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"
-  - "[[Philip H. Coombs]]"
 related_facts:
   - "[[OECD]]"
-  - "[[1961 Policy Conference on Economic Growth and Investment in Education]]"
-  - "[[International Institute for Educational Planning]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: '2026-09-12'
-updated: '2026-09-12'
+updated: 2026-09-12
 ---
 
 # Manpower Requirements Approach

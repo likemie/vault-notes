@@ -4,11 +4,12 @@ aliases:
   - 理性表象
   - 理性外衣
   - Facade of Rationality
-  - 数字理性表象
-summary: "吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）与温迪·埃斯佩兰德（Wendy Espeland）等学者提出的批判性理论构念，指在充斥歧义性、争议性与不确定性的教育决策生态中，量化指标相比质性论述能为政策制定者构筑出具备客观性、精确度与普适性的政治脚手架。这种外衣在压制外部质疑的同时，为决策者依循自身政治偏好自由阐释指标意义保留了弹性空间。"
+  - 数字作为理性表象的脚手架
+  - 理性表象脚手架
+summary: "吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）与温迪·埃斯佩兰德（Wendy Espeland）等学者提出的批判性理论构念，指在充斥歧义性、争议性与不确定性的教育决策生态中，数字作为理性表象的脚手架，相比质性论述能为政策制定者构筑出具备客观性、精确度与普适性的政治外壳。这种外衣在压制外部质疑的同时，为决策者依循自身政治偏好自由阐释指标意义保留了弹性空间。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,6 +45,8 @@ related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
   - "[[Wendy Espeland]]"
+  - "[[Kerstin Martens]]"
+  - "[[Christian Ydesen]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -67,7 +70,7 @@ updated: 2026-09-12
 > - **用途** 帮助研究者透视为何在实证证据严重过剩与信息孤岛频发的时代，政策制定者依然狂热追逐排名、基准与量化评分，并揭示数字背后的政治修辞本质。
 > - **边界** 不适用于解释完全处于技术封闭领域且因果机制高度明确的工程化决策，亦不等于政策制定者完全否定科学，而是强调数字在政治博弈中的工具化与象征性利用。
 
-> [!citation-card] 数字对政策理性的[[Scaffolding|脚手架]]支撑
+> [!citation-card] 数字作为理性表象的[[Scaffolding|脚手架]]与叙事激发
 > 面对充满歧义性的政策环境，数字而非质性叙事更有能力以“理性、精确与普适的表象”为基于证据的决策提供脚手架。政策制定者之所以迷恋数字，是因为数字能够激发叙事，从而使他们能够从自身的政治视角出发去阐释数字，即讲述关于指标含义的故事。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 >
 > *As has been explained by several authors (Espeland 2015; Martens and Niemann 2013; Mennicken and Espeland 2019), numbers rather than narratives are better positioned to scaffold evidence-informed policymaking with the ‘façade of rationality, precision, and universality’ (Steiner-Khamsi 2013, 21). Policymakers are enamored with numbers because numbers ‘evoke narratives’ and, therefore, enable them to interpret the numbers, that is, tell ‘stories about what the indicators mean’ (Espeland 2015, 65) from their own political perspective.*
@@ -78,7 +81,7 @@ updated: 2026-09-12
 > [!boundary] 概念边界
 > - 不等于 [[Governing by Numbers|数字治理]] — 数字治理关注的是通过跨国测评与指标监测重构权力分配的宏观规制体制，而理性表象聚焦于数字如何在微观与中观政策话语中发挥合法化包装与修辞遮蔽功能。
 > - 不等于 [[Scaffolding|认知脚手架]] — 教学论中的脚手架是帮助学习者跨越[[Zone of Proximal Development|最近发展区]]的支持性工具，而政策语境中的理性脚手架特指用以支撑政治论辩、平息公众质疑的话语支撑物。
-> - 不等于 [[Scientific Uncertainty|科学不确定性]] — 科学不确定性探讨的是[[Causality|因果关系]]与经验证据本身的或然性，而理性表象探讨的是决策者如何利用数字的确定性假象去压制和掩盖这种不确定性。
+> - 不等于 [[Scientific Uncertainty|科学不确定性]] — 科学不确定性探讨的是[[Causality|因果关系]]与经验证据本身的或然性，而理性表象探讨的是决策者利用数字确定性假象去压制和掩盖不确定性的修辞策略。
 
 ---
 
@@ -99,7 +102,7 @@ updated: 2026-09-12
 > [!feature] 核心要素
 > - **决策生态的三重约束** 教育领域具有不可化约的[[Policy Ambiguity|政策歧义性]]（多重思维方式互不相容）、专家知识民主化带来的高度公共争议性、以及育人结果指向不可见未来所导致的技术赤字。这三重生态约束构成了决策者亟需理性外衣的现实温床。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **通约化与去语境化** 数字通过剥离地方学校、文化传统与历史脉络的特殊性，将[[Heterogeneity|异质性]]的教育经验还原为单一度量衡上的标量数值，制造出全球普适与科学精密的错觉。
-> - **政治[[Scaffolding|脚手架]]功能** 量化指标充当了阻挡公众批评与专业异见的防御性盾牌，为既有政策议程提供坚不可摧的客观外包装。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
+> - **数字作为政治[[Scaffolding|脚手架]]功能** 量化指标充当了阻挡公众批评与专业异见的防御性盾牌，为既有政策议程提供坚不可摧的客观外包装。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **指标叙事的弹性空间** 数字不仅不消解叙事，反而激发叙事；决策者能够剥离原始统计口径的技术细节，根据政党选举与施政需要自由讲述关于指标含义的政治故事。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 > [!logic-map] 要素关系
@@ -108,7 +111,7 @@ updated: 2026-09-12
 >     A["教育决策生态约束<br>(歧义性 / 公共争议 / 技术赤字)"] --> B["信息过载与认知超载"]
 >     B --> C["诉诸量化指标与跨国排名"]
 >     C --> D["构建理性表象<br>(Façade of Rationality)"]
->     D --> E["对外：提供坚硬脚手架<br>(压制质疑与规避问责)"]
+>     D --> E["对外：数字作为理性表象脚手架<br>(压制质疑与规避问责)"]
 >     D --> F["对内：保留阐释自由度<br>(依循政治利益讲述指标故事)"]
 > ```
 
@@ -128,7 +131,7 @@ updated: 2026-09-12
 
 ---
 
-### 命题二　数字指标通过遮蔽价值冲突为政策制定者提供量化脚手架并保留政治叙事自由
+### 命题二　数字作为理性表象的脚手架：遮蔽价值冲突并保留政治叙事自由
 
 > [!concept-lens] 数字通约与叙事空间
 > 探讨量化技术如何兼顾政治防御功能与施政主观裁量需求，揭示客观表象与政治叙事之间的共[[Conatus|生机]]制。
@@ -153,7 +156,7 @@ updated: 2026-09-12
 > [!dev-timeline] 概念演变
 > - **1990–2000年代 — 量化社会学奠基** 西奥多·M·波特（Theodore M. Porter）与[[Wendy Espeland|温迪·埃斯佩兰德]]（Wendy Espeland）等学者揭示通约化与信赖数字的政治本质，指出量化是弱势专业群体抵抗政治干预与政府建立公众信任的技术策略。
 > - **2013 — 比较教育[[Policy Borrowing|政策借用]]中的理性外衣** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）在反思教育政策借鉴中的“成功经验路径”时，明确提出量化硬事实为争议性政策移植提供了“理性、精确与普适的表象（façade of rationality, precision, and universality）”。
-> - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代[[Policy Brokerage|政策中介]]的运作机制** 施泰纳-哈姆西、马滕斯（Kerstin Martens）与伊德森（Christian Ydesen）在《数字治理 2.0》中将理性表象概念进一步升华，确立为剖析国际组织从单纯知识中介走向政治化政策中介的核心机制枢纽。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代[[Policy Brokerage|政策中介]]的运作机制** 施泰纳-哈姆西、马滕斯（[[Kerstin Martens]]）与伊德森（[[Christian Ydesen]]）在《数字治理 2.0》中将理性表象概念进一步升华，确立为剖析国际组织从单纯知识中介走向政治化政策中介的核心机制枢纽。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 ---
 

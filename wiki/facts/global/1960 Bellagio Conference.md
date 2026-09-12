@@ -9,35 +9,50 @@ summary: "1960年由福特基金会与欧洲经济合作组织在意大利贝拉
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#fef3c7"
 tags:
   - fact/event
   - theme/educational-economics
   - theme/cold-war
   - theme/global-governance
 related_concepts:
-  - "[[Human Capital Theory]]"
-  - "[[Return on Investment]]"
-  - "[[Education-for-Mandates]]"
+  - "[[Development Turn in Comparative Education]]"
+  - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
+  - "[[Blue Skies Research]]"
+  - "[[Growth]]"
+  - "[[Soft Power]]"
+  - "[[Bildung]]"
+  - "[[Liberal Education]]"
+  - "[[Cultural Capital]]"
+  - "[[Incommensurability]]"
+  - "[[International Education]]"
+  - "[[Positivism]]"
+  - "[[Dependent Variable]]"
+  - "[[Variable]]"
 related_theories:
-  - "[[Two-Communities Theory]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Manpower Requirements Approach]]"
 related_instruments: []
 related_persons:
   - "[[Philip H. Coombs]]"
-  - "[[George Psacharopoulos]]"
 related_facts:
   - "[[OECD]]"
   - "[[1961 Policy Conference on Economic Growth and Investment in Education]]"
-  - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
   - "[[International Institute for Educational Planning]]"
+  - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: '2026-09-12'
-updated: '2026-09-12'
+updated: 2026-09-12
 ---
 
 # 1960 Bellagio Conference
@@ -90,7 +105,7 @@ updated: '2026-09-12'
 >
 > | 维度 | 变革推进阵营（[[Human Capital Theory\|人力资本]]经济派） | 守旧维持阵营（传统公共消费派） |
 > |:---|:---|:---|
-> | 核心行动者 | [[Theodore Schultz\|舒尔茨]]、OEEC 秘书处、洛克菲勒基金会 | 欧陆传统教育学者、财政部预算紧缩官僚 |
+> | 核心行动者 | 舒尔茨（Theodore Schultz）、OEEC 秘书处、洛克菲勒基金会 | 欧陆传统教育学者、财政部预算紧缩官僚 |
 > | 阶级／社会基础 | 战后现代技术官僚、跨国发展精英、工业界资方 | 传统文化精英、古典学院派学者、地方保守税民 |
 > | 核心价值话语 | 生产性投资 / 人力资本积累 / 经济增长发动机 | 公共消费负担 / 道德教化 / 阶层区隔[[Cultural Capital\|文化资本]] |
 > | 斗争策略 | 计量模型实证展示 / 跨国政策峰会 / 援助资金捆绑 | 捍卫教育自治 / 强调哲学[[Incommensurability\|不可通约性]] / 财政封锁 |
@@ -124,7 +139,7 @@ updated: '2026-09-12'
 > > 围绕贝拉吉奥会议究竟是人类社会普及理性教育的启蒙飞跃，还是西方阵营在地缘争霸中控制全球南方的新型技术殖民手段。
 > >
 > > - **自由主义现代化史学** 认为贝拉吉奥会议开启了科学规划教育的新纪元，使广大发展中国家认识到知识对脱贫的战略意义，推动了全球基础教育的普及。
-> > - **批判修正派史学（2023）** 指出会议本质上是西方垄断资本与情报外交网络合作的产物，旨在将第三世界国家纳入以西方市场为核心的依附性分工体系中。(Elfert & Ydesen, 2023; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
+> > - **批判修正派史学（2023）** 指出会议本质上是西方垄断资本与情报外交网络合作的产物，旨在将第三世界国家纳入以西方市场为核心的依附性分工体系中。(Elfert & Ydesen, 2023, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
 >
 > > [!axis] 育人伦理争鸣：生产力解放 vs 人的商品化异化
 > > 各方对将教育彻底工具化为经济增长仆从的伦理审视。
@@ -133,7 +148,7 @@ updated: '2026-09-12'
 > > - **欧陆人文批判学界** 抨击贝拉吉奥会议奠定了教育的商品化转向，使学校沦为劳动力加工厂，瓦解了公民培育与独立批判意识的公共性母体。
 
 > [!citation-card] 代表性史学论著引言
-> 贝拉吉奥会议将经济学界最激进的[[Positivism|实证主义]]学者与拥有雄厚资金的慈善基金会撮合在一起，创造出一种全新的跨国政策语言；从那一刻起，教育不再被讨论为人类灵魂的觉醒，而被重构为以国民生产总值为[[Dependent Variable|因变量]]的资本投入函数。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023)]]
+> 贝拉吉奥会议将经济学界最激进的[[Positivism|实证主义]]学者与拥有雄厚资金的慈善基金会撮合在一起，创造出一种全新的跨国政策语言；从那一刻起，教育不再被讨论为人类灵魂的觉醒，而被重构为以国民生产总值为[[Dependent Variable|因变量]]的资本投入函数。Elfert & Ydesen (2023, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
 >
 > *The Bellagio conference brought together the most radical positivist economists with deeply funded philanthropic foundations, creating a completely new transnational policy language; from that moment on, education was no longer discussed as the awakening of the human soul, but reconstructed as a capital input function with gross national product as the dependent [[Variable]].*
 

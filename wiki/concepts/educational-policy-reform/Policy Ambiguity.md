@@ -4,25 +4,57 @@ aliases:
   - 政策歧义性
   - 政策含混性
   - 决策歧义性
-summary: "指公共政策制定中针对同一客观情境或治理问题同时并存多种互不相容、无法通约的思考方式与价值取向的生态特征。在信息过量时代，更多知识证据无法自发消除歧义性，反而加剧解释撕裂，促使决策者诉诸量化指标构筑理性表象脚手架。"
+summary: "指公共政策制定中针对同一客观情境或治理问题同时并存多种互不相容、无法通约的思考方式与价值取向的生态特征。在信息过量时代，更多知识证据无法自发消除歧义性，反而加剧解释撕裂，促使决策者将数字作为理性表象的脚手架以应对多元分歧。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 3
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 35
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/educational-policy-reform
   - theme/policy-process
   - theme/governance
 related_concepts:
+  - "[[Scaffolding]]"
+  - "[[Epistemology]]"
   - "[[Scientific Uncertainty]]"
+  - "[[Multiplicity]]"
+  - "[[Metacognition]]"
+  - "[[Incommensurability]]"
   - "[[Façade of Rationality]]"
-related_theories: []
-related_methods: []
+  - "[[Knowledge Production]]"
+  - "[[Falsification]]"
+  - "[[Paradigm]]"
+  - "[[Academic Achievement]]"
+  - "[[Return on Investment]]"
+  - "[[Policy Brokerage]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Problem Finding]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Governing by Numbers]]"
+  - "[[Performance Indicators]]"
+  - "[[Literature Review]]"
+  - "[[Variable]]"
+  - "[[Document]]"
+  - "[[Attrition]]"
+related_theories:
+  - "[[Multiple Streams Framework]]"
+  - "[[Post-structuralism]]"
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Sample Size Determination]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Gita Steiner-Khamsi]]"
+related_facts:
+  - "[[PISA]]"
+  - "[[OECD]]"
+  - "[[Definition and Selection of Competencies]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -64,9 +96,9 @@ updated: 2026-09-12
 > |---|---|---|---|
 > | **本质属性** | 多[[Metacognition\|元认知]]框架与价值立场的[[Incommensurability\|不可通约性]] | 经验信息、数据或测量精度的匮乏 | 语言符号表意的不精确与弹性空间 |
 > | **信息增量的效果** | 加剧解释冲突与政治撕裂（信息过载反噬） | 降低未知度，提升决策推断确定性 | 对文本清晰度无直接影响 |
-> | **决策系统的应对** | 寻求量化指标构筑[[Façade of Rationality\|理性表象]]脚手架 | 委托补充实证研究、实施[[Randomised Controlled Trials\|随机对照试验]] | 制定更为精细的操作细则与执行细目 |
-> | **核心治理功能** | 迫使执政者进行权力裁量与排他性选择 | 驱动科研投入与循证[[Knowledge Production\|知识生产]] | 为不同官僚部门预留自由裁量与妥协空间 |
-> | **代表性理论渊源** | Feldman (1989); Zahariadis (2017); [[Multiple Streams Framework\|MSF]] | 贝叶斯统计、决策树、波普尔[[Falsification\|证伪主义]] | 政策语篇分析、[[Post-structuralism\|后结构主义]]法学 |
+> | **决策系统的应对** | 将数字作为[[Façade of Rationality\|理性表象]]的脚手架 | 委托补充实证研究、实施[[Randomised Controlled Trials\|随机对照试验]] | 制定更为精细的操作细则与执行细目 |
+| **核心治理功能** | 迫使执政者进行权力裁量与排他性选择 | 驱动科研投入与循证[[Knowledge Production\|知识生产]] | 为不同官僚部门预留自由裁量与妥协空间 |
+| **代表性理论渊源** | Feldman (1989); Zahariadis (2017); [[Multiple Streams Framework\|MSF]] | 贝叶斯统计、决策树、波普尔[[Falsification\|证伪主义]] | 政策语篇分析、[[Post-structuralism\|后结构主义]]法学 |
 
 ---
 
@@ -87,7 +119,7 @@ updated: 2026-09-12
 >     B1 & B2 & B3 --> C["政策歧义性（Policy Ambiguity）<br/>（不可通约与框架冲突）"]
 >     D["外部信息过载与证据激增"] -->|加剧冲突并非消除| C
 >     C --> E["政府面临被迫选择裁量"]
->     E --> F["诉诸量化指标与理性表象脚手架<br/>（压制争议并赋予政治叙事空间）"]
+>     E --> F["数字作为理性表象的脚手架<br/>（压制争议并赋予政治叙事空间）"]
 > ```
 
 ---
@@ -109,7 +141,7 @@ updated: 2026-09-12
 
 ---
 
-### 命题二　量化数字指标通过抽离具体语境为歧义性决策构筑理性表象脚手架
+### 命题二　数字作为理性表象的脚手架为歧义性决策保留政治叙事自由
 
 > [!concept-lens] 通约化[[Scaffolding|脚手架]]与叙事自由
 > 揭示量化指标如何同时实现“对外压制价值争论”与“对内保留政治阐释自由”的双重功能。
@@ -128,7 +160,7 @@ updated: 2026-09-12
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **信息生态反噬命题** | 证据过量不但不能消解歧义，反而强化中介对信息的政治性剪裁 | 数字经济时代的跨国公共政策制定与智库[[Knowledge Production\|知识生产]] | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; Feldman (1989) |
-> | **数字脚手架命题** | 数字指标以去语境化的[[Façade of Rationality\|理性表象]]压制外部歧义，同时为内部保留政治叙事自由 | 充斥多元利益博弈的大规模公共教育改革与绩效问责 | Espeland (2015); Zahariadis (2017) |
+> | **数字脚手架命题** | [[Façade of Rationality\|数字作为理性表象的脚手架]]压制外部歧义，同时为内部保留政治叙事自由 | 充斥多元利益博弈的大规模公共教育改革与绩效问责 | Espeland (2015); Zahariadis (2017) |
 
 ---
 
@@ -180,4 +212,4 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 在教育治理 2.0 框架下系统阐述政策歧义性，揭示信息过载时代国际组织如何利用量化[[Façade of Rationality|理性表象]]为决策者构筑政治叙事[[Scaffolding|脚手架]]。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 在教育治理 2.0 框架下系统阐述政策歧义性，揭示信息过载时代国际组织如何将数字作为[[Façade of Rationality|理性表象]]的[[Scaffolding|脚手架]]，为决策者提供政治叙事空间。

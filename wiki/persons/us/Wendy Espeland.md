@@ -4,7 +4,7 @@ aliases:
   - 温迪·埃斯佩兰德
   - 温迪·N·埃斯佩兰德
   - Wendy Nelson Espeland
-summary: "美国西北大学社会学教授，量化社会学、评价与指标社会学领军学者。提出“通约化”理论（Commensuration as a Social Process），揭示量化指标抹除异质语境与社会复杂性以生产表象共识的机制；提出“反应性”理论（Reactivity in Quantification）与指标叙事理论（Narrating Numbers），深刻批判大学排名对高等教育生态的焦虑驱动机制，以及公共政策中量化数据作为理性表象脚手架的政治叙事本质。"
+summary: "美国西北大学社会学教授，量化社会学、评价与指标社会学领军学者。提出“通约化”理论（Commensuration as a Social Process），揭示量化指标抹除异质语境与社会复杂性以生产表象共识的机制；提出“反应性”理论（Reactivity in Quantification）与指标叙事理论（Narrating Numbers），深刻批判大学排名对高等教育生态的焦虑驱动机制，以及公共政策中数字作为理性表象的脚手架之政治叙事本质。"
 type: person
 nationality: "us"
 person_region: "us"
@@ -107,7 +107,7 @@ updated: 2026-09-12
 ## 核心思想
 
 > [!claim] 核心主张
-> 量化并非对前存在现实的中立镜像反映，而是一种深刻重塑社会关系的干预技术。数字指标通过通约化机制强行剔除情境细节与质性争议，为充满歧义性与合法性危机的公共决策构筑客观普适的“[[Façade of Rationality|理性表象]]”[[Scaffolding|脚手架]]；与此同时，数字的抽象性并未消除政治，反而激发了具有高度弹性的意识形态叙事，并诱发全系统的反应性焦虑与行为异化。
+> 量化并非对前存在现实的中立镜像反映，而是一种深刻重塑社会关系的干预技术。数字指标通过通约化机制强行剔除情境细节与质性争议，使数字作为客观普适的“[[Façade of Rationality|理性表象]]”[[Scaffolding|脚手架]]；与此同时，数字的抽象性并未消除政治，反而激发了具有高度弹性的意识形态叙事，并诱发全系统的反应性焦虑与行为异化。
 
 > [!citation-card] 通约化作为抹除质性差异的社会过程
 > 通约化是将不同质性的差异转化为跨越通用度量的数量差异的过程。通约化通过建立统一的价值关系，消解了原有的质性独特性与道德复杂性，为组织决策提供了去政治化与去语境化的计算外表。转引自 [[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 225)]]
@@ -172,7 +172,7 @@ updated: 2026-09-12
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Façade of Rationality]] | 概念 | 核心[[Construct\|构念]]贡献者，阐明数字指标如何通过抹除情境为政策行动搭建理性表象[[Scaffolding\|脚手架]]。 |
+> | [[Façade of Rationality]] | 概念 | 核心[[Construct\|构念]]贡献者，阐明数字如何作为政策行动的理性表象[[Scaffolding\|脚手架]]，在抹除情境的同时激发叙事。 |
 > | [[Governing by Numbers]] | 概念 | 理论基石，系统阐明通约化与反应性作为数字治理底层社会学机制的运转逻辑。 |
 > | [[Sociology of Valuation and Evaluation]] | 概念 | 奠基学者，开创了关于高校学术排名、声誉焦虑与组织[[Disciplina and Doctrina\|规训]]的评价社会学[[Paradigm\|范式]]。 |
 > | [[Digital Self]] | 概念 | 理论透镜提供者，批判了统计度量作为客观反映个体本质特权通道的[[Positivism\|实证主义]]假定。 |
