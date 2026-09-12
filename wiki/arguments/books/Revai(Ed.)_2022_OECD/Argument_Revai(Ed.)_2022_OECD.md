@@ -7,7 +7,7 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 35
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -32,14 +32,17 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence Ecosystem]]"
   - "[[Concept Mapping]]"
+  - "[[Evidence-Informed Decision-Making]]"
   - "[[Knowledge Transfer]]"
   - "[[Discipline-Based Theory]]"
   - "[[Paradigm]]"
   - "[[Champ]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Epistemic Stances]]"
   - "[[Knowledge Production]]"
+  - "[[Cumulative Knowledge Base]]"
   - "[[Cultural Barrier]]"
   - "[[Research Purpose]]"
   - "[[Dialogue in Education]]"
@@ -52,6 +55,8 @@ related_concepts:
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Varieties of Capitalism]]"
+  - "[[Research Knowledge Mobilisation Model]]"
+  - "[[Theory of Mind]]"
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[Survey Research]]"
@@ -66,16 +71,18 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Best Evidence Synthesis]]"
+  - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
-  - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+  - "[[Argument_Torres_2022_KMModels]]"
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Revai(Ed.)_2022_OECD|Revai(Ed.)_2022_OECD]]"
 part_of: null
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Argument_Revai(Ed.)_2022_OECD
@@ -88,7 +95,7 @@ updated: 2026-09-12
 > - **核心议题** 剖析教育系统为何长期面临教育研究生产与政策实践应用严重脱节的顽疾，系统梳理跨国[[Knowledge Mobilisation|知识动员]]机制、中介机构演进、多主体知识共创与[[Evidence Ecosystem|证据生态系统]]构建。
 > - **材料边界** 依据[[OECD|经合组织]]（OECD）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）“[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]”（Strengthening the Impact of Education Research）2021 年对 29 国 37 个教育系统教育部开展的政策调查实证数据、前言致谢、执行摘要及全书 11 个核心章节。
 > - **章节关系** 全书采用“[[Concept Mapping|概念图]]景奠基（Part I）➔ 行动者与促成机制实证剖析（Part II）➔ 理解研究应用的新路径与实践前瞻（Part III）”的三大板块递进推进架构，汇聚多国教育学者、跨领域政策专家与一线决策者的多元视点。
-> - **使用方式** 作为全书结构导航与全系统知识沉淀入口，统摄教育知识动员、证据知情决策与证据生态系统等核心议题的研究网络。
+> - **使用方式** 作为全书结构导航与全系统知识沉淀入口，统摄教育知识动员、[[Evidence-Informed Decision-Making|证据知情决策]]与证据生态系统等核心议题的研究网络。
 
 ---
 
@@ -112,7 +119,7 @@ updated: 2026-09-12
 ## 全书结构与章节路线
 
 > [!volume-structure] 全书结构
-> - **Part I: Conceptual landscape and the evolution of the [[Champ|field]]（Ch. 1–3）** [[Concept Mapping|概念图]]景与领域演进。从历史视阈梳理证据知情政策与实践（EIPP）话语变迁，辨析研究、证据与知识的边界，系统评述与比较主流[[Knowledge Mobilisation|知识动员]]模型，考证教育中介机构的发展脉络与体制困境。（pp.14–74）
+> - **Part I: Conceptual landscape and the evolution of the [[Champ|field]]（Ch. 1–3）** [[Concept Mapping|概念图]]景与领域演进。从历史视阈梳理证据知情政策与实践（EIPP）话语变迁，辨析研究、证据与知识的边界，系统评述与比较主流[[Knowledge Mobilisation|知识动员]]模型，考证[[Educational Brokerage Agency|教育中介机构]]的发展脉络与体制困境。（pp.14–74）
 > - **Part II: Actors and mechanisms facilitating [[Research Utilization|Research Use]] in policy and practice（Ch. 4–7）** 促进研究应用的行动者与机制。全面呈现 [[OECD]] 跨国政策调查核心数据，描绘国家与地方教育系统中促进研究利用的组织与个人行动者图景，分类诊断促成机制与结构性障碍，借鉴医疗与环境等跨行业证据应用经验，并提出中介机制本身的循证标准。（pp.75–164）
 > - **Part III: New approaches to understanding research use（Ch. 8–11）** 理解研究应用的新路径与未来方向。从知识共建（Co-construction）、实践情境中的高质量研究使用（Quality Use of Research）、多利益相关者争议视角（涵盖工会、政府与基金会），最终汇聚收束为改善研-政-学深度联动的系统性治理启示。（pp.165–245）
 
@@ -153,7 +160,7 @@ updated: 2026-09-12
 
 > [!volume-tools] 理论与方法工具箱
 > - **[[Knowledge Mobilisation]]** 全书核心概念基石，涵盖从早期的线性转移（Push/Pull）向关系网络、知识到行动（KTA）及复杂系统论模型的深度演进。（pp.18–20, 33–54）
-> - **[[Evidence-Informed Practice]] / 证据知情决策** 作为替代狭隘工具主义有效性教条（What Works）的审慎[[Epistemic Stances|认识论立场]]，强调外部研究证据与实践者专业智慧的有机融合。（pp.17–18, 146–162）
+> - **[[Evidence-Informed Practice]] / [[Evidence-Informed Decision-Making|证据知情决策]]** 作为替代狭隘工具主义有效性教条（What Works）的审慎[[Epistemic Stances|认识论立场]]，强调外部研究证据与实践者专业智慧的有机融合。（pp.17–18, 146–162）
 > - **[[Evidence Ecosystem]]** 统摄全书系统论视角的宏观框架，将研究生产、综合、翻译、中介与本土实践视为具有自组织特征与动态反馈的生态网络。（pp.20, 148–155）
 > - **[[Survey Research|调查研究]]法（[[Survey Research]]）** [[OECD]] 政策调查依托标准化跨国[[Questionnaire|问卷]]与半结构化[[In-depth Interview|深度访谈]]，对 29 国 37 个教育系统教育部进行系统画像与跨国比较。（pp.25–27, 75–124）
 > - **关键词** 知识动员（Knowledge Mobilisation）、证据知情政策与实践（EIPP）、中介机构（Brokerage Agencies）、知识共创（Co-production）、高质量[[Research Utilization|研究使用]]（Quality Use of Research）、证据生态系统（Evidence Ecosystem）。
@@ -166,7 +173,7 @@ updated: 2026-09-12
 > - **从线性传递向复杂系统论模型的[[Paradigm|范式]]转型**
 >   - **相关章节** Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]；Ch. 02（Torres）；Ch. 06（Boaz et al.）；Ch. 11（Révai）。
 >   - **阅读价值** 呈现教育学界与政策界如何克服将“知识视作现成商品”的传递谬误，转向将各主体视为深嵌于制度情境、权力网络与文化惯习中的系统协调者。
-> - **教育中介机构的组织功能、机制分类与有效性循证**
+> - **[[Educational Brokerage Agency|教育中介机构]]的组织功能、机制分类与有效性循证**
 >   - **相关章节** Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]；Ch. 04（Hill）；Ch. 05（Torres）；Ch. 07（Gough et al.）。
 >   - **阅读价值** 对比各国中介组织（如英国 [[Education Endowment Foundation|EEF]]、新西兰 [[Best Evidence Synthesis|BES]]、美国 [[What Works Clearinghouse|WWC]] 等）在治理依附、证据综合、工具包开发与转化指导上的差异，剖析其受制于短期政治与预算周期的生存悖论，以及迈向“中介的中介”的元治理进路。
 > - **跨界合作、知识共创与学术[[Varieties of Capitalism|生产体制]]的结构性制约**
@@ -180,15 +187,15 @@ updated: 2026-09-12
 > [!chapter-roadmap] 章节处理路线
 > - **已处理章节**
 >   - Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]。Nóra Révai 梳理证据知情话语与[[Knowledge Mobilisation|知识动员]]概念演进，界定研究、证据与知识边界，批判线性模型并引入复杂系统论视角，确立 [[OECD]] 政策调查设计与全书分析架构。
->   - Ch. 02 [[Argument_Torres_2022_KMModels]]。José Manuel Torres 借助 Best & Holmes 三代模型透镜，横向比较跨领域四大主流知识动员模型（Lavis、Graham KTA、Levin RKM、Gough 证据生态），结合微观行为改变与教师声音前沿，确立未来[[Evidence Ecosystem|证据生态系统]]模型的建构路标。
->   - Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]。Tracey Burns & Tom Schuller 考证 2007–2022 年全球教育中介机构演进史，揭示后真相时代挑战与实践倾斜诱发的政策脱责隐忧，借助循证医学危机剖析证据商业化与刚性指南的负面效应，指出机构受制于 2–3 年政治预算周期的存续悖论，并倡导推进“中介的中介”（Brokering the Brokers）以建构跨国累积性知识库。
+>   - Ch. 02 [[Argument_Torres_2022_KMModels]]。José Manuel Torres 借助 Best & Holmes 三代模型透镜，横向比较跨领域四大主流知识动员模型（Lavis、Graham KTA、Levin [[Research Knowledge Mobilisation Model|RKM]]、Gough 证据生态），结合微观行为改变与教师声音前沿，确立未来[[Evidence Ecosystem|证据生态系统]]模型的建构路标。
+>   - Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]。Tracey Burns & [[Theory of Mind|ToM]] Schuller 考证 2007–2022 年全球[[Educational Brokerage Agency|教育中介机构]]演进史，揭示后真相时代挑战与实践倾斜诱发的政策脱责隐忧，借助循证医学危机剖析证据商业化与刚性指南的负面效应，指出机构受制于 2–3 年政治预算周期的存续悖论，并倡导推进“中介的中介”（Brokering the Brokers）以建构跨国[[Cumulative Knowledge Base|累积性知识库]]。
 > - **优先处理章节**
 >   - Ch. 04（Hill）与 Ch. 05（Torres）：OECD 政策调查跨国实证数据的核心承载章节，详述行动者网络与机制障碍。
 >   - Ch. 07（Gough et al.）：探讨中介机制本身的循证检验（Evidence on EIPP），奠定元研究方法论标准。
 >   - Ch. 09（Rickinson et al.）：阐述高质量[[Research Utilization|研究使用]]（[[Quality Use of Research Evidence Framework|QURE]]）框架，填补一线实践维度的评估工具缺口。
 >   - Ch. 11（Révai）：全书总结与未来系统性政策行动蓝图。
 > - **可暂缓章节** Ch. 06（跨行业经验梳理）与 Ch. 10（多元观点短论汇总），待主干章节完成后补充。
-> - **缺口提醒** 目前已完成全书 Overview、第 1 章宏观图景、第 2 章理论模型与第 3 章中介机构演进史，全书第一板块（Part I 概念图景与领域演进）已全部处理完毕。后续应重点推进 Part II 核心实证调查数据提取（第 4/5 章）与第 7 章中介循证标准。
+> - **缺口提醒** 目前已完成全书 Overview、第 1 章宏观图景、第 2 章理论模型与第 3 章中介机构演进史，全书第一板块（Part I [[Concept Mapping|概念图]]景与领域演进）已全部处理完毕。后续应重点推进 Part II 核心实证调查数据提取（第 4/5 章）与第 7 章中介循证标准。
 
 ---
 
@@ -196,8 +203,8 @@ updated: 2026-09-12
 
 > [!chapter-index] 章节索引
 > - **Ch. 01 — The Changing Landscape of [[Research Utilization|Research Use]] in Education** [[Argument_Revai_2022_ChangingLandscape]] — 梳理证据知情政策与实践话语演进，界定研究、证据与知识概念边界，阐述从线性模型到复杂系统模型的[[Paradigm|范式]]转型，并介绍 [[OECD]] 政策调查框架。
-> - **Ch. 02 — Louder than Words: Review and Comparative Analysis of [[Knowledge Mobilisation]] Models** [[Argument_Torres_2022_KMModels]] — 系统评述与比较主流知识动员模型（线性、关系、KTA、RKM、[[Evidence Ecosystem|证据生态系统]]），探讨系统复杂性与促成机制。
-> - **Ch. 03 — History and Evolution of Brokerage Agencies in Education** [[Argument_Burns_Schuller_2022_BrokerageAgencies]] — 考证 15 年来全球教育中介机构在治理模式（部委嵌入、政府资助自治、独立慈善）、受众定位与方法学立场上的历史演变，剖析后真相挑战与政策脱责风险，揭示短期政治预算周期导致的机构夭折悖论，并提出“中介的中介”元治理路线图。
+> - **Ch. 02 — Louder than Words: Review and Comparative Analysis of [[Knowledge Mobilisation]] Models** [[Argument_Torres_2022_KMModels]] — 系统评述与比较主流知识动员模型（线性、关系、KTA、[[Research Knowledge Mobilisation Model|RKM]]、[[Evidence Ecosystem|证据生态系统]]），探讨系统复杂性与促成机制。
+> - **Ch. 03 — History and Evolution of [[Educational Brokerage Agency|brokerage agencies in education]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies]] — 考证 15 年来全球教育中介机构在治理模式（部委嵌入、政府资助自治、独立慈善）、受众定位与方法学立场上的历史演变，剖析后真相挑战与政策脱责风险，揭示短期政治预算周期导致的机构夭折悖论，并提出“中介的中介”元治理路线图。
 > - **Ch. 04 — Who is Facilitating Research Use in Education Systems?** Argument_Hill_2022_FacilitatingActors — 基于 OECD 政策调查数据，详尽描绘在国家与地方教育系统中促进研究应用的组织与个体行动者，评估教育部与各方的互动质量。
 > - **Ch. 05 — Facilitating Research Use: Scary Barriers (and Super Mechanisms)** Argument_Torres_2022_BarriersMechanisms — 全面分析阻碍与促进研究应用的制度、资源与[[Cultural Barrier|文化障碍]]，梳理供给侧、需求侧与中介层面的各类促进机制。
 > - **Ch. 06 — Linking Research, Policy and Practice: Learning from Other Sectors** Argument_Boaz_2022_LinkingOtherSectors — 跨行业审视医疗、农业与环境等领域 500 余家促进研究应用的机构实践，提炼对教育领域的借鉴启示。

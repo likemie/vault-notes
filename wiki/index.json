@@ -3590,6 +3590,16 @@
     ]
   },
   {
+    "title": "Cumulative Knowledge Base",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Cumulative Knowledge Base.md",
+    "aliases": [
+      "累积性知识库",
+      "累积性知识基础",
+      "累积性教育知识大厦"
+    ]
+  },
+  {
     "title": "Data-Based Decision Making",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Data-Based Decision Making.md",
@@ -18468,6 +18478,16 @@
     ]
   },
   {
+    "title": "Canadian Council on Learning",
+    "type": "fact",
+    "path": "wiki/facts/canada/Canadian Council on Learning.md",
+    "aliases": [
+      "CCL",
+      "加拿大终身学习委员会",
+      "Conseil canadien sur l'apprentissage"
+    ]
+  },
+  {
     "title": "Schlegel-UW Research Institute for Aging",
     "type": "fact",
     "path": "wiki/facts/canada/Schlegel-UW Research Institute for Aging.md",
@@ -20863,6 +20883,16 @@
     "aliases": [
       "EEF",
       "教育捐赠基金会"
+    ]
+  },
+  {
+    "title": "Education Media Centre",
+    "type": "fact",
+    "path": "wiki/facts/uk/Education Media Centre.md",
+    "aliases": [
+      "EMC",
+      "英国教育媒体中心",
+      "教育媒体中心"
     ]
   },
   {
