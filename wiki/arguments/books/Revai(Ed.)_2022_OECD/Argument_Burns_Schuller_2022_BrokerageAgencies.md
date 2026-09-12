@@ -7,10 +7,10 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 73
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 76
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - "[[Tracey Burns|Burns, T.]]"
   - "[[Tom Schuller|Schuller, T.]]"
@@ -100,7 +100,13 @@ related_facts:
   - "[[Best Evidence Synthesis]]"
   - "[[Canadian Council on Learning]]"
   - "[[Danish Clearinghouse for Educational Research]]"
+  - "[[Kenniskamer]]"
   - "[[Education Endowment Foundation]]"
+  - "[[National Institute for Educational Policy Research]]"
+  - "[[Kunnskapssenter for utdanning]]"
+  - "[[Swiss Coordination Centre for Research in Education]]"
+  - "[[Education Reform Initiative]]"
+  - "[[Australian Education Research Organisation]]"
   - "[[Kennisrotonde]]"
   - "[[Education Media Centre]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
@@ -110,9 +116,6 @@ related_facts:
   - "[[Teaching and Learning International Survey]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[No Child Left Behind Act 2001]]"
-  - "[[Kenniskamer]]"
-  - "[[National Institute for Educational Policy Research]]"
-  - "[[Kunnskapssenter for utdanning]]"
 related_arguments: []
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch03_Burns_Schuller_2022|Ch03_Burns_Schuller_2022]]"
@@ -168,21 +171,21 @@ updated: 2026-09-13
 > [!row-contrast] 考察机构与案例快照（15 个标杆案例与跨国协作网络全景）
 > | 考察组别 | 机构或网络全称与简称 | 所属国别/区域 | 组织治理属性 | 核心中介机制与代表产出 | 存续状态与案例启示 |
 > |---|---|---|---|---|---|
-> | **2007 年 OECD 标杆追踪样本** | 美国强效作为清算所<br>（[[What Works Clearinghouse\|WWC]]） | 美国 | 联邦直属法定机构<br>（IES 合同外包运营） | 依据联邦教育法案强制授权；推行因果实证黄金标准审查，发布干预指南与[[Recommendations for Practice\|实践建议]]。 | **持续活跃**<br>（法律强制授权与法定预算形成制度护城河） |
-> | | 循证政策与实践信息协同中心<br>（[[EPPI-Centre]]） | 英国 | 大学依托型学术实体<br>（伦敦大学学院教育研究院） | 扎根顶尖学术共同体；开创多元混合[[Systematic Review\|系统综述]]规程，自主研发 EPPI-Reviewer 专业综述软件。 | **持续活跃**<br>（大学学术自治与多元竞争性课题对冲财政风险） |
-> | | 最佳证据综合<br>（[[Best Evidence Synthesis\|BES]]） | 新西兰 | 部委嵌入型处室<br>（新西兰教育部直属） | 早期开创“研究者-部委”伴随式指导模式，产出多部领导力与毛利教学里程碑综述；后因更迭停资。 | **职能收缩**<br>（新证据综合报告资助终止，转向既有证据视频展示） |
-> | | [[Canadian Council on Learning\|加拿大终身学习委员会]]<br>（CCL） | 加拿大 | 联邦资助独立非营利组织<br>（横跨联邦与各省） | 统筹跨省[[Lifelong Learning\|终身学习]]评估指标，提供全生命周期实证分析；后因两级政府管辖权博弈与预算撤销解散。 | **彻底关停**<br>（联邦制下缺乏跨行政区划法定协议导致资金链断裂） |
-> | | 丹麦教育研究清算中心<br>（[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]） | 丹麦 | 部委依托大学设立<br>（奥胡斯大学合作运营） | 依托部委短期服务合同；开展北欧教育系统综述与数据库建设；2017 年因政府未再续约而关停。 | **彻底关停（2017年）**<br>（依赖政府 2–3 年短期合同是中介机构夭折的核心诱因） |
-> | | 教育部知识室<br>（[[Kenniskamer\|Kenniskamer]]） | 荷兰 | 部委高层直属咨询机制<br>（教育部内部行政嵌入） | 紧密对齐特定部长的执政议程；在提出倡议的部长离任及内阁重组后丧失高层推力而停摆。 | **休眠停摆**<br>（依托特定政治人物政治意愿，无法形成不可逆组织沉淀） |
-> | **拓展与新兴中介样本** | 英国教育捐赠基金会<br>（[[Education Endowment Foundation\|EEF]]） | 英国 | 独立慈善信托机构<br>（萨顿信托发起） | 依托 1.25 亿英镑留本基金；研发《教学与学习工具包》，创设研究学校网络并资助 200 余项现场因果试验。 | **持续活跃**<br>（留本基金打破选举周期，实践下沉与因果试验贯通） |
-> | | [[National Institute for Educational Policy Research\|国立教育政策研究所]]<br>（NIER） | 日本 | 独立行政法人<br>（与文部科学省同楼办公） | 兼具学术研究独立性与高层决策紧密配合；统筹国家宏观教育政策研究与国际大规模调查。 | **持续活跃**<br>（物理空间嵌入与法律自主地位相平衡） |
-> | | [[Kunnskapssenter for utdanning\|教育知识中心]]<br>（Kunnskapssenter for utdanning） | 挪威 | 大学依托与分权试点<br>（斯塔万格大学） | 由教育部出资设立，2019 年迁往地方大学落实分权；开创吸纳教师参与的平行评审多元规程。 | **持续活跃**<br>（推进地方权力下放，探索质性与量化融合综合） |
-> | | 教育研究协调中心<br>（SKBF / CSRE） | 瑞士 | 联邦与各州联席常设机构<br>（独立法定法人） | 由瑞士联邦与各州教育局长联席会议联合出资；协调多语种与分权体制下的国家科研中介。 | **持续活跃**<br>（联邦制下多方利益相关者联合资助的稳定范式） |
-> | | 教育改革倡议<br>（ERG） | 土耳其 | 民间大学智库<br>（萨班哲大学） | 完全由土耳其主流慈善基金会联合支持；在缺乏政府主动资助的环境下维系独立教育中介服务。 | **持续活跃**<br>（民间社会资本支撑中介组织自主存续） |
-> | | 澳大利亚教育研究组织<br>（AERO） | 澳大利亚 | 国家级法定独立机构<br>（联邦与各州联合设立） | 2021 年新建，致力于生成高等级实践指南、开展前沿因果试验并提升全国教育[[Research Utilization\|证据使用]]水平。 | **新兴拓展**<br>（新一代国家级教育中介制度化布局） |
-> | | 国家教育研究所知识环岛<br>（[[Kennisrotonde\|NRO Kennisrotonde]]） | 荷兰 | 官方科研资助机构延伸<br>（NRO 实践门户） | 设立双向咨询中继机制；由专业研究人员针对中小学教师日常困惑在规定期限内提供母语解答。 | **持续活跃**<br>（打通微观实践问答即时响应机制的高采纳度模式） |
-> | | [[Education Media Centre\|教育媒体中心]]<br>（EMC） | 英国 | 独立非营利媒介机构<br>（借鉴 SMC 模式） | 面向大众媒体记者提供快速事实核查与专家推荐；反制舆论场中的伪科学与片面夸大报道。 | **持续活跃**<br>（拓宽中介受众至公共舆论场，守护学术公信力） |
-> | **跨国协同网络样本** | 欧洲教育证据知情政策与实践网络<br>（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]） | 欧洲/跨国 | 跨国元中介协同网络<br>（欧盟资助后自主延续） | 汇聚 23 国 36 家正式机构与 7 家国际附属机构；首创公开网络大会与闭门伙伴会议双轨会议治理模式。 | **自律延续**<br>（官方资助终止后由成员自筹维持，启发跨国元中介探索） |
+> | **2007 年 OECD 标杆追踪样本** | 美国强效作为清算所<br>（[[What Works Clearinghouse\|WWC, What Works Clearinghouse]]） | 美国 | 联邦直属法定机构<br>（IES 合同外包运营） | 依据联邦教育法案强制授权；推行因果实证黄金标准审查，发布干预指南与[[Recommendations for Practice\|实践建议]]。 | **持续活跃**<br>（法律强制授权与法定预算形成制度护城河） |
+> | | 循证政策与实践信息协同中心<br>（[[EPPI-Centre\|EPPI-Centre, Evidence for Policy and Practice Information and Co-ordinating Centre]]） | 英国 | 大学依托型学术实体<br>（伦敦大学学院教育研究院） | 扎根顶尖学术共同体；开创多元混合[[Systematic Review\|系统综述]]规程，自主研发 EPPI-Reviewer 专业综述软件。 | **持续活跃**<br>（大学学术自治与多元竞争性课题对冲财政风险） |
+> | | 最佳证据综合<br>（[[Best Evidence Synthesis\|BES, Best Evidence Synthesis]]） | 新西兰 | 部委嵌入型处室<br>（新西兰教育部直属） | 早期开创“研究者-部委”伴随式指导模式，产出多部领导力与毛利教学里程碑综述；后因更迭停资。 | **职能收缩**<br>（新证据综合报告资助终止，转向既有证据视频展示） |
+> | | [[Canadian Council on Learning\|加拿大终身学习委员会]]<br>（CCL, Canadian Council on Learning） | 加拿大 | 联邦资助独立非营利组织<br>（横跨联邦与各省） | 统筹跨省[[Lifelong Learning\|终身学习]]评估指标，提供全生命周期实证分析；后因两级政府管辖权博弈与预算撤销解散。 | **彻底关停**<br>（联邦制下缺乏跨行政区划法定协议导致资金链断裂） |
+> | | 丹麦教育研究清算中心<br>（[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse, Danish Clearinghouse for Educational Research]]） | 丹麦 | 部委依托大学设立<br>（奥胡斯大学合作运营） | 依托部委短期服务合同；开展北欧教育系统综述与数据库建设；2017 年因政府未再续约而关停。 | **彻底关停（2017年）**<br>（依赖政府 2–3 年短期合同是中介机构夭折的核心诱因） |
+> | | 教育部知识室<br>（[[Kenniskamer\|Kenniskamer, Dutch Knowledge Chamber]]） | 荷兰 | 部委高层直属咨询机制<br>（教育部内部行政嵌入） | 紧密对齐特定部长的执政议程；在提出倡议的部长离任及内阁重组后丧失高层推力而停摆。 | **休眠停摆**<br>（依托特定政治人物政治意愿，无法形成不可逆组织沉淀） |
+> | **拓展与新兴中介样本** | 英国教育捐赠基金会<br>（[[Education Endowment Foundation\|EEF, Education Endowment Foundation]]） | 英国 | 独立慈善信托机构<br>（萨顿信托发起） | 依托 1.25 亿英镑留本基金；研发《教学与学习工具包》，创设研究学校网络并资助 200 余项现场因果试验。 | **持续活跃**<br>（留本基金打破选举周期，实践下沉与因果试验贯通） |
+> | | [[National Institute for Educational Policy Research\|国立教育政策研究所]]<br>（NIER, National Institute for Educational Policy Research） | 日本 | 独立行政法人<br>（与文部科学省同楼办公） | 兼具学术研究独立性与高层决策紧密配合；统筹国家宏观教育政策研究与国际大规模调查。 | **持续活跃**<br>（物理空间嵌入与法律自主地位相平衡） |
+> | | [[Kunnskapssenter for utdanning\|教育知识中心]]<br>（Kunnskapssenter for utdanning / Knowledge Centre for Education） | 挪威 | 大学依托与分权试点<br>（斯塔万格大学） | 由教育部出资设立，2019 年迁往地方大学落实分权；开创吸纳教师参与的平行评审多元规程。 | **持续活跃**<br>（推进地方权力下放，探索质性与量化融合综合） |
+> | | [[Swiss Coordination Centre for Research in Education\|教育研究协调中心]]<br>（SKBF / CSRE, Swiss Coordination Centre for Research in Education） | 瑞士 | 联邦与各州联席常设机构<br>（独立法定法人） | 由瑞士联邦与各州教育局长联席会议联合出资；协调多语种与分权体制下的国家科研中介。 | **持续活跃**<br>（联邦制下多方利益相关者联合资助的稳定范式） |
+> | | [[Education Reform Initiative\|教育改革倡议]]<br>（ERG, Education Reform Initiative） | 土耳其 | 民间大学智库<br>（萨班哲大学） | 完全由土耳其主流慈善基金会联合支持；在缺乏政府主动资助的环境下维系独立教育中介服务。 | **持续活跃**<br>（民间社会资本支撑中介组织自主存续） |
+> | | [[Australian Education Research Organisation\|澳大利亚教育研究组织]]<br>（AERO, Australian Education Research Organisation） | 澳大利亚 | 国家级法定独立机构<br>（联邦与各州联合设立） | 2021 年新建，致力于生成高等级实践指南、开展前沿因果试验并提升全国教育[[Research Utilization\|证据使用]]水平。 | **新兴拓展**<br>（新一代国家级教育中介制度化布局） |
+> | | 国家教育研究所知识环岛<br>（[[Kennisrotonde\|NRO Kennisrotonde / Knowledge Roundabout]]） | 荷兰 | 官方科研资助机构延伸<br>（NRO 实践门户） | 设立双向咨询中继机制；由专业研究人员针对中小学教师日常困惑在规定期限内提供母语解答。 | **持续活跃**<br>（打通微观实践问答即时响应机制的高采纳度模式） |
+> | | [[Education Media Centre\|教育媒体中心]]<br>（EMC, Education Media Centre） | 英国 | 独立非营利媒介机构<br>（借鉴 SMC 模式） | 面向大众媒体记者提供快速事实核查与专家推荐；反制舆论场中的伪科学与片面夸大报道。 | **持续活跃**<br>（拓宽中介受众至公共舆论场，守护学术公信力） |
+> | **跨国协同网络样本** | 欧洲教育证据知情政策与实践网络<br>（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE, Evidence Informed Policy and Practice in Education in Europe]]） | 欧洲/跨国 | 跨国元中介协同网络<br>（欧盟资助后自主延续） | 汇聚 23 国 36 家正式机构与 7 家国际附属机构；首创公开网络大会与闭门伙伴会议双轨会议治理模式。 | **自律延续**<br>（官方资助终止后由成员自筹维持，启发跨国元中介探索） |
 
 ---
 
@@ -335,8 +338,8 @@ updated: 2026-09-13
 > - **部委嵌入型：新西兰最佳证据综合（NZ BES）** 由新西兰教育部直接资助并嵌入部委运作，早期为证据综合报告的撰写团队提供一对一的全程辅导，曾产出多部关于[[School Leadership|学校领导力]]与毛利学生教学法的高质量综合报告；后因执政党更替而终止资助新项目，工作重心退缩为将既有证据转化为案例教学短片。（pp. 61, 64）
 > - **政府资助自治型：[[National Institute for Educational Policy Research|日本国立教育政策研究所]]（NIER）** 作为独立行政法人，特意将办公地点设在与文部科学省（Ministry of Education, Culture, Sports, Science and Technology, MEXT）同一栋大楼内，既保持了作为学术机构的相对独立性，又确保了与高层政策制定的紧密配合。（p. 62）
 > - **大学依托与分权化：[[Kunnskapssenter for utdanning|挪威教育知识中心]]** 由挪威教育科研部出资设立，保持学术自治；2019 年作为挪威政府行政权力下放改革的重要一环，由首都奥斯陆整体迁往斯塔万格大学（University of Stavanger）；在方法上突破对随机对照试验的单一推崇，开创了吸纳一线教师与研究者共同参与的平行评审与综合规程。（p. 63）
-> - **联邦制协同：瑞士教育研究协调中心（SKBF / CSRE）** 作为一个完全独立的常设机构，由瑞士联邦政府与瑞士各州教育局长联席会议（Swiss Conference of Cantonal Ministers of Education, EDK）联合出资维持，有效协调了多语种及高度分权的联邦体制下的知识治理需求。
-> - **基金会联合资助：土耳其教育改革倡议（ERG）** 设于萨班哲大学（Sabancı University），完全由土耳其主流慈善基金会联合出资支持，体现了民间社会力量在缺乏政府主动资助的环境下独立维系教育智库与中介服务的运作机制。
+> - **联邦制协同：[[Swiss Coordination Centre for Research in Education|瑞士教育研究协调中心]]（SKBF / CSRE）** 作为一个完全独立的常设机构，由瑞士联邦政府与瑞士各州教育局长联席会议（Swiss Conference of Cantonal Ministers of Education, EDK）联合出资维持，有效协调了多语种及高度分权的联邦体制下的知识治理需求。
+> - **基金会联合资助：[[Education Reform Initiative|土耳其教育改革倡议]]（ERG）** 设于萨班哲大学（Sabancı University），完全由土耳其主流慈善基金会联合出资支持，体现了民间社会力量在缺乏政府主动资助的环境下独立维系教育智库与中介服务的运作机制。
 
 在目标受众拓展方面，荷兰与英国开发了直面一线实践与大众传媒的创新中介机制（p. 62）：
 

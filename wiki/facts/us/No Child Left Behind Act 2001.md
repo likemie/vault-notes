@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[OECD]]"
   - "[[Danish Clearinghouse for Educational Research]]"
+  - "[[Kenniskamer]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
@@ -134,7 +135,7 @@ updated: 2026-09-13
 
 > [!finding-cards] 效果与评价
 > - **开启[[Evidence-Based Education|循证教育]]政策规范化进程** NCLB 首次将“研究必须指导实践”确立为联邦法定义务，为后续[[What Works Clearinghouse|WWC]]的设立以及 ESSA 四级证据框架奠定了制度基石。相比 NCLB 时代的模糊表述，后续体系将实验证据正式转化为了各州采购与项目审核的可操作门槛。([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])
-> - **法定授权与经常性预算形成的制度护城河** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 64–65)]] 纵向追踪[[OECD|经合组织]] 2007 年考察的 6 家标杆[[Educational Brokerage Agency|知识中介机构]]在 15 年间的存续演变发现，绝大多数机构因受制于政党更迭与 2 至 3 年短期专项拨款周期而陷入关停或休眠（如[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]因合同未续关停、加拿大[[Lifelong Learning|终身学习]]委员会因联邦拨款撤销而解散、荷兰教育部知识室因部长离任停摆）。唯有美国的 [[What Works Clearinghouse|WWC]] 依托 NCLB 及 2002 年《教育科学改革法》（Education Sciences Reform Act, ESRA）确立的法定强制授权与经常性联邦专项预算，成功跨越了政治选举周期与短期财政紧缩的剧烈冲击，证明国家立法授权与制度化经常性预算是保障证据中介机构长期存续的根本制度护城河。
+> - **法定授权与经常性预算形成的制度护城河** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 64–65)]] 纵向追踪[[OECD|经合组织]] 2007 年考察的 6 家标杆[[Educational Brokerage Agency|知识中介机构]]在 15 年间的存续演变发现，绝大多数机构因受制于政党更迭与 2 至 3 年短期专项拨款周期而陷入关停或休眠（如[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]因合同未续关停、加拿大[[Lifelong Learning|终身学习]]委员会因联邦拨款撤销而解散、[[Kenniskamer|荷兰教育部知识室]]因部长离任停摆）。唯有美国的 [[What Works Clearinghouse|WWC]] 依托 NCLB 及 2002 年《教育科学改革法》（Education Sciences Reform Act, ESRA）确立的法定强制授权与经常性联邦专项预算，成功跨越了政治选举周期与短期财政紧缩的剧烈冲击，证明国家立法授权与制度化经常性预算是保障证据中介机构长期存续的根本制度护城河。
 > - **“基于研究”与“经过评估”的本质混淆** [[Argument_Slavin_2002_ER|Slavin (2002, pp. 18–19)]] 在法案生效之初便尖锐指出，任何教育项目都能声称自身“基于科学本位研究”的某种抽象原理，导致该标准无法过滤劣质干预。Slavin 提出著名的“莱特兄弟类比”：其他航空发明家同样依据真实的流体力学科学原理，但只有莱特兄弟的飞机真正离开地面并经过反复测试。教育改革需要的是项目本身在真实课堂经受严格实验评估并证明有效，而非仅借用科学理论的概念包装。
 > - **坎贝尔定律（Campbell's Law）视角下的系统性副作用** [[Argument_Zhao_2017_JEC|Zhao (2017, pp. 13–15)]] 援引 Nichols & Berliner (2007) 的研究指出，由于缺乏前瞻性副作用评估，在高风险问责压力下产生了四重严重异化：
 >   - **系统性作弊** 约 10% 的教师与管理者迫于达标压力存在篡改答案、泄题或指导作弊行为；

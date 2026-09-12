@@ -9,15 +9,16 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: "Australian Education Research Organisation"
 tags:
   - policy/evidence-based
   - region/australia
   - theme/intermediary-organisation
+  - theme/knowledge-brokerage
   - theme/accountability
 related_concepts:
   - "[[Document]]"
@@ -38,10 +39,11 @@ related_facts:
   - "[[Strong Beginnings Report]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-06-16
+updated: 2026-09-13
 ---
 
 # Australian Education Research Organisation
@@ -63,7 +65,7 @@ updated: 2026-06-16
 > [!timeline] 机构发展与关键活动
 > - 2016 生产力委员会发布报告，明确建议效仿英国 [[Education Endowment Foundation|EEF]] 筹建澳大利亚全国教育证据中介机构。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - 2018 [[BHP Foundation|必和必拓基金会]]（BHP Foundation）注资启动 EEF 为期五年的“全球证据生态扩张”项目，AERO 在此契机下成立并积极融入全球网络，邀请 EEF 创始人科林斯爵士加入专家委员会。
-> - 2021 AERO 委托外部中介机构[[Centre for Evidence and Implementation|证据与实施中心]] (CEI) 开展针对澳大利亚学校采纳证据现状的桌面审查（Desktop Review），并于当年12月在官网上线报告。
+> - 2021 依据澳大利亚联邦与各州政府联合决议正式注册设立（incorporated in 2021），成为国家级重点公共投资的新型教育证据中介载体，被 [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, p. 64)]] 列为 2020 年代全球教育中介最新拓展的代表案例。AERO 委托外部中介机构[[Centre for Evidence and Implementation|证据与实施中心]] (CEI) 开展针对澳大利亚学校采纳证据现状的桌面审查（Desktop Review），并于当年12月在官网上线报告。
 > - 2023 AERO 深度介入《强劲开端》改革；CEO Donovan 成为 TEEP 专家小组成员，AERO 撰写的一份未发表的“证据综合报告”成为全国教师教育“核心课程大纲”的直接科学依据。
 
 ---
@@ -112,3 +114,4 @@ updated: 2026-06-16
 > | [[Strong Beginnings Report]] | AERO CEO Donovan 作为专家小组成员直接参与起草的联邦改革文本。 | |
 > | [[Australian Institute for Teaching and School Leadership]] | AERO 开发的核心内容需要呈送给 AITSL 并落实到具体的认证规程中。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]]) |
 > | [[Educational Services Australia]] | 为 AERO 运作提供底层行政与技术支撑的注册慈善公司。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 将 AERO 列为 2020 年代全球教育中介最新拓展的代表案例，分析其面临的利益相关者吸纳与时效张力。 | ([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]) |

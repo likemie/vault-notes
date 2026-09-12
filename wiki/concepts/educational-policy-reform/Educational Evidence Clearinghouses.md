@@ -95,8 +95,11 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Best Evidence Synthesis]]"
+  - "[[Kenniskamer]]"
+  - "[[National Institute for Educational Policy Research]]"
   - "[[Canadian Council on Learning]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Education Reform Initiative]]"
   - "[[Kennisrotonde]]"
   - "[[Education Media Centre]]"
   - "[[EPPI-Centre]]"
@@ -192,7 +195,7 @@ updated: 2026-09-13
 
 > [!dimension] [[International Education|国际教育]]中介机构的三维治理谱系（Burns & Schuller, 2022; pp. 61–64）
 > - **治理依附关系维度（Institutional Location）**
->   机构在体制上与中央/地方教育行政部门的从属关系，涵盖部委内部直属嵌入型（如新西兰 [[Best Evidence Synthesis|BES]]、荷兰 [[Kenniskamer]]）、政府资助的独立法定法人型（如日本 [[National Institute for Educational Policy Research|NIER]]、挪威知识中心、加拿大 [[Canadian Council on Learning|CCL]]），以及完全独立的民间慈善/基金型（如英国 [[Education Endowment Foundation|EEF]]、土耳其 ERG）。
+>   机构在体制上与中央/地方教育行政部门的从属关系，涵盖部委内部直属嵌入型（如新西兰 [[Best Evidence Synthesis|BES]]、荷兰 [[Kenniskamer]]）、政府资助的独立法定法人型（如日本 [[National Institute for Educational Policy Research|NIER]]、挪威知识中心、加拿大 [[Canadian Council on Learning|CCL]]），以及完全独立的民间慈善/基金型（如英国 [[Education Endowment Foundation|EEF]]、土耳其 [[Education Reform Initiative|ERG]]）。
 > - **目标受众与沟通定位维度（Target Audience）**
 >   机构的核心服务对象与信息转译方向，分化为服务内阁宏观立法的政策导向型、服务中小学课堂日常的实践导向型（如荷兰 NRO [[Kennisrotonde|知识环岛]]、EEF 工具包），以及专门反制媒体伪科学炒作的媒介沟通型（如[[Education Media Centre|英国教育媒体中心]]）。
 > - **证据审查与方法学立场维度（Synthesis Stance）**

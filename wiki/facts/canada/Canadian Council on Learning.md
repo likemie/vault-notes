@@ -26,16 +26,29 @@ tags:
   - theme/educational-governance
   - theme/federalism
 related_concepts:
-  - "[[Educational Brokerage Agency]]"
-  - "[[Knowledge Mediation]]"
   - "[[Lifelong Learning]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Paradigm]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Knowledge Mediation]]"
+  - "[[Epistemology]]"
+  - "[[Epistemic Governance]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Heterogeneity]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Cumulative Knowledge Base]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
+  - "[[Centre for Educational Research and Innovation]]"
+  - "[[UNESCO]]"
+  - "[[Swiss Coordination Centre for Research in Education]]"
   - "[[What Works Clearinghouse]]"
+  - "[[No Child Left Behind Act 2001]]"
   - "[[EPPI-Centre]]"
   - "[[Danish Clearinghouse for Educational Research]]"
 related_arguments:
@@ -119,7 +132,7 @@ updated: 2026-09-13
 
 > [!tension] 宪法管辖权与预算周期双重挤压（Burns & Schuller, 2022, pp. 64–65）
 > - **宪法第 93 条与省际教育主权戒备** 加拿大 1867 年《宪法法案》（Constitution Act, 1867）第 93 条明确规定，教育管辖权专属于各省（Provinces），联邦政府无权直接介入教育事务。因此，各省教育厅长组成的加拿大教育部长联席会议（Council of Ministers of Education, Canada, CMEC）自始至终对联邦全额出资设立的 CCL 抱有警惕甚至抵触情绪，将其视作联邦政府试图通过“证据与指标”对各省教育政策施加软性[[Disciplina and Doctrina|规训]]的越权工具。
-> - **缺乏跨辖区法定协议的制度硬伤** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 64–65)]] 对比瑞士教育研究协调中心（SKBF）指出：瑞士同属联邦制分权国家，但 SKBF 依托联邦政府与各州教育局长联席会（EDK）联合签署的常设法定协议与双边预算维持，具备坚固的法制根基；而 CCL 仅依托联邦单边行政合同，未能在制度上将各省纳入出资共建的法定框架，导致其在政治风向变动时沦为各方推诿的孤岛。
+> - **缺乏跨辖区法定协议的制度硬伤** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 64–65)]] 对比[[Swiss Coordination Centre for Research in Education|瑞士教育研究协调中心]]（SKBF）指出：瑞士同属联邦制分权国家，但 SKBF 依托联邦政府与各州教育局长联席会（EDK）联合签署的常设法定协议与双边预算维持，具备坚固的法制根基；而 CCL 仅依托联邦单边行政合同，未能在制度上将各省纳入出资共建的法定框架，导致其在政治风向变动时沦为各方推诿的孤岛。
 > - **政党更迭对科学评估的系统性挤出** 2006 年联邦自由党内阁下台后，新上台的保守党政府奉行财政紧缩与小政府理念，且与各省维持非干预主义立场。2010 年联邦保守党直接决定不再续签资助合同。[[OECD|经合组织]]指出，公共项目的终止决断往往发生在严谨的成效评估出炉之前，资金削减直接源于政治权力更迭而非客观绩效低下。这一悲剧成为印证“缺乏法定预算保障的中介机构极易在政治周期中夭折”的经典学理例证。
 
 ---

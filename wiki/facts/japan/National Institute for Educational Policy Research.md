@@ -23,11 +23,14 @@ tags:
   - theme/evidence-informed-policy
   - theme/educational-governance
 related_concepts:
-  - "[[Educational Brokerage Agency]]"
+  - "[[Performance Indicators]]"
+  - "[[International Education]]"
   - "[[Knowledge Mediation]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Research Utilization]]"
-  - "[[Epistemic Governance]]"
+  - "[[Evaluation Research]]"
+  - "[[Going Native]]"
+  - "[[Document]]"
+  - "[[Paradigm]]"
+  - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -35,9 +38,14 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[International Indicators of Education Systems]]"
+  - "[[PISA]]"
   - "[[Teaching and Learning International Survey]]"
+  - "[[Students and Teachers Accessing Tomorrow]]"
+  - "[[Kenniskamer]]"
+  - "[[Kunnskapssenter for utdanning]]"
+  - "[[Swiss Coordination Centre for Research in Education]]"
   - "[[Kennisrotonde]]"
-  - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: high
@@ -53,7 +61,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 日本国立教育政策研究所（National Institute for Educational Policy Research, NIER，国立教育政策研究所）是日本文部科学省（Ministry of Education, Culture, Sports, Science and Technology, MEXT）下属的独立行政法人，以"在同一栋楼内保持独立"的罕见制度安排著称——办公地点与文部科学省同楼，但具有法定的学术研究自主地位。Burns & Schuller（2022）将其列为"政府资助自治型"中介的亚太标杆，诠释了物理邻近与行政自治如何实现有效平衡。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
+> 日本国立教育政策研究所（National Institute for Educational Policy Research, NIER，国立教育政策研究所）是日本文部科学省（Ministry of Education, Culture, Sports, Science and Technology, MEXT）下属的独立行政法人，以"在同一栋楼内保持独立"的罕见制度安排著称——办公地点与文部科学省同楼，但具有法定的学术研究自主地位。[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]将其列为"政府资助自治型"中介的亚太标杆，诠释了物理邻近与行政自治如何实现有效平衡。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间** 1949 年依据战后日本教育改革体制设立，前身为战前文部省调查局，战后重组为独立研究机构，持续为日本教育政策提供实证研究支撑。
@@ -94,7 +102,7 @@ updated: 2026-09-13
 > [!finding-cards] NIER 的制度创新价值
 > - **"同楼独立"的制度平衡[[Paradigm|范式]]** NIER 最独特的制度创新在于将"物理邻近"与"行政自治"并行实现：与文部科学省同楼办公，确保研究与决策之间的沟通效率与议程对齐；独立行政法人的法律地位，则赋予其在人事、预算与研究议程上一定程度的自主权，避免沦为政策部门的附属宣传机构。这种制度安排使 NIER 在政治换届中保持连续性，远比 [[Kenniskamer]] 等部委直属机制具有更强的制度韧性。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]
 > - **政策对齐而非政治依附** 与荷兰 Kenniskamer 不同，NIER 的研究议程虽与文部科学省政策目标高度对齐，但不依赖特定部长的个人意愿；中期目标框架提供了跨届政府的制度连续性，使机构得以超越选举周期而持续运作。
-> - **亚太地区政府自治型中介的参照** 在 Burns & Schuller（2022）的国际比较谱系中，NIER 与挪威 [[Kunnskapssenter for utdanning]] 及瑞士 SKBF/CSRE 并列，代表了"政府资助、保持独立、非营利导向"的中介类型；在亚太地区，NIER 是迄今历史最悠久、体量最大的此类机构。
+> - **亚太地区政府自治型中介的参照** 在 [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 的国际比较谱系中，NIER 与挪威 [[Kunnskapssenter for utdanning]] 及瑞士 [[Swiss Coordination Centre for Research in Education|SKBF]]/CSRE 并列，代表了"政府资助、保持独立、非营利导向"的中介类型；在亚太地区，NIER 是迄今历史最悠久、体量最大的此类机构。
 
 > [!citation-card] Burns & Schuller 论日本 NIER 的"同楼独立"制度安排
 > 日本国立教育政策研究所虽独立，却坐落于与文部科学省同一栋楼内。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]

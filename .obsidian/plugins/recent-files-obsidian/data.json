@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
     },
     {
+      "basename": "Australian Education Research Organisation",
+      "path": "wiki/facts/australia/Australian Education Research Organisation.md"
+    },
+    {
+      "basename": "Centre for Evidence and Implementation",
+      "path": "wiki/facts/australia/Centre for Evidence and Implementation.md"
+    },
+    {
+      "basename": "Canadian Council on Learning",
+      "path": "wiki/facts/canada/Canadian Council on Learning.md"
+    },
+    {
       "basename": "Centre for Educational Research and Innovation",
       "path": "wiki/facts/global/Centre for Educational Research and Innovation.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "vault-use",
       "path": "vault-use.md"
-    },
-    {
-      "basename": "Strengthening the Impact of Education Research Project",
-      "path": "wiki/facts/global/Strengthening the Impact of Education Research Project.md"
-    },
-    {
-      "basename": "Evidence-Based Education",
-      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
-    },
-    {
-      "basename": "Boundary Spanner",
-      "path": "wiki/concepts/university-industry-collaboration/Boundary Spanner.md"
     }
   ],
   "omittedPaths": [],

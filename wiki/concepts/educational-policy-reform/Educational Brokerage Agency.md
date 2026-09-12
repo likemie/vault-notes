@@ -60,7 +60,11 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[Best Evidence Synthesis]]"
+  - "[[Kenniskamer]]"
+  - "[[National Institute for Educational Policy Research]]"
+  - "[[Swiss Coordination Centre for Research in Education]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Education Reform Initiative]]"
   - "[[Kennisrotonde]]"
   - "[[Education Media Centre]]"
   - "[[What Works Clearinghouse]]"
@@ -120,7 +124,7 @@ updated: 2026-09-13
 ## 核心要素
 
 > [!feature] 核心要素
-> - **与政府部委的治理依附关系（Relationship with the Ministry）** 决定机构自主权与政策影响力的首要制度维度，呈现三类典型光谱：部委嵌入型（如新西兰 [[Best Evidence Synthesis|BES]]、荷兰 [[Kenniskamer]]，完全依附部委目标与预算）、政府资助自治型（如[[National Institute for Educational Policy Research|日本国立教育政策研究所]] NIER、挪威知识中心、瑞士 SKBF，由政府设立并提供经常性预算，但保持学术与运营独立）以及独立慈善／基金会型（如英国 [[Education Endowment Foundation|EEF]]、土耳其 ERG，由慈善基金会或社会资本出资成立，拥有完全独立的治理架构）（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 61–62]]）。
+> - **与政府部委的治理依附关系（Relationship with the Ministry）** 决定机构自主权与政策影响力的首要制度维度，呈现三类典型光谱：部委嵌入型（如新西兰 [[Best Evidence Synthesis|BES]]、荷兰 [[Kenniskamer]]，完全依附部委目标与预算）、政府资助自治型（如[[National Institute for Educational Policy Research|日本国立教育政策研究所]] NIER、挪威知识中心、瑞士 [[Swiss Coordination Centre for Research in Education|SKBF]]，由政府设立并提供经常性预算，但保持学术与运营独立）以及独立慈善／基金会型（如英国 [[Education Endowment Foundation|EEF]]、土耳其 [[Education Reform Initiative|ERG]]，由慈善基金会或社会资本出资成立，拥有完全独立的治理架构）（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 61–62]]）。
 > - **目标受众与服务形态分化（Target Audience）** 从早期单一服务于中央部委高层政策咨询，演进为涵盖政策、实践与公众媒体的多维辐射体系。政策端侧重快速综述（Rapid Reviews）与[[Data Literacy|数据素养]]培训；实践端侧重开发通俗易懂的母语知识门户（如荷兰 NRO [[Kennisrotonde|知识环岛]] Kennisrotonde）与实体学校研究网络（如 EEF 研究学校网络）；媒体端设立专门证据沟通中心（如英国 [[Education Media Centre]]）反制虚假陈述（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 62–63]]）。
 > - **质量保障规程与方法学阵营（Methodologies and Standards）** 围绕“何为合规有效证据”形成两大方法论取向：一是以美国 [[What Works Clearinghouse|WWC]]、英国 [[Education Endowment Foundation|EEF]] 和 坎贝尔协作网 为代表的[[Randomised Controlled Trials|随机对照试验]]（RCT）黄金标准派，侧重可复制干预措施的因果效应评估与成本核算；二是以英国 [[EPPI-Centre]]、挪威知识中心和瑞典教育法为代表的多元方法论派，坚持质性与量化证据的系统综合，并赋予教师[[Phronesis|实践智慧]]与学术研究平等的本体地位（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 63–64]]）。
 > - **[[Epistemic Governance|知识治理]]的三维流程（Knowledge Governance Dimensions）** 中介机构系统覆盖三大环节：[[Knowledge Production|知识生产]]（引导专项课题基金、设定绩效目标与政策试验）、[[Knowledge Mediation|知识中介]]与传播（人员跨部门兼聘流动、专业素养培训与跨组织共享）以及[[Research Utilization|知识利用]]（将特定循证策略嵌入学校考核或与财政拨款挂钩）（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 61]]）。
