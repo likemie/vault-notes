@@ -3,8 +3,6 @@ title: Patient and Public Involvement
 aliases:
   - 患者与公众参与
   - PPI
-  - 以患者为中心
-  - Patient Centricity
   - patient and public involvement in research
 summary: "指在健康与科研全生命周期中由患者、照护者及公众作为主动研究伙伴共同参与研究设计、执行与成果转化的范式，旨在摆脱单纯被动受试者模式，确保科研成果切合真实生活需求并提升社会合法性"
 type: concept
@@ -43,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-11
+updated: 2026-09-13
 ---
 
 # Patient and Public Involvement

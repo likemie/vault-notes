@@ -3920,8 +3920,6 @@
     "aliases": [
       "患者与公众参与",
       "PPI",
-      "以患者为中心",
-      "Patient Centricity",
       "patient and public involvement in research"
     ]
   },
@@ -12178,7 +12176,8 @@
     "aliases": [
       "网络分析",
       "social network analysis",
-      "SNA"
+      "SNA",
+      "社会网络分析"
     ]
   },
   {
@@ -20844,7 +20843,8 @@
     "path": "wiki/facts/uk/Centre for the Use of Research and Evidence in Education.md",
     "aliases": [
       "CUREE",
-      "教育研究与证据使用中心"
+      "教育研究与证据使用中心",
+      "循证教育研究与使用中心"
     ]
   },
   {

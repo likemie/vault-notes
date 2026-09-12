@@ -10,7 +10,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Data Literacy]]"
   - "[[Phronesis]]"
   - "[[Epistemic Governance]]"
-  - "[[Patient and Public Involvement]]"
   - "[[Professional Judgment]]"
   - "[[Network Governance]]"
   - "[[Epistemology]]"
@@ -174,7 +173,7 @@ updated: 2026-09-13
 > 借助循证医学的成熟反思，审视教育中介在过度推进标准化工具包与数字化决策系统时对教师专业自主性造成的反噬机制。
 
 > [!claim] Greenhalgh et al.
-> **循证医学危机对教育中介的五重警示** 循证医学运动暴露出五大意外后果：循证质量标志被既得商业利益绑架、临床指南数量泛滥导致无法消化、微弱的统计学显著性缺乏实际临床意义、单一指南无法适应复杂多重并发症，以及机械的技术化决策提示抹杀[[Patient and Public Involvement|以患者为中心]]的临床智慧。这些异化倾向高度平行于教育领域：若教育中介机构仅热衷于打造刚性干预指南和技术驱动的决策算法，将导致一线教学被拆解为碎片化的标准化流程，严重侵蚀教师的[[Phronesis|实践智慧]]与[[Professional Judgment|专业判断]]（Greenhalgh et al., 2014; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 65–66]]）。
+> **循证医学危机对教育中介的五重警示** 循证医学运动暴露出五大意外后果：循证质量标志被既得商业利益绑架、临床指南数量泛滥导致无法消化、微弱的统计学显著性缺乏实际临床意义、单一指南无法适应复杂多重并发症，以及机械的技术化决策提示抹杀以患者为中心的临床智慧。这些异化倾向高度平行于教育领域：若教育中介机构仅热衷于打造刚性干预指南和技术驱动的决策算法，将导致一线教学被拆解为碎片化的标准化流程，严重侵蚀教师的[[Phronesis|实践智慧]]与[[Professional Judgment|专业判断]]（Greenhalgh et al., 2014; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 65–66]]）。
 
 > [!claim] Lubienski
 > **从客观[[Boundary Spanner|边界跨越者]]退化为利益游说商** 在商业资本与教育科技（EdTech）大举侵入教育知识系统的背景下，原本承担客观中介职能的机构与专家面临被市场裹挟的严峻风险。中介话语极易从公正连接供需的“边界跨越者”（Boundary Spanners）蜕变为借由“证据知情”黄金外衣兜售特定商业产品与技术方案的“自利操纵者”（Spinners），将公共循证运动异化为商业营销手段（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 60]]）。

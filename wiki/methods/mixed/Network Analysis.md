@@ -1,107 +1,191 @@
 ---
 title: Network Analysis
-aliases: [网络分析, social network analysis, SNA]
-summary: "通过识别行动者、关系、节点和连接来分析社会网络结构和动态的方法，从社会计量学发展而来，可用于定性和定量数据分析。"
+aliases:
+  - 网络分析
+  - social network analysis
+  - SNA
+  - 社会网络分析
+summary: "通过识别行动者、关系、节点和连接来测量社会关系结构与动态的混合方法，广泛应用于课堂人际互动、学校组织协作及跨国政策中介网络的结构解析。"
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 14
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
-tags: [method/mixed, data-analysis, theme/social-relations, theme/network]
+tags:
+  - method/mixed
+  - data-analysis
+  - theme/social-relations
+  - theme/network
+  - theme/knowledge-mobilisation
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
+  - "[[Hypothesis]]"
   - "[[Epistemology]]"
-  - "[[Variable]]"
   - "[[Emergence]]"
-  - "[[Habitus]]"
-  - "[[Causality]]"
+  - "[[Reliability]]"
+  - "[[Construct Validity]]"
+  - "[[Construct]]"
   - "[[Research Question]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Gatekeepers]]"
+  - "[[Structural Holes]]"
+  - "[[Knowledge Mediation]]"
+  - "[[Policy Brokerage]]"
+  - "[[Boundary Spanner]]"
+  - "[[Causality]]"
+  - "[[Ontology]]"
+  - "[[Knowledge Mobilisation]]"
 related_theories:
   - "[[Complexity Theory]]"
 related_methods:
-  - "[[Sociometry]]"
-  - "[[Sample Size Determination]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
+  - "[[In-depth Interview]]"
   - "[[Accounts]]"
-  - "[[Analytic Framework]]"
+  - "[[Sociometry]]"
+  - "[[Data Transformation]]"
+  - "[[Qualitative Observation]]"
+  - "[[Qualitative Interview]]"
+  - "[[Triangulation]]"
+  - "[[Participant Observation]]"
+related_instruments: []
+related_persons: []
+related_facts:
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
-confidence: medium
-status: draft
+  - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+confidence: high
+status: active
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-09-13
 ---
+
 # Network Analysis
+
+---
 
 ## 定义
 
 > [!def] 方法定义
-> 网络分析（network analysis / social network analysis）是识别和分析社会情境中**行动者及其关系**的方法。它试图测量和绘制社会关系中的结构规律性——即社会实体之间关系的规律模式（Knoke & Yang, 2008, p. 4）。核心[[Hypothesis|假设]]是这些宏观—结构关系比年龄、性别、阶级等传统类别更有力地解释人们的行为（pp. 4–5），且关系是**语境特定**和**动态的**（p. 5）。
+> 网络分析（Network Analysis / Social Network Analysis, SNA）是一门用于测量、绘制和解释社会情境中**行动者及其连接关系结构规律性**的混合研究方法（Knoke & Yang, 2008, p. 4）。其核心理论假定认为，行动者在网络中的位置与连接形态（即宏观-结构关系）比年龄、性别、阶级等个体传统属性能够更深刻地解释其社会行为与认知流动，且网络关系具有高度的情境特定性（Context-Specific）与时间演进动态性（Dynamic）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al., 2011, pp. 625–626]]）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 社会网络中的行动者（actors）和关系（relations）、节点（nodes）和连接（ties）、以及网络整体的结构特征。
-> - **问题类型** 谁与谁连接、连接强度如何、谁是关键行动者、网络结构如何影响个体行为和群体结果。
-> - **[[Unit of Analysis|分析单位]]** 个体（自我中心网络）、对偶、三人组、完整网络（宏观层次）——每个层次必须以自身术语分析，不能完全由低层元素解释（Knoke & Yang, 2008, pp. 13–15）。
-> - **输出形式** 社会图（sociograms）、网络图形、矩阵、中心性测量、树状图、块模型等。
+> - **研究对象** 社会与组织网络中的行动者（Actors / 节点 Nodes）、关系与纽带（Relations / 连接 Ties），以及网络整体的拓扑结构特征。
+> - **适用问题** 识别核心关键行动者（中心度）、分析信息与资源流动阻滞点、探测凝聚子群（小集团 / 派系 Cliques）、评估跨组织中介与边界跨越效应。
+> - **[[Unit of Analysis|分析单位]]** 个体层次（自我中心网络 Ego-Network） $\to$ 对偶层次（Dyads） $\to$ 三元闭包层次（Triads） $\to$ 完整跨组织/宏观系统网络（Whole Network）（Knoke & Yang, 2008, pp. 13–15）。
+> - **典型输出** 社会关系网络图（Sociograms）、邻接矩阵（Adjacency Matrices）、中心性指数、网络密度、核心-边缘结构模型（Core-Periphery Models）。
+
+> [!citation-card]- 关键定义：社会网络分析的结构解释力
+> 社会网络分析试图测量和绘制社会实体之间关系的规律模式。其基本理论前提是，解释人们行为的关键不在于其孤立的个体属性，而在于其所嵌入的社会网络结构规律。
+>
+> *"Social network analysis seeks to measure and map the structural regularities of relationships among social entities... The core [[Hypothesis]] is that these macro-structural relations explain people’s behaviour more powerfully than traditional individual categories."*（Knoke & Yang, 2008，引于 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al., 2011, p. 625]]）
+
+---
 
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 网络中的关系是解释行为的关键[[Variable|变量]]，整体网络具有不同于个体总和的[[Emergence|涌现]]属性（类似[[Complexity Theory|复杂性理论]]）。关系是情境特定和动态的。
-> - **研究者角色** 研究者需要识别[[Unit of Analysis|分析单元]]、界定关系形式、内容和连接类型，并选择适当的分析层次和展示方式。
-> - **有效性标准** 描述系统需要有效（适当、完整、忠实）且可靠（使用者之间可接受的同意水平）；网络还需满足清晰性、自洽性、可学[[Habitus|习性]]和可检验性等标准（Bliss et al., 1983）。
-> - **不声称回答的问题** 不能从网络结构描述直接推出[[Causality|因果关系]]；每个分析层次的发现不能完全还原为低层元素的解释。
+> - **知识观** 关系实在论（Relational Realism）。认为社会现实是由相互联系的纽带构成的系统，整体网络具有超越个体属性之和的[[Emergence|涌现]]特征（Emergent Properties），与[[Complexity Theory|复杂性理论]]深度契合。
+> - **研究者角色** 兼具客观测度与质性解释：量化提取网络拓扑结构指标，结合田野访谈解释关系背后的信任、权力、专业互助或资源交换意图。
+> - **有效性标准** 边界界定的完整性与合理性、关系数据重测一致性（[[Reliability]]），以及关系测度与真实社会互动的[[Construct Validity|建构效度]]（[[Construct]] Validity）。
+> - **不声称回答的问题** 不能从静态网络拓扑结构截面数据中直接推断确定性因果方向；每个分析层次的涌现规律不能完全简化还原为低层次个体的心理偏好。
 
 > [!method-stack] 方法层级
-> - **研究设计** 社会网络分析、系统网络分析（Bliss et al., 1983）
-> - **数据收集** 结构化问题（如"从这群人中你会找谁寻求专业建议？"）、观察、文本陈述
-> - **分析方法** [[Sociometry|社会计量学]]（Moreno）、关系测量、中心性和声望分析、小集团检测、结构等价分析
-> - **辅助技术** UCINET、StOCNET等软件（Knoke & Yang, 2008）；社会图、矩阵、树状图、块模型
+> - **研究设计** [[Mixed Methods Research|混合方法]]社会网络分析（Mixed-Methods SNA）、全网络纵向追踪、多层自我中心网络设计。
+> - **数据收集** 关系名录调查[[Questionnaire|问卷]]（如“你在日常教学中会向谁寻求专业咨询？”）、数字化沟通交互日志提取、[[In-depth Interview|深度访谈]]与[[Accounts|陈述法]]（[[Accounts]]）。
+> - **分析方法** [[Sociometry|社会计量学]]测度、中心度与中介度计算、网络密度分析、QAP 关系[[Hypothesis|假设]]检验、块模型（Blockmodeling）。
+> - **辅助软件** UCINET、NetDraw、Gephi、Pajek，以及 R 语言扩展包（`igraph`、`tidygraph`、`sna`）、Python（`networkx`）。
+
+---
 
 ## 研究程序
 
-### 混合方法模块
+> [!proc] 通用研究规程
+> 1. **界定[[Research Question|研究问题]]与网络边界** 明确分析对象为班级同伴、学校教研网络还是跨国[[Educational Brokerage Agency|知识中介机构]]网络，采用名录列表法（Roster）或自由提名滚雪球法确定网络边界。
+> 2. **确定关系形式与内容维度** 明确连接的实质内容：寻求专业建议、资源共享、政策咨询或情感支持；界定有向（Directed）或无向（Undirected）、二元（0/1）或赋权（Weighted）连接。
+> 3. **构建关系矩阵与清洗数据** 将收集的关系[[Data Transformation|数据转换]]为 $N \times N$ 的邻接矩阵，处理对称性与缺失节点。
+> 4. **计算网络拓扑测度** 计算网络整体密度、传递性、各节点度数与中介中心度，探测子群聚类。
+> 5. **混合质性情境化解释** 结合访谈与[[Qualitative Observation|田野观察]]，解释高中心度节点的领导力成因及孤立边缘节点的结构性阻隔。
 
-> [!proc] 社会网络研究的五个分析维度（Knoke & Yang, 2008）
-> 1. **单位** 识别网络中的行动者——个体、集体群体、组织、协会、政党等
-> 2. **关系形式** 结构模式：对偶、三人组、明星、链等；关系性质：从属、上级、竞争、合作、和谐、冲突；关系的强度、密度和频率（p.11）
-> 3. **关系内容** 行动者的目的、动机和利益；关系的实质：如寻求个人支持的朋友网络，或寻求专业建议的导师网络
-> 4. **连接类型**（p.11）关系所属领域：政治网络、社会网络、专业网络、个人网络
-> 5. **数据分析层次**（pp.13–15）个体层次（自我中心网络）→ 对偶层次 → 三人组层次 → 完整网络（宏观层次）。每个层次须以自身术语分析，低层次不能完全解释高层次
+### 量化分析与核心测度公式
 
-### 量化方法模块
+> [!formula-step] 公式步骤一　点度中心度（Degree Centrality）
+> $$C_D(n_i) = d(n_i) = \sum_{j=1}^{g} x_{ij}$$
+>
+> **这个公式在做什么** 计算网络中与特定节点 $n_i$ 直接相连的邻居节点总数（在有向图中拆分为点入度 In-Degree 与点出度 Out-Degree）。
+>
+> **符号说明** $n_i$ 为目标节点；$x_{ij}$ 为节点 $i$ 与节点 $j$ 之间的连接值（1 为有连接，0 为无连接）；$g$ 为网络中的节点总规模。
+>
+> **数学直觉** 衡量节点在网络中的直接可达性与活跃程度。
+>
+> **结果怎么读** 在教师教研网络中，点入度高代表该教师被大量同行视为专业求助对象（教学权威或核心顾问）；点出度高代表该行动者对外寻求信息的积极度。
 
-> [!method-stack] 关系类型学与展示方式
-> - **关系类型学**（Knoke & Yang, 2008, p. 12）交易（礼物给予与接收）、沟通（信息传递）、边界穿透（多网络参与）、工具性（获取所需之物）、情感、权威/权力、亲属与血缘
-> - **展示与测量** 矩阵（p. 49）、关系测量（p. 51）、有向和无向图（pp. 56–62）、中心性和声望测量（pp. 62–72）、小集团（pp. 72–76）、结构等价（pp. 76–79）、树状图（pp. 79–85）、块模型（pp. 85–91）
+> [!formula-step] 公式步骤二　中介中心度（Betweenness Centrality）
+> $$C_B(n_i) = \sum_{j < k} \frac{g_{jk}(n_i)}{g_{jk}}$$
+>
+> **这个公式在做什么** 测算目标节点 $n_i$ 位于网络中其他所有节点对最短路径（Geodesic Paths）上的频率，量化其扮演“信息[[Gatekeepers|把关人]]”与“桥梁”的能力。
+>
+> **符号说明** $g_{jk}$ 为节点 $j$ 与节点 $k$ 之间的最短路径总数；$g_{jk}(n_i)$ 为包含节点 $n_i$ 的最短路径条数。
+>
+> **数学直觉** 捕捉处于“[[Structural Holes|结构洞]]”（Structural Holes）关键位置的节点对跨网络信息流动的控制力。
+>
+> **结果怎么读** 在跨组织[[Knowledge Mediation|知识中介]]网络中，中介中心度高的组织（如跨国元中介）承担连接不同学术子网络与实践群体的关键中介功能（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 67–68]]）。
+
+> [!formula-step] 公式步骤三　网络密度（Network Density）
+> $$\Delta = \frac{2L}{g(g-1)}$$
+>
+> **这个公式在做什么** 计算无向网络中实际存在的连接总数 $L$ 与理论上可能存在的最大连接数之比。
+>
+> **符号说明** $L$ 为网络实际拥有的边数；$g$ 为网络节点总数。
+>
+> **数学直觉** 衡量整体网络的连通紧密度与关系丰富程度，取值介于 0 到 1 之间。
+>
+> **结果怎么读** 密度过低意味着网络松散碎片化，存在大量孤岛；密度过高则可能引发信息同质化与小集团壁垒。
+
+---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 分析课堂、学校或组织中的社会关系结构；识别群体中的关键行动者和影响力模式；研究信息流动、社会支持和专业协作网络；分析在线社交网络和教育社区。
-> - **谨慎使用** 当网络边界难以清晰界定时；当关系数据的收集依赖于参与者准确报告时；当网络分析的静态快照可能忽略动态变化时。
-> - **不适合使用** 当[[Research Question|研究问题]]关注个体内在属性而非关系时；当[[Sample Size Determination|样本量]]过小无法形成有意义的网络结构时。
+> - **适合使用** 
+>   - 分析学校内部教师专业学习社群中的“同行建议寻求”网络结构；
+>   - 解析跨区域、跨国教育[[Policy Brokerage|政策中介]]机构（如 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]）之间的合作与资源共享拓扑；
+>   - 识别教育改革推进中的关键“[[Boundary Spanner|知识经纪人]]”（Knowledge Brokers）与孤立学校；
+>   - 测度在线教师研修社区中的社会互动与知识共建质量。
+> - **谨慎使用** 参与者流动频繁的临时项目网络；网络边界模糊且难以界定纳入排除标准的社会群体。
+> - **不适合使用** 纯粹关注个体心理认知属性而脱离人际互动的实验心理学研究；样本规模极小（小于 5 人）难以形成拓扑结构的情境。
+
+---
 
 ## 局限性
 
-> [!method-limits] 方法局限
-> - **偏误来源** 网络边界界定的任意性；参与者报告关系时的回忆偏差和社会期望偏差；关系数据的敏感性可能导致不完整报告。
-> - **适用边界** 网络分析的结果高度依赖于所选择的关系类型和网络边界；静态网络分析可能无法捕捉网络的动态演化。
-> - **误用风险** 将网络描述等同于因果解释；忽略网络关系的情境特定性；过度依赖图形展示而忽略定量测量的局限性。
-> - **补救方式** 多重关系类型的收集和比较；纵向网络数据收集；结合质性陈述分析以理解关系背后的意义。
+> [!method-limits] 方法局限与反思
+> - **边界界定偏差（Boundary Specification Problem）** 人为划定网络边界极易切断跨界连接，导致边缘节点被误判为结构性孤立。
+> - **静态截面与[[Causality|因果推断]]陷阱** 传统横截面网络图往往忽略动态演化；将中心度高直接等同于因果影响力可能产生内生性偏差（如高威望导致的连接集中，而非连接带来威望）。
+> - **自报告关系的数据敏感性** 询问“你最信任谁/向谁求助”容易引发社会赞许偏差（Social Desirability Bias）或防范心理，导致关键隐性网络漏报。
+> - **应对策略** 引入纵向多期网络动态模型（如 SIENA 模型），并结合深度[[Qualitative Interview|质性访谈]]进行[[Triangulation|三角互证]]。
+
+---
 
 ## 相关理论与方法
 
 > [!entry-map]
 >
 > | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Sociometry]] | 前置方法 | 社会计量学（Moreno, 1934）是网络分析的早期基础，提供了明星、对偶、三人组等核心概念 |
-> | [[Accounts]] | 姐妹方法 | 陈述法为网络分析提供关于社会情境和行动者意图的质性数据 |
+> |:---|:---|:---|
+> | [[Sociometry]] | 前置方法 | 莫雷诺（Moreno, 1934）社会计量学是社会网络分析的奠基之源，确立了点线图基石。 |
+> | [[Accounts]] | 补充质性方法 | 陈述法为量化网络拓扑提供行动者主观动机与情境意义的质性透镜。 |
+> | [[Complexity Theory]] | 对应理论基础 | 网络[[Emergence\|涌现]]属性与复杂自适应系统论为网络分析提供了[[Ontology\|本体论]]支撑。 |
+> | [[Educational Brokerage Agency]] | 研究应用对象 | 网络分析用于解析多国教育中介机构之间的横向协作与知识流转。 |
+> | [[Knowledge Mediation]] | 研究应用领域 | 网络分析是测度[[Knowledge Mobilisation\|知识动员]]中多方主体社会关系互动的核心工具。 |
+
+---
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章系统介绍网络分析从Bliss等人的系统网络分析到Knoke & Yang的社会网络[[Analytic Framework|分析框架]]，包括[[Sociometry|社会计量学]]基础、五分析维度、七种关系类型学和多种展示方式。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 系统梳理社会网络分析的方法论源流、五大分析维度、七大关系类型学及矩阵图形展示技术。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 运用[[Participant Observation|参与观察]]与网络分析方法，深入剖析欧洲 23 国 36 家机构构成的 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国教育[[Knowledge Mediation|知识中介]]网络，提炼元中介协同维系机制与制度张力。

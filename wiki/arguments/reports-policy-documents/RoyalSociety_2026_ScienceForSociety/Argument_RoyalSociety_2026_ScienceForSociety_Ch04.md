@@ -42,10 +42,10 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Citizen Science]]"
   - "[[Growth]]"
-  - "[[Patient and Public Involvement]]"
   - "[[Paradigm]]"
   - "[[Informed Consent]]"
   - "[[Clinical Trial]]"
+  - "[[Patient and Public Involvement]]"
   - "[[Hypothesis]]"
   - "[[Theories of Policy Change]]"
   - "[[Document]]"
@@ -82,7 +82,7 @@ related_facts:
   - "[[Gatsby Benchmarks]]"
 status: draft
 created: 2026-09-04
-updated: 2026-09-07
+updated: 2026-09-13
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch04
 
@@ -246,7 +246,7 @@ updated: 2026-09-07
 不同行业在应对公众关切中摸索出了差异化的参与路径，其中新兴数据赋能技术的民主审议尤为紧迫。（pp. 71–73）
 
 > [!claim] 步骤三核心主张
-> 传统核能、交通基建与生命科学已逐步探索出透明协商、社区大使及[[Patient and Public Involvement|以患者为中心]]（Patient Centricity）的全生命周期参与[[Paradigm|范式]]；然而，在关系国家未来竞争力的数据与人工智能（AI）前沿领域，公众利益认可度极低（仅 33% 认同利大于弊），商业 AI 实验室的公众参与多停留在碎片化、临时性的公关试验层面，亟需构建全流程的常态化民主审议机制。（pp. 71–73）
+> 传统核能、交通基建与生命科学已逐步探索出透明协商、社区大使及以患者为中心（Patient Centricity）的全生命周期参与[[Paradigm|范式]]；然而，在关系国家未来竞争力的数据与人工智能（AI）前沿领域，公众利益认可度极低（仅 33% 认同利大于弊），商业 AI 实验室的公众参与多停留在碎片化、临时性的公关试验层面，亟需构建全流程的常态化民主审议机制。（pp. 71–73）
 
 #### 主题一：传统工业与重大基础设施的群己共商转型（核能与交通）
 
@@ -457,7 +457,7 @@ updated: 2026-09-07
 >
 > *Historical negative examples – notably the tobacco industry's systematic suppression of evidence regarding health harms – have embedded a deep-seated public scepticism that when profit motives dominate, scientific evidence and public wellbeing are compromised. This historical damage easily spills over to other sectors. Securing and maintaining a social licence to operate requires companies to demonstrate unassailable [[Responsible Conduct of Research|research integrity]] and candid two-way dialogue.*
 
-> [!citation-card]- [[Patient and Public Involvement|以患者为中心]]：真实生活经验赋能科研
+> [!citation-card]- 以患者为中心：真实生活经验赋能科研
 > 医学研究必须超越冰冷的生物物理与生化指标；患病者及其照护者的真实生活经验（Lived Experience）不仅是一种人道关切，更是一种关键的[[Epistemic Resources|认识论资源]]。当患者在研发立项、方案设计与结局评价中拥有平等的决策席位时，临床研究的依从性、质量与社会效益均获得质的飞跃。（pp. 71, 74）
 >
 > *Medical research must look beyond clinical and biochemical endpoints; the lived experience of patients and carers is not merely a humanitarian concern, but a crucial epistemological resource. When patients have equal decision-making seats in priority-setting, trial design and outcome evaluation, the adherence, quality and societal impact of clinical research are profoundly enhanced.*
