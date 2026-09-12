@@ -10,7 +10,7 @@ aliases:
 summary: "循证教育治理中的制度化中介机构，指通过设定因果证据标准、审查实证研究并发布项目有效性评级的专业实体平台；在更广泛的知识治理中涵盖部委嵌入、自主资助与独立慈善等多元制度谱系；实证研究表明其评级面临显著的跨机构门槛分歧与构念效度挑战，且在长效存续上面临2至3年短期政治预算周期的制度性制约。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 90
+related_count: 93
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -95,7 +95,10 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Best Evidence Synthesis]]"
+  - "[[Canadian Council on Learning]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Kennisrotonde]]"
+  - "[[Education Media Centre]]"
   - "[[EPPI-Centre]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
@@ -191,7 +194,7 @@ updated: 2026-09-13
 > - **治理依附关系维度（Institutional Location）**
 >   机构在体制上与中央/地方教育行政部门的从属关系，涵盖部委内部直属嵌入型（如新西兰 [[Best Evidence Synthesis|BES]]、荷兰 Kenniskamer）、政府资助的独立法定法人型（如日本 NIER、挪威知识中心、加拿大 [[Canadian Council on Learning|CCL]]），以及完全独立的民间慈善/基金型（如英国 [[Education Endowment Foundation|EEF]]、土耳其 ERG）。
 > - **目标受众与沟通定位维度（Target Audience）**
->   机构的核心服务对象与信息转译方向，分化为服务内阁宏观立法的政策导向型、服务中小学课堂日常的实践导向型（如荷兰 NRO 知识环岛、EEF 工具包），以及专门反制媒体伪科学炒作的媒介沟通型（如[[Education Media Centre|英国教育媒体中心]]）。
+>   机构的核心服务对象与信息转译方向，分化为服务内阁宏观立法的政策导向型、服务中小学课堂日常的实践导向型（如荷兰 NRO [[Kennisrotonde|知识环岛]]、EEF 工具包），以及专门反制媒体伪科学炒作的媒介沟通型（如[[Education Media Centre|英国教育媒体中心]]）。
 > - **证据审查与方法学立场维度（Synthesis Stance）**
 >   机构对待证据合法性的[[Epistemology|认识论]]路线，分化为主张唯 RCT 与准实验为准绳的因果实证派（如美国 WWC、英国 EEF），以及主张质性经验、[[Case Study|个案研究]]与多元[[Mixed Methods Research|混合方法]]具有平等认识论地位的多[[Meta-meta-analysis|元综合]]派（如英国 UCL [[EPPI-Centre]]、挪威知识中心）。
 

@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 33
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Engagement in and with Research]]"
   - "[[Paradigm]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Emergence]]"
   - "[[Empiricism]]"
@@ -56,18 +57,20 @@ related_methods:
   - "[[Survey Research]]"
 related_instruments: []
 related_persons:
+  - "[[Tracey Burns]]"
   - "[[Jonathan Sharples]]"
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Best Evidence Synthesis]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Revai(Ed.)_2022_OECD]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Strengthening the Impact of Education Research Project
@@ -81,7 +84,7 @@ updated: 2026-09-12
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2021 年正式立项并启动第一阶段调查；2022 年 11 月发布首阶段综合研究著作；目前处于深入各专题机制评估的常态化推进阶段。
-> - **发起方与资助机制** 由 OECD CERI 理事会决议立项，在 OECD 第二部分（Part II）预算框架与成员国专项自愿捐助下运行，Nóra Révai 担任项目主任并组建跨学科专家顾问委员会（汇聚 Tracey Burns、David Gough、[[Jonathan Sharples]]、Annette Boaz 等学者）。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 4, 16)]]
+> - **发起方与资助机制** 由 OECD CERI 理事会决议立项，在 OECD 第二部分（Part II）预算框架与成员国专项自愿捐助下运行，Nóra Révai 担任项目主任并组建跨学科专家顾问委员会（汇聚 [[Tracey Burns]]、David Gough、[[Jonathan Sharples]]、Annette Boaz 等学者）。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 4, 16)]]
 > - **覆盖范围与对象** 调查覆盖 29 个 OECD 成员国与伙伴经济体的 37 个国家或次国家级（联邦制下各省/州）教育部及教育主管厅局，并跟进访谈 6 个代表性国家的决策高官。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 25–26)]]
 > - **核心问题导向** 破解[[Evidence-Based Education|循证教育]]二十年来的元研究困境——在各类中介机构激增的背景下，究竟何种组织结构、关系网络、激励机制与专业能力能够切实促成教育研究的高质量使用（What works in what works）。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–17)]]
 
@@ -120,9 +123,9 @@ updated: 2026-09-12
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与统筹中枢（[[Centre for Educational Research and Innovation|OECD CERI]]）** 负责项目立项、预算配置、调查框架研发、跨国数据清洗与旗舰成果编撰发布。
-> - **专家顾问与方法论网络** 汇聚来自英国、澳大利亚、加拿大等国顶尖教育学院与知识中介机构的学者网络，提供理论指导与框架审议。
+> - **专家顾问与方法论网络** 汇聚来自英国、澳大利亚、加拿大等国顶尖教育学院与[[Educational Brokerage Agency|知识中介机构]]的学者网络，提供理论指导与框架审议。
 > - **受测核心执行方（各国教育部系统）** 各国教育部常务秘书、战略司局长及联邦制下各省/州教育厅协调中心，承担官方答卷与访谈对接。
-> - **生态延伸节点（中介机构与大学）** 将英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）、新西兰最佳证据综合（BES）、大学科研团队等纳入跨国机制案例池。
+> - **生态延伸节点（中介机构与大学）** 将英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）、新西兰[[Best Evidence Synthesis|最佳证据综合]]（BES）、大学科研团队等纳入跨国机制案例池。
 
 > [!pathways]- 实施路径与管理
 > - **官方直通调研通道** 依托 [[OECD]] 传统的政府间网络直接触达最高行政长官，确保政策调研直击核心行政机制。

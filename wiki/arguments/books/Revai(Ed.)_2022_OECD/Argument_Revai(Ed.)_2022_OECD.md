@@ -7,7 +7,7 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -65,7 +65,8 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Design-Based Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Tracey Burns]]"
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -188,7 +189,7 @@ updated: 2026-09-13
 > - **已处理章节**
 >   - Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]。Nóra Révai 梳理证据知情话语与[[Knowledge Mobilisation|知识动员]]概念演进，界定研究、证据与知识边界，批判线性模型并引入复杂系统论视角，确立 [[OECD]] 政策调查设计与全书分析架构。
 >   - Ch. 02 [[Argument_Torres_2022_KMModels]]。José Manuel Torres 借助 Best & Holmes 三代模型透镜，横向比较跨领域四大主流知识动员模型（Lavis、Graham KTA、Levin [[Research Knowledge Mobilisation Model|RKM]]、Gough 证据生态），结合微观行为改变与教师声音前沿，确立未来[[Evidence Ecosystem|证据生态系统]]模型的建构路标。
->   - Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]。Tracey Burns & [[Theory of Mind|ToM]] Schuller 考证 2007–2022 年全球[[Educational Brokerage Agency|教育中介机构]]演进史，揭示后真相时代挑战与实践倾斜诱发的政策脱责隐忧，借助循证医学危机剖析证据商业化与刚性指南的负面效应，指出机构受制于 2–3 年政治预算周期的存续悖论，并倡导推进“中介的中介”（Brokering the Brokers）以建构跨国[[Cumulative Knowledge Base|累积性知识库]]。
+>   - Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]。[[Tracey Burns]] & [[Theory of Mind|ToM]] Schuller 考证 2007–2022 年全球[[Educational Brokerage Agency|教育中介机构]]演进史，揭示后真相时代挑战与实践倾斜诱发的政策脱责隐忧，借助循证医学危机剖析证据商业化与刚性指南的负面效应，指出机构受制于 2–3 年政治预算周期的存续悖论，并倡导推进“中介的中介”（Brokering the Brokers）以建构跨国[[Cumulative Knowledge Base|累积性知识库]]。
 > - **优先处理章节**
 >   - Ch. 04（Hill）与 Ch. 05（Torres）：OECD 政策调查跨国实证数据的核心承载章节，详述行动者网络与机制障碍。
 >   - Ch. 07（Gough et al.）：探讨中介机制本身的循证检验（Evidence on EIPP），奠定元研究方法论标准。

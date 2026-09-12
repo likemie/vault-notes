@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 67
+argument_related_count: 68
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -89,7 +89,9 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Tracey Burns]]"
+  - "[[Tom Schuller]]"
 related_facts:
   - "[[OECD]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
@@ -99,6 +101,7 @@ related_facts:
   - "[[Canadian Council on Learning]]"
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Kennisrotonde]]"
   - "[[Education Media Centre]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[Institute for Effective Education]]"
@@ -174,7 +177,7 @@ updated: 2026-09-13
 > | | 教育研究协调中心<br>（SKBF / CSRE） | 瑞士 | 联邦与各州联席常设机构<br>（独立法定法人） | 由瑞士联邦与各州教育局长联席会议联合出资；协调多语种与分权体制下的国家科研中介。 | **持续活跃**<br>（联邦制下多方利益相关者联合资助的稳定范式） |
 > | | 教育改革倡议<br>（ERG） | 土耳其 | 民间大学智库<br>（萨班哲大学） | 完全由土耳其主流慈善基金会联合支持；在缺乏政府主动资助的环境下维系独立教育中介服务。 | **持续活跃**<br>（民间社会资本支撑中介组织自主存续） |
 > | | 澳大利亚教育研究组织<br>（AERO） | 澳大利亚 | 国家级法定独立机构<br>（联邦与各州联合设立） | 2021 年新建，致力于生成高等级实践指南、开展前沿因果试验并提升全国教育[[Research Utilization\|证据使用]]水平。 | **新兴拓展**<br>（新一代国家级教育中介制度化布局） |
-> | | 国家教育研究所知识环岛<br>（NRO Kennisrotonde） | 荷兰 | 官方科研资助机构延伸<br>（NRO 实践门户） | 设立双向咨询中继机制；由专业研究人员针对中小学教师日常困惑在规定期限内提供母语解答。 | **持续活跃**<br>（打通微观实践问答即时响应机制的高采纳度模式） |
+> | | 国家教育研究所知识环岛<br>（[[Kennisrotonde\|NRO Kennisrotonde]]） | 荷兰 | 官方科研资助机构延伸<br>（NRO 实践门户） | 设立双向咨询中继机制；由专业研究人员针对中小学教师日常困惑在规定期限内提供母语解答。 | **持续活跃**<br>（打通微观实践问答即时响应机制的高采纳度模式） |
 > | | [[Education Media Centre\|教育媒体中心]]<br>（EMC） | 英国 | 独立非营利媒介机构<br>（借鉴 SMC 模式） | 面向大众媒体记者提供快速事实核查与专家推荐；反制舆论场中的伪科学与片面夸大报道。 | **持续活跃**<br>（拓宽中介受众至公共舆论场，守护学术公信力） |
 > | **跨国协同网络样本** | 欧洲教育证据知情政策与实践网络<br>（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]） | 欧洲/跨国 | 跨国元中介协同网络<br>（欧盟资助后自主延续） | 汇聚 23 国 36 家正式机构与 7 家国际附属机构；首创公开网络大会与闭门伙伴会议双轨会议治理模式。 | **自律延续**<br>（官方资助终止后由成员自筹维持，启发跨国元中介探索） |
 
@@ -318,7 +321,7 @@ updated: 2026-09-13
 > | | **政府资助自治型** | 日本国立教育政策研究所（NIER）；<br>挪威教育知识中心；<br>瑞士 SKBF / CSRE；<br>[[Canadian Council on Learning\|加拿大 CCL]] | 依托国家立法设立独立行政法人、大学专业中心或联邦跨区域常设机构，享经常性公共预算。 | 享有法定的学术独立性与客观公信力，与日常政治官僚体系保持健康的专业距离。 | 跨部门协调沟通成本高；在联邦制分权博弈中极易面临财政撤销风险。 |
 > | | **独立慈善基金型** | 英国 [[Education Endowment Foundation\|EEF]]；<br>土耳其 ERG | 由独立慈善信托或民间大学基金会设立，依靠永久留本基金收益或社会捐赠维系运营。 | 战略自主性极强，彻底摆脱 2 至 3 年选举与短期预算周期撕扯，可长线布局。 | 与国家正式问责法规及教师认证体系脱节，若政策层不予吸纳容易导致体系外悬浮。 |
 > | **核心目标受众分工** | **政策制定导向型** | 早期中介机构；<br>部委咨询专家团；<br>日本 NIER 政策部 | 产出面向中央及地方决策层的快速政策简报、宏观指标监测与立法咨询报告。 | 紧扣大政方针制定与教育财政资源配置，宏观制度撬动力强。 | 文本表述高度抽象官僚化，严重脱离中小学微观课堂教学与教师真实学情。 |
-> | | **基层实践导向型** | 荷兰国家教育研究所知识环岛（NRO Kennisrotonde）；<br>英国 EEF 研究学校网络；<br>[[Centre for the Use of Research and Evidence in Education\|CUREE]] | 开发平实通俗的实践工具包、母语双向咨询问答平台，搭建校际同伴学习与教练网络。 | 直接支持一线教师微观决策，有效突破学术语言壁垒，提升课堂实践采纳度。 | 面临规模化复制中的情境稀释风险，易被政策制定者借以推卸自身制度保障责任。 |
+> | | **基层实践导向型** | [[Kennisrotonde\|荷兰国家教育研究所知识环岛]]（NRO Kennisrotonde）；<br>英国 EEF 研究学校网络；<br>[[Centre for the Use of Research and Evidence in Education\|CUREE]] | 开发平实通俗的实践工具包、母语双向咨询问答平台，搭建校际同伴学习与教练网络。 | 直接支持一线教师微观决策，有效突破学术语言壁垒，提升课堂实践采纳度。 | 面临规模化复制中的情境稀释风险，易被政策制定者借以推卸自身制度保障责任。 |
 > | | **大众媒体导向型** | [[Education Media Centre\|英国教育媒体中心]]（EMC） | 对接大众媒体记者与新闻采编室，提供突发教育议题的事实核查并推荐权威学者。 | 第一时间切断社交网络伪科学与夸大报道传播链，维护教育科学的公共公信力。 | 工作完全受制于外部突发新闻议程与舆论热点，难以自主规划长效系统的研究体系。 |
 > | **证据审查与方法学立场** | **因果实证派<br>（RCT 黄金标准）** | 美国 [[What Works Clearinghouse\|WWC]]；<br>英国 EEF；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 确立随机对照试验（RCT）为[[Causality\|因果推断]]黄金标准，执行极其严苛的证据准入门槛与偏倚评估。 | 研究结论的[[Internal Validity\|内部效度]]极高，能够为特定干预手段提供确凿的因果效应量支撑。 | 排斥非实验性质性知识，筛选通过率畸低，难以阐释复杂生态中的“为何有效与如何发生”。 |
 > | | **多元综合派<br>（混合与多元方法）** | 英国伦敦大学学院 [[EPPI-Centre\|EPPI-Centre]]；<br>挪威教育知识中心；<br>新西兰 BES | 坚持质性、量化与[[Mixed Methods Research\|混合方法]]的全面系统综合，开发吸纳教师临床[[Phronesis\|实践智慧]]的多元评审规程。 | [[Ecological Validity\|生态效度]]极高，兼顾文化适应性与复杂微观语境，全面护持教师专业判断。 | 综合方法学规程繁复漫长，缺乏一刀切的量化直观指标，对使用者的批判素养要求高。 |
@@ -335,7 +338,7 @@ updated: 2026-09-13
 在目标受众拓展方面，荷兰与英国开发了直面一线实践与大众传媒的创新中介机制（p. 62）：
 
 > [!case] 实践与媒体导向的前沿中介工具案例
-> - **荷兰国家教育研究所知识环岛（NRO Kennisrotonde）** 荷兰国家教育研究所（Netherlands Initiative for Education Research, NRO）为一线实践者设立专门知识门户，不仅提供通俗的母语[[Abstract|研究摘要]]，更创新建立“知识环岛”（kennisrotonde）中继咨询机制：一线教师与学校可以直接提出日常教学与管理困惑，由专业研究人员在规定期限内检索、综合相关[[Document|文献]]，提供定制化的荷兰语通俗解答，实现了极高的政策与实践采纳度。（p. 62）
+> - **荷兰国家教育研究所知识环岛（NRO Kennisrotonde）** 荷兰国家教育研究所（Netherlands Initiative for Education Research, NRO）为一线实践者设立专门知识门户，不仅提供通俗的母语[[Abstract|研究摘要]]，更创新建立"知识环岛"（kennisrotonde）中继咨询机制：一线教师与学校可以直接提出日常教学与管理困惑，由专业研究人员在规定期限内检索、综合相关[[Document|文献]]，提供定制化的荷兰语通俗解答，实现了极高的政策与实践采纳度。（p. 62）
 > - **[[Education Media Centre|英国教育媒体中心]]（EMC）** 借鉴科学媒介中心（[[Science Media Centre]], SMC）模式，专门面向大众媒体记者与新闻编辑室提供服务；每当公众舆论中出现关于教育质量、教学法争议或[[Academic Achievement|学业成绩]]的夸大、失实报道时，该中心第一时间向媒体记者提供严谨的事实核查并推荐专家受访，有效遏制了片面或虚假陈述在公共传播中的发酵。
 
 #### 2. “证据知情”标签沦为自利主体的公关营销护身符，导致客观中介面临被商业操纵者挤压的异化困境
@@ -463,6 +466,8 @@ updated: 2026-09-13
 ---
 
 ## 关键引用
+
+以下引文均出自[[Tracey Burns|伯恩斯]]（[[Tracey Burns]]，[[OECD]]）与汤姆·舒勒（[[Tom Schuller]]，英国社会科学院）的第三章原文。
 
 > [!citation-card] Burns & Schuller 论政策制定者的系统性脱责隐忧
 > 这种重心的转变是如此彻底，事实上让我们不禁想问，政策制定者是否已经让自己脱责了？从政策文件、资助重点以及[[OECD|经合组织]]各成员国[[Emergence|涌现]]的一系列倡议来看，等式的政策一侧已不再是首要焦点，尽管我们在 2007 年苦苦思索的许多核心问题其重要性非但没有减弱反而更加凸显。然而，关注政策至关重要。政策与政治对统领系统、设定问责结构以及与专业机构合作制定从业者认证与许可标准承担着终极责任。政策在确立科研优先次序和引导资金流向上也扮演着不可替代的角色。要在整个教育系统中实现[[Research Utilization|证据使用]]的有意义变革，既需要对实践的广泛扩散与影响，也需要在政策层面建立系统性的激励、结构与机制。（p. 58）
