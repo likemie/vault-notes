@@ -8,7 +8,7 @@ summary: "德国教育统计学家、经合组织（OECD）教育与技能司司
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 34
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -32,12 +32,14 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Document]]"
   - "[[Examination-Oriented Education]]"
+  - "[[International Large-Scale Assessments]]"
   - "[[High-Stakes Testing]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
   - "[[Media Logic]]"
   - "[[Teacher Professional Agency]]"
   - "[[Creativity]]"
+  - "[[Social-Emotional Learning]]"
   - "[[Construct Validity]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories:
@@ -135,7 +137,7 @@ updated: 2026-09-12
 > [!citation-card] 施泰纳-哈姆西等论 [[PISA]] 总设计师与全球知识枢纽
 > 比较教育政策研究往往局限于议程设定阶段，强调国际参照（尤其是对[[OECD|经合组织]]知识产品及 PISA 衍生产品的参照）在唤醒问题意识、构建联盟与动员学校改革资金方面的积极作用。然而，大规模跨国测评的设计者所渴望施加的影响，绝不仅仅是在每隔几年发布成绩时制造公众舆论的欢呼或抗议。正如经合组织 PISA 总设计师施莱歇尔及其同事所指出：经合组织为数据与分析、经验交流、最佳实践共享以及公共政策建议和国际标准制定提供了一个独特的平台与知识枢纽。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 547)]]
 >
-> *In comparative education policy studies, there is a tendency to focus on agenda setting and point out the salutary effects of international references, such as references to OECD knowledge products (in particular PISA-related products), for creating problem awareness, coalition building, and mobilizing financial resources for school reform. However, the architects of ILSAs desire to exert a much bigger impact than merely creating public uproars or celebrations every few years when the results are released. According to Schleicher, the chief architect of OECD’s PISA, and his associates: [T]he organisation [OECD] provides a unique forum and knowledge hub for data and analysis, exchange of experiences, best-practice sharing, and advice on public policies and international standard-setting.*
+> *In comparative education policy studies, there is a tendency to focus on agenda setting and point out the salutary effects of international references, such as references to OECD knowledge products (in particular PISA-related products), for creating problem awareness, coalition building, and mobilizing financial resources for school reform. However, the architects of [[International Large-Scale Assessments|ILSAs]] desire to exert a much bigger impact than merely creating public uproars or celebrations every few years when the results are released. According to Schleicher, the chief architect of OECD’s PISA, and his associates: [T]he organisation [OECD] provides a unique forum and knowledge hub for data and analysis, exchange of experiences, best-practice sharing, and advice on public policies and international standard-setting.*
 
 ---
 
@@ -172,7 +174,7 @@ updated: 2026-09-12
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 批评其将东亚高应试表现归因于学生自我谴责，掩盖了高利害测评对学生心理健康与[[Creativity|创造力]]的深远负面损害。
 
 > [!warning] 未解问题与边界
-> 纸笔与机考测评在测量非认知能力（如社会情感学习、同理心、道德判断与深层创造力）时面临难以克服的[[Construct Validity|构念效度]]瓶颈；施莱歇尔推崇的数据驱动治理容易在基层诱发“测评反噬教学”（Teaching to the Test）的异化实践。
+> 纸笔与机考测评在测量非认知能力（如[[Social-Emotional Learning|社会情感学习]]、同理心、道德判断与深层创造力）时面临难以克服的[[Construct Validity|构念效度]]瓶颈；施莱歇尔推崇的数据驱动治理容易在基层诱发“测评反噬教学”（Teaching to the Test）的异化实践。
 
 ---
 

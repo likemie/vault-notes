@@ -8,6 +8,11 @@ aliases:
   - 国际大规模教育评估
 summary: "由政府间组织或跨国学术联盟（如 OECD、IEA）主持，采用标准化跨文化心理测量学技术（如 IRT、矩阵抽样）与代表性概率抽样，对不同国家和地区的学生或成年人群体的认知素养与背景变量进行系统测度与比较分析的大型评价范式。作为“硬事实施展软权力”与数字治理的物质技术中枢，推动全球教育从“投入要素规制”迈向“基于产出与排名的绩效规制”，但亦因诱发 PISA 冲击、课程狭窄化及全球趋同而饱受批判。"
 type: concept
+domain: "comparative-education"
+related_count: 36
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/comparative-education
   - theme/educational-evaluation
@@ -15,27 +20,46 @@ tags:
   - theme/governance-by-numbers
   - theme/pisa
 related_concepts:
-  - "[[Governing by Numbers]]"
-  - "[[Soft Power by Hard Facts]]"
-  - "[[Performance Indicators]]"
+  - "[[Paradigm]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Policy Brokerage]]"
-  - "[[Global Education Governing Complex]]"
-  - "[[Transfer Space]]"
-related_theories: []
+  - "[[Governing by Numbers]]"
+  - "[[Homework]]"
+  - "[[Formative Assessment]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Policy Borrowing]]"
+  - "[[Heterogeneity]]"
+  - "[[Variable]]"
+  - "[[Externalization]]"
+  - "[[Soft Power]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Document]]"
+related_theories:
+  - "[[Item Response Theory]]"
 related_methods:
-  - "[[Quantitative Research]]"
-  - "[[Survey Research]]"
+  - "[[Questionnaire]]"
+  - "[[Random Sampling]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Ethnography]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Christian Ydesen]]"
   - "[[Kerstin Martens]]"
-  - "[[Gita Steiner-Khamsi]]"
+  - "[[Andreas Schleicher]]"
 related_facts:
   - "[[OECD]]"
+  - "[[IEA]]"
+  - "[[Gaokao]]"
   - "[[PISA]]"
-  - "[[Education at a Glance]]"
+  - "[[International Indicators of Education Systems]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
+  - "[[PISA for Development]]"
+  - "[[OECD AHELO Project]]"
+  - "[[Common School Movement]]"
+  - "[[Definition and Selection of Competencies]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -59,7 +83,7 @@ updated: 2026-09-12
 > - **边界** 不等于一国内部实施的[[Gaokao|高考]]、中考等常模参照选拔考试，亦不等于小规模的跨文化田野心理实验，其本质是一种带有强烈全球[[Policy Brokerage|政策中介]]意图的宏观治理基础设施。
 
 > [!citation-card] [[Governing by Numbers|数字治理]]与从投入规制向产出测量的历史跃进
-> 在教育领域，向按数字治理（Governance by Numbers）的转向，伴随着从传统的投入规制（Input Regulation）向绩效测量（Performance Measurement）的深刻演进；这一演进集中体现于由各大国际组织设计并实施的国际大规模学生评估（ILSAs，例如经合组织的 [[PISA]] 或 IEA 的 TIMSS）。数字由此变成了国家与非国家实体之间、国际组织与主权政府之间的首要语言代码。Steiner-Khamsi et al. (2024, p. 543)
+> 在教育领域，向按数字治理（Governance by Numbers）的转向，伴随着从传统的投入规制（Input Regulation）向绩效测量（Performance Measurement）的深刻演进；这一演进集中体现于由各大国际组织设计并实施的国际大规模学生评估（ILSAs，例如经合组织的 [[PISA]] 或 IEA 的 TIMSS）。数字由此变成了国家与非国家实体之间、国际组织与主权政府之间的首要语言代码。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 >
 > *The shift toward governance by numbers in the education sector accompanied a shift from input regulation to performance measurement, as epitomised in International Large-Scale Student Assessments (e.g. OECD’s PISA or IEA’s TIMSS) designed and delivered by IOs. Numbers became the primary language code between state and non-state entities and between IOs and governments.*
 
@@ -108,7 +132,7 @@ updated: 2026-09-12
 > [!concept-lens] [[Governing by Numbers|数字治理]]技术的制度化扩张机制
 > 围绕测评如何超越单纯测量工具而演变为规制帝国的核心母体展开。
 
-> [!claim] Steiner-Khamsi et al. (2024)
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
 > **指标规制的不归路** 跨国比较与指标生产一旦启动，便具备自发繁衍的生命力；[[OECD|经合组织]]从 1980 年代开发 [[International Indicators of Education Systems|INES]] 指标，到 2000 年 [[PISA]] 放榜，再到衍生出教师调查（[[Teaching and Learning International Survey|TALIS]]）、成人能力（[[Programme for the International Assessment of Adult Competencies|PIAAC]]）与发展中国家版（[[PISA for Development|PISA-D]]），构建了一个主权国家无法退出、且必须持续采购其知识产品的规制自指系统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
 ---
@@ -121,7 +145,7 @@ updated: 2026-09-12
 > [!claim] Martens (2007)
 > **硬事实的[[Soft Power|软权力]]杠杆** 跨国排名以“科学客观硬事实”的外观，构成了摧毁国内保守集团抗拒心理的最强软权力；落后名次引发的“PISA 冲击”能够迅速在公众中制造教育落后必将导致国家经济衰亡的恐慌，为执政者强推市场化或标准化改革铺平道路。
 
-> [!claim] Steiner-Khamsi et al. (2024)
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
 > **常态化危机调动与准外部权威** 国际大规模测验的放榜不再是偶然事件，而是被制度化为周期性引爆公众狂欢或道德焦虑的政治日历；政府借此将经合组织等评测机构构建为“准外部参照权威”，以此在政策议程设置中压制本土异质主张。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 546)]]
 
 ---
@@ -131,8 +155,8 @@ updated: 2026-09-12
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **制度繁衍命题** | 指标测评从工具异化为自给自足的全球数字规制帝国 | 经合组织评价工具矩阵的跨学段扩张 | [[Christian Ydesen\|Ydesen (2019)]]; Steiner-Khamsi et al. (2024) |
-> | **政治借力命题** | 跨国分数危机被国家行政当局策略性挪用为改革合法化盾牌 | 经历 PISA 冲击或面临国内改革阻力的主权国家 | [[Kerstin Martens\|Martens (2007)]]; Steiner-Khamsi et al. (2024) |
+> | **制度繁衍命题** | 指标测评从工具异化为自给自足的全球数字规制帝国 | 经合组织评价工具矩阵的跨学段扩张 | [[Christian Ydesen|Ydesen]]; [[Gita Steiner-Khamsi|Steiner-Khamsi]] |
+> | **政治借力命题** | 跨国分数危机被国家行政当局策略性挪用为改革合法化盾牌 | 经历 PISA 冲击或面临国内改革阻力的主权国家 | [[Kerstin Martens|Martens]]; [[Gita Steiner-Khamsi|Steiner-Khamsi]] |
 
 ---
 

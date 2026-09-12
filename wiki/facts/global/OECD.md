@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 65
+fact_related_count: 66
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Scientific Literacy]]"
   - "[[School Leadership]]"
+  - "[[Social-Emotional Learning]]"
   - "[[Growth]]"
   - "[[Knowledge Production]]"
   - "[[Evidence-Based Education]]"
@@ -160,7 +161,7 @@ updated: 2026-09-12
 > - **跨国大规模学业与技能测评体系** 主导实施 [[PISA]]（15岁学生阅读、数学、[[Scientific Literacy|科学素养]]测验）、[[Teaching and Learning International Survey|TALIS]]（初中教师教学实践与[[School Leadership|学校领导力]]调查）及 [[Programme for the International Assessment of Adult Competencies|PIAAC]]（成年人核心认知技能调查），构建起全球最庞大的教育实证数据基准。
 > - **指标体系与旗舰出版物** 每年持续出版权威报告《[[Education at a Glance|教育概览]]》（Education at a Glance），维护[[International Indicators of Education Systems|国际教育系统指标]]（INES）体系，提供涵盖教育财政投入、入学机会、教师待遇与毕业生劳动力市场回报的跨国宏观数据。
 > - **国别教育政策审查（National Reviews）** 应受测国政府官方邀请，派出高级别国际专家组对特定国家的教育体系展开全景式实地诊断，其评估结论往往直接成为该国立法与拨款机制改革的政策依据。
-> - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与社会情感能力测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
+> - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与[[Social-Emotional Learning|社会情感能力]]测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
 > - **[[Policy Brokerage|政策中介]]工具打包与外向型横向经验借鉴** 以 PISA 基准测验为中枢，打包国别同行评议、教育政策审查与教育全球定位系统（Education Global Positioning System，Education GPS）数据平台；与[[World Bank|世界银行]]依赖内部自指性实践库的风格截然不同，经合组织的中介风格高度依赖“外向型横向经验借鉴”（outward-looking cross-national referencing），系统提炼并推介其他高表现成员国的成功政策经验与改革教训，在知识过剩环境中为受测国精准供给具有确定性表象的政策处方。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 
 > [!citation-card] 《经济合作与发展组织公约》第一条（1960年）

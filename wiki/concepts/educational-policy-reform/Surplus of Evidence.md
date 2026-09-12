@@ -7,6 +7,11 @@ aliases:
   - Surplus of Research Evidence
 summary: "在数字经济与海量知识制造时代，针对同一公共政策议题的研究成果、实证数据与咨询报告在数量上发生爆炸式增长并超过决策系统认知与处理负荷的生态现象。该现象打破了“证据越丰富政策越理性”的传统启蒙假设，反而加剧了政策歧义性（Policy Ambiguity）与信息孤岛，促使政治决策者更倾向于策略性“选秀”证据，并为政策中介机构对海量数据进行二次提炼、认证包装与权威背书创造了垄断性的制度中介空间。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/policy-studies
   - theme/policy-brokerage
@@ -14,28 +19,38 @@ tags:
   - theme/research-utilization
   - theme/governance-by-numbers
 related_concepts:
-  - "[[Policy Ambiguity]]"
-  - "[[Policy Brokerage]]"
-  - "[[Façade of Rationality]]"
-  - "[[Governing by Numbers]]"
   - "[[Research Utilization]]"
-  - "[[Technologies of Exclusion]]"
+  - "[[Construct]]"
+  - "[[Document]]"
+  - "[[Policy Brokerage]]"
+  - "[[Knowledge Production]]"
+  - "[[Policy Ambiguity]]"
+  - "[[Hypothesis]]"
+  - "[[Growth]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Causality]]"
+  - "[[Dialogue in Education]]"
+  - "[[Emergence]]"
+  - "[[Performance Pay]]"
+  - "[[Façade of Rationality]]"
+  - "[[Scaffolding]]"
+  - "[[Gatekeepers]]"
+  - "[[Governing by Numbers]]"
+  - "[[Social Science as Legitimation Alibi]]"
+  - "[[Soft Power by Hard Facts]]"
+  - "[[Epistemology]]"
+  - "[[Academic Freedom]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Two-Communities Theory]]"
-  - "[[Multiple Streams Framework]]"
-  - "[[Knowledge-to-Action Models]]"
 related_methods:
-  - "[[Qualitative Research]]"
-  - "[[Historical-Comparative Method]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
-  - "[[Christian Ydesen]]"
-  - "[[Kerstin Martens]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
-  - "[[World Education Reform Database]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -59,7 +74,7 @@ updated: 2026-09-12
 > - **边界** 不等于知识的真正普惠与真理澄明，而是一种夹杂着大量“信息孤岛（Information Silos）”与商业包装报告的注意力经济赤字状态。
 
 > [!citation-card] 证据过剩与思想市场下的政策中介崛起
-> 证据过剩（Surplus of Evidence）与思想市场的泛滥，连同信息孤岛的加速扩散，为政策中介机构在[[Knowledge Production|知识生产]]者与知识使用者之间、科学与政治之间架设桥梁创造了前所未有的历史契机。如果认为更多的研究知识能够减少[[Policy Ambiguity|政策歧义性]]并自发促进循证决策，那完全是一种虚妄的[[Hypothesis|假设]]；现实恰恰相反，今日的信息过载构成了各路中介机构茁壮[[Growth|成长]]的肥沃土壤——它们选择性地汲取研究发现，将其[[Transfer Translation Transformation|转译]]为定制化证据，再兜售给身处迷茫中的政府官员。Steiner-Khamsi et al. (2024, pp. 537–538)
+> 证据过剩（Surplus of Evidence）与思想市场的泛滥，连同信息孤岛的加速扩散，为政策中介机构在[[Knowledge Production|知识生产]]者与知识使用者之间、科学与政治之间架设桥梁创造了前所未有的历史契机。如果认为更多的研究知识能够减少[[Policy Ambiguity|政策歧义性]]并自发促进循证决策，那完全是一种虚妄的[[Hypothesis|假设]]；现实恰恰相反，今日的信息过载构成了各路中介机构茁壮[[Growth|成长]]的肥沃土壤——它们选择性地汲取研究发现，将其[[Transfer Translation Transformation|转译]]为定制化证据，再兜售给身处迷茫中的政府官员。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
 >
 > *The ‘surplus of evidence’ and the ‘marketplace of ideas’ (Lubienski 2019, 70), as well as the proliferation of information silos (Malin and Lubienski 2022), have generated a renewed opportunity for intermediaries to bridge knowledge producers and knowledge users, or science and politics... It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today’s information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research.*
 
@@ -111,8 +126,8 @@ updated: 2026-09-12
 > [!claim] Lubienski (2019)
 > **思想市场中的逆向选择** 在竞争激烈的思想市场中，政客不再寻找客观真理，而是如“去超市购物”般，精准挑拣那些能够佐证其既定意识形态主张的研究报告，并将不利研究斥为伪科学。
 
-> [!claim] Steiner-Khamsi et al. (2024)
-> **歧义性时代的数字庇护** 正是证据过剩打破了理性线性的循证神话；面对互不相让的学术争端，决策者迫切需要数字作为“[[Façade of Rationality|理性表象]]的[[Scaffolding|脚手架]]”，以此向外界宣告其政策拥有坚实的实证基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
+> **歧义性时代的数字庇护** 正是证据过剩打破了理性线性的循证神话；面对互不相让的学术争端，决策者迫切需要数字作为"[[Façade of Rationality|理性表象]]的[[Scaffolding|脚手架]]"，以此向外界宣告其政策拥有坚实的实证基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
 
 ---
 
@@ -121,8 +136,8 @@ updated: 2026-09-12
 > [!concept-lens] 中介[[Gatekeepers|守门人]]特权与[[Governing by Numbers|数字治理]] 2.0 转型
 > 围绕信息过载如何将治理权力转移至知识包装中介手中展开。
 
-> [!claim] Steiner-Khamsi et al. (2024)
-> **从知识制造到[[Policy Brokerage|政策中介]]的重心转移** 在信息过量时代，治理权力的核心不再是“谁拥有数据”，而是“谁拥有在海量数据中提取清晰洞见并让人信服的能力”；[[OECD|经合组织]]与[[World Bank|世界银行]]正是依托其无与伦比的指标打包与[[Transfer Translation Transformation|转译]]技术，在过剩的证据森林中成为了各国政府不可替代的政策导航灯塔。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 544)]]
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
+> **从知识制造到[[Policy Brokerage|政策中介]]的重心转移** 在信息过量时代，治理权力的核心不再是"谁拥有数据"，而是"谁拥有在海量数据中提取清晰洞见并让人信服的能力"；[[OECD|经合组织]]与[[World Bank|世界银行]]正是依托其无与伦比的指标打包与[[Transfer Translation Transformation|转译]]技术，在过剩的证据森林中成为了各国政府不可替代的政策导航灯塔。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 544)]]
 
 ---
 
@@ -131,7 +146,7 @@ updated: 2026-09-12
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **策略挪用命题** | 证据过剩为政客提供了无限的[[Social Science as Legitimation Alibi\|合法化借口]]与选择性选秀空间 | 存在高度政治争议与党派分歧的教育改革决策 | Lubienski (2019); Steiner-Khamsi et al. (2024) |
+> | **策略挪用命题** | 证据过剩为政客提供了无限的[[Social Science as Legitimation Alibi\|合法化借口]]与选择性选秀空间 | 存在高度政治争议与党派分歧的教育改革决策 | Lubienski (2019); [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
 > | **中介权力重构命题** | 信息过载推动政策权力从中立学术界转移至中介打包机构 | 数字时代全球治理复合体与知识银行运作 | [[Gita Steiner-Khamsi\|Steiner-Khamsi et al. (2024)]] |
 
 ---

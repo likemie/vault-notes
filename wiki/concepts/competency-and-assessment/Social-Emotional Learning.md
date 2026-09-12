@@ -8,6 +8,11 @@ aliases:
   - Social and Emotional Learning
 summary: "个体获取并有效应用理解与管理情绪、确立积极目标、展现同理心、建立正向关系以及作出负责任决策所需的认知、情感与行为素养框架。在全球教育治理中，经历从心理卫生与全人教育起源，到联合国儿童基金会（UNICEF）将其开辟为危机保护与脆弱儿童政策中介新赛道，再到经合组织（OECD）与教科文组织跨界将其量化为跨国比较评价指标（如 SSES 测评）的制度演变，引发了关于非认知能力标准化与文化情境性的深刻争鸣。"
 type: concept
+domain: "competency-and-assessment"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/competency
   - theme/child-development
@@ -15,25 +20,33 @@ tags:
   - theme/global-governance
   - theme/well-being
 related_concepts:
-  - "[[Policy Brokerage]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Soft Power]]"
+  - "[[Critical Thinking]]"
+  - "[[Bildung]]"
+  - "[[Academic Achievement]]"
   - "[[Global Education Governing Complex]]"
-  - "[[Performance Indicators]]"
-  - "[[Governing by Numbers]]"
-  - "[[Education-for-Mandates]]"
+  - "[[Policy Brokerage]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Sustainability Education]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Variable]]"
+  - "[[Policy Network]]"
 related_theories: []
 related_methods:
-  - "[[Survey Research]]"
-  - "[[Quantitative Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
-  - "[[Christian Ydesen]]"
-  - "[[Kerstin Martens]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[UNICEF]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
-  - "[[Multiple Indicator Cluster Surveys]]"
+  - "[[PISA]]"
+  - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -57,7 +70,7 @@ updated: 2026-09-12
 > - **边界** 不等于单一的心理健康临床治疗，亦非空洞的道德说教，而是可融入学校正规课程与多边指标监测的系统性素养框架。
 
 > [!citation-card] 国际组织开辟全新政策议题确立比较优势
-> 国际组织之间围绕全球规范制定与政策影响力的角逐，究竟意味着什么？它不仅在于识别那些前沿且尚未被触碰的政策重点议题——例如社会情感学习（Social-Emotional Learning，SEL），该议程最早由[[UNICEF|联合国儿童基金会]]（[[UNICEF]]）倡导开辟，如今也已相继被[[OECD|经合组织]]（[[OECD]]）和[[UNESCO|联合国教科文组织]]（[[UNESCO]]）吸纳推进；更在于通过与公民社会联盟、教育企业及私人慈善基金会建立战略伙伴关系，扩大其实质政策影响力与财政资源储备。Steiner-Khamsi et al. (2024, p. 544)
+> 国际组织之间围绕全球规范制定与政策影响力的角逐，究竟意味着什么？它不仅在于识别那些前沿且尚未被触碰的政策重点议题——例如社会情感学习（Social-Emotional Learning，SEL），该议程最早由[[UNICEF|联合国儿童基金会]]（[[UNICEF]]）倡导开辟，如今也已相继被[[OECD|经合组织]]（[[OECD]]）和[[UNESCO|联合国教科文组织]]（[[UNESCO]]）吸纳推进；更在于通过与公民社会联盟、教育企业及私人慈善基金会建立战略伙伴关系，扩大其实质政策影响力与财政资源储备。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 >
 > *What exactly does the race over global norm setting and policy impact entail for IOs? Is it about identifying new, untapped thematic priorities, such as social-emotional learning (first promoted by UNICEF, and now also by OECD and UNESCO), increasing impact, and in some instances financial resources, by establishing partnerships with civil society, EDU businesses and philanthropic foundations?*
 
@@ -111,7 +124,7 @@ updated: 2026-09-12
 > [!claim] Durlak et al. (2011)
 > **多维协同增益效应** 严密的实验与准实验[[Meta-analysis|元分析]]实证证实，参与正规校本社会情感学习方案的学生，其在情感调节与亲社会行为方面展现出中等[[Effect Size|效应量]]增益，且这种心理层面的改善能够强劲溢出至传统学业考试之中，促成[[Academic Achievement|学业表现]]高达 11 个百分点的显著提升。
 
-> [!claim] Steiner-Khamsi et al. (2024)
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
 > **危机保护与边缘群体的适应性屏障** 在战乱、贫困与重大公共卫生危机情境下，针对最脆弱儿童群体的社会情感干预构成了抵御创伤应激反应、阻断辍学链条的核心人道主义生存技能。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
@@ -121,7 +134,7 @@ updated: 2026-09-12
 > [!concept-lens] 全球多边治理市场的组织间竞争与议题殖民
 > 围绕国际组织如何通过制造新颖政策议题来防御地盘萎缩、争夺外部私人资助展开。
 
-> [!claim] Steiner-Khamsi et al. (2024)
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
 > **组织利基开辟与多边跟进内卷** [[Global Education Governing Complex|全球教育治理复合体]]内部存在高度白热化的地盘争夺；当[[UNICEF|儿童基金会]]凭借 SEL 成功占据弱势关怀道德高地并撬动乐高、盖茨等私人基金会巨额赠款后，[[OECD|经合组织]]与[[UNESCO|教科文组织]]迅速通过将其标准化与测验化实施跨界殖民，将原本具有批判人道色彩的议题重新[[Coding in Qualitative Research|编码]]为服务于自身多边中介权力的量化指标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---

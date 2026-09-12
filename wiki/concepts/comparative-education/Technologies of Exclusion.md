@@ -7,31 +7,45 @@ aliases:
   - Technologies of Exclusion in Education
 summary: "专业知识生产者或治理机构通过创设高门槛的专门术语、复杂心理测量学模型、严苛准入资质与算法黑箱，将非专业公众与外行质疑排斥在决策审议之外的话语与技术屏障。在教育治理中，面对“专家知识民主化”（人人自诩教育专家）带来的普遍公众争鸣，政策中介机构（如世行与 OECD）策略性利用随机对照试验（RCTs）、潜变量 IRT 模型与指标矩阵等排除性技术，为政策决策构筑不可逾越的科学理性与专业权威护城河。"
 type: concept
+domain: "comparative-education"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/sociology-of-knowledge
   - theme/global-governance
   - theme/policy-brokerage
   - theme/epistemology
 related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Heterogeneity]]"
+  - "[[Policy Brokerage]]"
+  - "[[Variable]]"
   - "[[Democratisation of Expertise]]"
   - "[[Façade of Rationality]]"
-  - "[[Policy Brokerage]]"
+  - "[[Scaffolding]]"
+  - "[[Social Science as Legitimation Alibi]]"
+  - "[[Policy Ambiguity]]"
+  - "[[Dialogue in Education]]"
+  - "[[Return on Investment]]"
+  - "[[Evidence-Based Education]]"
   - "[[Governing by Numbers]]"
-  - "[[Soft Power by Hard Facts]]"
+  - "[[Positivism]]"
 related_theories:
-  - "[[Two-Communities Theory]]"
+  - "[[Item Response Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Quantitative Research]]"
+  - "[[Fieldwork]]"
+  - "[[Qualitative Research]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
-  - "[[Christian Ydesen]]"
-  - "[[Kerstin Martens]]"
-  - "[[Gita Steiner-Khamsi]]"
+  - "[[Wendy Espeland]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
-  - "[[Systems Approach for Better Education Results]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -55,7 +69,7 @@ updated: 2026-09-12
 > - **边界** 不等于科学研究所必需的正常技术专业化，而是特指这种专业复杂性被工具化为压制政治问责、垄断政策建议通道的排他性权力工具。
 
 > [!citation-card] 教育知识的公共争鸣与排除性技术的代偿性构建
-> 专家知识的民主化在教育领域极其广泛——每个人都自认为自己是教育专家；然而在医疗卫生等领域，这种现象却几乎不存在，其原因正在于医疗体系拥有强大的排除性技术（例如晦涩难懂的医学黑话与严格的专科资质认证）。教育领域的研究证据因其天然的通俗易懂与可追溯性，极易沦为公众舆论与意识形态交锋的战场。面对这种公信力赤字，政策中介机构不得不构建森严的证据层级体系——例如将随机对照试验（RCTs）奉为黄金标准，或将[[OECD|经合组织]]树立为不可置疑的权威知识源，以此建立专业权威的护城河。Steiner-Khamsi et al. (2024, p. 539)
+> 专家知识的民主化在教育领域极其广泛——每个人都自认为自己是教育专家；然而在医疗卫生等领域，这种现象却几乎不存在，其原因正在于医疗体系拥有强大的排除性技术（例如晦涩难懂的医学黑话与严格的专科资质认证）。教育领域的研究证据因其天然的通俗易懂与可追溯性，极易沦为公众舆论与意识形态交锋的战场。面对这种公信力赤字，政策中介机构不得不构建森严的证据层级体系——例如将随机对照试验（RCTs）奉为黄金标准，或将[[OECD|经合组织]]树立为不可置疑的权威知识源，以此建立专业权威的护城河。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 >
 > *The ‘[[Democratisation of Expertise]]’ is widespread in education – everyone thinks they are education experts – but almost absent, for example, in the health sector, as reflected in the technologies of exclusion (e.g. medical jargon or certification of expertise)... an unsettled dilemma complicates the issue... a hierarchisation of evidence and knowledge sources comes into play, such as with randomised controlled trials as the gold standard or the OECD as a trusted knowledge source.*
 
@@ -107,7 +121,7 @@ updated: 2026-09-12
 > [!claim] Maasen & Weingart (2005)
 > **专家权威的去圣化危机** 当现代社会将[[Knowledge Production|知识生产]]全面向公众开放时，专业知识的神秘感被打破，决策者面临多元相悖证据的轰炸，专家意见从崇高裁决沦为派系政治的游说工具。
 
-> [!claim] Steiner-Khamsi et al. (2024)
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
 > **代偿性技术防线的构筑** 正因为教育过程对每一个公民而言皆亲身经历且直观可感，[[Policy Brokerage|政策中介]]机构（如[[World Bank|世行]]与 [[OECD]]）必须建立比其他领域更极端的统计门槛（如世界银行对 [[Randomised Controlled Trials|RCT]] 的狂热偏好、经合组织对复杂[[Item Response Theory|项目反应理论]]的垄断），以技术复杂性制造“只有我们可以科学计算教育”的合法性光环。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 ---
@@ -117,7 +131,7 @@ updated: 2026-09-12
 > [!concept-lens] 政治去政治化与技术官僚自利循环
 > 围绕技术壁垒如何帮助政府和中介机构逃避价值伦理追责展开。
 
-> [!claim] Steiner-Khamsi et al. (2024)
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
 > **民主审议的剥夺与免责中介** 借助排除性技术，关于教育究竟应当追求阶层平等还是经济生产率的根本意识形态冲突，被巧妙地偷换为“如何优化[[Return on Investment|教育投资回报率]]函数”或“如何提升 [[PISA]] 方差解释百分比”的技术课题，从而成功剥夺了大众对重大改革方向的审议权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 ---
@@ -127,8 +141,8 @@ updated: 2026-09-12
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **专业防卫命题** | 以复杂技术设卡防御公众常识侵蚀与公信力赤字 | 面临普遍质疑的教育循证政策咨询 | Maasen & Weingart (2005); Steiner-Khamsi et al. (2024) |
-> | **去政治化命题** | 将阶层与公平政治冲突降维为计量参数优化 | 国际组织对主权国家宏观教育改革干预 | [[Wendy Espeland\|Espeland (2015)]]; Steiner-Khamsi et al. (2024) |
+> | **专业防卫命题** | 以复杂技术设卡防御公众常识侵蚀与公信力赤字 | 面临普遍质疑的教育循证政策咨询 | Maasen & Weingart (2005); [[Gita Steiner-Khamsi|Steiner-Khamsi]] |
+> | **去政治化命题** | 将阶层与公平政治冲突降维为计量参数优化 | 国际组织对主权国家宏观教育改革干预 | [[Wendy Espeland|Espeland]]; [[Gita Steiner-Khamsi|Steiner-Khamsi]] |
 
 ---
 

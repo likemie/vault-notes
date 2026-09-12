@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - theme/child-development
   - theme/human-rights
 related_concepts:
+  - "[[Social-Emotional Learning]]"
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -59,7 +60,7 @@ updated: 2026-09-12
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 联合国儿童基金会（UNICEF，简称儿童基金会）是联合国大会设立的专门致力于全球儿童生存、保护与发展权益的核心人道主义与发展实体；在全球教育治理体系中，作为五大治理巨头（Big Five）之一，聚焦处境最不利的儿童群体，是社会情感学习（SEL）与家庭微观多指标调查的全球[[Policy Brokerage|政策中介]]先驱。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
+> 联合国儿童基金会（UNICEF，简称儿童基金会）是联合国大会设立的专门致力于全球儿童生存、保护与发展权益的核心人道主义与发展实体；在全球教育治理体系中，作为五大治理巨头（Big Five）之一，聚焦处境最不利的儿童群体，是[[Social-Emotional Learning|社会情感学习]]（SEL）与家庭微观多指标调查的全球[[Policy Brokerage|政策中介]]先驱。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1946 年 12 月 11 日由联合国大会决议设立国际儿童紧急救援基金（UNICEF），旨在救济二战受灾儿童；1953 年改为联合国常设附属机构并缩短现名，将职能扩展至发展中国家儿童的长期发展。
@@ -75,7 +76,7 @@ updated: 2026-09-12
 > - **1946–1989 — 人道战后紧急救援与儿童基本生存保障期** 早期集中于救济口粮、疫苗接种与母婴卫生保健等生命救援；1960 年代起逐步意识到儿童心智发展与基础初等教育对阻断代际贫困的关键意义，开始资助农村小学初级卫生与女童识字培训。
 > - **1989–2000 — 《儿童权利公约》与宗迪恩 [[Exploratory Factor Analysis|EFA]] 联盟共建期** 1989 年联合国大会通过《儿童权利公约》（UNCRC），确立“以儿童最大利益为首要考量”法律原则；1990 年联合[[UNESCO|教科文组织]]、[[World Bank|世行]]在泰国宗迪恩联合发起《[[Education for All|全民教育]]》（EFA）全球倡议；1995 年正式研发实施[[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS），填补了全球南方底层家庭儿童福祉微观数据的空白。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **2000–2015 — 女童教育倡议与爱生学校模式全球推广期** 发起联合国女童教育倡议（UNGEI），推动撒哈拉以南非洲和南亚女童入学率跨越式提升；系统研发并推广“爱生学校”（Child-Friendly Schools, CFS）标准框架，倡导健康、安全、保护儿童免受暴力的人文教学环境。
-> - **2015–至今 — 社会情感学习先驱与数据契约共治期** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact|学习数据契约]]同盟，同时与盖茨基金会、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **2015–至今 — [[Social-Emotional Learning|社会情感学习]]先驱与数据契约共治期** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact|学习数据契约]]同盟，同时与盖茨基金会、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---
 
@@ -88,7 +89,7 @@ updated: 2026-09-12
 > - **会员与外部利益相关者** 在 33 个发达国家设立“儿童基金会国家委员会”（National Committees），作为非政府独立实体动员庞大社会公民网络筹集自愿捐款。
 
 > [!pathways]- 业务运行机制
-> - **议程设置** 敏锐捕捉前沿弱势议题，通过实证报告将女童教育、幼儿早期发展（ECD）、战乱突发事件教育（EiE）与社会情感能力打造为多边优先战略。
+> - **议程设置** 敏锐捕捉前沿弱势议题，通过实证报告将女童教育、幼儿早期发展（ECD）、战乱突发事件教育（EiE）与[[Social-Emotional Learning|社会情感能力]]打造为多边优先战略。
 > - **研究与开发** 因诺琴蒂研究中心负责前瞻政策实验，微观家庭调查团队执行 MICS 入户普查，与合作高校联合开展儿童福祉指标建模。
 > - **质量控制与透明度** 实行严格的微观家庭抽样质控、入户访谈伦理保护协议及年度《全球财务与成果报告》全口径信息公开。
 
@@ -97,7 +98,7 @@ updated: 2026-09-12
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **指南、规程与标准体系** 《爱生学校框架手册》；《紧急情况下教育最低标准》（INEE 核心起草方）；《早期儿童全面发展（ECD）指标框架》；《社会情感学习实施指南》。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
+> - **指南、规程与标准体系** 《爱生学校框架手册》；《紧急情况下教育最低标准》（INEE 核心起草方）；《早期儿童全面发展（ECD）指标框架》；《[[Social-Emotional Learning|社会情感学习]]实施指南》。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **数据库、证据库与监测平台** [[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS）全球微观数据库（涵盖 110 余国逾 300 次大型抽样普查）；儿童教育剥夺与辍学率监测平台。
 > - **旗舰项目、调查与测评** 联合国女童教育倡议（UNGEI）；“受教育不能等待”（Education Cannot Wait）紧急教育基金共建；与 [[UNESCO]]、[[World Bank|世行]]联合签署的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **旗舰出版物与咨询成果** 《世界儿童状况》（The State of the World's Children，年度旗舰报告）；因诺琴蒂研究报告卡（Innocenti Report Card）；全球学习危机与儿童心理福祉评估简报。
@@ -117,7 +118,7 @@ updated: 2026-09-12
 > - **政策与制度渗透** 促使全球超 100 个国家将儿童保护细则、早期儿童保育与教育（ECCE）以及危机心理辅导纳入国家教育法案与财政扶贫纲要。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **学术引领** 率先打破纯认知纸笔测验的狭隘[[Paradigm|范式]]，将“社会情感能力（SEL）”与“微观家庭福祉”引入全球主流教育政策视野，促成[[OECD|经合组织]]等其他多边机构的政策跟进。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
+> - **学术引领** 率先打破纯认知纸笔测验的狭隘[[Paradigm|范式]]，将“[[Social-Emotional Learning|社会情感能力]]（SEL）”与“微观家庭福祉”引入全球主流教育政策视野，促成[[OECD|经合组织]]等其他多边机构的政策跟进。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **政策塑造** 推动国际社会确立“女童受教育权”与“危机情境中受教育权”的最高道德红线，倒逼各国在战争、灾荒和公共卫生危机期间维持基础教育生命线。
 > - **学校与实践改变** 在数十万所边远乡村与难民营小学建立免受体罚、包容女童卫生设施的爱生学校空间。
 
@@ -159,4 +160,4 @@ updated: 2026-09-12
 > | [[UN Sustainable Development Goals]] | 事实 (政策) | 儿童基金会共同推动并监督儿童受教育权与儿童福祉维度的发展目标。 |
 > | [[Building Evidence in Education]] | 事实 (机构) | 儿童基金会作为轮值联合国机构深度参与的跨国实证教育同盟。 |
 > | [[Global Education Governing Complex]] | 概念 | 儿童基金会作为五巨头之一深嵌其中的全球多边教育治理网络。 |
-> | [[Policy Brokerage]] | 概念 | 儿童基金会通过将社会情感学习和微观调查打造为全球规范的中介工具。 |
+> | [[Policy Brokerage]] | 概念 | 儿童基金会通过将[[Social-Emotional Learning\|社会情感学习]]和微观调查打造为全球规范的中介工具。 |

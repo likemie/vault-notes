@@ -1,15 +1,16 @@
 ---
 title: Rasch Measurement
 aliases:
-  - Rasch模型
-  - Rasch 模型
+  - Rasch Model
+  - 拉希模型
+  - 罗氏模型
 summary: "将测验答题数据转换到共同尺度的教育测量方法，PISA/TIMSS/PIRLS 等国际评估排名依赖这类统计转换"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - rasch-measurement
@@ -18,6 +19,7 @@ tags:
   - quantitative-methods
   - international-assessment
 related_concepts:
+  - "[[International Large-Scale Assessments]]"
   - "[[Construct]]"
   - "[[Construct Validity]]"
 related_theories: []
@@ -33,7 +35,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-05
-updated: 2026-06-06
+updated: 2026-09-12
 ---
 
 # Rasch Measurement
@@ -43,7 +45,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> Rasch 测量（Rasch Measurement）是一种把测验答题[[Data Transformation|数据转换]]到共同尺度上的测量方法，以丹麦数学家和统计学家 Georg Rasch (1901-1980) 命名。在 [[PISA]]、TIMSS and PIRLS 等国际大规模评估中，原始观察值或答对题数本身并不直接构成公共排名使用的分数；经过 Rasch 分数转换后，结果被放置到共同尺度上，并常以中点 500 的量表向公众和政策界呈现([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]])。
+> Rasch 测量（Rasch Measurement）是一种把测验答题[[Data Transformation|数据转换]]到共同尺度上的测量方法，以丹麦数学家和统计学家 Georg Rasch (1901-1980) 命名。在 [[PISA]]、TIMSS and PIRLS 等[[International Large-Scale Assessments|国际大规模评估]]中，原始观察值或答对题数本身并不直接构成公共排名使用的分数；经过 Rasch 分数转换后，结果被放置到共同尺度上，并常以中点 500 的量表向公众和政策界呈现([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]])。
 
 ---
 
@@ -58,7 +60,7 @@ updated: 2026-06-06
 ## 适用场景
 
 > [!success]
-> - 国际大规模教育评估中，需要把不同题目和学生答题表现转换为共同尺度，以便进行国家或地区间比较。
+> - [[International Large-Scale Assessments|国际大规模教育评估]]中，需要把不同题目和学生答题表现转换为共同尺度，以便进行国家或地区间比较。
 > - 当研究者讨论教育排名和测量误差时，Rasch 测量可作为理解 [[PISA]]/TIMSS/PIRLS 分数如何生成的基础背景([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]])。
 
 ---
