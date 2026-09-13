@@ -13956,101 +13956,123 @@
   vertical-align: middle;
 }
 
-/* 列表容器 */
+/* 列表容器：双列自适应网格，大幅压缩纵向空间 */
 .callout[data-callout="factors"] .callout-content ol,
 .callout[data-callout="factors"] .callout-content ul {
   counter-reset: factor-n;
   list-style: none !important;
   padding: 0;
   margin: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.48rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.32rem 0.50rem;
 }
 .callout[data-callout="factors"] .list-bullet { display: none !important; }
 
-/* 每条因素卡片 */
+/* 单数项最后一项跨双列对齐 */
+.callout[data-callout="factors"] .callout-content ol > li:last-child:nth-child(odd),
+.callout[data-callout="factors"] .callout-content ul > li:last-child:nth-child(odd) {
+  grid-column: span 2;
+}
+
+@media (max-width: 650px) {
+  .callout[data-callout="factors"] .callout-content ol,
+  .callout[data-callout="factors"] .callout-content ul {
+    grid-template-columns: 1fr;
+  }
+  .callout[data-callout="factors"] .callout-content ol > li:last-child:nth-child(odd),
+  .callout[data-callout="factors"] .callout-content ul > li:last-child:nth-child(odd) {
+    grid-column: 1;
+  }
+}
+
+/* 每条因素卡片：紧凑内边距与精致占位 */
 .callout[data-callout="factors"] .callout-content ol > li,
 .callout[data-callout="factors"] .callout-content ul > li {
   counter-increment: factor-n;
   display: block !important;
   list-style: none !important;
   position: relative;
-  padding: 0.52rem 0.85rem 0.56rem 2.80rem;
+  padding: 0.28rem 0.65rem 0.30rem 2.15rem;
   border: 1px solid rgba(190, 130, 35, 0.14);
-  border-radius: 9px;
+  border-radius: 7px;
   background: linear-gradient(155deg, rgba(190, 130, 35, 0.052) 0%, rgba(190, 130, 35, 0.006) 100%);
-  line-height: 1.62;
+  line-height: 1.48;
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
 .callout[data-callout="factors"] .callout-content ol > li:hover,
 .callout[data-callout="factors"] .callout-content ul > li:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(190, 130, 35, 0.12);
+  transform: translateY(-1.5px);
+  box-shadow: 0 4px 14px rgba(190, 130, 35, 0.12);
 }
 
-/* 圆形 F1 / F2 / F3 徽章 */
+/* 圆形 F1 / F2 / F3 徽章：紧凑精致，垂直居中 */
 .callout[data-callout="factors"] .callout-content ol > li::before,
 .callout[data-callout="factors"] .callout-content ul > li::before {
   content: "F" counter(factor-n);
   position: absolute;
   top: 50%;
-  left: 0.58rem;
+  left: 0.42rem;
   transform: translateY(-50%);
-  width: 1.62rem;
-  height: 1.62rem;
+  width: 1.32rem;
+  height: 1.32rem;
   border-radius: 50%;
   background: linear-gradient(135deg, rgb(205, 148, 42), rgb(168, 108, 18));
   color: #fff;
-  font-size: 0.64rem;
+  font-size: 0.58rem;
   font-weight: 850;
   letter-spacing: 0.02em;
-  line-height: 1.62rem;
+  line-height: 1.32rem;
   text-align: center;
-  border: 2px solid var(--background-primary);
+  border: 1.5px solid var(--background-primary);
   animation: factor-badge-pulse 3.5s ease-in-out infinite;
   transition: transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 .callout[data-callout="factors"] .callout-content ol > li:hover::before,
 .callout[data-callout="factors"] .callout-content ul > li:hover::before {
-  transform: translateY(-50%) scale(1.15);
+  transform: translateY(-50%) scale(1.12);
   animation: factor-badge-pulse-hover 0.9s ease-in-out infinite;
 }
 
-/* 徽章连接线：非最后一项在底部延伸一条渐变线，串联 F1→F2→F3 */
-.callout[data-callout="factors"] .callout-content ol > li:not(:last-child)::after,
-.callout[data-callout="factors"] .callout-content ul > li:not(:last-child)::after {
-  content: "";
-  position: absolute;
-  left: calc(0.58rem + 0.81rem - 1px); /* 徽章水平中心 */
-  bottom: -0.48rem;                     /* 伸入卡片间距 */
-  width: 2px;
-  height: 0.48rem;
-  background: linear-gradient(to bottom, rgba(190, 130, 35, 0.50), rgba(190, 130, 35, 0.04));
-  border-radius: 1px;
-}
-.theme-dark .callout[data-callout="factors"] .callout-content ol > li:not(:last-child)::after,
-.theme-dark .callout[data-callout="factors"] .callout-content ul > li:not(:last-child)::after {
-  background: linear-gradient(to bottom, rgba(215, 158, 48, 0.60), rgba(215, 158, 48, 0.04));
+/* 徽章连接线：网格模式下隐藏冗余连线 */
+.callout[data-callout="factors"] .callout-content ol > li::after,
+.callout[data-callout="factors"] .callout-content ul > li::after {
+  display: none;
 }
 
-/* 因素名（strong 首行）→ 块级标题 */
-.callout[data-callout="factors"] .callout-content li > p:first-of-type > strong:first-of-type,
+/* 因素名标题：层级高于正文，明确放大，彻底解决字体大小倒挂 */
+.callout[data-callout="factors"] .callout-content li > p:first-of-type > strong:first-of-type {
+  display: block;
+  color: rgb(155, 100, 18);
+  font-weight: 750;
+  font-size: 1.16em !important; /* 相对于 p(0.83em)，实际计算为 0.963em，明显大于正文 */
+  letter-spacing: 0.015em;
+  margin: 0 0 0.12rem 0 !important;
+  padding-bottom: 0.06rem !important;
+  border-bottom: 1px solid rgba(190, 130, 35, 0.16);
+}
 .callout[data-callout="factors"] .callout-content li > strong:first-of-type {
   display: block;
   color: rgb(155, 100, 18);
-  font-weight: 700;
-  font-size: 0.91em;
-  margin: 0 0 0.22rem 0;
-  padding-bottom: 0.16rem;
-  border-bottom: 1px solid rgba(190, 130, 35, 0.18);
+  font-weight: 750;
+  font-size: 0.96em !important; /* 直接位于 li 下时为 0.96em */
+  letter-spacing: 0.015em;
+  margin: 0 0 0.12rem 0 !important;
+  padding-bottom: 0.06rem !important;
+  border-bottom: 1px solid rgba(190, 130, 35, 0.16);
 }
+.callout[data-callout="factors"] .callout-content li p,
 .callout[data-callout="factors"] .callout-content li > p {
-  font-size: 0.87em;
-  line-height: 1.62;
-  margin: 0;
+  font-size: 0.83em;
+  line-height: 1.46;
+  margin: 0 !important;
+  margin-block-start: 0 !important;
+  margin-block-end: 0 !important;
+  padding: 0 !important;
 }
-.callout[data-callout="factors"] .callout-content li > p:not(:first-of-type) {
+.callout[data-callout="factors"] .callout-content li > p + p {
+  margin-top: 0.10rem !important;
+  margin-block-start: 0.10rem !important;
   opacity: 0.88;
 }
 
