@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Hill_2022_FacilitatingActors.md"
     },
     {
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
+    },
+    {
+      "basename": "Evidence Ecosystem",
+      "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md"
+    },
+    {
       "basename": "Argument_Burns_Schuller_2022_BrokerageAgencies",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
     },
@@ -181,10 +189,6 @@
       "path": "wiki/theories/educational-policy-reform/Knowledge-to-Action Models.md"
     },
     {
-      "basename": "Evidence Ecosystem",
-      "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md"
-    },
-    {
       "basename": "知识论作为元课程_2万字以内修订稿",
       "path": "raw/知识论作为元课程_2万字以内修订稿.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ch02_Torres_2022",
       "path": "books/Revai(Ed.)_2022_OECD/Ch02_Torres_2022.md"
-    },
-    {
-      "basename": "Teaching and Learning Research Programme",
-      "path": "wiki/facts/uk/Teaching and Learning Research Programme.md"
     }
   ],
   "omittedPaths": [],
