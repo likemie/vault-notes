@@ -7,7 +7,7 @@ aliases:
   - 证据利用影响因素类型学
   - Barriers and Facilitators to Research Use
   - Humphries's Typology of Factors Influencing Research Use
-summary: "整合 Humphries 等人跨领域综述与 Best & Holmes 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并阐明跨层系统性协调的必要性"
+summary: "整合 Humphries et al. (2014) 跨领域综述与 Best & Holmes (2010) 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并阐明跨层系统性协调的必要性"
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 18
@@ -23,27 +23,17 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence Ecosystem]]"
-  - "[[Evidence-Informed Decision-Making]]"
-  - "[[Evidence-Informed Practice]]"
   - "[[Research Literacy]]"
-  - "[[Cultural Barrier]]"
-related_theories:
-  - "[[Governing Mechanisms of Research Use]]"
-  - "[[Quality Use of Research Evidence Framework]]"
-  - "[[Research Knowledge Mobilisation Model]]"
-  - "[[Complexity Theory]]"
-related_methods:
-  - "[[Survey Research]]"
-  - "[[Systematic Review]]"
-  - "[[Semi-structured Interview]]"
-related_instruments:
-  - "[[Strengthening the Impact of Education Research Policy Survey]]"
+related_theories: []
+related_methods: []
+related_instruments: []
 related_persons: []
-related_facts:
-  - "[[OECD]]"
-  - "[[Strengthening the Impact of Education Research Project]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Hill_2022_FacilitatingActors]]"
+  - "[[Argument_Torres_2022_KMModels]]"
 confidence: high
 status: draft
 created: 2026-09-13
@@ -57,13 +47,13 @@ updated: 2026-09-13
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 解释教育研究证据在政策制定和学校教学实践中为何被利用或被搁置，识别推动研究采纳的促成机制与阻碍研究转化的结构性障壁。
-> - **理论问题** 回应循证教育与知识动员领域长期存在的要素孤立化与机制碎片化困境，厘清因素（Factors）、机制（Mechanisms）、障壁（Barriers）、干预（Interventions）与战略（Strategies）之间的逻辑层级与交互模式。
-> - **理论类型** 跨领域中层机制分类学与多维度系统分析框架。
-> - **知识位置** 渊源于卫生政策、公共管理与司法等跨行业证据利用文献（Humphries et al., 2014; Oliver et al., 2014; Nutley et al., 2009），由经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD，简称经合组织）研究员 José Manuel Torres 在教育知识动员研究中拓展并系统操作化为涵盖政策制定与学校实践的双情境类型学。
+> - **解释对象** 解释教育研究证据在政策制定和学校教学实践中为何被利用或被搁置，识别推动研究采纳的促成机制与阻碍[[Research Translation|研究转化]]的结构性障壁。
+> - **理论问题** 回应[[Evidence-Based Education|循证教育]]与[[Knowledge Mobilisation|知识动员]]领域长期存在的要素孤立化与机制碎片化困境，厘清因素（Factors）、机制（Mechanisms）、障壁（Barriers）、干预（Interventions）与战略（Strategies）之间的逻辑层级与交互模式。
+> - **理论类型** 跨领域中层机制分类学与多维度系统[[Analytic Framework|分析框架]]。
+> - **知识位置** 渊源于卫生政策、公共管理与司法等跨行业证据利用[[Document|文献]]（Humphries et al., 2014; Oliver et al., 2014; Nutley et al., 2009），由[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）研究员 José Manuel Torres 在教育知识动员研究中拓展并系统[[Operationalization|操作化]]为涵盖政策制定与学校实践的双情境类型学。
 
 > [!claim] 核心主张
-> 教育研究利用并非由单一的研究供给质量或个体态度单向决定，而是深嵌于由信息、互动、个体特征、结构与组织、文化五大维度交织构成的复杂生态之中；孤立、单向的线性干预（如单纯增加研究成果摘要分发）无法自主驱动实质性采纳，必须依托结构性制度保障、持续能力建设与高位系统协调战略，将微观促成机制与宏观科研生产协同对齐，方能有效化解现实阻碍。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 105–108, 118–120)]]
+> 教育[[Research Utilization|研究利用]]并非由单一的研究供给质量或个体态度单向决定，而是深嵌于由信息、互动、个体特征、结构与组织、文化五大维度交织构成的复杂生态之中；孤立、单向的线性干预（如单纯增加研究成果摘要分发）无法自主驱动实质性采纳，必须依托结构性制度保障、持续能力建设与高位系统协调战略，将微观促成机制与宏观科研生产协同对齐，方能有效化解现实阻碍。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 105–108, 118–120)]]
 
 > [!citation-card] 概念心智模型与影响因素本质
 > 影响教育研究利用的要素存在严密的逻辑层级：因素（Factors）是特定活动影响研究利用的深层过程或手段；机制（Mechanisms）起到促成作用，障壁（Barriers）起到阻碍作用；这些因素既可能是为了弥合研用脱节而有意设立的正式机制，也可能是组织结构与文化中无意形成的非正式阻滞。干预（Interventions）则是针对真实障壁并借助有效机制而制定的明确行动方案；战略（Strategies）则是整合多项干预、旨在推动更优研究利用的宏观综合行动规划。（pp. 105–106）
@@ -78,7 +68,7 @@ updated: 2026-09-13
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Research Utilization]] | 核心构件 | 作为因变量与目标行为，涵盖政策与实践维度的概念性、工具性与象征性利用。 |
+> | [[Research Utilization]] | 核心构件 | 作为[[Dependent Variable\|因变量]]与目标行为，涵盖政策与实践维度的概念性、工具性与象征性利用。 |
 > | [[Knowledge Mobilisation]] | 理论母体 | 提供三代模型（线性推送、关系互动、系统协同）演进透镜，定位机制的作用方式。 |
 > | [[Evidence Ecosystem]] | 宏观框架 | 将各主体、机构与资源统摄于具有自适应特征与反馈回路的生态整体。 |
 > | 影响因素五维分类 | 分类构件 | 信息、互动、个体特征、结构与组织、文化五大互补维度。 |
@@ -100,19 +90,17 @@ updated: 2026-09-13
 > - **结构与组织维度**
 >   体现为系统或组织在正式制度上对研究生产与转化的资源支撑，包括专设研读时间、专项科研基金、在岗进修机会、操作性指南与显性激励考评机制。
 > - **文化维度**
->   体现为科研生产方与使用方在工作优先事项上的对齐程度、主体对证据创新的开放包容态度与主观使用意愿，以及整个治理体系对实证科学价值的根本信念与政治意愿。
-> 
-> 五大维度构成了影响循证教育政策与实践利用全景图谱。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 106, 122–123)]]
+>   体现为科研生产方与使用方在工作优先事项上的对齐程度、主体对证据创新的开放包容态度与主观使用意愿，以及整个治理体系对实证科学价值的根本信念与政治意愿。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 106, 122–123)]]
 
 ---
 
 ### 命题二　单维信息与互动机制具有非充分性，其转化效能严格依附于组织结构与能力建设支撑
 
 > [!claim] 机制协同假说
-> 单纯提供易读的信息分发工具（如研究综述或工具包）或设立多方交流项目，是促进研究利用的必要条件而非充分条件；若缺乏配套的专业能力培养、合理的研读工作负荷分配以及制度化的流程嵌入，信息和互动机制将被微观工作压力迅速稀释，无法引发持久的行为变革。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 108–110, 118)]]
+> 单纯提供易读的信息分发工具（如研究综述或工具包）或设立多方交流项目，是促进[[Research Utilization|研究利用]]的[[Necessary and Sufficient Conditions|必要条件]]而非充分条件；若缺乏配套的专业能力培养、合理的研读工作负荷分配以及制度化的流程嵌入，信息和互动机制将被微观工作压力迅速稀释，无法引发持久的行为变革。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 108–110, 118)]]
 
 > [!warrant]- 行为动力学支撑逻辑
-> 依据行为改变与知识转化文献（Langer et al., 2016; Oliver et al., 2014），决策者与实践者采纳外部证据的行为转化依赖于动机、机会与能力（Motivation, Opportunity, and Capacity）的三元协同。信息普及仅解决了部分认知机会，若组织结构不给予专用时间（机会赤字）且不进行证据批判素养培训（能力赤字），政策与教学实践将继续沿袭经验惯性。
+> 依据行为改变与知识转化[[Document|文献]]（Langer et al., 2016; Oliver et al., 2014），决策者与实践者采纳外部证据的行为转化依赖于动机、机会与能力（Motivation, Opportunity, and Capacity）的三元协同。信息普及仅解决了部分认知机会，若组织结构不给予专用时间（机会赤字）且不进行证据批判素养培训（能力赤字），政策与教学实践将继续沿袭经验惯性。
 
 ---
 
@@ -131,18 +119,18 @@ updated: 2026-09-13
 ## 理论演进与发展
 
 > [!thought-timeline] 影响因素理论思想演进
-> - **2000s — 循证医学与公共政策跨领域综述** Nutley 等人（2003, 2009）梳理跨领域证据利用干预，提出个体、组织与系统三层作用机制，并指出单向传递的局限。
-> - **2010 — 三代模型透镜确立** Best & Holmes（2010）归纳知识动员的线性、关系与系统三大理论范式，奠定机制归类的方法论基础。
-> - **2014 — 跨行业系统综述与类型学雏形** Humphries 等人（2014）与 Oliver 等人（2014）通过对卫生及公共管理海量文献的系统综述，提炼出阻碍与促成证据使用的核心维度，成为教育领域直接移植的母本。
-> - **2022 — 经合组织强化教育研究影响力项目（Strengthening the Impact of Education Research, SIER）跨国实证拓展与教育情境重构** Torres（2022）将卫生领域的类型学全面拓宽至教育系统，划定五维框架，并利用经合组织 29 国 37 个教育系统调查数据进行跨国检验，揭示机制数量与障壁感知的非线性错配。
+> - **2000s — 循证医学与公共政策跨领域综述** Nutley et al. (2003, 2009) 梳理跨领域证据利用干预，提出个体、组织与系统三层作用机制，并指出单向传递的局限。
+> - **2010 — 三代模型透镜确立** Best & Holmes (2010) 归纳[[Knowledge Mobilisation|知识动员]]的线性、关系与系统三大理论[[Paradigm|范式]]，奠定机制归类的方法论基础。
+> - **2014 — 跨行业[[Systematic Review|系统综述]]与类型学雏形** Humphries et al. (2014) 与 Oliver et al. (2014) 通过对卫生及公共管理海量[[Document|文献]]的系统综述，提炼出阻碍与促成[[Research Utilization|证据使用]]的核心维度，成为教育领域直接移植的母本。
+> - **2022 — [[OECD|经合组织]][[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（Strengthening the Impact of Education Research, SIER）跨国实证拓展与教育情境重构** [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] 将卫生领域的类型学全面拓宽至教育系统，划定五维框架，并利用经合组织 29 国 37 个教育系统调查数据进行跨国检验，揭示机制数量与障壁感知的非线性错配。
 
 ---
 
 ## 适用场景与边界条件
 
 > [!success] 适用场景
-> - 国家或地方教育行政部门诊断本区域证据生态系统的制度健全度与资源短板。
-> - 教育智库、中介机构与高校评估知识动员干预方案的综合有效性与组合设计。
+> - 国家或地方教育行政部门诊断本区域[[Evidence Ecosystem|证据生态系统]]的制度健全度与资源短板。
+> - 教育智库、中介机构与高校评估[[Knowledge Mobilisation|知识动员]]干预方案的综合有效性与组合设计。
 > - 比较教育学者对不同国家或区域循证政策体系开展跨国制度对比与机制分析。
 
 > [!warning] 适用局限
@@ -156,17 +144,17 @@ updated: 2026-09-13
 > [!debates] 学术争议
 >
 > > [!axis] 还原论要素分解 vs 复杂自适应系统生态
-> > 批判者指出，将研究利用切分为若干离散的促进因素与阻碍因素带有明显的实证主义还原论色彩；而在复杂的教育系统中，各要素之间存在非线性共演、延迟反馈与文化共生，脱离特定情境简单增减机制难以产生线性预期效果。
+> > 批判者指出，将[[Research Utilization|研究利用]]切分为若干离散的促进因素与阻碍因素带有明显的[[Positivism|实证主义]]还原论色彩；而在复杂的教育系统中，各要素之间存在非线性共演、延迟反馈与文化共生，脱离特定情境简单增减机制难以产生线性预期效果。
 > >
-> > - **Mason (2016); Burns & Köster (2016)** 强调必须从复杂性理论（Complexity Theory）出发，将证据利用视为整个治理体系的涌现属性，反对割裂考察孤立要素。
-> > - **Torres (2022)** 回应指出，类型学并非主张机械还原，而是为高度复杂的治理现象提供可操作的诊断抓手，其终极目标正是推动从碎片要素向系统级协同发展。
+> > - **Mason (2016); Burns & Köster (2016)** 强调必须从[[Complexity Theory|复杂性理论]]（Complexity Theory）出发，将证据利用视为整个治理体系的[[Emergence|涌现]]属性，反对割裂考察孤立要素。
+> > - **Torres (2022)** 回应指出，类型学并非主张机械还原，而是为高度复杂的治理现象提供可操作的诊断支点与分析基准，其终极目标正是推动从碎片要素向系统级协同发展。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 经合组织编著第五章，正式提出本类型学，并运用 29 国 37 个教育系统跨国调查数据实证测度机制与障壁的分布态势。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — [[OECD|经合组织]]编著第五章，正式提出本类型学，并运用 29 国 37 个教育系统跨国调查数据实证测度机制与障壁的分布态势。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 提出信任、技能、结构与关系四类贯通微观、中观与宏观的治理机制，与五维类型学形成微观与宏观互补。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 实证描绘 17 类行动者活跃度网络，为类型学中的互动维度提供微观主体结构证据。
-> - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统对比跨领域知识动员模型，为理解机制运作提供理论基础。
+> - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统对比跨领域[[Knowledge Mobilisation|知识动员]]模型，为理解机制运作提供理论基础。

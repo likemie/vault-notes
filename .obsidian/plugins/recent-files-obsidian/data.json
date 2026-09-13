@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_BarriersMechanisms.md"
     },
     {
+      "basename": "Typology of Factors Influencing Research Use",
+      "path": "wiki/theories/educational-policy-reform/Typology of Factors Influencing Research Use.md"
+    },
+    {
       "basename": "Argument_Torres_2022_KMModels",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_KMModels.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Complexity Theory",
       "path": "wiki/theories/educational-philosophy/Complexity Theory.md"
-    },
-    {
-      "basename": "EU Evidence-Informed Education Policy Initiatives",
-      "path": "wiki/facts/eu/EU Evidence-Informed Education Policy Initiatives.md"
     }
   ],
   "omittedPaths": [],

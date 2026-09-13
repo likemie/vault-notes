@@ -1108,7 +1108,7 @@ Total entries: **2439**
 > - [[Research Knowledge Mobilisation Model]] — 由 Ben Levin 提出的经典教育知识动员系统理论模型，将研究流动表征为生产、使用与中介三大功能情境的动态重叠与双向反馈，并深嵌于宏观社会背景之中。
 > - [[Research Utilization Models]] — 由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。
 > - [[Two-Communities Theory]] — 两社区理论由 Nathan Caplan（1979）提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，是政策中介、边界跨越者与研究利用理论的奠基性元模型。
-> - [[Typology of Factors Influencing Research Use]] — 整合 Humphries 等人跨领域综述与 Best & Holmes 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并阐明跨层系统性协调的必要性
+> - [[Typology of Factors Influencing Research Use]] — 整合 Humphries et al. (2014) 跨领域综述与 Best & Holmes (2010) 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并阐明跨层系统性协调的必要性
 > - [[Van Leeuwen's Legitimation Theory]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
 
 > [!index-list]- Educational Psychology (19)
