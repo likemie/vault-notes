@@ -648,7 +648,7 @@ Total entries: **432**
 > - [[Government Office for Science]] — 2007 年设立于英国中央政府内阁中枢的专职科学治理与科技顾问统筹机构，由英国政府首席科学顾问（GCSA）领导，负责统筹协调全英各部委首席科学顾问（CSA）网络、发布国家前瞻预见报告（Foresight Reports）与重点研究领域清单（ARIs），并作为国家应急科学咨询小组（SAGE）的常设运作中枢
 > - [[Grammar School]] — 英格兰以 11-plus 考试选拔学生的公立学术中学，现有 163 所，159 所获 Ofsted 良好/优秀评级
 > - [[Industrial Strategy Challenge Fund]] — 英国在 2017 年产业战略框架下设立的产业主导、产业参与的挑战驱动型研究与创新资助机制，四年间追加 47 亿英镑科学预算中大量资金通过 ISCF 分配，涵盖量子技术、医疗、清洁增长等领域
-> - [[National Strategy for Educational Research and Enquiry]] — 威尔士政府于 2018 年受英国教育部委托共同发起、2021 年正式发布的全国教育研究战略，旨在构建覆盖 3 至 18 岁教育与高等教育的循证专业共同体，系统培育研究能力并赋能证据知情政策
+> - [[National Strategy for Educational Research and Enquiry]] — 威尔士政府于 2018 年受英国教育部委托共同发起、2021 年正式发布的全国教育研究战略，旨在构建覆盖 3 至 18 岁教育与高等教育的循证专业共同体，系统培育研究能力并支撑证据知情政策制定
 > - [[Parliamentary Office of Science and Technology]] — 英国议会两院于 1989 年设立的法定独立科技评估与证据咨询机构，通过定期编制经过严格同行评议的客观科学简报（POSTnotes）与组织跨党派证据研讨，为国会议员及专责委员会审议重大科技政策议题提供中立、前沿与权威的科学洞察
 > - [[Public Attitudes to Science]] — 由英国政府与英国研究与创新署（UKRI）委托 Ipsos 等权威机构长期开展的全国代表性成年公民科学态度追踪调查（2000–2025），系统监测公众对科学价值、科学家信任度、新兴技术伦理、科普场馆访问及科技重大决策民主参与诉求的演进态势。
 > - [[Research Excellence Framework]] — 英国实施的全国性大学研究评估体系（前身为 RAE），直接决定 QR 研究拨款的分配，是高等教育准市场与新公共管理（NPM）审计文化中最成熟的制度形式，深刻驱动了英国大学的管理主义形变
