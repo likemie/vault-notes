@@ -7,7 +7,7 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[International Education]]"
   - "[[School Leadership]]"
+  - "[[Self-report Bias]]"
   - "[[Heterogeneity]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"
@@ -229,7 +230,7 @@ updated: 2026-09-13
 
 > [!volume-limits] 使用边界
 > - **不能直接代表单章观点** Overview 旨在统摄编者组织主张与全书整体框架，各章作者的独立理论假定、案例考证与实证模型详见分章 Argument。
-> - **调查数据的自陈偏差限制** OECD 政策调查数据主要来源于各参与国教育部的官方统一填报与高级官员[[In-depth Interview|深度访谈]]，反映的是国家/地方最高教育行政部门的主观认知，可能与一线学校教师的真实体感存在落差。
+> - **调查数据的[[Self-report Bias|自陈偏差]]限制** OECD 政策调查数据主要来源于各参与国教育部的官方统一填报与高级官员[[In-depth Interview|深度访谈]]，反映的是国家/地方最高教育行政部门的主观认知，可能与一线学校教师的真实体感存在落差。
 > - **章节[[Heterogeneity|异质性]]** 各章作者在[[Epistemic Stances|认识论立场]]（如循证医学[[Positivism|实证主义]] vs 批判性[[Constructivist Paradigm|社会建构主义]]）上存在深刻分歧，引用时必须精准回到具体章节的情境脉络。
 
 ---

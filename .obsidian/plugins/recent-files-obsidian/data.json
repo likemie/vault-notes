@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Hill_2022_FacilitatingActors.md"
     },
     {
+      "basename": "Heterogeneity",
+      "path": "wiki/concepts/research-methodology/Heterogeneity.md"
+    },
+    {
+      "basename": "Self-report Bias",
+      "path": "wiki/concepts/research-methodology/Self-report Bias.md"
+    },
+    {
+      "basename": "Research Utilization",
+      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
+    },
+    {
       "basename": "Educational Brokerage Agency",
       "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
     },
@@ -121,10 +133,6 @@
       "path": "wiki/concepts/teacher-education/Research Literacy.md"
     },
     {
-      "basename": "Heterogeneity",
-      "path": "wiki/concepts/research-methodology/Heterogeneity.md"
-    },
-    {
       "basename": "Patient and Public Involvement",
       "path": "wiki/concepts/educational-policy-reform/Patient and Public Involvement.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Research-Informed Teaching Practice",
       "path": "wiki/concepts/educational-policy-reform/Research-Informed Teaching Practice.md"
-    },
-    {
-      "basename": "Research Knowledge Mobilisation Model",
-      "path": "wiki/theories/educational-policy-reform/Research Knowledge Mobilisation Model.md"
-    },
-    {
-      "basename": "Knowledge Transfer",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Transfer.md"
     }
   ],
   "omittedPaths": [],
