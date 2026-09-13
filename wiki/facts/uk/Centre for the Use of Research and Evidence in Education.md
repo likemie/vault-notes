@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Ecological Validity]]"
+  - "[[Research Translation]]"
   - "[[Research Utilization]]"
   - "[[Formative Assessment]]"
   - "[[Peer Mentoring]]"
@@ -105,7 +106,7 @@ updated: 2026-09-13
 > [!actor-grid] 组织治理与执行矩阵
 > - **首席学术领导层（Philippa Cordingley 团队）** 把握机构[[Knowledge Mobilisation|知识动员]]理论前沿，统筹综述方法论与咨询项目设计。
 > - **[[Transfer Translation Transformation|转译]]与课程研发团队** 由具备一线丰富教学经验的特级教师、学科带头人与教育研究者共同组成，确保工具包的实践[[Ecological Validity|生态效度]]。
-> - **学校伙伴协作网络** 与全英数百所试点中小学建立长效田野联系，直接在真实课堂情境中测试研究转译工具的可用性。
+> - **学校伙伴协作网络** 与全英数百所试点中小学建立长效田野联系，直接在真实课堂情境中测试[[Research Translation|研究转译]]工具的可用性。
 > - **政策与外部评估委托方** 承接教育部、慈善信托及各学区的独立第三方政策执行效果审计与教师发展项目评价。
 
 > [!pathways]- 知识动员与微观转译机制

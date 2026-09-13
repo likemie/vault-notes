@@ -34,7 +34,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Mediation]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Knowledge Mobilisation]]"
+  - "[[Research Translation]]"
   - "[[Clinical Trial]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
@@ -108,7 +108,7 @@ updated: 2026-09-13
 > - **成立时间 / 创设背景** 2002 年依据联邦《教育科学改革法案》（ESRA）创设，旨在落实《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（[[No Child Left Behind Act 2001|NCLB]]）关于“基于科学的研究”（Scientifically Based Research）的法定问责要求([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区；审查对象覆盖早期教育至高等教育全学段，官方平台为 [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)，审查标准已迭代至手册第 5 版（Handbook v5.0）。
 > - **法人属性与经费依托** 联邦政府官方直属公共机构；累计获得超过 **1 亿美元（>$100M）** 联邦经常性强制财政预算资助，享有极强的制度护城河([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
-> - **早期线性“推送”与[[Transfer Translation Transformation|转译]]范式代表** [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 20–21)]] 指出，WWC 是早期知识经纪（Knowledge Brokerage）的标志性机构，核心假定在于通过专业“[[Knowledge Mobilisation|知识转译]]”（Translation）将高严谨性学术研究加工为实践指南（Practice Guides）与干预评估报告，呈现出鲜明的线性研究转移（Research Transfer）与单向供给推送特征。
+> - **早期线性“推送”与[[Transfer Translation Transformation|转译]]范式代表** [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 20–21)]] 指出，WWC 是早期知识经纪（Knowledge Brokerage）的标志性机构，核心假定在于通过专业“[[Research Translation|知识转译]]”（Translation）将高严谨性学术研究加工为实践指南（Practice Guides）与干预评估报告，呈现出鲜明的线性研究转移（Research Transfer）与单向供给推送特征。
 
 ---
 

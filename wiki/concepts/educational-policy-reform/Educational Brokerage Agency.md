@@ -10,7 +10,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 52
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,13 +40,14 @@ related_concepts:
   - "[[Data Literacy]]"
   - "[[Phronesis]]"
   - "[[Epistemic Governance]]"
+  - "[[School Inspection]]"
+  - "[[School Leadership]]"
   - "[[Professional Judgment]]"
   - "[[Cumulative Knowledge Base]]"
   - "[[Network Governance]]"
   - "[[Evidence Backlash]]"
   - "[[Epistemology]]"
   - "[[Evidence-Informed Decision-Making]]"
-  - "[[School Leadership]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []
@@ -77,6 +78,7 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+  - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Pellegrini_2021_ROE]]"
 confidence: high
@@ -131,26 +133,35 @@ updated: 2026-09-13
 > - **质量保障规程与方法学阵营（Methodologies and Standards）** 围绕“何为合规有效证据”形成两大方法论取向：一是以美国 [[What Works Clearinghouse|WWC]]、英国 [[Education Endowment Foundation|EEF]] 和 坎贝尔协作网 为代表的[[Randomised Controlled Trials|随机对照试验]]（RCT）黄金标准派，侧重可复制干预措施的因果效应评估与成本核算；二是以英国 [[EPPI-Centre]]、挪威知识中心和瑞典教育法为代表的多元方法论派，坚持质性与量化证据的系统综合，并赋予教师[[Phronesis|实践智慧]]与学术研究平等的本体地位（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 63–64]]）。
 > - **[[Epistemic Governance|知识治理]]的三维流程（Knowledge Governance Dimensions）** 中介机构系统覆盖三大环节：[[Knowledge Production|知识生产]]（引导专项课题基金、设定绩效目标与政策试验）、[[Knowledge Mediation|知识中介]]与传播（人员跨部门兼聘流动、专业素养培训与跨组织共享）以及[[Research Utilization|知识利用]]（将特定循证策略嵌入学校考核或与财政拨款挂钩）（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 61]]）。
 
+> [!taxonomy] [[OECD|经合组织]]系统官方教育中介机构治理类型学（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]], Appendix 4.B, p. 81）
+> - **私人组织（Private Organizations）** 包括教育创业者（Edupreneurs，如瑞典市场化中介主体）与接受委托开展评估的教育咨询集团（如南非）。
+> - **非营利组织（Non-profit Organizations）** 包含依托公益基金开展循证工作坊的师训非营利机构（如南非），以及独立资助动员的非政府组织与慈善基金会（如葡萄牙 EDULOG 项目、哥伦比亚社会基金会）。
+> - **学术界（Academia）** 包括大学与教育学院（如芬兰、挪威承担法定转化职能的院系），以及自发扩散学术证据的学者与研究生联合会（如南非）。
+> - **专门研究机构（Dedicated Research Centres）** 包含国家级独立教育研究所（如芬兰、哥斯达黎加国家研究所）、课堂专题研究中心、综合社科研究院（如丹麦 VIVE 中心）与国家经济分析预测机构。
+> - **评估与监测机构（Evaluation and Monitoring Agencies）** 包含独立专门评估机构（如芬兰国家教育评估中心 FINEEC）与统一汇聚清洗教育数据库的公开测评平台（如哥斯达黎加）。
+> - **其他政府机构（Other Government Agencies）** 包含统筹督导与课改的法定行政机构（如瑞典[[School Inspection|教育督导]]局、芬兰国家教育署），以及部委专项支持的[[School Leadership|学校领导力]]中心（如智利）。
+> - **独立机构（Independent Agencies）** 包含由议会或部委设立留本基金保持学术自治的公共资助中介枢纽（如英国英格兰 [[Education Endowment Foundation|EEF]]、丹麦公资独立机构），以及基层民间专家网络（如哥伦比亚草根专家网络）。
+
 > [!logic-map]- 教育中介机构生态架构与功能机制
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph Governance["治理依附类型"]
->         G1["部委嵌入型\n(新西兰 BES / 荷兰 Kenniskamer)"]
->         G2["政府资助自治型\n(日本 NIER / 挪威知识中心 / 瑞士 SKBF)"]
->         G3["独立慈善基金型\n(英国 EEF / 土耳其 ERG)"]
+>         G1["部委嵌入型<br>(新西兰 BES / 荷兰 Kenniskamer)"]
+>         G2["政府资助自治型<br>(日本 NIER / 挪威知识中心 / 瑞士 SKBF)"]
+>         G3["独立慈善基金型<br>(英国 EEF / 土耳其 ERG)"]
 >     end
 > 
 >     subgraph CoreAgency["教育中介机构核心功能"]
->         F1["知识生产引导\n(定向资助 / 试点实验)"]
->         F2["质量审查与综合\n(RCT金标准 vs 质量融合)"]
->         F3["知识中介与传播\n(快速综述 / 语言翻译 / 互动网络)"]
->         F4["促成使用与能力建设\n(教师培训 / 学校网络 / 政策挂钩)"]
+>         F1["知识生产引导<br>(定向资助 / 试点实验)"]
+>         F2["质量审查与综合<br>(RCT金标准 vs 质量融合)"]
+>         F3["知识中介与传播<br>(快速综述 / 语言翻译 / 互动网络)"]
+>         F4["促成使用与能力建设<br>(教师培训 / 学校网络 / 政策挂钩)"]
 >     end
 > 
 >     subgraph Audiences["多元目标受众"]
->         A1["政策制定者\n(部委官员 / 地方教育局)"]
->         A2["专业实践者\n(校领导 / 教师 / 教学助理)"]
->         A3["社会与媒介\n(教育记者 / 家长 / 公众)"]
+>         A1["政策制定者<br>(部委官员 / 地方教育局)"]
+>         A2["专业实践者<br>(校领导 / 教师 / 教学助理)"]
+>         A3["社会与媒介<br>(教育记者 / 家长 / 公众)"]
 >     end
 > 
 >     Governance --> CoreAgency
@@ -209,7 +220,7 @@ updated: 2026-09-13
 > 依托大规模跨国实证调查数据，检视各国官方中介机构在研究生产与政策实践促成上的真实功能分布，剖析其与中央教育行政部门之间的联结异化现象。
 
 > [!claim] Hill, J.
-> **双重活跃度画像与部委联结的脱节悖论** 经合组织（OECD）跨国政策调查（覆盖 29 国 37 个教育系统）实证数据显示，在 16 个报告存在活跃官方中介机构的系统中，机构运作呈现高度异质性，分化为两大活动模式：一类为“全流程并重型”（6 个系统，如智利、芬兰、挪威、葡萄牙、英国英格兰、哥斯达黎加），在研究生产、政策促成与实践转化三端均保持高活跃度；另一类为“单点聚焦型”（7 个系统，如新西兰、丹麦、哥伦比亚、瑞典等），如新西兰仅在促进实践端活跃，而在政策制定与研究生产端并不活跃。尤为突出的是，官方中介机构的活跃度并未自动转化为教育部委的紧密工作联系：在报告中介活跃的 16 个系统中，仅 9 个教育部委报告与其保持经常性联系；丹麦与智利的官方中介虽被评估为在政策促成端高度活跃，但两国教育部均报告与之无任何实质联系；英国教育捐赠基金会（EEF）凭借 15 年长期留本基金保持高度自治与卓越影响力，教育部却报告仅与之维持偶尔性接触；而在哥伦比亚，教育部与官方中介联系最为紧密，却与其国内最主要的知识生产与中介主体（大学、咨询公司与政策网络）完全脱节。这表明中介机构与中央教育行政部门的联结深受政治资助模式、机构自治定位及科层权力惯习的制约，存在显著的制度性错位。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 81–82, 86–87)]]
+> **双重活跃度画像与部委联结的脱节悖论** 经合组织（OECD）跨国政策调查（覆盖 29 国 37 个教育系统）实证数据显示，在 16 个报告存在活跃官方中介机构的系统中，机构运作呈现高度[[Heterogeneity|异质性]]，分化为两大活动模式：一类为“全流程并重型”（6 个系统，如智利、芬兰、挪威、葡萄牙、英国英格兰、哥斯达黎加），在研究生产、政策促成与实践转化三端均保持高活跃度；另一类为“单点聚焦型”（7 个系统，如新西兰、丹麦、哥伦比亚、瑞典等），如新西兰仅在促进实践端活跃，而在政策制定与研究生产端并不活跃。尤为突出的是，官方中介机构的活跃度并未自动转化为教育部委的紧密工作联系：在报告中介活跃的 16 个系统中，仅 9 个教育部委报告与其保持经常性联系；丹麦与智利的官方中介虽被评估为在政策促成端高度活跃，但两国教育部均报告与之无任何实质联系；英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）凭借 15 年长期留本基金保持高度自治与卓越影响力，教育部却报告仅与之维持偶尔性接触；而在哥伦比亚，教育部与官方中介联系最为紧密，却与其国内最主要的[[Knowledge Production|知识生产]]与中介主体（大学、咨询公司与[[Policy Network|政策网络]]）完全脱节。这表明中介机构与中央教育行政部门的联结深受政治资助模式、机构自治定位及科层权力惯习的制约，存在显著的制度性错位。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 81–82, 86–87)]]
 
 ---
 
@@ -221,7 +232,7 @@ updated: 2026-09-13
 > | **中介存续的政治周期命题** | 中介机构高淘汰率根源于政治更迭与财政短期考核机制 | 政府公共资助的各类国家级与地方教育中介机构 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]; Blanchenay et al. (2014); Borman et al. (2003) |
 > | **循证异化与商业操纵命题** | 警惕中介规程技术化对专业智慧的剥离及市场资本对证据的包装操纵 | 证据工具包推广、教育科技应用与私有化市场介入 | Greenhalgh et al. (2014); Lubienski (2019) |
 > | **累积知识库与元中介命题** | 打破机构孤岛，通过跨国元网络攻克方法论挑战并累积通用知识 | 区域及跨国证据中介协作、二阶[[Systematic Review\|系统综述]]与系统治理 | Gough et al. (2011, 2018) |
-> | **中介功能分化与部委脱节命题** | 中介呈现全流程与单点聚焦分化且活跃度未必然转化为部委实质联系 | OECD 跨国教育证据生态系统与中央教育行政治理关系 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] |
+> | **中介功能分化与部委脱节命题** | 中介呈现全流程与单点聚焦分化且活跃度未必然转化为部委实质联系 | OECD 跨国[[Evidence Ecosystem\|教育证据生态系统]]与中央教育行政治理关系 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] |
 
 ---
 
@@ -274,7 +285,7 @@ updated: 2026-09-13
 > | 同上 | Knowledge Chamber ([[Kenniskamer]]), 荷兰 | 荷兰教育部内部专设高阶咨询室 | 荷兰教育部部长、政策制定高层官员 | 针对部委重大政策急难问题组织专家[[Dialogue in Education\|对话]]与研讨 | 休眠停摆（Hibernating） | 极度依赖主管大臣个人意志，随内阁更迭与人事变动陷入机制停摆（p. 64） |
 > | 同上 | [[Education Endowment Foundation\|Education Endowment Foundation (EEF)]], 英国 | 萨顿信托（Sutton Trust）发起设立的独立慈善信托 | 校长、一线教师、教育中介网络 | 严苛 RCT 评价；发布教学与学习工具包；[[Research Schools Network\|研究学校网络]] | 持续高度活跃（Highly active） | 2011年获英国教育部1.25亿英镑巨额留本基金资助，拥有高度独立的财务与治理保障（p. 58） |
 > | 同上 | [[National Institute for Educational Policy Research]] (NIER), 日本 | 文部科学省同楼办公但保持行政自治的国立研究机构 | 文部科学省、各都道府县教育委员会 | 课程实施评估、国家学力调查与政策实证分析 | 持续稳定运行（Active） | 法定国立政策研究机构定位，与中央教育行政形成稳定的共生协调机制（pp. 61–62） |
-> | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | 16 个设立官方中介机构的 OECD 教育系统 | 涵盖部委直属研究中心、独立评估院、民间基金会与统计局等多形态 | 政策决策者、一线学校实践者、公众 | 全流程生产与促成（6国）vs 单点聚焦（7国） | 16 个系统活跃（5 个系统存在但停滞） | 仅 9 个部委保持经常性联结；英格兰 EEF 仅维持偶尔接触；智利与丹麦部委断联（pp. 81–82, 86–87） |
+> | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | 16 个设立官方中介机构的 [[OECD]] 教育系统 | 涵盖部委直属研究中心、独立评估院、民间基金会与统计局等多形态 | 政策决策者、一线学校实践者、公众 | 全流程生产与促成（6国）vs 单点聚焦（7国） | 16 个系统活跃（5 个系统存在但停滞） | 仅 9 个部委保持经常性联结；英格兰 EEF 仅维持偶尔接触；智利与丹麦部委断联（pp. 81–82, 86–87） |
 
 ---
 
@@ -282,6 +293,6 @@ updated: 2026-09-13
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 系统考证过去15年间全球教育中介机构在治理模式、方法论立场与服务受众上的历史演化，揭示其受制于政治与预算周期的生存悖论，并在循证医学反思下提出建设[[Cumulative Knowledge Base|累积性知识库]]与“中介的中介”元协调倡议。
-> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 基于 OECD 政策调查数据，详尽描绘 16 个教育系统中官方中介机构的双重活跃度画像、多元组织形态（统计局、企业化中介、国家评估院）以及与教育部委之间存在的联结脱节悖论。
+> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 基于 [[OECD]] 政策调查数据，详尽描绘 16 个教育系统中官方中介机构的双重活跃度画像、多元组织形态（统计局、企业化中介、国家评估院）以及与教育部委之间存在的联结脱节悖论。
 > - [[Argument_Torres_2022_KMModels|Torres (2022)]] — 比较跨领域四大主流[[Knowledge Mobilisation|知识动员]]模型，解析[[Knowledge Mediation|知识中介]]在系统模型中作为连接[[Knowledge Production|知识生产]]与知识使用核心纽带的职能定位。
 > - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 评估欧美主要[[Educational Evidence Clearinghouses|教育证据清算机构]]（包括 [[What Works Clearinghouse|WWC]]、[[Education Endowment Foundation|EEF]]、BEP 等）的[[Systematic Review|系统综述]]标准与评级一致性，证实中介审查门槛的差异对政策采纳产生直接影响。

@@ -3918,7 +3918,6 @@
     "path": "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md",
     "aliases": [
       "知识动员",
-      "知识转译",
       "KMb",
       "knowledge mobilization",
       "Three Generations of Knowledge Mobilisation",
@@ -10090,10 +10089,13 @@
     "path": "wiki/concepts/university-industry-collaboration/Research Translation.md",
     "aliases": [
       "研究转化",
+      "研究转译",
       "研究转化漏斗",
       "research translation funnel",
       "innovation funnel",
-      "技术转化"
+      "技术转化",
+      "知识转译",
+      "knowledge translation"
     ]
   },
   {
@@ -11879,7 +11881,8 @@
       "组织文化",
       "organisational culture",
       "Schein's model of organizational culture",
-      "组织文化三层次模型"
+      "组织文化三层次模型",
+      "组织文化理论"
     ]
   },
   {

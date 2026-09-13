@@ -27,6 +27,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
+  - "[[Research Translation]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
   - "[[Paideia]]"
@@ -43,12 +44,12 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-21'
-updated: 2026-09-11
+updated: 2026-09-13
 ---
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Thomas Nordahl 是挪威教育学者，任 SePU、Høgskolen i Hedmark 教授([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。在当前 vault 已处理到的 `Paideia` [[Visible Learning|可见的学习]]（Visible Learning，VL）主题号中，他代表一条清晰的 [[Visible Learning]] 支持路径：不把VL理解成干预排行榜，而把它[[Transfer Translation Transformation|转译]]成围绕学习结果、研究证据、教师判断和学校改进能力展开的系统性论述（[[Argument_Nordahl_2015_Paideia]]；[[Argument_Hansen_2015_Paideia]]）。
+> - **身份位置** Thomas Nordahl 是挪威教育学者，任 SePU、Høgskolen i Hedmark 教授([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。在当前 vault 已处理到的 `Paideia` [[Visible Learning|可见的学习]]（Visible Learning，VL）主题号中，他代表一条清晰的 [[Visible Learning]] 支持路径：不把VL理解成干预排行榜，而把它[[Transfer Translation Transformation|转译]]成围绕学习结果、研究证据、教师判断和学校改进能力展开的系统性论述（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015]]；[[Argument_Hansen_2015_Paideia|Hansen et al., 2015]]）。
 
 ## 核心思想
 
@@ -57,7 +58,7 @@ updated: 2026-09-11
 >
 > - **学习结果是学校改进的中心尺度** 教育既然深刻影响个人未来和社会延续，学校改进就不能停留在价值口号或制度修补，而必须追问“学生是否真的学到了东西”([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–63]])。
 > - **研究证据是概率资源，不是自动命令**[[Evidence-Based Education|循证教育]]的价值不在于替教师下指令，而在于提高行动成功的概率，因此它应与 [[Professional Judgment]] 结合，而非取代专业判断([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.63–65]])。
-> - **学校改进的瓶颈在[[Knowledge Mobilisation|知识转译]]** 真正稀缺的不是研究本身，而是把研究转进课堂的组织机制，例如能力建设、[[Knowledge Mobilisation]]、教师协作、课堂观察和数据使用([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]])。
+> - **学校改进的瓶颈在[[Research Translation|知识转译]]** 真正稀缺的不是研究本身，而是把研究转进课堂的组织机制，例如能力建设、[[Knowledge Mobilisation]]、教师协作、课堂观察和数据使用([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]])。
 > - **反对把改革误诊成“动力问题”** 单纯依靠 [[New Public Management]] 式问责、竞争和奖惩，只会把学校改进误解成压力管理问题，而不是知识与能力建设问题([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.65]])。
 >
 > > "Praksis som bygger evidensbasert pedagogisk forskning, kan ikke garantere gode resultater, men den kan øke sannsynligheten."([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.63]])
@@ -77,8 +78,8 @@ updated: 2026-09-11
 
 > [!note]- 生平与职涯
 > - 任 SePU、Høgskolen i Hedmark 教授，活跃于学校改进、学习环境与教育实践改革议题([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。
-> - **2015** 年在 *[[Paideia]]* 发表 [[Argument_Nordahl_2015_Paideia]]，系统论证为何斯堪的纳维亚教育系统应以学习结果与研究证据作为改进基准([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–69]])。
-> - 同年所参与的 [[Argument_Hansen_2015_Paideia]] 导言把他的文章放在主题号的系统改进位置，用来支撑“[[Visible Learning]] 不只是研究结果，也是一种学校改进工程起点”的总体编排([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, pp.6–8]])。
+> - **2015** 年在 *[[Paideia]]* 发表论文（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–69]]），系统论证为何斯堪的纳维亚教育系统应以学习结果与研究证据作为改进基准。
+> - 同年所参与的主题号导言（[[Argument_Hansen_2015_Paideia|Hansen et al., 2015, pp.6–8]]）把他的文章放在主题号的系统改进位置，用来支撑“[[Visible Learning]] 不只是研究结果，也是一种学校改进工程起点”的总体编排。
 
 ## 争议与批评
 

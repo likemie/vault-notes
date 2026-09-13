@@ -2,7 +2,6 @@
 title: Knowledge Mobilisation
 aliases:
   - 知识动员
-  - 知识转译
   - KMb
   - knowledge mobilization
   - Three Generations of Knowledge Mobilisation
@@ -13,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,7 +29,9 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Document]]"
   - "[[Knowledge Transfer]]"
+  - "[[Knowledge Co-production]]"
   - "[[Evidence-Based Education]]"
+  - "[[Knowledge Mediation]]"
   - "[[Phronesis]]"
   - "[[Boundary Spanner]]"
   - "[[Professional Judgment]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Knowledge Mobilisation
@@ -114,7 +115,7 @@ updated: 2026-09-12
 > *"Det har i like stor grad vært en form for kunnskapsmobilisering."*
 
 > [!boundary]- 概念边界
-> - 区别于线性[[Knowledge Transfer|知识转移]]（Knowledge Transfer / KT）：知识转移预设知识从研究者向实践者的单向输出，忽视实践情境的复杂性；知识动员强调多主体双向循环与知识共创（Co-creation）。
+> - 区别于线性[[Knowledge Transfer|知识转移]]（Knowledge Transfer / KT）：知识转移预设知识从研究者向实践者的单向输出，忽视实践情境的复杂性；知识动员强调多主体双向循环与[[Knowledge Co-production|知识共创]]（Co-creation）。
 > - 区别于学术研究发表与信息传播（Dissemination）：单纯的论文发表与分发无法打破实践壁垒；知识动员要求深度的能力建设、关系网络与系统化制度支撑。
 > - 区别于[[Evidence-Based Education|证据本位教育]]（EBE）：EBE 侧重探究有效性干预（What Works）；知识动员聚焦知识如何被转译并在具体制度条件下转化为学校行动。
 
@@ -123,7 +124,7 @@ updated: 2026-09-12
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 比较维度 | 知识动员（Knowledge Mobilisation, KMb） | 线性[[Knowledge Transfer\|知识转移]]（Knowledge Transfer, KT） | 知识中介（Knowledge Brokering） | [[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP） |
+> | 比较维度 | 知识动员（Knowledge Mobilisation, KMb） | 线性[[Knowledge Transfer\|知识转移]]（Knowledge Transfer, KT） | [[Knowledge Mediation\|知识中介]]（Knowledge Brokering） | [[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP） |
 > |---|---|---|---|---|
 > | **核心隐喻** | 社会生态系统中的多方共创与迭代循环 | 管道式单向输送与技术交付（Pipeline） | 跨越边界的桥梁搭建与关系调解 | 决策者在复杂现场的四源审议整合 |
 > | **知识性质** | 动态情境化、需共同[[Transfer Translation Transformation\|转译]]的[[Phronesis\|实践智慧]] | 去情境化、标准化的现成学术结论 | 待加工、待连接的跨界信息资源 | 多源整合后指导行动的综合证据 |
@@ -156,7 +157,7 @@ updated: 2026-09-12
 
 > [!tension] 理论-实践脱节的本质：传递断裂 vs 知识形态异质与生产方式（Van de Ven & Johnson, 2006）
 > - **传递与交付视角的转移问题（蓝方）** 视鸿沟为研究成果未以适宜格式交付给用户的传递断裂，试图通过单向包装与渠道分发弥合差距。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 19)]]
-> - **知识异质与生产方式问题（红方）** 视[[Theoretical Knowledge|理论知识]]与实践智慧在[[Ontology|本体论]]上本质异质，必须通过研究者与实践者联合攻关的“[[Engaged Scholarship|参与式学术]]”（Engaged Scholarship）实现全周期知识共创。（Van de Ven & Johnson, 2006）
+> - **知识异质与生产方式问题（红方）** 视[[Theoretical Knowledge|理论知识]]与实践智慧在[[Ontology|本体论]]上本质异质，必须通过研究者与实践者联合攻关的“[[Engaged Scholarship|参与式学术]]”（Engaged Scholarship）实现全周期[[Knowledge Co-production|知识共创]]。（Van de Ven & Johnson, 2006）
 
 > [!mechanism-map]- 知识动员三代嵌套演进架构
 > ```mermaid
@@ -249,7 +250,7 @@ updated: 2026-09-12
 
 ### 命题一　知识流动是多方协作共创的社会交互过程而非线性技术输出
 
-知识流动不会因研究成果的单纯发表而自然发生，知识动员本质上是多元主体共同界定问题、协同生产与情境[[Transfer Translation Transformation|转译]]的社会互动过程。
+知识流动不会因研究成果的单纯发表而自然发生，知识动员本质上是多元主体共同界定问题、[[Knowledge Co-production|协同生产]]与情境[[Transfer Translation Transformation|转译]]的社会互动过程。
 
 > [!claim] [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]; [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]
 > **多方共创与社会交互本质** 知识在教育系统中的流动不会自然发生，单纯增加研究供给无法打破实践壁垒。动员指涉研究者、决策者与实践者之间通过持续[[Dialogue in Education|对话]]共同界定问题、协同生产知识的社会互动与迭代过程。唯有打破生产者与消费者的二元对立，将知识流动置于互惠伙伴关系之中，研究证据才能真正扎根于微观实践土壤。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, p. 66)]]
@@ -307,7 +308,7 @@ updated: 2026-09-12
 > - **组织与人际信任（Trust）**
 >   建立研究者与实践者之间的心理安全感，克服制度性互不信任，营造开放试错的探究氛围。
 > - **双向技能培育（Skill Development）**
->   一线教师发展研究批判与[[Data Literacy|数据素养]]，研究人员发展知识转译与跨界沟通技能。
+>   一线教师发展研究批判与[[Data Literacy|数据素养]]，研究人员发展[[Research Translation|知识转译]]与跨界沟通技能。
 > - **可持续组织架构（Sustainable Structures）**
 >   设立制度化中介机构、联合教研岗位与专门研究使用时间表，避免项目制短期化。
 > - **多层级关系网络（Relationships）**
@@ -361,8 +362,8 @@ updated: 2026-09-12
 > - **2010s — 知识动员概念兴起与全系统实践** 加拿大社会科学与人文研究理事会（SSHRC）倡导 KMb；安大略省建立 [[Knowledge Network for Applied Education Research|KNAER]] 网络，开创全系统多方协作[[Paradigm|范式]]。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 > - **2015 — 北欧学校改进中的知识动员实践** [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 KMb 引入斯堪的纳维亚 [[Visible Learning]] 改革，阐明证据进入课堂必须依赖教师协作与反思重组。
 > - **2017 — 知识动员四类核心策略系统化** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 在特刊中提炼出沟通传播、能力建设、伙伴关系与系统化方法四类策略及三位一体法则。
-> - **2021 — 欧洲非处方化知识中介网络** [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] 总结欧盟教育政策，展示跨国中介机构如何以非强制性方式促进知识共享与评价文化建设。
-> - **2022 — 跨国政策调查与[[Evidence Ecosystem|证据生态系统]]治理** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，构建涵盖结构、关系、质量、文化与能力的五维动员框架，揭示学术考核体制与知识共创的深层制度断裂。
+> - **2021 — 欧洲非处方化[[Knowledge Mediation|知识中介]]网络** [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] 总结欧盟教育政策，展示跨国中介机构如何以非强制性方式促进知识共享与评价文化建设。
+> - **2022 — 跨国政策调查与[[Evidence Ecosystem|证据生态系统]]治理** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，构建涵盖结构、关系、质量、文化与能力的五维动员框架，揭示学术考核体制与[[Knowledge Co-production|知识共创]]的深层制度断裂。
 > - **2022 — 跨领域动员模型类型学与下一代生态路径** [[Argument_Torres_2022_KMModels|Torres (2022)]] 系统比照卫生、公共治理与教育领域主流知识动员模型（Lavis, Graham, Levin, Gough），提炼出构件交互由孤立管道向双层嵌套生态演进、行动者由一维标签向多维功能复合体演进的双重轨迹；批评既有模型普遍缺失终极目标的缺陷，确立了以学生和教师专业学习为崇高目标基准的下一代生态建构路径。
 > - **2025 — 产学研协同动员的多重机制** [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] 基于滑铁卢大学 [[Schlegel-UW Research Institute for Aging|RIA]] 案例，证明共同选址、配套资金与联合研发是实现实验室知识向社会快速动员的自增强系统。
 > - **2026 — 从机械实施转向关系与多维整合** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 基于 109 项研究综述，正式确立以[[Teacher Professional Agency|教师能动性]]、信任网络与跨层治理为核心的整合范式。
@@ -399,7 +400,7 @@ updated: 2026-09-12
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻行为 | 调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道与偏好 | 教师主要从其他一线教师获取信息，实践[[Research Utilization\|证据使用]]远超原始学术研究 | — | 证实一线同行网络在证据流动中的决定性地位 |
 > | 同上 转述 Campbell et al. | 加拿大安大略省 [[Knowledge Network for Applied Education Research\|KNAER]] 知识动员网络 | 全系统[[Case Study\|案例研究]] | 动员初始阶段的主要能力障碍 | 证据生产者与使用者均普遍存在动员能力短板 | — | 提出优质产品、伙伴关系与全系统能力建设三位一体法则 |
 > | 同上 转述 CUREE (2011) | 英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]] 教师专业发展[[Systematic Review\|系统综述]] | [[Systematic Review\|系统综述]] | 实践者深度参与研究的常态化程度 | 实践者参与研究日益普及并具潜在益处，但实现常态化依然进展缓慢 | — | 单[[Blue Skies Research\|纯研究]]供给无法自发形成全行业循证文化 |
-> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 25–27)]] | 涵盖 29 个 [[OECD]] 国家的 37 个国家或次国家级教育部 | 跨国政策[[Questionnaire\|问卷调查]]与深度访谈（6 国官员） | 知识动员机制、跨界协作促成条件与首要制度阻碍 | 绝大多数系统缺乏国家级统筹战略；同行学术评价体制被广泛报告为阻碍学者参与知识共创的首要制度壁垒 | — | 反映教育部行政高层自陈认知，存在行政修辞与受访口径[[Heterogeneity\|异质性]] |
+> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 25–27)]] | 涵盖 29 个 [[OECD]] 国家的 37 个国家或次国家级教育部 | 跨国政策[[Questionnaire\|问卷调查]]与深度访谈（6 国官员） | 知识动员机制、跨界协作促成条件与首要制度阻碍 | 绝大多数系统缺乏国家级统筹战略；同行学术评价体制被广泛报告为阻碍学者参与[[Knowledge Co-production\|知识共创]]的首要制度壁垒 | — | 反映教育部行政高层自陈认知，存在行政修辞与受访口径[[Heterogeneity\|异质性]] |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校研究使用实证研究 | 系统综述＋[[Framework Synthesis\|框架综合]] | 各类研究使用渠道的利用频率 | 正式学术期刊是实践者最少使用的渠道，人际网络与校本研修是主导渠道 | — | 提示知识动员的关键瓶颈在[[Document\|文献]]发表之后的中介[[Transfer Translation Transformation\|转译]] |
 > | [[Argument_Nordahl_2015_Paideia\|Nordahl (2015, pp. 66–67)]] | 挪威与丹麦 [[Visible Learning]] 学校改进项目 | 区域干预实证追踪 | 教师对外部研究的接受与转化方式 | 教师对证据的接纳必须嵌入结构化备课会与教研共同体的持续反思中 | — | 证实组织支持结构是知识动员转化的[[Necessary and Sufficient Conditions\|必要条件]] |
 > | [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025, p. 253)]] | 滑铁卢大学与 Schlegel Villages 退休社区网络 | 产学研案例研究 | 临床评估新技术的转化周期与实施率 | 脑血管健康检测新技术直接嵌入社区常规体适能评估，实现快速临床动员 | — | 共同选址与终端嵌入极大缩短知识动员转化链条 |
@@ -411,7 +412,7 @@ updated: 2026-09-12
 > [!evidence-grid] 相关研究索引
 > - **[[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]** 系统构建知识动员四类核心推进策略，总结安大略 [[Knowledge Network for Applied Education Research|KNAER]] 全系统伙伴关系与三位一体法则。
 > - **[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]** 将知识动员应用于北欧 [[Visible Learning]] 学校改进，揭示能力建设、同行研讨与组织支持对证据转化的决定性作用。
-> - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 结合 [[OECD]] 29 国 37 个教育系统政策调查，构建知识流动三代嵌套模型与五维[[Analytic Framework|分析框架]]，揭示学术考核体制与知识共创的深层断裂。
+> - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 结合 [[OECD]] 29 国 37 个教育系统政策调查，构建知识流动三代嵌套模型与五维[[Analytic Framework|分析框架]]，揭示学术考核体制与[[Knowledge Co-production|知识共创]]的深层断裂。
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 综合 109 项实证研究，批判线性实施取向，提出以信任、技能、组织结构与关系为核心的跨层整合治理框架。
 > - **[[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]]** 结合加拿大滑铁卢大学 [[Schlegel-UW Research Institute for Aging|RIA]] 案例，论证共同选址与终端嵌入在推动健康研究成果向临床照护快速动员中的机制。
 > - **[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]** 梳理欧盟证据中介组织与知识经纪网络，展示非处方化协调与跨国同伴学习的知识流动路径。

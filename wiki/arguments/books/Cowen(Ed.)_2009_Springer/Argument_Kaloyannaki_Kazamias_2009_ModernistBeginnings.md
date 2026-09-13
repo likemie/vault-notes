@@ -66,7 +66,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Culture Générale]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Knowledge Mobilisation]]"
+  - "[[Research Translation]]"
   - "[[Problem Solving]]"
   - "[[Whiggism]]"
   - "[[Artefact]]"
@@ -114,7 +114,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-06
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 # Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings
 
@@ -436,7 +436,7 @@ updated: 2026-09-12
 
 政权制度的权力结构直接决定了跨国知识的处理方式。法国与美国在政治机制上的巨大差异，迫使两地改革先驱在动用外国经验时走向了深刻的分流：
 
-> [!warrant]- 欧美权力结构决定跨国[[Knowledge Mobilisation|知识转译]]机制的推论桥梁
+> [!warrant]- 欧美权力结构决定跨国[[Research Translation|知识转译]]机制的推论桥梁
 > 政治体制的权力结构决定了跨国经验的处理方式：法国高度中央集权的官僚体制允许行政精英将外国条款直接转化为国家实定法；而在美国联邦分权与民主博弈语境下，改革者缺乏行政强制权力，被迫将外部经验转译为公共说服的话语资本，促使比较探究从“制度技术移植”根本转向“政治正当性辩护”。（pp.26–34）
 
 > [!row-contrast] 欧美改革先驱考察取向对比：欧陆实定法移植 vs 北美政治正当性辩护

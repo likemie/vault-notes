@@ -7,7 +7,7 @@ aliases:
 summary: "由安德鲁·范德文与保罗·约翰逊（2006）开创的学术探究范式，主张将理论与实践的脱节界定为知识生产方式问题，通过学者与实践者在复杂现实问题上的平等合作与协同探究，从源头上弥合学术象牙塔与实践现场的制度与认识论鸿沟。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,11 +29,13 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Epistemology]]"
+  - "[[Research Translation]]"
   - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Research Literacy]]"
   - "[[Boundary Spanner]]"
   - "[[Problem Solving]]"
+  - "[[Knowledge Co-production]]"
   - "[[Problem Finding]]"
   - "[[International Education]]"
   - "[[Research Utilization]]"
@@ -81,7 +83,7 @@ updated: 2026-09-13
 
 > [!boundary]- 概念边界
 > - **区别于传统单向学术咨询（Consulting）** 咨询模式中专家处于知识权威地位向客户交付现成方案；参与式学术强调双向互惠、共同界定问题并联合开展严谨实证探究。
-> - **区别于线性知识转译（Translation）** 线性转译假定研究已在大学预先完成，只需事后将其包装为用户友好的文本或工具包；参与式学术将转译与共创贯穿于立项与研究推进的全过程。
+> - **区别于线性[[Research Translation|知识转译]]（Translation）** 线性转译假定研究已在大学预先完成，只需事后将其包装为用户友好的文本或工具包；参与式学术将转译与共创贯穿于立项与研究推进的全过程。
 > - **区别于去学术化的经验反思** 参与式学术不仅服务于个别课堂问题的即时解决，更致力于在具体实践土壤中孕育出具有理论深度的普适性规律与学理洞见。
 
 ---
@@ -141,7 +143,7 @@ updated: 2026-09-13
 
 ### 命题二　现行学院派期刊评价体系与参与式学术所需的时间和信任投入存在深层制度性冲突
 
-> [!concept-lens] 学术激励机制对知识共创的挤压
+> [!concept-lens] 学术激励机制对[[Knowledge Co-production|知识共创]]的挤压
 > 探讨为何参与式学术受到广泛政策倡导，但在大学体制内却遭遇普遍的制度性冷遇。
 
 > [!claim] Cherney et al. (2012) / Burkhardt & Schoenfeld (2021) / [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]
@@ -170,7 +172,7 @@ updated: 2026-09-13
 > > - **参与式学者** 主张真正的严密性必须包含[[Ecological Validity|生态效度]]；脱离真实学校约束的严密性只是虚幻的[[Technical Rationality|技术理性]]，唯有在复杂现场经受检验的知识才具备实用效度。
 >
 > > [!axis] 争议二：地方共创知识的情境锁定与跨情境可迁移性困境
-> > 本土协同生产的经验能否规模化推广至其他学校或国家。
+> > 本土[[Knowledge Co-production|协同生产]]的经验能否规模化推广至其他学校或国家。
 > >
 > > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] & Enthoven & de Bruijn (2010)** 真正的协同生产内生保证了研究对特定学校的关涉度，但这类局部知识高度嵌入于本土信任与微观文化。要使其升华为具备广泛指导价值的显性通用知识，必须在不同情境下展开长周期的重复验证与迭代整合；然而由于资源短缺，这类跨情境验证在现实中极少发生。
 
@@ -189,7 +191,7 @@ updated: 2026-09-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** — 引入参与式学术之[[Knowledge Production|知识生产]][[Analytic Framework|分析框架]]，深刻剖析大学学术激励错位与知识共创模式在严密性、可复制性与可迁移性上的系统性张力。
+> - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** — 引入参与式学术之[[Knowledge Production|知识生产]][[Analytic Framework|分析框架]]，深刻剖析大学学术激励错位与[[Knowledge Co-production|知识共创]]模式在严密性、可复制性与可迁移性上的系统性张力。
 > - **Van de Ven & Johnson (2006)** — 开创性提出参与式学术理论，界定理论与实践脱节的三重解释框架，奠定协同知识生产的[[Epistemology|认识论]]基础。
 > - **Van de Ven (2007)** — 专著 *Engaged Scholarship: A Guide for Organizational and Social Research*，系统化参与式学术的钻石设计模型。
 > - **Cherney et al. (2012)** — 实证揭示大学内部同行评审与期刊偏好如何对学者参与教育决策与一线共创产生结构性抑制。
