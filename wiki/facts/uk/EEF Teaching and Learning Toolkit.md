@@ -263,6 +263,11 @@ updated: 2026-09-13
 > [!note]- 后续研究计划
 > [[Education Endowment Foundation|EEF]] 正在使用 Toolkit 作为指导进一步研究的依据，在 2011 至 2015 年间资助了 100 项涉及 50 万以上学生的[[Randomised Controlled Trials|随机对照试验]]。这些证据将既检验 Toolkit 的发现，又反馈到其证据基础中以增加稳健性。这种方法可能创建一个发现数据库，使跨情境和结果的更大可比性有助于更精确地识别研究发现中变异的原因([[Argument_Higgins_2016_RE|Higgins, 2016, p.49]])。
 
+### 经合组织跨国政策调查定位与学校采纳率
+
+> [!note]- OECD SIER 调查中的信息机制典范
+> 在经合组织“强化教育研究影响力项目”（SIER）跨国政策调查中，EEF Toolkit 作为全球最具代表性的信息与成果综合转化工具（User-friendly synthesising tool）被重点收录与推介；该工具系统汇总了 30 类教学与管理举措的实证证据，根据严格的系统综述标准动态更新，并提供额外学业进步月数、证据强度与实施成本等多维指标。调查数据显示，截至 2017 年，英格兰已有 70% 的中学学校领导（Secondary-school leaders）在决策中常规运用 Toolkit 作为循证讨论的基准参考。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022, pp. 110–111)]]
+
 ---
 
 ## 相关概念／理论

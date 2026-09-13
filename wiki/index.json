@@ -10984,6 +10984,19 @@
     ]
   },
   {
+    "title": "Typology of Factors Influencing Research Use",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Typology of Factors Influencing Research Use.md",
+    "aliases": [
+      "研究利用影响因素类型学",
+      "Factors Influencing Research Use",
+      "证据利用阻碍与促成因素框架",
+      "证据利用影响因素类型学",
+      "Barriers and Facilitators to Research Use",
+      "Humphries's Typology of Factors Influencing Research Use"
+    ]
+  },
+  {
     "title": "Van Leeuwen's Legitimation Theory",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Van Leeuwen's Legitimation Theory.md",
@@ -20637,6 +20650,16 @@
     ]
   },
   {
+    "title": "Teaching and Learning Research Initiative",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Teaching and Learning Research Initiative.md",
+    "aliases": [
+      "TLRI",
+      "新西兰教学与学习研究倡议",
+      "教学与学习研究倡议"
+    ]
+  },
+  {
     "title": "Kunnskapssenter for utdanning",
     "type": "fact",
     "path": "wiki/facts/norway/Kunnskapssenter for utdanning.md",
@@ -20666,6 +20689,16 @@
       "挪威大学生学业体验晴雨表",
       "Norwegian National Student Survey",
       "Studiebarometeret Survey"
+    ]
+  },
+  {
+    "title": "Programme for Research and Innovation in the Educational Sector",
+    "type": "fact",
+    "path": "wiki/facts/norway/Programme for Research and Innovation in the Educational Sector.md",
+    "aliases": [
+      "FINNUT",
+      "挪威教育部门研究与创新计划",
+      "挪威教育研究与创新计划"
     ]
   },
   {
@@ -23009,6 +23042,11 @@
     "title": "Argument_Revai_2022_ChangingLandscape",
     "type": "argument",
     "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai_2022_ChangingLandscape.md"
+  },
+  {
+    "title": "Argument_Torres_2022_BarriersMechanisms",
+    "type": "argument",
+    "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_BarriersMechanisms.md"
   },
   {
     "title": "Argument_Torres_2022_KMModels",

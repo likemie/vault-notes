@@ -265,7 +265,7 @@ updated: 2026-09-13
 > - **2000s–2010s — [[Evidence-Based Education|循证教育]]运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
 > - **2010s — 知识到行动三代模型演进** Best & Holmes (2010) 系统梳理知识到行动（KTA）的三代模型演进（线性推送 $\rightarrow$ 关系型[[Knowledge Co-production|协同生产]] $\rightarrow$ 系统程序性生态），为理解复杂政策环境下的证据利用提供了全景透镜。
 > - **2020s — 跨层治理机制、行为因果链条与质量评价** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制；[[Argument_Torres_2022_KMModels|Torres (2022)]] 综合梳理微观行为改变框架（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020），推动研究利用从“是否使用”走向“质量使用”。
-> - **2022 — [[OECD|经合组织]]跨国实证调查揭示政学交易型接触病理** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]）全面测度 29 国 37 个教育系统教育部委在政策生命周期中的研究使用形态，证实方案设计高频使用（70%）与多方审议[[Dialogue in Education|对话]]腰斩（47%）的两极化现象，揭示了决策端证据利用的“交易型采购”病理机制。
+> - **2022 — [[OECD|经合组织]]跨国实证调查揭示促成机制与结构障壁的错配断裂** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022]]）全面测度 29 国 37 个教育系统教育部委在政策与实践维度的促成机制、结构性障壁与利用形态，实证揭示方案设计高频使用（70%）与多方审议[[Dialogue in Education|对话]]萎缩（47%）的交易型病理，并诊断机制数量与障壁感知的错配悖论，倡导从碎片化单一项目走向高位系统协调与科研动力学管理。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
 
 ---
@@ -317,6 +317,7 @@ updated: 2026-09-13
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5） | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 $k = 91$（83% 研究），组织层面 $k = 56$，系统层面 $k = 46$，核心构件 $k = 94$ | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
 > | 同上 | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research\|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向追踪数据稀缺 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议英文学术[[Document\|文献]]（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review\|批判性综述]]＋PRISMA 流程 | 30 年文献[[Problem Finding\|问题界定]]与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用[[Deficit Framing\|赤字框架]] | — | 揭示文献在方法多样性下同质化重复“使用不足”结论，陷入推论循环 |
+> | [[Argument_Torres_2022_BarriersMechanisms|Torres (2022)]] | 29 个 [[OECD]] 国家/地区，37 个教育系统 | 跨国政策[[Questionnaire\|问卷调查]]与 6 国跟进[[Semi-structured Interview\|半结构化访谈]] | 研究利用促成机制普及率与核心阻碍障壁 | 机制均值政策 4.7 项 / 实践 4.9 项；互动项目（实践 86% / 政策 65%）、专项经费 70%、成果分发工具 60% vs 能力建设（政策 49% / 实践 39%）、全系统战略仅 22%；核心障壁前三位为研读时间缺乏、科研周期冲突与专门机制缺乏；科研委托（62%/49%）严重倒置于需求识别（51%/32%） | — | 揭示机制数量与障壁感知的非对称错配（“机制短缺”本质上是现有机制孤立碎片化）；实证确立供给驱动导致的研究生产与实践需求脱节（pp. 107–118） |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威教育改革政策制定（5 个政府专家委员会报告 vs 教育部法定法令，北欧五国政策系统） | 跨文本两阶段引用追踪与文献计量对比（绿色咨询报告与白皮书政令对比） | 专家委员会与教育部政令的证据继承率及来源分布 | 5 个专家委员会共引用 464 篇文献，教育部政令仅引用 22 篇（转化率仅 4.7%）；其中 20 篇（90.9%）仅源于审议 [[OECD]] DeSeCo 项目的单一委员会，OECD 引用频次碾压其他一切机构及知名学者 | $p$ 未报告（全样本追踪） | 证实宏观政策层面的证据利用存在严重的阶段性政治过滤断层，行政首脑机关仅高度倾向于吸纳能够赋权其施政意志的特定超国家中介证据 |
 
 ---
@@ -324,6 +325,7 @@ updated: 2026-09-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022)]] — 基于经合组织 29 国 37 个教育系统的政策调查数据，构建涵盖信息、互动、个体、结构和文化的五维影响因素类型学，量化测度促成机制与阻碍障壁的跨国分布，揭示机制孤立碎片化导致的“机制短缺悖论”，并剖析科研生产统筹机制与宏观系统战略的制度性断层。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 全面测度 29 国 37 个教育系统教育部委在政策制定中的研究使用形态，实证揭示方案设计（70%）与多方审议（47%）的两极化分化，诊断决策端证据利用退化为短视原料采买的交易型病理机制，并揭示熟人人际咨询依附与政学信任赤字。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 基于行为科学与 Weiss 模型将研究使用[[Operationalization|操作化]]为 7 维测量工具，实证揭示教师[[Research Literacy|研究素养]]的知行断层，并证实追踪期刊（$\eta^2=.046$）是直接驱动日常教学使用的最强独立引擎。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 综合 109 项学校研究使用实证研究，识别出[[Document|文献]]的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。

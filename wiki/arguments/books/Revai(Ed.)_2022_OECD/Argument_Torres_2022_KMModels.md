@@ -20,8 +20,8 @@ publisher: OECD Publishing
 year: 2022
 doi: "10.1787/d7ff793d-en"
 citation_aliases:
-  - "Torres, 2022"
-  - "Torres (2022)"
+  - "Torres, 2022b"
+  - "Torres (2022b)"
 citation: "Torres, J. M. (2022). Louder than words: Review and comparative analysis of knowledge mobilisation models. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 33–55). Paris: OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
 part_of: "[[Revai(Ed.)_2022_OECD]]"
 tags:
