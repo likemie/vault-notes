@@ -19214,7 +19214,7 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   font-size: 0.88em;
 }
 
-/* 5 列精准列宽：第 1 列主体 19%，中间 3 列紧凑数值各 9%，第 5 列评述 54% */
+/* 5 列精准列宽：第 1 列主体 18.5%，中间 3 列紧凑数值各 9.5%（表头支持双行），第 5 列评述 53% */
 .callout[data-callout="survey-table"] th:nth-child(1),
 .callout[data-callout="survey-table"] td:nth-child(1),
 .callout[data-callout="compact-table"] th:nth-child(1),
@@ -19223,58 +19223,59 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(1),
 .callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(1),
 .callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(1) {
-  width: 19% !important;
-  min-width: 105px !important;
-  max-width: 140px !important;
+  width: 18.5% !important;
+  min-width: 100px !important;
+  max-width: 135px !important;
   text-align: left !important;
   font-weight: 600;
-  padding: 0.42rem 0.6rem !important;
+  padding: 0.42rem 0.55rem !important;
 }
 
+/* th 表头允许两行紧凑展示（如“政策<br>促成”），消除单行过宽截断为省略号的问题 */
 .callout[data-callout="survey-table"] th:nth-child(2),
-.callout[data-callout="survey-table"] td:nth-child(2),
 .callout[data-callout="survey-table"] th:nth-child(3),
-.callout[data-callout="survey-table"] td:nth-child(3),
 .callout[data-callout="survey-table"] th:nth-child(4),
-.callout[data-callout="survey-table"] td:nth-child(4),
 .callout[data-callout="compact-table"] th:nth-child(2),
-.callout[data-callout="compact-table"] td:nth-child(2),
 .callout[data-callout="compact-table"] th:nth-child(3),
-.callout[data-callout="compact-table"] td:nth-child(3),
 .callout[data-callout="compact-table"] th:nth-child(4),
-.callout[data-callout="compact-table"] td:nth-child(4),
 .callout[data-callout="row-contrast"][data-callout-metadata*="compact"] th:nth-child(2),
-.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(2),
 .callout[data-callout="row-contrast"][data-callout-metadata*="compact"] th:nth-child(3),
-.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(3),
 .callout[data-callout="row-contrast"][data-callout-metadata*="compact"] th:nth-child(4),
-.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(4),
 .callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(2),
-.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(2),
 .callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(3),
-.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(3),
-.callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(4),
-.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(4) {
-  width: 9% !important;
-  min-width: 58px !important;
-  max-width: 75px !important;
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(4) {
+  width: 9.5% !important;
+  min-width: 62px !important;
+  max-width: 82px !important;
   text-align: center !important;
+  vertical-align: middle !important;
+  padding: 0.32rem 0.15rem !important;
+  white-space: normal !important;
+  word-break: keep-all !important;
+  line-height: 1.25 !important;
+  font-size: 0.85em !important;
+}
+
+/* td 单元格为数值，保持等宽数字与单行不换行 */
+.callout[data-callout="survey-table"] td:nth-child(2),
+.callout[data-callout="survey-table"] td:nth-child(3),
+.callout[data-callout="survey-table"] td:nth-child(4),
+.callout[data-callout="compact-table"] td:nth-child(2),
+.callout[data-callout="compact-table"] td:nth-child(3),
+.callout[data-callout="compact-table"] td:nth-child(4),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(2),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(3),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(4),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(2),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(3),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(4) {
+  width: 9.5% !important;
+  min-width: 62px !important;
+  max-width: 82px !important;
+  text-align: center !important;
+  vertical-align: middle !important;
   padding: 0.42rem 0.2rem !important;
   white-space: nowrap !important;
-}
-
-.callout[data-callout="survey-table"] tbody td:nth-child(2),
-.callout[data-callout="survey-table"] tbody td:nth-child(3),
-.callout[data-callout="survey-table"] tbody td:nth-child(4),
-.callout[data-callout="compact-table"] tbody td:nth-child(2),
-.callout[data-callout="compact-table"] tbody td:nth-child(3),
-.callout[data-callout="compact-table"] tbody td:nth-child(4),
-.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody td:nth-child(2),
-.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody td:nth-child(3),
-.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody td:nth-child(4),
-.callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody td:nth-child(2),
-.callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody td:nth-child(3),
-.callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody td:nth-child(4) {
   font-variant-numeric: tabular-nums;
   font-family: var(--font-monospace);
   font-size: 0.9em;
@@ -19288,7 +19289,7 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(5),
 .callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(5),
 .callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(5) {
-  width: 54% !important;
+  width: 53% !important;
   text-align: left !important;
   padding: 0.42rem 0.75rem !important;
   line-height: 1.55 !important;
