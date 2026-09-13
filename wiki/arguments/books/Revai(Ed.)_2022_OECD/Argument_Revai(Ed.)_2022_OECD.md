@@ -7,9 +7,9 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
@@ -30,6 +30,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Knowledge Mobilisation]]"
+  - "[[Knowledge Co-production]]"
   - "[[Evidence Ecosystem]]"
   - "[[Concept Mapping]]"
   - "[[Evidence-Informed Decision-Making]]"
@@ -54,10 +55,10 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Quality Use of Research Evidence Framework]]"
   - "[[Varieties of Capitalism]]"
   - "[[Research Knowledge Mobilisation Model]]"
   - "[[Theory of Mind]]"
-  - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
@@ -78,6 +79,7 @@ related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Torres_2022_KMModels]]"
+  - "[[Argument_Hill_2022_FacilitatingActors]]"
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Revai(Ed.)_2022_OECD|Revai(Ed.)_2022_OECD]]"
 part_of: null
@@ -93,7 +95,7 @@ updated: 2026-09-13
 ## 编著定位
 
 > [!volume-profile] 编著档案
-> - **核心议题** 剖析教育系统为何长期面临教育研究生产与政策实践应用严重脱节的顽疾，系统梳理跨国[[Knowledge Mobilisation|知识动员]]机制、中介机构演进、多主体知识共创与[[Evidence Ecosystem|证据生态系统]]构建。
+> - **核心议题** 剖析教育系统为何长期面临教育研究生产与政策实践应用严重脱节的顽疾，系统梳理跨国[[Knowledge Mobilisation|知识动员]]机制、中介机构演进、多主体[[Knowledge Co-production|知识共创]]与[[Evidence Ecosystem|证据生态系统]]构建。
 > - **材料边界** 依据[[OECD|经合组织]]（OECD）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）“[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]”（Strengthening the Impact of Education Research）2021 年对 29 国 37 个教育系统教育部开展的政策调查实证数据、前言致谢、执行摘要及全书 11 个核心章节。
 > - **章节关系** 全书采用“[[Concept Mapping|概念图]]景奠基（Part I）➔ 行动者与促成机制实证剖析（Part II）➔ 理解研究应用的新路径与实践前瞻（Part III）”的三大板块递进推进架构，汇聚多国教育学者、跨领域政策专家与一线决策者的多元视点。
 > - **使用方式** 作为全书结构导航与全系统知识沉淀入口，统摄教育知识动员、[[Evidence-Informed Decision-Making|证据知情决策]]与证据生态系统等核心议题的研究网络。
@@ -108,7 +110,7 @@ updated: 2026-09-13
 > [!volume-argument] 编者组织主张
 > - **共同问题** 将分散的知识传播孤岛、中介机构职能分化、教师与政策制定者参与不足，以及学术评价体制对跨界合作的阻碍，统摄于“[[Evidence Ecosystem|证据生态系统]]的系统性激活与质量治理”这一统一问题框架之下。（pp.11–13）
 > - **组织逻辑** 从批判早期的线性[[Knowledge Transfer|知识转移]]单向管道出发，逐步递进至考察中介机构与多方关系网络，最终升华至以[[Complexity Theory|复杂适应系统]]论审视研究生产、中介与使用的动态反馈回路，为政策调查实证发现提供多[[Discipline-Based Theory|学科理论]]透镜。（pp.18–22）
-> - **整体贡献** 突破了单一关注“研究产出供给”或“教师素养需求”的二元割裂，明确提出“在促成机制中探究何者有效”（What works in what works）的元研究命题，确立了以知识共创、双向中介与激励机制重塑为核心的国家级证据治理战略路线。（pp.12–13, 237–243）
+> - **整体贡献** 突破了单一关注“研究产出供给”或“教师素养需求”的二元割裂，明确提出“在促成机制中探究何者有效”（What works in what works）的元研究命题，确立了以[[Knowledge Co-production|知识共创]]、双向中介与激励机制重塑为核心的国家级证据治理战略路线。（pp.12–13, 237–243）
 
 > [!citation-card] 编者核心关切：系统论[[Paradigm|范式]]与促成机制有效性
 > 从概念上看，[[Knowledge Mobilisation|知识动员]]已经告别了线性传递转向系统路径。实质性证据表明，向实践者和政策制定者传播研究成果的线性策略是必要的，但远不足以引发研究采纳。建立跨共同体的伙伴关系至关重要，但仅仅把人连接起来仍不充分。行动者根植于复杂系统之中，必须激活整个系统以建立各组成部分间的实质联结。迄今为止，大多数知识动员倡议尚未真正兑现系统模型的承诺。（p.12）
@@ -122,7 +124,7 @@ updated: 2026-09-13
 > [!volume-structure] 全书结构
 > - **Part I: Conceptual landscape and the evolution of the [[Champ|field]]（Ch. 1–3）** [[Concept Mapping|概念图]]景与领域演进。从历史视阈梳理证据知情政策与实践（EIPP）话语变迁，辨析研究、证据与知识的边界，系统评述与比较主流[[Knowledge Mobilisation|知识动员]]模型，考证[[Educational Brokerage Agency|教育中介机构]]的发展脉络与体制困境。（pp.14–74）
 > - **Part II: Actors and mechanisms facilitating [[Research Utilization|Research Use]] in policy and practice（Ch. 4–7）** 促进研究应用的行动者与机制。全面呈现 [[OECD]] 跨国政策调查核心数据，描绘国家与地方教育系统中促进研究利用的组织与个人行动者图景，分类诊断促成机制与结构性障碍，借鉴医疗与环境等跨行业证据应用经验，并提出中介机制本身的循证标准。（pp.75–164）
-> - **Part III: New approaches to understanding research use（Ch. 8–11）** 理解研究应用的新路径与未来方向。从知识共建（Co-construction）、实践情境中的高质量研究使用（Quality Use of Research）、多利益相关者争议视角（涵盖工会、政府与基金会），最终汇聚收束为改善研-政-学深度联动的系统性治理启示。（pp.165–245）
+> - **Part III: New approaches to understanding research use（Ch. 8–11）** 理解研究应用的新路径与未来方向。从知识共建（Co-construction）、实践情境中的[[Quality Use of Research Evidence Framework|高质量研究使用]]（Quality Use of Research）、多利益相关者争议视角（涵盖工会、政府与基金会），最终汇聚收束为改善研-政-学深度联动的系统性治理启示。（pp.165–245）
 
 > [!volume-map]- 全书组织逻辑架构图
 > ```mermaid
@@ -164,7 +166,7 @@ updated: 2026-09-13
 > - **[[Evidence-Informed Practice]] / [[Evidence-Informed Decision-Making|证据知情决策]]** 作为替代狭隘工具主义有效性教条（What Works）的审慎[[Epistemic Stances|认识论立场]]，强调外部研究证据与实践者专业智慧的有机融合。（pp.17–18, 146–162）
 > - **[[Evidence Ecosystem]]** 统摄全书系统论视角的宏观框架，将研究生产、综合、翻译、中介与本土实践视为具有自组织特征与动态反馈的生态网络。（pp.20, 148–155）
 > - **[[Survey Research|调查研究]]法（[[Survey Research]]）** [[OECD]] 政策调查依托标准化跨国[[Questionnaire|问卷]]与半结构化[[In-depth Interview|深度访谈]]，对 29 国 37 个教育系统教育部进行系统画像与跨国比较。（pp.25–27, 75–124）
-> - **关键词** 知识动员（Knowledge Mobilisation）、证据知情政策与实践（EIPP）、中介机构（Brokerage Agencies）、知识共创（Co-production）、高质量[[Research Utilization|研究使用]]（Quality Use of Research）、证据生态系统（Evidence Ecosystem）。
+> - **关键词** 知识动员（Knowledge Mobilisation）、证据知情政策与实践（EIPP）、中介机构（Brokerage Agencies）、[[Knowledge Co-production|知识共创]]（Co-production）、高质量[[Research Utilization|研究使用]]（Quality Use of Research）、证据生态系统（Evidence Ecosystem）。
 
 ---
 
@@ -177,7 +179,7 @@ updated: 2026-09-13
 > - **[[Educational Brokerage Agency|教育中介机构]]的组织功能、机制分类与有效性循证**
 >   - **相关章节** Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]；Ch. 04（Hill）；Ch. 05（Torres）；Ch. 07（Gough et al.）。
 >   - **阅读价值** 对比各国中介组织（如英国 [[Education Endowment Foundation|EEF]]、新西兰 [[Best Evidence Synthesis|BES]]、美国 [[What Works Clearinghouse|WWC]] 等）在治理依附、证据综合、工具包开发与转化指导上的差异，剖析其受制于短期政治与预算周期的生存悖论，以及迈向“中介的中介”的元治理进路。
-> - **跨界合作、知识共创与学术[[Varieties of Capitalism|生产体制]]的结构性制约**
+> - **跨界合作、[[Knowledge Co-production|知识共创]]与学术[[Varieties of Capitalism|生产体制]]的结构性制约**
 >   - **相关章节** Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]；Ch. 08（Halász）；Ch. 09（Rickinson et al.）；Ch. 10（Bangs et al.）。
 >   - **阅读价值** 深入探讨研究者、教师与政策制定者在知识共建过程中的文化冲突，揭示传统学术评价（SCI/SSCI 期刊崇拜）与实践导向[[Knowledge Production|知识生产]]之间的制度断裂。
 
@@ -211,8 +213,8 @@ updated: 2026-09-13
 > - **Ch. 05 — Facilitating Research Use: Scary Barriers (and Super Mechanisms)** Argument_Torres_2022_BarriersMechanisms — 全面分析阻碍与促进研究应用的制度、资源与[[Cultural Barrier|文化障碍]]，梳理供给侧、需求侧与中介层面的各类促进机制。
 > - **Ch. 06 — Linking Research, Policy and Practice: Learning from Other Sectors** Argument_Boaz_2022_LinkingOtherSectors — 跨行业审视医疗、农业与环境等领域 500 余家促进研究应用的机构实践，提炼对教育领域的借鉴启示。
 > - **Ch. 07 — Evidence on Evidence-Informed Policy and Practice** Argument_Gough_2022_EvidenceOnEIPP — 探讨中介举措如何自身实现循证，提出需求分析、系统情境整合、变革理论、证据标准与成效评估五大中介支柱。
-> - **Ch. 08 — Communication, Collaboration and Co-Production in Research: Challenges and Benefits** Argument_Halasz_2022_CoProduction — 从知识共创视角反思研究应用与影响力，结合创新与知识管理路径探讨合作生产的制度收益与文化挑战。
-> - **Ch. 09 — Using Research Well in Educational Practice** Argument_Rickinson_2022_UsingResearchWell — 基于澳大利亚学校五年[[Cohort Study|追踪研究]]，阐述高质量研究使用（[[Quality Use of Research Evidence Framework|QURE]]）框架的核心内涵、实践表征与系统支撑策略。
+> - **Ch. 08 — Communication, Collaboration and [[Knowledge Co-production|co-production]] in Research: Challenges and Benefits** Argument_Halasz_2022_CoProduction — 从知识共创视角反思研究应用与影响力，结合创新与知识管理路径探讨合作生产的制度收益与文化挑战。
+> - **Ch. 09 — Using Research Well in Educational Practice** Argument_Rickinson_2022_UsingResearchWell — 基于澳大利亚学校五年[[Cohort Study|追踪研究]]，阐述[[Quality Use of Research Evidence Framework|高质量研究使用]]（[[Quality Use of Research Evidence Framework|QURE]]）框架的核心内涵、实践表征与系统支撑策略。
 > - **Ch. 10 — Perspectives on Education Research** Argument_Bangs_2022_PerspectivesOnResearch — 汇集学者、智库、工会领袖与资助机构多元视点，围绕教育[[Research Purpose|研究目的]]、相关性与生产方式展开多方[[Dialogue in Education|对话]]与立场交锋。
 > - **Ch. 11 — Improving Research-Policy-Practice Engagement: Lessons Learnt and Ways Forward** Argument_Revai_2022_WaysForward — 整合全书研究发现与政策调查结果，提炼促进研-政-学深度协同的六大核心战略，描绘未来系统性治理蓝图。
 

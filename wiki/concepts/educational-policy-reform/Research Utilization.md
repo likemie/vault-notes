@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动、启蒙与战术模型；经历三代知识到行动（KTA）演进；在宏观政策全生命周期中面临严苛的政治与可行性阶段过滤，在中观上受跨层治理机制制约，在微观上作为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 50
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Scale in Higher Education]]"
   - "[[Problem Solving]]"
   - "[[Dialogue in Education]]"
+  - "[[Knowledge Co-production]]"
   - "[[Operationalization]]"
   - "[[Problem Finding]]"
   - "[[Transfer Translation Transformation]]"
@@ -45,12 +46,14 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Policy Brokerage]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Evidence-Informed Decision-Making]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Paradigm]]"
 related_theories:
+  - "[[Quality Use of Research Evidence Framework]]"
   - "[[Theory of Planned Behavior]]"
   - "[[Research Utilization Models]]"
-  - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[Framework Synthesis]]"
   - "[[Critical Review]]"
@@ -74,13 +77,13 @@ related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Nelson_2017_ER]]"
-  - "[[Argument_Torres_2022_KMModels]]"
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Research Utilization
@@ -126,12 +129,12 @@ updated: 2026-09-12
 > [!feature] 核心要素
 > - **四种经典过程模型（Weiss, 1991b）** 研发模型（线性流水线转化）、[[Problem Solving|问题解决]]模型（按需调用工具箱）、互动模型（研究者与决策者多边[[Dialogue in Education|对话]]）与战术模型（政治推诿与辩护）。
 > - **三种基本使用形态（Weiss, 1979）** [[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]（启发思维与更新观念）、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]（直接指导具体决策）与象征性使用（为既定立场背书）。
-> - **三代知识到行动演进模型（Best & Holmes, 2010）** 第一代关注线性单向的“知识推送”（Push model）；第二代强调生产者与使用者的关系型“协同生产”（Co-production）；第三代迈向“系统与程序路径”（Systems and procedural approach），拆解政策各阶段的证据利用能力与支持生态。
+> - **三代知识到行动演进模型（Best & Holmes, 2010）** 第一代关注线性单向的“知识推送”（Push model）；第二代强调生产者与使用者的关系型“[[Knowledge Co-production|协同生产]]”（Co-production）；第三代迈向“系统与程序路径”（Systems and procedural approach），拆解政策各阶段的证据利用能力与支持生态。
 > - **两阶段政策周期的证据过滤机制（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 证据利用在宏观政策周期中呈现高度的阶段断层与政治漏斗效应：专家咨询委员会在议程设置阶段广泛汇聚海量研究证据，但行政决策首脑机关在起草法定政令时实施严苛的政治与可行性过滤，仅选择性吸纳极少数符合自身施政意志并能提供外部合法化背书的特定证据。
 > - **四类跨层治理机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）贯穿个体、组织与系统层级共同治理学校证据使用。
 > - **微观决策行为因果转化链条（Langer et al., 2016; [[Argument_Torres_2022_KMModels|Torres, 2022, pp. 46–50]]）** 证据利用本质上是由六类机制（意识、认同、技能、沟通、互动、结构）经由能力、动机与机会等中间心理状态所驱动的行动改变过程。
 > - **教师面对研究文本的五类能动反应模式（Cain, 2015）** 一线教师审议研究证据时处于个人经验（第一声音）、同行文化（第二声音）与学术研究（第三声音）的动态张力中，表现出直接忽略、证实既有经验、策略性利用、概念性启发与批判性拒绝五种能动反应。
-> - **研究证据质量使用（QURE）评价准则（Rickinson et al., 2020）** 超越“用不用”的二元论，将使用确立为个体、组织与系统三层使能条件下对“恰当研究证据”的“深思熟虑参与与实施”。
+> - **研究证据质量使用（[[Quality Use of Research Evidence Framework|QURE]]）评价准则（Rickinson et al., 2020）** 超越“用不用”的二元论，将使用确立为个体、组织与系统三层使能条件下对“恰当研究证据”的“深思熟虑参与与实施”。
 > - **七维教师教学使用场景** 在微观教学中具体[[Operationalization|操作化]]为：① 规划日常专业活动；② 备课设计课程内容；③ 更新教学法知识；④ 解决课堂具体教学问题；⑤ 开展教学实践自我反思；⑥ 参与专业教研交流；⑦ 向同行推荐学术成果。
 > - **双轨行为赋能路径** 追踪教育学术期刊（[[Document|文献]]输入）是直接驱动研究使用行为的最强效引擎（$\eta^2 = .046$），而亲身开展科研（探究输出）则作为技能控制基础间接支撑使用。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6, p. 13)]]
 
@@ -238,8 +241,8 @@ updated: 2026-09-12
 > [!dev-timeline] 概念演变
 > - **1970s–1990s — 宏观政策[[Research Utilization Models|研究利用模型]]与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、[[Problem Solving|问题解决]]、互动与战术模型，Pelz (1978) 与 Beyer & Trice (1982) 奠定工具性、概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三元分类。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 > - **2000s–2010s — [[Evidence-Based Education|循证教育]]运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
-> - **2010s — 知识到行动三代模型演进** Best & Holmes (2010) 系统梳理知识到行动（KTA）的三代模型演进（线性推送 $\rightarrow$ 关系型协同生产 $\rightarrow$ 系统程序性生态），为理解复杂政策环境下的证据利用提供了全景透镜。
-> - **2020s — 跨层治理机制、行为因果链条与质量评价** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制；[[Argument_Torres_2022_KMModels|Torres (2022)]] 综合梳理微观行为改变框架（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及高质量研究使用框架（QURE; Rickinson et al., 2020），推动研究利用从“是否使用”走向“质量使用”。
+> - **2010s — 知识到行动三代模型演进** Best & Holmes (2010) 系统梳理知识到行动（KTA）的三代模型演进（线性推送 $\rightarrow$ 关系型[[Knowledge Co-production|协同生产]] $\rightarrow$ 系统程序性生态），为理解复杂政策环境下的证据利用提供了全景透镜。
+> - **2020s — 跨层治理机制、行为因果链条与质量评价** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制；[[Argument_Torres_2022_KMModels|Torres (2022)]] 综合梳理微观行为改变框架（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020），推动研究利用从“是否使用”走向“质量使用”。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
 
 ---
@@ -299,7 +302,7 @@ updated: 2026-09-12
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]对研究使用文献的统治，正式确立以教师多源知识整合与专业规范为支柱的第四代专业敏感型理论。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 探讨全球治理 2.0 时代的[[Policy Brokerage|政策中介]]与证据利用，实证揭示北欧教育政策制定在专家咨询与行政政令阶段之间的证据过滤与选择性吸纳机制。
-> - [[Argument_Torres_2022_KMModels|Torres, P. (2022)]] — 系统评析知识动员与证据知情决策模型，解构证据利用的行为因果机制（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及超越二元论的高质量研究使用框架（QURE; Rickinson et al., 2020）。
+> - [[Argument_Torres_2022_KMModels|Torres, P. (2022)]] — 系统评析[[Knowledge Mobilisation|知识动员]]与[[Evidence-Informed Decision-Making|证据知情决策]]模型，解构证据利用的行为因果机制（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及超越二元论的[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020）。
 
 ---
 

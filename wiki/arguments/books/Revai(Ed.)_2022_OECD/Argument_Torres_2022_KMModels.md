@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_KMModels"
 argument_key: "Argument_Torres_2022_KMModels"
 argument_display_title: "Louder than words: Review and comparative analysis of knowledge mobilisation models"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,10 +38,12 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Transfer]]"
   - "[[Research Utilization]]"
+  - "[[Evidence-Informed Decision-Making]]"
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
+  - "[[Knowledge Mediation]]"
   - "[[Knowledge Production]]"
   - "[[Dialogue in Education]]"
   - "[[Professional Judgment]]"
@@ -51,21 +53,20 @@ related_concepts:
   - "[[Construct]]"
   - "[[Champ]]"
   - "[[Research-Informed Teaching Practice]]"
+  - "[[Phronesis]]"
   - "[[Reliability]]"
   - "[[Critical Thinking]]"
   - "[[Research Literacy]]"
-  - "[[Theoretical Perspective]]"
-  - "[[Knowledge Mediation]]"
-  - "[[Evidence-Informed Decision-Making]]"
   - "[[Evidence-Innovation Knowledge Dynamics]]"
-  - "[[Phronesis]]"
+  - "[[Theoretical Perspective]]"
+  - "[[Problem Solving]]"
   - "[[Research Scope]]"
 related_theories:
+  - "[[Research Knowledge Mobilisation Model]]"
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Knowledge-to-Action Models]]"
   - "[[Complexity Theory]]"
   - "[[Luhmann's Systems Theory]]"
-  - "[[Research Knowledge Mobilisation Model]]"
 related_methods:
   - "[[Typological Analysis]]"
   - "[[Analytic Framework]]"
@@ -76,12 +77,13 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Nelson_2017_ER]]"
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch02_Torres_2022|Ch02_Torres_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 # Argument_Torres_2022_KMModels
 
@@ -96,7 +98,7 @@ updated: 2026-09-12
 > 知识动员模型经历由单向线性包装交付向关系互动网络与自适应复杂系统的代际演进；既有主流模型依然残留着功能割裂、窄化单一证据源及遮蔽终极教育目标的局限。唯有统合多元知识形态、明确系统战略目标并将研究与教育创新有机共生，才能构建驱动学生与专业深度学习的下一代教育证据生态系统模型。（pp.34, 51–52）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 卫生、社会政策与教育领域被高频引用的四大经典知识动员模型——Lavis et al. (2003) 的[[Knowledge Transfer|知识转移]]战略框架、Graham et al. (2006) 的知识到行动框架（Knowledge-to-Action, KTA）、Levin (2004, 2013) 的研究知识动员模型（Research Knowledge Mobilisation, RKM）、Gough et al. (2011, 2019) 的[[Research Utilization|证据使用]]生态框架，以及四组新兴微观机制模型——Langer et al. (2016) 的证据知情决策行为改变框架（Evidence-Informed Decision-Making, EIDM）、Cain (2015) 的教师三种声音理论、Rickinson et al. (2020) 的高质量研究使用框架（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE）、Révai (2020) 的证据-[[Innovation Ecosystem|创新生态]]知识动力学模型。
+> - **对象** 卫生、社会政策与教育领域被高频引用的四大经典知识动员模型——Lavis et al. (2003) 的[[Knowledge Transfer|知识转移]]战略框架、Graham et al. (2006) 的知识到行动框架（Knowledge-to-Action, KTA）、Levin (2004, 2013) 的[[Research Knowledge Mobilisation Model|研究知识动员模型]]（Research Knowledge Mobilisation, RKM）、Gough et al. (2011, 2019) 的[[Research Utilization|证据使用]]生态框架，以及四组新兴微观机制模型——Langer et al. (2016) 的[[Evidence-Informed Decision-Making|证据知情决策]]行为改变框架（Evidence-Informed Decision-Making, EIDM）、Cain (2015) 的教师三种声音理论、Rickinson et al. (2020) 的[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE）、Révai (2020) 的证据-[[Innovation Ecosystem|创新生态]]知识动力学模型。
 > - **张力** 过程-产品（Process-Product）的单向还原论 vs 复杂自适应系统的自组织与双向循环；学术研究证据的排他性崇拜 vs 教师专业经验与多元知识源泉的包容性吸纳。
 > - **贡献** 运用 Best & Holmes (2010) 三代透镜构建首个跨领域知识动员模型的系统性[[Typological Analysis|类型学分析]]矩阵，揭示既有框架中功能人为割裂与终极目标隐匿的盲区，为全书实证调查与未来生态治理指明方向。
 
@@ -152,7 +154,7 @@ updated: 2026-09-12
 > [!claim] 步骤一核心主张
 > 对跨领域主流[[Knowledge Mobilisation|知识动员]]模型的横向考查证实，理论[[Paradigm|范式]]已从将研究视作标准化货品的线性分发，转向关注伙伴关系、流体反馈及全系统统筹的复杂自适应生态。（pp.34–37）
 
-为厘清科学研究如何有效影响政策与实践，学界在过去二十年间涌现出多维概念界定：
+为厘清科学研究如何有效影响政策与实践，学界在过去二十年间[[Emergence|涌现]]出多维概念界定：
 
 > [!def] 知识动员与中介概念辨析（Cooper, 2014; Gough et al., 2011）
 > - **[[Knowledge Mediation|知识中介]]（Knowledge Mediation）** Gough et al. (2011, p. 23) 将其定义为“将证据生产者与使用者汇聚在一起、旨在促进两者联结的有意识努力”，聚焦行动者之间的连接桥梁。
@@ -361,11 +363,11 @@ Cain (2015) 聚焦一线中小学教师面对学术研究文献时的真实认�
 > - **证实既有经验（Confirmatory Use）** 选择性摄取能佐证自身过往教学习惯与直觉信念的研究观点。
 > - **策略性利用（Strategic Use）** 借用学术术语与研究权威作为争取外部资源或应对行政考核的合法化工具。
 > - **概念性启发与重构（Conceptual Use）** 吸收研究中的概念透镜，深层重塑教师自身的教学理解与专业思维。
-> - **批判性拒绝（Reject）** 基于真实的课堂情境与实践智慧，对研究结论提出合理反驳与专业审视。
+> - **批判性拒绝（Reject）** 基于真实的课堂情境与[[Phronesis|实践智慧]]，对研究结论提出合理反驳与专业审视。
 
 #### 3. Rickinson 高质量研究使用框架：超越“用不用”二元论的质量定义
 
-Rickinson et al. (2020) 基于澳大利亚莫纳什大学 Q 项目（The Q Project），针对教育实践中研究使用的质量标准给出了突破性定义，提出高质量研究使用框架（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE），将核心聚焦于对恰当研究证据的深思熟虑参与与实施。（pp.47–50）
+Rickinson et al. (2020) 基于澳大利亚莫纳什大学 Q 项目（The Q Project），针对教育实践中研究使用的质量标准给出了突破性定义，提出[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE），将核心聚焦于对恰当研究证据的深思熟虑参与与实施。（pp.47–50）
 
 > [!example]- 图2-9：高质量研究使用框架（Quality Use of Research Evidence, QURE framework）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-9_Quality_Use_of_Research_Evidence_framework.jpg)
@@ -453,7 +455,7 @@ Révai (2020) 在 [[OECD]] 工作论文中提出了教育生态中证据与创�
 
 ## 局限性与研究缺口
 
-> [!warning] 研究范围与理论抽象局限
+> [!warning] [[Research Scope|研究范围]]与理论抽象局限
 > - **模型采样的非穷尽性偏差** 采取的是代表性采样而非穷尽式综述，主要选取在英美及国际组织话语中占据统治地位的英文模型，可能遗漏了非西方语境下的本土动员[[Paradigm|范式]]。（p.37）
 > - **抽象理论模型与真实系统运行的落差** 任何模型都是对复杂现实的高度抽象与简化；模型在图纸上的优雅架构并不自动等同于实践系统中的顺畅运行，仍亟待 [[OECD]] 后续各章实证调查数据的验证。（pp.36–37）
 
