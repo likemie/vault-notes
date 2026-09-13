@@ -8,7 +8,7 @@ aliases:
 summary: "OECD 教育研究与创新中心（CERI）在 SIER 项目下开发的宏观系统级政策调查问卷，涵盖政策利用、实践促成与学术生产三大板块，通过多维矩阵打分与质性开放题，全面测度 29 国 37 个教育系统的研究动员生态、行动者网络、促成机制与制度障碍。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 31
+instrument_related_count: 30
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -56,7 +56,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Rating Scale]]"
   - "[[Design-Based Research]]"
-  - "[[Ranking Questions]]"
   - "[[Observational and Correlational Research]]"
   - "[[Analytic Framework]]"
   - "[[Semi-structured Interview]]"
@@ -65,9 +64,7 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[National Education]]"
 related_arguments:
-  - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Revai(Ed.)_2022_OECD]]"
-  - "[[Argument_Revai_2022_ChangingLandscape]]"
 related_instruments: []
 confidence: high
 status: completed
@@ -121,11 +118,11 @@ updated: 2026-09-13
 
 ### 维度一：17 类组织行动者在三大维度的活跃度评估
 
-> [!seq-table]- 组织行动者生态活跃度（Activeness of Organisational Actors）
+> [!seq-table]- 组织行动者生态活跃度
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 5 点 Likert 标尺（1 = 完全不活跃，5 = 非常活跃；政策促成 / 实践促成 / 研究生产三项分别评定） · **计分规则** 正向计分（系统均值）
 >
-> | 题项 |
+> | 题项（Activeness of Organisational Actors） |
 > |---|
 > | Universities and faculties of education<br>**大学与教育学院** |
 > | Ministries/Departments of education<br>**教育部委自身** |
@@ -147,11 +144,11 @@ updated: 2026-09-13
 
 ### 维度二：教育部委与各类机构的日常联系频度与紧密度
 
-> [!seq-table]- 部委外部联系与征询频度（Frequency of Ministry Consultation and Engagement）
+> [!seq-table]- 部委外部联系与征询频度
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 6 点频度标尺（0 = 从不，5 = 非常频繁） · **计分规则** 频度正向连续计分
 >
-> | 题项 |
+> | 题项（Frequency of Ministry Consultation and Engagement） |
 > |---|
 > | Universities and faculties of education<br>**大学与教育学院** |
 > | Teacher education institutions<br>**教师教育机构** |
@@ -172,11 +169,11 @@ updated: 2026-09-13
 
 ### 维度三：政策制定各阶段的研究利用与获取渠道
 
-> [!seq-table]- 政策制定 8 个具体阶段的[[Research Utilization|研究利用]]频次题项
+> [!seq-table]- 政策制定各阶段的[[Research Utilization|研究利用]]程度
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 5 点使用频率标尺（1 = 从不，5 = 系统性使用） · **计分规则** 正向连续计分
 >
-> | 政策制定各阶段的研究利用程度（Research Utilization Across Policy Stages） |
+> | 题项（Research Utilization Across Policy Stages） |
 > |---|
 > | Designing policies, programmes, projects, reforms<br>**设计政策、方案、项目与改革措施** |
 > | Identifying the problems in the system<br>**诊断与识别教育系统中的实际问题** |
@@ -187,11 +184,11 @@ updated: 2026-09-13
 > | Earning the trust of other policy makers or stakeholders<br>**赢得其他决策者或关键利益相关者的信任** |
 > | Leveraging political influence in policy decision-making<br>**在政治决策过程中撬动政治影响力与话语权** |
 
-> [!seq-table]- 政策制定者获取教育研究证据的 12 类渠道依赖度题项
+> [!seq-table]- 政策证据获取渠道依赖度
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 二分类选择（是 / 否） · **计分规则** 0/1 二值计分
 >
-> | 政策证据获取渠道依赖度（Channels for Accessing Educational Research） |
+> | 题项（Channels for Accessing Educational Research） |
 > |---|
 > | Seeking advice from external experts<br>**向外部学术专家寻求咨询建议** |
 > | Seeking advice from in-house researchers/evaluators<br>**向部委内部专职研究人员/评估员咨询** |
@@ -208,22 +205,22 @@ updated: 2026-09-13
 
 ### 维度四：跨界中介个体角色与个体科研生命周期参与
 
-> [!seq-table]- 4 类跨界中介个体岗位设立情况题项
+> [!seq-table]- 跨界中介个体岗位设立
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 二分类选择（是 / 否；政策制定端 / 学校实践端分别核查） · **计分规则** 0/1 配备计分
 >
-> | 跨界中介个体岗位设立（Establishment of Individual [[Boundary Spanner\|Boundary Spanners]]） |
+> | 题项（Establishment of Individual [[Boundary Spanner\|Boundary Spanners]]） |
 > |---|
 > | Embedded researcher<br>**[[Embedded Researcher\|嵌入式研究者]]** |
 > | Research advisor<br>**研究顾问** |
 > | Research champion<br>**研究倡导者** |
 > | Research fellow<br>**研究进修员** |
 
-> [!seq-table]- 各类主体在科研生命周期 7 阶段的卷入深度题项
+> [!seq-table]- 科研生命周期主体卷入阶段
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 多选勾选（部委决策者 / 实践教师 / 外部学者等主体类别） · **计分规则** 主体卷入类别标记
 >
-> | 科研生命周期主体卷入阶段（Actor Involvement in Research Life Cycle） |
+> | 题项（Actor Involvement in Research Life Cycle） |
 > |---|
 > | In formulating the research questions<br>**形成与界定[[Research Question\|研究问题]]** |
 > | In designing the research<br>**[[Design-Based Research\|设计研究]]方案与方法路线** |
@@ -233,11 +230,11 @@ updated: 2026-09-13
 > | In evaluating the research results<br>**[[Evaluation Research\|评估研究]]结果与方法学效度** |
 > | In communicating research results<br>**交流与传播研究结论** |
 
-> [!seq-table]- 驱动主体参与教育研究生产的 8 项内外激励题项
+> [!seq-table]- 教育科研参与驱动激励
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 二分类选择（是 / 否） · **计分规则** 0/1 激励认同标记
 >
-> | 教育科研参与驱动激励（Incentives for [[Engagement in and with Research\|Research Engagement]]） |
+> | 题项（Incentives for [[Engagement in and with Research\|Research Engagement]]） |
 > |---|
 > | Gives them a sense of participation in national debate<br>**赋予参与全国性教育改革辩论的认同感** |
 > | Allows them to improve practices and processes<br>**允许其改进日常教学实践与工作流程** |
@@ -250,11 +247,11 @@ updated: 2026-09-13
 
 ### 维度五：部委与实践端循证组织文化、心态态度与学习机会
 
-> [!seq-table]- 循证[[Organizational Culture|组织文化]]与心态认同度 9 项量表题项
+> [!seq-table]- 循证组织文化与心态认同
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 5 点 Likert 标尺（1 = 强烈不同意，5 = 强烈同意；政策端 / 实践端分别评分） · **计分规则** 正向计分（系统均值）
 >
-> | 循证组织文化与心态认同（Evidence-Informed Culture and Mindset） |
+> | 题项（Evidence-Informed Culture and Mindset） |
 > |---|
 > | Using education research in their processes is important for them<br>**在日常工作流程中使用教育研究至关重要** |
 > | They are expected to use education research in their processes<br>**体制内普遍期望他们在工作中使用教育研究** |
@@ -266,21 +263,21 @@ updated: 2026-09-13
 > | Willing to use education research to question ideas/preconceptions<br>**他们愿意使用教育研究来质疑反思既有[[Hypothesis\|假设]]与思路** |
 > | Shared understanding of education research with researchers<br>**他们与研究人员对教育研究及其应用拥有共享理解** |
 
-> [!seq-table]- 政策制定者在岗专业学习机会题项
+> [!seq-table]- 在岗专业学习与能力发展机会
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 5 点 Likert 标尺（1 = 强烈不同意，5 = 强烈同意） · **计分规则** 正向计分
 >
-> | 在岗专业学习与能力发展机会（Professional Learning Opportunities） |
+> | 题项（Professional Learning Opportunities） |
 > |---|
-> | Policy makers have extensive learning opportunities to develop research skills<br>**政策制定者拥有广泛系统的学习机会以发展其研究知识与技能** |
+> | Policy makers have extensive learning opportunities to develop their research knowledge and skills<br>**政策制定者拥有广泛系统的学习机会以发展其研究知识与技能** |
 
 ### 维度六：研究利用促成机制拥有率与多维转化阻力障壁
 
-> [!seq-table]- 促进研究利用的 11 项制度化机制题项
+> [!seq-table]- 研究利用制度化促成机制
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 二分类选择（是 / 否；政策端 / 实践端分别核查） · **计分规则** 0/1 配备计分
 >
-> | 研究利用制度化促成机制（Mechanisms Facilitating Research Use） |
+> | 题项（Mechanisms Facilitating Research Use） |
 > |---|
 > | Projects encouraging actors interactions<br>**设立鼓励多方行动者互动的专项合作项目** |
 > | Providing targeted funding for research on specific topics<br>**为特定优先重点领域提供定向课题资助** |
@@ -294,11 +291,11 @@ updated: 2026-09-13
 > | Activities to monitor/evaluate research impact<br>**开展全系统常态化活动以监测与评估研究的实际影响（[[Research Impact]]）** |
 > | Activities to develop capacity/skills to use research<br>**开展全系统常态化专业培训以提升研究利用技能** |
 
-> [!seq-table]- 阻碍研究利用的 13 项核心障壁严重度[[Ranking Questions|排序题]]项
+> [!seq-table]- [[Research Translation|研究转化]]与利用核心障壁
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 位次等级排序（Rank 1–6+） · **计分规则** 分级赋分（Rank 1 赋 3 分，Rank 2–3 赋 2 分，Rank 4–6 赋 1 分）
 >
-> | [[Research Translation\|研究转化]]与利用核心障壁（Barriers to Research Utilization） |
+> | 题项（Barriers to Research Utilization） |
 > |---|
 > | Lack of time to access and engage with research<br>**缺乏接触、检索与深入研读教育研究的时间** |
 > | Conflicting timeframes with research<br>**决策/教学时间节奏与学术科研周期严重冲突脱节** |
@@ -316,11 +313,11 @@ updated: 2026-09-13
 
 ### 维度七：教育研究生产统筹协调机制与官方中介质性题项
 
-> [!seq-table]- 国家/区域层面科研生产统筹协调机制题项
+> [!seq-table]- 科研生产统筹协调机制
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 二分类选择（是 / 否） · **计分规则** 0/1 配备计分
 >
-> | 科研生产统筹协调机制（Co-ordination of Research Production） |
+> | 题项（Co-ordination of Research Production） |
 > |---|
 > | Funding mechanisms<br>**设立政策导向的专项科研资助机制** |
 > | Regular consultations with policy makers on needs<br>**定期征询决策者政策需求的研究议程磋商机制** |
@@ -346,12 +343,11 @@ updated: 2026-09-13
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | [[OECD]] SIER 官方[[Questionnaire\|问卷]]英文原版 | 29 个国家、37 个国家或地方教育系统中央教育部委；映射研究动员生态与促成行动者网络 | 系统级探索性自陈调查，辅以典型国家追访 | 发现大学与部委垄断研究动员生态（中心），而一线实践转化载体严重边缘化（外围）；揭示了政策端 70% 技术设计集聚与 33% 议程设定冷遇的两极分化。 |
-> | [[Argument_Revai(Ed.)_2022_OECD\|Révai (Ed.) (2022)]] | 同上 | 同上；全书总论与跨章实证综合分析 | 经合组织跨国循证治理基准调查 | 系统确立了涵盖认知技能、[[Organizational Culture\|组织文化]]、人际关系与系统结构的跨国[[Evidence-Based Education\|循证教育]]治理[[Analytic Framework\|分析框架]]。 |
+> | [[Argument_Revai(Ed.)_2022_OECD\|Révai (Ed.) (2022)]] | [[OECD]] SIER 官方[[Questionnaire\|问卷]]英文原版 | 29 个国家、37 个国家或地方教育系统中央教育部委；映射全系统研究动员生态、行动者网络与循证机制 | 经合组织跨国系统级探索性自陈调查，辅以典型国家追访 | 揭示大学与部委在研究动员生态中占据核心，一线实践转化载体严重边缘化；发现政策端 70% 技术设计集聚与 33% 议程设定冷遇的两极分化；系统确立涵盖认知、文化、关系与结构的跨国循证治理[[Analytic Framework\|分析框架]]。 |
 
 ### 代表性实证测量基准（OECD SIER 调查关键基准数据）
 
-> [!ref-table]- OECD SIER 调查实证测量基准表（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]）
+> [!ref-table]- OECD SIER 调查实证测量基准表（[[Argument_Revai(Ed.)_2022_OECD|Révai (Ed.), 2022]]）
 >
 > | 测量维度 | 核心指标项 | 跨国调查实证基准（OECD 37 系统综合数据） | 理论含义与政策诊断 |
 > |---|---|:---:|---|
@@ -360,7 +356,7 @@ updated: 2026-09-13
 > | **证据获取渠道偏好** | 外部专家网络 vs 学术数据库 | 外部人际网络 92%，内部研究员 84%，学术期刊 73%，专业引文库 57% | 决策者高度依赖人际非正式网络，机构知识库使用滞后 |
 > | **跨界角色空间失衡** | [[Embedded Researcher\|嵌入式研究者]]配备率 | 政策制定端 73% vs 学校教学实践端 32% | 跨界中介人员高度集聚于行政中枢，教学一线严重匮乏 |
 > | **科研参与客体化** | 教师科研生命周期卷入 | 深入现场采集数据 54% 系统卷入 vs 数据分析仅 13% | 教师被降格为被动数据收集客体，实质性[[Knowledge Co-production\|知识共创]]匮乏 |
-> | **组织文化知行断裂** | 宣称价值认同 vs 深度信任与批判 | 价值认同均值高达 4.46 分，体制期望 4.04 分，深层人际互信仅 3.40 分 | 制度性自利偏差导致表层价值繁荣而深层信任不足 |
+> | **[[Organizational Culture\|组织文化]]知行断裂** | 宣称价值认同 vs 深度信任与批判 | 价值认同均值高达 4.46 分，体制期望 4.04 分，深层人际互信仅 3.40 分 | 制度性自利偏差导致表层价值繁荣而深层信任不足 |
 > | **行政能力赤字** | 在岗专业学习机会短板 | 62% 系统部委官员处于中立或缺乏在岗学习机会（认同仅 39%） | 科层体系严重缺乏研究评估与批判性鉴别技能培训 |
 > | **核心转化阻力排行** | 政策制定端 vs 实践一线阻力 | 政策端第 1 为“时间节奏脱节”，实践端第 1 为“研读时间与技能缺乏” | 结构性时间脱节与一线技能赤字构成双重主要障壁 |
 

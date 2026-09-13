@@ -5,20 +5,20 @@
       "path": "wiki/instruments/questionnaires/Strengthening the Impact of Education Research Policy Survey.md"
     },
     {
-      "basename": "template-instrument",
-      "path": "wiki/templates/template-instrument.md"
-    },
-    {
       "basename": "Argument_Hill_2022_FacilitatingActors",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Hill_2022_FacilitatingActors.md"
     },
     {
-      "basename": "Knowledge Co-production",
-      "path": "wiki/concepts/educational-policy-reform/Knowledge Co-production.md"
-    },
-    {
       "basename": "Self-report Bias",
       "path": "wiki/concepts/research-methodology/Self-report Bias.md"
+    },
+    {
+      "basename": "template-instrument",
+      "path": "wiki/templates/template-instrument.md"
+    },
+    {
+      "basename": "Knowledge Co-production",
+      "path": "wiki/concepts/educational-policy-reform/Knowledge Co-production.md"
     },
     {
       "basename": "Heterogeneity",
