@@ -19127,3 +19127,236 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   margin-inline: auto;
 }
 
+/* ═══════════════════════════════════════════════════════════
+   SURVEY-TABLE / COMPACT METRIC TABLE — 紧凑型统计与调查量表数据表
+   专用于 5 列“主体 + 3项指标数值 + 综合评述”的跨国调查/指标排名表
+   消除普通对比表数值列过宽、评述列被挤压折叠的问题，完全独立不影响其他表格
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="survey-table"],
+.callout[data-callout="compact-table"] {
+  --callout-color: 68, 110, 155;
+  --callout-icon: lucide-bar-chart-3;
+  background:
+    linear-gradient(135deg, rgba(68, 110, 155, 0.08), rgba(68, 110, 155, 0.02)),
+    var(--background-primary);
+  border: 1px solid rgba(68, 110, 155, 0.22);
+  border-left: 5px solid rgb(68, 110, 155);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(68, 110, 155, 0.08);
+  overflow: hidden;
+  margin: 1.2rem 0;
+}
+
+.callout[data-callout="survey-table"] > .callout-title,
+.callout[data-callout="compact-table"] > .callout-title {
+  color: rgb(50, 95, 140);
+  font-weight: 650;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="survey-table"] > .callout-title .callout-title-inner::before {
+  content: "SURVEY";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.06em 0.4em;
+  border-radius: 4px;
+  background: rgba(68, 110, 155, 0.18);
+  color: rgb(50, 95, 140);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
+.callout[data-callout="compact-table"] > .callout-title .callout-title-inner::before {
+  content: "METRIC";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.06em 0.4em;
+  border-radius: 4px;
+  background: rgba(68, 110, 155, 0.18);
+  color: rgb(50, 95, 140);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
+/* 表格容器与布局 */
+.callout[data-callout="survey-table"] table,
+.callout[data-callout="compact-table"] table,
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] table,
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] table {
+  width: 100% !important;
+  table-layout: fixed !important;
+  border-collapse: collapse !important;
+  margin: 0.4rem 0 !important;
+  font-size: var(--fs-body);
+}
+
+.callout[data-callout="survey-table"] thead th,
+.callout[data-callout="compact-table"] thead th,
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] thead th,
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] thead th {
+  background: rgba(68, 110, 155, 0.09);
+  color: rgb(50, 95, 140);
+  font-weight: 650;
+  letter-spacing: 0.03em;
+  border-bottom: 1.5px solid rgba(68, 110, 155, 0.22);
+  font-size: var(--fs-caption);
+}
+
+.callout[data-callout="survey-table"] tbody td,
+.callout[data-callout="compact-table"] tbody td,
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody td,
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody td {
+  border-bottom: 1px solid rgba(68, 110, 155, 0.08);
+  vertical-align: middle;
+  font-size: 0.88em;
+}
+
+/* 5 列精准列宽：第 1 列主体 19%，中间 3 列紧凑数值各 9%，第 5 列评述 54% */
+.callout[data-callout="survey-table"] th:nth-child(1),
+.callout[data-callout="survey-table"] td:nth-child(1),
+.callout[data-callout="compact-table"] th:nth-child(1),
+.callout[data-callout="compact-table"] td:nth-child(1),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] th:nth-child(1),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(1),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(1),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(1) {
+  width: 19% !important;
+  min-width: 105px !important;
+  max-width: 140px !important;
+  text-align: left !important;
+  font-weight: 600;
+  padding: 0.42rem 0.6rem !important;
+}
+
+.callout[data-callout="survey-table"] th:nth-child(2),
+.callout[data-callout="survey-table"] td:nth-child(2),
+.callout[data-callout="survey-table"] th:nth-child(3),
+.callout[data-callout="survey-table"] td:nth-child(3),
+.callout[data-callout="survey-table"] th:nth-child(4),
+.callout[data-callout="survey-table"] td:nth-child(4),
+.callout[data-callout="compact-table"] th:nth-child(2),
+.callout[data-callout="compact-table"] td:nth-child(2),
+.callout[data-callout="compact-table"] th:nth-child(3),
+.callout[data-callout="compact-table"] td:nth-child(3),
+.callout[data-callout="compact-table"] th:nth-child(4),
+.callout[data-callout="compact-table"] td:nth-child(4),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] th:nth-child(2),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(2),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] th:nth-child(3),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(3),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] th:nth-child(4),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(4),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(2),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(2),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(3),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(3),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(4),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(4) {
+  width: 9% !important;
+  min-width: 58px !important;
+  max-width: 75px !important;
+  text-align: center !important;
+  padding: 0.42rem 0.2rem !important;
+  white-space: nowrap !important;
+}
+
+.callout[data-callout="survey-table"] tbody td:nth-child(2),
+.callout[data-callout="survey-table"] tbody td:nth-child(3),
+.callout[data-callout="survey-table"] tbody td:nth-child(4),
+.callout[data-callout="compact-table"] tbody td:nth-child(2),
+.callout[data-callout="compact-table"] tbody td:nth-child(3),
+.callout[data-callout="compact-table"] tbody td:nth-child(4),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody td:nth-child(2),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody td:nth-child(3),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody td:nth-child(4),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody td:nth-child(2),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody td:nth-child(3),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody td:nth-child(4) {
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-monospace);
+  font-size: 0.9em;
+}
+
+.callout[data-callout="survey-table"] th:nth-child(5),
+.callout[data-callout="survey-table"] td:nth-child(5),
+.callout[data-callout="compact-table"] th:nth-child(5),
+.callout[data-callout="compact-table"] td:nth-child(5),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] th:nth-child(5),
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] td:nth-child(5),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] th:nth-child(5),
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] td:nth-child(5) {
+  width: 54% !important;
+  text-align: left !important;
+  padding: 0.42rem 0.75rem !important;
+  line-height: 1.55 !important;
+  word-break: break-word !important;
+}
+
+.callout[data-callout="survey-table"] tbody tr:nth-child(even) td,
+.callout[data-callout="compact-table"] tbody tr:nth-child(even) td,
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody tr:nth-child(even) td,
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody tr:nth-child(even) td {
+  background: rgba(68, 110, 155, 0.025);
+}
+
+.callout[data-callout="survey-table"] tbody tr:hover td,
+.callout[data-callout="compact-table"] tbody tr:hover td,
+.callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody tr:hover td,
+.callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody tr:hover td {
+  background: rgba(68, 110, 155, 0.065);
+}
+
+/* 暗色主题适配 */
+.theme-dark .callout[data-callout="survey-table"],
+.theme-dark .callout[data-callout="compact-table"] {
+  --callout-color: 88, 140, 195;
+  background:
+    linear-gradient(135deg, rgba(88, 140, 195, 0.12), rgba(88, 140, 195, 0.03)),
+    var(--background-primary);
+  border-color: rgba(88, 140, 195, 0.28);
+}
+
+.theme-dark .callout[data-callout="survey-table"] > .callout-title,
+.theme-dark .callout[data-callout="compact-table"] > .callout-title {
+  color: rgb(115, 170, 225);
+}
+
+.theme-dark .callout[data-callout="survey-table"] > .callout-title .callout-title-inner::before,
+.theme-dark .callout[data-callout="compact-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(88, 140, 195, 0.22);
+  color: rgb(140, 190, 240);
+}
+
+.theme-dark .callout[data-callout="survey-table"] thead th,
+.theme-dark .callout[data-callout="compact-table"] thead th,
+.theme-dark .callout[data-callout="row-contrast"][data-callout-metadata*="compact"] thead th,
+.theme-dark .callout[data-callout="ref-table"][data-callout-metadata*="compact"] thead th {
+  background: rgba(88, 140, 195, 0.12);
+  color: rgb(140, 190, 240);
+  border-bottom-color: rgba(88, 140, 195, 0.28);
+}
+
+.theme-dark .callout[data-callout="survey-table"] tbody td,
+.theme-dark .callout[data-callout="compact-table"] tbody td,
+.theme-dark .callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody td,
+.theme-dark .callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody td {
+  border-bottom-color: rgba(88, 140, 195, 0.10);
+}
+
+.theme-dark .callout[data-callout="survey-table"] tbody tr:nth-child(even) td,
+.theme-dark .callout[data-callout="compact-table"] tbody tr:nth-child(even) td,
+.theme-dark .callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody tr:nth-child(even) td,
+.theme-dark .callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody tr:nth-child(even) td {
+  background: rgba(88, 140, 195, 0.035);
+}
+
+.theme-dark .callout[data-callout="survey-table"] tbody tr:hover td,
+.theme-dark .callout[data-callout="compact-table"] tbody tr:hover td,
+.theme-dark .callout[data-callout="row-contrast"][data-callout-metadata*="compact"] tbody tr:hover td,
+.theme-dark .callout[data-callout="ref-table"][data-callout-metadata*="compact"] tbody tr:hover td {
+  background: rgba(88, 140, 195, 0.09);
+}
+
