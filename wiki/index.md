@@ -2404,7 +2404,7 @@ Total entries: **2439**
 > [!index-list]- Program (3)
 > - [[Best Evidence Synthesis]] — 新西兰教育部自2003年起主导设立的部委嵌入型国家级知识中介项目，通过迭代综合方法深度融合实证因果与毛利文化响应性教学，开创了从方法论指导向多模态实践转译演进的国家典范。
 > - [[Foundation North Māori and Pasifika Education Initiative]] — Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
-> - [[Teaching and Learning Research Initiative]] — 新西兰政府于 2003 年设立的协作性教育研究基金，旨在通过资助研究者与一线教师的深度伙伴关系，促进教学实践改善与本土研究能力建设
+> - [[Teaching and Learning Research Initiative]] — 新西兰政府于 2003 年设立的国家级教育研究专项基金，以研究者与一线教师平等的伙伴关系与知识共创为刚性资助门槛，旨在提升教学实践质量并构建本土教研能力
 
 ### Norway
 
