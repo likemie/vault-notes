@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Research Utilization",
+      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
+    },
+    {
       "basename": "Argument_Torres_2022_BarriersMechanisms",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_BarriersMechanisms.md"
+    },
+    {
+      "basename": "Research Knowledge Mobilisation Model",
+      "path": "wiki/theories/educational-policy-reform/Research Knowledge Mobilisation Model.md"
+    },
+    {
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
     },
     {
       "basename": "Research Schools Network",
@@ -61,10 +73,6 @@
       "path": "wiki/concepts/research-methodology/Heterogeneity.md"
     },
     {
-      "basename": "Research Utilization",
-      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
-    },
-    {
       "basename": "Educational Brokerage Agency",
       "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
     },
@@ -103,10 +111,6 @@
     {
       "basename": "Strengthening the Impact of Education Research Project",
       "path": "wiki/facts/global/Strengthening the Impact of Education Research Project.md"
-    },
-    {
-      "basename": "OECD",
-      "path": "wiki/facts/global/OECD.md"
     },
     {
       "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
@@ -195,10 +199,6 @@
     {
       "basename": "Professional Judgment",
       "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
-    },
-    {
-      "basename": "Knowledge Mediation",
-      "path": "wiki/concepts/educational-policy-reform/Knowledge Mediation.md"
     }
   ],
   "omittedPaths": [],
