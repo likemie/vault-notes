@@ -60,7 +60,8 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Cross-sectional Study]]"
   - "[[Survey Research]]"
-related_instruments: []
+related_instruments:
+  - "[[Strengthening the Impact of Education Research Policy Survey]]"
 related_persons:
   - "[[Tracey Burns]]"
   - "[[Jonathan Sharples]]"
@@ -103,7 +104,7 @@ updated: 2026-09-13
 
 > [!policy-design]- 方案设计与多层[[Operationalization|操作化]]指标体系
 > - **项目目标** 绘制跨国政策制定中教育研究应用的行动者与关系图谱；诊断政策官员与一线教师有效获取和利用证据的系统性阻碍；探索促进研究者与实践者[[Knowledge Co-production|知识共创]]（Co-production）的制度改革路径。
-> - **多层调查模块与指标体系（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022, p. 76]]）** [[Questionnaire|问卷]]系统覆盖系统、组织与个体三个嵌套视界：
+> - **多层调查模块与指标体系（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022, p. 76]]）** 项目研制的专用工具SIER 政策调查[[Questionnaire|问卷]]系统覆盖系统、组织与个体三个嵌套视界：
 >   - **系统情境层** 考察国家教育研究战略完备性与教师科研制度保障；
 >   - **组织生态层** 采用 5 点[[Likert Scale|李克特量表]]测度 17 类组织在研究生产、政策促成与实践转化维度的活跃度，以 6 点量表测度部委日常征询组织数量（规模，0–16 类）与互动频度（强度，从不至极其频繁），并梳理 8 类官方中介治理形态；
 >   - **个体互动层** 测定 4 类专业中介岗位在行政端 vs 实践端的设立比例，追踪主体在科研生命周期 7 阶段的介入深度，建立 8 项内外激励矩阵，并测量决策者 8 项文化心态、11 类获取渠道与 8 类具体应用场景。
@@ -120,7 +121,7 @@ updated: 2026-09-13
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 项目推进历程
-> - **2021年上半年 — 理论综合与[[Questionnaire|问卷]]框架研制** [[Centre for Educational Research and Innovation|CERI]] 梳理卫生、农业与公共行政领域的跨学科[[Knowledge Mobilisation|知识动员]]模型，确立线性-关系-复杂系统三代嵌套理论框架，完成跨国政策调查问卷设计。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 18–25)]]
+> - **2021年上半年 — 理论综合与[[Questionnaire|问卷]]框架研制** [[Centre for Educational Research and Innovation|CERI]] 梳理卫生、农业与公共行政领域的跨学科[[Knowledge Mobilisation|知识动员]]模型，确立线性-关系-复杂系统三代嵌套理论框架，完成跨国政策调查问卷（[[Strengthening the Impact of Education Research Policy Survey]]）设计。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 18–25)]]
 > - **2021年6月–9月 — 跨国政策调查大规模施测** 针对 [[OECD]] 成员国教育部实施标准化问卷调研，正式采集到 29 个国家共计 37 个教育系统的高级行政数据，建立跨国政策端[[Research Utilization|研究利用]]的首个基准数据库。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 25)]]
 > - **2021年秋季 — 典型国家高层[[In-depth Interview|深度访谈]]** 选取日本、新西兰、挪威、葡萄牙、斯洛文尼亚与南非 6 国教育部司局长及高级战略主管展开深入[[Qualitative Interview|质性访谈]]，核验调查数据的[[Ecological Validity|生态效度]]并沉淀典型治理案例。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 26)]]
 > - **2022年11月 — 旗舰专著发布与理论成型** 出版旗舰专著《Who Cares about Using Education Research in Policy and Practice?: Strengthening [[Engagement in and with Research|Research Engagement]]》，系统发布导论理论框架（Révai）、跨领域模型比较（Torres）、系统组织与中介网络实证摸排（Hill）等全景成果，全面确立[[Evidence Ecosystem|证据生态系统]][[Paradigm|范式]]。[[Argument_Revai(Ed.)_2022_OECD|(Révai, 2022, pp. 11–13)]]

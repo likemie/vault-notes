@@ -79,6 +79,8 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
   - "[[Semi-structured Interview]]"
+related_instruments:
+  - "[[Strengthening the Impact of Education Research Policy Survey]]"
 related_facts:
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
@@ -102,7 +104,7 @@ updated: 2026-09-13
 > [[Evidence Ecosystem|教育证据生态系统]]并非自发运转的良性循环，而是深受学术生产主导与微观实践边缘化的非均衡结构制约：组织层面上，教育部委的工作联结高度依附于大学等传统研究生产者，系统性忽视了智库、媒体等纯政策转化中介，导致官方中介机构与学校伙伴关系普遍缺乏常态化制度保障；个体层面上，嵌入式专业角色在实践端严重匮乏，一线教师在缺乏外在制度激励的情境下被降格为被动数据收集客体，而政策制定者与学术界的人际网络仍深陷于单向获取信息的交易型狭隘互动，亟待向多方实质辩论与自主赋权模式转型。（pp.75–77, 95–96）
 
 > [!concept-lens] 阅读透镜
-> - **对象** [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]] 2021 年政策调查覆盖的 29 个国家 37 个教育系统教育部，以及针对 6 国开展的跟进[[In-depth Interview|深度访谈]]。（pp.75–76）
+> - **对象** [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]] 2021 年政策调查（[[Strengthening the Impact of Education Research Policy Survey]]）覆盖的 29 个国家 37 个教育系统教育部，以及针对 6 国开展的跟进[[In-depth Interview|深度访谈]]。（pp.75–76）
 > - **张力** 口头上提倡多方[[Knowledge Mobilisation|知识动员]]与系统协同 vs 实证中大学垄断话语、实践组织边缘化、中介机构部委联系断裂与人际交易型互动的结构性鸿沟。（pp.78–87, 92–95）
 > - **贡献** 首次提供涵盖 17 类组织行动者在生产、政策促成与实践促成三维度的跨国比较基底，实证解构了行动者活跃度与部委联结强度之间的非线性关系，为突破线性传递[[Paradigm|范式]]提供了详实的中观组织与微观个体实证证据。（pp.76–77, 95–96）
 

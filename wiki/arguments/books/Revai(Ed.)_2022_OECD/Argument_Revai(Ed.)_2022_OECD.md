@@ -66,7 +66,8 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Cohort Study]]"
   - "[[Design-Based Research]]"
-related_instruments: []
+related_instruments:
+  - "[[Strengthening the Impact of Education Research Policy Survey]]"
 related_persons:
   - "[[Tracey Burns]]"
 related_facts:
@@ -97,7 +98,7 @@ updated: 2026-09-13
 
 > [!volume-profile] 编著档案
 > - **核心议题** 剖析教育系统为何长期面临教育研究生产与政策实践应用严重脱节的顽疾，系统梳理跨国[[Knowledge Mobilisation|知识动员]]机制、中介机构演进、多主体[[Knowledge Co-production|知识共创]]与[[Evidence Ecosystem|证据生态系统]]构建。
-> - **材料边界** 依据[[OECD|经合组织]]（OECD）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）“[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]”（Strengthening the Impact of Education Research）2021 年对 29 国 37 个教育系统教育部开展的政策调查实证数据、前言致谢、执行摘要及全书 11 个核心章节。
+> - **材料边界** 依据[[OECD|经合组织]]（OECD）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）“[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]”（Strengthening the Impact of Education Research）2021 年对 29 国 37 个教育系统教育部开展的政策调查（[[Strengthening the Impact of Education Research Policy Survey]]）实证数据、前言致谢、执行摘要及全书 11 个核心章节。
 > - **章节关系** 全书采用“[[Concept Mapping|概念图]]景奠基（Part I）➔ 行动者与促成机制实证剖析（Part II）➔ 理解研究应用的新路径与实践前瞻（Part III）”的三大板块递进推进架构，汇聚多国教育学者、跨领域政策专家与一线决策者的多元视点。
 > - **使用方式** 作为全书结构导航与全系统知识沉淀入口，统摄教育知识动员、[[Evidence-Informed Decision-Making|证据知情决策]]与证据生态系统等核心议题的研究网络。
 
