@@ -206,7 +206,7 @@ updated: 2026-09-13
 > [!figure]- 图 5-2　各教育系统在政策制定端与教学实践端报告的促进机制数量分布（2021年）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_5-2_Number_of_mechanisms_by_system.jpg)
 
-> [!stat-cards] 机制数量核心数据
+> [!stat-cards]- 机制数量核心数据
 > - **4.7 项** 政策制定端平均报告机制数量（总计 12 项备选项）。
 > - **4.9 项** 学校教学实践端平均报告机制数量，整体略高于政策端。（p. 107）
 > - **4 个** 两端均具备 ≥9 项成熟机制的高储备系统（土耳其、荷兰、芬兰、瑞典）。

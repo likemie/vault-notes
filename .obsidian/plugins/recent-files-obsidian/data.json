@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_BarriersMechanisms.md"
     },
     {
+      "basename": "Research Schools Network",
+      "path": "wiki/facts/uk/Research Schools Network.md"
+    },
+    {
       "basename": "Typology of Factors Influencing Research Use",
       "path": "wiki/theories/educational-policy-reform/Typology of Factors Influencing Research Use.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Knowledge Mediation",
       "path": "wiki/concepts/educational-policy-reform/Knowledge Mediation.md"
-    },
-    {
-      "basename": "Complexity Theory",
-      "path": "wiki/theories/educational-philosophy/Complexity Theory.md"
     }
   ],
   "omittedPaths": [],
