@@ -20965,14 +20965,6 @@
     ]
   },
   {
-    "title": "Evidence Network",
-    "type": "fact",
-    "path": "wiki/facts/uk/Evidence Network.md",
-    "aliases": [
-      "证据网络"
-    ]
-  },
-  {
     "title": "Founding of Atlantic College",
     "type": "fact",
     "path": "wiki/facts/uk/Founding of Atlantic College.md",
@@ -21130,6 +21122,16 @@
       "政策与实践证据信息协调中心",
       "EPPI Centre",
       "EPPI"
+    ]
+  },
+  {
+    "title": "Evidence Network",
+    "type": "fact",
+    "path": "wiki/facts/uk/Evidence Network.md",
+    "aliases": [
+      "证据网络",
+      "UK Evidence Network",
+      "ESRC Evidence Network"
     ]
   },
   {

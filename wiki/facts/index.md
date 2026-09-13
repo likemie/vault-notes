@@ -34,8 +34,8 @@ Total entries: **432**
 | Type | Entries |
 |---|---:|
 | Policy | 153 |
-| Event | 132 |
-| Organization | 85 |
+| Event | 131 |
+| Organization | 86 |
 | Program | 62 |
 
 ## Topic Signals
@@ -595,11 +595,10 @@ Total entries: **432**
 
 ## UK
 
-> [!index-list]- Event (11)
+> [!index-list]- Event (10)
 > - [[1970s Methodology Debates in Comparative Education]] — 1970年代初发生于英格兰比较教育学界的方法论分裂，以金（Edmund King）与阿彻（Margaret Archer）之间的学术规训论争为代表，标志着学科传统描述范式与结构社会学范式的决裂
 > - [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 > - [[BERA-RSA Inquiry into the Role of Research in Teacher Education]] — 由英国教育研究学会（BERA）与英国皇家艺术学会（RSA）于 2013–2014 年联合开展的里程碑式国家调查，正式确立教师研究素养是教师专业效能与自我完善教育系统的核心基石。
-> - [[Evidence Network]] — 伦敦国王学院建立的证据网络，旨在促进研究证据在教育和社会政策中的传播与应用，后由国王学院政策研究所承接类似职能
 > - [[Founding of Atlantic College]] — 1950年代后期至1962年间在南威尔士形成的国际学校创办事件，以跨国招生、共同服务和宽广课程把战后和解理想转化为制度实验。
 > - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
 > - [[Oxford UIDP Summit 2019]] — 2019 年牛津大学与 UIDP 联合举办的首届产学合作高层峰会，汇集 149 名英国、美国、欧洲及其他地区的大学、企业和政府代表，围绕十大关键议题产出峰会报告 Developing University-Industry Partnerships Fit for the Future
@@ -608,7 +607,7 @@ Total entries: **432**
 > - [[ResearchED]] — 英国教师主导的教育研究传播网络，推动课堂实践与研究证据之间的公共讨论
 > - [[The Big Bang Fair]] — 由英国工程协会（EngineeringUK）联合主要产业巨头创办的英国最大规模青少年 STEM 科学工程年度博览会与竞赛，旨在通过动手探究激发 11–14 岁学生科学热情、打破工程性别偏见并促进校企技能学徒制衔接
 
-> [!index-list]- Organization (20)
+> [!index-list]- Organization (21)
 > - [[Advanced Manufacturing Research Centre]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
 > - [[Association for Science and Discovery Centres]] — 英国国家级科学中心、探索馆与科技博物馆行业组织，代表全英60多所主要科技场馆与科学旅游景点，每年服务公众逾2500万人次（含1000万青少年），是推动非正式科学参与、包容性改革、财税平权与国家政策倡导的核心中枢。
 > - [[Association of Medical Research Charities]] — 英国医学研究与健康慈善机构的国家级行业联合组织，凝聚全英 148 家成员慈善机构，每年在英投入逾 16 亿英镑研发经费并资助逾 25000 名科研人员，深度引领以患者为中心与患者公众全生命周期参与的研究范式
@@ -619,6 +618,7 @@ Total entries: **432**
 > - [[Education Media Centre]] — 2013年成立于英国伦敦的独立非营利教育媒介中介机构，首创将科学媒体中心（SMC）模式跨界移植至教育与人文社科领域，为新闻采编室提供突发教育议题同行评议事实核查，并面向广大大众构建公共证据素养与反商业操纵免疫屏障。
 > - [[EngineeringUK]] — 英国推动青少年工程与科技教育的核心非营利全国性机构，联合产业界、学校与政府主办大爆炸科技博览会，并与英国皇家学会联合开展全国青少年科学教育追踪调查（SET），致力于消除工程领域的性别与社会阶层机会鸿沟
 > - [[EPPI-Centre]] — 1995年设于伦敦大学学院教育学院（UCL IOE）的国际先驱证据中介机构，经合组织2007年追踪机构中唯二保持十五年完全活跃的标杆之一，开创了从线性转译向多方参与综述、软件平台及元中介网络协同演进的学术中介范式。
+> - [[Evidence Network]] — 英国经济与社会研究委员会于1999年资助设立的跨部门循证政策网络中枢，以伦敦大学玛丽女王学院与伦敦国王学院等为核心节点，后演化为高校政策研究所与当代跨国证据网络形态
 > - [[Higher Education Funding Council for England]] — 英国英格兰地区1992–2018年间法定高等教育资助与规约中介机构，负责分配公共教学科研经费，主导发起全国学习增益项目并奠定卓越教学框架制度基石。
 > - [[Institute for Effective Education]] — 英国约克大学相关独立慈善机构，通过学校支持、严格评价、Evidence in Brief和Evidence 4 Impact推动教育政策与实践中的证据使用。
 > - [[Institute for Research in Schools]] — 英国全国性科学教育慈善机构，搭建中学与顶尖高校及国际大科学工程的合作桥梁，使中学生直接使用真实科研数据和前沿课题开展长周期科学探究
@@ -648,7 +648,7 @@ Total entries: **432**
 > - [[Government Office for Science]] — 2007 年设立于英国中央政府内阁中枢的专职科学治理与科技顾问统筹机构，由英国政府首席科学顾问（GCSA）领导，负责统筹协调全英各部委首席科学顾问（CSA）网络、发布国家前瞻预见报告（Foresight Reports）与重点研究领域清单（ARIs），并作为国家应急科学咨询小组（SAGE）的常设运作中枢
 > - [[Grammar School]] — 英格兰以 11-plus 考试选拔学生的公立学术中学，现有 163 所，159 所获 Ofsted 良好/优秀评级
 > - [[Industrial Strategy Challenge Fund]] — 英国在 2017 年产业战略框架下设立的产业主导、产业参与的挑战驱动型研究与创新资助机制，四年间追加 47 亿英镑科学预算中大量资金通过 ISCF 分配，涵盖量子技术、医疗、清洁增长等领域
-> - [[National Strategy for Educational Research and Enquiry]] — 威尔士政府于 2018 年受英国教育部委托共同发起、2021 年正式发布的全国教育研究战略，旨在构建覆盖 3 至 18 岁教育与高等教育的循证专业共同体，系统培育研究能力并支撑证据知情政策制定
+> - [[National Strategy for Educational Research and Enquiry]] — 威尔士政府受英国教育部委托于 2018 年发起协同共创、2021 年正式发布的国家级教育科研宏观治理战略，旨在扩充高校科研产能、培育全国循证教师专业群体、支撑循证公共政策制定并深度融入国际证据网络
 > - [[Parliamentary Office of Science and Technology]] — 英国议会两院于 1989 年设立的法定独立科技评估与证据咨询机构，通过定期编制经过严格同行评议的客观科学简报（POSTnotes）与组织跨党派证据研讨，为国会议员及专责委员会审议重大科技政策议题提供中立、前沿与权威的科学洞察
 > - [[Public Attitudes to Science]] — 由英国政府与英国研究与创新署（UKRI）委托 Ipsos 等权威机构长期开展的全国代表性成年公民科学态度追踪调查（2000–2025），系统监测公众对科学价值、科学家信任度、新兴技术伦理、科普场馆访问及科技重大决策民主参与诉求的演进态势。
 > - [[Research Excellence Framework]] — 英国实施的全国性大学研究评估体系（前身为 RAE），直接决定 QR 研究拨款的分配，是高等教育准市场与新公共管理（NPM）审计文化中最成熟的制度形式，深刻驱动了英国大学的管理主义形变

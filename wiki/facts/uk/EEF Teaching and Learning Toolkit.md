@@ -9,10 +9,10 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 42
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_count: 27
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: Education Endowment Foundation
 tags:
   - eef
@@ -22,36 +22,20 @@ tags:
   - effect-size
   - region/uk
 related_concepts:
-  - "[[School Leadership]]"
-  - "[[Abstract]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Knowledge Mobilisation]]"
-  - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[Metacognition]]"
   - "[[Tracking]]"
-  - "[[Creativity]]"
-  - "[[Professional Judgment]]"
-  - "[[Academic Achievement]]"
-  - "[[Document]]"
-  - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Unit of Analysis]]"
   - "[[Moral Sidestep]]"
-  - "[[Evidence Ecosystem]]"
 related_theories:
-  - "[[Van Leeuwen's Legitimation Theory]]"
   - "[[Typology of Factors Influencing Research Use]]"
+  - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Umbrella Review]]"
-  - "[[Intervention Research]]"
   - "[[Effect Size]]"
-  - "[[Effect Size Conversion]]"
-  - "[[In-depth Interview]]"
-  - "[[Meta-meta-analysis]]"
-  - "[[Statistical Significance]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -61,8 +45,8 @@ related_facts:
   - "[[Playing for Success]]"
   - "[[What Works Network]]"
 related_arguments:
-  - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Pellegrini_2021_ROE]]"

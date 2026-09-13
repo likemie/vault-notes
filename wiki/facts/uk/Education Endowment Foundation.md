@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 52
+fact_related_count: 53
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -78,6 +78,7 @@ related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
@@ -134,7 +135,7 @@ updated: 2026-09-13
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵与代表性成果
-> - **《教学与学习工具包》（Teaching and Learning Toolkit）** 国际公认的旗舰证据聚合平台，综合 5,500 余项研究，对 30 余类教学干预按“额外学习月份增益（Months of Progress）”、“实施成本（£ 至 £££££）”与“证据确定性（挂锁数量 🔒）”进行动态可视化排名([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]])。
+> - **《教学与学习工具包》（Teaching and Learning Toolkit）** 国际公认的旗舰证据聚合平台，综合 5,500 余项研究，对 30 余类教学、组织与关系干预按“额外学习月份增益（Months of Progress）”、“实施成本（£ 至 £££££）”与“证据确定性（挂锁数量 🔒）”进行动态可视化排名([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, pp. 110–111]])。
 > - **前沿实施指导报告（Guidance Reports）** 针对[[Metacognition|元认知]]与[[Self-Regulated Learning|自我调节学习]]、数学早期干预、行为管理等核心教学主题，发布操作细化的循证行动指南。
 > - **大规模 [[Randomised Controlled Trials|RCT]] 评估报告公开知识库** 迄今资助完成超过 200 项大型教育 RCT 实验，建立起全球规模最大的单体机构教育现场实验数据库。
 > - **早期阶段工具包（Early Years Toolkit）** 专门针对学前教育阶段儿童的语言发展与早期读写提供细分证据指引。
@@ -149,9 +150,14 @@ updated: 2026-09-13
 ## 影响与体系成效
 
 > [!indicators]- 影响力维度与指标
-> - **学校渗透率** 超过 70% 的英格兰中小学校长报告在规划年度学校改进计划与使用 Pupil Premium 预算时参考了 EEF 工具包。
+> - **学校渗透率** 超过 70% 的英格兰中小学校长报告在规划年度学校改进计划与使用 Pupil Premium 预算时参考了 EEF 工具包。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 111)]]
 > - **全球镜像组织辐射** 成功输出模式，深度主导或孵化了澳大利亚 [[Australian Education Research Organisation|AERO]]、澳大利亚 E4L 以及拉美 Summa 等国家与跨国中介机构。
 > - **跨国政策话语权** 其证据标准直接被英美澳等国纳入教师资格认证（Initial Teacher Training, [[Intent-to-Treat Analysis|ITT]]）核心大纲([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
+
+> [!critique-data]- 最终受益人评估与研究学校网络（RSN）3年实证结果
+> - **全球有效机构中的评估例外** 跨国实证综述显示，除英国教育捐赠基金会（EEF）之外，绝大多数“有效机构”（What Works Centres）极少对其推动的证据利用在最终受益人（即学生学业与身心发展）上的长远效益进行独立因果评估。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; Gough et al. (2018)
+> - **研究学校网络（RSN）三年评估的实证警示** 由第三方独立团队对全英由 EEF 资助的研究学校网络（Research Schools Network，RSN）前三年实施效果开展的大规模评估（Gu et al., 2021）证实：项目虽然在教师与校长的研究意识、循证教学信念与校本教研文化上取得了显著的制度性改变，但在学生客观标准化统考成绩（GCSE 成绩）上尚未呈现出任何统计学显著改善的证据。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 118)]]
+> - **教育转化的漫长滞后与归因挑战** 医药卫生领域从新证据发表到临床实质采纳的平均时间滞后长达 17 年，而教育领域的因果链路更为曲折弥散；这一实证警示揭示了从“教师认知转变”到“学生统考成绩跃升”之间存在漫长的因果时滞，全系统治理不可期望通过短期干预产生立竿见影的奇迹。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 117–118)]]
 
 > [!finding-cards] 关键成效与[[Paradigm|范式]]演变
 > - **确立新一代生态型中介范式** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 与 [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 一致指出，EEF 突破了早期美国 [[What Works Clearinghouse|WWC]] 单纯依靠网站被动推送[[Abstract|研究摘要]]的线性局限，首次将证据资助、[[Transfer Translation Transformation|转译]]、传播与一线的“[[Research Schools Network|研究学校网络]]”深度绑定，构建起当代最完备的[[Evidence-Informed Practice|证据知情实践]]生态系统。
@@ -162,6 +168,7 @@ updated: 2026-09-13
 > - **5,500+ 项** 工具包底层纳入并综合的国际实证研究数量
 > - **200+ 项** 资助执行的大规模教育[[Randomised Controlled Trials|随机对照试验]]（RCT）
 > - **40+ 所** 全英常设“研究学校”（Research Schools）辐射数千所基层学校
+> - **70%** 英格兰中学领导者常规参考决策比例[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 111)]]
 
 ---
 

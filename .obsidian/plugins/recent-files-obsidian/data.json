@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_BarriersMechanisms.md"
     },
     {
+      "basename": "Complexity Theory",
+      "path": "wiki/theories/educational-philosophy/Complexity Theory.md"
+    },
+    {
+      "basename": "Kunnskapssenter for utdanning",
+      "path": "wiki/facts/norway/Kunnskapssenter for utdanning.md"
+    },
+    {
+      "basename": "Teaching and Learning Research Initiative",
+      "path": "wiki/facts/new-zealand/Teaching and Learning Research Initiative.md"
+    },
+    {
       "basename": "National Strategy for Educational Research and Enquiry",
       "path": "wiki/facts/uk/National Strategy for Educational Research and Enquiry.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Research Impact",
       "path": "wiki/concepts/university-industry-collaboration/Research Impact.md"
-    },
-    {
-      "basename": "Complexity Theory",
-      "path": "wiki/theories/educational-philosophy/Complexity Theory.md"
     },
     {
       "basename": "Typology of Factors Influencing Research Use",
@@ -191,14 +199,6 @@
     {
       "basename": "No Child Left Behind Act 2001",
       "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
-    },
-    {
-      "basename": "Quasi-Experimental Designs",
-      "path": "wiki/methods/quantitative/Quasi-Experimental Designs.md"
-    },
-    {
-      "basename": "Research Literacy",
-      "path": "wiki/concepts/teacher-education/Research Literacy.md"
     }
   ],
   "omittedPaths": [],
