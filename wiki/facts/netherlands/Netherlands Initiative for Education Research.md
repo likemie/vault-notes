@@ -11,9 +11,9 @@ subtype: organization
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dcfce7"
 period: "2012 年至今"
 initiator_organization: "荷兰教育、文化与科学部 / 荷兰国家科学研究组织（NWO）"

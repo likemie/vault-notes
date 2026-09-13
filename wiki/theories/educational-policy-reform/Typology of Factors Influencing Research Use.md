@@ -10,10 +10,10 @@ aliases:
 summary: "整合 Humphries et al. (2014) 跨领域综述与 Best & Holmes (2010) 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并阐明跨层系统性协调的必要性"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 18
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/research-use
   - theme/knowledge-mobilisation
