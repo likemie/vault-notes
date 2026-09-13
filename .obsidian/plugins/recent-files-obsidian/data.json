@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Hill_2022_FacilitatingActors",
-      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Hill_2022_FacilitatingActors.md"
+      "basename": "Argument_Torres_2022_BarriersMechanisms",
+      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_BarriersMechanisms.md"
+    },
+    {
+      "basename": "Argument_Torres_2022_KMModels",
+      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_KMModels.md"
     },
     {
       "basename": "Argument_Revai_2022_ChangingLandscape",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai_2022_ChangingLandscape.md"
     },
     {
+      "basename": "Argument_Burns_Schuller_2022_BrokerageAgencies",
+      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
+    },
+    {
       "basename": "Argument_Revai(Ed.)_2022_OECD",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai(Ed.)_2022_OECD.md"
+    },
+    {
+      "basename": "Argument_Hill_2022_FacilitatingActors",
+      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Hill_2022_FacilitatingActors.md"
+    },
+    {
+      "basename": "Ch05_Torres_2022",
+      "path": "books/Revai(Ed.)_2022_OECD/Ch05_Torres_2022.md"
     },
     {
       "basename": "Revai(Ed.)_2022_OECD",
@@ -87,14 +103,6 @@
     {
       "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
       "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
-    },
-    {
-      "basename": "Argument_Torres_2022_KMModels",
-      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_KMModels.md"
-    },
-    {
-      "basename": "Argument_Burns_Schuller_2022_BrokerageAgencies",
-      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
     },
     {
       "basename": "Ch04_Hill_2022",
@@ -191,14 +199,6 @@
     {
       "basename": "EU Evidence-Informed Education Policy Initiatives",
       "path": "wiki/facts/eu/EU Evidence-Informed Education Policy Initiatives.md"
-    },
-    {
-      "basename": "Danish Clearinghouse for Educational Research",
-      "path": "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md"
-    },
-    {
-      "basename": "EPPI-Centre",
-      "path": "wiki/facts/uk/EPPI-Centre.md"
     }
   ],
   "omittedPaths": [],

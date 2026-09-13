@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
+  - "[[Knowledge Mediation]]"
   - "[[Dialogue in Education]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Global Development Network
@@ -69,7 +70,7 @@ updated: 2026-09-12
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1999–2001 — [[World Bank|世行]]内部孵化与“[[Knowledge Bank|知识银行]]”转型里程碑** 1990 年代世界银行全面加速拓展教育与社会部门的研究职能；1999 年发起成立 GDN，被政治学家黛安·斯通（Diane Stone, 2000）定性为世行脱胎换骨走向知识中介的关键里程碑，高调许诺将研究预算与选题自主权下沉至国别本土层面。
+> - **1999–2001 — [[World Bank|世行]]内部孵化与“[[Knowledge Bank|知识银行]]”转型里程碑** 1990 年代世界银行全面加速拓展教育与社会部门的研究职能；1999 年发起成立 GDN，被政治学家黛安·斯通（Diane Stone, 2000）定性为世行脱胎换骨走向[[Knowledge Mediation|知识中介]]的关键里程碑，高调许诺将研究预算与选题自主权下沉至国别本土层面。
 > - **2001–2005 — 法律独立重组与秘书处南迁新德里** 为摆脱世行直接附属机构的政治烙印，GDN 于 2001 年在瑞士日内瓦注册为独立国际组织，并于 2005 年正式将总部迁往印度新德里，确立了全球南方区域研究网络（Regional Network Partners）协作机制。
 > - **2006–至今 — 倡议受挫与被总部集权项目边缘化** 随着世界银行重心全面转向由华盛顿总部集中研制的大型指标体系（如教育领域的 [[Systems Approach for Better Education Results|SABER]] 项目、[[Randomised Controlled Trials|随机对照试验]] RCTs 与量化数据仓库），GDN 原初承诺的“本土去中心化政策[[Knowledge Production|知识生产]]”逐渐丧失世行高层政治与财务支持，退居边缘化地位。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 
@@ -126,9 +127,9 @@ updated: 2026-09-12
 > [!debates] 制度争议与批判
 >
 > > [!axis] 本土赋权修辞与总部技术霸权的张力
-> > 批评学者指出，[[World Bank|世界银行]]创建 GDN 从一开始就带有掩饰自身霸权的合法化意图；当本土学者产出的研究结论与世行推行的新自由主义结构调整、私有化方案发生冲突时，世行便会毫不犹豫地弃用本土研究，转而动用总部集中研发的 [[Systems Approach for Better Education Results|SABER]] 指标予以强行压制。（Stone, 2000; Steiner-Khamsi et al., 2024, p. 543）
+> > 批评学者指出，[[World Bank|世界银行]]创建 GDN 从一开始就带有掩饰自身霸权的合法化意图；当本土学者产出的研究结论与世行推行的新自由主义结构调整、私有化方案发生冲突时，世行便会毫不犹豫地弃用本土研究，转而动用总部集中研发的 [[Systems Approach for Better Education Results|SABER]] 指标予以强行压制。（Stone, 2000; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 543]]）
 >
-> > [!axis] 知识中介中立性与依附性研究生产的张力
+> > [!axis] [[Knowledge Mediation|知识中介]]中立性与依附性研究生产的张力
 > > 国际政治经济学派审视指出，依靠外部资助生存的南方智库极易陷入对北方发展机构议题偏好的依附，GDN 虽然试图培育本土研究，却在无形中将西方主流[[Positivism|实证主义]]与计量模型强加为衡量发展研究质量的唯一准则。
 
 > [!citation-card] 世界银行去中心化知识中介的受挫
@@ -145,7 +146,7 @@ updated: 2026-09-12
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Two-Communities Theory]] | Theory | GDN 旨在跨越全球南方发展中国家科学研究社群与政治决策社群之间的结构鸿沟。 |
-> | [[Policy Brokerage]] | Concept | GDN 是跨国多边机构探索去中心化政策知识中介的制度试验。 |
+> | [[Policy Brokerage]] | Concept | GDN 是跨国多边机构探索去中心化政策[[Knowledge Mediation\|知识中介]]的制度试验。 |
 > | [[Knowledge Production]] | Concept | GDN 核心宗旨是支持全球南方借贷国本土的自主知识生产。 |
 > | [[Soft Power by Hard Facts]] | Concept | [[World Bank\|世行]]最终放弃 GDN 去中心化路线，转向以总部硬事实施展[[Soft Power\|软权力]]的集权指标体系。 |
 > | [[World Education Reform Database]] | Fact (Program) | 记录世行自指性内部实践闭环与集中化指标政策仓库的实证数据库。 |

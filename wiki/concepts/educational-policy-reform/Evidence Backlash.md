@@ -62,7 +62,7 @@ updated: 2026-09-13
 
 ## 发生机制与催化条件
 
-> [!feature] 证据反弹的三重催化机制（Burns & Schuller, 2022, pp. 56–57; Lewandowsky et al., 2017）
+> [!feature] 证据反弹的三重催化机制（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 56–57]]; Lewandowsky et al., 2017）
 > - **身份防卫与证实偏差（Identity Defense & Confirmation Bias）** 证据往往触及教育理念（如严格纪律 vs 宽松探究）背后的道德直觉与意识形态；当科学结论威胁到群体的核心自我认同时，受众倾向于通过攻击研究者的动机或中立性来化解认知失调。
 > - **反专家民粹修辞的泛滥（Disdain for Experts）** 在公共舆论场中，“象牙塔专家不接地气”、“证据是技术官僚剥夺教师/家长自主权的借口”等修辞被政客或自利操纵者广泛动员，诱发普遍的信任坍塌。
 > - **算法回音室的极化放大** 社交媒体根据点赞与情绪偏好持续推送同质内容，使反科学观点在社群内部互相确证，最终形成对任何外部相反证据具有强烈排异反应的封闭体系。

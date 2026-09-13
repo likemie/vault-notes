@@ -155,7 +155,7 @@ updated: 2026-09-12
 > - **1979 — 系统论中的技术赤字假说** 鲁曼与肖尔（Luhmann & Schorr, 1979）提出教育缺乏因果技术的论断，指明教育无法保证投入与产出的必然联结，奠定了不确[[Qualitative Research|定性研究]]的[[Epistemology|认识论]]基础。
 > - **2000–2010s — 预期社会学与虚构期望** 贝克特（Jens Beckert）等经济社会学家提出资本主义依赖“虚构期望”（Fictional Expectations）的理论，论证经济行动的实质是基于对未来的前瞻性想象而非历史计算。
 > - **2023 — 允诺合法性概念正式提出** 罗伯逊与比奇（Robertson & Beech, 2023）在《Comparative Education》发表里程碑论文，系统将期许性合法性引入跨国教育治理分析，揭示国际组织如何凭借未来允诺重塑合法性空间。
-> - **2024 — 整合进[[Governing by Numbers|数字治理]] 2.0 [[Policy Brokerage|政策中介]]框架** 施泰纳-哈姆西等学者（Steiner-Khamsi et al., 2024）将期许性合法性与[[Policy Ambiguity|决策歧义性]]、公共争议性并列，提炼为解释国际组织政策中介机制的三大生态基石之一。
+> - **2024 — 整合进[[Governing by Numbers|数字治理]] 2.0 [[Policy Brokerage|政策中介]]框架** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）将期许性合法性与[[Policy Ambiguity|决策歧义性]]、公共争议性并列，提炼为解释国际组织政策中介机制的三大生态基石之一。
 
 ---
 

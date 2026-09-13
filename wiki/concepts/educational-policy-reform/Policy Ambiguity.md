@@ -7,7 +7,7 @@ aliases:
 summary: "指公共政策制定中针对同一客观情境或治理问题同时并存多种互不相容、无法通约的思考方式与价值取向的生态特征。在信息过量时代，更多知识证据无法自发消除歧义性，反而加剧解释撕裂，促使决策者将数字作为理性表象的脚手架以应对多元分歧。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -16,6 +16,7 @@ tags:
   - theme/policy-process
   - theme/governance
 related_concepts:
+  - "[[Surplus of Evidence]]"
   - "[[Scaffolding]]"
   - "[[Epistemology]]"
   - "[[Scientific Uncertainty]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
+  - "[[Knowledge Mediation]]"
   - "[[Literature Review]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Policy Ambiguity
@@ -170,7 +172,7 @@ updated: 2026-09-12
 > - **1972 — 组织决策的垃圾桶模型** 科恩、马奇与奥尔森（Cohen, March, & Olsen, 1972）提出组织歧义性概念，指出大学等组织具有目标含混、技术不清晰与参与流动三大特征。
 > - **1989 — 《无序的秩序》确立政策歧义性分析** 费尔德曼（Martha Feldman, 1989）系统界定歧义性为“对同一情境存在多种并存思考方式”，论证信息生产在政策制定中的符号化机制。
 > - **2003–2017 — [[Multiple Streams Framework|多源流分析框架]]的深化** 扎哈里亚迪斯（Nikolaos Zahariadis）将决策歧义性确立为多源流理论的[[Epistemology|认识论]]基石，强调政策过程的本质是操纵与管理歧义性。
-> - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代的[[Policy Brokerage|政策中介]]整合** 施泰纳-哈姆西等（Steiner-Khamsi et al., 2024）指出在[[Surplus of Evidence|证据过剩]]的数字时代，政策中介凭借数字理性[[Scaffolding|脚手架]]对政策歧义性进行定向[[Transfer Translation Transformation|转译]]与治理控制。
+> - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代的[[Policy Brokerage|政策中介]]整合** 施泰纳-哈姆西等（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）指出在[[Surplus of Evidence|证据过剩]]的数字时代，政策中介凭借数字理性[[Scaffolding|脚手架]]对政策歧义性进行定向[[Transfer Translation Transformation|转译]]与治理控制。
 
 ---
 
@@ -187,7 +189,7 @@ updated: 2026-09-12
 > > [!axis] [[Policy Brokerage|政策中介]]角色争鸣：知识澄清中介 vs 操纵证据的政治合谋者
 > > 聚焦政策中介机构在介入歧义性情境时扮演的实际功能。
 > >
-> > - **传统知识中介主张** 政策中介通过[[Meta-analysis|元分析]]和系统[[Literature Review|文献综述]]，帮助政策制定者识别证据共识，澄清事实边界。
+> > - **传统[[Knowledge Mediation|知识中介]]主张** 政策中介通过[[Meta-analysis|元分析]]和系统[[Literature Review|文献综述]]，帮助政策制定者识别证据共识，澄清事实边界。
 > > - **批判治理学者** 揭示现代政策中介本质上是“自指性利益同盟”，它们利用歧义性推销自身预设的政策方案，充当行政当局推行争议性改革的合法化弹药。
 
 > [!critique] 外部批评

@@ -140,7 +140,7 @@ updated: 2026-09-12
 > - **1990 — 冷战结束前夕的概念奠基** 奈在《注定领导：美国权力性质的变迁》（*Bound to Lead*）中正式提出软实力概念，回应当时弥漫西方的“美国衰落论”。指出美国的实力不仅体现在航母与 GDP，更体现在其对全球青年精英的文化吸引力、自由民主价值观及多边制度主导权。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 10–11)]]
 > - **2004–2005 — 概念体系的精细化与三要素确立** 奈出版专著《软实力：在世界政治中获得成功的途径》，确立了软实力的三大核心支柱：文化（在他者眼中具备吸引力）、政治价值观（在国内外得到坚守）与对外政策（被视作合法且具备道德权威）。
 > - **2010年代 — [[Geopolitics of Higher Education|高等教育地缘政治]]应用与[[Knowledge Diplomacy|知识外交]]的反思** 随着全球学生跨国流动激增与[[Confucius|孔子]]学院、富布赖特项目展开全球竞争，学者们将软实力框架全面引入国际高等教育。[[Jane Knight|简·奈特]]（Jane Knight, 2021）等学者随后批评软实力的零和民族国家中心主义倾向，倡导转向多维共赢的“知识外交”。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
-> - **2011–2024 — 全球量化规制转型：“[[Soft Power by Hard Facts|以硬事实施展软权力]]”** 比较教育与国际关系学者（Bieber & Martens, 2011; Martens & Niemann, 2013; Steiner-Khamsi et al., 2024）揭示国际组织施展权力的全新模式：[[OECD|经合组织]]与[[World Bank|世界银行]]将客观数据与跨国指标作为规制杠杆，以“硬数据”行使无形重塑国家政策的“软权力”，使软实力概念正式从传统外交传播学跃升为全球[[Governing by Numbers|数字治理]]的核心分析基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
+> - **2011–2024 — 全球量化规制转型：“[[Soft Power by Hard Facts|以硬事实施展软权力]]”** 比较教育与国际关系学者（Bieber & Martens, 2011; Martens & Niemann, 2013; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）揭示国际组织施展权力的全新模式：[[OECD|经合组织]]与[[World Bank|世界银行]]将客观数据与跨国指标作为规制杠杆，以“硬数据”行使无形重塑国家政策的“软权力”，使软实力概念正式从传统外交传播学跃升为全球[[Governing by Numbers|数字治理]]的核心分析基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
 
 ---
 
@@ -158,7 +158,7 @@ updated: 2026-09-12
 > > 传统软实力理论预设主权国家为唯一施展主体，难以解释现代跨国机构的治理权力。
 > >
 > > - **传统软实力学者（Nye）** 聚焦于白宫或主权政府如何通过公关与文化基金会投射国际形象。
-> > - **全球治理与比较教育学者（Steiner-Khamsi et al., 2024）** 揭示像 [[OECD]]、[[World Bank|世行]]这样的非主权组织，凭借跨国数据生产与[[Policy Brokerage|政策中介]]，已成为在全球范围内调动软权力的独立制度巨头。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–546)]]
+> > - **全球治理与比较教育学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 揭示像 [[OECD]]、[[World Bank|世行]]这样的非主权组织，凭借跨国数据生产与[[Policy Brokerage|政策中介]]，已成为在全球范围内调动软权力的独立制度巨头。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–546)]]
 
 > [!warning] 适用局限与边界
 > 软实力指数与排名的表演性异化：当前全球大量商业机构开发了“全球软实力指数”等评估榜单，部分国家通过定向资金投入与形象公关“购买”软实力位次，导致软实力操作逐渐脱离了民众自发的“真诚吸引与尊重”，滑向虚幻的指标操弄与象征性表演。

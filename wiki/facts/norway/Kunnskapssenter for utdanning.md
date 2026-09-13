@@ -10,7 +10,7 @@ subtype: organization
 region: norway
 fact_region: "norway"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,26 +24,32 @@ tags:
   - theme/educational-governance
   - theme/systematic-review
 related_concepts:
-  - "[[Educational Brokerage Agency]]"
   - "[[Knowledge Mediation]]"
-  - "[[Research Utilization]]"
-  - "[[Evidence-Informed Practice]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Epistemology]]"
+  - "[[Phronesis]]"
   - "[[Professional Judgment]]"
   - "[[Heterogeneity]]"
-  - "[[Phronesis]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Research-Practice Gap]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Qualitative Research]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Intervention Research]]"
+  - "[[Case Study]]"
+  - "[[Action Research]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[OECD]]"
   - "[[EPPI-Centre]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Campbell Collaboration]]"
   - "[[National Institute for Educational Policy Research]]"
-  - "[[Education Endowment Foundation]]"
+  - "[[Kenniskamer]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: high
@@ -59,7 +65,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> Kunnskapssenter for utdanning（挪威语，英文 Knowledge Centre for Education）是挪威教育与研究部（Kunnskapsdepartementet）资助的独立学术研究机构，依托挪威大学系统运作，专门开展教育领域的[[Systematic Review|系统综述]]与[[Knowledge Mediation|知识中介]]工作。该机构以开创**平行评审机制（Parallel Review Processes）**著称——在综述研究中系统纳入一线教师与实践者的优先视角，确保证据综合不与课堂现实脱节；同时打破对 [[Randomised Controlled Trials|RCT]] 黄金标准的单一依赖，发展出涵盖质性与量化证据的综合方法论。Burns & Schuller（2022）将其列为"多[[Meta-meta-analysis|元综合]]派"方法论的北欧代表，以及政府资助自治型中介中践行实践者参与的标杆案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 62–63]])
+> Kunnskapssenter for utdanning（挪威语，英文 Knowledge Centre for Education）是挪威教育与研究部（Kunnskapsdepartementet）资助的独立学术研究机构，依托挪威大学系统运作，专门开展教育领域的[[Systematic Review|系统综述]]与[[Knowledge Mediation|知识中介]]工作。该机构以开创**平行评审机制（Parallel Review Processes）**著称——在综述研究中系统纳入一线教师与实践者的优先视角，确保证据综合不与课堂现实脱节；同时打破对 [[Randomised Controlled Trials|RCT]] 黄金标准的单一依赖，发展出涵盖质性与量化证据的综合方法论。[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]将其列为"多[[Meta-meta-analysis|元综合]]派"方法论的北欧代表，以及政府资助自治型中介中践行实践者参与的标杆案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 62–63]])
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间** 2013 年正式设立，依托挪威高校体系，初设于奥斯陆地区；作为挪威政府系统性推动[[Evidence-Based Education|循证教育]]政策建设的产物，由教育与研究部划拨经常性资助。
@@ -102,7 +108,7 @@ updated: 2026-09-13
 > - **分权化迁址的制度意义** 2019 年迁往斯塔万格大学的举措，不仅是挪威行政分权政策的产物，也标志着该机构从首都政策中心向地方学术社群的制度性嵌入转型，使其与基层教育网络的联结更为紧密，同时保持对首都决策圈的实质影响力。
 > - **多元方法论立场的典范价值** 在 [[What Works Clearinghouse|WWC]]、[[Education Endowment Foundation|EEF]] 等机构大力推进 [[Randomised Controlled Trials|RCT]] 黄金标准的国际背景下，Kunnskapssenter 坚持质性与量化证据的同等方法论地位，其成功运作证明了一条不同于纯 RCT 路线的北欧替代路径：高质量系统综述不必以实验设计的单一霸权为前提，包容多元[[Heterogeneity|异质性]]的方法论立场同样能够产出具有政策公信力的知识产品。
 
-> [!tension] 政府资助自治型中介的制度张力（Burns & Schuller, 2022）
+> [!tension] 政府资助自治型中介的制度张力（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022]]）
 > - **自治优势** 独立行政法人地位与大学依托属性，使机构能够在政党轮替时维持研究议程的连续性，不受特定部长个人政治偏好左右；大学归属也赋予其国际同行认可的学术公信力。
 > - **政策对齐压力** 政府经常性资助必然带来对政策优先议题的议程对齐压力；当研究综合结论与当届政府政策方向出现冲突时，机构独立性面临现实考验。
 > - **规模与资源约束** 北欧小国的有限财政规模，限制了系统综述的产出数量与跨学科覆盖广度，难以在所有教育政策领域实现全面的证据综合。

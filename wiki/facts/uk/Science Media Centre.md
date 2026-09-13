@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Education Media Centre]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[PISA]]"
   - "[[EPPI-Centre]]"
@@ -136,9 +137,9 @@ updated: 2026-09-13
 > - **机构定位与核心职能** EMC 作为独立的非营利中介机构，专门对接大众媒体记者与新闻采编室；当公众舆论中出现关于教学法争议（如[[Whole Language|全语言]]教学 vs 系统拼读法）、[[PISA|国际学生评估项目]]（PISA）跨国排名炒作或[[Academic Achievement|学业成绩]]差距的夸大失实报道时，EMC 在采编发稿截稿前向记者提供严谨的事实核查，并迅速推荐多学科专家受访。
 > - **成效与作用** 这一机制有效遏制了片面或虚假陈述在大众传播中的发酵，改变了教育领域长期缺乏类似科学界快速中介机制的被动局面，守护了教育研究的公共公信力。（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]]）
 
-> [!tension] 受众维度的根本性拓展与反商业操纵防线（Burns & Schuller, 2022, pp. 59–64）
+> [!tension] 受众维度的根本性拓展与反商业操纵防线（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 59–64]]）
 > - **从跑口记者延伸至寻求实证依据的广大大众** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 62, 64)]] 指出，大众媒体导向型中介不仅服务于寻求事实核查的专业记者，其更深层的受众是“寻求理解大众传媒中教育与科学研究声称底层证据依据的广大大众（the broader public seeking to understand the evidence base）”。在后真相时代的碎片化舆论场中，中介机构承担起提升公民公共[[Scientific Literacy|证据素养]]（[[Research Literacy|研究素养]]）的民主基石功能。
-> - **反制商业利益操纵者（Spinners）与“证据知情”标签的利益绑架** 随着“证据驱动”话语成为主流，教育科技资本与商业咨询公司往往打着“证据知情”的公关护身符，通过挑选局部有利指标（Cherry-picking）包装商业软件或特定教学方案，使原本中立的“[[Boundary Spanner|边界跨越者]]”（Boundary Spanners）蜕化为推销特定利益的“自利操纵者”（Spinners）（Lubienski, 2019; Burns & Schuller, 2022, p. 60）。SMC / EMC 模式以严格的独立性、同行评议标准与强制[[Conflict of Interest in Research|利益冲突]]申报，构成了抵御商业公关绑架、维护知识客观性的制度屏障。
+> - **反制商业利益操纵者（Spinners）与“证据知情”标签的利益绑架** 随着“证据驱动”话语成为主流，教育科技资本与商业咨询公司往往打着“证据知情”的公关护身符，通过挑选局部有利指标（Cherry-picking）包装商业软件或特定教学方案，使原本中立的“[[Boundary Spanner|边界跨越者]]”（Boundary Spanners）蜕化为推销特定利益的“自利操纵者”（Spinners）（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 60]]）。SMC / EMC 模式以严格的独立性、同行评议标准与强制[[Conflict of Interest in Research|利益冲突]]申报，构成了抵御商业公关绑架、维护知识客观性的制度屏障。
 
 > [!row-contrast] 全球科学与教育媒体中介协作网络谱系（SMC Global Network & EMC）
 > | 机构名称与国别 | 创立时间与常设地点 | 治理与经费机制 | 核心业务与辐射受众 | 学理价值与制度特征 |

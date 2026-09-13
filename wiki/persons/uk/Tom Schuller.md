@@ -60,7 +60,7 @@ updated: 2026-09-13
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育学者与政策研究者，英国社会科学院（Academy of Social Sciences, AcSS）院士，长期从事[[Lifelong Learning|终身学习]]（Lifelong Learning）、社会资本与教育[[Epistemic Governance|知识治理]]研究；2022年与 [[Tracey Burns]] 合著 [[OECD]] 章节时以独立研究者身份参与，依托英国学术共同体。
 > - **核心角色** 在[[Lifelong Learning|终身学习]]政策研究领域具有深厚积累，并通过与 Burns 的长期学术合作，将终身学习的宏观视角与中介机构的制度比较分析相融合，形成跨越教育政策全生命周期的知识治理分析[[Paradigm|范式]]。
-> - **代表贡献** 与 Tracey Burns 合著《[[Educational Brokerage Agency|教育中介机构]]的历史与演进》（Burns & Schuller, 2022），论证中介机构在后真相时代面临的三重变迁与存续危机，并提出建构[[Cumulative Knowledge Base|累积性知识库]]的行动路径。
+> - **代表贡献** 与 Tracey Burns 合著《[[Educational Brokerage Agency|教育中介机构]]的历史与演进》（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022]]），论证中介机构在后真相时代面临的三重变迁与存续危机，并提出建构[[Cumulative Knowledge Base|累积性知识库]]的行动路径。
 
 ---
 

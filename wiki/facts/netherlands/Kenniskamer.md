@@ -10,7 +10,7 @@ subtype: organization
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -23,18 +23,19 @@ tags:
   - theme/evidence-informed-policy
   - theme/educational-governance
 related_concepts:
-  - "[[Educational Brokerage Agency]]"
   - "[[Knowledge Mediation]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Research Utilization]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Educational Brokerage Agency]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Kennisrotonde]]"
-  - "[[Best Evidence Synthesis]]"
+  - "[[EPPI-Centre]]"
   - "[[Danish Clearinghouse for Educational Research]]"
+  - "[[Best Evidence Synthesis]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: medium
@@ -50,7 +51,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> Kenniskamer（荷兰语"知识室"，英文 Dutch Knowledge Chamber）是荷兰教育部于2000年代设立的内部政策咨询机制，直接嵌入部委行政体系，专门为教育部长的施政议程提供证据咨询与[[Knowledge Mediation|知识中介]]支持。Burns & Schuller（2022）将其列为"部委嵌入型"中介的典型荷兰案例，并以其停摆轨迹论证过度依附特定政治人物意愿对中介机构存续的致命影响。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
+> Kenniskamer（荷兰语"知识室"，英文 Dutch Knowledge Chamber）是荷兰教育部于2000年代设立的内部政策咨询机制，直接嵌入部委行政体系，专门为教育部长的施政议程提供证据咨询与[[Knowledge Mediation|知识中介]]支持。[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]将其列为"部委嵌入型"中介的典型荷兰案例，并以其停摆轨迹论证过度依附特定政治人物意愿对中介机构存续的致命影响。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
 
 > [!org-context] 机构背景与设立渊源
 > - **设立背景** 21世纪初荷兰政府在[[Evidence-Based Education|循证教育]]政策浪潮驱动下，仿照英国等国做法于教育部内设立专职知识咨询机构，意在为部长级政策决策提供即时的研究证据支撑与综合分析。

@@ -105,7 +105,7 @@ updated: 2026-09-12
 > [!citation-card] 施泰纳-哈姆西等论国际协定驱动的量化规制帝国
 > 国际协定的新纪元推动建立了由联合国专业教育机构[[UNESCO|教科文组织]]统筹协调、并首先由[[World Bank|世界银行]]及随后由所有其他国际组织共同强力执行的、数量不断膨胀的国际基准体系。
 >
-> *The new era of international agreements propelled the creation of an ever-growing number of international benchmarks coordinated by UNESCO, the UN's specialised agency for education, and enforced first by the World Bank and later by all other IOs.* (Steiner-Khamsi et al., 2024, p. 541; 引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]])
+> *The new era of international agreements propelled the creation of an ever-growing number of international benchmarks coordinated by UNESCO, the UN's specialised agency for education, and enforced first by the World Bank and later by all other IOs.* ([[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 541]]; 引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]])
 
 ---
 

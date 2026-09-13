@@ -64,8 +64,8 @@ related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+  - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Terhart_2011_JCS]]"
 related_facts:
@@ -125,7 +125,7 @@ updated: 2026-09-13
 > - **[[Meta-analysis|元分析]]中的统计变异与调节探索** 通过 [[Cochran's Q Test|Q 检验]]与 $I^2$ 统计量判定真实变异占比；借助[[Forest Plot|森林图]]呈现效应离散分布；通过[[Moderator Analysis|调节变量分析]]探寻干预在不同学段、时长或实施条件下的差异效应。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 32)]]
 > - **[[Mixed Methods Research|混合方法]]中的解释多样性与动因解构** 单一统计量（如百分比、相关系数）往往掩盖了行动者内部截然相反的动机结构与情境理解。混合方法研究将质性数据作为揭示统计均值下隐藏解释异质性的核心工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 23)]]
 > - **复杂系统中的本体开放性与异质共生** [[Complexity Theory|复杂性理论]]视异质性为世界的基本存在形态（Heterogeneity is the watchword）；社会与教育系统具备开放性、动态演化与流变特质，拒斥[[Determinism|决定论]][[Grand Theory|宏大叙事]]，要求包容多元视阈与异质边缘声音。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 11, 32)]]
-> - **[[Epistemic Governance|知识治理]]网络中的主体内外部异质性与多源数据整合** 教育知识生态并非均质主体构成的机械流水线；研究者、政策制定者与实践教师三方群体各自内部高度分化（Internal heterogeneity），且各群体之间在话语体系、时间周期与[[Epistemic Ideals|认识论标准]]上存在深刻的外部异质性（External heterogeneity）（Burns & Schuller, 2022, pp. 60–61）。在跨国元中介治理层面，证据综合亦面临从单一量化 [[Randomised Controlled Trials|RCT]] 试验拓展至融合量化[[Effect Size|效应量]]、质性个案[[Rich and Thick Description|深描]]与情境[[Variable|变量]]等多源异质数据（Heterogeneous data sources）综合的前沿方法学突破（Burns & Schuller, 2022, p. 66）。
+> - **[[Epistemic Governance|知识治理]]网络中的主体内外部异质性与多源数据整合** 教育知识生态并非均质主体构成的机械流水线；研究者、政策制定者与实践教师三方群体各自内部高度分化（Internal heterogeneity），且各群体之间在话语体系、时间周期与[[Epistemic Ideals|认识论标准]]上存在深刻的外部异质性（External heterogeneity）（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60–61]]）。在跨国元中介治理层面，证据综合亦面临从单一量化 [[Randomised Controlled Trials|RCT]] 试验拓展至融合量化[[Effect Size|效应量]]、质性个案[[Rich and Thick Description|深描]]与情境[[Variable|变量]]等多源异质数据（Heterogeneous data sources）综合的前沿方法学突破（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 66]]）。
 
 > [!taxonomy] 统计异质性量化与模型决策
 > - **Cochran's Q 检验** 检验研究间观察[[Effect Size|效应量]]的离散程度是否显著大于纯粹[[Sampling Error|抽样误差]]；当自由度较大或样本较小时灵敏度受制约。

@@ -143,7 +143,7 @@ updated: 2026-09-12
 > > [!axis] 自指性闭环与证据垄断争议：自指实践库 vs 本地经验脉络
 > > 学界批评世界银行的[[Policy Brokerage|政策中介]]呈现出极强的“内部循环”与“自指性”偏好。
 > >
-> > - **批判比较学者（Seitzer et al., 2023; Steiner-Khamsi et al., 2024）** 依托[[World Education Reform Database|世界教育改革数据库]]（WERD）的跨国实证指出，[[OECD|经合组织]]倾向于横向援引各成员国的本土改革经验，而世界银行的国别政策报告呈现出显著的“自指性政策借鉴（Self-referential lesson-drawing）”，反复循环引用世行自身的 [[Systems Approach for Better Education Results|SABER]] 工具、既往贷款报告与集中式最佳实践仓库，将外部主权国家的丰富实践消减为华盛顿制定的统一定制处方。
+> > - **批判比较学者（Seitzer et al., 2023; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 依托[[World Education Reform Database|世界教育改革数据库]]（WERD）的跨国实证指出，[[OECD|经合组织]]倾向于横向援引各成员国的本土改革经验，而世界银行的国别政策报告呈现出显著的“自指性政策借鉴（Self-referential lesson-drawing）”，反复循环引用世行自身的 [[Systems Approach for Better Education Results|SABER]] 工具、既往贷款报告与集中式最佳实践仓库，将外部主权国家的丰富实践消减为华盛顿制定的统一定制处方。
 > > - **世行政策团队** 辩解称集中化最佳实践库是确保跨国借贷项目科学严谨、控制道德风险并提升公共资金使用效率的唯一可行标准化通道。
 > >
 > > [!axis] 结构调整与市场原教旨主义的后殖民破坏

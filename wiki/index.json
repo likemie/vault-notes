@@ -20485,6 +20485,17 @@
     ]
   },
   {
+    "title": "Netherlands Initiative for Education Research",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/Netherlands Initiative for Education Research.md",
+    "aliases": [
+      "NRO",
+      "Nationaal Regieorgaan Onderwijsonderzoek",
+      "荷兰国家教育研究所",
+      "荷兰教育研究倡议"
+    ]
+  },
+  {
     "title": "Top Institute for Evidence-Based Education Research",
     "type": "fact",
     "path": "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md",
@@ -21378,6 +21389,16 @@
     "aliases": [
       "ISCF",
       "英国产业战略挑战基金"
+    ]
+  },
+  {
+    "title": "National Strategy for Educational Research and Enquiry",
+    "type": "fact",
+    "path": "wiki/facts/uk/National Strategy for Educational Research and Enquiry.md",
+    "aliases": [
+      "NSERE",
+      "威尔士国家教育研究与探究战略",
+      "国家教育研究与探究战略"
     ]
   },
   {

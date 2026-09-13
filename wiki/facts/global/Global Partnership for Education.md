@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 国际多利益相关方伙伴组织（Multi-Stakeholder Partnership）
 headquarters: 华盛顿特区（Washington, D.C.）
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Global Education Governing Complex]]"
   - "[[Policy Brokerage]]"
   - "[[Performance Indicators]]"
+  - "[[Knowledge Mediation]]"
   - "[[International Education]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Global Partnership for Education
@@ -90,7 +91,7 @@ updated: 2026-09-12
 > [!pathways]- 业务运行机制
 > - **联合部门审查（Joint Sector Reviews，JSR）** 每年由 GPE 牵头，会同受援国教育部与外部利益相关方对国家教育系统进展进行全景式数据审议，将资金拨款与部门[[Performance Indicators|绩效指标]]直接挂钩。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **国家教育规划（ESP）赠款协同** 要求受援国必须依据国际可比指标研制国家教育部门规划，通过审查后方可分阶段拨付教育系统改革专项赠款。
-> - **[[Knowledge and Innovation Exchange|KIX]] 区域知识中介枢纽运作** 在非洲、亚洲、拉美设立 4 大区域中介枢纽，常态化组织发展中国家教育部政策官员开展研讨会、横向同侪互学与跨国方案借鉴。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **[[Knowledge and Innovation Exchange|KIX]] 区域[[Knowledge Mediation|知识中介]]枢纽运作** 在非洲、亚洲、拉美设立 4 大区域中介枢纽，常态化组织发展中国家教育部政策官员开展研讨会、横向同侪互学与跨国方案借鉴。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---
 
@@ -123,7 +124,7 @@ updated: 2026-09-12
 
 > [!stat-cards]- 核心规模数据
 > - **近 90 个** 伙伴发展中国家，涵盖超 10 亿儿童人口。
-> - **4 大区域枢纽** 在知识与创新交流（KIX）框架下设立非洲东南部、非洲中西部、拉美加勒比、欧洲中东亚太四大中介枢纽。（Steiner-Khamsi et al., 2024, p. 545）
+> - **4 大区域枢纽** 在知识与创新交流（KIX）框架下设立非洲东南部、非洲中西部、拉美加勒比、欧洲中东亚太四大中介枢纽。（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 545]]）
 > - **超 80 亿美元** 成立以来累计撬动并配置的全球教育发展合作资金。
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-09-12
 > > Steiner-Khamsi 等（2024）指出，尽管 GPE 在公开修辞中高调宣扬促进多边合作，但在教育治理市场日益拥挤的背景下，它与[[OECD|经合组织]]、[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]等围绕比尔及梅琳达·盖茨基金会、乐高基金会等私人慈善资本的有限赠款展开了激烈的地盘争夺与利基防守。（pp.544–545）
 
 > [!citation-card] 援助治理中的民主修辞与出资国霸权
-> 尽管全球教育伙伴关系在治理结构中吸纳了发展中国家政府、民间社会与教师工会代表，但在实际运行中，其核心战略议程、赠款审批门槛与政策评估导向，依然牢牢被主要西方捐助国与世行技术官僚所主导，多利益相关方架构在很大程度上掩盖了资本依附的实质。（Menashy, 2018; Steiner-Khamsi et al., 2024, p. 550）
+> 尽管全球教育伙伴关系在治理结构中吸纳了发展中国家政府、民间社会与教师工会代表，但在实际运行中，其核心战略议程、赠款审批门槛与政策评估导向，依然牢牢被主要西方捐助国与世行技术官僚所主导，多利益相关方架构在很大程度上掩盖了资本依附的实质。（Menashy, 2018; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 550]]）
 
 ---
 

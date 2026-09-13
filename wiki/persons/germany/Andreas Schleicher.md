@@ -8,7 +8,7 @@ summary: "德国教育统计学家、经合组织（OECD）教育与技能司司
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -22,6 +22,7 @@ tags:
   - theme/governing-by-numbers
 related_concepts:
   - "[[International Education]]"
+  - "[[Knowledge Mediation]]"
   - "[[Policy Brokerage]]"
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Andreas Schleicher
@@ -77,7 +78,7 @@ updated: 2026-09-12
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国籍统计学家与[[International Education|国际教育]]政策专家，[[OECD|经合组织]]（[[OECD]]）教育与技能司司长（Director for Education and Skills）兼秘书长教育政策特别顾问。
-> - **核心角色** [[PISA|国际学生评估项目]]（[[PISA]]）的总设计师（Chief Architect）与领军人物；将经合组织从传统二战后经济协调机构，转型为集数据开发、最佳实践共享与政策咨询于一体的全球教育知识中介（[[Policy Brokerage]]）超级平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 547)]]
+> - **核心角色** [[PISA|国际学生评估项目]]（[[PISA]]）的总设计师（Chief Architect）与领军人物；将经合组织从传统二战后经济协调机构，转型为集数据开发、最佳实践共享与政策咨询于一体的全球教育[[Knowledge Mediation|知识中介]]（[[Policy Brokerage]]）超级平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 547)]]
 > - **代表贡献** 主导创建并持续扩充国际学生评估项目（[[PISA]]）；领导开发[[Teaching and Learning International Survey|教师教学国际调查]]（TALIS）与[[Programme for the International Assessment of Adult Competencies|成人能力国际评估]]（PIAAC）；确立以“跨国指标对照与软法规制”为核心的全球量化治理[[Paradigm|范式]]。
 
 > [!citation-card] 经合组织独特全球知识枢纽定位
@@ -166,7 +167,7 @@ updated: 2026-09-12
 > > 学者质疑经合组织披着客观中立外衣，实质推销特定市场化与私有化改革处方。
 > >
 > > - **施莱歇尔团队** 宣称经合组织仅提供客观实证数据与国际同行镜鉴，政策裁量权始终由主权国家政府保留。
-> > - **社会学学者（Grey & Morris, 2018）** 揭示经合组织深度迎合[[Media Logic|媒体逻辑]]与商业出版巨头利益，通过“命名与羞辱”制造制度恐慌，以此推介以绩效挂钩与私营介入为特征的标准化治理处方。
+> > - **社会学学者（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）** 揭示经合组织深度迎合[[Media Logic|媒体逻辑]]与商业出版巨头利益，通过“命名与羞辱”制造制度恐慌，以此推介以绩效挂钩与私营介入为特征的标准化治理处方。
 
 > [!critique]- 批评索引
 > - [[2014 Open Letter on PISA]] — 83 位全球顶尖学者联名抗议其推行的大规模测验引发短期应试修补并侵蚀[[Teacher Professional Agency|教师专业自主权]]。

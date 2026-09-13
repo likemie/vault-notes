@@ -129,7 +129,7 @@ updated: 2026-09-12
 > [!citation-card] 马修论战后国家规划理性与技术官僚科学渴求
 > 战后国家深信依托严谨观察、实证[[Hypothesis|假设]]检验与精确测量的社会[[Scientific Method|科学方法]]是确保公共政策效率的唯一可靠途径；数以百计的专家（包括比较教育学者）纷纷加入各国教育部以及[[UNESCO|联合国教科文组织]][[International Education|国际教育]]规划研究所等跨国机构，试图为国家五年计划编制科学蓝图。
 >
-> *Firmly believing that the social science approach based on rigorous observation, empirical testing of hypotheses and accurate measurements was the only way to ensure efficiency, scores of experts, comparative educationists among them, joined ministries and international institutes like UNESCO's IIEP, in an attempt to elaborate national educational plans.* (Mattheou, 2009, p. 61; 引自 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]])
+> *Firmly believing that the social science approach based on rigorous observation, empirical testing of hypotheses and accurate measurements was the only way to ensure efficiency, scores of experts, comparative educationists among them, joined ministries and international institutes like UNESCO's IIEP, in an attempt to elaborate national educational plans.* ([[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, p. 61]]; 引自 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]])
 
 ---
 

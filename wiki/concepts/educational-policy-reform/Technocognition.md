@@ -78,7 +78,7 @@ updated: 2026-09-13
 
 ## 核心机制与实施支柱
 
-> [!feature] 技术认知法的核心操作支柱（Lewandowsky et al., 2017; Burns & Schuller, 2022, p. 69）
+> [!feature] 技术认知法的核心操作支柱（Lewandowsky et al., 2017; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 69]]）
 > - **算法事实核查（Algorithmic Fact Checkers）** 在社交网络与知识分发平台部署高响应事实核查机制，当涉及公共教育争议议题（如特定教学法成效、学力退化虚假归因）时，即时匹配权威实证综述并展示中立对比。
 > - **自动化预警提示（Disinformation Automatic Alerts）** 当用户接触被实证研究反复[[Falsification|证伪]]的伪科学主张或夸大营销内容时，系统主动提供温和的认知提示，阻断错误信息在社交网络中的病毒式扩散。
 > - **推荐多样性扩充（Filter Bubble Extension）** 打破同质化推荐算法驱动的“信息茧房”，在“你可能也喜欢”等推荐板块中，主动注入不同立场但符合科学规范的高质量实证研究，扩大学习者的认知边界。

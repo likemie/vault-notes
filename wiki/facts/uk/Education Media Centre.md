@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 25
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "独立非营利媒介中介机构"
 headquarters: "英国伦敦"
@@ -26,18 +26,33 @@ tags:
   - theme/public-engagement
   - theme/research-literacy
 related_concepts:
-  - "[[Knowledge Mediation]]"
+  - "[[Paradigm]]"
+  - "[[Scientific Literacy]]"
   - "[[Research Literacy]]"
+  - "[[Whole Language]]"
+  - "[[Citizen Science]]"
+  - "[[Performance Pay]]"
+  - "[[Abstract]]"
+  - "[[Sampling Error]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Knowledge Mediation]]"
   - "[[Scientific Misinformation]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Cumulative Knowledge Base]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
+  - "[[Sample Size Determination]]"
+  - "[[Peer Debriefing]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Science Media Centre]]"
   - "[[PISA]]"
+  - "[[Grammar School]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[OECD]]"
   - "[[EPPI-Centre]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
@@ -113,7 +128,7 @@ updated: 2026-09-13
 
 ## 知识治理视阈下的学理反思
 
-> [!tension] 受众拓展与反应性机制的内在张力（Burns & Schuller, 2022, pp. 62, 64）
+> [!tension] 受众拓展与反应性机制的内在张力（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 62]], 64）
 > - **从跑口记者延伸至广大大众的认知免疫** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 62, 64)]] 强调，大众媒体导向型中介的战略价值在于突破了传统政策与课堂内部圈层，直接面向广大家长与公民群体；在后真相与算法极化的社会中，为公众理解底层证据建立起不可或缺的认知免疫屏障，将[[Scientific Literacy|科学素养]]捍卫为参与现代公共协商的基本民主权利。
 > - **“反应性（Reactive）”运作对长效系统研究的挤出效应** 与依托大学或国家立法的二阶综述清算中心（如 [[EPPI-Centre]] 或 [[What Works Clearinghouse|WWC]]）相比，EMC 的日常工作高度受制于外部突发新闻议程与舆论热点，属于被动反应式机制。这种节奏使其难以自主规划周期长达数年的前瞻性累积研究，极易在不同热点之间疲于奔命。因此，大众媒体中介必须与深度证据清算机构形成元网络协同，方能维系长效的知识大厦。
 
