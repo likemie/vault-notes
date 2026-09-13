@@ -8,7 +8,7 @@ aliases:
 summary: "OECD 教育研究与创新中心（CERI）在 SIER 项目下开发的宏观系统级政策调查问卷，涵盖政策利用、实践促成与学术生产三大板块，通过多维矩阵打分与质性开放题，全面测度 29 国 37 个教育系统的研究动员生态、行动者网络、促成机制与制度障碍。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 29
+instrument_related_count: 31
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -37,12 +37,15 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Dialogue in Education]]"
+  - "[[Boundary Spanner]]"
   - "[[Embedded Researcher]]"
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
+  - "[[Engagement in and with Research]]"
   - "[[Hypothesis]]"
   - "[[Research Impact]]"
   - "[[Research Translation]]"
+  - "[[Construct]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Co-production]]"
 related_theories:
@@ -118,9 +121,9 @@ updated: 2026-09-13
 
 ### 维度一：17 类组织行动者在三大维度的活跃度评估
 
-> [!seq-table]- 组织活跃度评估题项
+> [!seq-table]- 组织行动者生态活跃度（Activeness of Organisational Actors）
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 5 点 Likert 标尺（1 = 完全不活跃，5 = 非常活跃；政策促成 / 实践促成 / 研究生产三项分别评定） · **计分规则** 正向计分（系统均值） · **来源** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 78–81)]]
+> **作答选项** 5 点 Likert 标尺（1 = 完全不活跃，5 = 非常活跃；政策促成 / 实践促成 / 研究生产三项分别评定） · **计分规则** 正向计分（系统均值）
 >
 > | 题项 |
 > |---|
@@ -144,9 +147,9 @@ updated: 2026-09-13
 
 ### 维度二：教育部委与各类机构的日常联系频度与紧密度
 
-> [!seq-table]- 教育部委日常决策中征询、委托与协同外部机构频度题项
+> [!seq-table]- 部委外部联系与征询频度（Frequency of Ministry Consultation and Engagement）
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 6 点频度标尺（0 = 从不，5 = 非常频繁） · **计分规则** 频度正向连续计分 · **来源** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 84–87)]]
+> **作答选项** 6 点频度标尺（0 = 从不，5 = 非常频繁） · **计分规则** 频度正向连续计分
 >
 > | 题项 |
 > |---|
@@ -171,9 +174,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 政策制定 8 个具体阶段的[[Research Utilization|研究利用]]频次题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 5 点使用频率标尺（1 = 从不，5 = 系统性使用） · **计分规则** 正向连续计分 · **来源** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 93–95)]]
+> **作答选项** 5 点使用频率标尺（1 = 从不，5 = 系统性使用） · **计分规则** 正向连续计分
 >
-> | 题项 |
+> | 政策制定各阶段的研究利用程度（Research Utilization Across Policy Stages） |
 > |---|
 > | Designing policies, programmes, projects, reforms<br>**设计政策、方案、项目与改革措施** |
 > | Identifying the problems in the system<br>**诊断与识别教育系统中的实际问题** |
@@ -186,9 +189,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 政策制定者获取教育研究证据的 12 类渠道依赖度题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 二分类选择（是 / 否） · **计分规则** 0/1 二值计分 · **来源** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, p. 94)]]
+> **作答选项** 二分类选择（是 / 否） · **计分规则** 0/1 二值计分
 >
-> | 题项 |
+> | 政策证据获取渠道依赖度（Channels for Accessing Educational Research） |
 > |---|
 > | Seeking advice from external experts<br>**向外部学术专家寻求咨询建议** |
 > | Seeking advice from in-house researchers/evaluators<br>**向部委内部专职研究人员/评估员咨询** |
@@ -207,9 +210,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 4 类跨界中介个体岗位设立情况题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 二分类选择（是 / 否；政策制定端 / 学校实践端分别核查） · **计分规则** 0/1 配备计分 · **来源** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, p. 88)]]
+> **作答选项** 二分类选择（是 / 否；政策制定端 / 学校实践端分别核查） · **计分规则** 0/1 配备计分
 >
-> | 题项 |
+> | 跨界中介个体岗位设立（Establishment of Individual [[Boundary Spanner\|Boundary Spanners]]） |
 > |---|
 > | Embedded researcher<br>**[[Embedded Researcher\|嵌入式研究者]]** |
 > | Research advisor<br>**研究顾问** |
@@ -218,9 +221,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 各类主体在科研生命周期 7 阶段的卷入深度题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 多选勾选（部委决策者 / 实践教师 / 外部学者等主体类别） · **计分规则** 主体卷入类别标记 · **来源** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 89–90)]]
+> **作答选项** 多选勾选（部委决策者 / 实践教师 / 外部学者等主体类别） · **计分规则** 主体卷入类别标记
 >
-> | 题项 |
+> | 科研生命周期主体卷入阶段（Actor Involvement in Research Life Cycle） |
 > |---|
 > | In formulating the research questions<br>**形成与界定[[Research Question\|研究问题]]** |
 > | In designing the research<br>**[[Design-Based Research\|设计研究]]方案与方法路线** |
@@ -232,9 +235,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 驱动主体参与教育研究生产的 8 项内外激励题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 二分类选择（是 / 否） · **计分规则** 0/1 激励认同标记 · **来源** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, p. 91)]]
+> **作答选项** 二分类选择（是 / 否） · **计分规则** 0/1 激励认同标记
 >
-> | 题项 |
+> | 教育科研参与驱动激励（Incentives for [[Engagement in and with Research\|Research Engagement]]） |
 > |---|
 > | Gives them a sense of participation in national debate<br>**赋予参与全国性教育改革辩论的认同感** |
 > | Allows them to improve practices and processes<br>**允许其改进日常教学实践与工作流程** |
@@ -249,9 +252,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 循证[[Organizational Culture|组织文化]]与心态认同度 9 项量表题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 5 点 Likert 标尺（1 = 强烈不同意，5 = 强烈同意；政策端 / 实践端分别评分） · **计分规则** 正向计分（系统均值） · **来源** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, p. 93)]]
+> **作答选项** 5 点 Likert 标尺（1 = 强烈不同意，5 = 强烈同意；政策端 / 实践端分别评分） · **计分规则** 正向计分（系统均值）
 >
-> | 题项 |
+> | 循证组织文化与心态认同（Evidence-Informed Culture and Mindset） |
 > |---|
 > | Using education research in their processes is important for them<br>**在日常工作流程中使用教育研究至关重要** |
 > | They are expected to use education research in their processes<br>**体制内普遍期望他们在工作中使用教育研究** |
@@ -265,9 +268,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 政策制定者在岗专业学习机会题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 5 点 Likert 标尺（1 = 强烈不同意，5 = 强烈同意） · **计分规则** 正向计分 · **来源** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, p. 94)]]
+> **作答选项** 5 点 Likert 标尺（1 = 强烈不同意，5 = 强烈同意） · **计分规则** 正向计分
 >
-> | 题项 |
+> | 在岗专业学习与能力发展机会（Professional Learning Opportunities） |
 > |---|
 > | Policy makers have extensive learning opportunities to develop research skills<br>**政策制定者拥有广泛系统的学习机会以发展其研究知识与技能** |
 
@@ -275,9 +278,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 促进研究利用的 11 项制度化机制题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 二分类选择（是 / 否；政策端 / 实践端分别核查） · **计分规则** 0/1 配备计分 · **来源** [[Argument_Revai(Ed.)_2022_OECD|OECD (2022, Ch. 5, Figure 5.3)]]
+> **作答选项** 二分类选择（是 / 否；政策端 / 实践端分别核查） · **计分规则** 0/1 配备计分
 >
-> | 题项 |
+> | 研究利用制度化促成机制（Mechanisms Facilitating Research Use） |
 > |---|
 > | Projects encouraging actors interactions<br>**设立鼓励多方行动者互动的专项合作项目** |
 > | Providing targeted funding for research on specific topics<br>**为特定优先重点领域提供定向课题资助** |
@@ -293,9 +296,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 阻碍研究利用的 13 项核心障壁严重度[[Ranking Questions|排序题]]项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 位次等级排序（Rank 1–6+） · **计分规则** 分级赋分（Rank 1 赋 3 分，Rank 2–3 赋 2 分，Rank 4–6 赋 1 分） · **来源** [[Argument_Revai(Ed.)_2022_OECD|OECD (2022, Ch. 5, Figure 5.4)]]
+> **作答选项** 位次等级排序（Rank 1–6+） · **计分规则** 分级赋分（Rank 1 赋 3 分，Rank 2–3 赋 2 分，Rank 4–6 赋 1 分）
 >
-> | 题项 |
+> | [[Research Translation\|研究转化]]与利用核心障壁（Barriers to Research Utilization） |
 > |---|
 > | Lack of time to access and engage with research<br>**缺乏接触、检索与深入研读教育研究的时间** |
 > | Conflicting timeframes with research<br>**决策/教学时间节奏与学术科研周期严重冲突脱节** |
@@ -315,9 +318,9 @@ updated: 2026-09-13
 
 > [!seq-table]- 国家/区域层面科研生产统筹协调机制题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
-> **作答选项** 二分类选择（是 / 否） · **计分规则** 0/1 配备计分 · **来源** [[Argument_Revai(Ed.)_2022_OECD|OECD (2022, Ch. 5, Figure 5.5)]]
+> **作答选项** 二分类选择（是 / 否） · **计分规则** 0/1 配备计分
 >
-> | 题项 |
+> | 科研生产统筹协调机制（Co-ordination of Research Production） |
 > |---|
 > | Funding mechanisms<br>**设立政策导向的专项科研资助机制** |
 > | Regular consultations with policy makers on needs<br>**定期征询决策者政策需求的研究议程磋商机制** |
@@ -327,12 +330,12 @@ updated: 2026-09-13
 > | A National Education Act<br>**通过国家教育法案等法定立法手段进行规约（[[National Education]]）** |
 > | No co-ordination of research production<br>**本系统对教育研究生产完全不存在任何统筹协调** |
 
-> [!interview-guide] 官方教育中介机构质性描述开放题
+> [!interview-guide]- 官方教育中介机构质性描述开放题
 > <span class="instrument-interview-table-marker" aria-hidden="true"></span>
 >
-> | 主题或维度 | 核心问题（开放题干） | 可选追问（详细填报指标） | 来源 |
-> |---|---|---|---|
-> | 官方中介治理形态 | Please describe the official brokerage agencies established or designated in your system.<br>**请详述本系统内官方指定或法定设立的教育中介机构（Brokerage Agencies）的具体情况。** | 机构官方全称、法律地位（独立法定/部属/非营利/高校附属）、资金来源结构、核心服务受众以及所承担的关键[[Knowledge Mobilisation\|知识动员]]业务模式（收录于附录 4.B） | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 102–104)]] |
+> | 测量[[Construct\|构念]]维度 | 核心开放调研问题 | 填报指标与追问维度 |
+> |---|---|---|
+> | 官方中介治理形态 | Please describe the official brokerage agencies established or designated in your system.<br>**请详述本系统内官方指定或法定设立的教育中介机构（Brokerage Agencies）的具体情况。** | 机构官方全称、法律地位（独立法定/部属/非营利/高校附属）、资金来源结构、核心服务受众以及所承担的关键[[Knowledge Mobilisation\|知识动员]]业务模式（收录于附录 4.B） |
 
 ---
 

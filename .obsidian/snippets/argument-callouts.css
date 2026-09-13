@@ -10777,6 +10777,16 @@
   padding: 0;
 }
 
+.callout[data-callout="seq-table"] > .callout-content > p {
+  font-size: calc(var(--fs-table) * 0.93);
+  padding: 0.50rem 0.85rem;
+  margin: 0;
+  line-height: 1.58;
+  color: rgb(52, 68, 142);
+  background: rgba(70, 88, 165, 0.04);
+  border-bottom: 1px solid rgba(70, 88, 165, 0.12);
+}
+
 .callout[data-callout="seq-table"] table {
   width: 100%;
   border-collapse: collapse;
@@ -10865,6 +10875,12 @@
 .theme-dark .callout[data-callout="seq-table"] > .callout-title .callout-title-inner::before {
   background: rgba(130, 148, 230, 0.14);
   color: rgb(130, 148, 230);
+}
+
+.theme-dark .callout[data-callout="seq-table"] > .callout-content > p {
+  color: rgb(180, 192, 245);
+  background: rgba(130, 148, 230, 0.05);
+  border-bottom: 1px solid rgba(130, 148, 230, 0.14);
 }
 
 .theme-dark .callout[data-callout="seq-table"] thead th {
