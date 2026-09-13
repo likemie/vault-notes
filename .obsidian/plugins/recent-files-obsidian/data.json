@@ -5,6 +5,26 @@
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Hill_2022_FacilitatingActors.md"
     },
     {
+      "basename": "Quality Use of Research Evidence Framework",
+      "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md"
+    },
+    {
+      "basename": "Strengthening the Impact of Education Research Project",
+      "path": "wiki/facts/global/Strengthening the Impact of Education Research Project.md"
+    },
+    {
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
+    },
+    {
+      "basename": "Evidence Ecosystem",
+      "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md"
+    },
+    {
+      "basename": "Embedded Researcher",
+      "path": "wiki/concepts/educational-policy-reform/Embedded Researcher.md"
+    },
+    {
       "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
       "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
     },
@@ -19,14 +39,6 @@
     {
       "basename": "Ch04_Hill_2022",
       "path": "books/Revai(Ed.)_2022_OECD/Ch04_Hill_2022.md"
-    },
-    {
-      "basename": "OECD",
-      "path": "wiki/facts/global/OECD.md"
-    },
-    {
-      "basename": "Evidence Ecosystem",
-      "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md"
     },
     {
       "basename": "Argument_Revai(Ed.)_2022_OECD",
@@ -181,24 +193,12 @@
       "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md"
     },
     {
-      "basename": "Quality Use of Research Evidence Framework",
-      "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md"
-    },
-    {
       "basename": "Research Utilization",
       "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
     },
     {
       "basename": "Knowledge Production",
       "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "Knowledge-to-Action Models",
-      "path": "wiki/theories/educational-policy-reform/Knowledge-to-Action Models.md"
-    },
-    {
-      "basename": "知识论作为元课程_2万字以内修订稿",
-      "path": "raw/知识论作为元课程_2万字以内修订稿.md"
     }
   ],
   "omittedPaths": [],
