@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
