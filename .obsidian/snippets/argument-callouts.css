@@ -3762,6 +3762,30 @@
   line-height: 1.55;
 }
 
+/* 隐藏 Obsidian 注入的 list-bullet span 及 marker */
+.callout[data-callout="stat-cards"] .callout-content > ul > li > .list-bullet,
+.callout:is([data-callout="stat-cards"]) > .callout-content > ul > li > .list-bullet {
+  display: none !important;
+}
+.callout[data-callout="stat-cards"] .callout-content > ul > li::marker,
+.callout:is([data-callout="stat-cards"]) > .callout-content > ul > li::marker {
+  display: none !important;
+  content: "" !important;
+}
+
+/* 阅读视图与编辑视图一致：消除 li 内 p 的默认边距与行高干扰 */
+.callout[data-callout="stat-cards"] .callout-content > ul > li > p,
+.callout:is([data-callout="stat-cards"]) > .callout-content > ul > li > p {
+  margin: 0 !important;
+  margin-block: 0 !important;
+  padding: 0 !important;
+  line-height: 1.55;
+}
+.callout[data-callout="stat-cards"] .callout-content > ul > li > p + p,
+.callout:is([data-callout="stat-cards"]) > .callout-content > ul > li > p + p {
+  margin-top: 0.25rem !important;
+}
+
 /* ─── 数量自适应排列 ────────────────────────────────── */
 
 /* 3 项 → 1×3：每项 span 2 */
@@ -3801,12 +3825,13 @@
 }
 
 /* ─── 数字：infographic 风格 — 加粗加大 ─────────────── */
-.callout[data-callout="stat-cards"] .callout-content > ul > li strong:first-child {
+.callout[data-callout="stat-cards"] .callout-content > ul > li strong:first-child,
+.callout[data-callout="stat-cards"] .callout-content > ul > li > p:first-of-type > strong:first-of-type {
   display: block;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.28rem;
   color: rgb(72, 132, 112);
   font-size: var(--fs-display);
-  line-height: 1.3;
+  line-height: 1.25;
   letter-spacing: -0.01em;
   font-weight: 800;
   font-variant-numeric: tabular-nums;
@@ -7172,21 +7197,22 @@
 /* ━━ 变体 B：列表写法（- **标题** 内容） ━━ */
 
 /* 链表容器：建立脊线坐标系 */
-.callout[data-callout="chain-link"] > .callout-content > ul {
+.callout[data-callout="chain-link"] > .callout-content > ul,
+.callout[data-callout="chain-link"] > .callout-content > ol {
   counter-reset: chain-n;
   list-style: none;
-  padding: 0.55rem 1rem 0.1rem 3.5rem;
+  padding: 0.45rem 0.8rem 0.1rem 3.2rem;
   margin: 0;
   position: relative;
 }
 
 /* 竖向金色脊线，两端渐隐 */
-.callout[data-callout="chain-link"] > .callout-content > ul::before {
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol)::before {
   content: "";
   position: absolute;
-  left: 1.62rem;
-  top: 1.5rem;
-  bottom: 1.1rem;
+  left: 1.52rem;
+  top: 1.2rem;
+  bottom: 1.0rem;
   width: 2px;
   border-radius: 1px;
   background: linear-gradient(
@@ -7199,60 +7225,85 @@
 }
 
 /* 链节卡片 (li 变体) */
-.callout[data-callout="chain-link"] > .callout-content > ul > li {
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li {
   counter-increment: chain-n;
   position: relative;
-  padding: 0.6rem 0.9rem 0.68rem;
-  margin-bottom: 0.6rem;
+  padding: 0.42rem 0.82rem 0.48rem;
+  margin-bottom: 0.38rem;
   border: 1px solid rgba(168, 130, 50, 0.18);
   border-radius: 7px;
   background: linear-gradient(180deg, rgba(168, 130, 50, 0.06), rgba(168, 130, 50, 0.01));
-  line-height: 1.68;
+  line-height: 1.55;
   font-size: var(--fs-table);
   transition: background 0.15s ease, box-shadow 0.15s ease;
 }
-.callout[data-callout="chain-link"] > .callout-content > ul > li:last-child { margin-bottom: 0; }
-.callout[data-callout="chain-link"] > .callout-content > ul > li:hover {
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li:last-child { margin-bottom: 0; }
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li:hover {
   background: linear-gradient(180deg, rgba(168, 130, 50, 0.10), rgba(168, 130, 50, 0.03));
   box-shadow: 0 2px 8px rgba(168, 130, 50, 0.10);
 }
 
+/* 隐藏 Obsidian 注入的 list-bullet span 及 marker */
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li > .list-bullet {
+  display: none !important;
+}
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li::marker {
+  display: none !important;
+  content: "" !important;
+}
+
+/* 重置 li 内部 p 边距，彻底消除虚线与正文之间的空白断层 */
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li > p {
+  margin: 0 !important;
+  margin-block: 0 !important;
+  padding: 0 !important;
+  line-height: 1.55;
+}
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li > p:first-of-type {
+  margin-bottom: 0 !important;
+  margin-block-end: 0 !important;
+}
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li > p + p {
+  margin-top: 0.16rem !important;
+  margin-block-start: 0.16rem !important;
+}
+
 /* 数字节点圆 (li 变体) */
-.callout[data-callout="chain-link"] > .callout-content > ul > li::before {
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li::before {
   content: counter(chain-n);
   position: absolute;
-  left: -1.88rem;
-  top: 0.75rem;
-  width: 1.32rem;
-  height: 1.32rem;
+  left: -1.82rem;
+  top: 0.50rem;
+  width: 1.28rem;
+  height: 1.28rem;
   border-radius: 50%;
   background: rgb(168, 130, 50);
   color: #fff;
   font-size: 0.60em;
   font-weight: 800;
-  line-height: 1.32rem;
+  line-height: 1.28rem;
   text-align: center;
-  border: 2.5px solid var(--background-primary);
+  border: 2px solid var(--background-primary);
   box-shadow: 0 0 0 2px rgba(168, 130, 50, 0.28);
   z-index: 1;
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
-.callout[data-callout="chain-link"] > .callout-content > ul > li:hover::before {
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li:hover::before {
   transform: scale(1.18);
   box-shadow: 0 0 0 2px rgba(168, 130, 50, 0.50), 0 0 8px rgba(168, 130, 50, 0.30);
 }
 
 /* 链节标题 — li 首个 strong（**粗体** 开头） */
-.callout[data-callout="chain-link"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
-.callout[data-callout="chain-link"] > .callout-content > ul > li > strong:first-of-type {
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type,
+.callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li > strong:first-of-type {
   display: block;
   color: rgb(122, 88, 18);
   font-weight: 760;
-  font-size: 0.93em;
+  font-size: 0.96em;
   letter-spacing: 0.01em;
-  margin-bottom: 0.32rem;
-  padding-bottom: 0.28rem;
-  border-bottom: 1px dashed rgba(168, 130, 50, 0.28);
+  margin-bottom: 0.12rem !important;
+  padding-bottom: 0.12rem !important;
+  border-bottom: 1px dashed rgba(168, 130, 50, 0.25);
 }
 
 /* ── 暗模式 ── */
@@ -7269,12 +7320,12 @@
   background: rgba(205, 162, 68, 0.18);
   color: rgb(205, 162, 68);
 }
-.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li {
+.theme-dark .callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li {
   border-color: rgba(205, 162, 68, 0.20);
   background: linear-gradient(180deg, rgba(205, 162, 68, 0.08), rgba(205, 162, 68, 0.02));
 }
-.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
-.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li > strong:first-of-type {
+.theme-dark .callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type,
+.theme-dark .callout[data-callout="chain-link"] > .callout-content > :is(ul, ol) > li > strong:first-of-type {
   color: rgb(205, 162, 68);
   border-bottom-color: rgba(205, 162, 68, 0.30);
 }
@@ -17803,11 +17854,15 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   box-shadow: inset 0 1px var(--rc-shine), 0 8px 20px -12px var(--rc-shadow);
   min-width: 0;
 }
+.callout:is([data-callout="stat-cards"]) > .callout-content > ul > li strong:first-of-type,
+.callout:is([data-callout="stat-cards"]) > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
 .callout:is([data-callout="stat-cards"]) > .callout-content > ul > li > strong:first-of-type {
+  display: block !important;
+  margin-bottom: 0.28rem !important;
   color: var(--rc-ink);
-  font-size: clamp(1.7rem, 5cqi, 2.5rem);
+  font-size: clamp(1.65rem, 4.5cqi, 2.3rem);
   font-weight: 800;
-  letter-spacing: -.045em;
+  letter-spacing: -.04em;
   font-variant-numeric: tabular-nums;
   line-height: 1.2;
 }
@@ -17871,7 +17926,11 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout:is([data-callout="dimension"],
   [data-callout="theory-components"],
   [data-callout="factors"],
-  [data-callout="chain-link"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type {
+  [data-callout="chain-link"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
+.callout:is([data-callout="dimension"],
+  [data-callout="theory-components"],
+  [data-callout="factors"],
+  [data-callout="chain-link"]) > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type {
   color: var(--rc-ink); border-color: var(--rc-edge);
 }
 /* 07 / Time · raised event plates along the existing node-and-rail geometry. */
