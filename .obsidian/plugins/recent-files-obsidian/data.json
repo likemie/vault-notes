@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Research Utilization",
-      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
-    },
-    {
       "basename": "Argument_Torres_2022_BarriersMechanisms",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Torres_2022_BarriersMechanisms.md"
     },
     {
+      "basename": "National Strategy for Educational Research and Enquiry",
+      "path": "wiki/facts/uk/National Strategy for Educational Research and Enquiry.md"
+    },
+    {
+      "basename": "Netherlands Initiative for Education Research",
+      "path": "wiki/facts/netherlands/Netherlands Initiative for Education Research.md"
+    },
+    {
+      "basename": "Education Endowment Foundation",
+      "path": "wiki/facts/uk/Education Endowment Foundation.md"
+    },
+    {
+      "basename": "Evidence Network",
+      "path": "wiki/facts/uk/Evidence Network.md"
+    },
+    {
+      "basename": "Research Translation",
+      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
+    },
+    {
+      "basename": "EEF Teaching and Learning Toolkit",
+      "path": "wiki/facts/uk/EEF Teaching and Learning Toolkit.md"
+    },
+    {
+      "basename": "Research Impact",
+      "path": "wiki/concepts/university-industry-collaboration/Research Impact.md"
+    },
+    {
+      "basename": "Complexity Theory",
+      "path": "wiki/theories/educational-philosophy/Complexity Theory.md"
+    },
+    {
+      "basename": "Typology of Factors Influencing Research Use",
+      "path": "wiki/theories/educational-policy-reform/Typology of Factors Influencing Research Use.md"
+    },
+    {
       "basename": "Research Knowledge Mobilisation Model",
       "path": "wiki/theories/educational-policy-reform/Research Knowledge Mobilisation Model.md"
+    },
+    {
+      "basename": "Research Utilization",
+      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
     },
     {
       "basename": "OECD",
@@ -19,10 +55,6 @@
     {
       "basename": "Research Schools Network",
       "path": "wiki/facts/uk/Research Schools Network.md"
-    },
-    {
-      "basename": "Typology of Factors Influencing Research Use",
-      "path": "wiki/theories/educational-policy-reform/Typology of Factors Influencing Research Use.md"
     },
     {
       "basename": "Argument_Torres_2022_KMModels",
@@ -79,10 +111,6 @@
     {
       "basename": "Boundary Spanner",
       "path": "wiki/concepts/university-industry-collaboration/Boundary Spanner.md"
-    },
-    {
-      "basename": "Research Translation",
-      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
     },
     {
       "basename": "Policy Network",
@@ -171,34 +199,6 @@
     {
       "basename": "Research Literacy",
       "path": "wiki/concepts/teacher-education/Research Literacy.md"
-    },
-    {
-      "basename": "Patient and Public Involvement",
-      "path": "wiki/concepts/educational-policy-reform/Patient and Public Involvement.md"
-    },
-    {
-      "basename": "Screening Off",
-      "path": "wiki/concepts/educational-philosophy/Screening Off.md"
-    },
-    {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
-    },
-    {
-      "basename": "Centre for the Use of Research and Evidence in Education",
-      "path": "wiki/facts/uk/Centre for the Use of Research and Evidence in Education.md"
-    },
-    {
-      "basename": "Network Analysis",
-      "path": "wiki/methods/mixed/Network Analysis.md"
-    },
-    {
-      "basename": "Epistemic Governance",
-      "path": "wiki/concepts/higher-education/Epistemic Governance.md"
-    },
-    {
-      "basename": "Professional Judgment",
-      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
     }
   ],
   "omittedPaths": [],
