@@ -8,7 +8,7 @@ aliases:
 summary: "OECD 教育研究与创新中心（CERI）在 SIER 项目下开发的宏观系统级政策调查问卷，涵盖政策利用、实践促成与学术生产三大板块，通过多维矩阵打分与质性开放题，全面测度 29 国 37 个教育系统的研究动员生态、行动者网络、促成机制与制度障碍。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 30
+instrument_related_count: 31
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
