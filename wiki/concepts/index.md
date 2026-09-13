@@ -927,7 +927,7 @@ Total entries: **991**
 > - [[Zero-Sum Competition]] — 美国学生将学业竞争视为零和博弈的文化信念，是 nerd 同伴文化的重要文化根源之一
 
 > [!index-list]- Teacher Education (8)
-> - [[Engagement in and with Research]] — 教师专业发展与循证教育中的核心概念，将教师对科研的参与区分为开展研究（Engagement in research，作为研究者进行行动研究）与使用研究（Engagement with research，作为利用者阅读文献并融入教学决策）两种互补模式。
+> - [[Engagement in and with Research]] — 教师专业发展与循证教育中的核心概念，将教师对科研的参与区分为开展研究（Engagement in research，作为研究者进行行动研究与课题探究）与使用研究（Engagement with research，作为利用者研读学术文献并融入教学决策）两种互补模式；跨国实证调查进一步揭示出一线教师面临被局限为被动数据收集客体及外在制度激励全面缺位的深层结构性断层。
 > - [[Normal School]] — 18世纪起源于欧洲、19世纪经由法美与拉美跨国流通确立的教师专业化培养专门机构，通过国家垄断资格准入、规范化教学法训练与人道纪律塑造公共教育核心师资
 > - [[Profession-Sensitive Conceptualisations of Research Use]] — 立足教师专业实践特征与复杂知识库的研究使用新范式，强调将研究证据视为与经验、情境及专业规范动态整合的多元资源之一，确立教师的专业能动性
 > - [[Research Literacy]] — 指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石

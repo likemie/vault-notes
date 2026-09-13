@@ -7,7 +7,7 @@ aliases:
 summary: "常驻于教育行政部门或学校实践机构内部，依托科研训练背景在真实工作情境中开展证据转化、需求匹配与跨界中介的专业人员，旨在弥合研究与实践断层并重塑组织循证文化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,8 +40,10 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[Public Sector PhD Scheme]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Research Schools Network]]"
+  - "[[Doctoral Grant for Teachers]]"
 related_arguments:
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
@@ -141,7 +143,7 @@ updated: 2026-09-13
 > 单纯依赖外部大学研究者的偶发咨询无法从根源上建立行政机构与一线学校内生性的证据研判文化，必须依靠兼具科研资历与实践浸润的复合型人才储备；通过定向资助常任公职人员或在岗教师攻读应用型博士学位，并配套刚性工作时间保障，是破除政学阻隔与校本科研瓶颈的长效机制（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022, pp. 88–90]]）。
 >
 > > [!warrant]- 理论推导与经验依据
-> > 挪威推出的“公共部门博士计划”（Public Sector PhD Scheme, OFFPHD）要求申请者必须为公共部门常任雇员，由政府资助其攻读与政策业务紧密相关的博士学位，已促使挪威教育部政策分析处等核心单元中具备博士学位或研究背景的人员比例攀升至约 50%；荷兰科学研究组织（NWO）常态化实施教师博士资助计划，累计资助近 500 名中小学在岗教师开展博士研究，并全额承担高达 0.4 全职当量的代课教师聘用开销，有效稳固了跨越学术界与公共管理界之间的人际信任网络。
+> > 挪威推出的“公共部门博士计划”（[[Public Sector PhD Scheme]], OFFPHD）要求申请者必须为公共部门常任雇员，由政府资助其攻读与政策业务紧密相关的博士学位，已促使挪威教育部政策分析处等核心单元中具备博士学位或研究背景的人员比例攀升至约 50%；荷兰科学研究组织（NWO）常态化实施教师博士资助计划，累计资助近 500 名中小学在岗教师开展博士研究，并全额承担高达 0.4 全职当量的代课教师聘用开销，有效稳固了跨越学术界与公共管理界之间的人际信任网络。
 
 ---
 
@@ -175,7 +177,7 @@ updated: 2026-09-13
 
 > [!timeline] 概念演变
 > - **2010 — 荷兰中小学教师博士资助计划启动** 荷兰科学研究组织（NWO）设立专项计划，首创以国家财政资助代课教师开销保障一线教师科研工时的机制，开启了基础教育一线嵌入式研究能力的制度化培育。
-> - **2013 — 挪威设立公共部门博士培养计划（OFFPHD）** 挪威研究理事会面向公共部门常任雇员设立定向博士计划，探索中央行政中枢内部研究人员的内生孵化。
+> - **2013 — 挪威设立公共部门博士培养计划（[[Public Sector PhD Scheme|OFFPHD]]）** 挪威研究理事会面向公共部门常任雇员设立定向博士计划，探索中央行政中枢内部研究人员的内生孵化。
 > - **2021 — 斯洛文尼亚教育部设立专职质量与分析处** 在国家教育部发展与质量司常设兼具公务员与研究员背景的专职分析中介团队，确立了部属战略情报与嵌入式中介典范。
 > - **2022 — [[OECD]] 跨国实证测度与角色谱系确立** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]）首次在 29 国 37 个教育系统全面测度 4 类专业中介角色的设立分布，实证确立了嵌入式研究者的概念边界、供求脱节与行政集聚特征。
 
@@ -189,7 +191,7 @@ updated: 2026-09-13
 > | **嵌入式研究者（Embedded Researcher）** | 73% | 32% | 挪威教育部政策分析处（约 50% 员工具研究背景）；斯洛文尼亚教育部质量分析处；拉脱维亚教育部（7.4% 具博士学位） |
 > | **研究顾问（Research Advisor）** | 57% | 43% | 为各部委长官提供即时数据测度与[[Document\|文献]]综合建议的行政专员 |
 > | **研究倡导者（Research Champion）** | 35% | 22% | [[Research Schools Network\|英国研究学校网络]]（Research Schools Network）内各校证据带头人 |
-> | **研究进修员（Research Fellow）** | 32% | 22% | 荷兰教师博士资助计划（Doctoral Grant for Teachers，资助 5 年最高 0.4 全职替代教师开销） |
+> | **研究进修员（Research Fellow）** | 32% | 22% | [[Doctoral Grant for Teachers\|荷兰教师博士资助计划]]（Doctoral Grant for Teachers，资助 5 年最高 0.4 全职替代教师开销） |
 
 ---
 

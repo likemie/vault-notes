@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Strengthening the Impact of Education Research Policy Survey",
-      "path": "wiki/instruments/questionnaires/Strengthening the Impact of Education Research Policy Survey.md"
-    },
-    {
       "basename": "Argument_Hill_2022_FacilitatingActors",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Hill_2022_FacilitatingActors.md"
+    },
+    {
+      "basename": "Argument_Revai_2022_ChangingLandscape",
+      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai_2022_ChangingLandscape.md"
+    },
+    {
+      "basename": "Argument_Revai(Ed.)_2022_OECD",
+      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai(Ed.)_2022_OECD.md"
+    },
+    {
+      "basename": "Revai(Ed.)_2022_OECD",
+      "path": "books/Revai(Ed.)_2022_OECD/Revai(Ed.)_2022_OECD.md"
+    },
+    {
+      "basename": "Strengthening the Impact of Education Research Policy Survey",
+      "path": "wiki/instruments/questionnaires/Strengthening the Impact of Education Research Policy Survey.md"
     },
     {
       "basename": "Self-report Bias",
@@ -87,10 +99,6 @@
     {
       "basename": "Ch04_Hill_2022",
       "path": "books/Revai(Ed.)_2022_OECD/Ch04_Hill_2022.md"
-    },
-    {
-      "basename": "Argument_Revai(Ed.)_2022_OECD",
-      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai(Ed.)_2022_OECD.md"
     },
     {
       "basename": "What Works Clearinghouse",
@@ -191,14 +199,6 @@
     {
       "basename": "EPPI-Centre",
       "path": "wiki/facts/uk/EPPI-Centre.md"
-    },
-    {
-      "basename": "Best Evidence Synthesis",
-      "path": "wiki/facts/new-zealand/Best Evidence Synthesis.md"
-    },
-    {
-      "basename": "Argument_Revai_2022_ChangingLandscape",
-      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai_2022_ChangingLandscape.md"
     }
   ],
   "omittedPaths": [],

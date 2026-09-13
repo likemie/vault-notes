@@ -20217,6 +20217,17 @@
     ]
   },
   {
+    "title": "Hungarian Researcher Teacher Scheme",
+    "type": "fact",
+    "path": "wiki/facts/hungary/Hungarian Researcher Teacher Scheme.md",
+    "aliases": [
+      "匈牙利研究型教师职级制度",
+      "Kutatótanár",
+      "Hungarian Researcher Teacher Category",
+      "匈牙利研究型教师计划"
+    ]
+  },
+  {
     "title": "Higher Education Authority",
     "type": "fact",
     "path": "wiki/facts/ireland/Higher Education Authority.md",
@@ -20479,6 +20490,16 @@
     ]
   },
   {
+    "title": "Doctoral Grant for Teachers",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/Doctoral Grant for Teachers.md",
+    "aliases": [
+      "荷兰教师博士资助计划",
+      "Promotiebeurs voor leraren",
+      "Doctoral Grant for Teachers programme"
+    ]
+  },
+  {
     "title": "Cognition Education",
     "type": "fact",
     "path": "wiki/facts/new-zealand/Cognition Education.md",
@@ -20645,6 +20666,17 @@
       "挪威大学生学业体验晴雨表",
       "Norwegian National Student Survey",
       "Studiebarometeret Survey"
+    ]
+  },
+  {
+    "title": "Public Sector PhD Scheme",
+    "type": "fact",
+    "path": "wiki/facts/norway/Public Sector PhD Scheme.md",
+    "aliases": [
+      "挪威公共部门博士培养计划",
+      "OFFPHD",
+      "Offentlig sektor-ph.d.",
+      "Public Sector PhD Scheme in Norway"
     ]
   },
   {

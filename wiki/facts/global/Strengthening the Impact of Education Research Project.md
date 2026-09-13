@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -70,6 +70,7 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Education Endowment Foundation]]"
   - "[[Best Evidence Synthesis]]"
+  - "[[Public Sector PhD Scheme]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
@@ -139,7 +140,7 @@ updated: 2026-09-13
 
 > [!case] 项目沉淀的代表性国家制度治理[[Paradigm|范式]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022, pp. 80–92]]）
 > - **行政中枢常设内部中介单元（斯洛文尼亚与挪威）** 斯洛文尼亚教育部质量与分析处与挪威教育与研究部政策分析处设于行政中枢内部，由高级公务员与资深研究员混合组成，充当部内专职[[Boundary Spanner|知识经纪人]]，快速响应司局决策需求，分发研究要报并开展定制化量化分析，有效突破外部中介响应滞后壁垒。
-> - **政学整合型博士联合培养模式（挪威 OFFPHD 与荷兰 NWO）** 挪威公共部门博士计划（OFFPHD）仅向公共部门常任雇员开放，围绕重大教育政策开展[[Evaluation Research|应用研究]]；荷兰科学研究组织（NWO）教师博士计划面向学前至高职一线教师开放，由国家拨款承担代课聘用成本，保障教师在最长 5 年内享有最高 0.4 全职当量的法定带薪科研时间。
+> - **政学整合型博士联合培养模式（挪威 [[Public Sector PhD Scheme|OFFPHD]] 与荷兰 NWO）** 挪威公共部门博士计划（OFFPHD）仅向公共部门常任雇员开放，围绕重大教育政策开展[[Evaluation Research|应用研究]]；荷兰科学研究组织（NWO）教师博士计划面向学前至高职一线教师开放，由国家拨款承担代课聘用成本，保障教师在最长 5 年内享有最高 0.4 全职当量的法定带薪科研时间。
 > - **教师专业职级与科研终身激励突破（匈牙利）** 设立研究型教师（Researcher Teacher）终身职级体系，要求博士学位与严苛考核，配备 5 年可续科研规划并大幅提高法定薪酬补贴，打破大学对[[Knowledge Production|知识生产]]的垄断，在行政中枢与微观教学间构筑起独立造血的中介支点。
 
 ---

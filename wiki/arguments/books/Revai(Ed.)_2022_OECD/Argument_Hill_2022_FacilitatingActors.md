@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -84,9 +84,12 @@ related_instruments:
 related_facts:
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Doctoral Grant for Teachers]]"
+  - "[[Hungarian Researcher Teacher Scheme]]"
   - "[[Education Endowment Foundation]]"
   - "[[PISA]]"
   - "[[Kunnskapssenter for utdanning]]"
+  - "[[Public Sector PhD Scheme]]"
 status: draft
 created: 2026-09-13
 updated: 2026-09-13
@@ -160,7 +163,7 @@ updated: 2026-09-13
 > |---|---|
 > | **系统样本** | 涵盖经合组织及伙伴经济体共 29 个国家、37 个国家与地方教育系统教育部委（含比利时法语区与荷语区，加拿大魁北克与萨斯喀彻温省，瑞士多个州，英国英格兰等）。（pp.76, 100–101） |
 > | **组织类型样本** | 调查涵盖 17 类主要组织：大学与教育学院、教育部委、教师教育机构、其他公共研究机构、学术网络、政府资助机构、大学-中小学网络、教师培训机构、其他专业团体、[[Policy Network\|政策网络]]、教育咨询公司、教师工会、中介机构、智库、媒体、学校网络、企业。（pp.78–79） |
-> | **访谈与案例样本** | 挪威教育部政策分析处、斯洛文尼亚质量分析处、荷兰教师博士计划、匈牙利研究型教师制度等典型治理案例。（pp.80–81, 88–92） |
+> | **访谈与案例样本** | 挪威教育部政策分析处、斯洛文尼亚质量分析处、[[Doctoral Grant for Teachers\|荷兰教师博士资助计划]]、[[Hungarian Researcher Teacher Scheme\|匈牙利研究型教师职级制度]]等典型治理案例。（pp.80–81, 88–92） |
 
 ---
 
@@ -388,8 +391,8 @@ updated: 2026-09-13
 为了培育兼具一线体认与学术洞察的跨界复合型人才，部分先锋国家探索了将学术训练与职业生涯深度整合的博士培养机制。（pp.88–90）
 
 > [!case] 案例聚焦：将研究生产与使用深度整合的博士联合培养模式
-> - **挪威公共部门博士培养计划（OFFPHD）** 挪威研究理事会设立，仅向公共部门常任雇员开放。旨在扩大行政机构内部研究活动，为公共部门储备高层次骨干并强化政学制度纽带。已资助国家课程方案、全纳教育、学校治理与领导力等 10 项重大课题，实现行政思维与学术理性的深度嵌合。（pp.88–89）
-> - **荷兰教师博士资助计划（NWO）** 荷兰科学研究组织自 2010 年常态化实施，面向学前至高等职业教育全学段在岗一线教师开放，选题由教师基于课堂痛点自主确定。核心突破在于解决科研时间冲突：专项拨款全额承担代课聘用成本，保障教师在最长 5 年内享有最高 0.4 全职当量的法定带薪科研时间。累计资助近 500 个一线教师博士项目，打破大学对[[Knowledge Production|知识生产]]的垄断。（pp.89–90）
+> - **[[Public Sector PhD Scheme|挪威公共部门博士培养计划]]（OFFPHD）** 挪威研究理事会设立，仅向公共部门常任雇员开放。旨在扩大行政机构内部研究活动，为公共部门储备高层次骨干并强化政学制度纽带。已资助国家课程方案、全纳教育、学校治理与领导力等 10 项重大课题，实现行政思维与学术理性的深度嵌合。（pp.88–89）
+> - **[[Doctoral Grant for Teachers|荷兰教师博士资助计划]]（NWO）** 荷兰科学研究组织自 2010 年常态化实施，面向学前至高等职业教育全学段在岗一线教师开放，选题由教师基于课堂痛点自主确定。核心突破在于解决科研时间冲突：专项拨款全额承担代课聘用成本，保障教师在最长 5 年内享有最高 0.4 全职当量的法定带薪科研时间。累计资助近 500 个一线教师博士项目，打破大学对[[Knowledge Production|知识生产]]的垄断。（pp.89–90）
 
 #### 2. 研究全生命周期中的权力失衡与实践者被动工具化异化
 
