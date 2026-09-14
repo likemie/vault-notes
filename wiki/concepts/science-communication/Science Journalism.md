@@ -103,7 +103,7 @@ updated: 2026-09-14
 >   穿透新闻通稿与单一论文摘要，主动采访独立第三方同行专家，评估样本规模、设计类型与因果推论严谨性。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 62)]]
 > - **不确定性[[Transfer Translation Transformation|转译]]（Translating Uncertainty）**
 >   拒绝将暂定假说绝对化为终极真理，向公众准确阐释统计[[Confidence Interval|置信区间]]、[[Effect Size|效应量]]边界与科学共识的演进过程。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 61–62)]]
-> - **[[Conflict of Interest in Research|利益冲突]]披露（Transparency & Bias Disclosure）**
+> - **利益冲突披露（Transparency & Bias Disclosure）**
 >   主动核查并披露科研项目背后的产业资助背景、专利关联与潜在商业偏倚，保障公众知情权。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 64)]]
 
 > [!logic-map]- 专业科学新闻生产系统与信任流转机制

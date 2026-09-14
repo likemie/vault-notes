@@ -81,7 +81,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ---
 
-> [!line-a] 投资驱动与政策中介
+> [!line-a] 投资驱动与[[Policy Brokerage|政策中介]]
 > 空间分选不是市场的自发结果，而是由公共和私人投资共同驱动、国家政策主动中介的过程。政策对创业生态系统和创新综合体的支持——表面上中性的经济政策——实际上正是空间分选的核心执行机制。Moisio 将这一过程命名为民族国家的战略性城市化（strategic urbanization of the nation-state）（[[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]]）。
 
 > [!line-b] 空间影响的非对称传递

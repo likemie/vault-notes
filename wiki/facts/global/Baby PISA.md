@@ -103,7 +103,7 @@ updated: 2026-09-12
 > - **测评领域[[Construct|构念]]** 设定四大核心发展支柱：
 >   - **早期读写能力（Emergent Literacy）** 包含口头表达、语音意识与词汇理解；
 >   - **早期数理素养（Emergent Numeracy）** 包含计数、数字感知、形状识别与简单推理；
->   - **自我调节（Self-Regulation / [[Executive Function]]）** 包含[[Working Memory|工作记忆]]、抑制控制与注意力切换；
+>   - **自我调节（[[Self-control|self-regulation]] / [[Executive Function]]）** 包含[[Working Memory|工作记忆]]、抑制控制与注意力切换；
 >   - **[[Social-Emotional Learning|社会情感能力]]（Social-Emotional Skills）** 重点测量同理心认知、情绪识别与亲社会行为。
 > - **测试媒介与干预形态** 改变传统纸笔测试，采用装载趣味动画叙事的平板电脑[[Gamification|游戏化]]软件进行一对一施测，由经过培训的外部主试员对儿童进行约 60 分钟的分段互动测试。
 > - **[[Questionnaire|问卷]]与多源[[Triangulation|三角互证]]** 向受测儿童父母发放家庭养育环境与 SES 调查表，向带班教师发放儿童日常行为观察量表，试图将微观家庭互动与社区生态纳入数据模型。

@@ -104,7 +104,7 @@ updated: 2026-09-14
 Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
 > [!proc] 文献检索七步法
-> 1. **确定关键词** 从宽泛术语开始，逐步缩小和精确化（如从 mental health 缩小到 autism spectrum disorder，再指定为 family factors, support, autism spectrum disorder）
+> 1. **确定关键词** 从宽泛术语开始，逐步缩小和精确化（如从 mental health 缩小到 autism [[SPECTRUM]] disorder，再指定为 family factors, support, autism spectrum disorder）
 > 2. **检索计算机数据库** 搜索 ERIC、Google Scholar、Web of Science、EBSCO、ProQuest、JSTOR 等
 > 3. **初步定位约 50 篇文献** 优先搜索期刊文章和书籍，因为它们易于定位和获取
 > 4. **浏览并筛选** 快速浏览已收集的文章或章节，收集最核心的文献

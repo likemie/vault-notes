@@ -187,7 +187,7 @@ updated: 2026-09-08
 ### 命题三　行动研究将反身性确立为解放性认识论基础，通过批判审视反移情与实践利益维护研究公信力
 
 > [!concept-lens] 实践民主性与利益审视
-> 本命题探讨在实践者即研究者的情境中，反身性如何超越方法自省上升为民主知识建构的认识论支柱。
+> 本命题探讨在实践者即研究者的情境中，反身性如何超越方法自省上升为民主[[Knowledge Production|知识建构]]的认识论支柱。
 
 > [!claim] Hall
 > **[[Emancipatory Action Research|解放性行动研究]]的认识论基石** 霍尔（Budd L. Hall, 1996）指出反身性是[[Emancipatory Action Research|解放性行动研究]]的构成要素和认识论基础。它确立了民主平等的[[Knowledge Production|知识生产]]关系，认定数据反映全体参与者的真实经验，研究者理论负载的观点绝不优先于一线实践者的主观体验。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 294–295)]]

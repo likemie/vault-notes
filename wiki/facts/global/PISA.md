@@ -194,7 +194,7 @@ updated: 2026-09-12
 > - **[[OECD]] 官方倡导视角** 将 PISA 定位为客观中立的跨国诊断镜鉴，强调数据驱动政策决策、促进教育质量与社会流动。
 > - **批判教育社会学视角** 指责 PISA 沦为跨国新自由主义治理工具，通过“[[Governing by Numbers|数字治理]]”制造焦虑，加速了教育商业化与全球同质化（[[Argument_Zhao_2020_JEC|Zhao, 2020]]; Sjøberg, 2015）。
 > - **科学教育学界视角** 肯定其推动了公民[[Scientific Literacy|科学素养]]与真实情境探究的转向（Millar & Osborne），但警惕应试回潮导致课堂动手实验被纸笔刷题架空（Royal Society, 2026a）。
-> - **心理与教育测量学视角** 质疑跨文化背景下 [[Rasch Measurement|Rasch 模型]]对语言长度、文化语境及特殊群体的测量等价性（Kreiner & Christensen, 2014）。
+> - **心理与教育测量学视角** 质疑跨文化背景下 Rasch 模型对语言长度、文化语境及特殊群体的测量等价性（Kreiner & Christensen, 2014）。
 
 > [!tension] PISA 测评的核心争议与学术反思
 > - **[[Construct|构念]]有效性与“未来技能”的拟制（Fabricated Claims）** PISA 宣称测量“未来生活所需的基本技能”，但学者批评该主张缺乏前瞻实证依据；测验题目本质上依赖[[Pilot Testing|预测试]]中的情境拟合，大规模[[Meta-analysis|元分析]]显示其测量结果与传统 TIMSS 或一般认知能力（g 因子）高度重合（Hopmann, 2008; Rindermann, 2007; [[Argument_Zhao_2020_JEC|Zhao, 2020]]）。

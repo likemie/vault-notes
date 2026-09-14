@@ -87,7 +87,7 @@ updated: 2026-09-12
 > - **国家公共财政核心投入的合法性论证（Legitimacy for Public Investment）**
 >   向广大纳税人与议会持续证明将公共资金投入大学科研与教育的不可替代性，确保高等教育在财政紧缩时代的拨款正当性。
 > - **透明度与符合伦理的科研实践（Transparent & Ethical Practice）**
->   直面公众关于动物实验、人工智能隐私、基因编辑与[[Conflict of Interest in Research|利益冲突]]的合理关切，以透明开放的审查维护科学伦理信誉。
+>   直面公众关于动物实验、人工智能隐私、基因编辑与利益冲突的合理关切，以透明开放的审查维护科学伦理信誉。
 > - **作为全社会理性[[Dialogue in Education|对话]]中枢的关键角色（Facilitators of Constructive Dialogue）**
 >   超越党派偏见与商业利益，将大学建设为包容多元异见、促进事实核查与平权对话的中立公共空间。
 > - **激发下一代青年学生、学者与教育者（Inspiring Next Generations）**

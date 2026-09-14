@@ -163,7 +163,7 @@ updated: 2026-08-24
 > | **知识产出定位** | 全球普适性有效性联盟表与排名 | 探索效应量异质性来源、识别调节变量、实在论因果机制解释（Pawson, 2006） |
 
 > [!pathways] 建设性替代方向
-> 1. **实在论综合（Realist Synthesis）** Pawson (2006) 主张以“在何种情境下、对谁、通过何种机制产生何种结果”（CMOC 机制模型）替代单纯的数字平均，呈现效应的分布图景。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, pp. 119, 123)]]
+> 1. **[[Realist Evaluation|实在论综合]]（Realist Synthesis）** Pawson (2006) 主张以“在何种情境下、对谁、通过何种机制产生何种结果”（CMOC 机制模型）替代单纯的数字平均，呈现效应的分布图景。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, pp. 119, 123)]]
 > 2. **中央标准化证据数据库** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 35)]] 主张建立中央证据库，以统一标准格式（Hedges' $g$）收集原始实证数据并公开完整矩阵，为高质量二阶合成奠定真实数据基础。
 > 3. **承认证据的临时性与质控透明度** [[Argument_Terhart_2011_JCS|Terhart (2011, p. 436)]] 建议研究者明确公开质量筛选标准，承认宏观综合结论的局部性与阶段性，警惕时效滞后。
 > 4. **现代多水平稳健推断（RVE / 三明治估计量）** 针对 Wecker 等人揭示的“[[Document|文献]]重叠导致经典方差崩溃与假阳性爆炸”缺陷，现代二阶元分析通过三明治估计量引入经验残差外积，自动吸收聚类相关与文献重叠，实现了推断[[Reliability|可靠性]]的质的跃迁。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 5)]]

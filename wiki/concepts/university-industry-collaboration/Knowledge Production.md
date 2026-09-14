@@ -68,7 +68,7 @@ updated: 2026-09-12
 > [!citation-card] 知识生产的权力政治与跨国自指性运作
 > 知识生产问题不仅是认识论的（什么是知识），更是政治经济的：何种知识被国家和市场认定为有价值的生产，早已被产业资本和资助框架所决定。后殖民传统必须正视知识从生产向转移的权力流动。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71–75)]]
 >
-> 当同一组织对其在内部生产的知识进行中介，甚至更明显地以科学理性为依据自主生产、中介推销并资助其项目时，知识中介与政策中介之间的界限便具有了流动性。跨国机构生产出可量化、可比较且可标准化的知识，并将其武器化以维系自身的治理利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> 当同一组织对其在内部生产的知识进行中介，甚至更明显地以科学理性为依据自主生产、中介推销并资助其项目时，[[Knowledge Mediation|知识中介]]与政策中介之间的界限便具有了流动性。跨国机构生产出可量化、可比较且可标准化的知识，并将其武器化以维系自身的治理利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 >
 > *The differentiation between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality... weaponises a particular kind of knowledge – quantifiable, comparable, and standardizable.*
 

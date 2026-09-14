@@ -80,7 +80,7 @@ updated: '2026-05-18'
 > 1. **选择性报告（Selective Reporting）** 开发者研究中负面效应量仅占 14%，独立研究占 20%；开发者效应量 >0.20 的占 61%，独立研究占 49%
 > 2. **[[Publication Bias|发表偏倚]]（Publication Bias）** 使用 Vevea & Hedges (1995) 权重函数模型校正后，开发者与独立研究的效应量差异从 0.115 降至 0.076，表明发表偏倚可能解释约 **66%** 的开发者效应([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 442]])
 > 3. **[[Researcher Degrees of Freedom|研究者自由度]]（Researcher Degrees of Freedom）** 开发者可能在样本选择、变量选择、案例排除等分析决策中更积极地优化结果
-> 4. **控制组差异** 开发者研究中 86% 为"照常教学"控制组，独立研究为 80%——差异不大
+> 4. **控制组差异** 开发者研究中 86% 为"[[Business as Usual|照常教学]]"控制组，独立研究为 80%——差异不大
 > 5. **[[Implementation Fidelity|实施忠实度]]（Treatment Fidelity）** 开发者可能在[[Categorical Funding|委托研究]]中确保更高的实施质量，但 [[What Works Clearinghouse|WWC]] 数据中无实施忠实度信息，无法检验
 
 

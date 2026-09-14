@@ -88,10 +88,10 @@ updated: 2026-09-14
 > - **项目目标** 帮助各国审视并开发能够提升教学效能、促进教师职业吸引力并优化学校管理生态的系统性政策工具。
 > - **覆盖对象** 各参与国按严格概率比例抽样（PPS）选取的代表性公立与私立学校初中教师全职与兼职队伍及任职校长。
 > - **干预措施** 实施由主问卷、教师问卷（约 45–60 分钟）与校长问卷组成的标准化测量工具箱，并在部分国家增设“TALIS-[[PISA]] 联动调查（TALIS-PISA Link）”，实现教师教学特征与学生 PISA 分数的微观匹配分析。
-> - **工会参与与指标共同治理** [[Education International|国际教育协会]]（EI）通过经合组织工会咨询委员会（TUAC）在 TALIS 理事会获得常设观察员席位，确立“跨国调查的数据与政策结论，既属于决策当局，也完全属于广大教师及其专业组织”的核心原则，防止调查异化为单向管理主义监控工具。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 210–211)]]
+> - **工会参与与指标共同治理** [[Education International|国际教育协会]]（EI）通过[[OECD|经合组织]]工会咨询委员会（TUAC）在 TALIS 理事会获得常设观察员席位，确立“跨国调查的数据与政策结论，既属于决策当局，也完全属于广大教师及其专业组织”的核心原则，防止调查异化为单向管理主义监控工具。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 210–211)]]
 > - **实施控制** 统一采用国际质量监督员现场巡视、匿名在线填报系统、标准翻译与跨文化[[Back Translation|回译]]审定规程，确保跨国测量等价性。
 
-> [!citation-card] [[OECD|经合组织]]知识中介工具的生态矩阵
+> [!citation-card] [[OECD|经合组织]][[Knowledge Mediation|知识中介]]工具的生态矩阵
 > 经合组织为成员国提供了一个独特的数据与分析多边论坛及知识中枢，促进了经验交流、最佳实践分享以及公共政策建议与国际标准制定。在[[Policy Brokerage|政策中介]]实践中，经合组织将其首要知识中介工具（以 PISA 及其衍生产品 TALIS、[[Programme for the International Assessment of Adult Competencies|PIAAC]] 等为核心）与其他各类知识产品（如对等审议、[[Education Policy Outlook|教育政策展望]]）紧密捆绑，形成了不可逆转的跨国比较规制网络。Schleicher et al. (2021, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 544, 547]])
 >
 > *The organisation provides a unique forum and knowledge hub for data and analysis, exchange of experiences, best-practice sharing, and advice on public policies and international standard-setting. In policy brokerage, each IO bundles its primary knowledge brokerage instrument (in the case of OECD, mainly PISA, including its offspring products) with a different set of knowledge products.*
@@ -102,7 +102,7 @@ updated: 2026-09-14
 
 > [!dev-timeline]- 项目推进历程
 > - **2008 年 — TALIS 奠基与首轮框架确立期** 确立初中教师为核心测量对象，发布首部国际综合报告，聚焦教学实践、教师评价与专业发展需求，24 个国家参与试点。
-> - **2013 年 — 学段拓展与分布式领导力量表引入期** 增设小学与高中可选模块，首次推出“TALIS-[[PISA]] 联动调查”；同时，国际教育协会（[[Education International|EI]]）资助开展跨国教师领导力质性调研（Bangs & Frost, 2012），直接推动 TALIS 2013 引入分布式领导力（Distributed Leadership）测评维度，促成经合组织官方报告将转向分布式领导列为系统性政策建议（OECD, 2014）。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 210)]]
+> - **2013 年 — 学段拓展与分布式领导力量表引入期** 增设小学与高中可选模块，首次推出“TALIS-[[PISA]] 联动调查”；同时，[[Education International|国际教育协会]]（EI）资助开展跨国教师领导力质性调研（Bangs & Frost, 2012），直接推动 TALIS 2013 引入分布式领导力（Distributed Leadership）测评维度，促成[[OECD|经合组织]]官方报告将转向分布式领导列为系统性政策建议（OECD, 2014）。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 210)]]
 > - **2018 年至今 — 教师工作压力指标突破与全球素养扩张期** 全面引入数字化教学能力、多元文化包容素养与社会情感技能培养支持；更重要的是，经合组织采纳 EI 建议，在 2018 年调查中首次增设针对教师工作压力来源与性质的专属量表（OECD, 2020），使一线教师身心耗竭获得客观量化实证确证；覆盖近 50 个经济体，成为联合国《[[UN Sustainable Development Goals|可持续发展目标]] 4》（[[UN Sustainable Development Goals|SDG 4]]）教师关键指标的核心数据源。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 210–211)]]；[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-09-14
 > - **建构主义教学实践与效能感正相关** 跨国实证一致表明，采用合作探究与认知激活教学策略的教师，其工作自我效能感与职业留任意愿显著高于仅采用机械记忆讲授的教师。
 > - **形式化专业发展的[[Heterogeneity|异质性]]低效** 尽管 90% 以上的教师参加了短期培训班，但绝大多数教师认为离身式的专家讲座对其微观课堂教学改变收效甚微，深度校本教研与同行听评课展现出更高的正向转化率。
 > - **教师身心重压与职业地位危机** 超过三分之一的教师报告承受中高度工作压力，行政文书负担、频繁的外部问责检查与微观纪律挑战是造成师资[[Attrition|流失]]的核心结构性瓶颈。
-> - **跨国数据二次挖掘与峰会协商转化** 国际教育协会委托达林-哈蒙德（Linda Darling-Hammond）等著名学者对 TALIS 数据开展二次独立挖掘，发表关于教师短缺与专业协作的独立政策洞见（Burns & Darling-Hammond, 2014）；TALIS 数据同时成为每年国际教师职业峰会（ISTP）部长与工会平等磋商的扎实证据支撑。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 210, 216)]]
+> - **跨国数据二次挖掘与峰会协商转化** [[Education International|国际教育协会]]委托达林-哈蒙德（Linda Darling-Hammond）等著名学者对 TALIS 数据开展二次独立挖掘，发表关于教师短缺与专业协作的独立政策洞见（Burns & Darling-Hammond, 2014）；TALIS 数据同时成为每年[[International Summits on the Teaching Profession|国际教师职业峰会]]（ISTP）部长与工会平等磋商的扎实证据支撑。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 210, 216)]]
 
 > [!stat-cards]- 关键实证数据
 > 涵盖全球近 50 个教育体系；每轮调查抽取超 260,000 名教师与 15,000 所学校微观样本；形成性反馈数据成为[[OECD|经合组织]]《[[Education at a Glance|教育概览]]》的核心支撑数据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -158,7 +158,7 @@ updated: 2026-09-14
 > > - **支持观点** 强调自陈问卷赋予了基层一线教师向国家行政官僚表达工作痛点的直接跨国发声渠道。
 
 > [!citation-card] 班斯与亨利论教师对调查数据的所有权与专业赋权
-> EI 通过工会咨询委员会（TUAC）参与 TALIS 和 PISA 的研制过程，使其能够为这些跨国调查中的教师政策维度作出贡献，并坚定主张：这些调查的数据与政策结论，既属于教育决策辖区，也完全属于广大教师及其工会组织。（p. 210）
+> EI 通过工会咨询委员会（TUAC）参与 TALIS 和 [[PISA]] 的研制过程，使其能够为这些跨国调查中的教师政策维度作出贡献，并坚定主张：这些调查的数据与政策结论，既属于教育决策辖区，也完全属于广大教师及其工会组织。（p. 210）
 >
 > *For its part, EI’s engagement in the development of TALIS and PISA through TUAC has enabled it to contribute to the teacher policy aspects of those studies and to argue that their data and policy findings are as much the property of teachers and their organisations as they are of educational jurisdictions.*
 
