@@ -64,7 +64,7 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - Luhmann (1997) 的[[Luhmann's Systems Theory|系统理论]]——社会系统是自我指涉的、操作上封闭的沟通系统
-> - 与此相关的概念：技术赤字（Technology Deficit）——Luhmann & Schorr (1982a, p.11ff) 论证所有教师都在技术赤字的条件下工作，教育中不存在确定性的技术([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6-7]])
+> - 与此相关的概念：技术赤字（[[Technology Deficit of Education|Technology Deficit]]）——Luhmann & Schorr (1982a, p.11ff) 论证所有教师都在技术赤字的条件下工作，教育中不存在确定性的技术([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6-7]])
 
 ## 实证发现
 

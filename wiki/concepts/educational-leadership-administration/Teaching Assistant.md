@@ -98,7 +98,7 @@ updated: 2026-09-14
 > **区域规模化战役的制度深嵌机制** [[Education Endowment Foundation|EEF]] 联合地方教育局在南约克郡与西约克郡发起大规模区域动员，数十所"研究学校"担任战役枢纽，推动数百所学校系统再造[[Classroom Management|课堂管理]]规程。战役不仅传递七项建议的文本内容，更通过重塑排课机制、制度化保障主辅协同备课时间、开展助教阶梯支架辅导专项培训，将循证方案深嵌于学校日常制度结构。这一行动型推广策略（Action-Oriented Brokerage）从根本上区别于传统信息发布型知识中介。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 157, citing Maxwell et al., 2019)]]
 
 > [!claim] Sibieta \& Sianesi
-> **双重差分评估证实终极学业增益** 英国财政研究所（IFS）依托英格兰国家学生数据库（NPD），运用倾向得分匹配与双重差分模型（DiD），以未参与推广战役地区的相似学校作为对照组，独立评估了该区域战役的因果影响。评估证实：参与推广战役的学校中，11 岁学生在全国统一考试（Key Stage 2, KS2）阅读与数学成绩均展现出统计学显著的正向学业增益，相当于额外获得数个月的学业进展。这是全球[[Educational Brokerage Agency|知识中介机构]]迄今最严密的全链条因果验证案例之一——从中介指南发布，经学校组织制度重塑，到终极学生学业改善的完整实证闭合。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 157, citing Sibieta \& Sianesi, 2019)]]
+> **双重差分评估证实终极学业增益** 英国财政研究所（IFS）依托英格兰[[National Pupil Database|国家学生数据库]]（NPD），运用倾向得分匹配与双重差分模型（DiD），以未参与推广战役地区的相似学校作为对照组，独立评估了该区域战役的因果影响。评估证实：参与推广战役的学校中，11 岁学生在全国统一考试（Key Stage 2, KS2）阅读与数学成绩均展现出统计学显著的正向学业增益，相当于额外获得数个月的学业进展。这是全球[[Educational Brokerage Agency|知识中介机构]]迄今最严密的全链条因果验证案例之一——从中介指南发布，经学校组织制度重塑，到终极学生学业改善的完整实证闭合。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 157, citing Sibieta \& Sianesi, 2019)]]
 
 ---
 

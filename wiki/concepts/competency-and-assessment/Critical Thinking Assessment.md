@@ -142,7 +142,7 @@ updated: 2026-09-11
 ## 核心要素
 
 > [!feature] 测评[[Construct|构念]]的[[Operationalization|操作化]]维度
-> - **技能维度（Cognitive Skills）** 涵盖解释（Clarification）、分析（Analysis）、评价（Evaluation）、推论（Inference）、说明（Explanation）与自我调节（Self-Regulation）六大认知操作。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 32)]]
+> - **技能维度（Cognitive Skills）** 涵盖解释（Clarification）、分析（Analysis）、评价（Evaluation）、推论（Inference）、说明（Explanation）与自我调节（[[Self-control|self-regulation]]）六大认知操作。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 32)]]
 > - **倾向维度（Affective Dispositions）** 涵盖求真（Truth-seeking）、开放心态（Open-mindedness）、探究性（Inquisitiveness）、分析性（Analyticity）、系统性（Systematicity）、推理自信（Confidence in Reasoning）与判断成熟度（Maturity of Judgment）。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 251–252)]]
 > - **策略维度（Strategic Behaviors）** 涵盖[[Problem Finding|问题界定]]、论证解构、多角度重构、搜寻对立证据、控制主张范围等可观察的[[Metacognition|元认知]]策略。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 252–255)]]
 > - **情境与知识维度（Context & Domain Standards）** 包含通用跨学科逻辑规则与特定学科（如医学临床决策、历史证据考据、物理实验设计）的实质性证据评价标准。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–28)]]

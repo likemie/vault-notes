@@ -99,7 +99,7 @@ updated: 2026-07-02
 > IB 的[[Theory of Knowledge|知识论]]（TOK）课程通过要求学生反思"我们如何知道我们所知道的"，系统性地训练了批判性反思和[[Metacognition|元认知]]意识。学生在 TOK 中发展出提问、[[Reflexivity|反思性]]思考和[[Creativity|创造性]]沟通的能力，这些角色——探究者、思考者、风险承担者、反思者和创造者——直接对应 IB [[IB Learner Profile|学习者培养目标]]中的描述（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, pp.177–178]]）。
 
 > [!claim] 自主性与[[Constructivist Paradigm|建构主义]]学习相互支撑
-> 认知失衡（disequilibrium）对建构主义学习至关重要，而正是学习者在知识建构中的能动性提出了解决方案（Moon, 2008）。教师需要先让学生安心——知识必然会产生悖论，因为不和谐是建构主义学习的[[Necessary and Sufficient Conditions|必要条件]]。同时，学生应意识到不存在唯一正确答案，重要的是智识上的严谨性（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.178]]）。
+> 认知失衡（disequilibrium）对建构主义学习至关重要，而正是学习者在[[Knowledge Production|知识建构]]中的能动性提出了解决方案（Moon, 2008）。教师需要先让学生安心——知识必然会产生悖论，因为不和谐是建构主义学习的[[Necessary and Sufficient Conditions|必要条件]]。同时，学生应意识到不存在唯一正确答案，重要的是智识上的严谨性（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.178]]）。
 
 ---
 

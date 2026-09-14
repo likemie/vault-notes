@@ -202,7 +202,7 @@ updated: 2026-09-14
 
 > [!warning] 适用局限
 > - **时间赤字对吸收能力的体制性扼杀** 澳大利亚调查显示，高达 76% 的教师在校缺乏时间、61% 感到转化耗时不划算；在缺乏排程工时保障的科层体制中，教师个体的吸收意愿极易被日常杂务彻底扼杀。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 192–193)]]
-> - **无法完全消解利益与意识形态冲突** 即使组织具备良好吸收能力，在涉及核心办学理念或政治[[Conflict of Interest in Research|利益冲突]]时，利益相关者仍倾向于选择性解释复杂证据。[[Argument_Ross_Morrison_2021_ROE|(Ross & Morrison, 2021, pp. 122–123)]]
+> - **无法完全消解利益与意识形态冲突** 即使组织具备良好吸收能力，在涉及核心办学理念或政治利益冲突时，利益相关者仍倾向于选择性解释复杂证据。[[Argument_Ross_Morrison_2021_ROE|(Ross & Morrison, 2021, pp. 122–123)]]
 
 ---
 

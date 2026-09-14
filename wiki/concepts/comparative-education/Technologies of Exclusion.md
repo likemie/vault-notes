@@ -121,7 +121,7 @@ updated: 2026-09-12
 > [!claim] Maasen & Weingart (2005)
 > **专家权威的去圣化危机** 当现代社会将[[Knowledge Production|知识生产]]全面向公众开放时，专业知识的神秘感被打破，决策者面临多元相悖证据的轰炸，专家意见从崇高裁决沦为派系政治的游说工具。
 
-> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
+> [!claim] Steiner-Khamsi et al.
 > **代偿性技术防线的构筑** 正因为教育过程对每一个公民而言皆亲身经历且直观可感，[[Policy Brokerage|政策中介]]机构（如[[World Bank|世行]]与 [[OECD]]）必须建立比其他领域更极端的统计门槛（如世界银行对 [[Randomised Controlled Trials|RCT]] 的狂热偏好、经合组织对复杂[[Item Response Theory|项目反应理论]]的垄断），以技术复杂性制造“只有我们可以科学计算教育”的合法性光环。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 ---
@@ -131,7 +131,7 @@ updated: 2026-09-12
 > [!concept-lens] 政治去政治化与技术官僚自利循环
 > 围绕技术壁垒如何帮助政府和中介机构逃避价值伦理追责展开。
 
-> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
+> [!claim] Steiner-Khamsi et al.
 > **民主审议的剥夺与免责中介** 借助排除性技术，关于教育究竟应当追求阶层平等还是经济生产率的根本意识形态冲突，被巧妙地偷换为“如何优化[[Return on Investment|教育投资回报率]]函数”或“如何提升 [[PISA]] 方差解释百分比”的技术课题，从而成功剥夺了大众对重大改革方向的审议权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 ---
@@ -141,8 +141,8 @@ updated: 2026-09-12
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **专业防卫命题** | 以复杂技术设卡防御公众常识侵蚀与公信力赤字 | 面临普遍质疑的教育循证政策咨询 | Maasen & Weingart (2005); [[Gita Steiner-Khamsi|Steiner-Khamsi]] |
-> | **去政治化命题** | 将阶层与公平政治冲突降维为计量参数优化 | 国际组织对主权国家宏观教育改革干预 | [[Wendy Espeland|Espeland]]; [[Gita Steiner-Khamsi|Steiner-Khamsi]] |
+> | **专业防卫命题** | 以复杂技术设卡防御公众常识侵蚀与公信力赤字 | 面临普遍质疑的教育循证政策咨询 | Maasen & Weingart (2005); [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
+> | **去政治化命题** | 将阶层与公平政治冲突降维为计量参数优化 | 国际组织对主权国家宏观教育改革干预 | [[Wendy Espeland\|Espeland]]; [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
 
 ---
 

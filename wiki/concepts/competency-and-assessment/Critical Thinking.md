@@ -219,7 +219,7 @@ updated: 2026-09-13
 > [!claim] Siegel, H.; Ennis, R. H.; Facione, P. A.
 > **有理由的反思判断** Siegel 将批判性思维连接到理性，要求个体把握不同理由与判断的相关性并适当权衡其分量。Ennis and Weir 将其界定为聚焦于决定相信什么或做什么的合理、[[Reflective Thinking|反思性思维]]。Facione 的德尔菲框架进一步把这种判断拆为解释、分析、评价、推论、说明和自我调节，并加入探究、开放和理解他人等倾向。三者共同表明，技能表现需要理由承诺和反思倾向才能形成完整构念。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 32)]]
 
-> [!claim] Paul, R.; Higgins, S.; Nisbett, R. E.
+> [!claim] Paul, R.; [[Steve Higgins|Higgins, S.]]; Nisbett, R. E.
 > **情境化的思维质量** Paul 将独立思考、公正、智识[[Humility in Learning|谦逊]]和坚持与来源评价、观点比较、[[Hypothesis|假设]]审查、推论及后果分析并置。Higgins 进一步区分视角、倾向和所处理的知识维度。Nisbett 对清单式界定的批评说明，同一个行动词只有在倾向、视角和情境得到说明后，才可用于判断思维质量。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–35)]]
 
 ### 命题二　显性教学更可能产生可观察增益，其效果受领域知识与实施条件约束

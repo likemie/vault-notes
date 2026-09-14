@@ -132,7 +132,7 @@ updated: 2026-09-12
 > [!concept-lens] [[Governing by Numbers|数字治理]]技术的制度化扩张机制
 > 围绕测评如何超越单纯测量工具而演变为规制帝国的核心母体展开。
 
-> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
+> [!claim] Steiner-Khamsi et al.
 > **指标规制的不归路** 跨国比较与指标生产一旦启动，便具备自发繁衍的生命力；[[OECD|经合组织]]从 1980 年代开发 [[International Indicators of Education Systems|INES]] 指标，到 2000 年 [[PISA]] 放榜，再到衍生出教师调查（[[Teaching and Learning International Survey|TALIS]]）、成人能力（[[Programme for the International Assessment of Adult Competencies|PIAAC]]）与发展中国家版（[[PISA for Development|PISA-D]]），构建了一个主权国家无法退出、且必须持续采购其知识产品的规制自指系统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
 ---
@@ -145,7 +145,7 @@ updated: 2026-09-12
 > [!claim] Martens (2007)
 > **硬事实的[[Soft Power|软权力]]杠杆** 跨国排名以“科学客观硬事实”的外观，构成了摧毁国内保守集团抗拒心理的最强软权力；落后名次引发的“PISA 冲击”能够迅速在公众中制造教育落后必将导致国家经济衰亡的恐慌，为执政者强推市场化或标准化改革铺平道路。
 
-> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
+> [!claim] Steiner-Khamsi et al.
 > **常态化危机调动与准外部权威** 国际大规模测验的放榜不再是偶然事件，而是被制度化为周期性引爆公众狂欢或道德焦虑的政治日历；政府借此将经合组织等评测机构构建为“准外部参照权威”，以此在政策议程设置中压制本土异质主张。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 546)]]
 
 ---
@@ -155,8 +155,8 @@ updated: 2026-09-12
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **制度繁衍命题** | 指标测评从工具异化为自给自足的全球数字规制帝国 | 经合组织评价工具矩阵的跨学段扩张 | [[Christian Ydesen|Ydesen]]; [[Gita Steiner-Khamsi|Steiner-Khamsi]] |
-> | **政治借力命题** | 跨国分数危机被国家行政当局策略性挪用为改革合法化盾牌 | 经历 PISA 冲击或面临国内改革阻力的主权国家 | [[Kerstin Martens|Martens]]; [[Gita Steiner-Khamsi|Steiner-Khamsi]] |
+> | **制度繁衍命题** | 指标测评从工具异化为自给自足的全球数字规制帝国 | 经合组织评价工具矩阵的跨学段扩张 | [[Christian Ydesen\|Ydesen]]; [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
+> | **政治借力命题** | 跨国分数危机被国家行政当局策略性挪用为改革合法化盾牌 | 经历 PISA 冲击或面临国内改革阻力的主权国家 | [[Kerstin Martens\|Martens]]; [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
 
 ---
 

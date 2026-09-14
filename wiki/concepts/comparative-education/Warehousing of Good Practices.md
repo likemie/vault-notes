@@ -47,7 +47,7 @@ updated: 2026-09-12
 ## 定义
 
 > [!def] 核心定义
-> 最佳实践仓储（Warehousing of Good Practices）是[[World Bank|世界银行]]特有的政策知识中介模式，指将来自全球各国的教育项目经验按主题与绩效类别集中收录入库，形成可检索的政策知识仓库，再向成员国政府按需分发、推送政策处方的服务机制。这一模式以世界银行自身历史项目组合作为主要知识来源，形成高度自指性的经验汲取循环——世界银行的报告反复援引自身过往的 [[Systems Approach for Better Education Results|SABER]] 评估指标库与既往贷款项目组合，而非外向性参照其他国家的政策实践。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
+> 最佳实践仓储（Warehousing of Good Practices）是[[World Bank|世界银行]]特有的政策[[Knowledge Mediation|知识中介]]模式，指将来自全球各国的教育项目经验按主题与绩效类别集中收录入库，形成可检索的政策知识仓库，再向成员国政府按需分发、推送政策处方的服务机制。这一模式以世界银行自身历史项目组合作为主要知识来源，形成高度自指性的经验汲取循环——世界银行的报告反复援引自身过往的 [[Systems Approach for Better Education Results|SABER]] 评估指标库与既往贷款项目组合，而非外向性参照其他国家的政策实践。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 > [!concept-lens] 与 [[OECD]] 外向型模式的对比
 > [[World Education Reform Database|世界教育改革数据库]]（[[World Education Reform Database|WERD]]）对比研究证明，OECD 的报告高度依赖对其他成员国具体改革经验的外向型横向引证，而世界银行报告则呈现自指性（Self-referential）特征——两者形成了截然不同的[[Policy Brokerage|政策中介]]风格与经验汲取取向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
@@ -87,7 +87,7 @@ updated: 2026-09-12
 > > - **世界银行立场** 强调最佳实践仓库是开放知识共享平台，各国政府可自主选取，并非强制性规制。
 
 > [!warning] 概念边界
-> "最佳实践仓储"不同于简单的案例数据库（如学术[[Document|文献]]库），其关键特征在于与贷款条件、技术援助协议和政策[[Dialogue in Education|对话]]深度绑定，使"推荐"在实质上具备强制性经济激励。与此对照，[[OECD]] 的"同行评议"（Peer Reviews）机制虽同为政策知识中介工具，但以自愿参与和软性劝导为主，不与贷款条件挂钩。
+> "最佳实践仓储"不同于简单的案例数据库（如学术[[Document|文献]]库），其关键特征在于与贷款条件、技术援助协议和政策[[Dialogue in Education|对话]]深度绑定，使"推荐"在实质上具备强制性经济激励。与此对照，[[OECD]] 的"同行评议"（Peer Reviews）机制虽同为政策[[Knowledge Mediation|知识中介]]工具，但以自愿参与和软性劝导为主，不与贷款条件挂钩。
 
 ---
 

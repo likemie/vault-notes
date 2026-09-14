@@ -112,7 +112,7 @@ updated: 2026-09-14
 > [!citation-card]- 经典界定与当代操作化表述
 > 高阶思维技能被经典界定为“非算法性的、需要付出心智努力的、涉及自我调节的复杂认知过程，通常会产生多种解决方案或在面对不确定性时需要细致入微的判断”（Resnick, 1987）。在当代实证研究中，它将批判性思维、推论推理与[[Problem Solving|复杂问题解决]]等高阶能力操作化，所有这些能力都要求学习者对已习得的知识进行深层加工与结构重组（Ghanizadeh et al., 2020; Liu et al., 2024）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366)]]
 >
-> *HOTS are defined as complex cognitive processes that are non-algorithmic, effortful, and involve self-regulation, often yielding multiple solutions or requiring nuanced judgment in the face of uncertainty (Resnick, 1987)... Higher-order thinking frameworks operationalize problem solving, metacognition, critical thinking, collaboration, and creativity (Liu et al., 2024; McLoughlin & Mynard, 2009).*
+> *HOTS are defined as complex cognitive processes that are non-algorithmic, effortful, and involve [[Self-control|self-regulation]], often yielding multiple solutions or requiring nuanced judgment in the face of uncertainty (Resnick, 1987)... Higher-order thinking frameworks operationalize problem solving, metacognition, critical thinking, collaboration, and creativity (Liu et al., 2024; McLoughlin & Mynard, 2009).*
 
 > [!boundary]- 概念边界辨析
 > - **不等于低阶思维技能（Lower-Order Thinking Skills, LOTS）** 识记（remembering）与简单理解（understanding）侧重于信息的原样储存、提取与字面转述，遵循既定线索和确定性算法；高阶思维则要求对信息进行解构、价值评判与生成性输出。

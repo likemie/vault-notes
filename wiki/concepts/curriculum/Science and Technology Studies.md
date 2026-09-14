@@ -53,7 +53,7 @@ updated: 2026-05-18
 ## 理论内部结构
 
 > [!abstract] 核心概念
-> **共同生产（Co-production）（Jasanoff, 2004）**
+> **共同生产（[[Knowledge Co-production|co-production]]）（Jasanoff, 2004）**
 > 科学与国家相互构成：知识嵌入治理实践，治理实践影响知识的生产和使用。知识"结晶"为特定的存在论状态——组织的、物质的、具身的——成为独立的研究对象(Jasanoff, 2004, p.3; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])。
 >
 > > 例：[[OECD]] [[Performance Indicators|教育指标]]既是科学知识的产物（依赖统计方法论、分类框架），也是治理工具（用于比较国家表现、影响政策决策）——这两方面无法分离
@@ -90,7 +90,7 @@ updated: 2026-05-18
 > - **1987** Latour 出版 *Science in Action*，确立"跟随科学家和工程师穿越社会"的方法论([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
 > - **1995** Porter 出版 *Trust in Numbers*，分析量化与客观性的关系
 > - **1998** Desrosières 出版 *The Politics of Large Numbers*，探讨统计推理史
-> - **2004** Jasanoff 编辑 *States of Knowledge*，系统阐述共同生产（co-production）概念
+> - **2004** Jasanoff 编辑 *States of Knowledge*，系统阐述共同生产（[[Knowledge Co-production|co-production]]）概念
 > - **2014** Gorur 将 STS 和[[Sociology of Measurement|测量社会学]]框架应用于教育政策领域([[Argument_Gorur_2014_Discourse|Gorur, 2014]])
 
 ## 研究范式

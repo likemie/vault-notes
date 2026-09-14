@@ -135,7 +135,7 @@ updated: '2026-07-21'
 > 围绕外来知识离开原始生产情境后的脱脉络与重脉络机制展开。经典观点强调知识在传播中会因接受者的意识形态、集体经验与权力秩序而被重新赋予含义。
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]
-> **接受者主动再造与[[John Dewey|杜威]]在中国的百年质变** 跨国教育思想转移不是思想从源头到接收端的无损流动，而是接受者基于本土意识形态议程与社会痛点展开的选择性挪用与重写。以[[John Dewey|杜威]]思想在中国 100 年的四次再脉络化为例：民国时期[[Hu Shi|胡适]]将其[[Transfer Translation Transformation|转译]]为反迷信武器与经世致用传统；毛泽东时代因威胁马克思主义根基而被批判为魔鬼；1980 年代通过[[Tao Xingzhi|陶行知]]被重塑为现代化旗帜；当代被部署为[[Quality Education|素质教育]]代言人。最终产物是“Duwei”这一高度质变的本土知识建构物。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–93)]]
+> **接受者主动再造与[[John Dewey|杜威]]在中国的百年质变** 跨国教育思想转移不是思想从源头到接收端的无损流动，而是接受者基于本土意识形态议程与社会痛点展开的选择性挪用与重写。以[[John Dewey|杜威]]思想在中国 100 年的四次再脉络化为例：民国时期[[Hu Shi|胡适]]将其[[Transfer Translation Transformation|转译]]为反迷信武器与经世致用传统；毛泽东时代因威胁马克思主义根基而被批判为魔鬼；1980 年代通过[[Tao Xingzhi|陶行知]]被重塑为现代化旗帜；当代被部署为[[Quality Education|素质教育]]代言人。最终产物是“Duwei”这一高度质变的本土[[Knowledge Production|知识建构]]物。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–93)]]
 
 > [!claim] [[Argument_Beech_2009_CE|Beech (2009)]]
 > **三层空间变形与[[Floating Signifier|漂浮能指]]的抽象化** 再脉络化在不同空间层次上呈现出差异化机制：在全球层，话语被抽象化为“[[Floating Signifier|漂浮能指]]”以寻求最大适用性；在国家层，官方将革新与保守话语并置以协商多元利益；在实践层，教师根据地缘物质条件（如将“尊重多样性”解读为“尊重贫困”）赋予其具体含义，甚至产生与原始意图相反的效果。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 353–361)]]

@@ -162,7 +162,7 @@ updated: 2026-08-25
 > **苏俄农村进步教育与社会主义公民改造** 进步教育工具在跨国转移中可脱离美式民主框架。苏俄教育家 Shatskii 在十月革命前后开展了大规模农村进步教育实验，将经验学习和活动课程与苏俄社会主义建设、集体主义和阶级觉悟培养相结合，展示了进步教育与社会主义改造的接榫。[[Argument_Ryabyy_2024_Maneto|(Ryabyy, 2024, pp. 103–104)]]
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]
-> **[[John Dewey|杜威]]在中国的百年四次再脉络化** 杜威的进步教育思想在中国经历了四次深刻的再脉络化：民国时期[[Hu Shi|胡适]]将其塑造为反迷信与经世致用的工具；毛泽东时代被批判为资本主义毒草；1980 年代通过[[Tao Xingzhi|陶行知]]被重塑为现代化旗帜；当代被部署为[[Quality Education|素质教育]]代言人。产物“Duwei”已是高度质变的本土知识建构物。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–93)]]
+> **[[John Dewey|杜威]]在中国的百年四次再脉络化** 杜威的进步教育思想在中国经历了四次深刻的再脉络化：民国时期[[Hu Shi|胡适]]将其塑造为反迷信与经世致用的工具；毛泽东时代被批判为资本主义毒草；1980 年代通过[[Tao Xingzhi|陶行知]]被重塑为现代化旗帜；当代被部署为[[Quality Education|素质教育]]代言人。产物“Duwei”已是高度质变的本土[[Knowledge Production|知识建构]]物。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–93)]]
 
 > [!claim] [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]
 > **东亚高利害考试下的实用主义提分与儒家[[Dialogue in Education|对话]]亲和** 进步教育/[[Learner-Centred Education|LCE]] 进入中国高压考试文化时，其理想型民主育人目标被实用主义地降维再脉络化为“攻克高阶考题的[[Critical Thinking|批判性思维]]”与“提升 45 分钟课堂吸收率的工具”。这一过程在理念上与[[Confucius|孔子]]启发式对话传统产生[[Selective Affinity|选择性亲和]]，但保留了排除学生共决课程的权力共享硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
