@@ -245,7 +245,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **课程身份错位** ToK 的课程标签强调[[Critical Thinking|批判性思维]]，实际结构至少同等程度上聚焦[[Epistemology|认识论]]和知识建构。（pp.36, 41）
+> 1. **课程身份错位** ToK 的课程标签强调[[Critical Thinking|批判性思维]]，实际结构至少同等程度上聚焦[[Epistemology|认识论]]和[[Knowledge Production|知识建构]]。（pp.36, 41）
 > 2. **内部对齐不完整** 课程目标、评估目标和任务标准在[[Knowledge Questions|知识问题]]、不同观点与真实情境方面相互呼应，但文化视角、个人反思、责任与行动等目标没有进入评分描述符。（pp.40–41）
 > 3. **[[Construct|构念]]覆盖过窄** 批判性阅读、来源评价、推论、预测、[[Hypothesis|假设]]检验、不确定性判断、决策、[[Problem Solving|问题解决]]和创造等重要分支缺席，使 ToK 不能充分测量其声称代表的批判性思维构念。（pp.41–43）
 

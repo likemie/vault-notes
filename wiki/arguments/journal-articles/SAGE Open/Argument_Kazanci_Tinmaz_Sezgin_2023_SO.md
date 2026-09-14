@@ -387,7 +387,7 @@ journal: "SAGE Open"
 > 4. **亲自做研究与期刊追踪具有差异化赋能机制** 开展科研对提升技能产生最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动[[Research Utilization|研究使用]]行为（$\eta^2 = .046$）。（p.13）
 
 > [!stat-cards]- 核心数据
-> - **$62.602\%$** [[Education for All|EFA]] 4 因子解释的总方差（技能 $46.90\%$，态度 $7.20\%$，使用 $4.60\%$，意识 $3.80\%$）。（p.6）
+> - **$62.602\%$** EFA 4 因子解释的总方差（技能 $46.90\%$，态度 $7.20\%$，使用 $4.60\%$，意识 $3.80\%$）。（p.6）
 > - **$\alpha = .94, \omega = .95$** 20 题 RLS 总量表的 [[Cronbach's Alpha|Cronbach's α]] 与 [[McDonald's Omega|McDonald's ω]] 复合[[Reliability|信度]]。（p.11）
 > - **$\chi^2/df = 1.94, \text{[[Model Fit Indices in SEM and CFA|CFI]]} = 0.94, \text{RMSEA} = 0.060$** 一阶四因子修正模型的 [[Confirmatory Factor Analysis|CFA]] 拟合参数。（p.9）
 > - **$\Delta\text{CFI} \le .003, \Delta\text{RMSEA} \le .003$** 跨性别严格等值性检验指标。（p.12）

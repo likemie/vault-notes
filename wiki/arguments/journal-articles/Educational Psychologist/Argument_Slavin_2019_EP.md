@@ -101,7 +101,7 @@ citation_aliases:
 > ### 2. 三条件的历史进展
 >
 > **条件 1 — 项目积累**
-> - [[Investing in Innovation Program|i3]] 项目（2009–2016）：USD 1.4B，171 个项目，多数含第三方 [[Randomised Controlled Trials|RCT]] 评估
+> - i3 项目（2009–2016）：USD 1.4B，171 个项目，多数含第三方 [[Randomised Controlled Trials|RCT]] 评估
 > - [[Education Endowment Foundation|EEF]]（英国）：180+ 第三方 RCT 评估
 > - [[Institute of Education Sciences|IES]] 持续资助研发和评估
 > - ESSA 强/中标准的阅读和数学项目已达约 100 个
@@ -170,7 +170,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> ### [[Conflict of Interest in Research|利益冲突]]：倡导者、研究者和产品创始人三重身份
+> ### 利益冲突：倡导者、研究者和产品创始人三重身份
 >
 > **批评内容** Slavin 本人是 [[Success for All]]（论文表 1 中[[Effect Size|效应量]]最高的阅读项目）的创始者，同时也是 [[Best Evidence Encyclopedia|BEE]]（Best Evidence Encyclopedia）和 Evidence for ESSA 网站的创建者。本文以学术论述和 Thorndike Award 演讲的形式呈现"EBR 的科学进展"，但存在以独立学术之名推动自身创立的项目和平台的利益动机。
 >

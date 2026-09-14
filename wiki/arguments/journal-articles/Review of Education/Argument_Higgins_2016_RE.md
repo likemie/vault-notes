@@ -1,6 +1,6 @@
 ---
 authors:
-  - "Higgins, S."
+  - "[[Steve Higgins|Higgins, S.]]"
 summary: "追溯元分析从1904年到元综合的发展脉络，论证跨元分析比较虽面临苹果和橙子困境，但仍是当前回答教育干预比较效果的最佳可用工具"
 type: argument
 subtype: journal-article
@@ -357,9 +357,9 @@ Hattie 的工作面临批评。核心假设是元综合中的研究按类型和�
 
 ### 20. [[EEF Teaching and Learning Toolkit]] 的设计
 
-这些早期研究关于提供跨教育研究领域比较推论的假设，影响了 Sutton Trust–[[Education Endowment Foundation|EEF]] 教学与学习工具包的设计(p.46)。
+这些早期研究关于提供跨教育研究领域比较推论的假设，影响了 [[Sutton Trust]]–[[Education Endowment Foundation|EEF]] 教学与学习工具包的设计(p.46)。
 
-初始工作基于 2008 至 2011 年间英国经济与社会研究委员会研究者发展计划编制的教育干预发现元分析数据库。与 Sutton Trust 的进一步合作使得一系列[[Abstract|研究摘要]]得以开发，帮助学校决定如何分配新宣布的学生津贴资金(p.46)。
+初始工作基于 2008 至 2011 年间英国经济与社会研究委员会研究者发展计划编制的教育干预发现元分析数据库。与 Sutton Trust 的进一步合作使得一系列[[Abstract|研究摘要]]得以开发，帮助学校决定如何分配新宣布的[[Pupil Premium|学生津贴]]资金(p.46)。
 
 > [!abstract] Toolkit 的三层信息结构
 > **第一层**是效果估计，将[[Effect Size Conversion|效应量转换]]为"额外学习月数"。

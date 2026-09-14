@@ -78,7 +78,7 @@ updated: 2026-07-02
 > [[National Education Policy 2009 Pakistan|巴基斯坦 2009 年国家教育政策]]将"培养具备分析和原创思维能力的自力更生个体"列为核心目标之一（Ministry of Education, 2009, p. 11）。然而，实际运作中的课程和学校实践并未能实现这一目标。既有的课程实施方式和教学常规无法有效培养学生的独立思考和批判分析能力。政策文本与实践之间的落差引出一个问题：如果国家政策期望课程培养自主思考者，那么已经内置了[[Critical Thinking|批判性思维]]成分的课程，是否以及如何在教学中实现这一目标？
 
 > [!claim] 核心主张
-> [[IB Diploma Programme|IB 文凭项目]]的[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程中，认知者通过扮演**提问者（questioning mind）**、**[[Reflexivity|反思性]]思考者（reflective thinker）**和**[[Creativity|创造性]]沟通者（creative communicator）**三种角色来行使知识建构的自主性。这三种角色构成了一个完整的自主性认知循环。提问启动探究，反思进行深度加工，创造性表达完成知识输出。自主性的实现依赖两个条件的同时满足：批判性思维能力的建设，以及认知者对自身反思能力的自信。
+> [[IB Diploma Programme|IB 文凭项目]]的[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程中，认知者通过扮演**提问者（questioning mind）**、**[[Reflexivity|反思性]]思考者（reflective thinker）**和**[[Creativity|创造性]]沟通者（creative communicator）**三种角色来行使[[Knowledge Production|知识建构]]的自主性。这三种角色构成了一个完整的自主性认知循环。提问启动探究，反思进行深度加工，创造性表达完成知识输出。自主性的实现依赖两个条件的同时满足：批判性思维能力的建设，以及认知者对自身反思能力的自信。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 巴基斯坦卡拉奇一所私立学校 The Urban Academy 的 IBDP 项目中，三名第一年学生和一名 TOK 教师的[[Learner Autonomy|自主学习]]实践与感知。
@@ -213,7 +213,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > - **Sabaina：讨论触发独立研究** 讨论引导提问，然后自己思考并独立研究（p.176）。提问往往始于与他人的[[Dialogue in Education|对话]]。
 
 > [!failure] 反面证据：自信缺失时提问能力的失效
-> Sabaina 对自己的知识建构能力缺乏自信：我猜我不够快，我对自己的信念不足。即使掌握了内容知识，她也无法转化为有组织的知识产品。当你知道大家都是这样做的时候，你就照着做（p.176）。自由思考若无处理自由的技能和自我信念，就会失去效用。
+> Sabaina 对自己的[[Knowledge Production|知识建构]]能力缺乏自信：我猜我不够快，我对自己的信念不足。即使掌握了内容知识，她也无法转化为有组织的知识产品。当你知道大家都是这样做的时候，你就照着做（p.176）。自由思考若无处理自由的技能和自我信念，就会失去效用。
 
 ---
 
@@ -300,7 +300,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **知识建构遵循提问、反思、表达三阶段认知循环** 认知者通过自发性提问启动自主探究，通过对搜索内容和生活经验的反思进行深度加工，通过课堂讨论和论文进行[[Creativity|创造性]]表达。三种角色分别对应循环的三个功能环节（pp.175–177）。
+> 1. **[[Knowledge Production|知识建构]]遵循提问、反思、表达三阶段认知循环** 认知者通过自发性提问启动自主探究，通过对搜索内容和生活经验的反思进行深度加工，通过课堂讨论和论文进行[[Creativity|创造性]]表达。三种角色分别对应循环的三个功能环节（pp.175–177）。
 > 2. **自主性依赖能力与信心的双条件机制** [[Critical Thinking|批判性思维]]的知识和技能提供能力基础，但对自身反思和意义建构能力的自信是自主性从可能到实现的[[Necessary and Sufficient Conditions|必要条件]]（pp.177–178）。Sabaina 的案例证明：有能力而无信心时，认知者会退缩到模仿和最低要求的完成。
 > 3. **自主性本质上是社会性实践** 阅读不是[[Learner Autonomy|自主学习]]经验的终点。即使在最独立的反思活动中，认知者仍依赖课堂互动、讨论和[[Dialogue in Education|对话]]来激发思维、检验观点和建立自信（p.178）。自主性是在社会支持中独立判断，而非独自学习。
 
@@ -324,7 +324,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > *The reasons for their behaviours, choices and actions of learning come from inside within the consciousness of self.*
 
 > [!citation-card]- 认知失衡与自主性的关系
-> 教师首先需要让学生安心：知识必然会产生悖论，因为不和谐对[[Constructivist Paradigm|建构主义]]学习至关重要，而正是认知者在知识建构中的能动性提出了解决方案。（p.178, citing Moon, 2008）
+> 教师首先需要让学生安心：知识必然会产生悖论，因为不和谐对[[Constructivist Paradigm|建构主义]]学习至关重要，而正是认知者在[[Knowledge Production|知识建构]]中的能动性提出了解决方案。（p.178, citing Moon, 2008）
 >
 > *Pedagogue first needs to comfort students that knowledge would certainly create paradoxes because dissonance is vital for constructivist learning and it is also the agency of knower in knowledge construction which proposes the solution.*
 

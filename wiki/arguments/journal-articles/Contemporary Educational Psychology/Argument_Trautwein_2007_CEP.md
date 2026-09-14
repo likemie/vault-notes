@@ -457,7 +457,7 @@ issuing_organization: ""
 
 > [!stat-cards]- 核心数据
 > - **$\beta = -0.15$** 结构方程模型中确定性信念对高中毕业总评成绩（Abitur）的标准化路径系数（$p < .001$）。（p.358）
-> - **$N = 2854$ 与 $N = 1094$** [[TOSCA]] 项目 T1 中学毕业施测[[Sample Size Determination|样本量]]与 T2 大学纵向追踪有效样本量。（p.354）
+> - **$N = 2854$ 与 $N = 1094$** [[TOSCA]] 项目 T1 中学毕业施测[[Sample Size Determination|样本量]]与 T2 大学纵向追踪[[Effective Sample Size|有效样本量]]。（p.354）
 > - **$M = 1.86, SD = 0.48$** 精英高级文理中学高三毕业生在 4 点[[Likert Scale|李克特量表]]上的总体确定性信念均值（Mean，$M$）与标准差（Standard Deviation，$SD$），反映出整体偏低的确定性认知。（p.357）
 > - **$R^2 = .41$** 结合 T1 初始信念、学科门类与背景特征后对 T2 确定性信念的整体方差解释率（判定系数 Coefficient of Determination $R^2$）。（p.360）
 

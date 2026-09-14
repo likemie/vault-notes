@@ -93,7 +93,7 @@ citation_aliases:
 >   3. 将 [[Evidence-Based Education|EBE]]（尤其 UK 的 [[Education Endowment Foundation|EEF]] 和 US 的 What Works Clearing House）定位为满足官僚委托需求的工具
 >   4. 讨论认识论限度与官僚需求的张力
 >   5. 提出改革方向
-> - **案例支撑** UK（EEF、Teaching and Learning Toolkit、pupil premium）和 US（No Child Left Behind）的经验
+> - **案例支撑** UK（EEF、[[EEF Teaching and Learning Toolkit|Teaching and Learning Toolkit]]、[[Pupil Premium]]）和 US（No Child Left Behind）的经验
 
 ## 核心论证
 

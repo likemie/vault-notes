@@ -173,7 +173,7 @@ PISA 声称具有科学性，但其实施存在严重的技术缺陷。
 >
 > **语言偏差**。PISA 工具在西方国家之间的可比性优于中东或亚洲国家，原因包括语言和文化（Grisay et al. 2007）。对不同语言版本之间偏差的全面审查发现，大多数研究报告了大量差异项目功能（DIF）。例如，PISA 项目与希腊教科书之间的语言差异可能是希腊学生科学低表现的原因（Hatzinikita et al. 2008）。德语版本比英语版本长 18%，但 PISA 为所有语言分配了相同的时间（Eivers 2010）。
 >
-> **统计方法**。PISA 使用 [[Rasch Measurement|Rasch模型]]推导结果，但 Kreiner & Christensen(2014) 发现 Rasch 模型不适合 PISA 的阅读素养数据，因此国家排名不稳健。Kreiner 认为这意味着 PISA 的国家比较是无意义的（Stewart 2013）。
+> **统计方法**。PISA 使用 Rasch模型推导结果，但 Kreiner & Christensen(2014) 发现 Rasch 模型不适合 PISA 的阅读素养数据，因此国家排名不稳健。Kreiner 认为这意味着 PISA 的国家比较是无意义的（Stewart 2013）。
 
 ---
 

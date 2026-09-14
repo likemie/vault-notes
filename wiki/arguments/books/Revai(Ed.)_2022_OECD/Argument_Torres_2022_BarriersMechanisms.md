@@ -310,7 +310,7 @@ updated: 2026-09-13
 在以适切格式呈现与传播研究成果的信息型机制维度（经合组织调查中 60% 系统均具备该机制），英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）开创了去技术化证据合成的国际标杆。（pp. 110–111）
 
 > [!case] 专栏 5.2 英国教育捐赠基金会（EEF）[[EEF Teaching and Learning Toolkit|教学与学习工具包]]的系统转化[[Paradigm|范式]]
-> - **设立宗旨与政策定位** 英国教育捐赠基金会（EEF）开发教学与学习工具包（[[EEF Teaching and Learning Toolkit]]），旨在通过高度系统化、通俗可及的母语形式呈现教育科研摘要，重点支持中小学教师与[[School Leadership|学校领导]]者改善弱势处境儿童的[[Academic Achievement|学业成就]]，特别是为学校精准投放英国政府学生津贴（Pupil Premium）提供扎实的循证指引。
+> - **设立宗旨与政策定位** 英国教育捐赠基金会（EEF）开发教学与学习工具包（[[EEF Teaching and Learning Toolkit]]），旨在通过高度系统化、通俗可及的母语形式呈现教育科研摘要，重点支持中小学教师与[[School Leadership|学校领导]]者改善弱势处境儿童的[[Academic Achievement|学业成就]]，特别是为学校精准投放英国政府[[Pupil Premium|学生津贴]]（Pupil Premium）提供扎实的循证指引。
 > - **严格的系统综述方法与动态迭代** 工具包系统综合了课堂与学校层面 30 类教学策略、组织制度与人际关系干预举措的实证证据。所有纳入研究均遵循预先设定的系统综述纳入标准，以杜绝[[Publication Bias|发表偏倚]]与主观裁量；同时保持动态持续迭代（Live and dynamic resource），根据最新前沿研究证据滚动更新。（p. 110）
 > - **六维去技术化汇报架构** 工具包为每一类干预策略构建了标准化的展示卡片，系统涵盖概念界定、实证发现、额外学习月数（如[[Metacognition|元认知]]策略达 +7 个月）、挂锁安全图标、干预成本符号与落地实施建议六大维度，显著降低一线教育工作者的文献研读门槛（各维度指标矩阵详见下表）。
 > - **专业裁量哲学与实践采纳规模** 工具包明确声明自身并非机械僵化的操作处方，而是专业研讨与循证[[Dialogue in Education|对话]]的基准参考点（A starting point for discussion）；任何证据的采纳均须依赖校长与教师的专业裁量权，审慎评估本地学校具体情境后稳妥实施。在实践采纳方面，截至 2017 年，英格兰已有 70% 的中学校长在重大办学与资源配置决策中常规运用 Toolkit 作为核心循证指引。（p. 111）

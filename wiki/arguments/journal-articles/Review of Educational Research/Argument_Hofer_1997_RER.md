@@ -191,7 +191,7 @@ Belenky et al. (1986) 为了回应 Perry 样本的男性偏差，对135名女性
 > - **[[Procedural Knowledge|程序知识]]（Procedural Knowledge）**
 >   应用客观、系统的程序来进行分析。可分为两种：分离型认知（separate knowing，客观超然、批判思维）和连结型认知（connected knowing，通过同理心和个人理解获得知识）。
 > - **[[Constructed Knowledge|建构知识]]（constructed knowledge）**
->   整合了主客观策略。知识和真理是情境化的，认知者自身是知识建构的紧密参与者，框架可以被重构。
+>   整合了主客观策略。知识和真理是情境化的，认知者自身是[[Knowledge Production|知识建构]]的紧密参与者，框架可以被重构。
 
 > [!critique] 对[[Women's Ways of Knowing|女性认知方式]]的批评
 > - **对照组缺失** 由于仅访谈女性，无法证明这些[[Ways of Knowing|认知方式]]（如连结型认知）是女性独有的。

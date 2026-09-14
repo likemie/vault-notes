@@ -144,7 +144,7 @@ issuing_organization: ""
 
 > [!theory-boundary] 概念隔离：认识论认知 vs. 智力内隐观与建构主义
 > - **认识论认知 (Epistemic Cognition)** 旨在探究个体如何界定知识的本质（确定性、简单性）以及认识与证成的过程（来源、证据评估）。
-> - **智力内隐观 (Implicit Theories of Intelligence)** 侧重于个体对自身认知能力是固定实体还是可增进潜能的信念（如学习能力与学习速度）。
+> - **智力内隐观 ([[Growth Mindset|Implicit Theories of Intelligence]])** 侧重于个体对自身认知能力是固定实体还是可增进潜能的信念（如学习能力与学习速度）。
 > - **建构主义学习观 (Constructivist Learning)** 侧重于个体对学习活动是主动意义建构还是被动接受灌输的理解。本研究对这三类构念进行了明确的[[Coding in Qualitative Research|编码]]分类。
 
 > [!warrant]- 理论如何支撑论证

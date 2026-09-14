@@ -252,7 +252,7 @@ issuing_organization: ""
 > | **[[Epistemic Aims\|认识论目标]] (Epistemic aims)** | 认知活动追求的终点（如获得满分 vs 追求深层理解）。 |
 > | **真理的可及性 (Attainability of truth)** | 是否认为最终可以获得绝对且客观的真理。 |
 > | **知识的结构 (Structure of knowledge)** | 关注知识的组织形态（如层级式或网络式）。 |
-> | **微观可变性 (Texture & Variability)** | 特定实验任务中的细粒度知识建构属性。 |
+> | **微观可变性 (Texture & Variability)** | 特定实验任务中的细粒度[[Knowledge Production\|知识建构]]属性。 |
 
 > [!ma-table]- 表 6：理论模型[[Moderator Analysis|调节变量分析]]
 > | 核心理论模型 | k | 效应量 (ES) | 95% CI | Q 值 |

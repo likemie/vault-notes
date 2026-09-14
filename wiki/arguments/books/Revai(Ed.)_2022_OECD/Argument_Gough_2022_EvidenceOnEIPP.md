@@ -159,7 +159,7 @@ sources:
 > [!row-contrast] 考察样本一：英国主要有效性中心与中介组织调研样本表（Gough et al., 2018）
 > | 考察组别 | 机构全称与简称 | 业务领域与目标受众 | 组织治理属性与资金源 | 核心介入策略与代表产出 | 循证模式与案例启示 |
 > |---|---|---|---|---|---|
-> | **英国[[What Works Network\|有效性网络]]正式成员** | **英国教育捐赠基金会**<br>（[[Education Endowment Foundation\|EEF, Education Endowment Foundation]]） | 初等与中等教育、处境不利学童学业提升；[[School Leadership\|学校领导]]者、教师与教研人员（实践端） | 独立慈善留本基金会；由萨顿信托（Sutton Trust）联合发起，获英国教育部 1.25 亿英镑初始留本基金支持自主运营 | 研发《教学与学习工具包》（Teaching and Learning Toolkit）、资助 200 余项多臂[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trials, RCT）]]（如 Literacy Octopus）、创设全国[[Research Schools Network\|研究学校网络]]并研制学校实施指南 | 首创月度进展与成本效益直观可视化；留本基金有效对冲政治预算周期，但在促成一线深层教学变革上面临学校高利害问责生态的咬合挑战（pp. 149–151） |
+> | **英国[[What Works Network\|有效性网络]]正式成员** | **英国教育捐赠基金会**<br>（[[Education Endowment Foundation\|EEF, Education Endowment Foundation]]） | 初等与中等教育、处境不利学童学业提升；[[School Leadership\|学校领导]]者、教师与教研人员（实践端） | 独立慈善留本基金会；由[[Sutton Trust\|萨顿信托]]（Sutton Trust）联合发起，获英国教育部 1.25 亿英镑初始留本基金支持自主运营 | 研发《教学与学习工具包》（Teaching and Learning Toolkit）、资助 200 余项多臂[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trials, RCT）]]（如 Literacy Octopus）、创设全国[[Research Schools Network\|研究学校网络]]并研制学校实施指南 | 首创月度进展与成本效益直观可视化；留本基金有效对冲政治预算周期，但在促成一线深层教学变革上面临学校高利害问责生态的咬合挑战（pp. 149–151） |
 > | | **[[National Institute for Health and Care Excellence\|国家卫生与临床优化研究所]]**<br>（NICE, National Institute for Health and Care Excellence） | 临床医疗、公共卫生与成人社会关怀；临床医师、医疗管理者与国家卫生体系决策者（专业与政策端） | 法定非部委公共机构（Non-Departmental Public Body, NDPB）；接受英国卫生与社会保障部业务指导并由国家财政法定持续拨款 | 研制具有法律与准入效力的国家临床指南（Clinical Guidelines）、技术评估规程与质量标准；设立药物与疗法经济学评价门槛 | 历史最悠久、法律效力最强的有效性中心；依托高度严格的[[Systematic Review\|系统综述]]与成本效用门槛，但其标准化临床路径若机械移植至教育社科易引发去情境化争议（pp. 147, 150） |
 > | | **[[Early Intervention Foundation\|早期干预基金会]]**<br>（EIF, Early Intervention Foundation） | 儿童早期发展、青少年心理健康与家庭支持政策；地方政府公共服务主管与社会关怀采购人员（地方决策端） | 独立慈善非营利机构；接受教育、卫生、内政等多部委项目委托资助（2023 年并入 Foundations） | 编制《EIF 指南手册》（EIF Guidebook），系统评定百余项儿童早期打包干预项目的因果证据等级与成本效益 | 代表典型的打包项目评级路径；高度依赖 1–2 项高质量因果试验给出推荐，凸显了中介机构在证据体量与真实生态迁移上的潜在效度风险（pp. 149, 154–155） |
 > | | **警务学院犯罪减少有效性中心**<br>（College of Policing / What Works Centre for Crime Reduction） | 警务治安、犯罪预防与刑事司法；各级警务长官、一线巡警与内政部决策者（专业实践与政策端） | 专业行业法定监管机构；由英国内政部法定资助与警务行业专业自律相结合 | 研发《犯罪减少工具包》（Crime Reduction Toolkit）、警务系统综述证据图谱与执法行动实务指南 | 首创并推行[[EMMIE Framework\|EMMIE 评价框架]]（Effect, Mechanism, Moderator, Implementation, Economics，即效应、机制、调节[[Variable\|变量]]、实施与经济学评价），将机制解释与情境条件置于核心，为社会科学中介提供严密典范（p. 150） |
@@ -534,14 +534,14 @@ sources:
 > - **循证指南与区域规模化推广活动（Regional Scale-up Campaign）**
 >   EEF 提炼发布了《在课堂中最大化助教效能》行动指南，明确了助教角色定位的 7 项核心实践建议（如严禁助教替代主讲教师开展基础学科教学、训练助教提供支架式辅导而非直接给出答案、学校必须在排课中制度化保障主辅教师协同备课时间、将助教配置于经过严谨因果检验的小班干预方案中）。随后，EEF 在南约克郡与西约克郡联合数十所“研究学校”展开区域规模化推广（Maxwell et al., 2019），推动数百所学校系统再造[[Classroom Management|课堂管理]]规程。
 > - **准实验因果评估设计与终极学业产出测量**
->   为验证中介指南推广活动能否真正改善最终受益人福祉，EEF 委托英国财政研究所（Institute for Fiscal Studies, IFS；Sibieta & Sianesi, 2019）开展独立因果评估。研究依托英格兰国家学生数据库（National Pupil Database, NPD），结合倾向得分匹配与双重差分模型（Difference-in-Differences），以其他未参与战役地区的相似学校作为对照组。
+>   为验证中介指南推广活动能否真正改善最终受益人福祉，EEF 委托英国财政研究所（Institute for Fiscal Studies, IFS；Sibieta & Sianesi, 2019）开展独立因果评估。研究依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database, NPD），结合倾向得分匹配与双重差分模型（Difference-in-Differences），以其他未参与战役地区的相似学校作为对照组。
 > - **全链条因果验证发现**
 >   评估不仅追踪到了参与学校在排课制度、助教课堂协同模式上的深层制度调整（阶段性机制达成），更在终极产出上证实：**参与该推广活动的学校中，11 岁学生在全国统考（Key Stage 2, KS2）中阅读与数学标准化成绩均展现出统计学显著的正向学业增益（相当于额外获得数个月的学业[[Growth|成长]]进展）**。该案例成功实现了从“中介指南发布—学校组织制度重塑—终极学生学业改善”的全链条严密因果检验。
 
 > [!case] 质询反思案例：政府科学顾问机制因果评估缺位与狂牛病（BSE）/ 新冠危机反思（Hinchliffe, 2001; Gough, 2020, p. 157）
 > 与教育领域积极探索因果评估形成鲜明对照的是，嵌入国家核心决策的政府科学顾问机制在自我成效评估上长期处于缺位状态：
 > - **狂牛病（BSE）危机的科学咨询与政治黑箱（Hinchliffe, 2001）**
->   在 1990 年代英国暴发的牛脑海绵状病（BSE，即疯牛病）与新型克雅氏病公共卫生危机中，官方科学顾问委员会运作暴露出深层制度失范：专家遴选缺乏显性标准、潜在[[Conflict of Interest in Research|利益冲突]]未予披露、委员会审议过程高度保密，且顾问委员会将科学上高度不确定的早期推断包装为“食用英国牛肉绝对安全”的确定性政治断言。随后的调查揭示，政府官员对科学建议进行高度投机性的选择性采纳（Cherry-picking），将科学咨询作为掩盖行政迟缓与转嫁政治责任的工具，而全过程中没有任何制度化机制评估顾问建议对公共卫生治理产生的真实因果影响。
+>   在 1990 年代英国暴发的牛脑海绵状病（BSE，即疯牛病）与新型克雅氏病公共卫生危机中，官方科学顾问委员会运作暴露出深层制度失范：专家遴选缺乏显性标准、潜在利益冲突未予披露、委员会审议过程高度保密，且顾问委员会将科学上高度不确定的早期推断包装为“食用英国牛肉绝对安全”的确定性政治断言。随后的调查揭示，政府官员对科学建议进行高度投机性的选择性采纳（Cherry-picking），将科学咨询作为掩盖行政迟缓与转嫁政治责任的工具，而全过程中没有任何制度化机制评估顾问建议对公共卫生治理产生的真实因果影响。
 > - **新冠疫情应对与议会科技委员会对 [[Sage]] 机制的深度质询（Gough, 2020; UK Parliament, 2021）**
 >   在英国应对新冠疫情危机的过程中，[[Scientific Advisory Group for Emergencies|紧急情况科学咨询小组]]（Scientific Advisory Group for Emergencies, SAGE）成为国家最高决策的核心证据依托。然而英国下议院科学与技术特别委员会（House of Commons Science and Technology Committee）针对其运作机制启动的调查质询指出了深刻的治理盲区：
 >   1. **顾问遴选与学科代表性失衡** SAGE 在初期缺乏公开透明的遴选规程，学科背景过度偏向传统流行病学建模与临床医学，严重忽视了实施科学、行为心理学与社会学学者，导致早期防控建议严重脱离基层执行现实；

@@ -107,7 +107,7 @@ citation_aliases:
 > [!concept-lens]- 阅读透镜
 > - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
 > - **张力** 统计平均值追求的“客观、普适、去情境”的量化规则性，与教育实践作为“开放系统”固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
-> - **贡献** 借助 [[Critical Realism|批判实在论]]（Critical Realism）的分层 [[Ontology|本体论]]（Ontology），解构了 EBE 统计聚合的三级失真机制；剖析了“新起点（Fresh Start）”等关键项目，揭示了政治压力下的“糟糕 [[Random Assignment|随机分配]]”幻象；提出了以“实在论综合（Realist Synthesis）”与“方法论多元主义”作为重建教师专业反思能力的替代方案。
+> - **贡献** 借助 [[Critical Realism|批判实在论]]（Critical Realism）的分层 [[Ontology|本体论]]（Ontology），解构了 EBE 统计聚合的三级失真机制；剖析了“新起点（Fresh Start）”等关键项目，揭示了政治压力下的“糟糕 [[Random Assignment|随机分配]]”幻象；提出了以“[[Realist Evaluation|实在论综合]]（Realist Synthesis）”与“方法论多元主义”作为重建教师专业反思能力的替代方案。
 
 ---
 
@@ -256,7 +256,7 @@ citation_aliases:
 
 ### 论证步骤五：方法论多元主义与替代方案
 
-> [!claim] 必须跳出扁平[[Empiricism|经验主义]]，转向方法论多元主义与实在论综合
+> [!claim] 必须跳出扁平[[Empiricism|经验主义]]，转向方法论多元主义与[[Realist Evaluation|实在论综合]]
 > 真正的教育改善不能依赖单调的均值表，而必须承认教育是包含多层分层（治理-学校文化-课堂-个体）的开放系统，通过多元方法探究复杂的因果机制与 [[Emergence|涌现]]结果。
 
 > [!pathways] 走向“实在论综合”与多元改进路径
@@ -312,7 +312,7 @@ citation_aliases:
 
 > [!warning] 自述局限
 > 1. **数字与量化方法本身并不是问题** 作者明确指出，数字和测量本身是有用的（如同测量全球变暖的指标一样），问题在于将统计研究的角色无限泛化，并在缺乏反思的情况下追求表面上的“科学规律性”修辞 (p. 16)。
-> 2. **实在论综合的操作复杂性** 作者承认，替代方案“实在论综合”在实操上比单纯看 [[Effect Size|效应量]]排行榜要复杂得多，无法提供像 [[Education Endowment Foundation|EEF]]《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》仪表盘那样供政策制定者或校长一瞥即得的瞬间决策工具 (p. 15)。
+> 2. **[[Realist Evaluation|实在论综合]]的操作复杂性** 作者承认，替代方案“实在论综合”在实操上比单纯看 [[Effect Size|效应量]]排行榜要复杂得多，无法提供像 [[Education Endowment Foundation|EEF]]《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》仪表盘那样供政策制定者或校长一瞥即得的瞬间决策工具 (p. 15)。
 
 ---
 
