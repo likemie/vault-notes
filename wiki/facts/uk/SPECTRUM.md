@@ -8,6 +8,12 @@ summary: "英国教育捐赠基金会（EEF）委托曼彻斯特大学构建的�
 type: fact
 subtype: program
 region: uk
+fact_region: "uk"
+fact_kind: "program"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#ede9fe"
 period: "2014–2017"
 initiator_organization: "[[Education Endowment Foundation]]"
 tags:

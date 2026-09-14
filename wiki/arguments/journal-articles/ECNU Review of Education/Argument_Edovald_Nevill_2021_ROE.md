@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ROE"
 argument_key: "Argument_Edovald_Nevill_2021_ROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"

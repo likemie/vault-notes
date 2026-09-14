@@ -7,11 +7,11 @@ aliases:
 summary: "英国杜伦大学教育学教授，循证教育与元分析方法学权威，EEF《教学与学习工具包》领衔主编，开创以“进展月数”表征效应量的循证决策范式，并通过对 17 项早期 RCT 的二次审计揭示模型依赖性危机，推动了教育实证规范的制度化建设"
 type: person
 nationality: uk
-person_region: uk
-person_related_count: 14
+person_region: "uk"
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
-person_related_color: "#ede9fe"
+person_related_color: "#dbeafe"
 born: "c. 1958"
 died: ""
 lifespan: "c. 1958–至今"
