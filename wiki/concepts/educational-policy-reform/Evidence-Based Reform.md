@@ -205,7 +205,7 @@ Ross and Morrison 对三条件框架作了一个实践层面的补充：即使�
 - **1998** — CSR 项目：首次将联邦教育拨款与有效性证据挂钩([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 - **2001** — [[No Child Left Behind Act 2001|NCLB]] 通过，"科学本位研究"进入联邦教育法律核心文本([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 - **2002** — Slavin 在 *Educational Researcher* 发表 "[[Evidence-Based Education]] Policies"，首次系统主张证据本位改革，提出开发-评估-推广[[Paradigm|范式]]和"基于研究 vs 经评估"的区分
-- **2009** — [[Investing in Innovation Program|i3]]（Investing in Innovation）拨款项目启动，采用分层证据结构（scale-up / validation / development），累计投入 USD 1.4B，资助 171 项目
+- **2009** — i3（[[Investing in Innovation Program|Investing in Innovation]]）拨款项目启动，采用分层证据结构（scale-up / validation / development），累计投入 USD 1.4B，资助 171 项目
 - **2015** — ESSA（Every Student Succeeds Act）通过，正式定义强、中、有希望、基于原理四级[[Evidence Standards|证据标准]]，替代 NCLB([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 - **2017** — Evidence for ESSA 网站上线，与 ESSA 标准对齐
 - **2019** — Slavin 发表 Thorndike 演讲，总结进展并提出 RTI → RTPI 转型方向
@@ -283,7 +283,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 **3. 价值问题不可量化**
 
-王卫东 (2019) 认为证据本位研究在处理价值相关问题时存在先天不足："价值关乎人类未来，特别是人们面对[[Conflict of Interest in Research|利益冲突]]时应做的选择，而证据本位研究倾向于关注可以量化的当下现实"。因此"思辨教育研究应作为证据本位研究的前提，同时也应包容证据本位研究产生的发现"([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.16]])。
+王卫东 (2019) 认为证据本位研究在处理价值相关问题时存在先天不足："价值关乎人类未来，特别是人们面对利益冲突时应做的选择，而证据本位研究倾向于关注可以量化的当下现实"。因此"思辨教育研究应作为证据本位研究的前提，同时也应包容证据本位研究产生的发现"([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.16]])。
 
 **4. 数据收集的现实困境**
 

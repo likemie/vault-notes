@@ -92,7 +92,7 @@ updated: 2026-09-04
 
 > [!feature] 后常规问题的四大系统要素
 > - **系统性事实不确定性（High [[Scientific Uncertainty]]）** 科学模型受制于非线性复杂动态、[[Emergence|涌现]]效应与测量极限，前沿顶尖学者之间亦存在不同[[Hypothesis|假设]]前提与结论分歧，无法给出百分之百的绝对预测。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]
-> - **多元价值与利益争议（Values in Dispute）** 决策涉及深刻的伦理考量与代际[[Conflict of Interest in Research|利益冲突]]（例如发展经济 vs 碳达峰减排；个体隐私 vs 公共安全监测），不同利益群体持有互不相容的价值优先序。
+> - **多元价值与利益争议（Values in Dispute）** 决策涉及深刻的伦理考量与代际利益冲突（例如发展经济 vs 碳达峰减排；个体隐私 vs 公共安全监测），不同利益群体持有互不相容的价值优先序。
 > - **生死攸关的高昂赌注（High Decision Stakes）** 政策失误可能导致灾难性不可逆后果（如气候临界点崩塌、疫情大规模致死或技术失控），使全社会无法承担试错成本。
 > - **行动的时间紧迫性（Urgent Decisions）** 决策者无法等到所有科学细节均达成彻底共识后再采取行动，必须在证据尚未完备时做出关键抉择。
 

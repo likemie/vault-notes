@@ -62,7 +62,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> 研究证据中仅有极少数显示选择性教育有潜在益处：Coe et al.（2008）为 Sutton Trust 所做的报告指出，11-plus 及格线边缘学生在 GCSE 中成绩略有提高，但该报告同时对所谓"[[Grammar School|文法学校]]效应"提出了质疑([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.10]])。
+> 研究证据中仅有极少数显示选择性教育有潜在益处：Coe et al.（2008）为 [[Sutton Trust]] 所做的报告指出，11-plus 及格线边缘学生在 GCSE 中成绩略有提高，但该报告同时对所谓"[[Grammar School|文法学校]]效应"提出了质疑([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.10]])。
 >
 > 绝大多数研究证据表明选择性教育的效果为中性或有害([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.10–11]])：
 >

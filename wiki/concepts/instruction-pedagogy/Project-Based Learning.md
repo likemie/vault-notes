@@ -156,7 +156,7 @@ updated: 2026-09-05
 
 > [!dev-timeline] 项目式学习的历史演进
 > - **1918 — 设计教学法奠基** 克伯屈（William H. Kilpatrick）发表经典论文《设计教学法》（*The Project Method*），将[[John Dewey|杜威]]（John Dewey）的[[Pragmatic Paradigm|实用主义]]教育哲学和“[[Learning by Doing|从做中学]]”（Learning by Doing）理念具象化为以学生有目的活动为核心的教学形态。
-> - **1990s–2000s — 认知科学与[[Constructivist Paradigm|建构主义]]重塑** 随着学习科学的发展，项目式学习被重新定义为强调核心知识建构、深层探究和[[Metacognition|元认知监控]]的高阶教学模式。巴克教育研究所（Buck Institute for Education / PBLWorks）系统确立了“黄金标准项目式学习”（Gold Standard PBL）框架。
+> - **1990s–2000s — 认知科学与[[Constructivist Paradigm|建构主义]]重塑** 随着学习科学的发展，项目式学习被重新定义为强调核心[[Knowledge Production|知识建构]]、深层探究和[[Metacognition|元认知监控]]的高阶教学模式。巴克教育研究所（Buck Institute for Education / PBLWorks）系统确立了“黄金标准项目式学习”（Gold Standard PBL）框架。
 > - **2020s — 智能[[Technology Infusion|技术整合]]与认知协同拓展** [[Generative Artificial Intelligence|生成式人工智能]]与智能化[[Scaffolding|脚手架]]深度融入项目式学习，智能工具转型为学习者的认知伙伴，大幅降低了原型迭代与信息综合的门槛，进一步释放了复杂探究的育人价值。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11–12, 16)]]
 
 ---

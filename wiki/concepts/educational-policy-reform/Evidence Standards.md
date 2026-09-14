@@ -108,13 +108,13 @@ updated: 2026-09-14
 > | **评判焦点** | 方法[[Reliability\|信度]]、问题切合度、证据体量与外推边界 | [[Randomised Controlled Trials\|随机对照试验]]与[[Meta-analysis\|元分析]]在控制混淆[[Variable\|变量]]上的固有优势 | 抽样、干预规程、数据损耗与统计检验报告的透明度 |
 > | **情境灵活性** | 随决策风险、时间窗口与应用情境动态权衡 | 格式化排序，难以灵活兼顾复杂教学情境的质性机制 | 通用性技术清单，不直接判定干预有效性本身 |
 
-> [!contrast-table] 证据评级与传播机制对比：英国 EEF 挂锁安全评级 vs 美国 WWC 因果证据标准（基于 Edovald & Nevill, 2021 与 WWC, 2017）
+> [!contrast-table] 证据评级与传播机制对比：英国 [[Education Endowment Foundation|EEF]] [[EEF Padlock Security Rating|挂锁安全评级]] vs 美国 [[What Works Clearinghouse|WWC]] 因果证据标准（基于 Edovald & Nevill, 2021 与 WWC, 2017）
 > | 评价维度 | 英国 [[Education Endowment Foundation\|EEF]] 挂锁安全评级（Padlock Rating） | 美国 [[What Works Clearinghouse\|WWC]] 因果证据标准 |
 > |---|---|---|
-> | **标尺结构** | 0 至 5 把挂锁（🔒）的单维度连续序数评分（综合设计、样本量、流失率与偏倚风险） | 三等级定性分类判定（无保留达标 / 有保留达标 / 未达标） |
+> | **标尺结构** | 0 至 5 把挂锁（🔒）的单维度连续序数评分（综合设计、[[Sample Size Determination\|样本量]]、[[Attrition\|流失]]率与偏倚风险） | 三等级定性分类判定（无保留达标 / 有保留达标 / 未达标） |
 > | **对基层决策的适应** | 专为时间匮乏的中小学校长与一线教师定制，极大降低了统计学认知门槛 | 面向专业政策分析师与联邦采购官员，技术条文繁复晦涩 |
-> | **内在方法学争鸣** | 将多元复杂偏倚压缩为单一分值，易掩盖不同偏倚维度的异质性 | 保持了方法学严格性，但阻碍了一线实践者的直观理解 |
-> | **对待统计不确定性** | 反思对 $p < 0.05$ 门槛的机械迷信，探索置信区间与实践意义的多元沟通 | 长期以假设检验统计显著性作为划分干预推荐等级的核心标尺 |
+> | **内在方法学争鸣** | 将多元复杂偏倚压缩为单一分值，易掩盖不同偏倚维度的[[Heterogeneity\|异质性]] | 保持了方法学严格性，但阻碍了一线实践者的直观理解 |
+> | **对待统计不确定性** | 反思对 $p < 0.05$ 门槛的机械迷信，探索置信区间与实践意义的多元沟通 | 长期以[[Hypothesis\|假设]]检验[[Statistical Significance\|统计显著性]]作为划分干预推荐等级的核心标尺 |
 
 ---
 
@@ -134,15 +134,15 @@ updated: 2026-09-14
 > - **证据体量与覆盖范围有限** 尽管现有研究在特定大样本总体中高度可靠，但其体量不足以推断亚群体（如特殊教育需求学生、特定处境群体）的差异化效果。
 > - **解释偏差与跨情境生搬硬套** 将实验室或高度控制环境下的平均有效性，未加修正地强行外推到资源禀赋、[[Organizational Culture|组织文化]]完全不同的[[Heterogeneity|异质性]]学校情境。
 
-> [!ref-table]- 美国教育科学院 SEER 体系九大准则与操作化破局机制（Schneider, 2022）
+> [!ref-table]- [[Institute of Education Sciences|美国教育科学院]] SEER 体系九大准则与[[Operationalization|操作化]]破局机制（Schneider, 2022）
 > | SEER 准则 | 传统科研缺陷与挑战 | IES 官方规程与落地工具 | 破解的核心科研弊端 |
 > |---|---|---|---|
-> | **1. 研究预先注册**<br>Pre-register studies | 事后篡改研究假设，只报告有显著效应的结果，存在严重发表偏倚。 | 强制要求在干预前公开注册研究方案与分析计划（作为常态科学规程）。（p. 206） | 遏制数据挖掘（p-hacking）与事后合理化修饰。 |
+> | **1. 研究预先注册**<br>Pre-register studies | 事后篡改[[Hypothesis\|研究假设]]，只报告有显著效应的结果，存在严重发表偏倚。 | 强制要求在干预前公开注册研究方案与分析计划（作为常态科学规程）。（p. 206） | 遏制数据挖掘（p-hacking）与事后合理化修饰。 |
 > | **2. 数据方法全流程公开**<br>Make findings, methods, and data open | 数据与分析代码不对外公开，其他团队无法核查推导逻辑。 | 强制公开研究成果、分析路径、原始数据集与计算脚本。（p. 206） | 提升科研透明度与学术公信力。 |
 > | **3. 精确拆解干预构件**<br>Identify interventions' components | **混杂药丸袋隐喻** 如同医学试验给病人一袋红黄绿混杂药丸，证明有效却不知哪颗药起作用。（p. 207） | 资助专业社会科学机构研制通用分类学与术语库，强制解构构件。（p. 207） | 终结教育干预打包黑箱，精准剥离各要素独立效用。 |
-> | **4. 记录实施反差与保真度**<br>Document implementation and contrast | 真实课堂执行脱节，且完全不清楚对照组学生在日常中接受了什么教学。 | 详尽记录实验组真实实施保真度，并深入调查对照组的反事实状态。（p. 206） | 防止因实施偏差或对照反差不足导致效应误判。 |
+> | **4. 记录实施反差与保真度**<br>Document implementation and contrast | 真实课堂执行脱节，且完全不清楚对照组学生在日常中接受了什么教学。 | 详尽记录实验组真实[[Implementation Fidelity\|实施保真度]]，并深入调查对照组的[[Counterfactual\|反事实]]状态。（p. 206） | 防止因实施偏差或对照反差不足导致效应误判。 |
 > | **5. 强制实施真实成本核算**<br>Analyse intervention costs | 教育学者普遍缺乏经济学训练，第一年推行时大量项目因未做成本分析遭一票否决。（p. 207） | 设立成本分析专家服务台，开发便捷核算工具，强制核算师资与财力成本。（p. 207） | 辅助学区在有限预算下选择高性价比方案。 |
-> | **6. 采用高质量独立通用测量**<br>Use high-quality outcome measures | 罗伯特·斯莱文（Robert Slavin, 2014）指出：开发者自编测验严重过度对齐，导致效应量虚高数倍。（p. 207） | 打造 EdInstruments 开放测验工具库，强制使用第三方成熟标准测验。（pp. 207–208） | 根除自编测验夸大成效的假象，确保跨研究横向可比。 |
+> | **6. 采用高质量独立通用测量**<br>Use high-quality outcome measures | [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2014）指出：开发者自编测验严重过度对齐，导致[[Effect Size\|效应量]]虚高数倍。（p. 207） | 打造 EdInstruments 开放测验工具库，强制使用第三方成熟标准测验。（pp. 207–208） | 根除自编测验夸大成效的假象，确保跨研究横向可比。 |
 > | **7. 推动系统复现与推广**<br>Facilitate generalisation | 传统实地随机试验周期长、耗资数百万美元；学者缺乏复现动力，导致个别虚假结论大行其道。（p. 208） | 引入快速试错理念，依托十万级用户数字学习平台与 XPrize 竞赛。（p. 208） | 验证干预对谁有效、在何种条件下有效。 |
 > | **8. 建立成果规模化机制**<br>Support scaling up | 高校评价激励错位：学者只关心评职称与发论文，缺乏将成果推向市场的意愿与技能。（p. 208） | 联合斯坦福国际研究院将明确的市场转化导向植入资助协议。（p. 208） | 打破论文发表即结项的怪圈，推动成果走出实验室。 |
 > | **9. 积极回应社会不平等**<br>Address inequities | 传统科研默认技术中立，忽略处境不利群体在资源与机会上的系统性匮乏。（p. 208） | 将关注边缘弱势群体的学业鸿沟内化为立项法定强制原则（呼应 2002 年授权法案）。（p. 208） | 确保教育科学真正服务于社会流动与教育正义。 |
@@ -218,17 +218,17 @@ updated: 2026-09-14
 > 探讨从单纯依赖内部效度的证据等级制，向涵盖构件解构、成本分析、通用工具与社会正义的新一代国家级实证标准演进。
 
 > [!claim] Schneider, M.
-> **终结混杂药丸袋黑箱与重构实证标准** 单纯追求因果有效性远远无法满足教育实践需求；未清晰拆解构件的干预犹如一袋未经化验的混杂药丸，即使证明有效也无法指导课堂精准采纳。证据标准必须从资助源头推进供给侧改革：强制要求公开预注册、精确剥离构件效用、核算师资与财力成本、采用第三方通用测量基准以遏制自编测验虚高效应量，并将消弭弱势群体学业鸿沟内化为标准的法定准则。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
+> **终结混杂药丸袋黑箱与重构实证标准** 单纯追求因果有效性远远无法满足教育实践需求；未清晰拆解构件的干预犹如一袋未经化验的混杂药丸，即使证明有效也无法指导课堂精准采纳。证据标准必须从资助源头推进供给侧改革：强制要求公开[[Preregistration|预注册]]、精确剥离构件效用、核算师资与财力成本、采用第三方通用测量基准以遏制自编测验虚高效应量，并将消弭弱势群体学业鸿沟内化为标准的法定准则。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
 
 ---
 
 ### 命题五　证据标准的公信力取决于测量工具的独立外部效度与全流程透明规约
 
-> [!concept-lens] 测量效度防护与过程评估标准化
+> [!concept-lens] 测量效度防护与[[Implementation and Process Evaluation|过程评估]]标准化
 > 探讨证据标准如何通过强制前置方案预注册、统计分析计划公开、禁止开发者自编测验（Inherent Measures）并锚定高利害国家统考，筑牢抵御虚高效应量与发表偏倚的制度防线。
 
 > [!claim] Edovald & Nevill
-> **测量工具硬约束与独立透明治理基准** 证据标准的有效性高度受制于终结性测量工具的心理计量属性：采用与教材教法高度同构的开发者自编测验（Inherent Measures）会导致效应量被人为虚夸 50% 至 100%；商业标准化测验在实际大样本中频发天花板与地板效应且预测效度缺乏透明度；高公信力的证据标准必须强制要求主要结局指标优先锚定国家高利害统考（如英国 NPD 数据库）。同时，证据标准必须涵盖立项前方案预注册（ISRCTN）、锁定统计分析计划（SAP）、以及将实施与过程评估（IPE，遵循 TIDieR 准则）确立为刚性准入指标，从而在制度上区分实施失败与理论根本无效。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 50–54)]]
+> **测量工具硬约束与独立透明治理基准** 证据标准的有效性高度受制于终结性测量工具的心理计量属性：采用与教材教法高度同构的开发者自编测验（Inherent Measures）会导致效应量被人为虚夸 50% 至 100%；商业标准化测验在实际大样本中频发天花板与地板效应且[[Predictive Validity|预测效度]]缺乏透明度；高公信力的证据标准必须强制要求主要结局指标优先锚定国家高利害统考（如英国 NPD 数据库）。同时，证据标准必须涵盖立项前方案预注册（ISRCTN）、锁定统计分析计划（SAP）、以及将实施与过程评估（IPE，遵循 [[TIDieR]] 准则）确立为刚性准入指标，从而在制度上区分实施失败与理论根本无效。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 50–54)]]
 
 ---
 
@@ -252,7 +252,7 @@ updated: 2026-09-14
 > - **2000–2015 — 教育清算机构兴起与分级门槛法定化** 美国教育部设立[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse|WWC]]）确立严格的因果证据标准；英国设立[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]）推行挂锁评级；美国《每个学生成功法案》（ESSA 2015）首次以联邦法律形式确立四级因果证据标准。
 > - **2016–2018 — 多维评价架构探索与 [[EMMIE Framework|EMMIE]] 框架创立** 针对单一效果指标无法解释复杂社会情境的局限，英国[[What Works Network|有效性网络]]创立 EMMIE 框架，推动证据标准由单一效果评价拓展为效应、机制、调节变量、实施与经济学评价五维综合架构。
 > - **2018–2022 — 适切性（Fit-for-Purpose）范式与中介自我标准反思** Gough & White (2018) 开展国际 15 个证据门户跨案例调查，揭示打包项目门户“100% 依据 1–2 项单兵研究断言有效”的系统性危机；Gough (2021, 2022) 提炼出六大[[Operationalization|操作化]]证据标准维度，确立方法学严谨性与决策情境适切性有机融合的元治理范式。
-> - **2022 — SEER 循证卓越标准重塑联邦实证规范** 马克·施奈德（[[Mark Schneider]]）领导美国教育科学院全面推行 SEER 九大原则，将研究标准由孤立的因果内部效度，拓展为涵盖成本核算、构件拆解、通用测量工具与教育公平的多维治理生态。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
+> - **2022 — SEER 循证卓越标准重塑联邦实证规范** [[Mark Schneider|马克·施奈德]]（[[Mark Schneider]]）领导[[Institute of Education Sciences|美国教育科学院]]全面推行 SEER 九大原则，将研究标准由孤立的因果内部效度，拓展为涵盖成本核算、构件拆解、通用测量工具与教育公平的多维治理生态。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
 
 ---
 
@@ -272,14 +272,14 @@ updated: 2026-09-14
 > > - **打包项目派（[[Blueprints for Healthy Youth Development|Blueprints]], CrimeSolutions）** 主张明确的干预手册与保真度指标有利于技术复现与商业标准化采购。
 > > - **通用策略派（[[EEF Teaching and Learning Toolkit|EEF Toolkit]], CHI, [[Early Intervention Foundation|EIF]]）** 指出打包方案评级极易受制于开发商赞助偏倚，且难以适应[[Heterogeneity|异质性]]学校情境；唯有基于[[Systematic Review|系统综述]]提炼通用策略才能保障公共循证的普惠性。
 > >
-> > [!axis] 因果内部效度至上 vs 真实生态多维卓越
+> > [!axis] 因果[[Internal Validity|内部效度]]至上 vs 真实生态多维卓越
 > > 争论聚焦于证据标准应坚持以消除偏倚为唯一尺度的传统 RCT 等级，还是迈向兼顾实施细节、经济成本与教育公平的系统性治理框架。
 > >
-> > - **传统因果优先派（早期 WWC）** 坚持随机对照试验是确证因果功效的唯一黄金标准，内部效度未获确证前，探讨成本与实施毫无意义。
-> > - **系统治理卓越派（[[Mark Schneider|Schneider, 2022]]; SEER 框架）** 指出仅知道某项干预有效远远不够；脱离构件拆解、未算经济成本、使用过度对齐自编测验的实证研究不仅无法在学校规模化落地，更可能加剧教育不平等。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
+> > - **传统因果优先派（早期 [[What Works Clearinghouse|WWC]]）** 坚持随机对照试验是确证因果功效的唯一黄金标准，内部效度未获确证前，探讨成本与实施毫无意义。
+> > - **系统治理卓越派（Schneider, 2022; SEER 框架）** 指出仅知道某项干预有效远远不够；脱离构件拆解、未算经济成本、使用过度对齐自编测验的实证研究不仅无法在学校规模化落地，更可能加剧教育不平等。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
 
-> [!citation-card] 施奈德论拆解干预构件与终结混杂药丸袋黑箱
-> 许多教育干预完全就像一袋混杂的药丸：由一大堆构件拼凑而成，其中许多构件从未被清晰识别过，更谈不上被独立评估。IES 正全力推动教育研究者明确界定干预的各项构件，进而分离每一项构件的独立效应与实施成本。（p. 207）
+> [!citation-card] [[Mark Schneider|施奈德]]论拆解干预构件与终结混杂药丸袋黑箱
+> 许多教育干预完全就像一袋混杂的药丸：由一大堆构件拼凑而成，其中许多构件从未被清晰识别过，更谈不上被独立评估。[[Institute of Education Sciences|IES]] 正全力推动教育研究者明确界定干预的各项构件，进而分离每一项构件的独立效应与实施成本。（p. 207）
 >
 > *Yet, far too many education interventions are exactly like the bag of pills – a collection of parts, many of which have never been clearly identified, let alone evaluated. IES has been pushing hard to get education researchers to identify the components of an intervention and then work to isolate the effects (and the costs) of each component.*
 
@@ -323,7 +323,7 @@ updated: 2026-09-14
 > | 同上 | [[EEF Teaching and Learning Toolkit]]，英国 | 通用教学策略 | 全量二阶系统综述与[[Meta-analysis\|元分析]] | 月度进展（Months' Progress）与挂锁评级（Padlocks） | 聚焦通用策略而非商业方案，有效防范商业赞助偏倚（pp. 149–151） |
 > | 同上 | What Works Centre for Wellbeing，英国 | 通用福祉策略 | 跨学科系统综述，吸纳质性与[[Mixed Methods Research\|混合方法]] | 证据分级与策略实践工具箱 | 突破单一量化因果局限，为非结构化政策议题提供标准典范（p. 154） |
 > | [[Argument_Pellegrini_2021_ROE\|Pellegrini & Vivanet (2021)]] | 欧美主要教育清算机构（[[What Works Clearinghouse\|WWC]], [[Education Endowment Foundation\|EEF]], BEP） | 教育干预项目与策略 | 比较其系统综述筛选门槛与偏倚控制量表 | 各机构独立有效性分级系统 | 证实不同中介机构在证据标准设定上存在显著方法论分歧与评级不一致（pp. 120–122） |
-| [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] | 学校随机对照试验与干预策略 | 0–5 挂锁安全评级（综合设计、样本量、流失率与威胁）；优先锚定国家统考（NPD），严禁自编测验；强制 ISRCTN 预注册与公开分析计划（SAP）；整合 TIDieR 过程评估（IPE） | 额外学习月数（Months of Progress）与挂锁安全级别 | 极大降低校长决策门槛，但将多元偏倚压缩为单一分值易掩盖异质性与统计不确定性（pp. 50–58） |
+| [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] | 学校随机对照试验与干预策略 | 0–5 [[EEF Padlock Security Rating\|挂锁安全评级]]（综合设计、[[Sample Size Determination\|样本量]]、[[Attrition\|流失]]率与威胁）；优先锚定国家统考（NPD），严禁自编测验；强制 ISRCTN [[Preregistration\|预注册]]与公开分析计划（SAP）；整合 [[TIDieR]] [[Implementation and Process Evaluation\|过程评估]]（IPE） | 额外学习月数（Months of Progress）与挂锁安全级别 | 极大降低校长决策门槛，但将多元偏倚压缩为单一分值易掩盖[[Heterogeneity\|异质性]]与统计不确定性（pp. 50–58） |
 
 ---
 
@@ -336,4 +336,4 @@ updated: 2026-09-14
 > - Gough & White (2018) — 对国际 15 个网络证据门户开展跨案例实证调研，确立评估中介功效主张方法学标准的经验基底。
 > - Johnson et al. (2015) — 创立 [[EMMIE Framework|EMMIE]] 综合评估框架，推动证据标准从单一效果测度向涵盖机制、情境与实施的多维架构拓展。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — [[Mark Schneider]] 系统论述美国 [[Institute of Education Sciences|IES]] 推行的 SEER 九大循证卓越标准，推动证据评价从孤立的因果[[Internal Validity|内部效度]]走向构件解构、成本分析、通用测量与社会公平。
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 系统解构英国 [[Education Endowment Foundation|EEF]] 前八年大规模学校 RCT 的证据标准演进；深度剖析挂锁安全评级的沟通边界与统计不确定性争议，确立禁止自编测验、优先锚定国家统考（NPD）以及强制整合实施与过程评估（IPE）的循证标准体系。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 系统解构英国 [[Education Endowment Foundation|EEF]] 前八年大规模学校 [[Randomised Controlled Trials|RCT]] 的证据标准演进；深度剖析[[EEF Padlock Security Rating|挂锁安全评级]]的沟通边界与统计不确定性争议，确立禁止自编测验、优先锚定国家统考（NPD）以及强制整合[[Implementation and Process Evaluation|实施与过程评估]]（IPE）的循证标准体系。

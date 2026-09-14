@@ -858,7 +858,7 @@ Hattie 将 Popper 的三个世界（World 1 物理/World 2 主观/World 3 文化
 
 > [!critique] 误读链：Popper → Bereiter → Hattie
 > - Bereiter 已经将 Popper 的 World 3"文化对象"缩减为"真理与非真理"，排除人文学科——这与 Popper 反复使用贝多芬交响乐作为 World 3 例子不一致
-> - Hattie 进一步消除了 Bereiter 仍保留的 World 2（学习）与 World 3（知识建构）之间的关键区分
+> - Hattie 进一步消除了 Bereiter 仍保留的 World 2（学习）与 World 3（[[Knowledge Production|知识建构]]）之间的关键区分
 > - Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在[[Epistemology|认识论]]上精确对立
 
 **后果** 以 Popper 命名的教育理论服务于 Popper 的精确认识论对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。"我们最终得到了一个没有教育、没有贝多芬交响乐、也没有事物和科学能量的世界"。
@@ -1168,7 +1168,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > - **澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 的实施后果** 在基于 VL 的 HITS 实施地区，教师被强迫执行 简单化的表演性技术操作（如在课前将课题写在白板上），教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022; Wescott, 2022）（pp. 29–30）
 
 > [!critique] 角度三：新自由主义商业化——经济利益追踪
-> Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了[[Conflict of Interest in Research|利益冲突]]、[[Class Size|班级规模]]作为 [[Global Education Reform Movement|GERM]] 紧缩工具、以及*"饥饿-危机-私有化"*循环。详见 [[Visible Learning Branding and Global Influences]]。
+> Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了利益冲突、[[Class Size|班级规模]]作为 [[Global Education Reform Movement|GERM]] 紧缩工具、以及*"饥饿-危机-私有化"*循环。详见 [[Visible Learning Branding and Global Influences]]。
 
 > [!critique] 角度四：[[Cargo Cult Science]]——科学的误用
 > Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于 VL：

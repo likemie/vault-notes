@@ -70,7 +70,7 @@ updated: 2026-09-03
 
 > [!boundary]- 概念边界
 > - 不等于正规学校教育的课外[[Homework|作业]]辅导：非正式学习由内在兴趣与探索欲驱动，不具有强制性考评压力。
-> - 不等于单向科学知识灌输（Public Understanding of Science, PUS）：它强调公众与科研人员的双向[[Dialogue in Education|对话]]、知识共同生产（Co-production）与具身参与体验。
+> - 不等于单向科学知识灌输（Public Understanding of Science, PUS）：它强调公众与科研人员的双向[[Dialogue in Education|对话]]、知识共同生产（[[Knowledge Co-production|co-production]]）与具身参与体验。
 
 ---
 

@@ -165,9 +165,9 @@ updated: 2026-09-14
 > - **研究利用之科学元治理框架（Science of Using Science）** 研究利用不是依靠良好意愿或常识直觉自发实现的机械过程，而是一门需要专门研究的跨学科科学（Research on Research Use）；[[Knowledge Mobilisation|知识动员]]与中介机构自身必须构建严密的[[Theory of Change|变革理论]]，扎根行为科学厘清[[Research Translation|研究转化]]的微观因果机制，并对最终受益人成效开展独立因果检验。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 146–148, 157–158)]]
 > - **外层高利害问责体制的支配性制约（Accountability Primacy）** 在基础教育体系中，以英国教育标准局（[[Ofsted]]）为代表的高利害[[School Inspection|学校督导]]问责对校长与教师的办学实践拥有绝对支配权；研究利用若无法使循证改进成为学校应对督导评估的有效支撑，极易被一线专业人员视作额外负担而遭到边缘化排斥。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 150–151)]]
 > - **双轨行为支持路径** 追踪教育学术期刊（[[Document|文献]]输入）是直接驱动研究使用行为的最强效引擎（$\eta^2 = .046$），而亲身开展科研（探究输出）则作为技能控制基础间接支撑使用。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6, p. 13)]]
-> - **关系驱动型证据利用与反采矿式科研（Relational URE & Anti-extractive Research）** 薇薇安·曾（Vivian Tseng；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022, pp. 219–222]]）提出反思传统学术界把实践一线和弱势社群视作数据采矿场的单向提取模式，主张超越一次性产出交付，依托[[Research-Practice Partnership|研究与实践伙伴关系]]（Research-Practice Partnership，RPP）建立平等互信、权力共有与长效共生机制，并通过高校暂停终身教职评审计时钟等制度改革支持跨界协作。
-> - **第三空间话语机制（Third-Space Discourse）** 蒂娜·S·普罗伊茨（Tine S. Prøitz；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022, pp. 226–228]]）强调在学术研究界、政策制定者与教学实践界之间开辟中介性的第三空间，通过[[Boundary Spanner|跨界行动者]]促成超越二元对立的杂合话语，协同平衡学术严谨性、政策紧迫性与实践情境性。
-> - **一线实践者知识主权与工会自主循证（Practitioner Ownership & Union-led Inquiry）** 约翰·班斯与埃梅谢·K·纳吉（John Bangs & Emese K. Nagy；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022, pp. 233–236]]）强调教师绝非外部研究证据的被动消费者，而是证据的协同创造者与所有者；以[[Education International|教育国际]]（Education International，EI）和[[National Education Association|全美教育协会]]（National Education Association，NEA）为代表的教师专业组织通过开展独立实证研究，赋能一线专业自主权，抵御自上而下自发技术理性的行政规训。
+> - **关系驱动型证据利用与反采矿式科研（Relational URE & Anti-extractive Research）** [[Vivian Tseng|薇薇安·曾]]（Vivian Tseng；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022, pp. 219–222]]）提出反思传统学术界把实践一线和弱势社群视作数据采矿场的单向提取模式，主张超越一次性产出交付，依托研究与实践伙伴关系（[[Research-Practice Partnership]]，RPP）建立平等互信、权力共有与长效共[[Conatus|生机]]制，并通过高校暂停终身教职评审计时钟等制度改革支持跨界协作。
+> - **[[Third Space Discourse|第三空间话语]]机制（Third-Space Discourse）** 蒂娜·S·普罗伊茨（Tine S. Prøitz；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022, pp. 226–228]]）强调在学术研究界、政策制定者与教学实践界之间开辟中介性的第三空间，通过跨界行动者促成超越二元对立的杂合话语，协同平衡学术严谨性、政策紧迫性与实践情境性。
+> - **一线实践者知识主权与工会自主循证（Practitioner Ownership & Union-led Inquiry）** [[John Bangs|约翰·班斯]]与埃梅谢·K·纳吉（John Bangs & Emese K. Nagy；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022, pp. 233–236]]）强调教师绝非外部研究证据的被动消费者，而是证据的协同创造者与所有者；以教育国际（[[Education International]]，EI）和[[National Education Association|全美教育协会]]（[[National Education]] Association，NEA）为代表的教师专业组织通过开展独立实证研究，赋能一线专业自主权，抵御自上而下自发技术理性的行政[[Disciplina and Doctrina|规训]]。
 >
 > [!logic-map]- 研究利用的多层生态与行为驱动系统
 > ```mermaid
@@ -279,17 +279,17 @@ updated: 2026-09-14
 
 ### 命题八　可持续的研究利用取决于跨界伙伴关系的信任沉淀与知识生产的权力共有
 
-> [!concept-lens] 跨界伙伴关系、反采矿式科研与证据民主化
-> 围绕研究生产者与实践使用者之间的权力结构与合作机制展开。传统模式往往将学校与社区视作科研数据的单向采矿场，导致证据转化难以为继；深化研究利用必须走向证据民主化，依托研究与实践伙伴关系实现长效互信沉淀、第三空间话语沟通与实践者知识主权确立。
+> [!concept-lens] 跨界伙伴关系、反采矿式科研与[[Democratising Evidence|证据民主化]]
+> 围绕研究生产者与实践使用者之间的权力结构与合作机制展开。传统模式往往将学校与社区视作科研数据的单向采矿场，导致证据转化难以为继；深化研究利用必须走向证据民主化，依托研究与实践伙伴关系实现长效互信沉淀、[[Third Space Discourse|第三空间话语]]沟通与实践者知识主权确立。
 
 > [!claim] Tseng, V.; Prøitz, T. S.; Bangs, J.; Nagy, E. K.
-> **反采矿式跨界伙伴、第三空间话语与实践者主权** 针对教育研究利用长期受制于单向输出与技术专家垄断的结构性困境，当代教育治理学者与实践领袖提出深层关系范式重塑：
-> 1. **反采矿式科研与长效伙伴关系** 薇薇安·曾（Vivian Tseng, 2022）批判传统学术界将学校一线和弱势社区视作数据采集矿区的剥削性取向（Extractive Research），强调真实的可持续利用必须依托[[Research-Practice Partnership|研究与实践伙伴关系]]（RPP）。资助机构必须专项资助伙伴关系的维护成本与互信沉淀，高校体制亟需制度改革（如允许学者在构建跨界伙伴关系期间暂停终身教职评审计时钟），以此将证据利用从一次性项目交付转向基于互信的长期协同生产；
-> 2. **第三空间话语与中介对话机制** 蒂娜·S·普罗伊茨（Tine S. Prøitz, 2022）强调知识在不同主体间的有效流动有赖于开辟学术界、政策界与实践界相交汇的中介性第三空间。通过[[Boundary Spanner|跨界行动者]]的中介协调，融合学术严谨性、政策紧迫性与实践情境性，破除学科术语壁垒，使研究利用转化为持续的多边审议与意义协商；
-> 3. **实践者知识主权与教师组织自主知识生产** 约翰·班斯（John Bangs）与埃梅谢·K·纳吉（Emese K. Nagy, 2022）坚决反对将一线专业人员矮化为外部研究结论的被动消费者，主张确立教师作为知识协同创造者与所有者的主体地位。以[[Education International|教育国际]]（EI）和[[National Education Association|全美教育协会]]（NEA）为代表的教师专业组织通过开展独立实证研究与全球政策对话，将循证融入育人伦理与专业裁决，从而保障研究利用真正服务于教育公平与专业赋权。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 219–222, 226–228, 233–236)]]
+> **反采矿式跨界伙伴、第三空间话语与实践者主权** 针对教育研究利用长期受制于单向输出与技术专家垄断的结构性困境，当代教育治理学者与实践领袖提出深层关系[[Paradigm|范式]]重塑：
+> 1. **反采矿式科研与长效伙伴关系** [[Vivian Tseng|薇薇安·曾]]（Vivian Tseng, 2022）批判传统学术界将学校一线和弱势社区视作数据采集矿区的剥削性取向（Extractive Research），强调真实的可持续利用必须依托研究与实践伙伴关系（[[Research-Practice Partnership|RPP]]）。资助机构必须专项资助伙伴关系的维护成本与互信沉淀，高校体制亟需制度改革（如允许学者在构建跨界伙伴关系期间暂停终身教职评审计时钟），以此将证据利用从一次性项目交付转向基于互信的长期[[Knowledge Co-production|协同生产]]；
+> 2. **第三空间话语与中介对话机制** 蒂娜·S·普罗伊茨（Tine S. Prøitz, 2022）强调知识在不同主体间的有效流动有赖于开辟学术界、政策界与实践界相交汇的中介性第三空间。通过跨界行动者的中介协调，融合学术严谨性、政策紧迫性与实践情境性，破除学科术语壁垒，使研究利用转化为持续的多边审议与意义协商；
+> 3. **实践者知识主权与教师组织自主[[Knowledge Production|知识生产]]** [[John Bangs|约翰·班斯]]（John Bangs）与埃梅谢·K·纳吉（Emese K. Nagy, 2022）坚决反对将一线专业人员矮化为外部研究结论的被动消费者，主张确立教师作为知识协同创造者与所有者的主体地位。以教育国际（EI）和[[National Education Association|全美教育协会]]（NEA）为代表的教师专业组织通过开展独立实证研究与全球政策对话，将循证融入育人伦理与专业裁决，从而保障研究利用真正服务于教育公平与专业赋权。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 219–222, 226–228, 233–236)]]
 
 > [!warrant]- 制度性保障与权力共享机制
-> 证据民主化主张拆解以顶层循证机构为核心的层级规训，将弱势边缘群体、社区家庭与一线教师的实践智慧引入研究问题界定与证据生产源头，确立由多方共同拥有的循证治理生态。
+> 证据民主化主张拆解以顶层循证机构为核心的层级[[Disciplina and Doctrina|规训]]，将弱势边缘群体、社区家庭与一线教师的[[Phronesis|实践智慧]]引入[[Research Question|研究问题]]界定与证据生产源头，确立由多方共同拥有的循证治理生态。
 
 ---
 
@@ -318,7 +318,7 @@ updated: 2026-09-14
 > - **2020s — 跨层治理机制、行为因果链条与质量评价** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制；[[Argument_Torres_2022_KMModels|Torres (2022b)]] 综合梳理微观行为改变框架（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020），推动研究利用从“是否使用”走向“质量使用”。
 > - **2022 — [[OECD|经合组织]]跨国实证调查揭示促成机制与结构障壁的错配断裂** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a]]）全面测度 29 国 37 个教育系统教育部委在政策与实践维度的促成机制、结构性障壁与利用形态，实证揭示方案设计高频使用（70%）与多方审议[[Dialogue in Education|对话]]萎缩（47%）的交易型病理，并诊断机制数量与障壁感知的错配悖论，倡导从碎片化单一项目走向高位系统协调与科研动力学管理。
 > - **2022 — 研究利用之科学与多臂因果试验裁决** [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型（Figure 7.1）；依托全英[[What Works Network|有效性网络]]实践与识字八爪鱼试验（Lord et al., 2017）多臂 [[Randomised Controlled Trials|RCT]] 因果实证，彻底推翻单向推送的信息赤字假说，确立了基于行为改变科学（[[COM-B Model|COM-B]]）与外部高利害问责制度咬合的研究利用新[[Paradigm|范式]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
-> - **2022 — 七大利益相关者全景论辩与证据民主化转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思技术理性下单一证据标准的霸权，正式确立以[[Democratising Evidence|证据民主化]]、[[Research-Practice Partnership|研究与实践伙伴关系]]（RPP）、第三空间话语与教师专业主权为支柱的深层关系型研究利用进路。
+> - **2022 — 七大利益相关者全景论辩与[[Democratising Evidence|证据民主化]]转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思[[Technical Rationality|技术理性]]下单一[[Evidence Standards|证据标准]]的霸权，正式确立以[[Democratising Evidence|证据民主化]]、研究与实践伙伴关系（[[Research-Practice Partnership|RPP]]）、[[Third Space Discourse|第三空间话语]]与教师专业主权为支柱的深层关系型研究利用进路。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
 
 ---
@@ -339,11 +339,11 @@ updated: 2026-09-14
 > > - **信息赤字立场** 假定实践者缺乏证据利用主要源于信息获取困难与学术文本晦涩，致力于单向简化与推送证据摘要。
 > > - **行为科学立场（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022]]; Michie et al., 2011）** 指出单向推送已被多臂 [[Randomised Controlled Trials|RCT]] 严谨实证否定（[[Effect Size|效应量]]为 0）；研究利用本质上是情境化行为改变，必须依托能力、机会与动机的三维重塑及长效陪伴机制。
 >
-> > [!axis] 技术专家治理 vs 证据民主化与教师知识主权
-> > 围绕研究利用的价值底色展开辩驳：是以标准化证据库和自上而下行政规训为主导，还是强调多元主体参与和实践者主权。
+> > [!axis] 技术专家治理 vs [[Democratising Evidence|证据民主化]]与教师知识主权
+> > 围绕研究利用的价值底色展开辩驳：是以标准化证据库和自上而下行政[[Disciplina and Doctrina|规训]]为主导，还是强调多元主体参与和实践者主权。
 > >
-> > - **技术专家与证据标准规训立场（Schneider, 2022）** 强调依托高阶因果证据库与标准化认证机制，严格规范循证干预的遴选与复制推广。
-> > - **证据民主化与实践者主权立场（Tseng, 2022; [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）** 批判外部研究者的采矿式数据索取与技术专家治理对一线专业自主权的侵蚀，主张通过 RPP 共享知识生产权力，确立教师作为证据所有者而非被动消费者的主体地位。
+> > - **技术专家与[[Evidence Standards|证据标准]]规训立场（Schneider, 2022）** 强调依托高阶因果证据库与标准化认证机制，严格规范循证干预的遴选与复制推广。
+> > - **证据民主化与实践者主权立场（Tseng, 2022; [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）** 批判外部研究者的采矿式数据索取与技术专家治理对一线专业自主权的侵蚀，主张通过 [[Research-Practice Partnership|RPP]] 共享[[Knowledge Production|知识生产]]权力，确立教师作为证据所有者而非被动消费者的主体地位。
 
 > [!tension] 核心张力：工具性处方套用 vs 专业[[Phronesis|实践智慧]]整合
 > - **外源处方执行立场（蓝方）** 主张教师应当严格依据高质量实证证据（如 [[Randomised Controlled Trials|RCT]] 与[[Meta-analysis|元分析]]处方）标准化重构教学流程，视偏差为忠实度不足。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 131)]]
@@ -400,7 +400,7 @@ updated: 2026-09-14
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation|知识动员]]与[[Evidence-Informed Decision-Making|证据知情决策]]模型，解构证据利用的行为因果机制（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及超越二元论的[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020）。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型，系统批判官方治理模型遗漏外层系统的盲区，并依据多臂 [[Randomised Controlled Trials|RCT]] 因果实证阐明扎根行为改变科学的理论路径。
-> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 汇聚经合组织、资助机构、研究学者与国际教师工会等七大利益相关者群体，系统检视教育研究利用的结构性断层，提出证据民主化、去采矿式伙伴关系、第三空间对话机制与教师组织自主知识生产的全景治理方案。
+> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 汇聚经合组织、资助机构、研究学者与国际教师工会等七大利益相关者群体，系统检视教育研究利用的结构性断层，提出[[Democratising Evidence|证据民主化]]、去采矿式伙伴关系、[[Third Space Discourse|第三空间对话]]机制与教师组织自主[[Knowledge Production|知识生产]]的全景治理方案。
 
 ---
 
@@ -418,6 +418,6 @@ updated: 2026-09-14
 > | [[Profession-Sensitive Conceptualisations of Research Use]] | 理论[[Paradigm\|范式]] | 第四代研究使用理论，强调多源知识整合与育人伦理裁决。 |
 > | [[Democratising Evidence]] | 理论转向 | 推动研究利用超越技术专家垄断、走向多元主体权力共有与包容性审议的深层价值范式。 |
 > | [[Research-Practice Partnership]] | 实践形态 | 克服单向采矿式科研、保障长期互信与研究知识持续转化的制度化合作架构。 |
-> | [[Boundary Spanner]] | 角色机制 | 在学术研究、政策制定与教学一线之间促成第三空间对话与知识转译的跨界行动者。 |
+> | [[Boundary Spanner]] | 角色机制 | 在学术研究、政策制定与教学一线之间促成[[Third Space Discourse\|第三空间对话]]与[[Research Translation\|知识转译]]的跨界行动者。 |
 > | [[Research Literacy Scale for Teachers]] | 测量工具 | 包含 7 题研究使用分量表、经 [[Confirmatory Factor Analysis\|CFA]] 严格验证的教师素养测评工具。 |
 > | [[Multivariate Analysis of Variance]] | 方法 | 检验期刊阅读与科研参与对研究使用主效应的统计分析方法。 |

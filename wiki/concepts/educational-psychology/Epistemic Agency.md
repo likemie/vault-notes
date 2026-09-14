@@ -60,7 +60,7 @@ updated: 2026-09-10
 > - **边界** 不等同于不受约束的极端相对主义或随意猜测；认识主体性始终在共同体公共协商、经验证据约束与元认识论论辩中运作。
 
 > [!citation-card] 认识主体性与元认识论协商
-> 让学生参与元认识论讨论，探讨其共同体在教室内外所珍视的[[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠过程]]，能够为培育更加认识平等的学习环境提供坚实途径。当学生被赋予反思与辩护认识准则的权能时，他们便从被动的规则执行者转变为积极的知识建构主体。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, p. 223)]]
+> 让学生参与元认识论讨论，探讨其共同体在教室内外所珍视的[[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠过程]]，能够为培育更加认识平等的学习环境提供坚实途径。当学生被赋予反思与辩护认识准则的权能时，他们便从被动的规则执行者转变为积极的[[Knowledge Production|知识建构]]主体。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, p. 223)]]
 >
 > *Engaging students in meta-epistemic discussions about which epistemic ideals and reliable processes are valued by their communities (both inside and outside the classroom) can provide a means to foster a more epistemically equitable learning environment.*
 
@@ -137,7 +137,7 @@ updated: 2026-09-10
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2010 — 协作知识建构初涉** 在学习科学领域，学者开始探讨计算机支持的协作学习中学生对共同认知产物的责任共担，初步提出集体认识主体性构想。
+> - **2010 — 协作[[Knowledge Production|知识建构]]初涉** 在学习科学领域，学者开始探讨计算机支持的协作学习中学生对共同认知产物的责任共担，初步提出集体认识主体性构想。
 > - **2014 — 科学课堂教学法确立** 科学教育学者系统界定课堂语境下的认识主体性，强调学生必须在科学实践中被赋予界定问题、提出解释与修改模型的行动权力。
 > - **2025 — [[Epistemology|认识论]]实质与元认识论拓展** 拉维特·格兰·邓肯与[[Clark A. Chinn|克拉克·钦]]将认识主体性与 [[AIR Model of Epistemic Cognition|AIR]] 认知模型结合，指出认识主体性不仅表现为课堂参与，更体现为学生对[[Epistemic Ideals|认识论理想]]与可靠认识过程的元认识论反思和公共协商。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 222–224)]]
 

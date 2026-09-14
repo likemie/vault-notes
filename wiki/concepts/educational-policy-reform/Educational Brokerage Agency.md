@@ -357,8 +357,8 @@ updated: 2026-09-14
 > | 同上 | [[Canadian Council on Learning\|Canadian Council on Learning (CCL)]], 加拿大 | 联邦政府设立并拨款的独立法人机构 | 联邦与省教育部、学校实践者 | 跨省[[Lifelong Learning\|终身学习]]与教育研究综合监控 | 已关停（Closed） | 联邦与省际政治博弈及联邦保守党政府终止资助，非因绩效评估不达标（p. 64） |
 > | 同上 | [[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]], 丹麦奥胡斯大学 | 大学下设国家级[[Educational Evidence Clearinghouses\|证据清算中心]]，国家拨款支持 | 丹麦教育部、地方市政当局、学校 | 面向北欧教育实践开展实证系统综述 | 已关停（Closed） | 伴随国家政策重点转移与部委资助终止而被迫关闭（p. 64） |
 > | 同上 | Knowledge Chamber ([[Kenniskamer]]), 荷兰 | 荷兰教育部内部专设高阶咨询室 | 荷兰教育部部长、政策制定高层官员 | 针对部委重大政策急难问题组织专家[[Dialogue in Education\|对话]]与研讨 | 休眠停摆（Hibernating） | 极度依赖主管大臣个人意志，随内阁更迭与人事变动陷入机制停摆（p. 64） |
-> | 同上 | [[Education Endowment Foundation\|Education Endowment Foundation (EEF)]], 英国 | 萨顿信托（Sutton Trust）发起设立的独立慈善信托 | 校长、一线教师、教育中介网络 | 严苛 RCT 评价；发布教学与学习工具包；[[Research Schools Network\|研究学校网络]] | 持续高度活跃（Highly active） | 2011年获英国教育部1.25亿英镑巨额留本基金资助，拥有高度独立的财务与治理保障（p. 58） |
-> | 同上 | [[National Institute for Educational Policy Research]] (NIER), 日本 | 文部科学省同楼办公但保持行政自治的国立研究机构 | 文部科学省、各都道府县教育委员会 | 课程实施评估、国家学力调查与政策实证分析 | 持续稳定运行（Active） | 法定国立政策研究机构定位，与中央教育行政形成稳定的共生协调机制（pp. 61–62） |
+> | 同上 | [[Education Endowment Foundation\|Education Endowment Foundation (EEF)]], 英国 | [[Sutton Trust\|萨顿信托]]（Sutton Trust）发起设立的独立慈善信托 | 校长、一线教师、教育中介网络 | 严苛 RCT 评价；发布教学与学习工具包；[[Research Schools Network\|研究学校网络]] | 持续高度活跃（Highly active） | 2011年获英国教育部1.25亿英镑巨额留本基金资助，拥有高度独立的财务与治理保障（p. 58） |
+> | 同上 | [[National Institute for Educational Policy Research]] (NIER), 日本 | 文部科学省同楼办公但保持行政自治的国立研究机构 | 文部科学省、各都道府县教育委员会 | 课程[[Implementation and Process Evaluation\|实施评估]]、国家学力调查与政策实证分析 | 持续稳定运行（Active） | 法定国立政策研究机构定位，与中央教育行政形成稳定的共生协调机制（pp. 61–62） |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | 16 个设立官方中介机构的 [[OECD]] 教育系统 | 涵盖部委直属研究中心、独立评估院、民间基金会与统计局等多形态 | 政策决策者、一线学校实践者、公众 | 全流程生产与促成（6国）vs 单点聚焦（7国） | 16 个系统活跃（5 个系统存在但停滞） | 仅 9 个部委保持经常性联结；英格兰 EEF 仅维持偶尔接触；智利与丹麦部委断联（pp. 81–82, 86–87） |
 
 > [!ref-table]- 英国[[What Works Network|有效性网络]]（What Works Network）代表性中介机构治理属性与循证模式（Gough et al., 2018, 2022）

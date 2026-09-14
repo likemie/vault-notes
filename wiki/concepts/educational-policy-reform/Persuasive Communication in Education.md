@@ -117,7 +117,7 @@ updated: 2026-09-02
 > 抵御教育商业修辞无法靠行政禁令，而必须武装教师的专业批判认知武器。
 
 > [!claim] Nora Carrier (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
-> **[[Analytical Stance|分析立场]]作为专业防线** 面对层出不穷的说服性沟通策略，教育系统必须从单纯的“[[Document|文献]]供给”转向“批判能力建设”。教师必须确立[[Analytical Stance|批判性分析立场]]（Analytical Stance），掌握解构修辞包装的[[Research Literacy|研究素养]]：学会追问“该方案的因果机制是什么”、“背后的样本规模与对照组设置如何”、“是否存在[[Conflict of Interest in Research|利益冲突]]”、“在本校情境下是否存在水土不服”。唯有当教师具备独立审验研究质量的能力时，说服性修辞的虚假泡沫才会被破除。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
+> **[[Analytical Stance|分析立场]]作为专业防线** 面对层出不穷的说服性沟通策略，教育系统必须从单纯的“[[Document|文献]]供给”转向“批判能力建设”。教师必须确立[[Analytical Stance|批判性分析立场]]（Analytical Stance），掌握解构修辞包装的[[Research Literacy|研究素养]]：学会追问“该方案的因果机制是什么”、“背后的样本规模与对照组设置如何”、“是否存在利益冲突”、“在本校情境下是否存在水土不服”。唯有当教师具备独立审验研究质量的能力时，说服性修辞的虚假泡沫才会被破除。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 ---
 

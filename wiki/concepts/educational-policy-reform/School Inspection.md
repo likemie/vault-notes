@@ -84,7 +84,7 @@ updated: 2026-09-12
 > 
 > 迈克尔·戈夫宣称没有问责的系统往往表现不佳，并以此解释为何官方‘磨利了教育标准办公室（[[Ofsted]]）的督导之剑，招募更多在职优秀教师参与督导，并要求后进学校以更快速度改进’。然而，[[OECD]] 报告中完全没有提及学校督导，经合组织倾向于教师群体间的自我规制，而非来自外部机构的惩罚性问责。像‘勒令’、‘磨利’和‘后进’这样的词汇，与[[Andreas Schleicher|施莱歇尔]]将基于当局的问责定性为‘旧官僚系统’的判断截然相反。（[[Argument_Grey_2018_CE|Grey & Morris, 2018, p. 119]]）
 > 
-> *Michael Gove reported that systems without accountability ‘often underperform’, and then went on to explain that this: ‘… is why we have sharpened OFSTED inspections, recruited more outstanding serving teachers to inspect schools and demanded that underperforming schools improve far faster.’ There was no mention of school inspection in the OECD report, which favours self-regulation among groups of teachers rather than punitive accountability from external bodies. Words like ‘demanded’, ‘sharpened’ and ‘underperforming’ do not align with Schleicher’s priorities... which associated accountability by ‘authorities’ with the ‘old bureaucratic system’.*
+> *Michael Gove reported that systems without accountability ‘often underperform’, and then went on to explain that this: ‘… is why we have sharpened OFSTED inspections, recruited more outstanding serving teachers to inspect schools and demanded that underperforming schools improve far faster.’ There was no mention of school inspection in the OECD report, which favours [[Self-control|self-regulation]] among groups of teachers rather than punitive accountability from external bodies. Words like ‘demanded’, ‘sharpened’ and ‘underperforming’ do not align with Schleicher’s priorities... which associated accountability by ‘authorities’ with the ‘old bureaucratic system’.*
 
 > [!boundary]- 概念边界与质保模式辨析
 > - **School Inspection（学校督导）vs Test-Based Accountability（基于测试的问责）**
