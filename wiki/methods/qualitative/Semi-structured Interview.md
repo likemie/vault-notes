@@ -126,4 +126,4 @@ updated: 2026-07-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
-> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022, p. 107)]] — 在经合组织（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈问卷反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022, p. 107)]] — 在[[OECD|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。

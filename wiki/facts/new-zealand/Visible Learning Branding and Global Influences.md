@@ -228,7 +228,7 @@ updated: '2026-05-18'
 > |------|------|------|------|------|------|------|
 > | NZD | USD 10,000 | USD 93,322 | USD 272,133 | USD 270,559 | USD 223,439 | (未披露) |
 >
-> Hattie 同时是 Cognition Education Trust 的"学术事务顾问"和 Cognition Education Limited 的前董事（至 2012 年）([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.48, 69]])。[[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]指出 Hattie 在 Cognition Trust 董事会任职同时通过 VL 商业化获取版税，即便不构成[[Conflict of Interest in Research|利益冲突]]，"外观上充其量是模糊的"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31]])。
+> Hattie 同时是 Cognition Education Trust 的"学术事务顾问"和 Cognition Education Limited 的前董事（至 2012 年）([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.48, 69]])。[[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]指出 Hattie 在 Cognition Trust 董事会任职同时通过 VL 商业化获取版税，即便不构成利益冲突，"外观上充其量是模糊的"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31]])。
 >
 > #### Cognition Education Group 财务轨迹
 >
@@ -354,11 +354,11 @@ updated: '2026-05-18'
 >
 > **论证四：VL 数据已过时——时效性问题。** [[Argument_Blass_2020_JESP|Blass (2020, p.95)]]指出 VL 出版于 2009 年但其基础数据来自 1980s–1990s，这些研究进行时的教室特征是"学生排排坐、教师用粉笔或白板笔、电视被视为负面效应量"。Blass 提出尖锐类比："你会想要一个外科医生查阅 1990 年的书来学习机器人手术吗？你想要肿瘤学家查找 1980 年代的最新癌症治疗方法吗？不！那么为什么你允许那个时代的教学结果影响你今天在课堂上的行为？"。
 >
-> #### [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 新自由主义商业化与[[Conflict of Interest in Research|利益冲突]]
+> #### [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 新自由主义商业化与利益冲突
 >
 > Johnson & Janzen在四角度系统批判中专门追踪了 VL 的新自由主义商业化维度：
 >
-> - **利益冲突判断** Hattie 同时在 Cognition Trust 董事会任职并从 VL 商业化中获取版税——"If not a conflict of interest, the optics are at best ambiguous"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31]])
+> - **利益冲突判断** Hattie 同时在 Cognition Trust 董事会任职并从 VL 商业化中获取版税——"If not a [[Conflict of Interest in Research|conflict of interest]], the optics are at best ambiguous"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31]])
 > - **班级规模作为新自由主义工具** 论证 Hattie 对 [[Class Size|班级规模]] 的处理（"does not matter"）直接服务于 [[Global Education Reform Movement|GERM]] 的紧缩议程——词频分析显示"class size"在 VL 中出现 95 次（vs 排名第一的"self-reported grades"仅 6 次），在至少 16 个章节中被反复讨论([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31-32]])
 > - **"饥饿-危机-私有化"循环** Johnson & Janzen 将此置于 GERM 的更宏观框架中——削减公共系统资金->系统失效->归咎低效->施加问责与进一步削减->制造混乱->以"拯救危机"为名推动私有化（Klees, 2020; Parker, 2017; Tuck, 2017）
 > - **整体定性** VL 是"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.35]])。VL 是"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.30]])

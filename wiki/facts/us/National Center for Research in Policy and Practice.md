@@ -79,7 +79,7 @@ updated: 2026-09-14
 > - **2014** [[Institute of Education Sciences|IES]] 资助立项，NCRPP 正式成立，启动全美学区领导[[Research Utilization|证据使用]]大规模基线调查。
 > - **2016** 发布全美学区领导研究使用全景报告（Survey of District Leaders），揭示同行人际交流是学区首要信息源。
 > - **2017** Wentworth, Mazzeo, & Connolly（2017）依托 NCRPP 理论框架，在《Educational Research》特刊发表 [[Research-Practice Partnership|RPP]] 影响[[Scale of Measurement|测量量表]]研究。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
-> - **2020s** 框架成为全美 IES 与威廉·T·格兰特基金会（WT Grant Foundation）资助 RPP 项目的标准评估指南。
+> - **2020s** 框架成为全美 IES 与[[William T. Grant Foundation|威廉·T·格兰特基金会]]（WT Grant Foundation）资助 RPP 项目的标准评估指南。
 
 ---
 

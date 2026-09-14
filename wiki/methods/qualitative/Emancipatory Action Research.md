@@ -183,7 +183,7 @@ updated: 2026-07-19
 ## 解放性行动研究与反身性
 
 > [!info] [[Reflexivity|反身性]]的构成性角色
-> 反身性是解放性[[Action Research|行动研究]]的构成要素和[[Epistemology|认识论]]基础（Hall, 1996, p. 29）。其知识建构立场具有双重特征：(a) 数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位；(b) 所有参与者之间存在民主关系。反身性要求参与者-实践者-研究者将同样的批判审视应用于自己和他人。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
+> 反身性是解放性[[Action Research|行动研究]]的构成要素和[[Epistemology|认识论]]基础（Hall, 1996, p. 29）。其[[Knowledge Production|知识建构]]立场具有双重特征：(a) 数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位；(b) 所有参与者之间存在民主关系。反身性要求参与者-实践者-研究者将同样的批判审视应用于自己和他人。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
 
 ---
 

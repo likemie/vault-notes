@@ -137,7 +137,7 @@ updated: 2026-09-14
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理与执行矩阵
-> - **联邦管理与监督层（[[Institute of Education Sciences|IES]] / NCEE）** 隶属于美国教育部国家教育评价与区域协助中心（NCEE），掌复制定整体审查政策、发布指南议题与拨付合同资金。
+> - **联邦管理与监督层（[[Institute of Education Sciences|IES]] / [[National Center for Education Evaluation and Regional Assistance|NCEE]]）** 隶属于美国教育部国家教育评价与区域协助中心（NCEE），掌复制定整体审查政策、发布指南议题与拨付合同资金。
 > - **方法学常设指导委员会** 由全美顶尖计量经济学、心理测量学与统计学专家组成，负责每 2–3 年主持修订审查手册（Handbook）。
 > - **竞标承包智库（Contractors）** Mathematica、SRI 等专业机构承接具体领域的[[Document|文献]]筛选、代码提取与基线等值性核验。
 > - **认证审查员库（Certified Reviewers）** 建立严格的审查员培训与考证机制，只有通过标准一致性考核的学者方可签署审查意见。
@@ -167,14 +167,14 @@ updated: 2026-09-14
 > | **干预后随访期** | **未做要求（干预刚结束即测即可，不考察 12 个月[[Fade-out Effect\|持续效果]]）** |
 > | **结果域聚合机制** | **按微观结果域分别评级**（如阅读理解、数学计算独立发布，不强行跨域合并为单一综合分） |
 
-> [!contrast-table] 证据评级与传播机制对比：美国 WWC 证据标准 vs 英国 EEF 挂锁安全评级（基于 The EEF, 2019c 与 Edovald & Nevill, 2021）
+> [!contrast-table] 证据评级与传播机制对比：美国 WWC [[Evidence Standards|证据标准]] vs 英国 [[Education Endowment Foundation|EEF]] [[EEF Padlock Security Rating|挂锁安全评级]]（基于 The EEF, 2019c 与 Edovald & Nevill, 2021）
 > | 比较维度 | 美国 [[What Works Clearinghouse\|WWC]] 因果证据标准 | 英国 [[Education Endowment Foundation\|EEF]] 挂锁安全评级（Padlock Rating） |
 > |---|---|---|
-> | **标尺结构** | 三等级定性分类判定（无保留达标 / 有保留达标 / 未达标） | 0 至 5 把挂锁（🔒）的单维度连续序数评分（综合设计、样本量、流失与威胁） |
+> | **标尺结构** | 三等级定性分类判定（无保留达标 / 有保留达标 / 未达标） | 0 至 5 把挂锁（🔒）的单维度连续序数评分（综合设计、[[Sample Size Determination\|样本量]]、[[Attrition\|流失]]与威胁） |
 > | **目标受众** | 面向联邦采购官员、专业政策分析师与学区决策者 | 专为时间匮乏的中小学校长、高级管理团队与基层教师定制 |
 > | **呈现载体** | 录入 WWC 官方数据库干预报告表格与指南附录中 | 直接嵌入《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与独立评估报告封面 |
-> | **方法学争鸣** | 保持了微观分域与方法学严格性，但技术门槛过高阻碍基层直观理解 | 将多元复杂偏倚压缩为单一分值极大降低理解门槛，但易掩盖不同偏倚维度的异质性 |
-> | **对待统计显著性** | 长期以假设检验显著性作为划分干预推荐等级的核心标尺 | 深刻反思对 $p < 0.05$ 门槛的机械依赖，提倡效应量置信区间与安全锁双轨呈现 |
+> | **方法学争鸣** | 保持了微观分域与方法学严格性，但技术门槛过高阻碍基层直观理解 | 将多元复杂偏倚压缩为单一分值极大降低理解门槛，但易掩盖不同偏倚维度的[[Heterogeneity\|异质性]] |
+> | **对待[[Statistical Significance\|统计显著性]]** | 长期以[[Hypothesis\|假设]]检验显著性作为划分干预推荐等级的核心标尺 | 深刻反思对 $p < 0.05$ 门槛的机械依赖，提倡效应量置信区间与安全锁双轨呈现 |
 
 > [!formula-step] WWC [[Attrition|样本流失]]与基线等值性判定规则
 > 在单项因果研究审查中，WWC 执行标准化的基线等值与流失偏倚分级模型：
@@ -224,12 +224,12 @@ updated: 2026-09-14
 > > - **联邦政策制定者** 坚持 WWC 必须作为纯净的因果过滤器，防止低质量研究浪费纳税人资金([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
 > > - **学区与[[School Leadership|学校领导]]者** 批评 WWC 缺乏**实施成本（Cost Analysis）**、**本地适配性（Local Adaptability）**与**师生接受度**信息，导致实践者无法仅凭 WWC 评级做出采购决策([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 120–122]])。
 >
-> > [!axis] 开发者[[Conflict of Interest in Research|利益冲突]]（Conflict of Interest）与预注册准入门槛缺失
+> > [!axis] 开发者利益冲突（[[Conflict of Interest in Research|conflict of interest]]）与[[Preregistration|预注册]]准入门槛缺失
 > > 争论 WWC 允许由干预开发者（Developers）主导的评估作为最高评级证据，是否会引入严重的[[Publication Bias|发表偏倚]]与[[Effect Size|效应量]]虚高（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 15]]）。
 > >
 > > - **实证偏倚差距** [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 对 WWC 数据库的实证审查发现，全样本中由开发者实施或委托的研究平均效应量比独立评估高出 0.141 个标准差（约为独立研究的 1.8 倍），且开发者研究更可能采用易虚增效应的自编测验（29% vs 8%）与准实验（51% vs 15%）。
 > > - **英美制度防线对比** 英国 [[Education Endowment Foundation|EEF]] 建立了强硬的制度防火墙：组建独立评估专家库，通过三方资助协议将项目开发者与评估团队物理隔离，并强制在 ISRCTN 平台进行统计分析计划（SAP）预注册，未达预注册要求直接扣除 1 把挂锁（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 50–52, 57]]）。
-> > - **前沿政策呼吁** [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 443)]] 明确提议美国联邦应当借鉴此类开放科学机制，将项目方案在效能与有效性研究注册处（[[Creation of REES|REES]]）平台的强制预注册确立为被 WWC 纳入审查的前提准入条件，从源头阻断事后数据钓鱼与选择性报告。
+> > - **前沿政策呼吁** [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 443)]] 明确提议美国联邦应当借鉴此类开放科学机制，将项目方案在效能与有效性研究注册处（REES）平台的强制预注册确立为被 WWC 纳入审查的前提准入条件，从源头阻断事后数据钓鱼与选择性报告。
 >
 > > [!axis] 单向“知识推送”与“[[Transfer Translation Transformation|转译]]”[[Paradigm|范式]]的系统局限
 > > 争论单纯依靠线性供给与文本转译能否真正驱动一线实践变革与[[Research Utilization|证据使用]]。

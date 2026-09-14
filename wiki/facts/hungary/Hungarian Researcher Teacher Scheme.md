@@ -140,7 +140,7 @@ updated: 2026-09-14
 
 > [!lessons] 经验教训与启示
 > - **将科研纳入终身职级体系是打破激励匮乏的制度突破** 仅靠职业道德情怀无法维系长效科研，唯有将科研产出与职位说明、绩效考评与薪资福利全面挂钩，才能激发实践者的探究主体性。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 90–92)]]
-> - **明确界定校内引领与系统辐射的职能分工** 名师与研究型教师的差异化定岗提供了兼顾本土深耕与跨域扩散的样板。以赫约凯赖斯图尔小学（Hejőkeresztúr Primary School）为例，三位名师负责将测评与[[Action Research|行动研究]]成果转化为校内常态教学改进，而一位研究型教师则作为大学兼职教员，负责将学校改造的斯坦福“复合教学计划”（Complex Instruction Programme）辐射至全国近 200 所学校，使学校成为知识创造型组织。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 214–215)]]
+> - **明确界定校内引领与系统辐射的职能分工** 名师与研究型教师的差异化定岗提供了兼顾本土深耕与跨域扩散的样板。以赫约凯赖斯图尔小学（Hejőkeresztúr Primary School）为例，三位名师负责将测评与[[Action Research|行动研究]]成果转化为校内[[Business as Usual|常态教学]]改进，而一位研究型教师则作为大学兼职教员，负责将学校改造的斯坦福“[[Complex Instruction Programme|复合教学计划]]”（Complex Instruction Programme）辐射至全国近 200 所学校，使学校成为知识创造型组织。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 214–215)]]
 > - **警惕学校研究成功沦为孤立的巧合星座** 该校校长兼研究型教师埃梅谢·K·纳吉（Emese K. Nagy）指出，当前这种“一所学校恰好拥有研究型教师与多名名师”的完备格局在很大程度上仍属于个别的“幸运巧合”（Lucky constellations）；教育政策必须由偶发支持走向制度化保障，让跨界合作行动研究成为全系统的常态机制。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 215)]]
 
 ---

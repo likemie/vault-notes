@@ -128,7 +128,7 @@ updated: 2026-08-22
 >    - **$\sigma_W^2$** 集群内方差（Within-cluster Variance，反映同校内部不同学生之间的个体差异）；
 >    - 在美国教育实证研究中，标准化考试的典型 ICC 通常在 **$0.10$ 至 $0.25$** 之间。
 >
-> 2. **设计效应（Design Effect, $\text{Deff}$）与有效[[Sample Size Determination|样本量]]（Effective Sample Size）**
+> 2. **设计效应（Design Effect, $\text{Deff}$）与有效[[Sample Size Determination|样本量]]（[[Effective Sample Size]]）**
 >    $$\text{Deff} = 1 + (m - 1) \cdot \rho$$
 >    $$N_{\text{effective}} = \frac{N_{\text{total}}}{\text{Deff}} = \frac{K \cdot m}{1 + (m - 1) \cdot \rho}$$
 >    - **$m$** 每个集群的平均学生人数；**$K$** 集群总数；

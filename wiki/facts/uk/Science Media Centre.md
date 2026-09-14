@@ -97,7 +97,7 @@ updated: 2026-09-13
 > - **受托人董事会（Board of Trustees）** 由资深媒体总编、前沿科学家、法学界专家与公众代表共同组成，负责监管机构运营合规性与战略独立性，确保业务完全脱离政府日常干预与出资方意愿。
 > - **科学顾问委员会（Science Advisory Committee）** 汇集英国各大国家学术院（英国皇家学会、英国医学科学院、皇家工程院等）资深学者，在重大突发科技争议中把关专家库准入标准与科学事实界定。
 > - **常设编辑执行团队（Editorial Team）** 由兼具新闻采编经验与科学专业背景的[[Science Journalism|科学新闻]]官组成，实行 7×24 小时新闻议程监测，独立决定突发报道选题并撰写专业导述。
-> - **外部[[Conflict of Interest in Research|利益冲突]]审查** 所有入库并发表言论的科学家必须签署严格的利益冲突声明（Declaration of Interests），随专家评语同步公开，确保透明度。
+> - **外部利益冲突审查** 所有入库并发表言论的科学家必须签署严格的利益冲突声明（Declaration of Interests），随专家评语同步公开，确保透明度。
 
 > [!pathways]- 独立性防护制度与快速响应流程
 > - **5% 资助限额防线** 坚决拒绝接受任何单笔超过年度总预算 5% 的大额赞助，彻底瓦解商业资本或特定利益集团对机构运行施加财务施压的可能性。
@@ -139,7 +139,7 @@ updated: 2026-09-13
 
 > [!tension] 受众维度的根本性拓展与反商业操纵防线（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 59–64]]）
 > - **从跑口记者延伸至寻求实证依据的广大大众** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 62, 64)]] 指出，大众媒体导向型中介不仅服务于寻求事实核查的专业记者，其更深层的受众是“寻求理解大众传媒中教育与科学研究声称底层证据依据的广大大众（the broader public seeking to understand the evidence base）”。在后真相时代的碎片化舆论场中，中介机构承担起提升公民公共[[Scientific Literacy|证据素养]]（[[Research Literacy|研究素养]]）的民主基石功能。
-> - **反制商业利益操纵者（Spinners）与“证据知情”标签的利益绑架** 随着“证据驱动”话语成为主流，教育科技资本与商业咨询公司往往打着“证据知情”的公关护身符，通过挑选局部有利指标（Cherry-picking）包装商业软件或特定教学方案，使原本中立的“[[Boundary Spanner|边界跨越者]]”（Boundary Spanners）蜕化为推销特定利益的“自利操纵者”（Spinners）（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 60]]）。SMC / EMC 模式以严格的独立性、同行评议标准与强制[[Conflict of Interest in Research|利益冲突]]申报，构成了抵御商业公关绑架、维护知识客观性的制度屏障。
+> - **反制商业利益操纵者（Spinners）与“证据知情”标签的利益绑架** 随着“证据驱动”话语成为主流，教育科技资本与商业咨询公司往往打着“证据知情”的公关护身符，通过挑选局部有利指标（Cherry-picking）包装商业软件或特定教学方案，使原本中立的“[[Boundary Spanner|边界跨越者]]”（Boundary Spanners）蜕化为推销特定利益的“自利操纵者”（Spinners）（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 60]]）。SMC / EMC 模式以严格的独立性、同行评议标准与强制利益冲突申报，构成了抵御商业公关绑架、维护知识客观性的制度屏障。
 
 > [!row-contrast] 全球科学与教育媒体中介协作网络谱系（SMC Global Network & EMC）
 > | 机构名称与国别 | 创立时间与常设地点 | 治理与经费机制 | 核心业务与辐射受众 | 学理价值与制度特征 |
@@ -160,7 +160,7 @@ updated: 2026-09-13
 > > 批评方担忧企业赞助可能潜移默化影响中介机构在涉及商业利益时的中立性。
 > >
 > > - **批评视角（反方）** 部分环保非政府组织与独立学者曾提出质疑，指出 SMC 曾接受医药、生物技术与农化跨国公司的捐赠，担忧其在草甘膦除草剂、杀虫剂毒性及转基因生物规制等高商业利害议题上倾向于工业界立场。
-> > - **机构辩护（正方）** SMC 坚决守持 5% 单一机构出资上限，确保没有任何单一企业能施加财政实质影响；所有选题完全由采编团队根据新闻突发性独立决定；专家点评全部要求实名并附带严格的[[Conflict of Interest in Research|利益冲突]]声明（Declaration of Interests），接受全社会的公开监督。
+> > - **机构辩护（正方）** SMC 坚决守持 5% 单一机构出资上限，确保没有任何单一企业能施加财政实质影响；所有选题完全由采编团队根据新闻突发性独立决定；专家点评全部要求实名并附带严格的利益冲突声明（Declaration of Interests），接受全社会的公开监督。
 >
 > > [!axis] 争议二：突发新闻驱动对系统性长效知识累积的结构性挤出
 > > [[Epistemic Governance|知识治理]]学者指出了大众媒体导向型中介模式在[[Knowledge Production|知识生产]]与累积维度上的固有局限性。

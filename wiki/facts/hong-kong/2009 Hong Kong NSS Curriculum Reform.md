@@ -86,7 +86,7 @@ updated: 2026-07-13
 ## 外部化策略
 
 > [!note]- 全球化论述的修辞功能
-> 尽管改革的动因是国内问题（学制不一致、过剩教师、[[Examination-Oriented Education|应试教育]]弊端、港府合法性下降），港府在公开推广时大量引用全球论述，特别是[[Knowledge-Based Economy|知识经济]]和[[Lifelong Learning|终身学习]]。2000 年《施政报告》将改革表述为应对全球化和知识经济的必要举措。这一外部化策略的本质是：国内问题被重新包装为对全球趋势的回应，从而赋予改革不可质疑的正当性([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]])。
+> 尽管改革的动因是国内问题（学制不一致、过剩教师、[[Examination-Oriented Education|应试教育]]弊端、港府合法性下降），港府在公开推广时大量引用全球论述，特别是[[Knowledge-Based Economy|知识经济]]和[[Lifelong Learning|终身学习]]。2000 年《施政报告》将改革表述为应对全球化和知识经济的必要举措。这一[[Externalization|外部化]]策略的本质是：国内问题被重新包装为对全球趋势的回应，从而赋予改革不可质疑的正当性([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]])。
 
 ---
 

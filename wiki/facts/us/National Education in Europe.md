@@ -138,7 +138,7 @@ updated: 2026-09-07
 ## 实施情况与话语功能转化
 
 > [!actor-grid] 制度[[Transfer Translation Transformation|转译]]矩阵
-> - **汇纂与转译核心** [[Henry Barnard|亨利·巴纳德]]——通过汇集事实充当知识中介。
+> - **汇纂与转译核心** [[Henry Barnard|亨利·巴纳德]]——通过汇集事实充当[[Knowledge Mediation|知识中介]]。
 > - **服务对象** 全美各州立法机关、州立[[Normal School|师范学校]]校长、公立学区督学与广大教育工作者。
 > - **话语功能** 充当美国[[Common School Movement|公学运动]]在制度法典、课程设置与师资考评上的“技术智库”与“合法化依据（legitimating rationales）”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
 > - **衍生制度成果** 直接催生了美国联邦教育局（Office of Education）的统计监测机制，并为各州公立师范学校的正规化建设提供了现成方案。

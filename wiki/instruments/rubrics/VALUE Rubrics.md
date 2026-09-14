@@ -124,4 +124,4 @@ updated: 2026-09-11
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 原始 16 套 VALUE 量规 | 英语（美国） | 本科生 | 16 套独立量规 | 确立 16 项通识能力标准及 4 级描述阶梯 | Rhodes (2009) |
-> | [[OECD]]/CERI [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]量规 | 英语/法语/多语 | 大中小学生 | 领域化与通识量规 | 经 OECD CERI 项目根据国际教学情境改编的专门量规 | Vincent-Lancrin et al. (2019) |
+> | [[OECD]]/CERI [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]量规 | 英语/法语/多语 | 大中小学生 | 领域化与通识量规 | 经 [[Centre for Educational Research and Innovation\|OECD CERI]] 项目根据国际教学情境改编的专门量规 | Vincent-Lancrin et al. (2019) |

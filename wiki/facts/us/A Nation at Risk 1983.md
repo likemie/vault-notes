@@ -81,7 +81,7 @@ updated: 2026-09-12
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1981 年 8 月立项组建委员会，1983 年 4 月正式向里根总统发布报告；发源并立足于美国联邦及各州公共教育系统，但迅速产生全球地缘政治与跨国[[Policy Borrowing|政策借用]]震荡。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 19)]]
-> - **核心当事主体** 美国联邦教育部（United States Department of Education）部长特雷尔·贝尔（Terrel H. Bell）；国家教育卓越委员会（National Commission on Excellence in Education，NCEE，由犹他大学校长戴维·加德纳担任主席的 18 人独立委员会）；里根（Ronald Reagan）政府；地方公立学区与教师联合会。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 234–235)]]
+> - **核心当事主体** 美国联邦教育部（United States Department of Education）部长特雷尔·贝尔（Terrel H. Bell）；国家教育卓越委员会（National Commission on Excellence in Education，[[National Center for Education Evaluation and Regional Assistance|NCEE]]，由犹他大学校长戴维·加德纳担任主席的 18 人独立委员会）；里根（Ronald Reagan）政府；地方公立学区与教师联合会。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 234–235)]]
 > - **深层制度与社会背景** 1970 年代滞胀危机重创美国经济，制造业岗位大量流向西德和日本；冷战科技竞赛与日德工业崛起引发“经济[[Sputnik Shock 1957|斯普特尼克冲击]]”；1980 年里根当选标志着保守主义回潮，[[New Public Management|新公共管理]]（New Public Management，NPM）主张将绩效问责与卓越标准引入公共领域；[[International Education|国际教育]]成就评价协会（[[IEA|International Association for the Evaluation of Educational Achievement]]，IEA）早期测评数据显示美国学生在跨国横向比较中表现平庸。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8, 10)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **直接导火索 / 触发事件** 传统[[Progressive Education|进步主义教育]]在高中课程设置上的碎片化；学术能力评估测试（Scholastic Assessment Test，SAT）平均成绩自 1963 年至 1980 年遭遇长达近二十年的连续下滑；联邦教育部面临被里根政府裁撤的政治危机，教育部长 Bell 试图通过组建独立高级委员会凝聚全国改革共识以保全部门建制。[[Argument_Peterson_1987_OpenCourt_Ch06|(Peterson, 1987, pp. 137–139)]]
 
@@ -91,7 +91,7 @@ updated: 2026-09-12
 
 > [!dev-timeline]- 事件推进历程
 > - **1981–1983 — 委员会组建与危机修辞锻造** 说明从联邦教育部危机自救到发布震撼性冷战战争隐喻报告的过程。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 19)]]
->   - 1981-08 教育部长 T. H. Bell 成立由 18 位大学校长、教育学者及工商界代表组成的国家教育卓越委员会（NCEE），受命评估美国公立学校质量、开展跨国基准比较并制定改革建议。
+>   - 1981-08 教育部长 T. H. Bell 成立由 18 位大学校长、教育学者及工商界代表组成的国家教育卓越委员会（[[National Center for Education Evaluation and Regional Assistance|NCEE]]），受命评估美国公立学校质量、开展跨国基准比较并制定改革建议。
 >   - 1982 委员会在全美举行多场公开听证会，广泛搜集学界、企业界与公众对公立中学基础学科软弱、教师资质不足与有效学习时间偏短的抱怨。
 >   - 1983-04 委员会正式向里根总统呈交报告《国家处于危险之中：教育改革势在必行》，以开篇震撼性的军事战争隐喻将教育提升至国家生存安全战略高度。
 > - **1983–1988 — 国内政策震荡与跨国经验汲取** 说明全美各州核心学术课程改革浪潮与对日本教育的密集危机化借用。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 234–235)]]
@@ -121,7 +121,7 @@ updated: 2026-09-12
 ## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
-> - **改革倡导者 / 联邦保守联盟** 里根政府与国家教育卓越委员会（NCEE） — 将教育与国家经济竞争力及冷战霸权深度绑定，以[[New Public Management|新公共管理]]的[[Technical Rationality|技术理性]]动员社会恐慌，诉求强化核心课程学术严谨度与卓越标准。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8, 10)]]
+> - **改革倡导者 / 联邦保守联盟** 里根政府与国家教育卓越委员会（[[National Center for Education Evaluation and Regional Assistance|NCEE]]） — 将教育与国家经济竞争力及冷战霸权深度绑定，以[[New Public Management|新公共管理]]的[[Technical Rationality|技术理性]]动员社会恐慌，诉求强化核心课程学术严谨度与卓越标准。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8, 10)]]
 > - **专业抵制者 / 传统公教界** [[National Education Association|全美教育协会]]（[[National Education]] Association，NEA）与[[Progressive Education|进步主义教育]]流派 — 指责危机被政治家蓄意夸大制造，批评其将复杂的社会不平等和贫困问题甩锅给公立学校教师，抵制狭隘的标准化测试与绩效问责。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 9)]]
 > - **地方执行者 / 州政府与学区** 各州教育厅长与学区理事会 — 面临来自工商业赞助商与家长的强大问责压力，迅速顺应报告推行“新五门基础课程”（4 年英语、3 年数学、3 年社会研究、3 年科学、半年计算机），并主动探寻现成的优质学术项目（如[[International Baccalaureate|国际文凭]]课程）。[[Argument_Peterson_1987_OpenCourt_Ch06|(Peterson, 1987, pp. 137–139)]]
 > - **跨国中介者 / 国际智库组织** [[OECD|经济合作与发展组织]]（OECD）及教育成就评价国际协会（[[IEA]]） — 从被动的学术研究机构转变为接受主权国家政治委托的[[Policy Brokerage|政策中介]]者，顺势将自身打造成全球[[Performance Indicators|教育指标]]的数据垄断者与裁决者。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -155,7 +155,7 @@ updated: 2026-09-12
 > [!stat-cards]- 核心历史数据
 > - **45 个州** 报告发布后五年内，全美有 45 个州立法提高了公立高中核心学术课程毕业门槛。[[Argument_Peterson_1987_OpenCourt_Ch06|(Peterson, 1987, p. 138)]]
 > - **17 年下滑** 报告披露 SAT 口语与数学平均分自 1963 年至 1980 年遭遇连续 17 年净下滑，被用作指控公立教育平庸的关键数据铁证。
-> - **18 位委员** NCEE 委员会由 18 位跨界代表组成，历时 18 个月全美调研并出具 36 页极具修辞威慑力的微型报告。
+> - **18 位委员** [[National Center for Education Evaluation and Regional Assistance|NCEE]] 委员会由 18 位跨界代表组成，历时 18 个月全美调研并出具 36 页极具修辞威慑力的微型报告。
 > - **1987 专设发布** 美国教育部基于该报告对日本模式的强烈参照，于 1987 年正式出版专著《今日日本教育》（*Japanese Education Today*）。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 235)]]
 > - **30+ 成员国** INES 项目自 1988 年在 OECD 成立后迅速覆盖全部 30 余个发达经济体，演变为《[[Education at a Glance|教育概览]]》与 PISA 帝国。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 10)]]
 

@@ -96,7 +96,7 @@ updated: 2026-09-14
 ## 背景
 
 > [!policy-context] 政策背景
-> - **研发渊源与资金背景** 初始工作基于 2008 至 2011 年间英国经济与社会研究委员会（ESRC）研究者发展计划编制的教育干预发现[[Meta-analysis|元分析]]数据库；2011 年英国政府设立旨在改善经济弱势学生学业差距的“学生津贴”（Pupil Premium）专项公共资金，萨顿信托（Sutton Trust）与杜伦大学学者合作编制了一系列[[Abstract|研究摘要]]指导学校自主规划津贴用途；同年伴随英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]）依托教育部 1.25 亿英镑留本基金创设，该成果被正式升格为常态化运营、持续动态更新的整合型工具包平台。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 46)]]; [[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 110–111)]]
+> - **研发渊源与资金背景** 初始工作基于 2008 至 2011 年间英国经济与社会研究委员会（ESRC）研究者发展计划编制的教育干预发现[[Meta-analysis|元分析]]数据库；2011 年英国政府设立旨在改善经济弱势学生学业差距的“[[Pupil Premium|学生津贴]]”（Pupil Premium）专项公共资金，[[Sutton Trust|萨顿信托]]（Sutton Trust）与杜伦大学学者合作编制了一系列[[Abstract|研究摘要]]指导学校自主规划津贴用途；同年伴随英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]）依托教育部 1.25 亿英镑留本基金创设，该成果被正式升格为常态化运营、持续动态更新的整合型工具包平台。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 46)]]; [[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 110–111)]]
 > - **适用地区 / 对象** 覆盖全英格兰中小学教育体系；核心服务对象为中小学校长、学校高级领导团队（SLT）、一线教师与教研员，旨在指导学校管理层将公共教育经费投向最具实证支持的有效实践。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, p. 19)]]
 > - **问题背景** 回应基础教育中长期存在的教育神话泛滥（如学习风格理论、脑科学商业宣传）与学术[[Document|文献]]碎片化危机，破除实践者检索与解读统计学[[Effect Size|效应量]]的专业门槛，为学校自主决策提供透明客观的因果证据标尺。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 146–147)]]
 > - **制度位置与欧洲证据生态定位** 英国教育部在 Coldwell et al. (2017) 官方报告中将 EEF Toolkit 列为官方认可的核心证据来源之一；在欧洲证据基础设施（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp. 32–33]]）中，Toolkit 被确立为连接因果试验资助、通用策略综述与区域[[Research Schools Network|研究学校网络]]（RSN）推广的枢纽性中介载体。
@@ -141,13 +141,13 @@ updated: 2026-09-14
 ## 时间线
 
 > [!dev-timeline]- 政策发展历程
-> - **2008–2011 — 研发萌芽与学生津贴契机** 杜伦大学学者在 ESRC 资助下建立[[Meta-analysis|元分析]]数据库；英国政府出台“学生津贴”（Pupil Premium）政策，萨顿信托发布首版摘要指南。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 46)]]
+> - **2008–2011 — 研发萌芽与[[Pupil Premium|学生津贴]]契机** 杜伦大学学者在 ESRC 资助下建立[[Meta-analysis|元分析]]数据库；英国政府出台“学生津贴”（Pupil Premium）政策，[[Sutton Trust|萨顿信托]]发布首版摘要指南。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 46)]]
 > - **2011 — [[Education Endowment Foundation|EEF]] 成立与工具包制度化发布** 伴随 EEF 设立，工具包被确立为旗舰在线产品，首创学习月数与成本效益的可视化联盟表，覆盖中小学核心教学策略。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 110–111)]]
 > - **2013 — 纳入[[What Works Network|有效性网络]]（WWN）国家战略** 英国中央内阁办公室设立 What Works Network，EEF Toolkit 成为全英循证治理的公认标杆，Goldacre (2013b) 报告大力推介其证据呈现模式。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, p. 4)]]
-> - **2014 — 拓展早期教育与非学业产出指标** EEF 职责范围向早期教育（Early Years Toolkit）与非学业产出（Non-attainment outcomes）系统延伸，委托开展系统综述以摸排[[Self-control|自我控制]]与韧性测评工具。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
+> - **2014 — 拓展早期教育与非学业产出指标** EEF 职责范围向早期教育（Early Years Toolkit）与非学业产出（Non-attainment outcomes）系统延伸，委托开展[[Systematic Review|系统综述]]以摸排[[Self-control|自我控制]]与韧性测评工具。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 > - **2015 — 早期实施质询与使用模式调研** Cowen & Cartwright (2015) 开展[[In-depth Interview|深度访谈]]，识别出 5 类典型使用模式，并警示工具包去情境化、平均效应误读及与教育标准局（[[Ofsted]]）督导指标脱节的矛盾。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 19–22, 37–40)]]
 > - **2016 — 突破单向推介与创设[[Research Schools Network|研究学校网络]]（RSN）** 意识到单纯挂网无法撬动课堂深层变革，EEF 联合约克大学[[Institute for Effective Education|有效教育研究所]]（IEE）发起设立研究学校网络，推动工具包向校际同伴实践下沉。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 149–150)]]
-> - **2018–2021 — 跨国证据生态扩散与全球本土化网络** 获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的全球教育证据生态计划，支持智利 Summa 将工具箱翻译为西语与葡语并在拉美加勒比地区开展本土因果试验，支持澳大利亚实证学习组织（Evidence for Learning，E4L）构建澳洲本土化工具包。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 49)]]
+> - **2018–2021 — 跨国证据生态扩散与全球[[Going Native|本土化]]网络** 获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的全球教育证据生态计划，支持智利 Summa 将工具箱翻译为西语与葡语并在拉美加勒比地区开展本土因果试验，支持澳大利亚实证学习组织（Evidence for Learning，E4L）构建澳洲本土化工具包。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 49)]]
 > - **2018–2022 — 国际证据门户调查与实施科学深化** Gough & White (2018) 与 [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] 将 Toolkit 确立为国际 15 个证据门户中“通用策略类”的[[Systematic Review|系统综述]]典范；EEF 配套出台实施指南并开展[[Teaching Assistant|助教]]配置等区域规模化战役。（pp. 150, 154–155）
 
 ---
@@ -158,7 +158,7 @@ updated: 2026-09-14
 > - **研发与运维机构** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）核心团队联合杜伦大学等高校专业综述研究团队，负责全球[[Literature Search|文献检索]]、[[Meta-analysis|元分析]]二阶综合与指标折算更新。
 > - **区域推广网络** 全英近 40 所[[Research Schools Network|研究学校网络]]（RSN）及数百名教育证据带头人（ELEs），面向基层学校提供工具包落地研修与进校教练辅导。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]
 > - **核心使用群体** 英格兰及全英数十万名中小学校长、副校长、学科带头人与一线教师。
-> - **政策支撑工具** 英国教育部“学生津贴”（Pupil Premium）自主支配政策将 Toolkit 作为合规与评估推荐工具；EEF 配套发布《学校证据实施指南》。
+> - **政策支撑工具** 英国教育部“[[Pupil Premium|学生津贴]]”（Pupil Premium）自主支配政策将 Toolkit 作为合规与评估推荐工具；EEF 配套发布《学校证据实施指南》。
 
 > [!pathways]- 运作机制与从单向发布向深度护航的演进
 > - **独立元[[Unit of Analysis|分析单元]]运转规程** Toolkit 将每类教学策略作为一个动态追踪的独立元分析单元：
@@ -166,9 +166,9 @@ updated: 2026-09-14
 >   2. 采用倒方差加权计算综合平均[[Effect Size|效应量]]；
 >   3. 运用统计转换公式将效应量标准化为“额外进步月数”；
 >   4. 结合成本与挂锁等级形成多维矩阵排行榜。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 46)]]
-> - **底层元分析局限与 200 余项本土 RCT 反哺回填闭环** Toolkit 初期依赖的元分析综合整合了全球不同国家、学段与质量的研究，存在外部效度局限；为此 EEF 自主资助开展了 200 余项英格兰本土大规模 RCT，建立起将本土高质量因果发现实时回填并动态更新工具包指标的闭环反馈机制。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
+> - **底层元分析局限与 200 余项本土 [[Randomised Controlled Trials|RCT]] 反哺回填闭环** Toolkit 初期依赖的元分析综合整合了全球不同国家、学段与质[[Quantitative Research|量的研究]]，存在[[External Validity|外部效度]]局限；为此 EEF 自主资助开展了 200 余项英格兰本土大规模 RCT，建立起将本土高质量因果发现实时回填并动态更新工具包指标的闭环反馈机制。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 > - **单向发布的失效与多臂因果试验判决** 尽管 Toolkit 在学校端建立了极高知名度，大规模多臂因果[[Randomised Controlled Trials|随机对照试验]]（Lord et al., 2017 “识字八爪鱼”试验，覆盖 800 所小学）实证证实：单纯依靠宣传册、邮件通讯、期刊专栏与网站等单向传播策略，在改善学生统考成绩上效应量为 0。该实证彻底推翻了“只要把工具包推送给教师就能促成改变”的信息赤字[[Hypothesis|假设]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 151–152)]]
-> - **从静态策略筛选向操作化实践指南（Guidance Reports）的三级动员体系** 认识到单纯矩阵表难以直接指导一线操作，EEF 针对关键高优先级领域编制系统实践指南（如小学社会情感学习 SEL 指南、中学读写、早期教育、数学及助教配置），形成“工具包概览筛选 $\to$ 实践指南操作化 $\to$ 研究学校网络落地”的完整转译链条。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 55)]]
+> - **从静态策略筛选向[[Operationalization|操作化]]实践指南（Guidance Reports）的三级动员体系** 认识到单纯矩阵表难以直接指导一线操作，EEF 针对关键高优先级领域编制系统实践指南（如小学[[Social-Emotional Learning|社会情感学习]] SEL 指南、中学读写、早期教育、数学及[[Teaching Assistant|助教]]配置），形成“工具包概览筛选 $\to$ 实践指南操作化 $\to$ 研究学校网络落地”的完整[[Transfer Translation Transformation|转译]]链条。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 55)]]
 > - **深度护航转向** 推动 EEF 从单纯发布产品向自建实施网络（RSN）与区域动员战役转变；例如在[[Teaching Assistant|助教]]循证配置指南推广中，中介团队深入数百所学校重塑排课与协同备课规程，并通过英国财政研究所（IFS）双重差分评估证实达成了显著的学业增益。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 150, 157)]]
 
 > [!finding-cards] 实践中的五种典型使用形态（[[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]）
@@ -203,7 +203,7 @@ updated: 2026-09-14
 > > [!axis] 通用策略综合 vs 打包商业方案审查
 > > 各方对中介平台应聚焦通用策略还是具体商业方案存在分歧。
 > >
-> > - **策略综合立场（EEF / Gough et al., 2022）** 坚持评估反馈、[[Metacognition|元认知]]等通用策略，避免为单一商业产品背书，确保循证指导的普适性与防范商业[[Conflict of Interest in Research|利益冲突]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 154–155)]]
+> > - **策略综合立场（EEF / Gough et al., 2022）** 坚持评估反馈、[[Metacognition|元认知]]等通用策略，避免为单一商业产品背书，确保循证指导的普适性与防范商业利益冲突。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 154–155)]]
 > > - **具名方案立场（[[What Works Clearinghouse|WWC]] / [[Institute for Effective Education|IEE]] E4I）** 认为学校面临的实际决策往往是购买哪套具体教材或软件，中介应提供具体品牌的因果审查。[[Argument_Pellegrini_2021_ROE|(Pellegrini & Vivanet, 2021, p. 33)]]
 >
 > > [!axis] 官僚问责合规凭证 vs 政治道德侧步
@@ -243,7 +243,7 @@ updated: 2026-09-14
 > - [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] — 揭示英国中央政府在选择性[[Grammar School|文法学校]]争议中绕开 Toolkit 严谨实证的道德侧步策略。
 > - [[Argument_Cowen_2019_ERE|Cowen (2019)]] — 从政治社会学透视 Toolkit 为[[New Public Management|新公共管理]]主权问责提供审计合规凭证的制度功能。
 > - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 考察欧洲证据基础设施，将 Toolkit 置于生成、[[Transfer Translation Transformation|转译]]与校际网络协同的生态框架中。
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald, T., & Nevill, C. (2021)]] — 详述 EEF 工具包的运作机制、底层元分析局限性、200 余项本土 RCT 试验的反哺更新闭环、向实践指南（Guidance Reports）的深化，以及与必和必拓基金会（BHP Foundation）合作推进的跨国扩散（智利 Summa 与澳洲 E4L）。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald, T., & Nevill, C. (2021)]] — 详述 EEF 工具包的运作机制、底层[[Meta-analysis|元分析]]局限性、200 余项本土 RCT 试验的反哺更新闭环、向实践指南（Guidance Reports）的深化，以及与[[BHP Foundation|必和必拓基金会]]（BHP Foundation）合作推进的跨国扩散（智利 Summa 与澳洲 E4L）。
 
 ---
 
@@ -256,9 +256,9 @@ updated: 2026-09-14
 > | [[Education Endowment Foundation]] | 事实 | 研发与运维机构；Toolkit 是 EEF 最核心的标志性政策产品与循证工具。 |
 > | [[Research Schools Network]] | 事实 | 下沉实施网络；EEF 为弥补单纯线上工具包挂网的局限而设立的校际同伴网络。 |
 > | [[What Works Network]] | 事实 | 国家治理网络；Toolkit 是英国国家有效性网络在教育领域的旗舰成果。 |
-> | [[BHP Foundation]] | 事实 | 资助组织；2018 年资助 5 年全球教育证据生态项目，支持工具包在拉美（Summa）与澳洲（E4L）的跨国转译。 |
+> | [[BHP Foundation]] | 事实 | 资助组织；2018 年资助 5 年全球教育证据生态项目，支持工具包在拉美（Summa）与澳洲（E4L）的跨国[[Transfer Translation Transformation\|转译]]。 |
 > | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | 来源论证 | 系统阐述工具包的方法学演化、本土试验反哺闭环与跨国生态扩散。 |
-> | [[Self-control]] | 概念 | 核心能力；工具包元认知与社会情感学习策略所依托的非学业核心素养构念。 |
+> | [[Self-control]] | 概念 | 核心能力；工具包[[Metacognition\|元认知]]与[[Social-Emotional Learning\|社会情感学习]]策略所依托的非学业[[21st Century Skills and Competencies Discourse\|核心素养]][[Construct\|构念]]。 |
 > | [[Evidence Standards]] | 概念 | 方法学规范；规范 Toolkit 纳入实证[[Document\|文献]]、加权[[Meta-analysis\|元分析]]与证据安全挂锁评级的准则。 |
 > | [[Evidence-Based Education]] | 概念 | 核心思潮；Toolkit 是当代循证教育运动最具辨识度的标志性政策产品。 |
 > | [[Evidence-Based Reform]] | 理论 | 改革框架；体现了斯莱文改革框架中第三方独立证据清算与方案比较的核心条件。 |

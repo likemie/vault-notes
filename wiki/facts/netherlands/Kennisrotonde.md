@@ -64,7 +64,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> Kennisrotonde（荷兰语"知识环岛"，英文 Knowledge Roundabout）是荷兰国家教育研究所（Netherlands Initiative for Education Research, NRO）于 2015 年设立的实践导向[[Knowledge Mediation|知识中介]]门户，专为一线教师、学校管理者与教育专业工作者提供即需即用的荷兰语研究检索、通俗化摘要与定制问答服务，是国际上将研究证据转化为基层教育实践的代表性制度创新，被[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]列为"基层实践导向型"中介的标志性案例之一。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
+> Kennisrotonde（荷兰语"知识环岛"，英文 Knowledge Roundabout）是[[Netherlands Initiative for Education Research|荷兰国家教育研究所]]（Netherlands Initiative for Education Research, NRO）于 2015 年设立的实践导向[[Knowledge Mediation|知识中介]]门户，专为一线教师、学校管理者与教育专业工作者提供即需即用的荷兰语研究检索、通俗化摘要与定制问答服务，是国际上将研究证据转化为基层教育实践的代表性制度创新，被[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]列为"基层实践导向型"中介的标志性案例之一。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间 / 设立地点** 2015 年正式上线，依托 NRO（Nederlandse Organisatie voor Wetenschappelijk Onderzoek onderwijs，即荷兰国家教育研究所）的在线知识门户平台运作，总部位于荷兰乌得勒支（Utrecht）。
@@ -77,7 +77,7 @@ updated: 2026-09-13
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **2015 — 创设与初始服务上线** NRO 正式启动 Kennisrotonde 知识门户，提供荷兰语研究检索界面与通俗[[Abstract|研究摘要]]数据库，面向一线实践者开放免费使用。
+> - **2015 — 创设与初始服务上线** [[Netherlands Initiative for Education Research|NRO]] 正式启动 Kennisrotonde 知识门户，提供荷兰语研究检索界面与通俗[[Abstract|研究摘要]]数据库，面向一线实践者开放免费使用。
 > - **2016–2019 — 定制问答机制成熟化** 建立标志性的"知识环岛"问答（Q&A）机制：一线教师与学校可在线提交具体的教学实践困惑，由 NRO [[Categorical Funding|委托研究]]人员在规定期限内进行[[Literature Search|文献检索]]与综合分析，提供定制化的荷兰语通俗解答，发布于公开数据库供全网用户共享。被[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]在 [[OECD]] 报告中列为基层实践导向型中介的国际标杆案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
 > - **2020–至今 — 数字化强化与受众拓展** 面向后疫情时代的在线教学转型，持续更新荷兰语教学实践证据库，扩充快速综述（Rapid Reviews）品类，并加强与荷兰各地学校改进网络的联动合作。
 
@@ -86,7 +86,7 @@ updated: 2026-09-13
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构与服务流程
-> - **主管机构** 荷兰国家教育研究所（NRO），受荷兰教育、文化与科学部监管与资助。
+> - **主管机构** [[Netherlands Initiative for Education Research|荷兰国家教育研究所]]（NRO），受荷兰教育、文化与科学部监管与资助。
 > - **编辑与研究团队** 由 NRO 专职[[Knowledge Mediation|知识中介]]研究员及网络合作大学研究人员组成，负责[[Literature Search|文献检索]]、证据评级与通俗化写作。
 > - **问答委托网络** 全荷数十所大学教育学院的研究人员参与定制问答委托，按照 NRO 规定的证据质量评级标准完成[[Document|文献]]综合报告。
 
@@ -102,7 +102,7 @@ updated: 2026-09-13
 > [!finding-cards] Kennisrotonde 核心贡献
 > - **解决语言壁垒** 荷兰语通俗化知识门户有效解决了一线教师因语言障碍无法获取英语学术研究的现实困境，大幅降低了[[Research Utilization|研究利用]]的认知门槛。
 > - **定制问答模式的创新价值** 将被动的证据"推送"（Push）转变为由实践者需求驱动的主动"拉取"（Pull）机制，使[[Research Question|研究问题]]与课堂实践真实需求高度对接；发布为公共知识库后，同类困惑教师均可直接受益。
-> - **作为国际中介模式创新的参照** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]将 Kennisrotonde 与荷兰 NRO 知识门户并列列举，作为"目标受众向基层实践下沉的代表性中介机制"，与英国 [[Education Endowment Foundation|EEF]] [[Research Schools Network|研究学校网络]]及 [[Centre for the Use of Research and Evidence in Education|CUREE]] 等并列，证明非 [[Randomised Controlled Trials|RCT]] 文化导向的证据中介亦可实现高度的课堂采纳与专业影响。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
+> - **作为国际中介模式创新的参照** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]将 Kennisrotonde 与荷兰 [[Netherlands Initiative for Education Research|NRO]] 知识门户并列列举，作为"目标受众向基层实践下沉的代表性中介机制"，与英国 [[Education Endowment Foundation|EEF]] [[Research Schools Network|研究学校网络]]及 [[Centre for the Use of Research and Evidence in Education|CUREE]] 等并列，证明非 [[Randomised Controlled Trials|RCT]] 文化导向的证据中介亦可实现高度的课堂采纳与专业影响。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
 
 ---
 

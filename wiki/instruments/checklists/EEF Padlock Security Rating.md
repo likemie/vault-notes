@@ -91,17 +91,17 @@ updated: 2026-09-14
 
 > [!proc] 核心扣锁指标与风险排查规程
 > 1. **设计类型初评** 只有实施质量合格的 [[Randomised Controlled Trials|RCT]] 设计有资格获得最高 5 把锁起点；[[Quasi-Experimental Designs|准实验设计]]（QED）无论样本规模多大，其初始最高评级通常不得超过 3 把锁。
-> 2. **[[Sample Size Determination|样本量]]与统计功效核查** 审查试验的最小可测效应量（MDES）。若样本量不足导致统计功效低于 80% 或 MDES 过大，直接扣减 1 把锁。
+> 2. **[[Sample Size Determination|样本量]]与统计功效核查** 审查试验的最小可测[[Effect Size|效应量]]（MDES）。若样本量不足导致统计功效低于 80% 或 MDES 过大，直接扣减 1 把锁。
 > 3. **总体[[Attrition|流失]]与差异流失判定** 审查[[Pre-test and Post-test|后测]]学生脱落比例。总体流失率若超过 30%，评级直接下调；若处理组与对照组之间出现统计学显著的差异流失，扣减 1–2 把锁。
 > 4. **基线失衡核查** 检验实验组与对照组在前测统考成绩或核心人口统计学[[Variable|变量]]上的标准化均值差。若基线差异较大且未能在主分析模型中充分校正，扣减 1 把锁。
-> 5. **测量工具效度风险** 若主要结局指标未采用具有广泛[[External Validity|外部效度]]的全国标准化考试（如英格兰国家学生数据库（National Pupil Database，NPD）成绩），而是采用了开发者自行定制、过度贴合干预内容的非标准化测验，扣减 1 把锁。
+> 5. **测量工具效度风险** 若主要结局指标未采用具有广泛[[External Validity|外部效度]]的全国标准化考试（如英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）成绩），而是采用了开发者自行定制、过度贴合干预内容的非标准化测验，扣减 1 把锁。
 > 6. **保真度与污染核查** 若[[Implementation and Process Evaluation|实施与过程评估]]（Implementation and Process Evaluation，IPE）表明对照组大面积接触了类似干预或存在实施严重妥协，视偏倚威胁严重程度扣锁。
 
 ---
 
 ## 政策应用与方法学争议
 
-> [!contrast-table] [[Education Endowment Foundation|EEF]] 挂锁系统与美国 [[What Works Clearinghouse|什么样的有效清算所]]（What Works Clearinghouse，WWC）评级系统的对比（基于 Edovald & Nevill, 2021）
+> [!contrast-table] [[Education Endowment Foundation|EEF]] 挂锁系统与美国 什么样的有效清算所（[[What Works Clearinghouse]]，WWC）评级系统的对比（基于 Edovald & Nevill, 2021）
 > | 比较维度 | 英国 [[Education Endowment Foundation\|EEF]] 挂锁安全评级 | 美国 [[What Works Clearinghouse\|WWC]] 证据标准 |
 > |---|---|---|
 > | **评级形态** | 0 至 5 把锁的连续序数标尺 | 三分类定性判定（Meets Without Reservations / Meets With Reservations / Does Not Meet） |
@@ -112,7 +112,7 @@ updated: 2026-09-14
 
 > [!warning] 方法学争议与单指标局限
 > - **多维偏倚的单维压缩争议** 学术界批评挂锁评级试图用单一数值总结研究质量，可能掩盖不同类型方法学威胁的[[Heterogeneity|异质性]]。例如，两项同为 3 把锁的研究，一项可能是因为[[Sample Size Determination|样本量]]偏小，另一项则可能是因为测量工具效度较弱，其证据性质截然不同（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。
-> - **与不确定性表达的张力** 挂锁评级主要反映主要效应的内部安全性，但难以直观展现统计估计的精确度（[[Confidence Interval|置信区间]]宽度）与情境适用性，在向实践者传递确定性与科学不确定性之间存在长期沟通平衡挑战。
+> - **与不确定性表达的张力** 挂锁评级主要反映主要效应的内部安全性，但难以直观展现统计估计的精确度（[[Confidence Interval|置信区间]]宽度）与情境适用性，在向实践者传递确定性与[[Scientific Uncertainty|科学不确定性]]之间存在长期沟通平衡挑战。
 
 ---
 

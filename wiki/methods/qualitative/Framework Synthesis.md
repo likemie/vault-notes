@@ -88,7 +88,7 @@ updated: 2026-08-26
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Systematic Review|系统综述]]内的证据综合阶段；总体遵循[[PRISMA]]报告框架。
-> - **数据收集** 数据库检索（如 Scopus、Web of Science、ERIC）、筛选与全文获取；通常配合 EPPI-Reviewer 等软件管理。
+> - **数据收集** 数据库检索（如 Scopus、Web of Science、ERIC）、筛选与全文获取；通常配合 [[EPPI-Centre|EPPI]]-Reviewer 等软件管理。
 > - **分析方法** 框架分析（两阶段：描述性特征提取 + 基于先验框架主节点的[[Coding in Qualitative Research|编码]]）；聚合式（aggregative）计数与配置式（configurative）跨层主题识别。
 > - **辅助技术** 双盲筛选、质量评估工具（如[[Mixed Methods Appraisal Tool|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT））、NVivo 编码软件、共识式团队讨论。
 

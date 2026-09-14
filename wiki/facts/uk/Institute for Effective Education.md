@@ -113,7 +113,7 @@ updated: 2026-09-14
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵与代表产品
-> - **Evidence 4 Impact（E4I）有效干预清算数据库** 英国首个针对学校教学方案的因果有效性评价在线门户。采用清晰透明的准入标准，系统评估市场上商业或开源教学软件与课程方案的因果实证水平，为中小学校长合理规划“学生津贴”（Pupil Premium）采购提供第三方客观背书。[[Argument_Pellegrini_2021_ROE|(Pellegrini & Vivanet, 2021, p. 33)]]
+> - **Evidence 4 Impact（E4I）有效干预清算数据库** 英国首个针对学校教学方案的因果有效性评价在线门户。采用清晰透明的准入标准，系统评估市场上商业或开源教学软件与课程方案的因果实证水平，为中小学校长合理规划“[[Pupil Premium|学生津贴]]”（Pupil Premium）采购提供第三方客观背书。[[Argument_Pellegrini_2021_ROE|(Pellegrini & Vivanet, 2021, p. 33)]]
 > - **Evidence in Brief 简明实证通讯** 联合约翰霍普金斯大学教育研究与改革中心（CRRE）定期出版的双月通讯，以极简版面呈现全球关于阅读、数学及行为干预的高质量研究综述，发行覆盖全英数千所中小学校。
 > - **联合运营[[Research Schools Network|研究学校网络]]（RSN）** 与 [[Education Endowment Foundation|EEF]] 联合孵化并在全英布设的校际中介中枢，培育骨干教师担任实证大使，提供同侪进校诊断与长效实施陪伴。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 149–150)]]
 > - **独立第三方 [[Randomised Controlled Trials|RCT]] 评估报告** 承担数十项受 EEF 资助的学校实地干预试验独立评估，以严苛的方法学把关确保因果推论可[[Reliability|信度]]。

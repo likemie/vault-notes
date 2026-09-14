@@ -148,7 +148,7 @@ updated: 2026-09-14
 > | **[[Thematic Synthesis\|主题综合法]]** | 提取质性研究中的初级发现，归纳并建构二阶与三阶描述性及分析性主题 | Thomas & Harden, 2008 |
 > | **[[Framework Synthesis\|框架综合法]]** | 依据预设的先验政策或理论框架，将质性与混合实证文献结构化映射分类 | Carroll et al., 2011 |
 > | **[[Grounded Theory\|扎根理论综合]]** | 跨越多个原始案例应用质性扎根理论的开放与[[Axial Coding\|轴心编码]]生成全新实体理论 | Howell Major & Savin-Baden, 2010 |
-> | **实在论综合（Realist Synthesis）** | 聚焦于“情境—机制—结果”（CMO）构型，探究复杂干预在特定土壤下的因果链条 | Pawson, 2006 |
+> | **[[Realist Evaluation\|实在论综合]]（Realist Synthesis）** | 聚焦于“情境—机制—结果”（CMO）构型，探究复杂干预在特定土壤下的因果链条 | Pawson, 2006 |
 > | **[[Content Analysis\|内容分析综合]]** | 对文本资料中的概念频次、命题结构与政策话语进行显性与隐性内容量化分析 | Miles & Huberman, 1984 |
 > | **质性比较分析综合（[[Qualitative Content Analysis\|QCA]]）** | 运用布尔代数与集合论，探究诱发特定干预结果的多重并发因果条件构型 | Ragin, 2008 |
 
@@ -248,7 +248,7 @@ updated: 2026-09-14
 >   [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022, pp. 154–155)]]与 Gough & White (2018) 对全球 15 个代表性网络证据门户的方法学调查揭示了惊人的实证事实：**仅有 40.0%（6 个）证据门户严格遵循系统综述标准**！其余 60% 均不同程度地退化为单兵研究评定：
 >   - **打包方案类门户的全面塌陷（0% 综述率）** 面向具体商业干预方案（Packaged Programmes）的 5 个门户（如 [[Social Programs That Work]]）**完全未要求系统综述（0%）**，而是 100% 仅凭 1–2 项单兵试验（如 1–2 项高质量 [[Randomised Controlled Trials|RCT]]）就直接定性方案“有效”并授予顶级证据等级。这种做法存在极高的挑选性偏倚风险，完全掩盖了同一干预在其他情境中可能存在的零效应或负效应；
 >   - **通用策略类门户的严谨坚守（100% 综述率）** 聚焦通用策略（Broad Approaches）的 6 个门户（包括英国 [[EEF Teaching and Learning Toolkit|EEF Toolkit]]、[[Early Intervention Foundation|EIF]] Guidebook、College of Policing、CHI、福祉中心以及 Cochrane 图书馆）**100% 严格依托系统综述**与元分析，系统规避了商业机构操纵单兵研究垄断公办采购的弊端。
-> - **临床医学标准（Cochrane / GRADE）的跨学科移植张力** 系统综述发轫于封闭可控的循证医学领域；然而当其偏倚评估与 GRADE 分级体系被机械移植至教育与复杂社会政策领域时，往往导致过度推崇封闭环境下的人工干[[Pilot Testing|预实验]]，而系统性惩罚和贬低具备高度生态效度的复杂[[Qualitative Research|质性研究]]与过程评估，诱发严重的方法学削足适履（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, p. 154]]）。
+> - **临床医学标准（Cochrane / GRADE）的跨学科移植张力** 系统综述发轫于封闭可控的循证医学领域；然而当其偏倚评估与 GRADE 分级体系被机械移植至教育与复杂社会政策领域时，往往导致过度推崇封闭环境下的人工干[[Pilot Testing|预实验]]，而系统性惩罚和贬低具备高度生态效度的复杂[[Qualitative Research|质性研究]]与[[Implementation and Process Evaluation|过程评估]]，诱发严重的方法学削足适履（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, p. 154]]）。
 
 ---
 

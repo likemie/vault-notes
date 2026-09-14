@@ -81,7 +81,7 @@ updated: 2026-09-14
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** EMMIE 框架立足于[[Critical Realism|批判实在论]]（Critical Realism）与情境—机制—结果（CMO）构型理论，承认社会干预的因果机制受情境深度调节，拒绝将平均[[Effect Size|效应量]]直接等同于通用有效性的[[Positivism|实证主义]]还原论。同时，框架并不排斥量化因果效应评估，而是要求将其与机制解释和实施情境分析整合。
 > - **研究者角色** EMMIE 的操作通常由熟悉证据综合与政策评估的研究团队完成，要求具备跨量化（效应评估）与质性（机制解释、实施研究）两类研究的综合阅读能力。
-> - **有效性标准** 每个维度的证据来源必须清晰透明；各维度评价尽量基于[[Systematic Review|系统综述]]而非孤立单项研究；机制与[[Moderator Analysis|调节变量分析]]应来自过程评估或[[Qualitative Research|质性研究]]，不依赖研究者事后推测。
+> - **有效性标准** 每个维度的证据来源必须清晰透明；各维度评价尽量基于[[Systematic Review|系统综述]]而非孤立单项研究；机制与[[Moderator Analysis|调节变量分析]]应来自[[Implementation and Process Evaluation|过程评估]]或[[Qualitative Research|质性研究]]，不依赖研究者事后推测。
 > - **不声称回答的问题** 单一 EMMIE 评价不能替代完整系统综述；在证据极度稀缺的新兴干预领域，调节[[Variable|变量]]（M2）与实施（I）维度可能严重信息不足。
 
 > [!method-stack] 方法层级
@@ -96,7 +96,7 @@ updated: 2026-09-14
 
 > [!feature] EMMIE 五维结构
 > - **Effect（干预效应）** 系统综合该干预策略的因果效应证据：[[Effect Size|效应量]]的大小与方向（正向 / 负向 / 零效应）、[[Confidence Interval|置信区间]]与证据体量；依赖[[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]作为证据基础，避免凭借 1–2 项单兵研究下断言。
-> - **Mechanism（作用机制）** 阐明干预产生效果的内在因果路径：干预通过何种心理、社会、组织或制度机制触发目标人群的行为改变？机制解释须有[[Qualitative Research|质性研究]]或过程评估的实证支撑，而非纯粹理论推演。
+> - **Mechanism（作用机制）** 阐明干预产生效果的内在因果路径：干预通过何种心理、社会、组织或制度机制触发目标人群的行为改变？机制解释须有[[Qualitative Research|质性研究]]或[[Implementation and Process Evaluation|过程评估]]的实证支撑，而非纯粹理论推演。
 > - **Moderator（调节[[Variable|变量]]）** 识别并系统报告影响干预有效性的情境调节因素：该干预在何种人群、机构情境、文化背景或实施密度下效果较佳或较差？[[Moderator Analysis|调节变量分析]]直接服务于"在哪里推广、对谁有效"的[[Transfer Translation Transformation|政策迁移]]判断。
 > - **Implementation（实施条件）** 评价成功落地该干预所需的实施条件：需要哪些组织能力、人员培训、资源配置与制度保障？[[Implementation Fidelity|实施保真度]]（[[Implementation Fidelity]]）门槛是什么？常见实施障碍与促进因素是什么？
 > - **Economics（经济学评价）** 评估干预的成本效益比：单位成本、启动与维持成本估算、与替代方案的成本效用比较；在公共资源有限的政策情境下，经济学评价是循证决策的关键维度之一。（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, p. 150]]）
@@ -127,7 +127,7 @@ updated: 2026-09-14
 > > [!axis] 机制解释证据质量的认定标准
 > > EMMIE 框架要求机制维度（M1）有实证支撑，但在实际证据体稀缺的领域，机制解释往往退化为研究者的理论推测，证据质量无法与[[Effect Size|效应量]]维度（E）并列。
 > >
-> > - **严格机制派** 坚持机制解释必须来自有对照设计的过程评估，否则不应纳入工具包；
+> > - **严格机制派** 坚持机制解释必须来自有对照设计的[[Implementation and Process Evaluation|过程评估]]，否则不应纳入工具包；
 > > - **务实整合派** 主张在证据不足时以透明方式标注机制证据等级，优先提供已有最佳证据，避免让证据空白替代知识积累。
 
 > [!warning] 适用局限

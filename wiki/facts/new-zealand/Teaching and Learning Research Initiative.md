@@ -96,7 +96,7 @@ updated: 2026-09-13
 
 > [!pathways]- 实施路径与管理
 > - **准入门槛刚性把关** 在申请评审阶段严格排除缺乏一线深度参与的纯书斋式方案，确保课题从问题萌生期就扎根于真实的教学痛点。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 109)]]
-> - **跨界研训双向能力培育** 克服传统培训中研究者单向灌输的弊端，在长达数年的课题周期内，研究者深入学习实践现场的复杂性，教师系统掌握行动研究与反思工具。
+> - **跨界研训双向能力培育** 克服传统培训中研究者单向灌输的弊端，在长达数年的课题周期内，研究者深入学习实践现场的复杂性，教师系统掌握[[Action Research|行动研究]]与反思工具。
 > - **成果多形态强制交付** 规定资助结项必须提交双重成果：一套面向学术界的严谨实证报告，一套面向全国学校可直接操作的教学策略指南与微观资源包。
 
 ---
@@ -104,8 +104,8 @@ updated: 2026-09-13
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
-> - **微观教学实践与反思深度转变** 基于对历史受资助项目负责人及参与教师的随机抽样问卷与深度访谈评估，参与教师普遍自陈其日常教学理念、专业信心与课堂师生互动发生了深刻且持久的积极转变。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 109)]]
-> - **跨界研究—实践共同体沉淀** 成功打造了跨越 400 余名核心学者与一线教师的学术-实践复合网络，使新西兰成为 OECD 国家中在教学实践端促进研究利用机制最为丰富的系统之一。
+> - **微观教学实践与反思深度转变** 基于对历史受资助项目负责人及参与教师的[[Random Sampling|随机抽样]][[Questionnaire|问卷]]与[[In-depth Interview|深度访谈]]评估，参与教师普遍自陈其日常教学理念、专业信心与课堂师生互动发生了深刻且持久的积极转变。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 109)]]
+> - **跨界研究—实践共同体沉淀** 成功打造了跨越 400 余名核心学者与一线教师的学术-实践复合网络，使新西兰成为 [[OECD]] 国家中在教学实践端促进[[Research Utilization|研究利用]]机制最为丰富的系统之一。
 > - **能力建设对学生学业的多维正向收益** Cordingley (2016) 的实证综合研究表明，此类伴随专业能力建设的深度教研干预，对学生的学习动机、学科态度、测验表现、自主组织与协作解决问题能力具有统计学显著的正向促进效果。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 110)]]
 
 > [!stat-cards]- 关键实证与跨国对比数据
@@ -119,7 +119,7 @@ updated: 2026-09-13
 ## 争议、局限与经验教训
 
 > [!warning] 局限与方法学反思
-> - **成效测度的主观自陈偏倚** 项目影响力评估数据主要依赖参与者的主观自我陈述（Self-reported survey and interview data），缺乏严格的对照组设计以及针对学生长期学业成就的客观因果追踪。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 109)]]
+> - **成效测度的主观自陈偏倚** 项目影响力评估数据主要依赖参与者的主观自我陈述（Self-reported survey and interview data），缺乏严格的对照组设计以及针对学[[Growth|生长]]期[[Academic Achievement|学业成就]]的客观因果追踪。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 109)]]
 > - **资金总体规模与系统辐射瓶颈** 每年仅约 150 万新西兰元的总资助池（2021 年仅资助 5 个课题），相对于全国各学段庞大的学校与教师体量而言覆盖面仍然偏小，优质经验向全系统常规学校扩散的辐射机制仍面临可扩展性挑战。
 
 > [!lessons] 机制设计启示
@@ -137,7 +137,7 @@ updated: 2026-09-13
 > | [[Best Evidence Synthesis]] | 同国政策事实 | 新西兰教育部另一旗舰循证知识综合工程，与 TLRI 形成系统证据与本土实践研究的双轨支撑。 |
 > | [[Teacher-as-Researcher]] | 教师专业概念 | TLRI 将一线教师从单纯的知识被动受体提升为平等的合作探究者。 |
 > | [[Action Research]] | 研究方法 | 参与课题的一线教师在现场普遍采用的实践探究与反思工具。 |
-> | [[Typology of Factors Influencing Research Use]] | 分析框架 | TLRI 作为互动维度与结构资助维度深度结合的代表性跨国机制案例被收录。 |
-> | [[Education Endowment Foundation]] | 跨国对比机构 | 英国教育捐赠基金会，代表了另一种以大规模随机对照试验为特色的证据转化机构。 |
-> | [[Complexity Theory]] | 理论范式 | 为 TLRI 所强调的非线性交互、多主体自组织与涌现性实践改进提供了理论透镜。 |
+> | [[Typology of Factors Influencing Research Use]] | [[Analytic Framework\|分析框架]] | TLRI 作为互动维度与结构资助维度深度结合的代表性跨国机制案例被收录。 |
+> | [[Education Endowment Foundation]] | 跨国对比机构 | 英国教育捐赠基金会，代表了另一种以大规模[[Randomised Controlled Trials\|随机对照试验]]为特色的证据转化机构。 |
+> | [[Complexity Theory]] | 理论[[Paradigm\|范式]] | 为 TLRI 所强调的非线性交互、多主体自组织与[[Emergence\|涌现性]]实践改进提供了理论透镜。 |
 

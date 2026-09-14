@@ -79,7 +79,7 @@ updated: 2026-08-27
 
 > [!instrument-items] 作答规则
 > - **Section 1 [[Critical Thinking|批判性思维]]题型设计** 采用日常、公共政策与科学争论材料，要求考生在 5 个选项中精确识别支持或削弱结论的前提条件。
-> - **计分体系** Section 1 与 Section 2 采用 [[Rasch Measurement|Rasch 模型]]标定为 1.0（最低）至 9.0（最高）的标准分；Section 3 输出双重等级（如 4A）。
+> - **计分体系** Section 1 与 Section 2 采用 Rasch 模型标定为 1.0（最低）至 9.0（最高）的标准分；Section 3 输出双重等级（如 4A）。
 
 ---
 

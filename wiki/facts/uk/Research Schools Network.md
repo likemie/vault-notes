@@ -106,7 +106,7 @@ updated: 2026-09-14
 > [!pathways]- 业务运行机制与实施链路
 > - **同伴示范与校际开放日** 举办公开示范活动，让周边学校校长与教师现场观摩基于 EEF 实证证据（如[[Metacognition|元认知]]训练、结构化同伴辅导、支架式提问教学）的课堂真实教学场景。
 > - **阶梯式持续专业发展（Multi-day Stepped CPD）** 开展为期数月的阶梯式研修项目，指导教师系统掌握“诊断校本问题 $\rightarrow$ 检索匹配证据 $\rightarrow$ 制定实施计划 $\rightarrow$ 监测评估成效”的完整循证循环。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 150)]]
-> - **定制化入校辅导与资源规划教练** 派出证据带头人深入薄弱学校，协助管理层科学规划“学生津贴”（Pupil Premium）预算投向，确保公共资源精准投向经过严谨因果验证的干预措施。
+> - **定制化入校辅导与资源规划教练** 派出证据带头人深入薄弱学校，协助管理层科学规划“[[Pupil Premium|学生津贴]]”（Pupil Premium）预算投向，确保公共资源精准投向经过严谨因果验证的干预措施。
 > - **四阶段实施科学规程（Explore-Prepare-Deliver-Sustain）** 指导学校告别盲目跟风引入外部新项目的做法，按照探索（严谨诊断需求）、准备（制定方案与调整排课）、交付（微观课堂实践支持）与维持（长效机制制度化）四个阶段扎实推进教改。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]
 
 > [!theory-components]- [[COM-B Model|COM-B]] 行为改变支撑机制（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, pp. 152–153]]）

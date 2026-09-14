@@ -71,7 +71,7 @@ updated: 2026-09-04
 ## 在国家科技政策治理中的制度角色
 
 > [!claim] 核心功能
-> 科学认知组织在英国科学咨询生态中扮演了独特的“独立看门人”（Watchdog）角色，既协助政府和科学家提升面向公众的语言通俗度与[[Scientific Uncertainty|不确定性沟通]]，又对决策者选择性挑选证据（cherry-picking）进行尖锐的外部公共问责。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 88)]]
+> 科学认知组织在英国科学咨询生态中扮演了独特的“独立看门人”（Watchdog）角色，既协助政府和科学家提升面向公众的语言通俗度与不确定性沟通，又对决策者选择性挑选证据（cherry-picking）进行尖锐的外部公共问责。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 88)]]
 
 > [!pathways] 皇家学会 2026 报告中的核心定位
 > - **建议十五明确指定的国家独立监督伙伴** 皇家学会第 15 项建议明确要求国家学术院联合科学认知组织（Sense about Science）与政府研究所（IfG），对政府政策中的科学证据质量与公开透明度展开常态化独立第三方审计。

@@ -138,5 +138,5 @@ updated: 2026-08-21
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — Blueprints 在 12 个清算中心中代表了“严出导向（[[Selectivity]]）”与临床级最高标准模式([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。
-> - [[Internal Validity]] 与 [[Construct Validity]] — [[Evaluator Independence|独立评估者]]复制有效规避了[[Publication Bias|发表偏倚]]与[[Conflict of Interest in Research|利益冲突]]导致的[[Effect Size|效应量]]虚高。
+> - [[Internal Validity]] 与 [[Construct Validity]] — [[Evaluator Independence|独立评估者]]复制有效规避了[[Publication Bias|发表偏倚]]与利益冲突导致的[[Effect Size|效应量]]虚高。
 > - [[Intent-to-Treat Analysis]] — Blueprints 将 ITT 作为核心分析规范，防范依从性偏倚。

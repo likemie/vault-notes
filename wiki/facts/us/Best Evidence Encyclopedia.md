@@ -147,10 +147,10 @@ updated: 2026-09-14
 
 > [!debates] 学术争议与利益相关性讨论
 >
-> > [!axis] 学者双重身份与潜在[[Conflict of Interest in Research|利益冲突]]
+> > [!axis] 学者双重身份与潜在利益冲突
 > > 争论由特定干预开发者主导的清算机构是否能保持评价的中立性。
 > >
-> > - **学术批评者** 指出 [[Robert Slavin]] 既是 *[[Success for All]]*（SFA，BEE 中[[Effect Size|效应量]]最高的旗舰项目之一）的开发者，又是 BEE 与 Evidence for ESSA 的创立者与评级主管，存在潜在的利益冲突（Conflict of Interest）([[Argument_Slavin_2019_EP|Slavin, 2019, p. 175]])。
+> > - **学术批评者** 指出 [[Robert Slavin]] 既是 *[[Success for All]]*（SFA，BEE 中[[Effect Size|效应量]]最高的旗舰项目之一）的开发者，又是 BEE 与 Evidence for ESSA 的创立者与评级主管，存在潜在的利益冲突（[[Conflict of Interest in Research|conflict of interest]]）([[Argument_Slavin_2019_EP|Slavin, 2019, p. 175]])。
 > > - **BEE 团队回应** 强调 BEE 严格执行透明公开的[[Meta-analysis|元分析]][[Coding in Qualitative Research|编码]]规则与同行评审出版机制，所有数据与加权计算完全公开可查，其评级结论在 [[What Works Clearinghouse|WWC]] 等独立政府机构中亦获得高度独立印证。
 >
 > > [!axis] 元分析效应量合成 vs 微观分域审查

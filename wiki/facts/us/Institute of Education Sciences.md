@@ -100,7 +100,7 @@ related_arguments:
 
 > [!actor-grid] 组织治理架构
 > - **决策领导层（Director）** 由美国总统提名并经参议院确认的院长全面统筹，主持制定战略科研资助重点、规程标准与审查导向。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
-> - **四大常设国家研究中心** 统辖国家教育研究中心（National Center for Education Research, NCER）、国家教育统计中心（National Center for Education Statistics, NCES）、国家特殊教育研究中心（National Center for Special Education Research, NCSER）以及国家教育评估与地区资助中心（National Center for Education Evaluation and Regional Assistance, NCEE）。
+> - **四大常设国家研究中心** 统辖国家教育研究中心（National Center for Education Research, NCER）、国家教育统计中心（National Center for Education Statistics, NCES）、国家特殊教育研究中心（National Center for Special Education Research, NCSER）以及国家教育评估与地区资助中心（[[National Center for Education Evaluation and Regional Assistance]], NCEE）。
 > - **证据转化与清算枢纽** 由 NCEE 统筹监管[[What Works Clearinghouse|有效干预清算中心]]（WWC）与教育资源信息中心（Education Resources Information Center, ERIC），执行高标准的[[Evaluator Independence|第三方独立评估]]与证据评级。
 > - **独立监督与同行评审委员会** 设立国家教育科学委员会（National Board for Education Sciences, NBES），由独立学者与公众代表组成，监督科研资助的公正性、科学严谨性与非党派属性。
 
@@ -176,7 +176,7 @@ related_arguments:
 > > - **批评视角（反方）** 批判与实践取向学者指出，IES 长期将随机对照试验（RCT）奉为绝对金标准，过度聚焦内部效度，将学校课堂复杂的生态情境视作需要排除的噪音，导致黑箱化；昂贵冗长的实验周期亦难以快速响应一线政策与课堂紧迫的即时挑战。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 204–205, 208)]]
 > > - **机构立场（正方）** IES 院长[[Mark Schneider|施奈德]]强调，离开严谨的[[Causality|因果推断]]，教育政策就会沦为未经验证的直觉与时尚；同时 IES 正通过 SEER 改革走出单纯 RCT 的狭隘误区，通过要求详尽记录实施反差、[[Counterfactual|反事实]]情境并依托数字平台开展快速试错迭代，兼顾科学严密性与情境[[Ecological Validity|生态效度]]。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–208)]]
 >
-> > [!axis] 统计正态化追求均值 vs 离群弱势群体的受托照护
+> > [!axis] [[Statistical Normalisation|统计正态化]]追求均值 vs 离群弱势群体的受托照护
 > > 批评该机构植根于大样本[[Statistical Significance|统计显著性]]与正态分布[[Hypothesis|假设]]的研究规程，是否会系统性遮蔽处于两端的极端处境不利群体。
 > >
 > > - **批评视角（反方）** 友利田真木人（Makito Yurita）等批判学者指出，以大样本统计与可用性为基准的科研取向，追求的是总体均值效应与主流群体的干预效率，极易将少数族裔、被剥夺权利者及特殊需求学生贬斥为统计离群值，背离了教育作为公共服务对弱势群体承担的受托照护使命。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 225–227)]]
@@ -205,4 +205,4 @@ related_arguments:
 > | [[Democratising Evidence]] | Concept | 针对 IES 传统因果垄断取向的反思与多元循证生态改革思潮 |
 > | [[Research-Practice Partnership]] | Concept | 弥合 IES 线性证据转化断层、强调双向协同的研究实践伙伴关系 |
 > | [[Mark Schneider]] | Person | IES 现任兼代表性院长，主导研制推行 SEER 循证卓越标准 |
-> | [[ESSA 2015 Evidence Standards|Every Student Succeeds Act]] | Fact (Policy) | 美国联邦重大教育法案，法定确立采用 IES/WWC 四级循证证据标准 |
+> | [[ESSA 2015 Evidence Standards\|Every Student Succeeds Act]] | Fact (Policy) | 美国联邦重大教育法案，法定确立采用 IES/WWC 四级循证证据标准 |
