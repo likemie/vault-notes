@@ -264,7 +264,7 @@ updated: 2026-09-14
 > [!info] 实践者解释中的效应量与安全锁互补机制
 > 在学校采购和项目评价中，教育产品消费者并不总能理解效应量和统计显著性等有效性指标，也常觉得正式证据来源缺少实施要求、使用满意度、成本和情境信息。效应量因此不是“读者看到数字就能行动”的指标，而需要和项目目标、使用强度、对照条件、测量工具和地方需求一起解释([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 >
-> 针对单一指标沟通的局限，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》与官方评估报告中，建立了**效应量（额外学习月数）与[[EEF Padlock Security Rating|挂锁安全评级]]（Padlock Rating）**的二元互补机制（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。实践者不能仅凭孤立的效应量大小做决策：一个看似巨大的效应量（如 $d = 0.50$）若仅获得 1 把锁，说明其面临严重的样本量不足、高流失率或未预注册等偏倚风险；反之，一个微弱的效应量（如 $d = 0.06$）若拥有 4 或 5 把安全锁（高统计功效、低流失、预注册分析与独立实施），则反映了在真实常态教学基线下的高确定性因果证据。这种将“效应量大小”与“因果证据安全性”解耦并列的双轨呈现，有效避免了决策者对孤立统计量或 $p < 0.05$ 门槛的机械迷信（Wasserstein et al., 2019）。
+> 针对单一指标沟通的局限，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》与官方评估报告中，建立了**效应量（额外学习月数）与[[EEF Padlock Security Rating|挂锁安全评级]]（Padlock Rating）**的二元互补机制（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。实践者不能仅凭孤立的效应量大小做决策：一个看似巨大的效应量（如 $d = 0.50$）若仅获得 1 把锁，说明其面临严重的[[Sample Size Determination|样本量]]不足、高[[Attrition|流失]]率或未[[Preregistration|预注册]]等偏倚风险；反之，一个微弱的效应量（如 $d = 0.06$）若拥有 4 或 5 把安全锁（高统计功效、低流失、预注册分析与独立实施），则反映了在真实[[Business as Usual|常态教学]]基线下的高确定性因果证据。这种将“效应量大小”与“因果证据安全性”解耦并列的双轨呈现，有效避免了决策者对孤立统计量或 $p < 0.05$ 门槛的机械迷信（Wasserstein et al., 2019）。
 
 > [!example]
 > 一个补充性教育技术项目可能只在每周少量课堂时间中使用。若它在标准化[[Achievement and Aptitude Tests|成就测验]]上的效应量很小，这不必然说明项目无价值；它可能主要改善学生动机、释放教师个别辅导时间或增加技术接入公平。反过来，一个较大的效应量若来自低质量对照组，也不能直接说明项目在本地学区一定值得采购([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]])。
@@ -307,7 +307,7 @@ updated: 2026-09-14
 >
 > - 36% 的教育干预随机对照试验标准化[[Academic Achievement|学业成就]]效应量小于 0.05，这比"小/中/大"标签更应成为解释政策相关性的核心基准([[Argument_Kraft_2023_ER|Kraft, 2023, p.183]])
 > - 教育随机对照试验效应量分布的中位数约为 0.10；美国教育部委托的研究子样本中位数仅为 0.03，说明发表[[Document|文献]]中的效应量分布可能因[[Publication Bias|发表偏倚]]而偏向较大正值([[Argument_Kraft_2023_ER|Kraft, 2023, p.186]])
-> - **英美 141 项大型教育 RCT 元再分析** Lortie-Forgues & Inglis (2019) 对英国 EEF 和美国国家教育评估与区域援助中心（NCEE）委托资助的 141 项大规模现场试验（涵盖 1,222,024 名学生）进行系统元再分析，发现平均成就效应量仅为 0.06 个标准差（$d = 0.06$），平均 95% 置信区间宽达 0.30 个标准差（平均区间为 $[-0.09, +0.21]$），且只有 23% 的试验结果在统计学上显著大于零（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 112]]；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 56–57]]）。这一全样本分布证实：在消除了开发者利益冲突与独立严格实施的真实学校生态中，微弱效应量属于常态而非例外
+> - **英美 141 项大型教育 RCT 元再分析** Lortie-Forgues & Inglis (2019) 对英国 [[Education Endowment Foundation|EEF]] 和美国[[National Center for Education Evaluation and Regional Assistance|国家教育评估与区域援助中心]]（NCEE）委托资助的 141 项大规模现场试验（涵盖 1,222,024 名学生）进行系统元再分析，发现平均成就效应量仅为 0.06 个标准差（$d = 0.06$），平均 95% [[Confidence Interval|置信区间]]宽达 0.30 个标准差（平均区间为 $[-0.09, +0.21]$），且只有 23% 的试验结果在统计学上显著大于零（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 112]]；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 56–57]]）。这一全样本分布证实：在消除了开发者利益冲突与独立严格实施的真实学校生态中，微弱效应量属于常态而非例外
 > - 95% 的效应量为正，几乎所有被纳入的因素似乎都有正面效应，只是程度不同([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])
 
 ---
@@ -327,7 +327,7 @@ updated: 2026-09-14
 > [!claim] [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]]
 > Cheung & Slavin（2016）、de Boer, Donker & van der Werf（2014）、Li & Ma（2010）等多个[[Meta-analysis|元分析]]发现自编测量产生的效应量比独立测量高 **0.20–0.29** 标准差。de Boer et al.（2014）发现其综述中 180 个测量中约三分之二是研究者或开发者自编的（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 431]]）。例：同一数学干预使用项目团队自编测试时效应量可能为 +0.45，使用州标准化测试时可能仅为 +0.20。
 > [!claim] [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]]
-> **独立高外部效度测验与行政统考对接规程** 针对自编测量系统性虚增效应量的顽疾，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）早在 2012 年即出台严格的《评估测验选用指南》（The EEF, 2012b；Edovald & Nevill, 2021, p. 54）。指南硬性规定：试验的主要学业产出指标严禁采用开发者或评估团队自编的非标准化测验，必须选用具有广泛[[External Validity|外部效度]]、与英格兰国家关键考试（GCSE 或国家学生数据库（NPD）核心统考成绩）高度相关的全国商业标准化测验或官方行政统考，并严格排查天花板效应与地板效应。这一制度安排从源头上锁死了通过定制贴合干预内容的近端测验来人为推高效应量的投机空间。
+> **独立高[[External Validity|外部效度]]测验与行政统考对接规程** 针对自编测量系统性虚增效应量的顽疾，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）早在 2012 年即出台严格的《评估测验选用指南》（The EEF, 2012b；Edovald & Nevill, 2021, p. 54）。指南硬性规定：试验的主要学业产出指标严禁采用开发者或评估团队自编的非标准化测验，必须选用具有广泛[[External Validity|外部效度]]、与英格兰国家关键考试（GCSE 或[[National Pupil Database|国家学生数据库]]（NPD）核心统考成绩）高度相关的全国商业标准化测验或官方行政统考，并严格排查天花板效应与地板效应。这一制度安排从源头上锁死了通过定制贴合干预内容的近端测验来人为推高效应量的投机空间。
 
 ---
 

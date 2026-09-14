@@ -54,7 +54,7 @@ updated: 2026-09-12
 ## 定义
 
 > [!def] 方法定义
-> **KMO 抽样适宜性度量与巴特利特球形度检验（KMO and Bartlett's Test of Sphericity）** 是在执行[[Exploratory Factor Analysis|探索性因子分析]]（[[Education for All|EFA]]）或主成分分析（PCA）之前，用于检验多[[Variable|变量]]相关矩阵是否具备可因子化性（Factorability）的标准前置诊断规程。KMO 度量观测变量之间的偏相关程度是否足够低，以确保存在紧密的公共因子结构；Bartlett 球形度检验则从全局推断样本相关矩阵是否显著异于变量互不相关的单位矩阵（Identity Matrix）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 5)]]
+> **KMO 抽样适宜性度量与巴特利特球形度检验（KMO and Bartlett's Test of Sphericity）** 是在执行[[Exploratory Factor Analysis|探索性因子分析]]（EFA）或主成分分析（PCA）之前，用于检验多[[Variable|变量]]相关矩阵是否具备可因子化性（Factorability）的标准前置诊断规程。KMO 度量观测变量之间的偏相关程度是否足够低，以确保存在紧密的公共因子结构；Bartlett 球形度检验则从全局推断样本相关矩阵是否显著异于变量互不相关的单位矩阵（Identity Matrix）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 5)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含 3 个及以上连续或有序分类题项的相关矩阵（Correlation Matrix $\mathbf{R}$）。

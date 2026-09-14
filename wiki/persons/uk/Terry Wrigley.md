@@ -105,7 +105,7 @@ updated: 2026-09-14
 > - [[Evidence-Based Education]] — 补充 Biesta 的哲学批判（三重缺陷）和 Cowen 的制度批判（官僚功能），提供**方法论内部的三层级技术解构**（2018）和**科学哲学层面的"简单科学观"批判**（2019）
 > - [[Evidence-Based Reform]] — 直接针对 [[EEF Teaching and Learning Toolkit]] 和 Hattie [[Visible Learning]] 提供技术批评（Simpson [[Effect Size|效应量]]问题、Blatchford [[Teaching Assistant|教学助理]]被误用、体育参与案例等）
 > - [[Effect Size]] — 与 Simpson 的技术批判配合，通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例展示效应量从原始研究到[[Meta-meta-analysis|元-元分析]]的三级聚合失真
-> - **Pawson 的实在论综合（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于因果理论而非统计平均
+> - **Pawson 的[[Realist Evaluation|实在论综合]]（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于因果理论而非统计平均
 > - **文化-历史[[Third Generation Activity Theory|活动理论]]（CHAT）** — 将 Engeström 的活动理论与[[Critical Realism|批判实在论]]结合，为教育研究提供更丰富的[[Ontology|本体论]]框架
 > - [[Moral Sidestep]] — 其对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中证据"被回避"问题的理论基础
 
@@ -130,6 +130,6 @@ updated: 2026-09-14
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **替代方案的具体性不足** Wrigley 推崇 Pawson 的"实在论综合"作为统计[[Meta-analysis|元分析]]的替代，但未讨论如何将其简化为一线教师可用的工具——实在论综合比"计算平均[[Effect Size|效应量]]并放入排名表"复杂得多。
+> - **替代方案的具体性不足** Wrigley 推崇 Pawson 的"[[Realist Evaluation|实在论综合]]"作为统计[[Meta-analysis|元分析]]的替代，但未讨论如何将其简化为一线教师可用的工具——实在论综合比"计算平均[[Effect Size|效应量]]并放入排名表"复杂得多。
 > - **对量化方法的全面不信任** 论文论证火力几乎全部指向统计方法的缺陷，在 [[Evidence-Based Education|EBE]] 辩论中容易被定位为"反量化"而非"方法多元"——尽管 Wrigley 明确承认"数字本身不是问题"。
 > - **[[ResearchED]] 分析的简化** 将 ResearchED 定性为服务于政府议程的"草根运动"可能低估了一线教师主动参与 ResearchED 的专业自主性。

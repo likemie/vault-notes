@@ -34,7 +34,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究中的"第三空间"（third spaces）、研究-政策-实践的混合活动设计、替代性学习结果测量。
+> - **身份位置** 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究中的"[[Third Space Discourse|第三空间]]"（third spaces）、研究-政策-实践的混合活动设计、替代性学习结果测量。
 
 ## 核心思想
 
@@ -45,7 +45,7 @@ updated: 2026-09-11
 
 > [!success] 主要贡献
 > - 共同编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*（2016）
-> - 提出研究、政策和专业发展在"第三空间"中通过混合活动融合的框架
+> - 提出研究、政策和专业发展在"[[Third Space Discourse|第三空间]]"中通过混合活动融合的框架
 
 ## 主要著作
 

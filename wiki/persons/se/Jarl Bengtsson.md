@@ -111,7 +111,7 @@ updated: 2026-09-12
 > - **1992–2002 — 成果导向与跨国评价帝国（[[PISA]]）的孵化** 坚信没有真实技能评估的指标体系是不完整的，力排众议将大规模跨国测评纳入 OECD 常态业务体系。
 >   - **代表著作** *[[Centre for Educational Research and Innovation|CERI]]: Forty Years of Educational Innovation and Research* (OECD, 2008)。
 >   - **关键概念／方法** [[PISA]]、[[Governing by Numbers|governance by numbers]]、[[Soft Power by Hard Facts]]。
->   - **阶段转向** 成功将 OECD 打造为超越任何主权政府与国际机构的全球超级知识中介，奠定后冷战时期数字治理 2.0 的全部技术底座。
+>   - **阶段转向** 成功将 OECD 打造为超越任何主权政府与国际机构的全球超级[[Knowledge Mediation|知识中介]]，奠定后冷战时期数字治理 2.0 的全部技术底座。
 
 ---
 

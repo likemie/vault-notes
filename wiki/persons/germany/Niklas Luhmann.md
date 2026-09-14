@@ -75,7 +75,7 @@ updated: 2026-09-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国社会学家，比勒费尔德大学社会学终身教授，社会[[Luhmann's Systems Theory|系统理论]]与[[Radical Constructivism|激进建构主义]]理论家，20 世纪后半叶最具原创性与体系性的宏大社会理论大师之一。
-> - **核心角色** 在现代社会学、教育哲学、比较教育学与政策社会学中，为解构社会功能系统的自指性运作（Self-referential operations）、教学与学习的根本[[Incommensurability|不可通约性]]、教育的技术赤字以及跨国[[Policy Borrowing|政策借用]]中的[[Externalization|外化]]合法化机制提供了深厚而严密的理论底座。
+> - **核心角色** 在现代社会学、教育哲学、比较教育学与政策社会学中，为解构社会功能系统的自指性运作（Self-referential operations）、教学与学习的根本[[Incommensurability|不可通约性]]、[[Technology Deficit of Education|教育的技术赤字]]以及跨国[[Policy Borrowing|政策借用]]中的[[Externalization|外化]]合法化机制提供了深厚而严密的理论底座。
 > - **代表贡献** 创立 卢曼社会系统理论、提出 [[Autopoiesis|自创生]] 沟通系统与 [[Structural Coupling|结构耦合]]、阐发 观察的盲点、提出“教育的技术赤字”（Technologiedefizit）与“外化命题与准外部参照点”（Externalisation thesis）。
 
 > [!citation-card]- 人物定位的关键来源
@@ -94,7 +94,7 @@ updated: 2026-09-11
 > - **1966** 在斯佩尔高级行政学院短暂进修后，于明斯特大学以单日破纪录完成博士答辩与教授任职资格（Habilitation）。
 > - **1968–1993** 获聘为新建的比勒费尔德大学社会学首任讲席教授。自入职起即宣称其毕生研究计划是“社会理论，耗时 30 年，成本零”，在随后的三十年间创立了规模宏大、概念精密的[[Autopoiesis|自创生]][[Luhmann's Systems Theory|系统理论]]大厦。
 > - **1971** 与[[Jürgen Habermas|哈贝马斯]]（[[Jürgen Habermas]]）开展世纪学术大论辩，出版论辩集《社会理论还是社会工程》（*Theorie der Gesellschaft oder Sozialtechnologie*）。
-> - **1979** 与卡尔-埃伯哈德·肖尔（Karl-Eberhard Schorr）联合出版《教育系统的反思问题》（*Reflexionsprobleme im Erziehungssystem*），将系统论批判性引入教育学界，提出教育的技术赤字假说。
+> - **1979** 与卡尔-埃伯哈德·肖尔（Karl-Eberhard Schorr）联合出版《教育系统的反思问题》（*Reflexionsprobleme im Erziehungssystem*），将系统论批判性引入教育学界，提出[[Technology Deficit of Education|教育的技术赤字]]假说。
 > - **1984** 出版里程碑式理论巨著《社会系统》（*Soziale Systeme*），确立以沟通（Communication）而非行动为基石的自创生系统理论[[Paradigm|范式]]。
 > - **1997** 出版集大成著作《社会的社会》（*Die Gesellschaft der Gesellschaft*），完成其三十年学术宏愿。
 > - **1998** 于德国北威州厄灵豪森逝世，享年 70 岁。
@@ -107,7 +107,7 @@ updated: 2026-09-11
 > [!work-line] 主要著作
 > | 年份 | 著作 | 核心贡献与问题意识 | 关联条目 |
 > |---|---|---|---|
-> | 1979 | *Reflexionsprobleme im Erziehungssystem*（与 K.-E. Schorr 合著） | 系统提出**教育的技术赤字（Technologiedefizit der Erziehung）**假说，揭示教育因果链条在当下的不可实证性与制度性焦虑。 | [[Blind Spot in Observation]]；[[Policy Borrowing]] |
+> | 1979 | *Reflexionsprobleme im Erziehungssystem*（与 K.-E. Schorr 合著） | 系统提出**[[Technology Deficit of Education\|教育的技术赤字]]（Technologiedefizit der Erziehung）**假说，揭示教育因果链条在当下的不可实证性与制度性焦虑。 | [[Blind Spot in Observation]]；[[Policy Borrowing]] |
 > | 1984/1995 | *Soziale Systeme*（英译 *Social Systems*, 1995） | 奠定[[Autopoiesis\|自创生]][[Luhmann's Systems Theory\|系统理论]]的[[Epistemology\|认识论]]框架；系统论述系统通过**[[Externalization\|外化]]（Externalisation）**在内部建构准外部参照点的功能机制。 | [[Luhmann's Systems Theory]]；[[Autopoiesis]] |
 > | 1997 | *Die Gesellschaft der Gesellschaft* [社会的社会] | 全面阐发**观察的盲点（Blinder Fleck）**、二阶观察机制与现代社会的功能分化，批判天真唯实论的[[Objectivism\|客观主义]]认知。 | [[Epistemology]]；[[Incommensurability]] |
 > | 2002 | *Das Erziehungssystem der Gesellschaft* [社会的教育系统] | 论证社会沟通系统与个体心理系统的**根本不可通约性**，解构将教学与学习视为因果机械联动的技术主义迷思。 | [[Structural Coupling]]；[[Visible Learning]] |
@@ -124,7 +124,7 @@ updated: 2026-09-11
 >
 > *“Der Beobachter kann sich selbst beim Beobachten nicht sehen” (Luhmann, 1997, p. 69). Every observation is based on a blind spot: the condition of seeing something is that you establish a distinction between what is seen and what is not seen.*
 
-> [!citation-card] 教育的技术赤字与不确定性管理
+> [!citation-card] [[Technology Deficit of Education|教育的技术赤字]]与不确定性管理
 > 教育系统天然容易陷入高度的不确定性，因为它宣称在为未来做准备。如果将技术理解为将输入可靠转化为预期产出的装置，那么教育的技术赤字便显露无疑。教育因果链条逃逸了当下的实证检验，迫使[[Policy Brokerage|政策中介]]必须把未来描绘为当下不稳定状态的逻辑延伸，从而兜售‘切实可行’的实证研究证据与行动处方，以抚平社会系统的决策焦虑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 >
 > *If we conceive of technology as the device that turns inputs into desired outcomes, the ‘technology deficit of education’ (Luhmann and Schorr 1979) becomes glaring... The long list of ‘actionable research evidence’ may be understood against the backdrop that the belief in practical actions in the present helps mitigate the uncertainty about the future.*
@@ -150,7 +150,7 @@ updated: 2026-09-11
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 动用卢曼的盲点理论与社会/心理系统不可通约论，系统解构[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Visible Learning|可见的学习]][[Paradigm|范式]]，揭示实证主义[[Evidence-Based Education|循证教育]]对教育复杂性的盲视与“超积极可见性意识形态”。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合卢曼与肖尔（1979）的教育技术赤字论，揭示教育因果逃逸当下检验如何制造制度焦虑并促成政策中介的繁荣；并依托卢曼（1995）的外化命题，阐释跨国比较数据如何被国内执政者转译为准外部合法化权威。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合卢曼与肖尔（1979）的[[Technology Deficit of Education|教育技术赤字]]论，揭示教育因果逃逸当下检验如何制造制度焦虑并促成政策中介的繁荣；并依托卢曼（1995）的外化命题，阐释跨国比较数据如何被国内执政者转译为准外部合法化权威。
 
 ---
 

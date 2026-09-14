@@ -109,7 +109,7 @@ updated: 2026-09-14
 > [!exegesis] 医学研究与教育学 RCT 的本质区别（Theory Precedence）
 > 医学 RCT 绝不是盲目的试错，在开展临床 RCT 之前，通常已经过数十年的药理学 and 生理学基础理论检验，研究者对其因果机制已了然于胸。而教育 RCT 往往在因果机制不明确、理论缺位的情况下，盲目地将拼读法或[[Teaching Assistant|教学助理]]等复杂活动包入数据黑箱进行测量。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 10]])
 
-> [!pathways] 替代方案：实在论综合（Realist Synthesis）
+> [!pathways] 替代方案：[[Realist Evaluation|实在论综合]]（Realist Synthesis）
 > 以实在论综合代替传统统计元分析。实在论综合是一条基于理论（Theory-driven）的综述路径，它不追求计算平均效应量，而是识别干预在什么背景下激活了什么机制、产生了什么结果，虽然实操上极具复杂性，但能为政策和学校实践提供真正的因果指南。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14-15]])
 
 ---
@@ -138,7 +138,7 @@ updated: 2026-09-14
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **争议对象** 实在论综合在具体操作上的高门槛与政策决策的低速配度。
+> - **争议对象** [[Realist Evaluation|实在论综合]]在具体操作上的高门槛与政策决策的低速配度。
 > - **批评立场** 政策制定者和定量循证研究者的批评。
 > - **证据依据** 实在论综合需要深度审阅每次干预的具体情境、利益相关者的反思理论和结构障碍，这无法像 [[Education Endowment Foundation|EEF]] 工具包那样提供一眼即得的仪表盘或平均数排行榜，在需要瞬间决策的行政体制中缺乏推广优势。
 > - **回应或余留问题** 波森强调追求简单结论的 “钝器” 会导致更严重的决策错误（如错误裁剪 TA），政策制定者必须接受社会干预[[Causality|因果关系]]的复杂性。

@@ -291,7 +291,7 @@ updated: 2026-09-14
 > > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control|控制社会]]背景后边际效应大跌；[[Whole Language|全语言]]案例审查揭示分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
 >
 > > [!axis] 文化政治批判：[[Cult of the Guru|大师崇拜]]、[[Neo-Taylorism|新泰勒主义]]与[[Policy Brokerage|政策中介]]制度落差
-> > 批判其对教师专业主体的贬低、商业化[[Conflict of Interest in Research|利益冲突]]以及在国家硬性规制中的制度穿透力不足。
+> > 批判其对教师专业主体的贬低、商业化利益冲突以及在国家硬性规制中的制度穿透力不足。
 > >
 > > - **Eacott 以及 McKnight 与 Whitburn** 定性其为新泰勒主义监控与“[[Cult of the Guru|大师崇拜]]”，将教学拆解为最小可测量单元，以进步主义修辞包装[[Positivism|实证主义]]与新自由主义监控。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]
 > > - **O'Neill 等人以及 Johnson 与 Janzen** 揭示政策制定者脱离语境滥用证据，追踪其从 asTTle 到商业咨询的利益网络与政策创业。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023)]]

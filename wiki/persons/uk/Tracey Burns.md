@@ -62,7 +62,7 @@ updated: 2026-09-13
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国籍（加拿大裔）教育政策研究者，[[OECD|经合组织]]（OECD）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）资深政策分析师，2022年撰写本章时借调至美国国家教育与经济中心（National Center on Education and the Economy, NCEE）。
+> - **身份位置** 英国籍（加拿大裔）教育政策研究者，[[OECD|经合组织]]（OECD）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）资深政策分析师，2022年撰写本章时借调至美国国家教育与经济中心（National Center on Education and the Economy, [[National Center for Education Evaluation and Regional Assistance|NCEE]]）。
 > - **核心角色** 在 OECD-CERI 教育[[Epistemic Governance|知识治理]]议程中长期承担核心研究与写作职责，主导并参与多项关于教育系统改革、[[Complexity Theory|复杂性理论]]在教育政策中的应用，以及[[Educational Brokerage Agency|教育中介机构]]发展的系统性研究；是将"后真相"、实践转向与"中介的中介"（Brokering the Brokers）等命题引入[[Evidence-Based Education|循证教育]]政策学术讨论的关键学者。
 > - **代表贡献** 与 [[Tom Schuller]] 合著《教育中介机构的历史与演进》（Ch.3 in Révai, 2022），提出建构[[Cumulative Knowledge Base|累积性知识库]]的三步行动框架，并以循证医学的五大意外后果为镜鉴警示证据商业化与算法去技能化的系统性风险。
 
@@ -74,7 +74,7 @@ updated: 2026-09-13
 > - **长期** 任职于 [[OECD]] [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI），参与并主导教育[[Knowledge Production|知识生产]]与利用、教育创新政策、系统领导力与复杂性治理等多个研究方向。
 > - **2007** 参与 OECD CERI 标志性报告《教育中的证据：连接研究与政策》（*Evidence in Education: Linking Research and Policy*, OECD, 2007）的编辑与写作，确立 6 家全球标杆中介机构的早期参照清单，为 2022 年的 15 年[[Cohort Study|追踪研究]]奠定基础。
 > - **2016** 与 Florian Köster 合编 OECD 报告《在复杂世界中治理教育》（*Governing Education in a Complex World*），将复杂[[Luhmann's Systems Theory|系统理论]]框架系统引入教育政策与[[Epistemic Governance|知识治理]]研究。（Burns, Köster & Fuster, 2016）
-> - **2021–2022** 借调至美国国家教育与经济中心（NCEE），与 [[Tom Schuller]] 合作完成[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]，系统考察 2007–2022 年间全球中介机构的历史演化、存续危机与元治理路径。
+> - **2021–2022** 借调至美国国家教育与经济中心（[[National Center for Education Evaluation and Regional Assistance|NCEE]]），与 [[Tom Schuller]] 合作完成[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]，系统考察 2007–2022 年间全球中介机构的历史演化、存续危机与元治理路径。
 
 ---
 

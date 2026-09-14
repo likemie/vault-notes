@@ -94,7 +94,7 @@ updated: 2026-08-29
 > - **不声称回答的问题** MANOVA 本身属于观察或实验组间均值比较技术，**不能仅凭多元显著性直接推断因果机制（在非[[Random Assignment|随机分配]]的[[Observation Method|观察研究]]中仍受选择偏差制约）**；同时不能替代结构方程模型（[[Causal Modeling|SEM]]）对因变量间双向因果路径与测量误差的直接建模。
 
 > [!method-stack] 方法层级
-> - **研究设计** 析因实验设计（Factorial Experiments）、[[Quasi-Experimental Designs|准实验设计]]（[[Quasi-Experimental Designs|QED]]）、横断面比较调查（Cross-sectional Comparative Surveys）。
+> - **研究设计** [[Factorial Design|析因实验]]设计（Factorial Experiments）、[[Quasi-Experimental Designs|准实验设计]]（[[Quasi-Experimental Designs|QED]]）、横断面比较调查（Cross-sectional Comparative Surveys）。
 > - **数据收集** 结构化标准化量表（如包含多个子维度的测评工具）、实验任务多维反应时与准确率数据、学业多科目成绩档案。
 > - **分析方法**
 >   - 多元假设检验（MANOVA）

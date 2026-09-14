@@ -108,7 +108,7 @@ updated: 2026-09-11
 > [!influence-path] 影响路径
 > - **理论路径** 确立了[[Empiricism|经验主义]]效果整合的合法性，使学界接受了跨研究的[[Effect Size|效应量]]比较逻辑。
 > - **方法路径** 使[[Meta-analysis|元分析]]成为医学、心理学和教育学的标准综合方法，效应量（如 Glass's $\Delta$）至今是[[Quantitative Research|定量研究]]的标准报告指标。
-> - **政策路径** 深刻影响了后来的[[Evidence-Based Education|循证教育]]运动，成为[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Meta-meta-analysis|元-元分析]]以及 [[Education Endowment Foundation|EEF]] 教学与学习工具包等政策决策参考工具的底层技术基础。
+> - **政策路径** 深刻影响了后来的[[Evidence-Based Education|循证教育]]运动，成为[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Meta-meta-analysis|元-元分析]]以及 [[Education Endowment Foundation|EEF]] [[EEF Teaching and Learning Toolkit|教学与学习工具包]]等政策决策参考工具的底层技术基础。
 
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_Higgins_2016_RE|Higgins, 2016]] — 追溯元分析的起源，阐述格拉斯如何开创心理治疗效果的元分析并确立效应量尺度。
