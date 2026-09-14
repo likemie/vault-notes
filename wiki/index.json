@@ -17718,6 +17718,16 @@
     ]
   },
   {
+    "title": "Steve Higgins",
+    "type": "person",
+    "path": "wiki/persons/uk/Steve Higgins.md",
+    "aliases": [
+      "史蒂夫·希金斯",
+      "Steven Higgins",
+      "Higgins, S."
+    ]
+  },
+  {
     "title": "Terry Wrigley",
     "type": "person",
     "path": "wiki/persons/uk/Terry Wrigley.md",
@@ -22057,6 +22067,16 @@
       "科学智慧项目",
       "科学智慧计划",
       "Sciencewise Public Dialogue"
+    ]
+  },
+  {
+    "title": "SPECTRUM",
+    "type": "fact",
+    "path": "wiki/facts/uk/SPECTRUM.md",
+    "aliases": [
+      "思考与韧性测量心理工具库",
+      "SPECTRUM Database",
+      "Social, Psychological, Emotional, Concepts of Self, and Resilience: Understanding and Measurement"
     ]
   },
   {
