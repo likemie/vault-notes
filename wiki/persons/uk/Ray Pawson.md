@@ -7,7 +7,7 @@ summary: "英国社会研究方法论学者，实在论评估与实在论综合�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
+  - "[[Teaching Assistant]]"
   - "[[Sage]]"
 related_theories:
   - "[[Realist Evaluation]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Ray Pawson
@@ -106,7 +107,7 @@ updated: 2026-09-11
 > 在自然科学实验室之外，社会和教育情境是无法封闭的开放系统。教育 RCT 中的控制组绝不是静止的真空，其控制班级 and 区域可能自身正进行着繁多、忙碌的教学自主改进，这使得以控制组为基准线计算出的效应量变得极其模糊和不可靠。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])
 
 > [!exegesis] 医学研究与教育学 RCT 的本质区别（Theory Precedence）
-> 医学 RCT 绝不是盲目的试错，在开展临床 RCT 之前，通常已经过数十年的药理学 and 生理学基础理论检验，研究者对其因果机制已了然于胸。而教育 RCT 往往在因果机制不明确、理论缺位的情况下，盲目地将拼读法或教学助理等复杂活动包入数据黑箱进行测量。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 10]])
+> 医学 RCT 绝不是盲目的试错，在开展临床 RCT 之前，通常已经过数十年的药理学 and 生理学基础理论检验，研究者对其因果机制已了然于胸。而教育 RCT 往往在因果机制不明确、理论缺位的情况下，盲目地将拼读法或[[Teaching Assistant|教学助理]]等复杂活动包入数据黑箱进行测量。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 10]])
 
 > [!pathways] 替代方案：实在论综合（Realist Synthesis）
 > 以实在论综合代替传统统计元分析。实在论综合是一条基于理论（Theory-driven）的综述路径，它不追求计算平均效应量，而是识别干预在什么背景下激活了什么机制、产生了什么结果，虽然实操上极具复杂性，但能为政策和学校实践提供真正的因果指南。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14-15]])
@@ -118,7 +119,7 @@ updated: 2026-09-11
 > [!influence-path] 影响路径
 > - **理论路径** 通过具体研究设计的转化，在方法论层面使[[Critical Realism|批判实在论]]在评估界落地生根。
 > - **方法路径**[[Realist Evaluation|实在论评估]]和实在论综合已成为全球社会政策评估、医疗卫生评价的一大主流研究传统，在 [[Sage]] 等出版机构出版了大量教材。
-> - **政策路径** 为抵制去情境化的 evidence-based 绩效考核提供了替代性评估框架，深刻启发了教育研究者（如 Wrigley）对 [[Education Endowment Foundation|EEF]] 教学工具包关于教学助理（TA）类目等误导性排行的技术解构。
+> - **政策路径** 为抵制去情境化的 evidence-based 绩效考核提供了替代性评估框架，深刻启发了教育研究者（如 Wrigley）对 [[Education Endowment Foundation|EEF]] 教学工具包关于[[Teaching Assistant|教学助理]]（TA）类目等误导性排行的技术解构。
 
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中 [[Randomised Controlled Trials|RCT]] 的不适用性。

@@ -63,7 +63,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Random Assignment]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Snowball Sampling]]"
   - "[[Qualitative Observation]]"
   - "[[Discourse Analysis]]"
   - "[[Action Research]]"
@@ -76,6 +75,7 @@ related_persons:
   - "[[Gene Glass]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[ResearchED]]"
 related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
@@ -98,7 +98,7 @@ citation_aliases:
 > [!question] Question
 > 本文聚焦于循证教学中将“证据”窄化为统计平均值时，所产生的多重方法论与 [[Epistemology|认识论]]（Epistemology）危机：
 > 1. 当教育研究中的证据被窄化为 [[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）与 [[Effect Size|效应量]]（Effect Size）的统计均值时，在**技术、哲学与意识形态**三个层面会产生哪些局限性与消极后果？
-> 2. 从单一实验的第一级（Level 1）到 [[Meta-analysis|元分析]]（Meta-analysis）的第二级（Level 2）、再到 [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）的第三级（Level 3，如 [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning，VL）与 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的《教学与学习工具包（Teaching and Learning Toolkit）》）的逐级递进中，统计数据是如何层层复合、放大失真的？
+> 2. 从单一实验的第一级（Level 1）到 [[Meta-analysis|元分析]]（Meta-analysis）的第二级（Level 2）、再到 [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）的第三级（Level 3，如 [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning，VL）与 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]（Teaching and Learning Toolkit）》）的逐级递进中，统计数据是如何层层复合、放大失真的？
 > 3. [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education, EBE）的统计修辞如何与新自由主义政策框架合谋，进而导致一线教师的去专业化？
 
 > [!claim] 核心主张
@@ -205,7 +205,7 @@ citation_aliases:
 > 2. **创始人与专家的警告** 元分析概念的创始人 [[Gene Glass|吉恩·格拉斯]]曾明确警告：“元分析的结果绝不应该是一个平均数，而应该是一张显示变异性的图表”。著名测量学者 Coe (2002) 亦指出，如果实验所用的结果测量工具、执行强度和人群差异极大，将这些效应量进行平均在数学上是完全没有意义的。
 
 > [!exegesis]- 反馈标签的语义空洞化
-> EEF《教学与学习工具包》将大量形式迥异（有些是口头启发，有些是书面改错，有些结果是正向、有些是负向）的研究统统归入“反馈”这一庞大类目下，算出了一个极高的平均效应量。然而，反馈在任何教学交互中都是不可避免且无处不在的，粗暴地给出一个“反馈最有效”的均值数字，根本无法告诉教师在具体课堂情境中“什么样”的反馈才是有效的 (p. 10)。
+> EEF《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》将大量形式迥异（有些是口头启发，有些是书面改错，有些结果是正向、有些是负向）的研究统统归入“反馈”这一庞大类目下，算出了一个极高的平均效应量。然而，反馈在任何教学交互中都是不可避免且无处不在的，粗暴地给出一个“反馈最有效”的均值数字，根本无法告诉教师在具体课堂情境中“什么样”的反馈才是有效的 (p. 10)。
 
 > [!warrant]- 推理桥梁：因果理论的缺位
 > 在医学领域，进行大规模 RCT 之前，通常已经过多年的“基础科学理论检验”，医生对药物如何作用于人体的生物学因果机制已了然于胸。而教育学 RCT 往往跳过理论构建，直接进行量化测量。缺乏因果机制理论支撑的元分析，将“干预如何运作”的解释性问题，偷换成了“效果多大”的单纯数字游戏。
@@ -261,7 +261,7 @@ citation_aliases:
 
 > [!pathways] 走向“实在论综合”与多元改进路径
 > - **实在论综合（Realist Synthesis）**Pawson (2006) 提倡的替代路径不寻求单一均值，而是深入理解每次干预的“受试者（subjects）”特征、原始研究者的因果理论、测量充分性以及过程中的结构性障碍，探求因果机制如何在不同背景下产生不同的结果 (p. 14)。
-> - **[[Snowball Sampling|网络化]]改进共同体（Networked Improvement Communities, NICs）** Lingenfelter (2016) 介绍的 Bryk et al. (2015) 的实践，强调研究者与教师组成共同体，在复杂的具体学校情境中协同开发和改进结构，而非机械套用“证据包”。
+> - **网络化改进共同体（Networked Improvement Communities, NICs）** Lingenfelter (2016) 介绍的 Bryk et al. (2015) 的实践，强调研究者与教师组成共同体，在复杂的具体学校情境中协同开发和改进结构，而非机械套用“证据包”。
 > - **方法论多元光谱** 因果机制的探索需要引入 [[Qualitative Observation|质性观察]]、历史研究、[[Discourse Analysis|话语分析]]、立法质询、[[Action Research|行动研究]]与解放性研究 (p. 16)。
 
 > [!theory-components] 批判实在论的分层 [[Ontology|本体论]]与因果涌现性
@@ -272,7 +272,7 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **统计聚合的逐级失真机制** [[Randomised Controlled Trials|RCT]] 在第一级的简化偏误，在第二级 [[Meta-analysis|元分析]]中复合，并在第三级 [[Meta-meta-analysis|元-元分析]]（如 [[John Hattie|约翰·哈蒂]]的《[[Visible Learning|VL]]》与 [[Education Endowment Foundation|EEF]]《教学与学习工具包》）的“速度表指针”排行榜修辞中被彻底隐藏，呈现“越聚合、越空洞”的态势。
+> 1. **统计聚合的逐级失真机制** [[Randomised Controlled Trials|RCT]] 在第一级的简化偏误，在第二级 [[Meta-analysis|元分析]]中复合，并在第三级 [[Meta-meta-analysis|元-元分析]]（如 [[John Hattie|约翰·哈蒂]]的《[[Visible Learning|VL]]》与 [[Education Endowment Foundation|EEF]]《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》）的“速度表指针”排行榜修辞中被彻底隐藏，呈现“越聚合、越空洞”的态势。
 > 2. **“新起点”案例揭示糟糕[[Random Assignment|随机分配]]的数据幻象** 经过匹配子集分析，干预组与对照组低分学生进步成绩几乎完全相同，所谓的 $+0.24$ 标准差（相当于 3 个月额外进步）仅是糟糕随机分配造成的[[Pre-test and Post-test|前测]]失衡幻象 (p. 5)。
 > 3. **TA 类目警示扁平化排行诱发反效果** EEF《教学与学习工具包》将 TA 排入底部，完全剥离了其“无沟通备课时间”、“系统性安排给低成就生”等结构性不当情境，在预算裁剪时期极易诱发错误的裁员决策 (p. 12)。
 > 4. **教育实验中“人类意志既是必要又是污染”的悖论** RCT 将人类意志视为污染源，但教学效果的产生恰恰依赖教师的热情与学生的推理交互，这使得 RCT 从根本上不适合作为教育学的唯一科学标准 (p. 6)。
@@ -312,7 +312,7 @@ citation_aliases:
 
 > [!warning] 自述局限
 > 1. **数字与量化方法本身并不是问题** 作者明确指出，数字和测量本身是有用的（如同测量全球变暖的指标一样），问题在于将统计研究的角色无限泛化，并在缺乏反思的情况下追求表面上的“科学规律性”修辞 (p. 16)。
-> 2. **实在论综合的操作复杂性** 作者承认，替代方案“实在论综合”在实操上比单纯看 [[Effect Size|效应量]]排行榜要复杂得多，无法提供像 [[Education Endowment Foundation|EEF]]《教学与学习工具包》仪表盘那样供政策制定者或校长一瞥即得的瞬间决策工具 (p. 15)。
+> 2. **实在论综合的操作复杂性** 作者承认，替代方案“实在论综合”在实操上比单纯看 [[Effect Size|效应量]]排行榜要复杂得多，无法提供像 [[Education Endowment Foundation|EEF]]《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》仪表盘那样供政策制定者或校长一瞥即得的瞬间决策工具 (p. 15)。
 
 ---
 

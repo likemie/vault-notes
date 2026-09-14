@@ -9,7 +9,7 @@ aliases:
 summary: "伯勒尔与摩根社会科学性质分析框架中本体论维度的核心一极，主张外部实在不存在独立于认知者的客观实体，社会实在与组织概念本质上是人类心智发明的语言标签与符号建构物。"
 type: concept
 domain: "educational-philosophy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Ontology]]"
+  - "[[Teaching Assistant]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
   - "[[Interpretive Paradigm]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Nominalism
@@ -64,7 +65,7 @@ updated: 2026-09-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 否定概念与集体实体（如“国家”、“学校”、“官僚制”）拥有独立于人类思维之外的实体性存在，主张一切社会范畴都是主观约定的名称。
-> - **用途** 帮助教育研究者破除对教育制度、学校组织与测验指标的“实体化崇拜”（reification），看见隐藏在制度标签背后的微观互动协商与权力运作。
+> - **用途** 帮[[Teaching Assistant|助教]]育研究者破除对教育制度、学校组织与测验指标的“实体化崇拜”（reification），看见隐藏在制度标签背后的微观互动协商与权力运作。
 > - **边界** 唯名论不等于否定物理自然界的存在，而是特指在社会与文化领域，社会实在无法脱离人类意义赋予而独立存续。
 
 > [!citation-card] 伯勒尔与摩根论唯名论与实在论的本体论对峙

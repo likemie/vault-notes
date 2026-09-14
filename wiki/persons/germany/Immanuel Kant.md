@@ -8,10 +8,10 @@ summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 31
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1724"
 died: "1804"
 lifespan: "1724–1804"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Bildung]]"
+  - "[[Teaching Assistant]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
   - "[[Critical Thinking]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Immanuel Kant
@@ -144,7 +145,7 @@ updated: 2026-09-11
 > *Two things fill the mind with ever new and increasing admiration and reverence, the more frequently and persistently one's reflection deals with them: the starry heavens above me and the moral law within me.*
 
 > [!citation-card] 人唯有通过教育才能成人
-> 人是唯一必须接受教育的造物。……人只有通过教育才能成为人。人完全是教育塑造的产物。……大自然隐藏在我们人性中的许多胚芽，唯有借助教育才能逐步被开发并达到其完满境地。引自《论教育学》（1803）
+> 人是唯一必须接受教育的造物。……人只有通过教育才能成为人。人完全是教育塑造的产物。……大自然隐藏在我们人性中的许多胚芽，唯有借[[Teaching Assistant|助教]]育才能逐步被开发并达到其完满境地。引自《论教育学》（1803）
 >
 > *Man is the only being who needs education. ... Man can only become man by education. He is merely what education makes him of him. ... In man there are many germs, and it is our business to develop the good germs proportionally.*
 

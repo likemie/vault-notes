@@ -8,7 +8,7 @@ aliases:
 summary: "描述国家治理模式从传统科层制统治转向多元行动者网络化治理的变化，教育治理在国家、国际组织、企业和非政府机构之间分工"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,8 +23,7 @@ related_concepts:
   - "[[Policy Network]]"
 related_theories:
   - "[[Actor-Network Theory]]"
-related_methods:
-  - "[[Snowball Sampling]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-09-14
 ---
 
 # Government to Governance Shift
@@ -42,7 +41,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 从统治到治理的转变描述了国家治理模式的变化。Government（统治）指传统的国家官僚机构自上而下的科层制管理，权力集中于国家机关。Governance（治理）指包括国家、国际组织、企业、大学、咨询公司、发展机构、区域集团和非政府组织等多元行动者共同参与的[[Snowball Sampling|网络化]]治理。这一转变并不一定意味着国家的削弱，但涉及教育治理在不同层级和不同类型行动者之间的分工（Dale, 2005, 引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]）。
+> 从统治到治理的转变描述了国家治理模式的变化。Government（统治）指传统的国家官僚机构自上而下的科层制管理，权力集中于国家机关。Governance（治理）指包括国家、国际组织、企业、大学、咨询公司、发展机构、区域集团和非政府组织等多元行动者共同参与的网络化治理。这一转变并不一定意味着国家的削弱，但涉及教育治理在不同层级和不同类型行动者之间的分工（Dale, 2005, 引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]）。
 
 ---
 
@@ -66,7 +65,7 @@ updated: 2026-06-07
 >
 > **权力部署方式的多样化**。有些权力机制直接与国家政策相关，有些松散相关，有些绕过国家政策，甚至与之矛盾。因此，[[Policy Borrowing|政策借用]]概念的使用需要谨慎评估，因为它倾向于只关注国家政策([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 >
-> **新工具的需求**。Rizvi & Lingard (2010) 指出，一些较早的理论和方法论资源已不再足够，在一个日益[[Snowball Sampling|网络化]]、由一系列跨国力量和联系塑造的世界中，需要新的工具和新的全球想象力。需要扩展经验视野，纳入参与教育空间的不同类型的行动者（引自 Beech & Artopoulos, 2015）。
+> **新工具的需求**。Rizvi & Lingard (2010) 指出，一些较早的理论和方法论资源已不再足够，在一个日益网络化、由一系列跨国力量和联系塑造的世界中，需要新的工具和新的全球想象力。需要扩展经验视野，纳入参与教育空间的不同类型的行动者（引自 Beech & Artopoulos, 2015）。
 >
 > **关注教育的定义**。不仅要问新的治理形式如何组织教育，还要问它们如何定义什么是受过教育的人，以及教育过程应如何组织、资助和评估。
 

@@ -10,7 +10,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
 related_facts:
   - "[[2019 Hong Kong Protests]]"
+  - "[[Institute of Education Sciences]]"
   - "[[Gaokao]]"
   - "[[National Security Law]]"
   - "[[Youth Development Blueprint]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-09-14
 ---
 
 # Citizenship and Social Development
@@ -70,7 +71,7 @@ updated: 2026-07-13
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 公民与社会发展科（CSD）是香港高中必修科目，其目标是通过精简课程内容、取消独立专题探究（IES）、改以必修内地考察，并将评估简化为通过/不通过非分级制，全面转向灌输国家安全、守法意识与爱国主义认同（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 490–491]]）。
+> 公民与社会发展科（CSD）是香港高中必修科目，其目标是通过精简课程内容、取消独立专题探究（[[Institute of Education Sciences|IES]]）、改以必修内地考察，并将评估简化为通过/不通过非分级制，全面转向灌输国家安全、守法意识与爱国主义认同（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 490–491]]）。
 
 > [!policy-design]- 政策设计与机制
 > - **设计目标** 纠正原[[General Education|通识教育]]科中被指责的[[Analytical Stance|批判立场]]偏颇、国家认知淡漠的问题，培养学生对国家和[[Zhonghua Minzu|中华民族]]的单一认同感和归属感（[[Argument_Vickers_2024_CE|Vickers, 2024, p.149]]）。
@@ -92,7 +93,7 @@ updated: 2026-07-13
 > |---|---|---|
 > | **课程核心目标** | 培养批判性思维（[[Critical Thinking]]）、多角度分析社会议题，培育具备社会能动性的参与式公民（pp.141, 150）。 | 强调爱国主义、国族认同（[[Zhonghua Minzu]]）、守法意识与国家安全教育，重塑青年的臣民认同（pp.149, 152）。 |
 > | **教科书监管** | 豁免教育局前置评审，学校与教师可自主开发或选择多样化的教科书与补充材料。 | 实行刚性的教科书统一评审机制，由亲北京与国企高管审阅，强制使用合格教材教学（pp.147–148）。 |
-> | **独立专题探究** | 必修独立专题探究（IES），学生自主选题、开展社会调查与思辨，强调学术探究能动性。 | 废除IES，改以必修的短途内地考察，以感性体验与顺从[[Disciplina and Doctrina\|规训]]代替批判探究。 |
+> | **独立专题探究** | 必修独立专题探究（[[Institute of Education Sciences\|IES]]），学生自主选题、开展社会调查与思辨，强调学术探究能动性。 | 废除IES，改以必修的短途内地考察，以感性体验与顺从[[Disciplina and Doctrina\|规训]]代替批判探究。 |
 > | **历史与认同** | 视香港为移民社会，客观呈现多元且演变的代际本地认同与社会不满意度分析（p.148）。 | 强加本质论史观，以长达22页篇幅详细论证香港自古以来即为中国领土、从未属于殖民地（p.149）。 |
 > | **宪制关系定位** | 强调《基本法》是特区最高法律，是划分中央与特区自治治理边界的宪制契约（p.149）。 | 强调中国单一制国家事实，中央拥有对香港的绝对主权、全面管治权与剩余权力（pp.149–150）。 |
 > | **文化角色建构** | 倡导文化多元共生，警告使用主流文化进行同化会破坏稳定，接纳多重流变身份（p.150）。 | 确立中华文化为主体、多元文化从属于经济工具与国家[[Soft Power\|软实力]]推广的等级化秩序（p.151）。 |
@@ -146,7 +147,7 @@ updated: 2026-07-13
 ## 效果与评价
 
 > [!indicators]- 评价指标
-> - **投入指标** 总课时数从通识科的250课时压缩为150课时，取消IES，全额资助并统筹内地研学考察路线（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 491]]）。
+> - **投入指标** 总课时数从通识科的250课时压缩为150课时，取消[[Institute of Education Sciences|IES]]，全额资助并统筹内地研学考察路线（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 491]]）。
 > - **过程指标** 评审通过教材覆盖率达100%，学校端教学及考察合规率达100%，教师宣誓效忠执行率达100%。
 > - **结果指标** 批判性思考与集体抗争讨论被完全扫除；但评估方式退化为通过/不通过引发了学业边缘化，部分学生将其视为休息课，削弱了认同建立的主动性。
 

@@ -9,7 +9,7 @@ summary: "一种广泛使用的调查研究工具，通过结构化或半结构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -49,10 +49,12 @@ related_methods:
   - "[[Covering Letter]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
+related_facts:
+  - "[[National Institute for Health and Care Excellence]]"
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 # Questionnaire
 
@@ -330,7 +332,7 @@ updated: 2026-09-11
 ### 多选问题的歧义与偏差
 
 > [!critique-logic] 多选问题中词语固有歧义导致的不可检测偏差
-> 以NICE化学方案的多选题为例：六位受访者都看到方案在一个领域有用，但一位因此勾选（d）有用，另一位认为仅在单一领域有用不算真正有用因而不勾选（d）。两人基于相同事实得出相反判断，在匿名问卷中这种差异无法检测。此外，选项列表若有意排除负面陈述，研究必然产生系统性偏差（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 120–123]]）。
+> 以[[National Institute for Health and Care Excellence|NICE]]化学方案的多选题为例：六位受访者都看到方案在一个领域有用，但一位因此勾选（d）有用，另一位认为仅在单一领域有用不算真正有用因而不勾选（d）。两人基于相同事实得出相反判断，在匿名问卷中这种差异无法检测。此外，选项列表若有意排除负面陈述，研究必然产生系统性偏差（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 120–123]]）。
 
 ### [[Rating Scale|评定量表]]的核心局限
 

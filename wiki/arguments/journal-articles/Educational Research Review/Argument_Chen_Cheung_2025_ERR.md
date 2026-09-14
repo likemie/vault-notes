@@ -61,6 +61,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Scaffolding]]"
   - "[[Hypothesis]]"
+  - "[[Teaching Assistant]]"
   - "[[Falsification]]"
   - "[[Fade-out Effect]]"
   - "[[Interaction Effect]]"
@@ -121,7 +122,7 @@ title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 84
+argument_related_count: 85
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -299,7 +300,7 @@ issuing_organization: ""
 
 > [!evidence-grid]- 支持步骤一主张的初级研究实证证据
 > - **[[Language Skills|语言技能]]超大效应** 自然语言模型底层基于大规模语料概率分布，在二语写作重构、语法纠错、体裁模仿与口语即时[[Dialogue in Education|对话]]中提供极低焦虑的演练环境，产生超大促学效应（Liu et al., 2025; Wang et al., 2024）。（pp. 9–10）
-> - **学业成绩实证案例** 在计算机初级编程（Kosar et al., 2024; Johnson et al., 2024）与骨科医学病案教学（Gan et al., 2024; Hui et al., 2025）中，AI 扮演即时助教角色有效帮助学生理解复杂程序逻辑与临床诊断要点。（pp. 14–15）
+> - **学业成绩实证案例** 在计算机初级编程（Kosar et al., 2024; Johnson et al., 2024）与骨科医学病案教学（Gan et al., 2024; Hui et al., 2025）中，AI 扮演即时[[Teaching Assistant|助教]]角色有效帮助学生理解复杂程序逻辑与临床诊断要点。（pp. 14–15）
 > - **情感动机提升机制** AI 工具以无评判压力的对话界面响应学生提问，极大降低了求助焦虑并提升了学业[[Self-Efficacy|自我效能感]]（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）。（pp. 10, 15）
 > - **高阶思维促进与张力** 在国际关系辩论与方案设计中，ChatGPT 作为思维[[Scaffolding|脚手架]]促进了[[Reflexivity|反思性]]论证（de la Puente et al., 2024; Lee et al., 2024），但部分研究也警示其可能降低深层逻辑推断质量（Stadler et al., 2024）。（pp. 15, 17）
 > - **元认知促学缺失警示** 实证数据表明生成式 AI 对大学生元认知能力未产生统计显著影响，证实直接提供技术工具无法自发带来自主监控提升，反而可能导致学生跳过反思评估直接采纳生成答案（Fan et al., 2025; Karaoglan Yilmaz & Yilmaz, 2025）。（pp. 15–16）

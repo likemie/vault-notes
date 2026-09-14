@@ -10,7 +10,7 @@ summary: "用于量化实验与准实验研究干预前处理组与对照组初�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -60,6 +60,7 @@ related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
 related_facts:
+  - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
 related_arguments:
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-14
 ---
 
 # Baseline Standardized Mean Difference
@@ -79,7 +80,7 @@ updated: 2026-09-04
 > [!def] 方法定义
 > 基线等效性标准化均数差（Baseline Standardized Mean Difference, Baseline SMD / $d_{\text{baseline}}$）是在实验与[[Quasi-Experimental Designs|准实验设计]]以及循证[[Meta-analysis|元分析]]中，用于定量度量干预前（[[Pre-test and Post-test|前测]]）处理组与对照组在目标[[Variable|变量]]或关键协变量上初始能力等价程度的标准化统计量。
 >
-> 该指标源于[[Causality|因果推断]]（Causal Inference）[[Counterfactual|反事实]]等价性理论，由美国教育部教育科学研究院[[Effective Teaching|有效教学]]策略网（[[What Works Clearinghouse]], WWC）与 [[Robert Slavin]] 的最佳证据百科（[[Best Evidence Encyclopedia]]）系统规范化，确立了以 $0.05$ 与 $0.25$ 标准差（SD）为断点的三级证据准入与模型调整判准。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 8)]]
+> 该指标源于[[Causality|因果推断]]（Causal Inference）[[Counterfactual|反事实]]等价性理论，由[[Institute of Education Sciences|美国教育部教育科学研究院]][[Effective Teaching|有效教学]]策略网（[[What Works Clearinghouse]], WWC）与 [[Robert Slavin]] 的最佳证据百科（[[Best Evidence Encyclopedia]]）系统规范化，确立了以 $0.05$ 与 $0.25$ 标准差（SD）为断点的三级证据准入与模型调整判准。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 8)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 实验与准实验初级研究中基线期（干预前）的客观学科测试成绩、标准化量表得分或关键人口学协变量。

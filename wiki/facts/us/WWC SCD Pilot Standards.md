@@ -10,9 +10,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 25
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
+  - "[[Evidence Standards]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evaluation Research]]"
   - "[[Reliability]]"
@@ -48,12 +49,13 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-09-14
 ---
 ## 背景
 
@@ -65,7 +67,7 @@ updated: '2026-05-18'
 ## 与 WWC 的关系
 
 > [!example] 与 [[What Works Clearinghouse|WWC]] 的关系
-> WWC [[Single-Case Design|SCD]] Pilot Standards 2010 不是独立清算中心，也不是 WWC 的整体证据标准手册，更不是 [[Single-Case Design]] 方法本身；它是 WWC 审查系统中专门用于 SCD 研究的技术标准文件。该技术文档由 Kratochwill、Hitchcock 和专家组为 IES 开发，并处于 Mathematica Policy Research, Inc. 运营 WWC 的合同框架下([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])。
+> WWC [[Single-Case Design|SCD]] Pilot Standards 2010 不是独立清算中心，也不是 WWC 的整体[[Evidence Standards|证据标准]]手册，更不是 [[Single-Case Design]] 方法本身；它是 WWC 审查系统中专门用于 SCD 研究的技术标准文件。该技术文档由 Kratochwill、Hitchcock 和专家组为 [[Institute of Education Sciences|IES]] 开发，并处于 Mathematica Policy Research, Inc. 运营 WWC 的合同框架下([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])。
 >
 > 两者的层级关系可以概括为：[[What Works Clearinghouse]] 是发布教育干预证据审查与报告的机构/平台；WWC SCD Pilot Standards 2010 是 WWC 为了把 SCD 研究纳入其证据审查而开发的一套设计标准；具体审查时，这套标准必须与 WWC 的审查协议（review protocols）和 SCD Review Guide 一起使用，不能孤立理解([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.460–461]])。
 >
@@ -74,7 +76,7 @@ updated: '2026-05-18'
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> [[What Works Clearinghouse|WWC]] [[Single-Case Design|SCD]] Pilot Standards（全称：[[Single-Case Design]] Technical Documentation Version 1.0 (Pilot)）由 Kratochwill and Hitchcock 以及专家组为 Institute of Education Sciences (IES) 在合同 ED-07-CO-0062 下与 Mathematica Policy Research, Inc. 合作开发([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])。
+> [[What Works Clearinghouse|WWC]] [[Single-Case Design|SCD]] Pilot Standards（全称：[[Single-Case Design]] Technical Documentation Version 1.0 (Pilot)）由 Kratochwill and Hitchcock 以及专家组为 [[Institute of Education Sciences]] (IES) 在合同 ED-07-CO-0062 下与 Mathematica Policy Research, Inc. 合作开发([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])。
 >
 > > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works [[Educational Evidence Clearinghouses|Clearinghouse]] (WWC)."
 >

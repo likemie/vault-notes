@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Problem Solving]]"
   - "[[Zone of Proximal Development]]"
+  - "[[Teaching Assistant]]"
   - "[[Direct Instruction]]"
   - "[[Paradigm]]"
   - "[[Self-Scaffolding]]"
@@ -57,7 +58,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-09-14
 ---
 
 # Scaffolding
@@ -71,7 +72,7 @@ updated: 2026-09-05
 
 > [!concept-lens] 概念透镜
 > - **含义** 支撑学习者在超出当前独立能力但处于潜在能力范围的区间内展开探究的动态辅助体系。
-> - **用途** 帮助教学研究者审视技术或教师介入如何降低非必要认知负荷并诱发深度心智加工。
+> - **用途** 帮[[Teaching Assistant|助教]]学研究者审视技术或教师介入如何降低非必要认知负荷并诱发深度心智加工。
 > - **边界** 脚手架必须具备动态可变性与“可撤除性”（渐隐原则）；缺乏撤除机制的永久性外部拐杖不属于脚手架，而属于替代性代理。
 
 > [!citation-card]- 关键表述

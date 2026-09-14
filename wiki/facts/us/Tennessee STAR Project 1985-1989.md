@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,7 +28,9 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Causality]]"
   - "[[Academic Achievement]]"
+  - "[[Evidence Standards]]"
   - "[[Hypothesis]]"
+  - "[[Teaching Assistant]]"
   - "[[Variable]]"
   - "[[Attrition]]"
   - "[[Achievement and Aptitude Tests]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-01
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Tennessee STAR Project 1985-1989
@@ -71,7 +73,7 @@ updated: 2026-09-11
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 学生—教师成就比项目（Student-Teacher Achievement Ratio, STAR）是由美国田纳西州议会立法全额资助、田纳西州教育局主导开展的大规模 K-3 阶段[[Class Size|班级规模]][[Randomised Controlled Trials|随机对照试验]]（RCT），旨在为“大幅缩减班级规模是否能[[Causality|因果性]]提升学生[[Academic Achievement|学业成就]]”提供最高科学证据标准的实证解答。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–6)]]
+> 学生—教师成就比项目（Student-Teacher Achievement Ratio, STAR）是由美国田纳西州议会立法全额资助、田纳西州教育局主导开展的大规模 K-3 阶段[[Class Size|班级规模]][[Randomised Controlled Trials|随机对照试验]]（RCT），旨在为“大幅缩减班级规模是否能[[Causality|因果性]]提升学生[[Academic Achievement|学业成就]]”提供最高科学[[Evidence Standards|证据标准]]的实证解答。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–6)]]
 
 该试验被公认为教育研究史上极少数同时满足大样本、纵向追踪以及对学生和教师实施双向严格[[Random Assignment|随机分配]]的标志性实验之一。
 
@@ -93,7 +95,7 @@ updated: 2026-09-11
 > [!policy-design]- 方案设计
 > - **项目目标** 科学测定小学低年级小班相对于常规大班对学生基础认知素养（阅读、数学）的净因果增值及长远留存效应。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 6)]]
 > - **覆盖对象** 田纳西州 79 所参与学校初入学的幼儿园儿童及逐年升入一至三年级的受试学生，教师亦按同等规则随机分配。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 100)]]
-> - **干预措施** 设立三种班级组织形态：小班组（Small Class，13–17 人）、常规大班组（Regular Class，22–26 人）、常规大班配全职助教组（Regular with Aide，22–26 人加 1 名专任助教）。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 5)]]
+> - **干预措施** 设立三种班级组织形态：小班组（Small Class，13–17 人）、常规大班组（Regular Class，22–26 人）、常规大班配全职[[Teaching Assistant|助教]]组（Regular with Aide，22–26 人加 1 名专任助教）。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 5)]]
 > - **实施控制** 采用校内分层[[Random Assignment|随机分配]]机制，学生和教师均被随机分配至三类班级；四年级起全体学生回归常规规模班级，实施[[Blinding|盲态]]长期学业追踪。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–6)]]
 
 > [!citation-card] 统计学界对项目的权威评价（Mosteller, 1995）

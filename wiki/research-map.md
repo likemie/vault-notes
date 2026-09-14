@@ -12,13 +12,13 @@ related_methods: []
   </div>
 
   <div class="research-map-stats" aria-label="Wiki 规模概览">
-    <a href="/bases/concepts"><span>概念</span><strong>991</strong></a>
-    <a href="/bases/arguments"><span>论证</span><strong>249</strong></a>
-    <a href="/bases/facts"><span>事实</span><strong>432</strong></a>
-    <a href="/bases/persons"><span>人物</span><strong>259</strong></a>
-    <a href="/bases/theories"><span>理论</span><strong>161</strong></a>
-    <a href="/bases/methods"><span>方法</span><strong>287</strong></a>
-    <a href="/bases/instruments"><span>测量工具</span><strong>59</strong></a>
+    <a href="/bases/concepts"><span>概念</span><strong>1002</strong></a>
+    <a href="/bases/arguments"><span>论证</span><strong>253</strong></a>
+    <a href="/bases/facts"><span>事实</span><strong>444</strong></a>
+    <a href="/bases/persons"><span>人物</span><strong>268</strong></a>
+    <a href="/bases/theories"><span>理论</span><strong>163</strong></a>
+    <a href="/bases/methods"><span>方法</span><strong>291</strong></a>
+    <a href="/bases/instruments"><span>测量工具</span><strong>62</strong></a>
   </div>
 
   <div class="research-map-grid">

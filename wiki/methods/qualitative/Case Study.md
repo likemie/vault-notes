@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 54
+method_related_count: 59
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
+  - "[[Knowledge Production]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -64,6 +65,8 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Field Notes]]"
   - "[[Member Checking]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Implementation and Process Evaluation]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
@@ -73,10 +76,13 @@ related_arguments:
   - "[[Argument_Dezhina_2022_ECO]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
+  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+related_facts:
+  - "[[Education Endowment Foundation]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-07-12
+updated: 2026-09-14
 ---
 # Case Study
 
@@ -248,4 +254,5 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异
 > - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations|大科学装置]][[Going Native|本土化]]四个切面案例
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、课堂观察和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking|批判性思维]]教学模式
-> - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge|TOK]] 课程中学习者的自主性角色与知识建构过程
+> - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge|TOK]] 课程中学习者的自主性角色与[[Knowledge Production|知识建构]]过程
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 以英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）为单一机构案例研究，从内部评估决策者视角系统剖析其在学校现场推动大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT）的制度设计、独立评估机制、[[Implementation and Process Evaluation|实施与过程评估]]（Implementation and Process Evaluation，IPE）演进以及在常态教学背景下评估干预效应所面临的方法学挑战

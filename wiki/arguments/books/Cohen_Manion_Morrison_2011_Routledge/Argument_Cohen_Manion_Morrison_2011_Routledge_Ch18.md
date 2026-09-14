@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Informed Consent]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Theory of Change]]"
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Action Research]]"
@@ -101,7 +102,7 @@ related_persons:
 related_instruments: []
 status: draft
 created: 2026-07-18
-updated: 2026-09-07
+updated: 2026-09-13
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18
 
@@ -397,7 +398,7 @@ PAR 的研究者角色（Weiskopf & Laske, 1996, p. 132–133）：促进者、�
 > - **关注领域** 权力不平等（教育不平等、社会排斥、性别和种族歧视、决策无权、课程的社会再生产、精英主义）（Wadsworth, 1998; Fine, 2010; INCITE, 2010）
 
 > [!claim] PAR 的民主本质与赋权逻辑
-> **议程由参与者自身识别**，因此扎根于现实、真实且由参与者和社区自身拥有。PAR 是一项民主活动（Grundy, 1987, p. 142）。这是一种参与式民主，是[[Critical Theory|批判理论]]的关键特征。它不仅是变革理论的一种形式，还处理权力和权力关系的根本问题：行动研究被视为赋权活动，因为将权力赋予参与者（David, 2002）。Elliott（1991, p. 54）认为这种赋权必须在集体层面实现，个体并非孤立运作，而是受组织和结构力量塑造（p. 271）。
+> **议程由参与者自身识别**，因此扎根于现实、真实且由参与者和社区自身拥有。PAR 是一项民主活动（Grundy, 1987, p. 142）。这是一种参与式民主，是[[Critical Theory|批判理论]]的关键特征。它不仅是[[Theory of Change|变革理论]]的一种形式，还处理权力和权力关系的根本问题：行动研究被视为赋权活动，因为将权力赋予参与者（David, 2002）。Elliott（1991, p. 54）认为这种赋权必须在集体层面实现，个体并非孤立运作，而是受组织和结构力量塑造（p. 271）。
 
 > [!tension] 两个阵营的分化（Kemmis, 1997, p. 177）
 > - **反思性实践传统（Elliott, Stenhouse, Schön）** 强调反思性实践，教师即研究者，在个体能力和情境范围内改进专业实践

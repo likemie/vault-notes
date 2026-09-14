@@ -10,7 +10,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式；在教育心理学中，也指代个体对知识属性进行分类的心智认知系统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
   - "[[Nominalism]]"
+  - "[[Evidence Standards]]"
   - "[[Emergence]]"
   - "[[Axiology]]"
   - "[[Objectivism]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-13
 ---
 
 # Ontology
@@ -74,7 +75,7 @@ updated: 2026-09-09
 > *Is social reality external to individuals – imposing itself on their consciousness from without – or is it the product of individual consciousness? Is reality of an objective nature, or the result of individual cognition? Is it a given ‘out there’ in the world, or is it created by one’s own mind? These questions spring directly from what philosophy terms the nominalist-realist debate.*
 
 > [!boundary] 概念边界
-> - 不等于 认识论（Epistemology） 本体论关注客体实在的存在性质（在的方式）；认识论关注主体认识实在的合理性依据与证据标准（知的方式）。
+> - 不等于 认识论（Epistemology） 本体论关注客体实在的存在性质（在的方式）；认识论关注主体认识实在的合理性依据与[[Evidence Standards|证据标准]]（知的方式）。
 > - 不等于 自然实在论（Physical Realism） 社会科学本体论聚焦于社会组织、人际互动与制度建构的社会本体，绝非自然物理实体在物理机械层面的简单还原。
 
 ---

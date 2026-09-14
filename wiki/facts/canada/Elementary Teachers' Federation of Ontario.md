@@ -9,9 +9,9 @@ subtype: policy
 region: canada
 fact_region: "canada"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Elementary Teachers' Federation of Ontario
 tags:
@@ -20,6 +20,7 @@ tags:
   - theme/evidence-informed-practice
   - theme/teacher-professionalism
 related_concepts:
+  - "[[Knowledge Mediation]]"
   - "[[Boundary Spanner]]"
   - "[[Formative Assessment]]"
   - "[[Transfer Translation Transformation]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-13
 ---
 
 # Elementary Teachers' Federation of Ontario
@@ -47,7 +48,7 @@ updated: 2026-09-02
 > [!policy-context] 组织背景
 > - **成立时间 / 组织属性** 1998 年由安大略省多所公立小学教师协会合并组建，是加拿大最大的教师专业工会组织，代表安省公立教育系统内 83,000 余名小学教师、幼儿教育工作者与专业支持人员。
 > - **职能双重性** ETFO 既是维护教师劳工权益与薪酬福利的工会组织，也是高度活跃的教师专业发展提供者与教育政策倡导者。
-> - **实证研究焦点** 在 Cooper, Klinger, & McAdie（2017）发表于《Educational Research》特刊的实证调查中，ETFO 被作为典型案例，深入剖析了教师工会在促进课堂评估证据流动中的知识中介职能。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
+> - **实证研究焦点** 在 Cooper, Klinger, & McAdie（2017）发表于《Educational Research》特刊的实证调查中，ETFO 被作为典型案例，深入剖析了教师工会在促进课堂评估证据流动中的[[Knowledge Mediation|知识中介]]职能。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 
 ---
 
@@ -66,7 +67,7 @@ updated: 2026-09-02
 ## 效果与评价
 
 > [!success] 核心启示
-> - **重塑[[Boundary Spanner|知识中介者]]生态** 颠覆了“只有大学科研处或政府智库才能充当知识中介”的传统偏见，证明工会等草根专业社群是证据流通不可或缺的信任纽带。
+> - **重塑[[Boundary Spanner|知识中介者]]生态** 颠覆了“只有大学科研处或政府智库才能充当[[Knowledge Mediation|知识中介]]”的传统偏见，证明工会等草根专业社群是证据流通不可或缺的信任纽带。
 > - **确立[[Practice-Based Evidence|实践本位证据]]的合法地位** 实证证明了教师对同行验证过的实践证据（PBE）具有天然的高度采纳倾向，为[[Evidence-Informed Practice|证据知情实践]]（EIP）指明了必须走社群[[Transfer Translation Transformation|转译]]与双向互动的路径。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 
 ---

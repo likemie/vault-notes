@@ -6,7 +6,7 @@ aliases:
 summary: "知识论课程中用于比较不同学科与知识传统如何形成概念、证据、方法和判断标准的课程框架；其历史根源是以多种思维方式回应学科割裂，并逐步由早期知识形式主题发展为可比较的领域分类。"
 type: concept
 domain: "curriculum"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[General Education]]"
   - "[[Variable]]"
+  - "[[Evidence Standards]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-08-17
+updated: 2026-09-13
 ---
 
 # Areas of Knowledge
@@ -311,7 +312,7 @@ updated: 2026-08-17
 ## 争议与批评
 
 > [!tension] [[Domain Specificity|领域特异性]]与跨领域迁移
-> - **领域特异性立场** 知识按照学科图式[[Coding in Qualitative Research|编码]]，各领域具有不同的方法、证据标准和专业实践，批判性判断因而依赖具体领域知识。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34, 38–39)]]
+> - **领域特异性立场** 知识按照学科图式[[Coding in Qualitative Research|编码]]，各领域具有不同的方法、[[Evidence Standards|证据标准]]和专业实践，批判性判断因而依赖具体领域知识。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34, 38–39)]]
 > - **跨领域迁移立场** 证据、因果、解释、信念和不确定性等结构能够跨越学科情境，课程应帮助学习者抽离并迁移这些思维模式。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34, 38–39)]]
 
 > [!critique-method] 分类与评估风险

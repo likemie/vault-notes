@@ -9,10 +9,10 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 99
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 104
+related_level: 6
+related_stars: "⭐⭐⭐⭐⭐⭐"
+related_color: "#ddd6fe"
 tags:
 - evidence-based-education
 - evidence-based-practice
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Side Effects]]"
   - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Evidence Standards]]"
   - "[[Clinical Trial]]"
   - "[[Ontology]]"
   - "[[Causality]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Epistemology]]"
   - "[[Tracking]]"
+  - "[[Teaching Assistant]]"
   - "[[New Public Management]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Paradigm]]"
@@ -70,6 +72,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
+  - "[[Implementation and Process Evaluation]]"
   - "[[Mixed Methods Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
@@ -78,8 +81,9 @@ related_persons:
 related_facts:
   - "[[Investing in Innovation Program]]"
   - "[[No Child Left Behind Act 2001]]"
-  - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Research Schools Network]]"
+  - "[[What Works Clearinghouse]]"
   - "[[What Works Network]]"
   - "[[PISA]]"
   - "[[OECD]]"
@@ -117,6 +121,7 @@ related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
+  - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Argument_Ross_Morrison_2021_ROE]]"
@@ -127,9 +132,9 @@ related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
 confidence: high
-status: draft
+status: active
 created: '2026-05-01'
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Evidence-Based Education
@@ -195,7 +200,7 @@ updated: 2026-09-13
 1. **教育决策应基于关于"什么有效"的科学证据**
 
    > [!info] 政策建制与数量瓶颈
-   > [[Argument_Slavin_2019_EP|Slavin (2019, pp. 5–6)]] 描述了 ESSA 证据标准如何将此主张制度化——美国联邦政府要求接受特定拨款的学校必须选择至少一项符合"强证据"或"中等证据"标准的项目。但 [[Argument_Wiliam_2019|Wiliam (2019, p. 2)]] 指出，即使接受 [[Randomised Controlled Trials|RCT]] 是产生可靠知识的最佳方式，目前此类试验的数量如此之少，以至于它们无法为一系列重要问题提供有用的洞见，并引用 Slavin (1987, p. 347) 的质问："在我们知道一切之前我们真的什么都不知道吗？"
+   > [[Argument_Slavin_2019_EP|Slavin (2019, pp. 5–6)]] 描述了 ESSA [[Evidence Standards|证据标准]]如何将此主张制度化——美国联邦政府要求接受特定拨款的学校必须选择至少一项符合"强证据"或"中等证据"标准的项目。但 [[Argument_Wiliam_2019|Wiliam (2019, p. 2)]] 指出，即使接受 [[Randomised Controlled Trials|RCT]] 是产生可靠知识的最佳方式，目前此类试验的数量如此之少，以至于它们无法为一系列重要问题提供有用的洞见，并引用 Slavin (1987, p. 347) 的质问："在我们知道一切之前我们真的什么都不知道吗？"
 
 2. **最可靠的证据产生于[[Experimental Research|实验研究]]，特别是随机对照试验（RCT）**
 
@@ -285,7 +290,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > [!proc] 证据进入课堂的四步[[Transfer Translation Transformation|转译]]链
 > [[Argument_Nordahl_2015_Paideia|Nordahl (2015, pp. 63–67)]]：
 > 1. **承认不同教学做法并不等效** 一旦承认教学效果有差异，证据本位教育才有进入学校改进的理由。
-> 2. **把证据理解成概率资源而非控制命令** 证据不能保证所有情境都成功，但能帮助教师减少完全凭个人习惯决策的空间，更接近[[Professional Judgment|专业判断]]的输入。
+> 2. **把证据理解成概率资源而非控制命令** 证据不能保证所有情境都成功，但能帮[[Teaching Assistant|助教]]师减少完全凭个人习惯决策的空间，更接近[[Professional Judgment|专业判断]]的输入。
 > 3. **识别真正的瓶颈在"转译"而不在"知道"** 学校常见问题不是没有研究，而是研究没有被翻译成教师日常行动，能力建设、课堂观察和共同反思是关键中介机制。
 > 4. **把失败改革重新诊断为知识与能力问题** 单纯依赖[[New Public Management|新公共管理]]式问责和竞争只会将问题误诊为"动力不足"，[[No Child Left Behind Act 2001|NCLB]] 正是这类误诊的反面案例([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p. 65]])。
 
@@ -295,6 +300,14 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 提出"肥沃土壤"隐喻（研究证据生根需要教育者准备度、评估技能、组织中介和实践—研究整合意识四大前提）和[[Knowledge Mobilisation|知识动员]]四策略（传播、能力建设、伙伴关系、系统化支持）。
 >
 > [[Argument_Wiliam_2019|Wiliam (2019)]] 补充了实践者的四个决策评估维度——问题匹配度、改进幅度、成本效益和本地适用性——以及 Blass (2020) 的五要素框架（方法论、情境、假设、领导力、时效性），构成 EBE 证据向实践转化的完整评估链。
+
+#### 双向知识动员与证据中介网络模型
+
+> [!proc] 英国 EEF 的知识动员与中介基础设施演进
+> 针对早期证据本位教育过度依赖单向、静态文本工具包（如《教学与学习工具包》）所导致的知识应用瓶颈，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）探索建立了动员导向的现代证据中介生态（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 48, 55]]）：
+> 1. **从静态工具包到操作性实践指南（Guidance Reports）** 针对元认知、拼读、阅读理解、数学与行为管理等核心主题发布证据实践指南，提炼出可落地的操作性推荐原则。
+> 2. **建设“[[Research Schools Network|研究学校网络]]”（RSN）** 在全英选拔设立由 32 所常设研究学校与 8 所联合研究学校构成的骨干网络，由资深教师与校长担任证据经纪人，为区域内普通学校提供长期循证培训与专业发展支持。
+> 3. **学校与教师选择的差异化设计流** 针对学校抗拒随机分配的核心管理决策（如作息调整、分层分班）开辟研究学校选择（Researching school choices）准实验流，并设立聚焦课堂日常教学微决策的教师选择（Teacher choices）微型试验项目，使证据生产直接回应一线学校的现实关切。
 
 ---
 ## 概念演变
@@ -326,7 +339,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 ### 美国的制度化建设（1998–2015）
 
 > [!phase] 1998–2015 · 制度化建设期
-> 联邦立法将证据与拨款挂钩（NCLB, ESSA），WWC 创建，证据标准从原则走向层级化政策框架。
+> 联邦立法将证据与拨款挂钩（NCLB, ESSA），WWC 创建，[[Evidence Standards|证据标准]]从原则走向层级化政策框架。
 
 > [!timeline] 关键事件
 > - **1998** — 美国国会首次将联邦教育拨款与有效性证据直接挂钩：[[Comprehensive School Reform Program]] 拨款 USD 150M/年，要求使用"经过验证的、全面的改革模式"（Obey-Porter 立法）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
@@ -347,6 +360,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - **2011** — 英国 Pupil Premium Toolkit 创建，为 Cowen 的"官僚[[Knowledge Questions|知识问题]]"论证提供了具体案例([[Argument_Wiliam_2019|Wiliam, 2019, p.4]])
 > - **2013** — 英国 [[What Works Network]] 建立，[[EEF Teaching and Learning Toolkit]] 成为旗舰产品；同年 [[ResearchED]] 由 [[Theory of Mind|ToM]] Bennett 创立为教师草根 [[Evidence-Informed Practice|EIP]] 运动。然而，[[Argument_Wrigley_2018_BERJ|Wrigley (2018, p. 4)]] 指出这一草根运动迅速被前教育部大臣 Nick Gibb 背书与收编，用于宣扬符合官方偏好的传统教学和拼读产品，实质上成为边缘化大学教育学院批判性研究的"伪草根"治理工具。
 > - **2016** — OECD 报告（Burns & Köster, 2016）识别了证据本位政策制定的三类挑战："未使用""误用""滥用"。[[Argument_Møller_2017|Møller (2017, p.378)]] 追问：更多更好的数据真的提供了解决公平相关改进所需的知识吗？
+> - **2011–2021** — 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）成为全球最大的教育 RCT 资助旗舰之一：累计委托资助逾 200 项学校现场试验（占过去十年全球已知教育 RCT 约 19%），动员过半数英格兰公立中小学参与；通过建立三方独立资助协议、强制统计分析计划（SAP）预注册、国家学生数据库（NPD）微观归档以及构建研究学校网络，推动循证教育从美国式的被动事后清算迈向全链条生产、治理与动员的现代中介范式（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 48–52]]）。
 
 ### 支持者阵营的纲领性论述（2002–2021）
 
@@ -386,7 +400,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 ## EBE 的改革与替代方案
 
 > [!tension] 改革与替代的两种路径
-> - **内部改革（Peterson 的"什么有效 2.0"）** 接受 [[Randomised Controlled Trials|RCT]] 作为教育研究组成部分，但主张用[[Mechanism Experiments|机制实验]]替代黑箱 RCT，将改进网络作为实施基础设施，产出细粒度因果机制而非粗粒度项目有效性判断（[[Argument_Peterson_2016_IJRME|Peterson, 2016]]）。
+> - **内部改革（从黑箱因果到现实主义试验与过程融合）** 接受 [[Randomised Controlled Trials|RCT]] 作为因果识别基石，但深刻反思常态教学基线高企与商业干预微弱效应（平均 $d=0.06$）的方法学挑战：主张将量化试验与[[Implementation and Process Evaluation|实施与过程评估]]（IPE）刚性绑定以区分实施失败与理论无效；倡导多臂析因设计与现实主义试验（Realist Trials）以探索因果中介机制；拓展研究学校选择（QED）与教师选择微型试验以回应一线实践关切（[[Argument_Peterson_2016_IJRME|Peterson, 2016]]；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–57]]）。
 > - **[[Paradigm|范式]]替代（从 EBE 到 [[Evidence-Informed Practice|EIP]]）** 将证据从决策核心降为信息来源之一，把能动性从政策端重新分配给教师和学习者。方向从"什么有效"转向"什么对谁有效、通过什么方式、在什么情境下"（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]]）。
 
 > [!implication] 整合方向
@@ -415,7 +429,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 ### 英国
 
 > [!case] 英国：[[Education Endowment Foundation|EEF]]、[[What Works Network]] 与草根运动
-> 通过 EEF Toolkit、What Works Network 和 [[ResearchED]] 建立起 EBE 的制度基础设施，同时产生了揭示方法论缺陷的标志性案例。
+> 通过 [[EEF Teaching and Learning Toolkit|EEF Toolkit]]、What Works Network 和 [[ResearchED]] 建立起 EBE 的制度基础设施，同时产生了揭示方法论缺陷的标志性案例。
 
 > [!evidence-grid-a] 英国案例索引
 > - [[Hargreaves 1996 TTA Lecture]] — 英国 EBE 运动的政策起点
@@ -425,11 +439,12 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - [[Playing for Success]] — 揭示[[Meta-meta-analysis|元-元分析]]程序缺陷的关键案例
 > - [[Selective Schools Expansion Fund]] — EBE 在议会政策制定中被系统性回避的案例
 > - **Fresh Start 拼读干预** [[Random Assignment|随机化]]严重失衡导致虚假有效性（[[Effect Size|效应量]] $+0.00SD$）（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]）
-> - **课堂教学助理结构性不当** EEF Toolkit 的扁平排行掩盖了 TA 被系统性误用的情境（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）
+> - **课堂[[Teaching Assistant|教学助理]]结构性不当** EEF Toolkit 的扁平排行掩盖了 TA 被系统性误用的情境（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 英国 EEF 十年循证教育改革复盘：大规模学校现场 RCT 动员、独立评估防火墙、过程评估与现实主义试验转型
 
 ### 美国
 
-> [!case] 美国：联邦立法与 [[What Works Clearinghouse|WWC]] 主导的证据标准
+> [!case] 美国：联邦立法与 [[What Works Clearinghouse|WWC]] 主导的[[Evidence Standards|证据标准]]
 > 从 [[No Child Left Behind Act 2001|NCLB]] 到 ESSA，通过联邦立法和 What Works [[Educational Evidence Clearinghouses|Clearinghouse]] 将 [[Randomised Controlled Trials|RCT]] 证据标准制度化。
 
 > [!evidence-grid-a] 美国案例索引

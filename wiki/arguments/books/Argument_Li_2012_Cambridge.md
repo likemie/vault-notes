@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 151
+argument_related_count: 152
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -113,6 +113,7 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Tracking]]"
   - "[[Doxa]]"
+  - "[[Teaching Assistant]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Literature Review]]"
@@ -135,7 +136,7 @@ related_theories:
   - "[[Neo-Confucianism]]"
   - "[[Self-Determination Theory]]"
   - "[[Phenomenology]]"
-  - "[[Entity vs Incremental Intelligence]]"
+  - "[[Growth Mindset]]"
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
 related_methods:
@@ -185,7 +186,7 @@ sources:
 part_of: []
 status: draft
 created: 2026-05-21
-updated: 2026-09-11
+updated: 2026-09-14
 year: 2012
 doi: ""
 citation_aliases:
@@ -2184,7 +2185,7 @@ Li 现在把第 1 步的分析框架装入西方学习者的具体内容。她�
 > - 放弃的孩子相信：**智力是固定的**（"我聪明不聪明是天生的，这道题做不出说明我不够聪明"）→ 这后来被命名为**实体观（entity view）**
 > - 坚持的孩子相信：**智力可以增长**（"我现在做不出不代表永远做不出，通过努力我可以变聪明"）→ 这后来被命名为**增长观（incremental view）**
 >
-> 这种信念差异后来被系统化为 [[Entity vs Incremental Intelligence]] 理论。它解释了为什么西方学习者对学习中的反馈如此敏感：如果你相信智力是固定的，那么任何一次失败都是对你"这个人"的否定（"我不聪明"），因此你必须不断收到"你做得很好"的信号来确认自己的价值(p.58–59)。
+> 这种信念差异后来被系统化为 [[Growth Mindset|成长型思维]] 理论。它解释了为什么西方学习者对学习中的反馈如此敏感：如果你相信智力是固定的，那么任何一次失败都是对你"这个人"的否定（"我不聪明"），因此你必须不断收到"你做得很好"的信号来确认自己的价值(p.58–59)。
 
 > [!info] 线索 2：Csikszentmihalyi 的心流 — 什么时候学习最快乐？
 > Csikszentmihalyi 用一种创新的[[Experience Sampling Method]]发现了[[Flow]]（心流）现象：当一个人的技能水平与任务难度恰好匹配时，会进入一种"忘记时间、忘记自己、完全沉浸在任务中"的高度愉悦状态。
@@ -2563,7 +2564,7 @@ N. T. Feather 在 1989 年对 300+ 名澳大利亚高中生和 500+ 名大学生
 >
 > 八年级学生开始**不愿向受欢迎同伴披露自己的勤奋程度**（但他们愿意告诉老师——因为老师不会因此排斥他们）。这意味着儿童在进入青春期时，逐渐学会了把"努力"从"值得骄傲的品质"重新编码为"需要隐藏的秘密"。
 
-这一发展轨迹与 Dweck 关于 [[Entity vs Incremental Intelligence|实体论与增长论智力观]] 的研究完全一致：幼儿园儿童相信"聪明的人努力，努力的人也聪明"——努力和能力在他们心中是统一的；到童年中期他们意识到还要能力；到青少年期他们相信"努力是低能力的标志"(pp.96–97)。**儿童不是生来就鄙视努力——他们是在文化的"能力>努力"等级制度中逐渐学会了这种鄙视。**
+这一发展轨迹与 Dweck 关于 [[Growth Mindset|实体论与增长论智力观]] 的研究完全一致：幼儿园儿童相信"聪明的人努力，努力的人也聪明"——努力和能力在他们心中是统一的；到童年中期他们意识到还要能力；到青少年期他们相信"努力是低能力的标志"(pp.96–97)。**儿童不是生来就鄙视努力——他们是在文化的"能力>努力"等级制度中逐渐学会了这种鄙视。**
 
 **第五层：跨国复制 — 这不是美国特例**
 
@@ -2792,7 +2793,7 @@ Li 呈现了三个层级的学校机制，展示东亚同伴文化如何被制�
 > 这个例子说明：**在东亚学校中，帮助一个沉默的同学开口是值得奖励的行为**——不是因为他可怜，而是因为"让每个人都参与学习"本身就是学习的组成部分。
 
 > [!info] 机制 3：小组学习（small groups）
-> 中国学校班级大（小学 40 人、中学 60+），但每班按座位分成若干小组（约 6 组）。小组长协助教师组织教学、收发作业、安排小组值日。但更重要的是：**小组确保每个成员的学习。**
+> 中国学校班级大（小学 40 人、中学 60+），但每班按座位分成若干小组（约 6 组）。小组长协[[Teaching Assistant|助教]]师组织教学、收发作业、安排小组值日。但更重要的是：**小组确保每个成员的学习。**
 >
 > 课后小组成员轮流组织集体做作业——Li 自己也经历过。晚饭后，父母收拾餐桌，孩子们一起做作业。小组作业的目的不是"检查答案"，而是"确保每个人都理解了当天的内容"——理解了一个数学概念的人向还在困惑的人讲解。作业本身**不计入成绩记录**——因为作业的目的不是展示掌握程度（mastery），而是练习、复习和深化理解（practicing, reviewing, and gaining new insight），反映儒家"温故而知新"的原则(pp.105)。
 

@@ -7,7 +7,7 @@ summary: "美国教育政策官员和研究管理者，IES 证据标准体系关
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,16 +34,17 @@ related_persons: []
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
 related_facts:
+  - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Grover "Russ" Whitehurst 是 Bush 政府时期（2001–2009）美国教育部教育研究与改进办公室（OERI, Office of Educational Research and Improvement）主任，后任教育科学研究所（IES, Institute of Education Sciences）首任所长。他是将**[[Randomised Controlled Trials|随机对照试验]]（RCT）**确立为联邦教育研究黄金标准的**关键政策执行者**。
+> - **身份位置** Grover "Russ" Whitehurst 是 Bush 政府时期（2001–2009）美国教育部教育研究与改进办公室（OERI, Office of Educational Research and Improvement）主任，后任教育科学研究所（[[Institute of Education Sciences|IES]], Institute of Education Sciences）首任所长。他是将**[[Randomised Controlled Trials|随机对照试验]]（RCT）**确立为联邦教育研究黄金标准的**关键政策执行者**。
 
 ## 核心思想
 
@@ -61,7 +62,7 @@ updated: 2026-09-11
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **教育科学研究所（IES）的建立** Whitehurst 领导了将 OERI 重组为 IES 的过程，后者以医学 NIH 为模型建立了更严格的资助和研究标准
+> - **教育科学研究所（[[Institute of Education Sciences|IES]]）的建立** Whitehurst 领导了将 OERI 重组为 IES 的过程，后者以医学 NIH 为模型建立了更严格的资助和研究标准
 > - **[[What Works Clearinghouse]]（[[What Works Clearinghouse|WWC]]）** 在其领导下启动，成为美国教育项目有效性审查的核心机构
 > - **学前课程[[Evaluation Research|评估研究]]拨款项目** 首个大规模要求[[Random Assignment|随机化]]评估的联邦教育研究拨款
 

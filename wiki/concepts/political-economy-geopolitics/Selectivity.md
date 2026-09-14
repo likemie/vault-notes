@@ -8,7 +8,7 @@ aliases:
 summary: "治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Scientization of Politics]]"
 related_theories:
   - "[[Neocorporatism]]"
+  - "[[Theory of Change]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: '2026-09-12'
+updated: 2026-09-13
 ---
 
 # Selectivity
@@ -108,7 +109,7 @@ updated: '2026-09-12'
 
 ### 制度薄弱环境中选择性的放大效应
 
-在南欧和东欧，政策网络较弱，选择性效应更为显著。由于缺乏系统的变革理论支持，地方专业人员更容易被就业优先的[[Performance Indicators|绩效指标]]逻辑所牵引——"帮助青年尽快找到任何工作"成为压倒性的实践取向([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])。
+在南欧和东欧，政策网络较弱，选择性效应更为显著。由于缺乏系统的[[Theory of Change|变革理论]]支持，地方专业人员更容易被就业优先的[[Performance Indicators|绩效指标]]逻辑所牵引——"帮助青年尽快找到任何工作"成为压倒性的实践取向([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])。
 
 ### 自下而上的选择性突破
 

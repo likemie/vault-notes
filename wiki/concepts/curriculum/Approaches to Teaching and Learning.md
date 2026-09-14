@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭项目中的一套核心教学与学习方法，旨在通过培养思考、交流、研究等技能，支持核心组件的连贯性与跨学科学习。"
 type: concept
 domain: "curriculum"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Concurrency of Learning]]"
+  - "[[Teaching Assistant]]"
   - "[[Theory of Knowledge]]"
   - "[[IB Learner Profile]]"
   - "[[IB Diploma Programme]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-09-14
 ---
 
 # Approaches to Teaching and Learning
@@ -45,7 +46,7 @@ updated: 2026-08-11
 
 > [!concept-lens] 概念透镜
 > - **含义** ATL 是一组跨越具体学科内容的通用技能框架，涵盖教与学的双向过程。
-> - **用途** 它帮助教育者在不同学科和核心组件之间建立共同语言，使学生的学习经验能够跨情境迁移。
+> - **用途** 它帮[[Teaching Assistant|助教]]育者在不同学科和核心组件之间建立共同语言，使学生的学习经验能够跨情境迁移。
 > - **边界** ATL 是过程性和技能性的，它本身不是知识内容，而必须依附于具体学科知识和情境（如项目任务）中才能被真正教授和评估。
 
 ---

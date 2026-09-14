@@ -8,7 +8,7 @@ aliases:
 summary: "将学生置于模拟现实专业或社会生活的劣构情境中，要求其主动建构、综合应用知识并生成复杂实质作品的教学评价取向"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Teaching Assistant]]"
   - "[[Construct]]"
   - "[[Reliability]]"
   - "[[Ecological Validity]]"
@@ -45,11 +46,12 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Biggs_1999_HERD]]"
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-14
 ---
 
 # Authentic Assessment
@@ -63,7 +65,7 @@ updated: 2026-08-26
 
 > [!concept-lens] 概念透镜
 > - **含义** 将评价任务锚定于现实生活中的真实认知挑战与专业实践标准，关注生成性表现而非记忆提取。
-> - **用途** 帮助教育者克服传统客观测试造成的“[[Construct|构念]]代表性不足”（Construct Underrepresentation），使评估真正反映复杂能力的实际运用。
+> - **用途** 帮[[Teaching Assistant|助教]]育者克服传统客观测试造成的“[[Construct|构念]]代表性不足”（Construct Underrepresentation），使评估真正反映复杂能力的实际运用。
 > - **边界** 真实性评价不等于完全放弃标准化与结构化，其[[Reliability|信度]]保障高度依赖明确的评分量规（Rubrics）与多评分员校准。
 
 > [!citation-card]- 真实性评价与生成性思维
@@ -122,7 +124,7 @@ updated: 2026-08-26
 > 分析真实性评价在大规模教育系统应用中的操作阻力及破解方案。
 
 > [!claim] [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]
-> **评分量规与教师能力建设的支撑作用** 真实性评价在大规模高校或全国系统推广中面临评分主观性强、评价成本高和教师专业负荷大等现实阻力。美国推行的 [[VALUE Rubrics]] 以及 [[OECD]] CERI 研制的评估量规表明，通过研制跨学科/跨领域的分层评分量规，并对教师进行系统的校准培训（Calibration），能够在保持任务真实性与开放性的同时，显著提高评分的一致性与可比性，使真实性评价成为连接宏观政策期望与微观课堂实践的有效桥梁。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–28, 33–34)]]
+> **评分量规与教师能力建设的支撑作用** 真实性评价在大规模高校或全国系统推广中面临评分主观性强、评价成本高和教师专业负荷大等现实阻力。美国推行的 [[VALUE Rubrics]] 以及 [[OECD]] [[Centre for Educational Research and Innovation|CERI]] 研制的评估量规表明，通过研制跨学科/跨领域的分层评分量规，并对教师进行系统的校准培训（Calibration），能够在保持任务真实性与开放性的同时，显著提高评分的一致性与可比性，使真实性评价成为连接宏观政策期望与微观课堂实践的有效桥梁。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–28, 33–34)]]
 
 ---
 

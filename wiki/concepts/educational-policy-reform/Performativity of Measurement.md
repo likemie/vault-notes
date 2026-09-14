@@ -6,7 +6,7 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,9 +25,11 @@ related_concepts:
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Knowledge Co-production]]"
   - "[[Decodification]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
+  - "[[Evidence Standards]]"
   - "[[Visible Learning]]"
   - "[[Ontology]]"
   - "[[Ways of Knowing]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-11
+updated: 2026-09-13
 ---
 
 ## 定义
@@ -105,7 +107,7 @@ updated: 2026-09-11
 > [!info] 理论基础
 > - **Latour 的"科学在行动"** — 关注科学实践如何制造事实，而非科学作为成品([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 > - **Scott 的"国家的视角"** — 排序和测量使治理成为可能，而排序和测量的行为本身改变世界(Scott, 1998;)
-> - **[[Science and Technology Studies]]** — Jasanoff 的共同生产（co-production）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态(Jasanoff, 2004, p.3;)
+> - **[[Science and Technology Studies]]** — Jasanoff 的共同生产（[[Knowledge Co-production|co-production]]）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态(Jasanoff, 2004, p.3;)
 > - **Bottani 的[[Epistemology|认识论]]** — "没有认知方法能使其观察、测量、分析、比较、[[Decodification|解码]]的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
 
 ## 实证发现
@@ -133,7 +135,7 @@ updated: 2026-09-11
 >
 > **教育语言侵蚀([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])** 教育中新管理主义语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"([[Argument_Møller_2017_EERJ|Møller, 2017, p.382, citing Møller, 2007]])
 >
-> **问责制的双重标准([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])** Henig (2013: xi) 指出："将问责体系写入立法和官僚实践的速度超越了支持它的证据——尽管问责体系的设计者同时也是科学本位决策的声援者。"这构成了 performativity 的一个独特案例：测量系统本身规避了其要求他人接受的证据标准。
+> **问责制的双重标准([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])** Henig (2013: xi) 指出："将问责体系写入立法和官僚实践的速度超越了支持它的证据——尽管问责体系的设计者同时也是科学本位决策的声援者。"这构成了 performativity 的一个独特案例：测量系统本身规避了其要求他人接受的[[Evidence Standards|证据标准]]。
 
 
 > [!success] [[Visible Learning]] 作为"新管理全景监狱主义"的完美工具([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020]])

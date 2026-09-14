@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
+  - "[[Teaching Assistant]]"
   - "[[Self-Efficacy]]"
   - "[[Fade-out Effect]]"
   - "[[Academic Achievement]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-22
+updated: 2026-09-14
 ---
 
 # Quantum Opportunity Program
@@ -70,7 +71,7 @@ updated: 2026-08-22
 
 > [!policy-design] 方案架构与“250 × 3”核心机制
 > QOP 专为来自低收入家庭、处于学业失败与辍学高风险中的高中生设计，要求受试学生每年完成 **750 小时** 的结构化课外与社区活动：
-> - **学业发展模块（Academic Development · 250 小时/年）** 包含课后同伴辅导、计算机辅助教学、阅读写作强化与大学申请准备。
+> - **学业发展模块（Academic Development · 250 小时/年）** 包含课后同伴辅导、计算机辅[[Teaching Assistant|助教]]学、阅读写作强化与大学申请准备。
 > - **社区服务模块（Community Service · 250 小时/年）** 组织学生参与社区公共服务、公益项目与公民志愿行动，培养社会责任感与[[Self-Efficacy|自我效能]]。
 > - **生活技能与职业准备（Development Activities · 250 小时/年）** 开展领导力培训、健康心理教育、职场影子实习（Job Shadowing）与财务素养课程。
 > - **经济激励机制** 设立参与工时即时现金津贴，并建立等额大学奖学金信托账户（1:1 配比存入），形成强劲的长期激励杠杆。

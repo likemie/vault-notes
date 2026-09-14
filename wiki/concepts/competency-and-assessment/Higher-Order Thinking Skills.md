@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 62
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Computational Thinking]]"
   - "[[Problem Solving]]"
   - "[[Metacognition]]"
+  - "[[Teaching Assistant]]"
   - "[[Evaluation Research]]"
   - "[[Scaffolding]]"
   - "[[Dialogue in Education]]"
@@ -91,7 +92,7 @@ related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
 created: 2026-08-24
-updated: 2026-09-05
+updated: 2026-09-14
 ---
 
 # Higher-Order Thinking Skills
@@ -105,7 +106,7 @@ updated: 2026-09-05
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生对已有信息和经验进行深层重构、逻辑推论、批判审视与综合创新的复杂高级心智加工体系。
-> - **用途** 帮助教学设计与教育[[Evaluation Research|评价研究]]者超越低阶事实回忆和标准化机械应试，精准培育与测度面向21世纪知识社会的核心认知素养。
+> - **用途** 帮[[Teaching Assistant|助教]]学设计与教育[[Evaluation Research|评价研究]]者超越低阶事实回忆和标准化机械应试，精准培育与测度面向21世纪知识社会的核心认知素养。
 > - **边界** 高阶思维技能不等于脱离具体学科知识的空洞逻辑游戏，亦不同于遵循明确公式步骤的常规熟练运算。
 
 > [!citation-card]- 经典界定与当代操作化表述

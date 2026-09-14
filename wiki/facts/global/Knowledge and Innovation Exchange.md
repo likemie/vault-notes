@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/knowledge-mobilisation
   - theme/global-governance
 related_concepts:
+  - "[[Knowledge Mediation]]"
   - "[[Research Utilization]]"
   - "[[Evaluation Research]]"
   - "[[Governing by Numbers]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-14
 ---
 
 # Knowledge and Innovation Exchange
@@ -59,7 +60,7 @@ updated: 2026-09-12
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 知识与创新交流机制（Knowledge and Innovation Exchange，简称 KIX）是[[Global Partnership for Education|全球教育伙伴关系]]（Global Partnership for Education，GPE）与加拿大国际发展研究中心（International Development Research Centre，IDRC）联合发起的旗舰知识中介与政策促进项目，旨在通过区域同侪交流与本土证据转化，提升发展中国家国家教育部门规划与政策落地的实证基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
+> 知识与创新交流机制（Knowledge and Innovation Exchange，简称 KIX）是[[Global Partnership for Education|全球教育伙伴关系]]（Global Partnership for Education，GPE）与加拿大国际发展研究中心（International Development Research Centre，IDRC）联合发起的旗舰[[Knowledge Mediation|知识中介]]与政策促进项目，旨在通过区域同侪交流与本土证据转化，提升发展中国家国家教育部门规划与政策落地的实证基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2019 年正式启动，一期执行至 2023 年，2024 年启动 KIX 2.0 深化阶段并持续常态化运行。
@@ -80,7 +81,7 @@ updated: 2026-09-12
 > - **干预措施** 设立区域同侪互学工作坊、网络研讨会矩阵、提供循证政策简报，并为多国联合实施的实证创新试验提供种子赠款。
 > - **实施控制** 由四大区域专业机构担任枢纽秘书处，定期开展政策需求评估，追踪试点创新的本土适应性转化指标。
 
-> [!citation-card] KIX 区域知识中介与政策对接定位
+> [!citation-card] KIX 区域[[Knowledge Mediation|知识中介]]与政策对接定位
 > 知识与创新交流机制（KIX）不仅是研究基金，更是连接各国决策者与实践创新的系统性纽带。它通过强化南方国家主导的研究与同侪互学，确保国家教育系统面临的最关键挑战能够获得最高质量的证据支持，从而促成持久的系统性变革。(GPE & IDRC, 2020)
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-09-12
 > [!dev-timeline]- 项目推进历程
 > - **2019–2020 — 机制创设与区域枢纽招标** [[Global Partnership for Education|GPE]] 理事会批准设立 KIX，联合 IDRC 完成全球招标，确立四大区域枢纽：非洲西中部与印度洋枢纽、非洲东南部枢纽、拉丁美洲与加勒比枢纽、欧洲中东中亚与亚太枢纽。
 > - **2021–2023 — 枢纽常态化运转与议题开拓** 各区域枢纽汇聚 70 余国教育部核心决策团队，资助数十项聚焦女童教育、教师专业发展、早期识字与数据治理的跨国[[Evaluation Research|应用研究]]，成为各大多边机构对接南方国家的重要渠道。
-> - **2024–至今 — KIX 2.0 阶段与深度嵌入** 启动 KIX 2.0 拓展计划，进一步将知识中介触角嵌入受援国教育部法定规划程序，以应对全球多边机构在[[Governing by Numbers|数字治理]] 2.0 时代加剧的[[Policy Brokerage|政策中介]]竞争。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **2024–至今 — KIX 2.0 阶段与深度嵌入** 启动 KIX 2.0 拓展计划，进一步将[[Knowledge Mediation|知识中介]]触角嵌入受援国教育部法定规划程序，以应对全球多边机构在[[Governing by Numbers|数字治理]] 2.0 时代加剧的[[Policy Brokerage|政策中介]]竞争。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 ---
 

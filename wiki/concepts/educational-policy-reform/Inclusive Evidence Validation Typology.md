@@ -7,7 +7,7 @@ aliases:
 summary: "Dachet and Baye 在法语比利时教育卓越公约中使用的证据分类框架，以方法多元方式给教学工具和项目设置最低验证标准。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - validation
   - region/belgium
 related_concepts:
+  - "[[Evidence Standards]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Research Question]]"
   - "[[Variable]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-09-13
 ---
 
 # Inclusive Evidence Validation Typology
@@ -50,12 +51,12 @@ updated: 2026-05-24
 > [!info]
 > 包容性证据验证类型学是 Dachet and Baye 在法语比利时[[Pact for Educational Excellence|教育卓越公约]]工作中建立的研究设计分类框架。它用于整理教学工具/项目的证据基础，把专家验证、[[Case Study|案例研究]]、横断研究、相关或[[Longitudinal Study|纵向研究]]、实验和准[[Experimental Research|实验研究]]放在同一连续框架内，同时为每类方法设置最低质量标准([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-178]])。
 
-这个类型学的出发点不是降低证据要求，而是在本地实验研究极少的情况下避免把几乎所有候选工具排除出改革过程。2017 年工作组列出 425 个教学工具/项目，只有 61 个曾被教育研究者测试，只有 13 个即约 3% 采用实验设计；若直接采用等级式或金字塔式证据标准，约 97% 的工具/项目都会被排除([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.175]])。
+这个类型学的出发点不是降低证据要求，而是在本地实验研究极少的情况下避免把几乎所有候选工具排除出改革过程。2017 年工作组列出 425 个教学工具/项目，只有 61 个曾被教育研究者测试，只有 13 个即约 3% 采用实验设计；若直接采用等级式或金字塔式[[Evidence Standards|证据标准]]，约 97% 的工具/项目都会被排除([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.175]])。
 
 ## 概念辨析
 
 > [!example]
-> - vs [[Educational Evidence Clearinghouses]] — 清算中心通常通过较稳定的证据标准对项目进行外部评级；包容性证据验证类型学则是在本地项目证据稀少时，为改革内部的项目筛选和后续研究设置过渡性标准([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-176]])。
+> - vs [[Educational Evidence Clearinghouses]] — 清算中心通常通过较稳定的[[Evidence Standards|证据标准]]对项目进行外部评级；包容性证据验证类型学则是在本地项目证据稀少时，为改革内部的项目筛选和后续研究设置过渡性标准([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-176]])。
 > - vs 传统证据层级 — 传统层级常把[[Experimental Research|实验研究]]置于顶端并排除较弱设计；该类型学承认实验和准实验对效果问题最有力，但同时保留专家验证、[[Case Study|案例研究]]和描述性研究在早期筛选、实施理解和问题生成中的作用([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-180]])。
 
 ## 核心要素

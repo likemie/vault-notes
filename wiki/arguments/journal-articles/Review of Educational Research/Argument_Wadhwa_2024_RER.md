@@ -11,10 +11,10 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 72
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 76
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 journal: Review of Educational Research
 citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs. Review of Educational Research, 94(1), 3–32. https://doi.org/10.3102/00346543231152262"
 year: 2024
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Operationalization]]"
   - "[[Peer-Supported Learning]]"
+  - "[[Research Translation]]"
   - "[[Clinical Trial]]"
   - "[[Iatrogenic Effects in Education]]"
   - "[[Literature Search]]"
@@ -57,15 +58,18 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
+  - "[[Evidence Standards]]"
   - "[[Abstract]]"
   - "[[Evaluator Independence]]"
   - "[[Publication Bias]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
+  - "[[Social-Emotional Learning]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Conflict of Interest in Research]]"
   - "[[School Leadership]]"
+  - "[[Educational Brokerage Agency]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -74,7 +78,6 @@ related_methods:
   - "[[Multimethod Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Experimental Research]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Time Series Design]]"
   - "[[Effect Size]]"
@@ -87,6 +90,7 @@ related_methods:
   - "[[Manipulation Check]]"
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -116,7 +120,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-05-05
-updated: 2026-08-22
+updated: 2026-09-13
 ---
 # Argument_Wadhwa_2024_RER
 
@@ -201,7 +205,7 @@ updated: 2026-08-22
 > [!index-table] Table 1：候选清算中心排除规则与名单
 > | 排除理由与依据 | 排除数量 | 被排除机构清单（共 19 所） |
 > |:---|:---:|:---|
-> | **不发布有效性评级**<br>主要作为研究资料库或其他社会科学用途 | 8 | California Healthy Kids Resource Center; Center on Knowledge Translation for Disability and Rehabilitation Research; My Brother's Keeper; National Quality Measures Clearinghouse; National Guideline Clearinghouse; Washington State Institute of Public Policy (WSIPP); Out-of-School Time Program Database; United States Interagency Council on Homelessness Solutions Database |
+> | **不发布有效性评级**<br>主要作为研究资料库或其他社会科学用途 | 8 | California Healthy Kids Resource Center; Center on [[Research Translation\|knowledge translation]] for Disability and Rehabilitation Research; My Brother's Keeper; National Quality Measures Clearinghouse; National Guideline Clearinghouse; Washington State Institute of Public Policy (WSIPP); Out-of-School Time Program Database; United States Interagency Council on Homelessness Solutions Database |
 > | **无法在线访问或已停运**<br>截至 2019 年 5 月已关闭或无法获取标准 | 6 | 美国物质滥用和精神健康服务管理局国家循证项目与[[Praxis\|实践]]登记库（National Registry of Evidence-based Programs and Practices, NREPP SAMHSA）; Social Work Policy Institute; Evidence-based Practices for Substance Abuse; FindYouthInfo.gov; Self-Sufficiency Research Clearinghouse; 培育儿童成功终身干预（Lifecourse Interventions to Nurture Kids Successfully, LINKS） |
 > | **不进行自身独立评级**<br>仅转载、链接或采纳其他清算中心评级 | 5 | 美国少年司法和预防犯罪办公室示范项目指南（Office of Juvenile Justice and Delinquency Prevention Model Programs Guide, OJJDP）; What Works in Reentry Clearinghouse; Youth.gov; Best Practices Registry for Suicide Prevention; [[Campbell Collaboration]] |
 
@@ -280,7 +284,7 @@ updated: 2026-08-22
 > [!chain-link] 综合标准微观对比
 > 作者选取具有代表性的四个清算中心（WWC、Blueprints、NDPC、CEBC）进行全要素对比，揭示“最高评级”在不同机构间的巨大内涵差异。
 
-> [!contrast-table] Table 4：四大清算中心证据标准与评级门槛深度对照
+> [!contrast-table] Table 4：四大清算中心[[Evidence Standards|证据标准]]与评级门槛深度对照
 > | 比较维度 | [[What Works Clearinghouse\|WWC]] | [[Blueprints for Healthy Youth Development\|Blueprints]] | [[National Dropout Prevention Center\|NDPC]] | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] |
 > |:---|:---|:---|:---|:---|
 > | **评级对象** | 单项研究；按**结果域**独立评价干预有效性（不跨域聚合） | 单项研究；具名项目整体 | 项目整体（不为单项研究独立评级） | 项目整体（提供[[Abstract\|研究摘要]]，不为单项研究独立评级） |
@@ -502,7 +506,7 @@ updated: 2026-08-22
 
 > [!warning]
 > 1. **未考察政策制定者的实际使用行为** 论文未追踪[[School Leadership|学校领导]]与政策制定者在实际采购和项目采纳过程中如何使用清算中心评级，无法实证评估评级不一致对实际教育实践造成的具体损害程度(p. 28)。
-> 2. **结论适用范围局限于认证类清算中心** 研究仅覆盖以“认证干预有效性”为核心任务的清算中心，不能直接推广至仅承担知识经纪、证据中介或不发布有效性等级的其他证据机构(pp. 28–29)。
+> 2. **结论适用范围局限于认证类清算中心** 研究仅覆盖以“认证干预有效性”为核心任务的清算中心，不能直接推广至仅承担[[Educational Brokerage Agency|知识经纪]]、证据中介或不发布有效性等级的其他证据机构(pp. 28–29)。
 > 3. **依赖公开网络文档与手册** 分析完全基于清算中心公开发布的网页信息、标准指南与技术手册；若机构内部存在未公开的实际评审裁决规则，本研究无法对其进行捕获与评估(p. 29)。
 > 4. **动态生态的时间切片局限** 数据收集集中于 2019 年 6 月至 2020 年 8 月，清算中心的评审协议、纳入[[Document|文献]]与网站架构随时间处于动态演进之中，各中心吸纳最新方法学标准的速度亦存在异步性。
 

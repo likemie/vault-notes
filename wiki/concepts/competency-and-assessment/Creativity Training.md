@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Divergent Thinking]]"
   - "[[Reflexivity]]"
+  - "[[Evidence Standards]]"
   - "[[SCAMPER]]"
   - "[[Constructivist Paradigm]]"
   - "[[Externalization]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Lateral Thinking]]"
   - "[[Metacognition]]"
+  - "[[Knowledge Production]]"
   - "[[Hypothesis]]"
   - "[[Brainstorming]]"
   - "[[Structured Teaching]]"
@@ -82,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-11
+updated: 2026-09-13
 ---
 
 # Creativity Training
@@ -122,7 +124,7 @@ updated: 2026-09-11
 > | **核心机制** | [[Divergent Thinking\|发散思维]]、顿悟酝酿、概念重组与显式启发式策略 | 样例示范、刻意练习、即时反馈与收敛精熟 | 逻辑谬误识别、证据标准评估与[[Reflexivity\|反思性]]判断 |
 > | **典型实证效应** | 综合干预 $r = 0.20$（高校干预 $g = 0.628$，实验教学 $d \approx 0.60 \sim 0.77$） | 基础技能精熟度 $d \approx 0.50 \sim 0.60$ | 论证与逻辑批判能力 $d \approx 0.30 \sim 0.50$ |
 > | **问题情境特征** | 不良结构、开放性、无单一标准答案的真实挑战 | 良构、有明确解题路径与唯一标准答案的任务 | 评价性、论辩性与反思性文本或情境 |
-> | **失败容忍度** | 高容错，鼓励在概念跳跃与试错中发现新构想 | 低容错，强调精确掌握标准操作程序与避免错误 | 中等，强调依据证据标准纠正错误信念 |
+> | **失败容忍度** | 高容错，鼓励在概念跳跃与试错中发现新构想 | 低容错，强调精确掌握标准操作程序与避免错误 | 中等，强调依据[[Evidence Standards\|证据标准]]纠正错误信念 |
 
 ---
 
@@ -169,7 +171,7 @@ updated: 2026-09-11
 ### 范式二　以学习者为中心的建构主义学科探究教学
 
 > [!exegesis] 学科深度嵌入式与劣构问题探究教学
-> 此类干预将创造力培养深度嵌入学科课程与跨学科真实挑战中，主张创造力不是脱离知识内容的抽象演练，而是通过不良结构问题驱动高阶知识建构与实体原型迭代（Yunita et al., 2020; Suganda et al., 2021; Vally et al., 2019）。
+> 此类干预将创造力培养深度嵌入学科课程与跨学科真实挑战中，主张创造力不是脱离知识内容的抽象演练，而是通过不良结构问题驱动高阶[[Knowledge Production|知识建构]]与实体原型迭代（Yunita et al., 2020; Suganda et al., 2021; Vally et al., 2019）。
 >
 > 1. **问题驱动教学法（Problem-Based Learning, PBL）**
 >    - **核心机制** 以开放、复杂、劣构的真实世界问题为驱动引擎，学生以小组为单位自主提出[[Hypothesis|假设]]、检索信息、论证方案并迭代解决；

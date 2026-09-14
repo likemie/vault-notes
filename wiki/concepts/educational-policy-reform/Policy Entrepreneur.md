@@ -66,7 +66,7 @@ updated: 2026-07-13
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种能够跨越公共、非营利和营利等多个传统分立界限的，具有极高能动性与资源打包能力的跨界行动者。
 > - **用途** 它帮助研究者透视全球化治理中传统民族国家行政权威被“分散权威”和跨国多行动者网络蚕食后，政策流动背后的能动主体和微观机制。
-> - **边界** 不应将所有的普通游说团体或单纯执行政策的学校管理人员视为政策企业家；它强调主动创造或利用政策窗口、对知识产权进行商业化包装并建立[[Snowball Sampling|网络化]]契约关系的创业特征。
+> - **边界** 不应将所有的普通游说团体或单纯执行政策的学校管理人员视为政策企业家；它强调主动创造或利用政策窗口、对知识产权进行商业化包装并建立网络化契约关系的创业特征。
 
 > [!citation-card]- 关键表述
 > 海蒂目前全球性的社交网络路径，可以被合理解释为他在公共利益、非营利与营利性政策创业和倡导方面的无缝整合。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]])
@@ -94,7 +94,7 @@ updated: 2026-07-13
 
 > [!feature] 核心要素
 > - **跨领域无缝切换（Seamless Straddling）** 政策企业家能够根据政策情境，在公共福利（提供学术标准或测试）、非营利（担任教育基金会或信托董事）和营利（通过商业公司将教育产品全球出售）等三重身份之间灵活切换，将冲突的动机转化为合力的网络流。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]])
-> - **[[Snowball Sampling|网络化]]能动作用（Networked Agency）** 依赖于个人化和非正式的社交网络（Social Networks），绕过传统的科层规制，以契约合作、多边联盟的方式建立跨系统的新型影响力。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 47]])
+> - **网络化能动作用（Networked Agency）** 依赖于个人化和非正式的社交网络（Social Networks），绕过传统的科层规制，以契约合作、多边联盟的方式建立跨系统的新型影响力。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 47]])
 > - **知识产权的品牌商业化（Brand Monetisation）** 擅长将纯学术的研究成果（如[[Meta-analysis|元分析]]数据）包装为极易操作、模块化且可复制的品牌产品（如教师工作坊、学校认证体系），从而通过市场化手段在全球范围内扩散，建立实质性的[[Governing at a Distance|远处治理]]标准。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. viii–ix]])
 
 > [!logic-map]- 要素关系
@@ -112,7 +112,7 @@ updated: 2026-07-13
 
 ### 命题一　政策企业家是全球分散权威空间中远处治理的核心协调者
 
-> [!concept-lens] [[Governing at a Distance|远处治理]]与[[Snowball Sampling|网络化]]协调
+> [!concept-lens] [[Governing at a Distance|远处治理]]与网络化协调
 > 这一命题关注在去中心化的全球教育治理中，政策企业家如何利用数据和评估指标，绕过国家主权屏障，在跨国尺度上实施软性政策控制。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
@@ -173,7 +173,7 @@ updated: 2026-07-13
 > - **教育价值榨取与资本[[Attrition|流失]]** 外部财务审计表明，许多慈善性或混合性的[[Educational Management Organisation|教育管理组织]]（EMOs），以政策创业提供“最佳服务”为名，从公立教育系统中吸纳的合同金与咨询费，远远超过其通过慈善捐赠或直接服务返还给公立学校的价值，造成了公立体系向私人资本的净价值流失。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. xv]])
 
 > [!warning] 适用局限
-> 政策企业家的解释力依赖于国家治理向“[[Snowball Sampling|网络化]]”或“管理的教育市场”倾斜的制度安排；在强力中央控制或科层制行政命令绝对主导的刚性体系下，政策企业家的活动空间受限。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. xv]])
+> 政策企业家的解释力依赖于国家治理向“网络化”或“管理的教育市场”倾斜的制度安排；在强力中央控制或科层制行政命令绝对主导的刚性体系下，政策企业家的活动空间受限。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. xv]])
 
 ---
 

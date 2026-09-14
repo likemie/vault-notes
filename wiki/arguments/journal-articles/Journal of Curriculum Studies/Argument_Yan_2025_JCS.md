@@ -10,7 +10,7 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Sinicisation]]"
 related_theories:
+  - "[[Theory of Change]]"
   - "[[World Society Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -65,6 +66,7 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
   - "[[2009 Hong Kong NSS Curriculum Reform]]"
+  - "[[Institute of Education Sciences]]"
   - "[[National Education]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
@@ -73,7 +75,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-07-13
+updated: 2026-09-13
 year: 2025
 doi: ""
 citation_aliases:
@@ -96,7 +98,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 三层[[Analytic Framework|分析框架]]
-> 分析以 Cuban 课程变革理论为起点，辅以 [[World Society Theory|世界文化理论]] 和 [[Policy Borrowing|政策借用]] 框架，并引入 Tröhler(2023)的国家利益驱动论作为废除阶段的核心解释。
+> 分析以 Cuban 课程[[Theory of Change|变革理论]]为起点，辅以 [[World Society Theory|世界文化理论]] 和 [[Policy Borrowing|政策借用]] 框架，并引入 Tröhler(2023)的国家利益驱动论作为废除阶段的核心解释。
 >
 > **Cuban(1992)的三因素模型**。Cuban 在分析美国课程变革史时识别出三个外部驱动力：[[Progressive Education|进步教育]]运动、冷战与国防、立法与法律决定。将此框架搬到香港语境中检验，三个因素的权重在 LS 的诞生与废除两个阶段发生了戏剧性变化。Cuban 还强调课程变革本质上是政治过程，涉及权力、控制、联盟、讨价还价和妥协(p. 224)。
 >
@@ -175,7 +177,7 @@ LS 的课程设计直接回应了这些批评。《[[General Education|通识教
 
 1997 年回归后不久，香港经济即遭受 1998 年亚洲金融风暴重创，这恰好与第一届特区政府任期（1997–2002）重叠。公众对港府的治理能力和领导回归后香港的合法性产生了怀疑。在此背景下，港府将教育改革定位为重建信心的起点。
 
-> [!note]- 外部化策略
+> [!note]- [[Externalization|外部化]]策略
 > 港府采取了"外部化"（[[Externalization]]）策略，将国内教育问题表述为回应全球趋势的必要改革。三份关键政策文件的表述高度一致。
 >
 > 2000 年《施政报告》指出，亚洲金融风暴暴露出经济的结构性弱点，需要通过改革来增强竞争力，把握全球化和[[Knowledge-Based Economy|知识经济]]带来的巨大机遇(Tung, 2000, p. 5)。
@@ -197,7 +199,7 @@ LS 的课程设计大量参照了国际文凭大学预科课程（[[IB Diploma P
 > |---|---|---|
 > | 其他学习经历 | 创造、行动与服务（Creativity, Activity, Service, [[Creativity, Action, Service\|CAS]]） | 强调学生对社区的参与 |
 > | [[Liberal Education\|自由教育]]与建构主义理念 | 知识论（[[Epistemology\|theory of knowledge]], TOK） | 引导学生理解知识本质、发展批判性思维 |
-> | 独立专题探究（Independent Enquiry Study, IES） | 延伸论文（[[Extended Essay]]） | 学生自主选题、自主研究方法、[[Self-Directed Learning\|自我导向学习]] |
+> | 独立专题探究（Independent Enquiry Study, [[Institute of Education Sciences\|IES]]） | 延伸论文（[[Extended Essay]]） | 学生自主选题、自主研究方法、[[Self-Directed Learning\|自我导向学习]] |
 >
 > IES 被设计为"一种自我导向的学习体验，学生承担学习的主要责任......自主[[Multiple-Choice Questions|选择题]]目、[[Research Scope|研究范围]]、研究方法以及呈现研究发现和成果的方式"(CDC & HKEAA, 2007, pp. 57–58)。
 
@@ -307,7 +309,7 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 ## 主要发现
 
 > [!success] 核心发现
-> 1. **全球化论述的[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]**。如果仅看 LS 的创立，似乎验证了 [[World Society Theory|世界文化理论]] 的趋同[[Hypothesis|假设]]。但港府引用全球论述的真正目的是"外部化"国内问题，这更符合 [[Policy Borrowing|政策借用]] 逻辑。全球趋势和海外模式是合法化改革的修辞工具，而非变革的真正动因(p. 491)。
+> 1. **全球化论述的[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]**。如果仅看 LS 的创立，似乎验证了 [[World Society Theory|世界文化理论]] 的趋同[[Hypothesis|假设]]。但港府引用全球论述的真正目的是"[[Externalization|外部化]]"国内问题，这更符合 [[Policy Borrowing|政策借用]] 逻辑。全球趋势和海外模式是合法化改革的修辞工具，而非变革的真正动因(p. 491)。
 >
 > 2. **Cuban 框架中各因素的权重发生了戏剧性变化**。创立阶段，[[Progressive Education|进步教育]]运动和立法协商是核心；废除阶段，"冷战/国防"以"新冷战"和"国家安全"的形式回归，成为压倒其他所有因素的决定性力量(pp. 488–489)。
 >

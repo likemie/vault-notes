@@ -4,13 +4,14 @@ aliases: [类型化, 典型化, 理想类型化, typifications]
 summary: "阿尔弗雷德·舒茨现象学社会学的核心认知与互动机制，指行动者与研究者运用源自社会既有知识库的“理想类型”心智图式来理解他人行为、组织日常生活世界并在多重实在间穿梭的过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: [theme/epistemology, theme/social-phenomenology, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
   - "[[Concept Mapping]]"
+  - "[[Teaching Assistant]]"
   - "[[Construct]]"
   - "[[Rich and Thick Description]]"
   - "[[Phronesis]]"
@@ -46,7 +47,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Typification
@@ -60,7 +61,7 @@ updated: 2026-09-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向行动者在社会交往中将独特的个别经验归入匿名化、一般化的常识范畴的心智与符号过程。
-> - **用途** 帮助教育研究者揭示课堂微观互动中师生如何相互分类（如教师构建“理想学生”标签），以及[[Qualitative Research|质性研究]]者如何从一阶常识[[Construct|构念]]提炼二阶科学理论模型。
+> - **用途** 帮[[Teaching Assistant|助教]]育研究者揭示课堂微观互动中师生如何相互分类（如教师构建“理想学生”标签），以及[[Qualitative Research|质性研究]]者如何从一阶常识[[Construct|构念]]提炼二阶科学理论模型。
 > - **边界** 必须警惕类型化僵化演变为排他性的刻板印象（stereotyping）与自证预言，不能代替对行动者独特鲜活主观经验的微观[[Rich and Thick Description|深描]]。
 
 > [!citation-card] 理想类型图式与日常生活秩序建构

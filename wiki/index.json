@@ -2295,7 +2295,9 @@
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
     "aliases": [
-      "吸收能力"
+      "吸收能力",
+      "知识吸收能力",
+      "组织吸收能力"
     ]
   },
   {
@@ -2370,6 +2372,16 @@
     "aliases": [
       "学校领导力",
       "学校领导"
+    ]
+  },
+  {
+    "title": "Teaching Assistant",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Teaching Assistant.md",
+    "aliases": [
+      "助教",
+      "Teaching Assistants",
+      "教学助理"
     ]
   },
   {
@@ -3325,8 +3337,7 @@
     "aliases": [
       "科学不确定性",
       "证据不确定性",
-      "认知不确定性",
-      "不确定性沟通"
+      "认知不确定性"
     ]
   },
   {
@@ -3624,6 +3635,18 @@
     ]
   },
   {
+    "title": "Democratising Evidence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Democratising Evidence.md",
+    "aliases": [
+      "证据民主化",
+      "研究证据民主化",
+      "研究生产民主化",
+      "Democratizing Evidence",
+      "Democratisation of Evidence"
+    ]
+  },
+  {
     "title": "Educational Brokerage Agency",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md",
@@ -3633,7 +3656,10 @@
       "教育知识经纪机构",
       "brokerage agency",
       "education brokerage organisation",
-      "brokerage agencies in education"
+      "brokerage agencies in education",
+      "知识经纪",
+      "Knowledge Brokerage Intermediary",
+      "KBI"
     ]
   },
   {
@@ -3734,6 +3760,18 @@
       "research ecosystem",
       "evidence ecosystems",
       "教育研究生态系统"
+    ]
+  },
+  {
+    "title": "Evidence Standards",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence Standards.md",
+    "aliases": [
+      "证据标准",
+      "证据准则",
+      "证据质量标准",
+      "standards of evidence",
+      "evidence claim standards"
     ]
   },
   {
@@ -4100,6 +4138,16 @@
     ]
   },
   {
+    "title": "Poor Research Use",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Poor Research Use.md",
+    "aliases": [
+      "劣质研究使用",
+      "差劲研究使用",
+      "劣质证据使用"
+    ]
+  },
+  {
     "title": "Post-Normal Science",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Post-Normal Science.md",
@@ -4148,6 +4196,18 @@
     ]
   },
   {
+    "title": "Push and Pull Models of Knowledge Mobilisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Push and Pull Models of Knowledge Mobilisation.md",
+    "aliases": [
+      "推拉模型",
+      "供给推送与需求牵引模型",
+      "Push-Pull Models of Knowledge Mobilisation",
+      "Push and Pull Models",
+      "知识动员推拉模型"
+    ]
+  },
+  {
     "title": "Quality Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Quality Education.md",
@@ -4187,6 +4247,17 @@
       "研究知情教学实践",
       "研究本位教学实践",
       "RITP"
+    ]
+  },
+  {
+    "title": "Research-Policy Gap",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Research-Policy Gap.md",
+    "aliases": [
+      "研究-政策鸿沟",
+      "研究与政策的鸿沟",
+      "research-policy divide",
+      "policy-research gap"
     ]
   },
   {
@@ -4304,6 +4375,17 @@
     ]
   },
   {
+    "title": "Statistical Normalisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Statistical Normalisation.md",
+    "aliases": [
+      "统计正态化",
+      "统计标准化",
+      "Statistical Normalization",
+      "高斯正态化"
+    ]
+  },
+  {
     "title": "STEM Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/STEM Education.md",
@@ -4354,12 +4436,26 @@
     ]
   },
   {
+    "title": "Third Space Discourse",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Third Space Discourse.md",
+    "aliases": [
+      "第三空间话语",
+      "第三空间对话",
+      "Third Space",
+      "第三空间"
+    ]
+  },
+  {
     "title": "What Works Movement",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/What Works Movement.md",
     "aliases": [
       "什么有效运动",
-      "循证改革运动"
+      "循证改革运动",
+      "Evidence-Based Reform Movement",
+      "What Works Agenda",
+      "循证政策运动"
     ]
   },
   {
@@ -5705,7 +5801,9 @@
     "path": "wiki/concepts/instruction-pedagogy/Homework.md",
     "aliases": [
       "家庭作业",
-      "作业"
+      "作业",
+      "课外作业",
+      "school homework"
     ]
   },
   {
@@ -6290,7 +6388,10 @@
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Self-control.md",
     "aliases": [
-      "自我控制"
+      "自我控制",
+      "自控",
+      "self-regulation",
+      "自我控制能力"
     ]
   },
   {
@@ -7107,6 +7208,18 @@
     ]
   },
   {
+    "title": "Business as Usual",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Business as Usual.md",
+    "aliases": [
+      "常态教学",
+      "常规教学实践",
+      "照常教学",
+      "常规对照组",
+      "Business as Usual Condition"
+    ]
+  },
+  {
     "title": "Catalytic Validity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Catalytic Validity.md",
@@ -7454,6 +7567,18 @@
     "aliases": [
       "生态效度",
       "生态学效度"
+    ]
+  },
+  {
+    "title": "Effective Sample Size",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Effective Sample Size.md",
+    "aliases": [
+      "有效样本量",
+      "实际有效样本量",
+      "ESS",
+      "Effective Sample Size (ESS)",
+      "有效样本规模"
     ]
   },
   {
@@ -9287,6 +9412,19 @@
     ]
   },
   {
+    "title": "Professional Learning Community",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Professional Learning Community.md",
+    "aliases": [
+      "专业学习共同体",
+      "PLC",
+      "PLCs",
+      "Professional Learning Communities",
+      "专业学习团队",
+      "PLT"
+    ]
+  },
+  {
     "title": "Research Literacy",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Research Literacy.md",
@@ -9492,8 +9630,7 @@
     "aliases": [
       "研究利益冲突",
       "conflict of interest",
-      "COI",
-      "利益冲突"
+      "COI"
     ]
   },
   {
@@ -10883,6 +11020,18 @@
     ]
   },
   {
+    "title": "COM-B Model",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/COM-B Model.md",
+    "aliases": [
+      "COM-B",
+      "行为改变模型",
+      "能力-机会-动机-行为模型",
+      "COM-B Model of Behaviour",
+      "Capability-Opportunity-Motivation-Behaviour"
+    ]
+  },
+  {
     "title": "Ecosystem for Research-Engaged Schools",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Ecosystem for Research-Engaged Schools.md",
@@ -10946,7 +11095,9 @@
       "研究证据质量使用框架",
       "Quality Use of Research Evidence",
       "高质量研究使用框架",
-      "高质量研究使用"
+      "高质量研究使用",
+      "高质量研究证据使用框架",
+      "QURE Framework"
     ]
   },
   {
@@ -10970,6 +11121,17 @@
       "Models of Research Utilization",
       "Weiss's Models of Research Utilization",
       "韦斯研究利用模型"
+    ]
+  },
+  {
+    "title": "Theory of Change",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Theory of Change.md",
+    "aliases": [
+      "变革理论",
+      "ToC",
+      "theories of change",
+      "变革理论模型"
     ]
   },
   {
@@ -11349,16 +11511,21 @@
     ]
   },
   {
-    "title": "Entity vs Incremental Intelligence",
+    "title": "Growth Mindset",
     "type": "theory",
-    "path": "wiki/theories/learning-science-cognitive-science/Entity vs Incremental Intelligence.md",
+    "path": "wiki/theories/learning-science-cognitive-science/Growth Mindset.md",
     "aliases": [
-      "实体论与增长论智力观",
-      "growth mindset",
-      "fixed mindset",
-      "entity theory of intelligence",
-      "incremental theory of intelligence",
-      "智力实体观与增长观"
+      "成长型思维",
+      "固定型思维",
+      "Fixed Mindset",
+      "Implicit Theories of Intelligence",
+      "内隐智力理论",
+      "实体论智力观",
+      "增长论智力观",
+      "Incremental Intelligence",
+      "Entity Intelligence",
+      "实体智力观",
+      "增长智力观"
     ]
   },
   {
@@ -11753,10 +11920,14 @@
     "aliases": [
       "实在论评估",
       "现实主义评估",
-      "Realist Evaluation",
       "实在论评估理论",
       "现实主义评估理论",
-      "realist appraisal"
+      "realist appraisal",
+      "现实主义试验",
+      "实在论随机对照试验",
+      "Realist Trials",
+      "实在论综合",
+      "Realist Synthesis"
     ]
   },
   {
@@ -12102,6 +12273,16 @@
     ]
   },
   {
+    "title": "EMMIE Framework",
+    "type": "method",
+    "path": "wiki/methods/mixed/EMMIE Framework.md",
+    "aliases": [
+      "EMMIE",
+      "证据多维评价框架",
+      "Effect-Mechanism-Moderator-Implementation-Economics Framework"
+    ]
+  },
+  {
     "title": "Explanatory Sequential Design",
     "type": "method",
     "path": "wiki/methods/mixed/Explanatory Sequential Design.md",
@@ -12135,6 +12316,19 @@
     "path": "wiki/methods/mixed/Gating Procedure.md",
     "aliases": [
       "闸门程序"
+    ]
+  },
+  {
+    "title": "Implementation and Process Evaluation",
+    "type": "method",
+    "path": "wiki/methods/mixed/Implementation and Process Evaluation.md",
+    "aliases": [
+      "实施与过程评估",
+      "过程评估",
+      "IPE",
+      "Process Evaluation",
+      "实施评估",
+      "implementation evaluation"
     ]
   },
   {
@@ -13283,9 +13477,7 @@
       "链式转介法",
       "chain-referral sampling",
       "受访者驱动抽样",
-      "respondent-driven sampling",
-      "网络化",
-      "networking"
+      "respondent-driven sampling"
     ]
   },
   {
@@ -13459,6 +13651,16 @@
       "网站内容分析",
       "website analysis",
       "网页内容分析"
+    ]
+  },
+  {
+    "title": "Weight of Evidence Framework",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Weight of Evidence Framework.md",
+    "aliases": [
+      "证据权重框架",
+      "Weight of Evidence",
+      "WoE"
     ]
   },
   {
@@ -13927,6 +14129,20 @@
     ]
   },
   {
+    "title": "Efficacy and Effectiveness Trials",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Efficacy and Effectiveness Trials.md",
+    "aliases": [
+      "效力试验与实效试验",
+      "功效试验与有效性试验",
+      "Efficacy vs Effectiveness",
+      "效力试验",
+      "实效试验",
+      "Efficacy Trials",
+      "Effectiveness Trials"
+    ]
+  },
+  {
     "title": "Egger Regression Test",
     "type": "method",
     "path": "wiki/methods/quantitative/Egger Regression Test.md",
@@ -14005,7 +14221,11 @@
       "因子设计",
       "析因设计",
       "factorial experiment",
-      "2x2 factorial design"
+      "2x2 factorial design",
+      "多臂与析因试验",
+      "multi-arm trial",
+      "析因实验",
+      "factorial trial"
     ]
   },
   {
@@ -15146,6 +15366,30 @@
     ]
   },
   {
+    "title": "CONSORT-SPI",
+    "type": "instrument",
+    "path": "wiki/instruments/checklists/CONSORT-SPI.md",
+    "aliases": [
+      "社会与心理干预试验报告综合标准",
+      "CONSORT-SPI 2018",
+      "CONSORT for Social and Psychological Interventions",
+      "CONSORT extension for social and psychological interventions",
+      "社会与心理干预试验报告标准"
+    ]
+  },
+  {
+    "title": "EEF Padlock Security Rating",
+    "type": "instrument",
+    "path": "wiki/instruments/checklists/EEF Padlock Security Rating.md",
+    "aliases": [
+      "挂锁安全评级",
+      "EEF 证据安全性评级",
+      "padlock security rating",
+      "EEF Padlock Rating",
+      "挂锁评级系统"
+    ]
+  },
+  {
     "title": "Kmet Quality Assessment Checklist",
     "type": "instrument",
     "path": "wiki/instruments/checklists/Kmet Quality Assessment Checklist.md",
@@ -15163,6 +15407,18 @@
       "MMAT",
       "混合方法评价工具",
       "混合方法鉴定工具"
+    ]
+  },
+  {
+    "title": "TIDieR",
+    "type": "instrument",
+    "path": "wiki/instruments/checklists/TIDieR.md",
+    "aliases": [
+      "干预描述与复制模板",
+      "TIDieR Checklist",
+      "干预描述与复制清单",
+      "Template for Intervention Description and Replication",
+      "干预描述和复制指南"
     ]
   },
   {
@@ -15819,6 +16075,15 @@
     ]
   },
   {
+    "title": "Mark Rickinson",
+    "type": "person",
+    "path": "wiki/persons/australia/Mark Rickinson.md",
+    "aliases": [
+      "Rickinson, M.",
+      "马克·里金森"
+    ]
+  },
+  {
     "title": "Scott Eacott",
     "type": "person",
     "path": "wiki/persons/australia/Scott Eacott.md",
@@ -15844,6 +16109,16 @@
     "aliases": [
       "奥托·纽拉特",
       "Neurath, O."
+    ]
+  },
+  {
+    "title": "Dirk Van Damme",
+    "type": "person",
+    "path": "wiki/persons/belgium/Dirk Van Damme.md",
+    "aliases": [
+      "迪尔克·范达默",
+      "范达默",
+      "Van Damme"
     ]
   },
   {
@@ -15998,6 +16273,17 @@
     "aliases": [
       "Maturana, H.",
       "温贝托·马图拉纳"
+    ]
+  },
+  {
+    "title": "José Manuel Torres",
+    "type": "person",
+    "path": "wiki/persons/chile/José Manuel Torres.md",
+    "aliases": [
+      "Torres, J. M.",
+      "何塞·曼努埃尔·托雷斯",
+      "J. M. Torres",
+      "José M. Torres"
     ]
   },
   {
@@ -16672,6 +16958,18 @@
     ]
   },
   {
+    "title": "Tine S. Prøitz",
+    "type": "person",
+    "path": "wiki/persons/norway/Tine S. Prøitz.md",
+    "aliases": [
+      "蒂内·S·普勒茨",
+      "蒂内·普勒茨",
+      "Tine Sophie Prøitz",
+      "Tine Proitz",
+      "T. S. Prøitz"
+    ]
+  },
+  {
     "title": "Anatoly Lunacharsky",
     "type": "person",
     "path": "wiki/persons/russia/Anatoly Lunacharsky.md",
@@ -16916,6 +17214,15 @@
     ]
   },
   {
+    "title": "David Gough",
+    "type": "person",
+    "path": "wiki/persons/uk/David Gough.md",
+    "aliases": [
+      "戴维·高夫",
+      "D. Gough"
+    ]
+  },
+  {
     "title": "David Phillips",
     "type": "person",
     "path": "wiki/persons/uk/David Phillips.md",
@@ -17044,6 +17351,15 @@
     "aliases": [
       "Muller, J.",
       "约翰·穆勒"
+    ]
+  },
+  {
+    "title": "John Bangs",
+    "type": "person",
+    "path": "wiki/persons/uk/John Bangs.md",
+    "aliases": [
+      "约翰·班斯",
+      "J. Bangs"
     ]
   },
   {
@@ -17294,6 +17610,16 @@
     "aliases": [
       "Morris, P.",
       "保罗·莫里斯"
+    ]
+  },
+  {
+    "title": "Peter Lampl",
+    "type": "person",
+    "path": "wiki/persons/uk/Peter Lampl.md",
+    "aliases": [
+      "彼得·兰普尔",
+      "彼得·兰普尔爵士",
+      "Sir Peter Lampl"
     ]
   },
   {
@@ -18038,6 +18364,15 @@
     ]
   },
   {
+    "title": "Mark Schneider",
+    "type": "person",
+    "path": "wiki/persons/us/Mark Schneider.md",
+    "aliases": [
+      "马克·施奈德",
+      "施奈德"
+    ]
+  },
+  {
     "title": "Max Eckstein",
     "type": "person",
     "path": "wiki/persons/us/Max Eckstein.md",
@@ -18202,6 +18537,15 @@
       "Thomas S. Kuhn",
       "T. S. Kuhn",
       "T. Kuhn"
+    ]
+  },
+  {
+    "title": "Vivian Tseng",
+    "type": "person",
+    "path": "wiki/persons/us/Vivian Tseng.md",
+    "aliases": [
+      "薇薇安·曾",
+      "曾薇薇安"
     ]
   },
   {
@@ -18455,6 +18799,17 @@
       "Victorian HITS and Literacy Toolkit 2017",
       "维州HITS与读写工具包",
       "HITS"
+    ]
+  },
+  {
+    "title": "Monash Q Project",
+    "type": "fact",
+    "path": "wiki/facts/australia/Monash Q Project.md",
+    "aliases": [
+      "莫纳什 Q 项目",
+      "Q Project",
+      "Monash Q",
+      "The Monash Q Project"
     ]
   },
   {
@@ -19604,8 +19959,7 @@
     "type": "fact",
     "path": "wiki/facts/global/Education International.md",
     "aliases": [
-      "国际教育协会",
-      "EI"
+      "国际教育协会"
     ]
   },
   {
@@ -19969,6 +20323,17 @@
       "国际教育系统指标项目",
       "国际教育系统指标网络",
       "Project for International Indicators of Education Systems"
+    ]
+  },
+  {
+    "title": "International Summits on the Teaching Profession",
+    "type": "fact",
+    "path": "wiki/facts/global/International Summits on the Teaching Profession.md",
+    "aliases": [
+      "国际教师职业峰会",
+      "ISTP",
+      "International Summit on the Teaching Profession",
+      "国际教师职业高峰会"
     ]
   },
   {
@@ -20863,6 +21228,19 @@
     ]
   },
   {
+    "title": "Swedish ULF Project",
+    "type": "fact",
+    "path": "wiki/facts/sweden/Swedish ULF Project.md",
+    "aliases": [
+      "瑞典发展学习与研究试点项目",
+      "瑞典国家级科研与实践伙伴关系项目",
+      "瑞典教育发展学习与研究项目",
+      "ULF-avtalet",
+      "ULF Project",
+      "Utveckling, Lärande, Forskning"
+    ]
+  },
+  {
     "title": "Founding of the International Baccalaureate",
     "type": "fact",
     "path": "wiki/facts/switzerland/Founding of the International Baccalaureate.md",
@@ -21086,6 +21464,16 @@
     ]
   },
   {
+    "title": "Early Intervention Foundation",
+    "type": "fact",
+    "path": "wiki/facts/uk/Early Intervention Foundation.md",
+    "aliases": [
+      "EIF",
+      "英国早期干预基金会",
+      "早期干预基金会"
+    ]
+  },
+  {
     "title": "Education Endowment Foundation",
     "type": "fact",
     "path": "wiki/facts/uk/Education Endowment Foundation.md",
@@ -21174,6 +21562,17 @@
     ]
   },
   {
+    "title": "National Institute for Health and Care Excellence",
+    "type": "fact",
+    "path": "wiki/facts/uk/National Institute for Health and Care Excellence.md",
+    "aliases": [
+      "NICE",
+      "英国国家卫生与临床优化研究所",
+      "英国国家临床优化研究所",
+      "国家健康与临床卓越研究所"
+    ]
+  },
+  {
     "title": "Office of Special Inquiries and Reports",
     "type": "fact",
     "path": "wiki/facts/uk/Office of Special Inquiries and Reports.md",
@@ -21216,6 +21615,18 @@
     ]
   },
   {
+    "title": "Scientific Advisory Group for Emergencies",
+    "type": "fact",
+    "path": "wiki/facts/uk/Scientific Advisory Group for Emergencies.md",
+    "aliases": [
+      "紧急情况科学咨询小组",
+      "英国紧急情况科学咨询小组",
+      "英国紧急科技顾问小组",
+      "UK SAGE",
+      "Independent SAGE"
+    ]
+  },
+  {
     "title": "Sense about Science",
     "type": "fact",
     "path": "wiki/facts/uk/Sense about Science.md",
@@ -21223,6 +21634,16 @@
       "科学认知组织",
       "科学常识组织",
       "SAS"
+    ]
+  },
+  {
+    "title": "Sutton Trust",
+    "type": "fact",
+    "path": "wiki/facts/uk/Sutton Trust.md",
+    "aliases": [
+      "萨顿信托",
+      "The Sutton Trust",
+      "萨顿教育信托"
     ]
   },
   {
@@ -21326,7 +21747,8 @@
     "path": "wiki/facts/uk/EEF Teaching and Learning Toolkit.md",
     "aliases": [
       "Teaching and Learning Toolkit",
-      "教学与学习工具包"
+      "教学与学习工具包",
+      "EEF Toolkit"
     ]
   },
   {
@@ -21427,6 +21849,17 @@
     ]
   },
   {
+    "title": "Pupil Premium",
+    "type": "fact",
+    "path": "wiki/facts/uk/Pupil Premium.md",
+    "aliases": [
+      "学生溢价",
+      "学生津贴",
+      "Pupil Premium Grant",
+      "PPG"
+    ]
+  },
+  {
     "title": "Research Excellence Framework",
     "type": "fact",
     "path": "wiki/facts/uk/Research Excellence Framework.md",
@@ -21469,18 +21902,6 @@
       "Science Learning Centres",
       "SLC Network",
       "STEM Learning"
-    ]
-  },
-  {
-    "title": "Scientific Advisory Group for Emergencies",
-    "type": "fact",
-    "path": "wiki/facts/uk/Scientific Advisory Group for Emergencies.md",
-    "aliases": [
-      "紧急情况科学咨询小组",
-      "英国紧急情况科学咨询小组",
-      "英国紧急科技顾问小组",
-      "UK SAGE",
-      "Independent SAGE"
     ]
   },
   {
@@ -21568,7 +21989,10 @@
     "type": "fact",
     "path": "wiki/facts/uk/What Works Network.md",
     "aliases": [
-      "英国What Works网络"
+      "有效性中心网络",
+      "有效性网络",
+      "What Works Centres",
+      "WWCs"
     ]
   },
   {
@@ -21602,6 +22026,16 @@
       "英国学习增益项目",
       "英格兰高等教育学习增益项目",
       "Learning Gain Project"
+    ]
+  },
+  {
+    "title": "National Pupil Database",
+    "type": "fact",
+    "path": "wiki/facts/uk/National Pupil Database.md",
+    "aliases": [
+      "国家学生数据库",
+      "英国国家学生数据库",
+      "NPD Database"
     ]
   },
   {
@@ -22271,6 +22705,28 @@
     ]
   },
   {
+    "title": "Institute of Education Sciences",
+    "type": "fact",
+    "path": "wiki/facts/us/Institute of Education Sciences.md",
+    "aliases": [
+      "美国教育科学院",
+      "美国教育部教育科学研究院",
+      "教育科学研究院",
+      "IES"
+    ]
+  },
+  {
+    "title": "National Center for Education Evaluation and Regional Assistance",
+    "type": "fact",
+    "path": "wiki/facts/us/National Center for Education Evaluation and Regional Assistance.md",
+    "aliases": [
+      "国家教育评估与区域援助中心",
+      "NCEE",
+      "IES NCEE",
+      "National Center for Education Evaluation"
+    ]
+  },
+  {
     "title": "National Center for Research in Policy and Practice",
     "type": "fact",
     "path": "wiki/facts/us/National Center for Research in Policy and Practice.md",
@@ -22346,6 +22802,17 @@
       "实用有效清算中心",
       "强效作为清算所",
       "WWC"
+    ]
+  },
+  {
+    "title": "William T. Grant Foundation",
+    "type": "fact",
+    "path": "wiki/facts/us/William T. Grant Foundation.md",
+    "aliases": [
+      "威廉·T·格兰特基金会",
+      "WT Grant Foundation",
+      "W. T. Grant Foundation",
+      "格兰特基金会"
     ]
   },
   {
@@ -22550,6 +23017,19 @@
     ]
   },
   {
+    "title": "Complex Instruction Programme",
+    "type": "fact",
+    "path": "wiki/facts/us/Complex Instruction Programme.md",
+    "aliases": [
+      "复合教学计划",
+      "Complex Instruction",
+      "CIP",
+      "复合教学方案",
+      "复杂教学法",
+      "Komplex Instrukciós Program"
+    ]
+  },
+  {
     "title": "Comprehensive School Reform Program",
     "type": "fact",
     "path": "wiki/facts/us/Comprehensive School Reform Program.md",
@@ -22573,7 +23053,10 @@
     "path": "wiki/facts/us/Investing in Innovation Program.md",
     "aliases": [
       "创新投资项目",
-      "i3"
+      "创新投资",
+      "创新投资计划",
+      "Investing in Innovation",
+      "i3 Program"
     ]
   },
   {
@@ -23048,9 +23531,19 @@
     "path": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md"
   },
   {
+    "title": "Argument_Bangs_2022_PerspectivesOnResearch",
+    "type": "argument",
+    "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Bangs_2022_PerspectivesOnResearch.md"
+  },
+  {
     "title": "Argument_Burns_Schuller_2022_BrokerageAgencies",
     "type": "argument",
     "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
+  },
+  {
+    "title": "Argument_Gough_2022_EvidenceOnEIPP",
+    "type": "argument",
+    "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Gough_2022_EvidenceOnEIPP.md"
   },
   {
     "title": "Argument_Hill_2022_FacilitatingActors",
@@ -23066,6 +23559,11 @@
     "title": "Argument_Revai_2022_ChangingLandscape",
     "type": "argument",
     "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai_2022_ChangingLandscape.md"
+  },
+  {
+    "title": "Argument_Rickinson_2022_UsingResearchWell",
+    "type": "argument",
+    "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Rickinson_2022_UsingResearchWell.md"
   },
   {
     "title": "Argument_Torres_2022_BarriersMechanisms",
@@ -23266,6 +23764,11 @@
     "title": "Argument_Dachet_2021_ROE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ROE.md"
+  },
+  {
+    "title": "Argument_Edovald_Nevill_2021_ROE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md"
   },
   {
     "title": "Argument_Marginson_2025_ROE",

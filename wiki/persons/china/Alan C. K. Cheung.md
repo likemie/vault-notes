@@ -8,10 +8,10 @@ summary: "香港中文大学教育学院教授、证据本位教育改革与大�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "c. 1970"
 died: ""
 lifespan: "c. 1970–至今"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Dialogue in Education]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Evidence Standards]]"
   - "[[Marginal Gains Hypothesis]]"
   - "[[Evidence-Based Reform]]"
   - "[[Causality]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-09-11
+updated: 2026-09-13
 ---
 
 # Alan C. K. Cheung
@@ -85,7 +86,7 @@ updated: 2026-09-11
 > [!person-profile] 人物档案
 > - **身份位置** 香港中文大学（The Chinese University of Hong Kong）教育学院教授、教育行政与政策学系系主任，前美国约翰霍普金斯大学（Johns Hopkins University）[[Evidence-Based Education|证据本位教育]]改革中心（CRRE）资深研究员。
 > - **核心角色** 华语世界与国际循证教育（Evidence-Based Education）[[Dialogue in Education|对话]]的核心学术桥梁，[[Robert Slavin]] 的长期核心学术合作者；早期致力于大规模教育[[Randomised Controlled Trials|随机对照试验]]（RCT）与循证改革的跨国引介，近年来成为引领新兴[[Generative Artificial Intelligence|生成式人工智能]]（Gen-AI）教育干预[[Meta-analysis|元分析]]标准与教育技术公平评价的前沿学者。
-> - **代表贡献** 推动[[Best Evidence Encyclopedia|最佳证据百科全书]]（[[Best Evidence Encyclopedia|BEE]]）与 [[Best Evidence in Brief|BEiB]] 华语网络建设；与 Slavin 合作系统总结大规模实验证据标准（Slavin & Cheung, 2017）；在高等教育生成式 AI 评价中确立基线等效控制标准并提出[[Marginal Gains Hypothesis|边际效益假说]]（[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）。
+> - **代表贡献** 推动[[Best Evidence Encyclopedia|最佳证据百科全书]]（[[Best Evidence Encyclopedia|BEE]]）与 [[Best Evidence in Brief|BEiB]] 华语网络建设；与 Slavin 合作系统总结大规模实验[[Evidence Standards|证据标准]]（Slavin & Cheung, 2017）；在高等教育生成式 AI 评价中确立基线等效控制标准并提出[[Marginal Gains Hypothesis|边际效益假说]]（[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）。
 
 > [!citation-card]- 人物定位的关键来源
 > [[Evidence-Based Reform|证据本位改革]]只有在证据严谨且有现实意义时才能得以持续推进。根据 Hattie (2008) 对教育干预的综合评估，[[Effect Size|效应量]]超过 0.40 即被视为具有教育实践意义。本元分析表明生成式 AI 在控制基线等效后仍展现出扎实的实际教学价值，但也揭示出必须依靠严谨的方法学门槛消除过度乐观估计。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 15–16)]]

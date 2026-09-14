@@ -7,7 +7,7 @@ aliases:
 summary: "教育管理与教学中以系统层面和课堂层面的数据为依据作出决策的取向，常与以研究证据为依据的教学实践并置，被认为应在证据知情系统中加以整合"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,10 +39,12 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Qualitative Observation]]"
   - "[[Triangulation]]"
+related_theories:
+  - "[[Theory of Change]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-02
+updated: 2026-09-13
 ---
 
 # Data-Based Decision Making
@@ -134,7 +136,7 @@ updated: 2026-09-02
 > DBDM 本质上是一个动态的专业审议与社会互动过程，绝不能退化为纯粹追逐可量化分数的“技术-理性”操作。
 
 > [!claim] [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] / Wentworth et al. (2017)
-> **警惕量化主义与统筹多元成果** 如果学校在决策中落入“只去理解那些容易被量化的组成部分”的陷阱，就会严重扭曲教育生态并损害教师的[[Professional Judgment|专业判断]]。基于数据的决策必须建立在成熟的变革理论之上，成效评估需区分行为与心智模式等中间成果（intermediate outcomes）以及工具性、概念性与象征性等长期成果（long-term outcomes），坚持多元量化指标与丰富质性描述的有机结合。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 132–133)]]
+> **警惕量化主义与统筹多元成果** 如果学校在决策中落入“只去理解那些容易被量化的组成部分”的陷阱，就会严重扭曲教育生态并损害教师的[[Professional Judgment|专业判断]]。基于数据的决策必须建立在成熟的[[Theory of Change|变革理论]]之上，成效评估需区分行为与心智模式等中间成果（intermediate outcomes）以及工具性、概念性与象征性等长期成果（long-term outcomes），坚持多元量化指标与丰富质性描述的有机结合。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 132–133)]]
 
 ---
 

@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Reform]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Change]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-09-13
 ---
 
 # CNCS Evidence Exchange
@@ -97,7 +98,7 @@ updated: 2026-08-21
 > | **Strong Evidence [[Top Institute for Evidence-Based Education Research\|TIER]]（强证据层级·最高级）** | 拥有 **至少 2 项独立开展的高质量实证研究（[[Randomised Controlled Trials\|RCT]] 或严格匹配 [[Quasi-Experimental Designs\|QED]]）**；在关键结果指标上展示出具有[[Statistical Significance\|统计显著性]]的正向因果效应；研究具有高[[Internal Validity\|内部效度]]与样本代表性。 |
 > | **Moderate Evidence Tier（中等证据层级）** | 拥有至少 1 项良好实施的 RCT 或具有良好对照组的准[[Experimental Research\|实验研究]]支持。 |
 > | **Preliminary Evidence Tier（初步证据层级）** | 具备前[[Pre-test and Post-test\|后测]]对比或描述性成效数据，呈现积极效果但缺乏严格对照组。 |
-> | **Pre-preliminary Tier（预备探索层级）** | 拥有清晰的变革理论（Theory of Change）但尚未开展正式效果评估。 |
+> | **Pre-preliminary Tier（预备探索层级）** | 拥有清晰的[[Theory of Change\|变革理论]]（Theory of Change）但尚未开展正式效果评估。 |
 
 ---
 

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -79,7 +79,6 @@ related_methods:
   - "[[Non-participant Observation]]"
   - "[[Ex Post Facto Research]]"
   - "[[Mixed Methods Research]]"
-  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[Stanford Prison Experiment]]"
@@ -848,7 +847,7 @@ Goldthorpe 随后用经验数据检验假设，考察三组证据集群（pp.87�
 > （pp.92–94）
 
 > [!conclusion] 本章结尾的方法论立场
-> 因果研究面临一系列挑战：关注因果过程而非输入/输出模型；不通过原子式元素的还原与重组建立因果性；将因果性视为对现象或整体的生成性历史的理解；在多重连接和[[Snowball Sampling|网络化]]的世界中调查多重同时原因及其多重同时效果；分离因果性与可预测性；接受随机性经常胜过因果性（Gorard, 2001a, p. 21）；理解如何在整体性连接网络中调查因果性；理解多重因果、多重效果、非线性和多重连接世界中的因果过程；识别从个体行动与互动中决定社会宏观结构的因果过程，以及相反地从社会结构及其制度中决定个体行动与互动的因果过程（pp.93–94）。
+> 因果研究面临一系列挑战：关注因果过程而非输入/输出模型；不通过原子式元素的还原与重组建立因果性；将因果性视为对现象或整体的生成性历史的理解；在多重连接和网络化的世界中调查多重同时原因及其多重同时效果；分离因果性与可预测性；接受随机性经常胜过因果性（Gorard, 2001a, p. 21）；理解如何在整体性连接网络中调查因果性；理解多重因果、多重效果、非线性和多重连接世界中的因果过程；识别从个体行动与互动中决定社会宏观结构的因果过程，以及相反地从社会结构及其制度中决定个体行动与互动的因果过程（pp.93–94）。
 
 ---
 

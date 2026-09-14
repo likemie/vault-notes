@@ -11,7 +11,7 @@ aliases:
 summary: "将社会、政策或专业实践问题归因于目标群体（如教师、学生或公众）知识、技能、动机或文化匮乏的认识论预设，在教育研究使用中表现为将未充分使用研究归因为教师能力赤字并陷入循环论证"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[Professional Judgment]]"
+  - "[[Teaching Assistant]]"
   - "[[Methodological Individualism]]"
   - "[[Paradigm]]"
   - "[[Evaluation Research]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-14
 ---
 
 # Deficit Framing
@@ -91,7 +92,7 @@ updated: 2026-08-26
 
 > [!feature] 核心要素
 > - **问题预设赤字化（Deficit Problem Formulation）** 研究起点预先假定教师不理解科研、缺乏信息素养或缺少动力，预先否定教师既有实践经验的合理性。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 4–5)]]
-> - **目的设定矫正化（Corrective Purpose）** 将[[Research Utilization|研究使用]]定位为帮助教师摆脱传统手艺经验、走向基于证据证明的唯一纠偏抓手。
+> - **目的设定矫正化（Corrective Purpose）** 将[[Research Utilization|研究使用]]定位为帮[[Teaching Assistant|助教]]师摆脱传统手艺经验、走向基于证据证明的唯一纠偏抓手。
 > - **方法过度局限于个体调查（[[Methodological Individualism]]）** 研究主要采用[[Questionnaire|问卷调查]]测量教师个体的态度打分，将复杂的教育生态问题简化为个体技能指标。（p. 6）
 > - **推论简单化与自我循环论证（Circularity & Reductionism）** 无论调查过程如何复杂，最终建议往往退回到提供更多培训与弥补个体短板，使结论反向确证最初的[[Hypothesis|假设]]，陷入思维闭环。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 6–7)]]
 

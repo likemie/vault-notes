@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_ER"
 argument_key: "Argument_Nelson_2017_ER"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Persuasive Communication in Education]]"
   - "[[Research-Practice Partnership]]"
   - "[[Technical Rationality]]"
+  - "[[Evidence Standards]]"
   - "[[Growth]]"
   - "[[Formative Assessment]]"
   - "[[Document]]"
@@ -64,7 +65,8 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Big Ideas]]"
   - "[[Definition of Terms]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Change]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Triangulation]]"
@@ -84,6 +86,7 @@ related_facts:
   - "[[National Center for Research in Policy and Practice]]"
   - "[[Teaching and Learning Research Programme]]"
   - "[[ResearchED]]"
+  - "[[What Works Network]]"
   - "[[Knowledge Network for Applied Education Research]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
@@ -93,7 +96,7 @@ sources:
 part_of: ""
 status: draft
 created: "2026-05-01"
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 # Argument_Nelson_2017_ER
 
@@ -184,7 +187,7 @@ updated: 2026-09-12
 > [!timeline] EIP 发展的制度脉络与关键节点
 > - **1979 — [[Research Utilization|研究利用]]理论奠基** Weiss (1979) 提出研究利用的多元模式，打破研究必然直接指导决策的[[Technical Rationality|技术理性]]设想，为理解证据如何进入教育实践提供早期理论基石。
 > - **1996 — 教学作为研究本位专业** Hargreaves (1996) 发表演讲，倡导将教学重塑为由研究支撑的专业，引发英美等国关于教育证据角色的大规模政策论争。
-> - **2000s–2010s — 国际系统化改革与研究计划** 英国启动“教学与学习研究计划”（[[Teaching and Learning Research Programme]], TLRP）（Parsons & Burkey, 2011; Pollard, 2011）；美国推行强化教育问责与严格因果证据标准的联邦政策（Slavin, 2004; Easton, 2010）；加拿大安大略省实施全面的教育研究与评估战略（Campbell, 2014）。
+> - **2000s–2010s — 国际系统化改革与研究计划** 英国启动“教学与学习研究计划”（[[Teaching and Learning Research Programme]], TLRP）（Parsons & Burkey, 2011; Pollard, 2011）；美国推行强化教育问责与严格因果[[Evidence Standards|证据标准]]的联邦政策（Slavin, 2004; Easton, 2010）；加拿大安大略省实施全面的教育研究与评估战略（Campbell, 2014）。
 > - **2013 起 — 草根证据运动兴起** 英国一线教师自发发起 [[ResearchED]] 运动，证据知情取向的特许教学学院（Chartered College of Teaching）正式成立。
 > - **2015 — 翻转系统话语** Evers & Kneyber (2015) 编著出版《Flip the System》，国际学界与实践界掀起倡导由教师[[Professional Judgment|专业判断]]引领教育变革、抗衡自上而下行政问责的自下而上浪潮。（pp.127–128）
 
@@ -231,7 +234,7 @@ updated: 2026-09-12
 ### 论证步骤三　谁的证据算数：黄金标准与实践本位证据的张力及多元整合案例
 
 > [!tension] 实验黄金标准（What Works） vs 多元价值审议（What Matters）
-> - **Goldacre (2013) · 有效性探索** 批评教育界缺乏循证文化，主张通过[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）建立关于有效性（What Works）的稳健因果证据，推动英国 What Works Centres 与美国联邦循证方法论的兴起（Slavin, 2004; Easton, 2010）。
+> - **Goldacre (2013) · 有效性探索** 批评教育界缺乏循证文化，主张通过[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）建立关于有效性（What Works）的稳健因果证据，推动英国 [[What Works Network|What Works Centres]] 与美国联邦循证方法论的兴起（Slavin, 2004; Easton, 2010）。
 > - **Bredo (2006) · 育人目的审议** 警告不可将教育研究窄化为[[Pragmatism in China|实验主义]]的有效性指标，以致排除了关乎教育价值与长远目的的议题（What Matters）（Nutley et al., 2013）；EIP 具有不可剥离的价值属性与政治情境性。（p.128）
 
 > [!claim] 中间立场：[[Practice-Based Evidence|实践本位证据]]（PBE）的正当性
@@ -333,7 +336,7 @@ updated: 2026-09-12
 > **分类解读** 成果分层类型学为 EIP 评估提供了从短期行为转向深层思维与实践重塑的观测框架。（p.132）
 
 > [!warrant]- 最终推理桥梁：动态社会过程与拒绝单纯量化主义
-> 评估 EIP 的成效必须建立在严谨的变革理论（theories of change）之上，统筹考察知识动员策略质量、多元证据使用形态、专业知识生成以及对学习者最终成果的深层影响（pp.132–133）。由于 EIP 本质上是一个动态的社会交互过程，评估不能落入只去理解那些容易被量化的组成部分的陷阱，必须坚持多元量化指标与丰富质性描述数据的有机结合（p.133）。
+> 评估 EIP 的成效必须建立在严谨的[[Theory of Change|变革理论]]（theories of change）之上，统筹考察知识动员策略质量、多元证据使用形态、专业知识生成以及对学习者最终成果的深层影响（pp.132–133）。由于 EIP 本质上是一个动态的社会交互过程，评估不能落入只去理解那些容易被量化的组成部分的陷阱，必须坚持多元量化指标与丰富质性描述数据的有机结合（p.133）。
 
 ---
 

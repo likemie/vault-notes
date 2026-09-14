@@ -9,7 +9,7 @@ aliases:
 summary: "产学合作中的一站式导航服务模式，通过为产业伙伴提供单一对接窗口来协调大学内部多个单位，降低产业方在大学的搜索和协调成本"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Language Skills]]"
   - "[[Technology Transfer]]"
+  - "[[Teaching Assistant]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-10
+updated: 2026-09-14
 ---
 
 # Concierge Service
@@ -79,5 +80,5 @@ updated: 2026-09-10
 
 > [!example]
 > - **滑铁卢大学的连接活动（connector events）** 伙伴关系团队与各院系合作，根据院系需求、兴趣领域和潜在外部参与方来设计和执行校内连接活动。将活动放在校园内进行，降低了教师的参与门槛。疫情后的调查显示，面对面互动在建立信任和尊重的基础方面具有不可替代的价值([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.249]])。
-> - **伙伴[[Boundary Spanner|关系经理]]的双向翻译** 伙伴关系经理在产学之间扮演"可信来源"角色——对外，他们在向大学内部推荐前严格审查潜在项目的质量、公司资金能力和学术匹配度；对内，他们帮助教师识别自己的研究在公司哪些领域可以产生价值。这种"双向翻译"功能实质上正是礼宾服务在具体操作层面的体现([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.250]])。
+> - **伙伴[[Boundary Spanner|关系经理]]的双向翻译** 伙伴关系经理在产学之间扮演"可信来源"角色——对外，他们在向大学内部推荐前严格审查潜在项目的质量、公司资金能力和学术匹配度；对内，他们帮[[Teaching Assistant|助教]]师识别自己的研究在公司哪些领域可以产生价值。这种"双向翻译"功能实质上正是礼宾服务在具体操作层面的体现([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.250]])。
 

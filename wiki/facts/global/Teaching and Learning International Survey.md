@@ -11,9 +11,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 26
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2008–至今"
 initiator_organization: "[[OECD]]"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Causality]]"
   - "[[Rich and Thick Description]]"
+  - "[[Democratising Evidence]]"
   - "[[Governing by Numbers]]"
 related_theories: []
 related_methods:
@@ -47,16 +48,18 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[IEA]]"
+  - "[[Education International]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[Education Policy Outlook]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Education at a Glance]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-14
 ---
 
 # Teaching and Learning International Survey
@@ -85,6 +88,7 @@ updated: 2026-09-12
 > - **项目目标** 帮助各国审视并开发能够提升教学效能、促进教师职业吸引力并优化学校管理生态的系统性政策工具。
 > - **覆盖对象** 各参与国按严格概率比例抽样（PPS）选取的代表性公立与私立学校初中教师全职与兼职队伍及任职校长。
 > - **干预措施** 实施由主问卷、教师问卷（约 45–60 分钟）与校长问卷组成的标准化测量工具箱，并在部分国家增设“TALIS-[[PISA]] 联动调查（TALIS-PISA Link）”，实现教师教学特征与学生 PISA 分数的微观匹配分析。
+> - **工会参与与指标共同治理** [[Education International|国际教育协会]]（EI）通过经合组织工会咨询委员会（TUAC）在 TALIS 理事会获得常设观察员席位，确立“跨国调查的数据与政策结论，既属于决策当局，也完全属于广大教师及其专业组织”的核心原则，防止调查异化为单向管理主义监控工具。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 210–211)]]
 > - **实施控制** 统一采用国际质量监督员现场巡视、匿名在线填报系统、标准翻译与跨文化[[Back Translation|回译]]审定规程，确保跨国测量等价性。
 
 > [!citation-card] [[OECD|经合组织]]知识中介工具的生态矩阵
@@ -98,8 +102,8 @@ updated: 2026-09-12
 
 > [!dev-timeline]- 项目推进历程
 > - **2008 年 — TALIS 奠基与首轮框架确立期** 确立初中教师为核心测量对象，发布首部国际综合报告，聚焦教学实践、教师评价与专业发展需求，24 个国家参与试点。
-> - **2013 年 — 学段纵向拓展与工具丰富期** 增设小学与高中可选模块，首次推出“TALIS-[[PISA]] 联动调查”，实现教师教学观念与学生学业产出的跨库微观连接，参与国增至 34 个。
-> - **2018 年至今 — 深度素养转型与全球南方扩张期** 全面引入数字化教学能力、多元文化包容素养、社会情感技能培养支持以及教师工作心理压力指标；覆盖近 50 个经济体，成为联合国《[[UN Sustainable Development Goals|可持续发展目标]] 4》（[[UN Sustainable Development Goals|SDG 4]]）教师关键指标的核心数据源。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
+> - **2013 年 — 学段拓展与分布式领导力量表引入期** 增设小学与高中可选模块，首次推出“TALIS-[[PISA]] 联动调查”；同时，国际教育协会（[[Education International|EI]]）资助开展跨国教师领导力质性调研（Bangs & Frost, 2012），直接推动 TALIS 2013 引入分布式领导力（Distributed Leadership）测评维度，促成经合组织官方报告将转向分布式领导列为系统性政策建议（OECD, 2014）。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 210)]]
+> - **2018 年至今 — 教师工作压力指标突破与全球素养扩张期** 全面引入数字化教学能力、多元文化包容素养与社会情感技能培养支持；更重要的是，经合组织采纳 EI 建议，在 2018 年调查中首次增设针对教师工作压力来源与性质的专属量表（OECD, 2020），使一线教师身心耗竭获得客观量化实证确证；覆盖近 50 个经济体，成为联合国《[[UN Sustainable Development Goals|可持续发展目标]] 4》（[[UN Sustainable Development Goals|SDG 4]]）教师关键指标的核心数据源。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 210–211)]]；[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
 
@@ -108,6 +112,7 @@ updated: 2026-09-12
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[OECD]] 教育与技能司及其 TALIS 理事会（TALIS Governing Board），负责确定各轮优先调查主题与战略蓝图。
 > - **研发与数据中心** [[IEA|国际教育成就评价协会]]（IEA）汉堡中心、加拿大统计局以及经合组织分析专家组。
+> - **专业工会常设协商方** 经合组织工会咨询委员会（TUAC）与[[Education International|国际教育协会]]（EI）派驻理事会常设代表，代表全球 3200 万教师参与指标设计与数据知情审议。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 210)]]
 > - **一线执行机构** 各参与国教育部指定的“国家项目经理”（National Project Managers, NPMs）与国家研究协调中心。
 > - **受试与受益对象** 各国数十万名中小学在岗一线教师、校长群体以及各级师范培训机构研究人员。
 
@@ -129,6 +134,7 @@ updated: 2026-09-12
 > - **建构主义教学实践与效能感正相关** 跨国实证一致表明，采用合作探究与认知激活教学策略的教师，其工作自我效能感与职业留任意愿显著高于仅采用机械记忆讲授的教师。
 > - **形式化专业发展的[[Heterogeneity|异质性]]低效** 尽管 90% 以上的教师参加了短期培训班，但绝大多数教师认为离身式的专家讲座对其微观课堂教学改变收效甚微，深度校本教研与同行听评课展现出更高的正向转化率。
 > - **教师身心重压与职业地位危机** 超过三分之一的教师报告承受中高度工作压力，行政文书负担、频繁的外部问责检查与微观纪律挑战是造成师资[[Attrition|流失]]的核心结构性瓶颈。
+> - **跨国数据二次挖掘与峰会协商转化** 国际教育协会委托达林-哈蒙德（Linda Darling-Hammond）等著名学者对 TALIS 数据开展二次独立挖掘，发表关于教师短缺与专业协作的独立政策洞见（Burns & Darling-Hammond, 2014）；TALIS 数据同时成为每年国际教师职业峰会（ISTP）部长与工会平等磋商的扎实证据支撑。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 210, 216)]]
 
 > [!stat-cards]- 关键实证数据
 > 涵盖全球近 50 个教育体系；每轮调查抽取超 260,000 名教师与 15,000 所学校微观样本；形成性反馈数据成为[[OECD|经合组织]]《[[Education at a Glance|教育概览]]》的核心支撑数据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -151,6 +157,11 @@ updated: 2026-09-12
 > > - **教师工会与反思学者** 担忧自陈调查易诱发策略性虚假汇报；且在部分激进改革国家，TALIS 指标被政客曲解为证明“公立学校教师不称职”的量化硬事实借口，为削减教师福利提供托词。
 > > - **支持观点** 强调自陈问卷赋予了基层一线教师向国家行政官僚表达工作痛点的直接跨国发声渠道。
 
+> [!citation-card] 班斯与亨利论教师对调查数据的所有权与专业赋权
+> EI 通过工会咨询委员会（TUAC）参与 TALIS 和 PISA 的研制过程，使其能够为这些跨国调查中的教师政策维度作出贡献，并坚定主张：这些调查的数据与政策结论，既属于教育决策辖区，也完全属于广大教师及其工会组织。（p. 210）
+>
+> *For its part, EI’s engagement in the development of TALIS and PISA through TUAC has enabled it to contribute to the teacher policy aspects of those studies and to argue that their data and policy findings are as much the property of teachers and their organisations as they are of educational jurisdictions.*
+
 > [!lessons] 经验教训与启示
 > - **实施教训** 割裂于学生具体学习情境的单纯教师自陈数据，难以建立稳健的微观[[Causality|因果推断]]链条；必须通过深化与课堂实际观察及学生真实表现的[[Triangulation|三角互证]]，才能防范表象指标对政策制定的误导。
 > - **对未来改革的启示** 促使经合组织在 2020 年代进一步启动微观课堂录像[[Observation Method|观察研究]]（Global Teaching InSights），推动全球[[Policy Brokerage|政策中介]]从“自陈数字”向“真实教学行为[[Rich and Thick Description|深描]]”演进。
@@ -165,6 +176,8 @@ updated: 2026-09-12
 > |:-----|:-----|:-----|
 > | [[OECD]] | 事实 (机构) | TALIS 调查的主办机构与全球政策分析发布中枢。 |
 > | [[PISA]] | 事实 (项目) | TALIS 的姊妹项目，二者共同构成经合组织学生产出与教师过程的双重规制闭环。 |
+> | [[Education International]] | 事实 (机构) | 派驻常设代表参与 TALIS 治理并反向推动增设分布式领导与工作压力专属量表的全球教师工会。 |
 > | [[Education at a Glance]] | 事实 (出版物) | TALIS 采集的教师工资、课时与师资结构数据是该报告的关键来源。 |
 > | [[Policy Brokerage]] | 概念 | 经合组织将教师调查数据打包为国家教育人事改革建议的中介工具。 |
+> | [[Democratising Evidence]] | 概念 | 确立教师对跨国调查数据享有共同所有权、终结单向客体化调查的治理思潮。 |
 > | [[Governing by Numbers]] | 概念 | 将微观教学实践全面指标化与标准化的跨国数字治理体现。 |

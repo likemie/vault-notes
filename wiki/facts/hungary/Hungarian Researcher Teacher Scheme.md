@@ -11,9 +11,9 @@ subtype: policy
 region: hungary
 fact_region: "hungary"
 fact_kind: "policy"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "匈牙利国家教育署（National Education Authority of Hungary / Oktatási Hivatal）"
 tags:
@@ -23,22 +23,29 @@ tags:
   - theme/career-pathway
   - theme/evidence-informed-practice
 related_concepts:
+  - "[[Research Topic]]"
+  - "[[Emergence]]"
+  - "[[Phronesis]]"
   - "[[Engagement in and with Research]]"
-  - "[[Knowledge Production]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Boundary Spanner]]"
-  - "[[Evidence Ecosystem]]"
+  - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Action Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[National Education]]"
+  - "[[Doctoral Grant for Teachers]]"
+  - "[[Public Sector PhD Scheme]]"
 related_arguments:
   - "[[Argument_Hill_2022_FacilitatingActors]]"
+  - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Hungarian Researcher Teacher Scheme
@@ -132,8 +139,9 @@ updated: 2026-09-13
 > > - **政策回应** 匈牙利教育署强调“名师”轨道（1,300 余人）即用于吸纳无博士学位的资深骨干，研究型教师旨在建立对接学术界与全系统的顶尖中介梯队，二者协同互补。
 
 > [!lessons] 经验教训与启示
-> - **将科研纳入终身职级体系是打破激励匮乏的制度突破** 仅靠职业道德情怀无法维系长效科研，唯有将科研产出与职位说明、绩效考评与薪资福利全面挂钩，才能激发实践者的探究主体性。
-> - **明确界定校内引领与系统辐射的职能分工** 名师与研究型教师的差异化定岗，为现代教师队伍分层建设与[[Knowledge Mobilisation|知识动员]]提供了兼顾本土深耕与跨域扩散的精细样板。
+> - **将科研纳入终身职级体系是打破激励匮乏的制度突破** 仅靠职业道德情怀无法维系长效科研，唯有将科研产出与职位说明、绩效考评与薪资福利全面挂钩，才能激发实践者的探究主体性。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 90–92)]]
+> - **明确界定校内引领与系统辐射的职能分工** 名师与研究型教师的差异化定岗提供了兼顾本土深耕与跨域扩散的样板。以赫约凯赖斯图尔小学（Hejőkeresztúr Primary School）为例，三位名师负责将测评与[[Action Research|行动研究]]成果转化为校内常态教学改进，而一位研究型教师则作为大学兼职教员，负责将学校改造的斯坦福“复合教学计划”（Complex Instruction Programme）辐射至全国近 200 所学校，使学校成为知识创造型组织。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 214–215)]]
+> - **警惕学校研究成功沦为孤立的巧合星座** 该校校长兼研究型教师埃梅谢·K·纳吉（Emese K. Nagy）指出，当前这种“一所学校恰好拥有研究型教师与多名名师”的完备格局在很大程度上仍属于个别的“幸运巧合”（Lucky constellations）；教育政策必须由偶发支持走向制度化保障，让跨界合作行动研究成为全系统的常态机制。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 215)]]
 
 ---
 
@@ -149,3 +157,4 @@ updated: 2026-09-13
 > | [[Doctoral Grant for Teachers]] | Fact (Program) | 荷兰针对中小学教师的博士资助项目，在解决工时冲突上形成机制呼应。 |
 > | [[Public Sector PhD Scheme]] | Fact (Program) | 挪威公共部门博士联合培养计划，在公职高层次科研资质培养上形成对照。 |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | Argument | 详细记述并分析该制度的来源[[Document\|文献]]。 |
+> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] | Argument | 提供研究型教师兼任校长主持校本研发并向全系统推广的实证案例。 |

@@ -5,10 +5,10 @@ aliases:
 summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
 - critical-realism
 - bhaskar
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Empiricism]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Teaching Assistant]]"
   - "[[Epistemology]]"
   - "[[Realism in International Relations]]"
   - "[[Paradigm]]"
@@ -58,13 +59,14 @@ related_persons:
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Playing for Success]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-09-14
 ---
 
 # Critical Realism
@@ -127,8 +129,8 @@ updated: 2026-07-13
 > [!exegesis]- 教育研究例子三：Fresh Start 的匹配子集分析与数据幻象
 > EEF 宣称针对中一阅读困难学生的“Fresh Start”合成拼读项目带来了 $+0.24$ 标准差（SD）的效应量。但深读技术报告后会发现，由于治疗组的[[Pre-test and Post-test|前测]]成绩远低于控制组，所谓的“进步”仅是糟糕[[Random Assignment|随机化]]（Random Assignment）带来的偏误。当研究者从中筛选出前测分数完全相同的学生子集进行匹配分析时，治疗组和控制组的平均进步幅度和后测成绩**几乎完全相同（效应量为 $+0.00$ SD）**。实验没有触及任何深层因果机制，仅在经验层面用数字黑箱包装了数据幻象。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])
 
-> [!exegesis]- 教育研究例子四：教学助理（TA）类目的结构性误导
-> EEF Toolkit 将教学助理（Teaching Assistant, TA）分类为“低影响、高成本”（平均效应量 $+0.08$），导致许多学校在预算裁剪时直接解雇 TA。然而，实证研究表明 TA 的低效实际上是因为学校没有为其预留备课和与教师沟通的时间，且系统性地将低成就学生甩给 TA，剥夺了他们接受专业教师授课的机会。统计均值忽略了这一关键的结构性（在实在层面的权力关系和管理结构）因素，直接导致了决策扭曲。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])
+> [!exegesis]- 教育研究例子四：[[Teaching Assistant|教学助理]]（TA）类目的结构性误导
+> [[EEF Teaching and Learning Toolkit|EEF Toolkit]] 将教学助理（Teaching Assistant, TA）分类为“低影响、高成本”（平均效应量 $+0.08$），导致许多学校在预算裁剪时直接解雇 TA。然而，实证研究表明 TA 的低效实际上是因为学校没有为其预留备课和与教师沟通的时间，且系统性地将低成就学生甩给 TA，剥夺了他们接受专业教师授课的机会。统计均值忽略了这一关键的结构性（在实在层面的权力关系和管理结构）因素，直接导致了决策扭曲。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])
 
 ---
 
@@ -206,7 +208,7 @@ updated: 2026-07-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究与应用索引
-> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 以批判实在论对[[Evidence-Based Education|循证教育]]（EBE）方法论进行三层技术解构，分析了 Fresh Start 和教学助理等典型案例。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 以批判实在论对[[Evidence-Based Education|循证教育]]（EBE）方法论进行三层技术解构，分析了 Fresh Start 和[[Teaching Assistant|教学助理]]等典型案例。
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 将批判实在论作为核心哲学框架，批判证据本位教学的简化科学观，并对 [[Education Endowment Foundation|EEF]] Toolkit 的 “体育参与” 进行实在论剖析。
 > - [[Evidence-Based Education]] — 批判实在论为循证教育与循证政策的批判性反思提供了[[Ontology|本体论]]和[[Epistemology|认识论]]武器。
 > - [[Randomised Controlled Trials]] — 用以解构 RCT 试图在复杂的开放系统中模拟封闭实验室环境的方法论妄想。

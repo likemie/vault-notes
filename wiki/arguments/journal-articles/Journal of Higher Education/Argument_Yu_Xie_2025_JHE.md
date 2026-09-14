@@ -40,6 +40,7 @@ related_concepts:
   - "[[Scale in Higher Education]]"
   - "[[Geopolitical Subject]]"
   - "[[International Education]]"
+  - "[[Teaching Assistant]]"
   - "[[Cultural Capital]]"
   - "[[Assemblage]]"
   - "[[Emergence]]"
@@ -91,7 +92,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -276,7 +277,7 @@ journal: "高等教育研究"
 > 针对芬兰高等教育改革的研究指出，该国政府在全球资本主义的竞争中，积极筹谋、推动大学成为知识经济地缘话语的传播者，通过创设阿尔托大学（Aalto University）等机构来重构学生的主体性，推动学生将自己定位为全球知识经济中的行动者，并据此规划流动路径与职业想象（p.6; Moisio & Kangas, 2016）。
 
 > [!case] 多元社会中的公民身份塑造
-> 在美国和南非等较为多元化的社会中，政府通过资助教育系统打造人的公民身份，以在多元和分裂的社会创造可加以有效治理的、具有在特定时刻成为有效公民所需的技能和具备团结意识的政治主体（Staeheli & Hammett, 2010）。在地缘政治竞争日益加剧的时代背景下，各国政府更致力于打造具有全球竞争意识的主体（p.6）。
+> 在美国和南非等较为多元化的社会中，政府通过资[[Teaching Assistant|助教]]育系统打造人的公民身份，以在多元和分裂的社会创造可加以有效治理的、具有在特定时刻成为有效公民所需的技能和具备团结意识的政治主体（Staeheli & Hammett, 2010）。在地缘政治竞争日益加剧的时代背景下，各国政府更致力于打造具有全球竞争意识的主体（p.6）。
 
 ---
 

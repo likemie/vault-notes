@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -79,7 +79,8 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Cross-checking]]"
   - "[[Random Sampling]]"
-related_facts: []
+related_facts:
+  - "[[National Institute for Health and Care Excellence]]"
 status: draft
 created: 2026-07-20
 updated: '2026-08-27'
@@ -354,7 +355,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > - **锚定语句的价值** 如"强烈同意""同意"可提供一定区分度，但无法保证受访者始终以研究者意图的方式理解它们。
 
 > [!example] 多选问题示例
-> 新中级化学教育方案（NICE）是：
+> 新中级化学教育方案（[[National Institute for Health and Care Excellence|NICE]]）是：
 > （a）浪费时间；
 > （b）教师的额外负担；
 > （c）不适合我校；

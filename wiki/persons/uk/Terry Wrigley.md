@@ -7,7 +7,7 @@ summary: "英国教育研究者，批判实在论取向的证据本位教学批�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Evidence-Based Reform]]"
   - "[[Visible Learning]]"
+  - "[[Teaching Assistant]]"
   - "[[Moral Sidestep]]"
   - "[[Epistemology]]"
   - "[[Pragmatism in China]]"
@@ -57,7 +58,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 ## 简介
 
@@ -102,7 +103,7 @@ updated: 2026-09-11
 
 > [!success] 主要贡献
 > - [[Evidence-Based Education]] — 补充 Biesta 的哲学批判（三重缺陷）和 Cowen 的制度批判（官僚功能），提供**方法论内部的三层级技术解构**（2018）和**科学哲学层面的"简单科学观"批判**（2019）
-> - [[Evidence-Based Reform]] — 直接针对 [[EEF Teaching and Learning Toolkit]] 和 Hattie [[Visible Learning]] 提供技术批评（Simpson [[Effect Size|效应量]]问题、Blatchford 教学助理被误用、体育参与案例等）
+> - [[Evidence-Based Reform]] — 直接针对 [[EEF Teaching and Learning Toolkit]] 和 Hattie [[Visible Learning]] 提供技术批评（Simpson [[Effect Size|效应量]]问题、Blatchford [[Teaching Assistant|教学助理]]被误用、体育参与案例等）
 > - [[Effect Size]] — 与 Simpson 的技术批判配合，通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例展示效应量从原始研究到[[Meta-meta-analysis|元-元分析]]的三级聚合失真
 > - **Pawson 的实在论综合（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于因果理论而非统计平均
 > - **文化-历史[[Third Generation Activity Theory|活动理论]]（CHAT）** — 将 Engeström 的活动理论与[[Critical Realism|批判实在论]]结合，为教育研究提供更丰富的[[Ontology|本体论]]框架

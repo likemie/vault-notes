@@ -7,10 +7,10 @@ summary: "中国比较教育研究者，教育技术实验比较与证据本位�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1988"
 died: ""
 lifespan: "c. 1988–至今"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Academic Achievement]]"
+  - "[[Evidence Standards]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-11
+updated: 2026-09-13
 ---
 ## 简介
 
@@ -46,7 +47,7 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!info] 核心思想
-> 从特刊 Editorial 的论述看，谢晨关注的核心问题是：高质量研究和证据在教育政策与实践中是否应扮演如在医学领域一样重要的角色([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p.1]])。其研究立场倾向于推动教育领域采用更严格的实验证据标准，同时关注中国在这一全球趋势中的定位与挑战。
+> 从特刊 Editorial 的论述看，谢晨关注的核心问题是：高质量研究和证据在教育政策与实践中是否应扮演如在医学领域一样重要的角色([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p.1]])。其研究立场倾向于推动教育领域采用更严格的实验[[Evidence Standards|证据标准]]，同时关注中国在这一全球趋势中的定位与挑战。
 
 ## 主要贡献
 

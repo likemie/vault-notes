@@ -9,10 +9,10 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 23
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/learning-science
   - field/educational-technology
@@ -42,14 +42,13 @@ related_concepts:
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
-  - "[[Snowball Sampling]]"
   - "[[Network Analysis]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-09-01
+updated: 2026-09-14
 ---
 
 # Connectivism
@@ -60,7 +59,7 @@ updated: 2026-09-01
 
 > [!theory-position] 理论定位
 > - **解释对象** 数字网络与人工智能时代知识呈现指数级爆炸、碎片化分布情境下，人类与技术网络协同[[Constructed Knowledge|建构知识]]、识别模式与持续学习的机制。
-> - **理论问题** 传统行为主义、认知主义和[[Constructivist Paradigm|建构主义]]均将学习视为个体内部的心理或社会建构过程，难以充分解释储存于非人类技术介质中的知识流动与[[Snowball Sampling|网络化]]学习。
+> - **理论问题** 传统行为主义、认知主义和[[Constructivist Paradigm|建构主义]]均将学习视为个体内部的心理或社会建构过程，难以充分解释储存于非人类技术介质中的知识流动与网络化学习。
 > - **理论类型** 数字时代学习理论、网络化[[Epistemology|认识论]]模型与分布式教学设计框架。
 > - **知识位置** 由加拿大教育技术学者 George Siemens 于 2005 年系统提出，并由 Stephen Downes 进一步从哲学与网络认识论层面深化；在[[Generative Artificial Intelligence|生成式人工智能]]时代，该理论为解释大语言模型作为分布式知识网络核心节点的认知中介作用提供了关键理论镜头（[[Argument_Li_2026_CEAI|Li et al., 2026, pp. 3, 11]]）。
 
@@ -90,7 +89,7 @@ updated: 2026-09-01
 
 ## 核心命题与机制
 
-> [!proposition-chain] 核心命题一｜知识分布于人际与非人类技术节点的[[Snowball Sampling|网络化]]连接之中
+> [!proposition-chain] 核心命题一｜知识分布于人际与非人类技术节点的网络化连接之中
 > - **前提一** 数字技术与大语言模型的崛起使知识的存储、处理与生成[[Externalization|外化]]于人类肉身大脑。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 3)]]
 > - **前提二** 人类个体无法在有限时间内掌握全部专业领域知识，必须依赖外部信息网络的动态中继。
 > - **推导** 知识的[[Ontology|本体论]]状态转变为网络分布式表征，学习的重心从记忆固定事实转移到与高价值智能节点（如 ChatGPT）建立有效[[Dialogue in Education|对话]]连接。
@@ -147,7 +146,7 @@ updated: 2026-09-01
 
 > [!dev-timeline] 发展脉络
 > - **2005 年 理论发轫** George Siemens 发表 *Connectivism: A Learning Theory for the Digital Age*，正式确立理论基石。
-> - **2008 年 cMOOCs 教学实验** Siemens 与 Downes 创办首门连通主义大规模开放在线课程（CCK08），验证[[Snowball Sampling|网络化]]自主协同学习。
+> - **2008 年 cMOOCs 教学实验** Siemens 与 Downes 创办首门连通主义大规模开放在线课程（CCK08），验证网络化自主协同学习。
 > - **2010 年代 [[Learning Analytics|学习分析学]]整合** 理论与复杂网络科学、学习分析学（Learning Analytics）深度融合。
 > - **2020 年代 生成式 AI 与人机共生网络** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将连通主义应用于大语言模型研究，把 ChatGPT 定位为分布式认知网络中的关键连接中继与模式识别工具。
 

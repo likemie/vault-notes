@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -30,10 +30,12 @@ related_facts:
   - "[[Dippy on Tour]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
+related_theories:
+  - "[[Theory of Change]]"
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-13
 ---
 
 # Association for Science and Discovery Centres
@@ -63,7 +65,7 @@ updated: 2026-08-23
 > [!policy-design]- ASDC 三大旗舰战略倡议
 > - **1. Science Centres for Our Future（科学中心守护未来开放信倡议）**
 >   在后疫情时期与能源危机背景下，联合全英 60 多所科学中心直接向英国财政部与内阁办公厅请愿，呼吁设立国家级长期战略运营基金（Emergency & Strategic Resilience Fund），防止大批地方科技场馆因高昂维护成本与能源开支激增而陷入倒闭危机。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
-> - **2. Valuing Inclusion Theory of Change（包容性变革理论与去中心化枢纽）**
+> - **2. Valuing Inclusion [[Theory of Change]]（包容性变革理论与去中心化枢纽）**
 >   系统研制科学探索中心的包容性评价框架与变革路径理论，指导各成员场馆打破高[[Science Capital|科学资本]]家庭的自选壁垒，主动走进欠发达社区、工薪阶层家庭与边缘群体，消除物理、经济与文化参与门槛。
 > - **3. 财税激励平权倡导（Tax Incentives Parity）**
 >   协同英国皇家学会呼吁财政部修订税法，确保科学探索中心与科学节等非正式科学机构能够享受与国家美术馆、剧院及管弦乐团完全平等的剧场/展览税收减免（Theatre and Exhibition Tax Relief）政策，并在政府采购中全面落实 10% [[The Social Value Model|社会价值模型]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 52)]]
@@ -88,7 +90,7 @@ updated: 2026-08-23
 > |:-----|:-----|:-----|
 > | [[Informal Science Learning]] | 概念 | ASDC 构成了英国非正式科学学习场馆网络的核心行业组织与中枢载体。 |
 > | [[Public Engagement with Science]] | 概念 | 每年为超过 2500 万英国公众提供沉浸式科学探索空间。 |
-> | [[Science Capital]] | 概念 | 依托包容性变革理论，致力于弥合低科学资本社区的参与鸿沟。 |
+> | [[Science Capital]] | 概念 | 依托包容性[[Theory of Change\|变革理论]]，致力于弥合低科学资本社区的参与鸿沟。 |
 > | [[Dippy on Tour]] | 事实 | 与成员场馆紧密协作，促成国家级馆藏向地方边缘场馆成功巡展。 |
 
 ---

@@ -14,7 +14,7 @@ title: "Argument_Hansen_2015_Paideia"
 argument_key: "Argument_Hansen_2015_Paideia"
 argument_display_title: "Leder Temanummer om synlig læring"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Paideia]]"
   - "[[Document]]"
   - "[[New Public Management]]"
+  - "[[Professional Learning Community]]"
   - "[[Analytical Stance]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
@@ -81,7 +82,7 @@ citation_aliases:
 > 2. 接着它指出，Hattie 最重要的贡献不应被缩减为干预因素排行榜，而应理解为一种教师工作原则：教师要从一开始就把学生当前学习状态、明确目标、可能的教学干预和反馈效果放在同一个评价视角下持续判断自己的影响。
 > 3. 在这个基础上，导言把主题号内部文章安排成一条连续的修正链。Qvortrup 负责回应意识形态和方法论批评，并补上知识与学习概念的动态模型；Laursen 负责检验这些研究结论能否跨出英美语境，在丹麦是否依然成立；Allerup 负责说明[[Effect Size|效应量]]排序需要怎样的统计保留条件(pp.5–6)。
 > 4. 然后导言把主题从[[Document|文献]]争论推向制度实践。Håkansson 的文章被用来说明“Hattie 革命”在瑞典带来了更贴近课堂的学校改进、更多教师集体合作，以及带有视频观察和同伴督导色彩的专业化工作方式(p.6)。
-> 5. Nordahl 的文章则把论证推进到系统层面：教育对个人生活质量和社会参与极其重要，因此学校改进不能停留在外部激励或 [[New Public Management]] 式控制，而要围绕教师个体与集体的教学知识、专业学习共同体、能力建设和知识转化来展开；在这一整套改进工程中，VL被呈现为无法绕开的起点(pp.6–8)。
+> 5. Nordahl 的文章则把论证推进到系统层面：教育对个人生活质量和社会参与极其重要，因此学校改进不能停留在外部激励或 [[New Public Management]] 式控制，而要围绕教师个体与集体的教学知识、[[Professional Learning Community|专业学习共同体]]、能力建设和知识转化来展开；在这一整套改进工程中，VL被呈现为无法绕开的起点(pp.6–8)。
 > 6. 最终结论是，这一期导言为VL提供了一种支持但非无条件辩护的整理框架：它肯定教师关注学习效果与证据的必要性，同时承认这一范式若想站得住脚，必须回应学习层次、统计解释和跨语境适用性的批评(pp.4–8)。
 
 ## 主要发现

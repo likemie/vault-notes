@@ -7,7 +7,7 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），高阶思维赋能最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Structured Teaching]]"
   - "[[Paradigm]]"
+  - "[[Teaching Assistant]]"
   - "[[Growth]]"
   - "[[Task Structure]]"
   - "[[Individualised Instruction]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-14
 ---
 
 # Cooperative Learning
@@ -80,7 +81,7 @@ updated: 2026-08-24
 
 > [!concept-lens] 概念透镜
 > - **含义** 以小群体的社会化互动与认知协商为载体，将个体学业成功与同伴成功深度绑定的[[Structured Teaching|结构化教学]]组织[[Paradigm|范式]]。
-> - **用途** 帮助教育研究者与一线教师超越传统单向灌输式讲授法，通过异质性同伴互动协同促进学生的学业考试成绩、高阶思维品质与社会人际技能。
+> - **用途** 帮[[Teaching Assistant|助教]]育研究者与一线教师超越传统单向灌输式讲授法，通过异质性同伴互动协同促进学生的学业考试成绩、高阶思维品质与社会人际技能。
 > - **边界** 合作学习区别于无结构约束的自发小组讨论（Unstructured Group Work），也不同于去中心化且赋予学生完全自主决策权的协作学习（Collaborative Learning）。
 
 > [!citation-card]- 经典界定与代表性表述

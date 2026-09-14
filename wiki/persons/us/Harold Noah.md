@@ -10,7 +10,7 @@ summary: "哥伦比亚大学师范学院经济学与教育学讲座教授、院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Teaching Assistant]]"
   - "[[Policy Borrowing]]"
   - "[[Nomothetic]]"
   - "[[Academic Iconography]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Harold Noah
@@ -114,7 +115,7 @@ updated: 2026-09-11
 > - **1960年代 — 确立起源谱系与实证科学纲领** 批判早期比较教育沉溺于直觉化印象与孤立国别描述，主张全面吸纳现代社会科学量化实证技术。
 >   - **代表著作** *Toward a Science of Comparative Education* (1969). [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a, p. 7)]]；[[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009, pp. 53–54)]]；[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 62, 65)]]
 >   - **关键概念** [[Hypothesis]]、[[Variable|变量]]函数共变、[[Positivism|实证主义]]、[[Value Neutrality|价值无涉]]。
->   - **阶段转向** 建立规范的学科历史分期（见闻、借用、力量与因素、实证科学）；将跨国解释界定为[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的函数共变关系，同时保持方法论审慎拒绝冠以绝对法则之名；将科学研究与协助教育规划者提高系统有效性紧密结合。
+>   - **阶段转向** 建立规范的学科历史分期（见闻、借用、力量与因素、实证科学）；将跨国解释界定为[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的函数共变关系，同时保持方法论审慎拒绝冠以绝对法则之名；将科学研究与协[[Teaching Assistant|助教]]育规划者提高系统有效性紧密结合。
 > - **1970年代至1980年代 — 跨国量化技术与政策有效性评估** 将跨国横截面数据分析与教育产出测量结合，服务于教育政策制定与制度效能改进。
 >   - **代表著作** *Secondary School Examinations* (1989); *Two-Way Traffic in Educational Ideas* (1984).
 >   - **阶段转向** 从纯方法论哲学宣示走向微观政策制度与评估体系的精细跨国比对。

@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -79,6 +79,7 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Causality
@@ -234,7 +235,7 @@ updated: 2026-09-11
 > - **1956 — [[Screening Off|筛选隔离]]原理提出** Hans Reichenbach 提出筛选隔离（Screening Off）概念，为用统计控制排除共同原因混杂奠定理论基础。
 > - **1974–1986 — 潜在结果模型与[[Counterfactual|反事实]]革命** Donald Rubin 与 Paul Holland 建立[[Potential Outcomes Framework|潜在结果框架]]，提出“因果推断基本问题”，奠定当代计量经济学与实验因果推断的数理基石。
 > - **1990 年代 — 因果图模型与有向无环图** Judea Pearl 创立因果图（DAGs）与 do-calculus 演算体系，形式化了因果识别中的混杂路径切断规则。
-> - **2002–2015 — 联邦循证门控标准确立** Shadish et al. (2002) 体系化[[Internal Validity|内部效度]]；IES/[[What Works Clearinghouse|WWC]] 正式建立以内部效度为先导的因果审查门控程序（[[Gating Procedure]]）([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp. 461–467]])。
+> - **2002–2015 — 联邦循证门控标准确立** Shadish et al. (2002) 体系化[[Internal Validity|内部效度]]；[[Institute of Education Sciences|IES]]/[[What Works Clearinghouse|WWC]] 正式建立以内部效度为先导的因果审查门控程序（[[Gating Procedure]]）([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp. 461–467]])。
 > - **2024 — 清算体系因果综合反思** Wadhwa, Zheng & Cook 全景检验 10 所清算中心 1,359 个项目，实证揭示各机构在单项因果识别与跨研究综合门槛上的割裂，推动因果推断从“微观实验识别”走向“宏观证据生态审思”([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
 
 ---

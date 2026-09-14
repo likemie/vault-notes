@@ -8,7 +8,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -60,10 +60,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
 related_theories:
   - "[[Theory of Mind]]"
+related_persons:
+  - "[[David Gough]]"
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-09-13
 ---
 
 # Evidence-Based Education Institutions
@@ -128,7 +130,7 @@ updated: 2026-07-14
 > [!ref-table] 研究综合与证据中心
 > | 机构 | 简介 |
 > |---|---|
-> | [证据知情政策与实践信息与协调中心](https://eppi.ioe.ac.uk/cms/) [[EPPI-Centre]] | 伦敦大学学院教育学院旗下的系统综述方法论开发与证据使用研究中心，由 David Gough 教授领导 |
+> | [证据知情政策与实践信息与协调中心](https://eppi.ioe.ac.uk/cms/) [[EPPI-Centre]] | 伦敦大学学院教育学院旗下的系统综述方法论开发与证据使用研究中心，由 [[David Gough]] 教授领导 |
 > | [Campbell 协作网](https://www.campbellcollaboration.org/) [[Campbell Collaboration]] | Cochrane 协作网在教育和社会科学领域的全球平行机构，专注控制试验的系统综述与[[Meta-analysis\|元分析]] |
 > | [课程、评估与管理中心](https://www.cem.org/) [[CEM Centre]] | 原属杜伦大学，Fitz-Gibbon and Tymms 创立，开发 PIPS、ALIS 等学校增值评估系统；2019 年被剑桥大学出版与评估院收购 |
 > | [荷兰循证教育研究顶尖研究所](https://www.tierweb.nl/) [[Top Institute for Evidence-Based Education Research]] | 荷兰[[Evidence-Based Education\|循证教育]]研究机构 |

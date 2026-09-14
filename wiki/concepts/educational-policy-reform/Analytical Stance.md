@@ -7,7 +7,7 @@ aliases:
 summary: "教育实践者在面对各类教学改革倡议、商业教育产品与研究证据宣称时，所秉持的主动探询研究质量、审验因果逻辑与评估情境适切性的专业认知立场，是教师抵御说服性修辞诱惑、行使审慎专业判断的核心素养。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Persuasive Communication in Education]]"
   - "[[Research Literacy]]"
   - "[[Causality]]"
+  - "[[Evidence Standards]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Heterogeneity]]"
   - "[[Empiricism]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Dialogue in Education]]"
   - "[[Growth]]"
+  - "[[Professional Learning Community]]"
   - "[[Research Utilization]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Literature Search]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-14
 ---
 
 # Analytical Stance
@@ -72,7 +74,7 @@ updated: 2026-09-02
 > [!boundary]- 概念边界
 > - 不等于无根据的“虚无怀疑主义” — 分析立场基于理性的实证准则与[[Causality|因果推断]]逻辑进行审验，旨在探寻真实有效性，而非全盘否定一切外部科学研究。
 > - 不等于纯技术性的[[Research Literacy|研究素养]] — 研究素养偏向于看懂统计图表、理解 p 值的“技术能力”；分析立场则是一种贯穿日常实践的“专业态度与认知取向”。
-> - 不等于孤立的个人经验直觉 — 分析立场要求实践者用系统的证据标准反思个人经验，防止陷入 confirmation bias（确认偏差）。
+> - 不等于孤立的个人经验直觉 — 分析立场要求实践者用系统的[[Evidence Standards|证据标准]]反思个人经验，防止陷入 confirmation bias（确认偏差）。
 
 ---
 
@@ -94,7 +96,7 @@ updated: 2026-09-02
 > - **因果机制追问意识（Inquiry into Causal Mechanisms）** 不仅关注“是否有效”，更深入探究“它为何有效、在什么心理或社会机制下起作用”。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 > - **修辞解构与证据溯源能力（Rhetoric Deconstruction & Source Tracing）** 主动剥离商业营销与[[Persuasive Communication in Education|说服性修辞]]外衣，追溯原始研究的设计类型、样本规模与对照组设置。
 > - **情境边界审慎权衡（Contextual Boundary Appraisal）** 敏锐识别外部[[Study Population and Sample|研究样本]]与本校/本班学情在文化、先验知识和资源上的差异，评估移植风险。
-> - **[[Reflexivity|反思性]]自我质疑习惯（Reflective Self-Questioning）** 用证据标准审视自身既有的教学惯性与直觉偏见，保持开放迭代的专业心态。
+> - **[[Reflexivity|反思性]]自我质疑习惯（Reflective Self-Questioning）** 用[[Evidence Standards|证据标准]]审视自身既有的教学惯性与直觉偏见，保持开放迭代的专业心态。
 
 ---
 
@@ -118,7 +120,7 @@ updated: 2026-09-02
 > 个人层面的分析立场容易被孤立动摇，依托教研网络形成的集体分析文化才能形[[Growth|成长]]效免疫机制。
 
 > [!claim] Cooper et al. (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
-> **集体批判审议与专业免疫** 一线教师在面对精心包装的商业教育产品时常常面临信息不对称。当学校或学区依托中层领导、专业学习共同体（PLC）与教师工会网络搭建起集体研讨机制时，个体的分析立场得以汇聚为组织级的批判审验能力。教师们通过集体研读原始研究、比对本校数据并分享真实试验反馈，能够迅速戳破[[Persuasive Communication in Education|说服性修辞]]的泡沫，筑牢抵御教育伪科学与盲目跟风的系统防线。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
+> **集体批判审议与专业免疫** 一线教师在面对精心包装的商业教育产品时常常面临信息不对称。当学校或学区依托中层领导、[[Professional Learning Community|专业学习共同体]]（PLC）与教师工会网络搭建起集体研讨机制时，个体的分析立场得以汇聚为组织级的批判审验能力。教师们通过集体研读原始研究、比对本校数据并分享真实试验反馈，能够迅速戳破[[Persuasive Communication in Education|说服性修辞]]的泡沫，筑牢抵御教育伪科学与盲目跟风的系统防线。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 ---
 

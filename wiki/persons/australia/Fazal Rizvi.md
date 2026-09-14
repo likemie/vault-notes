@@ -7,10 +7,10 @@ summary: "澳大利亚高等教育与全球化研究学者，国际化与地缘�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1950"
 died: ""
 lifespan: "1950–至今"
@@ -38,8 +38,7 @@ related_concepts:
   - "[[International Education Hubs]]"
 related_theories:
   - "[[Critical Geopolitics]]"
-related_methods:
-  - "[[Snowball Sampling]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -47,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 ## 简介
 
@@ -89,7 +88,7 @@ updated: 2026-09-11
 
 
 > [!info] [[Critical Geopolitics|批判地缘政治学]]作为分析透镜
-> Rizvi 选择[[Critical Geopolitics|批判地缘政治学]]而非古典（[[Realism in International Relations|现实主义]]）地缘政治作为核心分析工具。他的理由是：[[Classical Geopolitics|古典地缘政治]]只能看到国家间的权力斗争，看不到跨国社会想象、[[Snowball Sampling|网络化]]关系和全球教育市场中意识形态与文化的维度。批判地缘政治学对"日常经验"的关注——亚洲中产阶级家庭送孩子去西方读书的日常决策如何汇聚成重塑全球高等教育架构的巨大力量——是其分析的关键创新([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91, 95–97]])。
+> Rizvi 选择[[Critical Geopolitics|批判地缘政治学]]而非古典（[[Realism in International Relations|现实主义]]）地缘政治作为核心分析工具。他的理由是：[[Classical Geopolitics|古典地缘政治]]只能看到国家间的权力斗争，看不到跨国社会想象、网络化关系和全球教育市场中意识形态与文化的维度。批判地缘政治学对"日常经验"的关注——亚洲中产阶级家庭送孩子去西方读书的日常决策如何汇聚成重塑全球高等教育架构的巨大力量——是其分析的关键创新([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91, 95–97]])。
 >
 > > "geopolitical relations are 'saturated with social and cultural meaning'"（Dodds, 2019, p.34, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.91]]）
 >

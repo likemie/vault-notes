@@ -7,7 +7,7 @@ summary: "美国教育研究者与组织改进学者，卡内基教学促进基�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,7 +35,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Improvement Science]]"
-  - "[[Snowball Sampling]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mechanism Experiments]]"
   - "[[Effect Size]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Anthony Bryk
@@ -61,7 +60,7 @@ updated: 2026-09-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育研究者与组织改进学者，卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）前主席。
-> - **核心角色** 将[[Improvement Science|改进科学]]与[[Snowball Sampling|网络化]]改进共同体（Networked Improvement Communities, NICs）模型系统性引入教育研究领域的先驱与领军人物。
+> - **核心角色** 将[[Improvement Science|改进科学]]与网络化改进共同体（Networked Improvement Communities, NICs）模型系统性引入教育研究领域的先驱与领军人物。
 > - **代表贡献** 系统构建教育[[Improvement Science|改进科学]]方法论体系、协同倡导 “网络化改进共同体”（Networked Improvement Communities, NICs）组织模型、提出 “[[Practice-Based Evidence|基于实践的证据]]”（practice-based evidence）概念。
 
 > [!citation-card]- 人物定位的关键来源
@@ -85,21 +84,21 @@ updated: 2026-09-11
 
 > [!timeline] 生平与职涯
 > - **近年（截至 2015 年）** 作为卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）的关键研究者，将来自组织研究和公共健康的[[Improvement Science|改进科学]]方法论系统性地引入美国教育研究。
-> - **2015 年** 与合著者发表里程碑式著作 *Learning to Improve*，标志着教育改进科学与[[Snowball Sampling|网络化]]改进共同体理论与实践的正式确立。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
+> - **2015 年** 与合著者发表里程碑式著作 *Learning to Improve*，标志着教育改进科学与网络化改进共同体理论与实践的正式确立。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2015 — *Learning to Improve: How America's Schools Can Get Better at Getting Better***：与路易斯·戈麦斯（Louis M. Gomez）、艾丽克丝·格鲁诺（Alix Grunow）、保罗·勒马修（Paul G. LeMahieu）合作撰写。系统阐述了[[Improvement Science|改进科学]]在教育中的应用，提出了应对跨情境变异性的系统方法，并正式勾勒了[[Snowball Sampling|网络化]]改进共同体（NICs）的组织蓝图。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
+> - **2015 — *Learning to Improve: How America's Schools Can Get Better at Getting Better***：与路易斯·戈麦斯（Louis M. Gomez）、艾丽克丝·格鲁诺（Alix Grunow）、保罗·勒马修（Paul G. LeMahieu）合作撰写。系统阐述了[[Improvement Science|改进科学]]在教育中的应用，提出了应对跨情境变异性的系统方法，并正式勾勒了网络化改进共同体（NICs）的组织蓝图。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> Bryk 的核心思想在于通过系统视角与网络协作克服传统[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）中 “什么有效（What Works）” [[Paradigm|范式]]的机械化与去情境化倾向。他认为，教育改进的科学探索不能依靠一次性的宏观二选一决策，而必须深入教育系统内部，研究实践中的跨情境变异性，依靠由一线教师和研究者协同组成的[[Snowball Sampling|网络化]]改进共同体（NICs），在复杂的具体情境中进行小步迭代与持续的局部调整，最终沉淀出 “[[Practice-Based Evidence|基于实践的证据]]”。
+> Bryk 的核心思想在于通过系统视角与网络协作克服传统[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）中 “什么有效（What Works）” [[Paradigm|范式]]的机械化与去情境化倾向。他认为，教育改进的科学探索不能依靠一次性的宏观二选一决策，而必须深入教育系统内部，研究实践中的跨情境变异性，依靠由一线教师和研究者协同组成的网络化改进共同体（NICs），在复杂的具体情境中进行小步迭代与持续的局部调整，最终沉淀出 “[[Practice-Based Evidence|基于实践的证据]]”。
 
 > [!axioms] 核心命题一：基于实践的证据 (Practice-Based Evidence)
 > 教育者在教学一线产生的细粒度、与实践紧密相关的知识，能够形塑性地支持教师的专业学习 and 学生成就。这种基于实践的证据，是连通外部研究证据与学校实际改进之间的关键桥梁，它构成了循证实践（[[Evidence-Informed Practice]], EIP）中超越纯[[Pragmatism in China|实验主义]]的一条中间道路。([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]])
@@ -122,7 +121,7 @@ updated: 2026-09-11
 > [!influence-path] 影响路径
 > - **理论路径** 在 [[Evidence-Informed Practice|EIP]] 中建立起 “[[Practice-Based Evidence|基于实践的证据]]” 和 “[[Improvement Science|改进科学]]” 的话语体系，为超越[[Paradigm Wars|范式战争]]提供了中间立场。([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]])；另见 ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
 > - **方法路径** 通过网络反馈循环和小步改变（如计划-执行-研究-行动［Plan-Do-Study-Act, PDSA］循环）将注意力从完整程序协议转向真实变化机制。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306–307]])
-> - **政策路径** 作为卡内基教学促进基金会的主导议题，推动了美国学校改进的[[Snowball Sampling|网络化]]协作模式；同时激发了如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织对创新学习系统规模化路径的探讨。
+> - **政策路径** 作为卡内基教学促进基金会的主导议题，推动了美国学校改进的网络化协作模式；同时激发了如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织对创新学习系统规模化路径的探讨。
 
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]] — 将 Bryk 于 2015 年提出的 “基于实践的证据” 定位为 EIP 生态系统中的关键中介与专业支持。
@@ -137,7 +136,7 @@ updated: 2026-09-11
 > - **合作者** 路易斯·戈麦斯 (Louis M. Gomez) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
 > - **合作者** 艾丽克丝·格鲁诺 (Alix Grunow) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
 > - **合作者** 保罗·勒马修 (Paul G. LeMahieu) — 卡内基教学促进基金会副主席，*Learning to Improve* 的合著者。
-> - **重构／整合者** 阿梅莉亚·彼得森（[[Amelia Peterson]]） — 提出[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]][[Snowball Sampling|网络化]]组织的双向互补整合方案（什么有效 2.0）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])
+> - **重构／整合者** 阿梅莉亚·彼得森（[[Amelia Peterson]]） — 提出[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]网络化组织的双向互补整合方案（什么有效 2.0）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])
 > - **机构** Carnegie Foundation for the Advancement of Teaching — Bryk 长期出任主席并践行改进科学的基地。
 
 ---

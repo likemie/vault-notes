@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 30
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 33
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - bee
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence Standards]]"
   - "[[Technology Infusion]]"
   - "[[Ecological Validity]]"
   - "[[Study Population and Sample]]"
@@ -45,6 +46,8 @@ related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
 related_facts:
+  - "[[Institute of Education Sciences]]"
+  - "[[Best Evidence Synthesis]]"
   - "[[Best Evidence in Brief]]"
   - "[[What Works Clearinghouse]]"
   - "[[Success for All]]"
@@ -62,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-09-14
 ---
 
 # Best Evidence Encyclopedia
@@ -72,17 +75,17 @@ updated: 2026-08-21
 ## 机构定位与运营概况
 
 > [!info] 机构定位与运营概况
-> **最佳证据百科全书（Best Evidence Encyclopedia, BEE）** 是由国际著名[[Evidence-Based Education|循证教育]]学者 [[Robert Slavin]]（1950–2021）团队于约翰斯·霍普金斯大学教育研究与改革中心（CRRE）创立的教育专精[[Educational Evidence Clearinghouses|证据清算中心]]，受到美国教育部教育科学研究院（IES）资助([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
+> **最佳证据百科全书（Best Evidence Encyclopedia, BEE）** 是由国际著名[[Evidence-Based Education|循证教育]]学者 [[Robert Slavin]]（1950–2021）团队于约翰斯·霍普金斯大学教育研究与改革中心（CRRE）创立的教育专精[[Educational Evidence Clearinghouses|证据清算中心]]，受到[[Institute of Education Sciences|美国教育部教育科学研究院]]（IES）资助([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
-> BEE 专精于学前至中小学（Pre-K–12）的读写、数学、科学、教育技术及全校综合改革方案评估。当前处于**在线资料库 / 重心迁移（Shifted）**状态：原始学术文库 [bestevidence.org](https://www.bestevidence.org) 持续在线归档各学科[[Systematic Review|系统综述]]，而日常评级与决策支持主力已全面升级迁移至符合 ESSA 证据标准的交互式旗舰平台 [Evidence for ESSA](https://www.evidenceforessa.org)([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 110]])。
+> BEE 专精于学前至中小学（Pre-K–12）的读写、数学、科学、教育技术及全校综合改革方案评估。当前处于**在线资料库 / 重心迁移（Shifted）**状态：原始学术文库 [bestevidence.org](https://www.bestevidence.org) 持续在线归档各学科[[Systematic Review|系统综述]]，而日常评级与决策支持主力已全面升级迁移至符合 ESSA [[Evidence Standards|证据标准]]的交互式旗舰平台 [Evidence for ESSA](https://www.evidenceforessa.org)([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 110]])。
 
 ---
 
 ## 历史沿革与立法资助脉络
 
 > [!timeline] BEE 发展历史时间线
-> - **1986 — 最佳证据综合法（BES）创立** [[Robert Slavin]] 提出“最佳证据综合法（Best-Evidence Synthesis）”，倡导将[[Systematic Review|系统综述]]的质性审慎与[[Meta-analysis|元分析]]的量化聚合相融通。
-> - **2004 — BEE 平台由 JHU CRRE 正式设立** 获得美国教育部 IES 持续资助，针对全美 K–12 主流课程方案开展大规模学科元分析审查。
+> - **1986 — [[Best Evidence Synthesis|最佳证据综合]]法（BES）创立** [[Robert Slavin]] 提出“最佳证据综合法（Best-Evidence Synthesis）”，倡导将[[Systematic Review|系统综述]]的质性审慎与[[Meta-analysis|元分析]]的量化聚合相融通。
+> - **2004 — BEE 平台由 JHU CRRE 正式设立** 获得美国教育部 [[Institute of Education Sciences|IES]] 持续资助，针对全美 K–12 主流课程方案开展大规模学科元分析审查。
 > - **2007–2014 — 学科系统综述矩阵建立** 陆续发布初等阅读、中等阅读、中小学数学、幼儿早教、教育[[Technology Infusion|技术整合]]等十余部奠基性学科元分析报告。
 > - **2015 — ESSA 法案颁布与平台战略升级** 《每个学生都成功法案》（ESSA）出台后，JHU 团队依托 BEE 审查标准孵化新一代决策平台 **Evidence for ESSA**，直接服务全美学区 Title I 拨款采购([[Argument_Slavin_2021_ROE|Slavin et al., 2021, pp. 19–21]])。
 > - **2019 — 全球传播网络成熟** 旗下双周刊通讯《简报中的证据》（[[Best Evidence in Brief]], BEiB）向全球数万名教育者与决策者推送，并建立中英多语种国际合作网络。
@@ -91,7 +94,7 @@ updated: 2026-08-21
 
 ## 核心方法学准则与审查规程
 
-> [!abstract] 最佳证据综合法（BES）核心技术特征
+> [!abstract] [[Best Evidence Synthesis|最佳证据综合]]法（BES）核心技术特征
 > 与其他宏观政府清算中心相比，BEE 展现出鲜明的“大学学术派因果严谨性”与“[[Meta-analysis|元分析]]定量合成”特色([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–12]])：
 >
 > 1. **强制要求常规替代对照组（Business-As-Usual Control, BAU）** 坚决排斥“无教学或虚假对照组”（No-Treatment Controls），对照组学生必须接受同等课时的常规教学，以测度干预的真实净增量。
@@ -165,7 +168,7 @@ updated: 2026-08-21
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Educational Evidence Clearinghouses]] | 核心概念 | BEE 是大学学术研究团队主导的教育专精清算中心典型代表。 |
-> | [[Robert Slavin]] | 关键人物 | BEE 的创立者与学术灵魂，最佳证据综合法（BES）提出者。 |
+> | [[Robert Slavin]] | 关键人物 | BEE 的创立者与学术灵魂，[[Best Evidence Synthesis\|最佳证据综合]]法（BES）提出者。 |
 > | [[Evidence-Based Education]] | 政策[[Paradigm\|范式]] | BEE 将[[Meta-analysis\|元分析]]量化综合深度融入循证教育评价体系。 |
 > | [[ESSA 2015 Evidence Standards]] | 政策依托 | BEE 准则直接孵化了新一代 Evidence for ESSA 决策支持平台。 |
 > | [[Success for All]] | 干预项目 | BEE 创立团队研发的旗舰全校综合改革方案。 |

@@ -37,6 +37,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
+  - "[[Teaching Assistant]]"
   - "[[Symbolic Boundary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Rote Learning]]"
@@ -77,7 +78,7 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -284,7 +285,7 @@ Castells 据此区分了两种空间逻辑：
 > 这个事实说明：**流动空间中的政治不由意识形态原则主导**。实际情况不是新自由主义精英与草根运动的两极对立，而是一个复杂的、根据项目目标不断重组的合作、竞争、联盟和争议的多元网络(pp.352–353)。
 
 > [!theory-use] [[Performativity|操演性]]的解释力
-> 操演性原则为理解这种敌人的敌人未必是朋友、今天的盟友明天可能是对手的局面提供了分析工具。参与全球政策空间的机构持续被评估表现，评估标准是**影响的广度**。因此，是否与其他机构协作或竞争，取决于这种关系在多大程度上有助于提升其表现和影响力。[[Pragmatic Paradigm|实用主义]]的考量压倒了意识形态的一致性。一个教师工会与 IMF 合作，动机是这种合作能帮助教师工会在某个具体议题上扩大自己的声音和影响力，不在于它们达成了意识形态共识(pp.352–353)。
+> 操演性原则为理解这种敌人的敌人未必是朋友、今天的盟友明天可能是对手的局面提供了分析工具。参与全球政策空间的机构持续被评估表现，评估标准是**影响的广度**。因此，是否与其他机构协作或竞争，取决于这种关系在多大程度上有助于提升其表现和影响力。[[Pragmatic Paradigm|实用主义]]的考量压倒了意识形态的一致性。一个教师工会与 IMF 合作，动机是这种合作能帮[[Teaching Assistant|助教]]师工会在某个具体议题上扩大自己的声音和影响力，不在于它们达成了意识形态共识(pp.352–353)。
 
 ---
 

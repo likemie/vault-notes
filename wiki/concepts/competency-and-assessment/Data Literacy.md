@@ -7,7 +7,7 @@ aliases:
 summary: "涵盖个体在数字化社会中收集、解读与批判评估数据的通识能力，以及教育者在学校探究中超越单一终结性评价、进行定性定量证据三角验证的专业实践胜任力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,10 +26,12 @@ related_concepts:
   - "[[Document]]"
   - "[[Literature Search]]"
   - "[[Scientific Literacy]]"
+  - "[[Knowledge Co-production]]"
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Dialogue in Education]]"
+  - "[[Teaching Assistant]]"
   - "[[School Enquiry Cycle]]"
   - "[[Data-Based Decision Making]]"
   - "[[Research-Informed Teaching Practice]]"
@@ -45,7 +47,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-02
+updated: 2026-09-14
 ---
 
 # Data Literacy
@@ -76,7 +78,7 @@ updated: 2026-09-02
 > | **核心主体** | K-12 学生、未来公民 | 教师、学科组长、[[School Leadership\|学校领导]]者 | 教师、教育研究者、政策制定者 |
 > | **主要对象** | 跨学科情境数据、统计图表、科学实验数据 | 校内测试成绩、[[Formative Assessment\|形成性评价]]、课堂观察、学生行为数据 | 外部发表的学术[[Document\|文献]]、实证研究报告、[[Meta-analysis\|元分析]]工具包 |
 > | **关键技能** | 概率推理、图表批判、不确定性审视、数据清洗 | 确立分析立场、定性定量[[Triangulation\|三角验证]]、教学诊断与调整 | [[Literature Search\|文献检索]]、研究方法评估、证据情境转化、外部推论审视 |
-> | **最终产出** | 理性公民决策、[[Scientific Literacy\|科学素养]]与就业胜任力 | 平衡教学决策、课堂教学优化、学校改进探究闭环 | 证据知情教学策略、理论反思、跨校专业知识共创 |
+> | **最终产出** | 理性公民决策、[[Scientific Literacy\|科学素养]]与就业胜任力 | 平衡教学决策、课堂教学优化、学校改进探究闭环 | 证据知情教学策略、理论反思、跨校专业[[Knowledge Co-production\|知识共创]] |
 
 ---
 
@@ -127,7 +129,7 @@ updated: 2026-09-02
 > 孤立的数据素养往往使学校决策局限于校内数据的现状诊断，缺乏成熟干预策略；孤立的[[Research Literacy|研究素养]]则容易使外部[[Document|文献]]脱离校本现实。
 
 > [!claim] Brown et al. (2017) / [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
-> **双素养整合赋能探究循环** 推动真正的[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）必须同时依托数据素养与研究素养。数据素养帮助教育者基于校内数据精准定位问题与学生需求，研究素养则帮助教育者从外部实证研究中搜寻、评估和改编有效的教学干预方案。只有将两种素养协同整合于系统的[[School Enquiry Cycle|学校探究循环]]（school enquiry cycle）中，才能使[[Data-Based Decision Making|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）紧密交融，赋能教师的专业探究与学校的持续改进。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–131)]]
+> **双素养整合赋能探究循环** 推动真正的[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）必须同时依托数据素养与研究素养。数据素养帮[[Teaching Assistant|助教]]育者基于校内数据精准定位问题与学生需求，研究素养则帮助教育者从外部实证研究中搜寻、评估和改编有效的教学干预方案。只有将两种素养协同整合于系统的[[School Enquiry Cycle|学校探究循环]]（school enquiry cycle）中，才能使[[Data-Based Decision Making|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）紧密交融，赋能教师的专业探究与学校的持续改进。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–131)]]
 
 > [!implication]- 教师专业发展与中层领导支持
 > 培育教育者的专业数据素养不能仅依靠脱离情境的技术统计培训，必须依托学校中层领导（middle leaders）构建的跨校协作探究网络与校本探究基础设施，为教师提供持续的反思、审议与实践土壤。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]

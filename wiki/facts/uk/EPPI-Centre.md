@@ -11,9 +11,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 33
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "academic-clearinghouse"
 headquarters: "London, UK"
@@ -47,11 +47,13 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Meta-analysis]]"
   - "[[Qualitative Research]]"
+  - "[[Weight of Evidence Framework]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[David Gough]]"
 related_facts:
   - "[[OECD]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # EPPI-Centre
@@ -91,7 +93,7 @@ updated: 2026-09-13
 > [!dev-timeline]- 组织发展历程
 > - **1995 — 创设与方法奠基期** 在 UCL IOE 正式成立，以医学循证综合为[[Paradigm|范式]]参照，开创适应教育与社会科学特性的[[Systematic Review|系统综述]]规程，开发质性证据综合（Qualitative Evidence Synthesis）与主题综合方法([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 33]])。
 > - **1999–2000 — 纳入国家循证政策基础设施** 英国工党政府大力推进“循证公共决策”（Evidence-Based Policy），出资设立国家证据中心网络，EPPI-Centre 正式确立为国家级[[Evidence-Based Education|循证教育]]与社会关怀核心支撑平台([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 31]])。
-> - **2007–2010s — 探索关系型中介与发起 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国网络** 面对单纯[[Document|文献]]线性推送在推动实践变革上的局限，中心由戴维·高夫（David Gough）等人牵头，发起联合欧盟多国的 EIPPEE 计划，主动由单向文献分发转向多方参与式综述（Participatory Reviews）、决策者能力建设及“中介的中介”元协调生态([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 64, 67–68]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]])。
+> - **2007–2010s — 探索关系型中介与发起 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国网络** 面对单纯[[Document|文献]]线性推送在推动实践变革上的局限，中心由[[David Gough|戴维·高夫]]（David Gough）等人牵头，发起联合欧盟多国的 EIPPEE 计划，主动由单向文献分发转向多方参与式综述（Participatory Reviews）、决策者能力建设及“中介的中介”元协调生态([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 64, 67–68]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]])。
 > - **2020s — 数字化基础设施与纵向存续标杆** 持续升级 EPPI-Reviewer 智能系统综述协作软件；在[[OECD|经合组织]]回顾 2007 年确立的 6 家国际标杆中介机构时，EPPI-Centre 与美国 [[What Works Clearinghouse|WWC]] 成为仅有的两家保持持续完全活跃的机构([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
 
 ---
@@ -107,7 +109,7 @@ updated: 2026-09-13
 > [!pathways]- 业务运行与多元协同机制
 > - **参与式议程设置（Participatory Agendas）** 邀请政策制定者、学校教师与服务对象早期介入选题界定，确保综述问题精准呼应复杂教育现实，而非闭门造车。
 > - **质性与定量[[Mixed Methods Research|混合方法]]矩阵** 突破单一量化[[Meta-analysis|元分析]]的狭隘界限，系统吸纳[[Qualitative Research|定性研究]]（Qualitative Research）与实地经验，研制“实证因果效应 $+$ 实施机制解释”的综合[[Chain of Evidence|证据链]]。
-> - **全流程透明与质量控制** 强制执行公开注册审查方案（Protocol Registration）、双人独立[[Document|文献]]筛选、严格偏倚风险评价与证据权重（Weight of Evidence）分级。
+> - **全流程透明与质量控制** 强制执行公开注册审查方案（Protocol Registration）、双人独立[[Document|文献]]筛选、严格偏倚风险评价与证据权重（[[Weight of Evidence Framework|Weight of Evidence]]）分级。
 
 ---
 
@@ -120,7 +122,7 @@ updated: 2026-09-13
 > - **跨国元中介网络平台（[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]）** 主导建立欧洲教育循证政策与实践知识库，统筹制定跨国教育综述的共享质量标准，实现证据成果跨国流转([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 67]])。
 
 > [!citation-card] Burns & Schuller 论 EPPI-Centre 的纵向存续机制
-> [[OECD|经合组织]] 2007 年报告纵向追踪的 6 家标杆机构中，历经十五年仅有 2 家依然保持完全活跃（Fully active）状态，即美国有效干预清算中心（[[What Works Clearinghouse|WWC]]）与英国循证政策与实践信息协同中心（EPPI-Centre）。EPPI-Centre 依托世界领先教育学院的学术根基与高度多元化的科研委托资助组合，成功化解了单一财政预算周期与政党轮替对独立[[Educational Brokerage Agency|知识中介机构]]的致命生存威胁。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])
+> [[OECD|经合组织]] 2007 年报告纵向追踪的 6 家标杆机构中，历经十五年仅有 2 家依然保持完全活跃（Fully active）状态，即美国[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse|WWC]]）与英国循证政策与实践信息协同中心（EPPI-Centre）。EPPI-Centre 依托世界领先教育学院的学术根基与高度多元化的科研委托资助组合，成功化解了单一财政预算周期与政党轮替对独立[[Educational Brokerage Agency|知识中介机构]]的致命生存威胁。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])
 >
 > *Of the six agencies tracked longitudinally from the OECD 2007 benchmark, only two remain fully active fifteen years later: the US What Works [[Educational Evidence Clearinghouses|Clearinghouse]] (WWC) and the UK Evidence for Policy and Practice Information and Co-ordinating Centre (EPPI-Centre).*
 

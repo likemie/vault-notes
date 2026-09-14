@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Theoretical Standpoint]]"
   - "[[Evidence-Based Education]]"
+  - "[[Evidence Standards]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[External Validity]]"
   - "[[Conflict of Interest in Research]]"
@@ -49,6 +50,7 @@ related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Investing in Innovation Program]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Success for All]]"
@@ -60,7 +62,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-09-13
 year: 2019
 doi: ""
 citation_aliases:
@@ -92,7 +94,7 @@ citation_aliases:
 >
 > Slavin 论证 EBR 要成功必须同时满足三个条件：
 >
-> 1. **足够多的已验证项目** — 关键领域（阅读、数学）的每一年级都需有达到强证据标准的选项可选
+> 1. **足够多的已验证项目** — 关键领域（阅读、数学）的每一年级都需有达到强[[Evidence Standards|证据标准]]的选项可选
 > 2. **可信赖的、面向教育者的证据审查** — 校长和学区需要方便获取"哪个项目有效"的权威信息
 > 3. **政府财政激励** — 教育缺乏证据决策的传统，没有政府拨款支持，营销和政治将压倒证据
 >
@@ -101,7 +103,7 @@ citation_aliases:
 > **条件 1 — 项目积累**
 > - [[Investing in Innovation Program|i3]] 项目（2009–2016）：USD 1.4B，171 个项目，多数含第三方 [[Randomised Controlled Trials|RCT]] 评估
 > - [[Education Endowment Foundation|EEF]]（英国）：180+ 第三方 RCT 评估
-> - IES 持续资助研发和评估
+> - [[Institute of Education Sciences|IES]] 持续资助研发和评估
 > - ESSA 强/中标准的阅读和数学项目已达约 100 个
 >
 > **条件 2 — 证据审查系统**
@@ -193,7 +195,7 @@ citation_aliases:
 >
 > ### EBE and EBR 的模糊边界：激励何时变成强制？
 >
-> **批评内容** Slavin 将 EBR 定位为"政策框架"——通过政府拨款激励学校采用已验证项目。但他未明确讨论当"激励"变成事实上的强制时（如 ESSA 要求最低 5% 学校必须采用达到证据标准的项目以获得联邦改进拨款），教育者的专业自主权如何保障。这一边界在 Biesta 的极权主义批评和 Holmes et al. (2006) 的"微观法西斯主义"指控中已被问题化，Slavin 未做直接回应。
+> **批评内容** Slavin 将 EBR 定位为"政策框架"——通过政府拨款激励学校采用已验证项目。但他未明确讨论当"激励"变成事实上的强制时（如 ESSA 要求最低 5% 学校必须采用达到[[Evidence Standards|证据标准]]的项目以获得联邦改进拨款），教育者的专业自主权如何保障。这一边界在 Biesta 的极权主义批评和 Holmes et al. (2006) 的"微观法西斯主义"指控中已被问题化，Slavin 未做直接回应。
 >
 > **目前状态** ESSA 的证据要求目前仅适用于联邦改进拨款的特定项目，尚未扩展至全体学校。但 Slavin 对"证据知情"弱版本的明确反对暗示了他对更广泛的证据要求的支持——这使得"激励 vs. 强制"的边界问题在未来政策辩论中将成为关键争议点。
 >

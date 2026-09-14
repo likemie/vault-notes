@@ -3,82 +3,111 @@ title: Systematic Review
 aliases:
   - 系统综述
   - 系统性综述
-summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评估研究文献的综述方法，旨在减少选择偏差并为元分析提供可重复的输入"
+summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评估研究文献的研究综合方法，包含证实型与配置型两大认识论范式，是循证中介与证据门户的核心基座；但全球调查亦揭示了打包方案类证据门户规避系统综述的标准塌陷风险"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 50
+method_related_count: 78
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
-- systematic-review
-- research-synthesis
-- evidence-based-education
-- methodology
-- literature-review
+  - systematic-review
+  - research-synthesis
+  - evidence-based-education
+  - methodology
+  - literature-review
 related_concepts:
   - "[[Document]]"
+  - "[[Research Scope]]"
+  - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
   - "[[Unit of Analysis]]"
+  - "[[Literature Review]]"
+  - "[[Paradigm]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Reliability]]"
-  - "[[Causality]]"
-  - "[[External Validity]]"
-  - "[[Literature Search]]"
-  - "[[Research Question]]"
+  - "[[Postpositivism]]"
   - "[[Variable]]"
-  - "[[Independent Variable]]"
-  - "[[Dependent Variable]]"
-  - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
+  - "[[Causality]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Central Question]]"
+  - "[[Research Question]]"
+  - "[[Preregistration]]"
+  - "[[Literature Search]]"
   - "[[Evaluation Research]]"
-  - "[[Evidence-Based Education]]"
+  - "[[Research Translation]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Chain of Evidence]]"
+  - "[[Ecological Validity]]"
+  - "[[Evidence Standards]]"
+  - "[[Evidence Ecosystem]]"
+  - "[[Knowledge Production]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
   - "[[Research Utilization]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Creativity]]"
-related_theories: []
+related_theories:
+  - "[[Critical Realism]]"
+  - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
-  - "[[Statistical Significance]]"
+  - "[[PRISMA]]"
+  - "[[Forest Plot]]"
+  - "[[Funnel Plot]]"
   - "[[Ethnography]]"
+  - "[[Fieldwork]]"
+  - "[[Thematic Synthesis]]"
+  - "[[Framework Synthesis]]"
   - "[[Grounded Theory]]"
+  - "[[Axial Coding]]"
   - "[[Content Analysis]]"
-  - "[[Case Study]]"
-  - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Content Analysis]]"
   - "[[Intercoder Agreement]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[PRISMA]]"
+  - "[[Qualitative Interview]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Meta-regression]]"
+  - "[[Statistical Significance]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Case Study]]"
+  - "[[Pilot Testing]]"
   - "[[Critical Review]]"
-  - "[[Framework Synthesis]]"
-  - "[[Thematic Synthesis]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Li_2026_CEAI]]"
+  - "[[Argument_Rickinson_2022_UsingResearchWell]]"
 related_facts:
   - "[[Best Evidence Synthesis]]"
   - "[[EPPI-Centre]]"
+  - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Social Programs That Work]]"
+  - "[[Early Intervention Foundation]]"
+  - "[[What Works Network]]"
   - "[[PISA]]"
+  - "[[OECD]]"
 related_instruments:
   - "[[Mixed Methods Appraisal Tool]]"
-confidence: medium
+confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-13
+updated: 2026-09-14
 ---
+
 # Systematic Review
 
 ---
@@ -86,62 +115,67 @@ updated: 2026-09-13
 ## 定义
 
 > [!def] 方法定义
-> 系统综述（Systematic Review）是研究综合（Research Synthesis）的一种严格形式：要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003）。正是这些标准使系统综述区别于传统叙事综述——后者更宽泛且选择标准更不明确（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.384–385]]）。
+> 系统综述（Systematic Review）是研究综合（Research Synthesis）的一种严密规范形式：要求运用最小化偏差的技术、遵循预设的协议检索原始研究[[Document|文献]]、制定明确的纳入与排除标准、设立公认的方法学严谨性门槛、界定[[Research Scope|研究范围]]、依托多研究者团队协同筛选以降低主观偏差，并采用透明一致的方法整合多项研究成果以提炼严谨审慎的推论与政策建议（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003；引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp. 384–385]]）。这些程序化特征使系统综述从根本上区别于选择标准模糊、容易产生主观偏倚的传统叙事综述。
 >
-> 系统综述通常作为[[Meta-analysis|元分析]]的前置步骤：先通过系统综述识别符合条件的研究，再对这些研究的[[Effect Size|效应量]]进行统计综合。但系统综述本身也可以独立于元分析存在——当纳入研究的结果无法量化合并时，系统综述仍可提供结构化的证据总结。
+> 系统综述通常作为定量[[Meta-analysis|元分析]]的前置基石：先通过系统综述穷尽检索并筛选出符合方法学标准的初级研究，再对这些研究的[[Effect Size|效应量]]开展统计合并。但系统综述本身亦可独立于元分析存在——当纳入研究的质性或[[Heterogeneity|异质性]]特征无法量化合并时，系统综述仍能提供高度结构化的证据图谱。
 >
-> 研究综合追求两个并行目标：发现表面上相似的主要研究之间的**一致性**，同时**解释研究之间的变异性（Cooper & Hedges, 1994, p. 4）**，从而在所用研究的限度和情境内得出推广性结论（Davies, 2000, p. 366）。
+> 现代研究综合追求双重目标：不仅要发现表面相似的初级研究之间的**一致性**，更要系统**解释不同研究情境之间的变异性与异质性（Cooper & Hedges, 1994, p. 4）**，进而在有限情境中审慎推导结论的外部适用边界（Davies, 2000, p. 366）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 已发表的实证研究[[Document|文献]]，包括[[Quantitative Research|定量研究]]、[[Qualitative Research|质性研究]]和[[Mixed Methods Research|混合方法研究]]；也可纳入灰色文献和未发表研究以减少[[Publication Bias|发表偏倚]]。
-> - **问题类型** 适合回答评价性问题——"什么有效？""对谁有效？""在什么条件下有效？"——也可处理描述性和比较性问题。
-> - **[[Unit of Analysis|分析单位]]** 单项研究（study-level）为基本分析单位；也可按干预类型、人群特征或研究设计进行亚组分析。
-> - **输出形式** 系统综述报告——包含纳入研究清单、质量评估、综合结论和政策建议；定量综合时输出[[Effect Size|效应量]]汇总。
+> - **研究对象** 已公开发表或未发表的实证研究[[Document|文献]]，涵盖[[Quantitative Research|定量研究]]、[[Qualitative Research|质性研究]]与[[Mixed Methods Research|混合方法研究]]；强制检索灰色文献以最大程度遏制[[Publication Bias|发表偏倚]]。
+> - **问题类型** 适合回答“什么干预措施有效？”（因果评价）、“为何有效、对谁有效、在何种制度与文化情境下有效？”（机制与情境解释）以及多方案横向比较问题。
+> - **[[Unit of Analysis|分析单位]]** 单项独立实证研究（study-level）或特定干预项目为基本分析单位；亦可以人群亚组、设计类型或干预剂量为亚单位。
+> - **输出形式** 结构化系统综述技术报告——包含检索流程图（如 [[PRISMA|PRISMA Flow Diagram]]）、纳入排除清单、偏倚风险质量评定矩阵、机制综合叙述及政策建议；定量综合时输出合并效应量、[[Forest Plot|森林图]]及[[Funnel Plot|漏斗图]]。
 
-> [!citation-card]- Evans & Benefield (2001) 的系统综述定义
+> [!citation-card]- Evans & Benefield (2001) 的系统综述规范界定
 > 系统综述要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议。（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003）
 >
 > *Systematic reviews require the use of techniques to minimize bias, they follow protocols and criteria for searching for relevant primary, usually empirical, studies, their inclusion and exclusion, the standards for acceptable methodological rigour, their relevance to the topic in question, the scope of the studies included, team approaches to reviewing in order to reduce bias, the adoption of a consistent and clearly stated approach to combining information from across different studies, and the careful, relevant conclusions and recommendations drawn.*
 
 ---
 
-### 研究综合的类型
+### 研究综合的类型与多维形态
 
-研究综合（Research Synthesis）是一个更广泛的伞式术语，涵盖将多篇研究和综述汇集为单一专家报告的一系列方法，可结合定性和定量研究（Davies, 2000; Dixon-Woods et al., 2005）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.385–386]]）。系统综述是其中更严格、更少"叙事"色彩的形式。
+研究综合（Research Synthesis）是一个涵盖性概念，统摄将多篇独立实证研究与既有综述汇聚为单一专家智力成果的多元方法家族（Davies, 2000; Dixon-Woods et al., 2005；引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp. 385–386]]）：
 
-> [!taxonomy] 研究综合的常见形式
-> | 方法 | 描述 | 来源 |
+> [!taxonomy] 研究综合的常见形态矩阵
+> | 方法形态 | 核心综合机制与特征 | 理论来源与代表学者 |
 > |---|---|---|
-> | **叙事综述与总结** | 对研究发现进行叙述性总结 | — |
-> | **投票计数综述** | 计数有多少结果在一个方向上有[[Statistical Significance\|统计显著性]]，多少无效应 | Davies, 2000, p. 367 |
-> | **[[Best Evidence Synthesis\|最佳证据综合]]** | 基于明确标准和方法论选择研究 | Slavin, 1986 |
-> | **元[[Ethnography\|民族志]]** | 总结和综合来自民族志和解释性质性研究的证据 | — |
-> | **主题分析** | 基于主题的综合 | — |
-> | **[[Grounded Theory\|扎根理论]]** | 使用扎根理论方法综合 | — |
-> | **元研究** | 对研究的研究进行综合 | — |
-> | **实在论综合** | 关注干预"为什么有效、对谁有效、在什么条件下有效" | — |
-> | **质性数据分析技术** | 基于 Miles & Huberman（1984）的跨案例和案例内分析 | — |
-> | **[[Content Analysis\|内容分析]]** | 对研究内容的系统分析 | — |
-> | **案例调查** | 对多个[[Case Study\|案例研究]]的调查综合 | — |
-> | **质性比较分析** | 跨案例的质性比较 | — |
-
-关于定性研究综合的进一步介绍，教材指引读者参阅 Howell Major & Savin-Baden（2010）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, p.385]]）。
+> | **传统叙事综述与总结** | 由领域专家对代表性文献开展叙述性陈述，主观裁量度高 | 传统[[Literature Review\|文献综述]][[Paradigm\|范式]] |
+> | **投票计数综述** | 统计统计显著为正、无显著效应与显著为负的研究篇数，无法反映效应量大小 | Davies, 2000, p. 367 |
+> | **[[Best Evidence Synthesis\|最佳证据综合]]** | 设定明确的方法学阈值，仅从最高质量的一小批实证研究中综合证据 | Slavin, 1986 |
+> | **元[[Ethnography\|民族志]]** | 针对人类学与解释性质性[[Fieldwork\|田野研究]]开展相互[[Transfer Translation Transformation\|转译]]与概念综合 | Noblit & Hare, 1988 |
+> | **[[Thematic Synthesis\|主题综合法]]** | 提取质性研究中的初级发现，归纳并建构二阶与三阶描述性及分析性主题 | Thomas & Harden, 2008 |
+> | **[[Framework Synthesis\|框架综合法]]** | 依据预设的先验政策或理论框架，将质性与混合实证文献结构化映射分类 | Carroll et al., 2011 |
+> | **[[Grounded Theory\|扎根理论综合]]** | 跨越多个原始案例应用质性扎根理论的开放与[[Axial Coding\|轴心编码]]生成全新实体理论 | Howell Major & Savin-Baden, 2010 |
+> | **实在论综合（Realist Synthesis）** | 聚焦于“情境—机制—结果”（CMO）构型，探究复杂干预在特定土壤下的因果链条 | Pawson, 2006 |
+> | **[[Content Analysis\|内容分析综合]]** | 对文本资料中的概念频次、命题结构与政策话语进行显性与隐性内容量化分析 | Miles & Huberman, 1984 |
+> | **质性比较分析综合（[[Qualitative Content Analysis\|QCA]]）** | 运用布尔代数与集合论，探究诱发特定干预结果的多重并发因果条件构型 | Ragin, 2008 |
 
 ---
 
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** [[Positivism|实证主义]]倾向——通过系统、透明、可重复的程序减少研究者主观偏差，追求可累积的证据基础。但同时承认纳入标准的设定和[[Coding in Qualitative Research|编码]]分类涉及研究者的概念判断。
-> - **研究者角色** 中立的证据收集与评估者。团队方法（多个研究者独立筛选和编码）是减少个体偏差的核心手段。
-> - **有效性标准** 方法透明度、可复制性、可更新性；搜索穷尽性；[[Intercoder Agreement|编码者间信度]]（[[Inter-Rater Reliability]]，即[[Reliability|信度]]的一种形式）；纳入研究的质量评估。
-> - **不声称回答的问题** 不能替代一手研究产生新数据；不能直接解决因果方向问题（除非纳入的研究本身已通过[[Randomised Controlled Trials|随机对照试验]]等方法建立了[[Causality|因果关系]]）；结论的[[External Validity|可推广性]]受纳入研究的范围和质量的限制。
+> - **知识观** [[Positivism|实证主义]]（Positivism）与[[Postpositivism|后实证主义]]为主轴，强调知识的可积累性与真理逼近；通过系统化规程消除研究者主观偏倚。但在纳入标准界定、质性概念提炼与情境调节[[Variable|变量]]解释中，亦高度融合[[Critical Realism|批判实在论]]（Critical Realism）与解释主义视角。
+> - **研究者角色** 中立审慎的证据检验员与知识架构师。强制要求双人独立筛选与多研究者团队协同，以制度化消除单一研究者的理论偏见。
+> - **有效性标准** 方法透明度、全流程可审计性与可重复性；检索穷尽性；双人筛选与提取的[[Intercoder Agreement|编码者间信度]]（[[Inter-Rater Reliability]]）；偏倚风险评估（Risk of Bias Assessment）严谨性。
+> - **不声称回答的问题** 不能替代一手实证研究凭空生成初级原始数据；不能依靠综述过程直接修正原始研究内在的设计硬伤；若底层研究缺乏因果识别设计，系统综述绝不能凭空得出强[[Causality|因果推断]]。
+
+> [!contrast-table] 证据生态中的两大系统综述[[Paradigm|范式]]（Gough, Thomas, & Oliver, 2019）
+> | 比较维度 | 聚合型 / 证实型综述（Aggregative / Confirmatory） | 配置型 / 探索型综述（Configurative / Exploratory） |
+> |---|---|---|
+> | **认识论内核** | [[Positivism\|实证主义]]与后实证主义，追求普遍性客观规律 | 解释主义、[[Constructivist Paradigm\|建构主义]]与批判实在论，探索情境生成性机制 |
+> | **[[Central Question\|核心研究问题]]** | “该措施是否有效？”（Does it work?），聚焦干预效应大小 | “为何有效、对谁有效、在何种情境下发生？”（How, why, for whom, context?） |
+> | **核心分析逻辑** | 数据聚合与统计合并，通过元分析测算加权平均[[Effect Size\|效应量]] | 概念配置与理论合成，解构复杂系统的因果链条与中介机制 |
+> | **主要纳入材料** | 同质化强因果实证试验（如[[Randomised Controlled Trials\|随机对照试验]]、断点回归等） | [[Qualitative Interview\|质性访谈]]、[[Ethnography\|民族志]]、过程评估、案例调查与[[Mixed Methods Research\|混合方法研究]] |
+> | **典型输出成果** | 效应量森林图、异质性检验统计量（$I^2$）及发表偏倚漏斗图 | 理论架构图、因果机制链、实施障碍与促进条件矩阵 |
 
 > [!method-stack] 方法层级
-> - **研究设计** 系统综述设计，遵循预设协议——如 [[PRISMA]]（Preferred Reporting Items for Systematic Reviews and Meta-Analyses）、[[EPPI-Centre]] 框架、Cochrane 手册（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.386–397]]）。
-> - **数据收集** 数据库检索（如教育资源信息中心（Education Resources Information Center, ERIC）、SSCI、Scopus）、参考[[Document|文献]]追踪、灰色[[Literature Search|文献搜索]]、专家咨询、手工检索关键期刊。
-> - **分析方法** [[Coding in Qualitative Research|编码]]与主题分析（定性综合）；[[Effect Size|效应量]]汇总（定量[[Meta-analysis|元分析]]）；投票计数；叙事综合；质性比较分析。
-> - **辅助技术** 双重筛选（dual screening）、偏倚风险评估工具、PRISMA 流程图（记录检索→筛选→纳入的流程）、编码者间信度检验。
+> - **研究设计** 遵循国际前沿报告指引——如 [[PRISMA]] 声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses）、[[EPPI-Centre]] 循证综合规程或 Cochrane 协作网方法学手册。
+> - **数据收集** 跨学科学术引文数据库穷尽检索（如 ERIC、Web of Science、Scopus、PsycINFO）、硕博士论文库、专业学会灰色[[Document|文献]]库追踪、手工翻检权威期刊及学者引文回溯。
+> - **分析方法** 质性维度运用主题[[Coding in Qualitative Research|编码]]、框架映射与扎根综合；量化维度运用亚组分析、[[Meta-regression|元回归]]（Meta-regression）与效应量池化；宏观层面开展二阶综合（Reviews of Reviews）。
+> - **辅助技术** 计算机辅助文献去重（如 Covidence、Rayyan）、双人双盲筛选、混合方法质量评估工具（[[Mixed Methods Appraisal Tool|MMAT]]）及偏倚风险评估量表（如 RoB 2、ROBINS-I）。
 
 ---
 
@@ -149,91 +183,105 @@ updated: 2026-09-13
 
 > [!proc] 通用程序
 >
-> > [!step] 步骤一：制定[[Research Question|研究问题]]与纳入标准
-> > 明确界定要回答的[[Research Question|研究问题]]，并预先确定哪些研究符合纳入条件。纳入标准通常涉及研究设计（如是否为[[Randomised Controlled Trials|随机对照试验]]）、参与者特征（如学龄儿童）、干预类型（如语音教学）和结果测量（如阅读理解测试分数）（[[Argument_Higgins_2016_RE|Higgins, 2016, p.32]]）。
+> > [!step] 步骤一：界定[[Research Question|研究问题]]与拟定注册协议（Protocol）
+> > 运用 PICO（人群、干预、对照、产出）或 SPIDER 框架精准界定[[Research Scope|研究边界]]，明确界定纳入与排除标准；在 PROSPERO 或 Open Science Framework（OSF）公开[[Preregistration|预注册]]研究方案，锁定方法学设计以规避事后数据窥探（[[Argument_Higgins_2016_RE|Higgins, 2016, p. 32]]）。
 >
-> > [!step] 步骤二：系统搜索
-> > 使用多种数据库和搜索策略尽可能全面地识别符合条件的研究。搜索策略需要透明记录，以便他人重复。Sipe & Curlette（1997）的[[Meta-meta-analysis|元综合]]从 427 项研究中通过严格纳入标准筛选出 103 项（[[Argument_Higgins_2016_RE|Higgins, 2016, p.43]]）。
+> > [!step] 步骤二：系统与穷尽式[[Literature Search|文献检索]]
+> > 研制布尔逻辑检索式，联合受控词表（MeSH/Thesaurus）与自由文本关键词，横跨多个国际数据库执行全样本检索；严密记录检索时间、语法与命中篇数，补充灰色[[Document|文献]]与未发表报告以遏制[[Publication Bias|发表偏倚]]（[[Argument_Higgins_2016_RE|Higgins, 2016, p. 43]]）。
 >
-> > [!step] 步骤三：筛选与质量评估
-> > 对检索到的[[Document|文献]]进行双重筛选（至少两位研究者独立判断），并评估每项纳入研究的方法论质量。这一步骤直接影响后续[[Meta-analysis|元分析]]的[[Reliability|可靠性]]（[[Argument_Higgins_2016_RE|Higgins, 2016, p.38]]）。
+> > [!step] 步骤三：双人独立筛选与质量风险评估
+> > 至少两位独立评审员基于标题/摘要开展初筛，随后获取全文进行二阶深筛，计算[[Intercoder Agreement|编码一致性]]系数（Cohen's Kappa）；随后运用公认评估工具针对选择偏倚、实施偏倚、测量偏倚与损耗偏倚进行方法学质量评级（[[Argument_Higgins_2016_RE|Higgins, 2016, p. 38]]）。
 >
-> > [!step] 步骤四：数据提取与综合
-> > 从纳入研究中提取相关数据，进行定性综合或定量[[Meta-analysis|元分析]]。提取的[[Variable|变量]]通常包括[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]、[[Effect Size|效应量]]、研究设计和样本特征等。
+> > [!step] 步骤四：结构化数据提取与证据综合
+> > 提取样本特征、干预剂量、控制条件、测量工具及[[Effect Size|效应量]]数据；依据研究问题的[[Epistemology|认识论]]属性，选择开展定量[[Meta-analysis|元分析]]统计合并，或开展[[Thematic Synthesis|质性主题综合]]与实在论机制提炼。
+>
+> > [!step] 步骤五：提炼结论、评估确定性与编制报告
+> > 运用 GRADE 等工具对证据体的整体确定性进行分级降级或升级判定，清晰指出方法学局限，严谨推导政策与实践启示，严格对照 [[PRISMA]] 检查清单撰写规范技术报告。
 
-三个主要操作框架在阶段划分上有差异，但核心逻辑一致：
+> [!contrast-table] 主流系统综述操作框架的阶段对应
+> | 核心任务阶段 | 通用五步程序 | [[EPPI-Centre]] 框架 | Evans & Benefield (2001) | Cooper (2010) 框架 |
+> |---|---|---|---|---|
+> | **设定问题与协议** | 制定问题与预注册 | 综述界定与启动规程 | 明确具体研究问题 | 问题形成（Formulation） |
+> | **穷尽检索文献** | 系统检索与追踪 | 收集并初步描述研究 | 全面穷尽式文献搜索 | 检索文献（Searching） |
+> | **筛选与质量评估** | 双人筛选与质量评定 | 收集后半段与严谨性评价 | 纳入排除与方法学质量评价 | 收集信息与[[Evaluation Research\|评估研究]]质量 |
+> | **数据提取与综合** | 提取数据与定性/定量综合 | 综合评估与使用综述 | 减少偏差策略与综合整合 | 证据整合（Integrating） |
+> | **报告解释与传播** | 确定性评级与规范报告 | [[Research Translation\|知识转译]]与用户共创 | 报告方法学透明度与谨慎建议 | 解释结果与公开发布 |
 
-> [!contrast-table] 操作框架的阶段对应
-> | 核心任务 | 通用程序 | [[EPPI-Centre]] | Evans & Benefield | Cooper |
-> |---------|---------|------------|-------------------|-------|
-> | **设定问题与范围** | 制定问题与纳入标准 | 综述方法 → 启动 | 1 明确研究问题 | 1 形成问题 |
-> | **系统搜索文献** | 系统搜索 | 收集与描述研究（前半） | 2 系统、全面、穷尽搜索 | 2 搜索文献 |
-> | **筛选与质量评估** | 筛选与质量评估 | 收集（后半）→ 评估（前半） | 3 纳入排除标准 + 4 评估方法论质量 | 3 收集信息 + 4 评估质量 |
-> | **综合、报告与传播** | 数据提取与综合 | 评估（后半）→ 使用综述 | 5 减少偏差策略 + 6 方法论透明度 | 5 整合 + 6 解释 + 7 呈现 |
+> [!feature] EPPI-Centre 的系统综述七项核心质量准则
+> 英国伦敦大学学院教育学院 [[EPPI-Centre]] 确立了指导系统综述的七项黄金准则（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp. 386–389]]）：
+> - **明确、严苛与透明的方法学规程** 必须全程系统性贯彻执行
+> - **基于显性标准综合实证研究** 最大限度消除主观挑选性偏倚
+> - **严格遵循标准化操作阶段** 确保科研程序可审计与可追溯
+> - **具备可问责性、可复制性与可动态更新性** 支持未来研究迭代
+> - **对终端决策者具备高度相关性与实践适用性** 打破学术自利藩篱
+> - **精准锚定具体的政策与实践关键问题** 避免大而无当的泛化叙事
+> - **全过程恪守以经验证据为唯一基准** 拒绝未经检验的理论空想
 
-其中 Evans & Benefield 的纳入排除标准最为详尽，明确了数据提取应包括：发表状态、引用细节、语言、关键词、资助来源、研究类型、干预性质、样本特征、研究规划和过程、结果评估，以及研究的描述性数据——资助来源、干预内容、人群与抽样、干预和研究的设计规划（Evans & Benefield, 2001, p. 537）。
-
-EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步骤的**质量标准**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.386–389]]）：
-
-> [!feature] EPPI-Centre 的系统综述七项质量标准
-> - **明确、严格和透明的方法** 必须系统性地应用
-> - **基于明确标准综合研究** 以避免偏差
-> - **遵循标准阶段** 一套既定的操作阶段
-> - **可问责、可复制、可更新**
-> - **对用户具有相关性和实用性**
-> - **旨在回答特定研究问题**
-> - **以证据为基础**
-
-**英国教育研究协会（British Educational Research Association，BERA）** 也发布了系统综述操作指南，涵盖系统综述问题的制定、概念框架与纳入/排除标准，并提供进一步阅读资源（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.392–393]]）。
-
-> [!warning] Davies (2000, p. 373) 的警示
-> Davies 警告研究者确保系统综述不要选择性地使用证据来制造"大多数教育干预的正面效应"的印象——即这些结论可能是综述本身方法论的产物——并确保[[Statistical Significance|统计显著性]]不凌驾于教育显著性之上。这一警示对元分析和研究综合同样适用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.397–398]]）。
+> [!warning] Davies (2000) 警示与二阶综述（Reviews of Reviews）的兴起
+> Davies (2000, p. 373) 深刻警告研究者：切勿通过选择性使用证据来人为制造“大多数教育干预均具备正面效应”的虚假繁荣——这种结论往往纯系综述自身的方法论设定缺陷所致；同时绝不能让[[Statistical Significance|统计显著性]]凌驾于教育实践意义之上（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp. 397–398]]）。
+> 
+> 在现代证据生态中，随着初级系统综述的大量积淀，以英国[[Education Endowment Foundation|教育捐赠基金会]]（[[EEF Teaching and Learning Toolkit]]）为代表的循证中介机构广泛开启了**二阶系统综述（Reviews of Reviews / Umbrella Reviews / [[Meta-meta-analysis|元-元分析]]）** 不再直接抓取初级试验，而是对领域内已有的系统综述与元分析开展再综合，从而在宏观政策层面提炼出通用教学策略的综合效应（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, pp. 149–151]]）。
 
 ---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 当某一研究领域已积累大量原始研究，需要结构化地识别和总结证据时；当需要为[[Meta-analysis|元分析]]提供可重复的输入时；当政策或实践决策需要基于尽可能全面的证据而非选择性引用时。[[EEF Teaching and Learning Toolkit]] 的编制就依赖系统综述来识别各领域的元分析证据（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
-> - **谨慎使用** 当研究领域内研究[[Heterogeneity|异质性]]极高、测量工具和研究设计差异过大时——纳入标准可能难以在全面性和可比性之间取得平衡；当原始研究普遍存在方法论缺陷时——系统综述的质量取决于底层研究的质量。
-> - **不适合使用** 当研究领域[[Document|文献]]量极小（如新兴领域只有寥寥数篇研究）——不足以构成"系统综述"的必要规模；当需要产生新数据或探索全新[[Hypothesis|假设]]时——系统综述只能综合已有证据，不能替代一手研究。
+> - **高度适合使用** 
+>   - 当某一实证研究领域历经多年发展积累了海量[[Primary and Secondary Documents|原始文献]]，实证结论出现严重分歧甚至矛盾，亟需厘清全局证据图谱时；
+>   - 当政府或专业组织需要研制高利害循证临床指南、政策白皮书或证据工具包，必须依靠穷尽透明的[[Chain of Evidence|证据链]]条防范决策失误时；
+>   - 英国[[Education Endowment Foundation|教育捐赠基金会]]（[[EEF Teaching and Learning Toolkit|EEF Toolkit]]）编制全部 30 余项通用干预策略时，强制要求以系统综述作为底层知识输入（[[Argument_Higgins_2016_RE|Higgins, 2016, p. 47]]；[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, p. 154]]）。
+> - **审慎有限使用** 
+>   - 当纳入实证研究的情境[[Heterogeneity|异质性]]极高（如跨越发展中国家乡村与发达国家精英私立学校），盲目进行统计[[Effect Size|效应量]]合并会抹杀关键机制[[Variable|变量]]；
+>   - 当原始研究普遍存在设计缺陷或方法学信息披露严重残缺时——系统综述无法无中生有修复底层[[Document|文献]]的硬伤。
+> - **坚决不宜使用** 
+>   - 新兴前沿探索性领域，全球仅有寥寥数篇[[Case Study|个案研究]]，根本不具备开展系统综述所需的实证文献体量；
+>   - 研究宗旨在于生成全新微观田野洞见或建构纯思辨哲学理论体系，而非综合已有经验证据时。
 
 ---
 
-## 局限性
+## 局限性与国际标准塌陷
 
-> [!method-limits] 方法局限
-> - **偏误来源** 搜索策略的完整性直接影响结论的[[Reliability|可靠性]]——即使系统搜索也可能遗漏未发表的研究，导致[[Publication Bias|发表偏倚]]（[[Argument_Higgins_2016_RE|Higgins, 2016, p.35]]）。纳入标准的设定涉及主观判断——标准过严可能排除有价值的数据，标准过宽可能引入低质量研究。Eysenck 的"垃圾进，垃圾出"批评和 Glass 的回应反映了这一两难（[[Argument_Higgins_2016_RE|Higgins, 2016, p.38]]）。
-> - **适用边界** 系统综述的质量取决于底层研究的质量。即使搜索和筛选过程完全透明，如果原始研究本身存在设计缺陷或报告偏差，综述结论仍可能误导。
-> - **误用风险** 选择性使用证据以制造"正面效应"印象（见上文 Davies 警示）；将[[Statistical Significance|统计显著性]]凌驾于教育显著性之上；未经充分[[Evaluation Research|评估研究]]质量即纳入综合。
-> - **补救方式** 使用未发表研究和灰色[[Document|文献]]补充数据库检索；采用双重筛选和[[Intercoder Agreement|编码者间信度]]检验；使用偏倚风险评估工具；遵循 [[PRISMA]] 或 [[EPPI-Centre]] 等标准化报告框架。
+> [!method-limits] 方法局限与治理隐患
+> - **偏误来源与“垃圾进，垃圾出”困境** 检索策略漏检未公开发表成果将直接引发严重的[[Publication Bias|发表偏倚]]；纳入标准过严会导致有价值的[[Ecological Validity|生态效度]]研究被机械剔除，标准过宽则引入低质量研究污染证据体。Eysenck 针对[[Meta-analysis|元分析]]提出的“垃圾进，垃圾出”（Garbage in, garbage out）批评对系统综述同样构成终极挑战（[[Argument_Higgins_2016_RE|Higgins, 2016, pp. 35, 38]]）。
+> - **网络证据门户的“系统性标准塌陷”（Gough & White, 2018; [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022]]）**
+>   [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022, pp. 154–155)]]与 Gough & White (2018) 对全球 15 个代表性网络证据门户的方法学调查揭示了惊人的实证事实：**仅有 40.0%（6 个）证据门户严格遵循系统综述标准**！其余 60% 均不同程度地退化为单兵研究评定：
+>   - **打包方案类门户的全面塌陷（0% 综述率）** 面向具体商业干预方案（Packaged Programmes）的 5 个门户（如 [[Social Programs That Work]]）**完全未要求系统综述（0%）**，而是 100% 仅凭 1–2 项单兵试验（如 1–2 项高质量 [[Randomised Controlled Trials|RCT]]）就直接定性方案“有效”并授予顶级证据等级。这种做法存在极高的挑选性偏倚风险，完全掩盖了同一干预在其他情境中可能存在的零效应或负效应；
+>   - **通用策略类门户的严谨坚守（100% 综述率）** 聚焦通用策略（Broad Approaches）的 6 个门户（包括英国 [[EEF Teaching and Learning Toolkit|EEF Toolkit]]、[[Early Intervention Foundation|EIF]] Guidebook、College of Policing、CHI、福祉中心以及 Cochrane 图书馆）**100% 严格依托系统综述**与元分析，系统规避了商业机构操纵单兵研究垄断公办采购的弊端。
+> - **临床医学标准（Cochrane / GRADE）的跨学科移植张力** 系统综述发轫于封闭可控的循证医学领域；然而当其偏倚评估与 GRADE 分级体系被机械移植至教育与复杂社会政策领域时，往往导致过度推崇封闭环境下的人工干[[Pilot Testing|预实验]]，而系统性惩罚和贬低具备高度生态效度的复杂[[Qualitative Research|质性研究]]与过程评估，诱发严重的方法学削足适履（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, p. 154]]）。
 
 ---
 
 ## 相关理论与方法
 
 > [!entry-map]
->
+> 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Meta-analysis]] | 后续方法 | 系统综述识别和筛选研究后，元分析对[[Effect Size\|效应量]]进行统计综合；系统综述是元分析的前置步骤，但也可独立使用 |
-> | [[Meta-meta-analysis]] | 扩展方法 | 对多项元分析进行再综合，是系统综述在更高层级的应用 |
-> | [[Coding in Qualitative Research]] | 分析技术 | 系统综述中纳入研究的特征编码（如研究设计、样本、效应量）依赖编码技术 |
-> | [[Randomised Controlled Trials]] | 主要输入 | 系统综述（尤其是[[Evidence-Based Education\|循证教育]]中的系统综述）最常纳入的研究类型 |
-> | [[Qualitative Research]] | 输入类型 | 系统综述可综合质性研究，使用元民族志、主题分析等方法 |
-> | [[Quantitative Research]] | 输入类型 | 系统综述最常综合的研究类型，提供效应量等可量化指标 |
-> | [[Grounded Theory]] | 综合方法 | 作为研究综合的一种质性方法，可用于对多项研究进行扎根理论综合 |
-> | [[Ethnography]] | 综合对象 | 元民族志（meta-ethnography）专门综合民族志和解释性质性研究 |
-> | [[Critical Review]] | 互补方法 | 批判性综述常借鉴系统综述的检索与筛选协议，但侧重于对概念框架与理论[[Hypothesis\|假设]]的深度解构与概念创新 |
+> | [[Meta-analysis]] | 后续量化方法 | 系统综述通过系统检索与质量筛选为元分析提供规范输入，元分析对[[Effect Size\|效应量]]进行统计合并。 |
+> | [[Meta-meta-analysis]] | 宏观扩展方法 | 对特定领域多项系统综述与元分析开展再综合的二阶方法，是宏观证据门户的核心基石。 |
+> | [[Randomised Controlled Trials]] | 主要初级输入 | 证实型系统综述在评估因果效力时最核心的黄金标准实证研究输入。 |
+> | [[Qualitative Research]] | 质性初级输入 | 配置型系统综述用于解构干预机制、情境脉络与实施障碍的核心证据来源。 |
+> | [[Mixed Methods Research]] | 混合初级输入 | 结合量化干预效应与质性过程评估的复杂初级研究，需运用 [[Mixed Methods Appraisal Tool\|MMAT]] 工具进行质量评定。 |
+> | [[Framework Synthesis]] | 质性综合技术 | 配置型系统综述中依据预设政策或理论框架对多源实证发现进行矩阵映射的方法。 |
+> | [[Thematic Synthesis]] | 质性综合技术 | 配置型系统综述中提取多项质性研究发现并归纳生成高级分析性主题的经典方法。 |
+> | [[Critical Review]] | 互补综述方法 | 借鉴系统综述的规范检索，但侧重对核心概念假定、理论张力与[[Epistemology\|认识论]]基础进行深度解构。 |
+> | [[Evidence Standards]] | Concept | 系统综述构成了现代循证体系中判定干预措施证据等级的最核心方法学基准。 |
+> | [[Evidence Ecosystem]] | Concept | 系统综述处于证据生态的“证据综合”（Synthesis）枢纽环节，连接[[Knowledge Production\|知识生产]]与一线使用。 |
+> | [[Educational Brokerage Agency]] | Concept | [[Knowledge Mediation\|知识中介]]机构的核心职能即为委托、生产与[[Transfer Translation Transformation\|转译]]高质量教育系统综述成果。 |
+> | [[EEF Teaching and Learning Toolkit]] | Fact (Policy) | 国际公认严格依托系统综述与二阶综述构建通用策略证据分级矩阵的典范门户。 |
+> | [[What Works Network]] | Fact (Organization) | 英国国家有效性网络，旗下绝大多数中心将系统综述确立为指导公共支出的知识基底。 |
 
 ---
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Higgins_2016_RE|Higgins (2016)]]** 系统综述的方法论教材，涵盖[[Research Question|研究问题]]制定、纳入标准、系统搜索、质量评估和数据综合的完整操作框架。
-> - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 按照 [[PRISMA]] 框架从 SSCI and Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
-> - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统介绍了系统综述与研究综合的定义、类型、操作标准（[[EPPI-Centre]]、BERA、Evans & Benefield、Cooper 等框架）与方法论警示。
-> - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，在 Scopus、Web of Science 与 ERIC 三库系统检索，双盲两阶段筛选后纳入 109 项学校[[Research Utilization|研究使用]]实证研究，用[[Mixed Methods Appraisal Tool|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT）评估质量并采用[[Framework Synthesis|框架综合]]进行证据整合。
-> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 结合系统综述的检索与筛选流程及[[Critical Review|批判性综述]]方法，对 34 篇关于教育中[[Research Utilization|研究使用]]的[[Document|文献]]进行全文本解构，提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]理论。
-> - **[[Argument_Li_2026_CEAI|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段[[Thematic Synthesis|主题综合法]]，系统解构 ChatGPT 在高等教育中对批判性与[[Creativity|创造性思维]]的赋能机制与风险模式。
+> - **[[Argument_Higgins_2016_RE|Higgins (2016)]]** 系统综述的方法论权威教材，详述[[Research Question|研究问题]]制定、纳入排除、穷尽检索、偏倚风险评估与数据综合的完整操作规范。
+> - **[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]]** 调查全球 15 个代表性证据门户对系统综述标准的采纳率（Table 7.1），解构聚合型与配置型系统综述在国家[[What Works Network|有效性网络]]与证据生态中的[[Epistemology|认识论]]定位与标准塌陷风险。
+> - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 遵循 [[PRISMA]] 框架从 SSCI 与 Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析探讨 PISA 对全球基础教育改革的影响。
+> - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统阐述系统综述与研究综合的定义、类型、[[EPPI-Centre]] 七项质量准则与方法学警示。
+> - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，三库系统检索并双盲两阶段筛选 109 项学校[[Research Utilization|研究使用]]实证研究，运用 [[Mixed Methods Appraisal Tool|MMAT]] 工具评估质量并采用[[Framework Synthesis|框架综合]]法进行证据整合。
+> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 结合系统综述的检索与筛选规程及[[Critical Review|批判性综述]]方法，解构 34 篇[[Document|文献]]并提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]理论。
+> - **[[Argument_Li_2026_CEAI|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段[[Thematic Synthesis|主题综合法]]，系统解构 ChatGPT 在高等教育中对批判性与[[Creativity|创造性思维]]的促进机制与风险模式。
+> - **[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]]** 在 [[OECD]] 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域相关文献开展跨行业系统综述与叙事综合，跨界界定证据使用质量（Quality of Evidence Use）并奠定 [[Quality Use of Research Evidence Framework|QURE]] 框架的先验理论基础。

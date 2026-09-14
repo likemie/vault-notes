@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
 - rct
 - region/us
 related_concepts:
+  - "[[Evidence Standards]]"
   - "[[Logic Model]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
@@ -46,12 +47,12 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-23'
+updated: 2026-09-13
 ---
 ## 概述
 
 > [!info] 概述
-> The **Every Student Succeeds Act (ESSA)** 于 2015 年 12 月由奥巴马总统签署成为法律，取代了 2001 年的 [[No Child Left Behind Act 2001|No Child Left Behind Act]] ([[No Child Left Behind Act 2001|NCLB]])，作为美国联邦教育的主法。ESSA 在联邦法律中定义了教育项目的证据层级，并将部分联邦拨款与使用达到证据标准的项目绑定。
+> The **Every Student Succeeds Act (ESSA)** 于 2015 年 12 月由奥巴马总统签署成为法律，取代了 2001 年的 [[No Child Left Behind Act 2001|No Child Left Behind Act]] ([[No Child Left Behind Act 2001|NCLB]])，作为美国联邦教育的主法。ESSA 在联邦法律中定义了教育项目的证据层级，并将部分联邦拨款与使用达到[[Evidence Standards|证据标准]]的项目绑定。
 >
 > > ESSA requires that low-achieving schools seeking school improvement grants adopt programs that meet one of the three definitions. ([[Argument_Slavin_2019_EP|Slavin, 2019, p. 3]])
 
@@ -83,7 +84,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 ## 激励机制
 
 > [!abstract] 激励机制
-> ESSA 对证据标准设有具体的财政激励机制([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])：
+> ESSA 对[[Evidence Standards|证据标准]]设有具体的财政激励机制([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])：
 >
 > 1. **学校改进拨款（School Improvement Grants）** 低成就学校寻求学校改进资金**必须**选择至少有一项严格研究显示统计显著正向效果（且无研究显示负面效果）的项目
 > 2. **竞争性偏好分（Competitive Preference Points）** 在学校改进之外的部分联邦拨款项目中，申请人如果提议使用达到 ESSA 证据标准的项目可获得加分

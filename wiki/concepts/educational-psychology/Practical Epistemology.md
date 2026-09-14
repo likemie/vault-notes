@@ -4,16 +4,17 @@ aliases: [实践认识论]
 summary: "学生在探究过程中实际应用于自身科学知识建构的认识论观念。"
 type: concept
 domain: "educational-psychology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [theme/epistemology, theme/inquiry, paradigm/constructivism]
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Formal Epistemology]]"
-  - "[[Epistemological Beliefs]]"
   - "[[Knowledge Production]]"
+  - "[[Formal Epistemology]]"
+  - "[[Evidence Standards]]"
+  - "[[Epistemological Beliefs]]"
   - "[[Epistemic Resources]]"
   - "[[Ontology]]"
 related_theories: []
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-13
 ---
 
 # Practical Epistemology
@@ -38,11 +39,11 @@ updated: 2026-08-19
 ## 定义
 
 > [!def] 核心定义
-> 实践[[Epistemology|认识论]]（Practical Epistemology）指学生在学校科学探究过程中，实际应用于自身科学知识建构的认识论观念。这些观念指导着他们在探究中作出的认识论决策，例如如何获取数据、如何根据证据评估主张等。实践认识论与学生对专业科学表达的[[Formal Epistemology|形式认识论]]（Formal Epistemology）不同，它更多是在实践中隐含并发挥作用的。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 635)]]
+> 实践[[Epistemology|认识论]]（Practical Epistemology）指学生在学校科学探究过程中，实际应用于自身科学[[Knowledge Production|知识建构]]的认识论观念。这些观念指导着他们在探究中作出的认识论决策，例如如何获取数据、如何根据证据评估主张等。实践认识论与学生对专业科学表达的[[Formal Epistemology|形式认识论]]（Formal Epistemology）不同，它更多是在实践中隐含并发挥作用的。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 635)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生在自己进行科学探究（如实验设计、数据收集、论证构建）时所持有的关于知识生成和评估的观念。
-> - **用途** 帮助研究者和教育者理解为什么学生在探究实践中表现出的认知策略（如系统性、证据标准）往往与他们在传统调查中表达的[[Epistemological Beliefs|认识论信念]]不一致。
+> - **用途** 帮助研究者和教育者理解为什么学生在探究实践中表现出的认知策略（如系统性、[[Evidence Standards|证据标准]]）往往与他们在传统调查中表达的[[Epistemological Beliefs|认识论信念]]不一致。
 > - **边界** 区别于一般的学习信念（beliefs about learning），它专门关注知识的认识论维度；也不同于关注遥远专业科学的形式认识论。
 
 > [!boundary]- 概念边界
@@ -70,7 +71,7 @@ updated: 2026-08-19
 > > 争论焦点在于：指导学生探究行为的[[Epistemology|认识论]]，到底是一种宏观的概念框架，还是碎片化的认知资源？
 > >
 > > - **Driver et al. (1996)** 认为学生的认识论表现为相对稳定的连贯框架。他们根据学生在具体探究中的推理，提出了三种递进的图景：现象驱动（认为实验只是让事情发生）、关系驱动（认为理论直接由证据推导）和模型驱动（认识到科学包含连贯理论且关系复杂）。学生需要发生概念转变才能升级。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
-> > - **Hammer and Elby (2002)** 主张认识论观念更像是一堆松散的细粒度认知资源（如“知识是实体的”或“知识是累积的”）。这些资源会在特定情境中被独立触发。这解释了为什么学生在不同任务下（例如在 BGuILE 项目中解决具体问题 vs. 填写 [[Views of Nature of Science Questionnaire|VNOS]] [[Questionnaire|问卷]]）的表现极不稳定。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
+> > - **Hammer & Elby (2002)** 主张认识论观念更像是一堆松散的细粒度认知资源（如“知识是实体的”或“知识是累积的”）。这些资源会在特定情境中被独立触发。这解释了为什么学生在不同任务下（例如在 BGuILE 项目中解决具体问题 vs. 填写 [[Views of Nature of Science Questionnaire|VNOS]] [[Questionnaire|问卷]]）的表现极不稳定。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
 
 > [!implication]- 对教学的启示：建立显式反思
 > 仅仅让学生“做”高水平的探究，并不能自动将其高级的“实践认识论”转化为对专业科学的“[[Formal Epistemology|形式认识论]]”。研究（如 Smith et al., 2000）表明，要弥合这二者的脱节，教师必须在日常的探究教学中持续进行**显式的认识论反思（explicit epistemological reflection）**，帮助学生将他们自己的隐性决策与专业科学家的[[Knowledge Production|知识生产]]过程等同起来。

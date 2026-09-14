@@ -44,6 +44,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Corporate Education]]"
   - "[[Causality]]"
+  - "[[Policy Brokerage]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Fixity-Motion Tension]]"
@@ -53,7 +54,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
-  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -169,7 +169,7 @@ updated: 2026-06-30
 >   在英语世界人文地理学和政治地理学中形成。核心推动力来自人文和文化研究中的空间转向（spatial turn）——空间不再被视为天然预设之物，而被理解为通过社会空间关系网络被持续建构的过程（Thompson & Parreira do Amaral, 2022, p. 10）。
 >
 > - **2009–2019 — 关键文本与系统化**
->   Sharp (2009) 强调地缘政治知识本身的意识形态建构性——地缘政治不是对世界的客观描述，而是通过特定视角和话语实践"生产"世界的政治行为。Dodds (2019) 提供了系统的教科书框架，强调地缘政治关系是"浸透了社会和文化意义"的建构物，将分析焦点从国家精英的话语扩展到"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"（Dodds, 2019, p. 36, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p. 91]]）。Kuus (2017) 提出"空间性不限于领土性"的核心命题，将地缘政治分析从领土框架扩展至关系性和[[Snowball Sampling|网络化]]空间。
+>   Sharp (2009) 强调地缘政治知识本身的意识形态建构性——地缘政治不是对世界的客观描述，而是通过特定视角和话语实践"生产"世界的政治行为。Dodds (2019) 提供了系统的教科书框架，强调地缘政治关系是"浸透了社会和文化意义"的建构物，将分析焦点从国家精英的话语扩展到"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"（Dodds, 2019, p. 36, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p. 91]]）。Kuus (2017) 提出"空间性不限于领土性"的核心命题，将地缘政治分析从领土框架扩展至关系性和网络化空间。
 >
 > - **2020s — 被引入高等教育研究**
 >   [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]将批判地缘政治用作分析[[Internationalization of Higher Education|高等教育国际化]]和亚洲崛起的核心透镜；[[Argument_Moisio_2022_Springer|Moisio (2022)]]将其整合进对[[Knowledge-Based Economization|知识经济化]]的分析；[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]]将其与[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]整合为"新[[Geopolitics of Knowledge|知识地缘政治]]"[[Analytic Framework|分析框架]]；[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]将其延伸至[[Corporate Education|企业教育]]的跨国化分析。
@@ -193,7 +193,7 @@ updated: 2026-06-30
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理该理论在高等教育研究中的应用与演进
 
 > [!exegesis]- [[Argument_Moisio_2022_Springer|Moisio (2022)]]：[[Knowledge-Based Economization|知识经济化]]的地缘政治机制
-> [[Fixity-Motion Tension|固着-流动张力]]（Harvey 的核心悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置）；[[Spatial Sortings|空间分选]]（知识经济化将某些地点和人群置于发展中心，同时边缘化其他，国家通过空间选择性政策中介）；[[Geopolitical Subject|地缘政治主体]]的生产（高等教育空间被用于塑造创新性、创业性、连接性的主体性）；以及 Porter 悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–31)]]
+> [[Fixity-Motion Tension|固着-流动张力]]（Harvey 的核心悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置）；[[Spatial Sortings|空间分选]]（知识经济化将某些地点和人群置于发展中心，同时边缘化其他，国家通过空间选择性[[Policy Brokerage|政策中介]]）；[[Geopolitical Subject|地缘政治主体]]的生产（高等教育空间被用于塑造创新性、创业性、连接性的主体性）；以及 Porter 悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–31)]]
 
 > [!exegesis]- [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]：地缘政治与地缘经济边界的模糊
 > Luttwak (1990) 提出"地缘经济"概念——国家通过经济竞争而非军事征服争夺市场份额；Moisio (2018) 论证两者边界正在模糊。多数[[Corporate Education|企业教育]]提供商总部位于美国（全球前十高科技上市公司中八家位于美国），美国 LME 制度环境赋予美国公司先发优势。Hartmann 坦承无法确定[[Causality|因果关系]]——是美国政府利用跨国公司强化地缘政治地位，还是美国公司利用美国政府扩大市场份额？这种"谁在利用谁"的模糊性本身即是批判地缘政治核心主张的经验印证（pp. 193–196）。

@@ -7,7 +7,7 @@ aliases:
 summary: "指专业新闻从业者面向公众开展的针对科学探索、科研产出及其社会伦理影响的独立调查、诠释与报道实践；在媒介生态重构冲击下，正经历从传统专职记者主导向数字社交平台多元分发的深刻转型，面临高校通稿过度营销、商业点击率驱动与科研诚信标准对接等核心挑战。"
 type: concept
 domain: "science-communication"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - theme/research-integrity
 related_concepts:
   - "[[Reliability]]"
+  - "[[Knowledge Mediation]]"
   - "[[Public Engagement with Science]]"
   - "[[Citizen Science]]"
   - "[[Dialogue in Education]]"
@@ -41,6 +42,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
+  - "[[Weight of Evidence Framework]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -51,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Science Journalism
@@ -64,7 +66,7 @@ updated: 2026-09-11
 > **科学新闻（Science Journalism）** 指专业新闻从业者及专业媒体机构面向大众公共领域，运用新闻学规范与批判性调查方法，对自然科学、工程技术与医学健康领域的科研进展、证据争议、方法局限及其政策与伦理影响所开展的独立采写、事实核查与情境化诠释实践。其根本功能在于穿透学术黑箱与术语壁垒，向公众提供兼具可读性与可[[Reliability|信度]]的科学事实，维系民主社会理性协商的证据基石。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 56–58)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向连接高度专业化科学共同体与多元大众公共领域的制度性知识中介与监督机制。
+> - **含义** 指向连接高度专业化科学共同体与多元大众公共领域的制度性[[Knowledge Mediation|知识中介]]与监督机制。
 > - **用途** 帮助研究者分析科学证据在大众媒介中的转化损耗、算法传播生态对公共理解的重构，以及媒体经济危机对科学公信力的系统性侵蚀。
 > - **边界** 不等于单向宣传科研成果的高校公关通稿，亦不同于追求商业变现与流量裂变的自媒体科普网红。
 
@@ -196,7 +198,7 @@ updated: 2026-09-11
 > > 传统新闻学奉行的“正反双方面平衡报道”原则，在涉及气候变化、疫苗安全性等议题时，是否会错误放大边缘伪科学群体的声音，造成共识伪分裂？
 > >
 > > - **传统新闻规范（Balanced Reporting）** 主张即使面对压倒性共识，记者仍应给予异议群体充分表达空间，防范科学霸权对潜在异端创新的压制。
-> > - **现代科学传播界（Weighted Coverage）** 坚持科学报道的平衡应当基于“证据权重（Weight of Evidence）”而非“版面空间均分”，坚决抵制赋予阴谋论者虚假平衡。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 58)]]
+> > - **现代科学传播界（Weighted Coverage）** 坚持科学报道的平衡应当基于“证据权重（[[Weight of Evidence Framework|Weight of Evidence]]）”而非“版面空间均分”，坚决抵制赋予阴谋论者虚假平衡。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 58)]]
 >
 > > [!axis] 商业注意力竞争 vs 证据严谨性坚守
 > > 在数字广告与平台算法主导的媒体环境下，科学新闻能否既保持不夸大、不迎合点击率的严肃性，又赢得年轻受众？

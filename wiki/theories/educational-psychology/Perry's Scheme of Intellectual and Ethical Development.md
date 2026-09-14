@@ -9,7 +9,7 @@ aliases:
 summary: "William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Evidence Standards]]"
   - "[[General Education]]"
   - "[[Growth]]"
   - "[[Heterogeneity]]"
@@ -58,7 +59,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-13
-updated: 2026-08-20
+updated: 2026-09-13
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
@@ -168,7 +169,7 @@ updated: 2026-08-20
 
 > [!theory-stance] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology|本体论]]** 知识不是独立于人类的静态实体，而是由认知者与客观世界交互建构的意义网络；个体的[[Epistemology|认识论]]结构随认知发展由简单向复杂演化。
-> - **认识论** 强调[[Constructivist Paradigm|建构主义]]与情境认识论，主张真理的证成依赖于具体学科共同体的证据标准与论证规则。
+> - **认识论** 强调[[Constructivist Paradigm|建构主义]]与情境认识论，主张真理的证成依赖于具体学科共同体的[[Evidence Standards|证据标准]]与论证规则。
 > - **方法含义** 佩里开创了以非结构化长访谈（Qualitative Open Interviews）为核心的[[Qualitative Research|质性研究]][[Paradigm|范式]]，主张通过个体的“意义解释模式”而非孤立的自陈量表题目来推断其认知层级。
 > - **不能直接推出的东西** 佩里图式不能直接等同于学生的通用智力测验分数，高阶位置并不必然意味着高学业分数，且高阶段更偏向伦理成熟度而非纯学术能力。
 

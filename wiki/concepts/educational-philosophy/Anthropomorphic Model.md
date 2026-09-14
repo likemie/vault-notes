@@ -10,7 +10,7 @@ aliases:
 summary: "哈雷与塞科德在“人的科学”运动中提出的方法论模型，主张“为了科学的目的把人当作真正的人类对待”，赋予行动者能动性、意向性监控与生活叙事能力，以事件分析法取代行为主义机械模型。"
 type: concept
 domain: "educational-philosophy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Social Episodes]]"
   - "[[Decodification]]"
+  - "[[Teaching Assistant]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Variable]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Anthropomorphic Model
@@ -71,7 +72,7 @@ updated: 2026-09-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向社会科学研究中将行动者还原为拥有完整人格、反思理智与能动意志的真实人类，而非外界刺激的被动反应器。
-> - **用途** 帮助教育研究者跳出量化实验与机械行为[[Coding in Qualitative Research|编码]]的狭隘视域，在复杂的师生互动与课堂生态中捕捉潜藏在语言背后的共享默会理解。
+> - **用途** 帮[[Teaching Assistant|助教]]育研究者跳出量化实验与机械行为[[Coding in Qualitative Research|编码]]的狭隘视域，在复杂的师生互动与课堂生态中捕捉潜藏在语言背后的共享默会理解。
 > - **边界** 拟人化模型不否认生理本能与外部环境的约束，但坚决拒绝将人类社会行动简单降维为无意义的生理驱力或物理机械轨迹。
 
 > [!citation-card] 哈雷与塞科德论拟人化模型与真正人类的科学对待

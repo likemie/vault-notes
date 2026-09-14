@@ -16,7 +16,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 30
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Global Education Governing Complex]]"
 related_theories: []
 related_methods:
-  - "[[Snowball Sampling]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Norberto Bottani]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-12
+updated: 2026-09-14
 ---
 
 # International Indicators of Education Systems
@@ -94,7 +93,7 @@ updated: 2026-09-12
 > [!policy-design]- 方案设计
 > - **项目目标** 收集、加工、改进与发布教育及相关领域的国际统计指标（Bottani, 1996, p. 279），为成员国决策者提供如同汽车仪表盘般直观的宏观预警信号。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 8)]]
 > - **覆盖对象** 国家与地方教育系统的全域要素，涵盖早期幼教、K-12 基础教育、职业教育与高等教育。
-> - **[[Snowball Sampling|网络化]]组织形态（Networks）** 采取扁平化的“志愿网络群”架构：
+> - **网络化组织形态（Networks）** 采取扁平化的“志愿网络群”架构：
 >   - Network A：学生学业产出与认知成就测量（由美国牵头主导）；
 >   - Network B：教育与劳动力市场结果（由瑞典牵头主导）；
 >   - Network C：学校组织、教学环境与师资资源（由荷兰与英国牵头主导）；

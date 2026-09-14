@@ -7,7 +7,7 @@ summary: "一种不解释干预如何、为何以及在何种条件下有效的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
+  - "[[Social-Emotional Learning]]"
   - "[[Unit of Analysis]]"
   - "[[Publication Bias]]"
 related_theories: []
@@ -36,6 +37,7 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Institute of Education Sciences]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Peterson_2016_IJRME]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-09-14
 ---
 
 ## 定义
@@ -78,7 +80,7 @@ updated: '2026-05-18'
 >
 > 在美国，超过 90% 的教育干预有效性试验未显示影响（C4E, 2013）——约为医学二期[[Clinical Trial|临床试验]]成功率的一半（Kane, 2015）。这指示零效果的关键来源是：**当干预被移出初始情境时，实施不完整或不准确([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302]])**。
 >
-> 虽然 [[Education Endowment Foundation|EEF]] 和 IES 正在开发改进的实施过程评估（IPE）方案（Dhillon, Darrow, & Meyers, 2015; Lendrum & Humphrey, 2012），但这显著提高了每次试验的成本，且由于对干预的"关键成分"或实施的[[Necessary and Sufficient Conditions|必要条件]]通常缺乏了解，IPE 方案的制定本身极具挑战性（Darrow & Goodson, forthcoming）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 302]])
+> 虽然 [[Education Endowment Foundation|EEF]] 和 [[Institute of Education Sciences|IES]] 正在开发改进的实施过程评估（IPE）方案（Dhillon, Darrow, & Meyers, 2015; Lendrum & Humphrey, 2012），但这显著提高了每次试验的成本，且由于对干预的"关键成分"或实施的[[Necessary and Sufficient Conditions|必要条件]]通常缺乏了解，IPE 方案的制定本身极具挑战性（Darrow & Goodson, forthcoming）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 302]])
 >
 > **3. 低采纳率**
 >
@@ -90,7 +92,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 黑箱 RCT 的机制性根源：从医学到教育的[[Paradigm|范式]]错配
-> > "While this paradigm might suit a small range of educational intervention types, such as computer software or boxed social and emotional learning curricula, it applies only to a narrow portion of potentially helpful educational practices." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 301, citing Howe, 2004, p. 45]])
+> > "While this paradigm might suit a small range of educational intervention types, such as computer software or boxed [[Social-Emotional Learning|Social and Emotional Learning]] curricula, it applies only to a narrow portion of potentially helpful educational practices." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 301, citing Howe, 2004, p. 45]])
 >
 > 医学 RCT 建立在大量先期理论工作之上——"医学治疗是多年理论检验的体现"（Pawson, 2006, p. 47）。而教育 RCT"通常被期望提供'治疗'的全部科学知识基础"（Hammersley, 2015, p. 4）——黑箱 RCT 在教育中运行在一个远未充分理论化的领域。
 

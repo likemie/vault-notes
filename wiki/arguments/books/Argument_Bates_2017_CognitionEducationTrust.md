@@ -7,7 +7,7 @@ title: "Argument_Bates_2017_CognitionEducationTrust"
 argument_key: "Argument_Bates_2017_CognitionEducationTrust"
 argument_display_title: "Darwin's Finch: A Short History of Cognition"
 argument_kind: "book"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Jerudong International School Establishment]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Complex Instruction Programme]]"
 related_arguments: []
 sources:
   - "[[books/Bates_2017_CognitionEducationTrust/Bates_2017_CognitionEducationTrust|Bates_2017_CognitionEducationTrust]]"
@@ -94,7 +95,7 @@ citation_aliases:
 
 ### 第4章 编织河道（The Braided River）
 
-第四章是全书最接近“总论”的一章。编织河道（braided river）比喻把前面那种依赖少数大合同的成长叙事，改写成多股收入流并行的组织模型，因此其真正功能是重新定义“适应”本身。(p.55-56)像联合体（consortium）、[[Visible Learning Branding and Global Influences]]、Culture Counts、协作影响计划（CIP）以及太平洋地区（Pacific）再多元化等内容，在这里都被组织成同一逻辑：Cognition 越来越擅长把证据（evidence）、影响（impact）和可复制的干预架构（intervention architecture）直接转化为商业模式。具体业务展开见 [[Cognition Education]].(p.56-63)
+第四章是全书最接近“总论”的一章。编织河道（braided river）比喻把前面那种依赖少数大合同的成长叙事，改写成多股收入流并行的组织模型，因此其真正功能是重新定义“适应”本身。(p.55-56)像联合体（consortium）、[[Visible Learning Branding and Global Influences]]、Culture Counts、协作影响计划（[[Complex Instruction Programme|CIP]]）以及太平洋地区（Pacific）再多元化等内容，在这里都被组织成同一逻辑：Cognition 越来越擅长把证据（evidence）、影响（impact）和可复制的干预架构（intervention architecture）直接转化为商业模式。具体业务展开见 [[Cognition Education]].(p.56-63)
 
 ### 第5章 回馈（Giving Back）
 

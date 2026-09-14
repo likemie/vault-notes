@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 96
+related_count: 97
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
+  - "[[Evidence Standards]]"
   - "[[Epistemological Understanding]]"
   - "[[Authentic Instruction]]"
   - "[[Dialogue in Education]]"
@@ -120,7 +121,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-09-07
+updated: 2026-09-13
 ---
 
 # Critical Thinking
@@ -167,7 +168,7 @@ updated: 2026-09-07
 > - **说明** 清楚表达判断及其依据，说明方法、标准和推导过程。
 > - **自我调节** 反思自身假设、偏见和推理过程，根据审查结果修正判断。
 > - **思维倾向** 探究、开放、公正、独立、智识[[Humility in Learning|谦逊]]、勇气、诚信与坚持，使技能得到持续而负责的运用。
-> - **知识与情境** 领域知识、任务目标、[[Epistemology|认识论]]立场和具体语境共同规定证据标准与合理判断的含义。此外，个体的[[Epistemological Understanding|认识论理解]]必须达到评价论阶段，才能产生运用批判性思维比较观点的内在动机。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–35)]] [[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 326)]]
+> - **知识与情境** 领域知识、任务目标、[[Epistemology|认识论]]立场和具体语境共同规定[[Evidence Standards|证据标准]]与合理判断的含义。此外，个体的[[Epistemological Understanding|认识论理解]]必须达到评价论阶段，才能产生运用批判性思维比较观点的内在动机。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–35)]] [[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 326)]]
 
 > [!logic-map]- 批判性判断的形成
 > ```mermaid
@@ -244,7 +245,7 @@ updated: 2026-09-07
 > **可迁移结构** 通用立场认为，论证分析、假设检验、不确定性判断和决策等结构能够通过明确训练进入新的任务。教学因此应帮助学生识别相似问题结构，练习在多个情境中调用同一策略。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32, 34)]]
 
 > [!claim] Glaser, R.; Lave, J.; Ritchhart, R., & Perkins, D. N.
-> **动态情境关系** 领域依赖研究强调，证据标准、专业知识和实践情境会改变推理的实际内容。Ritchhart and Perkins 指出，迁移争论被过度极化，通用认知结构与具体情境之间应被理解为复杂而动态的关系。因此，迁移可被视为策略、知识与情境线索成功配合的结果。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
+> **动态情境关系** 领域依赖研究强调，[[Evidence Standards|证据标准]]、专业知识和实践情境会改变推理的实际内容。Ritchhart and Perkins 指出，迁移争论被过度极化，通用认知结构与具体情境之间应被理解为复杂而动态的关系。因此，迁移可被视为策略、知识与情境线索成功配合的结果。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
 
 ### 命题四　课程与评估只有充分覆盖目标构念，才能支持批判性思维的效度声称
 

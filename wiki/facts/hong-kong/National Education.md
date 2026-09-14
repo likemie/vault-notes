@@ -9,9 +9,9 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 tags:
 - national-education
@@ -37,6 +37,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
+  - "[[Institute of Education Sciences]]"
   - "[[Citizenship and Social Development]]"
   - "[[Liberal Studies]]"
   - "[[2019 Hong Kong Protests]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-09-14
 ---
 
 ## 定义
@@ -69,7 +70,7 @@ updated: 2026-07-13
 > 2. **中共忠诚** — 将中共定位为"[[Zhonghua Minzu|中华民族]]唯一合法代表"（Vickers & Morris, 2022, p. 47）
 > 3. **守法教育** — 法治被重新表述为对《国安法》和中央权威的服从
 > 4. **历史叙事统一** — 以中共批准的单一历史叙事取代多元视角
-> 5. **内地体验** — 通过强制性内地考察团（取代 LS 的 IES）让学生"亲身体验祖国发展"
+> 5. **内地体验** — 通过强制性内地考察团（取代 LS 的 [[Institute of Education Sciences|IES]]）让学生"亲身体验祖国发展"
 
 ---
 

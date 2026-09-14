@@ -41,7 +41,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
-  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[TUFF]]"
@@ -68,7 +67,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -221,7 +220,7 @@ citation_aliases:
 ---
 ### 案例：肯德尔广场 / 剑桥创新中心
 
-16. [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）位于麻省理工学院（MIT）周边，是意向性网络建设（intentional [[Snowball Sampling|networking]]）的典型案例。其核心组织剑桥创新中心（Cambridge Innovation Center, CIC）于 1999 年作为独立机构成立，推动联合办公和跨校跨机构的协同研发。CIC 同时是一个协调化的创业生态系统，通过创建社交和专业活动中心来推动早期开发与投资(p.128)。
+16. [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）位于麻省理工学院（MIT）周边，是意向性网络建设（intentional networking）的典型案例。其核心组织剑桥创新中心（Cambridge Innovation Center, CIC）于 1999 年作为独立机构成立，推动联合办公和跨校跨机构的协同研发。CIC 同时是一个协调化的创业生态系统，通过创建社交和专业活动中心来推动早期开发与投资(p.128)。
 
 > [!success]
 > 据 CIC 网站数据，经过近三十年发展，CIC 已拥有超过 10,000 家客户组织，在全球举办超过 4,000 场活动，其客户累计吸引投资超过 170 亿美元。这些成果同时惠及大波士顿社区和各成员高校，催生了一个产业与创业伙伴之间自我强化的投资与共驻（[[University-Industry Co-location|co-location]]）循环(p.128)。

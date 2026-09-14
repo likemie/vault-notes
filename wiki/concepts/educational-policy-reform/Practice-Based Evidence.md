@@ -8,7 +8,7 @@ aliases:
 summary: "由教育实践者在教学现场生成的细粒度、情境化知识与微观过程数据，作为对抗实验主义认识论霸权的合法证据形态，为教师专业学习与教学形成性改进提供关键支撑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 52
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,12 +25,14 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Pragmatism in China]]"
+  - "[[Evidence Standards]]"
   - "[[Professional Judgment]]"
   - "[[Evidence-Based Education]]"
   - "[[Deficit Framing]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Document]]"
   - "[[Data-Based Decision Making]]"
+  - "[[Professional Learning Community]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Further Education]]"
   - "[[Knowledge Production]]"
@@ -79,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-08-26"
-updated: 2026-09-02
+updated: 2026-09-14
 ---
 
 # Practice-Based Evidence
@@ -93,7 +95,7 @@ updated: 2026-09-02
 
 > [!concept-lens] 概念透镜
 > - **含义** 将证据生产与解释的主权拓展至教学一线现场，确立扎根实践的微观观察、形成性数据与[[Reflexivity|反思性]]知识具有不可替代的[[Epistemology|认识论]]合法性。
-> - **用途** 回应“谁的证据算数”的[[Paradigm|范式]]争议，破除[[Pragmatism in China|实验主义]]对证据标准的单一垄断，为教师主导的探究与校本改进提供理论立足点。
+> - **用途** 回应“谁的证据算数”的[[Paradigm|范式]]争议，破除[[Pragmatism in China|实验主义]]对[[Evidence Standards|证据标准]]的单一垄断，为教师主导的探究与校本改进提供理论立足点。
 > - **边界** 实践本位证据聚焦内生实践知识的形成性价值，与外部严谨学术研究构成互补共生关系，由[[Professional Judgment|专业判断]]进行整合。
 
 > [!citation-card]- 实践本位证据的形成性价值
@@ -120,7 +122,7 @@ updated: 2026-09-02
 > |---|---|---|---|---|
 > | **证据生产主体** | 一线教师、教研组、[[Snowball Sampling\|网络化]]改进共同体 | 专业学术研究者、智库、第三方评估机构 | 学校管理层、测试机构、行政督导部门 | 学术期刊作者、二次研究合成专家 |
 > | **知识核心属性** | 细粒度、高情境化、过程性[[Phronesis\|实践智慧]] | 统计平均值、去情境化、普遍因果律 | 终结性指标、量化分数、横向排位数据 | 理论概括、教学法概念、学术命题 |
-> | **主要应用功能** | 形成性支持教学微调与专业学习共同体 | 宏观政策方案筛选与教育干预准入 | 学校绩效考核、学业达标预警与分流 | 拓展教师理论视野与教学设计启发 |
+> | **主要应用功能** | 形成性支持教学微调与[[Professional Learning Community\|专业学习共同体]] | 宏观政策方案筛选与教育干预准入 | 学校绩效考核、学业达标预警与分流 | 拓展教师理论视野与教学设计启发 |
 > | **决策[[Epistemology\|认识论]]取向** | 关注情境变异性与行动机制的动态调适 | 追求普遍因果效度与标准化干预依从 | 追求数字指标达成与量化问责达标 | 追求学术研究结论向课堂教学的[[Transfer Translation Transformation\|转译]] |
 > | **流动与中介机制** | 同行专业网络、跨校教研联盟横向扩散 | 自上而下的指南推送与证据工具包分发 | 内部数据仪表盘与管理行政指令流转 | 学术出版物、[[Further Education\|继续教育]]培训与专家讲座 |
 
@@ -199,7 +201,7 @@ updated: 2026-09-02
 > 阐明宏观统计结论在指导微观课堂教学中的局限性，论证 PBE 在持续改进中的适应性优势。
 
 > [!claim] [[Argument_Peterson_2016_IJRME|Peterson (2016)]]; [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]; Bryk et al. (2015)
-> **情境变异性与小步迭代** 传统以[[Randomised Controlled Trials|随机对照试验]]（RCT）为代表的实验[[Paradigm|范式]]提供的是宏观平均[[Effect Size|效应量]]，适用于非此即彼的二选一采办决策，却无法指导微观教学互动如何展开。教育实践作为开放系统充满情境变异；[[Improvement Science|改进科学]]主张通过[[Snowball Sampling|网络化]]改进共同体（NICs）从跨情境变异中学习，利用实践本位证据进行微小改变与快速反馈循环（PDSA），实现对教学过程的形成性持续优化。[[Argument_Peterson_2016_IJRME|(Peterson, 2016, pp. 306–307)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 14)]]
+> **情境变异性与小步迭代** 传统以[[Randomised Controlled Trials|随机对照试验]]（RCT）为代表的实验[[Paradigm|范式]]提供的是宏观平均[[Effect Size|效应量]]，适用于非此即彼的二选一采办决策，却无法指导微观教学互动如何展开。教育实践作为开放系统充满情境变异；[[Improvement Science|改进科学]]主张通过网络化改进共同体（NICs）从跨情境变异中学习，利用实践本位证据进行微小改变与快速反馈循环（PDSA），实现对教学过程的形成性持续优化。[[Argument_Peterson_2016_IJRME|(Peterson, 2016, pp. 306–307)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 14)]]
 
 ---
 
@@ -240,7 +242,7 @@ updated: 2026-09-02
 > [!dev-timeline] 概念演变
 > - **1983 — 反思实践与[[Action Research|行动研究]]源起** [[Donald A. Schön|Donald Schön]] 提出反思实践者理论，奠定实践者通过现场反思生产专业知识的[[Epistemology|认识论]]基础。
 > - **2000s — What Works 运动与教师知识赤字化** 随着英美强化因果循证标准，学术界与政策界将证据窄化为 [[Randomised Controlled Trials|RCT]] 黄金标准，教师生成的研究常被贬低为轶事性材料。
-> - **2015 — [[Improvement Science|改进科学]]与 Practice-Based Evidence 正式提出** [[Anthony Bryk]] 及其团队出版《Learning to Improve》，正式提出实践本位证据概念，倡导[[Snowball Sampling|网络化]]改进共同体（NICs）从情境变异中持续学习。
+> - **2015 — [[Improvement Science|改进科学]]与 Practice-Based Evidence 正式提出** [[Anthony Bryk]] 及其团队出版《Learning to Improve》，正式提出实践本位证据概念，倡导网络化改进共同体（NICs）从情境变异中持续学习。
 > - **2016 — [[Mechanism Experiments|机制实验]]与改进科学的整合模型** [[Argument_Peterson_2016_IJRME|Peterson (2016)]] 提出将实验科学的机制实验与 Bryk 改进科学的 PBE 深度结合，构建双向互补的“什么有效 2.0”框架。
 > - **2017 — [[Evidence-Informed Practice|EIP]] 特刊确立 PBE 的核心中介地位** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 在特刊导言中将 PBE 置于“谁的证据算数”争论中心，揭示一线实践对 PBE 的极高信赖度。
 > - **2018 — [[Critical Realism|批判实在论]]对平均[[Effect Size|效应量]]的解构** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 批判 [[Education Endowment Foundation|EEF]] 工具包的去情境化效应量排行，倡导依托 NICs 与实践本位证据展开情境化民主探究。
@@ -288,5 +290,5 @@ updated: 2026-09-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 在“谁的证据算数”讨论中确立 PBE 的合法地位，实证揭示教师获取信息对实践证据与同行网络的压倒性信赖。
 > - [[Argument_Peterson_2016_IJRME|Peterson (2016)]] — 探讨[[Mechanism Experiments|机制实验]]与 Bryk [[Improvement Science|改进科学]]的系统整合，构建连接实验室因果机制与现场 PBE 的双向反馈模型。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 批判 [[Education Endowment Foundation|EEF]] 工具包去情境化[[Effect Size|效应量]]排行，倡导依托[[Snowball Sampling|网络化]]共同体沉淀实践本位证据。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 批判 [[Education Endowment Foundation|EEF]] 工具包去情境化[[Effect Size|效应量]]排行，倡导依托网络化共同体沉淀实践本位证据。
 > - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow|STAT]] 改革案例，证实实践本位证据与[[Local Knowledge in Evidence-Based Policy|地方知识]]在学区采购决策中超越抽象研究的主导作用。

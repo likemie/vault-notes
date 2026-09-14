@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤进行细粒度建模并提供自适应个性化教学指导的计算机系统，由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Procedural Skill]]"
   - "[[Zone of Proximal Development]]"
+  - "[[Teaching Assistant]]"
   - "[[Educational Robotics]]"
   - "[[AI Agent in Education]]"
   - "[[Brainstorming]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-14
 ---
 
 # Intelligent Tutoring Systems
@@ -66,7 +67,7 @@ updated: 2026-08-25
 > *Intelligent Tutoring Systems leverage domain knowledge graphs and dynamic learner models to track step-by-step problem-solving operations, delivering adaptive scaffolding and individualized hints within the learner's zone of proximal development.*
 
 > [!boundary]- 概念边界
-> - 不等于**计算机辅助教学（Computer-Assisted Instruction, CAI）** 传统 CAI 采用静态分支跳转逻辑，无法根据学习者的细粒度认知状态进行动态概率推断。
+> - 不等于**计算机辅[[Teaching Assistant|助教]]学（Computer-Assisted Instruction, CAI）** 传统 CAI 采用静态分支跳转逻辑，无法根据学习者的细粒度认知状态进行动态概率推断。
 > - 不等于**通用大型语言模型聊天机器人** ITS 具有确定性的学科领域知识模型与显式的教学策略模型，强调基于规则或概率图模型的系统化纠错，而非单纯的概率文本生成。
 
 ---

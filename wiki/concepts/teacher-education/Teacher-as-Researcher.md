@@ -7,7 +7,7 @@ aliases:
 summary: "由Stenhouse开创并经复杂性理论深化的教育研究范式，主张教师从知识消费者转向自身实践的知识生产者，在复杂自组织教育生态中与外部研究者形成共生探究网络。"
 type: concept
 domain: "teacher-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Knowledge Production]]"
+  - "[[Professional Learning Community]]"
   - "[[Phronesis]]"
   - "[[Praxis]]"
   - "[[Didaktik]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Teacher-as-Researcher
@@ -69,7 +70,7 @@ updated: 2026-09-11
 > **教师即研究者（Teacher-as-Researcher）**是由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）倡导并由当代[[Reflexivity|反思性]]实践理论与[[Complexity Theory|复杂性理论]]深化的教育研究运动。其核心主张在于彻底打破外部学术专家垄断[[Knowledge Production|知识生产]]的科层壁垒，将教师从被动接受外部理论的“消费者”或被量化测量的“被研究对象”，转变为系统审视与探究自身教育教学行动的“实践知识生产者”。在麦克尼夫（Jean McNiff, 2002）的界定中，该进路属于**实践者本位研究（Practitioner-Based Research）**——传统实证探究是研究者对他人展开研究，而教师即研究者则是行动者围绕自身实践开展的自觉探究。
 
 > [!concept-scope] 概念范围
-> - **探究主体** 身处真实学校与课堂生态的一线教师、教育实践者及其专业学习共同体。
+> - **探究主体** 身处真实学校与课堂生态的一线教师、教育实践者及其[[Professional Learning Community|专业学习共同体]]。
 > - **研究对象** 活生生的教学现场困境、师生微观互动、课程校本化生成、学习者认知阻碍与专业行动效果。
 > - **知识形态** 扎根于情境的[[Phronesis|实践智慧]]（[[Praxis]]）、反思性校本行动理论与可被其他教育者借鉴的实践性知识。
 > - **实践边界** 绝非无系统记录的日常随想或直觉经验，而是包含明确证据收集、持续反思修正与同行评议的严谨探究；同时区别于外部行政力量主导的达标式绩效考核。

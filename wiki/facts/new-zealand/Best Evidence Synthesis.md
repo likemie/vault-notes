@@ -12,7 +12,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Mixed Methods Research]]"
+  - "[[Weight of Evidence Framework]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Best Evidence Synthesis
@@ -88,7 +89,7 @@ updated: 2026-09-13
 > [!policy-design]- 方案设计与方法学特色
 > - **核心目标** 识别“何种教学与领导力特征能够有效改善多元文化背景学生的学业与社会心理福祉”。
 > - **覆盖对象** 全新西兰中小学校长、教师专业学习社群、教育部政策分析师与大学教育研究团队。
-> - **迭代综合方法论（Iterative Synthesis）** 突破传统狭隘[[Positivism|实证主义]]对[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）的单一依赖，确立“因果[[Effect Size|效应量]]检验 $+$ 深度质性案例透视”的[[Mixed Methods Research|混合方法]]规程；每项综述均设定严密的证据权重（Weight of Evidence）评估，并与毛利文化哲学（Kaupapa Māori）紧密[[Dialogue in Education|对话]]。
+> - **迭代综合方法论（Iterative Synthesis）** 突破传统狭隘[[Positivism|实证主义]]对[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）的单一依赖，确立“因果[[Effect Size|效应量]]检验 $+$ 深度质性案例透视”的[[Mixed Methods Research|混合方法]]规程；每项综述均设定严密的证据权重（[[Weight of Evidence Framework|Weight of Evidence]]）评估，并与毛利文化哲学（Kaupapa Māori）紧密[[Dialogue in Education|对话]]。
 > - **干预措施与资源包** 资助并发布涵盖四大主题领域的旗舰综合专著，配套研发“行动中的证据”（Evidence in Action）课堂实景视频、教师反思工具与领导力实践指南([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
 
 > [!citation-card] Burns & Schuller 论 BES 的嵌入型中介特征与职能转型

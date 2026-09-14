@@ -22,6 +22,7 @@ related_concepts:
   - "[[Learning Portfolio]]"
   - "[[Direct Instruction]]"
   - "[[SOLO Taxonomy]]"
+  - "[[Teaching Assistant]]"
   - "[[Ways of Knowing]]"
   - "[[Evaluation Research]]"
   - "[[Criterion-Referenced Test]]"
@@ -59,7 +60,7 @@ title: "Argument_Biggs_1999_HERD"
 argument_key: "Argument_Biggs_1999_HERD"
 argument_display_title: "What the student does: Teaching for enhanced learning"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -97,7 +98,7 @@ issuing_organization: ""
 > | **[[Phenomenography\|现象图式学]]** | 现象图式学考察学生如何体验和处理具体任务，并据此把[[Surface and Deep Learning\|表层与深层学习]]视为受情境影响的学习方式，而不是固定的人格特征（pp. 59–60）。 |
 > | **[[Surface and Deep Learning\|学习取向]]** | 采用表层学习方式时，学生会开展与任务要求不相称的低阶活动，所得结果往往零散；采用深层学习方式时，学生会围绕任务要求组织活动，从而把握整体意义。学习取向由此说明，教学情境如何通过学生的实际行动影响学习质量（pp. 59–61）。 |
 > | **[[Constructive Alignment\|系统教学观与建构性对齐]]** | 学生的投入程度及其对学习情境的理解，会与课程、教学、评估和学习取向相互作用。教师只有统筹设计这些要素，才能使学生更有可能开展课程目标要求的活动（pp. 61–65）。 |
-> | **[[SOLO Taxonomy\|学习结果结构分类法]]** | 该分类法以前结构、单点结构、多点结构、关联结构和拓展抽象五个层次描述理解质量，并帮助教师把不同层次转化为课程目标中的可观察动词（pp. 66–67）。 |
+> | **[[SOLO Taxonomy\|学习结果结构分类法]]** | 该分类法以前结构、单点结构、多点结构、关联结构和拓展抽象五个层次描述理解质量，并帮[[Teaching Assistant\|助教]]师把不同层次转化为课程目标中的可观察动词（pp. 66–67）。 |
 
 > [!warrant]- 从学习理论到课程设计
 > 如果学生只能通过活动建构意义，就不能仅凭教师讲得是否清楚来判断教学质量。学生采用表层还是深层学习方式，会随任务和评估情境而变化，因此教师可以通过系统设计影响学生开展何种活动。课程必须先说明期望学生达到何种理解，再选择能促成这种理解的活动，最后用评估任务考查学生能否运用同样的[[Ways of Knowing|认知方式]]并达到相应水平。由此可以把学习理论落实为目标、活动与评估相互一致的课程设计原则（pp. 60–65）。

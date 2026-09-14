@@ -3,202 +3,227 @@ title: School Leadership
 aliases:
   - 学校领导力
   - 学校领导
-summary: "围绕学校方向设定、人员发展、组织改进和关系建设展开的教育领导实践，用于理解学校如何组织改进、建立信任并支持学习环境。"
+summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 34
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
-  - school-leadership
-  - subject/curriculum
-  - level/k12
+  - field/educational-leadership-administration
+  - theme/school-leadership
+  - theme/evidence-informed-practice
+  - theme/school-improvement
 related_concepts:
-  - "[[Transformative Leadership]]"
-  - "[[Doxa]]"
-  - "[[Rationalism in International Relations]]"
-  - "[[Problem Solving]]"
-  - "[[Champ]]"
-  - "[[Habitus]]"
-  - "[[Problem-Posing Education]]"
-  - "[[Hypothesis]]"
-  - "[[Reflexivity]]"
-  - "[[Document]]"
+  - "[[Growth]]"
+  - "[[Evidence-Informed Practice]]"
   - "[[New Public Management]]"
+  - "[[Poor Research Use]]"
+  - "[[Transformative Leadership]]"
+  - "[[Dialogue in Education]]"
+  - "[[Professional Learning Community]]"
+  - "[[Hypothesis]]"
+  - "[[Habitus]]"
   - "[[School Autonomy]]"
-related_theories: []
-related_methods:
-  - "[[Case Study]]"
-related_persons: []
-related_facts:
-  - "[[OECD]]"
-  - "[[OECD Improving School Leadership Project]]"
-  - "[[ISSPP Project]]"
+  - "[[Champ]]"
+  - "[[Research Utilization]]"
+  - "[[Instructional Leadership]]"
+  - "[[Paradigm]]"
+  - "[[Variable]]"
+  - "[[Doxa]]"
+related_theories:
+  - "[[Organizational Culture]]"
+  - "[[Quality Use of Research Evidence Framework]]"
+  - "[[Critical Theory]]"
 related_arguments:
   - "[[Argument_Møller_2017_EERJ]]"
+  - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Eacott_2011_JEAH]]"
-confidence: medium
+related_facts:
+  - "[[OECD]]"
+  - "[[Monash Q Project]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Effect Size]]"
+  - "[[Questionnaire]]"
+  - "[[In-depth Interview]]"
+  - "[[Case Study]]"
+  - "[[Coding in Qualitative Research]]"
+related_persons:
+  - "[[Jorunn Møller]]"
+  - "[[Scott Eacott]]"
+  - "[[Pierre Bourdieu]]"
+  - "[[Mark Rickinson]]"
+confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-07-09
+updated: 2026-09-14
+---
+
+# School Leadership
+
 ---
 
 ## 定义
 
-> [!info] 定义
-> 学校领导力（School Leadership）被教育研究界定为对学生教育成功具有决定性影响的因素([[Argument_Møller_2017_EERJ|Møller, 2017, p.376]])。一个关键洞察是：领导力最好在具体情境中理解（context-specific），不存在适用于所有情境的通用成功公式([[Argument_Møller_2017_EERJ|Møller, 2017, p.376, 380]])。
+> [!def] 核心定义
+> **学校领导力（School Leadership）** 指教育领导者（涵盖校长、中层管理者及分布式领导团队）通过确立学校发展愿景、促进教职员工专业[[Growth|成长]]、重构[[Organizational Culture|组织文化]]架构与维系深度人际信任，从而对学生学业成功与学校整体改进产生关键塑造作用的专业实践（[[Argument_Møller_2017_EERJ|Møller, 2017, p. 376]]）。领导力深具情境特异性（Context-specific），不存在放之四海而皆准的通用卓越处方。在[[Evidence-Informed Practice|证据知情实践]]与[[Quality Use of Research Evidence Framework|高质量研究使用]]视域下，学校领导力进一步超越传统的行政管辖与指令下达，确立为以身作则、言行一致（*walk the talk and model its implementation*）示范研究在课堂中的具体转化，并通过制度化排程为教师提供研讨工时与试错心理安全的组织使能杠杆。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 376, 380)]]；[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 187–188, 191–192)]]
+
+> [!concept-lens] 概念透镜
+> - **核心指向** 学校微观组织改进、人员发展、专业信任与证据转化的协同引领机制。
+> - **理论用途** 揭示学校领导者如何通过愿景引领、榜样示范与制度化排程打破教师职业孤岛与行政异化，理解教育改革在微观现场落地或受阻的组织动力学。
+> - **适用边界** 坚决反对将学校领导力降格为去情境化的个人英雄主义叙事或[[New Public Management|新公共管理]]的技术官僚控制工具；强调其深受宏观制度问责与社会正义权力的结构性塑造。
+
+> [!citation-card] Møller 论情境特异性
+> 领导力最好在具体情境中理解。在多元文化与处境不利学校中设定方向，与在同质化优势学校中具有截然不同的实践内涵。（Ärlestig et al., 2016，引自 [[Argument_Møller_2017_EERJ|Møller, 2017, p. 376]]）
 >
-> > "Leadership is best understood in context"([[Argument_Møller_2017_EERJ|Møller, 2017, p.376, citing Ärlestig et al., 2016]])
+> *Leadership is best understood in context.*
+
+> [!citation-card] Rickinson et al. 论领导者的躬身示范
+> 领导者绝不能仅仅在口头上引用所谓研究表明，他们必须言行一致，亲身示范研究在课堂教学中的具体转化与落地实施。当权力在握者由于个人偏好而把未经验证的新奇点子强加给全校，且没有建立共同所有权时，就会造成劣[[Qualitative Research|质的研究]]使用。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 190–191)]]
+>
+> *Leaders should not only quote what the 'research says', they have to walk the talk and model its implementation.*
+
+> [!boundary]- 概念边界
+> - **不等于 传统的科层行政管理（Bureaucratic Administration）** 行政管理侧重规章制度维护、考勤考评与日常事务性运转；学校领导力侧重教学愿景引领、组织文化塑造与人员赋能。
+> - **不等于 去情境化的伟人英雄叙事（Heroic Leadership）** 领导力并非个别校长的天赋特质或独断决断，而是深植于教师信任关系、教研共同体与分布式协作中的集体能力。
+> - **不等于 自上而下的独断强加（Bee in their bonnet）** 领导者单凭个人一时冲动强推未经全员协商的外来方案，属于典型的[[Poor Research Use|劣质研究使用]]，会引发教师强烈怨怼与教学停滞。
+
+---
+
+## 概念辨析
+
+> [!contrast-table] 概念辨析
+> | 比较维度 | 学校领导力（School Leadership） | [[Transformative Leadership\|变革型领导力（Transformative Leadership）]] | [[New Public Management\|新公共管理]]科层管理（NPM Administration） |
+> |---|---|---|---|
+> | **分析起点** | 学校微观组织运作、人员发展与教学情境 | 宏观权力结构、社会正义与制度不平等批判 | 科层问责规程、成本效益核算与标准交付 |
+> | **核心使命** | 设定方向、发展教师、培育信任与改善教学 | 解构压迫性权力关系，推进边缘群体教育公平 | 执行上级政策指标、提高测验排名与行政依从 |
+> | **组织关系** | 分布式协作网络与去私有化的教研共同体 | 具有批判意识的盟友关系与解放性赋权[[Dialogue in Education\|对话]] | 上下级命令服从、绩效考核监督与合同问责 |
+> | **证据定位** | 作为审慎探究的适切资源，强调领导言行示范 | 审视证据生产背后的意识形态与权力偏见 | 作为绩效考核与合法化交付的硬性指标工具 |
+
+---
 
 ## 核心要素
 
-> [!abstract] 核心要素
-> ISSPP 跨国研究识别出一组跨情境的基本领导实践([[Argument_Møller_2017_EERJ|Møller, 2017, p.380]])：
->
-> - **设定方向（setting direction）**
-> - **发展人员（developing people）**
-> - **改进组织（improving organization）**
-> - **建立信任（developing trust）**
-> - **构建安全的学习环境（building a safe learning environment）**
->
-> Møller 指出这些实践的具体含义在日常工作中并不总是一目了然。例：同样是"设定方向"，在多元文化、社会经济多样化的学校与在同质性较高的学校截然不同。
->
-> [[OECD]] "改进学校领导力"（ISL）项目将领导力定位为大规模教育改革的关键，并提出了五项政策建议([[Argument_Møller_2017_EERJ|Møller, 2017, p.376-377]])：
->
-> 1. 吸引合适的人担任领导职位
-> 2. 明确界定核心职责
-> 3. 在提供适当支持的前提下赋予学校领导者自主权
-> 4. 分布式领导
-> 5. 将领导力发展视为一个连续体
+学校领导力兼具跨情境的基本组织实践与推动循证教学改善的使能支柱。
 
-## 与相关概念的区别
+> [!feature] 学校领导力的五大基础实践与两大循证使能支柱
+> - **设定清晰方向（Setting Direction）** 凝聚全校师生与社区共同认可的育人愿景，确立明确的发展优先次序。[[Argument_Møller_2017_EERJ|(Møller, 2017, p. 380)]]
+> - **发展人员胜任力（Developing People）** 建立教师专业支持体系，提供一对一深度指导与针对性专业研修机会。
+> - **系统重构组织（Improving Organization）** 打破学科孤岛壁垒，优化学校运作规程，建设资源共享的协作机制。
+> - **培育关系信任（Developing Trust）** 建立领导层与教师之间高水平的心理安全感，包容教学改革中的合理试错。
+> - **构筑安全环境（Building Safe Environment）** 营造支持性育人生态，兼顾学生学业[[Growth|成长]]、身心健康与情感归属。
+> - **榜样型领导示范（Role-modelling Leadership）** 领导者躬身参与教学一线，言行一致示范外部科研成果的课堂落地转化。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 187–188, 191)]]
+> - **制度化时空排程（Protected Infrastructure）** 在日常作息中刚性划拨专有教研工时，设立[[Professional Learning Community|专业学习共同体]]（PLCs）并隔绝行政杂务干扰。
 
-> [!example] 与相关概念的区别
-> - vs [[Transformative Leadership]] — 传统的学校领导力研究倾向于关注组织内部的领导者行为和个人能力，而变革型领导力以权力结构为分析起点，关注如何改变导致社会不平等的权力结构([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])
-> - vs 分布式领导 — 分布式领导模型（distributed leadership）虽然在学校领导力研究和政策文件中获得重视，但通常被去情境化，很少处理此类工作的政治和规范维度
+> [!logic-map]- 学校领导力驱动循证学校改进的机制链
+> ```mermaid
+> flowchart LR
+>     A["学校领导力核心实践<br>愿景设定 · 互信文化 · 榜样示范"] --> B["组织使能基础架构<br>制度化专有排程 · PLCs 研讨"]
+>     B --> C["教师研究参与与去私有化反思<br>破除防卫心理 · 审慎适切性甄别"]
+>     C --> D["课堂教学调适与微观创新试验<br>多源证据整合 · 渐进式改进"]
+>     D --> E["学生学业进步与学校长远卓越"]
+> ```
 
-## 理论视角
+---
 
+## 围绕概念形成的命题
 
-Møller 提出研究学校领导力的两种关键视角([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])：
+---
 
-- **[[Transformative Leadership|变革型领导力]]（[[Transformative Leadership]], Shields, 2010, 2011）**— 以权力为调查起点
-- **批判性教育政策（critical educational policy, Gunter, 2016）**— 将专业工作和组织发展定位于权力结构之中
+### 命题一　学校领导力深嵌于微观社会情境与宏观权力结构之中，不存在脱离情境的通用卓越处方
 
-两种视角均试图超越对组织内部领导行为的关注，纳入更广泛的社会结构与政治经济分析。
+> [!concept-lens] 情境特异性与权力结构嵌入
+> 批判将学校领导力抽象为普适商业管理技术的流行[[Hypothesis|假设]]，阐明具体社会文化背景与权力关系对领导实践的决定性塑造。
 
-## 领导力培养：管理主义批判
+> [!claim] Møller; Eacott
+> **情境嵌入机制** 成功的学校领导力在本质上是高度情境化的，任何试图提炼脱离本土语境的通用成功公式的努力都是徒劳的。乔伦·莫勒（[[Jorunn Møller]]）与斯科特·埃科特（[[Scott Eacott]]）基于国际成功学校校长项目（ISSPP）跨国案例指出，同样是设定方向或改进组织，在社会经济处境不利、种族文化多元的薄弱学校与在资源充沛的同质化精英学校中，面临截然不同的制度阻力与伦理权衡。领导力不仅是对校内人际的沟通协调，更时刻受到外部政治问责体制与宏观教育资本分配格局的深层规制。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 376–381)]]；[[Argument_Eacott_2011_JEAH|(Eacott, 2011, pp. 45–49)]]
 
+---
 
-[[Argument_Eacott_2011_JEAH|Eacott (2011)]]对澳大利亚 NSW 公立学校系统的校长培养方案进行了 Bourdieuian 批判，论证其不过是"当代国家对公共部门管理主义干预的一部分"——将校长身份建构为"国家启动的改革的交付者（deliverer）"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])。
+### 命题二　市场化自主权与新公共管理绩效主义将校长撕裂于教育育人与企业化交付的制度陷阱
 
-### NSW 校长培养的 doxa
+> [!concept-lens] [[New Public Management|新公共管理]]与校长双重[[Habitus|习性]]绑定
+> 揭示市场化[[School Autonomy|学校自主权]]改革如何将校长重构为国家外包政策的交付者，剖析企业家压力对教育伦理的结构性侵蚀。
 
-NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.49-51]])：
+> [!claim] Eacott; Keddie et al.
+> **管理主义双重绑定** 市场驱动的学校自主权与新公共管理（NPM）改革，将学校校长推入了不可调和的制度性撕裂之中。埃科特与阿曼达·凯迪（Amanda Keddie）等学者基于[[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu）[[Champ|场域]]理论及对澳大利亚校长的实证研究表明，校长被赋予了看似庞大的预算与用人自主权，但实质上沦为国家竞争性问责项目的交付者（Deliverers）。校长不得不把大量精力转向争夺生源、包装学校形象、追逐标准化统考名次与应付繁琐审计；这种企业家角色的膨胀诱发了严重的目标置换（Goal Displacement），不仅削弱了对处境不利学生的公平扶助，更导致校长群体普遍陷入身心健康危机与严重职业倦怠。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, pp. 49–54)]]；(Keddie et al., 2020, pp. 438–442)
 
-- **证据本位决策（evidence-based strategies）** Scott 宣称需要"来自稳健研究的证据本位策略"，但 English 论证证据本位决策"使学校变蠢"——教学被简化为数字，"什么重要实际上由所选择的问题决定"
-- **技术-[[Rationalism in International Relations|理性主义]]（techno-rationalist approaches）** 改进通过逻辑增量实现，未能充分参与社会生活的复杂性。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"
-- **理论与实践的工具性二分** 领导力培养被框定为"持续将理论与实践联系起来"——暗示二者分离存在，但所谓"理论"仅指"教育管理者的知识专业化和[[Problem Solving|问题解决]]工具"
+---
 
-这些 doxa 通过**结构安排**被制度化和合法化：学校本位规划、择优晋升、领导力能力框架、竞争性入学领导力项目([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])。
+### 命题三　在证据知情实践中，榜样型领导示范与互信文化构成了破除教师防卫与实现高质量证据转化的决定性杠杆
 
-### 校长的"双重绑定"习性
+> [!concept-lens] 组织使能与证据转化机制
+> 探讨外部科研证据如何穿透学校微观壁垒，论证领导者亲身示范与制度化排程对教师常态化循证行为的促进机制。
 
-校长位于多重社会[[Champ|场域]]的交叉点——必须同时在教育场域（以教育本身为目的的实践）、政治场域（系统问责要求）和经济场域（效率与绩效标准）中行动。这导致[[Habitus|习性]]"被分裂为对抗自身，在与自身的持续协商中"——"在某种程度上注定了某种重复，或对自我的双重感知，忠诚于多重身份"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.49]])。
+> [!claim] Rickinson et al.
+> **榜样型领导与心理安全** 在推动高质量研究[[Research Utilization|证据使用]]的过程中，学校领导者承担着不可替代的组织使能中枢功能。[[Mark Rickinson|马克·里金森]]（Mark Rickinson）等学者基于澳大利亚中小学实证调查指出，领导者口头倡导研究无法消除一线教师的抵触与信心赤字，唯有领导者言行一致、躬身示范研究在教学中的具体转化，才能赋予教师试错的心理安全感；通过在日常排程中刚性划拨专有研读工时、建立[[Professional Learning Community|专业学习共同体]]（PLCs），领导者成功破除了行政文书杂务对教研的残酷挤压，使得外部适切证据能够在互信[[Dialogue in Education|对话]]中扎根微观课堂。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 187–188, 191–193)]]
 
-这种张力在绩效文化中具体表现为：衡量领导力有效性的方式（联邦/州的经济和政治议程——NAPLAN 分数、MySchool 排名）与校长自身对其实践的评估（国家政策中社会与经济双重追求）不一致——"与此同时，绩效既影响又改变了他们的实践"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.47]])。
+---
 
-### 教育场域自主性的系统性丧失
+### 命题总览
 
-[[Argument_Eacott_2011_JEAH|Eacott (2011, p.48-50)]]以 Bourdieu 场域理论论证教育场域正被经济和政治场域系统性渗透：
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **情境与权力嵌入** | 领导实践深嵌于具体社会学情与宏观权力结构，反对去情境普适论 | 多元文化、薄弱校与社会公平变革 | [[Argument_Møller_2017_EERJ\|Møller (2017)]]; [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] |
+> | **管理主义双重绑定** | 市场化自主权将校长异化为绩效交付者，引发伦理妥协与目标置换 | 基础教育分权改革与标准化问责体制 | Eacott; Keddie et al. (2020) |
+> | **循证使能与榜样示范** | 领导亲身示范与制度化排程是破除教师防卫、促进证据使用的中枢 | 学校循证教学改进与专业学习共同体建设 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] |
 
-- 场域的自主性体现为**生成自身价值和成就标志的能力**——当"什么算作资本"日益由经济和政治手段定义时，学校领导者丧失了这一能力
-- 立法（NSW 立法规定校长对"有效和高效运行"负责）和专业标准（如"批判性审查最佳实践研究"、"在所有沟通中呈现学校的正面形象"）将校长固化为系统议程的"地方面孔"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.52-54]])
-- 通过 NAPLAN 国家测试、国家课程、MySchool 网站的建立，"国家对教育的管理主义项目几乎完成"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.54]])
+---
 
-### 替代方案："加入世界对话"
+## 概念演变
 
-[[Argument_Eacott_2011_JEAH|Eacott (2011, p.56-58)]]提出学校领导力培养需要一种基于**"教育问题提出与争辩"（educational [[Problem-Posing Education|problem posing]] and contestation）**而非"组织问题解决"（organisational problem solving）的**替代性领导习性**
+> [!dev-timeline] 概念演变
+> - **20 世纪中叶 — 特质论与伟人领导力模型** 侧重研究优秀校长的个人心理特质与行政权威，预设卓越领导者具有先天的超凡个人魅力。
+> - **1980s–1990s — 教学领导与变革型领导兴起** 随着有效学校运动推进，领导力重心转向指导课堂教学（[[Instructional Leadership]]）以及激发教工组织承诺（Transformational Leadership）。
+> - **2000s — ISSPP 跨国项目与分布式领导转向** [[OECD|经合组织]]（OECD）启动改进学校领导力项目（ISL），国际成功学校校长项目（ISSPP）在 20 多个国家展开长期追踪，确立领导力的情境特异性与分布式领导（Distributed Leadership）共识。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 376–380)]]
+> - **2010s — 批判性政策研究与管理主义反思** 学界运用[[Critical Theory|批判理论]]与[[Pierre Bourdieu|布迪厄]][[Champ|场域]]视角，深刻反思[[New Public Management|新公共管理]]（NPM）对校长职业身份的扭曲，倡导将教育问题提出与争辩作为替代性领导[[Habitus|习性]]。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, pp. 45–58)]]
+> - **2020s — [[Evidence-Informed Practice|证据知情实践]]中的组织使能重塑** 莫纳什大学 Q 项目在[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]（QURE）中，将榜样型领导力与制度化排程确立为促进循证实践的组织使能支柱，完成从行政管辖向循证培育的[[Paradigm|范式]]跃升。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 187–192)]]
 
-- 领导力培养不应是关于"唯一正确方法"，也不应恐惧"知识主张的争辩"
-- 需要理解"集体无意识的工作[[Hypothesis|假设]]、多元社会力量对工作的赋值、以及权力关系"——这要求**批判性[[Reflexivity|反思性]]**
-- 技术技能仍然需要但应被"去中心化"，视为"对更关键的'教育'领导力事业的附属"
-- 理想的项目应以"内部矛盾、二律背反、循环性和争辩性交叉点"为特征（English, 2006, p.466）
-
-## 实证发现
-
-> [!success] 实证发现
-> ISSPP 项目在 20+ 个国家的[[Case Study|案例研究]]发现，成功学校校长的叙述呈现以下共同主题([[Argument_Møller_2017_EERJ|Møller, 2017, p.380]])：
->
-> - **伦理关怀（ethic of care）** 对学校的热情、强烈的道德使命感
-> - **关系信任的建立（relational trust）**
-> - **关注员工发展**，包括自我发展
-> - **对社会正义、公平与卓越的坚定承诺**
-> - 校长和教师都希望"对儿童和年轻人的生命产生影响"
->
-> 这些主题与 Leadership for Social Justice [[Document|文献]]高度一致([[Argument_Møller_2017_EERJ|Møller, 2017, p.380, citing Furman, 2012]])。
->
-> 但 Møller 指出这些发现的方法论局限：研究主要基于校长的自我报告（self-reports），访谈叙事容易沦为"我以我的方式做到了"的英雄故事；且研究设计不容许对更广泛的权力结构进行批判性分析([[Argument_Møller_2017_EERJ|Møller, 2017, p.380-381]])。
+---
 
 ## 争议与批评
 
+> [!debates] 学术争议
+>
+> > [!axis] 个人英雄叙事与分布式协作的断裂
+> > 许多领导力实证研究主要依赖校长的自我陈述，极易滑向过度美化个人能力的英雄主义传奇（Heroic Tales），遮蔽了教师同侪协作与学校深层权力结构。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 380–381)]]
+> >
+> > - **主流管理学研究** 倾向于将学校成败全部归功于个别卓越校长的魄力与决策。
+> > - **批判政策学者** 强调分布式领导与集体实践，批判英雄叙事对制度性不平等的掩盖。
+>
+> > [!axis] [[OECD|经合组织]]（OECD）领导力话语的去政治化包装
+> > OECD 报告将表面中立的最佳实践模型呈现为去政治化的技术操作，忽视了教育改革本质上深嵌于福利再分配与意识形态博弈之中。[[Argument_Møller_2017_EERJ|(Møller, 2017, p. 377)]]
+>
+> > [!axis] 市场竞争驱动与教育正义追求的深层冲突
+> > 在市场驱动的[[School Autonomy|学校自主权]]体制下，校长面临成为自负盈亏企业家的巨大压力，往往导致办学目标向争夺优势生源倾斜，损害了面向边缘群体的教育公平。
 
-### 方法论问题：过度关注个人能力
+> [!critique] 外部制度审视
+> - **校长职业[[Habitus|习性]]的撕裂** 埃科特（Eacott）指出，校长必须同时在教育育人、行政问责与市场竞争三个冲突[[Champ|场域]]中行动，导致其专业习性陷入深层自我分裂。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, pp. 49–51)]]
 
-[[Argument_Møller_2017_EERJ|Møller (2017, p.380-381)]]识别出 ISSPP 类型研究的若干方法论缺陷：
+> [!warning] 适用局限
+> - **校长工作量激增与身心健康危机** 澳大利亚调查显示，过度问责与企业化压力导致校长群体普遍遭受严重身心损耗；在弱势偏远地区甚至出现高达 25 万澳元年薪仍无人应聘的招聘危机，造成优质师资资源在区域间严重倒挂。(Keddie et al., 2020, pp. 439–440)
 
-- **英雄叙事倾向** 成功校长的[[Case Study|案例研究]]容易沦为主角式的"英雄故事"（heroic tales），回到"伟人"领导力理论（citing Thomson, 2009）
-- **将学校领导力等同于校长个人** 尽管 ISSPP 声称分布式领导力更具影响力，研究实践仍倾向于将领导力等同于校长
-- **过度关注个人能力**，遮蔽了校长工作嵌入更广泛社会权力结构的事实
-- **对更广泛的权力结构缺乏批判性分析** 组织视角主导，社会视角缺失；对绩效问责体制的批评更多是隐含的而非明确的
+---
 
-### OECD 话语的去政治化
+## 实证数据
 
-[[Argument_Møller_2017_EERJ|Møller (2017, p.377)]]指出 [[OECD]] 报告将表面上政治中立的"最佳实践"模型呈现为去政治化的，未能承认这些模型仍然是政治化的。OECD 对当前绩效问责氛围没有提出实质性批评，教育所处的权力结构未被问题化。这对任何带有社会正义导向意图的事物尤其成问题，因为它通常需要更具再分配性或福利主义的方法。
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] | 澳大利亚 4 州中小学 906 名教育者（两轮[[Questionnaire\|问卷]]）与 29 名访谈受访者 | 两轮标准化李克特问卷调查与[[In-depth Interview\|深度访谈]]主题分析 | 领导力在[[Research Utilization\|研究使用]]中的使能权重、言行示范认可度与互信文化诉求 | 89% 访谈与 72% 问卷认同领导力为核心驱动力；84% 管理者与 73% 教师认同领导必须言行一致示范转化；82% 视师资与领导互信为关键促成条件；领导支持显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育从业者主观经验自陈，证实了领导力示范在证据利用组织生态中的首要地位 |
+> | [[Argument_Møller_2017_EERJ\|Møller (2017)]] | 20+ 个国家参与的国际成功学校校长项目（ISSPP）多样本 | 跨国质性多[[Case Study\|案例研究]]与叙事综合 | 成功学校校长的跨情境基本实践特征与伦理取向 | 提炼出设定方向、发展人员、组织改进、建立信任与安全环境 5 项基本实践；共同展现强烈的伦理关怀与社会正义承诺 | — | 案例高度依赖校长自我报告，需审慎防范个人英雄故事的方法学偏误 |
+> | Keddie et al. (2020) | 澳大利亚 42 位教育利益相关者（校长、教师工会、教育部官员） | 质性半结构化深度访谈与主题[[Coding in Qualitative Research\|编码]]分析 | 市场驱动[[School Autonomy\|学校自主权]]改革对校长工作性质、伦理实践与身心健康的冲击 | 普遍报告预算裁量缺乏透明度导致公平资金被挪用；校长陷入自利竞争的企业家压力；偏远弱势校面临极端招聘困难（25 万澳元年薪无人问津） | — | 质性揭示市场化自主权改革在特定联邦分权体制下的病态衍生后果 |
 
-### 两个矛盾话语的并存
+---
 
-OECD 同时推崇两个表面上矛盾的话语：一是将学校从科层制转变为专业实践共同体的分布式领导建议，二是[[New Public Management|新公共管理]]的外部控制话语。二者并行运作([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])。
+## 相关研究
 
-## 市场驱动的学校自主权下的校长困境
-
-
-Keddie et al.（2020）基于 42 位澳大利亚教育利益相关者的访谈，系统记录了市场驱动的[[School Autonomy|学校自主权]]改革对校长工作的多重影响：
-
-### 预算自主权与透明度的缺失
-
-在权力下放的系统中，校长获得了对学校全球预算的大量裁量权，但治理不透明："除了校长以外没有人知道这些资金被分配到哪里，因为它是不透明的"（Noah, professional organisation, NSW，引自 Keddie et al., 2020, p.438）。在某些情况下这导致公平资金的滥用——"校长们在使用它做任何事情"（p.438）。这种缺乏透明度的状况使得教育部门难以"对公平资金的支出进行核算和监督"（Keddie et al., 2020, p.438）。
-
-> 例：New South Wales 的 EAL/D 支持项目因校长将资金用于其他优先事项而被削弱——因为"不再有任何对项目的保护"（Noah, NSW，引自 p.438）。公平项目在没有中央指导方针的情况下被系统性侵蚀。
-
-### 企业家压力与伦理妥协
-
-在市场化的背景下，校长被迫"成为企业家，扩大招生，获得最好的分数"（Travis, bureaucrat, Vic，引自 Keddie et al., 2020, p.438）。这种企业家压力导致了"**目标置换**"（goal displacement）——校长专注于改善自己的学校而非改善整个系统。Travis 描述了校长成功的构成在当下的扭曲：
-
-> "谁被捧为年度校长？谁因系统贡献被刊登在通讯中，而非他们扭转了一所挣扎中的学校？"（Keddie et al., 2020, p.438-439）
-
-当企业家精神由竞争和经济[[Rationalism in International Relations|理性主义]]驱动时，它会**损害校长的伦理实践（Keddie et al., 2020, p.438, citing Fullan, 2002; Keddie, 2015; Cranston et al., 2010）**。Victoria 州 IBAC（2017）的调查记录了这一问题的现实性——"将资金滥用和腐败行为的增加归因于缺乏政府监管和监督"（Keddie et al., 2020, p.438）。
-
-### 工作量激增与健康危机
-
-数十年的研究持续将校长的工作激增与"身体健康差、高度身心疲劳和压力"联系起来（Blackmore, 1999; Thomson, 2009; Heffernan & Pierpoint, 2020，引自 Keddie et al., 2020, p.439）。利益相关者报告校长"为某些校长的健康和福祉付出了沉重代价"（Charles, principal, Vic）、"高度压力"和"暴力"（Delia & Nancy, unions）。Heffernan & Pierpoint（2020）的近期报告特别建议：需要更清晰的角色定义、更多样化的福祉项目、持续的定制专业发展、以及更多部门层面的关注以吸引和留住校长（Keddie et al., 2020, p.442）。
-
-### 招聘危机与"错误的地方有最好的校长"
-
-即使在 NSW 部分地区提供**每年 25 万澳元**的激励，"没有人会接受……这是一种悲惨的存在。你将是一个孤独的人，在很长一段时间里"（Norman, bureaucrat, NSW，引自 Keddie et al., 2020, p.439）。这种招聘困难导致"学校系统让一些校长比原本可能的情况更早地到达职位"（Noah, professional organisation, NSW，引自 p.440）。结果是：**经验不足的校长集中在区域、农村、偏远和弱势学校**——"最好的校长在错误的地方（即可能没有那么复杂弱势的大都市地区）"（Kurt, bureaucrat, Vic，引自 p.440）。
-
-### Smyth 的激进替代方案
-
-Smyth（2011）提出的三个政治激进主义命题被 Keddie et al.（2020, p.443）重新确认为回应校长困境的根本方向：
-1. 学校不应被占有性和竞争性个人主义驱动，而应关注**社区和集体行动**
-2. 学校决策应更多由**教育考虑**而非经济学和企业家精神驱动
-3. 学校应从**什么是公正社会**的视角来审视自己的议程
-
-## 相关案例／政策
-
-> [!example] 相关案例／政策
-> - [[OECD Improving School Leadership Project]] — [[OECD]] 的 ISL 项目将学校领导力确立为政策优先议程
-> - [[ISSPP Project]] — 迄今为止最全面的跨国学校领导力研究
-> - [[School Autonomy]] — 市场驱动的学校自主权改革对校长工作条件和工作性质产生深远影响
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 结合[[Monash Q Project|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization|证据使用]]的首要组织杠杆。
+> - [[Argument_Møller_2017_EERJ|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership|变革型领导力]]与批判政策视角反思个人英雄主义偏差。
+> - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 运用[[Pierre Bourdieu|布迪厄]][[Champ|场域]]与[[Habitus|习性]]理论，深入剖析新南威尔士州校长培养方案的管理主义 [[Doxa]]，提出走向教育问题争辩的替代性领导习性。

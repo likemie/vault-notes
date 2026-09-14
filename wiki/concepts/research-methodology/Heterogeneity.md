@@ -6,10 +6,10 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并提示探索调节变量，在混合方法与复杂性理论中揭示统计同质性遮蔽的质性动因多样性与世界的非线性开放特征。"
 type: concept
 domain: "research-methodology"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - heterogeneity
   - meta-analysis
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemic Ideals]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
+  - "[[Teaching Assistant]]"
   - "[[Knowledge Mediation]]"
   - "[[Emergence]]"
   - "[[Positivism]]"
@@ -69,12 +70,13 @@ related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Terhart_2011_JCS]]"
 related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Heterogeneity
@@ -156,8 +158,8 @@ updated: 2026-09-13
 > [!claim] Feinstein & Wrigley
 > **去情境化聚合的解释力虚脱** 当研究者缺乏因果理论指导，将测量口径、干预目标截然不同的研究强行打包合成时，异质性在多级聚合中被逐级清洗，导致结论高度空洞化，并对公共教育决策产生误导。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, pp. 9–10)]]
 
-> [!implication] 政策后果：教学助理（TA）类目的制度性误读
-> 英国《教学与学习工具包》将教学助理（TA）贴上“低影响、高成本”的标签，直接抹杀了“TA 因缺乏与主讲教师备课沟通而被结构性误用”的关键情境异质性。去情境化的单一效应量为财政紧缩削减教育辅助岗位提供了伪科学依据。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
+> [!implication] 政策后果：[[Teaching Assistant|教学助理]]（TA）类目的制度性误读
+> 英国《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》将教学助理（TA）贴上“低影响、高成本”的标签，直接抹杀了“TA 因缺乏与主讲教师备课沟通而被结构性误用”的关键情境异质性。去情境化的单一效应量为财政紧缩削减教育辅助岗位提供了伪科学依据。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
 
 ---
 
@@ -215,7 +217,7 @@ updated: 2026-09-13
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 11, 23, 32)]] — 提出“学校像监狱”100 人质性归因案例，论证单一统计指标对解释异质性的遮蔽，并阐明[[Complexity Theory|复杂性理论]]中异质性作为多重视角与多元[[Paradigm|范式]]倡导的核心公理。
 > - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]中异质性检验的统计学机制（Q、I²、固定/[[Fixed-Effect and Random-Effects Models|随机效应模型]]）及[[Moderator Analysis|调节变量分析]]的理论价值。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析英国 [[Education Endowment Foundation|EEF]] 工具包中的反馈与教学助理项目，解构多级统计聚合抹杀教学情境异质性带来的政策风险。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析英国 [[Education Endowment Foundation|EEF]] 工具包中的反馈与[[Teaching Assistant|教学助理]]项目，解构多级统计聚合抹杀教学情境异质性带来的政策风险。
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 援引反馈研究中高达 38% 的负效应实证数据，论证去情境化平均[[Effect Size|效应量]]的误导性。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 揭示[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》等[[Meta-meta-analysis|元-元分析]]在多级累积聚合中造成原始经验变异与异质信息的不可逆遗失。
 > - [[Argument_Simpson_2017_JEP|Simpson (2017)]] — 实证揭示教育元分析中效应量异质性受制于测量工具有意/无意的人工设计偏差。

@@ -31,6 +31,7 @@ related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Metacognition]]"
   - "[[Problem Solving]]"
+  - "[[Teaching Assistant]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[AI Agent in Education]]"
   - "[[Cultural Capital]]"
@@ -38,7 +39,6 @@ related_concepts:
 related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
 related_methods:
-  - "[[Snowball Sampling]]"
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
 confidence: high
@@ -54,7 +54,7 @@ updated: 2026-09-05
 ## 定义
 
 > [!def] 核心定义
-> 混合式学习（Blended Learning）是指系统性重构学习体验的教学模式，它将传统的面对面实体课堂教学（Face-to-Face Instruction）与基于技术的数字化、[[Snowball Sampling|网络化]]或智能化学习环境有机结合。该模式并非简单的技术叠加或课后录播补充，而是通过精心设计的课程结构，充分发挥物理课堂在具身[[Dialogue in Education|对话]]、情感连接与即时协作方面的优势，同时激活数字环境在弹性节奏、自主探究与个性化自适应支持上的长处，从而在时空融合中促进学习者的深层认知建构与[[Higher-Order Thinking Skills|高阶思维]]发展。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7, 11–12)]]
+> 混合式学习（Blended Learning）是指系统性重构学习体验的教学模式，它将传统的面对面实体课堂教学（Face-to-Face Instruction）与基于技术的数字化、网络化或智能化学习环境有机结合。该模式并非简单的技术叠加或课后录播补充，而是通过精心设计的课程结构，充分发挥物理课堂在具身[[Dialogue in Education|对话]]、情感连接与即时协作方面的优势，同时激活数字环境在弹性节奏、自主探究与个性化自适应支持上的长处，从而在时空融合中促进学习者的深层认知建构与[[Higher-Order Thinking Skills|高阶思维]]发展。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7, 11–12)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 跨越实体物理空间与数字虚拟空间的连续谱教学组织形态。
@@ -157,7 +157,7 @@ updated: 2026-09-05
 ## 概念演变
 
 > [!dev-timeline] 混合式学习的概念演化
-> - **1990s 末–2000s 初 — 媒体补充与技术初兴阶段** 随着早期网络课程管理系统（CMS/LMS）的普及，高校开始尝试将实体面授与课后在线公告、文本论坛相结合，概念多被狭义定义为“面对面教学与计算机辅助教学的混合”。
+> - **1990s 末–2000s 初 — 媒体补充与技术初兴阶段** 随着早期网络课程管理系统（CMS/LMS）的普及，高校开始尝试将实体面授与课后在线公告、文本论坛相结合，概念多被狭义定义为“面对面教学与计算机辅[[Teaching Assistant|助教]]学的混合”。
 >
 >   *此阶段侧重于教学资料的数字化分发与行政事务管理。*
 >

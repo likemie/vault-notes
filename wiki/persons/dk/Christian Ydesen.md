@@ -7,7 +7,7 @@ summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大�
 type: person
 nationality: "dk"
 person_region: "dk"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
   - "[[High-Stakes Testing]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Education-for-Mandates]]"
   - "[[Façade of Rationality]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Christian Ydesen
@@ -113,7 +114,7 @@ updated: 2026-09-12
 >   - **代表著作** *The OECD's Historical Rise In Education: The Formation of a Global Governing Complex* (Palgrave Macmillan, 2019)。
 >   - **关键概念／方法** [[Global Education Governing Complex]]、[[International Indicators of Education Systems]]、[[PISA]]。
 >   - **阶段转向** 拓展至 [[UNESCO]]、OECD 与[[World Bank|世界银行]]三大国际组织之间的三角竞合格局与地缘政治经济分析。
-> - **2023年至今 — 多边治理体系的权力网络与[[Governing by Numbers|数字治理]] 2.0** 深化对跨国[[Policy Brokerage|政策中介]]、知识经纪与[[Soft Power by Hard Facts|以硬事实施展软权力]]机制的批判性研究。
+> - **2023年至今 — 多边治理体系的权力网络与[[Governing by Numbers|数字治理]] 2.0** 深化对跨国[[Policy Brokerage|政策中介]]、[[Educational Brokerage Agency|知识经纪]]与[[Soft Power by Hard Facts|以硬事实施展软权力]]机制的批判性研究。
 >   - **代表著作** *Global Governance of Education* (Springer, 2023); *Governance by numbers 2.0* (Comparative Education, 2024)。
 >   - **关键概念／方法** [[Policy Brokerage]]、[[Soft Power by Hard Facts]]、[[Education-for-Mandates]]、[[Façade of Rationality]]。
 >   - **阶段转向** 结合多学科框架，系统揭示信息过载时代国际组织如何利用数字作为理性表象的[[Scaffolding|脚手架]]实施认知性全球规制。

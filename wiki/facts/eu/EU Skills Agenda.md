@@ -10,7 +10,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Selectivity]]"
 related_theories:
+  - "[[Theory of Change]]"
   - "[[Neocorporatism]]"
 related_methods: []
 related_persons: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: '2026-05-18'
+updated: 2026-09-13
 ---
 
 # EU Skills Agenda
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 
 ### 共同的变革理论
 
-Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theories of Policy Change]]）：[[Innovation Ecosystem|创新生态]]体系与教育培训体系协同演化 → 产生互利增效 → 实现智能、可持续与包容性增长。这一因果叙事未经独立实证检验，而是作为 [[Performance Indicators]] 的内在成分被嵌入政策工具中([[Argument_Rambla_2022_Springer|Rambla, 2022, p.166, 170–171]])。
+Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变革理论]]（[[Theories of Policy Change]]）：[[Innovation Ecosystem|创新生态]]体系与教育培训体系协同演化 → 产生互利增效 → 实现智能、可持续与包容性增长。这一因果叙事未经独立实证检验，而是作为 [[Performance Indicators]] 的内在成分被嵌入政策工具中([[Argument_Rambla_2022_Springer|Rambla, 2022, p.166, 170–171]])。
 
 ## 时间线
 
@@ -95,7 +96,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 
 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（n=168，16 个欧盟地区）揭示了 Skills Agenda 在地方层面的差异化接受([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])：
 
-- **奥地利和德国** 地方专业人员以"学徒制系统"的变革理论来理解和实施[[Lifelong Learning|终身学习]]政策。[[Policy Network|政策网络]]包含传统的[[Neocorporatism|新社团主义]]伙伴——政府、雇主协会和工会的三方合作，在一定程度上缓冲了[[Performance Indicators|绩效指标]]的 [[Selectivity]] 效应（p.172–173）
+- **奥地利和德国** 地方专业人员以"学徒制系统"的[[Theory of Change|变革理论]]来理解和实施[[Lifelong Learning|终身学习]]政策。[[Policy Network|政策网络]]包含传统的[[Neocorporatism|新社团主义]]伙伴——政府、雇主协会和工会的三方合作，在一定程度上缓冲了[[Performance Indicators|绩效指标]]的 [[Selectivity]] 效应（p.172–173）
 - **芬兰** 以"公私民合作"（Public-Private-People-Partnerships）模式运作，终身学习被视为对所有人开放的人类发展服务，而非仅针对失业青年的就业工具（p.173）
 - **苏格兰** 采用"就业管道"（Employment Pipeline）模式，将就业服务、教育培训和非营利支持整合为一条龙网络（p.173）
 
@@ -108,7 +109,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 
 > [!success]
 > - Skills Agenda 成功将"教育培训体系"建构为欧盟政策话语中的核心概念，使其与"[[Innovation Ecosystem|创新生态]]体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱([[Argument_Rambla_2022_Springer|Rambla, 2022, p.170–171]])
-> - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方变革理论内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
+> - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方[[Theory of Change|变革理论]]内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
 
 > [!info]- 核心数据
 > - [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（Horizon 2020, Grant No 693167）：覆盖 16 个欧盟地区，168 名[[Lifelong Learning|终身学习]]政策专家访谈([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])
@@ -129,6 +130,6 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 > - [[Theories of Policy Change]] — 与 [[Innovation Union]] 共享"创新+教育协同演化"的因果叙事
 > - [[Network Governance]] — Skills Agenda 在地方层面的实施呈现官僚制与网络治理的混合模式
 > - [[Youth Guarantee Scheme]] — 将教育与就业衔接制度化的配套政策
-> - [[Innovation Union]] — 同为 [[Europe 2020 Strategy|Europe 2020]] 旗舰，共享变革理论
+> - [[Innovation Union]] — 同为 [[Europe 2020 Strategy|Europe 2020]] 旗舰，共享[[Theory of Change|变革理论]]
 > - [[Europe 2020 Strategy]] — Skills Agenda 所属的十年战略框架
 

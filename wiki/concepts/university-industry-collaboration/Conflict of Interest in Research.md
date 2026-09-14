@@ -1,10 +1,9 @@
 ---
 title: Conflict of Interest in Research
 aliases:
-  - "研究利益冲突"
-  - "conflict of interest"
-  - "COI"
-  - "利益冲突"
+  - 研究利益冲突
+  - conflict of interest
+  - COI
 summary: "当研究者或机构的财务利益可能损害研究客观性、学生独立性或大学首要职责时产生的伦理问题，产学合作中通过披露、审查和审批制度进行管理"
 type: concept
 domain: "university-industry-collaboration"
@@ -13,9 +12,9 @@ related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
-  - "level/higher-education"
-  - "theme/university-industry-collaboration"
-  - "theme/research-governance"
+  - level/higher-education
+  - theme/university-industry-collaboration
+  - theme/research-governance
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Sponsored Research Agreement]]"
@@ -31,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-09-10
+updated: 2026-09-14
 ---
 
 # Conflict of Interest in Research

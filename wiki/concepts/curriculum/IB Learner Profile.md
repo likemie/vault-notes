@@ -7,7 +7,7 @@ aliases:
 summary: "国际文凭组织提出的一组核心育人目标（如探究者、反思者），将组织的全球公民使命操作化为10项具体特质，旨在通过各学科与核心组件的协同培养具有国际情怀和跨学科思维的终身学习者。"
 type: concept
 domain: "curriculum"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Concurrency of Learning]]"
   - "[[Global Citizenship]]"
   - "[[Operationalization]]"
+  - "[[Teaching Assistant]]"
   - "[[Whole Person Education]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-08-17
+updated: 2026-09-14
 ---
 
 # IB Learner Profile
@@ -57,7 +58,7 @@ updated: 2026-08-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者特征将抽象的教育使命（如国际情怀、[[Global Citizenship|全球公民]]）[[Operationalization|操作化]]为师生应具备的 10 个具体认知与行为特质。
-> - **用途** 它充当学校文化的共同语言，帮助教育者评估和引导学生的整体发展，并为无标准答案的探究课程提供对齐标尺。
+> - **用途** 它充当学校文化的共同语言，帮[[Teaching Assistant|助教]]育者评估和引导学生的整体发展，并为无标准答案的探究课程提供对齐标尺。
 > - **边界** 学习者特征描述的是一种发展目标和行为倾向，它难以直接通过单一标准化考试进行量化打分，需要通过长期的探究体验和过程性反思来展现。
 
 > [!citation-card]- 关键表述

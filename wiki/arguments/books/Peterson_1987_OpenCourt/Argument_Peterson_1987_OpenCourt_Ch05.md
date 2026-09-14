@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 23
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Flow]]"
   - "[[Boarding Schools]]"
+  - "[[Teaching Assistant]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[School Leadership]]"
   - "[[Reliability]]"
@@ -51,6 +52,7 @@ related_persons:
   - "[[Alec Peterson]]"
 related_facts:
   - "[[United World Colleges]]"
+  - "[[William T. Grant Foundation]]"
   - "[[Transformation of Singapore International School into United World College of South East Asia]]"
   - "[[Waterford Kamhlaba Admission to United World Colleges]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
@@ -226,7 +228,7 @@ updated: '2026-08-31'
 > - **累计筹资** 到 1983 年约筹得 500 万英镑。
 > - **政府比例** 其中英国政府约 10 万英镑，西德政府约 7.2 万英镑，政府资金只占很小部分。
 > - **最大私人捐助** 马雷西夫妇（Mr and Mrs Maresi）累计为专项工程捐助约 175 万英镑。
-> - **基金会来源** 达尔弗顿信托（Dulverton Trust）与伯纳德·桑利慈善基金会（Bernard Sunley Charitable Foundation）是两项主要基金会来源，福特基金会（Ford Foundation）、格兰特基金会（Grant Foundation）、利弗休姆信托（Leverhulme Trust）和后来的蒙巴顿纪念信托（Mountbatten Memorial Trust）也提供重要资助。
+> - **基金会来源** 达尔弗顿信托（Dulverton Trust）与伯纳德·桑利慈善基金会（Bernard Sunley Charitable Foundation）是两项主要基金会来源，福特基金会（Ford Foundation）、[[William T. Grant Foundation|格兰特基金会]]（Grant Foundation）、利弗休姆信托（Leverhulme Trust）和后来的蒙巴顿纪念信托（Mountbatten Memorial Trust）也提供重要资助。
 > - **企业基础** 超过二十家英国工业公司分别捐助逾 1 万英镑，早期尤以威尔士钢铁企业为主；英国以外来源极少。首校的资金结构因此难以直接支持同时在海外新建书院（p. 101）。
 
 ---
@@ -441,7 +443,7 @@ updated: '2026-08-31'
 > - **1970 年 8 月　实地考察转向樟宜** 汉基、霍尔和威尔斯判断圣约翰无法同时容纳完整国际学校与独立 UWC。樟宜具有可容纳约 300 名师生的建筑、三块运动场、两个泳池和海岸通道，也能回应当地海滩与海上救援需要，再次激活复制大西洋学院的设想（pp. 111–112）。
 > - **1970 年秋　资本、生源和土地共同否决樟宜** 英国政府不提供改建费，新加坡公民入学受限，周边国家难以供给奖学金生，面向日本招生又会与加拿大项目竞争。10 月伦敦晚宴上，李光耀明确认为方案不现实，并要求恢复与贝内特的圣约翰谈判（pp. 112–113）。
 > - **1970 年 10 月　整校关联取代独立高中部** 新加坡国际学校希望自己提供高中教育，而不是把十一、十二年级交给校内另一机构。双方达成务实协议，由整所学校成为 UWC 关联学校，UWC 则通过区域国家委员会为高中部选拔并资助寄宿生。汉基同时提出整校未来成为正式 UWC（pp. 113–114）。
-> - **1971 年 1 月　人员嵌入把协议转为学校实践** 霍尔安排大西洋学院两名资深舍监梅里格·欧文和约翰·戴维分别任校长、教务主任，另派来自芬兰、加拿大、印度和秘鲁的四名毕业生担任助教。第一批 UWC 奖学金生计划于 1972 年 9 月入学（pp. 114–115）。
+> - **1971 年 1 月　人员嵌入把协议转为学校实践** 霍尔安排大西洋学院两名资深舍监梅里格·欧文和约翰·戴维分别任校长、教务主任，另派来自芬兰、加拿大、印度和秘鲁的四名毕业生担任[[Teaching Assistant|助教]]。第一批 UWC 奖学金生计划于 1972 年 9 月入学（pp. 114–115）。
 > - **1971–1972 年　东道国奖学金承诺没有实施** 国际学校董事会认为，要求总理兑现十名新加坡奖学金生的例外会在政治上失当。关联学校作为私立学校的属性没有改变，本国学生因而没有成为计划中的身份核心（p. 115）。
 > - **1972 年 9 月　学校规模超过预期，区域代表仍然不足** 军事家庭的剩余需求使全校人数接近 1,200 人，高于圣约翰原有规模。高中部从 1971 年的 50 人增至 120 人，英国学生比例由 42% 降至 39%；九名 UWC 奖学金生中六名来自澳大利亚，意大利、西班牙和英国各一名，没有东南亚学生（p. 115）。
 > - **1974 年 3 月　关联关系必须作出方向选择** 蒙巴顿访问学校和由 UWC 资助的柔佛丛林中心（Jungle Centre in Johore）后，认为长期维持模糊关联既不能保证共同标准，也不能充分承认学校投入，因此主张终止关联或接纳整校（p. 115）。

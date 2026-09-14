@@ -7,7 +7,7 @@ aliases:
 summary: "在规划、实施或调整政策、项目与服务前系统咨询最佳可用研究证据的审议过程，强调通过六大因果机制改变决策者行为与心理状态的系统框架。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Professional Judgment]]"
   - "[[Literature Search]]"
+  - "[[Professional Learning Community]]"
   - "[[Dialogue in Education]]"
   - "[[Research Literacy]]"
   - "[[Transfer Translation Transformation]]"
@@ -33,7 +34,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
-related_theories: []
+related_theories:
+  - "[[COM-B Model]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
@@ -48,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Evidence-Informed Decision-Making
@@ -82,7 +84,7 @@ updated: 2026-09-13
 > [!contrast-table] 证据知情决策（EIDM） vs. [[Data-Based Decision Making|基于数据的决策]]（DBDM） vs. [[Research-Informed Teaching Practice|研究知情教学实践]]（RITP）
 > | 维度 | 证据知情决策（EIDM） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） |
 > |---|---|---|---|
-> | **核心适用主体** | 教育行政官员、政策制定者、项目规划者 | 学校管理者、教研组长、一线教师 | 课堂任课教师、专业学习共同体 |
+> | **核心适用主体** | 教育行政官员、政策制定者、项目规划者 | 学校管理者、教研组长、一线教师 | 课堂任课教师、[[Professional Learning Community\|专业学习共同体]] |
 > | **主要证据来源** | 外部学术实证文献、[[Systematic Review\|系统综述]]与循证评估报告 | 内部管理数据、标准化测试成绩、课堂形成性记录 | 外部发表的教学法实证研究、[[Meta-analysis\|元分析]]与教师实践证据 |
 > | **核心解释目标** | 解释政策规划与干预背后的**决策者行为改变**因果链 | 解释校本问题诊断与基于指标的精准干预流程 | 解释外部研究在课堂日常教学中的审议转化与三种声音[[Dialogue in Education\|对话]] |
 > | **关键理论代表** | Langer et al. (2016); [[Argument_Torres_2022_KMModels\|Torres (2022)]] | Schildkamp et al. (2017) | Cain (2015); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
@@ -100,7 +102,7 @@ updated: 2026-09-13
 >   4. **沟通可及（Communication）** 通过清晰[[Transfer Translation Transformation|转译]]消除学术晦涩话语，提升证据触达率；
 >   5. **互动机会（Interaction）** 搭建研究者与官员面对面研讨与持续[[Dialogue in Education|对话]]的常态化平台；
 >   6. **结构规程（Structure）** 建立要求在政策出台前必须出具实证证据评估的行政法制规程。
-> - **中介心理状态转化链（Intermediate Psychological Outcomes）** 六大机制作用于中间心理状态——能力、动机与机会（Capability, Motivation, Opportunity / COM-B 行为改变模型），最终驱动实质性[[Research Utilization|证据使用]]行为的发生（[[Argument_Torres_2022_KMModels|Torres, 2022, pp. 46–47]]）。
+> - **中介心理状态转化链（Intermediate Psychological Outcomes）** 六大机制作用于中间心理状态——能力、动机与机会（Capability, Motivation, Opportunity / [[COM-B Model|COM-B]] 行为改变模型），最终驱动实质性[[Research Utilization|证据使用]]行为的发生（[[Argument_Torres_2022_KMModels|Torres, 2022, pp. 46–47]]）。
 
 > [!logic-map]- EIDM 行为改变因果路径
 > ```mermaid
@@ -174,7 +176,7 @@ updated: 2026-09-13
 > [!dev-timeline] 概念演变
 > - **1990s — 证据为本决策（Evidence-Based Policymaking）的兴起** 受循证医学启发，英国布莱尔政府提出“什么有效即是真理”，开启了追求高等级实证证据指导政策的时代。
 > - **2000s — 从 Evidence-Based 向 Evidence-Informed 的现实转向** 政策学者意识到政治博弈、价值冲突与行政情境的制约，“证据知情”（Evidence-Informed）取代“证据为本”，承认证据是决策审议的多元输入之一而非唯一决定者。
-> - **2016 — Langer 等人提出 EIDM 行为改变因果框架** [[EPPI-Centre]] 的 Laurenz Langer 等人发表《The Science of Using Science》，整合行为科学与心理学理论，首次构建以行为改变为终极目标、包含六大机制与 COM-B 中介心理[[Construct|构念]]的 EIDM 分析模型。
+> - **2016 — Langer 等人提出 EIDM 行为改变因果框架** [[EPPI-Centre]] 的 Laurenz Langer 等人发表《The Science of Using Science》，整合行为科学与心理学理论，首次构建以行为改变为终极目标、包含六大机制与 [[COM-B Model|COM-B]] 中介心理[[Construct|构念]]的 EIDM 分析模型。
 > - **2022 — [[OECD]] [[Knowledge Mobilisation|知识动员]]比较中的理论定位** [[Argument_Torres_2022_KMModels|Torres (2022)]] 将 EIDM 确立为补充宏观动员模型理论盲区的前沿微观机制典范，强调其填补了决策端行动者微观因果转化机制的长期空白。
 
 ---

@@ -6,7 +6,7 @@ aliases:
 summary: "主张所有社会现象、制度演进与集体结果必须且只能通过个体行动者的动机、信念、决策与互动来解释的方法论与认识论原则"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
   - "[[Research Literacy]]"
+  - "[[Professional Learning Community]]"
   - "[[Determinism]]"
   - "[[Variable]]"
   - "[[Literature Search]]"
@@ -47,7 +48,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Methodological Individualism
@@ -84,7 +85,7 @@ updated: 2026-09-11
 > | **因果解释逻辑** | 微观个体动机与行为 $
 ightarrow$ 宏观集体现象 | 宏观制度规则与结构权力 $
 ightarrow$ 塑造并规定个体行动 | 微观实践与中观组织、宏观系统跨层双向穿透与协同演化 |
-> | **在教育中的表现** | 测量教师个人的[[Research Literacy\|研究素养]]、态度、时间管理与技能短板 | 分析国家问责体制、升学竞争机制对学校办学行为的决定性制约 | 考察学校组织信任生态、专业学习共同体与多源知识动态整合 |
+> | **在教育中的表现** | 测量教师个人的[[Research Literacy\|研究素养]]、态度、时间管理与技能短板 | 分析国家问责体制、升学竞争机制对学校办学行为的决定性制约 | 考察学校组织信任生态、[[Professional Learning Community\|专业学习共同体]]与多源知识动态整合 |
 > | **潜在理论风险** | 易陷入[[Deficit Framing\|赤字框架]]、循环论证与去情境化的心理主义还原 | 易剥夺教师行动者的主体性，陷入结构[[Determinism\|决定论]]与宿命论 | 概念化与实证观测要求极高，[[Variable\|变量]]网络较为复杂 |
 
 ---

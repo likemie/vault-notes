@@ -32,11 +32,11 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Mechanism Experiments]]"
-  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Network]]"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-08-20
+updated: 2026-09-14
 ---
 
 ## 定义
@@ -89,7 +89,7 @@ updated: 2026-08-20
 > Peterson 的整合方案：**[[Mechanism Experiments|机制实验]]**的因果估计为改进网络中的教师探究提供方向性输入；改进网络的实践洞见反馈回新的机制[[Hypothesis|假设]]以进行实验测试([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])。
 
 
-> [!abstract] [[Snowball Sampling|网络化]]改进社区（Networked Improvement Communities）
+> [!abstract] 网络化改进社区（Networked Improvement Communities）
 > 网络化改进社区是改进科学在教育中的核心组织形式（Bryk et al., 2015）。在社区中，学校群组（或其他组织，如社区学院）围绕一个**共同商定的问题**协作，分享关于他们正在做出的小改变的所学。某些改变逐渐被所有伙伴接受为"改进"，其他改变则在尝试后因失败被拒绝。随时间推移，社区发展出产生更好学生成果的改进实践([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
 
 
@@ -137,7 +137,7 @@ updated: 2026-08-20
 
 
 > [!warning] 与"什么有效"[[Paradigm|范式]]的[[Paradigm Wars|范式战争]]
-> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 301)]] 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（[[Education Endowment Foundation|EEF]]、IES、[[What Works Clearinghouse|WWC]]）中为改进科学争取空间——仍待观察。
+> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 301)]] 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（[[Education Endowment Foundation|EEF]]、[[Institute of Education Sciences|IES]]、[[What Works Clearinghouse|WWC]]）中为改进科学争取空间——仍待观察。
 
 ## 相关案例／政策
 

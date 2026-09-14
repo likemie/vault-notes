@@ -9,7 +9,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Selectivity]]"
 related_theories:
+  - "[[Theory of Change]]"
   - "[[Neocorporatism]]"
 related_methods:
   - "[[Semi-structured Interview]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-14'
-updated: '2026-05-18'
+updated: 2026-09-13
 ---
 
 # YOUNG_ADULLLT
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 >   - 奥地利（2 区）、保加利亚（2 区）、德国（2 区）、西班牙（2 区）
 >   - 芬兰（2 区）、克罗地亚（2 区）、意大利（2 区）、葡萄牙（2 区）、英国（2 区）
 > - **受访者类型** 终身学习政策专家——包括各级政府官员、培训机构管理者、社会伙伴代表、非营利组织负责人等
-> - **核心议题** 区域层面的终身学习政策治理模式、专业人员对政策话语的接受与转化、地方层面的变革理论建构
+> - **核心议题** 区域层面的终身学习政策治理模式、专业人员对政策话语的接受与转化、地方层面的[[Theory of Change|变革理论]]建构
 
 ## 主要发现
 
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 
 ### 制度传统较强的国家
 
-- **德国及邻国**[[Policy Network|政策网络]]以 [[Neocorporatism]] 传统为特征——政府、雇主协会和工会的三方合作构成终身学习治理的核心架构。地方专业人员发展出系统性的变革理论（如"学徒制系统"），为服务提供了连贯的行动框架（p.172–173）
+- **德国及邻国**[[Policy Network|政策网络]]以 [[Neocorporatism]] 传统为特征——政府、雇主协会和工会的三方合作构成终身学习治理的核心架构。地方专业人员发展出系统性的[[Theory of Change|变革理论]]（如"学徒制系统"），为服务提供了连贯的行动框架（p.172–173）
 - **芬兰** 以"公私民合作"（Public-Private-People-Partnerships）模式运作，终身学习被理解为面向所有人、服务于多元生命情境的人类发展服务，而非仅针对失业青年的就业工具（p.173）
 - **苏格兰** 采用"就业管道"（Employment Pipeline）模式，将就业服务、教育培训和非营利支持整合为一条龙网络（p.173）
 
@@ -102,7 +103,7 @@ updated: '2026-05-18'
 
 > [!tip]-
 > - [[Network Governance]] — YOUNG_ADULLLT 的核心发现之一是[[Lifelong Learning|终身学习]]政策的官僚—网络混合治理模式
-> - [[Theories of Policy Change]] — 项目考察了地方专业人员如何内化、转化或自主建构变革理论
+> - [[Theories of Policy Change]] — 项目考察了地方专业人员如何内化、转化或自主建构[[Theory of Change|变革理论]]
 > - [[Selectivity]] — 项目数据为[[Performance Indicators|绩效指标]]体系的选择性效应提供了直接的经验证据
 > - [[Neocorporatism]] — 德国及邻国的新社团主义传统构成了网络治理的重要制度基础
 > - [[Performance Indicators]] — 项目揭示了地方专业人员对 EU 绩效指标体系的差异化回应

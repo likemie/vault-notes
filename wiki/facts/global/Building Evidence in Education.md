@@ -28,6 +28,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
+  - "[[Evidence Standards]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
@@ -37,7 +38,6 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Qualitative Research]]"
-  - "[[Snowball Sampling]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-14
 ---
 
 # Building Evidence in Education
@@ -89,7 +89,7 @@ updated: 2026-09-12
 > - **技术专家与循证网络** 紧密链接阿卜杜勒·拉蒂夫·贾米尔贫困行动实验室（J-PAL）、创新贫困行动组织（IPA）等顶尖实证评估智库。
 
 > [!pathways] 业务运行机制
-> - **证据标准设定** 制定《评估教育证据严谨性与相关性指南》，明确排除缺乏[[Causality|因果推断]]设计的描述性或质性调研报告。
+> - **[[Evidence Standards|证据标准]]设定** 制定《评估教育证据严谨性与相关性指南》，明确排除缺乏[[Causality|因果推断]]设计的描述性或质性调研报告。
 > - **研究议程协同** 各大捐助机构在立项前召开闭门会议，协调资助重点，避免在受援国出现重复性或相互矛盾的实证项目。
 > - **[[Policy Brokerage|政策中介]]协同推送** 将工作组认可的“高确定性证据”打包为标准政策简报，直接注入世界银行贷款附加条件与各国援助战略谈判桌。
 
@@ -130,8 +130,8 @@ updated: 2026-09-12
 > > - **批判学者立场** 揭示其在表面开放透明的数字时代组建排他同盟，将全球南方国家及其本土学者彻底排除在知识标准制定之外，实质是新自由主义证据霸权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 > > - **捐助机构立场** 强调面对受援国紧迫的学习贫困危机，出资方必须对本国纳税人负责，依靠最高科学标准的实证证据优化稀缺资金配置。
 
-> [!citation-card] 排他性同盟与证据标准垄断批判
-> 数字化经济时代的信息过量造成了一种看似矛盾的格局：即便国际组织之间在资金与影响力上激烈竞争，它们仍依赖数据共享与[[Snowball Sampling|网络化]]平台来维持受众。然而，在普遍开放的表象之下，[[Emergence|涌现]]出在排斥其他组织的前提下组建同盟与网络的浪潮，例如由[[World Bank|世界银行]]、英国外交联邦及发展事务部（FCDO）、美国国际开发署（USAID）与一个轮值联合国机构构成的构建教育证据联盟（BE2）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> [!citation-card] 排他性同盟与[[Evidence Standards|证据标准]]垄断批判
+> 数字化经济时代的信息过量造成了一种看似矛盾的格局：即便国际组织之间在资金与影响力上激烈竞争，它们仍依赖数据共享与网络化平台来维持受众。然而，在普遍开放的表象之下，[[Emergence|涌现]]出在排斥其他组织的前提下组建同盟与网络的浪潮，例如由[[World Bank|世界银行]]、英国外交联邦及发展事务部（FCDO）、美国国际开发署（USAID）与一个轮值联合国机构构成的构建教育证据联盟（BE2）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 >
 > *As a result, there is a surge in coalition building and networking activities among some IOs at the exclusion of others, such as in the Building Evidence in Education (BE2) (World Bank Group, FCDO, USAID, and one rotating UN agency) or the [[Learning Data Compact]] ([[UNESCO]], [[UNICEF]], World Bank).*
 

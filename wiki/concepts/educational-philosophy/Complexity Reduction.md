@@ -5,7 +5,7 @@ aliases:
 summary: "通过减少系统中的可用选项数量使社会情境变得更可预测的过程，常用于分析权力如何组织选择空间。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Synectics]]"
+  - "[[Teaching Assistant]]"
   - "[[Document]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: 2026-09-14
 ---
 
 ## 定义
@@ -105,7 +106,7 @@ updated: '2026-05-18'
 > [!warning] 概念的规范方向不明确
 > Biesta 承认复杂性化简可能是"有益的"也可能是"压抑的"——它使教育行动成为可能（没有时间表的学校无法运作），但也使权力行使成为可能（谁决定时间表的内容？）。然而他未提供判断标准来区[[Synectics|分合法]]的化简与非法的化简。
 >
-> > 例：同样的"标准化考试"化简手段，在芬兰被用于辅助教师判断（低风险），在英格兰被用于评估学校和惩罚教师（高风险）——化简本身相同，但合法性与后果截然不同。Biesta 的概念区分了"是什么"但未充分区分"何时好何时坏"。
+> > 例：同样的"标准化考试"化简手段，在芬兰被用于辅[[Teaching Assistant|助教]]师判断（低风险），在英格兰被用于评估学校和惩罚教师（高风险）——化简本身相同，但合法性与后果截然不同。Biesta 的概念区分了"是什么"但未充分区分"何时好何时坏"。
 >
 > - **Biesta 的立场** 复杂性化简作为政治行为的定性，重点在于揭示权力运作而非提供操作指南。([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 498]])
 > - **批评者的立场** 若不能区分合法的与权力的化简，概念的政治批判力大打折扣——任何教育行为都可被表述为"权力"，导致分析模糊。

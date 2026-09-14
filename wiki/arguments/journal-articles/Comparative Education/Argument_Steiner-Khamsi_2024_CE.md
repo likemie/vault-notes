@@ -36,6 +36,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Document]]"
   - "[[Performance Indicators]]"
+  - "[[Knowledge Mediation]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Boundary Spanner]]"
   - "[[Scientific Uncertainty]]"
@@ -49,12 +50,14 @@ related_concepts:
   - "[[Façade of Rationality]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Development Turn in Comparative Education]]"
+  - "[[Teaching Assistant]]"
   - "[[Return on Investment]]"
   - "[[Knowledge Bank]]"
   - "[[Education-for-Mandates]]"
   - "[[Warehousing of Good Practices]]"
   - "[[Social-Emotional Learning]]"
   - "[[Transfer Space]]"
+  - "[[Knowledge Co-production]]"
   - "[[Datafication of Learning]]"
   - "[[Reference Society]]"
   - "[[Normal School]]"
@@ -136,14 +139,14 @@ part_of:
   - "[[Comparative Education]]"
 status: draft
 created: 2026-09-11
-updated: 2026-09-12
+updated: 2026-09-13
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 104
+argument_related_count: 107
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -223,7 +226,7 @@ issuing_organization: ""
 ### 论证步骤一　知识过剩并未消解决策歧义，教育特质倒逼中介机构以量化硬事实构筑理性表象
 
 > [!claim] 步骤一核心主张
-> 在数字经济造成海量证据供给过剩的环境下，政策决策的歧义性并未自发消除；教育领域固有的歧义性、公共争议性与不确定性，迫使决策者和国际组织诉诸具备理性客观表象的量化指标，从而促成中立知识中介向政治化[[Policy Brokerage|政策中介]]的深刻异化。（pp.538–540）
+> 在数字经济造成海量证据供给过剩的环境下，政策决策的歧义性并未自发消除；教育领域固有的歧义性、公共争议性与不确定性，迫使决策者和国际组织诉诸具备理性客观表象的量化指标，从而促成中立[[Knowledge Mediation|知识中介]]向政治化[[Policy Brokerage|政策中介]]的深刻异化。（pp.538–540）
 
 #### 1. 证据供给过剩并未带来理性秩序，反而倒逼出选择性打包知识的政治化政策中介
 
@@ -290,7 +293,7 @@ issuing_organization: ""
 > | **量化规模** | 指标库从 1989 年 116 项扩展至 2018 年 1,600 项；坐拥涵盖 139 国、1,120 项估算的回报率数据库 | 协调[[Education for All\|全民教育（Education for All，EFA）]]等国际基准，但缺乏强制性财政问责机制 |
 > | **脱钩节点** | [[1964 UNESCO-World Bank Cooperative Agreement\|1964 年签署合作协定]]借道入场，[[World Bank Education Sector Policy Paper 1980\|1980 年发布首份独立政策文件]]彻底决裂 | 失去对全球南方教育援助的主导权，退居话语倡导 |
 
-世界银行通过系统资助教育[[Return on Investment|投资回报]]率测算，建立起庞大的应用政策研究体系，为其直接干预借贷国的教育体制奠定了技术合法性。（pp.542, 548）
+世界银行通过系统资[[Teaching Assistant|助教]]育[[Return on Investment|投资回报]]率测算，建立起庞大的应用政策研究体系，为其直接干预借贷国的教育体制奠定了技术合法性。（pp.542, 548）
 
 > [!case] 世界银行[[Global Development Network|全球发展网络]]（GDN）从本土去中心化转向总部集权的演变案例
 > - **转型为“[[Knowledge Bank|知识银行]]”的制度承诺** 1990 年代世界银行加速拓展教育研究职能，于 1999 年发起设立[[Global Development Network|全球发展网络]]（Global Development Network，GDN），承诺支持借贷国本土层面的知识生产与循证决策，改变华盛顿总部对政策知识的单向垄断。（Stone, 2000; p.543）
@@ -384,7 +387,7 @@ issuing_organization: ""
 > **← 单向推送**　·　**程序生态 →**
 >
 > - **第一代：线性知识传播（Linear / Push Models）** 侧重于将科研成果单向推送到决策者手中，关注信息的清晰呈现与有效分发。（p.547）
-> - **第二代：关系协同共建（Relational / Co-production Models）** 关注[[Knowledge Production|知识生产]]者与使用者的双向互动，强调政策知识的双向协商、利益调适与合作生产。
+> - **第二代：关系协同共建（Relational / [[Knowledge Co-production|co-production]] Models）** 关注[[Knowledge Production|知识生产]]者与使用者的双向互动，强调政策知识的双向协商、利益调适与合作生产。
 > - **第三代：程序生态与系统容量（Systems / Procedural Eco-system Models）** 将政策过程程序化解构为动态环节，考察不同决策阶段对研究证据的制度吸收容量，以及维系数据流动的数字平台与区域中介基础设施。
 
 大规模跨国测评的设计者绝不满足于每隔几年发布成绩时引发的公众舆论轰动；正如经合组织 PISA 总设计师[[Andreas Schleicher|安德烈亚斯·施莱歇尔]]（Andreas Schleicher）及其团队所指出的，经合组织定位于为全球公共政策与国际标准制定提供集数据分析、经验交流、最佳实践共享于一体的独特知识枢纽（Schleicher et al., 2021, p. 1）。（p.547）
@@ -447,7 +450,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] [[Policy Brokerage|政策中介]]的政治化实质
-> 当同一个组织不仅将自己在内部生产的知识向外推介，甚至还打着科学理性的旗号，一手包办[[Knowledge Production|知识生产]]、中介推介并资助相关项目时，知识中介与政策中介之间的界限便不再分明。因此，我们在本文中主张使用政策中介而非更为中立的知识中介一词。（p.538）
+> 当同一个组织不仅将自己在内部生产的知识向外推介，甚至还打着科学理性的旗号，一手包办[[Knowledge Production|知识生产]]、中介推介并资助相关项目时，[[Knowledge Mediation|知识中介]]与政策中介之间的界限便不再分明。因此，我们在本文中主张使用政策中介而非更为中立的知识中介一词。（p.538）
 >
 > *Of course, the differentiation between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality. Therefore, we propose to use the term 'policy brokerage' rather than the more neutral term 'knowledge brokerage' throughout this article.*
 

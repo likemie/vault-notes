@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Global Education Governing Complex]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Teaching Assistant]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-14
 ---
 
 # 1964 UNESCO-World Bank Cooperative Agreement
@@ -127,7 +128,7 @@ updated: 2026-09-12
 > > - **技术功能主义史观** 强调协定打破了战后早期的部门孤岛，将宝贵的国际金融流动性首次引入教育贫瘠地区。
 
 > [!citation-card] 合作协定与世行教育治理霸权的形成
-> 在早期，世界银行的教育业务组合与教科文组织几乎完全一致。然而，与世界银行形成鲜明对比的是，联合国教科文组织采取的是人文主义和人权驱动的教育取向。两组织之间的联系通过 1964 年签署的《合作协定》得以确立。在借助教科文组织的帮助获得进入全球南方国家的途径之后，世界银行开始逐渐疏远教科文组织。越来越明显的是，两家机构既不认同彼此的愿景和优先事项，也不认同彼此的治理运作方式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 在早期，世界银行的教育业务组合与教科文组织几乎完全一致。然而，与世界银行形成鲜明对比的是，联合国教科文组织采取的是人文主义和人权驱动的教育取向。两组织之间的联系通过 1964 年签署的《合作协定》得以确立。在借[[Teaching Assistant|助教]]科文组织的帮助获得进入全球南方国家的途径之后，世界银行开始逐渐疏远教科文组织。越来越明显的是，两家机构既不认同彼此的愿景和优先事项，也不认同彼此的治理运作方式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 >
 > *In the early years, the World Bank’s portfolio in education was almost identical to that of UNESCO. In stark contrast to the World Bank, however, UNESCO had a humanistic and human rights-driven approach to education. The connection between the two organisations was sealed through the Co-operative Agreement signed in 1964. After gaining access to countries of the Global South with the help of UNESCO, the World Bank started to distance itself from UNESCO.*
 

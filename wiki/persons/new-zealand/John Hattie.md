@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 110
+person_related_count: 109
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -84,7 +84,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Comparative Meta-synthesis]]"
   - "[[In-depth Interview]]"
-  - "[[Snowball Sampling]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
@@ -140,7 +139,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 # John Hattie
 
@@ -249,7 +248,7 @@ updated: 2026-09-11
 > [!citation-card] 奥尼尔等人论政策创业与公共/商业利益的无缝融合
 > Hattie 如今的全球社交网络方式可以被合理地描述为公共福利、非营利和营利性政策创业与倡导的无缝融合。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix)]]
 >
-> *“Hattie's present modus operandi in global [[Snowball Sampling|networking]] might reasonably be characterised as a seamless blend of public good, not-for-profit and for-profit policy entrepreneurship and advocacy.”*
+> *“Hattie's present modus operandi in global networking might reasonably be characterised as a seamless blend of public good, not-for-profit and for-profit policy entrepreneurship and advocacy.”*
 
 > [!citation-card] 特哈特论可见性治理与新自由主义中央集权
 > 很明显 Hattie 事实上没有找到圣杯……这场论战实质上是自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 435)]]

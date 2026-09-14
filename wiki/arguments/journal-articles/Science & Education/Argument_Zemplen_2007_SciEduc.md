@@ -43,6 +43,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Evidence Standards]]"
   - "[[Leading Questions]]"
   - "[[Dialogue in Education]]"
   - "[[Lifelong Learning]]"
@@ -77,14 +78,14 @@ sources:
   - "[[sources/Zemplen_2007_SciEduc/Zemplen_2007_SciEduc|Zemplen_2007_SciEduc]]"
 status: draft
 created: 2026-07-04
-updated: 2026-09-07
+updated: 2026-09-13
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -448,7 +449,7 @@ issuing_organization: ""
 > - **论证被分析为旨在解决意见分歧的言语行为序列** 语用辩证路径考察论证话语在多大程度上有助于解决辩论（Eemeren & Grootendorst, 2004）。它基于一般语用考量，纳入辩证分析。模型具有规范性维度，论证被作为一系列言语行为来对待（Eemeren & Grootendorst, 1984）。
 > - **谬误被重新解释为批判性讨论规则的脱轨** 特定标准被引入，以最能支持评价的方式指导论证的重构和分析。模型将传统谬误类型学纳入统一的程序模型（Eemeren & Grootendorst, 1992），最近的尝试也整合了修辞学洞察（Eemeren & Houtlosser, 2002）。
 > - **可以在不增加教学负担的前提下整合形式逻辑和非形式逻辑** 基本宗旨在一本简短的教科书中被概述（Eemeren et al., 2002）。这本教科书短小、简洁，显示可以将形式逻辑和非形式逻辑以及谬误类型学的洞察重新组织成一个连贯的批判性讨论系统，而不增加教学负担。
-> - **解决导向而非受众导向** 修辞学关心如何说服特定受众（什么话在什么场合最有效），语用辩证路径关心如何解决意见分歧（什么论证程序最有可能导向合理的共识）。后者的规范性立场更接近科学家对自身工作的理解：科学争议不是通过修辞取胜来解决的，而是通过一套共享的论证规则和证据标准。这种亲和性使得语用辩证路径比修辞学路径更容易被科学教师接受。
+> - **解决导向而非受众导向** 修辞学关心如何说服特定受众（什么话在什么场合最有效），语用辩证路径关心如何解决意见分歧（什么论证程序最有可能导向合理的共识）。后者的规范性立场更接近科学家对自身工作的理解：科学争议不是通过修辞取胜来解决的，而是通过一套共享的论证规则和[[Evidence Standards|证据标准]]。这种亲和性使得语用辩证路径比修辞学路径更容易被科学教师接受。
 
 > [!proc] 课堂实施流程（p.187）
 > 1. **从古希腊辩证法的根源开始**

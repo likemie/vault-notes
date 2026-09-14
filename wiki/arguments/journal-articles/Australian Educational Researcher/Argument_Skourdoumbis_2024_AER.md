@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Educational Neuroscience]]"
   - "[[Classroom Management]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Evidence Standards]]"
   - "[[Ontology]]"
   - "[[Axiology]]"
   - "[[Theoretical Standpoint]]"
@@ -76,7 +77,7 @@ part_of: ''
 related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-09-07
+updated: 2026-09-13
 year: 2024
 doi: ""
 citation_aliases:
@@ -238,7 +239,7 @@ citation_aliases:
 > - **封闭自我评级方 ([[Centre for Evidence and Implementation|CEI]])** 受 AERO 委托做桌面审查，但评估结论和专家的咨询多出自其自身组织和已有的“什么有效”中心，构成封闭的知识在生产循环。
 
 > [!warrant]- 推理桥梁
-> 证据中介机构（IOs）如 AERO，其制度生存极其依赖“将研究证据标准化、工具化和垄断化”的业务需求。它们必须不断向政府证明，大学生产的教育研究是“无用的、非科学的”，只有经过它们评级、包装的“证据”才是“有效的”。Jenny Donovan 等人同时跨越“证据生产方”、“证据评级方”和“政策制定方”的边界，促成了利益生态的闭环。通过将未发表的内部报告上升为国家法律层面的必修标准，AERO 成功确立了自己在澳大利亚教育证据生态中的垄断性权力。
+> 证据中介机构（IOs）如 AERO，其制度生存极其依赖“将研究[[Evidence Standards|证据标准]]化、工具化和垄断化”的业务需求。它们必须不断向政府证明，大学生产的教育研究是“无用的、非科学的”，只有经过它们评级、包装的“证据”才是“有效的”。Jenny Donovan 等人同时跨越“证据生产方”、“证据评级方”和“政策制定方”的边界，促成了利益生态的闭环。通过将未发表的内部报告上升为国家法律层面的必修标准，AERO 成功确立了自己在澳大利亚教育证据生态中的垄断性权力。
 
 ---
 

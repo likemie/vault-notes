@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -50,10 +50,12 @@ related_concepts:
   - "[[Document]]"
   - "[[Soft Power]]"
   - "[[Conatus]]"
+  - "[[Knowledge Co-production]]"
   - "[[Research Impact]]"
   - "[[Research Proposal]]"
   - "[[Governance by Spin]]"
   - "[[Chain of Evidence]]"
+  - "[[Evidence Standards]]"
   - "[[Growth]]"
   - "[[Academic Engagement]]"
   - "[[Blue Skies Research]]"
@@ -79,7 +81,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-13
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch06
 
@@ -243,7 +245,7 @@ updated: 2026-09-04
 
 #### 主题三：动机结构的分化：告知主导与上游共创的初兴（p. 96）
 
-在科研人员投身参与的具体动力维度上，调查数据揭示了动机构成的多层次特征：虽然单向“告知公众”（70%）依然是绝对主导的驱动力，且学者对“彰显研究的社会相关性”（60%）和“享受参与乐趣”（58%）的认同度居高不下，但以双向对话与深度倾听为特征的参与模式正在快速萌芽——包括通过[[In-depth Interview|深度访谈]]、民意[[Questionnaire|问卷]]开展的“政策咨询型参与”（Consultation），以及涉及课题联合设计、社区科研能力建设、[[Participatory Action Research|参与式行动研究]]与大规模公民科学的“协同共创型参与”（Collaborative / Co-production activities）（图 8，p. 96）。
+在科研人员投身参与的具体动力维度上，调查数据揭示了动机构成的多层次特征：虽然单向“告知公众”（70%）依然是绝对主导的驱动力，且学者对“彰显研究的社会相关性”（60%）和“享受参与乐趣”（58%）的认同度居高不下，但以双向对话与深度倾听为特征的参与模式正在快速萌芽——包括通过[[In-depth Interview|深度访谈]]、民意[[Questionnaire|问卷]]开展的“政策咨询型参与”（Consultation），以及涉及课题联合设计、社区科研能力建设、[[Participatory Action Research|参与式行动研究]]与大规模公民科学的“协同共创型参与”（Collaborative / [[Knowledge Co-production|co-production]] activities）（图 8，p. 96）。
 
 > [!example]- 图8：英国科研人员投身公众参与的核心动机变化（2006–2025，p. 96）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig8_Motivations_for_Engagement.jpg)
@@ -371,7 +373,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > | **评估剖面设置** | 影响力与商业转化强绑定，缺乏对公共对话与公众参与的独立考评分类 | **设立独立的“参与与影响”（Engagement and Impact）考评剖面** | 彻底打破商业变现垄断，为长周期认知转变与信任构建赋予同等评价地位 |
 > | **科研环境考核** | 环境部分偏重科研产出总量与传统设施，未硬性审查社会参与制度保障 | **环境部分（SPRE）强制要求论证公众科学参与长效规划与文化培育** | 倒逼大学校长与管理层建立全校性参与战略，防止口号化宣称 |
 > | **人员编制核算** | 专职公众参与专业人员被排斥在国家科研人员数据库之外，属于“隐形劳动” | **首次将大学聘用的专职参与专业人员（Engagement Professionals）编制纳入核算** | 为大学设立常设性专业支持团队提供国家评估回报，稳定专业队伍 |
-> | **因果证据标准** | 严苛要求类似于专利产值或技术授权的线性归因硬指标，忽视弥散性成效 | **广泛承认参与案例中合乎逻辑的深层证据链与质性社会效益阐释** | 消除大学申报公众参与案例的畏难情绪，全面激活 50% 案例的参与潜能 |
+> | **因果[[Evidence Standards\|证据标准]]** | 严苛要求类似于专利产值或技术授权的线性归因硬指标，忽视弥散性成效 | **广泛承认参与案例中合乎逻辑的深层证据链与质性社会效益阐释** | 消除大学申报公众参与案例的畏难情绪，全面激活 50% 案例的参与潜能 |
 
 ---
 

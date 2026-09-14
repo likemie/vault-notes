@@ -10,7 +10,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
-  - "[[Snowball Sampling]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-14
 ---
 
 # Learning Data Compact
@@ -133,7 +132,7 @@ updated: 2026-09-12
 > [!citation-card] 数字时代多边数据联盟的割据与竞争
 > 在数字化时代信息海量制造的背景下，国际组织之间形成了一种矛盾的格局：一方面依赖开放平台维持受众，另一方面在排斥其他机构的前提下构建狭隘联盟。[[World Bank|世界银行]]联合英美援助署组建了[[Building Evidence in Education|构建教育证据联盟]]（BE2），而[[UNESCO|联合国教科文组织]]、[[UNICEF|儿童基金会]]与世界银行则设立了学习数据契约（Learning Data Compact），彼此在数据标准与[[Policy Brokerage|政策中介]]的主导权上展开激烈割据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 >
-> *As a result, there is a surge in coalition building and [[Snowball Sampling|networking]] activities among some IOs at the exclusion of others, such as in the Building Evidence in Education (BE2) (World Bank Group, FCDO, USAID, and one rotating UN agency) or the Learning Data Compact (UNESCO, UNICEF, World Bank).*
+> *As a result, there is a surge in coalition building and networking activities among some IOs at the exclusion of others, such as in the Building Evidence in Education (BE2) (World Bank Group, FCDO, USAID, and one rotating UN agency) or the Learning Data Compact (UNESCO, UNICEF, World Bank).*
 
 > [!lessons] 经验教训与启示
 > 数据基础设施本身就是权力体系。多边组织如果仅沉迷于建立自上而下的跨国测验网络，而忽视受援国教师微观教学能力的实质改善，最终只能制造出更加庞大却脱离教学实际的数字官僚泡沫。

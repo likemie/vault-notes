@@ -9,7 +9,7 @@ aliases:
 summary: "具备物理具身或外显虚拟实体的人工智能交互系统，通过语音、表情、手势与多模态感知，在语言伴读、程序演练与跨学科探究中提供示范、协作与情感激励。"
 type: concept
 domain: "educational-technology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - instruction/multimodal-learning
 related_concepts:
   - "[[Avatar]]"
+  - "[[Teaching Assistant]]"
   - "[[Dialogue in Education]]"
   - "[[Presence]]"
   - "[[Champ]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-14
 ---
 
 # Educational Robotics
@@ -55,7 +56,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 教育机器人（Educational Robotics / AI Educational Robotics）是指应用于教育教学情境中、具备物理实体具身（Physical Embodiment）或高度外显拟人化虚拟[[Avatar|化身]]（Virtual Avatar）的人工智能交互系统。该系统整合了机器视觉、语音识别、自然语言处理与多模态感知技术，能够以同伴学习者（Peer Learner）、教学助手（Teaching Assistant）或陪伴导师（Companion Tutor）的社会性角色，与学生展开面对面的口语[[Dialogue in Education|对话]]、手势示范与触觉协同操作。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2–3, 6)]]
+> 教育机器人（Educational Robotics / AI Educational Robotics）是指应用于教育教学情境中、具备物理实体具身（Physical Embodiment）或高度外显拟人化虚拟[[Avatar|化身]]（Virtual Avatar）的人工智能交互系统。该系统整合了机器视觉、语音识别、自然语言处理与多模态感知技术，能够以同伴学习者（Peer Learner）、教学助手（[[Teaching Assistant]]）或陪伴导师（Companion Tutor）的社会性角色，与学生展开面对面的口语[[Dialogue in Education|对话]]、手势示范与触觉协同操作。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2–3, 6)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于无物理形态的纯屏幕软件，教育机器人具有“具身性”（Embodiment）与社会存在感（Social [[Presence]]），通过动作、视线接触与空间物理位置建立沉浸式人机互动[[Champ|场域]]。
@@ -79,7 +80,7 @@ updated: 2026-08-25
 > | 维度 | 教育机器人（Educational Robotics） | [[Intelligent Tutoring Systems\|智能导师系统]]（[[Time Series Design\|ITS]]） | [[Conversational AI in Education\|对话式智能体]]（Conversational AI） |
 > |---|---|---|---|
 > | **物理形态** | 具有物理实体（如仿人机器人、伴读机）或拟人化 3D 具身实体 | 纯软件界面，通常嵌入学习管理系统或题库 | 文本输入框或语音交互界面 |
-> | **角色定位** | 伴读同伴、游戏玩伴、实体助教 | 严谨权威的个性化导师、知识诊断者 | 实时[[Dialogue in Education\|对话]]搭子、语法润色助手 |
+> | **角色定位** | 伴读同伴、游戏玩伴、实体[[Teaching Assistant\|助教]] | 严谨权威的个性化导师、知识诊断者 | 实时[[Dialogue in Education\|对话]]搭子、语法润色助手 |
 > | **核心优势** | 极强的社会情感存在感与动作示范力 | 极高的步骤级推理精度与知识追踪深度 | 极低的使用门槛与灵活的多轮语言交互 |
 > | **[[Meta-analysis\|元分析]]促学效应** | $g = 0.474$（$p < .001$） | $g = 0.540$（$p < .001$） | $g = 0.468$（$p < .001$） |
 

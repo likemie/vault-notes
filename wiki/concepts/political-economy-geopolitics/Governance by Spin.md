@@ -6,7 +6,7 @@ aliases:
 summary: "一种试图管理、遏制或使政策争议不可见的治理过程，同时运作于公众感知控制和政策本身的构建两个层面，在教育研究中用于解释国家政策话语为何以及如何将矛盾声明组合进同一份政策文件"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Participatory Research]]"
-  - "[[Snowball Sampling]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Jason Beech]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-06-24
+updated: 2026-09-14
 ---
 
 # Governance by Spin
@@ -77,7 +76,7 @@ updated: 2026-06-24
 > 以上核心要素梳理自：[[Argument_Beech_2009_CE|Beech, 2009, pp. 356–358]]
 
 > [!factors] 决定国家使用舆论操控的结构因素
-> - **网络国家的转型** 国家已转变为多层次、多元机构构成的[[Snowball Sampling|网络化]]决策体。面对相互竞争甚至对立的多方利益相关者，国家必须依靠舆论操控来妥协各方诉求。
+> - **网络国家的转型** 国家已转变为多层次、多元机构构成的网络化决策体。面对相互竞争甚至对立的多方利益相关者，国家必须依靠舆论操控来妥协各方诉求。
 > - **合法性挽回与维持** 在超国家网络的[[Performativity|操演性]]考量与国内行政传统的博弈下，国家使用舆论操控来调和全球改革话语与本国特定历史传统的冲突，以维系执政合法性。
 >
 > 结构因素分析见：[[Argument_Beech_2009_CE|Beech, 2009, pp. 357–358]]

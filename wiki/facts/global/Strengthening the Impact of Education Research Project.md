@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_instruments:
   - "[[Strengthening the Impact of Education Research Policy Survey]]"
 related_persons:
   - "[[Tracey Burns]]"
+  - "[[David Gough]]"
   - "[[Jonathan Sharples]]"
 related_facts:
   - "[[OECD]]"
@@ -92,7 +93,7 @@ updated: 2026-09-13
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2021 年正式立项并启动第一阶段调查；2022 年 11 月发布首阶段综合研究著作；目前处于深入各专题机制评估的常态化推进阶段。
-> - **发起方与资助机制** 由 OECD CERI 理事会决议立项，在 OECD 第二部分（Part II）预算框架与成员国专项自愿捐助下运行，Nóra Révai 担任项目主任并组建跨学科专家顾问委员会（汇聚 [[Tracey Burns]]、David Gough、[[Jonathan Sharples]]、Annette Boaz 等学者）。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 4, 16)]]
+> - **发起方与资助机制** 由 OECD CERI 理事会决议立项，在 OECD 第二部分（Part II）预算框架与成员国专项自愿捐助下运行，Nóra Révai 担任项目主任并组建跨学科专家顾问委员会（汇聚 [[Tracey Burns]]、[[David Gough]]、[[Jonathan Sharples]]、Annette Boaz 等学者）。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 4, 16)]]
 > - **覆盖范围与对象** 调查覆盖 29 个 OECD 成员国与伙伴经济体的 37 个国家或次国家级（联邦制下各省/州）教育部及教育主管厅局，并跟进访谈 6 个代表性国家的决策高官。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 25–26)]]
 > - **核心问题导向** 破解[[Evidence-Based Education|循证教育]]二十年来的元研究困境——在各类中介机构激增的背景下，究竟何种组织结构、关系网络、激励机制与专业能力能够切实促成教育研究的高质量使用（What works in what works）。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–17)]]
 

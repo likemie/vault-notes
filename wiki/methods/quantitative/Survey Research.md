@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 68
+method_related_count: 75
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,6 +45,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Attrition]]"
   - "[[Pre-test Sensitisation]]"
+  - "[[Embedded Researcher]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -79,22 +81,27 @@ related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[In-depth Interview]]"
+  - "[[Likert Scale]]"
 related_persons: []
 related_facts:
   - "[[Public Attitudes to Science]]"
   - "[[Parliamentary Office of Science and Technology]]"
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Monash Q Project]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Hill_2022_FacilitatingActors]]"
+  - "[[Argument_Torres_2022_BarriersMechanisms]]"
+  - "[[Argument_Rickinson_2022_UsingResearchWell]]"
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Survey Research
@@ -326,9 +333,6 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国代表性成年抽样 $N = 5,281$）及科研人员参与[[Questionnaire|问卷调查]]的大样本定量数据，全面评估数字智能环境下公众科学信息获取渠道、真实性信任度以及学术共同体开展公众参与面临的体制性阻碍；并在[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|第五章]]中委托 YouGov 对 108 名英国国会议员（MPs）开展专属问卷调查，定量揭示立法决策者在科学信源选择上的偏误结构（55% 依赖智库 vs 仅 22% 依赖[[Parliamentary Office of Science and Technology|议会科学技术办公室]]），并测度公众对科学政策民主咨询的强烈诉求。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 在第六章中系统利用 Technopolis 受托执行的《影响英国科研人员公众参与的因素调查 2025》（Factors Affecting Public Engagement by UK Researchers 2025），通过与 2006 年及 2015 年前序调查的重复横截面大样本比较，定量揭示科研人员参与覆盖率（85%）与道德认同（83%）的高涨趋势，以及时间压力激增（75%）与高校职称考评激励匮乏（仅 25% 认为有助于晋升）构成的核心制度瓶颈。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 25–27)]] — 在[[OECD|经合组织]]（OECD）旗舰著作第一章中，介绍“[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]”实施的跨国标准化政策调查（涵盖 29 国 37 个教育系统教育部）与 6 国跟进[[In-depth Interview|深度访谈]]，系统映射各国教育行政决策中教育研究生产、中介促成与实践转化的制度全景，诊断时间匮乏、格式不便与学术考评体制激励错位等结构性壁垒。
-> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 75–102)]] — 在 OECD 编著第四章中，系统运用跨国政策调查（覆盖 29 国 37 个教育系统教育部）的标准化定量数据（5 点与 6 点李克特量表测度），对 17 类组织行动者在研究生产与政策/实践促成维度的活跃度、教育部人际与组织网络规模与强度、嵌入式研究者等专业角色分布、研究生产周期的各阶段介入、内在与外在激励机制，以及政策制定者人际互动的交易型特征展开全方位量化剖析与跨国比较。
-> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022, pp. 103–124)]] — 在 OECD 编著第五章中，基于经合组织 29 国 37 个教育系统教育部的标准化政策调查问卷与 6 国跟进访谈数据，定量测度与跨国比较促进教育研究利用的 11 类机制、13 类阻碍障壁的发生率与优先级排序，揭示机制数量与障壁感知的非对称错配，以及教育研究生产协调机制的制度化短板。
-
-
-
-
+> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 75–102)]] — 在 OECD 编著第四章中，系统运用跨国政策调查（覆盖 29 国 37 个教育系统教育部）的标准化定量数据（5 点与 6 点[[Likert Scale|李克特量表]]测度），对 17 类组织行动者在研究生产与政策/实践促成维度的活跃度、教育部人际与组织网络规模与强度、[[Embedded Researcher|嵌入式研究者]]等专业角色分布、研究生产周期的各阶段介入、内在与外在激励机制，以及政策制定者人际互动的交易型特征展开全方位量化剖析与跨国比较。
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022, pp. 103–124)]] — 在 OECD 编著第五章中，基于经合组织 29 国 37 个教育系统教育部的标准化政策调查问卷与 6 国跟进访谈数据，定量测度与跨国比较促进教育[[Research Utilization|研究利用]]的 11 类机制、13 类阻碍障壁的发生率与优先级排序，揭示机制数量与障壁感知的非对称错配，以及教育研究生产协调机制的制度化短板。
+> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022, pp. 182–199)]] — 在经合组织（OECD）编著第九章中，基于[[Monash Q Project|莫纳什 Q 项目]]对澳大利亚 4 个州（新南威尔士、维多利亚、昆士兰、南澳）906 名教育工作者开展的两轮大规模问卷调查（Survey 1 探索实践中的研究认知与使用，$N = 492$；Survey 2 调查研究使用的促成与阻碍因素，$N = 414$），运用 SPSS 进行[[Descriptive Analysis|描述统计]]与 Fisher 精确检验，定量揭示教师研究质量判断信心、校内外专业学习支持、受保障的研究研讨时间与一线常规研究使用之间的显著正向关联。

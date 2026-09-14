@@ -10,7 +10,7 @@ summary: "实验研究中使实验者或受试者不知道受试者所属研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Hawthorne Effect]]"
   - "[[Experimenter Bias]]"
+  - "[[Teaching Assistant]]"
   - "[[Informed Consent]]"
 related_methods:
   - "[[Experimental Research]]"
@@ -31,7 +32,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 # Blinding
 
@@ -59,7 +60,7 @@ updated: 2026-09-11
 > | **双盲（Double-Blind）** | 否 | 否——由第三方持有组别信息 | 参与者预期效应 + [[Experimenter Bias\|实验者偏差]] | 较低——教师通常知道自己使用的教学方法 |
 > | **无盲法（Open-Label）** | 是 | 是 | 无 | 最高——但偏差风险最大 |
 
-教育研究中单盲比双盲更容易实施。在比较计算机辅助教学与传统面授时，教师和学生不可能不知道该组使用的是哪种教学方式——此时双盲在操作上不可行。替代策略包括使用客观的结果测量（如标准化测试而非教师主观评分）来降低偏差风险（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。
+教育研究中单盲比双盲更容易实施。在比较计算机辅[[Teaching Assistant|助教]]学与传统面授时，教师和学生不可能不知道该组使用的是哪种教学方式——此时双盲在操作上不可行。替代策略包括使用客观的结果测量（如标准化测试而非教师主观评分）来降低偏差风险（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。
 
 ---
 
@@ -90,7 +91,7 @@ updated: 2026-09-11
 ## 争议与批评
 
 > [!warning] 盲法的操作边界
-> - 在比较计算机辅助教学与传统面授等有明显物理差异的干预时，完全盲法在操作上难以实现——受试者和教师不可能不知道自己使用的是计算机还是面对面授课。
+> - 在比较计算机辅[[Teaching Assistant|助教]]学与传统面授等有明显物理差异的干预时，完全盲法在操作上难以实现——受试者和教师不可能不知道自己使用的是计算机还是面对面授课。
 > - 当盲法不可行时，研究者应在方法部分诚实说明其局限，替代策略包括使用客观结果测量（如标准化测试）来降低偏差风险。
 > - "误导"策略虽然有效，但引发伦理争议——故意欺骗参与者与[[Informed Consent|知情同意]]原则存在张力，需要满足严格的正当性条件。
 

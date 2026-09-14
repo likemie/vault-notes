@@ -10,9 +10,9 @@ title: "Argument_Ross_Morrison_2021_ROE"
 argument_key: "Argument_Ross_Morrison_2021_ROE"
 argument_display_title: "Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Ross, S. M., & Morrison, J. R. (2021). Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges. ECNU Review of Education, 4(1), 108-127."
@@ -25,6 +25,7 @@ tags:
   - method/formative-evaluation
 related_concepts:
   - "[[Research Question]]"
+  - "[[Evidence Standards]]"
   - "[[Evidence-Based Education]]"
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
@@ -63,7 +64,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-23
-updated: '2026-06-08'
+updated: 2026-09-13
 year: 2021
 doi: ""
 citation_aliases:
@@ -75,7 +76,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有证据标准常把有效性压缩为严格实验中的统计显著成就效果(pp.109-112)。
+> 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有[[Evidence Standards|证据标准]]常把有效性压缩为严格实验中的统计显著成就效果(pp.109-112)。
 
 ## 理论框架
 
@@ -105,7 +106,7 @@ citation_aliases:
 > [!example] 例子
 > 一个学区要采购阅读软件。证据运动要求它先问“这个软件是否有严格研究支持”，而不是只问“供应商演示好不好看”或“邻近学区是否买了”。
 
-3. 证据运动确实带来好处：实践者更关心可信研究，WWC and Evidence for ESSA 扩展了证据可及性，州和学区也开始用证据标准审查项目(p.110)。
+3. 证据运动确实带来好处：实践者更关心可信研究，WWC and Evidence for ESSA 扩展了证据可及性，州和学区也开始用[[Evidence Standards|证据标准]]审查项目(p.110)。
 
 ### 第二层：严格证据会把“有效性”压缩得过窄
 

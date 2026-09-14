@@ -6,7 +6,7 @@ aliases:
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观、存在唯一正确答案的事实。"
 type: concept
 domain: "educational-psychology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
+  - "[[Teaching Assistant]]"
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
   - "[[Variable]]"
@@ -26,7 +27,7 @@ related_persons:
   - "[[Deanna Kuhn]]"
 status: active
 created: 2026-08-15
-updated: 2026-08-16
+updated: 2026-09-14
 ---
 
 # Absolutist
@@ -40,7 +41,7 @@ updated: 2026-08-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 标志着个体在“[[Certainty of Knowledge|知识的确定性]]”与“[[Justification for Knowing|认知的辩护]]”上处于最低层级，完全被客观维度主导。
-> - **用途** 帮助教育者识别学生所处的认识论发展位置，解释他们为何对存在合理争议的议题持非黑即白的态度。
+> - **用途** 帮[[Teaching Assistant|助教]]育者识别学生所处的认识论发展位置，解释他们为何对存在合理争议的议题持非黑即白的态度。
 > - **边界** 个体在某一领域是绝对论者，不代表其在所有领域都是绝对论者。通常个体在事实领域维持绝对论的时间最长。
 
 ---

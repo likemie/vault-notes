@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Big Ideas]]"
   - "[[Artefact]]"
+  - "[[Teaching Assistant]]"
   - "[[Epistemic Ascent]]"
 related_theories:
   - "[[Social Realism]]"
@@ -304,7 +305,7 @@ citation_aliases:
 > - 例如，英语学科的大概念混合了知识陈述（如「交流依赖于共享的符码和惯例」）和论证学科重要性的陈述（如「故事是快乐和营养的源泉」），后者放在目的声明部分更为合适
 > - 课程文件因此缺乏内在的逻辑性和凝聚力，根源在于没有一套清晰的认识论「意义系统」来统领课程设计
 >
-> **声称与现实的矛盾** 课程文件声称该结构「清晰且易于使用」(p.5)，但作者作为学者发现其多层次结构实际上相当复杂，怀疑这一结构能否帮助教师厘清认识论知识，从而为[[Surface and Deep Learning|深层学习]]所需的课程设计连贯性和逻辑提供支撑。
+> **声称与现实的矛盾** 课程文件声称该结构「清晰且易于使用」(p.5)，但作者作为学者发现其多层次结构实际上相当复杂，怀疑这一结构能否帮[[Teaching Assistant|助教]]师厘清认识论知识，从而为[[Surface and Deep Learning|深层学习]]所需的课程设计连贯性和逻辑提供支撑。
 
 ---
 

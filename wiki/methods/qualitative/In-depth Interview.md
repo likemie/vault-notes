@@ -8,9 +8,9 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 45
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 51
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -40,8 +40,11 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
   - "[[Going Native]]"
+  - "[[School Leadership]]"
+  - "[[Poor Research Use]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[Qualitative Interview]]"
   - "[[Sample Size Determination]]"
@@ -58,9 +61,11 @@ related_methods:
   - "[[Member Checking]]"
   - "[[Questionnaire]]"
   - "[[Focus Group]]"
+  - "[[Qualitative Codebook]]"
 related_persons: []
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Cole_2015_AJE]]"
@@ -68,10 +73,11 @@ related_arguments:
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Wang_2025_CE]]"
+  - "[[Argument_Rickinson_2022_UsingResearchWell]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-09-14
 ---
 
 # In-depth Interview
@@ -212,3 +218,4 @@ updated: 2026-07-22
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 多元文化视角儒家传统，37 名 15 个民族大学生。
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025)]] — 农村[[Peidu|陪读]][[School Choice|择校]]，128 人（家长、教师、官员），2018 + 2023 回访。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 中国学校 [[Learner-Centred Education|LCE]] [[Going Native|本土化]]，4 位校长 9 位教师。
+> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022, pp. 182–199)]] — 在[[OECD|经合组织]]（OECD）编著第九章中，对来自澳大利亚 4 个州的 27 场半结构化深度访谈（共 29 名中小学教师与[[School Leadership|学校领导]]者）进行质性调查，借助 NVivo 软件采用 Braun & Clarke 的法典式主题分析（[[Qualitative Codebook|codebook]] Thematic Analysis），深入提炼一线教育工作者对[[Quality Use of Research Evidence Framework|高质量研究使用]]与[[Poor Research Use|劣质研究使用]]的实质性理解与六大核心特征。

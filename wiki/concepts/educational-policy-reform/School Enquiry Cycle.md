@@ -22,6 +22,7 @@ related_concepts:
   - "[[Data-Based Decision Making]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Professional Judgment]]"
+  - "[[Professional Learning Community]]"
   - "[[Technical Rationality]]"
   - "[[Effective Teaching]]"
   - "[[Document]]"
@@ -43,7 +44,6 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
-  - "[[Snowball Sampling]]"
 related_persons:
   - "[[Chris Brown]]"
   - "[[Julie Nelson]]"
@@ -70,7 +70,7 @@ updated: 2026-09-02
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 破解“DBDM 知问题而无良策”与“RITP 有策略而无靶向”的双向脱节，提供从数据诊断到实证干预的系统化操作路径。
-> - **应用场景** 中小学学科教研组探究、校本持续改进计划（SIP）、教师专业学习共同体（PLC）及跨校合作网络。
+> - **应用场景** 中小学学科教研组探究、校本持续改进计划（SIP）、教师[[Professional Learning Community|专业学习共同体]]（PLC）及跨校合作网络。
 > - **边界限定** 区别于无证据支撑的经验性教研，也区别于机械套用外部处方的[[Technical Rationality|技术理性]]操作；它要求校内诊断数据与校外研究证据在探究循环中双向验证。
 
 > [!citation-card]- 关键表述
@@ -134,7 +134,7 @@ updated: 2026-09-02
 
 ### 命题二　学校探究循环的有效运转高度依赖中层领导构建的协作探究文化
 
-> [!concept-lens] 中介领导力与专业学习共同体的组织赋能
+> [!concept-lens] 中介领导力与[[Professional Learning Community|专业学习共同体]]的组织赋能
 > 探究循环无法靠普通教师自发完成，需要中层领导搭建制度化[[Scaffolding|脚手架]]与心理安全环境。
 
 > [!claim] Danielle LaPointe-McEwan et al. (2017) / Brown et al. (2017) / [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
@@ -169,7 +169,7 @@ updated: 2026-09-02
 > - **2000s — 数据驱动决策（[[Data-Based Decision Making|DBDM]]）的兴起与瓶颈** 伴随欧美教育问责制，学校广泛开展数据驱动分析，但很快遭遇“知道问题却缺乏解决工具”的实践困境。
 > - **2010s — 循证教学与外部证据[[Transfer Translation Transformation|转译]]探索** 英国 [[Education Endowment Foundation|EEF]] 等机构大量推出循证工具包，但一线学校面临“[[Document|文献]]丰富却缺乏校本针对性”的新挑战。
 > - **2017 — 特刊提出整合性学校探究循环** Brown, Schildkamp, & Hubers (2017) 在《Educational Research》特刊发表奠基性论文，正式提出将内部 DBDM 与外部 [[Research-Informed Teaching Practice|RITP]] 整合为“学校探究循环”，并在英格兰与荷兰学校广泛实验。
-> - **2020s — [[Snowball Sampling|网络化]]探究共同体（NICs）与全系统融合** 学校探究循环进一步与卡内基网络化改进共同体（NICs）及全系统[[Knowledge Mobilisation|知识动员]]战略相结合，成为跨校教研与循证督导的标准模型。
+> - **2020s — 网络化探究共同体（NICs）与全系统融合** 学校探究循环进一步与卡内基网络化改进共同体（NICs）及全系统[[Knowledge Mobilisation|知识动员]]战略相结合，成为跨校教研与循证督导的标准模型。
 
 ---
 

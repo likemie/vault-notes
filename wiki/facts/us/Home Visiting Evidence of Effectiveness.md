@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence Standards]]"
   - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Attrition]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-09-13
 ---
 
 # Home Visiting Evidence of Effectiveness
@@ -64,7 +65,7 @@ updated: 2026-08-21
 ## 机构背景与资助体系
 
 > [!note]- 发展背景与资助演进
-> 联邦 MIECHV 拨款法案规定，各州至少 75% 的联邦家访资助资金必须投向被 HomVEE 认证为“符合 HHS 有效性证据标准”的模型。
+> 联邦 MIECHV 拨款法案规定，各州至少 75% 的联邦家访资助资金必须投向被 HomVEE 认证为“符合 HHS 有效性[[Evidence Standards|证据标准]]”的模型。
 >
 > - **强大的行政约束力** 与一般仅具咨询性质的清算中心不同，HomVEE 评级直接与数十亿美元的联邦财政转移支付挂钩，因而其标准具有极强的制度刚性。
 > - **1989 年[[Document|文献]]起算点** 综述检索窗口固定设定为 1989 年至今，涵盖早期儿童认知发展、就学准备、母婴保健、家庭经济自立及虐待预防等八大核心结果域([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。

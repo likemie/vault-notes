@@ -29,6 +29,7 @@ related_concepts:
   - "[[Technology Readiness Level]]"
   - "[[Dialogue in Education]]"
   - "[[Mentorship]]"
+  - "[[Teaching Assistant]]"
   - "[[Professional Judgment]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
@@ -65,7 +66,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -217,7 +218,7 @@ citation_aliases:
 
 ---
 
-15. 一个坦诚的观察是：如果大学衍生企业真的代表有吸引力的投资机会，"更多基金和更大规模的基金就会出现"(p.146)。市场不是傻瓜。衍生企业的融资困境不仅仅是"偏见"或"不理解"的问题，它们在客观上确实风险更高、回报周期更长、成功概率更低。除非通过系统性的去风险策略——更多产业合作带来市场验证、更多政府非稀释性投资填补早期资金缺口、更高质量的创业[[Mentorship|导师制]]帮助教授们补上商业知识短板——来改善这个基本面，否则"资金供给将始终低于需求"。
+15. 一个坦诚的观察是：如果大学衍生企业真的代表有吸引力的投资机会，"更多基金和更大规模的基金就会出现"(p.146)。市场不是傻瓜。衍生企业的融资困境不仅仅是"偏见"或"不理解"的问题，它们在客观上确实风险更高、回报周期更长、成功概率更低。除非通过系统性的去风险策略——更多产业合作带来市场验证、更多政府非稀释性投资填补早期资金缺口、更高质量的创业[[Mentorship|导师制]]帮[[Teaching Assistant|助教]]授们补上商业知识短板——来改善这个基本面，否则"资金供给将始终低于需求"。
 
 > [!quote]
 > “你问他们要钱，他们会给你建议。你问他们要建议，他们会给你钱。”

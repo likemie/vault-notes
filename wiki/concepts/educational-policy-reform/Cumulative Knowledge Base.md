@@ -7,7 +7,7 @@ aliases:
 summary: "教育知识治理的核心终极命题，指通过跨机构协作、多元方法证据综合与元中介机制，建构一套被全球教育系统准普遍公认为基础坚实、可跨情境调适并经得起时间检验的共享性知识体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
   - "[[Professional Judgment]]"
+  - "[[Professional Learning Community]]"
   - "[[Research Literacy]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Knowledge Mediation]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Cumulative Knowledge Base
@@ -197,7 +198,7 @@ updated: 2026-09-13
 >   - *普遍主义立场（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022]]; [[Argument_Slavin_2002_ER|Slavin, 2002]]）*：坚信教育必须克服前科学时期的碎片化争吵，通过严格的实证综合建立经受广泛检验的核心因果知识库，这是教育赢得社会公信力与专业尊严的必由之路。
 >   - *情境特殊论立场（Biesta, 2007, 2010）*：批评“累积性知识库”构想带有浓厚的[[Positivism|实证主义]]与医学化还原倾向，认为教育本质是具有道德性、情境性与双向互动性的复杂人类活动，不可能存在放之四海而皆准的普适因果定律，盲目追求“普遍知识大厦”容易压制本土教育哲学与文化多样性。
 > - **中介的中介（元治理）vs 地方自组织网络**
->   - 批评方指出，建立层层嵌套的跨国元中介网络容易滋生庞大的学术官僚主义，消耗巨额行政沟通成本；相反，支持地方化、自下而上的教师专业学习共同体（PLCs）更具草根活力。
+>   - 批评方指出，建立层层嵌套的跨国元中介网络容易滋生庞大的学术官僚主义，消耗巨额行政沟通成本；相反，支持地方化、自下而上的教师[[Professional Learning Community|专业学习共同体]]（PLCs）更具草根活力。
 >   - 辩护方强调，自组织网络若无高阶累积性知识库作为事实锚点，极易沦为自说自话的经验闭塞沙龙，二者必须相互嵌套。
 
 ---

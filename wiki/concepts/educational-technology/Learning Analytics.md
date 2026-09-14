@@ -8,7 +8,7 @@ aliases:
 summary: "通过收集、测量、分析和报告学习者及其环境的数字痕迹以理解和优化学习的技术与治理实践；既赋能个性化自适应与纵向学习增益测查，也在先发制人治理、算法主体性规训与构念简化上面临深刻伦理挑战。"
 type: concept
 domain: "educational-technology"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Learning Gain]]"
   - "[[Feedback]]"
+  - "[[Teaching Assistant]]"
   - "[[Performativity of Measurement]]"
   - "[[Digital Optimum]]"
   - "[[Disciplina and Doctrina]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-08-27
+updated: 2026-09-14
 ---
 
 # Learning Analytics
@@ -86,7 +87,7 @@ updated: 2026-08-27
 
 > [!concept-lens] 概念透镜
 > - **含义** 包含微观层面的“学习者认知与行为建模（Learner Modeling）”、中观层面的“课程自适应与实时反馈（Adaptive [[Feedback]]）”、以及宏观层面的“机构学业预警与[[Learning Gain|学习增益]]分析”。
-> - **用途** 帮助教育者突破传统期末单次考试的黑箱，获得动态、持续的过程性评价证据；在教育治理中为学业预警、自适应推荐及国家级教育干预效果评估提供数据基座。
+> - **用途** 帮[[Teaching Assistant|助教]]育者突破传统期末单次考试的黑箱，获得动态、持续的过程性评价证据；在教育治理中为学业预警、自适应推荐及国家级教育干预效果评估提供数据基座。
 > - **生产性反思** 学习分析不仅“反映”学习，更通过[[Performativity of Measurement|测量的生产性]]塑造新的等级秩序与主体性认同；算法设定的“[[Digital Optimum|数字最优]]”直接[[Disciplina and Doctrina|规训]]着学生的自我认知与学习策略。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 225)]]
 > - **边界** 区别于纯粹的后台数据统计，学习分析的核心在于服务教学干预与意义理解；若脱离教育学[[Epistemology|认识论]]指导，单纯的算法关联极易退化为[[Data Behaviorism|数据行为主义]]与[[Construct|构念]]代表性不足。
 

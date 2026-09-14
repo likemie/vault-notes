@@ -6,9 +6,9 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 48
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 50
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/action-research
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Ideal Speech Situation]]"
   - "[[International Baccalaureate]]"
+  - "[[Research Translation]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -66,11 +67,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
+  - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 related_facts:
   - "[[International Schools Examination Syndicate]]"
 status: draft
 created: 2026-06-25
-updated: 2026-08-23
+updated: 2026-09-14
 ---
 # Action Research
 
@@ -383,3 +385,4 @@ updated: 2026-08-23
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.9)]] — 系统介绍行动研究的定义、历史发展、四大特征、螺旋循环过程和常用方法。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 系统阐述定义谱系、21项特征、Winter六原则与Kemmis & McTaggart核心原则、三分类型学、操作程序、报告撰写、[[Reflexivity|反身性]]及实践议题。
 > - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 23–24, 30–31)]]；[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 61–68)]] — [[International Schools Examination Syndicate|国际学校考试辛迪加]]把[[International Baccalaureate|国际文凭]]开发组织为六年行动研究：限定获批学校、每年最多 500 名完整文凭考生并争取大学暂时承认，在真实教学、考试与升学过程中检验课程和资格能否运行。实施中，严控少数学校的研究取向让位于扩大学校类型和地区的服务取向；这降低了[[Variable|变量]]控制，却把普遍适用性、财务可行性和组织延续本身纳入试验结果。
+> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022, pp. 213–215)]] — 埃梅谢·K·纳吉（Emese K. Nagy）基于匈牙利赫约凯赖斯图尔小学的微观办学实践，对比了以“外部专家单向调研、无反馈且加重教师工作负担”为表征的低质行动研究，与“高校科研团队与学校教师平等共创、合作改进斯坦福复合教学计划（KIP）并向全国 200 所学校推广测评工具”的高质量行动研究，揭示实践者主体地位与双向沟通对行动[[Research Translation|研究转化]]为学校知识[[Creativity|创造力]]的关键作用。

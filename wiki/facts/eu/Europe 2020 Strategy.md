@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,7 +34,8 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Selectivity]]"
   - "[[Hypothesis]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Change]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: '2026-05-18'
+updated: 2026-09-13
 ---
 
 # Europe 2020 Strategy
@@ -111,7 +112,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 
 > [!success]
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]]指出，Europe 2020 通过[[Performance Indicators|绩效指标]]体系成功将"区域"建构为创新和教育政策的基本治理单元——任何公民都可以在地图上识别自身区域在创新和教育方面的排名位置（p.169–170）
-> - 战略所承载的变革理论——[[Innovation Ecosystem|创新生态]]体系与教育培训体系协同演化产生互利增效——在话语层面被自然化为[[Doxa|不言自明]]的前提。但在实践中，这一理论面临显著的执行差距和区域[[Heterogeneity|异质性]]挑战（p.174–175）
+> - 战略所承载的[[Theory of Change|变革理论]]——[[Innovation Ecosystem|创新生态]]体系与教育培训体系协同演化产生互利增效——在话语层面被自然化为[[Doxa|不言自明]]的前提。但在实践中，这一理论面临显著的执行差距和区域[[Heterogeneity|异质性]]挑战（p.174–175）
 
 > [!info]- 核心数据
 > - Europe 2020 核心目标：将早期辍学率降至 10% 以下；将 15 岁人群阅读、数学和科学低成就者比例降至 15% 以下（p.171）
@@ -122,7 +123,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 > [!warning]
 > - **同质化逻辑** Europe 2020 将所有欧盟区域纳入同一政策框架，忽略了区域之间在经济结构、制度和创新能力上的根本性差异。[[Performance Indicators|绩效指标]]体系将这种同质化[[Operationalization|操作化]]为可比较的排名，进一步固化了"领先"与"滞后"的分类([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
 > - **选择性偏向** 战略框架隐含的自由主义经济秩序预设——即 Jessop（2007）所描述的"决策者不可避免地聚焦于某些议题而忽略其他"——可能系统性地排斥替代性政策路径，如强调社会投资而非经济竞争的福利国家模式(Jessop, 2007; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.166, 174]])。详见 [[Selectivity]]
-> - **因果叙事未经检验** 战略所依赖的"创新+教育=增长"的变革理论（[[Theories of Policy Change]]）核心因果[[Hypothesis|假设]]未经过严格的实证检验——它更像是政策工具的内在成分，被嵌入而非被验证（p.165–166）
+> - **因果叙事未经检验** 战略所依赖的"创新+教育=增长"的[[Theory of Change|变革理论]]（[[Theories of Policy Change]]）核心因果[[Hypothesis|假设]]未经过严格的实证检验——它更像是政策工具的内在成分，被嵌入而非被验证（p.165–166）
 
 ## 相关概念／理论
 

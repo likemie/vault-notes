@@ -10,7 +10,7 @@ aliases:
 summary: "20世纪经典比较教育学中由汉斯集大成的核心分析范式，通过自然、宗教与世俗三维恒久力量解释民族国家教育制度的相貌生成与精神特质"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Ontology]]"
   - "[[Document]]"
+  - "[[Evidence Standards]]"
   - "[[Doxa]]"
   - "[[Nomothetic]]"
   - "[[Postpositivism]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-13
 ---
 
 # Factorial Interpretive Framework
@@ -237,7 +238,7 @@ updated: 2026-09-07
 > 该命题探讨 1960 年代战后实证派对因素框架的发难，揭示实证通则法则与历史解释学之间的深刻认识论冲突。
 
 > [!claim] Noah, H. & Eckstein, M.
-> **动力与因素阶段缺乏相对权重与客观证据标准** 诺亚与埃克斯坦在《走向比较教育科学》中，严苛指责汉斯与坎德尔的进路属于“前科学的动力与因素阶段”；他们批评历史学者无法提供判定各因素相对重要性的客观测度规则，各因素的取舍完全依赖研究者主观认定的“不证[[Doxa|自明真理]]”，其得出的结论在本质上仅是尚未经过统计检验的待证[[Hypothesis|假设]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Noah & Eckstein, 1969, pp. 51, 188)]]
+> **动力与因素阶段缺乏相对权重与客观[[Evidence Standards|证据标准]]** 诺亚与埃克斯坦在《走向比较教育科学》中，严苛指责汉斯与坎德尔的进路属于“前科学的动力与因素阶段”；他们批评历史学者无法提供判定各因素相对重要性的客观测度规则，各因素的取舍完全依赖研究者主观认定的“不证[[Doxa|自明真理]]”，其得出的结论在本质上仅是尚未经过统计检验的待证[[Hypothesis|假设]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Noah & Eckstein, 1969, pp. 51, 188)]]
 
 > [!claim] [[Brian Holmes|Holmes, B.]]
 > **政策预测力优于回溯性先行原因发现** 布赖恩·霍姆斯（Brian Holmes）指出，科学比较教育必须以“[[Nomothetic|通则式]]预测（prediction）”为标志，而非回顾性“解释（explanation）”；教育决策者最迫切需要的是知晓当下改革方案的未来后果，而非导致当前不满的历史先行原因，因素框架沉溺于探究过去的因果力量，无法提供行动层面的精准预测。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Holmes, 1965, pp. 19–21)]]
@@ -319,7 +320,7 @@ updated: 2026-09-07
 > | [[Nicholas Hans]] | 人物 | 因素解释框架的集大成者，出版 1949 年划时代专著建立三维阶梯模型。 |
 > | [[Michael Sadler]] | 人物 | 思想奠基人，提出校外精神力量支配校内制度的先驱命题。 |
 > | [[Isaac Kandel]] | 人物 | 思想奠基人，深化国家意志与政治哲学在校外动力中的核心解释地位。 |
-> | [[Harold Noah]] | 人物 | 战后实证批判者，将该框架定性为前科学动力与因素阶段并指责其证据标准缺陷。 |
+> | [[Harold Noah]] | 人物 | 战后实证批判者，将该框架定性为前科学动力与因素阶段并指责其[[Evidence Standards\|证据标准]]缺陷。 |
 > | [[Max Eckstein]] | 人物 | 战后实证批判者，倡导以跨国[[Variable\|变量]]控制与多元统计取代传统的因素分析。 |
 > | [[Andreas Kazamias]] | 人物 | 现代史学辩护者，反思[[Whiggism\|辉格史观]]的同时以德语广义科学观重估因素分析的现代因果合法性。 |
 > | [[Historical-Philosophical-Cultural Motif]] | 概念 | 因素解释框架所属的高阶[[Epistemology\|认识论]]母题，确立其解释学与广义科学定位。 |

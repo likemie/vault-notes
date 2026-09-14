@@ -4,7 +4,7 @@ aliases: [经验主义, 经验论, empirical assumption, empirical tradition]
 summary: "科学探究四大基本假设之一，主张可靠知识源自感官观察与直接经验，理论必须依托经验证据支撑，奠定了实证科学方法与 Mouly 经验演化五步进程的认识论基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Subjectivism]]"
+  - "[[Evidence Standards]]"
   - "[[Operationalization]]"
   - "[[Determinism]]"
   - "[[Principle of Parsimony]]"
@@ -50,7 +51,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-13
 ---
 
 # Empiricism
@@ -201,7 +202,7 @@ updated: 2026-09-11
 ## 实证数据
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 4, 15–16, 27)]] — 系统梳理经验认知途径、科学第二基本假定、Mouly 经验五步法、Barratt 经验证据标准及后实证理论渗透性。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 4, 15–16, 27)]] — 系统梳理经验认知途径、科学第二基本假定、Mouly 经验五步法、Barratt 经验[[Evidence Standards|证据标准]]及后实证理论渗透性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨实证测量、[[Questionnaire|问卷调查]]、实验数据收集与经验效度标准的[[Operationalization|操作化]]规范。
 
 ---

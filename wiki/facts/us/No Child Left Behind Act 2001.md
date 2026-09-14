@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Evidence Standards]]"
   - "[[Operationalization]]"
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
@@ -87,7 +88,7 @@ updated: 2026-09-13
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> NCLB 强制要求各州建立统一的学业标准与年度测试问责体系，全文 110 次提及“科学本位研究”（scientifically based research），首次以联邦法律形式将基于[[Randomised Controlled Trials|随机对照试验]]（RCT）与[[Quasi-Experimental Designs|准实验设计]]（QED）的实证证据标准嵌入联邦教育拨款与学校问责的核心机制中。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]]; [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])
+> NCLB 强制要求各州建立统一的学业标准与年度测试问责体系，全文 110 次提及“科学本位研究”（scientifically based research），首次以联邦法律形式将基于[[Randomised Controlled Trials|随机对照试验]]（RCT）与[[Quasi-Experimental Designs|准实验设计]]（QED）的实证[[Evidence Standards|证据标准]]嵌入联邦教育拨款与学校问责的核心机制中。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]]; [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])
 
 > [!policy-design]- 政策设计
 > - **政策目标** 确保所有儿童接受公平、高质量教育，消除基于种族、贫困和特殊需求的[[Academic Achievement|学业成就]]差距，要求到 2013–2014 学年全美学生 100% 达到州立标准的“熟练”（proficient）水平。

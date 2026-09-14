@@ -6,7 +6,7 @@ aliases:
 summary: "证据本位方案实施中的核心张力，指忠实复制原始方案与根据本地条件进行调整之间的平衡问题。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Homework]]"
+  - "[[Teaching Assistant]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Creativity]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-08-24
+updated: 2026-09-14
 ---
 
 ## 定义
@@ -96,7 +97,7 @@ updated: 2026-08-24
 > [!abstract] 教学方法的被忽视维度：班级缩减的未实现可能性
 > [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.7)]] 进一步指出了 fidelity vs adaptation 辩论中一个常被忽视的维度：
 >
-> 班级缩减研究通常发现其对年幼学生更有效，对年长学生效果较差甚至无效。但一个显而易见的解释涉及教师如何教不同年龄的学生：小学教师花大量时间与个别学生或小组工作（小班自然产生更多个体关注），而中学教师通常面向全班教学（对 20 人班和对 30 人班讲授效果差异不大）。然而，**如果将班级缩减与教师在职培训结合——帮助教师发展只有在小班中才可能的教学方法——结果可能完全不同**。在这种情况下，改变的教学方法可被视为成就提高的原因，而班级缩减仅作为 Cartwright & Hardie (2012) 所谓的"支持因素"。
+> 班级缩减研究通常发现其对年幼学生更有效，对年长学生效果较差甚至无效。但一个显而易见的解释涉及教师如何教不同年龄的学生：小学教师花大量时间与个别学生或小组工作（小班自然产生更多个体关注），而中学教师通常面向全班教学（对 20 人班和对 30 人班讲授效果差异不大）。然而，**如果将班级缩减与教师在职培训结合——帮[[Teaching Assistant|助教]]师发展只有在小班中才可能的教学方法——结果可能完全不同**。在这种情况下，改变的教学方法可被视为成就提高的原因，而班级缩减仅作为 Cartwright & Hardie (2012) 所谓的"支持因素"。
 >
 > > "The important point here is that educational research tells us only what was, not what might be."
 >

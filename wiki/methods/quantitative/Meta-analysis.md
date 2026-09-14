@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 93
+method_related_count: 95
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -97,12 +97,14 @@ related_persons:
   - "[[Gene Glass]]"
   - "[[Karl Pearson]]"
 related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Abrami_2015_RER]]"
@@ -118,7 +120,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-05
+updated: 2026-09-14
 ---
 
 # Meta-analysis
@@ -153,7 +155,8 @@ updated: 2026-09-05
 > - **1976 年 Glass 的命名与[[Paradigm|范式]]确立** [[Gene Glass|Gene Glass]] 提出元分析概念，并与 Mary Lee Smith 发表心理治疗效果元分析（Smith & Glass, 1977, 平均 $d = 0.60$），确立了以[[Effect Size|效应量]]为通用尺度的实证综合范式。
 > - **1980年代 [[Fixed-Effect and Random-Effects Models|随机效应模型]]与[[Heterogeneity|异质性]]检验** Larry Hedges (1981, 1983) 提出小样本校正 $g$ 与随机效应模型；DerSimonian & Laird (1986) 提出经典的 $\tau^2$ 矩估计封闭解法；Rosenthal (1979) 与 Orwin (1983) 分别提出经典与效应量稀释[[Fail-Safe N|失安全数]]。
 > - **1990年代至2000年代 Cochrane 协作网与 [[PRISMA]] 规范化** 证据本位医学推动了[[Systematic Review|系统综述]]（Systematic Review）与元分析的全球制度化，PRISMA 声明与 Cochrane Handbook 成为规范报告标准。
-> - **2010年代至今 多水平元分析、[[Robust Variance Estimation|稳健方差估计]]与多软件协同** 针对多效应量相关依赖与复杂嵌套数据，[[Three-Level Meta-Analysis|三水平元分析]]（Cheung, 2014）与稳健方差估计（Robust Variance Estimation, RVE, Hedges et al., 2010）成为现代元分析前沿；STATA 与 R 形成完备的元分析计算生态。
+> - **2010年代 多水平元分析、[[Robust Variance Estimation|稳健方差估计]]与多软件协同** 针对多效应量相关依赖与复杂嵌套数据，[[Three-Level Meta-Analysis|三水平元分析]]（Cheung, 2014）与稳健方差估计（Robust Variance Estimation, RVE, Hedges et al., 2010）成为现代元分析前沿；STATA 与 R 形成完备的元分析计算生态。
+> - **2010年代末至2020年代 二阶合成、通俗转化与活态数据库生态** 面对元分析因混合不同质量与情境研究引发的证据异质性偏误，英国教育捐赠基金会（EEF）依托《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》开展二阶证据合成，独创额外学习月数（Months of Progress）通俗指标，并构建全球首个实时动态教育数据库（Live Database），对上万项初级试验的微观特征与效应量展开二次微观编码以消解异质性（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]]）。
 
 ---
 
@@ -206,7 +209,7 @@ flowchart LR
     D --> E["<b>5. 调节分析与情境解释</b><br>亚组检验 · 元回归 · 预测区间<br>🔗 [[Meta-regression]]"]
 ```
 
-> [!proc] 统计建模五步闭环
+> [!proc] 统计建模五步规范
 > 1. **初级[[Access and Acceptance in Research|研究准入]]门槛、基线等效性审查与[[Effect Size|效应量]]标准化**
 >    - **基线等效性前置筛查** 对纳入的准实验（[[Quasi-Experimental Designs|QED]]）与高[[Attrition|流失]][[Randomised Controlled Trials|随机对照试验]]，必须提取[[Pre-test and Post-test|前测]]数据并计算[[Baseline Standardized Mean Difference|基线等效性标准化均数差]] $d_{\text{baseline}}$。严格执行 WWC 2022 与 Slavin & Smith (2009) 门槛：$|d| > 0.25$ 者即刻剔除（两组潜在能力分布质性相异，[[Analysis of Covariance|ANCOVA]] 统计校正失效），介于 $0.05$ 至 $0.25$ 之间者必须在模型中控制前测协[[Variable|变量]]；无前测研究必须证明实施了严格的[[Random Assignment|随机分配]]；
 >    - **测量工具信效度审查** 排除测量工具与实验干预过度重叠的自利性自编测验，防范虚假效应量膨胀；
@@ -297,6 +300,7 @@ flowchart LR
 > 3. **统计独立性[[Hypothesis|假设]]违背** 同一研究提供多重结局测量造成数据嵌套依赖，人为虚窄[[Standard Error|标准误]]（Wolf, 1986; Cheung, 2014）。
 > 4. **平均效应掩盖[[Heterogeneity|异质性]]与因果机制** 平均[[Effect Size|效应量]]无法回答“干预对谁有效、在何种情境下有效”，可能掩盖高达 38% 的负向效应子群（Kluger & DeNisi, 1996; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
 > 5. **政策工具排名的伪精确性** 将效应量简化为《[[Visible Learning|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Simpson_2017_JEP|Simpson, 2017]]）。
+> 6. **微弱效应量与常态对照基线（Micro-effects & High-Quality Control Baseline）** Lortie-Forgues & Inglis (2019) 重新分析 141 项英美大型教育 RCT（涵盖逾 120 万名学生），指出平均合并效应量仅为 $d = 0.06$（置信区间平均宽度达 $0.30$ SD），据此质疑试验“缺乏信息量”。然而，超大样本量极大提升了统计推断精度，微弱效应量实质映射出学校现存常态教学（business as usual）的高水准专业基线；元分析在合成证据时不仅要识别正向效应，更必须重视“证明何者无效”对破除商业噱头与保护紧缺公共资金的去魅价值（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 56–57]]）。
 >
 > 🔗 **完整命题论证、学者辩论与 11 项质量审查清单参见独立深度条目：[[Critique of Meta-analysis]]**。
 
@@ -308,6 +312,10 @@ flowchart LR
 > 该研究收集了 77 项关于班级规模与学生学习的实证研究（涵盖 725 项[[Effect Size|效应量]]比较与近 900,000 名学生）。[[Meta-regression|元回归分析]]清晰揭示了班级规模与学业成就之间的非线性负相关曲线。
 >
 > 关键方法学发现：实验控制质量是调节曲线斜率的唯一关键因素。良好控制的研究显示出更陡峭的收益曲线，而不充分控制的研究曲线较为平缓。Glass et al. 据此按研究质量分层报告效应量，奠定了按方法学质量开展亚组分析的规范。（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 17, pp. 357–360）
+
+> [!case] 证据合成与活态数据库：EEF 对万项试验元分析异质性的二次解构与通俗转化（Edovald & Nevill, 2021）
+> - **二阶合成的决策转化** 单一试验的内部有效性不足以直接推论出广泛的外部效度，系统综述与元分析构成了外推基石（Shadish et al., 2002）。英国教育捐赠基金会（EEF）在《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》中综合了 30 余类通用教学策略底层的数千项元分析与实证研究，将复杂的统计量转化为额外学习月数（Months of Progress）、实施成本与挂锁安全评级，成为全英格兰超 70% 中学校长配置资源的法定参考指南。
+> - **实时活态数据库破解异质性偏误** 针对传统元分析在文献综述中容易混合不同研究质量、学段与国别而引发的证据异质性（Heterogeneity）偏误，EEF 组织专业编码团队对工具包底层的约 10,000 项独立初级试验进行逐一深度二次微观编码，提取精确效应量、样本人口学特征、干预实施时长、被试背景与微观测量参数，构建全球首个动态更新的活态教育数据库（Live Database），实现了从静态一阶合并向动态多维特征解构的方法学演进。（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 54–55]]）
 
 ---
 
@@ -344,3 +352,4 @@ flowchart LR
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] 系统介绍元分析四套操作流程、效应量计算方法与方法论局限。
 > - [[Argument_Hattie_2015_Paideia|Hattie (2015a)]] 探讨元分析作为探索[[Heterogeneity|异质性]]与调节变量的证据地图定位。
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 运用实在论综合与[[Critical Realism|批判实在论]]反思元分析的局限性。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] 探讨二阶元分析与证据合成在英国教育捐赠基金会（EEF）实践中的制度化应用；系统回应 Lortie-Forgues & Inglis (2019) 对 141 项大型教育 RCT 平均微弱效应量（$d = 0.06$）的批评，阐明大样本精度、常态教学高基线以及实时动态数据库对消解元分析证据异质性（Heterogeneity）的治理机制。

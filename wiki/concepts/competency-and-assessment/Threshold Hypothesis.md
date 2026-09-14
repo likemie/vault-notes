@@ -8,7 +8,7 @@ aliases:
 summary: "主张智力是创造力的必要非充分条件，在智商低于临界阈值（约120）时两者呈正相关，超过阈值后智力与创造力脱钩或关联显著减弱。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Teaching Assistant]]"
   - "[[Determinism]]"
   - "[[Divergent Thinking]]"
   - "[[Working Memory]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-14
 ---
 
 # Threshold Hypothesis
@@ -55,7 +56,7 @@ updated: 2026-08-24
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知能力对高阶创造潜能的非线性分段约束规律（三角散点分布）。
-> - **用途** 帮助教育者与研究者摆脱“唯智商论”的拔尖选拔误区，解释为何高智商人群中创造力表现呈现出极大的离散度。
+> - **用途** 帮[[Teaching Assistant|助教]]育者与研究者摆脱“唯智商论”的拔尖选拔误区，解释为何高智商人群中创造力表现呈现出极大的离散度。
 > - **边界** 门槛假说不主张智力与创造力完全无关，而是界定基础认知支持的必要边界；门槛值并非绝对固定常数，会因测验领域（言语 vs 图形）与成就类型而浮动。
 
 > [!citation-card]- 关键表述

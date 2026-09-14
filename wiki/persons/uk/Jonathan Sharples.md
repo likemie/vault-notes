@@ -7,7 +7,7 @@ summary: "英国伦敦大学学院教育学院（UCL IoE）教授、教育捐赠
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,19 +26,22 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Engagement in and with Research]]"
   - "[[Research Utilization]]"
+  - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
 related_persons:
   - "[[Julie Nelson]]"
+  - "[[David Gough]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-11
+updated: 2026-09-13
 ---
 
 # Jonathan Sharples
@@ -66,6 +69,7 @@ updated: 2026-09-11
 > - **2013** 发表奠基性报告《Evidence for the Frontline》，系统厘清了证据在专业一线实践中的定位与边界。
 > - **2014 至今** 加入 UCL 伦敦大学学院教育学院与 [[Education Endowment Foundation|EEF]]，深度参与英格兰数千所中小学的循证教学干预项目设计与评估。
 > - **2017** 与 [[Julie Nelson]] 等联合开展教师研究参与度测查工具研发（Nelson, Sharples et al., 2017）。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+> - **2018–2022** 与[[David Gough|戴维·高夫]]（[[David Gough]]）等深度合作，系统考察全英有效性中心，撰写 EEF 旗舰指南《Putting Evidence to Work: A School's Guide to Implementation》（Sharples et al., 2019），并从行为科学出发探索知识动员与中介机构自我循证标准。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 150, 152)]]
 
 ---
 
@@ -74,6 +78,8 @@ updated: 2026-09-11
 > [!work-line] 代表著作
 > - **2013 — *Evidence for the Frontline*** 奠基性报告，提出著名的反对脚本化教学与整合外部证据观，成为国际 [[Evidence-Informed Practice|EIP]] 研究的核心引证源。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 129)]]
 > - **2017 — *Measuring Teachers’ [[Engagement in and with Research|Research Engagement]]: Findings from a [[Pilot Testing|pilot study]]* (with Nelson et al.)** 开发测查学校教师[[Research Utilization|研究利用]]与参与程度的测量工具。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+> - **2019 — *Putting Evidence to Work: A School’s Guide to Implementation*** 主持撰写 [[Education Endowment Foundation|EEF]] 循证教学实施指南，系统阐述如何将研究证据转化为学校日常实践的因果干预规程。
+> - **2022 — *Evidence on evidence-informed policy and practice* (with Gough & Maidment)** 探讨[[Educational Brokerage Agency|知识中介机构]]在需求、系统、理论、标准与评估上的自我循证五大支柱。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 146–162)]]
 
 ---
 
@@ -81,5 +87,7 @@ updated: 2026-09-11
 
 > [!evidence-grid-a] 相关索引
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 特刊核心引述 Sharples 的 [[Evidence-Informed Practice|EIP]] 定义与中介思想。
+> - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 探讨[[Educational Brokerage Agency|知识中介机构]]自身循证化与行为驱动机制的代表篇章。
+> - [[David Gough]] — 长期合作学者与循证政策领军人物。
 > - [[Evidence-Informed Practice]] — 核心定义来源。
 > - [[Education Endowment Foundation]] — 长期任职与顾问机构。

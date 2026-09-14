@@ -6,12 +6,13 @@ aliases:
 summary: "论辩推理模型中的中间认识论立场，主张知识纯属主观意见，所有观点都同等有效。"
 type: concept
 domain: "educational-psychology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Teaching Assistant]]"
   - "[[Critical Thinking]]"
   - "[[Absolutist]]"
   - "[[Evaluativist]]"
@@ -24,7 +25,7 @@ related_persons:
   - "[[Deanna Kuhn]]"
 status: active
 created: 2026-08-15
-updated: 2026-08-16
+updated: 2026-09-14
 ---
 
 # Multiplist
@@ -38,7 +39,7 @@ updated: 2026-08-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 标志着个体从盲从权威的绝对客观，彻底滑向了虚无主义的相对客观，完全被主观维度主导。
-> - **用途** 帮助教育者理解为什么部分学生能够接纳多种声音，却极度抗拒对声音进行批判性比较。
+> - **用途** 帮[[Teaching Assistant|助教]]育者理解为什么部分学生能够接纳多种声音，却极度抗拒对声音进行批判性比较。
 > - **边界** 在品味和审美领域成为多元论者是自然的，但在事实和价值观领域停留在多元论，则是[[Critical Thinking|批判性思维]]发展的阻碍。
 
 ---

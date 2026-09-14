@@ -6,9 +6,9 @@ summary: "用于判断观察到的差异是否足以拒绝零假设的统计判�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
 - statistical-significance
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Publication Bias]]"
+  - "[[Evidence Standards]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-11
+updated: 2026-09-13
 ---
 
 ## 定义
@@ -127,7 +128,7 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 > [!warning] 争议与批评
 > - 如果只报告统计显著性，研究者可能忽略实际效应大小；如果只报告[[Effect Size|效应量]]点估计，则无法判断该估计是否稳定。只有 $d$ 值而缺少 [[Confidence Interval]]、[[Standard Error|标准误]]或相邻排名显著性检验时，读者无法判断数值接近的干预是否真的不同（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]]）。
 > - [[Publication Bias|发表偏倚]]与统计显著性偏好相关：发表系统更容易接纳显著或正面结果，从而使[[Meta-analysis|元分析]]平均效应量偏高。
-> - 现行证据标准容易把中等或强”有效性”缩小为严格实验中的统计显著效果，忽略实施质量、结果类型和地方上重视的非成就目标（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]]）。
+> - 现行[[Evidence Standards|证据标准]]容易把中等或强”有效性”缩小为严格实验中的统计显著效果，忽略实施质量、结果类型和地方上重视的非成就目标（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]]）。
 
 ---
 

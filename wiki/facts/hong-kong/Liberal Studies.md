@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -21,10 +21,12 @@ related_concepts:
   - "[[Examination-Oriented Education]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Externalization]]"
   - "[[General Education]]"
   - "[[Critical Thinking]]"
   - "[[Growth]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Teaching Assistant]]"
   - "[[Multiplicity]]"
   - "[[Zhonghua Minzu]]"
   - "[[Disciplina and Doctrina]]"
@@ -41,6 +43,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Gaokao]]"
+  - "[[Institute of Education Sciences]]"
   - "[[Citizenship and Social Development]]"
   - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
@@ -53,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-09-14
 ---
 
 # Liberal Studies
@@ -65,7 +68,7 @@ updated: 2026-07-13
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2007年由香港课程发展议会与考评局联合发布指引，并于2009年9月在新高中学制（3-3-4学制）中正式作为必修科推行（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 485, 487]]）。
 > - **适用对象 / 范围** 香港特别行政区所有高中的中四至中六学生。
-> - **问题背景** 2000年代初，香港面临[[Examination-Oriented Education|应试教育]]积弊、金融危机后的经济转型要求、以及殖民地学制与内地接轨的需要。港府通过教育改革将国内需求包装为回应全球[[Lifelong Learning|终身学习]]和[[Knowledge-Based Economy|知识经济]]趋势的外部化策略（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]]）。
+> - **问题背景** 2000年代初，香港面临[[Examination-Oriented Education|应试教育]]积弊、金融危机后的经济转型要求、以及殖民地学制与内地接轨的需要。港府通过教育改革将国内需求包装为回应全球[[Lifelong Learning|终身学习]]和[[Knowledge-Based Economy|知识经济]]趋势的[[Externalization|外部化]]策略（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]]）。
 > - **制度位置** 作为高中四大必修科目之一，打破了传统文理分科界限，在[[Gaokao|高考]]中实行分级考评并作为大学录取关键参考，2021年寿终正寝（p.141）。
 
 ---
@@ -73,12 +76,12 @@ updated: 2026-07-13
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> [[General Education|通识教育]]科（LS）是香港高中必修的核心科目，课程采用跨学科议题本位探究模式，不设官方统编教科书，通过独立专题探究（IES）及分级外部考评，旨在培养学生的[[Critical Thinking|批判性思维]]、多角度分析能力和责任市民素养（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]]）。
+> [[General Education|通识教育]]科（LS）是香港高中必修的核心科目，课程采用跨学科议题本位探究模式，不设官方统编教科书，通过独立专题探究（[[Institute of Education Sciences|IES]]）及分级外部考评，旨在培养学生的[[Critical Thinking|批判性思维]]、多角度分析能力和责任市民素养（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]]）。
 
 > [!policy-design]- 政策设计
 > - **设计目标** 克服灌输式应试教学，引导学生从多角度分析争议性社会议题，培养理性沟通、尊重证据、包容不同价值观的开放态度（[[Argument_Vickers_2024_CE|Vickers, 2024, p.150]]）。
 > - **学习领域** 包含个人[[Growth|成长]]与人际关系、今日香港、现代中国、全球化、公共卫生、能源科技与环境六大关联的探究领域。
-> - **核心工具** 实行议题为本的[[Constructivist Paradigm|建构主义]]教学法，采用包含独立专题探究（IES）的校本评估（SBA），鼓励使用即时社会新闻等非常规辅助教材，豁免教育局教科书前置评审（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 483]]）。
+> - **核心工具** 实行议题为本的[[Constructivist Paradigm|建构主义]]教学法，采用包含独立专题探究（IES）的校本评估（SBA），鼓励使用即时社会新闻等非常规辅[[Teaching Assistant|助教]]材，豁免教育局教科书前置评审（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 483]]）。
 > - **知识构建** 倡导知识是情境化的、跨学科的以及由个人和社会共同建构的，强调认同的[[Multiplicity|多重性]]与多元文化共存的协商价值（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.148, 150]]）。
 
 > [!citation-card]- 关键条文
@@ -97,7 +100,7 @@ updated: 2026-07-13
 > |---|---|---|
 > | **课程核心目标** | 培养批判性思维（[[Critical Thinking]]）、多角度分析社会议题，培育具备社会能动性的参与式公民（pp.141, 150）。 | 强调爱国主义、国族认同（[[Zhonghua Minzu]]）、守法意识与国家安全教育，重塑青年的臣民认同（pp.149, 152）。 |
 > | **教科书监管** | 豁免教育局前置评审，学校与教师可自主开发或选择多样化的教科书与补充材料。 | 实行刚性的教科书统一评审机制，由亲北京与国企高管审阅，强制使用合格教材教学（pp.147–148）。 |
-> | **独立专题探究** | 必修独立专题探究（IES），学生自主选题、开展社会调查与思辨，强调学术探究能动性。 | 废除IES，改以必修的短途内地考察，以感性体验与顺从[[Disciplina and Doctrina\|规训]]代替批判探究。 |
+> | **独立专题探究** | 必修独立专题探究（[[Institute of Education Sciences\|IES]]），学生自主选题、开展社会调查与思辨，强调学术探究能动性。 | 废除IES，改以必修的短途内地考察，以感性体验与顺从[[Disciplina and Doctrina\|规训]]代替批判探究。 |
 > | **历史与认同** | 视香港为移民社会，客观呈现多元且演变的代际本地认同与社会不满意度分析（p.148）。 | 强加本质论史观，以长达22页篇幅详细论证香港自古以来即为中国领土、从未属于殖民地（p.149）。 |
 > | **宪制关系定位** | 强调《基本法》是特区最高法律，是划分中央与特区自治治理边界的宪制契约（p.149）。 | 强调中国单一制国家事实，中央拥有对香港的绝对主权、全面管治权与剩余权力（pp.149–150）。 |
 > | **文化角色建构** | 倡导文化多元共生，警告使用主流文化进行同化会破坏稳定，接纳多重流变身份（p.150）。 | 确立中华文化为主体、多元文化从属于经济工具与国家[[Soft Power\|软实力]]推广的等级化秩序（p.151）。 |
@@ -132,7 +135,7 @@ updated: 2026-07-13
 > - **设计与背书主体** 由课程发展议会与考评局主导开发，聘请剑桥大学教授Mary James作为国际委员参与背书，将其包装为国际[[Progressive Education|进步教育]]的代表（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 480]]）。
 > - **教材编写主体** 教师与本地商业出版商。由于豁免教育局教科书评审，出版商和教师享有高度专业自主权，可根据时政新闻编写补充教材（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 483]]）。
 > - **教学执行主体** 由转岗的剩余学科教师组成，无需强制学科资格审查即可任教，虽然展现了跨学科弹性，但也降低了面对政治压力时的专业防护底限。
-> - **学术考评主体** 高中学生与考评局，独立专题探究（IES）校本评估占[[Gaokao|高考]]总成绩的20%，以引导学生进行自我导向的实证课题探究。
+> - **学术考评主体** 高中学生与考评局，独立专题探究（[[Institute of Education Sciences|IES]]）校本评估占[[Gaokao|高考]]总成绩的20%，以引导学生进行自我导向的实证课题探究。
 
 > [!pathways]- 实施路径
 > - **全球借鉴与制度落地** 借鉴IB等全球课程元素，将其确立为毕业必修科目，成功在新高中学制中建立了高学分、高学术标准的地位。
@@ -144,7 +147,7 @@ updated: 2026-07-13
 ## 效果与评价
 
 > [!indicators]- 评价指标
-> - **投入指标** 250课时的充足教学容量，将IES和多角度分析设为[[Gaokao|高考]]毕业刚性要求。
+> - **投入指标** 250课时的充足教学容量，将[[Institute of Education Sciences|IES]]和多角度分析设为[[Gaokao|高考]]毕业刚性要求。
 > - **过程指标** 时事材料引入率及课堂思辨参与度高，教师高度自主，但也存在转岗教师缺乏稳固学科训练的现象（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 483]]）。
 > - **结果指标** 成功培养了香港学生的公民思辨和主体意识；但也使该科目深陷社会政治冲突的核心地带，因缺乏学科边界而脆弱易毁。
 

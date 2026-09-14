@@ -8,7 +8,7 @@ aliases:
 summary: "实验中实验者知晓受试者所属条件后以更积极或更有暗示性的方式施测结果测量，从而人为放大处理效应的系统性偏差"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Conatus]]"
   - "[[Research Purpose]]"
+  - "[[Teaching Assistant]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-14
 ---
 
 # Experimenter Bias
@@ -60,6 +61,6 @@ updated: 2026-06-01
 ## 争议与批评
 
 > [!warning]
-> - 在某些实验情境中完全[[Blinding|盲法]]在操作上不可行——例如比较计算机辅助教学与传统面授时，实验者不可能不知道受试者使用的是哪种教学方式。此时应在方法部分诚实说明，并在讨论部分将其作为研究局限之一。
+> - 在某些实验情境中完全[[Blinding|盲法]]在操作上不可行——例如比较计算机辅[[Teaching Assistant|助教]]学与传统面授时，实验者不可能不知道受试者使用的是哪种教学方式。此时应在方法部分诚实说明，并在讨论部分将其作为研究局限之一。
 > - 当盲法不可行时，替代策略包括：使用完全标准化的、计算机化施测的结果测量（消除实验者与受试者的互动）；使用客观的、不易受实验者期望影响的结果测量（如标准化测试分数而非实验者主观评分）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

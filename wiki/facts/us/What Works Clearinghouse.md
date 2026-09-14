@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 54
+fact_related_count: 59
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Mediation]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Research Translation]]"
   - "[[Clinical Trial]]"
   - "[[Causality]]"
@@ -49,7 +50,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Research Utilization]]"
-  - "[[Educational Brokerage Agency]]"
   - "[[5-3-20 Rule]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -70,14 +70,17 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Institute of Education Sciences]]"
   - "[[OECD]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Open Court Reading]]"
   - "[[Success for All]]"
   - "[[Communities in Schools]]"
   - "[[National Dropout Prevention Center]]"
-  - "[[Education Endowment Foundation]]"
+  - "[[Creation of REES]]"
   - "[[Research Schools Network]]"
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[EPPI-Centre]]"
@@ -86,13 +89,15 @@ related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
+  - "[[Argument_Wolf_2020_JREE]]"
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # What Works Clearinghouse
@@ -102,13 +107,14 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 有效干预清算中心（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）是美国教育部教育科学研究院（Institute of Education Sciences, IES）于 2002 年依据《教育科学改革法案》（ESRA）创立的联邦官方教育证据清算中心，是当代[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）与循证改革基础设施的国际旗舰平台，在[[OECD|经合组织]]（OECD）十五年纵向追踪中被确立为凭借法律强制授权与法定预算保障抵御政治更迭、实现持续完全活跃的政府依托型清算[[Paradigm|范式]]典范([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57, 64]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 7–8]])。
+> 有效干预清算中心（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）是[[Institute of Education Sciences|美国教育部教育科学研究院]]（Institute of Education Sciences, IES）于 2002 年依据《教育科学改革法案》（ESRA）创立的联邦官方教育证据清算中心，是当代[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）与循证改革基础设施的国际旗舰平台，在[[OECD|经合组织]]（OECD）十五年纵向追踪中被确立为凭借法律强制授权与法定预算保障抵御政治更迭、实现持续完全活跃的政府依托型清算[[Paradigm|范式]]典范([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57, 64]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 7–8]])。
 
 > [!org-context] 机构背景与[[Knowledge Mediation|知识中介]]范式
 > - **成立时间 / 创设背景** 2002 年依据联邦《教育科学改革法案》（ESRA）创设，旨在落实《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（[[No Child Left Behind Act 2001|NCLB]]）关于“基于科学的研究”（Scientifically Based Research）的法定问责要求([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区；审查对象覆盖早期教育至高等教育全学段，官方平台为 [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)，审查标准已迭代至手册第 5 版（Handbook v5.0）。
 > - **法人属性与经费依托** 联邦政府官方直属公共机构；累计获得超过 **1 亿美元（>$100M）** 联邦经常性强制财政预算资助，享有极强的制度护城河([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
-> - **早期线性“推送”与[[Transfer Translation Transformation|转译]]范式代表** [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 20–21)]] 指出，WWC 是早期知识经纪（Knowledge Brokerage）的标志性机构，核心假定在于通过专业“[[Research Translation|知识转译]]”（Translation）将高严谨性学术研究加工为实践指南（Practice Guides）与干预评估报告，呈现出鲜明的线性研究转移（Research Transfer）与单向供给推送特征。
+> - **早期线性“推送”与[[Transfer Translation Transformation|转译]]范式代表** [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 20–21)]] 指出，WWC 是早期[[Educational Brokerage Agency|知识经纪]]（Knowledge Brokerage）的标志性机构，核心假定在于通过专业“[[Research Translation|知识转译]]”（Translation）将高严谨性学术研究加工为实践指南（Practice Guides）与干预评估报告，呈现出鲜明的线性研究转移（Research Transfer）与单向供给推送特征。
+> - **事后被动证据清算 vs 全链条试验中介范式** 相比英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）集干预资助、试验委托、独立评估防火墙、NPD 行政大数据归档与基层动员网络为一体的全链条模式，WWC 属于纯粹的事后被动证据清算中心（Ex-post Evidence Clearinghouse）：本身不设立科研资助基金、不直接委托或设计现场试验，仅对外部已有的独立或开发者研究进行二次审查与评级归档（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 47–49]]）。
 
 ---
 
@@ -117,7 +123,7 @@ updated: 2026-09-13
 > [!dev-timeline]- 组织发展与立法资助历程
 > - **1960 年代 — 因果问责诉求起源** 参议员罗伯特·肯尼迪（Robert F. Kennedy）质问教育专员：“你是说你花了十亿美元却不知道他们是否会读写？”奠定了联邦追求教育实证确定性的政治动因([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 3]])。
 > - **2001 — [[No Child Left Behind Act 2001|NCLB]] 法案确立科学标准** 《不让一个孩子掉队法案》要求联邦资助项目必须具备严格科学证据支撑，直接推动设立国家级因果审查清算中心([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
-> - **2002 — IES 正式设立 WWC 审查机制** 确立以医学[[Clinical Trial|临床试验]]为蓝本的[[Causality|因果推断]]规程与审查手册（Handbook）体系。
+> - **2002 — [[Institute of Education Sciences|IES]] 正式设立 WWC 审查机制** 确立以医学[[Clinical Trial|临床试验]]为蓝本的[[Causality|因果推断]]规程与审查手册（Handbook）体系。
 > - **2010 — [[Single-Subject Design|单一被试设计]]标准确立** 发布单一被试设计（Single-Subject Design, [[Single-Case Design|SCD]]）试点标准，确立[[Internal Validity|内部效度]]门控与 5-3-20 规则([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460]])。
 > - **2015 — ESSA 法案法定绑定** 《每个学生都成功法案》（ESSA）确立四级证据体系，WWC 成为学区申请联邦第 1 篇（Title I）学校改善拨款时认定“强证据（[[Top Institute for Evidence-Based Education Research|TIER]] 1）”与“中等证据（Tier 2）”的法定裁定基准。
 > - **2022 — Handbook v5.0 升级与十五年存续审视** 优化集群校正、[[Attrition|流失]]边界与[[Regression Discontinuity Design|断点回归设计]]（Regression Discontinuity Design, RDD）标准；[[OECD|经合组织]]回顾确认其为 2007 年 6 大国际标杆中保持持续完全活跃的唯二幸存者之一([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
@@ -131,7 +137,7 @@ updated: 2026-09-13
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理与执行矩阵
-> - **联邦管理与监督层（IES / NCEE）** 隶属于美国教育部国家教育评价与区域协助中心（NCEE），掌复制定整体审查政策、发布指南议题与拨付合同资金。
+> - **联邦管理与监督层（[[Institute of Education Sciences|IES]] / NCEE）** 隶属于美国教育部国家教育评价与区域协助中心（NCEE），掌复制定整体审查政策、发布指南议题与拨付合同资金。
 > - **方法学常设指导委员会** 由全美顶尖计量经济学、心理测量学与统计学专家组成，负责每 2–3 年主持修订审查手册（Handbook）。
 > - **竞标承包智库（Contractors）** Mathematica、SRI 等专业机构承接具体领域的[[Document|文献]]筛选、代码提取与基线等值性核验。
 > - **认证审查员库（Certified Reviewers）** 建立严格的审查员培训与考证机制，只有通过标准一致性考核的学者方可签署审查意见。
@@ -160,6 +166,15 @@ updated: 2026-09-13
 > | **[[Evaluator Independence\|独立评估者]]要求** | **未做要求**（允许全部由课程开发者自行完成的研究支持） |
 > | **干预后随访期** | **未做要求（干预刚结束即测即可，不考察 12 个月[[Fade-out Effect\|持续效果]]）** |
 > | **结果域聚合机制** | **按微观结果域分别评级**（如阅读理解、数学计算独立发布，不强行跨域合并为单一综合分） |
+
+> [!contrast-table] 证据评级与传播机制对比：美国 WWC 证据标准 vs 英国 EEF 挂锁安全评级（基于 The EEF, 2019c 与 Edovald & Nevill, 2021）
+> | 比较维度 | 美国 [[What Works Clearinghouse\|WWC]] 因果证据标准 | 英国 [[Education Endowment Foundation\|EEF]] 挂锁安全评级（Padlock Rating） |
+> |---|---|---|
+> | **标尺结构** | 三等级定性分类判定（无保留达标 / 有保留达标 / 未达标） | 0 至 5 把挂锁（🔒）的单维度连续序数评分（综合设计、样本量、流失与威胁） |
+> | **目标受众** | 面向联邦采购官员、专业政策分析师与学区决策者 | 专为时间匮乏的中小学校长、高级管理团队与基层教师定制 |
+> | **呈现载体** | 录入 WWC 官方数据库干预报告表格与指南附录中 | 直接嵌入《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与独立评估报告封面 |
+> | **方法学争鸣** | 保持了微观分域与方法学严格性，但技术门槛过高阻碍基层直观理解 | 将多元复杂偏倚压缩为单一分值极大降低理解门槛，但易掩盖不同偏倚维度的异质性 |
+> | **对待统计显著性** | 长期以假设检验显著性作为划分干预推荐等级的核心标尺 | 深刻反思对 $p < 0.05$ 门槛的机械依赖，提倡效应量置信区间与安全锁双轨呈现 |
 
 > [!formula-step] WWC [[Attrition|样本流失]]与基线等值性判定规则
 > 在单项因果研究审查中，WWC 执行标准化的基线等值与流失偏倚分级模型：
@@ -209,8 +224,12 @@ updated: 2026-09-13
 > > - **联邦政策制定者** 坚持 WWC 必须作为纯净的因果过滤器，防止低质量研究浪费纳税人资金([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
 > > - **学区与[[School Leadership|学校领导]]者** 批评 WWC 缺乏**实施成本（Cost Analysis）**、**本地适配性（Local Adaptability）**与**师生接受度**信息，导致实践者无法仅凭 WWC 评级做出采购决策([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 120–122]])。
 >
-> > [!axis] 开发者[[Conflict of Interest in Research|利益冲突]]（Conflict of Interest）与独立复制缺失
-> > 争论 WWC 允许由干预开发者（Developers）主导的评估作为评级证据，是否会引入[[Publication Bias|发表偏倚]]与[[Effect Size|效应量]]虚高([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 15]])。相比之下，英国 [[Education Endowment Foundation|EEF]] 强制执行开发者与评估者彻底剥离制度。
+> > [!axis] 开发者[[Conflict of Interest in Research|利益冲突]]（Conflict of Interest）与预注册准入门槛缺失
+> > 争论 WWC 允许由干预开发者（Developers）主导的评估作为最高评级证据，是否会引入严重的[[Publication Bias|发表偏倚]]与[[Effect Size|效应量]]虚高（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 15]]）。
+> >
+> > - **实证偏倚差距** [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 对 WWC 数据库的实证审查发现，全样本中由开发者实施或委托的研究平均效应量比独立评估高出 0.141 个标准差（约为独立研究的 1.8 倍），且开发者研究更可能采用易虚增效应的自编测验（29% vs 8%）与准实验（51% vs 15%）。
+> > - **英美制度防线对比** 英国 [[Education Endowment Foundation|EEF]] 建立了强硬的制度防火墙：组建独立评估专家库，通过三方资助协议将项目开发者与评估团队物理隔离，并强制在 ISRCTN 平台进行统计分析计划（SAP）预注册，未达预注册要求直接扣除 1 把挂锁（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 50–52, 57]]）。
+> > - **前沿政策呼吁** Wolf et al. (2020, p. 443) 明确提议美国联邦应当借鉴此类开放科学机制，将项目方案在效能与有效性研究注册处（[[Creation of REES|REES]]）平台的强制预注册确立为被 WWC 纳入审查的前提准入条件，从源头阻断事后数据钓鱼与选择性报告。
 >
 > > [!axis] 单向“知识推送”与“[[Transfer Translation Transformation|转译]]”[[Paradigm|范式]]的系统局限
 > > 争论单纯依靠线性供给与文本转译能否真正驱动一线实践变革与[[Research Utilization|证据使用]]。

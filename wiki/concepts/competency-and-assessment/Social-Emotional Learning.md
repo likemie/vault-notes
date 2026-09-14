@@ -124,7 +124,7 @@ updated: 2026-09-12
 > [!claim] Durlak et al. (2011)
 > **多维协同增益效应** 严密的实验与准实验[[Meta-analysis|元分析]]实证证实，参与正规校本社会情感学习方案的学生，其在情感调节与亲社会行为方面展现出中等[[Effect Size|效应量]]增益，且这种心理层面的改善能够强劲溢出至传统学业考试之中，促成[[Academic Achievement|学业表现]]高达 11 个百分点的显著提升。
 
-> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
+> [!claim] Steiner-Khamsi et al.
 > **危机保护与边缘群体的适应性屏障** 在战乱、贫困与重大公共卫生危机情境下，针对最脆弱儿童群体的社会情感干预构成了抵御创伤应激反应、阻断辍学链条的核心人道主义生存技能。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-09-12
 > [!concept-lens] 全球多边治理市场的组织间竞争与议题殖民
 > 围绕国际组织如何通过制造新颖政策议题来防御地盘萎缩、争夺外部私人资助展开。
 
-> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi et al.]]
+> [!claim] Steiner-Khamsi et al.
 > **组织利基开辟与多边跟进内卷** [[Global Education Governing Complex|全球教育治理复合体]]内部存在高度白热化的地盘争夺；当[[UNICEF|儿童基金会]]凭借 SEL 成功占据弱势关怀道德高地并撬动乐高、盖茨等私人基金会巨额赠款后，[[OECD|经合组织]]与[[UNESCO|教科文组织]]迅速通过将其标准化与测验化实施跨界殖民，将原本具有批判人道色彩的议题重新[[Coding in Qualitative Research|编码]]为服务于自身多边中介权力的量化指标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---

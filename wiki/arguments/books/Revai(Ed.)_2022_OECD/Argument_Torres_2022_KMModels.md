@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_KMModels"
 argument_key: "Argument_Torres_2022_KMModels"
 argument_display_title: "Louder than words: Review and comparative analysis of knowledge mobilisation models"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -74,8 +74,11 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[José Manuel Torres]]"
 related_facts:
+  - "[[What Works Network]]"
+  - "[[Monash Q Project]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
@@ -100,7 +103,7 @@ updated: 2026-09-13
 > [!concept-lens] 阅读透镜
 > - **对象** 卫生、社会政策与教育领域被高频引用的四大经典知识动员模型——Lavis et al. (2003) 的[[Knowledge Transfer|知识转移]]战略框架、Graham et al. (2006) 的知识到行动框架（Knowledge-to-Action, KTA）、Levin (2004, 2013) 的[[Research Knowledge Mobilisation Model|研究知识动员模型]]（Research Knowledge Mobilisation, RKM）、Gough et al. (2011, 2019) 的[[Research Utilization|证据使用]]生态框架，以及四组新兴微观机制模型——Langer et al. (2016) 的[[Evidence-Informed Decision-Making|证据知情决策]]行为改变框架（Evidence-Informed Decision-Making, EIDM）、Cain (2015) 的教师三种声音理论、Rickinson et al. (2020) 的[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE）、Révai (2020) 的证据-[[Innovation Ecosystem|创新生态]]知识动力学模型。
 > - **张力** 过程-产品（Process-Product）的单向还原论 vs 复杂自适应系统的自组织与双向循环；学术研究证据的排他性崇拜 vs 教师专业经验与多元知识源泉的包容性吸纳。
-> - **贡献** 运用 Best & Holmes (2010) 三代透镜构建首个跨领域知识动员模型的系统性[[Typological Analysis|类型学分析]]矩阵，揭示既有框架中功能人为割裂与终极目标隐匿的盲区，为全书实证调查与未来生态治理指明方向。
+> - **贡献** [[José Manuel Torres|何塞·曼努埃尔·托雷斯]]（José Manuel Torres）运用 Best & Holmes (2010) 三代透镜构建首个跨领域知识动员模型的系统性[[Typological Analysis|类型学分析]]矩阵，揭示既有框架中功能人为割裂与终极目标隐匿的盲区，为全书实证调查与未来生态治理指明方向。
 
 ---
 
@@ -288,7 +291,7 @@ Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推
 >
 > - **Panel B：左右倒置重塑推拉结构（Gough, Maidment, & Sharples, 2018）**
 >
->   在审视英国有效研究所（What Works Centres）运作时，图式上做出了针对性调整：将传统置于左侧的研究生产移至右侧，将政策与实践决策移至左侧。由于大多数西方语言读者习惯自左向右阅读，这一构图调整打破了学术供给先验（Research Push）的固有思路，凸显出基于实践需求拉力与中介支持的导向。（p.43）
+>   在审视英国有效研究所（[[What Works Network|What Works Centres]]）运作时，图式上做出了针对性调整：将传统置于左侧的研究生产移至右侧，将政策与实践决策移至左侧。由于大多数西方语言读者习惯自左向右阅读，这一构图调整打破了学术供给先验（Research Push）的固有思路，凸显出基于实践需求拉力与中介支持的导向。（p.43）
 >
 > - **Panel C：确立双层嵌套生态架构（Gough, Thomas, & Oliver, 2019）**
 >
@@ -367,7 +370,7 @@ Cain (2015) 聚焦一线中小学教师面对学术研究文献时的真实认�
 
 #### 3. Rickinson 高质量研究使用框架：超越“用不用”二元论的质量定义
 
-Rickinson et al. (2020) 基于澳大利亚莫纳什大学 Q 项目（The Q Project），针对教育实践中研究使用的质量标准给出了突破性定义，提出[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE），将核心聚焦于对恰当研究证据的深思熟虑参与与实施。（pp.47–50）
+Rickinson et al. (2020) 基于澳大利亚莫纳什大学 Q 项目（The [[Monash Q Project|Q Project]]），针对教育实践中研究使用的质量标准给出了突破性定义，提出[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE），将核心聚焦于对恰当研究证据的深思熟虑参与与实施。（pp.47–50）
 
 > [!example]- 图2-9：高质量研究使用框架（Quality Use of Research Evidence, QURE framework）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-9_Quality_Use_of_Research_Evidence_framework.jpg)

@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念并非跨情境通用的，而是深度内嵌于特定学科知识结构与社会情境中；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Areas of Knowledge]]"
   - "[[Metacognition]]"
+  - "[[Evidence Standards]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemic Resources]]"
   - "[[Epistemology]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-25
+updated: 2026-09-13
 ---
 
 # Domain Specificity
@@ -88,7 +89,7 @@ updated: 2026-08-25
 > [!def] 核心定义
 > 领域特异性（Domain Specificity，亦称领域特殊性或学科特异性）是指个体的认知结构、思维方式与[[Epistemological Beliefs|认识论信念]]不具有跨情境的完全通用性（Domain Generality），而是高度依赖并内嵌于具体的[[Areas of Knowledge|知识领域]]（如物理、数学与历史）或日常判断范畴（如审美、价值观与物理事实）中。个体在一个领域的认知发展水平与推理能力无法自动、平滑地直接推导或平移至另一领域。[[Argument_Greene_2010_JEP|(Greene et al., 2010)]]; [[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 280–281)]]
 >
-> 现代认知心理学与教育研究表明，领域特异性与领域通用性并非绝对对立的二元极端，而是构成一种**双层互动结构** 通用性的逻辑论证与[[Metacognition|元认知]]原则（上层）必须与特定学科的核心概念、探究规范及证据标准（下层）深度融合，才能有效催生[[Higher-Order Thinking Skills|高阶思维]]能力。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997)]]; [[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 281)]]
+> 现代认知心理学与教育研究表明，领域特异性与领域通用性并非绝对对立的二元极端，而是构成一种**双层互动结构** 通用性的逻辑论证与[[Metacognition|元认知]]原则（上层）必须与特定学科的核心概念、探究规范及[[Evidence Standards|证据标准]]（下层）深度融合，才能有效催生[[Higher-Order Thinking Skills|高阶思维]]能力。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997)]]; [[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 281)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 认知能力升级并非计算机单一“操作系统”的全局重装，而是不同学科应用模块在特定情境规则下的差异化建构。
@@ -142,7 +143,7 @@ flowchart TD
 > 探讨领域固有属性（主观 vs 客观；良构 vs 劣构）如何牵制甚至反转认知升级的难度。
 
 > [!claim] [[Deanna Kuhn|Kuhn, D.]]
-> **日常判断领域的非同步与反转规律** 在由绝对主义向接纳多元解释的过渡阶段，个人品味和审美领域最先突破，而物理事实领域最难打破绝对确定性；然而在重新确立客观理性标准的评价论（[[Evaluativist]]）阶段，顺序完全反转：物理与社会事实领域最容易建立证据标准，而价值观和审美领域则成为成人认知发展最顽固的相对主义停滞点。实证测试显示 83% 的个体跨领域呈现非同步混合模式，证明心智发展不是领域一般性的线性通关。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 314)]]
+> **日常判断领域的非同步与反转规律** 在由绝对主义向接纳多元解释的过渡阶段，个人品味和审美领域最先突破，而物理事实领域最难打破绝对确定性；然而在重新确立客观理性标准的评价论（[[Evaluativist]]）阶段，顺序完全反转：物理与社会事实领域最容易建立[[Evidence Standards|证据标准]]，而价值观和审美领域则成为成人认知发展最顽固的相对主义停滞点。实证测试显示 83% 的个体跨领域呈现非同步混合模式，证明心智发展不是领域一般性的线性通关。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 314)]]
 
 > [!claim] Greene, J. A.
 > **劣构领域先于良构领域的[[Epistemology|认识论]]觉醒** 学生在历史课（劣构领域）中遭遇多源史料冲突时，能更早认识到“知识具有暂定性与主观建构性”，促使其率先摆脱[[Simplicity of Knowledge|简单知识]]观；而在数学等良构领域，由于标准答案明确，学生更容易长期停留在绝对主义阶段。[[Argument_Greene_2010_JEP|(Greene et al., 2010, p. 245)]]

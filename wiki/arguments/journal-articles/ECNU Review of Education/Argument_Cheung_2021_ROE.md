@@ -10,7 +10,7 @@ title: "Argument_Cheung_2021_ROE"
 argument_key: "Argument_Cheung_2021_ROE"
 argument_display_title: "Evidence-based reform in education: Global perspectives [Editorial]"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Institute of Education Sciences]]"
   - "[[Success for All]]"
 related_arguments: []
 sources:
@@ -90,7 +91,7 @@ citation_aliases:
 >
 > **政策与系统维度：**
 > - Pellegrini & Vivanet (2020) 审视了欧洲[[Evidence-Based Education|证据本位教育]]政策的进展，识别了证据生成与传播的组织机构，始于 2006 年并取得显著进展
-> - Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Education Endowment Foundation (EEF)]] 的成功经验：快速扩展学校本位 [[Randomised Controlled Trials|RCT]]、高标准研究独立性与透明度
+> - Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation]] (EEF) 的成功经验：快速扩展学校本位 [[Randomised Controlled Trials|RCT]]、高标准研究独立性与透明度
 >
 > **高质量实验维度：**
 > - Xie (2020) 比较中美教育技术[[Experimental Research|实验研究]]，发现若干强证据干预方案，但中国大陆实验研究的数量和质量令人担忧
@@ -98,7 +99,7 @@ citation_aliases:
 >
 > **传播知晓维度：**
 > - Slavin et al. (2020) 介绍了 Johns Hopkins University 教育改革研究中心通过网站、通讯和博客传播研究证据的努力
-> - [[What Works Clearinghouse]] 作为 IES 旗舰项目，审查多领域的实践方案研究
+> - [[What Works Clearinghouse]] 作为 [[Institute of Education Sciences|IES]] 旗舰项目，审查多领域的实践方案研究
 >
 > **实施激励维度：**
 > - Ross & Morrison (2020) 以美国大型多元化学区的复杂改革案例，说明政策与证据期望如何被多重议程和利益相关者个人需求过滤

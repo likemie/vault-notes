@@ -10,13 +10,14 @@ subtype: event
 region: singapore
 fact_region: "singapore"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags: [region/singapore, theme/international-education, theme/institution-building, theme/international-schools]
 related_concepts:
   - "[[International Schools]]"
+  - "[[Teaching Assistant]]"
   - "[[International Baccalaureate]]"
   - "[[International Education]]"
 related_theories: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-14
 ---
 
 # Transformation of Singapore International School into United World College of South East Asia
@@ -61,7 +62,7 @@ updated: 2026-09-01
 > - **1970 年 8 月　樟宜重新激活独立书院设想** 汉基、霍尔和戴维·威尔斯（David Wills）判断圣约翰空间不足，转而考察具有住宿、运动场、泳池和海岸通道的樟宜设施。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 111–112)]]
 > - **1970 年秋　资本、生源和土地否决樟宜** 英国政府拒绝承担改建费，新加坡只能有限接收本国奖学金生，周边国家难以持续提供学生和资助。李光耀明确否决占用大面积土地的三百人方案，要求恢复圣约翰谈判。
 > - **1970 年 10 月　整校关联取代独立高中部** 国际学校坚持自己负责完整高中教育。双方同意由整所学校成为 UWC 关联学校，区域国家委员会为高中部选拔并资助寄宿生。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 113–114)]]
-> - **1971 年 1 月　人员嵌入学校治理** 梅里格·欧文（Meurig Owen）和约翰·戴维（John David）由大西洋学院进入新加坡，分别担任校长和教务主任，另有四名毕业生担任助教。
+> - **1971 年 1 月　人员嵌入学校治理** 梅里格·欧文（Meurig Owen）和约翰·戴维（John David）由大西洋学院进入新加坡，分别担任校长和教务主任，另有四名毕业生担任[[Teaching Assistant|助教]]。
 > - **1971 至 1972 年　奖学金与区域代表未达设想** 国际学校董事会没有继续要求落实十名新加坡学生的私校政策例外。1972 年九名 UWC 奖学金生中六名来自澳大利亚，另外三名分别来自意大利、西班牙和英国，没有东南亚学生。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 115)]]
 > - **1974 年　模糊关联必须收束** 蒙巴顿认为长期维持关联既不能保证共同标准，也不能充分承认学校投入，提出终止关系或接纳整所学校两种选择。
 > - **1974 年 5 至 11 月　课程与奖学金成为加入条件** 国际董事会要求学校引入[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）并增加 UWC 奖学金生。IB 在年内启动，国际董事会随后建议正式接纳。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 115–116)]]

@@ -8,7 +8,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
   - region/us
   - level/k12
 related_concepts:
+  - "[[Evidence Standards]]"
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-05-18
+updated: 2026-09-13
 ---
 ## 背景
 
@@ -56,7 +57,7 @@ updated: 2026-05-18
 ## 时间线
 
 > [!note]- 时间线
-> - **1997** — Slavin 在 *Educational Researcher* 发表"Design Competitions"，提出将证据标准纳入联邦教育拨款的方案（Slavin, 1997, cited in [[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]]）
+> - **1997** — Slavin 在 *Educational Researcher* 发表"Design Competitions"，提出将[[Evidence Standards|证据标准]]纳入联邦教育拨款的方案（Slavin, 1997, cited in [[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]]）
 > - **1998** — Obey-Porter 立法通过，CSR 拨款 USD 150M/年启动
 > - **1999** — 美国研究院（[[AIR Model of Epistemic Cognition|AIR]]）发布对 24 个全面改革模式的研究审查（Herman, 1999），将各类模式分为：强证据、有希望、边际、混合、弱/无效果、或无研究
 > - **1998–2002** — 共发放 2,665 笔 CSR 拨款，但仅 20.8% 流向强证据项目，63.2% 流向混合/无研究项目或未纳入 AIR 审查的自创/地方模型（Southwest Educational Research Laboratory, 2002, cited in）
@@ -81,13 +82,13 @@ updated: 2026-05-18
 >
 > - 1998–2002 年发放的 2,665 笔拨款中，**63.2%** 流向证据混合或无研究、或自创/地方模型([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 > - 州级官员在审查 CSR 提案时保留"广泛裁量权"，"可以继续最小化或忽视项目背后的研究基础"([[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]])
-> - [[Argument_Slavin_2002_ER|Slavin (2002, pp. 15–16)]] 将此作为关键教训：将证据标准写入法律是不够的——执行机制、审查能力和政治意愿同样关键
+> - [[Argument_Slavin_2002_ER|Slavin (2002, pp. 15–16)]] 将此作为关键教训：将[[Evidence Standards|证据标准]]写入法律是不够的——执行机制、审查能力和政治意愿同样关键
 
 ## 争议与评论
 
 > [!warning] 争议与评论
 > - **[[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]] 的评价** CSR 尽管"明确关注经过验证的项目"，但至今"大多将资金提供给几乎没有或完全没有严格有效性证据的项目，包括许多仅为获取拨款而拼凑的'项目'"。
-> - **政策信号 vs 政策执行** CSR 的法律意图（首次将拨款与证据挂钩）具有历史意义，即使其执行效果令人失望——它建立了"证据可以作为拨款条件"的先例，为后续的 [[Investing in Innovation Program|i3]] (2009) 和 ESSA (2015) 证据标准铺平了道路。
+> - **政策信号 vs 政策执行** CSR 的法律意图（首次将拨款与证据挂钩）具有历史意义，即使其执行效果令人失望——它建立了"证据可以作为拨款条件"的先例，为后续的 [[Investing in Innovation Program|i3]] (2009) 和 ESSA (2015) [[Evidence Standards|证据标准]]铺平了道路。
 
 ## 相关概念／理论
 

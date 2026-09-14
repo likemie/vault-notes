@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,9 +26,11 @@ tags:
 related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Research Translation]]"
+  - "[[Knowledge Co-production]]"
   - "[[Effective Teaching]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Professional Learning Community]]"
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Causality]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-14
 ---
 
 # Teaching and Learning Research Programme
@@ -75,7 +77,7 @@ updated: 2026-09-12
 ## 方案设计与运行机制
 
 > [!claim] 核心机制假说
-> 知识转化无法依靠传统的自上而下研究推送，唯有通过建立跨越研究、政策与实践界限的伙伴关系，让使用者从立项之初就全生命周期深度参与知识共创，才能将高质量学术成果转化为广泛的专业实践变革。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]]
+> 知识转化无法依靠传统的自上而下研究推送，唯有通过建立跨越研究、政策与实践界限的伙伴关系，让使用者从立项之初就全生命周期深度参与[[Knowledge Co-production|知识共创]]，才能将高质量学术成果转化为广泛的专业实践变革。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 产出高水平严谨实证证据，深化对[[Effective Teaching|有效教学]]机制的理论理解，并直接促进政策制定与课堂教学的循证改进。
@@ -83,7 +85,7 @@ updated: 2026-09-12
 > - **干预与支持措施** 设立国家级协同指导委员会；对课题实行双向评审（不仅考察学术规范，严审用户参与方案与[[Knowledge Mobilisation|知识动员]]设计）；设立专项跨界能力建设基金与成果[[Transfer Translation Transformation|转译]]支持平台。
 > - **四大运作支柱**
 >   1. **用户全程参与（User Engagement）** 将教师与决策官员作为平等研究伙伴嵌入研究立项与实施阶段；
->   2. **可持续伙伴关系（Sustainable Partnerships）** 跨越大学与中小学校际边界，组建共担责任的跨专业学习共同体；
+>   2. **可持续伙伴关系（Sustainable Partnerships）** 跨越大学与中小学校际边界，组建共担责任的跨[[Professional Learning Community|专业学习共同体]]；
 >   3. **团队联合生产（Co-production）** 由学者与实践者共同界定实践难题，协同完成方案设计与成果转化；
 >   4. **全系统能力建设（Capacity Building）** 重点培育兼具学术洞察与实践敏感度的跨界领军人才。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]]
 

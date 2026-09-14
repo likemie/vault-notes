@@ -10,7 +10,7 @@ title: "Argument_Pellegrini_2021_ROE"
 argument_key: "Argument_Pellegrini_2021_ROE"
 argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Research Utilization]]"
+  - "[[Evidence Standards]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
@@ -51,6 +52,7 @@ related_facts:
   - "[[Azione LIM]]"
   - "[[EPPI-Centre]]"
   - "[[Education Endowment Foundation]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Research Schools Network]]"
   - "[[Campbell Collaboration]]"
   - "[[Danish Clearinghouse for Educational Research]]"
@@ -67,7 +69,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-23
-updated: '2026-06-08'
+updated: 2026-09-13
 year: 2021
 doi: ""
 citation_aliases:
@@ -79,7 +81,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 欧洲教育政策中，[[Research Utilization|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 ESSA 式证据标准 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？(pp.25-28)
+> 欧洲教育政策中，[[Research Utilization|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 ESSA 式[[Evidence Standards|证据标准]] 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？(pp.25-28)
 
 这篇文章要解释的核心张力是：欧盟政策倡议 已经把证据知情政策和实践列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案(pp.35-37)。
 
@@ -116,7 +118,7 @@ citation_aliases:
 5. EIPPEE 发现欧洲活动很多、路径多样，但跨欧洲层面的合作和协调较少；它建议加强研究证据与政策之间的联系、提升研究质量和可用性、扩展系统综述、建设研究生产到使用系统中的能力，并增加政治和财政承诺(p.30)。
 6. 2017 年 Eurydice 报告显示，多数国家已有官方安排和组织为政策制定提供证据，但安排差异很大，从法律规定到一般性咨询指南不等；英国在政策措施上走在前面，并通过 [[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、SSIF and TLIF 等机制推动[[Research Utilization|证据使用]](p.31)。
 
-例子：EEF 既生成新证据，也通过 Teaching and Learning Toolkit and [[Research Schools Network]] 做 [[Knowledge Mobilisation|知识动员]]。这类组织不是单[[Blue Skies Research|纯研究]]机构，而是在研究、学校和政策之间承担翻译功能(pp.31-33)。
+例子：EEF 既生成新证据，也通过 [[EEF Teaching and Learning Toolkit|Teaching and Learning Toolkit]] and [[Research Schools Network]] 做 [[Knowledge Mobilisation|知识动员]]。这类组织不是单[[Blue Skies Research|纯研究]]机构，而是在研究、学校和政策之间承担翻译功能(pp.31-33)。
 
 文章列举的欧洲证据基础设施可分为两组：证据生成与综述机构包括 [[Campbell Collaboration]]、[[Danish Clearinghouse for Educational Research]]、[[EPPI-Centre]]、[[Institute for Effective Education]]、[[Swedish Institute for Educational Research]] 和 [[Top Institute for Evidence-Based Education Research]]；证据传播和实践者网络包括 [[Centre for the Use of Research and Evidence in Education]] 与 [[Evidence-Based Teachers Network]](pp.32-34)。各机构细节写在对应条目中，这里只保留它们在论证链中的功能位置。
 

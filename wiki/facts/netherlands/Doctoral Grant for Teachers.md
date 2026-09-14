@@ -10,7 +10,7 @@ subtype: program
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/evidence-informed-practice
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Teaching Assistant]]"
   - "[[Research Question]]"
   - "[[Mentorship]]"
   - "[[Research Literacy]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Doctoral Grant for Teachers
@@ -72,7 +73,7 @@ updated: 2026-09-13
 > [!policy-design]- 方案设计
 > - **项目目标** 促成高质量教育研究成果的产出与转化；提升一线教师的批判性探究与科研素养；增进学校与大学研究机构之间的人才流动与长效信任。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 89–90)]]
 > - **覆盖对象** 拥有硕士学位或同等学力、且在荷兰合法认证教育机构执教的各学段专任教师。
-> - **核心干预（代课教师成本补偿机制）** 资助款项并不以劳务报酬形式发放给个人，而是直接拨付至教师所在学校，专项用于全额覆盖聘请代课教师的开支；受资助教师在最长 5 年资助期内，享有最高达 0.4 全职当量（Full-time Equivalent, FTE，即每周两天）的法定豁免教学时间，专职在大学导师指导下攻读博士学位与开展课题研究。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 90)]]
+> - **核心干预（代课教师成本补偿机制）** 资助款项并不以劳务报酬形式发放给个人，而是直接拨付至教师所在学校，专项用于全额覆盖聘请代课教师的开支；受资[[Teaching Assistant|助教]]师在最长 5 年资助期内，享有最高达 0.4 全职当量（Full-time Equivalent, FTE，即每周两天）的法定豁免教学时间，专职在大学导师指导下攻读博士学位与开展课题研究。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 90)]]
 > - **选题导向与学术自主性** 课题选题采取完全开放原则（Very open），严禁行政预设教条化指南，鼓励教师立足日常课堂、学科教学法或学校治理中的真实实践困惑自主确立[[Research Question|研究问题]]。
 
 > [!citation-card] 荷兰教师博士资助计划核心资助规程
@@ -154,7 +155,7 @@ updated: 2026-09-13
 > |:-----|:-----|:-----|
 > | [[Engagement in and with Research]] | Concept | 计划直接支撑一线教师实现开展研究与使用研究的深度融合。 |
 > | [[Knowledge Co-production]] | Concept | 计划为高校学者与一线教师合作生产知识提供了制度化资金载体。 |
-> | [[Boundary Spanner]] | Concept | 受资助教师成为穿梭于学校与大学之间的典型跨界边界跨越者。 |
+> | [[Boundary Spanner]] | Concept | 受资[[Teaching Assistant\|助教]]师成为穿梭于学校与大学之间的典型跨界边界跨越者。 |
 > | [[Public Sector PhD Scheme]] | Fact (Program) | 挪威公共部门在岗博士联合培养计划，形成跨国对照。 |
 > | [[Hungarian Researcher Teacher Scheme]] | Fact (Policy) | 匈牙利研究型教师职级制度，在职级与薪酬津贴维度形成对照。 |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | Argument | 详细记述并分析该计划的来源[[Document\|文献]]。 |

@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Evaluation Research]]"
   - "[[Academic Freedom]]"
+  - "[[Teaching Assistant]]"
   - "[[Concierge Service]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Co-location]]"
@@ -129,7 +130,7 @@ citation_aliases:
 > [!example]- 图13.1：产学合作中各利益相关方的收益
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_13-1_Stakeholder_Benefits_to_UI_Partnership.jpg)
 
-> 滑铁卢大学与 Mitacs 联合资助了一位专家，专门负责推动加速项目的校内参与。这位专家的存在显著提升了项目的教师使用率(p.244)。这本身构成一个微缩版的论证：**仅有资金杠杆还不够，还需要有人帮助教师跨越从知道这个项目到实际申请之间的行政距离。**
+> 滑铁卢大学与 Mitacs 联合资助了一位专家，专门负责推动加速项目的校内参与。这位专家的存在显著提升了项目的教师使用率(p.244)。这本身构成一个微缩版的论证：**仅有资金杠杆还不够，还需要有人帮[[Teaching Assistant|助教]]师跨越从知道这个项目到实际申请之间的行政距离。**
 
 4. 滑铁卢大学合作教育的规模使产业合作成为大学运作的常态而非例外。该校拥有全球最大的本科合作教育项目之一，每年将 **26,000 名**本科生与 **8,000 多个**国内外雇主连接(pp.243–244)。然而，工作整合学习机会在研究生层面面临更大的实际和后勤困难——加拿大经济以中小企业和外国跨国公司的分支工厂为主，全球总部较少，使得为研究生寻找有薪研究型实习岗位更具挑战性(p.244)。Mitacs Accelerate 项目正是对这一结构性困难的回应。对教师而言，能够为学生提供产业实践机会本身就成为研究生招生的差异化优势。
 

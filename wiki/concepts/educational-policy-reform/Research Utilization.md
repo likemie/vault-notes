@@ -8,10 +8,10 @@ aliases:
   - knowledge utilization
   - 证据使用
   - Use of Research Evidence
-summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动、启蒙与战术模型；经历三代知识到行动（KTA）演进；在宏观政策全生命周期中面临严苛的政治与可行性阶段过滤，在中观上受跨层治理机制制约，在微观上作为知觉控制驱动的专业教学整合行为。"
+summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 58
+related_count: 76
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,11 +34,20 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Operationalization]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Research Translation]]"
+  - "[[School Inspection]]"
+  - "[[Research-Practice Partnership]]"
+  - "[[Boundary Spanner]]"
   - "[[Problem Finding]]"
   - "[[Deficit Framing]]"
   - "[[Literature Search]]"
   - "[[Interaction Effect]]"
+  - "[[Falsification]]"
+  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
+  - "[[Democratising Evidence]]"
   - "[[Positivism]]"
   - "[[Methodological Individualism]]"
   - "[[Self-report Bias]]"
@@ -47,14 +56,13 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Construct Validity]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Policy Brokerage]]"
-  - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
-  - "[[Paradigm]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
+  - "[[Theory of Change]]"
   - "[[Theory of Planned Behavior]]"
+  - "[[COM-B Model]]"
   - "[[Research Utilization Models]]"
 related_methods:
   - "[[Framework Synthesis]]"
@@ -62,33 +70,43 @@ related_methods:
   - "[[Exploratory Factor Analysis]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
-  - "[[Effect Size]]"
   - "[[In-depth Interview]]"
   - "[[Scale Development]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Composite Reliability]]"
   - "[[Systematic Review]]"
   - "[[Mixed Methods Research]]"
+  - "[[Semi-structured Interview]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons: []
 related_facts:
+  - "[[Ofsted]]"
+  - "[[Education International]]"
+  - "[[National Education Association]]"
+  - "[[Education Endowment Foundation]]"
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[What Works Network]]"
+  - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Torres_2022_KMModels]]"
+  - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
+  - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Torres_2022_BarriersMechanisms]]"
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Research Utilization
@@ -140,12 +158,17 @@ updated: 2026-09-13
 > - **获取渠道对熟人人际网络的极端依附（Interpersonal Access Bias）** 决策官员获取研究成果高度偏向人际口头[[Transfer Translation Transformation|转译]]（92% 咨询外部专家、84% 咨询内部研究员、84% 参加学术会议、78% 定向委托课题）；而自主检索学术数据库（57%）与查阅同行评议质量研究库（59%）明显偏低，表现出对二次口头加工建议的重度依赖与研读原始学术[[Document|文献]]的制度短板。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 94–95)]]
 > - **决策公职人员循证能力培训的系统性匮乏（Administrative Capacity Deficit）** 全样本中仅 39% 的系统认可政策制定者具备充分的专业学习机会以提升研究知识与技能，超六成（61%）持中立或反对立场，形成行政决策主体循证素养的能力瓶颈。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 94)]]
 > - **四类跨层治理机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）贯穿个体、组织与系统层级共同治理学校证据使用。
-> - **微观决策行为因果转化链条（Langer et al., 2016; [[Argument_Torres_2022_KMModels|Torres, 2022, pp. 46–50]]）** 证据利用本质上是由六类机制（意识、认同、技能、沟通、互动、结构）经由能力、动机与机会等中间心理状态所驱动的行动改变过程。
+> - **微观决策行为因果转化链条（Langer et al., 2016; [[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 46–50]]）** 证据利用本质上是由六类机制（意识、认同、技能、沟通、互动、结构）经由能力、动机与机会等中间心理状态所驱动的行动改变过程。
 > - **教师面对研究文本的五类能动反应模式（Cain, 2015）** 一线教师审议研究证据时处于个人经验（第一声音）、同行文化（第二声音）与学术研究（第三声音）的动态张力中，表现出直接忽略、证实既有经验、策略性利用、概念性启发与批判性拒绝五种能动反应。
 > - **研究证据质量使用（[[Quality Use of Research Evidence Framework|QURE]]）评价准则（Rickinson et al., 2020）** 超越“用不用”的二元论，将使用确立为个体、组织与系统三层使能条件下对“恰当研究证据”的“深思熟虑参与与实施”。
 > - **七维教师教学使用场景** 在微观教学中具体[[Operationalization|操作化]]为：① 规划日常专业活动；② 备课设计课程内容；③ 更新教学法知识；④ 解决课堂具体教学问题；⑤ 开展教学实践自我反思；⑥ 参与专业教研交流；⑦ 向同行推荐学术成果。
+> - **研究利用之科学元治理框架（Science of Using Science）** 研究利用不是依靠良好意愿或常识直觉自发实现的机械过程，而是一门需要专门研究的跨学科科学（Research on Research Use）；[[Knowledge Mobilisation|知识动员]]与中介机构自身必须构建严密的[[Theory of Change|变革理论]]，扎根行为科学厘清[[Research Translation|研究转化]]的微观因果机制，并对最终受益人成效开展独立因果检验。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 146–148, 157–158)]]
+> - **外层高利害问责体制的支配性制约（Accountability Primacy）** 在基础教育体系中，以英国教育标准局（[[Ofsted]]）为代表的高利害[[School Inspection|学校督导]]问责对校长与教师的办学实践拥有绝对支配权；研究利用若无法使循证改进成为学校应对督导评估的有效支撑，极易被一线专业人员视作额外负担而遭到边缘化排斥。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 150–151)]]
 > - **双轨行为支持路径** 追踪教育学术期刊（[[Document|文献]]输入）是直接驱动研究使用行为的最强效引擎（$\eta^2 = .046$），而亲身开展科研（探究输出）则作为技能控制基础间接支撑使用。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6, p. 13)]]
-
+> - **关系驱动型证据利用与反采矿式科研（Relational URE & Anti-extractive Research）** 薇薇安·曾（Vivian Tseng；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022, pp. 219–222]]）提出反思传统学术界把实践一线和弱势社群视作数据采矿场的单向提取模式，主张超越一次性产出交付，依托[[Research-Practice Partnership|研究与实践伙伴关系]]（Research-Practice Partnership，RPP）建立平等互信、权力共有与长效共生机制，并通过高校暂停终身教职评审计时钟等制度改革支持跨界协作。
+> - **第三空间话语机制（Third-Space Discourse）** 蒂娜·S·普罗伊茨（Tine S. Prøitz；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022, pp. 226–228]]）强调在学术研究界、政策制定者与教学实践界之间开辟中介性的第三空间，通过[[Boundary Spanner|跨界行动者]]促成超越二元对立的杂合话语，协同平衡学术严谨性、政策紧迫性与实践情境性。
+> - **一线实践者知识主权与工会自主循证（Practitioner Ownership & Union-led Inquiry）** 约翰·班斯与埃梅谢·K·纳吉（John Bangs & Emese K. Nagy；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022, pp. 233–236]]）强调教师绝非外部研究证据的被动消费者，而是证据的协同创造者与所有者；以[[Education International|教育国际]]（Education International，EI）和[[National Education Association|全美教育协会]]（National Education Association，NEA）为代表的教师专业组织通过开展独立实证研究，赋能一线专业自主权，抵御自上而下自发技术理性的行政规训。
+>
 > [!logic-map]- 研究利用的多层生态与行为驱动系统
 > ```mermaid
 > flowchart LR
@@ -244,6 +267,32 @@ updated: 2026-09-13
 
 ---
 
+### 命题七　单向学术推送预设的信息赤字假说已被因果试验证伪而必须转向需求拉动的行为变革机制
+
+> [!concept-lens] 单向传播无效性因果裁决与行为科学机制驱动
+> 围绕知识传播模式中的信息传递偏误展开。传统实践假定实践者缺乏研究利用是源于信息匮乏（Information Deficit），寄望通过被动推送或成果包装驱动应用；前沿因果评估彻底[[Falsification|证伪]]了这一[[Hypothesis|假设]]，促使研究利用理论转向扎根能力、机会与动机的行为改变机制。
+
+> [!claim] Lord, P.; Gough, D.; Michie, S.
+> **单纯信息传播因果无效性与行为改变科学驱动** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）针对向小学教师传播实证识字教学成果开展的大规模多臂[[Randomised Controlled Trials|随机对照试验]]（“识字八爪鱼” Literacy Octopus Trial，涵盖 800 余所公立小学、数千名教师与数万名学童）表明，无论是精编纸质手册、数字化通讯、专业期刊专栏还是低交互网络资源库，在改善学生 Key Stage 2（KS2）毕业识字成绩上均未产生统计学显著的正向效果（[[Effect Size|效应量]]均接近于 0），教师课堂教学行为亦无系统改变。该严谨因果试验证实单纯信息传播与实际利用之间不存在必然因果联系，彻底推翻了单向学术推介（Research Push）模式与信息赤字假设。研究利用本质上是专业人员在复杂组织生态中的行为改变过程，必须依据行为改变轮（Behaviour Change Wheel）与 [[COM-B Model|COM-B]] 机制（能力 Capability、机会 Opportunity、动机 Motivation - 行为 Behaviour），立足一线使用者的真实实践需求提供情境化支撑与长效陪伴。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 148, 152–153; Lord et al., 2017; Michie et al., 2011)]]
+
+---
+
+### 命题八　可持续的研究利用取决于跨界伙伴关系的信任沉淀与知识生产的权力共有
+
+> [!concept-lens] 跨界伙伴关系、反采矿式科研与证据民主化
+> 围绕研究生产者与实践使用者之间的权力结构与合作机制展开。传统模式往往将学校与社区视作科研数据的单向采矿场，导致证据转化难以为继；深化研究利用必须走向证据民主化，依托研究与实践伙伴关系实现长效互信沉淀、第三空间话语沟通与实践者知识主权确立。
+
+> [!claim] Tseng, V.; Prøitz, T. S.; Bangs, J.; Nagy, E. K.
+> **反采矿式跨界伙伴、第三空间话语与实践者主权** 针对教育研究利用长期受制于单向输出与技术专家垄断的结构性困境，当代教育治理学者与实践领袖提出深层关系范式重塑：
+> 1. **反采矿式科研与长效伙伴关系** 薇薇安·曾（Vivian Tseng, 2022）批判传统学术界将学校一线和弱势社区视作数据采集矿区的剥削性取向（Extractive Research），强调真实的可持续利用必须依托[[Research-Practice Partnership|研究与实践伙伴关系]]（RPP）。资助机构必须专项资助伙伴关系的维护成本与互信沉淀，高校体制亟需制度改革（如允许学者在构建跨界伙伴关系期间暂停终身教职评审计时钟），以此将证据利用从一次性项目交付转向基于互信的长期协同生产；
+> 2. **第三空间话语与中介对话机制** 蒂娜·S·普罗伊茨（Tine S. Prøitz, 2022）强调知识在不同主体间的有效流动有赖于开辟学术界、政策界与实践界相交汇的中介性第三空间。通过[[Boundary Spanner|跨界行动者]]的中介协调，融合学术严谨性、政策紧迫性与实践情境性，破除学科术语壁垒，使研究利用转化为持续的多边审议与意义协商；
+> 3. **实践者知识主权与教师组织自主知识生产** 约翰·班斯（John Bangs）与埃梅谢·K·纳吉（Emese K. Nagy, 2022）坚决反对将一线专业人员矮化为外部研究结论的被动消费者，主张确立教师作为知识协同创造者与所有者的主体地位。以[[Education International|教育国际]]（EI）和[[National Education Association|全美教育协会]]（NEA）为代表的教师专业组织通过开展独立实证研究与全球政策对话，将循证融入育人伦理与专业裁决，从而保障研究利用真正服务于教育公平与专业赋权。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 219–222, 226–228, 233–236)]]
+
+> [!warrant]- 制度性保障与权力共享机制
+> 证据民主化主张拆解以顶层循证机构为核心的层级规训，将弱势边缘群体、社区家庭与一线教师的实践智慧引入研究问题界定与证据生产源头，确立由多方共同拥有的循证治理生态。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -255,6 +304,8 @@ updated: 2026-09-13
 > | **专业敏感与知识整合** | 教师立足育人伦理对多源知识进行主动整合与裁决 | 课堂教学决策、教师专业发展、校本教研 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Eriksen (2022) |
 > | **行为控制与双轨支持** | 克服知行断层需攻坚技能控制，期刊阅读直接催化课堂使用 | 量表测量、教师知证教学培训、数据库支持 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] |
 > | **技术集聚与交往萎缩** | 政策端研究利用聚焦技术方案修补而萎缩于多方审议对话，退化为交易型原料采买 | 国家与地方教育行政决策、政策全生命周期证据治理 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] |
+> | **行为变革驱动** | 单向传播无法克服信息赤字，研究利用必须扎根能力、机会与动机驱动实践行为改变 | 证据中介干预方案设计、教师专业发展与行为干预评估 | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 152–153)]]; Lord et al. (2017) |
+> | **关系伙伴与证据民主化** | 超越单向推送与采矿式调研，依托长效互信伙伴关系、第三空间话语与社群共有议程实现深层利用 | 跨界 RPP 联盟、学区治理改革、边缘弱势社区赋权 | Tseng (2022); Prøitz (2022); [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] |
 
 ---
 
@@ -264,8 +315,10 @@ updated: 2026-09-13
 > - **1970s–1990s — 宏观政策[[Research Utilization Models|研究利用模型]]与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、[[Problem Solving|问题解决]]、互动与战术模型，Pelz (1978) 与 Beyer & Trice (1982) 奠定工具性、概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三元分类。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 > - **2000s–2010s — [[Evidence-Based Education|循证教育]]运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
 > - **2010s — 知识到行动三代模型演进** Best & Holmes (2010) 系统梳理知识到行动（KTA）的三代模型演进（线性推送 $\rightarrow$ 关系型[[Knowledge Co-production|协同生产]] $\rightarrow$ 系统程序性生态），为理解复杂政策环境下的证据利用提供了全景透镜。
-> - **2020s — 跨层治理机制、行为因果链条与质量评价** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制；[[Argument_Torres_2022_KMModels|Torres (2022)]] 综合梳理微观行为改变框架（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020），推动研究利用从“是否使用”走向“质量使用”。
-> - **2022 — [[OECD|经合组织]]跨国实证调查揭示促成机制与结构障壁的错配断裂** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022]]）全面测度 29 国 37 个教育系统教育部委在政策与实践维度的促成机制、结构性障壁与利用形态，实证揭示方案设计高频使用（70%）与多方审议[[Dialogue in Education|对话]]萎缩（47%）的交易型病理，并诊断机制数量与障壁感知的错配悖论，倡导从碎片化单一项目走向高位系统协调与科研动力学管理。
+> - **2020s — 跨层治理机制、行为因果链条与质量评价** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制；[[Argument_Torres_2022_KMModels|Torres (2022b)]] 综合梳理微观行为改变框架（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020），推动研究利用从“是否使用”走向“质量使用”。
+> - **2022 — [[OECD|经合组织]]跨国实证调查揭示促成机制与结构障壁的错配断裂** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a]]）全面测度 29 国 37 个教育系统教育部委在政策与实践维度的促成机制、结构性障壁与利用形态，实证揭示方案设计高频使用（70%）与多方审议[[Dialogue in Education|对话]]萎缩（47%）的交易型病理，并诊断机制数量与障壁感知的错配悖论，倡导从碎片化单一项目走向高位系统协调与科研动力学管理。
+> - **2022 — 研究利用之科学与多臂因果试验裁决** [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型（Figure 7.1）；依托全英[[What Works Network|有效性网络]]实践与识字八爪鱼试验（Lord et al., 2017）多臂 [[Randomised Controlled Trials|RCT]] 因果实证，彻底推翻单向推送的信息赤字假说，确立了基于行为改变科学（[[COM-B Model|COM-B]]）与外部高利害问责制度咬合的研究利用新[[Paradigm|范式]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
+> - **2022 — 七大利益相关者全景论辩与证据民主化转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思技术理性下单一证据标准的霸权，正式确立以[[Democratising Evidence|证据民主化]]、[[Research-Practice Partnership|研究与实践伙伴关系]]（RPP）、第三空间话语与教师专业主权为支柱的深层关系型研究利用进路。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
 
 ---
@@ -279,6 +332,18 @@ updated: 2026-09-13
 > >
 > > - **Levin (1991); Radford (2008)** 批评简单影响模型扭曲了教育研究的本质，排斥了无法简化为因果处方的深层质性发现。
 > > - **Cartwright (1991); Cook (1991)** 指出政策决策对快速答案的渴望容易导致对证据适用边界的忽视。
+>
+> > [!axis] 单向信息推送[[Hypothesis|假设]] vs 情境化行为改变机制
+> > 探讨促成研究利用的核心机制究竟是降低信息获取门槛，还是重塑使用者的能力、机会与动机。
+> >
+> > - **信息赤字立场** 假定实践者缺乏证据利用主要源于信息获取困难与学术文本晦涩，致力于单向简化与推送证据摘要。
+> > - **行为科学立场（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022]]; Michie et al., 2011）** 指出单向推送已被多臂 [[Randomised Controlled Trials|RCT]] 严谨实证否定（[[Effect Size|效应量]]为 0）；研究利用本质上是情境化行为改变，必须依托能力、机会与动机的三维重塑及长效陪伴机制。
+>
+> > [!axis] 技术专家治理 vs 证据民主化与教师知识主权
+> > 围绕研究利用的价值底色展开辩驳：是以标准化证据库和自上而下行政规训为主导，还是强调多元主体参与和实践者主权。
+> >
+> > - **技术专家与证据标准规训立场（Schneider, 2022）** 强调依托高阶因果证据库与标准化认证机制，严格规范循证干预的遴选与复制推广。
+> > - **证据民主化与实践者主权立场（Tseng, 2022; [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）** 批判外部研究者的采矿式数据索取与技术专家治理对一线专业自主权的侵蚀，主张通过 RPP 共享知识生产权力，确立教师作为证据所有者而非被动消费者的主体地位。
 
 > [!tension] 核心张力：工具性处方套用 vs 专业[[Phronesis|实践智慧]]整合
 > - **外源处方执行立场（蓝方）** 主张教师应当严格依据高质量实证证据（如 [[Randomised Controlled Trials|RCT]] 与[[Meta-analysis|元分析]]处方）标准化重构教学流程，视偏差为忠实度不足。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 131)]]
@@ -291,6 +356,7 @@ updated: 2026-09-13
 > [!warning] 适用局限
 > 1. **调查视角的[[Self-report Bias|自陈偏差]]（[[Self-report Bias]]）** 大量研究使用实证数据依托教师或部委官员[[Questionnaire|问卷]]自陈，极易受社会期望影响导致对循证理念与重要性评价的虚假偏高（如部委理念自陈达 4.46 分），掩盖了微观教学一线与地方学区的真实阻力，且缺乏微观课堂互动与纵向行为追踪证据。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 77, 80)]]; [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 15)]]; [[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 3)]]
 > 2. **情境迁移边界** 基础教育学校的研究使用机制不能无缝照搬至高等教育、学前教育或宏观国家智库决策场景。
+> 3. **高利害外部问责体制对学校研究利用的压倒性支配** 在以英国教育标准局（[[Ofsted]]）为代表的高利害督导体制下，学校管理层的办学行为首先受制于评级考核达标，研究利用若无法与督导指标衔接，极易被一线教师视作额外负担而遭到边缘化。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 150–151)]]
 
 ---
 
@@ -317,22 +383,24 @@ updated: 2026-09-13
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5） | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 $k = 91$（83% 研究），组织层面 $k = 56$，系统层面 $k = 46$，核心构件 $k = 94$ | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
 > | 同上 | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research\|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向追踪数据稀缺 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议英文学术[[Document\|文献]]（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review\|批判性综述]]＋PRISMA 流程 | 30 年文献[[Problem Finding\|问题界定]]与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用[[Deficit Framing\|赤字框架]] | — | 揭示文献在方法多样性下同质化重复“使用不足”结论，陷入推论循环 |
-> | [[Argument_Torres_2022_BarriersMechanisms|Torres (2022)]] | 29 个 [[OECD]] 国家/地区，37 个教育系统 | 跨国政策[[Questionnaire\|问卷调查]]与 6 国跟进[[Semi-structured Interview\|半结构化访谈]] | 研究利用促成机制普及率与核心阻碍障壁 | 机制均值政策 4.7 项 / 实践 4.9 项；互动项目（实践 86% / 政策 65%）、专项经费 70%、成果分发工具 60% vs 能力建设（政策 49% / 实践 39%）、全系统战略仅 22%；核心障壁前三位为研读时间缺乏、科研周期冲突与专门机制缺乏；科研委托（62%/49%）严重倒置于需求识别（51%/32%） | — | 揭示机制数量与障壁感知的非对称错配（“机制短缺”本质上是现有机制孤立碎片化）；实证确立供给驱动导致的研究生产与实践需求脱节（pp. 107–118） |
+> | [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] | 29 个 [[OECD]] 国家/地区，37 个教育系统 | 跨国政策[[Questionnaire\|问卷调查]]与 6 国跟进[[Semi-structured Interview\|半结构化访谈]] | 研究利用促成机制普及率与核心阻碍障壁 | 机制均值政策 4.7 项 / 实践 4.9 项；互动项目（实践 86% / 政策 65%）、专项经费 70%、成果分发工具 60% vs 能力建设（政策 49% / 实践 39%）、全系统战略仅 22%；核心障壁前三位为研读时间缺乏、科研周期冲突与专门机制缺乏；科研委托（62%/49%）严重倒置于需求识别（51%/32%） | — | 揭示机制数量与障壁感知的非对称错配（“机制短缺”本质上是现有机制孤立碎片化）；实证确立供给驱动导致的研究生产与实践需求脱节（pp. 107–118） |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威教育改革政策制定（5 个政府专家委员会报告 vs 教育部法定法令，北欧五国政策系统） | 跨文本两阶段引用追踪与文献计量对比（绿色咨询报告与白皮书政令对比） | 专家委员会与教育部政令的证据继承率及来源分布 | 5 个专家委员会共引用 464 篇文献，教育部政令仅引用 22 篇（转化率仅 4.7%）；其中 20 篇（90.9%）仅源于审议 [[OECD]] DeSeCo 项目的单一委员会，OECD 引用频次碾压其他一切机构及知名学者 | $p$ 未报告（全样本追踪） | 证实宏观政策层面的证据利用存在严重的阶段性政治过滤断层，行政首脑机关仅高度倾向于吸纳能够赋权其施政意志的特定超国家中介证据 |
+> | [[Argument_Gough_2022_EvidenceOnEIPP\|Lord et al. (2017; Gough et al., 2022, p. 152)]] | 英格兰 800 余所公立小学、数千名五年级与六年级语文教师及数万名学童 | 大规模多臂[[Randomised Controlled Trials\|随机对照试验]]（Multi-armed RCT，[[Education Endowment Foundation\|EEF]] “识字八爪鱼”试验），由英国国家教育研究基金会（NFER）独立实施 | 精编纸质手册、数字化通讯、专业期刊专栏、低交互网络资源库四类单向传播干预臂对小学毕业统考 Key Stage 2（KS2）阅读写作标准化成绩及教师教学行为的影响 | 经过严格意向性分析（ITT），四类单一信息传播策略在改善学童 KS2 识字成绩上均未达到统计学显著性（[[Effect Size\|效应量]]接近于 0）；教师课堂教学行为亦未见可识别的系统性转变 | 统计学不显著（p > 0.05，效应量接近于 0） | 大规模严谨因果多臂 RCT，确证单纯单向信息推送在改变教学行为与学业产出上的因果无效性，从实证上[[Falsification\|证伪]]了信息赤字[[Hypothesis\|假设]] |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022)]] — 基于经合组织 29 国 37 个教育系统的政策调查数据，构建涵盖信息、互动、个体、结构和文化的五维影响因素类型学，量化测度促成机制与阻碍障壁的跨国分布，揭示机制孤立碎片化导致的“机制短缺悖论”，并剖析科研生产统筹机制与宏观系统战略的制度性断层。
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 基于[[OECD|经合组织]] 29 国 37 个教育系统的政策调查数据，构建涵盖信息、互动、个体、结构和文化的五维影响因素类型学，量化测度促成机制与阻碍障壁的跨国分布，揭示机制孤立碎片化导致的“机制短缺悖论”，并剖析科研生产统筹机制与宏观系统战略的制度性断层。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 全面测度 29 国 37 个教育系统教育部委在政策制定中的研究使用形态，实证揭示方案设计（70%）与多方审议（47%）的两极化分化，诊断决策端证据利用退化为短视原料采买的交易型病理机制，并揭示熟人人际咨询依附与政学信任赤字。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 基于行为科学与 Weiss 模型将研究使用[[Operationalization|操作化]]为 7 维测量工具，实证揭示教师[[Research Literacy|研究素养]]的知行断层，并证实追踪期刊（$\eta^2=.046$）是直接驱动日常教学使用的最强独立引擎。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 综合 109 项学校研究使用实证研究，识别出[[Document|文献]]的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]对研究使用文献的统治，正式确立以教师多源知识整合与专业规范为支柱的第四代专业敏感型理论。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 探讨全球治理 2.0 时代的[[Policy Brokerage|政策中介]]与证据利用，实证揭示北欧教育政策制定在专家咨询与行政政令阶段之间的证据过滤与选择性吸纳机制。
-> - [[Argument_Torres_2022_KMModels|Torres, P. (2022)]] — 系统评析[[Knowledge Mobilisation|知识动员]]与[[Evidence-Informed Decision-Making|证据知情决策]]模型，解构证据利用的行为因果机制（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及超越二元论的[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020）。
+> - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation|知识动员]]与[[Evidence-Informed Decision-Making|证据知情决策]]模型，解构证据利用的行为因果机制（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及超越二元论的[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020）。
+> - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型，系统批判官方治理模型遗漏外层系统的盲区，并依据多臂 [[Randomised Controlled Trials|RCT]] 因果实证阐明扎根行为改变科学的理论路径。
+> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 汇聚经合组织、资助机构、研究学者与国际教师工会等七大利益相关者群体，系统检视教育研究利用的结构性断层，提出证据民主化、去采矿式伙伴关系、第三空间对话机制与教师组织自主知识生产的全景治理方案。
 
 ---
 
@@ -348,5 +416,8 @@ updated: 2026-09-13
 > | [[Theory of Planned Behavior]] | 理论框架 | 将研究利用解释为由意识、态度和知觉控制技能驱动的外显目标行为。 |
 > | [[Quality Use of Research Evidence Framework]] | 实践框架 | 评价学校与教师研究使用质量的系统准则。 |
 > | [[Profession-Sensitive Conceptualisations of Research Use]] | 理论[[Paradigm\|范式]] | 第四代研究使用理论，强调多源知识整合与育人伦理裁决。 |
+> | [[Democratising Evidence]] | 理论转向 | 推动研究利用超越技术专家垄断、走向多元主体权力共有与包容性审议的深层价值范式。 |
+> | [[Research-Practice Partnership]] | 实践形态 | 克服单向采矿式科研、保障长期互信与研究知识持续转化的制度化合作架构。 |
+> | [[Boundary Spanner]] | 角色机制 | 在学术研究、政策制定与教学一线之间促成第三空间对话与知识转译的跨界行动者。 |
 > | [[Research Literacy Scale for Teachers]] | 测量工具 | 包含 7 题研究使用分量表、经 [[Confirmatory Factor Analysis\|CFA]] 严格验证的教师素养测评工具。 |
 > | [[Multivariate Analysis of Variance]] | 方法 | 检验期刊阅读与科研参与对研究使用主效应的统计分析方法。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,8 +31,7 @@ related_concepts:
   - "[[Innovation Hub]]"
 related_theories:
   - "[[Network Society]]"
-related_methods:
-  - "[[Snowball Sampling]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Australia in the Asian Century White Paper]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-09-14
 ---
 
 # Transnational Research Collaboration in Higher Education
@@ -63,7 +62,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]-
-> [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 追溯了跨国研究合作的[[Snowball Sampling|网络化]]转型：从传统的双边学术交流模式转向基于 Castells (1996) [[Network Society|网络社会]]逻辑和 Benkler (2006)"网络财富"的多节点、多层次协作网络。这一转型不仅改变了合作的技术形式，更重组了驱动合作的利益结构——个体、机构和国家的利益被融合进同一套合作话语之中([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])。
+> [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 追溯了跨国研究合作的网络化转型：从传统的双边学术交流模式转向基于 Castells (1996) [[Network Society|网络社会]]逻辑和 Benkler (2006)"网络财富"的多节点、多层次协作网络。这一转型不仅改变了合作的技术形式，更重组了驱动合作的利益结构——个体、机构和国家的利益被融合进同一套合作话语之中([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])。
 
 ## 核心要素
 
@@ -73,7 +72,7 @@ updated: '2026-05-18'
 >   2. **制度理性**（机构层面）：满足研究基础设施需求、进行国际绩效对标、提升全球声誉和排名
 >   3. **国家经济理性**（国家层面）：服务于贸易目标、提升国家创新能力和经济竞争力
 >   4. **外交理性**（国家层面）：将研究合作作为公共外交工具，维护和拓展国际关系网络
-> - **[[Snowball Sampling|网络化]]转型** Castells (1996) 的[[Network Society|网络社会]]理论和 Benkler (2006) 的"网络财富"概念为理解这一转型提供了分析资源——合作从双边线性关系转向多节点、分布式的网络结构
+> - **网络化转型** Castells (1996) 的[[Network Society|网络社会]]理论和 Benkler (2006) 的"网络财富"概念为理解这一转型提供了分析资源——合作从双边线性关系转向多节点、分布式的网络结构
 > - **国际[[University-Industry Collaboration|产学合作]]的五维挑战** [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al. (2025)]]从产学合作视角，将国际研究合作的成功条件归纳为五个维度（pp.311–316）：
 >   1. **目标与激励对齐（Strategy/Alignment）** 大学追求科学发现和发表，产业看重[[Return on Investment|投资回报]]；双方对价值的理解偏差更多源于感知而非现实，通过增加沟通可以缓解（pp.311–312）
 >   2. **合作经验与渠道（Know-how）** 许多机构缺乏启动国际合作的实务经验，可借助 Halo、SciVal 等在线工具寻找合作伙伴（pp.312–313）
@@ -84,7 +83,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]-
-> - [[Network Society|网络社会]]理论（Castells, 1996）— 解释跨国研究合作的[[Snowball Sampling|网络化]]结构转型([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
+> - [[Network Society|网络社会]]理论（Castells, 1996）— 解释跨国研究合作的网络化结构转型([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
 > - "网络财富"（Benkler, 2006）— 解释社会生产如何通过网络化协作转变市场和自由
 > - [[Geopolitics of Knowledge|知识地缘政治]] — 跨国研究合作是知识地缘政治在制度层面的关键运作[[Champ|场域]]，合作的条件、方向和收益分配深受地缘政治格局影响([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–100]])
 

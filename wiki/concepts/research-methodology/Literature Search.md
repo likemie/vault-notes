@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[PISA]]"
   - "[[Education at a Glance]]"
+  - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-09-09
+updated: 2026-09-14
 ---
 # Literature Search
 
@@ -250,7 +251,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [华东师范大学学报（教育科学版）](https://navi.cnki.net/knavi/journals/HDXK/detail) | 华东师范大学主办，教育部名刊工程入选学术期刊 |
 > | [江苏高教](https://navi.cnki.net/knavi/journals/JSGJ/detail) | 江苏省高等教育学会主办，地方高校改革与高等教育区域发展研究 |
 > | [教师教育研究](https://navi.cnki.net/knavi/journals/GDSZ/detail) | 北京师范大学、华东师范大学主办，教师专业发展与教师教育理论 |
-> | [教育发展研究](https://navi.cnki.net/knavi/journals/SHGJ/detail) | 上海市教育科学研究院主办，宏观教育政策分析与教育战略规划 |
+> | [教育发展研究](https://navi.cnki.net/knavi/journals/SHGJ/detail) | 上海市[[Institute of Education Sciences\|教育科学研究院]]主办，宏观教育政策分析与教育战略规划 |
 > | [教育科学](https://navi.cnki.net/knavi/journals/JYKO/detail) | 辽宁师范大学主办，教育学基础理论与经验实证研究 |
 > | [教育科学研究](https://navi.cnki.net/knavi/journals/JYKY/detail) | 北京市教育科学研究院主办，侧重基础教育改革与教育实证探索 |
 > | [教育实践与研究](https://jepr.ntue.edu.tw/) | 国立台北教育大学主办，教育实务与课程教学研究（TSSCI / CSSCI 来源） |

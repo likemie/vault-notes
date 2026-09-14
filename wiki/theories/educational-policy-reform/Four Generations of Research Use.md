@@ -8,7 +8,7 @@ aliases:
 summary: "梳理公共部门与教育领域证据使用思维演进的分析框架，从理性-线性（第一代）、关系网络（第二代）、系统全局（第三代）递进至以教师多源知识整合与专业规范为核心的专业敏感型（第四代）模型"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Professional Judgment]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Professional Learning Community]]"
   - "[[Teacher Knowledge Base]]"
   - "[[School Leadership]]"
   - "[[Document]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-14
 ---
 
 # Four Generations of Research Use
@@ -98,7 +99,7 @@ updated: 2026-08-26
 >
 > - **第二代：关系网络模型（Relational Approaches）**
 >
->   **核心特征** 强调大学与中小学的伙伴合作以及专业学习共同体中的互动交流，肯定了教师的参与意愿；但其底层逻辑依然预设科研成果应当自外向内地向实践传播与扩散。
+>   **核心特征** 强调大学与中小学的伙伴合作以及[[Professional Learning Community|专业学习共同体]]中的互动交流，肯定了教师的参与意愿；但其底层逻辑依然预设科研成果应当自外向内地向实践传播与扩散。
 >
 > - **第三代：系统全局模型（Systems-Wide Approaches）**
 >

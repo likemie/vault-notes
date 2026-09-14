@@ -39,7 +39,6 @@ related_theories:
   - "[[Technological Trajectories]]"
 related_methods:
   - "[[Framework Synthesis]]"
-  - "[[Snowball Sampling]]"
 related_persons:
   - "[[Manuel Castells]]"
   - "[[Trofim Lysenko]]"
@@ -60,7 +59,7 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -280,7 +279,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > - **1950年代** 赫鲁晓夫修正主义：去斯大林化，尝试分散经济管理权（sovnarkhoz改革），建造[[Akademgorodok]]模仿美国产学研模式。
 > - **1960年代** 柯西金经济改革：在保持计划框架下引入利润指标和企业自主权，是苏联最接近市场社会主义的尝试。
 
-领导者们并非不知道外部环境的变化，也没有坐视历史将苏联抛在后面。戈尔巴乔夫的信息公开（glasnost）改革尤其是一场令人惊讶的大胆尝试，它通过结束最严厉的审查政策、在政治话语领域引入新自由，直接回应了[[Snowball Sampling|网络化]]信息社会的新环境。
+领导者们并非不知道外部环境的变化，也没有坐视历史将苏联抛在后面。戈尔巴乔夫的信息公开（glasnost）改革尤其是一场令人惊讶的大胆尝试，它通过结束最严厉的审查政策、在政治话语领域引入新自由，直接回应了网络化信息社会的新环境。
 >
 > 然而，与所有此前的改革和现代化尝试一样，glasnost 无法克服国家主义苏联在结构上适应信息化的根本无能。苏联的经济增长主要通过 Gosplan 的数学模型和计算推进，新技术的引入缓慢，且因为其可能打乱精心规划的命令经济而被回避。克服国家垂直结构既需要根本性改变经济结构，又必然会严重损害国家官僚体系和党的"诺门克拉图拉"（nomenklatura）中的既得利益。苏联陷入了一个困局：体制寿命所必需的变革恰恰会从内部瓦解体制本身（pp.9–10）。
 >

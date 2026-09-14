@@ -4,11 +4,10 @@ aliases:
   - 科学不确定性
   - 证据不确定性
   - 认知不确定性
-  - 不确定性沟通
 summary: "指在科学探究与知识生产过程中，由于测量误差、随机波动、模型简化、证据不完备及认知局限，导致科学结论、理论模型与未来预测偏离绝对确定性的客观认识论与方法论状态；现代科学认识论与传播学强调，不确定性并非科学的瑕疵，而是推动假说检验与共识迭代的内在驱动力，坦诚披露不确定性是维系公共信任与培育批判性科学素养的核心基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,6 +48,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Covariate Adjustment]]"
+  - "[[Weight of Evidence Framework]]"
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
@@ -62,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-04
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Scientific Uncertainty
@@ -208,7 +208,7 @@ updated: 2026-09-11
 > > 在公共决策与产业规制中，企业游说团体与政治利益集团经常恶意利用科学内在的不确定性，发起“没有确凿定论就不应采取行动”的虚假舆论战。
 > >
 > > - **怀疑商人策略（Merchants of Doubt）** 烟草产业、化石能源巨头资助伪学者，抓住气候模型或致癌流行病学研究中的[[Confidence Interval|置信区间]]与未解决细节，宣称“科学界尚无共识”，以此阻挠公共卫生与减排政策。
-> > - **循证防守之道（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026]]）** 科学共同体必须向公众阐明：在复杂系统中“绝对必然的确定性”在[[Epistemology|认识论]]上是不存在的；政策决策的依据是“压倒性的证据权重（Weight of Evidence）”与预防原则，而非等待虚妄的百分之百确定性。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 58–60)]]
+> > - **循证防守之道（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026]]）** 科学共同体必须向公众阐明：在复杂系统中“绝对必然的确定性”在[[Epistemology|认识论]]上是不存在的；政策决策的依据是“压倒性的证据权重（[[Weight of Evidence Framework|Weight of Evidence]]）”与预防原则，而非等待虚妄的百分之百确定性。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 58–60)]]
 >
 > > [!axis] 风险厌恶型公关（Risk Aversion） vs 认识论[[Humility in Learning|谦逊]]（Epistemic Humility）
 > > 高校与科研机构领导层常担忧科学家公开讨论研究局限会引发媒体恶意断章取义，导致机构公关部门倾向于审查和过滤学者的严谨限定词。

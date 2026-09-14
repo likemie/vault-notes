@@ -7,9 +7,9 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 47
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 61
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
@@ -44,12 +44,14 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Knowledge Production]]"
   - "[[Cumulative Knowledge Base]]"
-  - "[[Cultural Barrier]]"
-  - "[[Research Purpose]]"
-  - "[[Dialogue in Education]]"
+  - "[[Evidence Standards]]"
+  - "[[School Leadership]]"
+  - "[[Professional Learning Community]]"
+  - "[[Third Space Discourse]]"
+  - "[[Democratising Evidence]]"
+  - "[[Knowledge Mediation]]"
   - "[[Research Problem]]"
   - "[[International Education]]"
-  - "[[School Leadership]]"
   - "[[Self-report Bias]]"
   - "[[Heterogeneity]]"
   - "[[Positivism]]"
@@ -60,16 +62,23 @@ related_theories:
   - "[[Varieties of Capitalism]]"
   - "[[Research Knowledge Mobilisation Model]]"
   - "[[Theory of Mind]]"
+  - "[[Typology of Factors Influencing Research Use]]"
+  - "[[Theory of Change]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
-  - "[[Cohort Study]]"
+  - "[[Action Research]]"
   - "[[Design-Based Research]]"
 related_instruments:
   - "[[Strengthening the Impact of Education Research Policy Survey]]"
 related_persons:
+  - "[[José Manuel Torres]]"
   - "[[Tracey Burns]]"
+  - "[[David Gough]]"
+  - "[[Jonathan Sharples]]"
+  - "[[Mark Rickinson]]"
+  - "[[Dirk Van Damme]]"
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -77,17 +86,22 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Best Evidence Synthesis]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Monash Q Project]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+  - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
+  - "[[Argument_Torres_2022_BarriersMechanisms]]"
+  - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
+  - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Revai(Ed.)_2022_OECD|Revai(Ed.)_2022_OECD]]"
 part_of: null
 status: draft
 created: 2026-09-12
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Argument_Revai(Ed.)_2022_OECD
@@ -182,7 +196,7 @@ updated: 2026-09-13
 >   - **相关章节** Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]；Ch. 04（Hill）；Ch. 05（Torres）；Ch. 07（Gough et al.）。
 >   - **阅读价值** 对比各国中介组织（如英国 [[Education Endowment Foundation|EEF]]、新西兰 [[Best Evidence Synthesis|BES]]、美国 [[What Works Clearinghouse|WWC]] 等）在治理依附、证据综合、工具包开发与转化指导上的差异，剖析其受制于短期政治与预算周期的生存悖论，以及迈向“中介的中介”的元治理进路。
 > - **跨界合作、[[Knowledge Co-production|知识共创]]与学术[[Varieties of Capitalism|生产体制]]的结构性制约**
->   - **相关章节** Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]；Ch. 08（Halász）；Ch. 09（Rickinson et al.）；Ch. 10（Bangs et al.）。
+>   - **相关章节** Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]；Ch. 08（Halász）；Ch. 09 [[Argument_Rickinson_2022_UsingResearchWell]]；Ch. 10（Bangs et al.）。
 >   - **阅读价值** 深入探讨研究者、教师与政策制定者在知识共建过程中的文化冲突，揭示传统学术评价（SCI/SSCI 期刊崇拜）与实践导向[[Knowledge Production|知识生产]]之间的制度断裂。
 
 ---
@@ -192,16 +206,17 @@ updated: 2026-09-13
 > [!chapter-roadmap] 章节处理路线
 > - **已处理章节**
 >   - Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]。Nóra Révai 梳理证据知情话语与[[Knowledge Mobilisation|知识动员]]概念演进，界定研究、证据与知识边界，批判线性模型并引入复杂系统论视角，确立 [[OECD]] 政策调查设计与全书分析架构。
->   - Ch. 02 [[Argument_Torres_2022_KMModels]]。José Manuel Torres 借助 Best & Holmes 三代模型透镜，横向比较跨领域四大主流知识动员模型（Lavis、Graham KTA、Levin [[Research Knowledge Mobilisation Model|RKM]]、Gough 证据生态），结合微观行为改变与教师声音前沿，确立未来[[Evidence Ecosystem|证据生态系统]]模型的建构路标。
+>   - Ch. 02 [[Argument_Torres_2022_KMModels]]。[[José Manuel Torres]] 借助 Best & Holmes 三代模型透镜，横向比较跨领域四大主流知识动员模型（Lavis、Graham KTA、Levin [[Research Knowledge Mobilisation Model|RKM]]、Gough 证据生态），结合微观行为改变与教师声音前沿，确立未来[[Evidence Ecosystem|证据生态系统]]模型的建构路标。
 >   - Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]。[[Tracey Burns]] & [[Theory of Mind|ToM]] Schuller 考证 2007–2022 年全球[[Educational Brokerage Agency|教育中介机构]]演进史，揭示后真相时代挑战与实践倾斜诱发的政策脱责隐忧，借助循证医学危机剖析证据商业化与刚性指南的负面效应，指出机构受制于 2–3 年政治预算周期的存续悖论，并倡导推进“中介的中介”（Brokering the Brokers）以建构跨国[[Cumulative Knowledge Base|累积性知识库]]。
 >   - Ch. 04 [[Argument_Hill_2022_FacilitatingActors]]。Jordan Hill 基于 OECD 跨国政策调查（29 国 37 个教育系统）实证数据，全景刻画促进研究应用的 17 类组织行动者与个体专业角色，揭示大学垄断生产、实践组织边缘化、部委依附生产而非促成转化、教师被局限为被动数据收集客体，以及政策制定者人际网络沦为狭隘“交易型”接触等系统性结构断层。
 >   - Ch. 05 [[Argument_Torres_2022_BarriersMechanisms]]。José Manuel Torres 基于 OECD 政策调查（29 国 37 个教育系统）数据，构建信息、互动、个体、结构与文化五维影响因素类型学（[[Typology of Factors Influencing Research Use]]），实证映射机制与障壁分布，揭示互动与资助高企而能力与战略匮乏的结构性失衡，解构“机制短缺”的认知悖论，剖析科研委托倒置于需求识别的供给驱动病理，并倡导复杂系统协同治理战略。
+>   - Ch. 07 [[Argument_Gough_2022_EvidenceOnEIPP]]。[[David Gough]]、[[Jonathan Sharples]] 与 Chris Maidment 深入反思知识中介机构自身的“循证赤字”，提出指导中介实践的五大支柱：既有生态需求分析、外层社会政治系统整合、基于行为改变机制的[[Theory of Change|变革理论]]、透明严谨的六维[[Evidence Standards|证据标准]]与适切功效主张，以及针对最终受益人成效的因果评估与元研究积累。
+>   - Ch. 09 [[Argument_Rickinson_2022_UsingResearchWell]]。[[Mark Rickinson]] 等人基于澳大利亚[[Monash Q Project|莫纳什 Q 项目]]对 4 州 906 名教育工作者的实证调查，系统阐述[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]（QURE）的理论内核与多层使能结构，提炼实践端界定优质使用的六大核心特征，揭示[[School Leadership|学校领导力]]示范与[[Professional Learning Community|专业学习共同体]]的显著正向作用，以及压倒性时间赤字构成的制度瓶颈。
+>   - Ch. 10 [[Argument_Bangs_2022_PerspectivesOnResearch]]。汇集学者（[[Dirk Van Damme|Van Damme]]）、美国联邦科学资助长官（Schneider）、全球最大教师工会领袖（Bangs & Henry）、一线兼任大学教员的中小学校长（Nagy）、国家级试点评估专家（Prøitz）、大型慈善基金会副总裁（Tseng）与国家教师研修院学者（Yurita）的多元交锋，系统反思教育科研供给侧质量与复现危机，提出 SEER 循证卓越标准、教师工会证据倡导、校本[[Action Research|行动研究]]共创与[[Third Space Discourse|第三空间]]伙伴关系，倡导推进[[Democratising Evidence|证据民主化]]以终结榨取式科研，并深刻警惕功利主义“可用性修辞”对离群弱势群体的制度性排斥。
 > - **优先处理章节**
->   - Ch. 07（Gough et al.）：探讨中介机制本身的循证检验（Evidence on EIPP），奠定元研究方法论标准。
->   - Ch. 09（Rickinson et al.）：阐述高质量[[Research Utilization|研究使用]]（[[Quality Use of Research Evidence Framework|QURE]]）框架，填补一线实践维度的评估工具缺口。
 >   - Ch. 11（Révai）：全书总结与未来系统性政策行动蓝图。
-> - **可暂缓章节** Ch. 06（跨行业经验梳理）与 Ch. 10（多元观点短论汇总），待主干章节完成后补充。
-> - **缺口提醒** 目前已完成全书 Overview、第 1 章宏观图景、第 2 章理论模型、第 3 章中介机构演进史、第 4 章行动者网络实证图景，以及第 5 章促成机制与结构性障壁实证分析；全书第一板块（Part I）与第二板块前两章（Ch 04、Ch 05）已处理完毕。后续应重点推进 Ch 07 中介循证标准与 Ch 09 高质量研究使用框架。
+> - **可暂缓章节** Ch. 06（跨行业经验梳理）与 Ch. 08（协作与[[Knowledge Co-production|知识共创]]），待主干章节完成后补充。
+> - **缺口提醒** 目前已完成全书 Overview、第 1 章宏观图景、第 2 章理论模型、第 3 章中介机构演进史、第 4 章行动者网络实证图景、第 5 章促成机制与结构性障壁实证分析、第 7 章[[Knowledge Mediation|知识中介]]自我循证标准、第 9 章实践端高质量[[Research Utilization|研究使用]]框架，以及第 10 章多元利益相关者多维论辩反思；全书理论根基、实证网络与反思批判维度已高度完备。后续应重点推进 Ch 11 全书行动蓝图。
 
 ---
 
@@ -214,10 +229,10 @@ updated: 2026-09-13
 > - **Ch. 04 — Who is Facilitating Research Use in Education Systems?** [[Argument_Hill_2022_FacilitatingActors]] — 基于 OECD 政策调查数据，详尽描绘在国家与地方教育系统中促进研究应用的组织与个体行动者，揭示学术生产主导与实践外围化、部委联结脱节、一线教师被动客体化及政策决策交易型互动的深层断裂。
 > - **Ch. 05 — Facilitating Research Use: Scary Barriers (and Super Mechanisms)** [[Argument_Torres_2022_BarriersMechanisms]] — 构建五维影响因素类型学，基于 29 国 37 个教育系统调查数据实证测度促成机制与阻碍障壁，揭示机制数量与障壁感知的错配悖论，以及科研委托倒置于需求识别的制度化脱节。
 > - **Ch. 06 — Linking Research, Policy and Practice: Learning from Other Sectors** Argument_Boaz_2022_LinkingOtherSectors — 跨行业审视医疗、农业与环境等领域 500 余家促进研究应用的机构实践，提炼对教育领域的借鉴启示。
-> - **Ch. 07 — Evidence on Evidence-Informed Policy and Practice** Argument_Gough_2022_EvidenceOnEIPP — 探讨中介举措如何自身实现循证，提出需求分析、系统情境整合、变革理论、证据标准与成效评估五大中介支柱。
+> - **Ch. 07 — Evidence on Evidence-Informed Policy and Practice** [[Argument_Gough_2022_EvidenceOnEIPP]] — 探讨中介举措如何自身实现循证，提出需求分析、系统情境整合、[[Theory of Change|变革理论]]、[[Evidence Standards|证据标准]]与成效评估五大中介支柱。
 > - **Ch. 08 — Communication, Collaboration and [[Knowledge Co-production|co-production]] in Research: Challenges and Benefits** Argument_Halasz_2022_CoProduction — 从知识共创视角反思研究应用与影响力，结合创新与知识管理路径探讨合作生产的制度收益与文化挑战。
-> - **Ch. 09 — Using Research Well in Educational Practice** Argument_Rickinson_2022_UsingResearchWell — 基于澳大利亚学校五年[[Cohort Study|追踪研究]]，阐述[[Quality Use of Research Evidence Framework|高质量研究使用]]（[[Quality Use of Research Evidence Framework|QURE]]）框架的核心内涵、实践表征与系统支撑策略。
-> - **Ch. 10 — Perspectives on Education Research** Argument_Bangs_2022_PerspectivesOnResearch — 汇集学者、智库、工会领袖与资助机构多元视点，围绕教育[[Research Purpose|研究目的]]、相关性与生产方式展开多方[[Dialogue in Education|对话]]与立场交锋。
+> - **Ch. 09 — Using Research Well in Educational Practice** [[Argument_Rickinson_2022_UsingResearchWell]] — 基于澳大利亚[[Monash Q Project|莫纳什 Q 项目]]对 906 名教育者的实证调查，阐述[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]（[[Quality Use of Research Evidence Framework|QURE]]）的核心内涵、六大实践表征与[[School Leadership|学校领导力]]及时间支撑策略。
+> - **Ch. 10 — Perspectives on Education Research** [[Argument_Bangs_2022_PerspectivesOnResearch]] — 汇集学者、官方资助者、工会领袖与一线校长等多元视点，围绕学科自主建制、SEER 循证卓越标准、工会证据倡导、校本[[Action Research|行动研究]]、[[Third Space Discourse|第三空间]]伙伴关系、[[Democratising Evidence|证据民主化]]与反思功利主义修辞展开系统论辩。
 > - **Ch. 11 — Improving Research-Policy-Practice Engagement: Lessons Learnt and Ways Forward** Argument_Revai_2022_WaysForward — 整合全书研究发现与政策调查结果，提炼促进研-政-学深度协同的六大核心战略，描绘未来系统性治理蓝图。
 
 ---

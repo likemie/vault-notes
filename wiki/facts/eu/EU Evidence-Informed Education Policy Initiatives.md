@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Dialogue in Education]]"
   - "[[Formative Assessment]]"
+  - "[[Evidence Standards]]"
   - "[[Creativity]]"
   - "[[Positivism]]"
   - "[[Reusability Paradox]]"
@@ -150,7 +151,7 @@ updated: 2026-09-13
 > |:---|:---|:---|
 > | **核心诉求** | 尽可能吸纳多元成员、吸纳更多欧洲国家与草根教育机构加入 | 保持严谨的方法论审查标准，聚焦高水平系统综述与严密因果证据 |
 > | **代表主体** | 泛欧广泛教育社团、政策观察员、新加入东欧成员国机构 | 资深学术证据中心（如 EPPI-Centre）、坎贝尔协作网专家 |
-> | **潜在风险** | 导致证据标准稀释，网络退化为缺乏专业密度的空泛交流论坛 | 门槛过高导致大多数欧洲本土机构被排斥，沦为极少数精英学者的闭门俱乐部 |
+> | **潜在风险** | 导致[[Evidence Standards\|证据标准]]稀释，网络退化为缺乏专业密度的空泛交流论坛 | 门槛过高导致大多数欧洲本土机构被排斥，沦为极少数精英学者的闭门俱乐部 |
 >
 > **EIPPEE 分轨化解方案** 采取双轨机制：设立面向广泛受众的公开网络大会以维系政治合法性与参与广度，同时保留面向成熟中介机构的闭门专家研讨会，从而在组织上[[Creativity|创造性]]化解了扩张与深化的结构性冲突([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 67–68]])。
 

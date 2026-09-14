@@ -1740,6 +1740,10 @@
   border-spacing: 0;
 }
 
+.callout[data-callout="sample-panel"] table {
+  font-size: 0.85em;
+}
+
 .callout[data-callout="method-panel"] th,
 .callout[data-callout="sample-panel"] th {
   background: rgba(var(--callout-color), 0.14);
@@ -17285,6 +17289,92 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   max-width: 260px !important;
 }
 
+/* 国际网络证据门户支持有效性证据主张的方法学标准表格（专属紧凑自适应排版，不影响其他矩阵表格） */
+.portal-standards-table-marker {
+  display: none !important;
+}
+
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) > .callout-content,
+.callout:has(.portal-standards-table-marker) > .callout-content {
+  overflow-x: auto !important;
+}
+
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) table,
+.callout:has(.portal-standards-table-marker) table {
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+}
+
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) thead th,
+.callout:has(.portal-standards-table-marker) thead th {
+  white-space: normal !important;
+  text-align: center;
+  padding: 0.55rem 0.5rem;
+}
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) thead th:first-child,
+.callout:has(.portal-standards-table-marker) thead th:first-child {
+  text-align: left;
+}
+
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) tbody td,
+.callout:has(.portal-standards-table-marker) tbody td {
+  padding: 0.55rem 0.5rem;
+}
+
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) th:nth-child(1),
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) td:nth-child(1),
+.callout:has(.portal-standards-table-marker) th:nth-child(1),
+.callout:has(.portal-standards-table-marker) td:nth-child(1) {
+  width: 34% !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  text-align: left !important;
+  background: rgba(68, 92, 120, 0.03);
+}
+
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) th:nth-child(2),
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) td:nth-child(2),
+.callout:has(.portal-standards-table-marker) th:nth-child(2),
+.callout:has(.portal-standards-table-marker) td:nth-child(2) {
+  width: 18% !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  text-align: center !important;
+  background: transparent !important;
+}
+
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) th:nth-child(3),
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) td:nth-child(3),
+.callout:has(.portal-standards-table-marker) th:nth-child(3),
+.callout:has(.portal-standards-table-marker) td:nth-child(3) {
+  width: 18% !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  text-align: center !important;
+}
+
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) th:nth-child(4),
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) td:nth-child(4),
+.callout:has(.portal-standards-table-marker) th:nth-child(4),
+.callout:has(.portal-standards-table-marker) td:nth-child(4) {
+  width: 15% !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  text-align: center !important;
+}
+
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) th:nth-child(5),
+.callout[data-callout="matrix-table"]:has(.portal-standards-table-marker) td:nth-child(5),
+.callout:has(.portal-standards-table-marker) th:nth-child(5),
+.callout:has(.portal-standards-table-marker) td:nth-child(5) {
+  width: 15% !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  text-align: center !important;
+}
+
 /* 暗色模式适配 */
 .theme-dark .callout[data-callout="matrix-table"] {
   --callout-color: 138, 168, 202;
@@ -17492,6 +17582,72 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   width: 280px !important;
   min-width: 240px !important;
   max-width: 330px !important;
+}
+
+/* 第 6 列：存续状态、循证模式与案例启示（控制过宽的列，防止行末无限延展） */
+.callout[data-callout="row-contrast"] th:nth-child(6),
+.callout[data-callout="row-contrast"] td:nth-child(6),
+.callout[data-callout="compare-table"] th:nth-child(6),
+.callout[data-callout="compare-table"] td:nth-child(6) {
+  width: 280px !important;
+  min-width: 240px !important;
+  max-width: 320px !important;
+}
+
+/* 6 列场景专属黄金列距排布（均衡各列分布，避免长文挤压与末列失衡） */
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(1),
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(1),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(1),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(1) {
+  width: 125px !important;
+  min-width: 105px !important;
+  max-width: 145px !important;
+}
+
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(2),
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(2),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(2),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(2) {
+  width: 145px !important;
+  min-width: 125px !important;
+  max-width: 165px !important;
+}
+
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(3),
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(3),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(3),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(3) {
+  width: 155px !important;
+  min-width: 135px !important;
+  max-width: 175px !important;
+}
+
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(4),
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(4),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(4),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(4) {
+  width: 175px !important;
+  min-width: 150px !important;
+  max-width: 200px !important;
+}
+
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(5),
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(5),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(5),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(5) {
+  width: 235px !important;
+  min-width: 195px !important;
+  max-width: 275px !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.07);
+}
+
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(6),
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(6),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(6),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(6) {
+  width: 255px !important;
+  min-width: 215px !important;
+  max-width: 295px !important;
 }
 
 /* 偶数行轻微斑马纹（提升横向长行辨识度） */

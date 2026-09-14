@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Governing by Numbers]]"
+  - "[[Teaching Assistant]]"
   - "[[Formative Assessment]]"
   - "[[Dialogue in Education]]"
   - "[[Feedback]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-03"
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Professional Judgment
@@ -136,7 +137,7 @@ updated: 2026-09-13
 > | **课堂微观数据** | 开展形成性观察与定性定量的[[Triangulation\|三角验证]]，即时识别学习断层并调整教学节奏。 | 过度偏好标准化终结性测试，忽视学生的微观真实反馈。 |
 
 > [!exegesis]- 实践理解与应用示例
-> 1. **课堂教学助理（TA）配置决策** 面对外部工具包中教学助理低[[Effect Size|效应量]]的粗糙评级，具有专业判断力的学校管理者深入分析其低效源于缺乏备课沟通与协同规划，进而通过重组 TA 培训与备课时间表，将 TA 转化为提升弱势学生学业与心理支持的关键支柱。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
+> 1. **课堂[[Teaching Assistant|教学助理]]（TA）配置决策** 面对外部工具包中教学助理低[[Effect Size|效应量]]的粗糙评级，具有专业判断力的学校管理者深入分析其低效源于缺乏备课沟通与协同规划，进而通过重组 TA 培训与备课时间表，将 TA 转化为提升弱势学生学业与心理支持的关键支柱。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
 > 2. **复杂改革评估结果的多样化解读** 在巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 数字化教学改革中，面对复杂的[[Formative Assessment|形成性评估]]报告，校董、校长与一线教师运用专业判断，从各自关注的战略推进、预算可持续性与课堂教学负担等不同价值维度展开[[Dialogue in Education|对话]]，避免了单一量化指标对复杂改革的武断扼杀。[[Argument_Ross_Morrison_2021_ROE|(Ross & Morrison, 2021, pp. 122–123)]]
 
 > [!logic-map]- 要素关系
@@ -278,7 +279,7 @@ updated: 2026-09-13
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 132)]] | 特刊 7 篇论文及更广国际 [[Evidence-Informed Practice\|EIP]] [[Document\|文献]]库 | 特刊导言概念与实证综合 | 教育者最常使用的证据来源 | 实践者最常依赖的证据来自专业经验与同事交流，而非原始研究 | — | 确立专业经验在决策审议中的现实基础 |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻 | 大规模调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道 | 教师主要从其他一线教师（同行专业网络）获取评估信息 | — | 证实专业人际网络主导着微观证据流向 |
 > | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison, 2021, pp. 122–123]] | 美国巴尔的摩县 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革 | 形成性项目评估[[Case Study\|案例研究]] | 不同决策主体对同一份评估报告的解读与态度 | 校董、校长与教师基于各自专业判断给出了截然不同的政策解读 | — | 证明专业判断在复杂数据解释中的持续主导性 |
-> | [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 12]] | 英国中小学面临预算缩减情境 | 实证案例与政策文本分析 | [[Education Endowment Foundation\|EEF]] 工具包效应量排行的决策应用 | 部分学校盲信工具包低效应量排行误裁教学助理（TA） | — | 证实抹杀专业判断的技术官僚决策会产生破坏性后果 |
+> | [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 12]] | 英国中小学面临预算缩减情境 | 实证案例与政策文本分析 | [[Education Endowment Foundation\|EEF]] 工具包效应量排行的决策应用 | 部分学校盲信工具包低效应量排行误裁[[Teaching Assistant\|教学助理]]（TA） | — | 证实抹杀专业判断的技术官僚决策会产生破坏性后果 |
 > | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 65–66)]] | [[International Education\|国际教育]]中介演进与循证医学危机交叉考察 | 历史制度主义与理论批判综合 | 商业化证据洗白与技术官僚对专业判断的侵蚀 | 揭示将指南与算法绝对化会导致临床专业判断退化，教学作为知识型专业需抵御去技能化 | — | 提示防范教育证据中介滑向算法技术官僚主义 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校[[Research Utilization\|研究使用]]实证文献 | [[Systematic Review\|系统综述]]＋[[Framework Synthesis\|框架综合]] | 教师研究使用中的能动性与整合形态 | 象征性与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]居多，[[Reflexivity\|反思性]]深度整合相对罕见 | — | 提示需在组织层级为专业判断提供可持续支持结构 |
 
@@ -287,7 +288,7 @@ updated: 2026-09-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]将研究证据界定为开放系统中的概率性资源，分析抹杀专业判断导致的教学助理误裁实证案例。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]将研究证据界定为开放系统中的概率性资源，分析抹杀专业判断导致的[[Teaching Assistant|教学助理]]误裁实证案例。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 批判技术官僚话语，提出教育核心在于价值审议（“为了什么目的”），确立专业判断的伦理与政治维度。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 将专业判断确立为 [[Evidence-Informed Practice|EIP]] 四源整合的核心枢纽，论述严谨证据与严谨判断过程并存的原则。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 引入循证医学危机透镜，批判技术官僚算法化对教师专业判断的剥夺与去技能化风险，捍卫教学作为知识型专业的核心地位。

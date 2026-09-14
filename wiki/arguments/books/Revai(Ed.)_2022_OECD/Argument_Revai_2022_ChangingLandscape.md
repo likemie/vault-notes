@@ -7,7 +7,7 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 60
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Education]]"
   - "[[Phronesis]]"
+  - "[[Knowledge Co-production]]"
   - "[[Research Utilization]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Engaged Scholarship]]"
@@ -61,6 +62,7 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Boundary Spanner]]"
   - "[[Dialogue in Education]]"
+  - "[[Professional Learning Community]]"
   - "[[Innovation Hub]]"
   - "[[Going Native]]"
   - "[[Formative Assessment]]"
@@ -118,7 +120,7 @@ updated: 2026-09-12
 
 > [!concept-lens] 阅读透镜
 > - **对象** [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD|OECD]]）成员国[[Evidence-Based Education|循证教育]]政策与实践（Evidence-Informed Policy and Practice in Education, EIPP）话语演进、知识动员模型演变及跨国教育研发体制。
-> - **张力** 狭隘循证医学金标准对教育复杂现实的裁剪 vs [[Phronesis|实践智慧]]的包容性诉求；学术期刊发表导向的传统激励 vs 实践导向知识共创的时间与信任成本。
+> - **张力** 狭隘循证医学金标准对教育复杂现实的裁剪 vs [[Phronesis|实践智慧]]的包容性诉求；学术期刊发表导向的传统激励 vs 实践导向[[Knowledge Co-production|知识共创]]的时间与信任成本。
 > - **贡献** 厘清了研究、证据与知识的边界，构建了线性-关系-复杂系统三层嵌套的动员模型[[Analytic Framework|分析框架]]，并为 OECD 跨国政策调查确立了多维度评估路标。
 
 ---
@@ -241,13 +243,13 @@ updated: 2026-09-12
 > |---|---|---|---|---|
 > | **线性模型（Linear Model）** | 将信息在正确时间、以适宜格式交付给正确的人（Levin, 2008） | 强调单向分发（Dissemination），以供给侧推力（Push）或需求端拉力（Pull）为主 | 忽视实践情境复杂性，单纯的可及性无法引发决策变革（Langer et al., 2016） | 美国强力推行的早期什么是有效研究所（[[What Works Clearinghouse]], WWC）数据库、初版[[Abstract\|研究摘要]]手册 |
 > | **关系模型（Relationship Model）** | 知识来源于研究、政策与实践等多方源泉 | 依靠研究-实践伙伴关系（Research-Practice Partnerships, [[Research-Practice Partnership\|RPP]]）、边界跨越者（[[Boundary Spanner\|跨界中介者]]）撮合跨社群互动 | 仅建立人际联结仍不充分，极易受制于组织制度壁垒、时间赤字与权力失衡 | 伦敦大学学院证据确证政策与实践中心（[[EPPI-Centre\|Evidence for Policy and Practice Information and Co-ordinating Centre]], EPPI-Centre）的多方能力培训、新西兰 BES 协作[[Dialogue in Education\|对话]]机制 |
-> | **系统模型（Systems Model）** | 各行动者深度嵌入在复杂自适应系统中，具有自组织与反馈特性 | 强调激活全系统的使能机制，推进多主体平等参与的知识共创（Co-creation） | 必须依托国家级战略协调、长效资金支持与学术激励制度重构 | 英国[[Teaching and Learning Research Programme\|教与学研究计划]]（Teaching and Learning Research Programme, TLRP, 2000–2011）、英国 EEF 研究学校网络（Research Schools） |
+> | **系统模型（Systems Model）** | 各行动者深度嵌入在复杂自适应系统中，具有自组织与反馈特性 | 强调激活全系统的使能机制，推进多主体平等参与的[[Knowledge Co-production\|知识共创]]（Co-creation） | 必须依托国家级战略协调、长效资金支持与学术激励制度重构 | 英国[[Teaching and Learning Research Programme\|教与学研究计划]]（Teaching and Learning Research Programme, TLRP, 2000–2011）、英国 EEF 研究学校网络（Research Schools） |
 
 在中介机制探索中，学术界逐步突破了单纯依赖文本翻译的局限，开启了面向系统级协作框架的实践构建：（pp.20–21）
 
 > [!case] 突破线性分发的中介协作机制：英国[[Teaching and Learning Research Programme|教与学研究计划]]（TLRP, 2000–2011）
 > - **用户全程参与（User Engagement）** 将教师与决策官员作为平等研究伙伴嵌入立项与执行阶段；
-> - **可持续伙伴关系（Sustainable Partnerships）** 跨越高校与中小学校际边界，组建共担责任的跨专业学习共同体；
+> - **可持续伙伴关系（Sustainable Partnerships）** 跨越高校与中小学校际边界，组建共担责任的跨[[Professional Learning Community|专业学习共同体]]；
 > - **团队联合生产（Co-production）** 共同界定实践难题，协同完成研究设计与成果转译；
 > - **全系统能力建设（Capacity Building）** 重点培育兼具学术洞察与实践敏感度的跨界领军人才。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]]
 

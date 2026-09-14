@@ -5,7 +5,7 @@ aliases:
 summary: "围绕扫描、聚焦、形成直觉、学习、行动和检查展开的教师探究循环模型，用于把证据使用与持续学校改进连接起来"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
-  - "[[Snowball Sampling]]"
   - "[[Improvement Science]]"
 related_persons: []
 related_facts:
@@ -31,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-09-14
 ---
 
 ## 定义
@@ -52,7 +51,7 @@ updated: '2026-05-18'
 > 6. **检查（Checking）** 检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师或管理者与学生进行个别或小组[[Dialogue in Education|对话]]，使用先前使用者开发的问题([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 
 
-> [!abstract] 与[[Snowball Sampling|网络化]]改进社区的区别
+> [!abstract] 与网络化改进社区的区别
 > 探究螺旋以更**分散**的方式运作——不要求所有教师聚焦同一问题，适合挑战更多样化的社区，且需要较少的研究伙伴投入。这可能更适合一些地方当局，因为运营成本较低且适合挑战多样性更大的社区([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
 
 ## 实证发现

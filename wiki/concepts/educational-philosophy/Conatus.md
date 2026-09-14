@@ -7,7 +7,7 @@ aliases:
 summary: "斯宾诺莎主义哲学中的核心概念，指个体维持与保存自我存在的努力与挣扎；在教育中被阐发为指向主体内在情感与潜意识的学习驱动力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Growth]]"
+  - "[[Teaching Assistant]]"
   - "[[Bildung]]"
   - "[[Critical Pedagogy]]"
   - "[[Critical Thinking]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: '2026-08-27'
+updated: 2026-09-14
 ---
 
 # Conatus
@@ -50,7 +51,7 @@ updated: '2026-08-27'
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向个体维持自我生命力并持续[[Growth|生长]]的内在欲望与本源力量。
-> - **用途** 它帮助教育研究者批判性地审视将教育完全窄化为外在理性灌输和行为控制的社会规训体系。
+> - **用途** 它帮[[Teaching Assistant|助教]]育研究者批判性地审视将教育完全窄化为外在理性灌输和行为控制的社会规训体系。
 > - **边界** 它有别于新自由主义下以竞争和利益最大化为特征的工具性欲望，具有内在存在论价值。
 
 ---

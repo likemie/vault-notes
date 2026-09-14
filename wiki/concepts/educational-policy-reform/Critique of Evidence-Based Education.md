@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 75
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Construct Validity]]"
+  - "[[Evidence Standards]]"
   - "[[Fade-out Effect]]"
   - "[[New Public Management]]"
   - "[[Material Fallacies]]"
@@ -73,6 +74,7 @@ related_persons:
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Playing for Success]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
@@ -99,7 +101,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-07-15
+updated: 2026-09-14
 ---
 
 # Critique of Evidence-Based Education
@@ -229,7 +231,7 @@ updated: 2026-07-15
 > |---|---|
 > | RCT（个体[[Random Assignment\|随机分配]]） | 准实验、自然实验 |
 > | 系统综述 / 元分析 | 工具[[Variable\|变量]]估计、合成控制、差异中差 |
-> | 效应量呈现（如 EEF Toolkit） | 调查、[[Participant Observation\|参与观察]]、访谈、[[Case Study\|案例研究]] |
+> | 效应量呈现（如 [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]） | 调查、[[Participant Observation\|参与观察]]、访谈、[[Case Study\|案例研究]] |
 > | 学校/课堂层面干预测试 | 过程追踪、分析性叙事 |
 
 ---
@@ -257,7 +259,7 @@ updated: 2026-07-15
 > 即使暂时接受 RCT 和研究综合可以产生项目有效性知识，仍然存在一个更后设的问题：哪些效果、哪些研究、哪些复制条件足以使项目被公共机构标记为"有证据"？在清算中心语境中，"evidence-based"只有有限的实践[[Construct|构念]]效度。
 
 > [!claim] [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 清算中心评级不一致
-> Wadhwa, Zheng & Cook 将"什么算作 evidence-based"转化为清算中心实践中的[[Construct Validity|构念效度]]问题。比较 12 个教育清算中心并在 10 个清算中心的 1,359 个项目中估计跨机构一致性：83.2% 的项目只被一个清算中心评级，仅 17% 有多重评级可供比较；在多重评级项目中，类似评级仅出现在约 30% 的情形。评级不一致主要来自清算中心对高等级证据标准的差异——尤其是是否要求复制、独立复制和治疗后[[Fade-out Effect|持续效果]]。即使接受 RCT 和研究综合可以产生项目有效性知识，哪些效果、哪些研究、哪些复制条件足以使项目被标记为"有证据"仍无共识。使用者不应把单一清算中心评级视为高效度、已认证的知识。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]
+> Wadhwa, Zheng & Cook 将"什么算作 evidence-based"转化为清算中心实践中的[[Construct Validity|构念效度]]问题。比较 12 个教育清算中心并在 10 个清算中心的 1,359 个项目中估计跨机构一致性：83.2% 的项目只被一个清算中心评级，仅 17% 有多重评级可供比较；在多重评级项目中，类似评级仅出现在约 30% 的情形。评级不一致主要来自清算中心对高等级[[Evidence Standards|证据标准]]的差异——尤其是是否要求复制、独立复制和治疗后[[Fade-out Effect|持续效果]]。即使接受 RCT 和研究综合可以产生项目有效性知识，哪些效果、哪些研究、哪些复制条件足以使项目被标记为"有证据"仍无共识。使用者不应把单一清算中心评级视为高效度、已认证的知识。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]
 
 ---
 

@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -61,7 +61,6 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
-  - "[[Snowball Sampling]]"
   - "[[Analytic Framework]]"
   - "[[Ideology Critique]]"
   - "[[Philosophical Analysis in Education]]"
@@ -119,7 +118,7 @@ citation_aliases:
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育学科（包括学术研究与咨询应用两个维度）的合法化惯例、[[Epistemology|认识论]]边界与政治预设。(p.326)
-> - **张力** 制度层面的扩张、[[Snowball Sampling|网络化]]和资金充足（Bloated success）与理论层面的陈词滥调堆积、认识论碎片化以及大学微观管理绩效考核指标的腐蚀。(p.327, p.332)
+> - **张力** 制度层面的扩张、网络化和资金充足（Bloated success）与理论层面的陈词滥调堆积、认识论碎片化以及大学微观管理绩效考核指标的腐蚀。(p.327, p.332)
 > - **贡献** 解构了比较教育作为中立科学或客观咨询的合法化幻觉，揭示了四种并存理解形式的政治结盟性质，并提出以转移的形态变化与受教育身份重组学科未来的道德与智识议程。(pp.332–333, pp.335–336)
 
 ---

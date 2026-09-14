@@ -7,7 +7,7 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Evidence Standards]]"
   - "[[Dialogue in Education]]"
   - "[[Domain Specificity]]"
   - "[[Construct Validity]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-10
+updated: 2026-09-13
 ---
 
 # Justificatory Standards
@@ -133,7 +134,7 @@ updated: 2026-09-10
 > 考察确证标准究竟是个体固有的静态心智特质，还是共同体互动中的实践规范。
 
 > [!claim] Sandoval, W. A. et al.
-> **情境依赖与社会互动建构** 确证标准并非个体跨情境固化的心理特质，而是高度情境化且在社会互动流中动态建构的。同一个体在面对科学实验、历史史料或宗教文本时会主动切换完全不同的确证标准；在科学课堂探究中，什么是可接受的证据标准并非由教师单向告知，而是通过师生、生生[[Dialogue in Education|对话]]辩驳逐步析出的集体实践契约。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, pp. 471–472)]]
+> **情境依赖与社会互动建构** 确证标准并非个体跨情境固化的心理特质，而是高度情境化且在社会互动流中动态建构的。同一个体在面对科学实验、历史史料或宗教文本时会主动切换完全不同的确证标准；在科学课堂探究中，什么是可接受的[[Evidence Standards|证据标准]]并非由教师单向告知，而是通过师生、生生[[Dialogue in Education|对话]]辩驳逐步析出的集体实践契约。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, pp. 471–472)]]
 
 ---
 

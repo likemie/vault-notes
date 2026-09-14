@@ -9,7 +9,7 @@ aliases:
 summary: "在教学过程中系统收集学生理解与表现证据、提供指向改进的对话式反馈并动态调整教与学行动的评价范式"
 type: concept
 domain: "competency-and-assessment"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Scaffolding]]"
   - "[[Learning Gap]]"
+  - "[[Teaching Assistant]]"
   - "[[Reflexivity]]"
   - "[[Classroom Learning Culture]]"
   - "[[Hypothesis]]"
@@ -49,7 +50,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Biggs_1999_HERD]]"
 created: '2026-05-25'
-updated: 2026-09-07
+updated: 2026-09-14
 ---
 
 # Formative Assessment
@@ -63,7 +64,7 @@ updated: 2026-09-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 评价作为教学有机组成部分，服务于识别[[Learning Gap|学习差距]]（Learning Gap）并指导即时与后续认知修正。
-> - **用途** 帮助教师超越单一的期末选拔与打分，构建支持学生深度探究与[[Reflexivity|反思性]]修正的[[Classroom Learning Culture|课堂学习文化]]。
+> - **用途** 帮[[Teaching Assistant|助教]]师超越单一的期末选拔与打分，构建支持学生深度探究与[[Reflexivity|反思性]]修正的[[Classroom Learning Culture|课堂学习文化]]。
 > - **边界** 形成性评价不是单纯增加平时测验次数；若频繁测试仅给出分数或等级而无实质性改进指导，仍属于碎片化的总结性考核。
 
 > [!citation-card]- 形成性评价对高阶思维的支撑机制

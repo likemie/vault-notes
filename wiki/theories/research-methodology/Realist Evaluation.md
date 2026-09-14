@@ -3,17 +3,21 @@ title: Realist Evaluation
 aliases:
   - 实在论评估
   - 现实主义评估
-  - Realist Evaluation
   - 实在论评估理论
   - 现实主义评估理论
   - realist appraisal
-summary: "由 Ray Pawson and Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。"
+  - 现实主义试验
+  - 实在论随机对照试验
+  - Realist Trials
+  - 实在论综合
+  - Realist Synthesis
+summary: "由 Ray Pawson 与 Nick Tilley 创立并经 Bonell 等人发展的科学实在论评估理论与实验范式，主张干预通过在特定背景中向受试者提供资源并激活其推理而产生非线性结果，倡导以多臂析因设计与过程评估打破因果黑箱。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 28
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 19
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/evaluation
   - method/evaluation
@@ -21,41 +25,32 @@ tags:
 related_concepts:
   - "[[Positivism]]"
   - "[[Interaction Effect]]"
-  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Empiricism]]"
-  - "[[Emergence]]"
-  - "[[Epistemology]]"
   - "[[Ontology]]"
-  - "[[Interpretive Paradigm]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Heterogeneity]]"
-  - "[[Governing by Numbers]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
-  - "[[Effect Size]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Factorial Design]]"
+  - "[[Implementation and Process Evaluation]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Qualitative Observation]]"
-  - "[[Action Research]]"
-  - "[[Coding in Qualitative Research]]"
-  - "[[Systematic Review]]"
 related_persons:
   - "[[Ray Pawson]]"
   - "[[Roy Bhaskar]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
-  - "[[EU Skills Agenda]]"
 related_arguments:
+  - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Rambla_2022_Springer]]"
-confidence: medium
-status: draft
+confidence: high
+status: active
 created: '2026-06-19'
-updated: 2026-07-13
+updated: 2026-09-14
 ---
 
 # Realist Evaluation
@@ -65,48 +60,52 @@ updated: 2026-07-13
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 社会政策、教育干预及改进项目在复杂社会系统中的因果实现机制。
-> - **理论问题** 批判[[Positivism|实证主义]]将评估等同于单纯测量“干预是否有效”的扁平化经验规律（休谟因果观），回应“什么在什么情境中对谁有效，为什么，以及如何有效”的现实评估需求。
-> - **理论类型** 社会科学评估理论与研究方法论框架。
-> - **知识位置** 由[[Ray Pawson|雷·波森]]（Ray Pawson）与尼克·蒂利（Nick Tilley, 1997, 2006）提出，其哲学根基为[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]]（Depth Realism）。
+> - **解释对象** 社会政策、教育干预及改进项目在复杂社会生态系统中的因果实现机制。
+> - **理论问题** 批判[[Positivism|实证主义]]将评估等同于单纯测量“干预是否有效”的扁平化经验规律（休谟因果观），回应“什么在什么情境中对谁有效，为什么，以及如何有效”的深层评估需求。
+> - **理论类型** 科学实在论评估理论、中层解释框架与前沿实验设计范式。
+> - **知识位置** 由[[Ray Pawson|雷·波森]]（Ray Pawson）与尼克·蒂利（Nick Tilley, 1997, 2006）奠定理论基石，哲学渊源为[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]]；后经克里斯·博内尔（Chris Bonell et al., 2012）等学者发展为结合定量试验的“现实主义试验”（Realist Trials）前沿范式（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
 
 > [!claim] 核心主张
-> 社会与教育干预不是机械的物理因果（即“注射式”干预），而是通过向受试者提供资源，并依赖受试者对这些资源的认知与行动推理（Reasoning）来发挥作用。因此，因果效应的产生是机制（Mechanism）与特定背景（Context）[[Interaction Effect|交互作用]]并导致特定结果（Outcome）的非线性过程。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])；另见波森（Ray Pawson）于 2006 年的著作。
+> 社会与教育干预不是机械的物理“注射式”因果，而是通过向参与者提供新的资源（物质、认知或制度资源），并依赖参与者在特定社会情境中对资源的能动推理（Reasoning）来发挥作用。因此，因果效应的生成是机制（Mechanism）与特定微观情境（Context）[[Interaction Effect|交互作用]]并诱发非线性结果（Outcome）的生成性过程（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]]；Pawson, 2006）。在现代循证试验中，评估必须从单一平均效应黑箱走向结合多臂析因与过程评估的现实主义试验（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
 
-> [!citation-card]- 关键表述：推理与资源
-> 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
+> [!citation-card] 实在论推理与资源假说
+> 社会项目为受试者提供物质、社会或认知资源，而它们能否奏效完全取决于这些个体在具体情境中的推理。单纯测量干预前后的表观统计关联，不仅割裂了机制与情境的深层纽带，更将复杂的社会互动矮化为无生命的机械因果。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 7)]]
 >
-> Social programmes... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (引自)
+> *Social programmes offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. Cause-and-effect in open social systems is generative rather than mechanical.*
 
 ---
 
 ## 核心命题与机制
 
 > [!proposition-chain] 实在论评估命题链
-> - **前提一：生成性因果观 (Generative [[Causality]])** 因果关系不在于观察到的恒常规则性（X 导致 Y），而在于事物内部蕴含的因果力量与机制。在开放系统（如学校）中，这些机制可能处于休眠状态，只有在适宜的环境背景中才会被激活。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
-> - **前提二：推理与资源的整合** 干预项目本身不能直接“产生”变化，它只提供资源（自[[Variable|变量]]）；结果（[[Dependent Variable|因变量]]）必须经由人（受试者）的能动性与信念进行推理（中介变量）而产生。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
-> - **机制：CMO 配置 (Context-Mechanism-Outcome Configuration)** 因果机制（Mechanism, M）被引入不同的社会背景（Context, C）中，会因为背景对机制的触发或抑制而导致完全不同的结果（Outcome, O）。即：\(C + M \rightarrow O\)。；另见 ([[Argument_Rambla_2022_Springer|Rambla, 2022, p. 165]])
-> - **结果判断：去情境化统计聚合的失效** 将不同情境的研究混为一谈并计算“平均[[Effect Size|效应量]]”（如在[[Meta-analysis|元分析]]中）是盲目的[[Empiricism|经验主义]]。这种“洗涤过程”抹杀了关键机制与背景，无法指导任何具体的教育改进。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])
+> - **前提一：生成性因果观（Generative Causality）** 因果关系不在于经验观察到的恒常相继规律（X 导致 Y），而在于客观实在内部蕴含的深层因果力量。在学校与社会等开放系统中，因果机制通常处于休眠或潜在状态，必须在特定适宜的生态背景中才会被激活（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]]）。
+> - **前提二：推理与资源的整合** 干预方案本身不能直接“制造”学业变化，它仅提供外部资源（自[[Variable|变量]]）；干预成效（[[Dependent Variable|因变量]]）必须经由受试者（教师、学生或校长）的能动认知推理与行动决策（中介机制）方能转化呈现（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]]）。
+> - **核心机制：CMO 配置（Context-Mechanism-Outcome Configuration）** 因果机制（Mechanism, M）被引入不同的社会情境（Context, C）时，情境特征将决定机制被充分激发还是遭受系统抑制，进而导致截然相反的干预结果（Outcome, O），即 \(C + M \rightarrow O\)（[[Argument_Rambla_2022_Springer|Rambla, 2022, p. 165]]）。
+> - **方法深化：现实主义试验的实验综合（Realist Trials）** 现实主义评估超越早期纯质性思辨，主动融合大规模 [[Randomised Controlled Trials|RCT]] 试验设计：通过多臂试验与[[Factorial Design|析因设计]]分离干预组件，设置路径中介变量量化检验机制传导，并在多元情境下实施多地点试验以检验效应变异，同时嵌入[[Implementation and Process Evaluation|实施与过程评估]]（IPE）以精确区分实施走样与方案理论无效（Bonell et al., 2012, p. 2299；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
+> - **结果判断：去情境化统计聚合的失效** 将脱离具体情境的研究结果简单粗暴地放入[[Meta-analysis|元分析]]中计算平均[[Effect Size|效应量]]是朴素经验主义的盲视。这种“数据洗涤”抹杀了导致干预成败的关键微观机制与学校生态背景（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]]）。
 
-> [!mechanism-map]- CMO 机制激活图
+> [!mechanism-map]- CMO 机制与现实主义试验综合图
 > ```mermaid
 > flowchart TD
->     subgraph Open ["开放社会系统 (Open System)"]
->         C1["背景情境 A (Context A)"] -->|激活| M["因果机制 (Mechanism)"]
->         C2["背景情境 B (Context B)"] -->|抑制/阻碍| M
->         M -->|产生| O1["结果 A (Outcome A)"]
->         M -.->|失效/无效果| O2["结果 B (Outcome B)"]
+>     subgraph Open ["复杂开放系统 (Open Educational System)"]
+>         C1["学校生态背景 A (支持性文化/充裕协同时间)"] -->|激活正向机制| M1["微观机制 M1 (教师胜任感与学生自主推理)"]
+>         C2["学校生态背景 B (高压问责/资源匮乏/孤立)"] -->|抑制或异化机制| M2["微观机制 M2 (敷衍遵从与防卫性推诿)"]
+>         M1 -->|生成| O1["正向成效 O1 (学业提升与能力生成)"]
+>         M2 -->|生成| O2["无效或负效应 O2 (负担加重与效应归零)"]
 >     end
 >     
->     R["提供资源 (Resources)"] --> M
->     S["受试者推理 (Reasoning)"] --> M
+>     subgraph Trial ["现实主义试验 (Realist Trials) 设计"]
+>         Fact["多臂与析因设计 (Factorial Unbundling)"] -.->|分离组件| Open
+>         Med["中介变量测量 (Mediators/Secondary Outcomes)"] -.->|追踪传导| M1
+>         IPE["实施与过程评估 (IPE)"] -.->|诊断保真度与情境阻力| C1
+>     end
 > ```
 
-> [!exegesis]- 教学助理 (TA) 的 CMO 配置分析例子
-> [[Education Endowment Foundation|EEF]] Toolkit 的[[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）将教学助理（TA）项目评为“低影响、高成本”（效应量仅 $+0.08$），导致许多学校计划裁撤 TA。实在论评估则对这一结果进行解构，展现不同的 CMO 配置：
-> - **配置 A（低效）** 学校缺乏预留时间让教师与 TA 沟通（背景 C1） + 学校系统性地将低成就学生甩给 TA，剥夺其接受合格教师授课的机会（背景 C2） + TA 感到被孤立且缺乏方向（机制 M1 抑制） \(\rightarrow\) 学生成绩无提升（结果 O1）。
-> - **配置 B（高效）** 学校为 TA 提供协同备课时间与专业培训（背景 C3） + 教师与 TA 在课堂上有明确的教学分工（背景 C4） + TA 能够提供精准支架并激发学生信心（机制 M2 激活） \(\rightarrow\) 学习成果显著改善（结果 O2）。
-> 扁平的平均效应量过滤掉了上述结构性机制，导致了极其误导性的政策决策。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])
+> [!exegesis]- 教学助理（Teaching Assistant）的 CMO 配置解构
+> [[Education Endowment Foundation|EEF]] Toolkit 早期的[[Meta-meta-analysis|元-元分析]]将教学助理（TA）项目概括为“低影响、高成本”（平均效应量仅 $+0.08$），引发许多学校削减 TA 岗位的政策波动。实在论评估对这一扁平结论进行深入解构，揭示出两类截然不同的 CMO 配置：
+> - **配置 A（无效/异化）** 学校缺乏协同备课时间（背景 C1） + 学校习惯将学习困难学生直接推给 TA 托管，变相剥夺其接受骨干教师主讲的权利（背景 C2） + TA 缺乏系统教学指引导致认知挫败（机制 M1 抑制） \(\rightarrow\) 学生成绩停滞不前（结果 O1）。
+> - **配置 B（高效/赋能）** 学校确立制度化的师生辅协同备课机制（背景 C3） + 教师与 TA 在班级教学中具有精细化分工梯队（背景 C4） + TA 针对特定概念提供结构化支架并激发学生学业自我效能（机制 M2 激活） \(\rightarrow\) 学生取得显著学业进步（结果 O2）。
+> 扁平的平均效应量抹杀了上述关键制度配置，造成了重大的政策误读（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）。
 
 ---
 
@@ -116,68 +115,86 @@ updated: 2026-07-13
 > 
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 背景（Context） | 概念 | 指项目实施的社会环境、制度特征、人际关系和当事人的个人经历，决定了[[Causality\|因果]]机制是否能被激活。 |
-> | 机制（Mechanism） | 概念 | 指社会干预中所包含的因果力量以及受试者对资源的心理/行动推理（Reasoning）。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 7]]) |
-> | 结果（Outcome） | 概念 | 在特定背景中激活特定机制后产生的非线性[[Emergence\|涌现]]结果，表现为成功、失败或反效果。 |
-> | 实在论综合 | 方法 | 一种系统综述（Systematic Review）方法，旨在通过探究不同研究中的 CMO 配置来综合出关于“干预如何工作”的中层理论，而非对效应量进行数学平均。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 14]]) |
+> | 背景（Context） | 概念 | 指项目实施的制度环境、学校文化、人际网络与参与者既往经验，决定了因果机制能否被有效触发。 |
+> | 机制（Mechanism） | 概念 | 指社会干预所引入的因果资源以及受试者基于能动性的认知、情感与行动推理（Reasoning）（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 7]]）。 |
+> | 结果（Outcome） | 概念 | 在特定情境中激活特定机制后涌现的非线性状态，涵盖预期成效、无效及潜在的非预期反效果。 |
+> | 实在论综合（Realist Synthesis） | 方法 | 一种解释性系统综述方法，旨在通过梳理不同实证研究中的 CMO 配置归纳中层解释理论，替代简单的效应量加权平均（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 14]]）。 |
+> | 现实主义试验（Realist Trials） | 实验方法 | 将随机分组与机制测量结合的前沿范式，依托多臂析因设计与过程评估，检验干预组件离散效应、中介传导路径及跨情境变异（[[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill, 2021, pp. 53–54]]；Bonell et al., 2012）。 |
 
 ---
 
 ## 理论立场与使用方式
 
-> [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]** 深度实在论（Depth Realism）。世界是分层的，结构和机制是真实的，且其因果力量独立于我们的观察。
-> - **认识论**[[Interpretive Paradigm|反实证主义]]/[[Empiricism|经验主义]]。知识是概念中介的；[[Causality|因果关系]]不等于恒常规则性，而是机制在开放系统中的复杂[[Emergence|涌现]]。
-> - **方法含义** 方法论多元主义（Methodological Pluralism）。结合[[Qualitative Observation|质性观察]]、历史分析、[[Action Research|行动研究]]和统计分析，重在追踪和验证机制的运作，而非单纯估计[[Effect Size|效应量]]。
-> - **不能直接推出的东西** 不能直接推导出放之四海而皆准的“最佳实践”处方，或独立于情境的绝对平均效应值。
+> [!theory-stance] 认识论立场
+> - **[[Ontology|本体论]]** 深度实在论（Depth Realism）。现实世界是分层、多维且复杂的；结构与因果机制真实存在，其因果力量独立于研究者的经验观察。
+> - **认识论** 反实证主义经验主义。知识具有概念中介性；因果关系不等于表观统计相关，而是机制在开放生态中的生成性涌现。
+> - **方法含义** 方法论多元主义。融合质性实地观察、访谈、多臂试验与结构方程中介建模，重在追踪因果链条的机制转化。
+> - **不能直接推出的结论** 不能直接推导出可机械移植、放之四海而皆准的标准化操作处方，亦不能将平均效应量视作评估决策的唯一黄金准则。
 
 > [!theory-use] 如何用于研究
-> - **作为理论框架** 替代传统的 [[Evidence-Based Education|EBE]] “什么有效”框架，分析政策在不同地域、学校或班级中实施时产生的[[Heterogeneity|异质性]]结果。
-> - **作为分析工具** 在评估具体教育项目（如项目制学习、合成拼读）时，构建 CMO 矩阵，[[Coding in Qualitative Research|编码]]并提取影响效果的深层组织和交互因素。
-> - **作为批判视角** 审查审计文化（Audit Culture）与“[[Governing by Numbers|数字治理]]”（Governance by Numbers）。向决策者解释“为什么”此干预在此处成功而在彼处失败，而非仅提供一个效应量数字。
-> - **报告方式** 撰写内容丰富的机制叙事报告，向决策者解释“为什么”此干预在此处成功而在彼处失败，而非仅提供一个效应量数字。
+> - **作为复杂干预设计框架** 摆脱简单的两组（干预组 vs 对照组）粗放设计，基于变革理论构建涵盖情境变量、中介变量与多维度结局指标的评估方案。
+> - **指导多臂与析因试验** 采用析因设计分离多组分项目的各个要素（如技术工具软件 vs 教师面对面辅导），独立检验各组成部分及其交互效应（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
+> - **整合实施与过程评估（IPE）** 建立定量结局数据与定性过程数据的互证链条，依据英国 MRC 复杂干预指南准确诊断实施失败与理论无效（Craig et al., 2008；另见 [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。
+> - **输出机制叙事报告** 向政策制定者与一线校长提供内容丰厚的微观机制图景，详尽说明该干预在何种资源条件、师资基础与生源特征下才能发挥效能。
 
-> [!logic-map]- 实在论综合研究流程图
+> [!logic-map]- 实在论综合与现实主义试验操作流
 > ```mermaid
 > flowchart LR
->     T1["构建中层因果理论"] --> S1["筛选多源文献(质性/量化)"]
->     S1 --> E1["提取背景(C)与机制(M)证据"]
->     E1 --> A1["比对和验证 CMO 配置"]
->     A1 --> T2["修正并输出解释性政策模型"]
+>     T1["构建变革理论 (Theory of Change)"] --> S1["设置多臂/析因条件与中介变量"]
+>     S1 --> E1["同步执行 RCT 与过程评估 (IPE)"]
+>     E1 --> A1["分离组件效应并比对 CMO 配置"]
+>     A1 --> T2["输出情境敏感型循证指导决策模型"]
 > ```
+
+---
+
+## 典型案例
+
+> [!case] 从黑箱因果走向现实主义试验：EEF 复杂干预的多臂析因与机制深耕（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）
+> - **理论黑箱的实践挑战** 传统双臂 RCT 仅能汇报最终因果效应量，当试验出现零效应时，决策者无法判断究竟是干预理论根本错误，还是基层在培训、沟通或技术操作上发生了实施走样（Craig et al., 2008）。
+> - **多臂析因设计的机制突破** 为打开机制黑箱，英国教育捐赠基金会（EEF）积极推进现实主义试验设计：
+>   1. **“识字八爪鱼”多臂试验（Literacy Octopus Trial，Lord et al., 2017）** 动员全英 800 余所小学，设置多个实验臂系统对比了 4 种证据传播与教学支持机制（涵盖被动邮件资料寄送、主动研讨会培训以及专家驻校深度指导）。结果证实，单向被动寄送循证材料对学生成绩的净效应为零，从而直接否定了“只要寄送研究报告就能改变实践”的浅层假设，倒逼英格兰转向建立深入学校基层的研究学校网络（Research Schools Network）。
+>   2. **ABRA 在线阅读多臂试验（McNally et al., 2018）** 评估者系统剥离了技术软件自主学习与教师面对面主导辅导的独立与交互效应，为数字化教学的资源配置提供了精细因果证据。
+> - **制度化机制指标渗透** 经过方法学深化，目前 EEF 资助的试验中已有 **90% 至少包含一个次要结局指标或中介机制度量**（Nevill, 2019a），全面践行了 Bonell et al. (2012) 提出的现实主义试验标准。
 
 ---
 
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 复杂的、涉及多层利益相关者互动、高度依赖情境的政策与教育改革评估。
-> - **谨慎使用** 在纯粹物理或生理参数控制极严的封闭系统实验评估中。
-> - **不适合解释** 寻求单一、标准化、可完全复制的机械操作规程。
-> - **常见误用** 将实在论评估误解为完全排斥量化数据；或者仅将“C-M-O”作为静态的分类标签，而未能动态揭示它们之间的因果推理生成关系。
+> - **适合解释** 包含多重互动要素、高度依赖教师专业推理与学校组织支持的复杂教育政策和干预评估。
+> - **适用边界与统计张力** 现实主义试验要求在大样本量化试验中检验次级群体（Subgroups）与微观情境的交互效应，这往往需要极为庞大的样本量以保障统计功效；在样本规模受限时，容易出现检验力不足的方法学挑战（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。
+> - **不适合解释** 纯粹物理或生理参数控制严格、不存在人类主观能动推理的封闭系统因果评估。
+> - **常见误用** 将实在论评估误解为排斥量化实验与统计控制；或者将 CMO 简化为孤立静态的分类表格，割裂了机制基于情境生成的动态因果链条。
 
 ---
 
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1997 年 — Pawson & Tilley (Realistic Evaluation)** 奠定实在论评估的理论基石，提出 C-M-O 框架。
-> - **2006 年 — Pawson (Evidence-based Policy: A Realist Guide)** 将实在论评估扩展到[[Systematic Review|系统综述]]领域，提出“实在论综合（Realist Synthesis）”方法，系统批判[[Empiricism|经验主义]]循证政策。
-> - **2018 年 — 教育研究批评**[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] 在 BERJ 中将实在论评估和[[Critical Realism|批判实在论]]作为解构 [[Evidence-Based Education|EBE]] 统计聚合（Hattie、[[Education Endowment Foundation|EEF]] Toolkit）的主要方法论武器。
+> - **1997 年 — Pawson & Tilley 创立理论奠基** 出版 *Realistic Evaluation*，正式提出生成性因果观与 C-M-O 核心分析框架。
+> - **2006 年 — Pawson 提出实在论综合** 出版 *Evidence-based Policy: A Realist Guide*，将实在论范式引入系统综述领域，系统批判经验主义去情境化统计合并。
+> - **2008 年 — 英国 MRC 复杂干预指南** 英国医学研究理事会（Craig et al., 2008）明确复杂干预必须深入因果机制，提出区分“实施失败”与“理论无效”的核心原则。
+> - **2012 年 — Bonell et al. 倡导现实主义试验（Realist Trials）** 在 *Social Science & Medicine* 提出将 RCT 与现实主义评估融合，倡导多臂析因设计、中介路径分析与跨情境多次试验。
+> - **2016–2019 年 — 过程评估与复杂评估方法学规程化** EEF 委托曼彻斯特大学完成 IPE 系统综述（Humphrey et al., 2016）并研制复杂项目评估方法指南（Anders et al., 2017；The EEF, 2019b），实现 90% 试验纳入机制与中介指标。
+> - **2018 年 — 教育批判研究高峰** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 在 BERJ 发表经典批判，以实在论评估解构英国 EEF 早期拼读与教学助理元分析的统计平均误导。
+> - **2021 年 — 十年循证实践经验综合** [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] 系统梳理英国十年大规模试验向现实主义试验演进的方法学历程。
 
 ---
 
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **操作的极高复杂性** 由于需要深入追踪每个情境下的机制，实在论评估和综合在实操中极其耗费时间和精力，且难以标准化。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
-> - **对决策者的沟通障碍** 政策制定者更青睐直观、简化的[[Effect Size|效应量]]排行榜或“几个月额外进步”的数字，实在论评估所提供的复杂情境叙事难以提供瞬间的决策支持。
+> - **操作与资源门槛极高** 实在论综合与现实主义试验需要长期追踪现场多维机制，既要保证大规模量化试验的抽样要求，又要实施深入细致的质性过程观察，研发与评估成本极为高昂（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]]）。
+> - **与政策决策者的沟通壁垒** 政策决策者往往期望得到一目了然的“净效应量”或“额外学习月数”单一指标，实在论评估所呈现的条件性、情境化复杂机制叙事对快速决策提出了更高的认知要求（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究与应用索引
-> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 用实在论评估的因果机制观，深度解构了 [[Education Endowment Foundation|EEF]] Fresh Start 拼读项目和教学助理项目由于去情境化聚合导致的政策误导。
-> - [[Argument_Rambla_2022_Springer|Rambla, 2022]] — 将实在论评估框架应用于剖析[[EU Skills Agenda|欧盟技能议程]]政策，分析特定政策干预在特定情境中激活的因果机制。
-> - [[Professional Judgment]] — 实在论评估对个体推理和能动性的强调，为重构和确立教师在循证实践中的专业判断力提供了理论支撑。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 运用实在论评估的因果机制观，深度解构了 EEF 早期教学助理与拼读项目因去情境化聚合导致的政策误导。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]] — 详细记录全球最大教育循证试验资助机构从黑箱试验向多臂析因设计、中介指标度量与现实主义试验转型的制度轨迹。
+> - [[Argument_Rambla_2022_Springer|Rambla, 2022]] — 将实在论评估框架应用于剖析欧盟技能议程政策，分析特定政策干预在特定制度情境中激活的因果机制。
+> - [[Professional Judgment]] — 实在论评估对个体能动推理的强调，为重构教师在循证实践中的专业判断力提供了理论支撑。
+

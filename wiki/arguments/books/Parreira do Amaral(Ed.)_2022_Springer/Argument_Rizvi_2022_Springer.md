@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[International Schools]]"
   - "[[Doxa]]"
+  - "[[Knowledge Co-production]]"
   - "[[Champ]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Technology Transfer]]"
@@ -105,7 +106,7 @@ Rizvi 建立了一个对比框架，这是整章论证的概念基础：
 >
 > Rizvi 以 Dalby 的现实主义地缘政治作为对照基线——这与他之前章节中 Moisio and Parreira do Amaral 讨论的[[Classical Geopolitics|古典地缘政治]]是同一个传统：国与国之间本质上是竞争关系，因为没有世界政府能约束国家行为，所以每个国家只能靠自利驱动。国家是唯一重要的行动者，它的核心任务是保护国内安全、抵御外部混乱。这种视角预设了一个"内部（安全、秩序）vs 外部（混乱、威胁）"的二元对立。
 >
-> Rizvi 要论证的是：这种理解不足以解释当代高等教育中的地缘政治动态，因为它只看到国家间的权力斗争，看不到跨国社会想象、[[Snowball Sampling|网络化]]关系和全球教育市场中的意识形态与文化维度(pp.90–91)。
+> Rizvi 要论证的是：这种理解不足以解释当代高等教育中的地缘政治动态，因为它只看到国家间的权力斗争，看不到跨国社会想象、网络化关系和全球教育市场中的意识形态与文化维度(pp.90–91)。
 
 > [!info]- [[Critical Geopolitics|批判地缘政治学]]（Critical Geopolitics）
 > 代表学者：Sharp (2009), Dodds (2019)
@@ -295,7 +296,7 @@ Rizvi 指出 GATS 的合规机制虽然不强，但其**意识形态效应**不�
 
 Rizvi 追溯了跨国研究合作理性的历史演变：
 
-- 1950 年代之前：学者个人之间的学术交流——交换信息、合作生产新知识
+- 1950 年代之前：学者个人之间的学术交流——交换信息、[[Knowledge Co-production|合作生产]]新知识
 - 1950 年代：学术交流获得了新目的——在冷战政治中服务于发达国家的战略利益
 - 过去三十年：推动跨国合作的理性**远远超出了个体研究者的学术兴趣**
 

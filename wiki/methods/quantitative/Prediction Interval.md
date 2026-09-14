@@ -9,7 +9,7 @@ summary: "元分析中综合了抽样误差与研究间真实异质性方差（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
+  - "[[Teaching Assistant]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Creativity]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 # Prediction Interval
@@ -59,7 +60,7 @@ updated: 2026-09-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向元分析结论在具体实践情境中真实效果的不确定性与离散范围，而非单纯的全局平均值精度。
-> - **用途** 帮助教育决策者与研究者避免将“平均效应显著为正”盲目等同于“在任何学校或课堂都能产生正向效果”，揭示具体情境对干预成败的决定性影响。
+> - **用途** 帮[[Teaching Assistant|助教]]育决策者与研究者避免将“平均效应显著为正”盲目等同于“在任何学校或课堂都能产生正向效果”，揭示具体情境对干预成败的决定性影响。
 > - **边界** 预测区间要求纳入研究数量（$k$）足够充足（通常 $k \ge 10$）且真实效应服从正态分布[[Hypothesis|假设]]；当 $k$ 较小时基于 $t$ 分布自由度构建的预测区间会极其宽泛。
 
 > [!citation-card]- 关键表述

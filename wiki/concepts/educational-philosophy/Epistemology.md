@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Certainty of Knowledge]]"
   - "[[Reliability]]"
+  - "[[Teaching Assistant]]"
   - "[[Epistemological Beliefs]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -80,7 +81,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-14
 ---
 
 # Epistemology
@@ -95,7 +96,7 @@ updated: 2026-09-09
 > [!concept-lens] 概念透镜
 > - **含义（哲学视角）** 回答“我们如何知道（how we know）”以及“何为有效知识（what constitutes valid knowledge）”。
 > - **含义（心理视角）** 探讨个体心智如何理解[[Certainty of Knowledge|知识的确定性]]、客观性与主体介入程度，协调认知的主客观张力。
-> - **用途** 帮助研究者在选定范式后确立严密的数据收集逻辑与可[[Reliability|信度]]判准；帮助教育者诊断学习者的批判性反思水平与[[Epistemological Beliefs|认识论信念]]障碍。
+> - **用途** 帮助研究者在选定范式后确立严密的数据收集逻辑与可[[Reliability|信度]]判准；帮[[Teaching Assistant|助教]]育者诊断学习者的批判性反思水平与[[Epistemological Beliefs|认识论信念]]障碍。
 > - **边界** [[Epistemic Stances|认识论立场]]界定知的方式与有效性判准，不可替代具体研究方法的经验操作规程，亦不等于[[Ontology|本体论]]对实在存在属性的判定。
 
 > [!citation-card] 知识性质与获取途径的认识论根本设问

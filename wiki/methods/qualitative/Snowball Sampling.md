@@ -7,8 +7,6 @@ aliases:
   - chain-referral sampling
   - 受访者驱动抽样
   - respondent-driven sampling
-  - 网络化
-  - networking
 summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽样方法，在敏感研究中被称为网络化（networking），可通过非正式渠道绕过守门人接触隐藏群体，但需警惕初始种子偏差、同质性偏差和研究性质从概率抽样退化为便利抽样的风险。"
 type: method
 method_type: qualitative
@@ -64,7 +62,7 @@ related_theories: []
 related_facts: []
 status: draft
 created: 2026-06-22
-updated: 2026-07-11
+updated: 2026-09-13
 ---
 
 # Snowball Sampling
