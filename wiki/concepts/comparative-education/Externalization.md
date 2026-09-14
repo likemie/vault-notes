@@ -8,10 +8,10 @@ aliases:
 summary: "比较教育学与社会学系统论的核心分析概念，指教育系统根据自身内部问题构型与反思情境，通过在语义上将内部矛盾投射到外部参照系或传统记忆中来为改革或抵制提供正当性辩护的策略性建构过程。"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - theme/policy-borrowing
@@ -20,15 +20,34 @@ tags:
   - theme/discourse-formation
 related_concepts:
   - "[[Policy Borrowing]]"
-related_theories: []
-related_methods: []
+  - "[[International Large-Scale Assessments]]"
+  - "[[Normal School]]"
+  - "[[Tracking]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Transfer Space]]"
+  - "[[Epistemology]]"
+  - "[[Reference Society]]"
+  - "[[Positivism]]"
+  - "[[Cross-National Attraction]]"
+  - "[[Concept Mapping]]"
+  - "[[Paradigm]]"
+  - "[[Determinism]]"
+  - "[[Champ]]"
+related_theories:
+  - "[[World-Systems Theory]]"
+  - "[[Autopoiesis]]"
+related_methods:
+  - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons:
-  - "[[Jurgen Schriewer]]"
   - "[[Jeremy Rappleye]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Niklas Luhmann]]"
+  - "[[Jurgen Schriewer]]"
 related_facts:
+  - "[[OECD]]"
+  - "[[German Dual Education System]]"
+  - "[[PISA]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
 related_arguments:
@@ -37,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Externalization

@@ -8,7 +8,7 @@ summary: "系统综述的一种质性证据综合方法，以先验框架组织�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -47,13 +47,14 @@ related_methods:
 related_instruments:
   - "[[Mixed Methods Appraisal Tool]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[EPPI-Centre]]"
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-26
+updated: 2026-09-15
 ---
 
 # Framework Synthesis

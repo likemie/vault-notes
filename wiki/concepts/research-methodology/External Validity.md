@@ -7,41 +7,62 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 34
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 60
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - method/research-methods
   - theme/validity
 related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Internal Validity]]"
+  - "[[Threats to External Validity]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Causality]]"
   - "[[Ecological Validity]]"
   - "[[Construct Validity]]"
+  - "[[Hypothesis]]"
+  - "[[Operationalization]]"
+  - "[[Construct]]"
   - "[[Rich and Thick Description]]"
   - "[[Variable]]"
   - "[[Sampling Error]]"
-  - "[[Threats to External Validity]]"
+  - "[[Counterfactual]]"
+  - "[[Business as Usual]]"
+  - "[[Internal and External Generalizability]]"
+  - "[[Fade-out Effect]]"
+  - "[[Paradigm]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Research Utilization]]"
   - "[[Hawthorne Effect]]"
-  - "[[Operationalization]]"
   - "[[Interaction Effect]]"
-  - "[[Construct]]"
+  - "[[Champ]]"
   - "[[Catalytic Validity]]"
   - "[[Interpretive Validity]]"
   - "[[Evaluative Validity]]"
+  - "[[School Choice]]"
   - "[[Attrition]]"
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Random Sampling]]"
   - "[[Confidence Interval]]"
+  - "[[Effect Size]]"
+  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Sample Size Determination]]"
+  - "[[Meta-analysis]]"
+  - "[[Systematic Review]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Survey Research]]"
-  - "[[Sample Size Determination]]"
-  - "[[Effect Size]]"
+  - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Longitudinal Study]]"
+  - "[[Case Study]]"
   - "[[Implementation and Process Evaluation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -52,9 +73,16 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[National Pupil Database]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
+related_persons:
+  - "[[Yvonna S. Lincoln]]"
+  - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 # External Validity
 

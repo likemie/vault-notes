@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Critical Thinking]]"
   - "[[Document]]"
-  - "[[Scientific Uncertainty]]"
   - "[[Dialogue in Education]]"
   - "[[Scientific Literacy]]"
   - "[[Public Engagement with Science]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-15
 ---
 
 # Sense about Science

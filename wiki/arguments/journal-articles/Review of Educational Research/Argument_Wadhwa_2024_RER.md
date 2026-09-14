@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 76
+argument_related_count: 75
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -67,7 +67,6 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[School Leadership]]"
   - "[[Educational Brokerage Agency]]"
 related_theories:

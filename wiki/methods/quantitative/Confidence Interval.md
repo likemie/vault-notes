@@ -8,9 +8,9 @@ summary: "围绕点估计给出的可能取值范围，由置信水平和边际�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 26
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - confidence-interval
@@ -21,6 +21,10 @@ tags:
 related_concepts:
   - "[[Sampling Error]]"
   - "[[Null Hypothesis]]"
+  - "[[Counterfactual]]"
+  - "[[Attrition]]"
+  - "[[Effective Sample Size]]"
+  - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
@@ -30,15 +34,17 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Standard Error]]"
   - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Rasch Measurement]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Randomised Controlled Trials]]"
+  - "[[Random Sampling]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
@@ -48,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 # Confidence Interval
 

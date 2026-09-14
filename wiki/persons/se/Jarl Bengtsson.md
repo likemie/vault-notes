@@ -6,7 +6,7 @@ summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CE
 type: person
 nationality: "se"
 person_region: "se"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
   - "[[Soft Power by Hard Facts]]"
+  - "[[Knowledge Mediation]]"
   - "[[Problem Finding]]"
   - "[[Façade of Rationality]]"
   - "[[Hypothesis]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Jarl Bengtsson

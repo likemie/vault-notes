@@ -8,7 +8,7 @@ aliases:
 summary: "源自西方自由七艺与英国绅士品格培育传统的博雅教育理念，主张知识本身即为其目的，强调通过古典人文学术磨砺卓越心智与高尚品格，构成维多利亚时代大英帝国政治治理与抵御市侩庸俗主义的核心文化防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Faculty Psychology]]"
   - "[[Epistemic Value]]"
+  - "[[Self-control]]"
   - "[[Scientific Paradigm]]"
   - "[[International Baccalaureate]]"
   - "[[Epistemology]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 # Liberal Education

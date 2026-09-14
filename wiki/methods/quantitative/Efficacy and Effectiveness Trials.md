@@ -12,9 +12,9 @@ summary: "循证教育研究中区分干预在理想高度受控条件下能否�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 23
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - research-methodology
@@ -24,15 +24,25 @@ tags:
   - implementation-fidelity
   - what-works
 related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
+  - "[[Unit of Analysis]]"
   - "[[Implementation Fidelity]]"
   - "[[Attrition]]"
+  - "[[Study Population and Sample]]"
+  - "[[Central Question]]"
   - "[[Business as Usual]]"
+  - "[[Research Translation]]"
+  - "[[Heterogeneity]]"
+  - "[[Dialogue in Education]]"
+  - "[[Entrepreneur in Residence]]"
 related_theories:
   - "[[Theory of Change]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Implementation and Process Evaluation]]"
 related_instruments:
@@ -46,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Efficacy and Effectiveness Trials

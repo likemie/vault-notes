@@ -49,6 +49,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Tracking]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Effective Sample Size]]"
   - "[[Domain Specificity]]"
   - "[[Ecological Validity]]"
 related_theories:
@@ -90,7 +91,7 @@ title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"

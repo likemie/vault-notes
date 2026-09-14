@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中用于追问个体与共同体如何获得、建构和审查知识的课程分类框架；它连接认知者、知识主张与知识领域，并随指南版本由四项扩展为八项。"
 type: concept
 domain: "curriculum"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Knowledge Questions]]"
+  - "[[Knowledge Production]]"
   - "[[Causality]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-08-04
+updated: 2026-09-15
 ---
 
 # Ways of Knowing

@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "foundation"
 headquarters: "London, UK"
@@ -25,16 +25,25 @@ tags:
   - theme/evidence-based-education
   - theme/what-works-movement
 related_concepts:
+  - "[[Academic Achievement]]"
+  - "[[Paradigm]]"
+  - "[[Abstract]]"
   - "[[Selective Education]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Peter Lampl]]"
+  - "[[Bertrand Russell]]"
 related_facts:
+  - "[[Grammar School]]"
   - "[[Education Endowment Foundation]]"
-  - "[[What Works Network]]"
+  - "[[Pupil Premium]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[What Works Network]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Higgins_2016_RE]]"
@@ -43,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Sutton Trust

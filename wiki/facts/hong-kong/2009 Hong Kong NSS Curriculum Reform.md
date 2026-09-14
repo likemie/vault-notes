@@ -11,7 +11,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
   - "[[Examination-Oriented Education]]"
+  - "[[Externalization]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-07'
-updated: 2026-07-13
+updated: 2026-09-15
 ---
 
 ## 背景

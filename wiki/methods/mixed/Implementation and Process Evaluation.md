@@ -11,9 +11,9 @@ summary: "在教育干预试验与复杂项目评价中与量化成效评估并�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 25
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 44
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
@@ -21,19 +21,32 @@ tags:
   - method/process-evaluation
   - evidence-based-education
 related_concepts:
+  - "[[Business as Usual]]"
   - "[[Unit of Analysis]]"
   - "[[Implementation Fidelity]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Ecological Validity]]"
-  - "[[Homework]]"
   - "[[Variable]]"
-  - "[[Attrition]]"
+  - "[[Meta-Representational Competence]]"
+  - "[[Logic Model]]"
   - "[[Preregistration]]"
+  - "[[Counterfactual]]"
+  - "[[Homework]]"
+  - "[[Attrition]]"
+  - "[[Champ]]"
+  - "[[Hypothesis]]"
+  - "[[Causality]]"
   - "[[Heterogeneity]]"
+  - "[[Hawthorne Effect]]"
+  - "[[Reliability]]"
+  - "[[Evaluator Independence]]"
+  - "[[Internal Validity]]"
+  - "[[Construct]]"
 related_theories:
   - "[[Realist Evaluation]]"
   - "[[Theory of Change]]"
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Evaluation Design]]"
@@ -42,11 +55,17 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Mixed Methods Research]]"
+  - "[[Joint Display]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Complier Average Causal Effect]]"
   - "[[Questionnaire]]"
+  - "[[Qualitative Interview]]"
+  - "[[Complier Average Causal Effect]]"
+  - "[[Intent-to-Treat Analysis]]"
   - "[[Semi-structured Interview]]"
-related_instruments: []
+  - "[[Sample Size Determination]]"
+  - "[[Random Assignment]]"
+related_instruments:
+  - "[[TIDieR]]"
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -55,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Implementation and Process Evaluation

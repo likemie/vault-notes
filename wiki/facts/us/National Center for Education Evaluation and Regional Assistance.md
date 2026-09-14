@@ -11,9 +11,9 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "government-agency"
 headquarters: "Washington, D.C."
@@ -25,18 +25,40 @@ tags:
   - evaluation/educational-policy
   - organization/federal-agency
 related_concepts:
-  - "[[Evaluator Independence]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Causality]]"
   - "[[Evidence Standards]]"
-related_theories: []
+  - "[[Knowledge Mobilisation]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Document]]"
+  - "[[Evaluator Independence]]"
+  - "[[Attrition]]"
+  - "[[Recommendations for Practice]]"
+  - "[[Entrepreneur in Residence]]"
+  - "[[Effective Sample Size]]"
+  - "[[Evaluation Research]]"
+  - "[[Scientific Method]]"
+related_theories:
+  - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Systematic Review]]"
+  - "[[Experimental Research]]"
+  - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Investing in Innovation Program]]"
   - "[[Education Endowment Foundation]]"
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[Partnership Schools Kura Hourua]]"
+  - "[[OECD]]"
+  - "[[Australian Education Research Organisation]]"
+  - "[[Investing in Innovation Program]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Bouckaert_2023_OECD]]"

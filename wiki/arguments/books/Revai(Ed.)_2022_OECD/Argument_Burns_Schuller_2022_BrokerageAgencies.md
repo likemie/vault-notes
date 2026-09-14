@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 83
+argument_related_count: 85
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -114,6 +114,8 @@ related_facts:
   - "[[Kennisrotonde]]"
   - "[[Education Media Centre]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
+  - "[[Sutton Trust]]"
+  - "[[Pupil Premium]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Institute for Effective Education]]"
   - "[[Campbell Collaboration]]"

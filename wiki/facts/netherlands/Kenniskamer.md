@@ -10,7 +10,7 @@ subtype: organization
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Kennisrotonde]]"
+  - "[[Netherlands Initiative for Education Research]]"
   - "[[EPPI-Centre]]"
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[Best Evidence Synthesis]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Kenniskamer

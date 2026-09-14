@@ -5,7 +5,7 @@ aliases:
 summary: "Massey 的空间理论概念，指空间中差异、关系和多重轨迹的共存，由此带来开放性和不可预测性。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Ontology]]"
   - "[[Relational Space]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[International Education]]"
   - "[[Emergence]]"
   - "[[Space Production]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: '2026-08-27'
+updated: 2026-09-15
 ---
 
 # Multiplicity

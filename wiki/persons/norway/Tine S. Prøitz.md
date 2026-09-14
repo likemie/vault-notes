@@ -10,10 +10,10 @@ summary: "挪威著名教育科学学者，东南挪威大学（USN）教育科�
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 14
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 35
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1972"
 died: ""
 lifespan: "1972–至今"
@@ -26,17 +26,34 @@ tags:
   - theme/learning-outcomes
   - theme/teacher-professionalism
 related_concepts:
+  - "[[Evaluation Research]]"
   - "[[Research-Practice Partnership]]"
   - "[[Third Space Discourse]]"
-  - "[[Evaluation Research]]"
+  - "[[International Education]]"
+  - "[[Paradigm]]"
+  - "[[Dialogue in Education]]"
+  - "[[Cumulative Knowledge Base]]"
+  - "[[New Public Management]]"
   - "[[Policy Borrowing]]"
+  - "[[Research Utilization]]"
   - "[[Professional Judgment]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Research Literacy]]"
   - "[[Boundary Spanner]]"
+  - "[[Heterogeneity]]"
   - "[[Knowledge Co-production]]"
+  - "[[Reflexivity]]"
+  - "[[Phronesis]]"
+  - "[[Operationalization]]"
+  - "[[Document]]"
+  - "[[Democratising Evidence]]"
+  - "[[Epistemology]]"
+  - "[[Research Ethics]]"
+  - "[[Theoretical Knowledge]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Action Research]]"
 related_instruments: []
 related_persons:
   - "[[Vivian Tseng]]"
@@ -44,12 +61,16 @@ related_persons:
   - "[[Dirk Van Damme]]"
 related_facts:
   - "[[Swedish ULF Project]]"
+  - "[[OECD]]"
+  - "[[Centre for Educational Research and Innovation]]"
+  - "[[William T. Grant Foundation]]"
+  - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Tine S. Prøitz

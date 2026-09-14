@@ -9,7 +9,7 @@ summary: "美国教育政策学者，印第安纳大学布卢明顿分校（Indi
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Knowledge Production]]"
   - "[[Academic Achievement]]"
+  - "[[Knowledge Mediation]]"
   - "[[Variable]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Network]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Christopher Lubienski

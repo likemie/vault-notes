@@ -8,10 +8,10 @@ aliases:
 summary: "个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 43
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - self-control
   - executive-function
@@ -22,13 +22,45 @@ tags:
 related_concepts:
   - "[[Metacognition]]"
   - "[[Academic Achievement]]"
+  - "[[Executive Function]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Literature Review]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Surface and Deep Learning]]"
   - "[[School Norm Adaptation]]"
+  - "[[Learner Autonomy]]"
+  - "[[Working Memory]]"
+  - "[[Cognitive Flexibility]]"
+  - "[[Lifelong Learning]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Predictive Validity]]"
+  - "[[Hawthorne Effect]]"
+  - "[[Construct Validity]]"
+  - "[[Construct]]"
+  - "[[Dialogue in Education]]"
+  - "[[Scaffolding]]"
+  - "[[Social-Emotional Learning]]"
+  - "[[Cognitive Shifting]]"
+  - "[[Paradigm]]"
+  - "[[Prefrontal Cortex]]"
+  - "[[Business as Usual]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Structured Teaching]]"
+  - "[[Dependent Variable]]"
+  - "[[Variable]]"
+  - "[[Document]]"
   - "[[Learning-Impeding Behavior]]"
   - "[[Discipline-Based Theory]]"
 related_theories: []
 related_methods:
+  - "[[Cohort Study]]"
+  - "[[Systematic Review]]"
+  - "[[Questionnaire]]"
+  - "[[Effect Size]]"
+  - "[[Mixed Methods Research]]"
   - "[[Qualitative Interview]]"
+  - "[[Triangulation]]"
+  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -40,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Self-control

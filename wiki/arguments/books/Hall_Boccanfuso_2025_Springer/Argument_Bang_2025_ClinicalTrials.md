@@ -19,7 +19,6 @@ related_concepts:
   - "[[Translational Research]]"
   - "[[Institutional Review Board]]"
   - "[[Performance Indicators]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Contract Research Organization]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Hypothesis]]"
@@ -55,7 +54,7 @@ title: "Argument_Bang_2025_ClinicalTrials"
 argument_key: "Argument_Bang_2025_ClinicalTrials"
 argument_display_title: "University–Industry Relations in Clinical Trials"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

@@ -9,10 +9,10 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - performance-pay
   - merit-pay
@@ -21,15 +21,37 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[Peer-Supported Learning]]"
+  - "[[Intrinsic vs Extrinsic Motivation]]"
+  - "[[Policy Borrowing]]"
+  - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
-related_theories: []
+  - "[[Evaluation Research]]"
+  - "[[Mediatised Governance]]"
+  - "[[New Public Management]]"
+  - "[[Global Education Reform Movement]]"
+  - "[[Development Turn in Comparative Education]]"
+  - "[[Theoretical Perspective]]"
+  - "[[Heterogeneity]]"
+  - "[[Attrition]]"
+  - "[[Document]]"
+  - "[[Academic Achievement]]"
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
-  - "[[PISA]]"
   - "[[OECD]]"
+  - "[[PISA]]"
+  - "[[Education Endowment Foundation]]"
+  - "[[The Scott Report]]"
+  - "[[No Child Left Behind Act 2001]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Grey_2018_CE]]"

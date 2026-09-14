@@ -6,7 +6,7 @@ aliases:
 summary: "认识论责任（Epistemic Responsibility）是指学习者与教育者在知识构建过程中主动批判、审视知识背后的权力诉求与利益立场，拒绝盲从意识形态教条的理性伦理责任。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Humility in Learning]]"
   - "[[Conscientization]]"
+  - "[[Knowledge Production]]"
   - "[[Empty Knower]]"
   - "[[Democratic Education]]"
   - "[[Liberal Education]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-09-15
 ---
 
 # Epistemic Responsibility（认识论责任）

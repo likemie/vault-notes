@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "network"
 headquarters: "London, UK"
@@ -25,27 +25,36 @@ tags:
   - theme/knowledge-mobilisation
   - theme/relational-governance
 related_concepts:
+  - "[[Knowledge Mediation]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Dialogue in Education]]"
+  - "[[What Works Movement]]"
+  - "[[School Leadership]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Paradigm]]"
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Education]]"
-  - "[[Knowledge Mobilisation]]"
 related_theories:
   - "[[Typology of Factors Influencing Research Use]]"
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[UK Centre for Evidence-based Policy]]"
   - "[[EPPI-Centre]]"
   - "[[What Works Network]]"
   - "[[National Strategy for Educational Research and Enquiry]]"
   - "[[Education Endowment Foundation]]"
-  - "[[UK Centre for Evidence-based Policy]]"
+  - "[[Research Schools Network]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
 confidence: high
 status: draft
 created: 2026-07-14
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Evidence Network

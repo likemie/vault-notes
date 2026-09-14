@@ -9,7 +9,7 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Critical Thinking]]"
   - "[[Quality Education]]"
+  - "[[Knowledge Production]]"
   - "[[Selective Affinity]]"
   - "[[General Education]]"
   - "[[Decodification]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-08-25
+updated: 2026-09-15
 ---
 
 # Progressive Education

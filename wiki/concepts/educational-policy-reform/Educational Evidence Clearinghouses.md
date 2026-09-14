@@ -10,7 +10,7 @@ aliases:
 summary: "循证教育治理中的制度化中介机构，指通过设定因果证据标准、审查实证研究并发布项目有效性评级的专业实体平台；在更广泛的知识治理中涵盖部委嵌入、自主资助与独立慈善等多元制度谱系；实证研究表明其评级面临显著的跨机构门槛分歧与构念效度挑战，且在长效存续上面临2至3年短期政治预算周期的制度性制约。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 109
+related_count: 110
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -132,6 +132,7 @@ related_facts:
   - "[[Evidence-Based Teachers Network]]"
   - "[[Swedish Institute for Educational Research]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Pupil Premium]]"
   - "[[OECD]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Institute of Education Sciences]]"
@@ -146,7 +147,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Educational Evidence Clearinghouses

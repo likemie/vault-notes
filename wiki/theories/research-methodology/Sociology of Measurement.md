@@ -5,7 +5,7 @@ aliases:
 summary: "将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Performativity of Measurement]]"
   - "[[Science and Technology Studies]]"
+  - "[[Knowledge Co-production]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: 2026-09-15
 ---
 
 ## 定义
@@ -76,7 +77,7 @@ updated: '2026-05-18'
 > [!info] 理论基础
 > - **[[Science and Technology Studies]]** — 共享 STS 的核心关注：知识如何被生产、动员、验证和挑战；拒绝自然/科学、社会/文化的二分([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 > - **Latour 的"科学在行动"** — 关注科学实践本身，而非科学的成品（Latour, 1987, 1999;）
-> - **Jasanoff 的共同生产（co-production）** — 科学与国家相互构成(Jasanoff, 2004;)
+> - **Jasanoff 的共同生产（[[Knowledge Co-production|co-production]]）** — 科学与国家相互构成(Jasanoff, 2004;)
 
 ## 实证发现
 

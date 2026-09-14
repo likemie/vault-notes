@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Exchange]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-06-04
+updated: 2026-09-15
 ---
 
 # Bayh-Dole Act of 1980

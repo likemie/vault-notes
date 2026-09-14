@@ -7,7 +7,7 @@ aliases:
 summary: "世界银行特有的政策知识打包与中介模式，指将分散于全球各地的政策项目经验集中汇编入库、贴标分类后向各国政府按需推送的政策借鉴服务机制。与 OECD 外向型横向国别比较模式相对，世界银行以自身历史项目组合作为知识仓库，形成高度自指的经验汲取循环。"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - theme/world-bank
   - theme/global-governance
 related_concepts:
+  - "[[Knowledge Mediation]]"
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
   - "[[Dialogue in Education]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Warehousing of Good Practices

@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 63
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Teaching Assistant]]"
   - "[[Evaluation Research]]"
+  - "[[Self-control]]"
   - "[[Scaffolding]]"
   - "[[Dialogue in Education]]"
   - "[[Working Memory]]"
@@ -92,7 +93,7 @@ related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
 created: 2026-08-24
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Higher-Order Thinking Skills

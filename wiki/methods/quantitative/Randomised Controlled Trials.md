@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 107
+method_related_count: 117
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Interventionist Strategy]]"
   - "[[Unit of Analysis]]"
+  - "[[Effective Sample Size]]"
+  - "[[Business as Usual]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Internal Validity]]"
@@ -58,6 +60,11 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Screening Off]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[School Choice]]"
+  - "[[Preregistration]]"
+  - "[[Homework]]"
+  - "[[Implementation Fidelity]]"
+  - "[[Heterogeneity]]"
   - "[[Ontology]]"
   - "[[Validity as Inferences]]"
   - "[[Praxis]]"
@@ -73,6 +80,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Intervention Research]]"
+  - "[[Confidence Interval]]"
   - "[[True Experimental Design]]"
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
@@ -80,26 +88,29 @@ related_methods:
   - "[[Blinding]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Sample Size Determination]]"
-  - "[[Confidence Interval]]"
   - "[[Qualitative Research]]"
   - "[[Mechanism Experiments]]"
   - "[[Complier Average Causal Effect]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Efficacy and Effectiveness Trials]]"
   - "[[Black Box RCTs]]"
   - "[[Experimental Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
+  - "[[Implementation and Process Evaluation]]"
 related_persons:
   - "[[Karl Pearson]]"
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[World Bank]]"
   - "[[Building Evidence in Education]]"
+  - "[[National Pupil Database]]"
   - "[[Stanford Prison Experiment]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[Blueprints for Healthy Youth Development]]"
@@ -130,12 +141,11 @@ related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Peterson_2016_IJRME]]"
-related_instruments:
-  - "[[EEF Padlock Security Rating]]"
+related_instruments: []
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Randomised Controlled Trials

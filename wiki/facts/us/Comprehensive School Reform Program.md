@@ -8,7 +8,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -32,13 +32,12 @@ related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"
-  - "[[Investing in Innovation Program]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 ## 背景
 

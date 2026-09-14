@@ -30,7 +30,7 @@ related_concepts:
 related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
-  - "[[Entity vs Incremental Intelligence]]"
+  - "[[Growth Mindset]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Ethnography]]"

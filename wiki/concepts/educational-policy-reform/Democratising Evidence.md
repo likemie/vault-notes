@@ -9,10 +9,10 @@ aliases:
 summary: "将民主参与原则拓展至教育研究证据生产与利用全过程的学术思潮与治理议程，主张终结学者与资助者对科研议程的排他性垄断，将实践者与边缘社群确立为议程设定与知识转化的平等主体，同时反思功利主义实用性修辞对离群弱势群体的潜在排斥"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/educational-policy-reform
   - theme/knowledge-mobilisation
@@ -20,26 +20,36 @@ tags:
   - theme/research-practice-partnership
 related_concepts:
   - "[[Evidence Ecosystem]]"
+  - "[[Research Utilization]]"
   - "[[Democratisation of Expertise]]"
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Research-Practice Partnership]]"
   - "[[Boundary Spanner]]"
   - "[[Reflexivity]]"
+  - "[[Epistemology]]"
   - "[[Knowledge Production]]"
-  - "[[Research Utilization]]"
+  - "[[Statistical Normalisation]]"
   - "[[Variable]]"
   - "[[Engaged Scholarship]]"
+  - "[[Operationalization]]"
+  - "[[Research Problem]]"
+  - "[[Causality]]"
+  - "[[Academic Achievement]]"
+  - "[[Research Literacy]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Knowledge Transfer]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Action Research]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Vivian Tseng]]"
-  - "[[Dirk Van Damme]]"
-  - "[[Mark Schneider]]"
 related_facts:
+  - "[[William T. Grant Foundation]]"
   - "[[OECD]]"
+  - "[[Complex Instruction Programme]]"
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Nelson_2017_ER]]"
@@ -47,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Democratising Evidence

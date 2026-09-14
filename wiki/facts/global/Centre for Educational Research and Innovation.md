@@ -11,10 +11,10 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 35
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 41
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: "international-organization"
 headquarters: "法国巴黎（Paris, France）"
 established: "1968"
@@ -32,14 +32,19 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Evidence Ecosystem]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Democratising Evidence]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Creativity Assessment]]"
-  - "[[New Public Management]]"
   - "[[Dialogue in Education]]"
+  - "[[New Public Management]]"
   - "[[Research Utilization]]"
+  - "[[Epistemology]]"
+  - "[[Creativity]]"
+  - "[[Critical Thinking Assessment]]"
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
-  - "[[Democratising Evidence]]"
+  - "[[Construct]]"
+  - "[[Critical Thinking]]"
 related_theories: []
 related_methods: []
 related_instruments:
@@ -58,6 +63,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Education International]]"
   - "[[National Education Association]]"
+  - "[[International Summits on the Teaching Profession]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments:
@@ -71,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Centre for Educational Research and Innovation

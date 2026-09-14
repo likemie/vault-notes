@@ -22,7 +22,7 @@ title: "Argument_Lakhani_2012_AKUIED"
 argument_key: "Argument_Lakhani_2012_AKUIED"
 argument_display_title: "Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum"
 argument_kind: "conference-paper"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Reflexivity]]"
   - "[[Creativity]]"
+  - "[[Knowledge Production]]"
   - "[[Learner Autonomy]]"
   - "[[Epistemology]]"
   - "[[Document]]"

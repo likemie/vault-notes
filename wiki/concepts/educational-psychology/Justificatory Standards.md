@@ -7,7 +7,7 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Epistemic Ideals]]"
   - "[[Epistemology]]"
   - "[[Reliable Epistemic Processes]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Evidence Standards]]"
   - "[[Dialogue in Education]]"
   - "[[Domain Specificity]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Justificatory Standards

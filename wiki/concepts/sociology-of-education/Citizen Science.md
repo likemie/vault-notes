@@ -10,7 +10,7 @@ aliases:
 summary: "指公众自愿、直接参与科学研究全过程（如数据采集、模式分类、知觉测评、环境监测或课题共创）的协作科研与社会参与范式，兼具前沿科学突破、公众科学资本累积与社区生态治理的多维赋权价值。"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Attitude]]"
   - "[[Science Capital]]"
+  - "[[Knowledge Co-production]]"
   - "[[Epistemology]]"
   - "[[Scientific Literacy]]"
   - "[[Self-Efficacy]]"
@@ -44,7 +45,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Citizen Science

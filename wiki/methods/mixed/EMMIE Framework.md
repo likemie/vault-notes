@@ -8,7 +8,7 @@ summary: "由英国警务有效性中心（College of Policing）推行的五维
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Moderator Analysis]]"
+  - "[[Implementation and Process Evaluation]]"
   - "[[Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quantitative Research]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # EMMIE Framework

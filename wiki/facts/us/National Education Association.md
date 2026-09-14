@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "professional-association-union"
 headquarters: "美国华盛顿特区（Washington, D.C., United States）"
@@ -25,18 +25,32 @@ tags:
   - theme/educational-policy
   - theme/21st-century-skills
 related_concepts:
+  - "[[Teacher Professional Agency]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Whole Person Education]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[International Education]]"
+  - "[[Dialogue in Education]]"
+  - "[[Paradigm]]"
+  - "[[School Choice]]"
+  - "[[Performance Pay]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Attrition]]"
   - "[[Democratising Evidence]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[National Education]]"
   - "[[OECD]]"
   - "[[Education International]]"
+  - "[[International Summits on the Teaching Profession]]"
+  - "[[Partnership Schools Kura Hourua]]"
   - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Park_2026_TSC]]"
@@ -44,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # National Education Association

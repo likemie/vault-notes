@@ -9,7 +9,7 @@ aliases:
 summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - region/global
   - subject/comparative-education
 related_concepts:
+  - "[[Soft Power]]"
   - "[[Further Education]]"
   - "[[Corporate University]]"
 related_theories:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-18
-updated: 2026-09-10
+updated: 2026-09-15
 ---
 
 # Corporate Education

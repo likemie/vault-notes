@@ -9,7 +9,7 @@ aliases:
 summary: "个体获取并有效应用理解与管理情绪、确立积极目标、展现同理心、建立正向关系以及作出负责任决策所需的认知、情感与行为素养框架。在全球教育治理中，经历从心理卫生与全人教育起源，到联合国儿童基金会（UNICEF）将其开辟为危机保护与脆弱儿童政策中介新赛道，再到经合组织（OECD）与教科文组织跨界将其量化为跨国比较评价指标（如 SSES 测评）的制度演变，引发了关于非认知能力标准化与文化情境性的深刻争鸣。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Sustainability Education]]"
+  - "[[Self-control]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Variable]]"
   - "[[Policy Network]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Social-Emotional Learning

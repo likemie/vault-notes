@@ -6,29 +6,38 @@ aliases:
 summary: "大众媒体与公共舆论在极力夸大教育危机的同时，系统性回避对执政者推出的激进改革方案、因果机制与实证证据展开实质审视的媒介异化现象"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/media-and-education
   - theme/policy-discourse
   - theme/educational-governance
   - paradigm/critical
 related_concepts:
+  - "[[Chain of Evidence]]"
   - "[[Moral Sidestep]]"
   - "[[Policy Borrowing]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Shape-Shifting]]"
+  - "[[Performance Pay]]"
+  - "[[Central Phenomenon]]"
   - "[[Evidence-Based Education]]"
   - "[[Media Logic]]"
   - "[[Falling Standards Template]]"
   - "[[Mediatised Governance]]"
-  - "[[Chain of Evidence]]"
+  - "[[Dialogue in Education]]"
+  - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Paul Morris]]"
 related_facts:
+  - "[[PISA]]"
+  - "[[OECD]]"
   - "[[Ofsted]]"
   - "[[Grammar School]]"
 related_arguments:
@@ -36,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Policy Avoidance

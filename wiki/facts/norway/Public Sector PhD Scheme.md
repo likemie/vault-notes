@@ -11,7 +11,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Embedded Researcher]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Mediation]]"
   - "[[Document]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Public Sector PhD Scheme

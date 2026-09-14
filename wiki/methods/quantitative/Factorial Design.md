@@ -13,9 +13,9 @@ summary: "同时操纵两个或多个自变量以检验主效应与交互效应�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 34
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -23,10 +23,19 @@ tags:
   - design-type
 related_concepts:
   - "[[Independent Variable]]"
+  - "[[Variable]]"
   - "[[Interaction Effect]]"
   - "[[Causality]]"
+  - "[[Evidence-Based Education]]"
   - "[[Unit of Analysis]]"
-  - "[[Variable]]"
+  - "[[Hypothesis]]"
+  - "[[Implementation Fidelity]]"
+  - "[[Dependent Variable]]"
+  - "[[Business as Usual]]"
+  - "[[Type I and Type II Errors]]"
+  - "[[Learner Autonomy]]"
+  - "[[Paradigm]]"
+  - "[[Realism in International Relations]]"
 related_theories:
   - "[[Realist Evaluation]]"
   - "[[Theory of Change]]"
@@ -34,18 +43,27 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Analysis of Variance]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Standard Error]]"
+  - "[[Sample Size Determination]]"
   - "[[True Experimental Design]]"
   - "[[Solomon Four-Group Design]]"
-  - "[[Analysis of Variance]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
+related_facts:
+  - "[[Education Endowment Foundation]]"
+  - "[[Research Schools Network]]"
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 # Factorial Design
 

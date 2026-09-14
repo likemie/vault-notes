@@ -49,7 +49,7 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Problem-Based Learning]]"
 related_theories:
-  - "[[Entity vs Incremental Intelligence]]"
+  - "[[Growth Mindset]]"
   - "[[TRIZ]]"
   - "[[Four P Model of Creativity]]"
   - "[[Creative Problem Solving]]"

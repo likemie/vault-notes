@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 61
+fact_related_count: 72
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Preregistration]]"
+  - "[[Effective Sample Size]]"
   - "[[Going Native]]"
   - "[[School Choice]]"
   - "[[Metacognition]]"
@@ -39,14 +40,15 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Publication Bias]]"
   - "[[Governing by Numbers]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Knowledge Production]]"
   - "[[Policy Network]]"
+  - "[[Teaching Assistant]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[Professional Judgment]]"
   - "[[Positivism]]"
+  - "[[Business as Usual]]"
   - "[[Implementation Fidelity]]"
   - "[[Realism in International Relations]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -61,23 +63,32 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Quasi-Experimental Designs]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Effect Size]]"
-  - "[[Sample Size Determination]]"
+  - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Sample Size Determination]]"
+  - "[[Efficacy and Effectiveness Trials]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Peter Lampl]]"
 related_facts:
+  - "[[Sutton Trust]]"
   - "[[Research Schools Network]]"
+  - "[[Education at a Glance]]"
+  - "[[Pupil Premium]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[National Pupil Database]]"
   - "[[Australian Education Research Organisation]]"
   - "[[BHP Foundation]]"
   - "[[What Works Network]]"
   - "[[What Works Clearinghouse]]"
   - "[[Ofsted]]"
   - "[[Evidence Network]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Strong Beginnings Report]]"
   - "[[EPPI-Centre]]"
 related_arguments:
@@ -93,7 +104,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Education Endowment Foundation

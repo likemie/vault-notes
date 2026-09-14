@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Research Utilization]]"
   - "[[Knowledge Mediation]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Social-Emotional Learning]]"
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Early Intervention Foundation

@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -59,6 +59,7 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Education Endowment Foundation]]"
   - "[[Selective Schools Expansion Fund]]"
+  - "[[Sutton Trust]]"
   - "[[OECD]]"
   - "[[What Works Network]]"
 related_arguments:
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-07
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Ofsted

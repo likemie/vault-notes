@@ -8,7 +8,7 @@ aliases:
 summary: "由剑桥大学考评部研发的高利害医学与生物医学本科入学选拔考试，其第一模块思维技能通过32道情境题系统测度问题解决与批判性思维。"
 type: instrument
 instrument_type: test
-instrument_related_count: 8
+instrument_related_count: 7
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Data Transformation]]"
-  - "[[Rasch Measurement]]"
   - "[[Multiple-Choice Questions]]"
 related_instruments: []
 related_persons: []
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-15
 ---
 
 # BioMedical Admissions Test

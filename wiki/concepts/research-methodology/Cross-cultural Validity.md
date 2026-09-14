@@ -7,7 +7,7 @@ aliases:
 summary: "确保研究工具在跨越文化边界时保持意义、相关性和测量对等性的效度类型，涉及emic/etic建构张力、回译等操作化技术，以及生态谬误等多层威胁的系统管理"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
+  - "[[International Large-Scale Assessments]]"
   - "[[Ecological Fallacy]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
@@ -39,7 +40,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-09-15
 ---
 # Cross-cultural Validity
 

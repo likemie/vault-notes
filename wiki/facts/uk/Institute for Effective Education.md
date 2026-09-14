@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_facts:
   - "[[Best Evidence Encyclopedia]]"
   - "[[Research Schools Network]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Pupil Premium]]"
   - "[[Education for All]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Network]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Institute for Effective Education

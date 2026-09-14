@@ -7,7 +7,7 @@ aliases:
 summary: "研究者对研究质量的基本义务，涵盖伦理规范、数据管理、实验设计和成果报告，大学通常要求师生完成 RCR 培训作为从事研究的条件"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Academic Freedom]]"
   - "[[Trustworthiness]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Causality]]"
   - "[[Scientific Uncertainty]]"
 related_theories: []
@@ -37,7 +36,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 # Responsible Conduct of Research

@@ -9,7 +9,7 @@ aliases:
 summary: "UIDP（2012）提出的产学合作五领域三层级分类框架，将合作形式按学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域和交易-协作-联盟三个层级排列为连续体，用于诊断合作盲区和识别策略机会"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,6 +35,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[SPECTRUM]]"
 related_arguments:
   - "[[Argument_UIDP_2012_PartnershipContinuum]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-10
+updated: 2026-09-15
 ---
 
 # Partnership Continuum

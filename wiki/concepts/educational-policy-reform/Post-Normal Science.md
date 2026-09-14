@@ -8,7 +8,7 @@ aliases:
 summary: "由科学哲学家西尔维奥·丰托维奇与杰罗姆·拉维茨于 1993 年提出的科学认识论与公共政策分析概念，用以界定“事实不确定、价值有争议、赌注高昂且决策紧迫”的复杂治理情境，主张超越封闭的传统同行评议，构建吸纳公众与多元利益相关方的“扩展同行共同体”，以透明披露科学不确定性与民主对话化解决策僵局"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Epistemic Aims]]"
   - "[[Emergence]]"
   - "[[Hypothesis]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Dialogue in Education]]"
   - "[[Scientific Literacy]]"
   - "[[Rote Learning]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-15
 ---
 
 # Post-Normal Science

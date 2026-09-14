@@ -10,6 +10,7 @@ publisher: "Springer"
 tags: ["theme/university-industry-collaboration", "theme/metrics-and-incentives", "theme/talent-development", "source/industry-perspective"]
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Knowledge Co-production]]"
   - "[[Literature Review]]"
   - "[[Six Rs of University-Industry Relations]]"
   - "[[Public-Private Partnership in Research]]"
@@ -55,9 +56,9 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025

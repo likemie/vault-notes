@@ -7,10 +7,10 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - field/educational-leadership-administration
   - theme/knowledge-mobilisation
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[University-Industry Collaboration]]"
   - "[[Push and Pull Models of Knowledge Mobilisation]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Formative Assessment]]"
   - "[[Literature Review]]"
   - "[[Interaction Effect]]"
@@ -66,7 +65,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Absorptive Capacity

@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 28
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Mediatised Governance]]"
   - "[[Rashomon Effect]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Policy Avoidance]]"
   - "[[Educational Meliorism]]"
   - "[[Academic Achievement]]"
@@ -39,8 +38,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Rasch Measurement]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
@@ -61,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # 2014 Open Letter on PISA

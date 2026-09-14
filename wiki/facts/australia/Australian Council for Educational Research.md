@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -21,7 +21,6 @@ tags:
   - theme/intermediary-organisation
 related_concepts:
   - "[[Gatekeepers]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-06-16
+updated: 2026-09-15
 ---
 
 # Australian Council for Educational Research

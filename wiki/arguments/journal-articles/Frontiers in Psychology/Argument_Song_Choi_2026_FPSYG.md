@@ -64,6 +64,7 @@ related_concepts:
   - "[[External Validity]]"
 related_theories:
   - "[[Situative Perspective]]"
+  - "[[Growth Mindset]]"
 related_methods:
   - "[[PRISMA]]"
   - "[[Effect Size]]"
@@ -101,7 +102,7 @@ title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"

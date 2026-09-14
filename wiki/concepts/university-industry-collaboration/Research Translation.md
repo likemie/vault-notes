@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在高教产学中体现为技术成果商业化漏斗，在教育治理中体现为学术证据向教学与政策实践的双向情境转译"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -59,6 +59,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Education Endowment Foundation]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-03
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Research Translation

@@ -6,7 +6,7 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，用于解释证据库为何可能高估干预效果。"
 type: concept
 domain: "research-methodology"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Developer Effect]]"
   - "[[Hypothesis]]"
   - "[[Evaluator Independence]]"
+  - "[[Cumulative Knowledge Base]]"
   - "[[Categorical Funding]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Researcher Degrees of Freedom]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 ## 定义

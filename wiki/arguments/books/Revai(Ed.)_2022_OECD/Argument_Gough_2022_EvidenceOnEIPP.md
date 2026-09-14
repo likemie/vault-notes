@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -88,13 +88,13 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Classroom Management]]"
   - "[[Growth]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Sage]]"
   - "[[Causality]]"
   - "[[Emergence]]"
 related_facts:
   - "[[What Works Network]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Sutton Trust]]"
   - "[[Research Schools Network]]"
   - "[[National Institute for Health and Care Excellence]]"
   - "[[Early Intervention Foundation]]"
@@ -105,6 +105,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Institute for Effective Education]]"
   - "[[Ofsted]]"
+  - "[[National Pupil Database]]"
   - "[[Scientific Advisory Group for Emergencies]]"
 status: draft
 created: 2026-09-13

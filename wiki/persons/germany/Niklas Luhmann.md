@@ -8,7 +8,7 @@ summary: "德国社会学家，社会系统理论创始人；提出自创生系�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -22,6 +22,7 @@ tags:
   - subject/sociology-of-education
 related_concepts:
   - "[[Incommensurability]]"
+  - "[[Technology Deficit of Education]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
   - "[[Structural Coupling]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Niklas Luhmann

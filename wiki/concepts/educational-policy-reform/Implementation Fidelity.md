@@ -8,10 +8,10 @@ aliases:
 summary: "教育干预在真实学校中是否按设计要求、足够强度和质量被执行的程度，是打开因果机制黑箱并区分实施失败与理论无效的核心中介"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 46
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - implementation-fidelity
   - implementation
@@ -20,23 +20,62 @@ tags:
   - causal-inference
   - ipe
 related_concepts:
+  - "[[Causality]]"
+  - "[[Epistemology]]"
+  - "[[Technical Rationality]]"
+  - "[[Normal School]]"
+  - "[[Construct]]"
   - "[[Internal Validity]]"
+  - "[[Independent Variable]]"
   - "[[External Validity]]"
+  - "[[Formative Assessment]]"
+  - "[[Variable]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Attrition]]"
+  - "[[Business as Usual]]"
+  - "[[Tracking]]"
+  - "[[Counterfactual]]"
+  - "[[Metacognition]]"
+  - "[[Meta-Representational Competence]]"
+  - "[[Chain of Evidence]]"
+  - "[[Technology Infusion]]"
+  - "[[Fade-out Effect]]"
+  - "[[Teacher Professional Agency]]"
+  - "[[Paradigm]]"
+  - "[[Heterogeneity]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Document]]"
+  - "[[Evidence Standards]]"
 related_theories:
   - "[[Theory of Change]]"
+  - "[[Organizational Culture]]"
 related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
   - "[[Formative Program Evaluation]]"
+  - "[[Implementation and Process Evaluation]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Complier Average Causal Effect]]"
   - "[[Random Assignment]]"
-related_instruments: []
+  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Sample Size Determination]]"
+  - "[[Meta-analysis]]"
+related_instruments:
+  - "[[TIDieR]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
+  - "[[Students and Teachers Accessing Tomorrow]]"
+  - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
 confidence: high
 status: active
 created: '2026-05-23'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Implementation Fidelity

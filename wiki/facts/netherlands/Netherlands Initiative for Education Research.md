@@ -11,9 +11,9 @@ subtype: organization
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 period: "2012 年至今"
 initiator_organization: "荷兰教育、文化与科学部 / 荷兰国家科学研究组织（NWO）"
@@ -23,14 +23,19 @@ tags:
   - theme/educational-governance
   - theme/knowledge-mobilisation
   - theme/research-policy-practice
-related_concepts: []
+related_concepts:
+  - "[[Research Utilization]]"
+  - "[[Literature Review]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Typology of Factors Influencing Research Use]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Kennisrotonde]]"
+  - "[[OECD]]"
   - "[[Kenniskamer]]"
 related_arguments:
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
@@ -38,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Netherlands Initiative for Education Research

@@ -9,10 +9,10 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - evidence-based-policy
   - evidence-informed-practice
@@ -29,11 +29,16 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
+  - "[[Attrition]]"
+  - "[[Heterogeneity]]"
+  - "[[Hypothesis]]"
   - "[[Knowledge Mediation]]"
   - "[[Publication Bias]]"
-  - "[[Heterogeneity]]"
   - "[[Implementation Fidelity]]"
+  - "[[Counterfactual]]"
   - "[[Champ]]"
+  - "[[Preregistration]]"
+  - "[[Predictive Validity]]"
   - "[[Paradigm]]"
   - "[[Research Question]]"
   - "[[Professional Judgment]]"
@@ -41,14 +46,18 @@ related_concepts:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
-  - "[[Systematic Review]]"
+  - "[[Sample Size Determination]]"
+  - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Systematic Review]]"
   - "[[EMMIE Framework]]"
+  - "[[Implementation and Process Evaluation]]"
   - "[[Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Mixed Methods Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
+  - "[[Robert Slavin]]"
   - "[[Mark Schneider]]"
 related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
@@ -68,10 +77,13 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 related_theories:
   - "[[Organizational Culture]]"
+related_instruments:
+  - "[[EEF Padlock Security Rating]]"
+  - "[[TIDieR]]"
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Evidence Standards

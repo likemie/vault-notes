@@ -9,7 +9,7 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 76
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Dialogue in Education]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Preregistration]]"
   - "[[Innovation Hub]]"
   - "[[Going Native]]"
   - "[[Professional Learning Community]]"
@@ -85,6 +86,7 @@ related_facts:
   - "[[Kunnskapssenter for utdanning]]"
   - "[[National Institute for Health and Care Excellence]]"
   - "[[Research Schools Network]]"
+  - "[[National Pupil Database]]"
   - "[[Teaching and Learning Research Programme]]"
   - "[[Early Intervention Foundation]]"
   - "[[Ofsted]]"
@@ -106,7 +108,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Evidence Ecosystem

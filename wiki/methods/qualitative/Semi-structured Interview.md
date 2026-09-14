@@ -8,7 +8,7 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -40,10 +40,13 @@ related_methods:
   - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
+  - "[[Argument_Torres_2022_BarriersMechanisms]]"
+related_facts:
+  - "[[OECD]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-09-15
 ---
 
 # Semi-structured Interview

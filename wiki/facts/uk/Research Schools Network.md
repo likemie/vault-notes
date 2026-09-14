@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -55,6 +55,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Institute for Effective Education]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Pupil Premium]]"
   - "[[OECD]]"
   - "[[Ofsted]]"
   - "[[What Works Network]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Research Schools Network

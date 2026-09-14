@@ -6,7 +6,7 @@ aliases:
 summary: "将社会政治不满重新框定为个体心理调适问题的治理策略，通过课程去政治化、课外感恩教育和个体化归因三条路径运作"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - region/china
 related_concepts:
   - "[[Disciplina and Doctrina]]"
+  - "[[Social-Emotional Learning]]"
   - "[[Progressive Education]]"
   - "[[Benevolence]]"
 related_theories: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: '2026-08-27'
+updated: 2026-09-15
 ---
 
 # Psychologisation

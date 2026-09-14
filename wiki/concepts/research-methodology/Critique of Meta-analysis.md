@@ -5,7 +5,7 @@ aliases:
 summary: "围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系，涵盖研究可比性、输入质量、发表偏倚、过度简化、统计推断、领域迁移、抽样伦理和平均效应误导等问题"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Literature Review]]"
   - "[[Research Utilization]]"
+  - "[[Business as Usual]]"
   - "[[Research Purpose]]"
   - "[[Visible Learning]]"
   - "[[Epistemology]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-09-15
 ---
 
 # Critique of Meta-analysis

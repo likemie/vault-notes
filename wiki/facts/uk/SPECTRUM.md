@@ -10,9 +10,9 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 26
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2014–2017"
 initiator_organization: "[[Education Endowment Foundation]]"
@@ -25,17 +25,36 @@ tags:
   - evidence-based-education
   - region/uk
 related_concepts:
+  - "[[Document]]"
   - "[[Self-control]]"
+  - "[[Causality]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Predictive Validity]]"
+  - "[[Self-Efficacy]]"
+  - "[[Literature Review]]"
+  - "[[Academic Achievement]]"
+  - "[[Affective Outcomes]]"
+  - "[[Variable]]"
+  - "[[Cross-cultural Validity]]"
+  - "[[Paradigm]]"
+  - "[[Preregistration]]"
+  - "[[Social-Emotional Learning]]"
+  - "[[Construct]]"
+  - "[[Ecological Validity]]"
 related_theories: []
 related_methods:
+  - "[[Systematic Review]]"
+  - "[[Internal Consistency]]"
+  - "[[Cronbach's Alpha]]"
+  - "[[Test-Retest Reliability]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
 confidence: high

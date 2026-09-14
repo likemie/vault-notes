@@ -11,7 +11,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
-  - "[[Conflict of Interest in Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-23'
-updated: '2026-05-23'
+updated: 2026-09-15
 ---
 
 # Cognition Education

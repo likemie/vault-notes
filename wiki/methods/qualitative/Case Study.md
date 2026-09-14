@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 59
+method_related_count: 60
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
   - "[[Knowledge Production]]"
+  - "[[Business as Usual]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -82,7 +83,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 # Case Study
 

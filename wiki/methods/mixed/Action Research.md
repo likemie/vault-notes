@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 50
+method_related_count: 51
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -70,9 +70,10 @@ related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 related_facts:
   - "[[International Schools Examination Syndicate]]"
+  - "[[Complex Instruction Programme]]"
 status: draft
 created: 2026-06-25
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 # Action Research
 

@@ -8,10 +8,10 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 55
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - research-use
   - knowledge-mobilisation
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Professional Learning Community]]"
   - "[[Hypothesis]]"
+  - "[[Third Space Discourse]]"
   - "[[Dialogue in Education]]"
   - "[[Champ]]"
   - "[[Reflexivity]]"
@@ -46,6 +47,8 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[External Validity]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Going Native]]"
+  - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
   - "[[Heterogeneity]]"
@@ -61,6 +64,7 @@ related_methods:
   - "[[Likert Scale]]"
 related_instruments: []
 related_persons:
+  - "[[Tine S. Prøitz]]"
   - "[[Vivian Tseng]]"
 related_facts:
   - "[[Knowledge Network for Applied Education Research]]"
@@ -70,6 +74,8 @@ related_facts:
   - "[[Research Schools Network]]"
   - "[[Education Endowment Foundation]]"
   - "[[OECD]]"
+  - "[[Swedish ULF Project]]"
+  - "[[Complex Instruction Programme]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
@@ -78,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Research-Practice Partnership

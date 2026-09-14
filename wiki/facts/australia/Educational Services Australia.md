@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -19,7 +19,6 @@ tags:
   - policy/teacher-education
   - governance
 related_concepts:
-  - "[[Conflict of Interest in Research]]"
   - "[[Policy Network]]"
 related_theories: []
 related_methods: []
@@ -34,7 +33,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-06-16
+updated: 2026-09-15
 ---
 
 # Educational Services Australia

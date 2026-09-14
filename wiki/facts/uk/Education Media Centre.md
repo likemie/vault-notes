@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 24
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Abstract]]"
   - "[[Sampling Error]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Knowledge Mediation]]"
   - "[[Scientific Misinformation]]"
   - "[[Educational Brokerage Agency]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Education Media Centre

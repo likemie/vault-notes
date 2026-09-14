@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,15 +22,17 @@ related_concepts:
   - "[[Champ]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Determinism]]"
+  - "[[Media Logic]]"
   - "[[Construct]]"
   - "[[Governance by Spin]]"
+  - "[[Policy Avoidance]]"
   - "[[Hypothesis]]"
   - "[[Soft Power]]"
   - "[[Dramatic Tension]]"
+  - "[[Falling Standards Template]]"
   - "[[Performance Pay]]"
   - "[[Rote Learning]]"
   - "[[Screening Off]]"
-  - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Governing by Numbers]]"
   - "[[Going Native]]"
@@ -49,7 +51,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Mediatised Governance

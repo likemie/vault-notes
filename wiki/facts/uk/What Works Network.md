@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_facts:
   - "[[National Institute for Health and Care Excellence]]"
   - "[[Ofsted]]"
   - "[[Campbell Collaboration]]"
+  - "[[Sutton Trust]]"
   - "[[Early Intervention Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # What Works Network

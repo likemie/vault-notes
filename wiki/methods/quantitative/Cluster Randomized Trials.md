@@ -13,7 +13,7 @@ summary: "以自然群体（学校、班级或社区）为随机分配单位、�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Implementation Fidelity]]"
   - "[[Attrition]]"
+  - "[[Effective Sample Size]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-09-15
 ---
 
 # Cluster Randomized Trials

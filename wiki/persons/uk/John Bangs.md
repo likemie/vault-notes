@@ -7,10 +7,10 @@ summary: "英国资深教育政策学者与教师工会战略家，剑桥大学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 31
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1951"
 died: ""
 lifespan: "1951–至今"
@@ -23,30 +23,47 @@ tags:
   - theme/evidence-informed-policy
   - theme/social-dialogue
 related_concepts:
+  - "[[International Education]]"
+  - "[[Teacher Professional Agency]]"
+  - "[[New Public Management]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Professional Judgment]]"
+  - "[[Self-Efficacy]]"
   - "[[Research Utilization]]"
   - "[[Boundary Spanner]]"
   - "[[Dialogue in Education]]"
+  - "[[Whole Person Education]]"
   - "[[Democratising Evidence]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
+  - "[[Knowledge Mediation]]"
+  - "[[Variable]]"
+  - "[[Educational Meliorism]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge Mobilisation]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
   - "[[Questionnaire]]"
+  - "[[Scale Development]]"
 related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
   - "[[Mark Schneider]]"
   - "[[Dirk Van Damme]]"
+  - "[[Jürgen Habermas]]"
 related_facts:
-  - "[[International Summits on the Teaching Profession]]"
-  - "[[Teaching and Learning International Survey]]"
   - "[[Education International]]"
+  - "[[International Summits on the Teaching Profession]]"
+  - "[[OECD]]"
+  - "[[Teaching and Learning International Survey]]"
+  - "[[National Education Association]]"
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # John Bangs

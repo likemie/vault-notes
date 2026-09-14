@@ -7,7 +7,7 @@ summary: "一种多变量统计技术，用于在没有预设明确结构的情�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 16
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []
 related_facts:
-  - "[[Education for All]]"
   - "[[Sense about Science]]"
 related_arguments:
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-17
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Exploratory Factor Analysis

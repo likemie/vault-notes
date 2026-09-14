@@ -9,7 +9,7 @@ aliases:
 summary: "学习者对自身学习过程承担责任的能力与意愿，包括批判性反思、元认知意识和自我调节，是课程培养学生独立思考的核心目标之一"
 type: concept
 domain: "competency-and-assessment"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[IB Learner Profile]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Knowledge Production]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[IB Diploma Programme]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-09-15
 ---
 
 # Learner Autonomy

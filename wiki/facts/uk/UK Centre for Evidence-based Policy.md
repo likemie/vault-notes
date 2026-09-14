@@ -8,9 +8,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dcfce7"
 tags:
   - region/uk
@@ -18,6 +18,7 @@ tags:
   - theme/evidence-based-policy
 related_concepts:
   - "[[Research Utilization]]"
+  - "[[What Works Movement]]"
   - "[[Evidence-Based Education]]"
 related_facts:
   - "[[EPPI-Centre]]"
@@ -26,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: '2026-08-27'
+updated: 2026-09-15
 ---
 
 # UK Centre for Evidence-based Policy

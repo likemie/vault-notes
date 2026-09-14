@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Discipline-Based Theory]]"
   - "[[Going Native]]"
+  - "[[Self-control]]"
   - "[[Nordic Model of Education]]"
   - "[[International Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"

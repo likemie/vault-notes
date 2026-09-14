@@ -7,10 +7,10 @@ summary: "美国政治学者与教育科研管理专家，曾任美国教育科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1946"
 died: ""
 lifespan: "c. 1946–至今"
@@ -22,10 +22,19 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Internal Validity]]"
+  - "[[Implementation Fidelity]]"
   - "[[School Choice]]"
+  - "[[Return on Investment]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence Standards]]"
   - "[[Preregistration]]"
+  - "[[Champ]]"
+  - "[[Dialogue in Education]]"
+  - "[[Discipline-Based Theory]]"
+  - "[[Blue Skies Research]]"
+  - "[[Positivism]]"
+  - "[[Statistical Normalisation]]"
+  - "[[Operationalization]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
@@ -37,10 +46,12 @@ related_persons:
   - "[[Dirk Van Damme]]"
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
+related_theories:
+  - "[[AIR Model of Epistemic Cognition]]"
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Mark Schneider

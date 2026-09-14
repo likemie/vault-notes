@@ -8,10 +8,10 @@ summary: "英国杜伦大学教育学教授，循证教育与元分析方法学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 28
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "c. 1958"
 died: ""
 lifespan: "c. 1958–至今"
@@ -25,11 +25,25 @@ tags:
   - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Abstract]]"
+  - "[[Paradigm]]"
+  - "[[Heterogeneity]]"
+  - "[[Causality]]"
+  - "[[Preregistration]]"
+  - "[[Going Native]]"
+  - "[[International Education]]"
+  - "[[Implementation Fidelity]]"
 related_theories: []
 related_methods:
+  - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Systematic Review]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Statistical Significance]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Analysis of Covariance]]"
+  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
   - "[[Adrian Simpson]]"
@@ -37,8 +51,9 @@ related_facts:
   - "[[Sutton Trust]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Pupil Premium]]"
   - "[[National Pupil Database]]"
+  - "[[Pupil Premium]]"
+  - "[[What Works Network]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Higgins_2016_RE]]"

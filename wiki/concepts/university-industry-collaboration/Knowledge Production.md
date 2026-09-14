@@ -6,7 +6,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在高等教育与地缘政治中关注资本与权力的利益分配，在跨国治理中指向国际组织通过自指性研究帝国对可量化证据的垄断生产。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Policy Brokerage]]"
+  - "[[Knowledge Mediation]]"
   - "[[Knowledge Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Mode 2 Knowledge Production]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-10
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Knowledge Production

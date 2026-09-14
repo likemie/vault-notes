@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 95
+method_related_count: 101
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -36,9 +36,12 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Determinism]]"
   - "[[Visible Learning]]"
+  - "[[Business as Usual]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
+  - "[[External Validity]]"
+  - "[[Literature Review]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Empiricism]]"
@@ -57,6 +60,7 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
   - "[[Third Generation Activity Theory]]"
+  - "[[Realist Evaluation]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
@@ -97,6 +101,7 @@ related_persons:
   - "[[Gene Glass]]"
   - "[[Karl Pearson]]"
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
@@ -117,10 +122,12 @@ related_arguments:
   - "[[Argument_Song_Choi_2026_FPSYG]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+related_instruments:
+  - "[[EEF Padlock Security Rating]]"
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Meta-analysis

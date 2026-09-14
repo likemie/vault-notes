@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 54
+method_related_count: 57
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Implementation Fidelity]]"
   - "[[Academic Achievement]]"
+  - "[[Business as Usual]]"
   - "[[Attrition]]"
   - "[[Interaction Effect]]"
   - "[[Falsification]]"
@@ -44,6 +45,8 @@ related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Fade-out Effect]]"
   - "[[Logic Model]]"
+  - "[[School Choice]]"
+  - "[[Preregistration]]"
   - "[[Tracking]]"
   - "[[Growth]]"
   - "[[Bildung]]"
@@ -85,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Quasi-Experimental Designs

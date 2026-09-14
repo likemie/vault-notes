@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 79
+related_count: 86
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,10 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Criterion-related Validity]]"
   - "[[Procedural Knowledge]]"
+  - "[[Measurement Alignment]]"
+  - "[[Reliability]]"
+  - "[[Achievement and Aptitude Tests]]"
+  - "[[External Validity]]"
   - "[[Rote Learning]]"
   - "[[Interaction Effect]]"
   - "[[Scaffolding]]"
@@ -38,7 +42,9 @@ related_concepts:
   - "[[Gender Differences in Academic Achievement]]"
   - "[[Ways of Knowing]]"
   - "[[Dependent Variable]]"
-  - "[[External Validity]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Causality]]"
+  - "[[Self-report Bias]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Homework]]"
   - "[[Cognitive Offloading]]"
@@ -49,31 +55,30 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Self-Regulated Learning]]"
   - "[[Champ]]"
+  - "[[Self-control]]"
   - "[[Governing by Numbers]]"
   - "[[Publication Bias]]"
-  - "[[Self-control]]"
   - "[[Social-Emotional Learning]]"
   - "[[Heterogeneity]]"
   - "[[Critical Thinking]]"
-  - "[[Achievement and Aptitude Tests]]"
   - "[[Procedural Skill]]"
   - "[[Variable]]"
   - "[[Cooperative Learning]]"
   - "[[Problem-Based Learning]]"
   - "[[Affective Outcomes]]"
   - "[[Ontology]]"
-  - "[[Measurement Alignment]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
   - "[[Epistemic and Ontological Cognition]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Trim and Fill Method]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Discourse Analysis]]"
-  - "[[Effect Size]]"
   - "[[Intervention Research]]"
   - "[[Prediction Interval]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
@@ -86,8 +91,10 @@ related_methods:
   - "[[Matching]]"
   - "[[Pre-test and Post-test]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Robert Slavin]]"
 related_facts:
+  - "[[National Pupil Database]]"
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
   - "[[PISA]]"
@@ -107,7 +114,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Academic Achievement

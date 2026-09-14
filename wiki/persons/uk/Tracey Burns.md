@@ -7,10 +7,10 @@ summary: "加拿大裔英国籍经合组织资深分析师与教育知识治理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "c. 1960"
 died: ""
 lifespan: "c. 1960–至今"
@@ -43,6 +43,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
   - "[[Best Evidence Synthesis]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Tracey Burns

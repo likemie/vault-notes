@@ -5,7 +5,7 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Whole Language]]"
   - "[[Academic Achievement]]"
+  - "[[Business as Usual]]"
   - "[[Metacognition]]"
   - "[[Causality]]"
   - "[[School Leadership]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-09-15
 ---
 
 # Critique of Effect Size

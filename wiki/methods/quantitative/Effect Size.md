@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 73
+method_related_count: 78
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,9 @@ related_concepts:
   - "[[Causality]]"
   - "[[Learning Gain]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Attrition]]"
+  - "[[Preregistration]]"
+  - "[[Business as Usual]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
@@ -72,6 +75,8 @@ related_facts:
   - "[[Promising Practices Network]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[What Works Clearinghouse]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
+  - "[[National Pupil Database]]"
   - "[[Playing for Success]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments:
@@ -99,7 +104,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 ## 定义

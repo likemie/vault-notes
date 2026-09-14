@@ -9,7 +9,7 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Test-Based Accountability]]"
+  - "[[Self-control]]"
   - "[[School Leadership]]"
   - "[[Dialogue in Education]]"
   - "[[Moral Sidestep]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # School Inspection

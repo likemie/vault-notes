@@ -7,7 +7,7 @@ aliases:
 summary: "英格兰中小学课堂中由学校雇用的准专业人员（paraprofessionals），主要任务是在课堂内协助主讲教师提供教学支持；大量实证研究证实常规配置下助教被误用为学困生的低成本隔离看护者，导致受辅导越多学业进步越慢；EEF 提炼七项循证配置建议并在南西约克郡开展区域规模化推广，以双重差分评估证实结构性优化后学生学业显著提升"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,12 +36,13 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[National Pupil Database]]"
 related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Teaching Assistant

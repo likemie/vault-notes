@@ -5,7 +5,7 @@ aliases:
 summary: "知识与教育话语脱离原始生产场所并被接受者选择性挪用、重新定位、改造并嵌入本土秩序与制度架构的过程"
 type: concept
 domain: "comparative-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Going Native]]"
   - "[[Quality Education]]"
+  - "[[Knowledge Production]]"
   - "[[Heterogeneity]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: '2026-07-21'
+updated: 2026-09-15
 ---
 
 # Recontextualization

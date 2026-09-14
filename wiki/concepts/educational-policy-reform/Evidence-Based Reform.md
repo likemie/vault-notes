@@ -5,7 +5,7 @@ aliases:
 summary: "以实验有效性证据作为选择教育项目和产品核心标准的改革框架，强调开发、评估、推广和政策激励之间的联动循环。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 77
+related_count: 76
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Fade-out Effect]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[External Validity]]"
   - "[[Research Question]]"
   - "[[Epistemology]]"
@@ -104,7 +103,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 ## 定义

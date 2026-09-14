@@ -9,9 +9,9 @@ aliases:
 summary: "针对社会与心理科学（含教育学、犯罪学与社会工作）复杂随机对照试验的方法学报告规范与偏倚核查清单，在经典医学CONSORT标准基础上深度扩充了复杂干预理论、实施过程评估、对照组常规实践与利益冲突治理规范。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 12
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 19
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -36,12 +36,18 @@ tags:
   - theme/research-transparency
 related_concepts:
   - "[[Publication Bias]]"
-  - "[[Evidence Standards]]"
-  - "[[Business as Usual]]"
   - "[[Preregistration]]"
+  - "[[Clinical Trial]]"
+  - "[[Abstract]]"
+  - "[[Business as Usual]]"
+  - "[[Flow]]"
   - "[[Attrition]]"
   - "[[Implementation Fidelity]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Hypothesis]]"
+  - "[[Counterfactual]]"
+  - "[[Reliability]]"
+  - "[[Variable]]"
   - "[[Evaluator Independence]]"
 related_theories:
   - "[[Theory of Change]]"
@@ -50,13 +56,14 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # CONSORT-SPI

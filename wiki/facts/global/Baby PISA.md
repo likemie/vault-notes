@@ -13,10 +13,10 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#ede9fe"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 period: "2015–至今"
 initiator_organization: "[[OECD]]"
 tags:
@@ -32,8 +32,10 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Academic Achievement]]"
   - "[[Construct]]"
+  - "[[Self-control]]"
   - "[[Executive Function]]"
   - "[[Working Memory]]"
+  - "[[Social-Emotional Learning]]"
   - "[[Gamification]]"
   - "[[Growth]]"
   - "[[Educational Level]]"
@@ -73,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Baby PISA

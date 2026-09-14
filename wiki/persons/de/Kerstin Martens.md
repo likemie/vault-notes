@@ -6,10 +6,10 @@ summary: "德国不来梅大学国际关系与全球社会政策教授，德国�
 type: person
 nationality: "de"
 person_region: "de"
-person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 26
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: 1974
 died: ""
 lifespan: "1974–至今"
@@ -23,23 +23,40 @@ tags:
 related_concepts:
   - "[[Soft Power by Hard Facts]]"
   - "[[Education-for-Mandates]]"
+  - "[[Construct]]"
+  - "[[Soft Power]]"
+  - "[[Policy Network]]"
+  - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
   - "[[Façade of Rationality]]"
-  - "[[Soft Power]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Scaffolding]]"
+  - "[[Epistemology]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Policy Borrowing]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
+  - "[[Realism in International Relations]]"
+  - "[[Critical Thinking Disposition]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Content Analysis]]"
 related_instruments: []
 related_persons:
-  - "[[Gita Steiner-Khamsi]]"
   - "[[Christian Ydesen]]"
+  - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Rambla_2022_Springer]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Kerstin Martens

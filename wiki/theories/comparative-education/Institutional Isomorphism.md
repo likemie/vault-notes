@@ -9,7 +9,7 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Corporate Education]]"
   - "[[Causality]]"
+  - "[[Knowledge Mediation]]"
   - "[[Corporate University]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-09-15
 ---
 
 # Institutional Isomorphism
@@ -73,7 +74,7 @@ updated: 2026-05-18
 
 - **机制** 在高不确定性情境下（如[[Causality|因果关系]]不清晰、组织技术理解不足或目标模糊时），组织倾向于互相模仿，因为不知道更好的方式来应对未知的未来
 - **市场中的体现** 模仿型同构在市场条件下尤其普遍，因为公司对未来发展充满不确定性
-- **网络角色** 非正式的公司间网络或商业协会充当知识中介（knowledge brokers），连接不相关的公司，确保信息和知识的流动以减少不确定性
+- **网络角色** 非正式的公司间网络或商业协会充当[[Knowledge Mediation|知识中介]]（knowledge brokers），连接不相关的公司，确保信息和知识的流动以减少不确定性
 - **企业教育中的典型案例** 众多 MNCs 采用"[[Corporate University|企业大学]]"这个术语来框架其培训项目——这一术语首先由美国公司创造和采纳，随后被全球模仿([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.189]])
 
 ### 规范型同构（Normative Isomorphism）

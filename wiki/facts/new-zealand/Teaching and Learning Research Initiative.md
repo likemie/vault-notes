@@ -10,9 +10,9 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 19
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2003 年至今"
 initiator_organization: "新西兰政府（New Zealand Government）/ 新西兰教育部"
@@ -24,15 +24,26 @@ tags:
   - theme/evidence-informed-practice
 related_concepts:
   - "[[Knowledge Co-production]]"
+  - "[[Research Utilization]]"
+  - "[[Growth]]"
+  - "[[Academic Achievement]]"
   - "[[Teacher-as-Researcher]]"
+  - "[[Paradigm]]"
+  - "[[Emergence]]"
 related_theories:
   - "[[Typology of Factors Influencing Research Use]]"
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Action Research]]"
+  - "[[Random Sampling]]"
+  - "[[Questionnaire]]"
+  - "[[In-depth Interview]]"
+  - "[[Analytic Framework]]"
+  - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[Best Evidence Synthesis]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
@@ -40,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Teaching and Learning Research Initiative

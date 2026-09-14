@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
+  - "[[International Large-Scale Assessments]]"
   - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-09-15
 ---
 ## 背景
 

@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Analytical Stance]]"
   - "[[Research Question]]"
+  - "[[Knowledge Production]]"
   - "[[Causality]]"
   - "[[Ideal Speech Situation]]"
   - "[[Reliability]]"
@@ -44,7 +45,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 # Discourse Analysis
 

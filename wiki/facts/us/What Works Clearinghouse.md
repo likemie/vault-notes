@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 59
+fact_related_count: 65
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -45,10 +45,14 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Evaluator Independence]]"
   - "[[Fade-out Effect]]"
+  - "[[Evidence Standards]]"
+  - "[[Heterogeneity]]"
+  - "[[Hypothesis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Preregistration]]"
   - "[[Research Utilization]]"
   - "[[5-3-20 Rule]]"
 related_theories:
@@ -61,13 +65,15 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Sample Size Determination]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Covariate Adjustment]]"
   - "[[Meta-analysis]]"
   - "[[Pre-test and Post-test]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Systematic Review]]"
-related_instruments: []
+related_instruments:
+  - "[[EEF Padlock Security Rating]]"
 related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
@@ -75,12 +81,12 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Education Endowment Foundation]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Open Court Reading]]"
   - "[[Success for All]]"
   - "[[Communities in Schools]]"
   - "[[National Dropout Prevention Center]]"
-  - "[[Creation of REES]]"
   - "[[Research Schools Network]]"
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[EPPI-Centre]]"
@@ -97,7 +103,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # What Works Clearinghouse

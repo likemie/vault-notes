@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -101,6 +101,8 @@ related_facts:
   - "[[Best Evidence Synthesis]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
+related_theories:
+  - "[[Realist Evaluation]]"
 status: draft
 created: 2026-07-13
 updated: '2026-08-27'

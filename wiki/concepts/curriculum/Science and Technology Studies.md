@@ -6,7 +6,7 @@ aliases:
 summary: "跨学科研究领域，主张科学是一种社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产、转译和施行性为关键概念。"
 type: concept
 domain: "curriculum"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
   - paradigm/constructivist
   - philosophy-and-epistemology
 related_concepts:
+  - "[[Knowledge Co-production]]"
   - "[[Performance Indicators]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Reliability]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-05-18
+updated: 2026-09-15
 ---
 
 ## 核心主张

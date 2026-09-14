@@ -8,7 +8,7 @@ aliases:
 summary: "由 Noémi Révai (2020) 在 OECD 提出的知识动力学模型，旨在修复证据动员与教育创新长期割裂的断层，将知识动员重塑为面向教学难题解决与创新的知识创生全流程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,31 +19,29 @@ tags:
   - theme/teacher-knowledge
 related_concepts:
   - "[[Knowledge Mobilisation]]"
-  - "[[Knowledge Mediation]]"
-  - "[[Evidence Ecosystem]]"
-  - "[[Innovation Ecosystem]]"
-  - "[[Knowledge Production]]"
-  - "[[Research Utilization]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Research-Informed Teaching Practice]]"
   - "[[Problem Solving]]"
+  - "[[Evidence Ecosystem]]"
+  - "[[Research-Informed Teaching Practice]]"
+  - "[[Knowledge Production]]"
+  - "[[Empiricism]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Hypothesis]]"
+  - "[[Going Native]]"
   - "[[Problem Finding]]"
-  - "[[Professional Judgment]]"
-  - "[[Teacher Professional Agency]]"
-  - "[[Document]]"
-  - "[[Research Literacy]]"
-  - "[[Technical Rationality]]"
+  - "[[Knowledge Mediation]]"
+  - "[[Boundary Spanner]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Conatus]]"
+  - "[[International Education]]"
   - "[[Dialogue in Education]]"
+  - "[[Implementation Fidelity]]"
   - "[[Heterogeneity]]"
-  - "[[Epistemology]]"
-related_theories:
-  - "[[Complexity Theory]]"
-  - "[[Quality Use of Research Evidence Framework]]"
-  - "[[Luhmann's Systems Theory]]"
+  - "[[School Enquiry Cycle]]"
+related_theories: []
 related_methods:
-  - "[[Analytic Framework]]"
   - "[[Action Research]]"
-  - "[[Case Study]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Evidence-Innovation Knowledge Dynamics

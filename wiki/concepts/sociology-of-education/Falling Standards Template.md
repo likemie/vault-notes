@@ -7,37 +7,46 @@ aliases:
 summary: "大众媒介在报道教育事务时惯常套用的一种仪式化与还原论叙事框架，无论实证数据是否平稳，均系统性将国家教育系统描述为处于标准下滑与全面危机之中"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/media-and-education
   - theme/policy-discourse
   - theme/educational-governance
   - paradigm/critical
 related_concepts:
+  - "[[Disciplina and Doctrina]]"
+  - "[[Causality]]"
+  - "[[Academic Achievement]]"
   - "[[PISA Shock]]"
   - "[[Deficit Framing]]"
   - "[[Media Logic]]"
   - "[[Mediatised Governance]]"
+  - "[[Champ]]"
+  - "[[Chain of Evidence]]"
+  - "[[Performance Pay]]"
+  - "[[Construct]]"
   - "[[Policy Avoidance]]"
   - "[[Rashomon Effect]]"
-  - "[[Academic Achievement]]"
+  - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Accounts]]"
 related_instruments: []
 related_persons:
   - "[[Paul Morris]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Ofsted]]"
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Falling Standards Template

@@ -9,10 +9,10 @@ aliases:
 summary: "在整群随机试验与分层复杂抽样中，剔除群内相关系数（ICC）导致的设计效应（Design Effect）损耗后，样本实际承载的相当于独立同分布简单随机抽样的真实统计信息量与推断功效。"
 type: concept
 domain: "research-methodology"
-related_count: 4
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/research-methodology
   - method/randomised-controlled-trials
@@ -20,20 +20,40 @@ tags:
   - theme/statistical-power
   - theme/evidence-based-education
 related_concepts:
-  - "[[Study Population and Sample]]"
+  - "[[Causality]]"
+  - "[[Evaluation Research]]"
+  - "[[Type I and Type II Errors]]"
+  - "[[Attrition]]"
+  - "[[Variable]]"
+  - "[[Internal Validity]]"
+  - "[[What Works Movement]]"
   - "[[Unit of Analysis]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Business as Usual]]"
+  - "[[Clinical Trial]]"
 related_theories: []
 related_methods:
+  - "[[Sample Size Determination]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Random Sampling]]"
   - "[[Confidence Interval]]"
+  - "[[Effect Size]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Cluster Sampling]]"
+  - "[[Random Assignment]]"
+  - "[[Standard Error]]"
+  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Effective Sample Size

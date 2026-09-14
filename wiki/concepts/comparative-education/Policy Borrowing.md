@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 61
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,7 +32,11 @@ related_concepts:
   - "[[Pre-Transfer Agency]]"
   - "[[Reference Society]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Mediatised Governance]]"
   - "[[Performance Pay]]"
+  - "[[Epistemology]]"
+  - "[[Policy Avoidance]]"
+  - "[[Chain of Evidence]]"
   - "[[Re-Westernisation]]"
   - "[[Concept Mapping]]"
   - "[[Rashomon Effect]]"
@@ -88,7 +92,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Policy Borrowing

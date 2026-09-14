@@ -8,7 +8,7 @@ aliases:
 summary: "教育创新倡导者与商业机构利用修辞框架、情感共鸣与权威承诺等策略推销缺乏严谨实证支撑的教育产品与干预方案的传播现象；它容易误导学校盲目跟风教育时尚，亟需教师确立批判性分析立场与研究素养加以甄别。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[School Leadership]]"
   - "[[Document]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Whole Language]]"
   - "[[Evidence-Based Education]]"
   - "[[Neuroplasticity]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-15
 ---
 
 # Persuasive Communication in Education

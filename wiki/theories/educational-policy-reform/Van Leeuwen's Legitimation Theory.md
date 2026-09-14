@@ -7,7 +7,7 @@ aliases:
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -38,13 +38,14 @@ related_facts:
   - "[[Ofsted]]"
   - "[[Grammar School]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Sutton Trust]]"
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
 related_instruments: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 ## 核心主张
@@ -76,7 +77,7 @@ updated: 2026-09-11
 >
 > **3. 理性合法化（Rational Legitimation）**
 > - 观点或行动需要与**"真理"或理性论证**建立关系
-> - 在教育政策中的表现：政府引用 Coldwell et al.（2017）对证据的定义（认可 [[Education Endowment Foundation|EEF]]、[[John Hattie]]、Sutton Trust 同时排除 [[Ofsted]]），表面上承诺"基于证据的政策"
+> - 在教育政策中的表现：政府引用 Coldwell et al.（2017）对证据的定义（认可 [[Education Endowment Foundation|EEF]]、[[John Hattie]]、[[Sutton Trust]] 同时排除 [[Ofsted]]），表面上承诺"基于证据的政策"
 > - 但 Bainbridge et al. 发现政府在实践中违反了自身定义——[[Ofsted]] 评级被当作"证据"使用，而符合定义的学术研究证据被回避（p.27）
 >
 > **4. 奖励叙事合法化（Mythopoesis / Reward Narrative Legitimation）**

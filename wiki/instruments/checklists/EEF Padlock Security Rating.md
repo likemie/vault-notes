@@ -9,9 +9,9 @@ aliases:
 summary: "英国教育捐赠基金会（EEF）研发的因果证据质量与偏倚风险质评核查规程，通过0至5把挂锁直观呈现干预试验核心效应的内部效度与确定性"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 19
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_count: 22
+instrument_related_level: 4
+instrument_related_stars: "⭐⭐⭐⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -36,12 +36,14 @@ related_concepts:
   - "[[Variable]]"
   - "[[External Validity]]"
   - "[[Heterogeneity]]"
+  - "[[Scientific Uncertainty]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Sample Size Determination]]"
   - "[[Covariate Adjustment]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Confidence Interval]]"
@@ -49,6 +51,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[National Pupil Database]]"
   - "[[What Works Clearinghouse]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
@@ -56,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # EEF Padlock Security Rating

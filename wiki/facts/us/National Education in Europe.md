@@ -14,7 +14,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Growth]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Knowledge Mediation]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Positivism]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 # National Education in Europe

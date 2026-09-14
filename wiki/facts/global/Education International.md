@@ -8,9 +8,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: international-union-federation
 headquarters: "Brussels, Belgium"
@@ -21,17 +21,28 @@ tags:
   - theme/teacher-unions
   - region/global
 related_concepts:
+  - "[[International Education]]"
   - "[[Global Policy Space]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Performativity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Policy Network]]"
+  - "[[Dialogue in Education]]"
+  - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
+  - "[[Network Governance]]"
+  - "[[Scale of Measurement]]"
   - "[[Democratising Evidence]]"
-related_theories: []
+  - "[[Champ]]"
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[GATS and Trade in Education Services]]"
   - "[[World Bank]]"
   - "[[OECD]]"
+  - "[[International Summits on the Teaching Profession]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[PISA]]"
@@ -41,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Education International

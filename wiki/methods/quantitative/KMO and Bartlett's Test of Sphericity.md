@@ -11,7 +11,7 @@ summary: "探索性因子分析与主成分分析前置诊断观测变量相关�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -36,15 +36,14 @@ related_methods:
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []
-related_facts:
-  - "[[Education for All]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
   - "[[Argument_Lodewyk_2007_EP]]"
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # KMO and Bartlett's Test of Sphericity

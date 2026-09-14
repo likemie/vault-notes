@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
-  - "[[Conflict of Interest in Research]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-06-02'
+updated: 2026-09-15
 ---
 ## 背景
 

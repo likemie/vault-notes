@@ -31,7 +31,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Homework]]"
 related_theories:
-  - "[[Entity vs Incremental Intelligence]]"
+  - "[[Growth Mindset]]"
   - "[[Attribution Theory]]"
 related_methods:
   - "[[Statistical Significance]]"

@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Science Journalism]]"
   - "[[Scientific Literacy]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Dialogue in Education]]"
   - "[[Whole Language]]"
   - "[[Academic Achievement]]"
@@ -41,6 +40,7 @@ related_concepts:
   - "[[Scientific Misinformation]]"
   - "[[Public Engagement with Science]]"
   - "[[Responsible Conduct of Research]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:

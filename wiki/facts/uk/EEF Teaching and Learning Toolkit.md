@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 55
+fact_related_count: 63
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -30,19 +30,24 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Self-control]]"
   - "[[Causality]]"
+  - "[[Going Native]]"
   - "[[Teaching Assistant]]"
   - "[[Literature Search]]"
   - "[[Unit of Analysis]]"
+  - "[[External Validity]]"
   - "[[Hypothesis]]"
+  - "[[Operationalization]]"
+  - "[[Social-Emotional Learning]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Creativity]]"
   - "[[Grade Retention]]"
   - "[[Professional Judgment]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[New Public Management]]"
   - "[[Moral Sidestep]]"
   - "[[Heterogeneity]]"
   - "[[Research Utilization]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Construct]]"
   - "[[Evidence Standards]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
@@ -56,10 +61,13 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[In-depth Interview]]"
   - "[[Systematic Review]]"
+  - "[[In-depth Interview]]"
+  - "[[Quantitative Research]]"
 related_persons: []
 related_facts:
+  - "[[Pupil Premium]]"
+  - "[[Sutton Trust]]"
   - "[[Education Endowment Foundation]]"
   - "[[Research Schools Network]]"
   - "[[OECD]]"
@@ -86,7 +94,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # EEF Teaching and Learning Toolkit

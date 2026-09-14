@@ -56,7 +56,7 @@ updated: 2026-07-26
 > [!claim] 核心主张
 > 可以测量单一、特定的潜在特质（latent traits）——这些特质本身不可观测，但可以通过个体对测验题目的反应模式被量化估计。IRT 的核心突破在于：[[Item Analysis|题目难度]]和区分度可以独立于任何特定的受试者样本被描述（样本无关性），同时受试者的能力也可以独立于任何特定的题目样本被估计（题目无关性）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.5 节)]]
 
-> [!formula] [[Rasch Measurement|Rasch 模型]]（一参数 IRT）
+> [!formula] Rasch 模型（一参数 IRT）
 > $$P(X_i = 1 \mid \theta, b_i) = \frac{e^{(\theta - b_i)}}{1 + e^{(\theta - b_i)}}$$
 >
 > - $P$：能力为 $\theta$ 的人答对题目 $i$ 的概率（0–1）
@@ -85,7 +85,7 @@ updated: 2026-07-26
 
 > [!proposition-chain] 核心命题一｜题目属性可以独立于特定受试者样本被描述
 > - **前提一** IRT [[Hypothesis|假设]]每个题目有其内在的难度水平（客观难度），不依赖于哪些人回答了该题目。
-> - **前提二** IRT 通过数学模型（如 [[Rasch Measurement|Rasch 模型]]（Wainer & Mislevy, 1990））将[[Item Analysis|题目难度]]与受试者能力放在同一量尺上，从而可以独立估计题目参数。
+> - **前提二** IRT 通过数学模型（如 Rasch 模型（Wainer & Mislevy, 1990））将[[Item Analysis|题目难度]]与受试者能力放在同一量尺上，从而可以独立估计题目参数。
 > - **推导** 与 [[Classical Test Theory|CTT]] 不同，IRT 的题目难度不是群体依赖的（is not group-dependent），因此在一个样本中校准的题目参数可直接用于其他样本而无需重新标准化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.5 节)]]
 
 > [!proposition-chain] 核心命题二｜受试者能力可以独立于特定题目样本被估计
@@ -128,7 +128,7 @@ updated: 2026-07-26
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 为标准化测验的编制、等值和题库建设提供数学基础。
-> - **作为分析工具** 通过 [[Rasch Measurement|Rasch 模型]]分析[[Item Analysis|题目难度]]与受试者能力的匹配度；通过多参数模型（2PL、3PL）评估区分度和猜测效应；通过差异题目功能（DIF）分析检测测验偏差。
+> - **作为分析工具** 通过 Rasch 模型分析[[Item Analysis|题目难度]]与受试者能力的匹配度；通过多参数模型（2PL、3PL）评估区分度和猜测效应；通过差异题目功能（DIF）分析检测测验偏差。
 > - **作为批判视角** 提醒研究者 [[Classical Test Theory|CTT]] 的题目参数样本依赖性如何限制跨研究比较，以及为什么大规模测评项目（如 [[PISA]]、TIMSS、NAEP）选择 IRT 为基础。
 > - **报告方式** 在研究报告中应明确使用的 IRT 模型类型、模型拟合指标、题目参数估计结果以及能力估计的精度。
 
@@ -147,7 +147,7 @@ updated: 2026-07-26
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1960 — [[Rasch Measurement|Rasch 模型]]提出** Georg Rasch 提出一参数逻辑斯蒂模型，奠定客观测量的概率基础
+> - **1960 — Rasch 模型提出** Georg Rasch 提出一参数逻辑斯蒂模型，奠定客观测量的概率基础
 > - **1980 — Lord 出版《项目反应理论在实践测验问题中的应用》** 系统化 IRT 的理论框架和实际应用
 > - **1990 — Rasch 测量成为教育测评主流** Wainer & Mislevy 等学者的推广使 IRT 进入大规模测评项目（如 NAEP、TIMSS、[[PISA]]）
 > - **2000 年代 — [[Computerized Adaptive Testing|计算机自适应测验]]普及** IRT 成为 [[Consensual Assessment Technique|CAT]] 的核心算法基础
@@ -157,4 +157,4 @@ updated: 2026-07-26
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节介绍 IRT 的基本原理，包括潜在特质[[Hypothesis|假设]]、[[Item Analysis|题目难度]]与区分度的样本独立性、单维性假设、[[Rasch Measurement|Rasch 模型]]，以及 IRT 在[[Computerized Adaptive Testing|计算机自适应测验]]中的应用
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节介绍 IRT 的基本原理，包括潜在特质[[Hypothesis|假设]]、[[Item Analysis|题目难度]]与区分度的样本独立性、单维性假设、Rasch 模型，以及 IRT 在[[Computerized Adaptive Testing|计算机自适应测验]]中的应用

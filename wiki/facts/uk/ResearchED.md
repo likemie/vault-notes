@@ -7,7 +7,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
 related_theories:
   - "[[Theory of Mind]]"
+  - "[[Realist Evaluation]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Experimental Research]]"
@@ -40,6 +41,7 @@ related_persons:
   - "[[Stephen Ball]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Nelson_2017_ER]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-02
+updated: 2026-09-15
 ---
 
 # ResearchED

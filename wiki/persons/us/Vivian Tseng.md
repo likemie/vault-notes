@@ -7,10 +7,10 @@ summary: "美国心理学者与教育资助慈善战略专家，曾任威廉·T�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1974"
 died: ""
 lifespan: "c. 1974–至今"
@@ -27,10 +27,19 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Document]]"
   - "[[Boundary Spanner]]"
+  - "[[Knowledge Production]]"
+  - "[[Engagement in and with Research]]"
   - "[[Evaluation Research]]"
+  - "[[Dialogue in Education]]"
+  - "[[Discipline-Based Theory]]"
+  - "[[Epistemology]]"
+  - "[[Reflexivity]]"
+  - "[[Technical Rationality]]"
 related_methods:
+  - "[[Network Analysis]]"
   - "[[Mixed Methods Research]]"
-related_facts: []
+related_facts:
+  - "[[William T. Grant Foundation]]"
 related_persons:
   - "[[Mark Schneider]]"
   - "[[Dirk Van Damme]]"
@@ -39,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Vivian Tseng

@@ -8,7 +8,7 @@ aliases:
 summary: "由美国大学与学院协会组织数百名学者研发的16套通识学习成果评价量规，涵盖批判性思维与创造性思维等高阶认知素养的阶梯式表现标准"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 15
+instrument_related_count: 16
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#ffedd5"
@@ -48,12 +48,13 @@ related_persons: []
 related_facts:
   - "[[Voluntary System of Accountability]]"
   - "[[OECD]]"
+  - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # VALUE Rubrics

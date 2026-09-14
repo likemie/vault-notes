@@ -8,9 +8,9 @@ aliases:
 summary: "由 Schommer 针对中学生群体修订的认识论信念自陈问卷，用于评估个体在能力本质、学习速度、知识结构与知识确定性等维度的认识论信念特征。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
@@ -36,12 +36,11 @@ related_methods:
   - "[[Descriptive Analysis]]"
 related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
-related_facts:
-  - "[[Education for All]]"
+related_facts: []
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Schommer's Modified Epistemological Questionnaire

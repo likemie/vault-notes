@@ -13,9 +13,9 @@ subtype: program
 region: sweden
 fact_region: "sweden"
 fact_kind: "program"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2017–至今"
 initiator_organization: "瑞典政府（Government of Sweden / Utbildningsdepartementet）、乌普萨拉大学等25所教师教育高校、瑞典地方当局与地区协会（SKR）"
@@ -26,16 +26,28 @@ tags:
   - theme/practice-based-research
   - theme/teacher-agency
 related_concepts:
+  - "[[Problem Finding]]"
+  - "[[Dialogue in Education]]"
+  - "[[Scientific Method]]"
+  - "[[Hypothesis]]"
+  - "[[Theoretical Knowledge]]"
+  - "[[Third Space Discourse]]"
+  - "[[Document]]"
   - "[[Research-Practice Partnership]]"
+  - "[[Causality]]"
+  - "[[External Validity]]"
+  - "[[Paradigm]]"
   - "[[Knowledge Co-production]]"
   - "[[Research Literacy]]"
   - "[[Boundary Spanner]]"
   - "[[Democratising Evidence]]"
+  - "[[Knowledge Mobilisation]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Tine S. Prøitz]]"
 related_facts:
   - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
@@ -43,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Swedish ULF Project

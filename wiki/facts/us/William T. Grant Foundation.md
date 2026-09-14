@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: philanthropy
 headquarters: "New York, United States"
@@ -26,13 +26,22 @@ tags:
   - theme/use-of-research-evidence
   - theme/educational-equity
 related_concepts:
-  - "[[Boundary Spanner]]"
   - "[[Research Utilization]]"
   - "[[Research-Practice Partnership]]"
   - "[[Democratising Evidence]]"
+  - "[[Bildung]]"
+  - "[[Scientific Method]]"
+  - "[[Document]]"
+  - "[[Academic Freedom]]"
+  - "[[Blue Skies Research]]"
+  - "[[Internal Validity]]"
+  - "[[Positivism]]"
+  - "[[Paradigm]]"
+  - "[[Boundary Spanner]]"
   - "[[Deficit Framing]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Action Research]]"
 related_instruments: []
 related_persons:
   - "[[Vivian Tseng]]"
@@ -44,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # William T. Grant Foundation

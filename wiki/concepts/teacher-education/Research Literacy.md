@@ -6,7 +6,7 @@ aliases:
 summary: "指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石"
 type: concept
 domain: "teacher-education"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Professional Judgment]]"
   - "[[Phronesis]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Literature Search]]"
   - "[[Teacher Professional Agency]]"
   - "[[Rich and Thick Description]]"
@@ -61,7 +60,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Research Literacy

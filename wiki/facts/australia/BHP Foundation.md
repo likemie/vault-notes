@@ -8,9 +8,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "venture-philanthropy"
 headquarters: "Melbourne, Australia"
@@ -23,22 +23,34 @@ tags:
   - evidence-ecosystem
 related_concepts:
   - "[[Venture Philanthropy]]"
+  - "[[Knowledge Mediation]]"
   - "[[Evidence Ecosystem]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Going Native]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Policy Network]]"
   - "[[Value Neutrality]]"
-related_theories: []
-related_methods: []
+  - "[[Document]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Paradigm]]"
+  - "[[Epistemic Governance]]"
+related_theories:
+  - "[[Cognitive Load Theory]]"
+related_methods:
+  - "[[Effect Size]]"
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Strong Beginnings Report]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # BHP Foundation

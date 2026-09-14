@@ -7,10 +7,10 @@ summary: "华裔比较教育学者，堪萨斯大学教育学院教授，以教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1965"
 died: ""
 lifespan: "1965–至今"
@@ -33,7 +33,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Rasch Measurement]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 # Yong Zhao
 
@@ -101,7 +100,7 @@ updated: 2026-09-11
 >
 > **扭曲的教育观（[[PISA Distorted View of Education]]）**。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
 >
-> 此外，PISA 高分与学生兴趣、幸福感、创业信心之间存在负相关（[[PISA Score Negative Correlation]]），[[PISA Glorifying Authoritarian Education|PISA 美化威权教育]]系统中的自我谴责特质（[[PISA Glorifying Authoritarian Education]]），以及 PISA 实施中存在抽样问题、评估偏差和 [[Rasch Measurement|Rasch 模型]]适用性问题。
+> 此外，PISA 高分与学生兴趣、幸福感、创业信心之间存在负相关（[[PISA Score Negative Correlation]]），[[PISA Glorifying Authoritarian Education|PISA 美化威权教育]]系统中的自我谴责特质（[[PISA Glorifying Authoritarian Education]]），以及 PISA 实施中存在抽样问题、评估偏差和 Rasch 模型适用性问题。
 
 ---
 

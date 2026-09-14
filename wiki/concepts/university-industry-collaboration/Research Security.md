@@ -7,7 +7,7 @@ aliases:
 summary: "大学为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Foreground IP]]"
   - "[[Sensitive Research]]"
-  - "[[Conflict of Interest in Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-09-10
+updated: 2026-09-15
 ---
 
 # Research Security

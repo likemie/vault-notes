@@ -41,6 +41,7 @@ related_concepts:
   - "[[Ways of Knowing]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
+  - "[[Growth Mindset]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Analytic Framework]]"
@@ -70,7 +71,7 @@ title: "Argument_Lodewyk_2007_EP"
 argument_key: "Argument_Lodewyk_2007_EP"
 argument_display_title: "Relations among epistemological beliefs, academic achievement, and task performance in secondary school students"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

@@ -10,9 +10,9 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 17
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 tags:
   - region/uk
@@ -21,16 +21,24 @@ tags:
   - theme/evidence-based-education
   - method/database
 related_concepts:
+  - "[[Variable]]"
+  - "[[Class Size]]"
+  - "[[Causality]]"
+  - "[[Heterogeneity]]"
   - "[[External Validity]]"
   - "[[Attrition]]"
   - "[[Academic Achievement]]"
+  - "[[Preregistration]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Covariate Adjustment]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons: []
 related_facts:
+  - "[[Pupil Premium]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Network]]"
 related_arguments:
@@ -39,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # National Pupil Database

@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[New Public Management]]"
+  - "[[Knowledge Mediation]]"
   - "[[Policy Brokerage]]"
   - "[[Constructivist Paradigm]]"
   - "[[Direct Instruction]]"
@@ -52,6 +53,7 @@ related_facts:
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[Education Policy Outlook]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[International Summits on the Teaching Profession]]"
   - "[[Education at a Glance]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Teaching and Learning International Survey

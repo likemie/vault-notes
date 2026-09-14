@@ -7,7 +7,7 @@ summary: "一种不解释干预如何、为何以及在何种条件下有效的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Mechanism Experiments]]"
+  - "[[Implementation and Process Evaluation]]"
   - "[[Random Assignment]]"
 related_persons: []
 related_facts:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 ## 定义

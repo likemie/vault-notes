@@ -8,7 +8,7 @@ aliases:
 summary: "两社区理论由 Nathan Caplan（1979）提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，是政策中介、边界跨越者与研究利用理论的奠基性元模型。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 34
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Research Utilization]]"
+  - "[[Knowledge Mediation]]"
   - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Policy Borrowing]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
+  - "[[Knowledge Co-production]]"
   - "[[Governing by Numbers]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories:
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Two-Communities Theory
@@ -114,7 +116,7 @@ updated: 2026-09-12
 > [!proposition-chain] 核心命题三｜单纯将科学与政治二元对立的隐喻掩盖了[[Knowledge Production|知识生产]]与权力利益的互构共谋
 > - **前提一** 传统两社区模型隐含了一种规范性预设，即将科学社区设定为中立、纯粹的“真理生产者”，将政策社区设定为务实但短视的“行动执行者”。（Mackillop et al., 2019）
 > - **前提二** 现代全球治理实践表明，诸如[[OECD|经合组织]]、[[World Bank|世界银行]]等政策中介机构，本身兼具研究资助者、知识生产者、方案推介者与项目放贷者的多重角色。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
-> - **推导** 科学与政治并非彼此隔绝的“孤岛”，而是处于高度融合的共谋网络中；政策中介并非仅仅在两个中立社区之间摆渡信息，而是主动按照统治权力的需求生产量化证据，使“政策中介”超越了中立的“知识中介”。
+> - **推导** 科学与政治并非彼此隔绝的“孤岛”，而是处于高度融合的共谋网络中；政策中介并非仅仅在两个中立社区之间摆渡信息，而是主动按照统治权力的需求生产量化证据，使“政策中介”超越了中立的“[[Knowledge Mediation|知识中介]]”。
 
 > [!proposition-chain]- 延伸命题
 > - **推论一（源自核心命题一与命题二）** 政策决策者在面临选举问责与施政合法性危机时，倾向于对两社区之间的外部证据进行象征性与选择性利用，优先吸纳能够背书既定方针的确定性结论，而主动清洗或过滤具有方法论审慎性与存疑特质的学术[[Document|文献]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
@@ -200,8 +202,8 @@ updated: 2026-09-12
 
 > [!dev-timeline] 发展脉络
 > - **1979 — 内森·卡普兰发表奠基论文** Caplan（1979）在《美国行为科学家》发表论文，正式提出“两社区理论”（Two-Communities Theory），诊断美国联邦决策层中社会科学[[Research Utilization|知识利用]]低迷的制度文化根源。
-> - **1980–1990年代 — 智库兴起与三代知识模型分化** 随着公共管理改革展开，学者将目光从单纯指责两界鸿沟转向探讨桥梁机构；Weiss（1979）与 Caplan（1991）深化研究利用形态划分，催生出边界跨越与协同生产模型。
-> - **2019 — 对二元极化隐喻的系统性批判与解构** Mackillop、Downe 与 Quarmby（2019）系统检视知识中介[[Document|文献]]，指出两社区模型过度夸大了真理与行动的二元断裂，忽视了两者内部的多元性以及知识与权力的深层共谋。
+> - **1980–1990年代 — 智库兴起与三代知识模型分化** 随着公共管理改革展开，学者将目光从单纯指责两界鸿沟转向探讨桥梁机构；Weiss（1979）与 Caplan（1991）深化研究利用形态划分，催生出边界跨越与[[Knowledge Co-production|协同生产]]模型。
+> - **2019 — 对二元极化隐喻的系统性批判与解构** Mackillop、Downe 与 Quarmby（2019）系统检视[[Knowledge Mediation|知识中介]][[Document|文献]]，指出两社区模型过度夸大了真理与行动的二元断裂，忽视了两者内部的多元性以及知识与权力的深层共谋。
 > - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代[[Policy Brokerage|政策中介]]理论的综合应用** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 指出，在信息过载时代，国际组织将[[Knowledge Production|知识生产]]、推介与资助融为一体，跨越两社区的中介行为已演化为高度政治化的全球治理工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
 
 ---
@@ -219,7 +221,7 @@ updated: 2026-09-12
 > > [!axis] 中立桥梁隐喻与权力操控实质的张力
 > > 两社区理论往往预设中介者是中立的信使与翻译官，而[[Critical Theory|批判理论]]揭示中介者自身具有强烈的自利诉求与规制野心。
 > >
-> > - **Best & Holmes（2010）** 聚焦于改进跨界关系与协同生产机制以提高知识吸收效率。
+> > - **Best & Holmes（2010）** 聚焦于改进跨界关系与[[Knowledge Co-production|协同生产]]机制以提高知识吸收效率。
 > > - **[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]** 揭示当同一个组织兼具[[Knowledge Production|知识生产]]、推销与资助功能时，所谓跨越两界的中介本质上已演化为施展[[Soft Power by Hard Facts|硬事实软权力]]的政治行为。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
 
 > [!critique]- 批评索引
@@ -230,7 +232,7 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 溯源知识中介与[[Policy Brokerage|政策中介]]的理论谱系，运用两社区理论阐释国际组织在科学真理与政治行动之间充当[[Boundary Spanner|边界跨越者]]的机制。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 溯源[[Knowledge Mediation|知识中介]]与[[Policy Brokerage|政策中介]]的理论谱系，运用两社区理论阐释国际组织在科学真理与政治行动之间充当[[Boundary Spanner|边界跨越者]]的机制。
 
 ---
 

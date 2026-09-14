@@ -5,10 +5,10 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 36
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - preregistration
   - research-methodology
@@ -19,25 +19,50 @@ tags:
 related_concepts:
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
+  - "[[Causality]]"
+  - "[[Reliability]]"
+  - "[[Epistemology]]"
+  - "[[Hypothesis]]"
+  - "[[Clinical Trial]]"
+  - "[[Document]]"
+  - "[[Counterfactual]]"
   - "[[Variable]]"
   - "[[External Validity]]"
-  - "[[Counterfactual]]"
+  - "[[Business as Usual]]"
   - "[[Implementation Fidelity]]"
+  - "[[Internal Validity]]"
+  - "[[Attrition]]"
+  - "[[Literature Review]]"
+  - "[[Developer Effect]]"
 related_theories: []
 related_methods:
-  - "[[Random Assignment]]"
   - "[[Sample Size Determination]]"
-related_instruments: []
+  - "[[Randomised Controlled Trials]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Random Assignment]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Effect Size]]"
+  - "[[Covariate Adjustment]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Implementation and Process Evaluation]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Grounded Theory]]"
+related_instruments:
+  - "[[TIDieR]]"
+  - "[[EEF Padlock Security Rating]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[Education Endowment Foundation]]"
+  - "[[National Pupil Database]]"
+  - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Preregistration

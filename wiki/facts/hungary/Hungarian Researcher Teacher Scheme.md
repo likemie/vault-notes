@@ -11,7 +11,7 @@ subtype: policy
 region: hungary
 fact_region: "hungary"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Emergence]]"
   - "[[Phronesis]]"
+  - "[[Business as Usual]]"
   - "[[Engagement in and with Research]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Boundary Spanner]]"
@@ -37,6 +38,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Education]]"
+  - "[[Complex Instruction Programme]]"
   - "[[Doctoral Grant for Teachers]]"
   - "[[Public Sector PhD Scheme]]"
 related_arguments:
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Hungarian Researcher Teacher Scheme

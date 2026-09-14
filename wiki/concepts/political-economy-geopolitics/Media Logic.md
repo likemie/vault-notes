@@ -7,26 +7,39 @@ aliases:
 summary: "大众媒体在选择、加工与呈现现实时所遵循的组织惯例、格式规程与新闻价值体系，在教育治理中迫使政策行动者积累媒介资本并以危机叙事迎合媒体规则"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/media-and-education
   - theme/educational-governance
   - theme/policy-discourse
   - paradigm/critical
 related_concepts:
+  - "[[Champ]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[International Large-Scale Assessments]]"
+  - "[[Construct]]"
   - "[[Governance by Spin]]"
   - "[[Governing by Numbers]]"
   - "[[Mediatised Governance]]"
   - "[[Policy Avoidance]]"
   - "[[Falling Standards Template]]"
+  - "[[Dramatic Tension]]"
+  - "[[Screening Off]]"
+  - "[[Performance Pay]]"
+  - "[[Determinism]]"
   - "[[Rashomon Effect]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
+  - "[[Bob Lingard]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Paul Morris]]"
 related_facts:
   - "[[PISA]]"
@@ -37,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Media Logic

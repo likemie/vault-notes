@@ -23,7 +23,6 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[Creativity]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Technology Transfer Office]]"
   - "[[Operationalization]]"
@@ -50,7 +49,7 @@ title: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_key: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_display_title: "Ethical relationships, legal frameworks, and agreements"
 argument_kind: "book"
-argument_related_count: 22
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

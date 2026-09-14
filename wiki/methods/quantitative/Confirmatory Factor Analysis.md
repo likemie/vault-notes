@@ -7,7 +7,7 @@ summary: "一种用于检验观测变量（如问卷题项）与潜在结构（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -36,15 +36,14 @@ related_methods:
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []
-related_facts:
-  - "[[Education for All]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Greene_2010_JEP]]"
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Confirmatory Factor Analysis

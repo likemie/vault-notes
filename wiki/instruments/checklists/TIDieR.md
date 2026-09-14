@@ -9,9 +9,9 @@ aliases:
 summary: "国际公认的干预方案详细描述与可复现性12项标准化核查清单，由Hoffmann等（2014）研制，用于详尽解构并规范记录复杂干预的变革理论、材料、程序、递送模式、实施剂量与保真度，被EEF强制采纳为破解教育试验黑箱的标准工具。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 3
-instrument_related_level: 0
-instrument_related_stars: "☆"
+instrument_related_count: 15
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -36,12 +36,24 @@ tags:
   - evidence-based-education
 related_concepts:
   - "[[Implementation Fidelity]]"
+  - "[[Literature Review]]"
+  - "[[Teaching Assistant]]"
+  - "[[Causality]]"
+  - "[[Preregistration]]"
 related_theories:
   - "[[Theory of Change]]"
-related_methods: []
+  - "[[Human Capital Theory]]"
+  - "[[Realist Evaluation]]"
+related_methods:
+  - "[[Systematic Review]]"
+  - "[[Implementation and Process Evaluation]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Questionnaire]]"
+  - "[[Intervention Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
 confidence: high

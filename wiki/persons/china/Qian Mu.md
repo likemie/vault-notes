@@ -7,10 +7,10 @@ summary: "中国历史学家与文化保守主义代表人物，新亚书院创�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1895"
 died: "1990"
 lifespan: "1895–1990"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Sinicisation]]"
   - "[[Zhonghua Minzu]]"
   - "[[Official Knowledge]]"
+  - "[[Knowledge Co-production]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-26'
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Qian Mu

@@ -8,35 +8,63 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/instructional-design
   - theme/academic-achievement
   - level/k12
   - paradigm/evidence-based
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Self-Regulated Learning]]"
-  - "[[Academic Achievement]]"
+  - "[[Heterogeneity]]"
+  - "[[Construct]]"
+  - "[[Effective Teaching]]"
+  - "[[Learning Gain]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Teaching Assistant]]"
   - "[[Feedback]]"
+  - "[[Document]]"
+  - "[[Metacognition]]"
+  - "[[Working Memory]]"
+  - "[[Learner Autonomy]]"
   - "[[Counterfactual]]"
+  - "[[Academic Achievement]]"
+  - "[[Executive Function]]"
+  - "[[Visible Learning]]"
+  - "[[Rote Learning]]"
+  - "[[Causality]]"
+  - "[[Independent Variable]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Cultural Capital]]"
+  - "[[Variable]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Questionnaire]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-meta-analysis]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Sputnik Shock 1957]]"
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
+related_persons:
+  - "[[Steve Higgins]]"
+  - "[[John Hattie]]"
+  - "[[Adrian Simpson]]"
 confidence: high
 status: active
 created: '2026-06-08'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Homework

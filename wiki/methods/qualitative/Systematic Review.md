@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 78
+method_related_count: 80
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Creativity]]"
 related_theories:
+  - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
@@ -79,6 +80,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Case Study]]"
   - "[[Pilot Testing]]"
+  - "[[Implementation and Process Evaluation]]"
   - "[[Critical Review]]"
 related_persons: []
 related_arguments:
@@ -105,7 +107,7 @@ related_instruments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Systematic Review

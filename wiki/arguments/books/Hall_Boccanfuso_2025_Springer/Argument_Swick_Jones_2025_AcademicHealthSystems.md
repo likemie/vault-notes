@@ -29,7 +29,6 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[T-Shaped Skills]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Return on Investment]]"
   - "[[Incubation]]"
 related_theories:
@@ -42,6 +41,7 @@ related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Investing in Innovation Program]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025|Ch10_Swick_Jones_2025]]"

@@ -10,7 +10,7 @@ aliases:
 summary: "指发生在传统正规学校课堂之外、具有自愿性、情境化与终身性的科学学习与参与形态，涵盖科技馆、探索中心、科学节、社区项目、公民科学与数字媒体，是支撑现代社会公共健康、理性决策与公民文化基础设施的核心支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Science Capital]]"
   - "[[Homework]]"
   - "[[Dialogue in Education]]"
+  - "[[Knowledge Co-production]]"
   - "[[Paradigm]]"
   - "[[Champ]]"
   - "[[Critical Thinking]]"
@@ -51,7 +52,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-03
+updated: 2026-09-15
 ---
 
 # Informal Science Learning

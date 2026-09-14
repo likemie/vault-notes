@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Didaktik]]"
   - "[[Reflexivity]]"
+  - "[[Knowledge Production]]"
   - "[[Dialogue in Education]]"
   - "[[Reflective Thinking]]"
   - "[[Pragmatic Paradigm]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 # Phenomenon-Based Learning

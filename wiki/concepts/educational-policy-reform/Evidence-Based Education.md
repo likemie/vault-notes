@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 104
+related_count: 113
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -44,6 +44,8 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[New Public Management]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Metacognition]]"
+  - "[[School Choice]]"
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Emergence]]"
@@ -51,7 +53,9 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Questions]]"
+  - "[[Preregistration]]"
   - "[[Visible Learning]]"
+  - "[[Business as Usual]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -61,6 +65,7 @@ related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Theory of Mind]]"
   - "[[Tullock's Bureaucracy Theory]]"
+  - "[[Realist Evaluation]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
@@ -73,15 +78,17 @@ related_methods:
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Factorial Design]]"
+  - "[[Quasi-Experimental Designs]]"
   - "[[Mixed Methods Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Grover Whitehurst]]"
   - "[[John Hattie]]"
 related_facts:
-  - "[[Investing in Innovation Program]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Education Endowment Foundation]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Research Schools Network]]"
   - "[[What Works Clearinghouse]]"
   - "[[What Works Network]]"
@@ -92,8 +99,10 @@ related_facts:
   - "[[EPPI-Centre]]"
   - "[[Comprehensive School Reform Program]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Pupil Premium]]"
   - "[[ResearchED]]"
+  - "[[National Pupil Database]]"
+  - "[[Sutton Trust]]"
   - "[[Ofsted]]"
   - "[[Playing for Success]]"
   - "[[Selective Schools Expansion Fund]]"
@@ -134,7 +143,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Evidence-Based Education

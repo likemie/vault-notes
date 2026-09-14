@@ -13,9 +13,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1980s–至今"
 initiator_organization: "斯坦福大学教育研究生院（Stanford Graduate School of Education）、米什科尔茨大学、赫约凯赖斯图尔小学"
@@ -28,11 +28,23 @@ tags:
   - theme/educational-equity
   - theme/research-practice-partnership
 related_concepts:
+  - "[[Cooperative Learning]]"
+  - "[[Going Native]]"
+  - "[[Learned Helplessness]]"
   - "[[Heterogeneity]]"
+  - "[[Problem Solving]]"
+  - "[[Rote Learning]]"
+  - "[[Feedback]]"
+  - "[[Dialogue in Education]]"
+  - "[[Self-Efficacy]]"
+  - "[[Construct Validity]]"
   - "[[Research-Practice Partnership]]"
+  - "[[Paradigm]]"
   - "[[Academic Achievement]]"
-related_theories: []
+related_theories:
+  - "[[Organizational Culture]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Action Research]]"
 related_instruments: []
 related_persons: []
@@ -43,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Complex Instruction Programme

@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,13 +36,14 @@ related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[William T. Grant Foundation]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # National Center for Research in Policy and Practice

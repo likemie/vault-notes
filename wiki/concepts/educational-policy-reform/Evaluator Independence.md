@@ -10,10 +10,10 @@ aliases:
 summary: "要求实证干预评估由与项目开发者无经济利益或学术隶属关联的独立团队完成的方法学准则，用于消除研发者自研自评导致的效应量夸大并确立循证最高认证。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - subject/educational-policy-reform
   - research-ethics
@@ -21,23 +21,35 @@ tags:
   - conflict-of-interest
   - program-evaluation
 related_concepts:
+  - "[[Epistemology]]"
+  - "[[Hawthorne Effect]]"
+  - "[[Implementation Fidelity]]"
   - "[[Evidence-Based Education]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Proof of Concept Programs]]"
   - "[[Praxis]]"
   - "[[Attrition]]"
   - "[[Publication Bias]]"
+  - "[[Causality]]"
+  - "[[Construct Validity]]"
   - "[[What Works Movement]]"
+  - "[[Realism in International Relations]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
   - "[[Realist Evaluation]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Random Assignment]]"
+  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Winnowing]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
-related_instruments: []
-related_persons: []
+  - "[[Implementation and Process Evaluation]]"
+related_instruments:
+  - "[[EEF Padlock Security Rating]]"
+related_persons:
+  - "[[Robert Slavin]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Blueprints for Healthy Youth Development]]"
@@ -45,7 +57,12 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
+  - "[[National Pupil Database]]"
   - "[[Investing in Innovation Program]]"
+  - "[[Institute of Education Sciences]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
+  - "[[Success for All]]"
+  - "[[Social Programs That Work]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
@@ -53,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Evaluator Independence

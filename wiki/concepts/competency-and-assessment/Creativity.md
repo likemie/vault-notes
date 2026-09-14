@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "competency-and-assessment"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -80,11 +80,12 @@ related_theories:
   - "[[Creative Problem Solving]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Centre for Educational Research and Innovation]]"
   - "[[CALOHEE Project]]"
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Creativity

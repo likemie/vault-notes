@@ -8,7 +8,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -17,6 +17,7 @@ tags:
 - region/global
 - level/k12
 related_concepts:
+  - "[[International Large-Scale Assessments]]"
   - "[[School Leadership]]"
   - "[[Academic Achievement]]"
   - "[[Champ]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-09-15
 ---
 ## 背景
 

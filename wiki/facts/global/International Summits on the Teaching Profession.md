@@ -11,9 +11,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2011–至今"
 initiator_organization: "[[OECD|经合组织]]、[[Education International|国际教育协会]]、美国教育部、[[National Education Association|全美教育协会]]、美国教师联盟"
@@ -24,25 +24,34 @@ tags:
   - theme/evidence-informed-policy
   - theme/social-dialogue
 related_concepts:
-  - "[[Research Utilization]]"
   - "[[Dialogue in Education]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Paradigm]]"
+  - "[[School Leadership]]"
+  - "[[Whole Person Education]]"
+  - "[[International Education]]"
+  - "[[Performance Indicators]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Andreas Schleicher]]"
+  - "[[John Bangs]]"
 related_facts:
   - "[[National Education Association]]"
+  - "[[National Education]]"
   - "[[OECD]]"
   - "[[Education International]]"
   - "[[Teaching and Learning International Survey]]"
-  - "[[PISA]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # International Summits on the Teaching Profession

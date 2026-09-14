@@ -10,19 +10,43 @@ aliases:
 summary: "研究者、教育实践者与决策者平等介入研究问题提出、方案设计、数据解析与成果转化的全周期协作模式，旨在打破单向线性知识传递并化解实践者沦为被动数据收集客体的体制困境"
 type: concept
 domain: "educational-policy-reform"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/knowledge-mobilisation
   - theme/evidence-informed-practice
   - theme/evidence-informed-policy
   - theme/educational-governance
+related_concepts:
+  - "[[Research Question]]"
+  - "[[Evidence Ecosystem]]"
+  - "[[Knowledge Production]]"
+  - "[[Phronesis]]"
+  - "[[Problem Finding]]"
+  - "[[Research Utilization]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Dialogue in Education]]"
+  - "[[Knowledge Mediation]]"
+  - "[[Reflexivity]]"
+  - "[[Decodification]]"
+  - "[[School Leadership]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Pride in Learning]]"
+  - "[[Evaluation Research]]"
+  - "[[Epistemology]]"
+related_methods:
+  - "[[Questionnaire]]"
+  - "[[Qualitative Observation]]"
+related_facts:
+  - "[[OECD]]"
+related_arguments:
+  - "[[Argument_Hill_2022_FacilitatingActors]]"
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Knowledge Co-production

@@ -10,7 +10,7 @@ summary: "用于量化实验与准实验研究干预前处理组与对照组初�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Attrition]]"
   - "[[Literature Search]]"
+  - "[[Effective Sample Size]]"
   - "[[Scale of Measurement]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Baseline Standardized Mean Difference

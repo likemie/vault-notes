@@ -10,7 +10,7 @@ summary: "一种源自人类学的质性研究设计，要求研究者在自然�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 58
+method_related_count: 57
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Covert Research]]"
   - "[[Document]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Reactivity in Qualitative Research]]"
   - "[[Hawthorne Effect]]"
   - "[[Halo Effect]]"
@@ -85,7 +84,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-07-11
+updated: 2026-09-15
 ---
 
 # Ethnography

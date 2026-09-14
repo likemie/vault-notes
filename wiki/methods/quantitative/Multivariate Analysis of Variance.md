@@ -44,9 +44,9 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Observation Method]]"
   - "[[Causal Modeling]]"
+  - "[[Factorial Design]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Sample Size Determination]]"
-  - "[[Factorial Design]]"
   - "[[Analysis of Covariance]]"
   - "[[Confirmatory Factor Analysis]]"
 related_instruments: []

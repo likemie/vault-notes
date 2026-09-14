@@ -7,10 +7,10 @@ aliases:
 summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 41
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 37
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - geopolitics-of-knowledge
   - knowledge-economy
@@ -19,54 +19,50 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Epistemic Governance]]"
+  - "[[Paradigm]]"
+  - "[[Champ]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Exchange]]"
-  - "[[Knowledge Mobilisation]]"
-  - "[[Research Utilization]]"
-  - "[[Junzi]]"
-  - "[[Champ]]"
-  - "[[Paradigm]]"
-  - "[[Decodification]]"
-  - "[[Forced Knowledge Transfer]]"
-  - "[[Economic and Industrial Espionage]]"
-  - "[[Knowledge Sabotage]]"
-  - "[[Value Neutrality]]"
   - "[[Technology Transfer]]"
-  - "[[Document]]"
-  - "[[Dialogue in Education]]"
+  - "[[Screening Off]]"
   - "[[Cooperative Education]]"
+  - "[[Academic Engagement]]"
+  - "[[Document]]"
+  - "[[Forced Knowledge Transfer]]"
+  - "[[Knowledge Sabotage]]"
+  - "[[Dialogue in Education]]"
   - "[[Professors of Practice]]"
   - "[[Technology Transfer Office]]"
-  - "[[Academic Engagement]]"
-  - "[[Blue Skies Research]]"
-  - "[[Technical Rationality]]"
+  - "[[Hypothesis]]"
+  - "[[Professional Judgment]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Junzi]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Variable]]"
+  - "[[Total Factor Productivity]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Systems of Innovation]]"
-  - "[[Luhmann's Systems Theory]]"
-  - "[[Knowledge-to-Action Models]]"
 related_methods:
-  - "[[Analytic Framework]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Plato]]"
-  - "[[Aristotle]]"
-  - "[[Confucius]]"
-  - "[[Chen Kuan-Hsing]]"
 related_facts:
-  - "[[Kokutai no Hongi]]"
-  - "[[China Social Credit System]]"
-  - "[[Great Firewall of China]]"
-  - "[[Sino-American Trade War]]"
-  - "[[Thousand Talents Program]]"
+  - "[[SPECTRUM]]"
+  - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
-  - "[[Argument_Glitz_2020_AER]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Torres_2022_KMModels]]"
+  - "[[Argument_Glitz_2020_AER]]"
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Knowledge Transfer

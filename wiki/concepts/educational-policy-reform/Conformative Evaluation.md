@@ -6,7 +6,7 @@ aliases:
 summary: "Stronach and Morris（1994）提出的概念，描述在政治化压力下评估日益呈现顺应委托方议程的8种特征：短期导向、忽视长期结果、过度倚重项目参与者感知、忽视批评者、无理论取向、合同约束下的自我审查、隐性项目辩护和职业精神分裂。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Professional Judgment]]"
   - "[[Theoretical Perspective]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods: []
@@ -26,7 +25,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 # Conformative Evaluation
 

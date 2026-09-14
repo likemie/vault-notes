@@ -11,7 +11,7 @@ title: "Argument_Slavin_2021_ROE"
 argument_key: "Argument_Slavin_2021_ROE"
 argument_display_title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
-  - "[[Investing in Innovation Program]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"

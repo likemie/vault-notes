@@ -7,7 +7,7 @@ summary: "华人教育研究者，布朗大学教授，以中西文化学习模�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -65,12 +65,13 @@ related_persons:
   - "[[John Dewey]]"
 related_facts:
   - "[[Gaokao]]"
+  - "[[William T. Grant Foundation]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 # Jin Li
 

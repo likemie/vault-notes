@@ -9,7 +9,7 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）与温迪·埃斯佩兰德（Wendy Espeland）等学者提出的批判性理论构念，指在充斥歧义性、争议性与不确定性的教育决策生态中，数字作为理性表象的脚手架，相比质性论述能为政策制定者构筑出具备客观性、精确度与普适性的政治外壳。这种外衣在压制外部质疑的同时，为决策者依循自身政治偏好自由阐释指标意义保留了弹性空间。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,9 +30,11 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Policy Ambiguity]]"
   - "[[Heterogeneity]]"
+  - "[[Surplus of Evidence]]"
   - "[[Conatus]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Brokerage]]"
+  - "[[Knowledge Mediation]]"
   - "[[Constructivist Paradigm]]"
   - "[[Positivism]]"
   - "[[Transfer Translation Transformation]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Façade of Rationality

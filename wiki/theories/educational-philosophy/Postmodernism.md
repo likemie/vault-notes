@@ -117,7 +117,7 @@ updated: 2026-09-11
 ## 核心要素
 
 > [!feature] 詹姆逊（Jameson, 1991）后现代主义 11 项特征的四维解构
-> - **[[Grand Theory|宏大叙事]]解构与知识建构性**
+> - **[[Grand Theory|宏大叙事]]解构与[[Knowledge Production|知识建构]]性**
 >   - **摒弃宏大叙事（absence of 'grand narratives'）** 拒斥一切包罗万象的元叙事与普适性法则。
 >   - **历史感消解与当下自指（autoreferentiality of the present）** 聚焦当下正在发生的意义协商，警惕历史终极[[Determinism|因果决定论]]。
 >   - **知识的人类社会建构性（knowledge as a human, social [[Construct]]）** 否定超越人类实践的客观中立知识，承认认知的历史局限性。

@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -73,6 +73,7 @@ related_facts:
   - "[[Research Excellence Framework]]"
   - "[[Industrial Strategy Challenge Fund]]"
   - "[[Strength in Places Fund]]"
+  - "[[Investing in Innovation Program]]"
   - "[[ROI Initiative for Unleashing American Innovation]]"
   - "[[Social Science One]]"
   - "[[National Science Foundation]]"

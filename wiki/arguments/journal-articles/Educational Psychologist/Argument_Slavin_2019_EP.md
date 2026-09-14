@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[External Validity]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
   - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
@@ -48,7 +47,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
-  - "[[Investing in Innovation Program]]"
   - "[[Education Endowment Foundation]]"
   - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"

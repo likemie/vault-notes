@@ -28,7 +28,7 @@ related_concepts:
   - "[[Codeswitcher]]"
   - "[[Doxa]]"
 related_theories:
-  - "[[Entity vs Incremental Intelligence]]"
+  - "[[Growth Mindset]]"
 related_methods: []
 related_persons: []
 related_facts: []

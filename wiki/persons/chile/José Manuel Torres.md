@@ -13,9 +13,9 @@ person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
-born: ""
+born: "c. 1988"
 died: ""
-lifespan: ""
+lifespan: "c. 1988–至今"
 tags:
   - theme/knowledge-mobilisation
   - theme/evidence-informed-policy
@@ -115,8 +115,8 @@ updated: 2026-09-13
 > - **政策路径** 直接为参与 [[Centre for Educational Research and Innovation|OECD CERI]] 项目的 29 个成员国教育决策部门提供了国家层面的证据生态诊断基准，推动威尔士、荷兰、挪威等国反思其研究资助与政策制定的中介机制设计。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Torres_2022_KMModels]] — 确立教育知识动员的三元模型分类与四层级分析框架。
-> - [[Argument_Torres_2022_BarriersMechanisms]] — 呈现 37 个教育系统的阻碍感知与机制部署实证图谱。
+> - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 确立教育知识动员的三元模型分类与四层级分析框架。
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 呈现 37 个教育系统的阻碍感知与机制部署实证图谱。
 
 ---
 

@@ -32,7 +32,6 @@ related_concepts:
   - "[[Corporate R&D Labs]]"
   - "[[Third Mission]]"
   - "[[Knowledge Transfer]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Return on Investment]]"
   - "[[Innovation Hub]]"
   - "[[Document]]"
@@ -105,6 +104,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[University Inc]]"
+  - "[[Investing in Innovation Program]]"
   - "[[Declaration on Research Assessment]]"
   - "[[Advanced Manufacturing Research Centre]]"
 related_arguments:

@@ -7,7 +7,7 @@ summary: "英国教育研究者，批判实在论取向的证据本位教学批�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Critical Realism]]"
+  - "[[Realist Evaluation]]"
   - "[[Third Generation Activity Theory]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:
@@ -58,7 +59,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 ## 简介
 

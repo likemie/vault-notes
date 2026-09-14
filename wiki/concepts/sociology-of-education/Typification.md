@@ -4,10 +4,10 @@ aliases: [类型化, 典型化, 理想类型化, typifications]
 summary: "阿尔弗雷德·舒茨现象学社会学的核心认知与互动机制，指行动者与研究者运用源自社会既有知识库的“理想类型”心智图式来理解他人行为、组织日常生活世界并在多重实在间穿梭的过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: [theme/epistemology, theme/social-phenomenology, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
   - "[[Concept Mapping]]"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Postpositivism]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epoché]]"
 related_theories:
@@ -47,7 +46,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Typification

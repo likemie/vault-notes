@@ -8,7 +8,7 @@ summary: "新西兰教育领导力学者，倡导学生中心与教学领导力�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,13 +34,14 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Best Evidence Synthesis]]"
 related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Viviane Robinson

@@ -6,7 +6,7 @@ aliases:
 summary: "John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 97
+related_count: 98
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -83,6 +83,7 @@ related_persons:
   - "[[Jill Mehlbye]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[Sutton Trust]]"
   - "[[What Works Clearinghouse]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Cognition Education]]"
@@ -121,7 +122,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-08-20
+updated: 2026-09-15
 ---
 
 ## 定义

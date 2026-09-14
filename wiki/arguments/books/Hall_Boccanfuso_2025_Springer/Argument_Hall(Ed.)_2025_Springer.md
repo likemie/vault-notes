@@ -10,7 +10,7 @@ title: "Argument_Hall(Ed.)_2025_Springer"
 argument_key: "Argument_Hall(Ed.)_2025_Springer"
 argument_display_title: "University-Industry Collaboration: Innovation at the Interface"
 argument_kind: "book"
-argument_related_count: 90
+argument_related_count: 89
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -70,7 +70,6 @@ related_concepts:
   - "[[Applied Medical Innovation]]"
   - "[[Master Protocol]]"
   - "[[Contract Research Organization]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Research Translation]]"
   - "[[Research Security]]"
   - "[[Sponsored Research Agreement]]"

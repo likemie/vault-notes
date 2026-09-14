@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 55
+fact_related_count: 54
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -57,7 +57,6 @@ related_concepts:
 related_methods:
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
-  - "[[Rasch Measurement]]"
   - "[[Pilot Testing]]"
   - "[[Meta-analysis]]"
 related_facts:
@@ -84,7 +83,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-05-17
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # PISA

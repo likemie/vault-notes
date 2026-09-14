@@ -12,9 +12,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 26
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 tags:
   - i3
@@ -24,21 +24,32 @@ tags:
   - rct
   - region/us
 related_concepts:
-  - "[[Attrition]]"
   - "[[Evidence-Based Reform]]"
-  - "[[What Works Movement]]"
+  - "[[Public-Private Partnership in Research]]"
+  - "[[Counterfactual]]"
+  - "[[Paradigm]]"
+  - "[[Academic Achievement]]"
+  - "[[Evidence Standards]]"
+  - "[[Entrepreneur in Residence]]"
+  - "[[Attrition]]"
+  - "[[Business as Usual]]"
+  - "[[Implementation Fidelity]]"
   - "[[Evaluator Independence]]"
+  - "[[Evidence-Based Education]]"
+  - "[[What Works Movement]]"
 related_theories:
   - "[[Theory of Change]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_facts:
-  - "[[Success for All]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Success for All]]"
   - "[[Institute of Education Sciences]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
@@ -47,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Investing in Innovation Program

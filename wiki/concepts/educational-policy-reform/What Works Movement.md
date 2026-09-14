@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 54
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - subject/educational-policy-reform
   - evidence-based-education
@@ -20,25 +20,61 @@ tags:
   - educational-brokerage
   - policy-borrowing
 related_concepts:
+  - "[[Evidence-Based Reform]]"
+  - "[[Causality]]"
+  - "[[Paradigm]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Epistemology]]"
+  - "[[Counterfactual]]"
+  - "[[Technical Rationality]]"
+  - "[[Positivism]]"
   - "[[Evaluator Independence]]"
+  - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Education]]"
+  - "[[Knowledge Mediation]]"
+  - "[[Business as Usual]]"
+  - "[[Document]]"
+  - "[[Attrition]]"
+  - "[[Professional Judgment]]"
+  - "[[Return on Investment]]"
+  - "[[Research-Practice Gap]]"
+  - "[[Publication Bias]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Internal Validity]]"
+  - "[[Formative Assessment]]"
+  - "[[Realism in International Relations]]"
+  - "[[Interaction Effect]]"
+  - "[[New Public Management]]"
   - "[[Evidence Standards]]"
+  - "[[Heterogeneity]]"
+  - "[[Operationalization]]"
+  - "[[Teacher Professional Agency]]"
 related_theories:
   - "[[Realist Evaluation]]"
+  - "[[Growth Mindset]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
-related_instruments: []
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Factorial Design]]"
+related_instruments:
+  - "[[EEF Padlock Security Rating]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[Australian Education Research Organisation]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[What Works Network]]"
+  - "[[Sutton Trust]]"
   - "[[Institute of Education Sciences]]"
-related_persons: []
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Research Schools Network]]"
+  - "[[What Works Network]]"
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[National Pupil Database]]"
+related_persons:
+  - "[[Gert Biesta]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
@@ -47,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # What Works Movement

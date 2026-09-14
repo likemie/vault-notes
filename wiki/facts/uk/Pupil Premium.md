@@ -11,9 +11,9 @@ subtype: policy
 region: "uk"
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 26
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Department for Education"
 tags:
@@ -23,20 +23,33 @@ tags:
   - policy/compensatory-education
   - policy/educational-finance
 related_concepts:
+  - "[[School Inspection]]"
+  - "[[Academic Achievement]]"
+  - "[[Teaching Assistant]]"
+  - "[[Teacher Professional Agency]]"
+  - "[[Research Translation]]"
   - "[[Tracking]]"
-  - "[[Evidence-Based Education]]"
+  - "[[Critical Pedagogy]]"
+  - "[[Business as Usual]]"
   - "[[What Works Movement]]"
-related_theories: []
-related_methods: []
+  - "[[Evidence-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
+related_theories:
+  - "[[Growth Mindset]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Peter Lampl]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Ofsted]]"
   - "[[Sutton Trust]]"
   - "[[National Pupil Database]]"
   - "[[Research Schools Network]]"
+  - "[[Grammar School]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"

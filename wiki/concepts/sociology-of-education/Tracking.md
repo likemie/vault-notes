@@ -9,10 +9,10 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 38
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/inequality
   - theme/stratification
@@ -20,27 +20,45 @@ tags:
   - theme/comparative-education
   - paradigm/critical
 related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Academic Achievement]]"
+  - "[[Grade Retention]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Academic Engagement]]"
+  - "[[Causality]]"
+  - "[[School Choice]]"
+  - "[[Talent Assumption]]"
+  - "[[Ontology]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"
-  - "[[Academic Achievement]]"
-  - "[[Talent Assumption]]"
+  - "[[Mediatised Governance]]"
+  - "[[Paradigm]]"
+  - "[[Interaction Effect]]"
+  - "[[Variable]]"
+  - "[[Emergence]]"
   - "[[Policy Avoidance]]"
   - "[[Moral Sidestep]]"
-  - "[[Mediatised Governance]]"
+  - "[[Media Logic]]"
+  - "[[Document]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Growth Mindset]]"
 related_methods:
+  - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
-  - "[[Paul Morris]]"
   - "[[Jin Li]]"
+  - "[[Paul Morris]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Grammar School]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Gaokao]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
@@ -49,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Tracking

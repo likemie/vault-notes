@@ -8,7 +8,7 @@ aliases:
 summary: "Sabine Maasen 与 Peter Weingart (2005) 提出的科学社会学概念，指教育等公共领域由于缺乏排他性专业壁垒与术语隔阂，公众皆自视为专家，导致研究证据高度暴露于公共争议之中，迫使政策中介机构诉诸严苛的证据层级体系重塑中立权威。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,9 +18,11 @@ tags:
   - theme/policy-brokerage
   - theme/politics-of-expertise
 related_concepts:
+  - "[[Technologies of Exclusion]]"
   - "[[Champ]]"
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
+  - "[[Knowledge Mediation]]"
   - "[[Academic Achievement]]"
   - "[[Empiricism]]"
   - "[[Growth]]"
@@ -48,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Democratisation of Expertise

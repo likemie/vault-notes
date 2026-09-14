@@ -8,10 +8,10 @@ summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 19
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1946"
 died: ""
 lifespan: "1946–至今"
@@ -22,25 +22,35 @@ tags:
   - theme/evidence-based-education
   - theme/what-works-movement
 related_concepts:
-  - "[[Evaluator Independence]]"
+  - "[[Academic Achievement]]"
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Education]]"
+  - "[[Causality]]"
+  - "[[Determinism]]"
+  - "[[Growth]]"
+  - "[[Paradigm]]"
+  - "[[Educational Meliorism]]"
+  - "[[Evaluator Independence]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Steve Higgins]]"
 related_facts:
   - "[[Sutton Trust]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Education at a Glance]]"
+  - "[[Pupil Premium]]"
   - "[[BHP Foundation]]"
+  - "[[Grammar School]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ROE]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Peter Lampl

@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
   - "[[Sampling Frame]]"
-  - "[[Rasch Measurement]]"
 related_persons:
   - "[[Yong Zhao]]"
 related_facts:

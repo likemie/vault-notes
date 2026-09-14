@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪经典比较教育学用于解释国家教育制度独特性与内在精神的核心构念，后因缺乏经验证据、同义反复解释与辉格史观陷入方法论争议"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Conflict of Interest in Research]]"
   - "[[Whiggism]]"
   - "[[Causality]]"
   - "[[Positivism]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 # National Character

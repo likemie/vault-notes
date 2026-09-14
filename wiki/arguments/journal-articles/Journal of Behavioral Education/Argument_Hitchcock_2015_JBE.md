@@ -11,7 +11,7 @@ title: "Argument_Hitchcock_2015_JBE"
 argument_key: "Argument_Hitchcock_2015_JBE"
 argument_display_title: "What Works Clearinghouse standards and generalization of single-case design evidence"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Threats to Internal Validity]]"
   - "[[Theories of Policy Change]]"
   - "[[Epistemology]]"
-  - "[[Conflict of Interest in Research]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:

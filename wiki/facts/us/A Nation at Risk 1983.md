@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -48,6 +48,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Sputnik Shock 1957]]"
   - "[[IEA]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # A Nation at Risk 1983

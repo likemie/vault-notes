@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 76
+related_count: 85
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,16 +38,21 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[School Inspection]]"
   - "[[Research-Practice Partnership]]"
-  - "[[Boundary Spanner]]"
+  - "[[Conatus]]"
+  - "[[Third Space Discourse]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Problem Finding]]"
   - "[[Deficit Framing]]"
   - "[[Literature Search]]"
   - "[[Interaction Effect]]"
   - "[[Falsification]]"
   - "[[Hypothesis]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Paradigm]]"
   - "[[Democratising Evidence]]"
+  - "[[Paradigm]]"
+  - "[[Knowledge Production]]"
+  - "[[Research Question]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence Standards]]"
   - "[[Positivism]]"
   - "[[Methodological Individualism]]"
   - "[[Self-report Bias]]"
@@ -58,6 +63,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
+  - "[[Boundary Spanner]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Theory of Change]]"
@@ -82,11 +88,14 @@ related_methods:
   - "[[Semi-structured Interview]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
-related_persons: []
+related_persons:
+  - "[[Vivian Tseng]]"
+  - "[[John Bangs]]"
 related_facts:
   - "[[Ofsted]]"
   - "[[Education International]]"
   - "[[National Education Association]]"
+  - "[[National Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
@@ -106,7 +115,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Research Utilization

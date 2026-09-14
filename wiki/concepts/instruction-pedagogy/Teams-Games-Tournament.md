@@ -8,7 +8,7 @@ aliases:
 summary: "由 David DeVries 与 Keith Edwards（1973）开创、Robert Slavin 发展的经典合作-竞赛混合教学模式。该方法以同质能力竞赛台（Tournament Tables）替代传统纸笔测验，通过异质小组互助备考与能力均等同伴竞赛，实现低焦虑、高动机的学业掌握与团队赋能。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Self-Efficacy]]"
   - "[[Student Attitude]]"
+  - "[[Business as Usual]]"
   - "[[Peer-Supported Learning]]"
   - "[[Academic Achievement]]"
 related_theories: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-15
 ---
 
 # Teams-Games-Tournament

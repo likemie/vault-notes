@@ -10,7 +10,7 @@ subtype: organization
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Netherlands Initiative for Education Research]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
   - "[[Research Schools Network]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Kennisrotonde

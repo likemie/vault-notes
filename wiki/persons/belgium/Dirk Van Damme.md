@@ -8,10 +8,10 @@ summary: "比利时比较教育学者与国际教育政策专家，曾任根特�
 type: person
 nationality: belgium
 person_region: "belgium"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 33
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -25,17 +25,30 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Policy Network]]"
   - "[[Epistemology]]"
+  - "[[Research Impact]]"
+  - "[[Academic Achievement]]"
   - "[[Evidence-Based Education]]"
   - "[[Blue Skies Research]]"
+  - "[[Scientific Method]]"
+  - "[[Theory of Knowledge]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Research Utilization]]"
+  - "[[Discipline-Based Theory]]"
+  - "[[Axiology]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Critical Pedagogy]]"
+  - "[[Positivism]]"
+  - "[[Value Neutrality]]"
+  - "[[Phronesis]]"
+  - "[[Research Utilization]]"
+  - "[[Epistemic Governance]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[PISA]]"
+  - "[[Teaching and Learning International Survey]]"
 related_persons:
   - "[[Andreas Schleicher]]"
   - "[[Mark Schneider]]"
@@ -48,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Dirk Van Damme

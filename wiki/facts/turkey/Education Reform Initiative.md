@@ -25,13 +25,13 @@ tags:
   - theme/venture-philanthropy
 related_concepts:
   - "[[Educational Brokerage Agency]]"
+  - "[[Quality Education]]"
+  - "[[Dialogue in Education]]"
   - "[[Knowledge Mediation]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Research Utilization]]"
+  - "[[Academic Freedom]]"
   - "[[Venture Philanthropy]]"
 related_theories: []
-related_methods:
-  - "[[Systematic Review]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

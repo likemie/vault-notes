@@ -73,13 +73,13 @@ related_methods:
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Abbreviated Torrance Test for Adults]]"
+  - "[[Evaluation of Potential for Creativity]]"
   - "[[Test for Creative Thinking-Drawing Production]]"
   - "[[Creative Engineering Design Assessment]]"
   - "[[Remote Associates Test]]"
   - "[[Alternate Uses Test]]"
   - "[[Emotional Creativity Inventory]]"
   - "[[Originality Scale of Visual Metaphors]]"
-  - "[[Evaluation of Potential for Creativity]]"
 related_persons:
   - "[[Edward de Bono]]"
   - "[[Alex Osborn]]"
