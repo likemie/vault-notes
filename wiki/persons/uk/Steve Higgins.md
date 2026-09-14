@@ -60,7 +60,7 @@ updated: 2026-09-15
 > - **核心角色** 萨顿信托（[[Sutton Trust]]）与英国教育捐赠基金会（[[Education Endowment Foundation|EEF]]）旗舰项目[[EEF Teaching and Learning Toolkit|教学与学习工具包]]的领衔主持学者；开创以“进展月数”（Months of Progress）表征[[Effect Size|效应量]]的循证转译模式；通过对 17 项早期 RCT 微观数据的二次复算揭示统计模型依赖性（model dependency），成为推动教育试验分析标准化的核心学者。
 > - **代表贡献** 领衔研制[[EEF Teaching and Learning Toolkit|教学与学习工具包]]、首创“进展月数”效应量转化指标、与合作者系统复算 17 项试验揭示模型依赖性并推动 EEF 出台《统计分析指南（2018）》。
 
-> [!citation-card] 杜伦大学团队对 17 项试验的复算审计与模型依赖性发现（Edovald & Nevill, 2021）
+> [!citation-card] 杜伦大学团队对 17 项试验的复算审计与模型依赖性发现（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]]）
 > 得益于 EEF 依托英格兰国家学生数据库（NPD）建立的微观试验档案库，杜伦大学学者齐·肖（ZhiMin Xiao）、史蒂夫·希金斯（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）获得了对 17 项早期完成的 RCT 试验微观原始数据进行二次审计的机会。复算揭示了惊人的敏感性：在 17 项试验中，多达 12 项试验的点估计效应量或其统计显著性在不同统计模型间发生了漂移与突变……杜伦大学团队的实证发现直接推动 EEF 于 2018 年出台了具有行业规范里程碑意义的《统计分析指南》。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 52)]]
 >
 > *“ZhiMin Xiao, Steve Higgins, and Adetayo Kasim had the opportunity to re-analyze raw data from 17 completed EEF trials... Twelve of the 17 evaluations were sensitive to the model used... This directly informed the EEF's Statistical Analysis Guidance 2018.”*
@@ -93,7 +93,7 @@ updated: 2026-09-15
 > [!claim] 核心主张
 > Higgins 坚持[[Evidence-Based Education|循证教育]]必须兼顾科学严密性与实践可操作性。他主张面对海量异质性研究，二阶元分析与跨干预综合是打破信息孤岛、辅助循证决策的最佳工具；通过“进展月数”将抽象统计效应量转译为教师与校长的通用日常语言，能够有效降低决策门槛。同时，他高度警惕统计推断中的“模型依赖性”，主张通过透明公开微观数据、执行独立二次审计和前置确立统计分析计划（SAP），以方法学制度化来防范分析偏倚。
 
-> [!citation-card] 跨元分析比较在教育决策中的最佳可用性（Higgins, 2016）
+> [!citation-card] 跨元分析比较在教育决策中的最佳可用性（[[Argument_Higgins_2016_RE|Higgins, 2016]]）
 > 追溯元分析从 1904 年到现代元综合的发展脉络，跨元分析比较虽然面临“将苹果和橙子混为一谈”的根本困境与异质性风险，但在现实政策制定中，如果完全放弃比较，决策者将被迫依赖主观臆断或商业游说。因此，在明确提示证据质量与边界的前提下，系统二阶综合仍是当前回答教育干预相对效果的最佳可用工具。[[Argument_Higgins_2016_RE|(Higgins, 2016, pp. 31–33)]]
 >
 > *“Cross-meta-analysis comparisons, despite risks of comparing apples and oranges, remain the best available tool for answering comparative questions in education policy and practice.”*

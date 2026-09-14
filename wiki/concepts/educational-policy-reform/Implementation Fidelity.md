@@ -181,10 +181,10 @@ updated: 2026-09-14
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **机制黑箱与失败溯源** | 区分实施失败与理论失败，防范过早否定有效干预构想 | 所有因果评估、产生零结果的现场 RCT 与形成性评估 | Craig et al. (2008); Morris et al. (2016); Ross & Morrison (2021); Edovald & Nevill (2021) |
-> | **规模化外推脆弱性** | 多层级推广导致培训稀释与课堂教学走样，效应大幅衰退 | 从小样本效力试验向跨学区大规模效果试验推广 | Kitmitto et al. (2018); WHO & ExpandNet (2009); Edovald & Nevill (2021) |
-> | **试验情境与外推效度** | 严格区分受控理想条件与常态资源约束，警惕统计功效与保真度冲突 | 学校采购决策、清算中心证据解读与大规模抽样规划 | Ross & Morrison (2021); Edovald & Nevill (2021) |
-> | **规范复制与校本调适** | 划定活性成分刚性底线并包容良性校本调试，保障长效生根 | 复杂课程改革、数字教育技术融入与教师专业发展 | Ross & Morrison (2021); Humphrey et al. (2016); Edovald & Nevill (2021) |
+> | **机制黑箱与失败溯源** | 区分实施失败与理论失败，防范过早否定有效干预构想 | 所有因果评估、产生零结果的现场 RCT 与形成性评估 | Craig et al. (2008); Morris et al. (2016); [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]]; [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] |
+> | **规模化外推脆弱性** | 多层级推广导致培训稀释与课堂教学走样，效应大幅衰退 | 从小样本效力试验向跨学区大规模效果试验推广 | Kitmitto et al. (2018); WHO & ExpandNet (2009); [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] |
+> | **试验情境与外推效度** | 严格区分受控理想条件与常态资源约束，警惕统计功效与保真度冲突 | 学校采购决策、清算中心证据解读与大规模抽样规划 | [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]]; [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] |
+> | **规范复制与校本调适** | 划定活性成分刚性底线并包容良性校本调试，保障长效生根 | 复杂课程改革、数字教育技术融入与教师专业发展 | [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]]; Humphrey et al. (2016); [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] |
 
 ---
 
@@ -195,7 +195,7 @@ updated: 2026-09-14
 > - **2014 — TIDieR 国际规范建立** Hoffmann 等学者（2014）在《英国医学杂志》（BMJ）联合发布干预描述与复制模板（TIDieR），为社会科学与医学干预如何标准化拆解活性成分与保真度界限提供了行业标尺。
 > - **2016 — 早期黑箱教育试验反思** Connolly et al. (2018) 调查揭示历史试验中过程评估覆盖率仅为 38%；Morris et al. (2016) 针对 EEF 早期大量零结果试验提出严肃反思，倒逼英美教育评估机构系统性引入过程评估工具。
 > - **2019 — EEF 制度化《实施与过程评估指南》** EEF 委托曼彻斯特大学（Humphrey et al., 2016）并正式发布官方 IPE 评估指引（EEF, 2019b），将 TIDieR 规程、对照组常态活动调查与依从者因果效应（CACE）列为标准操作规程。
-> - **2021 — 现代循证范式反思与生态化拓展** Ross & Morrison (2021) 在《华东师大教育评论》（ECNU Review of Education）系统批评清算中心对实施保真度数据的结构性忽略；Edovald & Nevill (2021) 系统复盘 EEF 八年试验历程，全面阐发大样本功效扩张与现场保真度稀释的内在张力。
+> - **2021 — 现代循证范式反思与生态化拓展** [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] 在《华东师大教育评论》（ECNU Review of Education）系统批评清算中心对实施保真度数据的结构性忽略；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] 系统复盘 EEF 八年试验历程，全面阐发大样本功效扩张与现场保真度稀释的内在张力。
 
 ---
 

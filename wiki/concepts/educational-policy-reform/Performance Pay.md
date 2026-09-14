@@ -55,17 +55,17 @@ updated: 2026-09-15
 > - **用途** 帮助研究者透视政策制定者如何运用人力资本假设重塑教师劳动，以及外部量化评估数据如何被策略性挪用以合法化争议性薪酬政策。
 > - **边界** 区别于基于资历经验的常规调薪或专业胜任力阶梯晋升；不适用于依赖高水平同行协作、容错反思与复杂情境教学的专业社群。
 
-> [!citation-card] 绩效工资的经济激励假设与历史失利（Snook et al., 2009）
+> [!citation-card] 绩效工资的经济激励假设与历史失利（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）
 > 过去 25 年以上的大多数实施尝试均以失败告终。Murnane & Cohen (1986) 总结“绩效工资的承诺因其历史而暗淡”。其核心理论假设是外在经济激励能够驱动教师改进教学，但这一假设在学校教育现实中屡遭挫折。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
 >
 > *“The promises of merit pay are dimmed by its history... The core assumption is that financial incentives will improve teaching quality and student outcomes.”*
 
-> [!citation-card] 跨国评估对绩效工资的否证与政策挪用（Grey & Morris, 2018）
+> [!citation-card] 跨国评估对绩效工资的否证与政策挪用（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）
 > 英国教育部声称经合组织评估支持绩效工资，然而经合组织自身的跨国数据却明确显示：在全样本国家中，教师绩效工资与 PISA 学生成绩之间完全不存在统计学关联。高表现系统（如芬兰）完全摒弃绩效工资，而表现落后国家中亦有广泛实施者。该政策本质上属于国内争议议程对外部数据的策略性挪用。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 116–118)]]
 >
 > *“OECD data show no relationship between performance-related pay and student performance across countries... yet it was framed as an evidence-based necessity.”*
 
-> [!citation-card] 现场随机化激励试验遭遇伦理抵制与动机排斥（Edovald & Nevill, 2021; Sutherland et al., 2017）
+> [!citation-card] 现场随机化激励试验遭遇伦理抵制与动机排斥（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]]; Sutherland et al., 2017）
 > 在公立中学开展的教师绩效工资激励与辅导试验（ICR 试验）遭遇了前所未有的道德反弹与教师工会抵制。一线教职人员普遍指出，通过抛硬币式的随机化分配来决定哪些教师有资格争取奖金、哪些教师被剥夺奖励机会，在职业伦理上是极端不公的，严重破坏了同行信任与学术共同体文化。教育系统具有独特的专业文化，教师行为深受内在专业自尊与利他动机（Tirole & Benabou, 2006）驱动，对粗暴的外部物质刺激具有天然的排异反应。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 55)]]
 >
 > *“Teachers pointed out the unethical nature of effectively flipping a coin to determine which of two teachers has the opportunity to earn an incentive... Teachers are inherently motivated to work in the best interest of their pupils, not responding positively to financial incentives.”*

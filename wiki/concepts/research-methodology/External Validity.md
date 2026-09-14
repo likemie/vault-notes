@@ -130,7 +130,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 > 探讨内部因果有效性与外部推广性之间的逻辑顺位与张力。
 
 > [!claim] Pilliner, A.
-> **内部因果成立是推广的逻辑前置条件** Pilliner (1973) 指出内部效度与外部效度存在根本的不对称关系：没有内部效度，实验就不可能具备外部效度；但一个内部有效的实验，未必具备外部效度。Creswell & Creswell (2022) 进一步强调，在实验室或人工严密受控条件下消除混淆变量固然最大化了内部因果确证，但这种人为封闭系统恰恰破坏了自然复杂情境中的生态常态，形成内部效度与外部效度的经典权衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, p. 168)]]；[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+> **内部因果成立是推广的逻辑前置条件** Pilliner (1973) 指出内部效度与外部效度存在根本的不对称关系：没有内部效度，实验就不可能具备外部效度；但一个内部有效的实验，未必具备外部效度。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 进一步强调，在实验室或人工严密受控条件下消除混淆变量固然最大化了内部因果确证，但这种人为封闭系统恰恰破坏了自然复杂情境中的生态常态，形成内部效度与外部效度的经典权衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, p. 168)]]；[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
 ---
 
@@ -150,7 +150,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 > 探讨如何超越单项孤立试验的局限，构建面向系统决策的外部推广效力。
 
 > [!claim] Shadish, W. R.
-> **系统证据综合是确立稳健外部效度的必要路径** Shadish, Cook, & Campbell (2002) 论证，任何单项随机试验无论设计多么精良，其外部效度天然受制于特定的抽样时间、地点与人群边界；单项试验的结果只能告诉我们“什么曾经在特定条件下有效”，不能证明普遍有效性。只有通过对多情境、多群体试验开展大规模元分析与系统综述（如英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）教学与学习工具包（EEF Teaching and Learning Toolkit）对超过 10,000 项独立试验的编码综合），才能平抑单项试验的抽样偏倚与偶然误差，构建具有广泛指导意义的外部效度证据库（Edovald & Nevill, 2021, pp. 54, 56；Higgins et al., 2015）。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
+> **系统证据综合是确立稳健外部效度的必要路径** Shadish, Cook, & Campbell (2002) 论证，任何单项随机试验无论设计多么精良，其外部效度天然受制于特定的抽样时间、地点与人群边界；单项试验的结果只能告诉我们“什么曾经在特定条件下有效”，不能证明普遍有效性。只有通过对多情境、多群体试验开展大规模元分析与系统综述（如英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）教学与学习工具包（EEF Teaching and Learning Toolkit）对超过 10,000 项独立试验的编码综合），才能平抑单项试验的抽样偏倚与偶然误差，构建具有广泛指导意义的外部效度证据库（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 54]], 56；Higgins et al., 2015）。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
 

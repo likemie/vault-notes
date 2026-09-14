@@ -76,7 +76,7 @@ updated: 2026-09-15
 >   5. **心理韧性与应对（Resilience & Coping）** 逆境应对、坚持性与心理复原力。
 > - **实施控制** 依托系统综述（Systematic Review）与心理测量学证据分级，对每项工具的内部一致性（[[Reliability|Cronbach's Alpha]]）、重测信度、[[Construct Validity|结构效度]]、[[Predictive Validity|预测效度]]及敏感度设立硬性准入门槛。
 
-> [!citation-card] 非认知工具库的战略推进与前置防范价值（Edovald & Nevill, 2021）
+> [!citation-card] 非认知工具库的战略推进与前置防范价值（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]]）
 > 2014 年起，EEF 将资助领域从学科认知进一步拓展至学前教育与非认知领域（如自我控制、心理韧性与社交情绪）。针对市场上非认知量表良莠不齐的严峻现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth, 2017）开展超大规模系统文献综述，正式构建了“思考与韧性测量心理工具库”（SPECTRUM），并同步启动全英学业成就测验系统综述，建立权威准入目录。实践表明：若资助机构在创立初期就前置建立严格的标准化测量工具库，便能大幅避免数以百万英镑计的试错成本，为全球循证资助机构树立了关键方法学镜鉴。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 >
 > *“In 2014, the EEF expanded beyond academic attainment into the early years and non-cognitive outcomes. To navigate the crowded and variable landscape of non-cognitive measures, the EEF commissioned a systematic review of 'Social, Psychological, Emotional, Concepts of Self, and Resilience: Understanding and Measurement' (SPECTRUM)... If a funder established a bank of outcome measures upfront, it would save millions of pounds.”*
