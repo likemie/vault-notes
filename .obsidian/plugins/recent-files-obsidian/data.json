@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
-    },
-    {
       "basename": "GB-T 7714-2015",
       "path": "wiki/concepts/academic-writing/GB-T 7714-2015.md"
+    },
+    {
+      "basename": "APA Style",
+      "path": "wiki/concepts/academic-writing/APA Style.md"
+    },
+    {
+      "basename": "Abstract",
+      "path": "wiki/concepts/academic-writing/Abstract.md"
+    },
+    {
+      "basename": "Hook and Eye Technique",
+      "path": "wiki/concepts/academic-writing/Hook and Eye Technique.md"
+    },
+    {
+      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
     },
     {
       "basename": "Argument_QiMei_2015_EducationalResearchMethods",
@@ -187,14 +199,6 @@
     {
       "basename": "Education Endowment Foundation",
       "path": "wiki/facts/uk/Education Endowment Foundation.md"
-    },
-    {
-      "basename": "Champ",
-      "path": "wiki/concepts/sociology-of-education/Champ.md"
-    },
-    {
-      "basename": "Brown_2017_ER",
-      "path": "sources/Brown_2017_ER.md"
     }
   ],
   "omittedPaths": [],
