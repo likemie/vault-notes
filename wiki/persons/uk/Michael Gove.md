@@ -8,10 +8,10 @@ summary: "英国保守党核心政治家、前教育大臣（2010–2014），�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1967"
 lifespan: "1967–至今"
 tags:
