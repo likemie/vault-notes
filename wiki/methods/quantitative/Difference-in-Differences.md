@@ -11,6 +11,10 @@ summary: "一种用于评估公共政策或教育干预因果效应的准实验�
 type: method
 method_type: quantitative
 method_family: "quantitative"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/difference-in-differences
   - method/quantitative

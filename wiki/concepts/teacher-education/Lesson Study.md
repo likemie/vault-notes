@@ -9,6 +9,10 @@ aliases:
 summary: "起源于日本的教师专业发展与协同校本教研范式，通过教师团队集体备课、授课观课、课后研讨与反思改进循环提升教学质量。在英国大规模 RCT 评估中因时间挤出效应、缺乏外部专业引领与表层形式化而显现零学业效应，展现了跨文化移植中的制度与支持张力。"
 type: concept
 domain: "teacher-education"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/lesson-study
   - theme/teacher-professional-development

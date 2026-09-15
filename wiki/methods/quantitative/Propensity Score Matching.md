@@ -10,6 +10,10 @@ summary: "一种基于可观测协变量将多维特征压缩为单一参与概�
 type: method
 method_type: quantitative
 method_family: "quantitative"
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/propensity-score-matching
   - method/quantitative
