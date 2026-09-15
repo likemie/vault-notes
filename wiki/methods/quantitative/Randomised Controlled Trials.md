@@ -93,7 +93,7 @@ related_methods:
   - "[[Complier Average Causal Effect]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Efficacy Trial]]"
   - "[[Black Box RCTs]]"
   - "[[Experimental Research]]"
   - "[[Non-intervention Research]]"
@@ -401,7 +401,7 @@ updated: 2026-09-15
 > - **学校选择（Researching school choices）** 某些学校层面的根本决策无法获得学校的随机分配配合（例如混合能力分组对比分层教学因学校拒斥而招募流产，高中推迟上课时间试验亦因组织排课冲突而失败；Roy et al., 2014；Robinson, 2016）。EEF 开辟“学校选择”资助渠道，放弃硬性随机化，转而利用教育系统现存的自然变异，依托严格的[[Quasi-Experimental Designs|准实验设计]]（QED）评估学校组织决策的因果效应，同时保持[[Preregistration|预注册]]透明度。
 > - **教师选择（Teacher choices）** 一线教师的核心关切多为日常微观教学决策（如[[Homework|作业]]是全班讲评还是逐本精批、电话家访能否改善课堂行为、最有效的全班朗读组织形式等），而非外部商业化包装项目。针对此类问题，EEF 探索小样本、短周期的敏捷设计，采用被试内设计（within-participant designs）和近端测量（proximal outcomes），大幅压缩试验周期与学校动员成本。
 
-> [!tension] [[Efficacy and Effectiveness Trials|效力试验]]向实效试验的规模化效应衰减（Efficacy to Effectiveness Drop）
+> [!tension] [[Efficacy Trial|效力试验]]向实效试验的规模化效应衰减（Efficacy to Effectiveness Drop）
 > 追求更高统计功效而盲目扩大试验[[Sample Size Determination|样本量]]，常与高保真度实施产生直接冲突（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]；Nevill, 2019b）：
 > - **小规模效力试验（Efficacy Trials）** 样本量较小，干预提供者能够提供密集的人力指导、密切跟进与严格监控，[[Implementation Fidelity|实施保真度]]极高，易在理想条件下产生积极的因果效应（例如 Hanley et al., 2015 的国际象棋试验）。
 > - **大规模实效试验（Effectiveness Trials）** 当项目在数百所学校规模化推广时，培训模式被迫稀释，外部监督减退，不同学校的[[Business as Usual|常态教学]]（business as usual）存在强烈的[[Heterogeneity|异质性]]高基线，导致在效力阶段显著的干预在实效阶段无法被成功复制（如 Kitmitto et al., 2018 针对象棋的实效评估未见显著提升）。大规模推广需要建立梯次递进的扩展试点机制（Scale-up Pilots）。

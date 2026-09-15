@@ -53,7 +53,7 @@ related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Efficacy Trial]]"
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
   - "[[Coding in Qualitative Research]]"
@@ -144,7 +144,7 @@ updated: 2026-09-15
 > - **推导** 实体信念一旦在班级生态中固化，将直接滋生排斥勤勉的亚文化，导致追求学业进步成为高社交风险行为。
 
 > [!proposition-chain] 核心命题四｜[[Business as Usual|常态教学]]高基线与实施稀释制约[[Growth|成长]]型思维干预的大规模现场转化
-> - **前提一** 实验室小规模干预（[[Efficacy and Effectiveness Trials|Efficacy Trials]]）因研究深度介入与高度理想化支持，易在自编心理[[Questionnaire|问卷]]上测得显著的主观态度改善。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
+> - **前提一** 实验室小规模干预（[[Efficacy Trial|Efficacy Trials]]）因研究深度介入与高度理想化支持，易在自编心理[[Questionnaire|问卷]]上测得显著的主观态度改善。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 > - **前提二** 全系统大规模现场效果试验（Effectiveness Trials）必须在真实的常态化全校运行条件下由普通师资自主实施，极易遭遇多级培训衰减与现场执行走样。
 >   > [!evidence-grid]- 证据
 >   > - **全英大规模现场试验破灭** 在“改变思维（Changing Mindsets）”大规模两级集群 [[Randomised Controlled Trials|RCT]] 中，全英上百所小学、数万名学生接受全套教师培训。以[[National Pupil Database|英国国家学生数据库]]（NPD）客观统考成绩（Key Stage 2）为标尺，干预组学生的综合阅读与数学进展净值为零（$ES \approx 0.00$），且对享受[[Pupil Premium|学生津贴]]（Pupil Premium）的处境不利学生毫无缩减学业差距的迹象。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 57)]]

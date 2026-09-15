@@ -52,7 +52,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
-  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Efficacy Trial]]"
   - "[[Sample Size Determination]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
@@ -164,7 +164,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 
 ### 命题二　干预规模扩大引发内部控制与外部生态效度的结构性张力
 
-> [!concept-lens] [[Efficacy and Effectiveness Trials|效力试验]]向实效试验迁移中的实施磨损
+> [!concept-lens] [[Efficacy Trial|效力试验]]向实效试验迁移中的实施磨损
 > 探讨当因果试验从高度受控的人工示范走向全域政策推广时，[[Effect Size|效应量]]系统性衰减的方法学机制。
 
 > [!claim] Edovald, R. & Nevill, C.
@@ -242,7 +242,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 
 > [!evidence-grid] 提升与保障外部效度的现实策略体系
 > - **试验工具独立化与国家数据库锚定** 针对过度贴合干预的自编测验严重虚增[[Effect Size|效应量]]、破坏外部效度的问题（Cheung & Slavin, 2016），英国 [[Education Endowment Foundation|EEF]] 确立严格规程：主要学业结果必须采用具备广泛外部效度、与国家关键考试（如普通中等教育证书（General Certificate of Secondary Education，GCSE））强相关的标准化独立测验，并直接对接[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）行政追踪（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 54]]）。
-> - **规模化扩展试点阶梯（Scale-up Pilots）** 建立从[[Efficacy and Effectiveness Trials|效力试验]]（Efficacy）向实效试验（Effectiveness）过渡的扩展试点机制，专门检验大规模项目在真实教育行政体系中的培训递送保真度、人员流动与组织支撑能力（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。
+> - **规模化扩展试点阶梯（Scale-up Pilots）** 建立从[[Efficacy Trial|效力试验]]（Efficacy）向实效试验（Effectiveness）过渡的扩展试点机制，专门检验大规模项目在真实教育行政体系中的培训递送保真度、人员流动与组织支撑能力（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。
 > - **宏观决策的准实验渠道（Researching School Choices）** 针对学校拒斥[[Random Assignment|随机化]]导致样本代表性受损的问题，开辟[[School Choice|学校选择]]资助渠道，利用教育系统现存的自然变异与严格的[[Quasi-Experimental Designs|准实验设计]]（QED）评估学校组织决策，拓宽证据的生态推广性（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 54–55]]）。
 > - **调查抽样设计与[[Attrition|流失]]补偿** 采用[[Random Sampling|概率抽样]]（Fowler, 2009）；为低回应率预留初始[[Sample Size Determination|样本量]]缓冲（Punch, 2003）；实施跟进提醒唤醒 1/4–1/3 初始无回应者；对极小亚群采用过采样配合加权校正；在[[Longitudinal Study|纵向调查]]中建立样本流失（attrition）监控与敏感性分析模型（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al., 2011, Ch. 8]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Ch. 13]]）。
 > - **质性[[Rich and Thick Description|厚描述]]与多场所研究** 通过典型[[Case Study|案例研究]]（typical cases）展现深度生态机制；开展多场所研究（multi-site studies；Miles & Huberman, 1984）识别跨情境共性；提供详尽厚描述供读者与实践者自主评估可迁移性条件（Lincoln & Guba, 1985；Schofield, 1996）。

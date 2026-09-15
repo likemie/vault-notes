@@ -14067,7 +14067,9 @@
     "path": "wiki/methods/quantitative/Covariate Adjustment.md",
     "aliases": [
       "协变量控制",
-      "协变量调整"
+      "协变量调整",
+      "协变量校正",
+      "协变量控制法"
     ]
   },
   {
@@ -14188,17 +14190,27 @@
     ]
   },
   {
-    "title": "Efficacy and Effectiveness Trials",
+    "title": "Effectiveness Trial",
     "type": "method",
-    "path": "wiki/methods/quantitative/Efficacy and Effectiveness Trials.md",
+    "path": "wiki/methods/quantitative/Effectiveness Trial.md",
     "aliases": [
-      "效力试验与实效试验",
-      "功效试验与有效性试验",
-      "Efficacy vs Effectiveness",
-      "效力试验",
       "实效试验",
+      "有效性试验",
+      "Effectiveness Trials",
+      "Effectiveness Study",
+      "实效检验"
+    ]
+  },
+  {
+    "title": "Efficacy Trial",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Efficacy Trial.md",
+    "aliases": [
+      "效力试验",
+      "功效试验",
       "Efficacy Trials",
-      "Effectiveness Trials"
+      "Efficacy Study",
+      "效力检验"
     ]
   },
   {

@@ -44,8 +44,9 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Questionnaire]]"
   - "[[Semi-structured Interview]]"
-  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Efficacy Trial]]"
   - "[[Random Assignment]]"
+  - "[[Effectiveness Trial]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -149,7 +150,7 @@ updated: 2026-09-15
 > 英国[[Education Endowment Foundation|教育捐赠基金会]]在现代评估指南中对常态教学设定了明确的操作规约：要求独立评估团队在方案[[Preregistration|预注册]]协议（Protocol）中不仅定义干预内容，还必须详尽阐明对照组常态教学的理论[[Hypothesis|假设]]；在试验执行过程中，评估团队通过向对照组教师发放专项调查[[Questionnaire|问卷]]、核对日常教学时间分配，排查对照组学校是否采购了相似的数字学习工具。这一规范彻底改变了将常态对照视为未测量黑盒的历史弊端。[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021, p. 53)]]
 
 > [!case] 科学探究干预实效推广中的常态教学吞噬
-> 在《思考、操作、[[Dialogue in Education|对话]]科学》（Thinking, Doing, Talking Science，TDTS）试验中，该项目在 42 所小学的[[Efficacy and Effectiveness Trials|效力试验]]中取得了显著积极成效（$ES = +0.22$）；然而当推广至 205 所小学的实效试验时，干预效应完全降至零。[[Implementation and Process Evaluation|过程评估]]发现，大规模试验中的对照组学校本身已通过常规教研广泛开展了类似的互动式探究科学教学，高水准的常态教学基线直接抵消了外部标准化培训所能带来的微弱优势。[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021, p. 57)]]
+> 在《思考、操作、[[Dialogue in Education|对话]]科学》（Thinking, Doing, Talking Science，TDTS）试验中，该项目在 42 所小学的[[Efficacy Trial|效力试验]]中取得了显著积极成效（$ES = +0.22$）；然而当推广至 205 所小学的实效试验时，干预效应完全降至零。[[Implementation and Process Evaluation|过程评估]]发现，大规模试验中的对照组学校本身已通过常规教研广泛开展了类似的互动式探究科学教学，高水准的常态教学基线直接抵消了外部标准化培训所能带来的微弱优势。[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021, p. 57)]]
 
 ---
 
@@ -162,7 +163,7 @@ updated: 2026-09-15
 > | [[Counterfactual]] | 核心概念 | 常态教学构成了教育现场实验推导反事实结局的主要实证载体。 |
 > | [[Implementation and Process Evaluation]] | 方法 | 过程评估负责解构和测量对照组常态教学的具体构成与污染风险。 |
 > | [[Randomised Controlled Trials]] | 方法 | 随机对照试验通过[[Random Assignment\|随机分配]]确保干预组与常态教学对照组在基线上的协[[Variable\|变量]]平衡。 |
-> | [[Efficacy and Effectiveness Trials]] | 方法 | 效力试验与实效试验在常态教学基线的均质性与竞争强度上存在重大差异。 |
+> | [[Efficacy Trial|效力试验]]与[[Effectiveness Trial|实效试验]] | 方法 | 效力试验与实效试验在常态教学基线的均质性与竞争强度上存在重大差异。 |
 > | [[What Works Movement]] | 宏观运动 | 证明干预未超越常态教学从而去魅商业宣传，构成了循证运动的重要公共价值。 |
 
 ---

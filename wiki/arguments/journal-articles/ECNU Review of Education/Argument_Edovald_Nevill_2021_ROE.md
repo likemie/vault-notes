@@ -117,7 +117,8 @@ related_methods:
   - "[[Difference-in-Differences]]"
   - "[[Propensity Score Matching]]"
   - "[[Sample Size Determination]]"
-  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Efficacy Trial]]"
+  - "[[Effectiveness Trial]]"
 related_instruments:
   - "[[CONSORT-SPI]]"
   - "[[TIDieR]]"
@@ -445,14 +446,14 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > - **神话二：卡罗尔·德韦克“成长型思维”的规模化破灭（Foliano et al., 2019）** 斯坦福大学心理学家卡罗尔·德韦克（Carol Dweck）的成长型思维理论风靡全球，被广泛认为能够激发学生潜能并有效弥合贫困弱势学生的成就差距。EEF 资助开展了代号为“改变思维”的全英格兰大规模现场效果试验（Foliano et al., 2019），覆盖上百所小学与数万名学生。干预采取全校全员师资深度培训模式，由专业机构系统培训教师将成长型思维融入课堂互动与评语反馈。然而，以英国国家学生数据库（NPD）中极具公信力的小学毕业统考 Key Stage 2（KS2）阅读与数学统考成绩作为检验标尺，结果显示：在真实的常态化全校运行条件下，接受全套培训的干预组学生，其综合成绩与完全接受常态教学的对照组相比毫无统计学显著差异（主效应量 $ES \approx 0.00$），且对享受[[Pupil Premium|学生津贴]]（FSM）的处境不利学生亦完全未展现出缩小差距的迹象。
 > - **“证明何者无效”的重大公共财政与政策价值** 这两项重磅零结果试验在英格兰教育界引发了理性的去魅风暴（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]]）。它以铁一般的客观数据向全球决策者敲响了警钟：在高度理想化的心理学实验室或小范围志愿者群体中成立的前沿教学理论，一旦走向大规模真实校园常态运行，其因果链条极易断裂。What Works 运动最核心的社会价值，不仅在于向学校证明什么有效，更在于以无懈可击的高质量实证数据明确指出哪些时髦做法徒劳无功，从而有效斩断商业培训机构的营销泡沫，阻止全英中小学将数以亿计的紧缺公共资金（特别是用于弱势群体的 [[Pupil Premium]] 财政补贴）浪费在缺乏真实回报的流行神话上。（pp. 54, 57）
 
-在常态教学高基线背景下，即便某项干预在小规模[[Efficacy and Effectiveness Trials|效力试验]]中成效耀眼，一旦走向跨区域的大规模全系统推广，往往会遭遇断崖式的[[Fade-out Effect|效应衰减]]。（p. 57）
+在常态教学高基线背景下，即便某项干预在小规模[[Efficacy Trial|效力试验]]中成效耀眼，一旦走向跨区域的大规模全系统推广，往往会遭遇断崖式的[[Fade-out Effect|效应衰减]]。（p. 57）
 
 #### 3. 大样本功效追求与现场实施保真度存在固有对抗，干预规模化亟需迈向情境机制深耕的现实主义范式
 
 从效力试验向实效试验推进的过程中，干预效果的大幅缩水是国际循证科学普遍面临的严峻规律。（p. 57）
 
 > [!tension-table] 统计功效大样本诉求与现场实施保真度稀释的内在张力（基于 WHO & ExpandNet, 2009 与 Edovald & Nevill, 2021）
-> | 考察维度 | 小规模[[Efficacy and Effectiveness Trials\|效力试验]]（Efficacy Trials） | 大规模[[Efficacy and Effectiveness Trials\|实效试验]]（Effectiveness Trials） |
+> | 考察维度 | 小规模[[Efficacy Trial|效力试验]]（Efficacy Trials） | 大规模[[Effectiveness Trial|实效试验]]（Effectiveness Trials） |
 > |---|---|---|
 > | **核心[[Research Purpose\|研究目的]]** | 验证干预在高度理想化、高支持条件下的[[Theoretical Validity\|理论有效性]] | 验证干预在全系统、多校区、常态化条件下的真实交付成效 |
 > | **培训与递送模式** | 方案原作者亲自全程下场，提供密集督导与定制化现场反馈 | 被迫在短期内大量招聘外部新培训师，采用多级瀑布式递送 |
@@ -524,7 +525,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > *In addition, it is essential that the [[What Works Movement]] is not only able to say what does work but also what does not, as resources spent on ineffective practices could be better used elsewhere... as the lack of intervention impacts may reflect high-quality teaching practice.*
 
 > [!citation-card] 规模化推广与[[Implementation Fidelity|实施保真度]]的内在张力
-> 在[[Efficacy and Effectiveness Trials|效力试验]]向实效试验推进中，实施规模与试验[[Sample Size Determination|样本量]]越大，就越难发现超越[[Business as Usual|常态教学]]的有意义效应。小规模效力试验中呈现出的显著成效往往无法在实效试验阶段复现。在高质量实施与追求更大统计功效之间存在直接张力：过大的[[Study Population and Sample|研究样本]]迫使提供方过快扩张，从而侵蚀了递送机制与培训质量。（p. 57）
+> 在[[Efficacy Trial|效力试验]]向[[Effectiveness Trial|实效试验]]推进中，实施规模与试验[[Sample Size Determination|样本量]]越大，就越难发现超越[[Business as Usual|常态教学]]的有意义效应。小规模效力试验中呈现出的显著成效往往无法在实效试验阶段复现。在高质量实施与追求更大统计功效之间存在直接张力：过大的[[Study Population and Sample|研究样本]]迫使提供方过快扩张，从而侵蚀了递送机制与培训质量。（p. 57）
 >
 > *The larger the scale of implementation, and size of the [[Randomised Controlled Trials|RCT]], the harder it is to find educationally interesting effects compared to business as usual... A large study sample may require intervention providers to scale up faster than appropriate, risking the scale-up mechanism.*
 

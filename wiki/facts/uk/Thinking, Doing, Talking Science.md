@@ -31,7 +31,8 @@ related_concepts:
   - "[[Business as Usual]]"
 related_theories: []
 related_methods:
-  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Efficacy Trial]]"
+  - "[[Effectiveness Trial]]"
   - "[[Implementation and Process Evaluation]]"
 related_instruments: []
 related_persons: []
@@ -156,7 +157,7 @@ updated: 2026-09-15
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Education Endowment Foundation]] | Fact (Organization) | 资助与主导 TDTS 效力试验与实效试验评估的英国国家级证据中介组织。 |
-> | [[Efficacy and Effectiveness Trials]] | Method | TDTS 从 42 所效力试验到 205 所实效试验构成了该方法学概念的经典实证范例。 |
+> | [[Efficacy Trial|效力试验]]与[[Effectiveness Trial|实效试验]] | Method | TDTS 从 42 所效力试验到 205 所实效试验构成了该方法学概念的经典实证范例。 |
 > | [[Business as Usual]] | Concept | 对照组常态教学基准的自发演进与提升，是解释 TDTS 实效试验效应归零的核心机制。 |
 > | [[Implementation and Process Evaluation]] | Method | 揭示级联培训衰减与对照组反事实演进的决定性评估方法。 |
 > | [[Dialogue in Education]] | Concept | TDTS 中“对话科学（Talking Science）”的理论源头与核心教学策略。 |

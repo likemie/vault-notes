@@ -40,7 +40,7 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Random Assignment]]"
-  - "[[Efficacy and Effectiveness Trials]]"
+  - "[[Efficacy Trial]]"
   - "[[Winnowing]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
@@ -92,7 +92,7 @@ updated: 2026-09-15
 > [!citation-card] 独立评估的防偏倚核心价值
 > 评估者独立性是防止[[Evidence-Based Education|循证教育]]沦为商业课程推销与学术声誉合谋的核心安全阀。当且仅当一个项目能在没有原作者悉心呵护、由持怀疑态度的独立团队在常态学校中成功复制时，其因果有效性才真正具备向全社会推广的公信力。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 11–15)]]
 >
-> *Evaluator independence requires that [[Efficacy and Effectiveness Trials|Efficacy Trials]] be conducted by researchers with no financial, intellectual property, or personal ties to program developers. It protects evidence systems against developer bias, selective outcome reporting, and artificially inflated effect sizes.*
+> *Evaluator independence requires that [[Efficacy Trial|Efficacy Trials]] be conducted by researchers with no financial, intellectual property, or personal ties to program developers. It protects evidence systems against developer bias, selective outcome reporting, and artificially inflated effect sizes.*
 
 > [!boundary]- 概念边界
 > - **不等于内部评估者与督导团队（Internal Evaluators）** 内部评估重在形成性改进与课程迭代，受制于组织生存利益，无法提供总结性因果效度的外部公信力。
