@@ -169,7 +169,7 @@ updated: 2026-09-15
 > **微观数据开放与可复制性补充** 单纯的预注册必须辅以彻底的研究数据开放。评估团队应当在保护隐私的前提下，公开包含全部初始参与者与缺失值标记的去标识微观数据集，使独立研究团队能够重新运行统计代码、检验不同模型假定下的结论敏感性，从而构建起事前预注册与事后公开复现的双重验证机制。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 444)]]
 
 > [!claim] Edovald, T. & Nevill, C.
-> **国家行政数据库归档促成分析模型鲁棒性验证** 依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）的全样本普查数据，EEF 建立了汇集 105 项大规模教育试验微观数据的开放档案库。杜伦大学（Durham University）学者利用该开放归档对 17 项早期完成的 RCT 进行复算时发现，分别采用简单均值模型、普通最小二乘[[Covariate Adjustment|协变量调整]]模型、多层线性模型和广义估计方程四种常见模型，会导致[[Effect Size|效应量]]估计值发生大幅漂移（Xiao et al., 2016）。这一实证复查推动 EEF 编写出台《EEF 评估统计分析指南》（The EEF, 2018），明确要求在预注册 SAP 中精确锁定协变量选择准则与班级聚类模型，展示了数据开放对完善预注册规程的反哺机制。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]
+> **国家行政数据库归档促成分析模型鲁棒性验证** 依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）的全样本普查数据，EEF 建立了汇集 105 项大规模教育试验微观数据的开放档案库。杜伦大学（Durham University）学者利用该开放归档对 17 项早期完成的 RCT 进行复算时发现，分别采用[[Simple Difference in Means Model|简单均值模型]]、[[Ordinary Least Squares|普通最小二乘]][[Covariate Adjustment|协变量调整]]模型、[[Hierarchical Linear Model|多层线性模型]]和广义估计方程四种常见模型，会导致[[Effect Size|效应量]]估计值发生大幅漂移（Xiao et al., 2016）。这一实证复查推动 EEF 编写出台《EEF 评估统计分析指南》（The EEF, 2018），明确要求在预注册 SAP 中精确锁定协变量选择准则与班级聚类模型，展示了数据开放对完善预注册规程的反哺机制。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 ---
 

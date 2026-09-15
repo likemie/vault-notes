@@ -14354,6 +14354,20 @@
     ]
   },
   {
+    "title": "Hierarchical Linear Model",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Hierarchical Linear Model.md",
+    "aliases": [
+      "分层线性模型",
+      "多层线性模型",
+      "多水平模型",
+      "HLM",
+      "MLM",
+      "Multilevel Model",
+      "Multilevel Linear Model"
+    ]
+  },
+  {
     "title": "I-squared Statistic",
     "type": "method",
     "path": "wiki/methods/quantitative/I-squared Statistic.md",
@@ -14802,6 +14816,19 @@
     ]
   },
   {
+    "title": "Ordinary Least Squares",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Ordinary Least Squares.md",
+    "aliases": [
+      "普通最小二乘法",
+      "最小二乘回归模型",
+      "普通最小二乘回归",
+      "最小二乘法",
+      "OLS",
+      "Ordinary Least Squares Regression"
+    ]
+  },
+  {
     "title": "Pairwise Wald Tests",
     "type": "method",
     "path": "wiki/methods/quantitative/Pairwise Wald Tests.md",
@@ -15233,6 +15260,18 @@
       "Bartik工具变量",
       "shift-share IV",
       "份额转移工具变量"
+    ]
+  },
+  {
+    "title": "Simple Difference in Means Model",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Simple Difference in Means Model.md",
+    "aliases": [
+      "简单均值差异模型",
+      "简单均值差",
+      "均值差异模型",
+      "Difference in Means",
+      "Simple Difference in Means"
     ]
   },
   {

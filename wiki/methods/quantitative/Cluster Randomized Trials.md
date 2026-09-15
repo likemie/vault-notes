@@ -78,7 +78,7 @@ updated: 2026-09-15
 > [!def] 方法定义
 > **集群随机试验（Cluster Randomized Trials, CRCT）**，亦称**整群随机试验**或**群组[[Randomised Controlled Trials|随机对照试验]]（Group-Randomized Trials, GRT）**，是指将完整的自然群体（如学校、班级、学区或社区）而非单个个体作为[[Random Assignment|随机分配]]（Random Assignment）的基本单位，而在群体内部的个体（如学生、教师）层面收集数据并评估干预效果的真实实验设计([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 316–318]]; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 1327]])。
 >
-> 在教育与社会政策研究中，CRCT 是实施全校性教学改革与课程干预最核心的量化方法。其核心统计特征在于：同属一个集群（如同一班级）的学生在背景和行为上天然存在相关性，违反了经典统计学的“独立同分布（IID）”假定；若未进行**群组内相关系数（Intraclass Correlation Coefficient, ICC）**与多层线性模型（HLM）校正，将严重低估[[Standard Error|标准误]]并制造虚假的[[Statistical Significance|统计显著性]]。在美国教育部 [[What Works Clearinghouse|WWC]] 审查规程中，未做集群校正的试验将被系统性降级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
+> 在教育与社会政策研究中，CRCT 是实施全校性教学改革与课程干预最核心的量化方法。其核心统计特征在于：同属一个集群（如同一班级）的学生在背景和行为上天然存在相关性，违反了经典统计学的“独立同分布（IID）”假定；若未进行**群组内相关系数（Intraclass Correlation Coefficient, ICC）**与[[Hierarchical Linear Model|多层线性模型（HLM）]]校正，将严重低估[[Standard Error|标准误]]并制造虚假的[[Statistical Significance|统计显著性]]。在美国教育部 [[What Works Clearinghouse|WWC]] 审查规程中，未做集群校正的试验将被系统性降级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 必须以全校或全班为单位推行的教育干预（如全校读写改革 [[Success for All]]、班级同伴辅导 [[Peer-Assisted Learning Strategies]]、全校综合支持 [[Communities in Schools]]、[[Classroom Management|课堂管理]]系统 PBIS）。
@@ -179,7 +179,7 @@ updated: 2026-09-15
 > |:---|:---|:---|
 > | [[Randomised Controlled Trials]] | 母类方法 | CRCT 是 RCT 在群体组织嵌套情境下的高级拓展形态。 |
 > | [[Quasi-Experimental Designs]] | 替代设计 | 当集群数量无法满足[[Random Assignment\|随机分配]]时，研究常被迫退化为非等对控制组 QED。 |
-> | 多层线性模型（HLM） | 分析工具 | CRCT 正确估计[[Standard Error\|标准误]]与群间方差的核心计量分析方法。 |
+> | [[Hierarchical Linear Model|多层线性模型（HLM）]] | 分析工具 | CRCT 正确估计[[Standard Error\|标准误]]与群间方差的核心计量分析方法。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | CRCT 通过组织隔离有效消除处理扩散（Diffusion of Treatments）威胁。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 建立了国际最严谨的 CRCT 多层集群校正与自由度审查规则。 |
 

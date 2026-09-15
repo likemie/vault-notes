@@ -83,7 +83,7 @@ updated: 2026-09-15
 > [!feature] NPD 驱动的方法学革新
 > - **根治自编测验偏倚，确立坚实的[[External Validity|外部效度]]** 传统教育试验常使用研发者自行编制的测验，因过度贴合干预内容而导致[[Effect Size|效应量]]被虚假放大数倍（Cheung & Slavin, 2016）。英国[[Education Endowment Foundation|教育捐赠基金会]]强制要求以 NPD 全国统考客观成绩作为主要结局指标，彻底剥离研发者自制量表的狭隘偏向，确保了试验结论的客观性与[[External Validity|外部效度]]（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 54]]）。
 > - **彻底对冲[[Attrition|样本流失]]，实现超长周期追踪** 传统现场测试往往因学生毕业离校、转学导致高达 20%–40% 的严重被试流失（[[Attrition|流失]]）。利用 UPN 编号在 NPD 中直接匹配，评估者无需重返校园施测即可零接触捕获学生在小学毕业（KS2）或初中毕业（KS4）的客观[[Academic Achievement|学业表现]]，使试验的长期追踪成为可能。
-> - **支撑开放数据归档与模型敏感性检验** EEF 将资助完成的 105 项大规模 [[Randomised Controlled Trials|RCT]] 微观数据与 NPD 全面链接，建立了全球首个教育试验开放归档库（EEF Data Archive）。杜伦大学研究者利用该归档对 17 项早期试验进行复算，揭示出统计模型选择（OLS [[Covariate Adjustment|协变量调整]] vs 多层线性模型 vs GEE）会导致效应量剧烈波动（Xiao et al., 2016），直接推动出台了国家级《统计分析指南》（The EEF, 2018）。
+> - **支撑开放数据归档与模型敏感性检验** EEF 将资助完成的 105 项大规模 [[Randomised Controlled Trials|RCT]] 微观数据与 NPD 全面链接，建立了全球首个教育试验开放归档库（EEF Data Archive）。杜伦大学研究者利用该归档对 17 项早期试验进行复算，揭示出统计模型选择（[[Ordinary Least Squares|OLS]] [[Covariate Adjustment|协变量调整]] vs [[Hierarchical Linear Model|多层线性模型]] vs GEE）会导致效应量剧烈波动（Xiao et al., 2016），直接推动出台了国家级《统计分析指南》（The EEF, 2018）。
 > - **[[EEF Padlock Security Rating|挂锁安全评级]]的硬性衡量标准** 在英国[[EEF Padlock Security Rating|挂锁安全评级]]规范中，若主要结局指标未采用与 NPD 相关的全国标准化统考，而是采用研发者自定制测验，将被强制扣减 1 把锁，凸显了 NPD 作为国家证据黄金标准的制度约束力。
 
 ---
