@@ -12319,16 +12319,6 @@
     ]
   },
   {
-    "title": "EMMIE Framework",
-    "type": "method",
-    "path": "wiki/methods/mixed/EMMIE Framework.md",
-    "aliases": [
-      "EMMIE",
-      "证据多维评价框架",
-      "Effect-Mechanism-Moderator-Implementation-Economics Framework"
-    ]
-  },
-  {
     "title": "Explanatory Sequential Design",
     "type": "method",
     "path": "wiki/methods/mixed/Explanatory Sequential Design.md",
@@ -15016,17 +15006,6 @@
     ]
   },
   {
-    "title": "PRISMA",
-    "type": "method",
-    "path": "wiki/methods/quantitative/PRISMA.md",
-    "aliases": [
-      "系统评价和元分析优先报告条目",
-      "PRISMA Statement",
-      "PRISMA Flow Diagram",
-      "Preferred Reporting Items for Systematic Reviews and Meta-Analyses"
-    ]
-  },
-  {
     "title": "Propensity Score Matching",
     "type": "method",
     "path": "wiki/methods/quantitative/Propensity Score Matching.md",
@@ -15569,6 +15548,17 @@
     ]
   },
   {
+    "title": "PRISMA",
+    "type": "instrument",
+    "path": "wiki/instruments/checklists/PRISMA.md",
+    "aliases": [
+      "系统评价和元分析优先报告条目",
+      "PRISMA Statement",
+      "PRISMA Flow Diagram",
+      "Preferred Reporting Items for Systematic Reviews and Meta-Analyses"
+    ]
+  },
+  {
     "title": "TIDieR",
     "type": "instrument",
     "path": "wiki/instruments/checklists/TIDieR.md",
@@ -15761,6 +15751,16 @@
       "同感评估技术",
       "共识评估技术",
       "CAT"
+    ]
+  },
+  {
+    "title": "EMMIE Framework",
+    "type": "instrument",
+    "path": "wiki/instruments/rubrics/EMMIE Framework.md",
+    "aliases": [
+      "EMMIE",
+      "证据多维评价框架",
+      "Effect-Mechanism-Moderator-Implementation-Economics Framework"
     ]
   },
   {
