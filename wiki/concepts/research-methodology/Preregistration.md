@@ -45,6 +45,9 @@ related_methods:
   - "[[Covariate Adjustment]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Simple Difference in Means Model]]"
+  - "[[Ordinary Least Squares]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Grounded Theory]]"
 related_instruments:
@@ -116,7 +119,7 @@ updated: 2026-09-15
 > - **主要与次要结果[[Variable|变量]]界定** 预先声明主要学业产出指标（强制要求具有高[[External Validity|外部效度]]的独立标准化考试）与次要探索性指标，杜绝在多重测量中后验挑拣显著变量（cherry-picking）。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 443)]]; [[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 > - **统计分析计划（Statistical Analysis Plan，SAP）** 预先详述最终计量模型、[[Covariate Adjustment|协变量控制]]准则、班级聚类效应调整（Demack, 2019）、缺失值多重插补或完全用例假定，以及意向性分析（[[Intent-to-Treat Analysis]]，ITT）规程。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 51–53)]]
 > - **[[Counterfactual|反事实]]对照条件描述** 详尽阐述对照组的具体活动，明确对照组是纯粹[[Business as Usual|常态教学]]（business as usual）还是接受替代干预，防止反事实模糊掩盖真实效应。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 444)]]
-> - **[[Implementation Fidelity|实施保真度]]与过程测量计划** 预先设计[[Implementation and Process Evaluation|实施与过程评估]]（IPE）框架，包括干预核心活性成分界定、干预剂量记录、出勤追踪、课堂观察[[Coding in Qualitative Research|编码]]及污染排查规程。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 444)]]; [[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 53–54)]]
+> - **[[Implementation Fidelity|实施保真度]]与过程测量计划** 预先设计[[Implementation and Process Evaluation|实施与过程评估]]（IPE）框架，包括干预核心活性成分界定、干预剂量记录、出勤追踪、课堂观察[[Coding in Qualitative Research|编码]]及污染排查规程。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 > [!logic-map] 预注册全流程治理与证据锁定
 > ```mermaid
@@ -169,7 +172,7 @@ updated: 2026-09-15
 > **微观数据开放与可复制性补充** 单纯的预注册必须辅以彻底的研究数据开放。评估团队应当在保护隐私的前提下，公开包含全部初始参与者与缺失值标记的去标识微观数据集，使独立研究团队能够重新运行统计代码、检验不同模型假定下的结论敏感性，从而构建起事前预注册与事后公开复现的双重验证机制。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 444)]]
 
 > [!claim] Edovald, T. & Nevill, C.
-> **国家行政数据库归档促成分析模型鲁棒性验证** 依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）的全样本普查数据，EEF 建立了汇集 105 项大规模教育试验微观数据的开放档案库。杜伦大学（Durham University）学者利用该开放归档对 17 项早期完成的 RCT 进行复算时发现，分别采用[[Simple Difference in Means Model|简单均值模型]]、[[Ordinary Least Squares|普通最小二乘]][[Covariate Adjustment|协变量调整]]模型、[[Hierarchical Linear Model|多层线性模型]]和广义估计方程四种常见模型，会导致[[Effect Size|效应量]]估计值发生大幅漂移（Xiao et al., 2016）。这一实证复查推动 EEF 编写出台《EEF 评估统计分析指南》（The EEF, 2018），明确要求在预注册 SAP 中精确锁定协变量选择准则与班级聚类模型，展示了数据开放对完善预注册规程的反哺机制。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]
+> **国家行政数据库归档促成分析模型鲁棒性验证** 依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）的全样本普查数据，EEF 建立了汇集 105 项大规模教育试验微观数据的开放档案库。杜伦大学（Durham University）学者利用该开放归档对 17 项早期完成的 RCT 进行复算时发现，分别采用[[Simple Difference in Means Model|简单均值模型]]、[[Ordinary Least Squares|普通最小二乘]][[Covariate Adjustment|协变量调整]]模型、[[Hierarchical Linear Model|多层线性模型]]和广义估计方程四种常见模型，会导致[[Effect Size|效应量]]估计值发生大幅漂移（Xiao et al., 2016）。这一实证复查推动 EEF 编写出台《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），明确要求在预注册 SAP 中精确锁定协变量选择准则与班级聚类模型，展示了数据开放对完善预注册规程的反哺机制。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 ---
 
@@ -202,12 +205,12 @@ updated: 2026-09-15
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **自由度抑制机制** | 通过时间戳事前锁定分析模型与终点变量，遏制发表偏倚与数据钓鱼 | 所有[[Causality\|因果推断]]、验证性研究与政策效果评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] |
-> | **预注册的不充分性与补全路径** | 预注册不能完全消除观察数据后的灵活微调，必须与微观数据开放及代码复现深度互补 | 统计建模分析、复杂协变量调整与敏感性复算 | Gelman & Loken (2014); [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] |
-> | **制度刚性与实地生态调试** | 开放学校现场充满突发情境，偏离不可避免，关键在于透明记录与过程评估证据支撑 | 学校本位现场试验、复杂多层级干预评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] |
-> | **制度绑定与惩戒防线** | 预注册必须与独立评估人制度、合同隔离及证据安全评级扣分形成硬性约束联动 | 国家级证据中介、公共资助大规模评估与政策采纳 | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]]; Burgess et al. (2019) |
+> | **预注册的不充分性与补全路径** | 预注册不能完全消除观察数据后的灵活微调，必须与微观数据开放及代码复现深度互补 | 统计建模分析、复杂协变量调整与敏感性复算 | Gelman & Loken (2014); Xiao, Higgins, & Kasim (2016) |
+> | **制度刚性与实地生态调试** | 开放学校现场充满突发情境，偏离不可避免，关键在于透明记录与过程评估证据支撑 | 学校本位现场试验、复杂多层级干预评估 | Craig et al. (2008); Humphrey et al. (2016) |
+> | **制度绑定与惩戒防线** | 预注册必须与独立评估人制度、合同隔离及证据安全评级扣分形成硬性约束联动 | 国家级证据中介、公共资助大规模评估与政策采纳 | Burgess et al. (2019); The EEF (2019c) |
 
 ---
 
@@ -217,7 +220,7 @@ updated: 2026-09-15
 > - **2000s — 医学与[[Clinical Trial|临床试验]]登记起源** 面对制药行业严重的[[Publication Bias|发表偏倚]]与选择性披露危机，国际医学界建立 ClinicalTrials.gov 与国际标准[[Randomised Controlled Trials|随机对照试验]][[Coding in Qualitative Research|编码]]（ISRCTN）机制，将试验注册确立为国际顶刊发表的前置法定要求。
 > - **2014–2015 — 心理科学与可复现性危机反思** 开放科学合作组织（Open Science Collaboration, 2015）揭示大规模实验复现危机，Gelman & Loken (2014) 等学者深入剖析[[Researcher Degrees of Freedom|研究者自由度]]与分叉路径的花园，推动开放科学中心（COS）与 OSF 预注册平台崛起。
 > - **2018 — 美国[[Institute of Education Sciences|教育科学研究院]]创设 REES 平台** 美国教育科学研究院（IES）主导启动效能与有效性研究注册处（REES），由 Anderson 等学者（2019）系统阐发，成为美国教育因果评估治理标准化的标志性里程碑。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 444)]]
-> - **2018–2019 — 英国 [[Education Endowment Foundation|EEF]] 制度化统计分析计划与安全锁惩罚** 英国教育捐赠基金会（EEF）发布并三次修订《统计分析指南》（The EEF, 2018），出台[[EEF Padlock Security Rating|挂锁安全评级]]细则（The EEF, 2019c），将偏离预注册 SAP 正式确立为直接扣除 1 把安全锁的制度化质量惩罚。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 51–53, 57)]]
+> - **2018–2019 — 英国 [[Education Endowment Foundation|EEF]] 制度化统计分析计划与安全锁惩罚** 英国教育捐赠基金会（EEF）发布并三次修订《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），出台《EEF 评估发现安全级别分类指南》（*Classification of the Security of Findings from EEF Evaluations*; The EEF, 2019c），将偏离预注册 SAP 正式确立为直接扣除 1 把安全锁的制度化质量惩罚。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 51–53, 57)]]
 > - **2020–2021 — 证据中介准入标准与全球推广** [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 呼吁将预注册作为 [[What Works Clearinghouse|WWC]] 审查准入的强制条件；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] 总结 EEF 200 余项大规模试验全生命周期方案透明治理经验，预注册成为现代证据中介的核心标配。
 
 ---
@@ -251,10 +254,10 @@ updated: 2026-09-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | 全球 1980–2016 年 1,017 项教育试验（Connolly et al., 2018） | 历史[[Document\|文献]]元调查 | 试验中包含[[Implementation and Process Evaluation\|过程评估]]（IPE）的比例 | 38% | — | 说明早期教育试验缺乏方案预注册与过程追踪，普遍处于机制黑箱状态 |
-> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | 英格兰公立中小学 150+ 项 [[Education Endowment Foundation\|EEF]] 资助的大规模学校 [[Randomised Controlled Trials\|RCT]]（逾 8,000 校次） | 制度运行与[[Literature Review\|文献回顾]] | 方案预注册、SAP 公开及获 3 锁以上评级比例 | 方案与 SAP 100% 事前预注册与公开；85% 的已发表评估报告获得 3 把锁及以上安全评级 | 平均[[Attrition\|流失]]率严格控制在 30% 以下（早期为 24%） | 证明强制预注册与三方独立协议可有效保障大规模现场试验的方法学质量 |
-> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | 杜伦大学对 EEF 早期 17 项已归档 RCT 的四模型复算研究（Xiao et al., 2016） | 开放数据二次复算 | 简单均值、[[Covariate Adjustment\|协变量调整]]、HLM 与 GEE 四种模型的估计差异 | 统计分析模型设定导致效应量估计值大幅漂移 | 模型间差异具统计实质性 | 实证证明若不预先在 SAP 中刚性锁定模型与协变量，[[Researcher Degrees of Freedom\|研究者自由度]]极易扭曲结论 |
-> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | 英格兰[[National Pupil Database\|国家学生数据库]]（NPD）对接试验微观数据库 | 纵向行政档案关联 | 完整关联行政大数据的预注册试验归档数量 | 105 项独立试验微观数据完整归档并对学界开放 | — | 为长期因果效应追踪与第三方复算提供了全球首个国家级教育微观数据库 |
+> | Connolly et al. (2018) | 全球 1980–2016 年 1,017 项教育试验（见 [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill, 2021]]） | 历史[[Document\|文献]]元调查 | 试验中包含[[Implementation and Process Evaluation\|过程评估]]（IPE）的比例 | 38% | — | 说明早期教育试验缺乏方案预注册与过程追踪，普遍处于机制黑箱状态 |
+> | The EEF (2019c) 评估集 | 英格兰公立中小学 150+ 项 [[Education Endowment Foundation\|EEF]] 资助的大规模学校 [[Randomised Controlled Trials\|RCT]]（逾 8,000 校次） | 制度运行与[[Literature Review\|文献回顾]] | 方案预注册、SAP 公开及获 3 锁以上评级比例 | 方案与 SAP 100% 事前预注册与公开；85% 的已发表评估报告获得 3 把锁及以上安全评级 | 平均[[Attrition\|流失]]率严格控制在 30% 以下（早期为 24%） | 证明强制预注册与三方独立协议可有效保障大规模现场试验的方法学质量 |
+> | Xiao et al. (2016) 复算审计 | 杜伦大学对 EEF 早期 17 项已归档 RCT 的四模型复算研究 | 开放数据二次复算 | 简单均值、[[Covariate Adjustment\|协变量调整]]、HLM 与 GEE 四种模型的估计差异 | 统计分析模型设定导致效应量估计值大幅漂移 | 模型间差异具统计实质性 | 实证证明若不预先在 SAP 中刚性锁定模型与协变量，[[Researcher Degrees of Freedom\|研究者自由度]]极易扭曲结论 |
+> | EEF-NPD 开放档案库 | 英格兰[[National Pupil Database\|国家学生数据库]]（NPD）对接试验微观数据库 | 纵向行政档案关联 | 完整关联行政大数据的预注册试验归档数量 | 105 项独立试验微观数据完整归档并对学界开放 | — | 为长期因果效应追踪与第三方复算提供了全球首个国家级教育微观数据库 |
 > | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | 美国 [[Institute of Education Sciences\|IES]] 效能与有效性研究注册处（REES） | 政策分析与实证评述 | 预注册对缓解虚假结果与改善研究生态的作用 | 质性定性为无疑是积极的进步（undoubtedly a positive advancement；Gehlbach & Robinson, 2018） | — | 说明预注册已成为美国联邦教育因果评估治理的核心规范 |
 
 ---

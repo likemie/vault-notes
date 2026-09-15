@@ -27,6 +27,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Analysis of Covariance]]"
   - "[[Covariate Adjustment]]"
+  - "[[Hierarchical Linear Model]]"
+  - "[[Simple Difference in Means Model]]"
   - "[[Standard Error]]"
   - "[[Statistical Significance]]"
 related_instruments: []
@@ -57,7 +59,7 @@ updated: 2026-09-15
 > - **输出形式** 回归系数向量 $\hat{\boldsymbol{\beta}}$、判定系数 $R^2$、回归标准误、系数 $t$ 统计量及总体拟合度 $F$ 检验。
 
 > [!citation-card] 基线前测 OLS 回归在教育试验中的方差吸收与模型敏感性（Edovald & Nevill, 2021; Xiao et al., 2016）
-> 在杜伦大学学者齐·肖（ZhiMin Xiao）、[[Steve Higgins|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）针对英国 EEF 早期 17 项大规模教育 RCT 开展的四模型并行复算中，引入基线前测成绩的普通最小二乘回归模型（OLS with pre-test）展现出强大的方差吸收能力，使干预效应的残差标准误大幅收缩、统计功效显著提高。然而，复算同时暴露了标准 OLS 在面对学校和班级嵌套数据时的脆弱性：由于忽略了同校学生误差项的群聚相关性，未校正聚类结构的 OLS 会严重低估标准误，导致原本不显著的效应呈现虚假显著。这一发现直接促成了 EEF《统计分析指南》对协变量选择与聚类稳健标准误的强制规范。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]
+> 在杜伦大学学者齐·肖（ZhiMin Xiao）、[[Steve Higgins|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）针对英国 EEF 早期 17 项大规模教育 RCT 开展的四模型并行复算中，引入基线前测成绩的普通最小二乘回归模型（OLS with pre-test）展现出强大的方差吸收能力，使干预效应的残差标准误大幅收缩、统计功效显著提高。然而，复算同时暴露了标准 OLS 在面对学校和班级嵌套数据时的脆弱性：由于忽略了同校学生误差项的群聚相关性，未校正聚类结构的 OLS 会严重低估标准误，导致原本不显著的效应呈现虚假显著。这一发现直接促成了《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）对协变量选择与聚类稳健标准误的强制规范。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]
 >
 > *“In education trials, OLS regression controlling for prior attainment explains substantial outcome variance, reducing standard errors. However, Xiao et al. (2016) demonstrated that failing to account for school-level clustering in standard OLS inflates Type I error rates, highlighting the need for clustered standard errors or multilevel specifications.”*
 

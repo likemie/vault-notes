@@ -174,7 +174,7 @@ updated: 2026-09-15
 >   2. 采用倒方差加权计算综合平均[[Effect Size|效应量]]；
 >   3. 运用统计转换公式将效应量标准化为“额外进步月数”；
 >   4. 结合成本与挂锁等级形成多维矩阵排行榜。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 46)]]
-> - **底层元分析局限与 200 余项本土 [[Randomised Controlled Trials|RCT]] 反哺回填闭环** Toolkit 初期依赖的元分析综合整合了全球不同国家、学段与质[[Quantitative Research|量的研究]]，存在[[External Validity|外部效度]]局限；为此 EEF 自主资助开展了 200 余项英格兰本土大规模 RCT，建立起将本土高质量因果发现实时回填并动态更新工具包指标的闭环反馈机制。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
+> - **底层元分析局限与 200 余项本土 [[Randomised Controlled Trials|RCT]] 反哺回填机制** Toolkit 初期依赖的元分析综合整合了全球不同国家、学段与质[[Quantitative Research|量的研究]]，存在[[External Validity|外部效度]]局限；为此 EEF 自主资助开展了 200 余项英格兰本土大规模 RCT，建立起将本土高质量因果发现实时回填并动态更新工具包指标的循环反馈机制。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 > - **单向发布的失效与多臂因果试验判决** 尽管 Toolkit 在学校端建立了极高知名度，大规模多臂因果[[Randomised Controlled Trials|随机对照试验]]（Lord et al., 2017 “识字八爪鱼”试验，覆盖 800 所小学）实证证实：单纯依靠宣传册、邮件通讯、期刊专栏与网站等单向传播策略，在改善学生统考成绩上效应量为 0。该实证彻底推翻了“只要把工具包推送给教师就能促成改变”的信息赤字[[Hypothesis|假设]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 151–152)]]
 > - **从静态策略筛选向[[Operationalization|操作化]]实践指南（Guidance Reports）的三级动员体系** 认识到单纯矩阵表难以直接指导一线操作，EEF 针对关键高优先级领域编制系统实践指南（如小学[[Social-Emotional Learning|社会情感学习]] SEL 指南、中学读写、早期教育、数学及[[Teaching Assistant|助教]]配置），形成“工具包概览筛选 $\to$ 实践指南操作化 $\to$ 研究学校网络落地”的完整[[Transfer Translation Transformation|转译]]链条。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 55)]]
 > - **深度护航转向** 推动 EEF 从单纯发布产品向自建实施网络（RSN）与区域动员战役转变；例如在[[Teaching Assistant|助教]]循证配置指南推广中，中介团队深入数百所学校重塑排课与协同备课规程，并通过英国财政研究所（IFS）双重差分评估证实达成了显著的学业增益。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 150, 157)]]
@@ -251,7 +251,7 @@ updated: 2026-09-15
 > - [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] — 揭示英国中央政府在选择性[[Grammar School|文法学校]]争议中绕开 Toolkit 严谨实证的道德侧步策略。
 > - [[Argument_Cowen_2019_ERE|Cowen (2019)]] — 从政治社会学透视 Toolkit 为[[New Public Management|新公共管理]]主权问责提供审计合规凭证的制度功能。
 > - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 考察欧洲证据基础设施，将 Toolkit 置于生成、[[Transfer Translation Transformation|转译]]与校际网络协同的生态框架中。
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald, T., & Nevill, C. (2021)]] — 详述 EEF 工具包的运作机制、底层[[Meta-analysis|元分析]]局限性、200 余项本土 RCT 试验的反哺更新闭环、向实践指南（Guidance Reports）的深化，以及与[[BHP Foundation|必和必拓基金会]]（BHP Foundation）合作推进的跨国扩散（智利 Summa 与澳洲 E4L）。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald, T., & Nevill, C. (2021)]] — 详述 EEF 工具包的运作机制、底层[[Meta-analysis|元分析]]局限性、200 余项本土 RCT 试验的反哺更新机制、向实践指南（Guidance Reports）的深化，以及与[[BHP Foundation|必和必拓基金会]]（BHP Foundation）合作推进的跨国扩散（智利 Summa 与澳洲 E4L）。
 
 ---
 
@@ -265,7 +265,7 @@ updated: 2026-09-15
 > | [[Research Schools Network]] | 事实 | 下沉实施网络；EEF 为弥补单纯线上工具包挂网的局限而设立的校际同伴网络。 |
 > | [[What Works Network]] | 事实 | 国家治理网络；Toolkit 是英国国家有效性网络在教育领域的旗舰成果。 |
 > | [[BHP Foundation]] | 事实 | 资助组织；2018 年资助 5 年全球教育证据生态项目，支持工具包在拉美（Summa）与澳洲（E4L）的跨国[[Transfer Translation Transformation\|转译]]。 |
-> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | 来源论证 | 系统阐述工具包的方法学演化、本土试验反哺闭环与跨国生态扩散。 |
+> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | 来源论证 | 系统阐述工具包的方法学演化、本土试验反哺机制与跨国生态扩散。 |
 > | [[Self-control]] | 概念 | 核心能力；工具包[[Metacognition\|元认知]]与[[Social-Emotional Learning\|社会情感学习]]策略所依托的非学业[[21st Century Skills and Competencies Discourse\|核心素养]][[Construct\|构念]]。 |
 > | [[Evidence Standards]] | 概念 | 方法学规范；规范 Toolkit 纳入实证[[Document\|文献]]、加权[[Meta-analysis\|元分析]]与证据安全挂锁评级的准则。 |
 > | [[Evidence-Based Education]] | 概念 | 核心思潮；Toolkit 是当代循证教育运动最具辨识度的标志性政策产品。 |

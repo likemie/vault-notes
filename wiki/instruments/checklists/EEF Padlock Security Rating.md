@@ -2,7 +2,7 @@
 title: EEF Padlock Security Rating
 aliases:
   - 挂锁安全评级
-  - EEF 证据安全性评级
+  - 证据安全性评级
   - padlock security rating
   - EEF Padlock Rating
   - 挂锁评级系统
@@ -70,7 +70,7 @@ updated: 2026-09-15
 
 > [!instrument-profile] [[Education Endowment Foundation|EEF]] Padlock Security Rating
 > - **工具类型** 方法学质评核查表与证据安全性评级规程。
-> - **开发者与年份** The Education Endowment Foundation (2019)。
+> - **开发者与年份** The Education Endowment Foundation (2019)，载于《EEF 评估发现安全级别分类指南》（*Classification of the Security of Findings from EEF Evaluations*; The EEF, 2019c）。
 > - **测量目的** 综合评估教育干预现场试验（主要是[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT）与准实验）核心成效结果的[[Causality|因果推断]]可[[Reliability|信度]]与偏倚风险，向学校决策者与政策制定者直观传达证据确定性。
 > - **实施方式** 由独立同行评议专家或评估管理团队对照试验[[Preregistration|预注册]]方案、实施报告与统计分析计划（Statistical Analysis Plan，SAP）进行外部审核评定。
 

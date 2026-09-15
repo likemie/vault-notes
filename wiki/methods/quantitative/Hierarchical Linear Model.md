@@ -25,8 +25,10 @@ related_concepts:
   - "[[Model Dependency]]"
 related_theories: []
 related_methods:
+  - "[[Ordinary Least Squares]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Three-Level Meta-Analysis]]"
+  - "[[Simple Difference in Means Model]]"
   - "[[Covariate Adjustment]]"
   - "[[Standard Error]]"
   - "[[Statistical Significance]]"
@@ -60,7 +62,7 @@ updated: 2026-09-15
 > - **输出形式** 固定效应回归系数 $\gamma$（平均斜率与截距）、随机效应方差分量（$\tau_{00}, \tau_{11}, \sigma^2$）、组内相关系数（ICC / $\rho$）、模型似然比检验（LRT）与拟合优度指数（AIC/BIC）。
 
 > [!citation-card] 多层线性模型在教育试验审计中的聚类校正与制度化定型（Edovald & Nevill, 2021; Xiao et al., 2016）
-> 在杜伦大学学者齐·肖（ZhiMin Xiao）、[[Steve Higgins|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）对 EEF 早期 17 项大规模教育 RCT 进行微观复算时，多层线性模型（HLM）被确立为解决群聚偏误的基准模型。复算显示，教育试验中干预往往以学校或班级为单位实施，同校学生考分表现出不容忽视的组内相关性（ICC 通常在 0.10 至 0.20 之间）。若采用忽略聚类结构的传统 OLS，有效样本量会被严重夸大，标准误大幅低估，产生大量的假阳性显著性（Type I Error）；而 HLM 通过准确建模两级随机效应，提供了诚实反映群聚不确定性的标准误与置信区间。这一研究推动 EEF 制定了《统计分析指南》，强制全英试验主效应分析必须采用多层模型或聚类校正模型。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]
+> 在杜伦大学学者齐·肖（ZhiMin Xiao）、[[Steve Higgins|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）对 EEF 早期 17 项大规模教育 RCT 进行微观复算时，多层线性模型（HLM）被确立为解决群聚偏误的基准模型。复算显示，教育试验中干预往往以学校或班级为单位实施，同校学生考分表现出不容忽视的组内相关性（ICC 通常在 0.10 至 0.20 之间）。若采用忽略聚类结构的传统 OLS，有效样本量会被严重夸大，标准误大幅低估，产生大量的假阳性显著性（Type I Error）；而 HLM 通过准确建模两级随机效应，提供了诚实反映群聚不确定性的标准误与置信区间。这一研究推动 EEF 制定了《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），强制全英试验主效应分析必须采用多层模型或聚类校正模型。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]
 >
 > *“Cluster-level variation is ubiquitous in educational trials. Reanalyses by Xiao et al. (2016) showed that ignoring clustering in regression models inflates Type I errors. Hierarchical linear models partition variance across levels, providing accurate standard errors that reflect the true effective sample size of cluster randomised designs.”*
 
@@ -239,6 +241,6 @@ updated: 2026-09-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 详述了杜伦大学齐·肖（ZhiMin Xiao）等学者对 17 项 EEF 试验开展的多层线性模型并行审计，证明了 HLM 在校正学校与班级集群效应中的不可替代性，直接倒逼出台了英国国家级试验《统计分析指南》。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 详述了杜伦大学齐·肖（ZhiMin Xiao）等学者对 17 项 EEF 试验开展的多层线性模型并行审计，证明了 HLM 在校正学校与班级集群效应中的不可替代性，直接倒逼出台了英国国家级试验《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 批评了国际教育证据清算机构忽视集群随机试验中的 HLM 与 ICC 校正，指出未做多层校正会导致标准误严重低估与虚假显著性。
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 运用三层多层线性模型架构将元分析总变异分解为抽样误差、研究内效应量变异与研究间异质性三层方差。

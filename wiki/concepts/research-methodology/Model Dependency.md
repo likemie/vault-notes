@@ -97,7 +97,7 @@ updated: 2026-09-15
 >     E --> I["置信区间展宽，部分显著性消失"]
 >     F --> J["经验方差替代，点估计漂移"]
 >     G & H & I & J --> K["模型依赖性爆发 (12/17 试验结论分歧)"]
->     K --> L["制度化防范：出台刚性《统计分析指南》"]
+>     K --> L["制度化防范：出台刚性《EEF 评估统计分析指南》"]
 >     L --> M["前置锁定预注册统计分析计划 (SAP)"]
 > ```
 
@@ -123,7 +123,7 @@ updated: 2026-09-15
 > 开放科学研究指出：公开原始微观数据虽然保障了可复现性（Reproducibility），但无法自主解决可比性（Comparability）；唯有剥夺事后自由挑选模型的裁量权，才能维护循证科学的公信力。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021, pp. 52–53)]]
-> **统计分析指南的制度化诞生** 面对 17 项试验复算揭示的模型依赖性危机，EEF 迅速将学术危机转化为治理法典，于 2018 年出台了行业里程碑《统计分析指南》（The EEF, 2018）。该指南硬性确立三条基准：
+> **统计分析指南的制度化诞生** 面对 17 项试验复算揭示的模型依赖性危机，EEF 迅速将学术危机转化为治理法典，于 2018 年出台了行业里程碑《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。该指南硬性确立三条基准：
 > 1. 主效应模型必须强制纳入基线前测成绩作为主要协变量；
 > 2. 强制采用校正组内相关系数的聚类稳健标准误模型；
 > 3. 必须在试验数据解盲前完成统计分析计划（SAP）的公开备案，主分析必须严格执行备案模型，并将其他模型降格为补充敏感性检验。
@@ -146,7 +146,7 @@ updated: 2026-09-15
 > - **1980s — 勒默尔的极端界限分析（Extreme Bounds Analysis）** 经济学家爱德华·勒默尔（Edward Leamer, 1983）发表著名论文《让我们从计量经济学中除去欺瞒》（Let's Take the Con Out of Econometrics），首次系统形式化了“设定依赖性”（Specification Dependence），指出回归模型结果因控制变量的微调而剧烈变动。
 > - **2000s — 多水平模型普及带来的分析分裂** 伴随分层线性模型（HLM）在教育学普及，传统 OLS 与多层模型之间的结果冲突频发，学界开始意识到忽视嵌套结构会导致严重的假阳性。
 > - **2012–2016 — 试验微观数据库支撑下的全量复算** 依托英国 NPD 建立的 105 项 RCT 档案库，杜伦大学方法学团队（Xiao et al., 2016）系统复算 17 项试验，首次在实证上量化了教育现场试验中模型依赖性的发生概率（高达 70%）。
-> - **2018–至今 — 统计分析指南（SAP）时代确立** EEF《统计分析指南（2018）》与 CONSORT-SPI 报告标准的全面融合，标志着国际教育实证科学从允许自由探索模型，正式步入前置锁定分析模型的规约化时代。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021)]]
+> - **2018–至今 — 统计分析指南（SAP）时代确立** 《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）与 CONSORT-SPI 报告标准的全面融合，标志着国际教育实证科学从允许自由探索模型，正式步入前置锁定分析模型的规约化时代。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021)]]
 
 ---
 
@@ -183,5 +183,5 @@ updated: 2026-09-15
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 系统记录杜伦大学利用 NPD 微观数据复算 17 项试验揭示模型依赖性的全过程，阐述其如何直接催生 EEF 官方《统计分析指南》。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 系统记录杜伦大学利用 NPD 微观数据复算 17 项试验揭示模型依赖性的全过程，阐述其如何直接催生《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
 > - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 从二阶元综合的方法学高度，反思原始研究在模型假定上的异质性如何加剧跨干预比较的偏差风险。

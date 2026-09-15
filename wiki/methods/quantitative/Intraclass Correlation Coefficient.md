@@ -26,6 +26,7 @@ related_theories: []
 related_methods:
   - "[[Hierarchical Linear Model]]"
   - "[[Cluster Randomized Trials]]"
+  - "[[Generalized Estimating Equations]]"
   - "[[Ordinary Least Squares]]"
   - "[[Standard Error]]"
 related_instruments: []
@@ -56,7 +57,7 @@ updated: 2026-09-15
 > - **输出形式** ICC 点估计值（介于 0 到 1 之间）、基于 $F$ 分布或似然比检验的显著性 $p$ 值、设计效应（Design Effect）及修正有效样本量。
 
 > [!citation-card] 组内相关系数校正在教育试验审查中的刚性门槛（Edovald & Nevill, 2021; Wadhwa et al., 2024）
-> 在国际教育证据清算中心（如美国 WWC 与英国 EEF）的证据安全评级中，未校正组内相关系数（ICC）被确立为导致试验降级的致命缺陷。教育现场中随机化往往发生在学校层面，若不校正学校间 ICC（英国中小学校际考分 ICC 通常介于 0.10 至 0.20 之间），常规统计模型会将同校学生的共有变异错误视作独立观察自由度，导致标准误被系统性低估 30%–60%，制造大量的伪阳性虚假显著性。杜伦大学对 17 项 EEF 试验的二次复算推动英国全面确立了《统计分析指南》（The EEF, 2018），强制要求所有整群试验主效应分析必须显式建模 ICC 并校正聚类标准误。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 8–10)]]
+> 在国际教育证据清算中心（如美国 WWC 与英国 EEF）的证据安全评级中，未校正组内相关系数（ICC）被确立为导致试验降级的致命缺陷。教育现场中随机化往往发生在学校层面，若不校正学校间 ICC（英国中小学校际考分 ICC 通常介于 0.10 至 0.20 之间），常规统计模型会将同校学生的共有变异错误视作独立观察自由度，导致标准误被系统性低估 30%–60%，制造大量的伪阳性虚假显著性。杜伦大学对 17 项 EEF 试验的二次复算推动英国全面确立了《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），强制要求所有整群试验主效应分析必须显式建模 ICC 并校正聚类标准误。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 8–10)]]
 >
 > *“In education trials, pupils are clustered in classes and schools. If an analysis ignores this clustering, the effective sample size is exaggerated and the standard error is underestimated. Adjusting for the intraclass correlation coefficient is mandatory to prevent spurious statistical significance.”*
 
@@ -211,7 +212,7 @@ updated: 2026-09-15
 > > [!axis] 证据清算中心的 ICC 审查门槛 vs 现场实证研究者的统计遗忘
 > > 评估规范对集群偏倚的严格问责与研究实践中普遍存在的分析单位错位。
 > >
-> > - **证据清算规范（WWC / EEF 门槛）** 坚决执行 ICC 一票否决制。WWC 明确规定，任何集群试验若未校正 ICC，直接剥夺最高证据评级；EEF《统计分析指南》（The EEF, 2018; Demack, 2019）强制要求所有试验方案在 SAP 中预注册 ICC 设定值与校正模型。
+> > - **证据清算规范（WWC / EEF 门槛）** 坚决执行 ICC 一票否决制。WWC 明确规定，任何集群试验若未校正 ICC，直接剥夺最高证据评级；《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018; Demack, 2019）强制要求所有试验方案在 SAP 中预注册 ICC 设定值与校正模型。
 > > - **实地发表实践缺陷** [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 针对全球 12 所清算中心的元审查揭示：除 WWC 外，多数教育数据库（如 NDPC、CASEL）对 ICC 校正视而不见，大量未做校正的假阳性试验被误评为“有效”，深刻揭示了循证界内部的标准割裂。
 
 ---
@@ -234,5 +235,5 @@ updated: 2026-09-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 详述了 EEF 试验复算审计推动出台国家级《统计分析指南》（The EEF, 2018），确立强制采用组内相关系数（ICC）与聚类稳健标准误模型（Demack, 2019）的技术准则。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 详述了 EEF 试验复算审计推动出台国家级《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），确立强制采用组内相关系数（ICC）与聚类稳健标准误模型（Demack, 2019）的技术准则。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 详析全球 12 所证据清算中心在集群随机试验审查中的分歧，批判了忽视 ICC 校正与分析单位错位导致虚假显著性的普遍现象。

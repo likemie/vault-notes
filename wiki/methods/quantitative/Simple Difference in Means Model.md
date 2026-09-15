@@ -25,6 +25,8 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Ordinary Least Squares]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Covariate Adjustment]]"
   - "[[Analysis of Covariance]]"
 related_instruments: []
@@ -187,7 +189,7 @@ updated: 2026-09-15
 > > 证据学界围绕试验分析是否应坚持最简均值比较的争论。
 > >
 > > - **极简无参派观点** 坚持认为简单均值比较完全不依赖任何线性函数形式假设，彻底杜绝了分析师通过挑选协变量（$p$-hacking）操纵显著性的可能，是保持试验绝对客观公信力的防线。
-> > - **现代计量与循证派抗辩** 认为在具备预注册统计分析计划（SAP）的前提下，研究者自由度已被有效封死；强行采用简单均值比较会白白丢弃基线前测的巨大解释力，导致大量真正有效的微弱教育创新因统计功效不足而被误杀。肖等学者（Xiao et al., 2016）利用 NPD 微观数据的复算无可辩驳地证明了这一点，推动了英国《统计分析指南》对协变量调整的强制要求（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]]）。
+> > - **现代计量与循证派抗辩** 认为在具备预注册统计分析计划（SAP）的前提下，研究者自由度已被有效封死；强行采用简单均值比较会白白丢弃基线前测的巨大解释力，导致大量真正有效的微弱教育创新因统计功效不足而被误杀。肖等学者（Xiao et al., 2016）利用 NPD 微观数据的复算无可辩驳地证明了这一点，推动了英国《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）对协变量调整的强制要求（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]]）。
 
 ---
 

@@ -73,10 +73,10 @@ updated: 2026-09-15
 > [!person-profile] 人物档案
 > - **身份位置** 英国杜伦大学教育学院教育学教授（Professor of Education, Durham University），英国[[Evidence-Based Education|循证教育]]、[[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]方法论权威专家。
 > - **核心角色** [[Sutton Trust|萨顿信托]]（[[Sutton Trust]]）与英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]）旗舰项目[[EEF Teaching and Learning Toolkit|教学与学习工具包]]的领衔主持学者；开创以“进展月数”（Months of Progress）表征[[Effect Size|效应量]]的循证[[Transfer Translation Transformation|转译]]模式；通过对 17 项早期 [[Randomised Controlled Trials|RCT]] 微观数据的二次复算揭示统计模型依赖性（model dependency），成为推动教育试验分析标准化的核心学者。
-> - **代表贡献** 领衔研制[[EEF Teaching and Learning Toolkit|教学与学习工具包]]、首创“进展月数”效应量转化指标、与合作者系统复算 17 项试验揭示模型依赖性并推动 EEF 出台《统计分析指南（2018）》。
+> - **代表贡献** 领衔研制[[EEF Teaching and Learning Toolkit|教学与学习工具包]]、首创“进展月数”效应量转化指标、与合作者系统复算 17 项试验揭示模型依赖性并推动 EEF 出台《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
 
 > [!citation-card] 杜伦大学团队对 17 项试验的复算审计与模型依赖性发现（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]]）
-> 得益于 EEF 依托英格兰[[National Pupil Database|国家学生数据库]]（NPD）建立的微观试验档案库，杜伦大学学者齐·肖（ZhiMin Xiao）、史蒂夫·希金斯（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）获得了对 17 项早期完成的 RCT 试验微观原始数据进行二次审计的机会。复算揭示了惊人的敏感性：在 17 项试验中，多达 12 项试验的点估计效应量或其[[Statistical Significance|统计显著性]]在不同统计模型间发生了漂移与突变……杜伦大学团队的实证发现直接推动 EEF 于 2018 年出台了具有行业规范里程碑意义的《统计分析指南》。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 52)]]
+> 得益于 EEF 依托英格兰[[National Pupil Database|国家学生数据库]]（NPD）建立的微观试验档案库，杜伦大学学者齐·肖（ZhiMin Xiao）、史蒂夫·希金斯（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）获得了对 17 项早期完成的 RCT 试验微观原始数据进行二次审计的机会。复算揭示了惊人的敏感性：在 17 项试验中，多达 12 项试验的点估计效应量或其[[Statistical Significance|统计显著性]]在不同统计模型间发生了漂移与突变……杜伦大学团队的实证发现直接推动 EEF 于 2018 年出台了具有行业规范里程碑意义的《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 52)]]
 >
 > *“ZhiMin Xiao, Steve Higgins, and Adetayo Kasim had the opportunity to re-analyze raw data from 17 completed EEF trials... Twelve of the 17 evaluations were sensitive to the model used... This directly informed the EEF's Statistical Analysis Guidance 2018.”*
 
@@ -89,7 +89,7 @@ updated: 2026-09-15
 > - **2011** 受[[Sutton Trust|萨顿信托]]（[[Sutton Trust]]）委托，领衔杜伦大学研究团队编制指导学校有效使用“[[Pupil Premium|学生津贴]]”（[[Pupil Premium]]）的[[Abstract|研究摘要]]，成为后续国家级工具包的雏形。
 > - **2011–2016** 伴随英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]）设立，担任[[EEF Teaching and Learning Toolkit|教学与学习工具包]]首席主持学者，开创了将抽象标准化[[Effect Size|效应量]]转化为通俗“进展月数”的循证决策[[Transfer Translation Transformation|转译]][[Paradigm|范式]]。
 > - **2016** 在 *Review of Education* 发表专题长文，系统阐述[[Meta-meta-analysis|元综合]]与跨元分析比较的方法论风险与决策价值，为工具包的整合逻辑构建了辩护框架（[[Argument_Higgins_2016_RE|Higgins, 2016]]）。
-> - **2016** 与齐·肖（ZhiMin Xiao）及阿迪特·卡西姆（Adetayo Kasim）利用[[National Pupil Database|国家学生数据库]]微观数据，全量复算 17 项 EEF 试验，揭示模型依赖性现象，成果直接转化为 EEF 2018 年《统计分析指南》的制度约束（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 52]]）。
+> - **2016** 与齐·肖（ZhiMin Xiao）及阿迪特·卡西姆（Adetayo Kasim）利用[[National Pupil Database|国家学生数据库]]微观数据，全量复算 17 项 EEF 试验，揭示模型依赖性现象，成果直接转化为《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）的制度约束（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 52]]）。
 > - **2017** 其领衔的工具包受到杜伦大学同僚[[Adrian Simpson|阿德里安·辛普森]]（Adrian Simpson）在 *Journal of Education Policy* 上的尖锐技术批判，引发关于效应量灵敏度操纵与干预联盟表有效性的广泛方法论大讨论（[[Argument_Simpson_2017_JEP|Simpson, 2017]]）。
 
 ---
@@ -123,13 +123,13 @@ updated: 2026-09-15
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **方法路径** 推动了教育实证研究对“模型依赖性”的深度反思，其复算审计促成了 [[Education Endowment Foundation|EEF]]《统计分析指南（2018）》的出台，将[[Preregistration|预注册]]统计分析计划（SAP）和模型敏感性分析确立为全球教育试验的黄金行业准则。
+> - **方法路径** 推动了教育实证研究对“模型依赖性”的深度反思，其复算审计促成了《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）的出台，将[[Preregistration|预注册]]统计分析计划（SAP）和模型敏感性分析确立为全球教育试验的黄金行业准则。
 > - **政策与[[Transfer Translation Transformation|转译]]路径** 领衔研制的[[EEF Teaching and Learning Toolkit|教学与学习工具包]]覆盖英格兰逾 70% 的中学校长，深度重塑了数十亿英镑[[Pupil Premium|学生津贴]]的财政资源配置取向。
 > - **跨国传播** 工具包架构被澳大利亚（Evidence for Learning）、拉丁美洲及全球证据中介机构（[[What Works Network]]）广泛[[Going Native|本土化]]引介，成为[[International Education|国际教育]]循证综合的标准模板。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]综合的方法论风险与政策转译价值，奠定工具包的学理基础。
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 详细记录 Higgins 等人对 17 项早期试验的二次复算如何揭示模型依赖性并催生 EEF 官方统计分析指南。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 详细记录 Higgins 等人对 17 项早期试验的二次复算如何揭示模型依赖性并催生《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
 > - [[Argument_Simpson_2017_JEP|Simpson (2017)]] — 杜伦大学同僚 Simpson 对 Higgins 领衔的工具包提出尖锐批判，指责[[Effect Size|效应量]]排序混淆了试验敏感度操纵与教学有效性。
 
 ---

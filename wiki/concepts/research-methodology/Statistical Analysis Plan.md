@@ -138,7 +138,7 @@ updated: 2026-09-15
 > - **1990s — 国际人用药品技术要求协调会（ICH E9）确立规范** 国际医药监管机构发布 ICH E9《临床试验的统计原则》，首次在法规层面上确立了必须在试验双盲揭开前锁定 SAP 的法定要求。
 > - **2000s — 医学向社会科学扩散受阻** 尽管流行病学与医学试验普及了 SAP，但社会科学与教育学界长期认为社会情境干预过于复杂，抗拒采用机械的先验计划，导致教育试验深陷“抽屉问题”与假阳性危机。
 > - **2013 — EEF 首创教育评估 SAP 制度化模板** 英国 EEF 基于 CONSORT 标准（Shulz et al., 2010），编制了全球首个专用于教育现场试验的方案与 SAP 模板，开辟了教育实证治理先河。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 52)]]
-> - **2018 — 跨领域国际标准 CONSORT-SPI 与行业指南集成** 伴随 CONSORT-SPI（Montgomery et al., 2018）与 EEF《统计分析指南（2018）》的发布，SAP 正式从个别机构探索演化为全球复杂社会干预报告的黄金行业基准。
+> - **2018 — 跨领域国际标准 CONSORT-SPI 与行业指南集成** 伴随 CONSORT-SPI（Montgomery et al., 2018）与《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）的发布，SAP 正式从个别机构探索演化为全球复杂社会干预报告的黄金行业基准。
 
 ---
 
