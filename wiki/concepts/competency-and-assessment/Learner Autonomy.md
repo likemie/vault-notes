@@ -2,115 +2,230 @@
 title: Learner Autonomy
 aliases:
   - 学习者自主性
-  - learner autonomy
-  - autonomy in learning
-  - autonomous learner
   - 自主学习
-summary: "学习者对自身学习过程承担责任的能力与意愿，包括批判性反思、元认知意识和自我调节，是课程培养学生独立思考的核心目标之一"
+  - autonomy in learning
+  - autonomous learning
+summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学解耦并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/autonomy
   - theme/critical-thinking
   - theme/metacognition
   - theme/curriculum
+  - theme/instructional-design
 related_concepts:
-  - "[[Received Knowledge]]"
-  - "[[Creativity]]"
-  - "[[Dialogue in Education]]"
   - "[[Metacognition]]"
-  - "[[Critical Thinking]]"
+  - "[[Received Knowledge]]"
+  - "[[Cognitive Offloading]]"
+  - "[[Dialogue in Education]]"
+  - "[[Lost Mode]]"
+  - "[[Structured Teaching]]"
+  - "[[Scaffolding]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
-  - "[[Reflexivity]]"
-  - "[[IB Learner Profile]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[Knowledge Production]]"
-  - "[[Necessary and Sufficient Conditions]]"
-  - "[[IB Diploma Programme]]"
-  - "[[Higher-Order Thinking Skills]]"
+  - "[[Epistemological Vigilance]]"
+  - "[[Variable]]"
 related_theories:
-  - "[[Explicit Critical Thinking Instruction]]"
+  - "[[Radical Constructivism]]"
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Randomised Controlled Trials]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Lakhani_2012_AKUIED]]"
+  - "[[Argument_Edovald_Nevill_2021_ROE]]"
   - "[[Argument_Cole_2015_AJE]]"
-confidence: medium
-status: draft
+  - "[[Argument_Håkansson_2015_TT]]"
+  - "[[Argument_Li_2026_CEAI]]"
+confidence: high
+status: active
 created: 2026-07-02
 updated: 2026-09-15
 ---
 
 # Learner Autonomy
+（学习者自主性）
 
 ---
 
 ## 定义
 
 > [!def] 核心定义
-> 学习者自主性（learner autonomy）是学习者对自身学习过程承担责任的能力与意愿。Holec（1988）将其定义为"为自己的学习负责"（taking charge of one's own learning, p. 3）。Dam（1995）进一步补充了准备度（readiness）概念——自主性既包含独立和在合作中行动的能力（capacity），也包含内在动机或意愿强度（willingness）。
+> 学习者自主性（Learner Autonomy）指学习者在明确目标与系统支架支持下，对自身学习过程主动承担责任、进行批判性反思与[[Metacognition|元认知]]监控的能力与意愿。Holec（1988）最早将其奠基性地定义为“掌控自身学习的能力”（taking charge of one\x27s own learning）；Dam（1995）进一步补充了“准备度（Readiness）”维度——自主性既包含独立行动及在社会协作中行动的实际技能（Capacity），亦包含持续的内在动机与探索意愿（Willingness）。在当代因果现场试验中，自主学习被重新确认为需与教师支架解耦分析的特定教学机制，其有效性高度依存于外部支架与学生自我调节水平的动态匹配。[[Argument_Lakhani_2012_AKUIED|(Lakhani, 2012, pp. 177–178)]]; [[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 学习者自主性指向学习者从被动[[Received Knowledge|接收知识]]转向主动管理学习过程的能力，包括设定目标、选择策略、监控进度和评估结果。它不是孤立学习，而是在社会互动中实现的有支持的独立。
-> - **用途** 自主性为教育者提供评估课程是否真正培养独立思考能力的框架——不仅看学生学到了什么知识，更看学生能否主动提问、独立探究和[[Creativity|创造性]]表达。
-> - **边界** 自主性不等于完全孤立的学习或无结构的自由。自主学习者仍然依赖课堂互动、教师指导和同伴[[Dialogue in Education|对话]]来发展能力；自由若无相应技能支撑，反而会失去其教育价值。
+> - **含义** 学习者自主性标志着学习者从被动[[Received Knowledge|接收知识]]转向主动驾驭知识建构过程，涵盖自主设定目标、选择策略、反思进度与评估成效。它并非脱离环境的绝对独白，而是在社会互动中达成的有支持的独立（Supported Independence）。
+> - **用途** 在课程与教学论中作为评估教育方案是否真正促成高阶思维养成的金标尺；在教育技术评估与因果现场试验中，作为检验在线软件独立自学与教师课堂辅导相对贡献的干预维度。
+> - **边界** 自主性绝不等于放任自流的“去结构化个别化学习（Unguided Individualisation）”，亦非单打独斗的孤立封闭自习。缺乏认知技能与元认知监控的表面自由，极易诱发认知过载或[[Cognitive Offloading|认知卸载]]。
+
+> [!citation-card] 自主性的相互依存性（Little, 1991; Atkins, 2009）
+> 学习者的自主性绝不意味着孤立排他的个人主义自学。即便学习者独立解读个人经验，这些经验依然深深扎根于社会文化网络中；真正的自主唯有在与教师、同伴的持续对话与反思互动中方能生成。自主性在本质上是一种相互依存的实践状态。[[Argument_Lakhani_2012_AKUIED|(Lakhani, 2012, p. 178)]]
+>
+> *“Learner autonomy is not synonymous with self-instruction or isolated learning... Even as learners independently interpret experiences, these remain rooted in social interactions. It represents an autonomous interdependence.”*
+
+> [!citation-card] 技术软件自主学习与教师主导辅导的因果剥离（McNally et al., 2018; Edovald & Nevill, 2021）
+> 在大规模因果评估中，复杂干预常常将技术软件自主学习与面对面教学混杂在一起。通过多臂析因现场试验，研究者得以清晰剥离技术工具辅助下的学生自主学习与教师直接教学辅导的独立效应与交互效应。实证数据表明：唯有将软件自主操作与结构化教师引导有机结合，而非孤立推行纯粹的算法自学，方能产生显著的阅读学业增益。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
+>
+> *“In factorial evaluations like ABRA, evaluators separated the independent and interaction effects of pupil-led autonomous learning via educational technology from teacher-led structured instruction... unpicking the black box of multi-component interventions.”*
+
+> [!boundary]- 概念边界辨析
+> - **不等于完全孤立自学（Isolated Self-Study）** 孤立自学缺乏社会交往与外部参照；学习者自主性强调在社会文化情境中通过师生[[Dialogue in Education|对话]]、同伴互助反思达成“自主的相互依存（Autonomous Interdependence）”。
+> - **不等于缺乏支架的放任个别化（Unguided Individualisation）** 瑞典教育改革教训表明（Håkansson, 2015a），如果仅将课堂时间全盘交给学生自学排期而剥夺教师的结构化领导，基础薄弱学童将陷入“[[Lost Mode|迷失]]”与成绩暴跌。
+> - **不等于机械的算法软件刷题（Automated Drill）** 仅遵照自适应学习机程序机械完成关卡任务属于行为主义的受控反应，并不具备主动设定探究假说、批判反思意义与反身性调节的高阶自主性。
+
+---
+
+## 概念辨析
+
+> [!contrast-table] 学习者自主与相关教学组织模式对比
+> | 比较维度 | **学习者自主性（Learner Autonomy）** | **孤立自学（Isolated Self-Study）** | **[[Structured Teaching\|结构化教学]]（Structured Teaching）** | **放任式个别化（Unguided Individualisation）** |
+> |---|---|---|---|---|
+> | **核心属性** | 具备元认知意识与批判反思的能动自我调节 | 脱离组织环境与人际交互的个人自主阅读 | 教师清晰目标引导与高能动互动的动态平衡 | 放弃教师组织责任、全盘推给学生的自由放任 |
+> | **支架角色** | 依赖渐退式认知脚手架（[[Scaffolding\|Scaffolding]]）达成独立 | 缺乏外部过程性支架，全凭个体先验摸索 | 教师主导搭建分步量规与反思反馈支架体系 | 抽离外部支架，假定学生天生具备自律与规划力 |
+> | **社会互动性** | 高度社会化，在探究对话与同伴质询中建构 | 极低，属于封闭独白式信息获取 | 高度双向，倡导活跃的课堂研讨与人机协同 | 碎片化，学生各自为政，课堂缺乏公共对话 |
+> | **适用边界与风险** | 需前置培养认识论自信，否则面临自由失效 | 缺乏校准机制，易产生理解偏差与倦怠 | 过度程序化易滑向刻板直接教学，需动态调控 | 严重拉大阶层鸿沟，基础脆弱学生“表面自由、实际掉队” |
 
 ---
 
 ## 核心要素
 
-> [!feature] 自主性的关键特征
-> - **内部反思（Internal Reflection）** 自主性体现在个体的信念和欲望是"理性和知情反思"的结果（Carter, Kramer, & Steiner, 2007, p. 323）。学习者不是被动接受信息，而是经过反思后形成判断和选择。
-> - **[[Metacognition|元认知]]意识（Metacognitive Awareness）** 自主性要求对自身认知的"意识"——关注和自评自己知道什么、正在做什么、认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。这种意识使学习者能够做出知情的决策并有效利用可用资源。
-> - **能力（Capacity）** 学习者需要具备独立执行任务的能力，包括[[Critical Thinking|批判性思维]]、分析性写作和决策等技能（Little, 2007）。
-> - **意愿与动机（Willingness & Motivation）** 仅有能力不够，还需内在动力来主动管理学习过程（Dam, 1995）。
+> [!feature] 学习者自主性的四大核心支柱
+> - **内部反思与批判性判断（Internal Reflection & Critical Judgment）** 自主性表现为个体的信念与行为选择是“理性和知情反思”的结果（Carter et al., 2007, p. 323）。学习者拒绝盲从外部权威与算法输出，能够批判性审查自身假设并做出独立裁量。[[Argument_Lakhani_2012_AKUIED|(Lakhani, 2012, p. 177)]]
+> - **[[Metacognition|元认知]]意识与自评监控（Metacognitive Awareness & Monitoring）** 对自身认知状态具备高度警觉——清晰洞悉“自己已知何物、正在采取何种策略、遇到了何种认知卡点”，并能依据表现动态修正探究路径（Hacker & Dunlosky, 1998; Wenden, 1991）。
+> - **行动能力与探究技能（Capacity for Action & Inquiry）** 学习者掌握将抽象意愿转化为具体学术产出的工具性技能，包括分析性阅读、假设提出、因果推理与论据综合（Little, 2007）。
+> - **内在意愿与自律动机（Willingness, Motivation & Readiness）** 摆脱外在金钱奖惩与被动问责驱动，源自对真理探究的内在好奇心、自我效能感与自发承担探究责任的心理准备度（Dam, 1995）。
 
-> [!feature] 自主学习者特征（Chan, 2001）
-> - **高度动机（Highly Motivated）** 对学习本身有内在兴趣，而非仅追求外部评价。
-> - **好奇心强（Inquisitive）** 主动追问、寻找超出课堂内容的信息和解释。
-> - **组织有序（Well-organized）** 能够规划和管理自己的学习任务与资源。
-> - **主动发起（Active Initiators）** 不等待教师指令，主动寻找学习机会。
-> - **灵活（Flexible）** 根据情境调整学习策略和方法。
-> - **利用一切学习机会（Use Every Opportunity to Learn）** 将日常经验和社会互动都视为学习资源。
-
----
-
-## 自主性发展的条件
-
-> [!claim] 自主性通过两条路径发展
-> [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]]通过对 IB [[Theory of Knowledge|知识论]]课程的研究提出，学习者自主性通过两个过程/条件实现：一是通过提供[[Critical Thinking|批判性思维]]的知识和技能来发展能力；二是学习者对自身批判性反思和意义建构能力建立自信（pp.177–178）。
-
-> [!chain-link] 自主性发展路径
-> - **能力建设** 课程通过[[Epistemology|认识论]]知识帮助学生进行分析性思考。知识论（TOK）鼓励对信念和知识主张进行质疑和辩护（Little, 1991），将自主性视为批判性反思的能力。
-> - **自信建立** 当学习者对自己的批判性反思能力有信心时，他们更愿意承担风险、[[Creativity|创造性]]表达观点、珍视自己的问题并信任独立探究的价值。
-> - **自主的相互依存性** 即使学习者独立解读个人经验，这些经验仍根植于社会互动。学习者需要课堂空间进行互动、讨论和[[Dialogue in Education|对话]]——阅读不是自主学习经验的终点。Atkins（2006/2009）将这一特征称为"自主的相互依存性"（autonomous interdependence）。
-
-> [!warning] 能力不足时自由的失效
-> 当学习者缺乏处理自由所需的技能时，自由思考就失去了效用。缺乏自信的学习者即使掌握内容知识，也可能无法将知识转化为有组织的知识产品。他们需要外部支持和确认，过度依赖监督和同伴做法来指导自己的行动（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.176]]）。
+> [!feature] 自主学习者的典型行为特征（基于 Chan, 2001）
+> 1. **高度内在动机（Highly Motivated）** 探索乐趣源于智识挑战本身而非外在分数评级；
+> 2. **好奇探究心（Inquisitive）** 习惯追问底层机理，不满足于死记教科书标准答案；
+> 3. **自律组织力（Well-organized）** 能够科学规划任务时间表、拆解长效里程碑与管理学习资源；
+> 4. **主动发起者（Active Initiators）** 善于主动设定探究议题与发起同伴研讨，拒绝被动等待指令；
+> 5. **策略灵活性（Flexible）** 当既定方案受阻时，能够敏捷调整认知策略与技术工具；
+> 6. **泛在学习迁移（Opportunistic Learners）** 将日常社会经验、数字环境与课堂争议均转化为深层反思素材。
 
 ---
 
 ## 围绕概念形成的命题
 
-> [!claim] 课程可以通过[[Epistemology|认识论]]训练培养自主性
-> IB 的[[Theory of Knowledge|知识论]]（TOK）课程通过要求学生反思"我们如何知道我们所知道的"，系统性地训练了批判性反思和[[Metacognition|元认知]]意识。学生在 TOK 中发展出提问、[[Reflexivity|反思性]]思考和[[Creativity|创造性]]沟通的能力，这些角色——探究者、思考者、风险承担者、反思者和创造者——直接对应 IB [[IB Learner Profile|学习者培养目标]]中的描述（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, pp.177–178]]）。
+---
 
-> [!claim] 自主性与[[Constructivist Paradigm|建构主义]]学习相互支撑
-> 认知失衡（disequilibrium）对建构主义学习至关重要，而正是学习者在[[Knowledge Production|知识建构]]中的能动性提出了解决方案（Moon, 2008）。教师需要先让学生安心——知识必然会产生悖论，因为不和谐是建构主义学习的[[Necessary and Sufficient Conditions|必要条件]]。同时，学生应意识到不存在唯一正确答案，重要的是智识上的严谨性（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.178]]）。
+### 命题一　认识论训练与元认知反思自信是发展实质性自主性的心理基石
+
+> [!concept-lens] 批判性思维与自主性生成的深层机制
+> 探讨自主性并非单纯的“行为自由”，而是通过认识论训练建立批判反思能力与意义建构自信的高阶心智成果。
+
+> [!claim] [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]]
+> **能力与自信的双轨生成模型** 基于国际文凭（IB）[[Theory of Knowledge|知识论]]（TOK）课程的质性实证表明，学习者自主性必须通过两条相辅相成的路径实现：其一是通过显性批判性思维与[[Epistemology|认识论]]分析工具武装学生的认知能力；其二是通过持续反思训练，让学生对自身的独立判断与意义建构能力建立坚定的心理自信。缺乏自信的学生即便掌握内容知识，在面对自由探究时也会陷入恐慌，过度依赖外部指令与权威背书。（pp. 176–178）
+
+> [!claim] [[Argument_Cole_2015_AJE|Cole et al. (2015)]]
+> **显性认识论训练对自主思维的激活** 对澳大利亚 IB DP 毕业生的跨校实证评估证实，系统经历知识论认知洗礼的学生表现出更强的高阶推理技能、问题意识与跨学科探究主动性，验证了显性元认知课程设计对塑造终身自主学习能力的深层因果贡献。
 
 ---
 
-## 与批判性思维的关系
+### 命题二　技术辅助的自主学习与教师结构化指导具备异质机制，需通过析因试验剥离交互效应
 
-自主性与[[Critical Thinking|批判性思维]]紧密关联：自主性实践要求学习者能够批判性地反思自身信念和知识主张。Little（1991）将自主性视为"批判性反思的能力"。[[Theory of Knowledge|知识论]]（TOK）课程作为IB 的[[Explicit Critical Thinking Instruction|显性批判性思维教学]]载体，其核心设计——质疑信念、反思日常经验、[[Creativity|创造性]]沟通——直接服务于自主性的培养。
+> [!concept-lens] 现代因果评估中自主学习的机制解构
+> 探讨教育干预中“学生自主利用软件学习”与“教师直接教学辅导”的独立贡献，以及析因设计在解开自主学习黑箱中的方法学价值。
+
+> [!claim] [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]]; McNally et al. (2018)
+> **多臂析因设计下的自主效应剥离** 复杂教育干预往往将软件自主训练与教师辅导打包递送，导致无法厘清何者起效。在覆盖全英小学的 ABRA 在线阅读多臂 RCT 中，评估团队通过析因架构将“学生在技术软件支持下的自主学习”与“教师面对面的结构化小步教学辅导”完全拆解。实证表明：技术工具驱动的自主探究与教师人际指导各自发挥了异质性的因果中介作用，两者的协同交互显著优于单一孤立的软件自学，证明技术环境下的学习者自主性必须与教师人际支架紧密结合、相互支撑。（pp. 53–54）
+
+---
+
+### 命题三　缺乏认知支架的去结构化环境诱发认知过载与弱势学童的“伪自主掉队”
+
+> [!concept-lens] 激进自主主张在实证政策田野中的现实触礁
+> 探讨过度崇拜学生完全自决如何导致认知负荷失控、算法心智侵蚀与教育不平等的恶化。
+
+> [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]
+> **去结构化个别化改革的学业危机** 瑞典自 1990 年代起在建构主义浪潮下大规模推行让学生全盘自主安排进度的极端个人化自学模式，取消了教师的强结构引导。大规模比较元综合表明，该政策引发了灾难性的“假自主、真掉队”：对于家庭缺乏学术资本、元认知储备不足的弱势儿童，无支持的自由直接转化为认知迷失与学业崩溃，成为导致瑞典 PISA 成绩长期滑坡的核心制度诱因。（pp. 586–587, 594–595）
+
+> [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
+> **算法交互中的认知卸载陷阱** 在缺乏反思提示与批判性量规的非结构化技术环境中，所谓的“自主探索”往往迅速蜕化为投机取巧的[[Cognitive Offloading|认知卸载]]：学生全盘依赖生成式 AI 产生终稿，表面上维持了高效独立交差的伪自主，实质上导致深层批判性思维与创造性心智的严重侵蚀。（pp. 9–11）
+
+---
+
+### 命题总览
+
+> [!contrast-table] 学习者自主性三大理论命题比较
+> | 命题维度 | 核心论断 | 因果作用机制 | 代表文献与实证载体 |
+> |---|---|---|---|
+> | **认识论与元认知基石** | 自主性取决于批判思维能力与意义建构自信的双轨养成。 | 知识论探究破除被动接受，反思训练激活风险承担与自主表达。 | [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]]; [[Argument_Cole_2015_AJE|Cole et al. (2015)]] |
+> | **技术析因机制解耦** | 软件自主学习与教师主导教学存在异质效应与协同红利。 | 多臂析因试验剥离独立因果贡献，揭示软件自主需人际支架互补。 | McNally et al. (2018); [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] |
+> | **支架缺失的掉队代价** | 缺乏结构支持的极端自由导致认知过载与弱势学童掉队。 | 去结构化环境抽离安全边界，引发算法心智外包与阶层差距扩大。 | [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]; [[Argument_Li_2026_CEAI|Li et al. (2026)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 学习者自主性概念演进脉络
+> - **1970s–1980s — 欧洲成人与应用语言学奠基** 法国南锡大学 CRAPEL 中心（Holec, 1981）首次系统提出自主学习理论，旨在打破传统以教师为中心的语言灌输，确立学习者自我规划、执行与评估的主体地位。
+> - **1990s — 课堂反思、元认知与社会相互依存转向** Little (1991) 与 Dam (1995) 丰富了自主性的理论内涵，指出自主性并非个人主义的孤独学习，而是建立在内部反思、元认知自评与同伴对话互动之上的“相互依存的自主”。
+> - **2010s — 国际文凭（IB）跨学科素养与认识论深化** [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] 与 [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 将自主性拓展为现代教育的核心素养，依托 IB 知识论（TOK）课程揭示认识论严谨性与元认知自信对培养自主思考者的决定性价值。
+> - **2018 — 大规模现场因果试验对自主学习的实证解构** EEF 在全英小学开展 ABRA 在线阅读多臂集群 RCT（McNally et al., 2018; Edovald & Nevill, 2021），运用析因设计将技术软件支持的自主学习与教师课堂辅导进行实验性剥离，终结了对自主学习的抽象哲学清谈。
+> - **2020s — 智能技术整合与认识论自主（Epistemic Autonomy）** 伴随生成式 AI 普及，自主性研究转向探讨如何在算法便利诱惑下维持[[Epistemological Vigilance|认识论警觉]]，防范认知卸载，构建自适应专业特长（Li et al., 2026）。
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议
+>
+> > [!axis] 激进自由自主 vs 动态支架渐退指导
+> > [[Radical Constructivism|激进建构主义]]主张最大程度撤除教师干预以实现真正的学生自决；教学论与认知负荷学者则指出无指导的自由在现实田野中必定导致灾难。
+> >
+> > - **建构主义主张** 强调认知不平衡与自主探索是知识建构的唯一动力（Moon, 2008）。
+> > - **实证证据反驳** 瑞典大规模改革教训（Håkansson, 2015a）表明，教师必须在前置阶段提供高强度的结构化目标与示范，随素养提升逐步撤回支架，方能平稳孕育实质自主。
+>
+> > [!axis] 个体自决主权 vs 社会情境相互依存
+> > 早期认知派倾向将自主性视为个体头脑内部的孤立意志；社会文化派则强调自主性是特定社群互动的产物。
+> >
+> > - **Atkins (2009) 与 Little (2007)** 提出“自主的相互依存性”，证明即使是最私密的独立阅读与思考，其反思尺度与意义赋予依然依存于课堂对话与公共批判共同体。
+>
+> > [!axis] 技术工具自主神话 vs 教师人际引领不可替代论
+> > 技术乌托邦主义宣称自适应算法软件可完全替代教师、实现百分之百的个性化自主学习；循证因果评估则证明了软件的边界。
+> >
+> > - **McNally et al. (2018) 与 [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]]** 实证证实，脱离教师辅导与人机协同的纯粹软件自学成效极低，真正的高阶效应源于软件自主与教师教学支架的紧密嵌套。
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]]; McNally et al. (2018) | 英格兰小学学童（ABRA 在线阅读试验） | 2x2 析因整群 [[Randomised Controlled Trials\|RCT]] | 技术软件辅助自主学习、教师直接小步辅导、阅读理解与流利度 | 多臂析因比较证实：单独使用技术软件自主自学组取得微弱正向增益，但与教师面对面结构化辅导相结合的多组分臂产生最大协同效益；系统剥离了技术自主与教师直接教学的独立因果贡献 | $p < .05$ | 证实教育技术支持的学习者自主学习绝非孤立替代品，其因果潜能高度依赖于教师人际支架的协同配合 |
+> | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] | 某国际学校 12 年级高中生与知识论（TOK）教师 | 质性个案研究（课堂深度观察、师生半结构访谈与文本分析） | 认识论批判反思、自我效能感、探究自信、自主学习行为 | 深度追踪显示：TOK 课程的驳诘性质问使学生突破“被动接收者”角色，在认识论训练与反思自信共同成熟后，学生在日常探究中展现出高水平的独立选题、多重论证与自我调节行为 | 质性三角互证可靠 | 阐明自主性发展并非自发涌现，必须以系统的批判性反思知识和能力建设为前提 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 澳大利亚私立与公立学校高中毕业生（$N = 432$） | 准实验对照设计与结构方程模型 | 批判性思维（WGCTA 测验）、探究主动性、学术成就 | 经历 TOK 课程训练的学生在推理独立性、证据权衡及自主探究取向上的标准化得分显著高于对照组 | $p < .01$ | 为课程促进学习者批判性自主思维提供了量化证据支撑 |
+> | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] | 瑞典本土与国际 43 项教学综述 | 比较性元综合（Comparative Meta-synthesis） | 课堂个人化自学比例、教师课堂领导力、PISA 学业产出 | 长期实证汇总表明：缺乏教师支架引导的激进自学使得课堂安静但思维浅表化，弱势群体掉队率显著攀升，全面颠覆了“去结构化等同于优质自主”的教条假设 | 跨国趋势高度一致 | 确立自主性必须在教师清晰结构与支架引领下渐进释放的方法学铁律 |
+
+---
+
+## 应用案例
+
+> [!example] 典型教学与干预案例
+> - **国际文凭（IB）知识论课程对自主探究的培养机制（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012]]）**
+>   - **打破标准答案迷思** 教师通过展示同一历史事件的多重矛盾史料，引导学生经历认知不协调，认识到知识的主观建构性与多元视角；
+>   - **学生主导的探究展示** 要求学生自主从现实生活争议（如算法伦理、艺术真实性）中提炼知识问题（Knowledge Questions），并独立设计辩护框架，由教师退居倾听者与同伴反驳者；
+>   - **元认知日志反思** 记录自身观点从“二元对立”向“审慎包容”演化的心智轨迹，确立深层智识自主。
+> - **英国 EEF ABRA 在线阅读多臂试验中的自主—支架协同（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]]）**
+>   - **软件独立自学阶段** 学生每日在电脑端自主完成 15 分钟基于语音识别与交互游戏的拼读闯关任务，软件提供即时正误反馈与自适应进度推演；
+>   - **教师深度介入与反思收束** 教师每周两次调取后台学习日志，对学生在自主闯关中遭遇的核心拼读瓶颈进行 20 分钟面对面结构化点拨，成功化解软件自学的疲劳与迷失效应。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 检验澳大利亚 [[IB Diploma Programme|IB DP]] 中 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系，间接涉及自主性学习者的[[Higher-Order Thinking Skills|高阶思维]]培养。
+> - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 质性剖析 IB 知识论课程如何通过认识论批判反思与元认知自信建设双轨路径培育实质性学习者自主。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 量化评估 IB 课程对学生批判性思维与独立探究能力的长期因果促进效应。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 总结 EEF 多臂析因试验（如 ABRA 试验）经验，实证解构技术软件自主学习与教师主导辅导的独立效应与交互机制。
+> - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 比较元综合反思瑞典极端去结构化个人主义自学的实践灾难，确立结构化支架作为真自主前提的理论地位。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统综述生成式 AI 时代学习者在人机协同中维持认识论警觉与抵御算法认知卸载的自主防御机制。

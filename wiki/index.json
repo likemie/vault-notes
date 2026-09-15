@@ -1678,10 +1678,9 @@
     "path": "wiki/concepts/competency-and-assessment/Learner Autonomy.md",
     "aliases": [
       "学习者自主性",
-      "learner autonomy",
+      "自主学习",
       "autonomy in learning",
-      "autonomous learner",
-      "自主学习"
+      "autonomous learning"
     ]
   },
   {
@@ -14346,7 +14345,9 @@
     "path": "wiki/methods/quantitative/Intent-to-Treat Analysis.md",
     "aliases": [
       "意向治疗分析",
-      "ITT"
+      "ITT",
+      "意向性分析",
+      "Intention-to-Treat Analysis"
     ]
   },
   {
