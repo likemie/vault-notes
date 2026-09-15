@@ -22185,6 +22185,17 @@
     ]
   },
   {
+    "title": "Catch Up Numeracy",
+    "type": "fact",
+    "path": "wiki/facts/uk/Catch Up Numeracy.md",
+    "aliases": [
+      "数理补习项目",
+      "小学数学干预",
+      "Catch Up Numeracy Trial",
+      "Catch Up Numeracy Project"
+    ]
+  },
+  {
     "title": "Girls Into Science and Technology Project",
     "type": "fact",
     "path": "wiki/facts/uk/Girls Into Science and Technology Project.md",
@@ -22205,6 +22216,17 @@
       "英国学习增益项目",
       "英格兰高等教育学习增益项目",
       "Learning Gain Project"
+    ]
+  },
+  {
+    "title": "Incentivised Pay and Coaching Trial",
+    "type": "fact",
+    "path": "wiki/facts/uk/Incentivised Pay and Coaching Trial.md",
+    "aliases": [
+      "ICR",
+      "教师绩效激励与辅导试验",
+      "绩效激励与教学辅导试验",
+      "Incentivised Pay and Coaching"
     ]
   },
   {
@@ -22302,6 +22324,17 @@
       "教与学研究计划",
       "英国教与学研究计划",
       "教学与学习研究项目"
+    ]
+  },
+  {
+    "title": "Teensleep",
+    "type": "fact",
+    "path": "wiki/facts/uk/Teensleep.md",
+    "aliases": [
+      "Teensleep Trial",
+      "中学延迟上学试验",
+      "青少年睡眠干预试验",
+      "延迟到校试验"
     ]
   },
   {

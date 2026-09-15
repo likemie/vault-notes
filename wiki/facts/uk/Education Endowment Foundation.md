@@ -31,10 +31,6 @@ related_concepts:
   - "[[Effective Sample Size]]"
   - "[[Going Native]]"
   - "[[School Choice]]"
-  - "[[Metacognition]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Social-Emotional Learning]]"
-  - "[[Attrition]]"
   - "[[Evidence Standards]]"
   - "[[Abstract]]"
   - "[[Evidence-Informed Practice]]"
@@ -92,6 +88,7 @@ related_facts:
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Strong Beginnings Report]]"
   - "[[EPPI-Centre]]"
+  - "[[Literacy Octopus]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
@@ -154,17 +151,11 @@ updated: 2026-09-15
 
 ## 核心业务与旗舰产出
 
-> [!finding-cards] 核心业务矩阵与代表性成果
-> - **《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit）** 国际公认的旗舰证据聚合平台，综合 5,500 余项研究，对 30 余类教学、组织与关系干预按额外学习月数（Months of Progress）、实施成本（£ 至 £££££）与挂锁安全级别进行动态可视化排名([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, pp. 110–111]])。
-> - **学前教育工具包（Early Years Toolkit）** 将证据综合拓展至学前早期教育领域，系统梳理早期读写、早期数学及自我调控等关键干预，为学前教育工作者提供低成本高成效的实践指引。
-> - **权威结局测量工具库矩阵（Outcome Measures and Databases）** 为从源头上提升教育干预评估的心理计量质量与量程敏感度，EEF 构建了三大国家级结局度量数据库：
->   1. **[[SPECTRUM|SPECTRUM 数据库]]** 委托曼彻斯特大学建立的非认知、核心技能与社会情感测量工具库，深度审查并评定数百种心理量表（Wigelsworth et al., 2017；[EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)）；
->   2. **学业成就测量数据库（[Attainment Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database)）** 面向 6 至 18 岁中小学生，系统审查并收录经过常模参照的标准化识字、数学与科学测验工具，提供信效度与实践可用性评级；
->   3. **学前早期测量数据库（[Early Years Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）** 专门评估面向 0 至 6 岁儿童的早期语言、认知与社会情感测量工具，对齐英国早期基础教育阶段（EYFS）框架，帮助研究者与评估者挑选高敏感度度量工具。
-> - **全球教育活数据库（EEF Education Database）** 组织数十名专业[[Coding in Qualitative Research|编码]]员对工具包收录的预计超 10,000 项全球实证研究进行深度编码，建设首个动态更新的全球教育干预实证知识底座。
-> - **前沿实施指导报告（Guidance Reports）** 针对[[Metacognition|元认知]]与[[Self-Regulated Learning|自我调节学习]]、中等教育读写能力提升、初等教育[[Social-Emotional Learning|社会情感学习]]（Social-Emotional Learning，SEL）等核心教学主题，发布操作细化的循证行动指南。
-> - **大规模 [[Randomised Controlled Trials|RCT]] 评估报告公开知识库** 资助完成超过 200 项大型教育 RCT 实验，建立起全球规模最大的单体机构教育现场实验数据库；85% 已发表报告达到 3 把挂锁以上（总体[[Attrition|流失]]率低于 30%）。
-> - **全国学生数据库（NPD）纵向归档** 建立首个汇总已完成试验微观数据的开放归档，关联国家行政普查数据以支持长期效应追踪与方法学二次分析。
+> [!finding-cards] 核心产品与业务矩阵
+> - **循证决策工具包矩阵（Toolkits）** 研发国际公认的旗舰《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》与《学前教育工具包》，综合 5,500 余项实证研究，以额外学习月数（Months of Progress）、实施成本与挂锁安全级别动态呈现 30 余类教学干预有效性。([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, pp. 110–111]])
+> - **权威结局度量工具库与实证数据库（Databases）** 为从源头上提升干预评估的心理计量质量，构建由三大国家级度量数据库（[[SPECTRUM|SPECTRUM 非认知测量库]]、学业成就测量库 [Attainment Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database) 与学前早期测量库 [Early Years Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）以及深度编码上万项研究的全球教育活数据库（EEF Education Database）构成的量化基础设施。
+> - **前沿实践指导报告体系（Guidance Reports）** 针对元认知、中小学读写、数学、社会情感学习（SEL）与助教配置等高优先级教学领域发布操作细化的循证行动指南，成为指导全英逾 85% 校长分配学生津贴的核心准则。
+> - **大规模现场 RCT 知识库与国家数据归档（Trials & NPD Archive）** 累计资助开展逾 200 项大规模学校现场 [[Randomised Controlled Trials|RCT]]（85% 达 3 把挂锁以上），并依托英格兰[[National Pupil Database|国家学生数据库]]（NPD）建立全球首个试验微观数据开放归档库，实现全样本长期因果追踪。
 
 > [!citation-card] 代表性产品说明：《教学与学习工具包》
 > 工具包系统总结了超过 5,500 项教育实证研究，将高深抽象的统计[[Effect Size|效应量]]（Effect Size）折算为一线教师直观易懂的额外学习月数（Months of Progress），从净学业增益、经济成本与证据安全级别三个核心维度为学校管理层提供决策依据。([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]])
@@ -185,7 +176,7 @@ updated: 2026-09-15
 > [!critique-data]- 最终受益人评估与[[Research Schools Network|研究学校网络]]（RSN）3年实证结果
 > - **全球有效机构中的评估例外** 跨国实证综述显示，除英国教育捐赠基金会（EEF）之外，绝大多数有效机构（[[What Works Network|What Works Centres]]）极少对其推动的证据利用在最终受益人（即学生学业与身心发展）上的长远效益进行独立因果评估。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; Gough et al. (2018)
 > - **研究学校网络（RSN）三年评估的实证警示** 由第三方独立团队对全英由 EEF 资助的研究学校网络（Research Schools Network，RSN）前三年实施效果开展的大规模评估（Gu et al., 2021）证实：项目虽然在教师与校长的研究意识、循证教学信念与校本教研文化上取得了显著的制度性改变，但在学生客观标准化统考成绩（普通中等教育证书（General Certificate of Secondary Education，GCSE）成绩）上尚未呈现出任何统计学显著改善的证据。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 118)]]
-> - **教育转化的漫长滞后与归因挑战** 医药卫生领域从新证据发表到临床实质采纳的平均时间滞后长达 17 年，而教育领域的因果链路更为曲折弥散；这一实证警示揭示了从教师认知转变到学生统考成绩跃升之间存在漫长的因果时滞，全系统治理不可期望通过短期干预产生立竿见影的奇迹。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 117–118)]]
+> - **教育转化的漫长滞后与归因挑战** 医药卫生领域从新证据发表到临床实质采纳的平均时间滞后长达 17 年，而教育领域的因果链路更为曲折弥散；这一实证警示揭示了从教师认知转变到学生统考学业成绩显著提升之间存在漫长的因果时滞，全系统治理不可期望通过短期干预产生立竿见影的奇迹。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 117–118)]]
 
 > [!finding-cards] 关键成效与[[Paradigm|范式]]演变
 > - **确立新一代生态型中介范式** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 与 [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 一致指出，EEF 突破了早期美国 [[What Works Clearinghouse|WWC]] 单纯依靠网站被动推送[[Abstract|研究摘要]]的线性局限，首次将证据资助、[[Transfer Translation Transformation|转译]]、传播与一线的[[Research Schools Network|研究学校网络]]深度绑定，构建起当代最完备的[[Evidence-Informed Practice|证据知情实践]]生态系统。
