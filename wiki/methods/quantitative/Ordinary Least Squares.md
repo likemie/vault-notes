@@ -11,7 +11,7 @@ summary: "线性回归参数估计的最经典基准模型，通过最小化观�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

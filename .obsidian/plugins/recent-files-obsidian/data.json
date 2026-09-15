@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md"
     },
     {
+      "basename": "Peter Lampl",
+      "path": "wiki/persons/uk/Peter Lampl.md"
+    },
+    {
       "basename": "Literacy Octopus",
       "path": "wiki/facts/uk/Literacy Octopus.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Evidence Ecosystem",
       "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md"
-    },
-    {
-      "basename": "BHP Foundation",
-      "path": "wiki/facts/australia/BHP Foundation.md"
     }
   ],
   "omittedPaths": [],

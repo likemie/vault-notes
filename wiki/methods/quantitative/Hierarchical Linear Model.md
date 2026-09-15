@@ -12,7 +12,7 @@ summary: "专门用于分析具有嵌套或分层结构数据的统计建模方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
