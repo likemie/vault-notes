@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ROE"
 argument_key: "Argument_Edovald_Nevill_2021_ROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 114
+argument_related_count: 118
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -253,7 +253,7 @@ updated: 2026-09-15
 > - **早期样本流失危机与效度威胁** 在 EEF 成立之初（2011–2012 年第一批资助项目）开展的教育试验中，学生平均流失率高达 24%（Dawson et al., 2017）。学校在被随机分配到无干预的对照组后，往往产生强烈的受挫感与抵触情绪，频繁单方面退出随访；加之基线与[[Pre-test and Post-test|后测]]数据收集繁琐，导致大面积样本脱落，严重破坏了随机化建立的基线平衡并大幅侵蚀了统计功效。
 > - **基于社会心理学的内在动机动员** 借鉴让·梯若尔与罗兰·贝纳布（Tirole & Benabou, 2006）的内在动机理论，EEF 认识到中小学校长与一线教师具备崇高的公共服务利他倾向与专业改善愿望。EEF 彻底摒弃将学校视作被动实验对象的传统模式，将学校重塑为循证科学研究的平等合作者：通过举办面向校领导的专门招募说明会，编制严谨而通俗的试验权责指引，向校长清晰阐明严密科研对改善全行业教学质量的战略价值；更为重要的是，EEF 创设了“EEF 研究伙伴学校”官方认证机制，向参与学校颁发由基金会首席执行官签署的装裱证书与用于学校官方网站及招生简章的专属徽标，极大地激发了学校参与前沿科研的专业[[Pride in Learning|自豪]]感与社会声誉。
 > - **外在经济补偿与对照组依从度维护** 针对对照组学校承担的额外管理与测试负荷，依据卡尔蒂克·穆拉利德哈兰等（Muralidharan & Sundararaman, 2011）关于外部激励的实证[[Document|文献]]，EEF 制度化为对照组学校提供合理的财务补偿（通常为每所学校 500 至 1,500 英镑的津贴），用于支付代课教师课时费与数据录入行政工时，有效弥补了对照组“无直接收益却承担繁重测试”的失衡心理，遏制了对照组流失倾向。
-> - **制度化规程沉淀与全英规模化动员** 这些长期实践经验最终凝练为 EEF 发布的行业标准《合作机构招募与留存指南》（The EEF, 2019a）。截至 2019 年，全英格兰已有超过半数的中小学（逾 14,000 所学校）自愿参与过 EEF 资助的严谨评估；在后续已发表的评估报告中，高达 85% 的试验将样本总流失率稳健控制在 30% 以内，达到了 3 把挂锁以上的极高数据安全级别。（pp. 49–51）
+> - **制度化规程沉淀与全英规模化动员** 这些长期实践经验最终凝练为 EEF 发布的行业标准《招募与留存指南》（Guidance on Recruitment and Retention; The EEF, 2019a）。截至 2019 年，全英格兰已有超过半数的中小学（逾 14,000 所学校）自愿参与过 EEF 资助的严谨评估；在后续已发表的评估报告中，高达 85% 的试验将样本总流失率稳健控制在 30% 以内，达到了 3 把挂锁以上的极高数据安全级别。（pp. 49–51）
 
 学校动员与样本留存的可行性确立之后，构建公信力证据体系的核心矛盾随之深化：如何防止研究沦为方案开发者的宣传锦标赛，彻底根除长期困扰社会科学的研发者利益冲突？（pp. 50–51）
 
@@ -264,7 +264,7 @@ updated: 2026-09-15
 > [!critique-fatal] 传统教育评估中的研发者自评偏倚机制（美国国家研究委员会 [National Research Council, NRC], 2004; Ginsburg & Smith, 2016）
 > 方案开发者与评估团队往往存在学术声誉或商业利益的隐性捆绑，导致评估丧失中立性；无独立防火墙的评估报告[[Effect Size|效应量]]平均被人为夸大 50% 以上，从根本上动摇了实证证据的客观公信力。
 
-> [!contrast-table] 独立评估委托机制对比：英国 EEF 三方协议模式 vs 美国 [[Institute of Education Sciences|IES]]/[[National Center for Education Evaluation and Regional Assistance|NCEE]] i3 模式（基于 Boulay et al., 2018 与 EEF, 2017a）
+> [!contrast-table] 独立评估委托机制对比：英国 EEF 三方协议模式 vs 美国 [[Institute of Education Sciences|IES]]/[[National Center for Education Evaluation and Regional Assistance|NCEE]] i3 模式（基于 Boulay et al., 2018 与《EEF 独立评估专家库成员标准》[EEF Standards for Independent Evaluation Panel Members; The EEF, 2017a]）
 > | 比较维度 | 英国 [[Education Endowment Foundation\|EEF]] 独立评估委托模式 | 美国 IES/[[National Center for Education Evaluation and Regional Assistance\|NCEE]] 投资创新项目（i3）模式 |
 > |---|---|---|
 > | **评估者遴选权力** | 由基金会通过公开竞争性招标设立独立的评估者专家库直接指派 | 由项目申报者（开发者）自行挑选评估机构并在申报书中列名 |
@@ -306,7 +306,7 @@ updated: 2026-09-15
 >   3. 校正学校与班级两级集群效应的[[Hierarchical Linear Model|多层线性模型]]（Multilevel Modeling / Hierarchical Linear Model, MLM / HLM）；
 >   4. [[Generalized Estimating Equations|广义估计方程模型]]（Generalized Estimating Equations, GEE）。
 > - **惊人的[[Model Dependency|模型依赖性]]与效应漂移** 复算审计得出了令人震惊的结论（Xiao et al., 2016）：统计模型的选择对干预效应量的点估计值与[[Confidence Interval|置信区间]]（Confidence Interval, CI）宽度具有颠覆性影响。在多个试验中，仅仅因为是否校正基线前测或如何处理班级集群相关性，干预效应的[[Statistical Significance|统计显著性]]便在 $p < .05$ 与 $p > .05$ 之间反复翻转，效应量估计值发生大幅漂移。这无可辩驳地证明，缺乏统一建模规范的所谓“客观试验”极易受统计分析师主观模型设定的隐性操纵。
-> - **制度化沉淀：行业通用《统计分析指南》的诞生** 杜伦大学的这一重磅方法学审计，直接倒逼 EEF 编写并颁布了全行业首部刚性技术法典——《EEF 评估统计分析指南》（The EEF, 2018）。该指南为全英教育试验确立了不可动摇的统一建模铁律：强制要求主效应分析必须在模型中纳入基线前测成绩作为协[[Variable|变量]]（大幅缩减残差方差并提升估计精度）；强制采用校正[[Intraclass Correlation Coefficient|组内相关系数]]（Intraclass Correlation Coefficient, ICC）的聚类稳健[[Standard Error|标准误]]模型（Demack, 2019）；统一规范基于全样本合并对照组标准差计算 Hedges' $g$ 的数学公式（Tymms & Kasim, 2018）；并明确了处理缺失值的敏感性分析规程，彻底终结了模型选择随意性引发的混乱。（pp. 52–53）
+> - **制度化沉淀：行业通用《统计分析指南》的诞生** 杜伦大学的这一重磅方法学审计，直接倒逼 EEF 编写并颁布了全行业首部刚性技术法典——《EEF 评估统计分析指南》（Statistical Analysis Guidance for EEF Evaluations; The EEF, 2018）。该指南为全英教育试验确立了不可动摇的统一建模铁律：强制要求主效应分析必须在模型中纳入基线前测成绩作为协[[Variable|变量]]（大幅缩减残差方差并提升估计精度）；强制采用校正[[Intraclass Correlation Coefficient|组内相关系数]]（Intraclass Correlation Coefficient, ICC）的聚类稳健[[Standard Error|标准误]]模型（Demack, 2019）；统一规范基于全样本合并对照组标准差计算 Hedges' $g$ 的数学公式（Tymms & Kasim, 2018）；并明确了处理缺失值的敏感性分析规程，彻底终结了模型选择随意性引发的混乱。（pp. 52–53）
 
 > [!warrant]- 步骤一论证逻辑收束：治理制度如何确立大规模试验的科学公信力
 > 步骤一通过严密的逻辑推演与实证经验完成了三层递进证明：首先，通过内在专业利他声誉与外在财务补偿协同，实证击碎了“学校抗拒随机化”的传统假定，实现了全英过半数公立学校的规模化动员与低流失率样本维护（奠定统计功效与代表性基石）；其次，通过评估者专家库与三方资助协议，制度化切断了研发者与评估团队的利益捆绑，根除了研发者自评偏倚（奠定研究中立性基石）；最后，通过方案与 SAP 强制预注册、CONSORT 报告标准及 NPD 数据库归档，彻底封堵了选择性报告与模型操纵空间，并倒逼出统一的刚性统计建模法典（奠定透明度与可复现性基石）。三者环环相扣，在国家尺度上完整确立了大规模教育 RCT 的实践可行性与制度公信力。（pp. 48–53）
@@ -342,8 +342,8 @@ updated: 2026-09-15
 
 > [!case] 复杂干预的机制黑箱：从单维度效应走向多臂试验与[[Realist Evaluation|现实主义试验]]
 > - **早期纯效应量评价的“黑箱”困境** 在 1980 至 2016 年间的全球 1,017 项教育试验中，仅有 38% 包含了过程评估（Connolly et al., 2018）。EEF 成立初期的部分试验同样受制于这一传统[[Paradigm|范式]]（如 Morris et al., 2016 探讨的两项跨年龄同伴辅导试验），只聚焦于采集终结性测验分数并报告单一效应量。当试验得出统计学零结果或微弱效应时，评估团队既无法向决策者和一线学校阐明其未达预期的深层因果机制，也无法准确还原方案在常态课堂中的真实落地细节，导致循证科学陷入“[[Knowledge-that and Know-how-to|知其然]]不知其所以然”的解释力贫困。
-> - **理论范式深化（区分“实施失败”与“理论根本无效”）** 针对这一方法学死结，EEF 全面引进了英国医学研究理事会关于复杂干预评估的核心框架（Craig et al., 2008, p. 980）。该框架明确指出：教育项目具有高度的人际交互性与情境嵌入性，干预缺乏显著学业效应往往并非源于教学理论本身的根本无效，而是源于现场递送走样、教师培训稀释或初入校园的磨合期阻力等引发的实施失败。若缺乏对现场实施过程的微观度量，资助机构极易轻率裁汰本具潜力的前沿教学理论。
-> - **制度化规程确立与 IPE 六维标准** 2014 年，EEF 委托曼彻斯特大学尼尔·汉弗莱等（Humphrey et al., 2016）对教育干预的实施与过程评估开展全景式系统[[Literature Review|文献综述]]，并先后发布两版行业纲领性指南（Dawson et al., 2017; The EEF, 2019b），联合 Anders et al. (2017) 确立了全校复杂干预的评估标准。EEF 强制要求所有资助试验必须前置提交 IPE 评估方案，对照 [[TIDieR]] 清单（Hoffmann et al., 2014）严格解构方案的核心“活性成分”，并系统采集保真度、实际参与剂量（ITT 与 CACE 模型）、对照组常态活动追踪以及情境制约数据。
+> - **理论范式深化（区分“实施失败”与“理论根本无效”）** 针对这一方法学死结，EEF 全面引进了英国医学研究理事会关于复杂干预评估的核心指南（Developing and Evaluating Complex Interventions: The New Medical Research Council Guidance; Craig et al., 2008, p. 980）。该指南明确指出：教育项目具有高度的人际交互性与情境嵌入性，干预缺乏显著学业效应往往并非源于教学理论本身的根本无效，而是源于现场递送走样、教师培训稀释或初入校园的磨合期阻力等引发的实施失败。若缺乏对现场实施过程的微观度量，资助机构极易轻率裁汰本具潜力的前沿教学理论。
+> - **制度化规程确立与 IPE 六维标准** 2014 年，EEF 委托曼彻斯特大学尼尔·汉弗莱等（Humphrey et al., 2016）对教育干预的实施与过程评估开展全景式系统[[Literature Review|文献综述]]，并先后发布两版行业纲领性指南（Humphrey et al., 2016; Dawson et al., 2017）及《EEF 评估者实施与过程评估指南》（Implementation and Process Evaluation Guidance for EEF Evaluators; The EEF, 2019b），联合 Anders et al. (2017) 研制的《全校复杂干预评估：方法与实践考量》（Evaluating Complex Whole-School Interventions: Methodological and Practical Considerations）确立了全校复杂干预的评估标准。EEF 强制要求所有资助试验必须前置提交 IPE 评估方案，对照 [[TIDieR]] 清单（Hoffmann et al., 2014）严格解构方案的核心“活性成分”，并系统采集保真度、实际参与剂量（ITT 与 CACE 模型）、对照组常态活动追踪以及情境制约数据。
 > - **方法学深化：多臂试验与现实主义评估演进** 为彻底打破单维度黑箱，EEF 大力探索[[Multi-Arm Trial|多臂试验]]与[[Factorial Design|析因设计]]。在著名的“[[Literacy Octopus|识字八爪鱼]]”多臂试验（Lord et al., 2017）中，EEF 动员了全英 800 余所小学，设置多个实验臂系统对比了 4 种证据传播与教学支持策略（涵盖被动邮件与资料寄送、主动研讨会培训以及专家深度入校指导），最终证实单向被动推送循证材料对学生成绩的净效应为零，从而直接否定了“只要寄送研究报告就能改变教学实践”的浅层假设，推动英格兰建立了深入基层的[[Research Schools Network|研究学校网络]]（Research Schools Network）。此外，在基于网页的读写支持软件（ABRACADABRA, 简称 ABRA）多臂试验（McNally et al., 2018）中，评估者系统剥离了技术软件[[Learner Autonomy|自主学习]]与教师主导辅导的独立与[[Interaction Effect|交互效应]]。目前 EEF 资助的项目中已有 90% 至少包含一个次要结局指标或中介机制度量（Nevill, 2019a），全面推进由[[Ray Pawson|雷·波森]]与尼克·蒂利（Ray Pawson & Nick Tilley）开创、Bonell et al. (2012) 倡导的[[Realist Evaluation|现实主义试验]]——不仅回答干预是否有效，更系统揭示干预在何种特定微观情境下（Context）、通过何种心理与组织机制（Mechanism）、对哪些弱势群体产生何种结果（Outcome）。（pp. 53–54）
 
 过程评估揭示了课堂内部的运行机制，但[[Causality|因果推断]]的最终效度仍高度受制于终结性测量工具的心理计量特质。（p. 54）
@@ -368,7 +368,7 @@ updated: 2026-09-15
 商业测验在实际大样本试验中暴露出的心理计量黑箱与预测力脱节，为循证资助机构敲响了方法学警钟。（p. 54）
 
 > [!case] 商业标准化测验的心理计量缺陷与效度危机（Allen et al., 2018; Hodgen et al., 2019）
-> - **测验自编虚高风险与商业测验的引入** 如果研究评估采用由项目开发者自主编排或紧密贴合特定教材教法的非标准化测验（Inherent Measures），题项内容极易与干预教学要点发生高度同构，从而人为夸大 50% 至 100% 的效应量，严重损害证据的客观公信力（Cheung & Slavin, 2016; Ginsburg & Smith, 2016; WWC, 2017）。为此，EEF 早在 2012 年初便颁布《测验选择与实施刚性指南》（The EEF, 2012b），明确规定主要结局指标严禁采用任何自编测验，必须优先选择具备广泛外部效度、与英国官方高利害统考高度相关的独立商业标准化测验或直接调用国家学生数据库（NPD）的行政考试成绩。
+> - **测验自编虚高风险与商业测验的引入** 如果研究评估采用由项目开发者自主编排或紧密贴合特定教材教法的非标准化测验（Inherent Measures），题项内容极易与干预教学要点发生高度同构，从而人为夸大 50% 至 100% 的效应量，严重损害证据的客观公信力（Cheung & Slavin, 2016; Ginsburg & Smith, 2016; WWC, 2017）。为此，EEF 早在 2012 年初便颁布《EEF 测验选择与实施指南》（EEF Guidance on Choosing and Delivering Attainment Tests; The EEF, 2012b），明确规定主要结局指标严禁采用任何自编测验，必须优先选择具备广泛外部效度、与英国官方高利害统考高度相关的独立商业标准化测验或直接调用国家学生数据库（NPD）的行政考试成绩。
 > - **心理计量黑箱与预测效度审计** 然而，市售商业标准化测验在实际应用中暴露出严重的心理计量属性黑箱。绝大多数商业测验开发商仅在技术手册中提供[[Internal Consistency|内部一致性]]系数（如克隆巴赫 $\alpha$），极少向学界公开长期的[[Construct Validity|构念效度]]与[[Predictive Validity|预测效度]]研究数据。伦敦大学学院丽贝卡·艾伦等（Allen et al., 2018）利用 EEF 归档数据库对全英广泛使用的多套商业标准化阅读与数学测验进行系统二次分析，结果发现：这些商业测试对学生未来在关键学段（如 GCSE）官方统考成绩的预测效度仅达到中等水平，甚至存在不可忽视的测量偏差，无法充当学[[Growth|生长]]期学业发展的无偏代理指标。
 > - **量程失真危机：[[Floor and Ceiling Effects|天花板与地板效应]]** 在小学数学干预试验 Catch Up Numeracy（Hodgen et al., 2019）中，评估团队采用市售标准化数学测试作为终结性后测工具。然而，由于该商业测验题项难度阶梯分布不当、有效量程严重受限，导致最终测试数据遭遇了严重的天花板效应（高水平学生轻易取得满分）与地板效应（基础薄弱学生大量得零分）。这种量程截断人为抹平了干预组与对照组在分布两端的细微真实差距，严重低估了干预的真实效应量，动摇了统计推断的稳健性。
 > - **测量工具库战略推进与经验镜鉴** 2014 年起，EEF 将资助领域从学科认知进一步拓展至学前教育与非认知领域（如[[Self-control|自我控制]]、心理韧性与社交情绪）。针对市场上非认知量表良莠不齐的严峻现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth, 2017）开展超大规模系统文献综述，正式构建了[[SPECTRUM|非认知与社会情感测量工具库]]（Social, Psychological, Emotional, Concepts of self, and Resilience: Understanding and Measurement, SPECTRUM），并同步启动全英学业[[Achievement and Aptitude Tests|成就测验]][[Systematic Review|系统综述]]，建立权威准入目录。实践表明：若资助机构在创立初期就前置建立严格的[[Scale of Measurement|标准化测量工具库]]，便能大幅避免数以百万英镑计的试错成本，为全球循证资助机构树立了关键方法学镜鉴。（p. 54）
@@ -474,11 +474,11 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > [!case] 效力试验到实效试验的断崖式衰减：[[Thinking, Doing, Talking Science|“思考、动手、对话科学”]]（Thinking, Doing, Talking Science, TDTS）的大规模复制危机（Hanley et al., 2015 vs Kitmitto et al., 2018）
 > - **小规模效力试验的显著提振** 在第一阶段由资助方与牛津布鲁克斯大学等开发团队紧密配合开展的效力试验中，“思考、动手、对话科学”（TDTS）针对小学五年级科学课堂，通过探究性实验操作与高阶对话教学激发学生的科学思维。该试验覆盖牛津郡 42 所小学，开发团队原作者亲自全程驻场提供密集的[[School Inspection|教学督导]]与即时反馈。最终评估显示：TDTS 带来了显著的学业提升，干预组五年级学生的科学统考成绩相当于额外获得了约 3 个月的学习进展（效应量 $ES = +0.22, p < .05$），在享受免费学校午餐（FSM）的贫困弱势学生中，学业增益更是高达约 5 个月，展现出巨大的转化潜力。
 > - **大规模效果试验的断崖式失效** 鉴于效力试验的喜人成果，EEF 迅速资助开展了第二阶段的大规模效果试验，委托美国研究学会进行跨多区域独立评估（Kitmitto et al., 2018）。为了满足大样本统计功效诉求，试验规模急速扩张至全英近 200 所小学与近万名学生。然而，评估报告公布的最终量化结果令人震惊：在全样本常态化落地中，五年级学生在关键科学测试上的学业进展净值为零个月（$ES = +0.03, p > .05$），弱势学生的学业差距同样丝毫未获改善，前期效力试验中报告的高额积极效应在大规模复制中彻底消失。
-> - **规模化脆弱性与递送稀释的机制反思** 结合实施与过程评估（IPE）的深度追踪，成效归零的深层结构性动因在于：在大样本统计功效要求与现场实施保真度之间存在不可回避的内在对抗。在小规模效力阶段，核心研发专家与少量参试教师保持高频互动，方案的精髓规程得以百分之百保真落地；但当项目在短时间内强行铺开至数百所学校时，提供方被迫在外部匆忙招募大量缺乏成熟经验的新培训师，采用多级“瀑布式”递送模式。培训信息层层衰减，加之基层学校日常繁杂行政事务的干扰，一线教师在常态课堂中严重简化了原本要求极高的深度对话与反思环节，干预退化为走形式的常规活动。世界卫生组织（WHO）与 ExpandNet 网络（2009）的理论在此得到了残酷印证：规模化绝非简单的学校数量乘法累加，而是一场伴随着严重稀释风险的微观生态脆弱重构。（p. 57）
+> - **规模化脆弱性与递送稀释的机制反思** 结合实施与过程评估（IPE）的深度追踪，成效归零的深层结构性动因在于：在大样本统计功效要求与现场实施保真度之间存在不可回避的内在对抗。在小规模效力阶段，核心研发专家与少量参试教师保持高频互动，方案的精髓规程得以百分之百保真落地；但当项目在短时间内强行铺开至数百所学校时，提供方被迫在外部匆忙招募大量缺乏成熟经验的新培训师，采用多级“瀑布式”递送模式。培训信息层层衰减，加之基层学校日常繁杂行政事务的干扰，一线教师在常态课堂中严重简化了原本要求极高的深度对话与反思环节，干预退化为走形式的常规活动。世界卫生组织（WHO）与 ExpandNet 网络在《卫生服务创新规模化实用指南》（Practical Guidance for Scaling up Health Service Innovations; WHO & ExpandNet, 2009）中阐述的理论在此得到了残酷印证：规模化绝非简单的学校数量乘法累加，而是一场伴随着严重稀释风险的微观生态脆弱重构。（p. 57）
 
 规模化复制危机表明教育干预绝非工业产品，资助机构必须反思对单一显著性指标的机械崇拜，建立包容统计不确定性的审慎传播框架。（pp. 57–58）
 
-> [!contrast-table] 证据评级与传播机制对比：EEF 挂锁安全评级 vs 美国 [[What Works Clearinghouse|WWC]] [[Evidence Standards|证据标准]]（基于 The EEF, 2019c 与 WWC, 2017）
+> [!contrast-table] 证据评级与传播机制对比：EEF 挂锁安全评级 vs 美国 [[What Works Clearinghouse|WWC]] [[Evidence Standards|证据标准]]（基于《EEF 评估发现安全级别分类指南》[Classification of the Security of Findings from EEF Evaluations; The EEF, 2019c] 与 WWC, 2017）
 > | 维度 | 英国 [[Education Endowment Foundation\|EEF]] 挂锁安全评级 | 美国 [[What Works Clearinghouse\|WWC]] 因果标准 |
 > |---|---|---|
 > | **标尺结构** | 0 至 5 把挂锁（🔒）的单维度连续序数评分（综合设计、样本、流失与威胁） | 三等级定性分类判定（无保留达标 / 有保留达标 / 未达标） |
@@ -518,7 +518,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > *As one reaches the stage of summative evaluation, there are clear concerns about bias when an evaluator is too closely affiliated with the design team. The EEF recognized the benefits of setting a precedent for commissioning 'independent' evaluations from the outset... randomization, primary outcome data collection, analysis, and reporting should always be conducted by the evaluator.*
 
 > [!citation-card] 复杂干预的过程机制与实施失败判定
-> 复杂教育干预需要深入理解[[Causal Processes|因果过程]]。英国医学研究理事会指出：必须对干预如何引发改变具备扎实的理论理解；干预缺乏效果可能反映的是实施失败（或磨合期问题），而非干预策略本身的根本无效。正因如此，EEF 规范了[[Implementation and Process Evaluation|实施与过程评估]]指南，重点加强理论检验、成效与过程整合及依从性测量。（p. 53）
+> 复杂教育干预需要深入理解[[Causal Processes|因果过程]]。英国医学研究理事会指出：必须对干预如何引发改变具备扎实的理论理解；干预缺乏效果可能反映的是实施失败（或磨合期问题），而非干预策略本身的根本无效。正因如此，EEF 颁布了《EEF 评估者实施与过程评估指南》（Implementation and Process Evaluation Guidance for EEF Evaluators; The EEF, 2019b），重点加强理论检验、成效与过程整合及依从性测量。（p. 53）
 >
 > *A good theoretical understanding is needed of how the intervention causes change and lack of effect may reflect implementation failure (or teething problems) rather than genuine ineffectiveness.*
 
