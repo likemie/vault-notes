@@ -46,7 +46,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-11
-updated: 2026-07-13
+updated: 2026-09-15
 ---
 # Argument_Pavitt_1984_RP
 
@@ -54,7 +54,7 @@ updated: 2026-07-13
 ## 研究问题
 
 > [!question]
-> 不同产业在技术创新的来源、性质和影响上是否存在系统性的相似与差异？[[Argument_Pavitt_1984_RP|Pavitt (1984)]]基于对英国 1945 年以来约 2,000 项重大创新（significant innovations）的数据分析，试图描述和解释**产业层面的技术变迁模式（sectoral patterns of technical change）**，并在此基础上构建一个分类法和一个理论。
+> 不同产业在技术创新的来源、性质和影响上是否存在系统性的相似与差异？Pavitt (1984)基于对英国 1945 年以来约 2,000 项重大创新（significant innovations）的数据分析，试图描述和解释**产业层面的技术变迁模式（sectoral patterns of technical change）**，并在此基础上构建一个分类法和一个理论。
 
 > [!stat-cards]+ 一页读懂
 > - **对象** 英国 1945 年以来约 2,000 项重大创新

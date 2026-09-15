@@ -95,7 +95,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-20
-updated: 2026-08-24
+updated: 2026-09-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Song_Choi_2026_FPSYG"
@@ -324,7 +324,7 @@ issuing_organization: ""
 > [!contrast-table] 跨文化元分析效应量对比（东亚样本 vs 西方跨国样本）
 > | 元分析文献 | 样本地域与文化背景 | 纳入研究与效应量 | 综合效应量 $r$ | 核心结论与跨文化启示 |
 > |---|---|---|---|---|
-> | **[[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]]** | **韩国 K-12 阶段**（东亚高压应试/集体主义背景） | 18 项研究 / 512 个效应量 ($N=6,312$) | **$r = 0.191$** [0.119, 0.261] | 证实成熟[[Epistemological Beliefs\|认识论信念]]在东亚情境下同样对[[Academic Achievement\|学业成就]]、动机与自我调节产生实质性促进。 |
+> | **|Song & Choi (2026)** | **韩国 K-12 阶段**（东亚高压应试/集体主义背景） | 18 项研究 / 512 个效应量 ($N=6,312$) | **$r = 0.191$** [0.119, 0.261] | 证实成熟[[Epistemological Beliefs\|认识论信念]]在东亚情境下同样对[[Academic Achievement\|学业成就]]、动机与自我调节产生实质性促进。 |
 > | **[[Argument_Greene_2018_JEP\|Greene et al. (2018)]]** | **西方跨国样本为主**（美、加、挪、德、土耳其等） | 132 项研究 / 752 个效应量 ($N=55,418$) | **$r = 0.162$** [0.135, 0.189] | 确立了国际学界认识论认知与学业成绩关联的实证基准。 |
 > | **Cartiff et al. (2021)** | **国际建构主义教学干预样本** | 19 项干预研究 / 63 个效应量 ($N=4,048$) | **$r = 0.198$** | 证实探究式教学与[[Metacognition\|元认知]]支架干预通过塑造认识论认知有效提升学业表现。 |
 

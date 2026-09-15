@@ -79,7 +79,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-23
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch02
 
@@ -120,7 +120,7 @@ updated: 2026-09-07
 [[Informal Science Learning|非正式科学学习]]已经发生根本性[[Paradigm|范式]]转变，成为支撑现代社会文明与公共福祉的基础支柱。（pp. 42–46）
 
 > [!claim] 步骤一核心主张
-> 自 1985 年《公众理解科学》（Bodmer 报告）发布 40 年来，英国非正式科学参与已从以公共讲座和传统博物馆为主的单向知识普及，发展为由 60 多所科学探索中心、科学节、在地化社区活动、数字化网络及[[Citizen Science|公民科学]]共同构成的繁荣生态；其本质已超越正规教育的辅助延伸，跃升为支撑社区繁荣、公众健康与民主生活的核心**社会与文化基础设施（Social and Cultural Infrastructure）**。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 42, 48)]]
+> 自 1985 年《公众理解科学》（Bodmer 报告）发布 40 年来，英国非正式科学参与已从以公共讲座和传统博物馆为主的单向知识普及，发展为由 60 多所科学探索中心、科学节、在地化社区活动、数字化网络及[[Citizen Science|公民科学]]共同构成的繁荣生态；其本质已超越正规教育的辅助延伸，跃升为支撑社区繁荣、公众健康与民主生活的核心**社会与文化基础设施（Social and Cultural Infrastructure）**。(The Royal Society, 2026, pp. 42, 48)
 
 > [!dev-timeline] 40 年间非正式科学参与的三次范式跃迁
 > - **第一阶段（1980 年代中至 1990 年代）：单向普及与精英讲堂**
@@ -159,7 +159,7 @@ updated: 2026-09-07
 全英代表性长期追踪民意调查揭示出公众对科学知识的高度渴望、对科学家的压倒性信任，与公众在重大国家科技决策中被系统性边缘化之间的深层结构性断层。（pp. 47–48）
 
 > [!claim] 步骤二核心主张
-> 2025 年全英公众对[[Scientific Attitude|科学态度]]调查（Public Attitudes to Science, PAS 2025）系统证实：英国公众对科学信息的渴求出现历史性激增（62%），对科研共同体保持极高信任（87%），各类非正式场馆实地访问率全面回暖；然而，公众在科技重大决策中的实际参与感却遭遇断崖式滑坡（仅 12%），且普遍担忧科学参与机会的不平等；这种渴望深度对话与遭遇决策排斥的制度性落差，已成为制约科学与社会良性协同的核心瓶颈。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 47)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 9, 12)]]
+> 2025 年全英公众对[[Scientific Attitude|科学态度]]调查（Public Attitudes to Science, PAS 2025）系统证实：英国公众对科学信息的渴求出现历史性激增（62%），对科研共同体保持极高信任（87%），各类非正式场馆实地访问率全面回暖；然而，公众在科技重大决策中的实际参与感却遭遇断崖式滑坡（仅 12%），且普遍担忧科学参与机会的不平等；这种渴望深度对话与遭遇决策排斥的制度性落差，已成为制约科学与社会良性协同的核心瓶颈。(The Royal Society, 2026, p. 47); [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 9, 12)]]
 
 > [!example]- 图2-2：英国公众在各类科学文化场馆的年实地访问率对比图（PAS 2025 与 ASDC 汇总，p. 47）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig2-2_PAS_Survey_Engagement_Venues.jpg)
@@ -203,7 +203,7 @@ updated: 2026-09-07
 非正式科学资源的地理过度集聚与阶层壁垒导致大量边远区域与低科学资本群体被边缘化。（pp. 43, 48）
 
 > [!claim] 步骤三核心主张
-> 英国非正式科学参与资源在空间分布上高度集中于伦敦及拥有顶尖大学的大都市圈，加之阶层与文化资本门槛，导致欠发达地区和低[[Science Capital|科学资本]]群体面临系统性参与排斥；必须依托区域中心枢纽（Regional Hubs）、在地化社区协作与前沿公民科学打破受众自选壁垒。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43, 48)]]
+> 英国非正式科学参与资源在空间分布上高度集中于伦敦及拥有顶尖大学的大都市圈，加之阶层与文化资本门槛，导致欠发达地区和低[[Science Capital|科学资本]]群体面临系统性参与排斥；必须依托区域中心枢纽（Regional Hubs）、在地化社区协作与前沿公民科学打破受众自选壁垒。(The Royal Society, 2026, pp. 43, 48)
 
 > [!factors] 非正式科学参与的三重排斥机制
 > - **地理空间过度极化（Geographical Clustering）** 顶级国家场馆（如伦敦科学博物馆、自然历史博物馆、格林威治皇家天文台、弗朗西斯·克里克研究所）过度集中于东南英格兰，英格兰东北、西南及苏格兰高地等区域面临高昂的交通与时间成本。（pp. 44–45）
@@ -251,7 +251,7 @@ updated: 2026-09-07
 在运营成本飙升与资助结构调整的夹击下，非正式科学部门正面临生存威胁。（pp. 48–50）
 
 > [!claim] 步骤四核心主张
-> 受通胀高企、场馆维护与能源成本激增、地方政府预算缩减、生活成本危机抑制门票消费，以及惠康信托等传统支柱基金会战略转向国际和专项研究等多重挤压，英国非正式科学参与部门正面临系统性的**生存威胁（Existential Threat）**；必须打破部门壁垒，确立与文化艺术部门对等的财税政策，并引入政府采购社会价值条款（Social VALUE Procurement）与现代慈善激励机制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 42, 48–50)]]
+> 受通胀高企、场馆维护与能源成本激增、地方政府预算缩减、生活成本危机抑制门票消费，以及惠康信托等传统支柱基金会战略转向国际和专项研究等多重挤压，英国非正式科学参与部门正面临系统性的**生存威胁（Existential Threat）**；必须打破部门壁垒，确立与文化艺术部门对等的财税政策，并引入政府采购社会价值条款（Social VALUE Procurement）与现代慈善激励机制。(The Royal Society, 2026, pp. 42, 48–50)
 
 > [!factors] 威胁非正式科学部门可持续性的四大财务结构瓶颈
 > - **1. 地方政府财政预算与支持大幅萎缩** 自 COVID-19 封控以来，地方政府财政普遍陷入严重赤字，对地方中小型科技探索馆与社区科学活动的经常性补贴和实物支持遭遇大幅削减。（p. 48）
@@ -276,7 +276,7 @@ updated: 2026-09-07
 非正式科学学习的评估必须突破短期孤立局限，构建跨界通用标准并开展国家级长期队列追踪。（pp. 50–53）
 
 > [!claim] 步骤五核心主张
-> 非正式科学参与的育人效能具有终身性与累积性，单一场馆或短期项目的孤立评估无法捕捉其对个体科学素养与人生抱负的深远影响；必须在全行业推广通用学习成果框架（Generic Learning Outcomes, GLOs），并由皇家学会牵头联合资助方发起针对非正式科学参与的**国家长期队列[[Cohort Study|追踪研究]]（Long-term Cohort Study）**。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 50–53)]]
+> 非正式科学参与的育人效能具有终身性与累积性，单一场馆或短期项目的孤立评估无法捕捉其对个体科学素养与人生抱负的深远影响；必须在全行业推广通用学习成果框架（Generic Learning Outcomes, GLOs），并由皇家学会牵头联合资助方发起针对非正式科学参与的**国家长期队列[[Cohort Study|追踪研究]]（Long-term Cohort Study）**。(The Royal Society, 2026, pp. 50–53)
 
 > [!dimension] 英国非正式科学参与的四级评估体系架构
 > - **项目与活动级评估（Project-Level Evaluation）** 针对特定展览、巡展或讲座进行即时客流、满意度、首次访客率与认知增量测评（如 Dippy on tour 评估）。（p. 51）

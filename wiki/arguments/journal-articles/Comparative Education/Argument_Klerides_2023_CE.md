@@ -92,7 +92,7 @@ sources:
 part_of: ''
 status: active
 created: 2026-06-08
-updated: 2026-09-12
+updated: 2026-09-15
 year: 2023
 doi: "10.1080/03050068.2023.2216045"
 citation_aliases:
@@ -338,22 +338,22 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card]- 理论反思的缺失
-> 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 416)]]
+> 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。(Klerides, 2023, p. 416)
 > 
 > *We have never used the lens of international theory in a systematic way to articulate our [[Champ|field]]'s identity, history and future.*
 
 > [!citation-card]- 国际预设决定学术实践
-> 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 417)]]
+> 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。(Klerides, 2023, p. 417)
 > 
 > *What we practise as 'comparative education' is the effect of the way(s) in which we understand, consciously or unconsciously, the nature of international society and its politics, as well as how its main actors (should) conduct themselves in it.*
 
 > [!citation-card]- 怀特传统的政治价值
-> 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 431)]]
+> 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。(Klerides, 2023, p. 431)
 > 
 > *The three traditions are crucial because they unveil the underlying values of our work, facilitating critical reflections on the issue of whose power we are historically and politically reproducing, or opposing, in and through this work.*
 
 > [!citation-card]- 比较教育史的未来难题
-> 中文译文：我们如何以既不单被[[Rationalism in International Relations|理性主义]]的乐观所引导，也不单被[[Revolutionism|革命主义]]的道德激情所引导，同时又包含[[Realism in International Relations|现实主义]]色彩（而非其犬儒主义）方式来书写这一领域？[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 431)]]
+> 中文译文：我们如何以既不单被[[Rationalism in International Relations|理性主义]]的乐观所引导，也不单被[[Revolutionism|革命主义]]的道德激情所引导，同时又包含[[Realism in International Relations|现实主义]]色彩（而非其犬儒主义）方式来书写这一领域？(Klerides, 2023, p. 431)
 > 
 > *How do we write about the field in ways that are not simply guided by the optimism of rationalism nor the moral passion of [[Revolutionism]], but that also include a realist(ic) flavour without its cynicism?*
 

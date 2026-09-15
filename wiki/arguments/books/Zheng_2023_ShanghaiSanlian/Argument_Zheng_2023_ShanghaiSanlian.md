@@ -142,7 +142,7 @@ related_instruments:
   - "[[Remote Associates Test]]"
 status: draft
 created: 2026-05-08
-updated: 2026-08-20
+updated: 2026-09-15
 year: 2023
 doi: ""
 citation_aliases:
@@ -154,7 +154,7 @@ citation_aliases:
 > [!question]
 > 寒门学子即使冲破了[[Gaokao|高考]]壁垒进入顶尖大学，为何在毕业出路和职业前景上仍然系统性落后于优势阶层同学？大学经历本身在其中扮演了什么角色？
 
-本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、[[Quantitative Research|量化研究]]一再确认的弱势学生出路劣势——指出现有解释（[[Human Capital Theory|人力资本理论]]、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]][[Epoché|悬置]]"经济人"[[Hypothesis|假设]]，走入教育过程的"黑箱"，追问：
+本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、[[Quantitative Research|量化研究]]一再确认的弱势学生出路劣势——指出现有解释（[[Human Capital Theory|人力资本理论]]、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。郑雅君 (2023)[[Epoché|悬置]]"经济人"[[Hypothesis|假设]]，走入教育过程的"黑箱"，追问：
 
 1. 家庭的资源优势如何转化为学生在大学阶段的[[Cultural Capital|文化资本]]？（资本化过程）
 2. 学生在大学里的努力如何转化为出路获得上的优势？（投入过程）

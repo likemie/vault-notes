@@ -104,7 +104,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch01_Revai_2022|Ch01_Revai_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 # Argument_Revai_2022_ChangingLandscape
 
@@ -180,11 +180,11 @@ updated: 2026-09-12
 自 2000 年代初期起，[[OECD|经合组织]]（[[OECD]]）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, [[Centre for Educational Research and Innovation|CERI]]）持续关注教育研发与[[Epistemic Governance|知识治理]]，启动了贯穿二十年的循证探究历程。（pp.16–17）
 
 > [!dev-timeline] 循证教育话语的兴起与[[Epistemology|认识论]]反思历程
-> - **2000s 初期 — 研发匮乏与效能焦虑** CERI 早期跨部门知识治理调查揭示，相较于医疗卫生或农业部门，教育系统的知识创造、中介与使用率显著偏低，高水准实证研发能力严重不足。[[Argument_Revai_2022_ChangingLandscape|(OECD, 2000, 2003; Révai, 2022, p. 16)]]
+> - **2000s 初期 — 研发匮乏与效能焦虑** CERI 早期跨部门知识治理调查揭示，相较于医疗卫生或农业部门，教育系统的知识创造、中介与使用率显著偏低，高水准实证研发能力严重不足。(OECD, 2000, 2003; Révai, 2022, p. 16)
 >
 >   - 部门赤字诊断：教育被指缺乏系统化知识管理协议与规模化转化渠道。
 >
-> - **2000s 中期 — “什么起作用”循证运动蔓延** 伴随实证主义政策风潮，英美等国将循证医学模型机械移植至教育领域，推崇以大规模量化实验与效果等级为核心的工具主义治理。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–17)]]
+> - **2000s 中期 — “什么起作用”循证运动蔓延** 伴随实证主义政策风潮，英美等国将循证医学模型机械移植至教育领域，推崇以大规模量化实验与效果等级为核心的工具主义治理。(Révai, 2022, pp. 16–17)
 >
 >   - 等级偏误泛滥：[[Systematic Review|系统综述]]与[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）被奉为金标准，[[Qualitative Research|质性研究]]与一线经验遭边缘化。
 
@@ -194,7 +194,7 @@ updated: 2026-09-12
 
 > [!case] 实证主义证据等级导向的中介机制探索
 > - **新西兰[[Best Evidence Synthesis|最佳证据综合]]（Best Evidence Synthesis, BES）**
->   系统梳理大规模实证干预效应，尝试为教育政策提供等级化的因果干预依据，但早期实践暴露出对微观情境[[Heterogeneity|异质性]]解释乏力的困境。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 17)]]
+>   系统梳理大规模实证干预效应，尝试为教育政策提供等级化的因果干预依据，但早期实践暴露出对微观情境[[Heterogeneity|异质性]]解释乏力的困境。(Révai, 2022, p. 17)
 > - **英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）教学与学习工具箱**
 >   以标准化[[Effect Size|效应量]]（月度进展）和实施成本对教学干预分类建档，推动了实证研究的普及，但也引发了关于处方式教学工具是否侵蚀教师专业裁量权的学界反思。同上
 
@@ -251,7 +251,7 @@ updated: 2026-09-12
 > - **用户全程参与（User Engagement）** 将教师与决策官员作为平等研究伙伴嵌入立项与执行阶段；
 > - **可持续伙伴关系（Sustainable Partnerships）** 跨越高校与中小学校际边界，组建共担责任的跨[[Professional Learning Community|专业学习共同体]]；
 > - **团队联合生产（Co-production）** 共同界定实践难题，协同完成研究设计与成果转译；
-> - **全系统能力建设（Capacity Building）** 重点培育兼具学术洞察与实践敏感度的跨界领军人才。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]]
+> - **全系统能力建设（Capacity Building）** 重点培育兼具学术洞察与实践敏感度的跨界领军人才。(Révai, 2022, pp. 20–21)
 
 #### 2. 新一代证据生态系统将生产、综合、翻译与利用有机统摄，确立了全系统激活的四维支柱
 
@@ -259,9 +259,9 @@ updated: 2026-09-12
 
 > [!case] 证据生态系统的全链条激活实践：英国 EEF [[Research Schools Network|研究学校网络]]
 > - **研究学校网络（Research Schools Network）**
->   由 EEF 评选标杆学校担任区域[[Innovation Hub|创新枢纽]]，面向全区中小学校长与教师开展常态化循证教学培训，打破大学与中小学的制度壁垒。[[Argument_Revai_2022_ChangingLandscape|(EEF, 2019; Révai, 2022, pp. 20–21)]]
+>   由 EEF 评选标杆学校担任区域[[Innovation Hub|创新枢纽]]，面向全区中小学校长与教师开展常态化循证教学培训，打破大学与中小学的制度壁垒。(EEF, 2019; Révai, 2022, pp. 20–21)
 > - **研究学习网络（Research Learning Networks, RLNs）**
->   依托学者与一线教师的深度结对，开展平等的“学习对话”（Learning Conversations），在课堂真实情境中协同调试与[[Going Native|本土化]]创生教学证据（Brown, 2018）。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 21)]]
+>   依托学者与一线教师的深度结对，开展平等的“学习对话”（Learning Conversations），在课堂真实情境中协同调试与[[Going Native|本土化]]创生教学证据（Brown, 2018）。(Révai, 2022, p. 21)
 
 > [!theory-components] 激活证据生态系统的复杂系统核心构件（Best & Holmes, 2010）
 > - **证据与知识多元统筹（Evidence and Knowledge）**
@@ -305,7 +305,7 @@ updated: 2026-09-12
 
 > [!policy-context] 外部资助规制对研究生态的塑造与扭曲
 > - **发布主体与规制工具**
->   美国联邦政府颁布 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB），以行政拨款指令将资助严苛绑定于极少数实证方法（尤其是大规模量化 RCT）。[[Argument_Revai_2022_ChangingLandscape|(Fazekas & Burns, 2012; Révai, 2022, p. 22)]]
+>   美国联邦政府颁布 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB），以行政拨款指令将资助严苛绑定于极少数实证方法（尤其是大规模量化 RCT）。(Fazekas & Burns, 2012; Révai, 2022, p. 22)
 > - **制度位置与生态后果**
 >   该规制严重挫伤了教育研究生态的理论丰富性与方法多元性；与此同时，私人基金会与智库资本的强势介入虽补充了研发经费，但其先验议程亦对学术研究的独立性构成了潜在侵害（Rasmussen, 2021）。
 
@@ -336,7 +336,7 @@ updated: 2026-09-12
 
 > [!tension] 跨国政策调查中“政策制定者”内涵认知的界定分歧
 > 本项目政策调查精准锚定最高决策机构（教育部/教育厅）。在联邦制体系中由各省/州教育部负责横向协调并统筹答卷。随后的跟进访谈揭示了各国对“政策制定者”（Policy Makers）内涵认知的显著分歧，这提示横向对比各国调查数据时必须审慎考虑受访者行政背景带来的口径偏倚：（p.25）
-> - **狭义界定（高层行政裁决权）** 绝大多数教育系统将其严格限定为具有实质决策裁决权的高级行政长官（如司局长、总司长、常务秘书），明确将决策职能与政策执行人员区隔开来。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 25)]]
+> - **狭义界定（高层行政裁决权）** 绝大多数教育系统将其严格限定为具有实质决策裁决权的高级行政长官（如司局长、总司长、常务秘书），明确将决策职能与政策执行人员区隔开来。(Révai, 2022, p. 25)
 > - **广义界定（全系统行政人员）** 部分国家采取大行政观，将教育部所有专业雇员以及行政与立法分支涉及教育事务的所有人员全数纳入考量，导致跨国调查数据口径存在异质性。同上
 
 > [!method-panel] 跨国政策调查的三大核心实证探究模块（pp.25–26）
@@ -360,7 +360,7 @@ updated: 2026-09-12
 > [!index-table] 强化教育研究影响力的五大系统分析维度与核心探究问题（Figure 1.1 & Table 1.1）
 > | 系统分析维度（Dimensions） | 核心内涵与分析聚焦（Focus & Scope） | 核心探究问题（Key Questions） |
 > |---|---|---|
-> | **1. 结构与过程<br>（Structures and Processes）** | 聚焦国家与地方层面的中介机构、研发中心、网络平台及整体治理战略如何支持证据流动，重点考察各类中介机制如何被有效评估。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 24–25)]] | <ul><li>我们该如何科学评估教育研究的影响力，以及支持研究利用的各类结构与过程？</li><li>哪些组织结构（如中介机构、研发网络）与行政规程能有效促成政策与实践中的研究使用？</li><li>何种系统层级的宏观战略与跨部门协调机制能够在全系统规模化放大教育研究的成效？</li></ul> |
+> | **1. 结构与过程<br>（Structures and Processes）** | 聚焦国家与地方层面的中介机构、研发中心、网络平台及整体治理战略如何支持证据流动，重点考察各类中介机制如何被有效评估。|(Révai, 2022, pp. 24–25) | <ul><li>我们该如何科学评估教育研究的影响力，以及支持研究利用的各类结构与过程？</li><li>哪些组织结构（如中介机构、研发网络）与行政规程能有效促成政策与实践中的研究使用？</li><li>何种系统层级的宏观战略与跨部门协调机制能够在全系统规模化放大教育研究的成效？</li></ul> |
 > | **2. 关系与网络<br>（Relationships）** | [[Evaluation Research\|评估研究]]者、官员、教师与第三方中介之间的互动质量、信任度与长效伙伴关系构建，探究深层社会资本对研究采纳的促进机制。 | <ul><li>在政策与实践中强化教育研究的影响力，需要建立哪些至关重要的社会关系？</li><li>行动者之间的长期互动网络与信任伙伴关系，究竟通过何种社会机制巩固并深化了研究的使用？</li></ul> |
 > | **3. 质量与相关性<br>（Quality and Relevance）** | 探索如何定义并测量研究利用的高质量（Quality Use of Research），从源头提高教育学术产出对政策与课堂的现实关涉度与[[Ecological Validity\|生态效度]]。 | <ul><li>我们该如何界定并评估政策制定与课堂教学中研究利用的高质量（Quality Use）？</li><li>我们该如何从源头上提升教育研究的内在方法学品质，并增强其对政策与教学现实痛点的关涉度？</li></ul> |
 > | **4. 文化与心态<br>（Culture and Mindset）** | 关注如何克服决策官员与教师对研究的冷漠甚至防备，培育实证决策文化，并重构大学评价与科研考核中对跨界协作的激励导向。 | <ul><li>我们该如何提升政策制定者与实践者的专业意识，树立系统化利用教育研究的积极正向文化心态？</li><li>组织层面与系统层面的专业领导力该如何协同发挥作用，推动形成尊重实证证据的决策文化？</li><li>我们该如何重构并革新现行大学与科研机构的学术激励体制，引导科研人员投身实践协同？</li></ul> |

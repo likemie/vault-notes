@@ -71,7 +71,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-08-25
+updated: 2026-09-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
@@ -277,7 +277,7 @@ Castells 据此区分了两种空间逻辑：
 
 > [!tension] 全球教育网络权力逻辑的学术分歧
 > - **意识形态霸权论（新自由主义主导）** 既有[[Document|文献]]普遍将全球教育网络与新自由主义及亲市场改革绑定，认为其是由“华盛顿共识”和跨国资本驱动的同质性霸权空间(Robertson & Dale, 2006; Ball, 2007)。
-> - **竞争性多元网络（操演性政治主导）** Beech 指出，随着基础设施的普及，流动空间已演变为竞争性的、有争议的多元网络。在操演性与实用主义驱动下，行动者跨越意识形态进行临时合作(Castells, 2000b; [[Argument_Beech_2009_CE|Beech, 2009]])。
+> - **竞争性多元网络（操演性政治主导）** Beech 指出，随着基础设施的普及，流动空间已演变为竞争性的、有争议的多元网络。在操演性与实用主义驱动下，行动者跨越意识形态进行临时合作(Castells, 2000b; Beech, 2009)。
 
 > [!case] [[Education International]] 的悖论性联盟
 > Education International 是一个覆盖 172 个国家和地区的全球教师工会网络，拥有 401 个成员组织。它的公开修辞强调保护和促进公共免费教育及机会平等，总体持反新自由主义立场。然而，它的全球合作伙伴名单中包括了 IMF 和世界银行，这两个通常被认为是亲市场改革典范的机构(www.ei-ie.org)。

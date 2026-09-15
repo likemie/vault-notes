@@ -35,7 +35,7 @@ tags:
  - school-reform
  - constructivism
 created: '2026-07-28'
-updated: '2026-08-27'
+updated: 2026-09-15
 sources: []
 related_concepts:
   - "[[Active Learning]]"
@@ -177,12 +177,12 @@ related_persons:
 > [!citation-card]- 关键引用：杜威关于经验与教育的论述
 > 教育不是为未来的生活做准备；教育就是生活本身。经验的连续重组是生长的核心。（Dewey, 1938, p. 47; 引自 Darwish, 2009, p. 5）
 >
-> *Education is not preparation for life; education is life itself. (Dewey, 1938, p. 47; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 5]])*
+> *Education is not preparation for life; education is life itself. (Dewey, 1938, p. 47; Darwish, 2009, p. 5)*
 
 > [!citation-card]- 关键引用：弗莱雷批判储蓄式教育
 > 在储蓄式教育中，知识是那些自以为有知识的人赐予给那些被他们认定为一无所知的人的礼物。这种灌输压抑了学习者的批判意识。（Freire, 1970, p. 72; 引自 Darwish, 2009, p. 7）
 >
-> *Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other. (Freire, 1970, p. 72; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 7]])*
+> *Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other. (Freire, 1970, p. 72; Darwish, 2009, p. 7)*
 
 
 ### 第3章 约翰·杜威的教育哲学（John Dewey’s Philosophy of Education）
@@ -221,7 +221,7 @@ related_persons:
 > [!quote] 框图3.1：杜威关于教育生长的核心宪章
 > 儿童是起点、中心与终点。他的发展，他的生长，是唯一的理想。唯有它提供标准。一切研究都必须服从于儿童的生长。(Dewey, 1902, p. 9; 引自 Darwish, 2009, p. 28)
 >
-> *The child is at the starting-point, the center, and the end. His development, his growth, is the ideal. It alone furnishes the standard. To the growth of the child all studies are subservient. (Dewey, 1902, p. 9; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 28]])*
+> *The child is at the starting-point, the center, and the end. His development, his growth, is the ideal. It alone furnishes the standard. To the growth of the child all studies are subservient. (Dewey, 1902, p. 9; Darwish, 2009, p. 28)*
 
 > [!warning] 警惕：基于拒绝与对立的消极教育哲学
 > 杜威特别告诫进步教育者，绝不能仅仅通过否定传统教育来建立进步教育（Dewey, 1963, pp. 19–20; p. 28）。如果某种教育哲学仅仅建立在拒绝与对立（rejection and sheer opposition）之上，它就无法形成建设性的理论依据。进步教育必须建立在关于经验本质的积极、连贯的科学基础之上 (p. 28)。
@@ -289,12 +289,12 @@ related_persons:
 > [!quote] 框图3.2：杜威反思性思维的经典定义
 > 反思性思维是对任何信念或假定的知识形式，根据支持它的理由和它所指向的进一步结论，予以主动、持续和仔细的思考。(Dewey, 1910, p. 6; 引自 Darwish, 2009, p. 37)
 >
-> *Reflective thought is active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it and the further conclusions to which it tends. (Dewey, 1910, p. 6; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 37]])*
+> *Reflective thought is active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it and the further conclusions to which it tends. (Dewey, 1910, p. 6; Darwish, 2009, p. 37)*
 
 > [!quote] 框图3.3：沟通作为社会生活的基石
 > 社会不仅因沟通、因传播而继续存在，而且大可合理地说，社会即在沟通、传播中存在。在相互传递与共同分享的沟通活动中，原本分散的个体获得了共同的心灵与理解。(Dewey, 1961; 引自 Axtell & Burnett, 1970; Darwish, 2009, p. 39)
 >
-> *Society not only continues to exist by transmission, by communication, but it may fairly be said to exist in transmission, in communication. (Dewey, 1961; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 39]])*
+> *Society not only continues to exist by transmission, by communication, but it may fairly be said to exist in transmission, in communication. (Dewey, 1961; Darwish, 2009, p. 39)*
 
 #### 探究流程图
 
@@ -389,7 +389,7 @@ related_persons:
 ---
 
 > [!case] 课例3.4：现实觉察与改变行动的撕裂：肥胖者健康觉察案例
-> 为了说明从理智觉察到变革行动之间的深刻鸿沟，[[Argument_Darwish_2009_Queens|Darwish (2009, p. 42)]] 提出了一个现实生活案例：
+> 为了说明从理智觉察到变革行动之间的深刻鸿沟，Darwish (2009, p. 42) 提出了一个现实生活案例：
 > 
 > - **现象与理性觉察**
 >   在现代社会中，许多患有肥胖症的人在理智与认知上完全清楚、觉察到自己面临的健康危机、血管病变风险与生活困境 (p. 42)。
@@ -465,7 +465,7 @@ related_persons:
 > [!quote] 框图4.1：弗莱雷对储蓄式教育异化本质的经典断言
 > 教师展示自己是其学生不可或缺的反面；通过将学生的无知判定为绝对的，教师确立了自己存在的合理性。学生在异化中接受这种判定，但与苏格拉底式的无知觉察不同，学生永远无法觉察到自己也在教育教师。(Freire, 2000, p. 72; 引自 Darwish, 2009, p. 45)
 >
-> *Education thus becomes an act of depositing, in which the students are the depositories and the teacher is the depositor... The teacher presents himself to his students as their necessary opposite; by considering their ignorance absolute, he justifies his own existence. (Freire, 2000, p. 72; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 45]])*
+> *Education thus becomes an act of depositing, in which the students are the depositories and the teacher is the depositor... The teacher presents himself to his students as their necessary opposite; by considering their ignorance absolute, he justifies his own existence. (Freire, 2000, p. 72; Darwish, 2009, p. 45)*
 
 ---
 
@@ -512,7 +512,7 @@ related_persons:
 > [!quote] 框图4.2：弗莱雷关于实践（Praxis）与人性化的经典定义
 > 人并非在沉默中获得人性化，而是在词语、劳动、反思与实践中获得人性化。实践是改变世界的反思与行动。只说话而不行动是空谈；只行动而不思考是盲动。(Freire, 2000, p. 87; 引自 Darwish, 2009, p. 48)
 >
-> *Human existence cannot be silent... Praxis is reflection and action upon the world in order to transform it. Those who have been denied their primordial right to speak their word must first reclaim this right. (Freire, 2000, p. 87; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 48]])*
+> *Human existence cannot be silent... Praxis is reflection and action upon the world in order to transform it. Those who have been denied their primordial right to speak their word must first reclaim this right. (Freire, 2000, p. 87; Darwish, 2009, p. 48)*
 
 ---
 

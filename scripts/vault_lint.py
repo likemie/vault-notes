@@ -1418,7 +1418,7 @@ def check_summary(path: Path, fm: str, summary: Any, issues: List[Issue]) -> Non
             issues.append(Issue("WARN", rel(path), f"summary should not use phrase {phrase!r}", line=line, code="SUMMARY_STYLE"))
 
 
-def check_wikilinks(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
+def check_wikilinks(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], issues: List[Issue], data: Optional[Dict[str, Any]] = None) -> None:
     if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path):
         return
 
@@ -1439,6 +1439,24 @@ def check_wikilinks(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], 
         # Ignore relative headings only.
         if not target:
             continue
+
+        # Argument entries must not cite themselves via wikilink.
+        if is_argument_entry(data):
+            self_targets = {path.stem}
+            if data and data.get("title"):
+                self_targets.add(str(data["title"]).strip())
+            if data and data.get("argument_key"):
+                self_targets.add(str(data["argument_key"]).strip())
+            if target in self_targets:
+                issues.append(Issue(
+                    "ERROR",
+                    rel(path),
+                    f"argument page should not cite itself via wikilink: [[{raw}]]",
+                    line=line_of_pos(body, m.start(), body_start_line),
+                    code="ARGUMENT_SELF_CITATION",
+                ))
+                continue
+
         # Ignore attachments and non-md obvious files in normal links? Normal [[file.pdf]] should warn.
         if Path(target).suffix.lower() in {".pdf", ".epub", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}:
             issues.append(Issue("WARN", rel(path), f"file link should usually be embedded with ![[...]] or placed in source page: [[{raw}]]", line=line_of_pos(body, m.start(), body_start_line), code="FILE_WIKILINK"))
@@ -2237,9 +2255,18 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
             continue
         if has_english_author_and(txt):
             issues.append(Issue("WARN", rel(path), f"English two-author citation should use '&': {txt!r} -> {fix_english_author_and(txt)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
+        self_targets = {path.stem} if is_argument_entry(data) else set()
+        if is_argument_entry(data) and data:
+            if data.get("title"):
+                self_targets.add(str(data["title"]).strip())
+            if data.get("argument_key"):
+                self_targets.add(str(data["argument_key"]).strip())
+            if data.get("part_of"):
+                self_targets.add(extract_wikilink_target(str(data["part_of"])))
         has_matching_argument = any(
             citation_display_matches_aliases(txt, item.get("aliases", []))
-            for item in argument_citations.values()
+            for target_name, item in argument_citations.items()
+            if target_name not in self_targets
         )
         if has_matching_argument:
             issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument: {txt}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_UNLINKED"))
@@ -2268,7 +2295,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_templater_placeholders(path, text, issues)
 
     data = check_frontmatter(path, text, by_title, issues)
-    check_wikilinks(path, text, by_title, issues)
+    check_wikilinks(path, text, by_title, issues, data)
     check_sources_section(path, text, data, issues)
     check_template_consistency(path, text, issues)
     check_source_record(path, text, issues)
