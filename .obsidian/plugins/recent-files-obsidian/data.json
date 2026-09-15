@@ -5,16 +5,24 @@
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md"
     },
     {
+      "basename": "Argument_Ross_Morrison_2021_ROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ROE.md"
+    },
+    {
+      "basename": "Scale of Measurement",
+      "path": "wiki/concepts/research-methodology/Scale of Measurement.md"
+    },
+    {
+      "basename": "Evaluator Independence",
+      "path": "wiki/concepts/educational-policy-reform/Evaluator Independence.md"
+    },
+    {
       "basename": "Peter Lampl",
       "path": "wiki/persons/uk/Peter Lampl.md"
     },
     {
       "basename": "Literacy Octopus",
       "path": "wiki/facts/uk/Literacy Octopus.md"
-    },
-    {
-      "basename": "Scale of Measurement",
-      "path": "wiki/concepts/research-methodology/Scale of Measurement.md"
     },
     {
       "basename": "Education Endowment Foundation",
@@ -89,10 +97,6 @@
       "path": "wiki/instruments/checklists/CONSORT-SPI.md"
     },
     {
-      "basename": "Argument_Ross_Morrison_2021_ROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ROE.md"
-    },
-    {
       "basename": "Argument_Pellegrini_2021_ROE",
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Pellegrini_2021_ROE.md"
     },
@@ -143,10 +147,6 @@
     {
       "basename": "Realist Evaluation",
       "path": "wiki/theories/research-methodology/Realist Evaluation.md"
-    },
-    {
-      "basename": "Evaluator Independence",
-      "path": "wiki/concepts/educational-policy-reform/Evaluator Independence.md"
     },
     {
       "basename": "Evidence Standards",

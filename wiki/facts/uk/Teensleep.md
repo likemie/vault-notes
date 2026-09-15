@@ -11,6 +11,10 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#ede9fe"
 period: "2014–2016"
 initiator_organization: "[[Education Endowment Foundation]]"
 tags:
