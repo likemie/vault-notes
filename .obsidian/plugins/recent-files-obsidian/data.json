@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Efficacy and Effectiveness Trials",
+      "path": "wiki/methods/quantitative/Efficacy and Effectiveness Trials.md"
+    },
+    {
       "basename": "Argument_Edovald_Nevill_2021_ROE",
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md"
+    },
+    {
+      "basename": "Fade-out Effect",
+      "path": "wiki/concepts/educational-policy-reform/Fade-out Effect.md"
+    },
+    {
+      "basename": "SPECTRUM",
+      "path": "wiki/facts/uk/SPECTRUM.md"
+    },
+    {
+      "basename": "National Pupil Database",
+      "path": "wiki/facts/uk/National Pupil Database.md"
+    },
+    {
+      "basename": "Intent-to-Treat Analysis",
+      "path": "wiki/methods/quantitative/Intent-to-Treat Analysis.md"
+    },
+    {
+      "basename": "Learner Autonomy",
+      "path": "wiki/concepts/competency-and-assessment/Learner Autonomy.md"
+    },
+    {
+      "basename": "Pupil Premium",
+      "path": "wiki/facts/uk/Pupil Premium.md"
     },
     {
       "basename": "Regression Discontinuity Design",
@@ -21,24 +49,12 @@
       "path": "wiki/concepts/sociology-of-education/Tracking.md"
     },
     {
-      "basename": "Efficacy and Effectiveness Trials",
-      "path": "wiki/methods/quantitative/Efficacy and Effectiveness Trials.md"
-    },
-    {
-      "basename": "SPECTRUM",
-      "path": "wiki/facts/uk/SPECTRUM.md"
-    },
-    {
       "basename": "Floor and Ceiling Effects",
       "path": "wiki/concepts/research-methodology/Floor and Ceiling Effects.md"
     },
     {
       "basename": "TIDieR",
       "path": "wiki/instruments/checklists/TIDieR.md"
-    },
-    {
-      "basename": "National Pupil Database",
-      "path": "wiki/facts/uk/National Pupil Database.md"
     },
     {
       "basename": "CONSORT-SPI",
@@ -183,22 +199,6 @@
     {
       "basename": "Research Schools Network",
       "path": "wiki/facts/uk/Research Schools Network.md"
-    },
-    {
-      "basename": "Evidence-Based Education",
-      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
-    },
-    {
-      "basename": "Internal Validity",
-      "path": "wiki/concepts/research-methodology/Internal Validity.md"
-    },
-    {
-      "basename": "Causality",
-      "path": "wiki/concepts/educational-philosophy/Causality.md"
-    },
-    {
-      "basename": "Implementation Fidelity",
-      "path": "wiki/concepts/educational-policy-reform/Implementation Fidelity.md"
     }
   ],
   "omittedPaths": [],

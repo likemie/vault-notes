@@ -78,7 +78,7 @@ updated: 2026-09-15
 > - **立项时间 / 周期** 2014 年立项启动，2017 年正式发布综述成果与数据库成果（Wigelsworth et al., 2017）。
 > - **发起方与资助机制** 由英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）全额委托资助，曼彻斯特大学心理学与教育学专家团队牵头研发。
 > - **覆盖范围与对象** 聚焦 4–16 岁儿童与青少年的非认知技能测评，系统筛查数千项国际文献并深度审核上百种标准化心理量表。
-> - **官方平台与资源门户** 官方资源库门户为 [EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/evaluation/evaluation-resources/spectrum-database/)（亦见 [EEF 非认知与核心技能评估专题页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluating-projects/evaluating-essential-skills)）；项目官方操作指南全文收录于 [EEF Guidance Report (PDF)](https://educationendowmentfoundation.org.uk/public/files/Evaluation/SPECTRUM/V6_Guidance_document.pdf)。
+> - **官方平台与资源门户** 官方资源库门户为 [EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)（亦见 [EEF 非认知与核心技能评估专题页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluating-projects/evaluating-essential-skills)）；项目官方操作指南全文收录于 [EEF Guidance Report (PDF)](https://educationendowmentfoundation.org.uk/public/files/Evaluation/SPECTRUM/V6_Guidance_document.pdf)。
 > - **核心问题导向** 伴随 EEF 资助领域向学前教育与非认知领域（如[[Self-control|自我控制]]、抗逆力）扩展，市场上非认知量表良莠不齐、心理测量学属性薄弱，严重威胁试验主要结局的[[Causality|因果推断]]效度。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-09-15
 > [!dev-timeline] 项目推进历程
 > - **2014 — 战略拓展与立项委托** [[Education Endowment Foundation|EEF]] 正式将资助边界从单一学科认知考试拓展至非认知与学前领域，委托曼彻斯特大学迈克尔·威格斯沃思团队启动系统[[Literature Review|文献综述]]。
 > - **2015–2016 — 心理测量学属性系统审查** 研发团队针对国际公开发表的数百种儿童非认知测评工具开展深度循证审查，逐项检验测量模型、常模代表性、[[Cross-cultural Validity|跨文化效度]]与校园施测负担。
-> - **2017 — 成果发布与数据库上线** 正式发布 SPECTRUM 综合操作指南《[A brief guide to the selection, use, and interpretation of SPECTRUM measures](https://educationendowmentfoundation.org.uk/public/files/Evaluation/SPECTRUM/V6_Guidance_document.pdf)》与[在线检索数据库平台](https://educationendowmentfoundation.org.uk/evaluation/evaluation-resources/spectrum-database/)，为全英教育评估机构提供推荐工具清单与五星评级标准。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
+> - **2017 — 成果发布与数据库上线** 正式发布 SPECTRUM 综合操作指南《[A brief guide to the selection, use, and interpretation of SPECTRUM measures](https://educationendowmentfoundation.org.uk/public/files/Evaluation/SPECTRUM/V6_Guidance_document.pdf)》与[在线检索数据库平台](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)，为全英教育评估机构提供推荐工具清单与五星评级标准。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
 > - **2018–至今 — 制度化审查与协同演进** 成果直接融入 EEF 试验评估协议审查流程，成为评估团队设计干预结局指标时的指定参考[[Paradigm|范式]]。
 
 ---

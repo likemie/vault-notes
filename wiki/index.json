@@ -9420,6 +9420,18 @@
     ]
   },
   {
+    "title": "Lesson Study",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Lesson Study.md",
+    "aliases": [
+      "课例研究",
+      "课堂研究",
+      "授業研究",
+      "Jugyou Kenkyuu",
+      "Lesson Study Model"
+    ]
+  },
+  {
     "title": "Normal School",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Normal School.md",
@@ -14128,6 +14140,19 @@
     ]
   },
   {
+    "title": "Difference-in-Differences",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Difference-in-Differences.md",
+    "aliases": [
+      "双重差分法",
+      "DID",
+      "双重差分",
+      "倍差法",
+      "Difference in Differences",
+      "Diff-in-Diff"
+    ]
+  },
+  {
     "title": "Ebel Method",
     "type": "method",
     "path": "wiki/methods/quantitative/Ebel Method.md",
@@ -14925,6 +14950,18 @@
       "PRISMA Statement",
       "PRISMA Flow Diagram",
       "Preferred Reporting Items for Systematic Reviews and Meta-Analyses"
+    ]
+  },
+  {
+    "title": "Propensity Score Matching",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Propensity Score Matching.md",
+    "aliases": [
+      "倾向得分匹配",
+      "PSM",
+      "倾向评分匹配",
+      "倾向得分匹配法",
+      "Propensity Score Matching Method"
     ]
   },
   {
@@ -22179,6 +22216,17 @@
       "全课程评价体验项目",
       "英国全课程评价体验项目",
       "Transforming the Experience of Students Through Assessment"
+    ]
+  },
+  {
+    "title": "Thinking, Doing, Talking Science",
+    "type": "fact",
+    "path": "wiki/facts/uk/Thinking, Doing, Talking Science.md",
+    "aliases": [
+      "思考、动手、对话科学",
+      "TDTS",
+      "思考、操作、对话科学",
+      "Thinking Doing Talking Science"
     ]
   },
   {
