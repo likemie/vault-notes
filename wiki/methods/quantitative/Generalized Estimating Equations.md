@@ -8,6 +8,11 @@ aliases:
 summary: "用于分析纵向追踪与群聚相关数据的半参数半回归方法，采用准似然估计和三明治稳健方差，在工作相关矩阵结构可能误设的情况下仍能获得群体平均效应的无偏一致估计。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/quantitative
   - method/statistical

@@ -7,6 +7,11 @@ aliases:
   - scales of measurement
 summary: "量化研究中将理论构念转化为可分析数据的赋值法则与度量层级，涵盖分类量表（名义、顺序）与连续量表（等距、比率），其心理计量属性与量程灵敏度直接决定了统计模型推断效度与因果评价公信力。"
 type: concept
+domain: "research-methodology"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist

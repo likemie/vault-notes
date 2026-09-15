@@ -10,6 +10,11 @@ aliases:
 summary: "包含三个或更多平行实验组（实验臂）的随机对照试验设计，通过共享对照组评估多种竞争性干预的相对疗效，并依托族系误差率（FWER）校正方法控制多重比较偏误。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/quantitative
   - method/experimental

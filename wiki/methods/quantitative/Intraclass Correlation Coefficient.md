@@ -10,6 +10,11 @@ aliases:
 summary: "用于度量多层嵌套或集群数据中同组观测值之间相似程度的统计量，表示总变异中可归因于群间差异的比例，是整群试验设计效应评估、有效样本量换算与聚类标准误校正的核心参数。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/quantitative
   - method/statistical
