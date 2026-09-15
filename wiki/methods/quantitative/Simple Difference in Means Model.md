@@ -9,6 +9,11 @@ aliases:
 summary: "RCT 与组间比较中最直观的基础统计模型，直接以处理组与对照组后测样本均值之差估计平均处理效应，虽在随机分配下期望无偏，但未控制基线变异导致残差方差大且统计功效较低。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/quantitative
   - method/statistical

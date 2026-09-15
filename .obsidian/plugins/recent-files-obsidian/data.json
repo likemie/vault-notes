@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Factorial Design",
-      "path": "wiki/methods/quantitative/Factorial Design.md"
+      "basename": "Lesson Study",
+      "path": "wiki/concepts/teacher-education/Lesson Study.md"
     },
     {
       "basename": "Argument_Edovald_Nevill_2021_ROE",
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md"
+    },
+    {
+      "basename": "Education Endowment Foundation",
+      "path": "wiki/facts/uk/Education Endowment Foundation.md"
+    },
+    {
+      "basename": "SPECTRUM",
+      "path": "wiki/facts/uk/SPECTRUM.md"
+    },
+    {
+      "basename": "Scale of Measurement",
+      "path": "wiki/concepts/research-methodology/Scale of Measurement.md"
+    },
+    {
+      "basename": "Propensity Score Matching",
+      "path": "wiki/methods/quantitative/Propensity Score Matching.md"
+    },
+    {
+      "basename": "Factorial Design",
+      "path": "wiki/methods/quantitative/Factorial Design.md"
     },
     {
       "basename": "Covariate Adjustment",
@@ -15,10 +35,6 @@
     {
       "basename": "Fade-out Effect",
       "path": "wiki/concepts/educational-policy-reform/Fade-out Effect.md"
-    },
-    {
-      "basename": "SPECTRUM",
-      "path": "wiki/facts/uk/SPECTRUM.md"
     },
     {
       "basename": "National Pupil Database",
@@ -91,10 +107,6 @@
     {
       "basename": "EEF Padlock Security Rating",
       "path": "wiki/instruments/checklists/EEF Padlock Security Rating.md"
-    },
-    {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
     },
     {
       "basename": "Edovald_Nevill_2021_ROE",
@@ -187,14 +199,6 @@
     {
       "basename": "What Works Clearinghouse",
       "path": "wiki/facts/us/What Works Clearinghouse.md"
-    },
-    {
-      "basename": "Institute of Education Sciences",
-      "path": "wiki/facts/us/Institute of Education Sciences.md"
-    },
-    {
-      "basename": "Conflict of Interest in Research",
-      "path": "wiki/concepts/university-industry-collaboration/Conflict of Interest in Research.md"
     }
   ],
   "omittedPaths": [],
