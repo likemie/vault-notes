@@ -22329,6 +22329,17 @@
     ]
   },
   {
+    "title": "Feedback Action Research Trial",
+    "type": "fact",
+    "path": "wiki/facts/uk/Feedback Action Research Trial.md",
+    "aliases": [
+      "课堂反馈行动研究试验",
+      "教师反馈行动研究试验",
+      "Durham Feedback Action Research Trial",
+      "See et al. 2016 Feedback Trial"
+    ]
+  },
+  {
     "title": "Girls Into Science and Technology Project",
     "type": "fact",
     "path": "wiki/facts/uk/Girls Into Science and Technology Project.md",
@@ -22465,6 +22476,16 @@
       "社会、心理、情感、自我概念与韧性：理解与测量",
       "SPECTRUM Database",
       "Social, Psychological, Emotional, Concepts of Self, and Resilience: Understanding and Measurement"
+    ]
+  },
+  {
+    "title": "Strategic School Improvement Fund",
+    "type": "fact",
+    "path": "wiki/facts/uk/Strategic School Improvement Fund.md",
+    "aliases": [
+      "SSIF",
+      "战略学校改进基金",
+      "Strategic School Improvement Fund (SSIF)"
     ]
   },
   {
@@ -23297,6 +23318,18 @@
     "aliases": [
       "美国国防高级研究计划局",
       "Defense Advanced Research Projects Agency"
+    ]
+  },
+  {
+    "title": "Every Student Succeeds Act",
+    "type": "fact",
+    "path": "wiki/facts/us/Every Student Succeeds Act.md",
+    "aliases": [
+      "ESSA",
+      "每个学生成功法",
+      "每一个学生成功法案",
+      "每一个学生成功法",
+      "Every Student Succeeds Act 2015"
     ]
   },
   {

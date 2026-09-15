@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Literature Search",
+      "path": "wiki/concepts/research-methodology/Literature Search.md"
+    },
+    {
+      "basename": "Literature Map",
+      "path": "wiki/methods/mixed/Literature Map.md"
+    },
+    {
+      "basename": "Agent-based Modelling",
+      "path": "wiki/methods/mixed/Agent-based Modelling.md"
+    },
+    {
       "basename": "Argument_Gorard_2020_ROE",
       "path": "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
+    },
+    {
+      "basename": "Argument_Beech_2015_GSE",
+      "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md"
     },
     {
       "basename": "Action Research",
@@ -125,10 +141,6 @@
       "path": "wiki/concepts/teacher-education/Research Literacy.md"
     },
     {
-      "basename": "Literature Search",
-      "path": "wiki/concepts/research-methodology/Literature Search.md"
-    },
-    {
       "basename": "Research Learning Communities Baseline Survey Questionnaire",
       "path": "wiki/instruments/questionnaires/Research Learning Communities Baseline Survey Questionnaire.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Transfer Translation Transformation",
       "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md"
-    },
-    {
-      "basename": "Kim Schildkamp",
-      "path": "wiki/persons/netherlands/Kim Schildkamp.md"
-    },
-    {
-      "basename": "No Child Left Behind Act 2001",
-      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
-    },
-    {
-      "basename": "Chris Brown",
-      "path": "wiki/persons/uk/Chris Brown.md"
     }
   ],
   "omittedPaths": [],
