@@ -9,6 +9,10 @@ summary: "一种按原始随机分配而非实际接受情况来分析结果的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
+method_related_count: 17
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/intent-to-treat-analysis
   - method/quantitative
@@ -39,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: '2026-09-15'
+updated: 2026-09-15
 ---
 
 # Intent-to-Treat Analysis
