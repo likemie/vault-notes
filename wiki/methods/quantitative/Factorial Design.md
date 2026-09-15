@@ -5,8 +5,6 @@ aliases:
   - 析因设计
   - factorial experiment
   - 2x2 factorial design
-  - 多臂与析因试验
-  - multi-arm trial
   - 析因实验
   - factorial trial
 summary: "同时操纵两个或多个自变量以检验主效应与交互效应的实验设计；在第二代循证试验中用于解构复杂干预组件并检验条件性因果关系。"
@@ -70,9 +68,9 @@ updated: 2026-09-15
 ## 定义
 
 > [!def] 因子设计
-> 因子设计（Factorial Design），亦称**析因设计**或**多臂析因试验（Multi-Arm and Factorial Trials）**，是[[Experimental Research|实验研究]]中同时操纵两个或多个[[Independent Variable|自变量]]（因子），以检验每个自[[Variable|变量]]的独立主效应（Main Effects）以及自变量之间[[Interaction Effect|交互效应]]（Interaction Effects）的高级实验设计类型（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。其命名基于因子数量与水平数——例如 $2 \times 2$ 因子设计表示两个自变量各包含两个水平，形成 4 种正交的实验处理组合。
+> **因子设计（Factorial Design，亦称析因设计）**是[[Experimental Research|实验研究]]中同时操纵两个或多个[[Independent Variable|自变量]]（因子），以检验每个自[[Variable|变量]]的独立主效应（Main Effects）以及自变量之间[[Interaction Effect|交互效应]]（Interaction Effects）的高级实验设计类型（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。其命名基于因子数量与水平数——例如 $2 \times 2$ 因子设计表示两个自变量各包含两个水平，形成 4 种正交的处理组合。
 >
-> 因子设计的核心价值在于揭示**条件性[[Causality|因果关系]]**——即某一自变量的干预效应是否依赖于另一自变量（或环境背景）的特定水平（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 323–324]]）。在第二代[[Evidence-Based Education|循证教育]]与[[Realist Evaluation|现实主义试验]]中，析因设计与多臂试验构成了打破复杂干预“因果黑箱”的核心方法学利器，使得研究者能够系统解构多组分方案，分别及组合检验干预组件的离散效能（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
+> 因子设计在组织结构上通常表现为一种特化的[[Multi-Arm Trial|多臂试验]]（Multi-Arm Trial），但其核心方法学本质在于揭示**条件性[[Causality|因果关系]]**——即某一自变量的干预效应是否依赖于另一自变量（或环境背景）的特定水平（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 323–324]]）。在第二代[[Evidence-Based Education|循证教育]]与[[Realist Evaluation|现实主义试验]]中，析因设计与多臂试验构成了打破复杂干预“因果黑箱”的核心方法学利器，使得研究者能够系统解构多组分方案，分别及组合检验干预组件的离散效能与协同机制（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 被[[Random Assignment|随机分配]]至各因子水平组合的个体受试者或集群单位（如学校、班级）。
@@ -168,9 +166,10 @@ updated: 2026-09-15
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[True Experimental Design]] | 方法体系 | 因子设计是真实验与集群 [[Randomised Controlled Trials\|RCT]] 的高级变体。 |
+> | [[Multi-Arm Trial]] | 组织形式 | 因子设计在实验臂架构上所属的广义多臂试验大类，因子设计为其特化的正交交叉形态。 |
 > | [[Interaction Effect]] | 核心概念 | 因子设计的最核心检验对象就是因子间的条件性交互效应。 |
 > | [[Realist Evaluation]] | 理论[[Paradigm\|范式]] | [[Realism in International Relations\|现实主义]]试验的核心操作工具，通过析因设计检验组件独立效应与情境交互。 |
-> | [[Implementation and Process Evaluation]] | 互补方法 | 过程评估用于监测析因各实验臂的现场[[Implementation Fidelity\|实施保真度]]，防止组间交叉污染。 |
+> | [[Implementation and Process Evaluation]] | 互补方法 | 过程评估用于监测析因各实验臂的现场[[Implementation Fidelity|实施保真度]]，防止组间交叉污染。 |
 > | [[Solomon Four-Group Design]] | 特殊案例 | 所罗门四组设计本质上是处理因素 × 前测因素的 $2 \times 2$ 因子设计。 |
 > | [[Analysis of Variance]] | 统计工具 | 方差分析与方差分解是因子设计标准的数据分析与[[Hypothesis\|假设]]检验方法。 |
 

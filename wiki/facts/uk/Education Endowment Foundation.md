@@ -67,11 +67,11 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
-  - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Efficacy Trial]]"
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Peter Lampl]]"
@@ -84,6 +84,7 @@ related_facts:
   - "[[National Pupil Database]]"
   - "[[Australian Education Research Organisation]]"
   - "[[BHP Foundation]]"
+  - "[[SPECTRUM]]"
   - "[[What Works Network]]"
   - "[[What Works Clearinghouse]]"
   - "[[Ofsted]]"
@@ -155,7 +156,11 @@ updated: 2026-09-15
 
 > [!finding-cards] 核心业务矩阵与代表性成果
 > - **《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit）** 国际公认的旗舰证据聚合平台，综合 5,500 余项研究，对 30 余类教学、组织与关系干预按额外学习月数（Months of Progress）、实施成本（£ 至 £££££）与挂锁安全级别进行动态可视化排名([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, pp. 110–111]])。
-> - **学前教育工具包与非认知测量库** 将证据综合拓展至学前教育领域（Early Years Toolkit），并针对自我调控、坚毅与心理弹性等非认知维度委托[[Systematic Review|系统综述]]，建立标准化工具数据库（Wigelsworth, 2017；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 54]]）。
+> - **学前教育工具包（Early Years Toolkit）** 将证据综合拓展至学前早期教育领域，系统梳理早期读写、早期数学及自我调控等关键干预，为学前教育工作者提供低成本高成效的实践指引。
+> - **权威结局测量工具库矩阵（Outcome Measures and Databases）** 为从源头上提升教育干预评估的心理计量质量与量程敏感度，EEF 构建了三大国家级结局度量数据库：
+>   1. **[[SPECTRUM|SPECTRUM 数据库]]** 委托曼彻斯特大学建立的非认知、核心技能与社会情感测量工具库，深度审查并评定数百种心理量表（Wigelsworth et al., 2017；[EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)）；
+>   2. **学业成就测量数据库（[Attainment Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database)）** 面向 6 至 18 岁中小学生，系统审查并收录经过常模参照的标准化识字、数学与科学测验工具，提供信效度与实践可用性评级；
+>   3. **学前早期测量数据库（[Early Years Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）** 专门评估面向 0 至 6 岁儿童的早期语言、认知与社会情感测量工具，对齐英国早期基础教育阶段（EYFS）框架，帮助研究者与评估者挑选高敏感度度量工具。
 > - **全球教育活数据库（EEF Education Database）** 组织数十名专业[[Coding in Qualitative Research|编码]]员对工具包收录的预计超 10,000 项全球实证研究进行深度编码，建设首个动态更新的全球教育干预实证知识底座。
 > - **前沿实施指导报告（Guidance Reports）** 针对[[Metacognition|元认知]]与[[Self-Regulated Learning|自我调节学习]]、中等教育读写能力提升、初等教育[[Social-Emotional Learning|社会情感学习]]（Social-Emotional Learning，SEL）等核心教学主题，发布操作细化的循证行动指南。
 > - **大规模 [[Randomised Controlled Trials|RCT]] 评估报告公开知识库** 资助完成超过 200 项大型教育 RCT 实验，建立起全球规模最大的单体机构教育现场实验数据库；85% 已发表报告达到 3 把挂锁以上（总体[[Attrition|流失]]率低于 30%）。
@@ -252,3 +257,5 @@ updated: 2026-09-15
 > | [[Strong Beginnings Report]] | Fact (Policy) | 澳大利亚教师教育改革大纲，直接采纳了 EEF 推荐的证据[[Document\|文献]]与大纲要求。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 美国官方清算中心，与 EEF 并列为国际[[Evidence-Based Education\|循证教育]]的两大顶级旗舰。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国本土早期的[[Systematic Review\|系统综述]]先驱，为 EEF 的建立提供了学术方法论滋养。 |
+| [[SPECTRUM]] | Fact (Program) | EEF 委托研发的权威非认知与社会情感测量工具库与准入标准体系。 |
+| [[Literacy Octopus]] | Fact (Program) | EEF 资助开展的大规模多臂试验标志性案例，证实单向信息推介对提升学业无效。 |

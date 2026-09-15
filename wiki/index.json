@@ -14293,8 +14293,6 @@
       "析因设计",
       "factorial experiment",
       "2x2 factorial design",
-      "多臂与析因试验",
-      "multi-arm trial",
       "析因实验",
       "factorial trial"
     ]
@@ -14351,6 +14349,17 @@
     "aliases": [
       "漏斗图",
       "漏斗散点图"
+    ]
+  },
+  {
+    "title": "Generalized Estimating Equations",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Generalized Estimating Equations.md",
+    "aliases": [
+      "广义估计方程",
+      "广义估计方程模型",
+      "GEE",
+      "Generalized Estimating Equations Model"
     ]
   },
   {
@@ -14456,6 +14465,19 @@
     "aliases": [
       "干预研究",
       "干预性研究"
+    ]
+  },
+  {
+    "title": "Intraclass Correlation Coefficient",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Intraclass Correlation Coefficient.md",
+    "aliases": [
+      "组内相关系数",
+      "校正组内相关系数",
+      "群内相关系数",
+      "ICC",
+      "Intra-class Correlation",
+      "Intraclass Correlation"
     ]
   },
   {
@@ -14698,6 +14720,19 @@
     "aliases": [
       "调节变量分析",
       "调节效应分析"
+    ]
+  },
+  {
+    "title": "Multi-Arm Trial",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Multi-Arm Trial.md",
+    "aliases": [
+      "多臂试验",
+      "多臂随机对照试验",
+      "多组试验",
+      "Multi-Arm Randomized Controlled Trial",
+      "Multi-Arm Trials",
+      "Multi-Arm RCT"
     ]
   },
   {
@@ -22181,6 +22216,17 @@
       "ISRCTN registry",
       "国际标准随机对照试验注册库",
       "International Standard Randomised Controlled Trial Number"
+    ]
+  },
+  {
+    "title": "Literacy Octopus",
+    "type": "fact",
+    "path": "wiki/facts/uk/Literacy Octopus.md",
+    "aliases": [
+      "识字八爪鱼",
+      "识字八爪鱼试验",
+      "八爪鱼试验",
+      "Literacy Octopus Trial"
     ]
   },
   {
