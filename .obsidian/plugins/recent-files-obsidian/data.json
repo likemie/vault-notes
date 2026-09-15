@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "EMMIE Framework",
+      "path": "wiki/methods/mixed/EMMIE Framework.md"
+    },
+    {
+      "basename": "Agent-based Modelling",
+      "path": "wiki/methods/mixed/Agent-based Modelling.md"
+    },
+    {
+      "basename": "AMSTAR",
+      "path": "wiki/instruments/checklists/AMSTAR.md"
+    },
+    {
+      "basename": "Prototype Methods",
+      "path": "wiki/methods/mixed/Prototype Methods.md"
+    },
+    {
+      "basename": "Mixed Methods Case Study Design",
+      "path": "wiki/methods/mixed/Mixed Methods Case Study Design.md"
+    },
+    {
+      "basename": "Literature Map",
+      "path": "wiki/methods/mixed/Literature Map.md"
+    },
+    {
+      "basename": "Improvement Science",
+      "path": "wiki/methods/mixed/Improvement Science.md"
+    },
+    {
+      "basename": "Implementation and Process Evaluation",
+      "path": "wiki/methods/mixed/Implementation and Process Evaluation.md"
+    },
+    {
+      "basename": "Gating Procedure",
+      "path": "wiki/methods/mixed/Gating Procedure.md"
+    },
+    {
+      "basename": "Formative Program Evaluation",
+      "path": "wiki/methods/mixed/Formative Program Evaluation.md"
+    },
+    {
+      "basename": "Research Contribution",
+      "path": "wiki/concepts/research-methodology/Research Contribution.md"
+    },
+    {
       "basename": "Argument_Edovald_Nevill_2021_ROE",
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Meta-analysis",
       "path": "wiki/methods/quantitative/Meta-analysis.md"
-    },
-    {
-      "basename": "Homework",
-      "path": "wiki/concepts/instruction-pedagogy/Homework.md"
-    },
-    {
-      "basename": "Quasi-Experimental Designs",
-      "path": "wiki/methods/quantitative/Quasi-Experimental Designs.md"
-    },
-    {
-      "basename": "EEF Teaching and Learning Toolkit",
-      "path": "wiki/facts/uk/EEF Teaching and Learning Toolkit.md"
-    },
-    {
-      "basename": "Self-control",
-      "path": "wiki/concepts/learning-science-cognitive-science/Self-control.md"
-    },
-    {
-      "basename": "Predictive Validity",
-      "path": "wiki/concepts/research-methodology/Predictive Validity.md"
-    },
-    {
-      "basename": "Construct Validity",
-      "path": "wiki/concepts/research-methodology/Construct Validity.md"
-    },
-    {
-      "basename": "Internal Consistency",
-      "path": "wiki/methods/quantitative/Internal Consistency.md"
-    },
-    {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
-      "basename": "Realism in International Relations",
-      "path": "wiki/concepts/comparative-education/Realism in International Relations.md"
-    },
-    {
-      "basename": "Theory of Change",
-      "path": "wiki/theories/educational-policy-reform/Theory of Change.md"
-    },
-    {
-      "basename": "Evidence Ecosystem",
-      "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md"
     }
   ],
   "omittedPaths": [],
