@@ -262,6 +262,7 @@
   },
   "active": "e3720d3dc21211e2",
   "lastOpenFiles": [
+    "raw/GBT_7714-2015.pdf",
     "wiki/methods/mixed/Literature Map.md",
     "wiki/methods/mixed/Agent-based Modelling.md",
     "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md",
@@ -287,7 +288,6 @@
     "wiki/templates/template-fact-event.md",
     "wiki/templates/template-concept.md",
     "wiki/templates/template-argument-textbook.md",
-    "wiki/templates/template-argument-monograph.md",
     "scripts/__pycache__/wiki_index.cpython-313.pyc",
     "scripts/__pycache__/vault_index.cpython-313.pyc",
     "scripts/__pycache__/source_record.cpython-313.pyc",
