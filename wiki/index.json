@@ -4313,7 +4313,11 @@
       "学校探究循环",
       "学校探究模型",
       "证据知情学校探究循环",
-      "School Inquiry Cycle"
+      "School Inquiry Cycle",
+      "Evidence-Informed School and Teacher Improvement",
+      "ESTI",
+      "EISTI",
+      "证据知情学校与教师改进模型"
     ]
   },
   {
@@ -17078,6 +17082,15 @@
     ]
   },
   {
+    "title": "Kim Schildkamp",
+    "type": "person",
+    "path": "wiki/persons/netherlands/Kim Schildkamp.md",
+    "aliases": [
+      "Schildkamp, K.",
+      "金·希尔德坎普"
+    ]
+  },
+  {
     "title": "John Hattie",
     "type": "person",
     "path": "wiki/persons/new-zealand/John Hattie.md",
@@ -24117,6 +24130,11 @@
     "title": "Argument_Brady_2023_EPR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Brady_2023_EPR.md"
+  },
+  {
+    "title": "Argument_Brown_2017_ER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Research/Argument_Brown_2017_ER.md"
   },
   {
     "title": "Argument_Nelson_2017_ER",

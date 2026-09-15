@@ -44,7 +44,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Data-Based Decision Making
@@ -54,7 +54,7 @@ updated: 2026-09-13
 ## 定义
 
 > [!def] 核心定义
-> 基于数据的决策（Data-Based Decision Making, DBDM）指教育者以系统层面与课堂层面的数据为依据作出教学与管理决策的取向，这类数据包括学生标准化评估、[[Academic Achievement|学业表现]]、课堂形成性记录、行为表现与学校管理信息。在《Educational Research》特刊导言中，[[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p. 129)]] 借助 Brown et al. 的研究，把 DBDM 与[[Research-Informed Teaching Practice|研究知情教学实践]]（RITP）视为两个相对独立的世界，并主张在证据知情系统中二者应当被紧密整合、却在现实中很少真正整合。
+> 基于数据的决策（Data-Based Decision Making, DBDM，亦常称“数据使用”）指教育者系统分析学校内部现存多元数据，将分析结果应用于革新教学、课程与学校效能，并在实践中执行（如延续、调整或终止）具体干预措施的持续过程（Lai & Schildkamp, 2013）。涵盖的数据类型包括输入数据（人口统计背景）、过程数据（课堂观察、课程质量）、背景数据（学校文化、家长参与）以及结果数据（标准化测验、学业成就、留级率等）。在《Educational Research》特刊中，[[Argument_Brown_2017_ER|Brown et al. (2017, pp. 154–156)]] 与 [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p. 129)]] 指出，DBDM 与[[Research-Informed Teaching Practice|研究知情教学实践]]（RITP）长期被视作两个平行割裂的世界，在现实中极少实现真正融通，亟需在证据知情系统中加以整合。
 
 > [!concept-lens] 概念透镜
 > - **核心维度** 聚焦以学校自身内部信息系统与课堂评估为基础的决策形态，区分于依赖外部学术研究[[Document|文献]]的实践路径。
@@ -82,18 +82,19 @@ updated: 2026-09-13
 ## 核心要素
 
 > [!feature] 核心要素
-> - **内部数据多层性（Multi-Layered Internal Data）** 涵盖系统管理数据、学生[[Academic Achievement|学业表现]]、标准化评估、日常[[Placement, Formative, Diagnostic, and Summative Testing|形成性测验]]与课堂[[Qualitative Observation|质性观察]]。
-> - **课堂数据层级感知（Perceived Hierarchy of Classroom Data）** 正式终结性测试在实践中常被置于最高权重，易挤压形成性与质性课堂证据。
+> - **内部数据多层性（Multi-Layered Internal Data）** 涵盖输入数据（人口统计背景）、过程数据（课堂观察、课程质量）、背景数据（学校文化、家长参与）以及结果数据（标准化测验、日常[[Placement, Formative, Diagnostic, and Summative Testing|形成性测验]]与学生表现）。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 156–157)]]
+> - **五阶段探究循环（Five-Stage Inquiry Cycle）** 经历“设定目标 ➔ 收集数据 ➔ 分析与质检（数据转为信息并内化为知识） ➔ 采取改进措施 ➔ 循环评估”，构成持续改进的形成性反馈回路。[[Argument_Brown_2017_ER|(Brown et al., 2017, p. 157)]]
+> - **数据团队干预支架（Data Team Intervention Scaffold）** 由 [[Kim Schildkamp]] 等人开发，依托外部教练支架，由6–8名教师与管理者组建团队，围绕真实问题实施八步结构化探究，在荷兰与瑞典80余所学校实证检验了提升教学与学业成就的效能。[[Argument_Brown_2017_ER|(Brown et al., 2017, p. 158)]]
 > - **定性与定量[[Triangulation|三角验证]]（Triangulation of Qualitative & Quantitative Sources）** 依托教育者[[Data Literacy|数据素养]]，交叉比对量化考试成绩与质性课堂观察，保障决策平衡性。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 129)]]
-> - **学校探究闭环整合（Integration via [[School Enquiry Cycle]]）** 通过系统的学校探究循环将内部数据诊断与外部研究干预无缝对接。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–130)]]
+> - **学校探究闭环整合（Integration via [[School Enquiry Cycle]]）** 通过系统的学校探究循环将内部数据诊断与外部研究干预无缝对接。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 165–167)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
 > flowchart LR
->     A["系统层面数据"] --> D["基于数据的决策<br>(DBDM)"]
+>     A["系统与校本多层数据"] --> D["基于数据的决策<br>(DBDM)"]
 >     B["课堂数据（形成性/质性观察）"] --> D
->     C["终结性评估主导偏差"] -->|"需数据素养与三角验证"| D
->     D -->|"校本问题诊断"| E["学校探究循环<br>(School Enquiry Cycle)"]
+>     C["数据团队八步探究支架"] --> D
+>     D -->|"校本问题与成因诊断"| E["学校探究循环<br>(School Enquiry Cycle / ESTI)"]
 >     F["外部研究证据<br>(RITP)"] -->|"实证干预方案"| E
 >     E --> G["证据知情学校改进"]
 > ```
@@ -122,8 +123,8 @@ updated: 2026-09-13
 > [!concept-lens] 内部诊断与外部干预两个世界的结构性割裂
 > DBDM 专注于校内数据诊断但缺乏有效干预方案，[[Research-Informed Teaching Practice|RITP]] 专注于外部研究但缺乏本校学情锚定。
 
-> [!claim] Brown et al. (2017) / [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
-> **双轮整合与[[School Enquiry Cycle|学校探究循环]]** 基于数据的决策（DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（RITP）长期被视作两个相对割裂的独立领域，在现实学校中极少真正交融。单纯依赖 DBDM 只能诊断“校内存在什么问题”，却无法提供经过实证检验的外部解决方案；单纯推行 RITP 则容易使外部学术成果悬浮于空中，缺乏针对本校具体学情的精准锚定。证据知情系统的核心主张在于打破二者壁垒，通过系统的“学校探究循环”（school enquiry cycle），将 DBDM 的校本诊断与 RITP 的研究干预有机嵌合，形成学校与教师持续改进的行动闭环。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–130)]]
+> [!claim] [[Argument_Brown_2017_ER|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
+> **双轮整合与[[School Enquiry Cycle|学校探究循环]]** 基于数据的决策（DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（RITP）长期被视作两个相对割裂的独立领域，在现实学校中极少真正交融。单纯依赖 DBDM 只能诊断“校内存在什么问题与潜在成因”，却无法提供经过实证检验的有效干预举措；单纯推行 RITP 则容易使外部学术成果悬浮于空中，缺乏针对本校具体学情的精准锚定。证据知情系统的核心主张在于打破二者壁垒，通过系统的“学校探究循环”（school enquiry cycle / ESTI），将 DBDM 的校本诊断与 RITP 的研究干预有机嵌合，形成学校与教师持续改进的行动闭环。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 154–156, 165–167)]]
 
 > [!implication]- 实践闭环与跨部门协作
 > 实现两者的整合要求学校改变传统的“数据归数据、教研归教研”的科层分割，由中层领导牵头建立集数据诊断、[[Document|文献]]查阅、方案设计与课堂验证于一体的协作探究共同体。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
@@ -144,7 +145,7 @@ updated: 2026-09-13
 
 > [!dev-timeline] 基于数据决策的演化路径
 > - **2000s–2010s — 问责语境中的普及与工具化** 数据驱动决策在欧美高利害问责政策与学校改进运动中成为主流话语，与标准化测试及“[[What Works Movement|什么有效运动]]”深度绑定。
-> - **2017 — 证据知情视阈下的 DBDM 与 [[Research-Informed Teaching Practice|RITP]] 整合** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 汇聚国际前沿研究，明确指出 DBDM 与 RITP 割裂的局限，倡导通过[[School Enquiry Cycle|学校探究循环]]、定性定量[[Triangulation|三角验证]]及中层领导网络实现多维整合。
+> - **2017 — 证据知情视阈下的 DBDM 与 [[Research-Informed Teaching Practice|RITP]] 整合** [[Argument_Brown_2017_ER|Brown et al. (2017)]] 与 [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 汇聚国际前沿研究，明确指出 DBDM 与 RITP 割裂的局限，倡导通过[[School Enquiry Cycle|学校探究循环]]（ESTI）、定性定量[[Triangulation|三角验证]]及中层领导网络实现多维整合。
 > - **2020s — 复杂生态与质性证据的回归** 随着对算法与量化局限性反思的加深，学界与实践界愈发强调将质性课堂数据、学生声音与教师[[Professional Judgment|专业判断]]置于数据决策的核心枢纽位置。
 
 ---
@@ -152,6 +153,8 @@ updated: 2026-09-13
 ## 争议与批评
 
 > [!warning] 适用局限与潜在偏误
+> - **数据能诊断成因但无法提供干预策略** DBDM 擅长揭示学情差距并辅助归纳可能原因，但数据本身绝不包含“如何改进”的现成答案；实践表明教师在直面数据问题时往往最苦于研制不出科学的改进方案。
+> - **领域专业知识与数据素养双重门槛** 探究成因高度依赖教师深厚的学科教学知识（PCK）与课程理解，而将原始数据提炼为教学洞见的过程对教师[[Data Literacy|数据素养]]提出了严苛要求，缺乏专业培训时易陷入无效假设。[[Argument_Brown_2017_ER|(Brown et al., 2017, p. 159)]]
 > - **数据层级感知扭曲** 正式终结性测试被过度依赖，丰富的质性课堂证据与形成性反馈被低估和边缘化。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 129)]]
 > - **[[Technical Rationality|技术理性]]与问责异化** 单独的数据驱动极易蜕变为对可量化指标的迎合与合规审计，削弱教育实践中不可量化的育人内涵与复杂情境考量。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 133)]]
 
@@ -159,8 +162,11 @@ updated: 2026-09-13
 
 ## 应用案例
 
+> [!case] 案例：特温特大学数据团队干预模型（[[Kim Schildkamp|Schildkamp et al.]]）
+> 希尔德坎普等人在荷兰与瑞典80余所学校实施并评估了“数据团队”专业发展干预，由6至8名教师与管理者组成团队，在外部教练支持下遵循“界定问题—提出假设—收集数据—质检—分析解释—得出结论—采取行动—评估成效”八步循环，实证研究表明在合理专业支持下 DBDM 能显著提升数学与读写学业成就。[[Argument_Brown_2017_ER|(Brown et al., 2017, p. 158)]]
+
 > [!case] 案例：DBDM 与 [[Research-Informed Teaching Practice|RITP]] 的学校探究整合模型（Brown et al.）
-> Brown et al. 提出证据知情的学校与教师改进模型，把 DBDM 的校本学情诊断与 RITP 的实证干预结合起来，嵌入系统的[[School Enquiry Cycle|学校探究循环]]（school enquiry cycle），为跨越两个世界的鸿沟提供了清晰的[[Operationalization|操作化]]路径。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–130)]]
+> Brown et al. 提出证据知情的学校与教师改进模型，把 DBDM 的校本学情诊断与 RITP 的实证干预结合起来，嵌入系统的[[School Enquiry Cycle|学校探究循环]]（school enquiry cycle），为跨越两个世界的鸿沟提供了清晰的[[Operationalization|操作化]]路径。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 165–167)]]
 
 > [!case] 案例：课堂数据层级感知与[[Triangulation|三角验证]]（LaPointe-McEwan et al.）
 > LaPointe-McEwan et al. 的研究揭示了教师在日常工作中对课堂数据层级的认知固化，表明唯有通过培育[[Data Literacy|数据素养]]并运用定性定量三角验证，才能使教师从单一的终结性考试分数依赖走向多元平衡的教学决策。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 129)]]
@@ -170,4 +176,5 @@ updated: 2026-09-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 系统阐释 DBDM 循环、数据团队干预与实践局限，论证其与 RITP 整合为 ESTI 八步探究模型的必要性。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统论述 DBDM 作为与 [[Research-Informed Teaching Practice|RITP]] 相对的数据使用形态，揭示课堂数据层级偏误，并主张在证据知情系统中通过[[School Enquiry Cycle|学校探究循环]]实现二者整合。
