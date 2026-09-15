@@ -204,7 +204,7 @@ Total entries: **253**
 > [!index-list]- ECNU Review of Education (7)
 > - [[Argument_Cheung_2021_ROE]] — ECNU ROE 特刊 Editorial：以 COVID-19 疫苗试验类比教育 RCT，汇集七国八篇文章，按四项核心活动框架呈现证据本位改革全球全景
 > - [[Argument_Dachet_2021_ROE]] — 以法语比利时教育卓越公约为叙事案例，说明证据本位改革在定性研究传统较强且本地实验项目稀少的系统中只能通过包容性证据类型学、利益相关者协商和试点评价逐步制度化。
-> - [[Argument_Edovald_Nevill_2021_ROE]] — 以英格兰教育捐赠基金会（EEF）前八年实践为例，系统拆解在国家教育体系中快速扩展学校随机对照试验（RCT）、确立独立评估防火墙与透明注册标准的可行性，同时深度剖析实施与过程评估（IPE）整合、常态教学基线高企、测验外部效度危机、学校与教师选择替代设计以及规模化推广效应断崖衰减等方法学挑战
+> - [[Argument_Edovald_Nevill_2021_ROE]] — 以英格兰教育捐赠基金会（Education Endowment Foundation, EEF）前八年实践为例，系统拆解在国家教育体系中快速扩展学校随机对照试验（Randomised Controlled Trial, RCT）、确立独立评估防火墙与透明注册标准的可行性，同时深度剖析实施与过程评估（Implementation and Process Evaluation, IPE）整合、常态教学基线高企、测验外部效度危机、学校与教师选择替代设计以及规模化推广效应断崖衰减等方法学挑战
 > - [[Argument_Marginson_2025_ROE]] — 以 Massey 关系性空间理论为基础，将高等教育地缘政治分为 1990–2015 霸权式全球化与 2015 至今部分去全球化两个历史阶段，以中美英澳四国的国家-全球协同模式分析空间制造的多样性
 > - [[Argument_Pellegrini_2021_ROE]] — 梳理2006年以来欧盟证据知情教育政策和证据中介组织，指出欧洲进展主要停留在倡议和网络层面，真正落地受外部效度、经费再平衡和关键能力评估难题制约
 > - [[Argument_Ross_Morrison_2021_ROE]] — 以ESSA证据标准和巴尔的摩STAT技术整合评估为例，说明教育项目证据的使用受研究设计属性、实施语境和利益相关者价值判断共同塑造

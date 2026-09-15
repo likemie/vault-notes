@@ -41,4 +41,5 @@ Every newly created Concept, Theory, Method, Fact, or Person entry must also be 
 ## Language and Naming Rules
 
 - 人名首次出现采用“中文（英文）”格式，尽可能使用全名；后续再次出现可自由使用英文原文（如英文姓氏或原名）或中文名/姓氏，无需机械重复双语括号。APA 引用中的学者姓名保持英文原样，严禁汉化翻译。
+- 术语与机构缩写首次出现必须采用“中文名（英文全称，缩写）”格式（例如：随机对照试验（Randomised Controlled Trial, RCT）、教育捐赠基金会（Education Endowment Foundation, EEF））；后续再次出现方可单独使用缩写，严禁在未作首次界定与未提供英文全称的情况下直接抛出缩写。
 - 减少使用破折号和不必要的引号。
