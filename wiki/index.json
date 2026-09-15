@@ -7684,6 +7684,19 @@
     ]
   },
   {
+    "title": "Floor and Ceiling Effects",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Floor and Ceiling Effects.md",
+    "aliases": [
+      "天花板与地板效应",
+      "天花板效应",
+      "地板效应",
+      "ceiling effect",
+      "floor effect",
+      "range restriction"
+    ]
+  },
+  {
     "title": "Front-loaded and End-loaded Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Front-loaded and End-loaded Research.md",
@@ -7966,6 +7979,17 @@
       "mixed methods research question",
       "整合研究问题",
       "integration question"
+    ]
+  },
+  {
+    "title": "Model Dependency",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Model Dependency.md",
+    "aliases": [
+      "模型依赖性",
+      "model sensitivity",
+      "模型敏感性",
+      "specification dependence"
     ]
   },
   {
@@ -8466,6 +8490,17 @@
     "aliases": [
       "稳定单元处理值假定",
       "SUTVA"
+    ]
+  },
+  {
+    "title": "Statistical Analysis Plan",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Statistical Analysis Plan.md",
+    "aliases": [
+      "统计分析计划",
+      "SAP",
+      "预先统计分析计划",
+      "prespecified SAP"
     ]
   },
   {

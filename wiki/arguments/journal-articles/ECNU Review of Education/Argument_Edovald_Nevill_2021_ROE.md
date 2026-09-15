@@ -3,25 +3,25 @@ summary: "以英格兰教育捐赠基金会（EEF）前八年实践为例，系�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Argument_Edovald_Nevill_2021_ROE"
-argument_key: "Argument_Edovald_Nevill_2021_ROE"
+title: Argument_Edovald_Nevill_2021_ROE
+argument_key: Argument_Edovald_Nevill_2021_ROE
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
-argument_kind: "journal-article"
+argument_kind: journal-article
 argument_related_count: 98
 argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_stars: ⭐⭐⭐⭐⭐
 argument_related_color: "#fecdd3"
 journal: ECNU Review of Education
 authors:
-  - "Edovald, T."
-  - "Nevill, C."
+  - Edovald, T.
+  - Nevill, C.
 source_language: en
 citation: "Edovald, T., & Nevill, C. (2021). Working Out What Works: The Case of the Education Endowment Foundation in England. ECNU Review of Education, 4(1), 46–64."
 year: 2021
-doi: "10.1177/2096531120913039"
+doi: 10.1177/2096531120913039
 citation_aliases:
-  - "Edovald & Nevill, 2021"
-  - "Edovald & Nevill (2021)"
+  - Edovald & Nevill, 2021
+  - Edovald & Nevill (2021)
 tags:
   - region/uk
   - theme/evidence-based-education
@@ -49,8 +49,10 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Pride in Learning]]"
   - "[[Document]]"
+  - "[[Statistical Analysis Plan]]"
   - "[[Hypothesis]]"
   - "[[Clinical Trial]]"
+  - "[[Model Dependency]]"
   - "[[Variable]]"
   - "[[Didaktik]]"
   - "[[Paradigm]]"
@@ -61,6 +63,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Academic Achievement]]"
   - "[[Predictive Validity]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Reliability]]"
   - "[[Growth]]"
   - "[[Self-control]]"
@@ -257,7 +260,7 @@ updated: 2026-09-15
 三方独立协议有效隔绝了利益捆绑，但当干预遭遇零结果时，研发者对学术结论的争夺对证据公信力构成了严峻考验。（p. 51）
 
 > [!case] 研发者应对零结果的学术重析与发表偏倚防范（Burgess et al., 2019）
-> - **干预方案与试验评估流程** 英国布里斯托尔大学学者西蒙·伯吉斯（Simon Burgess）团队研发了一项旨在通过结构化“教师同行课堂观察”促进教学改进的项目，获 EEF 资助开展大规模多中心 RCT。在项目执行中，EEF 严格执行三方独立协议，将方案实施全权委托给原开发团队，而将样本随机化分配、后测数据采集与统计建模交由完全独立的第三方大学评估团队执行，并在国际平台预注册了详尽的统计分析计划（SAP）。
+> - **干预方案与试验评估流程** 英国布里斯托尔大学学者西蒙·伯吉斯（Simon Burgess）团队研发了一项旨在通过结构化“教师同行课堂观察”促进教学改进的项目，获 EEF 资助开展大规模多中心 RCT。在项目执行中，EEF 严格执行三方独立协议，将方案实施全权委托给原开发团队，而将样本随机化分配、后测数据采集与统计建模交由完全独立的第三方大学评估团队执行，并在国际平台预注册了详尽的[[Statistical Analysis Plan|统计分析计划]]（SAP）。
 > - **官方独立评估的零结果判决** 经过严格的全样本追踪与[[Covariate Adjustment|协变量调整]]，独立评估团队最终发布了权威报告：该同行观察项目对学生普通中等教育证书（GCSE）全国统考的数学与英语成绩均未产生统计学显著的积极促进作用，效应量点估计值紧密贴近于零（$ES \approx 0.00, p > .05$），证实该干预在[[Business as Usual|常态教学]]条件下未能带来实质性学业附加值。依据强制全量公开原则，该零结果报告被无条件公布于 EEF 官网。
 > - **开发者的二次挖掘与外部积极再发表** 面对官方独立评估的零成效定性，项目研发团队难以接受理论[[Hypothesis|假设]]与巨额投入落空的结局。他们绕开 EEF 独立评估团队，自行提取次要[[Questionnaire|问卷]]指标与特定子群体数据进行事后数据挖掘（Data Dredging），聚焦于教师自报的教学态度改善等非预注册软性指标，并在外部同行评审经济学期刊上单独发表了一篇宣称该项目具有积极成效的学术论文（Burgess et al., 2019），形成了同一试验在官方平台为“零结果”、而在外部学术期刊为“正向促进”的叙事断裂。
 > - **发表偏倚防范边界与预注册权威基准** 该典型案例深刻揭示了即便建立了最严格的独立评估隔离墙，研发者为迎合学术锦标赛与商业推广而制造外部[[Publication Bias|发表偏倚]]的风险依然顽固存在。它有力证明了强制方案预注册（ISRCTN）与无条件公开独立评估报告的基石价值：若无官方独立报告作为公开锚定基准，决策者与学校管理层极易被研发者筛选发表的外部期刊论文所误导。EEF 为此在立项协议中增设了“期刊投稿前由基金会先行技术审查”的刚性条款，以制度化手段捍卫因果证据的纯洁性。（pp. 51–52）
@@ -272,7 +275,7 @@ updated: 2026-09-15
 > 实证数据显示，学术界正向显著结果的发表概率比零结果高出 40 个百分点；缺乏全程透明锁定的试验极易受事后数据挖掘与模型操纵侵蚀，陷入严重的发表偏倚。
 
 > [!feature] 证据全链条透明与可复现性制度的三大支柱（pp. 51–53）
-> - **方案预注册与 ISRCTN 登记** 借鉴[[Clinical Trial|临床试验]]规范，试验开展前必须公开发布预先制定的评估方案与统计分析计划（SAP），并在国际标准随机对照试验[[Coding in Qualitative Research|编码]]（ISRCTN）平台完成登记。
+> - **方案预注册与 ISRCTN 登记** 借鉴[[Clinical Trial|临床试验]]规范，试验开展前必须公开发布预先制定的评估方案与[[Statistical Analysis Plan|统计分析计划]]（SAP），并在国际标准随机对照试验[[Coding in Qualitative Research|编码]]（ISRCTN）平台完成登记。
 > - **CONSORT 报告标准全面推行** 基于试验报告统一标准制定模板，深度对接 [[CONSORT-SPI]] 标准，无论成效显著与否，所有评估报告均无条件全量公开（Nevill, 2016; Montgomery et al., 2018）。
 > - **首创 NPD 试验微观数据库** 依托英格兰[[National Pupil Database|国家学生数据库]]（NPD）建立全球首个 105 项教育试验微观开放档案库，打通试验样本与官方终结性统考的长效追踪通道。
 
@@ -285,7 +288,7 @@ updated: 2026-09-15
 >   2. 引入基线前测的普通最小二乘回归模型（OLS）；
 >   3. 校正学校与班级两级集群效应的多层线性模型（MLM / HLM）；
 >   4. 广义估计方程模型（GEE）。
-> - **惊人的模型依赖性与效应漂移** 复算审计得出了令人震惊的结论（Xiao et al., 2016）：统计模型的选择对干预效应量的点估计值与[[Confidence Interval|置信区间]]宽度具有颠覆性影响。在多个试验中，仅仅因为是否校正基线前测或如何处理班级集群相关性，干预效应的[[Statistical Significance|统计显著性]]便在 $p < .05$ 与 $p > .05$ 之间反复翻转，效应量估计值发生大幅漂移。这无可辩驳地证明，缺乏统一建模规范的所谓“客观试验”极易受统计分析师主观模型设定的隐性操纵。
+> - **惊人的[[Model Dependency|模型依赖性]]与效应漂移** 复算审计得出了令人震惊的结论（Xiao et al., 2016）：统计模型的选择对干预效应量的点估计值与[[Confidence Interval|置信区间]]宽度具有颠覆性影响。在多个试验中，仅仅因为是否校正基线前测或如何处理班级集群相关性，干预效应的[[Statistical Significance|统计显著性]]便在 $p < .05$ 与 $p > .05$ 之间反复翻转，效应量估计值发生大幅漂移。这无可辩驳地证明，缺乏统一建模规范的所谓“客观试验”极易受统计分析师主观模型设定的隐性操纵。
 > - **制度化沉淀：行业通用《统计分析指南》的诞生** 杜伦大学的这一重磅方法学审计，直接倒逼 EEF 编写并颁布了全行业首部刚性技术法典——《EEF 评估统计分析指南》（The EEF, 2018）。该指南为全英教育试验确立了不可动摇的统一建模铁律：强制要求主效应分析必须在模型中纳入基线前测成绩作为协[[Variable|变量]]（大幅缩减残差方差并提升估计精度）；强制采用校正组内相关系数（ICC）的聚类稳健[[Standard Error|标准误]]模型（Demack, 2019）；统一规范基于全样本合并对照组标准差计算 Hedges' $g$ 的数学公式（Tymms & Kasim, 2018）；并明确了处理缺失值的敏感性分析规程，彻底终结了模型选择随意性引发的混乱。（pp. 52–53）
 
 > [!warrant]- 步骤一论证逻辑收束：治理制度如何确立大规模试验的科学公信力
@@ -334,7 +337,7 @@ updated: 2026-09-15
 
 > [!critique-method] 传统教育试验终结性测量的两大心理计量陷阱（p. 54）
 > - **开发者自编测验的虚高溢价** 题项内容极易与干预教学要点发生高度同构，导致统计[[Effect Size|效应量]]被人为夸大 50% 至 100%，严重脱离常态[[Academic Achievement|学业表现]]（Cheung & Slavin, 2016; WWC, 2017）。
-> - **商业标准化测验的量程与效度截断** 开发商对长期[[Predictive Validity|预测效度]]秘而不宣，且在常态学生群体中频发天花板与地板效应，人为抹平真实组间差异（Allen et al., 2018; Hodgen et al., 2019）。
+> - **商业标准化测验的量程与效度截断** 开发商对长期[[Predictive Validity|预测效度]]秘而不宣，且在常态学生群体中频发[[Floor and Ceiling Effects|天花板与地板效应]]，人为抹平真实组间差异（Allen et al., 2018; Hodgen et al., 2019）。
 
 > [!contrast-table] 评价测量工具的三种类型对比：全国高利害统考（NPD 成绩） vs 商业标准化测验 vs 开发者自编非标准化测验（基于 Edovald & Nevill, 2021）
 > | 属性维度 | 全国高利害标准化统考（NPD 成绩） | 商业标准化测验 | 开发者自编非标准化测验（Inherent Measures） |
@@ -350,7 +353,7 @@ updated: 2026-09-15
 > [!case] 商业标准化测验的心理计量缺陷与效度危机（Allen et al., 2018; Hodgen et al., 2019）
 > - **测验自编虚高风险与商业测验的引入** 如果研究评估采用由项目开发者自主编排或紧密贴合特定教材教法的非标准化测验（Inherent Measures），题项内容极易与干预教学要点发生高度同构，从而人为夸大 50% 至 100% 的效应量，严重损害证据的客观公信力（Cheung & Slavin, 2016; Ginsburg & Smith, 2016; WWC, 2017）。为此，EEF 早在 2012 年初便颁布《测验选择与实施刚性指南》（The EEF, 2012b），明确规定主要结局指标严禁采用任何自编测验，必须优先选择具备广泛外部效度、与英国官方高利害统考高度相关的独立商业标准化测验或直接调用国家学生数据库（NPD）的行政考试成绩。
 > - **心理计量黑箱与预测效度审计** 然而，市售商业标准化测验在实际应用中暴露出严重的心理计量属性黑箱。绝大多数商业测验开发商仅在技术手册中提供[[Internal Consistency|内部一致性]]系数（如克隆巴赫 $\alpha$），极少向学界公开长期的[[Construct Validity|构念效度]]与[[Predictive Validity|预测效度]]研究数据。伦敦大学学院丽贝卡·艾伦等（Allen et al., 2018）利用 EEF 归档数据库对全英广泛使用的多套商业标准化阅读与数学测验进行系统二次分析，结果发现：这些商业测试对学生未来在关键学段（如 GCSE）官方统考成绩的预测效度仅达到中等水平，甚至存在不可忽视的测量偏差，无法充当学[[Growth|生长]]期学业发展的无偏代理指标。
-> - **量程失真危机：天花板与地板效应** 在小学数学干预试验 Catch Up Numeracy（Hodgen et al., 2019）中，评估团队采用市售标准化数学测试作为终结性后测工具。然而，由于该商业测验题项难度阶梯分布不当、有效量程严重受限，导致最终测试数据遭遇了严重的天花板效应（高水平学生轻易取得满分）与地板效应（基础薄弱学生大量得零分）。这种量程截断人为抹平了干预组与对照组在分布两端的细微真实差距，严重低估了干预的真实效应量，动摇了统计推断的稳健性。
+> - **量程失真危机：[[Floor and Ceiling Effects|天花板与地板效应]]** 在小学数学干预试验 Catch Up Numeracy（Hodgen et al., 2019）中，评估团队采用市售标准化数学测试作为终结性后测工具。然而，由于该商业测验题项难度阶梯分布不当、有效量程严重受限，导致最终测试数据遭遇了严重的天花板效应（高水平学生轻易取得满分）与地板效应（基础薄弱学生大量得零分）。这种量程截断人为抹平了干预组与对照组在分布两端的细微真实差距，严重低估了干预的真实效应量，动摇了统计推断的稳健性。
 > - **测量工具库战略推进与经验镜鉴** 2014 年起，EEF 将资助领域从学科认知进一步拓展至学前教育与非认知领域（如[[Self-control|自我控制]]、心理韧性与社交情绪）。针对市场上非认知量表良莠不齐的严峻现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth, 2017）开展超大规模系统文献综述，正式构建了[[SPECTRUM|思考与韧性测量心理工具库]]（SPECTRUM），并同步启动全英学业[[Achievement and Aptitude Tests|成就测验]][[Systematic Review|系统综述]]，建立权威准入目录。实践表明：若资助机构在创立初期就前置建立严格的标准化测量工具库，便能大幅避免数以百万英镑计的试错成本，为全球循证资助机构树立了关键方法学镜鉴。（p. 54）
 
 确立了严密的因果机制与客观独立的测量基准后，单次试验[[Internal Validity|内部效度]]仍需通过二阶证据合成，方能转化为一线校长的实践决策工具。（pp. 54–55）
