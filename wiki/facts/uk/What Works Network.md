@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 45
+fact_related_count: 46
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -72,6 +72,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Cowen_2015_CHESS]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
+  - "[[Argument_Edovald_Nevill_2021_ROE]]"
 confidence: high
 status: draft
 created: 2026-05-01
@@ -115,10 +116,15 @@ updated: 2026-09-15
 > [!dev-timeline]- 政策发展历程
 > - **2000 年代早期 — 循证决策思想萌芽与早期中介探索** 2002 年循证政策与实践中心（Centre for Evidence Based Policy and Practice）系统总结了 EBP 成功的四大关键要求；[[Campbell Collaboration]] 等国际通用[[Educational Evidence Clearinghouses|证据清算中心]]起步运作，[[Systematic Review|系统综述]]与实证清理规范逐渐确立。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, p. 3)]]
 > - **2011 — 旗舰示范中心设立与工具包问世** [[Sutton Trust|萨顿信托]]（Sutton Trust）联合英国教育部设立[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]），获 1.25 亿英镑初始留本基金支持；同年发布首版《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit），开创了直观量化“学习进展月数”与成本效益的可视化先河。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, p. 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 149)]]
-> - **2013 — 内阁办公室正式启动有效性网络（WWN）** 英国政府内阁办公室正式倡导并发布有效性网络国家规划；本·戈尔达克（Goldacre, 2013b）发表《将证据注入教育》（Building Evidence into Education）政府独立咨询报告，强烈呼吁在学校系统普及[[Randomised Controlled Trials|随机对照试验]]（[[Randomised Controlled Trials|RCT]]），推动网络化循证治理上升为国家战略。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, p. 4)]]
+> - **2013 — 内阁办公室正式启动有效性网络（WWN）与指定教育中心** 英国政府内阁办公室正式倡导并发布有效性网络国家规划，正式指定[[Education Endowment Foundation|教育捐赠基金会]]（EEF）与[[Sutton Trust|萨顿信托]]联合作为英格兰“教育领域有效性中心”（What Works Centre for Education），全面纳入覆盖全英逾 2,500 亿英镑公共支出的宏观网络；本·戈尔达克（Goldacre, 2013b）发表《将证据注入教育》政府独立咨询报告，强烈呼吁在学校系统普及随机对照试验（RCT），推动网络化循证治理上升为国家战略。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, p. 4)]]; [[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 47)]]
 > - **2015 — 早期实施质询与反思开启** Cowen & Cartwright (2015) 发表剑桥-杜伦循证政策工作论文，对有效性网络的早期运行展开实证调查，揭示工具包去情境化、平均效应误读以及与教育标准局（[[Ofsted]]）问责指标脱节等深层结构性矛盾。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 15–22, 37–40)]]
 > - **2018 — 网络体系成熟与 9 大正式中心格局确立** 内阁办公室发布《有效性网络五年进展报告》（Cabinet Office, 2018）；[[David Gough|戴维·高夫]]等（Gough et al., 2018; Gough & White, 2018）受委托对全英有效性中心展开系统调研，总结出涵盖初级研究、共创、综述、渠道、采纳、指南、实施的七大核心目标矩阵，并指出中心正从早期单纯[[Document|文献]]综合向深度实施护航战略转向。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 149–151)]]
 > - **2020 年代 — 重组整合与重大危机响应** 2020 年新冠疫情危机暴发，伦敦大学学院教育研究院（UCL IOE）牵头设立国际公共政策观察站（IPPO）作为网络关联中介，探索 2–4 周极速证据综合；2023 年[[Early Intervention Foundation|早期干预基金会]]（EIF）与儿童社会关怀有效性中心（WWCSC）正式合并重组为“家庭与儿童有效性中心”（Foundations），网络迈向更高层级的集约化与行为科学深化运作。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 147)]]
+
+> [!citation-card] 内阁办公室指定教育有效性中心与国家网络布局（Edovald & Nevill, 2021）
+> 2013 年，英国中央政府内阁办公室正式指定教育捐赠基金会（EEF）与萨顿信托作为英格兰“教育领域有效性中心”（What Works Centre for Education），全面纳入覆盖健康、教育、警务与早期干预等领域的国家有效性网络（What Works Network）。该网络覆盖了全英超过 2,500 亿英镑的公共财政支出，旨在将严格因果证据制度化嵌入各领域的日常决策与资金分配中。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 47)]]
+>
+> *“In 2013, the Cabinet Office formally designated the EEF (in partnership with the Sutton Trust) as the ‘What Works Centre for Education’ in England, part of a wider network of What Works Centres that cover more than £250 billion of public spending... to ensure that thorough evidence informs public spending.”*
 
 ---
 
@@ -249,6 +255,7 @@ updated: 2026-09-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] — 评估英国有效性网络与[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的早期实施成效，系统剖析工具包的呈现机制、平均[[Effect Size|效应量]]变异、地方情境适应性及与 [[Ofsted]] 督导指标的制度冲突。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 深入调研英国 9 大有效性中心与国际 15 个证据门户，提炼出中介自我循证五大支柱、需求拉动生态模型、外层大系统阻抗及三层递进评估架构，系统批判顶层官方治理模型的结构性盲区。
+> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 阐述英国教育有效性中心（EEF）作为国家有效性网络旗舰成员的运行机制，系统复盘其在 2500 亿英镑公共支出网络中推进学校因果试验、挂锁安全评级与工具包决策转化的实践经验。
 
 ---
 

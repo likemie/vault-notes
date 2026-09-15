@@ -8,10 +8,10 @@ aliases:
 summary: "同一经验数据集因统计分析者选用的建模假定不同而导致效应量估计与统计推断发生大幅漂移的现象，揭示了实证证据高度脆弱的主观模型设定根源，催生了强制性预注册与统计分析计划"
 type: concept
 domain: "research-methodology"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - model-dependency
   - research-methodology

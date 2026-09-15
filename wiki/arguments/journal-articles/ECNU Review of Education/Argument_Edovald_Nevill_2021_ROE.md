@@ -3,13 +3,13 @@ summary: "以英格兰教育捐赠基金会（EEF）前八年实践为例，系�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: Argument_Edovald_Nevill_2021_ROE
-argument_key: Argument_Edovald_Nevill_2021_ROE
+title: "Argument_Edovald_Nevill_2021_ROE"
+argument_key: "Argument_Edovald_Nevill_2021_ROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
-argument_kind: journal-article
-argument_related_count: 98
-argument_related_level: 5
-argument_related_stars: ⭐⭐⭐⭐⭐
+argument_kind: "journal-article"
+argument_related_count: 101
+argument_related_level: 6
+argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 journal: ECNU Review of Education
 authors:
@@ -20,8 +20,8 @@ citation: "Edovald, T., & Nevill, C. (2021). Working Out What Works: The Case of
 year: 2021
 doi: 10.1177/2096531120913039
 citation_aliases:
-  - Edovald & Nevill, 2021
-  - Edovald & Nevill (2021)
+  - "Edovald & Nevill, 2021"
+  - "Edovald & Nevill (2021)"
 tags:
   - region/uk
   - theme/evidence-based-education
@@ -102,10 +102,10 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Covariate Adjustment]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[Standard Error]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Complier Average Causal Effect]]"
   - "[[Factorial Design]]"
@@ -121,6 +121,7 @@ related_instruments:
   - "[[TIDieR]]"
   - "[[EEF Padlock Security Rating]]"
 related_persons:
+  - "[[Michael Gove]]"
   - "[[Peter Lampl]]"
   - "[[Steve Higgins]]"
   - "[[Ray Pawson]]"
@@ -133,10 +134,14 @@ related_facts:
   - "[[Investing in Innovation Program]]"
   - "[[What Works Clearinghouse]]"
   - "[[Sutton Trust]]"
+  - "[[What Works Network]]"
   - "[[BHP Foundation]]"
+  - "[[ISRCTN]]"
   - "[[SPECTRUM]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Pupil Premium]]"
+  - "[[Researching School Choices]]"
+  - "[[Teacher Choices]]"
 sources:
   - "[[sources/Edovald_Nevill_2021_ROE|Edovald_Nevill_2021_ROE]]"
 confidence: high
@@ -224,9 +229,9 @@ updated: 2026-09-15
 > - **对照组受挫脱落** 学校被随机分配至无干预对照组后受挫感强烈，早期平均流失率高达 24%，严重侵蚀基线平衡与统计功效。
 
 > [!dev-timeline] EEF 创设与学校动员关键节点（pp. 47–49）
-> - **2010 — 动议提出** 英国教育大臣迈克尔·戈夫（Michael Gove）受美国奥巴马政府“争向顶峰”计划启发，宣布设立独立基金会以改善英格兰处境不利学校。
+> - **2010 — 动议提出** 英国教育大臣[[Michael Gove|迈克尔·戈夫（Michael Gove）]]受美国奥巴马政府“争向顶峰”计划启发，宣布设立独立基金会以改善英格兰处境不利学校。
 > - **2011 — 竞标创设与种子基金** [[Sutton Trust|萨顿信托]]联合动力信托（Impetus）在 14 家竞标机构中胜出，依托英国教育部 1.25 亿英镑初始捐赠创设 EEF，规划 15 年法定运营期并撬动超 2 亿英镑资助，由萨顿信托创始人[[Peter Lampl|彼得·兰普尔爵士]]（Sir Peter Lampl）出任创始理事会主席以确立独立治理架构。
-> - **2013 — 国家有效机构认定** 英国政府正式将 EEF 与萨顿信托联合认定为英国教育领域的有效机构，纳入覆盖超 2,500 亿英镑公共支出的国家中介网络。
+> - **2013 — 国家有效机构认定** 英国政府正式将 EEF 与萨顿信托联合认定为英国教育领域的有效机构，纳入覆盖超 2,500 亿英镑公共支出的[[What Works Network|国家有效性网络]]（What Works Network）。
 > - **2018 — 跨国证据生态战略启动** 获得[[BHP Foundation|必和必拓基金会]]资助开展为期 5 年的全球教学[[Evidence Ecosystem|证据生态系统]]建设项目，向澳大拉西亚与拉丁美洲输出经验。
 > - **2020 — 动员规模过半** 累计卷入英格兰逾 14,000 所学校与 158 万名学生，资助完成 150 余项 RCT，平均样本规模超过 8,000 人。
 
@@ -263,7 +268,7 @@ updated: 2026-09-15
 > - **干预方案与试验评估流程** 英国布里斯托尔大学学者西蒙·伯吉斯（Simon Burgess）团队研发了一项旨在通过结构化“教师同行课堂观察”促进教学改进的项目，获 EEF 资助开展大规模多中心 RCT。在项目执行中，EEF 严格执行三方独立协议，将方案实施全权委托给原开发团队，而将样本随机化分配、后测数据采集与统计建模交由完全独立的第三方大学评估团队执行，并在国际平台预注册了详尽的[[Statistical Analysis Plan|统计分析计划]]（SAP）。
 > - **官方独立评估的零结果判决** 经过严格的全样本追踪与[[Covariate Adjustment|协变量调整]]，独立评估团队最终发布了权威报告：该同行观察项目对学生普通中等教育证书（GCSE）全国统考的数学与英语成绩均未产生统计学显著的积极促进作用，效应量点估计值紧密贴近于零（$ES \approx 0.00, p > .05$），证实该干预在[[Business as Usual|常态教学]]条件下未能带来实质性学业附加值。依据强制全量公开原则，该零结果报告被无条件公布于 EEF 官网。
 > - **开发者的二次挖掘与外部积极再发表** 面对官方独立评估的零成效定性，项目研发团队难以接受理论[[Hypothesis|假设]]与巨额投入落空的结局。他们绕开 EEF 独立评估团队，自行提取次要[[Questionnaire|问卷]]指标与特定子群体数据进行事后数据挖掘（Data Dredging），聚焦于教师自报的教学态度改善等非预注册软性指标，并在外部同行评审经济学期刊上单独发表了一篇宣称该项目具有积极成效的学术论文（Burgess et al., 2019），形成了同一试验在官方平台为“零结果”、而在外部学术期刊为“正向促进”的叙事断裂。
-> - **发表偏倚防范边界与预注册权威基准** 该典型案例深刻揭示了即便建立了最严格的独立评估隔离墙，研发者为迎合学术锦标赛与商业推广而制造外部[[Publication Bias|发表偏倚]]的风险依然顽固存在。它有力证明了强制方案预注册（ISRCTN）与无条件公开独立评估报告的基石价值：若无官方独立报告作为公开锚定基准，决策者与学校管理层极易被研发者筛选发表的外部期刊论文所误导。EEF 为此在立项协议中增设了“期刊投稿前由基金会先行技术审查”的刚性条款，以制度化手段捍卫因果证据的纯洁性。（pp. 51–52）
+> - **发表偏倚防范边界与预注册权威基准** 该典型案例深刻揭示了即便建立了最严格的独立评估隔离墙，研发者为迎合学术锦标赛与商业推广而制造外部[[Publication Bias|发表偏倚]]的风险依然顽固存在。它有力证明了强制方案预注册（[[ISRCTN]]）与无条件公开独立评估报告的基石价值：若无官方独立报告作为公开锚定基准，决策者与学校管理层极易被研发者筛选发表的外部期刊论文所误导。EEF 为此在立项协议中增设了“期刊投稿前由基金会先行技术审查”的刚性条款，以制度化手段捍卫因果证据的纯洁性。（pp. 51–52）
 
 三方独立协议切断了研发者的直接干预，但若缺乏对统计建模与发表环节的全程锁定，研究者依然能够通过事后模型微调制造隐性偏倚，治理机制必须延伸至预注册与微观数据归档。（pp. 51–52）
 
@@ -275,7 +280,7 @@ updated: 2026-09-15
 > 实证数据显示，学术界正向显著结果的发表概率比零结果高出 40 个百分点；缺乏全程透明锁定的试验极易受事后数据挖掘与模型操纵侵蚀，陷入严重的发表偏倚。
 
 > [!feature] 证据全链条透明与可复现性制度的三大支柱（pp. 51–53）
-> - **方案预注册与 ISRCTN 登记** 借鉴[[Clinical Trial|临床试验]]规范，试验开展前必须公开发布预先制定的评估方案与[[Statistical Analysis Plan|统计分析计划]]（SAP），并在国际标准随机对照试验[[Coding in Qualitative Research|编码]]（ISRCTN）平台完成登记。
+> - **方案预注册与 ISRCTN 登记** 借鉴[[Clinical Trial|临床试验]]规范，试验开展前必须公开发布预先制定的评估方案与[[Statistical Analysis Plan|统计分析计划]]（SAP），并在国际标准随机对照试验编码平台（[[ISRCTN]]）完成登记。
 > - **CONSORT 报告标准全面推行** 基于试验报告统一标准制定模板，深度对接 [[CONSORT-SPI]] 标准，无论成效显著与否，所有评估报告均无条件全量公开（Nevill, 2016; Montgomery et al., 2018）。
 > - **首创 NPD 试验微观数据库** 依托英格兰[[National Pupil Database|国家学生数据库]]（NPD）建立全球首个 105 项教育试验微观开放档案库，打通试验样本与官方终结性统考的长效追踪通道。
 
@@ -399,8 +404,8 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > [!row-contrast] 针对不同决策层级的多样化研究设计架构（基于 Edovald & Nevill, 2021，pp. 55–56）
 > | 决策层级与资助流 | [[Central Question\|核心研究问题]]与实践载体 | RCT 实施障碍与局限 | 创新替代设计与方法学架构 |
 > |---|---|---|---|
-> | **学校宏观制度选择** | [[Tracking\|能力分组]] vs 混合能力编班；中学早晨推迟到校作息时间 | 涉及全校组织重构与家长强烈关切，学校坚决拒绝接受随机分组，招募屡遭惨败 | 2019 年设立新资助流，利用教育系统内自然存在的政策变异，通过严格的准实验设计（[[Quasi-Experimental Designs\|QED]]）评估校级选择。 |
-> | **教师日常微观决策** | 电话家访能否改善课堂纪律；全班集中反馈 vs 逐本批改[[Homework\|作业]]；课堂朗读有效规程 | 属于教师日常教学微习惯，不涉及采购外部手册化商业项目；经典 RCT 周期过长且昂贵 | 2018 年启动试点，采用被试内设计与近端过程性指标，开展周期短、小样本的高灵敏度微型试验。 |
+> | **学校宏观制度选择（[[Researching School Choices|研究学校选择]]）** | [[Tracking\|能力分组]] vs 混合能力编班；中学早晨推迟到校作息时间 | 涉及全校组织重构与家长强烈关切，学校坚决拒绝接受随机分组，招募屡遭惨败 | 2019 年设立 [[Researching School Choices]] 专属资助流，利用教育系统内自然存在的政策变异，通过严格的准实验设计（[[Quasi-Experimental Designs\|QED]]）评估校级选择。 |
+> | **教师日常微观决策（[[Teacher Choices|教师选择]]）** | 电话家访能否改善课堂纪律；全班集中反馈 vs 逐本批改[[Homework\|作业]]；课堂朗读有效规程 | 属于教师日常教学微习惯，不涉及采购外部手册化商业项目；经典 RCT 周期过长且昂贵 | 2018 年启动 [[Teacher Choices]] 试点，采用被试内设计与近端过程性指标，开展周期短、小样本的高灵敏度微型试验。 |
 > | **手册化干预项目** | 外部商业课程包、成套教师培训手册、标准化技术辅助软件 | 需要学校额外投入大笔经费用以购买资源和培训，容易引发实施依从性衰减 | 经典的跨校集群 RCT，结合多臂试验与多中心追踪。 |
 
 强制将不适宜随机化的宏观政策推入 RCT 框架，在英格兰先后引发了轰动性的招募流产。（pp. 55–56）
@@ -409,7 +414,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > - **RCT 的组织与伦理边界** 尽管 EEF 凭借卓有成效的伙伴动员机制吸引了全英过半数的中小学参与试验，但在涉及学校核心治理体制、深层组织架构及家长敏感关切的宏观制度领域，强制推行抛硬币式的随机分配遭到了基层学校的集体抗拒（Edovald & Firpo, 2016）。
 > - **能力分班试验的招募惨败与取消** 针对在基础教育界争论逾百年的按能力分班分流与混合能力编班之争，EEF 曾资助开展了一项大规模两级集群 RCT（Roy et al., 2014, 2018）。评估团队试图将参试学校随机分入“能力分班组”或“混合能力编班组”。然而，方案在招募阶段遭遇了毁灭性阻力：中小学校领导清醒意识到，一旦被随机指派为特定编班模式，学校必须彻底推倒重排全校课表与师资配置，更将面临家长对孩子被打上“慢班”或“快班”标签的剧烈抵触与愤怒抗议。校长们普遍坚决拒绝交出编班自主权，招募严重受挫、签约学校数断崖式归零，该项大规模 RCT 最终被迫彻底取消，降级为极其局限的试点反思报告（Roy et al., 2018）。
 > - **中学作息推迟试验的系统性瘫痪** 类似危机发生在探讨青少年睡眠生理节律的 Teensleep 试验中（Robinson, 2016）。基于神经生物学关于青少年体内生物钟后移的理论，试验试图通过随机分组让部分中学将早晨上课时间由常态推迟至 10:00，以评估充足睡眠对 GCSE 学业与心理健康的因果影响。然而，推迟上学时间并非教室内的一项独立微调，而是触动了错综复杂的全社会行政网络：它涉及全市公共交通与校车调度运行表的全面重排、同一家庭中低龄弟妹小学上学时间的作息冲突、双职工家长的接送与通勤挤压、课后课外活动与体育训练场地的租用冲突、以及教师工会关于法定劳动合同工作时长的重开谈判。面对庞大的现实阻力，学校完全无法遵从外部随机化指令，导致试验在招募阶段直接瘫痪夭折。
-> - **制度化转向：开辟“研究学校选择”准实验资助流** 这两起惨痛的招募灾难彻底打破了对单一 RCT 范式的教条崇拜。EEF 深刻认识到，评估宏观组织决策绝不能强行削足适履。2019 年，EEF 正式开辟了“研究学校选择”专属资助流。该资助流不再依赖人为随机化，而是充分利用英格兰教育生态中自然存在的政策演变与校本选择差异，依托国家学生数据库（NPD）庞大的纵向普查数据，采用回归断点设计（[[Regression Discontinuity Design|RDD]]）、双重差分法（DID）与倾向得分匹配（PSM）等严密的准实验设计（[[Quasi-Experimental Designs\|QED]]）估算因果效应，使循证科学在学校宏观决策领域获得了全新的方法学生命力。（pp. 55–56）
+> - **制度化转向：开辟“研究学校选择”准实验资助流** 这两起惨痛的招募灾难彻底打破了对单一 RCT 范式的教条崇拜。EEF 深刻认识到，评估宏观组织决策绝不能强行削足适履。2019 年，EEF 正式开辟了“[[Researching School Choices|研究学校选择]]”专属资助流。该资助流不再依赖人为随机化，而是充分利用英格兰教育生态中自然存在的政策演变与校本选择差异，依托国家学生数据库（NPD）庞大的纵向普查数据，采用回归断点设计（[[Regression Discontinuity Design|RDD]]）、双重差分法（DID）与倾向得分匹配（PSM）等严密的准实验设计（[[Quasi-Experimental Designs\|QED]]）估算因果效应，使循证科学在学校宏观决策领域获得了全新的方法学生命力。（pp. 55–56）
 
 除了学校层面的宏观组织架构，当微观经济学金钱奖惩机制强行引入校园日常教研时，同样遭遇了坚硬的职业伦理反弹。（p. 55）
 
@@ -478,7 +483,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 
 > [!finding-cards] 核心战略与方法学发现
 > 1. **大规模学校 [[Randomised Controlled Trials|RCT]] 资助机制完全可行** [[Education Endowment Foundation|EEF]] 八年间动员了英格兰过半数公立学校参与 150 余项 RCT（平均样本逾 8,000 人），证明国家中介机构能够成功建立大规模试验动员与运行体系。（pp. 48–50）
-> 2. **独立三方协议与[[Preregistration|预注册]]树立防偏倚标杆** 专家库竞标、三方协议隔离与 ISRCTN 预注册彻底根除了研发者自评利益冲突，85% 的已发表报告获得 3 把锁及以上安全评级（[[Attrition|流失]]率 $<30\%$）。（pp. 50–52）
+> 2. **独立三方协议与[[Preregistration|预注册]]树立防偏倚标杆** 专家库竞标、三方协议隔离与 [[ISRCTN]] 预注册彻底根除了研发者自评利益冲突，85% 的已发表报告获得 3 把锁及以上安全评级（[[Attrition|流失]]率 $<30\%$）。（pp. 50–52）
 > 3. **[[Implementation and Process Evaluation|过程评估]]与高[[External Validity|外部效度]]测验是识别机制的生命线** 必须将量化 RCT 与实施与过程评估（IPE）深度融合以区分实施失败与理论无效，且必须使用与国家统考高相关的测试以杜绝测验自编虚高。（pp. 53–54）
 > 4. **常态基线高企与规模化稀释催生多元设计转型** 商业干预平均效应微弱（$d=0.06$）反映了[[Business as Usual|常态教学]]的高基线，而规模化推进极易因培训稀释而丧失效应；未来亟需转向[[Realist Evaluation|现实主义试验]]及学校与教师选择的差异化设计。（pp. 55–57）
 

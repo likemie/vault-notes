@@ -8,10 +8,10 @@ aliases:
 summary: "在试验数据收集或解盲前由独立评估团队预先制定并公开发布的详尽技术法典，硬性锁定主要模型、协变量、集群校正与敏感性分析规则，是根除数据钓鱼与消解模型依赖性的制度基石"
 type: concept
 domain: "research-methodology"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - statistical-analysis-plan
   - research-methodology

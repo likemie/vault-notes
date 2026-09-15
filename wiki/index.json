@@ -17580,6 +17580,16 @@
     ]
   },
   {
+    "title": "Michael Gove",
+    "type": "person",
+    "path": "wiki/persons/uk/Michael Gove.md",
+    "aliases": [
+      "迈克尔·戈夫",
+      "Michael Andrew Gove",
+      "戈夫"
+    ]
+  },
+  {
     "title": "Michael Sadler",
     "type": "person",
     "path": "wiki/persons/uk/Michael Sadler.md",
@@ -22074,6 +22084,17 @@
     ]
   },
   {
+    "title": "ISRCTN",
+    "type": "fact",
+    "path": "wiki/facts/uk/ISRCTN.md",
+    "aliases": [
+      "国际标准随机对照试验编码",
+      "ISRCTN registry",
+      "国际标准随机对照试验注册库",
+      "International Standard Randomised Controlled Trial Number"
+    ]
+  },
+  {
     "title": "National Pupil Database",
     "type": "fact",
     "path": "wiki/facts/uk/National Pupil Database.md",
@@ -22091,6 +22112,17 @@
       "RAiSE",
       "苏格兰科学教育抱负提升计划",
       "Raising Aspirations in Science Education"
+    ]
+  },
+  {
+    "title": "Researching School Choices",
+    "type": "fact",
+    "path": "wiki/facts/uk/Researching School Choices.md",
+    "aliases": [
+      "研究学校选择",
+      "学校选择资助流",
+      "School Choices",
+      "Researching School Choices Programme"
     ]
   },
   {
@@ -22112,6 +22144,16 @@
       "思考与韧性测量心理工具库",
       "SPECTRUM Database",
       "Social, Psychological, Emotional, Concepts of Self, and Resilience: Understanding and Measurement"
+    ]
+  },
+  {
+    "title": "Teacher Choices",
+    "type": "fact",
+    "path": "wiki/facts/uk/Teacher Choices.md",
+    "aliases": [
+      "教师选择",
+      "教师选择试验",
+      "Teacher Choices Trials"
     ]
   },
   {

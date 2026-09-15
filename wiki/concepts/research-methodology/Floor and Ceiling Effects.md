@@ -10,10 +10,10 @@ aliases:
 summary: "测量工具因题项难度分布或量程受限导致得分在最高端或最低端过度聚集的数据截断缺陷，会导致方差缩减并人为低估干预的真实因果效应量，是导致教育试验微弱效应的关键测量学根源"
 type: concept
 domain: "research-methodology"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - floor-and-ceiling-effects
   - psychometrics
