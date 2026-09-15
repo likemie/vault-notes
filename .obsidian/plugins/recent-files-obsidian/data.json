@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Efficacy and Effectiveness Trials",
-      "path": "wiki/methods/quantitative/Efficacy and Effectiveness Trials.md"
+      "basename": "Factorial Design",
+      "path": "wiki/methods/quantitative/Factorial Design.md"
     },
     {
       "basename": "Argument_Edovald_Nevill_2021_ROE",
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md"
+    },
+    {
+      "basename": "Covariate Adjustment",
+      "path": "wiki/methods/quantitative/Covariate Adjustment.md"
     },
     {
       "basename": "Fade-out Effect",
@@ -113,10 +117,6 @@
       "path": "wiki/theories/learning-science-cognitive-science/Growth Mindset.md"
     },
     {
-      "basename": "Factorial Design",
-      "path": "wiki/methods/quantitative/Factorial Design.md"
-    },
-    {
       "basename": "What Works Movement",
       "path": "wiki/concepts/educational-policy-reform/What Works Movement.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Conflict of Interest in Research",
       "path": "wiki/concepts/university-industry-collaboration/Conflict of Interest in Research.md"
-    },
-    {
-      "basename": "Research Schools Network",
-      "path": "wiki/facts/uk/Research Schools Network.md"
     }
   ],
   "omittedPaths": [],
