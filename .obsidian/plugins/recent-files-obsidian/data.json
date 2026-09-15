@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
     },
     {
+      "basename": "Evidence-Informed Practice",
+      "path": "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md"
+    },
+    {
+      "basename": "Research-Engaged School",
+      "path": "wiki/concepts/educational-policy-reform/Research-Engaged School.md"
+    },
+    {
+      "basename": "Self-Improving School System",
+      "path": "wiki/concepts/educational-policy-reform/Self-Improving School System.md"
+    },
+    {
       "basename": "GB-T 7714-2015",
       "path": "wiki/concepts/academic-writing/GB-T 7714-2015.md"
     },
@@ -165,10 +177,6 @@
       "path": "wiki/instruments/questionnaires/Research Learning Communities Baseline Survey Questionnaire.md"
     },
     {
-      "basename": "Research-Engaged School",
-      "path": "wiki/concepts/educational-policy-reform/Research-Engaged School.md"
-    },
-    {
       "basename": "Argument_Bainbridge_2022_ROE",
       "path": "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Academic Achievement",
       "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
-      "basename": "Engineered Evidence",
-      "path": "wiki/concepts/educational-policy-reform/Engineered Evidence.md"
-    },
-    {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
     }
   ],
   "omittedPaths": [],
