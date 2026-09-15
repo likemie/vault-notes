@@ -69,6 +69,20 @@
     ]
   },
   {
+    "title": "GB/T 7714-2015",
+    "type": "concept",
+    "path": "wiki/concepts/academic-writing/GB-T 7714-2015.md",
+    "aliases": [
+      "GB/T 7714",
+      "GBT 7714",
+      "GBT 7714-2015",
+      "信息与文献 参考文献著录规则",
+      "国标参考文献格式",
+      "国标著录规则",
+      "国标格式"
+    ]
+  },
+  {
     "title": "Hook and Eye Technique",
     "type": "concept",
     "path": "wiki/concepts/academic-writing/Hook and Eye Technique.md",

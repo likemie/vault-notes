@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
+    },
+    {
+      "basename": "GB-T 7714-2015",
+      "path": "wiki/concepts/academic-writing/GB-T 7714-2015.md"
+    },
+    {
+      "basename": "Argument_QiMei_2015_EducationalResearchMethods",
+      "path": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md"
+    },
+    {
       "basename": "Literature Search",
       "path": "wiki/concepts/research-methodology/Literature Search.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "Argument_Brown_Greany_2018_LPS",
       "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
-    },
-    {
-      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
     },
     {
       "basename": "template-theory",
@@ -177,10 +185,6 @@
       "path": "wiki/concepts/educational-policy-reform/Engineered Evidence.md"
     },
     {
-      "basename": "Argument_QiMei_2015_EducationalResearchMethods",
-      "path": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md"
-    },
-    {
       "basename": "Education Endowment Foundation",
       "path": "wiki/facts/uk/Education Endowment Foundation.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Brown_2017_ER",
       "path": "sources/Brown_2017_ER.md"
-    },
-    {
-      "basename": "Data Literacy",
-      "path": "wiki/concepts/competency-and-assessment/Data Literacy.md"
-    },
-    {
-      "basename": "Transfer Translation Transformation",
-      "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md"
     }
   ],
   "omittedPaths": [],

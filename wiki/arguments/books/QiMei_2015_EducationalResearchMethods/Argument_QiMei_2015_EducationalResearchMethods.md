@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 128
+argument_related_count: 130
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -88,6 +88,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Brainstorming]]"
   - "[[Null Hypothesis]]"
+  - "[[GB/T 7714-2015]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -130,6 +131,7 @@ related_methods:
   - "[[Analysis of Covariance]]"
   - "[[Time Series Design]]"
   - "[[Non-probability Sampling]]"
+  - "[[Sampling Frame]]"
   - "[[Stratified Sampling]]"
   - "[[Cluster Sampling]]"
   - "[[Multi-phase Sampling]]"
@@ -166,7 +168,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: '2026-08-27'
+updated: '2026-09-16'
 ---
 # 教育研究方法
 
@@ -649,7 +651,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > [!ref-table] 随机抽样的五种方法
 > | 方法 | 操作方式 | 适用条件 |
 > |---|---|---|
-> | 简单随机抽样 | 从总体中完全随机抽取样本，每个个体被抽中的概率相等 | 有完整抽样框，总体同质性较高 |
+> | 简单随机抽样 | 从总体中完全随机抽取样本，每个个体被抽中的概率相等 | 有完整[[Sampling Frame\|抽样框]]，总体同质性较高 |
 > | 等距抽样 | 随机起点后每隔固定间隔抽取 | 总体名单完整且随机排列 |
 > | [[Stratified Sampling\|分层抽样]] | 先按特征分层，再从各层随机抽样 | 层间差异大、层内差异小 |
 > | [[Cluster Sampling\|整群抽样]] | 以群体为单位随机抽取，群内全部个体入样 | 群间差异小、群内差异大 |
@@ -1106,7 +1108,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > | 研究结果 | 客观呈现数据分析结果，用图表辅助，不加主观解释 |
 > | 讨论 | 解释结果的意义，与已有研究比较，指出局限，提出启示 |
 > | 结论 | 简洁总结核心发现，回应研究问题 |
-> | 参考文献 | 列明所有引用的文献出处，格式统一规范 |
+> | 参考文献 | 列明所有引用的文献出处，格式遵循 [[GB/T 7714-2015]] 等标准统一规范 |
 
 撰写研究报告必须坚持科学、客观和严谨的原则，从对数据和资料的分析中得出结论，不能仅凭个人主观臆想或情感倾向发表观点。让熟悉该领域的研究者审阅并根据意见调整，是提高报告质量的有效方式。
 
