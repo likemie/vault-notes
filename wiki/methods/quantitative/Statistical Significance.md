@@ -44,7 +44,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
 confidence: low
 status: draft
@@ -96,7 +96,7 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 > - **t 值与[[Sample Size Determination|样本量]]** 在[[Effect Size|效应量]] $d$ 已知时，若观测数为 $n$，可构造 $t = d\sqrt{n}$；样本量越大，同样 $d$ 值越容易达到统计显著。
 > - **p 值** p 值表示在零假设成立时获得当前或更极端 $t$ 值的概率，是统计分析结果的核心呈现形式。
 > - **显著不等于重要** Terhart 强调统计显著性不说明效应大小和实践意义，需[[Effect Size|效应量]]或原始量表差异补充（[[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]]）。
-> - **显著不等于可采购** 学校项目选择中，统计显著性不能说明项目成本、实施难度、教师接受度或本地适配性（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]]）。
+> - **显著不等于可采购** 学校项目选择中，统计显著性不能说明项目成本、实施难度、教师接受度或本地适配性（[[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.120-121]]）。
 
 ---
 
@@ -119,7 +119,7 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 > [!success] 实证发现
 > - 在 $n = 25$ 的示例中，$d \approx 0.412$ 对应 $t = 2.060$，接近双侧检验 $p \approx 0.05$ 的临界值；换成其他[[Sample Size Determination|样本量]]，这一对应关系会改变（[[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]]）。
 > - 在[[Educational Evidence Clearinghouses|教育证据清算中心]]中，统计显著性并不总是以同样方式进入评级标准；部分机构要求统计显著正向效果，部分机构还加入最低[[Effect Size|效应量]]门槛（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–15]]）。
-> - 在 141 项大型教育 [[Randomised Controlled Trials|RCT]] 中，只有 23% 的成就效应显著大于零；这提示”严格设计”并不自动带来统计显著的教育成就效果（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]]）。
+> - 在 141 项大型教育 [[Randomised Controlled Trials|RCT]] 中，只有 23% 的成就效应显著大于零；这提示”严格设计”并不自动带来统计显著的教育成就效果（[[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.112]]）。
 
 ---
 
@@ -128,7 +128,7 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 > [!warning] 争议与批评
 > - 如果只报告统计显著性，研究者可能忽略实际效应大小；如果只报告[[Effect Size|效应量]]点估计，则无法判断该估计是否稳定。只有 $d$ 值而缺少 [[Confidence Interval]]、[[Standard Error|标准误]]或相邻排名显著性检验时，读者无法判断数值接近的干预是否真的不同（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]]）。
 > - [[Publication Bias|发表偏倚]]与统计显著性偏好相关：发表系统更容易接纳显著或正面结果，从而使[[Meta-analysis|元分析]]平均效应量偏高。
-> - 现行[[Evidence Standards|证据标准]]容易把中等或强”有效性”缩小为严格实验中的统计显著效果，忽略实施质量、结果类型和地方上重视的非成就目标（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]]）。
+> - 现行[[Evidence Standards|证据标准]]容易把中等或强”有效性”缩小为严格实验中的统计显著效果，忽略实施质量、结果类型和地方上重视的非成就目标（[[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.110-112]]）。
 
 ---
 
@@ -136,6 +136,6 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 
 > [!evidence-grid-a] 相关案例索引
 > - [[Educational Evidence Clearinghouses]] — 清算中心把统计显著性、效应方向和最低[[Effect Size|效应量]]阈值组合成项目评级规则（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–15]]）
-> - [[ESSA 2015 Evidence Standards]] — ESSA 证据层级把 [[Randomised Controlled Trials|RCT]]、[[Quasi-Experimental Designs|QED]] 和相关研究与项目有效性标准连接起来（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]]）
+> - [[ESSA 2015 Evidence Standards]] — ESSA 证据层级把 [[Randomised Controlled Trials|RCT]]、[[Quasi-Experimental Designs|QED]] 和相关研究与项目有效性标准连接起来（[[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.109]]）
 > - [[Visible Learning]] — Hattie 将 $d = 0.40$ 作为实践阈值，但该值与显著性的关系依赖[[Sample Size Determination|样本量]]（[[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]]）
 

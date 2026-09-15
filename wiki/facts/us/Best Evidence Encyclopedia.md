@@ -59,8 +59,8 @@ related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Slavin_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
+  - "[[Argument_Slavin_2021_ECNUROE]]"
   - "[[Argument_Slavin_2019_EP]]"
 confidence: high
 status: active
@@ -77,7 +77,7 @@ updated: 2026-09-14
 > [!info] 机构定位与运营概况
 > **最佳证据百科全书（Best Evidence Encyclopedia, BEE）** 是由国际著名[[Evidence-Based Education|循证教育]]学者 [[Robert Slavin]]（1950–2021）团队于约翰斯·霍普金斯大学教育研究与改革中心（CRRE）创立的教育专精[[Educational Evidence Clearinghouses|证据清算中心]]，受到[[Institute of Education Sciences|美国教育部教育科学研究院]]（IES）资助([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
-> BEE 专精于学前至中小学（Pre-K–12）的读写、数学、科学、教育技术及全校综合改革方案评估。当前处于**在线资料库 / 重心迁移（Shifted）**状态：原始学术文库 [bestevidence.org](https://www.bestevidence.org) 持续在线归档各学科[[Systematic Review|系统综述]]，而日常评级与决策支持主力已全面升级迁移至符合 ESSA [[Evidence Standards|证据标准]]的交互式旗舰平台 [Evidence for ESSA](https://www.evidenceforessa.org)([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 110]])。
+> BEE 专精于学前至中小学（Pre-K–12）的读写、数学、科学、教育技术及全校综合改革方案评估。当前处于**在线资料库 / 重心迁移（Shifted）**状态：原始学术文库 [bestevidence.org](https://www.bestevidence.org) 持续在线归档各学科[[Systematic Review|系统综述]]，而日常评级与决策支持主力已全面升级迁移至符合 ESSA [[Evidence Standards|证据标准]]的交互式旗舰平台 [Evidence for ESSA](https://www.evidenceforessa.org)([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 110]])。
 
 ---
 
@@ -87,7 +87,7 @@ updated: 2026-09-14
 > - **1986 — [[Best Evidence Synthesis|最佳证据综合]]法（BES）创立** [[Robert Slavin]] 提出“最佳证据综合法（Best-Evidence Synthesis）”，倡导将[[Systematic Review|系统综述]]的质性审慎与[[Meta-analysis|元分析]]的量化聚合相融通。
 > - **2004 — BEE 平台由 JHU CRRE 正式设立** 获得美国教育部 [[Institute of Education Sciences|IES]] 持续资助，针对全美 K–12 主流课程方案开展大规模学科元分析审查。
 > - **2007–2014 — 学科系统综述矩阵建立** 陆续发布初等阅读、中等阅读、中小学数学、幼儿早教、教育[[Technology Infusion|技术整合]]等十余部奠基性学科元分析报告。
-> - **2015 — ESSA 法案颁布与平台战略升级** 《每个学生都成功法案》（ESSA）出台后，JHU 团队依托 BEE 审查标准孵化新一代决策平台 **Evidence for ESSA**，直接服务全美学区 Title I 拨款采购([[Argument_Slavin_2021_ROE|Slavin et al., 2021, pp. 19–21]])。
+> - **2015 — ESSA 法案颁布与平台战略升级** 《每个学生都成功法案》（ESSA）出台后，JHU 团队依托 BEE 审查标准孵化新一代决策平台 **Evidence for ESSA**，直接服务全美学区 Title I 拨款采购([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, pp. 19–21]])。
 > - **2019 — 全球传播网络成熟** 旗下双周刊通讯《简报中的证据》（[[Best Evidence in Brief]], BEiB）向全球数万名教育者与决策者推送，并建立中英多语种国际合作网络。
 
 ---
@@ -128,9 +128,9 @@ updated: 2026-09-14
 ## 项目收录与实证表现
 
 > [!stat-cards]- BEE 样本贡献与多中心重叠表现
-> - **124 个** BEE 纳入的去重教育干预项目总量（涵盖初等阅读、中等阅读、数学、科学、CSR 等）
-> - **学科专属分类** 按学科领域系统组织[[Systematic Review|系统综述]]（初等阅读 47 项、数学 39 项、全校改革 23 项等）
-> - **全美第二大教育专精库** 在 12 所清算中心中，项目收录规模仅次于 [[What Works Clearinghouse|WWC]]，是[[Evidence-Based Education|循证教育]]学科干预的核心基准库([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])
+> - **124** BEE 纳入的去重教育干预项目数量（个），涵盖初等阅读、中等阅读、数学、科学、CSR 等。
+> - **47 / 39 / 23** 按学科领域系统组织的[[Systematic Review|系统综述]]数量（项），依次为初等阅读、数学、全校改革等。
+> - **第 2** 在 12 所清算中心中项目收录规模的位次（全美），仅次于 [[What Works Clearinghouse|WWC]]，是[[Evidence-Based Education|循证教育]]学科干预的核心基准库([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
 
 ---
 

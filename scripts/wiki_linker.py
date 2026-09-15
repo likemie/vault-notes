@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import io
 import json
 import re
 import subprocess
@@ -200,6 +201,46 @@ class Term:
     target: str
     is_alias: bool
     entry_type: str = ""
+
+
+class TermMatcher:
+    """Index terms in tries so matching cost depends on term length, not term count."""
+
+    _TERMINALS = ""
+
+    def __init__(self, terms: list[Term]) -> None:
+        self._exact: dict[str, dict] = {}
+        self._folded: dict[str, dict] = {}
+        self._rank = {term: rank for rank, term in enumerate(terms)}
+        for term in terms:
+            has_ascii_alpha = any(ch.isascii() and ch.isalpha() for ch in term.text)
+            exact_only = not has_ascii_alpha or (len(term.text) <= 3 and term.text.isupper())
+            root = self._exact if exact_only else self._folded
+            keys = list(term.text) if exact_only else [ch.casefold() for ch in term.text]
+            node = root
+            for key in keys:
+                node = node.setdefault(key, {})
+            node.setdefault(self._TERMINALS, []).append(term)
+
+    @staticmethod
+    def _matches_from(root: dict[str, dict], text: str, start: int, *, folded: bool) -> list[Term]:
+        matches: list[Term] = []
+        node = root
+        for char in text[start:]:
+            key = char.casefold() if folded else char
+            child = node.get(key)
+            if child is None:
+                break
+            node = child
+            matches.extend(node.get(TermMatcher._TERMINALS, ()))
+        return matches
+
+    def matches_at(self, text: str, start: int) -> list[Term]:
+        matches = self._matches_from(self._exact, text, start, folded=False)
+        matches.extend(self._matches_from(self._folded, text, start, folded=True))
+        matches = [term for term in matches if match_term_at(text, start, term.text)]
+        matches.sort(key=self._rank.__getitem__)
+        return matches
 
 
 @dataclass(frozen=True)
@@ -433,19 +474,64 @@ def git_output(args: list[str]) -> str:
     return result.stdout
 
 
-def git_file_at_ref(ref: str, rel_path: str) -> str:
-    return git_output(["show", f"{ref}:{rel_path}"])
+def git_files_at_ref(ref: str, rel_paths: Iterable[str]) -> dict[str, str]:
+    """Read many historical files through one `git cat-file --batch` process."""
+    paths = list(rel_paths)
+    if not paths:
+        return {}
+    requests = "".join(f"{ref}:{path}\n" for path in paths).encode()
+    result = subprocess.run(
+        ["git", "cat-file", "--batch"],
+        cwd=ROOT,
+        input=requests,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.DEVNULL,
+        check=False,
+    )
+    if result.returncode != 0:
+        return {}
+
+    stream = io.BytesIO(result.stdout)
+    files: dict[str, str] = {}
+    for path in paths:
+        header = stream.readline().rstrip(b"\n")
+        if not header or header.endswith(b" missing"):
+            continue
+        try:
+            size = int(header.rsplit(b" ", 1)[1])
+        except (IndexError, ValueError):
+            return {}
+        content = stream.read(size)
+        stream.read(1)  # trailing newline emitted by cat-file --batch
+        files[path] = content.decode("utf-8", errors="replace")
+    return files
 
 
-def git_file_at_head(rel_path: str) -> str:
-    return git_file_at_ref("HEAD", rel_path)
+def parse_name_status_z(output: str) -> set[str]:
+    parts = output.split("\0")
+    paths: set[str] = set()
+    i = 0
+    while i < len(parts) and parts[i]:
+        status = parts[i]
+        i += 1
+        if status.startswith(("R", "C")):
+            if i + 1 >= len(parts):
+                break
+            paths.update((parts[i], parts[i + 1]))
+            i += 2
+        else:
+            if i >= len(parts):
+                break
+            paths.add(parts[i])
+            i += 1
+    return {path for path in paths if path}
 
 
 def git_changed_paths() -> set[str]:
-    changed = set(
-        line.strip()
-        for line in git_output(["diff", "--name-only", "--diff-filter=ACMRTUXB", "HEAD", "--", "wiki", "sources"]).splitlines()
-        if line.strip()
+    changed = parse_name_status_z(
+        git_output(
+            ["diff", "--name-status", "-z", "--find-renames", "--diff-filter=ACDMRTUXB", "HEAD", "--", "wiki", "sources"]
+        )
     )
     untracked = set(
         line.strip()
@@ -456,23 +542,23 @@ def git_changed_paths() -> set[str]:
 
 
 def git_commit_changed_paths(ref: str = "HEAD") -> set[str]:
-    return set(
-        line.strip()
-        for line in git_output(
+    return parse_name_status_z(
+        git_output(
             [
                 "diff-tree",
                 "--root",
                 "--no-commit-id",
-                "--name-only",
+                "--name-status",
+                "-z",
+                "--find-renames",
                 "-r",
-                "--diff-filter=ACMRTUXB",
+                "--diff-filter=ACDMRTUXB",
                 ref,
                 "--",
                 "wiki",
                 "sources",
             ]
-        ).splitlines()
-        if line.strip()
+        )
     )
 
 
@@ -480,22 +566,27 @@ def git_changed_terms(paths: set[str], previous_ref: str = "HEAD") -> tuple[set[
     changed_files: set[str] = set()
     added_terms: set[str] = set()
     removed_terms: set[str] = set()
+    markdown_paths = sorted(rel for rel in paths if rel.endswith(".md"))
+    previous_texts = git_files_at_ref(previous_ref, markdown_paths)
 
     for rel in paths:
         path = ROOT / rel
         if path.suffix.lower() != ".md":
             continue
         if rel.startswith("wiki/"):
-            if not path.exists() or should_skip_file(path):
+            if should_skip_file(path):
                 continue
-            changed_files.add(rel)
+            if path.exists():
+                changed_files.add(rel)
+            elif rel not in previous_texts:
+                continue
         elif not rel.startswith("sources/"):
             continue
 
         current_entry = None
         if path.exists():
             current_entry = parse_entry_from_text(rel, path.read_text(encoding="utf-8", errors="ignore"))
-        previous_text = git_file_at_ref(previous_ref, rel)
+        previous_text = previous_texts.get(rel, "")
         previous_entry = parse_entry_from_text(rel, previous_text) if previous_text else None
 
         current_terms = entry_terms(current_entry) if current_entry else set()
@@ -520,9 +611,10 @@ def iter_git_target_files() -> list[Path]:
 
     candidates = {ROOT / rel for rel in changed_files}
     if search_terms:
+        search_pattern = re.compile("|".join(re.escape(term) for term in sorted(search_terms, key=len, reverse=True)))
         for path in iter_target_files([]):
             text = path.read_text(encoding="utf-8", errors="ignore")
-            if any(term in text for term in search_terms):
+            if search_pattern.search(text):
                 candidates.add(path)
 
     return sorted(p for p in candidates if p.exists() and not should_skip_file(p))
@@ -838,68 +930,6 @@ def match_term_at(text: str, start: int, term: str) -> bool:
     return False
 
 
-def preferred_cjk_term_lengths(chunk: str, terms: list[Term], current_title: str) -> dict[int, int]:
-    by_first: dict[str, list[Term]] = {}
-    for term in terms:
-        if term.target == current_title or not contains_cjk(term.text):
-            continue
-        first = term.text[0].casefold() if term.text and term.text[0].isascii() else term.text[:1]
-        by_first.setdefault(first, []).append(term)
-
-    preferred: dict[int, int] = {}
-    for i, ch in enumerate(chunk):
-        key = ch.casefold() if ch.isascii() else ch
-        best = 0
-        for term in by_first.get(key, []):
-            if len(term.text) <= best:
-                continue
-            if not match_term_at(chunk, i, term.text):
-                continue
-            if not valid_boundary(chunk, i, i + len(term.text), term.text):
-                continue
-            best = len(term.text)
-        if best:
-            preferred[i] = best
-    return preferred
-
-
-def merge_preferred_cjk_lengths(base: dict[int, int], extra: dict[int, int]) -> dict[int, int]:
-    merged = dict(base)
-    for start, length in extra.items():
-        merged[start] = max(merged.get(start, 0), length)
-    return merged
-
-
-def collect_preferred_cjk_lengths(section: str, terms: list[Term], current_title: str) -> dict[int, int]:
-    preferred: dict[int, int] = {}
-    chunks = split_protected_spans(section)
-    offset = 0
-    for _, chunk in chunks:
-        local = preferred_cjk_term_lengths(chunk, terms, current_title)
-        shifted = {offset + start: length for start, length in local.items()}
-        preferred = merge_preferred_cjk_lengths(preferred, shifted)
-        offset += len(chunk)
-    return preferred
-
-
-def term_first_key(text: str) -> str:
-    if not text:
-        return ""
-    first = text[0]
-    return first.casefold() if first.isascii() else first
-
-
-def build_terms_by_first(terms: list[Term], current_title: str) -> dict[str, list[Term]]:
-    by_first: dict[str, list[Term]] = {}
-    for term in terms:
-        if term.target == current_title:
-            continue
-        by_first.setdefault(term_first_key(term.text), []).append(term)
-    for bucket in by_first.values():
-        bucket.sort(key=lambda t: len(t.text), reverse=True)
-    return by_first
-
-
 def link_text(display: str, target: str, table_safe: bool = False) -> str:
     if display == target:
         return f"[[{target}]]"
@@ -1090,17 +1120,15 @@ def link_plain_text(
     current_title: str,
     already_linked: set[str],
     table_safe: bool = False,
-    preferred_cjk_lengths: dict[int, int] | None = None,
-    terms_by_first: dict[str, list[Term]] | None = None,
+    term_matcher: TermMatcher | None = None,
     person_prefix_registry: PersonPrefixRegistry | None = None,
 ) -> tuple[str, int]:
-    preferred_cjk_lengths = preferred_cjk_lengths or {}
-    terms_by_first = terms_by_first or build_terms_by_first(terms, current_title)
+    term_matcher = term_matcher or TermMatcher(terms)
     additions = 0
     i = 0
     new_chunk: list[str] = []
     while i < len(chunk):
-        bucket = terms_by_first.get(term_first_key(chunk[i]), [])
+        candidates = term_matcher.matches_at(chunk, i)
 
         # Reserve the longest known person span before applying the
         # once-per-section rule. Otherwise an already-linked longer person can
@@ -1108,12 +1136,11 @@ def link_plain_text(
         # the same name, e.g. Peterson, A. inside Peterson, A. D. C.
         if person_prefix_registry:
             protected_person: Term | None = None
-            for term in bucket:
+            for term in candidates:
                 if term not in person_prefix_registry.longer_terms:
                     continue
-                if match_term_at(chunk, i, term.text):
-                    protected_person = term
-                    break
+                protected_person = term
+                break
 
             if protected_person is not None:
                 end = i + len(protected_person.text)
@@ -1130,13 +1157,21 @@ def link_plain_text(
                 i = end
                 continue
 
+        preferred_cjk_length = max(
+            (
+                len(term.text)
+                for term in candidates
+                if term.target != current_title
+                and contains_cjk(term.text)
+                and valid_boundary(chunk, i, i + len(term.text), term.text)
+            ),
+            default=0,
+        )
         matched: Term | None = None
-        for term in bucket:
+        for term in candidates:
             if term.target == current_title or term.target in already_linked:
                 continue
-            if contains_cjk(term.text) and preferred_cjk_lengths.get(i, 0) > len(term.text):
-                continue
-            if not match_term_at(chunk, i, term.text):
+            if contains_cjk(term.text) and preferred_cjk_length > len(term.text):
                 continue
             if not valid_boundary(chunk, i, i + len(term.text), term.text):
                 continue
@@ -1161,8 +1196,7 @@ def link_table_row(
     terms: list[Term],
     current_title: str,
     already_linked: set[str],
-    preferred_cjk_lengths: dict[int, int] | None = None,
-    terms_by_first: dict[str, list[Term]] | None = None,
+    term_matcher: TermMatcher | None = None,
     person_prefix_registry: PersonPrefixRegistry | None = None,
 ) -> tuple[str, int]:
     if is_markdown_table_separator_line(line):
@@ -1193,8 +1227,7 @@ def link_table_row(
                     current_title,
                     already_linked,
                     table_safe=True,
-                    preferred_cjk_lengths=preferred_cjk_lengths,
-                    terms_by_first=terms_by_first,
+                    term_matcher=term_matcher,
                     person_prefix_registry=person_prefix_registry,
                 )
                 out.append(linked_cell)
@@ -1221,29 +1254,19 @@ def link_unprotected_chunk(
     terms: list[Term],
     current_title: str,
     already_linked: set[str],
-    preferred_cjk_lengths: dict[int, int] | None = None,
-    terms_by_first: dict[str, list[Term]] | None = None,
+    term_matcher: TermMatcher | None = None,
     person_prefix_registry: PersonPrefixRegistry | None = None,
 ) -> tuple[str, int]:
     out: list[str] = []
     additions = 0
-    offset = 0
     for line in chunk.splitlines(keepends=True):
-        local_preferred = None
-        if preferred_cjk_lengths:
-            local_preferred = {
-                start - offset: length
-                for start, length in preferred_cjk_lengths.items()
-                if offset <= start < offset + len(line)
-            }
         if is_markdown_table_line(line):
             linked_line, added = link_table_row(
                 line,
                 terms,
                 current_title,
                 already_linked,
-                local_preferred,
-                terms_by_first,
+                term_matcher,
                 person_prefix_registry,
             )
         else:
@@ -1252,13 +1275,11 @@ def link_unprotected_chunk(
                 terms,
                 current_title,
                 already_linked,
-                preferred_cjk_lengths=local_preferred,
-                terms_by_first=terms_by_first,
+                term_matcher=term_matcher,
                 person_prefix_registry=person_prefix_registry,
             )
         out.append(linked_line)
         additions += added
-        offset += len(line)
     return "".join(out), additions
 
 
@@ -1268,40 +1289,30 @@ def link_section(
     current_title: str,
     already_linked: set[str],
     person_prefix_registry: PersonPrefixRegistry | None = None,
+    term_matcher: TermMatcher | None = None,
 ) -> tuple[str, int]:
     additions = 0
     chunks = split_protected_spans(section)
-    preferred = collect_preferred_cjk_lengths(section, terms, current_title)
-    terms_by_first = build_terms_by_first(terms, current_title)
     out: list[str] = []
-    offset = 0
 
     for protected, chunk in chunks:
         if protected:
             for m in WIKILINK_RE.finditer(chunk):
                 already_linked.add(m.group(1).strip())
             out.append(chunk)
-            offset += len(chunk)
             continue
         if not chunk:
             continue
-        local_preferred = {
-            start - offset: length
-            for start, length in preferred.items()
-            if offset <= start < offset + len(chunk)
-        }
         linked_chunk, added = link_unprotected_chunk(
             chunk,
             terms,
             current_title,
             already_linked,
-            local_preferred,
-            terms_by_first,
+            term_matcher,
             person_prefix_registry,
         )
         out.append(linked_chunk)
         additions += added
-        offset += len(chunk)
 
     return "".join(out), additions
 
@@ -1340,6 +1351,7 @@ def link_body(
     source_links: dict[str, str],
     current_title: str,
     person_prefix_registry: PersonPrefixRegistry | None = None,
+    term_matcher: TermMatcher | None = None,
 ) -> tuple[str, int]:
     sections = split_h2_sections(body)
     linked_sections: list[str] = []
@@ -1355,7 +1367,14 @@ def link_body(
         # Track links as we encounter them left-to-right so the first mention in
         # a ## section gets linked even when a later mention was already linked.
         already_linked: set[str] = set()
-        linked, added = link_section(section, terms, current_title, already_linked, person_prefix_registry)
+        linked, added = link_section(
+            section,
+            terms,
+            current_title,
+            already_linked,
+            person_prefix_registry,
+            term_matcher,
+        )
         linked_sections.append(linked)
         additions += added
 
@@ -1365,6 +1384,7 @@ def link_body(
 def sync_file(
     path: Path,
     terms: list[Term],
+    term_matcher: TermMatcher,
     source_pattern: re.Pattern[str] | None,
     source_links: dict[str, str],
     entries_by_title: dict[str, Entry],
@@ -1394,6 +1414,7 @@ def sync_file(
             source_links,
             current_title,
             person_prefix_registry,
+            term_matcher,
         )
         added = yaml_added + body_added
         # Final guard: regardless of which chunks were protected or linked,
@@ -1424,6 +1445,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     entries = load_entries()
     source_entries = load_source_entries()
     terms, entries_by_title, path_to_title = make_terms(entries)
+    term_matcher = TermMatcher(terms)
     person_prefix_registry = build_person_prefix_registry(terms)
     author_map = make_yaml_author_term_map(entries)
     for source in source_entries:
@@ -1437,6 +1459,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
         changed, added, removed, table_pipes_escaped, heading_styles_normalized = sync_file(
             path,
             terms,
+            term_matcher,
             source_pattern,
             source_links,
             entries_by_title,

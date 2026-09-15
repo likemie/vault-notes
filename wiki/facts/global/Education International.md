@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Education International
@@ -124,9 +124,9 @@ updated: 2026-09-15
 > - **重构全球教师政策决策[[Paradigm|范式]]** 通过创设 ISTP 机制，将劳资对抗性博弈转型为基于研究证据的理性协商，促成分布式领导与缓解教师身心压力成为各国官方政策共识。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 210, 216)]]
 
 > [!stat-cards]- 核心规模数据
-> - **覆盖国家与地区数** 172 个。
-> - **成员工会组织数** 401 个。
-> - **代表会员体量** 逾 3200 万（32 million）名教师与教育从业人员。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 213)]]
+> - **172** 覆盖的国家与地区数量（个）。
+> - **401** 成员工会组织数量（个）。
+> - **3200 万** 代表会员体量的下限（逾此数），即教师与教育从业人员（名，原文作 32 million）。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 213)]]
 
 ---
 

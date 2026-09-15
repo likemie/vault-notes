@@ -7,6 +7,9 @@ cd "$(git rev-parse --show-toplevel)"
 PY=".venv/bin/python3"
 [ -x "$PY" ] || PY="python3"
 
+echo "[pre-commit] script regression tests..."
+"$PY" -m unittest discover -s tests -q
+
 echo "[pre-commit] vault_index.py (base index)..."
 "$PY" scripts/vault_index.py >/dev/null
 

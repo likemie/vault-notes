@@ -9,19 +9,19 @@ import os
 import sys
 from pathlib import Path
 
-VAULT_ROOT = Path("/Users/shaoyangwu/Documents/MyNotes")
+VAULT_ROOT = Path(__file__).resolve().parents[1]
 VENV_PYTHON = VAULT_ROOT / ".venv" / "bin" / "python"
 
 if VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolve():
     os.execv(str(VENV_PYTHON), [str(VENV_PYTHON), *sys.argv])
 
 
+import argparse
 import json
 import re
-from pathlib import Path
 from typing import Any
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = VAULT_ROOT
 WIKI_DIR = ROOT / "wiki"
 
 # Machine index for AI lookup.
@@ -334,7 +334,17 @@ def collect_entries() -> list[dict[str, Any]]:
     return sorted(entries, key=sort_key)
 
 
-def write_json(entries: list[dict[str, Any]]) -> None:
+def write_if_changed(path: Path, content: str, *, dry_run: bool = False, check: bool = False) -> bool:
+    current = path.read_text(encoding="utf-8") if path.exists() else None
+    if current == content:
+        return False
+    if not dry_run and not check:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(content, encoding="utf-8")
+    return True
+
+
+def write_json(entries: list[dict[str, Any]], *, dry_run: bool = False, check: bool = False) -> bool:
     """
     Keep this intentionally minimal.
 
@@ -358,7 +368,12 @@ def write_json(entries: list[dict[str, Any]]) -> None:
             item["aliases"] = e["aliases"]
         compact.append(item)
 
-    INDEX_JSON.write_text(json.dumps(compact, ensure_ascii=False, indent=2), encoding="utf-8")
+    return write_if_changed(
+        INDEX_JSON,
+        json.dumps(compact, ensure_ascii=False, indent=2),
+        dry_run=dry_run,
+        check=check,
+    )
 
 
 def md_line(entry: dict[str, Any]) -> str:
@@ -496,7 +511,7 @@ def third_label(typ: str, value: str) -> str:
     return value or "Unknown"
 
 
-def write_markdown(entries: list[dict[str, Any]]) -> None:
+def write_markdown(entries: list[dict[str, Any]], *, dry_run: bool = False, check: bool = False) -> bool:
     by_type = group_entries(entries, "type")
 
     lines = [
@@ -534,11 +549,16 @@ def write_markdown(entries: list[dict[str, Any]]) -> None:
         sorted_items = sorted(by_type[typ], key=lambda x: x["title"].lower())
         append_callout(lines, typ.title(), [md_line(e) for e in sorted_items])
 
-    INDEX_MD.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    return write_if_changed(
+        INDEX_MD,
+        "\n".join(lines).rstrip() + "\n",
+        dry_run=dry_run,
+        check=check,
+    )
 
 
 
-def write_local_indexes(entries: list[dict[str, Any]]) -> None:
+def write_local_indexes(entries: list[dict[str, Any]], *, dry_run: bool = False, check: bool = False) -> list[Path]:
     """
     Generate local indexes inside each major wiki folder.
 
@@ -555,6 +575,7 @@ def write_local_indexes(entries: list[dict[str, Any]]) -> None:
     only entries of that type.
     """
     by_type = group_entries(entries, "type")
+    changed: list[Path] = []
 
     for typ, out_path in LOCAL_INDEX_FILES.items():
         type_items = by_type.get(typ, [])
@@ -570,8 +591,8 @@ def write_local_indexes(entries: list[dict[str, Any]]) -> None:
         ]
 
         if not type_items:
-            out_path.parent.mkdir(parents=True, exist_ok=True)
-            out_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+            if write_if_changed(out_path, "\n".join(lines).rstrip() + "\n", dry_run=dry_run, check=check):
+                changed.append(out_path)
             continue
 
         if typ == "fact":
@@ -592,25 +613,36 @@ def write_local_indexes(entries: list[dict[str, Any]]) -> None:
                 sorted_items = sorted(second_items, key=lambda x: x["title"].lower())
                 append_callout(lines, title_case_slug(second_key), [md_line(e) for e in sorted_items])
 
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-        out_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+        if write_if_changed(out_path, "\n".join(lines).rstrip() + "\n", dry_run=dry_run, check=check):
+            changed.append(out_path)
+    return changed
 
 
-def main() -> None:
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Generate machine-readable and Markdown wiki indexes.")
+    parser.add_argument("--dry-run", action="store_true", help="Report stale generated files without writing them.")
+    parser.add_argument("--check", action="store_true", help="Exit non-zero when generated files are stale.")
+    args = parser.parse_args()
+
     if not WIKI_DIR.exists():
         raise SystemExit(f"wiki directory not found: {WIKI_DIR}")
 
     entries = collect_entries()
-    write_json(entries)
-    write_markdown(entries)
-    write_local_indexes(entries)
+    changed: list[Path] = []
+    if write_json(entries, dry_run=args.dry_run, check=args.check):
+        changed.append(INDEX_JSON)
+    if write_markdown(entries, dry_run=args.dry_run, check=args.check):
+        changed.append(INDEX_MD)
+    changed.extend(write_local_indexes(entries, dry_run=args.dry_run, check=args.check))
 
-    print(f"Generated {INDEX_JSON.relative_to(ROOT)}")
-    print(f"Generated {INDEX_MD.relative_to(ROOT)}")
-    for local_index in LOCAL_INDEX_FILES.values():
-        print(f"Generated {local_index.relative_to(ROOT)}")
+    action = "Would update" if args.dry_run or args.check else "Generated"
+    for path in changed:
+        print(f"{action} {path.relative_to(ROOT)}")
+    if not changed:
+        print("Indexes are up to date.")
     print(f"Entries: {len(entries)}")
+    return 1 if args.check and changed else 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

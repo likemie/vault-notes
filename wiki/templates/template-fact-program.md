@@ -60,7 +60,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 节点少时用 [!timeline]；阶段性演变复杂时用 [!dev-timeline]- 分阶段呈现。 %%
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **YYYY–YYYY — 方案论证与试点试验期** 说明基线数据采集、小范围先导试验、工具信效度验证或试验班设置。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **YYYY–YYYY — 全面推广与深化实施期** 说明规模化扩张、跨校/跨区复制、跨部门协作机制形成与中期检查。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **YYYY–至今 — 终期结项与制度化沉淀** 说明终期追踪评估成果、政策转化、数据库公开或常态化制度保留机制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

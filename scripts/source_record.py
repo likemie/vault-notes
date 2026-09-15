@@ -46,7 +46,7 @@ import os
 import sys
 from pathlib import Path
 
-VAULT_ROOT = Path("/Users/shaoyangwu/Documents/MyNotes")
+VAULT_ROOT = Path(__file__).resolve().parents[1]
 VENV_PYTHON = VAULT_ROOT / ".venv" / "bin" / "python"
 
 if VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolve():
@@ -57,9 +57,7 @@ import argparse
 import datetime as _dt
 import re
 import shutil
-import sys
 from urllib.parse import quote
-from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
 try:
@@ -67,7 +65,7 @@ try:
 except Exception:  # pragma: no cover
     yaml = None
 
-ROOT = Path.cwd()
+ROOT = VAULT_ROOT
 RAW_DIR = ROOT / "raw"
 SOURCES_DIR = ROOT / "sources"
 BOOKS_DIR = ROOT / "books"

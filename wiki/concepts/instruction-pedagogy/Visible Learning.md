@@ -106,7 +106,7 @@ related_arguments:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
@@ -325,10 +325,10 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > 
 >    *Hattie 参与两次大规模元综合，确立 d=0.40 基准线，奠定 VL 的方法论基础。*
 > 
->    - 1987 — 参与 Fraser-Walberg 团队元综合，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]]）
->    - 1992 — 独立发表首篇元综合：134 项元分析、22,155 个[[Effect Size|效应量]]，确立平均基准 d=0.40（标准差 0.13）（[[Argument_Higgins_2016_RE|Higgins, 2016, p.42]]）
+>    - 1987 — 参与 Fraser-Walberg 团队元综合，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp.41–42]]）
+>    - 1992 — 独立发表首篇元综合：134 项元分析、22,155 个[[Effect Size|效应量]]，确立平均基准 d=0.40（标准差 0.13）（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.42]]）
 > 
->    通用连续体（universal continuum）概念由此引入，代表 500 至 1500 万学生。关键发现：反馈是最强大单一影响（强化 1.13），d=0.40 自 1992 至 2008 年保持稳定，Hattie 将其设为所有可见影响的平均基准；最不成功创新为[[Individualised Instruction|个别化教学]]（0.14）和程序化教学（0.18），这些发现与 2009 年著作核心结论高度一致（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.43–44]]）。
+>    通用连续体（universal continuum）概念由此引入，代表 500 至 1500 万学生。关键发现：反馈是最强大单一影响（强化 1.13），d=0.40 自 1992 至 2008 年保持稳定，Hattie 将其设为所有可见影响的平均基准；最不成功创新为[[Individualised Instruction|个别化教学]]（0.14）和程序化教学（0.18），这些发现与 2009 年著作核心结论高度一致（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp.43–44]]）。
 > 
 > 2. **1999–2009 — 新西兰起源与出版**
 > 
@@ -360,7 +360,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 >    - 2017 — VL 俄文版出版；[[Argument_Golovchin_2019_ESC|Golovchin]] 等评估后建议俄教育政策不予直接采用
 >    - 2019 — Sarbiewska"第三面"研究、[[Argument_Qvortrup_2019_NordSTEP|Qvortrup]] 丹麦反弹分析相继发表
 > 
->    [[EEF Teaching and Learning Toolkit]] 受 Hattie 将多元研究置于同一量表的比较性研究地图思路启发，成为英语国家政策引用 VL 的核心中介（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
+>    [[EEF Teaching and Learning Toolkit]] 受 Hattie 将多元研究置于同一量表的比较性研究地图思路启发，成为英语国家政策引用 VL 的核心中介（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.47]]）。
 > 
 >    **澳大利亚与新西兰**[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策文件与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与学生领导力。
 > 
@@ -391,7 +391,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 
 > [!stat-cards]- 核心数据
 > - 2009 年初版综合 800 多项[[Meta-analysis|元分析]]、50,000 多项原始研究，形成 150 多种教学影响因素的证据地图（Hattie, 2009；Terhart, 2011, pp.427–428）
-> - 关节点 $d = 0.40$ 自 1992 年至 2008 年保持稳定，Hattie 将此作为所有可见教育影响的平均值，而非脱离情境的硬性分界线([[Argument_Higgins_2016_RE|Higgins, 2016, pp.43–44]])
+> - 关节点 $d = 0.40$ 自 1992 年至 2008 年保持稳定，Hattie 将此作为所有可见教育影响的平均值，而非脱离情境的硬性分界线([[Argument_Higgins_2016_ROE|Higgins, 2016, pp.43–44]])
 > - Hattie 在高等教育语境下概括的六项高影响条件包括教师自评影响、教师协作、把握学生先前学习、明确成功标准、平衡表层与[[Surface and Deep Learning|深层学习]]、设置适当挑战（[[Argument_Hattie_2015_SOTLP]], pp.80–81）
 
 > [!warning] 对[[Heterogeneity|异质性]]的回应

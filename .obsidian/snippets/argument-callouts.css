@@ -16819,6 +16819,30 @@
   table-layout: fixed !important;
 }
 
+/* 对照表（contrast-table）与张力表（tension-table）列宽对称与固定布局保障 */
+.callout[data-callout="contrast-table"] table,
+.callout[data-callout="tension-table"] table {
+  width: 100% !important;
+  min-width: 100% !important;
+  table-layout: fixed !important;
+}
+
+.callout[data-callout="contrast-table"] th,
+.callout[data-callout="contrast-table"] td,
+.callout[data-callout="tension-table"] th,
+.callout[data-callout="tension-table"] td {
+  max-width: none !important;
+}
+
+/* 4 列张力矩阵（如 DBDM 与 RITP 实践镜像互补矩阵）：首列维度收紧，后续 3 列等宽对称 */
+.callout[data-callout="tension-table"] table:has(th:nth-child(4)) th:first-child,
+.callout[data-callout="tension-table"] table:has(td:nth-child(4)) td:first-child {
+  width: 12% !important;
+  min-width: 72px !important;
+  max-width: 105px !important;
+}
+
+
 /* ================================================================
    EMPIRICAL DATA · final layout override
    Keep statistical tables readable without allowing them to escape

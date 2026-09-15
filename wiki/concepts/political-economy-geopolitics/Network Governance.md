@@ -6,7 +6,7 @@ aliases:
 summary: "以多主体网络协作、关系协调和分布式控制替代单一科层或市场机制的治理方式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_persons: []
 related_facts:
   - "[[YOUNG_ADULLLT]]"
   - "[[Manaiakalani Education Trust]]"
+  - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[Cognition Education]]"
   - "[[Teach First New Zealand]]"
   - "[[Partnership Schools Kura Hourua]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Network Governance
@@ -96,7 +97,7 @@ updated: 2026-09-14
 
 **ii. asTTle / e-asTTle 商业化** 2000 年代初由奥克兰大学开发、教育部公费资助。目前 e-asTTle 专业发展支持已合同外包给私营公司 Evaluation Associates Ltd。2015 年底教育部通过 GETS 发布 RFP 寻找投资伙伴出资 USD 4–8M"现代化"e-asTTle——教育部永留新西兰学校使用权，投资伙伴有权向学校收费并开发国际版本在海外销售([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.8–9]])
 
-**iii. [[Manaiakalani Education Trust]]（2011）** 源自 EHSAS 技术增强型扫盲计划，Manaiakalani Education Trust 以四名教育者/非教育者受托人混合结构成立，获 ASB Community Trust（后 Foundation North）和 Spark Foundation 创始赞助（2012）。至 2015 年获 NEXT Foundation 资助通过 Manaiakalani Outreach 将技术增强学习模式在全国规模化，另获 Samsung Electronics 资助。家庭和学校承担参与 Outreach 方案的运营成本([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.9]])。详见 [[Manaiakalani Education Trust]]
+**iii. [[Manaiakalani Education Trust]]（2011）** 源自 EHSAS 技术增强型扫盲计划，Manaiakalani Education Trust 以四名教育者/非教育者受托人混合结构成立，获 ASB Community Trust（后 [[Foundation North Māori and Pasifika Education Initiative|Foundation North]]）和 Spark Foundation 创始赞助（2012）。至 2015 年获 NEXT Foundation 资助通过 Manaiakalani Outreach 将技术增强学习模式在全国规模化，另获 Samsung Electronics 资助。家庭和学校承担参与 Outreach 方案的运营成本([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.9]])。详见 [[Manaiakalani Education Trust]]
 
 **iv. Te Toi Tupu [[Instructional Leadership|leading learning]] Network（2009–2010）** 回应政府将原先整笔资助的大学附属学校支持服务变为竞争性合同的决策，由 [[Cognition Education|Cognition Education]]、CORE Education、NZCER、怀卡托大学和 Waikato-Tainui College for Research and Development 组成联合体。2015 年 11 月，Cognition、CORE、奥克兰大学、坎特伯雷大学、奥塔哥大学、怀卡托大学和 Te Tapuae o Rehua 联合注册了 Professional Learning Association New Zealand 法人社团以制定咨询和专业发展促进者的伦理质量标准([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.9–10]])
 

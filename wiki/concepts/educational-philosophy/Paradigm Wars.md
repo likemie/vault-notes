@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪70至90年代社会科学与教育研究领域中量化实证范式与质性诠释范式之间的制度化方法论对立与论辩，后被混合方法研究的实用主义运动所超越与重构"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -60,7 +60,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Stephen Gorard]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Paradigm Wars
@@ -147,7 +148,7 @@ updated: 2026-09-11
 > [!concept-lens] 战争内耗对学术生态的负面反思
 > 批判范式清教徒主义对教育探究造成的学科撕裂与认知闭塞。
 
-> [!claim] Gorard, S. & Smith, E.
+> [!claim] [[Stephen Gorard|Gorard, S.]] & Smith, E.
 > **粗暴二分严重禁锢[[Knowledge Production|知识生产]]潜能** 将探究方法非黑即白地二分为量化与质性并强加价值道德审判，切断了不同方法之间的协同可能；这种教条化内耗既无助于理解复杂的教育实践，更严重禁锢了教育知识生产的创新潜能。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 195]]
 
 > [!claim] Onwuegbuzie, A. J. & Leech, N. L.

@@ -37,7 +37,7 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
 confidence: high
@@ -53,7 +53,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!def] 核心定义
-> I² 统计量（I-squared Statistic，亦称[[Heterogeneity|异质性]]百分比 / Higgins' I²）是由 Julian Higgins & Simon Thompson (2002) 提出并在 Higgins et al. (2003) 中确立规范的无量纲相对异质性指标。它衡量的是[[Meta-analysis|元分析]]中观察到的各初级研究[[Effect Size|效应量]]总变异中，**由跨研究的真实异质性（Between-study heterogeneity）而非偶然[[Sampling Error|抽样误差]]（Sampling error）所解释的方差百分比**。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 38)]]
+> I² 统计量（I-squared Statistic，亦称[[Heterogeneity|异质性]]百分比 / Higgins' I²）是由 Julian Higgins & Simon Thompson (2002) 提出并在 Higgins et al. (2003) 中确立规范的无量纲相对异质性指标。它衡量的是[[Meta-analysis|元分析]]中观察到的各初级研究[[Effect Size|效应量]]总变异中，**由跨研究的真实异质性（Between-study heterogeneity）而非偶然[[Sampling Error|抽样误差]]（Sampling error）所解释的方差百分比**。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 38)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将观察到的总变异标准化为 $0\%–100\%$ 的百分比比率，直观反映研究间离散有多少比例属于“真实差异”。
@@ -95,7 +95,7 @@ updated: 2026-09-11
 > - **无量纲通用性** 不依赖具体[[Research Utilization|研究使用]]的[[Scale of Measurement|测量量表]]（如百分制、5点量表、二分类比值比），可在不同学科和主题之间进行横向比较。
 > - **克服 $k$ 敏感性** 与 [[Cochran's Q Test|Q 检验]] 极度依赖研究数量不同，$I^2$ 在纳入研究数量 $k$ 变化时保持相对稳健。
 
-> [!warning] 关键误区与局限性（Borenstein et al., 2017; [[Argument_Higgins_2016_RE|Higgins, 2016]]）
+> [!warning] 关键误区与局限性（Borenstein et al., 2017; [[Argument_Higgins_2016_ROE|Higgins, 2016]]）
 > - **误区一：将 $I^2$ 等同于“绝对离散范围”** $I^2 = 90\%$ 仅说明总方差中 90% 来自真实差异，并不代表真实效应在数值上波动剧烈——若初级[[Study Population and Sample|研究样本]]量均极大（抽样方差 $s^2 \to 0$），即使真实效应仅在 $0.49–0.51$ 极窄范围内波动，$I^2$ 也会高达 $99\%$。
 > - **误区二：脱离 $\tau^2$ 与[[Prediction Interval|预测区间]]做判断** 评估临床或教育实践中的干预风险时，必须同时汇报绝对尺度参数 $\tau^2$ 与能够反映个体情境效应分布的 95% 预测区间。
 
@@ -104,6 +104,6 @@ updated: 2026-09-11
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 系统阐述 $I^2$ 统计量的提出背景、在证据本位实践中的应用及对传统检验的改进。
+> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述 $I^2$ 统计量的提出背景、在证据本位实践中的应用及对传统检验的改进。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 在 341 项[[Critical Thinking|批判性思维]]干预实证中系统报告组内 $I^2$（多数在 $60\%–75\%$ 之间）以论证混合效应调节分析的必要性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍[[Heterogeneity|异质性]]量化指标在教育[[Meta-analysis|元分析]]中的解读准则。

@@ -9,7 +9,7 @@ title: "Argument_Qvortrup_2019_NordSTEP"
 argument_key: "Argument_Qvortrup_2019_NordSTEP"
 argument_display_title: "Visible learning and its enemies – the missing link"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -41,7 +41,8 @@ related_methods:
   - "[[Effect Size]]"
 related_persons:
   - "[[Herbert A. Simon]]"
-related_facts: []
+related_facts:
+  - "[[Hattie på dansk]]"
 related_arguments: []
 sources:
   - "[[sources/Qvortrup_2019_NordSTEP|Qvortrup_2019_NordSTEP]]"
@@ -82,7 +83,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／观察** 在丹麦，Hattie 的 [[Visible Learning]] 引发了大量但主要是批评性的反应——包括情绪化的（"不喜欢数字和统计"）和基于表面阅读的（将 Hattie et al.于古典行为主义）批评。一个由研究者、政治家和工会代表组成的解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人(p.3-5)
+> 1. **前提／观察** 在丹麦，Hattie 的 [[Visible Learning]] 引发了大量但主要是批评性的反应——包括情绪化的（"不喜欢数字和统计"）和基于表面阅读的（将 Hattie et al.于古典行为主义）批评。一个由研究者、政治家和工会代表组成的解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人;2017 年出版的批评文集 [[Hattie på dansk]] 汇集了多篇强烈反对 Hattie 的文章，是这场争议走向制度化扩散的节点(p.3-4, 7)
 >
 > 2. **论证步骤**
 >    - **步骤一** 批评者的误读并非偶然——某些批评使用 Alexander 识别的"二分法话语"（统计 vs 独特性）和"嘲弄话语"（歪曲、嘲笑、人身攻击），将自己置于 Popper 所定义的"科学游戏"之外(p.3-4)

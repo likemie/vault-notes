@@ -10,7 +10,7 @@ title: "Argument_Wang_2025_CE"
 argument_key: "Argument_Wang_2025_CE"
 argument_display_title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -58,6 +58,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Fieldwork]]"
 related_persons:
+  - "[[Yrjö Engeström]]"
   - "[[Lev Vygotsky]]"
   - "[[Confucius]]"
 related_facts:
@@ -104,7 +105,7 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Third Generation Activity Theory\|第三代活动理论（3GAT）]]** | 本研究的核心[[Analytic Framework\|分析框架]]（Engeström, 1987, 2001）。将人类实践概念化为集体活动系统（Activity System），并通过六个核心构件解构。3GAT 特别关注两个或多个活动系统在边界跨越（Boundary Crossing）中的互动、碰撞与矛盾（Contradictions），并将系统矛盾视为触发扩展性学习（Expansive Learning）与扩展性改造（Expansive Transformation）的根本动力(pp. 590–591)。 |
+> | **[[Third Generation Activity Theory\|第三代活动理论（3GAT）]]** | 本研究的核心[[Analytic Framework\|分析框架]]（[[Yrjö Engeström\|Engeström]], 1987, 2001）。将人类实践概念化为集体活动系统（Activity System），并通过六个核心构件解构。3GAT 特别关注两个或多个活动系统在边界跨越（Boundary Crossing）中的互动、碰撞与矛盾（Contradictions），并将系统矛盾视为触发扩展性学习（Expansive Learning）与扩展性改造（Expansive Transformation）的根本动力(pp. 590–591)。 |
 
 > [!index-table] 第三代活动理论的六个核心构件与双系统情境化
 > | 核心构件 | 理论定义 | [[Test-Based Accountability\|考试问责]]活动系统（高度咬合闭环） | [[Learner-Centred Education\|LCE]] 改革活动系统（初始严重失调） |

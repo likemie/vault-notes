@@ -13,7 +13,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 76
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -72,8 +72,8 @@ related_methods:
   - "[[Intent-to-Treat Analysis]]"
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
+related_instruments:
   - "[[EMMIE Framework]]"
-related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -93,6 +93,7 @@ related_facts:
   - "[[National Institute for Health and Care Excellence]]"
   - "[[Canadian Council on Learning]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Literacy Octopus]]"
   - "[[Ofsted]]"
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -105,7 +106,7 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Torres_2022_KMModels]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ECNUROE]]"
 confidence: high
 status: draft
 created: 2026-09-12
@@ -283,7 +284,7 @@ updated: 2026-09-15
 > 检视知识中介机构传统的单向学术成果摘要与通俗推送进路，依托大规模因果评估裁决“信息赤字[[Hypothesis|假设]]”。
 
 > [!claim] Lord et al.
-> **单纯信息传播对实践变革毫无[[Statistical Significance|统计显著性]]** 英国教育捐赠基金会（EEF）资助、由英国全国教育研究基金会（NFER）独立评估的“识字八爪鱼试验”（Literacy Octopus Trial），覆盖全英格兰 800 余所小学、数千名教师与数万名学童。多臂 [[Randomised Controlled Trials|RCT]] 严密检验了精编纸质手册、数字化通讯、专业杂志专栏等各类单向推送样态；经 [[Intent-to-Treat Analysis|ITT]] 分析证实，没有任何证据表明单一信息传播在提升学生 KS2 统考成绩上产生显著效果（[[Effect Size|效应量]]均为 0）。实证数据彻底击碎了信息赤字假设，证实知识中介若局限于单向推送，无论形式多么通俗生动，在孤立状态下都无法转化为专业行为与实践改进。[[Argument_Gough_2022_EvidenceOnEIPP|(Lord et al., 2017; Gough et al., 2022, p. 152)]]
+> **单纯信息传播对实践变革毫无[[Statistical Significance|统计显著性]]** 英国教育捐赠基金会（EEF）资助、由英国全国教育研究基金会（NFER）独立评估的“[[Literacy Octopus|识字八爪鱼试验]]”（Literacy Octopus Trial），覆盖全英格兰 800 余所小学、数千名教师与数万名学童。多臂 [[Randomised Controlled Trials|RCT]] 严密检验了精编纸质手册、数字化通讯、专业杂志专栏等各类单向推送样态；经 [[Intent-to-Treat Analysis|ITT]] 分析证实，没有任何证据表明单一信息传播在提升学生 KS2 统考成绩上产生显著效果（[[Effect Size|效应量]]均为 0）。实证数据彻底击碎了信息赤字假设，证实知识中介若局限于单向推送，无论形式多么通俗生动，在孤立状态下都无法转化为专业行为与实践改进。[[Argument_Gough_2022_EvidenceOnEIPP|(Lord et al., 2017; Gough et al., 2022, p. 152)]]
 
 ---
 
@@ -387,5 +388,5 @@ updated: 2026-09-15
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 系统考证过去15年间全球教育中介机构在治理模式、方法论立场与服务受众上的历史演化，揭示其受制于政治与预算周期的生存悖论，并在循证医学反思下提出建设[[Cumulative Knowledge Base|累积性知识库]]与“中介的中介”元协调倡议。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 基于 [[OECD]] 政策调查数据，详尽描绘 16 个教育系统中官方中介机构的双重活跃度画像、多元组织形态（统计局、企业化中介、国家评估院）以及与教育部委之间存在的联结脱节悖论。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 比较跨领域四大主流[[Knowledge Mobilisation|知识动员]]模型，解析[[Knowledge Mediation|知识中介]]在系统模型中作为连接[[Knowledge Production|知识生产]]与知识使用核心纽带的职能定位。
-> - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 评估欧美主要[[Educational Evidence Clearinghouses|教育证据清算机构]]（包括 [[What Works Clearinghouse|WWC]]、[[Education Endowment Foundation|EEF]]、BEP 等）的[[Systematic Review|系统综述]]标准与评级一致性，证实中介审查门槛的差异对政策采纳产生直接影响。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] — 评估欧美主要[[Educational Evidence Clearinghouses|教育证据清算机构]]（包括 [[What Works Clearinghouse|WWC]]、[[Education Endowment Foundation|EEF]]、BEP 等）的[[Systematic Review|系统综述]]标准与评级一致性，证实中介审查门槛的差异对政策采纳产生直接影响。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 针对知识中介机构缺乏实证依据的“循证赤字”展开元研究批判，提出涵盖需求分析、外层系统整合、[[Theory of Change|变革理论]]、[[Evidence Standards|证据标准]]与自我成效评估的知识中介五大支柱框架。

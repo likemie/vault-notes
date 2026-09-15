@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-07-09
+updated: 2026-09-16
 ---
 
 # Soviet Statism
@@ -84,8 +84,8 @@ updated: 2026-07-09
 > [!stat-cards]-
 > - **三分之二** 1980年代军工占苏联工业生产的比例。
 > - **15–25%** 军工占 GNP 的比例，1987年美国军工占 GNP 峰值仅为 6.6%。
-> - **10,000 vs 130万** 1986年苏联与美国计算机主机数量的对比。
-> - **超过90%** 失去西方技术后苏联大规模集成电路年产量将减少的比例（Office of Scientific and Weapons Research, 1986）。
+> - **10,000 / 130 万** 1986年苏联与美国计算机主机数量的对比。
+> - **90%** 失去西方技术后苏联大规模集成电路年产量将减少的比例超过 90%（Office of Scientific and Weapons Research, 1986）。
 
 ---
 ## 争议与批评

@@ -40,7 +40,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 节点少时用 [!timeline]；阶段性演变复杂时用 [!dev-timeline]- 分阶段呈现。 %%
 
-> [!dev-timeline]- 事件推进历程
+> [!dev-timeline] 事件推进历程
 > - **YYYY–YYYY — 酝酿与爆发期** 说明事件起因、初期动员、标志性宣言或第一波社会冲突/政策呼吁。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >   - YYYY-MM 关键节点或转折性交锋。
 > - **YYYY–YYYY — 扩散与白热化阶段** 说明跨区域扩散、思想交锋深化、同盟重组或制度化谈判过程。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

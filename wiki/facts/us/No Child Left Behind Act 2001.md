@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 35
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,11 +28,12 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Operationalization]]"
   - "[[Document]]"
+  - "[[Data-Based Decision Making]]"
+  - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Lifelong Learning]]"
   - "[[Critical Thinking]]"
-  - "[[Paradigm]]"
   - "[[Whole Language]]"
   - "[[Teacher Professional Agency]]"
   - "[[Knowledge Production]]"
@@ -51,6 +52,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Comprehensive School Reform Program]]"
+  - "[[Data Team Intervention]]"
   - "[[What Works Clearinghouse]]"
   - "[[OECD]]"
   - "[[Danish Clearinghouse for Educational Research]]"
@@ -58,8 +60,9 @@ related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Downey_2016_SoE]]"
+  - "[[Argument_Brown_2017_ER]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_OConnor_2020_AJLL]]"
@@ -68,7 +71,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # No Child Left Behind Act 2001
@@ -88,7 +91,7 @@ updated: 2026-09-13
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> NCLB 强制要求各州建立统一的学业标准与年度测试问责体系，全文 110 次提及“科学本位研究”（scientifically based research），首次以联邦法律形式将基于[[Randomised Controlled Trials|随机对照试验]]（RCT）与[[Quasi-Experimental Designs|准实验设计]]（QED）的实证[[Evidence Standards|证据标准]]嵌入联邦教育拨款与学校问责的核心机制中。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]]; [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])
+> NCLB 强制要求各州建立统一的学业标准与年度测试问责体系，全文 110 次提及“科学本位研究”（scientifically based research），首次以联邦法律形式将基于[[Randomised Controlled Trials|随机对照试验]]（RCT）与[[Quasi-Experimental Designs|准实验设计]]（QED）的实证[[Evidence Standards|证据标准]]嵌入联邦教育拨款与学校问责的核心机制中。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]]; [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])
 
 > [!policy-design]- 政策设计
 > - **政策目标** 确保所有儿童接受公平、高质量教育，消除基于种族、贫困和特殊需求的[[Academic Achievement|学业成就]]差距，要求到 2013–2014 学年全美学生 100% 达到州立标准的“熟练”（proficient）水平。
@@ -113,7 +116,7 @@ updated: 2026-09-13
 > - **2001** — NCLB 在布什政府上任初期获国会参众两院跨党派高票通过，作为 ESEA 的重新授权法案。
 > - **2002** — 布什总统于 1 月正式签署生效。Robert E. Slavin 发表专题分析，指出 NCLB 法定“科学本位研究”概念界定缺乏[[Operationalization|操作化]]标准化，任何教学项目都能寻得支持性[[Document|文献]]，尚未产生实质性实践约束。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 16, 18–19]])
 > - **2002–2014** — NCLB 的 AYP 问责条款引发全美范围的治理反弹与学术争议；要求至 2014 年实现 100% 熟练水平的法定红线被普遍批评为违背统计规律与教育现实。
-> - **2015** — 贝拉克·奥巴马（Barack Obama）总统签署《每个学生成功法案》（Every Student Succeeds Act，ESSA），正式替代 NCLB。ESSA 废除了严苛的联邦统一处罚机制，将过于笼统的“科学本位研究”重构为四级操作化证据层级（强证据、中等证据、有希望证据与理论依据）。([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])
+> - **2015** — 贝拉克·奥巴马（Barack Obama）总统签署《每个学生成功法案》（Every Student Succeeds Act，ESSA），正式替代 NCLB。ESSA 废除了严苛的联邦统一处罚机制，将过于笼统的“科学本位研究”重构为四级操作化证据层级（强证据、中等证据、有希望证据与理论依据）。([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])
 
 ---
 
@@ -135,7 +138,8 @@ updated: 2026-09-13
 ## 效果与评价
 
 > [!finding-cards] 效果与评价
-> - **开启[[Evidence-Based Education|循证教育]]政策规范化进程** NCLB 首次将“研究必须指导实践”确立为联邦法定义务，为后续[[What Works Clearinghouse|WWC]]的设立以及 ESSA 四级证据框架奠定了制度基石。相比 NCLB 时代的模糊表述，后续体系将实验证据正式转化为了各州采购与项目审核的可操作门槛。([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])
+> - **催生并固化第一代[[Data-Based Decision Making|基于数据的决策]]模式** [[Argument_Brown_2017_ER|Brown et al. (2017, p. 157)]] 考证指出，现代[[Data-Based Decision Making|基于数据的决策]]（DBDM）历史发源于美国的问责政策，尤其是 NCLB 的出台将数据使用强制绑定于大规模标准化考试成绩与行政达标监控，催生了以终结性测试和高利害奖惩为特征的第一代 DBDM [[Paradigm|范式]]。这一模式不仅确立了数据作为学校治理核心依据的国际潮流，其过于窄化的唯分数论缺陷也直接倒逼后续国际学界（如荷兰与瑞典的[[Data Team Intervention|数据团队]]项目）反思并转向形成性改进与协作探究。
+> - **开启[[Evidence-Based Education|循证教育]]政策规范化进程** NCLB 首次将“研究必须指导实践”确立为联邦法定义务，为后续[[What Works Clearinghouse|WWC]]的设立以及 ESSA 四级证据框架奠定了制度基石。相比 NCLB 时代的模糊表述，后续体系将实验证据正式转化为了各州采购与项目审核的可操作门槛。([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])
 > - **法定授权与经常性预算形成的制度护城河** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 64–65)]] 纵向追踪[[OECD|经合组织]] 2007 年考察的 6 家标杆[[Educational Brokerage Agency|知识中介机构]]在 15 年间的存续演变发现，绝大多数机构因受制于政党更迭与 2 至 3 年短期专项拨款周期而陷入关停或休眠（如[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]因合同未续关停、加拿大[[Lifelong Learning|终身学习]]委员会因联邦拨款撤销而解散、[[Kenniskamer|荷兰教育部知识室]]因部长离任停摆）。唯有美国的 [[What Works Clearinghouse|WWC]] 依托 NCLB 及 2002 年《教育科学改革法》（Education Sciences Reform Act, ESRA）确立的法定强制授权与经常性联邦专项预算，成功跨越了政治选举周期与短期财政紧缩的剧烈冲击，证明国家立法授权与制度化经常性预算是保障证据中介机构长期存续的根本制度护城河。
 > - **“基于研究”与“经过评估”的本质混淆** [[Argument_Slavin_2002_ER|Slavin (2002, pp. 18–19)]] 在法案生效之初便尖锐指出，任何教育项目都能声称自身“基于科学本位研究”的某种抽象原理，导致该标准无法过滤劣质干预。Slavin 提出著名的“莱特兄弟类比”：其他航空发明家同样依据真实的流体力学科学原理，但只有莱特兄弟的飞机真正离开地面并经过反复测试。教育改革需要的是项目本身在真实课堂经受严格实验评估并证明有效，而非仅借用科学理论的概念包装。
 > - **坎贝尔定律（Campbell's Law）视角下的系统性副作用** [[Argument_Zhao_2017_JEC|Zhao (2017, pp. 13–15)]] 援引 Nichols & Berliner (2007) 的研究指出，由于缺乏前瞻性副作用评估，在高风险问责压力下产生了四重严重异化：
@@ -177,7 +181,9 @@ updated: 2026-09-13
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Evidence-Based Reform]] | 概念 / 理论 | NCLB 是美国[[Evidence-Based Education\|循证教育]]改革思潮由学术构想走向国家立法的早期制度化标杆。 |
+> | [[Data-Based Decision Making]] | 概念 | NCLB 是推动第一代基于数据的决策（DBDM）并在全球普及大规模标准化测试数据利用的政策发源地。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 157)]] |
+| [[Argument_Brown_2017_ER\|Brown et al. (2017)]] | 论证条目 | 考证 NCLB 作为 DBDM 历史起点的问责渊源，分析其将数据利用窄化为终结性考试的局限。 |
+| [[Evidence-Based Reform]] | 概念 / 理论 | NCLB 是美国[[Evidence-Based Education\|循证教育]]改革思潮由学术构想走向国家立法的早期制度化标杆。 |
 > | [[ESSA 2015 Evidence Standards]] | 政策事实 | 替代 NCLB 的后续法律，确立了四级[[Operationalization\|操作化]]证据分级体系。 |
 > | [[Comprehensive School Reform Program]] | 项目事实 | 与 NCLB 协同推行的联邦证据本位项目，重点要求学校采用有证据支持的整体改革方案。 |
 > | [[What Works Clearinghouse]] | 机构事实 | 联邦建立的权威证据清理平台，直接服务于识别 NCLB 所要求的“科学本位研究”干预。 |

@@ -11,7 +11,7 @@ summary: "在教育干预试验与复杂项目评价中与量化成效评估并�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 44
+method_related_count: 45
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Meta-Representational Competence]]"
   - "[[Logic Model]]"
+  - "[[Statistical Analysis Plan]]"
   - "[[Preregistration]]"
   - "[[Counterfactual]]"
   - "[[Homework]]"
@@ -70,11 +71,11 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Implementation and Process Evaluation
@@ -84,7 +85,7 @@ updated: 2026-09-15
 ## 定义
 
 > [!def] 方法定义
-> **实施与过程评估（Implementation and Process Evaluation，IPE）**，亦称**过程评估**，是指在教育干预、公共卫生及社会政策的成效检验中，与量化结果评估（如 [[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT））并行实施的一种复杂[[Mixed Methods Evaluation Design|混合方法评估设计]]。该方法通过系统收集质性与量化多源数据，深入追踪干预在现场的递送质量、保真度、参与者依从性、对照组常态活动以及情境与因果机制的中介作用，旨在打开干预成效的黑箱，准确解释干预项目为何有效、为何无效或在何种情境下有效([[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]])。
+> **实施与过程评估（Implementation and Process Evaluation，IPE）**，亦称**过程评估**，是指在教育干预、公共卫生及社会政策的成效检验中，与量化结果评估（如 [[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT））并行实施的一种复杂[[Mixed Methods Evaluation Design|混合方法评估设计]]。该方法通过系统收集质性与量化多源数据，深入追踪干预在现场的递送质量、保真度、参与者依从性、对照组常态活动以及情境与因果机制的中介作用，旨在打开干预成效的黑箱，准确解释干预项目为何有效、为何无效或在何种情境下有效([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 现场试验中的复杂干预方案、教师与管理者培训过程、课堂实施行为、对照组[[Business as Usual|常态教学]]活动、参与者互动及制度情境。
@@ -93,7 +94,7 @@ updated: 2026-09-15
 > - **输出形式** [[Implementation Fidelity|实施保真度]]量化指标、依从性依从度估计、因果路径模型、机制叙事解释、实施障碍与促进因素矩阵。
 
 > [!citation-card] 英国医学研究理事会论复杂干预的过程评估
-> 复杂干预评估必须对干预如何引发改变具备扎实的理论理解；干预未呈现出预期成效，往往可能反映的是现场实施失败（或磨合期阵痛），而非干预策略本身的根本无效。[[Argument_Edovald_Nevill_2021_ROE|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53)]]
+> 复杂干预评估必须对干预如何引发改变具备扎实的理论理解；干预未呈现出预期成效，往往可能反映的是现场实施失败（或磨合期阵痛），而非干预策略本身的根本无效。[[Argument_Edovald_Nevill_2021_ECNUROE|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53)]]
 >
 > *A good theoretical understanding is needed of how the intervention causes change... lack of effect may reflect implementation failure (or teething problems) rather than genuine ineffectiveness.*
 
@@ -120,8 +121,8 @@ updated: 2026-09-15
 > [!proc] 实施与过程评估（IPE）的四阶段标准操作规程
 > 1. **阶段一：前期[[Logic Model|逻辑模型]]与核心活性成分界定（Pre-Trial Specification）**
 >    - 与项目研发团队协同构建理论变革模型（[[Theory of Change]]），清晰勾勒干预的因果传导路径与预期中介[[Variable|变量]]。
->    - 对照[[TIDieR|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR），严格界定干预的核心活性成分（Active Ingredients）、关键操作规程、必须严格遵守的刚性要素以及允许学校自主微调的弹性边界（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 54]]）。
->    - 在统计分析计划（Statistical Analysis Plan，SAP）[[Preregistration|预注册]]阶段，明确将依从性量化测量口径与过程质性采样子样本抽样方案纳入规程。
+>    - 对照[[TIDieR|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR），严格界定干预的核心活性成分（Active Ingredients）、关键操作规程、必须严格遵守的刚性要素以及允许学校自主微调的弹性边界（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 54]]）。
+>    - 在[[Statistical Analysis Plan|统计分析计划]]（Statistical Analysis Plan，SAP）[[Preregistration|预注册]]阶段，明确将依从性量化测量口径与过程质性采样子样本抽样方案纳入规程。
 > 2. **阶段二：[[Implementation Fidelity|实施保真度]]与依从性多源监测（In-Trial Monitoring）**
 >    - 运用结构化课堂观察[[Coding in Qualitative Research|编码]]表、教师培训签到出勤记录、线上平台交互日志及材料使用记录，多维度追踪方案落地。
 >    - 系统核查实施保真度（Fidelity）、递送剂量（Dosage）、目标群体触达度（Reach）及师生接受度（Acceptability），量化从计划分配到实际接受干预的递送衰减。
@@ -151,7 +152,7 @@ updated: 2026-09-15
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 涉及人际多层级复杂互动、[[Organizational Culture|组织文化]]变革或教师教学法重构的教育与社会政策试验；需要同时回答干预在何种情境下有效以及如何发挥作用（Why and How）的重大政策决策评估；具有大规模推广意向并需建立标准化操作规范的项目（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
+> - **适合使用** 涉及人际多层级复杂互动、[[Organizational Culture|组织文化]]变革或教师教学法重构的教育与社会政策试验；需要同时回答干预在何种情境下有效以及如何发挥作用（Why and How）的重大政策决策评估；具有大规模推广意向并需建立标准化操作规范的项目（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）。
 > - **谨慎使用** 试验周期极短、[[Sample Size Determination|样本量]]极小且缺乏理论准备的探索性微型干预；学校行政与教学压力极其沉重、受试者面临高度评估疲劳与高[[Attrition|流失]]风险的紧张[[Champ|场域]]。
 > - **不适合使用** 仅用于项目验收或结项造势的事后质性拼凑；在缺乏明确因果[[Hypothesis|假设]]对照或缺乏基础量化结果指标验证的情境下单列主观感受调查。
 
@@ -184,4 +185,4 @@ updated: 2026-09-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 系统回顾了英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）在 [[Randomised Controlled Trials|RCT]] 中引入并规范化实施与过程评估（IPE）的方法学历程。指出早期试验因缺乏 IPE 陷入无法解释因果机制与实施细节的困境（当时全英仅 38% 教育试验包含过程评估）；进而通过委托曼彻斯特大学综述并发布 IPE 评估指南（EEF, 2019b），确立了理论检验、影响与 IPE 整合、依从性预先测量及 [[TIDieR]] 规程等行业标准规范。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 系统回顾了英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）在 [[Randomised Controlled Trials|RCT]] 中引入并规范化实施与过程评估（IPE）的方法学历程。指出早期试验因缺乏 IPE 陷入无法解释因果机制与实施细节的困境（当时全英仅 38% 教育试验包含过程评估）；进而通过委托曼彻斯特大学综述并发布 IPE 评估指南（EEF, 2019b），确立了理论检验、影响与 IPE 整合、依从性预先测量及 [[TIDieR]] 规程等行业标准规范。

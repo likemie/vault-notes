@@ -6,7 +6,7 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和全球远处治理。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,13 +45,14 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[Common School Movement]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
+  - "[[Foundation North Māori and Pasifika Education Initiative]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-07-13
+updated: 2026-09-16
 ---
 
 # Policy Entrepreneur
@@ -185,7 +186,7 @@ updated: 2026-07-13
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. xv)]] | 新西兰注册慈善机构数据库（包含 6,059 个教育慈善组织） | 数据库财务与结构统计分析 | 政府拨款依赖度与贸易收入占比 | 仅 4.5% 机构主要依赖政府拨款，仅 3.9% 依赖服务与贸易收入 | — | 表明绝大多数所谓教育慈善组织在运营资金结构上并非传统的政府承包商，具有高度的非官方独立运作和潜在的政策创业自由度。 |
-| [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 47–51)]] | 新西兰[[Educational Management Organisation\|教育管理组织]]与慈善基金会财务数据（2007–2015） | 财务报表个案审计研究 | 慈善性直接捐赠占集团总收入或投资收益的比例 | Cognition Education (2015) 直接捐赠比例仅占集团收入 0.9%；Foundation North (2010-2015) 投资收益分配为捐赠的比例仅为 23.3% | — | 说明所谓非营利性政策创业主体以慈善或利他话语运作，但在实际财务流动中，其大部分盈余流向了集团权益积累或运营费用，向学校返还的慈善价值微乎其微。 |
+| [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 47–51)]] | 新西兰[[Educational Management Organisation\|教育管理组织]]与慈善基金会财务数据（2007–2015） | 财务报表个案审计研究 | 慈善性直接捐赠占集团总收入或投资收益的比例 | Cognition Education (2015) 直接捐赠比例仅占集团收入 0.9%；[[Foundation North Māori and Pasifika Education Initiative\|Foundation North]] (2010-2015) 投资收益分配为捐赠的比例仅为 23.3% | — | 说明所谓非营利性政策创业主体以慈善或利他话语运作，但在实际财务流动中，其大部分盈余流向了集团权益积累或运营费用，向学校返还的慈善价值微乎其微。 |
 
 ---
 

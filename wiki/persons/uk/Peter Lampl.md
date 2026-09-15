@@ -8,7 +8,7 @@ summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 19
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Growth]]"
   - "[[Paradigm]]"
+  - "[[Months of Progress]]"
   - "[[Educational Meliorism]]"
   - "[[Evaluator Independence]]"
 related_theories: []
@@ -36,6 +37,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons:
+  - "[[Michael Gove]]"
   - "[[Steve Higgins]]"
 related_facts:
   - "[[Sutton Trust]]"
@@ -46,11 +48,11 @@ related_facts:
   - "[[BHP Foundation]]"
   - "[[Grammar School]]"
 related_arguments:
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Peter Lampl
@@ -65,7 +67,7 @@ updated: 2026-09-15
 > - **代表贡献** 创设致力于阻断家庭背景与[[Academic Achievement|学业成就]]代际传递的萨顿信托；领导设立 EEF 并建立保障评估独立性与研究中立的独立理事会防火墙；资助并主导推广《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》。
 
 > [!citation-card] 独立信托治理与循证决策机制
-> EEF 由独立的理事会管辖，该理事会由创始合作伙伴提名，并由彼得·兰普尔爵士担任主席。理事会与执行团队由两个关键顾问机构提供指导：来自教育、公共政策与商界专家组成的顾问委员会，以及评估顾问小组（[[Education at a Glance|EAG]]）。评估顾问小组就评估方法学与证据生成的最佳实践提供关键指导。至关重要的是，EEF 独立于政府，但与包括教育部在内的多个政府部门保持紧密与协作的工作关系。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 47)]]
+> EEF 由独立的理事会管辖，该理事会由创始合作伙伴提名，并由彼得·兰普尔爵士担任主席。理事会与执行团队由两个关键顾问机构提供指导：来自教育、公共政策与商界专家组成的顾问委员会，以及评估顾问小组（[[Education at a Glance|EAG]]）。评估顾问小组就评估方法学与证据生成的最佳实践提供关键指导。至关重要的是，EEF 独立于政府，但与包括教育部在内的多个政府部门保持紧密与协作的工作关系。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 47)]]
 >
 > *"The EEF is governed by an independent Board of Trustees, nominated by the founding partners and Chaired by Sir Peter Lampl. The Board and the executive team are guided by two key advisory bodies: an Advisory Board of experts from education, public policy, and business; and an Evaluation Advisory Group (EAG). The EAG provides critical guidance on evaluation methodologies and best practice in evidence generation. ... Importantly, the EEF is independent of government, but maintains strong and collaborative working relationships with a number of Ministries, principally the Department for Education."*
 
@@ -115,10 +117,10 @@ updated: 2026-09-15
 > [!influence-path] 影响路径
 > - **政策路径** 深度影响英国教育资助结构，直接催生“[[Pupil Premium|学生溢价]]”（Pupil Premium）长效机制，将数十亿英镑公共预算精准下沉至贫困学生；推动[[Grammar School|文法学校]]招录改革与高校扩大弱势群体参与（Widening Participation）立法。
 > - **组织与治理路径** 奠定了英格兰教育证据中介机构的独立治理[[Paradigm|范式]]，建立由商界、学界与政策专家构成的独立信托理事会，成功抵御了政党更迭与短期政策周期的震荡。
-> - **方法与转化路径** 推动了英国中小学大规模[[Randomised Controlled Trials|随机对照试验]]的合法化与普及化，彻底消除了学界对“公立学校不可能自愿参与对照试验”的偏见；推动以月度学习进展（Months of Progress）为核心的极简综合证据转化范式普及全球。
+> - **方法与转化路径** 推动了英国中小学大规模[[Randomised Controlled Trials|随机对照试验]]的合法化与普及化，彻底消除了学界对“公立学校不可能自愿参与对照试验”的偏见；推动以月度学习进展（[[Months of Progress]]）为核心的极简综合证据转化范式普及全球。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 详细记录了彼得·兰普尔爵士主持的 [[Education Endowment Foundation|EEF]] 独立理事会治理架构，及其如何通过独立受托人机制保障研究中立性与国家证据生态建设。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详细记录了彼得·兰普尔爵士主持的 [[Education Endowment Foundation|EEF]] 独立理事会治理架构，及其如何通过独立受托人机制保障研究中立性与国家证据生态建设。
 
 ---
 
@@ -136,7 +138,7 @@ updated: 2026-09-15
 > [!person-network] 关系网络
 > - **机构创设与领导** [[Sutton Trust|萨顿信托]]（Sutton Trust） — 创始人兼董事长（1997年至今）。
 > - **机构创设与治理** [[Education Endowment Foundation|教育捐赠基金会]]（EEF） — 创始理事会主席（2011年至今）。
-> - **战略合作伙伴** 迈克尔·戈夫（Michael Gove） — 2010 年英国教育大臣，响应兰普尔倡议并拍板向 EEF 划拨 1.25 亿英镑政府初始捐赠。
+> - **战略合作伙伴** [[Michael Gove|迈克尔·戈夫]]（Michael Gove） — 2010 年英国教育大臣，响应兰普尔倡议并拍板向 EEF 划拨 1.25 亿英镑政府初始捐赠。
 > - **研究工具合作** [[Steve Higgins|史蒂夫·希金斯]]（Steve Higgins） — 杜伦大学团队负责人，受兰普尔与萨顿信托资助主持研制初代《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》。
 
 ---

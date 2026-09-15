@@ -43,7 +43,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Wolf_2020_JREE]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -59,7 +59,7 @@ updated: 2026-09-13
 ## 证据层级
 
 > [!abstract] 证据层级
-> ESSA 将证据分为强、中、有希望三个主要项目有效性层级([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])，同时也包含第四层“有理论依据”的较弱支持形式([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])：
+> ESSA 将证据分为强、中、有希望三个主要项目有效性层级([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])，同时也包含第四层“有理论依据”的较弱支持形式([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.109]])：
 >
 > | 等级 | 英文 | 研究方法要求 | 最低研究数量 |
 > |------|------|------------|------------|
@@ -69,7 +69,7 @@ updated: 2026-09-13
 >
 > 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**。
 
-ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的[[Logic Model|逻辑模型]]([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
+ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的[[Logic Model|逻辑模型]]([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.109]])。
 
 ## 技术要求细节
 
@@ -107,5 +107,5 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > - ESSA 首次将联邦拨款与具体的项目级有效性证据绑定——从此 "evidence-based" 从理念变为有法律强制力的政策杠杆
 > - 推动创建了 Evidence for ESSA（JHU 平台，月活 70,000+），直接面向教育领导者报告哪些项目满足 ESSA 标准
 > - 取代了 [[No Child Left Behind Act 2001|NCLB]] 不受欢迎的"适当年度进步"（AYP）问责框架，将政策重心从"惩罚低绩效学校"转向"为低绩效学校提供经过验证的改进方案"
-> - 相比 NCLB 时代，ESSA 证据层级对开发者、实践者和研究者更具现实后果，因为州和学区开始把这些层级正式用于项目审核与批准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
+> - 相比 NCLB 时代，ESSA 证据层级对开发者、实践者和研究者更具现实后果，因为州和学区开始把这些层级正式用于项目审核与批准([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.109]])
 

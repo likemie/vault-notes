@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 60
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Efficacy Trial]]"
+  - "[[Effectiveness Trial]]"
   - "[[Sample Size Determination]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
@@ -67,14 +68,15 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Higgins_2016_RE]]"
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[National Pupil Database]]"
+  - "[[Researching School Choices]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_persons:
@@ -130,8 +132,8 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 > [!feature] 外部效度的四大核心维度
 > - **人群推广性（Population Generalizability）** 研究结论能否从特定实验或调查样本推广到更广泛的[[Study Population and Sample|目标总体]]。依赖[[Random Sampling|随机抽样]]、无回应偏倚控制与样本代表性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, p. 169)]]
 > - **情境与生态推广性（Ecological Generalizability）** 在特定物理环境、课堂文化、学校体制或政策管辖区获得的成效能否在其他自然情境中复现。高度受控的人工环境往往削弱[[Ecological Validity|生态效度]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, p. 170)]]
-> - **时间推广性（Temporal Generalizability）** 此时此刻获得的因果效应在未来或其他历史时期是否依然成立。[[Counterfactual|反事实]]条件与[[Business as Usual|常态教学]]随时间动态演变，历史效应容易侵蚀推广效度。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 44)]]
-> - **测验与[[Construct|构念]]推广性（Outcome Generalizability）** 干预在特定测验上呈现的效应是否能够推广到国家关键考试或更广泛的能力构念。紧密贴合干预的自编测验会导致[[Effect Size|效应量]]虚假放大，缺乏向通用结果的推广性。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
+> - **时间推广性（Temporal Generalizability）** 此时此刻获得的因果效应在未来或其他历史时期是否依然成立。[[Counterfactual|反事实]]条件与[[Business as Usual|常态教学]]随时间动态演变，历史效应容易侵蚀推广效度。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 44)]]
+> - **测验与[[Construct|构念]]推广性（Outcome Generalizability）** 干预在特定测验上呈现的效应是否能够推广到国家关键考试或更广泛的能力构念。紧密贴合干预的自编测验会导致[[Effect Size|效应量]]虚假放大，缺乏向通用结果的推广性。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!logic-map] 外部效度要素与威胁关系
 > ```mermaid
@@ -164,11 +166,11 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 
 ### 命题二　干预规模扩大引发内部控制与外部生态效度的结构性张力
 
-> [!concept-lens] [[Efficacy Trial|效力试验]]向实效试验迁移中的实施磨损
+> [!concept-lens] [[Efficacy Trial|效力试验]]向[[Effectiveness Trial|实效试验]]迁移中的实施磨损
 > 探讨当因果试验从高度受控的人工示范走向全域政策推广时，[[Effect Size|效应量]]系统性衰减的方法学机制。
 
 > [!claim] Edovald, R. & Nevill, C.
-> **规模化拓展中的实施稀释与基线竞争导致[[Fade-out Effect|效应衰减]]** 追求更高统计功效而盲目扩大试验[[Sample Size Determination|样本量]]，常与高保真度实施产生直接冲突（Nevill, 2019b；Edovald & Nevill, 2021, p. 57）。在小规模效力试验（Efficacy Trials）阶段，干预提供者能给予教师密集指导与高频支持，保真度极高，易在理想条件下产生积极显著的效应量（如 Hanley et al., 2015 的国际象棋试验）；然而当项目推向大规模实效试验（Effectiveness Trials）阶段时，人员培训模式被层层稀释，外部监控支持减退，且基层学校面临多样化的[[Business as Usual|常态教学]]（business as usual）高基线竞争，导致效力阶段的积极结果往往在实效阶段无法被成功复制（如 Kitmitto et al., 2018 象棋试验未见显著效果）。大规模推广必须建立前置的扩展试点机制（Scale-up Pilots）。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 57)]]
+> **规模化拓展中的实施稀释与基线竞争导致[[Fade-out Effect|效应衰减]]** 追求更高统计功效而盲目扩大试验[[Sample Size Determination|样本量]]，常与高保真度实施产生直接冲突（Nevill, 2019b；Edovald & Nevill, 2021, p. 57）。在小规模效力试验（Efficacy Trials）阶段，干预提供者能给予教师密集指导与高频支持，保真度极高，易在理想条件下产生积极显著的效应量（如 Hanley et al., 2015 的国际象棋试验）；然而当项目推向大规模实效试验（Effectiveness Trials）阶段时，人员培训模式被层层稀释，外部监控支持减退，且基层学校面临多样化的[[Business as Usual|常态教学]]（business as usual）高基线竞争，导致效力阶段的积极结果往往在实效阶段无法被成功复制（如 Kitmitto et al., 2018 象棋试验未见显著效果）。大规模推广必须建立前置的扩展试点机制（Scale-up Pilots）。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 57)]]
 
 ---
 
@@ -178,7 +180,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 > 探讨如何超越单项孤立试验的局限，构建面向系统决策的外部推广效力。
 
 > [!claim] Shadish, W. R.
-> **系统证据综合是确立稳健外部效度的必要路径** Shadish, Cook, & Campbell (2002) 论证，任何单项随机试验无论设计多么精良，其外部效度天然受制于特定的抽样时间、地点与人群边界；单项试验的结果只能告诉我们“什么曾经在特定条件下有效”，不能证明普遍有效性。只有通过对多情境、多群体试验开展大规模[[Meta-analysis|元分析]]与[[Systematic Review|系统综述]]（如英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）[[EEF Teaching and Learning Toolkit|教学与学习工具包]]（EEF Teaching and Learning Toolkit）对超过 10,000 项独立试验的[[Coding in Qualitative Research|编码]]综合），才能平抑单项试验的抽样偏倚与偶然误差，构建具有广泛指导意义的外部效度证据库（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 54]], 56；Higgins et al., 2015）。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
+> **系统证据综合是确立稳健外部效度的必要路径** Shadish, Cook, & Campbell (2002) 论证，任何单项随机试验无论设计多么精良，其外部效度天然受制于特定的抽样时间、地点与人群边界；单项试验的结果只能告诉我们“什么曾经在特定条件下有效”，不能证明普遍有效性。只有通过对多情境、多群体试验开展大规模[[Meta-analysis|元分析]]与[[Systematic Review|系统综述]]（如英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）[[EEF Teaching and Learning Toolkit|教学与学习工具包]]（EEF Teaching and Learning Toolkit）对超过 10,000 项独立试验的[[Coding in Qualitative Research|编码]]综合），才能平抑单项试验的抽样偏倚与偶然误差，构建具有广泛指导意义的外部效度证据库（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 54]], 56；Higgins et al., 2015）。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
 
@@ -241,9 +243,9 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 ## 现实表现与应对策略
 
 > [!evidence-grid] 提升与保障外部效度的现实策略体系
-> - **试验工具独立化与国家数据库锚定** 针对过度贴合干预的自编测验严重虚增[[Effect Size|效应量]]、破坏外部效度的问题（Cheung & Slavin, 2016），英国 [[Education Endowment Foundation|EEF]] 确立严格规程：主要学业结果必须采用具备广泛外部效度、与国家关键考试（如普通中等教育证书（General Certificate of Secondary Education，GCSE））强相关的标准化独立测验，并直接对接[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）行政追踪（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 54]]）。
-> - **规模化扩展试点阶梯（Scale-up Pilots）** 建立从[[Efficacy Trial|效力试验]]（Efficacy）向实效试验（Effectiveness）过渡的扩展试点机制，专门检验大规模项目在真实教育行政体系中的培训递送保真度、人员流动与组织支撑能力（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。
-> - **宏观决策的准实验渠道（Researching School Choices）** 针对学校拒斥[[Random Assignment|随机化]]导致样本代表性受损的问题，开辟[[School Choice|学校选择]]资助渠道，利用教育系统现存的自然变异与严格的[[Quasi-Experimental Designs|准实验设计]]（QED）评估学校组织决策，拓宽证据的生态推广性（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 54–55]]）。
+> - **试验工具独立化与国家数据库锚定** 针对过度贴合干预的自编测验严重虚增[[Effect Size|效应量]]、破坏外部效度的问题（Cheung & Slavin, 2016），英国 [[Education Endowment Foundation|EEF]] 确立严格规程：主要学业结果必须采用具备广泛外部效度、与国家关键考试（如普通中等教育证书（General Certificate of Secondary Education，GCSE））强相关的标准化独立测验，并直接对接[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）行政追踪（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 54]]）。
+> - **规模化扩展试点阶梯（Scale-up Pilots）** 建立从[[Efficacy Trial|效力试验]]（Efficacy）向[[Effectiveness Trial|实效试验]]（Effectiveness）过渡的扩展试点机制，专门检验大规模项目在真实教育行政体系中的培训递送保真度、人员流动与组织支撑能力（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 57]]）。
+> - **宏观决策的准实验渠道（[[Researching School Choices]]）** 针对学校拒斥[[Random Assignment|随机化]]导致样本代表性受损的问题，开辟[[School Choice|学校选择]]资助渠道，利用教育系统现存的自然变异与严格的[[Quasi-Experimental Designs|准实验设计]]（QED）评估学校组织决策，拓宽证据的生态推广性（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 54–55]]）。
 > - **调查抽样设计与[[Attrition|流失]]补偿** 采用[[Random Sampling|概率抽样]]（Fowler, 2009）；为低回应率预留初始[[Sample Size Determination|样本量]]缓冲（Punch, 2003）；实施跟进提醒唤醒 1/4–1/3 初始无回应者；对极小亚群采用过采样配合加权校正；在[[Longitudinal Study|纵向调查]]中建立样本流失（attrition）监控与敏感性分析模型（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al., 2011, Ch. 8]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Ch. 13]]）。
 > - **质性[[Rich and Thick Description|厚描述]]与多场所研究** 通过典型[[Case Study|案例研究]]（typical cases）展现深度生态机制；开展多场所研究（multi-site studies；Miles & Huberman, 1984）识别跨情境共性；提供详尽厚描述供读者与实践者自主评估可迁移性条件（Lincoln & Guba, 1985；Schofield, 1996）。
 
@@ -252,4 +254,4 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 ## 争议与前沿
 
 > [!warning] [[Internal Validity|内部效度]]与外部效度的权衡与统一
-> 传统实验科学假定内部效度与外部效度处于零和博弈关系——消除混淆的严密控制必然削弱外部生态性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。然而在当代[[Evidence-Based Education|循证教育]]与社会干预评估中，随着[[Implementation and Process Evaluation|实施与过程评估]]（IPE）和复杂[[Luhmann's Systems Theory|系统理论]]的发展，研究者越来越强调两者不应割裂：单项研究内部因果确证必须与试验全过程的生态监测、对照组[[Business as Usual|常态教学]][[Rich and Thick Description|深描]]相结合，才能真正为宏观政策决策提供可信、可用、可推广的实践证据（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
+> 传统实验科学假定内部效度与外部效度处于零和博弈关系——消除混淆的严密控制必然削弱外部生态性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。然而在当代[[Evidence-Based Education|循证教育]]与社会干预评估中，随着[[Implementation and Process Evaluation|实施与过程评估]]（IPE）和复杂[[Luhmann's Systems Theory|系统理论]]的发展，研究者越来越强调两者不应割裂：单项研究内部因果确证必须与试验全过程的生态监测、对照组[[Business as Usual|常态教学]][[Rich and Thick Description|深描]]相结合，才能真正为宏观政策决策提供可信、可用、可推广的实践证据（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）。

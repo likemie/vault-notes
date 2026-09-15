@@ -9,10 +9,10 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/inequality
   - theme/stratification
@@ -52,18 +52,20 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jin Li]]"
+  - "[[Michael Gove]]"
   - "[[Paul Morris]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Grammar School]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Researching School Choices]]"
   - "[[Gaokao]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2012_Cambridge]]"
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: active
 created: 2026-05-25
@@ -163,8 +165,8 @@ updated: 2026-09-15
 > [!concept-lens] 宏观组织决策在[[Causality|因果推断]]中的生态刚性与方法妥协
 > 探讨能力分组政策如何因触及学校文化与教师核心利益而引发对[[Random Assignment|随机分配]]的系统性抵制，倒逼循证因果评估从单纯 [[Randomised Controlled Trials|RCT]] 转向利用自然变异的[[Quasi-Experimental Designs|准实验设计]]（QEDs）。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021, pp. 55–56)]]
-> **能力分流决策刚性与自然变异准实验转向** 混合能力分组与基于能力的分轨分流（setting and streaming）属于学校深层的内生组织决策。[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）资助开展的“混合能力分组 vs 能力分组分流”大规模随机对照试验（Randomised Controlled Trials, RCT）因学校坚决拒绝被随机分配教学组织形态而遭遇彻底的招募失败（Roy et al., 2014）。这一实证挫败推翻了将所有政策问题均诉诸 RCT 验证的教条，促使 EEF 于 2019 年设立“研究[[School Choice|学校选择]]（Researching school choices）”专门资助序列，转向利用现实教育生态中客观存在的自然变异（natural variation），采用准实验设计（Quasi-Experimental Designs, QEDs）评估能力分组政策对学生学业产出与弱势群体的真实因果影响。
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021, pp. 55–56)]]
+> **能力分流决策刚性与自然变异准实验转向** 混合能力分组与基于能力的分轨分流（setting and streaming）属于学校深层的内生组织决策。[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）资助开展的“混合能力分组 vs 能力分组分流”大规模随机对照试验（Randomised Controlled Trials, RCT）因学校坚决拒绝被随机分配教学组织形态而遭遇彻底的招募失败（Roy et al., 2014）。这一实证挫败推翻了将所有政策问题均诉诸 RCT 验证的教条，促使 EEF 于 2019 年设立“研究[[School Choice|学校选择]]（[[Researching School Choices]]）”专门资助序列，转向利用现实教育生态中客观存在的自然变异（natural variation），采用准实验设计（Quasi-Experimental Designs, QEDs）评估能力分组政策对学生学业产出与弱势群体的真实因果影响。
 
 ---
 
@@ -191,7 +193,7 @@ updated: 2026-09-15
 > [!case] 英国政客应对 [[PISA]] 分轨证据的“遗漏话语”
 > 在英格兰应对 PISA 2012 评估的过程中，执政精英展现出对分轨证据的高度策略性操纵（[[Argument_Grey_2018_CE|Grey & Morris, 2018, pp. 114, 117–118]]）：
 > - **实证建议与政治剪裁** [[OECD]] 报告明确警告英格兰系统内部存在根深蒂固的层化与选拔问题，并在国际案例中力推波兰与德国的去分轨成功经验。
-> - **遗漏话语策略** 教育大臣 Michael Gove 在议会政策陈述中，虽然高调挪用“促进社会公正”的道德口号，却动用话语特权对经合组织关于“分轨选拔破坏公平”的核心警告实施了彻底的“遗漏话语（Discourse of Omission）”。
+> - **遗漏话语策略** 教育大臣 [[Michael Gove]] 在议会政策陈述中，虽然高调挪用“促进社会公正”的道德口号，却动用话语特权对经合组织关于“分轨选拔破坏公平”的核心警告实施了彻底的“遗漏话语（Discourse of Omission）”。
 > - **政策倒退** 保守党政府在回避分轨批评的同时，转而于 2017 年宣布增设选拔性[[Grammar School|文法学校]]，重新强化按学术能力选拔分流的旧制，展现出跨国实证在本土政客的媒介化与意识形态诉求面前被严重扭曲的典型病理。
 
 ---
@@ -203,7 +205,7 @@ updated: 2026-09-15
 > - **1985 — 冲突论与批判教育社会学奠基** Jeannie Oakes 出版划时代著作 *Keeping Track: How Schools Structure Inequality*，开创了对校内分轨（Tracking）的系统实证批判，论证分轨如何剥夺有色人种与工人阶级子弟的优质知识获取权。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 98)]]
 > - **2000 年代初 — 文化心理学与微观认知机制深化** [[Jin Li|李瑾]]将分轨制置于西方文化“固定自我观”与[[Talent Assumption|天赋假设]]框架下展开跨文化解构，揭示其引发个人降级与自我实现预言的心理微观发生学机制。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 98–99, 109–110)]]
 > - **2012–2018 — 跨国量化实证与政策政治学解构** [[OECD]] 通过 [[PISA]] 跨国大样本实证确立了分轨与教育公平的负相关定律，推动去分轨综合化改革；[[Paul Morris|Paul Morris]] 与 Sue Grey 则进一步揭示英格兰政客在[[Mediatised Governance|媒介化治理]]中如何策略性过滤分轨负面证据并强行逆流推行选拔制度。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114, 117–118)]]
-> - **2014–2021 — 因果试验招募挫败与准实验方法转向** [[Education Endowment Foundation|EEF]] 资助的能力分班大规模 [[Randomised Controlled Trials|RCT]] 因学校拒绝[[Random Assignment|随机化]]而招募失败（Roy et al., 2014）；EEF [[EEF Teaching and Learning Toolkit|教学与学习工具包]]（Toolkit）实证定性能力分班对弱势学童带来净损失（$-1$ 个月），加剧阶层固化；2019 年 EEF 正式设立“研究[[School Choice|学校选择]]”资助序列，确立利用自然变异与[[Quasi-Experimental Designs|准实验设计]]（QEDs）评估能力分组政策的因果研究新[[Paradigm|范式]]。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 55–56)]]
+> - **2014–2021 — 因果试验招募挫败与准实验方法转向** [[Education Endowment Foundation|EEF]] 资助的能力分班大规模 [[Randomised Controlled Trials|RCT]] 因学校拒绝[[Random Assignment|随机化]]而招募失败（Roy et al., 2014）；EEF [[EEF Teaching and Learning Toolkit|教学与学习工具包]]（Toolkit）实证定性能力分班对弱势学童带来净损失（$-1$ 个月），加剧阶层固化；2019 年 EEF 正式设立“研究[[School Choice|学校选择]]”资助序列，确立利用自然变异与[[Quasi-Experimental Designs|准实验设计]]（QEDs）评估能力分组政策的因果研究新[[Paradigm|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 ---
 
@@ -233,7 +235,7 @@ updated: 2026-09-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]]（引述 OECD, 2013b） | [[PISA]] 2012 跨国青少年样本（涵盖数十个[[OECD\|经合组织]]国家） | 跨国大规模学业评估二次分析与跨层回归 | 学校层化与分轨（Stratification & Tracking）、教育公平、学习动机、家庭 SES 隔离 | 学校系统层化与早期分轨与教育公平呈显著负相关；高分层系统学生动机显著更低；成绩分流在统计上高度重合于家庭 SES 隔离与形式数学暴露频率剥夺 | 跨国大样本多层回归高度显著 | 确立国家级中等教育分轨体制对教育公平与动机的宏观破坏效应 |
-> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021, pp. 55–56)]]（引述 Roy et al., 2014） | 英格兰中小学（[[Education Endowment Foundation\|EEF]] 委托大规模能力分组试验） | 多中心学校级[[Randomised Controlled Trials\|随机对照试验（RCT）]] | 混合能力分组 vs 基于能力的分轨分流（Mixed ability vs Setting/Streaming） | 试验因学校坚决拒绝由外部随机决定本校能力分组政策而彻底流产（招募失败）；直接促成 2019 年 EEF 设立“研究[[School Choice\|学校选择]]”准实验资助序列 | 试验因样本招募归零终止 | 揭示学校核心组织决策对完全[[Random Assignment\|随机分配]]的天然生态排斥，确立 [[Quasi-Experimental Designs\|QED]] 的方法学必要性 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, pp. 55–56)]]（引述 Roy et al., 2014） | 英格兰中小学（[[Education Endowment Foundation\|EEF]] 委托大规模能力分组试验） | 多中心学校级[[Randomised Controlled Trials\|随机对照试验（RCT）]] | 混合能力分组 vs 基于能力的分轨分流（Mixed ability vs Setting/Streaming） | 试验因学校坚决拒绝由外部随机决定本校能力分组政策而彻底流产（招募失败）；直接促成 2019 年 EEF 设立“研究[[School Choice\|学校选择]]”准实验资助序列 | 试验因样本招募归零终止 | 揭示学校核心组织决策对完全[[Random Assignment\|随机分配]]的天然生态排斥，确立 [[Quasi-Experimental Designs\|QED]] 的方法学必要性 |
 > | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（Setting and Streaming 专题，2021） | 英格兰及国际中等学校能力分组[[Meta-analysis\|元分析]]与长期试验数据池 | 循证清算综合元分析与试验长期追踪 | 单科分组与全科分流（Setting and Streaming）对学业产出与阶层差距的影响 | 总体学业增益几乎为零（0 个月）；对处于低轨的弱势学生产生净损害（$-1$ 个月学业倒退），低轨学生普遍遭遇教学降阶与师资边缘化；高阶学生微弱获益以加剧群体间差距为代价 | 累积证据安全性评定为低至中等 | 证实能力分流不仅无助于整体学业提升，反而是制度化扩大贫富差距与阶层隔离的组织杠杆 |
 
 ---
@@ -261,7 +263,7 @@ updated: 2026-09-15
 > | [[Paul Morris]] | Person | 揭示英格兰执政精英在应对 PISA 时选择性遗漏分轨负面实证结论的比较教育学者。 |
 > | [[Argument_Li_2012_Cambridge\|Li (2012)]] | Argument | 剖析分轨制的天赋假设、适应逻辑、个人降级与美中跨文化差异的奠基专著。 |
 > | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 记录经合组织对分轨破坏公平的实证发现及英国政客“遗漏话语”的关键期刊[[Document\|文献]]。 |
-> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | Argument | 记录能力分组因果试验招募失败及转向利用自然变异与准实验设计评估学校选择的实证论文。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | Argument | 记录能力分组因果试验招募失败及转向利用自然变异与准实验设计评估学校选择的实证论文。 |
 
 ---
 
@@ -270,4 +272,4 @@ updated: 2026-09-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance|媒介化治理]]中对[[OECD|经合组织]]分轨警告的“遗漏话语”策略。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 记录[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 记录[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。

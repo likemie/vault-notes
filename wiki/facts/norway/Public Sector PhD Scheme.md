@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Public Sector PhD Scheme
@@ -115,9 +115,9 @@ updated: 2026-09-15
 > - **形成高质量战略政策成果** 在全纳教育与课程重组等领域产出的课题，直接支撑了挪威新国家核心课程纲要的实证论证与落地推广。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 89)]]
 
 > [!stat-cards]- 关键实证数据
-> - **教育领域已资助项目** 约 10 项（Approximately ten projects）。
-> - **挪威教育部政策分析处博士/研究背景占比** 约 50%（Around 50% of employees）。
-> - **拉脱维亚教育部对照比例** 仅 7.4%（7.4% in Latvia）。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 89)]]
+> - **≈ 10** 教育领域已资助项目数量（项，原文作 Approximately ten projects）。
+> - **≈ 50%** 挪威教育部政策分析处拥有博士/研究背景的员工占比（原文作 Around 50% of employees）。
+> - **7.4%** 拉脱维亚教育部对照系统的相应比例，仅此数（原文作 7.4% in Latvia）。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 89)]]
 
 ---
 

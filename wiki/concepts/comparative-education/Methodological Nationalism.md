@@ -51,7 +51,7 @@ related_facts:
   - "[[Definition and Selection of Competencies]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
-  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -80,11 +80,11 @@ updated: 2026-09-12
 > 
 > *“the belief that the nation/state/society is the natural social and political form of the modern world”*
 > 
-> —— [[Argument_Marginson_2025_ROE|Wimmer & Schiller, 2003, 引自 Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009, p. 349]]
+> —— [[Argument_Marginson_2025_ECNUROE|Wimmer & Schiller, 2003, 引自 Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009, p. 349]]
 
 > [!boundary]- 概念边界
 > - 不等于 [[Classical Geopolitics|古典地缘政治]] — 古典地缘政治是方法论民族主义在地缘政治分析中的具体体现：以民族国家为唯一行动者，以领土边界划定“内部/外部”。但二者不完全等同——方法论民族主义是更一般的认识框架，古典地缘政治是其在国际关系领域的特定应用。
-> - 不等于 规范性民族主义（Normative Nationalism） — 方法论民族主义是一种关于“如何看待世界”的认识框架与分析预设，而规范性民族主义是关于“偏好某一国家”的价值立场与意识形态。二者不等同，但倾向于相互强化（Beck, 2007），被合称为“方法论与规范性民族主义的共谋”。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]
+> - 不等于 规范性民族主义（Normative Nationalism） — 方法论民族主义是一种关于“如何看待世界”的认识框架与分析预设，而规范性民族主义是关于“偏好某一国家”的价值立场与意识形态。二者不等同，但倾向于相互强化（Beck, 2007），被合称为“方法论与规范性民族主义的共谋”。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]
 
 ---
 
@@ -103,12 +103,12 @@ updated: 2026-09-12
 ## 核心要素
 
 > [!feature] 核心要素
-> - **国家作为唯一[[Unit of Analysis|分析单位]]** 将教育系统理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性或衍生性的。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009, p. 348]]
+> - **国家作为唯一[[Unit of Analysis|分析单位]]** 将教育系统理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性或衍生性的。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009, p. 348]]
 > - **遮蔽全球性现象** 系统性阻挡了对科学（就其[[Epistemology|认识论]]自主性而言）、生态和跨国网络等无法还原为国家属性的全球性现象的观察。
 > - **语言概念的潜在偏见** 比较教育常用的“跨国”（transnational，跨越国家）与“国际”（international，国家之间）均预设了国家作为活动基础；即使是“超国家”（supranational，国家之上）也仍是以民族国家为基准定位该空间。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
 > - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]（methodological statism，将国家视为唯一行动者）和[[Methodological Educationism|方法论教育主义]]（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 > - **与规范性民族主义共谋** 认为“国家是唯一分析单位”的预设会强化“本国优先”的价值立场，Massey（2005）称之为“对连贯国族性的浪漫幻想”和净化国家空间的徒劳尝试。
-> - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
+> - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
 > - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的[[Hypothesis|假设]]。即使文化主义视角强调本地适应与[[Recontextualization|再脉络化]]，仍然基于地缘政治和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
 
 > [!logic-map]- 要素关系
@@ -140,7 +140,7 @@ updated: 2026-09-12
 > **比较教育概念的内生国家偏见与[[Space of Flows and Space of Places|流动空间]]区隔** 比较教育常用的“跨国”（Transnational）、“国际”（International）甚至“超国家”（Supranational）术语，均在语言与认识底层预设了民族国家作为一切社会活动的前提基准。为摆脱将国家视为默认空间参照的局限，必须引入 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]][[Analytic Framework|分析框架]]，将全球教育政策空间（流动空间）与学校实践（地方空间）作为纵向不对称的多维尺度进行解构。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
 
 > [!claim] Marginson, S.
-> **高等教育双重空间性与[[Relational Space|关系性空间]][[Ontology|本体论]]** 高等教育实践同时兼具“国家空间性”与“全球空间性”。批判方法论民族主义绝非宣称“国家消亡”或“国家不重要”，而是打破将国家领土设为唯一[[Analytic Framework|分析框架]]的封闭预设。依托 [[Doreen Massey]] 的[[Relational Space|关系性空间]]与[[Multiplicity|多重性]]本体论，研究者能够准确把握高等教育在地方、国家与全球多重尺度之间共存、交织且不可相互化约的复杂生态。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
+> **高等教育双重空间性与[[Relational Space|关系性空间]][[Ontology|本体论]]** 高等教育实践同时兼具“国家空间性”与“全球空间性”。批判方法论民族主义绝非宣称“国家消亡”或“国家不重要”，而是打破将国家领土设为唯一[[Analytic Framework|分析框架]]的封闭预设。依托 [[Doreen Massey]] 的[[Relational Space|关系性空间]]与[[Multiplicity|多重性]]本体论，研究者能够准确把握高等教育在地方、国家与全球多重尺度之间共存、交织且不可相互化约的复杂生态。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
 
 ---
 
@@ -172,7 +172,7 @@ updated: 2026-09-12
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **语言偏见与尺度超越** | 揭示“跨国/国际/超国家”术语的内生偏见，基于流动空间与关系性空间超越单一国家框架 | 比较教育认识论、高等教育全球化与科学[[Network Analysis\|网络分析]] | [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_Marginson_2025_ROE\|Marginson (2025)]] |
+> | **语言偏见与尺度超越** | 揭示“跨国/国际/超国家”术语的内生偏见，基于流动空间与关系性空间超越单一国家框架 | 比较教育认识论、高等教育全球化与科学[[Network Analysis\|网络分析]] | [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] |
 > | **静态转移批判与流通** | 摒弃物理领土固化转移[[Hypothesis\|假设]]，确立政策思想的关系性多维流通与再脉络化 | 教育政策跨国借用、教育思想转移与本土重构 | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] |
 > | **治理网络解构与跨国进路** | 破除三主义叠加与单向霸权模型，依托方法论跨国主义透视全球与国家互构 | [[Global Education Governing Complex\|全球教育治理复合体]]、跨国[[Policy Brokerage\|政策中介]]与国内改革合法化动员 | Dale & Robertson (2009); [[Argument_Klerides_2023_CE\|Klerides (2023)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 
@@ -182,15 +182,15 @@ updated: 2026-09-12
 
 > [!dev-timeline] 概念演变
 > - **2002–2003 — 移民与社会学研究起源**
->   Wimmer & Glick Schiller (2002/2003) 系统提出“方法论民族主义”概念，批判社会科学研究中未经反思地将民族国家作为自然社会和政治边界的倾向。[[Argument_Marginson_2025_ROE|Wimmer & Schiller, 2003, 引自 Marginson, 2025, p. 8]]
+>   Wimmer & Glick Schiller (2002/2003) 系统提出“方法论民族主义”概念，批判社会科学研究中未经反思地将民族国家作为自然社会和政治边界的倾向。[[Argument_Marginson_2025_ECNUROE|Wimmer & Schiller, 2003, 引自 Marginson, 2025, p. 8]]
 > - **2007 — 全球化理论扩展**
->   Beck (2007) 将其扩展至全球化与世界主义理论，指出方法论民族主义与规范性民族主义的“共谋”，阻碍了对多重尺度的想象。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]
+>   Beck (2007) 将其扩展至全球化与世界主义理论，指出方法论民族主义与规范性民族主义的“共谋”，阻碍了对多重尺度的想象。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]
 > - **2005–2009 — 比较教育与全球治理研究引入**
 >   Dale (2005) 与 [[Argument_Beech_2009_CE|Beech (2009)]] 将该概念引入教育政策和比较教育研究。Dale 提出“超国家”尺度；Beech 进一步批判语言概念中的国家预设，并引入 Castells 的“[[Space of Flows and Space of Places|流动空间与地方空间]]”作为替代[[Analytic Framework|分析框架]]，为摆脱国家参照提供路径。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
 > - **2015 — 教育转移的关系性转向**
 >   [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 运用该概念批判传统教育转移的“静态领土[[Hypothesis|假设]]”，推动向关系性转移与流通研究的转向。
 > - **2023–2025 — 高等教育与[[Ontology|本体论]]深化**
->   [[Argument_Klerides_2023_CE|Klerides (2023)]] 整合 Dale & Robertson 框架探讨三主义叠加效应；[[Argument_Marginson_2025_ROE|Marginson (2025)]] 将 [[Doreen Massey]] 的“[[Relational Space|关系性空间]]”与“[[Multiplicity|多重性]]”理论作为超越方法论民族主义的深层本体论基础，论证高等教育多重尺度的共存。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]; [[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
+>   [[Argument_Klerides_2023_CE|Klerides (2023)]] 整合 Dale & Robertson 框架探讨三主义叠加效应；[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] 将 [[Doreen Massey]] 的“[[Relational Space|关系性空间]]”与“[[Multiplicity|多重性]]”理论作为超越方法论民族主义的深层本体论基础，论证高等教育多重尺度的共存。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]; [[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
 > - **2024 — [[Methodological Transnationalism|方法论跨国主义]]的系统应对**
 >   [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 提出不仅要警惕方法论民族主义，亦需防范将全球/国家关系扁平化为线性霸权统治的误区，倡导基于[[Methodological Transnationalism|方法论跨国主义]]解构国家政府尺度与职能。
 
@@ -203,18 +203,18 @@ updated: 2026-09-12
 > > [!axis] 国家与全球尺度的张力关系
 > > 争论关于在全球化研究中如何处理国家的作用，批判国家中心是否意味着否定国家的主权与实际影响。
 > > 
-> > - **[[Argument_Marginson_2025_ROE|Marginson (2025)]]** 超越方法论民族主义绝非认为国家不重要，大学具有“双重空间性”（既几乎不可能不是国家的，又深度嵌入全球科学与合作网络），关键是不将国家设为唯一的分析范畴。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]
+> > - **[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]** 超越方法论民族主义绝非认为国家不重要，大学具有“双重空间性”（既几乎不可能不是国家的，又深度嵌入全球科学与合作网络），关键是不将国家设为唯一的分析范畴。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]
 > 
 > > [!axis] 空间封闭性与[[Multiplicity|多重性]]的对立
 > > 批判方法论民族主义对领土空间的本质化倾向，主张空间应是开放和关系性的。
 > > 
-> > - **Massey（2005）** 方法论民族主义对领土空间的本质化，本质上是试图“驯服”空间内在的开放性和多重性，消解其颠覆性与[[Creativity|创造性]]潜力。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 5–6]]
+> > - **Massey（2005）** 方法论民族主义对领土空间的本质化，本质上是试图“驯服”空间内在的开放性和多重性，消解其颠覆性与[[Creativity|创造性]]潜力。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 5–6]]
 
 > [!critique] 外部批评
-> - **全球尺度的不可化约性** 在高等教育中，仅引入“国家+全球”双层分析仍不足以捕捉空间的多重性。全球科学（没有规范中心，由期刊、计量网络构成）与国家教育（规范中心为国家）等不同尺度是共存且无法相互化约的。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
+> - **全球尺度的不可化约性** 在高等教育中，仅引入“国家+全球”双层分析仍不足以捕捉空间的多重性。全球科学（没有规范中心，由期刊、计量网络构成）与国家教育（规范中心为国家）等不同尺度是共存且无法相互化约的。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
 
 > [!warning] 适用局限
-> - **避开彻底去国家化的乌托邦** 对于如高等教育、大众基础教育等强国家属性的研究，完全放弃国家视角可能导致对地缘政治权力、国家预算投入等关键现实制约的忽视。研究者需根据研究对象的空间属性，客观组合[[Relational Space|关系空间]]与领土空间框架，而非一味排斥国家层级。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]
+> - **避开彻底去国家化的乌托邦** 对于如高等教育、大众基础教育等强国家属性的研究，完全放弃国家视角可能导致对地缘政治权力、国家预算投入等关键现实制约的忽视。研究者需根据研究对象的空间属性，客观组合[[Relational Space|关系空间]]与领土空间框架，而非一味排斥国家层级。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]
 
 ---
 
@@ -234,7 +234,7 @@ updated: 2026-09-12
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Methodological Transnationalism|方法论跨国主义]]路径，超越将国家视为孤立容器或被动霸权受体的研究取向。
-> - [[Argument_Marginson_2025_ROE|Marginson (2025)]] — 论证 Massey 的[[Relational Space|关系空间]]理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。
+> - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 论证 Massey 的[[Relational Space|关系空间]]理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows and Space of Places|流动空间与地方空间]]重构教育政策话语的三级[[Transfer Translation Transformation|转译]]。
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 揭示传统比较教育中静态教育转移的国家领土[[Hypothesis|假设]]，提出关系性流通的阐释。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用该概念批判历史和比较教育研究中的“方法论民族主义、国家主义、[[Methodological Educationism|教育主义]]叠加”现象，阐释其对跨国教育网络研究的遮蔽。

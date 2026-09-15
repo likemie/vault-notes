@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Cognition Education]]"
+  - "[[Foundation North Māori and Pasifika Education Initiative]]"
 related_arguments: []
 sources:
   - "[[sources/ONeill_2016_Report|ONeill_2016_Report]]"
@@ -80,7 +81,7 @@ citation_aliases:
 >    - 公立学校私有化以两种形式出现：使学校更像企业运营；将私营部门引入公立学校
 >    - 政府政策话语从"政府资助和提供"转向"政府补贴"和"社会投资"，从普遍主义转向有针对性供给
 >    - 新西兰慈善法允许非营利慈善机构设立营利性子机构，模糊公私参与的概念和实践区分
->    - 六案例（Pearson / [[Cognition Education|Cognition Education]] / CORE Education / Foundation North / COMET / Kidscan）展示了私营部门参与的多样性
+>    - 六案例（Pearson / [[Cognition Education|Cognition Education]] / CORE Education / [[Foundation North Māori and Pasifika Education Initiative|Foundation North]] / COMET / Kidscan）展示了私营部门参与的多样性
 >    - EMOs 从系统取出的资金可能超过以合同服务和慈善捐赠形式返还的价值
 > 3. **结论** 政府逐步撤出公立学校的资助和提供，同时在标准和问责上加强控制，根本改变了公共教育系统的逻辑和动力；需要就免费义务公立教育的目的、性质和形式展开公共辩论
 
@@ -90,7 +91,7 @@ citation_aliases:
 > - 新西兰注册慈善机构约 17,000 个，超过三分之一为教育慈善机构；仅 4.5% 主要依赖政府拨款和合同，3.9% 依赖服务和贸易收入
 > - [[John Hattie]] 自 1990 年代末以来是"最精湛的公立学校政策行动者"，其全球社交网络方式可被合理描述为公共福利/非营利/营利创业的无缝融合
 > - [[Cognition Education|Cognition Education]] 2015 年直接捐赠比例仅占集团总收入的 0.9%；CORE Education 2010–2015 年总捐赠平均每年 USD 168,554
-> - Foundation North 2010–2015 年间平均仅分配 23.3% 的投资收入回报为捐赠，同时集团权益从 USD 1B 增至 USD 1.2B
+> - [[Foundation North Māori and Pasifika Education Initiative|Foundation North]] 2010–2015 年间平均仅分配 23.3% 的投资收入回报为捐赠，同时集团权益从 USD 1B 增至 USD 1.2B
 
 ## 关键引用
 

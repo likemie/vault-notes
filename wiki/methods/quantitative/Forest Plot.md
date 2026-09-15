@@ -46,7 +46,7 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Abrami_2015_RER]]"
@@ -63,7 +63,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!def] 核心定义
-> 森林图（Forest Plot）是[[Meta-analysis|元分析]]与[[Systematic Review|系统综述]]中用于全景展示各项初级研究定量结果及总体合成估计的标准可视化图表。图中每一横行代表一项纳入的独立实证研究，以矩形方块（Square）表示[[Effect Size|效应量]]点估计值、以贯穿方块的水平线段表示95% [[Confidence Interval|置信区间]]（CI），图表底部以一个菱形（Diamond）表示加权合并后的总体效应量及其置信区间。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 33)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
+> 森林图（Forest Plot）是[[Meta-analysis|元分析]]与[[Systematic Review|系统综述]]中用于全景展示各项初级研究定量结果及总体合成估计的标准可视化图表。图中每一横行代表一项纳入的独立实证研究，以矩形方块（Square）表示[[Effect Size|效应量]]点估计值、以贯穿方块的水平线段表示95% [[Confidence Interval|置信区间]]（CI），图表底部以一个菱形（Diamond）表示加权合并后的总体效应量及其置信区间。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 33)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将复杂的统计矩阵转化为直观的空间几何线段，实现多研究离散度、权重分布与综合效应的一览式呈现。
@@ -153,6 +153,6 @@ flowchart TD
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 绘制包含 59 个独立[[Effect Size|效应量]]的森林图，通过效应点估计方块、[[Confidence Interval|置信区间]]横线与底部合并菱形（$g = 0.609$ [0.485, 0.732]），全景展现生成式 AI 对学生[[Higher-Order Thinking Skills|高阶思维]]的促学成效与高度离散形态。
-> - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 回溯 Karl Pearson (1904) 伤寒疫苗分析对森林图形式的历史先驱贡献，以及森林图在[[Evidence-Based Education|循证教育]]工具中的核心角色。
+> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 回溯 Karl Pearson (1904) 伤寒疫苗分析对森林图形式的历史先驱贡献，以及森林图在[[Evidence-Based Education|循证教育]]工具中的核心角色。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 呈现通用[[Critical Thinking|批判性思维]]技能[[Effect Size|效应量]]分布图，直观展现教学干预在跨学科领域中的一致收益。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 系统阐述森林图作为[[Meta-analysis|元分析]]研究报告标配的结构要素与判读规范。

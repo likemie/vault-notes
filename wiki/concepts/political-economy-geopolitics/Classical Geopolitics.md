@@ -47,7 +47,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
-  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
@@ -77,7 +77,7 @@ updated: 2026-09-14
 > [!boundary]- 概念边界
 > - 不等于 [[Geopolitics of Knowledge|知识地缘政治]] — 古典地缘政治以领土控制和军事战略为中心，源自十九至二十世纪工业时代"领土和自然资源控制是国民财富的根本构成要素"的政治特征[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 26)]]；知识地缘政治关注[[Relational Space|关系性空间]]构型，其中政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]构成核心维度
 > - 不等于关系性地缘政治（Relational Geopolitics） — 古典地缘政治视空间为天然预设的领土容器；关系性地缘政治将空间理解为通过社会空间关系网络构成的，空间性不限于领土性（Kuus, 2017, p. 5）[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
-> - 不等于 Massey 的[[Multiplicity|多重性]]地缘政治 — [[Argument_Marginson_2025_ROE|Marginson (2025)]]以 Massey (2005) 的关系性空间理论重新定义地缘政治为"区域和全球尺度上制度化的权力关系"，强调包含合作与水平性而不仅是竞争与等级[[Argument_Marginson_2025_ROE|(Marginson, 2025, p. 11)]]
+> - 不等于 Massey 的[[Multiplicity|多重性]]地缘政治 — [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]以 Massey (2005) 的关系性空间理论重新定义地缘政治为"区域和全球尺度上制度化的权力关系"，强调包含合作与水平性而不仅是竞争与等级[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, p. 11)]]
 > - 不等于 [[Critical Geopolitics|批判地缘政治]] — 古典地缘政治是批判地缘政治学的批判对象，后者揭示前者的领土偏见及其与殖民主义、民族主义暴力的历史纠缠
 > - 不适用于 — 分析高等教育作为独立地缘政治行动者的角色；捕捉跨国社会想象和网络化关系中的权力动态
 
@@ -157,5 +157,5 @@ updated: 2026-09-14
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 以 Dalby [[Realism in International Relations|现实主义]]古典地缘政治为对照基线，指出纯粹国家间权力斗争视角难以解释当代高等教育的跨国社会想象与网络化关系，主张转向[[Critical Geopolitics|批判地缘政治学]]视角。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 追溯“geopolitics”词源及其从神学属性到地缘政治教义的演变，并以[[Sino-American Trade War|中美贸易战]]为例剖析古典领土权力逻辑在当代的典型体现。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 论述古典领土权力逻辑在当代仍与[[Relational Space|关系性空间]]想象共构运作，并作为理解高等教育从民族国家框架中“脱嵌”的对照基线。
-> - [[Argument_Marginson_2025_ROE|Marginson (2025)]] — 以 Massey 关系性空间理论重新定义地缘政治，超越古典国家中心与领土绝对主义框架。
+> - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 以 Massey 关系性空间理论重新定义地缘政治，超越古典国家中心与领土绝对主义框架。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 将古典地缘政治定位为[[Geopolitics of Higher Education|高等教育地缘政治]]研究的逻辑起点，剖析美苏冷战[[Fulbright Program|富布莱特计划]]等学术流动工具化案例，阐释其对高等教育能动性分析的盲区。

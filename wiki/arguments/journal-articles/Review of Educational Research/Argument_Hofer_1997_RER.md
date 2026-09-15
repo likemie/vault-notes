@@ -25,6 +25,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Hypothesis]]"
   - "[[Epistemic Cognition]]"
+  - "[[Ontology]]"
   - "[[Multiplicity]]"
   - "[[Received Knowledge]]"
   - "[[Subjective Knowledge]]"
@@ -68,7 +69,7 @@ title: "Argument_Hofer_1997_RER"
 argument_key: "Argument_Hofer_1997_RER"
 argument_display_title: "The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -111,9 +112,9 @@ issuing_organization: ""
 > [!evidence-grid] 论证过程拆解
 > | 分论点 (Sub-claims) | 论证过程与依据 (Argumentation & Evidence) | 结论/理论推演 (Conclusion) |
 > |---|---|---|
-> | **1. 需要严格澄清认识论构念的边界** | 作者系统审视六大模型，指出不同学者对“认识论”的定义混淆不清。特别是批评 Schommer (1990) 的模型将“固定智力”、“快速学习”等归为认识论因子。作者论证，这本质上属于对任务难度和个人心理特征的预期，并非关于“知识本身”的哲学探讨。(|Hofer & Pintrich, 1997, p. 108) | 必须将“关于学习与智力的信念”作为边缘信念剔除，以确保认识论[[Construct\|构念]]的纯粹性。 |
+> | **1. 需要严格澄清认识论[[Construct\|构念]]的边界** | 作者系统审视六大模型，指出不同学者对“认识论”的定义混淆不清。特别是批评 Schommer (1990) 的模型将“固定智力”、“快速学习”等归为认识论因子。作者论证，这本质上属于对任务难度和个人心理特征的预期，并非关于“知识本身”的哲学探讨。(|Hofer & Pintrich, 1997, p. 108) | 必须将“关于学习与智力的信念”作为边缘信念剔除，以确保认识论[[Construct\|构念]]的纯粹性。 |
 > | **2. 认识论核心应聚焦于四个基本维度** | 作者通过对比对齐（如本文表2所示），对剥离边缘成分后的各模型进行求同。发现各大模型实质上都在探讨两大核心领域：“知识的本质”与“认知的过程”。将其进一步细化，便推导出了确定性、简单性、来源和辩护这四个共性维度。(|Hofer & Pintrich, 1997, p. 119) | 个体的认识论信念不是无序的，而是围绕这四个核心维度展开。 |
-> | **3. 这些信念构成了一种个人“理论”** | 作者反对 Schommer 所主张的“各维度完全独立论”，引入 Wellman (1990) 关于“知识如何构成理论”的三个标准：具有连贯性、存在本体论区分、提供因果解释框架。作者论证道：如果一个人认为知识是绝对的（确定性），那他必然认为知识由权威传授（来源）。这种内在的强关联性证明了各维度间的连贯互构。(|Hofer & Pintrich, 1997, p. 117-118) | 认识论信念不仅是一组零散的观点，更是在个体心智中具有解释力的“个人理论（personal theories）”。 |
+> | **3. 这些信念构成了一种个人“理论”** | 作者反对 Schommer 所主张的“各维度完全独立论”，引入 Wellman (1990) 关于“知识如何构成理论”的三个标准：具有连贯性、存在[[Ontology\|本体论]]区分、提供因果解释框架。作者论证道：如果一个人认为知识是绝对的（确定性），那他必然认为知识由权威传授（来源）。这种内在的强关联性证明了各维度间的连贯互构。(|Hofer & Pintrich, 1997, p. 117-118) | 认识论信念不仅是一组零散的观点，更是在个体心智中具有解释力的“个人理论（personal theories）”。 |
 
 > [!logic-map]- 概念重构机制图
 > ```mermaid

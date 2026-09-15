@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,8 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
+  - "[[Engineered Evidence]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Visible Learning]]"
   - "[[Variable]]"
   - "[[Blue Skies Research]]"
@@ -71,7 +73,8 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Framework Synthesis]]"
   - "[[Analytic Framework]]"
-related_persons: []
+related_persons:
+  - "[[Stephen Gorard]]"
 related_facts:
   - "[[Knowledge Network for Applied Education Research]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
@@ -84,12 +87,13 @@ related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ECNUROE]]"
+  - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Torres_2022_KMModels]]"
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # Knowledge Mobilisation
@@ -289,13 +293,13 @@ updated: 2026-09-14
 
 在真实的教育生态中，学术期刊论文的直接辐射范围极为有限，证据流动高度依附于非正式同行网络与跨界中介通道。
 
-> [!claim] Cooper et al. (2017); [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]; [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]
-> **同行网络主导与中介者转译** 无论在微观课堂评估领域还是宏观学校改进中，一线教师获取实践信息的最主要渠道是同行专业网络，对[[Practice-Based Evidence|实践本位证据]]的信赖度显著高于原始学术报告。学术期刊的直接辐射力有限，知识流动高度依托学校中层领导者、教研员、工会与专业中介机构扮演跨界中介角色，在组织间建立转译与连接的社会资本通道。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Pellegrini_2021_ROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
+> [!claim] Cooper et al. (2017); [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]]
+> **同行网络主导与中介者转译** 无论在微观课堂评估领域还是宏观学校改进中，一线教师获取实践信息的最主要渠道是同行专业网络，对[[Practice-Based Evidence|实践本位证据]]的信赖度显著高于原始学术报告。学术期刊的直接辐射力有限，知识流动高度依托学校中层领导者、教研员、工会与专业中介机构扮演跨界中介角色，在组织间建立转译与连接的社会资本通道。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
 
 > [!finding-cards] 一线教育现场证据流动渠道之实证结论
 > 1. **一线同行网络占据主渠道** 教师在日常教学与课堂评估改进中，最首要的信息搜寻与采纳渠道是校内及校际同行，对实践本位经验的信赖度显著高于学术[[Document|文献]]。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 > 2. **原始学术期刊直接辐射极其有限** 跨国[[Systematic Review|系统综述]]证实正式同行评议期刊是实践者使用频率最低的渠道，去情境化文本存在天然壁垒。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 14)]]
-> 3. **[[Boundary Spanner|跨界中介者]]承担社会资本桥接功能** 证据流动高度依赖中层领导、教研员与专业中介机构扮演跨界中介角色，在学术与实践界域间建立转译与信任通道。[[Argument_Pellegrini_2021_ROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
+> 3. **[[Boundary Spanner|跨界中介者]]承担社会资本桥接功能** 证据流动高度依赖中层领导、教研员与专业中介机构扮演跨界中介角色，在学术与实践界域间建立转译与信任通道。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
 
 ---
 
@@ -341,6 +345,15 @@ updated: 2026-09-14
 
 ---
 
+### 命题六　单纯改写证据与被动中介无法实质改变实践，证据工程化是突破动员困境的有效路径
+
+单纯将研究成果改写为摘要工具包或依赖校内倡导者被动传递，无法克服实践者的转化负荷；知识动员的因果实效取决于将[[Engineered Evidence|证据工程化]]为高结构化工件或法定制度要求。
+
+> [!claim] [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]]
+> **两维度分类与证据工程化突破** 对 323 项文献的因果系统综述表明，无论是提供开放获取的[[Primary and Secondary Documents|原始文献]]，还是分发摘要工具包、设立校内研究领头人（Research Champions），在严格的因果评估中均无法实质改变教师教学行为或提升学生成绩；知识动员的因果成效有赖于跳出单纯的信息传递，推进[[Engineered Evidence|证据工程化]]——将高确定性证据直接封装为标准化教案与操作规程，或依托法定资助准入门槛进行制度性驱动。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 578, 597–600)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -348,9 +361,10 @@ updated: 2026-09-14
 > |---|---|---|---|
 > | **社会共创** | 知识动员为多方协作共创的迭代社会过程，非线性技术输出 | 伙伴关系构建、跨界对话 | Campbell et al. (2017); [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] |
 > | **双向能力** | 动员瓶颈源于研究生产者与使用者的双向能力赤字 | 跨界素养培训、分析性立场确立 | Carrier (2017); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
-> | **网络中介** | 证据流动高度依托同行网络与跨界中介，实践证据优先 | 中介平台运营、教研网络建设 | Cooper et al. (2017); [[Argument_Pellegrini_2021_ROE\|Pellegrini & Vivanet (2021)]] |
+> | **网络中介** | 证据流动高度依托同行网络与跨界中介，实践证据优先 | 中介平台运营、教研网络建设 | Cooper et al. (2017); [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] |
 > | **系统整合** | 知识动员须由机械实施转向以能动性为核心的跨层整合 | 全系统政策设计、治理机制改革 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **嵌套演进** | 知识动员经历线性、关系至系统模型的嵌套演进与生态协同 | 代际政策诊断、全系统使能 | Best & Holmes (2010); [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] |
+> | **工程化转化** | 单纯改写与被动中介无法实质促进行为改变，唯有将证据工程化封装为工件与法定要求才能实现因果成效 | [[Evidence-Based Education\|循证教育]]工具设计、法定教育拨款门槛 | [[Stephen Gorard]]; [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] |
 
 ---
 
@@ -364,9 +378,9 @@ updated: 2026-09-14
 > - **2010s — 知识动员概念兴起与全系统实践** 加拿大社会科学与人文研究理事会（SSHRC）倡导 KMb；安大略省建立 [[Knowledge Network for Applied Education Research|KNAER]] 网络，开创全系统多方协作[[Paradigm|范式]]。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 > - **2015 — 北欧学校改进中的知识动员实践** [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 KMb 引入斯堪的纳维亚 [[Visible Learning]] 改革，阐明证据进入课堂必须依赖教师协作与反思重组。
 > - **2017 — 知识动员四类核心策略系统化** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 在特刊中提炼出沟通传播、能力建设、伙伴关系与系统化方法四类策略及三位一体法则。
-> - **2021 — 欧洲非处方化[[Knowledge Mediation|知识中介]]网络** [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] 总结欧盟教育政策，展示跨国中介机构如何以非强制性方式促进知识共享与评价文化建设。
+> - **2021 — 欧洲非处方化[[Knowledge Mediation|知识中介]]网络** [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] 总结欧盟教育政策，展示跨国中介机构如何以非强制性方式促进知识共享与评价文化建设。
 > - **2022 — 跨国政策调查与[[Evidence Ecosystem|证据生态系统]]治理** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，构建涵盖结构、关系、质量、文化与能力的五维动员框架，揭示学术考核体制与[[Knowledge Co-production|知识共创]]的深层制度断裂。
-> - **2022 — 跨领域动员模型类型学与下一代生态路径** [[Argument_Torres_2022_KMModels|Torres (2022)]] 系统比照卫生、公共治理与教育领域主流知识动员模型（Lavis, Graham, Levin, Gough），提炼出构件交互由孤立管道向双层嵌套生态演进、行动者由一维标签向多维功能复合体演进的双重轨迹；批评既有模型普遍缺失终极目标的缺陷，确立了以学生和教师专业学习为崇高目标基准的下一代生态建构路径。
+> - **2022 — 跨领域动员模型类型学与下一代生态路径** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 系统比照卫生、公共治理与教育领域主流知识动员模型（Lavis, Graham, Levin, Gough），提炼出构件交互由孤立管道向双层嵌套生态演进、行动者由一维标签向多维功能复合体演进的双重轨迹；批评既有模型普遍缺失终极目标的缺陷，确立了以学生和教师专业学习为崇高目标基准的下一代生态建构路径。
 > - **2025 — 产学研协同动员的多重机制** [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] 基于滑铁卢大学 [[Schlegel-UW Research Institute for Aging|RIA]] 案例，证明共同选址、配套资金与联合研发是实现实验室知识向社会快速动员的自增强系统。
 > - **2026 — 从机械实施转向关系与多维整合** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 基于 109 项研究综述，正式确立以[[Teacher Professional Agency|教师能动性]]、信任网络与跨层治理为核心的整合范式。
 
@@ -417,7 +431,7 @@ updated: 2026-09-14
 > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 结合 [[OECD]] 29 国 37 个教育系统政策调查，构建知识流动三代嵌套模型与五维[[Analytic Framework|分析框架]]，揭示学术考核体制与[[Knowledge Co-production|知识共创]]的深层断裂。
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 综合 109 项实证研究，批判线性实施取向，提出以信任、技能、组织结构与关系为核心的跨层整合治理框架。
 > - **[[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]]** 结合加拿大滑铁卢大学 [[Schlegel-UW Research Institute for Aging|RIA]] 案例，论证共同选址与终端嵌入在推动健康研究成果向临床照护快速动员中的机制。
-> - **[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]** 梳理欧盟证据中介组织与[[Educational Brokerage Agency|知识经纪]]网络，展示非处方化协调与跨国同伴学习的知识流动路径。
+> - **[[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]]** 梳理欧盟证据中介组织与[[Educational Brokerage Agency|知识经纪]]网络，展示非处方化协调与跨国同伴学习的知识流动路径。
 > - **[[Argument_Torres_2022_KMModels|Torres, P. (2022)]]** 跨领域系统横向比较四类经典知识动员模型与四类前沿微观补充模型，提炼出构件双层嵌套与行动者多维复合演进规律，并提出确立终极目标等四大未来建构路径。
 > - **Best & Holmes (2010)** 奠定知识动员三代演化模型（线性推送、关系网络、复杂系统）及四维系统构件，奠定教育研发系统思维基础。
 

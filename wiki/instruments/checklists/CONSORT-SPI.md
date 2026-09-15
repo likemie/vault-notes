@@ -9,9 +9,9 @@ aliases:
 summary: "针对社会与心理科学（含教育学、犯罪学与社会工作）复杂随机对照试验的方法学报告规范与偏倚核查清单，在经典医学CONSORT标准基础上深度扩充了复杂干预理论、实施过程评估、对照组常规实践与利益冲突治理规范。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 19
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_count: 21
+instrument_related_level: 4
+instrument_related_stars: "⭐⭐⭐⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -35,6 +35,7 @@ tags:
   - evidence-based-education
   - theme/research-transparency
 related_concepts:
+  - "[[Statistical Analysis Plan]]"
   - "[[Publication Bias]]"
   - "[[Preregistration]]"
   - "[[Clinical Trial]]"
@@ -58,12 +59,13 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[ISRCTN]]"
 related_arguments:
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # CONSORT-SPI
@@ -75,11 +77,11 @@ updated: 2026-09-15
 > [!instrument-profile] CONSORT-SPI
 > - **工具类型** 方法学报告规范与偏倚核查清单（Checklist）。
 > - **开发者与年份** Montgomery et al. (2018)。
-> - **测量目的** 规范社会科学、行为科学、心理学及教育学领域[[Randomised Controlled Trials|随机对照试验]]（RCT）的方案设计、统计分析计划（SAP）及最终评估报告，防范[[Publication Bias|发表偏倚]]与选择性结果报告，提升因果证据的透明度、可复现性与实践迁移效度。
+> - **测量目的** 规范社会科学、行为科学、心理学及教育学领域[[Randomised Controlled Trials|随机对照试验]]（RCT）的方案设计、[[Statistical Analysis Plan|统计分析计划]]（SAP）及最终评估报告，防范[[Publication Bias|发表偏倚]]与选择性结果报告，提升因果证据的透明度、可复现性与实践迁移效度。
 > - **实施方式** 由试验研究团队自查填写、同行评议专家审核，或由资助机构与系统评价员用于核查试验报告要素完整性。
 
 > [!citation-card] 试验报告标准演进与透明度规程
-> 为最大程度降低选择性报告（即排除负面或不利结果所产生的偏倚），[[Education Endowment Foundation|EEF]] 要求每项试验的[[Preregistration|预注册]]方案与统计分析计划（SAP）均须在官方网站发布，并在 ISRCTN 等一级[[Clinical Trial|临床试验]]注册库完成注册。EEF 于 2013 年发布的初代方案与报告模板基于 CONSORT 标准（Shulz et al., 2010），随后持续更新以反映最新的社会与心理干预报告标准（Montgomery et al., 2018）。无论成效如何，EEF 的所有试验结果均无条件公开。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 52)]]
+> 为最大程度降低选择性报告（即排除负面或不利结果所产生的偏倚），[[Education Endowment Foundation|EEF]] 要求每项试验的[[Preregistration|预注册]]方案与统计分析计划（SAP）均须在官方网站发布，并在 [[ISRCTN]] 等一级[[Clinical Trial|临床试验]]注册库完成注册。EEF 于 2013 年发布的初代方案与报告模板基于 CONSORT 标准（Shulz et al., 2010），随后持续更新以反映最新的社会与心理干预报告标准（Montgomery et al., 2018）。无论成效如何，EEF 的所有试验结果均无条件公开。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 52)]]
 >
 > *"For this reason and to minimize selective reporting (i.e., the bias that derives from the exclusion of negative or undesirable results), the EEF requires a prespecified protocol and statistical analysis plan for every trial to be published on its website and the trial registered on ISRCTN registry, a primary clinical trial registry. The first EEF protocol and reporting templates were published in 2013, based on CONSORT standards (Shulz et al., 2010), and have been updated since to reflect changing standards (Montgomery et al., 2018). All EEF’s findings are published, whatever the result (Nevill, 2016)."*
 
@@ -122,8 +124,8 @@ updated: 2026-09-15
 > | **Item 5d** | 实施过程与保真度 | 详述用于监测、测量并维持[[Implementation Fidelity\|实施保真度]]、剂量与参与依从度的具体手段（[[Implementation and Process Evaluation\|实施与过程评估]]） | 区分是“干预本身无效”还是“实施严重走样”导致失败 | Montgomery et al. (2018, p. 8) |
 > | **Item 6a** | 结局指标效度 | 说明测量工具的开发背景、[[Reliability\|信度]]效度及是否对干预存在过度定制敏感性偏倚 | 识别“教测一致”所导致的虚假膨胀效应 | Montgomery et al. (2018, pp. 8–9) |
 > | **Item 13a** | 多层集群受试流程 | 使用多层流程图呈现学校、班级、教师与学生各层级的招募、随机化、分配与[[Attrition\|流失]]分布 | 防范群组试验中隐蔽的差异流失与选择性报告 | Montgomery et al. (2018, p. 9) |
-> | **Item 23** | 试验方案[[Preregistration\|预注册]] | 报告在初次受试者招募前于公共试验注册平台（如 ISRCTN）注册的编号与日期 | 彻底封堵事后篡改主要结局指标的假阳性漏洞 | Montgomery et al. (2018, p. 11) |
-> | **Item 24** | 统计分析计划（SAP） | 说明完整的统计分析计划获取途径，明确主要模型、协[[Variable\|变量]]选取与缺失值处理规程 | 杜绝研究者事后通过 p 值操纵选择有利模型 | Montgomery et al. (2018, p. 12) |
+> | **Item 23** | 试验方案[[Preregistration\|预注册]] | 报告在初次受试者招募前于公共试验注册平台（如 [[ISRCTN]]）注册的编号与日期 | 彻底封堵事后篡改主要结局指标的假阳性漏洞 | Montgomery et al. (2018, p. 11) |
+> | **Item 24** | [[Statistical Analysis Plan\|统计分析计划]]（SAP） | 说明完整的统计分析计划获取途径，明确主要模型、协[[Variable\|变量]]选取与缺失值处理规程 | 杜绝研究者事后通过 p 值操纵选择有利模型 | Montgomery et al. (2018, p. 12) |
 > | **Item 26** | 利益冲突与资助 | 明确披露研究资助方角色、研发者与评估团队的独立性关系及财务/非财务利益冲突 | 落实[[Evaluator Independence\|评估独立性]]，切断研发者学术垄断 | Montgomery et al. (2018, p. 13) |
 
 ---
@@ -135,7 +137,7 @@ updated: 2026-09-15
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | CONSORT-SPI (2018) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）前八年开展的 150 余项学校[[Randomised Controlled Trials\|随机对照试验]]（覆盖 14,000 余所学校与 158 万名学生） | 评估机构规范性与透明度质控标准 | EEF 自 2013 年起强制要求所有资助项目采用基于 CONSORT 建立的方案与报告模板，并在 2018 年与 CONSORT-SPI 标准完全对接；所有试验必须在 ISRCTN [[Preregistration\|预注册]]并在官网公开 SAP；无论结果是否显著均 100% 全量公开，彻底消除学术[[Publication Bias\|发表偏倚]]。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | CONSORT-SPI (2018) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）前八年开展的 150 余项学校[[Randomised Controlled Trials\|随机对照试验]]（覆盖 14,000 余所学校与 158 万名学生） | 评估机构规范性与透明度质控标准 | EEF 自 2013 年起强制要求所有资助项目采用基于 CONSORT 建立的方案与报告模板，并在 2018 年与 CONSORT-SPI 标准完全对接；所有试验必须在 ISRCTN [[Preregistration\|预注册]]并在官网公开 SAP；无论结果是否显著均 100% 全量公开，彻底消除学术[[Publication Bias\|发表偏倚]]。 |
 
 ---
 
@@ -148,5 +150,5 @@ updated: 2026-09-15
 > |---|---|---|---|---|---|
 > | CONSORT 2010 基础版 | 英语（全球） | 医学与临床平行组试验 | 25 项 | 确立医学双盲[[Randomised Controlled Trials\|随机对照试验]]报告金标准 | Schulz et al. (2010) |
 > | CONSORT-SPI 2018 扩展版 | 英语（全球） | 教育学、心理学、社会工作与犯罪学复杂干预试验 | 26 项（含拓展子条目共 37 个核查要素） | 增补[[Theory of Change\|变革理论]]、实施[[Implementation and Process Evaluation\|过程评估]]（IPE）、对照组常规状态描述、多层集群[[Attrition\|流失]]及利益冲突披露要求 | Montgomery et al. (2018) |
-> | [[Education Endowment Foundation\|EEF]] 试验报告与 SAP 模板（2018 修订版） | 英语（英国） | 英格兰公立中小学现场教育干预 RCT | 契合 CONSORT-SPI 的刚性报告模板 | 将 CONSORT-SPI 全面融入 EEF 官方项目交付合同，要求评估团队必须按照此模板提交立项方案、SAP 与最终报告 | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]]; The EEF (2018) |
+> | [[Education Endowment Foundation\|EEF]] 试验报告与 SAP 模板（2018 修订版） | 英语（英国） | 英格兰公立中小学现场教育干预 RCT | 契合 CONSORT-SPI 的刚性报告模板 | 将 CONSORT-SPI 全面融入 EEF 官方项目交付合同，要求评估团队必须按照此模板提交立项方案、[[Statistical Analysis Plan\|SAP]] 与最终报告 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; The EEF (2018) |
 

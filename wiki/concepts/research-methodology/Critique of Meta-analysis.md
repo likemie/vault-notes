@@ -5,7 +5,7 @@ aliases:
 summary: "围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系，涵盖研究可比性、输入质量、发表偏倚、过度简化、统计推断、领域迁移、抽样伦理和平均效应误导等问题"
 type: concept
 domain: "research-methodology"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Business as Usual]]"
   - "[[Research Purpose]]"
+  - "[[Lesson Study]]"
   - "[[Visible Learning]]"
   - "[[Epistemology]]"
   - "[[Informed Consent]]"
@@ -62,7 +63,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Berk_2011_ER]]"
@@ -130,7 +131,7 @@ updated: 2026-09-15
 ##### 可比性问题的具体表现
 
 > [!critique] 看似客观的数字背后——语音教学的三项元分析对比
-> 元分析产出一个精确的效应量数字，给人以客观的印象。但同一主题的不同元分析可能得出不同的汇总效应量，差异来自研究者在[[Research Question|研究问题]]、纳入标准和分析程序上的选择。以语音教学为例（[[Argument_Higgins_2016_RE|Higgins, 2016, p.32]]）：
+> 元分析产出一个精确的效应量数字，给人以客观的印象。但同一主题的不同元分析可能得出不同的汇总效应量，差异来自研究者在[[Research Question|研究问题]]、纳入标准和分析程序上的选择。以语音教学为例（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.32]]）：
 >
 > | 元分析 | 汇总效应量 | 各自的调节变量结论 |
 > |--------|-----------|------------------|
@@ -141,10 +142,10 @@ updated: 2026-09-15
 > 三项元分析研究的是同一个干预，但汇总效应量从 0.27 到 0.41 不等。差异不是来自随机误差，而是来自研究者对"什么算语音教学""纳入哪些研究""如何处理质量差异"等问题的不同判断。数字背后嵌入了研究者的分类选择和纳入决定。
 
 > [!critique] 三种效果量不可混为一谈
-> [[Argument_Higgins_2016_RE|Higgins（2016, p.44）]]指出干预效果（相对于比较组的改善）应区别于成熟差异（单组设计）。相关效果（如[[Homework|作业]]与[[Academic Achievement|学业表现]]之间的关系）与干预效果（有作业与无作业的比较）本质不同。这些研究中教育成就的底部分布可能不同，使比较失去意义。
+> [[Argument_Higgins_2016_ROE|Higgins（2016, p.44）]]指出干预效果（相对于比较组的改善）应区别于成熟差异（单组设计）。相关效果（如[[Homework|作业]]与[[Academic Achievement|学业表现]]之间的关系）与干预效果（有作业与无作业的比较）本质不同。这些研究中教育成就的底部分布可能不同，使比较失去意义。
 
 > [!critique] [[Homework|家庭作业]]的分类困境
-> [[Argument_Higgins_2016_RE|Higgins（2016, pp.37–38）]]以家庭作业为例说明术语模糊性问题：五岁儿童带书回家与父母共读、在家背单词、在"作业俱乐部"中做作业（实际在学校）、为课堂做预习阅读、为考试背乘法表、在家完成考试课程作业——这些是否都是同一回事？如果合并所有这些研究得出"作业有效"，这并不意味着作业总是有效的，而是表明当人们试验作业是否有效时大体答案是肯定的。
+> [[Argument_Higgins_2016_ROE|Higgins（2016, pp.37–38）]]以家庭作业为例说明术语模糊性问题：五岁儿童带书回家与父母共读、在家背单词、在"作业俱乐部"中做作业（实际在学校）、为课堂做预习阅读、为考试背乘法表、在家完成考试课程作业——这些是否都是同一回事？如果合并所有这些研究得出"作业有效"，这并不意味着作业总是有效的，而是表明当人们试验作业是否有效时大体答案是肯定的。
 
 ---
 
@@ -214,7 +215,7 @@ updated: 2026-09-15
 > **伪精确性与程序无效性** Wolf 的第六项批评警告：元分析表面上的客观性和精确性可能掩盖了纳入研究中的程序无效性，从而产生"有害后果"（p.16）。看似中立的数字可能被用来为有缺陷的研究结论背书（pp.168–169）。
 
 > [!critique] 嵌套数据结构与[[Sample Size Determination|样本量]]偏差
-> 学校中学生的嵌套或聚类结构常未被考虑。学生在班级中，班级在学校中，不考虑这一点可能导致效果被高估（Campbell et al., 2012; Raudenbush, 1997）。此外，较大型研究报告较小的效果，样本量与效应量之间的相关系数为 –0.28（Cheung & Slavin, 2015; Slavin & Smith, 2009）。这种变异究竟来自[[Publication Bias|发表偏差]]、试验类型和阶段的影响，还是超级实现偏差（Cronbach et al., 1980）的其他方面，尚不清楚（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.40, 48]]）。
+> 学校中学生的嵌套或聚类结构常未被考虑。学生在班级中，班级在学校中，不考虑这一点可能导致效果被高估（Campbell et al., 2012; Raudenbush, 1997）。此外，较大型研究报告较小的效果，样本量与效应量之间的相关系数为 –0.28（Cheung & Slavin, 2015; Slavin & Smith, 2009）。这种变异究竟来自[[Publication Bias|发表偏差]]、试验类型和阶段的影响，还是超级实现偏差（Cronbach et al., 1980）的其他方面，尚不清楚（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp.40, 48]]）。
 
 ---
 
@@ -262,7 +263,7 @@ updated: 2026-09-15
 >
 > > "如何为[[Research Purpose|研究目的]]清晰区分一个'以教师为中心'和一个'以学生为中心'的课堂？在比较它们时，如何在一个嘈杂繁忙、可能有 30 多个参与者的课堂中控制所有变量？"
 >
-> 经过四十年课堂细粒度研究，Graham Nuthall（2007, p.16）得出结论：虽然有大量已发表的教育研究报告，但"在识别那些对课堂教学有值得信赖的内容的研究时，你需要非常有选择性"（[[Argument_Snook_2010_NZJES|Snook et al., 2010, p.97]]）。Snook et al. 以 Nuthall 的 *The Hidden Lives of Learners*（基于数十年新西兰课堂研究）与 Hattie 的《[[Visible Learning|可见的学习]]》（基于国际元分析）的书名对比，暗示两者在[[Epistemology|认识论]]取向上存在本质差异。
+> 经过四十年课堂细粒度研究，Graham Nuthall（2007, p.16）得出结论：虽然有大量已发表的教育研究报告，但"在识别那些对课堂教学有值得信赖的内容的研究时，你需要非常有选择性"（[[Argument_Snook_2010_NZJES|Snook et al., 2010, p.97]]）。Snook et al. 以 Nuthall 的 *The Hidden Lives of Learners*（基于数十年新西兰[[Lesson Study|课堂研究]]）与 Hattie 的《[[Visible Learning|可见的学习]]》（基于国际元分析）的书名对比，暗示两者在[[Epistemology|认识论]]取向上存在本质差异。
 >
 > 这一批评的核心在于：元分析在医学中成功运作的条件（概念清晰、设计标准化、机制可分离）在教育领域经常不成立——这不是方法论执行缺陷的问题，而是方法本身与研究对象之间的基础性不匹配。
 
@@ -390,7 +391,7 @@ updated: 2026-09-15
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] — 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例追踪[[Meta-meta-analysis|元-元分析]]的三级失真过程。
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 提出 11 点评估清单，以 Kluger & DeNisi 反馈元分析展示平均效应的误导性。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对元分析和元-元分析的系统方法论批判。
-> - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 从支持者立场提供元分析的方法论回顾，包含可比性案例和嵌套数据问题。
+> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 从支持者立场提供元分析的方法论回顾，包含可比性案例和嵌套数据问题。
 > - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 通过[[Whole Language|全语言]]案例审查揭示元-元分析中的分类错误和选择性修正。
 > - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 识别元-元分析中跨教育阶段混合综合导致的排名扭曲。
 > - [[Meta-analysis]] — 方法定义、操作步骤和适用场景，其局限性章节已整合至本条目。

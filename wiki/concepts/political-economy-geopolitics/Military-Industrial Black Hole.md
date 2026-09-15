@@ -24,7 +24,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-09-16
 ---
 
 # Military-Industrial Black Hole
@@ -68,5 +68,5 @@ updated: 2026-06-12
 > [!stat-cards]-
 > - **三分之二** 1980年代军工占苏联工业生产的比例。
 > - **15–25%** 军工占苏联 GNP 的比例，同期美峰值 6.6%。
-> - **~10,000** 仅反导弹研究所拥有的科学家数量。
+> - **≈ 10,000** 仅反导弹研究所拥有的科学家数量。
 > - **70%** 军工企业产值占全部工业产值的约比例。

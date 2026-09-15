@@ -52,7 +52,7 @@ related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
-  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
@@ -146,11 +146,11 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 排名作为空间制造
 
-[[Argument_Marginson_2025_ROE|Marginson (2025)]]将全球大学排名的创建定位为[[Space-Making|高等教育空间制造]]的典型案例。2002/2003 年，一位中国大学规划者和一家伦敦杂志构想了一个以校准绩效排名来排序的大学世界——[[Academic Ranking of World Universities|ARWU]] 由此诞生。这一构想结合了：（a）物质元素（既有研究产出数据、大学声誉层级）；（b）空间想象（一个可比较、可竞争的全球大学市场）；（c）社会实践（数据收集、指标加权和年度排名发布），将一种特定版本的"世界一流大学"想象固化为全球制度现实([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 4–5]])。
+[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]将全球大学排名的创建定位为[[Space-Making|高等教育空间制造]]的典型案例。2002/2003 年，一位中国大学规划者和一家伦敦杂志构想了一个以校准绩效排名来排序的大学世界——[[Academic Ranking of World Universities|ARWU]] 由此诞生。这一构想结合了：（a）物质元素（既有研究产出数据、大学声誉层级）；（b）空间想象（一个可比较、可竞争的全球大学市场）；（c）社会实践（数据收集、指标加权和年度排名发布），将一种特定版本的"世界一流大学"想象固化为全球制度现实([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 4–5]])。
 
 ### 排名与国际教育的循环效应
 
-[[Argument_Marginson_2025_ROE|Marginson (2025)]]以澳大利亚为案例揭示了排名与国际学生市场之间的自我强化循环：澳大利亚大学以国际学生费用资助了约四分之一的大学科研，提升了研究产出和排名；排名的提升又强化了其在全球学生市场中的招生吸引力，从而维持了费用收入和排名位置。"全球排名维持了澳大利亚在全球学生市场中的招生，这又维持了排名——一种循环效应"([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 19]])。2019 年，人口仅 2500 万的澳大利亚有 7 所大学进入 ARWU 前 100 名，高引用论文比例与英国持平。
+[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]以澳大利亚为案例揭示了排名与国际学生市场之间的自我强化循环：澳大利亚大学以国际学生费用资助了约四分之一的大学科研，提升了研究产出和排名；排名的提升又强化了其在全球学生市场中的招生吸引力，从而维持了费用收入和排名位置。"全球排名维持了澳大利亚在全球学生市场中的招生，这又维持了排名——一种循环效应"([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 19]])。2019 年，人口仅 2500 万的澳大利亚有 7 所大学进入 ARWU 前 100 名，高引用论文比例与英国持平。
 
 ---
 

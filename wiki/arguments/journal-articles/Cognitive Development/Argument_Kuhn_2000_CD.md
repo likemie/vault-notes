@@ -36,6 +36,7 @@ related_theories:
   - "[[Theory of Mind]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Sample Size Determination]]"
   - "[[In-depth Interview]]"
 related_instruments:
   - "[[Epistemological Understanding Assessment]]"
@@ -48,14 +49,14 @@ sources:
 part_of:
 status: active
 created: 2026-08-16
-updated: 2026-08-17
+updated: 2026-09-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kuhn_2000_CD"
 argument_key: "Argument_Kuhn_2000_CD"
 argument_display_title: "The development of epistemological understanding"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -120,8 +121,8 @@ issuing_organization: ""
 > | **访谈验证／儿童组测验**<br>One-on-one Interview | 研究一针对 5 年级以上及成人使用纸笔测试；研究二为验证向多元论过渡的最早阶段，对 21 名 2-3 年级儿童进行了详细的口头理解和追问访谈。 |
 
 > [!stat-cards]- 样本构成
-> - **测试群组（研究一）** N=129。含 5 年级（n=20，中位年龄10岁）、8 年级（n=25）、12 年级（n=21）、顶尖大学本科生（n=20）、内城区社区大学成人（n=20）、商学院高级管理人员工商管理硕士（Executive Master of Business Administration, EMBA）职场精英（n=18）、教育哲学专业博士候选人专家组（n=5）。
-> - **测试群组（研究二）** N=21。私立学校课后项目中的 2-3 年级儿童（7-8岁）。
+> - **129** 研究一测试群组的[[Sample Size Determination|样本量]]（N），含 5 年级（n=20，中位年龄10岁）、8 年级（n=25）、12 年级（n=21）、顶尖大学本科生（n=20）、内城区社区大学成人（n=20）、商学院高级管理人员工商管理硕士（Executive Master of Business Administration, EMBA）职场精英（n=18）、教育哲学专业博士候选人专家组（n=5）。
+> - **21** 研究二测试群组的样本量（N），私立学校课后项目中的 2-3 年级儿童（7-8岁）。
 
 根据五个领域的知识特性设计的评估题项如下：
 

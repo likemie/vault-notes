@@ -11,7 +11,7 @@ summary: "同时操纵两个或多个自变量以检验主效应与交互效应�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_theories:
   - "[[Theory of Change]]"
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Multi-Arm Trial]]"
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
@@ -46,7 +47,9 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Pre-test and Post-test]]"
   - "[[Analysis of Variance]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Standard Error]]"
   - "[[Sample Size Determination]]"
   - "[[True Experimental Design]]"
@@ -54,14 +57,15 @@ related_methods:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 related_facts:
+  - "[[Literacy Octopus]]"
   - "[[Education Endowment Foundation]]"
   - "[[Research Schools Network]]"
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 # Factorial Design
 
@@ -70,7 +74,7 @@ updated: 2026-09-15
 > [!def] 因子设计
 > **因子设计（Factorial Design，亦称析因设计）**是[[Experimental Research|实验研究]]中同时操纵两个或多个[[Independent Variable|自变量]]（因子），以检验每个自[[Variable|变量]]的独立主效应（Main Effects）以及自变量之间[[Interaction Effect|交互效应]]（Interaction Effects）的高级实验设计类型（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。其命名基于因子数量与水平数——例如 $2 \times 2$ 因子设计表示两个自变量各包含两个水平，形成 4 种正交的处理组合。
 >
-> 因子设计在组织结构上通常表现为一种特化的[[Multi-Arm Trial|多臂试验]]（Multi-Arm Trial），但其核心方法学本质在于揭示**条件性[[Causality|因果关系]]**——即某一自变量的干预效应是否依赖于另一自变量（或环境背景）的特定水平（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 323–324]]）。在第二代[[Evidence-Based Education|循证教育]]与[[Realist Evaluation|现实主义试验]]中，析因设计与多臂试验构成了打破复杂干预“因果黑箱”的核心方法学利器，使得研究者能够系统解构多组分方案，分别及组合检验干预组件的离散效能与协同机制（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
+> 因子设计在组织结构上通常表现为一种特化的[[Multi-Arm Trial|多臂试验]]（Multi-Arm Trial），但其核心方法学本质在于揭示**条件性[[Causality|因果关系]]**——即某一自变量的干预效应是否依赖于另一自变量（或环境背景）的特定水平（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 323–324]]）。在第二代[[Evidence-Based Education|循证教育]]与[[Realist Evaluation|现实主义试验]]中，析因设计与多臂试验构成了打破复杂干预“因果黑箱”的核心方法学利器，使得研究者能够系统解构多组分方案，分别及组合检验干预组件的离散效能与协同机制（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 被[[Random Assignment|随机分配]]至各因子水平组合的个体受试者或集群单位（如学校、班级）。
@@ -90,7 +94,7 @@ updated: 2026-09-15
 > [!method-stack] 方法层级
 > - **研究设计** 真实验或[[Cluster Randomized Trials|集群随机对照试验]]（Cluster [[Randomised Controlled Trials|RCT]]）——多因子正交交叉，[[Random Assignment|随机分配]]至各实验臂。
 > - **数据收集** 独立基线与多阶段[[Pre-test and Post-test|后测]]数据，同步采集次要结局指标与过程[[Variable|变量]]。
-> - **分析方法** 析因[[Analysis of Variance|方差分析]]（ANOVA）、多水平线性模型（HLM）及中介调节效应建模。
+> - **分析方法** 析因[[Analysis of Variance|方差分析]]（ANOVA）、多水平线性模型（[[Hierarchical Linear Model|HLM]]）及中介调节效应建模。
 > - **辅助工具** 正交试验生成表、交互效应图（Interaction Plots）及[[Implementation Fidelity|实施保真度]]监测规程。
 
 ---
@@ -116,8 +120,8 @@ updated: 2026-09-15
 > 1. **[[Theory of Change|变革理论]]要素解构** 基于因果理论模型，将复合教育干预拆解为独立的[[Hypothesis|假设]]驱动因子（如因子 A：技术软件自学；因子 B：教师面对面主导辅导）。
 > 2. **构建正交多臂分配矩阵** 设立 $2 \times 2$ 实验臂（A处理、B处理、A+B组合处理、[[Business as Usual|常态教学]]对照组），在[[Cluster Randomized Trials|集群随机对照试验]]中分配学校或班级。
 > 3. **嵌入[[Implementation and Process Evaluation|实施与过程评估]]（IPE）** 对各实验臂的[[Implementation Fidelity|实施保真度]]（Fidelity）、师生顺应度与常态对照基线活动进行同步定性追踪，严防组间交叉污染。
-> 4. **主效应与交互效应多水平建模** 采用分层线性模型（HLM）控制学校集群效应，分别估计离散组件的净效应与组合交互效应。
-> 5. **中介路径与机制验证** 引入中间机制度量，量化验证特定要素如何通过路径变量向终极学业产出传导（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）。
+> 4. **主效应与交互效应多水平建模** 采用[[Hierarchical Linear Model|分层线性模型]]（HLM）控制学校集群效应，分别估计离散组件的净效应与组合交互效应。
+> 5. **中介路径与机制验证** 引入中间机制度量，量化验证特定要素如何通过路径变量向终极学业产出传导（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）。
 
 > [!def] [[Interaction Effect|交互效应]]
 > 当两个或多个自变量同时作用于因变量时，一个自变量的效应**依赖于**另一个自变量的水平。以性别 × 年龄对数学学习动机的影响为例：男女之间的动机差异不是恒定的，而是随年龄发生非线性变化。因子设计特别适合检验此类条件依存性，这是其区别于单因子实验的决定性优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 324]]）。
@@ -129,7 +133,7 @@ updated: 2026-09-15
 > [!info] 方差分解与多水平析因建模
 > 因子设计的统计分析核心是总方差的正交分解——总变异被分解为各因子主效应平方和、因子间[[Interaction Effect|交互效应]]平方和以及组内误差平方和。
 > - **交互效应的图示诊断** 边际均值图中的线条不平行是存在交互效应的重要视觉指征。若交叉项显著，主效应的解释必须进行条件限制——不能断言“干预 A 有效”，而应准确表述为“干预 A 的成效取决于干预 B 是否同步实施”。
-> - **现场试验的多水平校正** 在以学校为单位开展的多臂现场试验中，个体嵌套于班级和学校，必须采用多水平模型（HLM）校正群内相关系数（ICC），避免[[Standard Error|标准误]]低估造成[[Type I and Type II Errors|第一类错误]]（伪显著）。
+> - **现场试验的多水平校正** 在以学校为单位开展的多臂现场试验中，个体嵌套于班级和学校，必须采用[[Hierarchical Linear Model|多水平模型]]（HLM）校正[[Intraclass Correlation Coefficient|群内相关系数]]（ICC），避免[[Standard Error|标准误]]低估造成[[Type I and Type II Errors|第一类错误]]（伪显著）。
 
 ---
 
@@ -153,8 +157,8 @@ updated: 2026-09-15
 
 ## 典型案例
 
-> [!case] 复杂干预组件剥离：从单维度黑箱走向多臂析因现场试验（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 53–54]]）
-> - **案例一：“识字八爪鱼”多臂试验（Literacy Octopus Trial）** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）动员全英 800 余所小学开展多臂试验（Lord et al., 2017），设置多个正交实验臂系统比对了 4 种证据传播与教学支持策略（涵盖被动邮件与资料寄送、主动研讨会培训以及专家入校深度辅导）。试验最终证实，单向被动寄送循证材料对学生成绩的净效应完全为零，有力推翻了“只要把研究报告寄到学校就能改善教学”的经验[[Hypothesis|假设]]，倒逼英格兰重构基于人际互动与校际协作的[[Research Schools Network|研究学校网络]]。
+> [!case] 复杂干预组件剥离：从单维度黑箱走向多臂析因现场试验（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）
+> - **案例一：“[[Literacy Octopus|识字八爪鱼]]”[[Multi-Arm Trial|多臂试验]]（Literacy Octopus Trial）** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）动员全英 800 余所小学开展多臂试验（Lord et al., 2017），设置多个正交实验臂系统比对了 4 种证据传播与教学支持策略（涵盖被动邮件与资料寄送、主动研讨会培训以及专家入校深度辅导）。试验最终证实，单向被动寄送循证材料对学生成绩的净效应完全为零，有力推翻了“只要把研究报告寄到学校就能改善教学”的经验[[Hypothesis|假设]]，倒逼英格兰重构基于人际互动与校际协作的[[Research Schools Network|研究学校网络]]。
 > - **案例二：ABRA 在线阅读支持多臂析因试验** 在 ABRA 数字化阅读干预试验中（McNally et al., 2018），评估团队采用析因逻辑系统剥离了“教育软件[[Learner Autonomy|自主学习]]”与“教师面对面辅导”两个核心要素，分别检验了单一软件处理、单一教师辅导以及两者结合的离散成效，精准揭示了技术工具必须与教师专业支架深度协同方能释放因果效能的交互机制。
 
 ---
@@ -169,7 +173,7 @@ updated: 2026-09-15
 > | [[Multi-Arm Trial]] | 组织形式 | 因子设计在实验臂架构上所属的广义多臂试验大类，因子设计为其特化的正交交叉形态。 |
 > | [[Interaction Effect]] | 核心概念 | 因子设计的最核心检验对象就是因子间的条件性交互效应。 |
 > | [[Realist Evaluation]] | 理论[[Paradigm\|范式]] | [[Realism in International Relations\|现实主义]]试验的核心操作工具，通过析因设计检验组件独立效应与情境交互。 |
-> | [[Implementation and Process Evaluation]] | 互补方法 | 过程评估用于监测析因各实验臂的现场[[Implementation Fidelity|实施保真度]]，防止组间交叉污染。 |
+> | [[Implementation and Process Evaluation]] | 互补方法 | 过程评估用于监测析因各实验臂的现场[[Implementation Fidelity\|实施保真度]]，防止组间交叉污染。 |
 > | [[Solomon Four-Group Design]] | 特殊案例 | 所罗门四组设计本质上是处理因素 × 前测因素的 $2 \times 2$ 因子设计。 |
 > | [[Analysis of Variance]] | 统计工具 | 方差分析与方差分解是因子设计标准的数据分析与[[Hypothesis\|假设]]检验方法。 |
 
@@ -178,7 +182,7 @@ updated: 2026-09-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 探讨多臂与析因设计在全英大规模复杂教育干预评估中的机制剥离价值，援引“识字八爪鱼”多臂试验与 ABRA 在线阅读试验。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 探讨多臂与析因设计在全英大规模复杂教育干预评估中的机制剥离价值，援引“[[Literacy Octopus|识字八爪鱼]]”[[Multi-Arm Trial|多臂试验]]与 ABRA 在线阅读试验。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 以 $2 \times 4$ 混合因子设计为例，系统示范因子间主效应与[[Interaction Effect|交互效应]]的统计检验程序。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统阐释 $3 \times 3$ 因子设计的正交组合逻辑，并结合交互效应图示示范条件性[[Causality|因果推断]]。
 

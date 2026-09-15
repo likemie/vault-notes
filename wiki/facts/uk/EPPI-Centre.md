@@ -63,7 +63,7 @@ related_facts:
   - "[[Research Schools Network]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
 confidence: high
 status: active
@@ -78,10 +78,10 @@ updated: 2026-09-14
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 政策与实践证据信息协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre, EPPI-Centre）是 1995 年设于伦敦大学学院教育学院（UCL Institute of Education, IOE）的学术型证据中介旗舰机构，开创了教育与社会政策领域的[[Systematic Review|系统综述]]（Systematic Review）方法论，并在[[OECD|经合组织]]（OECD）十五年纵向追踪中被确立为少数抵御财政与政治周期冲击、实现长效存续的高校锚定型[[Knowledge Mediation|知识中介]]典范([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57, 64]]; [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 33]])。
+> 政策与实践证据信息协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre, EPPI-Centre）是 1995 年设于伦敦大学学院教育学院（UCL Institute of Education, IOE）的学术型证据中介旗舰机构，开创了教育与社会政策领域的[[Systematic Review|系统综述]]（Systematic Review）方法论，并在[[OECD|经合组织]]（OECD）十五年纵向追踪中被确立为少数抵御财政与政治周期冲击、实现长效存续的高校锚定型[[Knowledge Mediation|知识中介]]典范([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57, 64]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 33]])。
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1995 年由安·奥克利（Ann Oakley）等学者依托 UCL 教育学院社会科学研究部（Social Science Research Unit, SSRU）创建，初期以循证医学为蓝本开展卫生保健综述，随后迅速拓展至初等与中等教育、社会照护、就业及国际发展等广阔领域([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 33]])。
+> - **成立时间 / 创设背景** 1995 年由安·奥克利（Ann Oakley）等学者依托 UCL 教育学院社会科学研究部（Social Science Research Unit, SSRU）创建，初期以循证医学为蓝本开展卫生保健综述，随后迅速拓展至初等与中等教育、社会照护、就业及国际发展等广阔领域([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 33]])。
 > - **总部地点 / 业务辐射** 英国伦敦；业务深度融入英国中央政府、地方教育当局，并作为欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in Education in Europe, [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]）的核心发起方与协调枢纽辐射全球。
 > - **法人属性与经费依托** 依托顶尖大学学术机构设立的非营利专业研究中心；经费采取“政府经常性专项合同 $+$ 国家科研理事会（如 ESRC）竞争性课题 $+$ 国际组织委托（WHO、OECD） $+$ 软件商业授权许可”的多元混合资助模式，成功规避了单一政府部门换届撤资的致命脆弱性([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
 > - **核心宗旨与法定职责** 研制适应复杂社会系统的系统综述新方法，生产高严谨性跨领域实证证据综合成果，为政策制定者、专业实践者与公众提供[[Research Utilization|证据使用]]指南，深入探究证据进入政策与基层决策的互动机制。
@@ -91,8 +91,8 @@ updated: 2026-09-14
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **1995 — 创设与方法奠基期** 在 UCL IOE 正式成立，以医学循证综合为[[Paradigm|范式]]参照，开创适应教育与社会科学特性的[[Systematic Review|系统综述]]规程，开发质性证据综合（Qualitative Evidence Synthesis）与主题综合方法([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 33]])。
-> - **1999–2000 — 纳入国家循证政策基础设施** 英国工党政府大力推进“循证公共决策”（Evidence-Based Policy），出资设立国家证据中心网络，EPPI-Centre 正式确立为国家级[[Evidence-Based Education|循证教育]]与社会关怀核心支撑平台([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 31]])。
+> - **1995 — 创设与方法奠基期** 在 UCL IOE 正式成立，以医学循证综合为[[Paradigm|范式]]参照，开创适应教育与社会科学特性的[[Systematic Review|系统综述]]规程，开发质性证据综合（Qualitative Evidence Synthesis）与主题综合方法([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 33]])。
+> - **1999–2000 — 纳入国家循证政策基础设施** 英国工党政府大力推进“循证公共决策”（Evidence-Based Policy），出资设立国家证据中心网络，EPPI-Centre 正式确立为国家级[[Evidence-Based Education|循证教育]]与社会关怀核心支撑平台([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 31]])。
 > - **2007–2010s — 探索关系型中介与发起 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国网络** 面对单纯[[Document|文献]]线性推送在推动实践变革上的局限，中心由[[David Gough|戴维·高夫]]（David Gough）等人牵头，发起联合欧盟多国的 EIPPEE 计划，主动由单向文献分发转向多方参与式综述（Participatory Reviews）、决策者能力建设及“中介的中介”元协调生态([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 64, 67–68]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]])。
 > - **2020s — 数字化基础设施与纵向存续标杆** 持续升级 EPPI-Reviewer 智能系统综述协作软件；在[[OECD|经合组织]]回顾 2007 年确立的 6 家国际标杆中介机构时，EPPI-Centre 与美国 [[What Works Clearinghouse|WWC]] 成为仅有的两家保持持续完全活跃的机构([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
 
@@ -140,9 +140,9 @@ updated: 2026-09-14
 > - **推动“中介的中介”元治理实践** 牵头搭建 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国网络，率先在全球倡导中介机构不应各自为战，而应开展“综述的综述”（Reviews of Reviews）并联合进行二阶证据中介，成为当代[[Knowledge Mobilisation|知识动员]]元治理的实践先驱([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 67–68]])。
 
 > [!stat-cards]- 标志性数据与存续指标
-> - **1995 年** 创立，至今平稳运行超过 **30 年**，是全球连续活跃时间最悠久的专业证据综合中介机构之一
-> - **1/3 存活率幸存者** 在 [[OECD]] 2007 年确立的 6 大国际标杆样本中，成为唯二保持全功能运行的幸存机构之一([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])
-> - **数千项** 全球教育与社会科学系统综述依托其研发的 EPPI-Reviewer 平台完成
+> - **1995** 创立年份，至今平稳运行超过 30 年，是全球连续活跃时间最悠久的专业证据综合中介机构之一
+> - **1/3** 在 [[OECD]] 2007 年确立的 6 大国际标杆样本中保持全功能运行的机构存活比例，为唯二幸存机构之一([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])
+> - **数千** 依托其研发的 EPPI-Reviewer 平台完成的全球教育与社会科学系统综述数量（项）
 
 ---
 
@@ -153,7 +153,7 @@ updated: 2026-09-14
 > > [!axis] 证据综合标准化与[[External Validity|外部效度]]（External Validity）的内在张力
 > > 探讨基于多国研究综合提炼出的普适性证据，在多大程度上能够直接指导不同国家与微观学校的复杂决策。
 > >
-> > - **外部批判观点** [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] 等学者指出，EPPI-Centre 虽然有效解决了证据可及性与审查严谨性，但无法自动保障研究结论的外部效度。若将脱离特定制度情境的综合证据直接作为通用指南推行，极易遭遇地方微观教学实际的排异反应。
+> > - **外部批判观点** [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] 等学者指出，EPPI-Centre 虽然有效解决了证据可及性与审查严谨性，但无法自动保障研究结论的外部效度。若将脱离特定制度情境的综合证据直接作为通用指南推行，极易遭遇地方微观教学实际的排异反应。
 > > - **机构方法回应** 中心大力开发主题综合与实施环境分析模块，强调综述报告必须系统呈现干预在不同社会阶层、文化背景与制度条件下的[[Heterogeneity|异质性]]表现。
 >
 > > [!axis] 关系型中介与全系统生态网络（Ecosystem）的距离

@@ -55,7 +55,7 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-14
@@ -75,7 +75,7 @@ updated: 2026-09-15
 > - **实施方式** 由干预研发者在编制试验方案与协议时对照填写，或由评估者、同行评议专家及[[Systematic Review|系统综述]]员用于审核方案描述透明度与[[Implementation Fidelity|实施保真度]]。
 
 > [!citation-card] 破解干预黑箱与实施保真度报告规程
-> 早期教育试验往往由于缺乏高质量的[[Implementation and Process Evaluation|实施与过程评估]]（IPE），导致无法解释结果背后的因果机制或描述现场实施情况。为此，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）委托曼彻斯特大学开展系统[[Literature Review|文献综述]]（Humphrey et al., 2016），并制定指导方针，明确将 TIDieR 核查指南（Hoffmann et al., 2014）引入教育试验，强调详尽记录干预各组分、对照组常规活动、因果机制与遵从度的极端重要性。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 53)]]
+> 早期教育试验往往由于缺乏高质量的[[Implementation and Process Evaluation|实施与过程评估]]（IPE），导致无法解释结果背后的因果机制或描述现场实施情况。为此，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）委托曼彻斯特大学开展系统[[Literature Review|文献综述]]（Humphrey et al., 2016），并制定指导方针，明确将 TIDieR 核查指南（Hoffmann et al., 2014）引入教育试验，强调详尽记录干预各组分、对照组常规活动、因果机制与遵从度的极端重要性。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 53)]]
 >
 > *"For this reason, in 2014, the EEF commissioned a literature review by Manchester University of IPE for education interventions (Humphrey et al., 2016) which informed guidance highlighting the importance of a detailed intervention description (Hoffman et al., 2014) and high-quality data on implementation, compliance, control group activity, causal mechanisms, and cost."*
 
@@ -135,7 +135,7 @@ updated: 2026-09-15
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] | TIDieR (2014) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）方法学指南体系 | 复杂教育干预方案标准化解构与复现核查 | EEF 采纳曼彻斯特大学评估综述（Humphrey et al., 2016），自 2014 年起正式将 TIDieR 规定为所有立项干预必须填写的标准模板，强制要求清晰界定因果[[Theory of Change\|变革理论]]、对照组活动、现场遵从度与剂量数据，推动了全英教育试验向[[Realist Evaluation\|现实主义试验]]（Realist Trials）演进。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | TIDieR (2014) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）方法学指南体系 | 复杂教育干预方案标准化解构与复现核查 | EEF 采纳曼彻斯特大学评估综述（Humphrey et al., 2016），自 2014 年起正式将 TIDieR 规定为所有立项干预必须填写的标准模板，强制要求清晰界定因果[[Theory of Change\|变革理论]]、对照组活动、现场遵从度与剂量数据，推动了全英教育试验向[[Realist Evaluation\|现实主义试验]]（Realist Trials）演进。 |
 
 ---
 
@@ -147,5 +147,5 @@ updated: 2026-09-15
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | TIDieR 原始版（2014） | 英语（全球） | 医学、临床护理、行为心理与公共卫生复杂干预 | 12 项 | 拓展 CONSORT 2010 第 5 条与 SPIRIT 2013 第 11 条，系统确立干预方案描述国际金标准 | Hoffmann et al. (2014) |
-> | [[Education Endowment Foundation\|EEF]] 试验方案干预描述标准版 | 英语（英国） | 英格兰公立中小学现场教育[[Intervention Research\|干预研究]]团队与方案研发者 | 契合 TIDieR 的 12 项定制模板 | 全面融入 EEF 官方《实施与过程评估指南》（The EEF, 2019b），要求在立项[[Preregistration\|预注册]]方案与结项报告中必须逐项提供 TIDieR 附录 | [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]]; Humphrey et al. (2016) |
+> | [[Education Endowment Foundation\|EEF]] 试验方案干预描述标准版 | 英语（英国） | 英格兰公立中小学现场教育[[Intervention Research\|干预研究]]团队与方案研发者 | 契合 TIDieR 的 12 项定制模板 | 全面融入 EEF 官方《实施与过程评估指南》（The EEF, 2019b），要求在立项[[Preregistration\|预注册]]方案与结项报告中必须逐项提供 TIDieR 附录 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; Humphrey et al. (2016) |
 

@@ -22,9 +22,9 @@ tags:
   - level/secondary-education
   - method/longitudinal-study
 related_concepts:
-  - "[[Science Capital]]"
   - "[[Attrition]]"
   - "[[Practical Inquiry in Science Education]]"
+  - "[[Science Capital]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 related_facts:
@@ -34,7 +34,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-09-16
 ---
 
 # UK Science Education Tracker
@@ -55,9 +55,9 @@ updated: 2026-08-23
 
 > [!stat-cards]- 核心纵向数据（SET 2016–2023）
 > - **44% → 37% → 26%** 英格兰 14–16 岁中学生中，至少每两周进行一次动手实验操作的比例在七年内暴跌 18 个百分点，实证探究课时面临腰斩式衰减。（p. 33）
-> - **43% 教师报告师资短缺** 43% 的科学教师明确指出物理、数学等专业对口师资的匮乏直接损害了学生的学习质量。（p. 35）
-> - **[[Science Capital|科学资本]]阶层落差** 高社会经济地位家庭学生的科学抱负显著高于弱势背景同龄人，且在课外科技活动参与度上的差距持续拉大。（p. 32）
-> - **性别选课分化** A-level 物理与计算机学科中女性选修比例长期低迷，亟待通过呈现跨学科实际应用以增强吸引力。
+> - **43%** 的科学教师明确指出物理、数学等专业对口师资的匮乏直接损害了学生的学习质量。（p. 35）
+
+除上述比例之外，高社会经济地位家庭学生的科学抱负显著高于弱势背景同龄人，且在课外科技活动参与度上的差距持续拉大（p. 32）；A-level 物理与计算机学科中女性选修比例长期低迷，亟待通过呈现跨学科实际应用以增强吸引力。
 
 ---
 

@@ -35,6 +35,7 @@ import sys
 import subprocess
 import unicodedata
 from dataclasses import dataclass, asdict
+from functools import lru_cache
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 from urllib.parse import quote
@@ -91,7 +92,7 @@ except Exception:
 # Configuration
 # -----------------------------
 
-ROOT = Path.cwd()
+ROOT = find_vault_root()
 WIKI_DIR = ROOT / "wiki"
 TEMPLATES_DIR = WIKI_DIR / "templates"
 INDEX_JSON = WIKI_DIR / "index.json"
@@ -516,6 +517,7 @@ def iter_md_files(base: Path) -> Iterable[Path]:
         yield p
 
 
+@lru_cache(maxsize=None)
 def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
 
@@ -535,17 +537,15 @@ def run_git(args: List[str]) -> str:
         return ""
 
 
+@lru_cache(maxsize=1)
+def git_head_paths() -> frozenset[str]:
+    """Load tracked paths at HEAD once instead of spawning git per file."""
+    output = run_git(["-c", "core.quotePath=false", "ls-tree", "-r", "--name-only", "HEAD"])
+    return frozenset(line for line in output.splitlines() if line)
+
+
 def git_path_exists_at_head(path: Path) -> bool:
-    r = rel(path)
-    result = subprocess.run(
-        ["git", "-c", "core.quotePath=false", "cat-file", "-e", f"HEAD:{r}"],
-        cwd=ROOT,
-        check=False,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-        text=True,
-    )
-    return result.returncode == 0
+    return rel(path) in git_head_paths()
 
 
 def git_changed_md_files() -> List[Path]:
@@ -1694,6 +1694,7 @@ def check_path_and_index_consistency(path: Path, data: Optional[Dict[str, Any]],
         issues.append(Issue("WARN", r, f"index title differs from frontmatter title: index={path_to_title.get(r)!r}, fm={title!r}", code="INDEX_TITLE_MISMATCH"))
 
 
+@lru_cache(maxsize=None)
 def entry_metadata(path: Path) -> Optional[Dict[str, Any]]:
     try:
         text = read_text(path)
@@ -2446,22 +2447,48 @@ AUTO_MAINTAINED_FM_RE = re.compile(
 
 def check_updated_freshness(files: List[Path], issues: List[Issue]) -> None:
     """WARN when a git-modified wiki entry has body changes but a stale `updated` field."""
+    candidates = [
+        path
+        for path in files
+        if is_wiki_entry_path(path)
+        and not is_generated_content_page(path)
+        and TEMPLATES_DIR not in path.parents
+    ]
+    if not candidates:
+        return
+
     try:
-        out = subprocess.run(
-            ["git", "diff", "--name-only", "HEAD"],
-            cwd=ROOT, text=True, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=False,
+        diff = subprocess.run(
+            ["git", "-c", "core.quotePath=false", "diff", "-U0", "--no-color", "HEAD", "--", *map(str, candidates)],
+            cwd=ROOT,
+            text=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.DEVNULL,
+            check=False,
         )
     except Exception:
         return
-    if out.returncode != 0:
+    if diff.returncode != 0:
         return
-    changed = {(ROOT / line.strip()).resolve() for line in out.stdout.splitlines() if line.strip()}
+
+    body_changed: set[Path] = set()
+    current_path: Path | None = None
+    for line in diff.stdout.splitlines():
+        if line.startswith("+++ b/"):
+            current_path = (ROOT / line[6:].split("\t", 1)[0]).resolve()
+            continue
+        if line.startswith("+++ "):
+            current_path = None
+            continue
+        if current_path is None or not line or line[0] not in "+-" or line.startswith(("+++", "---")):
+            continue
+        if not AUTO_MAINTAINED_FM_RE.match(line):
+            body_changed.add(current_path)
+
     import datetime
     today = datetime.date.today().isoformat()
-    for path in files:
-        if path.resolve() not in changed or not is_wiki_entry_path(path):
-            continue
-        if is_generated_content_page(path) or TEMPLATES_DIR in path.parents:
+    for path in candidates:
+        if path.resolve() not in body_changed:
             continue
         try:
             text = read_text(path)
@@ -2473,24 +2500,11 @@ def check_updated_freshness(files: List[Path], issues: List[Issue]) -> None:
         m = re.search(r"^updated\s*:\s*[\"']?(\d{4}-\d{2}-\d{2})", fm, flags=re.MULTILINE)
         if not m or m.group(1) == today:
             continue
-        diff = subprocess.run(
-            ["git", "diff", "-U0", "HEAD", "--", str(path)],
-            cwd=ROOT, text=True, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=False,
-        )
-        body_changed = False
-        for line in diff.stdout.splitlines():
-            if not line or line[0] not in "+-" or line.startswith(("+++", "---")):
-                continue
-            if AUTO_MAINTAINED_FM_RE.match(line):
-                continue
-            body_changed = True
-            break
-        if body_changed:
-            issues.append(Issue(
-                "WARN", rel(path),
-                f"entry body changed but frontmatter updated is stale ({m.group(1)}); set updated: {today}",
-                code="UPDATED_STALE",
-            ))
+        issues.append(Issue(
+            "WARN", rel(path),
+            f"entry body changed but frontmatter updated is stale ({m.group(1)}); set updated: {today}",
+            code="UPDATED_STALE",
+        ))
 
 
 def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False) -> List[Issue]:
@@ -2526,6 +2540,9 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
 
     if fix:
         changed_files, total_fixes = apply_fixes(unique_files, argument_citations)
+        if changed_files:
+            read_text.cache_clear()
+            entry_metadata.cache_clear()
         print(f"--fix: {total_fixes} issue(s) fixed in {changed_files} file(s)\n")
 
     for p in unique_files:

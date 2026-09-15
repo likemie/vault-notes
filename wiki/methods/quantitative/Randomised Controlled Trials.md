@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 117
+method_related_count: 123
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
   - "[[Dependent Variable]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Attrition]]"
   - "[[Research Question]]"
   - "[[School Leadership]]"
@@ -70,6 +71,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Recommendations for Practice]]"
   - "[[Class Size]]"
+  - "[[Statistical Analysis Plan]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Complexity Theory]]"
@@ -85,6 +87,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
   - "[[Analysis of Variance]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Blinding]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Sample Size Determination]]"
@@ -94,6 +97,7 @@ related_methods:
   - "[[Cluster Randomized Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Efficacy Trial]]"
+  - "[[Effectiveness Trial]]"
   - "[[Black Box RCTs]]"
   - "[[Experimental Research]]"
   - "[[Non-intervention Research]]"
@@ -123,13 +127,15 @@ related_facts:
   - "[[Promise Neighborhoods Research Consortium]]"
   - "[[CNCS Evidence Exchange]]"
   - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
+  - "[[Teacher Choices]]"
+  - "[[Researching School Choices]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -145,7 +151,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Randomised Controlled Trials
@@ -163,9 +169,9 @@ updated: 2026-09-15
 
 > [!dev-timeline]+ 历史背景
 > 1. **起源与医学奠基（1904–1980s）**
->    - 1904 — [[Karl Pearson|Karl Pearson]] 在伤寒疫苗分析中提出"每隔一位志愿者接种"的随机化试验方案，预见了 RCT 的发展方向——尽管这一方法在 60 年后才被正式确立（[[Argument_Higgins_2016_RE|Higgins, 2016, p.33]]）
+>    - 1904 — [[Karl Pearson|Karl Pearson]] 在伤寒疫苗分析中提出"每隔一位志愿者接种"的随机化试验方案，预见了 RCT 的发展方向——尽管这一方法在 60 年后才被正式确立（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.33]]）
 >    - 1940s–1960s — 医学中 RCT 的发展推动了[[Meta-analysis|元分析]]的兴起。Peter Elwood and Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了合并多项试验结果的力量
->    - 1980s — Richard Peto 推广[[Fixed-Effect and Random-Effects Models|固定效应模型]]；Larry Hedges（1983）倡导随机效应模型，为教育 RCT 的元分析提供方法基础（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.38–39]]）
+>    - 1980s — Richard Peto 推广[[Fixed-Effect and Random-Effects Models|固定效应模型]]；Larry Hedges（1983）倡导随机效应模型，为教育 RCT 的元分析提供方法基础（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp.38–39]]）
 > 2. **教育领域的兴起与黄金期（1983–2002）**
 >    - 1983 — 教育心理学期刊中近一半经验文章使用随机分配实验（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）
 >    - 1985–1989 — [[Tennessee STAR Project 1985-1989]] 实施，被 Mosteller 称为"有史以来最重要的教育调查之一"
@@ -173,8 +179,8 @@ updated: 2026-09-15
 >    - 2002 — 美国教育部成立有效教育清算所（[[What Works Clearinghouse]]，WWC），将 RCT 确立为教育证据金字塔的顶端
 > 3. **扩张与反思期（2010–2023）**
 >    - 2010 — 干预研究比例降至 25%，随机实验占比降至 23%
->    - 2011 — 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）成立，此后累计资助逾 200 项涉及全英半数以上学校、涵盖超 100 万学生的大规模试验（[[Argument_Higgins_2016_RE|Higgins, 2016, p.49]]；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 50]]）。自 2014 年起，EEF 通过扩大招募使试验[[Effective Sample Size|有效样本量]]几乎较早期翻倍，大幅提高了统计功效（Sanders, 2019）
->    - 2019 — Lortie-Forgues & Inglis (2019) 对 EEF 与美国[[National Center for Education Evaluation and Regional Assistance|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance，NCEE）委托的 141 项大规模教育 RCT（涵盖 1,222,024 名学生）进行元再分析，指出其平均效应量仅为 0.06 个标准差（Standard Deviation，SD），且平均[[Confidence Interval|置信区间]]宽达 0.30 SD，由此质疑此类试验缺乏信息量。EEF 反思并指出不能将信息价值窄化为单一标题效应量的统计精度，而应结合[[Business as Usual|常态教学]]基线、实施过程与综合安全锁评级进行系统解读（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 56–57]]）
+>    - 2011 — 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）成立，此后累计资助逾 200 项涉及全英半数以上学校、涵盖超 100 万学生的大规模试验（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.49]]；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 50]]）。自 2014 年起，EEF 通过扩大招募使试验[[Effective Sample Size|有效样本量]]几乎较早期翻倍，大幅提高了统计功效（Sanders, 2019）
+>    - 2019 — Lortie-Forgues & Inglis (2019) 对 EEF 与美国[[National Center for Education Evaluation and Regional Assistance|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance，NCEE）委托的 141 项大规模教育 RCT（涵盖 1,222,024 名学生）进行元再分析，指出其平均效应量仅为 0.06 个标准差（Standard Deviation，SD），且平均[[Confidence Interval|置信区间]]宽达 0.30 SD，由此质疑此类试验缺乏信息量。EEF 反思并指出不能将信息价值窄化为单一标题效应量的统计精度，而应结合[[Business as Usual|常态教学]]基线、实施过程与综合安全锁评级进行系统解读（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 56–57]]）
 >    - 2020 — 干预研究比例维持在 25%，随机实验进一步降至 20%，只有五分之一经验文章使用随机分配
 >    - 2023 — [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现：若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10
 >    - 2024 — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 全景检验 12 所[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示 11 所中心均将 RCT 确立为证据金字塔顶端；但基于 RCT 支持的多中心评级一致率仅 30.5%，极端冲突率达 35.4%，证明微观 RCT [[Internal Validity|内部效度]]达标不能等同于宏观政策综合收敛
@@ -199,7 +205,7 @@ updated: 2026-09-15
 > [!method-stack] 方法层级
 > - **研究设计** [[True Experimental Design|真实验设计]]（随机分配至处理组和对照组）
 > - **数据收集** [[Pre-test and Post-test|前测]]（可选）、后测、标准化测验、[[Questionnaire|问卷]]或行政数据
-> - **分析方法** 均值差比较、标准化[[Effect Size|效应量]]计算、t 检验、[[Analysis of Variance|方差分析]]、多水平模型
+> - **分析方法** 均值差比较、标准化[[Effect Size|效应量]]计算、t 检验、[[Analysis of Variance|方差分析]]、[[Hierarchical Linear Model|多水平模型]]
 > - **辅助技术**[[Random Assignment|随机分配]]、[[Blinding|盲法]]（教育中常不可行）、[[Intent-to-Treat Analysis|意向治疗分析]]、集群随机化、部分嵌套设计
 
 ---
@@ -249,10 +255,10 @@ updated: 2026-09-15
 
 > [!method-stack] 资料与分析摘要
 > - **资料类型** 标准化测验成绩、[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）等行政追踪数据、[[Questionnaire|问卷]]量表、课堂行为观察记录。
-> - **测量效度与工具选择** 避免采用与干预内容过度贴合的自编测验（自编工具会严重虚增[[Effect Size|效应量]]；Cheung & Slavin, 2016；Ginsburg & Smith, 2016）；主要学业结果应强制选用具备广泛[[External Validity|外部效度]]、与国家高利害考试高度相关的标准化独立测验，并排查天花板效应与地板效应（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 54]]）。
+> - **测量效度与工具选择** 避免采用与干预内容过度贴合的自编测验（自编工具会严重虚增[[Effect Size|效应量]]；Cheung & Slavin, 2016；Ginsburg & Smith, 2016）；主要学业结果应强制选用具备广泛[[External Validity|外部效度]]、与国家高利害考试高度相关的标准化独立测验，并排查[[Floor and Ceiling Effects|天花板效应]]与地板效应（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 54]]）。
 > - **资料质量** 取决于[[Random Assignment|随机分配]]的成功程度、[[Sample Size Determination|样本量]]、[[Attrition|样本流失]]率、测量工具的信效度。缺失数据在对照组与干预组之间的差异分布会破坏随机化[[Hypothesis|假设]]（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6–7]]）。
-> - **分析策略** 均值比较、效应量估计、t 检验或[[Analysis of Variance|方差分析]]、多水平模型（处理集群随机化的嵌套结构）。
-> - **质量控制与不确定性表达** 采用意向性分析（[[Intent-to-Treat Analysis]]，ITT）处理非合规与流失；进行基线等值检验；超越机械的 p < 0.05 二分法，完整报告效应量[[Confidence Interval|置信区间]]，并结合安全锁评级综合评估统计功效（MDES）、流失偏倚与实施风险（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。
+> - **分析策略** 均值比较、效应量估计、t 检验或[[Analysis of Variance|方差分析]]、[[Hierarchical Linear Model|多水平模型]]（处理集群随机化的嵌套结构）。
+> - **质量控制与不确定性表达** 采用[[Intent-to-Treat Analysis|意向性分析]]（[[Intent-to-Treat Analysis]]，ITT）处理非合规与流失；进行基线等值检验；超越机械的 p < 0.05 二分法，完整报告效应量[[Confidence Interval|置信区间]]，并结合安全锁评级综合评估统计功效（MDES）、流失偏倚与实施风险（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 57]]）。
 > - **输出形式** 标准化均值差（Cohen's d, Hedges' g）、置信区间、最小可测效应量（Minimum Detectable Effect Size，MDES）与安全度等级。
 
 ---
@@ -270,7 +276,7 @@ updated: 2026-09-15
 
 > [!method-limits] 偏误来源、适用边界与误用风险
 > - **偏误来源** 样本偏误（参与学校系统性不同于总体）、分配偏误（家长干预、非随机[[Attrition|流失]]）、测量偏误（评估工具偏袒干预内容）、[[Publication Bias|发表偏差]]、研究者偏差（作者与课程开发者关联）。
-> - **适用边界** RCT 结果只能告诉我们"什么曾经有效"而非"什么将永远有效"——[[Counterfactual|反事实]]条件随时间变化（[[Argument_Higgins_2016_RE|Higgins, 2016, p.44]]）。教育干预的效果不是固定不变的，同一个干预在不同时期可能产生不同结果。
+> - **适用边界** RCT 结果只能告诉我们"什么曾经有效"而非"什么将永远有效"——[[Counterfactual|反事实]]条件随时间变化（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.44]]）。教育干预的效果不是固定不变的，同一个干预在不同时期可能产生不同结果。
 > - **误用风险** 将 RCT 的统计显著效果误读为"干预在所有情境中有效"；仅报告[[Effect Size|效应量]]而不提供机制理解；忽视 RCT 无法回答的[[Causal Processes|因果过程]]问题——"因果过程（causal processes）和因果链没有被建立，只知道输入和输出的关系"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78–79]]）。
 > - **补救方式** 补充[[Qualitative Research|质性研究]]以揭示因果过程；[[Mechanism Experiments|机制实验]]设计；[[Meta-analysis|元分析]]综合多情境证据；透明报告样本特征和实施条件。
 
@@ -338,7 +344,7 @@ updated: 2026-09-15
 > [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现，若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10。多数现代教育 RCT 并非两个对称处理组的任意比较，而是将"新做法"与"照常实践"对比——94% 的处理-对照比较属于干预组做了新事情、控制组维持原有实践的设计（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183, 185]]）。
 
 > [!critique-data] 反事实条件随时间变化
-> 早期 RCT 的结果可能随时间推移而变得不再适用。[[Argument_Higgins_2016_RE|Higgins (2016)]] 指出，同伴辅导的早期研究往往有更大的效应量，但这究竟是评估质量较低、[[Publication Bias|发表偏差]]、分配偏差、研究者偏差的结果，还是真实反映了反事实条件的变化使得更大效果更难实现，目前尚不清楚（[[Argument_Higgins_2016_RE|Higgins, 2016, p.44；参见 Lemons et al., 2014]]）。这意味着教育干预的效果不是固定不变的，同一个干预在不同时期可能产生不同结果。
+> 早期 RCT 的结果可能随时间推移而变得不再适用。[[Argument_Higgins_2016_ROE|Higgins (2016)]] 指出，同伴辅导的早期研究往往有更大的效应量，但这究竟是评估质量较低、[[Publication Bias|发表偏差]]、分配偏差、研究者偏差的结果，还是真实反映了反事实条件的变化使得更大效果更难实现，目前尚不清楚（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.44；参见 Lemons et al., 2014]]）。这意味着教育干预的效果不是固定不变的，同一个干预在不同时期可能产生不同结果。
 
 ---
 
@@ -391,18 +397,18 @@ updated: 2026-09-15
 > CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi & Kelcey (2016) 比较了美国国家教育研究中心（National Center for Education Research，NCER）资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。精度通过最小可检测效应量（Minimum Detectable Effect Size，MDES）衡量——指在给定统计功效下可检测的最小效应量。论文同时提供了两级和三级 CRT 的 MDES 计算公式，填补了方法论[[Document|文献]]的空白。
 
 > [!method-stack] 部分嵌套 RCT 与[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）
-> Schweig & Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-compliance）** 当存在非合规时，传统多水平模型不再估计处理效应，而是提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。
+> Schweig & Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-compliance）** 当存在非合规时，传统[[Hierarchical Linear Model|多水平模型]]不再估计处理效应，而是提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。
 
 > [!warning] 技术改进的局限
 > Pampaka 等编者对这些技术进展提出了质疑："在每种情况下我们可能都会问：这些建议的改进是否真的能产生必要的差异？"此外，编者暗示非合规问题可能比技术文献承认的更深刻：如果"技术性依从"的教师中有一部分并非有效参与者，"这些结果可能暗示大规模实施经常失败的另一个原因"（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, pp.233-234]]）。详见 [[Cluster Randomized Trials]]、[[Intent-to-Treat Analysis]]。
 
-> [!method-stack] [[School Choice|学校选择]]与教师选择：突破传统 RCT 适用瓶颈的新设计
-> 大规模学校水平随机化并非总能回答一线迫切关心的实践问题（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 54–56]]）：
-> - **学校选择（Researching school choices）** 某些学校层面的根本决策无法获得学校的随机分配配合（例如混合能力分组对比分层教学因学校拒斥而招募流产，高中推迟上课时间试验亦因组织排课冲突而失败；Roy et al., 2014；Robinson, 2016）。EEF 开辟“学校选择”资助渠道，放弃硬性随机化，转而利用教育系统现存的自然变异，依托严格的[[Quasi-Experimental Designs|准实验设计]]（QED）评估学校组织决策的因果效应，同时保持[[Preregistration|预注册]]透明度。
+> [!method-stack] [[School Choice|学校选择]]与[[Teacher Choices|教师选择]]：突破传统 RCT 适用瓶颈的新设计
+> 大规模学校水平随机化并非总能回答一线迫切关心的实践问题（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 54–56]]）：
+> - **学校选择（[[Researching School Choices]]）** 某些学校层面的根本决策无法获得学校的随机分配配合（例如混合能力分组对比分层教学因学校拒斥而招募流产，高中推迟上课时间试验亦因组织排课冲突而失败；Roy et al., 2014；Robinson, 2016）。EEF 开辟“学校选择”资助渠道，放弃硬性随机化，转而利用教育系统现存的自然变异，依托严格的[[Quasi-Experimental Designs|准实验设计]]（QED）评估学校组织决策的因果效应，同时保持[[Preregistration|预注册]]透明度。
 > - **教师选择（Teacher choices）** 一线教师的核心关切多为日常微观教学决策（如[[Homework|作业]]是全班讲评还是逐本精批、电话家访能否改善课堂行为、最有效的全班朗读组织形式等），而非外部商业化包装项目。针对此类问题，EEF 探索小样本、短周期的敏捷设计，采用被试内设计（within-participant designs）和近端测量（proximal outcomes），大幅压缩试验周期与学校动员成本。
 
-> [!tension] [[Efficacy Trial|效力试验]]向实效试验的规模化效应衰减（Efficacy to Effectiveness Drop）
-> 追求更高统计功效而盲目扩大试验[[Sample Size Determination|样本量]]，常与高保真度实施产生直接冲突（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]；Nevill, 2019b）：
+> [!tension] [[Efficacy Trial|效力试验]]向[[Effectiveness Trial|实效试验]]的规模化效应衰减（Efficacy to Effectiveness Drop）
+> 追求更高统计功效而盲目扩大试验[[Sample Size Determination|样本量]]，常与高保真度实施产生直接冲突（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 57]]；Nevill, 2019b）：
 > - **小规模效力试验（Efficacy Trials）** 样本量较小，干预提供者能够提供密集的人力指导、密切跟进与严格监控，[[Implementation Fidelity|实施保真度]]极高，易在理想条件下产生积极的因果效应（例如 Hanley et al., 2015 的国际象棋试验）。
 > - **大规模实效试验（Effectiveness Trials）** 当项目在数百所学校规模化推广时，培训模式被迫稀释，外部监督减退，不同学校的[[Business as Usual|常态教学]]（business as usual）存在强烈的[[Heterogeneity|异质性]]高基线，导致在效力阶段显著的干预在实效阶段无法被成功复制（如 Kitmitto et al., 2018 针对象棋的实效评估未见显著提升）。大规模推广需要建立梯次递进的扩展试点机制（Scale-up Pilots）。
 
@@ -447,11 +453,11 @@ updated: 2026-09-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 资助了超 100 项涉及 50 万以上学生的独立 RCT，并将证据综合进入 Toolkit 的[[Meta-analysis|元分析]]([[Argument_Higgins_2016_RE|Higgins, 2016, p. 49]])。
+> - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 资助了超 100 项涉及 50 万以上学生的独立 RCT，并将证据综合进入 Toolkit 的[[Meta-analysis|元分析]]([[Argument_Higgins_2016_ROE|Higgins, 2016, p. 49]])。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其在顶刊中的比例从 2010 年的 23% 降至 2020 年的 20%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]])。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 个教育清算中心对 RCT 的因果审查规程，实证揭示各中心虽均推崇 RCT，但因跨研究综合门槛割裂导致 35.4% 的极端评级冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 9–11, 18–20]])。
 > - [[Tennessee STAR Project 1985-1989]] — 田纳西星级[[Class Size|班级规模]]实验，[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 揭示了其家长施压转组与数据差异缺失对随机分配的破坏。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 阐明[[Complexity Theory|复杂性理论]]对受控实验与 RCT 黄金标准的四大[[Epistemology|认识论]]解构、Kuhn 复杂性五大公理以及[[Unit of Analysis|分析单位]]向关系网络与生态系统的转向。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011, Ch. 4, p. 78)]] — 系统构建教育实验[[Causality|因果推断]]全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]与真实课堂复杂性对 RCT 的挑战（第 4 章、第 16 章）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明[[World Bank|世界银行]]（World Bank）如何将其专属[[Policy Brokerage|政策中介]]（Policy Brokerage）工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）十年来资助超 200 项大规模教育 RCT 的制度演进，系统剖析独立评估人机制、[[Preregistration|预注册]]统计分析计划（SAP）、[[Implementation and Process Evaluation|实施与过程评估]]（IPE）整合、[[School Choice|学校选择]]与教师选择新设计，以及应对[[Effect Size|效应量]]衰减与不确定性报告的方法学突破。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）十年来资助超 200 项大规模教育 RCT 的制度演进，系统剖析独立评估人机制、[[Preregistration|预注册]][[Statistical Analysis Plan|统计分析计划]]（SAP）、[[Implementation and Process Evaluation|实施与过程评估]]（IPE）整合、[[School Choice|学校选择]]与[[Teacher Choices|教师选择]]新设计，以及应对[[Effect Size|效应量]]衰减与不确定性报告的方法学突破。

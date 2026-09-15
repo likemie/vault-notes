@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-09-16
 ---
 
 # Peer-Assisted Learning Strategies
@@ -111,7 +111,7 @@ updated: 2026-08-21
 
 ## 实证数据与效应量表现
 
-> [!stat-cards]- 核心实证研究数据快照
+> [!evidence-grid]- 核心实证研究数据快照
 > - **Fuchs et al. (2001, 2002)** 大规模多班级集群实验，证实 PALS 在小学早期阅读流畅度与数学运算技能上具有稳定中等正向效应（$ES = +0.20 \sim +0.35\text{ SD}$）。
 > - **Sáenz et al. (2005)** 针对小学西语裔英语学习者（ELL）的同伴辅导随机实验，证明互惠配对对改善二语学习者阅读理解与课堂参与具有显著成效。
 > - **实施性价比指标** 相比全校性 CSR 方案（每年每校数万美元），PALS 仅需少量手册材料与简要教师培训即可常态运行，是全美投入产出比最高的循证教学策略之一。

@@ -61,7 +61,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-09-11
+updated: 2026-09-16
 year: 2017
 doi: ""
 citation_aliases:
@@ -79,7 +79,7 @@ citation_aliases:
 > 
 > 其核心追问在于：经典发展心理学所观察到的“认知发展阶段过渡”这一质变过程，其底层的物理与生理机制是什么？是否能将认知阶段的过渡解释为执行功能 (Executive Function, EF) 随着大脑成熟发育而提高的函数？（pp.3–4）
 
-> [!stat-cards]+ 一页读懂
+> [!feature]+ 一页读懂
 > - **对象** 0–16岁儿童的认知发展阶段与脑神经发育 (前额叶皮层解剖生理、[[Synaptogenesis|突触发生]]与修剪及[[Myelination|髓鞘化]]) 以及执行功能 (抑制、转换、更新)。
 > - **工具** 将传统经验观察的认知阶段，与硬核脑成像数据 ([[Functional Magnetic Resonance Imaging|功能性磁共振成像]] [[Functional Magnetic Resonance Imaging|fMRI]]、[[Electroencephalography|脑电图]] [[Electroencephalography|EEG]]、近红外光谱 NIRS、正电子发射断层扫描 PET) 及脑解剖数据进行横向对齐。
 > - **张力** 心理学对阶段过渡物理层机制解释力的匮乏，同大脑生理学对高阶认知控制缺乏宏观阶段性发展视野之间的张力。
@@ -214,11 +214,11 @@ citation_aliases:
 > 3. **脑解剖与环路化 (Frontostriatal) 决定认知控制** 脑发育通过双向运作（Progressive-突触增殖与[[Myelination|髓鞘化]]；Regressive-[[Synaptic Pruning|突触修剪]]与皮层变薄）优化网络。具体运算阶段依赖 frontostriatal 环路的建立，形式运算阶段则与 dlPFC 锥体细胞成熟及皮层选择性变薄紧密关联（p.13, p.15）。
 
 > [!stat-cards]- 核心数据
-> - **7–12个月** PFC 发生剧烈的突触增殖，dlPFC layer III 锥体细胞树突长度达到成人长度（p.9）。
-> - **55% vs 10%** PFC 突触密度在 2 岁时比成人高 55%，经过突触修剪，在 7 岁时降至仅比成人高 10%（p.12）。
-> - **11–12岁** PFC 灰质体积达到倒 U 型顶峰（女性 11 岁，男性 12 岁），随后开始减少（p.13）。
-> - **15–16岁** dlPFC layer III 锥体细胞达到最终成人水平（p.15），且 EF 所有成分（尤其是 Updating）达到完全的成人水平（p.5, p.14）。
-> - **30岁** 前额叶皮层 (PFC) 解剖结构与网络连结完全发育成熟的终极年龄，此后也是最先表现出衰老迹象的区域（p.7）。
+> - **7–12** 个月时 PFC 发生剧烈的突触增殖，dlPFC layer III 锥体细胞树突长度达到成人长度（p.9）。
+> - **55% / 10%** PFC 突触密度在 2 岁时高出成人的比例，与经突触修剪后在 7 岁时高出成人的比例（p.12）。
+> - **11–12** 岁时 PFC 灰质体积达到倒 U 型顶峰（女性 11 岁，男性 12 岁），随后开始减少（p.13）。
+> - **15–16** 岁时 dlPFC layer III 锥体细胞达到最终成人水平（p.15），且 EF 所有成分（尤其是 Updating）达到完全的成人水平（p.5, p.14）。
+> - **30** 岁是前额叶皮层 (PFC) 解剖结构与网络连结完全发育成熟的终极年龄，此后也是最先表现出衰老迹象的区域（p.7）。
 
 ---
 

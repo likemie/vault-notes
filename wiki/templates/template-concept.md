@@ -31,7 +31,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **用途** 它帮助研究者看见什么问题。
 > - **边界** 它不适合解释什么，或容易与什么概念混淆。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
 > *Original text or English translation.*

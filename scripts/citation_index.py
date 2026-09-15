@@ -483,15 +483,20 @@ def build_indexes(items: list[ArgumentCitation]) -> tuple[dict[str, Any], dict[s
 
 
 def write_json(full: dict[str, Any], ambiguous: dict[str, Any], dry_run: bool) -> None:
-    if dry_run:
-        print(f"[dry-run] would write {FULL_JSON.relative_to(ROOT)}")
-        print(f"[dry-run] would write {AMBIG_JSON.relative_to(ROOT)}")
-        return
-    CITATION_DIR.mkdir(parents=True, exist_ok=True)
-    FULL_JSON.write_text(json.dumps(full, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
-    AMBIG_JSON.write_text(json.dumps(ambiguous, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
-    print(f"✅ wrote {FULL_JSON.relative_to(ROOT)}")
-    print(f"✅ wrote {AMBIG_JSON.relative_to(ROOT)}")
+    outputs = {
+        FULL_JSON: json.dumps(full, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+        AMBIG_JSON: json.dumps(ambiguous, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+    }
+    for path, content in outputs.items():
+        current = path.read_text(encoding="utf-8") if path.exists() else None
+        if current == content:
+            continue
+        if dry_run:
+            print(f"[dry-run] would write {path.relative_to(ROOT)}")
+            continue
+        CITATION_DIR.mkdir(parents=True, exist_ok=True)
+        path.write_text(content, encoding="utf-8")
+        print(f"✅ wrote {path.relative_to(ROOT)}")
 
 
 def check(items: list[ArgumentCitation]) -> int:

@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-16
 ---
 
 # Waterford Kamhlaba Admission to United World Colleges
@@ -51,7 +51,7 @@ updated: 2026-09-01
 
 ## 学校起源
 
-> [!stat-cards] 从创校到接触 [[United World Colleges|UWC]]
+> [!feature] 从创校到接触 [[United World Colleges|UWC]]
 > - **1963 年开校** 一间教室、六名教师和十六名学生。
 > - **1975 年规模** 约三百名学生，男女数量大体相当。
 > - **原书记载的种族构成** 约一半白人，另一半被归为黑人或棕色人种。

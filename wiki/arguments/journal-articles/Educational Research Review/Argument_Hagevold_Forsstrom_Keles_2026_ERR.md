@@ -78,10 +78,10 @@ related_methods:
   - "[[Framework Synthesis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
-  - "[[PRISMA]]"
   - "[[Mixed Methods Research]]"
   - "[[Action Research]]"
 related_instruments:
+  - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
 related_persons: []
 related_facts:

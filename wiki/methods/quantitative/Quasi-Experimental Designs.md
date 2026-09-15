@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 57
+method_related_count: 61
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -59,9 +59,12 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Difference-in-Differences]]"
   - "[[Pre-test and Post-test]]"
   - "[[Baseline Standardized Mean Difference]]"
+  - "[[Propensity Score Matching]]"
   - "[[Analysis of Covariance]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
   - "[[Single-Case Design]]"
@@ -78,17 +81,18 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[National Dropout Prevention Center]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Researching School Choices]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Quasi-Experimental Designs
@@ -100,13 +104,13 @@ updated: 2026-09-15
 > [!def] 方法定义
 > **准实验设计（Quasi-Experimental Designs, QED）** 是指在无法实施完全[[Random Assignment|随机分配]]（Random Assignment）的真实教育与社会情境中，通过选用非等对自然组别（Non-equivalent Groups）、构建间断时间序列（[[Time Series Design|interrupted time series]]）或设定断点赋值规则（[[Regression Discontinuity Design|regression discontinuity]]），系统操纵[[Independent Variable|自变量]]以检验因果[[Hypothesis|假设]]的量化实验设计方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 317–318]])。
 >
-> 在当代[[Evidence-Based Education|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials|随机对照试验]]（RCT）与纯观察性研究的关键方法桥梁；在 2015 年《每个学生都成功法案》（ESSA）中对应**中等证据（Moderate Evidence / [[Top Institute for Evidence-Based Education Research|TIER]] 2）**法定层级，在[[What Works Clearinghouse|WWC]] 中对应**有保留达标（Meets Standards With Reservations）**标准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
+> 在当代[[Evidence-Based Education|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials|随机对照试验]]（RCT）与纯观察性研究的关键方法桥梁；在 2015 年《每个学生都成功法案》（ESSA）中对应**中等证据（Moderate Evidence / [[Top Institute for Evidence-Based Education Research|TIER]] 2）**法定层级，在[[What Works Clearinghouse|WWC]] 中对应**有保留达标（Meets Standards With Reservations）**标准([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 嵌入在自然班级、完整学校或行政行政区划中的具名教育干预方案、教学模式与政策改革。
 > - **问题类型** 因果效应估计（Causal Effect Estimation）、政策试点成效评估、比较有效性研究（Comparative Effectiveness）。
 > - **[[Unit of Analysis|分析单位]]** 学生个体、自然班级、学校集群或时间观测点。
-> - **输出形式** 调整后[[Effect Size|效应量]]（Adjusted Effect Size）、双重差分（DID）估计值、基线等值性检验参数、间断斜率变化统计量。
+> - **输出形式** 调整后[[Effect Size|效应量]]（Adjusted Effect Size）、[[Difference-in-Differences|双重差分]]（DID）估计值、基线等值性检验参数、间断斜率变化统计量。
 
 > [!citation-card]- 关键定义
 > 准实验设计涉及在无法进行随机分配的情境中对自[[Variable|变量]]进行操纵。虽然缺乏随机化带来的理论等价性保证，但通过严密的控制组选择、[[Pre-test and Post-test|前测]]基线调整与替代解释排除，准实验能够建立高度可信的因果证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, pp. 317–320)]]
@@ -120,12 +124,12 @@ updated: 2026-09-15
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **认识论取向** 秉承[[Postpositivism|后实证主义]]与[[Pragmatic Paradigm|实用主义]]哲学取向，承认社会与学校系统具有开放性与情境嵌套性，在坚持[[Causality|因果推断]]逻辑的同时，以妥协性控制技术换取更高的[[Ecological Validity|生态效度]]（Ecological Validity）。
 > - **因果识别定位** 采用[[Counterfactual|反事实]]潜在结果逻辑，但因果识别依赖于**条件独立性[[Hypothesis|假设]]（Conditional Independence Assumption）**——即假定在控制了基线[[Pre-test and Post-test|前测]]和关键可观察协[[Variable|变量]]后，组别分配与潜在结果无关。
-> - **与 [[Randomised Controlled Trials|RCT]] 的互补关系** 当出于伦理考量（如不能剥夺弱势学生的必要辅导）、行政限制（学校拒绝打破现有班级建制）、政策可行性，或学校拒绝被[[Random Assignment|随机分配]]宏观组织决策（如能力分轨、上课时间）而无法实施 RCT 时，QED 提供唯一合法的因果证据替代路径([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]]; [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 55–56]])。
+> - **与 [[Randomised Controlled Trials|RCT]] 的互补关系** 当出于伦理考量（如不能剥夺弱势学生的必要辅导）、行政限制（学校拒绝打破现有班级建制）、政策可行性，或学校拒绝被[[Random Assignment|随机分配]]宏观组织决策（如能力分轨、上课时间）而无法实施 RCT 时，QED 提供唯一合法的因果证据替代路径([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]]; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 55–56]])。
 
 > [!method-stack] 方法层级
 > - **设计形态** 非等对控制组前后测设计、[[Time Series Design|间断时间序列设计]]（[[Intelligent Tutoring Systems|ITS]]）、[[Regression Discontinuity Design|断点回归设计]]（RDD）、轮换/对等材料设计。
 > - **数据采集** 标准化基线前测、多时间点追踪观测、过程[[Implementation Fidelity|实施忠实度]]记录、终结性后测。
-> - **统计控制工具** 倾向得分匹配（PSM）、双重差分模型（DID）、[[Analysis of Covariance|协方差分析]]（ANCOVA）、多层线性模型（HLM）。
+> - **统计控制工具** [[Propensity Score Matching|倾向得分匹配]]（PSM）、[[Difference-in-Differences|双重差分]]模型（DID）、[[Analysis of Covariance|协方差分析]]（ANCOVA）、[[Hierarchical Linear Model|多层线性模型]]（HLM）。
 
 ---
 
@@ -136,7 +140,7 @@ updated: 2026-09-15
 > 2. **实施全面基线测量** 采集详尽的[[Pre-test and Post-test|前测]][[Academic Achievement|学业成绩]]与背景协[[Variable|变量]]，严密检验两组基线等值性（[[Baseline Standardized Mean Difference|Baseline Equivalence]]）。
 > 3. **常态化现场干预实施** 干预组落实新教学方案，对照组维持**常规[[Business as Usual|照常教学]]（Business-As-Usual, BAU）**，同步监控[[Implementation Fidelity|实施忠实度]]。
 > 4. **终结性后测数据采集** 采用完全相同的标准化工具进行干预后评估，排查[[Attrition|差异流失]]（Differential Attrition）。
-> 5. **构建统计纠偏模型** 运用双重差分法（DID）或 [[Analysis of Covariance|ANCOVA]] 剥离基线初始差异与自然时间趋势。
+> 5. **构建统计纠偏模型** 运用[[Difference-in-Differences|双重差分法]]（DID）或 [[Analysis of Covariance|ANCOVA]] 剥离基线初始差异与自然时间趋势。
 > 6. **开展替代解释敏感性分析** 针对历史事件、测验敏感化及选择-成熟[[Interaction Effect|交互作用]]进行[[Falsification|证伪]]检验。
 
 ---
@@ -182,14 +186,14 @@ updated: 2026-09-15
 > | **[[National Dropout Prevention Center\|NDPC]]** | 1 级 (宽松包容) | **Strong Evidence** (允许 QED 获评最高级) | 准入门槛包容，仅要求存在显著正向 QED 证据且方案在学校现场实际运行满 3 年。 |
 
 > [!abstract] [[Counterfactual|反事实]]可行性与比较组强度（Counterfactual Viability）
-> [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021, p. 112)]] 指出，QED 的有效性高度依赖于反事实可行性（Counterfactual Viability）：
+> [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021, p. 112)]] 指出，QED 的有效性高度依赖于反事实可行性（Counterfactual Viability）：
 > - **比较条件的真实强度** 对照组若为“低质量、低强度或缺乏支持的弱条件”，干预容易呈现虚大[[Effect Size|效应量]]；若对照组为“成熟优质的常规教学”，效应量虽小但代表真实的政策净附加值。
 > - **透明报告对照组生态** 证据审查不仅要审查干预组，更必须详尽报告对照组的教学时间、支持资源与课程[[Logic Model|逻辑模型]]，否则无法在真实学校间迁移。
 
-> [!case] 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）“研究[[School Choice|学校选择]]”资助序列的准实验转向（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 55–56]]）
+> [!case] 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）“研究[[School Choice|学校选择]]”资助序列的准实验转向（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 55–56]]）
 > 切斯特·埃多瓦尔德（Chester Edovald）与克莱尔·内维尔（Claire Nevill）系统记录了循证因果评估在真实学校系统中的重大方法学调适：
 > - **学校对[[Random Assignment|随机分配]]的抵制困境** 教育捐赠基金会（Education Endowment Foundation, EEF）长期以大规模学校级随机对照试验（Randomised Controlled Trials, RCT）为黄金标准，已招募超过半数英格兰学校参与试验；然而，当评估涉及学校内生性宏观组织政策而非外购干预项目时，学校强烈抵制被随机分配（如混合能力分组 vs 基于能力的分轨分流 RCT 因学校拒绝被随机分组而招募失败，Roy et al., 2014；中学调整上学时间试验同样遭遇招募流产，Robinson, 2016）。
-> - **设立“研究学校选择”专门资助序列** 为解答学校内生决策对教育产出的真实影响，EEF 于 2019 年正式增设“研究学校选择（Researching school choices）”专门资助序列，确立了利用教育系统内部客观存在的**自然变异（natural variation）**、结合准实验设计（QEDs）评估宏观学校政策的制度合法性。
+> - **设立“[[Researching School Choices|研究学校选择]]”专门资助序列** 为解答学校内生决策对教育产出的真实影响，EEF 于 2019 年正式增设“研究学校选择（Researching school choices）”专门资助序列，确立了利用教育系统内部客观存在的**自然变异（natural variation）**、结合准实验设计（QEDs）评估宏观学校政策的制度合法性。
 > - **制度化因果质控准则** EEF 对此类 QED 研究设立了与 RCT 同等严苛的方法学门槛，强制要求评估团队坚持行业最佳实践（如[[Pre-test and Post-test|前测]]基线等值性严格控制、透明[[Preregistration|预注册]]制度，以及评估者独立性与无利益冲突审查）。
 
 ---
@@ -207,9 +211,9 @@ updated: 2026-09-15
 
 > [!method-limits] 效度威胁、偏误来源与误用风险
 > - **选择-成熟交互威胁（Selection-Maturation Interaction）** 即使基线分数完全一致，来自高社会经济地位（SES）学校的对照组学生其自然[[Growth|成长]]斜率可能远快于薄弱校干预组，导致因果估计发生系统偏差。
-> - **不可测混杂与遗漏[[Variable|变量]]偏倚（Omitted Variable Bias）** 倾向得分匹配只能平衡已测量协变量，无法控制动机、家庭[[Bildung|教养]]风格等不可测潜变量。
+> - **不可测混杂与遗漏[[Variable|变量]]偏倚（Omitted Variable Bias）** [[Propensity Score Matching|倾向得分匹配]]只能平衡已测量协变量，无法控制动机、家庭[[Bildung|教养]]风格等不可测潜变量。
 > - **均值回归现象（Regression to the Mean）** 当依据极端低分挑选干预组时，[[Pre-test and Post-test|后测]]分数的提高可能仅仅是统计回归假象，而非干预真实功效。
-> - **实践维度的信息遮蔽** QED 同 [[Randomised Controlled Trials|RCT]] 一样，若仅报告平均[[Effect Size|效应量]]，会系统性遗漏学校采纳最急需的**实施成本**、**用户满意度**与**本地适配指南**([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 120–122]])。
+> - **实践维度的信息遮蔽** QED 同 [[Randomised Controlled Trials|RCT]] 一样，若仅报告平均[[Effect Size|效应量]]，会系统性遗漏学校采纳最急需的**实施成本**、**用户满意度**与**本地适配指南**([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp. 120–122]])。
 
 ---
 
@@ -235,6 +239,6 @@ updated: 2026-09-15
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011)]] — 体系化梳理准实验五大经典设计（非等对控制组、时间序列、[[Regression Discontinuity Design|断点回归]]、轮换对等），详析选择-成熟交互与均值回归等效度威胁(Ch. 16, pp. 317–324)。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 所清算中心对 QED 的因果审查规程（0–3 级[[Coding in Qualitative Research|编码]]），揭示 [[What Works Clearinghouse|WWC]]/[[Home Visiting Evidence of Effectiveness|HomVEE]] 的 0.05–0.25 SD 基线等值模型及 QED 在最高证据层级中的制度性分歧(pp. 8–11)。
-> - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 深入探讨 QED 在 ESSA [[Top Institute for Evidence-Based Education Research|TIER]] 2 政策证据层级中的应用，提出[[Counterfactual|反事实]]可行性（Counterfactual Viability）与对照组生态报告的必要性(pp. 109–112)。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 深入探讨 QED 在 ESSA [[Top Institute for Evidence-Based Education Research|TIER]] 2 政策证据层级中的应用，提出[[Counterfactual|反事实]]可行性（Counterfactual Viability）与对照组生态报告的必要性(pp. 109–112)。
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 论证准实验、[[Single-Subject Design|单一被试设计]]与组间 [[Randomised Controlled Trials|RCT]] 在排除历史与成熟威胁上的同构逻辑与效度门控机制(pp. 461–464)。
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 深度总结[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在学校拒绝[[Random Assignment|随机分配]]宏观政策（如[[Tracking|能力分组]]、上课作息）背景下，于 2019 年正式设立“研究[[School Choice|学校选择]]”资助序列、利用系统自然变异推进准实验设计（QEDs）因果评估的方法学制度演进(pp. 55–56)。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度总结[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在学校拒绝[[Random Assignment|随机分配]]宏观政策（如[[Tracking|能力分组]]、上课作息）背景下，于 2019 年正式设立“研究[[School Choice|学校选择]]”资助序列、利用系统自然变异推进准实验设计（QEDs）因果评估的方法学制度演进(pp. 55–56)。

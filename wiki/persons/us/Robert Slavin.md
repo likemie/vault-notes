@@ -67,7 +67,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Slavin_2002_ER]]"
   - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Slavin_2021_ROE]]"
+  - "[[Argument_Slavin_2021_ECNUROE]]"
 confidence: high
 status: active
 created: '2026-05-01'
@@ -100,7 +100,7 @@ updated: 2026-09-14
 > - **2002 — 提出“[[Evidence-Based Education|证据本位教育]]改革”纲领** 在 AERA 发表 Dewitt Wallace-Reader's Digest 杰出讲座（[[Argument_Slavin_2002_ER|Slavin, 2002]]），正式提出“[[Evidence-Based Reform|证据本位改革]]”（EBR）概念，呼应美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（[[No Child Left Behind Act 2001|NCLB]]）与[[Institute of Education Sciences|教育科学研究院]]（IES）建立的因果评估标准。
 > - **2007–2015 — 创立 [[Best Evidence Encyclopedia|BEE]] 与深化方法学标准** 创办最佳证据百科全书（[[Best Evidence Encyclopedia|BEE]]）；系统发布[[Meta-analysis|元分析]]方法学规范（Slavin, 2008; Slavin & Smith, 2009），与长期合作者 [[Alan C. K. Cheung]] 联手发表一系列关于教育技术与中小学阅读/数学干预的大规模元分析。
 > - **2015–2018 — ESSA 证据法治化与荣膺 Thorndike 终身成就奖** 深度参与《每个学生都成功法案》（ESSA）四级[[Evidence Standards|证据标准]]的政策制定，创立 Evidence for ESSA 平台；2018 年荣获 [[APA Style|APA]] 桑代克终身成就奖并发表总结性演讲（[[Argument_Slavin_2019_EP|Slavin, 2019]]）。
-> - **2021 — 逝世与学术遗产的延续** 2021 年 4 月逝世。逝世前与张志强、[[Tengteng Zhuang|庄腾腾]]联合在 *ECNU Review of Education* 发表特刊论文（[[Argument_Slavin_2021_ROE|Slavin et al., 2021]]），系统回应华语学界对[[Positivism|实证主义]]的质疑；其确立的严格基线等效与元分析准入规程，持续作为后续学者（如 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）评估前沿 AI 教育干预的核心方法基准。
+> - **2021 — 逝世与学术遗产的延续** 2021 年 4 月逝世。逝世前与张志强、[[Tengteng Zhuang|庄腾腾]]联合在 *ECNU Review of Education* 发表特刊论文（[[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021]]），系统回应华语学界对[[Positivism|实证主义]]的质疑；其确立的严格基线等效与元分析准入规程，持续作为后续学者（如 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）评估前沿 AI 教育干预的核心方法基准。
 
 ---
 
@@ -125,7 +125,7 @@ updated: 2026-09-14
 >   - **核心问题** 推动联邦政策与教育资助同严格证据法定绑定，回应国际学界（特别是欧洲人文主义与中国学者）对[[Positivism|实证主义]]的批判。
 >   - **代表著作** 
 >     - Slavin, R. E. (2019). How evidence-based reform will transform research and practice in education. *Educational Psychologist*, 55(1), 1–13. [[Argument_Slavin_2019_EP|(Slavin, 2019)]]
->     - Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? *ECNU Review of Education*, 4(1), 7–24. [[Argument_Slavin_2021_ROE|(Slavin et al., 2021)]]
+>     - Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? *ECNU Review of Education*, 4(1), 7–24. [[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021)]]
 >   - **关键概念／方法** [[ESSA 2015 Evidence Standards]]、三条件框架（有效项目、可信审查、政策激励）。
 >   - **阶段特征** 坚定捍卫证据本位教育对公共决策的治理价值，强调 RCT 虽非全部，但绝不可被虚无主义否定。
 > - **2021 至今 — 方法论规程的长期学术遗产**
@@ -136,7 +136,7 @@ updated: 2026-09-14
 ## 核心思想
 
 > [!claim] 核心主张
-> Slavin 的核心思想归结为教育改革的**“循证累积[[Paradigm|范式]]”** 教育要摆脱意识形态与未经检验的教学时尚钟摆，就必须像现代医学一样，建立在对**具体项目**（而非抽象原则）的**严谨实验比较（偏好[[Random Assignment|随机分配]]与基线严格等价的准实验）**基础之上；通过“大量验证项目、公信证据审查机构、法律与财政政策激励”三者合力，推动教育系统实现稳定、不可逆的持续进步。[[Argument_Slavin_2002_ER|(Slavin, 2002)]]; [[Argument_Slavin_2019_EP|(Slavin, 2019)]]; [[Argument_Slavin_2021_ROE|(Slavin et al., 2021)]]
+> Slavin 的核心思想归结为教育改革的**“循证累积[[Paradigm|范式]]”** 教育要摆脱意识形态与未经检验的教学时尚钟摆，就必须像现代医学一样，建立在对**具体项目**（而非抽象原则）的**严谨实验比较（偏好[[Random Assignment|随机分配]]与基线严格等价的准实验）**基础之上；通过“大量验证项目、公信证据审查机构、法律与财政政策激励”三者合力，推动教育系统实现稳定、不可逆的持续进步。[[Argument_Slavin_2002_ER|(Slavin, 2002)]]; [[Argument_Slavin_2019_EP|(Slavin, 2019)]]; [[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021)]]
 
 > [!citation-card]- 关键表述
 > 只有当我们每年在教育实践的各个领域开展数十项或数百项经过随机化或严谨匹配的实验时，我们才能开始取得稳定、不可逆转的真正进步。在此之前，我们不过是在教育时尚的钟摆上随波逐流。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 19)]]
@@ -156,7 +156,7 @@ updated: 2026-09-14
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Slavin_2002_ER]] — 提出证据本位教育政策的核心纲领，论证开发-评估-推广[[Paradigm|范式]]对克服教育研究声誉危机的根本意义。
 > - [[Argument_Slavin_2019_EP]] — 荣获桑代克奖后的总结性论著，系统梳理 ESSA 时代[[Evidence-Based Reform|证据本位改革]]的三条件机制。
-> - [[Argument_Slavin_2021_ROE]] — 针对中国学者对证据本位教育的质疑进行理论辨正，提出因果实证与质性理解相结合的开放态度。
+> - [[Argument_Slavin_2021_ECNUROE]] — 针对中国学者对证据本位教育的质疑进行理论辨正，提出因果实证与质性理解相结合的开放态度。
 > - [[Argument_Chen_Cheung_2025_ERR]] — 合作者[[Alan C. K. Cheung|张志强]]等严格沿用 Slavin 的样本量（$n \ge 15$）与基线等效（$d < 0.25$）准入规程开展生成式 AI [[Meta-analysis|元分析]]，证实了教育技术在剔除虚假高估后的真实基准效应。
 
 ---

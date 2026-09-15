@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 70
+fact_related_count: 79
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -27,10 +27,15 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
+  - "[[Months of Progress]]"
   - "[[Preregistration]]"
   - "[[Effective Sample Size]]"
   - "[[Going Native]]"
   - "[[School Choice]]"
+  - "[[Statistical Analysis Plan]]"
+  - "[[Metacognition]]"
+  - "[[Social-Emotional Learning]]"
+  - "[[Teaching Assistant]]"
   - "[[Evidence Standards]]"
   - "[[Abstract]]"
   - "[[Evidence-Informed Practice]]"
@@ -38,7 +43,6 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Knowledge Production]]"
   - "[[Policy Network]]"
-  - "[[Teaching Assistant]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
@@ -68,8 +72,10 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Efficacy Trial]]"
   - "[[Systematic Review]]"
+  - "[[Multi-Arm Trial]]"
 related_instruments: []
 related_persons:
+  - "[[Michael Gove]]"
   - "[[Peter Lampl]]"
 related_facts:
   - "[[Sutton Trust]]"
@@ -80,6 +86,9 @@ related_facts:
   - "[[National Pupil Database]]"
   - "[[Australian Education Research Organisation]]"
   - "[[BHP Foundation]]"
+  - "[[Researching School Choices]]"
+  - "[[Teacher Choices]]"
+  - "[[ISRCTN]]"
   - "[[SPECTRUM]]"
   - "[[What Works Network]]"
   - "[[What Works Clearinghouse]]"
@@ -93,8 +102,8 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Cowen_2019_ERE]]"
@@ -102,7 +111,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Education Endowment Foundation
@@ -112,24 +121,24 @@ updated: 2026-09-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 教育捐赠基金会（Education Endowment Foundation，EEF）是 2011 年成立于英国伦敦的准独立慈善证据中介旗舰机构，由[[Sutton Trust|萨顿信托]]（Sutton Trust）与动力信托（Impetus）联合设立并依托英国教育部 1.25 亿英镑种子基金运营，代表了从传统单向清算中心向因果证据生产 $+$ 综合[[Transfer Translation Transformation|转译]] $+$ [[Research Schools Network|研究学校网络]]深耕的现代[[Evidence Ecosystem|教育证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm|范式]]演进([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 62]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]]; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]; [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 47–49]])。
+> 教育捐赠基金会（Education Endowment Foundation，EEF）是 2011 年成立于英国伦敦的准独立慈善证据中介旗舰机构，由[[Sutton Trust|萨顿信托]]（Sutton Trust）与动力信托（Impetus）联合设立并依托英国教育部 1.25 亿英镑种子基金运营，代表了从传统单向清算中心向因果证据生产 $+$ 综合[[Transfer Translation Transformation|转译]] $+$ [[Research Schools Network|研究学校网络]]深耕的现代[[Evidence Ecosystem|教育证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm|范式]]演进([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 62]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]]; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 47–49]])。
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2010 年末，时任英国教育大臣迈克尔·戈夫（Michael Gove）受美国奥巴马政府争向顶峰（Race to the Top）计划启发，宣布设立独立基金会以提升英格兰薄弱学校标准；2011 年萨顿信托在公开竞标中胜出，联合 Impetus 共同创立 EEF，设定了 15 年法定运营期并计划撬动超过 2 亿英镑资助款项。
+> - **成立时间 / 创设背景** 2010 年末，时任英国教育大臣[[Michael Gove|迈克尔·戈夫]]（Michael Gove）受美国奥巴马政府争向顶峰（Race to the Top）计划启发，宣布设立独立基金会以提升英格兰薄弱学校标准；2011 年萨顿信托在公开竞标中胜出，联合 Impetus 共同创立 EEF，设定了 15 年法定运营期并计划撬动超过 2 亿英镑资助款项。
 > - **法定定位与清算中心职能** 2013 年 3 月，EEF 与萨顿信托被英国政府正式指定为英国教育领域的有效机构（What Works Centre for Education），纳入覆盖超过 2,500 亿英镑公共开支的国家证据中介网络。
-> - **法人属性与治理架构** 独立注册慈善组织（Charity），保持对政府政策的学术独立性；受托人理事会（Board of Trustees）由[[Peter Lampl|彼得·兰普尔爵士]]（Sir Peter Lampl）担任主席，并受专家顾问委员会（Advisory Board）与评估顾问小组（Evaluation Advisory Group，[[Education at a Glance|EAG]]）的专业指导([[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 47]])。
-> - **核心宗旨与法定职责** 破除家庭收入与[[Academic Achievement|学业成就]]之间的制度性关联，重点提升 3 至 18 岁处境不利儿童青少年的学业水平与生活技能，指导学校科学分配[[Pupil Premium|学生津贴]]（Pupil Premium）公共专项资金([[Argument_Higgins_2016_RE|Higgins, 2016, p. 46]]; [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 48]])。
+> - **法人属性与治理架构** 独立注册慈善组织（Charity），保持对政府政策的学术独立性；受托人理事会（Board of Trustees）由[[Peter Lampl|彼得·兰普尔爵士]]（Sir Peter Lampl）担任主席，并受专家顾问委员会（Advisory Board）与评估顾问小组（Evaluation Advisory Group，[[Education at a Glance|EAG]]）的专业指导([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 47]])。
+> - **核心宗旨与法定职责** 破除家庭收入与[[Academic Achievement|学业成就]]之间的制度性关联，重点提升 3 至 18 岁处境不利儿童青少年的学业水平与生活技能，指导学校科学分配[[Pupil Premium|学生津贴]]（Pupil Premium）公共专项资金([[Argument_Higgins_2016_ROE|Higgins, 2016, p. 46]]; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 48]])。
 
 ---
 
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 机构发展与全球扩张历程
-> - **2011 — 创设与工具包研发** [[Sutton Trust|萨顿信托]]联合政府注资正式创立 EEF，接手并深度拓展杜伦大学（Durham University）研发的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit），以额外学习月数（Months of Progress）为通俗指标向全英学校输出证据排序。
-> - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration|预注册]]与[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size|有效样本量]]较早期翻倍，显著提升了统计功效（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 48–50, 56]]；Sanders, 2019）。
+> - **2011 — 创设与工具包研发** [[Sutton Trust|萨顿信托]]联合政府注资正式创立 EEF，接手并深度拓展杜伦大学（Durham University）研发的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit），以额外学习月数（[[Months of Progress]]）为通俗指标向全英学校输出证据排序。
+> - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration|预注册]]与[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size|有效样本量]]较早期翻倍，显著提升了统计功效（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48–50, 56]]；Sanders, 2019）。
 > - **2016 — 跨国政策辐射与制度输出** 澳大利亚政府生产力委员会建议直接以英国 EEF 为蓝本建立本土国家证据机构，直接催生了后来的[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation，AERO）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
-> - **2018 — 私人资本注资与全球生态复制** 启动全球[[Evidence Ecosystem|证据生态系统]]扩张战略，获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的跨国教学证据生态建设项目，联合智利 Summa、澳大利亚有效证据组织（Evidence for Learning，E4L）等机构推进证据[[Going Native|本土化]]转化([[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 49]])。
-> - **2019 — 启动“[[Research Schools Network|研究学校网络]]”并开辟多样化设计资助流** 正式构建由 32 所常设研究学校与 8 所联合研究学校组成的研究学校网络（Research Schools Network，RSN）；针对学校不愿[[Random Assignment|随机化]]的结构制度（如分层分班、作息调整）设立研究[[School Choice|学校选择]]（Researching school choices）[[Quasi-Experimental Designs|准实验设计]]（Quasi-Experimental Designs，QED）资助流，并设立关注日常教学微决策的教师选择（Teacher choices）微型试验项目([[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 48, 55–56]])。
+> - **2018 — 私人资本注资与全球生态复制** 启动全球[[Evidence Ecosystem|证据生态系统]]扩张战略，获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的跨国教学证据生态建设项目，联合智利 Summa、澳大利亚有效证据组织（Evidence for Learning，E4L）等机构推进证据[[Going Native|本土化]]转化([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 49]])。
+> - **2019 — 启动“[[Research Schools Network|研究学校网络]]”并开辟多样化设计资助流** 正式构建由 32 所常设研究学校与 8 所联合研究学校组成的研究学校网络（Research Schools Network，RSN）；针对学校不愿[[Random Assignment|随机化]]的结构制度（如分层分班、作息调整）设立研究[[School Choice|学校选择]]（[[Researching School Choices]]）[[Quasi-Experimental Designs|准实验设计]]（Quasi-Experimental Designs，QED）资助流，并设立关注日常教学微决策的[[Teacher Choices|教师选择]]（Teacher choices）微型试验项目([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48, 55–56]])。
 > - **2020–2023 — 跨国治理渗透与认知科学推广** EEF 首任首席执行官凯万·柯林斯爵士（Sir Kevan Collins）受邀出任澳大利亚 AERO 专家委员会委员；2023 年发布《课堂中的认知科学》专题综述，系统推进基于[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory）的显性教学规程([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 8, 11]])。
 
 ---
@@ -143,7 +152,7 @@ updated: 2026-09-15
 > - **[[Research Schools Network|研究学校网络]]（RSN 基层网络）** 由 40 所卓越公立中小学担任“研究学校”，作为连接宏观证据与微观教研室的核心边界跨越枢纽。
 
 > [!pathways]- 业务运行与生态化转化机制
-> - **因果证据生成机制** 针对有潜力的教学创新公开招募提案 $\to$ 委托独立第三方开展[[Pre-test and Post-test|前测]]-后测大规模 [[Randomised Controlled Trials|RCT]] $\to$ 在国际标准随机对照试验[[Coding in Qualitative Research|编码]]（International Standard Randomised Controlled Trial Number，ISRCTN）[[Preregistration|预注册]]方案与统计分析计划（Statistical Analysis Plan，SAP） $\to$ 统一归档至[[National Pupil Database|国家学生数据库]]（NPD）并发布完全公开的独立评估报告。
+> - **因果证据生成机制** 针对有潜力的教学创新公开招募提案 $\to$ 委托独立第三方开展[[Pre-test and Post-test|前测]]-后测大规模 [[Randomised Controlled Trials|RCT]] $\to$ 在国际标准随机对照试验[[Coding in Qualitative Research|编码]]（[[ISRCTN|International Standard Randomised Controlled Trial Number]]，ISRCTN）[[Preregistration|预注册]]方案与[[Statistical Analysis Plan|统计分析计划]]（Statistical Analysis Plan，SAP） $\to$ 统一归档至[[National Pupil Database|国家学生数据库]]（NPD）并发布完全公开的独立评估报告。
 > - **多维证据合成** 组织顶尖学者对全球数千项[[Meta-analysis|元分析]]与本土试验进行二次综合，定期迭代《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》，并推进[[Coding in Qualitative Research|编码]]上万项研究的教育数据库（Education Database）。
 > - **校本落地渗透** 通过研究学校网络开展系统培训，指导校领导根据[[Pupil Premium|学生津贴]]账目开展循证决策。
 
@@ -152,13 +161,13 @@ updated: 2026-09-15
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **循证决策工具包矩阵（Toolkits）** 研发国际公认的旗舰《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》与《学前教育工具包》，综合 5,500 余项实证研究，以额外学习月数（Months of Progress）、实施成本与挂锁安全级别动态呈现 30 余类教学干预有效性。([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, pp. 110–111]])
-> - **权威结局度量工具库与实证数据库（Databases）** 为从源头上提升干预评估的心理计量质量，构建由三大国家级度量数据库（[[SPECTRUM|SPECTRUM 非认知测量库]]、学业成就测量库 [Attainment Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database) 与学前早期测量库 [Early Years Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）以及深度编码上万项研究的全球教育活数据库（EEF Education Database）构成的量化基础设施。
-> - **前沿实践指导报告体系（Guidance Reports）** 针对元认知、中小学读写、数学、社会情感学习（SEL）与助教配置等高优先级教学领域发布操作细化的循证行动指南，成为指导全英逾 85% 校长分配学生津贴的核心准则。
-> - **大规模现场 RCT 知识库与国家数据归档（Trials & NPD Archive）** 累计资助开展逾 200 项大规模学校现场 [[Randomised Controlled Trials|RCT]]（85% 达 3 把挂锁以上），并依托英格兰[[National Pupil Database|国家学生数据库]]（NPD）建立全球首个试验微观数据开放归档库，实现全样本长期因果追踪。
+> - **循证决策工具包矩阵（Toolkits）** 研发国际公认的旗舰《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》与《学前教育工具包》，综合 5,500 余项实证研究，以额外学习月数（[[Months of Progress]]）、实施成本与挂锁安全级别动态呈现 30 余类教学干预有效性。([[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 46–47]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, pp. 110–111]])
+> - **权威结局度量工具库与实证数据库（Databases）** 为从源头上提升干预评估的心理计量质量，构建由三大国家级度量数据库（[[SPECTRUM]] 非认知测量库、[[Academic Achievement|学业成就]]测量库 [Attainment Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database) 与学前早期测量库 [Early Years Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）以及深度编码上万项研究的全球教育活数据库（EEF Education Database）构成的量化基础设施。
+> - **前沿实践指导报告体系（Guidance Reports）** 针对[[Metacognition|元认知]]、中小学读写、数学、[[Social-Emotional Learning|社会情感学习]]（SEL）与[[Teaching Assistant|助教]]配置等高优先级教学领域发布操作细化的循证行动指南，成为指导全英逾 85% 校长分配[[Pupil Premium|学生津贴]]的核心准则。
+> - **大规模现场 [[Randomised Controlled Trials|RCT]] 知识库与国家数据归档（Trials & NPD Archive）** 累计资助开展逾 200 项大规模学校现场 [[Randomised Controlled Trials|RCT]]（85% 达 3 把挂锁以上），并依托英格兰[[National Pupil Database|国家学生数据库]]（NPD）建立全球首个试验微观数据开放归档库，实现全样本长期因果追踪。
 
 > [!citation-card] 代表性产品说明：《教学与学习工具包》
-> 工具包系统总结了超过 5,500 项教育实证研究，将高深抽象的统计[[Effect Size|效应量]]（Effect Size）折算为一线教师直观易懂的额外学习月数（Months of Progress），从净学业增益、经济成本与证据安全级别三个核心维度为学校管理层提供决策依据。([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 46–47]])
+> 工具包系统总结了超过 5,500 项教育实证研究，将高深抽象的统计[[Effect Size|效应量]]（Effect Size）折算为一线教师直观易懂的额外学习月数（Months of Progress），从净学业增益、经济成本与证据安全级别三个核心维度为学校管理层提供决策依据。([[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 46–47]])
 >
 > *The Toolkit synthesises evidence from more than 5 500 studies to provide accessible, actionable information on the average impact (expressed as months of progress), cost, and evidence security of different educational approaches.*
 
@@ -176,7 +185,7 @@ updated: 2026-09-15
 > [!critique-data]- 最终受益人评估与[[Research Schools Network|研究学校网络]]（RSN）3年实证结果
 > - **全球有效机构中的评估例外** 跨国实证综述显示，除英国教育捐赠基金会（EEF）之外，绝大多数有效机构（[[What Works Network|What Works Centres]]）极少对其推动的证据利用在最终受益人（即学生学业与身心发展）上的长远效益进行独立因果评估。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; Gough et al. (2018)
 > - **研究学校网络（RSN）三年评估的实证警示** 由第三方独立团队对全英由 EEF 资助的研究学校网络（Research Schools Network，RSN）前三年实施效果开展的大规模评估（Gu et al., 2021）证实：项目虽然在教师与校长的研究意识、循证教学信念与校本教研文化上取得了显著的制度性改变，但在学生客观标准化统考成绩（普通中等教育证书（General Certificate of Secondary Education，GCSE）成绩）上尚未呈现出任何统计学显著改善的证据。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 118)]]
-> - **教育转化的漫长滞后与归因挑战** 医药卫生领域从新证据发表到临床实质采纳的平均时间滞后长达 17 年，而教育领域的因果链路更为曲折弥散；这一实证警示揭示了从教师认知转变到学生统考学业成绩显著提升之间存在漫长的因果时滞，全系统治理不可期望通过短期干预产生立竿见影的奇迹。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 117–118)]]
+> - **教育转化的漫长滞后与归因挑战** 医药卫生领域从新证据发表到临床实质采纳的平均时间滞后长达 17 年，而教育领域的因果链路更为曲折弥散；这一实证警示揭示了从教师认知转变到学生统考[[Academic Achievement|学业成绩]]显著提升之间存在漫长的因果时滞，全系统治理不可期望通过短期干预产生立竿见影的奇迹。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 117–118)]]
 
 > [!finding-cards] 关键成效与[[Paradigm|范式]]演变
 > - **确立新一代生态型中介范式** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 与 [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 一致指出，EEF 突破了早期美国 [[What Works Clearinghouse|WWC]] 单纯依靠网站被动推送[[Abstract|研究摘要]]的线性局限，首次将证据资助、[[Transfer Translation Transformation|转译]]、传播与一线的[[Research Schools Network|研究学校网络]]深度绑定，构建起当代最完备的[[Evidence-Informed Practice|证据知情实践]]生态系统。
@@ -227,7 +236,7 @@ updated: 2026-09-15
 > 
 > 批判实在论与[[Realist Evaluation|实在论评估]]（Realist Evaluation）表明，教育干预是否产生积极效果，在本体论上恰恰取决于教师在具体微观情境中的[[Professional Judgment|专业判断]]（Professional Judgment）以及学生的能动性反应。将能动性视为实验污染物的[[Positivism|实证主义]]进路，在根本上背离了教育实践的开放系统属性([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6–7]])。
 
-> [!critique-logic]- 案例四：内部方法学反思——常态对照基线高企与规模化效应递减（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 56–57]]）
+> [!critique-logic]- 案例四：内部方法学反思——常态对照基线高企与规模化效应递减（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 56–57]]）
 > EEF 资深评估团队自述揭示：Lortie-Forgues & Inglis (2019) 重新分析 EEF 与[[National Center for Education Evaluation and Regional Assistance|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance，NCEE）资助的 141 项 RCT 发现平均效应量仅为 $0.06$ 标准差。面对极少有干预能显著胜过[[Business as Usual|常态教学]]（business as usual）的质疑，EEF 反思指出：一方面，缺乏显著正效应往往反映了常态学校教学本身的高水准基线，识别哪些流行做法无效对于避免公共资金浪费具有同等重要的价值；另一方面，干预在小规模[[Efficacy Trial|效力试验]]（efficacy）阶段的显著成效往往难以在大规模效果试验（effectiveness）阶段复现，统计功效所需的大样本迫使提供方过快扩张，从而稀释了教师培训与[[Implementation Fidelity|实施保真度]]，催生了向[[Realism in International Relations|现实主义]]试验与适应性设计演进的迫切诉求。
 
 ---
@@ -249,4 +258,4 @@ updated: 2026-09-15
 > | [[What Works Clearinghouse]] | Fact (Organization) | 美国官方清算中心，与 EEF 并列为国际[[Evidence-Based Education\|循证教育]]的两大顶级旗舰。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国本土早期的[[Systematic Review\|系统综述]]先驱，为 EEF 的建立提供了学术方法论滋养。 |
 | [[SPECTRUM]] | Fact (Program) | EEF 委托研发的权威非认知与社会情感测量工具库与准入标准体系。 |
-| [[Literacy Octopus]] | Fact (Program) | EEF 资助开展的大规模多臂试验标志性案例，证实单向信息推介对提升学业无效。 |
+| [[Literacy Octopus]] | Fact (Program) | EEF 资助开展的大规模[[Multi-Arm Trial\|多臂试验]]标志性案例，证实单向信息推介对提升学业无效。 |

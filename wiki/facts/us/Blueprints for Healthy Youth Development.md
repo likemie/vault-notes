@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Blueprints for Healthy Youth Development
@@ -120,8 +120,9 @@ updated: 2026-09-15
 ## 在 1,359 个教育项目库中的实证表现
 
 > [!stat-cards]- Blueprints 评级一致性表现
-> - **极高过滤率** 在全部审查项目中，仅不足 5% 的项目能通过审核获得认证，被冠以 Model Plus 的项目极度罕见。
-> - **极端冲突表现** 在与 [[What Works Clearinghouse|WWC]]、[[National Dropout Prevention Center|NDPC]] 等机构的多重评级中，Blueprints 常因其 12 个月[[Fade-out Effect|持续效果]]与独立复制要求，将其他机构评为最高级（1级）的项目降级或归为未认证（3级），产生典型的 1&3 极端冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 19–20]])。
+> - **< 5%** 在全部审查项目中能通过审核获得认证的项目比例，被冠以 Model Plus 的项目极度罕见。
+
+在与 [[What Works Clearinghouse|WWC]]、[[National Dropout Prevention Center|NDPC]] 等机构的多重评级中，Blueprints 常因其 12 个月[[Fade-out Effect|持续效果]]与独立复制要求，将其他机构评为最高级（1 级）的项目降级或归为未认证（3 级），产生典型的 1&3 极端冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 19–20]])。
 
 ---
 

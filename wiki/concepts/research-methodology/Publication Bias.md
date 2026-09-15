@@ -47,7 +47,7 @@ related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Zhao_2025_JIntell]]"
@@ -86,7 +86,7 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 > - **阻滞[[Cumulative Knowledge Base|累积性知识库]]建构的系统效应** 出版生态对显著正向结果的偏好直接导致教育实证证据呈现高度碎片化，排斥了零结果与情境复制研究，阻碍了教学与学校改进所需累积性知识库（cumulative knowledge base）的生成，使循证决策者难以辨识真实可靠的有效实践（Burkhardt & Schoenfeld, 2003）。
 
 > [!warning] 文件抽屉问题的最早案例（1940）
-> Pratt and Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计了未发表论文对总体汇总效果的影响。他们基于汇总证据认为超感知觉存在，但后世对此持怀疑态度——最重要的原因是这些发现未能被重复验证。这说明发表偏差可能导致系统性不完整的研究图景，即使按当时标准进行严格分析也可能无法发现（[[Argument_Higgins_2016_RE|Higgins, 2016, p.35]]）。
+> Pratt and Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计了未发表论文对总体汇总效果的影响。他们基于汇总证据认为超感知觉存在，但后世对此持怀疑态度——最重要的原因是这些发现未能被重复验证。这说明发表偏差可能导致系统性不完整的研究图景，即使按当时标准进行严格分析也可能无法发现（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.35]]）。
 
 > [!info] Vevea-Hedges 权重函数模型
 > [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 438)]] 使用 Vevea & Hedges (1995) 权重函数模型估计经发表偏倚校正后的平均[[Effect Size|效应量]]：根据效应量的 p 值区间赋予不同权重，模拟不同显著水平下的发表概率差异，通过似然比检验判断校正模型是否比原始模型更好地拟合数据。
@@ -100,7 +100,7 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 ## 历史沿革
 
 > [!dev-timeline] 发表偏倚的概念演变
-> - **1940 — Pratt and Rhine 的最早检测** 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计未发表论文对汇总效果的影响（[[Argument_Higgins_2016_RE|Higgins, 2016, p.35]]）
+> - **1940 — Pratt and Rhine 的最早检测** 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计未发表论文对汇总效果的影响（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.35]]）
 > - **1991 — Rosenthal 的文件抽屉方法** 提出量化发表偏倚的经典方法，计算推翻显著结论所需未发表研究数量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, p.355]]）
 > - **1995 — Vevea & Hedges 权重函数模型** 提出用于[[Meta-analysis|元分析]]中发表偏倚统计校正的方法
 > - **2020 — Wolf et al. 首次应用于[[Developer Effect|开发者效应]]** 将 Vevea-Hedges 校正应用于开发者 vs 独立研究的[[Effect Size|效应量]]比较

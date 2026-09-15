@@ -89,7 +89,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: '2026-08-27'
+updated: 2026-09-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04
 
@@ -717,7 +717,7 @@ Morrison（2009）提出了两种回溯因果推断方法：（a）各种形式�
 
 Goldthorpe 首先观察到两组平行存在的社会规律性（效果）（p.83）：
 
-> [!stat-cards] 教育扩张与阶级固化的双重规律
+> [!feature] 教育扩张与阶级固化的双重规律
 > - **规律性 A** 所有发达社会过去 50 年教育供给持续扩张，所有阶级在义务教育后继续全日制教育的人数大幅增加。
 > - **规律性 B** 与此同时，教育获得的阶级差异——阶级出身与[[Further Education|继续教育]]或进入高等教育的可能性之间的关系——仅有微弱缩小（甚至没有缩小），且适用于大多数社会。
 

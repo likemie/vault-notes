@@ -77,7 +77,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-06-09
+updated: 2026-09-16
 ---
 # Argument_Eacott_2017_SLM
 
@@ -92,7 +92,7 @@ updated: 2026-06-09
 > 
 > 这个谜题可以还原为一个具体的学校管理场景：一位普通的澳大利亚公立学校校长，在面对 NAPLAN 与 [[PISA]] 成绩下滑的外部政治恐慌、以及日常事务缠身的行政压力时，如何通过哈蒂提供的[[Effect Size|效应量]]账本（以效应量大于等于 0.40 作为投资收益标准），以一种科学化、符号化的行政方式去管理教师的课堂教学并重构其专业生活？（pp.418–419）
 
-> [!stat-cards]+ 一页读懂
+> [!feature]+ 一页读懂
 > - **对象** 澳大利亚[[School Leadership|学校领导力]]实践、哈蒂的[[Visible Learning|VL]]品牌与国家行政权力的结盟。
 > - **工具** 卡拉汉的[[Cult of Efficiency|效率崇拜]]历史类比，诊断VL为重构学校领导力的[[Neo-Taylorism|新泰勒主义]]。
 > - **张力** 方法论的严厉学术批判与政策/实践界将哈蒂封神并制度性深锁之间的巨大鸿沟。
@@ -223,7 +223,7 @@ updated: 2026-06-09
 > 3. **数据账本与[[Neo-Taylorism|新泰勒主义]]微观控制的制度深锁** 哈蒂[[Effect Size|效应量]]账本将复杂的教学体验降维为 d = 0.40 的度量衡，且通过哈蒂担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席的身份内嵌于国家教师与校长专业标准中，实现了“无数据即无学习”的微观监控，构成了教师去专业化与去技能化的新泰勒主义管理悲剧（pp.421–422）。
 
 > [!stat-cards]- 核心数据
-> - **800多项** 哈蒂[[Meta-meta-analysis|元-元分析]]所整合的[[Meta-analysis|元分析]]总数，共包含 52,637 项独立实证研究，涉及约 2.4 亿学生样本。（p.418）
+> - **800** 哈蒂[[Meta-meta-analysis|元-元分析]]所整合的[[Meta-analysis|元分析]]总数（项），共包含 52,637 项独立实证研究，涉及约 2.4 亿学生样本。（p.418）
 > - **d = 0.40** 改进效果的铰链点（Hingepoint），被哈蒂宣称等同于学生在一学年里的正常学业[[Growth|成长]]量，成为行政决策的底层[[Return on Investment|ROI]]标尺。
 > - **ES = 0.84** 罗宾逊元分析中“促进与参与教师的学习与发展”维度的效应量，是[[Instructional Leadership|教学领导力]]影响学生成绩最高的维度。（p.417）
 

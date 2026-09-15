@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-16
 ---
 
 # Guizot Law of 1833
@@ -179,9 +179,9 @@ updated: 2026-09-06
 历史档案记录了法案实施引发的核心统计数据飞跃：
 
 > [!stat-cards]- 核心数据
-> - **市镇建校覆盖规模** 强制全法逾 30,000 个市镇（communes）独立设立或联合创办初等公学，对赤贫儿童一律全免学费。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, p. 29]]）
-> - **师资法定待遇** 国家首度确立法定初等教师最低年薪为 200 法郎加免费居所，并由中央财政全额兜底保障。（Bowen, 1981:315）
-> - **高级小学设立标准** 规定全国人口超过 6,000 人的城镇必须设立高级初等小学，直接对接工商业现代化。（pp. 28–29）
+> - **30,000** 被强制独立设立或联合创办初等公学的市镇（communes）数量下限（个），对赤贫儿童一律全免学费。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, p. 29]]）
+> - **200** 国家首度确立法定初等教师最低年薪（法郎），另加免费居所，并由中央财政全额兜底保障。（Bowen, 1981:315）
+> - **6,000** 必须设立高级初等小学的城镇人口门槛（人），直接对接工商业现代化。（pp. 28–29）
 
 ---
 

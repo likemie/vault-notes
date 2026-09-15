@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一教育组织变量，其影响不仅取决于人数变化本身，还取决于教师质量、课堂资源和教学方式是否随之调整。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Critique of Meta-analysis]]"
+  - "[[Lesson Study]]"
   - "[[Classroom Management]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -51,14 +52,14 @@ related_arguments:
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Cowen_2015_CHESS]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-08-20
+updated: 2026-09-15
 ---
 
 ## 定义
@@ -105,7 +106,7 @@ updated: 2026-08-20
 
 ### 课堂过程
 
-班级规模不是单纯的"工作条件"，而是教与学的条件。Blatchford 及其同事在英国进行的大规模自然主义课堂研究显示，班级规模会改变课堂互动结构：大班会产生更多小组和更大的组内人数，增加管理压力，降低学生注意力；小班中教师更可能与个别学生互动，学生更可能主动参与，低成就学生尤其可能受益([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.155, 157-158]])。
+班级规模不是单纯的"工作条件"，而是教与学的条件。Blatchford 及其同事在英国进行的大规模自然主义[[Lesson Study|课堂研究]]显示，班级规模会改变课堂互动结构：大班会产生更多小组和更大的组内人数，增加管理压力，降低学生注意力；小班中教师更可能与个别学生互动，学生更可能主动参与，低成就学生尤其可能受益([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.155, 157-158]])。
 
 > [!finding-cards] Blatchford 研究揭示的课堂过程
 > 1. **对课堂整体互动框架的影响** 大班产生更多小组和更多组内学生人数，对教学、学习和学生注意力产生负面影响（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, p.157]]）。
@@ -132,7 +133,7 @@ updated: 2026-08-20
 ## 实证数据
 
 > [!success] 证据格局总览
-> 班级规模证据并不是"一边倒无效"或"一边倒有效"。平均效应常被报告为较小，但高质量实验、低年级和弱势学生、伴随教学改变的政策组合可能显示更强效果；大规模推广若缺少合格教师和教室，可能反而削弱效果（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.100-102]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6-7]]; [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
+> 班级规模证据并不是"一边倒无效"或"一边倒有效"。平均效应常被报告为较小，但高质量实验、低年级和弱势学生、伴随教学改变的政策组合可能显示更强效果；大规模推广若缺少合格教师和教室，可能反而削弱效果（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.100-102]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6-7]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
 
 ### 成就效果
 
@@ -182,8 +183,8 @@ updated: 2026-08-20
 > [!concept-lens] 成本效益与替代方案
 > 即使班级规模效应真实存在，大规模缩减班额的政策成本极高。需要在同等预算下比较不同干预方案的相对效果。
 
-> [!claim] [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]
-> [[French Class Size Reduction]] 中法国教育部将弱势地区一、二年级班额从 24 人降至 12 人，Campbell 协作网（[[Campbell Collaboration]]） 元分析显示阅读效应小而显著，数学效应为负且不显著。Pellegrini and Vivanet 的判断是：减少不平等当然必要，但班额缩减可能是昂贵且相对低效的方案；成人辅导等策略在若干元分析中显示出更强的[[Academic Achievement|学业成就]]证据（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
+> [!claim] [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]]
+> [[French Class Size Reduction]] 中法国教育部将弱势地区一、二年级班额从 24 人降至 12 人，Campbell 协作网（[[Campbell Collaboration]]） 元分析显示阅读效应小而显著，数学效应为负且不显著。Pellegrini and Vivanet 的判断是：减少不平等当然必要，但班额缩减可能是昂贵且相对低效的方案；成人辅导等策略在若干元分析中显示出更强的[[Academic Achievement|学业成就]]证据（[[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
 
 ---
 ### 命题三　班级规模效应依赖于教学方式的同步改变，仅缩减人数不足以保证效果
@@ -251,7 +252,7 @@ updated: 2026-08-20
 ### 法国
 
 > [!evidence-grid-a] 法国案例
-> - **[[French Class Size Reduction]]** 弱势地区一、二年级班额从 24 人降至 12 人，是政策制定者查阅证据后采取行动的案例；但相关效应较小且成本高，Pellegrini and Vivanet 将其作为证据知情政策仍需比较成本与替代方案的例子（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27–28]]）。
+> - **[[French Class Size Reduction]]** 弱势地区一、二年级班额从 24 人降至 12 人，是政策制定者查阅证据后采取行动的案例；但相关效应较小且成本高，Pellegrini and Vivanet 将其作为证据知情政策仍需比较成本与替代方案的例子（[[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, pp.27–28]]）。
 
 ### 新西兰
 

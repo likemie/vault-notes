@@ -7,7 +7,7 @@ aliases:
 summary: "由 Godfrey 和 Brown（2019）提出的框架，用微观、中观、外、宏观与时间五层生态绘制研究参与如何嵌入更大的教育生态，是分析研究参与学校多层级条件的理论透镜"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -17,6 +17,7 @@ tags:
   - theme/school-improvement
   - theme/evidence-informed-practice
 related_concepts:
+  - "[[Research-Engaged School]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research-Practice Gap]]"
   - "[[Epistemic Stances]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-16
 ---
 
 # Ecosystem for Research-Engaged Schools
@@ -55,7 +56,7 @@ updated: 2026-08-26
 > - **知识位置** 由 David Godfrey 与 Chris Brown（2019）提出，基于实证研究与理论综合，用于研究与改进学校层面的研究参与。
 
 > [!claim] 核心主张
-> 研究参与学校的形成不只取决于学校内部，而是嵌入在微观、中观、外、宏观与时间五层生态之中：学校通过双向的[[Knowledge Mobilisation|知识动员]]与社会系统中各层行动者相连，研究参与的条件要放在整个教育生态里才能看清。
+> [[Research-Engaged School|研究参与学校]]的形成不只取决于学校内部，而是嵌入在微观、中观、外、宏观与时间五层生态之中：学校通过双向的[[Knowledge Mobilisation|知识动员]]与社会系统中各层行动者相连，研究参与的条件要放在整个教育生态里才能看清。
 
 ---
 
@@ -84,7 +85,7 @@ updated: 2026-08-26
 > - **推导** 因此，评估或改进研究参与必须同时看学校内外多个层面的条件，而不只是学校内部或教师个人。
 
 > [!proposition-chain] 核心命题二｜学校与更大系统之间通过双向[[Knowledge Mobilisation|知识动员]]相互强化
-> - **前提一** 模型中，知识动员被表示为连接研究参与学校与更大系统的双向箭头，二者相互促进（Godfrey & Brown, 2019, p.212）。
+> - **前提一** 模型中，知识动员被表示为连接[[Research-Engaged School|研究参与学校]]与更大系统的双向箭头，二者相互促进（Godfrey & Brown, 2019, p.212）。
 > - **前提二** 宏观系统层面的要素包括"（明智的）问责、信任与社会目标"、"相信实践者和研究者扮演关键角色"、"关于研究本位实践重要性的强包容叙事"（Godfrey & Brown, 2019, p.212，转引自 Hagevold et al., 2026, p.18）。
 > - **推导** 学校的研究参与能否持续，取决于外部系统是否提供信任、问责与社会目标的支撑，而不只是学校自身努力。
 
@@ -122,7 +123,7 @@ updated: 2026-08-26
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 研究参与学校的多层级条件、学校与系统的相互依赖、以及研究参与在不同生态位置的表现。
+> - **适合解释** [[Research-Engaged School|研究参与学校]]的多层级条件、学校与系统的相互依赖、以及研究参与在不同生态位置的表现。
 > - **谨慎使用** 需要与"什么算研究参与"的具体标准配合（如 [[Quality Use of Research Evidence Framework|QURE]]），否则层级容易停留在描述层面。
 > - **不适合解释** 不回答特定[[Research Utilization|研究使用]]的质量高低，也不替代对具体干预的因果评估。
 > - **常见误用** 把生态层级当作穷尽清单逐项打勾，或把某一层面的发现直接推广到其它层面。
@@ -132,7 +133,7 @@ updated: 2026-08-26
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2019 — 框架提出** Godfrey 与 Brown（2019）在《研究参与学校的生态系统》中提出五层生态模型，并把[[Knowledge Mobilisation|知识动员]]表示为学校与系统的双向纽带。
+> - **2019 — 框架提出** Godfrey 与 Brown（2019）在《[[Research-Engaged School|研究参与学校]]的生态系统》中提出五层生态模型，并把[[Knowledge Mobilisation|知识动员]]表示为学校与系统的双向纽带。
 > - **2026 — 作为先验框架子主题被采用** Hagevold 等人（2026）以生态模型为初始框架的个体、组织与系统层级提供子主题，并据实证结果把[[Governing Mechanisms of Research Use|研究使用治理机制]]重构为四类跨层机制。
 
 ---

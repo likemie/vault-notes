@@ -1,0 +1,19 @@
+---
+citation: "Higgins, S. (2016). Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits. Review of Education, 4(1), 31–53."
+extracted_to:
+  - "[[Argument_Higgins_2016_ROE]]"
+processed_date: 2026-06-08
+---
+
+# Higgins_2016_ROE
+
+![[Higgins_2016_ROE.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Higgins_2016_ROE/Higgins_2016_ROE.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

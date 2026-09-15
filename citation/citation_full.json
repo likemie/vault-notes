@@ -903,6 +903,42 @@
       "title": "Argument_Brock_2025_DataAccessGenerationUse",
       "year": "2025"
     },
+    "Brown & Greany (2018)": {
+      "aliases": [
+        "Brown & Greany, 2018",
+        "Brown & Greany (2018)"
+      ],
+      "argument": "Argument_Brown_Greany_2018_LPS",
+      "authors": [
+        "[[Chris Brown|Brown, C.]]",
+        "Greany, T."
+      ],
+      "citation": "Brown, C., & Greany, T. (2018). The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137. https://doi.org/10.1080/15700763.2016.1270330",
+      "doi": "10.1080/15700763.2016.1270330",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md",
+      "source_language": "en",
+      "title": "Argument_Brown_Greany_2018_LPS",
+      "year": "2018"
+    },
+    "Brown & Greany, 2018": {
+      "aliases": [
+        "Brown & Greany, 2018",
+        "Brown & Greany (2018)"
+      ],
+      "argument": "Argument_Brown_Greany_2018_LPS",
+      "authors": [
+        "[[Chris Brown|Brown, C.]]",
+        "Greany, T."
+      ],
+      "citation": "Brown, C., & Greany, T. (2018). The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137. https://doi.org/10.1080/15700763.2016.1270330",
+      "doi": "10.1080/15700763.2016.1270330",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md",
+      "source_language": "en",
+      "title": "Argument_Brown_Greany_2018_LPS",
+      "year": "2018"
+    },
     "Brown et al. (2017)": {
       "aliases": [
         "Brown et al., 2017",
@@ -1234,7 +1270,7 @@
         "Cheung & Xie, 2021",
         "Cheung & Xie (2021)"
       ],
-      "argument": "Argument_Cheung_2021_ROE",
+      "argument": "Argument_Cheung_2021_ECNUROE",
       "authors": [
         "[[Alan C. K. Cheung|Cheung, A. C. K.]]",
         "[[Chen Xie|Xie, C.]]"
@@ -1242,9 +1278,9 @@
       "citation": "Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. ECNU Review of Education, 4(1), 3–6.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Cheung_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Cheung_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Cheung_2021_ROE",
+      "title": "Argument_Cheung_2021_ECNUROE",
       "year": "2021"
     },
     "Cheung & Xie, 2021": {
@@ -1252,7 +1288,7 @@
         "Cheung & Xie, 2021",
         "Cheung & Xie (2021)"
       ],
-      "argument": "Argument_Cheung_2021_ROE",
+      "argument": "Argument_Cheung_2021_ECNUROE",
       "authors": [
         "[[Alan C. K. Cheung|Cheung, A. C. K.]]",
         "[[Chen Xie|Xie, C.]]"
@@ -1260,9 +1296,9 @@
       "citation": "Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. ECNU Review of Education, 4(1), 3–6.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Cheung_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Cheung_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Cheung_2021_ROE",
+      "title": "Argument_Cheung_2021_ECNUROE",
       "year": "2021"
     },
     "Chinn et al. (2011)": {
@@ -1670,7 +1706,7 @@
         "Dachet & Baye, 2021",
         "Dachet & Baye (2021)"
       ],
-      "argument": "Argument_Dachet_2021_ROE",
+      "argument": "Argument_Dachet_2021_ECNUROE",
       "authors": [
         "Dachet, D.",
         "Baye, A."
@@ -1678,9 +1714,9 @@
       "citation": "Dachet, D., & Baye, A. (2021). Evidence-based education: The not so simple case of French-speaking Belgium. ECNU Review of Education, 4(1), 164-189.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Dachet_2021_ROE",
+      "title": "Argument_Dachet_2021_ECNUROE",
       "year": "2021"
     },
     "Dachet & Baye, 2021": {
@@ -1688,7 +1724,7 @@
         "Dachet & Baye, 2021",
         "Dachet & Baye (2021)"
       ],
-      "argument": "Argument_Dachet_2021_ROE",
+      "argument": "Argument_Dachet_2021_ECNUROE",
       "authors": [
         "Dachet, D.",
         "Baye, A."
@@ -1696,9 +1732,9 @@
       "citation": "Dachet, D., & Baye, A. (2021). Evidence-based education: The not so simple case of French-speaking Belgium. ECNU Review of Education, 4(1), 164-189.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Dachet_2021_ROE",
+      "title": "Argument_Dachet_2021_ECNUROE",
       "year": "2021"
     },
     "Dean et al. (2025)": {
@@ -2028,7 +2064,7 @@
         "Edovald & Nevill, 2021",
         "Edovald & Nevill (2021)"
       ],
-      "argument": "Argument_Edovald_Nevill_2021_ROE",
+      "argument": "Argument_Edovald_Nevill_2021_ECNUROE",
       "authors": [
         "Edovald, T.",
         "Nevill, C."
@@ -2036,9 +2072,9 @@
       "citation": "Edovald, T., & Nevill, C. (2021). Working Out What Works: The Case of the Education Endowment Foundation in England. ECNU Review of Education, 4(1), 46–64.",
       "doi": "10.1177/2096531120913039",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Edovald_Nevill_2021_ROE",
+      "title": "Argument_Edovald_Nevill_2021_ECNUROE",
       "year": "2021"
     },
     "Edovald & Nevill, 2021": {
@@ -2046,7 +2082,7 @@
         "Edovald & Nevill, 2021",
         "Edovald & Nevill (2021)"
       ],
-      "argument": "Argument_Edovald_Nevill_2021_ROE",
+      "argument": "Argument_Edovald_Nevill_2021_ECNUROE",
       "authors": [
         "Edovald, T.",
         "Nevill, C."
@@ -2054,9 +2090,9 @@
       "citation": "Edovald, T., & Nevill, C. (2021). Working Out What Works: The Case of the Education Endowment Foundation in England. ECNU Review of Education, 4(1), 46–64.",
       "doi": "10.1177/2096531120913039",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Edovald_Nevill_2021_ROE",
+      "title": "Argument_Edovald_Nevill_2021_ECNUROE",
       "year": "2021"
     },
     "Erdem et al. (2026)": {
@@ -2310,6 +2346,44 @@
       "source_language": "en",
       "title": "Argument_Golovchin_2019_ESC",
       "year": "2019"
+    },
+    "Gorard et al. (2020)": {
+      "aliases": [
+        "Gorard et al., 2020",
+        "Gorard et al. (2020)"
+      ],
+      "argument": "Argument_Gorard_2020_ROE",
+      "authors": [
+        "[[Stephen Gorard|Gorard, S.]]",
+        "See, B. H.",
+        "Siddiqui, N."
+      ],
+      "citation": "Gorard, S., See, B. H., & Siddiqui, N. (2020). What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610.",
+      "doi": "10.1002/rev3.3200",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md",
+      "source_language": "en",
+      "title": "Argument_Gorard_2020_ROE",
+      "year": "2020"
+    },
+    "Gorard et al., 2020": {
+      "aliases": [
+        "Gorard et al., 2020",
+        "Gorard et al. (2020)"
+      ],
+      "argument": "Argument_Gorard_2020_ROE",
+      "authors": [
+        "[[Stephen Gorard|Gorard, S.]]",
+        "See, B. H.",
+        "Siddiqui, N."
+      ],
+      "citation": "Gorard, S., See, B. H., & Siddiqui, N. (2020). What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610.",
+      "doi": "10.1002/rev3.3200",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md",
+      "source_language": "en",
+      "title": "Argument_Gorard_2020_ROE",
+      "year": "2020"
     },
     "Gorur (2014)": {
       "aliases": [
@@ -2936,16 +3010,16 @@
         "Higgins, 2016",
         "Higgins (2016)"
       ],
-      "argument": "Argument_Higgins_2016_RE",
+      "argument": "Argument_Higgins_2016_ROE",
       "authors": [
         "[[Steve Higgins|Higgins, S.]]"
       ],
       "citation": "Higgins, S. (2016). Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits. Review of Education, 4(1), 31–53.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
+      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md",
       "source_language": "en",
-      "title": "Argument_Higgins_2016_RE",
+      "title": "Argument_Higgins_2016_ROE",
       "year": "2016"
     },
     "Higgins, 2016": {
@@ -2953,16 +3027,16 @@
         "Higgins, 2016",
         "Higgins (2016)"
       ],
-      "argument": "Argument_Higgins_2016_RE",
+      "argument": "Argument_Higgins_2016_ROE",
       "authors": [
         "[[Steve Higgins|Higgins, S.]]"
       ],
       "citation": "Higgins, S. (2016). Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits. Review of Education, 4(1), 31–53.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
+      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md",
       "source_language": "en",
-      "title": "Argument_Higgins_2016_RE",
+      "title": "Argument_Higgins_2016_ROE",
       "year": "2016"
     },
     "Hill (2022)": {
@@ -4070,16 +4144,16 @@
         "Marginson, 2025",
         "Marginson (2025)"
       ],
-      "argument": "Argument_Marginson_2025_ROE",
+      "argument": "Argument_Marginson_2025_ECNUROE",
       "authors": [
         "Marginson, S."
       ],
       "citation": "Marginson, S. (2025). Space, power, and globalization: On the geopolitics of higher education. ECNU Review of Education, 9(2), 1–39.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Marginson_2025_ROE",
+      "title": "Argument_Marginson_2025_ECNUROE",
       "year": "2025"
     },
     "Marginson, 2025": {
@@ -4087,16 +4161,16 @@
         "Marginson, 2025",
         "Marginson (2025)"
       ],
-      "argument": "Argument_Marginson_2025_ROE",
+      "argument": "Argument_Marginson_2025_ECNUROE",
       "authors": [
         "Marginson, S."
       ],
       "citation": "Marginson, S. (2025). Space, power, and globalization: On the geopolitics of higher education. ECNU Review of Education, 9(2), 1–39.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Marginson_2025_ROE",
+      "title": "Argument_Marginson_2025_ECNUROE",
       "year": "2025"
     },
     "Mattheou (2009)": {
@@ -4930,7 +5004,7 @@
         "Pellegrini & Vivanet, 2021",
         "Pellegrini & Vivanet (2021)"
       ],
-      "argument": "Argument_Pellegrini_2021_ROE",
+      "argument": "Argument_Pellegrini_2021_ECNUROE",
       "authors": [
         "Pellegrini, M.",
         "Vivanet, G."
@@ -4938,9 +5012,9 @@
       "citation": "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in education: Initiatives and challenges in Europe. ECNU Review of Education, 4(1), 25-45. https://doi.org/10.1177/2096531120924670",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Pellegrini_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Pellegrini_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Pellegrini_2021_ROE",
+      "title": "Argument_Pellegrini_2021_ECNUROE",
       "year": "2021"
     },
     "Pellegrini & Vivanet, 2021": {
@@ -4948,7 +5022,7 @@
         "Pellegrini & Vivanet, 2021",
         "Pellegrini & Vivanet (2021)"
       ],
-      "argument": "Argument_Pellegrini_2021_ROE",
+      "argument": "Argument_Pellegrini_2021_ECNUROE",
       "authors": [
         "Pellegrini, M.",
         "Vivanet, G."
@@ -4956,9 +5030,9 @@
       "citation": "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in education: Initiatives and challenges in Europe. ECNU Review of Education, 4(1), 25-45. https://doi.org/10.1177/2096531120924670",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Pellegrini_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Pellegrini_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Pellegrini_2021_ROE",
+      "title": "Argument_Pellegrini_2021_ECNUROE",
       "year": "2021"
     },
     "Peterson (1987)": {
@@ -5282,7 +5356,7 @@
         "Ross & Morrison, 2021",
         "Ross & Morrison (2021)"
       ],
-      "argument": "Argument_Ross_Morrison_2021_ROE",
+      "argument": "Argument_Ross_Morrison_2021_ECNUROE",
       "authors": [
         "Ross, S. M.",
         "Morrison, J. R."
@@ -5290,9 +5364,9 @@
       "citation": "Ross, S. M., & Morrison, J. R. (2021). Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges. ECNU Review of Education, 4(1), 108-127.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Ross_Morrison_2021_ROE",
+      "title": "Argument_Ross_Morrison_2021_ECNUROE",
       "year": "2021"
     },
     "Ross & Morrison, 2021": {
@@ -5300,7 +5374,7 @@
         "Ross & Morrison, 2021",
         "Ross & Morrison (2021)"
       ],
-      "argument": "Argument_Ross_Morrison_2021_ROE",
+      "argument": "Argument_Ross_Morrison_2021_ECNUROE",
       "authors": [
         "Ross, S. M.",
         "Morrison, J. R."
@@ -5308,9 +5382,9 @@
       "citation": "Ross, S. M., & Morrison, J. R. (2021). Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges. ECNU Review of Education, 4(1), 108-127.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Ross_Morrison_2021_ROE",
+      "title": "Argument_Ross_Morrison_2021_ECNUROE",
       "year": "2021"
     },
     "Runco et al. (2026)": {
@@ -5920,7 +5994,7 @@
         "Slavin et al., 2021",
         "Slavin et al. (2021)"
       ],
-      "argument": "Argument_Slavin_2021_ROE",
+      "argument": "Argument_Slavin_2021_ECNUROE",
       "authors": [
         "Slavin, R. E.",
         "[[Alan C. K. Cheung|Cheung, A. C. K.]]",
@@ -5929,9 +6003,9 @@
       "citation": "Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Slavin_2021_ROE",
+      "title": "Argument_Slavin_2021_ECNUROE",
       "year": "2021"
     },
     "Slavin et al., 2021": {
@@ -5939,7 +6013,7 @@
         "Slavin et al., 2021",
         "Slavin et al. (2021)"
       ],
-      "argument": "Argument_Slavin_2021_ROE",
+      "argument": "Argument_Slavin_2021_ECNUROE",
       "authors": [
         "Slavin, R. E.",
         "[[Alan C. K. Cheung|Cheung, A. C. K.]]",
@@ -5948,9 +6022,9 @@
       "citation": "Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24.",
       "doi": "",
       "isbn": "",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ROE.md",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ECNUROE.md",
       "source_language": "en",
-      "title": "Argument_Slavin_2021_ROE",
+      "title": "Argument_Slavin_2021_ECNUROE",
       "year": "2021"
     },
     "Slavin, 2002": {

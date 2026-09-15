@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 80
+method_related_count: 83
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Creativity]]"
+  - "[[Counterfactual]]"
 related_theories:
   - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
@@ -59,7 +60,6 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
-  - "[[PRISMA]]"
   - "[[Forest Plot]]"
   - "[[Funnel Plot]]"
   - "[[Ethnography]]"
@@ -85,13 +85,14 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
+  - "[[Argument_Gorard_2020_ROE]]"
 related_facts:
   - "[[Best Evidence Synthesis]]"
   - "[[EPPI-Centre]]"
@@ -103,7 +104,9 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
 related_instruments:
+  - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
+  - "[[Gorard's Trustworthiness Sieve]]"
 confidence: high
 status: draft
 created: '2026-06-08'
@@ -186,13 +189,13 @@ updated: 2026-09-15
 > [!proc] 通用程序
 >
 > > [!step] 步骤一：界定[[Research Question|研究问题]]与拟定注册协议（Protocol）
-> > 运用 PICO（人群、干预、对照、产出）或 SPIDER 框架精准界定[[Research Scope|研究边界]]，明确界定纳入与排除标准；在 PROSPERO 或 Open Science Framework（OSF）公开[[Preregistration|预注册]]研究方案，锁定方法学设计以规避事后数据窥探（[[Argument_Higgins_2016_RE|Higgins, 2016, p. 32]]）。
+> > 运用 PICO（人群、干预、对照、产出）或 SPIDER 框架精准界定[[Research Scope|研究边界]]，明确界定纳入与排除标准；在 PROSPERO 或 Open Science Framework（OSF）公开[[Preregistration|预注册]]研究方案，锁定方法学设计以规避事后数据窥探（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 32]]）。
 >
 > > [!step] 步骤二：系统与穷尽式[[Literature Search|文献检索]]
-> > 研制布尔逻辑检索式，联合受控词表（MeSH/Thesaurus）与自由文本关键词，横跨多个国际数据库执行全样本检索；严密记录检索时间、语法与命中篇数，补充灰色[[Document|文献]]与未发表报告以遏制[[Publication Bias|发表偏倚]]（[[Argument_Higgins_2016_RE|Higgins, 2016, p. 43]]）。
+> > 研制布尔逻辑检索式，联合受控词表（MeSH/Thesaurus）与自由文本关键词，横跨多个国际数据库执行全样本检索；严密记录检索时间、语法与命中篇数，补充灰色[[Document|文献]]与未发表报告以遏制[[Publication Bias|发表偏倚]]（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 43]]）。
 >
 > > [!step] 步骤三：双人独立筛选与质量风险评估
-> > 至少两位独立评审员基于标题/摘要开展初筛，随后获取全文进行二阶深筛，计算[[Intercoder Agreement|编码一致性]]系数（Cohen's Kappa）；随后运用公认评估工具针对选择偏倚、实施偏倚、测量偏倚与损耗偏倚进行方法学质量评级（[[Argument_Higgins_2016_RE|Higgins, 2016, p. 38]]）。
+> > 至少两位独立评审员基于标题/摘要开展初筛，随后获取全文进行二阶深筛，计算[[Intercoder Agreement|编码一致性]]系数（Cohen's Kappa）；随后运用公认评估工具针对选择偏倚、实施偏倚、测量偏倚与损耗偏倚进行方法学质量评级（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 38]]）。
 >
 > > [!step] 步骤四：结构化数据提取与证据综合
 > > 提取样本特征、干预剂量、控制条件、测量工具及[[Effect Size|效应量]]数据；依据研究问题的[[Epistemology|认识论]]属性，选择开展定量[[Meta-analysis|元分析]]统计合并，或开展[[Thematic Synthesis|质性主题综合]]与实在论机制提炼。
@@ -232,7 +235,7 @@ updated: 2026-09-15
 > - **高度适合使用** 
 >   - 当某一实证研究领域历经多年发展积累了海量[[Primary and Secondary Documents|原始文献]]，实证结论出现严重分歧甚至矛盾，亟需厘清全局证据图谱时；
 >   - 当政府或专业组织需要研制高利害循证临床指南、政策白皮书或证据工具包，必须依靠穷尽透明的[[Chain of Evidence|证据链]]条防范决策失误时；
->   - 英国[[Education Endowment Foundation|教育捐赠基金会]]（[[EEF Teaching and Learning Toolkit|EEF Toolkit]]）编制全部 30 余项通用干预策略时，强制要求以系统综述作为底层知识输入（[[Argument_Higgins_2016_RE|Higgins, 2016, p. 47]]；[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, p. 154]]）。
+>   - 英国[[Education Endowment Foundation|教育捐赠基金会]]（[[EEF Teaching and Learning Toolkit|EEF Toolkit]]）编制全部 30 余项通用干预策略时，强制要求以系统综述作为底层知识输入（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 47]]；[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, p. 154]]）。
 > - **审慎有限使用** 
 >   - 当纳入实证研究的情境[[Heterogeneity|异质性]]极高（如跨越发展中国家乡村与发达国家精英私立学校），盲目进行统计[[Effect Size|效应量]]合并会抹杀关键机制[[Variable|变量]]；
 >   - 当原始研究普遍存在设计缺陷或方法学信息披露严重残缺时——系统综述无法无中生有修复底层[[Document|文献]]的硬伤。
@@ -245,7 +248,7 @@ updated: 2026-09-15
 ## 局限性与国际标准塌陷
 
 > [!method-limits] 方法局限与治理隐患
-> - **偏误来源与“垃圾进，垃圾出”困境** 检索策略漏检未公开发表成果将直接引发严重的[[Publication Bias|发表偏倚]]；纳入标准过严会导致有价值的[[Ecological Validity|生态效度]]研究被机械剔除，标准过宽则引入低质量研究污染证据体。Eysenck 针对[[Meta-analysis|元分析]]提出的“垃圾进，垃圾出”（Garbage in, garbage out）批评对系统综述同样构成终极挑战（[[Argument_Higgins_2016_RE|Higgins, 2016, pp. 35, 38]]）。
+> - **偏误来源与“垃圾进，垃圾出”困境** 检索策略漏检未公开发表成果将直接引发严重的[[Publication Bias|发表偏倚]]；纳入标准过严会导致有价值的[[Ecological Validity|生态效度]]研究被机械剔除，标准过宽则引入低质量研究污染证据体。Eysenck 针对[[Meta-analysis|元分析]]提出的“垃圾进，垃圾出”（Garbage in, garbage out）批评对系统综述同样构成终极挑战（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 35, 38]]）。
 > - **网络证据门户的“系统性标准塌陷”（Gough & White, 2018; [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022]]）**
 >   [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022, pp. 154–155)]]与 Gough & White (2018) 对全球 15 个代表性网络证据门户的方法学调查揭示了惊人的实证事实：**仅有 40.0%（6 个）证据门户严格遵循系统综述标准**！其余 60% 均不同程度地退化为单兵研究评定：
 >   - **打包方案类门户的全面塌陷（0% 综述率）** 面向具体商业干预方案（Packaged Programmes）的 5 个门户（如 [[Social Programs That Work]]）**完全未要求系统综述（0%）**，而是 100% 仅凭 1–2 项单兵试验（如 1–2 项高质量 [[Randomised Controlled Trials|RCT]]）就直接定性方案“有效”并授予顶级证据等级。这种做法存在极高的挑选性偏倚风险，完全掩盖了同一干预在其他情境中可能存在的零效应或负效应；
@@ -279,7 +282,7 @@ updated: 2026-09-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Higgins_2016_RE|Higgins (2016)]]** 系统综述的方法论权威教材，详述[[Research Question|研究问题]]制定、纳入排除、穷尽检索、偏倚风险评估与数据综合的完整操作规范。
+> - **[[Argument_Higgins_2016_ROE|Higgins (2016)]]** 系统综述的方法论权威教材，详述[[Research Question|研究问题]]制定、纳入排除、穷尽检索、偏倚风险评估与数据综合的完整操作规范。
 > - **[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]]** 调查全球 15 个代表性证据门户对系统综述标准的采纳率（Table 7.1），解构聚合型与配置型系统综述在国家[[What Works Network|有效性网络]]与证据生态中的[[Epistemology|认识论]]定位与标准塌陷风险。
 > - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 遵循 [[PRISMA]] 框架从 SSCI 与 Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析探讨 PISA 对全球基础教育改革的影响。
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统阐述系统综述与研究综合的定义、类型、[[EPPI-Centre]] 七项质量准则与方法学警示。
@@ -287,3 +290,4 @@ updated: 2026-09-15
 > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 结合系统综述的检索与筛选规程及[[Critical Review|批判性综述]]方法，解构 34 篇[[Document|文献]]并提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]理论。
 > - **[[Argument_Li_2026_CEAI|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段[[Thematic Synthesis|主题综合法]]，系统解构 ChatGPT 在高等教育中对批判性与[[Creativity|创造性思维]]的促进机制与风险模式。
 > - **[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]]** 在 [[OECD]] 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域相关文献开展跨行业系统综述与叙事综合，跨界界定证据使用质量（Quality of Evidence Use）并奠定 [[Quality Use of Research Evidence Framework|QURE]] 框架的先验理论基础。
+> - **[[Argument_Gorard_2020_ROE|Gorard et al. (2020)]]** 针对教育与公共政策领域“如何使研究证据有效投入使用”这一因果机制，对逾 335 万条数据库记录开展大规模跨学科系统综述，运用[[Gorard's Trustworthiness Sieve|戈拉德研究可信度筛子]]严格质评初筛出的 323 篇文献，最终识别出 33 项具备[[Counterfactual|反事实]]对照设计的因果[[Evaluation Research|评估研究]]并提炼两维度转化模型。

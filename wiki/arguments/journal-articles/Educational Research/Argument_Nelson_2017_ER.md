@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_ER"
 argument_key: "Argument_Nelson_2017_ER"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -90,13 +90,14 @@ related_facts:
   - "[[Knowledge Network for Applied Education Research]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Brown_2017_ER]]"
 sources:
   - "[[sources/Nelson_2017_ER|Nelson_2017_ER]]"
 part_of: ""
 status: draft
 created: "2026-05-01"
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 # Argument_Nelson_2017_ER
 
@@ -256,7 +257,7 @@ updated: 2026-09-13
 > 2. **数据素养与三角验证** 倡导教育者拓宽课堂证据视野，发展深层[[Data Literacy|数据素养]]技能，学习对定性观察与定量测评数据进行[[Triangulation|三角验证]]，形成均衡审慎的教学判断。
 > 3. **中层领导者支撑** 研究进一步指出中层领导者（middle leaders）在校内及跨校协作探究网络中扮演着关键催化角色，是维系数据审议与实践改进的核心支柱。（pp.129–130）
 
-> [!case] 案例二：[[Data-Based Decision Making|基于数据的决策]]（DBDM）与研究知情实践（[[Research-Informed Teaching Practice|RITP]]）的[[School Enquiry Cycle|学校探究循环]]整合（Brown et al., 2017）
+> [!case] 案例二：[[Data-Based Decision Making|基于数据的决策]]（DBDM）与研究知情实践（[[Research-Informed Teaching Practice|RITP]]）的[[School Enquiry Cycle|学校探究循环]]整合（[[Argument_Brown_2017_ER|Brown et al., 2017]]）
 > 英国伦敦大学学院与荷兰特文特大学跨国团队考察了教育改进的两大流派：
 > 1. **两界的长期割裂** [[Data-Based Decision Making|基于数据的决策]]（DBDM）聚焦校内测评数据诊断，而[[Research-Informed Teaching Practice|研究知情教学实践]]（RITP）侧重外部学术文献转化；在现有学校体系中二者高度割裂、鲜有协同。
 > 2. **整合性改进模型** 提出证据知情学校与教师改进模型，萃取 DBDM 的精确诊断优势与 RITP 的外生新知优势，将其统一嵌入系统的[[School Enquiry Cycle|学校探究循环]]（School Enquiry Cycle）中，实现数据与研究的双向互补。（p.129）

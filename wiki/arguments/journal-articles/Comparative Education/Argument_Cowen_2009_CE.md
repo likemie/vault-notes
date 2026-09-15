@@ -73,7 +73,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: '2026-07-08'
+updated: 2026-09-16
 year: 2009
 doi: ""
 citation_aliases:
@@ -253,7 +253,7 @@ citation_aliases:
 > 3. **[[Shape-Shifting|形变]]的多维度透视** 教育现象的跨境或随时间推移的流变并非简单的过渡，而是其核心配置在外部治理、内部权力结构、教学契约与科研取向等多个维度上发生深刻的形状改变（pp.320–322）。
 > 4. **转移、[[Transfer Translation Transformation|转译]]、转化框架** 提出以空间物理位移的转移、本土重释与再[[Coding in Qualitative Research|编码]]的转译、以及本土社会经济与政治权力长期压缩下的转化作为解释形变的连贯概念体系，并用此剖析了战后德日改革的分流（p.323）。
 
-> [!stat-cards]- 核心概念与实证数据
+> [!def]- 核心概念与实证数据
 > - **3T 模型** 指转移、转译、转化构成的三阶段制度流变理论，其在[[Transitology|转型学]]剧烈动荡期最易观察到时间压缩式的剧烈形变（p.323）。
 > - **[[New Professionalism|新专业主义]]** 指新大学管理主义下，以课程手册、辅导备忘录存档以及有用研究成果为代表的、旨在强化[[External Auditor|外部审计]]并可接受监控的管理主义教学契约关系（pp.321–322）。
 

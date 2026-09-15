@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 109
+argument_related_count: 110
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -138,6 +138,7 @@ related_facts:
   - "[[Hunt Report]]"
   - "[[New Teacher Education Scheme]]"
   - "[[French Baccalaureat 2021 Reform]]"
+  - "[[Centro Nacional de Evaluación para la Educación Superior]]"
   - "[[Voluntary System of Accountability]]"
   - "[[Spellings Report]]"
   - "[[Rainbow Project]]"
@@ -348,7 +349,7 @@ updated: 2026-09-07
 > [!claim] 尽管大规模标准化考试在入学与执业选拔中广泛整合了批判性思维，但传统客观选择题存在严重的“[[Construct|构念]]代表性不足”，难以测度生成性高阶思维；高昂的评分成本与低利害动机缺失导致增值统考衰退，促使大规模考试向情境化表现任务与综合口试转型。（pp. 21–26）
 
 > [!chain-link] 标准化测试的技术演进、方法学批判与范式转向
-> - **高阶思维测量向高利害入口选拔的渗透** 为确保高风险专业的人才质量，医科、法学等高利害选拔考试率先开发专门模块测量批判性分析、逻辑推理与复杂数据辨析。（pp. 21–23）
+> - **高阶思维测量向高利害入口选拔的渗透** 为确保高风险专业的人才质量，医科、法学等高利害选拔考试率先开发专门模块测量批判性分析、逻辑推理与复杂数据辨析;国家层面的标准化考试同步跟进，[[Centro Nacional de Evaluación para la Educación Superior|墨西哥国家高等教育评估中心]]（CENEVAL）组织的入学统考即覆盖本科与研究生入口。（pp. 21–23）
 > - **客观选择题的核心方法学缺陷（构念代表性不足）** 传统多项选择题（MCQs）仅能测查预设选项的“封闭再认”，无法激活真实世界必需的“主动生成”新论点与设计创新方案的高级认知加工。（pp. 24–25）
 > - **增值统考在低利害问责中的动力危机与衰退（[[Voluntary System of Accountability|VSA]] 的兴衰教训）** 2006 年美国联邦教育部《[[Spellings Report|斯佩林斯报告]]》（Spellings Report）引发了全美建立[[Voluntary System of Accountability|自愿问责体系]]（VSA）并实施增值统考的浪潮；然而，开放表现任务阅卷成本昂贵，且在缺乏个人利害关系的系统监测中，学生作答努力度严重不足、样本大量[[Attrition|流失]]，加之通用测验脱离学科课程无法指导教学改进，导致全美 VSA 等统考计划全面走向式微。（pp. 7, 25–26）
 > - **国家大规模考试向真实表现与综合口试的转型** 爱沙尼亚、瑞士、法国等国率先改造高利害入学考试，通过增设开放探究、跨学科研究论文与现场答辩（如法国 Grand Oral），发挥强有力的正面反拨效应。（pp. 23–25）

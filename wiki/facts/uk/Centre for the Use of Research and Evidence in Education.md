@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Research Translation]]"
   - "[[Research Utilization]]"
+  - "[[Lesson Study]]"
   - "[[Formative Assessment]]"
   - "[[Peer Mentoring]]"
   - "[[Classroom Management]]"
@@ -65,12 +66,12 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Nelson_2017_ER]]"
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Centre for the Use of Research and Evidence in Education
@@ -80,7 +81,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> [[Evidence-Based Education|循证教育]]研究与使用中心（Centre for the Use of Research and Evidence in Education, CUREE）是英国由菲莉帕·科丁利（Philippa Cordingley）于 1990 年代末领衔创设的独立专业[[Educational Brokerage Agency|知识中介机构]]；在[[OECD|经济合作与发展组织]]（OECD）2007 年对国际中介生态的梳理中，CUREE 被确立为国际上极少数从创立之初便“专门且排他性地聚焦于教师与微观教学实践”的先锋中介，开创了从抽象证据评级转向情境化教师专业学习与“研究路线图”（Research Route Maps）的[[Transfer Translation Transformation|转译]][[Paradigm|范式]]([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 57]]; [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 34]])。
+> [[Evidence-Based Education|循证教育]]研究与使用中心（Centre for the Use of Research and Evidence in Education, CUREE）是英国由菲莉帕·科丁利（Philippa Cordingley）于 1990 年代末领衔创设的独立专业[[Educational Brokerage Agency|知识中介机构]]；在[[OECD|经济合作与发展组织]]（OECD）2007 年对国际中介生态的梳理中，CUREE 被确立为国际上极少数从创立之初便“专门且排他性地聚焦于教师与微观教学实践”的先锋中介，开创了从抽象证据评级转向情境化教师专业学习与“研究路线图”（Research Route Maps）的[[Transfer Translation Transformation|转译]][[Paradigm|范式]]([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 57]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 34]])。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1997 年创立于英国考文垂，旨在破除传统大学象牙塔式研究与中小学日常教研之间的鸿沟，致力于将严谨学术证据直接转化为一线教师能用、想用且好用的实践工具。
@@ -112,7 +113,7 @@ updated: 2026-09-13
 > [!pathways]- 知识动员与微观转译机制
 > - **去学术化转译** 剔除统计学术黑话，将厚重的[[Meta-analysis|元分析]]与因果综述解构为模块化的实践提示、核心发现摘编与反思提问。
 > - **研究路线图（Research Route Maps）导航** 为学校管理者设计类似地铁交通图的交互式决策指南，引导教师根据特定班级难题（如阅读障碍、数学思维脱节）沿路线查找对应实证工具。
-> - **教练与同行辅导嵌入** 将[[Research Utilization|证据使用]]与校本教研（Lesson Study）、同伴观课与互助辅导（Coaching）绑定，杜绝证据在图书馆孤立沉睡。
+> - **教练与同行辅导嵌入** 将[[Research Utilization|证据使用]]与校本教研（[[Lesson Study]]）、同伴观课与互助辅导（Coaching）绑定，杜绝证据在图书馆孤立沉睡。
 
 ---
 
@@ -134,7 +135,7 @@ updated: 2026-09-13
 ## 影响与体系成效
 
 > [!indicators]- 影响力维度与指标
-> - **补足清算中心的“最后一公里”断层** 弥补了传统清算中心（如 [[What Works Clearinghouse|WWC]]）仅提供宏观[[Effect Size|效应量]]与达标评级、却无法指导教师微观课堂操作的致命脱节([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 34]])。
+> - **补足清算中心的“最后一公里”断层** 弥补了传统清算中心（如 [[What Works Clearinghouse|WWC]]）仅提供宏观[[Effect Size|效应量]]与达标评级、却无法指导教师微观课堂操作的致命脱节([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 34]])。
 > - **确立[[Practice-Based Evidence|实践本位证据]]（PBE）的尊严** 坚决捍卫实践者从日常反思中生成的细粒度情境知识，推动学界承认教师不是被动接受外部处方的操作工，而是知识的能动共创者([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]])。
 > - **重塑英国教师在职培训标准** 其关于“协作型专业学习”的实证证据被英国教育部直接吸纳为《教师专业发展标准》的核心支柱。
 
@@ -143,9 +144,9 @@ updated: 2026-09-13
 > - **捍卫教师[[Professional Judgment|专业判断]]（Professional Judgment）** 强调研究证据必须与教师的临床专业判断相结合，避免证据被异化为新自由主义数字问责的考核标尺。
 
 > [!stat-cards]- 标志性数据与存续特征
-> - **1997 年** 创立，至今持续活跃运营超过 **25 年**，体现了独立咨询型中介的强大市场生存韧性
-> - **数百所** 英格兰中小学常年订购使用其研究路线图与教练辅导项目
-> - **数千名** 教师通过其项目从单纯的教材执行者转变为循证探究型教师
+> - **1997** 创立年份，至今持续活跃运营超过 25 年，体现了独立咨询型中介的强大市场生存韧性
+> - **数百** 英格兰中小学常年订购使用其研究路线图与教练辅导项目的数量（所）
+> - **数千** 通过其项目从单纯的教材执行者转变为循证探究型教师的教师数量（名）
 
 ---
 
@@ -160,7 +161,7 @@ updated: 2026-09-13
 > > - **CUREE 与[[Critical Realism|批判实在论]]辩护** 盲目追求去情境化的 [[Randomised Controlled Trials|RCT]] 平均[[Effect Size|效应量]]无法指导复杂的微观课堂；唯有深入教学细节的“[[Practice-Based Evidence|实践本位证据]]”（Practice-Based Evidence）与反思审议，才能真正激发深层次学习变革([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp. 129, 132]])。
 
 > [!warning] 运行局限
-> - **无法替代[[External Validity|外部效度]]评估** 传播与转译工具虽降低了[[Research Utilization|证据使用]]门槛，但无法自动保障结论在不同学校生态中的普适性，教师依然需要保持对本地情境适配性的独立审慎判断([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp. 34–36]])。
+> - **无法替代[[External Validity|外部效度]]评估** 传播与转译工具虽降低了[[Research Utilization|证据使用]]门槛，但无法自动保障结论在不同学校生态中的普适性，教师依然需要保持对本地情境适配性的独立审慎判断([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, pp. 34–36]])。
 > - **缺乏公共兜底资金** 作为独立非营利咨询机构，其运营高度依赖项目合同与采购订阅，在公立学校公用经费缩减时期面临业务波动风险。
 
 ---

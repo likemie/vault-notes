@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -41,6 +41,8 @@ related_theories:
   - "[[Theory of Change]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Effectiveness Trial]]"
+  - "[[Efficacy Trial]]"
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Effect Size]]"
@@ -53,12 +55,12 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Investing in Innovation Program
@@ -86,8 +88,8 @@ updated: 2026-09-15
 > [!ref-table] i3 分层拨款结构与准入条件对照表
 > | 资助层级 | 英文层级 | 单项资助额度 | 前期证据门槛（准入条件） | 试验设计要求 | 累计资助项目数 |
 > |:---|:---|:---|:---|:---|:---|
-> | **规模化** | Scale-up | 最高达 5,000 万美元 | 已具备由独立评估产出的强因果证据（达到 [[What Works Clearinghouse\|WWC]] 无保留标准的多地点 [[Randomised Controlled Trials\|RCT]]）。 | 必须开展跨州、多学区的大规模现场 RCT 有效性试验。 | 11 项 |
-> | **验证** | Validation | 最高达 1,500 万美元 | 已具备支持干预有效性的中等证据（具备基线等值的准实验或单地点 RCT）。 | 必须开展严谨的功效检验（Efficacy Trial）以验证复制效能。 | 45 项 |
+> | **规模化** | Scale-up | 最高达 5,000 万美元 | 已具备由独立评估产出的强因果证据（达到 [[What Works Clearinghouse\|WWC]] 无保留标准的多地点 [[Randomised Controlled Trials\|RCT]]）。 | 必须开展跨州、多学区的大规模现场 RCT [[Effectiveness Trial\|有效性试验]]。 | 11 项 |
+> | **验证** | Validation | 最高达 1,500 万美元 | 已具备支持干预有效性的中等证据（具备基线等值的准实验或单地点 RCT）。 | 必须开展严谨的功效检验（[[Efficacy Trial]]）以验证复制效能。 | 45 项 |
 > | **开发** | Development | 最高达 300 万–500 万美元 | 具备明确的[[Theory of Change\|变革理论]]与初步研究逻辑（有理论依据但未经验证）。 | 开展形成性试验并建立未来因果评估的测量基线。 | 115 项 |
 
 > [!policy-design]- 方案设计与管理细则
@@ -132,21 +134,21 @@ updated: 2026-09-15
 > [!finding-cards] 核心实证结论
 > - **显著加速循证项目产出** i3 单方面大幅提升了全美满足最高因果[[Evidence Standards|证据标准]]的项目数量，成为美国教育科学界生产 RCT 证据的核心引擎（[[Argument_Slavin_2019_EP|Slavin, 2019]]）。
 > - **规模化效应递减与去魅** 随干预从早期高控制环境（开发/验证阶段）向真实复杂学校生态（规模化阶段）推广，干预效应量普遍出现显著衰减，证明了在常态学校高基线（[[Business as Usual]]）下维持[[Implementation Fidelity|实施保真度]]的极端难度。
-> - **评估独立性受挫与准实验妥协** 实证调查表明，由于受资助者掌握评估经费支付权，许多评估团队在面对复杂现场时往往向研发者妥协，放弃难度高的 RCT 而退守 QED（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 50–51]]）。
+> - **评估独立性受挫与准实验妥协** 实证调查表明，由于受资助者掌握评估经费支付权，许多评估团队在面对复杂现场时往往向研发者妥协，放弃难度高的 RCT 而退守 QED（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 50–51]]）。
 
 > [!stat-cards]- 关键实证数据
 > - **171 项** 累计资助项目总量（包含 11 项规模化、45 项验证、115 项开发项目）。
 > - **97% 名义独立性** 在 [[National Center for Education Evaluation and Regional Assistance|NCEE]] 支持的 65 项 i3 评估中，97% 的项目符合“至少有一项结局指标由外部评估者采集与分析”的名义标准（Boulay et al., 2018）。
-> - **仅 68% 达标率** 在 19 项由 NCEE 重点支持的影响评估中，仅有 13 项（68%）达到 [[What Works Clearinghouse|WWC]] 最高无保留证据标准，且 WWC 允许的流失率门槛高达 55%（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 50]]）。
+> - **仅 68% 达标率** 在 19 项由 NCEE 重点支持的影响评估中，仅有 13 项（68%）达到 [[What Works Clearinghouse|WWC]] 最高无保留证据标准，且 WWC 允许的流失率门槛高达 55%（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 50]]）。
 
 ---
 
 ## 争议焦点与治理反思
 
 > [!tension] 委托机制与[[Evaluator Independence|评估者独立性]]漏洞：美国 i3 模式 vs 英国 [[Education Endowment Foundation|EEF]] 模式对比
-> - **资金依附与利益冲突审查盲区** 美国《教育科学改革法案》（ESRA）虽要求必须由“无利益冲突的外部专家”开展评估，但在 i3 具体操作中，由受资助的开发者自行遴选评估机构并在预算中管理资金拨付。这种财务依附关系使得独立评估团队受制于开发者的偏好与商业考量，且制度上缺乏对评估者潜在利益冲突的实质审查（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 50]]）。
+> - **资金依附与利益冲突审查盲区** 美国《教育科学改革法案》（ESRA）虽要求必须由“无利益冲突的外部专家”开展评估，但在 i3 具体操作中，由受资助的开发者自行遴选评估机构并在预算中管理资金拨付。这种财务依附关系使得独立评估团队受制于开发者的偏好与商业考量，且制度上缺乏对评估者潜在利益冲突的实质审查（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 50]]）。
 > - **导致试验设计降水准退守** 面对学校现场执行阻力，开发者出于自身利益更青睐难度较低且容易得到正向结果的[[Quasi-Experimental Designs|准实验设计]]（QED）。在受雇于开发者的依附关系下，评估团队往往难以坚持高[[Attrition|流失]]风险的严格 [[Randomised Controlled Trials|RCT]]。
-> - **跨国治理镜鉴** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）吸取了 i3 的体制漏洞，创立了彻底的三方资助隔离机制：由中介机构直接面向独立专家库竞标，分别与开发者和评估团队签订相互独立的法律合同，从而强制保证了 89% 的项目采用大样本 RCT，且 85% 达成流失率低于 30% 的高安全水准（[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 51]]）。
+> - **跨国治理镜鉴** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）吸取了 i3 的体制漏洞，创立了彻底的三方资助隔离机制：由中介机构直接面向独立专家库竞标，分别与开发者和评估团队签订相互独立的法律合同，从而强制保证了 89% 的项目采用大样本 RCT，且 85% 达成流失率低于 30% 的高安全水准（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 51]]）。
 
 ---
 
@@ -169,7 +171,7 @@ updated: 2026-09-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EP|Slavin, 2019]] — 系统回顾 i3 计划在推动全美循证项目研发与 ESSA 证据层级法定化中的历史功绩。
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]] — 深度剖析美国 i3 计划受资助者自聘评估团队的制度缺陷，并与英国 [[Education Endowment Foundation|EEF]] 三方资助模式展开系统比较。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 深度剖析美国 i3 计划受资助者自聘评估团队的制度缺陷，并与英国 [[Education Endowment Foundation|EEF]] 三方资助模式展开系统比较。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]] — 探讨包括 i3 支持项目在内的循证干预自评偏倚，揭示独立第三方评估对真实[[Effect Size|效应量]]判定的决定性意义。
 
 

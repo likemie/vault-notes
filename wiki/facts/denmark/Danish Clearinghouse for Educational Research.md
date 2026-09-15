@@ -52,7 +52,7 @@ related_facts:
   - "[[EPPI-Centre]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-05-23
@@ -66,7 +66,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 丹麦教育研究清算中心（Danish [[Educational Evidence Clearinghouses|Clearinghouse]] for Educational Research, Danish Clearinghouse）是 2006 年由奥胡斯大学（Aarhus University）丹麦教育学院（DPU）与丹麦教育科学部合作设立的国家级证据中介机构，是欧洲大陆较早建立的专业化[[Evidence-Based Education|循证教育]]清算机构之一；在[[OECD|经合组织]]（OECD）十五年纵向追踪中，被确立为因高度依赖短期行政采购合同而受制于政治与预算周期的典型夭折案例([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57, 64–65]]; [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 32]])。
+> 丹麦教育研究清算中心（Danish [[Educational Evidence Clearinghouses|Clearinghouse]] for Educational Research, Danish Clearinghouse）是 2006 年由奥胡斯大学（Aarhus University）丹麦教育学院（DPU）与丹麦教育科学部合作设立的国家级证据中介机构，是欧洲大陆较早建立的专业化[[Evidence-Based Education|循证教育]]清算机构之一；在[[OECD|经合组织]]（OECD）十五年纵向追踪中，被确立为因高度依赖短期行政采购合同而受制于政治与预算周期的典型夭折案例([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57, 64–65]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 32]])。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2006 年创立于哥本哈根，旨在将英美兴起的循证教育理念引入北欧福利国家语境，打破丹麦教育决策长期依赖地方经验与政治妥协的传统惯性。
@@ -79,7 +79,7 @@ updated: 2026-09-13
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展与兴衰历程
-> - **2006 — 创设与奠基期** 在丹麦教育科学部支持下，奥胡斯大学正式组建丹麦教育研究清算中心，率先在欧陆确立教育[[Systematic Review|系统综述]]技术标准与[[Document|文献]][[Coding in Qualitative Research|编码]]规程([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 32]])。
+> - **2006 — 创设与奠基期** 在丹麦教育科学部支持下，奥胡斯大学正式组建丹麦教育研究清算中心，率先在欧陆确立教育[[Systematic Review|系统综述]]技术标准与[[Document|文献]][[Coding in Qualitative Research|编码]]规程([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **2007 — 确立为 [[OECD]] 国际标杆样本** 经合组织在 2007 年标志性研究报告中将该中心列为全球 6 家核心中介机构之一，赞誉其在非英语国家推动循证决策的先驱探索([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 57]])。
 > - **2008–2015 — 跨国网络参与与成果高产期** 深度加入欧洲教育证据知情政策与实践网络（[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]），针对包容教育、小班化教学、教师合作与学生心理福祉连续发布数十部丹麦语系统综述，成为北欧循证政策的重要智力依托。
 > - **2017 — 资助中断与彻底关停** 伴随丹麦政党轮替与新一届政府财政紧缩，教育科研资助重心发生重组；政府决定不再续签 2–3 年期的清算中心资助合同，该中心因缺乏独立捐赠基金与法定预算而被迫于 2017 年彻底关停（Closed in 2017）([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 64–65]])。
@@ -118,7 +118,7 @@ updated: 2026-09-13
 ## 影响与体系成效
 
 > [!indicators]- 影响力维度与指标
-> - **欧陆先驱示范** 在欧洲大陆率先落地[[Systematic Review|系统综述]]机制，摆脱了长期以来对英美英语平台（如英国 [[EPPI-Centre]]、美国 [[What Works Clearinghouse|WWC]]）的被动依赖([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 32]])。
+> - **欧陆先驱示范** 在欧洲大陆率先落地[[Systematic Review|系统综述]]机制，摆脱了长期以来对英美英语平台（如英国 [[EPPI-Centre]]、美国 [[What Works Clearinghouse|WWC]]）的被动依赖([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **北欧政策渗透** 撰写的综述结论被丹麦议会辩论与教育部白皮书频繁征引，推动了北欧从意识形态争论向实证证据知情的[[Paradigm|范式]]转型。
 > - **跨国协作贡献** 成为泛欧 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国网络中活跃的核心发起成员，积极探索跨国教育证据的共享与[[Transfer Translation Transformation|转译]]。
 
@@ -142,7 +142,7 @@ updated: 2026-09-13
 > > [!axis] 跨国证据协调匮乏与资源浪费
 > > 探讨各自为战的国家级清算中心在欧洲跨国知识生态中的局限。
 > >
-> > - **[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] 批判** 丹麦清算中心等国家级机构虽然改善了本国母语证据的可及性，但由于缺乏全欧范围的跨国协调与元中介整合，导致各国在中介标准与综述选题上重复建设，未能形成累积性的跨国知识基石。
+> > - **[[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] 批判** 丹麦清算中心等国家级机构虽然改善了本国母语证据的可及性，但由于缺乏全欧范围的跨国协调与元中介整合，导致各国在中介标准与综述选题上重复建设，未能形成累积性的跨国知识基石。
 
 ---
 

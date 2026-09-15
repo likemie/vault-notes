@@ -10,7 +10,7 @@ aliases:
 summary: "循证教育治理中的制度化中介机构，指通过设定因果证据标准、审查实证研究并发布项目有效性评级的专业实体平台；在更广泛的知识治理中涵盖部委嵌入、自主资助与独立慈善等多元制度谱系；实证研究表明其评级面临显著的跨机构门槛分歧与构念效度挑战，且在长效存续上面临2至3年短期政治预算周期的制度性制约。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 110
+related_count: 112
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -79,7 +79,8 @@ related_methods:
   - "[[Forest Plot]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
-  - "[[PRISMA]]"
+  - "[[Hierarchical Linear Model]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-meta-analysis]]"
@@ -94,7 +95,8 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Single-Subject Design]]"
   - "[[Single-Case Design]]"
-related_instruments: []
+related_instruments:
+  - "[[PRISMA]]"
 related_persons:
   - "[[Robert Slavin]]"
 related_facts:
@@ -140,9 +142,9 @@ related_facts:
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Dachet_2021_ROE]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
+  - "[[Argument_Dachet_2021_ECNUROE]]"
+  - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: high
 status: active
@@ -164,7 +166,7 @@ updated: 2026-09-15
 > [!concept-lens] 概念透镜
 > - **含义** 作为连接科学研究与教育实践的制度化中介，清算中心将复杂的微观计量模型与实证数据转化为可直接检索的标准化项目评级、实践工具包或定制化政策摘要。
 > - **用途** 帮[[Teaching Assistant|助教]]育采购者、学校领导与政策制定者快速甄别“行之有效（What Works）”的方案，降低信息不对称与决策成本，并为财政资助分配提供合法性依据。
-> - **边界** 清算中心提供的是基于学术[[Document|文献]]审查的“因果有效性信号”，不直接等同于包含实施成本、[[Organizational Culture|组织文化]]、教师负担与本土情境适配在内的完整办学决策方案([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 121]])；且评级实践受制于各机构独特的准入门槛与方法论偏好，缺乏跨机构的一致[[Construct Validity|构念效度]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 26]])。
+> - **边界** 清算中心提供的是基于学术[[Document|文献]]审查的“因果有效性信号”，不直接等同于包含实施成本、[[Organizational Culture|组织文化]]、教师负担与本土情境适配在内的完整办学决策方案([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 121]])；且评级实践受制于各机构独特的准入门槛与方法论偏好，缺乏跨机构的一致[[Construct Validity|构念效度]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 26]])。
 
 > [!citation-card]- 关键表述
 > 清算中心制定科学质量标准，审查教育干预的研究证据，并发布关于项目有效性的评级。然而，识别“基于证据”的干预措施目前仍更多是一种政策愿景，而不是一种可靠的研究实践。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, p. 3)]]
@@ -175,7 +177,7 @@ updated: 2026-09-15
 > - 不等于 [[Evidence-Based Education|循证教育]]（EBE） — EBE 是一种主张教育决策应系统基于最佳可用实证研究的宏观[[Epistemology|认识论]]与哲学运动；清算中心是支撑该运动落地的**制度化基础设施与评价平台**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
 > - 不等于 [[Systematic Review|系统综述]] 与 [[Meta-analysis|元分析]] — 系统综述与元分析是具体的研究综合方法学技术；清算中心则是**常设的制度化组织实体**，集成了标准制定、文献库维护、同行评审管理、实践工具包开发与公众平台传播等多重治理职能([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 4–5]])。
 > - 不等于 广义教育智库（Think Tanks） — 传统智库多以发布独立政策分析报告或倡导特定理念为主；清算中心的核心特征在于建立**明晰的因果证据筛选准则与项目级评级/推荐机制**。
-> - 不等于 [[Inclusive Evidence Validation Typology|包容性证据验证类型学]] — 清算中心多预设高门槛的外部标准化认证；包容性验证类型学则是为早期本土创新工具设立阶梯式准入标准，防止因盲目照搬清算中心顶级门槛而扼杀实践探索([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp. 175–176]])。
+> - 不等于 [[Inclusive Evidence Validation Typology|包容性证据验证类型学]] — 清算中心多预设高门槛的外部标准化认证；包容性验证类型学则是为早期本土创新工具设立阶梯式准入标准，防止因盲目照搬清算中心顶级门槛而扼杀实践探索([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp. 175–176]])。
 
 ---
 
@@ -197,7 +199,7 @@ updated: 2026-09-15
 ### 1. 清算中心评级生成的五大操作环节
 
 > [!feature] 清算中心评级运作的五大操作环节（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]）
-> - **[[Evidence Standards|证据标准]]制定（Standard Setting）** 明确界定何种研究设计具备因果证据效力。普遍推崇 [[Randomised Controlled Trials|随机对照试验]]（RCT），但在集群随机校正（HLM/ICC）、样本[[Attrition|流失]]模型（Attrition Models）、[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）与准实验（[[Quasi-Experimental Designs|QED]]）上设定了悬殊的技术门槛([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–11]])。
+> - **[[Evidence Standards|证据标准]]制定（Standard Setting）** 明确界定何种研究设计具备因果证据效力。普遍推崇 [[Randomised Controlled Trials|随机对照试验]]（RCT），但在集群随机校正（[[Hierarchical Linear Model|HLM]]/[[Intraclass Correlation Coefficient|ICC]]）、样本[[Attrition|流失]]模型（Attrition Models）、[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）与准实验（[[Quasi-Experimental Designs|QED]]）上设定了悬殊的技术门槛([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–11]])。
 > - **[[Literature Search|文献检索]]与准入筛选（Literature Screening）** 依据机构资助与使命筛选[[Document|文献]]池。部分机构强制要求同行评审学术期刊（如 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]），部分机构依托充足财政预算开展大规模灰色文献与委托评估报告审查（如 [[What Works Clearinghouse|WWC]]；[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]]）。
 > - **单项研究因果质量评估（Study Quality Appraisal）** 对单项研究设计的[[Internal Validity|内部效度]]进行独立技术审查，重点核验基线等值性、样本流失偏倚风险以及潜在混杂[[Variable|变量]]控制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
 > - **跨研究证据综合与最高门槛判定（Evidence Synthesis & Highest Hurdle）** 决定项目获得最高评级的前置条件，核心分歧集中于**[[Evaluator Independence|独立评估者]]复制（Evaluator Independence）**、**12 个月[[Fade-out Effect|干预后持续效果]]（Sustained Effects）**以及**[[Iatrogenic Effects in Education|医源性伤害]]排除（Iatrogenic Harm）**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 11–15]])。
@@ -303,8 +305,8 @@ updated: 2026-09-15
 > [!concept-lens] 研究[[Transfer Translation Transformation|转译]]与基层实践采购信息需求
 > 探讨清算中心公布的宏观证据等级能否充分满足学校管理层在真实采购中的信息需求。
 
-> [!claim] [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]]
-> **正式证据库的实用信息缺口** 尽管 [[What Works Clearinghouse|WWC]] 和 Evidence for ESSA 显著提高了研究证据的可及性，但一线教育决策者仍普遍偏好同伴推荐与本地试点。因为清算中心评级仅提供抽象的[[Statistical Significance|统计显著性]]与[[Effect Size|效应量]]，缺失了学校采购必不可少的实施难度、教师培训时长、年度维护成本、用户满意度及特殊生源适配性等地方性情境信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 110, 120–121]])。
+> [!claim] [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]]
+> **正式证据库的实用信息缺口** 尽管 [[What Works Clearinghouse|WWC]] 和 Evidence for ESSA 显著提高了研究证据的可及性，但一线教育决策者仍普遍偏好同伴推荐与本地试点。因为清算中心评级仅提供抽象的[[Statistical Significance|统计显著性]]与[[Effect Size|效应量]]，缺失了学校采购必不可少的实施难度、教师培训时长、年度维护成本、用户满意度及特殊生源适配性等地方性情境信息([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp. 110, 120–121]])。
 
 ---
 
@@ -313,8 +315,8 @@ updated: 2026-09-15
 > [!concept-lens] 外部证据准入门槛与本土工具培育
 > 探讨将清算中心的严苛标准直接套用于早期教育改革和本土教学工具开发时所产生的制度排斥效应。
 
-> [!claim] [[Argument_Dachet_2021_ROE|Dachet & Baye (2021)]]
-> **包容性阶梯式验证的必要性** 在本土[[Experimental Research|实验研究]]和成熟项目证据匮乏的语境下，若机械照搬 WWC、[[Education Endowment Foundation|EEF]] 或 [[Best Evidence Encyclopedia|BEE]] 的顶级认证门槛，将导致绝大多数本地创新工具被直接排除。必须建立[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，通过设定发展性的最低验证标准，支持本土工具从概念验证逐步走向严格因果检验([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp. 175–176]])。
+> [!claim] [[Argument_Dachet_2021_ECNUROE|Dachet & Baye (2021)]]
+> **包容性阶梯式验证的必要性** 在本土[[Experimental Research|实验研究]]和成熟项目证据匮乏的语境下，若机械照搬 WWC、[[Education Endowment Foundation|EEF]] 或 [[Best Evidence Encyclopedia|BEE]] 的顶级认证门槛，将导致绝大多数本地创新工具被直接排除。必须建立[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，通过设定发展性的最低验证标准，支持本土工具从概念验证逐步走向严格因果检验([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp. 175–176]])。
 
 ---
 
@@ -335,8 +337,8 @@ updated: 2026-09-15
 > |:---|:---|:---|:---|
 > | **[[Construct\|构念]]效度命题** | 清算中心评级一致性极低，极端冲突成为常态，“循证”构念效度受限 | 跨清算中心评级横向比较、证据标签采纳 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
 > | **分歧机制命题** | 评级冲突根源于独立复制、12个月随访等综合门槛与文献库差异 | 证据综合标准制定、审查规程设计 | 同上（Wadhwa 等） |
-> | **实践转译命题** | 正式评级缺乏实施成本与情境信息，无法替代本地知识与[[Evidence-Informed Practice\|证据知情实践]] | 学校采购决策、学区政策落地实施 | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison (2021)]] |
-> | **生态准入命题** | 通用顶级门槛易扼杀早期创新，需建立阶梯式包容性证据验证体系 | 地区性教育改革、本土工具阶梯化孵化 | [[Argument_Dachet_2021_ROE\|Dachet & Baye (2021)]] |
+> | **实践转译命题** | 正式评级缺乏实施成本与情境信息，无法替代本地知识与[[Evidence-Informed Practice\|证据知情实践]] | 学校采购决策、学区政策落地实施 | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] |
+> | **生态准入命题** | 通用顶级门槛易扼杀早期创新，需建立阶梯式包容性证据验证体系 | 地区性教育改革、本土工具阶梯化孵化 | [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] |
 > | **存续悖论与元治理命题** | 机构存亡受制于 2–3 年政治预算周期错配，亟需推进元中介建构累积知识库 | 中介机构制度设计、长效财政机制、跨国元协调 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] |
 
 ---
@@ -344,11 +346,11 @@ updated: 2026-09-15
 ## 概念演变
 
 > [!dev-timeline] 教育证据清算中心与中介机构的制度化演进历程
-> - **2001 — [[No Child Left Behind Act 2001|NCLB]] 法案确立科学研究要求** 美国《不让一个孩子掉队法案》（NCLB）将“基于科学的研究”写入联邦法规，强制要求联邦教育拨款与实证因果证据挂钩，催生了政府级证据中介的需求([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
+> - **2001 — [[No Child Left Behind Act 2001|NCLB]] 法案确立科学研究要求** 美国《不让一个孩子掉队法案》（NCLB）将“基于科学的研究”写入联邦法规，强制要求联邦教育拨款与实证因果证据挂钩，催生了政府级证据中介的需求([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
 > - **2002 — [[What Works Clearinghouse|WWC]] 成立确立[[Causality|因果推断]][[Paradigm|范式]]** [[Institute of Education Sciences|美国教育部教育科学研究院]]（IES）创设有效干预清算中心（WWC），累计投入超 1 亿美元研发资金，建立了以 [[Randomised Controlled Trials|RCT]] 和高质量 [[Quasi-Experimental Designs|QED]] 为基石的严格审查手册与因果质量分级体系([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 > - **2007 — [[OECD|经合组织]]首份标志性报告确立全球中介样本** OECD 发布《教育中的证据：连接研究与政策》，横向剖析美、英、新西兰、丹麦、荷兰、加拿大等国的首批标杆性中介机构，将[[Knowledge Mediation|知识中介]]确立为连接研究与政策的核心制度命题([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 55–57]])。
 > - **2010–2013 — 欧洲跨国协作网络开启实践维度扩展** 欧盟委员会资助建立 EIPEE 至 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国网络，汇聚 23 国 36 家机构，正式将知识中介重心由单纯面向政策界拓展至基层课堂教学实践，试验跨国元协调模式([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 67–68]])。
-> - **2011 — 英国 [[Education Endowment Foundation|EEF]] 设立与实践工具箱下沉** 英国教育部注资 1.25 亿英镑设立教育捐赠基金会（EEF），推出教学与学习工具箱，以额外进展月数与成本为核心指标，开创了面向教师与[[School Leadership|学校领导]]的实践中介模式([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 142]])。
+> - **2011 — 英国 [[Education Endowment Foundation|EEF]] 设立与实践工具箱下沉** 英国教育部注资 1.25 亿英镑设立教育捐赠基金会（EEF），推出教学与学习工具箱，以额外进展月数与成本为核心指标，开创了面向教师与[[School Leadership|学校领导]]的实践中介模式([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 142]])。
 > - **2015 — ESSA 四级[[Evidence Standards|证据标准]]驱动平台多元化** 美国《每个学生都成功法案》（ESSA）正式出台四级证据框架，推动清算中心评级深度嵌入全美学区采购；约翰斯·霍普金斯大学推出 Evidence for ESSA 等实践平台，形成多中心格局。
 > - **2017–2019 — 政治周期冲击与体制调整分化** 丹麦清算中心因政府短期合同未续签被迫关停；新西兰 [[Best Evidence Synthesis|BES]] 停止资助新综述并转向视频；挪威知识中心下放至斯塔万格大学开展平行评审改革；荷兰创设 [[Netherlands Initiative for Education Research|NRO]] 知识问答环岛([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 62–65]])。
 > - **2021–2022 — 新旗舰诞生与十五年纵向演进审思** 澳大利亚联邦新建国家级中介 [[Australian Education Research Organisation|AERO]]；经合组织发表 Burns & Schuller 十五年追踪报告，揭示机构高淘汰率与政治预算周期[[Determinism|决定论]]，正式倡导推进“中介的中介”以建构全球累积性知识大厦([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 64–68]])。
@@ -370,12 +372,12 @@ updated: 2026-09-15
 > > 围绕清算中心过分偏好小样本纯净实验还是重视大规模真实复杂情境的争论。
 > >
 > > - **方法学派** 坚守严格排除混杂与偏倚，要求多重独立复制与 12 个月[[Fade-out Effect|持续效果]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。
-> > - **实践学派** 批评过度严苛的标准阻碍了富有前景的本土创新工具，呼吁建立更具弹性的包容性证据验证路径([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp. 175–176]])。
+> > - **实践学派** 批评过度严苛的标准阻碍了富有前景的本土创新工具，呼吁建立更具弹性的包容性证据验证路径([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp. 175–176]])。
 >
 > > [!axis] 单体机构孤岛运作 vs 跨国“中介的中介”元治理
 > > 围绕中介机构应当各自深耕本土还是联合建立跨国元协调网络的争议。
 > >
-> > - **本土深耕派** 强调知识采纳深植于本土语言、人际网络与情感信任，跨国标准化难以解决微观现场问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 120–121]])。
+> > - **本土深耕派** 强调知识采纳深植于本土语言、人际网络与情感信任，跨国标准化难以解决微观现场问题([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp. 120–121]])。
 > > - **元治理倡导者** 指出单个机构受制于财政周期极易夭折，唯有建立“中介的中介”开展二阶[[Systematic Review|系统综述]]，才能建构具有全球公信力的累积性知识基石([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 66–68]])。
 
 > [!tension] 核心治理哲学张力：宽进（Inclusiveness） vs 严出（[[Selectivity]]）
@@ -385,7 +387,7 @@ updated: 2026-09-15
 > [!critique] 外部批评与异化风险
 > - **[[Construct Validity|构念效度]]危机** 清算中心评级高度依附于特定机构审查细则，“基于证据”缺乏跨平台的一致涵义，难以作为无偏的客观特质([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 26]])。
 > - **商业营销挪用与“自利操纵者”崛起** “证据知情”沦为商业教育科技企业与咨询机构推销产品的公关护身符，客观公正的中介面临被自利操纵者（Spinners）挤压排挤的危机([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 60]])。
-> - **实践采购信息缺失** 评级页面高度浓缩于抽象统计指标，未提供成本预算、教师培训负担与本地生源适配等实施关键信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 121]])。
+> - **实践采购信息缺失** 评级页面高度浓缩于抽象统计指标，未提供成本预算、教师培训负担与本地生源适配等实施关键信息([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 121]])。
 > - **算法规则削弱教师临床[[Professional Judgment|专业判断]]** 借鉴循证医学危机镜鉴，警惕将教学拆解（Unbundling）为标准化离散任务和自动化提示，防止教师职业发生去技能化（Deskilling；[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 65–67]]）。
 
 > [!warning] 适用局限
@@ -409,7 +411,7 @@ updated: 2026-09-15
 > | 同上 | 经合组织成员国政府常规拨款周期与教育改革周期错配 | 系统性创新[[Document\|文献]]与政策分析 | 拨款协议考核周期 vs 改革显效周期 | 政府常规考核周期仅为 **2–3 年**，而教育深度改革与中介转化显效通常需要 **8–14 年**（Borman et al., 2003）；时间与财政压力下成效评估最先被跳过（OECD, 2009） | 跨国比较综合 | 证实政治预算周期[[Determinism\|决定论]] |
 > | 同上 | 英国教育捐赠基金会（[[Education Endowment Foundation\|EEF]]）初始基金与资助规模 | 机构个案分析 | 启动基金与实验数量 | 获得英国教育部 **1.25 亿英镑**启动留本基金，累计资助超 **200 项**大规模独立[[Randomised Controlled Trials\|随机对照试验]] | 官方统计数据 | 开创独立慈善信托资助中介模式 |
 > | 同上 | 欧洲教育证据知情政策与实践项目（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]）网络规模 | 跨国元中介网络[[Participant Observation\|参与观察]] | 成员机构与国别覆盖 | 汇聚欧洲 **23 个国家**的 **36 家**正式中介与科研机构，吸纳欧洲以外 4 个国家的 7 家国际组织 | 跨国网络档案 | 欧洲首个全覆盖[[Knowledge Mediation\|知识中介]]元协调联盟 |
-> | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison (2021)]] | 美国学校与学区教育采购决策者 | [[Qualitative Interview\|质性访谈]]与[[Survey Research\|调查研究]] | 决策信息渠道偏好 | 决策者显著偏好同伴推荐与本地试点而非单一正式评级库 | 质性[[Triangulation\|三角互证]] | 正式评级平台存在情境信息缺口 |
+> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] | 美国学校与学区教育采购决策者 | [[Qualitative Interview\|质性访谈]]与[[Survey Research\|调查研究]] | 决策信息渠道偏好 | 决策者显著偏好同伴推荐与本地试点而非单一正式评级库 | 质性[[Triangulation\|三角互证]] | 正式评级平台存在情境信息缺口 |
 > | [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | WWC [[Single-Subject Design\|单一被试设计]] ([[Single-Case Design\|SCD]]) 证据标准 | 测量与审查标准规范 | [[Internal Validity\|内部效度]]门控与 5-3-20 阈值 | WWC 对 SCD 证据要求至少 5 项研究、由至少 3 个独立团队完成、涵盖至少 20 个被试以达到最高评级 | 官方标准规程 | 适用于 SCD 因果证据综合 |
 
 ---
@@ -419,9 +421,9 @@ updated: 2026-09-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 纵向追踪[[OECD|经合组织]] 2007 至 2022 年全球中介机构的十五年演进脉络，揭示中介机构受制于 2–3 年短期政治预算周期的存续悖论，构建三维制度分析谱系，并倡导推进“中介的中介”以建构跨国累积性知识基石。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 全景比较美英 12 个教育清算中心的制度[[Heterogeneity|异质性]]、[[Causality|因果推断]]标准与 1,359 个项目的评级一致性，首次实证揭示多重评级高度冲突（完全对立占 35.4%）与[[Construct Validity|构念效度]]局限，归因于证据综合门槛与[[Document|文献]]库差异。
-> - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 追踪 [[No Child Left Behind Act 2001|NCLB]] 至 ESSA 政策背景下清算中心（[[What Works Clearinghouse|WWC]], Evidence for ESSA）的发展脉络，揭示学校采购者对实施成本、教师培训与满意度等地方性情境信息的核心诉求。
-> - [[Argument_Dachet_2021_ROE|Dachet & Baye (2021)]] — 批判直接照搬美英清算中心最高门槛对本地工具的过度排除效应，提出[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]以支持本土创新工具的分阶孵化。
-> - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 考察英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）及其工具箱在欧洲[[Evidence-Based Education|循证教育]]治理中的制度化角色与转化机制。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 追踪 [[No Child Left Behind Act 2001|NCLB]] 至 ESSA 政策背景下清算中心（[[What Works Clearinghouse|WWC]], Evidence for ESSA）的发展脉络，揭示学校采购者对实施成本、教师培训与满意度等地方性情境信息的核心诉求。
+> - [[Argument_Dachet_2021_ECNUROE|Dachet & Baye (2021)]] — 批判直接照搬美英清算中心最高门槛对本地工具的过度排除效应，提出[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]以支持本土创新工具的分阶孵化。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] — 考察英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）及其工具箱在欧洲[[Evidence-Based Education|循证教育]]治理中的制度化角色与转化机制。
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 详细解析 WWC 在组间实验与[[Single-Subject Design|单一被试设计]]（[[Single-Case Design|SCD]]）中采用的[[Internal Validity|内部效度]]门控规程与 5-3-20 证据综合门槛。
 
 ---

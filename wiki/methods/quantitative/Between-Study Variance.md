@@ -40,7 +40,7 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
 confidence: high
 status: draft
@@ -55,7 +55,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!def] 核心定义
-> 研究间方差（Between-Study Variance，符号记为 $\tau^2$ 或 $\text{Tau}^2$）是随机效应[[Meta-analysis|元分析]]模型中的核心统计参数。它衡量的是各项初级研究背后的“真实[[Effect Size|效应量]]”（True Effect Sizes）分布的方差，代表了[[Sampling Error|抽样误差]]（Sampling Error, $v_i$）之外、由不同研究人群特征、干预实施强度、测量工具与情境条件等实质性差异所引起的跨研究变异总量。[[Argument_Higgins_2016_RE|(Higgins, 2016, pp. 38–39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
+> 研究间方差（Between-Study Variance，符号记为 $\tau^2$ 或 $\text{Tau}^2$）是随机效应[[Meta-analysis|元分析]]模型中的核心统计参数。它衡量的是各项初级研究背后的“真实[[Effect Size|效应量]]”（True Effect Sizes）分布的方差，代表了[[Sampling Error|抽样误差]]（Sampling Error, $v_i$）之外、由不同研究人群特征、干预实施强度、测量工具与情境条件等实质性差异所引起的跨研究变异总量。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 38–39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将观察到的总方差严格分解为“研究内抽样误差”（Within-study variance $v_i$）与“研究间真实方差”（Between-study variance $\tau^2$）。
@@ -119,5 +119,5 @@ flowchart TD
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]中研究间方差 $\tau^2$ 的统计定位与[[Heterogeneity|异质性]]量化演进。
+> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]中研究间方差 $\tau^2$ 的统计定位与[[Heterogeneity|异质性]]量化演进。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍固定与[[Fixed-Effect and Random-Effects Models|随机效应模型]]中 $\tau^2$ 的计算原理与实践意义。

@@ -54,7 +54,7 @@ related_persons:
 related_facts:
   - "[[International Schools Association]]"
 related_arguments:
-  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Yu_2024_CE]]"
 confidence: high
 status: active
@@ -69,21 +69,21 @@ updated: '2026-08-27'
 ## 定义
 
 > [!def] 核心定义
-> 霸权（Hegemony），系意大利思想家 Antonio Gramsci (1971) 在《狱中[[Memos|札记]]》（*Quaderni del carcere*）中提出的核心权力概念。指统治阶级不仅依靠暴力机器进行直接强制，更通过法律、教育、媒体、科学、大学等文化制度，将特定群体的世界观与利益选择性合法化为“普遍常识”，从而赢得被统治者**积极同意（legitimising and securing consent to rule）**的统治治理机制[[Argument_Marginson_2025_ROE|(Marginson, 2025, pp. 13–14)]]; [[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 60)]]。
+> 霸权（Hegemony），系意大利思想家 Antonio Gramsci (1971) 在《狱中[[Memos|札记]]》（*Quaderni del carcere*）中提出的核心权力概念。指统治阶级不仅依靠暴力机器进行直接强制，更通过法律、教育、媒体、科学、大学等文化制度，将特定群体的世界观与利益选择性合法化为“普遍常识”，从而赢得被统治者**积极同意（legitimising and securing consent to rule）**的统治治理机制[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 13–14)]]; [[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 60)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于纯粹国家暴力强制（Coercion/Force），霸权是一种通过文化制度制造共识、正当化统治秩序与社会等级的关系性权力。
-> - **用途** 帮助研究者剖析学校课程（[[Official Knowledge|官方知识]]）如何将统治文化自然化为国族共识，以及全球高等教育（如大学排名、英美学术标准）如何制造非强制性的全球知识等级[[Argument_Marginson_2025_ROE|(Marginson, 2025)]]; [[Argument_Yu_2024_CE|(Yu & Zhao, 2024)]]。
+> - **用途** 帮助研究者剖析学校课程（[[Official Knowledge|官方知识]]）如何将统治文化自然化为国族共识，以及全球高等教育（如大学排名、英美学术标准）如何制造非强制性的全球知识等级[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025)]]; [[Argument_Yu_2024_CE|(Yu & Zhao, 2024)]]。
 > - **边界** 霸权不等于绝对控制或单向洗脑——文化部门具备“半自主性”，霸权始终需要持续的制度运作来维持，且始终面临被统治群体的反霸权（counter-hegemony）抵抗与“不完整同意” (pp. 68–70)。
 
 > [!citation-card]- 关键表述：葛兰西对强制与霸权的区分
-> 葛兰西区分了强制/暴力与霸权，后者指通过包括法律、教育、媒体、科学和大学在内的文化制度，正当化并获得对统治及后续社会秩序的同意。[[Argument_Marginson_2025_ROE|(Marginson, 2025, p. 13)]]
+> 葛兰西区分了强制/暴力与霸权，后者指通过包括法律、教育、媒体、科学和大学在内的文化制度，正当化并获得对统治及后续社会秩序的同意。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, p. 13)]]
 >
 > *“Gramsci... distinguished coercion/force and hegemony, the latter being the legitimising and securing of consent to rule and the subsequent social order through cultural institutions, including law, education, media, science, and universities.”*
 
 > [!boundary]- 概念边界
 > - **不等于直接强制（Coercion）** — 强制依靠警察、军队、监禁等国家暴力机器行使；霸权依靠教育、学术、法律与媒体等文化装置制造“自愿接受”。
-> - **不等于[[World-Systems Theory|世界体系理论]]的结构[[Determinism|决定论]]** — 世界体系理论偏重宏观经济地缘结构的客观定位；霸权理论聚焦文化部门的半自主性、主观共识制造及反霸权抵抗空间[[Argument_Marginson_2025_ROE|(Marginson, 2025, pp. 13–14)]]。
+> - **不等于[[World-Systems Theory|世界体系理论]]的结构[[Determinism|决定论]]** — 世界体系理论偏重宏观经济地缘结构的客观定位；霸权理论聚焦文化部门的半自主性、主观共识制造及反霸权抵抗空间[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 13–14)]]。
 
 ---
 
@@ -102,9 +102,9 @@ updated: '2026-08-27'
 ## 核心要素
 
 > [!feature] 霸权运作的核心要素
-> - **强制与同意的双重结合（Force & Consent）** 任何稳定的统治均需结合硬实力与文化霸权；仅靠硬实力无法持久，霸权是更高效持久的权力形式[[Argument_Marginson_2025_ROE|(Marginson, 2025, p. 13)]]。
-> - **文化部门的半自主性（[[Semi-Autonomy of Higher Education|semi-autonomy]] of Culture）** 科学、教育与大学相对于政治经济具备部分[[Epistemology|认识论]]自主性；这种半自主性使文化部门比直白宣传更能制造可信的共识[[Argument_Marginson_2025_ROE|(Marginson, 2025, pp. 13–14)]]。
-> - **知识分子的双重角色（Organic vs Counter-Intellectuals）** 知识分子既可作为“有机知识分子”服务于支配霸权，亦可生产反霸权思想[[Argument_Marginson_2025_ROE|(Marginson, 2025, p. 14)]]。
+> - **强制与同意的双重结合（Force & Consent）** 任何稳定的统治均需结合硬实力与文化霸权；仅靠硬实力无法持久，霸权是更高效持久的权力形式[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, p. 13)]]。
+> - **文化部门的半自主性（[[Semi-Autonomy of Higher Education|semi-autonomy]] of Culture）** 科学、教育与大学相对于政治经济具备部分[[Epistemology|认识论]]自主性；这种半自主性使文化部门比直白宣传更能制造可信的共识[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 13–14)]]。
+> - **知识分子的双重角色（Organic vs Counter-Intellectuals）** 知识分子既可作为“有机知识分子”服务于支配霸权，亦可生产反霸权思想[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, p. 14)]]。
 > - **空间化的中心—边缘结构（Center-Margin Spatial Order）** 霸权不仅制造统治共识，更通过空间与符号语法确立谁代表“文化中心”、谁处于“边缘接受者”位置[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 67–68)]]。
 
 > [!logic-map]- 霸权机制与反霸权张力链条
@@ -130,7 +130,7 @@ updated: '2026-08-27'
 > 考察国家与支配阶层如何通过学校课程与大学体制将特定文化统治包装为理所当然的日常常识。
 
 > [!claim] Marginson, S.
-> **文化制度正当化统治** Gramsci 区分了强制/暴力与霸权，霸权是通过法律、教育、媒体、科学和大学等文化制度正当化统治并获得对社会秩序的同意。稳定的统治依赖两者的结合，但霸权是更高效和持久的权力形式，因为它使被统治者“自愿地”接受统治秩序[[Argument_Marginson_2025_ROE|(Marginson, 2025, pp. 13–14)]]。
+> **文化制度正当化统治** Gramsci 区分了强制/暴力与霸权，霸权是通过法律、教育、媒体、科学和大学等文化制度正当化统治并获得对社会秩序的同意。稳定的统治依赖两者的结合，但霸权是更高效和持久的权力形式，因为它使被统治者“自愿地”接受统治秩序[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 13–14)]]。
 
 > [!claim] Yu, T. & Zhao, Z.
 > **课程作为霸权装置制造国族共识** 中国学校教科书（覆盖六门必修科目、217 册）并非通过直接命令要求学生接受儒家传统，而是通过反复呈现[[Official Knowledge|官方知识]]，将儒家自然化为“中华文化的核心与缩影”。这一运作精确符合霸权定义：权力通过在多科目中重复呈现“理所自然”的常识来行使[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 67–68)]]。
@@ -143,7 +143,7 @@ updated: '2026-08-27'
 > 探讨教育与学术[[Champ|场域]]的半自主特性如何既增强了共识的可[[Reliability|信度]]，又为反霸权批判留下了制度空隙。
 
 > [!claim] Marginson, S.
-> **半自主性与知识分子的双重性** 科学与教育部门具有相对自主性，这种半自主性不是权力的弱点，而是精妙之处——半自主的文化部门比机械宣传更能制造可信共识。知识分子既可充当“有机知识分子”服务现行霸权，也可生产反霸权（counter-hegemony）思想[[Argument_Marginson_2025_ROE|(Marginson, 2025, pp. 13–14)]]。
+> **半自主性与知识分子的双重性** 科学与教育部门具有相对自主性，这种半自主性不是权力的弱点，而是精妙之处——半自主的文化部门比机械宣传更能制造可信共识。知识分子既可充当“有机知识分子”服务现行霸权，也可生产反霸权（counter-hegemony）思想[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 13–14)]]。
 
 > [!claim] Yu, T. & Zhao, Z.
 > **霸权的不稳定性与边缘群体的反思抵抗** 霸权从来不是绝对的。对 37 名少数民族和信教大学生的访谈显示，约 86% 的边缘学生拒斥“儒家等于中华文化”的垄断等式，约 43% 直接批判其男权与阶级等级性。这种“不完整的同意”印证了霸权始终面临边缘主体立足于自身文化资源的解构与抵抗[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 68–70)]]。
@@ -165,7 +165,7 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **文化制造共识命题** | 统治依赖文化制度将特定利益包装为“积极同意” | 国家课程、[[Geopolitics of Higher Education\|高等教育地缘政治]] | [[Argument_Marginson_2025_ROE\|Marginson (2025)]] |
+> | **文化制造共识命题** | 统治依赖文化制度将特定利益包装为“积极同意” | 国家课程、[[Geopolitics of Higher Education\|高等教育地缘政治]] | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] |
 > | **半自主性与反霸权命题** | 文化部门具半自主性，霸权面临抵抗与“不完整同意” | [[Academic Freedom\|学术自由]]、知识分子角色、少数民族反思 | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
 > | **空间等级自然化命题** | 霸权通过语法与叙事将“中心—边缘”等级包装为文明教化 | 民族教育、教科书批判[[Discourse Analysis\|话语分析]] | Gramsci (1971) |
 
@@ -178,7 +178,7 @@ updated: '2026-08-27'
 > - **1971 — 英语学术圈拓展** 《狱中札记》英译本出版，霸权概念深刻影响了英国文化研究（Stuart Hall）、[[Post-colonial Theory|后殖民理论]]（Edward Said）与[[Critical Pedagogy|批判教育学]]（[[Paulo Freire]]）。
 > - **1990s至今 — 国际政治与教育地缘转向** 霸权被引入国际政治经济学与国际关系；后在教育研究中被用于分析美国全球学术霸权的形成机制。
 > - **2024 — 课程话语与边缘抗争分析** [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 以中国 217 册必修教材与 37 名边缘学生为案例，经验性地展示了国家如何利用课程霸权自然化汉文化中心地位，以及边缘群体的反霸权跨文化解构。
-> - **2025 — [[Geopolitics of Higher Education|高等教育地缘政治]]理论化** [[Argument_Marginson_2025_ROE|Marginson (2025)]] 将霸权理论系统引入高等教育地缘政治，替代[[World-Systems Theory|世界体系理论]]，解释英美大学全球扩张与大学排名如何制造全球学术共识。
+> - **2025 — [[Geopolitics of Higher Education|高等教育地缘政治]]理论化** [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] 将霸权理论系统引入高等教育地缘政治，替代[[World-Systems Theory|世界体系理论]]，解释英美大学全球扩张与大学排名如何制造全球学术共识。
 
 ---
 
@@ -189,16 +189,16 @@ updated: '2026-08-27'
 > > [!axis] 霸权的共识制造 vs 军事/经济硬实力的持续基石
 > > 围绕全球与国家霸权究竟主要依靠文化“同意”，还是始终依赖硬实力（军事/经济）后盾展开辩论。
 > >
-> > - **Gramsci (1971) / [[Argument_Marginson_2025_ROE|Marginson (2025)]]** — 强调霸权的精妙在于文化制度制造自愿同意。
-> > - **[[Argument_Marginson_2025_ROE|Marginson (2025, pp. 15–16)]] 自述补充** — 指出霸权不能脱离硬实力：美国 1990–2015 年的高等教育全球霸权，始终以其绝对的全球军事与政治经济优势为后盾。
+> > - **Gramsci (1971) / [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]** — 强调霸权的精妙在于文化制度制造自愿同意。
+> > - **[[Argument_Marginson_2025_ECNUROE|Marginson (2025, pp. 15–16)]] 自述补充** — 指出霸权不能脱离硬实力：美国 1990–2015 年的高等教育全球霸权，始终以其绝对的全球军事与政治经济优势为后盾。
 
 > [!tension] 霸权的同化意图 vs 边缘群体的抵抗（二元张力）
 > - **霸权同化整合意图（支配方）** 希望通过强制性课程将汉儒正统塑造为不可质疑的国族文化核心 (Yu & Zhao 2024, p. 67)。
 > - **反霸权主体性抵抗（边缘方）** 86% 的边缘学生拒斥话语垄断，利用自身信仰与生活经验将霸权降格为多元文化之一 (Yu & Zhao 2024, pp. 68–70)。
 
 > [!critique] 外部批评
-> - **经验[[Operationalization|操作化]]难题** 批评者指出霸权概念在实证测量上面临挑战：如何精准区分“真正的积极同意”与“被迫的臣服默认”？这一难题在葛兰西文本中缺乏细化量表[[Argument_Marginson_2025_ROE|(Marginson, 2025, p. 14)]]。
-> - **结构定位不如世界体系清晰** 与[[World-Systems Theory|世界体系理论]]相比，霸权理论擅长解释权力如何运作（制造同意），但对全球等级结构中“谁在什么具体位置”的描述不如世界体系理论系统[[Argument_Marginson_2025_ROE|(Marginson, 2025, p. 15)]]。
+> - **经验[[Operationalization|操作化]]难题** 批评者指出霸权概念在实证测量上面临挑战：如何精准区分“真正的积极同意”与“被迫的臣服默认”？这一难题在葛兰西文本中缺乏细化量表[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, p. 14)]]。
+> - **结构定位不如世界体系清晰** 与[[World-Systems Theory|世界体系理论]]相比，霸权理论擅长解释权力如何运作（制造同意），但对全球等级结构中“谁在什么具体位置”的描述不如世界体系理论系统[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, p. 15)]]。
 
 > [!warning] 适用局限
 > 霸权理论最适用于解释具备发达文化中介机构（如成熟的学校体系、出版业与大学）的现代国家或全球治理[[Champ|场域]]；在暴力机器直接统辖的极权压迫情境下，硬强制往往超越霸权共识成为主导机制。
@@ -219,7 +219,7 @@ updated: '2026-08-27'
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Marginson_2025_ROE|Marginson (2025)]] — 以霸权理论替代[[World-Systems Theory|世界体系理论]]，剖析 1990–2015 年美式大学、全球排名与英语话语如何制造高等教育全球化的文化同意。
+> - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 以霸权理论替代[[World-Systems Theory|世界体系理论]]，剖析 1990–2015 年美式大学、全球排名与英语话语如何制造高等教育全球化的文化同意。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 通过 217 册必修教材与 37 名少数民族学生访谈，实证展现课程如何作为霸权装置制造文化共识，以及边缘群体的反霸权解构。
 > - [[Geopolitics of Knowledge]] — 应用霸权概念解释全球学术标准与“世界一流大学”想象如何[[Disciplina and Doctrina|规训]]发展中国家高等教育。
 > - [[Sinicisation]] — 结合霸权理论分析国家如何利用课程与文化制度将少数民族纳入汉文化框架。
@@ -229,6 +229,6 @@ updated: '2026-08-27'
 ## 应用领域
 
 > [!feature] 霸权理论的核心应用领域
-> - **[[Geopolitics of Higher Education|高等教育地缘政治]]** 解释“国际化为何往往演变为西方化”：英美大学的全球扩张靠的不是军队，而是定义“世界一流”的霸权共识[[Argument_Marginson_2025_ROE|(Marginson, 2025)]]。
+> - **[[Geopolitics of Higher Education|高等教育地缘政治]]** 解释“国际化为何往往演变为西方化”：英美大学的全球扩张靠的不是军队，而是定义“世界一流”的霸权共识[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025)]]。
 > - **[[Global Universities Rankings|全球大学排名]]** 排名是霸权的典型装置：不强制大学参评，但通过确立“卓越”指标引发全球大学的自我[[Disciplina and Doctrina|规训]]。
 > - **[[Internationalization of Higher Education|高等教育国际化]]** 亚洲中产阶级“自愿”支付高学费前往西方留学，这种“同意”被市场话语合法化，其深层是全球知识分工的霸权结构。

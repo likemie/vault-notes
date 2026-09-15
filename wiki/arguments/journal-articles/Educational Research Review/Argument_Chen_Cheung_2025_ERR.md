@@ -84,7 +84,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Role-playing]]"
-  - "[[PRISMA]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
@@ -102,6 +101,7 @@ related_instruments:
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[California Critical Thinking Skills Test]]"
+  - "[[PRISMA]]"
 related_persons:
   - "[[Alan C. K. Cheung]]"
   - "[[Robert Slavin]]"

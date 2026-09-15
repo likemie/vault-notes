@@ -309,8 +309,8 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | 资源 | 说明 |
 > |---|---|
 > | [Anna's Archive](https://zh.annas-archive.gl) | 聚合 Z-Library、Library Genesis 等多个来源，支持 ISBN/DOI 检索 |
-> | [Library Genesis](https://libgen.gl) | 学术书籍与论文免费资源库（当前暂不可用） |
-> | [Z-Library](https://z-library.sk) | 最大的免费电子书库之一（单点登录：singlelogin.re） |
+> | [Library Genesis](https://libgen.bz) | 学术书籍与论文免费资源库 |
+> | [Z-Library](https://z-library.sk) | 最大的免费电子书库之一 |
 > | [Memory of the World](https://library.memoryoftheworld.org) | 保存被遗忘和稀缺的书籍与文献 |
 > | [Ocean of PDF](https://oceanofpdf.com) | 免费 PDF 电子书搜索 |
 > | [Liber3](https://liber3.eth.limo) | Web3 去中心化电子书检索，通过 ENS 域名访问 |

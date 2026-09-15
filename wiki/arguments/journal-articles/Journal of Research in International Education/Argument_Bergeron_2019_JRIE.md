@@ -59,7 +59,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-05
-updated: 2026-08-20
+updated: 2026-09-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bergeron_2019_JRIE"
@@ -116,9 +116,9 @@ issuing_organization: ""
 > - **第二阶段（质性[[Focus Group|焦点小组]]）** 基于问卷发现的问题，开展半结构化焦点[[Group Interview|小组访谈]]。运用逐行开放[[Coding in Qualitative Research|编码]]和恒定比较法，归纳出教学法转变、行政排课问题及评估困难等核心主题。
 
 > [!stat-cards] 样本与[[Reliability|信度]]快照
-> - **量化样本** $n=1,534$（960 名 TOK 教师，585 名 DP 协调员），涵盖英、法、西三种语言的全球 IB 学校。
-> - **质性样本** $n=33$（13男，20女），分别在澳大利亚（布里斯班）、荷兰（阿姆斯特丹）和美国（芝加哥）进行三场焦点小组访谈。
-> - **信度指标** “教授 TOK 自信心（[[Classical Test Theory|CTT]]）”量表表现出良好的[[Internal Consistency|内部一致性]]（Cronbach's $\alpha = .798$）。
+> - **1,534** 量化样本（$n$），含 960 名 TOK 教师、585 名 DP 协调员，涵盖英、法、西三种语言的全球 IB 学校。
+> - **33** 质性样本（$n$），含 13男、20女，分别在澳大利亚（布里斯班）、荷兰（阿姆斯特丹）和美国（芝加哥）进行三场焦点小组访谈。
+> - **.798** 信度指标，“教授 TOK 自信心（[[Classical Test Theory|CTT]]）”量表的 Cronbach's $\alpha$，表现出良好的[[Internal Consistency|内部一致性]]。
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 118
+related_count: 119
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -113,6 +113,7 @@ related_persons:
   - "[[Basil Bernstein]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Research in Schools Evaluation]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
@@ -145,7 +146,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-09-07
+updated: 2026-09-16
 ---
 
 # Critiques of Visible Learning
@@ -375,7 +376,7 @@ Wecker 等人首先检查 Hattie 使用的一级元分析数据库是否满足�
 **（b）效应量测度的交替混淆**
 
 Hattie 在不同元分析之间交替使用多种效应量测度而不做转换（pp. 26–27, Table 1）：
-> [!stat-cards] 四种效应量测度
+> [!feature] 四种效应量测度
 > - **Cohen's d** $= \frac{M_E - M_C}{SD_{pooled}}$
 > - **Hedges' g** $\approx d \times \left[1 - \frac{3}{4N-9}\right]$，小样本偏差校正
 > - **Glass' Δ** $= \frac{M_E - M_C}{SD_{control}}$，仅用控制组 SD
@@ -730,9 +731,9 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]以变差系数（coefficient of variation, Vσ）对 Hattie 的效应量数据集进行了前人未做的统计检验，为方法论批评提供了定量证据。
 
 > [!stat-cards] 变差系数（Vσ）检验结果（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, pp. 238–239]]）
-> - **整体 Vσ = 56.87%** 133 个正值效应量的总体变差系数，属"极端不均匀"——远超同质性阈值 33%
-> - **分类峰值：学生 71.24%** 学校 65.97%、教师 51.01%、教学方法 50.65%、课程 41.95%、家庭 38.57%——**六大影响源全部超阈值**
-> - **Vσ 判读** <17% 绝对均匀；17–33% 充分均匀；35–40% 不够均匀；>40% 高震荡
+> - **56.87%** 整体 Vσ：133 个正值效应量的总体变差系数，属"极端不均匀"——远超同质性阈值 33%
+> - **71.24%** 分类峰值：学生；学校 65.97%、教师 51.01%、教学方法 50.65%、课程 41.95%、家庭 38.57%——**六大影响源全部超阈值**
+> - **< 17% / 17–33% / 35–40% / > 40%** Vσ 判读：绝对均匀；充分均匀；不够均匀；高震荡
 
 > [!citation-card]- Golovchin, 2019, p. 239
 > 「在这样一个不稳定的模型中确定任何效应的强度，很可能不会导致客观结论的形成。批评者关于元分析过程中缺乏数据控制的假设得到确认。」
@@ -936,7 +937,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 > [!citation-card]- Schön, 1983, p. 31（引自 Nielsen & Klitmøller, 2021, p. 82）
 > *"技术理性是实证主义的遗产。实证主义是一种强大的哲学学说，兴起于十九世纪，既是对科学与技术崛起的解释，也是一场旨在将科学与技术成就应用于人类福祉的社会运动。"*
 > 
-> *"Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts|account]] of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."*
+> *"Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts|account]] of the [[Research in Schools Evaluation|RISE]] of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."*
 
 技术理性铺平了教育中的**手段-目的思维（means-ends thinking）**——问题被理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决（p. 82）。工程师的材料分析、医生的疾病诊疗成为所有专业实践（包括教育）的模型。
 

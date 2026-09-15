@@ -12,10 +12,10 @@ aliases:
 summary: "由Brown等提出的证据知情学校改进模型，将校内基于数据的决策（DBDM）与校外研究知情教学实践（RITP）整合为八步探究闭环，通过专业协作网络实现问题诊断、实证干预与课堂改进的有机统一。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 33
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/evidence-informed-practice
   - theme/school-improvement
@@ -28,34 +28,38 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Professional Learning Community]]"
   - "[[Technical Rationality]]"
-  - "[[Effective Teaching]]"
   - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Problem Finding]]"
-  - "[[Homework]]"
-  - "[[Literature Search]]"
-  - "[[Boundary Spanner]]"
+  - "[[Academic Achievement]]"
+  - "[[Hypothesis]]"
+  - "[[Phronesis]]"
+  - "[[Reliability]]"
+  - "[[Effective Teaching]]"
   - "[[Scaffolding]]"
+  - "[[Boundary Spanner]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Data Literacy]]"
   - "[[Research Literacy]]"
   - "[[Metacognition]]"
+  - "[[Homework]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
   - "[[Triangulation]]"
-  - "[[Qualitative Observation]]"
-  - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
 related_persons:
   - "[[Chris Brown]]"
+  - "[[Kim Schildkamp]]"
   - "[[Julie Nelson]]"
   - "[[Carol Campbell]]"
   - "[[Jonathan Sharples]]"
 related_facts:
+  - "[[Research Learning Communities]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Data Team Intervention]]"
 related_arguments:
+  - "[[Argument_Brown_2017_ER]]"
   - "[[Argument_Nelson_2017_ER]]"
 confidence: medium
 status: draft
@@ -105,12 +109,12 @@ updated: 2026-09-15
 ## 核心要素
 
 > [!feature] ESTI 八步探究循环构成
-> - **步骤一：确立改进愿景与目标（Setting Vision and Goals）** 立足学校自身的发展愿景与真实迫切需求，明确以提升学生学业成就与发展质量为导向的具体目标，防止盲目追逐外部热点。
-> - **步骤二：双源提出成因假设（Hypothesising Causes）** 结合一线教师的默会实践智慧与外部学术研究文献（已知的可能诱因），就阻碍目标达成的潜在原因系统提出多重视角假设。
+> - **步骤一：确立改进愿景与目标（Setting Vision and Goals）** 立足学校自身的发展愿景与真实迫切需求，明确以提升学生[[Academic Achievement|学业成就]]与发展质量为导向的具体目标，防止盲目追逐外部热点。
+> - **步骤二：双源提出成因[[Hypothesis|假设]]（Hypothesising Causes）** 结合一线教师的默会[[Phronesis|实践智慧]]与外部学术研究[[Document|文献]]（已知的可能诱因），就阻碍目标达成的潜在原因系统提出多重视角假设。
 > - **步骤三：多源校本数据收集（Data Collection）** 围绕最可能的成因假设，系统收集校内多元数据（如学生声音、学业表现、课堂观察记录等）。
-> - **步骤四：数据质量审验与深度分析（Quality Analysis & Interpretation）** 严格核验收集数据的信度与效度，并展开深度分析，推动原始数据转化为有用信息。
+> - **步骤四：数据质量审验与深度分析（Quality Analysis & Interpretation）** 严格核验收集数据的[[Reliability|信度]]与效度，并展开深度分析，推动原始数据转化为有用信息。
 > - **步骤五：综合论证并得出成因结论（Drawing Conclusions）** 将分析结果与教师专业理解深度融合，明确引发学情问题的确切根因。
-> - **步骤六：依托实证文献搜寻解决方案（Seeking Solutions）** 针对已证实的根本原因，借助研究学习共同体（RLC）等中介协议与工具，检索并筛选经过验证的外部实证干预策略。
+> - **步骤六：依托实证文献搜寻解决方案（Seeking Solutions）** 针对已证实的根本原因，借助[[Research Learning Communities|研究学习共同体]]（RLC）等中介协议与工具，检索并筛选经过验证的外部实证干预策略。
 > - **步骤七：研制情境化校本行动计划（Develop an Action Plan）** 结合校本数据、本土教师经验与学校文化价值观，对外部研究策略进行情境化改编，研制具体行动方案。
 > - **步骤八：试验、微调与全校推广评估（Evaluation & Scaling）** 经历班级试点、动态微调与全校规模化推广过程，评估行动方案是否真正解决了步骤一确立的核心问题。[[Argument_Brown_2017_ER|(Brown et al., 2017, p. 166)]]
 
@@ -195,8 +199,11 @@ updated: 2026-09-15
 
 ## 应用案例
 
-> [!case] 案例：英格兰与荷兰中小学证据知情探究实验（Brown et al., 2017）
+> [!case] 案例：英格兰与荷兰中小学证据知情探究实验（[[Argument_Brown_2017_ER|Brown et al., 2017]]）
 > Brown, Schildkamp, & Hubers (2017) 在英格兰和荷兰的多所中小学推行学校探究循环项目。项目由学科组长担任中层促进者，首先带领组内教师分析学生数学形成性测评中的常见错误类型（[[Data-Based Decision Making|DBDM]]）；随后指导教师检索 [[Education Endowment Foundation|EEF]] 工具包中关于“[[Metacognition|元认知]]与自我调节”的实证[[Document|文献]]（[[Research-Informed Teaching Practice|RITP]]）；教师团队共同设计了“数学解题自我提问单”，并在为期 8 周的课堂试验中收集[[Homework|作业]]反馈；期末复盘显示实验班学生解题准确率显著提升，该探究循环模式随后被推广至全校各学科组。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 158, 161, 165–167)]]
+
+> [!case] 案例：从“他人应该做”到“我们能做什么”的实践者认知重塑（Timperley et al. / Schildkamp et al.）
+> 在推进探究循环初期，教师往往持有将学业问题归咎于学生家庭背景或外部因素的防御性心理（deficit thinking）。ESTI 模型的关键机制在于引导教师将主观臆断转化为可检验的实证[[Hypothesis|假设]]，并借助校本多源数据进行严格审验。在荷兰[[Data Team Intervention|数据团队]]的多所学校实践中，多源数据客观推翻了“学生不努力”的刻板印象，促使教师群体直面课堂教学法单一等内部根因，实现了从被动推诿“他人应该怎么做”向主动反思“我们能在本校教学中做些什么来促进学生学习”的心态重塑。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 166–167)]]
 
 ---
 

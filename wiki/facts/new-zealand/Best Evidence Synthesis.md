@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Best Evidence Synthesis
@@ -135,10 +135,10 @@ updated: 2026-09-14
 > - **兼顾科学严谨与文化多元性** 成功验证了[[Systematic Review|系统综述]]可以同时兼纳量化[[Effect Size|效应量]]与质性文化叙事，为原住民国家探索非殖民化[[Evidence-Based Education|循证教育]]提供了制度示范。
 
 > [!stat-cards]- 标志性产出与规模指标
-> - **4 部** 国际公认的划时代教育迭代综合专著（优质教学、家校合作、教师发展、[[School Leadership|学校领导力]]）
-> - **$d = 0.42$** Robinson 等人测算的教学型领导对学生学习成果的平均效应量
-> - **数十部** “行动中的证据”课堂实景教学微视频与本土实践案例库
-> - **15 年** 纵向生存轨迹中呈现“从方法论综述转向存量[[Transfer Translation Transformation|转译]]”的典型演变路径([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])
+> - **4** 国际公认的划时代教育迭代综合专著（部；优质教学、家校合作、教师发展、[[School Leadership|学校领导力]]）
+> - **0.42** Robinson 等人测算的教学型领导对学生学习成果的平均效应量（$d$）
+> - **数十** “行动中的证据”课堂实景教学微视频与本土实践案例库（部）
+> - **15** 纵向生存轨迹中呈现“从方法论综述转向存量[[Transfer Translation Transformation|转译]]”的典型演变路径（年）([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])
 
 ---
 

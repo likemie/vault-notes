@@ -8,9 +8,9 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
 - manaiakalani
@@ -25,13 +25,14 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Foundation North Māori and Pasifika Education Initiative]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-09-16
 ---
 ## 概述
 
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 > - **2008 年** 教育部资助的 EHSAS（Extending High Standards Across Schools）技术增强型扫盲计划在奥克兰低 decile 学校集群中建立
 > - **2010 年** 转为教育部资助的 ICT 专业发展集群
 > - **2011 年** Manaiakalani Education Trust 正式成立，主席 Pat Snedden（奥克兰港口总监）
-> - **2012 年** 获 ASB Community Trust（后 Foundation North）和 Spark Foundation 创始赞助
+> - **2012 年** 获 ASB Community Trust（后 [[Foundation North Māori and Pasifika Education Initiative|Foundation North]]）和 Spark Foundation 创始赞助
 > - **2015 年** 获 NEXT Foundation 资助，通过 Manaiakalani Outreach 项目将技术增强学习与专业发展模式在全国范围推广；另获 Samsung Electronics 资助([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.9]])
 
 ## 运作模式

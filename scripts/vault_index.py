@@ -25,14 +25,14 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-VAULT_ROOT = Path("/Users/shaoyangwu/Documents/MyNotes")
+VAULT_ROOT = Path(__file__).resolve().parents[1]
 VENV_PYTHON = VAULT_ROOT / ".venv" / "bin" / "python"
 
 if VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolve():
     os.execv(str(VENV_PYTHON), [str(VENV_PYTHON), *sys.argv])
 
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = VAULT_ROOT
 SCRIPTS_DIR = ROOT / "scripts"
 BOOKS_DIR = ROOT / "wiki" / "arguments" / "books"
 ARGUMENTS_DIR = ROOT / "wiki" / "arguments"
@@ -605,7 +605,7 @@ FOLDER_TO_INSTRUMENT_TYPE = {
 
 
 def upsert_concept_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
+    lines = raw_frontmatter.rstrip("\n").splitlines()
     filtered: list[str] = []
     i = 0
     while i < len(lines):
@@ -713,7 +713,7 @@ def instrument_color_for(kind: str, level: int) -> str:
 
 
 def upsert_instrument_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
+    lines = raw_frontmatter.rstrip("\n").splitlines()
     filtered: list[str] = []
     i = 0
     while i < len(lines):
@@ -831,7 +831,7 @@ def method_stars_for(count: int) -> tuple[int, str]:
 
 
 def upsert_method_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
+    lines = raw_frontmatter.rstrip("\n").splitlines()
     filtered: list[str] = []
     i = 0
     while i < len(lines):
@@ -947,7 +947,7 @@ def theory_stars_for(count: int) -> tuple[int, str]:
 
 
 def upsert_theory_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
+    lines = raw_frontmatter.rstrip("\n").splitlines()
     filtered: list[str] = []
     i = 0
     while i < len(lines):
@@ -1066,7 +1066,7 @@ def fact_color_for(kind: str, level: int) -> str:
 
 
 def upsert_fact_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
+    lines = raw_frontmatter.rstrip("\n").splitlines()
     filtered: list[str] = []
     i = 0
     while i < len(lines):
@@ -1200,7 +1200,7 @@ def person_stars_for(count: int) -> tuple[int, str]:
 
 
 def upsert_person_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
+    lines = raw_frontmatter.rstrip("\n").splitlines()
     filtered: list[str] = []
     i = 0
     while i < len(lines):
@@ -1387,7 +1387,7 @@ def argument_display_title_for(path: Path, meta: dict[str, Any]) -> str:
 
 
 def upsert_argument_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
+    lines = raw_frontmatter.rstrip("\n").splitlines()
     filtered: list[str] = []
     i = 0
     while i < len(lines):

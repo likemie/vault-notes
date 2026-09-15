@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Hungarian Researcher Teacher Scheme
@@ -124,9 +124,9 @@ updated: 2026-09-15
 > - **构建超越围墙的知识流动纽带** 明确赋予其超越单体学校的系统级辐射职责，使基层一线[[Emergence|涌现]]的[[Phronesis|实践智慧]]能够制度化地上升为全系统的改革方案。
 
 > [!stat-cards]- 关键实证数据
-> - **研究型教师在岗人数（2021）** 35 人（35 researcher teachers）。
-> - **名师在岗人数（2021）** 1,337 人（1,337 master teachers）。
-> - **科研规划推进周期** 5 年可续期（Five-year research programme, renewable）。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 92)]]
+> - **35** 2021 年在岗研究型教师人数（人，原文作 35 researcher teachers）。
+> - **1,337** 2021 年在岗名师人数（人，原文作 1,337 master teachers）。
+> - **5** 科研规划推进周期（年，可续期，原文作 Five-year research programme, renewable）。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 92)]]
 
 ---
 

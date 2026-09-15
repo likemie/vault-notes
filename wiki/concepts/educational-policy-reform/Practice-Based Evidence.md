@@ -77,7 +77,7 @@ related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Peterson_2016_IJRME]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
 confidence: high
 status: draft
 created: "2026-08-26"
@@ -210,8 +210,8 @@ updated: 2026-09-14
 > [!concept-lens] 信息获取生态与社会资本
 > 揭示一线教育者在真实决策情境中的证据采纳偏好，确立实践本位证据作为[[Knowledge Mobilisation|知识动员]]主力资源的现实基础。
 
-> [!claim] Cooper et al. (2017); [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]]; [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
-> **同行网络主导与实践证据优先** 实证调查表明，即使在主动推进[[Research Utilization|证据使用]]的试验项目中，教师获取实践信息的最首要渠道依然是其他一线教师（同行专业网络），对实践本位证据的接纳与使用程度显著高于原始学术研究。在学区重大教育改革与采购中，决策者同样高度看重来自同伴学校的本地试点经验与满意度反馈；实践本位证据构成了维系[[Evidence-Informed Practice|证据知情实践]]的现实社会纽带。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Ross_Morrison_2021_ROE|(Ross & Morrison, 2021, pp. 120–121)]]
+> [!claim] Cooper et al. (2017); [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]]; [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
+> **同行网络主导与实践证据优先** 实证调查表明，即使在主动推进[[Research Utilization|证据使用]]的试验项目中，教师获取实践信息的最首要渠道依然是其他一线教师（同行专业网络），对实践本位证据的接纳与使用程度显著高于原始学术研究。在学区重大教育改革与采购中，决策者同样高度看重来自同伴学校的本地试点经验与满意度反馈；实践本位证据构成了维系[[Evidence-Informed Practice|证据知情实践]]的现实社会纽带。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 120–121)]]
 
 ---
 
@@ -232,7 +232,7 @@ updated: 2026-09-14
 > |---|---|---|---|
 > | **认识论合法性** | 教学一线细粒度知识构成合法证据，打破[[Pragmatism in China\|实验主义]]垄断 | 证据标准重构、教师[[Action Research\|行动研究]] | Bryk (2015); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
 > | **形成性效能** | 关注情境变异与小步迭代，微观形成性效能超越宏观平均值 | 课堂教学调优、改进科学应用 | [[Argument_Peterson_2016_IJRME\|Peterson (2016)]]; [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] |
-> | **现实流动优势** | 教师压倒性信赖同行网络与实践证据，构成动员主渠道 | 知识动员平台建设、校本研修 | Cooper et al. (2017); [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison (2021)]] |
+> | **现实流动优势** | 教师压倒性信赖同行网络与实践证据，构成动员主渠道 | 知识动员平台建设、校本研修 | Cooper et al. (2017); [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] |
 > | **严谨性规范** | PBE 依赖方法论三角验证与跨校协作架构，防范经验偏见 | 协作探究共同体建设、[[Data Literacy\|数据素养]]培育 | LaPointe-McEwan et al. (2017); Campbell et al. (2017) |
 
 ---
@@ -246,7 +246,7 @@ updated: 2026-09-14
 > - **2016 — [[Mechanism Experiments|机制实验]]与改进科学的整合模型** [[Argument_Peterson_2016_IJRME|Peterson (2016)]] 提出将实验科学的机制实验与 Bryk 改进科学的 PBE 深度结合，构建双向互补的“什么有效 2.0”框架。
 > - **2017 — [[Evidence-Informed Practice|EIP]] 特刊确立 PBE 的核心中介地位** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 在特刊导言中将 PBE 置于“谁的证据算数”争论中心，揭示一线实践对 PBE 的极高信赖度。
 > - **2018 — [[Critical Realism|批判实在论]]对平均[[Effect Size|效应量]]的解构** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 批判 [[Education Endowment Foundation|EEF]] 工具包的去情境化效应量排行，倡导依托 NICs 与实践本位证据展开情境化民主探究。
-> - **2021 — [[Local Knowledge in Evidence-Based Policy|地方知识]]与实践证据在学区治理中的显影** [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] 通过巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目实证，证明地方知识与实践证据在复杂改革决策中超越抽象学术研究的主导功能。
+> - **2021 — [[Local Knowledge in Evidence-Based Policy|地方知识]]与实践证据在学区治理中的显影** [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] 通过巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目实证，证明地方知识与实践证据在复杂改革决策中超越抽象学术研究的主导功能。
 
 ---
 
@@ -280,7 +280,7 @@ updated: 2026-09-14
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻行为 | 调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道与偏好 | 教师压倒性地从其他一线教师获取信息，实践[[Research Utilization\|证据使用]]远超原始学术研究 | — | 证实一线同行网络在证据流动中的决定性地位 |
 > | 同上 转述 LaPointe-McEwan et al. | 协作探究网络中的教师证据使用 | [[Mixed Methods Research\|混合方法]]实证研究 | 各类证据来源的接纳与使用频率 | 实践来源证据的使用频率与信赖度显著高于原始学术研究 | — | 证实即使在主动推进证据使用的试验项目中，实践证据依然居主导 |
 > | 同上 转述 CUREE (2011) | 英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]] 教师专业发展[[Systematic Review\|系统综述]] | [[Systematic Review\|系统综述]] | 实践者深度参与研究的常态化程度 | 实践者参与研究日益普及并具潜在益处，但实现常态化依然进展缓慢 | — | 提示 PBE 的广泛应用需要制度化的文化保障 |
-> | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison, 2021, pp. 120–121]] | 学校教育产品与改革方案的决策者 | [[Questionnaire\|问卷调查]]与案例分析 | 决策信息渠道的信赖与采纳偏好 | 显著偏好同伴推荐与本地试点经验，而非纯粹学术研究证据 | — | 证实实践本位证据在重大教育采购决策中的支配性影响 |
+> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 120–121]] | 学校教育产品与改革方案的决策者 | [[Questionnaire\|问卷调查]]与案例分析 | 决策信息渠道的信赖与采纳偏好 | 显著偏好同伴推荐与本地试点经验，而非纯粹学术研究证据 | — | 证实实践本位证据在重大教育采购决策中的支配性影响 |
 > | [[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]] 引述 Bryk et al. (2015) | 美国[[Snowball Sampling\|网络化]]改进共同体（NICs）发展性数学项目 | 系统性干预与持续改进追踪 | 教师跨情境学习与学生数学通过率 | 依靠微观实践数据小步迭代显著提升了社区学院数学改革成功率 | — | 验证 PBE 驱动的形成性改进模型在解决复杂教育问题中的效能 |
 
 ---
@@ -291,4 +291,4 @@ updated: 2026-09-14
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 在“谁的证据算数”讨论中确立 PBE 的合法地位，实证揭示教师获取信息对实践证据与同行网络的压倒性信赖。
 > - [[Argument_Peterson_2016_IJRME|Peterson (2016)]] — 探讨[[Mechanism Experiments|机制实验]]与 Bryk [[Improvement Science|改进科学]]的系统整合，构建连接实验室因果机制与现场 PBE 的双向反馈模型。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 批判 [[Education Endowment Foundation|EEF]] 工具包去情境化[[Effect Size|效应量]]排行，倡导依托网络化共同体沉淀实践本位证据。
-> - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow|STAT]] 改革案例，证实实践本位证据与[[Local Knowledge in Evidence-Based Policy|地方知识]]在学区采购决策中超越抽象研究的主导作用。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow|STAT]] 改革案例，证实实践本位证据与[[Local Knowledge in Evidence-Based Policy|地方知识]]在学区采购决策中超越抽象研究的主导作用。

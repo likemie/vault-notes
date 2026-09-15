@@ -49,7 +49,7 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Abrami_2015_RER]]"
@@ -68,7 +68,7 @@ updated: 2026-08-25
 > [!def] 方法定义
 > 固定效应模型（Fixed-Effect Model）与随机效应模型（Random-Effects Model）是[[Meta-analysis|元分析]]中用于加权合成初级研究[[Effect Size|效应量]]的两种根本性统计建模[[Paradigm|范式]]。它们的核心分歧在于**对跨研究效应量变异来源的方法论[[Hypothesis|假设]]**
 > - **固定效应模型** 假定所有纳入研究共享同一个恒定不变的真实效应量 $\theta$，观察到的研究间差异纯粹源于初级研究内部的随机[[Sampling Error|抽样误差]]（Sampling Error）；
-> - **随机效应模型** 假定各初级研究的真实效应量本身存在实质性[[Heterogeneity|异质性]]，属于广义总体效应分布的一个[[Random Sampling|随机抽样]]样本，因而模型同时分解“研究内抽样方差”（Within-study variance）与“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
+> - **随机效应模型** 假定各初级研究的真实效应量本身存在实质性[[Heterogeneity|异质性]]，属于广义总体效应分布的一个[[Random Sampling|随机抽样]]样本，因而模型同时分解“研究内抽样方差”（Within-study variance）与“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 纳入元分析的 $k$ 项独立初级研究的效应量点估计值及其抽样方差。
@@ -164,7 +164,7 @@ flowchart TD
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 系统阐述固定与随机效应模型在教育与医学证据综合中的方法论差异与演进历史。
+> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述固定与随机效应模型在教育与医学证据综合中的方法论差异与演进历史。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从固定效应数学等价性推导[[Meta-meta-analysis|二阶元分析]]六项方法论前提，批判 Hattie 违背独立性假定。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 在 341 项[[Critical Thinking|批判性思维]][[Intervention Research|干预研究]]中全面采用随机效应模型与混合效应[[Meta-regression|元回归]]。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍[[Meta-analysis|元分析]]加权模型与[[Heterogeneity|异质性]]控制准则。

@@ -3715,6 +3715,17 @@
     ]
   },
   {
+    "title": "Engineered Evidence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Engineered Evidence.md",
+    "aliases": [
+      "工程化证据",
+      "证据工程化",
+      "engineering evidence for use",
+      "engineered evidence-use"
+    ]
+  },
+  {
     "title": "Evaluation Research",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evaluation Research.md",
@@ -3985,6 +3996,16 @@
     ]
   },
   {
+    "title": "Months of Progress",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Months of Progress.md",
+    "aliases": [
+      "月度进步指标",
+      "月度学业进展",
+      "额外月度进步"
+    ]
+  },
+  {
     "title": "Moral Sidestep",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Moral Sidestep.md",
@@ -4239,6 +4260,17 @@
     ]
   },
   {
+    "title": "Research-Engaged School",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Research-Engaged School.md",
+    "aliases": [
+      "研究参与学校",
+      "研究卷入学校",
+      "科研参与学校",
+      "Research-Engaged Schools"
+    ]
+  },
+  {
     "title": "Research-Informed Teaching Practice",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Research-Informed Teaching Practice.md",
@@ -4351,6 +4383,16 @@
     "path": "wiki/concepts/educational-policy-reform/Selective Education.md",
     "aliases": [
       "选拔性教育"
+    ]
+  },
+  {
+    "title": "Self-Improving School System",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Self-Improving School System.md",
+    "aliases": [
+      "自我改进学校系统",
+      "自改进学校系统",
+      "学校系统自我改进"
     ]
   },
   {
@@ -9408,6 +9450,16 @@
       "零和博弈式竞争",
       "mutually exclusive competition",
       "排他性竞争"
+    ]
+  },
+  {
+    "title": "Activity Traps",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Activity Traps.md",
+    "aliases": [
+      "活动陷阱",
+      "活动性陷阱",
+      "Activity Trap"
     ]
   },
   {
@@ -15532,6 +15584,19 @@
     ]
   },
   {
+    "title": "Gorard's Trustworthiness Sieve",
+    "type": "instrument",
+    "path": "wiki/instruments/checklists/Gorard's Trustworthiness Sieve.md",
+    "aliases": [
+      "戈拉德研究可信度筛子",
+      "戈拉德证据筛",
+      "戈拉德可信度筛子",
+      "Gorard's Sieve",
+      "Gorard Trustworthiness Sieve",
+      "research trustworthiness sieve"
+    ]
+  },
+  {
     "title": "Kmet Quality Assessment Checklist",
     "type": "instrument",
     "path": "wiki/instruments/checklists/Kmet Quality Assessment Checklist.md",
@@ -15702,6 +15767,16 @@
       "全美学生投入调查",
       "美国大学生学习投入调查",
       "National Survey of Student Engagement (NSSE)"
+    ]
+  },
+  {
+    "title": "Research Learning Communities Baseline Survey Questionnaire",
+    "type": "instrument",
+    "path": "wiki/instruments/questionnaires/Research Learning Communities Baseline Survey Questionnaire.md",
+    "aliases": [
+      "RLC Baseline Survey Questionnaire",
+      "研究学习共同体项目基线调查问卷",
+      "研究学习共同体基线问卷"
     ]
   },
   {
@@ -17897,6 +17972,16 @@
     "aliases": [
       "Ball, S.",
       "斯蒂芬·鲍尔"
+    ]
+  },
+  {
+    "title": "Stephen Gorard",
+    "type": "person",
+    "path": "wiki/persons/uk/Stephen Gorard.md",
+    "aliases": [
+      "斯蒂芬·戈拉德",
+      "Gorard, S.",
+      "S. Gorard"
     ]
   },
   {
@@ -21071,6 +21156,17 @@
     ]
   },
   {
+    "title": "Data Team Intervention",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/Data Team Intervention.md",
+    "aliases": [
+      "数据团队干预模型",
+      "数据团队",
+      "Data Team",
+      "Data Team Model"
+    ]
+  },
+  {
     "title": "Doctoral Grant for Teachers",
     "type": "fact",
     "path": "wiki/facts/netherlands/Doctoral Grant for Teachers.md",
@@ -21214,7 +21310,8 @@
     "path": "wiki/facts/new-zealand/Foundation North Māori and Pasifika Education Initiative.md",
     "aliases": [
       "北方基金会毛利与太平洋岛民教育计划",
-      "MPEI"
+      "MPEI",
+      "Foundation North"
     ]
   },
   {
@@ -21847,6 +21944,18 @@
     ]
   },
   {
+    "title": "Academy Programme in England",
+    "type": "fact",
+    "path": "wiki/facts/uk/Academy Programme in England.md",
+    "aliases": [
+      "英格兰学院计划",
+      "学院化改革",
+      "Academy Programme",
+      "Academies Programme",
+      "英格兰学院化"
+    ]
+  },
+  {
     "title": "Areas of Research Interest",
     "type": "fact",
     "path": "wiki/facts/uk/Areas of Research Interest.md",
@@ -22125,6 +22234,17 @@
     ]
   },
   {
+    "title": "The Importance of Teaching",
+    "type": "fact",
+    "path": "wiki/facts/uk/The Importance of Teaching.md",
+    "aliases": [
+      "《教学的重要性》",
+      "教学的重要性",
+      "The Importance of Teaching White Paper",
+      "Importance of Teaching White Paper"
+    ]
+  },
+  {
     "title": "The Perception Census",
     "type": "fact",
     "path": "wiki/facts/uk/The Perception Census.md",
@@ -22285,6 +22405,35 @@
     ]
   },
   {
+    "title": "Research in Schools Evaluation",
+    "type": "fact",
+    "path": "wiki/facts/uk/Research in Schools Evaluation.md",
+    "aliases": [
+      "RISE Project",
+      "英国学校研究评估项目",
+      "RISE"
+    ]
+  },
+  {
+    "title": "Research Learning Communities",
+    "type": "fact",
+    "path": "wiki/facts/uk/Research Learning Communities.md",
+    "aliases": [
+      "研究学习共同体",
+      "RLC",
+      "Research Learning Community"
+    ]
+  },
+  {
+    "title": "Researchfish",
+    "type": "fact",
+    "path": "wiki/facts/uk/Researchfish.md",
+    "aliases": [
+      "英国科研影响力追踪平台",
+      "英国科研成果与影响追踪系统"
+    ]
+  },
+  {
     "title": "Researching School Choices",
     "type": "fact",
     "path": "wiki/facts/uk/Researching School Choices.md",
@@ -22337,6 +22486,18 @@
       "教与学研究计划",
       "英国教与学研究计划",
       "教学与学习研究项目"
+    ]
+  },
+  {
+    "title": "Teaching Schools",
+    "type": "fact",
+    "path": "wiki/facts/uk/Teaching Schools.md",
+    "aliases": [
+      "教学学校",
+      "教学学校联盟",
+      "Teaching School",
+      "Teaching School Alliances",
+      "教学学校网络"
     ]
   },
   {
@@ -23412,6 +23573,17 @@
     ]
   },
   {
+    "title": "Using Data Intervention",
+    "type": "fact",
+    "path": "wiki/facts/us/Using Data Intervention.md",
+    "aliases": [
+      "Using Data",
+      "佛罗里达数据使用干预试验",
+      "佛罗里达数据使用干预",
+      "Florida Using Data Trial"
+    ]
+  },
+  {
     "title": "Argument_Bates_2017_CognitionEducationTrust",
     "type": "argument",
     "path": "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md"
@@ -24047,39 +24219,39 @@
     "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_McKnight_2020_Discourse.md"
   },
   {
-    "title": "Argument_Cheung_2021_ROE",
+    "title": "Argument_Cheung_2021_ECNUROE",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Cheung_2021_ROE.md"
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Cheung_2021_ECNUROE.md"
   },
   {
-    "title": "Argument_Dachet_2021_ROE",
+    "title": "Argument_Dachet_2021_ECNUROE",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ROE.md"
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ECNUROE.md"
   },
   {
-    "title": "Argument_Edovald_Nevill_2021_ROE",
+    "title": "Argument_Edovald_Nevill_2021_ECNUROE",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ROE.md"
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
   },
   {
-    "title": "Argument_Marginson_2025_ROE",
+    "title": "Argument_Marginson_2025_ECNUROE",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ROE.md"
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ECNUROE.md"
   },
   {
-    "title": "Argument_Pellegrini_2021_ROE",
+    "title": "Argument_Pellegrini_2021_ECNUROE",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Pellegrini_2021_ROE.md"
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Pellegrini_2021_ECNUROE.md"
   },
   {
-    "title": "Argument_Ross_Morrison_2021_ROE",
+    "title": "Argument_Ross_Morrison_2021_ECNUROE",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ROE.md"
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ECNUROE.md"
   },
   {
-    "title": "Argument_Slavin_2021_ROE",
+    "title": "Argument_Slavin_2021_ECNUROE",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ROE.md"
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ECNUROE.md"
   },
   {
     "title": "Argument_Dezhina_2022_ECO",
@@ -24372,6 +24544,11 @@
     "path": "wiki/arguments/journal-articles/Język-Szkoła-Rodzina/Argument_Sarbiewska_2019_JSR.md"
   },
   {
+    "title": "Argument_Brown_Greany_2018_LPS",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
+  },
+  {
     "title": "Argument_Ryabyy_2024_Maneto",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal/Argument_Ryabyy_2024_Maneto.md"
@@ -24492,9 +24669,14 @@
     "path": "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md"
   },
   {
-    "title": "Argument_Higgins_2016_RE",
+    "title": "Argument_Gorard_2020_ROE",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md"
+    "path": "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
+  },
+  {
+    "title": "Argument_Higgins_2016_ROE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md"
   },
   {
     "title": "Argument_Abrami_2015_RER",

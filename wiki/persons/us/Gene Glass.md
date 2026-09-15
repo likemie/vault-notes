@@ -38,7 +38,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: medium
 status: draft
@@ -75,14 +75,14 @@ updated: 2026-09-15
 > [!timeline] 生平与职涯
 > - **1940 年** 出生于美国。
 > - **1976 年** 在美国教育研究协会（AERA）主席演说中首次创造 “[[Meta-analysis|元分析]]” 一词，将其定义为 “对大量个别研究的分析结果进行统计分析，以整合发现”。
-> - **1977 年** 与玛丽·李·史密斯（Mary Lee Smith）合作发表心理治疗效果的元分析，发现治疗组平均[[Effect Size|效应量]]为 0.6 个标准差（SD），直接挑战了当时 Hans Eysenck 主导的 “心理治疗无效” 学术共识。 ([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 36–37]])
+> - **1977 年** 与玛丽·李·史密斯（Mary Lee Smith）合作发表心理治疗效果的元分析，发现治疗组平均[[Effect Size|效应量]]为 0.6 个标准差（SD），直接挑战了当时 Hans Eysenck 主导的 “心理治疗无效” 学术共识。 ([[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 36–37]])
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1977 — *[[Meta-analysis]] of psychotherapy outcome studies***：与玛丽·李·史密斯合作发表，首次大规模应用元分析方法综合心理治疗效果，发现平均[[Effect Size|效应量]]为 0.6 SD。 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
+> - **1977 — *[[Meta-analysis]] of psychotherapy outcome studies***：与玛丽·李·史密斯合作发表，首次大规模应用元分析方法综合心理治疗效果，发现平均[[Effect Size|效应量]]为 0.6 SD。 ([[Argument_Higgins_2016_ROE|Higgins, 2016, p. 37]])
 > - **2000 — *Meta-analysis at 25***：元分析方法诞生 25 年后的回顾与反思，强调其在探索变异性上的原始科学价值。
 
 ---
@@ -93,12 +93,12 @@ updated: 2026-09-15
 > [[Meta-analysis|元分析]]的本质是通过将[[Effect Size|效应量]]标准化为通用度量，在变异中寻找规律。其研究宗旨不仅在于跨越不同测量工具、样本背景和干预强度的限制来科学合并独立研究，更在于完整呈现效果的分布状况（即展示变异性的图表），通过探索苹果与橙子的差异来实现真正的科学推论。元分析的目的绝不应是追求单一的平均效应量，将其简化为 “追求均值的数字排行” 违背了方法论的初衷。
 
 > [!citation-card]- 混合苹果与橙子的科学辩护
-> 当然它混合了苹果和橙子；在研究水果时没有别的合理做法；比较苹果和橙子才是配得上真正科学家的事业；比较苹果和苹果是微不足道的。 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
+> 当然它混合了苹果和橙子；在研究水果时没有别的合理做法；比较苹果和橙子才是配得上真正科学家的事业；比较苹果和苹果是微不足道的。 ([[Argument_Higgins_2016_ROE|Higgins, 2016, p. 37]])
 >
 > Of course it mixes apples and oranges; in the study of fruit nothing else is sensible; comparing apples and oranges is the only endeavor worthy of true scientists; comparing apples to apples is trivial.
 
 > [!citation-card]- 元分析结果的图表化警示
-> 元分析的结果永远不应该是平均值；它应该是一张图表。 —— 罗宾逊（Robinson, 2004, p. 29）引自 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])
+> 元分析的结果永远不应该是平均值；它应该是一张图表。 —— 罗宾逊（Robinson, 2004, p. 29）引自 ([[Argument_Higgins_2016_ROE|Higgins, 2016, p. 37]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])
 >
 > The result of a meta-analysis should never be an average; it should be a graph.
 
@@ -112,7 +112,7 @@ updated: 2026-09-15
 > - **政策路径** 深刻影响了后来的[[Evidence-Based Education|循证教育]]运动，成为[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Meta-meta-analysis|元-元分析]]以及 [[Education Endowment Foundation|EEF]] [[EEF Teaching and Learning Toolkit|教学与学习工具包]]等政策决策参考工具的底层技术基础。
 
 > [!evidence-grid-a]- 相关研究
-> - [[Argument_Higgins_2016_RE|Higgins, 2016]] — 追溯元分析的起源，阐述格拉斯如何开创心理治疗效果的元分析并确立效应量尺度。
+> - [[Argument_Higgins_2016_ROE|Higgins, 2016]] — 追溯元分析的起源，阐述格拉斯如何开创心理治疗效果的元分析并确立效应量尺度。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 引用格拉斯关于 “元分析结果应是图表而非均值” 的警告，批判证据本位教育对[[Heterogeneity|异质性]]研究的强制平均和情境剥离。
 
 ---

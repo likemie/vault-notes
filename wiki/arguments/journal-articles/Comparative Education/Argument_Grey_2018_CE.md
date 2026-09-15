@@ -49,6 +49,7 @@ related_methods:
   - "[[Accounts]]"
 related_instruments: []
 related_persons:
+  - "[[Michael Gove]]"
   - "[[Andreas Schleicher]]"
 related_facts:
   - "[[OECD]]"
@@ -71,7 +72,7 @@ title: "Argument_Grey_2018_CE"
 argument_key: "Argument_Grey_2018_CE"
 argument_display_title: "PISA: multiple ‘truths’ and mediatised global governance"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -88,7 +89,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 过去三十年中，[[International Large-Scale Assessments|国际大规模学生评估]]（International Large-Scale Assessments, ILSAs）对各国国内教育政策制定产生了深远影响，尤其是由[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）主持的[[PISA|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）常被学界描述为催生全球教育治理机制与推动各国政策趋向标准化新自由主义模式的核心驱动力。既往[[Document|文献]]广泛探讨了 PISA 对宏观政策文本的冲击，却极少深入探究评估数据在主权国家内部究竟如何通过关键行动者向公众呈现与[[Transfer Translation Transformation|转译]]。本文以英格兰应对 2012 年 PISA 结果（2013 年 12 月发布）为个案，系统探究三大关键行动者——[[OECD]] 官方机构、本土政治行动者（以时任教育大臣 Michael Gove 为代表）以及大众新闻媒体（严肃大报、通俗小报、商业期刊与广播电视）——如何分别阐释同一批数据，重点剖析媒体自身的生产逻辑如何深度介入政策议程，催生出一种框定公共辩论维度的[[Mediatised Governance|媒介化治理]]。（pp. 109–111）
+> 过去三十年中，[[International Large-Scale Assessments|国际大规模学生评估]]（International Large-Scale Assessments, ILSAs）对各国国内教育政策制定产生了深远影响，尤其是由[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）主持的[[PISA|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）常被学界描述为催生全球教育治理机制与推动各国政策趋向标准化新自由主义模式的核心驱动力。既往[[Document|文献]]广泛探讨了 PISA 对宏观政策文本的冲击，却极少深入探究评估数据在主权国家内部究竟如何通过关键行动者向公众呈现与[[Transfer Translation Transformation|转译]]。本文以英格兰应对 2012 年 PISA 结果（2013 年 12 月发布）为个案，系统探究三大关键行动者——[[OECD]] 官方机构、本土政治行动者（以时任教育大臣 [[Michael Gove]] 为代表）以及大众新闻媒体（严肃大报、通俗小报、商业期刊与广播电视）——如何分别阐释同一批数据，重点剖析媒体自身的生产逻辑如何深度介入政策议程，催生出一种框定公共辩论维度的[[Mediatised Governance|媒介化治理]]。（pp. 109–111）
 
 > [!claim] 核心主张
 > PISA 数据的发布在主权国家内部展现出深刻的[[Rashomon Effect|罗生门效应]]，实证数据沦为具有极高可塑性的话语资源；英格兰政客通过系统性的遗漏话语与负面危机修辞制造出教育全面停滞与衰退的虚假神话，以此为其既定的私有化与严苛问责改革正名；大众媒体则依循追求冲突、归责与耸动标题的[[Media Logic|媒介逻辑]]放大危机，同时对具体政策方案与政客对国际数据的歪曲采取[[Policy Avoidance|政策规避]]，消解了第四权力的民主问责职能；最终，政治迫切性与媒介逻辑深度交织，共同促成了限制政策讨论维度的[[Mediatised Governance|媒介化治理]]（mediatised governance），表明全球教育治理并非表现为超国家机构自上而下的政策趋同，而是被本土媒介生态与国内政治诉求深度重塑。（pp. 110–112, 125–127）
@@ -218,7 +219,7 @@ issuing_organization: ""
 ### 论证步骤二　执政精英动用媒介资本虚构停滞危机，借助遗漏话语将国际评估篡改为激进私有化政策的背书工具
 
 > [!claim] 步骤二核心主张
-> 时任英国教育大臣 Michael Gove 在议会官方陈述中动用其媒介资本，通过遗漏话语与夸大危机的负面修辞制造出英格兰教育停滞与衰退的假象，并将 OECD 报告中完全不支持甚至反对的新自由主义激进政策包装为解决该危机的五大支柱。（pp. 116–120）
+> 时任英国教育大臣 [[Michael Gove]] 在议会官方陈述中动用其媒介资本，通过遗漏话语与夸大危机的负面修辞制造出英格兰教育停滞与衰退的假象，并将 OECD 报告中完全不支持甚至反对的新自由主义激进政策包装为解决该危机的五大支柱。（pp. 116–120）
 
 #### 1. 危机修辞的虚构与全球竞争焦虑的政治动员
 
@@ -326,7 +327,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心研究发现
 > 1. **国际评估数据的[[Rashomon Effect|罗生门效应]]** 英格兰 [[PISA]] 2012 数据的发布与解读展现出深刻的主观真实建构分歧：客观数据显示英格兰[[Academic Achievement|学业成绩]]自 2006 年起平稳无降，但在政客与媒体的修辞再造下，被一致物化为一场前所未有的国家教育衰退危机。（pp. 114–116, 125）
-> 2. **政治精英系统性的遗漏话语** 英国教育大臣 Michael Gove 在议会声明中策略性过滤掉了 [[OECD]] 关于分轨分流破坏公平、[[Rote Learning|死记硬背]]属于旧官僚系统、[[Performance Pay|绩效工资]]无效的核心结论，借 PISA 强行推销背道而驰的改革五大支柱。（pp. 117–120）
+> 2. **政治精英系统性的遗漏话语** 英国教育大臣 [[Michael Gove]] 在议会声明中策略性过滤掉了 [[OECD]] 关于分轨分流破坏公平、[[Rote Learning|死记硬背]]属于旧官僚系统、[[Performance Pay|绩效工资]]无效的核心结论，借 PISA 强行推销背道而驰的改革五大支柱。（pp. 117–120）
 > 3. **大众媒体的[[Policy Avoidance|政策规避]]与第四权力退化** 英国各派媒体受自身[[Media Logic|媒介逻辑]]支配，全盘接受并极化危机叙事，但在对待政府具体政策方案时采取集体性的[[Policy Avoidance|政策规避]]，未对其证据基础进行任何批判审视，消解了民主监督职能。（pp. 121–125）
 > 4. **提出批判性的[[Mediatised Governance|媒介化治理]]分析视角** 研究[[Falsification|证伪]]了超国家组织能够直接通过跨国评估强制推行政策同质化收敛的简单[[Hypothesis|假设]]，论证了在媒体高度自主的民主国家中，本土政治修辞与媒介逻辑的共谋构成了媒介化治理，为批判教育政策如何逃避民主问责提供了关键分析工具。（pp. 125–127）
 

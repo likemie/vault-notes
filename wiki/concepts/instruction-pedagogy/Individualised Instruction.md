@@ -31,7 +31,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
 confidence: low
 status: draft
 created: "2026-05-05"
@@ -79,7 +79,7 @@ updated: "2026-05-22"
 ## 实证发现
 
 > [!success] Hattie 的[[Meta-meta-analysis|元综合]]排名
-> Hattie（1992）综合 134 项[[Meta-analysis|元分析]]后发现，个别化教学的平均[[Effect Size|效应量]]仅为 0.14，程序化教学为 0.18，是所有干预中效果最低的类别。他将此视为重要发现，因为当时学生大约三分之二的在校时间在独自学习([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
+> Hattie（1992）综合 134 项[[Meta-analysis|元分析]]后发现，个别化教学的平均[[Effect Size|效应量]]仅为 0.14，程序化教学为 0.18，是所有干预中效果最低的类别。他将此视为重要发现，因为当时学生大约三分之二的在校时间在独自学习([[Argument_Higgins_2016_ROE|Higgins, 2016, p.42]])。
 
 > [!success] 丹麦与瑞典的证据
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]]整理的丹麦证据没有显示教学差异化能稳定显著提升学习，这与 Hattie 对个别化教学效果较小的判断方向接近([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.38]])

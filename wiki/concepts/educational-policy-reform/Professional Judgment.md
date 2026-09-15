@@ -62,7 +62,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
@@ -85,7 +85,7 @@ updated: 2026-09-14
 > [!concept-lens] 概念透镜
 > - **含义** 专业判断指向教育者在不确定性、复杂互动与价值多元情境下的[[Reflexivity|反思性]]决策机制，是连接外部科学规律与特定教学现场的解释性桥梁。
 > - **用途** 防范将教学扁平化为机械套用证据或单纯执行数据指标的技术工人操作，捍卫教师的专业自主能动性与价值审议权。
-> - **边界** 区别于对外部证据的技术性依从，也区别于孤立凭经验直觉主观行事；它要求将内生经验与外部科学证据、伦理规范进行理性整合。[[Argument_Ross_Morrison_2021_ROE|(Ross & Morrison, 2021, p. 123)]]
+> - **边界** 区别于对外部证据的技术性依从，也区别于孤立凭经验直觉主观行事；它要求将内生经验与外部科学证据、伦理规范进行理性整合。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 123)]]
 
 > [!citation-card]- 关键表述：严谨证据与严谨判断并存
 > "成为证据知情的过程，既需要严谨的证据，也需要严谨的专业判断过程。"（Campbell, 2016，引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 132]]）
@@ -138,7 +138,7 @@ updated: 2026-09-14
 
 > [!exegesis]- 实践理解与应用示例
 > 1. **课堂[[Teaching Assistant|教学助理]]（TA）配置决策** 面对外部工具包中教学助理低[[Effect Size|效应量]]的粗糙评级，具有专业判断力的学校管理者深入分析其低效源于缺乏备课沟通与协同规划，进而通过重组 TA 培训与备课时间表，将 TA 转化为提升弱势学生学业与心理支持的关键支柱。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
-> 2. **复杂改革评估结果的多样化解读** 在巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 数字化教学改革中，面对复杂的[[Formative Assessment|形成性评估]]报告，校董、校长与一线教师运用专业判断，从各自关注的战略推进、预算可持续性与课堂教学负担等不同价值维度展开[[Dialogue in Education|对话]]，避免了单一量化指标对复杂改革的武断扼杀。[[Argument_Ross_Morrison_2021_ROE|(Ross & Morrison, 2021, pp. 122–123)]]
+> 2. **复杂改革评估结果的多样化解读** 在巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 数字化教学改革中，面对复杂的[[Formative Assessment|形成性评估]]报告，校董、校长与一线教师运用专业判断，从各自关注的战略推进、预算可持续性与课堂教学负担等不同价值维度展开[[Dialogue in Education|对话]]，避免了单一量化指标对复杂改革的武断扼杀。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 122–123)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -211,7 +211,7 @@ updated: 2026-09-14
 > [!concept-lens] 判断条件与制度支撑
 > 阐明专业判断的有效性并非来自个人封闭经验，而依赖于[[Bounded Rationality|有限理性]]下的信息反馈与协作探究生态。
 
-> [!claim] [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]; [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]]
+> [!claim] [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]; [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]]
 > **有限理性、反馈循环与跨层治理** 教师在不确定性和信息赤字条件下开展工作，专业判断依赖持续的反馈（[[Feedback]]）与反思实践循环以克服[[Bounded Rationality|有限理性]]局限。专业判断的健康运作依赖组织支持性环境，包括信任文化、技能培训、协作探究时间与跨界中介支持；在跨层治理与专业共同体中，专业判断能够避免退化为浪漫化的个人偏见，实现向高质量证据整合的跃升。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 5–6)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 12–15)]]
 
 ---
@@ -237,7 +237,7 @@ updated: 2026-09-14
 > - **2015 — 翻转系统与草根赋权** Evers & Kneyber 编著出版《Flip the System》，倡导由教师专业判断引领变革、抗衡自上而下的外部问责。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 127)]]
 > - **2017 — [[Evidence-Informed Practice|EIP]] 四源整合的核心枢纽** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 将专业判断确立为 EIP 四源整合的核心枢纽，提出严谨证据与严谨判断并存的原则。
 > - **2018 — [[Critical Realism|批判实在论]]解构与概率性资源** Wrigley 在 BERJ 发表论文，将证据界定为开放系统中的概率性资源，深刻批判[[Governing by Numbers|数字治理]]对专业判断的侵蚀。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
-> - **2021 — 复杂改革评价的多维解读** [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] 结合巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证专业判断在解读复杂评估报告与权衡地方价值中的不可替代作用。
+> - **2021 — 复杂改革评价的多维解读** [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] 结合巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证专业判断在解读复杂评估报告与权衡地方价值中的不可替代作用。
 > - **2022 — 循证医学危机镜像与反算法去技能化** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 引入循证医学（EBM）发展后期的危机教训（Greenhalgh et al., 2014），警示自动化算法与离散任务拆解对教师专业判断的剥夺，确立教学作为知识型专业的不可替代性。
 > - **2026 — 专业能动性与多维整合范式** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] [[Systematic Review|系统综述]]指出，学校[[Research Utilization|研究使用]]正由被动的线性实施转向以[[Teacher Professional Agency|教师专业能动性]]为核心的整合。
 
@@ -251,7 +251,7 @@ updated: 2026-09-14
 > > Qvortrup 试图将专业判断作为缺失环节融入 Hattie 的 [[Visible Learning|VL]] 体系进行辩护；批判学者指出，VL 的商业化认证与培训极其强调指标合规性，在实际操作中反而压缩了教师的[[Reflexivity|反思性]]判断空间。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–5)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
 >
 > > [!axis] 专业判断与[[Empiricism|经验主义]]的滑坡风险
-> > 强循证学者担忧，若过度拔高专业判断而缺乏严谨证据和方法论约束，判断极易沦为捍卫落后教学习惯的主观遮羞布；因此必须维持严谨证据与严谨判断的动态张力。[[Argument_Ross_Morrison_2021_ROE|(Ross & Morrison, 2021, p. 123)]]; [[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+> > 强循证学者担忧，若过度拔高专业判断而缺乏严谨证据和方法论约束，判断极易沦为捍卫落后教学习惯的主观遮羞布；因此必须维持严谨证据与严谨判断的动态张力。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 123)]]; [[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 >
 > > [!axis] 算法驱动标准化处方 vs 现场临床专业审议
 > > 探讨在教育科技与算法管理兴起背景下，算法推荐能否替代教师在真实教学互动中的专业判断。
@@ -278,7 +278,7 @@ updated: 2026-09-14
 > |---|---|---|---|---|---|---|
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 132)]] | 特刊 7 篇论文及更广国际 [[Evidence-Informed Practice\|EIP]] [[Document\|文献]]库 | 特刊导言概念与实证综合 | 教育者最常使用的证据来源 | 实践者最常依赖的证据来自专业经验与同事交流，而非原始研究 | — | 确立专业经验在决策审议中的现实基础 |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻 | 大规模调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道 | 教师主要从其他一线教师（同行专业网络）获取评估信息 | — | 证实专业人际网络主导着微观证据流向 |
-> | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison, 2021, pp. 122–123]] | 美国巴尔的摩县 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革 | 形成性项目评估[[Case Study\|案例研究]] | 不同决策主体对同一份评估报告的解读与态度 | 校董、校长与教师基于各自专业判断给出了截然不同的政策解读 | — | 证明专业判断在复杂数据解释中的持续主导性 |
+> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 122–123]] | 美国巴尔的摩县 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革 | 形成性项目评估[[Case Study\|案例研究]] | 不同决策主体对同一份评估报告的解读与态度 | 校董、校长与教师基于各自专业判断给出了截然不同的政策解读 | — | 证明专业判断在复杂数据解释中的持续主导性 |
 > | [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 12]] | 英国中小学面临预算缩减情境 | 实证案例与政策文本分析 | [[Education Endowment Foundation\|EEF]] 工具包效应量排行的决策应用 | 部分学校盲信工具包低效应量排行误裁[[Teaching Assistant\|教学助理]]（TA） | — | 证实抹杀专业判断的技术官僚决策会产生破坏性后果 |
 > | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 65–66)]] | [[International Education\|国际教育]]中介演进与循证医学危机交叉考察 | 历史制度主义与理论批判综合 | 商业化证据洗白与技术官僚对专业判断的侵蚀 | 揭示将指南与算法绝对化会导致临床专业判断退化，教学作为知识型专业需抵御去技能化 | — | 提示防范教育证据中介滑向算法技术官僚主义 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校[[Research Utilization\|研究使用]]实证文献 | [[Systematic Review\|系统综述]]＋[[Framework Synthesis\|框架综合]] | 教师研究使用中的能动性与整合形态 | 象征性与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]居多，[[Reflexivity\|反思性]]深度整合相对罕见 | — | 提示需在组织层级为专业判断提供可持续支持结构 |
@@ -293,4 +293,4 @@ updated: 2026-09-14
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 将专业判断确立为 [[Evidence-Informed Practice|EIP]] 四源整合的核心枢纽，论述严谨证据与严谨判断过程并存的原则。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 引入循证医学危机透镜，批判技术官僚算法化对教师专业判断的剥夺与去技能化风险，捍卫教学作为知识型专业的核心地位。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 结合[[Bounded Rationality|有限理性]]理论，论证专业判断是 [[Visible Learning]] 体系中的缺失环节，反馈是支持教师判断的核心工具。
-> - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow|STAT]] 项目[[Formative Assessment|形成性评估]]案例，展示专业判断在复杂评估报告解读与地方价值权衡中的主导作用。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow|STAT]] 项目[[Formative Assessment|形成性评估]]案例，展示专业判断在复杂评估报告解读与地方价值权衡中的主导作用。

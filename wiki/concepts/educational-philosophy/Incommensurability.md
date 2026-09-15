@@ -8,7 +8,7 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -56,6 +56,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"
+  - "[[Stephen Gorard]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-15
 ---
 
 # Incommensurability
@@ -174,7 +175,7 @@ updated: 2026-09-11
 > [!claim] Johnson, R. B. & Onwuegbuzie, A. J.
 > **[[Pragmatic Paradigm|实用主义]]消解范式不可通约的清教徒主义** 混合方法研究作为第三种研究范式，放弃了在形而上学本体论上纠缠抽象纯洁性；实用主义以“实践有效即为真理”为指针，强调[[Research Question|研究问题]]决定探究方法，从而以务实包容性打破了非黑即白的不可通约性教条，开辟了跨范式[[Dialogue in Education|对话]]与协同探究的第三条道路。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 195]]
 
-> [!claim] Gorard, S. & Smith, E.
+> [!claim] [[Stephen Gorard|Gorard, S.]] & Smith, E.
 > **二元划界虚妄性与[[Knowledge Production|知识生产]]解放** 将探究方法教条化地割裂为互不相容的量化与质性范式，不仅在实操中缺乏建设性，更是对知识生产潜能的严重禁锢；摆脱不可通约性的方法论教条，使得研究者能够综合运用一切相关证据资源回应复杂的教育现实议题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 195]]
 
 ---

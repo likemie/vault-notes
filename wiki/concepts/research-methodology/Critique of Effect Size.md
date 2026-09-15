@@ -71,7 +71,7 @@ related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_ONeill_2012_NZJES]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
 confidence: medium
 status: draft
 created: 2026-07-15
@@ -354,7 +354,7 @@ updated: 2026-09-15
 > **政策行动者直接从排名选取方案的风险**[[Argument_ONeill_2012_NZJES|O'Neill (2012)]]以新西兰财政部 2011 年简报为案例，揭示了政策行动者从一维效应量排名中直接挑选政策方案的实践危险——Hattie 本人的多处关键警示（相关≠因果、成功效应多来自创新、该书"不涉及课堂生活"）被完全忽略，且政策结论直接与 Hattie 本人结论矛盾（ONeill, 2012, pp.156-157）。详见 [[Treasury Briefing on Student-Teacher Ratios]]、[[Material Fallacies]]。
 
 > [!warning] 实践者决策信息不足
-> 效应量作为消费信息不完整。[[School Leadership|学校领导]]在采购项目时需要知道成本、实施要求、教师和学生使用体验、研究情境是否相似以及对照组质量如何；单独看到一个效应量或显著性结论，仍不足以判断项目是否适合本地学校（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]]）。
+> 效应量作为消费信息不完整。[[School Leadership|学校领导]]在采购项目时需要知道成本、实施要求、教师和学生使用体验、研究情境是否相似以及对照组质量如何；单独看到一个效应量或显著性结论，仍不足以判断项目是否适合本地学校（[[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.120-121]]）。
 
 ---
 

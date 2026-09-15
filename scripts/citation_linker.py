@@ -87,18 +87,26 @@ TAIL_CITATION_RE = re.compile(
 
 
 def run_git_changed() -> list[Path] | None:
-    result = subprocess.run(
-        ["git", "diff", "--name-only", "HEAD"],
+    changed = subprocess.run(
+        ["git", "-c", "core.quotePath=false", "diff", "--name-only", "--diff-filter=ACMRTUXB", "HEAD", "--", "wiki"],
         cwd=ROOT,
         text=True,
         stdout=subprocess.PIPE,
         stderr=subprocess.DEVNULL,
         check=False,
     )
-    if result.returncode != 0:
+    untracked = subprocess.run(
+        ["git", "-c", "core.quotePath=false", "ls-files", "--others", "--exclude-standard", "--", "wiki"],
+        cwd=ROOT,
+        text=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.DEVNULL,
+        check=False,
+    )
+    if changed.returncode != 0 or untracked.returncode != 0:
         return None
     paths: list[Path] = []
-    for line in result.stdout.splitlines():
+    for line in [*changed.stdout.splitlines(), *untracked.stdout.splitlines()]:
         path = ROOT / line.strip()
         if path.suffix.lower() == ".md" and WIKI_DIR in path.parents and path.exists():
             paths.append(path)
@@ -120,7 +128,7 @@ def iter_target_markdown(full: bool, paths: list[str] | None = None) -> list[Pat
     if full:
         return sorted(WIKI_DIR.rglob("*.md")) if WIKI_DIR.exists() else []
     changed = run_git_changed()
-    return sorted(set(changed)) if changed else sorted(WIKI_DIR.rglob("*.md"))
+    return sorted(set(changed)) if changed is not None else sorted(WIKI_DIR.rglob("*.md"))
 
 
 def should_skip(path: Path) -> bool:

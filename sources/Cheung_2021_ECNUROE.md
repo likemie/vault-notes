@@ -1,0 +1,19 @@
+---
+citation: "Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. ECNU Review of Education, 4(1), 3–6."
+extracted_to:
+  - "[[Argument_Cheung_2021_ECNUROE]]"
+processed_date: 2026-05-02
+---
+
+# Cheung_2021_ECNUROE
+
+![[Cheung_2021_ECNUROE.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Cheung_2021_ECNUROE.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

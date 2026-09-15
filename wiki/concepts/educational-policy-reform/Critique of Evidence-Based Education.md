@@ -93,7 +93,7 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Blass_2020_JESP]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Zhao_2017_JEC]]"
@@ -274,8 +274,8 @@ updated: 2026-09-14
 > [!claim] Blass E. (2020) — 政策评估五要素框架
 > 学术证据在政策采纳前，须接受对方法论、情境、假设、领导力和时效性五个维度的系统性交叉评估——仅凭"表面上似乎适用"而采纳学术论证可能是危险的。[[Argument_Blass_2020_JESP|Blass, 2020, p. 96]]
 
-> [!claim] [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 地方使用与利益相关者解释
-> 证据在进入学校和课堂时经历多层转译，教育产品消费者并不总能理解效应量和统计显著性等指标，也常觉得正式证据来源缺少实施要求、使用满意度、成本和情境信息。谁有权诠释证据、哪些结果值得视为"成功"，才是实践中的核心争议。[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021, pp.120–121)]]
+> [!claim] [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 地方使用与利益相关者解释
+> 证据在进入学校和课堂时经历多层转译，教育产品消费者并不总能理解效应量和统计显著性等指标，也常觉得正式证据来源缺少实施要求、使用满意度、成本和情境信息。谁有权诠释证据、哪些结果值得视为"成功"，才是实践中的核心争议。[[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021, pp.120–121)]]
 
 ---
 

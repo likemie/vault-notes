@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-16
 ---
 
 # Founding of Lester B. Pearson College
@@ -97,10 +97,10 @@ updated: 2026-09-01
 > - **强构想获得现实案例** 百分之百奖学金目标、国家纪念和稳定外国学生名额，使皮尔逊书院成为 [[United World Colleges|UWC]] 国家支持模式的首个完整案例。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 121–122)]]
 
 > [!stat-cards]- 关键资源规模
-> - **区位** 佩德湾距维多利亚约十四英里。
-> - **购地资金** 威尔斯提供近九万英镑。
-> - **首批学生** 1975 年开幕时已有一百名学生。
-> - **联邦奖学金** 每年四十名外国学生，接近每届入学人数的一半。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 119–121)]]
+> - **≈ 14** 佩德湾到维多利亚的距离（英里）。
+> - **≈ 9 万** 威尔斯（Wells）为购地提供的资金（英镑）。
+> - **100** 1975 年开幕时的首批学生数量（名）。
+> - **40** 联邦奖学金每年资助的外国学生数量（名），接近每届入学人数的一半。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 119–121)]]
 
 ---
 

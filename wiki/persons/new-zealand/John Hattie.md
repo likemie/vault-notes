@@ -97,7 +97,7 @@ related_persons:
   - "[[Jürgen Habermas]]"
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Grace_2010_NZJES]]"
@@ -162,7 +162,7 @@ updated: 2026-09-15
 
 > [!timeline] 生平与职涯
 > - **1950** 出生于新西兰提马鲁（Timaru），后获奥塔哥大学学士与教育学硕士学位，多伦多大学心理测量学与统计学博士学位。
-> - **1987** 与 Fraser、Walberg 及 Welch 合作发表 100 页专著，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]，开启教育领域最早的系统性[[Comparative Meta-synthesis|比较性元综合]]探索。[[Argument_Higgins_2016_RE|(Higgins, 2016, pp. 41–42)]]
+> - **1987** 与 Fraser、Walberg 及 Welch 合作发表 100 页专著，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]，开启教育领域最早的系统性[[Comparative Meta-synthesis|比较性元综合]]探索。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 41–42)]]
 > - **1992** 发表《测量学校教育的效果》，首次独立综合 134 项元分析并引入通用连续体概念，发现反馈效应（1.13）最强而[[Individualised Instruction|个别化教学]]（0.14）最弱。
 > - **1998** 从美国西澳大利亚大学等机构返回新西兰，出任奥克兰大学教育学教授兼教育学院院长。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 47)]]
 > - **1999–2005** 受新西兰教育部委托领导开发国家课程测试系统 asTTle（光盘版至在线版），用于[[Formative Assessment|形成性评估]]，出任项目主任；2003 年新西兰教育部长将其理念确立为国家优先议程。
@@ -180,7 +180,7 @@ updated: 2026-09-15
 
 > [!thought-timeline] 思想发展
 > - **1987–1996 — 早期心理测量与[[Meta-meta-analysis|元综合]]探索阶段** 此阶段主要回应教育研究中孤立小样本实证缺乏宏观可比性与[[Walberg's Educational Productivity Model|教育生产力模型]]实证检验的问题。
->   - **代表著作** Fraser, Walberg, Welch, & Hattie (1987) *Syntheses of educational productivity research*；Hattie (1992) *Measuring the effects of schooling*；Hattie, Biggs, & Purdie (1996) *Effects of learning skills interventions on student learning*。[[Argument_Higgins_2016_RE|(Higgins, 2016, pp. 41–42)]]
+>   - **代表著作** Fraser, Walberg, Welch, & Hattie (1987) *Syntheses of educational productivity research*；Hattie (1992) *Measuring the effects of schooling*；Hattie, Biggs, & Purdie (1996) *Effects of learning skills interventions on student learning*。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 41–42)]]
 >   - **关键概念／方法** [[Walberg's Educational Productivity Model]]、[[Meta-analysis]]、[[Effect Size]]、[[Meta-meta-analysis]]、通用连续体（Universal Continuum）。
 >   - **阶段转向** 从传统单项心理测量转向跨领域海量数据整合，引入以标准差为单位的通用连续体（平均效应量 $d=0.40$），奠定了以实证汇总打破教学直觉的方法论基石。
 > - **1998–2009 — 《[[Visible Learning|可见的学习]]》框架确立与证据排序阶段** 此阶段主要回应[[New Public Management|新公共管理]]改革下[[School Effectiveness|学校效能]]、教师问责与循证改革的证据基础问题。

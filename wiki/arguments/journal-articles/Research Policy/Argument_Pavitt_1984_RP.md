@@ -46,7 +46,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-11
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 # Argument_Pavitt_1984_RP
 
@@ -56,7 +56,7 @@ updated: 2026-09-15
 > [!question]
 > 不同产业在技术创新的来源、性质和影响上是否存在系统性的相似与差异？Pavitt (1984)基于对英国 1945 年以来约 2,000 项重大创新（significant innovations）的数据分析，试图描述和解释**产业层面的技术变迁模式（sectoral patterns of technical change）**，并在此基础上构建一个分类法和一个理论。
 
-> [!stat-cards]+ 一页读懂
+> [!feature]+ 一页读懂
 > - **对象** 英国 1945 年以来约 2,000 项重大创新
 > - **方法** 基于 SPRU 创新数据库的[[Descriptive Analysis|描述性统计分析]]
 > - **产出** 三类产业分类法——供应商主导型、生产密集型、科学基础型

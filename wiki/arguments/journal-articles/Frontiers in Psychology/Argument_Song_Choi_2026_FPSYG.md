@@ -66,7 +66,6 @@ related_theories:
   - "[[Situative Perspective]]"
   - "[[Growth Mindset]]"
 related_methods:
-  - "[[PRISMA]]"
   - "[[Effect Size]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-analysis]]"
@@ -74,6 +73,7 @@ related_methods:
   - "[[Qualitative Codebook]]"
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Statistical Significance]]"
   - "[[Between-Study Variance]]"
   - "[[Moderator Analysis]]"
@@ -81,7 +81,8 @@ related_methods:
   - "[[Funnel Plot]]"
   - "[[Experimental Research]]"
   - "[[Questionnaire]]"
-related_instruments: []
+related_instruments:
+  - "[[PRISMA]]"
 related_persons: []
 related_facts:
   - "[[Cram Schools]]"
@@ -102,7 +103,7 @@ title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -292,7 +293,7 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - **多效应量统计依赖性** 纳入的 18 项研究平均每项提供 28.4 个效应量（最少 4 个，最多达 72 个），源于同一受试样本在不同[[Epistemology|认识论]]子[[Construct|构念]]或多重学习成果指标上的重复作答；传统二层元分析强行假定独立会导致[[Standard Error|标准误]]被大幅低估，显著推高[[Type I and Type II Errors|第一类错误]]概率。
-> - **三层随机效应方差解构** 采用多层线性模型架构将总变异解构为三个独立来源：第一层为[[Sampling Error|抽样误差]]方差（Level 1 占 7.54%）；第二层为同一研究内部不同效应量之间的变异（Level 2, $	au_{(2)}^2 = 0.015$，占 35.82%）；第三层为不同研究之间的真实[[Heterogeneity|异质性]]（Level 3, $	au_{(3)}^2 = 0.024$，占 56.64%）。
+> - **三层随机效应方差解构** 采用[[Hierarchical Linear Model|多层线性模型]]架构将总变异解构为三个独立来源：第一层为[[Sampling Error|抽样误差]]方差（Level 1 占 7.54%）；第二层为同一研究内部不同效应量之间的变异（Level 2, $	au_{(2)}^2 = 0.015$，占 35.82%）；第三层为不同研究之间的真实[[Heterogeneity|异质性]]（Level 3, $	au_{(3)}^2 = 0.024$，占 56.64%）。
 > - **对数似然比检验（LRT）确证** 模型拟合对比检验显示，三层模型相比传统二层模型在统计上呈现断崖式改善（$\chi^2 = 261.06, p < 0.001$），总变异中高达 92.46% 属于真实的系统性异质性。
 
 > [!example]- 图 1：[[Document|文献]]筛选流程图（PRISMA [[Flow]] Diagram）

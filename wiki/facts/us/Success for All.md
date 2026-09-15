@@ -53,7 +53,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Cheung_2021_ROE]]"
+  - "[[Argument_Cheung_2021_ECNUROE]]"
   - "[[Argument_Slavin_2019_EP]]"
 confidence: high
 status: active
@@ -81,7 +81,7 @@ updated: 2026-09-14
 > - **第一层（[[Top Institute for Evidence-Based Education Research|TIER]] 1 · 全班教学）** 每日 90 分钟高度结构化的读写课程，融合[[Cooperative Learning|合作学习]]（Cooperative Learning）、显性自然拼读、音素意识与故事阅读理解。
 > - **第二层（Tier 2 · 小组精准辅导）** 针对在全班教学中存在跟进困难的学生，由经过专门认证的阅读[[Teaching Assistant|助教]]提供每日 20 分钟的小组定向强化。
 > - **第三层（Tier 3 · 一对一密集辅导与家庭支持）** 针对严重读写障碍学生提供专业教师 1 对 1 辅导，配套建立全校“家庭支持团队（Family Support Team）”协调出勤与社会情感资源。
-> - **准入门槛机制** 规定全校必须有 **80% 以上教师匿名投票赞同** 方可引进该模式，确保基层[[Implementation Fidelity|实施保真度]]([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p. 106]])。
+> - **准入门槛机制** 规定全校必须有 **80% 以上教师匿名投票赞同** 方可引进该模式，确保基层[[Implementation Fidelity|实施保真度]]([[Argument_Cheung_2021_ECNUROE|Cheung & Xie, 2021, p. 106]])。
 
 ---
 
@@ -117,9 +117,9 @@ updated: 2026-09-14
 ## 实证数据与效应量表现
 
 > [!stat-cards]- 核心实证与规模数据快照
-> - **全美覆盖规模** 在 48 个州超过 1,500 所学校实施，是全美投入研发与实证评估经费最庞大的全校改革方案之一。
-> - **Borman et al. (2007) 全国多中心集群 [[Randomised Controlled Trials|RCT]]** 涵盖 35 所学校的多年期随机试验，阅读总分[[Effect Size|效应量]]达 **$+0.25$ 至 $+0.33\text{ SD}$**。
-> - **[[Best Evidence Encyclopedia|BEE]] [[Meta-analysis|元分析]]加权平均效应量** 基于 23 项高质量实证研究方差倒数加权合成，基础方案效应量达 **$ES = +0.29\text{ SD}$**（$p < 0.001$），稳居 ESSA [[Top Institute for Evidence-Based Education Research|TIER]] 1 强证据前列([[Argument_Slavin_2019_EP|Slavin, 2019, p. 178]])。
+> - **48 / 1,500+** 实施该方案的州数（个）与学校数（所），是全美投入研发与实证评估经费最庞大的全校改革方案之一。
+> - **$+0.25$ 至 $+0.33\text{ SD}$** Borman et al. (2007) 全国多中心集群 [[Randomised Controlled Trials|RCT]] 涵盖 35 所学校的多年期随机试验的阅读总分[[Effect Size|效应量]]。
+> - **$ES = +0.29\text{ SD}$**（$p < 0.001$） [[Best Evidence Encyclopedia|BEE]] [[Meta-analysis|元分析]]加权平均效应量，基于 23 项高质量实证研究方差倒数加权合成的基础方案效应量，稳居 ESSA [[Top Institute for Evidence-Based Education Research|TIER]] 1 强证据前列([[Argument_Slavin_2019_EP|Slavin, 2019, p. 178]])。
 
 ---
 
@@ -130,7 +130,7 @@ updated: 2026-09-14
 > > [!axis] 全组件实施保真度 vs 真实学校落地难度
 > > 争论 SFA 复杂的三层干预架构在常态学校中能否被忠实复制。
 > >
-> > - **研究证据表明** SFA [[Effect Size|效应量]]高度依赖于全组件实施保真度（Implementation Fidelity）——包括教师培训到位率、每日 90 分钟刚性课时与小组辅导排期，若缺乏持续外部督导，效应量衰减显著([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p. 106]])。
+> > - **研究证据表明** SFA [[Effect Size|效应量]]高度依赖于全组件实施保真度（Implementation Fidelity）——包括教师培训到位率、每日 90 分钟刚性课时与小组辅导排期，若缺乏持续外部督导，效应量衰减显著([[Argument_Cheung_2021_ECNUROE|Cheung & Xie, 2021, p. 106]])。
 >
 > > [!axis] 研发者身份与评价独立性争鸣
 > > 争论 [[Robert Slavin]] 既是 SFA 的开发者又是 [[Best Evidence Encyclopedia|BEE]] 评级负责人的双重角色问题([[Argument_Slavin_2019_EP|Slavin, 2019, p. 175]])。

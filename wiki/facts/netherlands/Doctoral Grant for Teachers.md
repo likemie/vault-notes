@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Doctoral Grant for Teachers
@@ -120,9 +120,9 @@ updated: 2026-09-14
 > - **弥合理论与教学现场鸿沟** 产出研究天然具备高度[[Ecological Validity|生态效度]]，有力避免了高校象牙塔研究脱离教学现场真实情境的弊端。
 
 > [!stat-cards]- 关键实证数据
-> - **累计资助项目数** 近 500 项（Almost 500 projects）。
-> - **带薪科研工时保障** 最高达 0.4 FTE（全职当量 40%）。
-> - **最长资助周期** 5 年（Maximum of five years）。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 90)]]
+> - **≈ 500** 累计资助项目数量（项，原文作 Almost 500 projects）。
+> - **0.4** 带薪科研工时保障的最高值（FTE，全职当量的 40%）。
+> - **5** 最长资助周期（年，原文作 Maximum of five years）。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, p. 90)]]
 
 ---
 

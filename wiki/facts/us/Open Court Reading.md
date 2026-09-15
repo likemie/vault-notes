@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-13
+updated: 2026-09-16
 ---
 
 # Open Court Reading
@@ -109,9 +109,10 @@ updated: 2026-09-13
 ## 实证数据与效应量表现
 
 > [!stat-cards]- 核心实证研究数据快照
-> - **Borman et al. (2008)** 大型多中心集群 [[Randomised Controlled Trials|RCT]]，涵盖多个学区与数十所小学，各清算中心估计的净[[Effect Size|效应量]]在 **$+0.10$ 至 $+0.19\text{ SD}$** 之间（被 [[Best Evidence Encyclopedia|BEE]] 定性为“适度效应”）。
-> - **Skindrud & Gersten (2006)** 准实验匹配研究（[[Quasi-Experimental Designs|QED]]），样本集中于特定加州薄弱学区，展示早期阅读成绩提升但存在集群校正与[[Attrition|差异流失]]争议。
-> - **BEE [[Meta-analysis|元分析]]加权平均效应量** 基于多项合格研究方差倒数加权合成结果为 **$ES = +0.13\text{ SD}$**（$p < 0.05$），达到 BEE 中等[[Evidence Standards|证据标准]]。
+> - **$+0.10$ 至 $+0.19\text{ SD}$** Borman et al. (2008) 大型多中心集群 [[Randomised Controlled Trials|RCT]]（涵盖多个学区与数十所小学）各清算中心估计的净[[Effect Size|效应量]]区间，被 [[Best Evidence Encyclopedia|BEE]] 定性为“适度效应”。
+
+Skindrud & Gersten (2006) 的准实验匹配研究（[[Quasi-Experimental Designs|QED]]）样本集中于特定加州薄弱学区，展示早期阅读成绩提升但存在集群校正与[[Attrition|差异流失]]争议。
+> - **$ES = +0.13\text{ SD}$**（$p < 0.05$） BEE [[Meta-analysis|元分析]]加权平均效应量，基于多项合格研究方差倒数加权合成，达到 BEE 中等[[Evidence Standards|证据标准]]。
 
 ---
 

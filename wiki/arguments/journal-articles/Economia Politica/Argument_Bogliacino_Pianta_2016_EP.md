@@ -57,7 +57,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 # Argument_Bogliacino_Pianta_2016_EP
 
@@ -67,7 +67,7 @@ updated: 2026-09-15
 > [!question]
 > 企业和产业在创新行为和经济表现上的[[Heterogeneity|异质性]]极高且持久——同一三位数行业内企业的生产率差异可达 2-9 倍。主流经济学的"代表性企业"方法无法处理这种异质性。[[Argument_Pavitt_1984_RP|Pavitt (1984)]]提出的分类法是整合多样性和识别共性的关键工具，但它仅覆盖制造业且基于 1980 年代的英国数据。随着服务业在经济中占比持续上升、ICT 技术深刻改变创新方式以及欧盟行业分类从 NACE Rev. 1 转向 Rev. 2，[[Pavitt Taxonomy|Pavitt 分类法]]是否仍然有效？能否扩展至服务业？需要怎样的修订？
 
-> [!stat-cards]+ 一页读懂
+> [!feature]+ 一页读懂
 > - **对象** 三轮社区创新调查（[[Community Innovation Survey]]，CIS 2、3、4），覆盖 7 个欧洲国家和挪威，22 个制造业和 17 个服务业两位数 NACE 行业
 > - **方法** 主成分分析 + 回归分析，检验替代性行业分组的稳定性
 > - **结论** Pavitt 的四类核心结构稳健成立；服务业可按相同逻辑归类；原"规模密集型"应修订为"规模与信息密集型"以纳入 ICT 维度

@@ -32,7 +32,7 @@ import os
 import sys
 from pathlib import Path
 
-VAULT_ROOT = Path("/Users/shaoyangwu/Documents/MyNotes")
+VAULT_ROOT = Path(__file__).resolve().parents[1]
 VENV_PYTHON = VAULT_ROOT / ".venv" / "bin" / "python"
 
 if VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolve():
@@ -43,12 +43,10 @@ import argparse
 import json
 import re
 import subprocess
-import sys
 from dataclasses import dataclass
-from pathlib import Path
 from typing import Iterable
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = VAULT_ROOT
 WIKI_DIR = ROOT / "wiki"
 SOURCES_DIR = ROOT / "sources"
 BOOKS_DIR = ROOT / "books"
@@ -714,7 +712,20 @@ def sync_extracted_to_incremental(
     dry_run: bool,
     add_missing: bool,
 ) -> int:
-    changed = 0
+    source_paths: dict[str, Path] = {}
+    original_values: dict[str, list[str]] = {}
+    desired_values: dict[str, list[str]] = {}
+    sources_by_entry: dict[str, set[str]] = {}
+
+    for title, source_path in sorted(source_title_to_path.items()):
+        source_link = canonical_source_link(source_path, title)
+        values = current_extracted_to(source_path)
+        source_paths[source_link] = source_path
+        original_values[source_link] = values
+        desired_values[source_link] = list(values)
+        for entry_link in values:
+            sources_by_entry.setdefault(entry_link, set()).add(source_link)
+
     for entry, path, current_source_links in changed_entries:
         if entry:
             entry_link = f"[[{entry.title}]]"
@@ -727,17 +738,26 @@ def sync_extracted_to_incremental(
                 title = path.stem
             entry_link = f"[[{title}]]"
 
-        current_sources = set(current_source_links)
-        for title, source_path in sorted(source_title_to_path.items()):
-            source_link = canonical_source_link(source_path, title)
-            old_values = current_extracted_to(source_path)
-            if source_link in current_sources:
-                new_values = old_values if entry_link in old_values else [*old_values, entry_link]
-            else:
-                new_values = [v for v in old_values if v != entry_link]
-            if new_values != old_values:
-                if update_source_extracted_to(source_path, new_values, dry_run=dry_run, add_missing=add_missing):
-                    changed += 1
+        current_sources = {link for link in current_source_links if link in source_paths}
+        previous_sources = sources_by_entry.get(entry_link, set()).copy()
+
+        for source_link in previous_sources - current_sources:
+            desired_values[source_link] = [value for value in desired_values[source_link] if value != entry_link]
+        for source_link in current_sources - previous_sources:
+            desired_values[source_link].append(entry_link)
+
+        if current_sources:
+            sources_by_entry[entry_link] = current_sources
+        else:
+            sources_by_entry.pop(entry_link, None)
+
+    changed = 0
+    for source_link, source_path in sorted(source_paths.items()):
+        values = desired_values[source_link]
+        if values == original_values[source_link]:
+            continue
+        if update_source_extracted_to(source_path, values, dry_run=dry_run, add_missing=add_missing):
+            changed += 1
     return changed
 
 

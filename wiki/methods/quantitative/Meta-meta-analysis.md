@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 87
+method_related_count: 88
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -74,7 +74,6 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"
   - "[[Thematic Synthesis]]"
-  - "[[PRISMA]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Correlated and Hierarchical Effects Model]]"
@@ -90,6 +89,7 @@ related_methods:
   - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Pearson Product-Moment Correlation]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
   - "[[Comparative Meta-synthesis]]"
@@ -97,6 +97,7 @@ related_methods:
   - "[[Effect Size Conversion]]"
 related_instruments:
   - "[[AMSTAR]]"
+  - "[[PRISMA]]"
   - "[[GROOVE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -104,7 +105,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Runco_2026_CRJ]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
@@ -121,7 +122,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-08-25
+updated: 2026-09-16
 ---
 
 # Meta-meta-analysis
@@ -155,11 +156,11 @@ updated: 2026-08-25
 > | **Mega-analysis** | Smith (1982) | 强调在样本与[[Document\|文献]]规模上的超级扩展。 |
 > | **Super-analysis** | Dillon (1982) | 强调统计抽象层级上的超越。 |
 > | **Super-synthesis** | Sipe & Curlette (1996) | 强调跨元分析的系统综合过程。 |
-> | **Meta-synthesis** | Sipe & Curlette (1997); [[Argument_Higgins_2016_RE\|Higgins (2016)]] | 质性与量化综合的通用统称。 |
+> | **Meta-synthesis** | Sipe & Curlette (1997); [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 质性与量化综合的通用统称。 |
 > | **Second-Order Meta-Analysis (SOMA)** | Schmidt & Oh (2013); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 强调估计一阶[[Sampling Error\|抽样误差]]并采用多水平稳健方差模型进行精确校正的现代统计学标准术语。 |
 
-> [!concept-lens] [[Argument_Higgins_2016_RE|Higgins (2016)]] 的两种用法区分
-> [[Argument_Higgins_2016_RE|Higgins (2016, p. 41)]] 区分了二阶综合的两种截然不同的[[Research Purpose|研究目的]]：
+> [!concept-lens] [[Argument_Higgins_2016_ROE|Higgins (2016)]] 的两种用法区分
+> [[Argument_Higgins_2016_ROE|Higgins (2016, p. 41)]] 区分了二阶综合的两种截然不同的[[Research Purpose|研究目的]]：
 > 1. **方法学过程研究** 将元分析作为[[Unit of Analysis|分析单位]]来研究元分析过程本身的统计特征、[[Publication Bias|发表偏倚]]与报告质量（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；
 > 2. **实[[Thematic Synthesis|质性主题综合]]** 试图将不同元分析合并为关于更广泛教育或心理主题的单一信息结论（如 Hattie, 1992; Marzano, 1998; [[Argument_Runco_2026_CRJ|Runco et al., 2026]]）。后者必须解决深刻的[[Construct|构念]]可比性与[[Heterogeneity|异质性]]挑战。
 
@@ -256,7 +257,7 @@ updated: 2026-08-25
 > 1. **多数据库系统检索与灰色[[Document|文献]]扩展** 检索主流学术数据库与博硕士论文库，遵循 [[PRISMA]] 声明进行四阶段筛选，严格排除缺乏定量合并矩阵的质性综述与无关系[[Effect Size|效应量]]的坐标元分析。
 > 2. **[[AMSTAR]] 12 项方法学质量评估** 采用改编的 AMSTAR 准则进行双人独立[[Coding in Qualitative Research|编码]]（一致率 $\ge 95\%$），设定得分阈值（如 $\ge 0.75$）作为高质量指示[[Variable|变量]]。
 > 3. **效应量标准化转换与正态化** 将不同一阶指标统一转换为[[Pearson Product-Moment Correlation|皮尔逊相关]]系数 $r$ 或标准化均值差 $g$，运用 Fisher's $z$ 变换实现方差稳定化。
-> 4. **多水平 [[Correlated and Hierarchical Effects Model|CHE]] 与 [[Robust Variance Estimation|RVE]] 稳健方差建模** 设定集群内相关系数（$\rho = 0.8$），运用经验残差构造三明治估计量，计算稳健[[Standard Error|标准误]]与小样本 $F$ 检验。
+> 4. **多水平 [[Correlated and Hierarchical Effects Model|CHE]] 与 [[Robust Variance Estimation|RVE]] 稳健方差建模** 设定集[[Intraclass Correlation Coefficient|群内相关系数]]（$\rho = 0.8$），运用经验残差构造三明治估计量，计算稳健[[Standard Error|标准误]]与小样本 $F$ 检验。
 > 5. **多水平改进艾格回归偏倚检验与校正** 检验[[Small Study Effects|小研究效应]]并根据回归模型截距输出偏倚校正后的二阶效应量点估计值与[[Confidence Interval|置信区间]]。
 > 6. **二阶[[Meta-regression|元回归]]与亚组调节变量检验** 纳入[[Construct|理论构念]]类型、[[Independent Variable|自变量]]/[[Dependent Variable|结果变量]]角色、研究设计等调节变量，全面分解效应[[Heterogeneity|异质性]]来源。
 
@@ -354,8 +355,8 @@ flowchart LR
 > [!concept-lens] [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 的辩护与动态知识学习模型
 > [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, pp. 27–33)]] 从支持者角度为二阶综合的合理性辩护：元-[[Meta-analysis|元分析]]通过[[Effect Size|效应量]]将不同的具体测量转换为“共同表达式”，使跨研究比较相对学习结果成为可能。但他同时指出，共同表达式的代价是结果高度抽象化，难以判断总体效应究竟来自表层记忆、深层理解还是概念性学习；因此主张引入[[Dynamic Knowledge and Learning Model|动态知识与学习模型]]，按知识类型对学习结果进行多维细化分解。
 
-> [!boundary] [[Argument_Higgins_2016_RE|Higgins (2016)]] 的比较推论层级与苹果橙子类比
-> [[Argument_Higgins_2016_RE|Higgins (2016, pp. 40–41)]] 指出，**[[Comparative Meta-synthesis|比较性元分析]]**（在单一元分析内比较多种干预）回答的是“X 是否比 Y 更有效”；而**比较性元综合**（跨元分析比较）面临更高层级的“苹果与橙子”难题。以 Graham et al. (2012) 写作教学元分析为例，虽然可以识别策略教学、自我调节、文本结构、[[Creativity|创造力]]与[[Transcription in Qualitative Research|转录]]等共同有益特征，但这类似于讨论水果的共同繁殖特征（种子），无法推断橙子特有的内部组织结构。
+> [!boundary] [[Argument_Higgins_2016_ROE|Higgins (2016)]] 的比较推论层级与苹果橙子类比
+> [[Argument_Higgins_2016_ROE|Higgins (2016, pp. 40–41)]] 指出，**[[Comparative Meta-synthesis|比较性元分析]]**（在单一元分析内比较多种干预）回答的是“X 是否比 Y 更有效”；而**比较性元综合**（跨元分析比较）面临更高层级的“苹果与橙子”难题。以 Graham et al. (2012) 写作教学元分析为例，虽然可以识别策略教学、自我调节、文本结构、[[Creativity|创造力]]与[[Transcription in Qualitative Research|转录]]等共同有益特征，但这类似于讨论水果的共同繁殖特征（种子），无法推断橙子特有的内部组织结构。
 
 ---
 

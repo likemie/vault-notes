@@ -68,8 +68,8 @@ related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
-  - "[[Argument_Slavin_2021_ROE]]"
-  - "[[Argument_Cheung_2021_ROE]]"
+  - "[[Argument_Slavin_2021_ECNUROE]]"
+  - "[[Argument_Cheung_2021_ECNUROE]]"
 confidence: high
 status: active
 created: '2026-05-02'
@@ -100,7 +100,7 @@ updated: 2026-09-13
 > [!timeline] 生平与职涯
 > - **2000 年代初 — 约翰霍普金斯大学 CRRE 时期** 长期在美国 Johns Hopkins University [[Evidence-Based Education|证据本位教育]]改革中心担任核心研究者，与 [[Robert Slavin]] 紧密合作，深度参与全美大规模整体学校改革（如 [[Success for All]]）与 K-12 阅读、数学干预项目的一阶与[[Meta-meta-analysis|二阶元分析]]研发。
 > - **2010 年代 — 回港任教与循证教育跨国网络搭建** 加盟香港中文大学教育学院，担任教授兼教育行政与政策学系系主任；发起建立 Johns Hopkins-CUHK-NNU（约翰霍普金斯-港中大-南京师大）三方合作机制，建立面向全球华人的 [[Best Evidence in Brief|BEiB]] 循证教育知识库，推动中文教育实证研究与国际[[Causality|因果推断]]标准[[Dialogue in Education|对话]]。
-> - **2021 — 主导《ECNU Review of Education》全球循证改革特刊** 与 [[Chen Xie]] 联合主编特刊 *[[Evidence-Based Reform]] in Education: Global Perspectives*，以四大活动框架组织全球 7 国学者，并联合 Slavin 与[[Tengteng Zhuang|庄腾腾]]系统回应华语学界对[[Positivism|实证主义]]的质疑（[[Argument_Slavin_2021_ROE|Slavin et al., 2021]]；[[Argument_Cheung_2021_ROE|Cheung & Xie, 2021]]）。
+> - **2021 — 主导《ECNU Review of Education》全球循证改革特刊** 与 [[Chen Xie]] 联合主编特刊 *[[Evidence-Based Reform]] in Education: Global Perspectives*，以四大活动框架组织全球 7 国学者，并联合 Slavin 与[[Tengteng Zhuang|庄腾腾]]系统回应华语学界对[[Positivism|实证主义]]的质疑（[[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021]]；[[Argument_Cheung_2021_ECNUROE|Cheung & Xie, 2021]]）。
 > - **2025 — 拓展至前沿智能教育循证评价** 在权威顶刊 *Educational Research Review* 发表针对高校生成式 AI 学习产出的[[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]（[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]），首次在 AIED 综述中引入严格的 [[Baseline Standardized Mean Difference|基线等效性]]门槛（$d < 0.25$）与 [[Third Generation Activity Theory|AT-MCSCL]] 活动理论框架，确立[[Marginal Gains Hypothesis|教育技术边际效益假说]]。
 
 ---
@@ -112,8 +112,8 @@ updated: 2026-09-13
 >   - **核心问题** 回应教育实证研究“信誉危机”与[[Causality|因果推断]]不严密问题，推动[[Evidence-Based Education|循证教育]]政策与大规模[[Randomised Controlled Trials|随机对照试验]]的国际经验转化。
 >   - **代表著作** 
 >     - [[Robert Slavin|Slavin, R.]] E., & Cheung, A. C. K. (2017). Lessons learned from large-scale randomized experiments. *Journal of Education for Students Placed at Risk*, 22(4), 253–259.
->     - Cheung, A. C. K., & [[Chen Xie|Xie, C.]] (2021). Evidence-based reform in education: Global perspectives [Editorial]. *ECNU Review of Education*, 4(1), 3–6. [[Argument_Cheung_2021_ROE|(Cheung & Xie, 2021)]]
->     - [[Robert Slavin|Slavin, R.]] E., Cheung, A. C. K., & [[Tengteng Zhuang|Zhuang, T.]] (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. [[Argument_Slavin_2021_ROE|(Slavin et al., 2021)]]
+>     - Cheung, A. C. K., & [[Chen Xie|Xie, C.]] (2021). Evidence-based reform in education: Global perspectives [Editorial]. *ECNU Review of Education*, 4(1), 3–6. [[Argument_Cheung_2021_ECNUROE|(Cheung & Xie, 2021)]]
+>     - [[Robert Slavin|Slavin, R.]] E., Cheung, A. C. K., & [[Tengteng Zhuang|Zhuang, T.]] (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. [[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021)]]
 >   - **关键概念／方法** [[Evidence-Based Reform]]、[[Evidence-Based Education]]、[[Randomised Controlled Trials]]、[[Best Evidence Encyclopedia]]。
 >   - **阶段特征** 强调以医学[[Clinical Trial|临床试验]]标准规范教育干预，识别中国学者对证据本位[[Paradigm|范式]]的[[Epistemology|认识论]]与[[Going Native|本土化]]质疑并进行系统辩护。
 > - **2022–至今 — 新兴技术循证评价、[[Meta-analysis|元分析]]标准与教育公平拓展阶段**
@@ -128,7 +128,7 @@ updated: 2026-09-13
 ## 核心思想
 
 > [!claim] 核心主张
-> 张志强坚信教育政策与教学干预必须建立在“可复现、严控制、高透明”的实证科学基准之上。他反对脱离严格证据的教育时尚跟风与对新技术的盲目乐观崇拜；强调无论在传统课程改革还是前沿人工智能整合中，都必须运用严格的[[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$）、发表偏倚剪补校正与活动系统多维调节分析，以识别技术在不同社会阶层、数字化基线与权力文化中的真实增益边界，从而使循证教育真正服务于教育公平与深层心智发展。[[Argument_Slavin_2021_ROE|(Slavin et al., 2021)]]; [[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025)]]
+> 张志强坚信教育政策与教学干预必须建立在“可复现、严控制、高透明”的实证科学基准之上。他反对脱离严格证据的教育时尚跟风与对新技术的盲目乐观崇拜；强调无论在传统课程改革还是前沿人工智能整合中，都必须运用严格的[[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$）、发表偏倚剪补校正与活动系统多维调节分析，以识别技术在不同社会阶层、数字化基线与权力文化中的真实增益边界，从而使循证教育真正服务于教育公平与深层心智发展。[[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021)]]; [[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025)]]
 
 > [!citation-card]- 关键表述
 > 早期[[Meta-analysis|元分析]]往往采用了不够严格的纳入标准，导致对[[Effect Size|效应量]]的高估，例如未能控制基线差异以及使用与实验干预内在绑定的测量工具... 在经过[[Trim and Fill Method|剪补法]]调整后，总体效应量降至小幅度（$g^+ = 0.321$），这一数值与教育干预的基准效应高度吻合，表明生成式 AI 具有超越既往膨胀估计的真实教育价值。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 15)]]
@@ -146,8 +146,8 @@ updated: 2026-09-13
 > - **跨国／跨领域传播** 创办并维护 [[Best Evidence in Brief|BEiB]] 中文版，长期将欧美最新教育 [[Randomised Controlled Trials|RCT]] 研究翻译引介给海外华人学者与一线教育者，架设东西方循证教育学术桥梁。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Slavin_2021_ROE]] — 梳理并正面回应中国学者对证据本位教育在[[Epistemology|认识论]]、方法论和实践伦理维度的质疑，阐述科学实证研究对教育进步的不可替代性。
-> - [[Argument_Cheung_2021_ROE]] — 以 COVID-19 疫苗试验类比教育 RCT，阐述全球视野下循证改革的四项核心活动框架。
+> - [[Argument_Slavin_2021_ECNUROE]] — 梳理并正面回应中国学者对证据本位教育在[[Epistemology|认识论]]、方法论和实践伦理维度的质疑，阐述科学实证研究对教育进步的不可替代性。
+> - [[Argument_Cheung_2021_ECNUROE]] — 以 COVID-19 疫苗试验类比教育 RCT，阐述全球视野下循证改革的四项核心活动框架。
 > - [[Argument_Chen_Cheung_2025_ERR]] — 运用活动理论 AT-MCSCL 框架与严谨基线控制，主持实施 57 项[[Experimental Research|实验研究]]的高等教育生成式 AI [[Meta-analysis|元分析]]，证实促学效应并提出防范[[Metacognitive Laziness|元认知惰性]]的循证治理路径。
 
 ---

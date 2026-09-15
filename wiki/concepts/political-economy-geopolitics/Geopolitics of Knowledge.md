@@ -95,7 +95,7 @@ related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
-  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Boyadjieva_2022_Springer]]"
@@ -148,19 +148,19 @@ updated: 2026-09-14
 > - **2018** [[Sami Moisio]] 提出[[Knowledge-Based Economization|知识经济化]]概念，整合 Harvey 的[[Fixity-Motion Tension|固着-流动张力]]与 Porter 的[[National Competitive Advantage|国家竞争优势]]，将批判地缘政治学与全球经济过程相链接
 > - **2022a** [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]将两条脉络综合为"新知识地缘政治"[[Analytic Framework|分析框架]]，以 [[Horizon 2020 SSH Integration|Horizon 2020 SSH]] 整合为[[Epistemology|认识论]]治理的典型案例
 > - **2022b** [[Argument_Thompson_2022_Promising_Student|Thompson et al.（2022）]]将 GPK 延伸至数字教学治理微观层面；[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示[[Governing at a Distance|远距治理]]的三重机制
-> - **2025** [[Argument_Marginson_2025_ROE|Marginson（2025）]]基于 Massey [[Relational Space|关系性空间]]理论，将 1990–2015 与 2015 至今界定为 GPK 的两个历史阶段，理论化西方部分去全球化与中美脱钩
+> - **2025** [[Argument_Marginson_2025_ECNUROE|Marginson（2025）]]基于 Massey [[Relational Space|关系性空间]]理论，将 1990–2015 与 2015 至今界定为 GPK 的两个历史阶段，理论化西方部分去全球化与中美脱钩
 
 ---
 
 ## 历史化分析：地缘政治的两个阶段
 
-[[Argument_Marginson_2025_ROE|Marginson (2025)]]将当代高等教育 GPK 的历史演变分为两个主要阶段（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 15–32]]）：
+[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]将当代高等教育 GPK 的历史演变分为两个主要阶段（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 15–32]]）：
 
 > [!phase] 第一阶段（1990–2015）：美国主导的霸权式全球化
-> 苏联解体后，美国以军事优势为后盾推行变革性的政治-经济-[[Hegemony|文化霸权]]。英语大学在构建和殖民扩展中的全球高等教育空间中运作自如：在东亚/东南亚植入分校、建立合作联盟、吸引国际学生和博士人才。但在此表面的英美同质化之下，新加坡、中国、韩国、法国、北欧国家等也在采取全球性举措（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 15–17]]）。
+> 苏联解体后，美国以军事优势为后盾推行变革性的政治-经济-[[Hegemony|文化霸权]]。英语大学在构建和殖民扩展中的全球高等教育空间中运作自如：在东亚/东南亚植入分校、建立合作联盟、吸引国际学生和博士人才。但在此表面的英美同质化之下，新加坡、中国、韩国、法国、北欧国家等也在采取全球性举措（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 15–17]]）。
 
 
-各国发展出不同的国家-全球协同（national/global synergy）模式（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 17–20]]）：
+各国发展出不同的国家-全球协同（national/global synergy）模式（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 17–20]]）：
 
 > [!quad-grid]
 > - **美国**
@@ -173,9 +173,9 @@ updated: 2026-09-14
 >   以不断增长的政府投资为支撑，侧重国内能力建设而非全球扩张。国家尺度和全球尺度活动相互强化，形成循环效应
 
 > [!phase] 第二阶段（2015 至今）：西方的部分去全球化与中美脱钩
-> 不均衡但广泛的西方对跨境连接的反弹，由双重因素触发：（a）长期殖民秩序的侵蚀和全球[[Multiplicity|多重性]]的增长——包括中国和全球南方大部分地区的崛起；（b）欧美人口的新自由主义贫困化催生了民粹政治。规范国际主义和世界主义让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境学生流动），以及美国推动的中美在政治经济-技术-科学-大学领域关系的部分破裂（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 22–23]]）。
+> 不均衡但广泛的西方对跨境连接的反弹，由双重因素触发：（a）长期殖民秩序的侵蚀和全球[[Multiplicity|多重性]]的增长——包括中国和全球南方大部分地区的崛起；（b）欧美人口的新自由主义贫困化催生了民粹政治。规范国际主义和世界主义让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境学生流动），以及美国推动的中美在政治经济-技术-科学-大学领域关系的部分破裂（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 22–23]]）。
 >
-> 这一阶段证实了 Massey 的核心洞见：试图通过话语或强力"固定"空间的策略最终都"逃避了空间的挑战——即空间作为多重性"（[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 6]]）。英美全球化最终无法维持其同质化控制——"每个空间最终都会部分地从那些使用它的人手中逃脱"（Lefebvre, 1991, p. 26, cited in [[Argument_Marginson_2025_ROE|Marginson, 2025, p. 12]]）。
+> 这一阶段证实了 Massey 的核心洞见：试图通过话语或强力"固定"空间的策略最终都"逃避了空间的挑战——即空间作为多重性"（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 6]]）。英美全球化最终无法维持其同质化控制——"每个空间最终都会部分地从那些使用它的人手中逃脱"（Lefebvre, 1991, p. 26, cited in [[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 12]]）。
 
 ---
 
@@ -224,8 +224,8 @@ updated: 2026-09-14
 > - [[Knowledge-Based Economization]] — Moisio（2018）提供关键分析工具，将注意力从[[Knowledge-Based Economy|知识经济]]话语层面转向物质过程和实践
 > - [[Critical Geopolitics]] — 批判地缘政治学脉络提供[[Relational Space|关系性空间]]分析和话语建构分析工具；[[Sami Moisio]] 为 GPK 批判地缘政治学方向的核心代表
 > - [[Decolonial Geopolitics of Knowledge]] — Mignolo and Dussel 的去殖民批判揭示当前知识经济化在[[Epistemology|认识论]]层面的殖民性延续
-> - [[Doreen Massey]] — Massey（2005）的[[Relational Space|关系性空间]]理论为 GPK 提供核心[[Ontology|本体论]]基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.5–7]]）
-> - [[Space-Making]] — [[Argument_Marginson_2025_ROE|Marginson（2025）]]基于 Lefebvre and Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践）
+> - [[Doreen Massey]] — Massey（2005）的[[Relational Space|关系性空间]]理论为 GPK 提供核心[[Ontology|本体论]]基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp.5–7]]）
+> - [[Space-Making]] — [[Argument_Marginson_2025_ECNUROE|Marginson（2025）]]基于 Lefebvre and Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践）
 > - [[Multiplicity]] — Massey 的多重性概念预测并解释全球化意外促进[[Heterogeneity|异质性]]而非同质化的趋势
 > - [[Global Regionalisms]] — Robertson et al.（2016）揭示高等教育如何通过区域整合项目成为地缘政治想象的核心支柱
 > - [[Global Education Industry]] — 经济化、商品化、私有化等概念为 GPK 提供"肥沃的土壤和生产性的推力"（Thompson & Parreira do Amaral, 2022, p.12）
@@ -241,7 +241,7 @@ updated: 2026-09-14
 >
 > 两条脉络并非前后替代——从不同学术起点出发，分别抵达"地缘政治与知识的关系"这一共同问题域。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]将两者整合为"新知识地缘政治"[[Analytic Framework|分析框架]]，主张批判地缘政治学提供空间配置和话语建构的分析工具，去殖民传统则将注意力引向认识论本身的政治性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）。
 
-[[Argument_Marginson_2025_ROE|Marginson（2025）]]补充了一个关键分析维度：[[Geopolitics of Higher Education|高等教育地缘政治]]关系同时包含合作与竞争、水平性与等级性，在科学领域比国家间政治经济和军事关系更具合作性，尽管在结构上可能更加等级化（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.11–12]]）。Moscovitz & Sabzalieva（2023）进一步提出"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures），为 GPK 实证研究提供了[[Operationalization|操作化]]工具，帮助识别特定情境中起作用的多种力量（[[Argument_Marginson_2025_ROE|Marginson, 2025, p.14]]）。
+[[Argument_Marginson_2025_ECNUROE|Marginson（2025）]]补充了一个关键分析维度：[[Geopolitics of Higher Education|高等教育地缘政治]]关系同时包含合作与竞争、水平性与等级性，在科学领域比国家间政治经济和军事关系更具合作性，尽管在结构上可能更加等级化（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp.11–12]]）。Moscovitz & Sabzalieva（2023）进一步提出"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures），为 GPK 实证研究提供了[[Operationalization|操作化]]工具，帮助识别特定情境中起作用的多种力量（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p.14]]）。
 
 ---
 
@@ -263,7 +263,7 @@ updated: 2026-09-14
 > 1. 知识话语自 2010 年起超越能源、石油等自然资源，成为地缘政治讨论最密集的主题（[[Argument_Partaken_2022_Springer|Partaken, 2022, p.68]]）
 > 2. 国际化主导理性已从发展主义转向市场理性（收入创造、全球排名），高等教育被视为出口产业（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]]）
 > 3. [[Global Universities Rankings|全球大学排名]]是 GPK 的核心运作机制，通过"[[Halo Effect|光环效应]]"固化[[Knowledge Production|知识生产]]不平等等级秩序（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132–138]]）
-> 4. GPK 呈现两个历史阶段：1990–2015 美国主导霸权式全球化；2015 至今西方部分去全球化与中美脱钩（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.15–32]]）
+> 4. GPK 呈现两个历史阶段：1990–2015 美国主导霸权式全球化；2015 至今西方部分去全球化与中美脱钩（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp.15–32]]）
 
 ---
 
@@ -414,7 +414,7 @@ updated: 2026-09-14
 
 > [!warning] 方法论批评与适用局限
 > - 后殖民和去殖民学者批评西方中心的 GPK 概念本身即带有殖民性，需通过"认识论不服从"和转换"推理的地理"加以解构（Mignolo, 2009; Thompson & Parreira do Amaral, 2022, p.10）
-> - GPK 分析高度依赖理论[[Discourse Analysis|话语分析]]，实证[[Operationalization|操作化]]路径尚不清晰；[[Argument_Marginson_2025_ROE|Marginson (2025)]]提出的"尺度-行动者-利益-机会结构"框架是少数较成熟的操作化工具之一
+> - GPK 分析高度依赖理论[[Discourse Analysis|话语分析]]，实证[[Operationalization|操作化]]路径尚不清晰；[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]提出的"尺度-行动者-利益-机会结构"框架是少数较成熟的操作化工具之一
 
 ---
 

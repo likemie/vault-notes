@@ -5,10 +5,10 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - preregistration
   - research-methodology
@@ -17,6 +17,7 @@ tags:
   - evidence-based-education
   - rees
 related_concepts:
+  - "[[Statistical Analysis Plan]]"
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Causality]]"
@@ -45,9 +46,8 @@ related_methods:
   - "[[Covariate Adjustment]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Implementation and Process Evaluation]]"
-  - "[[Simple Difference in Means Model]]"
-  - "[[Ordinary Least Squares]]"
   - "[[Hierarchical Linear Model]]"
+  - "[[Generalized Estimating Equations]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Grounded Theory]]"
 related_instruments:
@@ -56,12 +56,13 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[ISRCTN]]"
   - "[[Education Endowment Foundation]]"
   - "[[National Pupil Database]]"
   - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: active
 created: '2026-05-02'
@@ -75,7 +76,7 @@ updated: 2026-09-15
 ## 定义
 
 > [!def] 核心定义
-> 预注册（Preregistration）指在干预实施或数据收集分析开始前，公开登记并时间戳锁定研究设计、[[Sample Size Determination|样本量]]规划、主要与次要结果测量以及统计分析计划（Statistical Analysis Plan，SAP）的制度化科研实践。在教育与公共政策评估中，预注册旨在遏制事后数据钓鱼（p-hacking）、结果选择性报告（selective reporting）、[[Publication Bias|发表偏倚]]以及[[Researcher Degrees of Freedom|研究者自由度]]，构筑[[Causality|因果推断]]透明度与证据可[[Reliability|信度]]的前置防线。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 443)]]; [[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 51)]]
+> 预注册（Preregistration）指在干预实施或数据收集分析开始前，公开登记并时间戳锁定研究设计、[[Sample Size Determination|样本量]]规划、主要与次要结果测量以及[[Statistical Analysis Plan|统计分析计划]]（Statistical Analysis Plan，SAP）的制度化科研实践。在教育与公共政策评估中，预注册旨在遏制事后数据钓鱼（p-hacking）、结果选择性报告（selective reporting）、[[Publication Bias|发表偏倚]]以及[[Researcher Degrees of Freedom|研究者自由度]]，构筑[[Causality|因果推断]]透明度与证据可[[Reliability|信度]]的前置防线。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 443)]]; [[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 51)]]
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 通过时间戳与独立第三方归档平台，对研究者在数据收集前的分析意图进行刚性事实固化。
@@ -88,7 +89,7 @@ updated: 2026-09-15
 > *"A potential solution to mitigate any bias resulting from selective reporting of the best outcomes, publication bias, and researcher degrees of freedom would be to require program evaluations (including specific outcome measures and analyses) to be preregistered in order for them to be included in the WWC or other program review facilities."*
 
 > [!citation-card] 独立评估规程与方案时间戳锁定
-> 借鉴[[Clinical Trial|临床试验]]规范，所有资助试验必须在干预开展前公开发布预先制定的评估方案与统计分析计划（SAP），并在国际标准[[Randomised Controlled Trials|随机对照试验]][[Coding in Qualitative Research|编码]]（International Standard Randomised Controlled Trial Number，ISRCTN）注册平台登记，以此杜绝选择性报告并应对科学可复现性危机。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 51)]]
+> 借鉴[[Clinical Trial|临床试验]]规范，所有资助试验必须在干预开展前公开发布预先制定的评估方案与统计分析计划（SAP），并在国际标准[[Randomised Controlled Trials|随机对照试验]][[Coding in Qualitative Research|编码]]（[[ISRCTN|International Standard Randomised Controlled Trial Number]]，ISRCTN）注册平台登记，以此杜绝选择性报告并应对科学可复现性危机。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 51)]]
 >
 > *"All evaluations are protocol-driven and are pre-registered on the International Standard Randomised Controlled Trial Number (ISRCTN) registry... protocols and SAPs are published online ahead of trials starting, thereby preventing cherry-picking of results."*
 
@@ -103,7 +104,7 @@ updated: 2026-09-15
 ## 概念辨析
 
 > [!contrast-table] 预注册及相关开放科学规程的对比辨析
-> | 维度 | 常规科学预注册（如 OSF） | 教育评估注册（如 REES） | 国际临床与试验注册（如 ISRCTN） | 期刊注册报告（Registered Reports） |
+> | 维度 | 常规科学预注册（如 OSF） | 教育评估注册（如 REES） | 国际临床与试验注册（如 [[ISRCTN]]） | 期刊注册报告（Registered Reports） |
 > |---|---|---|---|---|
 > | **登记时点** | 数据收集或分析前自由提交 | 干预与评估启动前强制备案 | 临床或教育试验招募前登记 | 研究设计阶段提交同行评审 |
 > | **审核与约束** | 平台仅提供时间戳，通常不设实质同行外审 | 需符合教育科学规范，未备案分析会被审查机构剔除 | 需符合国际临床与试验透明标准，提供全球唯一[[Coding in Qualitative Research\|编码]] | 经期刊两轮严格盲审，通过即获原则性接收承诺 |
@@ -115,11 +116,11 @@ updated: 2026-09-15
 ## 核心要素
 
 > [!feature] 预注册的核心要素体系
-> - **研究设计与[[Random Assignment|随机化]]方案** 明确界定实验设计（如[[Cluster Randomized Trials|整群随机试验]]、阶梯楔形设计）、分配单位（学生、班级、学校）、随机化序列生成机制以及[[Sample Size Determination|样本量]]与最小可测[[Effect Size|效应量]]（MDES）规划。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, pp. 443–444)]]; [[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 51)]]
-> - **主要与次要结果[[Variable|变量]]界定** 预先声明主要学业产出指标（强制要求具有高[[External Validity|外部效度]]的独立标准化考试）与次要探索性指标，杜绝在多重测量中后验挑拣显著变量（cherry-picking）。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 443)]]; [[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 54)]]
-> - **统计分析计划（Statistical Analysis Plan，SAP）** 预先详述最终计量模型、[[Covariate Adjustment|协变量控制]]准则、班级聚类效应调整（Demack, 2019）、缺失值多重插补或完全用例假定，以及意向性分析（[[Intent-to-Treat Analysis]]，ITT）规程。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 51–53)]]
+> - **研究设计与[[Random Assignment|随机化]]方案** 明确界定实验设计（如[[Cluster Randomized Trials|整群随机试验]]、阶梯楔形设计）、分配单位（学生、班级、学校）、随机化序列生成机制以及[[Sample Size Determination|样本量]]与最小可测[[Effect Size|效应量]]（MDES）规划。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, pp. 443–444)]]; [[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 51)]]
+> - **主要与次要结果[[Variable|变量]]界定** 预先声明主要学业产出指标（强制要求具有高[[External Validity|外部效度]]的独立标准化考试）与次要探索性指标，杜绝在多重测量中后验挑拣显著变量（cherry-picking）。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 443)]]; [[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
+> - **[[Statistical Analysis Plan|统计分析计划]]（Statistical Analysis Plan，SAP）** 预先详述最终计量模型、[[Covariate Adjustment|协变量控制]]准则、班级聚类效应调整（Demack, 2019）、缺失值多重插补或完全用例假定，以及[[Intent-to-Treat Analysis|意向性分析]]（[[Intent-to-Treat Analysis]]，ITT）规程。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 51–53)]]
 > - **[[Counterfactual|反事实]]对照条件描述** 详尽阐述对照组的具体活动，明确对照组是纯粹[[Business as Usual|常态教学]]（business as usual）还是接受替代干预，防止反事实模糊掩盖真实效应。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 444)]]
-> - **[[Implementation Fidelity|实施保真度]]与过程测量计划** 预先设计[[Implementation and Process Evaluation|实施与过程评估]]（IPE）框架，包括干预核心活性成分界定、干预剂量记录、出勤追踪、课堂观察[[Coding in Qualitative Research|编码]]及污染排查规程。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 53–54)]]
+> - **[[Implementation Fidelity|实施保真度]]与过程测量计划** 预先设计[[Implementation and Process Evaluation|实施与过程评估]]（IPE）框架，包括干预核心活性成分界定、干预剂量记录、出勤追踪、课堂观察[[Coding in Qualitative Research|编码]]及污染排查规程。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 > [!logic-map] 预注册全流程治理与证据锁定
 > ```mermaid
@@ -156,7 +157,7 @@ updated: 2026-09-15
 > **准入约束阻断[[Publication Bias|发表偏倚]]** 将预注册确立为教育项目审查机构准入前置条件能够有效解决假阳性危机。引用 Gehlbach & Robinson (2018) 在《教育成效评估期刊》（Journal of Research on Educational Effectiveness，JREE）上的论述，指出研究者在面对大量次要指标与亚组划分时具有极高的选择自由；若不强制在效能与有效性研究注册处（Registry of Efficacy and Effectiveness Studies，REES）登记主要终点与分析方法，最终报告必然倾向于选择性呈现最优效应。要求进入有效教育评价所（[[What Works Clearinghouse]]，WWC）的研究必须预注册，是杜绝此类可疑研究实践的核心制度解法。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 443)]]
 
 > [!claim] Edovald, T. & Nevill, C.
-> **全链条时间戳公开根除结果挑拣** 社会科学[[Document|文献]]中显著正向结果的发表几率比零结果高出 40 个百分点（Franco et al., 2014）。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）在资助大规模试验时，强制要求评估团队在干预开始前公开发布评估方案与统计分析计划（SAP），并在国际标准[[Randomised Controlled Trials|随机对照试验]][[Coding in Qualitative Research|编码]]（ISRCTN）平台注册；评估报告模板严格基于试验报告统一标准（Consolidated Standards of Reporting Trials，CONSORT）声明，无论结果是否显著均无条件全量公开，从根本上杜绝了评估者根据事后数据走向挑拣结果或隐匿零结果的可能。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, p. 51)]]
+> **全链条时间戳公开根除结果挑拣** 社会科学[[Document|文献]]中显著正向结果的发表几率比零结果高出 40 个百分点（Franco et al., 2014）。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）在资助大规模试验时，强制要求评估团队在干预开始前公开发布评估方案与[[Statistical Analysis Plan|统计分析计划]]（SAP），并在国际标准[[Randomised Controlled Trials|随机对照试验]][[Coding in Qualitative Research|编码]]（[[ISRCTN]]）平台注册；评估报告模板严格基于试验报告统一标准（Consolidated Standards of Reporting Trials，CONSORT）声明，无论结果是否显著均无条件全量公开，从根本上杜绝了评估者根据事后数据走向挑拣结果或隐匿零结果的可能。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 51)]]
 
 ---
 
@@ -172,7 +173,7 @@ updated: 2026-09-15
 > **微观数据开放与可复制性补充** 单纯的预注册必须辅以彻底的研究数据开放。评估团队应当在保护隐私的前提下，公开包含全部初始参与者与缺失值标记的去标识微观数据集，使独立研究团队能够重新运行统计代码、检验不同模型假定下的结论敏感性，从而构建起事前预注册与事后公开复现的双重验证机制。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 444)]]
 
 > [!claim] Edovald, T. & Nevill, C.
-> **国家行政数据库归档促成分析模型鲁棒性验证** 依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）的全样本普查数据，EEF 建立了汇集 105 项大规模教育试验微观数据的开放档案库。杜伦大学（Durham University）学者利用该开放归档对 17 项早期完成的 RCT 进行复算时发现，分别采用[[Simple Difference in Means Model|简单均值模型]]、[[Ordinary Least Squares|普通最小二乘]][[Covariate Adjustment|协变量调整]]模型、[[Hierarchical Linear Model|多层线性模型]]和广义估计方程四种常见模型，会导致[[Effect Size|效应量]]估计值发生大幅漂移（Xiao et al., 2016）。这一实证复查推动 EEF 编写出台《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），明确要求在预注册 SAP 中精确锁定协变量选择准则与班级聚类模型，展示了数据开放对完善预注册规程的反哺机制。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 52–53)]]
+> **国家行政数据库归档促成分析模型鲁棒性验证** 依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）的全样本普查数据，EEF 建立了汇集 105 项大规模教育试验微观数据的开放档案库。杜伦大学（Durham University）学者利用该开放归档对 17 项早期完成的 RCT 进行复算时发现，分别采用简单均值模型、普通最小二乘[[Covariate Adjustment|协变量调整]]模型、[[Hierarchical Linear Model|多层线性模型]]和[[Generalized Estimating Equations|广义估计方程]]四种常见模型，会导致[[Effect Size|效应量]]估计值发生大幅漂移（Xiao et al., 2016）。这一实证复查推动 EEF 编写出台《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），明确要求在预注册 SAP 中精确锁定协变量选择准则与班级聚类模型，展示了数据开放对完善预注册规程的反哺机制。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 ---
 
@@ -185,7 +186,7 @@ updated: 2026-09-15
 > **现实复杂情境要求允许有合理理由的合规偏离** 学校与学区环境具有高度动态性，干预往往难以完全依照实验室式的既定计划推进。由于突发组织变故、人员流动或实施环境异动，评估者不可避免需要调整原始方案。过于僵化、机械的预注册要求不仅会脱离一线实践，还可能迫使评估者掩盖必要的调整；因此，制度设计的关键在于建立规范的偏离辩护机制，允许评估者透明记录所有偏离原因，并交由审查机构评判其合理性。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 444)]]
 
 > [!claim] Edovald, T. & Nevill, C.
-> **[[Implementation and Process Evaluation|过程评估]]协同提供合规偏离的解释性证据** 复杂教育干预未达到预期成效，往往反映的是现场实施失败或组织磨合阵痛，而非干预原理的无效。EEF 要求所有试验必须将量化统计与实施与过程评估（Implementation and Process Evaluation，IPE）深度融合；通过对照[[TIDieR|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR）界定核心活性成分、系统记录对照组[[Business as Usual|常态教学]]与师生依从度，评估者能够为现场方案的合理微调提供详实的质性依据，从而科学区分情境适应性调整与恶意模型篡改。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 53–54)]]
+> **[[Implementation and Process Evaluation|过程评估]]协同提供合规偏离的解释性证据** 复杂教育干预未达到预期成效，往往反映的是现场实施失败或组织磨合阵痛，而非干预原理的无效。EEF 要求所有试验必须将量化统计与实施与过程评估（Implementation and Process Evaluation，IPE）深度融合；通过对照[[TIDieR|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR）界定核心活性成分、系统记录对照组[[Business as Usual|常态教学]]与师生依从度，评估者能够为现场方案的合理微调提供详实的质性依据，从而科学区分情境适应性调整与恶意模型篡改。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 ---
 
@@ -195,10 +196,10 @@ updated: 2026-09-15
 > 围绕预注册如何转化为实质性的科学约束力，学者指出必须将预注册与独立评估团队防火墙、合同权责约束及证据等级降级惩戒深度绑定。
 
 > [!claim] Edovald, T. & Nevill, C.
-> **协议防火墙与安全锁扣分机制形成强硬合规约束** 孤立的自愿预注册难以遏制利益相关方的发表冲动。EEF 将预注册置于独立的评估制度体系中：设立评估者专家库并推行三方资助协议，将干预项目方与评估团队在组织和财务上彻底物理隔离；在证据评级体系中研发了[[EEF Padlock Security Rating|挂锁安全评级]]（The EEF, 2019c），明确将是否忠实遵循预注册评估方案与统计分析计划（SAP）作为核心审查项。凡未获预先批准擅自修改主要结果测量、变换分析模型或违背意向性分析规程的研究，直接扣除 1 把挂锁，从而使 85% 以上发表报告稳固维持在 3 锁以上的高质量水平。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 50–52, 57)]]
+> **协议防火墙与安全锁扣分机制形成强硬合规约束** 孤立的自愿预注册难以遏制利益相关方的发表冲动。EEF 将预注册置于独立的评估制度体系中：设立评估者专家库并推行三方资助协议，将干预项目方与评估团队在组织和财务上彻底物理隔离；在证据评级体系中研发了[[EEF Padlock Security Rating|挂锁安全评级]]（The EEF, 2019c），明确将是否忠实遵循预注册评估方案与统计分析计划（SAP）作为核心审查项。凡未获预先批准擅自修改主要结果测量、变换分析模型或违背[[Intent-to-Treat Analysis|意向性分析]]规程的研究，直接扣除 1 把挂锁，从而使 85% 以上发表报告稳固维持在 3 锁以上的高质量水平。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 50–52, 57)]]
 
 > [!claim] Burgess, S. et al.
-> **官方独立预注册阻断开发者的次要指标重新包装** 在一项针对中学教师同行观察干预的试验中，EEF 独立评估团队严格依照预注册方案计算出该项目对学生学业无统计学显著影响的零结果，并依规官方公开；项目研发者随后绕开独立评估团队，自行挖掘次要指标并在外部学术期刊发表了声称干预显著有效的论文（Burgess et al., 2019）。这一案例凸显出，正是因为存在权威官方平台的预注册方案与独立评估报告，学界才能清晰识别出开发者的重新包装行为，预注册构成了抵御学术洗白的关键证据底座。[[Argument_Edovald_Nevill_2021_ROE|(Burgess et al., 2019, 引用见 Edovald & Nevill, 2021, pp. 51–52)]]
+> **官方独立预注册阻断开发者的次要指标重新包装** 在一项针对中学教师同行观察干预的试验中，EEF 独立评估团队严格依照预注册方案计算出该项目对学生学业无统计学显著影响的零结果，并依规官方公开；项目研发者随后绕开独立评估团队，自行挖掘次要指标并在外部学术期刊发表了声称干预显著有效的论文（Burgess et al., 2019）。这一案例凸显出，正是因为存在权威官方平台的预注册方案与独立评估报告，学界才能清晰识别出开发者的重新包装行为，预注册构成了抵御学术洗白的关键证据底座。[[Argument_Edovald_Nevill_2021_ECNUROE|(Burgess et al., 2019, 引用见 Edovald & Nevill, 2021, pp. 51–52)]]
 
 ---
 
@@ -207,7 +208,7 @@ updated: 2026-09-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **自由度抑制机制** | 通过时间戳事前锁定分析模型与终点变量，遏制发表偏倚与数据钓鱼 | 所有[[Causality\|因果推断]]、验证性研究与政策效果评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill (2021)]] |
+> | **自由度抑制机制** | 通过时间戳事前锁定分析模型与终点变量，遏制发表偏倚与数据钓鱼 | 所有[[Causality\|因果推断]]、验证性研究与政策效果评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
 > | **预注册的不充分性与补全路径** | 预注册不能完全消除观察数据后的灵活微调，必须与微观数据开放及代码复现深度互补 | 统计建模分析、复杂协变量调整与敏感性复算 | Gelman & Loken (2014); Xiao, Higgins, & Kasim (2016) |
 > | **制度刚性与实地生态调试** | 开放学校现场充满突发情境，偏离不可避免，关键在于透明记录与过程评估证据支撑 | 学校本位现场试验、复杂多层级干预评估 | Craig et al. (2008); Humphrey et al. (2016) |
 > | **制度绑定与惩戒防线** | 预注册必须与独立评估人制度、合同隔离及证据安全评级扣分形成硬性约束联动 | 国家级证据中介、公共资助大规模评估与政策采纳 | Burgess et al. (2019); The EEF (2019c) |
@@ -217,11 +218,11 @@ updated: 2026-09-15
 ## 概念演变
 
 > [!dev-timeline] 概念演变历程
-> - **2000s — 医学与[[Clinical Trial|临床试验]]登记起源** 面对制药行业严重的[[Publication Bias|发表偏倚]]与选择性披露危机，国际医学界建立 ClinicalTrials.gov 与国际标准[[Randomised Controlled Trials|随机对照试验]][[Coding in Qualitative Research|编码]]（ISRCTN）机制，将试验注册确立为国际顶刊发表的前置法定要求。
+> - **2000s — 医学与[[Clinical Trial|临床试验]]登记起源** 面对制药行业严重的[[Publication Bias|发表偏倚]]与选择性披露危机，国际医学界建立 ClinicalTrials.gov 与国际标准[[Randomised Controlled Trials|随机对照试验]][[Coding in Qualitative Research|编码]]（[[ISRCTN]]）机制，将试验注册确立为国际顶刊发表的前置法定要求。
 > - **2014–2015 — 心理科学与可复现性危机反思** 开放科学合作组织（Open Science Collaboration, 2015）揭示大规模实验复现危机，Gelman & Loken (2014) 等学者深入剖析[[Researcher Degrees of Freedom|研究者自由度]]与分叉路径的花园，推动开放科学中心（COS）与 OSF 预注册平台崛起。
 > - **2018 — 美国[[Institute of Education Sciences|教育科学研究院]]创设 REES 平台** 美国教育科学研究院（IES）主导启动效能与有效性研究注册处（REES），由 Anderson 等学者（2019）系统阐发，成为美国教育因果评估治理标准化的标志性里程碑。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 444)]]
-> - **2018–2019 — 英国 [[Education Endowment Foundation|EEF]] 制度化统计分析计划与安全锁惩罚** 英国教育捐赠基金会（EEF）发布并三次修订《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），出台《EEF 评估发现安全级别分类指南》（*Classification of the Security of Findings from EEF Evaluations*; The EEF, 2019c），将偏离预注册 SAP 正式确立为直接扣除 1 把安全锁的制度化质量惩罚。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 51–53, 57)]]
-> - **2020–2021 — 证据中介准入标准与全球推广** [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 呼吁将预注册作为 [[What Works Clearinghouse|WWC]] 审查准入的强制条件；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] 总结 EEF 200 余项大规模试验全生命周期方案透明治理经验，预注册成为现代证据中介的核心标配。
+> - **2018–2019 — 英国 [[Education Endowment Foundation|EEF]] 制度化[[Statistical Analysis Plan|统计分析计划]]与安全锁惩罚** 英国教育捐赠基金会（EEF）发布并三次修订《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），出台《EEF 评估发现安全级别分类指南》（*Classification of the Security of Findings from EEF Evaluations*; The EEF, 2019c），将偏离预注册 SAP 正式确立为直接扣除 1 把安全锁的制度化质量惩罚。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 51–53, 57)]]
+> - **2020–2021 — 证据中介准入标准与全球推广** [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 呼吁将预注册作为 [[What Works Clearinghouse|WWC]] 审查准入的强制条件；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] 总结 EEF 200 余项大规模试验全生命周期方案透明治理经验，预注册成为现代证据中介的核心标配。
 
 ---
 
@@ -238,7 +239,7 @@ updated: 2026-09-15
 > > [!axis] 事前声明与事后审查监管效力之间的落差
 > > 仅在公共平台进行事前登记并不等同于最终报告忠实执行，缺乏严密的同行外审与惩罚机制时，预注册可能沦为流于形式的象征性达标。
 > >
-> > - **[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]]** 主张必须依托三方独立资助协议和安全锁降级等硬性惩罚规程，才能将预注册由道义自觉转化为实质制度约束。[[Argument_Edovald_Nevill_2021_ROE|(Edovald & Nevill, 2021, pp. 51–52)]]
+> > - **[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]]** 主张必须依托三方独立资助协议和安全锁降级等硬性惩罚规程，才能将预注册由道义自觉转化为实质制度约束。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 51–52)]]
 > > - **Burgess et al.（2019）** 案例揭示出即便存在官方预注册，开发者仍可在项目结项后利用数据在外部期刊重新包装，凸显制度监管在学术生态边缘的局限。
 
 > [!warning] 适用局限
@@ -254,8 +255,8 @@ updated: 2026-09-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Connolly et al. (2018) | 全球 1980–2016 年 1,017 项教育试验（见 [[Argument_Edovald_Nevill_2021_ROE\|Edovald & Nevill, 2021]]） | 历史[[Document\|文献]]元调查 | 试验中包含[[Implementation and Process Evaluation\|过程评估]]（IPE）的比例 | 38% | — | 说明早期教育试验缺乏方案预注册与过程追踪，普遍处于机制黑箱状态 |
-> | The EEF (2019c) 评估集 | 英格兰公立中小学 150+ 项 [[Education Endowment Foundation\|EEF]] 资助的大规模学校 [[Randomised Controlled Trials\|RCT]]（逾 8,000 校次） | 制度运行与[[Literature Review\|文献回顾]] | 方案预注册、SAP 公开及获 3 锁以上评级比例 | 方案与 SAP 100% 事前预注册与公开；85% 的已发表评估报告获得 3 把锁及以上安全评级 | 平均[[Attrition\|流失]]率严格控制在 30% 以下（早期为 24%） | 证明强制预注册与三方独立协议可有效保障大规模现场试验的方法学质量 |
+> | Connolly et al. (2018) | 全球 1980–2016 年 1,017 项教育试验（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]） | 历史[[Document\|文献]]元调查 | 试验中包含[[Implementation and Process Evaluation\|过程评估]]（IPE）的比例 | 38% | — | 说明早期教育试验缺乏方案预注册与过程追踪，普遍处于机制黑箱状态 |
+> | The EEF (2019c) 评估集 | 英格兰公立中小学 150+ 项 [[Education Endowment Foundation\|EEF]] 资助的大规模学校 [[Randomised Controlled Trials\|RCT]]（逾 8,000 校次） | 制度运行与[[Literature Review\|文献回顾]] | 方案预注册、[[Statistical Analysis Plan\|SAP]] 公开及获 3 锁以上评级比例 | 方案与 SAP 100% 事前预注册与公开；85% 的已发表评估报告获得 3 把锁及以上安全评级 | 平均[[Attrition\|流失]]率严格控制在 30% 以下（早期为 24%） | 证明强制预注册与三方独立协议可有效保障大规模现场试验的方法学质量 |
 > | Xiao et al. (2016) 复算审计 | 杜伦大学对 EEF 早期 17 项已归档 RCT 的四模型复算研究 | 开放数据二次复算 | 简单均值、[[Covariate Adjustment\|协变量调整]]、HLM 与 GEE 四种模型的估计差异 | 统计分析模型设定导致效应量估计值大幅漂移 | 模型间差异具统计实质性 | 实证证明若不预先在 SAP 中刚性锁定模型与协变量，[[Researcher Degrees of Freedom\|研究者自由度]]极易扭曲结论 |
 > | EEF-NPD 开放档案库 | 英格兰[[National Pupil Database\|国家学生数据库]]（NPD）对接试验微观数据库 | 纵向行政档案关联 | 完整关联行政大数据的预注册试验归档数量 | 105 项独立试验微观数据完整归档并对学界开放 | — | 为长期因果效应追踪与第三方复算提供了全球首个国家级教育微观数据库 |
 > | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | 美国 [[Institute of Education Sciences\|IES]] 效能与有效性研究注册处（REES） | 政策分析与实证评述 | 预注册对缓解虚假结果与改善研究生态的作用 | 质性定性为无疑是积极的进步（undoubtedly a positive advancement；Gehlbach & Robinson, 2018） | — | 说明预注册已成为美国联邦教育因果评估治理的核心规范 |
@@ -266,4 +267,4 @@ updated: 2026-09-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] — 在探讨[[Developer Effect|开发者效应]]与[[Publication Bias|发表偏倚]]的机制时，系统提出将预注册作为 [[What Works Clearinghouse|WWC]] 等清算机构准入条件的政策方案，并深刻辨析了预注册在应对[[Researcher Degrees of Freedom|研究者自由度]]上的有效性与局限性。
-> - [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）前八年逾 150 项大规模学校 [[Randomised Controlled Trials|RCT]] 的治理实践，详细呈现了从 ISRCTN 预注册、独立协议防火墙、统计分析计划（SAP）预先公开，到杜伦大学四模型复算驱动行业指南制定的全生命周期开放科学模式。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）前八年逾 150 项大规模学校 [[Randomised Controlled Trials|RCT]] 的治理实践，详细呈现了从 [[ISRCTN]] 预注册、独立协议防火墙、[[Statistical Analysis Plan|统计分析计划]]（SAP）预先公开，到杜伦大学四模型复算驱动行业指南制定的全生命周期开放科学模式。

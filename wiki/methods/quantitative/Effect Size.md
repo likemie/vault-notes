@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 78
+method_related_count: 79
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Construct]]"
   - "[[External Validity]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Construct Validity]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -84,7 +85,7 @@ related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Simpson_2019_ERE]]"
@@ -95,8 +96,8 @@ related_arguments:
   - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Edovald_Nevill_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Argument_ONeill_2012_NZJES]]"
 related_instruments:
@@ -104,7 +105,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 ## 定义
@@ -138,11 +139,11 @@ updated: 2026-09-15
 ## 概念演变
 
 > [!dev-timeline] 效应量的概念演变
-> - **1964** — Benjamin Bloom 在 Stability and Change in Human Characteristics 中呈现了相关系数的聚合图表，其"两个标准差问题"（寻找与一对一辅导同样有效的小组教学方法）以标准差单位表述，为效应量在教育研究中的使用提供了早期范例([[Argument_Higgins_2016_RE|Higgins, 2016, p.37]])。
+> - **1964** — Benjamin Bloom 在 Stability and Change in Human Characteristics 中呈现了相关系数的聚合图表，其"两个标准差问题"（寻找与一对一辅导同样有效的小组教学方法）以标准差单位表述，为效应量在教育研究中的使用提供了早期范例([[Argument_Higgins_2016_ROE|Higgins, 2016, p.37]])。
 > - **1966** — Robert Rosenthal 出版 Experimenter Effects in Behavioral Research，包含大量标准化平均差异的计算并跨领域比较。Glass 本人承认 Rosenthal 发展了效应量的基础度量。
 > - **1969** — [[Jacob Cohen]] 出版 [[Power Analysis|statistical power analysis]] for the Behavioral Sciences 第 1 版，引入 Cohen's d 作为标准化均值差的度量。
-> - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具([[Argument_Higgins_2016_RE|Higgins, 2016, pp.36–37]])。
-> - **1980** — Cooper and Rosenthal 的实证检验表明，[[Meta-analysis|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
+> - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具([[Argument_Higgins_2016_ROE|Higgins, 2016, pp.36–37]])。
+> - **1980** — Cooper and Rosenthal 的实证检验表明，[[Meta-analysis|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_ROE|Higgins, 2016, p.32]])。
 > - **1988** — Cohen 出版 Statistical Power Analysis 第 2 版，以身高类比等直观方式解释效应量的实质含义([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])。
 > - **2009** — [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践话语。
 > - **2014** — [[EEF Teaching and Learning Toolkit]] 以[[Effect Size Conversion|效应量转换]]为"额外学习月数"的格式传播教育干预证据。
@@ -267,12 +268,12 @@ updated: 2026-09-15
 ### 实践者解释中的效应量
 
 > [!info] 实践者解释中的效应量与安全锁互补机制
-> 在学校采购和项目评价中，教育产品消费者并不总能理解效应量和统计显著性等有效性指标，也常觉得正式证据来源缺少实施要求、使用满意度、成本和情境信息。效应量因此不是“读者看到数字就能行动”的指标，而需要和项目目标、使用强度、对照条件、测量工具和地方需求一起解释([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
+> 在学校采购和项目评价中，教育产品消费者并不总能理解效应量和统计显著性等有效性指标，也常觉得正式证据来源缺少实施要求、使用满意度、成本和情境信息。效应量因此不是“读者看到数字就能行动”的指标，而需要和项目目标、使用强度、对照条件、测量工具和地方需求一起解释([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.120-121]])。
 >
-> 针对单一指标沟通的局限，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》与官方评估报告中，建立了**效应量（额外学习月数）与[[EEF Padlock Security Rating|挂锁安全评级]]（Padlock Rating）**的二元互补机制（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, p. 57]]）。实践者不能仅凭孤立的效应量大小做决策：一个看似巨大的效应量（如 $d = 0.50$）若仅获得 1 把锁，说明其面临严重的[[Sample Size Determination|样本量]]不足、高[[Attrition|流失]]率或未[[Preregistration|预注册]]等偏倚风险；反之，一个微弱的效应量（如 $d = 0.06$）若拥有 4 或 5 把安全锁（高统计功效、低流失、预注册分析与独立实施），则反映了在真实[[Business as Usual|常态教学]]基线下的高确定性因果证据。这种将“效应量大小”与“因果证据安全性”解耦并列的双轨呈现，有效避免了决策者对孤立统计量或 $p < 0.05$ 门槛的机械迷信（Wasserstein et al., 2019）。
+> 针对单一指标沟通的局限，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》与官方评估报告中，建立了**效应量（额外学习月数）与[[EEF Padlock Security Rating|挂锁安全评级]]（Padlock Rating）**的二元互补机制（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 57]]）。实践者不能仅凭孤立的效应量大小做决策：一个看似巨大的效应量（如 $d = 0.50$）若仅获得 1 把锁，说明其面临严重的[[Sample Size Determination|样本量]]不足、高[[Attrition|流失]]率或未[[Preregistration|预注册]]等偏倚风险；反之，一个微弱的效应量（如 $d = 0.06$）若拥有 4 或 5 把安全锁（高统计功效、低流失、预注册分析与独立实施），则反映了在真实[[Business as Usual|常态教学]]基线下的高确定性因果证据。这种将“效应量大小”与“因果证据安全性”解耦并列的双轨呈现，有效避免了决策者对孤立统计量或 $p < 0.05$ 门槛的机械迷信（Wasserstein et al., 2019）。
 
 > [!example]
-> 一个补充性教育技术项目可能只在每周少量课堂时间中使用。若它在标准化[[Achievement and Aptitude Tests|成就测验]]上的效应量很小，这不必然说明项目无价值；它可能主要改善学生动机、释放教师个别辅导时间或增加技术接入公平。反过来，一个较大的效应量若来自低质量对照组，也不能直接说明项目在本地学区一定值得采购([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]])。
+> 一个补充性教育技术项目可能只在每周少量课堂时间中使用。若它在标准化[[Achievement and Aptitude Tests|成就测验]]上的效应量很小，这不必然说明项目无价值；它可能主要改善学生动机、释放教师个别辅导时间或增加技术接入公平。反过来，一个较大的效应量若来自低质量对照组，也不能直接说明项目在本地学区一定值得采购([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.110-112]])。
 
 ---
 
@@ -308,11 +309,11 @@ updated: 2026-09-15
 > - 独立研究的 95% [[Prediction Interval|预测区间]]为 (−0.452, +0.788)，开发者研究为 (−0.311, +0.929），显示大量[[Heterogeneity|异质性]]（p. 441）
 
 > [!success] 教育[[Randomised Controlled Trials|随机对照试验]]的经验分布
-> 大规模教育随机对照试验的效应量分布显示，大多数干预的效果很小([[Argument_Kraft_2023_ER|Kraft, 2023]]; [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021]]; [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021]])：
+> 大规模教育随机对照试验的效应量分布显示，大多数干预的效果很小([[Argument_Kraft_2023_ER|Kraft, 2023]]; [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021]]; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]])：
 >
 > - 36% 的教育干预随机对照试验标准化[[Academic Achievement|学业成就]]效应量小于 0.05，这比"小/中/大"标签更应成为解释政策相关性的核心基准([[Argument_Kraft_2023_ER|Kraft, 2023, p.183]])
 > - 教育随机对照试验效应量分布的中位数约为 0.10；美国教育部委托的研究子样本中位数仅为 0.03，说明发表[[Document|文献]]中的效应量分布可能因[[Publication Bias|发表偏倚]]而偏向较大正值([[Argument_Kraft_2023_ER|Kraft, 2023, p.186]])
-> - **英美 141 项大型教育 RCT 元再分析** Lortie-Forgues & Inglis (2019) 对英国 [[Education Endowment Foundation|EEF]] 和美国[[National Center for Education Evaluation and Regional Assistance|国家教育评估与区域援助中心]]（NCEE）委托资助的 141 项大规模现场试验（涵盖 1,222,024 名学生）进行系统元再分析，发现平均成就效应量仅为 0.06 个标准差（$d = 0.06$），平均 95% [[Confidence Interval|置信区间]]宽达 0.30 个标准差（平均区间为 $[-0.09, +0.21]$），且只有 23% 的试验结果在统计学上显著大于零（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 112]]；[[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill, 2021, pp. 56–57]]）。这一全样本分布证实：在消除了开发者利益冲突与独立严格实施的真实学校生态中，微弱效应量属于常态而非例外
+> - **英美 141 项大型教育 RCT 元再分析** Lortie-Forgues & Inglis (2019) 对英国 [[Education Endowment Foundation|EEF]] 和美国[[National Center for Education Evaluation and Regional Assistance|国家教育评估与区域援助中心]]（NCEE）委托资助的 141 项大规模现场试验（涵盖 1,222,024 名学生）进行系统元再分析，发现平均成就效应量仅为 0.06 个标准差（$d = 0.06$），平均 95% [[Confidence Interval|置信区间]]宽达 0.30 个标准差（平均区间为 $[-0.09, +0.21]$），且只有 23% 的试验结果在统计学上显著大于零（[[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 112]]；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 56–57]]）。这一全样本分布证实：在消除了开发者利益冲突与独立严格实施的真实学校生态中，微弱效应量属于常态而非例外
 > - 95% 的效应量为正，几乎所有被纳入的因素似乎都有正面效应，只是程度不同([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])
 
 ---
@@ -331,8 +332,8 @@ updated: 2026-09-15
 
 > [!claim] [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]]
 > Cheung & Slavin（2016）、de Boer, Donker & van der Werf（2014）、Li & Ma（2010）等多个[[Meta-analysis|元分析]]发现自编测量产生的效应量比独立测量高 **0.20–0.29** 标准差。de Boer et al.（2014）发现其综述中 180 个测量中约三分之二是研究者或开发者自编的（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 431]]）。例：同一数学干预使用项目团队自编测试时效应量可能为 +0.45，使用州标准化测试时可能仅为 +0.20。
-> [!claim] [[Argument_Edovald_Nevill_2021_ROE|Edovald & Nevill (2021)]]
-> **独立高[[External Validity|外部效度]]测验与行政统考对接规程** 针对自编测量系统性虚增效应量的顽疾，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）早在 2012 年即出台严格的《评估测验选用指南》（The EEF, 2012b；Edovald & Nevill, 2021, p. 54）。指南硬性规定：试验的主要学业产出指标严禁采用开发者或评估团队自编的非标准化测验，必须选用具有广泛[[External Validity|外部效度]]、与英格兰国家关键考试（GCSE 或[[National Pupil Database|国家学生数据库]]（NPD）核心统考成绩）高度相关的全国商业标准化测验或官方行政统考，并严格排查天花板效应与地板效应。这一制度安排从源头上锁死了通过定制贴合干预内容的近端测验来人为推高效应量的投机空间。
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]]
+> **独立高[[External Validity|外部效度]]测验与行政统考对接规程** 针对自编测量系统性虚增效应量的顽疾，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）早在 2012 年即出台严格的《评估测验选用指南》（The EEF, 2012b；Edovald & Nevill, 2021, p. 54）。指南硬性规定：试验的主要学业产出指标严禁采用开发者或评估团队自编的非标准化测验，必须选用具有广泛[[External Validity|外部效度]]、与英格兰国家关键考试（GCSE 或[[National Pupil Database|国家学生数据库]]（NPD）核心统考成绩）高度相关的全国商业标准化测验或官方行政统考，并严格排查[[Floor and Ceiling Effects|天花板效应]]与地板效应。这一制度安排从源头上锁死了通过定制贴合干预内容的近端测验来人为推高效应量的投机空间。
 
 ---
 
@@ -394,8 +395,8 @@ updated: 2026-09-15
 > [!concept-lens] 术语的[[Construct Validity|构念效度]]
 > 同一术语在不同研究中可能涵盖实质不同的干预实践，使效应量的跨研究聚合失去意义。
 
-> [!claim] [[Argument_Higgins_2016_RE|Higgins (2016)]]
-> [[Argument_Higgins_2016_RE|Higgins (2016, pp.37–38)]]以"[[Homework|家庭作业]]"为例：五岁儿童带书回家与父母共读、在家背单词、在"作业俱乐部"中做作业、为课堂做预习阅读、为考试背乘法表、在家完成考试课程作业——这些是否都是同一回事？如果合并所有这些研究得出"作业有效"，这并不意味着作业总是有效的。元分析聚合的不是同一种干预，而是同一标签下的不同实践。
+> [!claim] [[Argument_Higgins_2016_ROE|Higgins (2016)]]
+> [[Argument_Higgins_2016_ROE|Higgins (2016, pp.37–38)]]以"[[Homework|家庭作业]]"为例：五岁儿童带书回家与父母共读、在家背单词、在"作业俱乐部"中做作业、为课堂做预习阅读、为考试背乘法表、在家完成考试课程作业——这些是否都是同一回事？如果合并所有这些研究得出"作业有效"，这并不意味着作业总是有效的。元分析聚合的不是同一种干预，而是同一标签下的不同实践。
 
 ---
 
@@ -425,7 +426,7 @@ updated: 2026-09-15
 ### 实践者解释
 
 > [!evidence-grid-a] 实践者解释案例
-> - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 效应量和[[Statistical Significance|统计显著性]]必须与成本、实施、用户体验和地方语境一起解释。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 效应量和[[Statistical Significance|统计显著性]]必须与成本、实施、用户体验和地方语境一起解释。
 
 ---
 

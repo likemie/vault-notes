@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-13
+updated: 2026-09-16
 ---
 
 # Home Visiting Evidence of Effectiveness
@@ -98,8 +98,9 @@ updated: 2026-09-13
 ## 在 1,359 个教育项目库中的实证表现
 
 > [!stat-cards]- HomVEE 样本表现
-> - **53 个** 处理早期儿童认知发展与就学准备结果的家访干预项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])
-> - **高技术一致性** 在方法学审查上高度严密，其对单项 [[Randomised Controlled Trials|RCT]] 和 [[Regression Discontinuity Design|RDD]] 的[[Internal Validity|内部效度]]打分与 [[What Works Clearinghouse|WWC]] 展现出极高的一致性，但因其模型聚焦于家访模式，与纯学校课堂教学项目重叠度较低。
+> - **53** 处理早期儿童认知发展与就学准备结果的家访干预项目数量（个）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])
+
+在方法学审查上高度严密，其对单项 [[Randomised Controlled Trials|RCT]] 和 [[Regression Discontinuity Design|RDD]] 的[[Internal Validity|内部效度]]打分与 [[What Works Clearinghouse|WWC]] 展现出极高的一致性，但因其模型聚焦于家访模式，与纯学校课堂教学项目重叠度较低。
 
 ---
 

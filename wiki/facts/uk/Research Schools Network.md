@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
+  - "[[Difference-in-Differences]]"
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -64,11 +65,11 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ECNUROE]]"
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Research Schools Network
@@ -137,12 +138,12 @@ updated: 2026-09-15
 > [!indicators]- 规模覆盖与网络指标
 > - **实体网络规模** 布局全英格兰近 40 所领头研究学校，下设数十个“研究学习网络”（Research Learning Networks, RLNs），培训并认证数百名教育证据带头人（ELEs）。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]
 > - **学校触达广度** 在机会区等教育生态脆弱学区，直接触达并深度支持逾 1,000 所中小学校。
-> - **学术与治理定位** 在 [[OECD]] [[Knowledge Mediation|知识中介]]分类与欧洲证据基础设施研究中，被公认为基础教育领域最大规模的校际去中心化中介网络典范。[[Argument_Pellegrini_2021_ROE|(Pellegrini & Vivanet, 2021, p. 32)]]
+> - **学术与治理定位** 在 [[OECD]] [[Knowledge Mediation|知识中介]]分类与欧洲证据基础设施研究中，被公认为基础教育领域最大规模的校际去中心化中介网络典范。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, p. 32)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **突破单向供给的“同伴中介”[[Paradigm|范式]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 指出，教育中介若仅停留在象牙塔极易异化；RSN 证实最有效的中介往往由一线教育同行充当，共享的职业文化与微观现实感极大地化解了教师面对外部研究时的抵触情绪与[[Evidence Backlash|证据反弹]]。
 > - **平衡标准化证据与情境化[[Professional Judgment|专业判断]]** RSN 不搞一刀切的机械套用，而是指导教师理解证据背后的核心机制（Active Ingredients），在校本情境中开展适应性微调，护持了教师的[[Professional Judgment|专业判断力]]与[[Phronesis|实践智慧]]。
-> - **[[Teaching Assistant|助教]]配置区域推广达成终极学业显著增益** 深度参与南西约克郡助教指南推广战役，经英国财政研究所（IFS）双重差分评估证实，参与学校 11 岁学童在全国统考（KS2）阅读与数学测试中获得数个月的显著学业进展。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 157)]]
+> - **[[Teaching Assistant|助教]]配置区域推广达成终极学业显著增益** 深度参与南西约克郡助教指南推广战役，经英国财政研究所（IFS）[[Difference-in-Differences|双重差分]]评估证实，参与学校 11 岁学童在全国统考（KS2）阅读与数学测试中获得数个月的显著学业进展。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 157)]]
 
 > [!stat-cards]- 核心规模数据
 > 覆盖英格兰近 40 所研究学校、设立数十个区域研究学习网络、培训认证数百名教育证据带头人（ELEs）、间接辐射英格兰数千所公立中小学校。
