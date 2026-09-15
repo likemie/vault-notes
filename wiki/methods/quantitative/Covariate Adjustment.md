@@ -9,6 +9,10 @@ summary: "在统计与因果推断模型中纳入基线预测变量以减少混�
 type: method
 method_type: quantitative
 method_family: "quantitative"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/covariate-adjustment
   - method/quantitative

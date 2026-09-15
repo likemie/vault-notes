@@ -9,10 +9,10 @@ aliases:
 summary: "教育实验研究与循证政策评估中对照组接受的常规教学与既有实践状态，作为检验干预净效应的反事实基准，本身具备动态与高专业水准特征而非被动安慰剂。"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - research-methodology
   - experimental-design

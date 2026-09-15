@@ -10,6 +10,10 @@ summary: "循证教育研究中用于评估干预方案在高度理想化、严�
 type: method
 method_type: quantitative
 method_family: "quantitative"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/efficacy-trial
   - method/quantitative

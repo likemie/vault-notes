@@ -10,6 +10,10 @@ summary: "循证教育研究中用于评估干预方案在日常、真实复杂�
 type: method
 method_type: quantitative
 method_family: "quantitative"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/effectiveness-trial
   - method/quantitative
