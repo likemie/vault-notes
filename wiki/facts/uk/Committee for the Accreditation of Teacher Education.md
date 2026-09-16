@@ -3,7 +3,8 @@ title: Committee for the Accreditation of Teacher Education
 aliases:
   - CATE
   - 教师教育认证委员会
-summary: "1984年英国保守党政府设立的教师教育认证机制，将教师教育从学科基础转向课堂技能和能力导向的教师训练。"
+  - Council for the Accreditation of Teacher Education
+summary: "1984年英国保守党政府设立的教师教育认证机构，依据HMI督导证据对培训提供方进行认证，标志着英格兰教师教育显性循证治理的制度起点。"
 type: fact
 subtype: organization
 region: uk
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: '2026-08-27'
+updated: 2026-09-16
 ---
 
 # Committee for the Accreditation of Teacher Education
@@ -39,18 +40,19 @@ updated: '2026-08-27'
 ## 背景
 
 > [!info] 背景
-> 1967 年以后，英国教育社会学在初始教师教育中经历短暂扩张，教育社会学文凭和硕士课程培养了一批 [[New Sociology of Education|NSE]] 学者、同行者和批评者。教师教育中的“教育学科”通常仍包含社会学内容，这为 [[New Sociology of Education]] 的传播提供了课程和职业空间([[Argument_Ball_2008_SR|Ball, 2008, pp.658-659]])。
+> 1967 年以后，英国教育社会学在初始教师教育中经历短暂扩张，教育社会学文凭和硕士课程培养了一批 [[New Sociology of Education|NSE]] 学者、同行者和批评者。教师教育中的“教育学科”通常仍包含社会学内容，这为 [[New Sociology of Education]] 的传播提供了课程和职业空间([[Argument_Ball_2008_SR|Ball, 2008, pp.658-659]])。1983 年，英国教育部在白皮书《教学质量》（*Teaching Quality*）中首次提出建立国家层面的教师教育认证机制，推动教师教育向循证与能力导向转型。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 91)]]
 
 ## 政策文本摘要
 
 > [!abstract] 政策摘要
-> Committee for the Accreditation of Teacher Education（CATE）是 1984 年英国保守党政府设立的教师教育认证机制。它将以学科基础为核心的教师教育，替换为以课堂技能和能力为中心的教师训练版本；除心理学的一些元素外，教育社会学和其他教育基础学科被视为对未来实践者无关，甚至具有政治危险性([[Argument_Ball_2008_SR|Ball, 2008, p.659]])。
+> Committee / Council for the Accreditation of Teacher Education（CATE）是 1984 年英国保守党政府设立的教师教育认证机构。其被指示与英国皇家督学署（Her Majesty's Inspectorate, HMI）密切合作，依据督导检查获取的实证信息与证据对教师培训机构的办学资质进行认证评估。这被认为是英格兰教师教育领域首次出现明确以证据为导向的官方决策机制，同时也加速了从学科基础向课堂技能和能力导向的转变。[[Argument_Ball_2008_SR|(Ball, 2008, p. 659)]]；[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
 
 ## 时间线
 
 > [!note]- 时间线
 > - 1967 年以后：教育社会学在初始教师教育中扩张，相关课程为 [[New Sociology of Education|NSE]] 的传播提供受众和职业结构([[Argument_Ball_2008_SR|Ball, 2008, pp.658-659]])。
-> - 1984 年：英国保守党政府设立 CATE，推动教师教育从学科基础转向课堂技能和能力导向([[Argument_Ball_2008_SR|Ball, 2008, p.659]])。
+> - 1983 年：英国政府发布白皮书《教学质量》（*Teaching Quality*），提出设立 CATE 的政策设想。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 91)]]
+> - 1984 年：英国保守党政府正式设立 CATE，以 HMI 督导证据为基础对培训机构进行资质认证，推动教师教育从学科基础转向课堂技能和能力导向。[[Argument_Ball_2008_SR|(Ball, 2008, p. 659)]]；[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
 
 ## 实施情况
 

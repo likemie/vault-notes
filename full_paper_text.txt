@@ -1,0 +1,791 @@
+Number of pages: 20
+=== PAGE 1 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+1 
+ 
+From an age of measurement to an evidence era?  Policy-making in 
+teacher education in England 
+Jo B. Helgetuna * & Ian Menterb 
+aGIRSEF, UC Louvain, Louvain la Neuve, Belgium 
+b Department of Education, University of Oxford, Oxford, UK 
+*Corresponding author.  
+Institute for the Analysis of Change in Contemporary and Historical Societies UC Louvain, Place Montesque 1, 
+bte L2.08.04, 1348 Louvain la Neuve, Belgium.  
+Email: jo.helgetun@uclouvain.be  
+ 
+Jo B. Helgetun, is Doctoral Research Fellow at the University of Louvain. His current research focuses on the 
+national trajectories of education policy reform and their embeddedness in the global education policy field, 
+particularly teacher education policy in England and France. While his past work was on the new governance of 
+Educational Research, comparing trajectories, turns and transformations in the United Kingdom, Germany, and 
+Norway.  
+ 
+Ian Menter, is Professor Emeritus of Teacher Education at the University of Oxford and a Senior Research 
+Associate at Kazan Federal University, Russia. His current research focuses on knowledge production, policy 
+issues, and practices in teacher education, as well as the labour market for teachers and teacher’s work. He is a 
+former president of both BERA (2013-15) and SERA (2005-07) 
+ 
+ 
+Abstract: 
+The Department for Education (DfE) in England1 seeks to determine the actions of 
+educationists in both the public and private sectors through the use of targeted instructive 
+documents and white papers where broader policy intention are presented. Since 2010, as we will 
+show, there has been a shift in the nature of such papers towards justification with ‘evidence’ and 
+transparency through referencing in a ‘scientific’ style, with ramifications for both how policy is 
+justified and the contestation of practices in education. This leads us to suggest that we are in an 
+‘evidence era’ where a dominant rationalized myth centres on the use of ‘evidence’ to justify 
+practice. Meanwhile, how ‘evidence’ is constructed as research is undertaken, and how it is 
+transformed as it enters a political environment, are important questions that are often overlooked. 
+In this text, we analyse the change in ‘evidence’ practices before and after 2010, consider why the 
+practices changed, and infer the effects the changes have had on the wider education environment.  
+Keywords: Evidence, Policy, Teacher Education, New Public Management 
+ 
+                                                           
+1 As education is a devolved matter in the United Kingdom, even though we are talking of a Department (and 
+cabinet ministry) in the Parliament of Westminster, the policies of the Department for Education only applies 
+to England.  
+=== PAGE 2 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+2 
+ 
+Introduction 
+In this paper, we consider the case of education policymaking in England, particularly relating 
+to teacher education.  We are interested in the processes of policy making, in particular what Bowe 
+and Ball (1992) called the 'context of influence'.  How is evidence of various different forms (including 
+research) used by policymakers?  Who and how do particular actors have an influence on the 
+processes?  How are processes of influence changing not least in the era of ‘new media’ such as blogs 
+or the twittersphere? 
+The time period in which we are especially interested is that following the emergence of the 
+Coalition Government in the UK, in 2010, and the apparent upsurge of commitment to 'evidence 
+based policymaking'.  This had certainly been foreshadowed by a discussion on the value, impact, 
+and quality of much educational research in the 1990s and particularly the New Labour governments' 
+emphasis on ‘what works’ after 1997 (Gardner, 2011; Whitty, 2006), as well as the use of evidence 
+(Clegg, 2005), but appeared to take on new forms after 2010 as we discuss further below.  It is 
+perhaps no coincidence that this also developed at the same time as greatly increased interest in 
+'evidence-based teaching', which is now more colloquially called ‘evidence-based practice’2. We 
+extend and build on criticism of ‘evidence’ in its current form (e.g. Biesta, 2009; Malone and Hogan, 
+2019; Steiner-Khamsi, Karseth and Baek 2019), by articulating ‘evidence’ as a rationalized myth, by 
+focusing on policymaking and the governing of teacher education, and by providing empirical insights 
+into recent changes in the role and use of ‘evidence’ in English teacher education policymaking. As 
+such, we aim to contribute both to a general discussion on the use of scientific evidence in policy, 
+and to the specific context of ‘evidence’ in teacher education in England. 
+In short, through this paper we argue that we are now in an ‘evidence era’, where actions are 
+justified through a language shrouded in talk of research, data, and best practice. If measurement 
+usually relates to quantitative large scale data and related instrumentation, evidence is a much 
+broader term that encompasses different forms of “research shows” types of argumentation that lay 
+claim to a form of rational legitimacy, that is distinguished from argumentation rooted in broader 
+value driven normative, philosophical, and purpose inclusive discourse in teacher education. 
+Measurement continues to be important - we are not arguing that it has disappeared.  However, a 
+broader concept of evidence is now the dominant feature of the prevailing educational discourse in 
+England.  “Evidence” has connotations rooted in clues, observations, and experience that can be 
+applied to other contexts, shifting how public discourse may be undertaken and problematized (see 
+Tröhler 2014 on the importance of connotations). Hence, under an “evidence” paradigm 
+                                                           
+2 'Evidence-based practice' was a term furiously debated in England by Martyn Hammersley and David 
+Hargreaves during the first decade of this century - see Hammersley, 2007. 
+=== PAGE 3 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+3 
+ 
+disentangling what we may call scientific evidence rooted in good research practices from politically 
+constructed evidence rooted in dogmatic ideology and popular ideation becomes a critical 
+endeavour. Here we limit ourselves to the place and use of evidence in teacher education 
+policymaking, thus, we look at the use of ‘evidence’3 in policy and practice, and what the internal 
+discourse on evidence-based policy seems to be, then discuss this in light of current practices and 
+norms in both academia and the wider teacher education environment.  This discussion in turn raises 
+important questions about the ontology/ies and epistemology/ies of the research that is being used 
+as ‘evidence’, but yet are rarely explicitly articulated. 
+Importantly, as Lesley Saunders (2007) points out, it is the responsibility of politicians and 
+policymakers to make value decisions and develop practices using evidence. This argument can be 
+seen in relation to how any form of ‘good’ education and what we ought to do in education, what 
+‘evidence’ attempts to denote, relates to purpose and values (Biesta 2009), while the democratic 
+legitimacy of policymakers is arguably greater than that of an academic, which is of importance if we 
+acknowledge that policy is by its nature very much based on social appropriateness not pure 
+consequentiality (Campbell 2002). 
+We are drawn to Sayers' (2010) epistemological concept of "adequate knowledge", Scott's 
+(2013) views on the importance of using comprehensive frameworks in theorization, as well as 
+adherence to the importance of triangulation and scepticism to observations (e.g. King et al. 1994; 
+George & Bennett 2005; Checkel 2007; Tansey 2007). However, this article is not concerned with 
+academic discussions on "good research", rather we limit ourselves to call for robustness in 
+adherence to methodology and scientific rigour in the extrapolation of evidence from observations, 
+and the transformation from research to application in policy. Scientific rigour is important in all 
+forms of research, from anthropological ethnographic accounts and interviews in sociology to 
+randomised control trials. What we are concerned with in this paper is the seeming lack of attention 
+from some researchers, influential bloggers, and policy-makers to coherence between methodology, 
+analysis, and conclusions, while acknowledging how and where normative concerns and observer 
+bias might also be at play.  
+We begin by defining some key uses of ‘evidence’, specifically ‘evidence’ as a rationalized 
+myth centred on New Public Management, and ‘evidence’ as a cultural-cognition embedded and 
+taken for granted in policy processes today - certainly in England and possibly elsewhere - before 
+                                                           
+3 We should note that due to the many meanings of the word ‘evidence’ depending on who uses it and in what 
+context, we here consequently use quotation marks to denote that it is a fluid, unfixed, concept that we do not 
+attempt to pin down. 
+=== PAGE 4 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+4 
+ 
+discussing briefly our methodology and presenting some empirical findings to underpin the 
+arguments that are then presented.  
+ 
+Rationalized myths: New Public Management ideations and policy 
+Institutions and institutionalised environments, such as the public policy environment, 
+encourage conformity towards dominant ‘rationalized myths’ of perceived optimal behaviour 
+(Schriewer, 2012). Rationalized myths arise when past behaviour is perceived to have yielded 
+desirable results (Pierson and Skocpol, 2002) or when a practice has become so ingrained in daily 
+routines that it is taken for granted and provides culturally supported legitimacy to existing 
+behaviour (Scott, 2013). Hence, once a perceived ‘best practice’ has become dominant, and 
+sufficiently taken for granted as ‘good’, it arguably becomes a myth that constrains actors and tends 
+to ossify (through mimesis) the environment. Central in English policymaking is the ‘myth’ of 
+economic rationality, outputs and outcomes being seen only in relation to and measured against 
+inputs, and the importance of targets to establish ‘value for money’.  Later in the paper we discuss 
+how this myth developed in the aftermath of the second world war, but more recently the myth may 
+be seen as having made a significant contribution to ‘New Public Management’ (NPM) reforms (Ball, 
+2008; Keraudren, 1999). At the heart of the NPM discourse, we find the centrality of ‘evidence’ to 
+establish what works and what constitutes ‘best practice’.  
+ A further reading of the existing literature also supports the creation of an ‘evidence’ centred 
+myth in education. Through what has been coined 'governing by numbers' (Rose, 1991; Ozga, 2009), 
+a new form of government control over social policy related to ‘audit-cultures’ has arguably 
+emerged, legitimizing the government's control through large scale data collection (Graf, 2009; 
+LeTendre. 2018), and arguably bringing in an ‘age of measurement’ in education (Biesta, 2009). 
+However, we would argue that the evidence era, at present, is also distinct from a mere age of 
+measurement, or an audit-culture, as it goes beyond that, involving a whole range of efforts to justify 
+policy in terms of ‘evidence’, for example through referencing what works elsewhere (Chung, Atkin, 
+& Moore, 2012; Chung, 2016), through comparisons with medical research (Goldacre, 2013; 
+McKnight & Morgan, 2019) or through aspirations for Randomised Control Trials such as those 
+favoured by the Education Endowment Foundation to become the basis of policy (Menter, 2013; 
+Gale, 2018).  
+In teacher education, we suggest that the origin of this myth can be traced to the creation of 
+the Council for the Accreditation of Teacher Education (CATE), that was instructed to work with Her 
+Majesty’s Inspectorate (HMI) and base decisions on information from HMI inspections upon its 
+=== PAGE 5 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+5 
+ 
+creation in 1984 (Childs and Menter, 2013). To our knowledge, this is the first official iteration of 
+explicit evidence-guided decisions in teacher education. 
+Furthermore, we may argue the audit culture has in part led to ‘self-referral’ as a central 
+characteristic of the English education policy environment, including in teacher education, where the 
+system looks to internal data furthering existing trends.  Increasingly, more data internal to the 
+system are collected, and referred to as the evidence base of new decisions. This works through the 
+establishment of ‘best practice’ within the system in the form of OFSTED rankings of teacher 
+education providers, the use of internal reviews of the system to identify 'what works' and what does 
+not (e.g the 2014/15 Carter review – see Mutton, Burn, and Menter, 2016), and a peer-to-peer 
+system of teacher education improvement for  School Centred Initial Teacher Training (SCITT) 
+providers, recently sometimes associated with the concept of Teaching Schools. We may therefore 
+imagine that the system not only looks abroad to justify policy in a form of ‘policy-borrowing’ 
+(Steiner-Khamsi, 2012), but also increasingly inwards towards internal reviews, national censuses of 
+the teacher workforce, and inspections (Whiting, Whitty, Menter et al. 2018).  
+ Additionally, it is important to remember that even though policy is seemingly based on 
+forms of evidence, research has found it too often lacks sufficient contextualisation, particularly 
+when imported from abroad.  For example, Chung (2016) suggests that some attempts to model 
+English education on Finnish 'successes' in PISA, can lead to  'evidence-based policy-making' 
+becoming 'policy-based evidence-making' (Chung (2016)). Nor are citations and excerpts from 
+scientific research always correct or accurate representations of that research.4 Importantly, the 
+practice of ‘academic style’ citations in policy documents appeared to be much more significant 
+following the establishment of the Coalition Government in 2010. Prior to that, what ‘evidence’ was 
+behind decisions was more obscure, even though large scale projects were funded to improve both 
+policy and practice under Labour (1997-2010) (see e.g. Rickinson, Sebba and Edwards, 2011; 
+Saunders, 2007).  
+We will now present the theoretical implications of ‘evidence’ as a rationalized myth, as it 
+forms part of a cognitive framework that is both socially embedded and taken for granted in practice.  
+ 
+Possible implications of evidence as a rationalized myth 
+A first step in theorizing the implications of ‘evidence’ as a rationalized myth is to consider 
+how it forms an integral part of common beliefs and shared understandings that legitimise cognitive 
+                                                           
+4 See this 2016 (https://www.timeshighereducation.com/blog/use-misuse-and-abuse-research-education-
+white-paper accessed 15.07.2019) blog post of Professor Ian Menter for an instance of this occurring in the 
+white paper ‘Educational Excellence Everywhere’ (DfE 2016) 
+=== PAGE 6 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+6 
+ 
+expression. Although fallible and contested, the concept of a rationalized myth may be seen as an 
+integral part of a cognitive frame (Verger, Steiner-Khamsi, and Lubienski, 2017) or as a blueprint of 
+best practice (Zapp, Helgetun and Powell, 2018), in essence both denote awareness raising and 
+agenda setting through comprehensive plans of action including both perceived problems and 
+proposed solutions, while cognitive frames emphasise types of ideas that social, political and 
+economic actors may mobilise to advance their vision, cognitive blueprints are more rooted in global 
+scripts of ‘what works’. In spite of minute differences, they both constitute central carriers of 
+mimetic change (Scott 2013), that we may believe it to be a powerful tool for shaping practices and 
+bestowing legitimacy to action. These phenomena we may talk of as cultural-cognitions, that is to say 
+cognitive frames and blueprints of best practice are culturally constructed and supported, while 
+enabling cognition and legitimizing expressed thought, recognising the interdependence between 
+culture, ideation, and the ideas articulated.  
+ A second step in theorizing the significance of rationalized myths is how cultural-cognitions 
+have been found to shape norms and policies in an education environment (Marques, Powell, Zapp 
+and Biesta 2017), and in turn to be shaped by them (Zapp, Helgetun and Powell 2018). Through the 
+entwined processes of institutional change and maintenance, we note an interdependence between 
+cultural-cognitions, norms, and policies (Helgetun, Powell, and Zapp, 2018). Thus, changes in one of 
+these dimensions should reverberate across the other two, meaning policy is dependent on norms 
+and cultural-cognitions while it is also capable of shaping them.  
+Importantly, the phenomenon of selective use of ‘evidence’ as it moves from a research to a 
+policy environment has been observed elsewhere, and may be considered a general phenomenon of 
+policymaking (Steiner-Khamsi, Karseth and Baek, 2019), particularly as different sources of ‘evidence’ 
+may actually be contradictory. Moreover, looking at the concept of ‘consequentiality’, the forming of 
+action based on perceived consequence (what evidence in policy claims to do), we may note that 
+logically it is an inherent impossibility (we cannot be absolutely certain about the future (e.g. Sayer, 
+2010). Due to this uncertainty, decisions cannot be made based on a pure logic of consequentiality, 
+therefore policy decisions are by logical necessity  based on a logic of social appropriateness, what is 
+perceived as the right thing to do based on the norms regulating a particular (social) context 
+(Campbell, 2002), that can be contested in different guises. Meanwhile, if we consider that perceived 
+consequences in policy terms relate to desired outcomes, there are already elements of social 
+appropriateness present in defining what is desired, leading to a high risk of valuing what we can 
+measure in a ‘data’ paradigm (Biesta, 2009).  
+Even scientific evidence should be seen as something that can be contested and is possibly of 
+a political or socially appropriate nature (see e.g. the book ‘Science in Action’ by Bruno Latour (1987) 
+for a series of examples, or Zapp, Helgetun, and Powell (2018) on the political nature of educational 
+=== PAGE 7 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+7 
+ 
+research – or the ontological and epistemological debates often raging within the science 
+community). For example, recent work by Malone and Hogan (2019) for example attempts to push 
+for ‘evidence’ as rooted in John Dewey’s pragmatist approach to both education and research, 
+stating the importance of ‘action research’ in informing policy. Others, such as Burn and Mutton 
+(2015) emphasise the strengths of research, particularly ‘research-informed clinical practices’, in 
+teacher education, while Pamela Lomax in her 1998 BERA presidential address lamented the lack of 
+constraint in disagreement regarding research and education (Lomax, 1998). Of interest then is how 
+contestation over what constitutes ‘evidence’ and what the ‘evidence’ says, and what are the 
+outcomes from the contestation, shapes the use of ‘evidence’ in policy.   
+ Meanwhile, one of the main producers of both cultural-cognitions and contestable 
+‘evidence’, the universities (Powell, Baker and Fernandez, 2017), are in England stratified in terms of 
+quality and quantity of research output and are reported to have a ‘fear’ of appearing to be opposed 
+to government policy in education (Furlong, 2013), which may be of concern when the use of 
+research and data in policy is discussed.5 Meanwhile, historically government tended to put much 
+more emphasis on the expertise of its own bodies such as the Teacher Training Agency or OFSTED 
+than on Higher Education Institutions in questions of the professional development of teachers 
+(Bates, Gough, and Stammers, 1999), leaving room for contestation over ‘evidence’ and denying 
+academia any monopoly over research. In addition, ‘international’ actors of various kinds, such as 
+McKinsey (based in England), the OECD, the EU and UNESCO have all at different times and with 
+different goals and methods promoted different kinds of ‘evidence’ in an attempt to shape practices 
+through the promotion of what we have called cultural-cognitions in education (Ball, 2016); 
+Normand, 2017).Thus there is a range of actors with an opinion of what constitutes best practice 
+rooted in ‘evidence’. All of these actors are arguably attempting to shape policy and contest the 
+meaning of ‘evidence’.   
+ Moving beyond the production of ‘evidence’, there are also questions related to the status of 
+research as it informs policymaking. To quote Oates (2007): ‘If policy-makers and politicians are 
+encouraged to rely on knowledge generated by educational research (Davies et al. 2000; Sebba 2004) 
+they have a right to know the status of that knowledge – and I contend that this issue  
+has been grossly neglected, leading to frustration on the parts of both researchers and of those in 
+the policy community.’ (p.150). Here we see the dilemma of the status of research, but arguably also 
+                                                           
+5 An example here would be the attacks on academia by Michael Gove both as shadow Secretary of State for 
+Children, Schools and Families (2007-2010) and later Secretary of State for Education (2010-14), through terms 
+such as ‘enemies of progress’ and the ‘blob’ – see:  Adamson, Forestier, Morris, & Han 2017;Childs & Menter 
+2013) 
+=== PAGE 8 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+8 
+ 
+questions relating to both ontology and epistemology as different research findings are often taken 
+out of context and repurposed.   
+ Furthermore, there is arguably a need for intermediaries as mediators of research (Saunders 
+2007).  But we may also question how well such mediation may work and how intermediaries may 
+cause a disconnect between researchers and policymakers, and they themselves become a form of 
+central node controlling what informs policy or not. Hence, one may argue there are epistemological 
+challenges regarding the very concept of evidence-based policymaking that often go untreated, and 
+become more evident as we move from a research environment to one of policy.  
+In short, it appears as if dialogue between policymakers and researchers is far from 
+straightforward, and causes tensions in the system. Hence, any notion of research informed practice 
+or evidence based policy is likely to involve translation, that is to say the research has had its 
+meaning changed to varying degrees as new ideas come into contact with existing practices 
+(Campbell, 2004; Maroy, Pons and Dupuy, 2016), and thus altered that meaning from its original 
+state as it moves from a research environment to a political environment. 
+  
+Methodology 
+To ensure a thorough understanding of the role of evidence in English teacher education 
+policy, we conducted 20 open ended elite interviews (Aberbach and Rockman, 2002; Berry, 2002) 
+with people who had varying levels of ‘insider’ access to the policymaking process (Adamson, 
+Forestier, Morris and Han., 2017)(see annex). Additionally we undertook an in-depth reading of 46 
+central documents between 1983 (when CATE was first proposed) and 2019, related to teacher 
+education.6 The analysis was structured by a circular method of constantly moving between data 
+sources, theory, and the field to illuminate what was going on and to infer the processes of 
+policymaking in relation to the use of evidence as we triangulated between different sources of 
+information (Checkel, 2006; Flick, 2009). The policy documents were coded using MAXQDA to track 
+referencing, conduct word searches, and sort documents in accordance with type and purpose.  
+We turn now to our findings, attempting at first to establish the current practices and justify 
+the concept of an ‘evidence era’ as more than an age of measurement, while also presenting the use 
+of ‘evidence’ in teacher education policymaking. We then address the role of government in 
+controlling and shaping ‘evidence’ and the implications this has both on modes of dissemination and 
+the validity of research as it informs practice.  
+                                                           
+6 An overview of the documents analysed can be seen at https://www.teacherscareers.eu/research -material/ 
+(accessed 21.03.2020) 
+=== PAGE 9 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+9 
+ 
+Referencing and Evidence in Teacher Education policy documents 
+Since 2010, ostensibly to enhance transparency, according to a DfE civil servant we spoke 
+with (A12), there has been an increased possibility to track where the rationale for policy comes 
+from, whilst changing the contestation over how a policy is legitimized, arguably in an even more 
+evidence driven direction than before. In the 1983 White Paper ‘Teaching Quality’ (DES 1983) (which 
+foreshadowed the creation of CATE), seven references are listed, all with an internal origin.  Three 
+were committee reports, two were HMI reports, one was from The Royal Society, and one was an 
+‘internal report’. By contrast, the 2010 White Paper ‘The Importance of Teaching’ (which 
+foreshadowed the creation of School Direct and the marginalisation of higher education) had 34 such 
+references,  within the paragraphs directly related to teacher education, that come from a range of 
+sources, ranging from academics (e.g. Ehri et al. 2001) to the BBC (ICM, 2010 bbc.co.uk/news, last 
+accessed 28th June 2010.). Importantly, there was no distinction offered between what we may 
+consider research-based ‘evidence’ and non-systematic ‘evidence’, nor are questions raised of an 
+epistemological nature pertaining to the construction of the ‘evidence’ and its generalizability to the 
+English context. Of further note, in the 46 documents we analysed, the only use of traceable 
+references to where ‘evidence’ came from between 1983 and 2010 was in Circular 24/89 with five. 
+Meanwhile, all documents that we looked at between 2010 and 2019 used a high amount of 
+references to signal where ‘evidence’ came from. This is indicative of a paradigm change that pushes 
+‘evidence’ beyond measurement, especially if we look at how ‘evidence’ is presented and used in the 
+texts, as we explore below.  
+ Furthermore, as mentioned in the theoretical section above, in 2010 English policymakers 
+looked towards Finland to provide some ‘evidence’ of how to conduct teacher education. In fact, 
+Finland was mentioned nine times in the 2010 White Paper ‘The Importance of Teaching’ (DfE 2010), 
+and was employed as a central justification for proposed new initiatives surrounding research 
+informed teaching.  However, an emphasis on ‘Finnish’ style teacher education was for the most part 
+subsequently dropped due to perceived cost issues, according to our interviews, thus how well 
+thought out it was, and thereby its merit as ‘evidence’ in a major policy drive is a matter of some 
+doubt.   Beyond Finland however, there were also several references to other PISA high performing 
+countries in different policy and political documents.  For example, Singapore was mentioned 79 
+times in the House of Commons Education Committee report ‘Great teachers: attracting, training and 
+retaining the best’ (2012). 
+ Additionally, the main national sources of ‘evidence’ for policy are seemingly two-fold. One 
+centres on reviews such as the 2014 Carter Review of Initial Teacher Training (Carter 2015; DfE 2015) 
+or the round-table discussions leading up to the Early Career Framework (DfE 2019a) and 
+=== PAGE 10 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+10 
+ 
+Recruitment and Retention Strategy (DfE 2019b). The other key source appears to be data from 
+Ofsted inspections and evaluations of national data such as test and exam performance, school 
+workforce census, and other large scale data sets enabling 'governing at a distance' through the use 
+of numbers, all centred on the aforementioned logic of value for money – outputs being evaluated  
+only in relation to inputs.    
+ 
+Government and the Department for Education as gatekeepers  
+An important characteristic of teacher education policymaking in England today is that 
+government, or rather the DfE, acts as a kind of gatekeeper to policy reviews, round-tables, and 
+national dialogue on teacher education. Through our interviews, actors were of the opinion that the 
+DfE selectively chose who would conduct reviews and fact-finding missions based on perceived 
+political leanings (in favour of either school-based teacher education or university-based for 
+example), but also in some cases people who possessed skills the DfE lacked internally. Along the 
+lines outlined by Ball and Junemann (2012) in their work on networks and new governance in 
+education, this has seemingly evolved over the past few years to a system where government 
+promotes desired ‘voices’ of the profession and sector as seen through the government-established 
+Chartered College of Teaching or the Teaching Schools Council, both given central places alongside 
+‘invited’ organisations in the recent early career framework (DfE 2019a) and recruitment and 
+retention strategy (DfE 2019b). One external advisor to government we spoke with stated something 
+we found to be representative of the consensus amongst those external to the department but with 
+inside access to the policy process:  
+‘You have to work with them, you have to be part of the team, you can’t just be sitting on the 
+sidelines criticizing and complaining about everything.’ (A18). 
+Although the main view is one of cooperation, there are some who see a need to resist:  
+‘whatever policy comes out, the response is: how can we work with the politicians and never 
+standing up and say ‘no, you’re wrong.’ Because the argument and the approach is it’s better 
+to be in the room discussing, influencing where you can than standing up against nonsense. I 
+think sometimes if it’s ridiculous nonsense, you have to stand up against it.’ (A1).  
+However such resistors often find the only means is to threaten withdrawal and deal with the 
+subsequent negative news headlines (A1; A7). Perhaps this indicates both the necessity to gain 
+access, and to cooperate with government to get something done, whilst the means of resistance are 
+seemingly limited at present. One interviewee (A6) made the central observation that she could 
+=== PAGE 11 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+11 
+ 
+either put her name on a report, or see the report published without her name on it but with the 
+name of others, there was no way of pressuring government directly. This we may imagine has great 
+implications for the scientific quality of ‘evidence’ used in policymaking.   
+ 
+Policy based evidence-making: the importance of ‘how it will land’ 
+With government as a gatekeeper, actors seem more worried about how a policy will ‘land’ 
+with ministers and the DfE than with whether or not it is the best thing to do. In our interviews this 
+was stated surprisingly straightforwardly as an accepted and central part of the policy process, but 
+with implications for how this might distort the ‘evidence’ process. For instance, one government 
+advisor stated in our interview with him:  
+‘We have to see how it will land. How it will land with the politicians. So, if I had written a 
+report that was different, the government could just say: ‘Thank you very much for your 
+report.’ It would never get published.’ (A14).  
+In a sense then there is a 'bottom line', and it must be adhered to. Another advisor (A6) echoed this 
+sentiment of social appropriateness and ‘rebranding’ of observations by referring to a fact-finding 
+review the person had worked on:  
+‘It had no validity, reliability or really… You know’ 
+ but also highlighted that it was informative nonetheless and something the people involved learned 
+from even if it was anecdotal:  
+‘I personally learned quite a lot from it’  
+further mentioning how people's minds were changed throughout the process, but also pointing out  
+‘I don’t know if he realises he has changed’.  
+Thus, opinions were shaped through the fact-finding mission, even though it had no scientific rigour.  
+Still the review in question was, and is, framed in a language of ‘evidence’ and research-informed 
+policy in policy documents and policy discourse, which may also be problematic.  
+Some further nuances must be observed, one external advisor had mixed experiences 
+ranging from feeling she had to fall in line, to contributing constructively. Speaking of an early fact 
+finding mission she was part of she noted:  
+‘I definitely experienced that as they already had the outcome and were just going through 
+the processes.’ (A18).  
+=== PAGE 12 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+12 
+ 
+However, the experience on a more recent series of round tables was much more positive:  
+‘...they were genuinely listening and I tried myself to constantly play a proactive role in modelling that 
+we should be listening and build on each other’s ideas and evolve in the idea and a solution in those 
+rooms, not just saying the things that we’d always be saying.’ (A18).  
+This can arguably also be seen in how our interviewees felt there had been a shift in political 
+involvement in teacher education following the departure of Michael Gove and his strongly 
+ideologically driven approach and the subsequent appointments of Nicky Morgan (2014-16) Justine 
+Greening (2016-18), Damian Hinds (2018-19) and eventually Gavin Williamson (2019-) as Secretaries 
+of State for Education, but can also be in relation to the person ‘working with’ government rather 
+than against them as seen in the section above. In any regard, the ITT Core Content Framework, 
+published just after the end of our analysis appears to be more ‘open’ to focusing on academic 
+research. Hence, ‘how it will land’ may be dependent on the personalities and views on education of 
+the political echelon. However, regardless of political leanings the centrality of ‘evidence’ and 
+establishing value for money remains a key theme. Thus we may also infer that these concepts have 
+become somewhat taken for granted in the environment. Importantly, while there were several 
+political concerns addressed there were none regarding what the actual data can tell us, what are the 
+limits of the research, issues with methodology or lack of scientific consensus regarding what 
+generalizations can be made, how observations in one context can be applied to others, nor how 
+analyses were conducted and the limitations of findings.  These are seemingly foreign concepts. 
+Here, evidence appears to be what can we plausibly claim data supports that fits ministerial views on 
+teacher education. In other words, ‘evidence’ from national reviews was cherry picked to fit the 
+(emerging) policy. Issues of communication in the evidence era 
+So far, we have presented some evidence of problems in communicating research findings 
+directly without first ‘politicising’ them in order to ensure they ‘land’ correctly. The issue also extends 
+to how research of any kind is and can be disseminated. As an illustration we found representative of 
+the current climate, two of our interviewees (A5;A16) found they had the most influence on policy 
+through writing blogs which policy advisors occasionally read, having abandoned any notion of 
+pushing ‘pure’ academic literature on the civil-service, special policy advisers, or ministers. We also 
+found that these two respondents appeared to have had some noticeable impact on recent policy 
+discourse. In addition, one senior academic (A1) suggested, after noting that he might speak with the 
+DfE officials almost on a weekly basis, that he had no influence there:  
+ ‘...it’s not long-term stability because people change roles quite frequently and that’s the 
+frustration that when you start to engage and understand and discuss with policy makers and 
+=== PAGE 13 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+13 
+ 
+somebody’s not there anymore. All the work[] building the relationship and the 
+understanding just goes.’  
+The main concern was centred on communication. He also made the interesting observation relating 
+to how one may get a message across, echoing the mentioned emphasis on blogs with a slight twist: 
+‘I think people who have influence in policy are a small group of people who are heavily 
+involved with Twitter, and that’s quite influential, you know.’  
+Arguably, this signals issues arising from communicating research of a complex nature, particularly 
+with the rise of new forms of media and technology. No time within the policy process is actually 
+explicitly devoted to increase the understanding of issues and problems. Meanwhile, while we 
+interviewed a government employee (A19), she spoke about the influence of an article by two 
+members of Oxford University academic staff,  Burn and Mutton (2015), on clinical practices, 
+following a citation of their work in the Carter Review, but was unaware of the articles' authors, only 
+knowing of the work through intermediaries who had the ear of the DfE. By contrast, the named 
+intermediary was acquainted with the articles' authors, this perhaps being symbolic of issues in 
+communication between academia and policymakers. Word of mouth then, is more central than 
+robust scientific rigour while at the same time it is claimed policy is based on scientific evidence. We 
+should not forget that the Atlantic magazine (a news and idea magazine focused on ‘thought 
+leaders’) was also cited in the same style as peer-reviewed academic research in ‘The Importance of 
+Teaching’:  ‘Ripley, A.(2010), What makes a great teacher? The Atlantic Magazine January/ February 
+2010’ (DfE 2010).  
+ 
+Discussion  
+ In this paper, we have presented a case for teacher education as dominated by ‘evidence’ as 
+a central rationalized myth. As such, we find that ‘evidence’ has become a fully incorporated 
+rationalized myth, and share the general observations of both Verger, Steiner-Khamsi, and Lubienski 
+(2017) and Zapp, Helgetun, and Powell (2018) on the centrality of ‘evidence’ of what is claimed 
+‘works’ in the rhetoric policymakers employ to justify their political approaches. Even though it is not 
+readily possible, from an epistemological standpoint, to observe when a myth is created and 
+rationalized, what we have observed is its increasing presence in public life. The evidence myth in 
+England seems to have developed from the earlier myth of measurement during the New Labour 
+years, and to have come to fruition during the early Gove years (as far as teacher education is 
+concerned). The indicators of this myth are the obsessions over measured value for money, and a 
+scientification of public discourse where 'evidence' takes the place of moral or philosophical thought.  
+=== PAGE 14 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+14 
+ 
+As such, we may infer that the myth relates to NPM and bears has some continuity with an observed 
+scientification or even  medicalization of society following World War Two (see Tröhler 2014). Thus, 
+we may argue the current iteration of evidence as a rationalized myth originates with new politico-
+administrative thinking in the 1940s, and a gradual articulation through a period of medicalization 
+and measurement into evidence as the heart of public discourse on teacher education. 
+We have observed that there seem to have been a move towards justification of policy not only in 
+terms of "large scale data" but also of "what works elsewhere" such as references to Singapore and 
+Finland.  Our point is that "evidence" is a broader and more apt term than measurement because 
+new forms of justification of policy seemingly rooted in both research and empirical observations as 
+well as in reflective argumentation on education, which goes beyond large scale measuring, can be 
+observed. Therefore, we believe that the term 'evidence era' has become more apt than 'age of 
+measurement' to indicate how even though large-scale data uses are still central, they are not alone, 
+and require new forms of problematization. 
+In that regard, we have argued that, at present, the role of ‘evidence’ in policymaking has moved the 
+environment from an age of measurement to an ‘evidence era’. Furthermore, we have showed how 
+‘evidence’ has become a tool of government to justify policy, but also to grant speaking rights to 
+selected actors whom ministers deem to have the right ideological leanings. This takes place under a 
+tight central control with ‘evidence’ translated through an emphasis on how it will be received by 
+politicians and the general public, not through any academic notions of rigour, robustness or 
+reliability. Moreover, we have noted a lack of epistemological discourses in the ‘evidence’ project as 
+findings move from a research environment to a political one7.  
+Our ideas on the need to separate politics and science as concepts in order to avoid falling into a trap 
+of “technological solutions to life’s-problems”, and to think long and hard about what and how 
+science may inform policy are not new. Max Weber expressed similar concerns in his lectures on 
+Science as a Vocation in 1917 and Politics as a Vocation in 1921 (Weber 2004). However, what has 
+changed is the context, that has arguably undergone several stages of change both in terms of 
+evidence production (it is by no means the exclusive domain of the research university) and in terms 
+                                                           
+7 We should note that after completing our analysis for this article, the DfE published a paper setting out an 'ITT 
+Core Content Framework' which was written by a working group including at least two leading education 
+academics.  This document is unusual in including as an appendix an extensive list of research references which 
+apparently underpin each section of the document (DfE, 2019).  ‘A full bibliography is provided with suggested 
+reading, which can be shared with trainee teachers to support their critical engagement with research. This 
+evidence includes high-quality reviews and syntheses, including meta-analyses and rigorous individual studies.’ 
+(p.4) This provides yet more evidence of the evidence era we are outlining in our paper! Once more, it arguably 
+is a continuation of a weak trend first observed in the recruitment and retention strategy, where key actors in 
+the education sector promote and justify government policy by granting their ‘seal of approval’ 
+=== PAGE 15 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+15 
+ 
+of policy construction and political discourse. As Weber pointed out, a researcher is lucky if his/her 
+theories hold after 10, 20, or 50 years (Weber 2004), thus we must constantly re-evaluate old claims, 
+particularly as the context changes. Moreover, we must ensure the context of one policy area is 
+similar to another. What we have argued in this paper is that, in line with wider shifts in public policy, 
+there has been a shift in teacher education, and that this has some distinctive features, particularly 
+when the sequence of events is considered. To draw a comparison, school education arguably 
+became centralised through standards and inspections from 1988 onwards (Alexander 2001), 
+whereas by contrast, teacher education became centralised through inspections and demands of 
+evidence relating to a provider's fitness to educate as early as 1984 (Barton et al. 1993). Teacher 
+education and education are intertwined domains, but also distinct in their particular details and 
+contexts. Thus, this paper should be understood as relating mainly to the context of teacher 
+education policy. To follow our own advice on denoting epistemological limitations, we argue that 
+this may inform a general understanding of public policy, but that the details of the case only pertain 
+to teacher education policymaking. To return to Weber, "To ascribe a unified national character to 
+the Englishmen of the seventeenth century would be simply to falsify history." ... "On the other hand, 
+a difference of character between the English merchant adventurers and the old Hanseatic 
+merchants is not to be found." (Weber 2003[1952] p.44). In other words, we must generalize only 
+with attention (scientific rigour) as to what we may generalize and how, regardless of the source of 
+information.  
+ Other researchers have pointed out that the goal of research is to use evidence to investigate 
+phenomena, but that conducting research on something is not the same as advocating it (Wiseman, 
+Astiz and Baker, 2014). Meanwhile, research is also (arguably) fundamentally about uncovering 
+something and learning/enhancing our knowledge, not normative prescription tout-court. It is indeed 
+our view that  politicians and policymakers have a responsibility to make value decisions and develop 
+practices using evidence. This view is based on the idea of education as a social good within 
+democratic societies. Therefore, we assert that the evidence which is used should relate the purpose 
+and values of education (Biesta 2009).  Thus, the democratic legitimacy of policymakers is arguably 
+greater than that of researchers or academics, which is of importance if we acknowledge that policy 
+is by its nature based on social appropriateness not pure consequentiality. Furthermore, we should, 
+as Robin Alexander (2001) argues, likely not assume academics are any more objective than 
+administrators and politicians. Therefore, producers of research should perhaps not ‘pre-translate’ 
+‘evidence’ to ensure it ‘lands’ with the ministers, but rather provide as accurate an estimate of what 
+the current state of the evidence may or may not inform. Hence, when discussing ‘evidence’ one 
+should likely be more careful with what is said and how, bearing in mind that policymakers should 
+=== PAGE 16 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+16 
+ 
+know the limits of research (Saunders, 2007), and that ‘evidence’ can have wider ramifications as 
+cultural-cognitions transform practices (Scott, 2013).  
+Moreover, one may discuss whether perhaps thinking of ‘evidence’ as internal or external 
+can be misleading, as whether or not justification for practice comes from within the English teacher 
+education system or not is not the only contextual sin that may be committed as ‘evidence’ informs 
+practice. At the very least, discussions should be had regarding what evidence has bearing on 
+causation, what is a descriptive account, and what is early 'soaking and poking' at the frontiers of 
+science (George and Bennett, 2005).  Important in this regard, we believe coherent logic should 
+extend from the start of evidence production (a coherent logic of the research process from 
+inception to observation to analysis) to application (evidence informed policy continuing with the 
+same logic), if not the full research process from inception to application cannot be considered 
+robust, regardless of the validity of each individual step. Epistemologically speaking, this form of 
+coherence must be applied for any research, be it done by academics, civil-servants, teachers, or 
+journalists, if the goal is to separate episteme from doxa and to construct valid evidence for 
+informing any practice. The epistemological limitations relating to generalization and application of 
+results from singular RCTs for example ought to be adhered to. 
+The importance of having scientific rigour in mind when using ‘evidence’ to inform practice 
+does however move beyond the incorporation of academic texts in DfE policy documents. It also 
+implies a responsibility of other actors, be it bloggers, twitterers, or journalists, to ensure they do not 
+use ‘evidence’ to promote an ideology, but rather use it to change their ideology. Central then is an 
+acceptance to look beyond dogma, to be critical and sceptical, but not for the sake of being critical 
+and holding government to account, but to help inform government of ‘evidence’. Therefore, if 
+academics must cooperate with government to have an impact, they should do so but with vigour, 
+rigour, and epistemological clarity, not just to stand up to nonsense, but to identify what is nonsense, 
+how is it nonsense, and how can we avoid it. Meanwhile, if the way to be heard is through blogs and 
+twitter, then universities should likely encourage staff to be more active in these new media, and use 
+them to take control over the important concept that is Evidence.  
+ 
+Funding details: The project leading to this article has received funding from the European Research 
+Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant 
+agreement No 714641) 
+Acknowledgements: The authors would like to thank the TeachersCareers team for insightful 
+discussions and helpful advice during the analysis. We would particularly like to thank Katharine Burn 
+=== PAGE 17 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+17 
+ 
+(University of Oxford) for her help in identifying and obtaining documents for the analysis, as well as 
+Tore Sørensen and Xavier Dumay (UC Louvain) for their comments and feedback on drafts of this 
+paper.  We would also like to thank our interviewees for sharing their time with us and providing 
+valuable insights.   
+ 
+ 
+References 
+Aberbach, J. D., & Rockman, B. A. (2002). Conducting and Coding Elite Interviews. PS: Political Science 
+and Politics, 35(4), 673-676.  
+Adamson, B., Forestier, K., Morris, P., & Han, C. (2017). PISA, policymaking and political pantomime: 
+education policy referencing between England and Hong Kong. Comparative Education, 
+53(2), 192-208. doi:10.1080/03050068.2017.1294666 
+Alexander, R. J. (2001). Culture & Pedagogy: International comparisons in primary educationOxford: 
+Blackwell. 
+Ball, S. J. (2008). The education debate. Bristol: the policy press university of Bristol. 
+Ball, S. J. (2016). Following policy: networks, network ethnography and education policy mobilities. 
+Journal of Education Policy, 31(5), 549-566. doi:10.1080/02680939.2015.1122232 
+Ball, S.J. and Junemann, C. (2012) Networks, New Governance and Education. Bristol: Policy Press. 
+Barton, L., A. Pollard and G. Whitty (1993). Change in teacher education: the case of England. In T. 
+Popkewitz (Ed.) Changing Patterns of Power: Social Regulation and Teacher Education 
+Reform. New York, State University of New York Press: 303-341. 
+Bates, T., Gough, B., & Stammers, P. (1999). The role of central government and its agencies in the 
+continuing professional development of teachers: an evaluation of recent changes in its 
+financing in England. Journal of In-Service Education, 25(2), 321-335. 
+doi:10.1080/13674589900200086 
+Berry, J. M. (2002). Validity and Reliability Issues in Elite Interviewing. PS: Political Science and 
+Politics, 35(4), 679-682.  
+Biesta, G. (2009). Good education in an age of measurement: on the need to reconnect with the 
+question of purpose in education. Educational Assessment, Evaluation and Accountability, 
+21(1), 33-46. doi:10.1007/s11092-008-9064-9 
+Bowe, R., & Ball, S. J. (1992). Reforming Education and Changing Schools. London: Routledge. 
+Burn, K., & Mutton, T. (2015). A review of ‘research-informed clinical practice’ in Initial Teacher 
+Education. Oxford Review of Education, 41(2), 217-233. 
+doi:10.1080/03054985.2015.1020104 
+Campbell, J. L. (2002). Ideas, Politics, and Public Policy. Annual Review of Sociology, 28(1), 21-38. 
+doi:10.1146/annurev.soc.28.110601.141111 
+Campbell, J. L. (2004). Institutional change and globalization. Princeton, New Yersey: Princeton 
+University Press. 
+Checkel, J. T. (2006). Tracing Causal Mechanisms. International Studies Review, 8(2), 362-370. 
+doi:https://doi.org/10.1111/j.1468-2486.2006.00598_2.x 
+Childs, A., & Menter, I. (2013). Teacher education in 21st century England. A case study in neoliberal 
+public policy. Revista Española de Educación Comparada, 22, 93-116.  
+Chung, J. (2016). The (mis)use of the Finnish teacher education model: ‘policy-based evidence-
+making’? Educational Research, 58(2), 207-219. doi:10.1080/00131881.2016.1167485 
+=== PAGE 18 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+18 
+ 
+Chung, J., Atkin, C., & Moore, J. (2012). The rise and fall of the MTL: an example of European policy 
+borrowing. European Journal of Teacher Education, 35(3), 259-274. 
+doi:10.1080/02619768.2011.633996 
+Flick, U. (2009). An introduction to qualitative research (4th ed.). Los Angeles: Sage. 
+Furlong, J. (2013). Education - An anatomy of the discipline: Rescuing the university project? London 
+and New York: Routledge. 
+Gale, T. (2018) 'What's not to like about RCTs in education?' In Childs, A. & Menter, I. (Eds.) 
+Mobilising Teacher Researchers.  London: Routledge. 
+Gardner, J. (2011). Educational research: what (a) to do about impact! British Educational Research 
+Journal, 37(4), 543-561. doi:10.1080/01411926.2011.596321 
+George, A. L., & Bennett, A. (2005). Case studies and theory development in the social sciences. 
+Cambridge, Massachusetts and London, England: MIT press. 
+Goldacre, B. (2013) Building Evidence into Education. Available online: 
+http://media.education.gov.uk/assets/files/pdf/b/ben%20goldacre%20paper.pdf 
+Graf, L. (2009). Applying the Varieties of Capitalism Approach to Higher Education: comparing the 
+internationalisation of German and British universities. European Journal of Education, 44(4), 
+569-585. 
+Hammersley, M. (Ed.) (2007) Educational Research and Evidence-based Pracice. London: Sage.  
+Helgetun, J. B., Powell, J. J. W., & Zapp, M. (2018). Governing Educational Research in Norway: 
+coercion, cooperation or consensus? In M. Zapp, M. Marques, & J. J. W. Powell (Eds.), 
+European Educational Research (Re)Constructed: institutional change in Germany, the United 
+Kingdom, Norway, and the European Union (pp. 91-111). Oxford, England: Symposium Books. 
+Keraudren, P. (1999). Entre nouveau management public et gouvernance : les spécificités de la 
+réforme de l’administration centrale en Grande Bretagne. Politique et Management Public, 
+17(1), 59-92.  
+LeTendre, G. K. (2018). Neo-institutional Theory, Education Policy and Teachers. Paper presented at 
+the ECER, Bolzano, Italy.  
+Lomax, P. (1998) ‘Working together for educative community through research.’ BERA presidential addresses. 
+Available at: https://www.bera.ac.uk/publication/1998-pamela-lomax-bera-presidential-
+address (Accessed 14.11.2019) 
+Malone, A., & Hogan, P. (2019). Evidence and its consequences in educational research. British 
+Educational Research Journal. doi:10.1002/berj.3580 
+Maroy, C., Pons, X., & Dupuy, C. (2016). Vernacular globalisations: neo-statist accountability policies 
+in France and Quebec education. Journal of Education Policy, 32(1), 100-122. 
+doi:10.1080/02680939.2016.1239841 
+Marques, M., Powell, J. J. W., Zapp, M., & Biesta, G. (2017). How does research evaluation impact 
+educational research? Exploring intended and unintended consequences of research 
+assessment in the United Kingdom, 1986–2014. European Educational Research Journal, 
+16(6), 820-842. doi:10.1177/1474904117730159 
+McKnight, L. & Morgan, A. (2019) A broken paradigm? What education needs to learn from evidence-
+based medicine.Journal of Education Policy. doi: 10.1080/02680939.2019.1578902. 
+Menter, I. (2013). From interesting times to critical times? Teacher education and educational 
+research in England. Research in Teacher Education, 3(1), 38-40.  
+Mutton, T., Burn, K., & Menter, I. (2016). Deconstructing the Carter Review: competing conceptions 
+of quality in England’s ‘school-led’ system of initial teacher education. Journal of Education 
+Policy, 32(1), 14-33. doi:10.1080/02680939.2016.1214751 
+Normand, R. (2017). The Changing Epistemic Governance of European Education: The Fabrication of 
+the Homo Academicus Europeanus? : Springer. 
+Ozga, J. (2009). Governing education through data in England: from regulation to self-evaluation. 
+Journal of Education Policy, 24(2), 149-162. doi:10.1080/02680930902733121 
+Pierson, P., & Skocpol, T. (2002). Historical institutionalism in contemporary political science. In K. I. 
+& H. V. Milner (Eds.), Political Science: State of the Discipline. New York: W. W. Norton. 
+=== PAGE 19 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+19 
+ 
+Powell, J. J. W., Baker, D. P., & Fernandez, F. (2017). The Century of Science: The Global Triumph of 
+the Research University (Vol. 33). Howard House, Wagon Lane, Bingley BD16 1WA, UK: 
+Emerald Publishing Limited. 
+Rickinson, M., Sebb, J., & Edwards, A. (2011). Improving Research through User Engagement. London 
+& New York: Routledge. 
+Rose, N. (1991). Governing by numbers: figuring out democracy. Accounting Organizations and 
+SocieQ, 16(7), 673-692.  
+Saunders, L. (Ed.) (2007). Educational Research and Policy-Making: Exploring the Border Country 
+Between Research and Policy. London & New York: Routledge. 
+Sayer, A. (2010). Method in Social Science: a realist approach (2nd ed.). London & New York: 
+Routledge. 
+Schriewer, J. (2012). EDITORIAL: Meaning constellations in the world society. Comparative Education, 
+48(4), 411-422. doi:10.1080/03050068.2012.737233 
+Scott, W. R. (2013). Institutions and Organizations: ideas, interests, and identities (4th ed.). Los 
+Angeles: Sage. 
+Steiner-Khamsi, G. (2012). Understanding Policy Borrowing and Lending: Building comparative policy 
+studies. In G. steiner-Khamsi & F. Waldow (Eds.), World Yearbook of Education 2012: Policy 
+Borrowing and Lending in Education (pp. 3-18). London and New York: Routledge. 
+Steiner-Khamsi, G., Karseth, B., & Baek, C. (2019). From science to politics: commissioned reports and 
+their political translation into White Papers. Journal of Education Policy, 1-26. 
+doi:10.1080/02680939.2019.1656289 
+Tröhler, D. (2014). The medicalization of current educational research and its effects on education 
+policy and school reforms. Discourse: Studies in the Cultural Politics of Education 36(5): 749-
+764. 
+Verger, A., Steiner-Khamsi, G., & Lubienski, C. (2017). The emerging global education industry: 
+analysing market-making in education through market sociology. Globalisation, Societies and 
+Education, 15(3), 325-340. doi:10.1080/14767724.2017.1330141 
+Weber, M. (2003[1958]). The protestant ethic and the spirit of capitalism. Online, Dover. 
+Weber, M. (2004 [1917/1919]). The vocation lectures: science as a vocation, politics as a vocation. 
+Indianapolis, Indiana, Hackett Publishing Company, Inc. . 
+Whiting, C., G. Whitty, I. Menter, P. Black, J. Hordern, A. Parfitt, K. Reynolds and N. Sorensen (2018). 
+Diversity and complexity: Becoming a teacher in England in 2015-2016. Review of Education 
+6(1): 69-96. 
+Whitty, G. (2006). Education(al) research and education policy making: is conflict inevitable? British 
+Educational Research Journal, 32(2), 159-176. doi:10.1080/01411920600568919 
+Wiseman, A. W., Astiz, M. F., & Baker, D. P. (2014). Comparative education research framed by neo-
+institutional theory: a review of diverse approaches and conflicting assumptions. Compare: A 
+Journal of Comparative and International Education, 44(5), 688-709. 
+doi:10.1080/03057925.2013.800783 
+Zapp, M., Helgetun, J. B., & Powell, J. J. W. (2018). (Re)shaping educational research through 
+‘programmification’: Institutional expansion, change, and translation in Norway. European 
+Journal of Education, 53(2), 202-217. doi:10.1111/ejed.12267 
+ 
+Annex: 
+List of Interview subjects: 
+A 1: Senior academic, Russell Group university 
+A2: Academic Russell Group university 
+A3: ITT interest group organization representative, former TTA, external government advisor 
+=== PAGE 20 ===
+  From an age of measurement to an evidence era?   JBH, IM  
+20 
+ 
+A4: ITT interest group organization representative, former head of teacher education in a SCITT, 
+external government advisor 
+A5: Local councillor and analyst 
+A6: Senior academic, post-92 university, external government advisor 
+A7 Senior Civil servant, DfE 
+A8: State employee working on education 
+A9: Interest organization employee 
+A10: Researcher in education 
+A11: Head of a MAT and SCITT, works with the teaching schools alliance 
+A12: Senior civil servant, DfE – former TDA 
+A13: Senior civil servant, DfE – former TDA 
+A14: Head of a MAT and SCITT, external government adviser 
+A15: Researcher in education 
+A16: Academic, government adviser 
+A17: Senior academic, Russell Group, involved in British teacher education policy 
+A18: Responsible for ITT and CPD at a major MAT, former Teach First employee 
+A19: Civil servant, DfE 
+A20: Union policy adviser 
+ 

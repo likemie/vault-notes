@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Helgetun_2022_JEP",
+      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
+    },
+    {
       "basename": "Argument_Hattie_2005_ACER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Using Data Intervention",
       "path": "wiki/facts/us/Using Data Intervention.md"
-    },
-    {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
     }
   ],
   "omittedPaths": [],

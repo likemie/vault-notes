@@ -101,7 +101,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Critique of Evidence-Based Education
@@ -140,6 +140,7 @@ updated: 2026-09-14
 > - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），并识别 agency 作为核心哲学分歧([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])
 > - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性；Wrigley & McCusker 论证证据本位教学（Evidence-Based Teaching，EBT）的"科学"宣称基于过分简化的民间科学观；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的
 > - **2019** — Qvortrup 在 NordSTEP 发表 [[Visible Learning|VL]] 辩护讨论论文，提出"观察透镜"[[Epistemology|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]）
+> - **2022** — Helgetun & Menter 在 *JEP* 提出教育治理已从测量时代迈入[[Evidence Era|证据时代]]，批判政策白皮书中的学术引文与国际借用背后存在[[Policy-Based Evidence-Making|基于政策的证据制造]]与适宜性逻辑。([[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022]])
 
 ---
 

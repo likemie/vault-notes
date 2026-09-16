@@ -3834,6 +3834,15 @@
     ]
   },
   {
+    "title": "Evidence Era",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence Era.md",
+    "aliases": [
+      "证据时代",
+      "证据时代假说"
+    ]
+  },
+  {
     "title": "Evidence Standards",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evidence Standards.md",
@@ -4216,6 +4225,18 @@
       "异质治理",
       "idea orchestration",
       "理念编排"
+    ]
+  },
+  {
+    "title": "Policy-Based Evidence-Making",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy-Based Evidence-Making.md",
+    "aliases": [
+      "基于政策的证据制造",
+      "政策导向的证据制造",
+      "逆向证据生产",
+      "PBEM",
+      "policy-based evidence making"
     ]
   },
   {
@@ -9306,6 +9327,17 @@
     ]
   },
   {
+    "title": "Rationalized Myth",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Rationalized Myth.md",
+    "aliases": [
+      "合理化神话",
+      "制度神话",
+      "rationalised myth",
+      "rationalized myths"
+    ]
+  },
+  {
     "title": "School Choice",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/School Choice.md",
@@ -13028,6 +13060,18 @@
       "领域分析",
       "domain-level analysis",
       "象征范畴分析"
+    ]
+  },
+  {
+    "title": "Elite Interview",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Elite Interview.md",
+    "aliases": [
+      "精英访谈",
+      "高层访谈",
+      "关键知情人访谈",
+      "elite interviewing",
+      "elite interview method"
     ]
   },
   {
@@ -17663,6 +17707,15 @@
     ]
   },
   {
+    "title": "Ian Menter",
+    "type": "person",
+    "path": "wiki/persons/uk/Ian Menter.md",
+    "aliases": [
+      "伊恩·门特",
+      "Menter, I."
+    ]
+  },
+  {
     "title": "Jeremy Rappleye",
     "type": "person",
     "path": "wiki/persons/uk/Jeremy Rappleye.md",
@@ -21855,12 +21908,24 @@
     ]
   },
   {
+    "title": "Chartered College of Teaching",
+    "type": "fact",
+    "path": "wiki/facts/uk/Chartered College of Teaching.md",
+    "aliases": [
+      "特许教学学院",
+      "英国特许教学学院",
+      "英国特许教师学院",
+      "CCOT"
+    ]
+  },
+  {
     "title": "Committee for the Accreditation of Teacher Education",
     "type": "fact",
     "path": "wiki/facts/uk/Committee for the Accreditation of Teacher Education.md",
     "aliases": [
       "CATE",
-      "教师教育认证委员会"
+      "教师教育认证委员会",
+      "Council for the Accreditation of Teacher Education"
     ]
   },
   {
@@ -22115,6 +22180,17 @@
       "英国社会学协会视觉研究伦理声明",
       "BSA visual research ethics statement",
       "2006 BSA ethical statement"
+    ]
+  },
+  {
+    "title": "Carter Review of Initial Teacher Training",
+    "type": "fact",
+    "path": "wiki/facts/uk/Carter Review of Initial Teacher Training.md",
+    "aliases": [
+      "Carter Review",
+      "卡特审查",
+      "卡特报告",
+      "卡特初始教师培训审查"
     ]
   },
   {
@@ -24616,6 +24692,11 @@
     "title": "Argument_Blass_2020_JESP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Education & Social Policy/Argument_Blass_2020_JESP.md"
+  },
+  {
+    "title": "Argument_Helgetun_2022_JEP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
   },
   {
     "title": "Argument_Simpson_2017_JEP",
