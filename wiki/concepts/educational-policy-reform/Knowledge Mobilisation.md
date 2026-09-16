@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Data Literacy]]"
   - "[[Formative Assessment]]"
+  - "[[Professional Learning Community]]"
   - "[[Research Translation]]"
   - "[[Paradigm Wars]]"
   - "[[Technical Rationality]]"
@@ -86,6 +87,7 @@ related_arguments:
   - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Gorard_2020_ROE]]"
@@ -93,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Knowledge Mobilisation
@@ -217,6 +219,7 @@ updated: 2026-09-15
 > - **稳定的专项中介资助** 设立独立于短期学术竞争课题的长期动员与转译基金。
 > - **跨专业共同体文化** 打破象牙塔与中小学阶层区隔，培育平等对话的探究规范。
 > - **情境自适应评估反馈** 引入[[Formative Assessment|形成性评估]]与过程追踪，替代机械的结果指标问责。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
+> - **双轨动员通道协同（Formal vs Informal Channels）** 校内知识动员依赖正式制度（全员专业发展与包容性教研共同体）与非正式信任网络（日常同伴交流）的深度互补；若缺乏正式分享论坛的有力支撑，[[Professional Learning Community|专业学习共同体]]（PLCs）极易退化为少数骨干的孤立“任务小组”（isolated task forces），无法撬动全校层面的深度知识动员。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125)]]
 
 > [!exegesis]- 实践理解与应用示例
 > 1. **加拿大安大略 [[Knowledge Network for Applied Education Research|KNAER]] 全系统网络** 安大略省应用教育研究知识网络（KNAER）由政府教育部、多伦多大学 OISE 与西安大略大学联合发起，吸纳学区与教师工会参与；通过多年协同攻关，针对数学教学与多元文化教育研发专门转译工具包，并派遣[[Boundary Spanner|跨界中介者]]入校支持，将全省规模的学术[[Research Translation|研究转化]]为一线教师日常备课活动。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
@@ -293,13 +296,14 @@ updated: 2026-09-15
 
 在真实的教育生态中，学术期刊论文的直接辐射范围极为有限，证据流动高度依附于非正式同行网络与跨界中介通道。
 
-> [!claim] Cooper et al. (2017); [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]]
-> **同行网络主导与中介者转译** 无论在微观课堂评估领域还是宏观学校改进中，一线教师获取实践信息的最主要渠道是同行专业网络，对[[Practice-Based Evidence|实践本位证据]]的信赖度显著高于原始学术报告。学术期刊的直接辐射力有限，知识流动高度依托学校中层领导者、教研员、工会与专业中介机构扮演跨界中介角色，在组织间建立转译与连接的社会资本通道。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
+> [!claim] Cooper et al. (2017); [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]]; [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]]
+> **同行网络主导与中介者转译** 无论在微观课堂评估领域还是宏观学校改进中，一线教师获取实践信息的最主要渠道是同行专业网络，对[[Practice-Based Evidence|实践本位证据]]的信赖度显著高于原始学术报告。学术期刊的直接辐射力有限，知识流动高度依托学校中层领导者、教研员、工会与专业中介机构扮演跨界中介角色，在组织间建立转译与连接的社会资本通道。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]; [[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125)]]
 
 > [!finding-cards] 一线教育现场证据流动渠道之实证结论
 > 1. **一线同行网络占据主渠道** 教师在日常教学与课堂评估改进中，最首要的信息搜寻与采纳渠道是校内及校际同行，对实践本位经验的信赖度显著高于学术[[Document|文献]]。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 > 2. **原始学术期刊直接辐射极其有限** 跨国[[Systematic Review|系统综述]]证实正式同行评议期刊是实践者使用频率最低的渠道，去情境化文本存在天然壁垒。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 14)]]
 > 3. **[[Boundary Spanner|跨界中介者]]承担社会资本桥接功能** 证据流动高度依赖中层领导、教研员与专业中介机构扮演跨界中介角色，在学术与实践界域间建立转译与信任通道。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
+> 4. **非正式信任同伴主导与孤立小组风险** 教师主要向“值得信赖的亲密同行”（trusted peers）寻求证据解释（82% 教师经常非正式讨论教学）；若缺乏全员包容性正式分享结构，教研共同体易退化为少数人的孤立小组，阻碍全校规模化动员。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125, 129)]]
 
 ---
 
@@ -361,7 +365,7 @@ updated: 2026-09-15
 > |---|---|---|---|
 > | **社会共创** | 知识动员为多方协作共创的迭代社会过程，非线性技术输出 | 伙伴关系构建、跨界对话 | Campbell et al. (2017); [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] |
 > | **双向能力** | 动员瓶颈源于研究生产者与使用者的双向能力赤字 | 跨界素养培训、分析性立场确立 | Carrier (2017); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
-> | **网络中介** | 证据流动高度依托同行网络与跨界中介，实践证据优先 | 中介平台运营、教研网络建设 | Cooper et al. (2017); [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] |
+> | **网络中介** | 证据流动高度依托同行网络与跨界中介，实践证据优先 | 中介平台运营、教研网络建设 | Cooper et al. (2017); [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]]; [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] |
 > | **系统整合** | 知识动员须由机械实施转向以能动性为核心的跨层整合 | 全系统政策设计、治理机制改革 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **嵌套演进** | 知识动员经历线性、关系至系统模型的嵌套演进与生态协同 | 代际政策诊断、全系统使能 | Best & Holmes (2010); [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] |
 > | **工程化转化** | 单纯改写与被动中介无法实质促进行为改变，唯有将证据工程化封装为工件与法定要求才能实现因果成效 | [[Evidence-Based Education\|循证教育]]工具设计、法定教育拨款门槛 | [[Stephen Gorard]]; [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] |
@@ -378,6 +382,7 @@ updated: 2026-09-15
 > - **2010s — 知识动员概念兴起与全系统实践** 加拿大社会科学与人文研究理事会（SSHRC）倡导 KMb；安大略省建立 [[Knowledge Network for Applied Education Research|KNAER]] 网络，开创全系统多方协作[[Paradigm|范式]]。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 > - **2015 — 北欧学校改进中的知识动员实践** [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 KMb 引入斯堪的纳维亚 [[Visible Learning]] 改革，阐明证据进入课堂必须依赖教师协作与反思重组。
 > - **2017 — 知识动员四类核心策略系统化** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 在特刊中提炼出沟通传播、能力建设、伙伴关系与系统化方法四类策略及三位一体法则。
+> - **2018 — 学校内部知识动员通道与信任同伴网络机制** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 基于英格兰 79 所小学基线调查，揭示校内知识动员对非正式同伴网络的高度依附（82% 教师常态化向同伴交流），指出领导者必须建立包容性正式分享结构以防止[[Professional Learning Community|专业学习共同体]]退化为孤立小组。
 > - **2021 — 欧洲非处方化[[Knowledge Mediation|知识中介]]网络** [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] 总结欧盟教育政策，展示跨国中介机构如何以非强制性方式促进知识共享与评价文化建设。
 > - **2022 — 跨国政策调查与[[Evidence Ecosystem|证据生态系统]]治理** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，构建涵盖结构、关系、质量、文化与能力的五维动员框架，揭示学术考核体制与[[Knowledge Co-production|知识共创]]的深层制度断裂。
 > - **2022 — 跨领域动员模型类型学与下一代生态路径** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 系统比照卫生、公共治理与教育领域主流知识动员模型（Lavis, Graham, Levin, Gough），提炼出构件交互由孤立管道向双层嵌套生态演进、行动者由一维标签向多维功能复合体演进的双重轨迹；批评既有模型普遍缺失终极目标的缺陷，确立了以学生和教师专业学习为崇高目标基准的下一代生态建构路径。
@@ -413,6 +418,7 @@ updated: 2026-09-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] | 英格兰 79 所小学，696 名在职教职员工 | 基于四要素量表的横断面基线调查 | 校内知识动员正式与非正式渠道指标 | 82% 教师经常与同伴非正式讨论教学实践 vs 61% 缺乏正式跨团队分享论坛、52% 缺乏[[Document\|文献]]研读时间 | — | 实证揭示校内知识动员对非正式同伴网络的重度依赖与正式分享结构的制度性匮乏（pp. 129–131） |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻行为 | 调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道与偏好 | 教师主要从其他一线教师获取信息，实践[[Research Utilization\|证据使用]]远超原始学术研究 | — | 证实一线同行网络在证据流动中的决定性地位 |
 > | 同上 转述 Campbell et al. | 加拿大安大略省 [[Knowledge Network for Applied Education Research\|KNAER]] 知识动员网络 | 全系统[[Case Study\|案例研究]] | 动员初始阶段的主要能力障碍 | 证据生产者与使用者均普遍存在动员能力短板 | — | 提出优质产品、伙伴关系与全系统能力建设三位一体法则 |
 > | 同上 转述 CUREE (2011) | 英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]] 教师专业发展[[Systematic Review\|系统综述]] | [[Systematic Review\|系统综述]] | 实践者深度参与研究的常态化程度 | 实践者参与研究日益普及并具潜在益处，但实现常态化依然进展缓慢 | — | 单[[Blue Skies Research\|纯研究]]供给无法自发形成全行业循证文化 |
@@ -426,6 +432,7 @@ updated: 2026-09-15
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
+> - **[[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]]** 揭示校内知识动员对非正式同伴网络的高度依附，指出领导者必须通过建立包容性正式分享结构，防止[[Professional Learning Community|专业学习共同体]]退化为孤立小组。
 > - **[[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]** 系统构建知识动员四类核心推进策略，总结安大略 [[Knowledge Network for Applied Education Research|KNAER]] 全系统伙伴关系与三位一体法则。
 > - **[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]** 将知识动员应用于北欧 [[Visible Learning]] 学校改进，揭示能力建设、同行研讨与组织支持对证据转化的决定性作用。
 > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 结合 [[OECD]] 29 国 37 个教育系统政策调查，构建知识流动三代嵌套模型与五维[[Analytic Framework|分析框架]]，揭示学术考核体制与[[Knowledge Co-production|知识共创]]的深层断裂。

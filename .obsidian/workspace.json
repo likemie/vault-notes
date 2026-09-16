@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md",
+                "file": "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Brown_Greany_2018_LPS"
+              "title": "Knowledge Mobilisation"
             }
           }
         ],
@@ -247,12 +247,14 @@
   },
   "active": "3e17d8b5a663e069",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md",
+    "wiki/concepts/educational-policy-reform/Research Utilization.md",
+    "wiki/facts/uk/Research Learning Communities.md",
     "tmp_adjust.py",
     "tmp_fix_all.py",
     "tmp_res.py",
     "tmp_siss.py",
     "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md",
-    "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md",
     "wiki/concepts/educational-policy-reform/Research-Engaged School.md",
     "wiki/concepts/educational-policy-reform/Self-Improving School System.md",
     "tmp_fix.py",
@@ -280,9 +282,7 @@
     "wiki/facts/uk/Research in Schools Evaluation.md",
     "wiki/concepts/research-methodology/Primary and Secondary Documents.md",
     "wiki/facts/us/Using Data Intervention.md",
-    "wiki/facts/uk/Research Learning Communities.md",
     "scripts/__pycache__/wiki_index.cpython-313.pyc",
-    "scripts/__pycache__/vault_index.cpython-313.pyc",
     "books/Revai(Ed.)_2022_OECD/figures/Figure_9-1_Quality_Use_of_Research_Evidence_framework.jpg",
     "books/Revai(Ed.)_2022_OECD/figures/Figure_7-1_Evidence_ecosystem.jpg",
     "books/Revai(Ed.)_2022_OECD/figures/Figure_5-5_Presence_of_coordinating_mechanisms_of_research_production.jpg",

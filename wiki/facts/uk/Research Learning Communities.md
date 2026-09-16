@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Hypothesis]]"
   - "[[Analytical Stance]]"
+  - "[[Dialogue in Education]]"
   - "[[Peer-Supported Learning]]"
   - "[[Reliability]]"
   - "[[Document]]"
@@ -95,11 +96,17 @@ updated: 2026-09-16
 
 > [!policy-design]- 方案设计
 > - **项目目标** 培育教师的[[Analytical Stance|批判性分析立场]]与[[Research Literacy|研究素养]]，打破校际孤岛，建立跨校知识共享与循证教学文化。
-> - **参与架构** 结对学校协同参与，每所学校选派 2 名“证据带头人”（Evidence Champions，通常为学科骨干教师）与 1 名校级领导（校长或副校长）组成三人攻关组，统筹学术转译与校内资源协调。
-> - **外部协调支架** 由大学研究者担任外部协调员（Facilitator），提供经过提炼转译的学术成果综述、分析协议与课堂实验设计模板。
+> - **参与架构与集群规模** 采取校际集群研讨机制，干预组 60 所小学被划分为 10 个 RLC 集群（每组 5–6 所学校），每校选派 2 名“证据带头人”（Evidence Champions，学科骨干）与 1 名校级领导（校长或副校长）组成三人攻关组，统筹学术转译与校内资源协调。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 126)]]
+> - **外部协调支架** 由大学研究者担任外部协调员（Facilitators），在两年项目期内每学年主持 4 次全天跨校工作坊（共 8 次），提供经过提炼转译的学术成果综述、分析协议与课堂实验设计模板。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 126)]]
 > - **实施控制** 采用[[Network Analysis|社会网络分析]]（SNA）与[[Longitudinal Study|纵向调查]]量表追踪信息流动态势，监测研究证据在教师人际网络中的扩散深度。
 
-> [!proc] RLC 四阶段跨校研修流程
+> [!proc] RLC 三步“学习[[Dialogue in Education|对话]]”与四阶段跨校研修流程
+> 工作坊围绕三步“学习对话”（Learning Conversations）探究循环展开，促使外部显性证据与教师默会知识深度碰撞：[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 126)]]
+> 1. **审视与重构（Review & Reframe）** 交互研读学术转译简报，挑战并反思既有实践惯性与认知假设；
+> 2. **设计与试验（Design & Trial）** 结对合作，将研究通则转化为适配本校真实学情的微型课堂教学干预并开展试验；
+> 3. **评估与反思（Evaluate & Reflect）** 多视角搜集学生证据与课堂反馈，评估教学干预成效并迭代优化。
+>
+> 每学年四次工作坊具体推进步骤如下：
 > 1. **研讨一：审视学术证据与明确需求** 结对学校团队聚焦特定教学主题，在大学研究者引导下研读经过转译的实证研究总结，结合本校经验深化对理论因果机制的理解。
 > 2. **研讨二：共同开发校本干预方案** 跨校探讨如何将通用研究通则适配于本校具体情境，合作设计可操作、微型的课堂教学改进方案与配套评价工具。
 > 3. **研讨三：试点反馈与方案优化** 证据带头人在本班率先试点教学方案，并在第三次工作坊中分享初步实施数据、学生反馈与卡点，集体复盘并修订方案。
@@ -115,7 +122,7 @@ updated: 2026-09-16
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 推进历程
-> - **2014 年 10 月 — 基线调查刻画学校准备状态** 项目在干预开始前以四因素 14 题[[Questionnaire|问卷]]对 79 所小学施测，共回收 797 份应答、696 份纳入分析；结果显示学校在评价项目或实践的正式流程、讨论影响关键决策的潜在[[Hypothesis|假设]]以及正式分享论坛三处准备最为薄弱。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 127–132)]]
+> - **2014 年 10 月 — 基线调查刻画学校准备状态** 项目在干预开始前以四因素 14 题[[Questionnaire|问卷]]对 79 所小学施测，共回收 797 份应答、696 份纳入分析；全部 60 所 RLC 学校均积极响应（53.3% 的学校问卷回收率超过 80%，其中 13 所达到 100% 回收率）。结果显示学校普遍具有高度的研究认同感（76%–86%），但在评价项目或实践的正式流程（67% 无）、讨论影响关键决策的潜在[[Hypothesis|假设]]（55% 无）以及正式分享论坛（61% 无）三处准备最为薄弱。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 127–132)]]
 > - **2014–2015 — 理论奠基与小范围试点** 布朗在伦敦大学学院确立 RLC 概念框架与操作手册，联合英格兰南部部分学区开展原型测试。
 > - **2015–2016 — [[Education Endowment Foundation|EEF]] 资助大规模试点与[[Network Analysis|网络分析]]** 在英格兰小学展开系统干预，通过社会网络分析（SNA）与前[[Pre-test and Post-test|后测]]问卷，系统评估教师[[Research Literacy|研究素养]]与专业网络密度的动态跃升。
 > - **2017 — 布里斯托大学独立 [[Randomised Controlled Trials|RCT]] 评估发布** 由布里斯托大学领衔执行的独立随机对照试验发布终期报告（Rose et al., 2017），直接追踪 119 所小学 5,462 名学生的客观阅读成绩，发现对学生终考成绩提升净值为零（$ES = -0.03$）。[[Gorard's Trustworthiness Sieve|戈拉德可信度筛子]]将其评定为 3 级（★★★，良好因果可[[Reliability|信度]]）。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 592–593)]]
@@ -142,9 +149,9 @@ updated: 2026-09-16
 > - **缺乏前置学情诊断易致“热门话题”偏差** 实践同样暴露了孤立推行 [[Research-Informed Teaching Practice|RITP]] 的内在缺陷：由于未事先进行校内真实数据诊断，学校容易将精力投入学术流行或政策倡导的“热门话题”（hot topics），导致方案看似先进却脱离学校真实学情痛点。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 164–165)]]
 
 > [!stat-cards]- 核心实证数据
-> - **43** 试点首期覆盖的英格兰小学数量（所）。[[Argument_Brown_2017_ER|(Brown et al., 2017, p. 161)]]
+> - **114 / 60** 项目初始招募学校与 RLC 干预组小学数量（所），划分成 10 个跨校集群。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 126)]]
 > - **2 / 1** 每校由证据带头人与校领导构成的攻关小组人数（名）。
-> - **4** 全学年开展的半天跨校结构化工作坊次数（次）。
+> - **4 / 8** 每学年全天跨校工作坊场次（次）与两年总干预场次。
 > - **119 / 60 / 59** 布里斯托独立 [[Randomised Controlled Trials|RCT]] 覆盖的英格兰小学、干预组与对照组小学数量（所），追踪 5,462 名小学生。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 592)]]
 > - **$ES = -0.03$** 终期全国统考阅读成绩效应量。
 
