@@ -34,7 +34,7 @@ Total entries: **66**
 > - [[Epistemic and Ontological Cognition Questionnaire]] — 用于测量学生认识论和本体论认知（EOC）的多维问卷，区分简单与确定知识、权威辩护、个人辩护三个维度，并针对数学和历史学科提供平行题目。
 > - [[Epistemological Understanding Assessment]] — 由 Deanna Kuhn 及其团队（2000）开发的一套包含 15 个题项的评估工具，用于测量个体在五个不同判断领域（个人品味、审美、价值观、社会事实、物理事实）中的认识论发展阶段（绝对论、多元论、评价论）。
 > - [[National Survey of Student Engagement]] — 由乔治·库（George Kuh）领衔、印第安纳大学高等教育研究中心常态化运营的全美标志性大学生体验调查，涵盖高级学习、反思性与整合性学习等核心分量表，是全球数十个国家学生投入调查的直接蓝本。
-> - [[Research Learning Communities Baseline Survey Questionnaire]] — 研究学习共同体（RLC）项目在英格兰 79 所小学实施的基线调查问卷，围绕参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四个因素共 14 道题，采用五级李克特量表，用于在干预开始前刻画学校推进证据知情自我改进的准备状态。
+> - [[Research Learning Communities Baseline Survey Questionnaire]] — 研究学习共同体（RLC）项目在英格兰 79 所小学实施的基线调查问卷，围绕参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四个因素共 14 道题，采用五级李克特量表，用于在干预开始前刻画学校推进证据知情自我改进的准备状态并诊断组织制度性短板。
 > - [[Schommer's Modified Epistemological Questionnaire]] — 由 Schommer 针对中学生群体修订的认识论信念自陈问卷，用于评估个体在能力本质、学习速度、知识结构与知识确定性等维度的认识论信念特征。
 > - [[Strengthening the Impact of Education Research Policy Survey]] — OECD 教育研究与创新中心（CERI）在 SIER 项目下开发的宏观系统级政策调查问卷，涵盖政策利用、实践促成与学术生产三大板块，通过多维矩阵打分与质性开放题，全面测度 29 国 37 个教育系统的研究动员生态、行动者网络、促成机制与制度障碍。
 > - [[Views of Nature of Science Questionnaire]] — 由 Lederman 等人开发的用于评估学生对科学本质（NOS）七个核心维度理解水平的开放式问卷工具，通常结合访谈使用。
