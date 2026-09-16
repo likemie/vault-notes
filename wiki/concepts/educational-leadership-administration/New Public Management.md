@@ -2,180 +2,146 @@
 title: New Public Management
 aliases:
   - 新公共管理
-summary: "以企业管理逻辑重塑公共部门的改革浪潮，强调绩效标准、产出控制、供给竞争和管理问责。"
+  - NPM
+  - 新公共管理主义
+summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争与管理问责"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 24
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 tags:
-- new-public-management
-- paradigm/neoliberal
-- region/global
-- level/higher-ed
+  - new-public-management
+  - governance
+  - neoliberalism
+  - educational-leadership-administration
 related_concepts:
-  - "[[Public-Private Partnership in Research]]"
-  - "[[Doxa]]"
-  - "[[Performativity of Measurement]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[School Autonomy]]"
-  - "[[School Leadership]]"
-  - "[[Internationalization of Higher Education]]"
-  - "[[International Education]]"
-  - "[[Competitiveness]]"
+  - "[[Paradigm]]"
+  - "[[School Inspection]]"
+  - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
+  - "[[Doxa]]"
+  - "[[Public-Private Partnership in Research]]"
   - "[[Champ]]"
-  - "[[Rationalism in International Relations]]"
+  - "[[Phronesis]]"
+  - "[[School Leadership]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Hypothesis]]"
+  - "[[Evidence Era]]"
+  - "[[Rationalized Myth]]"
+  - "[[Policy-Based Evidence-Making]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
-  - "[[Transitology]]"
-related_methods: []
-related_persons: []
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_facts:
-  - "[[OECD]]"
-  - "[[Australia in the Asian Century White Paper]]"
+  - "[[Committee for the Accreditation of Teacher Education]]"
+  - "[[PISA]]"
   - "[[Research Excellence Framework]]"
-  - "[[OECD Improving School Leadership Project]]"
-  - "[[My School Website]]"
+  - "[[Ofsted]]"
+  - "[[Carter Review of Initial Teacher Training]]"
 related_arguments:
   - "[[Argument_Møller_2017_EERJ]]"
+  - "[[Argument_Helgetun_2022_JEP]]"
   - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
-confidence: medium
+confidence: high
 status: draft
-created: '2026-05-02'
-updated: 2026-07-09
+created: 2026-05-02
+updated: 2026-09-17
+---
+
+# New Public Management
+
 ---
 
 ## 定义
 
-> [!info] 定义
-> 新公共管理（New Public Management, NPM）在教育中的应用指过去约三十年间，西方教育系统以企业管理逻辑重塑公共教育的改革浪潮。其核心特征为：绩效标准与测量、产出控制、供给竞争和管理问责实践([[Argument_Møller_2017_EERJ|Møller, 2017, pp.381–382]])。
->
-> [[Argument_Amos_2022_Springer|Amos (2022)]] 诊断 NPM 的话语已"深刻嵌入我们当前的教育结构"——效率、效能、绩效、质量保证、[[Public-Private Partnership in Research|公私合作伙伴关系]]、创业教育等术语覆盖从 K-12 到高等教育的所有层级，使其被视为[[Doxa|不言自明]]的前提([[Argument_Amos_2022_Springer|Amos, 2022, p.56]])。
->
+> [!def] 核心定义
+> 新公共管理（New Public Management, NPM）是自 20 世纪 80 年代起席卷西方公共行政与教育系统的治理改革[[Paradigm|范式]]，主张将私营部门的企业管理逻辑、市场竞争机制与投入产出核算全面引入公共部门。其核心特征包括确立量化绩效标准与基准测试、强化产出控制而非专业过程投入、推动教育机构之间的供给竞争、建立严格的管理主义问责制，以及追求严格的性价比（value for money）。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 381–382)]]；[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 89–91)]]
 
+> [!concept-lens] 概念透镜
+> - **含义** 指向以市场化、分权化与量化控制为内核的公共部门重构，将教育机构定位为自主竞争的办学主体，将学生与家长重构为教育消费者。
+> - **用途** 揭示教育政策中绩效考核、大学商业化运营、[[School Inspection|学校督导]]评级以及循证话语背后的管理主义动力学。
+> - **边界** 不等于公共服务的彻底私有化与完全放弃国家责任，而是国家通过远程[[Governing by Numbers|数字治理]]与[[Performance Indicators|绩效指标]]在准市场环境中实施间接控制。
+
+> [!citation-card] 治理话语的[[Doxa|不言自明]]化
+> 新公共管理的话语已经深刻嵌入教育结构之中：效率、效能、绩效、质量保证、[[Public-Private Partnership in Research|公私合作伙伴关系]]等术语全面覆盖基础教育与高等教育各层级，演进为[[Champ|场域]]内不言自明的前提假定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+>
+> *NPM discourses have become deeply embedded in educational structures, with efficiency, performance, and accountability naturalized as self-evident axioms.*
+
+> [!boundary]- 概念边界
+> - 不等于 内生私有化：NPM 是内生私有化的核心操作机制（将商业逻辑引入公共部门内部），但内生私有化范畴更宽，涵盖商业思维进入公共系统的全部形式。
+> - 不等于传统科层制管理：传统科层制强调行政规则遵从与程序规范，而 NPM 强调产出指标达标与结果问责。
 
 ---
 
 ## 概念辨析
 
-> [!example] 概念辨析
-> - vs 专业实践共同体话语：Møller 指出了一个悖论——[[OECD]] 同时推崇两个表面上矛盾的话语([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])：(1) 将学校从科层制转变为专业实践共同体的分布式领导建议（社区隐喻）；(2) NPM 的外部控制话语（市场隐喻）。两者并非互相替代，而是**并行运作**
-> - → [[Performativity of Measurement]] — NPM 是绩效文化的制度根源，绩效测量是 NPM 的技术手段
-> - → [[Evidence-Based Education]] — "什么有效"议程在 NPM 框架下获得额外的制度驱动力
-> - vs 内生私有化 — NPM 是内生私有化的核心操作机制（将企业管理逻辑引入公共部门内部），但内生私有化的范畴更广（涵盖私营部门思维进入公共系统的所有方式）。详见 [[Endogenous and Exogenous Privatisation#与 NPM 的关系]]
->
-
-
----
-
-## 概念演变
-
-> [!note-] 经济学起源与教育渗透
-> NPM 在教育领域的渗透经历了从经济学理论到全球治理工具的制度化过程：
->
-> - **1950s** — 经济学理论开始将知识作为生产要素讨论，知识的经济化逻辑初步形成([[Argument_Amos_2022_Springer|Amos, 2022, p.56]])
-> - **1980s–1990s** — NPM 从公共行政领域扩展至教育系统，西方各国推动[[School Autonomy|学校自主权]]、问责制和市场化改革([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])
-> - **2006** — [[OECD]] 发布 "Improving [[School Leadership]]" 报告，同时推动 NPM 问责话语和分布式领导话语——两个表面上矛盾的话语开始并行运作([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])
-> - **2011** — Eacott 论证 NSW 校长培养方案是"当代国家对公共部门管理主义干预的一部分"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])
-
-
-> [!note-] K-12 层面的运作
-> 在 K-12 系统中，NPM 表现为：合同外包与外包化、基准测试、考试成绩成为工作中心舞台、管理问责取代专业自主([[Argument_Møller_2017_EERJ|Møller, 2017, pp.381–382]])。
->
-> 标准化几乎已成为学校改革者的"咒语"，许多国家经历了日益增长的绩效文化发展趋势。一个重要后果是：NPM 改革**分散了对公平问题的注意力**，教育劣势问题倾向于被框定为**技术问题**而非权力与资源分配问题([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])。
->
-> [[Argument_Eacott_2011_JEAH|Eacott (2011)]]论证标准化校长培养方案是 NPM 干预教育的关键机制——通过学校本位规划、择优晋升、领导力能力框架和竞争性入学等结构安排，将校长身份建构为"国家启动的改革的交付者"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])。当国家测试制度（NAPLAN）、国家课程和 MySchool 网站全部建立后，"国家对教育的管理主义项目几乎完成"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.54]])。
-
-
-> [!note-] 在[[Internationalization of Higher Education|高等教育国际化]]中的运作
-> [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 记录了 NPM 在高等教育国际化中的独特运作机制。其核心发现是：**国际化本身——特别是国际学生市场的成功——成为加速 NPM 渗透的催化剂**。
->
-> 这一机制表现为一个自我强化的因果链条：
->
-> 1. 大学在招收全额付费国际学生方面取得成功 → 国际学生学费成为核心收入来源
-> 2. "政府不再感到有必要为高等教育机构提供所需的公共资金"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])
-> 3. 公共资金削减迫使大学采纳企业化运营模式：NPM 的"理念、技术和实践从企业部门被广泛引入，以使公立高等教育机构更像企业运作"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])
-> 4. 企业化运营反过来使大学更依赖国际学生市场收入 → 加固了第 1 步
->
-> 最终结果：内生私有化成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–100]])。
->
-> 此外，国际学生市场催生了一个复杂的招生基础设施——本地代理网络遍布亚洲、大量跨国项目、特许经营安排、复杂的学分衔接和双联安排——彻底改造了全球高等教育的空间架构。详见 Rizvi 论证 > 第四步。
-
-
-> [!note-] 在学术准市场中的运作
-> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]将 NPM 定位为学术领域"基于竞争的国家支出"（competition-based state spending）的核心制度形式。在高等教育中，NPM 通过准市场机制运作——政府使用标准化产出指标作为资源分配的基础——由此形成了区别于一般 NPM 的独特特征([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.801–802]])：
->
-> - **指标与拨款的制度化挂钩** 英国 [[Research Excellence Framework|Research Assessment Exercise]]（RAE，1998–2008）和 [[Research Excellence Framework]]（REF，自 2014 年起）将研究评估结果直接与 Quality-Related（QR）研究拨款绑定；德国 Excellence Initiative 将少数"卓越"大学的评选与巨额额外资助挂钩。这种挂钩将 NPM 的绩效测量逻辑从"信息反馈"升级为"分配决定"
-> - **制度化马太效应的形成** 由于评估指标偏向已有资源优势的机构（更多博士生 → 更多发表 → 更高引用 → 更高评估得分 → 更多拨款），NPM 驱动的准市场作为"制度化马太效应"运作——资源向已经拥有资源的机构进一步集中。这与 NPM 理论声称的"竞争促进效率和公平"形成了尖锐对比
-> - **市场化话语与功绩神话的共谋** NPM 的市场话语——"竞争促进卓越"——与学术界的功绩神话携手并进，共同合法化了公共资源的不平等分配。当一个未获得拨款的院系被告知"你的 REF 表现不够好"而非"你不在决策网络中"时，NPM 的评估机制为分配结果赋予了"客观"、"公正"和"基于质量"的外观。实际上，当美国公共资助者在 1960–70 年代转向同行评审作为拨款工具时，这一转变的设计目标之一就是确保"科学家对纳税人的问责"（Biagioli, 2002, p.123）
-> - **"准市场"与真正市场的差异** NPM 在学术准市场中的运作与 NPM 在其他公共服务领域（如医疗、交通）的运作有一个关键差异——学术界的产品（知识、教育）本质上抗拒完全的市场化和标准化。研究质量和教学效果无法像医院等待时间或列车准点率那样被精确测量。因此，NPM 在学术界的运作始终面临一个根本张力：它要求测量不可完全测量的东西，而测量的结果又具有真实的物质分配后果
-
+> [!contrast-table] 新公共管理与相关治理[[Paradigm|范式]]辨析
+> | 维度 | 新公共管理（New Public Management） | 传统公共行政（Public Administration） | 专业实践共同体（Communities of Practice） |
+> |---|---|---|---|
+> | **核心价值取向** | 成本效益、投入产出效率与市场竞争活力 | 规则合法性、程序正义与科层等级稳定 | 专业伦理、同行互信与民主育人目的 |
+> | **控制与评价机制** | 量化[[Performance Indicators\|绩效指标]]（KPIs）、督导评级与联盟表 | 严格行政规程审查与资历标准 | 同行质性评议与[[Phronesis\|实践智慧]]反思 |
+> | **教育行动者定位** | 绩效交付者、承包商与市场消费者 | 执行法定教学大纲的国家公务人员 | 具备自主裁量权与探究精神的专业主体 |
 
 ---
 
 ## 核心要素
 
-> [!abstract] 核心要素
-> - **绩效标准与测量** 考试成绩、基准测试、质量保证框架成为核心管理工具([[Argument_Møller_2017_EERJ|Møller, 2017, pp.381–382]])
-> - **产出控制** 以可量化的"产出"指标（毕业率、就业率、论文发表数）而非专业投入来评价教育机构
-> - **供给竞争** 学校、大学之间为生源、资金和排名竞争——在高等教育中体现为对全额付费国际学生的争夺([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])
-> - **管理问责** 管理者对"有效和高效运行"负责，专业自主被管理问责取代([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.52]];)
-> - **[[Public-Private Partnership in Research|公私合作伙伴关系]]** 公共教育机构与企业部门的深度整合——在教育国际化中表现为教育出口产业话语的兴起([[Argument_Amos_2022_Springer|Amos, 2022, p.56]];)
-- **作为竞争性治理的制度条件**Thompson 等人（2022, pp.219–220）的分析表明，NPM 所推动的绩效测量和审计文化构成了 [[Competitiveness|高等教育竞争力]] 作为地缘政治装置运作的制度条件——排名 和指标化的"描述即规定"效应之所以有效，正是因为大学已被 NPM 重塑为关注[[Performance Indicators|绩效指标]]、接受产出控制、参与市场竞争的组织形态
->
-
-
----
-
-## 理论基础
-
-> [!info] 理论基础
-> - [[Transitology]] — Cowen 的晚期现代教育双轴模型将 NPM 定位为市场驱动转型的制度操作工具：纵轴从 polis-driven 到 market-driven，核心价值从"教育机会平等"转为"内部效率与外部效能"([[Argument_Amos_2022_Springer|Amos, 2022, p.55]])
-> - [[Performativity of Measurement]] — NPM 是绩效文化的制度条件，绩效测量是 NPM 的技术手段
-> - [[Evidence-Based Education]] — "什么有效"议程在 NPM 框架下获得制度驱动力与管理合法性
->
-
+> [!feature] 新公共管理的核心治理要素
+> - **绩效标准与量化测量**
+>   将标准化考试成绩、基准测试与质量保证框架作为核心管理工具，形成贯穿全系统的[[Governing by Numbers|数字治理]]机制。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 381–382)]]
+> - **产出控制与性价比核算（Value for Money）**
+>   以可量化的产出指标（如毕业率、就业率、科研发表数）评价教育机构，将投入产出比作为资源配置的核心前提。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
+> - **准市场竞争与供给多元化**
+>   推动学校与大学之间为生源与科研经费展开竞争；在教师教育中表现为打破大学垄断，引入校本培训机构（SCITT）与学校直接培训（School Direct）等多元供给主体。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]
+> - **管理问责替代专业自主**
+>   要求[[School Leadership|学校领导]]者对高效运行承担管理责任，使校长身份演变为国家改革政令的执行交付者。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, p. 52)]]
+> - **[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）**
+>   促进公共教育机构与私营资本、商业中介及独立智库的深度整合，形成复杂的教育服务外包生态。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 
 ---
 
-## 实证发现
+## 发展脉络与演变
 
-> [!success] 实证发现
-> - 标准化几乎已成为改革者的"咒语"；绩效文化在多数国家日益增长([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382]])
-> - NPM 改革分散了对公平问题的注意力——教育劣势被框定为技术问题而非权力与资源分配问题([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])
-> - 去中心化的人员配置模式导致"难以配置人员的学校（如农村/偏远学校）变得更加难以配置人员"（Gavin & McGrath-[[Champ]], 2016, cited in Keddie et al., 2020, p.441）
-> - 家长筹资不平等呈现阶级分化：高 SES 地区学校可从家长处获得高达低 SES 地区学校四倍的收入（Rowe & Perry, 2020, cited in Keddie et al., 2020, p.441）
-> - 在高等教育领域，NPM 通过国际化市场成功而自我强化：国际学生市场收入 → 政府撤资 → 大学被迫企业化 → 更深依赖市场收入([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])
->
+> [!dev-timeline] 新公共管理在教育领域的制度化演进
+> - **1950s–1970s — 理论萌芽期**
+>   [[Human Capital Theory|人力资本理论]]与公共选择学派将知识定义为经济生产要素，确立了[[Knowledge-Based Economization|知识经济化]]与行政自利性[[Hypothesis|假设]]。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> - **1980s–1990s — 全球扩散与教育渗透**
+>   英美等国率先开启去管制化改革；1984 年英格兰成立[[Committee for the Accreditation of Teacher Education|教师教育认证委员会]]（CATE），开创依据皇家督学署（HMI）督导证据进行资质核准的显性循证治理先河。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
+> - **2000s–2010s — 审计文化与[[Governing by Numbers|数字治理]]高潮**
+>   大规模测验（如 [[PISA]]、NAPLAN）与大学[[Research Excellence Framework|研究卓越框架]]（REF）确立，绩效评估与经费拨款紧密挂钩，形成制度化马太效应。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 801–802)]]
+> - **2010s 至今 — 从测量时代迈向[[Evidence Era|证据时代]]**
+>   治理修辞从单一数据指标扩张为以科学证据、[[Randomised Controlled Trials|随机对照试验]]（RCT）与国际最佳实践为包装的主导性[[Rationalized Myth|合理化神话]]，政策制定在高度集权把关下演进为[[Policy-Based Evidence-Making|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–93)]]
 
+---
+
+## 跨学段运作机制
+
+### 1. 基础教育与校长管理主义重塑
+
+在基础教育中，NPM 表现为合同外包、基准测试与督导评级（如 [[Ofsted]]）居于中心地位。这一机制导致教育不平等被简化为技术性干预问题，遮蔽了权力与资源分配的深层结构。[[Argument_Møller_2017_EERJ|(Møller, 2017, p. 382)]]
+
+标准化校长培训项目将校长身份[[Disciplina and Doctrina|规训]]为国家管理主义项目的交付者，通过能力框架与竞争性评估消除对教育价值前提的追问。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, p. 45)]]
+
+### 2. 高等教育国际化与企业化自我强化
+
+在高等教育领域，NPM 通过国际学生市场形成自我强化的因果闭环：大学依靠国际留学生全额学费弥补财政 ➔ 政府削减公共拨款 ➔ 大学被迫加速企业化转型 ➔ 企业化运营进一步加剧对国际生源市场的依附。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–100)]]
+
+### 3. 教师教育领域的市场化分权与证据规训
+
+在教师教育领域，NPM 推动了从大学主导向中小学校本化培训的分权重构（如 SCITT、School Direct）。政府通过设立核心内容框架与[[Carter Review of Initial Teacher Training|卡特审查]]等证据规程，在分权表象下强化了国家对准入资质与教学法的远程集中监控。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–93)]]
 
 ---
 
 ## 争议与批评
 
-> [!warning] 争议与批评
-> - **民主 vs 市场的张力** 竞争与私有化话语支撑 NPM，与社会民主意识形态（公平、参与、综合教育）形成根本对立。Møller 呼吁更多了解维持"教育作为公共产品"的条件和过程([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])
-> - **领导力培养的管理主义化**[[Argument_Eacott_2011_JEAH|Eacott (2011)]]论证标准化校长培养方案将"证据本位策略"和技术-[[Rationalism in International Relations|理性主义]]框定为[[Doxa|不言自明]]的前提，消除了对"谁决定什么是重要的"和"学校成功的衡量标准由谁设定"等前提性问题的追问([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.50]])
-> - **技术化遮蔽政治性** NPM 将教育治理转化为技术管理问题，使其脱离民主审议和公共辩论——正如 [[Argument_Amos_2022_Springer|Amos (2022, p.56)]] 观察，NPM 术语的深度嵌入使其话语被视为不言自明的前提
->
-
-
----
-
-## 相关案例／政策
-
-> [!example] 相关案例／政策
-> - [[OECD Improving School Leadership Project]] — [[OECD]] 同时推动 NPM 问责话语和分布式领导话语，体现矛盾的并行运作
-> - [[My School Website]] — NPM 产出控制和公共问责的典型工具，以市场逻辑驱动学校间竞争
-> - [[School Autonomy]] — 澳大利亚学校自主权改革集中体现 NPM 的市场逻辑。Keddie et al. (2020) 记录其导致的竞争性残余化、家长筹资不平等和人员配置分层
-> - 《[[Australia in the Asian Century White Paper]]》和《[[International Education|国际教育]]国家战略 2025》——高等教育领域 NPM 逻辑的国家政策表达：将大学国际化定位为出口产业战略([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])
->
-
-
----
-
+> [!tension] 新公共管理的核心理论批判
+> - **教育目的的窄化与技术化** 将教育简化为可测量的投入产出指标，使公共教育脱离民主审议，遮蔽了育人伦理与社会正义目标。[[Argument_Møller_2017_EERJ|(Møller, 2017, p. 382)]]
+> - **准市场下的制度化马太效应** 拨款指标偏向已有优势的精英机构，加剧了教育资源配置的不平等。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, p. 802)]]
+> - **基于政策的证据异化** 在[[Evidence Era|证据时代]]，NPM 的性价比与适宜性考量导致研究证据沦为迎合政客预期的修辞工具，损害了学术研究的独立性。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 93–94)]]

@@ -6,7 +6,7 @@ aliases:
 summary: "Taylor 科学管理原理在教育行政领域的当代复兴，用于批评以唯一正确方法、效率最大化和标准化控制组织教学与管理的倾向。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -48,10 +48,12 @@ related_arguments:
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_ONeill_2016_Report]]"
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: 2026-09-17
 ---
 
 ## 定义
@@ -79,11 +81,11 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 > - **Hodgkinson (1978)** 在 *Towards a Philosophy of Administration* 中讨论教育行政的[[Epistemology|认识论]]及其方法论意涵([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
 > - **Gronn (1982)** 在 *Educational Administration Quarterly* 发表"Neo-Taylorism in educational administration?"，首次将该术语引入教育行政领域
 
-> [!note]- 2008–至今 [[Visible Learning|VL]] 与新泰勒主义的当代支配
+> [!note]- 2008–至今 VL 与新泰勒主义的当代支配
 > - **Robinson, Lloyd, & Rowe (2008)** 在 *EAQ* 发表[[Meta-analysis|元分析]]，识别五个领导力维度及其[[Effect Size|效应量]]，打破[[Transformative Leadership|变革型领导力]]的主导地位——Eacott 认为这为 Hattie 的崛起提供了关键"桥梁"：向教育行政社区引入效应量语言和"感知的严谨性"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.416-418]])
 > - **后 Fordism** 信息收集技术的引入将问责和监控方案嵌入现代工作场所（Portnoi, 2016; Manokha, 2020，引自 [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]]）
 > - **Hattie (2009)** 出版 [[Visible Learning]]：800+ 元分析、138 个因素按效应量排名——Eacott 认为这开启了当代 Neo-Taylorism 的支配性阶段([[Argument_Eacott_2017_SLM|Eacott, 2017, p.418-419]])
-> - **asTTle 的全景监控设计**Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具。Foucault（1977）的全景监狱隐喻——仅仅是"可能被观察"的想法就足以影响行为——为理解 asTTle/VL 的监控逻辑提供了理论框架
+> - **[[Assessment Tools for Teaching and Learning|asTTle]] 的全景监控设计**Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具。Foucault（1977）的全景监狱隐喻——仅仅是"可能被观察"的想法就足以影响行为——为理解 asTTle/VL 的监控逻辑提供了理论框架
 > - **VL 品牌商业化与制度化嵌入** 2010 [[Cognition Education|Cognition Education]] 推出 VLplus → 2015 ACEL-Corwin 合作 → 2018 Corwin 收购 VLplus。Hattie 担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，VL 嵌入澳大利亚国家专业标准（详见 [[Visible Learning Branding and Global Influences]]）
 
 ## 核心要素
@@ -91,8 +93,8 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - **唯一正确方法** Taylor 追求消除"soldiering"（磨洋工），Hattie 追求消除"coasting"（得过且过）——两者都以识别和执行"最佳实践"为解决方案([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 - **任务的拆解与还原** Taylor 将工作任务拆解为最小组件，Hattie 将教学实践拆解为按[[Effect Size|效应量]]排名的离散干预列表([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 - **最大化回报** Hattie 的效应量排名告诉教育者"做什么以获得最大回报"（maximum return），而非提供反思和发展自身技艺的资源([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
-- **全景监控**高度监控的车间启发了 Foucault（1977）的全景监狱隐喻——Hattie 的 asTTle 工具以"允许管理者监控全校六个科目"的设计将同一逻辑植入教育([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
-- **教师贬低与去专业化** Hattie 在 [[Visible Learning|VL]] 中系统性地将教师贬低为依赖"战争故事和轶事"的"不成熟职业"从业者（Hattie, 2009, p.1, 3, 253, 257）。[[Argument_Johnson_2023_CE|Johnson & Janzen (2023, p.29)]]论证这种修辞服务于更广泛的私有化议程：如果教学被打造为不专业和技术性的，对教师工会的支持就会软化，私人利益以"廉价解决方案"的承诺渗透
+- **全景监控**高度监控的车间启发了 Foucault（1977）的全景监狱隐喻——Hattie 的 [[Assessment Tools for Teaching and Learning|asTTle]] 工具以"允许管理者监控全校六个科目"的设计将同一逻辑植入教育([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
+- **教师贬低与去专业化** Hattie 在 VL 中系统性地将教师贬低为依赖"战争故事和轶事"的"不成熟职业"从业者（Hattie, 2009, p.1, 3, 253, 257）。[[Argument_Johnson_2023_CE|Johnson & Janzen (2023, p.29)]]论证这种修辞服务于更广泛的私有化议程：如果教学被打造为不专业和技术性的，对教师工会的支持就会软化，私人利益以"廉价解决方案"的承诺渗透
 - **商业利益网络** Neo-Taylorism 的当代运作依赖于出版商（如 Corwin）、专业协会（如 ACEL）和学校系统之间的商业伙伴关系，形成自我强化的推广网络([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778, 780]])。详见 [[Visible Learning Branding and Global Influences]]
 
 ## 概念辨析
@@ -107,7 +109,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - Taylor（1911）*The Principles of Scientific Management* — 经典源头：科学管理的四原则（寻找唯一正确方法、任务拆解、消除磨洋工、最大化效率）
 - Callahan（1962）*Education and the [[Cult of Efficiency]]* — 历史[[Analytic Framework|分析框架]]：论证美国公立教育曾被效率崇拜渗透，Eacott 将其类比于当代 Hattie 现象
 - [[Technical Rationality]] — Schön（1983）的[[Positivism|实证主义]]专业实践模型是 Neo-Taylorism 的[[Epistemology|认识论]]内核：手段-目的思维、[[Value Neutrality|价值中立]]、工程/医学模式
-- Foucault（1977）*Discipline and Punish* — 全景监狱（panopticon）隐喻为理解 asTTle/[[Visible Learning|VL]] 的监控逻辑提供理论框架
+- Foucault（1977）*Discipline and Punish* — 全景监狱（panopticon）隐喻为理解 [[Assessment Tools for Teaching and Learning|asTTle]]/VL 的监控逻辑提供理论框架
 - [[New Public Management]] — 更广泛的制度语境：NPM 创造了绩效标准、产出控制和市场竞争的制度条件，Neo-Taylorism 是 NPM 中与科学管理原理直接对应的部分
 
 ## 制度表现
@@ -120,11 +122,11 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 ## 争议与批评
 
-- [[Argument_Hattie_2017_SLM|Hattie (2017, p.429)]]否认其工作是泰勒主义，声称 Eacott 在以"代码词"贬低对效率和严谨性的追求。[[Argument_Eacott_2019_IJLE|Eacott (2019)]]反驳 Hattie 未对其主张进行实质性回应，且将批评焦点从 [[Visible Learning|VL]] 被接受的**社会条件**转移到了 VL 的**效果**。详见 [[Cult of the Guru#争议与批评]]。
+- [[Argument_Hattie_2017_SLM|Hattie (2017, p.429)]]否认其工作是泰勒主义，声称 Eacott 在以"代码词"贬低对效率和严谨性的追求。[[Argument_Eacott_2019_IJLE|Eacott (2019)]]反驳 Hattie 未对其主张进行实质性回应，且将批评焦点从 VL 被接受的**社会条件**转移到了 VL 的**效果**。详见 [[Cult of the Guru#争议与批评]]。
 
 ## 相关案例／政策
 
-- [[Visible Learning Branding and Global Influences]] — [[Visible Learning|VL]] 从 asTTle 到 VLplus 到 Corwin 收购的商业化轨迹，含商标时间线、产品体系和六区域伙伴网络
+- [[Visible Learning Branding and Global Influences]] — VL 从 [[Assessment Tools for Teaching and Learning|asTTle]] 到 VLplus 到 Corwin 收购的商业化轨迹，含商标时间线、产品体系和六区域伙伴网络
 - **ACEL-Corwin 合作（2015）** — 澳大利亚最大校长专业协会与 Hattie 出版商正式合作推广 VL 工作坊，形成自我强化的推广循环([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]]; [[Argument_Eacott_2019_IJLE|Eacott, 2019, p.780]])
 - **[[Australian Institute for Teaching and School Leadership|AITSL]]** — Hattie 担任澳大利亚教学与[[School Leadership|学校领导力]]研究院主席，其工作已嵌入国家专业标准和年度绩效评估体系([[Argument_Eacott_2017_SLM|Eacott, 2017, p.421]])
 - **asTTle / e-asTTle** — Hattie 1999/2000 年受教育部委托开发的评估工具，"允许管理者监控全校六个科目"（Hattie et al., 2003, p.775），VL 气压计图形直接进口自此工具([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])

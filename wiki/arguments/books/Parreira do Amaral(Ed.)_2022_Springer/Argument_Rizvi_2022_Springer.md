@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
 - internationalization
 - geopolitics
 related_concepts:
+  - "[[New Public Management]]"
   - "[[Knowledge Capitalism]]"
   - "[[Realism in International Relations]]"
   - "[[Classical Geopolitics]]"
@@ -60,6 +61,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
+  - "[[Research in Schools Evaluation]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Australia in the Asian Century White Paper]]"
   - "[[World Bank]]"
@@ -70,7 +72,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-08-20
+updated: '2026-09-17'
 year: 2022
 doi: ""
 citation_aliases:
@@ -84,9 +86,9 @@ citation_aliases:
 > [!question]
 > 亚洲的经济和政治崛起如何重塑了全球高等教育的架构？
 
-Rizvi 的核心论点是：过去三十年间，高等教育的深刻转型（NPM、市场化、[[Knowledge Capitalism|知识资本主义]]）已被广泛讨论，但这些讨论普遍**遗漏了一个关键因素**——亚洲的崛起及其引发的地缘政治转移。Rizvi 要论证的是：亚洲崛起不仅通过国际化政策影响了高等教育系统的构成方式，更通过知识的生产、传播和利用方式——跨越国界内外——深刻改变了全球高等教育的格局(pp.89–90)。
+Rizvi 的核心论点是：过去三十年间，高等教育的深刻转型（[[New Public Management|NPM]]、市场化、[[Knowledge Capitalism|知识资本主义]]）已被广泛讨论，但这些讨论普遍**遗漏了一个关键因素**——亚洲的崛起及其引发的地缘政治转移。Rizvi 要论证的是：亚洲崛起不仅通过国际化政策影响了高等教育系统的构成方式，更通过知识的生产、传播和利用方式——跨越国界内外——深刻改变了全球高等教育的格局(pp.89–90)。
 
-这个问题的提出有一个重要背景：Rizvi 承认已有批判学者从知识资本主义(Peters, 2013)、工作性质的转变(Brown & Lauder, 2016)、全球化和技术创新等角度解释了高等教育的转型。但他认为这些分析不够充分——因为它们没有把亚洲崛起作为一个独立的因果力量来对待。他写道："along with these factors, the economic and political rise of Asia has also played a highly consequential role"(p.90)。这个"along with"表明他不是要推翻既有解释，而是要**补充一个被忽视的维度**。
+这个问题的提出有一个重要背景：Rizvi 承认已有批判学者从知识资本主义(Peters, 2013)、工作性质的转变(Brown & Lauder, 2016)、全球化和技术创新等角度解释了高等教育的转型。但他认为这些分析不够充分——因为它们没有把亚洲崛起作为一个独立的因果力量来对待。他写道："along with these factors, the economic and political [[Research in Schools Evaluation|RISE]] of Asia has also played a highly consequential role"(p.90)。这个"along with"表明他不是要推翻既有解释，而是要**补充一个被忽视的维度**。
 
 ## 理论框架
 
@@ -147,7 +149,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 **公认的变化清单**
 - 大学治理方式被根本性地重塑
 - 国家在高等教育拨款中的角色萎缩，学费等非公共来源成为主导
-- NPM 原则重新定义了学术工作的组织和协调方式，伴随新的问责体制
+- [[New Public Management|NPM]] 原则重新定义了学术工作的组织和协调方式，伴随新的问责体制
 - 市场价值开始主导教学和研究优先级——"为知识而知识"的理念被边缘化
 - 全球高教在学人数自本世纪初翻了一倍以上，校园人口结构巨变
 
@@ -156,7 +158,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 - 工作和劳动关系的转变(Brown & Lauder, 2016)
 - 全球化和技术创新的影响
 
-**Rizvi 的判断** 这些解释都有道理，但都漏掉了一个关键[[Variable|变量]]——"the economic and political rise of Asia has also played a highly consequential role"(p.90)。
+**Rizvi 的判断** 这些解释都有道理，但都漏掉了一个关键[[Variable|变量]]——"the economic and political [[Research in Schools Evaluation|RISE]] of Asia has also played a highly consequential role"(p.90)。
 
 > "along with"——Rizvi 不是要推翻既有解释，而是要**补充**一个被忽视的维度。
 
@@ -393,7 +395,7 @@ Rizvi 的结论不是一个简单的"解决方案"，而是一组**方向性的�
 
 其影响超出国际化政策，延伸至[[Knowledge Production|知识生产]]、传播和利用的方式——不仅改变了"谁在什么样的政策框架下运作"，更改变了"什么知识被重视、谁的知识被认可、知识如何跨越国界流动"(pp.89–90)。
 
-> 通俗理解：过去我们讨论高等教育的变化，总是在谈 NPM、市场化、[[Knowledge-Based Economy|知识经济]]——好像这些是全球性的、中性的趋势。Rizvi 说不对——亚洲的崛起是一个独立的、有方向性的力量，它改变了全球高等教育的重心和逻辑。
+> 通俗理解：过去我们讨论高等教育的变化，总是在谈 [[New Public Management|NPM]]、市场化、[[Knowledge-Based Economy|知识经济]]——好像这些是全球性的、中性的趋势。Rizvi 说不对——亚洲的崛起是一个独立的、有方向性的力量，它改变了全球高等教育的重心和逻辑。
 
 ### 发现二：国际化的理性已从"发展主义"转向"市场理性"
 

@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 91
+related_count: 97
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,11 @@ related_concepts:
   - "[[Third Space Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Problem Finding]]"
+  - "[[Evidence Era]]"
+  - "[[Rationalized Myth]]"
+  - "[[Policy-Based Evidence-Making]]"
+  - "[[Gatekeepers]]"
+  - "[[Epistemology]]"
   - "[[Deficit Framing]]"
   - "[[Literature Search]]"
   - "[[Interaction Effect]]"
@@ -115,13 +120,14 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
+  - "[[Argument_Helgetun_2022_JEP]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Research Utilization
@@ -225,6 +231,9 @@ updated: 2026-09-16
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
 > **政策全生命周期的两阶段证据断层与选择性吸纳** 实证研究表明，政策过程不同阶段的证据使用存在极大的程序性断层：政府任命的独立专家咨询委员会在[[Problem Finding|问题界定]]阶段广泛动员跨国与本土研究证据，但教育部行政首脑机关在出台法定政令时，往往跳过专家报告中的海量[[Document|文献]]，仅高度选择性地引用极少数契合既定改革导向、且能提供“准外部合法化权威”的国际组织证据。证据利用绝非贯穿政策周期的理性积累，而是呈现从海量专家备选到高度政治过滤的剧烈漏斗效应。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 546–547)]]
+
+> [!claim] [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]]
+> **[[Evidence Era|证据时代]]的主导性[[Rationalized Myth|合理化神话]]与[[Policy-Based Evidence-Making|逆向证据生产]]** 宏观政策层面的研究利用已从单纯依靠量化指标演化为以密集学术引文为包装的[[Evidence Era|证据时代]]。然而，政府通过充当[[Gatekeepers|守门人]]筛选顾问并扶植官方代言机构，使研究利用深度受制于适宜性逻辑与“政策如何落地”的考量；当既定政治意图主导决策时，研究利用便异化为反向定制与裁剪证据的[[Policy-Based Evidence-Making|基于政策的证据制造]]（PBEM），导致学术研究从产生到应用的[[Epistemology|认识论]]连贯性遭到严重割裂。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 91–96)]]
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"
   - "[[Talent Assumption]]"
+  - "[[New Public Management]]"
   - "[[Epistemology]]"
   - "[[Epistemological Break]]"
   - "[[Operationalization]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-07-08
+updated: 2026-09-17
 ---
 
 # Doxa
@@ -123,7 +124,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 ### NPM 与 doxa 置换
 
-NPM 渗透教育场域的过程可被理解为 doxa 置换：经济-政治场域的 doxa（效率、可测量、竞争）逐步置换教育场域原有的 doxa（教育本位、专业性自治）。标准化测试、排名和能力框架正是这一 doxa 置换的制度化载体。
+[[New Public Management|NPM]] 渗透教育场域的过程可被理解为 doxa 置换：经济-政治场域的 doxa（效率、可测量、竞争）逐步置换教育场域原有的 doxa（教育本位、专业性自治）。标准化测试、排名和能力框架正是这一 doxa 置换的制度化载体。
 
 ### 认识论断裂与 doxa
 

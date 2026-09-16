@@ -19,11 +19,11 @@ tags:
   - region/uk
 related_concepts:
   - "[[Champ]]"
+  - "[[New Public Management]]"
   - "[[Knowledge Production]]"
   - "[[Emergence]]"
   - "[[Transformative Leadership]]"
   - "[[School Leadership]]"
-  - "[[New Public Management]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 ## 简介
 
@@ -54,7 +54,7 @@ updated: 2026-09-11
 >
 > 3. **教育领域作为多元场域**Gunter（2016）强调教育领导力领域是多元人群和利益的集合体，社会科学学科知识应当被视为"资源机会"（resource opportunity）而非一套固定的方法论和基础性主张([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])
 >
-> 4. **NPM 与教育改革** Gunter 领导的 LE@DS（Leading Democratic Schools）研究网络揭示了学校校长在 NPM 环境中日益面临合同外包、基准测试和考试分数占据工作中心的处境([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382, citing Gunter et al., 2016]])
+> 4. **[[New Public Management|NPM]] 与教育改革** Gunter 领导的 LE@DS（Leading Democratic Schools）研究网络揭示了学校校长在 NPM 环境中日益面临合同外包、基准测试和考试分数占据工作中心的处境([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382, citing Gunter et al., 2016]])
 >
 > 5. **反智识文化与[[Knowledge Production|知识生产]]的专业化** Gunter认为，"理论"和"实践"等标签被**使用和滥用来塑造职业内部以及商业和高等教育中'教育领导力产业'的反智识文化([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])**。Gunter（2013）进一步论证，管理主义项目的核心特征是："将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"
 >
@@ -66,7 +66,7 @@ updated: 2026-09-11
 > - **批判性教育政策视角** — 被 Møller（2017, p.381）列为与 Shields 的[[Transformative Leadership|变革型领导力]]并列的关键分析透镜
 > - **教育领导力的智识史** — *An Intellectual History of [[School Leadership]] Practice and Research*（2016）追溯该领域的知识形成过程
 > - **知识政治与反智识文化批判** — Gunter（2012, 2013）揭示教育领导力领域的[[Knowledge Production|知识生产]]如何被管理主义塑造，智识工作如何被系统性地边缘化([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])
-> - **LE@DS 研究网络** — 研究民主学校领导力在 NPM 环境下的命运
+> - **LE@DS 研究网络** — 研究民主学校领导力在 [[New Public Management|NPM]] 环境下的命运
 > - **Bourdieu 在教育行政中的应用** — Gunter（2002）是早期将 Bourdieu 社会理论应用于教育行政领域的学者之一([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])
 
 ## 主要著作

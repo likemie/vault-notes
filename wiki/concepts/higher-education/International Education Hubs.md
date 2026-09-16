@@ -7,7 +7,7 @@ aliases:
 summary: "Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。"
 type: concept
 domain: "higher-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
+  - "[[New Public Management]]"
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-06-26'
+updated: 2026-09-17
 ---
 
 # International Education Hubs
@@ -98,7 +99,7 @@ Knight 的研究为 IEH 提供了基本的概念坐标，但其框架主要采�
 
 Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性从"帮助发展中国家现代化"的发展主义话语转向"提升全球经济竞争力"的市场理性。这一转变与 Rizvi 诊断的[[Internationalization of Higher Education|高等教育国际化]]整体理性转变——从发展主义到市场理性——是同一过程在国家层面的战略表达([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。
 
-在新的市场理性下，高等教育日益被视为**出口产业** 大学为争夺学生、资金和地位而竞争；国际化通过市场细分、目标广告和招生代理网络等行政技术进行管理；高校成功与否越来越多地以招收全额付费国际学生的数量来衡量。公共价值被"挤出"（crowded out），政府不再感到有必要为高校提供所需的公共资金([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。详见 NPM > 在高等教育国际化中的运作。
+在新的市场理性下，高等教育日益被视为**出口产业** 大学为争夺学生、资金和地位而竞争；国际化通过市场细分、目标广告和招生代理网络等行政技术进行管理；高校成功与否越来越多地以招收全额付费国际学生的数量来衡量。公共价值被"挤出"（crowded out），政府不再感到有必要为高校提供所需的公共资金([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。详见 [[New Public Management|NPM]] > 在高等教育国际化中的运作。
 
 ### Erfurth 的双重维度分析
 

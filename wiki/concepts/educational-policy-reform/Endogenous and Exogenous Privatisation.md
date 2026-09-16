@@ -8,7 +8,7 @@ aliases:
 summary: "Ball and Youdell 区分的两种公立教育私有化趋势，分别指学校内部运作企业化和私营部门进入学校体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,10 +37,12 @@ related_facts:
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Rizvi_2022_Springer]]"
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-09-17
 ---
 
 ## 定义
@@ -81,7 +83,7 @@ O'Neill 等（2016, pp.8–12）记录的九项新西兰近十余年的现代化
 - PLD 提供商认证体系（Professional Learning Association New Zealand）的建立
 
 **外生私有化**的例证：
-- asTTle/e-asTTle 向私营投资伙伴部分出售商业化权利
+- [[Assessment Tools for Teaching and Learning|asTTle]]/e-asTTle 向私营投资伙伴部分出售商业化权利
 - [[Public-Private Partnership in Research|PPP]] 学校合同（Learning Infrastructure Partners / Future Schools Partners）
 - [[Partnership Schools Kura Hourua]]（[[Partnership Schools Kura Hourua|特许学校]]）— 详见 [[Partnership Schools Kura Hourua]]
 - [[Teach First New Zealand]] — 私营慈善信托提供就业型教师教育 — 详见 Teach First New Zealand ([[Teach First New Zealand|TFNZ]] 2011)
@@ -100,7 +102,7 @@ Rizvi 描绘了一个自我强化的因果链条：
 
 1. **国际学生市场收入** 西方大学（特别是澳大利亚和英国）成功招收大量全额付费国际学生，特别是来自日益增长的亚洲中产阶级([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])
 2. **政府公共拨款削减** "随着国际学生学费成为主要收入来源，政府不再感到有必要为高等教育机构提供所需的公共资金"（Sandel, 2012, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]]）
-3. **大学被迫企业化** 公共资金的减少迫使大学采用企业化运营模式——包括 NPM 的管理技术、市场导向的战略规划、以及对国际排名和品牌建设的投入([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])。NPM 的具体运作详见 NPM > 在高等教育国际化中的运作
+3. **大学被迫企业化** 公共资金的减少迫使大学采用企业化运营模式——包括 [[New Public Management|NPM]] 的管理技术、市场导向的战略规划、以及对国际排名和品牌建设的投入([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])。NPM 的具体运作详见 NPM > 在高等教育国际化中的运作
 4. **企业化加深市场依赖** 企业化运营反过来使大学更依赖国际学生市场收入来维持运作 → 加固了第 1 步
 
 最终结果："内生私有化实践似乎已成为大多数西方国家公立高等教育的**永久特征**"（Ball, 2012, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]]）。

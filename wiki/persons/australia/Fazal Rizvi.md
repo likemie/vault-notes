@@ -7,10 +7,10 @@ summary: "澳大利亚高等教育与全球化研究学者，国际化与地缘�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1950"
 died: ""
 lifespan: "1950–至今"
@@ -36,17 +36,19 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[International Education]]"
   - "[[International Education Hubs]]"
+  - "[[New Public Management]]"
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 ## 简介
 
@@ -61,7 +63,7 @@ updated: 2026-09-14
 
 ## 主要著作与思想发展
 
-> [!note-] 2022 — "Rise of Asia, Geopolitical Shifts and Higher Education"
+> [!note-] 2022 — "[[Research in Schools Evaluation|RISE]] of Asia, Geopolitical Shifts and Higher Education"
 > - [[APA Style|APA]]：Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 89–103). Springer.
 > - 核心内容：论证过去三十年间高等教育深刻转型的既有解释（[[Knowledge Capitalism|知识资本主义]]、工作性质转变、全球化、技术创新）普遍遗漏了一个关键因素——亚洲的崛起及其引发的地缘政治转移。亚洲崛起不仅通过国际化政策影响了高等教育系统的构成方式，更通过知识的生产、传播和利用方式深刻改变了全球高等教育的格局([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])。
 > - 思想位置：代表 Rizvi 将[[Critical Geopolitics|批判地缘政治学]]系统性地应用于[[Internationalization of Higher Education|高等教育国际化]]分析的成熟阶段。
@@ -73,7 +75,7 @@ updated: 2026-09-14
 > [!info] 亚洲崛起作为高等教育转型的独立因果力量
 > Rizvi 的核心贡献在于论证：亚洲的经济和政治崛起不是高等教育全球转型的"背景"或"结果"，而是一个**独立的、有方向性的因果力量**。既有解释——[[Knowledge Capitalism|知识资本主义]]（Peters, 2013）、工作性质转变（Brown & Lauder, 2016）、全球化和技术创新——都有道理，但普遍将亚洲崛起视为这些全球趋势的"案例"或"表现"，而非塑造这些趋势的独立动力([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.90]])。
 >
-> Rizvi 的策略是"补充"而非"替代"：他写道"along with these factors, the economic and political rise of Asia has also played a highly consequential role"。这一策略避免了在单一因果与多元解释之间做出非此即彼的选择。
+> Rizvi 的策略是"补充"而非"替代"：他写道"along with these factors, the economic and political [[Research in Schools Evaluation|RISE]] of Asia has also played a highly consequential role"。这一策略避免了在单一因果与多元解释之间做出非此即彼的选择。
 
 
 > [!info] 国际化理性的双重结构：发展主义 vs 市场理性
@@ -98,5 +100,5 @@ updated: 2026-09-14
 > [!success] 影响
 > - 为[[Geopolitics of Knowledge|知识地缘政治]]的分析补充了市场化维度——此前 GPK 的讨论关注了[[Knowledge-Based Economization|知识经济化]]、[[Spatial Sortings|空间分选]]和[[Epistemology|认识论]]治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education|国际教育]]的市场结构和话语逻辑来重塑全球 GPK 格局([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])
 > - 为[[International Education Hubs|国际教育枢纽]]的分析提供了亚洲视角——IEHs 集中体现了亚洲国家从国际化的被动接受者到主动塑造者的角色转变
-> - 对NPM 在高等教育中的运作机制提供了新的因果解释——国际化成功本身成为加速 NPM 渗透的催化剂，而非仅仅是 NPM 的应用领域
+> - 对[[New Public Management|NPM]] 在高等教育中的运作机制提供了新的因果解释——国际化成功本身成为加速 NPM 渗透的催化剂，而非仅仅是 NPM 的应用领域
 >

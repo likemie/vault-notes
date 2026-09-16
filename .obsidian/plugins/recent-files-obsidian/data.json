@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Policy-Based Evidence-Making",
+      "path": "wiki/concepts/educational-policy-reform/Policy-Based Evidence-Making.md"
+    },
+    {
       "basename": "Argument_Helgetun_2022_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
+    },
+    {
+      "basename": "New Public Management",
+      "path": "wiki/concepts/educational-leadership-administration/New Public Management.md"
+    },
+    {
+      "basename": "Rationalized Myth",
+      "path": "wiki/concepts/sociology-of-education/Rationalized Myth.md"
+    },
+    {
+      "basename": "Research Utilization",
+      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
     },
     {
       "basename": "Argument_Hattie_2005_ACER",
@@ -117,10 +133,6 @@
       "path": "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md"
     },
     {
-      "basename": "Research Utilization",
-      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
-    },
-    {
       "basename": "Research Learning Communities",
       "path": "wiki/facts/uk/Research Learning Communities.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Gorard's Trustworthiness Sieve",
       "path": "wiki/instruments/checklists/Gorard's Trustworthiness Sieve.md"
-    },
-    {
-      "basename": "Research in Schools Evaluation",
-      "path": "wiki/facts/uk/Research in Schools Evaluation.md"
-    },
-    {
-      "basename": "Primary and Secondary Documents",
-      "path": "wiki/concepts/research-methodology/Primary and Secondary Documents.md"
-    },
-    {
-      "basename": "Using Data Intervention",
-      "path": "wiki/facts/us/Using Data Intervention.md"
     }
   ],
   "omittedPaths": [],

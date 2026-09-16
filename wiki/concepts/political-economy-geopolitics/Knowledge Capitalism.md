@@ -5,7 +5,7 @@ aliases:
 summary: "把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[New Public Management]]"
   - "[[Variable]]"
   - "[[Theoretical Knowledge]]"
   - "[[Performance Indicators]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 ## 定义
@@ -60,7 +61,7 @@ updated: 2026-09-12
 > [!example] 概念辨析
 > - vs [[Knowledge-Based Economy]]：KBE 描述经济形态（知识作为价值来源），知识资本主义强调资本积累的**制度逻辑**（知识如何被转化为可积累、可交易的资本）。两者高度重叠但分析焦点不同。详见 知识经济 > 定义
 > - vs [[Knowledge-Based Economization]]：知识经济化关注 KBE 被话语想象和物质实践**持续建构的过程**，知识资本主义则关注这一过程所导向的**制度结果**——一种以知识为资本核心形式的全球秩序
-> - vs NPM：知识资本主义为 NPM 在教育中的渗透提供了宏观的经济合理性——如果知识是首要的资本形式，那么教育（[[Knowledge Production|知识生产]]的主要场所）就应当像企业一样被管理和优化
+> - vs [[New Public Management|NPM]]：知识资本主义为 NPM 在教育中的渗透提供了宏观的经济合理性——如果知识是首要的资本形式，那么教育（[[Knowledge Production|知识生产]]的主要场所）就应当像企业一样被管理和优化
 >
 
 
@@ -71,7 +72,7 @@ updated: 2026-09-12
 > [!info] 在 Rizvi 论证中的位置
 > [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 将知识资本主义定位为解释高等教育全球转型的**既有解释之一**——它有其解释力，但存在一个系统性的盲点。
 >
-> 知识资本主义视角正确地识别了：大学治理被市场逻辑重塑、知识的经济价值压倒了"为知识而知识"的理念、NPM 原则重新定义了学术工作的组织方式。但它和另外三个因素（工作性质转变、全球化、技术创新）一样，倾向于将这些变化视为**全球性的、中性的趋势**——仿佛它们无差别地施加于所有国家和地区([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])。
+> 知识资本主义视角正确地识别了：大学治理被市场逻辑重塑、知识的经济价值压倒了"为知识而知识"的理念、[[New Public Management|NPM]] 原则重新定义了学术工作的组织方式。但它和另外三个因素（工作性质转变、全球化、技术创新）一样，倾向于将这些变化视为**全球性的、中性的趋势**——仿佛它们无差别地施加于所有国家和地区([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])。
 >
 > Rizvi 的核心论点是：这些分析遗漏了**亚洲崛起作为独立的因果力量**。亚洲的崛起不是知识资本主义全球化进程中的一个"案例"或"接受方"——它本身就是一个有方向性的力量，改变了全球高等教育的重心和逻辑。例如，亚洲中产阶级对西方教育的巨大需求不仅仅是"[[Knowledge-Based Economy|知识经济]]创造了教育市场"——它深植于殖民历史形成的文化想象（西方教育=高级），并通过日常消费决策（一个曼谷家庭送孩子去悉尼读书）汇聚成重塑澳大利亚大学财政结构的地缘政治力量([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91, 95–97]])。
 >

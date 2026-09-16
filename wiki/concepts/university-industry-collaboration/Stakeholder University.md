@@ -6,7 +6,7 @@ aliases:
 summary: "指大学从相对封闭的学术共同体转变为连接学生、教师、政府、市场和其他行动者的多利益相关者网络节点的制度形态。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
   - "[[Competitiveness]]"
+  - "[[New Public Management]]"
   - "[[Soft Power]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Academic Freedom]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-20
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # Stakeholder University
@@ -76,7 +77,7 @@ updated: 2026-09-10
 > [!abstract]
 > Thompson 等人（2022, pp.221–222）将利益相关者大学定位为 [[Competitiveness|高等教育竞争力]] 作为地缘政治装置运作的组织条件。关键逻辑链条为：
 
-1. NPM 和审计文化将大学重塑为关注绩效的组织
+1. [[New Public Management|NPM]] 和审计文化将大学重塑为关注绩效的组织
 2. 大学为提升竞争力而主动扩展利益相关者网络——吸引国际学生、对接企业需求、优化排名指标
 3. 网络扩展进一步将大学从学术共同体转化为多利益相关者平台
 4. 作为平台，大学成为地缘政治的机会节点——各国通过大学网络投射[[Soft Power|软实力]]、吸引全球人才、推动经济战略
