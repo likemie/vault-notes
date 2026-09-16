@@ -10,7 +10,7 @@ aliases:
 summary: "以改善学生学业与福祉为共享愿景、依托合作探究与反思性对话深化教学实践并制度化研读转化外部证据的学校协同组织形态。"
 type: concept
 domain: "teacher-education"
-related_count: 40
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -44,9 +44,12 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Heterogeneity]]"
   - "[[Research-Informed Teaching Practice]]"
+  - "[[Learning Progression]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 related_arguments:
+  - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Torres_2022_KMModels]]"
@@ -60,6 +63,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Likert Scale]]"
 related_persons:
+  - "[[John Hattie]]"
   - "[[Mark Rickinson]]"
   - "[[Toby Greany]]"
   - "[[Alan Daly]]"
@@ -79,7 +83,7 @@ updated: 2026-09-16
 ## 定义
 
 > [!def] 核心定义
-> **专业学习共同体（Professional Learning Community, PLC）** 指学校内部教育者（涵盖专任教师、[[School Leadership|学校领导]]者与教学辅助人员）以持续改善所有学生的学业发展与身心福祉为共享愿景，基于互信文化与合作探究机制，对日常教学实践与学术科研证据展开系统审思、批判研读与集体实践的制度化协同组织形态（DuFour, 2004; Stoll et al., 2006; Vescio et al., 2008）。在[[Evidence-Informed Practice|证据知情实践]]与[[Quality Use of Research Evidence Framework|高质量研究使用]]视域下，PLC 不仅是教师同侪互助的社会网络，更是使一线教育工作者免受科层行政事务碎片化挤压、为深思熟虑研读转化外部适切证据提供专有时空保障的实践庇护所与转化中枢。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 188, 191–192)]]
+> **专业学习共同体（Professional Learning Community, PLC）** 指学校内部教育者（涵盖专任教师、[[School Leadership|学校领导]]者与教学辅助人员）以持续改善所有学生的学业发展与身心福祉为共享愿景，基于互信文化与合作探究机制，对日常教学实践与学术科研证据展开系统审思、批判研读与集体实践的制度化协同组织形态（DuFour, 2004; Stoll et al., 2006; Vescio et al., 2008）。在[[Evidence-Informed Practice|证据知情实践]]与[[Quality Use of Research Evidence Framework|高质量研究使用]]视域下，PLC 不仅是教师同侪互助的社会网络，更是使一线教育工作者免受科层行政事务碎片化挤压、为深思熟虑研读转化外部适切证据提供专有时空保障的实践庇护所与转化中枢。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 188, 191–192)]]; [[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 18–19)]]
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 学校内部跨越年级与学科界限、去私有化的教师集体学习与教学反思协同机制。
@@ -101,11 +105,11 @@ updated: 2026-09-16
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 比较维度 | 专业学习共同体（PLC） | 传统行政备课教研组 | 全校教职工行政例会（Staff Meeting） |
+> | 维度 | 专业学习共同体（PLC） | 传统行政备课教研组 | 全校教职工行政例会（Staff Meeting） |
 > |---|---|---|---|
 > | **核心使命** | 持续提升所有学生的实质学习成效与福祉 | 统一教学进度、统筹备课与编制考试练习 | 传达上级政策文件、安排学校日常行政杂务 |
 > | **互动质态** | 基于平权互信的批判反思与协作探究 | 资深教师主导的经验传授或例行教案编写 | 管理层单向发布指示、下级被动接收通报 |
-> | **证据运用** | 整合外部学术[[Document\|文献]]、校内测验与课堂观察数据 | 局限于历年考试真题与教参教案标准答案 | 围绕行政考勤记录、考核指标与安全统计 |
+> | **证据运用** | 整合外部学术[[Document|文献]]、校内测验与课堂观察数据 | 局限于历年考试真题与教参教案标准答案 | 围绕行政考勤记录、考核指标与安全统计 |
 > | **专业关系** | 教学实践去私有化，全员集体对学生负责 | 学科内分工协作，仍保留强烈的课堂私密性 | 科层上下级科层命令与报告汇报关系 |
 > | **排程性质** | 学校制度化划拨且免受杂务侵扰的专有工时 | 碎片化嵌入课后空隙或由教师自发牺牲休息 | 刚性行政作息排程，常挤压专业研讨空间 |
 
@@ -121,6 +125,13 @@ updated: 2026-09-16
 > - **聚焦证据与学生学习（Focus on Evidence and Learning）** 摆脱经验直觉猜测，统筹审读外部学术证据与校内课堂数据，以实证反馈指导因材施教。
 > - **制度化时空与排程保障（Protected Time and Infrastructure）** 在日常排课中刚性划拨专有教研工时，配备必要协作场地与资源，杜绝被杂务挤占。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, p. 188)]]
 > - **心理安全与分布式领导（Psychological Safety and Leadership）** 领导者亲身参与示范，营造容忍试错的互信文化，支持普通教师发挥专业引领作用。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 187, 191)]]
+
+> [!feature] 廷珀利与哈蒂论有效 PLC 五大建设支柱（Timperley, 2005; Hattie, 2005）
+> - **确立共享价值观与期望（Shared values and expectations）** 围绕学生无限潜能与教师核心教学责任建立统一专业承诺。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 18)]]
+> - **集体聚焦于学生实际学习（Collective focus on student learning）** 将学生实际学业增益与进阶表现确立为评判共同体成败的最终硬性标准。
+> - **促进专长共享的深度协作（Collaboration with shared expertise）** 破除经验壁垒，协同调用教师彼此专长，攻克教学瓶颈。
+> - **坚决推进去私密化教学实践（Deprivatised practice）** 消除传统教室门的封闭隔绝，开展常态化同行观课、录像分析与现场评课。
+> - **开展基于证据的反思性对话（Reflective dialogue）** 培育严肃的反省意识，以真实学情数据为标尺推敲教学决策成败。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 18–19)]]
 
 > [!feature] 斯托尔等论有效学习环境之 PLC 五大判定特征（Stoll et al., 2006）
 > - **聚焦学生学习的共享价值观与愿景（Shared values and vision）** 共同体所有成员秉持以学生实质学业进步与发展为核心的共同专业追求。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 124)]]
@@ -155,8 +166,8 @@ updated: 2026-09-16
 > [!claim] DuFour; Stoll et al.
 > **去私有化机制** 传统学校组织架构往往将教师分割在彼此封闭的独立教室空间中，形成了各自为政的职业孤岛。理查德·杜福尔（Richard DuFour）与路易丝·斯托尔（Louise Stoll）等学者指出，专业学习共同体通过确立以学生实质学习成效为导向的共同承诺，将分散的教学经验转化为集体共享的专业资产；通过定期的公开观摩、[[Reflexivity|反思性]]对话与共同归因，PLC 促成了教学实践的去私有化（De-privatisation），使学校由松散的个体联合体转型为具有自省与适应能力的学习型组织。
 
-> [!claim] Timperley, H.
-> **以学生学习增进为成功条件的五要素共同体模型** 海伦·廷珀利（Helen Timperley）在综合教师专业发展实证文献时指出，绝大多数外部专业培训之所以成效匮乏，症结在于活动脱离了对学生实际学习结果的考察。真正的专业学习共同体必须具备五大核心支柱：确立关于儿童与教与学角色的共享价值观与期望、建立聚焦学生学习的规范控制、促进专业知识共享的深度协作、推进去私密化教学实践（Deprivatised Practice）以及展开深度反思性对话；唯有将专业研讨的成功条件严格锚定在学生学习成效的实质改善上，才能破除私有化教学惯性并实现校本教研文化的深层重构。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 18–19)]]
+> [!claim] Timperley, H. & Hattie, J.
+> **以学生学习增进为成功条件的实证共同体模型** 海伦·廷珀利（Helen Timperley）与约翰·哈蒂（John Hattie）在综合教师专业发展实证文献时指出，浩瀚文献中仅 17 篇研究直接证实专业培训促进了学生学业，绝大多数外部培训之所以成效匮乏，症结在于脱离了对学生实际学习结果的考察。真正的专业学习共同体必须确立以学生实质学习增益为硬性成功条件；通过去私密化教学实践与多时点学情数据反馈，制造打破防御性图式的“数据意外（Surprise）”，促使教师从归咎生源缺陷转向反思自身教学策略。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 16–19)]]
 
 ---
 
@@ -169,10 +180,10 @@ updated: 2026-09-16
 > **实践庇护与证据转化中枢** 外部学术研究从抽象文本到课堂教学行为的转化，必须依赖集体层面的批判解读、情境化改编与持续试验。[[Mark Rickinson|马克·里金森]]（Mark Rickinson）等学者基于实证调查指出，在缺乏专门研讨机制的环境下，教师面临沉重的行政文书与备课杂务，对研究的接触往往被仓促挤兑过去；制度化排程的 PLC 为教师与[[Teaching Assistant|助教]]提供了免受行政碎片化干扰的实践庇护所，使教师能够在互信安全的氛围中主动质疑、剖析研究内涵并结合班级特殊学情设计渐进式教学试验，从而显著提高常态化应用高质量研究的概率。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 188, 191–192)]]
 
 > [!claim] Stoll, L. 等
-> **反思性专业探究是 PLC 的判定特征** 斯托尔（Louise Stoll）等学者在跨国综述中指出，PLC 之所以能够承担证据转化功能，是因为其关键特征恰是反思性专业探究：反思性对话、围绕严肃教育议题的交谈、主动寻求新知识，以及通过互动把默会知识转化为可用于[[Problem Solving|问题解决]]的共享知识。此外，PLC 还须具备以改善学生成果为旨归的共享愿景、对学生学习的集体责任、超出表层互助的协作，以及同时促进群体与个体学习;缺少这些特征，共同体虽仍按期活动，却不再构成[[Research Utilization|研究使用]]所需的学习环境。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125)]]
+> **反思性专业探究是 PLC 的判定特征** 斯托尔（Louise Stoll）等学者在跨国综述中指出，PLC 之所以能够承担证据转化功能，是因为其关键特征恰是反思性专业探究：反思性对话、围绕严肃教育议题的交谈、主动寻求新知识，以及通过互动把默会知识转化为可用于[[Problem Solving|问题解决]]的共享知识。此外，PLC 还须具备以改善学生成果为旨归的共享愿景、对学生学习的集体责任、超出表层互助的协作，以及同时促进群体与个体学习；缺少这些特征，共同体虽仍按期活动，却不再构成[[Research Utilization|研究使用]]所需的学习环境。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125)]]
 
 > [!claim] Katz, S. & Dack, L. A.
-> **探究环节缺位时 PLC 会落入[[Activity Traps|活动陷阱]]** 卡茨（Steven Katz）与达克（Lisa Ain Dack）指出，若 PLC 只保留了协作的形式而缺少正式的探究协议与工具，教师会跳过对成因的分析而径直寻求解决方案，即落入[[Activity Traps|活动陷阱]]。此时 PLC 仍按时召开，但实践与情境的根本问题未被确立、全部成因与方案未被考虑，并因做法“已知”而重复无效实践;因此 PLC 作为学习环境的有效性，取决于它是否真正承载了探究过程，而非取决于活动的频次与形式。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 130–131)]]
+> **探究环节缺位时 PLC 会落入[[Activity Traps|活动陷阱]]** 卡茨（Steven Katz）与达克（Lisa Ain Dack）指出，若 PLC 只保留了协作的形式而缺少正式的探究协议与工具，教师会跳过对成因的分析而径直寻求解决方案，即落入[[Activity Traps|活动陷阱]]。此时 PLC 仍按时召开，但实践与情境的根本问题未被确立、全部成因与方案未被考虑，并因做法“已知”而重复无效实践；因此 PLC 作为学习环境的有效性，取决于它是否真正承载了探究过程，而非取决于活动的频次与形式。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 130–131)]]
 
 ---
 
@@ -181,14 +192,8 @@ updated: 2026-09-16
 > [!concept-lens] 全员包容性、信任网络与探究质态
 > 剖析 PLC 在微观学校生态中可能面临的组织病理，揭示全员参与、非正式信任渠道与结构化探究协议的三位一体保障。
 
-> [!claim] Stoll, L. 等
-> **反思性专业探究是有效学习环境的判定特征** 斯托尔等学者指出，PLC 之所以能够承担证据转化功能，核心在于其反思性专业探究特质：围绕严肃教育议题展开对话、主动寻求新知识并将默会经验显性化。若缺少[[Reflective Thinking|反思性探究]]，共同体虽按期开会，却不再构成[[Research Utilization|研究使用]]所需的有效学习环境。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125)]]
-
 > [!claim] Brown, C. & [[Toby Greany|Greany, T.]]; [[Alan Daly|Daly, A. J.]]
 > **全员包容性参与与防范任务小组异化** 最有效的[[Knowledge Mobilisation|知识动员]]发生在 PLC 实现全员包容性参与（fully inclusive）之时；然而[[School Leadership|学校领导]]者常视全员参与为低效之举，倾向于将 PLC 窄化为少数骨干组成的攻关“任务小组”（task forces），导致研究知识被封锁在少数精英圈层中，无法实现全校规模化渗透。同时，实证[[Network Analysis|社会网络分析]]表明，教师唯有在信息来自“值得信赖的亲密同行”（trusted peers）时才会真正接纳并转化；因此 PLC 必须作为正式制度桥梁，主动贯通校内非正式人际信任网络。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125)]]
-
-> [!claim] Katz, S. & Dack, L. A.
-> **探究协议缺位诱发活动陷阱** 若 PLC 只保留了定期开会的协作形式而缺少正式的成因诊断协议与评价流程，教师极易跳过对根本成因的探究而径直寻求解决方案，落入[[Activity Traps|活动陷阱]]。此时实践根本问题未被确立、无效做法被盲目重复且缺乏因果行动理论，使 PLC 沦为空转的表象活动。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 130–131)]]
 
 ---
 
@@ -197,9 +202,9 @@ updated: 2026-09-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **去私有化机制** | 打破教师孤立隔绝，将个人经验升华为集体反思探究资产 | 中小学教研文化重构与协同机制培育 | DuFour (2004); Stoll et al. (2006) |
-> | **实践庇护与证据转化** | 提供免受行政侵扰的专有研读时空，促进证据落地转化 | 学校循证教学改进与教师[[Research Literacy\|研究素养]]提升 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] |
-> | **全员包容与网络贯通** | 警惕任务小组异化与活动陷阱，依托正式协议联结信任同行 | 学校组织学习生态诊断与循证共同体深度建设 | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]; Daly (2010); Katz & Dack (2013) |
+> | **去私有化与实证归因** | 打破教师孤立隔绝，以学生实际学业增进为条件驱动教学反思 | 中小学教研文化重构与协同机制培育 | DuFour (2004); [[Argument_Hattie_2005_ACER|Hattie (2005)]]; Timperley (2005) |
+> | **实践庇护与证据转化** | 提供免受行政侵扰的专有研读时空，促进证据落地转化 | 学校循证教学改进与教师[[Research Literacy|研究素养]]提升 | [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]]; Stoll et al. (2006) |
+> | **全员包容与网络贯通** | 警惕任务小组异化与活动陷阱，依托正式协议联结信任同行 | 学校组织学习生态诊断与循证共同体深度建设 | [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]]; Daly (2010); Katz & Dack (2013) |
 
 ---
 
@@ -208,6 +213,7 @@ updated: 2026-09-16
 > [!dev-timeline] 概念演变
 > - **1990 — 学习型组织理念萌芽** 彼得·圣吉（Peter Senge）出版《第五项修炼》，将团队学习、共同愿景与系统思考确立为现代组织变革的核心，为学校教育领域的共同体建构提供理论源泉。
 > - **1998–2004 — 专业学习共同体（PLC）在基础教育中的[[Paradigm|范式]]确立** 理查德·杜福尔（Richard DuFour）与罗伯特·伊克（Robert Eaker）系统将 PLC [[Operationalization|操作化]]为学校改进的核心战略，强调从关注教师教什么彻底转向关注学生学到了什么。
+> - **2005 — 国际教师专业发展文献元综合与 PLC 五支柱确立** 廷珀利与哈蒂针对国际文献中仅 17 项 PD 研究证明提升学生学业的实证危机，确立以学生实际学习成效为成功前提、融合去私密化教学与反思性对话的 PLC 五大支柱。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 18–19)]]
 > - **2006–2008 — 跨国实证综述与成效奠基** 路易丝·斯托尔（Louise Stoll）等学者发表[[Systematic Review|系统综述]]，提炼 PLC 跨文化实践的核心要素；维斯西奥（Vescio et al., 2008）通过[[Meta-meta-analysis|元综合]]证实运作良好的 PLC 对教师教学法更新与学生学业进步具有显著促进效应。
 > - **2018 — [[Self-Improving School System|SISS]] 视阈下 PLC 学习环境定位与[[Activity Traps|活动陷阱]]实证诊断** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 把 PLC 确立为学校推进[[Evidence-Informed Practice|证据知情实践]]的关键学习环境支柱，揭示英格兰小学高频非正式研讨（82%）与正式论坛匮乏（61%）、底层[[Hypothesis|假设]]反思脱节（55%）的反差，提出全员包容性参与及防范“任务小组”异化与[[Activity Traps|活动陷阱]]的组织防御机制。
 > - **2022 — 证据知情视阈下组织使能中枢的定位重塑** 莫纳什大学 Q 项目将 PLC 确立为[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]（QURE）的关键组织使能支柱。实证检验证实，校内 PLC 的充分提供显著正向预测了教师常规使用大学研究与指导的行为，确立了其作为破除时间赤字与促进循证转化的制度庇护功能。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 188, 191–192)]]
@@ -233,21 +239,22 @@ updated: 2026-09-16
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] | 澳大利亚 4 州中小学 906 名教育者（两轮标准化[[Questionnaire\|问卷]]）及 29 名访谈者 | 两轮李克特问卷调查（SPSS 重[[Coding in Qualitative Research\|编码]]与列联分析）与[[In-depth Interview\|深度访谈]] | 校内专业学习（PL）与 PLCs 供给对教师常规使用大学研究与指导行为的预测效应 | 68% 受访教育者视内部协同学习与 PLCs 为核心促成因素；拥有校内 PLCs 机会的教师，其常规使用大学研究与指导的概率呈现显著优势 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育教师自陈与列联分析，证实了 PLC 的关键使能作用，因果推断仍需纵向追踪 |
-> | Vescio et al. (2008) | 11 项关于 PLC 实施成效的实证研究（涵盖美国与英国基础教育阶段） | 质性与定量实证研究[[Systematic Review\|系统综述]]（Systematic Review） | PLC 实践对教师教学文化重塑与学生[[Academic Achievement\|学业表现]]的关联效应 | 8 项研究报告教师教学文化向以学生为中心显著转变；所有 11 项涉及学生成效的研究均报告学业成绩获得正向提升 | — | 综述纳入的研究在 PLC 界定与测量工具上存在一定[[Heterogeneity\|异质性]]，但总体趋势高度一致 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018, pp. 129–132)]] | 英格兰 79 所小学的 696 名教师与[[School Leadership\|学校领导]]者 | 横断面基线[[Questionnaire\|问卷]]（五级[[Likert Scale\|李克特量表]]） | 反映 PLC 学习环境与结构的三项核心指标：讨论影响关键决策的潜在[[Hypothesis\|假设]]（Q8）、积极尝试新教学方式（Q11）、学校建有正式分享论坛（Q13） | 82% 积极尝试新方式、82% 深入讨论研究；但仅 61% 建有正式研讨论坛，仅 55% 经常讨论底层假设（30% 不确定、14% 不同意） | — | 实证揭示英格兰小学高尝试意愿与正式探究架构匮乏的脱节，凸显 PLC 落入[[Activity Traps\|活动陷阱]]的制度风险 |
+> | [[Argument_Hattie_2005_ACER|Hattie (2005, p. 18)]]（Timperley, 2005） | 全球教师专业发展（PD）实证文献库 | 国际实证文献系统综合分析 | 专业发展干预直接提升学生学业成绩的实证支持率 | 仅检索到 17 篇研究直接证实促进了学生学业增进；绝大多数培训仅评估教师满意度或表面工作条件 | — | 揭示传统 PD 普遍脱离学生学习结果的制度危机，为构建基于学习增益的 PLC 提供证据基石 |
+> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] | 澳大利亚 4 州中小学 906 名教育者（两轮标准化[[Questionnaire|问卷]]）及 29 名访谈者 | 两轮李克特问卷调查（SPSS 重[[Coding in Qualitative Research|编码]]与列联分析）与[[In-depth Interview|深度访谈]] | 校内专业学习（PL）与 PLCs 供给对教师常规使用大学研究与指导行为的预测效应 | 68% 受访教育者视内部协同学习与 PLCs 为核心促成因素；拥有校内 PLCs 机会的教师，其常规使用大学研究与指导的概率呈现显著优势 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育教师自陈与列联分析，证实了 PLC 的关键使能作用，因果推断仍需纵向追踪 |
+> | Vescio et al. (2008) | 11 项关于 PLC 实施成效的实证研究（涵盖美国与英国基础教育阶段） | 质性与定量实证研究[[Systematic Review|系统综述]]（Systematic Review） | PLC 实践对教师教学文化重塑与学生[[Academic Achievement|学业表现]]的关联效应 | 8 项研究报告教师教学文化向以学生为中心显著转变；所有 11 项涉及学生成效的研究均报告学业成绩获得正向提升 | — | 综述纳入的研究在 PLC 界定与测量工具上存在一定[[Heterogeneity|异质性]]，但总体趋势高度一致 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018, pp. 129–132)]] | 英格兰 79 所小学的 696 名教师与[[School Leadership|学校领导]]者 | 横断面基线[[Questionnaire|问卷]]（五级[[Likert Scale|李克特量表]]） | 反映 PLC 学习环境与结构的三项核心指标：讨论影响关键决策的潜在[[Hypothesis|假设]]（Q8）、积极尝试新教学方式（Q11）、学校建有正式分享论坛（Q13） | 82% 积极尝试新方式、82% 深入讨论研究；但仅 61% 建有正式研讨论坛，仅 55% 经常讨论底层假设（30% 不确定、14% 不同意） | — | 实证揭示英格兰小学高尝试意愿与正式探究架构匮乏的脱节，凸显 PLC 落入[[Activity Traps|活动陷阱]]的制度风险 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合廷珀利（Timperley）的研究论证教师专业发展必须以学生实际学业增进为成功前提，提出去私密化教学、反思性对话与共同期望等五大 PLC 建设支柱（pp. 18–19）。
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 结合澳大利亚特殊学校等案例与[[Questionnaire|问卷调查]]，实证揭示制度化排程的 PLC 在庇护教师研究研读、打破行政挤压及促进常规循证中的决定性功能。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 把 PLC 定位为[[Evidence-Informed Practice|证据知情实践]]关键学习环境支柱，基于 79 所小学调查揭示全员包容性参与的紧迫性，论证缺乏正式探究协议与论坛易导致 PLC 退化为孤立任务小组与[[Activity Traps|活动陷阱]]。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 探讨组织内生学习结构与实践者能力建设，指出协同探究团队在弥合政策与实践鸿沟中的核心作用。
-> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合廷珀利（Timperley）的研究论证教师专业发展必须以学生实际学业增进为成功前提，提出去私密化教学、反思性对话与共同期望等五大 PLC 建设支柱（pp. 18–19）。
 
 ---
 

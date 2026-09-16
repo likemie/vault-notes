@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Brown_Greany_2018_LPS",
-      "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
-    },
-    {
       "basename": "Argument_Hattie_2005_ACER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
+    },
+    {
+      "basename": "Hattie_2005_ACER",
+      "path": "sources/Hattie_2005_ACER/Hattie_2005_ACER.md"
+    },
+    {
+      "basename": "Time Series Design",
+      "path": "wiki/methods/quantitative/Time Series Design.md"
     },
     {
       "basename": "Assessment Tools for Teaching and Learning",
       "path": "wiki/instruments/tests/Assessment Tools for Teaching and Learning.md"
     },
     {
+      "basename": "Professional Learning Community",
+      "path": "wiki/concepts/teacher-education/Professional Learning Community.md"
+    },
+    {
+      "basename": "Teacher Conceptions of Assessment",
+      "path": "wiki/concepts/competency-and-assessment/Teacher Conceptions of Assessment.md"
+    },
+    {
       "basename": "Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    },
+    {
+      "basename": "Argument_Brown_Greany_2018_LPS",
+      "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
     },
     {
       "basename": "Research Translation",
@@ -51,10 +67,6 @@
     {
       "basename": "School Enquiry Cycle",
       "path": "wiki/concepts/educational-policy-reform/School Enquiry Cycle.md"
-    },
-    {
-      "basename": "Professional Learning Community",
-      "path": "wiki/concepts/teacher-education/Professional Learning Community.md"
     },
     {
       "basename": "Activity Traps",
@@ -187,18 +199,6 @@
     {
       "basename": "template-argument-textbook",
       "path": "wiki/templates/template-argument-textbook.md"
-    },
-    {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
     }
   ],
   "omittedPaths": [],

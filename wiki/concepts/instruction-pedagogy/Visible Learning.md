@@ -2,14 +2,13 @@
 title: Visible Learning
 aliases:
   - 可见的学习
-  - VL
-summary: "John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。"
+summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 98
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 103
+related_level: 6
+related_stars: "⭐⭐⭐⭐⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - visible-learning
   - evidence-based-education
@@ -65,6 +64,8 @@ related_concepts:
   - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
   - "[[Falsification]]"
+  - "[[Learning Progression]]"
+  - "[[Teacher Conceptions of Assessment]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Walberg's Educational Productivity Model]]"
@@ -77,6 +78,9 @@ related_methods:
   - "[[Observation Method]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Time Series Design]]"
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
@@ -100,6 +104,7 @@ related_facts:
   - "[[Australian Curriculum]]"
   - "[[Gonski Reforms]]"
 related_arguments:
+  - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
@@ -119,336 +124,197 @@ related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Hattie_2017_SLM]]"
-confidence: medium
+confidence: high
 status: draft
 created: 2026-05-02
 updated: 2026-09-16
 ---
 
+# Visible Learning
+
+---
+
 ## 定义
 
-> [!info] 定义
-> Visible Learning 是 [[John Hattie]] 于 2009 年出版的 *Visible Learning: A synthesis of over 800 meta-analyses relating to achievement* 中提出的教育证据综合项目，将 800 余项[[Meta-analysis|元分析]]（涵盖数万项原始研究）汇总为一份"什么有效"的排名清单，以[[Effect Size|效应量]]（effect size）为标准对 150+ 项教学干预进行排序([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.32]])。英国教育部在 Coldwell et al.（2017）报告中将 Visible Learning 列为官方认可的"approved"证据来源之一（与 [[Education Endowment Foundation|EEF]] 和 [[Sutton Trust]] 并列）([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
+> [!def] 核心定义
+> **可见的学习（Visible Learning, VL）** 是新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）开创的教育证据综合与学校改进框架。该框架通过对全球数百项[[Meta-analysis|元分析]]（涵盖数万项原始研究与数千万学生样本）进行二阶[[Meta-meta-analysis|元-元分析]]，以标准化[[Effect Size|效应量]]（$d$）为尺度建立影响教育成就的比较性证据地图；确立平均效应量 $d=0.40$ 为干预“相对有效性”的关节点判准；并将教师界定为教育系统可控的核心因果枢纽（占成就变异的 30%），倡导通过使教师看清自身教学对学生学习的实际影响（Know thy impact）、使学生成为自身学习的主导者，实现教与学的双向可见。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–16)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020, p. 32)]]
+
+> [!concept-lens] 概念透镜
+> - **核心指向** 宏观实证证据地图（效应量分布与关节点判准）与微观课堂教学认知（教师思维框架、形成性反馈与双向可见性）的整合。
+> - **理论用途** 打破教育政策中盲目追求硬件资源投入与自上而下惩罚性测验问责的迷思，将循证改进的核心重塑为教师对课堂数据的形成性专业诠释。
+> - **适用边界** 强调以具体学业进阶与质性认知深度为导向的评价性专业判断；严禁等同于机械照搬高效应量因子的技术清单或新泰勒主义式的行为监控工具。
+
+> [!citation-card] 教学效能与教师思维框架的核心地位
+> 决定教学质量的关键不在于教师在课堂中做了什么形式的动作，而在于他们如何理解并思考自己的专业角色。至关重要的是他们的思维框架，即看待教与学的方式。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, p. 81)]]
 >
-> 该项目后来扩展为一系列书籍、专业发展培训项目和学校改进方案，Hattie 本人将其描述为"scripted. To the word"（Hattie, in Knudsen, 2017, p.254），强调对方案的忠实执行。
+> *It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical.*
+
+> [!boundary]- 概念边界
+> - **不等于 单纯的方法排名清单（Ranked Checklist）** VL 虽然呈现了干预措施的效应量排序，但 Hattie 反复强调效应量只是激发专业研讨的探针；脱离学生先备知识与具体情境机械套用高分方法违背了 VL 核心原则。
+> - **不等于 外部惩罚性测验问责（High-Stakes Accountability）** VL 明确反对以“体温计牵引理论”为底层的惩罚性统考；主张依托形成性测评（如 asTTle）为教师提供诊断学情与调整后续教学的即时线索。
+> - **不等于 商业化脚本式培训（Scripted Fidelity Products）** 商业推广机构将 VL 包装为标准化培训方案，但学术层面的 VL 核心在于培育教师的评价性专业判断与反思性对话。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 核心方法论概念对比
-> | 维度 | [[Visible Learning]] | [[Effect Size]] | [[Evidence-Based Education]] |
-> |------|----------------------|-----------------|------------------------------|
-> | 分析对象 | 150+ 教学干预的排名 + 学校改进逻辑与教师培训体系 | 量化效果大小的统计指标（均值差/标准差比值） | 循证原则在教育政策制定与学校[[Praxis\|实践]]中的制度化运动 |
-> | 核心机制 | [[Meta-meta-analysis\|元-元分析]] + 教师思维框架（mind frames）+ 忠实实施培训 | Cohen's d 等标准化差异量，d=0.40 为 Hattie 所设"铰链点" | 研究-政策-实践传播链；包含 [[Education Endowment Foundation\|EEF]]、[[What Works Clearinghouse]] 等机构 |
-> | 边界说明 | VL 以效应量为骨架，但效应量本身是工具而非 VL 的全部 | 方法论工具，不含实施逻辑；统计假设与解释边界见 [[Effect Size]] | VL 是 EBE 运动中最具全球品牌影响力的具体项目 |
-
-其他相关条目消歧：[[Critiques of Visible Learning]] 处理 VL 的批评谱系；[[Visible Learning Branding and Global Influences]] 处理品牌扩张与商业网络；[[Evidence-Based Reform]] 是 Slavin 的开发-评估-推广[[Paradigm|范式]]，与 VL 侧重不同；[[Dynamic Knowledge and Learning Model]] 要求区分 VL 所忽略的不同知识形态上的学习结果；[[Scientism]] 是对 VL 的外部批判框架之一。
+> [!contrast-table] 概念辨析
+> | 维度 | 可见的学习（Visible Learning） | [[Effect Size|效应量（Effect Size）]] | [[Evidence-Based Education|循证教育（Evidence-Based Education）]] |
+> |---|---|---|---|
+> | **分析对象** | 跨领域的教学干预证据综合、教师思维框架与学校反思改进体系 | 衡量两组差异或纵向增值强度的标准化统计指标（均值差/标准差比值） | 循证原则在教育政策制定与学校[[Praxis|实践]]中的宏观制度化运动 |
+> | **核心机制** | 二阶元分析 + $d=0.40$ 关节点 + 教师评价性判断 + 双向可见性 | Cohen's $d$ 等标准化参数；消除不同测验量表差异的通用度量衡 | 研究-政策-实践传播链；包含 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 等清理所 |
+> | **边界说明** | 以效应量为统计骨架，但涵盖课堂教学论与组织文化；不限于统计工具 | 纯粹的方法学与统计测量工具，不含教育学价值判断与教学实施逻辑 | 包含多种实证范式与机构体系；VL 是循证教育运动中影响最广的具体流派之一 |
 
 ---
 
-## 核心框架
+## 核心要素
 
-> [!logic-map] 五层结构
-> 
+可见的学习框架由证据统计基准、学业成就方差分解、教师思维框架、显性进阶目标与形成性反馈循环五大核心要素深度咬合构成。
+
+> [!feature] 可见的学习五大核心要素
+> - **相对有效性关节点（Hinge Point, $d=0.40$）** 基于 100 余项创新与 30 万项研究元综合确立的正态均值基准；超越“是否有效”的低阶提问，唯有增幅大于 $0.40$ 的干预才具有实质推广价值。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 16)]]
+> - **学业成就方差分解（Variance Breakdown）** 将学业变异分解为学生个人（50%）、教师教学效能（30%）、家庭（5–10%）、学校（5–10%）与同伴（5–10%），确立教师为系统内部可控的核心杠杆。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 13)]]
+> - **教师思维框架（Teacher Mind Frames）** 以“认识自身影响（Know thy impact）”为核心，包含“我是变革推动者”、“评价是对我教学的反馈”等八项指引教师专业判断的内隐信念图式。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, pp. 88–89)]]
+> - **显性学习意图与成功标准（Learning Intentions & Success Criteria）** 在任务开始前向学生充分敞开清晰的认知挑战目标与评估达成准则，消除形式主义认知盲区。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
+> - **三维形成性反馈与 DIE 循环（Formative Feedback & DIE Cycle）** 围绕“目标通往何处”、“当前行进至何处”与“下一步走向何方”展开诊断（Diagnose）、干预（Intervene）与评估（Evaluate）的持续调适。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 15)]]
+
+> [!logic-map]- 可见的学习系统运作逻辑
 > ```mermaid
-> flowchart LR
->     A["统计 / 循证教育"] --> C["核心理念：可见性 / Know thy impact"]
->     B["学习科学"] --> C
->     C --> D["教学：教师判断 / DIE / 思维框架 / 反馈文化"]
->     D --> E["学校改进：忠实实施"]
->     E --> F["高等教育：高影响条件"]
+> flowchart TD
+>     A["实证证据基石<br>元-元分析综合 + d=0.40 关节点"] --> B["因果定位重塑<br>教师处于成就方差中心枢纽 (30%)"]
+>     B --> C["教师思维框架转型<br>Know thy impact + 评价归因于教学"]
+>     C --> D["课堂操作机制<br>显性学习意图与成功标准 + 三核心提问"]
+>     D --> E["教学动态调适<br>诊断 (D) ➔ 干预 (I) ➔ 评估 (E)"]
+>     E --> F["双向可见性达成<br>教师看清教学影响，学生成为自身教师"]
 > ```
 
 ---
 
-> [!abstract] 证据基础：统计学 / [[Evidence-Based Education|循证教育]] / 学习科学
-
-### 元分析综合
-
-[[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–234)]] 描述了 Hattie [[Meta-meta-analysis|元-元分析]]（mega-analysis）的操作步骤：
-
-> [!proc] 操作步骤
-> 1. **确定 6 个影响源（sources of influence）** 家庭、学校（作为环境和行政机构）、教师、课程、教学策略与方法、学生
-> 2. **每个影响源下设评估[[Variable|变量]]**（共 138 个因素），从 Piaget 的儿童智力发展阶段到暑假
-> 3. **对每个因素综合各[[Meta-analysis|元分析]]，计算平均[[Effect Size|效应量]]（d）**，范围 -2 到 2
-
-### 效应量排名
-
-[[Argument_Hattie_2005_ACER|Hattie (2005, p. 16)]] 基于对 100 余项重大教学创新、30 万项原始研究的元分析综合发现，教育领域中绝大多数干预措施均能产生正向效应（$d > 0$），单纯证明干预“有效”缺乏区分度；因此必须以平均效应量 $d = 0.40$ 作为“关节点”（Hinge Point），提出关于干预“相对有效性”的衡量准则。[[Argument_Golovchin_2019_ESC|Golovchin (2019, pp. 232–234)]] 进一步总结了由此演化出的四区影响气压计：
-
-> [!stat-cards] 影响气压计（barometer of influence）（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, pp.232–233]]）
->
-> | 效应区 | d 范围 | 代表示例 |
-> |--------|--------|---------|
-> | 负面效应区 | d<0 | 暑假、看电视（d=-0.18）、转学（d=-0.34）|
-> | 发展效应区 | d=0–0.15 | 教师学科知识（d=0.09）、教师教育（d=0.11）|
-> | 低中效应区 | d=0.15–0.4 | [[Class Size\|班级规模]]（d=0.21）、家庭结构（d=0.17）|
-> | 期望效应区 | d>0.4 | 微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship\|师生关系]]（d=0.72）、[[Formative Assessment\|形成性评价]]（d=0.90）|
-
-### 学习方差分解
-
-Hattie 早在 2003 年与 2005 年澳大利亚教育研究委员会（ACER）大会报告中便确立了学业成就变异的六分来源蛋糕模型（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 13]]），后在高等教育领域进一步验证（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.87–88]]）：
-
-> [!stat-cards] 影响[[Academic Achievement|学业成就]]的方差来源（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 13]]；[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.87–88]]）
->
-> | 方差来源 | 估计比例/效果 | 说明 |
-> |---------|-------------|------|
-> | 学生因素 | 约 50% | 先前知识、认知发展、动机与学习偏好等带入课堂的个体背景差异 |
-> | 教师因素 | 约 25–30% | 教师专业素养与师生互动质量，是教育系统内部可控的最大因果影响源 |
-> | 家庭因素 | 约 5–10% | 家庭社会经济地位与家庭学习资源支持 |
-> | 学校因素 | 约 5–10% | 班级规模、校舍环境与行政管理架构等结构性条件 |
-> | 同伴效应 | 约 5–10% | 课堂学习共同体内部同伴互助与协同学习潜能 |
-> | 校长领导力 | 间接影响 | 通过营造学校支持性教研文化与教学领导力间接赋能教师 |
+## 围绕概念形成的命题
 
 ---
 
-### 学习科学：九条原则（Hattie & Yates, 2014）
+### 命题一　教育干预必须以平均效应量（$d=0.40$）为关节点研判“相对有效性”，而非停留于“是否有效”的二元判断
 
-Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英文本 *Visible Learning and the Science of How We Learn*）中提出九条贯穿全书的学习原则，以 Dan Willingham"大脑不是为思考而建、学习是艰苦工作"的命题为出发点（[[Argument_Fredens_2015_Paideia|Fredens, 2015, p.70–71]]）。
+> [!concept-lens] 相对有效性与统计基准
+> 探讨教育干预全域正向偏移的经验事实，论证为何必须设立超越自然成熟与常规教学的平均效应基准。
 
-> [!abstract]- 九条原则（[[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.70–71]]）
-> 1. "天赋""先天能力"和"智力"等概念有用，但不足以解释学习或表现
-> 2. 通过感官接触信息来学习——但增加知识需要信息具备与心智结构匹配的组织水平，且组织方式随年龄变化
-> 3. 心智有局限——达到局限时深度学习不可能，此后仅发生[[Surface and Deep Learning|表层学习]]
-> 4. 学习者可从社会榜样、[[Direct Instruction|直接教学]]和纠正性反馈中极大受益——通过教师学习至关重要，教师越理解学生学习的进展，学习就越有效
-> 5. 努力（effort）对动机至关重要——努力难以激活但可学习
-> 6. 短期目标极有激励作用——但可能与长期价值冲突，因此发展冲动控制和延迟满足重要
-> 7. 学习需要坚持——包括自尊需求和与他人互动
-> 8. 我们拥有显著的社会脑
-> 9. 错误的关于学习的观念在公共和专业语境中持续传播，尽管有科学证据——许多错误是破坏性的，由虚假承诺、经济利益和对轶事的过度信任驱动
+> [!claim] Hattie, J.
+> **相对有效性关节点判准** 在基础教育实践中，声称某项教学方法“有效”几乎没有信息量，因为基于对 100 余项重大教育创新、30 余万项原始实证研究的元分析综合发现，几乎所有干预措施的效应量都在零点以上（$d > 0$）。所有干预的效应量呈现以 $d = 0.40$ 为中心的钟形正态分布；该均值大致对应学生自然成熟（约 0.15）与一年常规教学效应的总和。因此，真正的专业提问必须从“该方法是否有效”转向“该方法能否带来大于 $0.40$ 的相对增益”；任何低于 $0.40$ 的举措实质上是在拖累学生，因为常规环境中一半的干预都能轻易跨越该门槛。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 16)]]; [[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 43–44)]]
 
-#### 社会脑与镜像神经元
-
-> [!finding-cards] 社会脑（[[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.71–72]]）
-> - **镜像神经元与共情** 镜像神经元让我们镜像他人情感；Damasio 称此为"as-if loop"——共情体验激活脑中相同区域。积极社会关系（尤其是早期[[Student-Teacher Relationship|师生关系]]）对学校发展至关重要。
-> - **默认网络的创意功能** 注意力中断时大脑转入默认网络，产生联想与创意发展——Hattie & Yates 仅强调注意力中断的缺点，忽略了这一功能。
+> [!claim] Golovchin, M. A.
+> **四区影响气压计** 戈洛夫钦（Golovchin）等学者基于 Hattie 的元分析数据库，系统整理了四区影响气压计（Barometer of Influence）：将干预划分为负面效应区（$d < 0$，如转学、看电视）、发展效应区（$d = 0–0.15$，如单纯教师学历）、低中效应区（$d = 0.15–0.40$，如班级规模）与期望效应区（$d > 0.40$，如形成性评价 $d=0.90$、微格教学 $d=0.88$、教学清晰度 $d=0.75$、师生关系 $d=0.72$），为教育决策提供了直观的相对效能参照。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232–233)]]
 
 ---
 
-> [!abstract] 核心理念：可见性与 Know thy impact
+### 命题二　教师教学效能是学校系统内部可控的最大因果枢纽，测验数据本质是检验教师自身教学的镜子
 
-### 教与学的可见性
+> [!concept-lens] 因果归因与评价认识论转型
+> 剖析学业成就的多层次方差来源，揭示数据本位模式下将评价从“判定学生资质”彻底转向“反思教学策略”的认识论跨越。
 
-> [!finding-cards] 核心命题
-> - **通过学生眼睛看课堂** 教与学的双向可见性——教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）。Hattie 援引 Graham Nuthall 的课堂[[Observation Method|观察研究]]：教师看不到或听不到课堂中 80% 发生的事情，核心思想由此转为"从谈论教学方式转向谈论教学的 impact"（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]]）。
-> - **教师话语的盲点** Hattie 团队开发的 iPhone app 可在三秒内将教师课堂语言[[Transcription in Qualitative Research|转录]]并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话实际占 70–80% 时间，但教师自认为只占 20–30%——这一认知错位本身就是"可见性"问题的缩影（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]]）。
+> [!claim] Hattie, J.
+> **学业成就方差分解与教师因果中心** 影响学业成就的六大方差源中，学生个体背景占 50%，但公立学校无法挑选社区生源；家庭、学校硬件与同伴各占 5–10%；而教师教学效能独占 30% 方差，构成了学校教育系统内部最大且唯一受政策直接调控的核心因果杠杆。将问责定位于教师，要求彻底颠倒评价数据的认识论指向：测验数据不是判定学生“行或不行”的标签，而是检验教师自身教学是否奏效的反光镜；学生未能掌握知识构成了教师调整后续教学方案的即时线索。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 13, 17)]]
 
-### "Know thy impact"
-
-> [!abstract] Know thy impact
-> Hattie 的核心口号，要求教师以可见证据评估自身教学对学生成绩的影响（Hattie, Masters & Birch, 2016, p.3，引自 McKnight & Whitburn, 2020, p.40）。核心问题不是"用哪种方法"，而是"我的教学对学生产生了什么影响、幅度是否足够大、是否覆盖了足够多的学生"。
+> [!claim] Hattie, J.
+> **八项教师思维框架与认识论自觉** 教师的教学效能根本上取决于其内隐的思维框架（Mind Frames）。以“认识自身影响（Know thy impact）”为核心枢纽，成功教师将自己视为变革推动者（Change Agent）、视评价为关于自身教学的反馈、主动与同事校准学业标准、倡导课堂深度对话并视学生错误为宝贵的诊断契机，从而在日常教学中实现持续的自我监控与调整。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, pp. 88–89)]]
 
 ---
 
-> [!abstract] 教学：思维框架 → 评价性判断 → 学习意图 → DIE → 反馈文化
+### 命题三　教学效能依托显性化进阶语言、明确成功标准与形成性三提问实现教与学的双向可见
 
-> [!logic-map] 教学层内部逻辑
-> 
-> ```mermaid
-> flowchart LR
->     A["思维框架"] --> B["评价性判断"]
->     B --> C["学习意图与成功标准"]
->     B --> D["DIE 循环"]
->     C --> D
->     D --> E["反馈文化"]
-> ```
+> [!concept-lens] 课堂可见性与形成性操作机制
+> 探讨如何打破师生之间的认知盲区，通过显性目标、质性进阶阶梯与动态反馈循环达成教学可见。
 
-### 八项教师思维框架（Mind Frames）
+> [!claim] Hattie, J.; Clarke, S. & Timperley, H.
+> **显性学习意图与成功标准的共享** 课堂中大量学生因不了解学习意图而陷入将“字迹工整、篇幅长”误当优秀的表象认知。通过在课程初始向学生显性呈现分阶段的成功标准（如毛利历史单元中明确区分事实描述与因果阐释），并在教学中贯通“目标通往何处、当前行进至何处、下一步走向何方”三核心提问，评价标准向学生完全敞开，使学生能够对自身学习展开准确的自我监控与自我调整。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 15, 17)]]
 
-> [!frames-ref] 八项教师思维框架（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.88–89]]）
-> 1. **Know thy impact** — 每日追问影响的含义、幅度与覆盖学生比例；是所有框架的[[Epistemology|认识论]]核心
-> 2. **I am a change agent** — 教师是主动改变学生学习轨迹的推动者，而非被动传递者
-> 3. **Inform from the outset** — 课程开始明确成功标准，将目标从隐性变为显性
-> 4. **Assessment as [[Feedback]] on my impact** — 评估首先是教师了解自身影响力的数据，而非排名工具
-> 5. **Work with others** — 与同事共同校准对"进步"的理解，防止单人参照系过窄固化偏见
-> 6. **Dialogue not monologue** — 双向[[Dialogue in Education|对话]]为主；教师话语实际占 70–80% 而非自认的 20–30%
-> 7. **Strive for challenge** — 明确高要求替代模糊的"尽力而为"，需与成功标准配合
-> 8. **Errors as opportunities** — 错误是诊断学习的信息来源，而非需要压制的失败标志
-
-### 作为评价性专业判断而非方法清单
-
-> [!abstract] 评价性[[Professional Judgment|专业判断]]（Hattie, 2015, pp.11–14）
-> Hattie 对 VL 的自我解释把重点从"选择排名最高的教学法"转回教师和学校的评价性[[Professional Judgment|专业判断]]。核心问题不是"哪一种方法排名最高"，而是教师能否持续判断自己的教学对学生产生了什么影响、这种影响是否足够大、是否覆盖了足够多学生。教师不是数据录入员，而是证据解释者——一个班测验成绩提高并不自动说明教学成功，还要追问提高的是表层记忆还是深层理解、哪些学生没有受益、反馈是否真正帮助学生知道下一步怎么改。更符合这一逻辑的做法是：教师共同看学生[[Homework|作业]]、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预——这种循环才是"Know thy impact"的实践含义。
-
-### 学习意图与成功标准
-
-> [!abstract] 成功标准优先于学习意图（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]；[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.256–257]]）
-> 教师须在每节课开始时将有限且可测量的学习目标写在白板上。Hattie 在访谈中承认学习意图常被误用——过于原子化和低水平——表示如果重新来过"可能只使用成功标准（success criteria）概念"。成功标准在系列课程开始时向学生展示"什么意味着成功"，建议以 10–12 周为一个周期；少于此时段则过于狭窄或导致过度测试。
-
-### DIE 模型
-
-Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成功教师的核心循环：
-
-> [!finding-cards] DIE 循环
-> - **D — Diagnose（诊断）** 在课程开始时诊断学生状态
-> - **I — Intervene（干预）** 当前干预未见效时切换至备选干预方案
-> - **E — Evaluate（评估）** 评估学生对干预的反应
-
-### 反馈文化
-
-> [!abstract] 使学校成为反馈文化（[[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.74–75]]）
-> [[Argument_Fredens_2015_Paideia|Fredens (2015, p.74)]] 将 Hattie & Yates（2014）的核心信息概括为文化主张：**"Gør skolen til en feedbackkultur"**（使学校成为反馈文化）。反馈不仅是教学技术，更应成为学校文化工具——促进文化发展和专业合作。这与 Hattie 后期强调的"安全、信任的学校文化"一致，但 Fredens 进一步指出实现这一目标需要教师与研究之间的伙伴关系（partnerskab mellem lærer og forskning），而非单向的知识传递。
+> [!claim] Knudsen, H.
+> **课堂话语盲点与双向可见性** 课堂观察显示教师普遍无法察觉课堂中 80% 正在发生的事情，且自认讲授仅占 20–30%（实测达 70–80%）。可见的学习通过技术工具与形成性评价打通盲区，促使教师通过学生的眼睛看教学、学生通过教师的眼睛看学习，达成教与学的双向透明。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 257–258)]]
 
 ---
 
-> [!abstract] 学校改进 / 实施
+### 命题四　可见的学习本质是教师评价性专业判断与反馈文化的重塑，而非机械执行的教学法清单
 
-### 忠实实施：Hattie 的官方模型
+> [!concept-lens] 专业判断、文化重构与外部批判
+> 辨析 VL 在实践落实中的两种对立取向，论证校本教研文化转型与评价性判断的不可替代性。
 
-> [!warning] 忠实执行（Fidelity）
-> Hattie 的官方培训要求教师严格按脚本执行。他称培训中"五人中仅一人通过"，理由是"几乎每个教师都想讲自己的故事、轶事和课堂，我们不允许"（Hattie, in [[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.254]]）。这一模型预设改进来自标准化复制，而非专业自主判断。
+> [!claim] Hattie, J.; Fredens, K.; Nordahl, T.
+> **评价性专业判断与反馈文化** VL 的核心绝非诱导教师从排名表中机械挑选高分教学法，而是赋能教师在复杂情境中开展评价性专业判断（Evaluative Professional Judgment）——持续依据学生学习证据诊断学情、选择干预并评估成效（DIE 循环）。正如弗雷登斯（Fredens）与诺达尔（Nordahl）所指出的，VL 的精髓在于将学校重塑为充满互信的“反馈文化”（Feedbackkultur），通过同伴观课、反思性对话与跨年级进阶标准共享，实现自下而上的集体能力建设。[[Argument_Fredens_2015_Paideia|(Fredens, 2015, pp. 74–75)]]; [[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–67)]]
 
----
-
-> [!abstract] 高等教育应用（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.80–81]]）
-> 影响不仅通过测试分数衡量，也通过[[Student Engagement|学生投入]]程度、对错误的容忍度、合作意愿与高度兴趣体现。
-
-> [!stat-cards] 六项高影响条件
-> | 条件 | d | 说明 |
-> |------|---|------|
-> | 评估自身影响力 / 教师合作 | 0.91 | 教师相信主要角色是评估自身影响力；与同事合作了解和评估影响 |
-> | 先前学习 | 0.85 | 基于学生带到课堂的先前知识进行教学 |
-> | 明确成功标准 | 0.77 | 在系列课程开始时告知学生成功标准 |
-> | 最优表深层比例 | 0.71 | 实施具有最优[[Surface and Deep Learning\|表层/深层学习]]比例的方案 |
-> | 适当挑战 | 0.57 | 设置适当挑战水平，不只要求"尽力而为" |
-
-> [!finding-cards] 应用发现
-> 1. **问题式学习（PBL）**（9项元分析）— 总体效应低（d≈0.08–0.24）；先备知识不足时效果尤差（d=−0.79）。引入时机比形式本身更关键，新手倾向逆向推理导致更多错误（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.84–85]]）。
-> 2. **在线 / 远程 vs 面授**（17项元分析）— 成绩无显著差异（d≈0.12）。方法本身不重要，重要的是成功标准、挑战与反馈质量（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, p.86]]）。
-> 3. **学生评教**（7项元分析，141研究）— 与教师有效性高度相关（d=0.47）；关键不在评教准确性而在教师是否利用反馈改进教学（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.86–87]]）。
-> 4. **笔记与回顾** — 记笔记改善有限（d=0.34），但回顾笔记效应极大（d=1.56）——"重要的不是记，而是回顾"（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, p.84]]）。
+> [!claim] Eacott, S.
+> **新泰勒主义风险与大师崇拜批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL 异化为行政当局追求绩效指标的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的泰勒主义”（Neo-Taylorism），剥夺教师专业能动性并诱发虚假的大师崇拜。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
 
 ---
 
+### 命题总览
 
-## 概念发展
-
-> [!dev-timeline]+ 概念发展
-> 
-> 1. **1987–1992 — 前史：[[Meta-meta-analysis|元综合]]积累**
-> 
->    *Hattie 参与两次大规模元综合，确立 d=0.40 基准线，奠定 VL 的方法论基础。*
-> 
->    - 1987 — 参与 Fraser-Walberg 团队元综合，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp.41–42]]）
->    - 1992 — 独立发表首篇元综合：134 项元分析、22,155 个[[Effect Size|效应量]]，确立平均基准 d=0.40（标准差 0.13）（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.42]]）
-> 
->    通用连续体（universal continuum）概念由此引入，代表 500 至 1500 万学生。关键发现：反馈是最强大单一影响（强化 1.13），d=0.40 自 1992 至 2008 年保持稳定，Hattie 将其设为所有可见影响的平均基准；最不成功创新为[[Individualised Instruction|个别化教学]]（0.14）和程序化教学（0.18），这些发现与 2009 年著作核心结论高度一致（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp.43–44]]）。
-> 
-> 2. **1999–2009 — 新西兰起源与出版**
-> 
->    *受教育部委托开发测试工具，完成商标注册与首书出版，第一波批评浪潮即刻[[Emergence|涌现]]。*
-> 
->    - 1999/2000 — asTTle/e-asTTle 受委托开发（国家课程测试系统）
->    - 2006 — Auckland Uniservices 注册 VL 商标，创建 VL Labs
->    - 2009 — *Visible Learning* 出版；*Sunday STAR Times* 头版报道引发媒体风暴
->    - 2010 — [[Argument_Hattie_2010_NZJES|Hattie]] 在 NZJES 系统性回应 [[Argument_Snook_2009_NZJES|Snook et al.]] 等批评
-> 
->    [[Argument_Hattie_2010_NZJES|Hattie (2010, pp.86–87)]] 自述"很明显许多评论者并未读过这本书"，以 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。回应核心：①研究质量已标注；②d=0.40"或许武断但绝非任意"，基于 800+ 元分析经验均值；③新西兰[[External Validity|可推广性]]——"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）；④驳斥选择性引用[[Class Size|班级规模]] STAR 大[[Effect Size|效应量]]（pp.88–91）。
-> 
-> 3. **2010–2018 — 商业化与品牌扩张**
-> 
->    *商业伙伴将 VL 从学术著作转化为全球专业发展品牌，Corwin 完成最终收购。*
-> 
->    - 2010 — [[Cognition Education]] 接手商业平台，开发面向教师和[[School Leadership|学校领导]]的模块化 PL curriculum
->    - 2014 — 品牌家族扩展（VL for Literacy / Mathematics / Wellbeing 等）
->    - 2018 — Corwin（[[Sage]] 集团）收购 VLplus，完成全球专业发展产品转手
-> 
->    真正把 VL 转成可销售产品的是这家起源于新西兰学校支持服务准市场的[[Educational Management Organisation|教育管理组织]]，而非大学。新 division 第一年收入接近 2M，次年接近 2.7M（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, pp.59–60；Johnson & Janzen, 2023, p.30]]）。品牌传播依赖 ACEL、奥克兰大学 VL 实验室与墨尔本大学的多层伙伴关系网络；Visible Classroom App 将 VL 逻辑延伸至教师劳动的实时监控。完整轨迹详见 [[Visible Learning Branding and Global Influences]]。
-> 
-> 4. **2014– — 全球政策采纳与各国再诠释**
-> 
->    *VL 进入至少 23 国政策文本；英语国家政策工具箱、北欧学术再诠释与丹麦制度反弹三条线索并行推进。*
-> 
->    - 2014 — 丹麦公立学校改革明确引用 VL，Hattie 在当地从"教育英雄"变为"教育敌人"；[[EEF Teaching and Learning Toolkit]] 借鉴 Hattie 比较性[[研究地图]]
->    - 2015 — Håkansson 记录瑞典"工作方式转向"；[[Argument_Nordahl_2015_Paideia|Nordahl]] 发表斯堪的纳维亚再诠释
->    - 2017 — VL 俄文版出版；[[Argument_Golovchin_2019_ESC|Golovchin]] 等评估后建议俄教育政策不予直接采用
->    - 2019 — Sarbiewska"第三面"研究、[[Argument_Qvortrup_2019_NordSTEP|Qvortrup]] 丹麦反弹分析相继发表
-> 
->    [[EEF Teaching and Learning Toolkit]] 受 Hattie 将多元研究置于同一量表的比较性研究地图思路启发，成为英语国家政策引用 VL 的核心中介（[[Argument_Higgins_2016_ROE|Higgins, 2016, p.47]]）。
-> 
->    **澳大利亚与新西兰**[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策文件与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与学生领导力。
-> 
->    **丹麦** 2014 年公立学校改革明确引用 VL，要求教师以"学习目标"替代"活动目标"。改革后 Hattie 在丹麦从"教育英雄"变为"教育敌人"，引发 *[[Hattie på dansk]]*（2017）批评文集和 SFI 委托评估报告（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）。
-> 
->    **俄罗斯** 2017 年翻译出版 VL 俄文版。[[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–233)]] 评估后指出 VL 元分析主要基于 1980s–2000s 三个英语国家的研究，跨文化迁移性有限，建议俄教育政策不予直接采用。
-> 
->    **瑞典**Håkansson（2015）记录了 VL 在瑞典引发的"工作方式转向"——改进重心拉回课堂近端（课堂试验、同伴观察、教师协作），而非围绕学习目标或国家标准的显性政治冲突（pp.52–59）。这种转向只有在校长持续聚焦主题、教师愿意围绕具体课堂片段展开专业[[Dialogue in Education|对话]]时才真正发生（参见 [[Visible Learning in Sweden]]）。
-> 
->    **斯堪的纳维亚研究者再诠释**[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 VL 重写为学校改进的起点而非技术菜单，提出三项核心转变：①个人技巧→集体改进（教师协作、课堂观察、持续反思）；②证据排名→概率判断（减少"全凭直觉"空间）；③外部问责→能力建设（[[Knowledge Mobilisation|知识动员]]、数据使用、校本专业学习）（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–67]]）。详见 [[Visible Learning Branding and Global Influences]]。
----
-
-## 理论基础
-
-> [!logic-map] 理论归属
-> - [[Positivism|实证主义]]／行为主义 → VL：[[Hypothesis|假设]]所有教与学可被量化为投入与产出（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]]）；Hattie 借鉴 Glaser 的学习理论（初始状态→能力状态转化），Glaser 来自 Skinner 的激进行为主义传统（Nielsen & Klitmøller, 2021, p.3）
-> - [[New Public Management]] ←→ VL：VL 被描述为"新管理全景监狱主义"的完美工具，使每个人可监视其他所有人（Ball, 2003, p.219）；同时借用[[Progressive Education|进步主义教育]]哲学语言（"学习必须被学习者分享、承诺和理解"），使其难以抵制（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]]）
-> - [[Radical Constructivism]] ←→ VL：[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证 Hattie 完全接受 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]学习观，但在其上叠加"教师中心教学"，导致教学概念双重瓦解（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp.7–8]]）
-> - [[Popper's Three Worlds Theory]] — Hattie 以 Popper 三个世界理论为[[Epistemology|认识论]]基础，区分表层、深层与概念性知识；[[Argument_Rømer_2018_EPT|Rømer (2018, pp.10–11)]] 论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 则指出其与 Bloom 修订版四层知识和 [[SOLO Taxonomy|SOLO]] 模型之间对应关系不清
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值 | 教育政策循证筛选与教学干预效果评估 | [[Argument_Hattie_2005_ACER|Hattie (2005)]]; [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] |
+> | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] |
+> | **显性进阶与双向可见** | 共享成功标准与形成性三提问，破除课堂认知盲区实现自主演进 | 课堂教学设计、形成性评价实施与师生互动 | Clarke, Timperley, & Hattie; [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] |
+> | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单与新泰勒主义 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]; [[Argument_Eacott_2019_IJLE|Eacott (2019)]] |
 
 ---
 
-## 实证发现
+## 概念演变
 
-> [!finding-cards] 实证发现
-> - Hattie 声称教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应（Hattie, 2009, p.271）
-> - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] 比较国际研究综合与丹麦 SFI 证据后发现，Hattie 强调的若干核心[[Effective Teaching|有效教学]]质量在丹麦研究中得到支持：清晰一致的[[Classroom Management|课堂管理]]、清晰目标、高要求和良好社会环境均与更好学生结果相关；弱社会背景学生尤其依赖教师明确领导和清晰目标([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–38]])。
-
-> [!stat-cards]- 核心数据
-> - 2009 年初版综合 800 多项[[Meta-analysis|元分析]]、50,000 多项原始研究，形成 150 多种教学影响因素的证据地图（Hattie, 2009；Terhart, 2011, pp.427–428）
-> - 关节点 $d = 0.40$ 自 1992 年至 2008 年保持稳定，Hattie 将此作为所有可见教育影响的平均值，而非脱离情境的硬性分界线([[Argument_Higgins_2016_ROE|Higgins, 2016, pp.43–44]])
-> - Hattie 在高等教育语境下概括的六项高影响条件包括教师自评影响、教师协作、把握学生先前学习、明确成功标准、平衡表层与[[Surface and Deep Learning|深层学习]]、设置适当挑战（[[Argument_Hattie_2015_SOTLP]], pp.80–81）
-
-> [!warning] 对[[Heterogeneity|异质性]]的回应
-> Hattie 不否认[[Heterogeneity|异质性]]，而是要求把异质性转化为[[Research Question|研究问题]]。例如反馈的平均效应很强，但反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用"反馈有效"替代对具体机制的判断（Hattie, 2015, p.11；Higgins, 2016, p.45）。
+> [!dev-timeline] 概念演变
+> - **1987–1992 — 元综合积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项元分析、22,155 个效应量的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
+> - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 asTTle 测评系统，Hattie 在 2003 年与 2005 年 ACER 大会上完整阐发了成就方差六分模型、相对有效性判准、学业进阶共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–19)]]
+> - **2009–2010 — 著作出版与全球理论论战** 《可见的学习》初版出版，汇总 800 余项元分析与 150+ 影响因素，引发全球教育界轰动；随后在《新西兰教育研究杂志》系统回应关于方法论、STAR 班级规模实验及外部有效性的第一波批评。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–91)]]
+> - **2010–2018 — 品牌化扩张与全球政策采纳** Cognition Education 与 Corwin（Sage 集团）将 VL 转化为全球专业发展培训品牌；英国 EEF、澳大利亚 Gonski 2.0 改革、维多利亚州 HITS 以及丹麦公立学校改革等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019)]]
+> - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于新泰勒主义与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]
 
 ---
 
 ## 争议与批评
 
-> [!nav] 批评导览
-> [[Critiques of Visible Learning]] 专门整理对 [[Visible Learning]] 的方法论、[[Didaktik|教学理论]]、教育哲学、文化政治与政策商业化批评。此处只保留入口，避免把 VL 本身的概念结构与围绕它的批评[[Document|文献]]混在同一条目中。
->
-> 快速阅读路径：
-> - 统计与[[Effect Size|效应量]]问题：[[Effect Size]]、[[Meta-analysis]]、[[Meta-meta-analysis]]
-> - 可见性与评价理论问题：[[Pure Evaluation]]、[[Performativity of Measurement]]、[[Blind Spot in Observation]]
-> - 政策与商业化问题：[[Visible Learning Branding and Global Influences]]、[[Policy Entrepreneur]]、[[Educational Management Organisation]]
-> - 教育哲学与 [[Bildung]] 批评：[[Bildung]]、[[Learnification]]、[[Technical Rationality]]
+> [!tension] 核心张力一：评价性专业判断 vs 机械教学法清单（新泰勒主义）
+> - **评价性专业判断立场（蓝方）** Hattie 与支持者强调 VL 不是静态食谱，而是要求教师在具体课堂情境中扮演证据解释者，依据学生即时反馈动态调整教学（DIE 循环）。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, p. 81)]]
+> - **新泰勒主义批判立场（红方）** 批评者指出行政部门与商业机构常将 VL 异化为可量化考核的操作清单，以效应量排名规训教师日常教学，剥夺专业自主权。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
 
-> [!warning] 方法论局限：测量了什么类型的学习
-> [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从支持者立场指出，VL 的元-元分析得到的是抽象学习结果，难以说明所测量的究竟是知识与技能、社会能力、[[Surface and Deep Learning|表层学习]]、深层学习还是概念性学习（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]]）。Hattie 本人承认：多数纳入研究的测验特别适合测量表层特征，对深层学习有一定测量能力，却很少有效测量学生从课堂经验中建构的概念表征（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.29]]）。若要继续发展，VL 需要一种明确区分不同学习结果并解释其动态关系的模型——[[Dynamic Knowledge and Learning Model]]——而不是只输出跨知识层次的总平均效应（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.29–33]]）。
+> [!tension] 核心张力二：通用效应量跨情境概括 vs 学科与知识层次异质性
+> - **通用效应量汇总立场（蓝方）** 主张通过大样本元分析提炼跨学科、跨学段的通用有效教学规律，为资源配置与教研重点提供概率性指引。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 16)]]
+> - **知识形态异质性批判立场（红方）** 批评者指出元分析混淆了表层事实记忆与深层概念建构，掩盖了不同学科独特的认知规律与情境异质性。[[Argument_Qvortrup_2015_Paideia|(Qvortrup, 2015, pp. 29–33)]]
 
-> [!warning] 数据与产出局限
-> - **数据来源** 元分析基于 1980s–2000s 三个英语国家（美国、澳大利亚、新西兰）的研究，跨语境迁移性有限（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232]]）。
-> - **争议性产出** 教师学科知识和教师资格对[[Academic Achievement|学业成绩]]的效应量（d=0.1）远低于微格教学和反馈——这一结论引发批评者对[[Ganz-Methode|整体方法]]有效性的质疑（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.233]]）。系统性批评见 [[Critiques of Visible Learning]]。
+> [!critique] 外部学术批评导览
+> - **批评系统入口** 完整的方法论、教学论、教育哲学与政策商业化批评详见专用条目 [[Critiques of Visible Learning]]。
+> - **数据与文化局限** 原始元分析主要基于英语国家历史文献，直接跨语境迁移到非英语国家或不同社会文化体制中存在显著适应性障碍。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 
-> [!tension] 好教师能否以人格类型定义？
-> - **Hattie & Yates** — 好教师不能以特定人格类型定义。
-> - **Fredens（引 Lambert & Barley, 2001）** — 治疗师人格是治疗关系中最重要的因素，比所用方法更重要；由此质疑：教师的人格性表现（personlige ageren）在[[Student-Teacher Relationship|师生关系]]中是否比所用方法更具决定性？（[[Argument_Fredens_2015_Paideia|Fredens, 2015, p.73]]）
-
-> [!tension] [[Neo-Taylorism]] 批评与学术体制免疫（Eacott, 2017–2019）
-> - **Hattie** — VL 把"影响教育成就的因素"转化为可按[[Effect Size|效应量]]排名的离散干预列表，告诉教育者"做什么以获得最大回报"（maximum return）；用行政语言说话的数据填补了 NAPLAN/[[PISA]]/TIMSS 问责压力与操作细节之间的空缺（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
-> - **Eacott** — VL 是"新时代的泰勒主义"（Taylorism for a new time）：Taylor 追求消除"磨洋工"（soldiering），Hattie 追求消除"得过且过"（coasting）；Taylor 拆解工作流程，Hattie 拆解教学实践；两者同构地追求"唯一正确方法"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]]）。[[Cult of the Guru|大师崇拜]]成为可能的三个历史条件：①时间压力（PISA 数据引发成绩担忧）；②桥梁（Robinson 等引入效应量语言但缺操作细节）；③填补（Hattie 用行政语言说话的数据）。
->
-> **学术体制免疫**[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 Popper [[Falsification|证伪主义]]否认"大师崇拜"，其回应被 *[[School Leadership]] & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术[[Dialogue in Education|对话]]与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
----
-
-> [!citation-card]-
-> "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015b, p.81]])
+> [!warning] 适用局限
+> 元分析所汇总的标准化测验多偏向于测量表层知识与常规技能，对深层批判性思维、概念建构与非认知福祉的测量覆盖度存在天然局限。[[Argument_Qvortrup_2015_Paideia|(Qvortrup, 2015, p. 29)]]
 
 ---
 
-## 相关研究与案例
+## 实证数据
 
-> [!example] 相关研究与案例
-> - [[Tomorrow's Schools Reforms]] — 创造了私营 [[Educational Management Organisation|EMO]] 进入新西兰公立教育服务市场的条件，[[Cognition Education|Cognition Education]] 直接起源于此改革
-> - [[Contestable School Support Services]] — 教育部将学校支持服务转为竞争性招标，Cognition Education and CORE Education 均为竞标者
-> - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 的类似[[Meta-meta-analysis|元-元分析]]工具，面临类似的方法论批评
-> - [[Danish Public School Reform]] — 丹麦议会改革明确引用 VL，将 Hattie 从"教育英雄"转变为"教育敌人"
-> - [[Hattie på dansk]] — 丹麦语批评文集，汇集多篇对 VL 的强烈批评
-> - [[SFI Report]] — 检验 VL 及相关[[Effective Teaching|有效教学]]综合丹麦适用性的主要本土证据
-> - [[Jill Mehlbye]] — 丹麦高绩效学校研究中关于高要求、[[Academic Achievement|学业表现]]取向和[[Classroom Management|课堂管理]]的补充证据
-> - [[Victorian HITS and Literacy Toolkit]] — VL 为维多利亚州 10 项 HITS 策略的首要参考
-> - [[The New Zealand Curriculum]] — 2010 年实施，ERO 定期评估 VL 相关原则的落实情况
-> - [[Australian Curriculum]] — 2012 年 ACARA 批准，三维度课程框架，以 VL 为首要研究参考
-> - [[Gonski Reforms]] — Gonski 2.0（2018）以个体进步衡量成功学习，呼应 VL 的可见的学习（Visible Learning，VL）成果理念
+> [!ma-table]- 二阶元分析结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Hattie_2005_ACER|Hattie (2005)]] | 干预因素：宏观教学与学校创新综合 | $M > 100$；$k > 300,000$ 项底层原始研究 | 标准化均值差 $d$；全域元综合分布 | 平均效应量 $d = 0.40$（标准差 $pprox 0.20$） | 效应量呈正态分布，绝大多数干预 $d > 0$ | 确立 $d=0.40$ 为全行业平均关节点基准，不代表单一干预在特定情境下的确定性效果 |
+> | Hattie (2009, 2015b) | 干预因素：基础教育与高等教育教学影响因素综合 | $M > 800$（2009版）/ 1,200+（后期版）；涵盖 50,000+ 原始研究与数千万学生 | 标准化均值差 $d$；排名矩阵模型 | 整体均值维持在 $d pprox 0.40$ | 因子效应跨度从 $d = -0.34$ 至 $d = 1.56$ | 汇总横跨数十年跨国研究，存在原始测验工具偏向表层技能的测量局限 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Hattie_2005_ACER|Hattie (2005, p. 13)]] | 多国学业成就方差多层实证模型 | 多层线性方差分解元模型 | 六大学业成就变异源方差贡献率 | 学生个人差异 50%；教师教学效能 30%；家庭 5–10%；学校 5–10%；同伴 5–10%；校长间接影响 | — | 实证确立教师在学校系统内部可控变量中占据绝对主导地位（30%） |
+> | [[Argument_Hattie_2005_ACER|Hattie (2005, pp. 15–16)]] | 新西兰 asTTle 常模标定样本（25,000 名 5–12 年级学生，1,500 余道试题） | 大样本横断面与纵向常模测评 | 数运算策略 vs. 几何知识跨学段成长曲线 | 数运算策略从 5 至 12 年级呈现陡峭线性递增；几何知识在 5–7 年级出现明显停滞甚至倒退 | — | 实证揭示现行小学几何课程脱离学生实际认知进阶，为循证课改提供依据 |
+> | [[Argument_Hattie_2005_ACER|Hattie (2005, p. 12)]]（Hattie & Peddie, 2003） | 新西兰 156 所中小学真实出具给家长的期末学业报告卡 | 文本内容分析与编码统计 | 报告提及国家课程等级比例、标准参照率与评语倾向 | 仅 12 所（<8%）提及官方课程等级；>50% 无客观标准；98% 为纯正面赞许评语 | — | 揭示学校报告缺乏客观进阶信息，导致家长产生虚假乐观并倒逼外部统考 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 奠定 VL 前夕理论与统计框架，提出 $d=0.40$ 关节点、30% 教师方差贡献、asTTle 形成性三提问与学业进阶共享语言。
+> - [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] — 提炼八项教师思维框架、DIE 教学循环及高等教育情境下的六项高影响条件。
+> - [[Argument_Fredens_2015_Paideia|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
+> - [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、教师协作研讨与能力建设的微观实践路径。
+> - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为新泰勒主义控制与大师崇拜的制度风险。
+> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 批判 VL 测量工具对表层技能的偏向，倡导建立区分知识层次的动态学习模型。

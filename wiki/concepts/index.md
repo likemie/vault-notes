@@ -615,7 +615,7 @@ Total entries: **1015**
 > - [[Teaching and Learning Activities]] — 为促使学生开展目标认知行为而安排的教学与学习活动，可由教师、同伴或学生组织，是连接课程目标与学习结果的实施环节。
 > - [[Teams-Games-Tournament]] — 由 David DeVries 与 Keith Edwards（1973）开创、Robert Slavin 发展的经典合作-竞赛混合教学模式。该方法以同质能力竞赛台（Tournament Tables）替代传统纸笔测验，通过异质小组互助备考与能力均等同伴竞赛，实现低焦虑、高动机的学业掌握与团队赋能。
 > - [[Think-Pair-Share]] — 由 Frank Lyman（1981）提出的一种低门槛、短周期的即时合作学习策略，通过独立思考（Think）、同伴配对研讨（Pair）与全班展示（Share）三阶段结构，保障全体学生的课堂等待时间、认知加工深度与口头参与度。
-> - [[Visible Learning]] — John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。
+> - [[Visible Learning]] — John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。
 > - [[Whole Language]] — 强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。
 
 > [!index-list]- Learning Science Cognitive Science (34)
