@@ -7,10 +7,10 @@ aliases:
 summary: "研究学习共同体（RLC）项目在英格兰 79 所小学实施的基线调查问卷，围绕参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四个因素共 14 道题，采用五级李克特量表，用于在干预开始前刻画学校推进证据知情自我改进的准备状态并诊断组织制度性短板。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 23
-instrument_related_level: 4
-instrument_related_stars: "⭐⭐⭐⭐"
-instrument_related_color: "#fef3c7"
+instrument_related_count: 25
+instrument_related_level: 6
+instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
+instrument_related_color: "#fecdd3"
 part_of: "[[Research Learning Communities]]"
 developers:
   - "[[Chris Brown|Brown, C.]]"
@@ -52,7 +52,9 @@ related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Measurement Invariance]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Toby Greany]]"
+  - "[[Alan Daly]]"
 related_facts:
   - "[[Research Learning Communities]]"
   - "[[Education Endowment Foundation]]"
@@ -73,7 +75,7 @@ updated: 2026-09-16
 
 > [!instrument-profile] [[Research Learning Communities]] Baseline [[Questionnaire|survey questionnaire]]
 > - **工具类型** 自陈式调查问卷，用于系统描述与诊断学校层面的[[Research Utilization|证据使用]]准备状态与组织生态。
-> - **开发者与年份** Brown, C.、Greany, T. 与 Daly, A.（2014）。问卷由研究团队基于[[Literature Review|文献综述]]自主编制，并特邀加州大学圣迭戈分校（UCSD）教授 Alan J. Daly 共同设计；Daly 在考察教育证据如何在学区校际社会网络与非正式人际信任网络中流动方面积累了深厚实证经验（Daly, 2010; Finnegan & Daly, 2012）。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 127)]]
+> - **开发者与年份** Brown, C.、[[Toby Greany|Greany, T.]] 与 Daly, A.（2014）。问卷由研究团队基于[[Literature Review|文献综述]]自主编制，并特邀加州大学圣迭戈分校（UCSD）教授 [[Alan Daly|Alan J. Daly]] 共同设计；Daly 在考察教育证据如何在学区校际社会网络与非正式人际信任网络中流动方面积累了深厚实证经验（Daly, 2010; Finnegan & Daly, 2012）。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 127)]]
 > - **测量目的** 用于研究测量与组织诊断，在英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）资助的“研究学习共同体”（RLC）为期两年的干[[Pilot Testing|预实验]]启动前，刻画英格兰小学在四类关键使能因素上的基线准备状态，诊断[[School Enquiry Cycle|学校探究循环]]的制度性断点。
 > - **实施方式** 通过 Survey Monkey 在线自陈填报，经各校校长以电子方式分发至所有 RLC 项目学校与对照学校的全员教师及[[School Leadership|学校领导]]者。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 128)]]
 

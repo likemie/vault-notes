@@ -7,7 +7,7 @@ summary: "英国杜伦大学教育学教授（曾任职于华威大学与UCL教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,8 @@ related_methods:
   - "[[Experimental Research]]"
 related_persons:
   - "[[Kim Schildkamp]]"
+  - "[[Toby Greany]]"
+  - "[[Alan Daly]]"
 related_facts:
   - "[[Research Learning Communities]]"
 related_arguments:
@@ -85,7 +87,7 @@ updated: 2026-09-16
 > - **2015 — *Leading the Use of Research & Evidence in Schools*** 系统阐述[[School Leadership|学校领导]]者如何构建支持研究证据利用的校本文化与中介基础设施。
 > - **2017 — *Combining the best of two worlds: a conceptual proposal for evidence-informed school improvement*** 与 [[Kim Schildkamp]] 和 Mireille D. Hubers 合作，系统论证 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 的优劣互补性，提出“[[School Enquiry Cycle|学校探究循环]]”（ESTI）八步模型。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 154–172)]]
 > - **2018 — *How Social Networks Facilitate Teacher Learning and Innovation*** 深入剖析教师专业学习网络在证据扩散中的社会机制。
-> - **2018 — *The Evidence-Informed School System in England: Where Should School Leaders Be Focusing Their Efforts?*** 与 Toby Greany 合作，把[[Evidence-Informed Practice|证据知情实践]]的[[Unit of Analysis|分析单位]]由个体决策上移至学校组织，从[[Document|文献]]中提炼能力、[[Research Utilization|研究使用]]的文化常规、有效学习环境与支持性结构系统资源四类关键因素，并以英格兰 79 所小学 696 名实践者的基线调查指出学校在评价环节、反思教学[[Hypothesis|假设]]与正式研讨论坛上准备最薄弱。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122–126, 129–132)]]
+> - **2018 — *The Evidence-Informed School System in England: Where Should School Leaders Be Focusing Their Efforts?*** 与 [[Toby Greany]] 合作，把[[Evidence-Informed Practice|证据知情实践]]的[[Unit of Analysis|分析单位]]由个体决策上移至学校组织，从[[Document|文献]]中提炼能力、[[Research Utilization|研究使用]]的文化常规、有效学习环境与支持性结构系统资源四类关键因素，并以英格兰 79 所小学 696 名实践者的基线调查指出学校在评价环节、反思教学[[Hypothesis|假设]]与正式研讨论坛上准备最薄弱。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122–126, 129–132)]]
 
 ---
 
@@ -97,5 +99,5 @@ updated: 2026-09-16
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 特刊重点述评 Brown 的[[School Enquiry Cycle|学校探究模型]]。
 > - [[School Enquiry Cycle]] — 核心理论模型条目。
 > - [[Research-Engaged School]] / [[Activity Traps]] — 2018 年论文所依托的组织形态概念与协作探究缺陷概念。
-> - [[Research Learning Communities Baseline Survey Questionnaire]] — 与 Alan Daly 共同设计的项目基线调查工具。
+> - [[Research Learning Communities Baseline Survey Questionnaire]] — 与 [[Alan Daly]] 共同设计的项目基线调查工具。
 > - [[Data-Based Decision Making]] / [[Research-Informed Teaching Practice]] — 探究循环所整合的两大支柱。

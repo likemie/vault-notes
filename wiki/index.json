@@ -1865,6 +1865,16 @@
     ]
   },
   {
+    "title": "Teacher Conceptions of Assessment",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Teacher Conceptions of Assessment.md",
+    "aliases": [
+      "教师评价观",
+      "Conceptions of Assessment",
+      "COA"
+    ]
+  },
+  {
     "title": "Test Scoring and Weighting",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Test Scoring and Weighting.md",
@@ -2169,6 +2179,17 @@
       "know-how-to",
       "propositional knowledge",
       "applied knowledge"
+    ]
+  },
+  {
+    "title": "Learning Progression",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Learning Progression.md",
+    "aliases": [
+      "学业进阶",
+      "学习进阶",
+      "表现进阶",
+      "achievement progression"
     ]
   },
   {
@@ -9491,6 +9512,16 @@
     ]
   },
   {
+    "title": "Joint Practice Development",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Joint Practice Development.md",
+    "aliases": [
+      "联合实践发展",
+      "JPD",
+      "联合实践开发"
+    ]
+  },
+  {
     "title": "Lesson Study",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Lesson Study.md",
@@ -16016,6 +16047,15 @@
     ]
   },
   {
+    "title": "Assessment Tools for Teaching and Learning",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Assessment Tools for Teaching and Learning.md",
+    "aliases": [
+      "asTTle",
+      "教学与学习评估工具"
+    ]
+  },
+  {
     "title": "BioMedical Admissions Test",
     "type": "instrument",
     "path": "wiki/instruments/tests/BioMedical Admissions Test.md",
@@ -18019,6 +18059,15 @@
     ]
   },
   {
+    "title": "Toby Greany",
+    "type": "person",
+    "path": "wiki/persons/uk/Toby Greany.md",
+    "aliases": [
+      "托比·格里尼",
+      "Greany, T."
+    ]
+  },
+  {
     "title": "Tom Schuller",
     "type": "person",
     "path": "wiki/persons/uk/Tom Schuller.md",
@@ -18075,6 +18124,17 @@
     "aliases": [
       "Miyake, A.",
       "阿基拉·三宅"
+    ]
+  },
+  {
+    "title": "Alan Daly",
+    "type": "person",
+    "path": "wiki/persons/us/Alan Daly.md",
+    "aliases": [
+      "阿兰·戴利",
+      "Alan J. Daly",
+      "Daly, A. J.",
+      "Daly, A."
     ]
   },
   {
@@ -24840,6 +24900,11 @@
     "title": "Argument_Lakhani_2012_AKUIED",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Lakhani_2012_AKUIED.md"
+  },
+  {
+    "title": "Argument_Hattie_2005_ACER",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
   },
   {
     "title": "Argument_Cowen_2015_CHESS",

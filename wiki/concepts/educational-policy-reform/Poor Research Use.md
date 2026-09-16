@@ -7,7 +7,7 @@ aliases:
 summary: "指脱离学生真实学情、缺乏批判审思且未经全员协同认同的异化证据使用形态；表现为盲从网络时髦、领导独断推行与教师僵化防卫。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Likert Scale]]"
 related_persons:
   - "[[Mark Rickinson]]"
+  - "[[Toby Greany]]"
   - "[[Chris Brown]]"
   - "[[Carol Weiss]]"
 related_facts:
@@ -120,7 +121,7 @@ updated: 2026-09-16
 > [!claim] Rickinson et al.
 > **知识异化机制** 劣质研究使用并非从业者信息匮乏导致的消极未用，而是一种由脱离教学实际的功利追风与行政强加所驱动的组织病态。[[Mark Rickinson|马克·里金森]]（Mark Rickinson）等学者基于澳大利亚中小学实践者的实证经验指出，当外部研究被剥离了对特定学情与情境适切性的深度审问，仅凭社交媒体时髦流行或高层个人偏好强行推入学校时，研究证据不仅丧失了促成教学改进的实践潜能，反而沦为消耗教职工精力、加剧行政形式主义并导致学生学业停滞的沉重枷锁。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 189–191)]]
 
-> [!claim] Brown, C. & Greany, T.
+> [!claim] Brown, C. & [[Toby Greany|Greany, T.]]
 > **校级变革缺乏研究审查时的追风风险** 布朗（[[Chris Brown]]）与格里尼（Toby Greany）在英格兰 79 所小学的基线调查中发现，面对“我不支持在缺乏研究支撑的情况下实施全校性变革”这一表述，仅 50% 的实践者表示同意或非常同意，38% 表示不确定，13% 表示不同意或非常不同意。这一分布提示学校层面的变革决策缺少以研究基础为前提的共识性约束，从而使学校容易采纳流行做法或未经检验的举措。另一种解释是：在严格问责下，学校可能转而推测督导机构所看重的指标，而非查阅证据基础，总结性测评数据因此压倒其他形式的证据，尽管此类数据并不足以指导教师实践的改进。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 129–130)]]
 
 ---

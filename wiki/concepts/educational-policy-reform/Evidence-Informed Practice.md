@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 80
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -83,13 +83,15 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Framework Synthesis]]"
   - "[[Likert Scale]]"
-related_persons: []
+related_persons:
+  - "[[Toby Greany]]"
 related_facts:
   - "[[Teaching and Learning Research Programme]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[ResearchED]]"
   - "[[Data Team Intervention]]"
   - "[[Research Learning Communities]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
@@ -289,7 +291,7 @@ updated: 2026-09-16
 > [!concept-lens] 学校层面的条件配置
 > 这类命题把 EIP 的[[Unit of Analysis|分析单位]]由个体决策上移至学校组织，讨论哪些组织条件必须同时存在，研究使用才能从个别教师的做法变为学校的常态。
 
-> [!claim] Brown, C. & Greany, T.
+> [!claim] Brown, C. & [[Toby Greany|Greany, T.]]
 > **四类条件的互补性** 学校要把自身建成[[Research-Engaged School|研究参与学校]]，须同时具备参与研究并运用证据的能力、使研究使用成为常规的文化、以[[Professional Learning Community|专业学习共同体]]为载体的有效学习环境，以及支撑研究使用的结构、系统与资源。四者并非可相互替代的并列选项：能力不足会使证据无法被正确解读，文化缺位会使个别教师的使用难以持续，学习环境薄弱会使研究使用退化为技巧采纳，结构缺位则使前两者失去时间与空间保障。任一环节缺位，证据知情实践都难以在学校层面稳定下来。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122–126)]]
 
 > [!claim] Stoll, L. 等
@@ -324,7 +326,7 @@ updated: 2026-09-16
 > - **2017 — 定义、应用与测量的三轴整合** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 编辑特刊，将 EIP 系统化组织为定义（四源整合）、应用（[[Knowledge Mobilisation|知识动员]]四策略与肥沃土壤）与测量（双重缺口与成果分层）三大主题。
 > - **2017 — [[Operationalization|操作化]]整合模型（[[School Enquiry Cycle|ESTI]]）与两界融通** [[Argument_Brown_2017_ER|Brown et al. (2017)]] 针对 EIP 在实践中分裂为 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 的双轨割裂现状，提出整合内部[[Data Team Intervention|数据团队]]与外部[[Research Learning Communities|研究学习共同体]]的 ESTI 八步探究循环，为 EIP 奠定了微观操作化理论基石。
 > - **2021 — 欧洲政策语言与非处方化协调** 在欧盟语境中，EIP 被重新概念化为适应成员国教育主权、培育评价文化与[[Knowledge Mediation|知识中介]]的非处方化政策语言。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
-> - **2021 — [[Local Knowledge in Evidence-Based Policy|地方知识]]与多维决策信息的显影** [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] 结合 ESSA [[Evidence Standards|证据标准]]与巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证实施语境、成本与地方知识对证据使用的塑造作用。
+> - **2021 — [[Local Knowledge in Evidence-Based Policy|地方知识]]与多维决策信息的显影** [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] 结合 [[Every Student Succeeds Act|ESSA]] [[Evidence Standards|证据标准]]与巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证实施语境、成本与地方知识对证据使用的塑造作用。
 > - **2022 — 系统论转向与政策调查国际映射** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 依托[[OECD|经合组织]]（OECD）项目将 EIP 拓展至 29 个国家的 37 个教育系统，从复杂系统论和行动者生态视角，揭示政策制定者与实践者在证据知情过程中面临的结构性壁垒与共创瓶颈。
 > - **2022 — 实践倾斜反思、商业异化与循证医学镜鉴** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 考证 EIP 重心由政策端向实践端的历史转移（如 [[Education Endowment Foundation|EEF]] 与 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 的兴起），警告过度偏向课堂易诱发政策层自我脱责；揭示证据知情标签存在被商业资本与自利操纵者绑架的异化风险，并援引循证医学危机阐明僵化指南对专业判断的潜在侵蚀。
 > - **2022 — 从证据质量向使用质量的[[Paradigm|范式]]跃升** [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] 结合澳大利亚 4 州 906 名教育者实证调查，将 EIP 由单纯讨论证据生产转向深耕使用质量，凝练出高质量使用六大特征并确立榜样领导与工时排程的刚性使能地位。
@@ -395,7 +397,7 @@ updated: 2026-09-16
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 追溯 15 年来循证运动从政策端向实践端的演进历程，反思证据知情标签的商业公关化风险，并借助循证医学反思捍卫教师[[Professional Judgment|专业判断]]与[[Knowledge Mediation|知识中介]]的独立性。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation|知识动员]]策略与成果测量类型学。
-> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 通过马里兰州 [[Students and Teachers Accessing Tomorrow|STAT]] 技术改革项目，检验 ESSA [[Evidence Standards|证据标准]]在学区采购与复杂改革中的局限性，论证[[Local Knowledge in Evidence-Based Policy|地方知识]]与实施成本对[[Evidence-Informed Decision-Making|证据知情决策]]的塑造作用。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 通过马里兰州 [[Students and Teachers Accessing Tomorrow|STAT]] 技术改革项目，检验 [[Every Student Succeeds Act|ESSA]] [[Evidence Standards|证据标准]]在学区采购与复杂改革中的局限性，论证[[Local Knowledge in Evidence-Based Policy|地方知识]]与实施成本对[[Evidence-Informed Decision-Making|证据知情决策]]的塑造作用。
 > - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] — 梳理欧盟证据知情教育政策与中介机构网络，提出适应成员国教育主权、非处方式推进评价文化与证据支持的跨国治理路径。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 梳理 EIP [[Epistemology|认识论]]变迁与 20 年知识管理脉络，将实践知情与政策决策统合进复杂[[Evidence Ecosystem|证据生态系统]]，并对 29 国跨国政策调查框架展开系统奠基。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 基于跨国 109 项研究的[[Systematic Review|系统综述]]，提出学校[[Research Utilization|研究使用]]应从自上而下的线性实施转向以[[Teacher Professional Agency|教师能动性]]为核心的多维整合[[Paradigm|范式]]。

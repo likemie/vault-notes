@@ -10,10 +10,10 @@ aliases:
 summary: "以改善学生学业与福祉为共享愿景、依托合作探究与反思性对话深化教学实践并制度化研读转化外部证据的学校协同组织形态。"
 type: concept
 domain: "teacher-education"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - field/teacher-education
   - field/educational-leadership-administration
@@ -61,6 +61,8 @@ related_methods:
   - "[[Likert Scale]]"
 related_persons:
   - "[[Mark Rickinson]]"
+  - "[[Toby Greany]]"
+  - "[[Alan Daly]]"
   - "[[Chris Brown]]"
 related_facts:
   - "[[Research Learning Communities]]"
@@ -153,6 +155,9 @@ updated: 2026-09-16
 > [!claim] DuFour; Stoll et al.
 > **去私有化机制** 传统学校组织架构往往将教师分割在彼此封闭的独立教室空间中，形成了各自为政的职业孤岛。理查德·杜福尔（Richard DuFour）与路易丝·斯托尔（Louise Stoll）等学者指出，专业学习共同体通过确立以学生实质学习成效为导向的共同承诺，将分散的教学经验转化为集体共享的专业资产；通过定期的公开观摩、[[Reflexivity|反思性]]对话与共同归因，PLC 促成了教学实践的去私有化（De-privatisation），使学校由松散的个体联合体转型为具有自省与适应能力的学习型组织。
 
+> [!claim] Timperley, H.
+> **以学生学习增进为成功条件的五要素共同体模型** 海伦·廷珀利（Helen Timperley）在综合教师专业发展实证文献时指出，绝大多数外部专业培训之所以成效匮乏，症结在于活动脱离了对学生实际学习结果的考察。真正的专业学习共同体必须具备五大核心支柱：确立关于儿童与教与学角色的共享价值观与期望、建立聚焦学生学习的规范控制、促进专业知识共享的深度协作、推进去私密化教学实践（Deprivatised Practice）以及展开深度反思性对话；唯有将专业研讨的成功条件严格锚定在学生学习成效的实质改善上，才能破除私有化教学惯性并实现校本教研文化的深层重构。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 18–19)]]
+
 ---
 
 ### 命题二　制度化排程的专业学习共同体是研究证据有效转化为课堂行动的实践庇护所与转化中枢
@@ -179,7 +184,7 @@ updated: 2026-09-16
 > [!claim] Stoll, L. 等
 > **反思性专业探究是有效学习环境的判定特征** 斯托尔等学者指出，PLC 之所以能够承担证据转化功能，核心在于其反思性专业探究特质：围绕严肃教育议题展开对话、主动寻求新知识并将默会经验显性化。若缺少[[Reflective Thinking|反思性探究]]，共同体虽按期开会，却不再构成[[Research Utilization|研究使用]]所需的有效学习环境。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125)]]
 
-> [!claim] Brown, C. & Greany, T.; Daly, A. J.
+> [!claim] Brown, C. & [[Toby Greany|Greany, T.]]; [[Alan Daly|Daly, A. J.]]
 > **全员包容性参与与防范任务小组异化** 最有效的[[Knowledge Mobilisation|知识动员]]发生在 PLC 实现全员包容性参与（fully inclusive）之时；然而[[School Leadership|学校领导]]者常视全员参与为低效之举，倾向于将 PLC 窄化为少数骨干组成的攻关“任务小组”（task forces），导致研究知识被封锁在少数精英圈层中，无法实现全校规模化渗透。同时，实证[[Network Analysis|社会网络分析]]表明，教师唯有在信息来自“值得信赖的亲密同行”（trusted peers）时才会真正接纳并转化；因此 PLC 必须作为正式制度桥梁，主动贯通校内非正式人际信任网络。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125)]]
 
 > [!claim] Katz, S. & Dack, L. A.
@@ -242,6 +247,7 @@ updated: 2026-09-16
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 结合澳大利亚特殊学校等案例与[[Questionnaire|问卷调查]]，实证揭示制度化排程的 PLC 在庇护教师研究研读、打破行政挤压及促进常规循证中的决定性功能。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 把 PLC 定位为[[Evidence-Informed Practice|证据知情实践]]关键学习环境支柱，基于 79 所小学调查揭示全员包容性参与的紧迫性，论证缺乏正式探究协议与论坛易导致 PLC 退化为孤立任务小组与[[Activity Traps|活动陷阱]]。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 探讨组织内生学习结构与实践者能力建设，指出协同探究团队在弥合政策与实践鸿沟中的核心作用。
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合廷珀利（Timperley）的研究论证教师专业发展必须以学生实际学业增进为成功前提，提出去私密化教学、反思性对话与共同期望等五大 PLC 建设支柱（pp. 18–19）。
 
 ---
 

@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-25
-updated: 2026-08-21
+updated: 2026-09-16
 ---
 
 # Time Series Design
@@ -208,3 +208,4 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 比较 12 所清算中心对 [[Intelligent Tutoring Systems|ITS]] 因果设计的审查规程（ITS=2），详述 [[What Works Clearinghouse|WWC]] 与 [[Home Visiting Evidence of Effectiveness|HomVEE]] 对时间点数量与自相关建模的技术标准(pp. 8–11)。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 系统阐释单组时间序列、控制组时间序列与相等时间样本轮换设计在教育教学实验中的操作流程(Ch. 4)。
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 论证群体级间断时间序列与个体级单一被试实验（[[Single-Case Design|SCD]]）在因果[[Counterfactual|反事实]]推断上的同构逻辑(pp. 461–464)。
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 针对传统两时点增值模型易受测量误差扰动的缺陷，主张基于 asTTle 多时点纵向测评数据实施间断时间序列分析，以此准确估计教师与学校对学生认知发展的真实增值效应（p. 15）。

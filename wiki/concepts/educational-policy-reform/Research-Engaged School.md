@@ -8,10 +8,10 @@ aliases:
 summary: "指以自觉的战略性与发展性取向，在全校教职工中系统培育证据知情实践与文化的组织形态；其判定标准不仅在于具体决策是否参考研究，更在于学校在组织层面是否具备使用证据的意图、意愿与能力，并建立起支撑反思性探究的制度化生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - field/educational-policy-reform
   - theme/evidence-informed-practice
@@ -22,20 +22,41 @@ tags:
   - region/uk
 related_concepts:
   - "[[Evidence-Informed Practice]]"
+  - "[[Conatus]]"
   - "[[Unit of Analysis]]"
   - "[[School Leadership]]"
+  - "[[Hypothesis]]"
+  - "[[Reflexivity]]"
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Document]]"
   - "[[Professional Learning Community]]"
-  - "[[Hypothesis]]"
+  - "[[Professional Judgment]]"
+  - "[[Knowledge Production]]"
+  - "[[Data Literacy]]"
+  - "[[Dialogue in Education]]"
   - "[[Activity Traps]]"
+  - "[[Paradigm]]"
+  - "[[Scaffolding]]"
+  - "[[Reflective Thinking]]"
+  - "[[Operationalization]]"
   - "[[Self-Improving School System]]"
-related_theories: []
+  - "[[Knowledge Mobilisation]]"
+  - "[[Construct]]"
+  - "[[Variable]]"
+related_theories:
+  - "[[TRIZ]]"
+  - "[[Organizational Culture]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Effect Size]]"
+  - "[[Likert Scale]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Toby Greany]]"
+related_facts:
+  - "[[Ofsted]]"
+  - "[[Research Learning Communities]]"
 related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
 confidence: high
@@ -144,7 +165,7 @@ updated: 2026-09-16
 > [!concept-lens] 实证诊断与[[Activity Traps|活动陷阱]]
 > 剖析学校在建设研究参与学校过程中的微观机制断点，揭示缺乏深层质询与效果评估如何导致学校陷入活动陷阱。
 
-> [!claim] Brown, C. & Greany, T.; Katz, S. & Dack, L. A.
+> [!claim] Brown, C. & [[Toby Greany|Greany, T.]]; Katz, S. & Dack, L. A.
 > **核心机制断裂使学校极易陷入活动陷阱** 实证调查显示，学校教师在认同研究价值（76%/86%）与非正式分享（89%/82%）上普遍处于高位，但在评价干预成效（仅 67% 有正式流程）、反思底层假设（仅 55%，全卷最低）以及正式研讨论坛（仅 61%）三处存在严重断裂。若缺乏对底层假设的批判性反思与对学生学习影响的客观评估，学校的探究活动极易退化为跳过问题成因直接采纳新奇方案的[[Activity Traps|活动陷阱]]，导致形式主义与无效举措的重复复制。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 129–132)]]
 
 ---

@@ -12,7 +12,7 @@ aliases:
 summary: "由Brown等提出的证据知情学校改进模型，将校内基于数据的决策（DBDM）与校外研究知情教学实践（RITP）整合为八步探究闭环；并在证据知情学校系统中确立为防止活动陷阱、依托专业学习共同体检验干预成效的关键迭代引擎。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Reliability]]"
   - "[[Reflexivity]]"
+  - "[[Joint Practice Development]]"
   - "[[Lesson Study]]"
   - "[[School Leadership]]"
   - "[[Empiricism]]"
@@ -147,7 +148,7 @@ updated: 2026-09-16
 
 > [!factors] 探究循环有效运转的四大支撑生态（Brown & Greany, 2018）
 > - **嵌入[[Professional Learning Community|专业学习共同体]]（PLC Auspices）** 探究循环并非教师个体的孤立任务，而必须全面置于学校[[Professional Learning Community|专业学习共同体]]的组织摇篮中，依托[[Reflexivity|反思性]]专业探究与集体责任感维系运转。
-> - **依托联合实践开发机制（JPD & [[Lesson Study|课例研究]]）** 探究循环中的方案试验与微调，高度依赖联合实践发展（Joint Practice Development, JPD）及[[Lesson Study|课例研究]]等课堂情境化协作载体，避免研讨脱离真实教学互动。
+> - **依托[[Joint Practice Development|联合实践开发]]机制（JPD & [[Lesson Study|课例研究]]）** 探究循环中的方案试验与微调，高度依赖联合实践发展（Joint Practice Development, JPD）及[[Lesson Study|课例研究]]等课堂情境化协作载体，避免研讨脱离真实教学互动。
 > - **探究性思维习惯（Enquiry Habit of Mind）** [[School Leadership|学校领导]]者与骨干教师需持续示范探究心态：不急于下定论、主动审视理所当然的前提假设、多元搜寻证据，防范[[Empiricism|经验主义]]惯性。
 > - **基于行动理论的情境化[[Transfer Translation Transformation|转译]]（Theories of Action）** 拒绝将外部研究结论机械剪贴（cut-and-paste）到校本课堂，必须透彻解析干预方案在原语境下起效的因果链条与依赖条件，并在本土探究循环中进行适配。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122–123)]]
 
@@ -215,7 +216,7 @@ updated: 2026-09-16
 > - **2000s — 数据驱动决策（[[Data-Based Decision Making|DBDM]]）的兴起与瓶颈** 伴随欧美教育问责制，学校广泛开展数据驱动分析，但很快遭遇“知道问题却缺乏解决工具”的实践困境。
 > - **2010s — 循证教学与外部证据[[Transfer Translation Transformation|转译]]探索** 英国 [[Education Endowment Foundation|EEF]] 等机构大量推出循证工具包，但一线学校面临“[[Document|文献]]丰富却缺乏校本针对性”的新挑战。
 > - **2017 — 特刊提出整合性学校探究循环** [[Argument_Brown_2017_ER|Brown et al. (2017)]] 在《Educational Research》特刊发表奠基性论文，正式提出将内部 DBDM 与外部 [[Research-Informed Teaching Practice|RITP]] 整合为“证据知情学校与教师改进”（ESTI）八步探究循环，并在英格兰与荷兰学校广泛实验。
-> - **2018 — [[Self-Improving School System|SISS]] 实证基线诊断与评价环节断裂预警** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 在英格兰 79 所小学的实证调查中，将探究循环（Cycles of Inquiry）明确定位为自我改进学校系统中贯通 [[Professional Learning Community|PLC]] 与 JPD 的核心运作引擎；同时实证诊断出探究循环存在“前端尝试活跃（82%）但末端成效评价缺失（仅 67% 具备正式评价机制）”的制度性短板，揭示了探究规程缺位诱发[[Activity Traps|活动陷阱]]的病理机制。
+> - **2018 — [[Self-Improving School System|SISS]] 实证基线诊断与评价环节断裂预警** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 在英格兰 79 所小学的实证调查中，将探究循环（Cycles of Inquiry）明确定位为自我改进学校系统中贯通 [[Professional Learning Community|PLC]] 与 [[Joint Practice Development|JPD]] 的核心运作引擎；同时实证诊断出探究循环存在“前端尝试活跃（82%）但末端成效评价缺失（仅 67% 具备正式评价机制）”的制度性短板，揭示了探究规程缺位诱发[[Activity Traps|活动陷阱]]的病理机制。
 > - **2020s — 网络化探究共同体（NICs）与全系统融合** 学校探究循环进一步与卡内基网络化改进共同体（NICs）及全系统[[Knowledge Mobilisation|知识动员]]战略相结合，成为跨校教研与循证督导的标准模型。
 
 ---
@@ -266,7 +267,7 @@ updated: 2026-09-16
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Professional Learning Community]] | 组织土壤 | 探究循环的常态化组织载体，为教师协同反思与证据探讨提供实践庇护。 |
-> | [[Lesson Study]] | 操作载体 | 探究循环在微观课堂教学试验阶段的核心协作方式（联合实践发展 JPD）。 |
+> | [[Lesson Study]] | 操作载体 | 探究循环在微观课堂教学试验阶段的核心协作方式（[[Joint Practice Development\|联合实践发展]] JPD）。 |
 > | [[Activity Traps]] | 异化风险 | 探究循环中因成效评价环节缺失而导致的“只顾忙碌尝试、不顾因果成效”组织病理。 |
 > | [[Data-Based Decision Making]] | 诊断输入 | 探究循环前端以校本多元数据为基础的问题靶向与[[Hypothesis\|假设]]检验机制。 |
 > | [[Research-Informed Teaching Practice]] | 方案输入 | 针对根本成因检索、挑选并改编外部学术研究证据以形成干预对策。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "指专业学习共同体运作中，实践者未真正投入探究便径直跳到解决方案的活动形态；其后果是实践与情境的根本问题未被确立、未考虑全部成因与方案，并因做法“已知”而重复无效实践。"
 type: concept
 domain: "teacher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Likert Scale]]"
 related_instruments: []
 related_persons:
+  - "[[Toby Greany]]"
   - "[[Chris Brown]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -125,7 +126,7 @@ updated: 2026-09-16
 > [!concept-lens] 制度压力与探究质量
 > 这类命题讨论外部问责如何塑造校内协作活动的认知深度，解释为何越是需要改进的学校越难进行真正的探究。
 
-> [!claim] Brown, C. & Greany, T.
+> [!claim] Brown, C. & [[Toby Greany|Greany, T.]]
 > **问责压力与探究深度的反向关系** 国际[[Document|文献]]显示，落入活动陷阱的学校往往正是面临最高问责压力的学校;而不承受此类压力的学校则能更有意义地投入证据。其机制在于问责要求学校尽快展示可被外部识别的改进证据，因而压缩了探究成因所需的时间与心理空间，使协作活动倾向于直接产出方案。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 131)]]
 
 > [!claim] Datnow, A. & Hubbard, L.

@@ -50,7 +50,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Biggs_1999_HERD]]"
 created: '2026-05-25'
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Formative Assessment
@@ -95,9 +95,10 @@ updated: 2026-09-14
 
 ## 核心要素
 
-> [!feature] 形成性评价的核心实施要素（Black & Wiliam, 2007; Nicol & Macfarlane-Dick, 2006; [[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）
+> [!feature] 形成性评价的核心实施要素（Black & Wiliam, 2007; Nicol & Macfarlane-Dick, 2006; [[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]；[[Argument_Hattie_2005_ACER|Hattie, 2005]]）
 > - **明晰与分享成功标准（Clarifying Criteria）** 预先向学生阐明优秀表现的具体特征与评分量规（如 [[VALUE Rubrics]]），使学生明确努力方向。
 > - **精心设计诊断性任务（Engineering Effective Tasks）** 创设能够充分暴露学生迷思概念、推理缺陷或创新潜能的探究性与真实性任务。
+> - **贯通反馈三问闭环（Three Feedback Questions）** 围绕“目标通往何处（Where are we going）”、“当前行进至何处（How are we going）”与“下一步走向何方（Where to next）”建立连续的认知与教学调整桥梁。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 15)]]
 > - **提供前瞻性改进反馈（Actionable Feedforward）** 反馈侧重于指出当前表现与目标的差距，并给出具体的行动指引（Feedforward），而非仅仅评判既往结果。
 > - **激活学生作为学习资源（Peer & Self-Assessment）** 组织同伴互评与自我反思，培育[[Metacognition|元认知]]监控与批判性审视他人作品的素养。
 
@@ -127,10 +128,21 @@ updated: 2026-09-14
 
 ---
 
+### 命题三　形成性评价的效能最优化取决于教师将评价数据理解为对教学的检验
+
+> [!concept-lens] 评价反馈的自我反思归因机制
+> 探讨形成性评价数据如何从衡量学生资质转化为促进教师调整教学实践的线索。
+
+> [!claim] Hattie, J.
+> **评价数据的教学归因转向** 形成性评价最深层的效能不在于向学生打上“会”或“不会”的标签，而在于将学生未掌握的内容视作对教师后续行动的即时提示。当教师将评价数据理解为对自己教学成效的反馈（而非仅仅关于学生智力或努力）时，形成性评价才能促使教师改变教学策略与重组支架，完成教学改进的实质闭环（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 17]]）。
+
+---
+
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 结合 [[OECD]] 国际经验系统论述了形成性评价在培育高等教育学生[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]中的基石作用，呼吁在高校质量保障与教学支持中强化形成性评价工具的研发与应用。
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] 在[[Constructive Alignment|建构性对齐]]框架下阐明，[[Learning Portfolio|学习档案袋]]与过程性反思日志通过持续的师生协商与形成性反馈，能够有效引导学生走向[[Surface and Deep Learning|深层学习]]。
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] 论证以教师为核心的形成性评价系统（asTTle）如何通过三反馈提问引导目标设定与教学反思，打破传统自上而下的总结性问责困局（pp. 11–21）。
 
 

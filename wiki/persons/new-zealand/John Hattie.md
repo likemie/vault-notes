@@ -138,7 +138,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 # John Hattie
 
@@ -166,6 +166,7 @@ updated: 2026-09-15
 > - **1992** 发表《测量学校教育的效果》，首次独立综合 134 项元分析并引入通用连续体概念，发现反馈效应（1.13）最强而[[Individualised Instruction|个别化教学]]（0.14）最弱。
 > - **1998** 从美国西澳大利亚大学等机构返回新西兰，出任奥克兰大学教育学教授兼教育学院院长。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 47)]]
 > - **1999–2005** 受新西兰教育部委托领导开发国家课程测试系统 asTTle（光盘版至在线版），用于[[Formative Assessment|形成性评估]]，出任项目主任；2003 年新西兰教育部长将其理念确立为国家优先议程。
+> - **2005** 在墨尔本举行的澳大利亚教育研究委员会（ACER）年度大会上发表题为《促成学习改变的证据本质》（*What is the nature of evidence that makes a difference to learning?*）的主题演讲，首次系统公开基于 100 余项干预、30 万项研究元分析提取的平均效应量 $d=0.40$ 关节点与六分源学业成就方差模型，倡导打破惩罚性问责并依托 asTTle 构建以教师为核心的学业进阶共享语言。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–21)]]
 > - **2006** 注册《[[Visible Learning|可见的学习]]》商标并创立实验室；加入 [[Cognition Education]] 董事会，开启教师专业发展与课程商业化运营。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 48)]]
 > - **2009** 出版里程碑专著《可见的学习：综合 800 余项与成就相关的元分析》；同年新西兰媒体报道掀起轩然大波，学界爆发长达三回合的 Snook-Hattie 论战；受邀出任[[New Zealand National Standards|新西兰国家标准]]政策技术顾问，获总理公开致谢。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–92)]]
 > - **2010–2014** 推进跨国商业化扩张，累计从 Cognition Education 获得第三方付款约 87 万美元；[[Gerald Grace]] 发文介入论战。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 49)]]; [[Argument_Grace_2010_NZJES|(Grace, 2010, p. 90)]]
@@ -184,7 +185,7 @@ updated: 2026-09-15
 >   - **关键概念／方法** [[Walberg's Educational Productivity Model]]、[[Meta-analysis]]、[[Effect Size]]、[[Meta-meta-analysis]]、通用连续体（Universal Continuum）。
 >   - **阶段转向** 从传统单项心理测量转向跨领域海量数据整合，引入以标准差为单位的通用连续体（平均效应量 $d=0.40$），奠定了以实证汇总打破教学直觉的方法论基石。
 > - **1998–2009 — 《[[Visible Learning|可见的学习]]》框架确立与证据排序阶段** 此阶段主要回应[[New Public Management|新公共管理]]改革下[[School Effectiveness|学校效能]]、教师问责与循证改革的证据基础问题。
->   - **代表著作** Hattie (2009) *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 426)]]
+>   - **代表著作** [[Argument_Hattie_2005_ACER|Hattie (2005)]] *What is the nature of evidence that makes a difference to learning?*；Hattie (2009) *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 426)]]
 >   - **关键概念／方法** [[Visible Learning]]、关节点（Hinge Point $d=0.40$）、影响气压计、激活者（$d=0.60$）vs 促进者（$d=0.17$）、“Know thy impact”。
 >   - **阶段转向** 将元综合结果提炼为具有普适指导意义的干预效果排行榜，主张“[[Constructivist Paradigm|建构主义]]是一种知识形式而非教学形式”，确立教师作为主动激活者的核心论调，引发[[International Education|国际教育]]界的广泛震动与方法论大论战。
 > - **2014–2016 — 认知科学整合、品牌扩张与实施工程阶段** 此阶段主要回应首版著作理论根基薄弱、脱离课堂微观情境以及学校现场落实困难的批评。

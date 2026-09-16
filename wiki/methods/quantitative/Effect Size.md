@@ -427,6 +427,7 @@ updated: 2026-09-16
 
 > [!evidence-grid-a] 实践者解释案例
 > - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 效应量和[[Statistical Significance|统计显著性]]必须与成本、实施、用户体验和地方语境一起解释。
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 提倡将效应量直接作为学校与教师评估教学成效的通用工具，并基于 100 余项干预的元分析确立 $d=0.40$ 为判断干预是否真正促成增值的关节点基准（pp. 15–16）。
 
 ---
 

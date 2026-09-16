@@ -8,10 +8,10 @@ aliases:
 summary: "英格兰基础教育治理转型中的核心政策取向，主张学校与教师承担自我改进的第一责任，依托多学院信托与教学学校联盟实现校际互助与证据扩散，将中央干预降至最低；其实践成效高度依赖学校的研究使用能力，并与延续的高压绩效问责体制存在深层结构性张力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/educational-policy-reform
   - theme/school-improvement
@@ -20,18 +20,38 @@ tags:
   - theme/evidence-informed-practice
   - region/uk
 related_concepts:
+  - "[[Network Governance]]"
+  - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
   - "[[School Autonomy]]"
   - "[[Test-Based Accountability]]"
+  - "[[School Choice]]"
+  - "[[Performance Indicators]]"
+  - "[[Research Utilization]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Activity Traps]]"
+  - "[[Performativity]]"
+  - "[[School Leadership]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Effect Size]]"
+  - "[[Questionnaire]]"
+  - "[[Likert Scale]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Toby Greany]]"
 related_facts:
+  - "[[The Importance of Teaching]]"
   - "[[Academy Programme in England]]"
   - "[[Teaching Schools]]"
+  - "[[Ofsted]]"
+  - "[[OECD]]"
+  - "[[Teaching and Learning Research Programme]]"
+  - "[[Research Learning Communities]]"
 related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
 confidence: high
@@ -136,7 +156,7 @@ updated: 2026-09-16
 > [!concept-lens] 能力与结构前提
 > 探讨自我改进系统从行政放权走向实际效能的[[Necessary and Sufficient Conditions|必要条件]]，论证单纯的组织自治无法自发促成改进，必须以学校层面的[[Research Utilization|证据使用]]能力和结构为底层支撑。
 
-> [!claim] Brown, C. & Greany, T.
+> [!claim] Brown, C. & [[Toby Greany|Greany, T.]]
 > **研究使用构成系统自我改进的必要支撑条件** 自我改进系统的第三条支柱明确要求学校“从研究中学习”。在缺乏中央行政指令供给方案的背景下，学校必须具备自主定位教学问题、甄别证据稳健性、进行再情境化调适及科学评价干预成效的多维能力，并建立受保护的工时排程与正式研讨论坛；若学校在能力素养与结构资源上存在断裂，系统的自我改进便会沦为空谈。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 120, 122–126, 133)]]
 
 > [!claim] Gu, Q. 等

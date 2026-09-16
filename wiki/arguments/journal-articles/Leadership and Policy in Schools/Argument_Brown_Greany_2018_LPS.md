@@ -1,9 +1,9 @@
 ---
-summary: "布朗与格里尼以英格兰自我改进学校系统转型为背景，构建涵盖能力、文化、学习环境与结构资源的四因素框架，并基于 79 所小学 696 名实践者的基线调查检验学校准备状态。研究发现，学校在研究认同与非正式分享上处于高位，但在成效评价、底层假设反思与正式研讨论坛上存在严重机制断裂，极易陷入活动陷阱。作者据此提出学校领导者优先投入路径，并主张同步改革教育标准局督导框架以提供外部制度支撑。"
+summary: "布朗与[[Toby Greany|格里尼（Toby Greany）]]以英格兰自我改进学校系统转型为背景，构建涵盖能力、文化、学习环境与结构资源的四因素框架，并基于 79 所小学 696 名实践者的基线调查检验学校准备状态。研究发现，学校在研究认同与非正式分享上处于高位，但在成效评价、底层假设反思与正式研讨论坛上存在严重机制断裂，极易陷入活动陷阱。作者据此提出学校领导者优先投入路径，并主张同步改革教育标准局督导框架以提供外部制度支撑。"
 type: argument
 authors:
   - "[[Chris Brown|Brown, C.]]"
-  - "Greany, T."
+  - "[[Toby Greany|Greany, T.]]"
 source_language: en
 citation: "Brown, C., & Greany, T. (2018). The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137. https://doi.org/10.1080/15700763.2016.1270330"
 year: 2018
@@ -26,7 +26,7 @@ title: "Argument_Brown_Greany_2018_LPS"
 argument_key: "Argument_Brown_Greany_2018_LPS"
 argument_display_title: "The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
+  - "[[Joint Practice Development]]"
   - "[[Lesson Study]]"
   - "[[School Enquiry Cycle]]"
   - "[[Network Governance]]"
@@ -76,7 +77,8 @@ related_methods:
 related_instruments:
   - "[[Research Learning Communities Baseline Survey Questionnaire]]"
 related_persons:
-  - "[[Chris Brown]]"
+  - "[[Toby Greany]]"
+  - "[[Alan Daly]]"
   - "[[Nancy Cartwright]]"
 related_facts:
   - "[[Research Learning Communities]]"
@@ -139,7 +141,7 @@ updated: 2026-09-16
 > | **维度一：研究参与能力**<br>（Capacity to Engage in and with Research） | 教师理解、评估并运用研究证据与校本数据的专业素养，包含问题定位、证据稳健性辨识及本地化再情境化能力。（pp.122–123） | 覆盖 3 题：<br>• (1) 研究信息对教学实践有重要指导作用；<br>• (2) 研究信息在课堂应用新教学方法时有用；<br>• (3) 学校设有评价项目或实践成效的正式流程。 |
 > | **维度二：证据导向文化**<br>（School Cultures Attuned to Evidence Use） | 使研究使用成为全校共享文化常规的组织氛围，依托领导层的变革型承诺与学习中心型支持，形成安全分享与试错规范。（pp.123–124） | 覆盖 4 题：<br>• (4) 不支持在缺乏研究支撑的情况下推行全校性变革（反向态度题）；<br>• (5) 学校鼓励教师利用研究发现改进实践；<br>• (6) 学校用研究与证据向教职工提示潜在改进策略；<br>• (7) 校内人员乐于分享有效与无效的做法。 |
 > | **维度三：有效学习环境**<br>（Effective Learning Environments） | 将研究使用嵌入日常专业学习共同体的探究环境，强调反思性对话、对底层教学[[Hypothesis\|假设]]的质询及对新观念的开放接纳。（pp.124–125） | 覆盖 4 题：<br>• (8) 学校经常讨论可能影响关键决策的底层假设；<br>• (9) 教职工使用研究与证据激发围绕特定议题的深入对话；<br>• (10) 校内人员高度重视新想法；<br>• (11) 学校积极尝试新的工作方式。 |
-> | **维度四：结构系统与资源**<br>（Structures, Systems and Resources） | 保障研究使用与知识流动的制度性与物质性条件，包含时间、空间、经费保障及联合实践发展与[[Lesson Study\|课例研究]]等正式研讨机制。（p.125） | 覆盖 3 题：<br>• (12) 过去一年曾与同事讨论过相关研究发现；<br>• (13) 学校设有供教职工分享信息的正式论坛；<br>• (14) 学校为教职工的教育培训活动留出充足时间。（p.127） |
+> | **维度四：结构系统与资源**<br>（Structures, Systems and Resources） | 保障研究使用与知识流动的制度性与物质性条件，包含时间、空间、经费保障及[[Joint Practice Development\|联合实践发展]]与[[Lesson Study\|课例研究]]等正式研讨机制。（p.125） | 覆盖 3 题：<br>• (12) 过去一年曾与同事讨论过相关研究发现；<br>• (13) 学校设有供教职工分享信息的正式论坛；<br>• (14) 学校为教职工的教育培训活动留出充足时间。（p.127） |
 
 > [!warrant]- 理论如何支撑论证
 > 四因素框架并非仅仅提供描述性分类，而是建立起从规范主张到实证诊断的因果推论桥梁。如果全校性证据知情实践必须以能力素养、文化规范、反思环境与结构资源四者为充要支撑，那么问卷调查中各题项的应答落差就直接暴露了[[School Enquiry Cycle|学校探究循环]]的“制度性断点”。正是通过该理论工具，基线调查的百分比数据才得以转化为关于领导力资源配置优先级的规范性行动方案。（pp.122, 126–127）
@@ -155,7 +157,7 @@ updated: 2026-09-16
 英格兰基础教育治理体系在过去二十年间经历了从中央集权干预向去中心化[[Network Governance|网络治理]]的深刻转向，构成本研究所探讨的宏观制度背景。
 
 > [!case] 政策案例：英格兰[[Self-Improving School System|自我改进学校系统]]（SISS）的演进与问责悖论
-> - **案例背景与政策转向** 新工党执政时期（1997–2010 年）主要推行“供给主导型”证据推广模式，中央政府投入巨额公共经费资助学习与教学研究计划（TLRP，超过 4000 万英镑）、设立国家教育研究论坛（NERF）与国家教师研究小组（NTRP）等机构，但一线学校的[[Research Utilization|研究使用]]仍显零散被动（Greany, 2015）。2010 年联合政府执政后发布[[The Importance of Teaching|《教学的重要性》]]（The Importance of Teaching）白皮书，断定中央指令与强制服从削弱了学校系统的自我改进能力，正式启动“自我改进学校系统”（SISS）改革，旨在将改革重心从政府行政“推送”转向学校内在需求“拉动”（DfE, 2010; Gough, 2013）。
+> - **案例背景与政策转向** 新工党执政时期（1997–2010 年）主要推行“供给主导型”证据推广模式，中央政府投入巨额公共经费资助学习与教学研究计划（TLRP，超过 4000 万英镑）、设立国家教育研究论坛（NERF）与国家教师研究小组（NTRP）等机构，但一线学校的[[Research Utilization|研究使用]]仍显零散被动，正如[[Toby Greany|托比·格里尼]]（Toby Greany, 2015）对这一历史阶段的制度总结。2010 年联合政府执政后发布[[The Importance of Teaching|《教学的重要性》]]（The Importance of Teaching）白皮书，断定中央指令与强制服从削弱了学校系统的自我改进能力，正式启动“自我改进学校系统”（SISS）改革，旨在将改革重心从政府行政“推送”转向学校内在需求“拉动”（DfE, 2010; Gough, 2013）。
 > - **组织网络重塑** 自我改进系统的组织支柱是[[Academy Programme in England|学院化改革]]（Academy Programme）与[[Teaching Schools|教学学校联盟]]（Teaching School Alliances, TSAs）。至 2016 年初，英格兰已有约 5500 所学校转制为学院（占学校总数近四分之一）；至 2015 年 10 月，全英建立起 692 所教学学校，连接超过 7144 所学校（占学校总数的 32%），承担起教师专业发展与研发推广职责（p.120）。
 > - **制度张力与问责挤压** 尽管政策文本明确将“相互学习与从研究中学习”写入系统标准，但国家层面的高压问责体系（以国家课程统一测试、学校绩效排名榜、教育标准局 [[Ofsted]] 严厉督导与降级接管机制为特征）并未松动。高压问责驱使[[School Leadership|学校领导]]者高度追逐立竿见影的短期测验分数，压倒了耗时较长、具有试错风险的证据知情[[Reflective Thinking|反思性探究]]（Earley et al., 2012; Waldegrave & Simons, 2014）。
 
@@ -172,7 +174,7 @@ updated: 2026-09-16
 >   1. 交互式研讨学术证据、测验数据与实践者默会经验；
 >   2. 构思针对本校痛点的具体探究方案，设计、检验并嵌入基于证据的教学新策略；
 >   3. 运用多元视角系统评价新策略对学生学习成果与课堂体验的实际影响（p.126）。
-> - **基线调查实施与严谨抽样** 在 2014 年 10 月 2 日至 19 日（干预正式开展前），研究团队与加州大学圣迭戈分校的艾伦·戴利（Alan Daly）教授合作开展基线[[Internet-based Survey|网络调查]]。[[Questionnaire|问卷]]经非项目小学教师试测以确保[[Face Validity|表面效度]]与[[Construct Validity|构念效度]]。由于调查嵌套于大规模[[Network Analysis|社会网络分析]]（SNA），研究团队掌握每所学校全体教职工名单，能够精确计算各校个体应答率。为排除新入职教师对学校长期文化不了解的干扰，研究剔除了 2014 年 9 月之后入职的人员，最终锁定 696 份高[[Reliability|信度]]有效样本（pp.127–128）。
+> - **基线调查实施与严谨抽样** 在 2014 年 10 月 2 日至 19 日（干预正式开展前），研究团队与加州大学圣迭戈分校的[[Alan Daly|阿兰·戴利]]（Alan Daly）教授合作开展基线[[Internet-based Survey|网络调查]]。[[Questionnaire|问卷]]经非项目小学教师试测以确保[[Face Validity|表面效度]]与[[Construct Validity|构念效度]]。由于调查嵌套于大规模[[Network Analysis|社会网络分析]]（SNA），研究团队掌握每所学校全体教职工名单，能够精确计算各校个体应答率。为排除新入职教师对学校长期文化不了解的干扰，研究剔除了 2014 年 9 月之后入职的人员，最终锁定 696 份高[[Reliability|信度]]有效样本（pp.127–128）。
 
 ---
 
@@ -281,7 +283,7 @@ updated: 2026-09-16
 > [!factors] 支撑证据知情实践的结构要素与资源条件
 > - **可及的高质量知识资源库** 畅通获取学术期刊、专业数据库与高可读性的循证综合报告，掌握探究循环与效果测量的具体工具（Halbert et al., 2011; Timperley et al., 2014）。
 > - **受保护的专业时间、物理空间与专项预算** 学校领导层必须在校历与课表中制度化地开辟探究时间、研讨空间与资金支持（Galdin-O'Shea, 2015; Roberts, 2015）。
-> - **结构化的联合实践发展机制** 依托联合实践发展（Joint Practice Development, JPD, Fielding et al., 2005; Sebba et al., 2012）与[[Lesson Study|课例研究]]（Lesson Study, Dudley, 2014）等基于真实课堂互动的协作机制，替代传统的单向外部培训。
+> - **结构化的[[Joint Practice Development|联合实践发展]]机制** 依托[[Joint Practice Development|联合实践发展]]（Joint Practice Development, JPD, Fielding et al., 2005; Sebba et al., 2012）与[[Lesson Study|课例研究]]（Lesson Study, Dudley, 2014）等基于真实课堂互动的协作机制，替代传统的单向外部培训。
 
 知识动员理论进一步表明，组织内部的知识扩散由两条截然不同的通道共同决定。
 

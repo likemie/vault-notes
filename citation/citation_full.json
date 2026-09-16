@@ -911,7 +911,7 @@
       "argument": "Argument_Brown_Greany_2018_LPS",
       "authors": [
         "[[Chris Brown|Brown, C.]]",
-        "Greany, T."
+        "[[Toby Greany|Greany, T.]]"
       ],
       "citation": "Brown, C., & Greany, T. (2018). The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137. https://doi.org/10.1080/15700763.2016.1270330",
       "doi": "10.1080/15700763.2016.1270330",
@@ -929,7 +929,7 @@
       "argument": "Argument_Brown_Greany_2018_LPS",
       "authors": [
         "[[Chris Brown|Brown, C.]]",
-        "Greany, T."
+        "[[Toby Greany|Greany, T.]]"
       ],
       "citation": "Brown, C., & Greany, T. (2018). The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137. https://doi.org/10.1080/15700763.2016.1270330",
       "doi": "10.1080/15700763.2016.1270330",
@@ -2869,6 +2869,23 @@
       "title": "Argument_Hartmann_2022_CorporateEducation",
       "year": "2022"
     },
+    "Hattie (2005)": {
+      "aliases": [
+        "Hattie, 2005",
+        "Hattie (2005)"
+      ],
+      "argument": "Argument_Hattie_2005_ACER",
+      "authors": [
+        "[[John Hattie|Hattie, J.]]"
+      ],
+      "citation": "Hattie, J. (2005). What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21). Australian Council for Educational Research.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md",
+      "source_language": "en",
+      "title": "Argument_Hattie_2005_ACER",
+      "year": "2005"
+    },
     "Hattie (2010)": {
       "aliases": [
         "Hattie, 2010",
@@ -2936,6 +2953,23 @@
       "source_language": "en",
       "title": "Argument_Hattie_2017_SLM",
       "year": "2017"
+    },
+    "Hattie, 2005": {
+      "aliases": [
+        "Hattie, 2005",
+        "Hattie (2005)"
+      ],
+      "argument": "Argument_Hattie_2005_ACER",
+      "authors": [
+        "[[John Hattie|Hattie, J.]]"
+      ],
+      "citation": "Hattie, J. (2005). What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21). Australian Council for Educational Research.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md",
+      "source_language": "en",
+      "title": "Argument_Hattie_2005_ACER",
+      "year": "2005"
     },
     "Hattie, 2010": {
       "aliases": [
