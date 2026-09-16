@@ -5,6 +5,30 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
     },
     {
+      "basename": "Class Size",
+      "path": "wiki/concepts/educational-policy-reform/Class Size.md"
+    },
+    {
+      "basename": "School Choice",
+      "path": "wiki/concepts/sociology-of-education/School Choice.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+    },
+    {
+      "basename": "Effect Size",
+      "path": "wiki/methods/quantitative/Effect Size.md"
+    },
+    {
+      "basename": "Learned Helplessness",
+      "path": "wiki/concepts/educational-psychology/Learned Helplessness.md"
+    },
+    {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    },
+    {
       "basename": "Hattie_2005_ACER",
       "path": "sources/Hattie_2005_ACER/Hattie_2005_ACER.md"
     },
@@ -23,10 +47,6 @@
     {
       "basename": "Teacher Conceptions of Assessment",
       "path": "wiki/concepts/competency-and-assessment/Teacher Conceptions of Assessment.md"
-    },
-    {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
     {
       "basename": "Argument_Brown_Greany_2018_LPS",
@@ -179,26 +199,6 @@
     {
       "basename": "template-fact-program",
       "path": "wiki/templates/template-fact-program.md"
-    },
-    {
-      "basename": "template-fact-policy",
-      "path": "wiki/templates/template-fact-policy.md"
-    },
-    {
-      "basename": "template-fact-organization",
-      "path": "wiki/templates/template-fact-organization.md"
-    },
-    {
-      "basename": "template-fact-event",
-      "path": "wiki/templates/template-fact-event.md"
-    },
-    {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
-    },
-    {
-      "basename": "template-argument-textbook",
-      "path": "wiki/templates/template-argument-textbook.md"
     }
   ],
   "omittedPaths": [],

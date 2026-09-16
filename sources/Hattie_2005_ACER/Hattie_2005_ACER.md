@@ -1,6 +1,7 @@
 ---
 citation: "Hattie, J. (2005). What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21). Australian Council for Educational Research."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Hattie_2005_ACER]]"
 processed_date: 2026-09-16
 ---
 
