@@ -7,7 +7,7 @@ title: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_key: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_display_title: "The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Metacognition]]"
   - "[[Reflective Thinking]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Seductive Details Effect]]"
   - "[[Literature Search]]"
   - "[[Hypothesis]]"
@@ -70,7 +71,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-regression]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[PRISMA]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Cochran's Q Test]]"
   - "[[I-squared Statistic]]"
@@ -83,6 +83,7 @@ related_methods:
   - "[[Standard Error]]"
 related_instruments:
   - "[[California Critical Thinking Skills Test]]"
+  - "[[PRISMA]]"
   - "[[Kmet Quality Assessment Checklist]]"
 related_persons:
   - "[[Jean Piaget]]"
@@ -93,7 +94,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-25
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 # Argument_Lei_Ding_Chiu_2026_ERR
 
@@ -231,7 +232,7 @@ updated: '2026-08-27'
 > | | **[[Convergent Thinking\|聚合思维]]（Convergent Thinking）** | 55 | 0.680 | 0.074 | [0.535, 0.825] | 83.6% | 显著低于发散思维（$p < .01$） |
 
 > [!warrant]- 推理桥梁
-> 成功的思维技能表现必须以探究倾向和主动认知加工为必要前提，而倾向与过程并不必然要求标准化的技能测验输出。图形组织器作为即时生成性支架，直接介入开放性解题与写作过程，因而对倾向与过程产生立竿见影的强刺激；而标准化多选题测验测度的是去情境化的远端聚合技能，受到测量形式与天花板效应的制约。同时，空间视觉分支极大地激活了语义联想网络与观念流畅性，因而对发散性创新的赋能显著超越了受形式逻辑约束的聚合推导。（pp.3–4, 11）
+> 成功的思维技能表现必须以探究倾向和主动认知加工为必要前提，而倾向与过程并不必然要求标准化的技能测验输出。图形组织器作为即时生成性支架，直接介入开放性解题与写作过程，因而对倾向与过程产生立竿见影的强刺激；而标准化多选题测验测度的是去情境化的远端聚合技能，受到测量形式与[[Floor and Ceiling Effects|天花板效应]]的制约。同时，空间视觉分支极大地激活了语义联想网络与观念流畅性，因而对发散性创新的赋能显著超越了受形式逻辑约束的聚合推导。（pp.3–4, 11）
 
 ---
 

@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Difference-in-Differences]]"
 related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"
@@ -53,13 +54,14 @@ related_facts:
   - "[[World Development Indicators]]"
   - "[[UNICEF]]"
   - "[[Learning Data Compact]]"
+  - "[[Chartered College of Teaching]]"
   - "[[World Education Reform Database]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # World Bank
@@ -127,9 +129,9 @@ updated: 2026-09-12
 > - **政策与制度渗透** 深度主导了全球南方 100 多个国家的国家教育部门计划（ESP）编制；将量化问责指标直接写入主权借贷契约，重塑了借贷国财政部与教育部之间的权力支配关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **学术引领** 确立了[[Human Capital Theory|人力资本理论]]在发展中国家教育政策中的绝对统治地位，推动以[[Causality|因果推断]]（RCTs、双重差分法）为主导的微观循证经济学[[Paradigm|范式]]成为全球教育政策研究的黄金标准。
+> - **学术引领** 确立了[[Human Capital Theory|人力资本理论]]在发展中国家教育政策中的绝对统治地位，推动以[[Causality|因果推断]]（RCTs、[[Difference-in-Differences|双重差分法]]）为主导的微观循证经济学[[Paradigm|范式]]成为全球教育政策研究的黄金标准。
 > - **政策塑造** 迫使全球南方借贷国建立正规教育统计与公共支出追踪系统（PETS），推动初等教育免试入学与生均公用经费拨付机制建立。
-> - **学校与实践改变** 在成千上万所发展中国家乡村学校推行标准化教材配备、以考代评的绩效管理以及基于现金转移支付（CCT）的入学出勤激励。
+> - **学校与实践改变** 在成千上万所发展中国家乡村学校推行标准化教材配备、以考代评的绩效管理以及基于现金转移支付（[[Chartered College of Teaching|CCT]]）的入学出勤激励。
 
 > [!stat-cards]- 核心规模数据
 > 涵盖全球 189 个成员国；教育投资回报率数据库整合 139 国 1,120 项微观估算；宏观数据库拥有超 1,600 项跨国指标；年教育项目承诺规模达数十亿美元。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]

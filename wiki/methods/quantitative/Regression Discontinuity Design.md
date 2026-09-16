@@ -13,7 +13,7 @@ summary: "基于连续驱动变量在特定阈值处的刚性或概率性分配�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 33
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -46,9 +46,11 @@ related_theories:
 related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Propensity Score Matching]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Pre-test and Post-test]]"
   - "[[Standard Error]]"
+  - "[[Ordinary Least Squares]]"
   - "[[Manipulation Check]]"
   - "[[Sample Size Determination]]"
   - "[[Time Series Design]]"
@@ -57,6 +59,7 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Gaokao]]"
+  - "[[Chartered College of Teaching]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[Partnership Schools Kura Hourua]]"
 related_arguments:
@@ -66,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-09-17
 ---
 
 # Regression Discontinuity Design
@@ -97,7 +100,7 @@ updated: 2026-08-22
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **认识论取向** 秉承[[Postpositivism|后实证主义]]与因果计量经济学[[Paradigm|范式]]，用完全透明的确定性行政规则（Deterministic Rule）替代[[Random Assignment|随机化]]抽签，化解了实验随机分配剥夺弱势群体受助资格的伦理争议。
-> - **因果识别定位** 属于基于外生规则识别的[[Counterfactual|反事实]]比较。相比常规倾向得分匹配（PSM）依赖不可检验的“可忽略性[[Hypothesis|假设]]（CIA）”，RDD 的因果有效性仅依赖“潜在结果在断点处关于驱动[[Variable|变量]]的条件期望连续性”，不依赖不可测混杂变量可被完全观测的严苛假定。
+> - **因果识别定位** 属于基于外生规则识别的[[Counterfactual|反事实]]比较。相比常规[[Propensity Score Matching|倾向得分匹配]]（PSM）依赖不可检验的“可忽略性[[Hypothesis|假设]]（CIA）”，RDD 的因果有效性仅依赖“潜在结果在断点处关于驱动[[Variable|变量]]的条件期望连续性”，不依赖不可测混杂变量可被完全观测的严苛假定。
 > - **与真实验（[[Randomised Controlled Trials|RCT]]）及准实验（[[Quasi-Experimental Designs|QED]]）的张力**
 >   - **[[Internal Validity|内部效度]]** 在准实验谱系中居于顶峰，因果识别力远超非等对控制组前[[Pre-test and Post-test|后测]]设计；
 >   - **[[External Validity|外部效度]]** 因果效应仅严格代表处于阈值切分点邻域（Cut-off Boundary）的边际群体（Marginal Population），无法直接推论至远离阈值的极端高分或低分群体。
@@ -105,7 +108,7 @@ updated: 2026-08-22
 > [!method-stack] 方法层级
 > - **设计形态** 清晰断点回归（Sharp RDD）、模糊断点回归（Fuzzy RDD）、拐点断点回归（Regression Kink Design, RKD）。
 > - **数据要求** 连续且不可被受试者精准主观操纵的驱动变量（Running Variable）、明确单侧或双侧外生切分阈值（Cutoff $c$）、干预后测指标。
-> - **计量估计技术** 非参数局部线性回归（Local Linear Regression）、多项式边界拟合、IK/CCT 最优带宽选择算法、McCrary 密度函数连续性检验、安慰剂断点（Placebo Cutoffs）检验。
+> - **计量估计技术** 非参数局部线性回归（Local Linear Regression）、多项式边界拟合、IK/[[Chartered College of Teaching|CCT]] 最优带宽选择算法、McCrary 密度函数连续性检验、安慰剂断点（Placebo Cutoffs）检验。
 
 ---
 
@@ -115,7 +118,7 @@ updated: 2026-08-22
 > 1. **确认连续驱动[[Variable|变量]]与刚性阈值** 界定连续且可精确测量的运行变量（如标准化统考成绩 $X$），确定明确无歧义的政策划分截点 $c$。
 > 2. **实施 McCrary 密度连续性检验** 绘制驱动变量在阈值 $c$ 两侧的频数分布直方图与核密度估计，排查受试者是否存在人为篡改成绩、虚报年龄等“操纵（Manipulation）”行为。
 > 3. **检验协变量平滑性（Covariate Continuity）** 检验学生的性别、种族、家庭社会经济地位（SES）等前置基线特征在阈值两侧是否存在跳跃，确保仅干预状态发生突变。
-> 4. **选定局部估计最优带宽（Optimal Bandwidth）** 采用 Imbens-Kalyanaraman (IK) 或 Calonico-Cattaneo-Titiunik (CCT) 数据驱动算法计算均方误差最小化的局部带宽 $h$。
+> 4. **选定局部估计最优带宽（Optimal Bandwidth）** 采用 Imbens-Kalyanaraman (IK) 或 Calonico-Cattaneo-Titiunik ([[Chartered College of Teaching|CCT]]) 数据驱动算法计算均方误差最小化的局部带宽 $h$。
 > 5. **拟合局部回归模型** 在区间 $[c - h, c + h]$ 内运行局部线性回归，估计断点处因果跳跃参数 $\tau$ 及其稳健[[Standard Error|标准误]]。
 > 6. **开展全面敏感性与稳健性分析** 检验多项式阶数敏感性（线性 vs 二次项）、测试不同带宽区间（$0.5h, 1.5h, 2h$）、并在非断点位置进行伪断点（Placebo Cutoff）[[Falsification|证伪]]检验。
 
@@ -128,7 +131,7 @@ updated: 2026-08-22
 > |:---|:---|:---|
 > | **干预分配规则** | **完全确定性分配** 跨过阈值者 100% 接受干预，未跨过者 100% 不接受干预（无不顺从）。 | **概率性分配** 跨过阈值使接受干预的概率发生显著跳跃（如从 20% 跳至 80%），存在违约者。 |
 > | **数学分配条件** | $D_i = 1(X_i \ge c)$，分配概率跃升 $\Delta P(D_i=1 \mid X_i=c) = 1$ | $0 < \lim_{x \downarrow c} P(D_i=1 \mid X_i=x) - \lim_{x \uparrow c} P(D_i=1 \mid X_i=x) < 1$ |
-> | **统计估计方法** | 局部 OLS 线性回归模型直接估计截距差。 | **两阶段最小二乘法（2SLS）** 以断点赋值状态 $T_i = 1(X_i \ge c)$ 作为实际接受干预 $D_i$ 的工具变量。 |
+> | **统计估计方法** | 局部 [[Ordinary Least Squares\|OLS]] 线性回归模型直接估计截距差。 | **两阶段最小二乘法（2SLS）** 以断点赋值状态 $T_i = 1(X_i \ge c)$ 作为实际接受干预 $D_i$ 的工具变量。 |
 > | **因果效应解释** | 断点处边际人群的**局部平均处理效应（LATE）**。 | 断点处**顺从者群体的局部平均处理效应（Complier LATE）**。 |
 > | **典型教育案例** | 依据会考成绩是否达标严格决定能否升学或拿奖学金。 | 依据成绩线推荐参加课后辅导，但学生可自主选择是否出勤。 |
 

@@ -77,7 +77,7 @@ title: "Argument_Helgetun_2022_JEP"
 argument_key: "Argument_Helgetun_2022_JEP"
 argument_display_title: "From an age of measurement to an evidence era? Policy-making in teacher education in England"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
