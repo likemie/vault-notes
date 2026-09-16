@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
 related_instruments: []
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Peer-Assisted Learning Strategies
@@ -102,7 +101,7 @@ updated: 2026-09-16
 > 1. **合格证据池的极端割裂与孤立**
 >    - 五家机构针对同一知名干预检索出的[[Document|文献]]集合几乎完全互不重叠：[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 与 [[What Works Clearinghouse|WWC]] 仅共享了 2 项发表研究（Fuchs et al., 2002; Sáenz et al., 2005），其余中心各自依据完全不同的单一文献得出结论。文献池的割裂直接导致评级基准失衡。
 > 2. **刚性方法学门槛的“一票否决”效应**
->    - **[[Blueprints for Healthy Youth Development|Blueprints]] 的因果过滤** 审查了 18 项因果实证，其中 17 项因[[Attrition|差异流失]]、分析层次未做集群校正、[[Intent-to-Treat Analysis|ITT]] 估计不清被全部否决，仅认证 1 项 [[Randomised Controlled Trials|RCT]]，因缺乏独立复制只能定为“有望”；
+>    - **[[Blueprints for Healthy Youth Development|Blueprints]] 的因果过滤** 审查了 18 项因果实证，其中 17 项因[[Attrition|差异流失]]、分析层次未做集群校正、ITT 估计不清被全部否决，仅认证 1 项 [[Randomised Controlled Trials|RCT]]，因缺乏独立复制只能定为“有望”；
 >    - **CMFR 的[[Fade-out Effect|持续效果]]否决** 虽然 CMFR 纳入了多达 12 项研究，但由于所有研究均未收集干预结束后 6 个月的长期追踪数据，直接将阅读与数学版双双判定为“证据不足 / 不予推荐”。
 > 3. **组件拆分与结果域解构造成的消费认知混淆**
 >    - [[National Dropout Prevention Center|NDPC]] 与 Blueprints 给出整体宏观评级，CMFR 分学科定级，[[Best Evidence Encyclopedia|BEE]] 仅评估数学，而 WWC 在细分结果域中发现 PALS 阅读收益（拼读、流畅度）显著强于数学计算收益。使用者若不了解切分背景，极易被表面相悖的标签所误导。

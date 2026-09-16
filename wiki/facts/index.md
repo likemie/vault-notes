@@ -623,7 +623,7 @@ Total entries: **467**
 > - [[CEM Centre]] — 1983 年成立的杜伦大学教育评估与监测研究中心，开发 PIPS、MidYIS、ALIS 等学校监测系统，2019 年被剑桥大学出版与评估院收购
 > - [[Centre for the Use of Research and Evidence in Education]] — 英国由菲莉帕·科丁利领衔创设的独立专业知识中介机构，经合组织2007年报告中极少数独家聚焦于教师与微观教学的先驱中介，开创了研究路线图与协作型在职专业发展（CPD）范式。
 > - [[Chartered College of Teaching]] — 2017年依据英国皇家特许状设立的教师专业组织，由政府扶持以推广循证教学实践并代表教师专业声音
-> - [[Committee for the Accreditation of Teacher Education]] — 1984年英国保守党政府设立的教师教育认证机构，依据HMI督导证据对培训提供方进行认证，标志着英格兰教师教育显性循证治理的制度起点。
+> - [[Committee for the Accreditation of Teacher Education]] — 1984年英国保守党政府设立的法定教师教育认证机构，依据皇家督学署（HMI）督导证据对培训提供方进行资质认证，标志着英格兰教师教育显性循证治理的制度起点
 > - [[Early Intervention Foundation]] — 英国2013年创设的官方有效性中心（What Works Centre），专注于0-19岁儿童早期发展、亲职养育与心理健康实证清算，其旗舰门户 EIF Guidebook 是国际公认严格依托系统综述的通用策略类证据标杆；率先将 COM-B 行为科学理论整合至知识动员中，2023年与儿童社会关怀中心合并为 Foundations
 > - [[Education Endowment Foundation]] — 英国2011年由萨顿信托联合创立的准独立慈善证据中介旗舰，依托1.25亿英镑政府种子基金，通过《教学与学习工具包》、大规模RCT资助及研究学校网络，开创了循证教育生态系统模型。
 > - [[Education Media Centre]] — 2013年成立于英国伦敦的独立非营利教育媒介中介机构，首创将科学媒体中心（SMC）模式跨界移植至教育与人文社科领域，为新闻采编室提供突发教育议题同行评议事实核查，并面向广大大众构建公共证据素养与反商业操纵免疫屏障。

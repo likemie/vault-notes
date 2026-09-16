@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 53
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,8 +39,14 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Epoché]]"
   - "[[Doxa]]"
+  - "[[Visible Learning]]"
   - "[[Problem Finding]]"
   - "[[New Public Management]]"
+  - "[[Epistemological Break]]"
+  - "[[Evidence Era]]"
+  - "[[Rationalized Myth]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Policy-Based Evidence-Making]]"
   - "[[Subjectivism]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Informed Practice]]"
@@ -52,38 +58,30 @@ related_concepts:
   - "[[Causality]]"
   - "[[Growth]]"
   - "[[Champ]]"
-  - "[[Visible Learning]]"
-  - "[[Construct]]"
-  - "[[Scientism]]"
-  - "[[Hypothesis]]"
-  - "[[Historical-Philosophical-Cultural Motif]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
   - "[[Donald A. Schön]]"
   - "[[Aristotle]]"
-  - "[[Jürgen Habermas]]"
-  - "[[Gert Biesta]]"
-  - "[[Andreas Kazamias]]"
-  - "[[Carol Campbell]]"
-  - "[[Anthony Bryk]]"
   - "[[John Hattie]]"
+  - "[[Jürgen Habermas]]"
 related_facts:
-  - "[[Education Endowment Foundation]]"
+  - "[[Carter Review of Initial Teacher Training]]"
   - "[[ResearchED]]"
+  - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
+  - "[[Argument_Helgetun_2022_JEP]]"
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Technical Rationality
@@ -150,6 +148,7 @@ updated: 2026-09-07
 > ```
 
 ---
+---
 
 ## 围绕概念形成的命题
 
@@ -158,23 +157,26 @@ updated: 2026-09-07
 ### 命题一　技术理性将专业实践简化为线性手段-目的计算并在复杂情境中面临根本性认识论危机
 
 > [!concept-lens] 沼泽地情境与工具理性的[[Epistemology|认识论]]错配
-> 真实教育情境充满不确定性、不稳定性和价值冲突，技术理性基于实验室封闭系统假定的因果控制在实践中必然遭遇认识论破产。
+> 真实教育情境充满不确定性、不稳定性和价值冲突，技术理性基于封闭系统假定的因果控制在实践中必然遭遇认识论破产。
 
-> [!claim] [[Donald A. Schön|Schön, D. A.]] / Nielsen, S. B. & Klitmøller, J.
-> **技术理性的沼泽地困境与[[Reflexivity|反思性]]转向** [[Positivism|实证主义]]技术理性铺平了专业实践中的手段-目的思维，将实践问题设想为独立于情境的良构实体，认为只要查阅和应用基础科学规律就能解决实际困难。然而，真实的专业实践并非坚固的高地，而是由混乱、不确定与价值冲突构成的“沼泽地”（Swampy Lowland）。在教育中，将学生阅读或学业问题简化为查阅[[Effect Size|效应量]]排名、套用干预处方、标准化测试验收的医疗诊断流程，完全抹杀了具体课堂的生发性。技术理性无法处理[[Problem Finding|问题界定]]本身，迫使专业人员必须转向“行动中反思”（Reflection-in-Action）以重构问题情境。
+> [!claim] Schön (1983) / Nielsen & Klitmøller (2021)
+> **技术理性的沼泽地困境与[[Reflexivity|反思性]]转向** [[Positivism|实证主义]]技术理性铺平了专业实践中的手段-目的思维，将实践问题设想为独立于情境的良构实体，认为只要查阅和应用基础科学规律就能解决实际困难。然而，真实的专业实践并非坚固的高地，而是由混乱、不确定与价值冲突构成的“沼泽地”（Swampy Lowland）。在教育中，如 Nielsen & Klitmøller（2021）批判[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》所示，将教学解构为孤立的行为主义因果干预并压缩为[[Effect Size|效应量]]排行榜，完全抹杀了具体课堂的生发性。技术理性无法处理[[Problem Finding|问题界定]]本身，迫使专业人员必须转向“行动中反思”（Reflection-in-Action）以重构问题情境。
 
 ---
 
 ### 命题二　教育政策中技术理性的制度化扩张通过去情境化因果控制剥夺教师专业判断并诱发系统合法化危机
 
-> [!concept-lens] 系统治理侵蚀生活世界与学科人本底色丧失
-> 当现代国家与跨国政策系统借由客观科学修辞推行技术官僚治理时，不仅瓦解了基层实践共识，更导致教育学科人本价值的严重异化。
+> [!concept-lens] 系统治理侵蚀生活世界与认识论全流程断裂
+> 当现代国家与跨国政策系统借由客观科学修辞推行技术官僚治理时，不仅瓦解了基层实践共识，更导致教育学科人本价值与因果推论基础的严重异化。
 
-> [!claim] [[Jürgen Habermas|Habermas, J.]] / [[Gert Biesta|Biesta, G.]] / Nielsen, S. B. & Klitmøller, J.
-> **系统侵蚀生活世界与合法化悖论** 技术理性在晚期现代社会中被国家治理机器广泛采纳，作为以科学客观性掩盖价值冲突的合法化工具。在教育领域，这种逻辑促成了[[New Public Management|新公共管理]]（New Public Management, NPM）与机械问责制的盛行。将教学简化为可测量、可排名的技术指标（如部分循证改革对单一[[Randomised Controlled Trials|随机对照试验]]（RCT）指标的迷执），消除了教师和学生作为意义寻求者的意向性，剥夺了教师的[[Professional Judgment|专业判断]]权。这种做法表面上提升了系统审计效率，实则瓦解了学校日常教育实践的内在意义结构，最终导致教师职业倦怠、师生动力衰退以及深层的系统合法化危机。
+> [!claim] Habermas (1976) / Biesta (2007)
+> **系统侵蚀生活世界与合法化悖论** 技术理性在晚期现代社会中被国家治理机器广泛采纳，作为以科学客观性掩盖价值冲突的合法化工具。在教育领域，这种逻辑促成了[[New Public Management|新公共管理]]（New Public Management, NPM）与机械问责制的盛行。将教学简化为可测量、可排名的技术指标（如部分循证改革对单一[[Randomised Controlled Trials|随机对照试验]]（RCT）指标的迷执），消除了教师和学生作为意义寻求者的意向性，剥夺了教师的[[Professional Judgment|专业判断]]权，最终诱发深层的系统合法化危机。
 
-> [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **技术官僚理性对全人[[Bildung|教化]]与人文科学传统的侵蚀** 卡扎米亚斯深刻批判了 1960 年代以来支配比较教育与国际政策界的技术官僚理性（Technocratic Rationalism）。他指出，现代主义实证学者将[[Scientific Method|科学方法]]、[[Empiricism|经验主义]]、工具主义与技术官僚理性奉为主宰神祇，将教育研究窄化为对单纯“学校教育”（Schooling）的微观[[Disciplina and Doctrina|规训]]与经济人力产出测算，系统抹杀了以人为中心（Anthropocentric）的古典全人[[Bildung|教化]]（*[[Paideia]]*）传统与对人类政治、社会与伦理危机的哲学反思。这种去历史化、去文化深度的技术控制论，导致教育研究沦为服务于跨国官僚治理的去政治化工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> [!claim] [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]]
+> **技术官僚理性对全人[[Bildung|教化]]与人文科学传统的侵蚀** 卡扎米亚斯深刻批判了 1960 年代以来支配比较教育与国际政策界的技术官僚理性（Technocratic Rationalism）。现代主义实证学者将[[Scientific Method|科学方法]]、[[Empiricism|经验主义]]、工具主义与技术官僚理性奉为主宰神祇，将教育研究窄化为对单纯“学校教育”（Schooling）的微观[[Disciplina and Doctrina|规训]]与经济人力产出测算，系统抹杀了以人为中心的古典全人[[Bildung|教化]]（*[[Paideia]]*）传统与对人类政治、社会与伦理危机的哲学反思。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+
+> [!claim] [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]]
+> **教师教育政策中的[[Epistemological Break|认识论断裂]]与守门把关** 在当代[[Evidence Era|证据时代]]，技术理性演化为一种主导性的[[Rationalized Myth|合理化神话]]。政府部门在推行教师教育改革时，假定实验室与随机试验中的教学规程可以无损、线性地[[Transfer Translation Transformation|转译]]为一线通用标准，在实践中导致了严重的认识论断裂；更为深层的是，技术理性被官方充当守门工具，通过[[Carter Review of Initial Teacher Training|卡特审查]]等程序定向筛选符合执政偏好的证据，使技术治理实质上沦为[[Policy-Based Evidence-Making|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 91–96)]]
 
 ---
 
@@ -183,8 +185,8 @@ updated: 2026-09-07
 > [!concept-lens] 终结自上而下输送模型与确立多元证据知情生态
 > 克服技术理性在教育中的弊端不能退回非理性的[[Subjectivism|主观主义]]，而是要以社会建构的[[Knowledge Mobilisation|知识动员]]与情境审议取代单向的“科学搬运”。
 
-> [!claim] Nelson, R. & [[Carol Campbell|Campbell, C.]] / [[Anthony Bryk|Bryk, A.]]
-> **摒弃自上而下输送与培育肥沃土壤** 长期以来，教育政策界误将证据推进构想为“技术-理性”的研究供给过程，认为只要生产出高等级实验证据并向学校单向推送，就能自动引发教学改善。然而，数十年的改革受挫表明，单纯增加外部研究供给无法克服实践壁垒。推动真正的[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP），必须打破技术理性的排他性垄断：一方面确立[[Professional Judgment|专业判断]]为整合研究、系统数据与课堂数据的核心枢纽；另一方面，将知识流动理解为研究者、决策者与实践者之间通过协作共同创造知识的社会互动过程（即[[Knowledge Mobilisation|知识动员]]），通过培育支持教师反思、改编与批判的“肥沃土壤”，使循证变革深植于专业社群之中。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–131)]]
+> [!claim] [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] / Bryk et al. (2015)
+> **摒弃自上而下输送与培育肥沃土壤** 长期以来，教育政策界误将证据推进构想为自上而下的“技术-理性”研究供给过程。[[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p. 127)]] 指出，这种线性传递因忽视学校中介条件与教师专业准备度而频遭受挫，并触发了以 [[ResearchED]] 为代表的草根教师证据运动。推动真正的[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP），必须确立[[Professional Judgment|专业判断]]为整合研究、系统数据与课堂情境的核心枢纽，将知识流动理解为多方协同共创的[[Knowledge Mobilisation|知识动员]]社会互动过程。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–131)]]
 
 ---
 
@@ -194,7 +196,7 @@ updated: 2026-09-07
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论批判命题** | 揭示技术理性手段-目的计算在复杂、不确定专业情境中的失效与错配 | 课堂教学、临床诊断等不确定性专业实践 | Schön; Nielsen & Klitmøller |
-> | **社会学与治理批判命题** | 揭示技术理性在教育治理与跨国比较中引发的去技能化、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、跨国比较教育规划与国际指标测度 | Habermas; Biesta; [[Andreas Kazamias\|Kazamias]] |
+> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的去技能化、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、教师教育审查与国际指标测度 | Habermas; Biesta; Kazamias; Helgetun & Menter |
 > | **实践重构与替代命题** | 倡导以专业判断为枢纽、多源证据整合与社会共创式知识动员超越技术理性 | 证据知情学校改进、[[Research-Practice Partnership\|研究-实践伙伴关系]]、校本探究循环 | Nelson & Campbell; Bryk |
 
 ---
@@ -203,12 +205,13 @@ updated: 2026-09-07
 
 > [!dev-timeline] 技术理性的哲学演化与教育批判脉络
 > - **19 世纪 — [[Positivism|实证主义]]哲学奠基** 孔德等倡导实证主义哲学，将科学与技术控制确立为解决人类社会问题、指导一切专业实践的最高[[Paradigm|范式]]。
-> - **1960s — 比较教育学科转型确立技术官僚理性支配** 霍姆斯、诺亚与埃克斯坦等战后实证学者以“[[Scientific Method|科学方法]]”、“实证主义”与“技术官僚理性”为核心，推动比较教育转向因果预测与指标量化，将教育窄化为去情境化的学校[[Disciplina and Doctrina|规训]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56–57)]]
-> - **1976 / 1984 — [[Critical Theory|批判理论]]与合法化危机分析** [[Jürgen Habermas|哈贝马斯]]出版《合法化危机》与《交往行为理论》，系统剖析技术理性作为国家行政治理媒介对日常“生活世界”的殖民，揭示其导致的动机衰退与正当性危机。
-> - **1983 — [[Reflexivity|反思性]]实践者模型的提出** 舍恩出版《反思性实践者》（*The Reflective Practitioner*），正式将技术理性定义为实证主义专业[[Epistemology|认识论]]，指出其无法应对“沼泽地”问题，倡导反思性实践作为替代范式。
-> - **2000s — [[Evidence-Based Education|循证教育]]运动与技术理性复兴** 随着“[[What Works Movement|什么有效运动]]”、医学模式类比及英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）工具包的普及，技术理性在教育政策中以[[Effect Size|效应量]]排行榜和因果证据等级制的形式再度盛行。
-> - **2009 — 卡扎米亚斯批判技术官僚理性并重申全人[[Bildung|教化]]** 卡扎米亚斯系统批判技术官僚理性对比较教育人文传统的剥离，重申古典全人教化（*[[Paideia]]*）与以人为中心的伦理底线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
-> - **2017 — 证据知情视阈下对技术理性线性供给的反思** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 汇聚国际前沿实证，明确指出自上而下的技术-理性研究灌输模型已导致系统推行受挫，倡导转向以[[Professional Judgment|专业判断]]为核心的多源证据整合与全系统[[Knowledge Mobilisation|知识动员]]。
+> - **1960s — 比较教育学科转型确立技术官僚理性支配** 霍姆斯、诺亚与埃克斯坦等战后实证学者推动比较教育转向因果预测与指标量化，将教育窄化为去情境化的学校[[Disciplina and Doctrina|规训]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56–57)]]
+> - **1976 / 1984 — [[Critical Theory|批判理论]]与合法化危机分析** [[Jürgen Habermas|哈贝马斯]]出版《合法化危机》与《交往行为理论》，系统剖析技术理性作为国家行政治理媒介对日常生活世界的殖民。
+> - **1983 — [[Reflexivity|反思性]]实践者模型的提出** 舍恩出版《反思性实践者》（*The Reflective Practitioner*），正式将技术理性定义为实证主义专业[[Epistemology|认识论]]，倡导反思性实践作为替代范式。
+> - **2000s — [[Evidence-Based Education|循证教育]]运动与技术理性复兴** 随着“[[What Works Movement|什么有效运动]]”及英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）工具包的普及，技术理性在教育政策中以[[Effect Size|效应量]]排行榜和因果证据等级制的形式再度盛行。
+> - **2009 — 卡扎米亚斯批判技术官僚理性并重申全人[[Bildung|教化]]** 卡扎米亚斯系统批判技术官僚理性对比较教育人文传统的剥离，重申古典全人教化（*[[Paideia]]*）的人本底线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> - **2017 — 证据知情视阈下对技术理性线性供给的反思** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 批判自上而下的技术-理性灌输模型，倡导以[[Professional Judgment|专业判断]]为核心的全系统[[Knowledge Mobilisation|知识动员]]。
+> - **2022 — 教师教育[[Evidence Era|证据时代]]的[[Epistemological Break|认识论断裂]]与[[Rationalized Myth|合理化神话]]** [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] 揭示技术理性在当代政策中演进为主导性合理化神话，通过自上而下的[[Policy-Based Evidence-Making|逆向证据生产]]（PBEM）维系国家对教师教育准入的集权控制。
 
 ---
 
@@ -232,33 +235,10 @@ updated: 2026-09-07
 > - **消除主体意向性与价值神圣化** 将教师和学生还原为刺激-反应输入输出变量，预设既定目标不容置疑，排斥对教育伦理目的的追问。
 > - **去情境化有效性追求的合法化悖论** 越是以技术理性手段追求去情境化的“[[Effective Teaching|有效教学]]”，越容易削弱师生的内在认同，诱发职业倦怠与意义危机。
 > - **对比较教育人文科学属性的系统剥离** 卡扎米亚斯针砭指出技术官僚理性抹杀了历史深度与文化脉络，使比较研究退化为无[[Reflexivity|反思性]]的官僚测量工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> - **[[Epistemological Break|认识论断裂]]与逆向合法化工具** 忽视科研转化中的情境衰减，使技术理性退化为服务于既定政治议程的合理化外壳。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 96)]]
 
 > [!warning] 适用局限
 > 技术理性仅适用于具有高度可预测性、[[Causality|因果关系]]清晰且价值目标完全闭合的技术工程领域；在面对包含多元价值冲突、动态情境生成与师生生命[[Growth|成长]]的真实教育[[Champ|场域]]中，技术理性存在根本性的[[Epistemology|认识论]]盲区。
-
----
-
-## 应用案例
-
-> [!case] 案例：Hattie《[[Visible Learning|可见的学习]]》中的行为主义与技术理性内核（Nielsen & Klitmøller, 2021）
-> Nielsen & Klitmøller (2021) 深入剖析了[[John Hattie|约翰·哈蒂]]（John Hattie）的合成研究，指出其理论根基承袭自罗伯特·格拉泽（Robert Glaser，斯金纳的学生）的行为主义学习论。在该框架下，教学被解构为孤立的因果技术干预，复杂的师生互动被压缩为标准化的[[Effect Size|效应量]]指标。这种操作赋予了技术化教学一种“不证自明的客观科学外观”，但也使教育完全陷入了手段-目的的封闭计算之中。
-
-> [!case] 案例：教育政策中自上而下研究灌输的失灵与草根反弹（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]]）
-> 在英美教育政策实验中，政府长期倾向于采用技术-理性模型——由中央机构资助大规模[[Experimental Research|实验研究]]，并试图将标准化的“[[Effective Teaching|有效教学]]法”自上而下指令性地推向学校。[[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p. 127)]] 指出，这种线性传递因缺乏对学校中介条件与教师专业准备度的支持而普遍遇阻，并直接触发了以 [[ResearchED]] 和“颠覆系统”（Flip the System）为代表的草根教师证据运动，倒逼学界与政策界承认教师[[Professional Judgment|专业判断]]的核心地位。
-
----
-
-## 领域应用
-
-> [!entry-map] 技术理性[[Construct|构念]]在学术网络中的关联结构
-> | 关联构件 | 链接条目 | 理论关联说明 |
-> |---|---|---|
-> | **[[Epistemology\|认识论]]根源** | [[Positivism]]；[[Value Neutrality]] | 植根于实证主义[[Scientism\|科学主义]]哲学与价值中立[[Hypothesis\|假设]] |
-> | **专业实践反思** | [[Professional Judgment]]；[[Reflexivity]]；[[Phronesis]] | 舍恩倡导反思性实践与[[Aristotle\|亚里士多德]]实践智慧以突破技术理性沼泽地困境 |
-> | **政策治理形态** | [[Evidence-Based Education]]；[[New Public Management]] | 在循证教育与新公共管理问责中异化为线性指标考核与技术官僚控制 |
-> | **学科对抗[[Paradigm\|范式]]** | [[Historical-Philosophical-Cultural Motif]]；[[Bildung]] | 历史人文母题与古典全人教化传统构成抵抗技术官僚理性的终极人本防线 |
-> | **替代实践生态** | [[Evidence-Informed Practice]]；[[Knowledge Mobilisation]] | 倡导从单向研究灌输转向多源证据知情与社会化知识动员 |
-> | **核心研究专著** | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]；[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] | 批判自上而下技术-理性灌输，反思比较教育中技术官僚理性对人本母题的侵蚀 |
 
 ---
 
@@ -266,8 +246,10 @@ updated: 2026-09-07
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 批判教育政策中长期主导的“技术-理性”研究灌输模型，系统阐述以[[Professional Judgment|专业判断]]为核心的多源[[Evidence-Informed Practice|证据知情实践]]与全系统[[Knowledge Mobilisation|知识动员]]。
+> - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 剖析英格兰 35 年教师教育改革中技术理性的[[Epistemological Break|认识论断裂]]，揭示证据作为[[Rationalized Myth|合理化神话]]在政策逆向生产中的政治把关功能。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史批判指出 1960 年代实证转型以技术官僚理性取代历史-哲学-文化传统，将教育异化为狭隘的学校技能[[Disciplina and Doctrina|规训]]，重申以人为中心的全人[[Bildung|教化]]防线。
 > - Nielsen & Klitmøller (2021) — 运用 Schön 和 Habermas 的[[Critical Theory|批判理论]]，系统剖析 [[Visible Learning]] 的技术理性内核及其行为主义理论谱系。
 > - Schön (1983) — 奠基性著作《[[Reflexivity|反思性]]实践者》，系统界定技术理性并阐明反思性实践作为专业[[Epistemology|认识论]]的替代方案。
 > - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与合法化危机生成机制。
+
 

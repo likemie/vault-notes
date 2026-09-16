@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
   - "[[Pretest-Posttest Control Group Design]]"
+  - "[[Difference-in-Differences]]"
   - "[[Factorial Design]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Causality
@@ -154,7 +155,7 @@ updated: 2026-09-14
 >
 > $$\text{平均因果效应（ATE）} = (E_1 - E_2) - (C_1 - C_2)$$
 >
-> - **数学含义** $E_1, E_2$ 分别为实验组后测与前测分值；$C_1, C_2$ 分别为控制组后测与前测分值。$(E_1 - E_2)$ 包含“干预净效应 + 自然成熟 + 历史变动”，$(C_1 - C_2)$ 包含“纯自然成熟 + 历史变动”；二者双重差分相减，剥离出纯净的因果效应。
+> - **数学含义** $E_1, E_2$ 分别为实验组后测与前测分值；$C_1, C_2$ 分别为控制组后测与前测分值。$(E_1 - E_2)$ 包含“干预净效应 + 自然成熟 + 历史变动”，$(C_1 - C_2)$ 包含“纯自然成熟 + 历史变动”；二者[[Difference-in-Differences|双重差分]]相减，剥离出纯净的因果效应。
 > - **成立前提** 依赖于**其他条件不变假定（Ceteris Paribus）**；随机分配（Random Assignment）通过大数定律保证了两组在期望上的完全等价性。
 
 > [!logic-map]- 从相关到因果识别的逻辑判定流
@@ -289,7 +290,7 @@ updated: 2026-09-14
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen, Manion, & Morrison (2011)]] — 系统构建教育研究因果推断全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]、[[Causal Over-determination|因果过度决定]]及真实验前[[Pre-test and Post-test|后测]]双重差分效应模型（Ch. 4 / Ch. 16）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen, Manion, & Morrison (2011)]] — 系统构建教育研究因果推断全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]、[[Causal Over-determination|因果过度决定]]及真实验前[[Pre-test and Post-test|后测]][[Difference-in-Differences|双重差分]]效应模型（Ch. 4 / Ch. 16）。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 明确量化因果推断三要件（关联证据、时间顺序、排除替代解释）及[[Causal Modeling|因果建模]]路径。
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 论证单一被试实验（[[Single-Case Design|SCD]]）与组间实验的因果推断同构性及[[Internal Validity|内部效度]]门控机制。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 建立清算中心 0–3 级因果识别设计分级标准，揭示微观因果证据向宏观政策[[Transfer Translation Transformation|转译]]时的综合门槛割裂。

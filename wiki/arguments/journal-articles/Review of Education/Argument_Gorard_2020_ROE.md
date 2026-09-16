@@ -7,7 +7,7 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 72
+argument_related_count: 74
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -70,7 +70,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Audit Trail]]"
-  - "[[Intent-to-Treat Analysis]]"
 related_instruments:
   - "[[Gorard's Trustworthiness Sieve]]"
 related_persons:
@@ -87,7 +86,10 @@ related_facts:
   - "[[Research Learning Communities]]"
   - "[[Using Data Intervention]]"
   - "[[Gaokao]]"
+  - "[[Feedback Action Research Trial]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[Investing in Innovation Program]]"
+  - "[[Strategic School Improvement Fund]]"
 status: completed
 created: 2026-09-15
 updated: 2026-09-16
@@ -388,12 +390,12 @@ sources:
 > [!row-contrast] 用户参与研究模式评估汇总（Table 9, p. 596）
 > | 纳入研究与年份 | 质评等级 | 知识与认知 | 行为与实践 | 终端成效 | 核心因果结论 |
 > |---|---|---|---|---|---|
-> | [[Feedback Action Research Trial|See et al. (2016)]] | 2 级（★★） | — | — | 负向 / 中性 | 9 所小学教师研读反馈期刊并开展 3 轮行动研究，学生成绩与对照校无异，实施严重变异。 |
+> | [[Feedback Action Research Trial\|See et al. (2016)]] | 2 级（★★） | — | — | 负向 / 中性 | 9 所小学教师研读反馈期刊并开展 3 轮行动研究，学生成绩与对照校无异，实施严重变异。 |
 > | Tranmer et al. (2002) | 1 级（★） | — | 正向改善 | — | 护士参与[[Clinical Trial\|临床试验]]方案制定略微提升了后续护理操作合规性。 |
 
 针对英格兰小学的反馈行动研究因果评估，为此提供了深刻的经验教训。（pp. 595–596）
 
-> [!case] [[Feedback Action Research Trial|杜伦大学教师反馈行动研究试验]]（See et al., 2016）
+> [!case] 杜伦大学教师反馈行动研究试验（See et al., 2016）
 > - **干预机制设计** 该项 2 级实证评估追踪由 9 所小学伙伴学校联盟开展的干预，围绕课堂有效反馈机制展开攻坚。
 > - **文献研读与行动研究循环** 9 所学校的教师集体研读关于课堂反馈的高水平学术期刊论文，组织全员级联培训，并在一个学年内紧锣密鼓地开展了三轮校本[[Action Research|行动研究]]循环，力图将学术原理内化于教学。
 > - **统计理解障碍与实施的致命变异（Lethal Mutation）** 过程追踪显示，学术论文中的因果推论、混淆变量控制及效应量逻辑对一线教师构成严重理解障碍。由于专业素养欠缺，课堂实操中对反馈机制发生严重的演绎偏差——将及时的形成性矫正异化为耗费工时的机械批改与繁琐表格勾选，产生典型实践变异。
@@ -407,7 +409,7 @@ sources:
 ### 论证步骤四　将证据工程化封装为预制教学工件并在宏观制度上与法定拨款硬性挂钩是实现因果成效的根本出路
 
 > [!claim] 核心主张：工件工程化与法定拨款硬约束
-> 破解证据利用长期无效的根本出路在于“微观工件工程化”与“宏观制度工程化”的双轮驱动：在微观上将因果规律深度封装进免除底层认知负担的预制脚本化教案与操作工件中；在宏观上借鉴公共卫生群体级干预经验，通过法定立法（如美国 ESSA 与 i3 模式）将公共财政分配与高等级独立因果证据进行硬性绑定，并重塑师资培训的实证准入规程。（pp. 596–601）
+> 破解证据利用长期无效的根本出路在于“微观工件工程化”与“宏观制度工程化”的双轮驱动：在微观上将因果规律深度封装进免除底层认知负担的预制脚本化教案与操作工件中；在宏观上借鉴公共卫生群体级干预经验，通过法定立法（如美国 [[Every Student Succeeds Act|ESSA]] 与 i3 模式）将公共财政分配与高等级独立因果证据进行硬性绑定，并重塑师资培训的实证准入规程。（pp. 596–601）
 
 #### 1. 微观层面：将因果证据封装为预制脚本化教案工件能消除认知负担并显著提升有效教学行为
 
@@ -446,9 +448,9 @@ sources:
 将这一原理引入教育治理，要求国家彻底改革公共资金分配规则与专业准入机制。（pp. 598–601）
 
 > [!pathways] 宏观制度工程化的实施路径与硬约束
-> - **联邦立法与证据等级挂钩（ESSA 与 i3 模式）** 借鉴美国《每个学生成功法案》（[[Every Student Succeeds Act|Every Student Succeeds Act, ESSA]]）与[[Investing in Innovation Program|创新投资项目]]（Investing in Innovation, i3）的法定制度，联邦政府将数十亿美元级学校改进资金严格限定于通过高等级独立因果检验（第一级强证据、第二级中度证据）的干预项目，在法律层面剥夺未经实证检验的商业包装项目的准投资格。（pp. 598–599）
-> - **英国反面案例警示与财政伦理底线（SSIF 批判）** 英国[[Strategic School Improvement Fund|战略学校改进基金]]（SSIF）向薄弱学校拨付数千万英镑资金，却完全未设立科学证据准入门槛，导致公款被未经实证检验的项目滥用，遭到下议院公共账目委员会严厉质询。纳税人与慈善机构托付给公共教育的紧缺资金负有极高伦理责任，政府必须坚决立法阻断将公共资金用于未获独立因果证实的教育项目。（pp. 596, 599–600）
-> - **师资培养与专业发展的实证资质认证** 改革职前教师培训（Initial Teacher Training, [[Intent-to-Treat Analysis|ITT]]）与持续专业发展（Continuing Professional Development, CPD）体系，强制要求各类师培项目必须由具备严格因果[[Research Literacy|研究素养]]的专家主导，将具有扎实因果依据的工程化教学工件列为师资准入考核标准，彻底清除无证据的教学玄学。（pp. 600–601）
+> - **联邦立法与证据等级挂钩（ESSA 与 i3 模式）** 借鉴美国《每个学生成功法案》（Every Student Succeeds Act, ESSA）与[[Investing in Innovation Program|创新投资项目]]（Investing in Innovation, i3）的法定制度，联邦政府将数十亿美元级学校改进资金严格限定于通过高等级独立因果检验（第一级强证据、第二级中度证据）的干预项目，在法律层面剥夺未经实证检验的商业包装项目的准投资格。（pp. 598–599）
+> - **英国反面案例警示与财政伦理底线（[[Strategic School Improvement Fund|SSIF]] 批判）** 英国[[Strategic School Improvement Fund|战略学校改进基金]]（SSIF）向薄弱学校拨付数千万英镑资金，却完全未设立科学证据准入门槛，导致公款被未经实证检验的项目滥用，遭到下议院公共账目委员会严厉质询。纳税人与慈善机构托付给公共教育的紧缺资金负有极高伦理责任，政府必须坚决立法阻断将公共资金用于未获独立因果证实的教育项目。（pp. 596, 599–600）
+> - **师资培养与专业发展的实证资质认证** 改革职前教师培训（Initial Teacher Training, ITT）与持续专业发展（Continuing Professional Development, CPD）体系，强制要求各类师培项目必须由具备严格因果[[Research Literacy|研究素养]]的专家主导，将具有扎实因果依据的工程化教学工件列为师资准入考核标准，彻底清除无证据的教学玄学。（pp. 600–601）
 
 > [!warrant]- 论证逻辑收束：证据工程化与制度规制的实证转化新[[Paradigm|范式]]
 > 证据转化的有效路径在于彻底摒弃要求教师个体承担复杂统计审计的“宣教说服”模式，转向微观[[Structured Teaching|结构化教学]]工件（Doabler et al., 2014）与宏观法定财政硬约束（[[Every Student Succeeds Act|ESSA]] / i3 证据分级）的双重工程化治理。这一范式既保护了公共教育财政免受教学神话侵蚀，又以最高保真度将因果证据隐形固化于日常教学，成为教育证据利用唯一具备稳健因果支撑的转化路径。（pp. 596–601）

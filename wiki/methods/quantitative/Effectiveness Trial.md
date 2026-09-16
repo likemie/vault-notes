@@ -40,7 +40,6 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Efficacy Trial]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Complier Average Causal Effect]]"
   - "[[Blinding]]"
   - "[[Implementation and Process Evaluation]]"
@@ -51,6 +50,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Effect Size]]"
+  - "[[Intent-to-Treat Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -81,7 +81,7 @@ updated: 2026-09-15
 > - **研究对象** 准备在全国、全区域或数百所学校大范围采购推广的成熟教育干预、课程改革或教研培训方案。
 > - **问题类型** 政策现实推广性检验与全系统净效益测定。
 > - **[[Unit of Analysis|分析单位]]** 跨多个学区、覆盖数十至数百所具有异质代表性公立学校的大规模整群样本。
-> - **输出形式** 全样本意向治疗效应（[[Intent-to-Treat Analysis|ITT]]）、实际依从者因果效应（[[Complier Average Causal Effect|CACE]]）、级联培训保真度衰减曲线、[[Business as Usual|常态教学]]替代率与生均实施成本。
+> - **输出形式** 全样本意向治疗效应（ITT）、实际依从者因果效应（[[Complier Average Causal Effect|CACE]]）、级联培训保真度衰减曲线、[[Business as Usual|常态教学]]替代率与生均实施成本。
 
 > [!citation-card] 实效试验中功效追求与现场实施质量的内在对抗（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）
 > 在效力检验阶段展现出积极效应的试验，往往未能在随后的实效检验阶段成功复现。高质量实施与对更强统计功效的追求之间经常存在直接的张力。大样本研究可能迫使干预提供者以超常速度扩张，从而危及规模化机制。在扩大规模时，提供方往往需要招募和培训新人员并调整培训模式，多层级级联稀释导致现场保真度急剧崩溃。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 57)]]
@@ -95,7 +95,7 @@ updated: 2026-09-15
 > [!method-position] [[Epistemology|认识论]]与因果识别定位
 > - **知识观** 坚持真实世界证据（Real-World Evidence）与政策经济学视角。认为只有在常规行政压力、师资变动与经费约束等真实摩擦下依然能产生增益的方案，才具备公共财政大规模资助的合理性。
 > - **研究者角色** 实行严密的“开发者与评估者彻底剥离”制度；第三方评估机构全权负责学校招募、[[Blinding|盲法]]测试与统计建模，杜绝利益冲突。
-> - **核心识别假定** 遵循严格的意向治疗原则（[[Intent-to-Treat Analysis|ITT]]），真实记录非依从、中途脱落与实施走样对总体产出的真实拉平效应。
+> - **核心识别假定** 遵循严格的意向治疗原则（ITT），真实记录非依从、中途脱落与实施走样对总体产出的真实拉平效应。
 > - **不可或缺的组合方法** 必须强制配套[[Implementation and Process Evaluation|实施与过程评估]]（IPE），以解构规模化中的“黑箱”过程与保真度损耗。
 
 > [!contrast-table] [[Efficacy Trial|效力试验]] vs 实效试验核心维度对比
@@ -136,7 +136,7 @@ updated: 2026-09-15
 > 2. **跨区域大规模招募与独立[[Preregistration|预注册]]** 招募 50–200 所公立中小学，在 [[ISRCTN]] 预注册试验方案与[[Statistical Analysis Plan|统计分析计划]]（SAP）。
 > 3. **中介网络递送与双轨独立追踪** 方案提供方通过区域培训师网络实施交付；独立的 [[Implementation and Process Evaluation|IPE]] 团队全程记录各校培训出勤率、课堂执行保真度与对照组常态活动。
 > 4. **依托国家普查大数据的[[Blinding|盲法]][[Pre-test and Post-test|后测]]** 链接[[National Pupil Database|国家学生数据库]]（NPD）直接提取法定考试成绩，将[[Attrition|样本流失]]率稳健控制在最低警戒线。
-> 5. **双重因果估计与政策决策报告** 汇报第一标题意向治疗效应（[[Intent-to-Treat Analysis|ITT]]），结合工具[[Variable|变量]] [[Complier Average Causal Effect|CACE]] 与 IPE 过程数据，向国家教育部与学校出具推广政策建议。
+> 5. **双重因果估计与政策决策报告** 汇报第一标题意向治疗效应（ITT），结合工具[[Variable|变量]] [[Complier Average Causal Effect|CACE]] 与 IPE 过程数据，向国家教育部与学校出具推广政策建议。
 
 ### 量化分析模块
 

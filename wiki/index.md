@@ -1086,7 +1086,7 @@ Total entries: **2550**
 > - [[Convergence Theory in Comparative Education]] — 比较教育的四种理解形式之一，认为不同社会的教育系统正在趋向相似，经历了从 UNESCO 科学理想到新制度主义的多个阶段
 > - [[Dependency Theory]] — 1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心与边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因。后于 1990 年代至 2010 年代初演化为对高等教育领域“学术依附”与“学术新殖民主义”的地缘政治非自觉批判。
 > - [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，提出权力距离、个人主义/集体主义、不确定性规避等维度刻画文化心智软件；在教育中用于解释权威结构、教学法跨文化转译及生成式 AI 破除师生权力壁垒的中介机制。
-> - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
+> - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率
 > - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
 > - [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] — Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育政策的影响机制分为超国家、国家层面和内部行动者网络三个层级，强调全球教育场域中的双向互动
 > - [[Wight's Three Traditions of International Theory]] — 马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产
@@ -2576,7 +2576,7 @@ Total entries: **2550**
 > - [[CEM Centre]] — 1983 年成立的杜伦大学教育评估与监测研究中心，开发 PIPS、MidYIS、ALIS 等学校监测系统，2019 年被剑桥大学出版与评估院收购
 > - [[Centre for the Use of Research and Evidence in Education]] — 英国由菲莉帕·科丁利领衔创设的独立专业知识中介机构，经合组织2007年报告中极少数独家聚焦于教师与微观教学的先驱中介，开创了研究路线图与协作型在职专业发展（CPD）范式。
 > - [[Chartered College of Teaching]] — 2017年依据英国皇家特许状设立的教师专业组织，由政府扶持以推广循证教学实践并代表教师专业声音
-> - [[Committee for the Accreditation of Teacher Education]] — 1984年英国保守党政府设立的教师教育认证机构，依据HMI督导证据对培训提供方进行认证，标志着英格兰教师教育显性循证治理的制度起点。
+> - [[Committee for the Accreditation of Teacher Education]] — 1984年英国保守党政府设立的法定教师教育认证机构，依据皇家督学署（HMI）督导证据对培训提供方进行资质认证，标志着英格兰教师教育显性循证治理的制度起点
 > - [[Early Intervention Foundation]] — 英国2013年创设的官方有效性中心（What Works Centre），专注于0-19岁儿童早期发展、亲职养育与心理健康实证清算，其旗舰门户 EIF Guidebook 是国际公认严格依托系统综述的通用策略类证据标杆；率先将 COM-B 行为科学理论整合至知识动员中，2023年与儿童社会关怀中心合并为 Foundations
 > - [[Education Endowment Foundation]] — 英国2011年由萨顿信托联合创立的准独立慈善证据中介旗舰，依托1.25亿英镑政府种子基金，通过《教学与学习工具包》、大规模RCT资助及研究学校网络，开创了循证教育生态系统模型。
 > - [[Education Media Centre]] — 2013年成立于英国伦敦的独立非营利教育媒介中介机构，首创将科学媒体中心（SMC）模式跨界移植至教育与人文社科领域，为新闻采编室提供突发教育议题同行评议事实核查，并面向广大大众构建公共证据素养与反商业操纵免疫屏障。

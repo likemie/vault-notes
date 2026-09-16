@@ -2,7 +2,6 @@
 title: Intent-to-Treat Analysis
 aliases:
   - 意向治疗分析
-  - ITT
   - 意向性分析
   - Intention-to-Treat Analysis
 summary: "一种按原始随机分配而非实际接受情况来分析结果的 RCT 因果估计方法，评估干预可获得性对总体结果的影响，并构成教育证据清算中心评级的核心基准。"
@@ -66,8 +65,8 @@ related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
 status: active
-created: '2026-05-02'
-updated: 2026-09-15
+created: 2026-05-02
+updated: 2026-09-17
 ---
 
 # Intent-to-Treat Analysis

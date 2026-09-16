@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 79
+fact_related_count: 78
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -68,7 +68,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Efficacy Trial]]"
   - "[[Systematic Review]]"
@@ -111,7 +110,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Education Endowment Foundation
@@ -180,7 +179,7 @@ updated: 2026-09-16
 > - **校长决策渗透率** 约 85% 的英格兰中小学校长报告在制定针对处境不利学生的学业支持战略及使用 [[Pupil Premium]] 预算时，主动参考并采用了 EEF 发布的权威指南（Guidance Reports）与工具包建议（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)；[[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, p. 111]]）。
 > - **战略领域系统拓展** 证据资助与实践转化重点向学前早期教育（Early Years，特别是学前读写与数学基础能力）、16–19 岁青年教育系统延伸，并重点推进高成效方案（如 Maths Champions）的跨区域规模化落地，持续应对后疫情时期的学业差距危机。
 > - **全球镜像组织辐射** 成功输出模式，深度主导或孵化了澳大利亚 [[Australian Education Research Organisation|AERO]]、澳大利亚 E4L 以及拉美 Summa 等国家与跨国中介机构。
-> - **跨国政策话语权** 其[[Evidence Standards|证据标准]]直接被英美澳等国纳入入职教师培训（Initial Teacher Training，[[Intent-to-Treat Analysis|ITT]]）核心大纲([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
+> - **跨国政策话语权** 其[[Evidence Standards|证据标准]]直接被英美澳等国纳入入职教师培训（Initial Teacher Training，ITT）核心大纲([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
 
 > [!critique-data]- 最终受益人评估与[[Research Schools Network|研究学校网络]]（RSN）3年实证结果
 > - **全球有效机构中的评估例外** 跨国实证综述显示，除英国教育捐赠基金会（EEF）之外，绝大多数有效机构（[[What Works Network|What Works Centres]]）极少对其推动的证据利用在最终受益人（即学生学业与身心发展）上的长远效益进行独立因果评估。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; Gough et al. (2018)

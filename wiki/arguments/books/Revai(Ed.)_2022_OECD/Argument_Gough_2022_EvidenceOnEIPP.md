@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 67
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,12 +46,14 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
-  - "[[EMMIE Framework]]"
   - "[[Meta-analysis]]"
+  - "[[Multi-Arm Trial]]"
   - "[[Questionnaire]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Effect Size]]"
   - "[[Weight of Evidence Framework]]"
+  - "[[Propensity Score Matching]]"
+  - "[[Difference-in-Differences]]"
   - "[[Statistical Significance]]"
 related_concepts:
   - "[[Educational Brokerage Agency]]"
@@ -105,8 +107,11 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Institute for Effective Education]]"
   - "[[Ofsted]]"
+  - "[[Literacy Octopus]]"
   - "[[National Pupil Database]]"
   - "[[Scientific Advisory Group for Emergencies]]"
+related_instruments:
+  - "[[EMMIE Framework]]"
 status: draft
 created: 2026-09-13
 updated: 2026-09-13
@@ -386,8 +391,8 @@ sources:
 
 向潜在使用者发布研究成果摘要是支持用户参与和决策的传统默认进路（Davies, Powell, & Nutley, 2015）。然而来自关于研究应用的研究的大量经验证据表明，单纯传播研究发现与实际利用之间没有任何必然联系（Langer, Tripney, & Gough, 2016）：
 
-> [!case] 实证案例：EEF 识字八爪鱼试验多臂 [[Randomised Controlled Trials|RCT]] 裁决单向传播的无效性（Lord et al., 2017, p. 152）
-> 英国教育捐赠基金会（EEF）针对向小学教师传播实证识字教学成果，资助开展了大规模多臂随机对照试验（Multi-armed RCT，代号“识字八爪鱼” Literacy Octopus Trial），该试验由英国全国教育研究基金会（National Foundation for Educational Research, NFER；Lord, Rabiasz, & Styles, 2017）独立实施，构成全球知识传播领域最具代表性的因果检验标杆：
+> [!case] 实证案例：EEF [[Literacy Octopus|识字八爪鱼试验]]多臂 [[Randomised Controlled Trials|RCT]] 裁决单向传播的无效性（Lord et al., 2017, p. 152）
+> 英国教育捐赠基金会（EEF）针对向小学教师传播实证识字教学成果，资助开展了大规模[[Multi-Arm Trial|多臂随机对照试验]]（Multi-armed RCT，代号“识字八爪鱼” Literacy Octopus Trial），该试验由英国全国教育研究基金会（National Foundation for Educational Research, NFER；Lord, Rabiasz, & Styles, 2017）独立实施，构成全球知识传播领域最具代表性的因果检验标杆：
 > - **试验规模与样本覆盖**
 >   试验覆盖全英格兰 800 余所公立小学，直接涉及数千名五年级与六年级语文教师及数万名学童，旨在严格检验各种被动与轻量级知识传播手段对课堂教学与学生学业的真实因果影响。
 > - **多臂干预设计与多元传播样态测试**
@@ -397,7 +402,7 @@ sources:
 >   3. **专业期刊媒介专栏** 在主流专业教育期刊与教学杂志上开设专栏深度解读实证识字教法；
 >   4. **低交互网络资源支持** 提供在线资源库与配套网络研讨会（Webinar）链接供教师按需浏览。
 > - **独立因果评估与统计学零效应发现**
->   评估以英格兰全国统一考试（Key Stage 2, KS2）的小学毕业阅读与写作标准化成绩作为终极因果产出指标，并同步开展大样本教师[[Questionnaire|问卷调查]]与课堂教学观察。经过严格的意向性分析（Intention-to-Treat, [[Intent-to-Treat Analysis|ITT]]），**评估证实：没有任何证据表明上述任何一种单一信息传播策略在改善学生 KS2 识字成绩上产生了统计学显著的正向效果（[[Effect Size|效应量]]均接近于 0）；即使教师阅读了推送材料，其实际课堂教学策略与提问互动也未发生可识别的系统性转变**。
+>   评估以英格兰全国统一考试（Key Stage 2, KS2）的小学毕业阅读与写作标准化成绩作为终极因果产出指标，并同步开展大样本教师[[Questionnaire|问卷调查]]与课堂教学观察。经过严格的[[Intent-to-Treat Analysis|意向性分析]]（Intention-to-Treat, ITT），**评估证实：没有任何证据表明上述任何一种单一信息传播策略在改善学生 KS2 识字成绩上产生了统计学显著的正向效果（[[Effect Size|效应量]]均接近于 0）；即使教师阅读了推送材料，其实际课堂教学策略与提问互动也未发生可识别的系统性转变**。
 > - **方法论判定结论**
 >   该试验以无可辩驳的高质量因果证据推翻了单向学术推介（Research Push）模式，彻底击碎了假定“只要将研究成果以通俗生动的形式推送给实践者就能驱动实践改进”的信息赤字假设（Information [[Deficit Model of Science Communication|deficit model]]）。单纯的信息传播与实际利用之间不存在必然因果联系，孤立的单向推送在跨越实践转化鸿沟时注定失效。
 
@@ -535,7 +540,7 @@ sources:
 > - **循证指南与区域规模化推广活动（Regional Scale-up Campaign）**
 >   EEF 提炼发布了《在课堂中最大化助教效能》行动指南，明确了助教角色定位的 7 项核心实践建议（如严禁助教替代主讲教师开展基础学科教学、训练助教提供支架式辅导而非直接给出答案、学校必须在排课中制度化保障主辅教师协同备课时间、将助教配置于经过严谨因果检验的小班干预方案中）。随后，EEF 在南约克郡与西约克郡联合数十所“研究学校”展开区域规模化推广（Maxwell et al., 2019），推动数百所学校系统再造[[Classroom Management|课堂管理]]规程。
 > - **准实验因果评估设计与终极学业产出测量**
->   为验证中介指南推广活动能否真正改善最终受益人福祉，EEF 委托英国财政研究所（Institute for Fiscal Studies, IFS；Sibieta & Sianesi, 2019）开展独立因果评估。研究依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database, NPD），结合倾向得分匹配与双重差分模型（Difference-in-Differences），以其他未参与战役地区的相似学校作为对照组。
+>   为验证中介指南推广活动能否真正改善最终受益人福祉，EEF 委托英国财政研究所（Institute for Fiscal Studies, IFS；Sibieta & Sianesi, 2019）开展独立因果评估。研究依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database, NPD），结合[[Propensity Score Matching|倾向得分匹配]]与[[Difference-in-Differences|双重差分]]模型（Difference-in-Differences），以其他未参与战役地区的相似学校作为对照组。
 > - **全链条因果验证发现**
 >   评估不仅追踪到了参与学校在排课制度、助教课堂协同模式上的深层制度调整（阶段性机制达成），更在终极产出上证实：**参与该推广活动的学校中，11 岁学生在全国统考（Key Stage 2, KS2）中阅读与数学标准化成绩均展现出统计学显著的正向学业增益（相当于额外获得数个月的学业[[Growth|成长]]进展）**。该案例成功实现了从“中介指南发布—学校组织制度重塑—终极学生学业改善”的全链条严密因果检验。
 
@@ -590,7 +595,7 @@ sources:
 
 > [!finding-cards] 核心发现
 > 1. **中介蓬勃发展与自我循证赤字的体制性断裂** 全球[[Educational Brokerage Agency|知识中介机构]]竞相[[Emergence|涌现]]，但受制于资助方短平快的产出交付考核，中介活动本身普遍缺乏实证依据支持，陷入知行不一的信誉危机。（pp. 147, 157）
-> 2. **单向成果传播神话在实证检验下的破产** 严谨的多臂[[Randomised Controlled Trials|随机对照试验]]（[[Education Endowment Foundation|EEF]] 识字八爪鱼试验）证实，单纯传播科研成果对教师课堂行为改变毫无[[Statistical Significance|统计显著性]]；知识采纳必须以能力（C）、机会（O）与动机（M）三位一体的行为改变科学为依托。（pp. 152–153）
+> 2. **单向成果传播神话在实证检验下的破产** 严谨的多臂[[Randomised Controlled Trials|随机对照试验]]（[[Education Endowment Foundation|EEF]] [[Literacy Octopus|识字八爪鱼试验]]）证实，单纯传播科研成果对教师课堂行为改变毫无[[Statistical Significance|统计显著性]]；知识采纳必须以能力（C）、机会（O）与动机（M）三位一体的行为改变科学为依托。（pp. 152–153）
 > 3. **网络证据门户评级标准的系统性塌陷** 国际 15 个代表性门户调查证实，仅 40% 遵循[[Systematic Review|系统综述]]标准，全部面向打包干预项目的门户竟然全部仅凭 1–2 项研究即定性有效，存在误导系统决策的巨大风险。（pp. 154–155）
 > 4. **外层制度整合与最终成效因果检验的严重缺位** 多数中介机构受制于高利害问责（如 [[Ofsted]]）与政治短期周期的阻抗，且评估长期局限于会议数与网页点击量等浅层指标，极少深入检验对最终受益人（学生）的实质影响。（pp. 150–151, 156–157）
 

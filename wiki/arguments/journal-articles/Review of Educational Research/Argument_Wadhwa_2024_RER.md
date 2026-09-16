@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 75
+argument_related_count: 78
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -80,10 +80,13 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Time Series Design]]"
   - "[[Effect Size]]"
+  - "[[Propensity Score Matching]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Complier Average Causal Effect]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Random Assignment]]"
+  - "[[Hierarchical Linear Model]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Standard Error]]"
   - "[[t-test]]"
   - "[[Manipulation Check]]"
@@ -230,7 +233,7 @@ updated: 2026-09-13
 >    - 多领域跨界机构（如 Blueprints、CEBC、HomVEE、SPTW）脱胎于公共卫生、犯罪学与社会福利学界，天然继承了循证医学（Evidence-Based Medicine, EBM）与流行病学的严苛规范，格外重视[[Clinical Trial|临床试验]]级的安慰剂对照、[[Iatrogenic Effects in Education|医源性伤害]]排除与长期随访。
 > 2. **资金与技术实力的巨大断层**
 >    - 美国教育部累计向 WWC 投入超过 **1 亿美元** 的研发资金，使其拥有常设的技术审查委员会、庞大的外包评审团队、以及每两至三年迭代一次的极其详尽的技术手册（Handbook v4.0）；
->    - 相比之下，多数非营利或大学下设机构（如 NDPC、CASEL、BEE）依赖短期竞争性基金或赠款维持运营，资金局限直接导致其[[Literature Search|文献检索]]广度受限、更新周期漫长、且往往无法对单项研究所包含的复杂微观统计参数（如群组内相关、倾向得分匹配算法）进行独立重算(pp. 6–8)。
+>    - 相比之下，多数非营利或大学下设机构（如 NDPC、CASEL、BEE）依赖短期竞争性基金或赠款维持运营，资金局限直接导致其[[Literature Search|文献检索]]广度受限、更新周期漫长、且往往无法对单项研究所包含的复杂微观统计参数（如群组内相关、[[Propensity Score Matching|倾向得分匹配]]算法）进行独立重算(pp. 6–8)。
 > 3. **评估对象的概念外延分化**
 >    - 七家机构仅针对具备独立商业品牌或商标的具名方案（如 [[Success for All]], Reading Recovery）进行黑箱式项目评级；
 >    - WWC 则穿透到具体的教育政策（如[[Partnership Schools Kura Hourua|特许学校]]政策）、教学实践（如[[Direct Instruction|直接教学]]法）以及微观结果域。这种评价颗粒度的差异，为跨中心横向比较埋下了结构性错位的伏笔。
@@ -264,7 +267,7 @@ updated: 2026-09-13
 > [!warrant]- 步骤二深度解读：因果质量评估的技术分歧与方法学盲区
 > 1. **RCT 黄金标准的表象共识与实质割裂**
 >    - 虽然全部 12 个清算中心在名义上均赋予 RCT 最高优先级，但对于“何为高质量 RCT”的技术审查深度判若云泥。
->    - **[[Cluster Randomized Trials|集群随机对照试验]]（Cluster Randomized Controlled Trial, Cluster RCT）的致命处理** 在教育现场，[[Random Assignment|随机化]]往往发生在学校或班级层面，而测量发生在学生个体层面。若不进行多层线性模型（Hierarchical Linear Model, HLM）或群组内相关系数（Intraclass Correlation Coefficient, ICC）校正，[[Standard Error|标准误]]将被严重低估，导致虚假显著性。全库仅 WWC 制定了详尽的集群偏倚防范与自由度调整规程；多数机构（如 NDPC、CASEL）甚至无法识别集群与[[Unit of Analysis|分析单位]]错位问题。
+>    - **[[Cluster Randomized Trials|集群随机对照试验]]（Cluster Randomized Controlled Trial, Cluster RCT）的致命处理** 在教育现场，[[Random Assignment|随机化]]往往发生在学校或班级层面，而测量发生在学生个体层面。若不进行[[Hierarchical Linear Model|多层线性模型]]（Hierarchical Linear Model, HLM）或群[[Intraclass Correlation Coefficient|组内相关系数]]（Intraclass Correlation Coefficient, ICC）校正，[[Standard Error|标准误]]将被严重低估，导致虚假显著性。全库仅 WWC 制定了详尽的集群偏倚防范与自由度调整规程；多数机构（如 NDPC、CASEL）甚至无法识别集群与[[Unit of Analysis|分析单位]]错位问题。
 >    - **样本流失（[[Attrition]]）与选择偏差** WWC 建立了著名的“整体流失 vs 差异流失”边界模型（允许最大潜在偏倚在 0.05 个标准差 [Standard Deviation, SD] 以内）；SPTW 与 CMFR 仅设定了粗糙的 20% 流失率上限；Blueprints 则要求对脱落者与保留者实施双重卡方/[[t-test|t检验]]。这意味着同一篇因流失被 WWC 降级的 RCT，在其他清算中心可能轻松获评最高质量。
 > 2. **意向治疗分析（ITT） vs 顺从者平均因果效应（CACE）之争**
 >    - Blueprints、SPTW 等坚持公共卫生传统的机构强制要求 ITT（即不论学生实际上了几节课，只要被分入实验组均计入分析），以避免依从性偏倚（compliance bias）；

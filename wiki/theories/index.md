@@ -18,7 +18,7 @@ Total entries: **163**
 > - [[Convergence Theory in Comparative Education]] — 比较教育的四种理解形式之一，认为不同社会的教育系统正在趋向相似，经历了从 UNESCO 科学理想到新制度主义的多个阶段
 > - [[Dependency Theory]] — 1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心与边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因。后于 1990 年代至 2010 年代初演化为对高等教育领域“学术依附”与“学术新殖民主义”的地缘政治非自觉批判。
 > - [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，提出权力距离、个人主义/集体主义、不确定性规避等维度刻画文化心智软件；在教育中用于解释权威结构、教学法跨文化转译及生成式 AI 破除师生权力壁垒的中介机制。
-> - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
+> - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率
 > - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
 > - [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] — Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育政策的影响机制分为超国家、国家层面和内部行动者网络三个层级，强调全球教育场域中的双向互动
 > - [[Wight's Three Traditions of International Theory]] — 马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产

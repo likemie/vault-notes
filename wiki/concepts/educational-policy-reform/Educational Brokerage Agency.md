@@ -69,7 +69,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Statistical Significance]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
 related_instruments:
@@ -98,6 +97,7 @@ related_facts:
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Australian Education Research Organisation]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[Sutton Trust]]"
   - "[[What Works Network]]"
   - "[[Early Intervention Foundation]]"
@@ -284,7 +284,7 @@ updated: 2026-09-15
 > 检视知识中介机构传统的单向学术成果摘要与通俗推送进路，依托大规模因果评估裁决“信息赤字[[Hypothesis|假设]]”。
 
 > [!claim] Lord et al.
-> **单纯信息传播对实践变革毫无[[Statistical Significance|统计显著性]]** 英国教育捐赠基金会（EEF）资助、由英国全国教育研究基金会（NFER）独立评估的“[[Literacy Octopus|识字八爪鱼试验]]”（Literacy Octopus Trial），覆盖全英格兰 800 余所小学、数千名教师与数万名学童。多臂 [[Randomised Controlled Trials|RCT]] 严密检验了精编纸质手册、数字化通讯、专业杂志专栏等各类单向推送样态；经 [[Intent-to-Treat Analysis|ITT]] 分析证实，没有任何证据表明单一信息传播在提升学生 KS2 统考成绩上产生显著效果（[[Effect Size|效应量]]均为 0）。实证数据彻底击碎了信息赤字假设，证实知识中介若局限于单向推送，无论形式多么通俗生动，在孤立状态下都无法转化为专业行为与实践改进。[[Argument_Gough_2022_EvidenceOnEIPP|(Lord et al., 2017; Gough et al., 2022, p. 152)]]
+> **单纯信息传播对实践变革毫无[[Statistical Significance|统计显著性]]** 英国教育捐赠基金会（EEF）资助、由英国全国教育研究基金会（NFER）独立评估的“[[Literacy Octopus|识字八爪鱼试验]]”（Literacy Octopus Trial），覆盖全英格兰 800 余所小学、数千名教师与数万名学童。多臂 [[Randomised Controlled Trials|RCT]] 严密检验了精编纸质手册、数字化通讯、专业杂志专栏等各类单向推送样态；经 ITT 分析证实，没有任何证据表明单一信息传播在提升学生 KS2 统考成绩上产生显著效果（[[Effect Size|效应量]]均为 0）。实证数据彻底击碎了信息赤字假设，证实知识中介若局限于单向推送，无论形式多么通俗生动，在孤立状态下都无法转化为专业行为与实践改进。[[Argument_Gough_2022_EvidenceOnEIPP|(Lord et al., 2017; Gough et al., 2022, p. 152)]]
 
 ---
 
@@ -354,7 +354,7 @@ updated: 2026-09-15
 >
 > | 研究 | 机构名称与国家 | 治理模式与行政隶属 | 核心目标受众 | 方法学取向与代表成果 | 存续状态（截至2022年） | 存续影响因素与解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | [[What Works Clearinghouse]] (WWC), 美国 | 联邦教育部设立，由专业机构分包运营 | 政策决策者、学区管理者、研究者 | 严格遵循因果 [[Randomised Controlled Trials\|RCT]] 金标准；提供分级干预证据库 | 持续活跃（Fully active） | 依托联邦法律授权（如 ESSA）与法定义务拨款维持长效运作（p. 64） |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | [[What Works Clearinghouse]] (WWC), 美国 | 联邦教育部设立，由专业机构分包运营 | 政策决策者、学区管理者、研究者 | 严格遵循因果 [[Randomised Controlled Trials\|RCT]] 金标准；提供分级干预证据库 | 持续活跃（Fully active） | 依托联邦法律授权（如 [[Every Student Succeeds Act\|ESSA]]）与法定义务拨款维持长效运作（p. 64） |
 > | 同上 | [[EPPI-Centre]], 英国伦敦大学学院 | 大学下设学术研究单位，接受政府与基金会资助 | 政策制定者、研究者、一线教育工作者 | 首创质性与量化混合[[Systematic Review\|系统综述]]方法学 | 持续活跃（Fully active） | 根植于高水平研究型大学，具备跨学科研究综合与外部课题竞标韧性（p. 64） |
 > | 同上 | [[Best Evidence Synthesis]] (BES), 新西兰 | 教育部内部嵌入式行政研发项目 | 教育部官员、[[School Leadership\|学校领导]]者、教师 | 强调情境化最佳证据综合；转向优秀实践视频展示 | 职能转型（无新综述资助） | 官方终止了新证据综合资助，职能收缩至既有证据的实践案例化推广（p. 64） |
 > | 同上 | [[Canadian Council on Learning\|Canadian Council on Learning (CCL)]], 加拿大 | 联邦政府设立并拨款的独立法人机构 | 联邦与省教育部、学校实践者 | 跨省[[Lifelong Learning\|终身学习]]与教育研究综合监控 | 已关停（Closed） | 联邦与省际政治博弈及联邦保守党政府终止资助，非因绩效评估不达标（p. 64） |

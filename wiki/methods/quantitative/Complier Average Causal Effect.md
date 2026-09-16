@@ -91,7 +91,7 @@ updated: 2026-09-11
 > [!formula-step] CACE 局部平均处理效应计算公式
 > 在满足**独立性假设**、**排除性约束**与**单调性假设**的前提下，CACE 的两阶段最小二乘（2SLS）/ 瓦尔德估计量表达为：
 >
-> $$\text{CACE} = \frac{\text{[[Intent-to-Treat Analysis|ITT]]}_Y}{\text{ITT}_D} = \frac{E[Y \mid Z=1] - E[Y \mid Z=0]}{E[D \mid Z=1] - E[D \mid Z=0]} = \frac{\text{分配状态对结果的意向效应}}{\text{分配状态对实际参与的顺从率}}$$
+> $$\text{CACE} = \frac{\text{ITT}_Y}{\text{ITT}_D} = \frac{E[Y \mid Z=1] - E[Y \mid Z=0]}{E[D \mid Z=1] - E[D \mid Z=0]} = \frac{\text{分配状态对结果的意向效应}}{\text{分配状态对实际参与的顺从率}}$$
 >
 > - **$\text{ITT}_Y$** 意向治疗效应（Intention-to-Treat Effect on Outcome）；
 > - **$\text{ITT}_D = P(\text{Complier})$** 顺从者在总样本中所占的比例（参与率差值）；
@@ -125,7 +125,7 @@ updated: 2026-09-11
 
 > [!case] [[Partnership Schools Kura Hourua|特许学校]]抽签入学与 CACE 估计（Angrist et al., 2002）
 > 某城市优质特许学校提供 200 个入学名额，400 名申请者参与随机摇号：
-> - **分配与顺从** 200 名中签者中，160 人实际报到入学（顺从），40 人因搬家放弃（Never-Takers）；200 名未中签者中，全部入读普通公立校（无 Defiers，顺从率 $\text{[[Intent-to-Treat Analysis|ITT]]}_D = 80\%$）。
+> - **分配与顺从** 200 名中签者中，160 人实际报到入学（顺从），40 人因搬家放弃（Never-Takers）；200 名未中签者中，全部入读普通公立校（无 Defiers，顺从率 $\text{ITT}_D = 80\%$）。
 > - **效应计算** 中签对全体申请者的 ITT 提分效应为 $+0.24\text{ SD}$；运用 CACE 计算特许学校对真正入读学生的净增益为 $\text{CACE} = +0.24 / 0.80 = \mathbf{+0.30\text{ SD}}$。
 
 ---
