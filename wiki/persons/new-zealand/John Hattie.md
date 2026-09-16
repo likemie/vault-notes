@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 108
+person_related_count: 109
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -30,12 +30,13 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Formative Assessment]]"
   - "[[Individualised Instruction]]"
+  - "[[Academic Achievement]]"
+  - "[[Learning Progression]]"
   - "[[Going Native]]"
   - "[[Neo-Taylorism]]"
   - "[[New Public Management]]"
   - "[[School Effectiveness]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[International Education]]"
+  - "[[Deficit Framing]]"
   - "[[Implementation Fidelity]]"
   - "[[Research Translation]]"
   - "[[Heterogeneity]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
   - "[[Effective Teaching]]"
@@ -99,6 +101,7 @@ related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Grace_2010_NZJES]]"
   - "[[Argument_Fredens_2015_Paideia]]"
@@ -130,11 +133,15 @@ related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
 related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
+  - "[[Australian Council for Educational Research]]"
   - "[[Cognition Education]]"
   - "[[New Zealand National Standards]]"
   - "[[Education Endowment Foundation]]"
+  - "[[No Child Left Behind Act 2001]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[OECD]]"
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -149,7 +156,7 @@ updated: 2026-09-16
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰教育统计学家，墨尔本大学教育研究所（Melbourne Graduate School of Education）荣休教授，曾任澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership]]，AITSL）主席。
 > - **核心角色** 《[[Visible Learning|可见的学习]]》（Visible Learning，VL）作者，教育领域[[Meta-meta-analysis|元综合]]（元-[[Meta-analysis|元分析]]）[[Paradigm|范式]]的奠基者与集大成者；全球[[Evidence-Based Education|证据本位教育]]与[[What Works Movement|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介网络。
-> - **代表贡献** [[Visible Learning|可见的学习]]综合框架与 $d=0.40$ 关节点模型；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment|形成性评价]]模型；教学与学习评估工具（Assessment Tools for Teaching and Learning，asTTle）；可见课堂（Visible Classroom）与三阶段学习模型。
+> - **代表贡献** [[Visible Learning|可见的学习]]综合框架与 $d=0.40$ 关节点模型；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment|形成性评价]]模型；[[Assessment Tools for Teaching and Learning|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；可见课堂（Visible Classroom）与三阶段学习模型。
 
 > [!citation-card]- 人物定位的关键来源
 > 我是测量人员，我是统计学家，我不是理论家。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]
@@ -165,8 +172,8 @@ updated: 2026-09-16
 > - **1987** 与 Fraser、Walberg 及 Welch 合作发表 100 页专著，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]，开启教育领域最早的系统性[[Comparative Meta-synthesis|比较性元综合]]探索。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 41–42)]]
 > - **1992** 发表《测量学校教育的效果》，首次独立综合 134 项元分析并引入通用连续体概念，发现反馈效应（1.13）最强而[[Individualised Instruction|个别化教学]]（0.14）最弱。
 > - **1998** 从美国西澳大利亚大学等机构返回新西兰，出任奥克兰大学教育学教授兼教育学院院长。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 47)]]
-> - **1999–2005** 受新西兰教育部委托领导开发国家课程测试系统 asTTle（光盘版至在线版），用于[[Formative Assessment|形成性评估]]，出任项目主任；2003 年新西兰教育部长将其理念确立为国家优先议程。
-> - **2005** 在墨尔本举行的澳大利亚教育研究委员会（ACER）年度大会上发表题为《促成学习改变的证据本质》（*What is the nature of evidence that makes a difference to learning?*）的主题演讲，首次系统公开基于 100 余项干预、30 万项研究元分析提取的平均效应量 $d=0.40$ 关节点与六分源学业成就方差模型，倡导打破惩罚性问责并依托 asTTle 构建以教师为核心的学业进阶共享语言。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–21)]]
+> - **1999–2005** 受新西兰教育部委托领导开发国家课程测试系统 [[Assessment Tools for Teaching and Learning|asTTle]]（光盘版至在线版），用于[[Formative Assessment|形成性评估]]，出任项目主任；2003 年新西兰教育部长将其理念确立为国家优先议程。
+> - **2005** 在墨尔本举行的[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）年度大会上发表题为《促成学习改变的证据本质》（*What is the nature of evidence that makes a difference to learning?*）的主题演讲，首次系统公开基于 100 余项干预、30 万项研究元分析提取的平均[[Effect Size|效应量]] $d=0.40$ 关节点与六分源[[Academic Achievement|学业成就]]方差模型，倡导打破惩罚性问责并依托 asTTle 构建以教师为核心的[[Learning Progression|学业进阶]]共享语言。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–21)]]
 > - **2006** 注册《[[Visible Learning|可见的学习]]》商标并创立实验室；加入 [[Cognition Education]] 董事会，开启教师专业发展与课程商业化运营。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 48)]]
 > - **2009** 出版里程碑专著《可见的学习：综合 800 余项与成就相关的元分析》；同年新西兰媒体报道掀起轩然大波，学界爆发长达三回合的 Snook-Hattie 论战；受邀出任[[New Zealand National Standards|新西兰国家标准]]政策技术顾问，获总理公开致谢。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–92)]]
 > - **2010–2014** 推进跨国商业化扩张，累计从 Cognition Education 获得第三方付款约 87 万美元；[[Gerald Grace]] 发文介入论战。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 49)]]; [[Argument_Grace_2010_NZJES|(Grace, 2010, p. 90)]]
@@ -184,10 +191,10 @@ updated: 2026-09-16
 >   - **代表著作** Fraser, Walberg, Welch, & Hattie (1987) *Syntheses of educational productivity research*；Hattie (1992) *Measuring the effects of schooling*；Hattie, Biggs, & Purdie (1996) *Effects of learning skills interventions on student learning*。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 41–42)]]
 >   - **关键概念／方法** [[Walberg's Educational Productivity Model]]、[[Meta-analysis]]、[[Effect Size]]、[[Meta-meta-analysis]]、通用连续体（Universal Continuum）。
 >   - **阶段转向** 从传统单项心理测量转向跨领域海量数据整合，引入以标准差为单位的通用连续体（平均效应量 $d=0.40$），奠定了以实证汇总打破教学直觉的方法论基石。
-> - **1998–2009 — 《[[Visible Learning|可见的学习]]》框架确立与证据排序阶段** 此阶段主要回应[[New Public Management|新公共管理]]改革下[[School Effectiveness|学校效能]]、教师问责与循证改革的证据基础问题。
+> - **1998–2009 — 《[[Visible Learning|可见的学习]]》框架确立与证据排序阶段** 此阶段主要回应[[New Public Management|新公共管理]]改革下[[School Effectiveness|学校效能]]、惩罚性测试问责与循证改革的证据基础问题。
 >   - **代表著作** [[Argument_Hattie_2005_ACER|Hattie (2005)]] *What is the nature of evidence that makes a difference to learning?*；Hattie (2009) *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 426)]]
->   - **关键概念／方法** [[Visible Learning]]、关节点（Hinge Point $d=0.40$）、影响气压计、激活者（$d=0.60$）vs 促进者（$d=0.17$）、“Know thy impact”。
->   - **阶段转向** 将元综合结果提炼为具有普适指导意义的干预效果排行榜，主张“[[Constructivist Paradigm|建构主义]]是一种知识形式而非教学形式”，确立教师作为主动激活者的核心论调，引发[[International Education|国际教育]]界的广泛震动与方法论大论战。
+>   - **关键概念／方法** [[Visible Learning]]、关节点（Hinge Point $d=0.40$）、六分源学业变异分解模型（学生 50%、教师 30%、学校/家庭/同伴各 5–10%）、[[Assessment Tools for Teaching and Learning|asTTle]] 形成性诊断循环、[[Learning Progression|学业进阶]]共享语言、[[Deficit Framing|赤字理论]]批判、激活者（$d=0.60$）vs 促进者（$d=0.17$）。
+>   - **阶段转向** 在 2005 年 [[Australian Council for Educational Research|ACER]] 会议论文中首次系统提炼《可见的学习》核心统计骨架（$d=0.40$ 相对有效性门槛与教师因果核心地位），批判 [[No Child Left Behind Act 2001|NCLB]] 自上而下的惩罚性问责，主张依托 asTTle 系统将评价结果重塑为教师反思自身教学效能的镜像；随后在 2009 年专著中将元综合结果扩展为具有全球影响力的干预效果排行榜，确立教师作为主动激活者的核心论调。
 > - **2014–2016 — 认知科学整合、品牌扩张与实施工程阶段** 此阶段主要回应首版著作理论根基薄弱、脱离课堂微观情境以及学校现场落实困难的批评。
 >   - **代表著作** Hattie & Yates (2014) *Visible learning and the science of how we learn*；Hattie, Masters, & Birch (2016) *Visible learning into action*；Fisher, Frey, & Hattie (2016) *Visible learning for literacy*。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]
 >   - **关键概念／方法** 脑科学认知原则、方案忠实执行（[[Implementation Fidelity|fidelity of implementation]]）、高影响教学策略（High Impact Teaching Strategies，[[Victorian HITS and Literacy Toolkit|HITS]]）、全校改进工程。
@@ -226,10 +233,11 @@ updated: 2026-09-16
 > [!influence-path] 影响路径
 > - **理论路径** 撼动了 1970–1990 年代以学生为中心的[[Radical Constructivism|激进建构主义]]教学浪漫主义，重新确立了[[Direct Instruction|直接教学]]、显性教学与掌握学习在教学论中的正当性；推动将师生认知互动、[[Metacognition|元认知监控]]与反馈循环整合为统一的课堂[[Effective Teaching|有效教学]]模型；晚期提出的三阶段学习模型推动了[[Surface and Deep Learning|表层学习]]到深层概念迁移的[[Epistemology|认识论]]建构。
 > - **方法路径** 开创并普及了教育领域的大规模[[Meta-meta-analysis|元综合]]方法论，将跨越数十年、涉及数千万样本的[[Heterogeneity|异质性]]研究统一置于以标准差为基准的通用连续体（$d$ 指标）上；首创[[Effect Size|效应量]]“关节点”（$d=0.40$）与影响气压计可视化工具，成为全球循证政策与智库证据工具箱（如英国 [[Education Endowment Foundation|EEF]] Toolkit）的标准参考框架。
-> - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards|新西兰国家标准]]和教师评估工具（asTTle）的基石；直接主导澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE|(Bainbridge et al., 2022, p. 4)]]
+> - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards|新西兰国家标准]]和教师评估工具（[[Assessment Tools for Teaching and Learning|asTTle]]）的基石；直接主导澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE|(Bainbridge et al., 2022, p. 4)]]
 > - **跨国／跨领域传播** 从学术专著演变为覆盖至少 23 个国家的跨国商业与[[Policy Brokerage|政策中介]]复合体；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被[[Transfer Translation Transformation|转译]]为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment|专业判断]]与[[Knowledge Mobilisation|知识动员]]。[[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–69)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Hattie_2005_ACER|Hattie, 2005]] — 在 [[Australian Council for Educational Research|ACER]] 大会发表奠基性论文，首次系统提出 $d=0.40$ 关节点、30% 教师方差份额模型与 asTTle 形成性问责理论体系。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]] — [[In-depth Interview|深度访谈]]剖析 Hattie 对实证、翻译、理论与“结果的暴政”的反思与自白。
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]] — 系统记录《[[Visible Learning]]》在新西兰、澳大利亚的制度化采纳与欧洲转译。
 > - [[Argument_Nordahl_2015_Paideia|Nordahl, 2015]] — 阐释斯堪的纳维亚学校如何将 Hattie 转译为组织改进与专业判断的内部支点。
@@ -263,7 +271,7 @@ updated: 2026-09-16
 > - **师承／合作者** Herbert Walberg — 早期共同开展 226 项[[Meta-meta-analysis|元综合]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]；[[John Biggs]] — 合作开展学习技能干预[[Meta-analysis|元分析]]；Helen Timperley — 共同发表里程碑式反馈元分析；Gregory Yates — 合作撰写学习科学著作。
 > - **学生／继承者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard — 斯堪的纳维亚引介者与北欧[[Going Native|本土化]][[Transfer Translation Transformation|转译]]者；Deb Masters — [[Visible Learning]] 培训实施与案例库联合编著者。
 > - **批评者／论敌** Ivan Snook & John Clark — 新西兰学术论战主要发起者，系统指控元分析方法缺陷；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；Ewald Terhart — 早期系统学术书评，指出理论空洞与福柯式监控统治；[[Scott Eacott]] — 批判澳大利亚[[School Leadership|学校领导力]]陷入“[[Cult of the Guru|大师崇拜]]”与[[Neo-Taylorism|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality|技术理性]]合法化危机。
-> - **机构／运动／项目** Visible Learning — 核心研究成果与全球商业培训品牌；[[Cognition Education]] — 长期董事兼培训商业化运营商；[[Australian Institute for Teaching and School Leadership|AITSL]] — 担任董事会主席并推动将可见学习嵌入国家专业标准；新西兰教育部 — 委托开发 asTTle 评估系统与国家标准技术顾问；[[Education Endowment Foundation|EEF]] — 资助 Visible Classroom 试点并将其实证纳入证据工具箱。
+> - **机构／运动／项目** Visible Learning — 核心研究成果与全球商业培训品牌；[[Cognition Education]] — 长期董事兼培训商业化运营商；[[Australian Institute for Teaching and School Leadership|AITSL]] — 担任董事会主席并推动将可见学习嵌入国家专业标准；新西兰教育部 — 委托开发 [[Assessment Tools for Teaching and Learning|asTTle]] 评估系统与国家标准技术顾问；[[Education Endowment Foundation|EEF]] — 资助 Visible Classroom 试点并将其实证纳入证据工具箱。
 
 ---
 
@@ -294,13 +302,13 @@ updated: 2026-09-16
 > > 批判其对教师专业主体的贬低、商业化利益冲突以及在国家硬性规制中的制度穿透力不足。
 > >
 > > - **Eacott 以及 McKnight 与 Whitburn** 定性其为新泰勒主义监控与“[[Cult of the Guru|大师崇拜]]”，将教学拆解为最小可测量单元，以进步主义修辞包装[[Positivism|实证主义]]与新自由主义监控。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]
-> > - **O'Neill 等人以及 Johnson 与 Janzen** 揭示政策制定者脱离语境滥用证据，追踪其从 asTTle 到商业咨询的利益网络与政策创业。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023)]]
+> > - **O'Neill 等人以及 Johnson 与 Janzen** 揭示政策制定者脱离语境滥用证据，追踪其从 [[Assessment Tools for Teaching and Learning|asTTle]] 到商业咨询的利益网络与政策创业。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023)]]
 > > - **Steiner-Khamsi 等人** 实证表明在北欧政策咨询网络中，专家报告虽海量引用 Hattie，但在法定行政法令阶段被清洗过滤超 95%，个体明星威权远逊于[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >
 > > [!axis] 教育哲学审视：[[Technical Rationality|技术理性]]、盲视框架与 [[Bildung]] 替代
 > > 质询技术理性在教育系统中的合法化功能以及对非可见学习维度的系统性[[Screening Off|屏蔽]]。
 > >
-> > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas|哈贝马斯]]合法化危机理论出发，指出 [[Visible Learning|VL]] 的流行在于其技术理性内核满足了教育系统的合法化需求而非科学质量；批评评价理论篡位教育、[[Radical Constructivism|激进建构主义]]消解教学。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT|(Rømer, 2018)]]
+> > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas|哈贝马斯]]合法化危机理论出发，指出 VL 的流行在于其技术理性内核满足了教育系统的合法化需求而非科学质量；批评评价理论篡位教育、[[Radical Constructivism|激进建构主义]]消解教学。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT|(Rømer, 2018)]]
 > > - **Larsen 与 Zhao** 提出“盲视”批判框架，强调学习对主体并非即时可见，呼吁以 [[Bildung]] 替代；警示[[Direct Instruction|直接教学]]（Direct Instruction，DI）效应量证据背后对[[Creativity|创造力]]与探索精神的副作用。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
 
 > [!critique]- 批评索引
@@ -321,7 +329,7 @@ updated: 2026-09-16
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]] — 跨国政策中介分析：法定行政法令起草阶段对个体学术明星引文的断崖式过滤。
 
 > [!warning] 未解问题与边界
-> - **Hattie 对批评的回应与自辩** Hattie 始终坚持技术批评未削弱支撑《可见的学习》信息的核心故事；强调研究由持续元分析支撑以识别潜在[[Falsification|可证伪性]]；制定学者参与公共事务的三条自我约束原则。[[Argument_Hattie_2010_NZJES|(Hattie, 2010)]]; [[Argument_Hattie_2017_SLM|(Hattie, 2017)]]
+> - **Hattie 对批评的回应与自辩** Hattie 始终坚持技术批评未削弱支撑《[[Visible Learning|可见的学习]]》信息的核心故事；强调研究由持续元分析支撑以识别潜在[[Falsification|可证伪性]]；制定学者参与公共事务的三条自我约束原则。[[Argument_Hattie_2010_NZJES|(Hattie, 2010)]]; [[Argument_Hattie_2017_SLM|(Hattie, 2017)]]
 > - **对排名的放弃与立场转向** Hattie & Donoghue（2016）承认策略内部变异过大而放弃单一排名，开发三阶段学习模型；公开表示若能重来会极力避免“结果的暴政”；2020 年演讲进一步肯定失败与探究式学习的价值，呈现出晚期理论反思与早期直接教学排名的割裂。[[Argument_Blass_2020_JESP|(Blass, 2020, pp. 95–96)]]
 > - **[[Professional Judgment|专业判断]]与系统论张力** 支持者（如 Qvortrup）主张教学与学习之间是[[Structural Coupling|结构耦合]]而非简单因果决定，《可见的学习》提供的是智能解决问题的[[Hypothesis|假设]]而非死板食谱，教育专业判断（Professional Judgment）仍是连接实证数据与课堂情境的不可替代中介。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–7)]]
 

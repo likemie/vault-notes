@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Hattie_2005_ACER",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
+    },
+    {
       "basename": "John Hattie",
       "path": "wiki/persons/new-zealand/John Hattie.md"
     },
     {
-      "basename": "Argument_Hattie_2005_ACER",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
+      "basename": "No Child Left Behind Act 2001",
+      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
+    },
+    {
+      "basename": "Te Kotahitanga",
+      "path": "wiki/facts/new-zealand/Te Kotahitanga.md"
+    },
+    {
+      "basename": "Success Criteria",
+      "path": "wiki/concepts/curriculum-instruction/Success Criteria.md"
     },
     {
       "basename": "Class Size",
@@ -187,18 +199,6 @@
     {
       "basename": "template-theory",
       "path": "wiki/templates/template-theory.md"
-    },
-    {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
-    },
-    {
-      "basename": "template-method",
-      "path": "wiki/templates/template-method.md"
-    },
-    {
-      "basename": "template-instrument",
-      "path": "wiki/templates/template-instrument.md"
     }
   ],
   "omittedPaths": [],
