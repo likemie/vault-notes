@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
     },
     {
+      "basename": "Research Translation",
+      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
+    },
+    {
+      "basename": "Ofsted",
+      "path": "wiki/facts/uk/Ofsted.md"
+    },
+    {
       "basename": "Nancy Cartwright",
       "path": "wiki/persons/uk/Nancy Cartwright.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Literacy Octopus",
       "path": "wiki/facts/uk/Literacy Octopus.md"
-    },
-    {
-      "basename": "Months of Progress",
-      "path": "wiki/concepts/educational-policy-reform/Months of Progress.md"
-    },
-    {
-      "basename": "Teaching Schools",
-      "path": "wiki/facts/uk/Teaching Schools.md"
     }
   ],
   "omittedPaths": [],

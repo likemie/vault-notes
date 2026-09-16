@@ -9,7 +9,7 @@ aliases:
   - 技术转化
   - 知识转译
   - knowledge translation
-summary: "连接科学研究发现与实际应用的跨界转化过程，在高教产学中体现为技术成果商业化漏斗，在教育治理中体现为学术证据向教学与政策实践的双向情境转译"
+summary: "连接科学研究发现与实际应用的跨界转化过程，在高教产学中体现为技术成果商业化漏斗，在教育治理中体现为学术证据向教学与政策实践的双向情境转译；反对形式主义的剪贴式照搬，强调基于行动理论的情境再脉络化与微观协同探究"
 type: concept
 domain: "university-industry-collaboration"
 related_count: 37
@@ -48,13 +48,17 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Critical Pedagogy]]"
   - "[[Evidence Ecosystem]]"
+  - "[[Activity Traps]]"
+  - "[[School Enquiry Cycle]]"
 related_theories:
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Lesson Study]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Nancy Cartwright]]"
 related_facts:
   - "[[OECD]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -62,15 +66,17 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Research Learning Communities]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Torres_2022_KMModels]]"
+  - "[[Argument_Brown_Greany_2018_LPS]]"
 confidence: high
 status: completed
 created: 2026-06-03
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # Research Translation
@@ -84,12 +90,17 @@ updated: 2026-09-15
 >
 > 该[[Construct|构念]]在当代跨学科[[Knowledge Mobilisation|知识动员]]研究中包含两个互补的应用[[Champ|场域]]：
 > 1. **高等教育与[[University-Industry Collaboration|产学合作]]场域** 特指从大学实验室的科学发现到企业可交付的商业化产品与服务的系统转化管道，核心在于克服工程技术风险、市场匹配风险与商业化销售风险（[[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp. 231–232]]）。
-> 2. **公共教育与循证治理场域** 特指将教育学实证证据、学术综述与实验结论“[[Transfer Translation Transformation|转译]]”为学校一线教学策略、校本教研工具以及宏观政策方案的互动过程，旨在弥合象牙塔理论供给与微观教学实践之间的认知与制度鸿沟（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022, pp. 76–78]]；[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 18–20]]）。
+> 2. **公共教育与循证治理场域** 特指将教育学实证证据、学术综述与实验结论“[[Transfer Translation Transformation|转译]]”为学校一线教学策略、校本教研工具以及宏观政策方案的互动过程，旨在弥合象牙塔理论供给与微观教学实践之间的认知与制度鸿沟（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022, pp. 76–78]]；[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 18–20]]）。其本质绝非脱离本土情境的“剪贴式”照搬（Cutting and Pasting），而是基于底层因果机制与行动理论（Theories of Action）对外部证据展开的批判性审思与情境再脉络化（Recontextualisation）（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 123]]；Cartwright, 2013）。
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 聚焦原始学术发现向实践可操作知识形态的重构、情境调试、语言破壁与价值实现。
 > - **理论用途** 用于诊断知识从“生产”到“使用”全链条中的结构性梗阻（如产学合作中的监护权转移断层，或教育生态中的学术供给过剩与实践转化贫瘠）。
 > - **制度边界** 区别于纯粹的原生[[Knowledge Production|知识生产]]（Invention / Research Production），也区别于静态的行政政令传达或单纯的论文发表分发。
+
+> [!citation-card] 教育研究转化的认识论本质：情境再脉络化而非剪贴式照搬
+> 教师不能简单地对外部干预措施进行“剪贴式”机械照搬，因为那些方法往往是针对截然不同的情境与目的设计的。教师必须具备专业批判能力，识别使干预在原始情境中生效的底层行动理论（Theories of Action）以及所必需的支撑性与依赖性因素（Supporting/dependent factors），并评估这些要素如何能够有效转译到自己的本土学校情境之中（Cartwright, 2013，转引自 [[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 123]]）。
+>
+> *Rather than simply 'cutting and pasting' approaches, which will often have been designed for quite different contexts and purposes, teachers need to be able to gauge which theories of action and supporting/dependent factors were required to make the intervention work in its original setting and how these might translate to their own setting.*
 
 > [!citation-card] 发明创造与实践转化的本质区分
 > 大学和前沿研究团队天然专注于扩展人类知识边界的发明创造，而将发明真正融入实践与产品需要克服三类独立的严峻风险：工程技术团队能否实现（技术风险）、产品经理能否找到需求匹配（市场与情境风险）、交付体系能否成功推向全系统（商业化与制度化风险）（[[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp. 231–232]]）。
@@ -105,6 +116,7 @@ updated: 2026-09-15
 > - 不等于原生发明（Invention） — 发明专注于扩展知识前沿与创生新假说；研究转化则专注于将发明投入实际复杂情境。
 > - 不等于狭义[[Technology Transfer|技术转移]]（Technology Transfer） — 技术转移侧重法律合规层面的知识产权许可与专利转让；研究转化是涵盖人员流动、非正式知识扩散、语言二次加工与长效实践调试的广义过程。
 > - 不等于单纯信息分发（Dissemination） — 单纯分发仅为单向投递论文或政策简报；研究转化必须包含根据本土实践约束展开的情境化重塑与双向调试。
+> - 不等于机械式“剪贴照搬”（Cutting and Pasting） — 剪贴照搬盲目移植外部干预的表层操作步骤；真正的研究转化必须深入剖析背后的因果机制与前提支撑条件，进行批判性本土再脉络化（Cartwright, 2013；[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]）。
 
 ---
 
