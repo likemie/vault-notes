@@ -1,6 +1,7 @@
 ---
 citation: "Helgetun, J. B., & Menter, I. (2022). From an age of measurement to an evidence era? Policy-making in teacher education in England. *Journal of Education Policy*, 37(1), 88–105. https://doi.org/10.1080/02680939.2020.1748722"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Helgetun_2022_JEP]]"
 processed_date: 2026-09-16
 ---
 

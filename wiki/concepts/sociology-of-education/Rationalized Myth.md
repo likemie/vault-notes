@@ -8,18 +8,32 @@ aliases:
 summary: "组织社会学与新制度主义核心概念，指在特定制度环境中被广泛接受为理性、正当和有效的规则与信念，作为文化认知框架为组织实践赋予合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - sociology-of-education
   - institutional-theory
   - organizational-sociology
+related_concepts:
+  - "[[Technical Rationality]]"
+  - "[[Champ]]"
+  - "[[Performance Indicators]]"
+  - "[[New Public Management]]"
+  - "[[Policy-Based Evidence-Making]]"
+  - "[[Determinism]]"
+related_theories:
+  - "[[Institutional Isomorphism]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Randomised Controlled Trials]]"
+related_arguments:
+  - "[[Argument_Helgetun_2022_JEP]]"
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Rationalized Myth
@@ -29,11 +43,11 @@ updated: 2026-09-16
 ## 定义
 
 > [!def] 核心定义
-> 合理化神话（rationalized myth）是组织社会学与新制度主义的核心概念（Meyer & Rowan, 1977），指在特定历史与社会环境中被制度化并被广泛默认、视为理性且理所当然的规则、信念体系与认知框架。之所以称为“合理化”，是因为其以科学、技术理性或效率的名义被系统阐述；之所以称为“神话”，是因为其正当性依赖于广泛的社会认同与规范期待，而非源于技术层面上经过严密检验的实际因果效能。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–92)]]
+> 合理化神话（rationalized myth）是组织社会学与新制度主义的核心概念（Meyer & Rowan, 1977），指在特定历史与社会环境中被制度化并被广泛默认、视为理性且理所当然的规则、信念体系与认知框架。之所以称为合理化，是因为其以科学、[[Technical Rationality|技术理性]]或效率的名义被系统阐述；之所以称为神话，是因为其正当性依赖于广泛的社会认同与规范期待，而非源于技术层面上经过严密检验的实际因果效能。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–92)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向组织场域中被普遍假定为客观理性、能带来有效治理的制度规范与认知蓝图。
-> - **用途** 帮助研究者揭示组织与政策制定者为何热衷于采纳特定改革话语（如循证实践、绩效指标），以及这种采纳如何服务于符号层面的合法性建构。
+> - **含义** 指向组织[[Champ|场域]]中被普遍假定为客观理性、能带来有效治理的制度规范与认知蓝图。
+> - **用途** 帮助研究者揭示组织与政策制定者为何热衷于采纳特定改革话语（如循证实践、[[Performance Indicators|绩效指标]]），以及这种采纳如何服务于符号层面的合法性建构。
 > - **边界** 不等于对技术工具本身的客观科学评估，也不等同于单纯的政治欺骗或虚假陈述，而是行动者共同沉浸其中并视作理所当然的认知脚本。
 
 > [!citation-card] 制度合法性与神话扩散
@@ -50,7 +64,7 @@ updated: 2026-09-16
 ## 概念辨析
 
 > [!contrast-table] 合理化神话与相关范畴辨析
-> | 维度 | 合理化神话（Rationalized Myth） | 技术理性（Technical Rationality） | 政治意识形态（Political Ideology） |
+> | 维度 | 合理化神话（Rationalized Myth） | [[Technical Rationality\|技术理性]]（Technical Rationality） | 政治意识形态（Political Ideology） |
 > |---|---|---|---|
 > | **合法性来源** | 制度环境中的广泛共识与文化认知脚本 | 经实证验证的技术效率与因果确定性 | 价值立场、政治信念与权力诉求 |
 > | **组织功能** | 为组织实践赋予外部正当性与仪式化庇护 | 优化内部工作流程与提升实际产出 | 动员政治支持与确立价值优先次序 |
@@ -73,8 +87,8 @@ updated: 2026-09-16
 ## 机制与动态
 
 > [!proc] 合理化神话的生成与扩散路径
-> 1. **议题理性化编码** 社会行动者将复杂的实践问题转化为具有标准化解法的理性化规则（如将教学改进编码为循证干预）。
-> 2. **场域符号扩散** 通过政策文本、专业认证机构与国际组织等中介节点，将理性化规则确立为最佳实践蓝图。
+> 1. **议题理性化[[Coding in Qualitative Research|编码]]** 社会行动者将复杂的实践问题转化为具有标准化解法的理性化规则（如将教学改进编码为循证干预）。
+> 2. **[[Champ|场域]]符号扩散** 通过政策文本、专业认证机构与国际组织等中介节点，将理性化规则确立为最佳实践蓝图。
 > 3. **默认常识沉淀** 规则脱离最初的产生语境，演变为场域内不证自明、无需反思的前提假定。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 91–92)]]
 
 ---
@@ -83,12 +97,12 @@ updated: 2026-09-16
 
 合理化神话在新制度主义教育研究中被广泛用于解释教育改革话语的全球扩散与政策修辞演变。
 
-在英格兰教师教育政策的研究中，[[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022, pp. 90–93)]] 指出“证据（evidence）”已演进为一种新型的主导性合理化神话。在[[New Public Management|新公共管理]]（New Public Management, NPM）语境下，政府部门与政策制定者通过在白皮书与政策规程中密集嵌入学术引文、国际最佳实践（如芬兰或新加坡模式）以及随机对照试验等科学修辞，为政策确立毋庸置疑的正当性；然而在深层运作中，政策制定依然服从于[[Policy-Based Evidence-Making|基于政策的证据制造]]与适宜性逻辑。
+在英格兰教师教育政策的研究中，[[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022, pp. 90–93)]] 指出证据已演进为一种新型的主导性合理化神话。在[[New Public Management|新公共管理]]（New Public Management, NPM）语境下，政府部门与政策制定者通过在白皮书与政策规程中密集嵌入学术引文、国际经验（如芬兰或新加坡模式）以及[[Randomised Controlled Trials|随机对照试验]]等科学修辞，为政策确立毋庸置疑的正当性；然而在深层运作中，政策制定依然服从于[[Policy-Based Evidence-Making|基于政策的证据制造]]与适宜性逻辑。
 
 ---
 
 ## 争议与批评
 
 > [!tension] 合理化神话分析的学术争议
-> - **决定论倾向批评** 部分批判学者指出，过度强调制度神话的理所当然性容易低估行动者的微观能动性与反思抵抗能力。
+> - **[[Determinism|决定论]]倾向批评** 部分批判学者指出，过度强调制度神话的理所当然性容易低估行动者的微观能动性与反思抵抗能力。
 > - **实效与符号的模糊性** 在实证研究中，严格区分某项政策到底是纯粹的符号性神话还是切实的技术效率改进，往往存在方法学上的界定难度。
