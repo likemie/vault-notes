@@ -8,7 +8,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 63
+fact_related_count: 66
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Learning Intentions]]"
+  - "[[Success Criteria]]"
   - "[[Sage]]"
   - "[[Technical Rationality]]"
   - "[[Further Education]]"
@@ -92,10 +94,12 @@ related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_OConnor_2020_AJLL]]"
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-09-16
 ---
 ## 背景
 
@@ -109,9 +113,9 @@ updated: '2026-05-18'
 > [!note]- 经过
 > ### 品牌起源：从公共学术 IP 到商业产品
 >
-> #### asTTle / e-asTTle：数据与技术前身
+> #### [[Assessment Tools for Teaching and Learning|asTTle]] / e-asTTle：数据与技术前身
 >
-> 1999/2000 年，Hattie 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 [[Visible Learning|VL]] 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])。
+> 1999/2000 年，Hattie 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 VL 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])。
 >
 > e-asTTle 的报告功能包括学校和学生表现的图形仪表盘展示——与后来 VL 2008 年著作中采用的展示方式"非常相似"。
 >
@@ -143,7 +147,7 @@ updated: '2026-05-18'
 >
 > 2009 年 1 月 *Sunday STAR Times* 头版报道 VL 后引发激烈反应。[[Argument_Hattie_2010_NZJES|Hattie (2010, pp.86–87)]] 自述"很明显许多评论者并未读过这本书（有人甚至对此表示赞许"）——[[Class Size|班级规模]]必须缩减、[[Performance Pay|绩效工资]]是邪恶的、能力分班更容易等抗议声不断。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架（二分法、嘲弄、神话、意义虚无）分析批评模式。
 >
-> Hattie 强调他在此前 15 年已通过研讨会和工作坊传播 VL 核心理念（反馈的力量、挑战、对学生的可见影响等），Clarke, Timperley & Hattie (2003) 的教师工作手册已包含学习意图、成功标准、反馈和及时评估等关键概念，"因此当《星期日星报》报道时，对新西兰教育界许多人来说不应是新闻"([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.87]])。这一媒体风暴标志着 VL 从学术出版向公众议题的转折，也奠定了其后续品牌化传播的争议基调。
+> Hattie 强调他在此前 15 年已通过研讨会和工作坊传播 VL 核心理念（反馈的力量、挑战、对学生的可见影响等），Clarke, Timperley & Hattie (2003) 的教师工作手册已包含[[Learning Intentions|学习意图]]、[[Success Criteria|成功标准]]、反馈和及时评估等关键概念，"因此当《星期日星报》报道时，对新西兰教育界许多人来说不应是新闻"([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.87]])。这一媒体风暴标志着 VL 从学术出版向公众议题的转折，也奠定了其后续品牌化传播的争议基调。
 >
 > ### 商业化运营体系
 >
@@ -305,7 +309,7 @@ updated: '2026-05-18'
 > [!success] 影响与后果
 > ### 品牌对批评的免疫
 >
-> [[Visible Learning|VL]] 品牌对学术批评表现出显著的免疫力。尽管存在 Higgins & Simpson (2011)、Snook et al. (2009, 2010)、[[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]] 等实质性方法论批评，Hattie 的工作仍"被政治家和协会引用时仿佛是不容置疑的事实"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。
+> VL 品牌对学术批评表现出显著的免疫力。尽管存在 Higgins & Simpson (2011)、Snook et al. (2009, 2010)、[[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]] 等实质性方法论批评，Hattie 的工作仍"被政治家和协会引用时仿佛是不容置疑的事实"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。
 >
 > **出版过程的双重标准**[[Argument_Hattie_2017_SLM|Hattie (2017)]]对 Eacott 的回应被 *[[School Leadership]] & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 大师地位 被编辑合法化的主张的证据"。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对[[Dialogue in Education|对话]]和辩论的低优先级"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。
 >
@@ -334,7 +338,7 @@ updated: '2026-05-18'
 > [[Argument_Terhart_2011_JCS|Terhart (2011, p.434-435)]]记录了 VL 在新西兰引发的争议，比后来 McKnight & Whitburn（2020）的澳大利亚语境更早：
 > - Hattie 是新西兰政府的重要顾问，但其对标准化学校改革策略的批评态度日益增强（p.426）
 > - 作为科学家和政治顾问，"他在新西兰相当有争议"（p.426）
-> - 被批评与新西兰政府的密切联系、在 asTTle 评估和培训项目中的经济利益、提倡 绩效薪酬、忽视社会背景和不平等（p.434-435）
+> - 被批评与新西兰政府的密切联系、在 [[Assessment Tools for Teaching and Learning|asTTle]] 评估和培训项目中的经济利益、提倡 绩效薪酬、忽视社会背景和不平等（p.434-435）
 > - Snook, Clark, Harker, O'Neill & O'Neill（2010）发表 *Invisible Learnings?* 评论，对新西兰教育政策中的 VL 提出系统批评（p.435）
 > - Smythe（2010）发表"Visible Shipwreck"批评（p.435）
 >
@@ -366,7 +370,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]质疑全球有多少公共资金被转移到 [[Visible Learning|VL]] 产品中，但认为"简单、廉价、课堂级别的修复方案"正是其商业模式的核心吸引力（pp.31, 36）
+> - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]质疑全球有多少公共资金被转移到 VL 产品中，但认为"简单、廉价、课堂级别的修复方案"正是其商业模式的核心吸引力（pp.31, 36）
 > - 品牌对学术批评的免疫力——Hattie 的回应被期刊两天内接收发表，批评者原论文经历数月多轮评审([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])
 > - Eacott 被编辑拒绝发表对 Hattie 回应的再回应，揭示了学术出版中[[Dialogue in Education|对话]]和辩论的低优先级([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 > - [[Cognition Education|Cognition Education Trust]] 的慈善捐赠仅占集团总收入的 0.9%（2015 年），引发对其慈善信托地位的质疑([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.71–73]])
@@ -376,7 +380,7 @@ updated: '2026-05-18'
 ## 时间线
 
 > [!note]- 时间线
-> - **1999/2000** — Hattie 受教育部委托开发 asTTle（[[Visible Learning|VL]] 的数据与技术前身）
+> - **1999/2000** — Hattie 受教育部委托开发 [[Assessment Tools for Teaching and Learning|asTTle]]（VL 的数据与技术前身）
 > - **2006** — Hattie 成为 [[Cognition Education|Multi Serve Education Trust]] Board 董事；Auckland Uniservices Ltd 注册 [[Visible Learning]] 商标（2008 年"放弃"），同时创建 Visible Learning Labs
 > - **2007** — Multi Serve Education Trust 注册全资子机构 Multi Serve Limited
 > - **2008** — 集团更名为 Cognition Education；Hattie 成为 Cognition Education 董事

@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 119
+related_count: 121
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Learning Intentions]]"
   - "[[Growth]]"
   - "[[Cult of Efficiency]]"
   - "[[Definition of Terms]]"
@@ -142,7 +143,8 @@ related_arguments:
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Blass_2020_JESP]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
-related_instruments: []
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 confidence: medium
 status: draft
 created: 2026-05-21
@@ -201,7 +203,7 @@ updated: 2026-09-16
 ### 数据入口层：研究质量筛选与选择性纳入
 
 > [!layer] 数据入口层
-> 方法论问题的源头在数据入口：[[Visible Learning|VL]] 纳入了什么研究，又如何纳入？两类缺陷在后续每个聚合层级都会放大，最终使排名失去可比性。
+> 方法论问题的源头在数据入口：VL 纳入了什么研究，又如何纳入？两类缺陷在后续每个聚合层级都会放大，最终使排名失去可比性。
 >
 > > [!col-l] 质量未筛选
 > > 低质量研究与高质量研究等权进入[[Meta-analysis|元分析]]。Hattie 声称"不是一本关于研究批评的书"，却在少数案例中选择性排除低质量研究，标准不一致。核心隐患：**垃圾进，垃圾出**。
@@ -213,7 +215,7 @@ updated: 2026-09-16
 ---
 ### [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 最早的系统性批判
 
-Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] 出版同年以 Massey University 教育哲学与研究方法论团队的立场，提出五大批评（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 93–105]]）：
+Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 VL 出版同年以 Massey University 教育哲学与研究方法论团队的立场，提出五大批评（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 93–105]]）：
 
 > [!critique] 五大核心批评
 > - **研究质量未被评估** Hattie 声称"不是一本关于研究批评的书"，但任何未排除低质量研究的[[Meta-analysis|元分析]]都是误导性的——"垃圾进垃圾出"（Eysenk）（p. 94–95）。Hattie 在处理 charter schools 和 learning styles 时选择性排除低质量研究，暴露了其标准的不一致（p. 95）。
@@ -786,14 +788,14 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 ### 教育乐观主义与浪漫化的教师理想
 
 > [!tension] 风格矛盾与结构性乐观主义（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 434–435]]）
-> [[Argument_Terhart_2011_JCS|Terhart]] 注意到 [[Visible Learning|VL]] 中奇特的双重风格：一方面是"相当枯燥、几乎是机械地写成的关于 138 个影响因素的段落"；另一方面是"更文学化、甚至强调性乐观地构建的关于好的教学"的段落。这种"压倒性的、旺盛的乐观主义"被诊断为现代版浪漫化"天生教师"理想——建立在"科学证据和高涨的教育精神"之上，却与数据中"常常相当怀疑和悲观的意涵"形成矛盾（p. 435）。
+> [[Argument_Terhart_2011_JCS|Terhart]] 注意到 VL 中奇特的双重风格：一方面是"相当枯燥、几乎是机械地写成的关于 138 个影响因素的段落"；另一方面是"更文学化、甚至强调性乐观地构建的关于好的教学"的段落。这种"压倒性的、旺盛的乐观主义"被诊断为现代版浪漫化"天生教师"理想——建立在"科学证据和高涨的教育精神"之上，却与数据中"常常相当怀疑和悲观的意涵"形成矛盾（p. 435）。
 
 
 ---
 
 ## 教育哲学批判
 
-[[Argument_Rømer_2018_EPT|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci|Larsen (2019)]] 和 Nielsen & Klitmøller (2021) 三位丹麦学者从不同角度提供了 [[Visible Learning|VL]] 的教育哲学批判，三者构成递进关系：VL 的基本理论是什么？→ VL 能看到什么、不能看到什么？→ 为什么有严重缺陷的 VL 仍然主导政策？
+[[Argument_Rømer_2018_EPT|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci|Larsen (2019)]] 和 Nielsen & Klitmøller (2021) 三位丹麦学者从不同角度提供了 VL 的教育哲学批判，三者构成递进关系：VL 的基本理论是什么？→ VL 能看到什么、不能看到什么？→ 为什么有严重缺陷的 VL 仍然主导政策？
 
 > [!logic-map] 批评结构：三位学者的递进追问
 > ```mermaid
@@ -993,7 +995,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 > | 合法化问题 | VL 的回应 |
 > |-----------|----------|
 > | **"为什么需要学校？"** | 学校是"the most effective institutions for transmitting knowledge from teachers to students"——如果教师遵循 Hattie 的指导原则 |
-> | **"怎么知道学校在有效运作？"** | 一套可量化、可展示的效果指标：效应量排名、影响气压计、可见的学习成果 |
+> | **"怎么知道学校在有效运作？"** | 一套可量化、可展示的效果指标：效应量排名、影响气压计、[[Visible Learning\|可见的学习]]成果 |
 > | **"谁能保证教学方法的有效性？"** | 教学权威建立在"800+ 元分析、50,000+ 研究"的科学外观之上 |
 
 **(2) VL 将教育实践转化为可管理和可控制的技术操作单元：**
@@ -1101,7 +1103,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 
 > [!critique-essay] [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 文化政治七点批评
 >
-> 1. **[[Visible Learning|VL]] 承载政治包袱** — *"可见的学习"*在新自由主义语境中并非中性选择：视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975），暗示教师与学生是全能的行动者，却否定了国家强制课程、测试制度、排名表等多重暴力（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 34]]）。它由此构建出多层监控文化——教师监控学生、家长监控教师、国家监控学者——使教师保持在*"[[Ontology|本体论]]上不安全"*的状态（Ball, 2003），令专业性蜕变为服从的表演（McKnight, 2016）。
+> 1. **VL 承载政治包袱** — *"[[Visible Learning|可见的学习]]"*在新自由主义语境中并非中性选择：视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975），暗示教师与学生是全能的行动者，却否定了国家强制课程、测试制度、排名表等多重暴力（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 34]]）。它由此构建出多层监控文化——教师监控学生、家长监控教师、国家监控学者——使教师保持在*"[[Ontology|本体论]]上不安全"*的状态（Ball, 2003），令专业性蜕变为服从的表演（McKnight, 2016）。
 >
 > 2. **VL 模拟色情片逻辑** — VL 由单一男性权威（Hattie）主导，痴迷于*"射精式的结果"*（ejaculatory outcomes）（Connell, 2013）。在以女性为主的职业中，教师被置于异性恋规范与能力主义的建构之下（Apple, 1986/2013）；看与被看历史上是男性领域（Berger, 1972），女性被定位为凝视的对象（Mulvey, 1975）。新自由主义的*"金钱镜头"*（money shots）是国家测试分数与排名表，而非不可量化的关怀行为（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 35]]）。作者将此改编为数据成瘾自查：*"你是否发现自己寻找越来越极端的数据？"*——将数据量与洞察力混淆，成瘾在加剧（p. 36）。
 >
@@ -1109,7 +1111,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 >
 > 4. **VL 忽视关怀伦理** — VL 将对社区和他人的关怀伦理推入女性化与贬值的地位——爱、同僚情谊、慷慨，这些难以测量和货币化的东西被边缘化（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 38]]）。Noddings（1986）关于*"关怀社区"*的追问在 VL 框架内无处容身；知识的中心从课堂和学校转移到大学和学者手中，最具渗透力的权力属于能做[[Randomised Controlled Trials|随机对照试验]]的人。*"忠实"*（fidelity）对 Noddings 意味着对学生的忠诚，VL 则将其重新定义为对外部概念的服从。
 >
-> 5. **VL 接近法西斯主义** — 没有任何迹象表明 VL 专业学习项目包含对 VL 自身的批评。它是极权主义*"有组织的遗忘"*（Kundera, 1981）的一部分，忽视 Foucault（1975/1995）的警告——*"可见性是一个陷阱"*，将[[Disciplina and Doctrina|规训]]渗透到最微小的细节中。Pinar（2011）警告：不加理解地应用课程，*"只有景观，即我们时代的法西斯主义"*。在 Gramsci 意义上，VL 是景观式霸权的：职前教师被要求进入教室后立即走向白板张贴学习意图，禁止任何其他方式开始上课（McKnight, 2016），教师在女性化职业中被煽动*"将自己生产为凝视的对象"*（Walkerdine & Ringrose, 2006, p. 37）。
+> 5. **VL 接近法西斯主义** — 没有任何迹象表明 VL 专业学习项目包含对 VL 自身的批评。它是极权主义*"有组织的遗忘"*（Kundera, 1981）的一部分，忽视 Foucault（1975/1995）的警告——*"可见性是一个陷阱"*，将[[Disciplina and Doctrina|规训]]渗透到最微小的细节中。Pinar（2011）警告：不加理解地应用课程，*"只有景观，即我们时代的法西斯主义"*。在 Gramsci 意义上，VL 是景观式霸权的：职前教师被要求进入教室后立即走向白板张贴[[Learning Intentions|学习意图]]，禁止任何其他方式开始上课（McKnight, 2016），教师在女性化职业中被煽动*"将自己生产为凝视的对象"*（Walkerdine & Ringrose, 2006, p. 37）。
 >
 > 6. **VL 过度简化** — 尽管堆砌了复杂的[[Effect Size|效应量]]与数字，VL 最终是一个过于简单的咒语——[[Hypothesis|假设]]教师能看到学生所看到的（既是能力主义的也是傲慢的），将[[Growth|成长]]仅定义为*"达到下一个水平"*（Hattie, in Waack, 2018）。*"Know thy impact"*带圣经式语气，是在[[Post-structuralism|后结构主义]]对知识的质疑之后对确定性的加固（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 40]]）；*"Impact"*（有力的接触）的词源以子弹和炮弹为例，眼睛将其不足隐藏在傲慢背后——而[[Positivism|实证主义]]科学不过是众多研究叙事之一（p. 41）。
 >
@@ -1120,7 +1122,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 
 ## "大师崇拜"与 Neo-Taylorism 批评（Eacott, 2017a, 2019）
 
-Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识论]]角度出发，提出了与前述方法论和文化政治批评维度互补的批评路径。关于 [[Visible Learning|VL]] 品牌的具体传播网络和制度嵌入，详见上方[[#历史沿革|历史沿革]]章节。
+Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识论]]角度出发，提出了与前述方法论和文化政治批评维度互补的批评路径。关于 VL 品牌的具体传播网络和制度嵌入，详见上方[[#历史沿革|历史沿革]]章节。
 
 > [!critique] [[Neo-Taylorism]] 论题
 > Hattie 的 VL 是*"新时代的泰勒主义"*（Taylorism for a new time）（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。其与 Taylor（1911）科学管理的结构同源性体现在三个平行：
@@ -1148,7 +1150,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 ## 政策与制度争议
 
-[[Visible Learning|VL]] 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 NZ Treasury 2011 年简报为案例揭示了[[Definition of Terms|术语定义]]断裂和证据警示被忽略的机制；[[Argument_Terhart_2011_JCS|Terhart (2011)]] 记录了 VL 在新西兰政策语境中的早期争议；[[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 和 [[Argument_Blass_2020_JESP|Blass (2020)]] 分别从维多利亚州和国家层面分析了 VL 在澳大利亚政策中的制度化与误用。详见 [[Visible Learning Branding and Global Influences]]。
+VL 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 NZ Treasury 2011 年简报为案例揭示了[[Definition of Terms|术语定义]]断裂和证据警示被忽略的机制；[[Argument_Terhart_2011_JCS|Terhart (2011)]] 记录了 VL 在新西兰政策语境中的早期争议；[[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 和 [[Argument_Blass_2020_JESP|Blass (2020)]] 分别从维多利亚州和国家层面分析了 VL 在澳大利亚政策中的制度化与误用。详见 [[Visible Learning Branding and Global Influences]]。
 
 ### [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 四角度系统批判：方法论、新泰勒主义、新自由主义、Cargo Cult Science
 
@@ -1163,7 +1165,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 > [!critique] 角度二：[[Neo-Taylorism|新泰勒主义]]——教师监视与去专业化
 > Johnson & Janzen 详细追溯了从 Taylor 科学管理到 VL 全景监控的历史链条（参见 [[Neo-Taylorism]]）：
-> - **asTTle 的全景设计**Hattie 等（2003）明确写道*"允许管理者监控全校六个科目的 asTTle 使用情况"*——VL 的气压计图形直接进口自此工具（p. 28）
+> - **[[Assessment Tools for Teaching and Learning|asTTle]] 的全景设计**Hattie 等（2003）明确写道*"允许管理者监控全校六个科目的 asTTle 使用情况"*——VL 的气压计图形直接进口自此工具（p. 28）
 > - **Hattie 对教师的贬低** 记录 Hattie 在 VL 中将教学定性为*"不成熟的职业"*、将教师的故事贬为*"战争故事和轶事"*的多处原文（pp. 28–29）
 > - **贬低修辞服务于私有化议程** 如果教学可被打造为不成熟、不专业、简单和技术性的，对教师及其工会的支持就会软化，私人利益便以*"廉价解决方案"*的承诺渗透（p. 29）
 > - **澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 的实施后果** 在基于 VL 的 HITS 实施地区，教师被强迫执行 简单化的表演性技术操作（如在课前将课题写在白板上），教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022; Wescott, 2022）（pp. 29–30）
@@ -1185,7 +1187,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 ## 非学校因素的排除：[[Argument_Grace_2010_NZJES|Grace (2010)]] 的批评
 
-[[Gerald Grace]]——*"「[[Critic and Conscience of Society]]」"*概念的原作者——在回应 Hattie (2010) 时指出，[[Visible Learning|VL]] 刻意将非学校因素排除在分析范围之外，这与其声称的 *"critic and conscience of society"* 角色存在根本矛盾（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 90]]）。
+[[Gerald Grace]]——*"「[[Critic and Conscience of Society]]」"*概念的原作者——在回应 Hattie (2010) 时指出，VL 刻意将非学校因素排除在分析范围之外，这与其声称的 *"critic and conscience of society"* 角色存在根本矛盾（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 90]]）。
 
 > [!citation-card]- Hattie, 2009, pp.viii–xi（引自 Grace, 2010, p. 90–91）
 > *“许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这‘不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道。’”*
@@ -1207,7 +1209,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 ## VL 支持者的辩护：[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 的三重论证
 
-[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 以 [[Visible Learning|VL]] 丹麦引介者的身份，针对上述批评提出了三重辩护论证（详见 [[Argument_Qvortrup_2019_NordSTEP]]）：
+[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 以 VL 丹麦引介者的身份，针对上述批评提出了三重辩护论证（详见 [[Argument_Qvortrup_2019_NordSTEP]]）：
 
 > [!tension] 论证一：批评者形成了意识形态驱动的解释社群
 > Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评[[Document|文献]]，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 Popper 的"科学游戏"之外（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 3–4]]）。
@@ -1226,7 +1228,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Visible Learning Branding and Global Influences]] — 承接 [[Visible Learning|VL]] 在品牌化、顾问市场、工具链和制度传播上的具体案例。
+> - [[Visible Learning Branding and Global Influences]] — 承接 VL 在品牌化、顾问市场、工具链和制度传播上的具体案例。
 > - [[Treasury Briefing on Student-Teacher Ratios]] — 展示 VL 式证据如何被财政和政策逻辑选择性使用。
 > - [[EEF Teaching and Learning Toolkit]] — 作为与 VL 共享"排名式证据地图"逻辑的平行案例，方便比较相似的批评为何反复出现。
 > - [[Danish Public School Reform]] — 展示 VL 进入国家改革后如何迅速引发支持与反弹。

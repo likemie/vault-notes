@@ -7,9 +7,9 @@ title: "Argument_Hattie_2005_ACER"
 argument_key: "Argument_Hattie_2005_ACER"
 argument_display_title: "What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21)"
 argument_kind: "conference-paper"
-argument_related_count: 41
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#e5e7eb"
 issuing_organization: "Australian Council for Educational Research"
 authors:
@@ -58,8 +58,11 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Learned Helplessness]]"
+  - "[[Learning Intentions]]"
+  - "[[Success Criteria]]"
   - "[[Avatar]]"
   - "[[Reliability]]"
+  - "[[Deficit Framing]]"
   - "[[Document]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Teaching Assistant]]"
@@ -79,6 +82,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Te Kotahitanga]]"
 related_arguments: []
 sources:
   - "[[sources/Hattie_2005_ACER/Hattie_2005_ACER|Hattie_2005_ACER]]"
@@ -329,11 +333,11 @@ sources:
 
 提高教学效能的关键在于消除师生之间关于学习目标的认知盲区，使评价从黑箱走向完全透明（p. 17）。
 
-> [!example] 毛利历史单元的学习意图、阶段标准与评估任务复刻（Clarke, Timperley, & Hattie, 2003）
+> [!example] 毛利历史单元的[[Learning Intentions|学习意图]]、阶段标准与评估任务复刻（Clarke, Timperley, & Hattie, 2003）
 > - **普遍存在的学生认知盲区** 观察表明绝大多数学生并不清楚课堂任务的学习目的，普遍将“写得长、字迹工整、拼写没有错误”误当作达成优秀的标志，完全混淆了活动任务与认知目标。
-> - **学习意图（Learning Intention）**
+> - **[[Learning Intentions|学习意图]]（Learning Intention）**
 >   “理解形塑特定人群生存历史的关键事件的原因与后果。”（具体情境为英国殖民者抵达后引发的毛利人群疾病蔓延）。
-> - **阶段性成功标准（Success Criteria）**
+> - **阶段性[[Success Criteria|成功标准]]（Success Criteria）**
 >   - **第 3 周阶段标准（Week 3 Criteria）** 学生能够清晰描述 1820 年至 1920 年间毛利人口数量的纵向变迁趋势。
 >   - **单元终期标准（End of Unit Criteria）** 学生能够解释 20 世纪初英国殖民对毛利人健康状况的具体冲击，阐明其如何左右毛利人口走向，并能推导预测外来殖民对其他原住民群体健康的影响。
 > - **具体评估达成方式（Assessment Task）**
@@ -355,7 +359,7 @@ sources:
 实证研究进一步表明，倾听学生声音并运用学生的课堂评价具有极高的专业[[Reliability|信度]]。
 
 > [!evidence-grid] 学生作为教学评价者的实证信度与文化赋能
-> - **Te Kotahitanga 毛利学生课堂体验研究** 拉塞尔·比肖普等人（Bishop et al., 2003）对 9–10 年级毛利学生的研究表明，课堂最大的障碍在于教师根深蒂固的“赤字理论（Deficit Theorising）”与对学生本土文化的否定；基于该发现对 4 所学校 11 名教师实施关系性互动培训后，毛利学生的学业、行为与出勤率全面提升。（pp. 17–18）
+> - **[[Te Kotahitanga]] 毛利学生课堂体验研究** 拉塞尔·比肖普等人（Bishop et al., 2003）对 9–10 年级毛利学生的研究表明，课堂最大的障碍在于教师根深蒂固的“[[Deficit Framing|赤字理论]]（Deficit Theorising）”与对学生本土文化的否定；基于该发现对 4 所学校 11 名教师实施关系性互动培训后，毛利学生的学业、行为与出勤率全面提升。（pp. 17–18）
 > - **NBPTS 高中数学教师评价信度研究** 埃尔登·欧文（Eldon Irving, 2005）依据美国国家专业教学标准委员会（National Board for Professional Teaching Standards, NBPTS）的高阶卓越教学标准编制学生评价量表，由高中生评价数学教师。实证表明高中生能够以极高的信度和效度，高度一致地区分出具有国家委员会认证（NBC）资质的优秀教师与非认证教师。（p. 18）
 
 #### 5. 克服专业发展形式主义：专业学习共同体的五大实证支柱

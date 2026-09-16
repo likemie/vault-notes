@@ -6,7 +6,7 @@ aliases:
 summary: "知识经济时代围绕毕业生可雇用性形成的比较排序逻辑，文凭只是入场门槛，个体还需通过经历管理和能力展示争取竞争优势"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Social Engagement]]"
   - "[[Self-Entrepreneur]]"
+  - "[[Success Criteria]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Academic Engagement]]"
   - "[[General Education]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-07-08
+updated: 2026-09-16
 ---
 
 # Employability
@@ -95,7 +96,7 @@ updated: 2026-07-08
 
 21 世纪技能与素养话语（[[Single-Case Design|SCD]]）为就业力概念提供了另一条分析线索：就业力技能不仅是情境性的（context-based），更是**话语性的（discourse-based）**——由教育、经济和政治多重理性所共同塑造([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.258]])。
 
-SCD 的运作机制是将就业力技能呈现为[[Self-Entrepreneur|自我企业家]]（[[Self-Entrepreneur]]）需持续获取的生产要素。Hampson & Junor（2009）将"素养"（competency）视为典型的盎格鲁概念——个人主义的、由雇主定义的、不受其他社会力量制约([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。在此逻辑中，获得一项素养意味着"做好某件事"，但成功标准不由个体自己设定，而是由外部期望、规范和价值观所决定，使个体长期处于竞争和自我实现模式之中。
+SCD 的运作机制是将就业力技能呈现为[[Self-Entrepreneur|自我企业家]]（[[Self-Entrepreneur]]）需持续获取的生产要素。Hampson & Junor（2009）将"素养"（competency）视为典型的盎格鲁概念——个人主义的、由雇主定义的、不受其他社会力量制约([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。在此逻辑中，获得一项素养意味着"做好某件事"，但[[Success Criteria|成功标准]]不由个体自己设定，而是由外部期望、规范和价值观所决定，使个体长期处于竞争和自我实现模式之中。
 
 SCD 中突出强调的技能主要是**结果导向的（outcome-oriented）**——获取它们旨在提高就业力([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.261]])。这种将就业力窄化为可市场化技能集合的倾向，详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]。
 

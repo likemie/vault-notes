@@ -8,7 +8,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -19,6 +19,8 @@ tags:
 - region/new-zealand
 - level/k12
 related_concepts:
+  - "[[Learning Intentions]]"
+  - "[[Success Criteria]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
   - "[[Professional Judgment]]"
@@ -35,14 +37,14 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: 2026-09-16
 ---
 ## 背景
 
 > [!info] 背景
 > 2008 年新西兰大选后，国家党领导的联合政府上台，将国家标准（National Standards）作为教育政策的核心议程。该政策旨在建立全国统一的学生学业进步标准，与此前 *[[Tomorrow's Schools Reforms|Tomorrow's Schools]]* (1989) 改革赋予各校的高度自主权形成张力([[Argument_Hattie_2010_NZJES|Hattie, 2010, pp.91–92]])。
 >
-> Hattie 此前在目标设定、增值评估、透明学习意图与成功标准等领域有长期研究积累，因此"看到基于标准的政策的许多优点"([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.92]])。
+> Hattie 此前在目标设定、增值评估、透明[[Learning Intentions|学习意图]]与[[Success Criteria|成功标准]]等领域有长期研究积累，因此"看到基于标准的政策的许多优点"([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.92]])。
 
 ## 政策文本摘要
 
@@ -86,7 +88,7 @@ updated: '2026-05-18'
 >
 > Hattie 的独特立场是他同时看到了政策的优点和实施的风险——这种非二元立场"似乎让一些批评者感到困惑"（p.93）。
 >
-> 随后，[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 Treasury 2011 年简报为案例，揭示了 Hattie 的 [[Visible Learning|VL]] 证据如何被政策制定者从语境中剥离以支持增加生师比的建议——而这一建议直接与 Hattie 本人的明确结论矛盾（详见 [[Treasury Briefing on Student-Teacher Ratios]]、[[Argument_ONeill_2012_NZJES]]）。
+> 随后，[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 Treasury 2011 年简报为案例，揭示了 Hattie 的 VL 证据如何被政策制定者从语境中剥离以支持增加生师比的建议——而这一建议直接与 Hattie 本人的明确结论矛盾（详见 [[Treasury Briefing on Student-Teacher Ratios]]、[[Argument_ONeill_2012_NZJES]]）。
 
 ## 相关概念／理论
 

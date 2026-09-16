@@ -14,6 +14,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Theory of Knowledge]]"
   - "[[Assemblage]]"
+  - "[[Success Criteria]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
@@ -43,7 +44,7 @@ title: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_key: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_display_title: "Subjects and Subjectivities of the (New) Geopolitics of Knowledge"
 argument_kind: "book"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -100,7 +101,7 @@ citation_aliases:
 **四个分析面向的提炼(pp.258-260)**
 
 1. **强制同质化** 七个框架在核心技能上的惊人一致意味着，个体从众多终生习得的技能中只有一部分被认定为"必要的"，这从一开始就限定了技能选择的方向。
-2. **个体化与竞争性** "competence"的词根与"compete"相同；成功标准看似个人化，实则由外部期望设定，使个体长期处于竞争和自我实现模式中。
+2. **个体化与竞争性** "competence"的词根与"compete"相同；[[Success Criteria|成功标准]]看似个人化，实则由外部期望设定，使个体长期处于竞争和自我实现模式中。
 3. **自我呈现为自然必然** 关键技能被呈现为不证自明的事实——未来主体被想象为不假思索地愿意获取任何必要技能的形象，技能的获取是"事件的必然进程"而非审慎选择。
 4. **地缘政治维度** SCD 不受限于特定机构，但占据并再生产新自由主义知识型社会的地缘政治空间，通过排名、影响因子等隐性标准保障霸权。
 

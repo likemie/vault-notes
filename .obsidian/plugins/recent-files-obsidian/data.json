@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "John Hattie",
+      "path": "wiki/persons/new-zealand/John Hattie.md"
+    },
+    {
       "basename": "Argument_Hattie_2005_ACER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "template-instrument",
       "path": "wiki/templates/template-instrument.md"
-    },
-    {
-      "basename": "template-fact-program",
-      "path": "wiki/templates/template-fact-program.md"
     }
   ],
   "omittedPaths": [],

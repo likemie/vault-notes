@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ tags:
   - theme/educational-finance
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Success Criteria]]"
   - "[[Reliability]]"
   - "[[International Qualification Recognition]]"
   - "[[International Schools]]"
@@ -95,7 +96,7 @@ updated: '2026-09-12'
 > [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）六年试验检验的不是一套试卷能否被命制，而是一个跨国资格系统能否形成闭环。课程与考试必须同时取得学校采用、家长信任、大学承认、行政能力和持续资金；其中任何一环失败，学生都无法把两年学习转换为跨境升学机会。1967–1976 年间，国际文凭办公室（International Baccalaureate Office，IBO）通过扩大而非严控学校网络、争取分散与集中两类大学体系承认、在国际原则与资源限制之间折中、把考试业务部分分散到英国，并组合考试费、学校订阅、基金会和政府资助，最终证明 IB 既有教育可行性，也有组织延续的可能（pp. 61–97）。
 
 > [!conclusion] 从试验到常设制度
-> 六年试验的成功标准在实施中发生了变化：起初有人希望把它作为小样本、严密监测的应用[[Action Research|行动研究]]（action research），学校代表则把它视为必须延续的资格服务。项目最终优先服务跨国流动学生，因为扩大学校、考生、大学和政府网络，才能同时显示课程的广泛适用性、建立社会信任并改善财务基础。1976 年海牙政府间会议标志着试验期结束：IBO 不再只是依靠少数教育家和基金会维系的改革项目，而成为学校付费、政府参与治理并承诺资助的国际组织（pp. 61–65, 83–97）。
+> 六年试验的[[Success Criteria|成功标准]]在实施中发生了变化：起初有人希望把它作为小样本、严密监测的应用[[Action Research|行动研究]]（action research），学校代表则把它视为必须延续的资格服务。项目最终优先服务跨国流动学生，因为扩大学校、考生、大学和政府网络，才能同时显示课程的广泛适用性、建立社会信任并改善财务基础。1976 年海牙政府间会议标志着试验期结束：IBO 不再只是依靠少数教育家和基金会维系的改革项目，而成为学校付费、政府参与治理并承诺资助的国际组织（pp. 61–65, 83–97）。
 
 ## 核心思想与制度线索
 
@@ -161,7 +162,7 @@ updated: '2026-09-12'
 > [!claim] 真正的争点不是“是否需要 IB”，而是“怎样才算试验成功”
 > 1967 年塞夫尔会议之后，参与者已大体接受共同课程和跨国考试的必要性：国际学校需要一种资格，使学生跨越国家边界后仍能进入不同地区的大学。尚未确定的是，这一设想能否在课程、考试、承认、行政和经费上真正运行。因此，早期分歧并非围绕 IB 是否值得建立，而是围绕六年试验应优先生产哪一种证据：是通过受控监测证明一种教育方案的效果，还是通过扩大实际使用证明一种国际资格能够持续服务流动学生（p. 61）。
 
-> [!tension] 两种试验观对应两套成功标准
+> [!tension] 两种试验观对应两套[[Success Criteria|成功标准]]
 > - **[[Evaluation Research|应用研究]]取向（蓝方）** 乔治·潘绍（Georges Panchaud）及部分理事会成员最初把六年计划理解为一项应用教育研究。为了提高观察的严密性，他们倾向于严格限制参与学校，把学生集中在少数可长期追踪的[[Champ|场域]]，并可能由若干选定大学继续监测。研究对象不仅是学生表现，还包括不同考试技术的[[Predictive Validity|预测效度]]和[[Reliability|可靠性]]，以及国际化、多文化课程对学生产生的影响。按这一逻辑，样本越集中、参与条件越可控，越容易把观察到的差异与课程或考试技术联系起来。
 > - **资格服务取向（红方）** 学校代表，尤其是大西洋学院，把 IB 视为一项必须尽快成为常设制度的资格工程。国际学校学生已经面对迫切且无法由单一国家考试解决的大学入学问题，因此六年不是“研究结束后再决定是否继续”的封闭实验，而是永久资格的导入期。课程或考试研究仍有价值，但只是制度建设过程中产生的附带收益；真正的成功标准，是学生能否凭该资格跨境升学、学校是否敢于采用、大学是否承认，以及组织能否持续提供考试服务（pp. 61–62）。
 

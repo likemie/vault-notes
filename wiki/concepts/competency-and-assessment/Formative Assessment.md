@@ -9,12 +9,10 @@ aliases:
 summary: "在教学过程中系统收集学生理解与表现证据、提供指向改进的对话式反馈并动态调整教与学行动的评价范式"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
-confidence: high
-status: active
 tags:
   - theme/assessment
   - subject/instruction
@@ -22,6 +20,8 @@ tags:
   - theme/higher-order-thinking
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Learning Intentions]]"
+  - "[[Success Criteria]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -43,13 +43,17 @@ related_methods:
   - "[[Experimental Research]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
+  - "[[Assessment Tools for Teaching and Learning]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Biggs_1999_HERD]]"
-created: '2026-05-25'
+confidence: high
+status: active
+created: 2026-05-25
 updated: 2026-09-16
 ---
 
@@ -60,14 +64,14 @@ updated: 2026-09-16
 ## 定义
 
 > [!def] 核心定义
-> 形成性评价（Formative Assessment，常被称为促学评价 Assessment for Learning）是指在教学进程中系统诱发、解释和利用关于学生学习状况的证据，向教师与学生提供指向下一步改进的反馈，并据此动态调整教与学活动的评价[[Paradigm|范式]]。其核心在于将评价功能从终结性认证（Certification）转向学习促进（Learning），通过澄清学习目标、开展诊断性活动、提供低利害（Low-Stakes）练习机会以及培育自我调节与同伴反思能力，为[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]等[[Higher-Order Thinking Skills|高阶思维技能]]的生成提供持续的[[Scaffolding|脚手架]]支持。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 32–34)]]; Black & Wiliam (1998, 2007); Crooks (2008)
+> 形成性评价（Formative Assessment，常被称为促学评价 Assessment for Learning）是指在教学进程中系统诱发、解释和利用关于学生学习状况的证据，向教师与学生提供指向下一步改进的反馈，并据此动态调整教与学活动的评价[[Paradigm|范式]]。其核心在于将评价功能从终结性认证（Certification）转向学习促进（Learning），通过澄清[[Learning Intentions|学习意图]]与[[Success Criteria|成功标准]]、开展诊断性活动、提供低利害（Low-Stakes）练习机会以及培育自我调节与同伴反思能力，为[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]等[[Higher-Order Thinking Skills|高阶思维技能]]的生成提供持续的[[Scaffolding|脚手架]]支持。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 32–34)]]; Black & Wiliam (1998, 2007); Crooks (2008); [[Argument_Hattie_2005_ACER|Hattie (2005, pp. 15–17)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 评价作为教学有机组成部分，服务于识别[[Learning Gap|学习差距]]（Learning Gap）并指导即时与后续认知修正。
 > - **用途** 帮[[Teaching Assistant|助教]]师超越单一的期末选拔与打分，构建支持学生深度探究与[[Reflexivity|反思性]]修正的[[Classroom Learning Culture|课堂学习文化]]。
 > - **边界** 形成性评价不是单纯增加平时测验次数；若频繁测试仅给出分数或等级而无实质性改进指导，仍属于碎片化的总结性考核。
 
-> [!citation-card]- 形成性评价对高阶思维的支撑机制
+> [!citation-card] 形成性评价对高阶思维的支撑机制
 > 教育研究表明，创造力与批判性思维等复杂能力的培养高度依赖低利害的试错环境与多轮形成性反馈。传统的终结性考试往往过早施加评分压力，导致学生追求唯一正确答案而规避智识风险；而形成性评价通过非评判性的描述性反馈与多轮草稿修订，使学生敢于探索新颖[[Hypothesis|假设]]并审慎修正论证。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 33–34)]]
 >
 > *Assessment should be used not only to certify skills acquisition but also, and most importantly, for learning... Formative assessment provides students with qualitative [[Feedback]] and low-stakes opportunities to practice, reflect and iterate on complex tasks.*
@@ -96,11 +100,22 @@ updated: 2026-09-16
 ## 核心要素
 
 > [!feature] 形成性评价的核心实施要素（Black & Wiliam, 2007; Nicol & Macfarlane-Dick, 2006; [[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]；[[Argument_Hattie_2005_ACER|Hattie, 2005]]）
-> - **明晰与分享成功标准（Clarifying Criteria）** 预先向学生阐明优秀表现的具体特征与评分量规（如 [[VALUE Rubrics]]），使学生明确努力方向。
+> - **明晰与分享[[Success Criteria|成功标准]]（Clarifying Criteria）** 预先向学生阐明[[Learning Intentions|学习意图]]与[[Success Criteria|成功标准]]（如 [[VALUE Rubrics]]），使学生明确努力方向。
 > - **精心设计诊断性任务（Engineering Effective Tasks）** 创设能够充分暴露学生迷思概念、推理缺陷或创新潜能的探究性与真实性任务。
-> - **贯通反馈三问闭环（Three Feedback Questions）** 围绕“目标通往何处（Where are we going）”、“当前行进至何处（How are we going）”与“下一步走向何方（Where to next）”建立连续的认知与教学调整桥梁。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 15)]]
+> - **贯通反馈三问循环（Three [[Feedback]] Questions）** 围绕“目标通往何处（Where are we going）”、“当前行进至何处（How are we going）”与“下一步走向何方（Where to next）”建立连续的认知与教学调整桥梁。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 15)]]
 > - **提供前瞻性改进反馈（Actionable Feedforward）** 反馈侧重于指出当前表现与目标的差距，并给出具体的行动指引（Feedforward），而非仅仅评判既往结果。
 > - **激活学生作为学习资源（Peer & Self-Assessment）** 组织同伴互评与自我反思，培育[[Metacognition|元认知]]监控与批判性审视他人作品的素养。
+
+> [!logic-map]- 形成性评价三核心提问的诊断闭环
+> ```mermaid
+> flowchart TD
+>     A["目标通往何处 (Where are we going)
+[明晰学习意图与学业进阶目标]"] --> B["当前行进至何处 (How are we going)
+[诊断性测评与即时认知剖面分析]"]
+>     B --> C["下一步走向何方 (Where to next)
+[针对性教学支架调整与进阶活动推送]"]
+>     C -->|"持续推进进阶发展"| A
+> ```
 
 ---
 
@@ -133,16 +148,25 @@ updated: 2026-09-16
 > [!concept-lens] 评价反馈的自我反思归因机制
 > 探讨形成性评价数据如何从衡量学生资质转化为促进教师调整教学实践的线索。
 
-> [!claim] Hattie, J.
-> **评价数据的教学归因转向** 形成性评价最深层的效能不在于向学生打上“会”或“不会”的标签，而在于将学生未掌握的内容视作对教师后续行动的即时提示。当教师将评价数据理解为对自己教学成效的反馈（而非仅仅关于学生智力或努力）时，形成性评价才能促使教师改变教学策略与重组支架，完成教学改进的实质闭环（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 17]]）。
+> [!claim] [[Argument_Hattie_2005_ACER|Hattie (2005)]]
+> **评价数据的教学归因转向** 形成性评价最深层的效能不在于向学生打上“会”或“不会”的标签，而在于将学生未掌握的内容视作对教师后续行动的即时提示。当教师将评价数据理解为对自己教学成效的反思（而非仅仅关于学生智力或努力）时，形成性评价才能促使教师改变教学策略与重组支架，完成教学改进的实质转化。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **描述性反馈与探索保护** | 纯评语反馈比分数更能保护任务卷入，促进批判性与创造性思维发展 | 高等教育探究性课程与论文指导 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]]；Butler (1988) |
+> | **模块化过载的挤出效应** | 频繁的短期模块考试导致评价过载，挤压深度形成性对话时间 | 学分制改革与模块化课程设计 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]]；Wu & Jessop (2018) |
+> | **教学归因与策略转化** | 将评价结果视为对教师自身教学效能的检验，是驱动教学改进的根本动力 | 校本评价体系构建与数据驱动教学 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Black & Wiliam (1998, 2009) |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 结合 [[OECD]] 国际经验系统论述了形成性评价在培育高等教育学生[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]中的基石作用，呼吁在高校质量保障与教学支持中强化形成性评价工具的研发与应用。
-> - [[Argument_Biggs_1999_HERD|Biggs (1999)]] 在[[Constructive Alignment|建构性对齐]]框架下阐明，[[Learning Portfolio|学习档案袋]]与过程性反思日志通过持续的师生协商与形成性反馈，能够有效引导学生走向[[Surface and Deep Learning|深层学习]]。
-> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] 论证以教师为核心的形成性评价系统（asTTle）如何通过三反馈提问引导目标设定与教学反思，打破传统自上而下的总结性问责困局（pp. 11–21）。
-
-
+> [!evidence-grid-a] 相关研究索引
+> - **[[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]** 结合 [[OECD]] 国际经验系统论述了形成性评价在培育高等教育学生[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]中的基石作用，呼吁在高校质量保障与教学支持中强化形成性评价工具的研发与应用。
+> - **[[Argument_Biggs_1999_HERD|Biggs (1999)]]** 在[[Constructive Alignment|建构性对齐]]框架下阐明，[[Learning Portfolio|学习档案袋]]与过程性反思日志通过持续的师生协商与形成性反馈，能够有效引导学生走向[[Surface and Deep Learning|深层学习]]。
+> - **[[Argument_Hattie_2005_ACER|Hattie (2005)]]** 论证以教师为核心的形成性评价系统（[[Assessment Tools for Teaching and Learning|asTTle]]）如何通过三核心反馈提问引导目标设定与教学反思，打破传统自上而下的总结性问责困局（pp. 11–21）。

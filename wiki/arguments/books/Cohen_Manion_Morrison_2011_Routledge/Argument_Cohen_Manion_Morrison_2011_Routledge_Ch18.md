@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Formative Assessment]]"
   - "[[Causality]]"
+  - "[[Success Criteria]]"
   - "[[Recommendations for Practice]]"
   - "[[Research Problem]]"
   - "[[Literature Review]]"
@@ -719,7 +720,7 @@ McNiff（2002, p. 85–91）为新手提供了实用建议（pp. 288–289）：
 > - **意识到政治议题**
 
 > [!note] McNiff 论评价标准
-> 她强调（p. 98）设定评价标准的重要性，没有成功标准，研究者无法知道行动研究是否成功以及成功到什么程度。行动研究者应自问："我们如何知道我们是否成功了？"
+> 她强调（p. 98）设定评价标准的重要性，没有[[Success Criteria|成功标准]]，研究者无法知道行动研究是否成功以及成功到什么程度。行动研究者应自问："我们如何知道我们是否成功了？"
 
 Kemmis & McTaggart（1992, p. 25–27）为开始行动研究提供了系列观察（pp. 289–290）：
 

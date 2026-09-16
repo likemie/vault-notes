@@ -6,10 +6,10 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - performativity-of-measurement
 - performativity
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Ontology]]"
   - "[[Ways of Knowing]]"
+  - "[[Learning Intentions]]"
   - "[[Neo-Taylorism]]"
 related_theories:
   - "[[Sociology of Measurement]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-13
+updated: 2026-09-16
 ---
 
 ## 定义
@@ -164,7 +165,7 @@ updated: 2026-09-13
 >
 > VL 案例将 Gorur 的"两个层面的生产性"框架拓展至第三个维度——**隐喻层面的生产性** 不仅是测量行为本身制造世界（层面一），不仅是赋予可计算性特征改变世界（层面二），命名和隐喻的选择本身也在制造世界——"Visible Learning"这个名字不是中性的描述，而是一种施行性行动，为多层监控提供了合法性语言([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33-34]])。该隐喻将视觉特权化为唯一的[[Ways of Knowing|认知方式]]，同时系统性抹除不可见、不可量化的教育维度——关怀、关系、情感、包容。对 VL 的批判因此不仅是[[Epistemology|认识论]]练习，而是"道德事业"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])，必须同时审问测量隐喻的文化政治。
 >
-> > 例：维多利亚州教育部要求职前教师进入教室后立即走向白板张贴学习意图（learning intentions），学校管理层禁止以任何其他方式开始上课（McKnight, 2016，引自）。这不是因为研究表明这一做法最有效，而是因为"可见性"的施行逻辑要求学习必须是可展示的——测量的存在（学习意图的可见证据）改变了教学行为本身。
+> > 例：维多利亚州教育部要求职前教师进入教室后立即走向白板张贴[[Learning Intentions|学习意图]]（learning intentions），学校管理层禁止以任何其他方式开始上课（McKnight, 2016，引自）。这不是因为研究表明这一做法最有效，而是因为"可见性"的施行逻辑要求学习必须是可展示的——测量的存在（学习意图的可见证据）改变了教学行为本身。
 
 
 > [!success] 澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 中的施行性([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]])

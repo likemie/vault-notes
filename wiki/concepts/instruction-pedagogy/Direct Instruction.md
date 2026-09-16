@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Side Effects]]"
   - "[[Lost Mode]]"
+  - "[[Success Criteria]]"
   - "[[Academic Achievement]]"
   - "[[Critical Thinking]]"
   - "[[Dialogue in Education]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-08-25
+updated: 2026-09-16
 ---
 
 # Direct Instruction
@@ -118,7 +119,7 @@ flowchart LR
 ```
 
 > [!feature] 广义直接教学的核心构成要素（Rosenshine, 1986）
-> - **明确目标与先行组织者** 教师在课初清晰阐述学习目标与成功标准，提供先行认知框架。[[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 7)]]
+> - **明确目标与先行组织者** 教师在课初清晰阐述学习目标与[[Success Criteria|成功标准]]，提供先行认知框架。[[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 7)]]
 > - **小步子示范（Modeling / "I do"）** 教师将复杂知识拆解为简明单元，边操作边大声思维（Think-aloud），展示专家解题策略。
 > - **[[Scaffolding|脚手架]]指导练习（Guided Practice / "We do"）** 师生共同演练，教师提供提示卡、模板句干，并在错误刚出现时予以矫正。
 > - **高频理解检查（Checking for Understanding）** 通过全员提问、快速口头反馈，确保大部分学生完全理解后再推进。

@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Baccalaureate]]"
   - "[[International Schools]]"
+  - "[[Success Criteria]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-16
 ---
 
 # Atlantic College Curriculum 1962
@@ -101,7 +102,7 @@ updated: 2026-08-17
 > | 维度 | 团队竞赛 | 救援与户外服务 |
 > |:---|:---|:---|
 > | 群体形成 | 容易沿国家关系组成队伍并强化对立。 | 不同国家学生围绕同一现实任务相互依赖。 |
-> | 成功标准 | 胜负和明星表现可能压过公平竞赛。 | 成功取决于技能、判断、合作及能否真正帮助他人。 |
+> | [[Success Criteria\|成功标准]] | 胜负和明星表现可能压过公平竞赛。 | 成功取决于技能、判断、合作及能否真正帮助他人。 |
 > | 责任范围 | 后果主要停留在比赛内部。 | 海岸与悬崖环境把学生行动连接到他人生命安全。 |
 > | 教育目标 | 原有社会和道德教育功能在竞技化与旁观文化中减弱。 | 同时训练勇气、纪律、领导、接受领导和同情。 |
 

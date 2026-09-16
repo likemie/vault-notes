@@ -9,7 +9,7 @@ aliases:
 summary: "将测量工具的结果与公认有效的外部标准进行统计关联以确立测量有效性的方法学体系，涵盖预测效度与共时效度两大支柱，核心挑战在于效标问题与效标污染控制"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[APA Style]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Chain of Evidence]]"
+  - "[[Success Criteria]]"
 related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-09-11
+updated: 2026-09-16
 ---
 
 # Criterion-related Validity
@@ -186,7 +187,7 @@ updated: 2026-09-11
 
 > [!warning] 适用局限
 > 1. **效标循环论证风险** 若用于验证新工具的外部标准本身缺乏[[Construct Validity|构念效度]]，效标关联效度将沦为毫无意义的相互背书；
-> 2. **动态演变不稳定性** 外部效标（如职业成功标准）随时代与技术演进而变化，效标效度需持续进行纵向更新。
+> 2. **动态演变不稳定性** 外部效标（如职业[[Success Criteria|成功标准]]）随时代与技术演进而变化，效标效度需持续进行纵向更新。
 
 ---
 

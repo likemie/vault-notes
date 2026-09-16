@@ -7,7 +7,7 @@ aliases:
 summary: "学术场域中以声望、认可和区隔等 Bourdieu 意义上的符号商品为核心通货的竞争形式，区别于以价格和利润驱动的常规市场，用于解释排名和评估为何能驱动大学行为"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/prestige
   - level/higher-ed
 related_concepts:
+  - "[[Success Criteria]]"
   - "[[Champ]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Global Universities Rankings]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-10
+updated: 2026-09-16
 ---
 
 # Non-monetary Competition
@@ -47,7 +48,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> 非货币竞争（Non-monetary Competition）指高等教育和学术领域中不以金钱为唯一交换媒介和成功标准的竞争形式。学术竞争围绕"符号商品"（symbolic goods）——如声望（prestige）、认可（recognition）和区隔（distinction）——展开，这些商品之所以具有价值，是因为学科共同体和更广泛的公众已将其视为代表独特专业知识和智力成就的标志([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])。
+> 非货币竞争（Non-monetary Competition）指高等教育和学术领域中不以金钱为唯一交换媒介和[[Success Criteria|成功标准]]的竞争形式。学术竞争围绕"符号商品"（symbolic goods）——如声望（prestige）、认可（recognition）和区隔（distinction）——展开，这些商品之所以具有价值，是因为学科共同体和更广泛的公众已将其视为代表独特专业知识和智力成就的标志([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])。
 
 这一概念直接回应了[[Academic Capitalism|学术资本主义]]（[[Academic Capitalism]]）概念的一个核心局限：与常规价格型市场不同，学术界扩散的准市场和声望竞争并不依赖显性的货币供需机制。在许多情况下，学术机构并不以财务利润为导向，学术人员追求的不仅是经济报酬，更是同行认可和学科地位([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.797]])。
 

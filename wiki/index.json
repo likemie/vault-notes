@@ -2325,6 +2325,28 @@
     ]
   },
   {
+    "title": "Learning Intentions",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum-instruction/Learning Intentions.md",
+    "aliases": [
+      "学习意图",
+      "学习目标意图",
+      "Learning Intention",
+      "认知学习意图"
+    ]
+  },
+  {
+    "title": "Success Criteria",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum-instruction/Success Criteria.md",
+    "aliases": [
+      "成功标准",
+      "达成标准",
+      "Success Criterion",
+      "表现成功标准"
+    ]
+  },
+  {
     "title": "Absorptive Capacity",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
@@ -3665,7 +3687,11 @@
       "研究使用赤字框架",
       "deficit perspective",
       "缺失框架",
-      "赤字取向"
+      "赤字取向",
+      "赤字理论",
+      "Deficit Theorising",
+      "Deficit Theory",
+      "赤字归因"
     ]
   },
   {
@@ -21386,6 +21412,17 @@
       "北方基金会毛利与太平洋岛民教育计划",
       "MPEI",
       "Foundation North"
+    ]
+  },
+  {
+    "title": "Te Kotahitanga",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Te Kotahitanga.md",
+    "aliases": [
+      "团结项目",
+      "Te Kotahitanga Project",
+      "毛利中学生关系教学干预项目",
+      "毛利学生教育改进计划"
     ]
   },
   {
