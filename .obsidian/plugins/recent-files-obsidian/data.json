@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Professional Learning Community",
-      "path": "wiki/concepts/teacher-education/Professional Learning Community.md"
+      "basename": "Lesson Study",
+      "path": "wiki/concepts/teacher-education/Lesson Study.md"
     },
     {
       "basename": "Argument_Brown_Greany_2018_LPS",
       "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
+    },
+    {
+      "basename": "School Enquiry Cycle",
+      "path": "wiki/concepts/educational-policy-reform/School Enquiry Cycle.md"
+    },
+    {
+      "basename": "Professional Learning Community",
+      "path": "wiki/concepts/teacher-education/Professional Learning Community.md"
     },
     {
       "basename": "Activity Traps",
@@ -181,10 +189,6 @@
       "path": "wiki/facts/uk/The Importance of Teaching.md"
     },
     {
-      "basename": "Lesson Study",
-      "path": "wiki/concepts/teacher-education/Lesson Study.md"
-    },
-    {
       "basename": "Research Literacy",
       "path": "wiki/concepts/teacher-education/Research Literacy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Bainbridge_2022_ROE",
       "path": "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md"
-    },
-    {
-      "basename": "Argument_Brown_2017_ER",
-      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Brown_2017_ER.md"
     }
   ],
   "omittedPaths": [],

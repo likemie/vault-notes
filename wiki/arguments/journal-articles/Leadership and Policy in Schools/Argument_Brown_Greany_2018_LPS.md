@@ -116,8 +116,6 @@ updated: 2026-09-16
 
 ## 理论框架
 
-[[Chris Brown|克里斯·布朗]]（Chris Brown）与托比·格里尼（Toby Greany）构建的理论工具箱融合了教育政策学、[[Knowledge Mobilisation|知识动员]]理论、组织学习理论与[[Professional Learning Community|专业学习共同体]][[Document|文献]]，旨在阐明证据如何在学校组织内部被理解、流动并转化为教学改进实践。
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
