@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
     },
     {
+      "basename": "Argument_Hattie_2005_ACER",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
+    },
+    {
+      "basename": "Assessment Tools for Teaching and Learning",
+      "path": "wiki/instruments/tests/Assessment Tools for Teaching and Learning.md"
+    },
+    {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    },
+    {
       "basename": "Research Translation",
       "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "template-argument",
       "path": "wiki/templates/template-argument.md"
-    },
-    {
-      "basename": "EEF Teaching and Learning Toolkit",
-      "path": "wiki/facts/uk/EEF Teaching and Learning Toolkit.md"
-    },
-    {
-      "basename": "Institute of Education Sciences",
-      "path": "wiki/facts/us/Institute of Education Sciences.md"
-    },
-    {
-      "basename": "Literacy Octopus",
-      "path": "wiki/facts/uk/Literacy Octopus.md"
     }
   ],
   "omittedPaths": [],
