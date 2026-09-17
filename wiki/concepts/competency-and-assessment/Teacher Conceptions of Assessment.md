@@ -7,10 +7,10 @@ aliases:
 summary: "教师关于评价本质、目的与价值的内隐信念体系，涵盖改进教学、学校问责、学生问责与无关性四种取向，直接决定评价数据在课堂中的实际功用"
 type: concept
 domain: "competency-and-assessment"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/assessment
   - theme/teacher-beliefs
@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Teacher Conceptions of Assessment

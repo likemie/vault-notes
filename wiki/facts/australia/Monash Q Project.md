@@ -11,7 +11,7 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -67,9 +67,9 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 莫纳什 Q 项目（The Monash Q Project）是由澳大利亚莫纳什大学（Monash University）与保罗·拉姆齐基金会（Paul Ramsay Foundation）合作开展的为期五年的旗舰重大研究计划（2019–2024），旨在系统理解并促进澳大利亚中小学对教育研究成果的高质量使用。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 183–184]]）
+> 莫纳什 Q 项目（The Monash Q Project）是由澳大利亚莫纳什大学（Monash University）与保罗·拉姆齐基金会（Paul Ramsay Foundation）合作开展的为期五年的旗舰重大研究计划（2019–2024），旨在系统理解并促进澳大利亚中小学对教育研究成果的高质量使用。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 183–184]]）
 
-> [!program-context] 项目背景（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 183–184, 199]]）
+> [!program-context] 项目背景（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 183–184, 199]]）
 > - **立项时间 / 周期** 2019 年启动，设计实施周期为 5 年（2019–2024）。
 > - **发起方与资助机制** 由澳大利亚莫纳什大学教育学院主导，获得澳大利亚知名慈善机构保罗·拉姆齐基金会全额专项资助，联合各州教育部、学校系统与关键利益相关者深度合作。
 > - **覆盖范围与对象** 覆盖澳大利亚 4 个州（新南威尔士州、维多利亚州、昆士兰州、南澳大利亚州），调查样本涵盖公立、天主教与独立私立学校系统的 906 名一线教师与[[School Leadership|学校领导]]者。
@@ -80,16 +80,16 @@ updated: 2026-09-17
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 项目确立了从跨领域概念建构到学校实证探索、再到支持工具落地的三阶段推进机制，核心假说在于通过明确使用质量标准并激活个体与组织使能条件，能够显著提升一线教师将研究证据转化为教学改善的效能。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 184–185]]）
+> 项目确立了从跨领域概念建构到学校实证探索、再到支持工具落地的三阶段推进机制，核心假说在于通过明确使用质量标准并激活个体与组织使能条件，能够显著提升一线教师将研究证据转化为教学改善的效能。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 184–185]]）
 
 > [!policy-design]- 方案设计
-> - **项目目标** 界定教育中用好研究（Using Research Well）的概念内涵；描绘教师和校长的实际使用模式与促成/阻碍因素；研制提升学校[[Research Utilization|研究使用]]质量的专业学习方案与自评诊断工具。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 183–184]]）
-> - **覆盖对象** 澳大利亚中小学教师、中层管理人员、高级领导者（校长与副校长）及跨部门政策制定者与研究中介行动者。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, p. 199]]）
-> - **干预措施** 研发并在学校试行 [[Quality Use of Research Evidence Framework|QURE]] 框架、证据使用反思工作坊、[[Professional Learning Community|专业学习团队]]指南及[[School Leadership|学校领导]]者研究参与支持包。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 185–190]]）
-> - **实施控制** 采取[[Mixed Methods Research|混合方法研究]]设计，结合先验概念综合、大样本多州分层[[Questionnaire|问卷调查]]与多案例深入[[Qualitative Interview|质性访谈]][[Triangulation|三角互证]]。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 184–185]]）
+> - **项目目标** 界定教育中用好研究（Using Research Well）的概念内涵；描绘教师和校长的实际使用模式与促成/阻碍因素；研制提升学校[[Research Utilization|研究使用]]质量的专业学习方案与自评诊断工具。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 183–184]]）
+> - **覆盖对象** 澳大利亚中小学教师、中层管理人员、高级领导者（校长与副校长）及跨部门政策制定者与研究中介行动者。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, p. 199]]）
+> - **干预措施** 研发并在学校试行 [[Quality Use of Research Evidence Framework|QURE]] 框架、证据使用反思工作坊、[[Professional Learning Community|专业学习团队]]指南及[[School Leadership|学校领导]]者研究参与支持包。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 185–190]]）
+> - **实施控制** 采取[[Mixed Methods Research|混合方法研究]]设计，结合先验概念综合、大样本多州分层[[Questionnaire|问卷调查]]与多案例深入[[Qualitative Interview|质性访谈]][[Triangulation|三角互证]]。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 184–185]]）
 
 > [!citation-card] 核心立项使命
-> 提高政策与实践中的证据使用，需要明确回答从政治与专业视角看何谓更好的使用。这要求从关注证据本身的质量，向关注证据使用的质量发生关键位移。莫纳什 Q 项目旨在探究并支持教育实践中深思熟虑地使用适切证据。（Rickinson et al., 2020; [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, p. 183]]）
+> 提高政策与实践中的证据使用，需要明确回答从政治与专业视角看何谓更好的使用。这要求从关注证据本身的质量，向关注证据使用的质量发生关键位移。莫纳什 Q 项目旨在探究并支持教育实践中深思熟虑地使用适切证据。（Rickinson et al., 2020; [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, p. 183]]）
 >
 > *To improve the use of evidence in policy and practice requires an explicit engagement with the question of what constitutes better use from a professional perspective. The Q Project aims to understand and support the thoughtful engagement with and implementation of appropriate research evidence.*
 
@@ -98,9 +98,9 @@ updated: 2026-09-17
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 项目推进历程
-> - **2019 — 概念框架研制期** 对卫生、社会关照、政策与教育四大领域[[Document|文献]]开展跨界[[Systematic Review|系统综述]]与叙事综合，提炼[[Research Utilization|证据使用]]质量内涵，经过多轮利益相关者研讨确立[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]（QURE），并在《教育研究》（*Educational Research*）发表同行评议奠基论文。（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022, pp. 133–158]]；[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 184–185]]）
-> - **2020–2021 — 学校实证调查期** 开展两轮大规模标准化[[Questionnaire|问卷调查]]（Survey 1 样本 492 人，聚焦认知与使用行为；Survey 2 样本 414 人，聚焦促成与阻碍因素）以及 27 场深入访谈（29 位教育工作者），深入剖析一线使用质量的实际表征与制度瓶颈。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 184, 199]]）
-> - **2022–2024 — 工具开发与系统辐射期** 与[[OECD|经合组织]]（[[OECD]]）合作发布国际专著章节，面向全澳学校推广研究使用质量诊断量表与专业发展支持工具，推动系统层减负与政策支持。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 182–199]]）
+> - **2019 — 概念框架研制期** 对卫生、社会关照、政策与教育四大领域[[Document|文献]]开展跨界[[Systematic Review|系统综述]]与叙事综合，提炼[[Research Utilization|证据使用]]质量内涵，经过多轮利益相关者研讨确立[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]（QURE），并在《教育研究》（*Educational Research*）发表同行评议奠基论文。（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a, pp. 133–158]]；[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 184–185]]）
+> - **2020–2021 — 学校实证调查期** 开展两轮大规模标准化[[Questionnaire|问卷调查]]（Survey 1 样本 492 人，聚焦认知与使用行为；Survey 2 样本 414 人，聚焦促成与阻碍因素）以及 27 场深入访谈（29 位教育工作者），深入剖析一线使用质量的实际表征与制度瓶颈。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 184, 199]]）
+> - **2022–2024 — 工具开发与系统辐射期** 与[[OECD|经合组织]]（[[OECD]]）合作发布国际专著章节，面向全澳学校推广研究使用质量诊断量表与专业发展支持工具，推动系统层减负与政策支持。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 182–199]]）
 
 ---
 
@@ -127,11 +127,11 @@ updated: 2026-09-17
 > - **产出与结果指标** [[Quality Use of Research Evidence Framework|QURE]] 框架发布、六大实践特征提炼、学校[[Research Utilization|证据使用]]诊断工具箱产出、与 [[OECD]] 联合出版推动跨国政策辐射。
 
 > [!finding-cards] 核心实证结论
-> - **质量评价的六大实践特征** 提炼出一线教育者界定高质量研究使用的六大核心特征：目标明确（Purposeful）、常态嵌入（Embedded）、连接专业精神（Connected to Teacher Professionalism）、集体参与（Collective）、依赖时间与精力投入（Time and Effort Dependent）、好奇心驱动（Curiosity-Driven）。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 190–191]]）
-> - **[[School Leadership|学校领导力]]的杠杆效应** 学校领导者的示范与支持是促成高质量使用的首要组织因素；89% 的访谈与 72% 的问卷强调领导力作用，84% 的管理者与 73% 的教师要求领导者不仅要引用研究，更要躬身示范[[Research Translation|研究转化]]。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 191–192]]）
-> - **时间匮乏构成最严峻瓶颈** 76% 的受访者表示缺乏足够时间接触研究，61% 认为由于获取和[[Translational Research|转化研究]]耗时过长导致使用研究不划算；81% 在校内工作时间使用，但 59% 在放学后、69% 在周末使用业余时间阅读研究。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 192–193]]）
+> - **质量评价的六大实践特征** 提炼出一线教育者界定高质量研究使用的六大核心特征：目标明确（Purposeful）、常态嵌入（Embedded）、连接专业精神（Connected to Teacher Professionalism）、集体参与（Collective）、依赖时间与精力投入（Time and Effort Dependent）、好奇心驱动（Curiosity-Driven）。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 190–191]]）
+> - **[[School Leadership|学校领导力]]的杠杆效应** 学校领导者的示范与支持是促成高质量使用的首要组织因素；89% 的访谈与 72% 的问卷强调领导力作用，84% 的管理者与 73% 的教师要求领导者不仅要引用研究，更要躬身示范[[Research Translation|研究转化]]。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 191–192]]）
+> - **时间匮乏构成最严峻瓶颈** 76% 的受访者表示缺乏足够时间接触研究，61% 认为由于获取和[[Translational Research|转化研究]]耗时过长导致使用研究不划算；81% 在校内工作时间使用，但 59% 在放学后、69% 在周末使用业余时间阅读研究。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 192–193]]）
 
-> [!stat-cards]- 关键实证数据（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 184, 191–193, 199]]）
+> [!stat-cards]- 关键实证数据（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 184, 191–193, 199]]）
 > - **906** 两轮调查参与的澳大利亚中小学教育工作者总人次（Survey 1 为 492 人，Survey 2 为 414 人）。
 > - **27** 开展的半结构化深度访谈场次（共计 29 名受访者）。
 > - **4** 覆盖的澳大利亚行政州（NSW, VIC, QLD, SA）。
@@ -147,14 +147,14 @@ updated: 2026-09-17
 > [!debates] 核心局限与争议
 >
 > > [!axis] 地域覆盖与制度适用性边界
-> > 实证数据主要来源于澳大利亚 4 个州的基础教育系统，在不同国家、高度中央集权或不同社会文化体制中的普遍适用性仍待跨国检验。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 184, 194]]）
+> > 实证数据主要来源于澳大利亚 4 个州的基础教育系统，在不同国家、高度中央集权或不同社会文化体制中的普遍适用性仍待跨国检验。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 184, 194]]）
 >
 > > [!axis] 自陈调查与真实教学观测的差距
-> > [[Questionnaire|问卷调查]]与[[In-depth Interview|深度访谈]]主要依赖教师与管理者的主观经验自陈，对于微观课堂教学行为的直接客观观测与学生学业长远增值指标仍显不足。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, p. 184]]）
+> > [[Questionnaire|问卷调查]]与[[In-depth Interview|深度访谈]]主要依赖教师与管理者的主观经验自陈，对于微观课堂教学行为的直接客观观测与学生学业长远增值指标仍显不足。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, p. 184]]）
 
 > [!lessons] 经验教训与启示
-> - **从供给驱动向需求牵引全面转型** 改变以往单纯资助成果生产与单向数据库推送的路径依赖，必须将增量资源投向一线教师的[[Absorptive Capacity|吸收能力]]与学校组织使能条件建设。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 193–195)]]
-> - **确立放慢节奏以换取长远加速的教研伦理** 证据的审慎研读与课堂试验需要充足工时保障，必须坚决削减行政繁冗负担并在排程中刚性划拨专有研讨时间。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 190, 192–193)]]
+> - **从供给驱动向需求牵引全面转型** 改变以往单纯资助成果生产与单向数据库推送的路径依赖，必须将增量资源投向一线教师的[[Absorptive Capacity|吸收能力]]与学校组织使能条件建设。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 193–195)]]
+> - **确立放慢节奏以换取长远加速的教研伦理** 证据的审慎研读与课堂试验需要充足工时保障，必须坚决削减行政繁冗负担并在排程中刚性划拨专有研讨时间。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 190, 192–193)]]
 
 ---
 

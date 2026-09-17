@@ -8,10 +8,10 @@ aliases:
 summary: "借鉴布朗芬布伦纳的生物生态学时间系统概念，阐明政策制定深受特定历史时空、社会危机与突发事件驱动的动态时间生态，解释政治决策极速响应与学术研究长周期之间的结构性时间错配"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 26
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept
   - theme/policy-process
@@ -176,7 +176,7 @@ updated: 2026-09-17
 > - **1994 — 生物生态学历时系统理论提出** [[Urie Bronfenbrenner|布朗芬布伦纳]]与塞西（Bronfenbrenner & Ceci, 1994）在人类发展模型中确立历时系统（Chronosystem），阐明社会历史条件与生命历程突发事件对个体[[Growth|成长]]的决定性塑造。
 > - **1984 / 2003 — 政策议程多源流与机会之窗** 金登（Kingdon）提出政策之窗理论，揭示政策偶发性与政治时机对议程设置的驱动，为政策时间维度的非线性思考奠定基石。
 > - **2000s — [[Evidence-Based Education|循证教育]]运动的静态时间幻觉** 随着《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）的颁布，循证教育政策预设了无时间摩擦的“研究生产-证据清算-政策采纳”线性链条，忽视了宏观政策的政治时间节律。
-> - **2020 — 政策制定时间系统理论化确立** 塞佩尔（Serpell, 2020）正式将生物生态学时间系统引介至教育政策与循证治理领域，系统论证政策时间生态对证据利用的制约，提出兼顾法定重新授权与突发事件的[[Navigational Framework for Educational Researchers|政策导航框架]]。
+> - **2020 — 政策制定时间系统理论化确立** 塞佩尔（[[Argument_Serpell_2020_EP|Serpell, 2020]]）正式将生物生态学时间系统引介至教育政策与循证治理领域，系统论证政策时间生态对证据利用的制约，提出兼顾法定重新授权与突发事件的[[Navigational Framework for Educational Researchers|政策导航框架]]。
 
 ---
 
@@ -188,13 +188,13 @@ updated: 2026-09-17
 > > 学者在面对政策时间系统的高压索求时，是否应当为了追求时效而放弃详尽罗列学术分歧与不确定性的科学规范。
 > >
 > > - **传统科学实证规范** 坚守学术严谨性，主张在出具政策声明时必须详尽列明证据的[[Heterogeneity|异质性]]与方法局限（Elson et al., 2019）。
-> > - **政策[[Realism in International Relations|现实主义]]立场（Serpell, 2020; Gillies, 2014）** 认为在极度压缩的政策时间系统中，犹疑不决的怀疑论将导致研究直接被弃置，使缺乏科学根据的极端声音占据立法上风。
+> > - **政策[[Realism in International Relations|现实主义]]立场（[[Argument_Serpell_2020_EP|Serpell, 2020]]; Gillies, 2014）** 认为在极度压缩的政策时间系统中，犹疑不决的怀疑论将导致研究直接被弃置，使缺乏科学根据的极端声音占据立法上风。
 >
 > > [!axis] 证据作为理性决策先导 vs 证据作为既定立场燃料
 > > 实证研究究竟是启发和改变政策制定者立场的客观力量，还是仅仅被决策者用来文饰既定政见的策略性工具。
 > >
 > > - **启蒙与[[Technical Rationality|技术理性]]派** 坚信严谨因果证据能够校准政策偏差，推动循证决策。
-> > - **政治时间系统与政治符号派（Serpell, 2020; Weiss, 1977）** 论证政治本质上关乎价值选择，实证研究主要作为维系政治信仰与政见口号的合法化燃料。
+> > - **政治时间系统与政治符号派（[[Argument_Serpell_2020_EP|Serpell, 2020]]; Weiss, 1977）** 论证政治本质上关乎价值选择，实证研究主要作为维系政治信仰与政见口号的合法化燃料。
 
 > [!critique] 外部批评
 > - **可能助长政策[[Opportunist Mode|机会主义]]与学术轻率** 过度迁就政策时间系统的极速要求，可能诱发学术机构在缺乏充分实证积累的情况下草率出具政策声明，损害科学界长远的公信力。

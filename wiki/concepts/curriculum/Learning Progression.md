@@ -8,10 +8,10 @@ aliases:
 summary: "刻画学生在特定学科领域中理解与能力从初阶向高阶演进的连续性发展轨迹，为课程标准编制、形成性评价与教学干预提供共同参照语言"
 type: concept
 domain: "curriculum"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/curriculum
   - theme/assessment
@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Learning Progression

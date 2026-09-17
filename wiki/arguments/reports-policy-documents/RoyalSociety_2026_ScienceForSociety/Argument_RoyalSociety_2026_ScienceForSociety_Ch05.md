@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -69,7 +69,7 @@ related_facts:
   - "[[Sense about Science]]"
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-17
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch05
 

@@ -10,9 +10,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "常态化机制（2010年代末至今）"
 initiator_organization: "Society for Research in Child Development"
@@ -110,7 +110,7 @@ updated: 2026-09-17
 > > 探讨在紧急时限内发表笃定政策声明是否违背科学研究的审慎文化。
 > >
 > > - **方法论审慎质疑** 部分学者（如 Elson et al., 2019）批评学术机构的快速政策声明往往比背后的科学证据更加笃定，存在掩盖证据争议与过度简单化因果结论的风险。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 45–46)]]
-> > - **立法实务辩护** [[Zewelanji N. Serpell|泽韦兰吉·N·瑟佩尔]]（Serpell, 2020）反驳指出，在国会立法语境中，政策声明不是学术综述；如果研究者夹带大量怀疑与自我免责，其成果将瞬间被立法者弃置，导致全无科学依据的谣言占据上风；坚定亮明核心结论是科学跨越政策门槛的必要妥协。（p. 46）
+> > - **立法实务辩护** [[Zewelanji N. Serpell|泽韦兰吉·N·瑟佩尔]]（[[Argument_Serpell_2020_EP|Serpell, 2020]]）反驳指出，在国会立法语境中，政策声明不是学术综述；如果研究者夹带大量怀疑与自我免责，其成果将瞬间被立法者弃置，导致全无科学依据的谣言占据上风；坚定亮明核心结论是科学跨越政策门槛的必要妥协。（p. 46）
 
 ---
 
