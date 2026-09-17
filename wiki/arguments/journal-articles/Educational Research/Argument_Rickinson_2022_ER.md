@@ -61,16 +61,21 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Ecological Systems Theory]]"
   - "[[Organizational Culture]]"
+  - "[[Dynamic Sustainability Framework]]"
+  - "[[Good Governance of Evidence]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Narrative Synthesis]]"
   - "[[Qualitative Research]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Qualitative Observation]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Justin Parkhurst]]"
 related_facts:
   - "[[Centre for Evidence and Implementation]]"
   - "[[Education Resources Information Center]]"
+  - "[[British Educational Research Association]]"
   - "[[Education Endowment Foundation]]"
   - "[[Monash Q Project]]"
 related_arguments:
@@ -141,7 +146,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **跨领域系统综述**<br>Cross-sector Systematic Review | 遵循[[Systematic Review\|系统综述]]原则，检索教育资源信息中心（Education Resources Information Center, ERIC）、Scopus、Web of Science 与 ProQuest 四大数据库，并补充网络检索、专家咨询与引文滚雪球；制定涵盖评估、发展与改善研究使用的检索式；经 Covidence 平台双人初筛与团队多轮协调质评，最终纳入 112 篇核心文献。（pp. 134–136） |
-> | **叙事综合与框架构建**<br>Narrative Synthesis & Framework Construction | 依据 Popay et al. (2006) 规范撰写卫生保健、社会关照、教育与公共政策四大领域的叙事综合文本（各 6,000–12,000 字），并经领域专家外部盲审；第一阶段通过主题分析提炼跨领域共性洞见并拓展先验框架；第二阶段结合教育[[Document\|文献]]展开比较分析，细化各构件内涵。（pp. 136–138） |
+> | **[[Narrative Synthesis\|叙事综合]]与框架构建**<br>Narrative Synthesis & Framework Construction | 依据 Popay et al. (2006) 规范撰写卫生保健、社会关照、教育与公共政策四大领域的[[Narrative Synthesis\|叙事综合]]文本（各 6,000–12,000 字），并经领域专家外部盲审；第一阶段通过主题分析提炼跨领域共性洞见并拓展先验框架；第二阶段结合教育[[Document\|文献]]展开比较分析，细化各构件内涵。（pp. 136–138） |
 > | **利益相关者多轮咨询**<br>Stakeholder Consultation | 贯穿框架研制全程，与澳大利亚跨州教育行政官员、中小学领导者、教师、证据中介机构以及国际循证专家开展会议、工作坊和结构化书面咨询，检验框架的专业相关性与实践可行性。（p. 138） |
 
 > [!sample-panel]- 样本与材料快照
@@ -233,8 +238,8 @@ issuing_organization: ""
 > |:---|:---|:---|
 > | **卫生保健** | 临床专业判断不可替代，决定外部最佳临床证据是否适用于具体患者（Sackett et al., 1996, p. 72; Greenhalgh et al., 2009; Ward et al., 2010）。 | 倡导跨学科循证实践模型，将科研证据、临床专长与患者意愿动态融通（Satterfield et al., 2009）。 |
 > | **社会关照** | 反思对技术理性的盲目崇拜，确立实践者临床判断与技能的合法性地位（Keenan & Grady, 2014; Rosen, 2003）。 | 强调服务对象的情境脉络、个体需求与价值观在证据落地中的制约性影响（Anderson, 2011; Morton, 2018）。 |
-> | **教育领域** | 倡导实践型证据（专业判断）、研究型证据与数据型证据的复合集成（Nelson & Campbell, 2019; BERA, 2014）。 | 将研究证据与教师日常教学智慧、课堂动态情境及学生差异深度融合（Earl, 2015; Greany & Maxwell, 2017; Farley-Ripple et al., 2018）。 |
-> | **公共政策** | 政策决策兼具科学性与政治性，依赖对议程与利益诉求的综合审议（Boaz & Nutley, 2019; Nutley et al., 2010）。 | 在多方利益博弈中权衡政策情境、公众诉求与不同类型证据的适用效力（Parkhurst, 2017; Hawkins & Parkhurst, 2016; Breckon, 2016; Gluckman, 2011）。 |
+> | **教育领域** | 倡导实践型证据（专业判断）、研究型证据与数据型证据的复合集成（Nelson & Campbell, 2019; [[British Educational Research Association\|BERA]], 2014）。 | 将研究证据与教师日常教学智慧、课堂动态情境及学生差异深度融合（Earl, 2015; Greany & Maxwell, 2017; Farley-Ripple et al., 2018）。 |
+> | **公共政策** | 政策决策兼具科学性与政治性，依赖对议程与利益诉求的综合审议（Boaz & Nutley, 2019; Nutley et al., 2010）。 | 在多方利益博弈中权衡政策情境、公众诉求与不同类型证据的适用效力（[[Justin Parkhurst\|Parkhurst]], 2017; Hawkins & Parkhurst, 2016; Breckon, 2016; Gluckman, 2011）。 |
 
 专业判断的不可替代性，深刻驱动了循证运动在[[Epistemology|认识论]]哲学上的自我修正，推动话语体系从生硬的因果规定走向深度的经验融通。
 
@@ -246,10 +251,10 @@ issuing_organization: ""
 除了微观专业裁决外，四大实践领域同样认识到，证据利用不能被割裂为孤立线性的信息输入—输出过程，而是深植于复杂演进的组织与生态系统之中。
 
 > [!quad-grid] 四大实践领域系统动态性与非线性演化的理论透镜（pp. 139–140）
-> - **卫生保健领域**<br>将证据使用重构为动态演进过程（Adams & Titler, 2013; Ward et al., 2010）；经典框架突出行动者、证据与情境的多维互动（Ellen et al., 2011; Kitson et al., 1998）；Chambers & Norton (2016) 强调干预措施的长期适应性调整，指出实施本质上是持续学习、[[Problem Solving|问题解决]]与情境调适。
+> - **卫生保健领域**<br>将证据使用重构为动态演进过程（Adams & Titler, 2013; Ward et al., 2010）；经典框架突出行动者、证据与情境的多维互动（Ellen et al., 2011; Kitson et al., 1998）；依托[[Dynamic Sustainability Framework|动态可持续性框架]]（Chambers et al., 2013; Chambers & Norton, 2016），强调干预措施的长期适应性调整，指出实施本质上是持续学习、[[Problem Solving|问题解决]]与情境调适。
 > - **社会关照领域**<br>指出证据使用应当内化为专业系统内生演进的日常实践（Avby et al., 2014）；Ghate & Hood (2019) 提出深远论断，强调社会关照中必须是在实践中动员证据（mobilise evidence in practice），而非单纯将证据移入实践（moving evidence into practice），证据不能成为附加程序。
-> - **教育实践领域**<br>聚焦跨越教育系统的结构性联动，包括职前教育内置[[Research Literacy|研究素养]]培训、改进准入标准证据要求；[[Education Endowment Foundation|教育捐赠基金会]]（EEF, 2019）、BERA (2014)、Coldwell et al. (2017)、Tripney et al. (2018)、Farley-Ripple et al. (2018)、Park (2018) 与 Sharples (2013) 明确倡导将研究利用确立为战略优先事项。
-> - **公共政策领域**<br>关注证据利用的问责制、透明度与程序可争辩性；Parkhurst (2017)、Boswell (2014) 与 Rutter & Gold (2015) 强调，证据使用的质量并不取决于政策环境最终产出何种特定结果，而取决于决策做出并付诸实施的制度化程序是否正当健全。
+> - **教育实践领域**<br>聚焦跨越教育系统的结构性联动，包括职前教育内置[[Research Literacy|研究素养]]培训、改进准入标准证据要求；[[Education Endowment Foundation|教育捐赠基金会]]（EEF, 2019）、[[British Educational Research Association|英国教育研究协会]]（BERA, 2014）、Coldwell et al. (2017)、Tripney et al. (2018)、Farley-Ripple et al. (2018)、Park (2018) 与 Sharples (2013) 明确倡导将研究利用确立为战略优先事项。
+> - **公共政策领域**<br>关注证据利用的问责制、透明度与程序可争辩性；结合[[Justin Parkhurst|贾斯汀·帕克赫斯特]]（Parkhurst, 2017）的[[Good Governance of Evidence|证据良好治理]]理论，Boswell (2014) 与 Rutter & Gold (2015) 强调，证据使用的质量并不取决于政策环境最终产出何种特定结果，而取决于决策做出并付诸实施的制度化程序是否正当健全。
 
 跨领域的经验证据表明，单纯依赖个体技能培训或中心化单向学术推送必然遭遇瓶颈；唯有将专业主体的能动裁量与多层组织系统的制度保障有机统合，方能从根本上破除线性转移偏误。
 
@@ -432,7 +437,7 @@ QURE 框架不仅提供了一套概念分类，更旨在打破教育实践中形
 > - **实证检验进路**
 >   从何谓质量使用的概念思辨走向在实践中质量使用具体呈现何种形态的经验探究；借鉴卫生保健领域 Ward et al. (2010) 通过长期[[Qualitative Observation|田野观察]]与访谈检验知识转化模型的做法，深入不同类型学校探究教师与校长眼中用好研究与用坏研究的具体表征，并在不同办学背景与治理层级中实证检验各使能构件的实际分布与运作模式。
 > - **理论深化进路**
->   回应教育研究使用长期处于理论匮乏（Cain et al., 2019; Gough & Boaz, 2015）的学界批评，汲取政治哲学、认知心理学与教育哲学养分；如同 Parkhurst (2017) 通过剖析政治学与公共管理本质提出证据的良善治理一样，教育领域的质量使用理论必须深入考量教育本质、专业知识形态及课堂教学法实践的独特规律，筑牢认识论根基。
+>   回应教育研究使用长期处于理论匮乏（Cain et al., 2019; Gough & Boaz, 2015）的学界批评，汲取政治哲学、认知心理学与教育哲学养分；如同[[Justin Parkhurst|帕克赫斯特]]（Parkhurst, 2017）通过剖析政治学与公共管理本质提出证据的良善治理一样，教育领域的质量使用理论必须深入考量教育本质、专业知识形态及课堂教学法实践的独特规律，筑牢认识论根基。
 > - **干预开发进路**
 >   将概念构件转化为指导实践的能力建设与专业学习干预措施；借鉴社会关照领域 Bellamy et al. (2013) 基于跨学科循证模型开发的线上培训模块，以及公共政策领域 Stewart et al. (2019) 研发的决策者循证能力建设原则，研制学校证据使用自我诊断量表、领导力支持工具包与教师反思工作坊规程。
 

@@ -52,6 +52,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Doctoral Grant for Teachers]]"
   - "[[Hungarian Researcher Teacher Scheme]]"
+  - "[[British Educational Research Association]]"
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
@@ -198,7 +199,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **2010 — 提出做研究与用研究的区分** Bell 等人在英国教育科研利用[[Systematic Review|系统综述]]中明确提出“Engagement in research”与“Engagement with research”的二元分类，奠定理论基石。
-> - **2014 — BERA-RSA 调查报告确立国家战略地位** 英国教育研究学会（BERA）与皇家艺术学会（RSA）将双轨参与确立为建设“自我完善教育系统”（Self-improving education system）的核心支柱，倡导将学校建设为研究介入型组织。
+> - **2014 — [[British Educational Research Association|BERA]]-RSA 调查报告确立国家战略地位** 英国教育研究学会（BERA）与皇家艺术学会（RSA）将双轨参与确立为建设“自我完善教育系统”（Self-improving education system）的核心支柱，倡导将学校建设为研究介入型组织。
 > - **2022 — [[OECD|经合组织]]跨国政策调查揭示制度断层** Hill 基于 OECD 针对 29 国 37 个教育系统的政策调查，量化测定了教师在研究生产中的边缘化（82% 不活跃）、数据收集客体化扭曲及外在制度激励全面匮乏的生态病理。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 89–92)]]
 > - **2023 — 量化实证检验与[[Effect Size|效应量]]厘清** Kazancı Tınmaz & Sezgin 通过 2×2 [[Multivariate Analysis of Variance|MANOVA]] 实证测定了做研究与读期刊对教师[[Research Literacy|研究素养]]各维度的独立主效应量，证实两条路径各具不可替代的独特价值。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 12–14)]]
 

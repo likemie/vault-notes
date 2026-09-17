@@ -82,6 +82,8 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Stanford Prison Experiment]]"
+  - "[[American Educational Research Association]]"
+  - "[[British Educational Research Association]]"
 related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -980,7 +982,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 >
 > Bulmer 指出，对隐蔽研究所产生的伦理问题没有简单和普遍同意的答案（p.114）。
 
-Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过于保守的方法可能使重要研究几乎不值得努力。即使是最严厉的批评者也很难断言所有欺骗对参与者都有潜在有害效果或是错误的。AERA 伦理标准"不鼓励欺骗"，"仅当明确必要时使用"，但承认在某些情况下可能必要且有用，需要仔细证成（p.114）。
+Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过于保守的方法可能使重要研究几乎不值得努力。即使是最严厉的批评者也很难断言所有欺骗对参与者都有潜在有害效果或是错误的。[[American Educational Research Association|AERA]] 伦理标准"不鼓励欺骗"，"仅当明确必要时使用"，但承认在某些情况下可能必要且有用，需要仔细证成（p.114）。
 
 ---
 
@@ -1031,7 +1033,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > | **ASA** (American Sociological Association, 1999) | 五项总原则 → 20条伦理标准 | 涵盖不剥削、保密、知情同意、欺骗、提供诱导等 |
 > | **BSA** (British Sociological Association, 2002) | 多章节，含隐蔽研究、资助方责任 | 对参与者和资助方的双重义务；匿名、隐私、保密章节 |
 > | **[[Sponsored Research Agreement\|SRA]]** (Social Research Association, 2003) | 四个层级义务：社会 → 资助方 → 同事 → 参与者 | 借鉴欧洲法律框架（www.respect-project.org） |
-> | **BERA** (British Educational Research Association, 2004) | 多章节责任体系 | 覆盖研究专业、参与者（含儿童）、公众、资助机构、出版、知识产权、宿主机构 |
+> | **[[British Educational Research Association\|BERA]]** (British Educational Research Association, 2004) | 多章节责任体系 | 覆盖研究专业、参与者（含儿童）、公众、资助机构、出版、知识产权、宿主机构 |
 > | **AERA** (American Educational Research Association, 2000) | 六节，含学生和研究生研究者 | 不鼓励欺骗，仅当明确必要时使用，需解释原因；对文化、宗教、性别等当地情况敏感 |
 
 ---

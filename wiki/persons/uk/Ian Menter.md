@@ -45,6 +45,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[British Educational Research Association]]"
   - "[[BERA-RSA Inquiry into the Role of Research in Teacher Education]]"
   - "[[Carter Review of Initial Teacher Training]]"
 related_arguments:
@@ -63,7 +64,7 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代教师教育与教育政策学者，牛津大学教育系教师教育荣休教授（Professor Emeritus of Teacher Education），俄罗斯喀山联邦大学资深研究员。
-> - **核心角色** 曾任英国教育研究协会（British Educational Research Association, BERA，2013–2015）主席与苏格兰教育研究协会（Scottish Educational Research Association, SERA，2005–2007）主席，是英国教师专业发展、教师教育政策批判与循证治理研究的代表性学术领袖。
+> - **核心角色** 曾任[[British Educational Research Association|英国教育研究协会]]（British Educational Research Association, BERA，2013–2015）主席与苏格兰教育研究协会（Scottish Educational Research Association, SERA，2005–2007）主席，是英国教师专业发展、教师教育政策批判与循证治理研究的代表性学术领袖。
 > - **代表贡献** 提出“以研究为导向的临床实践”（Research-Informed Clinical Practice）[[Paradigm|范式]]；主导 BERA-RSA 教师教育国家调查；系统论证教育政策从测量时代向[[Evidence Era|证据时代]]的治理范式演进与[[Policy-Based Evidence-Making|基于政策的证据制造]]机制。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 88–91)]]
 
 > [!citation-card]- 教师教育与证据治理的学术定位
@@ -79,7 +80,7 @@ updated: 2026-09-17
 > - **1949** 出生于英国剑桥，早期从事小学教学与基础教育研究。
 > - **2005–2007** 当选为苏格兰教育研究协会（SERA）主席，推动苏格兰教师教育框架改革。
 > - **2012** 出任牛津大学教育系教师教育教授（Professor of Teacher Education）。
-> - **2013–2015** 当选英国教育研究协会（BERA）主席，联合英国皇家艺术学会（RSA）主持著名的“BERA-RSA 教师教育研究调查项目”（[[BERA-RSA Inquiry into the Role of Research in Teacher Education|BERA-RSA Inquiry]] into Research and Teacher Education），倡导将[[Research Literacy|研究素养]]确立为教师专业身份的核心。
+> - **2013–2015** 当选[[British Educational Research Association|英国教育研究协会]]（BERA）主席，联合英国皇家艺术学会（RSA）主持著名的“BERA-RSA 教师教育研究调查项目”（[[BERA-RSA Inquiry into the Role of Research in Teacher Education|BERA-RSA Inquiry]] into Research and Teacher Education），倡导将[[Research Literacy|研究素养]]确立为教师专业身份的核心。
 > - **2022** 合作发表《从测量时代到[[Evidence Era|证据时代]]？》（*From an age of measurement to an evidence era?*），通过 20 位高层[[Elite Interview|精英访谈]]剖析英格兰教师教育政策中的[[Rationalized Myth|合理化神话]]与政治把关机制。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022)]]
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-09-17
 >   - **代表著作** *Teacher education in 21st century England: A [[Case Study]] in neoliberal public policy* (2013)。
 >   - **关键概念／方法** [[New Public Management]]、[[Policy Science in Comparative Education]]。
 >   - **阶段转向** 从微观师资培养模式转向宏观公共政策治理逻辑批判。
-> - **2013–2015 — 倡导以研究为导向的临床实践[[Paradigm|范式]]** 领导 BERA-RSA 国家调查，主张吸收医学临床培训理念，将严谨学术研究与中小学一线[[Phronesis|实践智慧]]深度整合。
+> - **2013–2015 — 倡导以研究为导向的临床实践[[Paradigm|范式]]** 领导 [[British Educational Research Association|BERA]]-RSA 国家调查，主张吸收医学临床培训理念，将严谨学术研究与中小学一线[[Phronesis|实践智慧]]深度整合。
 >   - **代表著作** *A review of 'research-informed clinical practice' in [[Initial Teacher Training|Initial Teacher Education]]* (with K. Burn, 2015)。
 >   - **关键概念／方法** Research-Informed Clinical Practice、[[Phronesis]]。
 >   - **阶段转向** 建立理论与实践协同的规范性教师教育专业框架。
@@ -123,7 +124,7 @@ updated: 2026-09-17
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了教师教育政治学与新制度主义政策分析的交叉融合，深化了学界对教育循证治理异化机制的认知。
-> - **政策路径** 主导的 BERA-RSA 调查结论被英国议会委员会及工党、保守党政策顾问广泛引用；提出的临床实践理念直接影响了英国 2015 年《[[Carter Review of Initial Teacher Training|卡特审查]]》等国家文件的起草。
+> - **政策路径** 主导的 [[British Educational Research Association|BERA]]-RSA 调查结论被英国议会委员会及工党、保守党政策顾问广泛引用；提出的临床实践理念直接影响了英国 2015 年《[[Carter Review of Initial Teacher Training|卡特审查]]》等国家文件的起草。
 > - **跨国传播** 其教师教育模型在苏格兰、北爱尔兰、澳大利亚及欧洲大陆多国教师专业标准制定中产生广泛回响。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
@@ -134,7 +135,7 @@ updated: 2026-09-17
 ## 历史评价
 
 > [!citation-card] 学界论教师专业发展学术领袖
-> 作为 BERA 前主席与牛津大学教师教育学科带头人，门特在过去数十年间始终坚守教师专业自主与研究导向培养的理论前沿，成为反思英国新自由主义教育改革不可或缺的批判之声。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 88)]]
+> 作为 [[British Educational Research Association|BERA]] 前主席与牛津大学教师教育学科带头人，门特在过去数十年间始终坚守教师专业自主与研究导向培养的理论前沿，成为反思英国新自由主义教育改革不可或缺的批判之声。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 88)]]
 >
 > *Ian Menter has been one of the foremost voices in defending teacher education's intellectual integrity against state managerialism and instrumentalization.*
 
@@ -145,7 +146,7 @@ updated: 2026-09-17
 > [!person-network] 关系网络
 > - **学术合作者** Jo B. Helgetun — 合作开展英格兰教师教育政策演变与[[Evidence Era|证据时代]]研究。
 > - **学术合作者** Katharine Burn — 合作研讨[[Initial Teacher Training|初始教师教育]]中的临床实践模式。
-> - **机构平台** 英国教育研究协会（BERA） — 曾任主席（2013–2015），领导国家级调查。
+> - **机构平台** [[British Educational Research Association|英国教育研究协会]]（BERA） — 曾任主席（2013–2015），领导国家级调查。
 > - **机构平台** 苏格兰教育研究协会（SERA） — 曾任主席（2005–2007）。
 > - **机构平台** 牛津大学教育系 — 教师教育荣休教授。
 

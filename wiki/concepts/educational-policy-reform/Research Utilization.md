@@ -101,6 +101,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Semi-structured Interview]]"
   - "[[Correlational Research]]"
+  - "[[Narrative Synthesis]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons:
@@ -481,7 +482,7 @@ updated: 2026-09-17
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation|知识动员]]与[[Evidence-Informed Decision-Making|证据知情决策]]模型，解构证据利用的行为因果机制（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及超越二元论的[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020）。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型，系统批判官方治理模型遗漏外层系统的盲区，并依据多臂 [[Randomised Controlled Trials|RCT]] 因果实证阐明扎根行为改变科学的理论路径。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 汇聚经合组织、资助机构、研究学者与国际教师工会等七大利益相关者群体，系统检视教育研究利用的结构性断层，提出[[Democratising Evidence|证据民主化]]、去采矿式伙伴关系、[[Third Space Discourse|第三空间对话]]机制与教师组织自主[[Knowledge Production|知识生产]]的全景治理方案。
-> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 针对[[International Education|国际教育]]界长期侧重证据质量而忽视使用质量的理论盲区，基于四大领域 112 篇核心文献的跨领域[[Systematic Review|系统综述]]与叙事综合，提出教育中研究证据质量使用框架（QURE），确立适切研究证据与审慎参与实施双核心构件，以及个体、组织与系统三层协同使能结构，开辟了从二元采纳走向使用质量的新[[Paradigm|范式]]。
+> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 针对[[International Education|国际教育]]界长期侧重证据质量而忽视使用质量的理论盲区，基于四大领域 112 篇核心文献的跨领域[[Systematic Review|系统综述]]与[[Narrative Synthesis|叙事综合]]，提出教育中研究证据质量使用框架（QURE），确立适切研究证据与审慎参与实施双核心构件，以及个体、组织与系统三层协同使能结构，开辟了从二元采纳走向使用质量的新[[Paradigm|范式]]。
 
 ---
 

@@ -31,6 +31,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[British Educational Research Association]]"
   - "[[Hargreaves 1996 TTA Lecture]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
@@ -49,7 +50,7 @@ updated: 2026-08-26
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2013–2014 年，英国。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 2)]]
-> - **关键主体** 英国教育研究学会（British Educational Research Association, BERA）与英国皇家艺术学会（Royal Society of the Arts, RSA）。
+> - **关键主体** [[British Educational Research Association|英国教育研究学会]]（British Educational Research Association, BERA）与英国皇家艺术学会（Royal Society of the Arts, RSA）。
 > - **制度背景** 随着[[Evidence-Based Education|循证教育]]与以学校为主导的教师培训政策推进，英国及国际学界日益关注如何在教师职前教育与在职专业发展中深化教育科研的支撑作用。
 > - **触发条件** 传统教师教育中理论与实践脱节严重，急需系统厘清科研对提升教学效能与学校自我完善能力的制度路径。
 
@@ -58,7 +59,7 @@ updated: 2026-08-26
 ## 经过
 
 > [!dev-timeline]- 事件经过
-> - **2013–2014 — 联合调查与证据收集** BERA 与 RSA 组建高规格调查委员会，广泛听取中小学校长、教师、大学教育学院学者及政策制定者的实证证据与政策建议。
+> - **2013–2014 — 联合调查与证据收集** [[British Educational Research Association|BERA]] 与 RSA 组建高规格调查委员会，广泛听取中小学校长、教师、大学教育学院学者及政策制定者的实证证据与政策建议。
 > - **2014 — 发布最终报告** 正式发布题为 *Research and the Teaching Profession: Building the Capacity for a Self-Improving Education System* 的里程碑式最终报告。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 2, p. 16)]]
 
 ---

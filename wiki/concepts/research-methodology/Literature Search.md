@@ -46,6 +46,7 @@ related_facts:
   - "[[Education Resources Information Center]]"
   - "[[EPPI-Centre]]"
   - "[[What Works Clearinghouse]]"
+  - "[[British Educational Research Association]]"
   - "[[PISA]]"
   - "[[Education at a Glance]]"
   - "[[Institute of Education Sciences]]"
@@ -200,7 +201,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | 组织 | 说明 |
 > |---|---|
 > | [AERA](https://www.aera.net) | 美国教育研究协会，年会、期刊（AERJ, RER, EEPA 等）、研究网络 |
-> | [BERA](https://www.bera.ac.uk) | 英国教育研究协会，年会、期刊（BERJ）、伦理指南 |
+> | [BERA](https://www.bera.ac.uk) | [[British Educational Research Association\|英国教育研究协会]]，年会、期刊（BERJ）、伦理指南 |
 > | [EERA](https://www.eera.ac.uk) | 欧洲教育研究协会，欧洲教育研究年会（ECER） |
 > | [ACER](https://www.acer.edu.au) | 澳大利亚教育研究理事会，[[PISA]] 澳洲实施方、[[Evaluation Research\|评估研究]] |
 > | [SERA](https://www.sera.ac.uk) | 苏格兰教育研究协会，年会、网络 |

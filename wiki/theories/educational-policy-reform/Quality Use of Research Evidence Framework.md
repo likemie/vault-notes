@@ -76,6 +76,7 @@ related_methods:
   - "[[Framework Synthesis]]"
   - "[[Qualitative Research]]"
   - "[[Effect Size]]"
+  - "[[Narrative Synthesis]]"
   - "[[Quantitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -333,7 +334,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2019 — 跨领域[[Systematic Review|系统综述]]与概念奠基** 莫纳什大学 Q 项目团队针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization|证据使用]][[Document|文献]]展开系统综述与叙事综合，发现各领域均缺乏关于使用质量的直接界定，初步建构 QURE 框架并开展学校利益相关者工作坊迭代。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 184, 199)]]
+> - **2019 — 跨领域[[Systematic Review|系统综述]]与概念奠基** 莫纳什大学 Q 项目团队针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization|证据使用]][[Document|文献]]展开系统综述与[[Narrative Synthesis|叙事综合]]，发现各领域均缺乏关于使用质量的直接界定，初步建构 QURE 框架并开展学校利益相关者工作坊迭代。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 184, 199)]]
 > - **2020 — 框架正式发布** 团队发布奠基性专著报告《Using Evidence Better: Quality Use of Research Evidence Framework》，明确提出双核互构与三层使能系统，将研究使用议程由证据质量转向使用质量（Rickinson et al., 2020）。
 > - **2022 — 同行评议奠基论文发表于《教育研究》** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表同行评议理论论文，详述基于卫生、社会关照、教育与政策四大领域 112 篇核心文献的跨领域系统综述与叙事综合方法，正式确立适切证据与审慎实施双核，并系统阐述个体、组织使能构件及宏观系统影响。（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a, pp. 133–158]]）
 > - **2022 — [[OECD]] [[Knowledge Mobilisation|知识动员]]模型横向比较** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 将 QURE 框架作为考察使用质量的第四代创新知识动员模型纳入横向比较，指出其突破了传统模型只关注使用有无的局限，从个体、组织与系统全链条定义了“用得好”的实质内涵。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 47–50)]]

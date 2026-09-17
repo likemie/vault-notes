@@ -17,13 +17,11 @@ tags:
   - theme/evidence-informed-practice
   - theme/epistemic-governance
 related_concepts:
-  - "[[Epistemic Governance]]"
   - "[[Document]]"
+  - "[[Epistemic Governance]]"
   - "[[Scientific Literacy]]"
   - "[[Dialogue in Education]]"
-  - "[[Epistemology]]"
   - "[[Areas of Knowledge]]"
-  - "[[Research Utilization]]"
   - "[[Professional Judgment]]"
   - "[[Phronesis]]"
   - "[[Literature Search]]"
@@ -31,28 +29,30 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
+  - "[[Research Utilization]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Data Literacy]]"
   - "[[Evaluation Research]]"
   - "[[Epistemic Stances]]"
   - "[[Humility in Learning]]"
+  - "[[Epistemology]]"
   - "[[School Leadership]]"
   - "[[Creativity]]"
   - "[[Normal School]]"
   - "[[Deficit Framing]]"
-  - "[[Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
   - "[[School Enquiry Cycle]]"
+  - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Educational Brokerage Agency]]"
 related_methods:
   - "[[Questionnaire]]"
-  - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
   - "[[Action Research]]"
-  - "[[Intervention Research]]"
+  - "[[Systematic Review]]"
+  - "[[Narrative Synthesis]]"
   - "[[Network Analysis]]"
   - "[[Critical Review]]"
   - "[[Correlational Research]]"
@@ -71,6 +71,7 @@ related_theories:
   - "[[Organizational Culture]]"
   - "[[Theory of Planned Behavior]]"
 related_facts:
+  - "[[British Educational Research Association]]"
   - "[[Research Learning Communities]]"
   - "[[OECD]]"
 confidence: high
@@ -104,7 +105,7 @@ updated: 2026-09-18
 > *And lastly, we must design teacher education and public servant training to hone the capacity to critically engage with and use research of various kinds and from multiple methodologies. This is an essential step in defending scientific literacy as a basic democratic right (Chalmers et al., 2018), key to asserting the importance of and trust in science and the scientific process in education and beyond.*
 
 > [!citation-card] Rickinson et al. 论研究素养与深思熟虑参与的个体使能
-> 英国教育研究协会（BERA, 2014）与埃文斯等（Evans et al., 2017）指出，建立教师的研究素养是促进实践与研究融合的基石。在 [[Quality Use of Research Evidence Framework|QURE]] 框架中，研究素养被明确界定为支撑“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），它要求教师教育与专业发展打破孤立的技能操练，促使专业人员在特定情境中对适切证据展开审慎权衡与批判吸纳。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 142–143)]]
+> [[British Educational Research Association|英国教育研究协会]]（BERA, 2014）与埃文斯等（Evans et al., 2017）指出，建立教师的研究素养是促进实践与研究融合的基石。在 [[Quality Use of Research Evidence Framework|QURE]] 框架中，研究素养被明确界定为支撑“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），它要求教师教育与专业发展打破孤立的技能操练，促使专业人员在特定情境中对适切证据展开审慎权衡与批判吸纳。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 142–143)]]
 >
 > *Building teachers' research literacy involves integrating practice and research... In developing thoughtful engagement with and implementation of appropriate research evidence, research literacy forms a core individual enabler that connects practitioner skillsets and mindsets with [[Organizational Culture|organisational culture]].*
 
@@ -202,7 +203,7 @@ updated: 2026-09-18
 > **双素养协同培育与校本学情锚定** 研究素养不能孤立发展；脱离[[Data Literacy|数据素养]]的研究素养极易使教师根据政策风向或个人偏好追逐学术“热门话题”，导致干预方案看似科学却脱离校本真实学情痛点。推进证据知情学校改进要求职前师资培育与职后专业发展打破学科藩篱，将研究素养（[[Literature Search|文献检索]]与方案[[Transfer Translation Transformation|转译]]）与数据素养（校本数据质检与成因诊断）一体化协同培养，使外部实证方案精准扎根于校本情境。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 165, 167)]]
 
 > [!claim] 证据质量框架视阈下个体使能与系统联动的生态培育
-> **[[Quality Use of Research Evidence Framework|QURE]] 视阈下个体使能与系统联动的生态培育** 里克森等学者在跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review|系统综述]]中指出，个体研究素养构成了实现证据高质量使用不可或缺的微观使能条件。然而，单纯寄望于一线教师自主提升素养是对系统责任的转嫁；英国教育研究协会（BERA, 2014）与沙普尔斯（Sharples, 2013）强调，必须在全系统层面将研究素养培训内置于职前教师教育与准入标准中，并辅以校本领导力支持与跨专业学习网络，使研究素养成为串联适切证据与深思熟虑参与的系统催化剂。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 142–144)]]
+> **[[Quality Use of Research Evidence Framework|QURE]] 视阈下个体使能与系统联动的生态培育** 里克森等学者在跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review|系统综述]]中指出，个体研究素养构成了实现证据高质量使用不可或缺的微观使能条件。然而，单纯寄望于一线教师自主提升素养是对系统责任的转嫁；[[British Educational Research Association|英国教育研究协会]]（BERA, 2014）与沙普尔斯（Sharples, 2013）强调，必须在全系统层面将研究素养培训内置于职前教师教育与准入标准中，并辅以校本领导力支持与跨专业学习网络，使研究素养成为串联适切证据与深思熟虑参与的系统催化剂。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 142–144)]]
 
 ---
 
@@ -257,7 +258,7 @@ updated: 2026-09-18
 > - **2018 — [[Scientific Literacy|科学素养]]确立为公民民主权利** Chalmers 等人（2018）提出公众对研究证据的批判性理解与使用是现代民主社会中公民不可剥夺的基本权利。
 > - **2022 — 技艺模型与专业德性转向** Eriksen（2022）把研究素养界定为专业德性，在技艺模型框架下提出完整性、讲理与灵活性三德性及三种敏感度。
 > - **2022 — 双轨培训拓展与后真相批判免疫** [[OECD|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022]]）将研究素养从教师单轨拓展至“教师教育与公职人员培训”双轨，强调对多元方法论的批判性审议，确立其作为抵御商业营销操纵与后真相偏见的核心防线。
-> - **2022 — QURE 框架确立研究素养为深思熟虑参与的个体使能构件** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策领域的 [[PRISMA]] [[Systematic Review|系统综述]]，将研究素养确立为驱动“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），打破单纯技能[[Deficit Framing|赤字框架]]，强调知识整合与情境化批判审议。
+> - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架确立研究素养为深思熟虑参与的个体使能构件** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策领域的 [[PRISMA]] [[Systematic Review|系统综述]]，将研究素养确立为驱动“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），打破单纯技能[[Deficit Framing|赤字框架]]，强调知识整合与情境化批判审议。
 > - **2023 — 四维操作化与行为模型构建** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] 基于[[Theory of Planned Behavior|计划行为理论]]与[[Research Utilization|研究利用]]模型，提出涵盖意识、态度、技能与使用的四维度量表，实证确立二阶因子结构与科研经验的促进机制。
 > - **2023 — 案例应用与再情境化** Mausethagen & Hermansen (2023) 在挪威学校案例中展示研究素养在实践中的再情境化过程。
 > - **2025 — 赤字批判与专业敏感重构** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判既有文献将研究素养矮化为个体技能赤字的偏见，确立第四代专业敏感型多源知识整合[[Paradigm|范式]]。
@@ -272,7 +273,7 @@ updated: 2026-09-18
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 138, 142–143)]] | 跨卫生、社会关照、教育与公共政策四大领域[[Document\|文献]]库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | 研究参与检索词构成与个体使能构件分析 | 证实研究素养（Research Literacy）是界定研究参与不可或缺的关键词；将个体素养确立为高质量[[Research Utilization\|证据使用]]的基础技能网络与态度构件 | 定性叙事综合证实 | 证实研究素养必须从孤立技能测量走向支持深思熟虑参与的个体使能体系 |
+> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 138, 142–143)]] | 跨卫生、社会关照、教育与公共政策四大领域[[Document\|文献]]库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | 研究参与检索词构成与个体使能构件分析 | 证实研究素养（Research Literacy）是界定研究参与不可或缺的关键词；将个体素养确立为高质量[[Research Utilization\|证据使用]]的基础技能网络与态度构件 | 定性[[Narrative Synthesis\|叙事综合]]证实 | 证实研究素养必须从孤立技能测量走向支持深思熟虑参与的个体使能体系 |
 > | [[Argument_Brown_2017_ER\|Brown et al. (2017, pp. 161–162)]] 引 Brown, Daly & Liou (2016); Godfrey (2016) | 英格兰 43 所小学骨干教师与校领导团队 | 历时一学年、四次跨校工作坊的干预试验与[[Network Analysis\|社会网络分析]]（SNA） | [[Research Learning Communities\|RLC]] 结构化研习协议对教师研究素养、证据融合能力及教研文化的影响 | 显著提升了教师理解、评估与转化正式学术研究的研究素养，促进了专业自信与教学法革新；但选题缺乏前置数据诊断时易陷入追逐热门话题偏差 | 社会网络分析与[[Questionnaire\|问卷]]追踪显著改善 | 证实中介[[Transfer Translation Transformation\|转译]]协议可有效破除教师研究素养壁垒，但研究素养必须与校本[[Data Literacy\|数据素养]]协同方能避免盲目性 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究 | [[Systematic Review\|系统综述]]＋框架综合 | 技能发展与个体能力主题报告频数 | k = 91 项研究（83%）涉及个体技能与素养 | — | 显示既有[[Document\|文献]]高度聚焦于个体技能测量，存在个体层面偏倚 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（PRISMA）流程 | 研究素养调查设计与实证结论 | 13 项[[Questionnaire\|问卷调查]]均测出教师态度积极，但 100% 实证研究报告实际使用有限 | — | 表明仅测量个体研究素养无法解释实际使用困境，存在态度与行动的严重脱节 |

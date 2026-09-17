@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 52
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -19,9 +19,7 @@ tags:
 related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Epistemology]]"
-  - "[[Research Utilization]]"
   - "[[Reflexivity]]"
-  - "[[Document]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Empiricism]]"
   - "[[Hypothesis]]"
@@ -33,13 +31,14 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Dialogue in Education]]"
   - "[[Governing by Numbers]]"
+  - "[[Research Utilization]]"
   - "[[Feedback]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Technical Rationality]]"
   - "[[Paradigm]]"
+  - "[[Technical Rationality]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Teacher Professional Agency]]"
   - "[[Research Literacy]]"
-  - "[[Epistemic Value]]"
   - "[[Variable]]"
   - "[[Ontology]]"
   - "[[International Education]]"
@@ -228,13 +227,11 @@ updated: 2026-09-18
 > 阐明专业判断的有效性并非来自个人封闭经验，而依赖于[[Bounded Rationality|有限理性]]下的信息反馈与协作探究生态。
 
 > [!claim] [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]; [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]]
-> **有限理性、反馈循环与跨层治理** 教师在不确定性和信息赤字条件下开展工作，专业判断依赖持续的反馈（[[Feedback]]）与反思实践循环以克服[[Bounded Rationality|有限理性]]局限。专业判断的健康运作依赖组织支持性环境，包括信任文化、技能培训、协作探究时间与跨界中介支持；在跨层治理与专业共同体中，专业判断能够避免退化为浪漫化的个人偏见，实现向高质量证据整合的跃升。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 5–6)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 12–15)]]
+> **有限理性、反馈循环与跨层治理** 教师在不确定性和信息赤字条件下开展工作，专业判断依赖持续的反馈（[[Feedback]]）与反思实践循环以克服[[Bounded Rationality|有限理性]]局限。专业判断的健康运作依赖组织支持性环境，包括信任文化、技能培训、协作探究时间与跨界中介支持；在跨层治理与专业共同体中，专业判断能够避免退化为浪漫化的个人偏见，实现向高质量证据整合的深化。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 5–6)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 12–15)]]
 
 ---
 
 ### 命题总览
-
-各命题从证据本体、制度治理、整合机制与组织生态四个层面，系统界定了专业判断在现代[[Evidence-Based Education|循证教育]]中的功能定位。
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -247,8 +244,6 @@ updated: 2026-09-18
 ---
 
 ## 概念演变
-
-专业判断的概念演进折射出循证运动由[[Technical Rationality|技术理性]]向[[Reflexivity|反思性]]实践与全景生态的深层转向。
 
 > [!dev-timeline] 概念演变
 > - **1982 — 技术赤字与反思必要性** Luhmann & Schorr 提出教学系统存在固有的技术赤字（Deficit of Technology），即教育因果链条不可完全预测，要求教师必须具备[[Reflexivity|反思性]]判断力。
@@ -266,8 +261,6 @@ updated: 2026-09-18
 
 ## 争议与批评
 
-围绕专业判断在教育决策中的边界，学界展开了多维度的立场论辩与实践反思。
-
 > [!debates] 学术争议
 >
 > > [!axis] 理论辩护与商业化认证的实践脱节
@@ -282,13 +275,9 @@ updated: 2026-09-18
 > > - **技术官僚与商业算法视角** 认为基于大数据的算法分析与标准化操作指南能够剔除教师主观偏倚，实现教学干预效能的最优化。
 > > - **知识型专业批判视角** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 结合批判学者（Facer & Selwyn, 2021; Ulferts, 2021）指出，教学充满不可预测的伦理互动与微观情境变化，依赖算法处方将引发教师严重去技能化（De-skilling），现场专业判断是抵御证据异化的核心防线。
 
-在方法论层面，“黄金标准”与“情境审议”之间的辩证张力贯穿循证治理始终。
-
 > [!tension] 实验黄金标准（What Works） vs 专业价值审议（What Matters）
 > - **实验黄金标准（What Works）** 追求去情境化的普遍因果效度，主张以高等级证据规范教学行为。
 > - **专业价值审议（What Matters）** 坚持教育情境的特殊性与育人伦理，主张由教师在现场行使最高审议权。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 128)]]
-
-在推广专业判断的同时，亦须高度警惕其内生的测量难题与生态依附性。
 
 > [!warning] 适用局限
 > - **情境化能力的测量困境** 专业判断高度依赖微观情境与隐性知识，难以通过标准化量表直接量化，成效评估必须结合多维量化指标与丰富质性描述。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 133)]]
@@ -297,8 +286,6 @@ updated: 2026-09-18
 ---
 
 ## 实证数据
-
-多项大规模调查与跨领域[[Systematic Review|系统综述]]为专业判断的现实流向与[[Epistemic Value|认识论价值]]提供了坚实证据。
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

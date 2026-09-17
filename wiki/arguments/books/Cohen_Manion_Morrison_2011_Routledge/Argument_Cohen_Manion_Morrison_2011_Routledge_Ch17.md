@@ -100,6 +100,7 @@ related_facts:
   - "[[Research Informed Practice Site]]"
   - "[[Evidence-Based Education Institutions]]"
   - "[[Best Evidence Synthesis]]"
+  - "[[British Educational Research Association]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
 related_theories:
@@ -553,7 +554,7 @@ Thomas & Pring（2004, pp. 54–55）从研究设计层面补充了元分析应�
 
 ##### 英国教育研究协会（British Educational Research Association，BERA）指南
 
-> [!info] BERA 系统综述指南（pp. 392–393）
+> [!info] [[British Educational Research Association|BERA]] 系统综述指南（pp. 392–393）
 > - 系统综述问题的制定
 > - 概念框架与纳入/排除标准
 > - 进一步阅读资源

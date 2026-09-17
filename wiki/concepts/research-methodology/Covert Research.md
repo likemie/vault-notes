@@ -23,7 +23,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[British Educational Research Association]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -85,7 +86,7 @@ updated: 2026-07-23
 
 > [!info] 专业协会关于隐蔽研究的伦理准则
 > - **英国社会学协会（BSA, 2002, para. 31–32）** 隐蔽方法的使用在某些情况下可能是正当的，但隐蔽方法违反[[Informed Consent|知情同意]]原则并可能侵犯被研究者的隐私，隐蔽研究者可能需要考虑围绕隐私权的新兴法律框架
-> - **英国教育研究协会（BERA, 2004, para. 12）** 研究者因此必须避免欺骗或诡计，除非其研究设计明确要求这样做以确保收集到适当数据或研究者的福祉不受危害
+> - **[[British Educational Research Association|英国教育研究协会]]（BERA, 2004, para. 12）** 研究者因此必须避免欺骗或诡计，除非其研究设计明确要求这样做以确保收集到适当数据或研究者的福祉不受危害
 > - **美国教育研究协会（AERA, 2000, para. 3）** 欺骗不被鼓励，只有在科学研究所明确必要时才应使用且应被最小化；研究结束后应向参与者和机构代表解释欺骗的原因（要求完全的后续披露，可能阻止某些类型的研究）
 > - Pearson（2009, p. 244）评论道，在考虑隐蔽研究时必须处理**相称性（proportionality）**，对个体和组织造成的潜在伤害应是最小的，且远小于研究产生的公共利益
 

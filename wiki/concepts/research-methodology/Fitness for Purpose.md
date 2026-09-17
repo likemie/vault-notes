@@ -19,13 +19,13 @@ tags:
   - theme/evidence-informed-practice
   - methodology/epistemology
 related_concepts:
-  - "[[Epistemology]]"
   - "[[Research Purpose]]"
   - "[[Champ]]"
   - "[[Pragmatism in China]]"
   - "[[Problem Finding]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
   - "[[Professional Judgment]]"
@@ -48,9 +48,10 @@ related_theories:
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
-  - "[[Systematic Review]]"
   - "[[Mixed Methods Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Systematic Review]]"
+  - "[[Narrative Synthesis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Stratified Sampling]]"
   - "[[Action Research]]"
@@ -93,7 +94,7 @@ updated: 2026-09-18
 > *There is no single blueprint for planning research. Research design is governed by the notion of 'fitness for purpose'. The purposes of the research determine the methodology and design of the research... Fitness for purpose must guide the entire research process.*
 
 > [!citation-card] Rickinson et al. 论适切证据的目的适配性本质
-> 适切的研究证据关乎研究的质量及其情境特异性的适切性。它要求研究不仅在方法学上严谨，而且要适合具体的教育问题、特定的情境脉络以及所卷入的人群（即“目的适配性”）。优质的证据使用绝非对单一等级制研究的教条套用，而是依据目的对研究适切性展开深思熟虑的专业审议。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–141)]]
+> 适切的研究证据关乎研究的质量及其情境特异性的适切性。它要求研究不仅在方法学上严谨，而且要适合具体的教育问题、特定的情境脉络以及所卷入的人群（即“目的适配性”）。优质的[[Research Utilization|证据使用]]绝非对单一等级制研究的教条套用，而是依据目的对研究适切性展开深思熟虑的专业审议。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–141)]]
 >
 > *Appropriate research evidence is about the quality and the context-specific appropriateness of the research... it needs to be not only methodologically rigorous, but also appropriate for the educational issues, the context and the people involved (i.e. 'fitness-for-purpose') (Nutley, Powell, and Davies 2013).*
 
@@ -123,7 +124,7 @@ updated: 2026-09-18
 > - **研究规划全流程支配（Research Planning Dominance）** 目的适配性贯穿研究规划全过程，包括定向决策（边界约束）、设计与方法论（选择具体战术）、数据分析（匹配分析类型）以及呈现与报告（满足受众诉求）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 91)]]
 > - **[[Effect Size|效应量]]实质解释适切性（Substantive Effect Interpretation）** 效应大小的评估必须服务于实际[[Research Purpose|研究目的]]与评估情境，而非仅依赖任意的[[Statistical Significance|统计显著性]]水平（如 $p < .05$）；同一效应量在不同决策目标下具有截然不同的实践价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 339–340)]]
 > - **适切证据的多维拟合构件（Appropriate Evidence Fit）** 在高质量[[Research Utilization|证据使用]]视域下，适切证据由方法严谨性、教育议题适切性、组织情境适配性与涉众[[Cultural Validity|文化适切性]]四维互构而成，从[[Epistemology|认识论]]上取代排他性等级制。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–141)]]
-> - **跨部门[[Systematic Review|系统综述]]纳入准则（Heterogeneous Review Appraisal）** 在质性、量化与[[Mixed Methods Research|混合方法]]异质共存的复杂研究领域，以目的适配性取代机械的方法学刻度尺，支撑多元[[Document|文献]]的筛选、质评与叙事综合。（Popay et al., 2006）
+> - **跨部门[[Systematic Review|系统综述]]纳入准则（Heterogeneous Review Appraisal）** 在质性、量化与[[Mixed Methods Research|混合方法]]异质共存的复杂研究领域，以目的适配性取代机械的方法学刻度尺，支撑多元[[Document|文献]]的筛选、质评与[[Narrative Synthesis|叙事综合]]。（Popay et al., 2006）
 > - **数据分析目的定向性（Purposive Analytic Alignment）** 数据分析手段取决于具体的分析目的（如描述全貌、解释因果、探索主题、检验[[Hypothesis|假设]]或理解个案特征），分析目的直接决定统计模型或[[Coding in Qualitative Research|编码]]策略的选择。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, Ch. 28)]]
 
 > [!logic-map]- 要素关系与适配逻辑
@@ -179,7 +180,7 @@ updated: 2026-09-18
 > 优质[[Research Utilization|证据使用]]绝非对单一实验等级制处方的机械依从，而是通过目的适配性评估多元证据与具体教育问题的拟合度。
 
 > [!claim] 适切证据对单一证据等级制的学理破除
-> **打破证据等级制与确立适切证据基准** 长期以来，[[Evidence-Based Education|循证教育]]陷入将单一黄金标准（[[Randomised Controlled Trials|RCT]]）置于塔尖的技术理性误区。纳特利等（Nutley et al., 2013）与里克森等学者在构建 [[Quality Use of Research Evidence Framework|QURE]] 框架时指出，高质量证据使用的核心在于“适切研究证据”（Appropriate Research Evidence），而“适切性”的核心灵魂正是目的适配性。面对不同的教育目的（如诊断复杂学情、理解师生互动体验、评估规模化项目效能），适配的方法论类型完全不同；质性深度个案对于理解教学机制同样具有至高价值。在跨领域[[Systematic Review|系统综述]]与综合质评中，依据目的适配性而非固定工具标尺，能够有效兼容并包质性与量化[[Document|文献]]，确保证据使用真正扎根于教育现实。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–141, 148)]]
+> **打破证据等级制与确立适切证据基准** 长期以来，[[Evidence-Based Education|循证教育]]陷入将单一黄金标准（[[Randomised Controlled Trials|RCT]]）置于塔尖的[[Technical Rationality|技术理性]]误区。纳特利等（Nutley et al., 2013）与里克森等学者在构建 [[Quality Use of Research Evidence Framework|QURE]] 框架时指出，高质量证据使用的核心在于“适切研究证据”（Appropriate Research Evidence），而“适切性”的核心灵魂正是目的适配性。面对不同的教育目的（如诊断复杂学情、理解师生互动体验、评估规模化项目效能），适配的方法论类型完全不同；质性深度个案对于理解教学机制同样具有至高价值。在跨领域[[Systematic Review|系统综述]]与综合质评中，依据目的适配性而非固定工具标尺，能够有效兼容并包质性与量化[[Document|文献]]，确保证据使用真正扎根于教育现实。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–141, 148)]]
 
 ---
 
@@ -198,7 +199,7 @@ updated: 2026-09-18
 
 > [!dev-timeline] 目的适配性的思想演进脉络
 > - **1985 — 统计推断与[[Critique of Effect Size|效应量批判]]** 菲茨-吉本（Fitz-Gibbon, 1985）将目的适配性引入[[Evaluation Research|评估研究]]，批判[[Statistical Significance|统计显著性]]（$p < .05$）的专断性，倡导根据研究目的评估效应量实用价值。
-> - **2006 — [[Heterogeneity|异质性]][[Systematic Review|系统综述]]与质评准则** 波佩等（Popay et al., 2006）在复杂干预叙事综合中确立目的适配性，为跨定性与定量异质研究的质评协商提供[[Epistemology|认识论]]依据。
+> - **2006 — [[Heterogeneity|异质性]][[Systematic Review|系统综述]]与质评准则** 波佩等（Popay et al., 2006）在复杂干预[[Narrative Synthesis|叙事综合]]中确立目的适配性，为跨定性与定量异质研究的质评协商提供[[Epistemology|认识论]]依据。
 > - **2011 — 教育研究规划全流程支配原则** 科恩等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011]]）系统构建目的适配性体系，确立其在设计、定向、抽样、伦理与数据分析中的核心支配地位。
 > - **2013 — 循证政策中对证据等级制的学理破除** 纳特利等（Nutley, Powell & Davies, 2013）提出打破教条的证据等级制，确立根据公共决策目的评价证据适切性的理论进路。
 > - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架确立目的适配性为“适切证据”基石** 里克森等（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a]]）跨四大领域系统综述，将目的适配性确立为适切研究证据（Appropriate Research Evidence）的核心界定标准，并将其作为驱动深思熟虑参与的核心基底。
@@ -240,7 +241,7 @@ updated: 2026-09-18
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，以目的适配性定义“适切研究证据”，瓦解单一等级制，确立适切证据与深思熟虑参与双核模型。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011)]] — 经典方法论著作《教育研究方法》（第 7 版），在第 6、7、17 与 28 章中系统奠定目的适配性原则，详述其在研究设计、三大情境战术、[[Effect Size|效应量]]实质解释与数据分析定向中的全流程支配地位。
-> - Popay et al. (2006) — 奠基性系统综述方法学指南，确立复杂干预质评中以目的适配性整合定性与定量证据的叙事综合框架。
+> - Popay et al. (2006) — 奠基性系统综述方法学指南，确立复杂干预质评中以目的适配性整合定性与定量证据的[[Narrative Synthesis|叙事综合]]框架。
 > - Nutley et al. (2013) — 提出在公共政策与实践中超越教条证据等级制，以目的适配性为准绳评估证据适切性。
 
 ---

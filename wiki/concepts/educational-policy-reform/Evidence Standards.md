@@ -61,6 +61,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Narrative Synthesis]]"
   - "[[Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Mixed Methods Research]]"
@@ -303,7 +304,7 @@ updated: 2026-09-17
 > | **多维机制拓展命题** | 证据标准必须涵盖因果效应、作用机制、调节[[Variable\|变量]]、实施与成本 | 复杂教育干预评价、跨部门有效性中心评估框架 | Johnson et al. (2015); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 150, 155)]] |
 > | **多维卓越治理命题** | 走出单一因果控制迷思，以构件解构、成本核算、通用工具与社会公平重构标准 | 国家级科研资助导向与各级学区规模化循证采购 | [[Mark Schneider]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, pp. 206–209)]] |
 > | **测量独立与过程规约命题** | 严禁自编测验、锚定高利害国家统考、方案预注册并整合实施过程评估 | 国家级试验资助体系构建、防范研发者自评偏倚与效应量虚高 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
-> | **单兵研究去中心化与贝叶斯汇总命题** | 坚决否定单兵研究对政策的独立主导权，主张以贝叶斯叙事综合整体证据库，杜绝统计检验机械门槛 | 国家教育科研资助与政策影响力评价改革 | [[Stephen Gorard]]; [[Argument_Gorard_2020_ROE\|Gorard et al. (2020, pp. 572–573)]] |
+> | **单兵研究去中心化与贝叶斯汇总命题** | 坚决否定单兵研究对政策的独立主导权，主张以贝叶斯[[Narrative Synthesis\|叙事综合]]整体证据库，杜绝统计检验机械门槛 | 国家教育科研资助与政策影响力评价改革 | [[Stephen Gorard]]; [[Argument_Gorard_2020_ROE\|Gorard et al. (2020, pp. 572–573)]] |
 > | **法定分级与资助锚定命题** | 将四级法定证据标准与竞争性资助深度绑定，以五大约束倒逼供给侧质量跃升 | 联邦教育拨款、全校改革推广与 [[Evidence for ESSA]] 清算评审 | [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）; [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
 
 ---

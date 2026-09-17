@@ -42,6 +42,7 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Null Hypothesis]]"
   - "[[Falsification]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Engagement in and with Research]]"
   - "[[Heterogeneity]]"
   - "[[Causality]]"
@@ -68,8 +69,10 @@ related_methods:
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_facts:
+  - "[[Every Student Succeeds Act]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[OECD]]"
+  - "[[British Educational Research Association]]"
   - "[[National Education]]"
   - "[[Education for All]]"
 related_theories:
@@ -97,7 +100,7 @@ journal: "SAGE Open"
 ## 研究问题
 
 > [!question]
-> 尽管国际政策（如美国《每一个学生成功法案》（Every Student Succeeds Act, ESSA）、《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, [[No Child Left Behind Act 2001|NCLB]]））与专业组织（[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）、英国教育研究学会与英国皇家艺术学会（BERA-RSA））持续强调[[Evidence-Based Education|循证教育]]与以研究为基础的教学实践，但在土耳其等许多国家的现实教育情境中，教师参与科研与运用科研的程度普遍极低（如 Kazancı-Tınmaz, 2020 调查显示 82% 的教师从未开展过任何研究且不检索[[Document|文献]]；土耳其国民教育部（Ministry of [[National Education]], MoNE）公布的 65 项教师专业能力指标中仅有 3 项涉及科研）。更严峻的是，既有教师[[Research Literacy|研究素养]]测量工具普遍存在理论根基薄弱、缺乏严格信效度检验（Lawlor et al., 2019 系统综述指出仅 27.77% 的研究利用工具报告了信度证据，仅 38.8% 报告了效度证据）、且割裂了开展研究与使用研究的系统联系。本研究旨在基于[[Theory of Planned Behavior|计划行为理论]]（Theory of Planned Behavior, TPB）与[[Research Utilization|研究利用]]模型，开发并验证一套具有坚实心理测量学特质的[[Research Literacy Scale for Teachers|教师研究素养量表]]（Research Literacy Scale for Teachers, RLS），并实证检验教师的研究素养水平及其受学术期刊阅读和科研参与经验的影响机制。（pp.1–4）
+> 尽管国际政策（如美国《[[Every Student Succeeds Act|每一个学生成功法案]]》（Every Student Succeeds Act, ESSA）、《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, [[No Child Left Behind Act 2001|NCLB]]））与专业组织（[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）、[[British Educational Research Association|英国教育研究学会]]与英国皇家艺术学会（BERA-RSA））持续强调[[Evidence-Based Education|循证教育]]与以研究为基础的教学实践，但在土耳其等许多国家的现实教育情境中，教师参与科研与运用科研的程度普遍极低（如 Kazancı-Tınmaz, 2020 调查显示 82% 的教师从未开展过任何研究且不检索[[Document|文献]]；土耳其国民教育部（Ministry of [[National Education]], MoNE）公布的 65 项教师专业能力指标中仅有 3 项涉及科研）。更严峻的是，既有教师[[Research Literacy|研究素养]]测量工具普遍存在理论根基薄弱、缺乏严格信效度检验（Lawlor et al., 2019 系统综述指出仅 27.77% 的研究利用工具报告了信度证据，仅 38.8% 报告了效度证据）、且割裂了开展研究与使用研究的系统联系。本研究旨在基于[[Theory of Planned Behavior|计划行为理论]]（Theory of Planned Behavior, TPB）与[[Research Utilization|研究利用]]模型，开发并验证一套具有坚实心理测量学特质的[[Research Literacy Scale for Teachers|教师研究素养量表]]（Research Literacy Scale for Teachers, RLS），并实证检验教师的研究素养水平及其受学术期刊阅读和科研参与经验的影响机制。（pp.1–4）
 
 > [!claim] 核心主张
 > 教师研究素养是一个由研究意识、研究态度、研究技能与研究使用构成的四维度二阶统整结构；其中研究技能作为知觉行为控制[[Variable|变量]]贡献了高达 46.90% 的绝大部分方差解释力，构成态度转化为使用行为的核心控制枢纽；实际从事科研与定期追踪学术期刊能显著打破高态度认同与低实践转化的知行断层，对教师素养各维度产生独立的显著赋能效应。（pp.6–15）
@@ -313,7 +316,7 @@ journal: "SAGE Open"
 
 > [!tension] 教师研究素养的知行结构性断层
 > - **价值认同天花板（态度维度均值 4.37）**
->   教师普遍对科研价值持有极高的认同感（$M=4.37 \pm 0.59$），高度赞同“科学研究对职业成长至关重要”，态度呈现明显的饱和天花板效应。(p. 8)
+>   教师普遍对科研价值持有极高的认同感（$M=4.37 \pm 0.59$），高度赞同“科学研究对职业成长至关重要”，态度呈现明显的饱和[[Floor and Ceiling Effects|天花板效应]]。(p. 8)
 > - **实践行动严重滞后（技能与使用偏低）**
 >   技能（$M=3.74 \pm 0.69$）与使用（$M=3.78 \pm 0.64$）均值显著落后；实际日常定期追踪期刊者仅 $28.3\%$，亲身开展过科研者仅 $31.8\%$，知行脱节极其严峻。(p. 12)
 

@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
     },
     {
+      "basename": "Fitness for Purpose",
+      "path": "wiki/concepts/research-methodology/Fitness for Purpose.md"
+    },
+    {
       "basename": "Monash Q Project",
       "path": "wiki/facts/australia/Monash Q Project.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Knowledge Transfer",
       "path": "wiki/concepts/university-industry-collaboration/Knowledge Transfer.md"
-    },
-    {
-      "basename": "Fitness for Purpose",
-      "path": "wiki/concepts/research-methodology/Fitness for Purpose.md"
     },
     {
       "basename": "Research Literacy",

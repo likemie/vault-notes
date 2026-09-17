@@ -19,13 +19,12 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Threats to Internal Validity]]"
-  - "[[Research Utilization]]"
   - "[[Fitness for Purpose]]"
-  - "[[Epistemology]]"
+  - "[[Research Utilization]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
   - "[[Paradigm]]"
-  - "[[Interpretive Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Postpositivism]]"
   - "[[Constructivist Paradigm]]"
@@ -46,6 +45,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Cultural Validity]]"
   - "[[Document]]"
+  - "[[Interpretive Paradigm]]"
   - "[[Ecological Validity]]"
   - "[[Evidence Standards]]"
   - "[[Preregistration]]"
@@ -69,6 +69,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
+  - "[[Narrative Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Observation Method]]"
@@ -77,7 +78,6 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Rickinson_2022_ER]]"
-  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 status: draft
@@ -99,7 +99,7 @@ updated: 2026-09-17
 > *Internal validity threats are experimental procedures, treatments, or experiences of the participants that threaten the researcher's ability to draw correct inferences from the data about the population in an experiment.*
 
 > [!citation-card] Rickinson et al. 论内部效度与适切证据的多维拟合
-> 适切的研究证据关乎研究质量与其情境特异性的多维适配。它要求证据不仅在方法学上严谨（具备内部效度），而且必须适合具体的教育议题、组织情境脉络以及所卷入的人群（即“[[Fitness for Purpose|目的适配性]]”）。优质的证据使用绝非对单一具备高内部效度研究的盲目套用，而是基于实践目的对多元证据适切性展开的审慎专业审议。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–141)]]
+> 适切的研究证据关乎研究质量与其情境特异性的多维适配。它要求证据不仅在方法学上严谨（具备内部效度），而且必须适合具体的教育议题、组织情境脉络以及所卷入的人群（即“[[Fitness for Purpose|目的适配性]]”）。优质的[[Research Utilization|证据使用]]绝非对单一具备高内部效度研究的盲目套用，而是基于实践目的对多元证据适切性展开的审慎专业审议。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–141)]]
 >
 > *Appropriate research evidence is about the quality and the context-specific appropriateness of the research... it needs to be not only methodologically rigorous, but also appropriate for the educational issues, the context and the people involved (i.e. 'fitness-for-purpose') (Nutley, Powell, and Davies 2013).*
 
@@ -118,7 +118,7 @@ updated: 2026-09-17
 
 ## 概念辨析
 
-> [!contrast-table] 内部效度的范式演进与视角辨析
+> [!contrast-table] 内部效度的[[Paradigm|范式]]演进与视角辨析
 > | 维度 | 量化实验中的内部效度 | 质性探究中的可信性（Credibility） | [[Quality Use of Research Evidence Framework\|QURE]] 框架中的适切证据严谨性 |
 > |---|---|---|---|
 > | **[[Epistemology\|认识论]]前设** | [[Positivism\|实证主义]]与[[Postpositivism\|后实证主义]]；追求客观真实的单一因果律 | 诠释主义与[[Constructivist Paradigm\|建构主义]]；关注主体间性与多重现实 | [[Pragmatic Paradigm\|实用主义]]与情境认识论；追求证据品质与用途的拟合 |
@@ -249,7 +249,7 @@ updated: 2026-09-17
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 135–141)]] | 跨卫生、社会关照、教育与公共政策四大领域[[Document\|文献]]库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Evidence Standards\|证据质量标准]]与内部效度权衡 | 4 位研究员多轮交叉质评证实：仅强调内部效度的等级制（如纯粹 [[Randomised Controlled Trials\|RCT]] 排行榜）在多[[Paradigm\|范式]]复杂实践中易遭边缘化；高质量使用需方法严谨性与情境适切性多维兼顾 | 定性叙事综合确证 | 证实内部效度必须与问题类型、组织脉络相匹配方能驱动高质量[[Research Utilization\|证据使用]] |
+> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 135–141)]] | 跨卫生、社会关照、教育与公共政策四大领域[[Document\|文献]]库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Evidence Standards\|证据质量标准]]与内部效度权衡 | 4 位研究员多轮交叉质评证实：仅强调内部效度的等级制（如纯粹 [[Randomised Controlled Trials\|RCT]] 排行榜）在多[[Paradigm\|范式]]复杂实践中易遭边缘化；高质量使用需方法严谨性与情境适切性多维兼顾 | 定性[[Narrative Synthesis\|叙事综合]]确证 | 证实内部效度必须与问题类型、组织脉络相匹配方能驱动高质量[[Research Utilization\|证据使用]] |
 > | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 8)]] | 经典社会科学与教育实验干预范例库 | [[Experimental Research\|实验研究]]程序[[Meta-analysis\|元分析]]考证 | 受试者、处理与程序三类共 10 种[[Threats to Internal Validity\|内部效度威胁]]的发生率 | [[Random Assignment\|随机化]]分配能控制 80% 以上的受试者初始偏差，但处理扩散与测量工具漂移仍需前置协议（如[[Preregistration\|预注册]]与[[Implementation Fidelity\|实施保真度]]打卡）约束 | 规范方法学案例实证 | 确立实验控制无法彻底消解生态交互，内部效度需与[[Implementation and Process Evaluation\|过程评估]]（IPE）协同保障 |
 
 ---
@@ -258,7 +258,7 @@ updated: 2026-09-17
 
 > [!debates] 学术争议
 >
-> > [!axis] 内部效度优先 vs 生态外部效度优先
+> > [!axis] 内部效度优先 vs 生态[[External Validity|外部效度]]优先
 > > 实验环境应当为了追求极致的因果纯度而牺牲现实生动性，还是应当在自然混乱的课堂生态中容忍适度混杂。
 > >
 > > - **严格实验派** 坚守[[Causality|因果关系]]的确定性是科学评价的前提，缺乏内部效度的结论不仅毫无价值，甚至可能误导公共政策。
