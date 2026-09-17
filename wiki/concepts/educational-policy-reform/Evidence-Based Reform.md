@@ -6,7 +6,7 @@ aliases:
 summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 75
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -81,6 +81,7 @@ related_facts:
   - "[[Pact for Educational Excellence]]"
   - "[[National Diffusion Network]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Peer-Assisted Learning Strategies]]"
   - "[[Lindamood Phoneme Sequencing]]"
   - "[[Reading Recovery]]"
@@ -100,6 +101,7 @@ related_arguments:
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Peterson_2016_IJRME]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
 status: draft
 created: '2026-05-01'
 updated: 2026-09-17
@@ -228,7 +230,7 @@ updated: 2026-09-17
 > - **1997–1998 年 — 联邦萌芽与 CSR 项目** 美国国会通过 Obey-Porter 修正案设立全面学校改革计划（Comprehensive School Reform, CSR），首次将联邦专项资金与采纳经实证检验的全校方案（如 [[Success for All]]）挂钩。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
 > - **2001–2002 年 — 概念奠基与 [[No Child Left Behind Act 2001|NCLB]] 立法** 《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB）全文 110 次提及“科学本位研究”；斯莱文在 AERA 发表杰出讲座，正式提出“[[Evidence-Based Education|证据本位教育]]改革”理论纲领与开发-评估-推广[[Paradigm|范式]]。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–19)]]
 > - **2009–2011 年 — 研发管线与跨国旗舰创设** 美国设立 14 亿美元[[Investing in Innovation Program|创新投资项目]]（i3）分层研发管线；英国政府出资 1.25 亿英镑设立[[Education Endowment Foundation|教育捐赠基金会]]（EEF），开启大规模学校现场实验时代。
-> - **2015 年 — [[Every Student Succeeds Act|ESSA]] 四级法定[[Evidence Standards|证据标准]]确立** 美国通过《每一个学生成功法》（ESSA 2015），正式在联邦法典中确立 TIER 1–4 证据等级，并将 Title I 改进基金与强/中/有希望证据刚性绑定。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
+> - **2015 年 — [[Every Student Succeeds Act|ESSA]] 四级法定[[Evidence Standards|证据标准]]确立** 美国通过《每一个学生成功法》（ESSA 2015），正式在联邦法典中确立 TIER 1–4 证据等级，并将 [[Title I of the Elementary and Secondary Education Act|Title I]] 改进基金与强/中/有希望证据刚性绑定。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
 > - **2017 年 — 审查中枢上线与跨国扩散** [[Evidence for ESSA]] 评级平台正式上线；中国发布《华东师范大学宣言》，开启大规模教育实证研究倡导。[[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021, p. 14)]]
 > - **2019–2021 年 — [[Response to Proven Instruction|RTPI]] 方案成型与全球反思[[Dialogue in Education|对话]]** 斯莱文提出以循证方案充实三层支持的循证干预反应（Response to Tutoring/Proven Intervention, RTPI）蓝图；国际特刊系统总结美、英、中、比等七国实践与学术反思。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 27–29)]]; [[Argument_Cheung_2021_ECNUROE|(Cheung & Xie, 2021)]]
 
@@ -241,17 +243,17 @@ updated: 2026-09-17
 > > [!axis] 实验方法（[[Randomised Controlled Trials|RCT]]）的优先地位 vs [[External Validity|外部效度]]与方法多元论
 > > 争论 EBR 将 RCT 置于证据金字塔顶端是否构成对特定研究方法的特权化。
 > >
-> > - **循证规范派（Slavin, 2019）** 遵循方法匹配问题原则（Method-to-Question [[Matching]]）：当核心问题是“某方案相比替代方案是否有效”时，实验设计是最佳设计；大样本整群设计与[[Hierarchical Linear Model|分层线性模型]]（Hierarchical Linear Model, HLM）分析已有效保障了外部概化力。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 26, 29)]]
-> > - **[[Critical Realism|批判实在论]]与方法多元论（Wrigley, 2018; Cowen, 2019; Biesta, 2010）** 指出 RCT 依赖高度受控环境，教师的主观热情既是干预显效的[[Necessary and Sufficient Conditions|必要条件]]也是实验污染源；过度聚焦“何者有效”排除了“为何有效”、“对谁有效”及质性情境理解。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, pp. 5–7)]]; [[Argument_Cowen_2019_ERE|(Cowen, 2019)]]
->
+> > - **循证规范派** 遵循方法匹配问题原则（Method-to-Question [[Matching]]）：当核心问题是“某方案相比替代方案是否有效”时，实验设计是最佳设计；大样本整群设计与[[Hierarchical Linear Model|分层线性模型]]（Hierarchical Linear Model, HLM）分析已有效保障了外部概化力。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 26, 29)]]
+> > - **[[Critical Realism|批判实在论]]与方法多元论** 指出 RCT 依赖高度受控环境，教师的主观热情既是干预显效的[[Necessary and Sufficient Conditions|必要条件]]也是实验污染源；过度聚焦“何者有效”排除了“为何有效”、“对谁有效”及质性情境理解。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, pp. 5–7)]]; [[Argument_Cowen_2019_ERE|(Cowen, 2019)]]; [[Argument_Biesta_2010_SPE|(Biesta, 2010)]]
+> >
 > > [!axis] 预包装结构化项目采纳 vs 教师微观情境专业裁量
 > > 争论学校究竟应当严格执行标准化商业项目，还是依靠教师专业智慧进行自适应调整。
 > >
-> > - **方案保真派（Slavin, 2019）** 坚信没有高保真度就没有效果，反对将教育改革责任推给教师自研，主张提供完整教材与培训。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 22)]]
-> > - **专业能动性派（Biesta, 2010; Peterson, 2016）** 强调教育是目的性实践，教师需要基于伦理判断“什么是教育上值得做的”；且黑箱项目在跨校推广时面临结构性改编阻力，应转向提炼可迁移的教学微观机制。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 499–501)]]; [[Argument_Peterson_2016_IJRME|(Peterson, 2016, pp. 301–305)]]
+> > - **方案保真派** 坚信没有高保真度就没有效果，反对将教育改革责任推给教师自研，主张提供完整教材与培训。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 22)]]
+> > - **专业能动性派** 强调教育是目的性实践，教师需要基于伦理判断“什么是教育上值得做的”；且黑箱项目在跨校推广时面临结构性改编阻力，应转向提炼可迁移的教学微观机制。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 499–501)]]; [[Argument_Peterson_2016_IJRME|(Peterson, 2016, pp. 301–305)]]
 >
 > > [!axis] 中文教育哲学传统对证据本位[[Paradigm|范式]]的五类本土质疑
-> > 中国学者对[[Positivism|实证主义范式]]的系统学术审思（Slavin et al., 2021, pp. 15–17）：
+> > 中国学者对[[Positivism|实证主义范式]]的系统学术审思（[[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, pp. 15–17]]）：
 > >
 > > - **定义之争（石中英）** 区分广义数据观察实证与狭义程序化定量实证；
 > > - **“统计主义”批判（李军）** 警惕聚焦方法而忽视问题、将研究窄化为统计操作而排斥教育价值与情感；
@@ -261,7 +263,7 @@ updated: 2026-09-17
 
 > [!warning] 适用局限
 > - **证据供给不平衡** K–12 早期阅读和初等数学领域强证据丰富，但在艺术、高中心理健康和科学探究领域，合规项目依然匮乏。
-> - **清算中心评级[[Heterogeneity|异质性]]** 跨机构调查显示（Wadhwa et al., 2024），不同[[Educational Evidence Clearinghouses|证据清算中心]]由于门槛、[[Attrition|流失]]率标准和[[Effect Size|效应量]]算法不同，对同一项目的评级一致率仅约 30%，表明审查平台本身亦需方法学透明度审视。
+> - **清算中心评级[[Heterogeneity|异质性]]** 跨机构调查显示（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]），不同[[Educational Evidence Clearinghouses|证据清算中心]]由于门槛、[[Attrition|流失]]率标准和[[Effect Size|效应量]]算法不同，对同一项目的评级一致率仅约 30%，表明审查平台本身亦需方法学透明度审视。
 
 ---
 

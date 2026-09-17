@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Education Endowment Foundation]]"
   - "[[Comprehensive School Reform Program]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
 confidence: high
@@ -115,5 +116,5 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，回顾美国联邦创新扩散史，将 1980 年代国家扩散网络（NDN）与 1990 年代 CSR 确立为[[Evidence-Based Education|循证教育]]改革（[[Evidence-Based Reform|EBR]]）在组织动员与跨校扩散维度的制度先驱。
-> - [[Comprehensive School Reform Program]] — 继承 NDN 扩散逻辑的 1997 年全面学校改革计划，为采纳全校模型的 Title I 学校提供每年 3 万美元专项津贴。
+> - [[Comprehensive School Reform Program]] — 继承 NDN 扩散逻辑的 1997 年全面学校改革计划，为采纳全校模型的 [[Title I of the Elementary and Secondary Education Act|Title I]] 学校提供每年 3 万美元专项津贴。
 > - [[Education Innovation and Research]] — 现代联邦分层证据研发与规模化资助计划，为外部方案的严格因果检验与全美普及提供常态化公共财政支撑。

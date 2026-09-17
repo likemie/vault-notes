@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Evidence for ESSA]]"
   - "[[ROOTS]]"
@@ -61,7 +62,7 @@ updated: 2026-09-17
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2000 年代后期全美强化数学补救教学与响应干预（[[Response to Intervention|RTI]]）机制推广期，经过独立试验评估后，作为主流商业数学强化干预课程常态化运行至今。
-> - **发起方与资助机制** 培生教育出版集团研发编制，联合全美多州学区开展实证对照评估，由学区利用联邦 Title I 专项资金采购实施。
+> - **发起方与资助机制** 培生教育出版集团研发编制，联合全美多州学区开展实证对照评估，由学区利用联邦 [[Title I of the Elementary and Secondary Education Act|Title I]] 专项资金采购实施。
 > - **覆盖范围与对象** 全美公立小学三年级与五年级经基线测验筛查处于全班后 20%–25% 的数学学困儿童。
 > - **核心问题导向** 攻克小学中高年级学生在多位数运算、分数萌芽及文字问题中的概念卡点，探索由低成本教学助教带领略大规模式微组（1:6–8）开展数学补救的组织可行性。
 

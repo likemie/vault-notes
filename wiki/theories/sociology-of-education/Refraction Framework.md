@@ -5,10 +5,10 @@ aliases:
 summary: "Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - refraction-framework
   - inequality
@@ -32,6 +32,7 @@ related_methods:
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Coleman Report 1966]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 ## 核心主张
@@ -74,7 +75,7 @@ updated: 2026-08-20
 > 1. **课程整合（curriculum consolidation）** 学校按年龄分组，使技能水平差异极大的儿童接触相同的课程挑战。ECLS-K 数据显示 40% 的幼儿园儿童阅读能力超过底部 10% 的一年级学生，且少数幼儿园儿童的阅读能力超过五年级学生——但绝大多数按年龄分组的儿童留在同年级，这使得高能力学生难以在低于其水平的材料中获得学业进步。这一做法可能是补偿性的。
 >    > 例：如果一个幼儿园儿童已经能读五年级水平的书，却被放在幼儿园教室里学习字母，那么她的学业进步速度将被系统性地"刹车"，而落后同龄人的同学则获得赶上来的机会。
 >
-> 2. **向弱势群体倾斜的资源分配（targeted resources）** Title 1、Head Start、1973 年《康复法》、1990 年《美国残疾人法》等政策旨在改善弱势儿童的学校条件。2007 年肯塔基州数据：平均每位特殊需求儿童获额外 USD 11,970/年，而天才儿童仅获额外 USD 62/年（Seiler et al., 2008, cited in [[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.7]]）。
+> 2. **向弱势群体倾斜的资源分配（targeted resources）** [[Title I of the Elementary and Secondary Education Act|Title 1]]、Head Start、1973 年《康复法》、1990 年《美国残疾人法》等政策旨在改善弱势儿童的学校条件。2007 年肯塔基州数据：平均每位特殊需求儿童获额外 USD 11,970/年，而天才儿童仅获额外 USD 62/年（Seiler et al., 2008, cited in [[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.7]]）。
 >
 > 3. **教师的平等主义倾向（teacher egalitarian dispositions）** 教师群体与非教师群体在态度上存在系统性差异。GSS 数据：47% 的非教师认为"缺乏努力"是贫困的"非常重要"原因，而教师仅 32%。全国教师调查：80% 的教师表示"学业困难学生"最可能获得一对一关注，仅 5% 表示"学业超前的学生"（Duffett, Farkas & Loveless, 2008, cited in Downey & Condron, 2016, p.7）。
 

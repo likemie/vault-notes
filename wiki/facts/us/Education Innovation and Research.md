@@ -13,7 +13,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -53,6 +53,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
   - "[[Success for All]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
@@ -114,7 +115,7 @@ updated: 2026-09-17
 > - **发起与资助方** 美国联邦教育部初等与中等教育办公室，负责指南发布、专家盲审立项与合规监管。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 23–24)]]
 > - **独立评估机构** 独立于方案开发者的专业研究机构与高校评估团队，承担[[Random Assignment|随机分组]]、[[Pre-test and Post-test|前测]]后测、数据分析与独立撰写评估报告。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 24–27)]]
 > - **项目开发与实施方** 大学研发中心、非营利组织（如 [[Success for All]] 基金会）及学区联合体，负责教学方案高保真度落地。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 24–25)]]
-> - **受试与受益对象** 全美 K-12 公立学校师生，重点涵盖处境不利学生与高贫困 Title I 学区。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 25–28)]]
+> - **受试与受益对象** 全美 K-12 公立学校师生，重点涵盖处境不利学生与高贫困 [[Title I of the Elementary and Secondary Education Act|Title I]] 学区。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 25–28)]]
 
 ---
 

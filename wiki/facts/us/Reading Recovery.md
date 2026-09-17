@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_persons:
 related_facts:
   - "[[Investing in Innovation Program]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
   - "[[Sound Partners]]"
@@ -94,7 +95,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 项目推进历程
 > - **1970 年代 — 新西兰研发与理论成型期** 玛丽·克莱通过对儿童早期阅读行为的[[Qualitative Observation|质性观察]]与临床测验，系统研发 Reading Recovery 干预规程。
-> - **1984–2009 — 北美扩散与跨国规模化期** 俄亥俄州立大学建立全美培训中心网络，广泛进入各州公立小学 Title I 辅导项目。
+> - **1984–2009 — 北美扩散与跨国规模化期** 俄亥俄州立大学建立全美培训中心网络，广泛进入各州公立小学 [[Title I of the Elementary and Secondary Education Act|Title I]] 辅导项目。
 > - **2010–至今 — 联邦 i3 验证与成本效益论辩期** 获得联邦 i3 计划 4500 万美元规模化资助并完成大型全美多中心 [[Randomised Controlled Trials|RCT]] 评估，同时在[[Evidence-Based Education|循证教育]]界引发与教学[[Teaching Assistant|助教]]辅导模式的成本效益对比争鸣。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 23–24, 28)]]
 
 ---

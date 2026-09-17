@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 76
+fact_related_count: 77
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -88,6 +88,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Education Endowment Foundation]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Open Court Reading]]"
@@ -142,7 +143,7 @@ updated: 2026-09-17
 > - **2001 — [[No Child Left Behind Act 2001|NCLB]] 法案确立科学标准** 《不让一个孩子掉队法案》要求联邦资助项目必须具备严格科学证据支撑，直接推动设立国家级因果审查清算中心([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
 > - **2002 — [[Institute of Education Sciences|IES]] 正式设立 WWC 审查机制** 确立以医学[[Clinical Trial|临床试验]]为蓝本的[[Causality|因果推断]]规程与审查手册（Handbook）体系。
 > - **2010 — [[Single-Subject Design|单一被试设计]]标准确立** 发布单一被试设计（Single-Subject Design, [[Single-Case Design|SCD]]）试点标准，确立[[Internal Validity|内部效度]]门控与 5-3-20 规则([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460]])。
-> - **2015 — [[Every Student Succeeds Act|ESSA]] 法案法定绑定** 《每个学生都成功法案》（ESSA）确立四级证据体系，WWC 成为学区申请联邦第 1 篇（Title I）学校改善拨款时认定“强证据（TIER 1）”与“中等证据（Tier 2）”的法定裁定基准。
+> - **2015 — [[Every Student Succeeds Act|ESSA]] 法案法定绑定** 《每个学生都成功法案》（ESSA）确立四级证据体系，WWC 成为学区申请联邦第 1 篇（[[Title I of the Elementary and Secondary Education Act|Title I]]）学校改善拨款时认定“强证据（TIER 1）”与“中等证据（Tier 2）”的法定裁定基准。
 > - **2022 — Handbook v5.0 升级与十五年存续审视** 优化集群校正、[[Attrition|流失]]边界与[[Regression Discontinuity Design|断点回归设计]]（Regression Discontinuity Design, RDD）标准；[[OECD|经合组织]]回顾确认其为 2007 年 6 大国际标杆中保持持续完全活跃的唯二幸存者之一([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
 
 > [!policy-context] 资助体系与国家级技术保障
@@ -214,7 +215,7 @@ updated: 2026-09-17
 
 > [!indicators]- 影响力维度与指标
 > - **库容规模第一** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，WWC 贡献了 **537 个项目**（占比 39.5%），收录规模居全美首位([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
-> - **法定行政约束力** [[Every Student Succeeds Act|ESSA]] 法案直接将联邦每年数十亿美元的 Title I 拨款与 WWC 认证标准挂钩，赋予其极高的行政硬约束。
+> - **法定行政约束力** [[Every Student Succeeds Act|ESSA]] 法案直接将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 拨款与 WWC 认证标准挂钩，赋予其极高的行政硬约束。
 > - **方法学溢出效应** 其[[Attrition|流失]]模型、集群随机校正与基线等值性规范已被国际计量经济学界与[[Meta-analysis|元分析]]研究者奉为跨学科黄金标准。
 
 > [!stat-cards]- WWC 评价重叠度与多重评级表现

@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 20
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -43,10 +43,13 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
+  - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
+  - "[[Argument_Ginsberg_2024_EP]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -105,7 +108,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > - **宽松** 项目仅需**一项**研究即可达标——这意味着随着更多严格研究完成，标准在未来可能收紧
 
 > [!critique] 学区资金实证审计：单项门槛与全量证据的实质落差
-> [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] 对美国一所大型城市学区连续三年（2016–2019）共计 2.88 亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 联邦资金进行了逐项实证审计，检验 ESSA 证据标准的真实执行效力：
+> [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] 对美国一所大型城市学区连续三年（2016–2019）共计 2.88 亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 联邦资金进行了逐项实证审计，检验 ESSA [[Evidence Standards|证据标准]]的真实执行效力：
 > - **法定单项研究标准下的合规假象** 依据 ESSA 法定定义（仅需一项符合 Tier I–III 的合格研究），该学区超过 95%（直接按学区全校项目划定甚至达 99%）的资金投向了符合法定标准的实践，极低的单项研究门槛使学区能够在不改变既有采购惯性的情况下轻易实现形式合规。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, p. 174)]]
 > - **全量证据综合下的断崖式下跌** 当参照美国教育部推荐的“全量证据体”（Full body of evidence）在四大证据库（[[What Works Clearinghouse|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation|EEF]], ERIC）中进行综合评级时，获积极或多半积极证据支持的资金比例跌破 60%（49%–58%），表明 42%–51% 的联邦资金仍流向了未获稳定实证支持或学段并不匹配的干预措施。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 175–177)]]
 > - **政策生效前后支出无实质变化** ESSA 证据要求自 2017–2018 学年正式落地后，学区投向循证实践的资金比例未见实质性增长（仅在 56%–60% 窄幅波动），证实单纯法定声明单项证据门槛无法确保基层学区切实转向循证决策。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 175–176)]]

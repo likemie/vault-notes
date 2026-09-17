@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How evidence-based reform will transform research and practice in education"
 argument_kind: "journal-article"
-argument_related_count: 96
+argument_related_count: 97
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -105,6 +105,7 @@ related_facts:
   - "[[Evidence for ESSA]]"
   - "[[Institute of Education Sciences]]"
   - "[[National Diffusion Network]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Enhanced Core Reading Instruction]]"
   - "[[Peer-Assisted Learning Strategies]]"
@@ -295,7 +296,7 @@ updated: 2026-09-17
 > [!policy-design] 政策财政杠杆传导机制与历史先例
 > - **早期技术扩散先驱：[[National Diffusion Network|国家扩散网络]]（NDN 1974–1995）** 联邦教育部设立国家扩散网络（National Diffusion Network, NDN），通过各州设立“州促进员”网络跨区域推广 500+ 个经审查的教学模型，覆盖数以万计的学校，从实践上证实了基层学校对外部成熟优质模型的规模化采纳意愿。（pp. 6–7）
 > - **财政激励先例：全面学校改革计划（CSR 1997/1998）** 联邦国会通过 Obey-Porter 修正案设立 CSR 专项基金，每年拨付 2 亿美元专项补贴采纳经过实证检验的全校改革方案（如 [[Success for All]]、[[Direct Instruction]] 等）的薄弱学校；该政策直接撬动了全美数百所学校的主动转型，证明财政激励对重塑实践具有决定性作用。（p. 24）
-> - **ESSA Title I 薄弱学校刚性约束** 各州必须设立 7% 的 Title I 学校改进专项基金；[[Academic Achievement|学业表现]]处于全州倒数 5% 的综合支持与改进学校（Comprehensive Support and Improvement, CSI），申请资助时必须强制采纳符合 ESSA 强（Strong）、中等（Moderate）或有希望（Promising）证据标准的干预项目。
+> - **ESSA [[Title I of the Elementary and Secondary Education Act|Title I]] 薄弱学校刚性约束** 各州必须设立 7% 的 Title I 学校改进专项基金；[[Academic Achievement|学业表现]]处于全州倒数 5% 的综合支持与改进学校（Comprehensive Support and Improvement, CSI），申请资助时必须强制采纳符合 ESSA 强（Strong）、中等（Moderate）或有希望（Promising）证据标准的干预项目。
 > - **Title II 竞争性加分与州级扩散** 联邦教师专业发展拨款给予采纳循证方案的学区竞争性加分；亚利桑那、路易斯安那、明尼苏达、马里兰及俄亥俄等州更进一步将 ESSA 标准扩展至州级财政拨款与项目准入目录。（p. 25）
 
 ---
@@ -322,7 +323,7 @@ updated: 2026-09-17
 
 在基础阅读领域，已有大量成熟方案经受住了严格的第三方因果检验。（pp. 27–28）
 
-> [!contrast-table] 基础阅读领域符合 ESSA 强与中等证据标准的代表性干预方案（Slavin, 2019, Table 1）
+> [!contrast-table] 基础阅读领域符合 ESSA 强与中等证据标准的代表性干预方案（原表 1）
 > | 教学层级与模式 | 项目名称 | 验证学段 | 验证单位 | 核心研究数 | 平均效应量（$ES$） | ESSA 证据等级 |
 > |---|---|---|---|---|---|---|
 > | **多层全校方案（Tier 1 + 辅导）** | [[Success for All]] | K–2 年级 | 学校 | 5 项 | $+0.41$ | 强证据（Strong） |
@@ -350,7 +351,7 @@ updated: 2026-09-17
 
 在小学数学领域，辅导干预同样呈现出高度稳健的实证效益。（p. 28）
 
-> [!contrast-table] 初等数学领域符合 ESSA 强与中等证据标准的代表性干预方案（Slavin, 2019, Table 2）
+> [!contrast-table] 初等数学领域符合 ESSA 强与中等证据标准的代表性干预方案（原表 2）
 > | 教学层级与模式 | 项目名称 | 验证学段 | 验证单位 | 核心研究数 | 平均效应量（$ES$） | ESSA 证据等级 |
 > |---|---|---|---|---|---|---|
 > | **小组辅导：专业教师（Tier 2）** | [[Number Rockets]] | 1 年级 | 1:2–3 小组 | 1 项 | $+0.34$ | 强证据（Strong） |

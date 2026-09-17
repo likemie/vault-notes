@@ -12,9 +12,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 33
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "美国联邦政府（U.S. Congress & White House）"
 tags:
@@ -49,6 +49,7 @@ related_methods:
   - "[[Effect Size]]"
 related_persons: []
 related_facts:
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
@@ -62,6 +63,7 @@ related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Wolf_2020_JREE]]"
+  - "[[Argument_Ginsberg_2024_EP]]"
 related_instruments: []
 confidence: high
 status: stable
@@ -76,7 +78,7 @@ updated: 2026-09-17
 
 > [!policy-context] 政策背景
 > - **发布时间 / 签署主体** 美国国会于 2015 年 12 月两党压倒性高票通过（参议院 85:12，众议院 359:64），由贝拉克·奥巴马（Barack Obama）总统正式签署生效。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
-> - **适用地区 / 覆盖对象** 全美 50 州公立中小学校（K–12），重点规范接受联邦 Title I 资助的学校，尤其是[[Academic Achievement|学业表现]]处于全州倒数 5% 的综合支持与改进学校（Comprehensive Support and Improvement, CSI）以及存在群体差距的针对性支持与改进学校（Targeted Support and Improvement, TSI）。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]
+> - **适用地区 / 覆盖对象** 全美 50 州公立中小学校（K–12），重点规范接受联邦 [[Title I of the Elementary and Secondary Education Act|Title I]] 资助的学校，尤其是[[Academic Achievement|学业表现]]处于全州倒数 5% 的综合支持与改进学校（Comprehensive Support and Improvement, CSI）以及存在群体差距的针对性支持与改进学校（Targeted Support and Improvement, TSI）。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]
 > - **问题背景** 全面修正 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》中僵化严苛的联邦全面达标要求（Adequate Yearly Progress, AYP）与惩罚性行政问责机制；在向各州下放教育治理与评价自主权的同时，建立以因果证据为导向的精准改进与财政激励体系。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
 > - **制度位置** 属于美国 1965 年《初等与中等教育法》（Elementary and Secondary Education Act, ESEA）的第七次全面重新授权，标志着美国基础教育治理从惩罚性行政问责向证据本位精准改进与分级激励的历史性跨越。
 
@@ -85,7 +87,7 @@ updated: 2026-09-17
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 《每一个学生成功法》（Every Student Succeeds Act, ESSA 2015）在向各州下放问责评价自主权的同时，于联邦立法中确立了由四个层级构成的法定因果[[Evidence Standards|证据标准]]，并将联邦与州 Title I 学校改进专项拨款与采纳高证据等级干预方案实施刚性绑定。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 23, 25)]]
+> 《每一个学生成功法》（Every Student Succeeds Act, ESSA 2015）在向各州下放问责评价自主权的同时，于联邦立法中确立了由四个层级构成的法定因果[[Evidence Standards|证据标准]]，并将联邦与州 [[Title I of the Elementary and Secondary Education Act|Title I]] 学校改进专项拨款与采纳高证据等级干预方案实施刚性绑定。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 23, 25)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 保障所有学生享有公平、公正的高质量教育机会，消除[[Academic Achievement|学业成就]]差距；通过法定证据门槛确保公共教育投资产出最大化学业回报。
@@ -118,7 +120,7 @@ updated: 2026-09-17
 
 > [!actor-grid] 实施角色分工
 > - **发布与统筹主体** 美国联邦教育部（ED）及所属[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES），负责制定政策实施指南与证据评级规范。
-> - **州级管理主体** 各州教育厅（SEAs），负责制定州级问责方案、划拨 7% Title I 改进基金及编制州级合规干预目录。
+> - **州级管理主体** 各州教育厅（SEAs），负责制定州级问责方案、划拨 7% [[Title I of the Elementary and Secondary Education Act|Title I]] 改进基金及编制州级合规干预目录。
 > - **地方执行主体** 地方学区（LEAs）与公立学校，负责针对薄弱学校挑选并高保真实施符合 TIER 1–3 标准的阅读、数学及全校改革方案。
 > - **方案研发与评估方** 大学研究中心（如 JHU CRRE）、独立科研咨询机构与教育出版商，承担项目研发与第三方独立因果评估。
 
@@ -132,7 +134,7 @@ updated: 2026-09-17
 ## 效果与评价
 
 > [!indicators]- 评价指标
-> - **投入指标** 联邦 Title I 专项拨款落实规模（各州 7% 留存比例）、撬动的州级自有教育经费。
+> - **投入指标** 联邦 [[Title I of the Elementary and Secondary Education Act|Title I]] 专项拨款落实规模（各州 7% 留存比例）、撬动的州级自有教育经费。
 > - **过程指标** 申请资助方案的证据等级分布（TIER 1–3 占比）、薄弱学校方案[[Implementation Fidelity|实施保真度]]（Implementation Fidelity）。
 > - **结果指标** CSI/TSI 学校阅读与数学标准化测验学业增值（[[Effect Size|效应量]] $ES$）、特定学习障碍转介率与[[Grade Retention|留级]]率下降幅度。
 
@@ -155,14 +157,14 @@ updated: 2026-09-17
 > > [!axis] 法定证据等级的因果效度 vs [[Teacher Professional Agency|教师专业自主权]]
 > > 关于联邦通过法定证据等级强制约束采购是否会剥夺一线教师专业裁量权的争论。
 > >
-> > - **循证改革阵营（Slavin, 2019）** 强调严格对照实验与法定证据分级是确保公款有效性、消除意识形态钟摆与保护处境不利儿童的唯一科学保障。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23, 29)]]
-> > - **[[Critical Pedagogy|批判教育学]]阵营（Gorard et al., 2020）** 质疑将教育决策过度窄化为 [[Randomised Controlled Trials|RCT]] 证据评级可能导致技术官僚主义，且不同学科证据供给极不平衡。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 596–598)]]
+> > - **循证改革阵营（[[Argument_Slavin_2019_EP|Slavin, 2019]]）** 强调严格对照实验与法定证据分级是确保公款有效性、消除意识形态钟摆与保护处境不利儿童的唯一科学保障。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23, 29)]]
+> > - **[[Critical Pedagogy|批判教育学]]阵营（[[Argument_Gorard_2020_ROE|Gorard et al., 2020]]）** 质疑将教育决策过度窄化为 [[Randomised Controlled Trials|RCT]] 证据评级可能导致技术官僚主义，且不同学科证据供给极不平衡。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 596–598)]]
 >
 > > [!axis] 证据供给非均衡性 vs 薄弱学区采购选择困境
 > > 在 K–12 早期阅读和初等数学领域存在较丰富的 TIER 1/2 证据，但在艺术、科学探究以及高中心理健康领域，符合高标准证据的项目仍显匮乏，导致部分学校在采购时面临选择狭窄困境。
 >
 > > [!axis] 单项合格研究门槛 vs 全量证据体审视
-> > ESSA 允许仅凭“一项符合要求的实证研究”即可满足 Tier 1–3 证据规定，导致地方学区能够轻而易举实现超过 95% 的形式合规；然而 [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024, pp. 163, 174–177)]] 对大型城市学区三年间 2.88 亿美元 Title I 资金的实证审计显示，若依据全量证据体综合评估，获稳定积极支持的资金比例不足 60%，且法案生效前后循证支出比例并未显著提高。
+> > ESSA 允许仅凭“一项符合要求的实证研究”即可满足 Tier 1–3 证据规定，导致地方学区能够轻而易举实现超过 95% 的形式合规；然而 [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024, pp. 163, 174–177)]] 对大型城市学区三年间 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act|Title I]] 资金的实证审计显示，若依据全量证据体综合评估，获稳定积极支持的资金比例不足 60%，且法案生效前后循证支出比例并未显著提高。
 
 > [!warning] 适用局限
 > 许多薄弱学区缺乏专业的[[Data Literacy|数据素养]]去解读复杂的方法学评估报告，容易产生对外部中介咨询公司的次生依赖。
@@ -176,7 +178,7 @@ updated: 2026-09-17
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[No Child Left Behind Act 2001]] | 前身法案 | 2001 年布什政府教育主法，ESSA 全面取代其严苛惩罚机制 |
-> | [[Title I of the Elementary and Secondary Education Act]] | 核心资助载体 | 联邦最大 K-12 专项拨款，ESSA 证据标准的主要资金实施依托 |
+> | [[Title I of the Elementary and Secondary Education Act]] | 核心资助载体 | 联邦最大 K-12 专项拨款，ESSA [[Evidence Standards\|证据标准]]的主要资金实施依托 |
 > | [[ESSA 2015 Evidence Standards]] | 核心构件 | ESSA 法案中界定 [[Top Institute for Evidence-Based Education Research\|TIER]] 1–4 证据层级的技术标准规范 |
 > | [[Evidence for ESSA]] | 审查平台 | 专为[[School Leadership\|学校领导]]者提供对齐 ESSA 证据等级审查的非营利平台 |
 > | [[What Works Clearinghouse]] | 证据中枢 | 评估和认证符合 ESSA [[Evidence Standards\|证据标准]]干预的核心官方平台 |
@@ -190,7 +192,7 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 详述 ESSA 证据分级在推动全美循证改革落地与三条件框架中的制度基石作用。
-> - [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] — 对大型城市学区开展 2.88 亿美元 Title I 资金审计，揭示 ESSA 单项合格研究门槛导致的名义合规与全量证据实质有效性之间的结构性断层。
+> - [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] — 对大型城市学区开展 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act|Title I]] 资金审计，揭示 ESSA 单项合格研究门槛导致的名义合规与全量证据实质有效性之间的结构性断层。
 > - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 对比英美[[Evidence Standards|证据标准]]，剖析 ESSA 证据层级在因果推论中的优势与潜在漏洞。
 > - [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] — 实证检验各州在执行 ESSA 证据标准过程中的政策扩围与地方创新。
 \n

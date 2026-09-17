@@ -8,7 +8,7 @@ summary: "美国著名教育心理学家、证据本位教育改革（EBR）奠�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -68,6 +68,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
   - "[[ESSA 2015 Evidence Standards]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Comprehensive School Reform Program]]"
 related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
@@ -156,7 +157,7 @@ updated: 2026-09-17
 > [!influence-path] 影响路径
 > - **理论路径** 提出并完善[[Evidence-Based Education|证据本位教育]]改革理论，确立三条件框架与渐进累积改良模型。
 > - **方法路径** 制定了一阶与[[Meta-meta-analysis|二阶元分析]]的方法学筛查规范（强制剔除 $d \ge 0.25$ 基线不平衡、每组[[Sample Size Determination|样本量]]必须 $\ge 15$、排除开发者自制测验以防高估），这一规范被美国 [[What Works Clearinghouse|WWC]] 及新一代教育技术实证学者严格继承。
-> - **政策路径** 直接促成了美国联邦两代教育法案（NCLB 2001 的“科学本位研究”要求与 ESSA 2015 的四级证据层级绑定），使数十亿美元的 Title I 联邦学校改善拨款必须依据实证等级投放。
+> - **政策路径** 直接促成了美国联邦两代教育法案（NCLB 2001 的“科学本位研究”要求与 ESSA 2015 的四级证据层级绑定），使数十亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 联邦学校改善拨款必须依据实证等级投放。
 > - **实践路径** 创办的 [[Success for All]] 惠及全美百万计的贫困与弱势学生；创建的 [[Best Evidence Encyclopedia|BEE]] 与 [[Evidence for ESSA]] 成为全美学区学监与校长采购教学方案的首选指南。
 
 > [!evidence-grid-a]- 相关研究索引

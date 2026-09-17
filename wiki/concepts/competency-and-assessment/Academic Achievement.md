@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 112
+related_count: 113
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -122,6 +122,7 @@ related_facts:
   - "[[Using Data Intervention]]"
   - "[[Research Learning Communities]]"
   - "[[Research in Schools Evaluation]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Lodewyk_2007_EP]]"
@@ -334,7 +335,7 @@ updated: 2026-09-17
 > 探讨处境不利高贫困学校的学业成就低迷是否属于不可逆转的背景宿命，以及如何通过结构化全班教学与低成本[[Teaching Assistant|助教]]分层辅导实现学业成就的规模化逆转。
 
 > [!claim] Slavin, R. E.
-> **全班教学升级与助教分层辅导消除学业差距** 在针对全美倒数 5% 的综合支持与改进学校（CSI）和 Title I 薄弱学校的研究中，斯拉文指出，弱势学童的学业落后绝非不可改变的家庭背景宿命，而是缺乏[[Effective Teaching|有效教学]]干预的系统性后果。通过推行经实验验证的 Tier 1 全班教学方案（如结构化[[Cooperative Learning|合作学习]]），并由经过简要系统培训的教学助教（Teaching Assistants）开展结构化 Tier 2 小组辅导（$ES = +0.22 \sim +0.64$）与 Tier 3 一对一辅导（$ES = +0.21 \sim +0.86$），公立学校能够以可承受的财政成本使后进生的阅读与数学学业成就大幅跃升，从而在全系统层面根本性阻断早期学业失败。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 25, 27–29)]]
+> **全班教学升级与助教分层辅导消除学业差距** 在针对全美倒数 5% 的综合支持与改进学校（CSI）和 [[Title I of the Elementary and Secondary Education Act|Title I]] 薄弱学校的研究中，斯拉文指出，弱势学童的学业落后绝非不可改变的家庭背景宿命，而是缺乏[[Effective Teaching|有效教学]]干预的系统性后果。通过推行经实验验证的 Tier 1 全班教学方案（如结构化[[Cooperative Learning|合作学习]]），并由经过简要系统培训的教学助教（Teaching Assistants）开展结构化 Tier 2 小组辅导（$ES = +0.22 \sim +0.64$）与 Tier 3 一对一辅导（$ES = +0.21 \sim +0.86$），公立学校能够以可承受的财政成本使后进生的阅读与数学学业成就大幅跃升，从而在全系统层面根本性阻断早期学业失败。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 25, 27–29)]]
 
 ---
 
@@ -396,7 +397,7 @@ updated: 2026-09-17
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]（引述 Timperley, 2004, 2005） | 新西兰 7 所极低 SES（Decile 1）小学基于读写评估数据的教师[[Professional Learning Community\|专业学习共同体]]干预 | 阶段阅读理解与读写达标成绩 | 7 所小学全体低年级学生（毛利与太平洋岛裔占多数） | 干预前读写达标率严重落后全国常模；干预后两年年均进步达全国预期 2–3 倍 | $d > 0.80$ | 统计显著 | 准实验校本追踪；证实形成性数据反馈可打破教师[[Deficit Framing\|赤字归因]]，大幅缩减学业差距 |
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美 K-12 阶段符合 [[Every Student Succeeds Act\|ESSA]] 强/中等标准的阅读与数学教学方案（全班教学 Tier 1、[[Teaching Assistant\|助教]]小组辅导 Tier 2、助教 1 对 1 辅导 Tier 3） | 独立标准化阅读与数学[[Achievement and Aptitude Tests\|成就测验]]（Woodcock-Johnson, Gates-MacGinitie 等） | 全美数十个学区数万名中小学生（涵盖大量 Title I CSI 学校） | 经独立评估验证的 100 余项干预项目加权效应量汇总 | 全班 Tier 1 方案 $ES = +0.10 \sim +0.58$；助教 Tier 2/Tier 3 辅导 $ES = +0.21 \sim +0.86$ | 统计学显著正向增益 | 严格排除开发者自编测验，干预周期 $\ge 12$ 周，证实分层循证教学可大幅提升薄弱学校学业成就 |
+> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美 K-12 阶段符合 [[Every Student Succeeds Act\|ESSA]] 强/中等标准的阅读与数学教学方案（全班教学 Tier 1、[[Teaching Assistant\|助教]]小组辅导 Tier 2、助教 1 对 1 辅导 Tier 3） | 独立标准化阅读与数学[[Achievement and Aptitude Tests\|成就测验]]（Woodcock-Johnson, Gates-MacGinitie 等） | 全美数十个学区数万名中小学生（涵盖大量 [[Title I of the Elementary and Secondary Education Act\|Title I]] CSI 学校） | 经独立评估验证的 100 余项干预项目加权效应量汇总 | 全班 Tier 1 方案 $ES = +0.10 \sim +0.58$；助教 Tier 2/Tier 3 辅导 $ES = +0.21 \sim +0.86$ | 统计学显著正向增益 | 严格排除开发者自编测验，干预周期 $\ge 12$ 周，证实分层循证教学可大幅提升薄弱学校学业成就 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -474,6 +475,6 @@ updated: 2026-09-17
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 剖析英格兰在 [[PISA]] 2012 中学业成就指标的社会建构过程，揭示客观平稳的学业成绩如何被官方修辞[[Transfer Translation Transformation|转译]]为停滞危机，以此合法化教师[[Performance Pay|绩效工资]]与严苛问责体系。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度总结[[Education Endowment Foundation|教育捐赠基金会]]（EEF）近十年来在英格兰主导的大规模因果评估实践，系统建构了学业成就在因果研究中的测验准入标准、[[Reliability|信度]]效度审查框架、商业测验地板与[[Floor and Ceiling Effects|天花板效应]]诊断，以及依托[[National Pupil Database|国家学生数据库]]（NPD）微观考分进行长期学业追踪的方法论[[Paradigm|范式]]。
 > - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 大规模[[Systematic Review|系统综述]]确立学业成就是检验循证干预的终极试金石，实证揭示了教师中阶实践行为改变与学生终端学业成绩之间的系统性因果解耦，确立了以[[Engineered Evidence|工程化证据]]为核心跨越中介断裂的因果实现路径。
-> - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 系统阐述循证改革如何以独立标准化测验为刚性质量标尺（坚决剔除自编测验），通过经验证的 Tier 1 全班教学方案与[[Teaching Assistant|助教]]主导的 Tier 2/Tier 3 分层靶向辅导，以可负担的财政成本系统性消除 Title I CSI 薄弱学校的学业成就差距。
+> - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 系统阐述循证改革如何以独立标准化测验为刚性质量标尺（坚决剔除自编测验），通过经验证的 Tier 1 全班教学方案与[[Teaching Assistant|助教]]主导的 Tier 2/Tier 3 分层靶向辅导，以可负担的财政成本系统性消除 [[Title I of the Elementary and Secondary Education Act|Title I]] CSI 薄弱学校的学业成就差距。
 
 

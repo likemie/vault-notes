@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -60,6 +60,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Education Endowment Foundation]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[OECD]]"
   - "[[Australian Education Research Organisation]]"
@@ -122,7 +123,7 @@ updated: 2026-09-17
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[What Works Clearinghouse|WWC]] [[Evidence Standards|证据标准]]体系** 研制并发布全球教育界采纳最广泛的因果实证审查手册（Handbook v1.0–v5.0），确立包括无保留达到标准（Meets without Reservations）、有保留达到标准（Meets with Reservations）及未达到标准的判定体系。
-> - **全美重大教育法案与项目独立评估** 组织完成对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）、Title I 补偿性资助、[[Partnership Schools Kura Hourua|特许学校]]扩张、阅读优先（Reading First）、干预响应模型（[[Response to Intervention|RTI]]）以及 i3 创新基金的数十项全国性因果影响评估报告。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
+> - **全美重大教育法案与项目独立评估** 组织完成对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）、[[Title I of the Elementary and Secondary Education Act|Title I]] 补偿性资助、[[Partnership Schools Kura Hourua|特许学校]]扩张、阅读优先（Reading First）、干预响应模型（[[Response to Intervention|RTI]]）以及 i3 创新基金的数十项全国性因果影响评估报告。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
 > - **WWC [[Recommendations for Practice|实践建议]]指南（Practice Guides）** 汇集顶尖专家小组，结合[[Systematic Review|系统综述]]评级，为学校一线校长和教师提炼关于阅读、数学教学、行为干预及高中防辍学的实证操作指南。
 > - **区域教育实验室网络（REL Network）** 维系全美 10 大区域伙伴联盟，解决各州教育厅与公立学区提出的紧迫地方实证研究需求。
 
@@ -138,7 +139,7 @@ updated: 2026-09-17
 > [!indicators]- 影响力维度与指标
 > - **评估项目规模** 成立二十年来主持及资助了数百项跨州、跨学区的大规模现场因果试验，覆盖数百万受试学童。
 > - **[[Evidence Standards|证据标准]]全球外溢** [[What Works Clearinghouse|WWC]] 证据审查框架被[[OECD|经合组织]]（OECD）、澳大利亚 [[Australian Education Research Organisation|AERO]] 及全球数十个国家循证中介机构深度参考或采纳。
-> - **政策问责重塑** 使得联邦教育财政资助（从 i3 到 [[Education Innovation and Research|EIR]]、从 Title I 到 Comprehensive Support）全量与因果证据层级深度挂钩。
+> - **政策问责重塑** 使得联邦教育财政资助（从 i3 到 [[Education Innovation and Research|EIR]]、从 [[Title I of the Elementary and Secondary Education Act|Title I]] 到 Comprehensive Support）全量与因果证据层级深度挂钩。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **塑造现代教育[[Experimental Research|实验研究]]规范** NCEE 推动了统计功效计算、[[Intraclass Correlation Coefficient|群内相关系数]]（ICC）校正、基线平衡检验以及[[Attrition|差异流失]]边界模型的全面普及。

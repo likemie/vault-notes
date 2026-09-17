@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_persons:
   - "[[Nancy Madden]]"
 related_facts:
   - "[[Investing in Innovation Program]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Lightning Squad]]"
   - "[[Reading Recovery]]"
   - "[[Reading Rescue]]"
@@ -93,7 +94,7 @@ updated: 2026-09-17
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1987 年在巴尔的摩公立学校启动原型实验，经过全面学校改革计划（CSR）与[[Investing in Innovation Program|创新投资项目]]（Investing in Innovation, i3）资助持续推广，至今在全美保持常态化运行。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 24–25)]]
-> - **发起方与资助机制** 约翰霍普金斯大学教育研究与改革中心（CRRE）联合非营利组织“人人成功基金会（Success for All Foundation）”研发运营；依托联邦 CSR 专项拨款、i3 放大基金及学区 Title I 补偿经费资助。
+> - **发起方与资助机制** 约翰霍普金斯大学教育研究与改革中心（CRRE）联合非营利组织“人人成功基金会（Success for All Foundation）”研发运营；依托联邦 CSR 专项拨款、i3 放大基金及学区 [[Title I of the Elementary and Secondary Education Act|Title I]] 补偿经费资助。
 > - **覆盖范围与对象** 累计覆盖全美 48 个州超过 1,500 所公立小学（目前仍有约 1,000 所学校常态化运行），受惠弱势学生超百万人，并辐射至英国、荷兰、澳大利亚等国。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]
 > - **核心问题导向** 针对城市与贫困农村薄弱学校处境不利儿童早期读写危机，打破“先等待学生失败再提供特殊教育”的被动补救[[Paradigm|范式]]，建立全员预防性的因果干预体系。
 
@@ -106,7 +107,7 @@ updated: 2026-09-17
 
 > [!policy-design]- 方案设计
 > - **项目目标** 消除小学 K–2 年级阅读障碍，使 80% 以上弱势儿童无需进入特殊教育即可达到标准化学业阅读水平。
-> - **覆盖对象** K–5 年级全体学生，重点聚焦 Title I 资助的高贫困率、高少数族裔比例公立小学。
+> - **覆盖对象** K–5 年级全体学生，重点聚焦 [[Title I of the Elementary and Secondary Education Act|Title I]] 资助的高贫困率、高少数族裔比例公立小学。
 > - **核心教学干预体系（RTPI 三层架构）**
 >   - **TIER 1（全班核心教学）** 每日 90 分钟高度结构化的读写课程，整合[[Cooperative Integrated Reading and Composition|合作整合阅读与写作]]（CIRC）、显性自然拼读、音素意识与[[Metacognition|元认知]]阅读理解策略；
 >   - **Tier 2（小组定向辅导）** 针对全班教学中跟进困难的学生，由经认证的教学[[Teaching Assistant|助教]]（Teaching Assistant, TA）提供每日 20 分钟的小组（1:2–6）针对性强化（如 [[Lightning Squad]] 计算机辅助协作阅读）；
@@ -126,7 +127,7 @@ updated: 2026-09-17
 > - **1987–1996 — 原型研发与巴尔的摩试点试验期** 斯莱文与马登在巴尔的摩一所极度贫困的小学开发 SFA 原型，通过实验组与对照组追踪证实早期读写干预能显著缩小贫困儿童学业差距，并逐步建立 [[Cooperative Integrated Reading and Composition|CIRC]] 与早期阅读拼读模块。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 18)]]
 > - **1997–2008 — 联邦 CSR 法案扶持与全国多中心 [[Randomised Controlled Trials|RCT]] 验证期** 联邦国会通过全面学校改革计划（CSR），每年拨款 2 亿美元支持薄弱学校采纳实证全校方案；SFA 迅速扩展至全美千余所学校，并在 35 所学校开展全美最大规模的多中心[[Cluster Randomized Trials|集群随机对照试验]]（Cluster RCT, Borman et al., 2007）。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 24)]]
 > - **2009–2015 — 联邦 i3 基金注资与方案数字化迭代期** 荣获美国联邦[[Investing in Innovation Program|创新投资项目]]（i3）最高额度的“规模化放大（Scale-up）”资助，推动计算机辅助协作辅导（如 [[Lightning Squad]]）与西英双语过渡方案研发。
-> - **2015–至今 — [[Every Student Succeeds Act|ESSA]] 强证据认证与常态化运行期** 在《每一个学生成功法》（ESSA）四级证据框架下被评定为 TIER 1 强证据方案，成为学区使用 Title I 专项改善拨款采购全校改革方案的首选标杆。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]
+> - **2015–至今 — [[Every Student Succeeds Act|ESSA]] 强证据认证与常态化运行期** 在《每一个学生成功法》（ESSA）四级证据框架下被评定为 TIER 1 强证据方案，成为学区使用 [[Title I of the Elementary and Secondary Education Act|Title I]] 专项改善拨款采购全校改革方案的首选标杆。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]
 
 ---
 

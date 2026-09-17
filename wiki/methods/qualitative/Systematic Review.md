@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 83
+method_related_count: 87
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -93,6 +93,7 @@ related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Gorard_2020_ROE]]"
+  - "[[Argument_Ginsberg_2024_EP]]"
 related_facts:
   - "[[Best Evidence Synthesis]]"
   - "[[EPPI-Centre]]"
@@ -103,6 +104,9 @@ related_facts:
   - "[[What Works Network]]"
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Evidence for ESSA]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
@@ -291,4 +295,4 @@ updated: 2026-09-17
 > - **[[Argument_Li_2026_CEAI|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段[[Thematic Synthesis|主题综合法]]，系统解构 ChatGPT 在高等教育中对批判性与[[Creativity|创造性思维]]的促进机制与风险模式。
 > - **[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]]** 在 [[OECD]] 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域相关文献开展跨行业系统综述与叙事综合，跨界界定证据使用质量（Quality of Evidence Use）并奠定 [[Quality Use of Research Evidence Framework|QURE]] 框架的先验理论基础。
 > - **[[Argument_Gorard_2020_ROE|Gorard et al. (2020)]]** 针对教育与公共政策领域“如何使研究证据有效投入使用”这一因果机制，对逾 335 万条数据库记录开展大规模跨学科系统综述，运用[[Gorard's Trustworthiness Sieve|戈拉德研究可信度筛子]]严格质评初筛出的 323 篇文献，最终识别出 33 项具备[[Counterfactual|反事实]]对照设计的因果[[Evaluation Research|评估研究]]并提炼两维度转化模型。
-> - **[[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]]** 遵循系统综述规范对 129 项教育实践检索词在四大证据库（[[What Works Clearinghouse|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation|EEF]], ERIC）中开展全量文献检索与七级证据评定，并将其与大型城市学区三年间 2.88 亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 财务细项逐一关联，实证测算联邦教育资金投向循证实践的真实比例。
+> - **[[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]]** 遵循系统综述规范对 129 项教育实践检索词在四大证据库（[[What Works Clearinghouse|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation|EEF]], ERIC）中开展全量[[Literature Search|文献检索]]与七级证据评定，并将其与大型城市学区三年间 2.88 亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 财务细项逐一关联，实证测算联邦教育资金投向循证实践的真实比例。

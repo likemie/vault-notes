@@ -8,9 +8,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 issuing_organization: ""
 tags:
@@ -40,6 +40,7 @@ related_persons:
   - "[[Robert Slavin]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Success for All]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Investing in Innovation Program]]"
@@ -66,7 +67,7 @@ updated: 2026-09-17
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1997 年提出并于 1998 财年正式启动，2001 年纳入《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）重新授权，持续运行至 2000 年代中后期。
 > - **发起方与资助机制** 由美国国会众议员 David Obey 与 John Porter 联合发起立法，由美国联邦教育部（ED）主管；初始年拨款 1.5 亿美元（USD 150M），后逐步增长至每年 2 亿至 3.1 亿美元（USD 200M–310M），通过州教育厅向薄弱学校发放竞争性配套资助。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 24)]]
-> - **覆盖范围与对象** 重点覆盖全美接受 Title I 资助的高贫困中小学校，累计向超过 2,600 所公立学校提供全校性改革专项资助。
+> - **覆盖范围与对象** 重点覆盖全美接受 [[Title I of the Elementary and Secondary Education Act|Title I]] 资助的高贫困中小学校，累计向超过 2,600 所公立学校提供全校性改革专项资助。
 > - **核心问题导向** 针对长期以来 Title I 资金碎片化投入、缺乏实证支持且未能根本改善薄弱学校整体[[Academic Achievement|学业成就]]的治理困境，试图通过财政激励引导学校采纳经过实验验证的一体化全校改革模型。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–16)]]
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-09-17
 
 > [!policy-design]- 方案设计
 > - **项目目标** 推动高贫困学校进行全方位重构，整合课程教材、课堂教学、形成性测评、全员专业发展与家校协同治理，系统提升全员学业达标率。
-> - **覆盖对象** 全美 Title I 高贫困公立中小学校及其全体在校师生。
+> - **覆盖对象** 全美 [[Title I of the Elementary and Secondary Education Act|Title I]] 高贫困公立中小学校及其全体在校师生。
 > - **干预模式** 涵盖 9 项法定核心要素的一体化全校模式，代表性方案包括全员成功（[[Success for All]]，SFA）、[[Direct Instruction|直接教学]]（[[Direct Instruction]]，DI）、美国新学校（New American Schools）及加速学校（Accelerated Schools）等。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 24)]]
 > - **法定证据门槛** 明确要求所选方案必须“经过实践检验”（Proven），即具备基于实验组与对照组比较、采用标准化测验且经同行评议支持的实证有效性证据。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]
 
@@ -109,7 +110,7 @@ updated: 2026-09-17
 > - **项目实施公立学校** 经教师民主表决（如 SFA 80% 投票机制）自主选定方案，开展为期 3 年以上的全校协同教学变革。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]
 
 > [!pathways]- 实施路径与管理机制
-> - **资金下达与竞争性评审** 联邦资金按 Title I 公式分配至各州，各州设立竞争性评审委员会，面向辖区内薄弱学校评审 CSR 方案申请。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
+> - **资金下达与竞争性评审** 联邦资金按 [[Title I of the Elementary and Secondary Education Act|Title I]] 公式分配至各州，各州设立竞争性评审委员会，面向辖区内薄弱学校评审 CSR 方案申请。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
 > - **全校一体化重构路径** 入选学校打破班级壁垒，在全校统一排课（如 90 分钟不间断读写模块）、跨年级按能力重组教学并在校内设立全职改革协调员。
 > - **州级自由裁量权与标准稀释** 在实际操作中，由于缺乏国家级统一证据审查平台，各州官员在评审时广泛保留自由裁量权，大量未经验证的地方自创模型被宽松准入。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]
 
@@ -145,7 +146,7 @@ updated: 2026-09-17
 > > [!axis] 法定[[Evidence Standards|证据标准]] vs 地方行政自由裁量权的冲突
 > > 探讨为何立法明确要求“经过检验”，实际拨款却大部分流向无证据方案。
 > >
-> > - **实证派批评（Slavin, 2002）** 批评国会仅将“证据”写入法律条文，却未建立国家级独立审查平台（[[Educational Evidence Clearinghouses|Clearinghouse]]）来出具权威合规清单，导致各州官员在地方人情与政治利益下随意审批缺乏研究支撑的“拼凑项目”。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–16)]]
+> > - **实证派批评（[[Argument_Slavin_2002_ER|Slavin, 2002]]）** 批评国会仅将“证据”写入法律条文，却未建立国家级独立审查平台（[[Educational Evidence Clearinghouses|Clearinghouse]]）来出具权威合规清单，导致各州官员在地方人情与政治利益下随意审批缺乏研究支撑的“拼凑项目”。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–16)]]
 > > - **地方自主权辩护** 强调各州学情高度异质，州教育官员需要保留灵活性以支持本地草根创新与校本特色探索。
 >
 > > [!axis] 全校一体化模式 vs 单项教学法修补

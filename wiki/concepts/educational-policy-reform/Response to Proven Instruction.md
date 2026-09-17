@@ -6,7 +6,7 @@ aliases:
 summary: "罗伯特·斯莱文于 2019 年提出的循证教育改革实施方案，主张以达到 ESSA 强与中等证据标准的经验证具体干预产品刚性填充干预反应模型（RTI）三层架构，从根本上解决传统 RTI 因缺乏具体方案支撑而流于形式的系统失效问题。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -42,6 +42,7 @@ related_facts:
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Success for All]]"
   - "[[Peer-Assisted Learning Strategies]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Enhanced Core Reading Instruction]]"
   - "[[Lindamood Phoneme Sequencing]]"
   - "[[QuickReads]]"
@@ -186,7 +187,7 @@ updated: 2026-09-17
 > |---|---|---|---|
 > | **内容具体性命题** | 抽象流程原则导致 RTI 系统失效，具体方案填充是真实改善学业的[[Necessary and Sufficient Conditions\|必要条件]] | 全国性教育改革政策诊断、学区 RTI [[Implementation and Process Evaluation\|实施评估]] | [[Argument_Slavin_2019_EP\|Slavin (2019)]]；NCEE (2015) |
 > | **系统性保障命题** | 三层均以 ESSA 强/中证据方案填充后，高危学生学业成功具有制度性保障 | 学区教育改进规划、特殊教育分流政策设计 | 同上 |
-> | **助教成本效益命题** | 经培训助教辅导效能逼近认证教师，成本减半，解锁全校规模化覆盖的可行性 | 弱势学校资源配置、高贫困 Title I 学区补救教学设计 | 同上 |
+> | **助教成本效益命题** | 经培训助教辅导效能逼近认证教师，成本减半，解锁全校规模化覆盖的可行性 | 弱势学校资源配置、高贫困 [[Title I of the Elementary and Secondary Education Act\|Title I]] 学区补救教学设计 | 同上 |
 
 ---
 

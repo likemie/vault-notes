@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 46
+fact_related_count: 47
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_methods:
   - "[[Experimental Research]]"
 related_persons: []
 related_facts:
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Comprehensive School Reform Program]]"
   - "[[Data Team Intervention]]"
@@ -90,7 +91,7 @@ updated: 2026-09-17
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2001 年由美国国会通过，乔治·沃克·布什（George W. Bush）总统于 2002 年 1 月签署颁布，是布什政府第一项重大国内立法倡议。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
-> - **适用地区 / 对象** 全美公立初等与中等教育学校（K–12），重点覆盖接受 Title I 联邦专项资助的高贫困学校及各学区。
+> - **适用地区 / 对象** 全美公立初等与中等教育学校（K–12），重点覆盖接受 [[Title I of the Elementary and Secondary Education Act|Title I]] 联邦专项资助的高贫困学校及各学区。
 > - **问题背景与资源悖论** 旨在回应 1990 年代以来全美对学生[[Academic Achievement|学业成就]]差距与教育质量平庸的担忧。埃里克·汉努舍克（Eric Hanushek, 2005）的实证考证揭示了深层动因：1960 至 2000 年间，全美公立学校生均实际支出激增 240%（从 \$2,235 升至 \$7,591 美元），生师比从 25.8 降至 17.3，硕士学历师资占比翻倍（24% 升至 56%），但全美教育进展评估（NAEP）17 岁学生的读写、数学与科学成绩在过去 30 年中呈现近乎完全平缓的停滞曲线；巨额财政投入与学业产出的严重脱钩引发了公众与政界的系统性焦虑，倒逼国会推行严苛的高利害测试问责。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 12–13)]]
 > - **制度位置** 政策是对 1965 年《初等与中等教育法》（Elementary and Secondary Education Act，ESEA）的重新授权，是美国联邦教育法历史上最具干预性的一版，也是后续《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）的直接前身。
 
@@ -105,7 +106,7 @@ updated: 2026-09-17
 > - **政策目标** 确保所有儿童接受公平、高质量教育，消除基于种族、贫困和特殊需求的[[Academic Achievement|学业成就]]差距，要求到 2013–2014 学年全美学生 100% 达到州立标准的“熟练”（proficient）水平。
 > - **适用对象** 全美各州教育厅、学区公立中小学校、K–12 教师及在读学生。
 > - **政策工具** 借助联邦 ESEA 专项拨款（整体拨款因法案增长 18%，创当时历史新高），重点嵌入以下核心项目：
->   - **Title I** — 为高贫困学校提供补充教育资金；
+>   - **[[Title I of the Elementary and Secondary Education Act|Title I]]** — 为高贫困学校提供补充教育资金；
 >   - **Reading First** — K–3 年级阅读教学专项扶持；
 >   - **Early Reading First** — 学前阶段早期阅读项目；
 >   - **Comprehensive School Reform (CSR)** — [[Comprehensive School Reform Program|综合学校改革项目]]。

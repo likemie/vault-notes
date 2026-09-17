@@ -9,7 +9,7 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 71
+related_count: 74
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Professional Judgment]]"
   - "[[Months of Progress]]"
+  - "[[Document]]"
   - "[[Cumulative Knowledge Base]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -76,6 +77,7 @@ related_facts:
   - "[[ISRCTN]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Education Innovation and Research]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Evidence for ESSA]]"
   - "[[What Works Network]]"
   - "[[Blueprints for Healthy Youth Development]]"
@@ -90,6 +92,7 @@ related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Slavin_2002_ER]]"
+  - "[[Argument_Ginsberg_2024_EP]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -274,7 +277,7 @@ updated: 2026-09-17
 > 探讨如何通过联邦法定证据分级与竞争性资助挂钩，倒逼教育干预研发者采用严谨因果设计，驱动教育科研从名义概念走向真实实践效用。
 
 > [!claim] [[Robert Slavin|Slavin, R.]] E.
-> **法定证据分级与资金杠杆驱动的科研供给侧改革** 美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB 2001）虽 110 次提及“基于科学的研究”，但因缺乏清晰法定定义与执行机制，导致大量未经严格检验的干预项目泛滥。相比之下，《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）首次确立四级法定证据标准（TIER 1 强证据、Tier 2 中等证据、Tier 3 有前景、Tier 4 正在评估），并将[[Education Innovation and Research|教育创新与研究计划]]（EIR/i3）及一类学校（Title I）改进资金直接与证据层级挂钩。这一分级标准结合独立标准化测验、至少 12 周周期、第三方评估等硬约束，有效终结了“研发者自编测验与短期实验虚高效应量”的乱象，推动教育实践建立在真正经受住因果检验的实证方案之上。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–26)]]
+> **法定证据分级与资金杠杆驱动的科研供给侧改革** 美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB 2001）虽 110 次提及“基于科学的研究”，但因缺乏清晰法定定义与执行机制，导致大量未经严格检验的干预项目泛滥。相比之下，《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）首次确立四级法定证据标准（TIER 1 强证据、Tier 2 中等证据、Tier 3 有前景、Tier 4 正在评估），并将[[Education Innovation and Research|教育创新与研究计划]]（EIR/i3）及一类学校（[[Title I of the Elementary and Secondary Education Act|Title I]]）改进资金直接与证据层级挂钩。这一分级标准结合独立标准化测验、至少 12 周周期、第三方评估等硬约束，有效终结了“研发者自编测验与短期实验虚高效应量”的乱象，推动教育实践建立在真正经受住因果检验的实证方案之上。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–26)]]
 
 ---
 
@@ -375,7 +378,7 @@ updated: 2026-09-17
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] | 欧美主要教育清算机构（[[What Works Clearinghouse\|WWC]], [[Education Endowment Foundation\|EEF]], BEP） | 教育干预项目与策略 | 比较其系统综述筛选门槛与偏倚控制量表 | 各机构独立有效性分级系统 | 证实不同中介机构在证据标准设定上存在显著方法论分歧与评级不一致（pp. 120–122） |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] | 学校随机对照试验与干预策略 | 0–5 [[EEF Padlock Security Rating\|挂锁安全评级]]（综合设计、[[Sample Size Determination\|样本量]]、[[Attrition\|流失]]率与威胁）；优先锚定国家统考（NPD），严禁自编测验；强制 ISRCTN [[Preregistration\|预注册]]与公开分析计划（SAP）；整合 [[TIDieR]] [[Implementation and Process Evaluation\|过程评估]]（IPE） | 额外学习月数（[[Months of Progress]]）与挂锁安全级别 | 极大降低校长决策门槛，但将多元偏倚压缩为单一分值易掩盖[[Heterogeneity\|异质性]]与统计不确定性（pp. 50–58） |
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | [[Evidence for ESSA]]，美国约翰斯·霍普金斯大学 | K-12 阅读与数学打包干预项目及全校模式 | 依据 ESSA 四级法定标准；强制独立标准化测验、实施周期 $\ge 12$ 周、整群 RCT 与多层线性模型校正 | 强证据（[[Top Institute for Evidence-Based Education Research\|TIER]] 1）、中等证据（Tier 2）与有前景（Tier 3）分级评定 | 严苛方法学准入过滤掉 90% 以上低质研究，为联邦资金采购提供权威透明的技术屏障（pp. 22–26） |
-> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 美国大型城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦资金审计 | K-12 补偿教育实践（129 项检索词） | 比较 [[Every Student Succeeds Act\|ESSA]] 法定 Tier I–III 单项合格研究标准 vs 四大证据库全量证据综合评级（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation\|EEF]], ERIC） | 比例测算：单项合格标准下达 95%–99%，全量证据综合下积极/多半积极支持率降至 49%–58% | 实证证实法定单项合格研究门槛导致合规流于形式，掩盖了更广泛文献中普遍存在的混合效应、零效应与学段不匹配风险（pp. 174–177） |
+> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 美国大型城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦资金审计 | K-12 补偿教育实践（129 项检索词） | 比较 [[Every Student Succeeds Act\|ESSA]] 法定 Tier I–III 单项合格研究标准 vs 四大证据库全量证据综合评级（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation\|EEF]], ERIC） | 比例测算：单项合格标准下达 95%–99%，全量证据综合下积极/多半积极支持率降至 49%–58% | 实证证实法定单项合格研究门槛导致合规流于形式，掩盖了更广泛[[Document\|文献]]中普遍存在的混合效应、零效应与学段不匹配风险（pp. 174–177） |
 
 ---
 
