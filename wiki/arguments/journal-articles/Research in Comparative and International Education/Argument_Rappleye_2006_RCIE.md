@@ -9,7 +9,7 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Education for All]]"
   - "[[Civil Service Examination]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
@@ -58,7 +59,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-09-12
+updated: 2026-09-18
 year: 2006
 doi: ""
 citation_aliases:
@@ -212,7 +213,7 @@ citation_aliases:
 >
 > **结构阻力（structural obstacles）**——独立于人的能动性、制约改革的结构性因素。按类型分五种：
 >
-> 1. **法律/组织结构的刚性。** 德国是典型案例：Kultusministerkonferenz（各州教育部长常设会议）的复杂决策程序和 Verrechtilichung（法律化/司法化）使得"新学校模式的倡导者面临刚性的法律和官僚监管"(Ertl & Phillips, 2000, p. 405,引自 p. 231)。美国则是另一种刚性：联邦政府虽然大力推崇日本教育，但教育权在各州和地方，联邦无法强制推行任何实质性借用。
+> 1. **法律/组织结构的刚性。** 德国是典型案例：[[Standing Conference of the Ministers of Education and Cultural Affairs|Kultusministerkonferenz]]（各州教育部长常设会议）的复杂决策程序和 Verrechtilichung（法律化/司法化）使得"新学校模式的倡导者面临刚性的法律和官僚监管"(Ertl & Phillips, 2000, p. 405,引自 p. 231)。美国则是另一种刚性：联邦政府虽然大力推崇日本教育，但教育权在各州和地方，联邦无法强制推行任何实质性借用。
 >
 > > [!example] 芬兰教学法与统一教材
 > > [[Hypothesis|假设]]一位校长发现芬兰的分科教学法效果很好，想在学校推广。但教育局规定必须使用统一教材、按统一进度考试。这其实就是一种"组织结构刚性"——方法本身没问题，制度结构不允许改变。

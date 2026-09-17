@@ -6,7 +6,7 @@ aliases:
 summary: "把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,8 @@ related_concepts:
 related_theories:
   - "[[Theory of Change]]"
   - "[[Realist Evaluation]]"
-related_methods: []
+related_methods:
+  - "[[Expert Interview]]"
 related_persons: []
 related_facts:
   - "[[World Bank]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-09-13
+updated: 2026-09-18
 ---
 
 # Theories of Policy Change
@@ -122,7 +123,7 @@ updated: 2026-09-13
 在意大利利古里亚和西班牙加泰罗尼亚，第二机会学校明确从"最后一搏的补救站"演变为"教育性、高标准的服务机构"。在加泰罗尼亚，这一转变由非营利组织自主发起，形成"先创建模式→再申请公共支持"的政治关系创新([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173]])。
 
 > [!info]- 核心数据
-> - YOUNG_ADULLLT 项目（Horizon 2020, Grant No 693167）：16 个欧盟地区，168 名终身学习政策专家访谈([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])
+> - YOUNG_ADULLLT 项目（Horizon 2020, Grant No 693167）：16 个欧盟地区，168 名终身学习政策[[Expert Interview|专家访谈]]([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])
 > - 奥地利、德国、芬兰、苏格兰四地的地方专业人员发展出了系统性的本地变革理论（p.172–173）
 
 ## 争议与批评

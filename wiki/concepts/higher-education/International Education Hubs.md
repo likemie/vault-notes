@@ -7,7 +7,7 @@ aliases:
 summary: "Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。"
 type: concept
 domain: "higher-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_theories:
   - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Comparative Case Study]]"
+  - "[[Expert Interview]]"
 related_persons:
   - "[[Jane Knight]]"
 related_facts:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # International Education Hubs
@@ -179,7 +180,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 > - Knight (2014) 识别的教育枢纽国家/地区：新加坡、阿联酋、卡塔尔、香港、马来西亚、博茨瓦纳、韩国、斯里兰卡、毛里求斯、巴林（p.202）
 > - 迪拜国际分校数量全球第二（33 所），仅次于中国（36 所）（EY Parthenon, 2019, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.210–211]]）
 > - 新加坡 Global Schoolhouse 市场失败标志性事件：2007 年 3 月一所澳大利亚大学开学、同年 6 月关闭（Ng & Tan, 2010, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.209]]）
-> - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 研究数据：新加坡政策文件 60 份、阿联酋 38 份，两国专家访谈共 18 份（p.202）
+> - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 研究数据：新加坡政策文件 60 份、阿联酋 38 份，两国[[Expert Interview|专家访谈]]共 18 份（p.202）
 
 ---
 

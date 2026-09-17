@@ -10,9 +10,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -32,7 +32,8 @@ related_concepts:
 related_theories:
   - "[[Theory of Change]]"
   - "[[Neocorporatism]]"
-related_methods: []
+related_methods:
+  - "[[Expert Interview]]"
 related_persons: []
 related_facts:
   - "[[Europe 2020 Strategy]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-09-13
+updated: 2026-09-18
 ---
 
 # EU Skills Agenda
@@ -112,7 +113,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 > - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方[[Theory of Change|变革理论]]内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
 
 > [!info]- 核心数据
-> - [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（Horizon 2020, Grant No 693167）：覆盖 16 个欧盟地区，168 名[[Lifelong Learning|终身学习]]政策专家访谈([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])
+> - [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（Horizon 2020, Grant No 693167）：覆盖 16 个欧盟地区，168 名[[Lifelong Learning|终身学习]]政策[[Expert Interview|专家访谈]]([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])
 > - 除芬兰外，所有受访国家的终身学习专业人员将政策首要目标理解为就业安置（p.174）
 
 ## 争议与评论

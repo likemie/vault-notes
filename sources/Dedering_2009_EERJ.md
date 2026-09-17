@@ -1,6 +1,7 @@
 ---
 citation: "Dedering, K. (2009). Evidence-Based Education Policy: Lip service or common practice? Empirical findings from Germany. European Educational Research Journal, 8(4), 484–496. https://doi.org/10.2304/eerj.2009.8.4.484"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Dedering_2009_EERJ]]"
 processed_date: 2026-09-18
 ---
 

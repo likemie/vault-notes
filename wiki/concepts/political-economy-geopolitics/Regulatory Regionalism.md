@@ -6,10 +6,10 @@ aliases:
 summary: "指超国家组织通过指标、排名和协调机制对区域内高等教育进行间接治理的区域监管形式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - regulatory-regionalism
 - higher-education-governance
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Blue Skies Research]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Expert Interview]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-12
+updated: 2026-09-18
 ---
 
 # Regulatory Regionalism
@@ -114,7 +115,7 @@ updated: 2026-09-12
 
 ### 地方层面的差异化效应
 
-[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（16 个 EU 地区，168 名专家访谈）显示，监管区域主义的效应因地方制度传统而异：在制度传统较强的国家（德国、奥地利、芬兰），多元行动者的参与在一定程度上缓冲了指标体系的 [[Selectivity]] 效应；在南欧和东欧，[[Policy Network|政策网络]]较弱，选择性效应更为显著([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–174]])。
+[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（16 个 EU 地区，168 名[[Expert Interview|专家访谈]]）显示，监管区域主义的效应因地方制度传统而异：在制度传统较强的国家（德国、奥地利、芬兰），多元行动者的参与在一定程度上缓冲了指标体系的 [[Selectivity]] 效应；在南欧和东欧，[[Policy Network|政策网络]]较弱，选择性效应更为显著([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–174]])。
 
 ## 争议与批评
 

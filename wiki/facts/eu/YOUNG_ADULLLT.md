@@ -9,7 +9,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ related_theories:
   - "[[Neocorporatism]]"
 related_methods:
   - "[[Semi-structured Interview]]"
+  - "[[Expert Interview]]"
 related_persons: []
 related_facts:
   - "[[Europe 2020 Strategy]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-14'
-updated: 2026-09-13
+updated: 2026-09-18
 ---
 
 # YOUNG_ADULLLT
@@ -96,7 +97,7 @@ updated: 2026-09-13
 
 > [!info]- 核心数据
 > - 项目资助：Horizon 2020, Grant No 693167
-> - 样本：9 国 16 区，168 名终身学习政策专家访谈([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])
+> - 样本：9 国 16 区，168 名终身学习政策[[Expert Interview|专家访谈]]([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])
 > - 覆盖区域类型：北欧（芬兰）、德语区（德国、奥地利）、西欧（英国）、南欧（西班牙、意大利、葡萄牙、克罗地亚）、东欧（保加利亚）
 
 ## 相关概念／理论

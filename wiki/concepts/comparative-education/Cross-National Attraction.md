@@ -6,7 +6,7 @@ aliases:
 summary: "政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_facts:
   - "[[PISA]]"
   - "[[IEA]]"
   - "[[American Attraction to Japanese Education 1980s]]"
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[A Nation at Risk 1983]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
 related_arguments:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-07-13
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -102,7 +103,7 @@ updated: 2026-07-13
 
 > [!abstract] 结构阻力（Structural Obstacles）
 > 独立于人的能动性、制约改革的结构性因素：
-> - **法律／组织结构：** 现有法律和官僚安排的不变性（如德国 Kultusministerkonferenz and Verrechtilichung 使新学校模式倡导者面临"刚性的法律和官僚监管"）（Ertl & Phillips, 2000，引自 p. 231）
+> - **法律／组织结构：** 现有法律和官僚安排的不变性（如德国 [[Standing Conference of the Ministers of Education and Cultural Affairs|Kultusministerkonferenz]] and Verrechtilichung 使新学校模式倡导者面临"刚性的法律和官僚监管"）（Ertl & Phillips, 2000，引自 p. 231）
 > - **改革疲劳：** 系统在重大变革后的"沉淀期"不响应改革（如 Adenauer "keine Experimente"口号定义战后德国近二十年的非改革期）（p. 231）
 > - **物理设施：** 现有设施无法容纳快速变化（p. 231）
 > - **内部满意：** 对教育现状的广泛支持抵制改革（如 PISA 冲击前德国 Gymnasium and Realschule 的声望）（p. 231–232）

@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 118
+related_count: 121
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -108,6 +108,7 @@ related_facts:
   - "[[Pupil Premium]]"
   - "[[ResearchED]]"
   - "[[National Pupil Database]]"
+  - "[[American Educational Research Association]]"
   - "[[Sutton Trust]]"
   - "[[Ofsted]]"
   - "[[Playing for Success]]"
@@ -121,6 +122,7 @@ related_facts:
   - "[[Gonski Reforms]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Slavin_2002_ER]]"
@@ -145,6 +147,7 @@ related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Dedering_2009_EERJ]]"
 confidence: high
 status: active
 created: '2026-05-01'
@@ -382,7 +385,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > Slavin 系统论证 EBE 的必要性与路径；ESSA 证据标准制度化；中国被纳入国际比较框架。
 
 > [!timeline] 关键事件
-> - **2002** — Slavin 在 *Educational Researcher* 上发表"Evidence-Based Educational Policies"（AERA 杰出讲座），系统论证证据本位教育政策的必要性、方法论基础和政策路径
+> - **2002** — Slavin 在 *Educational Researcher* 上发表"Evidence-Based Educational Policies"（[[American Educational Research Association|AERA]] 杰出讲座），系统论证证据本位教育政策的必要性、方法论基础和政策路径
 > - **2019** — Slavin 从支持者立场总结三项进展（项目存量增长、ESSA 证据标准制度化、国际扩散）
 > - **2021** — Slavin, Cheung & Zhuang 在 *ECNU Review of Education* 发表首个中美英证据本位教育改革国际比较，系统记录中国教育实证研究的快速增长、制度化建设以及中国学者对证据本位研究范式的五类内部质疑([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021]])
 
@@ -487,10 +490,10 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 
 ### 德国
 
-> [!case] 德国：从 PISA 震荡到国家教育监测总体战略
-> 德国自 1990 年代末经历教育政策的“经验转向”，在 PISA 震荡后由 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 确立涵盖跨国测评、国家标准测试与全州统一教育报告的监测基础设施。
+> [!case] 德国：从 [[PISA]] 震荡到国家教育监测总体战略
+> 德国自 1990 年代末经历教育政策的经验转向，在 PISA 震荡后由 [[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）确立涵盖跨国测评、国家标准测试与全州统一教育报告的监测基础设施。
 
 > [!evidence-grid-a] 德国案例索引
-> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 追踪德国四个联邦州教育部循证政策实践，揭示数据使用如何从 PISA 2000 初期的政治战术性与象征性合法化应对，逐步演进为具有假设检验、专业质保与弱势扶持特征的日常行政常规。
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 追踪德国四个联邦州教育部循证政策实践，揭示数据使用如何从 PISA 2000 初期的政治战术性与象征性合法化应对，逐步演进为具有[[Hypothesis|假设]]检验、专业质保与弱势扶持特征的日常行政常规。
 
 ---

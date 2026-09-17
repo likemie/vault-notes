@@ -10,7 +10,7 @@ subtype: policy
 region: uae
 fact_region: "uae"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,7 +32,8 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Expert Interview]]"
 related_persons: []
 related_facts:
   - "[[Singapore Education Hub Policy]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-08-20
+updated: 2026-09-18
 ---
 
 # UAE Education Hub Projects
@@ -142,7 +143,7 @@ updated: 2026-08-20
 > - 迪拜国际私立大学成立节奏：2004 年 2 所→2005 年 4 所→2006 年 4 所，此后年均约 1 所（p.210）
 > - 迪拜国际分校数量：33 所（全球第二），仅次于中国 36 所（EY Parthenon, 2019, cited in p.211）
 > - 阿联酋 2020 年全球软实力指数排名：地区第 1，全球第 18（MoFAIC, 2020, cited in p.208）
-> - 研究数据：阿联酋政策文件 38 份、专家访谈 9 份([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])
+> - 研究数据：阿联酋政策文件 38 份、[[Expert Interview|专家访谈]] 9 份([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])
 
 ---
 

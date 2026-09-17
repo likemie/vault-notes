@@ -9,7 +9,7 @@ title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -58,6 +58,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Comparative Case Study]]"
+  - "[[Expert Interview]]"
 related_persons: []
 related_facts:
   - "[[Innovation Union]]"
@@ -76,7 +77,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-13'
-updated: 2026-09-13
+updated: 2026-09-18
 year: 2022
 doi: ""
 citation_aliases:
@@ -183,7 +184,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > 这一变革理论在话语层面具有强大的吸引力，但 Rambla 接下来的分析将揭示：在其"[[Doxa|不言自明]]"的表象之下，指标体系系统性地排除了若干关键议题。
 
 > [!example]- 第 5 步：引入实证证据——地方层面对政策话语的接受与转化
-> Rambla 引用 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（16 个欧盟地区，168 名终身学习政策专家访谈）的定性数据，为前述政策文件分析提供"地面检验"(p.172–173)：
+> Rambla 引用 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（16 个欧盟地区，168 名终身学习政策[[Expert Interview|专家访谈]]）的定性数据，为前述政策文件分析提供"地面检验"(p.172–173)：
 >
 > **发现 1：[[Network Governance]] 的差异化运作。** 在德国及邻国，终身学习政策通过传统的[[Neocorporatism|新社团主义]]（neocorporatism）网络实施——政府、雇主协会和工会三方合作。在芬兰，"公私民合作"（Public-Private-People-Partnerships）模式将公民置于网络的中心位置。在苏格兰，"就业管道"（Employment Pipeline）模式将就业服务、教育培训和非营利支持整合为一条龙网络。而在南欧和东欧，[[Policy Network|政策网络]]显著较弱；市场治理模式（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著(p.172)。
 >   > 例：一个在奥地利失业的青年可能通过学徒制系统被纳入由企业、工会和政府共同管理的培训轨道；而一个在保加利亚失业的青年可能只能依赖资源有限的公共就业服务窗口。EUROSTAT 的指标将两人放在"青年失业率"的同一栏中，但无法反映背后制度支持的巨大落差。

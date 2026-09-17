@@ -8,7 +8,7 @@ aliases:
 summary: "治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,8 @@ related_concepts:
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Theory of Change]]"
-related_methods: []
+related_methods:
+  - "[[Expert Interview]]"
 related_persons: []
 related_facts:
   - "[[YOUNG_ADULLLT]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-09-13
+updated: 2026-09-18
 ---
 
 # Selectivity
@@ -116,7 +117,7 @@ updated: 2026-09-13
 意大利和西班牙的第二机会学校案例表明，地方层面可以通过自主发展替代变革理论来突破绩效指标的选择性框架。但这些突破高度依赖地方创新能力——而这恰恰是许多被标记为"落后"的区域最缺乏的资源([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173]])。
 
 > [!info]- 核心数据
-> - [[YOUNG_ADULLLT]] 项目覆盖 16 个欧盟地区，168 名专家访谈（p.172）
+> - [[YOUNG_ADULLLT]] 项目覆盖 16 个欧盟地区，168 名[[Expert Interview|专家访谈]]（p.172）
 > - 除芬兰外，所有受访国家的[[Lifelong Learning|终身学习]]专业人员将政策首要目标理解为就业安置（p.174）
 
 ## 争议与批评

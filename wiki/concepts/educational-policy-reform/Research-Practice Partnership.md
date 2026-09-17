@@ -8,7 +8,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Effect Size]]"
   - "[[In-depth Interview]]"
+  - "[[Expert Interview]]"
   - "[[Likert Scale]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Research-Practice Partnership
@@ -311,7 +312,7 @@ updated: 2026-09-17
 > |---|---|---|---|---|---|---|
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 132)]] 转述 Wentworth et al. | 美国参与 RPP 的学区教育行政人员与[[School Leadership\|学校领导]]者 | [[Questionnaire\|问卷调查]]与量表验证 | 教育者对 RPP 促进证据决策的感知影响 | RPP 显著提升了教育者的探究心智模式与研究搜寻频率（中间成果），并带来工具性与概念性[[Research Utilization\|研究使用]] | — | 依托受访者自我报告与感知数据，反映伙伴关系对决策过程的积极塑造 |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 加拿大安大略省小学教师群体 | 大规模问卷调查与[[In-depth Interview\|深度访谈]] | 教师获取教学评估信息的主导渠道 | 教师压倒性地依赖同伴交流与校内经验网络，原始学术研究报告使用率极低 | — | 实证揭示若无伙伴关系协助[[Transfer Translation Transformation\|转译]]，学术界知识将处于边缘位置 |
-> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 20–22)]] 转述 OECD 跨国调查 | [[OECD]] 29 个国家／37 个教育系统教育部高层官员与[[Policy Network\|政策网络]] | 跨国政策问卷与半结构化专家访谈 | 伙伴关系机制在政策与实践维度的分布状况 | 学校-大学伙伴关系日益普及，但政策-研究伙伴关系极其罕见；仅极少数系统建立了长期系统的成效评估与协调机制 | — | 反映跨国官方政策视角，各系统对伙伴关系支持力度与数据完备性存在[[Heterogeneity\|异质性]] |
+> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 20–22)]] 转述 OECD 跨国调查 | [[OECD]] 29 个国家／37 个教育系统教育部高层官员与[[Policy Network\|政策网络]] | 跨国政策问卷与半结构化[[Expert Interview\|专家访谈]] | 伙伴关系机制在政策与实践维度的分布状况 | 学校-大学伙伴关系日益普及，但政策-研究伙伴关系极其罕见；仅极少数系统建立了长期系统的成效评估与协调机制 | — | 反映跨国官方政策视角，各系统对伙伴关系支持力度与数据完备性存在[[Heterogeneity\|异质性]] |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 79, 82)]] | 29 国 37 个教育系统教育部 | 跨国政策问卷调查（5点[[Likert Scale\|李克特量表]]测度活跃度） | 大学-中小学网络在生产、政策与实践维度的活跃度 | 仅 17 个系统报告其在政策促成端活跃，14 个系统报告在实践促成活跃，14 个报告在研究生产活跃；哥伦比亚、魁北克等报告实践促成完全不活跃 | — | 自陈量表测度官方对伙伴关系功能的认知，揭示 RPP 在[[International Education\|国际教育]]治理中尚未形成制度化常态 |
 > | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, pp. 214, 216)]] | 匈牙利赫约凯赖斯图尔小学及辐射网络 | 校本合作[[Action Research\|行动研究]]与组织诊断 | [[Complex Instruction Programme\|CIP]] [[Going Native\|本土化]]辐射学校数与师资配置 | 1 所薄弱乡村小学成功辐射全匈近 200 所学校；配置 1 名研究型教师 + 3 名名师 | — | 证实名师与研究型教师分工协同能有效驱动微观学校成为知识创造型组织 |
 > | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, pp. 216, 224)]] | 瑞典全国具有教师教育资格的高校与市镇 | 国家级五年战略试点跟踪评估 | ULF 国家试点覆盖院校与市镇规模 | 覆盖 25 所大学、150 多个市镇教育局及数千名中小学教师（2017–2024 年） | — | 证明中央政府长效资助基础设施能有效支撑跨区域大规模 RPP 生态运转 |

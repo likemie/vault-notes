@@ -8,15 +8,34 @@ aliases:
 summary: "决策者与管理者在工作情境中自发且常规调用的结构化知识体系，包含信念、假定、实践经验及社会科学知识，在新证据进入时发挥认知过滤与调适中介功能"
 type: concept
 domain: "educational-policy-reform"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - topic/knowledge-utilization
   - topic/educational-policy
   - theme/evidence-informed-practice
   - theme/administrative-sensemaking
+related_concepts:
+  - "[[Research Utilization]]"
+  - "[[Construct]]"
+  - "[[School Inspection]]"
+  - "[[Hypothesis]]"
+  - "[[Document]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Problem Solving]]"
+  - "[[Evidence-Based Education]]"
+related_methods:
+  - "[[Expert Interview]]"
+  - "[[Qualitative Content Analysis]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
+  - "[[Qualitative Research]]"
+related_facts:
+  - "[[PISA]]"
+related_arguments:
+  - "[[Argument_Dedering_2009_EERJ]]"
 confidence: high
 status: stable
 created: 2026-09-18
@@ -30,7 +49,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> **实践运作知识（Working Knowledge，又称工作知识）** 是知识利用（Knowledge utilization）与政策执行认知研究中的基础构念。由美国政策学者玛丽·M·肯尼迪（Mary M. Kennedy, 1982b）在探讨实证证据与决策关系时系统提出。它被界定为行政管理者与政策制定者在工作情境中自发、常规且不假思索地调用的一整套有组织的知识体系，涵盖指导个体工作行为的全部信念、预设假定、过往经历以及内化吸收的社会科学知识。在循证治理情境中，实证研究证据鲜少以未加工的原始形态直接机械决定政策产出；决策者总是将外部新证据拆解、简化并调适整合进其既有的实践运作知识结构之中，经由这一认知透镜赋予数据实践意义。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 485–486)]]
+> **实践运作知识（Working Knowledge，又称工作知识）** 是[[Research Utilization|知识利用]]（Knowledge utilization）与政策执行认知研究中的基础[[Construct|构念]]。由美国政策学者玛丽·M·肯尼迪（Mary M. Kennedy, 1982b）在探讨实证证据与决策关系时系统提出。它被界定为行政管理者与政策制定者在工作情境中自发、常规且不假思索地调用的一整套有组织的知识体系，涵盖指导个体工作行为的全部信念、预设假定、过往经历以及内化吸收的社会科学知识。在循证治理情境中，实证研究证据鲜少以未加工的原始形态直接机械决定政策产出；决策者总是将外部新证据拆解、简化并调适整合进其既有的实践运作知识结构之中，经由这一认知透镜赋予数据实践意义。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 485–486)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 决策者面对政策问题时实际激活并据以行动的认知图式与经验常识总和。
@@ -63,7 +82,7 @@ updated: 2026-09-18
 
 > [!feature] 核心要素
 > - **前置信念与假定（Pre-existing Beliefs and Assumptions）** 行动者关于教育规律、学生能力分布与学校运作的常识性信念，构成理解新数据的底层参照系。
-> - **制度实践经验（Experiential Professional Knowledge）** 官员或管理者在长期从事教育教学、学校督导或科层行政中积累的本土情境经验。
+> - **制度实践经验（Experiential Professional Knowledge）** 官员或管理者在长期从事教育教学、[[School Inspection|学校督导]]或科层行政中积累的本土情境经验。
 > - **内化的社会科学知识（Internalized Social Science Knowledge）** 经由学术研讨、政策简报或日常自学吸收，融入日常话语框架的专业概念与因果推论模型。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 485)]]
 > - **简化与拆解机制（Dissembling and Simplifying Mechanism）** 管理者面对高度复杂的量化统计模型时，自发展开降维分解，提取易于理解的局部信息以契合决策需求。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 486)]]
 
@@ -112,7 +131,7 @@ updated: 2026-09-18
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知同化与重构** | 证据必须融入实践运作知识方能发生作用 | 复杂统计测评数据的初次政策解读 | Kennedy (1982b); Spillane et al. (2002) |
-> | **历时专业化演进** | 持续循证实践促进行政工作知识向假设检验模型转变 | 长期建立数据监测与质保部门的科层系统 | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] |
+> | **历时专业化演进** | 持续循证实践促进行政工作知识向[[Hypothesis\|假设]]检验模型转变 | 长期建立数据监测与质保部门的科层系统 | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] |
 
 ---
 
@@ -121,22 +140,22 @@ updated: 2026-09-18
 > [!ref-table]- 德国联邦州教育部官员实践运作知识历时变迁实证记录
 > | 研究案例 | 调查对象与样本 | 运作知识演进表征 | 数据处理形态 |
 > |---|---|---|---|
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | 德国 4 个联邦州教育部质保部门负责人（12 场专家访谈） | 2000 年 PISA 初期表现为缺乏专业统计素养与应对恐慌；2006–2009 年演化为成熟的靶向假说核验、外部学术网络对接及针对弱势学校的诊断支持。 | 质性内容分析编码（MAXQDA）归纳得出常规化、专业化与系统化演进路径。 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | 德国 4 个联邦州教育部质保部门负责人（12 场[[Expert Interview\|专家访谈]]） | 2000 年 [[PISA]] 初期表现为缺乏专业统计素养与应对恐慌；2006–2009 年演化为成熟的靶向假说核验、外部学术网络对接及针对弱势学校的诊断支持。 | [[Qualitative Content Analysis\|质性内容分析]][[Coding in Qualitative Research\|编码]]（MAXQDA）归纳得出常规化、专业化与系统化演进路径。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 追踪德国教育部官员在两轮 PISA 测评及日常治理中的数据处理行为，论证了外部证据如何被重构并融入行政官员的实践运作知识，推动循证政策走向日常行政常规。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 追踪德国教育部官员在两轮 [[PISA]] 测评及日常治理中的数据处理行为，论证了外部证据如何被重构并融入行政官员的实践运作知识，推动循证政策走向日常行政常规。
 
 ---
 
 ## 知识网络
 
 > [!rel-table] 关联知识实体
-> | 关联实体 | 实体类型 | 关联本质说明 | 文献出处 |
+> | 关联实体 | 实体类型 | 关联本质说明 | [[Document\|文献]]出处 |
 > |---|---|---|---|
-> | [[Conceptual, Instrumental, and Symbolic Use of Research]] | 概念 | 实践运作知识是连接概念性知识渗透、工具性问题解决与象征性合法化的中介认知基底。 | Kennedy (1982b); Weiss (1980) |
+> | [[Conceptual, Instrumental, and Symbolic Use of Research]] | 概念 | 实践运作知识是连接概念性知识渗透、工具性[[Problem Solving\|问题解决]]与象征性合法化的中介认知基底。 | Kennedy (1982b); Weiss (1980) |
 > | [[Evidence-Based Education]] | 概念 | 循证教育倡导的实证数据只有穿透并改造管理者的实践运作知识，才能真正引发学校改进。 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, p. 485)]] |
-> | [[Expert Interview]] | 方法 | 专家访谈法是有效探查与重构管理者深层实践运作知识的核心质性研究方法。 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, p. 489)]] |
+> | [[Expert Interview]] | 方法 | 专家访谈法是有效探查与重构管理者深层实践运作知识的核心[[Qualitative Research\|质性研究]]方法。 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, p. 489)]] |
