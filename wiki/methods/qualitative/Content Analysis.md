@@ -7,7 +7,7 @@ summary: "系统分析开放文本与传播材料的推论性研究方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 45
+method_related_count: 48
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Incubation]]"
   - "[[Emergence]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Transcription in Qualitative Research]]"
@@ -59,6 +60,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Observation Method]]"
   - "[[Winnowing]]"
+  - "[[Expert Interview]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -67,10 +69,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Dedering_2009_EERJ]]"
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Content Analysis
@@ -227,3 +230,4 @@ updated: 2026-09-17
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011)]] — 系统构建内容分析的 11 步标准化操作规程与 Mayring 三类进路，并通过教师工作压力案例示范从质性提取、范畴包容归拢、频次计票到实质性理论生成的完整五阶段流程。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 结合[[Observation Method|观察研究]]中的结构化[[Coding in Qualitative Research|编码]]体系与访谈质性分析，示范如何在教育研究中通过范畴化提炼核心概念与建构理论逻辑。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 探讨内容分析在[[Mixed Methods Research|混合方法]]与质性文本研究中的应用，强调如何通过[[Winnowing|数据筛选]]（Winnowing）将繁复编码收敛为 5–7 个核心解释主题。
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 运用计算机辅助质性分析软件（MAXQDA）实施多源政策内容分析，对德国教育行政高层及督导官员的 12 场半结构化[[Expert Interview|专家访谈]][[Transcription in Qualitative Research|转录]]稿、2,796 篇媒体报道和 1,500 份教育部官方公文进行混合范畴编码（对接 Mayring [[Qualitative Content Analysis|质性内容分析]]进路），系统考察[[Evidence-Based Education|循证教育]]政策工具在科层行政实践中的概念转化与吸纳机制。

@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
     },
     {
+      "basename": "School Inspection",
+      "path": "wiki/concepts/educational-policy-reform/School Inspection.md"
+    },
+    {
       "basename": "Academic Achievement",
       "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Attrition",
       "path": "wiki/concepts/research-methodology/Attrition.md"
-    },
-    {
-      "basename": "Urie Bronfenbrenner",
-      "path": "wiki/persons/us/Urie Bronfenbrenner.md"
     }
   ],
   "omittedPaths": [],
