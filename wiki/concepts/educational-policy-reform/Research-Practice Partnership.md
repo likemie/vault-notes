@@ -8,7 +8,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 56
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,13 +36,14 @@ related_concepts:
   - "[[Champ]]"
   - "[[Reflexivity]]"
   - "[[Boundary Spanner]]"
+  - "[[Research Utilization]]"
   - "[[Evidence Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Knowledge Transfer]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Reliability]]"
-  - "[[Research Utilization]]"
   - "[[Democratising Evidence]]"
+  - "[[Research-Engaged School]]"
   - "[[Academic Achievement]]"
   - "[[School Inspection]]"
   - "[[External Validity]]"
@@ -53,7 +54,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[International Education]]"
   - "[[Scale of Measurement]]"
-related_theories: []
+related_theories:
+  - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Action Research]]"
@@ -66,6 +68,7 @@ related_instruments: []
 related_persons:
   - "[[Tine S. Prøitz]]"
   - "[[Vivian Tseng]]"
+  - "[[Mark Rickinson]]"
 related_facts:
   - "[[Knowledge Network for Applied Education Research]]"
   - "[[National Center for Research in Policy and Practice]]"
@@ -80,6 +83,7 @@ related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
+  - "[[Argument_Rickinson_2022_ER]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Slavin_2019_EP]]"
 confidence: high
@@ -137,6 +141,7 @@ updated: 2026-09-17
 > - **[[Third Space Discourse|第三空间]][[Dialogue in Education|对话]]机制（Third Space Discourse）** 拒绝消除研究者与实践者固有专业差异的同化思维，搭建平等交流的常态化小型研讨[[Champ|场域]]，赋予一线教师直接发起研究课题的制度化权利，在兼具[[Reflexivity|反思性]]与教学敏感性的第三空间中实现优势互补。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 217–219)]]
 > - **名师与研究型教师双轨分工协同** 在微观学校端确立内外部专业分工，由专职名师在校内主持教学法微观改进，由享受带薪科研时间的研究型教师负责跨校学术辐射与高校深度对接，打破依靠个别明星校长的偶发星象运气。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 215–216)]]
 > - **双向跨界中介能力** 突破证据生产者与使用者的双向能力赤字，培育兼通学术方法与现场情境的[[Boundary Spanner|跨界中介者]]（boundary spanners）（Campbell et al., 2017）。
+> - **高质量[[Research Utilization|证据使用]]的组织基建与外部联结（Infrastructure & Relationship Enabler）** 在[[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework|QURE]]）中，RPP 被明确确立为支撑学校组织使能的关键外部基础架构与专业人际网络；它打破了传统学校孤立无援的困境，使校内研究协调员能够顺畅借力外部学术专长，推动证据使用从单次项目合作深化为对适切证据的持续审慎研讨。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 134, 143–144)]]
 > - **多层级影响链条解构** 借助 [[National Center for Research in Policy and Practice|NCRPP]] 等前沿评估框架，将成效解构为心智模式与研究搜寻行为等中间成果，以及工具性、概念性与象征性等长期成果（Wentworth et al., 2017）。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 
 > [!logic-map]- RPP 在[[Evidence Ecosystem|证据生态系统]]中的共创机制
@@ -225,6 +230,7 @@ updated: 2026-09-17
 > - **2022 — 跨国实证调查揭示大学-中小学伙伴关系的制度化局限** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, p. 82)]] 针对 29 国 37 个教育系统调查显示，大学-中小学伙伴关系与网络在各国的活跃度呈现显著系统特异性，远未成为 OECD 国家的普遍制度化实践：尽管其在推动实践转化上被寄予厚望，但哥伦比亚、加拿大魁北克等诸多系统明确报告该类伙伴网络在促进教学实践应用端“完全不活跃”，奥地利与斯洛伐克等系统则报告其仅活跃于论文生产端，证实学术界参与的混合型伙伴关系在跨界落地上面临严重的机制脱节。
 > - **2022 — 承认差异并构建“[[Third Space Discourse|第三空间话语]]”与跨部门协作模型** [[Tine S. Prøitz|蒂内·S·普勒茨]]（Tine S. Prøitz）总结瑞典国家级 ULF 试点项目（覆盖 25 所设立教师教育的高校与 150 余个市镇），指出 RPP 不应试图抹平实践者与研究者在工作情境与话语体系上的固有差异，而应通过承认差异构建“第三空间话语”（Third Space Discourse），在研讨会与共同议程中明确角色分工以保障科学质量。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 216–220)]]
 > - **2022 — [[Democratising Evidence|证据民主化]]导向的 RPP 架构与资助生态再造** [[Vivian Tseng|薇薇安·曾]]（[[Vivian Tseng]]）将 RPP 界定为推进“[[Democratising Evidence|证据民主化]]”的核心战略，依托 Henrick et al. (2017) 的伙伴关系五大效能维度（信任培植、严谨[[Action Research|行动研究]]、支持实践目标、产出外溢知识、双向能力建设），呼吁资助机构提供长期灵活资助，将关系基础设施与能力建设列为核心交付物，打破传统的“唯论文”学术考核。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 220–224)]]
+> - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架确立其为组织基建与生态协同使能构件** 马克·里克森（[[Mark Rickinson]]）等系统梳理国际循证图景，将美国的 RPP（Coburn & Penuel, 2016）与英国的[[Research-Engaged School|研究参与学校]]（Godfrey & Brown, 2019）、澳大利亚研究型教师职业体系并列为推动研究-实践联结的国际代表机制；在 QURE 框架中，RPP 不仅被界定为学校组织的基础架构（建立外部研究伙伴联结）与个体关系使能条件，更被作为构建复杂宏观证据生态系统的中枢网络（Boaz & Nutley, 2019; Farley-Ripple et al., 2018），推动其核心关注从“建立合作机制”向“深化适切证据与审慎实施的使用质量”升级。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 134, 143–144)]]
 
 ---
 
@@ -255,6 +261,12 @@ updated: 2026-09-17
 > >
 > > - **宏观试点评估者（Prøitz, 2022）** 警告北欧与国际经验表明，校本科研极易随时间推移逐渐丧失理论严谨性，必须由资深学者严格把控[[Epistemology|认识论]]与方法规范，防止协作演变为纯粹行政事务处理。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 219)]]
 > > - **实践[[Action Research|行动研究]]者（Nagy, 2022）** 坚决强调一线学校面临紧迫的生存与学业危机，若科研不能带来具体的课堂组织变革与实际教学效用，再严谨的理论探讨也只会引发教师的极度疲劳与抵触。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 214–216)]]
+>
+> > [!axis] 形式化机制搭建 vs 适切证据的使用质量
+> > 争论聚焦于建立伙伴关系本身是否必然保障证据利用成效。
+> >
+> > - **机制建设取向（Coburn & Penuel, 2016）** 强调首要任务是打破制度壁垒，建立长效互信的组织契约与沟通渠道。
+> > - **质量使用取向（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a]]）** 指出仅有伙伴关系或建立合作项目绝不等于高质量证据利用；若缺乏对证据方法学严谨性与教育问题、情境及用途的三维适配（适切研究证据），以及教师的批判研读与集体审议（审慎参与和实施），RPP 极易流于形式合规，必须以使用质态为核心反思透镜。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–145)]]
 
 > [!warning] 适用局限
 > - **对制度性时间与资金的高敏感性** RPP 具有极高的沉没成本与维护门槛；一旦外部专项拨款中止或学区领导层换届，脆弱的合作协议往往面临迅速瓦解的风险。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 131)]]
@@ -314,3 +326,4 @@ updated: 2026-09-17
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查，实证测度大学-中小学网络在研究生产、政策促成与教学实践转化三端的活跃度，揭示其在多国实践转化功能上的断层与未制度化现实。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 汇集 Prøitz、Nagy 与 Tseng 的多元视角，系统解构瑞典 ULF 国家试点对[[Third Space Discourse|第三空间话语]]的建构、匈牙利 2013 教师生涯阶梯对校本[[Action Research|行动研究]]的支撑，以及 Henrick et al. (2017) RPP 有效性五大维度评估框架与资助生态再造。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 从循证改革宏观概化视角批判单学区 RPP 模式过度贴合本地生态而抑制[[External Validity|外部效度]]的局限性，主张通过大样本多元情境的成功复现破解概化难题。
+> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 将 RPP 定位为促进研究-实践联结的全球代表性制度形态，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中确立其作为组织基础架构（外部学术伙伴联结）与系统生态协同网络的核心使能功能，并提出超越二元机制搭建、聚焦适切证据与审慎实施的使用质量评价标准。
