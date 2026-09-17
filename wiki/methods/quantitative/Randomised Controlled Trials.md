@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 125
+method_related_count: 127
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
   - "[[Document]]"
+  - "[[Initial Teacher Training]]"
   - "[[School Choice]]"
   - "[[Preregistration]]"
   - "[[Homework]]"
@@ -64,6 +65,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Screening Off]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Epistemological Coherence]]"
   - "[[Policy Network]]"
   - "[[Problem Finding]]"
   - "[[Policy-Based Evidence-Making]]"
@@ -235,7 +237,7 @@ updated: 2026-09-17
 > [!method-stack] [[Cluster Randomized Trials|集群随机试验]]（CRT）与精度改进
 > CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi & Kelcey (2016) 比较了美国国家教育研究中心（National Center for Education Research，NCER）资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 233]]）。精度通过最小可检测[[Effect Size|效应量]]（Minimum Detectable Effect Size，MDES）衡量——指在给定统计功效下可检测的最小效应量。论文同时提供了两级和三级 CRT 的 MDES 计算公式，填补了方法论[[Document|文献]]的空白。
 
-> [!method-stack] 部分嵌套 RCT 与[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）
+> [!method-stack] 部分嵌套 RCT 与[[Intent-to-Treat Analysis|意向治疗分析]]（[[Initial Teacher Training|ITT]]）
 > Schweig & Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-compliance）** 当存在非合规时，传统[[Hierarchical Linear Model|多水平模型]]不再估计处理效应，而是提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 233]]）。
 
 > [!method-stack] [[School Choice|学校选择]]与[[Teacher Choices|教师选择]]：突破传统 RCT 适用瓶颈的新设计
@@ -389,7 +391,7 @@ updated: 2026-09-17
 >
 > 批判政治经济学指出，微观 RCT 对单一技术变量（如学生驱虫药片、教师考勤指纹机、小额绩效奖金、条件性现金转移）的人为隔离，系统性地“[[Screening Off|屏蔽]]”（Screening Off）了宏观财政紧缩、教师编制削减、殖民历史欠账与依附性政治经济结构。技术上的“黄金标准”在实践中沦为推卸系统性治理责任、将公共教育危机降维为微观行为矫正的自指性[[Social Science as Legitimation Alibi|科学借口]]（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 545, 548]]）。
 
-> [!critique] [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]]：[[Evidence Era|证据时代]][[Rationalized Myth|合理化神话]]与全流程认识论连贯性断裂
+> [!critique] [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]]：[[Evidence Era|证据时代]][[Rationalized Myth|合理化神话]]与[[Epistemological Coherence|全流程认识论连贯性]]断裂
 > 罗纳德·赫尔格通（Ronald Helgetun）与[[Ian Menter|伊恩·门特]]（[[Ian Menter]]）通过对英格兰 2010 年代[[Evidence Era|证据时代]]（Evidence Era）教师教育改革与[[Policy Network|政策网络]]的实证解剖，揭示了 RCT 作为[[Rationalized Myth|合理化神话]]（Rationalized Myth）的深层制度运作机制（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, pp. 17–19, 23–24]]）：
 > 1. **临床医学隐喻与合理化神话的建构** 官方政策（如 2010 年白皮书《教学的重要性》）将临床医学试验机制强行嫁接至教育领域，通过将 RCT 宣称为最高等级证据，构建出一种“非政治性、纯技术客观”的科学假象，以此为其激进的市场化与去大学化改革确立无可置辩的合法性；
 > 2. **全流程认识论连贯性（Epistemological Coherence）的割裂** 科学因果推论要求从[[Problem Finding|问题界定]]（Problem Formulation）、观察测量（Observation）、统计建模（Analysis）直至政策应用（Translation/Application）保持完整严密的认识论连贯。然而在政策实际运作中，政策中介与官员往往将微观 RCT 剥离出其特定的生成语境，仅抽取单一正向效应量作为孤立的“政策标牌”，造成研究生产端与政策应用端的严重认识论脱节；
@@ -427,4 +429,4 @@ updated: 2026-09-17
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011, Ch. 4, p. 78)]] — 系统构建教育实验[[Causality|因果推断]]全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]与真实课堂复杂性对 RCT 的挑战（第 4 章、第 16 章）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明[[World Bank|世界银行]]（World Bank）如何将其专属[[Policy Brokerage|政策中介]]工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）十年来资助超 200 项大规模教育 RCT 的制度演进，系统剖析独立评估人机制、[[Preregistration|预注册]][[Statistical Analysis Plan|统计分析计划]]（SAP）、[[Implementation and Process Evaluation|实施与过程评估]]（IPE）整合、[[School Choice|学校选择]]与[[Teacher Choices|教师选择]]新设计，以及应对[[Effect Size|效应量]]衰减与不确定性报告的方法学突破。
-> - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 实证解剖英格兰[[Evidence Era|证据时代]]将临床医学 RCT 奉为[[Rationalized Myth|合理化神话]]的政策话语建构，剖析从研究设计到政策转化中认识论连贯性的断裂，以及由此衍生的依策造据风险。
+> - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 实证解剖英格兰[[Evidence Era|证据时代]]将临床医学 RCT 奉为[[Rationalized Myth|合理化神话]]的政策话语建构，剖析从研究设计到政策转化中[[Epistemological Coherence|认识论连贯性]]的断裂，以及由此衍生的依策造据风险。

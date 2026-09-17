@@ -13,7 +13,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - theme/school-leadership
   - region/uk
 related_concepts:
+  - "[[Initial Teacher Training]]"
   - "[[Self-Improving School System]]"
   - "[[Research Utilization]]"
   - "[[Policy Network]]"
@@ -63,7 +64,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 教学学校（Teaching Schools）是英格兰被指定承担系统改进职责的优秀中小学校，在由其牵头组成的教学学校联盟（Teaching School Alliances，[[Thinking Skills Assessment|TSA]]）内统筹职前初始教师培训（Initial Teacher Training，ITT）、在职持续专业发展（Continuing Professional Development，CPD）、校际支持以及研究与发展（R&D）。这一安排将优秀学校的影响力制度化，是[[Self-Improving School System|自我改进学校系统]]在专业发展与[[Research Utilization|证据使用]]方面的主要组织载体；其全国性代表机构教学学校理事会（Teaching Schools Council，TSC）被英国教育部赋予核心政策咨询地位（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, p. 93]]）。
+> 教学学校（Teaching Schools）是英格兰被指定承担系统改进职责的优秀中小学校，在由其牵头组成的教学学校联盟（Teaching School Alliances，[[Thinking Skills Assessment|TSA]]）内统筹职前[[Initial Teacher Training|初始教师培训]]（Initial Teacher Training，ITT）、在职持续专业发展（Continuing Professional Development，CPD）、校际支持以及研究与发展（R&D）。这一安排将优秀学校的影响力制度化，是[[Self-Improving School System|自我改进学校系统]]在专业发展与[[Research Utilization|证据使用]]方面的主要组织载体；其全国性代表机构教学学校理事会（Teaching Schools Council，TSC）被英国教育部赋予核心政策咨询地位（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, p. 93]]）。
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2010 年起在英格兰大规模推行，与同一时期推进的学院化（[[Academy Programme in England]]）共同构成自我改进取向的组织基础；2021 年起重组过渡为教学学校枢纽（Teaching School Hubs，TSH）。
@@ -80,7 +81,7 @@ updated: 2026-09-17
 
 > [!policy-design]- 方案设计
 > - **项目目标** 以优秀学校为节点建立横向的校际互助与专业学习网络，使有效实践在系统内扩散并支撑学校自我改进与循证教学。
-> - **核心职能模块（“大六项” The Big 6）** 涵盖（1）校本初始教师培训（School Direct / SCITT）；（2）在职持续专业发展（CPD）；（3）领导力开发与继任规划；（4）学校间支持（部署卓越领导者与专家教师 SLE/NLE）；（5）指定与指定后续支持；（6）研究与发展（R&D）实践推广。
+> - **核心职能模块（“大六项” The Big 6）** 涵盖（1）校本[[Initial Teacher Training|初始教师培训]]（School Direct / SCITT）；（2）在职持续专业发展（CPD）；（3）领导力开发与继任规划；（4）学校间支持（部署卓越领导者与专家教师 SLE/NLE）；（5）指定与指定后续支持；（6）研究与发展（R&D）实践推广。
 > - **外部协调支架** 教学学校自身即为协调主体，承担联盟内职前与在职专业发展的组织工作，并统筹研究与发展的推进（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 120]]）。
 > - **实施控制** 教学学校的指定由教育部严格把关，其成效通过联盟覆盖范围与职能履行情况体现；研究与发展职能的实施质量在联盟之间差异明显（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, pp. 120–122]]）。
 
@@ -99,7 +100,7 @@ updated: 2026-09-17
 > - **2010 — 制度设立** 联合政府白皮书[[The Importance of Teaching|《教学的重要性》]]确立教学学校制度，作为[[Self-Improving School System|自我改进学校系统]]与校本化培训的基石。
 > - **2011 — 首批指定** 第一批 100 所教学学校正式获批并启动联盟运作。
 > - **2014 年 10 月 — 网络规模成型** 至少 7,144 所学校与教学学校建立合作联系，占英格兰全部学校的 32%。
-> - **2014–2015 — 深度参与国家政策审查** 教学学校杰出代表安德鲁·卡特爵士受命主持全国初始教师培训审查（[[Carter Review of Initial Teacher Training|卡特审查]]），确立全国循证核心课程框架（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, p. 90]]）。
+> - **2014–2015 — 深度参与国家政策审查** 教学学校杰出代表安德鲁·卡特爵士受命主持全国[[Initial Teacher Training|初始教师培训]]审查（[[Carter Review of Initial Teacher Training|卡特审查]]），确立全国循证核心课程框架（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, p. 90]]）。
 > - **2015 年 10 月 — 指定数量达到 692 所** 教学学校数量持续扩张，成为英格兰校际专业发展与校本 ITT 的主导渠道（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 120]]）。
 > - **2014–2016 — 研发职能分化与政策咨询制度化** [[Evaluation Research|评估研究]]揭示 R&D 职能受制于不可持续的工作量与经费短缺（Gu et al., 2014, 2015）；与此同时，2016 年白皮书《处处卓越的教育》进一步将 TSC 确立为国家级政策咨询与质量保障支柱（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, p. 93]]）。
 > - **2021 — 枢纽化重组（Teaching School Hubs）** 英国教育部将 800 余所零散教学学校精简整合为 87 所区域性“教学学校枢纽”（TSH），专门对接《早期职业框架》（ECF）与国家专业资格（NPQs）的标准化交付。
@@ -109,7 +110,7 @@ updated: 2026-09-17
 ## 效果与评价
 
 > [!finding-cards] 效果与评价
-> - **网络覆盖规模可观与校本培训重心转移** 至 2014 年 10 月已有至少 7,144 所学校建立联系（占 32%），成功将大量 ITT 配额从大学转移至学校主导的 School Direct 和 SCITT 路径（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, p. 90]]）。
+> - **网络覆盖规模可观与校本培训重心转移** 至 2014 年 10 月已有至少 7,144 所学校建立联系（占 32%），成功将大量 [[Initial Teacher Training|ITT]] 配额从大学转移至学校主导的 School Direct 和 SCITT 路径（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, p. 90]]）。
 > - **研究与发展（R&D）职能实施不均与边缘化** 该职能在部分联盟被视作基础性工作，但在多数联盟中因面临极度繁重的考核指标与缺乏专属经费支持，在实践中往往被弱化为附带工作（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, pp. 121–122]]）。
 > - **[[Policy Network|政策网络]]中的政治吸纳与落地偏好** [[Elite Interview|精英访谈]]揭示，教学[[School Leadership|学校领导]]者作为“系统领袖”（System Leaders）被深度吸纳进教育部咨询网络，其在参与政策审查与圆桌讨论时，首要考量往往并非学术严谨性，而是方案能否在部长手中顺利“落地”（Landing）（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, pp. 93–94]]）。
 

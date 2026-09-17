@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 48
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -72,12 +72,11 @@ related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Argument_Teng_2025_CE]]"
 related_facts:
-  - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[CNRS]]"
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Pierre Bourdieu
@@ -103,7 +102,7 @@ updated: 2026-09-14
 > - **1951–1954** 就读巴黎高等[[Normal School|师范学院]]，接受系统哲学训练。在存在主义与马克思主义占主导的学术环境中，转向历史与[[Epistemology|认识论]]研究。
 > - **1955–1960** 前往阿尔及利亚服兵役，随后在此开展[[Ethnography|民族志]]调查并任[[Teaching Assistant|助教]]。这一经历成为其从纯哲学转向经验社会学与人类学的决定性起点。
 > - **1964** 与 Jean-Claude Passeron 合著出版《继承人》（Les Héritiers），揭示法国高等教育如何通过默认[[Cultural Capital|文化资本]]优势来隐性再生产阶级秩序。
-> - **1968** 与 Jean-Claude Passeron 等合著出版《社会学家行当》（Le Mé[[Top Institute for Evidence-Based Education Research|TIER]] de sociologue），系统阐述社会学认识论预备。
+> - **1968** 与 Jean-Claude Passeron 等合著出版《社会学家行当》（Le MéTIER de sociologue），系统阐述社会学认识论预备。
 > - **1975** 创办《社会科学研究学术活动》（Actes de la recherche en sciences sociales）期刊，创立融合视觉、数据与经验叙事的新出版风格。
 > - **1981** 当选法兰西学院社会学讲席教授，发表就职演说《关于课的课》（Leçon sur la leçon）。
 > - **1993** 获得[[CNRS|法国国家科学研究中心]]金奖。同年出版《世界之苦》（La Misère du monde），以[[In-depth Interview|深度访谈]]形式系统呈现新自由主义政策给普通人带来的社会苦难。

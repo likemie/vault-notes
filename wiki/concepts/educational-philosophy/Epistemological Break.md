@@ -5,7 +5,7 @@ aliases:
 summary: "Bourdieu 的认识论概念，指科学研究必须与前科学世界的日常语言和自发理解进行断裂。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,14 +33,13 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
-related_facts:
-  - "[[Top Institute for Evidence-Based Education Research]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 ## 定义
@@ -53,7 +52,7 @@ updated: 2026-09-11
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - 1968 年 Bourdieu, Chamboredon & Passeron 在 *Le mé[[Top Institute for Evidence-Based Education Research|TIER]] de sociologue* 中系统阐述[[Epistemology|认识论]]断裂的方法论地位([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])
+> - 1968 年 Bourdieu, Chamboredon & Passeron 在 *Le méTIER de sociologue* 中系统阐述[[Epistemology|认识论]]断裂的方法论地位([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])
 > - Bachelard（1934/1984）更早提出"简单从来不过是简化之物"（the simple is never anything more than the simplified），否定科学拥有确定遗产的确定性，坚持"科学只能通过不断质疑自身构造的原理来进步"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])
 > - [[Argument_Eacott_2015_EPT|Eacott (2015)]]将认识论断裂概念引入教育行政研究，论证教育行政学者作为"嵌入且具身的行动者"尤其需要这一操作
 

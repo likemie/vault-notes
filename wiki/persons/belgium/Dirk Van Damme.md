@@ -8,7 +8,7 @@ summary: "比利时比较教育学者与国际教育政策专家，曾任根特�
 type: person
 nationality: belgium
 person_region: "belgium"
-person_related_count: 33
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Policy Network]]"
   - "[[Epistemology]]"
+  - "[[Replication in Education Research]]"
   - "[[Research Impact]]"
   - "[[Academic Achievement]]"
   - "[[Evidence-Based Education]]"
@@ -46,6 +47,7 @@ related_methods:
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[Education Innovation and Research]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[PISA]]"
   - "[[Teaching and Learning International Survey]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Dirk Van Damme
@@ -72,8 +74,8 @@ updated: 2026-09-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 比利时比较教育学者、[[International Education|国际教育]]政策专家。曾任比利时根特大学（Ghent University）教育科学教授、[[OECD|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, [[Centre for Educational Research and Innovation|CERI]]）主任（2008–2021），现为波士顿课程再造中心（Center for Curriculum Redesign）高级研究员及教育咨询专家。
-> - **核心角色** 长期主持 CERI 的全球教育创新与研究政策议程，统筹推进教育技术、[[Social-Emotional Learning|社会情感能力]]测评及循证[[Policy Network|政策网络]]建设；在教育科研方法论争论中坚定倡导学科自主化与严谨实证规程。
-> - **代表贡献** 主持推动 OECD [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，系统诊断全球教育科研面临的[[Epistemology|认识论]]不确定性与复现危机，提出教育科学学科化转型战略路径。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 202–206)]]
+> - **核心角色** 长期主持 CERI 的全球[[Education Innovation and Research|教育创新与研究]]政策议程，统筹推进教育技术、[[Social-Emotional Learning|社会情感能力]]测评及循证[[Policy Network|政策网络]]建设；在教育科研方法论争论中坚定倡导学科自主化与严谨实证规程。
+> - **代表贡献** 主持推动 OECD [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，系统诊断全球教育科研面临的[[Epistemology|认识论]]不确定性与[[Replication in Education Research|复现危机]]，提出教育科学学科化转型战略路径。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 202–206)]]
 
 > [!citation-card] 人物定位的关键来源
 > 提升教育研究使教育系统转型为循证知识系统的道路是漫长而曲折的。在此期间，我们应当尊重政策制定者与实践者解决知识需求的方式。真正的挑战在于研究共同体自身，而不在于教师和政策制定者。（p. 206）
@@ -106,7 +108,7 @@ updated: 2026-09-15
 >   - **阶段转向** 突破传统[[Academic Achievement|学业成就]]评价框架，开创跨国社会情感能力测量与全球教育演变前瞻智库议程。
 > - **2018–至今 — [[Evidence-Based Education|循证教育]]知识生态重构与自主演绎科学学科建制** 全面反思全球教育科研与决策实践之间的严重断层，诊断供给侧的[[Epistemology|认识论]]赤字与意识形态羁绊。
 >   - **代表著作** *Perspectives on education research* (2022, In Revai (Ed.))。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 202–206)]]
->   - **关键概念／方法** [[Epistemology]]、[[Evidence-Based Education]]、[[Blue Skies Research]]、复现危机、内幕偏误。
+>   - **关键概念／方法** [[Epistemology]]、[[Evidence-Based Education]]、[[Blue Skies Research]]、[[Replication in Education Research|复现危机]]、内幕偏误。
 >   - **阶段转向** 从具体的国际政策比较与测评项目，上升为对教育学作为一门独立[[Scientific Method|经验科学]]的学科[[Theory of Knowledge|知识论]]基础与治理机制的元科学批判。
 
 ---

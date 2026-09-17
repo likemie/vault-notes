@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Access and Acceptance in Research]]"
+  - "[[Initial Teacher Training]]"
   - "[[Attrition]]"
   - "[[Fade-out Effect]]"
   - "[[Evaluator Independence]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Blueprints for Healthy Youth Development
@@ -100,7 +101,7 @@ updated: 2026-09-16
 > Blueprints 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Intelligent Tutoring Systems|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **单项[[Access and Acceptance in Research|研究准入]]认证** 实施严格的“Certified / Not Certified”初筛，仅有通过方法学质量审核的研究才能进入项目综合评级池([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 13]])。
-> 2. **强制[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）** 强制要求采用 ITT 分析模型，避免因参与者依从性脱落（Compliance Bias）导致处理效应高估([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
+> 2. **强制[[Intent-to-Treat Analysis|意向治疗分析]]（[[Initial Teacher Training|ITT]]）** 强制要求采用 ITT 分析模型，避免因参与者依从性脱落（Compliance Bias）导致处理效应高估([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
 > 3. **[[Attrition|样本流失]]双重检验** 要求对实验组与对照组脱落者实施卡方与 t 检验，全面排除差异流失造成的基线失衡。
 
 ---
@@ -139,4 +140,4 @@ updated: 2026-09-16
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — Blueprints 在 12 个清算中心中代表了“严出导向（[[Selectivity]]）”与临床级最高标准模式([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。
 > - [[Internal Validity]] 与 [[Construct Validity]] — [[Evaluator Independence|独立评估者]]复制有效规避了[[Publication Bias|发表偏倚]]与利益冲突导致的[[Effect Size|效应量]]虚高。
-> - [[Intent-to-Treat Analysis]] — Blueprints 将 ITT 作为核心分析规范，防范依从性偏倚。
+> - [[Intent-to-Treat Analysis]] — Blueprints 将 [[Initial Teacher Training|ITT]] 作为核心分析规范，防范依从性偏倚。

@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 41
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_count: 50
+fact_related_level: 6
+fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
 org_type: government-research-agency
 headquarters: "Washington, D.C., USA"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Engineered Evidence]]"
   - "[[Operationalization]]"
   - "[[Causality]]"
+  - "[[Developer-Made Measures]]"
   - "[[Implementation Fidelity]]"
   - "[[Knowledge Production]]"
   - "[[Scientific Paradigm]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Statistical Normalisation]]"
   - "[[Heterogeneity]]"
+  - "[[Evidence-Based Education]]"
   - "[[Democratising Evidence]]"
   - "[[Research-Practice Partnership]]"
 related_theories: []
@@ -56,25 +58,32 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Experimental Research]]"
   - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
+  - "[[Hierarchical Linear Model]]"
 related_instruments: []
 related_persons:
   - "[[Mark Schneider]]"
   - "[[Robert Slavin]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Investing in Innovation Program]]"
+  - "[[Every Student Succeeds Act]]"
+  - "[[Using Data Intervention]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
-  - "[[Using Data Intervention]]"
+  - "[[Education Innovation and Research]]"
+  - "[[Best Evidence Encyclopedia]]"
+  - "[[Evidence for ESSA]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Gorard_2020_ROE]]"
+  - "[[Argument_Slavin_2019_EP]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Institute of Education Sciences
@@ -98,7 +107,8 @@ updated: 2026-09-16
 
 > [!dev-timeline]- 组织发展历程
 > - **2002–2010 — 创设奠基与因果[[Evidence Standards|证据标准]]确立** 成立初期确立以[[Internal Validity|内部效度]]为基石的研究评价体系，创设[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC），将[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）确立为因果干预评估的黄金标准，通过严格的[[Peer Debriefing|同行审议]]与证据分级，终结散漫低质的[[Empiricism|经验论]]述。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
-> - **2010–2018 — 证据库扩容、转化瓶颈反思与重大后端因果评估** 持续资助数百项大规模 RCT，但戈拉德等学者指出，前端证据生产的繁荣掩盖了后端证据利用研究近九成缺乏因果设计的严重赤字。IES 资助了全库极罕见的 4 级证据利用试验（如佛罗里达 Using Data 数据使用干预试验，Cavalluzzo et al., 2014），证实密集数据培训虽使教师协作暴增，但学生统考增益为零（$ES = 0.02$），推动学界反思纯认知培训的局限。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 571, 592)]]
+> - **2010–2015 — 投资创新计划（i3）与分级证据资助模型成型** 依托《美国复苏与再投资法案》，IES 与联邦教育部推行投资创新计划（[[Investing in Innovation Program|Investing in Innovation]], i3），开创性地将竞争性资助与前期实证证据等级（起步级、验证级、规模化级）深度绑定，资助了全美上百项大规模整校改革与课程整群 RCT 评估。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–24)]]
+> - **2015–2018 — [[Every Student Succeeds Act|ESSA]] 四级法定标准与重大后端因果评估** 《每个学生成功法案》（ESSA 2015）将 IES/WWC 四级证据标准正式上升为国家法定采购门槛；同时，IES 资助了佛罗里达 [[Using Data Intervention|Using Data]] 数据使用干预等重大试验，推动学界反思纯认知培训与真实学业增益脱节的转化瓶颈。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 571, 592)]]
 > - **2018–至今 — SEER 循证卓越标准与系统生态转型** 在院长[[Mark Schneider|马克·施奈德]]（Mark Schneider）领导下，IES 启动教育研究卓越标准（Standards for Excellence in Education Research, SEER）改革，从单纯强调因果内部效度，转向涵盖研究[[Preregistration|预注册]]、构件明确界定、实施反差记录、真实成本核算、独立通用测量、快速试错复现、市场化规模化转化以及教育公平响应的九维治理生态。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
 
 ---
@@ -114,7 +124,7 @@ updated: 2026-09-16
 > [!pathways]- 业务运行机制与宏观制度杠杆
 > - **竞争性同行资助与预先注册规程** 实行高强度的同行竞争性立项评审，强制要求所有受资助的因果实证评估项目在干预前公开注册[[Hypothesis|研究假设]]、设计与分析计划，并全程公开数据与计算脚本，遏制数据挖掘与[[Publication Bias|发表偏倚]]。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
 > - **构件拆解与经济学成本核算支持** 强制要求研究者清晰剥离干预的各项构件，终结混杂药丸袋黑箱；设立专门的成本分析专家服务台（Cost Analysis in Practice Help Desk）与便捷核算工具，辅导缺乏经济学训练的研究者核算师资与财力成本。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 207)]]
-> - **宏观法定拨款与因果证据硬性挂钩** 戈拉德等学者强调，IES/WWC [[Evidence Standards|证据标准]]最核心的制度力量在于其作为美国联邦立法的硬约束支架——在《投资创新计划》（[[Investing in Innovation Program|Investing in Innovation]], i3）与《每一个学生成功法》（Every Student Succeeds Act, ESSA）中，联邦政府将数十亿美元的学校改进竞争性拨款与 IES/WWC 四级证据标准紧密绑定，以法定财政杠杆确保只有高等级[[Counterfactual|反事实]]实证干预才能获得规模化资金支持。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 598–600)]]
+> - **宏观法定拨款与因果证据硬性挂钩** 戈拉德等学者强调，IES/WWC [[Evidence Standards|证据标准]]最核心的制度力量在于其作为美国联邦立法的硬约束支架——在《投资创新计划》（[[Investing in Innovation Program|Investing in Innovation]], i3）与《[[Every Student Succeeds Act|每一个学生成功法]]》（Every Student Succeeds Act, ESSA）中，联邦政府将数十亿美元的学校改进竞争性拨款与 IES/WWC 四级证据标准紧密绑定，以法定财政杠杆确保只有高等级[[Counterfactual|反事实]]实证干预才能获得规模化资金支持。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 598–600)]]
 > - **微观预制工件工程化研发支持** IES 资助的课程实证研究（如 Doabler et al., 2014 核心数学脚本化教案试验）率先践行了“[[Engineered Evidence|证据工程化]]”理念，将复杂的认知与教学因果规律深度封装进现成教案与软件工件，免除一线教师繁重的统计研读负担。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 597–598)]]
 
 ---
@@ -124,7 +134,7 @@ updated: 2026-09-16
 > [!finding-cards] 核心产品与业务矩阵
 > - **SEER 循证卓越标准体系** 针对传统实证研究痛点研制出台九大[[Operationalization|操作化]]准则，重构国家教育实证研究的设计、评价与结项准则。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
 > - **[[What Works Clearinghouse|有效干预清算中心]]（WWC）** 针对全球教育[[Intervention Research|干预研究]]开展系统性方法学审查，依据严格[[Causality|因果推断]]标准发布实践指南（Practice Guides）与干预效果报告。
-> - **开放测量工具库（EdInstruments）** 资助建立当代教育研究高质量通用测量工具开放目录，强制要求使用成熟第三方标准测验，根除开发者自编测验夸大成效的假象。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 207–208)]]
+> - **开放测量工具库（EdInstruments）** 资助建立当代教育研究高质量通用测量工具开放目录，强制要求使用成熟第三方标准测验，根除[[Developer-Made Measures|开发者自编测验]]夸大成效的假象。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 207–208)]]
 > - **全美教育进展评估与国家统计监测** 由 NCES 主导实施全美教育进展评估（NAEP，常称国家成绩单）以及覆盖学前至成人教育的国家级纵向教育追踪数据库建设。
 
 > [!ref-table]- SEER 循证卓越标准九大操作化准则矩阵
@@ -152,7 +162,7 @@ updated: 2026-09-16
 > [!indicators]- 影响力维度与指标
 > - **资源与网络规模** 年度教育科研专属预算约 1.5 亿美元（USD 150 million）；统辖四大常设国家研究中心与区域教育实验室（Regional Educational Laboratories, REL）网络；资助项目覆盖全美数十万学生与教师群体。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206, 209)]]
 > - **学术与[[Knowledge Production|知识生产]]** 建立全球公认的因果实证评级体系 [[What Works Clearinghouse|WWC]]；推动全美教育实证研究复现率与[[Preregistration|预注册]]制度化；建立 EdInstruments 工具库打破测量割裂；主持编制权威的国家成绩单 NAEP。
-> - **政策与制度渗透** 成为《2001年不让一个孩子掉队法》（No Child Left Behind Act of 2001, NCLB）及《每一个学生成功法》（ESSA）法定循证标准的基石，各级学区与州政府依据其指南决定数十亿美元联邦教育拨款的干预投向。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 598–600)]]
+> - **政策与制度渗透** 成为《2001年不让一个孩子掉队法》（No Child Left Behind Act of 2001, NCLB）及《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）法定循证标准的基石，各级学区与州政府依据其指南决定数十亿美元联邦教育拨款的干预投向。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 598–600)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **学术引领与[[Scientific Paradigm|科学范式]]重塑** 通过联邦资助杠杆终结了低质散漫的随意评价，促使全美教育因果研究全面向实验设计、预注册与透明数据[[Paradigm|范式]]转型。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–207)]]
@@ -196,18 +206,34 @@ updated: 2026-09-16
 
 ---
 
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] | 美国联邦教育科研资助与 SEER 框架全美落地生态 | 官方政策报告与科研治理分析 | 年科研投资额（约 1.5 亿美元）、SEER 九大准则、十万级数字学习平台用户覆盖 | 强制实施方案[[Preregistration\|预注册]]、干预构件拆解、真实成本核算及第三方通用独立测量 | — | 确立联邦最高教育科研机构从单一[[Internal Validity\|内部效度]]走向多维科研卓越的制度标杆（pp. 206–209） |
+> | [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] | IES 资助的佛罗里达 [[Using Data Intervention\|Using Data]] 数据使用干预试验（117 所学校，439 名教师） | 4 级最高因果等级整群[[Randomised Controlled Trials\|随机对照试验]]（RCT） | 教师密集数据培训、教师协作行为变化与全州学生统考成绩增益 | 教师协作与数据研讨行为显著上升，但学生统考阅读与数学增益为零（$ES = 0.02$） | 不显著 | 实证揭示单纯教师数据培训与学生学业产出脱节的因果困境（pp. 571, 592） |
+> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | IES 资助的投资创新计划（i3/[[Education Innovation and Research\|EIR]]）百余项整群 RCT 评估及全校改革试验 | 宏观政策综述与资助杠杆分析 | i3 三级竞争性资助（起步级、验证级、规模化级）对高质量整群 RCT 与 [[Hierarchical Linear Model\|HLM]] 方差校正的推动效应 | 资助全美上百项大规模全校改革与课程实验；直接催生 [[Every Student Succeeds Act\|ESSA]] 四级法定[[Evidence Standards\|证据标准]]与资金绑定架构 | — | 证实国家级资助杠杆对重构教育实证供给侧质量的决定性驱动作用（pp. 22–26） |
+
+---
+
 ## 相关条目网络
 
 > [!entry-map]
 >
 > | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
+> |:---|:---|:---|
 > | [[What Works Clearinghouse]] | Fact (Organization) | IES 下辖的核心[[Educational Evidence Clearinghouses\|证据清算中心]]，负责因果实证审查与实践指南发布。 |
+> | [[Best Evidence Encyclopedia]] | Fact (Organization) | IES 长期资助的大学学术型专精清算中心（JHU CRRE 创设）。 |
+> | [[Evidence for ESSA]] | Fact (Program) | 依托 IES 资助学术成果孵化、对齐 [[Every Student Succeeds Act\|ESSA]] 法定标准的敏捷循证决策平台。 |
 > | [[Evidence Standards]] | Concept | IES 与 SEER 框架倡导的核心[[Causality\|因果推断]]与循证评价准则。 |
 > | [[Using Data Intervention]] | Fact (Program) | IES 资助的 4 级最高因果等级证据利用试验，揭示教师培训与学业增益的解耦。 |
 > | [[Investing in Innovation Program]] | Fact (Program) | 依托 IES/WWC 四级证据标准实施分级资助的联邦创新资助计划。 |
 > | [[ESSA 2015 Evidence Standards\|Every Student Succeeds Act]] | Fact (Policy) | 美国联邦重大教育法案，法定确立采用 IES/WWC 四级循证证据标准。 |
 > | [[Engineered Evidence]] | Concept | IES 资助核心数学脚本化教案研究所体现的微观工件化转化进路。 |
 > | [[Mark Schneider]] | Person | IES 代表性院长，主导研制推行 SEER 循证卓越标准。 |
+> | [[Robert Slavin]] | Person | [[Evidence-Based Education\|循证教育]]领军学者，长期承担 IES 重大项目并推动法定证据标准落地。 |
 > | [[Democratising Evidence]] | Concept | 针对 IES 传统因果垄断取向的反思与多元循证生态改革思潮。 |
 > | [[Research-Practice Partnership]] | Concept | 弥合 IES 线性证据转化断层、强调双向协同的研究实践伙伴关系。 |

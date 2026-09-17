@@ -8,7 +8,7 @@ summary: "一种按原始随机分配而非实际接受情况来分析结果的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -16,6 +16,7 @@ tags:
   - method/intent-to-treat-analysis
   - method/quantitative
 related_concepts:
+  - "[[Initial Teacher Training]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
@@ -76,7 +77,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> **意向治疗分析（Intent-to-Treat Analysis，简称 ITT）**是[[Randomised Controlled Trials|随机对照试验]]（RCT）中最核心的因果效应估计方法。其基本准则是：所有参与试验的被试必须完全保留在其最初被[[Random Assignment|随机分配]]的组别中进行统计分析，无论他们后续是否实际依从干预、是否中途退出、还是交叉接受了对照组措施。
+> **意向治疗分析（Intent-to-Treat Analysis，简称 [[Initial Teacher Training|ITT]]）**是[[Randomised Controlled Trials|随机对照试验]]（RCT）中最核心的因果效应估计方法。其基本准则是：所有参与试验的被试必须完全保留在其最初被[[Random Assignment|随机分配]]的组别中进行统计分析，无论他们后续是否实际依从干预、是否中途退出、还是交叉接受了对照组措施。
 >
 > ITT 估计的核心属性在于：它测量的不是“干预实际接受（treatment uptake）”的技术性潜能，而是“干预可获得性或政策提供（treatment availability or offer）”对总体目标人群产生的净因果效应（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 233]]）。
 
@@ -99,7 +100,7 @@ updated: 2026-09-17
 > - **知识观** 坚持[[Counterfactual|反事实]]因果推理框架（Neyman-Rubin Causal Model）。认为[[Random Assignment|随机分配]]是消除混杂偏差与确保两组在可观测与不可观测[[Variable|变量]]上期望相等的唯一黄金标准；破坏最初分配组别将直接摧毁[[Causality|因果推断]]的基础。
 > - **研究者角色** 恪守严格的客观分配边界，拒绝依据被试后续的依从表现进行主观事后筛选或分组清洗。
 > - **有效性标准** [[Internal Validity|内部效度]]最高（完整维护随机化带来的平衡性，防范由非依从或选择性脱落引发的混杂偏误）；统计结论效度需防范因依从稀释导致的 II 型错误（假阴性）。
-> - **不声称回答的问题** ITT 不能直接回答“如果学生或教师百分之百完全依从且高质量执行干预，该干预的理论最大效能是多少”（该问题需由[[Complier Average Causal Effect|依从者平均因果效应]]（CACE）或符合方案集分析回答）。
+> - **不声称回答的问题** [[Initial Teacher Training|ITT]] 不能直接回答“如果学生或教师百分之百完全依从且高质量执行干预，该干预的理论最大效能是多少”（该问题需由[[Complier Average Causal Effect|依从者平均因果效应]]（CACE）或符合方案集分析回答）。
 
 > [!contrast-table] 因果效应估计策略对比：ITT vs PP vs AT vs CACE
 > | 估计策略 | 样本纳入准则 | 随机化平衡性 | 因果参数性质 | 主要优势与现实风险 |
@@ -123,7 +124,7 @@ updated: 2026-09-17
 > 1. **确定全样本基线并实施[[Random Assignment|随机分配]]** 严格锁定试验招募池所有被试的身份标识，在基线测验完成后由独立统计师实施随机双盲或单盲分配，生成不可篡改的初始组别名单。
 > 2. **全周期追踪与非依从/[[Attrition|流失]]监测** 在干预推进过程中，独立于干预团队进行[[Implementation and Process Evaluation|实施与过程评估]]（IPE），详实记录每位参与者的出勤率、系统登录日志、脱落时间与对照组污染事件。
 > 3. **执行全样本终点测试与数据补全** 无论学生或学校是否中途放弃干预，调查团队均必须全力动员其参加终点[[Pre-test and Post-test|后测]]，尽可能将样本流失率控制在最低警戒线以内。
-> 4. **构建意向治疗统计模型** 严格按照初始分配[[Variable|变量]]编制哑变量指标，在控制基线协变量与嵌套集群效应的基础上估计主效应 $\beta_{\text{ITT}}$。
+> 4. **构建意向治疗统计模型** 严格按照初始分配[[Variable|变量]]编制哑变量指标，在控制基线协变量与嵌套集群效应的基础上估计主效应 $\beta_{\text{[[Initial Teacher Training|ITT]]}}$。
 > 5. **敏感性分析与依从机制校正** 针对不可避免的样本流失开展流失偏误检验；若现场非依从率显著，进一步利用随机分配作为工具变量拟合 [[Complier Average Causal Effect|CACE]] 模型，对照解释 ITT 估计值的稀释程度。
 
 ### 量化分析模块
@@ -186,7 +187,7 @@ updated: 2026-09-17
 
 ## 证据清算中心与制度化标准
 
-> [!summary-card] [[Educational Evidence Clearinghouses|教育证据清算中心]]的 ITT 规范化准入基准
+> [!summary-card] [[Educational Evidence Clearinghouses|教育证据清算中心]]的 [[Initial Teacher Training|ITT]] 规范化准入基准
 > 在国际主要[[Educational Evidence Clearinghouses|教育证据清算中心]]的评估体系中，ITT 已从一项统计学方法演化为判定证据质量的显性准入门槛（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]]）：
 >
 > 1. **全样本分析的强制约束**
@@ -206,7 +207,7 @@ updated: 2026-09-17
 >   - 需要向政策制定者、行政管理者提供真实田野预期回报的评估报告（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]]）。
 >   - 申报[[Educational Evidence Clearinghouses|证据清算中心]]高等级认证的严格因果实证研究（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]）。
 > - **谨慎使用**
->   - 早期原型测试（Feasibility / Pilot Stage）与探索性机制试验。在此阶段方案尚未成熟，实施障碍极多，若单纯汇报 ITT 可能过早将具有潜力的创新方案否定。
+>   - 早期原型测试（Feasibility / Pilot Stage）与探索性机制试验。在此阶段方案尚未成熟，实施障碍极多，若单纯汇报 [[Initial Teacher Training|ITT]] 可能过早将具有潜力的创新方案否定。
 >   - 存在极高非依从率或大规模交叉污染的现实试验，此时必须联合使用 [[Complier Average Causal Effect|CACE]] 和实施过程分析进行多重视角报告。
 > - **不适合使用**
 >   - 纯粹探讨人类认知加工极限或生物物理机理的基础心理学实验室研究（此类研究追求在严格依从条件下的机制因果验证，无需承担政策推广可获得性解释）。
@@ -217,7 +218,7 @@ updated: 2026-09-17
 
 > [!method-limits] 方法局限
 > - **偏误来源**
->   - **假阴性与稀释偏误（Dilution Bias）** 当许多受派学校并未真实开展干预活动时，由于 ITT 机械地将未受干预样本的零产出混入处理组计算，会导致估计出的[[Effect Size|效应量]]趋近于零，掩盖方案在真实落实时的有效性。
+>   - **假阴性与稀释偏误（Dilution Bias）** 当许多受派学校并未真实开展干预活动时，由于 [[Initial Teacher Training|ITT]] 机械地将未受干预样本的零产出混入处理组计算，会导致估计出的[[Effect Size|效应量]]趋近于零，掩盖方案在真实落实时的有效性。
 >   - **样本选择性[[Attrition|流失]]（Differential Attrition）** 若困难学生更倾向于从处理组脱落，将造成两组基线破缺。ITT 无法自动解决非随机流失问题（Schweig & Pane, 2016; [[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]]）。
 > - **适用边界** 仅能回答“政策提供”的因果效应，无法解释因果机制与黑箱过程。
 > - **误用风险** 将 ITT 估计的微弱正向效应直接等同于“干预毫无价值”，忽视实施剂量与保真度短板；或将名义上的技术依从等同于实质高质量落实，导致推广至真实世界时效果再次受挫（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, pp. 233–234]]）。
@@ -230,7 +231,7 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 政策真实性 vs 科学效力辨识
-> > 方法学界关于 ITT 与符合方案集（PP）优先级的长期争辩。
+> > 方法学界关于 [[Initial Teacher Training|ITT]] 与符合方案集（PP）优先级的长期争辩。
 > >
 > > - **循证政策派主张** 坚定维护 ITT 的基础地位，指出政策制定者不可能监督每一位教师，现实中的参与摩擦正是干预本身的内生属性，ITT 能够提供最真实的政策参考参数（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]]）。
 > > - **干预开发者反驳** 主张在研发早期应当剔除非依从样本，否则在低保真度实施下的微弱 ITT 效应会直接导致极具价值的教学创新被证据清算机构过早否定。
@@ -250,7 +251,7 @@ updated: 2026-09-17
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Randomised Controlled Trials]] | 前置方法 | ITT 因果识别的基础设计框架，[[Random Assignment\|随机分配]]为 ITT 提供[[Internal Validity\|内部效度]]前提。 |
-> | [[Random Assignment]] | 前置方法 | 决定初始组别归属的核心机制，ITT 必须严格按该分配状态划分样本。 |
+> | [[Random Assignment]] | 前置方法 | 决定初始组别归属的核心机制，[[Initial Teacher Training\|ITT]] 必须严格按该分配状态划分样本。 |
 > | [[Complier Average Causal Effect]] | 补充方法 | 借助工具[[Variable\|变量]]法从 ITT 估计量中剥离非依从稀释，重构实际依从者的因果效应。 |
 > | [[Cluster Randomized Trials]] | 前置方法 | 学校/班级水平整群试验中应用 ITT 需校正集群误差与部分嵌套设计影响。 |
 > | [[Implementation and Process Evaluation]] | 补充方法 | 提供剂量、合规度与保真度现实证据，为解释 ITT 估计量提供机制链条支撑。 |
@@ -262,6 +263,6 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016)]] — 系统论述了部分嵌套 [[Randomised Controlled Trials|RCT]] 中集群效应与非依从性对 ITT 估计统计推断的影响，阐明了 ITT 在反映政策可获得性与解释大规模推广困境中的核心价值。
+> - [[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016)]] — 系统论述了部分嵌套 [[Randomised Controlled Trials|RCT]] 中集群效应与非依从性对 [[Initial Teacher Training|ITT]] 估计统计推断的影响，阐明了 ITT 在反映政策可获得性与解释大规模推广困境中的核心价值。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 跨国[[Educational Evidence Clearinghouses|证据清算中心]]元综述，证实 [[Blueprints for Healthy Youth Development|Blueprints]]、[[Social Programs That Work|SPTW]]、[[Promise Neighborhoods Research Consortium|PNRC]] 与 [[What Works Clearinghouse|WWC]] 将 ITT 确立为筛选高质量因果证据的刚性制度化基准。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 英国 [[Education Endowment Foundation|EEF]] 十年循证评估综述，阐述将 ITT 作为全英大规模田野 RCT 首要指标的制度实践，及其与[[EEF Padlock Security Rating|挂锁安全评级]]、[[Implementation and Process Evaluation|IPE]] 过程评估和 [[Complier Average Causal Effect|CACE]] 工具[[Variable|变量]]调整的协同运作机制。

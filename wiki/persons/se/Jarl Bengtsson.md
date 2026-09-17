@@ -6,7 +6,7 @@ summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CE
 type: person
 nationality: "se"
 person_region: "se"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -52,6 +52,7 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[PISA]]"
   - "[[A Nation at Risk 1983]]"
+  - "[[Education Innovation and Research]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[UNESCO Institute for Statistics]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Jarl Bengtsson
@@ -94,7 +95,7 @@ updated: 2026-09-15
 > - **1992** 推动出版首版《[[Education at a Glance|教育概览]]》（Education at a Glance 1992），实现[[International Education|国际教育]]统计标准的划时代统一。
 > - **1990年代中后期** 引入并重用年轻的德国数据科学家[[Andreas Schleicher|安德烈亚斯·施莱歇尔]]（[[Andreas Schleicher]]），主导论证并立项[[PISA|国际学生评估项目]]（[[PISA]]）。
 > - **2002** 从 OECD 正式荣休。
-> - **2008** 出版总结性历史专著《CERI 四十年教育创新与研究》（*CERI: Forty Years of Educational Innovation and Research*）。
+> - **2008** 出版总结性历史专著《CERI 四十年[[Education Innovation and Research|教育创新与研究]]》（*CERI: Forty Years of Educational Innovation and Research*）。
 
 ---
 

@@ -7,10 +7,10 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 75
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Primary and Secondary Documents]]"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Business as Usual]]"
   - "[[Homework]]"
+  - "[[Initial Teacher Training]]"
   - "[[Research Literacy]]"
   - "[[Structured Teaching]]"
   - "[[Evaluation Research]]"
@@ -450,7 +451,7 @@ sources:
 > [!pathways] 宏观制度工程化的实施路径与硬约束
 > - **联邦立法与证据等级挂钩（ESSA 与 i3 模式）** 借鉴美国《每个学生成功法案》（Every Student Succeeds Act, ESSA）与[[Investing in Innovation Program|创新投资项目]]（Investing in Innovation, i3）的法定制度，联邦政府将数十亿美元级学校改进资金严格限定于通过高等级独立因果检验（第一级强证据、第二级中度证据）的干预项目，在法律层面剥夺未经实证检验的商业包装项目的准投资格。（pp. 598–599）
 > - **英国反面案例警示与财政伦理底线（[[Strategic School Improvement Fund|SSIF]] 批判）** 英国[[Strategic School Improvement Fund|战略学校改进基金]]（SSIF）向薄弱学校拨付数千万英镑资金，却完全未设立科学证据准入门槛，导致公款被未经实证检验的项目滥用，遭到下议院公共账目委员会严厉质询。纳税人与慈善机构托付给公共教育的紧缺资金负有极高伦理责任，政府必须坚决立法阻断将公共资金用于未获独立因果证实的教育项目。（pp. 596, 599–600）
-> - **师资培养与专业发展的实证资质认证** 改革职前教师培训（Initial Teacher Training, ITT）与持续专业发展（Continuing Professional Development, CPD）体系，强制要求各类师培项目必须由具备严格因果[[Research Literacy|研究素养]]的专家主导，将具有扎实因果依据的工程化教学工件列为师资准入考核标准，彻底清除无证据的教学玄学。（pp. 600–601）
+> - **师资培养与专业发展的实证资质认证** 改革职前教师培训（[[Initial Teacher Training]], ITT）与持续专业发展（Continuing Professional Development, CPD）体系，强制要求各类师培项目必须由具备严格因果[[Research Literacy|研究素养]]的专家主导，将具有扎实因果依据的工程化教学工件列为师资准入考核标准，彻底清除无证据的教学玄学。（pp. 600–601）
 
 > [!warrant]- 论证逻辑收束：证据工程化与制度规制的实证转化新[[Paradigm|范式]]
 > 证据转化的有效路径在于彻底摒弃要求教师个体承担复杂统计审计的“宣教说服”模式，转向微观[[Structured Teaching|结构化教学]]工件（Doabler et al., 2014）与宏观法定财政硬约束（[[Every Student Succeeds Act|ESSA]] / i3 证据分级）的双重工程化治理。这一范式既保护了公共教育财政免受教学神话侵蚀，又以最高保真度将因果证据隐形固化于日常教学，成为教育证据利用唯一具备稳健因果支撑的转化路径。（pp. 596–601）

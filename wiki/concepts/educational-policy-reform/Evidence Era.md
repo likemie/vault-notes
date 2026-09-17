@@ -6,7 +6,7 @@ aliases:
 summary: "由 Helgetun & Menter 提出的教育治理范式概念，指教育政策合法化超越单纯依靠量化指标的测量时代，演进为借助学术引用、国际最佳实践、医学类比与随机对照试验等多维证据修辞确立正当性的治理新阶段"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_persons:
 related_facts:
   - "[[Evidence Network]]"
   - "[[Ofsted]]"
+  - "[[Initial Teacher Training Core Content Framework]]"
   - "[[Chartered College of Teaching]]"
   - "[[PISA]]"
   - "[[The Importance of Teaching]]"
@@ -87,7 +88,7 @@ updated: 2026-09-17
 > |---|---|---|---|
 > | **核心证据形态** | 标准化测验成绩、绩效考核指标、量化审计评级 | 学术期刊论文引用、[[Randomised Controlled Trials\|RCT]] 证据库、国际[[Policy Borrowing\|政策借用]]、专家审查 | 全样本因果实证、无偏成本收益核算与系统评价 |
 > | **合法化机制** | [[Governing by Numbers\|数字治理]]与投入产出核算（Value for Money） | 科学主义修辞、专业化引用格式、主导性[[Rationalized Myth\|合理化神话]] | 纯粹因果逻辑推导与方案纠偏 |
-> | **治理工具** | 英国皇家教育标准局（[[Ofsted]]）评级、学校绩效联盟表 | 初始教师培训核心内容框架、白皮书学术化引用、官方特许学院 | 开放式政策实验与同行盲审论证 |
+> | **治理工具** | 英国皇家教育标准局（[[Ofsted]]）评级、学校绩效联盟表 | [[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]、白皮书学术化引用、官方特许学院 | 开放式政策实验与同行盲审论证 |
 > | **中介网络** | 官方统计局、督导检查机构 | 智库、专业学会（如[[Chartered College of Teaching\|特许教学学院]]）、学术博主与中介经纪人 | 独立同行评议共同体与循证协作网络 |
 
 ---

@@ -67,6 +67,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Paradigm]]"
   - "[[Learner Autonomy]]"
+  - "[[Developer-Made Measures]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
   - "[[Hofstede's Cultural Dimensions]]"
@@ -122,7 +123,7 @@ title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 85
+argument_related_count: 86
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -442,7 +443,7 @@ issuing_organization: ""
 > 1. **[[Document|文献]]语种与未检索范围局限** [[Literature Search|文献检索]]受限于英文公开发表与网络可获取的实证研究，未能涵盖非英语国家以本土语言发表的研究，可能存在一定的语言选择偏倚。
 > 2. **长期追踪与滞后效应数据匮乏** 纳入的实证研究绝大多数为一学期或数周内的短期干预，长期实施（$> 12$ 周）的研究数量较少（仅 9 项），难以充分评估生成式 AI 对高阶认知与习惯形成的深远滞后效应。
 > 3. **部分亚组研究数量不平衡** 在学科分布（医学健康与混合学科偏少）、AI 工具类别（以 ChatGPT 为主，多模态与新兴开源大模型偏少）以及地理区域（非洲与拉美数据缺乏）上存在分布不均，限制了部分细分亚组结论的外推度。
-> 4. **测量工具质量差异** 部分初级研究依赖研究者自编测验，可能存在对干预内容的顺应性测量偏差，未来研究需更多采用经过心理测量学检验的标准化跨情境工具。
+> 4. **测量工具质量差异** 部分初级研究依赖[[Developer-Made Measures|研究者自编测验]]，可能存在对干预内容的顺应性测量偏差，未来研究需更多采用经过心理测量学检验的标准化跨情境工具。
 
 ## 来源
 

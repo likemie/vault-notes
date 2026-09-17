@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -50,7 +50,6 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Social Programs That Work]]"
   - "[[Quantum Opportunity Program]]"
 related_arguments:
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-22
+updated: 2026-09-17
 ---
 
 # Communities in Schools
@@ -78,7 +77,7 @@ updated: 2026-08-22
 
 > [!policy-design] 驻校协调员与三层支持体系
 > [[Community Innovation Survey|CIS]] 的核心运作机制是将全职**驻校项目协调员（Site Coordinator）**嵌入公立学校，充当学校与社区资源的连接枢纽：
-> - **第一层（[[Top Institute for Evidence-Based Education Research|TIER]] 1 · 全校普及性支持）** 面向全校所有学生提供基础生活物资援助（如衣物、食品包）、健康与视力筛查、以及全校性防辍学动机宣讲。
+> - **第一层（TIER 1 · 全校普及性支持）** 面向全校所有学生提供基础生活物资援助（如衣物、食品包）、健康与视力筛查、以及全校性防辍学动机宣讲。
 > - **第二层（Tier 2 · 定向小组干预）** 针对出勤不稳、学业滑坡或具有轻度行为问题的学生，组织课后辅导小组、社交情感技能训练与[[Peer-Supported Learning|同伴互助]]。
 > - **第三层（Tier 3 · 密集个案管理 Case Management）** 针对极端高危学生（慢性旷课、家庭严重变故、濒临退学）建立一对一个案档案，深度链接外部心理危机干预、司法支持与专业家庭辅导。
 

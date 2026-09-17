@@ -10,9 +10,9 @@ summary: "准实验设计的重要范式，通过在干预前后开展多次等�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 35
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental-design
@@ -43,25 +43,29 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
   - "[[Single-Subject Design]]"
+  - "[[Ordinary Least Squares]]"
   - "[[Statistical Significance]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Trend Study]]"
-related_instruments: []
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[Gaokao]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
+  - "[[Top Institute for Evidence-Based Education Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
+  - "[[Argument_Hattie_2005_ACER]]"
 confidence: high
 status: active
 created: 2026-06-25
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Time Series Design
@@ -73,7 +77,7 @@ updated: 2026-09-16
 > [!def] 方法定义
 > **时间序列设计（Time Series Design）**，特别是**间断时间序列设计（Interrupted Time Series Design, [[Intelligent Tutoring Systems|ITS]]）**，是指对同一个非随机取样的实验组（或自然行政单位），在接受特定教育干预或政策实施**之前与之后分别开展多次连续等间隔的重复测量**，通过对比干预前后数列变化轨迹来判定干预因果效应的[[Quasi-Experimental Designs|准实验设计]]方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 328–331]]; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 4]])。
 >
-> 其核心统计特征在于：通过分段线性回归（Segmented Linear Regression）将干预前的长期历史趋势外推为[[Counterfactual|反事实]]（Counterfactual）基准线，进而精准分解出干预引发的**即时截距水平跃升（Level Change）**与**长期演化斜率变动（Slope Change）**。在美国教育部 [[What Works Clearinghouse|WWC]] 审查规程中，符合标准的 ITS 设计被赋予 2 级因果审查待遇，对应“有保留达标（Meets Standards With Reservations）”或 ESSA 2015 [[Top Institute for Evidence-Based Education Research|TIER]] 2 中等证据资质([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
+> 其核心统计特征在于：通过分段线性回归（Segmented Linear Regression）将干预前的长期历史趋势外推为[[Counterfactual|反事实]]（Counterfactual）基准线，进而精准分解出干预引发的**即时截距水平跃升（Level Change）**与**长期演化斜率变动（Slope Change）**。在美国教育部 [[What Works Clearinghouse|WWC]] 审查规程中，符合标准的 ITS 设计被赋予 2 级因果审查待遇，对应“有保留达标（Meets Standards With Reservations）”或 [[Every Student Succeeds Act|ESSA]] 2015 TIER 2 中等证据资质([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 宏观教育[[Theories of Policy Change|政策变革]]、学区管理条例修订、全校性行为干预系统（PBIS）、考试评价制度改革、或连续追踪的课堂教学方案。
@@ -100,7 +104,7 @@ updated: 2026-09-16
 > [!method-stack] 方法层级
 > - **设计变体** 单组间断时间序列（Single-Group ITS）、控制组间断时间序列（Comparative ITS, C-ITS）、相等时间样本轮换设计（Equivalent Time Samples）、多基线时间序列（Multiple Baseline ITS）。
 > - **数据采集** 历史档案行政数据库、等间隔标准化测验、高频出勤与纪律记录系统。
-> - **计量分析技术** 分段普通最小二乘回归（OLS）、自回归积分滑动平均模型（ARIMA）、Cochrane-Orcutt / Prais-Winsten 广义自回归纠偏模型、Newey-West 异方差自相关稳健[[Standard Error|标准误]]（HAC）。
+> - **计量分析技术** 分段[[Ordinary Least Squares|普通最小二乘回归]]（OLS）、自回归积分滑动平均模型（ARIMA）、Cochrane-Orcutt / Prais-Winsten 广义自回归纠偏模型、Newey-West 异方差自相关稳健[[Standard Error|标准误]]（HAC）。
 
 ---
 
@@ -162,7 +166,7 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 > |:---|:---|:---|
 > | **因果设计评级** | **2 级（明确规程）**；最高评定为 **Meets Standards With Reservations** 或 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 2 | 无法单独支撑 WWC 一级最高认证（Tier 1 无保留达标）。 |
 > | **时间点数量底线** | 要求干预前与干预后必须分别具备 **至少 3–5 个以上等间隔独立观测点** | 若时间点不足，退化为普通单组前后测，直接裁定为未达标（Does Not Meet）。 |
-> | **趋势与自相关建模** | 必须采用分段回归、ARIMA 或广义最小二乘法显式建模时间趋势并校正序列相关 | 若仅比较前后平均值而忽略时间趋势，裁定为方法学不合格。 |
+> | **趋势与自相关建模** | 必须采用分段回归、ARIMA 或广义[[Ordinary Least Squares\|最小二乘法]]显式建模时间趋势并校正序列相关 | 若仅比较前后平均值而忽略时间趋势，裁定为方法学不合格。 |
 > | **排除共时混杂干预** | 必须论证在干预切入时间点没有发生其他足以解释效应的共时重大政策或外部冲击 | 若存在未控制共时事件，因果归因失效。 |
 
 ---
@@ -181,7 +185,7 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 > [!method-limits] 效度威胁、偏误来源与误用风险
 > - **共时历史事件混杂（Co-occurring History Threat）** 单组 [[Intelligent Tutoring Systems|ITS]] 最根本的软肋：若干预推行的同时恰逢新校长上任或财政注资，分段回归无法在数理上区分哪个是真正原因（需借助 C-ITS 对照组缓解）。
 > - **测量工具漂移与敏感化（Instrumentation & Testing）** 高频重复测试可能引入[[Order Effects|练习效应]]、疲劳效应或测验难度微调带来的虚假波动。
-> - **自相关导致的假阳性显著（Autocorrelation Bias）** 时间序列数据天然存在相邻点高度相关性，若直接套用普通 OLS 回归，将严重低估[[Standard Error|标准误]]，导致原本不显著的 $\beta_2, \beta_3$ 呈现出虚假的[[Statistical Significance|统计显著性]]。
+> - **自相关导致的假阳性显著（Autocorrelation Bias）** 时间序列数据天然存在相邻点高度相关性，若直接套用普通 [[Ordinary Least Squares|OLS]] 回归，将严重低估[[Standard Error|标准误]]，导致原本不显著的 $\beta_2, \beta_3$ 呈现出虚假的[[Statistical Significance|统计显著性]]。
 > - **延迟反应与模型误设（Lagged Effects & Model Misspecification）** 若真实干预需要 3 个月才起效，而研究者[[Hypothesis|假设]]即时跳升，可能将真实的渐进斜率误判为无效果。
 
 ---
@@ -208,4 +212,4 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 比较 12 所清算中心对 [[Intelligent Tutoring Systems|ITS]] 因果设计的审查规程（ITS=2），详述 [[What Works Clearinghouse|WWC]] 与 [[Home Visiting Evidence of Effectiveness|HomVEE]] 对时间点数量与自相关建模的技术标准(pp. 8–11)。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 系统阐释单组时间序列、控制组时间序列与相等时间样本轮换设计在教育教学实验中的操作流程(Ch. 4)。
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 论证群体级间断时间序列与个体级单一被试实验（[[Single-Case Design|SCD]]）在因果[[Counterfactual|反事实]]推断上的同构逻辑(pp. 461–464)。
-> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 针对传统两时点增值模型易受测量误差扰动的缺陷，主张基于 asTTle 多时点纵向测评数据实施间断时间序列分析，以此准确估计教师与学校对学生认知发展的真实增值效应（p. 15）。
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 针对传统两时点增值模型易受测量误差扰动的缺陷，主张基于 [[Assessment Tools for Teaching and Learning|asTTle]] 多时点纵向测评数据实施间断时间序列分析，以此准确估计教师与学校对学生认知发展的真实增值效应（p. 15）。

@@ -13,7 +13,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 77
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Cumulative Knowledge Base]]"
   - "[[Network Governance]]"
   - "[[Hypothesis]]"
+  - "[[Initial Teacher Training]]"
   - "[[Teaching Assistant]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence Backlash]]"
@@ -110,7 +111,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Educational Brokerage Agency
@@ -284,7 +285,7 @@ updated: 2026-09-15
 > 检视知识中介机构传统的单向学术成果摘要与通俗推送进路，依托大规模因果评估裁决“信息赤字[[Hypothesis|假设]]”。
 
 > [!claim] Lord et al.
-> **单纯信息传播对实践变革毫无[[Statistical Significance|统计显著性]]** 英国教育捐赠基金会（EEF）资助、由英国全国教育研究基金会（NFER）独立评估的“[[Literacy Octopus|识字八爪鱼试验]]”（Literacy Octopus Trial），覆盖全英格兰 800 余所小学、数千名教师与数万名学童。多臂 [[Randomised Controlled Trials|RCT]] 严密检验了精编纸质手册、数字化通讯、专业杂志专栏等各类单向推送样态；经 ITT 分析证实，没有任何证据表明单一信息传播在提升学生 KS2 统考成绩上产生显著效果（[[Effect Size|效应量]]均为 0）。实证数据彻底击碎了信息赤字假设，证实知识中介若局限于单向推送，无论形式多么通俗生动，在孤立状态下都无法转化为专业行为与实践改进。[[Argument_Gough_2022_EvidenceOnEIPP|(Lord et al., 2017; Gough et al., 2022, p. 152)]]
+> **单纯信息传播对实践变革毫无[[Statistical Significance|统计显著性]]** 英国教育捐赠基金会（EEF）资助、由英国全国教育研究基金会（NFER）独立评估的“[[Literacy Octopus|识字八爪鱼试验]]”（Literacy Octopus Trial），覆盖全英格兰 800 余所小学、数千名教师与数万名学童。多臂 [[Randomised Controlled Trials|RCT]] 严密检验了精编纸质手册、数字化通讯、专业杂志专栏等各类单向推送样态；经 [[Initial Teacher Training|ITT]] 分析证实，没有任何证据表明单一信息传播在提升学生 KS2 统考成绩上产生显著效果（[[Effect Size|效应量]]均为 0）。实证数据彻底击碎了信息赤字假设，证实知识中介若局限于单向推送，无论形式多么通俗生动，在孤立状态下都无法转化为专业行为与实践改进。[[Argument_Gough_2022_EvidenceOnEIPP|(Lord et al., 2017; Gough et al., 2022, p. 152)]]
 
 ---
 

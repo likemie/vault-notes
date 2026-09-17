@@ -228,7 +228,7 @@ Total entries: **258**
 
 > [!index-list]- Educational Psychologist (2)
 > - [[Argument_Chinn_2011_EP]] — 心理学概念建构附加哲学视角。扩展的认识论认知五要素框架被提出，强调通过细粒度和情境性指标提高预测效度。
-> - [[Argument_Slavin_2019_EP]] — EBE 支持者阵营的纲领性论述：三条件框架（项目存量、证据审查、政府激励）和以已验证项目系统填充 RTI 三层的 RTPI 方案
+> - [[Argument_Slavin_2019_EP]] — 循证教育（Evidence-Based Education, EBE）支持者阵营的纲领性论述：系统阐述证据本位改革（Evidence-Based Reform, EBR）的三条件框架（已验证项目存量、独立证据审查、政府财政激励），提出以强证据项目充实干预反应模型（Response to Intervention, RTI）三层的循证干预反应（RTPI）方案，并论证整群随机试验与多层线性模型（HLM）分析在兼顾内部与外部效度中的方法学价值
 
 > [!index-list]- Educational Psychology (1)
 > - [[Argument_Lodewyk_2007_EP]] — 探讨中学生认识论信念在不同任务结构（良构与劣构）下的预测效应，发现简单知识信念显著负向预测劣构任务表现与反思性判断，而在良构任务中不具预测力。

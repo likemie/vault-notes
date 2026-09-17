@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 122
+argument_related_count: 124
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -58,9 +58,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Literature Review]]"
+  - "[[Initial Teacher Training]]"
   - "[[Learner Autonomy]]"
   - "[[Interaction Effect]]"
   - "[[Construct Validity]]"
+  - "[[Developer-Made Measures]]"
   - "[[Academic Achievement]]"
   - "[[Predictive Validity]]"
   - "[[Floor and Ceiling Effects]]"
@@ -347,7 +349,7 @@ updated: 2026-09-15
 > [!case] 复杂干预的机制黑箱：从单维度效应走向[[Multi-Arm Trial|多臂试验]]与[[Realist Evaluation|现实主义试验]]
 > - **早期纯效应量评价的“黑箱”困境** 在 1980 至 2016 年间的全球 1,017 项教育试验中，仅有 38% 包含了过程评估（Connolly et al., 2018）。EEF 成立初期的部分试验同样受制于这一传统[[Paradigm|范式]]（如 Morris et al., 2016 探讨的两项跨年龄同伴辅导试验），只聚焦于采集终结性测验分数并报告单一效应量。当试验得出统计学零结果或微弱效应时，评估团队既无法向决策者和一线学校阐明其未达预期的深层因果机制，也无法准确还原方案在常态课堂中的真实落地细节，导致循证科学陷入“[[Knowledge-that and Know-how-to|知其然]]不知其所以然”的解释力贫困。
 > - **理论范式深化（区分“实施失败”与“理论根本无效”）** 针对这一方法学死结，EEF 全面引进了英国医学研究理事会关于复杂干预评估的核心指南（Developing and Evaluating Complex Interventions: The New Medical Research Council Guidance; Craig et al., 2008, p. 980）。该指南明确指出：教育项目具有高度的人际交互性与情境嵌入性，干预缺乏显著学业效应往往并非源于教学理论本身的根本无效，而是源于现场递送走样、教师培训稀释或初入校园的磨合期阻力等引发的实施失败。若缺乏对现场实施过程的微观度量，资助机构极易轻率裁汰本具潜力的前沿教学理论。
-> - **制度化规程确立与 IPE 六维标准** 2014 年，EEF 委托曼彻斯特大学尼尔·汉弗莱等（Humphrey et al., 2016）对教育干预的实施与过程评估开展全景式系统[[Literature Review|文献综述]]，并先后发布两版行业纲领性指南（Humphrey et al., 2016; Dawson et al., 2017）及《EEF 评估者实施与过程评估指南》（Implementation and Process Evaluation Guidance for EEF Evaluators; The EEF, 2019b），联合 Anders et al. (2017) 研制的《全校复杂干预评估：方法与实践考量》（Evaluating Complex Whole-School Interventions: Methodological and Practical Considerations）确立了全校复杂干预的评估标准。EEF 强制要求所有资助试验必须前置提交 IPE 评估方案，对照 [[TIDieR]] 清单（Hoffmann et al., 2014）严格解构方案的核心“活性成分”，并系统采集保真度、实际参与剂量（ITT 与 CACE 模型）、对照组常态活动追踪以及情境制约数据。
+> - **制度化规程确立与 IPE 六维标准** 2014 年，EEF 委托曼彻斯特大学尼尔·汉弗莱等（Humphrey et al., 2016）对教育干预的实施与过程评估开展全景式系统[[Literature Review|文献综述]]，并先后发布两版行业纲领性指南（Humphrey et al., 2016; Dawson et al., 2017）及《EEF 评估者实施与过程评估指南》（Implementation and Process Evaluation Guidance for EEF Evaluators; The EEF, 2019b），联合 Anders et al. (2017) 研制的《全校复杂干预评估：方法与实践考量》（Evaluating Complex Whole-School Interventions: Methodological and Practical Considerations）确立了全校复杂干预的评估标准。EEF 强制要求所有资助试验必须前置提交 IPE 评估方案，对照 [[TIDieR]] 清单（Hoffmann et al., 2014）严格解构方案的核心“活性成分”，并系统采集保真度、实际参与剂量（[[Initial Teacher Training|ITT]] 与 CACE 模型）、对照组常态活动追踪以及情境制约数据。
 > - **方法学深化：多臂试验与现实主义评估演进** 为彻底打破单维度黑箱，EEF 大力探索[[Multi-Arm Trial|多臂试验]]与[[Factorial Design|析因设计]]。在著名的“[[Literacy Octopus|识字八爪鱼]]”多臂试验（Lord et al., 2017）中，EEF 动员了全英 800 余所小学，设置多个实验臂系统对比了 4 种证据传播与教学支持策略（涵盖被动邮件与资料寄送、主动研讨会培训以及专家深度入校指导），最终证实单向被动推送循证材料对学生成绩的净效应为零，从而直接否定了“只要寄送研究报告就能改变教学实践”的浅层假设，推动英格兰建立了深入基层的[[Research Schools Network|研究学校网络]]（Research Schools Network）。此外，在基于网页的读写支持软件（ABRACADABRA, 简称 ABRA）多臂试验（McNally et al., 2018）中，评估者系统剥离了技术软件[[Learner Autonomy|自主学习]]与教师主导辅导的独立与[[Interaction Effect|交互效应]]。目前 EEF 资助的项目中已有 90% 至少包含一个次要结局指标或中介机制度量（Nevill, 2019a），全面推进由[[Ray Pawson|雷·波森]]与尼克·蒂利（Ray Pawson & Nick Tilley）开创、Bonell et al. (2012) 倡导的[[Realist Evaluation|现实主义试验]]——不仅回答干预是否有效，更系统揭示干预在何种特定微观情境下（Context）、通过何种心理与组织机制（Mechanism）、对哪些弱势群体产生何种结果（Outcome）。（pp. 53–54）
 
 过程评估揭示了课堂内部的运行机制，但[[Causality|因果推断]]的最终效度仍高度受制于终结性测量工具的心理计量特质。（p. 54）
@@ -357,7 +359,7 @@ updated: 2026-09-15
 测量工具的[[Construct Validity|构念效度]]与独立性直接决定了试验结论的外部推广潜能，确立客观独立的评价标尺成为保障试验公信力的生命线。（p. 54）
 
 > [!critique-method] 传统教育试验终结性测量的两大心理计量陷阱（p. 54）
-> - **开发者自编测验的虚高溢价** 题项内容极易与干预教学要点发生高度同构，导致统计[[Effect Size|效应量]]被人为夸大 50% 至 100%，严重脱离常态[[Academic Achievement|学业表现]]（Cheung & Slavin, 2016; WWC, 2017）。
+> - **[[Developer-Made Measures|开发者自编测验]]的虚高溢价** 题项内容极易与干预教学要点发生高度同构，导致统计[[Effect Size|效应量]]被人为夸大 50% 至 100%，严重脱离常态[[Academic Achievement|学业表现]]（Cheung & Slavin, 2016; WWC, 2017）。
 > - **商业标准化测验的量程与效度截断** 开发商对长期[[Predictive Validity|预测效度]]秘而不宣，且在常态学生群体中频发[[Floor and Ceiling Effects|天花板与地板效应]]，人为抹平真实组间差异（Allen et al., 2018; Hodgen et al., 2019）。
 
 > [!contrast-table] 评价测量工具的三种类型对比：全国高利害统考（NPD 成绩） vs 商业标准化测验 vs 开发者自编非标准化测验（基于 Edovald & Nevill, 2021）

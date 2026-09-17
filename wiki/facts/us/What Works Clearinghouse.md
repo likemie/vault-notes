@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 67
+fact_related_count: 76
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -51,10 +51,13 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
+  - "[[Developer-Made Measures]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Preregistration]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Research Utilization]]"
+  - "[[Evaluation Research]]"
+  - "[[Categorical Funding]]"
   - "[[5-3-20 Rule]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -72,25 +75,30 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Pre-test and Post-test]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Network Analysis]]"
+  - "[[Meta-regression]]"
   - "[[Systematic Review]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
-related_persons: []
+related_persons:
+  - "[[Robert Slavin]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[OECD]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Education Endowment Foundation]]"
-  - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Open Court Reading]]"
   - "[[Success for All]]"
   - "[[Communities in Schools]]"
   - "[[National Dropout Prevention Center]]"
+  - "[[Evidence for ESSA]]"
   - "[[ISRCTN]]"
   - "[[Research Schools Network]]"
   - "[[ESSA 2015 Evidence Standards]]"
+  - "[[Best Evidence Encyclopedia]]"
   - "[[EPPI-Centre]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
@@ -101,11 +109,12 @@ related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
+  - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Wolf_2020_JREE]]"
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # What Works Clearinghouse
@@ -133,7 +142,7 @@ updated: 2026-09-16
 > - **2001 — [[No Child Left Behind Act 2001|NCLB]] 法案确立科学标准** 《不让一个孩子掉队法案》要求联邦资助项目必须具备严格科学证据支撑，直接推动设立国家级因果审查清算中心([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
 > - **2002 — [[Institute of Education Sciences|IES]] 正式设立 WWC 审查机制** 确立以医学[[Clinical Trial|临床试验]]为蓝本的[[Causality|因果推断]]规程与审查手册（Handbook）体系。
 > - **2010 — [[Single-Subject Design|单一被试设计]]标准确立** 发布单一被试设计（Single-Subject Design, [[Single-Case Design|SCD]]）试点标准，确立[[Internal Validity|内部效度]]门控与 5-3-20 规则([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460]])。
-> - **2015 — ESSA 法案法定绑定** 《每个学生都成功法案》（ESSA）确立四级证据体系，WWC 成为学区申请联邦第 1 篇（Title I）学校改善拨款时认定“强证据（[[Top Institute for Evidence-Based Education Research|TIER]] 1）”与“中等证据（Tier 2）”的法定裁定基准。
+> - **2015 — [[Every Student Succeeds Act|ESSA]] 法案法定绑定** 《每个学生都成功法案》（ESSA）确立四级证据体系，WWC 成为学区申请联邦第 1 篇（Title I）学校改善拨款时认定“强证据（TIER 1）”与“中等证据（Tier 2）”的法定裁定基准。
 > - **2022 — Handbook v5.0 升级与十五年存续审视** 优化集群校正、[[Attrition|流失]]边界与[[Regression Discontinuity Design|断点回归设计]]（Regression Discontinuity Design, RDD）标准；[[OECD|经合组织]]回顾确认其为 2007 年 6 大国际标杆中保持持续完全活跃的唯二幸存者之一([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
 
 > [!policy-context] 资助体系与国家级技术保障
@@ -205,7 +214,7 @@ updated: 2026-09-16
 
 > [!indicators]- 影响力维度与指标
 > - **库容规模第一** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，WWC 贡献了 **537 个项目**（占比 39.5%），收录规模居全美首位([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
-> - **法定行政约束力** ESSA 法案直接将联邦每年数十亿美元的 Title I 拨款与 WWC 认证标准挂钩，赋予其极高的行政硬约束。
+> - **法定行政约束力** [[Every Student Succeeds Act|ESSA]] 法案直接将联邦每年数十亿美元的 Title I 拨款与 WWC 认证标准挂钩，赋予其极高的行政硬约束。
 > - **方法学溢出效应** 其[[Attrition|流失]]模型、集群随机校正与基线等值性规范已被国际计量经济学界与[[Meta-analysis|元分析]]研究者奉为跨学科黄金标准。
 
 > [!stat-cards]- WWC 评价重叠度与多重评级表现
@@ -232,6 +241,12 @@ updated: 2026-09-16
 > > - **联邦政策制定者** 坚持 WWC 必须作为纯净的因果过滤器，防止低质量研究浪费纳税人资金([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
 > > - **学区与[[School Leadership|学校领导]]者** 批评 WWC 缺乏**实施成本（Cost Analysis）**、**本地适配性（Local Adaptability）**与**师生接受度**信息，导致实践者无法仅凭 WWC 评级做出采购决策([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp. 120–122]])。
 >
+> > [!axis] 审查响应迟滞与微观分域过载 vs 敏捷全景决策支持
+> > 争论官方清算中心冗长的更新周期与微观碎片化评级是否削弱了其政策实用性。
+> >
+> > - **[[Argument_Slavin_2019_EP|Slavin (2019, pp. 22–26)]] 循证改革视角** WWC 的官方指南与干预报告往往滞后数年方能完成更新，且将同一干预拆解为阅读理解、流利度、词汇等微观细分领域分别发布不同评级，造成一线学校决策者的严重认知过载；同时，WWC 历史上未严厉限制[[Developer-Made Measures|开发者自编测验]]，导致部分过度对齐项目的[[Effect Size|效应量]]被人为虚夸 50% 至 100%。这一局限直接促成了 [[Evidence for ESSA]] 等敏捷公益平台的创设。
+> > - **官方审查机构立场** 坚持详尽的多中心微观评级与严格程序是捍卫国家级证据科学性的必要代价，旨在防范对复杂干预成效的粗暴过度概括。
+>
 > > [!axis] 开发者利益冲突（[[Conflict of Interest in Research|conflict of interest]]）与[[Preregistration|预注册]]准入门槛缺失
 > > 争论 WWC 允许由干预开发者（Developers）主导的评估作为最高评级证据，是否会引入严重的[[Publication Bias|发表偏倚]]与[[Effect Size|效应量]]虚高（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 15]]）。
 > >
@@ -251,6 +266,19 @@ updated: 2026-09-16
 
 ---
 
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全美 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]汇总的 1,359 个去重教育干预项目池 | 清算机构跨案例比较与跨中心[[Network Analysis\|网络分析]] | 项目收录规模（537 项）、重叠项目数（131 项）、跨机构评级一致率与极端冲突率 | WWC 占全美去重项目总量的 39.5%（规模居首）；与其它清算中心评级一致率仅 24.1%，极端冲突率达 35.7% | — | 实证揭示官方清算中心在评级标准与微观分域上的独特严格性及其与其它机构的分歧（pp. 16–20） |
+> | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | WWC 数据库收录的教育干预[[Evaluation Research\|评估研究]]全样本 | 开发者利益冲突[[Meta-regression\|元回归]]与偏差审查 | 开发者主导 vs 独立第三方评估效应量差异、自编测验使用率（29% vs 8%） | 开发者实施或[[Categorical Funding\|委托研究]]效应量平均高出 0.141 个标准差（约为独立研究的 1.8 倍） | $p < 0.01$ | 实证确立清算机构建立独立评估防火墙与强制方案预注册的紧迫性（pp. 430–443） |
+> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美中小学阅读与数学干预项目三十年因果评估库 | 宏观政策综述与清算机制比较 | WWC 审查更新周期、微观分域认知负荷、独立测验过滤与 [[Evidence for ESSA]] 互补效应 | 揭示 WWC 更新滞后数年与微观分域导致学校采购决策困难；促使敏捷平台 Evidence for [[Every Student Succeeds Act\|ESSA]] 诞生并在 6 州落地 | — | 说明官方因果标准需与敏捷实践决策支持机制相结合方能释放循证效能（pp. 22–26） |
+
+---
+
 ## 相关条目网络
 
 > [!entry-map]
@@ -262,7 +290,9 @@ updated: 2026-09-16
 > | [[Evidence-Based Education]] | 政策[[Paradigm\|范式]] | WWC 作为 EBE [[Causality\|因果推断]]标准的旗舰载体，将[[Clinical Trial\|临床试验]]逻辑系统引入教育学。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | WWC 审查程序与门控机制直接奠基于 Campbellian 效度体系。 |
 > | [[5-3-20 Rule]] | 技术规程 | WWC 单一被试实验审查与综合证据认定的标志性门槛规则。 |
-> | [[ESSA 2015 Evidence Standards]] | 法律依托 | ESSA 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
+> | [[ESSA 2015 Evidence Standards]] | 法律依托 | [[Every Student Succeeds Act\|ESSA]] 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
+> | [[Evidence for ESSA]] | 机构事实 | 约翰斯·霍普金斯大学设立的敏捷互补清算平台，填补 WWC 更新周期与实践决策断层。 |
+> | [[Robert Slavin]] | 关键人物 | 循证教育领军学者，系统评析 WWC 机制并创立 [[Best Evidence Encyclopedia\|BEE]] 与 Evidence for ESSA。 |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |
 > | [[Education Endowment Foundation]] | 机构事实 | 英国准独立慈善证据旗舰，与 WWC 并列为国际循证教育两大巨头。 |
 > | [[EPPI-Centre]] | 机构事实 | 英国大学依托型[[Systematic Review\|系统综述]]先驱，与 WWC 共同构成 [[OECD]] 十五年完全活跃的二元标杆。 |

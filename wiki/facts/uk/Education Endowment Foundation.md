@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 86
+fact_related_count: 88
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Teaching Assistant]]"
   - "[[Evidence Standards]]"
+  - "[[Initial Teacher Training]]"
   - "[[Abstract]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Publication Bias]]"
@@ -111,6 +112,7 @@ related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Helgetun_2022_JEP]]"
   - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Cowen_2019_ERE]]"
@@ -142,7 +144,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 机构发展与全球扩张历程
 > - **2011 — 创设与工具包研发** 依据 2010 年白皮书[[The Importance of Teaching|《教学的重要性》]]战略设想，[[Sutton Trust|萨顿信托]]联合政府注资正式创立 EEF，作为英格兰教育迈入[[Evidence Era|证据时代]]的制度支柱（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, pp. 90–91]]）；接手并深度拓展杜伦大学（Durham University）研发的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit），以额外学习月数（[[Months of Progress]]）为通俗指标向全英学校输出证据排序。
-> - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration|预注册]]与[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size|有效样本量]]较早期翻倍，显著提升了统计功效（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48–50, 56]]；Sanders, 2019）。
+> - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration|预注册]]与[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size|有效样本量]]较早期翻倍，显著提升了统计功效，被斯莱文（[[Argument_Slavin_2019_EP|Slavin, 2019, p. 24]]）评价为全球最具活力的教育因果试验资助与管理平台之一（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48–50, 56]]；Sanders, 2019）。
 > - **2016 — 跨国政策辐射与制度输出** 澳大利亚政府生产力委员会建议直接以英国 EEF 为蓝本建立本土国家证据机构，直接催生了后来的[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation，AERO）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
 > - **2018 — 私人资本注资与全球生态复制** 启动全球[[Evidence Ecosystem|证据生态系统]]扩张战略，获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的跨国教学证据生态建设项目，联合智利 Summa、澳大利亚有效证据组织（Evidence for Learning，E4L）等机构推进证据[[Going Native|本土化]]转化([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 49]])。
 > - **2019 — 启动“[[Research Schools Network|研究学校网络]]”并开辟多样化设计资助流** 正式构建由 32 所常设研究学校与 8 所联合研究学校组成的研究学校网络（Research Schools Network，RSN）；针对学校不愿[[Random Assignment|随机化]]的结构制度（如分层分班、作息调整）设立研究[[School Choice|学校选择]]（[[Researching School Choices]]）[[Quasi-Experimental Designs|准实验设计]]（Quasi-Experimental Designs，QED）资助流，并设立关注日常教学微决策的[[Teacher Choices|教师选择]]（Teacher choices）微型试验项目([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48, 55–56]])。
@@ -187,7 +189,7 @@ updated: 2026-09-17
 > - **校长决策渗透率** 约 85% 的英格兰中小学校长报告在制定针对处境不利学生的学业支持战略及使用 [[Pupil Premium]] 预算时，主动参考并采用了 EEF 发布的权威指南（Guidance Reports）与工具包建议（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)；[[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, p. 111]]）。
 > - **战略领域系统拓展** 证据资助与实践转化重点向学前早期教育（Early Years，特别是学前读写与数学基础能力）、16–19 岁青年教育系统延伸，并重点推进高成效方案（如 Maths Champions）的跨区域规模化落地，持续应对后疫情时期的学业差距危机。
 > - **全球镜像组织辐射** 成功输出模式，深度主导或孵化了澳大利亚 [[Australian Education Research Organisation|AERO]]、澳大利亚 E4L 以及拉美 Summa 等国家与跨国中介机构。
-> - **跨国政策话语权** 其[[Evidence Standards|证据标准]]直接被英美澳等国纳入入职教师培训（Initial Teacher Training，ITT）核心大纲([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
+> - **跨国政策话语权** 其[[Evidence Standards|证据标准]]直接被英美澳等国纳入入职教师培训（[[Initial Teacher Training]]，ITT）核心大纲([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
 
 > [!critique-data]- 最终受益人评估与[[Research Schools Network|研究学校网络]]（RSN）3年实证结果
 > - **全球有效机构中的评估例外** 跨国实证综述显示，除英国教育捐赠基金会（EEF）之外，绝大多数有效机构（[[What Works Network|What Works Centres]]）极少对其推动的证据利用在最终受益人（即学生学业与身心发展）上的长远效益进行独立因果评估。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; Gough et al. (2018)

@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_facts:
   - "[[What Works Network]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[National Pupil Database]]"
+  - "[[Every Student Succeeds Act]]"
 related_persons:
   - "[[Gert Biesta]]"
 related_arguments:
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # What Works Movement
@@ -204,7 +205,7 @@ updated: 2026-09-15
 > | 循证治理体系 | 核心政策机构 / 载体 | 动员规模与覆盖广度 | 核心实证参数与成效产出 | 方法学与制度特色 | 核心实证来源 |
 > |:---|:---|:---|:---|:---|:---|
 > | **英国循证改革体系** | [[Education Endowment Foundation\|EEF]] / [[What Works Network\|WWN]] | 资助逾 **200 项**现场试验；动员全英 **50% 以上**的中小学校；涵盖逾 160 万名学生。 | 仅少量项目实现统计显著正效应；商业干预中位效应量 **$d = 0.06$**；**85%** 试验获 3+ 安全挂锁。 | 强制三方资助协议；对接[[National Pupil Database\|国家学生数据库]] NPD 统考；绑定定性[[Implementation and Process Evaluation\|过程评估]]（IPE）。 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–56]]；White, 2019 |
-> | **美国联邦循证体系** | [[Institute of Education Sciences\|IES]] / [[What Works Clearinghouse\|WWC]] | 覆盖全美教育科学改革法案（ESRA）与 ESSA 资助；设立 10 余个区域教育实验室。 | 审查数万篇[[Document\|文献]]；获得“无保留达标”（Meets Without Reservations）认证比例不足 **20%**。 | 严苛的方法学技术审查；早期侧重[[Internal Validity\|内部效度]]；受资助者自聘评估导致部分 [[Quasi-Experimental Designs\|QED]] 妥协。 | Boulay et al., 2018；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]] |
+> | **美国联邦循证体系** | [[Institute of Education Sciences\|IES]] / [[What Works Clearinghouse\|WWC]] | 覆盖全美教育科学改革法案（ESRA）与 [[Every Student Succeeds Act\|ESSA]] 资助；设立 10 余个区域教育实验室。 | 审查数万篇[[Document\|文献]]；获得“无保留达标”（Meets Without Reservations）认证比例不足 **20%**。 | 严苛的方法学技术审查；早期侧重[[Internal Validity\|内部效度]]；受资助者自聘评估导致部分 [[Quasi-Experimental Designs\|QED]] 妥协。 | Boulay et al., 2018；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]] |
 > | **澳大利亚循证体系** | [[Australian Education Research Organisation\|AERO]] | 联动联邦与 8 个州/领地教育行政部门；覆盖全国公立学校与教师培养机构。 | 输出覆盖显性教学、[[Formative Assessment\|形成性评估]]等核心实践指南；驱动职前教师教育认证改革。 | 强调证据在国家标准中的[[Disciplina and Doctrina\|规训]]作用；受到学术界关于侵蚀[[Professional Judgment\|专业判断力]]的方法论争鸣。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–6]] |
 
 ---
@@ -228,7 +229,7 @@ updated: 2026-09-15
 > - **2001–2002 年 — 美国联邦法律制度化突破** 美国通过《不让一个孩子掉队法》（NCLB 2001）与《教育科学改革法案》（ESRA 2002），正式创设[[Institute of Education Sciences|教育科学研究院]]（IES）与什么样的有效清算所（[[What Works Clearinghouse|WWC]]）。
 > - **2011 年 — 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）创立** 英国教育部拨款 1.25 亿英镑注资设立 EEF，开启国家尺度的大规模学校[[Randomised Controlled Trials|随机对照试验]]资助时代。
 > - **2013 年 — 英国 [[What Works Network]] 国家网络成立** 英国将循证中介扩展至医疗、警务、老龄化及地方经济等领域，建立覆盖 2,500 亿英镑公共支出的国家中介网络（White, 2019）。
-> - **2015 年 — 美国 ESSA 法案确立四级证据层级** 《每一个学生成功法》（ESSA）以法律条文明确了由强到弱的四级[[Evidence Standards|证据标准]]，将联邦基金划拨与循证等级刚性挂钩。
+> - **2015 年 — 美国 [[Every Student Succeeds Act|ESSA]] 法案确立四级证据层级** 《每一个学生成功法》（ESSA）以法律条文明确了由强到弱的四级[[Evidence Standards|证据标准]]，将联邦基金划拨与循证等级刚性挂钩。
 > - **2016–2021 年 — 第二代循证反思与[[Realist Evaluation|现实主义试验]]探索** EEF 规程化[[Implementation and Process Evaluation|过程评估]]（IPE）、[[Multi-Arm Trial|多臂试验]]与现实主义试验，系统总结大规模现场试验的十年治理经验（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）。
 > - **2020 年代 — 澳大利亚 [[Australian Education Research Organisation|AERO]] 成立与全球扩散** 澳大利亚设立 AERO，发布《坚实起点报告》（Strong Beginnings Report 2023），循证改革运动加速向英联邦国家扩展。
 
@@ -264,7 +265,7 @@ updated: 2026-09-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 英国 [[Education Endowment Foundation|EEF]] 评估决策者回顾十年循证试验治理历程，总结三方协议、[[Implementation and Process Evaluation|IPE]] 绑定、客观统考及“证明无效”的重大价值。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]] — 深度审思澳大利亚 [[Australian Education Research Organisation|AERO]] 与英美循证运动的技术治理逻辑，揭示私人资本合谋与[[Teacher Professional Agency|教师专业自主权]]受抑的困境。
-> - [[Argument_Slavin_2019_EP|Slavin, 2019]] — 梳理美国 ESSA 时代[[Evidence Standards|证据标准]]的建立过程，辩护循证改革对提升全校改进项目实证水平的驱动作用。
+> - [[Argument_Slavin_2019_EP|Slavin, 2019]] — 梳理美国 [[Every Student Succeeds Act|ESSA]] 时代[[Evidence Standards|证据标准]]的建立过程，辩护循证改革对提升全校改进项目实证水平的驱动作用。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]] — 元评估跨国循证清算中心在[[Evaluator Independence|评估者独立性]]上的规约差异，揭示自评偏倚对循证推荐的扭曲。
 
 

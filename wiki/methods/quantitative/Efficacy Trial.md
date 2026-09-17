@@ -10,7 +10,7 @@ summary: "循证教育研究中用于评估干预方案在高度理想化、严�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Central Question]]"
   - "[[External Validity]]"
   - "[[Business as Usual]]"
+  - "[[Initial Teacher Training]]"
   - "[[Variable]]"
   - "[[Proof of Concept Programs]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Efficacy Trial
@@ -114,7 +115,7 @@ updated: 2026-09-15
 > [!method-stack] 方法层级
 > - **研究设计** 双臂[[Pre-test and Post-test|前测]]-后测[[Randomised Controlled Trials|随机对照试验]]（RCT）、两级整群随机对照试验（[[Cluster Randomized Trials|Cluster RCT]]）。
 > - **数据收集** 研究者[[Blinding|盲法]]施测标准化考试、课堂高频录像观察量表、培训签到与依从性日志。
-> - **分析方法** [[Analysis of Covariance|协方差分析]]（ANCOVA）、两层[[Hierarchical Linear Model|分层线性模型]]（HLM）、全样本[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）。
+> - **分析方法** [[Analysis of Covariance|协方差分析]]（ANCOVA）、两层[[Hierarchical Linear Model|分层线性模型]]（HLM）、全样本[[Intent-to-Treat Analysis|意向治疗分析]]（[[Initial Teacher Training|ITT]]）。
 > - **辅助技术** [[Covariate Adjustment|协变量调整]]（控制前测成绩以大幅缩减残差方差并提升统计功效）。
 
 ---

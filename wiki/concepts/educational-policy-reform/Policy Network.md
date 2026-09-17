@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构，既承载公私跨界理念编排，亦在实证中展现出网络规模与互动深度非线性解耦、政治把关与非正式中介转译等深层结构特征"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Policy-Based Evidence-Making]]"
   - "[[Epistemology]]"
   - "[[Venture Philanthropy]]"
+  - "[[Initial Teacher Training]]"
   - "[[Dialogue in Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Impact]]"
@@ -220,7 +221,7 @@ updated: 2026-09-17
 > - **2018 证据生态网络的合流** 以英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）实施全球[[Evidence Ecosystem|证据生态系统]]计划为代表，政策网络披上“中立科学”外衣，在多国平移复制镜像证据组织（如[[Australian Education Research Organisation|澳大利亚教育研究组织]]，AERO）。
 > - **2022 [[OECD]] 跨国政务网络实证测度** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]）首次在 29 国 37 个教育系统全面测度部委政务网络，揭示了网络规模与联结强度的解耦、大网络陷阱与生产依附偏误。
 > - **2022 教师教育政策网络与[[Gatekeepers|把关人]]实证分析** [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] 剖析英格兰教师教育政策网络，揭示高层官僚轮换、社交媒体意见领袖与教育部把关人如何共同形塑[[Policy-Based Evidence-Making|基于政策的证据制造]]。
-> - **2024 批判[[Network Analysis|网络分析]]实证落地** [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 运用政策网络分析方法解构澳大利亚初始教师教育改革中的理念编排与公私利益合流。
+> - **2024 批判[[Network Analysis|网络分析]]实证落地** [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 运用政策网络分析方法解构澳大利亚[[Initial Teacher Training|初始教师教育]]改革中的理念编排与公私利益合流。
 
 ---
 

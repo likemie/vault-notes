@@ -11,7 +11,7 @@ title: "Argument_Slavin_2021_ECNUROE"
 argument_key: "Argument_Slavin_2021_ECNUROE"
 argument_display_title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[School Leadership]]"
-  - "[[Entrepreneur in Residence]]"
   - "[[Operationalization]]"
   - "[[Evidence Standards]]"
   - "[[Social-Emotional Learning]]"
@@ -42,9 +41,12 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
+  - "[[Every Student Succeeds Act]]"
+  - "[[Education Innovation and Research]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
+  - "[[Evidence for ESSA]]"
   - "[[Best Evidence in Brief]]"
   - "[[Institute of Education Sciences]]"
 related_arguments: []
@@ -74,7 +76,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：国际比较综述（international comparative review）
-> - 数据来源：中国 CNKI 数据库（~5000 篇"教育实证研究"文献计量分析）、五种 CSSCI 期刊 2012-2016 年出版物分析(Wang, 2017)、ECNU 五届教育实证研究论坛资料（2015-2019）、美英政策文件（ESSA、i3/[[Entrepreneur in Residence|EIR]]、[[Education Endowment Foundation|EEF]]）和网站（[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、Evidence for ESSA、[[Best Evidence in Brief|BEiB]]）
+> - 数据来源：中国 CNKI 数据库（~5000 篇"教育实证研究"文献计量分析）、五种 CSSCI 期刊 2012-2016 年出版物分析(Wang, 2017)、ECNU 五届教育实证研究论坛资料（2015-2019）、美英政策文件（[[Every Student Succeeds Act|ESSA]]、i3/[[Education Innovation and Research|EIR]]、[[Education Endowment Foundation|EEF]]）和网站（[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、[[Evidence for ESSA]]、[[Best Evidence in Brief|BEiB]]）
 > - 覆盖区域：中国（含大陆和香港）、美国、英国
 
 ## 核心论证
@@ -85,7 +87,7 @@ citation_aliases:
 > 3. **中国的制度建设** ECNU 自 2015 年起连续五年举办全国教育实证研究论坛，2017 年 14 所大学和 32 家 CSSCI 期刊联合发布"华东师范大学宣言"，提出 10 条推进措施(p.10-15)
 > 4. **中国学者的质疑(a)** 定义之争——广义（收集观察数据）vs 狭义（程序化、[[Operationalization|操作化]]、定量化）的"实证"理解分歧(Shi, 2017)；(b) 统计主义（statisticalism）批判——"聚焦方法而忽视问题，聚焦数据而忽视事实，聚焦格式而忽视思想"(Li, 2018, p.15-16)；(c) 教育价值不可量化——"教育的许多重要概念如目的、伦理和价值难以量化和观察"(Liu, 2017, p.16)；(d) 数据收集的现实困难——高质量数据获取受限、纵向数据成本、研究者培训不足(Yang et al., 2019, p.16)；(e) 实证研究不等于[[Quantitative Research|定量研究]]——潘洪建(2018)强调严谨的[[Qualitative Research|定性研究]]同样导致真实证据(p.16)
 > 5. **美英现状**ESSA (2015) 定义强/中/有希望三级[[Evidence Standards|证据标准]]；i3 资助 171 个 [[Randomised Controlled Trials|RCT]] 项目（2009-2016）；[[Institute of Education Sciences|IES]] 自 2002 年支持可推广项目的开发和评估；[[Education Endowment Foundation|EEF]] 资助大量第三方 RCT 评估(p.17-19)
-> 6. **信息传播基础设施**[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]（最佳证据百科全书）、Evidence for ESSA（~100 个阅读和数学项目达标，截至 2020 年 1 月 100,000+ 独立用户）、[[Best Evidence in Brief|BEiB]]（每两周向数万订阅者发送，已扩展至中文版）(p.19-21)
+> 6. **信息传播基础设施**[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]（最佳证据百科全书）、[[Evidence for ESSA]]（~100 个阅读和数学项目达标，截至 2020 年 1 月 100,000+ 独立用户）、[[Best Evidence in Brief|BEiB]]（每两周向数万订阅者发送，已扩展至中文版）(p.19-21)
 > 7. **对中国的建议(a)** 识别少数区域试点政策和实践以学习如何在中国情境中运作；(b) 建立从创新到评估到推广的全程能力——"需要大量高技能人才来创造或改编创新""需要更多熟练的评估者""需要能够持续总结有效项目证据并使其易于为教育者获取"(p.21-22)
 
 ## 主要发现
@@ -94,7 +96,7 @@ citation_aliases:
 > - 中国的教育实证研究出版物呈指数增长（1990, p. 2 篇 → 2018, p. 477 篇），但占总研究产出比例仍低（<10-20%）(p.11-14)
 > - ECNU 实证研究论坛（2015-2019）五年间从单一会议扩展为 16 所大学联合组织的多场平行会议(p.10-12)
 > - 2017 年"华东师范大学宣言"是标志性事件：14 所大学 + 32 家 CSSCI 期刊，提出课程建设、青年教师培训、提高发表数量与质量、年度全国论坛、编辑出版国际高质量实证研究、提高评估标准、增加实证项目比例、设立杰出成果奖、发布年度进展报告、向公众公开教育数据等 10 条措施(p.14-15)
-> - Evidence for ESSA 已审查 K-12 阅读和数学项目，约 100 个项目达到 ESSA 标准，"强"证据类别数量最多；已审查 24 个[[Social-Emotional Learning|社会情感学习]]项目和 8 个出勤项目(p.20)
+> - [[Evidence for ESSA]] 已审查 K-12 阅读和数学项目，约 100 个项目达到 [[Every Student Succeeds Act|ESSA]] 标准，"强"证据类别数量最多；已审查 24 个[[Social-Emotional Learning|社会情感学习]]项目和 8 个出勤项目(p.20)
 > - [[Best Evidence in Brief|BEiB]] 网络已扩展至四个节点：JHU（美英版）、约克大学（美英版）、NNU（中国大陆中文版）、CUHK（海外华人版）(p.20-21)
 
 ## 关键引用

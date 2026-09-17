@@ -6,10 +6,10 @@ summary: "澳大利亚教育心理学家，新南威尔士大学名誉教授，�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1946"
 died: ""
 lifespan: "1946–至今"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Working Memory]]"
   - "[[Direct Instruction]]"
+  - "[[Initial Teacher Training]]"
   - "[[Positivism]]"
   - "[[Document]]"
   - "[[Policy Network]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # John Sweller
@@ -54,7 +55,7 @@ updated: 2026-09-11
 > - **身份位置** 澳大利亚教育心理学家，新南威尔士大学（University of New South Wales）名誉教授。认知科学与进化教育心理学派学者。
 > - **为什么值得建条目** 开创了[[Cognitive Load Theory|认知负荷理论]]（CLT），在教育心理学和学习科学领域具有全球持续影响力。其理论在2020年代被英澳等国官方循证中介机构和保守智库用于指导课程改革。
 > - **代表贡献** 提出了[[Cognitive Load Theory|认知负荷理论]]（CLT），主张在教学设计中应当避免过度消耗[[Working Memory|工作记忆]]；提出了生物初级知识与生物次级知识的获取差异，以此主张传统[[Direct Instruction|直接教学]]的优越性，并反对自主探究学习。
-> - **阅读边界** 本页关注其认知负荷理论的学术主张、其著作在澳大利亚初始教师教育（ITE）改革中的政策嵌入，以及其学说在保守派智库政治生态中的动员。
+> - **阅读边界** 本页关注其认知负荷理论的学术主张、其著作在澳大利亚[[Initial Teacher Training|初始教师教育]]（ITE）改革中的政策嵌入，以及其学说在保守派智库政治生态中的动员。
 
 ---
 
@@ -62,7 +63,7 @@ updated: 2026-09-11
 
 > [!contribution-map] 贡献地图
 > - **理论贡献**[[Cognitive Load Theory]] — 开创了认知负荷理论，提出了[[Working Memory|工作记忆]]限制、图式（schema）构建和自动化的学习机制，为微观教学设计提供了[[Positivism|实证主义]]的解释框架。
-> - **制度／政策影响**[[Strong Beginnings Report]] — 其著作（特别是反对探究式学习的[[Document|文献]]）在2023年《强劲开端》报告中被列为澳大利亚全国初始教师教育（ITE）“大脑与学习”核心课程的指定参考文献，成为职前教师毕业的法定考核标准。
+> - **制度／政策影响**[[Strong Beginnings Report]] — 其著作（特别是反对探究式学习的[[Document|文献]]）在2023年《强劲开端》报告中被列为澳大利亚全国[[Initial Teacher Training|初始教师教育]]（ITE）“大脑与学习”核心课程的指定参考文献，成为职前教师毕业的法定考核标准。
 
 ---
 

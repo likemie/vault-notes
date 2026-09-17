@@ -3659,6 +3659,18 @@
     ]
   },
   {
+    "title": "Cumulative Dosage Principle",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Cumulative Dosage Principle.md",
+    "aliases": [
+      "累积剂量原则",
+      "累积效应原则",
+      "持续干预剂量原则",
+      "累积剂量假说",
+      "Cumulative Dosage"
+    ]
+  },
+  {
     "title": "Cumulative Knowledge Base",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Cumulative Knowledge Base.md",
@@ -3734,7 +3746,10 @@
       "证据清算中心",
       "Educational Evidence Clearinghouse",
       "Clearinghouse",
-      "教育证据中介与清算中心"
+      "教育证据中介与清算中心",
+      "EEC",
+      "教育证据信息交流所",
+      "教育证据交流所"
     ]
   },
   {
@@ -3873,7 +3888,8 @@
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evidence-Based Reform.md",
     "aliases": [
-      "证据本位改革"
+      "证据本位改革",
+      "EBR"
     ]
   },
   {
@@ -3998,6 +4014,18 @@
       "包容性证据验证类型学",
       "inclusive typology of research designs",
       "inclusive validation typology"
+    ]
+  },
+  {
+    "title": "Initial Teacher Training",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Initial Teacher Training.md",
+    "aliases": [
+      "初始教师培训",
+      "初始教师教育",
+      "Initial Teacher Education",
+      "ITT",
+      "ITE"
     ]
   },
   {
@@ -4397,6 +4425,25 @@
     ]
   },
   {
+    "title": "Response to Intervention",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Response to Intervention.md",
+    "aliases": [
+      "干预反应模型",
+      "响应性干预",
+      "RTI"
+    ]
+  },
+  {
+    "title": "Response to Proven Instruction",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Response to Proven Instruction.md",
+    "aliases": [
+      "循证干预反应",
+      "RTPI"
+    ]
+  },
+  {
     "title": "Reusability Paradox",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Reusability Paradox.md",
@@ -4574,6 +4621,21 @@
       "第三空间对话",
       "Third Space",
       "第三空间"
+    ]
+  },
+  {
+    "title": "Tiered Evidence Grants",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Tiered Evidence Grants.md",
+    "aliases": [
+      "分层证据资助",
+      "分层证据资助机制",
+      "梯次证据资助",
+      "梯次证据资助框架",
+      "分层资助管线",
+      "Tiered Evidence Grantmaking",
+      "Tiered Evidence Framework",
+      "Tiered Funding"
     ]
   },
   {
@@ -5724,7 +5786,6 @@
     "path": "wiki/concepts/instruction-pedagogy/Active Learning.md",
     "aliases": [
       "主动学习",
-      "active learning",
       "active learning model"
     ]
   },
@@ -7497,7 +7558,9 @@
       "反事实",
       "反事实推理",
       "counterfactuals",
-      "counterfactual reasoning"
+      "counterfactual reasoning",
+      "counterfactual comparison",
+      "反事实对照"
     ]
   },
   {
@@ -7658,6 +7721,18 @@
     ]
   },
   {
+    "title": "Developer-Made Measures",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Developer-Made Measures.md",
+    "aliases": [
+      "开发者自编测验",
+      "开发者自编测量",
+      "研究者自编测验",
+      "Developer-Crafted Measures",
+      "Inherent Measures"
+    ]
+  },
+  {
     "title": "Directional and Non-directional Hypotheses",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Directional and Non-directional Hypotheses.md",
@@ -7730,6 +7805,16 @@
       "etic perspective",
       "emic approach",
       "etic approach"
+    ]
+  },
+  {
+    "title": "Epistemological Coherence",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Epistemological Coherence.md",
+    "aliases": [
+      "认识论连贯性",
+      "全流程认识论连贯性",
+      "epistemic coherence"
     ]
   },
   {
@@ -8368,6 +8453,20 @@
       "dependability",
       "可依赖性",
       "可靠性"
+    ]
+  },
+  {
+    "title": "Replication in Education Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Replication in Education Research.md",
+    "aliases": [
+      "教育研究复现",
+      "教育实证复现",
+      "独立复现研究",
+      "复现危机",
+      "复现危机与机制",
+      "Replication Studies in Education",
+      "Replication Crisis in Education"
     ]
   },
   {
@@ -9927,7 +10026,6 @@
     "path": "wiki/concepts/university-industry-collaboration/Entrepreneur in Residence.md",
     "aliases": [
       "驻校企业家",
-      "EIR",
       "entrepreneur in residence",
       "驻校创业者"
     ]
@@ -18824,6 +18922,18 @@
     ]
   },
   {
+    "title": "Nancy Madden",
+    "type": "person",
+    "path": "wiki/persons/us/Nancy Madden.md",
+    "aliases": [
+      "南希·马登",
+      "南希·A·马登",
+      "Nancy A. Madden",
+      "N. A. Madden",
+      "Madden, N. A."
+    ]
+  },
+  {
     "title": "Paul B. Paulus",
     "type": "person",
     "path": "wiki/persons/us/Paul B. Paulus.md",
@@ -21296,7 +21406,6 @@
     "type": "fact",
     "path": "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md",
     "aliases": [
-      "TIER",
       "荷兰证据本位教育研究顶尖研究所"
     ]
   },
@@ -22114,6 +22223,18 @@
     ]
   },
   {
+    "title": "Teacher Training Agency",
+    "type": "fact",
+    "path": "wiki/facts/uk/Teacher Training Agency.md",
+    "aliases": [
+      "教师培训署",
+      "TTA",
+      "学校培训与发展署",
+      "Training and Development Agency for Schools",
+      "TDA"
+    ]
+  },
+  {
     "title": "UK Centre for Evidence-based Policy",
     "type": "fact",
     "path": "wiki/facts/uk/UK Centre for Evidence-based Policy.md",
@@ -22304,6 +22425,17 @@
     "aliases": [
       "ISCF",
       "英国产业战略挑战基金"
+    ]
+  },
+  {
+    "title": "Initial Teacher Training Core Content Framework",
+    "type": "fact",
+    "path": "wiki/facts/uk/Initial Teacher Training Core Content Framework.md",
+    "aliases": [
+      "初始教师培训核心内容框架",
+      "ITT CCF",
+      "Core Content Framework",
+      "CCF"
     ]
   },
   {
@@ -22507,6 +22639,16 @@
     ]
   },
   {
+    "title": "Butterfly Phonics",
+    "type": "fact",
+    "path": "wiki/facts/uk/Butterfly Phonics.md",
+    "aliases": [
+      "蝴蝶自然拼读",
+      "蝴蝶自然拼读方案",
+      "Real Coaching Butterfly Phonics"
+    ]
+  },
+  {
     "title": "Catch Up Numeracy",
     "type": "fact",
     "path": "wiki/facts/uk/Catch Up Numeracy.md",
@@ -22595,6 +22737,26 @@
     ]
   },
   {
+    "title": "Numbers Count",
+    "type": "fact",
+    "path": "wiki/facts/uk/Numbers Count.md",
+    "aliases": [
+      "数数算算",
+      "数数算算项目",
+      "Every Child Counts Numbers Count"
+    ]
+  },
+  {
+    "title": "Perry Beeches",
+    "type": "fact",
+    "path": "wiki/facts/uk/Perry Beeches.md",
+    "aliases": [
+      "佩里比奇斯辅导",
+      "佩里比奇斯辅导方案",
+      "Perry Beeches Coaching Program"
+    ]
+  },
+  {
     "title": "RAiSE Programme",
     "type": "fact",
     "path": "wiki/facts/uk/RAiSE Programme.md",
@@ -22602,6 +22764,17 @@
       "RAiSE",
       "苏格兰科学教育抱负提升计划",
       "Raising Aspirations in Science Education"
+    ]
+  },
+  {
+    "title": "Reach",
+    "type": "fact",
+    "path": "wiki/facts/uk/Reach.md",
+    "aliases": [
+      "Reach Reading Intervention",
+      "Reach Reading",
+      "触及方案",
+      "小初衔接读写干预"
     ]
   },
   {
@@ -22782,15 +22955,6 @@
       "拜杜法案",
       "Bayh-Dole",
       "Patent and Trademark Law Amendments Act"
-    ]
-  },
-  {
-    "title": "Best Evidence Encyclopedia",
-    "type": "fact",
-    "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
-    "aliases": [
-      "最佳证据百科全书",
-      "BEE"
     ]
   },
   {
@@ -23048,17 +23212,6 @@
     ]
   },
   {
-    "title": "Peer-Assisted Learning Strategies",
-    "type": "fact",
-    "path": "wiki/facts/us/Peer-Assisted Learning Strategies.md",
-    "aliases": [
-      "同伴辅助学习策略",
-      "同伴互助学习策略",
-      "PALS",
-      "Peer-Assisted Learning Strategies (PALS)"
-    ]
-  },
-  {
     "title": "PRACCIS",
     "type": "fact",
     "path": "wiki/facts/us/PRACCIS.md",
@@ -23187,17 +23340,6 @@
     ]
   },
   {
-    "title": "Success for All",
-    "type": "fact",
-    "path": "wiki/facts/us/Success for All.md",
-    "aliases": [
-      "全面成功计划",
-      "Success for All (SFA)",
-      "人人成功",
-      "SFA"
-    ]
-  },
-  {
     "title": "Sunshine Act",
     "type": "fact",
     "path": "wiki/facts/us/Sunshine Act.md",
@@ -23305,6 +23447,15 @@
       "南加州创新联盟",
       "Alliance for SoCal Innovation",
       "the Alliance"
+    ]
+  },
+  {
+    "title": "Best Evidence Encyclopedia",
+    "type": "fact",
+    "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
+    "aliases": [
+      "最佳证据百科全书",
+      "BEE"
     ]
   },
   {
@@ -23713,6 +23864,81 @@
     ]
   },
   {
+    "title": "Early Reading Intervention",
+    "type": "fact",
+    "path": "wiki/facts/us/Early Reading Intervention.md",
+    "aliases": [
+      "早期阅读干预",
+      "早期阅读干预方案",
+      "Scott Foresman ERI",
+      "Early Reading Intervention ERI"
+    ]
+  },
+  {
+    "title": "Early Steps",
+    "type": "fact",
+    "path": "wiki/facts/us/Early Steps.md",
+    "aliases": [
+      "Next Steps",
+      "Early Steps-Next Steps",
+      "早期起步",
+      "早期起步与后续起步"
+    ]
+  },
+  {
+    "title": "Education Innovation and Research",
+    "type": "fact",
+    "path": "wiki/facts/us/Education Innovation and Research.md",
+    "aliases": [
+      "教育创新与研究计划",
+      "教育创新与研究项目",
+      "教育创新与研究",
+      "EIR",
+      "EIR Program",
+      "Education Innovation and Research Program"
+    ]
+  },
+  {
+    "title": "Enhanced Core Reading Instruction",
+    "type": "fact",
+    "path": "wiki/facts/us/Enhanced Core Reading Instruction.md",
+    "aliases": [
+      "增强型核心阅读教学",
+      "ECRI"
+    ]
+  },
+  {
+    "title": "Evidence for ESSA",
+    "type": "fact",
+    "path": "wiki/facts/us/Evidence for ESSA.md",
+    "aliases": [
+      "联邦循证教育平台",
+      "全美教育证据库"
+    ]
+  },
+  {
+    "title": "FocusMath",
+    "type": "fact",
+    "path": "wiki/facts/us/FocusMath.md",
+    "aliases": [
+      "聚焦数学",
+      "聚焦数学方案",
+      "FocusMath Intervention",
+      "Pearson FocusMath"
+    ]
+  },
+  {
+    "title": "Fraction Face-Off!",
+    "type": "fact",
+    "path": "wiki/facts/us/Fraction Face-Off!.md",
+    "aliases": [
+      "Fraction Face-Off",
+      "分数对决",
+      "分数对决项目",
+      "分数干预项目"
+    ]
+  },
+  {
     "title": "Fulbright Program",
     "type": "fact",
     "path": "wiki/facts/us/Fulbright Program.md",
@@ -23720,6 +23946,27 @@
       "富布莱特计划",
       "富布赖特计划",
       "富布莱特项目"
+    ]
+  },
+  {
+    "title": "Galaxy Math",
+    "type": "fact",
+    "path": "wiki/facts/us/Galaxy Math.md",
+    "aliases": [
+      "银河数学",
+      "银河数学辅导方案",
+      "Galaxy Math Tutoring",
+      "First-Grade Galaxy Math"
+    ]
+  },
+  {
+    "title": "Intensive Reading Remediation",
+    "type": "fact",
+    "path": "wiki/facts/us/Intensive Reading Remediation.md",
+    "aliases": [
+      "密集阅读补救",
+      "密集阅读补救方案",
+      "Blachman Reading Remediation"
     ]
   },
   {
@@ -23735,12 +23982,44 @@
     ]
   },
   {
+    "title": "Lightning Squad",
+    "type": "fact",
+    "path": "wiki/facts/us/Lightning Squad.md",
+    "aliases": [
+      "闪电突击队",
+      "闪电读写小组",
+      "计算机辅助读写辅导项目",
+      "Technology-Assisted Tutoring"
+    ]
+  },
+  {
+    "title": "Lindamood Phoneme Sequencing",
+    "type": "fact",
+    "path": "wiki/facts/us/Lindamood Phoneme Sequencing.md",
+    "aliases": [
+      "LiPS",
+      "林达穆德音素序列项目",
+      "Lindamood Phoneme Sequencing Program"
+    ]
+  },
+  {
     "title": "Local Innovation Systems Project",
     "type": "fact",
     "path": "wiki/facts/us/Local Innovation Systems Project.md",
     "aliases": [
       "LIS Project",
       "本地创新系统项目"
+    ]
+  },
+  {
+    "title": "Math Recovery",
+    "type": "fact",
+    "path": "wiki/facts/us/Math Recovery.md",
+    "aliases": [
+      "数学恢复",
+      "数学恢复方案",
+      "Math Recovery Program",
+      "US Math Recovery"
     ]
   },
   {
@@ -23751,6 +24030,45 @@
       "MN-IP Create",
       "明尼苏达大学IP创新计划",
       "University of Minnesota MN-IP Create"
+    ]
+  },
+  {
+    "title": "National Diffusion Network",
+    "type": "fact",
+    "path": "wiki/facts/us/National Diffusion Network.md",
+    "aliases": [
+      "国家扩散网络",
+      "NDN"
+    ]
+  },
+  {
+    "title": "Number Rockets",
+    "type": "fact",
+    "path": "wiki/facts/us/Number Rockets.md",
+    "aliases": [
+      "数字火箭",
+      "数字火箭项目"
+    ]
+  },
+  {
+    "title": "Peer-Assisted Learning Strategies",
+    "type": "fact",
+    "path": "wiki/facts/us/Peer-Assisted Learning Strategies.md",
+    "aliases": [
+      "同伴辅助学习策略",
+      "同伴互助学习策略",
+      "PALS",
+      "Peer-Assisted Learning Strategies (PALS)"
+    ]
+  },
+  {
+    "title": "Pirate Math",
+    "type": "fact",
+    "path": "wiki/facts/us/Pirate Math.md",
+    "aliases": [
+      "海盗数学",
+      "海盗数学方程探索",
+      "Pirate Math Equation Quest"
     ]
   },
   {
@@ -23766,6 +24084,16 @@
     ]
   },
   {
+    "title": "QuickReads",
+    "type": "fact",
+    "path": "wiki/facts/us/QuickReads.md",
+    "aliases": [
+      "Quick Reads",
+      "极速阅读",
+      "快速阅读项目"
+    ]
+  },
+  {
     "title": "Rainbow Project",
     "type": "fact",
     "path": "wiki/facts/us/Rainbow Project.md",
@@ -23773,6 +24101,36 @@
       "彩虹项目",
       "斯腾伯格彩虹项目",
       "Sternberg Rainbow Project"
+    ]
+  },
+  {
+    "title": "Read, Write, & Type",
+    "type": "fact",
+    "path": "wiki/facts/us/Read, Write, & Type.md",
+    "aliases": [
+      "Read, Write, and Type",
+      "读写与打字",
+      "读写打字方案"
+    ]
+  },
+  {
+    "title": "Reading Recovery",
+    "type": "fact",
+    "path": "wiki/facts/us/Reading Recovery.md",
+    "aliases": [
+      "阅读恢复方案",
+      "阅读复原计划",
+      "雷丁复原方案",
+      "Reading Recovery Program"
+    ]
+  },
+  {
+    "title": "Reading Rescue",
+    "type": "fact",
+    "path": "wiki/facts/us/Reading Rescue.md",
+    "aliases": [
+      "阅读营救",
+      "阅读营救项目"
     ]
   },
   {
@@ -23785,6 +24143,68 @@
     ]
   },
   {
+    "title": "ROOTS",
+    "type": "fact",
+    "path": "wiki/facts/us/ROOTS.md",
+    "aliases": [
+      "数学根基方案",
+      "ROOTS Math"
+    ]
+  },
+  {
+    "title": "SMART",
+    "type": "fact",
+    "path": "wiki/facts/us/SMART.md",
+    "aliases": [
+      "Start Making a Reader Today",
+      "SMART Reading",
+      "阅读伴读项目",
+      "今日造就读者",
+      "SMART Literacy"
+    ]
+  },
+  {
+    "title": "Sound Partners",
+    "type": "fact",
+    "path": "wiki/facts/us/Sound Partners.md",
+    "aliases": [
+      "声音伙伴",
+      "声音伙伴读写项目"
+    ]
+  },
+  {
+    "title": "SPARK Literacy",
+    "type": "fact",
+    "path": "wiki/facts/us/SPARK Literacy.md",
+    "aliases": [
+      "SPARK Literacy Program",
+      "SPARK Reading",
+      "星火读写方案",
+      "早期读写辅导"
+    ]
+  },
+  {
+    "title": "Success for All",
+    "type": "fact",
+    "path": "wiki/facts/us/Success for All.md",
+    "aliases": [
+      "全面成功计划",
+      "Success for All (SFA)",
+      "人人成功",
+      "SFA"
+    ]
+  },
+  {
+    "title": "Targeted Reading Intervention",
+    "type": "fact",
+    "path": "wiki/facts/us/Targeted Reading Intervention.md",
+    "aliases": [
+      "目标阅读干预",
+      "TRI",
+      "目标阅读干预项目"
+    ]
+  },
+  {
     "title": "Tennessee STAR Project 1985-1989",
     "type": "fact",
     "path": "wiki/facts/us/Tennessee STAR Project 1985-1989.md",
@@ -23793,6 +24213,17 @@
       "STAR Project",
       "Project STAR",
       "田纳西学生教师成就比项目"
+    ]
+  },
+  {
+    "title": "Tutor-Assisted Math Problem Solving",
+    "type": "fact",
+    "path": "wiki/facts/us/Tutor-Assisted Math Problem Solving.md",
+    "aliases": [
+      "助教辅助数学问题解决",
+      "助教辅助数学应用题辅导",
+      "Tutor-Assisted Mathematical Problem Solving",
+      "TAMPS"
     ]
   },
   {

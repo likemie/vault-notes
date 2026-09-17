@@ -5,7 +5,7 @@ aliases:
 summary: "指项目开发者委托、参与或实施的评估往往得到系统性高于独立第三方的效果估计，用于分析利益关系如何影响教育证据。"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Categorical Funding]]"
   - "[[Heterogeneity]]"
   - "[[Evaluator Independence]]"
+  - "[[Developer-Made Measures]]"
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
@@ -38,14 +39,16 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[Sound Partners]]"
   - "[[ESSA 2015 Evidence Standards]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[Creation of REES]]"
 related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 ## 定义
@@ -63,7 +66,7 @@ updated: 2026-09-15
 > - **全样本**（755 个效应量，169 项研究）：控制研究设计特征和项目特征后，独立研究的平均效应量为 +0.168，开发者研究的平均效应量为 +0.309，差异为 0.141 标准差([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 441]])。即开发者研究的效应量约为独立研究的 **1.8 倍**。
 > - **同一干预子样本**（350 个效应量，91 项研究）：控制协[[Variable|变量]]并加入每个干预的虚拟变量后，独立研究平均效应量为 +0.194，开发者研究为 +0.324，差异为 0.130 标准差([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 439]])。即对于**同一个项目**，开发者研究效应量约为独立研究的 **1.7 倍**。
 >
-> > 例：在 28 个同时有开发者和独立研究的干预中，除 Sound Partners（一个辅导项目）外，所有干预的开发者平均效应量方向性上均大于独立研究平均效应量([[Argument_Wolf_2020_JREE|Wolf et al., 2020, pp. 438–439]])。
+> > 例：在 28 个同时有开发者和独立研究的干预中，除 [[Sound Partners]]（一个辅导项目）外，所有干预的开发者平均效应量方向性上均大于独立研究平均效应量([[Argument_Wolf_2020_JREE|Wolf et al., 2020, pp. 438–439]])。
 
 
 > [!abstract] 已排除的解释
@@ -104,7 +107,7 @@ updated: 2026-09-15
 
 > [!success] 实证发现
 > - 在 28 个同时有开发者和独立研究的干预中，27/28 的开发者的平均[[Effect Size|效应量]]方向性更大([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 438]])
-> - 开发者研究更倾向使用[[Quasi-Experimental Designs|准实验设计]]（51% vs. 15%）、研究者/开发者自编测量（29% vs. 8%）和更小[[Sample Size Determination|样本量]]（均值 392 vs. 659）([[Argument_Wolf_2020_JREE|Wolf et al., 2020, pp. 434–436]])
+> - 开发者研究更倾向使用[[Quasi-Experimental Designs|准实验设计]]（51% vs. 15%）、研究者/[[Developer-Made Measures|开发者自编测量]]（29% vs. 8%）和更小[[Sample Size Determination|样本量]]（均值 392 vs. 659）([[Argument_Wolf_2020_JREE|Wolf et al., 2020, pp. 434–436]])
 > - 开发者研究平均发表年份更早([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 436]])
 > - 敏感性分析（移除研究生研究、仅实验设计、仅准实验设计）均未改变开发者效应的大小和方向([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 441]])
 
@@ -118,7 +121,7 @@ updated: 2026-09-15
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[ESSA 2015 Evidence Standards]] — ESSA 的通过使开发者有更大的经济激励去证明其产品的有效性，可能加剧开发者效应
+> - [[ESSA 2015 Evidence Standards]] — [[Every Student Succeeds Act|ESSA]] 的通过使开发者有更大的经济激励去证明其产品的有效性，可能加剧开发者效应
 > - [[What Works Clearinghouse]] — WWC 数据库是 Wolf et al. 研究的数据源
 > - [[Creation of REES]] — [[Preregistration|预注册]]制度被提出作为缓解开发者效应的关键机制
 

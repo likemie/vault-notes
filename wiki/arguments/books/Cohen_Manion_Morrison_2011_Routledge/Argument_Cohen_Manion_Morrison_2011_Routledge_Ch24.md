@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_display_title: "Research Methods in Education · Ch24"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Domain-Referenced Test]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Purpose]]"
+  - "[[Developer-Made Measures]]"
   - "[[Construct]]"
   - "[[Cultural Capital]]"
   - "[[Placement, Formative, Diagnostic, and Summative Testing]]"
@@ -344,7 +345,7 @@ Howitt & Cramer（2005）指出商业测验的购买和施测成本高昂、通�
 > 若未能证明目的适切性，研究者就必须自编测验。自编测验的优势在于紧密贴合当地和机构情境——目的、目标和内容将刻意匹配研究者在特定给定情境中的具体需求。
 
 > [!contrast-table] 商业测验与自编测验全面对比
-> | 维度 | 商业出版测验 | 研究者自编测验 |
+> | 维度 | 商业出版测验 | [[Developer-Made Measures\|研究者自编测验]] |
 > |------|------------|--------------|
 > | **客观性** | 已标准化，客观 | 主观编制，需自行验证 |
 > | **试测与优化** | 已经过预测试和优化 | 需要自行预测试和修改 |

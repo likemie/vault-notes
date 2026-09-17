@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
   - assessment
   - theme/intermediary-organisation
 related_concepts:
+  - "[[Initial Teacher Training]]"
   - "[[Gatekeepers]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Australian Council for Educational Research
@@ -58,7 +59,7 @@ updated: 2026-09-15
 > [!timeline] 机构发展与关键活动
 > - 2015 澳大利亚政府接收 [[Teacher Education Ministerial Advisory Group|TEMAG]] 报告建议，决定引入全国统考，ACER 获授权承担测试的独立运营与系统开发。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - 2016 ACER 负责管理的 [[LANTITE]] 统考在全国正式落地实施。由于考生多、系统不稳定，实施初期经历了“完全混乱”阶段。
-> - 2020-2021 LANTITE 毕业把关规则固化，ACER 持续通过统考管理获得稳定营收，成为初始教师教育行业核心中介组织之一。
+> - 2020-2021 LANTITE 毕业把关规则固化，ACER 持续通过统考管理获得稳定营收，成为[[Initial Teacher Training|初始教师教育]]行业核心中介组织之一。
 
 ---
 

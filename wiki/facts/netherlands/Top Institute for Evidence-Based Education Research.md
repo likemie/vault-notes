@@ -1,7 +1,6 @@
 ---
 title: Top Institute for Evidence-Based Education Research
 aliases:
-  - TIER
   - 荷兰证据本位教育研究顶尖研究所
 summary: "2008年荷兰多校合作建立的跨大学研究所，通过实验评价、元分析、知识传播和教师学院连接教育研究、政策与学校实践。"
 type: fact
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-09-17
 ---
 
 # Top Institute for Evidence-Based Education Research

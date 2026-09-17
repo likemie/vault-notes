@@ -9,7 +9,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - assessment
   - data-survey
 related_concepts:
+  - "[[Initial Teacher Training]]"
   - "[[Student Satisfaction]]"
   - "[[Screening Off]]"
   - "[[What Works Movement]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Graduate Outcomes Survey
@@ -47,7 +48,7 @@ updated: 2026-09-16
 > - **发布时间 / 发布主体** 由澳大利亚政府委托的“学习与教学质量指标”（Quality Indicators for Learning and Teaching, QILT）独立研究机构每年调查并发布。
 > - **适用地区 / 对象** 澳大利亚所有高等教育机构（包括大学及非大学高等教育机构）毕业并进入职场短期（通常为毕业后四个月）的毕业生。
 > - **问题背景** 旨在通过收集毕业生在就业率、起薪、教学质量满意度等维度的第一手量化反馈，为高等教育机构的绩效问责、课程评估和课程质量提供循证数据支撑。
-> - **制度位置** 作为澳大利亚高等教育治理体系中公认的、最具权威性的宏观实证数据源之一，其数据经常被政府作为评估各专业领域（如初始教师教育，ITE）课程合理性与效益的科学基础（QILT, 2023）。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 4–5]])
+> - **制度位置** 作为澳大利亚高等教育治理体系中公认的、最具权威性的宏观实证数据源之一，其数据经常被政府作为评估各专业领域（如[[Initial Teacher Training|初始教师教育]]，ITE）课程合理性与效益的科学基础（QILT, 2023）。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 4–5]])
 
 ---
 

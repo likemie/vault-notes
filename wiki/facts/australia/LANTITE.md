@@ -9,7 +9,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - assessment
   - theme/accountability
 related_concepts:
+  - "[[Initial Teacher Training]]"
   - "[[What Works Movement]]"
 related_theories: []
 related_methods: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-06-16
+updated: 2026-09-17
 ---
 
 # LANTITE
@@ -44,7 +45,7 @@ updated: 2026-06-16
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2016年正式开始全国实施，由澳大利亚联邦政府基于2015年初始教师教育咨询小组（[[Teacher Education Ministerial Advisory Group|TEMAG]]）报告《行动立即开始：课堂就绪教师》（*Action Now: Classroom Ready Teachers*）的政策建议推出。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **发布时间 / 发布主体** 2016年正式开始全国实施，由澳大利亚联邦政府基于2015年[[Initial Teacher Training|初始教师教育]]咨询小组（[[Teacher Education Ministerial Advisory Group|TEMAG]]）报告《行动立即开始：课堂就绪教师》（*Action Now: Classroom Ready Teachers*）的政策建议推出。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **适用地区 / 对象** 适用于澳大利亚全国范围内初始教师教育（ITE）课程的在读职前教师。
 > - **问题背景** 作为提升教师质量门槛的标准化测试，应对公众对新教师读写与算术基础能力的担忧。
 > - **制度位置** 由澳大利亚教育研究理事会 ([[Australian Council for Educational Research|ACER]]) 负责测试开发与管理，是初始教师进入教学岗位前的强制性法定制约关卡。
@@ -54,7 +55,7 @@ updated: 2026-06-16
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> LANTITE 作为初始教师教育项目的毕业门槛测试，强制要求所有职前教师在毕业前通过读写与算术能力统考，属于标准化的“守门机制”。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> LANTITE 作为[[Initial Teacher Training|初始教师教育]]项目的毕业门槛测试，强制要求所有职前教师在毕业前通过读写与算术能力统考，属于标准化的“守门机制”。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 > [!policy-design]- 政策设计
 > - **目标** 保证所有新毕业教师具备前30%成年人水平的基本读写与算术素养。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])

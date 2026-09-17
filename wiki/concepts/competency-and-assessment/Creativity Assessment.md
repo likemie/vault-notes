@@ -14,7 +14,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 74
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -90,6 +90,7 @@ related_instruments:
   - "[[Creative Engineering Design Assessment]]"
   - "[[Originality Scale of Visual Metaphors]]"
 related_persons:
+  - "[[Michael Gove]]"
   - "[[Mark A. Runco]]"
 related_facts:
   - "[[Rainbow Project]]"
@@ -107,7 +108,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Creativity Assessment
@@ -251,7 +252,7 @@ updated: 2026-09-12
 > [!dev-timeline] [[Creativity|创造力]]测评的技术演进与[[Paradigm|范式]]转向
 > - **1950–1960 年代　[[Divergent Thinking|发散思维]]标准化测验奠基** 吉尔福德（Guilford, 1950/1967）提出发散思维结构，托兰斯（Torrance, 1966/1974）研制[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT），确立了以流畅性、灵活性、独创性与精致性为核心的心理测量学标准化测验范式。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 5)]]
 > - **1980 年代　社会心理学与非言语测验兴起** 阿玛比尔（Amabile, 1982, 1983）提出[[Consensual Assessment Technique|共识评估技术]]（CAT），确立真实创作的专家评判黄金标准；乌尔班与耶伦（Urban & Jellen, 1986）推出[[Test for Creative Thinking-Drawing Production|创造性思维绘画测验]]（TCT-DP），开创非言语图形整体测评通道。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 23)]]
-> - **2000 年代　成人简表、大学招生情境任务与多模态量表** 戈夫与托兰斯推出成人托兰斯简表（[[Abbreviated Torrance Test for Adults|ATTA]], 2002）；阿维里尔推出[[Emotional Creativity Inventory|情绪创造力量表]]（ECI, 1999）；斯腾伯格（Sternberg, 2006）推行“[[Rainbow Project|彩虹项目]]”情境任务；卡森等研发[[Creative Achievement Questionnaire|创造性成就问卷]]（CAQ）。
+> - **2000 年代　成人简表、大学招生情境任务与多模态量表** [[Michael Gove|戈夫]]与托兰斯推出成人托兰斯简表（[[Abbreviated Torrance Test for Adults|ATTA]], 2002）；阿维里尔推出[[Emotional Creativity Inventory|情绪创造力量表]]（ECI, 1999）；斯腾伯格（Sternberg, 2006）推行“[[Rainbow Project|彩虹项目]]”情境任务；卡森等研发[[Creative Achievement Questionnaire|创造性成就问卷]]（CAQ）。
 > - **2010 年代　校本真实性量规崛起与跨国政策框架** 全美高校推行 AAC&U VALUE 创造性思维量规（Rhodes, 2009），OECD CERI（2019）研发高等教育原型量规，欧洲推行 [[CALOHEE Project|CALOHEE]] 创新评价框架，创造力评价全面融入专业课程[[Homework|作业]]与反思档案袋。
 > - **2025–2026 年　大规模[[Meta-analysis|元分析]]确立测量[[Interaction Effect|调节效应]]与敏感度谱系** [[Argument_Park_2026_TSC|Park et al. (2026)]] 通过[[Three-Level Meta-Analysis|三水平元分析]]量化了主客观测量类型组合的调节效应；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 通过[[Meta-meta-analysis|二阶元分析]]确立了[[Predictive Validity|预测效度]]不对称性；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 揭示了创造性思维（[[Alternate Uses Test|AUT]]/ATTA）、图形创作（TCT-DP）与情绪自陈（ECI）等测量工具对教学干预的敏感度谱系。
 

@@ -14,7 +14,7 @@ aliases:
 summary: "实验或追踪研究中参与者因各种原因中途脱落导致初始随机等价性被破坏的内部效度威胁，WWC通过整体流失与差异流失二维边界模型度量其潜在因果偏误。"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Sampling Error]]"
   - "[[Response Bias]]"
+  - "[[Initial Teacher Training]]"
   - "[[Hypothesis]]"
   - "[[Threats to Internal Validity]]"
 related_theories:
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Attrition
@@ -164,7 +165,7 @@ ight|$$
 > 一项针对初中数学困难生的自愿周六补习 [[Randomised Controlled Trials|RCT]] 实验中：
 > - **初始设计** 200 名学生[[Random Assignment|随机分配]]至补习组（100 人）与对照组（100 人），基线成绩完全等价。
 > - **流失过程** 补习组因要求周六早起上课，数周内 30 名学习动机最低、家庭支持最弱的学生相继脱落；对照组学生因无需额外付出，仅自然流失 2 人。
-> - **偏差结果** 若仅分析补习组剩余 70 名“勤奋好学”的留守学生，[[Pre-test and Post-test|后测]]平均分显著超越对照组；但这一显著优势完全是由差异流失造成的自选择伪效应，采用 ITT 分析后[[Effect Size|效应量]]即刻归零。
+> - **偏差结果** 若仅分析补习组剩余 70 名“勤奋好学”的留守学生，[[Pre-test and Post-test|后测]]平均分显著超越对照组；但这一显著优势完全是由差异流失造成的自选择伪效应，采用 [[Initial Teacher Training|ITT]] 分析后[[Effect Size|效应量]]即刻归零。
 
 > [!case] 宏观综合学生支持中的人口流动 vs 政策倦怠脱落
 > 在全美大型防辍干预项目（如 [[Success for All]]、[[Communities in Schools]]）的多年期评估中：

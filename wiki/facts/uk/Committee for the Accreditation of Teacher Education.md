@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 17
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: London, United Kingdom
@@ -23,6 +23,7 @@ tags:
   - theme/sociology-of-education
   - policy/teacher-training
 related_concepts:
+  - "[[Initial Teacher Training]]"
   - "[[New Public Management]]"
   - "[[Classroom Management]]"
   - "[[Evidence Era]]"
@@ -39,6 +40,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Teacher Training Agency]]"
   - "[[Ofsted]]"
   - "[[Carter Review of Initial Teacher Training]]"
 related_arguments:
@@ -61,7 +63,7 @@ updated: 2026-09-17
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1984 年正式设立；源于 1983 年撒切尔政府发布的白皮书《教学质量》（*Teaching Quality*），旨在应对公众对教师教学质量的焦虑，打破大学对教师教育课程的自主垄断。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 91)]]
-> - **总部地点 / 业务辐射** 英国伦敦，法定管辖与业务覆盖英格兰及威尔士地区所有初始教师培训（ITT）机构。
+> - **总部地点 / 业务辐射** 英国伦敦，法定管辖与业务覆盖英格兰及威尔士地区所有[[Initial Teacher Training|初始教师培训]]（ITT）机构。
 > - **法人属性与经费基础** 英国教育部（DES）直属法定顾问机构，由中央财政全额拨款。
 > - **核心宗旨与法定职责** 审查教师教育机构办学标准，确保课程内容符合国家技能标准，依据 HMI 督导报告向教育大臣提供认证准入建议。
 
@@ -70,9 +72,9 @@ updated: 2026-09-17
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1967–1983 — 学科基础扩张与政策酝酿** 初始教师教育中教育社会学、教育哲学等理论学科迅速扩张；但保守党政府批评其脱离课堂实际并具有政治激进色彩，1983 年白皮书《教学质量》明确提出设立国家认证机构。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 658–659)]]；[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 91)]]
+> - **1967–1983 — 学科基础扩张与政策酝酿** [[Initial Teacher Training|初始教师教育]]中教育社会学、教育哲学等理论学科迅速扩张；但保守党政府批评其脱离课堂实际并具有政治激进色彩，1983 年白皮书《教学质量》明确提出设立国家认证机构。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 658–659)]]；[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 91)]]
 > - **1984–1994 — 循证认证与标准集权化** CATE 依据通令 3/84（Circular 3/84）全面铺开资质认证，首创基于 HMI 督导证据的准入规程，强力压缩理论学科，确立技能与课堂能力本位。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
-> - **1994 至今 — 职能承接与[[New Public Management|新公共管理]]演进** 1994 年英国通过《教育法案》设立教师培训署（Teacher Training Agency, TTA），接替并扩充了 CATE 的职能，后演化为教师发展署（TDA）、国家教学与领导力学院（NCTL）并最终收归教育部直接管理。
+> - **1994 至今 — 职能承接与[[New Public Management|新公共管理]]演进** 1994 年英国通过《教育法案》设立[[Teacher Training Agency|教师培训署]]（Teacher Training Agency, TTA），接替并扩充了 CATE 的职能，后演化为教师发展署（TDA）、国家教学与领导力学院（NCTL）并最终收归教育部直接管理。
 
 ---
 
@@ -84,7 +86,7 @@ updated: 2026-09-17
 > - **地方认证委员会（LCEs）** 在各培训机构所在地设立地方认证小组，协同开展课程材料初审。
 
 > [!pathways]- 业务运行机制
-> - **准入标准研制** 制定首批国家层面的初始教师教育准入标准（如规定学科教学时间比例、中小学实习最短周数）。
+> - **准入标准研制** 制定首批国家层面的[[Initial Teacher Training|初始教师教育]]准入标准（如规定学科教学时间比例、中小学实习最短周数）。
 > - **循证审查规程** 审查不仅依据大学提交的教学大纲文本，更严格依据 HMI 的入校督导观察证据，对不达标机构下达整改或吊销认证。
 
 ---
@@ -92,7 +94,7 @@ updated: 2026-09-17
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **国家初始教师培训认证规程** 建立首套贯穿全英的初始师资培训法定核准标准与准入流程。
+> - **国家[[Initial Teacher Training|初始教师培训]]认证规程** 建立首套贯穿全英的初始师资培训法定核准标准与准入流程。
 > - **循证督导资质审查报告** 联合 HMI 形成对全英数十所大学教育学院与教师进修学院的实证评估卷宗。
 > - **中小学校本实习硬性规范** 首次硬性规定大学教师教育者必须具备近期一线中小学教学经验（Recent and Relevant Experience）。
 

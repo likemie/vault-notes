@@ -11,7 +11,7 @@ aliases:
 summary: "由澳大利亚莫纳什大学 Q 项目提出的研究使用理论框架，将质量使用界定为对适切研究证据的审慎参与与实施，受个体、组织与系统多层使能构件协同支持，提炼出六大实践特征并广泛应用于学校实践与跨国政策生态诊断"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 59
+theory_related_count: 60
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -83,6 +83,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Monash Q Project]]"
+  - "[[Early Steps]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Torres_2022_KMModels]]"
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Quality Use of Research Evidence Framework
@@ -365,7 +366,7 @@ updated: 2026-09-14
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 指出实证文献普遍缺乏对使用质量维度的独立度量，容易导致质量概念沦为无法[[Falsification|证伪]]的话语标签。
 
 > [!warning] 作者自述边界
-> Rickinson et al. (2022, pp. 184, 194) 明确指出：实证调查数据仅来源于澳大利亚 4 个州的中小学教育系统，结论在不同治理体制与跨国社会文化中的适用性仍待检验；[[Questionnaire|问卷]]与[[In-depth Interview|深度访谈]]主要基于主观经验自陈，对真实课堂教学行为的直接观察测量仍显不足；对使用质[[Quantitative Research|量的研究]]在国际上尚处于早期起步阶段。
+> Rickinson et al. (2022, pp. 184, 194) 明确指出：实证调查数据仅来源于澳大利亚 4 个州的中小学教育系统，结论在不同治理体制与跨国社会文化中的适用性仍待检验；[[Questionnaire|问卷]]与[[In-depth Interview|深度访谈]]主要基于主观经验自陈，对真实课堂教学行为的直接观察测量仍显不足；对使用质[[Quantitative Research|量的研究]]在国际上尚处于[[Early Steps|早期起步]]阶段。
 
 ---
 

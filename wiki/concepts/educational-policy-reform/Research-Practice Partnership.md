@@ -46,7 +46,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[School Inspection]]"
   - "[[External Validity]]"
-  - "[[Constructivist Paradigm]]"
   - "[[Going Native]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
@@ -81,10 +80,11 @@ related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
+  - "[[Argument_Slavin_2019_EP]]"
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Research-Practice Partnership
@@ -244,7 +244,10 @@ updated: 2026-09-15
 > > 学界围绕 RPP 中究竟谁主导研究议程展开深刻反思。批评者指出，许多表面上的伙伴关系实际上仍是大学研究者单方面设计方案、把中小学视作廉价的“实验田”与“数据采集工场”；真正平等互惠的共创要求实践者拥有实质性的议题否决权与成果解释权。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 131)]]
 >
 > > [!axis] 本地知识能否升级为普遍科学证据
-> > 传统循证倡导者批评 RPP 产出的校本知识缺乏[[External Validity|外部效度]]，难以跨情境复制；而质性与[[Constructivist Paradigm|建构主义]]学者强调教育改进的本质就是情境化的，生搬硬套普适模式注定失败，RPP 的核心价值恰在扎根地方实践。[[Argument_Revai_2022_ChangingLandscape|(Enthoven & de Bruijn, 2010；Révai, 2022, p. 22)]]
+> > 围绕 RPP 产出的深植于单一学区的定制化知识究竟是提升了适切性，还是阻碍了向其他情境的因果概化。
+> >
+> > - **循证复现派（Slavin, 2019）** 批评以 Bryk 等人倡导的单学区 RPP 模式虽然契合本地，但过度贴合特定学区的特殊政治与人事微观生态，反而可能在向外推推广时遭遇严重的[[External Validity|外部效度]]障碍；解决概化问题的唯一科学途径是在广泛多元情境中的成功复现，而非固守单一学区的定制化开发。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 8)]]
+> > - **情境建构派（Enthoven & de Bruijn, 2010; Révai, 2022）** 强调教育改进本质上高度依赖微观情境，机械套用普适模型注定遭遇排异反应，RPP 的核心生命力恰在扎根具体学校的协同探究与共同所有权。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 22)]]
 >
 > > [!axis] 校本实用开发 vs 基础学术严谨性蜕化
 > > 争论 RPP 项目在长期运行中是否容易丧失学术[[Reflexivity|反思性]]与理论深度，滑落为纯粹事务性的学校工作开发。
@@ -309,3 +312,4 @@ updated: 2026-09-15
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 从[[Knowledge Production|知识生产]]方式演进（Van de Ven & Johnson, 2006）与复杂系统视角，梳理英格兰 [[Teaching and Learning Research Programme|TLRP]]、[[Education Endowment Foundation|EEF]] [[Research Schools Network|研究学校网络]]及高校跨界合作机制，深刻揭示学术发表激励错位与[[Knowledge Co-production|知识共创]]的深层张力。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查，实证测度大学-中小学网络在研究生产、政策促成与教学实践转化三端的活跃度，揭示其在多国实践转化功能上的断层与未制度化现实。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 汇集 Prøitz、Nagy 与 Tseng 的多元视角，系统解构瑞典 ULF 国家试点对[[Third Space Discourse|第三空间话语]]的建构、匈牙利 2013 教师生涯阶梯对校本[[Action Research|行动研究]]的支撑，以及 Henrick et al. (2017) RPP 有效性五大维度评估框架与资助生态再造。
+> - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 从循证改革宏观概化视角批判单学区 RPP 模式过度贴合本地生态而抑制[[External Validity|外部效度]]的局限性，主张通过大样本多元情境的成功复现破解概化难题。

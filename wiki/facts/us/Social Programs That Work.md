@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Attrition]]"
+  - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-09-17
 ---
 
 # Social Programs That Work
@@ -89,7 +90,7 @@ updated: 2026-08-21
 >
 > 1. **真实世界实施情境** RCT 必须在常规公共服务场所（而非高度受控的人工实验室）开展，由常规工作人员交付。
 > 2. **极低[[Attrition|样本流失]]率** 强制设定总体流失率上限（通常不得超过 **20%**），且两组流失率差异必须极小([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
-> 3. **强制[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）** 严格按照[[Random Assignment|随机分配]]名单进行 ITT 分析，杜绝剔除未参与者的顺从偏倚。
+> 3. **强制[[Intent-to-Treat Analysis|意向治疗分析]]（[[Initial Teacher Training|ITT]]）** 严格按照[[Random Assignment|随机分配]]名单进行 ITT 分析，杜绝剔除未参与者的顺从偏倚。
 > 4. **多中心独立复制** 要求干预必须在两个或多个独立地理场所成功复制并观测到一致的显著效应。
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-08-21
 
 > [!warning] 跨中心分歧与典型案例
 > SPTW 的极高门槛导致全美绝大多数声名显赫的教育干预被挡在门外：
-> - [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）— 尽管在 [[National Dropout Prevention Center|NDPC]] 获评最高级，但在 SPTW 审核中，因缺乏跨多个独立学区的一致大型 [[Randomised Controlled Trials|RCT]] 复制数据，未能进入 Top [[Top Institute for Evidence-Based Education Research|TIER]] 榜单([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
+> - [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）— 尽管在 [[National Dropout Prevention Center|NDPC]] 获评最高级，但在 SPTW 审核中，因缺乏跨多个独立学区的一致大型 [[Randomised Controlled Trials|RCT]] 复制数据，未能进入 Top TIER 榜单([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Counterfactual]]"
   - "[[Business as Usual]]"
+  - "[[Initial Teacher Training]]"
   - "[[Evidence-Based Education]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Engineered Evidence]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Literacy Octopus
@@ -116,7 +117,7 @@ updated: 2026-09-16
 
 > [!critique-data] 严格[[Intent-to-Treat Analysis|意向性分析]]下的全线零效应
 > - **终结性学业指标** 评估团队将试验微观数据与英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database, NPD）对接，以学生在 Key Stage 2（KS2）小学毕业全国标准化考试中的客观阅读与写作成绩作为主要结局指标，彻底杜绝自编测验的虚高偏倚。
-> - **意向性分析（ITT）结果** 统计结果表明，**所有 4 种单一信息推送策略对学生最终 KS2 识字成绩的因果增益[[Effect Size|效应量]]全部接近于零（$ES pprox 0.00$），且在统计学上无任何显著性（$p > .05$）**。
+> - **意向性分析（[[Initial Teacher Training|ITT]]）结果** 统计结果表明，**所有 4 种单一信息推送策略对学生最终 KS2 识字成绩的因果增益[[Effect Size|效应量]]全部接近于零（$ES pprox 0.00$），且在统计学上无任何显著性（$p > .05$）**。
 > - **[[Implementation and Process Evaluation|过程评估]]与教师行为追踪** 同步开展的大规模[[Questionnaire|问卷调查]]与课堂深度观察证实：在教师专业行为层面的 6 项量化使用指标上，干预组与对照组完全没有统计学可测量的差异。尽管多数教师报告确实阅读了寄送的纸质材料或点击了数字邮件，但其在日常课堂中的提问方式、师生互动以及阅读教学策略并未发生任何可识别的系统性转变。单向信息推介完全停留在认知表层，无法跨越到实践转化层面。[[Argument_Gough_2022_EvidenceOnEIPP|(Lord et al., 2017; Gough et al., 2022, p. 152)]]; [[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 586–588)]]
 
 ---

@@ -15,7 +15,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -49,14 +49,13 @@ related_persons:
 related_facts:
   - "[[Guizot Law of 1833]]"
   - "[[Common School Movement]]"
-  - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-17
 ---
 
 # Prussian Draft Education Law of 1819
@@ -89,7 +88,7 @@ updated: 2026-09-06
 >   草案规定适龄儿童父母负有必须送子女入学的法定义务（*Schulpflicht*）；同时规定每个教区和市镇社团必须由自身财政税收建立并维持至少一所初等学校（*Schullasten*），确保乡村与城镇贫困阶层儿童均能接受基础[[Bildung|教化]]。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, p. 27]]; Cousin, 1930:130–155）
 > - **基层分权治理委员会与国家最高行政监督（Decentralized Local Boards and Supreme State Oversight）**
 >   草案破除封建领主单一专断，规定每一所初等学校均设独立的基层管理委员会（*Schulvorstand*），吸纳地方市长、教士与民众代表参与日常督导；但所有地方学校与委员会必须服从省教育公署及中央宗教教育事务部大臣的绝对最高督学主权。（pp. 27–28; Cousin, 1930:189–198）
-> - **学制垂直双轨分流与全人官能启迪课程（Vertical Two-[[Top Institute for Evidence-Based Education Research|TIER]] Stratification and Faculty-Based Curricula）**
+> - **学制垂直双轨分流与全人官能启迪课程（Vertical Two-TIER Stratification and Faculty-Based Curricula）**
 >   初等学段自下而上划分为两级：面向大众平民的初等小学（*Elementarschulen*）与面向工商市民中产阶层的市民学校（*Bürgerschulen* / *Stadtschulen*），其后承接通往大学的文理中学（*Gymnasien*）。课程设计依据[[Faculty Psychology|官能心理学]]，要求初等教育必须兼顾“灵魂官能、理智、感官与体力之健全启蒙”，涵盖宗教道德、德语、历史、地理、数学、自然科学、体育、制图与歌唱。（pp. 27–28; Cousin, 1930:155–164）
 > - **省立师范学校建制与教师专业化任用保障（Compulsory Normal Seminars and Professionalized Status）**
 >   规定各省必须设立专职省立初等师范学校（*Lehrerseminare*），统一招录培训初等教员；严禁未经国家考核资格的人员任教；明确由国家法定制度保障教师俸禄、居所、晋升阶梯与纪律惩戒机制，彻底消除兼差短工与游方盲流充塞教席之乱象。（p. 28; Cousin, 1930:167–188）

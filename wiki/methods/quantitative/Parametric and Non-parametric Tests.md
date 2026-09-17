@@ -10,7 +10,7 @@ summary: "测验按是否假设总体分布正态的两类：参数测验假设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
+  - "[[Developer-Made Measures]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Pilot Testing]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Parametric and Non-parametric Tests
@@ -83,7 +84,7 @@ updated: 2026-09-11
 > **三项[[Hypothesis|假设]]是参数统计的前提** 参数测验的三项假设——正态分布、连续等距间隔和真正零点——共同构成了使用参数统计方法的数学基础。如果这些假设不成立（如使用顺序量表数据），参数统计的结果就不可靠。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.2 节)]]
 
 > [!claim] Cohen, Manion & Morrison（2011）
-> **非参数测验的统计局限** 由于研究者自编测验大多是非参数的，可应用于数据的统计范围比参数测验更有限。参数测验不仅源于标准化分数，还能将子群体与全国总体比较（如将一所学校或一个地方教育当局的结果与全国平均分比较），而非参数测验对更广泛总体不做假设，只有一套不同的统计方法可用，这些方法适用于非常具体的情境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.2 节)]]
+> **非参数测验的统计局限** 由于[[Developer-Made Measures|研究者自编测验]]大多是非参数的，可应用于数据的统计范围比参数测验更有限。参数测验不仅源于标准化分数，还能将子群体与全国总体比较（如将一所学校或一个地方教育当局的结果与全国平均分比较），而非参数测验对更广泛总体不做假设，只有一套不同的统计方法可用，这些方法适用于非常具体的情境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.2 节)]]
 
 ---
 

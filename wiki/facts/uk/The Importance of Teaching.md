@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Self-Improving School System]]"
   - "[[Document]]"
   - "[[Evidence Era]]"
+  - "[[Initial Teacher Training]]"
   - "[[Policy Borrowing]]"
   - "[[Activity Traps]]"
   - "[[Policy-Based Evidence-Making]]"
@@ -48,6 +49,7 @@ related_persons: []
 related_facts:
   - "[[Teaching Schools]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Reach]]"
   - "[[Ofsted]]"
   - "[[Carter Review of Initial Teacher Training]]"
   - "[[OECD]]"
@@ -71,7 +73,7 @@ updated: 2026-09-17
 > - **发布时间 / 发布主体** 由英国教育部（Department for Education, DfE）于 2010 年 11 月正式发布，为保守党—自由民主党联合政府成立后推出的纲领性教育白皮书。
 > - **适用地区 / 对象** 适用于英格兰公立中小学教育系统与教师教育体系，重构中央政府、地方教育局（Local Authorities）、大学高等教育机构（HEIs）、[[School Leadership|学校领导]]者与一线教师的权责分配。
 > - **问题背景** 白皮书旨在彻底终结新工党执政时期（1997–2010）以中央指令、国家半官方机构（Quangos）及大批咨询顾问为主导的自上而下干预模式。政府研判认为，试图强求学校对中央举措达成“机械服从”，反而极大地削弱了学校系统的内生自我改进能力。
-> - **制度位置** 该白皮书是英格兰由“中央指令改进”转向[[Self-Improving School System|自我改进学校系统]]（Self-Improving School System, SISS）的制度分水岭，也是英格兰教育治理从以督导数据为中心的“测量时代”迈向以学术[[Document|文献]]与因果实验为标志的[[Evidence Era|证据时代]]的历史转折点。它直接奠定了后续学院化扩张（Multi-Academy Trusts, MATs）、[[Teaching Schools|教学学校]]指定、校本初始教师培训（SCITT 与 School Direct）扩容以及 2011 年设立[[Education Endowment Foundation|教育捐赠基金会]]（EEF）等一系列重大国家体制变革的法定基石。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 119–120)]]; [[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–92)]]
+> - **制度位置** 该白皮书是英格兰由“中央指令改进”转向[[Self-Improving School System|自我改进学校系统]]（Self-Improving School System, SISS）的制度分水岭，也是英格兰教育治理从以督导数据为中心的“测量时代”迈向以学术[[Document|文献]]与因果实验为标志的[[Evidence Era|证据时代]]的历史转折点。它直接奠定了后续学院化扩张（Multi-Academy Trusts, MATs）、[[Teaching Schools|教学学校]]指定、校本[[Initial Teacher Training|初始教师培训]]（SCITT 与 School Direct）扩容以及 2011 年设立[[Education Endowment Foundation|教育捐赠基金会]]（EEF）等一系列重大国家体制变革的法定基石。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 119–120)]]; [[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–92)]]
 
 ---
 
@@ -84,11 +86,11 @@ updated: 2026-09-17
 > - **政策目标** 激发学校系统的内生进化动能，构建去中心化、横向协作驱动的自我改进生态，全面提升英格兰基础教育绩效并缩小群体差距。
 > - **四项核心标准**
 >   1. **教师与学校对自身改进承担首要责任（Responsibility for Improvement）** 摆脱对中央和地方教育局的被动依赖；
->   2. **最优秀学校与领导者向外延伸引领影响力（Extending Reach）** 推动校际帮扶，实现全系统协同进步；
+>   2. **最优秀学校与领导者向外延伸引领影响力（Extending [[Reach]]）** 推动校际帮扶，实现全系统协同进步；
 >   3. **教师与学校相互学习并从研究中学习（Learning from Each Other and Research）** 确保优质实践基于实证依据在横向网络中扩散；
 >   4. **政府直接支持与行政干预降至最低限度（Minimized Government Intervention）** 赋予一线充分的专业办学自主权。
 > - **学术引文与国际借用修辞** 专属教师教育章节密集引证 34 条学术[[Document|文献]]（涵盖同行评议期刊、咨询调研与媒体报道），彻底打破 1983 年白皮书仅 7 条内部报告的封闭传统；9 次提及芬兰作为研究导向教学标杆，并密集动员新加坡与阿尔伯塔等国际体系作为改革正当性背书。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 91–92)]]
-> - **教师教育与治理结构重塑** 推进校本初始教师培训（SCITT 与 School Direct）扩容，打破大学对师资培养的传统垄断；重点推进多学院信托（MATs）与[[Teaching Schools|教学学校联盟]]（TSAs）两大横向校际伙伴模型。
+> - **教师教育与治理结构重塑** 推进校本[[Initial Teacher Training|初始教师培训]]（SCITT 与 School Direct）扩容，打破大学对师资培养的传统垄断；重点推进多学院信托（MATs）与[[Teaching Schools|教学学校联盟]]（TSAs）两大横向校际伙伴模型。
 > - **约束机制** 在赋予横向自主的同时，保留极其严厉的外部表现主义问责框架——包括国家课程测评、Key Stage 考试成绩榜单、最低绩效红线（Floor Targets）以及英国教育标准局（[[Ofsted]]）定期督导与公开分级。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 120–122)]]
 
 > [!citation-card] 关键条文

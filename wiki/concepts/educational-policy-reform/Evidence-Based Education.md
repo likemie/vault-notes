@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 116
+related_count: 118
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -55,12 +55,12 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Preregistration]]"
-  - "[[Visible Learning]]"
   - "[[Business as Usual]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Technology Infusion]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -87,6 +87,7 @@ related_persons:
   - "[[Grover Whitehurst]]"
   - "[[John Hattie]]"
 related_facts:
+  - "[[Every Student Succeeds Act]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -97,6 +98,7 @@ related_facts:
   - "[[What Works Network]]"
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Teacher Training Agency]]"
   - "[[Hargreaves 1996 TTA Lecture]]"
   - "[[Campbell Collaboration]]"
   - "[[EPPI-Centre]]"
@@ -146,7 +148,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Evidence-Based Education
@@ -212,7 +214,7 @@ updated: 2026-09-15
 1. **教育决策应基于关于"什么有效"的科学证据**
 
    > [!info] 政策建制与数量瓶颈
-   > [[Argument_Slavin_2019_EP|Slavin (2019, pp. 5–6)]] 描述了 ESSA [[Evidence Standards|证据标准]]如何将此主张制度化——美国联邦政府要求接受特定拨款的学校必须选择至少一项符合"强证据"或"中等证据"标准的项目。但 [[Argument_Wiliam_2019|Wiliam (2019, p. 2)]] 指出，即使接受 [[Randomised Controlled Trials|RCT]] 是产生可靠知识的最佳方式，目前此类试验的数量如此之少，以至于它们无法为一系列重要问题提供有用的洞见，并引用 Slavin (1987, p. 347) 的质问："在我们知道一切之前我们真的什么都不知道吗？"
+   > [[Argument_Slavin_2019_EP|Slavin (2019, pp. 5–6)]] 描述了 [[Every Student Succeeds Act|ESSA]] [[Evidence Standards|证据标准]]如何将此主张制度化——美国联邦政府要求接受特定拨款的学校必须选择至少一项符合"强证据"或"中等证据"标准的项目。但 [[Argument_Wiliam_2019|Wiliam (2019, p. 2)]] 指出，即使接受 [[Randomised Controlled Trials|RCT]] 是产生可靠知识的最佳方式，目前此类试验的数量如此之少，以至于它们无法为一系列重要问题提供有用的洞见，并引用 Slavin (1987, p. 347) 的质问："在我们知道一切之前我们真的什么都不知道吗？"
 
 2. **最可靠的证据产生于[[Experimental Research|实验研究]]，特别是随机对照试验（RCT）**
 
@@ -338,7 +340,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > [!timeline] 关键事件
 > - **1992** — Guyatt 等人提出循证医学（Evidence-Based Medicine），为后续所有领域的证据本位实践奠定[[Paradigm|范式]]
 > - **1995** — [[OECD]] 发布 *Educational Research and Development: Trends, Issues and Challenges*，首次提出教育中研究、政策与创新之间联系薄弱的问题([[Argument_Møller_2017|Møller, 2017, p.377]])
-> - **1996** — David Hargreaves 在 TTA 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（[[Argument_Wiliam_2019|Wiliam, 2019, pp.3–4]]; 参见 [[Hargreaves 1996 TTA Lecture]]）
+> - **1996** — David Hargreaves 在 [[Teacher Training Agency|TTA]] 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（[[Argument_Wiliam_2019|Wiliam, 2019, pp.3–4]]; 参见 [[Hargreaves 1996 TTA Lecture]]）
 > - **1999** — Philip Davies 发表 *What is Evidence-Based Education?*（*British Journal of Educational Studies*），系统阐述 EBE 与循证医学的关系，强调教育者也需使用多种形式和来源的证据
 
 > [!timeline] 循证医学的制度化基础
@@ -351,7 +353,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 ### 美国的制度化建设（1998–2015）
 
 > [!phase] 1998–2015 · 制度化建设期
-> 联邦立法将证据与拨款挂钩（NCLB, ESSA），WWC 创建，[[Evidence Standards|证据标准]]从原则走向层级化政策框架。
+> 联邦立法将证据与拨款挂钩（NCLB, [[Every Student Succeeds Act|ESSA]]），WWC 创建，[[Evidence Standards|证据标准]]从原则走向层级化政策框架。
 
 > [!timeline] 关键事件
 > - **1998** — 美国国会首次将联邦教育拨款与有效性证据直接挂钩：[[Comprehensive School Reform Program]] 拨款 USD 150M/年，要求使用"经过验证的、全面的改革模式"（Obey-Porter 立法）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
@@ -397,7 +399,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
 > - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），并识别 agency 作为核心哲学分歧([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])
 > - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的
-> - **2019** — Qvortrup 在 NordSTEP 发表 [[Visible Learning|VL]] 辩护讨论论文，提出"观察透镜"[[Epistemology|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]）
+> - **2019** — Qvortrup 在 NordSTEP 发表 VL 辩护讨论论文，提出"观察透镜"[[Epistemology|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]）
 
 ---
 ## 争议与批评
@@ -457,7 +459,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 ### 美国
 
 > [!case] 美国：联邦立法与 [[What Works Clearinghouse|WWC]] 主导的[[Evidence Standards|证据标准]]
-> 从 [[No Child Left Behind Act 2001|NCLB]] 到 ESSA，通过联邦立法和 What Works [[Educational Evidence Clearinghouses|Clearinghouse]] 将 [[Randomised Controlled Trials|RCT]] 证据标准制度化。
+> 从 [[No Child Left Behind Act 2001|NCLB]] 到 [[Every Student Succeeds Act|ESSA]]，通过联邦立法和 What Works [[Educational Evidence Clearinghouses|Clearinghouse]] 将 [[Randomised Controlled Trials|RCT]] 证据标准制度化。
 
 > [!evidence-grid-a] 美国案例索引
 > - [[Tennessee STAR Project 1985-1989]] — RCT 外推失败的经典案例

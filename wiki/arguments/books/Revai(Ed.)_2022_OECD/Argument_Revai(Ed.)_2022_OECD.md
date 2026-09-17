@@ -7,7 +7,7 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[School Leadership]]"
   - "[[Professional Learning Community]]"
+  - "[[Replication in Education Research]]"
   - "[[Third Space Discourse]]"
   - "[[Democratising Evidence]]"
   - "[[Knowledge Mediation]]"
@@ -212,7 +213,7 @@ updated: 2026-09-14
 >   - Ch. 05 [[Argument_Torres_2022_BarriersMechanisms]]。José Manuel Torres 基于 OECD 政策调查（29 国 37 个教育系统）数据，构建信息、互动、个体、结构与文化五维影响因素类型学（[[Typology of Factors Influencing Research Use]]），实证映射机制与障壁分布，揭示互动与资助高企而能力与战略匮乏的结构性失衡，解构“机制短缺”的认知悖论，剖析科研委托倒置于需求识别的供给驱动病理，并倡导复杂系统协同治理战略。
 >   - Ch. 07 [[Argument_Gough_2022_EvidenceOnEIPP]]。[[David Gough]]、[[Jonathan Sharples]] 与 Chris Maidment 深入反思知识中介机构自身的“循证赤字”，提出指导中介实践的五大支柱：既有生态需求分析、外层社会政治系统整合、基于行为改变机制的[[Theory of Change|变革理论]]、透明严谨的六维[[Evidence Standards|证据标准]]与适切功效主张，以及针对最终受益人成效的因果评估与元研究积累。
 >   - Ch. 09 [[Argument_Rickinson_2022_UsingResearchWell]]。[[Mark Rickinson]] 等人基于澳大利亚[[Monash Q Project|莫纳什 Q 项目]]对 4 州 906 名教育工作者的实证调查，系统阐述[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]（QURE）的理论内核与多层使能结构，提炼实践端界定优质使用的六大核心特征，揭示[[School Leadership|学校领导力]]示范与[[Professional Learning Community|专业学习共同体]]的显著正向作用，以及压倒性时间赤字构成的制度瓶颈。
->   - Ch. 10 [[Argument_Bangs_2022_PerspectivesOnResearch]]。汇集学者（[[Dirk Van Damme|Van Damme]]）、美国联邦科学资助长官（Schneider）、全球最大教师工会领袖（Bangs & Henry）、一线兼任大学教员的中小学校长（Nagy）、国家级试点评估专家（Prøitz）、大型慈善基金会副总裁（Tseng）与国家教师研修院学者（Yurita）的多元交锋，系统反思教育科研供给侧质量与复现危机，提出 SEER 循证卓越标准、教师工会证据倡导、校本[[Action Research|行动研究]]共创与[[Third Space Discourse|第三空间]]伙伴关系，倡导推进[[Democratising Evidence|证据民主化]]以终结榨取式科研，并深刻警惕功利主义“可用性修辞”对离群弱势群体的制度性排斥。
+>   - Ch. 10 [[Argument_Bangs_2022_PerspectivesOnResearch]]。汇集学者（[[Dirk Van Damme|Van Damme]]）、美国联邦科学资助长官（Schneider）、全球最大教师工会领袖（Bangs & Henry）、一线兼任大学教员的中小学校长（Nagy）、国家级试点评估专家（Prøitz）、大型慈善基金会副总裁（Tseng）与国家教师研修院学者（Yurita）的多元交锋，系统反思教育科研供给侧质量与[[Replication in Education Research|复现危机]]，提出 SEER 循证卓越标准、教师工会证据倡导、校本[[Action Research|行动研究]]共创与[[Third Space Discourse|第三空间]]伙伴关系，倡导推进[[Democratising Evidence|证据民主化]]以终结榨取式科研，并深刻警惕功利主义“可用性修辞”对离群弱势群体的制度性排斥。
 > - **优先处理章节**
 >   - Ch. 11（Révai）：全书总结与未来系统性政策行动蓝图。
 > - **可暂缓章节** Ch. 06（跨行业经验梳理）与 Ch. 08（协作与[[Knowledge Co-production|知识共创]]），待主干章节完成后补充。

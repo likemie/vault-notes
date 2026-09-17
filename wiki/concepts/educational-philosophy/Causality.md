@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Fade-out Effect]]"
   - "[[Iatrogenic Effects in Education]]"
   - "[[Attrition]]"
+  - "[[Initial Teacher Training]]"
   - "[[Implementation Fidelity]]"
   - "[[Emergence]]"
   - "[[Heterogeneity]]"
@@ -247,7 +248,7 @@ updated: 2026-09-17
 > 1. **明确界定因果识别问题** 清晰界定干预[[Variable|变量]] $X$ 的具体成分与目标[[Dependent Variable|结果变量]] $Y$，锁定目标推断人群。
 > 2. **选择高等级因果设计** 优先选用[[Randomised Controlled Trials|随机对照试验]]（RCT）或严谨准实验（[[Regression Discontinuity Design|RDD]]/[[Quasi-Experimental Designs|QED]]/[[Single-Case Design|SCD]]），在设计阶段阻断选择偏倚。
 > 3. **核查基线等值性与[[Attrition|流失]]边界** 严格检验对照组基线等值性（差值 $< 0.05\text{ SD}$），套用 WWC 流失模型排查样本流失偏倚风险([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
-> 4. **规范实施[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）** 保留所有[[Random Assignment|随机化]]入组样本，防范处理依从性（Compliance）选择偏倚对因果识别的破坏。
+> 4. **规范实施[[Intent-to-Treat Analysis|意向治疗分析]]（[[Initial Teacher Training|ITT]]）** 保留所有[[Random Assignment|随机化]]入组样本，防范处理依从性（Compliance）选择偏倚对因果识别的破坏。
 > 5. **开展敏感性与多重[[Hypothesis|假设]]校正** 针对多重比较实施 Benjamini-Hochberg 校正，开展混杂敏感性分析检验因果结论的稳健性。
 > 6. **结合质性过程追踪** 嵌入[[Action Narratives|行动叙事]]与[[Implementation Fidelity|实施忠实度]]监控，打开因果起效的微观机制黑箱([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 71–74]])。
 

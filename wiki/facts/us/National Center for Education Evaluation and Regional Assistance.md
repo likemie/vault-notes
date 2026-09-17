@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,10 +33,12 @@ related_concepts:
   - "[[Document]]"
   - "[[Evaluator Independence]]"
   - "[[Attrition]]"
+  - "[[Response to Intervention]]"
   - "[[Recommendations for Practice]]"
-  - "[[Entrepreneur in Residence]]"
+  - "[[Paradigm]]"
   - "[[Effective Sample Size]]"
   - "[[Evaluation Research]]"
+  - "[[Academic Achievement]]"
   - "[[Scientific Method]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
@@ -49,24 +51,28 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Regression Discontinuity Design]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[Education Endowment Foundation]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[OECD]]"
   - "[[Australian Education Research Organisation]]"
+  - "[[Education Innovation and Research]]"
   - "[[Investing in Innovation Program]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Slavin_2019_EP]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # National Center for Education Evaluation and Regional Assistance
@@ -91,7 +97,7 @@ updated: 2026-09-16
 > [!dev-timeline]- 组织发展历程
 > - **2002–2008 — 奠基与金标准确立期** ESRA 法案通过后设立 NCEE，启动[[What Works Clearinghouse|有效干预清算中心]]（WWC），明确将高质量[[Randomised Controlled Trials|随机对照试验]]（RCT）确立为识别因果有效性的“黄金标准”，资助全美首批教师专业发展与数学课程现场试验。
 > - **2009–2015 — 规模化扩张与分层证据驱动** 配合奥巴马政府《美国复苏与再投资法案》（ARRA）和争向顶峰（Race to the Top）计划，受托承担总规模达 14 亿美元的投资创新项目（i3）独立评价监督，全面确立分层因果证据审查体系。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
-> - **2016–至今 — 证据法典深化与英美跨国互鉴** 对接《每个学生都成功法案》（ESSA）四大证据层级要求，持续升级 WWC 评价手册至第 5 版；与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）共同构成全球教育现场因果评估的最大双引擎，其资助的试验构成了国际[[Evidence-Based Education|循证教育]][[Meta-analysis|元分析]]的基石。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
+> - **2016–至今 — 证据法典深化与英美跨国互鉴** 对接《每个学生都成功法案》（[[Every Student Succeeds Act|ESSA]]）四大证据层级要求，持续升级 WWC 评价手册至第 5 版；与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）共同构成全球教育现场因果评估的最大双引擎，其资助的试验构成了国际[[Evidence-Based Education|循证教育]][[Meta-analysis|元分析]]的基石。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
 
 ---
 
@@ -116,7 +122,7 @@ updated: 2026-09-16
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[What Works Clearinghouse|WWC]] [[Evidence Standards|证据标准]]体系** 研制并发布全球教育界采纳最广泛的因果实证审查手册（Handbook v1.0–v5.0），确立包括无保留达到标准（Meets without Reservations）、有保留达到标准（Meets with Reservations）及未达到标准的判定体系。
-> - **全美重大教育法案独立评估** 组织完成对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）、Title I 补偿性资助、[[Partnership Schools Kura Hourua|特许学校]]扩张、阅读优先（Reading First）以及 i3 创新基金的数十项全国性因果影响评估报告。
+> - **全美重大教育法案与项目独立评估** 组织完成对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）、Title I 补偿性资助、[[Partnership Schools Kura Hourua|特许学校]]扩张、阅读优先（Reading First）、干预响应模型（[[Response to Intervention|RTI]]）以及 i3 创新基金的数十项全国性因果影响评估报告。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
 > - **WWC [[Recommendations for Practice|实践建议]]指南（Practice Guides）** 汇集顶尖专家小组，结合[[Systematic Review|系统综述]]评级，为学校一线校长和教师提炼关于阅读、数学教学、行为干预及高中防辍学的实证操作指南。
 > - **区域教育实验室网络（REL Network）** 维系全美 10 大区域伙伴联盟，解决各州教育厅与公立学区提出的紧迫地方实证研究需求。
 
@@ -132,11 +138,12 @@ updated: 2026-09-16
 > [!indicators]- 影响力维度与指标
 > - **评估项目规模** 成立二十年来主持及资助了数百项跨州、跨学区的大规模现场因果试验，覆盖数百万受试学童。
 > - **[[Evidence Standards|证据标准]]全球外溢** [[What Works Clearinghouse|WWC]] 证据审查框架被[[OECD|经合组织]]（OECD）、澳大利亚 [[Australian Education Research Organisation|AERO]] 及全球数十个国家循证中介机构深度参考或采纳。
-> - **政策问责重塑** 使得联邦教育财政资助（从 i3 到 [[Entrepreneur in Residence|EIR]]、从 Title I 到 Comprehensive Support）全量与因果证据层级深度挂钩。
+> - **政策问责重塑** 使得联邦教育财政资助（从 i3 到 [[Education Innovation and Research|EIR]]、从 Title I 到 Comprehensive Support）全量与因果证据层级深度挂钩。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **塑造现代教育[[Experimental Research|实验研究]]规范** NCEE 推动了统计功效计算、[[Intraclass Correlation Coefficient|群内相关系数]]（ICC）校正、基线平衡检验以及[[Attrition|差异流失]]边界模型的全面普及。
 > - **与英国 [[Education Endowment Foundation|EEF]] 共同构成全球现场 [[Randomised Controlled Trials|RCT]] 试验主源泉** Lortie-Forgues & Inglis (2019) 审视的 141 项大规模现场教育 RCT（受试学生达 1,222,024 人）全部来自于 NCEE 与英国 EEF 资助的公开成果，是世界范围内最大规模的现场教育因果数据库。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
+> - **揭示传统架构干预的成效瓶颈** NCEE 针对全美 [[Response to Intervention|RTI]] 实施的里程碑式评估（Balu et al., 2015）证实，缺乏经验证教学方案的组织性分层往往难以改善后进生成绩，从而强力推动了全美[[Evidence-Based Education|循证教育]]从“空泛框架”向“成熟实证方案”的[[Paradigm|范式]]转型。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
 
 > [!stat-cards]- 核心规模数据
 > - **141 项现场 RCT 联合源头** 与英国 EEF 共同构成了全球 141 项超大规模教育因果现场试验的资助与产出母体（覆盖 122 万学童）。
@@ -167,6 +174,19 @@ updated: 2026-09-16
 
 ---
 
+## 实证数据
+
+> [!ref-table]- 核心评估与研究产出实证数据
+> <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与评估对象 | 研究设计 | 核心指标与产出 | 原始统计结果 | 显著性或不确定性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | Lortie-Forgues & Inglis (2019)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | NCEE 与 EEF 联合资助的 141 项大规模教育 RCT（受试学童 $N = 1,222,024$） | 跨机构[[Meta-analysis\|元分析]]与试验质量复审 | 平均[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]宽度 | 平均效应量 $ES = +0.06\text{ SD}$；平均 95% 置信区间宽度达 $0.30\text{ SD}$ | 多数试验置信区间包含 0 | 说明早期大规模现场试验统计精度不足，促使两机构扩大样本并升级质控规程 |
+> | Boulay et al. (2018)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 50]]） | NCEE 审阅的 65 项 i3 独立评估项目（含 19 项发展类项目） | 联邦竞争性资助评估审查 | 独立评估比例与 [[What Works Clearinghouse\|WWC]] 最高标准达标率 | 97% 报告声称独立评估；仅 68%（13/19 项）达到 WWC 最高无保留标准 | — | 揭示自选自聘评估模式下存在向准实验（[[Quasi-Experimental Designs\|QED]]）退化与[[Attrition\|流失]]率偏高的制度弊端 |
+> | Balu et al. (2015)（见 [[Argument_Slavin_2019_EP\|Slavin, 2019, p. 23]]） | 全美 13 个州 146 所小学 1–3 年级干预响应模型（[[Response to Intervention\|RTI]]）全样本学生 | 跨州多中心[[Regression Discontinuity Design\|断点回归]]（RDD）与对比评估 | 早期阅读补救干预对后进生[[Academic Achievement\|学业表现]]的影响 | 传统 RTI 实施未产生显著正面效果，部分层级出现负向效应 | 统计上无显著正向收益 | 证实单纯依赖未经验证的零散补救练习难以见效，呼吁转向成熟实证教学方案 |
+
+---
+
 ## 相关条目网络
 
 > [!entry-map]
@@ -179,4 +199,5 @@ updated: 2026-09-16
 > | [[Education Endowment Foundation]] | 事实 (机构) | 英国同类对标机构，二者在独立评估机制与大样本现场 [[Randomised Controlled Trials\|RCT]] 产出上常年并称与互鉴。 |
 > | [[Evaluator Independence]] | 概念 | NCEE 制度实践与争议反思的核心理论关切。 |
 > | [[Evidence Standards]] | 概念 | NCEE 通过 WWC 手册在全球范围建立和推行的循证准入标尺。 |
+
 

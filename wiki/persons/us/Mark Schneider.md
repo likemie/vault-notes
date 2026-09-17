@@ -7,10 +7,10 @@ summary: "美国政治学者与教育科研管理专家，曾任美国教育科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "c. 1946"
 died: ""
 lifespan: "c. 1946–至今"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence Standards]]"
   - "[[Preregistration]]"
+  - "[[Developer-Made Measures]]"
   - "[[Champ]]"
   - "[[Dialogue in Education]]"
   - "[[Discipline-Based Theory]]"
@@ -51,7 +52,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Mark Schneider
@@ -104,7 +105,7 @@ updated: 2026-09-15
 ## 核心思想
 
 > [!claim] 核心主张
-> 传统的[[Evidence-Based Education|循证教育]]科研过度狭隘地局限于单一[[Randomised Controlled Trials|随机对照试验]]（RCT）的孤立因果验证，常常把复杂的教育综合干预视作未被拆解的药丸袋（bag of pills），既无法识别究竟是何种成分发生效用，又忽视了学校真实的实施成本与推广条件。必须通过制度化的教育研究卓越标准（SEER），强制推行研究[[Preregistration|预注册]]、干预核心构件界定、详实记录实施反差与保真度、严谨成本核算、独立通用测量规程（防范研究者自编测验效应虚高）、多样态人群系统复现、市场化推广激励与教育公平导向，让科学证据真正具备变革教育实践的力量。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
+> 传统的[[Evidence-Based Education|循证教育]]科研过度狭隘地局限于单一[[Randomised Controlled Trials|随机对照试验]]（RCT）的孤立因果验证，常常把复杂的教育综合干预视作未被拆解的药丸袋（bag of pills），既无法识别究竟是何种成分发生效用，又忽视了学校真实的实施成本与推广条件。必须通过制度化的教育研究卓越标准（SEER），强制推行研究[[Preregistration|预注册]]、干预核心构件界定、详实记录实施反差与保真度、严谨成本核算、独立通用测量规程（防范[[Developer-Made Measures|研究者自编测验]]效应虚高）、多样态人群系统复现、市场化推广激励与教育公平导向，让科学证据真正具备变革教育实践的力量。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
 
 > [!citation-card] 剖析教育干预的药丸袋隐喻
 > 试想一项医学试验，其干预措施由一整袋药丸组成——有些是绿色的，有些是红色的，有些是黄色的。患者服用了这些药丸，实验结束时我们发现这些药丸改善了健康结果。几乎没有任何医学审查委员会会批准这种治疗方案，其结果也理所应当会被拒绝发表。然而，有太多的教育干预完全就像这袋药丸：由一大堆构件拼凑而成，其中许多构件从未被清晰识别过，更谈不上被独立评估。（p. 207）
@@ -138,7 +139,7 @@ updated: 2026-09-15
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **方法学[[Dialogue in Education|对话]]者** [[Robert Slavin]] — 施奈德高度认同斯莱文 2014 年对开发者自编测验过度对齐导致[[Effect Size|效应量]]虚高的实证批评，并在 [[Institute of Education Sciences|IES]] 设立 EdInstruments 工具库作为制度化对策。
+> - **方法学[[Dialogue in Education|对话]]者** [[Robert Slavin]] — 施奈德高度认同斯莱文 2014 年对[[Developer-Made Measures|开发者自编测验]]过度对齐导致[[Effect Size|效应量]]虚高的实证批评，并在 [[Institute of Education Sciences|IES]] 设立 EdInstruments 工具库作为制度化对策。
 > - **政策同行与论辩者** [[Vivian Tseng]] — 在《教育研究视角》中形成官方联邦资助派与私立慈善民主派的互补论辩；施奈德关注量化构件拆解与转化标准，曾薇薇安主张打破出资人特权、推进弱势社群赋权。
 > - **国际智库对话者** [[Dirk Van Damme]] — 共同诊断教育科研供给侧的复现赤字与质量危机；范达默主张[[Discipline-Based Theory|学科理论]]自主演绎与蓝天[[Blue Skies Research|基础研究]]，施奈德主张工程化、可复现的 SEER 卓越标准。
 > - **机构与科研平台** [[Institute of Education Sciences]] — 施奈德推进 SEER 标准与科研资助[[Paradigm|范式]]转型的核心联邦科学机构。

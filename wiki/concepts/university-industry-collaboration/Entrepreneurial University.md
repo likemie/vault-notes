@@ -6,7 +6,7 @@ aliases:
 summary: "Etzkowitz 等（2000）提出的大学模式，大学通过文化适应、组织重构和激励机制主动寻求产业合作与产业资助，区别于传统的象牙塔模式"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,8 @@ related_theories:
   - "[[Academic Capitalism]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Innovation and Research]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # Entrepreneurial University
@@ -94,7 +95,7 @@ updated: 2026-09-10
 > [!note]-
 > 近年来大学显著扩展了其支持衍生企业创建和创业精神的基础设施投资([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.147-148]])：
 > - **新创企业支持团队** 大型大学通常在[[Technology Transfer Office|技术转移办公室]]内设立专门团队支持衍生企业，如 UCLA 技术开发组内的 New Ventures Group，或建设专门的孵化器如 Austin Technology Incubator（p.147）
-> - **[[Entrepreneur in Residence|驻校企业家]]（EIR）** 大学通过聘请全职驻校企业家支持多个衍生企业，或组建具有多元经验的兼职 EIR 团队，这种人才投资已成为帮助衍生企业跨越**从实验室到市场鸿沟**的有效策略（pp.147-148）
+> - **[[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）** 大学通过聘请全职驻校企业家支持多个衍生企业，或组建具有多元经验的兼职 EIR 团队，这种人才投资已成为帮助衍生企业跨越**从实验室到市场鸿沟**的有效策略（pp.147-148）
 > - **[[Proof of Concept Programs|概念验证项目]]** 大学资助的[[Non-dilutive Funding|非稀释性拨款]]（$10K-$100K）结合产业[[Mentorship|导师制]]，帮助研究团队验证技术的市场和商业可行性。产业成员在申请阶段参与项目评审、在执行阶段提供指导、在结项阶段给予反馈（pp.148-149）
 
 

@@ -5,7 +5,7 @@ aliases:
 summary: "研究者在样本选择、变量处理、模型设定和案例排除等分析决策上的自由度累积效应，用于解释结果偏差和可重复性问题。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Publication Bias]]"
   - "[[Preregistration]]"
+  - "[[Developer-Made Measures]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-09-17
 ---
 
 ## 定义
@@ -79,7 +80,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 441)]] 发现即使控制可观测的研究设计特征，[[Developer Effect|开发者效应]]仍然存在——暗示未被观测的因素（如研究者自由度）可能部分解释了残留的差异
-> - 开发者研究中使用研究者/开发者自编测量的比例（29%）远高于独立研究（8%），这可能反映了一种系统性的测量选择自由度([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 434]])
+> - 开发者研究中使用研究者/[[Developer-Made Measures|开发者自编测量]]的比例（29%）远高于独立研究（8%），这可能反映了一种系统性的测量选择自由度([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 434]])
 
 ## 争议与批评
 

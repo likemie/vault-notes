@@ -9,7 +9,7 @@ aliases:
 summary: "由 Lev Vygotsky 提出的发展与教学核心构念，指儿童独立解决问题的现有发展水平与在成人指导或更有能力的同伴协作下的潜在发展水平之间的动态差距，是动态评估、脚手架教学与自适应教育智能体的理论基础。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,7 +50,8 @@ related_methods:
 related_persons:
   - "[[Jean Piaget]]"
   - "[[Lev Vygotsky]]"
-related_facts: []
+related_facts:
+  - "[[Reach]]"
 related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Wang_2025_CE]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Zone of Proximal Development
@@ -107,7 +108,7 @@ updated: 2026-08-25
 > [!feature] 三层发展空间模型
 > 1. **舒适区（Comfort Zone / Independent Level）** 学生无需任何外部协助即可独立、熟练完成的任务区间，主要巩固已自动化技能，缺乏认知促进张力。
 > 2. **最近发展区（Zone of Proximal Development, ZPD）** 学生独立操作尚感吃力，但在教师点拨、优秀同伴协作或自适应 AI [[AI Agent in Education|智能体]]微提示下能够成功达成的区间。这是**学习发生的最有效区域**。
-> 3. **挫败区 / 超载区（Frustration Zone / Out of Reach）** 任务难度严重脱离学生现有经验基础，即便提供丰富支架也无法理解，极易诱发认知超载与挫败感。
+> 3. **挫败区 / 超载区（Frustration Zone / Out of [[Reach]]）** 任务难度严重脱离学生现有经验基础，即便提供丰富支架也无法理解，极易诱发认知超载与挫败感。
 
 > [!logic-map]- 最近发展区与[[Scaffolding|脚手架]]动态衰减（Fading）机制
 > ```mermaid

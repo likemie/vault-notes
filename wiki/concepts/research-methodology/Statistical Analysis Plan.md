@@ -8,7 +8,7 @@ aliases:
 summary: "在试验数据收集或解盲前由独立评估团队预先制定并公开发布的详尽技术法典，硬性锁定主要模型、协变量、集群校正与敏感性分析规则，是根除数据钓鱼与消解模型依赖性的制度基石"
 type: concept
 domain: "research-methodology"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
   - causal-inference
 related_concepts:
   - "[[Variable]]"
+  - "[[Initial Teacher Training]]"
   - "[[Causality]]"
   - "[[Evaluator Independence]]"
   - "[[Model Dependency]]"
@@ -75,7 +76,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 统计分析计划（Statistical Analysis Plan，简称 SAP）指在实证试验实施、数据采集或双盲解密之前，由独立评估团队预先起草、经同行评审并公开发布的技术性刚性规范文件（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 51–52]]）。它详尽规定了主要因果结局的精确数学模型、协[[Variable|变量]]纳入标准、多层集群[[Standard Error|标准误]]校正规程、缺失数据处理算法、依从性分析（意向性治疗分析 ITT 与[[Complier Average Causal Effect|依从者平均因果效应]] CACE）以及辅助性敏感性检验范围。SAP 是将开放科学规范落到实处的关键法典，旨在彻底杜绝研究者在看到数据后挑选显著结果的数据钓鱼（Data Dredging）行为。
+> 统计分析计划（Statistical Analysis Plan，简称 SAP）指在实证试验实施、数据采集或双盲解密之前，由独立评估团队预先起草、经同行评审并公开发布的技术性刚性规范文件（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 51–52]]）。它详尽规定了主要因果结局的精确数学模型、协[[Variable|变量]]纳入标准、多层集群[[Standard Error|标准误]]校正规程、缺失数据处理算法、依从性分析（意向性治疗分析 [[Initial Teacher Training|ITT]] 与[[Complier Average Causal Effect|依从者平均因果效应]] CACE）以及辅助性敏感性检验范围。SAP 是将开放科学规范落到实处的关键法典，旨在彻底杜绝研究者在看到数据后挑选显著结果的数据钓鱼（Data Dredging）行为。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向量化[[Causality|因果推断]]中的“技术契约”，将分析自由度在前置阶段予以制度化剥离。

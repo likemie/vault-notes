@@ -11,7 +11,7 @@ summary: "在教育干预试验与复杂项目评价中与量化成效评估并�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 45
+method_related_count: 46
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -70,12 +70,13 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[Reach]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Implementation and Process Evaluation
@@ -125,7 +126,7 @@ updated: 2026-09-16
 >    - 在[[Statistical Analysis Plan|统计分析计划]]（Statistical Analysis Plan，SAP）[[Preregistration|预注册]]阶段，明确将依从性量化测量口径与过程质性采样子样本抽样方案纳入规程。
 > 2. **阶段二：[[Implementation Fidelity|实施保真度]]与依从性多源监测（In-Trial Monitoring）**
 >    - 运用结构化课堂观察[[Coding in Qualitative Research|编码]]表、教师培训签到出勤记录、线上平台交互日志及材料使用记录，多维度追踪方案落地。
->    - 系统核查实施保真度（Fidelity）、递送剂量（Dosage）、目标群体触达度（Reach）及师生接受度（Acceptability），量化从计划分配到实际接受干预的递送衰减。
+>    - 系统核查实施保真度（Fidelity）、递送剂量（Dosage）、目标群体触达度（[[Reach]]）及师生接受度（Acceptability），量化从计划分配到实际接受干预的递送衰减。
 > 3. **阶段三：[[Business as Usual|常态教学]]对照组追踪与[[Counterfactual|反事实]]澄清（Counterfactual Investigation）**
 >    - 深入对照组学校开展[[Questionnaire|问卷调查]]、课程表审查与访谈，详细记录常态教学（business as usual）的具体实践与替代性资源使用情况。
 >    - 全面评估对照组的教学基线质量，排查对照组学校是否自发引介同类培训或产生补偿性努力（compensatory rivalry），排除实验污染。

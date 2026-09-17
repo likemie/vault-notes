@@ -10,7 +10,7 @@ title: "Argument_Ross_Morrison_2021_ECNUROE"
 argument_key: "Argument_Ross_Morrison_2021_ECNUROE"
 argument_display_title: "Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -60,6 +60,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[ESSA 2015 Evidence Standards]]"
+  - "[[Evidence for ESSA]]"
 related_arguments: []
 sources:
   - "[[sources/Ross_Morrison_2021_ECNUROE|Ross_Morrison_2021_ECNUROE]]"
@@ -108,7 +109,7 @@ citation_aliases:
 > [!example] 例子
 > 一个学区要采购阅读软件。证据运动要求它先问“这个软件是否有严格研究支持”，而不是只问“供应商演示好不好看”或“邻近学区是否买了”。
 
-3. 证据运动确实带来好处：实践者更关心可信研究，WWC and Evidence for ESSA 扩展了证据可及性，州和学区也开始用[[Evidence Standards|证据标准]]审查项目(p.110)。
+3. 证据运动确实带来好处：实践者更关心可信研究，WWC and [[Evidence for ESSA]] 扩展了证据可及性，州和学区也开始用[[Evidence Standards|证据标准]]审查项目(p.110)。
 
 ### 第二层：严格证据会把“有效性”压缩得过窄
 

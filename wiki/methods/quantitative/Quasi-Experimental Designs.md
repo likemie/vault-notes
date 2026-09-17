@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 61
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -73,7 +73,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
   - "[[Gaokao]]"
   - "[[ESSA 2015 Evidence Standards]]"
@@ -82,6 +82,7 @@ related_facts:
   - "[[National Dropout Prevention Center]]"
   - "[[Education Endowment Foundation]]"
   - "[[Researching School Choices]]"
+  - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Quasi-Experimental Designs
@@ -104,7 +105,7 @@ updated: 2026-09-16
 > [!def] 方法定义
 > **准实验设计（Quasi-Experimental Designs, QED）** 是指在无法实施完全[[Random Assignment|随机分配]]（Random Assignment）的真实教育与社会情境中，通过选用非等对自然组别（Non-equivalent Groups）、构建间断时间序列（[[Time Series Design|interrupted time series]]）或设定断点赋值规则（[[Regression Discontinuity Design|regression discontinuity]]），系统操纵[[Independent Variable|自变量]]以检验因果[[Hypothesis|假设]]的量化实验设计方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 317–318]])。
 >
-> 在当代[[Evidence-Based Education|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials|随机对照试验]]（RCT）与纯观察性研究的关键方法桥梁；在 2015 年《每个学生都成功法案》（ESSA）中对应**中等证据（Moderate Evidence / [[Top Institute for Evidence-Based Education Research|TIER]] 2）**法定层级，在[[What Works Clearinghouse|WWC]] 中对应**有保留达标（Meets Standards With Reservations）**标准([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
+> 在当代[[Evidence-Based Education|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials|随机对照试验]]（RCT）与纯观察性研究的关键方法桥梁；在 2015 年《每个学生都成功法案》（[[Every Student Succeeds Act|ESSA]]）中对应**中等证据（Moderate Evidence / TIER 2）**法定层级，在[[What Works Clearinghouse|WWC]] 中对应**有保留达标（Meets Standards With Reservations）**标准([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 嵌入在自然班级、完整学校或行政行政区划中的具名教育干预方案、教学模式与政策改革。
@@ -239,6 +240,6 @@ updated: 2026-09-16
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011)]] — 体系化梳理准实验五大经典设计（非等对控制组、时间序列、[[Regression Discontinuity Design|断点回归]]、轮换对等），详析选择-成熟交互与均值回归等效度威胁(Ch. 16, pp. 317–324)。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 所清算中心对 QED 的因果审查规程（0–3 级[[Coding in Qualitative Research|编码]]），揭示 [[What Works Clearinghouse|WWC]]/[[Home Visiting Evidence of Effectiveness|HomVEE]] 的 0.05–0.25 SD 基线等值模型及 QED 在最高证据层级中的制度性分歧(pp. 8–11)。
-> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 深入探讨 QED 在 ESSA [[Top Institute for Evidence-Based Education Research|TIER]] 2 政策证据层级中的应用，提出[[Counterfactual|反事实]]可行性（Counterfactual Viability）与对照组生态报告的必要性(pp. 109–112)。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 深入探讨 QED 在 [[Every Student Succeeds Act|ESSA]] TIER 2 政策证据层级中的应用，提出[[Counterfactual|反事实]]可行性（Counterfactual Viability）与对照组生态报告的必要性(pp. 109–112)。
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 论证准实验、[[Single-Subject Design|单一被试设计]]与组间 [[Randomised Controlled Trials|RCT]] 在排除历史与成熟威胁上的同构逻辑与效度门控机制(pp. 461–464)。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度总结[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在学校拒绝[[Random Assignment|随机分配]]宏观政策（如[[Tracking|能力分组]]、上课作息）背景下，于 2019 年正式设立“研究[[School Choice|学校选择]]”资助序列、利用系统自然变异推进准实验设计（QEDs）因果评估的方法学制度演进(pp. 55–56)。

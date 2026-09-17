@@ -8,7 +8,7 @@ aliases:
 summary: "量化研究中将理论构念转化为可分析数据的赋值法则与度量层级，涵盖分类量表（名义、顺序）与连续量表（等距、比率），其心理计量属性与量程灵敏度直接决定了统计模型推断效度与因果评价公信力。"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Causality]]"
   - "[[Construct Validity]]"
+  - "[[Developer-Made Measures]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Predictive Validity]]"
   - "[[Document]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Scale of Measurement
@@ -94,7 +95,7 @@ updated: 2026-09-15
 ## 概念辨析
 
 > [!contrast-table] 评价测量尺度的三种实证样态对比（基于 Edovald & Nevill, 2021, p. 54）
-> | 属性维度 | 全国高利害统考标准化连续尺度（NPD 成绩） | 商业标准化测验尺度 | 开发者自编非标准化测验（Inherent Measures） |
+> | 属性维度 | 全国高利害统考标准化连续尺度（NPD 成绩） | 商业标准化测验尺度 | 开发者自编非标准化测验（[[Developer-Made Measures\|Inherent Measures]]） |
 > |---|---|---|---|
 > | **尺度独立性** | **完全独立**（国家考试院命题与阅卷） | 独立于研究者，但常模代表性有限 | **严重缺乏独立性**（由干预方自行编订） |
 > | **[[Effect Size\|效应量]]虚高风险** | **极低**（客观独立评判，无教学贴合溢价） | 较低（非项目方自主掌控题目设定） | **极高**（题项与干预要点同构，效应量平均虚高 50%–100%） |
@@ -123,7 +124,7 @@ updated: 2026-09-15
 在真实教育试验与大规模政策评估中，测量尺度的构建面临严重的心理计量失真威胁（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 54]]）：
 
 > [!critique-method] 传统教育试验终结性测量的两大心理计量陷阱
-> - **开发者自编测验的题项同构溢价（Inherent Measures）** 若研究采用项目开发者自行设计的测验，题项极易与实验组专属的教学要点高度重合，使得该尺度度量的不再是普遍的“学科能力”，而是“对特定测验题目的熟悉度”，导致统计[[Effect Size|效应量]]被人为夸大 50% 至 100%（Cheung & Slavin, 2016; WWC, 2017）。
+> - **[[Developer-Made Measures|开发者自编测验]]的题项同构溢价（Inherent Measures）** 若研究采用项目开发者自行设计的测验，题项极易与实验组专属的教学要点高度重合，使得该尺度度量的不再是普遍的“学科能力”，而是“对特定测验题目的熟悉度”，导致统计[[Effect Size|效应量]]被人为夸大 50% 至 100%（Cheung & Slavin, 2016; WWC, 2017）。
 > - **商业标准化测验的量程受限与效度黑箱** 市售商业测验开发商通常仅在手册中提供克隆巴赫 $\alpha$（[[Internal Consistency|内部一致性]]），极少向学界公开[[Predictive Validity|预测效度]]数据；伦敦大学学院丽贝卡·艾伦等（Allen et al., 2018）复算显示其对官方统考的预测效度偏低。更严重的是，商业测验难度阶梯狭窄，高频遭遇[[Floor and Ceiling Effects|天花板与地板效应]]（如 Catch Up Numeracy 数学干预试验，Hodgen et al., 2019），高水平学生轻易满分、低水平学生大量零分，尺度在两端被硬性截断，严重抹平真实因果差距。
 
 ### 3. 权威测量工具库与尺度准入标准
@@ -155,7 +156,7 @@ updated: 2026-09-15
 > 测量尺度是干预开发者量身定制还是依托国家常模，直接决定了[[Effect Size|效应量]]的真实含金量。
 
 > [!claim] Edovald, T. & Nevill, C.
-> **自编测验效应虚高与国家行政统考锚定准则** 采用由干预开发者自编的非标准化测验（Inherent Measures）作为结局尺度，会因为题目与干预内容的深度重叠而诱发严重的测量偏差，使效应量被人为夸大高达 100%。为了保障证据的科学客观性，现代循证评估机构（如 [[Education Endowment Foundation|EEF]]）确立了刚性准则：主要结局指标严禁采用任何自编测验，必须强制优先锚定[[National Pupil Database|国家学生数据库]]（NPD）官方标准化统考客观尺度，以确保测量结果能够无缝对接全社会公认的高利害学业基准。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
+> **自编测验效应虚高与国家行政统考锚定准则** 采用由干预开发者自编的非标准化测验（[[Developer-Made Measures|Inherent Measures]]）作为结局尺度，会因为题目与干预内容的深度重叠而诱发严重的测量偏差，使效应量被人为夸大高达 100%。为了保障证据的科学客观性，现代循证评估机构（如 [[Education Endowment Foundation|EEF]]）确立了刚性准则：主要结局指标严禁采用任何自编测验，必须强制优先锚定[[National Pupil Database|国家学生数据库]]（NPD）官方标准化统考客观尺度，以确保测量结果能够无缝对接全社会公认的高利害学业基准。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
 

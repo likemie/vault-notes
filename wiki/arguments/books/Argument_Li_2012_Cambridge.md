@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 152
+argument_related_count: 153
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -123,6 +123,7 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Self-spectator]]"
   - "[[Listening-Oriented Learning]]"
+  - "[[Lesson Study]]"
   - "[[Devil's Advocate]]"
   - "[[Xiaokang]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
@@ -3234,7 +3235,7 @@ Cortazzi and Jin 将这种模式命名为"倾听导向的学习"（[[Listening-O
 
 > "我们的心跟着讲师，带着问题和挑战。我们只是不习惯说出来。"
 
-Inagaki、Hatano and Morita 的日本课堂研究提供了实物证据：日本学生口头表达极少，但**日记和书面作业中充满问题、困惑和与同伴的争论(pp.116-117)**。沉默不等于没有想法。
+Inagaki、Hatano and Morita 的日本[[Lesson Study|课堂研究]]提供了实物证据：日本学生口头表达极少，但**日记和书面作业中充满问题、困惑和与同伴的争论(pp.116-117)**。沉默不等于没有想法。
 
 ---
 

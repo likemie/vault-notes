@@ -29,7 +29,7 @@ title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
 argument_display_title: "Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -91,16 +91,18 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Funnel Plot]]"
   - "[[Egger Regression Test]]"
-  - "[[PRISMA]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
   - "[[Forest Plot]]"
   - "[[Statistical Significance]]"
   - "[[Pre-test and Post-test]]"
   - "[[Analysis of Variance]]"
-related_facts: []
+related_facts:
+  - "[[FocusMath]]"
 related_persons:
   - "[[Socrates]]"
+related_instruments:
+  - "[[PRISMA]]"
 status: draft
 ---
 # Argument_Zhao_2025_JIntell
@@ -137,7 +139,7 @@ status: draft
 > [!row-contrast] 跨学科[[Higher-Order Thinking Skills|高阶思维]]核心维度分类
 > | 代表学者（年份） | 学科领域 | 高阶思维核心维度（Core Dimensions of HOT） | 理论共识与[[Operationalization\|操作化]]焦点 |
 > |---|---|---|---|
-> | **Liu (2022)** | 数学教育 | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、问题解决技能、[[Metacognition\|元认知]] | 聚焦数学劣构情境中的多路径建模与反思推演 |
+> | **Liu (2022)** | 数学教育 | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、问题解决技能、[[Metacognition\|元认知]] | [[FocusMath\|聚焦数学]]劣构情境中的多路径建模与反思推演 |
 > | **Xu et al. (2024)** | 信息技术教育 | 问题解决能力、[[Computational Thinking\|计算思维]]、[[Creativity\|创造力]] | 关注算法设计、逻辑排错与动态情境适应能力 |
 > | **Tan & Cho (2021)** | 翻译学研究 | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、交际思维、情感认知 | 强调跨语言[[Transfer Translation Transformation\|转译]]中的批判审校与文本再创造 |
 > | **Hwang et al. (2018)** | 跨学科综合领域 | 协作、沟通、复杂问题解决、[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]] | 二十一世纪[[21st Century Skills and Competencies Discourse\|核心素养]]导向的多维综合心智系统 |

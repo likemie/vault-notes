@@ -9,10 +9,10 @@ aliases:
 summary: "将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/measurement
   - method/test-theory
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Computerized Adaptive Testing]]"
+  - "[[Developer-Made Measures]]"
 related_theories:
   - "[[Item Response Theory]]"
 related_arguments:
@@ -39,7 +40,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-08-29
+updated: 2026-09-17
 ---
 
 # Classical Test Theory
@@ -133,7 +134,7 @@ updated: 2026-08-29
 > [!dev-timeline] 发展脉络
 > - **1904 — Spearman 提出[[Reliability|信度]]概念** 奠定 CTT 的数学基础
 > - **20 世纪中期 — CTT 成为测验编制的标准框架** 广泛应用于教育测量和心理测量领域
-> - **20 世纪后期 — [[Item Response Theory]] 兴起** 对 CTT 的题目参数样本依赖性和分数比较困难提出系统性改进。CTT 仍广泛用于课堂测验和研究者自编测验
+> - **20 世纪后期 — [[Item Response Theory]] 兴起** 对 CTT 的题目参数样本依赖性和分数比较困难提出系统性改进。CTT 仍广泛用于课堂测验和[[Developer-Made Measures|研究者自编测验]]
 
 ---
 

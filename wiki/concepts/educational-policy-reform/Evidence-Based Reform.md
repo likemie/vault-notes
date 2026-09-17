@@ -2,380 +2,307 @@
 title: Evidence-Based Reform
 aliases:
   - 证据本位改革
-summary: "以实验有效性证据作为选择教育项目和产品核心标准的改革框架，强调开发、评估、推广和政策激励之间的联动循环。"
+  - EBR
+summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 77
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
 tags:
-- evidence-based-reform
-- evidence-based-education
-- essa
-- policy
-- rct
-- paradigm/positivist
-- region/us
-- region/uk
+  - evidence-based-reform
+  - evidence-based-education
+  - essa
+  - policy
+  - rct
+  - paradigm/positivist
+  - region/us
+  - region/uk
 related_concepts:
-  - "[[School Leadership]]"
-  - "[[Evidence Standards]]"
-  - "[[Knowledge Mediation]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Praxis]]"
-  - "[[Document]]"
-  - "[[Emergence]]"
-  - "[[Research Utilization]]"
-  - "[[Paradigm]]"
-  - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Logic Model]]"
-  - "[[Teaching Assistant]]"
-  - "[[Cooperative Learning]]"
-  - "[[International Education]]"
-  - "[[Social-Emotional Learning]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Fade-out Effect]]"
-  - "[[Hypothesis]]"
-  - "[[Operationalization]]"
-  - "[[External Validity]]"
-  - "[[Research Question]]"
+  - "[[Academic Achievement]]"
   - "[[Epistemology]]"
-  - "[[Teacher Professional Agency]]"
-  - "[[Professional Judgment]]"
-  - "[[Technology Infusion]]"
-  - "[[Dialogue in Education]]"
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Paradigm]]"
+  - "[[Reflexivity]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Knowledge Mediation]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Implementation Fidelity]]"
+  - "[[Effective Teaching]]"
+  - "[[Active Learning]]"
+  - "[[Formative Assessment]]"
+  - "[[Tiered Evidence Grants]]"
+  - "[[Policy Borrowing]]"
+  - "[[Dialogue in Education]]"
+  - "[[Evidence Standards]]"
+  - "[[Response to Proven Instruction]]"
+  - "[[External Validity]]"
   - "[[Necessary and Sufficient Conditions]]"
-related_theories: []
+  - "[[Positivism]]"
+  - "[[Heterogeneity]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Attrition]]"
+  - "[[Dependent Variable]]"
+  - "[[Business as Usual]]"
+  - "[[Teaching Assistant]]"
+  - "[[Problem Solving]]"
+  - "[[Variable]]"
+  - "[[Entrepreneur in Residence]]"
+  - "[[Hypothesis]]"
+related_theories:
+  - "[[Critical Realism]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Qualitative Research]]"
-  - "[[Observational and Correlational Research]]"
-  - "[[Effect Size]]"
-  - "[[Matching]]"
-  - "[[Sample Size Determination]]"
-  - "[[Network Analysis]]"
-  - "[[Action Research]]"
-  - "[[Ethnography]]"
-  - "[[Quantitative Research]]"
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Case Study]]"
-  - "[[Longitudinal Study]]"
-  - "[[Statistical Significance]]"
-  - "[[Formative Program Evaluation]]"
-  - "[[Effectiveness Trial]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Qualitative Research]]"
+  - "[[Matching]]"
+  - "[[Hierarchical Linear Model]]"
+  - "[[Ethnography]]"
+  - "[[Effect Size]]"
 related_persons:
-  - "[[John Hattie]]"
   - "[[Robert Slavin]]"
+  - "[[John Hattie]]"
+  - "[[Alan C. K. Cheung]]"
+  - "[[Tengteng Zhuang]]"
 related_facts:
-  - "[[EU Evidence-Informed Education Policy Initiatives]]"
-  - "[[Education Endowment Foundation]]"
+  - "[[Every Student Succeeds Act]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Evidence for ESSA]]"
   - "[[Success for All]]"
   - "[[Investing in Innovation Program]]"
-  - "[[What Works Clearinghouse]]"
-  - "[[Best Evidence Encyclopedia]]"
-  - "[[No Child Left Behind Act 2001]]"
-  - "[[Best Evidence in Brief]]"
+  - "[[Education Innovation and Research]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Pact for Educational Excellence]]"
-  - "[[Top Institute for Evidence-Based Education Research]]"
-  - "[[ECNU Declaration on Evidence-Based Research]]"
-  - "[[Institute of Education Sciences]]"
-  - "[[Students and Teachers Accessing Tomorrow]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[National Diffusion Network]]"
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[Peer-Assisted Learning Strategies]]"
+  - "[[Lindamood Phoneme Sequencing]]"
+  - "[[Reading Recovery]]"
+  - "[[Reading Rescue]]"
+  - "[[Fraction Face-Off!]]"
+  - "[[ROOTS]]"
+  - "[[Numbers Count]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Slavin_2021_ECNUROE]]"
-  - "[[Argument_Cheung_2021_ECNUROE]]"
-  - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Slavin_2002_ER]]"
+  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Cheung_2021_ECNUROE]]"
+  - "[[Argument_Slavin_2021_ECNUROE]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
+  - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Dachet_2021_ECNUROE]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Peterson_2016_IJRME]]"
-confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-15
+updated: 2026-09-17
+---
+
+# Evidence-Based Reform
+
 ---
 
 ## 定义
 
-> [!info] 定义
-> 证据本位改革（Evidence-Based Reform）是 Slavin (2002, 2017, 2019) 提出并持续倡导的教育政策框架：教育者与决策者将**关于有效性的研究证据**作为选择教育项目、产品和实践的核心标准。证据特指来自**严格[[Experimental Research|实验研究]]（将使用实验项目的学生与传统方法的学生进行成就比较，理想上[[Random Assignment|随机分配]]）**的结果。
+> [!def] 核心定义
+> **证据本位改革（Evidence-Based Reform, EBR）**是[[Robert Slavin|罗伯特·斯莱文]]（Robert Slavin）于 2002 年提出并持续倡导的宏观教育政策治理框架。该框架主张教育者与决策者将**关于有效性的严格实证研究证据**作为选择、采购与资助具体教育项目、教材和教学实践的核心法定标准。其证据基础特指来自对照[[Experimental Research|实验研究]]（将使用干预项目的实验组与采用常规方法的对照组进行[[Academic Achievement|学业成就]]对比，理想上采用[[Random Assignment|随机分配]]）的严谨因果推论结果。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]; [[Argument_Slavin_2019_EP|(Slavin, 2019, p. 22)]]
+
+> [!concept-lens] 概念透镜
+> - **含义** 将医学与农业领域的“研发 $\to$ 对照实验 $\to$ 独立审查 $\to$ 政策准入/财政激励”创新累积机制系统引入教育治理。
+> - **用途** 终结教育领域长期受未经检验的意识形态与商业营销操纵的“教学时尚钟摆”，为弱势学生的学业托底建立确定性的制度保障。
+> - **边界** 证据本位改革是落地的**政策议程与制度机制**，而非纯粹的[[Epistemology|认识论]]哲学；它强调以具体可操作的教材产品为单位，明确区分于仅停留于抽象原则的通用教学理念。
+
+> [!citation-card] 证据本位改革的定义与跨行业累积机制
+> 证据本位改革是指教育者与政策制定者将有效性证据作为选择教育项目、产品和实践标准的政策体系。……证据本位改革最终可以将曾在 20 世纪引领医学、农业和技术领域取得巨大发展的科学过程切实应用于教育。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22, 29)]]
 >
-> > "Evidence-based reform refers to policies in which educators and policymakers use evidence of effectiveness as a criterion for choosing educational programs, products, and practices." ([[Argument_Slavin_2019_EP|Slavin, 2019, p. 3]])
+> *Evidence-based reform refers to policies in which educators and policymakers use evidence of effectiveness as a criterion for choosing educational programs, products, and practices. ... Evidence-based reform could finally apply to education the process that led to dramatic developments in medicine, agriculture, and technology in the 20th century.*
 
-### 四项核心活动（Four Essential Activities）
+> [!boundary]- 概念边界
+> - **不等于[[Evidence-Based Education|循证教育]]（EBE）** 循证教育是指“教育决策应当参考研究证据”的宏观哲学与倡导理念；证据本位改革（EBR）则是推动该理念落地的**法定政策、拨款杠杆与审查管线**。
+> - **不等于[[Evidence-Informed Practice|证据知情实践]]（EIP）** 证据知情实践往往允许教师依据宽泛原则进行自由情境裁剪；而 EBR 强调必须依托经过完整对照实验验证的**具体结构化方案与配套培训**。
+> - **不等于抽象的“基于科学研究”（Research-Based）** 斯莱文（[[Argument_Slavin_2002_ER|Slavin, 2002, p. 19]]）提出著名的“莱特兄弟类比”，指出发明家使用了完全相同的航空物理学原理，但只有莱特兄弟的飞机飞上了天空；仅“基于研究原理”设计的项目在现实课堂中极易因过于繁难或培训不足而失效，只有经过**严格实验评估验证（Proven / Evaluated）**的项目才能作为改革依据。
 
-[[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021, p.9)]] 将证据本位改革定义为四项核心活动：
+---
 
-1. **找出什么最有效（Finding out what works best）** 在各学科、各年级使用严格的实验方法评估创新项目
-2. **传播已知的有效项目（Making educators aware of proven programs）** 让教育者、教育领导者和政策制定者了解经过验证的项目，需由可信的政府或非政府专家解释技术报告并以清晰方式描述项目和证据基础
-3. **提供资源和激励（Providing resources and incentives）** 使[[School Leadership|学校领导]]能够实施经过验证的项目——"知道哪些项目最有效很少足以使教育领导者接受它们，教育创新通常有初始成本（材料、硬件、软件和专业发展），教育者希望确信采用创新得到领导者的鼓励"([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.21]])
-4. **持续增加有效实践的知识（Creating policies to continually add to knowledge）** 创建政策和系统以持续进行创新→评估→推广的循环——"教育研究不应被视为寻找适用于所有学校的单一最佳方法，而应被视为一个持续的创新和评估过程，以逐步增加关于有效实践和政策的知识"([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.22]])
+## 概念辨析
 
-这一四步框架在 Slavin (2013, 2017, 2020) 中持续演进，[[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] 将其作为国际比较的基准框架应用于中国情境分析。
+> [!contrast-table] [[Evidence-Based Education|循证教育]]相关概念[[Paradigm|范式]]辨析
+> | 比较维度 | 循证教育（Evidence-Based Education, EBE） | [[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP） | 证据本位改革（Evidence-Based Reform, EBR） |
+> |---|---|---|---|
+> | **核心属性** | [[Epistemology\|认识论]]理念与教育哲学主张 | 教师专业发展与[[Reflexivity\|反思性]]实践路径 | 国家宏观教育治理与公共财政配置框架 |
+> | **证据范围** | 以量化实验、[[Meta-analysis\|元分析]]证据为主 | 包容质性、[[Mixed Methods Research\|混合方法]]、专业经验与[[Local Knowledge in Evidence-Based Policy\|地方知识]] | 严格要求符合法定标准的对照实验（[[Randomised Controlled Trials\|RCT]]/[[Quasi-Experimental Designs\|QED]]） |
+> | **落地载体** | 教师教育理念与宏观呼吁 | 课堂教学微调与校本教研社群 | 经过实验验证的具体教材、技术工具与结构化项目 |
+> | **政策机制** | 松散指导与学术讨论 | 柔性能力建设与[[Knowledge Mediation\|知识中介]]网络 | 与政府教育拨款（如 [[Every Student Succeeds Act\|ESSA]] Title I）实施刚性法律绑定 |
+> | **代表学者** | [[Robert Slavin\|Slavin]]; [[John Hattie\|Hattie]] | Hargreaves; Cain; Nelson | [[Argument_Slavin_2002_ER\|Slavin (2002)]]; [[Argument_Slavin_2019_EP\|Slavin (2019)]]; [[Argument_Cheung_2021_ECNUROE\|Cheung & Xie (2021)]] |
 
-### 全球传播的医学类比
+---
 
-[[Argument_Cheung_2021_ECNUROE|Cheung & Xie (2021, p.1)]] 在 ECNU Review of Education 特刊导言中以 COVID-19 疫苗试验为类比，论证教育领域应采纳证据本位改革的紧迫性：在评估治疗或疫苗是否有效时，医学专家依赖的不是小规模方法论可疑的研究，而是大规模、良好实施的[[Randomised Controlled Trials|随机对照试验]]（RCT）。他们指出，长期以来教育政策基于意识形态立场或个人观点而非证据，而证据本位改革的目标是将教育带入一个在医学、农业和技术领域已被证明成功的"创新→评估→推广"循环([[Argument_Cheung_2021_ECNUROE|Cheung & Xie, 2021, p.1,引用 Haskins, 2014]]; Kolada, 2013; Slavin, 2020)。
+## 核心要素
 
-[[Argument_Cheung_2021_ECNUROE|Cheung & Xie (2021)]] 的特刊汇集了来自亚洲、北美、欧洲七个国家的研究者，按四项核心活动框架组织八篇文章，旨在呈现证据本位改革在全球的"过去、现在和未来"全景图。
+> [!feature] 核心要素
+> - **已验证项目存量（Critical Mass of Proven Programs）** 在核心学科（阅读、数学、科学）中通过严格实验评估建立充足的强证据干预方案库，确保学校具备充足的实证方案可供选择。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
+> - **独立证据审查系统（Independent Clearinghouses）** 建立客观、公信且快速更新的证据审查与极速[[Transfer Translation Transformation|转译]]平台（如 [[What Works Clearinghouse|WWC]]、[[Evidence for ESSA]]），从源头上过滤未经检验的商业营销。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 24–25)]]
+> - **政策与财政激励（Policy & Funding Incentives）** 通过国家与州级立法（如 [[Every Student Succeeds Act|ESSA]] 2015）将公共教育拨款与采纳循证方案刚性挂钩，以财政杠杆驱动学校主动选择有效方案。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 25–26)]]
+> - **全链条四项核心活动（Four Essential Activities）** 制度化贯通“评估有效干预 $\to$ 专家转译指南 $\to$ 提供采纳资源 $\to$ 政策持续累积”的良性循环活动。[[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021, pp. 9, 21–22)]]
+> - **本地情境可用性（Local Usability）** 将经济成本、耗材要求、学生使用时间及与本地课程标准的匹配度纳入循证决策考量，确保外部因果证据能够在具体学校顺利落地。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 120–121)]]
+> - **教师民主投票准入机制（Teacher Democratic Supermajority Vote）** 为确保一线教师的主人翁意识（Ownership）并化解自上而下行政强推的抵触，改革方案的引进通常设立全校教职工无记名投票门槛（如 [[Success for All]] 强制要求全校 80% 以上教师投赞成票），将基层民主授权与外部强保真度实施有机结合。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 7)]]
 
-### 欧洲证据政策进展
+> [!logic-map]- 循证改革要素关系与运行机制
+> ```mermaid
+> flowchart LR
+>     P["政府政策与立法<br>（设立法定证据门槛与专项改进拨款）"] --> R["驱动公共与社会研发投资<br>（分层资助管线 i3 / EIR / EEF）"]
+>     R --> T["大规模第三方独立实验<br>（大样本整群 RCT + HLM 分析）"]
+>     T --> C["独立证据审查与直观转译<br>（WWC / Evidence for ESSA 卡片）"]
+>     C --> S["学校与学区自主采纳<br>（教师民主投票 + 高保真实施）"]
+>     S --> A["显著提升弱势学生学业产出<br>（消除高危失败，形成政策公信力）"]
+>     A --> P
+>     
+>     classDef core fill:#eff6ff,stroke:#3b82f6,stroke-width:2px;
+>     class P,R,T,C,S,A core;
+> ```
 
-欧洲的证据本位改革路径比美国 ESSA 式[[Evidence Standards|证据标准]]更软。欧盟层面从 2006 年开始通过评价文化、知识本位政策文件、ET 2020 进展监测、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] [[Knowledge Mediation|知识中介]]网络和 Eurydice 支持机制鼓励成员国在教育政策中使用证据；但这些文件主要是指导和协调，而不是强制规定统一行动线([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, pp.28-31, 41-42]])。详见 [[EU Evidence-Informed Education Policy Initiatives]]。
+---
 
-这种路径使欧洲更常采用 evidence-informed education 的表述：证据来源不限于实验研究，也包括定性和[[Mixed Methods Research|混合方法]]；政策上则强调为成员国提供方向，而非像 ESSA 那样把拨款和项目证据等级直接绑定([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p.26]])。欧洲推进 EBR 的主要障碍不是“是否需要证据”，而是 43 个教育系统、24 种官方语言和不同课程标准使经验证项目难以直接跨国复用([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p.36]])。
+## 围绕概念形成的命题
 
-Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation]] (EEF) 作为 What Works 运动旗舰组织的成功经验：快速扩展学校本位 RCT、设定高标准的研究独立性、透明度和设计标准([[Argument_Cheung_2021_ECNUROE|Cheung & Xie, 2021, p.2]])。
+---
 
-## 与 Evidence-Based Education 的区别
+### 命题一　提升教学效能必须依托经过实验检验的具体方案而非抽象教学原则
 
-> [!example] 与 [[Evidence-Based Education]] 的区别
-> | | Evidence-Based Education | Evidence-Based Reform |
-> |---|---|---|
-> | 焦点 | 教育[[Praxis\|实践]]应基于研究证据的**理念** | 推动该理念落地的**政策机制** |
-> | 层级 | 哲学/方法论 | 政策/制度设计 |
-> | 核心问题 | "证据应在教育中扮演什么角色？" | "如何使证据真正影响教育采购和教学决策？" |
-> | 代表性学者 | [[John Hattie\|Hattie]], Marzano, Biesta（批判） | Slavin 系列文章 |
-> | 与政府的关系 | 松散 | 紧密——依赖 ESSA 等法律和政府拨款 |
->
-> 简单说：证据本位教育是**理念**，证据本位改革是实现该理念的**政策议程**。
+> [!concept-lens] 方案具象化与因果保真度
+> 探讨抽象教学原则为何在实践转化中普遍落空，以及具体结构化项目如何通过工程化开发保障课堂[[Implementation Fidelity|实施保真度]]。
 
-## 起源与奠基：[[Argument_Slavin_2002_ER|Slavin (2002)]]
+> [!claim] [[Robert Slavin|Slavin, R.]] E.
+> **抽象原则无法自行跨越实践转化鸿沟** 传统教育改革倾向于传播[[Effective Teaching|有效教学]]的一般原则（如[[Active Learning|主动学习]]、[[Formative Assessment|形成性评价]]），但一线教师在繁重日常备课中极难自行研发配套教材、课堂活动与测评工具，遇到阻力即迅速回退至个人传统习惯。只有将科学原理工程化内嵌于具体的教材、教具、技术工具与教师专业发展方案中，并经过严格的对照组实验验证，改革才具备现实可行性与可复制性。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 18–19)]]; [[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
 
+---
 
-[[Argument_Slavin_2002_ER|Slavin (2002)]] 的 AERA 杰出讲座论文是该概念的**奠基性[[Document|文献]]**。其核心论证前提是：
+### 命题二　循证改革的成功取决于项目存量、独立审查与财政激励三大支柱的制度协同
 
-**教育处于"下降螺旋"** 政策制定者看不到研究的相关性 → 研究资助不足 → 缺少大型决[[Qualitative Research|定性研究]] → 政策制定者更不愿投资。证据本位改革旨在逆转此螺旋，创造**"上升螺旋"** 严格研究证明可复制项目有效 → 政策制定者增加资助 → 更多更好的研究 → 更多资助和更广泛的应用。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 16–17]])
+> [!concept-lens] 政策治理杠杆与供需匹配
+> 分析公共政策如何通过[[Tiered Evidence Grants|分层资助管线]]、独立审查平台与法定拨款门槛重塑教育采购生态。
 
-[[Argument_Slavin_2002_ER|Slavin (2002)]] 识别了三个正在[[Emergence|涌现]]的政策窗口：
-- **CSR 项目（1998）** 首次将联邦拨款与有效性证据挂钩——尽管执行中大多数资金仍流向未经证实的项目（仅 20.8% 流向强证据项目）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
-- **No Child Left Behind（2001）** 全文 110 次提及"科学本位研究"，将实验[[Evidence Standards|证据标准]]嵌入 Title I、Reading First 等核心联邦项目([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
-- **OERI 重组（2002）** Whitehurst 制定战略计划，设定到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+> [!claim] Slavin, R. E.
+> **三条件框架是驱动教育实践不可逆进步的制度基石** 单纯依靠学术发表无法改变学校实践；循证改革必须同时建立三大支柱：通过联邦分层研发管线（如[[Investing in Innovation Program|创新投资项目]]（Investing in Innovation, i3）/ [[Education Innovation and Research|教育创新与研究项目]]（Education Innovation and Research, EIR）、英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF））形成充足的合规项目库；建立面向校长的独立极速[[Transfer Translation Transformation|转译]]平台（如 [[Evidence for ESSA]]）；并通过立法（如《[[Every Student Succeeds Act|每一个学生成功法]]》）将数十亿美元的学校改进拨款与 TIER 1–3 证据方案刚性绑定，从制度上阻断商业营销对公款的侵蚀。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 23–26)]]
 
-### 开发-评估-推广范式（Development-Evaluation-Dissemination Paradigm）
+---
 
-[[Argument_Slavin_2002_ER|Slavin (2002, p. 17)]] 提出：一旦建立了**可复制的开发→严格评估→复制→推广[[Paradigm|范式]]**，这一机制可适用于任何教育干预领域——从各科各级教学到特殊教育、资优教育、辍学预防、英语学习者、种族关系、毒品预防、暴力预防等。随着时间推移，每个领域都将经历医学和农业所特有的"逐步、不可逆的进步"，因为创新在被推荐广泛应用之前将受到严格评估标准的约束。
+### 命题三　循证改革在非英美语境中的推广必须克服制度、语言与本土证据库的语境化张力
 
-> 例：Slavin 本人的 [[Success for All]] 项目被用作此范式的案例——该项目基于 1970s–1980s 的过程-产品[[Observational and Correlational Research|相关性研究]]开发，经过多轮实验评估和改进，最终成为 ESSA 强证据等级下[[Effect Size|效应量]]最高的阅读项目之一([[Argument_Slavin_2002_ER|Slavin, 2002, p. 18]]; Slavin & Madden, 2001)。
+> [!concept-lens] 跨国[[Policy Borrowing|政策借用]]与本土生态调适
+> 探讨欧洲大陆、中国及法语区在引入证据本位改革时所面临的证据库薄弱、语言壁垒与哲学传统差异。
 
-[[Argument_Slavin_2002_ER|Slavin (2002, p. 19)]] 认为教育不需要医学式的"突破"（breakthroughs），而是需要渐进式、累积式的改进——正如现代汽车仍使用内燃机，但远比 Model T 高效；医生在世纪之交就能切除阑尾，但今天手术风险小得多。
+> [!claim] Pellegrini, M., & Vivanet, G.
+> **欧洲分权体系下的柔性证据知情协调路径** 在欧洲大陆多语言与去中心化治理环境下，刚性实验证据门槛面临严峻的语言壁垒与机构协调困难，欧盟倾向于采取包容性更强的“证据知情”（[[Evidence-Informed Practice|EIP]]）软法治理路径，通过网络搭建与能力建设促进证据利用。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 26–36)]]
 
-### "基于科学研究" vs "经严格评估"的区分
+> [!claim] Slavin, R. E., [[Alan C. K. Cheung|Cheung, A. C. K.]], & [[Tengteng Zhuang|Zhuang, T.]]
+> **中国教育实证研究的制度化发展与方法论反思** 中国教育实证研究经历了制度化快速增长（华东师范大学国际论坛与《华东师范大学宣言》），但在吸收循证改革时也展开了关于“统计主义”、价值不可量化与质性实证合法性的深层学术[[Dialogue in Education|对话]]。[[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021, pp. 11–17)]]
 
-这是 [[Argument_Slavin_2002_ER|Slavin (2002, pp. 18–19)]] 提出的关键概念区分，对后续 ESSA 证据标准的设计产生直接影响：
+> [!claim] Dachet, D., & Baye, A.
+> **法语比利时低实验存量环境下的包容性验证类型学** 法语比利时在《[[Pact for Educational Excellence|教育卓越公约]]》改革中，面对本土因果实验方案仅占 3% 的现实瓶颈，创立了涵盖专家经验与[[Qualitative Research|质性研究]]的四级包容性验证类型学，作为向严格循证过渡的务实中间阶段。[[Argument_Dachet_2021_ECNUROE|(Dachet & Baye, 2021, pp. 175–182)]]
 
-> "The fact that a program is based on scientific research does not mean that it is in fact effective." ([[Argument_Slavin_2002_ER|Slavin, 2002, p. 19]])
+---
 
-Slavin 用**莱特兄弟类比** 其他发明家使用了与莱特兄弟完全相同的航空科学研究，但他们的飞机从未离开地面。将科学原理转化为有效实践需要额外的工程开发、严格测试和改进。同理，"基于科学研究"的项目可能在实施中因过于困难、过于枯燥、或培训不足而失败——只有经过**严格实验评估**的项目才能被信赖为有效。
+### 命题总览
 
-Slavin 认为，鉴于当时教育领域经过严格评估的项目数量有限，立即要求所有联邦资金限于此类项目不切实际——但政策方向应是从"基于研究"逐步过渡到"经过评估验证"。
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **具体方案具象化命题** | 论证抽象原则无法转化，主张以实验验证的具体产品为改革载体 | 课程教材研发、教师专业发展设计、教学干预评估 | [[Argument_Slavin_2002_ER\|Slavin (2002)]] |
+> | **三条件制度协同命题** | 阐明项目存量、独立审查与财政激励必须三位一体协同发力 | 联邦与州级教育立法、公共教育经费分配、清算平台建设 | [[Argument_Slavin_2019_EP\|Slavin (2019)]]; [[Argument_Cheung_2021_ECNUROE\|Cheung & Xie (2021)]] |
+> | **跨国语境化调适命题** | 揭示非英美系统在证据库、语言与哲学传统上的张力与过渡策略 | 比较教育政策、跨国证据中介网络、多元方法学融合 | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]]; [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] |
 
-## 三条件框架
+---
 
-> [!abstract] 三条件框架
-> Slavin (2017, 2019) 论证证据本位改革要成功，必须同时满足：
->
-> | # | 条件 | 2019 年进展 |
-> |---|------|-----------|
-> | 1 | **大量经过验证的项目** — 每级每科都有达到实验标准的可选项 | [[Investing in Innovation Program\|i3]]/EIR 资助了 171+ 项目；EEF 资助了 180+ [[Randomised Controlled Trials\|RCT]]；ESSA 强/中标准已有约 100 个项目 |
-> | 2 | **可信赖的、面向教育者的证据审查** — 让校长和学区知道哪些项目有效 | [[What Works Clearinghouse\|WWC]], [[Best Evidence Encyclopedia\|BEE]], Evidence for ESSA（70,000+ 月活用户） |
-> | 3 | **政府政策提供激励** — 拨款、竞争偏好点或授权 | ESSA 2015 将联邦学校改进基金与使用已验证项目绑定；若干州进一步扩展 |
+## 概念演变
 
-### 实践者需要的第四类信息：本地可用性
-
-Ross and Morrison 对三条件框架作了一个实践层面的补充：即使存在经过验证的项目、清晰的证据审查和政策激励，学校仍需要判断项目在本地是否可买、可教、可持续。教育产品消费者报告很少直接使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些渠道更能提供项目特征、实施要求、使用满意度、成本和情境相关性([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.120-121]])。
-
-这不是用[[Local Knowledge in Evidence-Based Policy|地方知识]]取代 EBR 的三条件，而是说明 EBR 需要把“有效性证据”继续翻译成“本地可用性信息”。例如，一个项目即使有统计显著的成就效果，学校也仍要知道教师培训成本、硬件要求、学生实际使用时间、对照条件是否合理，以及结果是否覆盖本地真正关心的目标([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.121]])。
-
-## 历史脉络
-
-
-- **1998** — CSR 项目：首次将联邦教育拨款与有效性证据挂钩([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
-- **2001** — [[No Child Left Behind Act 2001|NCLB]] 通过，"科学本位研究"进入联邦教育法律核心文本([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
-- **2002** — Slavin 在 *Educational Researcher* 发表 "[[Evidence-Based Education]] Policies"，首次系统主张证据本位改革，提出开发-评估-推广[[Paradigm|范式]]和"基于研究 vs 经评估"的区分
-- **2009** — i3（[[Investing in Innovation Program|Investing in Innovation]]）拨款项目启动，采用分层证据结构（scale-up / validation / development），累计投入 USD 1.4B，资助 171 项目
-- **2015** — ESSA（Every Student Succeeds Act）通过，正式定义强、中、有希望、基于原理四级[[Evidence Standards|证据标准]]，替代 NCLB([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.109]])
-- **2017** — Evidence for ESSA 网站上线，与 ESSA 标准对齐
-- **2019** — Slavin 发表 Thorndike 演讲，总结进展并提出 RTI → RTPI 转型方向
-- **2021** — Slavin, Cheung & Zhuang 在 *ECNU Review of Education* 发表首个中美英证据本位改革国际比较研究，系统记录中国教育实证研究的制度化发展（ECNU 论坛 2015-2019、2017 华东师范大学宣言、[[Best Evidence in Brief|BEiB]] 中文网络），首次翻译并呈现中国学者对证据本位研究的五类内部质疑（定义之争、统计主义、价值不可量化、数据困境、实证≠定量），将四项核心活动框架应用于中国情境分析([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021]])
-- **2021** — Cheung & Xie 在同一特刊发表 Editorial，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，汇集七个国家八篇文章呈现证据本位改革的全球全景([[Argument_Cheung_2021_ECNUROE|Cheung & Xie, 2021]])
-- **2021** — Dachet & Baye 以法语比利时[[Pact for Educational Excellence|教育卓越公约]]为案例，展示证据本位改革在本地实验项目稀少、[[Qualitative Research|定性研究]]传统较强、英语[[Document|文献]]进入困难的系统中如何被语境化：改革官方文本承认需要试点、验证并按有效性扩大项目，但 425 个候选工具/项目中只有 13 个采用实验设计测试，因此改革团队采用包容性验证类型学作为过渡机制([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.171, 175-176, 181-182]])
-
-## 核心政策工具：ESSA 证据标准
-
-
-ESSA (2015) 定义了四层[[Evidence Standards|证据标准]]，用于判定教育项目是否值得联邦拨款支持。前三层要求研究发现具有统计显著正向效果，第四层则允许以高质量研究或正向评价为基础的理论依据进入政策选择([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.109]])：
-
-| 等级 | 要求 |
-|------|------|
-| **强（Strong）** | 至少 1 项设计良好且实施良好的**[[Experimental Research\|实验研究]]**（随机分配） |
-| **中（Moderate）** | 至少 1 项设计良好且实施良好的**准实验研究（[[Matching\|匹配]]样本）** |
-| **有希望（Promising）** | 至少 1 项设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差） |
-| **基于原理（Demonstrates a rationale）** | 具有清晰[[Logic Model\|逻辑模型]]，并得到高质量研究或正向评价支持 |
-
-前三个层级通常要求统计显著正向结果，并要求测量工具、[[Sample Size Determination|样本量]]、持续时间和分析方法足以支持因果或相关推断；第四层的门槛较低，重点是逻辑模型和可持续评价，而不是已经证明的成就效果([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.109]])。
-
-## RTPI（Response to Proven Instruction）
-
-
-Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三层分别填充经过验证的项目：
-
-- **[[Top Institute for Evidence-Based Education Research|TIER]] 1** 已验证的全班/全校方法（如 [[Success for All]]）
-- **Tier 2** 已验证的小组辅导（如经过培训的[[Teaching Assistant|助教]]小组辅导）
-- **Tier 3** 已验证的一对一辅导（如 Reading Recovery）
-
-论点：如果每层都是已验证有效的，学生将几乎确定成功——这避免了传统 RTI 因未明确指定实践方案而失败的问题（Balu et al., 2015）。
-
-> 例：[[Argument_Slavin_2019_EP|Slavin (2019, pp. 9–10)]] 以 Success for All（SFA）为例说明 RTPI 的运作逻辑——SFA 是一个达到 ESSA"强证据"标准的全校阅读项目（Tier 1），它为每个年级提供结构化的课程材料、[[Cooperative Learning|合作学习]]策略和定期评估。如果学生在 SFA 的 Tier 1 教学中仍落后，学校可进一步采用达到[[Evidence Standards|证据标准]]的小组辅导（Tier 2，如经过培训的助教辅导）或一对一辅导（Tier 3，如 Reading Recovery）。Slavin 的核心主张是：当 Tier 1–3 都填充了经过实验验证的干预时，学生失败的概率被系统性地最小化。
-
-## 中国的证据本位改革([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021]])
-
-
-[[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] 首次从中美英国际比较视角系统记录了[[Evidence-Based Education|证据本位教育]]研究在中国的制度化发展。
-
-### 中国的证据本位研究增长
-
-以"教育实证研究"为关键词检索中国最大期刊数据库 CNKI，结果从 1990 年 2 篇增长至 2018 年 477 篇，总量约 5,000 篇([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.11]])。然而证据本位研究占总研究产出的比例仍然很低：Wang (2017) 分析五种 CSSCI 期刊（*高等教育研究*、*清华大学教育研究*、*中国高教研究*、*北京大学教育评论*、*复旦教育论坛*）2012-2016 年出版物，发现证据本位研究仅占约 20%（范围 15.6%-29.1%）。袁振国（2017）估计总体不到 10%——"但这些比例可能是准确的，美英也可能类似，因为证据本位研究成本高昂"([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.13-14]])。
-
-### ECNU 实证研究论坛与"华东师范大学宣言"
-
-华东师范大学（ECNU）自 2015 年起连续五年举办全国教育实证研究论坛。第五届（2019）扩展至 16 所大学联合组织 16 场平行会议，涵盖视频逻辑分析、[[Qualitative Research|质性研究]]反思、实证调查、[[Mixed Methods Research|混合方法]]、社会[[Network Analysis|网络分析]]、[[Experimental Research|实验研究]]、[[Action Research|行动研究]]、[[Ethnography|民族志]]、大数据分析、文本分析等主题([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.12]])。
-
-2017 年 1 月，14 所大学和 32 家 CSSCI 期刊联合发布"华东师范大学宣言"（ECNU Declaration），提出 10 条推进措施：加强课程建设与青年教师培训、提高实证研究产出、组织全国论坛、编辑出版国际高质量出版物、提高评估标准、增加实证项目比例、设立杰出成果奖、发布年度进展报告、向公众开放教育数据等([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.14-15]])。详见 [[ECNU Declaration on Evidence-Based Research]]。
-
-### BEiB 中文网络与三方合作
-
-南京师范大学（NNU）加入全球 Best-Evidence-in-Brief（[[Best Evidence in Brief|BEiB]]）网络，与 Johns Hopkins University 和香港中文大学合作，每两周向中国大陆一线教育者推送最新证据本位研究发现。NNU 还举办 2019 年[[International Education|国际教育]]卓越理念与行动会议，"证据本位"为会议核心关键词([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.11-13]])。详见 [[Best Evidence in Brief]]。
-
-### 美英信息传播基础设施
-
-[[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021, p.19-21)]] 并列介绍了四个信息传播平台：
-
-- **[[What Works Clearinghouse]]** 美国 [[Institute of Education Sciences|IES]] 旗舰项目，审查阅读、数学、科学等领域的实用项目研究，制作可读的"实践指南"
-- **Best-Evidence Encyclopedia ([[Best Evidence Encyclopedia|BEE]])** JHU 团队创建和维护的免费网站，主要包含特定领域项目有效性的完整学术综述（如小学和中学阅读、数学、科学、学前项目等）
-- **Evidence for ESSA** JHU 团队为教育者（非学术研究者）设计的网站，与 ESSA [[Evidence Standards|证据标准]]对齐。截至 2020 年 1 月，约 100 个阅读和数学项目达到 ESSA 强/中/有希望标准（"强"类别数量最多），24 个[[Social-Emotional Learning|社会情感学习]]项目和 8 个出勤项目达标，拥有 100,000+ 独立用户，每周新增约 800 用户（p.20）
-- **BEiB 与博客** BEiB 每两周向数万订阅者免费发送，[[Robert Slavin]] 维护每周博客
-- **[[Educational Evidence Clearinghouses|教育证据清算中心]]的一致性问题** [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 对 12 个美国/英国教育清算中心的比较显示，这类信息传播基础设施并不只是"把证据传递出去"的中性管道，而是通过项目纳入标准、研究设计标准、复制要求、[[Effect Size|效应量]]阈值和[[Fade-out Effect|持续效果]]要求主动塑造"什么算作有效"。在 1,359 个项目中，83.2% 只被一个清算中心评级；对被多个清算中心评级的项目，类似评级约只出现在 30% 的情形([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 18]])。这意味着 EBR 所依赖的"可信赖证据审查"条件本身也需要被审查。
-
-### 中国学者对证据本位研究的质疑
-
-[[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021, p.15-17)]] 首次在英文[[Document|文献]]中系统翻译和呈现了中国学者对证据本位研究[[Paradigm|范式]]的五类内部质疑（所有引用均来自中文文献）：
-
-**1. 定义之争：广义 vs 狭义"实证"**
-
-石中英 (2017) 区分广义"实证"（研究者收集和观察相关数据以提出和验证[[Hypothesis|假设]]——中国学术历来从事此方面工作）与狭义"实证"（使用程序化、[[Operationalization|操作化]]和定量化措施对教育和社会现象得出结论——这不是大多数中国教育研究者一直在做的）。这一区分暗示了定义问题本身即是争议焦点([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.15]])。
-
-**2. "统计主义"（Statisticalism）批判**
-
-李军 (2018) 警告不应将证据本位研究等同于"统计主义"："聚焦方法而忽视问题，聚焦数据而忽视事实，聚焦格式而忽视思想"。他认为这种心态和路径"将研究过程简化为统计的操作过程，并对难以量化的教育理念、价值和情感采取排斥态度"([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.15-16]])。
-
-**3. 价值问题不可量化**
-
-王卫东 (2019) 认为证据本位研究在处理价值相关问题时存在先天不足："价值关乎人类未来，特别是人们面对利益冲突时应做的选择，而证据本位研究倾向于关注可以量化的当下现实"。因此"思辨教育研究应作为证据本位研究的前提，同时也应包容证据本位研究产生的发现"([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.16]])。
-
-**4. 数据收集的现实困境**
-
-杨振东等 (2019) 列举了高质量数据获取受限、纵向数据收集成本、数据收集程序与标准不清、研究者培训不足导致数据质量低下等困难——"尤其突出个体研究者面临的数据收集困境"([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.16]])。
-
-**5. 实证研究 ≠ [[Quantitative Research|定量研究]]**
-
-潘洪建 (2018) 强调需要区分"证据本位研究""实证研究""定量研究"等概念，认为严谨的定性方法（特别是民族志）同样可产生真实证据并有助于解决教育问题，"由于教育问题的复杂性和多维性，教育研究不应被缩减或窄化为实证研究或定量研究"([[Argument_Slavin_2021_ECNUROE|Slavin et al., 2021, p.16]])。
-
-这些质疑与美英 EBE 批判文献（Biesta 的价值先于证据、Wrigley 的简单科学观、Thomas 的民间科学观）存在惊人的理论对应，但源自完全独立的中文教育哲学传统，构成跨文化的方法论批评趋同。
+> [!dev-timeline] 概念演变
+> - **1974–1980 年代 — 联邦早期技术扩散先驱** 美国联邦教育部设立[[National Diffusion Network|国家扩散网络]]（NDN），通过各州设立“州促进员”网络跨辖区推广 500+ 个经审查的模型，覆盖数万所学校，初步证明了基层学校规模化采纳外部优质方案的可行性。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 6–7)]]
+> - **1997–1998 年 — 联邦萌芽与 CSR 项目** 美国国会通过 Obey-Porter 修正案设立全面学校改革计划（Comprehensive School Reform, CSR），首次将联邦专项资金与采纳经实证检验的全校方案（如 [[Success for All]]）挂钩。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
+> - **2001–2002 年 — 概念奠基与 [[No Child Left Behind Act 2001|NCLB]] 立法** 《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB）全文 110 次提及“科学本位研究”；斯莱文在 AERA 发表杰出讲座，正式提出“[[Evidence-Based Education|证据本位教育]]改革”理论纲领与开发-评估-推广[[Paradigm|范式]]。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–19)]]
+> - **2009–2011 年 — 研发管线与跨国旗舰创设** 美国设立 14 亿美元[[Investing in Innovation Program|创新投资项目]]（i3）分层研发管线；英国政府出资 1.25 亿英镑设立[[Education Endowment Foundation|教育捐赠基金会]]（EEF），开启大规模学校现场实验时代。
+> - **2015 年 — [[Every Student Succeeds Act|ESSA]] 四级法定[[Evidence Standards|证据标准]]确立** 美国通过《每一个学生成功法》（ESSA 2015），正式在联邦法典中确立 TIER 1–4 证据等级，并将 Title I 改进基金与强/中/有希望证据刚性绑定。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
+> - **2017 年 — 审查中枢上线与跨国扩散** [[Evidence for ESSA]] 评级平台正式上线；中国发布《华东师范大学宣言》，开启大规模教育实证研究倡导。[[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021, p. 14)]]
+> - **2019–2021 年 — [[Response to Proven Instruction|RTPI]] 方案成型与全球反思[[Dialogue in Education|对话]]** 斯莱文提出以循证方案充实三层支持的循证干预反应（Response to Tutoring/Proven Intervention, RTPI）蓝图；国际特刊系统总结美、英、中、比等七国实践与学术反思。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 27–29)]]; [[Argument_Cheung_2021_ECNUROE|(Cheung & Xie, 2021)]]
+
+---
 
 ## 争议与批评
 
+> [!debates] 学术争议
+>
+> > [!axis] 实验方法（[[Randomised Controlled Trials|RCT]]）的优先地位 vs [[External Validity|外部效度]]与方法多元论
+> > 争论 EBR 将 RCT 置于证据金字塔顶端是否构成对特定研究方法的特权化。
+> >
+> > - **循证规范派（Slavin, 2019）** 遵循方法匹配问题原则（Method-to-Question [[Matching]]）：当核心问题是“某方案相比替代方案是否有效”时，实验设计是最佳设计；大样本整群设计与[[Hierarchical Linear Model|分层线性模型]]（Hierarchical Linear Model, HLM）分析已有效保障了外部概化力。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 26, 29)]]
+> > - **[[Critical Realism|批判实在论]]与方法多元论（Wrigley, 2018; Cowen, 2019; Biesta, 2010）** 指出 RCT 依赖高度受控环境，教师的主观热情既是干预显效的[[Necessary and Sufficient Conditions|必要条件]]也是实验污染源；过度聚焦“何者有效”排除了“为何有效”、“对谁有效”及质性情境理解。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, pp. 5–7)]]; [[Argument_Cowen_2019_ERE|(Cowen, 2019)]]
+>
+> > [!axis] 预包装结构化项目采纳 vs 教师微观情境专业裁量
+> > 争论学校究竟应当严格执行标准化商业项目，还是依靠教师专业智慧进行自适应调整。
+> >
+> > - **方案保真派（Slavin, 2019）** 坚信没有高保真度就没有效果，反对将教育改革责任推给教师自研，主张提供完整教材与培训。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 22)]]
+> > - **专业能动性派（Biesta, 2010; Peterson, 2016）** 强调教育是目的性实践，教师需要基于伦理判断“什么是教育上值得做的”；且黑箱项目在跨校推广时面临结构性改编阻力，应转向提炼可迁移的教学微观机制。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 499–501)]]; [[Argument_Peterson_2016_IJRME|(Peterson, 2016, pp. 301–305)]]
+>
+> > [!axis] 中文教育哲学传统对证据本位[[Paradigm|范式]]的五类本土质疑
+> > 中国学者对[[Positivism|实证主义范式]]的系统学术审思（Slavin et al., 2021, pp. 15–17）：
+> >
+> > - **定义之争（石中英）** 区分广义数据观察实证与狭义程序化定量实证；
+> > - **“统计主义”批判（李军）** 警惕聚焦方法而忽视问题、将研究窄化为统计操作而排斥教育价值与情感；
+> > - **价值不可量化（王卫东）** 强调关乎未来的伦理抉择无法被当下量化数据所穷尽，思辨研究是实证研究的前提；
+> > - **现实数据困境（杨振东等）** 揭示高质量追踪数据获取受限与研究者培训不足；
+> > - **实证 $\ne$ 定量（潘洪建）** 主张[[Ethnography|民族志]]等质性实证方法同样具有产生坚实证据的合法地位。
 
-### 概化问题：RCT 的外部效度
+> [!warning] 适用局限
+> - **证据供给不平衡** K–12 早期阅读和初等数学领域强证据丰富，但在艺术、高中心理健康和科学探究领域，合规项目依然匮乏。
+> - **清算中心评级[[Heterogeneity|异质性]]** 跨机构调查显示（Wadhwa et al., 2024），不同[[Educational Evidence Clearinghouses|证据清算中心]]由于门槛、[[Attrition|流失]]率标准和[[Effect Size|效应量]]算法不同，对同一项目的评级一致率仅约 30%，表明审查平台本身亦需方法学透明度审视。
 
-**争议背景**[[Randomised Controlled Trials|RCT]] 在高度控制的条件下实施，其结果能否推广至不同类型的学校、学生和教师情境？这是 EBR 面临的最持久的批评之一。
+---
 
-**各方立场**
-- **批评者**[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 指出 RCT 中教师的热情（human will）是"必要但也是污染的"——使干预有效但也使其不可复制。当项目从研究环境扩展到全国实施时，实施质量和支持条件不可同日而语。
-- **[[Argument_Slavin_2019_EP|Slavin (2019, pp. 7–8)]] 的回应** 现代实验要求聚类级别分析（40–50 所学校），大大提升了[[External Validity|外部效度]]；Evidence for ESSA 报告每项研究的人口统计信息，供教育者自行判断与自身情境的匹配度。
+## 实证数据
 
-**目前状态** 此争议在方法论[[Document|文献]]中持续，尚未有共识标准来判断"多大的外部效度是足够的"。
+> [!effect-table]- 原始研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Slavin_2019_EP\|Borman et al. (2007, as cited in Slavin, 2019, p. 24)]] | 全校改革项目：[[Success for All]] vs [[Business as Usual\|常态教学]] | K–2 年级阅读成就 | 5 项独立大规模试验 | — | $+0.41$ | $p < .05$（ESSA 强证据） | 整群 RCT / 准实验；全校统整阅读干预 |
+> | [[Argument_Slavin_2019_EP\|Fuchs et al. (1997, as cited in Slavin, 2019, p. 24)]] | 全班教学方案：[[Peer-Assisted Learning Strategies\|PALS]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | $+0.58$ | $p < .05$（ESSA 中等证据） | 整群实验；同伴互助学习策略 |
+> | [[Argument_Slavin_2019_EP\|Torgesen et al. (2001, as cited in Slavin, 2019, p. 24)]] | 教师小组辅导：[[Lindamood Phoneme Sequencing\|LiPS]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | $+0.64$ | $p < .05$（ESSA 强证据） | 针对阅读落后学生的语音意识与音素结构干预 |
+> | [[Argument_Slavin_2019_EP\|Chambers et al. (2011, as cited in Slavin, 2019, p. 24)]] | [[Teaching Assistant\|助教]]小组辅导：Lightning Squad vs 常态教学 | 1–3 年级阅读成就 | 3 项试验 | — | $+0.34$ | $p < .05$（ESSA 强证据） | 教学助教主导的结构化计算机辅助协作阅读 |
+> | [[Argument_Slavin_2019_EP\|May et al. (2016, as cited in Slavin, 2019, p. 24)]] | 教师一对一辅导：[[Reading Recovery]] vs 常态教学 | 1 年级阅读成就 | 4 项试验 | — | $+0.42$ | $p < .05$（ESSA 强证据） | 专业教师一对一辅导，成本较高但效果稳定 |
+> | [[Argument_Slavin_2019_EP\|Jacob et al. (2016, as cited in Slavin, 2019, p. 24)]] | 助教一对一辅导：[[Reading Rescue]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | $+0.81$ | $p < .05$（ESSA 中等证据） | 教学助教一对一密集阅读辅导 |
+> | [[Argument_Slavin_2019_EP\|Fuchs et al. (2013, as cited in Slavin, 2019, p. 25)]] | 助教小组辅导：[[Fraction Face-Off!]] vs 常态教学 | 4 年级分数计算与概念 | 2 项试验 | — | $+0.51$ | $p < .05$（ESSA 强证据） | 助教指导的小组分数针对性强化干预 |
+> | [[Argument_Slavin_2019_EP\|Clarke et al. (2016, as cited in Slavin, 2019, p. 25)]] | 助教小组辅导：[[ROOTS]] vs 常态教学 | 1 年级数学基础能力 | 2 项试验 | — | $+0.24$ | $p < .05$（ESSA 强证据） | 早期数学概念与数字感小组干预 |
+> | [[Argument_Slavin_2019_EP\|Torgerson et al. (2011, as cited in Slavin, 2019, p. 25)]] | 教师一对一辅导：[[Numbers Count]] vs 常态教学 | 1–2 年级数学成就 | 1 项试验 | — | $+0.33$ | $p < .05$（ESSA 强证据） | 专业数学教师一对一干预 |
+> | [[Argument_Slavin_2019_EP\|Fuchs et al. (2008, as cited in Slavin, 2019, p. 25)]] | 助教一对一辅导：Tutor-Assisted Math [[Problem Solving]] vs 常态教学 | 3 年级数学问题解决 | 1 项试验 | — | $+0.42$ | $p < .05$（ESSA 强证据） | 助教辅导数学应用题与问题解决 |
 
-### 对实验方法的特权：方法匹配还是方法霸权？
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 美国 i3/[[Entrepreneur in Residence\|EIR]] 资助项目（171 项）与英国 [[Education Endowment Foundation\|EEF]] 资助项目（180+ 项） | 政策项目库统计与系统评价 | 达到 [[Every Student Succeeds Act\|ESSA]] 强与中等标准的阅读与数学方案数 | 约 100 个合规方案（阅读与数学） | — | 仅涵盖达标审查的 K-12 阅读与数学方案，科学/艺术领域依然匮乏 |
+> | [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] | 法语比利时《[[Pact for Educational Excellence\|教育卓越公约]]》证据库（70 项教育资源） | 本土证据库分类普查 | 本土因果实验方案占比 | 本土严谨实验设计仅占 3%（2 项） | — | 说明非英美国家在推进 EBR 初期面临严重的本土实验方案存量不足瓶颈 |
 
-**争议背景** EBR 将 RCT 置于证据层级的顶端，被批评为对一种特定研究方法的特权化——忽视了定性方法、[[Quasi-Experimental Designs|准实验设计]]和实践者知识的独特贡献。
+---
 
-**各方立场**
-- **[[Argument_Slavin_2019_EP|Slavin (2019, p. 9)]]** 这不是对方法的特权，而是"方法匹配问题"——当问题是"与替代方案相比这个项目是否有效"时，实验是最佳设计。不同的[[Research Question|研究问题]]需要不同的方法。
-- **[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]]** 提出平衡立场——"长期来看，[[Random Assignment|随机化]]和严格匹配实验的混合比单一依赖随机化实验更健康"，但当前政治窗口需要"建立最高可能的[[Evidence Standards|证据标准]]"来展示教育研究能做什么。这与其 2019 年更明确的 RCT 优先立场有所不同。
-- **[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]** 问题恰恰在于 EBR 只允许"与替代方案相比这个项目是否有效"这一种问题——它系统性地排除了"这个项目为什么有效/无效？""对谁有效？""在什么条件下有效？"等同样重要的问题。
-- **[[Argument_Cowen_2019_ERE|Cowen (2019)]]** 从制度逻辑出发——RCT 的"优先地位"并非[[Epistemology|认识论]]优越性的结果，而是因为它对主权者（政策制定者）最"透明"——事先注册的方案和形式化的[[Effect Size|效应量]]使非专业决策者得以"审查"研究质量。
+## 相关研究
 
-**目前状态** 方法多元论的呼声在学术界广泛存在([[Argument_Cowen_2019_ERE|Cowen, 2019]]; [[Argument_Biesta_2010_SPE|Biesta, 2010]]; Hammersley, 2005)，但 ESSA 证据标准的法律效力已赋予 RCT 制度化的优先地位。
-
-### 法语比利时案例：证据层级的语境化妥协
-
-法语比利时[[Pact for Educational Excellence|教育卓越公约]]显示，证据本位改革进入非英美语境时，常常不能直接复制 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 式的证据等级。2017 年工作组列出 425 个教学工具/项目，其中只有 61 个曾被教育研究者测试，只有 13 个即约 3% 采用实验设计；若严格套用实验优先的证据层级，几乎 97% 的候选工具会被排除([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.175]])。
-
-因此，改革团队建立了一个包容性验证类型学，把专家验证、[[Case Study|案例研究]]、横断研究、相关或[[Longitudinal Study|纵向研究]]、实验与准[[Experimental Research|实验研究]]纳入同一框架，并为不同方法设置最低质量标准。这个选择不是否定实验研究，而是在本地证据库薄弱、学科教学专家参与教师培养且政治上需要协作的条件下，把实验方法作为逐步提高标准的方向，而不是一开始就作为排除性门槛([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.175-180]])。
-
-这一案例补充了 EBR 的实施条件：Slavin 的三条件假定已经存在足够多“经验证项目”和面向教师的综述，但在法语比利时，第一项条件仍只是起步，第二项还受英语文献屏障限制；相对明确的进展是官方建议为学校实验和严格评价设置约 200 万欧元预算，体现第三项“提供实施资源”的制度基础([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.179-181]])。
-
-### 证据 vs. 专业判断：谁会最终做出决策？
-
-**争议背景**[[Argument_Slavin_2019_EP|Slavin (2019)]] 明确反对"证据知情"（evidence-informed）的弱版本——"教师难以将通用原则转化为有效实践，不使用结构化材料和专业培训就会退回惯常方法"。这一立场与 Hammersley (2005)、Biesta (2007a, 2010) 对[[Teacher Professional Agency|教师专业自主权]]的辩护直接对立。
-
-**各方立场**
-- **[[Argument_Slavin_2019_EP|Slavin (2019)]]** 教师需要经过验证的结构化项目而非通用原则——"等待教师自行开发或发现有效方法是无效的"，政府应通过拨款激励学校采用已验证项目。
-- **[[Argument_Biesta_2010_SPE|Biesta (2010, pp. 499–501)]]** 教育是目的性实践（teleological practice）——教师不仅需要判断"什么有效"，更需要判断"什么是教育上值得做的"。后者是价值判断，无法被实验证据替代。
-- **中间立场**Hammersley (2005) 论证研究证据和教师[[Professional Judgment|专业判断]]应互补而非替代——证据可以"告知"实践，但不能"决定"实践。
-
-**目前状态** 此张力在政策实践中体现为 ESSA"必须使用已验证项目"的命令与课堂教师"基于情境调整实施"的需要之间的持续摩擦。
-
-### 证据标准与地方决策信息的断裂
-
-Ross and Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示，EBR 的政策工具把注意力集中在严格研究、[[Statistical Significance|统计显著性]]和学生成就结果上，但复杂改革常常还有实施质量、教师实践、技术公平、数字公民和学生参与等目标。STAT 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极进展，但学生成就结果并不明确；支持者和反对者因此可以用同一组证据得出不同结论([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.121-123]])。
-
-这一案例把 EBR 的争议从“证据是否严格”推进到“哪些结果值得进入证据标准”。若政策只承认短期标准化成就增益，许多[[Technology Infusion|技术整合]]或组织变革的价值会被低估；若政策完全放松有效性要求，又会削弱 EBR 原本试图建立的质量门槛([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.110-112, 123]])。
-
-### 程序采纳假设批判([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
-
-**争议背景**[[Argument_Peterson_2016_IJRME|Peterson (2016)]] 从实施可行性角度批判了 EBR 的核心运作[[Hypothesis|假设]]——即学校决策者可以随意采纳和实施教学程序项目。她指出"有多层决策者共同决定学校中发生的事情，从教育部长到教师。在一个情境中试验过的项目几乎不可能在另一个情境中完整实施：总是需要对当地学校和系统进行某种改编"（p. 305）。
-
-**核心论证([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302, 305]])**
-
-1. **项目采纳 ≠ 项目实施** 黑箱 RCT 评估的项目即使在试验中有效，推广至新情境时面临结构性改编需求——"知识由实验产生只有在更细粒度时才更可能有用；与其决定使用哪个预包装项目，教师需要详细的教学法和教学内容知识：哪些具体行动或策略能帮助学生学习"（p. 305, citing Villegas-Reimers, 2003, p. 39）
-
-2. **医学产品类比失效** WWC and [[EEF Teaching and Learning Toolkit|EEF Toolkit]] 隐式假设"经过验证的教育方法可以像产品一样被选择并提供给学生"，但这"仅适用于一个窄小的潜在有用教育实践范围"（p. 301, citing Howe, 2004, p. 45）
-
-3. **规模扩展的结构性障碍** 美国超 90% [[Effectiveness Trial|有效性试验]]无影响，EEF 仅 1 项有效性试验有明确效果——这些数据不是随机的执行失败，而是**系统性的**，指示黑箱取向本身限制了规模影响的可能性（pp. 301–302）
-
-**政策含义** Peterson 的批判不要求放弃 EBR 的证据标准，但要求从根本上改变证据的**单位**——从认证完整项目转向编目可迁移的"活性成分"机制——与 Slavin 的 RTPI 框架形成潜在[[Dialogue in Education|对话]]（两者都试图填充证据本位层级，但 Peterson 主张以机制而非项目为单位）。
-
-### EEF Toolkit 的方法论争议
-
-见上文「Toolkit and Hattie 的方法论批评」中 Wrigley (2018) 和 Simpson (2017) 的三层技术批评。核心争议在于：Toolkit 的"[[Meta-meta-analysis|元-元分析]]"形式（以单一效应量排名 30+ 类干预）是否将统计简化推至了产生系统性误导的程度？Simpson 用 Fresh Start 案例（声称 +0.24SD 在匹配子集分析中消失）论证答案是肯定的。
-
-## 与相关概念的比较
-
-> [!example] 与相关概念的比较
-> - **vs [[Evidence-Based Education]]** — EBE 是理念，EBR 是政策实现机制
-> - **vs [[Evidence-Informed Practice]]** — Slavin 明确反对"证据知情"的弱版本：教师难以将通用原则转化为有效实践，不使用结构化材料和专业培训就会退回惯常方法
-> - **vs Cowen/Biesta 的批判** — 直接对立：Biesta 说"价值先于证据"，Slavin 说"不实验比较就是在黑暗中飞行"；Cowen 说"切断问责捆绑"，Slavin 说"政府激励是[[Necessary and Sufficient Conditions|必要条件]]"
-
-### Toolkit and Hattie 的方法论批评
-
-[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 和 Simpson (2017) 对 [[Education Endowment Foundation|EEF]] Toolkit 提出系统性技术批评：
-
-- **混合苹果和橙子** 不同性[[Qualitative Research|质的研究]]以技术标准而非理论标准被纳入同一[[Meta-analysis|元分析]]——衡量"反馈"的数十项[[Research Utilization|研究使用]]不同的定义、学科、年龄层和结果测量，被聚合为一个平均[[Effect Size|效应量]]
-- **效应量失真** 三个系统性偏差来源——(1) 控制组性质不明（一切照旧 vs 零条件）；(2) 研究人口范围受限自动放大效应量（SD在分母中缩小）；(3) 窄化成果测量比一般测量产生更大效应量
-- **研究误读** Blatchford 的[[Teaching Assistant|教学助理]]研究实际揭示的是结构性使用不当，Toolkit 却将其简化为"低影响/高成本"——可在预算削减中被用于错误的人事决策
-- **实证结果错误** Fresh Start [[Randomised Controlled Trials|RCT]] 声称 +0.24SD 进步在匹配子集分析中消失——"三个月的额外进步"是[[Random Assignment|随机化]]失败的幻象
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Slavin_2002_ER|Slavin (2002)]] — 证据本位改革奠基之作，系统阐释开发-评估-推广[[Paradigm|范式]]与反思教育研究声誉危机。
+> - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统总结 15 年来三条件基础设施突破与 [[Response to Proven Instruction|RTPI]] 方案蓝图。
+> - [[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] — 跨国比较视域下的中美英循证改革演进与对中国学者五类质疑的理论辨正。
+> - [[Argument_Cheung_2021_ECNUROE|Cheung & Xie (2021)]] — ECNUROE 特刊导言，以 COVID-19 疫苗试验类比教育实验，呈现全球过去、现在与未来图景。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] — 剖析欧洲大陆软法协调机制下的证据知情政策路径与多语言语境张力。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 探讨三条件框架下地方可用性信息（成本、技术支持）对学区采购决策的关键影响。
+> - [[Argument_Dachet_2021_ECNUROE|Dachet & Baye (2021)]] — 法语比利时《[[Pact for Educational Excellence|教育卓越公约]]》案例，展示低实验存量环境下的包容性验证类型学过渡策略。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对 [[Randomised Controlled Trials|RCT]] 概化力、[[Effect Size|效应量]]失真与[[Teaching Assistant|助教]]去情境化评价的批判性考察。
+> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 对将教育简化为分层因果干预的技术主义与工具理性提出哲学反思。
+> - [[Argument_Peterson_2016_IJRME|Peterson (2016)]] — 从微观实施机制与活性成分视角批判预包装完整项目的采纳[[Hypothesis|假设]]。

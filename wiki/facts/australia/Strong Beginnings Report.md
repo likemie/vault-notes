@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/neuroscience
   - theme/accountability
 related_concepts:
+  - "[[Initial Teacher Training]]"
   - "[[Attrition]]"
   - "[[School Leadership]]"
   - "[[Effective Teaching]]"
@@ -38,6 +39,7 @@ related_persons:
   - "[[John Sweller]]"
 related_facts:
   - "[[Teacher Education Ministerial Advisory Group]]"
+  - "[[Early Steps]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Community Innovation Survey]]"
@@ -48,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 
 # Strong Beginnings Report
@@ -59,9 +61,9 @@ updated: 2026-07-13
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2023年正式发布，由澳大利亚联邦教育部长杰森·克莱尔（Jason Clare）于2022年9月任命的教师教育专家小组（Teacher Education Expert Panel, TEEP）起草。[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]])
-> - **适用地区 / 对象** 适用于澳大利亚全国初始教师教育（Initial Teacher Education, ITE）提供商（大学）与职前教师。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
+> - **适用地区 / 对象** 适用于澳大利亚全国[[Initial Teacher Training|初始教师教育]]（Initial Teacher Education, ITE）提供商（大学）与职前教师。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **问题背景** 政策发起于全国性严重的教师[[Attrition|流失]]与短缺危机，但政府倾向于将危机表征为教师培训质量缺陷与“课堂准备度”不够。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]])
-> - **制度位置** 延续了2015年《行动方案》（[[Teacher Education Ministerial Advisory Group|TEMAG]] Report）与2021年优质初始教师教育（QITE）审查报告（*Next Steps*）的惩罚性问责逻辑，但首次将脑科学转向作为核心特征。
+> - **制度位置** 延续了2015年《行动方案》（[[Teacher Education Ministerial Advisory Group|TEMAG]] Report）与2021年优质初始教师教育（QITE）审查报告（*[[Early Steps|Next Steps]]*）的惩罚性问责逻辑，但首次将脑科学转向作为核心特征。
 
 ---
 
@@ -72,7 +74,7 @@ updated: 2026-07-13
 
 > [!policy-design]- 政策设计
 > - **目标** 重构教师教育课程体系，使其完全对齐[[Cognitive Load Theory|认知负荷理论]]等脑科学与认知结构模型，以提升职前教师的课堂教学效能。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3, pp. 5–6]])
-> - **对象** 初始教师教育（ITE）项目开发团队与大学职前教师。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
+> - **对象** [[Initial Teacher Training|初始教师教育]]（ITE）项目开发团队与大学职前教师。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **工具** 国家初始教师教育认证标准与程序大纲附表、质量保证委员会（ITE Quality Assurance Board）审计评估。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **约束方式** 标准化课程规范、毕业生教师标准（1.1和1.2）强制对齐，并与大学绩效资金拨付强制挂钩。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
 
@@ -88,7 +90,7 @@ updated: 2026-07-13
 > [!timeline] 政策时间线
 > - 2022-09 教师教育专家小组正式成立。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]])
 > - 2023 报告起草完成并向全国公布，提出14项政策建议。
-> - 2025（预计）核心内容强制嵌入全国所有 ITE 项目认证中。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 6]])
+> - 2025（预计）核心内容强制嵌入全国所有 [[Initial Teacher Training|ITE]] 项目认证中。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 6]])
 
 ---
 
@@ -96,7 +98,7 @@ updated: 2026-07-13
 
 > [!actor-grid] 实施主体与机制
 > - **发布主体** 澳大利亚联邦政府教育部、以马克·斯科特（Mark Scott）为主席的教师教育专家小组。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]])
-> - **执行主体**[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]] (AITSL) 负责标准添加；大学等 ITE 提供商负责具体的教学内容实施与对齐。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
+> - **执行主体**[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]] (AITSL) 负责标准添加；大学等 [[Initial Teacher Training|ITE]] 提供商负责具体的教学内容实施与对齐。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **监管主体** 通过设立独立的初始教师教育质量保证委员会（ITE Quality Assurance Board）对大学课程改造和标准合规度实施直接审查。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **政策工具** 法定认证附表（四大核心：大脑与学习、[[Effective Teaching|有效教学]]实践、[[Classroom Management|课堂管理]]、回应性教学）、绩效准入评估与惩罚性绩效资金。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
 

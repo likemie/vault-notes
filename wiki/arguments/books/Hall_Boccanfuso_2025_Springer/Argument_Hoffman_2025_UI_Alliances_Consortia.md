@@ -44,6 +44,7 @@ related_facts:
   - "[[Advanced Manufacturing Research Centre]]"
   - "[[National Science Foundation]]"
   - "[[Manufacturing USA]]"
+  - "[[Early Reading Intervention]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025|Ch6_Hoffman_Radasch_Thorsell_2025]]"
@@ -57,7 +58,7 @@ title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_key: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_display_title: "University-Industry Alliances and Consortia"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -203,7 +204,7 @@ citation_aliases:
 >
 > 19. 这一步的论证力量在于它直接印证了第一层中"价值主张"和"共同痛点"的逻辑。Ridgway and Allen 从"产业需要什么"出发（"你们都在独立烧钱解决同一个问题，为什么不合伙烧？"），不从"大学有什么"出发（"我们有一个世界一流的材料科学系"）。
 >
-> > 同样的逻辑可以应用于教育领域。五个大型学区都在独立开发各自的"早期阅读干预"方案，每个学区每年花 $200K 请咨询公司做评估和培训。如果这五个学区和一所大学的教育学院成立联合体——共同投入资金和教师时间，大学提供研究设计和数据分析能力——同样的 $1M 年预算可以支撑一个比任何单一学区方案都更严格、样本更大的研究项目。这个提议的说服力来自一个简单的事实，"你们已经在烧钱了，不如一起烧出更大的火"。
+> > 同样的逻辑可以应用于教育领域。五个大型学区都在独立开发各自的"[[Early Reading Intervention|早期阅读干预]]"方案，每个学区每年花 $200K 请咨询公司做评估和培训。如果这五个学区和一所大学的教育学院成立联合体——共同投入资金和教师时间，大学提供研究设计和数据分析能力——同样的 $1M 年预算可以支撑一个比任何单一学区方案都更严格、样本更大的研究项目。这个提议的说服力来自一个简单的事实，"你们已经在烧钱了，不如一起烧出更大的火"。
 >
 > 20. 2001 年 AMRC with Boeing 正式启动，波音是唯一创始成员。初创阶段有三个关键动作(p.114)：
 >     - **品牌背书** 将"with Boeing"纳入联合体名称，在名片、标牌和团队服装上使用波音标志——波音的品牌为 AMRC 打开了其他 OEM 和供应商的大门

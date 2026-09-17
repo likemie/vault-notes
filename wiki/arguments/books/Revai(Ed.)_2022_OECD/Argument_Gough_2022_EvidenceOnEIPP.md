@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 71
+argument_related_count: 72
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -81,6 +81,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[School Inspection]]"
   - "[[Construct]]"
+  - "[[Initial Teacher Training]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Self-Efficacy]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -402,7 +403,7 @@ sources:
 >   3. **专业期刊媒介专栏** 在主流专业教育期刊与教学杂志上开设专栏深度解读实证识字教法；
 >   4. **低交互网络资源支持** 提供在线资源库与配套网络研讨会（Webinar）链接供教师按需浏览。
 > - **独立因果评估与统计学零效应发现**
->   评估以英格兰全国统一考试（Key Stage 2, KS2）的小学毕业阅读与写作标准化成绩作为终极因果产出指标，并同步开展大样本教师[[Questionnaire|问卷调查]]与课堂教学观察。经过严格的[[Intent-to-Treat Analysis|意向性分析]]（Intention-to-Treat, ITT），**评估证实：没有任何证据表明上述任何一种单一信息传播策略在改善学生 KS2 识字成绩上产生了统计学显著的正向效果（[[Effect Size|效应量]]均接近于 0）；即使教师阅读了推送材料，其实际课堂教学策略与提问互动也未发生可识别的系统性转变**。
+>   评估以英格兰全国统一考试（Key Stage 2, KS2）的小学毕业阅读与写作标准化成绩作为终极因果产出指标，并同步开展大样本教师[[Questionnaire|问卷调查]]与课堂教学观察。经过严格的[[Intent-to-Treat Analysis|意向性分析]]（Intention-to-Treat, [[Initial Teacher Training|ITT]]），**评估证实：没有任何证据表明上述任何一种单一信息传播策略在改善学生 KS2 识字成绩上产生了统计学显著的正向效果（[[Effect Size|效应量]]均接近于 0）；即使教师阅读了推送材料，其实际课堂教学策略与提问互动也未发生可识别的系统性转变**。
 > - **方法论判定结论**
 >   该试验以无可辩驳的高质量因果证据推翻了单向学术推介（Research Push）模式，彻底击碎了假定“只要将研究成果以通俗生动的形式推送给实践者就能驱动实践改进”的信息赤字假设（Information [[Deficit Model of Science Communication|deficit model]]）。单纯的信息传播与实际利用之间不存在必然因果联系，孤立的单向推送在跨越实践转化鸿沟时注定失效。
 

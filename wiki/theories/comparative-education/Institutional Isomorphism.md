@@ -9,10 +9,10 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - paradigm/interpretivist
   - subject/comparative-education
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Knowledge Production]]"
   - "[[Evidence Era]]"
+  - "[[Initial Teacher Training]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Constructivist Paradigm]]"
@@ -144,7 +145,7 @@ updated: 2026-09-17
 > ```
 
 > [!exegesis]- 教育研究例子
-> 以大学教师教育机构的转型为例：在英格兰，大学初始教师培训机构面临教育部的准入资质与审查指标（**强制型同构**）；面对市场化生源竞争与有效性争议的不确定性，各大学纷纷设立“临床教学诊所”或参照顶尖名校标准（**模仿型同构**）；同时，大学导师与培训负责人积极参与特许教学学院制定的循证核心框架（**规范型同构**）。最终，尽管各大学传统迥异，其教师教育课程均收敛为高度一致的模块化循证结构。
+> 以大学教师教育机构的转型为例：在英格兰，大学[[Initial Teacher Training|初始教师培训]]机构面临教育部的准入资质与审查指标（**强制型同构**）；面对市场化生源竞争与有效性争议的不确定性，各大学纷纷设立“临床教学诊所”或参照顶尖名校标准（**模仿型同构**）；同时，大学导师与培训负责人积极参与特许教学学院制定的循证核心框架（**规范型同构**）。最终，尽管各大学传统迥异，其教师教育课程均收敛为高度一致的模块化循证结构。
 
 ---
 

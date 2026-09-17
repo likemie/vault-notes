@@ -30,12 +30,14 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Document]]"
   - "[[Policy Network]]"
+  - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Technical Rationality]]"
   - "[[Gatekeepers]]"
   - "[[Reliability]]"
   - "[[Critique of Evidence-Based Education]]"
+  - "[[Epistemological Coherence]]"
   - "[[Hypothesis]]"
   - "[[Policy Brokerage]]"
   - "[[Doxa]]"
@@ -49,7 +51,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Triangulation]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Action Research]]"
   - "[[Qualitative Interview]]"
@@ -59,6 +60,8 @@ related_persons:
   - "[[Bertrand Russell]]"
 related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
+  - "[[Initial Teacher Training Core Content Framework]]"
+  - "[[Teacher Training Agency]]"
   - "[[Teaching Schools]]"
   - "[[The Importance of Teaching]]"
   - "[[Education Endowment Foundation]]"
@@ -77,7 +80,7 @@ title: "Argument_Helgetun_2022_JEP"
 argument_key: "Argument_Helgetun_2022_JEP"
 argument_display_title: "From an age of measurement to an evidence era? Policy-making in teacher education in England"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -132,7 +135,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **文本样本** | 46 份核心政策文献（覆盖 1983 年《教学质量》白皮书、1989 年第 24/89 号通令、2010 年《教学的重要性》白皮书、2014/2015 年卡特审查、2019 年早期职业框架等）。 |
+> | **文本样本** | 46 份核心政策文献（覆盖 1983 年《教学质量》白皮书、1989 年第 24/89 号通令、2010 年《教学的重要性》白皮书、2014/2015 年卡特审查、2019 年[[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]等）。 |
 > | **访谈样本** | 20 位高层精英受访者（涵盖 A1 至 A20 编号的关键政策知情人、外部顾问及执行官员）。 |
 > | **材料情境** | 历时性追踪跨度达 36 年，深入捕捉新工党时期到保守党执政联盟时期的制度变迁脉络。（pp. 89–91） |
 
@@ -140,8 +143,8 @@ issuing_organization: ""
 > | 受访者编号 | 职务与所属机构类别 | [[Policy Network\|政策网络]]位置与角色特征 |
 > |---|---|---|
 > | **A1** | [[Bertrand Russell\|罗素]]大学集团资深学者 | 批判性学者，曾就政策违规向官方提出严正抵制（p. 93） |
-> | **A2** | 罗素大学集团学者 | 教师教育研究者，关注高等教育机构在初始教师培训（Initial Teacher Training, [[Intent-to-Treat Analysis\|ITT]]）中的角色 |
-> | **A3** | ITT 行业利益组织代表、前教师培训署（Teacher Training Agency, TTA）官员 | 外部政府顾问，熟悉公务员体系流动与非正式沟通 |
+> | **A2** | 罗素大学集团学者 | 教师教育研究者，关注高等教育机构在[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training, ITT）中的角色 |
+> | **A3** | ITT 行业利益组织代表、前[[Teacher Training Agency\|教师培训署]]（Teacher Training Agency, TTA）官员 | 外部政府顾问，熟悉公务员体系流动与非正式沟通 |
 > | **A4** | ITT 行业利益组织代表、前校本初始教师培训（School-Centred Initial Teacher Training, SCITT）负责人 | 外部政府顾问，兼具校本培训与行业代表双重身份 |
 > | **A5** | 地方议员兼政策分析师 | 地方教育治理与区域政策执行观察者 |
 > | **A6** | 1992 年后新大学资深学者、外部政府顾问 | 曾主导政府实况审查，深谙报告结论被官方把关的困境 |
@@ -234,7 +237,7 @@ issuing_organization: ""
 
 > [!feature] [[Policy Network|政策网络]]中被赋权的代言机构与审查机制
 > - **官方扶持的专业团体** 政府积极支持创设[[Chartered College of Teaching|特许教学学院]]（Chartered College of Teaching, CCT）与[[Teaching Schools|教学学校]]理事会（Teaching Schools Council, TSC），赋予其核心政策咨询地位，以此重塑符合官方意图的行业代言声音。（p. 93）
-> - **定向委托的政策审查** 通过委任具备特定政治倾向的专家主导审查（如 2014 年[[Carter Review of Initial Teacher Training|卡特审查]]），为推进校本化初始教师培训（SCITT 与 School Direct）提供定制化证据支撑。（p. 90）
+> - **定向委托的政策审查** 通过委任具备特定政治倾向的专家主导审查（如 2014 年[[Carter Review of Initial Teacher Training|卡特审查]]），为推进校本化[[Initial Teacher Training|初始教师培训]]（SCITT 与 School Direct）提供定制化证据支撑。（p. 90）
 > - **合作与抵制的权力非对称** 外部专家普遍抱持必须成为团队一员以施加影响的合作妥协心态；而极少数选择正面对抗荒谬政策的学者则面临退出机制与舆论边缘化的惩罚。
 
 > [!warrant]- 行政依附与证据前置顺从机制
@@ -257,7 +260,7 @@ issuing_organization: ""
 ### 论证步骤三　非正式中介流通与官僚高流动率割裂了证据转化中的全流程认识论连贯性
 
 > [!claim] 步骤三核心主张
-> 公务员高流动率、政策网络分化以及社交媒体意见领袖的崛起，使证据流通高度依赖非正式人际网络与口口相传，导致学术研究在去语境化的[[Transfer Translation Transformation|转译]]与引用中割裂了从构思到应用的认识论连贯性，加剧了政策实践中的伪科学风险。（pp. 94–96）
+> 公务员高流动率、政策网络分化以及社交媒体意见领袖的崛起，使证据流通高度依赖非正式人际网络与口口相传，导致学术研究在去语境化的[[Transfer Translation Transformation|转译]]与引用中割裂了从构思到应用的[[Epistemological Coherence|认识论连贯性]]，加剧了政策实践中的伪科学风险。（pp. 94–96）
 
 #### 1. 官僚频繁轮岗与新媒体意见领袖的口口相传加剧证据脱语境化与碎片化
 
@@ -273,7 +276,7 @@ issuing_organization: ""
 #### 2. 抵御政策伪科学要求以全流程认识论连贯性重构公共对话与专业边界
 
 > [!implication] 学术共同体维护认识论连贯性的规范路径
-> - **全流程认识论连贯性** 严密的科学逻辑必须完整贯穿于研究构思、实地观察、数据分析直至政策转化的全链条，明确单项 RCT 等定量工具的外推边界与适用条件。（p. 96）
+> - **[[Epistemological Coherence|全流程认识论连贯性]]** 严密的科学逻辑必须完整贯穿于研究构思、实地观察、数据分析直至政策转化的全链条，明确单项 RCT 等定量工具的外推边界与适用条件。（p. 96）
 > - **厘清真知与常识教条的界限** 在制度层面严格区分经过审慎同行评议检验的科学真知（episteme）与流于表面的流行常识或政治教条（[[Doxa]]），防止非科学主张借助证据外衣侵蚀教育实践。
 > - **构建主动介入的公共[[Dialogue in Education|对话]]机制** 学者与大学机构应打破封闭的学院壁垒，主动进入博客、社交媒体与智库网络，以透明的方法论标准与政府及公众开展专业对话，在抵制伪科学的同时引导政策循证实践走向严谨与自省。
 
@@ -306,8 +309,8 @@ issuing_organization: ""
 >
 > *With government as a gatekeeper, actors seem more worried about how a policy will 'land' with ministers and the DfE than with whether or not it is the best thing to do... ‘So, if I had written a report that was different, the government could just say: Thank you very much for your report. It would never get published.’*
 
-> [!citation-card] 全流程[[Epistemology|认识论]]连贯性与识别伪科学
-> 从证据生产（从构思、观察到分析的连贯研究逻辑）到实际应用（循证政策延续同一逻辑），连贯的逻辑必须贯穿始终；否则无论单个环节效度如何，整个流程都无法被视为稳健。如果要将真知与意见区分开来，学者必须以严谨的认识论清晰度与政府合作，不仅要抵制荒谬言论，更要指明荒谬何在并加以避免。（p. 96）
+> [!citation-card] 全流程[[Epistemological Coherence|认识论连贯性]]与识别伪科学
+> 从证据生产（从构思、观察到分析的连贯研究逻辑）到实际应用（循证政策延续同一逻辑），连贯的逻辑必须贯穿始终；否则无论单个环节效度如何，整个流程都无法被视为稳健。如果要将真知与意见区分开来，学者必须以严谨的[[Epistemology|认识论]]清晰度与政府合作，不仅要抵制荒谬言论，更要指明荒谬何在并加以避免。（p. 96）
 >
 > *Important in this regard, we believe coherent logic should extend from the start of evidence production to application... if the goal is to separate episteme from [[Doxa]] and to [[Construct]] valid evidence for informing any practice... not just to stand up to nonsense, but to identify what is nonsense, how is it nonsense, and how can we avoid it.*
 

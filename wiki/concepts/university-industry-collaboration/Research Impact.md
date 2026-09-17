@@ -10,7 +10,7 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,6 +49,7 @@ related_facts:
   - "[[Research Excellence Framework]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[UK Knowledge Exchange Framework]]"
+  - "[[Reach]]"
   - "[[What Works Network]]"
   - "[[OECD]]"
   - "[[Research Schools Network]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Research Impact
@@ -100,7 +101,7 @@ updated: 2026-09-13
 ## 核心要素
 
 > [!feature] 核心要素
-> - **可证实性与社会外在性（Demonstrability & External Reach）**
+> - **可证实性与社会外在性（Demonstrability & External [[Reach]]）**
 >   影响力必须超越高校与学术圈内部，对外部真实世界的政策、产业、社区或个体产生可识别的实质性积极改变，并具备可供第三方审计的外部证明材料。
 > - **多元化实现路径（Pluralistic Impact Pathways）**
 >   科研成果向社会效益的转化不拘泥于单一途径，涵盖医疗健康指南革新、环境监管政策修订、工业制造效率提升、[[Citizen Science|公民科学]]素养培育与地方文化繁荣等多维场景。

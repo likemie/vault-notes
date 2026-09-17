@@ -8,7 +8,7 @@ aliases:
 summary: "教育实证研究向实践转化的最高介入形态，指将因果证据直接封装进高结构化教学工件（如预制教案与软件规程）或法定制度要求（拨款门槛），免除一线教师自行检索解读统计证据的认知负荷"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Effective Teaching]]"
   - "[[Implementation Fidelity]]"
+  - "[[Initial Teacher Training]]"
   - "[[Causality]]"
   - "[[Chain of Evidence]]"
   - "[[School Leadership]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Engineered Evidence
@@ -113,7 +114,7 @@ updated: 2026-09-16
 > - **中观组织支持与实施支架层（Implementation Scaffolds）**
 >   配套建立专家技术支持热线、标准化服务台与高保真度操作规程，为使用工程化工件的学校提供实时技术援助，确保教学工件在跨情境落地时维持极高的[[Implementation Fidelity|实施保真度]]（Implementation Fidelity）。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 578)]]
 > - **宏观法定治理与财政约束层（Macro-statutory Governance）**
->   通过国家立法确立公共教育财政拨款与高等级独立因果证据的硬性挂钩机制（如美国 [[Every Student Succeeds Act|ESSA]] 与 i3 计划），将未经实证检验的商业教学项目排除在公共资助之外；同时在职前教师培训（Initial Teacher Training, ITT）与持续专业发展（Continuing Professional Development, CPD）中确立以经过因果验证的工程化工件为核心的资质认证。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 598–601)]]
+>   通过国家立法确立公共教育财政拨款与高等级独立因果证据的硬性挂钩机制（如美国 [[Every Student Succeeds Act|ESSA]] 与 i3 计划），将未经实证检验的商业教学项目排除在公共资助之外；同时在职前教师培训（[[Initial Teacher Training]], ITT）与持续专业发展（Continuing Professional Development, CPD）中确立以经过因果验证的工程化工件为核心的资质认证。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 598–601)]]
 
 ---
 

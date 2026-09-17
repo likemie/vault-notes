@@ -1,12 +1,188 @@
 {
   "recentFiles": [
     {
-      "basename": "Critique of Evidence-Based Education",
-      "path": "wiki/concepts/educational-policy-reform/Critique of Evidence-Based Education.md"
+      "basename": "Educational Evidence Clearinghouses",
+      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
+    },
+    {
+      "basename": "Best Evidence Encyclopedia",
+      "path": "wiki/facts/us/Best Evidence Encyclopedia.md"
+    },
+    {
+      "basename": "Argument_Slavin_2019_EP",
+      "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Slavin_2019_EP.md"
     },
     {
       "basename": "Argument_Helgetun_2022_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
+    },
+    {
+      "basename": "Enhanced Core Reading Instruction",
+      "path": "wiki/facts/us/Enhanced Core Reading Instruction.md"
+    },
+    {
+      "basename": "Catch Up Numeracy",
+      "path": "wiki/facts/uk/Catch Up Numeracy.md"
+    },
+    {
+      "basename": "Replication in Education Research",
+      "path": "wiki/concepts/research-methodology/Replication in Education Research.md"
+    },
+    {
+      "basename": "Argument_Wadhwa_2024_RER",
+      "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md"
+    },
+    {
+      "basename": "Promising Practices Network",
+      "path": "wiki/facts/us/Promising Practices Network.md"
+    },
+    {
+      "basename": "Evidence for ESSA",
+      "path": "wiki/facts/us/Evidence for ESSA.md"
+    },
+    {
+      "basename": "Education Innovation and Research",
+      "path": "wiki/facts/us/Education Innovation and Research.md"
+    },
+    {
+      "basename": "Nancy Madden",
+      "path": "wiki/persons/us/Nancy Madden.md"
+    },
+    {
+      "basename": "Intraclass Correlation Coefficient",
+      "path": "wiki/methods/quantitative/Intraclass Correlation Coefficient.md"
+    },
+    {
+      "basename": "Random Assignment",
+      "path": "wiki/methods/quantitative/Random Assignment.md"
+    },
+    {
+      "basename": "Hierarchical Linear Model",
+      "path": "wiki/methods/quantitative/Hierarchical Linear Model.md"
+    },
+    {
+      "basename": "Education Endowment Foundation",
+      "path": "wiki/facts/uk/Education Endowment Foundation.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+    },
+    {
+      "basename": "Fade-out Effect",
+      "path": "wiki/concepts/educational-policy-reform/Fade-out Effect.md"
+    },
+    {
+      "basename": "Preregistration",
+      "path": "wiki/concepts/research-methodology/Preregistration.md"
+    },
+    {
+      "basename": "Peer-Assisted Learning Strategies",
+      "path": "wiki/facts/us/Peer-Assisted Learning Strategies.md"
+    },
+    {
+      "basename": "Top Institute for Evidence-Based Education Research",
+      "path": "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md"
+    },
+    {
+      "basename": "National Center for Education Evaluation and Regional Assistance",
+      "path": "wiki/facts/us/National Center for Education Evaluation and Regional Assistance.md"
+    },
+    {
+      "basename": "Formative Assessment",
+      "path": "wiki/concepts/competency-and-assessment/Formative Assessment.md"
+    },
+    {
+      "basename": "Effective Teaching",
+      "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
+    },
+    {
+      "basename": "Institute of Education Sciences",
+      "path": "wiki/facts/us/Institute of Education Sciences.md"
+    },
+    {
+      "basename": "What Works Clearinghouse",
+      "path": "wiki/facts/us/What Works Clearinghouse.md"
+    },
+    {
+      "basename": "Evidence Standards",
+      "path": "wiki/concepts/educational-policy-reform/Evidence Standards.md"
+    },
+    {
+      "basename": "Counterfactual",
+      "path": "wiki/concepts/research-methodology/Counterfactual.md"
+    },
+    {
+      "basename": "Active Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Active Learning.md"
+    },
+    {
+      "basename": "Evaluator Independence",
+      "path": "wiki/concepts/educational-policy-reform/Evaluator Independence.md"
+    },
+    {
+      "basename": "Cluster Randomized Trials",
+      "path": "wiki/methods/quantitative/Cluster Randomized Trials.md"
+    },
+    {
+      "basename": "No Child Left Behind Act 2001",
+      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
+    },
+    {
+      "basename": "Comprehensive School Reform Program",
+      "path": "wiki/facts/us/Comprehensive School Reform Program.md"
+    },
+    {
+      "basename": "Direct Instruction",
+      "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
+    },
+    {
+      "basename": "Investing in Innovation Program",
+      "path": "wiki/facts/us/Investing in Innovation Program.md"
+    },
+    {
+      "basename": "Entrepreneur in Residence",
+      "path": "wiki/concepts/university-industry-collaboration/Entrepreneur in Residence.md"
+    },
+    {
+      "basename": "Evidence-Based Reform",
+      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Reform.md"
+    },
+    {
+      "basename": "Argument_Slavin_2021_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ECNUROE.md"
+    },
+    {
+      "basename": "Cooperative Integrated Reading and Composition",
+      "path": "wiki/concepts/instruction-pedagogy/Cooperative Integrated Reading and Composition.md"
+    },
+    {
+      "basename": "Success for All",
+      "path": "wiki/facts/us/Success for All.md"
+    },
+    {
+      "basename": "Robert Slavin",
+      "path": "wiki/persons/us/Robert Slavin.md"
+    },
+    {
+      "basename": "Evidence-Based Education",
+      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
+    },
+    {
+      "basename": "Response to Intervention",
+      "path": "wiki/concepts/educational-policy-reform/Response to Intervention.md"
+    },
+    {
+      "basename": "Every Student Succeeds Act",
+      "path": "wiki/facts/us/Every Student Succeeds Act.md"
+    },
+    {
+      "basename": "Critique of Evidence-Based Education",
+      "path": "wiki/concepts/educational-policy-reform/Critique of Evidence-Based Education.md"
+    },
+    {
+      "basename": "Epistemological Coherence",
+      "path": "wiki/concepts/research-methodology/Epistemological Coherence.md"
     },
     {
       "basename": "Policy Brokerage",
@@ -23,182 +199,6 @@
     {
       "basename": "Teaching Schools",
       "path": "wiki/facts/uk/Teaching Schools.md"
-    },
-    {
-      "basename": "Chartered College of Teaching",
-      "path": "wiki/facts/uk/Chartered College of Teaching.md"
-    },
-    {
-      "basename": "Policy Network",
-      "path": "wiki/concepts/educational-policy-reform/Policy Network.md"
-    },
-    {
-      "basename": "Randomised Controlled Trials",
-      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
-    },
-    {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
-    },
-    {
-      "basename": "The Importance of Teaching",
-      "path": "wiki/facts/uk/The Importance of Teaching.md"
-    },
-    {
-      "basename": "Committee for the Accreditation of Teacher Education",
-      "path": "wiki/facts/uk/Committee for the Accreditation of Teacher Education.md"
-    },
-    {
-      "basename": "Intent-to-Treat Analysis",
-      "path": "wiki/methods/quantitative/Intent-to-Treat Analysis.md"
-    },
-    {
-      "basename": "Technical Rationality",
-      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
-    },
-    {
-      "basename": "In-depth Interview",
-      "path": "wiki/methods/qualitative/In-depth Interview.md"
-    },
-    {
-      "basename": "Elite Interview",
-      "path": "wiki/methods/qualitative/Elite Interview.md"
-    },
-    {
-      "basename": "Institutional Isomorphism",
-      "path": "wiki/theories/comparative-education/Institutional Isomorphism.md"
-    },
-    {
-      "basename": "Evidence Era",
-      "path": "wiki/concepts/educational-policy-reform/Evidence Era.md"
-    },
-    {
-      "basename": "Ian Menter",
-      "path": "wiki/persons/uk/Ian Menter.md"
-    },
-    {
-      "basename": "New Public Management",
-      "path": "wiki/concepts/educational-leadership-administration/New Public Management.md"
-    },
-    {
-      "basename": "Policy-Based Evidence-Making",
-      "path": "wiki/concepts/educational-policy-reform/Policy-Based Evidence-Making.md"
-    },
-    {
-      "basename": "Rationalized Myth",
-      "path": "wiki/concepts/sociology-of-education/Rationalized Myth.md"
-    },
-    {
-      "basename": "Research Utilization",
-      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
-    },
-    {
-      "basename": "Argument_Hattie_2005_ACER",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
-    },
-    {
-      "basename": "John Hattie",
-      "path": "wiki/persons/new-zealand/John Hattie.md"
-    },
-    {
-      "basename": "No Child Left Behind Act 2001",
-      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
-    },
-    {
-      "basename": "Te Kotahitanga",
-      "path": "wiki/facts/new-zealand/Te Kotahitanga.md"
-    },
-    {
-      "basename": "Success Criteria",
-      "path": "wiki/concepts/curriculum-instruction/Success Criteria.md"
-    },
-    {
-      "basename": "Class Size",
-      "path": "wiki/concepts/educational-policy-reform/Class Size.md"
-    },
-    {
-      "basename": "School Choice",
-      "path": "wiki/concepts/sociology-of-education/School Choice.md"
-    },
-    {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
-      "basename": "Effect Size",
-      "path": "wiki/methods/quantitative/Effect Size.md"
-    },
-    {
-      "basename": "Learned Helplessness",
-      "path": "wiki/concepts/educational-psychology/Learned Helplessness.md"
-    },
-    {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
-    },
-    {
-      "basename": "Hattie_2005_ACER",
-      "path": "sources/Hattie_2005_ACER/Hattie_2005_ACER.md"
-    },
-    {
-      "basename": "Time Series Design",
-      "path": "wiki/methods/quantitative/Time Series Design.md"
-    },
-    {
-      "basename": "Assessment Tools for Teaching and Learning",
-      "path": "wiki/instruments/tests/Assessment Tools for Teaching and Learning.md"
-    },
-    {
-      "basename": "Professional Learning Community",
-      "path": "wiki/concepts/teacher-education/Professional Learning Community.md"
-    },
-    {
-      "basename": "Teacher Conceptions of Assessment",
-      "path": "wiki/concepts/competency-and-assessment/Teacher Conceptions of Assessment.md"
-    },
-    {
-      "basename": "Argument_Brown_Greany_2018_LPS",
-      "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
-    },
-    {
-      "basename": "Research Translation",
-      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
-    },
-    {
-      "basename": "Ofsted",
-      "path": "wiki/facts/uk/Ofsted.md"
-    },
-    {
-      "basename": "Nancy Cartwright",
-      "path": "wiki/persons/uk/Nancy Cartwright.md"
-    },
-    {
-      "basename": "Teaching and Learning Research Programme",
-      "path": "wiki/facts/uk/Teaching and Learning Research Programme.md"
-    },
-    {
-      "basename": "Reflexivity",
-      "path": "wiki/concepts/research-methodology/Reflexivity.md"
-    },
-    {
-      "basename": "Research Learning Communities Baseline Survey Questionnaire",
-      "path": "wiki/instruments/questionnaires/Research Learning Communities Baseline Survey Questionnaire.md"
-    },
-    {
-      "basename": "Lesson Study",
-      "path": "wiki/concepts/teacher-education/Lesson Study.md"
-    },
-    {
-      "basename": "School Enquiry Cycle",
-      "path": "wiki/concepts/educational-policy-reform/School Enquiry Cycle.md"
-    },
-    {
-      "basename": "Activity Traps",
-      "path": "wiki/concepts/teacher-education/Activity Traps.md"
-    },
-    {
-      "basename": "Knowledge Mobilisation",
-      "path": "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@ aliases:
 summary: "Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
+  - "[[Initial Teacher Training]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-06-16
+updated: 2026-09-17
 ---
 
 # Bacchi's WPR Approach
@@ -122,4 +123,4 @@ updated: 2026-06-16
 > [!ref-table] 相关研究索引
 > | 研究 | 应用方式说明 | 来源 |
 > |---|---|---|
-> | [[Argument_Skourdoumbis_2024_AER]] | 运用 WPR 框架分析《强劲开端》报告，揭示政策如何将教师短缺危机表征为“ITE 培训质量缺陷”，并系统性地对“教师过度工作量”这一事实保持沉默。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]] |
+> | [[Argument_Skourdoumbis_2024_AER]] | 运用 WPR 框架分析《强劲开端》报告，揭示政策如何将教师短缺危机表征为“[[Initial Teacher Training\|ITE]] 培训质量缺陷”，并系统性地对“教师过度工作量”这一事实保持沉默。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]] |

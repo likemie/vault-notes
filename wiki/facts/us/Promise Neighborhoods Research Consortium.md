@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Causality]]"
   - "[[Intelligent Tutoring Systems]]"
+  - "[[Initial Teacher Training]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Ecological Validity]]"
   - "[[Internal Validity]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-09-17
 ---
 
 # Promise Neighborhoods Research Consortium
@@ -75,7 +76,7 @@ updated: 2026-08-21
 > [!abstract] 因果设计与质量规程
 > PNRC 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=1, [[Intelligent Tutoring Systems|ITS]]=1**，是全库中少数在早期即对断点回归（RDD）与中断时间序列（[[Intelligent Tutoring Systems|ITS]]）给予方法学规范的多领域机构之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
 >
-> 1. **支持[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）** 明确鼓励在复杂社区干预评估中实施 ITT 分析，以如实反映全社区推广效果。
+> 1. **支持[[Intent-to-Treat Analysis|意向治疗分析]]（[[Initial Teacher Training|ITT]]）** 明确鼓励在复杂社区干预评估中实施 ITT 分析，以如实反映全社区推广效果。
 > 2. **多层级干预评估** 评估对象涵盖微观具名项目、宏观教育政策与社区治理实践。
 
 ---

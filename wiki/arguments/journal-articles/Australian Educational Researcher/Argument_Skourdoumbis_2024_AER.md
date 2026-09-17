@@ -10,9 +10,9 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 42
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Australian Educational Researcher
 citation: "Skourdoumbis, A., & Rowe, E. (2024). A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement. The Australian Educational Researcher. https://doi.org/10.1007/s13384-024-00743-y"
@@ -24,6 +24,7 @@ tags:
   - policy-analysis
   - australia
 related_concepts:
+  - "[[Initial Teacher Training]]"
   - "[[Attrition]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Scientific Method]]"
   - "[[Positivism]]"
+  - "[[Evidence Era]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Bacchi's WPR Approach]]"
@@ -70,7 +72,8 @@ related_facts:
   - "[[Australian Council for Educational Research]]"
   - "[[Educational Services Australia]]"
   - "[[Graduate Outcomes Survey]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Helgetun_2022_JEP]]"
 sources:
   - "[[sources/Skourdoumbis_2024_AER|Skourdoumbis_2024_AER]]"
 part_of: ''
@@ -91,7 +94,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question] 核心关切与政策谜题
-> 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查，是检验初始教师教育（Initial Teacher Education, ITE）政策改革的肥沃土壤。2023年联邦政府发布《强劲开端》（*[[Strong Beginnings Report|Strong Beginnings]]*）报告，在延续2015年教师教育部长级咨询组（[[Teacher Education Ministerial Advisory Group]], TEMAG）《行动立即开始》报告和2022年优质初始教师教育（Quality Initial Teacher Education, QITE）审查逻辑的基础上，首次在全国范围内将“大脑与学习”（神经科学）列为ITE的必修核心课程。
+> 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查，是检验[[Initial Teacher Training|初始教师教育]]（Initial Teacher Education, ITE）政策改革的肥沃土壤。2023年联邦政府发布《强劲开端》（*[[Strong Beginnings Report|Strong Beginnings]]*）报告，在延续2015年教师教育部长级咨询组（[[Teacher Education Ministerial Advisory Group]], TEMAG）《行动立即开始》报告和2022年优质初始教师教育（Quality Initial Teacher Education, QITE）审查逻辑的基础上，首次在全国范围内将“大脑与学习”（神经科学）列为ITE的必修核心课程。
 >
 > 这一改革带来了重大的政策谜题：一场因全国性教师严重短缺危机而发起的政策审查，为何最终绕过了教师[[Attrition|流失]]的根本原因（如过载工作量），转而将问题表征为教师培训质量缺陷？将神经科学强制列入必修课程的深层逻辑是什么？“什么有效”运动的话语策略如何通过[[Policy Network|政策网络]]进行“理念编排”，服务于特定中介组织和保守智库的私人与制度性利益？
 
@@ -178,7 +181,7 @@ citation_aliases:
 ### 论证步骤一：教师短缺背景下“工作量危机”向“教学缺陷观”的政治置换
 
 > [!claim] 步骤一主张
-> 政策将“教师[[Attrition|流失]]与短缺”这一结构性劳动力市场危机，降维并重构为“教师培训质量不足与缺乏准备度”的问题。通过选择性使用和歪曲满意度调查数据，避开了对过度工作量这一流失主因的讨论，从而将责任转移至初始教师教育（ITE）机构，为强制嵌入外部标准课程制造合法性。
+> 政策将“教师[[Attrition|流失]]与短缺”这一结构性劳动力市场危机，降维并重构为“教师培训质量不足与缺乏准备度”的问题。通过选择性使用和歪曲满意度调查数据，避开了对过度工作量这一流失主因的讨论，从而将责任转移至[[Initial Teacher Training|初始教师教育]]（ITE）机构，为强制嵌入外部标准课程制造合法性。
 
 > [!contrast-table] 实际劳动力市场状况 vs. 《强劲开端》政策表征
 > | 维度 | 实际劳动力市场状况（GOS 2022 / AITSL） | 《强劲开端》政策表征（2023） |
@@ -276,7 +279,7 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **首次全国强制脑科学入课** 报告开创了澳大利亚教师教育政策史的先河，在全国范围内将“大脑与学习”（神经科学）强制列为所有初始教师教育（ITE）的必修课程，成为核心内容的法定标准（p. 2）。
+> 1. **首次全国强制脑科学入课** 报告开创了澳大利亚教师教育政策史的先河，在全国范围内将“大脑与学习”（神经科学）强制列为所有[[Initial Teacher Training|初始教师教育]]（ITE）的必修课程，成为核心内容的法定标准（p. 2）。
 > 2. **教师危机的问题置换** 报告通过选择性利用 [[Graduate Outcomes Survey|GOS]] 调查数据（以 32% 的改进期盼代替 75% 的高满意度真相），成功将全国性教师短缺的原因从“过度工作量”这一劳动环境本质，置换为“教师教育质量缺陷”的个体能力问题（pp. 4–5）。
 > 3. **脑科学的简化主义和国际警示遗忘** 报告强制灌输“新手 vs 专家大脑”等生物简化二元论，排斥探究式学习，无视社会文化情境，且完全隐瞒了 [[OECD]] (2002, 2007) 关于神经科学可能导致过度顺从、科学神话与被滥用（如 eugenics 历史）的警示（pp. 6–7）。
 > 4. **未发表证据与跨国“什么有效”网络的知识垄断** 必修核心课程的设计完全基于 [[Australian Education Research Organisation|AERO]] 准备的、从未经过同行评审的未发表研究综合，其背后交织着英国 [[Education Endowment Foundation|EEF]]、[[BHP Foundation|必和必拓基金会]]的跨国政策资本移动，以及专家小组内部 AERO 董事会倾向的惩罚性问责立场（pp. 8–9）。
@@ -330,7 +333,7 @@ citation_aliases:
 >   - 他们强调的是：“刻板的[[Positivism|实证主义]]原则和机械论的世界观，无法解释构成人类经验的多维度人类行动”（p. 10）。
 > - **呼吁[[Epistemology|认识论]]的多元性与证据批判性**
 >   - 承认学校和课堂的社会学和复杂人际特征，需要一个更广泛的认识论（epistemological）基础。
->   - 在“证据时代”下，必须对“证据是如何被建构的”保持高度的警惕和批判性审视（Helgetun & Menter, 2022; 引自 p. 10）。
+>   - 在“[[Evidence Era|证据时代]]”下，必须对“证据是如何被建构的”保持高度的警惕和批判性审视（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022]]; 引自 p. 10）。
 > - **跨国政策外推与[[Paradigm|范式]]破坏警告**
 >   - 作者提醒，这一政策范式在英格兰等地的临床化、学校主导化实践已经对传统的基于大学的教师教育在[[Ontology|本体论]]（ontology）、[[Axiology|价值论]]（axiology）和实践论上造成了“积极的破坏和推翻”，应当引起全球教育界的警惕。
 >   - 过度依赖“什么有效”的确定性将直接导致教师日常教学实践中其他形式“非科学、经验性”证据与默会知识的边缘化，加重教师的“举证负担”（Wescott, 2022; 引自 p. 10）。

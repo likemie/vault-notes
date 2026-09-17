@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Reach]]"
   - "[[HarmoS]]"
   - "[[National Assessment of Education Quality China 2007]]"
   - "[[OECD]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-07-08
+updated: 2026-09-17
 ---
 
 # Global Education Reform Movement
@@ -88,7 +89,7 @@ updated: 2026-07-08
 > 萨尔伯格将全球教育改革运动的基本操作模式概括为以下五个相互关联的特征（p.141）：
 > 1. **标准化课程与评估（Standardised Curricula and Assessments）** 强调统一的、可精确量化的课程纲要与外部基准测试。
 > 2. **读写与算术技能的偏狭关注（One-sided Focus on Literacy and Numeracy）** 将丰富的课程表窄化为核心基础学科，排挤艺术、人文及质性探讨。
-> 3. **寻求达成目标的低风险路径（Search for Low-risk Ways to Reach Learning Goals）** 规避教学试验与创新，促使教师采用"以考代教"（teaching to the test）的防卫性策略。
+> 3. **寻求达成目标的低风险路径（Search for Low-risk Ways to [[Reach]] Learning Goals）** 规避教学试验与创新，促使教师采用"以考代教"（teaching to the test）的防卫性策略。
 > 4. **采用企业管理模式（Corporate Management Models）** 引入[[New Public Management|新公共管理]]（NPM）逻辑，依靠商业考核指标、数据报表与合同来驱动改进。
 > 5. **基于测试的强力问责制（[[Test-Based Accountability]] Policies）** 将教师绩效、学校留存与高利害标准化测试的成绩直接绑定。
 

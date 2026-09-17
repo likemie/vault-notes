@@ -11,7 +11,7 @@ aliases:
 summary: "基于大学研究项目产生的知识产权而创建的初创企业，区别于学生宿舍创业，面临 IP 所有权约束、风险融资缺口和技术就绪度不足等结构性挑战"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -31,12 +31,13 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Innovation and Research]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # University Spin-Out
@@ -87,6 +88,6 @@ updated: 2026-09-10
 > [!abstract]
 > 近年来大学显著增加了对衍生企业创建和创业精神的支持资源投入（pp.147-148）：
 > - **[[Technology Transfer|技术转移]]办公室内的新创企业支持** 如 UCLA 技术开发组内的 New Ventures Group，或专门建设的中心如 Austin Technology Incubator，其主要职能是支持有前景的教员衍生企业（p.147）
-> - **[[Entrepreneur in Residence|驻校企业家]]（EIR）** 全职支持多个衍生企业的驻校高管，或具有多元经验的兼职 EIR 团队，这种人才投资似乎是帮助衍生企业"跨越从实验室到市场的鸿沟"的有效策略（pp.147-148）
+> - **[[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）** 全职支持多个衍生企业的驻校高管，或具有多元经验的兼职 EIR 团队，这种人才投资似乎是帮助衍生企业"跨越从实验室到市场的鸿沟"的有效策略（pp.147-148）
 > - **产业参与渠道** 大学通过赞助研究合作、人才招聘项目和慈善支持等其他产学互动渠道接触产业成员，并利用人才库作为杠杆来协商产业参与创业项目（p.148）
 

@@ -11,10 +11,10 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 39
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dbeafe"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 issuing_organization: European Commission
 tags:
   - region/eu
@@ -55,12 +55,13 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[Swedish Institute for Educational Research]]"
-  - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Institute for Effective Education]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[Evidence-Based Teachers Network]]"
+  - "[[Reach]]"
   - "[[OECD]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
   - "[[EU Key Competences for Lifelong Learning]]"
 related_arguments:
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # EU Evidence-Informed Education Policy Initiatives
@@ -124,7 +125,7 @@ updated: 2026-09-13
 > [!actor-grid] 实施架构与多层级分工
 > - **超国家统筹方（欧盟委员会 / DG EAC）** 负责制定宏观政策导向、发起倡议文件并资助跨国联合研究与流动网络。
 > - **跨国元中介网络（EIPPEE 执委会）** 由 [[EPPI-Centre]] 等机构牵头，负责协调各国清算机构、开发跨国证据检索库并主持二阶证据研讨。
-> - **国家级官方与学术中介** 包括英国 [[Education Endowment Foundation|EEF]]、[[EPPI-Centre]]、丹麦 [[Danish Clearinghouse for Educational Research|Danish Clearinghouse]]、瑞典 [[Swedish Institute for Educational Research]]、荷兰 [[Top Institute for Evidence-Based Education Research|TIER]] 及约克大学 [[Institute for Effective Education|IEE]] 等，承担具体领域的因果评估与本土[[Transfer Translation Transformation|转译]]。
+> - **国家级官方与学术中介** 包括英国 [[Education Endowment Foundation|EEF]]、[[EPPI-Centre]]、丹麦 [[Danish Clearinghouse for Educational Research|Danish Clearinghouse]]、瑞典 [[Swedish Institute for Educational Research]]、荷兰 TIER 及约克大学 [[Institute for Effective Education|IEE]] 等，承担具体领域的因果评估与本土[[Transfer Translation Transformation|转译]]。
 > - **一线实践与教师组织** 包括英国 [[Centre for the Use of Research and Evidence in Education|CUREE]]、[[Evidence-Based Teachers Network|EBTN]] 等，深耕基层教师[[Scientific Literacy|证据素养]]与实践落地。
 
 > [!pathways]- 实施路径与 EIPPEE 三大实证发现
@@ -147,7 +148,7 @@ updated: 2026-09-13
 
 > [!tension]- 联盟结构与两难张力：网络扩展 vs 专业深化
 >
-> | 维度 | 广度扩展联盟（Broadening Reach） | 专业深化联盟（Deepening Expertise） |
+> | 维度 | 广度扩展联盟（Broadening [[Reach]]） | 专业深化联盟（Deepening Expertise） |
 > |:---|:---|:---|
 > | **核心诉求** | 尽可能吸纳多元成员、吸纳更多欧洲国家与草根教育机构加入 | 保持严谨的方法论审查标准，聚焦高水平系统综述与严密因果证据 |
 > | **代表主体** | 泛欧广泛教育社团、政策观察员、新加入东欧成员国机构 | 资深学术证据中心（如 EPPI-Centre）、坎贝尔协作网专家 |
@@ -183,7 +184,7 @@ updated: 2026-09-13
 > > [!axis] 软治理模式的效力瓶颈：政策倡议 vs 强制约束
 > > 争论缺乏硬约束的软治理能否实质性改变欧洲学校实践。
 > >
-> > - **美国对比视角** 美国通过 [[No Child Left Behind Act 2001|NCLB]] 与 ESSA 法案直接将联邦经费分配与 [[What Works Clearinghouse|WWC]] 评级进行法律绑定，展现出极强的行政执行力。
+> > - **美国对比视角** 美国通过 [[No Child Left Behind Act 2001|NCLB]] 与 [[Every Student Succeeds Act|ESSA]] 法案直接将联邦经费分配与 [[What Works Clearinghouse|WWC]] 评级进行法律绑定，展现出极强的行政执行力。
 > > - **欧洲批判反思** [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] 认为，欧盟倡议受限于辅助性原则，只能提供政策鼓励与网络资助，导致欧洲各国的证据应用水平高度分化，缺乏统一的行动底线([[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, pp. 26, 41–42]])。
 >
 > > [!axis] [[Lifelong Learning|终身学习]][[21st Century Skills and Competencies Discourse|核心素养]]与证据化评价的内在冲突

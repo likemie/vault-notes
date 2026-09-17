@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Policy Network]]"
   - "[[Progressive Education]]"
+  - "[[Initial Teacher Training]]"
   - "[[Document]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-06-16
+updated: 2026-09-17
 ---
 
 # Centre for Independent Studies
@@ -58,7 +59,7 @@ updated: 2026-06-16
 > [!timeline] 机构发展与关键活动
 > - 1976 成立，开始通过出版物、公共论坛和[[Policy Network|政策网络]]，长期倡导自由市场与保守主义经济及社会政策大纲。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9]])
 > - 2021 出资赞助并出版了教育心理学家 [[John Sweller]] 撰写的 Analysis Paper 24《为什么探究式学习有害学生学习》，作为攻击[[Progressive Education|进步主义教育]]大纲的游说手册。
-> - 2023 其资助出版的研究报告（Sweller, 2021）通过人事交叉通道（巴金汉的双重身份）被直接吸纳并强制嵌入联邦《强劲开端》报告附录D中，上升为法定初始教师教育（ITE）认证核心课程的指定参考[[Document|文献]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9, p. 11]])
+> - 2023 其资助出版的研究报告（Sweller, 2021）通过人事交叉通道（巴金汉的双重身份）被直接吸纳并强制嵌入联邦《强劲开端》报告附录D中，上升为法定[[Initial Teacher Training|初始教师教育]]（ITE）认证核心课程的指定参考[[Document|文献]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9, p. 11]])
 
 ---
 
@@ -87,7 +88,7 @@ updated: 2026-06-16
 > - **批判政策社会学视角** 揭示了 CIS 作为[[Policy Network|政策网络]]（Policy Network）中的关键节点，展示了新自由主义异层治理下，私人资本和游说利益如何通过“证据”包装实现自我隐身。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 > [!tension] 争议焦点
-> - **私人利益的法定制式消费** ITE 职前教师在学习《强劲开端》附录D大纲时，被迫学习由保守智库出资并撰写的 Sweller (2021) 报告，这在“科学循证”的掩护下强行让公共大学学生消费右翼智库的产品，构成学术客观性的道德冲突。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
+> - **私人利益的法定制式消费** [[Initial Teacher Training|ITE]] 职前教师在学习《强劲开端》附录D大纲时，被迫学习由保守智库出资并撰写的 Sweller (2021) 报告，这在“科学循证”的掩护下强行让公共大学学生消费右翼智库的产品，构成学术客观性的道德冲突。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
 > - **财务不透明与科学谎言** 作为一个不公开资金来源的利益游说集团，其出版的研究被政策呈现为普遍的“科学共识”而非意识形态倡议，涉嫌将私人理念强加为全国公共教师的准入门槛。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9, p. 11]])
 
 ---

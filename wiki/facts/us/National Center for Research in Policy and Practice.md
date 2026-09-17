@@ -36,14 +36,14 @@ related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[William T. Grant Foundation]]"
-  - "[[Top Institute for Evidence-Based Education Research]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # National Center for Research in Policy and Practice
@@ -55,7 +55,7 @@ updated: 2026-09-15
 > [!policy-context] 机构与政策背景
 > - **成立时间 / 资助主体** 2014 年由美国联邦教育部[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES）设立国家[[Research Utilization|知识利用]]中心（Knowledge Utilization Center）专项拨款资助建立。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 > - **主持机构与学者** 由加州大学伯克利分校（UC Berkeley，Cynthia Coburn 领衔）、科罗拉多大学博尔德分校（[[Corporate University|CU]] Boulder，William Penuel 领衔）、西北大学及 MDRC 智库联合组建。
-> - **问题背景** 尽管美国推行《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）与《每一个学生成功法案》（ESSA），投入数十亿美元资[[Teaching Assistant|助教]]育研究，但全美学区行政长官与[[School Leadership|学校领导]]究竟如何搜索、理解和使用这些证据，长期处于“黑箱”状态。
+> - **问题背景** 尽管美国推行《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）与《[[Every Student Succeeds Act|每一个学生成功法案]]》（ESSA），投入数十亿美元资[[Teaching Assistant|助教]]育研究，但全美学区行政长官与[[School Leadership|学校领导]]究竟如何搜索、理解和使用这些证据，长期处于“黑箱”状态。
 > - **机构定位** 全美专注于研究教育决策中“证据使用（Research Use）”微观机制与评价标准的国家级学术研究重镇。
 
 ---
@@ -88,7 +88,7 @@ updated: 2026-09-15
 
 > [!success] 核心学术与政策贡献
 > - **为[[Evidence-Informed Practice|证据知情实践]]提供严谨的测量语言** 结束了以往对“[[Research Utilization|研究使用]]”只能做模糊定性描述的历史，提供了兼具信效度的量化测查工具。
-> - **确立中层系统（Middle-[[Top Institute for Evidence-Based Education Research|TIER]]）的枢纽地位** 实证证明了 [[Research-Practice Partnership|RPP]] 等中间层协作网络在改善学区[[Evidence-Informed Decision-Making|证据知情决策]]中的决定性价值。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+> - **确立中层系统（Middle-TIER）的枢纽地位** 实证证明了 [[Research-Practice Partnership|RPP]] 等中间层协作网络在改善学区[[Evidence-Informed Decision-Making|证据知情决策]]中的决定性价值。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 
 ---
 

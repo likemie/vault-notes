@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 79
+argument_related_count: 80
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Replication in Education Research]]"
   - "[[Knowledge Production]]"
   - "[[Democratising Evidence]]"
   - "[[Third Space Discourse]]"
@@ -139,7 +140,7 @@ updated: 2026-09-14
 
 %% [!question] 标题栏由 CSS 自动显示“[[Research Question|研究问题]]”，无需手动添加。 %%
 > [!question]
-> 历经二十余年[[Evidence-Based Education|循证教育]]改革的持续推进与科研经费投入的不断攀升，教育研究为何依然未能有效转化为支撑宏观政策与微观教学的高质量证据，反而深陷[[Epistemology|认识论]]不确定性、[[Discipline-Based Theory|学科理论]]依附、复现危机与严重的供需断层？面对教育[[Knowledge Production|知识生产]]超越传统大学象牙塔的现实，来自学术界、联邦政府科学资助机构、全球教师工会联合会、一线示范学校、国家级试点项目以及慈善基金会的不同利益相关者，如何重新定义教育研究的目的、科学严谨性与社会有效性？如何从根本上重塑教育证据的生产规程、资助标准、伙伴关系与专业伦理？（pp. 200–202）
+> 历经二十余年[[Evidence-Based Education|循证教育]]改革的持续推进与科研经费投入的不断攀升，教育研究为何依然未能有效转化为支撑宏观政策与微观教学的高质量证据，反而深陷[[Epistemology|认识论]]不确定性、[[Discipline-Based Theory|学科理论]]依附、[[Replication in Education Research|复现危机]]与严重的供需断层？面对教育[[Knowledge Production|知识生产]]超越传统大学象牙塔的现实，来自学术界、联邦政府科学资助机构、全球教师工会联合会、一线示范学校、国家级试点项目以及慈善基金会的不同利益相关者，如何重新定义教育研究的目的、科学严谨性与社会有效性？如何从根本上重塑教育证据的生产规程、资助标准、伙伴关系与专业伦理？（pp. 200–202）
 
 > [!claim] 核心主张
 > 教育研究摆脱当前论文产出过剩却实践影响贫乏的系统性困境，既不能退回狭隘技术主义的因果控制与短期功利主义可用性修辞，也不能固守于学术共同体孤立封闭的自说自话；唯有在供给侧推进科学标准的立体化重构，推行涵盖构件拆解、成本核算、通用测量与敏捷复现的教育科研卓越标准（Standards for Excellence in Education Research, SEER）体系，同时在生产机制上全面推进[[Democratising Evidence|证据民主化]]（democratising evidence），构建承认异质专业价值的[[Third Space Discourse|第三空间话语]]（third space discourse）伙伴关系，将资助评价重心转向长效组织能力建设，并坚守专业伦理以防范[[Statistical Normalisation|统计正态化]]对社会弱势离群群体的制度性遮蔽。（pp. 202–204, 206–209, 217–223, 225–228, 229–231）
@@ -234,7 +235,7 @@ updated: 2026-09-14
 ### 论证步骤一　克服供给侧质量与理论赤字要求摆脱学科依附并以 SEER 卓越标准重构证据供给
 
 > [!claim] 步骤一核心主张
-> 教育系统无法转型为知识密集型系统的根源在于知识供给侧的质量与理论赤字；单纯扩张经费投入无法自发解决问题，必须在摆脱时髦意识形态框架与克服严峻复现危机的前提下，将证据评价标准从孤立的因果[[Internal Validity|内部效度]]（单纯 [[Randomised Controlled Trials|RCT]]）全面升级为涵盖构件明确、成本核算、通用测量、敏捷复现与教育公平的 SEER 循证卓越标准体系。（pp. 202–204, 206–209）
+> 教育系统无法转型为知识密集型系统的根源在于知识供给侧的质量与理论赤字；单纯扩张经费投入无法自发解决问题，必须在摆脱时髦意识形态框架与克服严峻[[Replication in Education Research|复现危机]]的前提下，将证据评价标准从孤立的因果[[Internal Validity|内部效度]]（单纯 [[Randomised Controlled Trials|RCT]]）全面升级为涵盖构件明确、成本核算、通用测量、敏捷复现与教育公平的 SEER 循证卓越标准体系。（pp. 202–204, 206–209）
 
 #### 1. 教育研究深陷理论依附与复现赤字，摆脱供给侧危机亟需自主演绎经验科学建制
 

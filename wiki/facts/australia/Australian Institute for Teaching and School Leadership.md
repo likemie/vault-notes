@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
   - theme/accountability
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Initial Teacher Training]]"
   - "[[Policy Network]]"
 related_theories: []
 related_methods: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-06-16
+updated: 2026-09-17
 ---
 
 # Australian Institute for Teaching and School Leadership
@@ -51,7 +52,7 @@ updated: 2026-06-16
 > [!event-context] 机构背景
 > - **时间 / 地点** 2011年受托成立，总部位于澳大利亚。[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **关键主体** 澳大利亚教学与[[School Leadership|学校领导力]]协会（AITSL）、非执行董事詹妮弗·巴金汉博士（Dr Jennifer Buckingham）。
-> - **制度背景** 起初负责制定《澳大利亚教师专业标准》，成为彻底改革初始教师教育（ITE）认证流程的关键参与者；底层运作与 [[Australian Education Research Organisation|AERO]]、ACARA 一起，由慈善公司[[Educational Services Australia|ESA]]提供底层技术与系统支撑。
+> - **制度背景** 起初负责制定《澳大利亚教师专业标准》，成为彻底改革[[Initial Teacher Training|初始教师教育]]（ITE）认证流程的关键参与者；底层运作与 [[Australian Education Research Organisation|AERO]]、ACARA 一起，由慈善公司[[Educational Services Australia|ESA]]提供底层技术与系统支撑。
 > - **触发条件** 国家教育治理从多元化大学教师教育体系向全国标准化、问责考核机制转轨的政策需要。
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-06-16
 
 > [!timeline] 机构发展与关键活动
 > - 2011 受命开发《澳大利亚教师专业标准》，确立对全国教师和教师培训体系的官方标准话语权（Barnes & Cross, 2021, p. 460）。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - 2015 [[Teacher Education Ministerial Advisory Group|TEMAG]] 改革报告出台，进一步巩固和扩大了 AITSL 在全国初始教师教育（ITE）认证与合规管理中的地位。
+> - 2015 [[Teacher Education Ministerial Advisory Group|TEMAG]] 改革报告出台，进一步巩固和扩大了 AITSL 在全国[[Initial Teacher Training|初始教师教育]]（ITE）认证与合规管理中的地位。
 > - 2017 巴金汉博士获任 AITSL 非执行董事，开始在官方教师标准把关机构中任职。
 > - 2023 《强劲开端》报告出台（建议一），授权 AITSL 将“核心内容”以附表形式强制嵌入《国家ITE项目认证标准与程序》中，其职权正式扩张至具体的大学课程设计监控。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
 
@@ -68,7 +69,7 @@ updated: 2026-06-16
 
 ## 关键文件／声明
 
-> [!citation-card]- ITE 强制认证附表要求
+> [!citation-card]- [[Initial Teacher Training|ITE]] 强制认证附表要求
 > “澳大利亚教学与[[School Leadership|学校领导力]]协会将‘核心内容’作为附表添加到认证标准和程序中。该附表应描述初始教师教育项目应教授的内容和应达到的学习成果。”([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 5]])
 > 
 > “The Australian Institute for Teaching and School Leadership to add ‘core content’ as a schedule to the Accreditation Standards and Procedures. The schedule should describe what initial teacher education programs should teach and the learning outcomes that should be achieved.” (Australian Government, 2023, p. 17)
@@ -104,7 +105,7 @@ updated: 2026-06-16
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
 > | [[Strong Beginnings Report]] | AITSL 职权急剧扩张、受托设计强制认证附表的直接政策来源。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
-> | [[Teacher Education Ministerial Advisory Group\|TEMAG]] | 前期改革文本，为 AITSL 确立在初始教师教育认证中的主导地位奠定了基础。 | |
+> | [[Teacher Education Ministerial Advisory Group\|TEMAG]] | 前期改革文本，为 AITSL 确立在[[Initial Teacher Training\|初始教师教育]]认证中的主导地位奠定了基础。 | |
 > | [[Australian Education Research Organisation]] | 共同起草核心大纲，并与 AITSL 相互配合进行标准监管的证据中介组织。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Centre for Independent Studies]] | 其非执行董事巴金汉同时任职的保守智库。 | |
 > | [[LANTITE]] | AITSL 认证体系下，由 [[Australian Council for Educational Research\|ACER]] 运行并产生高额营收的职前教师标准化统考项目。 | |

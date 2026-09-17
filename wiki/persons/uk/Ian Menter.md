@@ -7,7 +7,7 @@ summary: "牛津大学教师教育荣休教授，英国教育研究协会与苏�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Phronesis]]"
+  - "[[Initial Teacher Training]]"
   - "[[Epistemology]]"
   - "[[Scientism]]"
   - "[[Reflective Thinking]]"
@@ -90,7 +91,7 @@ updated: 2026-09-17
 >   - **关键概念／方法** [[New Public Management]]、[[Policy Science in Comparative Education]]。
 >   - **阶段转向** 从微观师资培养模式转向宏观公共政策治理逻辑批判。
 > - **2013–2015 — 倡导以研究为导向的临床实践[[Paradigm|范式]]** 领导 BERA-RSA 国家调查，主张吸收医学临床培训理念，将严谨学术研究与中小学一线[[Phronesis|实践智慧]]深度整合。
->   - **代表著作** *A review of 'research-informed clinical practice' in Initial Teacher Education* (with K. Burn, 2015)。
+>   - **代表著作** *A review of 'research-informed clinical practice' in [[Initial Teacher Training|Initial Teacher Education]]* (with K. Burn, 2015)。
 >   - **关键概念／方法** Research-Informed Clinical Practice、[[Phronesis]]。
 >   - **阶段转向** 建立理论与实践协同的规范性教师教育专业框架。
 > - **2016 至今 — [[Evidence Era|证据时代]]的[[Epistemology|认识论]]与政治把关研究** 深入探究证据在政策制定中的符号合法化功能，揭示从数据测量向证据时代演进背后的适宜性逻辑与[[Policy-Based Evidence-Making|逆向证据生产]]。
@@ -106,7 +107,7 @@ updated: 2026-09-17
 > 门特认为，教师专业化必须建立在扎实的[[Research Literacy|研究素养]]与[[Reflective Thinking|反思性探究]]基础之上，反对将教师简化为执行国家现成方案的技术交付工；在当代教育治理中，证据话语已被制度化为一种主导性的“[[Rationalized Myth|合理化神话]]”，政府表面上推崇科学证据与分散办学，实质上通过官方守门与适宜性筛选，推行基于政策意图的逆向证据制造以维系中央控制。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 91–95)]]
 
 > [!citation-card] 教师教育中的研究导向临床实践
-> 教师不仅是技术熟练的工匠，更是具备研究素养的实践探究者。有效的初始教师教育必须打破理论与实践的二元对立，将严谨学术证据作为临床教学诊断与决策的核心支撑。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 95)]]
+> 教师不仅是技术熟练的工匠，更是具备研究素养的实践探究者。有效的[[Initial Teacher Training|初始教师教育]]必须打破理论与实践的二元对立，将严谨学术证据作为临床教学诊断与决策的核心支撑。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 95)]]
 >
 > *Teachers need to be research-literate practitioners who can integrate academic knowledge and clinical observation to make informed pedagogical decisions.*
 
@@ -142,7 +143,7 @@ updated: 2026-09-17
 
 > [!person-network] 关系网络
 > - **学术合作者** Jo B. Helgetun — 合作开展英格兰教师教育政策演变与[[Evidence Era|证据时代]]研究。
-> - **学术合作者** Katharine Burn — 合作研讨初始教师教育中的临床实践模式。
+> - **学术合作者** Katharine Burn — 合作研讨[[Initial Teacher Training|初始教师教育]]中的临床实践模式。
 > - **机构平台** 英国教育研究协会（BERA） — 曾任主席（2013–2015），领导国家级调查。
 > - **机构平台** 苏格兰教育研究协会（SERA） — 曾任主席（2005–2007）。
 > - **机构平台** 牛津大学教育系 — 教师教育荣休教授。

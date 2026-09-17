@@ -10,7 +10,7 @@ summary: "在存在不完全依从（Non-compliance）的实验中，通过工�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
   - instrumental-variable
 related_concepts:
   - "[[Causality]]"
+  - "[[Initial Teacher Training]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Hypothesis]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Complier Average Causal Effect
@@ -61,7 +62,7 @@ updated: 2026-09-11
 > [!def] 概念定义
 > **顺从者平均因果效应（Complier Average Causal Effect, CACE）**，亦称**依从者平均因果效应**，是由统计学家 Donald B. Rubin 与经济学家 Joshua Angrist、Guido Imbens 于 1996 年形式化建立的现代[[Causality|因果推断]]核心概念，是指在存在**不完全依从（Non-compliance / Treatment Non-adherence）**的随机实验中，干预措施对那些“若被分配至干预组就会实际接受干预、若被分配至对照组就会实际接受对照”的**顺从者群体（Compliers）**所产生的平均因果净效应([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
-> 在现代因果计量框架中，CACE 与[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）构成了因果推断的两大支柱：ITT 评估的是“干预机会的分配政策效应（Effect of Assignment）”，而 CACE 借助初始[[Random Assignment|随机分配]]作为工具[[Variable|变量]]（Instrumental Variable, IV），在排除性约束（Exclusion Restriction）下准确剥离了中途违约与逃避行为，估计出干预措施本身的“纯净生理/教学效能（Pure Treatment Efficacy）”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 333–334]])。
+> 在现代因果计量框架中，CACE 与[[Intent-to-Treat Analysis|意向治疗分析]]（[[Initial Teacher Training|ITT]]）构成了因果推断的两大支柱：ITT 评估的是“干预机会的分配政策效应（Effect of Assignment）”，而 CACE 借助初始[[Random Assignment|随机分配]]作为工具[[Variable|变量]]（Instrumental Variable, IV），在排除性约束（Exclusion Restriction）下准确剥离了中途违约与逃避行为，估计出干预措施本身的“纯净生理/教学效能（Pure Treatment Efficacy）”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 333–334]])。
 
 > [!concept-lens] 效度视角与方法学定位
 > - **效度张力化解** 真实教育现场中学生常有缺勤或拒绝参与现象。若直接对比实际接受者与未接受者（As-Treated 分析），会引入严重的选择偏差（破坏[[Internal Validity|内部效度]]）；若仅看 ITT，[[Effect Size|效应量]]会被大量未依从者稀释。CACE 在不破坏随机化基础的前提下精确识别出干预的真实效能。
@@ -91,7 +92,7 @@ updated: 2026-09-11
 > [!formula-step] CACE 局部平均处理效应计算公式
 > 在满足**独立性假设**、**排除性约束**与**单调性假设**的前提下，CACE 的两阶段最小二乘（2SLS）/ 瓦尔德估计量表达为：
 >
-> $$\text{CACE} = \frac{\text{ITT}_Y}{\text{ITT}_D} = \frac{E[Y \mid Z=1] - E[Y \mid Z=0]}{E[D \mid Z=1] - E[D \mid Z=0]} = \frac{\text{分配状态对结果的意向效应}}{\text{分配状态对实际参与的顺从率}}$$
+> $$\text{CACE} = \frac{\text{[[Initial Teacher Training|ITT]]}_Y}{\text{ITT}_D} = \frac{E[Y \mid Z=1] - E[Y \mid Z=0]}{E[D \mid Z=1] - E[D \mid Z=0]} = \frac{\text{分配状态对结果的意向效应}}{\text{分配状态对实际参与的顺从率}}$$
 >
 > - **$\text{ITT}_Y$** 意向治疗效应（Intention-to-Treat Effect on Outcome）；
 > - **$\text{ITT}_D = P(\text{Complier})$** 顺从者在总样本中所占的比例（参与率差值）；
@@ -125,7 +126,7 @@ updated: 2026-09-11
 
 > [!case] [[Partnership Schools Kura Hourua|特许学校]]抽签入学与 CACE 估计（Angrist et al., 2002）
 > 某城市优质特许学校提供 200 个入学名额，400 名申请者参与随机摇号：
-> - **分配与顺从** 200 名中签者中，160 人实际报到入学（顺从），40 人因搬家放弃（Never-Takers）；200 名未中签者中，全部入读普通公立校（无 Defiers，顺从率 $\text{ITT}_D = 80\%$）。
+> - **分配与顺从** 200 名中签者中，160 人实际报到入学（顺从），40 人因搬家放弃（Never-Takers）；200 名未中签者中，全部入读普通公立校（无 Defiers，顺从率 $\text{[[Initial Teacher Training|ITT]]}_D = 80\%$）。
 > - **效应计算** 中签对全体申请者的 ITT 提分效应为 $+0.24\text{ SD}$；运用 CACE 计算特许学校对真正入读学生的净增益为 $\text{CACE} = +0.24 / 0.80 = \mathbf{+0.30\text{ SD}}$。
 
 ---

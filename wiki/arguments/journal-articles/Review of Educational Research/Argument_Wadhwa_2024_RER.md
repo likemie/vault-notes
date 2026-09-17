@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 78
+argument_related_count: 80
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Iatrogenic Effects in Education]]"
   - "[[Literature Search]]"
   - "[[Direct Instruction]]"
+  - "[[Initial Teacher Training]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
@@ -115,6 +116,7 @@ related_facts:
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[CNCS Evidence Exchange]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Reading Recovery]]"
   - "[[Partnership Schools Kura Hourua]]"
 related_arguments: []
 sources:
@@ -235,7 +237,7 @@ updated: 2026-09-13
 >    - 美国教育部累计向 WWC 投入超过 **1 亿美元** 的研发资金，使其拥有常设的技术审查委员会、庞大的外包评审团队、以及每两至三年迭代一次的极其详尽的技术手册（Handbook v4.0）；
 >    - 相比之下，多数非营利或大学下设机构（如 NDPC、CASEL、BEE）依赖短期竞争性基金或赠款维持运营，资金局限直接导致其[[Literature Search|文献检索]]广度受限、更新周期漫长、且往往无法对单项研究所包含的复杂微观统计参数（如群组内相关、[[Propensity Score Matching|倾向得分匹配]]算法）进行独立重算(pp. 6–8)。
 > 3. **评估对象的概念外延分化**
->    - 七家机构仅针对具备独立商业品牌或商标的具名方案（如 [[Success for All]], Reading Recovery）进行黑箱式项目评级；
+>    - 七家机构仅针对具备独立商业品牌或商标的具名方案（如 [[Success for All]], [[Reading Recovery]]）进行黑箱式项目评级；
 >    - WWC 则穿透到具体的教育政策（如[[Partnership Schools Kura Hourua|特许学校]]政策）、教学实践（如[[Direct Instruction|直接教学]]法）以及微观结果域。这种评价颗粒度的差异，为跨中心横向比较埋下了结构性错位的伏笔。
 
 ---
@@ -243,7 +245,7 @@ updated: 2026-09-13
 ### 步骤二：因果推断方法论标准与单项研究质量
 
 > [!claim] 步骤二主张
-> 所有清算中心均视[[Randomised Controlled Trials|随机对照试验]]（RCT）为[[Causality|因果推断]]的黄金标准，但在 RCT 实施质量的技术检验（[[Attrition|流失]]、基线等值、分析层次、[[Intent-to-Treat Analysis|意向治疗分析]] [Intention-to-Treat, ITT] 与[[Complier Average Causal Effect|顺从者平均因果效应]]（CACE））以及对[[Quasi-Experimental Designs|准实验设计]]（QED）、[[Regression Discontinuity Design|断点回归设计]]（RDD）和中断时间序列（[[Intelligent Tutoring Systems|ITS]]）的采纳程度上存在显著断层(pp. 8–11)。
+> 所有清算中心均视[[Randomised Controlled Trials|随机对照试验]]（RCT）为[[Causality|因果推断]]的黄金标准，但在 RCT 实施质量的技术检验（[[Attrition|流失]]、基线等值、分析层次、[[Intent-to-Treat Analysis|意向治疗分析]] [Intention-to-Treat, [[Initial Teacher Training|ITT]]] 与[[Complier Average Causal Effect|顺从者平均因果效应]]（CACE））以及对[[Quasi-Experimental Designs|准实验设计]]（QED）、[[Regression Discontinuity Design|断点回归设计]]（RDD）和中断时间序列（[[Intelligent Tutoring Systems|ITS]]）的采纳程度上存在显著断层(pp. 8–11)。
 
 > [!chain-link] 设计[[Coding in Qualitative Research|编码]]与实施细则
 > 作者将清算中心对四类因果设计的描述程度编码为 0–3 级（0=不提及；1=简要提及但无标准；2=描述设计但无专属实施标准；3=提供专属因果推断与实施质量标准）。

@@ -50,6 +50,7 @@ related_facts:
   - "[[First Look SoCal]]"
   - "[[SBIR and STTR Programs]]"
   - "[[NSF I-Corps]]"
+  - "[[Education Innovation and Research]]"
   - "[[UCSD Innovation and Commercialization Office]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Kendall Square]]"
@@ -66,7 +67,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -270,7 +271,7 @@ citation_aliases:
 21. 大学自身也在显著增加对衍生企业支持的基础设施投资(pp.147-148)：
 
    - **技术转移办公室（TTO）内部设立新创企业支持团队**。例如 UCLA 技术开发组（Technology Development Group）内设 New Ventures Group，其职责不是传统的专利许可谈判，而是帮助教授评估"这个技术适合走创业路线还是许可路线"、帮忙写商业计划书、对接早期投资者。又如 Austin Technology Incubator（奥斯汀技术孵化器），一个专门的大学附属孵化器，主要职能就是支持有前景的教员衍生企业(p.147)。
-   - **[[Entrepreneur in Residence|驻校企业家]]（Entrepreneur in Residence, EIR）制度**。EIR 是具有成功创业和退出经验的高管，大学聘请他们来支持多个衍生企业。有两种模式：一种是全职 EIR，同时服务 5-10 家衍生企业；另一种是组建多元背景的兼职 EIR 团队——一个做过教育出版的、一个做过医疗设备的、一个做过企业 SaaS 的——根据衍生企业的行业匹配最合适的 EIR。"这种人才投资似乎是帮助衍生企业跨越从实验室到市场鸿沟的有效策略"(pp.147-148)。
+   - **[[Entrepreneur in Residence|驻校企业家]]（Entrepreneur in Residence, [[Education Innovation and Research|EIR]]）制度**。EIR 是具有成功创业和退出经验的高管，大学聘请他们来支持多个衍生企业。有两种模式：一种是全职 EIR，同时服务 5-10 家衍生企业；另一种是组建多元背景的兼职 EIR 团队——一个做过教育出版的、一个做过医疗设备的、一个做过企业 SaaS 的——根据衍生企业的行业匹配最合适的 EIR。"这种人才投资似乎是帮助衍生企业跨越从实验室到市场鸿沟的有效策略"(pp.147-148)。
 
 > [!example]
 > 教育学院聘请了一位兼职 EIR，他曾是一家 EdTech 创业公司的联合创始人，公司以 4000 万美元被收购后他退出了。他现在每周花两天时间为教育学院的四家衍生企业提供指导。一个做阅读干预的团队在跟学区谈试点时，EIR 看了合同草案后说："这份合同里有一条关于'数据所有权'的条款，学区要求拥有所有学生数据的所有权。如果你签了，以后你无法将这些数据用于产品改进或学术发表。我要跟学区副总谈，把这个条款改成'联合所有权，学区保留教育用途、你保留研发用途'。"这是一种教授自己几乎不可能拥有的专业判断，它来自多年的合同谈判经验，而非学术训练(pp.147-148)。
@@ -387,7 +388,7 @@ citation_aliases:
 > [!abstract]
 > **有效的大学-产业合作模式**
 > - [[Proof of Concept Programs|概念验证项目]]（PoP）将大学资助的[[Non-dilutive Funding|非稀释性拨款]]（$10K-$100K，数月到一年周期）与产业[[Mentorship|导师制]]结合，帮助衍生企业在投入大量资源之前获得关键的市场验证，做出"去"或"留"的明智决策(pp.148-149)
-> - [[Entrepreneur in Residence|驻校企业家]]（EIR）制度，以全职或兼职团队支持多个衍生企业，是帮助衍生企业"跨越从实验室到市场鸿沟"的有效策略(pp.147-148)
+> - [[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）制度，以全职或兼职团队支持多个衍生企业，是帮助衍生企业"跨越从实验室到市场鸿沟"的有效策略(pp.147-148)
 > - 联盟与会员制模型（如 UCSB SSLEEC）通过在制度设计中保留 IP 归大学所有、企业获得优先许可权（非独占）、研究人员保留独立创业权利，巧妙地绕过了 IP 毒丸问题(pp.150-151)
 > - 大学通过"人才杠杆"（企业需要招聘熟练劳动力）来协商产业对创业项目的参与(p.148)
 

@@ -9,7 +9,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -25,12 +25,13 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Ofsted]]"
+  - "[[Teacher Training Agency]]"
 related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-06-02'
+updated: 2026-09-17
 ---
 ## 背景
 
@@ -40,7 +41,7 @@ updated: '2026-06-02'
 ## 经过
 
 > [!note]- 经过
-> - **1996 年 4 月** — David Hargreaves 在 Teacher Training Agency (TTA) 年度讲座上发表题为 Teaching as a research-based profession: Possibilities and prospects 的演讲。
+> - **1996 年 4 月** — David Hargreaves 在 [[Teacher Training Agency]] (TTA) 年度讲座上发表题为 Teaching as a research-based profession: Possibilities and prospects 的演讲。
 > - Hargreaves 将教育与医学进行了不利比较——在医学领域，研究更有效地为专业实践提供信息。
 > - 尽管他明确拒绝教育应简单复制医学的建议，但论证教育应像医学一样寻求研究与专业实践之间更有生产力的关系。
 > - 该演讲为英国[[Evidence-Based Education|证据本位教育]]运动提供了关键的**政策动力([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.3–4]])**。
