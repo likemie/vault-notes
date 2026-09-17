@@ -57,7 +57,6 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Performance Indicators]]"
   - "[[Research Problem]]"
-  - "[[Primary and Secondary Documents]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Ecological Systems Theory]]"
@@ -80,9 +79,10 @@ related_arguments:
 sources:
   - "[[sources/Rickinson_2022_ER/Rickinson_2022_ER|Rickinson_2022_ER]]"
 part_of:
-status: draft
+status: stable
+confidence: high
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rickinson_2022_ER"
@@ -446,32 +446,21 @@ QURE 框架不仅提供了一套概念分类，更旨在打破教育实践中形
 > 3. **确立适切证据与审慎实施双核互构标准** 高质量使用要求研究证据兼具方法学严谨性与教育问题、情境及用途的三维适配，同时要求教育者开展批判研读、共同审议与深度情境化融合。（pp. 141–142）
 > 4. **揭示三层使能构件的协同支撑机制** 高质量[[Research Utilization|研究利用]]必须依托技能、心智与关系的个体使能，领导示范、文化培育与排程保障的组织使能，以及宏观[[Evidence Ecosystem|证据生态系统]]的全景协同支持。（pp. 142–145）
 
-> [!stat-cards]- 核心数据（pp. 135–137）
-> - **10,813** 篇四大跨学科数据库初步检索检出的[[Primary and Secondary Documents|原始文献]]记录总数。
-> - **179** 篇在初筛阶段被查重剔除的重复[[Document|文献]]记录数量。
-> - **9,837** 篇在题录与摘要双盲初筛阶段被判定为不相关的文献数量。
-> - **797** 篇进入全文资格评估的候选文献总数。
-> - **529** 篇在全文评估阶段被剔除的文献数量，其中 388 篇因缺乏对使用质量的明确关注而被排除。
-> - **268** 篇数据库检索最终保留的合格出版物数量。
-> - **175** 篇通过网络定向检索、专家个人咨询与引文滚雪球补充的文献数量。
-> - **112** 篇最终纳入深入质性分析与叙事综合的核心文献总量，涵盖卫生保健 30 篇、社会关照 29 篇、教育 31 篇、公共政策 22 篇。
-> - **6,000–12,000** 词四大领域独立撰写并经外部盲审的叙事综合文本字数规模。
-
 ---
 
 ## 关键引用
 
-> [!citation-card] 高质量研究证据使用的双核与使能界定
+> [!citation-card] 高质量研究[[Research Utilization|证据使用]]的双核与使能界定
 > 高质量研究证据使用是指在复杂系统内，由个体与组织使能构件协同支持的、对适切研究证据的审慎参与和实施。适切研究证据强调优质证据的情境特异性。从使用视角来看，优[[Qualitative Research|质的研究]]证据不仅需要在方法学上保持严谨，更必须切合具体教育问题、情境脉络以及既定用途。审慎参与和实施则体现了教育者对研究证据的批判性研读、对其内涵的共同审议，以及将证据要素有效整合进日常专业实践的过程。（pp. 140–141）
 >
 > *[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]] in education as: the thoughtful engagement with and implementation of appropriate research evidence, supported by a blend of individual and organisational enabling components within a complex system. Appropriate research evidence is about the quality and the context-specific nature of research evidence. From a use perspective, quality research evidence needs to be not only methodologically rigorous but also appropriate for the educational issues, the context and the intended use... thoughtful engagement and implementation reflect critical engagement with the research evidence, shared deliberation about its meaning and effective integration of aspects of the evidence within practice.*
 
-> [!citation-card] 临床专业判断在循证决策中的不可替代性
+> [!citation-card] 临床[[Professional Judgment|专业判断]]在循证决策中的不可替代性
 > 外部临床证据能够提供参考，但绝不能替代个体临床专业判断；正是这种专业判断决定了外部证据是否适用于具体患者。（Sackett et al., 1996, p. 72; 引于 p. 138）
 >
 > *External clinical evidence can inform, but can never replace, individual clinical expertise, and it is this expertise that decides whether the external evidence applies to the individual patient at all.*
 
-> [!citation-card] 证据使用转向证据知情话语的认识论内涵
+> [!citation-card] 证据使用转向证据知情话语的[[Epistemology|认识论]]内涵
 > 这一转向体现了从证据本位向证据知情话语的转变。这一转变强调专业实践应当由研究证据提供启发（而非完全建立在证据之上），研究证据应当与专业知识相互补充（而非取代专业知识）。（Boaz et al., 2019; 引于 p. 139）
 >
 > *This shift is about professional practice being informed by (not based on) research evidence and research evidence complementing (rather than replacing) professional knowledge.*

@@ -75,8 +75,6 @@ updated: 2026-09-17
 > [!claim] 项目定位
 > 莫纳什 Q 项目（The Monash Q Project）是由澳大利亚莫纳什大学（Monash University）与保罗·拉姆齐基金会（Paul Ramsay Foundation）合作开展的为期五年的旗舰重大研究计划（2019–2024），旨在系统理解并促进澳大利亚中小学对教育研究成果的高质量使用。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 183–184]]）
 
-项目在深入诊断国际[[Evidence-Based Education|循证教育]]偏狭困境的基础上，确立了系统的立项背景与问题导向。
-
 > [!program-context] 项目背景（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 183–184, 199]]）
 > - **立项时间 / 周期** 2019 年启动，设计实施周期为 5 年（2019–2024）。
 > - **发起方与资助机制** 由澳大利亚莫纳什大学教育学院主导，获得澳大利亚知名慈善机构保罗·拉姆齐基金会全额专项资助，联合各州教育部、学校系统与关键利益相关者深度合作。
@@ -87,12 +85,9 @@ updated: 2026-09-17
 
 ## 方案设计与运行机制
 
-围绕[[Research Utilization|证据使用]]质态的提升，项目提出了贯通理论、实证与工具转化的机制设想。
 
 > [!claim] 核心干预／机制假说
 > 项目确立了从跨领域概念建构到学校实证探索、再到支持工具落地的三阶段推进机制，核心假说在于通过明确使用质量标准并激活个体与组织使能条件，能够显著提升一线教师将研究证据转化为教学改善的效能。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 184–185]]）
-
-为系统验证上述机制假说，项目设计了多阶段协同推进的整体干预架构。
 
 > [!policy-design] 方案设计
 > - **项目目标** 界定教育中用好研究（Using Research Well）的概念内涵；描绘教师和校长的实际使用模式与促成/阻碍因素；研制提升学校[[Research Utilization|研究使用]]质量的专业学习方案与自评诊断工具。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 183–184]]）
@@ -100,7 +95,6 @@ updated: 2026-09-17
 > - **干预措施** 研发并在学校试行 [[Quality Use of Research Evidence Framework|QURE]] 框架、证据使用反思工作坊、[[Professional Learning Community|专业学习团队]]指南及[[School Leadership|学校领导]]者研究参与支持包。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 185–190]]）
 > - **实施控制** 采取[[Mixed Methods Research|混合方法研究]]设计，结合先验概念综合、大样本多州分层[[Questionnaire|问卷调查]]与多案例深入[[Qualitative Interview|质性访谈]][[Triangulation|三角互证]]。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, pp. 184–185]]）
 
-该方案设计以实践者专业视角为本位，确立了从单纯关注证据转向关注使用质量的立项使命。
 
 > [!citation-card] 核心立项使命
 > 提高政策与实践中的证据使用，需要明确回答从政治与专业视角看何谓更好的使用。这要求从关注证据本身的质量，向关注证据使用的质量发生关键位移。莫纳什 Q 项目旨在探究并支持教育实践中深思熟虑地使用适切证据。（Rickinson et al., 2020; [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, p. 183]]）
