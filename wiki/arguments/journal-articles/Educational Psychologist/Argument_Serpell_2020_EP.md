@@ -46,6 +46,7 @@ related_theories:
   - "[[Organizational Culture]]"
   - "[[Two-Communities Theory]]"
   - "[[Regulatory vs Developmental Policy Approaches]]"
+  - "[[Ecological Systems Theory]]"
   - "[[Nutley's Four-Dimension Framework for Research Uptake]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -54,7 +55,9 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Zewelanji N. Serpell]]"
+  - "[[Urie Bronfenbrenner]]"
   - "[[Carol Weiss]]"
+  - "[[Russell J. Skiba]]"
 related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
@@ -63,6 +66,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Institute of Education Sciences]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
+  - "[[House Committee on Education and the Workforce]]"
   - "[[The Education Trust]]"
   - "[[National Education Policy Center]]"
   - "[[American Educational Research Association]]"
@@ -81,7 +85,7 @@ title: "Argument_Serpell_2020_EP"
 argument_key: "Argument_Serpell_2020_EP"
 argument_display_title: "Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -220,7 +224,7 @@ journal: Educational Psychologist
 
 教育研究在政治决策中长期遭遇冷遇，其根源并非政客天生反智，而是科研生产的时间框架与政治决断的时间框架存在根本错位（Wong, 2008; p.42）。
 
-借用尤里·布朗芬布伦纳（Urie Bronfenbrenner）与斯蒂芬·J·塞西（Stephen J. Ceci, 1994）在人类发展生物生态学中提出的概念，政策演进具有独特的[[Policymaking Chronosystem|政策制定时间系统]]。政策环境从来不是真空，而是处于由社会历史情境与突发危机事件构成的动态条件集合之中。（p.42）
+借用[[Urie Bronfenbrenner|尤里·布朗芬布伦纳]]（Urie Bronfenbrenner）与斯蒂芬·J·塞西（Stephen J. Ceci, 1994）在[[Ecological Systems Theory|生态系统理论]]中提出的历时系统（Chronosystem）构想，政策演进具有独特的[[Policymaking Chronosystem|政策制定时间系统]]。政策环境从来不是真空，而是处于由社会历史情境与突发危机事件构成的动态条件集合之中。（p.42）
 
 > [!factors] 政策制定时间系统的三大运行条件
 > - **突发显著事件驱动** 联邦教育政策议程往往由特定时空节点发生的极端公共事件瞬间激活，例如 2012 年康涅狄格州桑迪胡克小学枪击惨案引发对校园心理健康与安保政策的急迫需求，或 2005 年卡特里娜飓风灾难迫使国会紧急出台受灾学生安置政策。此类危机带来巨大的立即行动压力（Oakley, Pesta, Ciftci, & Blomberg, 2013）。
@@ -279,11 +283,11 @@ journal: Educational Psychologist
 > 在阶段一（问题界定）中，研究者不仅可以自己走进议员办公室，更能充当赋权基层的知识经纪人。弗吉尼亚联邦大学学者利用关于青少年昼夜节律与睡眠周期的严谨神经科学证据，为本选区的一群中小学生家长提供了专业证据工具包。这群家长带着详实的学术证据造访当地州议员办公室，有力论证了将初高中上学时间推迟至上午 8 点半之后的科学依据，最终成功说服立法者立项跟进该议题。这一案例表明，研究者将专业知识赋权给深受议题影响的普通选民群体，能够形成远比学者单打独斗更具政治穿透力的游说合力。（pp.43–44）
 
 > [!case] 案例五：Russell Skiba 国会听证会专家证词——少数族裔排斥性纪律处分调查
-> 在阶段三（政策制定）中，国会委员会听证会是学术研究直接输入法案文本的最高殿堂。在美国众议院常设委员会关于校园惩戒改革的立法审议中，印第安纳大学学者拉塞尔·斯基巴（Russell Skiba）受邀出席听证会。斯基巴依据其多年积累的实证研究成果，向国会议员呈递了详实数据，揭示非裔学生在中小学校园中面临着严重不成比例的停课与开除等排斥性纪律处分，力证零容忍纪律政策并未提升校园安全反倒加剧了学业[[Attrition|流失]]。斯基巴的专家证词直接为委员会起草针对学校管教改革与反歧视拨款的法案条款提供了无可替代的实证支撑。（p.45）
+> 在阶段三（政策制定）中，国会委员会听证会是学术研究直接输入法案文本的最高殿堂。在美国众议院常设委员会关于校园惩戒改革的立法审议中，印第安纳大学学者[[Russell J. Skiba|拉塞尔·斯基巴]]（Russell J. Skiba）受邀出席听证会。斯基巴依据其多年积累的实证研究成果，向国会议员呈递了详实数据，揭示非裔学生在中小学校园中面临着严重不成比例的停课与开除等排斥性纪律处分，力证零容忍纪律政策并未提升校园安全反倒加剧了学业[[Attrition|流失]]。斯基巴的专家证词直接为委员会起草针对学校管教改革与反歧视拨款的法案条款提供了无可替代的实证支撑。（p.45）
 
 #### 2. 国会常设委员会、中介机构与立法政策简报的转化功能
 
-在正式法案起草与审议中，国会常设委员会（特别是众议院教育与劳动力委员会、参议院健康教育劳工与养老金委员会）是核心承载平台，其专业幕僚相较于个人议员办公室拥有更长远的政策视野和极强的研究利用意愿（Weiss, 1989; p.45）。
+在正式法案起草与审议中，国会常设委员会（特别是[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]、参议院健康教育劳工与养老金委员会）是核心承载平台，其专业幕僚相较于个人议员办公室拥有更长远的政策视野和极强的研究利用意愿（Weiss, 1989; p.45）。
 
 在此生态中，以新美国（New America）、美国教育理事会（American Council on Education, ACE）、[[The Education Trust|教育信托]]（The Education Trust, EdTrust）、美国[[Normal School|师范教育]]学院协会（American Association for Colleges of Teacher Education, AACTE）为代表的智库与专业中介机构，承担着极为关键的双重职能：语言[[Transfer Translation Transformation|转译]]与定向传播。这些机构深谙政治语言与立法痛点，能够实时收集和分析政策数据，并与委员会幕僚维持着高频互动，正如桑德拉·纳特利（Sandra Nutley, 2003, p. 14）所言：“当政策制定者本身是该政策领域的专业专家时，知识才能获得最顺畅的利用。”（p.45）
 

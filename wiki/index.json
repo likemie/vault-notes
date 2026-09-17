@@ -4287,7 +4287,8 @@
     "aliases": [
       "政策制定时间系统",
       "政策制定历时系统",
-      "政策时间生态系统"
+      "政策时间生态系统",
+      "Chronosystem in Policymaking"
     ]
   },
   {
@@ -11201,7 +11202,6 @@
     "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md",
     "aliases": [
       "卢曼系统理论",
-      "系统理论",
       "Luhmannian Systems Theory",
       "社会系统理论"
     ]
@@ -11431,7 +11431,18 @@
     "aliases": [
       "教育研究者政策导航框架",
       "政策导航框架",
-      "Serpell's Navigational Framework"
+      "Serpell's Navigational Framework",
+      "Navigational Framework"
+    ]
+  },
+  {
+    "title": "Nutley's Four-Dimension Framework for Research Uptake",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Nutley's Four-Dimension Framework for Research Uptake.md",
+    "aliases": [
+      "Nutley Four-Dimension Framework",
+      "纳特利证据吸纳四维框架",
+      "证据吸纳四维框架"
     ]
   },
   {
@@ -11446,6 +11457,17 @@
       "高质量研究使用",
       "高质量研究证据使用框架",
       "QURE Framework"
+    ]
+  },
+  {
+    "title": "Regulatory vs Developmental Policy Approaches",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Regulatory vs Developmental Policy Approaches.md",
+    "aliases": [
+      "规制型与发展型政策进路",
+      "规制型与发展型政策取向",
+      "规制型进路与发展型进路",
+      "Regulatory and Developmental Policy Approaches"
     ]
   },
   {
@@ -11554,6 +11576,17 @@
       "控制-价值学业情绪理论",
       "CVT",
       "Control-Value Theory of Achievement Emotions"
+    ]
+  },
+  {
+    "title": "Ecological Systems Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Ecological Systems Theory.md",
+    "aliases": [
+      "生态系统理论",
+      "生物生态学模型",
+      "Bioecological Model",
+      "Ecological Systems Model"
     ]
   },
   {
@@ -17680,7 +17713,7 @@
     "path": "wiki/persons/uk/Bertrand Russell.md",
     "aliases": [
       "Russell, B.",
-      "罗素"
+      "伯特兰·罗素"
     ]
   },
   {
@@ -19070,6 +19103,16 @@
     ]
   },
   {
+    "title": "Russell J. Skiba",
+    "type": "person",
+    "path": "wiki/persons/us/Russell J. Skiba.md",
+    "aliases": [
+      "Russell Skiba",
+      "拉塞尔·斯基巴",
+      "斯基巴"
+    ]
+  },
+  {
     "title": "Sherwood Eddy",
     "type": "person",
     "path": "wiki/persons/us/Sherwood Eddy.md",
@@ -19125,6 +19168,15 @@
       "Thomas S. Kuhn",
       "T. S. Kuhn",
       "T. Kuhn"
+    ]
+  },
+  {
+    "title": "Urie Bronfenbrenner",
+    "type": "person",
+    "path": "wiki/persons/us/Urie Bronfenbrenner.md",
+    "aliases": [
+      "尤里·布朗芬布伦纳",
+      "布朗芬布伦纳"
     ]
   },
   {
@@ -21209,7 +21261,6 @@
     "type": "fact",
     "path": "wiki/facts/ireland/Higher Education Authority.md",
     "aliases": [
-      "HEA",
       "爱尔兰高等教育局",
       "爱尔兰高教局",
       "An tÚdarás um Ard-Oideachas"
@@ -23499,6 +23550,15 @@
     ]
   },
   {
+    "title": "American Educational Research Association",
+    "type": "fact",
+    "path": "wiki/facts/us/American Educational Research Association.md",
+    "aliases": [
+      "AERA",
+      "美国教育研究学会"
+    ]
+  },
+  {
     "title": "Best Evidence Encyclopedia",
     "type": "fact",
     "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
@@ -23568,6 +23628,16 @@
     ]
   },
   {
+    "title": "House Committee on Education and the Workforce",
+    "type": "fact",
+    "path": "wiki/facts/us/House Committee on Education and the Workforce.md",
+    "aliases": [
+      "Committee on Education and the Workforce",
+      "众议院教育与劳动力委员会",
+      "众议院教育和劳工委员会"
+    ]
+  },
+  {
     "title": "Innovation Institute for Food and Health",
     "type": "fact",
     "path": "wiki/facts/us/Innovation Institute for Food and Health.md",
@@ -23628,6 +23698,15 @@
     ]
   },
   {
+    "title": "National Education Policy Center",
+    "type": "fact",
+    "path": "wiki/facts/us/National Education Policy Center.md",
+    "aliases": [
+      "国家教育政策中心",
+      "NEPC"
+    ]
+  },
+  {
     "title": "National Science Foundation",
     "type": "fact",
     "path": "wiki/facts/us/National Science Foundation.md",
@@ -23645,6 +23724,15 @@
     "aliases": [
       "承诺社区研究联盟",
       "PNRC"
+    ]
+  },
+  {
+    "title": "The Education Trust",
+    "type": "fact",
+    "path": "wiki/facts/us/The Education Trust.md",
+    "aliases": [
+      "EdTrust",
+      "教育信托"
     ]
   },
   {
@@ -23721,6 +23809,18 @@
     ]
   },
   {
+    "title": "Elementary and Secondary Education Act of 1965",
+    "type": "fact",
+    "path": "wiki/facts/us/Elementary and Secondary Education Act of 1965.md",
+    "aliases": [
+      "ESEA",
+      "Elementary and Secondary Education Act",
+      "初等与中等教育法",
+      "1965年初等与中等教育法",
+      "美国初等与中等教育法"
+    ]
+  },
+  {
     "title": "Every Student Succeeds Act",
     "type": "fact",
     "path": "wiki/facts/us/Every Student Succeeds Act.md",
@@ -23744,7 +23844,20 @@
       "2018年循证决策基础法案",
       "循证决策基础法案",
       "Evidence Act",
-      "Foundations for Evidence-Based Policymaking Act"
+      "Foundations for Evidence-Based Policymaking Act",
+      "FEBPA"
+    ]
+  },
+  {
+    "title": "Higher Education Act of 1965",
+    "type": "fact",
+    "path": "wiki/facts/us/Higher Education Act of 1965.md",
+    "aliases": [
+      "HEA",
+      "Higher Education Act",
+      "高等教育法",
+      "1965年高等教育法",
+      "美国高等教育法"
     ]
   },
   {
@@ -23918,6 +24031,17 @@
       "AVID",
       "个体决定促进计划",
       "通过个体决定获得成功计划"
+    ]
+  },
+  {
+    "title": "AERA Congressional Fellowship Program",
+    "type": "fact",
+    "path": "wiki/facts/us/AERA Congressional Fellowship Program.md",
+    "aliases": [
+      "国会政策研究员计划",
+      "国会研究员计划",
+      "AERA Congressional Fellowship",
+      "Congressional Fellowship Program"
     ]
   },
   {
@@ -24198,6 +24322,16 @@
       "彩虹项目",
       "斯腾伯格彩虹项目",
       "Sternberg Rainbow Project"
+    ]
+  },
+  {
+    "title": "Rapid Assessment and Response Strategy",
+    "type": "fact",
+    "path": "wiki/facts/us/Rapid Assessment and Response Strategy.md",
+    "aliases": [
+      "快速评估与响应战略",
+      "RARS",
+      "SRCD RARS"
     ]
   },
   {

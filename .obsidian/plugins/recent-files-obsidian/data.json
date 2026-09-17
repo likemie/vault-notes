@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md"
     },
     {
+      "basename": "American Educational Research Association",
+      "path": "wiki/facts/us/American Educational Research Association.md"
+    },
+    {
       "basename": "Institute of Education Sciences",
       "path": "wiki/facts/us/Institute of Education Sciences.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Intraclass Correlation Coefficient",
       "path": "wiki/methods/quantitative/Intraclass Correlation Coefficient.md"
-    },
-    {
-      "basename": "Random Assignment",
-      "path": "wiki/methods/quantitative/Random Assignment.md"
     }
   ],
   "omittedPaths": [],
