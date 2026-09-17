@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Professional Learning Community",
+      "path": "wiki/concepts/teacher-education/Professional Learning Community.md"
+    },
+    {
       "basename": "Argument_Rickinson_2022_ER",
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Evidence for ESSA",
       "path": "wiki/facts/us/Evidence for ESSA.md"
-    },
-    {
-      "basename": "Argument_Pavitt_1984_RP",
-      "path": "wiki/arguments/journal-articles/Research Policy/Argument_Pavitt_1984_RP.md"
     }
   ],
   "omittedPaths": [],

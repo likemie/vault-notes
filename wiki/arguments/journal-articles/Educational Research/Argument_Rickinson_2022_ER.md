@@ -50,6 +50,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Research Translation]]"
   - "[[Growth]]"
+  - "[[Professional Learning Community]]"
   - "[[Ontology]]"
   - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
@@ -88,7 +89,7 @@ title: "Argument_Rickinson_2022_ER"
 argument_key: "Argument_Rickinson_2022_ER"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -290,9 +291,9 @@ issuing_organization: ""
 > |---|---|---|---|
 > | **适切研究证据（Appropriate Evidence）**<br>（双核心构件） | **用什么（What）**<br>证据质量与情境适配 | 强调证据质量的情境特异性。从使用视角出发，优质研究不仅需具备方法学严谨性，更须契合具体的教育问题、学校现场情境与预期实践用途，兼顾[[Internal Validity\|内部效度]]与实践适用。 | Nutley et al. (2013)<br>Nelson et al. (2017) |
 > | **审慎参与和实施（Thoughtful Engagement）**<br>（双核心构件） | **怎么用（How）**<br>认知诠释与实践融通 | 摒弃“证据自行发声”迷思，实践者能动地研读与批判研究证据、在教研共同体中深度审议，并将其有机融通于日常教学改进与专业决策实践中。 | Coburn et al. (2009)<br>Sharples (2013) |
-> | **技能集（Skillsets）**<br>（个体使能构件） | **能否用（Can）**<br>专业知识与实践能力 | 实践者获取前沿学术资源、鉴别[[Evaluation Research|评价研究]]质量与效力边界、理解科研方法，以及结合本土学情与教学经验将[[Research Translation|研究转化]]为具体行动方案的[[Phronesis|实践智慧]]。 | BERA (2014)<br>Earl (2015) |
+> | **技能集（Skillsets）**<br>（个体使能构件） | **能否用（Can）**<br>专业知识与实践能力 | 实践者获取前沿学术资源、鉴别[[Evaluation Research\|评价研究]]质量与效力边界、理解科研方法，以及结合本土学情与教学经验将[[Research Translation\|研究转化]]为具体行动方案的[[Phronesis\|实践智慧]]。 | BERA (2014)<br>Earl (2015) |
 > | **心智倾向（Mindsets）**<br>（个体使能构件） | **愿否用（Will）**<br>专业品格与价值信念 | 抱持探究好奇心（questioning mind）与主动求索动机，自觉觉察并批判反思自身的经验前设与认知偏见，坚信研究能促进自我专业[[Growth\|成长]]并实质改善教学。 | Earl & Timperley (2009)<br>Stoll et al. (2018) |
-> | **人际关系（Relationships）**<br>（个体使能构件） | **与谁用（With whom）**<br>同行互信与社会化学习 | 依托专业学习共同体（PLC）与同侪互信氛围开展坦诚交流，将循证打造成去中心化、跨界协作的集体学习实践，抵御孤军奋战。 | Finnigan & Daly (2014)<br>Bryk et al. (2011) |
+> | **人际关系（Relationships）**<br>（个体使能构件） | **与谁用（With whom）**<br>同行互信与社会化学习 | 依托[[Professional Learning Community\|专业学习共同体]]（PLC）与同侪互信氛围开展坦诚交流，将循证打造成去中心化、跨界协作的集体学习实践，抵御孤军奋战。 | Finnigan & Daly (2014)<br>Bryk et al. (2011) |
 > | **领导力（Leadership）**<br>（组织使能构件） | **谁引领（Who leads）**<br>组织愿景与榜样示范 | 校级管理层将研究使用确立为全校发展愿景，通过自身言行、课堂转化与教学反思躬身示范循证实践，并搭建分布式领导架构以支持一线教研。 | Coldwell et al. (2017)<br>[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] |
 > | **[[Organizational Culture\|组织文化（Culture）]]**<br>（组织使能构件） | **何种氛围（Atmosphere）**<br>组织风气与价值规范 | 将循证探究内化为全校办学风气与共同规范，制度化写入学校章程，营造倡导日常批判反思、勇于承担风险并包容创新试错的心理安全环境。 | Handscomb & MacBeath (2003)<br>[[Argument_Brown_2017_ER\|Brown et al. (2017)]] |
 > | **基础架构（Infrastructure）**<br>（组织使能构件） | **何种保障（Support）**<br>制度资源与日常规程 | 在学校排程中制度化刚性保障专有研讨工时与物理空间，设立专项预算，配置校本研究协调员（Research Champions）岗位并规范化循证决策规程。 | Godfrey (2019)<br>Nelson & Campbell (2019) |
@@ -340,12 +341,12 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三　高质量研究使用依赖个体素养、组织生态与宏观治理的三层协同托举
+### 论证步骤三　高质量研究使用依赖个体素养、组织生态与宏观治理的三层协同支撑
 
 > [!claim] 步骤三核心主张
-> 高质量研究证据使用绝非孤立个体的技术性行为，必须依赖个体使能构件（技能集、探究心智、专业互信关系）、组织使能构件（榜样领导力、[[Reflexivity|反思性]]文化、制度化基础架构）以及宏观[[Evidence Ecosystem|证据生态系统]]的全景协同托举，方能转化为学校的内生常态。（pp. 142–145）
+> 高质量研究证据使用绝非孤立个体的技术性行为，必须依赖个体使能构件（技能集、探究心智、专业互信关系）、组织使能构件（榜样领导力、[[Reflexivity|反思性]]文化、制度化基础架构）以及宏观[[Evidence Ecosystem|证据生态系统]]的全景协同支撑，方能转化为学校的内生常态。（pp. 142–145）
 
-适切证据与审慎实施的双核运转，无法脱离具体的实践者素养、学校组织生态与宏观制度环境，必须依靠三层使能构件的系统托举。
+适切证据与审慎实施的双核运转，无法脱离具体的实践者素养、学校组织生态与宏观制度环境，必须依靠三层使能构件的系统支撑。
 
 #### 1. 个体使能构件：技能集、探究心智与专业互信关系构筑一线实践基石
 
@@ -360,7 +361,7 @@ issuing_organization: ""
 > - **技能集**
 >   涵盖获取学术资源、理解科研方法、鉴别研究质量并将结论转化为具体教学行动的专业能力与批判眼光。（BERA, 2014; p. 142）
 > - **心智倾向**
->   包含探究好奇心（Earl, 2015）、自觉参与动机（Stoll et al., 2018）、对自身偏见与假设的反思意识（Evans et al., 2017; Spencer et al., 2012）以及坚信研究能赋能专业[[Growth|成长]]的信念。
+>   包含探究好奇心（Earl, 2015）、自觉参与动机（Stoll et al., 2018）、对自身偏见与假设的反思意识（Evans et al., 2017; Spencer et al., 2012）以及坚信研究能促进专业[[Growth|成长]]的信念。
 > - **人际关系**
 >   建立在校内同行互信基础上的协作研讨网络，以及连接校外学者、中介机构的跨界合作伙伴关系，使证据利用成为集体性社会学习。（Finnigan & Daly, 2014; Bryk et al., 2011; p. 143）
 
@@ -373,18 +374,18 @@ issuing_organization: ""
 
 学校组织使能具体依托领导示范、文化包容与排程保障三大支柱，共同消除教师面临的工时赤字与试错防卫心理。
 
-> [!quad-grid] 组织使能三大支柱与协同托举机制（pp. 143–144）
+> [!quad-grid] 组织使能三大支柱与协同支撑机制（pp. 143–144）
 > - **榜样型领导力**<br>校级领导明确规划愿景并亲身垂范研究在教学中的应用，赋权教研骨干推行分布式领导架构，扮演连接学术界与学校的[[Boundary Spanner|知识中介者]]角色。（Coldwell et al., 2017; [[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]; Godfrey, 2019; Cain, 2019）
 > - **[[Reflexivity|反思性]]组织文化**<br>将证据使用上升为全校制度规范与发展规划，营造鼓励教师批判反思、宽容试验风险并倡导协同探究的心理安全氛围，展现审慎推进循证的战略态度。（Hanscomb & MacBeath, 2003; Stoll et al., 2018; [[Argument_Brown_2017_ER|Brown et al., 2017]]）
 > - **制度化基础架构**<br>在日常排程中刚性保障研讨时间与空间，配置专项预算与校内研究协调员，建立顺畅的外部学术支持渠道与正式/非正式研习规程。（Cain, 2019; BERA, 2014; Tripney et al., 2018）
-> - **多维协同托举机制**<br>领导示范赋予实践正当性，文化包容激发内在动机，基础架构消除资源与排程瓶颈，三者互构支撑循证实践在学校组织内深层扎根。
+> - **多维协同支撑机制**<br>领导示范赋予实践正当性，文化包容激发内在动机，基础架构消除资源与排程瓶颈，三者互构支撑循证实践在学校组织内深层扎根。
 
 #### 3. 宏观系统影响：多方协同的证据生态与非高利害制度环境保障内生演进
 
 微观学校与教师绝非孤立存在，而是深嵌于多元目的与多重力量交织的宏观教育系统之中。
 
 > [!theory-stance] 宏观教育系统的复杂互动与生态审视（pp. 144–145）
-> 改善证据使用必须依托全系统进路，既要防止高利害问责政策与刚性[[Performance Indicators|绩效指标]]对深度探究的挤压效应，又要打通生成、传播与使用的断点，构建健康的生态闭环（Meadows, 2014; Senge et al., 2012; Godfrey, 2019; Gough et al., 2018; pp. 144–145）。
+> 改善证据使用必须依托全系统进路，既要防止高利害问责政策与刚性[[Performance Indicators|绩效指标]]对深度探究的挤压效应，又要打通生成、传播与使用的断点，构建健康的生态系统（Meadows, 2014; Senge et al., 2012; Godfrey, 2019; Gough et al., 2018; pp. 144–145）。
 
 宏观系统通过问责导向、资源分配与生态回路，深刻塑造着学校微观实践的制度空间与演进轨道。
 
@@ -443,7 +444,7 @@ QURE 框架不仅提供了一套概念分类，更旨在打破教育实践中形
 > 1. **实现从证据质量向使用质量的[[Paradigm|范式]]转向** [[International Education|国际教育]]界长期深陷于何谓高质量证据的技术主义争辩，忽视了使用质量的本体价值；[[Quality Use of Research Evidence Framework|QURE]] 框架首次确立了以实践者为中心、以使用质态为核心的评价与发展新范式。（pp. 133–134, 140–141）
 > 2. **跨领域提炼[[Professional Judgment|专业判断]]与系统动态性两大共识** 卫生保健、社会关照、教育与公共政策四大领域的[[Systematic Review|系统综述]]证实，高质量使用高度依赖一线专业判断对情境的调适，且深嵌于非线性的复杂互动系统之中。（pp. 138–140）
 > 3. **确立适切证据与审慎实施双核互构标准** 高质量使用要求研究证据兼具方法学严谨性与教育问题、情境及用途的三维适配，同时要求教育者开展批判研读、共同审议与深度情境化融合。（pp. 141–142）
-> 4. **揭示三层使能构件的协同托举机制** 高质量[[Research Utilization|研究利用]]必须依托技能、心智与关系的个体使能，领导示范、文化培育与排程保障的组织使能，以及宏观[[Evidence Ecosystem|证据生态系统]]的全景协同支持。（pp. 142–145）
+> 4. **揭示三层使能构件的协同支撑机制** 高质量[[Research Utilization|研究利用]]必须依托技能、心智与关系的个体使能，领导示范、文化培育与排程保障的组织使能，以及宏观[[Evidence Ecosystem|证据生态系统]]的全景协同支持。（pp. 142–145）
 
 > [!stat-cards]- 核心数据（pp. 135–137）
 > - **10,813** 篇四大跨学科数据库初步检索检出的[[Primary and Secondary Documents|原始文献]]记录总数。
@@ -459,8 +460,6 @@ QURE 框架不仅提供了一套概念分类，更旨在打破教育实践中形
 ---
 
 ## 关键引用
-
-本文奠定了教育领域从关注“证据生产质量”向关注“[[Research Utilization|证据使用]]质量”[[Paradigm|范式]]跨越的理论基石，以下四条核心引述分别从总体理论界定、[[Professional Judgment|专业判断]]主体性、[[Epistemology|认识论]]哲学转向以及实践动员本质确立了核心学术主张：
 
 > [!citation-card] 高质量研究证据使用的双核与使能界定
 > 高质量研究证据使用是指在复杂系统内，由个体与组织使能构件协同支持的、对适切研究证据的审慎参与和实施。适切研究证据强调优质证据的情境特异性。从使用视角来看，优[[Qualitative Research|质的研究]]证据不仅需要在方法学上保持严谨，更必须切合具体教育问题、情境脉络以及既定用途。审慎参与和实施则体现了教育者对研究证据的批判性研读、对其内涵的共同审议，以及将证据要素有效整合进日常专业实践的过程。（pp. 140–141）
