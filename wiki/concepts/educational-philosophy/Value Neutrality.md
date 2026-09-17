@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，而在批判理论与当代循证反思中被解构为服务于数字审计治理的权力意识形态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 63
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -77,6 +77,8 @@ related_persons:
   - "[[Keith Morrison]]"
   - "[[Terry Wrigley]]"
   - "[[Gert Biesta]]"
+  - "[[Carol Weiss]]"
+  - "[[Zewelanji N. Serpell]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Education Endowment Foundation]]"
@@ -89,6 +91,7 @@ related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Rambla_2022_Springer]]"
+  - "[[Argument_Serpell_2020_EP]]"
 confidence: high
 status: draft
 created: 2026-06-17
@@ -231,6 +234,17 @@ updated: 2026-09-17
 > [!claim] Rambla, X.
 > **量化指标体系嵌入特定权力利益** 学校绩效排名与测评指标体系绝非客观中立的镜面测量，其指标选择与加权算法从一开始就深嵌着特定资本集团与官僚阶层的利益诉求。[[Argument_Rambla_2022_Springer|Rambla (2022)]]
 
+### 命题五　立法政策实务彻底打破价值中立假象并将科学证据转化为政治价值信念的辩护燃料
+
+> [!concept-lens] 立法政治中的价值嵌入与中立幻象解构
+> 该维度深入国家宏观立法与政策制定实务，揭示政策决策天然关乎政治价值取向；学术界自我标榜的“绝对客观超然”与“两造兼顾的谨慎中立”在立法生态中遭遇制度性排异，实证证据实质上充当支撑既定政治信仰的辩护燃料。
+
+> [!claim] [[Carol Weiss|Weiss, C. H.]]
+> **政策制定本质关乎政治价值而非中立技术计算** 政策制定根本上是意识形态、利益博弈与道德价值取向的产物，绝非去价值的技术工程（Weiss, 1977）。政策制定者极少仅凭一份新研究报告所提供的新颖经验数据而推翻既有的意识形态阵营与政治承诺（Weiss et al., 2008）；科学研究在现实政治世界中极少扮演发起变革的中立引擎，而主要扮演着为既定政治抉择提供合法性论证的辩护燃料（Weiss, 1991; Haskins & Baron, 2011）。[[Argument_Serpell_2020_EP|Serpell (2020, p. 42)]]
+
+> [!claim] [[Zewelanji N. Serpell|Serpell, Z. N.]]
+> **政策游说中的“中立陷阱”与学术免责的自我边缘化** 瑟佩尔（Serpell, 2020）基于美国国会委员会立法全职沉浸反思指出，学者固守“纯洁、无偏见的客观真理”外衣并要求政策声明保持绝对“价值中立与两造平衡”（如 Elson et al., 2019 对媒介暴力声明的批评），在立法实务中构成了致命的“中立陷阱”；国会的两党平衡是依靠双方各执证据在公开辩论中激荡达成的，绝非仰赖单个学者在发言时用大量免责声明自我抵消。研究者若在政策推介中夹带过多犹豫不决的学术保留与中立怀疑，其证据将瞬间被立法者弃置一旁（Gillies, 2014），从而导致完全缺乏科学依据的极端声音占据立法主导；研究者必须正视政治运作的价值本质，找准自身研究与决策者政治价值口号的契合点。[[Argument_Serpell_2020_EP|Serpell (2020, pp. 42–43, 46)]]
+
 ---
 
 ## 发展脉络
@@ -242,9 +256,11 @@ updated: 2026-09-17
 > - **1904–1917 — 韦伯确立社会学价值自由（Wertfreiheit）规范** [[Max Weber|马克斯·韦伯]]系统阐明价值中立原则，界定经验事实解释与政策价值推崇的边界，倡导学者保持学术清醒。
 > - **1958–1969 — 比较教育[[Positivism|实证主义]]运动发动清理“价值负荷”的[[Epistemology|认识论]]围剿** Templeton（1958）与诺亚、埃克斯坦（1969）以价值中立为标尺，批判传统历史哲学的“价值负荷”与“主观倾向”，推动学科向纯粹量化统计与客观假说检验转型。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61, 65)]]
 > - **1970–1980 年代 — [[Critical Theory|批判理论]]与多[[Paradigm|范式]]大解构** [[Critical Theory|批判理论]]、女性主义与[[Post-colonial Theory|后殖民理论]]彻底打破价值中立神话，揭示中立修辞掩盖西方男性霸权与阶级压迫的实质。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
+> - **1977–1991 — 政策科学解构中立技术理性神话** [[Carol Weiss|卡罗尔·韦斯]]（Weiss, 1977, 1991）揭示政策制定天然关乎价值权衡，确立研究主要充当政治合法化“燃料而非引擎”的经典命题。
 > - **1981 — 霍姆斯批判实证[[Operationalization|操作化]]的假中立与价值渗透** 霍姆斯（Holmes, 1981）指出操作化指标无法脱离文化价值系统而存在，实证派的中立口号实质上服务于战后中央理性规划与国际援助机构的技术官僚治理。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 64, 66)]]
 > - **1987 — 评估方法论中价值立场的系统制度化** Smith & Glass 确立价值处理是区分科学研究与项目评估的核心分界线，承认多重价值呈现的正当性。
 > - **2010 年代至今 — [[Evidence-Based Education|循证教育]]与新自由主义[[Governing by Numbers|数字治理]]合谋批判** 循证教育运动以“中立证据”之名强制推行技术问责，引发 Wrigley 与 Biesta 等学者对“数字治理”（[[Governing by Numbers]]）去政治化虚伪性的全面清算。
+> - **2020 年代 — 宏观立法实务对学术中立陷阱的反思与重塑** 瑟佩尔（[[Zewelanji N. Serpell|Serpell, 2020]]）从美国国会山实务出发，指出过度固守中立平衡导致学术成果被立法者边缘化，主张研究者必须体察政治时间系统与价值信念，将实证证据融入价值叙事。
 
 ---
 
@@ -292,6 +308,7 @@ updated: 2026-09-17
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 论述教育不仅关乎技能传授的效率，更关乎民主公民的培育与自主主体的生成；将教育决策托付给去价值的中立实证数据，是对教育民主本质的重大背叛。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 剖析脑科学证据如何被包装为“不偏不倚的自然科学真理”，从而合法化国家对初等教育课程控制权的强行收紧。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 揭示 [[PISA]] 等国际大型测评所宣称的“客观中立比较”，实际上深度嵌入了全球资本主义竞争的政治经济学逻辑。
+> - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 基于美国国会山立法沉浸反思，揭示立法决策的价值主导本质，批判学术界固守“中立平衡”与免责声明导致证据被政治家弃置的“中立陷阱”，论证研究者必须将实证证据融入立法者的价值体系。
 
 ---
 
@@ -310,3 +327,4 @@ updated: 2026-09-17
 > | [[Professional Judgment]] | 概念 | 当价值中立的技术数据被绝对化时，教师基于教育情境的专业伦理判断力遭到系统性剥夺。 |
 > | [[Evaluation Research]] | 概念 | 将价值处理列为区分纯学术研究（追求普遍中立）与实践评估（系统呈现多方利益价值）的界标。 |
 > | [[Critical Pedagogy]] | 概念 | 彻底撕下价值中立的伪善面具，主张教育探究必须旗帜鲜明地投身于反压迫与社会正义。 |
+> | [[Carol Weiss]] | 人物 | 经典政策科学理论家，提出“政策制定关乎价值”、“研究主要充当政治合法化燃料而非引擎”等核心洞见。 |

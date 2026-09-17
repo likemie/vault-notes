@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 52
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -70,14 +70,17 @@ related_persons:
   - "[[Donald A. Schön]]"
   - "[[Aristotle]]"
   - "[[John Hattie]]"
+  - "[[Zewelanji N. Serpell]]"
   - "[[Jürgen Habermas]]"
 related_facts:
+  - "[[No Child Left Behind Act 2001]]"
   - "[[Carter Review of Initial Teacher Training]]"
   - "[[ResearchED]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
+  - "[[Argument_Serpell_2020_EP]]"
   - "[[Argument_Helgetun_2022_JEP]]"
 confidence: medium
 status: draft
@@ -134,6 +137,7 @@ updated: 2026-09-17
 > - **专家特权与线性单向传输（Expert Privilege & Linear Transmission）** 确立学术研究者对因果真理的垄断地位，把知识传播构想为从大学向学校自上而下的单向输送。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 127)]]
 > - **去情境化可量化迷执（Decontextualised Quantificationalism）** 倾向于将所有教育现象转化为可测量的[[Variable|变量]]与标准量化指标，排斥质性、情境性与主观意义维度的证据。
 > - **去政治化技术官僚[[Disciplina and Doctrina|规训]]（Technocratic Schooling De-politicisation）** 将教育矮化为去情境化、可测量的工具性“学校教育”（Schooling），用量化生产力与[[Human Capital Theory|人力资本]]测算取代对社会正义与人类文明危机的哲学追问。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> - **规制型法定指标与高利害问责（Regulatory Statutory Metrics & High-Stakes Accountability）** 将技术理性以联邦立法形式刚性固化，如《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）将“基于科学的研究”与学生统考成绩强行绑定在人事惩戒上，误以为通过手段-目的工具控制即可直线提高学业产出，实质上诱发教学窄化与集体舞弊等系统性异化。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 41)]]
 
 > [!logic-map]- 要素关系与批判逻辑
 > ```mermaid
@@ -179,6 +183,9 @@ updated: 2026-09-17
 > [!claim] [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]]
 > **教师教育政策中的[[Epistemological Break|认识论断裂]]与守门把关** 在当代[[Evidence Era|证据时代]]，技术理性演化为一种主导性的[[Rationalized Myth|合理化神话]]。政府部门在推行教师教育改革时，假定实验室与随机试验中的教学规程可以无损、线性地[[Transfer Translation Transformation|转译]]为一线通用标准，在实践中导致了严重的认识论断裂；更为深层的是，技术理性被官方充当守门工具，通过[[Carter Review of Initial Teacher Training|卡特审查]]等程序定向筛选符合执政偏好的证据，使技术治理实质上沦为[[Policy-Based Evidence-Making|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 91–96)]]
 
+> [!claim] [[Argument_Serpell_2020_EP|Serpell (2020)]] / Raudenbush (2015)
+> **规制型政策进路的技术理性幻觉与组织权威瓦解悖论** 塞佩尔（[[Zewelanji N. Serpell|Serpell, 2020]]）剖析了美国联邦教育治理中规制型进路（Regulatory Approach）所秉持的技术理性本质。政策制定者企图将基于科学的研究与单一黄金标准（RCT）作为配置财政与设立问责的机械门槛（如 NCLB），设定自上而下的惩戒性控制。斯蒂芬·劳登布什（Stephen Raudenbush, 2015）尖锐揭示了这一手段-目的因果假设的荒谬性：孤立因果研究所给出的技术性答案无法直接指导宏观治理实践；若依据增值评价（Value-Added Measures）技术指标直接授权上级解雇教师，实质上直接摧毁了校长在学校组织中的治理权威。当技术理性把复杂的教育生态还原为孤立因果链条时，不仅无法消除系统不确定性，反倒破坏了教育组织的内在生态平衡并诱发广泛的应试舞弊。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
+
 ---
 
 ### 命题三　超越技术理性要求从单向线性研究供给转向基于专业判断与社会互动的知识动员与证据知情实践
@@ -197,7 +204,7 @@ updated: 2026-09-17
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论批判命题** | 揭示技术理性手段-目的计算在复杂、不确定专业情境中的失效与错配 | 课堂教学、临床诊断等不确定性专业实践 | Schön; Nielsen & Klitmøller |
-> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的去技能化、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、教师教育审查与国际指标测度 | Habermas; Biesta; Kazamias; Helgetun & Menter |
+> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的去技能化、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、教师教育审查与国际指标测度 | Habermas; Biesta; Kazamias; Helgetun & Menter; Serpell; Raudenbush |
 > | **实践重构与替代命题** | 倡导以专业判断为枢纽、多源证据整合与社会共创式知识动员超越技术理性 | 证据知情学校改进、[[Research-Practice Partnership\|研究-实践伙伴关系]]、校本探究循环 | Nelson & Campbell; Bryk |
 
 ---
@@ -210,9 +217,11 @@ updated: 2026-09-17
 > - **1976 / 1984 — [[Critical Theory|批判理论]]与合法化危机分析** [[Jürgen Habermas|哈贝马斯]]出版《合法化危机》与《交往行为理论》，系统剖析技术理性作为国家行政治理媒介对日常生活世界的殖民。
 > - **1983 — [[Reflexivity|反思性]]实践者模型的提出** 舍恩出版《反思性实践者》（*The Reflective Practitioner*），正式将技术理性定义为实证主义专业[[Epistemology|认识论]]，倡导反思性实践作为替代范式。
 > - **2000s — [[Evidence-Based Education|循证教育]]运动与技术理性复兴** 随着“[[What Works Movement|什么有效运动]]”及英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）工具包的普及，技术理性在教育政策中以[[Effect Size|效应量]]排行榜和因果证据等级制的形式再度盛行。
+> - **2001 — NCLB 将技术理性固化为联邦规制法条** 乔治·布什签署《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），首次将“基于科学的研究”嵌入联邦法律，开启了将标准化测验与人事考核刚性绑定的技术理性规制时代。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 41)]]
 > - **2009 — 卡扎米亚斯批判技术官僚理性并重申全人[[Bildung|教化]]** 卡扎米亚斯系统批判技术官僚理性对比较教育人文传统的剥离，重申古典全人教化（*[[Paideia]]*）的人本底线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 > - **2017 — 证据知情视阈下对技术理性线性供给的反思** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 批判自上而下的技术-理性灌输模型，倡导以[[Professional Judgment|专业判断]]为核心的全系统[[Knowledge Mobilisation|知识动员]]。
 > - **2022 — 教师教育[[Evidence Era|证据时代]]的[[Epistemological Break|认识论断裂]]与[[Rationalized Myth|合理化神话]]** [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] 揭示技术理性在当代政策中演进为主导性合理化神话，通过自上而下的[[Policy-Based Evidence-Making|逆向证据生产]]（PBEM）维系国家对教师教育准入的集权控制。
+> - **2020 — 政策导航框架对单一黄金标准的技术理性批判** 塞佩尔（[[Argument_Serpell_2020_EP|Serpell, 2020]]）基于国会立法实务，全面反思规制型进路与单一实验金标准在宏观治理中的方法论脱节，呼吁转向考量地方情境的发展型政策进路（Developmental Approach）。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
 
 ---
 
@@ -246,6 +255,7 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 批判联邦教育治理中将单一实验金标准作为准入门槛的规制型技术理性，揭示 NCLB 问责异化与劳登布什增值评价治理悖论，倡导情境敏感的发展型政策进路。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 批判教育政策中长期主导的“技术-理性”研究灌输模型，系统阐述以[[Professional Judgment|专业判断]]为核心的多源[[Evidence-Informed Practice|证据知情实践]]与全系统[[Knowledge Mobilisation|知识动员]]。
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 剖析英格兰 35 年教师教育改革中技术理性的[[Epistemological Break|认识论断裂]]，揭示证据作为[[Rationalized Myth|合理化神话]]在政策逆向生产中的政治把关功能。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史批判指出 1960 年代实证转型以技术官僚理性取代历史-哲学-文化传统，将教育异化为狭隘的学校技能[[Disciplina and Doctrina|规训]]，重申以人为中心的全人[[Bildung|教化]]防线。

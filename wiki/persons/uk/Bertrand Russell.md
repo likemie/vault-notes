@@ -2,8 +2,8 @@
 title: Bertrand Russell
 aliases:
   - Russell, B.
-  - 罗素
-summary: "英国哲学家、逻辑学家与数学家，分析哲学奠基人之一，以《数学原理》《西方哲学史》等巨著深刻影响 20 世纪哲学与公共文化，1950 年获诺贝尔文学奖"
+  - 伯特兰·罗素
+summary: 英国哲学家、逻辑学家与数学家，分析哲学奠基人之一，以《数学原理》《西方哲学史》等巨著深刻影响 20 世纪哲学与公共文化，1950 年获诺贝尔文学奖
 type: person
 nationality: uk
 person_region: "uk"
@@ -13,15 +13,15 @@ person_related_stars: ""
 person_related_color: "#e5e7eb"
 born: "1872"
 died: "1970"
-lifespan: "1872–1970"
+lifespan: 1872–1970
 tags:
-- region/uk
-- region/western
-- field/philosophy
-- field/mathematics
-- field/logic
-- school/analytic-philosophy
-- theme/knowledge
+  - region/uk
+  - region/western
+  - field/philosophy
+  - field/mathematics
+  - field/logic
+  - school/analytic-philosophy
+  - theme/knowledge
 related_concepts:
   - "[[Epistemology]]"
   - "[[Theory of Knowledge]]"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Bertrand Russell
 

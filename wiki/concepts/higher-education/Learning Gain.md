@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在高等教育阶段从入学到毕业期间在知识储备、高阶思维技能、工作就绪度及个人发展等维度所获得的净增长或纵向发展距离"
 type: concept
 domain: "higher-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -57,6 +57,7 @@ related_facts:
   - "[[HEFCE Learning Gain Project]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Serpell_2020_EP]]"
 created: 2026-08-26
 updated: 2026-09-17
 ---
@@ -115,7 +116,18 @@ updated: 2026-09-17
 
 ---
 
+---
+
+### 命题三　增值评价指标的微观技术有效性无法直接等同于宏观治理决策的合理性
+
+> [!concept-lens] 测量指标与宏观政策生态的制度脱节
+> 剖析增值评价模型（Value-Added Measures, VAM）在基础教育与宏观政策治理中从技术有效性向高利害决策转化时的深层悖论。
+
+> [!claim] 增值指标的治理生态制约
+> 即使严谨的实证研究或随机对照试验证实增值评价指标能有效预测教师教学效能，这也绝不意味着政策制定者可以直接依据该指标授权学区总监解雇教师。斯蒂芬·劳登布什（Stephen Raudenbush, 2015）指出，回答微观颗粒度的事实问题（如增值模型能否有效识别教师绩效）并不等于能直接导出行动决策；若机械将其转化为惩戒性人事规制，将直接瓦解校长的日常治校权威并破坏教师专业信任生态。增值指标本身是技术理性测量工具，其高利害政策转化必须充分考量教育治理系统的连带反应，防范技术理性对学校组织生态的反噬。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
+
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 详细梳理了 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills|高阶思维]]评价的政策项目（包括英国 [[HEFCE Learning Gain Project|HEFCE Learning Gain]] 计划、德国 [[KoKoHs Program|KoKoHs]] 项目与意大利 ANVUR [[TECO Project|TECO]] 试验），分析了不同测度方法的优劣与政策启示。
+> - [[Argument_Serpell_2020_EP|Serpell (2020)]] 援引 Stephen Raudenbush (2015) 论析增值评价（VAM）在宏观政策应用中的局限，指出单一增值测量的技术有效性无法直接替代宏观治理决策，揭示了微观技术理性与宏观学校治理生态之间的深层张力。

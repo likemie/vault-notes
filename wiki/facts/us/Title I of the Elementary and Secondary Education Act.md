@@ -13,9 +13,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "美国联邦政府（U.S. Department of Education & U.S. Congress）"
 tags:
@@ -39,6 +39,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Correlational Research]]"
 related_facts:
+  - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
@@ -60,7 +61,7 @@ updated: 2026-09-17
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1965 年由林登·约翰逊（Lyndon B. Johnson）总统签署《初等与中等教育法（Elementary and Secondary Education Act of 1965, ESEA）》设立，后续历经 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》与 2015 年《[[Every Student Succeeds Act|每一个学生成功法]]（Every Student Succeeds Act, ESSA）》再授权，由美国联邦教育部（U.S. Department of Education）主导实施。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, p. 162)]]
+> - **发布时间 / 发布主体** 1965 年由林登·约翰逊（Lyndon B. Johnson）总统签署《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》设立，后续历经 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》与 2015 年《[[Every Student Succeeds Act|每一个学生成功法]]（Every Student Succeeds Act, ESSA）》再授权，由美国联邦教育部（U.S. Department of Education）主导实施。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, p. 162)]]
 > - **适用地区 / 对象** 全美各州教育厅（State Educational Agency, SEA）、地方教育机构（Local Educational Agency, LEA）及贫困生比例较高的公立中小学校与低收入家庭学龄儿童。
 > - **问题背景** 作为向贫困宣战（War on Poverty）的核心教育支柱，政策旨在通过联邦补充性转移支付，打破贫困与低[[Academic Achievement|学业成就]]之间的代际循环，弥合处境不利儿童与同龄人之间的教育机会与学业鸿沟。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 164–165)]]
 > - **制度位置** 属于美国联邦基础教育资助体量最大的专项拨款（[[Categorical Funding]]），年度资助规模达 140 亿至 165 亿美元以上，是联邦教育政策介入地方学区办学行为最核心的财政杠杆。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 162, 164)]]

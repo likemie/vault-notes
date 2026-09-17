@@ -1,11 +1,10 @@
 ---
 title: Higher Education Authority
 aliases:
-  - HEA
   - 爱尔兰高等教育局
   - 爱尔兰高教局
   - An tÚdarás um Ard-Oideachas
-summary: "爱尔兰法定高等教育战略规划、经费拨款与质量监管机构，负责统筹全爱尔兰公立大学与理工学院，发起爱尔兰学生投入调查（ISSE）并统筹推进高教国家战略。"
+summary: 爱尔兰法定高等教育战略规划、经费拨款与质量监管机构，负责统筹全爱尔兰公立大学与理工学院，发起爱尔兰学生投入调查（ISSE）并统筹推进高教国家战略。
 type: fact
 subtype: organization
 region: ireland
@@ -15,7 +14,7 @@ fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
-issuing_organization: "Higher Education Authority"
+issuing_organization: Higher Education Authority
 tags:
   - policy/funding-council
   - region/ireland
@@ -36,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-17
 ---
 
 # Higher Education Authority

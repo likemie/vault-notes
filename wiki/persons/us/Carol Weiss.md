@@ -79,13 +79,19 @@ updated: 2026-09-17
 > - **1980 — *Knowledge Creep and Decision Accretion*** 提出"知识渗透"（knowledge creep），说明研究常以缓慢、累积、间接的方式改变决策者思维，而非直接应用（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
 > - **1989 — *Congressional Committees as Users of Analysis*** 剖析美国国会各常设委员会对实证分析的实际吸纳与使用机制。
 > - **1991 — *Policy Research as Advocacy: Pro and Con*** 辩证探讨政策研究作为倡导行动的性质，指出研究有效介入取决于在正确的时间向正确的人提供正确的信息。
+> - **2008 — *The Fairy Godmother—and Other Unlikely Scenarios: How Social Science Can Influence Policy*** （合著）揭示政治决策者受选民代表性与政治风险约束的“立场锁定”特征，指出立法者极少因看到新实证结果而放弃既定政见，实证影响必须与宏观政治气候变迁协同。
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 研究不是以"研究发现→直接采纳"的线性方式进入政策与实践，而是通过多种路径——直接应用、[[Problem Solving|问题解决]]、持续互动、策略性引用——并以"知识渗透"般的缓慢方式改变决策者的思维。[[Research Utilization|研究利用]]因此是扩散性、累积性的，而非即时因果输入。
+> 研究不是以“研究发现→直接采纳”的线性方式进入政策与实践，而是通过多种路径——直接应用、[[Problem Solving|问题解决]]、持续互动、策略性引用——并以“知识渗透”般的缓慢方式改变决策者的思维。[[Research Utilization|研究利用]]因此是扩散性、累积性的，而非即时因果输入。
+
+> [!feature] 政策决策中的证据燃料论、价值本质与委员会吸收机制
+> - **证据作为辩护“燃料”而非变革“引擎”（Research as Fuel, Not Engine）** Weiss（1991）与 Haskins & Baron（2011）深刻洞察到，在突发事件激活的政策时间系统中，政治家通常在数小时内被迫宣布政策立场；在极速立场锁定的关口，议员办公室开始迫切搜寻证据以赋予该立场合法性。因此，实证科学极少能够扮演发起政策变革的首要引擎（driving force），但往往充当着至关重要的辩护燃料（fuel）。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
+> - **政策制定本质上关乎价值立场（Policymaking is About Values）** Weiss（1977）指出，政策辩论的核心是价值观念与政治哲学的交锋，而非技术理性的算计。立法者主要利用研究强化预先存在的政治信念并为其施政口号提供注脚；策略性挑选（cherry-pick）符合立场的文献是政治世界维系选民联盟的理性行为，学者必须理解并合理嵌入立法者的价值框架。（Weiss et al., 2008; Serpell, 2020, pp. 42–43）
+> - **国会常设委员会作为实证分析的核心用户（Committees as Users of Analysis）** Weiss（1989）对美国国会的研究证实，相较于议员个人办公室面对选民突发事件的快节奏应付，国会常设委员会的专业幕僚拥有更长远的政策视野、更强的专业知识与更高的实证利用意愿，构成了学术证据实质性嵌入法案文本的最关键制度载体。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 45)]]
 
 > [!citation-card]- 关键表述
 > Weiss（1980, p. 381）把[[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]称为"知识渗透"（knowledge creep）：研究以复杂而往往间接的方式为实践者提供信息，影响他们对议题的理解与思考（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。

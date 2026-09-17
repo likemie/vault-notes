@@ -16,10 +16,10 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dbeafe"
+fact_related_count: 41
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 issuing_organization: "美国联邦政府（U.S. Congress & White House）"
 tags:
   - policy/federal
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Developer-Made Measures]]"
   - "[[Causality]]"
+  - "[[Policymaking Chronosystem]]"
   - "[[Evidence-Based Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Implementation Fidelity]]"
@@ -60,6 +61,7 @@ related_persons: []
 related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
   - "[[Education Innovation and Research]]"
@@ -69,6 +71,7 @@ related_facts:
   - "[[Strategic School Improvement Fund]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Serpell_2020_EP]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Wolf_2020_JREE]]"
@@ -89,7 +92,7 @@ updated: 2026-09-17
 > - **发布时间 / 签署主体** 美国国会于 2015 年 12 月两党压倒性高票通过（参议院 85:12，众议院 359:64），由贝拉克·奥巴马（Barack Obama）总统正式签署生效。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
 > - **适用地区 / 覆盖对象** 全美 50 州公立中小学校（K–12），重点规范接受联邦 [[Title I of the Elementary and Secondary Education Act|Title I]] 资助的学校，尤其是[[Academic Achievement|学业表现]]处于全州倒数 5% 的综合支持与改进学校（Comprehensive Support and Improvement, CSI）以及存在群体差距的针对性支持与改进学校（Targeted Support and Improvement, TSI）。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]
 > - **问题背景** 全面修正 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》中僵化严苛的联邦全面达标要求（Adequate Yearly Progress, AYP）与惩罚性行政问责机制；在向各州下放教育治理与评价自主权的同时，建立以因果证据为导向的精准改进与财政激励体系。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
-> - **制度位置** 属于美国 1965 年《初等与中等教育法》（Elementary and Secondary Education Act, ESEA）的第七次全面重新授权，标志着美国基础教育治理从惩罚性行政问责向证据本位精准改进与分级激励的历史性跨越。
+> - **制度位置** 属于美国 1965 年《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》的第七次全面重新授权。在宪法第十修正案确立的教育州权分权体制下，法案深刻吸取了 NCLB 诱发应试操练与集体舞弊的异化教训，标志着美国基础教育治理从僵化规制向发展型治理进路、从单一测试问责向证据分级激励的历史性跨越。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 41)]]
 
 ---
 
@@ -99,7 +102,7 @@ updated: 2026-09-17
 > 《每一个学生成功法》（Every Student Succeeds Act, ESSA 2015）在向各州下放问责评价自主权的同时，于联邦立法中确立了由四个层级构成的法定因果[[Evidence Standards|证据标准]]，并将联邦与州 [[Title I of the Elementary and Secondary Education Act|Title I]] 学校改进专项拨款与采纳高证据等级干预方案实施刚性绑定。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 23, 25)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 保障所有学生享有公平、公正的高质量教育机会，消除[[Academic Achievement|学业成就]]差距；通过法定证据门槛确保公共教育投资产出最大化学业回报。
+> - **政策目标与治理取向** 保障所有学生享有公平、高质量的教育机会，消除学业差距。在治理哲学上，法案代表了联邦教育政策从规制型进路（Regulatory Approach）向发展型进路（Developmental Approach）的深刻转型：摒弃自上而下的惩罚性达标考核，采用促进性法定表述，将教育评价权重新赋予各州，强调在动态变革中兼顾地方情境与人的复杂因素（Sutcliffe & Court, 2005），并转向包含学业与校园环境的多重综合评估体系。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 41)]]
 > - **适用对象** 全美各州教育厅（State Educational Agencies, SEAs）、地方学区（Local Educational Agencies, LEAs）、公立中小[[School Leadership|学校领导]]与教育科研评价机构。
 > - **政策工具** 依托联邦 Title I 专项拨款体系，设立四级法定[[Evidence Standards|证据标准]]（TIER 1–4），并将学校改进资助资金与各级项目准入硬性绑定：
 >   - **Tier 1 强证据（Strong Evidence）** 至少 1 项设计良好、实施良好的[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT），在无混淆[[Variable|变量]]干扰下呈现统计显著正效应；
@@ -138,8 +141,9 @@ updated: 2026-09-17
 ## 时间线
 
 > [!dev-timeline] 政策推进历程
-> - **2015 年 12 月 — 国会两党通过与总统签署** 美国参众两院以两党绝对优势通过 ESSA，奥巴马总统签署生效，正式终结 [[No Child Left Behind Act 2001|NCLB]] 时代。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
+> - **2015 年 12 月 — 国会两党通过与总统签署** 历经整整一届国会两会期（2 年以上）的长期立法博弈，参众两院以跨党派压倒性多数通过 ESSA，奥巴马总统签署生效，正式终结 NCLB 规制型问责时代。法案漫长的再授权审议充分展现了宏观政策时间系统（[[Policymaking Chronosystem]]）的高可预期性与长周期特征。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41, 46)]]
 > - **2016 年 — 联邦证据指南出台** 联邦教育部发布 ESSA 循证规定非约束性实施指南，明确界定 TIER 1–4 的统计与设计门槛，确立 强效清算中心（[[What Works Clearinghouse]], WWC） 与 [[Evidence for ESSA]] 等平台作为国家证据判定中枢。
+> - **2017 年 — 国会种族分层成绩数据收集规则博弈** 国会保守派议员发起立法动议，试图废除奥巴马政府在 ESSA 规章中强制要求各州收集并报告按种族细分的学生学业成就数据的条款；该动议遭到教育科研界与民权团体的强力抵制，生动展现了弱势群体实证数据本身就是政策政治博弈的核心焦点。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]; Schultz (2017)
 > - **2017–2018 年 — 州级综合计划审批与标准扩围** 各州陆续提交 ESSA 州级实施计划。亚利桑那州、路易斯安那州、明尼苏达州、马里兰州、内华达州、北卡罗来纳州与罗德岛州等主动将[[Evidence Standards|证据标准]]扩展至**州级自有教育财政拨款**与项目采购目录。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]; [[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 428)]]
 > - **2019 年至今 — 循证常态化治理与产业链成熟** 推动全美形成由大学智库、第三方评估机构、学区与课程出版商构成的[[Evidence-Based Education|循证教育]]产业链，倒逼服务商主动开展大样本第三方[[Randomised Controlled Trials|随机对照试验]]。
 
@@ -215,6 +219,7 @@ updated: 2026-09-17
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Elementary and Secondary Education Act of 1965]] | 上位母法 | 1965 年联邦中小学教育基石法律，ESSA 属于其第七次全面重新授权 |
 > | [[No Child Left Behind Act 2001]] | 前身法案 | 2001 年布什政府教育主法，ESSA 全面取代其严苛惩罚机制 |
 > | [[Title I of the Elementary and Secondary Education Act]] | 核心资助载体 | 联邦最大 K-12 专项拨款，ESSA [[Evidence Standards\|证据标准]]的主要资金实施依托 |
 > | [[Evidence Standards]] | 理论概念 | ESSA 四级分级框架所具体落实的宏观因果推论与方法学评价范畴 |
@@ -229,6 +234,7 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 系统阐明 ESSA 从规制型向发展型政策进路的转型机理、重构多维综合评估体系的必要性，以及 2017 年国会种族分层数据博弈所折射的实证政治学本质。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 详述 ESSA 证据分级在推动全美循证改革落地与三条件框架中的制度基石作用。
 > - [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] — 对大型城市学区开展 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act|Title I]] 资金审计，揭示 ESSA 单项合格研究门槛导致的名义合规与全量证据实质有效性之间的结构性断层。
 > - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 对比英美[[Evidence Standards|证据标准]]，剖析 ESSA 证据层级在因果推论中的优势与潜在漏洞。

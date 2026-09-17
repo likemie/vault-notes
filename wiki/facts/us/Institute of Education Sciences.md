@@ -26,14 +26,10 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Lifelong Learning]]"
-  - "[[Evidence Standards]]"
-  - "[[Internal Validity]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Empiricism]]"
-  - "[[Preregistration]]"
   - "[[Evaluator Independence]]"
   - "[[Hypothesis]]"
   - "[[Publication Bias]]"
+  - "[[Evidence Standards]]"
   - "[[Counterfactual]]"
   - "[[Engineered Evidence]]"
   - "[[Operationalization]]"
@@ -41,21 +37,23 @@ related_concepts:
   - "[[Developer-Made Measures]]"
   - "[[Implementation Fidelity]]"
   - "[[Knowledge Production]]"
+  - "[[Preregistration]]"
   - "[[Scientific Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Internal Validity]]"
   - "[[Variable]]"
   - "[[Conatus]]"
   - "[[Ecological Validity]]"
   - "[[Statistical Normalisation]]"
   - "[[Heterogeneity]]"
+  - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
   - "[[Democratising Evidence]]"
   - "[[Research-Practice Partnership]]"
 related_theories: []
 related_methods:
-  - "[[Randomised Controlled Trials]]"
-  - "[[Peer Debriefing]]"
   - "[[Intervention Research]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Experimental Research]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -65,11 +63,12 @@ related_persons:
   - "[[Mark Schneider]]"
   - "[[Robert Slavin]]"
 related_facts:
-  - "[[What Works Clearinghouse]]"
   - "[[Investing in Innovation Program]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Using Data Intervention]]"
+  - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
+  - "[[What Works Clearinghouse]]"
   - "[[Education Resources Information Center]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
@@ -79,6 +78,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Gorard_2020_ROE]]"
+  - "[[Argument_Serpell_2020_EP]]"
   - "[[Argument_Slavin_2019_EP]]"
 confidence: high
 status: completed
@@ -106,10 +106,10 @@ updated: 2026-09-17
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **2002–2010 — 创设奠基与因果[[Evidence Standards|证据标准]]确立** 成立初期确立以[[Internal Validity|内部效度]]为基石的研究评价体系，创设[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC），将[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）确立为因果干预评估的黄金标准，通过严格的[[Peer Debriefing|同行审议]]与证据分级，终结散漫低质的[[Empiricism|经验论]]述。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
-> - **2010–2015 — 投资创新计划（i3）与分级证据资助模型成型** 依托《美国复苏与再投资法案》，IES 与联邦教育部推行投资创新计划（[[Investing in Innovation Program|Investing in Innovation]], i3），开创性地将竞争性资助与前期实证证据等级（起步级、验证级、规模化级）深度绑定，资助了全美上百项大规模整校改革与课程整群 RCT 评估。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–24)]]
+> - **2002–2008 — 创设奠基与因果证据标准确立** 成立初期确立以内部效度为基石的研究评价体系，创设有效干预清算中心（WWC），将随机对照试验（RCT）确立为因果干预评估的黄金标准。2007 年，旗下 NCEE 资助实施了全美首批跨校大规模阅读与数学教育软件随机对照试验（Dynarski et al., 2007），首次以国家级严谨实验确证了干预成效的高度情境敏感性与组织异质性。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
+> - **2008–2015 — 投资创新计划（i3）与分级证据资助模型成型** 依托《美国复苏与再投资法案》，IES 与联邦教育部推行投资创新计划（[[Investing in Innovation Program|Investing in Innovation]], i3），开创性地将竞争性资助与前期实证证据等级（起步级、验证级、规模化级）深度绑定，资助了全美上百项大规模整校改革与课程整群 RCT 评估。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–24)]]
 > - **2015–2018 — [[Every Student Succeeds Act|ESSA]] 四级法定标准与重大后端因果评估** 《每个学生成功法案》（ESSA 2015）将 IES/WWC 四级证据标准正式上升为国家法定采购门槛；同时，IES 资助了佛罗里达 [[Using Data Intervention|Using Data]] 数据使用干预等重大试验，推动学界反思纯认知培训与真实学业增益脱节的转化瓶颈。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 571, 592)]]
-> - **2018–至今 — SEER 循证卓越标准与系统生态转型** 在院长[[Mark Schneider|马克·施奈德]]（Mark Schneider）领导下，IES 启动教育研究卓越标准（Standards for Excellence in Education Research, SEER）改革，从单纯强调因果内部效度，转向涵盖研究[[Preregistration|预注册]]、构件明确界定、实施反差记录、真实成本核算、独立通用测量、快速试错复现、市场化规模化转化以及教育公平响应的九维治理生态。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
+> - **2018–至今 — SEER 循证卓越标准与全域数据治理转型** 在院长[[Mark Schneider|马克·施奈德]]（Mark Schneider）领导下启动 SEER 卓越标准改革，从单纯强调因果内部效度转向九维治理生态；2019 年随《[[Foundations for Evidence-Based Policymaking Act of 2018|2018年循证决策基础法案]]》（FEBPA）生效，IES 受托牵头编制联邦教育部跨部门系统化“学习议程”（Learning Agendas）与年度评价计划，协同设立评价官与首席数据官，推动国家教育实证体系由孤立实验项目向开放微观行政数据治理纵深演进。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
 
 ---
 
@@ -120,6 +120,32 @@ updated: 2026-09-17
 > - **四大常设国家研究中心** 统辖国家教育研究中心（National Center for Education Research, NCER）、国家教育统计中心（National Center for Education Statistics, NCES）、国家特殊教育研究中心（National Center for Special Education Research, NCSER）以及国家教育评估与地区资助中心（[[National Center for Education Evaluation and Regional Assistance]], NCEE）。
 > - **证据转化与清算枢纽** 由 NCEE 统筹监管[[What Works Clearinghouse|有效干预清算中心]]（WWC）与[[Education Resources Information Center|教育资源信息中心]]（Education Resources Information Center, ERIC），执行高标准的[[Evaluator Independence|第三方独立评估]]与证据评级。
 > - **独立监督与同行评审委员会** 设立国家教育科学委员会（National Board for Education Sciences, NBES），由独立学者与公众代表组成，监督科研资助的公正性、科学严谨性与非党派属性。
+
+```mermaid
+graph TD
+    ED["美国教育部<br/>(U.S. Department of Education)"] --> IES["美国教育科学研究院<br/>(Institute of Education Sciences, IES)"]
+    NBES["国家教育科学委员会<br/>(NBES · 独立监督与顾问)"] -. 监督与战略审议 .-> IES
+
+    subgraph IES_CENTERS ["IES 四大常设国家研究中心"]
+        IES --> NCER["国家教育研究中心 (NCER)<br/>· 基础科研与因果实证立项<br/>· 学习科学与教学干预资助"]
+        IES --> NCES["国家教育统计中心 (NCES)<br/>· 全美教育进展评估 (NAEP)<br/>· 纵向追踪教育统计大数据"]
+        IES --> NCSER["国家特殊教育研究中心 (NCSER)<br/>· 残障儿童与全纳教育实证<br/>· 早期干预与发展支持"]
+        IES --> NCEE["国家教育评估与地区资助中心 (NCEE)<br/>· 联邦重大政策效果评估<br/>· 证据综合、清算与转化协助"]
+    end
+
+    subgraph NCEE_ENTITIES ["NCEE 下设核心转化与业务枢纽"]
+        NCEE --> WWC["有效干预清算中心<br/>(What Works Clearinghouse, WWC)"]
+        NCEE --> ERIC["教育资源信息中心 (ERIC)<br/>· 全球性教育文献数据库与索引"]
+        NCEE --> REL["区域教育实验室网络 (RELs)<br/>· 10 个跨州大区实验室<br/>· 支撑学区与州的实践伙伴网络"]
+        NCEE --> NAE["国家重大项目评估处<br/>(Title I / i3 / EIR 法定评估)"]
+    end
+
+    subgraph WWC_OUTPUTS ["WWC 证据产品与评价规程"]
+        WWC --> W1["WWC 证据审查标准与规程<br/>(Standards Handbook)<br/>· Group Design / RCT 因果认证"]
+        WWC --> W2["循证实践指南 (Practice Guides)<br/>· 操作性教学建议与专家共识"]
+        WWC --> W3["干预效果报告 (Intervention Reports)<br/>· 课程、软件与方案因果评级库"]
+    end
+```
 
 > [!pathways]- 业务运行机制与宏观制度杠杆
 > - **竞争性同行资助与预先注册规程** 实行高强度的同行竞争性立项评审，强制要求所有受资助的因果实证评估项目在干预前公开注册[[Hypothesis|研究假设]]、设计与分析计划，并全程公开数据与计算脚本，遏制数据挖掘与[[Publication Bias|发表偏倚]]。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
@@ -168,6 +194,7 @@ updated: 2026-09-17
 > - **学术引领与[[Scientific Paradigm|科学范式]]重塑** 通过联邦资助杠杆终结了低质散漫的随意评价，促使全美教育因果研究全面向实验设计、预注册与透明数据[[Paradigm|范式]]转型。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–207)]]
 > - **引领全球循证治理趋势** 其制定的证据层级与清算机制成为[[OECD|经合组织]]（OECD）多国（如英国[[Education Endowment Foundation|教育捐赠基金会]]等）设立本土证据中介机构的重要参照蓝本。
 > - **法定财政杠杆的制度化示范** 通过将 WWC 因果证据层级与联邦教育补助金深度绑定，开创了通过法律硬约束驱动学校采纳优质实证干预的宏观治理典范。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 598–600)]]
+> - **政策沉浸与国家科研领军人才转化中枢** [[Argument_Serpell_2020_EP|Serpell (2020, pp. 46–47)]] 考证指出，全职浸润式的国会科学研究员（Congressional Fellows）机制为 IES 等联邦核心机构输送了深谙立法与行政运作的关键管理人才。部分学者在结束国会山任期后进入 IES 执掌科研资助指南（RFPs）制定与优先资助领域设定，将真实的宏观政策需求反向注入国家教育科研资助顶层设计，打通了学术界与联邦行政中枢的隐性知识循环。
 
 > [!stat-cards]- 核心规模数据
 > - **≈ $150 million** 年科研投资额（约 1.5 亿美元）。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
@@ -231,7 +258,7 @@ updated: 2026-09-17
 > | [[Evidence Standards]] | Concept | IES 与 SEER 框架倡导的核心[[Causality\|因果推断]]与循证评价准则。 |
 > | [[Using Data Intervention]] | Fact (Program) | IES 资助的 4 级最高因果等级证据利用试验，揭示教师培训与学业增益的解耦。 |
 > | [[Investing in Innovation Program]] | Fact (Program) | 依托 IES/WWC 四级证据标准实施分级资助的联邦创新资助计划。 |
-> | [[ESSA 2015 Evidence Standards\|Every Student Succeeds Act]] | Fact (Policy) | 美国联邦重大教育法案，法定确立采用 IES/WWC 四级循证证据标准。 |
+> | [[Every Student Succeeds Act\|ESSA 2015 Evidence Standards]] | Fact (Policy) | 美国联邦重大教育法案，法定确立采用 IES/WWC 四级循证证据标准。 |
 > | [[Engineered Evidence]] | Concept | IES 资助核心数学脚本化教案研究所体现的微观工件化转化进路。 |
 > | [[Mark Schneider]] | Person | IES 代表性院长，主导研制推行 SEER 循证卓越标准。 |
 > | [[Robert Slavin]] | Person | [[Evidence-Based Education\|循证教育]]领军学者，长期承担 IES 重大项目并推动法定证据标准落地。 |

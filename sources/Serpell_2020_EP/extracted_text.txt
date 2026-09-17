@@ -1,0 +1,950 @@
+
+
+<<< PAGE 1 >>>
+
+Educational Psychologist
+ISSN: 0046-1520 (Print) 1532-6985 (Online) Journal homepage: www.tandfonline.com/journals/hedp20
+Supporting the integration of evidence into
+federal educational policy and reform eﬀorts:
+A navigational framework for educational
+researchers
+Zewelanji N. Serpell
+To cite this article: Zewelanji N. Serpell (2020) Supporting the integration of evidence into
+federal educational policy and reform eﬀorts: A navigational framework for educational
+researchers, Educational Psychologist, 55:1, 40-48, DOI: 10.1080/00461520.2019.1700798
+To link to this article:  https://doi.org/10.1080/00461520.2019.1700798
+Published online: 30 Jan 2020.
+Submit your article to this journal 
+Article views: 598
+View related articles 
+View Crossmark data
+Citing articles: 2 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=hedp20
+
+<<< PAGE 2 >>>
+
+Supporting the integration of evidence into federal educational policy and
+reform efforts: A navigational framework for educational researchers
+Zewelanji N. Serpell
+Department of Psychology, Virginia Commonwealth University
+ABSTRACT
+There is an ongoing debate about how best to infuse “evidence” into school evaluation and
+reform efforts, and what role education researchers can play in this effort. A lot of support has
+been garnered for evidence-based reform or policies that place a premium on practices that have
+been proven effective using rigorous research methods; most often randomized controlled trials
+(RCTs). This article discusses challenges with these approaches in the policy space, and presents
+an alternative framework for educational researchers; one that requires a deeper and more stra-
+tegic engagement in the policymaking process. It highlights that inherent in the federal process
+are important windows of opportunity for educational researchers to make their work count. The
+article considers the unique way in which time, intermediary partners, and communication influ-
+ence the development of federal educational policy, and what the implications are for educa-
+tional research.
+There is enormous potential for policy decisions to be better
+informed by evidence, but the research-to-policy divide in
+American education is a vast chasm. This was the impres-
+sion I had as an academic doing school-based research with
+little to no knowledge about policymaking; and this was
+what I came to know again, after a year of working in the
+political sphere as a congressional fellow. When I started
+outlining this article, it was my intention to articulate my
+insights about the root of this chasm based on my education
+policymaking experiences as a congressional fellow serving
+on the House Committee on Education and the Workforce.
+However, as I read more about this divide, I was astounded
+to discover that my specific “lessons learned ” had already
+been articulated in papers as early as the 1970s (see for
+example Weiss, 1977). This fact, led me to a simple conclu-
+sion: this was a problem of translation. Educational
+researchers can concentrate their efforts on improving the
+evidence base for policy and practice decisions. However,
+these efforts may be rendered void because uptake is threat-
+ened by constraints embedded in the standards we set for
+our research to be considered valid, and by our inadequate
+engagement in the policymaking process.
+In this article, I argue that in many ways the federal
+policymaking process can and does accommodate evidence,
+but how we define evidence matters. Adopting the gold-
+standard definition of “evidence” requires randomized
+controlled trial studies (RCTs; Slavin, 2017). However, the
+bottom line is that in politics, an RCT-based approach is
+not nimble enough to accommodate the complexity of the
+education field, nor the policymaking process as it is
+currently structured in the United States (Finnigan & Daly,
+2014). Further, educational policy is on the whole value-
+based (K. Wentzel, personal communication, April 2018),
+and is frequently driven by personal accounts of issues that
+emerge and inspire action in real-time. As such, successful
+contributions to policymaking are contingent on educational
+researchers being ready to engage with the right people,
+with the right information, at the right time (Weiss, 1991).
+The analysis presented here is in large part premised on the
+notion that to effectively put forward evidence you have to
+understand—and maybe even live in —the world of your
+intended recipients (Finnigan & Daly, 2014). The sections
+that follow describe this policymaking context, including its
+narrow domain of influence, and the structures in place
+therein, that define in what ways and when researchers can
+bring their evidence to bear.
+The federal policymaking landscape then and now
+The federal policymaking landscape can be viewed in terms
+of opportunities and constraints for educational researchers
+to indirectly and directly impact school improvement efforts.
+Historically in the United States, the federal government ’s
+role in education has been limited. This is due to the tenth
+amendment, which defines federalism as a two-tiered system
+whereby a territory is controlled by two levels of govern-
+ance—the federal government and the state (Nolan et al.,
+2018). Within the education arena, the tenth amendment
+also relegates most policy decisions to the states. As such,
+much of education policy pertinent to school evaluation and
+CONTACT Zewelanji N. Serpell znserpell@vcu.edu Department of Psychology, Virginia Commonwealth University, Box 842018, Richmond, VA 23284-2018.
+/C2232020 Division 15, American Psychological Association
+EDUCATIONAL PSYCHOLOGIST
+2020, VOL. 55, NO. 1, 40 –48
+https://doi.org/10.1080/00461520.2019.1700798
+
+<<< PAGE 3 >>>
+
+reform is decided and implemented at state and local levels.
+For example, the federal government does not oversee deci-
+sions about curricula, teaching methods, instructional mate-
+rials, nor even establish requirements or benchmarks for
+achievement.
+Two key pieces of education legislation were signed into
+law in 1965: the Elementary and Secondary Education Act
+(ESEA) and the Higher Education Act (HEA). Since the
+1960s, federal involvement has progressively grown, as
+indexed by the establishment of the Department of
+Education as an independent cabinet-level department in
+1980 (U.S. Department of Education, 2015). Although, this
+department’s role in policy remains relatively small. The pri-
+mary mechanism through which the federal government
+plays a role in education is through its relations with the
+states, and more specifically through stipulations for funding
+allocations. “Evidence” entered federal education policy with
+ESEA, which laid the foundation for an emphasis on high
+standards and accountability, with funds authorized to sup-
+port professional development and parental involvement,
+but also for instructional materials and educational pro-
+gram resources.
+The first truly reform-minded federal policy approach
+emerged under president George Bush with the passing in
+2001 of the No Child Left Behind Act (NBCL), and with
+this, “scientifically based research ” was written into law
+(Peterson, 2016). It is important to note that while the infu-
+sion of an “evidence” mandate was certainly a positive shift
+in the policy world, things can go shockingly awry. A case
+in point with NBCL: student performance as assessed by
+standardized test scores were yoked to teacher evaluations,
+which had the tragic effect in some states of teachers
+“teaching to the test ” or outright cheating (Croft, Roberts, &
+Stenhouse, 2015). A little over a decade later, ESEA was
+reauthorized under president Barack Obama as The Every
+Student Succeeds Act (ESSA) in 2015 and —in part in
+response to problems like the above —made dramatic
+changes to how school performance is measured, including
+requiring a comprehensive approach with multiple measures;
+defining and rewarding the use of evidence in policy and
+practice; and shifting many of the nuanced decisions around
+these back to the states (Skinner, 2019). Of note, both
+NBCL and ESSA are mostly regulatory policy approaches.
+The distinction between a regulatory and other policy
+approaches is an important one as each approach yields a
+different policy structure. For example, I paraphrase below —
+in education terms —the difference between a regulatory
+approach and a developmental approach articulated in a
+chapter by Russel et al. ( 2018) regarding policy to support
+adapting to climate change. A regulatory approach aims at
+establishing a framework for action that is mandated, such
+that the goal is to create a stable regulatory environment in
+which actions can be monitored and corrected. This
+approach should result in a system that reduces cost and
+waste of taxpayers ’ money. Theoretically, it should also pro-
+mote investment by inspiring confidence in efforts sup-
+ported by and reflecting the federal policy mandate. For
+example, in educational reform efforts increased state
+investment in education may be motivated or inspired by
+allocations from federal government that supports a particu-
+lar type of school reform effort.
+A developmental approach works to integrate policies
+within a dynamic context of ongoing change. Policies are
+therefore designed to facilitate rather than regulate, and to
+foster the creation and deployment of novel practices that
+support positive change. This policy approach is set up to
+stimulate work that can be adapted to push specific solu-
+tions that emerge out of local concerns. For example, lan-
+guage is included in policy that “encourages” some action,
+such as the evaluation of programs, but does not specify
+how this is done. Evidence plays a role in both regulatory
+and developmental policy approaches, but in the latter, evi-
+dence is not considered the only or most important factor
+and attention to the context of policymaking, including
+human factors is critical (Sutcliffe & Court, 2005). In the
+following sections, I focus on the role of evidence in the pol-
+icymaking process.
+Evidence in policymaking
+In policymaking, there is preexisting evidence that can help
+inform policy decisions, and post-policy enactment evidence,
+which is evaluative and speaks to the impact of an existing
+policy. The key questions here are: what counts as evidence?
+When and why does evidence influence policy or not? For
+educational researchers, the question of evidence is really
+about data: what kind we pursue and how we go about col-
+lecting it (research methods). In the policy world, very care-
+ful attention is paid to how federally-owned data is made
+available, to who and for how long. In fact, data collection
+can itself be a policy issue. In 2017, for example, an effort
+was launched in congress to end a policy that mandated the
+collection of student achievement data disaggregated by
+race. The argument was that it served no purpose, even
+though its inclusion in policy was specifically to ensure
+schools recognized and could take steps to address achieve-
+ment gaps.
+Legislators also vary in their embrace of evidence arising
+from science-based research despite the fact that it is the
+defining feature of the two most significant policy shifts in
+education: the No Child Left Behind Act (2011) and the
+Every Student Succeeds Act (2015). Ambiguity about how to
+define “evidence” is related in part to ambivalence about
+what constitutes a fact (Schultz, 2017). This is important
+because “fact gathering ” is the cornerstone of policymaking.
+How politicians and researchers view the world and how
+they gather facts to build evidence is very different. For poli-
+ticians the gathering of facts is based on what will be most
+persuasive with the general public or with those whom they
+are trying to convince. In other words what will “sell” or be
+compelling to sway a majority of people and do so quickly.
+As such, the methods educational researchers adopt and
+tout as the gold standard, often fall short in policymaking
+contexts. Empirical studies take time, they rarely yield clear-
+cut answers, and evidence is mixed at best, contradictory at
+worst, and the educational researcher ’s solution to these
+EDUCATIONAL PSYCHOLOGIST 41
+
+<<< PAGE 4 >>>
+
+problems is to gather more data/conduct more studies
+(Horton & Brown, 2018). Yet, time is perhaps the one thing
+that politicians do not have more to waste.
+Even so, this past decade has seen a growing push toward
+adopting an evidence-based approach to educational policy
+and practice. This approach posits that for policy to count
+as evidence-based it must have as its root data derived from
+studies that adopt a scientific methodological approach, and
+ideally, randomized controlled trials (RCTs). This has com-
+mandeered a massive increase in the use of RCTs in educa-
+tion research (Connolly, Keenan, & Urbanska, 2018). The
+RCT approach is not, however, universally embraced in the
+context of educational policymaking and very specific con-
+cerns have been raised (Morrison, 2001; Styles & Torgerson,
+2018). However, a couple of key points are worth mention-
+ing about the drawbacks of an RCT-based approach to
+infusing evidence into policymaking.
+First, RCT research cannot actually provide definitive
+answers to the complex education problems we are trying to
+solve through policy (Lortie-Forgues & Inglis, 2019).
+Raudenbush ( 2015) articulates this challenge well: “Does the
+answer to a precisely focused research question, by itself,
+have implications for practical action? What happens when
+‘other things ’ are not held constant? For example, if we give
+school district leaders the authority to base personnel deci-
+sions on value added or other measures of teacher effective-
+ness, will we undermine the authority of the school
+principal?” Hence, even perfectly executed RCTs may not
+translate into policies that make sense (Hess, 2008).
+Furthermore, often what works is context-specific, such that
+rarely are we able to replicate proven effects (Nutley, Davies,
+& Walter, 2002). A study by Dynarski et al. ( 2007) is a case
+in point. Their RCT testing the impact of instructional soft-
+ware showed positive effects in some schools and negative
+effects in others, and effects were correlated with some class-
+room and school characteristics (e.g., student-teacher ratio).
+In addition, what is particularly challenging for bridging
+the research to policy divide is that our science-based dis-
+covery process simply takes too long. Confidence that a
+given educational intervention works is built over the course
+of several years —sometimes almost a decade, and often long
+after the evidence is needed to inform policy decisions. One
+might consider, for example, if the RCT approach will also
+inevitably fail to keep up with technological advances
+because by the time one technology has been sufficiently
+tested, the technology in question may be obsolete. The pol-
+icy world is decidedly more urgent, partly because it is
+prompted by an event or set of circumstances that is per-
+sonal and critical.
+The aforementioned limitations notwithstanding, policy-
+makers have become much more amenable to and in fact
+demand evidence. As such, research increasingly matters
+and holds particular sway with policymakers. A clear index
+of this is the recent passing of the Foundations for
+Evidence-Based Policymaking Act of 2019, which prompts
+significant government-wide reforms to make data more
+accessible and sets the stage for data to be more useful in
+policy-related decision-making. Prioritized within this piece
+of legislation is open data —making non-sensitive govern-
+ment data electronically accessible to the public, and ensur-
+ing user-friendly formats and confidentiality. As such, while
+educational researchers might not agree on the “best
+evidence,” we can all agree that evidence should most cer-
+tainly play a role in policymaking. Further, we will now
+have access to federally-owned data that can be securely
+analyzed to answer important questions and can inform
+educational policymaking. We also get closer to being able
+to make our science count in policymaking if we do not
+expect for the policymaking process to mimic the scientific
+discovery process (Horton & Brown, 2018). We can be bet-
+ter contributors if we focus squarely on employing system-
+atic approaches, but recognize the limitations of any
+particular method (Haskins & Baron, 2011). Policy should
+be informed by a wide breadth of evidence and methodolo-
+gies, not just RCTs. RCTs may be the gold standard for our
+judgement about what constitutes good evidence in our field
+of research, but in the broader field of educational policy,
+being relevant and timely may outweigh the need to select
+this particular methodological approach. This does not
+obfuscate the importance or need for RCTs, it just avoids
+making them the most important thing.
+The policymaking chronosystem: Timeframes,
+timeliness, and timing
+There are arguably few real incentives for the use of educa-
+tional research in politics (Wong, 2008), primarily because
+the timeframe for research to generate evidence and that of
+political decision-making are misaligned. Borrowing from
+Bronfenbrenner’s and Ceci ( 1994) theory about human
+development, policy development does not happen in a vac-
+uum and has a particular chronosystem or a set of changing
+conditions determined by sociohistorical circumstance and
+environmental events that emerge over the life course and
+prompt change. Applying this notion of a chronosystem to
+think about policymaking highlights that there is both stabil-
+ity and change in policy, and that many factors across both
+historical time and cultural space interact to influence its
+development.
+The federal education policymaking process is often acti-
+vated by a salient event that occurs in a particular cultural
+context at a particular point in time, like a school shooting
+(Sandy Hook) or a catastrophic weather event (Hurricane
+Katrina). There is a lot of pressure to act and do so quickly
+(Oakley, Pesta, Ciftci, & Blomberg, 2013) and it is not infre-
+quent that within hours a legislator will decide their position
+on an issue and announce it. The public statement renders
+the position something to which the legislator will forever
+be held. Delaying a response or back-tracking can come at a
+high political cost. Hence, it is at the public announcement
+juncture that evidence is sought to validate the policy stance
+taken. As such, in policymaking, research will rarely be the
+driving force, but it is often the fuel (Haskins & Baron,
+2011; Weiss, 1991).
+Politicians know that evidence lends legitimacy to their
+public action and potentially engenders trust and confidence
+42 Z. N. SERPELL
+
+<<< PAGE 5 >>>
+
+from the public. Policymakers primarily use research evi-
+dence to support their preexisting beliefs and bolster their
+messaging or “political mantra ” (Horton & Brown, 2018).
+As such, even when the evidence for their position is
+weak—politicians will often stick to their position until the
+tide shifts and they can safely move to the other side of an
+issue. As a result of this accelerated timeframe, only occa-
+sionally can legislators be convinced to make an ideological
+change/shift as a result of a new insight they gain from the
+evidence with which they are presented (Weiss, Murphy-
+Grahan, Petrosino, & Gandhi, 2008).
+This targeted use of evidence to support political stances
+underscores that politics are largely about values (Weiss,
+1977); policymaking is not neutral —it requires a political
+position. As researchers, we can tap into this by identifying
+the value framework a politician embraces and assessing the
+extent to which our research fits within it. When we enter
+the policymaking world in this way, we do face an ethical
+dilemma: are we willing to eschew the cloak of impartiality
+that comes with underlying philosophy of science-based
+research? Is it problematic that many of the decisions to use
+evidence are driven by efforts to garner support for preexist-
+ing ideas that fit a particular political point of view
+(Finnigan & Daly, 2014; Manna & Petrili, 2008)? We as
+“experts” and our work as “evidence” will indeed be cherry-
+picked (Horton & Brown, 2018), but I am not sure this is
+much different from the fact that when we present our work
+we mostly highlight other work that supports our findings
+and minimize work that does not.
+Despite challenges associated with timing and the value-
+laden nature of policymaking, it is hard to think of an edu-
+cational researcher who does not want their work to be used
+to solve a pressing or seemingly intractable problem in edu-
+cation. Our failure to make meaningful contributions to pol-
+icymaking is not for lack of knowledge or expertise on a
+topic. It may be instead the prospect of navigating an
+unfamiliar political terrain or discomfort with engaging in
+advocacy work. The next section of this article provides a
+navigational framework for educational researchers thinking
+about ways to infuse their research findings into the federal
+education policymaking process.
+Processes and entry points into the policy world for
+educational researchers
+The view of the American policymaking process from the
+outside—through public and social media —is disconcerting
+and, the policy world as a whole can appear alarmingly cha-
+otic. From an “outsider-inside” vantage point, the environ-
+ment appears as it actually is —dynamic and fast-paced and
+sometimes unpredictable, but also orderly. The federal policy
+process has several stages that may recycle back from identi-
+fying and defining a problem, to generating, implementing
+and evaluating a policy to address the problem, and many,
+many meetings in between. Evidence can potentially influ-
+ence the policymaking process at each stage, but different
+types of evidence and different approaches to conveying that
+evidence may be required. Thus, infusing research into the
+policy process is decidedly recursive —it is not a straight line
+and there is no guarantee that the provision of that evidence
+will yield a particular policy outcome (Malakoff, 2017).
+Further, policy work is never an individual endeavor —it
+involves several stakeholders including members of congress
+and their staff, committee staff, department officials, leaders
+from regulatory agencies, but also lobbyists, advocacy
+groups, scholars from the academy, experts from think-tanks
+and policy institutes. As such, part of effective engagement
+in policymaking is getting to know and working strategically
+with other stakeholders.
+A common way of conceptualizing the policymaking pro-
+cess is as a set of six linked stages (see Figure 1 ) that entail
+specific activities and stakeholders. The steps are sequentially
+ordered as follows: (1) identifying and defining the problem,
+(2) setting an agenda, (3) formulating a policy, (4) legitimiz-
+ing the policy, (5) implementing the policy, (6) evaluating
+the policy. This last stage might cycle back to stage one and
+prompt the elimination or update of an existing policy. My
+experience suggests that opportunities to infuse evidence
+into the policymaking process are evident at every stage, but
+focuses on the first four stages; problem identification,
+agenda setting and policymaking.
+Stage 1: Problem identification and definition
+Often precipitated by discontent with the current state of
+affairs or by an event, this stage is often marked by a sense
+of urgency. Also, a remarkable feature of the American pol-
+itical process; this as entry point into policymaking is rela-
+tively easy. Legislators ’ offices are set up to allow ordinary
+people or “the public ” to initiate a conversation with the
+legislator—often through their staffers —about something
+important to them. Policymakers are largely motivated by
+their constituents, who are oftentimes the people to identify
+a problem that requires policy intervention. Constituents are
+ordinary citizens, but are also “groups” who represent a part
+of the congressperson ’s constituency, such as representatives
+from the local community college or the fire-fighters ’ league.
+Educational researchers can enter this phase of the pro-
+cess as “ordinary” albeit more informed constituents. Key to
+the whole endeavor at this stage is to capture interest in
+your research. This first step often occurs at the level of per-
+sonal-office engagement. Educational researchers should visit
+and meet with staff in legislative offices, especially legislators
+in their constituency, those whose priorities are aligned with
+their research or who serve on key committees. For educa-
+tion issues, these committees would be the House
+Committee on Education and the Workforce, and the Senate
+Committee on Health, Education, Labor and Pensions.
+Educational researchers can also serve a role as knowledge
+brokers and empower ordinary citizens with evidence-based
+knowledge to bolster their efforts to engage the
+political system. For example, a fellow faculty member/
+researcher supplied a group of parents in her district with
+evidence-based knowledge to take to their legislator to help
+support their case for shifting school times for middle and
+high school students to later in the day. Also, if you are doing
+EDUCATIONAL PSYCHOLOGIST 43
+
+<<< PAGE 6 >>>
+
+education research in local schools, you can invite the legisla-
+tor or their staff to that school to see your research in action.
+Media will invariably get involved, and this will raise general
+awareness about your work and could prompt a deeper inter-
+est in how the work could be harnessed to highlight or
+address a policy-related issue. You can also engage your legis-
+lator by inviting them to give the keynote address at a
+research conference/event or meeting organized at your
+institution.
+Stage 2: Agenda setting
+Before uptake of an idea for policy development or change, it
+must make it to the agenda —move to a place of active con-
+sideration. This is the stage at which researchers can get a
+clear picture of whether their work resonates or can fit within
+the legislator’s overarching political framework. At this stage,
+the policy proposal has to be aligned with the broader polit-
+ical agenda: who is in power, what the main issues are, and
+what is clearly on the docket for consideration matters a great
+deal. This is the stage at which it becomes clear how much of
+policymaking has to do with a stance or a particular set of
+values. At this juncture, policymakers primarily use research
+or evidence to support or bolster a preexisting set of beliefs.
+Values can and do change over time but only occasionally
+are policymakers convinced to make a change or shift as a
+result of a new insight they gain from evidence brought
+before them. If it happens, it is usually in the context of a
+major societal event, for example 911.
+An important engagement goal for educational research-
+ers at this stage is awareness of the political landscape.
+Keeping abreast of education issues covered in the daily
+news (especially through outlets staffers monitor, such as
+The Hill, Politico, Huff Post, Wallstreet Journal) and staying
+informed about activity at the Department of Education is
+critically important. Lastly, it helps to pay attention to what
+the education policy think tanks, groups, and associations
+are writing about. When and what type of evidence matters
+a great deal for evidence uptake (Haskins & Margolis, 2014),
+as such, pay close attention to how these stakeholders frame
+and discuss relevant research.
+Another important goal at this stage is to nurture a rela-
+tionship with staffers in a legislator ’s office, so that you
+come to mind when staffers need to call on someone when
+your “issue area ” arises. The office one targets to engage can
+be based on a relationship —“I am a constituent in your dis-
+trict,” or it can be based on value-alignment “I also care and
+Figure 1. Stage model of the policymaking process and key process-drivers in stages 1 –4.
+44 Z. N. SERPELL
+
+<<< PAGE 7 >>>
+
+have expertise to help you move your agenda forward. ”
+Selecting the right venue for engagement should be based
+on how much attention you can garner on your issue area.
+Stage 3: Formulating a policy
+At this stage, the problem has been defined and the main
+task is formulating the policy solution. The process here
+involves a substantial amount of planning and plotting, as
+sometimes the goal is to topple an alternative policy idea
+using evidence. This is often the case when the legislator ’s
+party is not in the majority. Political offices spend a great
+deal of time determining a strategy —both a legislative one,
+as well as other strategies to help move the policy solution
+forward, including messaging strategies, and engagement
+strategies with outside groups, and importantly —a press and
+communication strategy.
+This is an intense time of data gathering and vetting of
+evidence, and many people aggressively enter the landscape.
+While all of these people have in common a specific policy
+interest, their views may be vastly different and the collating
+of evidence and achieving buy-in across them is a critical
+part of the process. As such, the role of researchers in devel-
+oping policy should not be underestimated, even if they are
+not at the writing table. It is not uncommon for a congres-
+sional committee to holding hearings on a particular bill to
+hear testimony from academics who have important insights
+on an issue based on their programmatic line of research.
+For example, during my time on the Hill, Russell Skiba was
+invited to give testimony about the disproportionate use of
+exclusionary discipline practices with African American stu-
+dents. If possible, when issues arise within the scope of their
+research expertise, educational researchers should attend
+hearings and consider testifying or writing reaction state-
+ments for public consumption.
+Capitalizing on current circumstances cannot be under-
+estimated—the window of opportunity to be fully engaged
+and serve as a resource for research-based evidence is often
+very narrow. Part of the educational researcher ’s goal must
+entail recognizing political opportunities. One of the most
+important things is to be aware of major legislation coming
+up for reauthorization and try to stay ahead of it. Lastly,
+when researchers get requests, they should respond immedi-
+ately as the urgency on Capitol Hill is double speed.
+Stage 4: Policy legitimization
+This stage marks the passage of the law by congress. This is
+the stage at which “official” law-making begins, defined by a
+formal set of procedures outlining how the process proceeds
+from the introduction of a bill to the signing of the bill into
+law. There are two parallel processes in each of the two
+chambers of the government: the house and senate. Timing
+is a critical issue —when a bill is introduced is carefully
+planned but myriad things might delay or accelerate its
+introduction. Staffers ’ schedules sometimes drastically shift
+due to breaking news at the national level or within the
+state/district such that an immediate response is needed,
+and everything will shift to accommodate this. All planned
+activities for the day may come to a halting stop —and “all
+hands-on-deck” for the issue at hand such that the careful
+planning for a bill introduction is undone. Also noteworthy
+on the time front, is that the time it takes for a bill to move
+through this process will vary greatly. Major legislation,
+such as the reauthorization of ESSA and HEA may take a
+full two-year congressional session (or longer), whereas
+smaller bills may move from start to finish in a single week
+or just a few weeks.
+Your introduction of evidence is more likely to shape
+policy if it is useful to inform a bill that is actually “moving”
+or on the docket for consideration. However, your research
+can also inform “messaging bills ”—bills that are not on the
+docket and not going anywhere —but may at some more
+opportune time in the future. This might raise the profile of
+your research and enable you over the course of an atypic-
+ally long period of time, to fine tune how you share your
+evidence. Messaging bills will shape policy down the line
+when the composition of congress changes and the bill has
+better chances of moving forward through the legislative
+process. A substantial amount of press coverage occurs
+around bill introduction so there is also an opportunity for
+researchers to infuse evidence into the policymaking process
+by commenting on legislation based on their
+research findings.
+Stage 4 is marked by a lot of negotiation. The role of
+committees becomes central, and committee staff are actu-
+ally very amenable to using research findings. Committee
+staff actively engage experts and at particular junctures, may
+reach out to gather more information (Weiss, 1989). At
+both the legislative office and committee levels, a critical
+role is also played by intermediary organizations or groups,
+such as New America, American Council on Education
+(ACE), The Education Trust (EdTrust), American Association
+for Colleges of Teacher Education (AACTE). Above are a few
+examples, but there are many of these intermediary organi-
+zations and they play two primary roles: translation and dis-
+semination. Their work is remarkably tailored and timely.
+Committee staff engage them in collective action to garner
+support for particular bills and it is frequently the way they
+bring issues to a larger audience. Their role in gathering and
+evaluating evidence can also not be underestimated. They
+know a great deal about policy issues, and have the where-
+withal to collect and analyze data in real time, and have
+mastered the art of effective communication with staffers.
+There is something to be said “when the makers of policy
+are specialized experts in the substance of the policy
+domain” (Nutley, 2003, p. 14)!
+A cautionary note on groups, however, was captured well
+in the conclusion statement of a recent social science study
+examining policy statements from organizations concerning
+the effects of media on youth (Elson et al., 2019): “Thus, it
+seems that current policy statements tend to be more defini-
+tive than is warranted by the underlying science. This may
+result in a misrepresentation of a research field to policy-
+makers and the general public ” (p. 12). The authors suggest
+that when formulating policy statements, “it is important
+EDUCATIONAL PSYCHOLOGIST 45
+
+<<< PAGE 8 >>>
+
+that policy statements note the existence of inconsistent data
+and significant debates or controversies ” (p. 21). This rec-
+ommendation highlights how disconnected we are as
+researchers from the reality of policymaking and how much
+of our success in integrating evidence into the process
+depends on consensus and surety even in the face of great
+uncertainty about our findings. Policy statements are not
+and cannot be balanced. They must be pitched just right so
+that they can garner public support for a bill that supporters
+would like to get through. Thus, educational researchers ’
+successful engagement entails letting go of the false notion
+that research can be integrated into the policy space as
+impartial and independent of politics. Small comfort to us
+as scientists who shudder at the prospect. However, if it is
+any consolation, talking across the political isle does happen,
+especially at the committee level and each side brings their
+evidence to bear —this is where and how balance is achieved.
+We must accept that if our infusion of evidence into the
+conversation means we have to put it forward loudly and
+confidently we cannot include it with caveats, otherwise we
+run the risk of it not being considered (Gillies, 2014), and
+rest assured many other voices and often voices that are not
+evidence-based will prevail.
+Problems in translation: Science communication and
+getting your message across
+One of the most important skills you learn on the Hill is
+the power of “messaging.” You message to yourself, you
+message to your constituents, you message to your advisors,
+you message to your boss, you message to the media, you
+master the art of messaging, and then learn to “pivot” so
+that you can remain on message. As educational researchers,
+our challenge is that our messaging is actually science com-
+munication, and there are times when our message is lost in
+translation because of an antipathy in the policy world
+toward science itself (Horton & Brown, 2018; Schultz, 2017).
+As such, part of our messaging has to be that scientific
+research is important. The Alda Center for Communicating
+Science ( n.d.) defines good science communication as the
+ability to: “communicate complex topics in clear, vivid, and
+engaging ways; leading to improved understanding by the
+public, media, patients, elected officials, and others outside
+of their own discipline. ” The best communications are tar-
+geted and deeply succinct, the motto on the hill is mastering
+the art of the “ask” and the one-page handout. Guides exist
+about how to write policy briefs (ICPA, 2017; Wong, Green,
+Bazemore, & Miller, 2017), but more helpful than those, if
+you want your research to be appropriately considered as
+evidence, is the “legislative policy brief. ” These “combine the
+research syntheses and policy recommendations found in
+policy briefs with a section drafted by an attorney contain-
+ing model statutory language. The model statutory language
+details how legislative bodies can act on the policy recom-
+mendations” (National Education Policy Center, 2019).
+Researchers are notoriously bad at communicating find-
+ings to nonacademic audiences, and often assume their
+implications are self-evident. The real world of policymaking
+involves multiple layers and many people at different levels
+of readiness to consider research evidence. We, therefore,
+need to be able to tailor our communications. Especially
+important on this front, is knowing what and what not to
+include. A study by Sorian and Baugh ( 2002) illustrates that
+less is most certainly more! Results of their survey of close
+to 300 state government policymakers makes it clear that we
+overdo it —we provide too much information. They also
+note that legislators want to know what tools they can use
+to find research relevant to their policy issue areas.
+Lastly, we do our work a great injustice when we give
+short thrift to the section on policy implications in our
+manuscripts. Additionally, it helps to read actual legislative
+text—doing this can vastly improve one ’s understanding
+about what actually constitutes a “policy implication. ” If we
+can get better at understanding the policymaking process,
+and the details embedded within policy, we can make our
+research count. Nutley et al. ( 2002) summarizes well some
+key considerations in determining whether legislators are
+apt to pay attention to and take-up particular research evi-
+dence. Some considerations are personal: does the policy-
+maker believe in evidence as a means to support expert
+opinion? Other considerations have to do with the research
+“fit”: is the evidence clear, relevant, and supportive of the
+policymaker’s existing ideology? Contextual considerations
+also matter: is the research timely? Is the evidence derived
+through relatively uncontested research methods? Are the
+users of the research partners in generating the evidence?
+Do the research findings have strong advocates? Also
+important are considerations regarding implementation: are
+the results of implementing the policy robust? If needed
+could we reverse course? These questions illustrate import-
+ant dynamics inherent in the policymaking arena, and high-
+light the fact that it is not impossible to adapt our
+approaches accordingly. Once you have the attention of
+legislators as a research expert on a particular policy issue —
+be ready, and respond immediately to any requests. Note
+again, that the sense of urgency on Capitol Hill is dire —
+immediately means immediately!
+Conclusions
+In sum, legislators and staff within the policymaking land-
+scape are open to incorporating science-based research into
+their endeavors. This is an important role that we as educa-
+tional researchers can play however, our success is contin-
+gent on recognizing the dynamic, political and often urgent
+tenor of the policymaking process in the United States.
+Further, we have to adjust the design of our research
+and communication of research findings to fit within this
+policymaking milieu if our work is to be useful in
+policymaking (Nutley et al., 2002). This agenda to engage
+the policymaking process is not for the faint of heart among
+us, but there are other ways educational researchers can be
+meaningfully involved, two are briefly described below.
+Congressional and executive branch fellowships are an
+important entry point into policymaking experience. The
+potential of programs like the American Association for the
+46 Z. N. SERPELL
+
+<<< PAGE 9 >>>
+
+Advancement of Science (AAAS) ’s Science and Technology
+Fellowship is significant, and the American Educational
+Research Association ’s sponsorship of educational research-
+ers to participate in this program provides opportunities to
+engage with policymakers and inform policy decisions on
+local, state, and national levels. This year-long experience
+can be transformational (it was for me!) and can fill import-
+ant gaps in educational researchers ’ knowledge about and
+experience with policymaking. In this role, educational
+researchers are in a position to learn, but also to bring to
+bear a more data-driven, scientific approach to decision-
+making in the political arena. I would hope that an outcome
+of these fellowships is sustained policy engagement by edu-
+cational researchers, and increased confidence in the utility
+of research-based evidence among legislators and their staff
+who worked with the fellows. Some fellows will stay on —
+move on to the executive branches and make their contribu-
+tions through setting funding priorities for research to be
+funded by federal agencies like the Institutes for Education
+Sciences or the National Science Foundation. Some may stay
+on Capitol Hill as staffers or policy directors; committees
+are often a good home because of the long-term vision on
+policy issues. Other fellows will join think-tanks, policy
+institutes or advocacy groups, or return to their home states
+and become more engaged in state-level policymaking,
+where efforts are much more tailored and specific to local
+circumstances and the translation of policy-to-practice is
+more tangible. For those of us who return to the academy,
+because the fellowship experience entails learning while
+doing, the experience may translate into a change in per-
+spective about how we structure our research, and also how
+we train the next generation of educational researchers. We
+are likely more invested in developing and training students
+to adopt effective science communication practices, and
+maintain an awareness and willingness to engage in
+policymaking.
+Other innovative initiatives to more meaningfully engage
+researchers in policy work are emerging. The Society for
+Research in Child Development (SRCD) for example, has an
+initiative which entails the formation of a Rapid Assessment
+and Response Strategy (RARS) Team that coalesces around
+a topic and engages in a rapid and systematic process to for-
+mulate evidence-based responses to policy-relevant issues
+that emerge. The goal is to increase engagement in public
+policy issues proactively and rapidly where there is compel-
+ling research they can bring to bear in response to a current
+event. The process engages policy and content experts from
+researchers who are members of SRCD. Lastly, many profes-
+sional organizations provide opportunities for faculty to join
+a delegation of researchers and college administrators to
+share their work and have a “beginner’s” visit to Capitol
+Hill for a day. Faculty are provided mini-trainings on how
+to summarize their work, talk to staffers and familiarize
+themselves with the policymaking arena in advance of the
+visit so that they can make the most out of the experience.
+This can also serve as an “in” with offices.
+In sum, whatever the path, the message is that educa-
+tional researchers can be involved with policymaking, but
+the path toward that can vary. Parting and wise advice:
+“Learn the lingo, and identify the key players. Realize that
+the path of evidence is winding, and the destination often
+distant. It ’s not unusual for it to take decades for the weight
+of evidence to leave its mark on policy. But when it does,
+the results can often be extraordinary …” (Malakoff, 2017,
+p. 563).
+Acknowledgments
+The author wishes to acknowledge and thank the American
+Educational Research Association (AERA) ’s Congressional Fellowship
+Program for their sponsorship.
+References
+Alan Alda Center for Communicating Science. (n.d.). The Alda Center.
+Retrieved from https://www.aldacenter.org/get-started/about-us.
+Bronfenbrenner, U., & Ceci, S. J. (1994). Nature-nurture reconceptual-
+ized in developmental perspective: A bioecological model.
+Psychological Review , 101(4), 568 –586. doi: 10.1037/0033-295X.101.4.
+568
+Connolly, P., Keenan, C., & Urbanska, K. (2018). The trials of evi-
+dence-based practice in education: A systematic review of random-
+ized controlled trials in education research 1980 –2016. Educational
+Research, 60(3), 276 –291. doi: 10.1080/00131881.2018.1493353
+Croft, S., Roberts, M., & Stenhouse, V. (2015). The perfect storm of
+education reform: High-stakes testing and teacher evaluation. Social
+Justice, 42(1), 70 –92.
+Dynarski, M., & National Center for Education Evaluation Regional
+Assistance. (2007). Effectiveness of reading and mathematics software
+products : Findings from the first student cohort: Report to Congress .
+Washington, D.C.: National Center for Education Evaluation and
+Regional Assistance, Institute of Education Sciences, U.S. Dept. of
+Education.
+Elson, M., Ferguson, C. J., Gregerson, M., Hogg, J. L., Ivory, J.,
+Klisanin, D., … Wilson, J. (2019). Do policy statements on media
+effects faithfully represent the science? Advances in Methods and
+Practices in Psychological Science , 2(1), 12 –25. doi: 10.1177/
+2515245918811301
+Finnigan, K. S., & Daly, A. J. (Eds). (2014). Using research evidence in
+education: From the schoolhouse door to Capitol Hill . New York,
+NY: Springer.
+Foundations for Evidence-Based Policymaking Act of 2018, 5 U.S.C. §§
+115-435 (2019).
+Gillies, D. (2014). Knowledge activism: Bridging the research/policy
+divide. Critical Studies in Education , 55(3), 272 –288. doi: 10.1080/
+17508487.2014.919942
+Haskins, R., & Baron, J. (2011). Building the connection between policy
+and evidence: The Obama evidence-based initiatives . Paper commis-
+sioned by the U.K. National Endowment for Science, Technology
+and the Arts (NESTA), London, UK.
+Haskins, R., & Margolis, G. (2014). Obama ’s promise: Using evidence
+to fight the nation ’s social problems. In K. Finnigan & A. Daly
+(Eds.), Using research evidence in education: From the schoolhouse
+door to Capitol Hill. Policy implications of research in education
+(vol. 2, pp. 133 –160). Cham, Switzerland: Springer.
+Hess, F. (Ed.). (2008). When research matters: How scholarship influen-
+ces education policy . Cambridge, MA: Harvard Education Press.
+Horton, P., & Brown, G. W. (2018). Integrating evidence, politics and
+society: A methodology for the science –policy interface. Palgrave
+Communications, 4(1), 1 –
+5. doi: 10.1057/s41599-018-0099-3
+Lortie-Forgues, H., & Inglis, M. (2019). Rigorous large-scale educa-
+tional RCTs are often uninformative: Should we be concerned?
+Educational Researcher , 48(3), 158 –166. doi: 10.3102/0013189X1
+9832850
+EDUCATIONAL PSYCHOLOGIST 47
+
+<<< PAGE 10 >>>
+
+Malakoff, D. (2017). A matter of fact. Science, 355(6325), 562 –563. doi:
+10.1126/science.355.6325.562
+Manna, P., & Petrilli, M. (2008). Double standard? “Scientifically based
+research” and the No Child Left Behind Act. In Frederick M. Hess
+(Ed.), When research matters: How scholarship influences education
+policy. Cambridge, MA: Harvard Education Press.
+Morrison, K. (2001). Randomised controlled trials for evidence-based
+education: Some problems in judging “what works. ” Evaluation &
+Research in Education , 15(2), 69 –83. doi: 10.1080/09500790108666984
+National Education Policy Center. (2019). Legislative briefs. Boulder,
+CO: NEPC, University of Colorado.
+Nolan, A., Kevin, M., Lewis, K. M., Sykes, J. B., Freeman, W. C., &
+Hickey, K. J. (2018). Federalism-based limitations on congressional
+power: An overview . Congressional Research Service 7-5700.
+R45323. Retrieved from www.crs.gov.
+Nutley, S. (2003). Bridging the policy/research divide: Reflections and
+lessons from the UK . Keynote paper at National Institute of
+Governance Conference; Facing the Future: Engaging stakeholders
+and citizens in developing public policy, Canberra, Australia.
+Nutley, S., Davies, H. T. O., & Walter, I. (2002). Evidence based policy
+and practice: Cross sector lessons from the UK (Working Paper 9).
+Swindon, UK: ESRC UK Centre for Evidence Based Policy and
+Practice.
+Oakley, C., Pesta, G., Ciftci, S., & Blomberg, T. (2013). A model and
+test of policymaking as process. Journal of Politics and Law , 6(4),
+1–13. doi: 10.5539/jpl.v6n4p1
+Peterson, P. E. (2016). The end of the Bush-Obama regulatory
+approach to school reform: Choice and competition remain the
+country’s best hope. Education Next , 16(3), 22.
+Policy Briefs Essential Guide: International Centre for Policy Advocacy.
+(2017). An essential guide to policy brief writing. Berlin: ICPA.
+Raudenbush, S. (2015). Value added: A case study in the mismatch
+between education research and policy. Educational Researcher ,
+44(2), 138 –141. doi: 10.3102/0013189X15575345
+Russel, D., Beck, S., Campos, I., Capriolo, A., Castellari, S., den Uyl,
+R. M. … Weiland, S. (2018). Analyzing the policy framework for cli-
+mate change adaptation. In H. Sanderson, M. Hild /C19en, D. Russel, G.
+Penha-Lopes, & A. Capriolo (Eds.), Adapting to climate change in
+Europe exploring sustainable pathways – From local measures to
+wider policies (pp. 273 –313). London, UK: Elsevier.
+Schultz, D. (2017, March 11). What is a fact? The scientific versus pol-
+itical definition. The Hill . Retrieved from http://thehill.com/blogs/
+pundits-blog/energy-environment/323464-what-is-a-fact-the-scien-
+tific-versus-political
+Skinner, R. R. (2019). The Elementary and Secondary Education Act
+(ESEA), as Amended by the Every Student Succeeds Act (ESSA): A
+Primer. Congressional Research Service. R45977. Retrieved from
+www.crs.gov
+Slavin, R. E. (2017). Evidence-based reform in education. Journal of
+Education for Students Placed at Risk (JESPAR) , 22(3), 178 –184. doi:
+10.1080/10824669.2017.1334560
+Sorian, R., & Baugh, T. (2002). Power of information: Closing the gap
+between research and policy. Health Affairs , 21(2), 264 –273. doi: 10.
+1377/hlthaff.21.2.264
+Styles, B., & Torgerson, C. (2018). Randomised controlled trials (RCTs)
+in education research – Methodological debates, questions, chal-
+lenges. Educational Research , 60(3), 255 –264. doi: 10.1080/00131881.
+2018.1500194
+Sutcliffe, S., & Court, J. (2005). Evidence-based policymaking: What is
+it? How does it work? What relevance for developing countries?
+Overseas Development Institute, UK. Retrieved from http://www.
+odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/
+3683.pdf
+U.S. Department of Education. (2015). What is ESEA? [Web log com-
+ment]. Retrieved from http://blog.ed.gov/2015/04/what-is-esea/
+Weiss, C. (1977). Research for policy ’s sake: The enlightenment func-
+tion of social research. Policy Analysis , 3(4), 531 –545.
+Weiss, C. (1989). Congressional committees as users of analysis.
+Journal of Policy Analysis and Management , 8(3), 411 –431. doi: 10.
+2307/3324932
+Weiss, C. H. (1991). Policy research as advocacy: Pro and con.
+Knowledge and Policy , 4(1–2), 37 –55. doi: 10.1007/BF02692747
+Weiss, C. H., Murphy-Graham, E., Petrosino, A., & Gandhi, A. G.
+(2008). The fairy godmother —and her warts: Making the dream of
+evidence-based policy come true. American Journal of Evaluation ,
+29(1), 29 –47. doi: 10.1177/1098214007313742
+Wong, K. K. (2008). Federalism revised: The promise and challenge of
+the No Child Left Behind Act. Public Administration Review , 68(S1),
+S175–S185. doi: 10.1111/j.1540-6210.2008.00987.x
+Wong, S. L., Green, L. A., Bazemore, A. W., & Miller, B. F. (2017).
+How to write a health policy brief. Families, Systems, & Health ,
+35(1), 21 –24. doi: 10.1037/fsh0000238
+48 Z. N. SERPELL

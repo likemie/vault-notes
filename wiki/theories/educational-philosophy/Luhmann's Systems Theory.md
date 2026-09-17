@@ -2,10 +2,9 @@
 title: Luhmann's Systems Theory
 aliases:
   - 卢曼系统理论
-  - 系统理论
   - Luhmannian Systems Theory
   - 社会系统理论
-summary: "将社会理解为由自创生沟通构成的多重功能分化系统，严格区分社会系统与个体心理系统，以操作封闭、结构耦合与盲点机制揭示观察界限与自适应生态演化。"
+summary: 将社会理解为由自创生沟通构成的多重功能分化系统，严格区分社会系统与个体心理系统，以操作封闭、结构耦合与盲点机制揭示观察界限与自适应生态演化。
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 33
@@ -58,7 +57,7 @@ related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
 confidence: high
 status: active
-created: '2026-05-04'
+created: 2026-05-04
 updated: 2026-09-17
 ---
 

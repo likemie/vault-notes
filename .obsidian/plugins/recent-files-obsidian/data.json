@@ -5,6 +5,82 @@
       "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md"
     },
     {
+      "basename": "Institute of Education Sciences",
+      "path": "wiki/facts/us/Institute of Education Sciences.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
+    },
+    {
+      "basename": "Learning Gain",
+      "path": "wiki/concepts/higher-education/Learning Gain.md"
+    },
+    {
+      "basename": "Argument_Bouckaert_2023_OECD",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
+    },
+    {
+      "basename": "Bertrand Russell",
+      "path": "wiki/persons/uk/Bertrand Russell.md"
+    },
+    {
+      "basename": "Educational Brokerage Agency",
+      "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
+    },
+    {
+      "basename": "Higher Education Act of 1965",
+      "path": "wiki/facts/us/Higher Education Act of 1965.md"
+    },
+    {
+      "basename": "Value Neutrality",
+      "path": "wiki/concepts/educational-philosophy/Value Neutrality.md"
+    },
+    {
+      "basename": "Carol Weiss",
+      "path": "wiki/persons/us/Carol Weiss.md"
+    },
+    {
+      "basename": "National Center for Education Evaluation and Regional Assistance",
+      "path": "wiki/facts/us/National Center for Education Evaluation and Regional Assistance.md"
+    },
+    {
+      "basename": "Two-Communities Theory",
+      "path": "wiki/theories/educational-policy-reform/Two-Communities Theory.md"
+    },
+    {
+      "basename": "Every Student Succeeds Act",
+      "path": "wiki/facts/us/Every Student Succeeds Act.md"
+    },
+    {
+      "basename": "Legislative Policy Brief",
+      "path": "wiki/concepts/educational-policy-reform/Legislative Policy Brief.md"
+    },
+    {
+      "basename": "No Child Left Behind Act 2001",
+      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
+    },
+    {
+      "basename": "Higher Education Authority",
+      "path": "wiki/facts/ireland/Higher Education Authority.md"
+    },
+    {
+      "basename": "Foundations for Evidence-Based Policymaking Act of 2018",
+      "path": "wiki/facts/us/Foundations for Evidence-Based Policymaking Act of 2018.md"
+    },
+    {
+      "basename": "Research-Policy Gap",
+      "path": "wiki/concepts/educational-policy-reform/Research-Policy Gap.md"
+    },
+    {
+      "basename": "Navigational Framework for Educational Researchers",
+      "path": "wiki/theories/educational-policy-reform/Navigational Framework for Educational Researchers.md"
+    },
+    {
+      "basename": "Luhmann's Systems Theory",
+      "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md"
+    },
+    {
       "basename": "Policymaking Chronosystem",
       "path": "wiki/concepts/educational-policy-reform/Policymaking Chronosystem.md"
     },
@@ -85,10 +161,6 @@
       "path": "wiki/concepts/educational-policy-reform/Evidence Standards.md"
     },
     {
-      "basename": "Every Student Succeeds Act",
-      "path": "wiki/facts/us/Every Student Succeeds Act.md"
-    },
-    {
       "basename": "Argument_Slavin_2019_EP",
       "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Slavin_2019_EP.md"
     },
@@ -127,78 +199,6 @@
     {
       "basename": "Random Assignment",
       "path": "wiki/methods/quantitative/Random Assignment.md"
-    },
-    {
-      "basename": "Hierarchical Linear Model",
-      "path": "wiki/methods/quantitative/Hierarchical Linear Model.md"
-    },
-    {
-      "basename": "Fade-out Effect",
-      "path": "wiki/concepts/educational-policy-reform/Fade-out Effect.md"
-    },
-    {
-      "basename": "Preregistration",
-      "path": "wiki/concepts/research-methodology/Preregistration.md"
-    },
-    {
-      "basename": "Peer-Assisted Learning Strategies",
-      "path": "wiki/facts/us/Peer-Assisted Learning Strategies.md"
-    },
-    {
-      "basename": "Top Institute for Evidence-Based Education Research",
-      "path": "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md"
-    },
-    {
-      "basename": "National Center for Education Evaluation and Regional Assistance",
-      "path": "wiki/facts/us/National Center for Education Evaluation and Regional Assistance.md"
-    },
-    {
-      "basename": "Formative Assessment",
-      "path": "wiki/concepts/competency-and-assessment/Formative Assessment.md"
-    },
-    {
-      "basename": "Effective Teaching",
-      "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
-    },
-    {
-      "basename": "Institute of Education Sciences",
-      "path": "wiki/facts/us/Institute of Education Sciences.md"
-    },
-    {
-      "basename": "Counterfactual",
-      "path": "wiki/concepts/research-methodology/Counterfactual.md"
-    },
-    {
-      "basename": "Active Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Active Learning.md"
-    },
-    {
-      "basename": "Evaluator Independence",
-      "path": "wiki/concepts/educational-policy-reform/Evaluator Independence.md"
-    },
-    {
-      "basename": "Cluster Randomized Trials",
-      "path": "wiki/methods/quantitative/Cluster Randomized Trials.md"
-    },
-    {
-      "basename": "No Child Left Behind Act 2001",
-      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
-    },
-    {
-      "basename": "Comprehensive School Reform Program",
-      "path": "wiki/facts/us/Comprehensive School Reform Program.md"
-    },
-    {
-      "basename": "Direct Instruction",
-      "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
-    },
-    {
-      "basename": "Investing in Innovation Program",
-      "path": "wiki/facts/us/Investing in Innovation Program.md"
-    },
-    {
-      "basename": "Entrepreneur in Residence",
-      "path": "wiki/concepts/university-industry-collaboration/Entrepreneur in Residence.md"
     }
   ],
   "omittedPaths": [],
