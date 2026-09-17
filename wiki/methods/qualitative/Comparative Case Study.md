@@ -39,7 +39,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-05-26
+updated: 2026-09-18
 ---
 
 # Comparative Case Study
@@ -107,6 +107,6 @@ CCS 的研究操作不遵循固定的线性步骤，而是通过三个轴的**�
 > [!example]
 - [[Argument_Erfurth_2022_education-hubs]] — 以 CCS 比较新加坡和阿联酋的教育枢纽项目，聚焦横贯维度追溯 1990–2018 年间的现象变迁
 - [[Argument_SpronkenSmith_2024_AEHE]] — 采用比较[[Case Study|案例研究]]加[[Mixed Methods Research|混合方法]]，比较两所美国大学和一所新西兰大学的 PhD [[Graduate Attributes|毕业生特质]]发展与职场应用，以制度不同的三校一致性模式推论博士培养的系统性偏向
+- [[Argument_Hartong_Forschler_2019_BDS]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中数据基础设施的社会-技术实践与多维做数据张力
 
 ---
-

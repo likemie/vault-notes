@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接赋能学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -58,6 +58,7 @@ related_facts:
   - "[[PISA]]"
   - "[[TOSCA]]"
   - "[[Partnership Schools Kura Hourua]]"
+  - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Trautwein_2007_CEP]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Cultural Capital
@@ -213,7 +214,7 @@ updated: 2026-09-17
 > - **1970 — 《再生产》再生产机制描述** Bourdieu & Passeron 首次在教育系统再生产分析中提出文化资本雏形，论证学校如何将优势阶层的文化资源包装为个人天赋。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023, Ch. 2)]]
 > - **1979 — 《区隔》品味与生活方式拓展** 借助法国社会大规模经验调查，将文化资本概念拓展至审美品味、艺术消费与生活方式领域，确立其作为阶级区隔的工具性质。
 > - **1986 — 《资本的三种形态》独立理论建构** Bourdieu 独立发表理论文章，正式确立文化资本的三种存在形态（具身化、客体化、制度化），奠定了其在社会学中的[[Operationalization|操作化]]基础。
-> - **2000 年代 — 大规模量化操作化与认知中介拓展** 国际大型教育评估（[[PISA]]、TIMSS、[[TOSCA]]）普遍采用“家庭藏书量”操作化客体化文化资本，[[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] 进一步证实文化资本能够通过塑造学生的[[Epistemological Beliefs|认识论信念]]间接赋能[[Academic Achievement|学业成就]]。
+> - **2000 年代 — 大规模量化操作化与认知中介拓展** 国际大型教育评估（[[PISA]]、[[TIMSS]]、[[TOSCA]]）普遍采用“家庭藏书量”操作化客体化文化资本，[[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] 进一步证实文化资本能够通过塑造学生的[[Epistemological Beliefs|认识论信念]]间接赋能[[Academic Achievement|学业成就]]。
 > - **2020 年代 — 跨文化情境的[[Transfer Translation Transformation|转译]]与反思** [[Yajun Zheng|郑雅君]]将具身化文化资本[[Going Native|本土化]]为精英大学[[Champ|场域]]中的出路直觉；[[Argument_Teng_2025_CE|Teng & Wang (2025)]] 则揭示了中国县域熟人社会中文化资本的妥协与边缘化特征。
 
 ---

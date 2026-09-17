@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -49,6 +49,8 @@ related_facts:
   - "[[UNESCO]]"
   - "[[A Nation at Risk 1983]]"
   - "[[PISA]]"
+  - "[[TIMSS]]"
+  - "[[PIRLS]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-12
+updated: 2026-09-18
 ---
 
 # IEA
@@ -81,7 +83,7 @@ updated: 2026-09-12
 > - **1958–1960s 初 — 机构创立与探索性先导研究** 跨国学者在汉堡确立通过标准化[[Achievement and Aptitude Tests|成就测验]]开展跨国比较的设想；1959–1962 年实施 12 国先导测试（Pilot Twelve-Country Study），证实了跨语言与跨文化标准化量化测验的可行性。
 > - **1964–1967 — 首次国际数学研究（FIMS）** 实施覆盖 12 个国家的首个正式大规模比较项目（First International Mathematics Study, FIMS），首次系统测定学校特征、家庭背景与数学学业产出之间的统计共变关系，成为跨国经验实证的[[Paradigm|范式]]典范。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]
 > - **1970s–1980s — 测评学科拓展与政治危机触发** 推进“六门学科调查”（Six-Subject Survey）与第二次数学研究（SIMS）；1983 年美国因 IEA 早期测评中学生表现远逊于日本而爆发体制危机，直接促成了《[[A Nation at Risk 1983|国家在危机中]]》报告的出台与对日本教育模式的借用浪潮。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 234–235)]]
-> - **1990s 至今 — 旗舰项目制度化与直面 [[PISA]] 竞争** 1995 年启动周期性“国际数学与科学[[Trend Study|趋势研究]]”（TIMSS），2001 年启动“国际阅读素养进展研究”（PIRLS），确立了以学校课程大纲为基准的国际常模；同时面临 [[OECD]] 发起的 PISA（国际学生评估项目）在政策市场上的激烈挑战。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> - **1990s 至今 — 旗舰项目制度化与直面 [[PISA]] 竞争** 1995 年启动周期性“国际数学与科学[[Trend Study|趋势研究]]”（[[TIMSS]]），2001 年启动“[[PIRLS|国际阅读素养进展研究]]”（PIRLS），确立了以学校课程大纲为基准的国际常模；同时面临 [[OECD]] 发起的 PISA（国际学生评估项目）在政策市场上的激烈挑战。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 ---
 
@@ -96,7 +98,7 @@ updated: 2026-09-12
 > 冷战期间，比较教育的主要努力被投入到通过国际测试衡量教育成功（IEA 的兴起）之中。学科经历了一场根本性异化：从最初以学术理解不同国家‘受教育身份’理想模型的文化探索，转向了通过 IEA 与 PISA 进行纯粹的效率测量。国际测试沦为追求技术‘解决方案’的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，在实践中极大地强化并维护了单一世界秩序的政治合理性。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 330–334)]]
 
 > [!citation-card] [[Yong Zhao|赵勇]]论 PISA 与 IEA 在[[Construct|构念]]一致性下的市场竞争
-> 作为国际教育评估，PISA 是后来者。在 PISA 之前，国际教育成就评价协会（IEA）自 1960 年代以来一直在运营国际评估，提供 TIMSS 和 PIRLS 等极具影响力的项目。一个后来者要击败建立者，必须提供不同的东西；PISA 批评 IEA 的调查仅集中于与课程直接相关的狭隘成果，声称自己评估的是未来成人生活所需的一般素养。然而大规模实证研究表明，不同测试方法在国家层面本质上测量的是同一个构念，即一般国家认知能力。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> 作为国际教育评估，PISA 是后来者。在 PISA 之前，国际教育成就评价协会（IEA）自 1960 年代以来一直在运营国际评估，提供 [[TIMSS]] 和 [[PIRLS]] 等极具影响力的项目。一个后来者要击败建立者，必须提供不同的东西；PISA 批评 IEA 的调查仅集中于与课程直接相关的狭隘成果，声称自己评估的是未来成人生活所需的一般素养。然而大规模实证研究表明，不同测试方法在国家层面本质上测量的是同一个构念，即一般国家认知能力。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 ---
 

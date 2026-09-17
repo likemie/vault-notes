@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -88,6 +88,7 @@ related_methods:
   - "[[Cross-checking]]"
 related_facts:
   - "[[PISA]]"
+  - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -538,7 +539,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 横截面研究产生总体在特定时间点的"快照"。典型代表是全国人口普查：不同年龄、职业、教育和收入水平、居住在全国不同地区的代表性样本在同一天接受访谈。在教育中更典型的是，横截面研究涉及间接测量从代表性年龄层次抽取的儿童样本在身体和智力发展方面的变化性质和速率（p.268）。
 
 > [!case] 横截面研究的纵向特征：平行年龄组
-> 在单一时间点抽取 5、7、9 和 11 岁的学生，在可以看到各年龄组发展的意义上具有纵向研究的某些特征。但它不如对同一组年龄群体随时间进行纵向研究具有同样的权重。这适用于[[International Education|国际教育]]成就研究（如 [[PISA]]、国际数学与科学趋势研究（TIMSS））：需要从同一总体中抽取样本(Lietz & Keeves, 1997, p. 122)，并需要可能影响因变量变化的因素在各年龄组之间保持恒定。
+> 在单一时间点抽取 5、7、9 和 11 岁的学生，在可以看到各年龄组发展的意义上具有纵向研究的某些特征。但它不如对同一组年龄群体随时间进行纵向研究具有同样的权重。这适用于[[International Education|国际教育]]成就研究（如 [[PISA]]、[[TIMSS|国际数学与科学趋势研究]]（TIMSS））：需要从同一总体中抽取样本(Lietz & Keeves, 1997, p. 122)，并需要可能影响因变量变化的因素在各年龄组之间保持恒定。
 >
 > 然而，横截面研究捕捉**冻结时刻的快照**，可能对研究变化无效。如果要通过横截面调查处理变化，则需要**重复应用调查**或使用**趋势分析（p.269）**。
 

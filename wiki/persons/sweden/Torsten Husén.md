@@ -8,7 +8,7 @@ summary: "瑞典教育学家与心理测量学家，斯德哥尔摩大学国际�
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -49,13 +49,14 @@ related_facts:
   - "[[IEA]]"
   - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[TIMSS]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-12
+updated: 2026-09-18
 ---
 
 # Torsten Husén
@@ -152,7 +153,7 @@ updated: 2026-09-12
 > > - **胡森立场** 强调跨国实证研究的本意是将不同国家作为“自然的教育实验室”，旨在探索输入[[Variable|变量]]与成就产出之间的因果假说，而非沦为政客争夺政绩的排名工具。
 
 > [!warning] 制度反思与惯性强化的历史张力
-> 胡森晚年虽深刻指陈了战后实证规划承诺的破灭与教育万能论的局限，但他早年奠基的跨国大规模量化测评网络（如当代 TIMSS 以及 [[OECD]] [[PISA]]），却在后来的全球教育治理中被各国官僚更为深度地吸纳为正当性背书与政策推卸借口的制度护甲，体现出个人反思与制度惯性之间的巨大张力。
+> 胡森晚年虽深刻指陈了战后实证规划承诺的破灭与教育万能论的局限，但他早年奠基的跨国大规模量化测评网络（如当代 [[TIMSS]] 以及 [[OECD]] [[PISA]]），却在后来的全球教育治理中被各国官僚更为深度地吸纳为正当性背书与政策推卸借口的制度护甲，体现出个人反思与制度惯性之间的巨大张力。
 
 ---
 

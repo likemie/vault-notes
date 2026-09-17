@@ -5,7 +5,7 @@ aliases:
 summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Melbourne Declaration]]"
 related_arguments:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -86,7 +87,7 @@ updated: 2026-09-17
 > [[Argument_Eacott_2017_SLM|Eacott (2017, p.414-419)]]识别了使大师崇拜成为可能的三个相互关联的条件：
 >
 > **（1）特定的时间条件（temporal conditions）**
-> - 澳大利亚教育系统在 NAPLAN/[[PISA]]/TIMSS 评估中感知到学生成绩持续下降，创造了"需要知道什么有效、甚至什么最有效"的紧迫性([[Argument_Eacott_2017_SLM|Eacott, 2017, p.415-416]])
+> - 澳大利亚教育系统在 NAPLAN/[[PISA]]/[[TIMSS]] 评估中感知到学生成绩持续下降，创造了"需要知道什么有效、甚至什么最有效"的紧迫性([[Argument_Eacott_2017_SLM|Eacott, 2017, p.415-416]])
 > - 管理修辞围绕理性/控制逻辑凝聚，而非规范性/抱负性逻辑——前者在缓慢下降时主导，后者在急剧衰退时主导([[Argument_Eacott_2017_SLM|Eacott, 2017, p.415, citing Abrahamson, 1997]]; Hartley, 2010)
 > - 此前的大规模教学改革（QSRLS、New Basics、Quality Teaching）聚焦课程/教学/评估三系统，但[[School Leadership|学校领导]]的实际教学领导时间极少——需要的是能"用行政语言说话"的证据([[Argument_Eacott_2017_SLM|Eacott, 2017, p.416]])
 >

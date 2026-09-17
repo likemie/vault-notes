@@ -7,7 +7,7 @@ aliases:
 summary: "中国／儒家文化圈学习者看似依赖低效学习方式却持续取得高水平成就之间的矛盾"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,13 +37,14 @@ related_persons:
   - "[[John Biggs]]"
   - "[[Stevenson and Stigler]]"
 related_facts:
+  - "[[TIMSS]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: 2026-08-20
+updated: 2026-09-18
 ---
 
 # Paradox of the Chinese Learner
@@ -86,7 +87,7 @@ updated: 2026-08-20
 - 缺乏内在动机，以考试为唯一目标
 
 ### 持续的高成就
-- 新加坡、韩国、日本、香港、台湾等东亚学生在 TIMSS 和 [[PISA]] 中持续三十余年名列前茅
+- 新加坡、韩国、日本、香港、台湾等东亚学生在 [[TIMSS]] 和 [[PISA]] 中持续三十余年名列前茅
 - 无论采用何种测试方式，排名始终居前
 - 亚裔移民学生在北美、欧洲、澳大利亚、新西兰等地同样表现出更高成就
 - 2009 年上海首次参与 PISA 即获第一([[Argument_Li_2012_Cambridge|Li, 2012, pp.81-82]])

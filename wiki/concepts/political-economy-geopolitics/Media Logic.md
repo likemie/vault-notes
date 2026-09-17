@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒体在选择、加工与呈现现实时所遵循的组织惯例、格式规程与新闻价值体系，在教育治理中迫使政策行动者积累媒介资本并以危机叙事迎合媒体规则"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,19 +38,21 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
+  - "[[Michael Gove]]"
   - "[[Bob Lingard]]"
   - "[[Pierre Bourdieu]]"
   - "[[Paul Morris]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[TIMSS]]"
   - "[[2014 Open Letter on PISA]]"
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 # Media Logic
@@ -139,7 +141,7 @@ updated: 2026-09-15
 > **双重媒介资本的协同** 现代政治领袖的统治效能高度取决于其在媒介[[Champ|场域]]中的资本储量；制度性媒介资本提供了垄断官方信源与信息发布的特权，而个性化媒介资本使行动者熟谙记者的生产约束，能够精准投喂符合版面要求的话语诱饵。
 
 > [!claim] Grey & Morris
-> **戈夫的媒介资本变现与危机推销** 英国教育大臣迈克尔·戈夫（Michael Gove）作为前《泰晤士报》资深记者，拥有极高的个性化与制度性媒介资本；他深谙“媒介游戏规则”，在 PISA 发布的当天下午闪电发表议会演讲，运用“停滞”、“被甩在身后”等高度契合小报头条的修辞，将原本不支持新自由主义政策的 [[OECD]] 数据反向篡改为强推学院化与[[Performance Pay|绩效工资]]的灵丹妙药。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 116–120, 125)]]
+> **[[Michael Gove|戈夫]]的媒介资本变现与危机推销** 英国教育大臣迈克尔·戈夫（Michael Gove）作为前《泰晤士报》资深记者，拥有极高的个性化与制度性媒介资本；他深谙“媒介游戏规则”，在 PISA 发布的当天下午闪电发表议会演讲，运用“停滞”、“被甩在身后”等高度契合小报头条的修辞，将原本不支持新自由主义政策的 [[OECD]] 数据反向篡改为强推学院化与[[Performance Pay|绩效工资]]的灵丹妙药。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 116–120, 125)]]
 
 ---
 
@@ -158,7 +160,7 @@ updated: 2026-09-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **议程重塑命题** | 媒介逻辑的格式与新闻价值将教育议题压缩为排列表狂热与虚假危机 | 跨国大规模评估（PISA/TIMSS）发布与国内媒体报道 | Altheide & Snow; Grey & Morris |
+> | **议程重塑命题** | 媒介逻辑的格式与新闻价值将教育议题压缩为排列表狂热与虚假危机 | 跨国大规模评估（PISA/[[TIMSS]]）发布与国内媒体报道 | Altheide & Snow; Grey & Morris |
 > | **资本动员命题** | 政治精英凭借双重媒介资本精准投喂媒体，实现争议政策的合法化操纵 | 政治家新闻发布会、议会辩论与官方议程设置 | Couldry; Davis & Seymour; Grey & Morris |
 > | **问责瓦解命题** | 媒体在制造危机的同时采取政策规避，导致第四权力民主监督职能瘫痪 | 争议性激进教育改革推行与公共舆论审议过程 | Grey & Morris |
 

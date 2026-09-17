@@ -15,7 +15,7 @@ summary: "在多组验证性因子分析（MG-CFA）中检验测量工具在不�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -49,13 +49,14 @@ related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_facts:
   - "[[PISA]]"
+  - "[[TIMSS]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Measurement Invariance
@@ -68,7 +69,7 @@ updated: 2026-09-17
 > **测量等值性（Measurement Invariance, MI）**（亦称测量不变性、测量等同性或测量恒常性）是指在多组[[Confirmatory Factor Analysis|验证性因子分析]]（Multigroup CFA, MG-CFA）中，通过对不同群体（如性别、年龄、文化、地域）或不同时间点的测量模型施加阶梯式参数等值约束，系统检验测量工具是否在所有被试子群体中衡量了完全相同心理[[Construct|构念]]与[[Scale of Measurement|测量尺度]]的统计方法。它是开展跨群体均值比较、结构方程路径对比与跨文化研究的前提性方法论门槛。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–8)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 嵌套在不同人口学（如性别、种族、教龄）、文化背景（跨国测验如 [[PISA]]/TIMSS）或纵向追踪时点（Longitudinal Invariance）的多组观测协方差与均值向量结构。
+> - **研究对象** 嵌套在不同人口学（如性别、种族、教龄）、文化背景（跨国测验如 [[PISA]]/[[TIMSS]]）或纵向追踪时点（Longitudinal Invariance）的多组观测协方差与均值向量结构。
 > - **问题类型** 检验测量工具是否存在跨群体测量偏倚（Measurement Bias）、项目功能差异（Differential Item Functioning, DIF）或文化特异性理解偏差；判定跨组均值与路径系数比较的合法性。
 > - **[[Unit of Analysis|分析单位]]** 多组独立样本的观测[[Variable|变量]]、潜变量因子载荷、测量截距与测量残差方差。
 > - **输出形式** 形态、弱、强、严格四阶段嵌套模型的拟合指数矩阵（$\chi^2$、$df$、[[Model Fit Indices in SEM and CFA|RMSEA]]、SRMR、CFI）及其改变量（$\Delta\text{CFI}$、$\Delta\text{RMSEA}$）。

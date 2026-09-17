@@ -9,10 +9,10 @@ aliases:
 summary: "由政府间组织或跨国学术联盟（如 OECD、IEA）主持，采用标准化跨文化心理测量学技术（如 IRT、矩阵抽样）与代表性概率抽样，对不同国家和地区的学生或成年人群体的认知素养与背景变量进行系统测度与比较分析的大型评价范式。作为“硬事实施展软权力”与数字治理的物质技术中枢，推动全球教育从“投入要素规制”迈向“基于产出与排名的绩效规制”，但亦因诱发 PISA 冲击、课程狭窄化及全球趋同而饱受批判。"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/comparative-education
   - theme/educational-evaluation
@@ -56,6 +56,7 @@ related_facts:
   - "[[IEA]]"
   - "[[Gaokao]]"
   - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # International Large-Scale Assessments
@@ -86,7 +87,7 @@ updated: 2026-09-17
 > - **边界** 不等于一国内部实施的[[Gaokao|高考]]、中考等常模参照选拔考试，亦不等于小规模的跨文化田野心理实验，其本质是一种带有强烈全球[[Policy Brokerage|政策中介]]意图的宏观治理基础设施。
 
 > [!citation-card] [[Governing by Numbers|数字治理]]与从投入规制向产出测量的历史跃进
-> 在教育领域，向按数字治理（Governance by Numbers）的转向，伴随着从传统的投入规制（Input Regulation）向绩效测量（Performance Measurement）的深刻演进；这一演进集中体现于由各大国际组织设计并实施的国际大规模学生评估（ILSAs，例如经合组织的 [[PISA]] 或 IEA 的 TIMSS）。数字由此变成了国家与非国家实体之间、国际组织与主权政府之间的首要语言代码。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
+> 在教育领域，向按数字治理（Governance by Numbers）的转向，伴随着从传统的投入规制（Input Regulation）向绩效测量（Performance Measurement）的深刻演进；这一演进集中体现于由各大国际组织设计并实施的国际大规模学生评估（ILSAs，例如经合组织的 [[PISA]] 或 IEA 的 [[TIMSS]]）。数字由此变成了国家与非国家实体之间、国际组织与主权政府之间的首要语言代码。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 >
 > *The shift toward governance by numbers in the education sector accompanied a shift from input regulation to performance measurement, as epitomised in International Large-Scale Student Assessments (e.g. OECD’s PISA or IEA’s TIMSS) designed and delivered by IOs. Numbers became the primary language code between state and non-state entities and between IOs and governments.*
 

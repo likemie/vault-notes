@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 121
+related_count: 122
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -114,6 +114,7 @@ related_persons:
   - "[[Basil Bernstein]]"
 related_facts:
   - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[Research in Schools Evaluation]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -148,7 +149,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Critiques of Visible Learning
@@ -723,7 +724,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 > [[PISA]] 排名附有置信区间，读者可判断数值相邻的国家是否真有显著差异；Hattie 的排名只给出 *d* 值，未系统报告置信区间、标准误或相邻项的显著性检验（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp. 47–48]]）。像 [[Feedback]] $d=0.71$ 与 teacher-student relationship $d=0.72$ 这样的相邻排名，无法凭数值判断是否存在统计上可区分的差异（[[Argument_Allerup_2015_Paideia|Allerup, 2015, p. 47]]）。
 
 > [!critique-method] 边际效应被第三变量改变
-> 多变量控制会实质性地改变效应量：TIMSS 2011 丹麦四年级数据中，教师学科专业资格的未控制效应量约为 $0.15$；控制学生社会经济背景后，效应量降至 $0.08$ 且不再显著（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp. 49–51]]）。这直接挑战了 VL 用单一边际 *d* 排序的实践——同一因素的效应量会随控制变量、统计模型和结果分布改变；更完整的统计解释见 [[Effect Size#基本公式与构成逻辑]] 与 [[Meta-meta-analysis#技术方法论缺陷]]。
+> 多变量控制会实质性地改变效应量：[[TIMSS]] 2011 丹麦四年级数据中，教师学科专业资格的未控制效应量约为 $0.15$；控制学生社会经济背景后，效应量降至 $0.08$ 且不再显著（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp. 49–51]]）。这直接挑战了 VL 用单一边际 *d* 排序的实践——同一因素的效应量会随控制变量、统计模型和结果分布改变；更完整的统计解释见 [[Effect Size#基本公式与构成逻辑]] 与 [[Meta-meta-analysis#技术方法论缺陷]]。
 
 ---
 
@@ -1135,7 +1136,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 > [!logic-map] "[[Cult of the Guru|大师崇拜]]"得以形成的三个历史条件
 > Eacott 以 Callahan（1962）*Education and the [[Cult of Efficiency]]* 为历史框架，识别了使*"大师崇拜"*成为可能的三个历史条件（详见 [[Cult of the Guru]]）：
-> - **时间条件** — NAPLAN/[[PISA]]/TIMSS 数据引发成绩下降担忧，管理修辞围绕理性/控制逻辑凝聚
+> - **时间条件** — NAPLAN/[[PISA]]/[[TIMSS]] 数据引发成绩下降担忧，管理修辞围绕理性/控制逻辑凝聚
 > - **桥梁** — Robinson et al.（2008）向教育行政社区引入效应量语言，但仍缺乏操作细节
 > - **填补** — Hattie 提供了*"用行政语言说话"*的数据（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 414–419]]）
 

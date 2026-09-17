@@ -7,10 +7,10 @@ aliases:
 summary: "确保研究工具在跨越文化边界时保持意义、相关性和测量对等性的效度类型，涉及emic/etic建构张力、回译等操作化技术，以及生态谬误等多层威胁的系统管理"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-methods
   - theme/validity
@@ -36,11 +36,12 @@ related_methods:
   - "[[Cronbach's Alpha]]"
 related_facts:
   - "[[PISA]]"
+  - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 # Cross-cultural Validity
 
@@ -53,7 +54,7 @@ updated: 2026-09-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 跨文化效度的核心不是"工具是否测量了它声称测量的东西"（这是[[Content Validity|内容效度]]和[[Construct Validity|构念效度]]的问题），而是"工具在**跨文化迁移**时是否保持了其测量属性"。同一工具在不同文化中可能测量了完全不同的[[Construct|构念]]。
-> - **用途** 在比较教育研究、跨文化心理学和[[International Large-Scale Assessments|国际大规模评估]]（如 [[PISA]]、TIMSS）中，跨文化效度是工具开发和数据解释的前置条件——如果工具在文化间不可比较，跨文化比较就毫无意义。
+> - **用途** 在比较教育研究、跨文化心理学和[[International Large-Scale Assessments|国际大规模评估]]（如 [[PISA]]、[[TIMSS]]）中，跨文化效度是工具开发和数据解释的前置条件——如果工具在文化间不可比较，跨文化比较就毫无意义。
 > - **边界** 跨文化效度不等同于翻译准确性——即使翻译完美，文化和情境差异仍可能使工具在不同文化中"测量不同的东西"。也不等同于[[Cultural Validity|文化效度]]——后者更广泛地涵盖研究全过程对文化环境的适当性。
 
 ---

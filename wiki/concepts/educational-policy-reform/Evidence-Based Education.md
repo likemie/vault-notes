@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 121
+related_count: 122
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -122,6 +122,7 @@ related_facts:
   - "[[Gonski Reforms]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
+  - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
@@ -490,7 +491,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 
 ### 德国
 
-> [!case] 德国：从 [[PISA]] 震荡到国家教育监测总体战略
+> [!case] 德国：从 [[PISA]] 震荡到[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]
 > 德国自 1990 年代末经历教育政策的经验转向，在 PISA 震荡后由 [[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）确立涵盖跨国测评、国家标准测试与全州统一教育报告的监测基础设施。
 
 > [!evidence-grid-a] 德国案例索引

@@ -8,10 +8,10 @@ aliases:
 summary: "指 1970 年代中叶以降，由于战后实证主义单一全包容科学范式在治理现实、物理学量子转向与后现代思潮中全面破裂，比较教育学演进为多个理论学派、研究取向与多元真理体制并存竞争的复数化学科格局。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - comparative-education
   - disciplinary-history
@@ -51,13 +51,14 @@ related_persons:
 related_facts:
   - "[[IEA]]"
   - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-18
 ---
 
 # Comparative Educations
@@ -172,7 +173,7 @@ updated: 2026-09-08
 > - **1960 年代 — 单数[[Scientific Paradigm|科学范式]]的顶峰** 战[[Postpositivism|后实证主义]]者（如诺亚与埃克斯坦）试图构建统一的实证社会科学体系，追求发现超越时空的普适因果法则，单数形式的“比较教育学”居于支配地位。
 > - **1970 年代中叶 — [[Paradigm|范式]]危机与大论战爆发** 规划承诺落空与量子不确定性[[Epistemology|认识论]]扩散，引发英美比较教育学界大论战；[[Edmund King|埃德蒙·金]]、卡扎米亚斯等学者强烈抨击实证霸权，呼唤历史诠释学与人文传统回归。
 > - **1980–1990 年代 — 复数学科形态确立** 菲利普·阿特巴赫（Altbach, 1991）指出比较教育已呈现多学派并立格局；[[Robert Cowen|罗伯特·考恩]]（Cowen, 2000）正式倡导使用复数“Comparative Educations”，后结构、后殖民、女性主义与文化转向竞相迸发。
-> - **21 世纪 — [[Spatial Sortings|空间分化]]与双重延续** 一方面，政策治理领域以 [[IEA]] TIMSS 和 [[OECD]] [[PISA]] 为代表的跨国量化测评作为统治借口继续巩固；另一方面，学术共同体内部的复数真理体制与批判反思更加繁盛，确立了不可逆的复数性格局。
+> - **21 世纪 — [[Spatial Sortings|空间分化]]与双重延续** 一方面，政策治理领域以 [[IEA]] [[TIMSS]] 和 [[OECD]] [[PISA]] 为代表的跨国量化测评作为统治借口继续巩固；另一方面，学术共同体内部的复数真理体制与批判反思更加繁盛，确立了不可逆的复数性格局。
 
 ---
 

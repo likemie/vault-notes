@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -53,7 +53,8 @@ related_methods:
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Biggs_1999_HERD]]"
@@ -64,7 +65,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Problem-Based Learning
@@ -255,7 +256,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 >
 > | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2015_SOTLP\|Schwerdt & Wuppermann (2011, as cited in Hattie, 2015b, p. 86)]] | 将 10 个百分点的教学时间从[[Problem Solving\|问题解决]]转向讲授式呈现 | TIMSS 测试能力 | 高中样本；N 未报告 | 未报告 | 约提高 0.01 SD | 未报告 | 二手摘要未提供完整模型；不能推广到专业教育中的完整 PBL 系统 |
+> | [[Argument_Hattie_2015_SOTLP\|Schwerdt & Wuppermann (2011, as cited in Hattie, 2015b, p. 86)]] | 将 10 个百分点的教学时间从[[Problem Solving\|问题解决]]转向讲授式呈现 | [[TIMSS]] 测试能力 | 高中样本；N 未报告 | 未报告 | 约提高 0.01 SD | 未报告 | 二手摘要未提供完整模型；不能推广到专业教育中的完整 PBL 系统 |
 > | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 受训团队管理教师与未经专门培训教师实施 Inventorium | 学生保留或参与 | 在线替代性高中；N 未报告 | 100% 保留与几乎全部不参与 | — | 未报告 | 作者实施观察，缺少[[Sample Size Determination\|样本量]]与统计检验；作者同时经营并倡导该项目 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果

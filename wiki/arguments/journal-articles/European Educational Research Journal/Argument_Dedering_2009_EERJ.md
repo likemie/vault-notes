@@ -43,13 +43,16 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
   - "[[Questionnaire]]"
-  - "[[Trend Study]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Gesamtstrategie zum Bildungsmonitoring]]"
+  - "[[Vergleichsarbeiten]]"
   - "[[OECD]]"
+  - "[[PIRLS]]"
+  - "[[TIMSS]]"
 related_arguments: []
 sources:
   - "[[sources/Dedering_2009_EERJ|Dedering_2009_EERJ]]"
@@ -63,7 +66,7 @@ title: "Argument_Dedering_2009_EERJ"
 argument_key: "Argument_Dedering_2009_EERJ"
 argument_display_title: "Evidence-Based Education Policy: Lip service or common practice? Empirical findings from Germany"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -156,7 +159,7 @@ issuing_organization: ""
 
 #### 1. 文化分权与公共问责危机迫使教育行政部门将数据政治化
 
-德国由 16 个联邦州组成，各州享有宪法保障的文化与教育自主权（Kulturhoheit der Länder）。长期以来，德国教育管理依赖行政法规与课程大纲等输入控制手段。自 20 世纪 90 年代末起，德国教育政策开启了向产出控制与实证评估转移的经验转向（Lange, 1999）。[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK，德语：Kultusministerkonferenz）随后于 2006 年确立了国家教育监测总体战略，确立了跨国评估、国家教育标准集中测试、校际比较测试（Vergleichsarbeiten, VERA，包含小学 3 年级测试 VERA-3 与初中 8 年级测试 VERA-8）与统一教育报告四大支柱。在 [[Evidence-Based Education|循证教育]]政策的推动下，实证数据被视为优化行政管理与提高办学效能的法定基石。（pp. 484–485）
+德国由 16 个联邦州组成，各州享有宪法保障的文化与教育自主权（Kulturhoheit der Länder）。长期以来，德国教育管理依赖行政法规与课程大纲等输入控制手段。自 20 世纪 90 年代末起，德国教育政策开启了向产出控制与实证评估转移的经验转向（Lange, 1999）。[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK，德语：Kultusministerkonferenz）随后于 2006 年确立了[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]，确立了跨国评估、国家教育标准集中测试、[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA，包含小学 3 年级测试 VERA-3 与初中 8 年级测试 VERA-8）与统一教育报告四大支柱。在 [[Evidence-Based Education|循证教育]]政策的推动下，实证数据被视为优化行政管理与提高办学效能的法定基石。（pp. 484–485）
 
 > [!policy-context] 德国教育治理从输入规制向国家监测总体战略的转型
 > - **文化主权与跨州协同** 16 个联邦州具有独立的学制、行政传统与政策目标，KMK 承担着在维持联邦弹性的同时制定跨州统一质量标准的最高协调职责。（pp. 484, 495）
@@ -246,7 +249,7 @@ issuing_organization: ""
 随着循证监测体系的扩张，各州教育部开始推进系统化的数据管理，部分联邦州探索跨数据源的集中管理机制。（pp. 493–494）
 
 > [!critique-method] 测评数据过载与多源数据整合的行政能力困局
-> - **密集施测造成的行政精力挤压** 随着比较测试（如 VERA-3 和 VERA-8）以短间隔高频常态化施测，官员主要精力集中于向学校反馈和分发数据，缺乏精力开展跨数据源的深度关联分析（如将 VERA 与国际阅读素养研究（Progress in International Reading Literacy Study, PIRLS）或 PISA 进行对接）。（p. 493）
+> - **密集施测造成的行政精力挤压** 随着比较测试（如 VERA-3 和 VERA-8）以短间隔高频常态化施测，官员主要精力集中于向学校反馈和分发数据，缺乏精力开展跨数据源的深度关联分析（如将 VERA 与[[PIRLS|国际阅读素养研究]]（Progress in International Reading Literacy Study, PIRLS）或 PISA 进行对接）。（p. 493）
 > - **偶发性个人兴趣主导的碎片化串联** 跨数据库关联分析大多仅凭个别对统计具有兴趣的官员偶然开展，缺乏流程化的跨库分析规范。
 > - **学校质量自主权的责任边界划分** 官员认为学校是自身质量保障的第一责任主体，多源数据的精细化关联应当由学校自主进行，教育部不应过度干预。
 > - **全州集中追踪数据库的探索尝试** 一个联邦州编写了整合多源监测指标的综合指导文件，并建立了贯通学前教育至高等教育的学生发展追踪数据库，体现了数据驱动治理的制度探索。（p. 494）
@@ -255,11 +258,11 @@ issuing_organization: ""
 
 调研显示，各州教育部官员对不同实证测评工具在日常治理中的实际功能形成了明确区分。（pp. 493–494）
 
-> [!row-contrast] 表：宏观国际测评与学校专项评估工具的行政治理效能比较
+> [!row-contrast] 表：宏观大型测评与学校专项评估工具的行政治理效能比较
 > | 工具类型 | 代表性测量工具 | 抽样范围与评价指标特征 | 教育部官员的治理效能定性 |
 > |---|---|---|---|
-> | **宏观大型测评** | PISA、国际数学与科学[[Trend Study\|趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）、PIRLS | 抽样样本（仅覆盖部分学生）；侧重终结性学业产出指标（成绩得分与排名）。（pp. 493–494） | **定位功能突出，治理指导力有限** 仅能提供宏观位置参照，结论较为抽象且解释空间大，无法直接推导具体的教学改进措施，亦难以评价具体质量政策的实际成效。（p. 494） |
-> | **学校专项测评** | 校际比较测试（VERA-3、VERA-8）、[[School Inspection\|学校督导]]（Schulinspektion） | 全样本覆盖（包含特定年级所有学生或所有学校）；整合输入、过程与产出全链条指标。 | **治理针对性强，实用价值明确** 能够揭示学校层面的具体情况，为教育部日常资源配置与薄弱学校干预提供直接证据支撑。 |
+> | **宏观大型测评** | [[PISA]]、[[TIMSS\|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）、[[PIRLS\|国际阅读素养研究]]（Progress in International Reading Literacy Study, PIRLS） | 抽样样本（仅覆盖部分学生）；侧重终结性学业产出指标（成绩得分与排名）。（pp. 493–494） | **定位功能突出，治理指导力有限** 仅能提供宏观位置参照，结论较为抽象且解释空间大，无法直接推导具体的教学改进措施，亦难以评价具体质量政策的实际成效。（p. 494） |
+> | **学校专项测评** | [[Vergleichsarbeiten\|校际比较测试]]（VERA-3、VERA-8）、[[School Inspection\|学校督导]]（Schulinspektion） | 全样本覆盖（包含特定年级所有学生或所有学校）；整合输入、过程与产出全链条指标。 | **治理针对性强，实用价值明确** 能够揭示学校层面的具体情况，为教育部日常资源配置与薄弱学校干预提供直接证据支撑。 |
 
 > [!chain-link] 德国循证教育政策从象征性修辞走向日常行政常规的机制演进链
 > - **前提：外部危机驱动象征性合法化防御** 面对 PISA 震荡的舆论关注与执政联盟博弈，教育部官员因缺乏实证工具与分析能力，主要将数据用作防御性政治包装与既定政策背书。（pp. 486–487）
@@ -276,7 +279,7 @@ issuing_organization: ""
 > 2. **数据研读实现由被动通读向[[Hypothesis|假设]]检验的认知转变** 官员在 [[PISA]] 2006 中不再通篇通读报告，而是依托成熟的[[Working Knowledge|实践运作知识]]展开精准的靶向假设检验，并主动借助专业学术期刊（如 ZfE）进行深度反思。（pp. 490–491）
 > 3. **专业数据处理能力实现科层内外的双轨制度化沉淀** 各州通过设置专职社会科学量化分析编制、建立州级教育质量发展研究所或委托本土大学，建立了稳定的学术协作网络与方法论交流机制。（pp. 491–492）
 > 4. **日常行政分化出问题导向与数据导向双重应用模式** 数据在非峰值期被常规用于诊断特定弱势群体困境（如男童与移民学生），以及自下而上识别需要行政倾斜干预的危急状态薄弱学校。（pp. 492–493）
-> 5. **密集测评引发数据过载并阻碍多源横向关联分析** VERA 等比较测试的极短施测周期挤占了官员行政精力，导致各测评数据多处于孤立状态，仅有个别州迈向全州贯通式集中追踪数据库。（pp. 493–494）
+> 5. **密集测评引发数据过载并阻碍多源横向关联分析** [[Vergleichsarbeiten|VERA]] 等比较测试的极短施测周期挤占了官员行政精力，导致各测评数据多处于孤立状态，仅有个别州迈向全州贯通式集中追踪数据库。（pp. 493–494）
 > 6. **决策者清醒甄别宏观测评与微观工具的治理效力** 官员认为 PISA 等大型国际测评仅具宏观定位价值，而全样本、兼顾输入过程与产出的校际比较测试（VERA）与[[School Inspection|学校督导]]才具备直接指导政策微调的深层价值。（p. 494）
 
 > [!stat-cards]- 核心数据
@@ -300,7 +303,7 @@ issuing_organization: ""
 > *Reading is actually always an act of testing a hypothesis. We have certain expectations and we were able to read in a targeted way whether they were met or not. We did not read about matters we had regarded as not problematic, or barely scanned such paragraphs. (Interview 12, 2009)*
 
 > [!citation-card] 密集测评导致的数据过载与关联分析受阻
-> 鉴于我们现在以极短的间隔定期收到 VERA-8 和 VERA-3 的测试数据，我发现我们整天都在忙于核对应当向谁反馈这些数据，以至于根本没有时间去开展数据关联分析，例如将 VERA-3 数据与 PIRLS 数据关联，或者将 VERA-8 数据与 [[PISA]] 数据关联。（p. 493）
+> 鉴于我们现在以极短的间隔定期收到 [[Vergleichsarbeiten|VERA-8]] 和 VERA-3 的测试数据，我发现我们整天都在忙于核对应当向谁反馈这些数据，以至于根本没有时间去开展数据关联分析，例如将 VERA-3 数据与 [[PIRLS]] 数据关联，或者将 VERA-8 数据与 [[PISA]] 数据关联。（p. 493）
 >
 > *Well, now that we are receiving data from the VERA-8 and VERA-3 studies on a regular basis, at very short intervals, I notice that we are so busy with checking who we need to report the data to that we simply have not had the time to correlate the data, for example, to correlate VERA-3 data with data from PIRLS, or VERA-8 data with PISA data. (Interview 9, 2009)*
 

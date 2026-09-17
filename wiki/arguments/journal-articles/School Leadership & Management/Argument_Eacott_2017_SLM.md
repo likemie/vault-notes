@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -70,6 +70,7 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
+  - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_Eacott_2019_IJLE]]"
@@ -158,7 +159,7 @@ updated: 2026-09-16
 
 ### 步骤一：时间窗口——慢性绩效下滑下的理性饥渴与行政话语真空
 
-在面临系统衰退时，管理修辞会根据衰退的性质发生分化：如果经济或教育系统经历迅速的崩溃（如金融危机或大萧条），管理修辞通常会转向“规范/意向修辞”（normative/aspirational rhetoric）以提供情感抚慰和乌托邦未来；而在澳大利亚面临的 NAPLAN、[[PISA]] 和 TIMSS 成绩慢性下滑背景下，系统自发激活了[[Rational-Control Rhetoric|理性/控制修辞]] (Rational/Control Rhetoric)，其核心关切是“避免探底”并建立确保成功的刚性结构（p.415）。这种理性修辞极大地激发了决策层对“唯一正确方法”和“什么最有效”的技术渴望。
+在面临系统衰退时，管理修辞会根据衰退的性质发生分化：如果经济或教育系统经历迅速的崩溃（如金融危机或大萧条），管理修辞通常会转向“规范/意向修辞”（normative/aspirational rhetoric）以提供情感抚慰和乌托邦未来；而在澳大利亚面临的 NAPLAN、[[PISA]] 和 [[TIMSS]] 成绩慢性下滑背景下，系统自发激活了[[Rational-Control Rhetoric|理性/控制修辞]] (Rational/Control Rhetoric)，其核心关切是“避免探底”并建立确保成功的刚性结构（p.415）。这种理性修辞极大地激发了决策层对“唯一正确方法”和“什么最有效”的技术渴望。
 
 与这种理性饥渴形成鲜明对比的是，澳大利亚传统的大规模教学改革（如昆士兰州的 QSRLS、新基础项目和优质教学改革）由于理论过于精细，在行政实践中面临严重障碍。校长的日常工作几乎被行政、人事和财务预算完全侵占，实际用于教学领导的时间微乎其微（p.416）。传统的教学过程理论缺乏能够与科层决策无缝接轨的扁平数据中介，导致学校管理者在面对标准化测试下滑压力时，陷入了行政控制话语的严重真空。
 

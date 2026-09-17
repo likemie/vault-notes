@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -88,6 +88,7 @@ related_facts:
   - "[[Hungarian Researcher Teacher Scheme]]"
   - "[[Education Endowment Foundation]]"
   - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[Kunnskapssenter for utdanning]]"
   - "[[Public Sector PhD Scheme]]"
 status: draft
@@ -277,7 +278,7 @@ updated: 2026-09-13
 为了克服外部中介沟通成本高、响应滞后的弊端，部分先锋国家开始在教育行政中枢内部组建专门化的分析与中介机构，充当常驻[[Knowledge Mediation|知识中介]]。（pp.80–81）
 
 > [!case] 案例聚焦：教育部内部中介与战略情报单元建设
-> - **斯洛文尼亚教育部质量与分析处** 2021 年 7 月设立于教育发展与质量司。核心宗旨是全面提升数据与教育研究在政策制定与一线实践中的生产、分析和应用水平。运作模式表现为典型部内知识中介：对外委托课题并深度参与 [[PISA]]、TIMSS 等国际调查，提炼优秀实践；随时响应各司局决策官员的具体议题，快速检索、翻译与分发实证成果。团队由专业公务员与资深科研人员混合组成。
+> - **斯洛文尼亚教育部质量与分析处** 2021 年 7 月设立于教育发展与质量司。核心宗旨是全面提升数据与教育研究在政策制定与一线实践中的生产、分析和应用水平。运作模式表现为典型部内知识中介：对外委托课题并深度参与 [[PISA]]、[[TIMSS]] 等国际调查，提炼优秀实践；随时响应各司局决策官员的具体议题，快速检索、翻译与分发实证成果。团队由专业公务员与资深科研人员混合组成。
 > - **挪威教育与研究部政策分析处** 专门跨部门向部内业务司局提供权威研究和数据支持，充当专职[[Boundary Spanner|知识经纪人]]，向业务司局与政治决策层分发前沿研究要报，提供定制化定量分析与政策论证支持；在宏观层面统筹协调教育科研经费分配，与挪威研究理事会及教育知识中心深度协同。约 50% 人员拥有博士学位或资深学术背景。（pp.80–81）
 
 #### 3. 教育部委政务网络规模与互动强度的非线性解耦

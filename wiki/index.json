@@ -9075,6 +9075,18 @@
     ]
   },
   {
+    "title": "Commensuration",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Commensuration.md",
+    "aliases": [
+      "通约",
+      "数量通约化",
+      "通约化",
+      "价值通约",
+      "commensuration process"
+    ]
+  },
+  {
     "title": "Cooperative Competition",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cooperative Competition.md",
@@ -9148,6 +9160,18 @@
       "文化等级",
       "文化层次",
       "文化支配等级"
+    ]
+  },
+  {
+    "title": "Data Infrastructure",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Data Infrastructure.md",
+    "aliases": [
+      "数据基础设施",
+      "教育数据基础设施",
+      "Data Assemblage",
+      "数据汇聚体",
+      "digital data infrastructure"
     ]
   },
   {
@@ -20430,6 +20454,16 @@
     ]
   },
   {
+    "title": "Institute for Educational Monitoring and Quality Improvement",
+    "type": "fact",
+    "path": "wiki/facts/germany/Institute for Educational Monitoring and Quality Improvement.md",
+    "aliases": [
+      "汉堡教育监测与质量发展研究所",
+      "IfBQ",
+      "Institut für Bildungsmonitoring und Qualitätsentwicklung"
+    ]
+  },
+  {
     "title": "Standing Conference of the Ministers of Education and Cultural Affairs",
     "type": "fact",
     "path": "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md",
@@ -20476,6 +20510,17 @@
     ]
   },
   {
+    "title": "Gesamtstrategie zum Bildungsmonitoring",
+    "type": "fact",
+    "path": "wiki/facts/germany/Gesamtstrategie zum Bildungsmonitoring.md",
+    "aliases": [
+      "国家教育监测总体战略",
+      "德国国家教育监测总体战略",
+      "KMK Gesamtstrategie",
+      "Gesamtstrategie der KMK zum Bildungsmonitoring"
+    ]
+  },
+  {
     "title": "Prussian Draft Education Law of 1819",
     "type": "fact",
     "path": "wiki/facts/germany/Prussian Draft Education Law of 1819.md",
@@ -20511,6 +20556,18 @@
       "德国高等教育能力建模与测量计划",
       "德国能力建模与测量计划",
       "Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor"
+    ]
+  },
+  {
+    "title": "Vergleichsarbeiten",
+    "type": "fact",
+    "path": "wiki/facts/germany/Vergleichsarbeiten.md",
+    "aliases": [
+      "VERA",
+      "校际比较测试",
+      "德国校际比较测试",
+      "VERA-3",
+      "VERA-8"
     ]
   },
   {
@@ -21145,6 +21202,16 @@
     ]
   },
   {
+    "title": "PIRLS",
+    "type": "fact",
+    "path": "wiki/facts/global/PIRLS.md",
+    "aliases": [
+      "国际阅读素养研究",
+      "国际阅读素养进展研究",
+      "Progress in International Reading Literacy Study"
+    ]
+  },
+  {
     "title": "PISA",
     "type": "fact",
     "path": "wiki/facts/global/PISA.md",
@@ -21206,6 +21273,16 @@
       "教师教学国际调查",
       "国际教学与学习调查",
       "OECD TALIS"
+    ]
+  },
+  {
+    "title": "TIMSS",
+    "type": "fact",
+    "path": "wiki/facts/global/TIMSS.md",
+    "aliases": [
+      "国际数学与科学趋势研究",
+      "国际数学与科学趋势调查",
+      "Trends in International Mathematics and Science Study"
     ]
   },
   {
@@ -23785,6 +23862,17 @@
     ]
   },
   {
+    "title": "Massachusetts Department of Elementary and Secondary Education",
+    "type": "fact",
+    "path": "wiki/facts/us/Massachusetts Department of Elementary and Secondary Education.md",
+    "aliases": [
+      "马萨诸塞州中小学教育部",
+      "DESE",
+      "Massachusetts DESE",
+      "马州中小学教育部"
+    ]
+  },
+  {
     "title": "National Center for Education Evaluation and Regional Assistance",
     "type": "fact",
     "path": "wiki/facts/us/National Center for Education Evaluation and Regional Assistance.md",
@@ -25112,6 +25200,11 @@
     "title": "Argument_OConnor_2020_AJLL",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md"
+  },
+  {
+    "title": "Argument_Hartong_Forschler_2019_BDS",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Big Data & Society/Argument_Hartong_Forschler_2019_BDS.md"
   },
   {
     "title": "Argument_Wrigley_2018_BERJ",

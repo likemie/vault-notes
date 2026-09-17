@@ -8,7 +8,7 @@ summary: "德国教育统计学家、经合组织（OECD）教育与技能司司
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -58,6 +58,7 @@ related_facts:
   - "[[Teaching and Learning International Survey]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[IEA]]"
+  - "[[TIMSS]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA for Development]]"
   - "[[2014 Open Letter on PISA]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Andreas Schleicher
@@ -93,7 +94,7 @@ updated: 2026-09-17
 
 > [!timeline] 生平与职涯
 > - **1964** 出生于西德汉堡，早年在汉堡大学攻读物理学，后在澳大利亚迪肯大学获得数学与统计学理学硕士学位。
-> - **1986–1993** 在[[IEA|国际教育成就评价协会]]（[[IEA]]）担任数据分析主管，主导阅读素养调查（[[Research Literacy Scale for Teachers|RLS]]）并参与第三次国际数学与科学研究（TIMSS）先期取样与统计规程设计。
+> - **1986–1993** 在[[IEA|国际教育成就评价协会]]（[[IEA]]）担任数据分析主管，主导阅读素养调查（[[Research Literacy Scale for Teachers|RLS]]）并参与第三次国际数学与科学研究（[[TIMSS]]）先期取样与统计规程设计。
 > - **1994–2001** 加入[[OECD|经合组织]]（[[OECD]]），担任[[Performance Indicators|教育指标]]与分析处副处长，推动[[International Indicators of Education Systems|国际教育指标项目]]（[[International Indicators of Education Systems|INES]]）制度化，并构思启动[[PISA|国际学生评估项目]]（[[PISA]]）的跨文化素养测量框架。
 > - **2002–2012** 担任经合组织教育指标与分析处处长兼 PISA 项目特别顾问，主导 PISA 历次三年期全球放榜，将测评对象由成员国大幅扩展至非成员国及全球南方发展中经济体（[[PISA for Development]]）。
 > - **2012–至今** 升任经合组织教育与技能司司长兼秘书长教育政策特别顾问，全面掌舵经合组织教育旗舰矩阵；2014 年直接面对全球 83 位学者联合发起的公开抗议信并发表官方辩护。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, p. 123)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 547)]]

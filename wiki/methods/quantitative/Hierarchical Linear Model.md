@@ -12,7 +12,7 @@ summary: "专门用于分析具有嵌套或分层结构数据的统计建模方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 48
+method_related_count: 49
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -71,6 +71,7 @@ related_persons:
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[PISA]]"
+  - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Hierarchical Linear Model
@@ -122,7 +123,7 @@ updated: 2026-09-17
 > | **典型应用场景** | 机制解析、探索学校异质性、CRT 主模型 | 简单政策评估、不需要分解方差时的稳健分析 | 大样本公共卫生追踪、边际干预均值比较 |
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Cluster Randomized Trials|集群随机对照试验]]（[[Cluster Randomized Trials|Cluster RCT]]）、跨国大规模测评（[[PISA]]/TIMSS）、多阶段[[Stratified Sampling|分层抽样]]调查、纵向重复测量[[Growth|生长]]曲线（Growth Curve）。
+> - **研究设计** [[Cluster Randomized Trials|集群随机对照试验]]（[[Cluster Randomized Trials|Cluster RCT]]）、跨国大规模测评（[[PISA]]/[[TIMSS]]）、多阶段[[Stratified Sampling|分层抽样]]调查、纵向重复测量[[Growth|生长]]曲线（Growth Curve）。
 > - **数据收集** 学生统考数据库（NPD）、[[School Inspection|学校督导]]数据库、教师[[Questionnaire|问卷]]与学生问卷配对数据。
 > - **分析方法** 零模型（Null Model / 随机截距方差分解）、随机截距模型（Random Intercept Model）、随机斜率模型（Random Slope Model）、完全条件模型（含跨层级交互）。
 > - **辅助技术** 限制性极大似然估计（REML）、组均值中心化（Group-Mean Centering）、总均值中心化（Grand-Mean Centering）、设计效应（Design Effect）校正。
@@ -224,7 +225,7 @@ updated: 2026-09-17
 > - **适合使用**
 >   - 以班级或学校为单位进行[[Random Assignment|随机分配]]的[[Cluster Randomized Trials|集群随机对照试验]]（[[Cluster Randomized Trials|Cluster RCT]]）；
 >   - 评估涉及复杂组织制度、教师教学风格与学生个体背景[[Interaction Effect|交互作用]]的教育实证研究；
->   - 跨国大规模学生测评数据（如 [[PISA]]、TIMSS）中探讨国家、学校与学生三层结构的分层分析；
+>   - 跨国大规模学生测评数据（如 [[PISA]]、[[TIMSS]]）中探讨国家、学校与学生三层结构的分层分析；
 >   - [[Meta-analysis|元分析]]中处理包含多个相关[[Effect Size|效应量]]的[[Three-Level Meta-Analysis|三层元分析]]（[[Three-Level Meta-Analysis]]）。
 > - **谨慎使用**
 >   - 高层级集群数量较少（如学校数不足 15–20 所）的研究，此时极大似然估计的组间方差容易发生向下偏倚，应启用 Kenward-Roger 小样本自由度修正；

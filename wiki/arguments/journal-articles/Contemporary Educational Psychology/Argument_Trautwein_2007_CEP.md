@@ -65,6 +65,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Longitudinal Study]]"
   - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Multiple Regression]]"
   - "[[Cross-sectional Study]]"
   - "[[Standard Error]]"
@@ -76,6 +77,7 @@ related_persons:
   - "[[Ulrich Trautwein]]"
 related_facts:
   - "[[TOSCA]]"
+  - "[[TIMSS]]"
   - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
@@ -91,7 +93,7 @@ title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -166,7 +168,7 @@ issuing_organization: ""
 >
 > > [!axis] 确定性维度与学业成绩预测力的争议
 > > - **Schommer (1993, 1997) 的否定性证据** 在针对千余名中学生的横截面与[[Cohort Study|追踪研究]]中，尽管确定性信念与平均学分绩点（Grade Point Average，GPA）存在零阶负相关，但在控制言语智商（Verbal Intelligence Quotient，Verbal IQ）后，确定性维度的预测力完全消失，仅“快速学习”维度保持显著。Schommer et al. (1992) 在数学测验中也未发现确定性信念的显著效应。
-> > - **支持性实证证据** Hofer (2000) 发现领域一般与领域特殊的确定性分数是大学生成绩最强的负向预测源；Köller et al. (2000) 基于德国国际数学与科学[[Trend Study|趋势研究]]（Trends in International Mathematics and Science Study，TIMSS）样本发现物理确定性信念显著负向预测物理成绩（部分通过降低学科兴趣中介）。
+> > - **支持性实证证据** Hofer (2000) 发现领域一般与领域特殊的确定性分数是大学生成绩最强的负向预测源；Köller et al. (2000) 基于德国国际数学与科学[[Trend Study|趋势研究]]（[[TIMSS|Trends in International Mathematics and Science Study]]，TIMSS）样本发现物理确定性信念显著负向预测物理成绩（部分通过降低学科兴趣中介）。
 >
 > > [!axis] Wood & Kardash (2002) 的三大方法论诊断
 > > 早期认识论实证研究结果之所以高度矛盾，主要源于三大设计缺陷：
@@ -322,7 +324,7 @@ issuing_organization: ""
 >   - **$\text{TLI} = .952$（Tucker-Lewis 指数）** 取值通常在 0 到 1 之间，一般要求 $> .90$（大于 .95 为极优）。.952 说明理论构建的因果路径能非常优秀地拟合实际观测数据。
 >   - **$\text{RMSEA} = .033$（近似误差均方根）** 衡量理论模型与真实总体之间的残差差异，一般要求 $< .05$ 为优秀。此处仅 .033，说明模型与现实的拟合误差极小。
 >   - **$\text{SRMR} = .025$（标准化残差均方根）** 要求 $< .08$。此处仅 .025，表明预测协方差与实际观测协方差的平均误差极低。
-> - **复合抽样校正（Type=Complex）的必要性** 学生是嵌套在 90 所学校中的。同一所中学的学生由于共享老师和校风，彼此的回答存在一定相似性（组内相关系数 ICC $< .10$）。如果不作校正，统计软件会低估标准误，导致假阳性错误（Type I Error）；Type=Complex 调整了聚类效应，使得模型给出的显著性检验（$p < .001$）诚实而稳健。
+> - **复合抽样校正（Type=Complex）的必要性** 学生是嵌套在 90 所学校中的。同一所中学的学生由于共享老师和校风，彼此的回答存在一定相似性（[[Intraclass Correlation Coefficient|组内相关系数]] ICC $< .10$）。如果不作校正，统计软件会低估标准误，导致假阳性错误（Type I Error）；Type=Complex 调整了聚类效应，使得模型给出的显著性检验（$p < .001$）诚实而稳健。
 
 > [!warrant]- 推理桥梁
 > 结构方程模型排除了以往研究中因未控制认知能力与家庭背景而导致的混淆解释。确定性信念对成绩 $\beta = -0.15$ 的[[Effect Size|效应量]]在高度同质的精英高级文理中学（仅前 30% 学生就读，方差受限）中具有实质性的教育选拔意义；更为关键的是，中介效应的证实揭示了认知能力与文化资本不仅通过直接途径提升学业，还通过培育“质疑绝对真理、接纳理论暂时性”的成熟认识论信念间接赋能学业成就。（p.358, p.362）

@@ -5,7 +5,7 @@ aliases:
 summary: "指教育干预在产生预期效果的同时也可能带来伴随性损害或代价的概念，用于反思只关注什么有效而忽视何种代价的评估逻辑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,12 +27,13 @@ related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[PISA]]"
+  - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: 2026-08-20
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -59,7 +60,7 @@ updated: 2026-08-20
 >
 > 3. **钟摆效应** 当一个理念因其副作用被放弃时，并不意味着它无效——当替代方案也出现副作用时，旧理念的有效性又成为回归的理由
 >
-> 4. **对"最好"教育体系的幻灭** 东亚体系在 [[PISA]]/TIMSS 上的顶尖表现可能伴随着学生自信心和学科兴趣的系统性损害
+> 4. **对"最好"教育体系的幻灭** 东亚体系在 [[PISA]]/[[TIMSS]] 上的顶尖表现可能伴随着学生自信心和学科兴趣的系统性损害
 
 ## 实证发现
 
@@ -74,7 +75,7 @@ updated: 2026-08-20
 
 
 > [!success] 案例二：东亚教育体系的"最好"与"最坏"
-> - 东亚学生在 [[PISA]]/TIMSS 中成绩世界第一
+> - 东亚学生在 [[PISA]]/[[TIMSS]] 中成绩世界第一
 > - 但数学自信和学科态度的跨国比较中排名最低——PISA 2012: 韩国、台北、新加坡、越南、上海、香港超过 70% 学生担心数学成绩差，而奥地利、美国、德国、丹麦等不到 50%([[Argument_Zhao_2017_JEC|Zhao, 2017, p.11]])
 > - TIMSS 中数学成绩与自信心的跨体系显著负相关（r=−0.59 四年级，r=−0.64 八年级）([[Argument_Zhao_2017_JEC|Zhao, 2017, p.12]])
 

@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 81
+method_related_count: 82
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -78,6 +78,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Education Endowment Foundation]]"
+  - "[[TIMSS]]"
   - "[[Promising Practices Network]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[What Works Clearinghouse]]"
@@ -107,7 +108,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -187,7 +188,7 @@ updated: 2026-09-17
 >
 > **统计前提** $d$ 的直观解释依赖于三个前提：（1）前后分布近似对称且接近正态；（2）两个分布的标准差相同，均值差才可解释为简单位移；（3）若分布右偏或左偏，均值并不在分布中心。极端情况下，若基础分布类似柯西分布（Cauchy distribution），均值和方差本身不稳定，$d$ 的计算基础会崩塌（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–49]]）。
 >
-> **第三[[Variable|变量]]影响** 边际分析与多[[Variable|变量]]控制会显著改变 $d$。TIMSS 2011 丹麦四年级数学中，教师学科专业资格的未控制效应量约 0.15，控制学生社会经济背景后降至 0.08 且不再显著——说明单个 $d$ 不能脱离第三变量独立解释（参见 [[Covariate Adjustment]]）。
+> **第三[[Variable|变量]]影响** 边际分析与多[[Variable|变量]]控制会显著改变 $d$。[[TIMSS]] 2011 丹麦四年级数学中，教师学科专业资格的未控制效应量约 0.15，控制学生社会经济背景后降至 0.08 且不再显著——说明单个 $d$ 不能脱离第三变量独立解释（参见 [[Covariate Adjustment]]）。
 
 ---
 

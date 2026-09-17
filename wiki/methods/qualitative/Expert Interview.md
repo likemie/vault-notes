@@ -159,3 +159,4 @@ updated: 2026-09-18
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 针对德国四个联邦州教育部质量保障与发展部门官员开展 12 场半结构化专家访谈，深入剖析州教育行政层级对大型实证监测数据的接收、处理与日常利用机制。
+> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 针对美国马萨诸塞州中小学教育部（DESE）及德国汉堡学校与职业教育局（BSB）、汉堡教育监测与质量发展研究所（IfBQ）的 20 位数据专家开展 16 场半结构化专家访谈，揭示州级教育行政机构在数据清洗、算法通约与问责建模中的暗箱实践与多维张力。

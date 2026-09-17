@@ -9,7 +9,7 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 52
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -72,6 +72,7 @@ related_persons:
   - "[[Louis Cohen]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Vergleichsarbeiten]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -281,7 +282,7 @@ flowchart LR
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在专章中系统整合 Mayring 质性[[Content Analysis|内容分析]]的三大核心进路与形成性复核规程，确立其在教育研究[[Coding in Qualitative Research|编码]]与范畴构建中的基石地位（Ch. 30）。
-> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 综合运用 Mayring 质性内容分析的归纳总结与结构演绎双重进路，依托 MAXQDA 对德国 4 个联邦州教育部官员与督导负责人的 12 场半结构化[[Expert Interview|专家访谈]]、2,796 篇新闻报道与 1,500 份州教育部官方公文进行系统编码。研究通过多轮转述、层级归并与主客体[[Triangulation|三角互证]]，揭示[[Evidence-Based Education|循证教育]]政策工具（如 [[PISA]]、VERA 测评与[[School Inspection|学校督导]]）在科层[[Working Knowledge|实践运作知识]]中从早期的象征性工具化利用，逐步向形成常规化[[Hypothesis|假设]]检验的深层机制演进（pp. 489–491）。
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 综合运用 Mayring 质性内容分析的归纳总结与结构演绎双重进路，依托 MAXQDA 对德国 4 个联邦州教育部官员与督导负责人的 12 场半结构化[[Expert Interview|专家访谈]]、2,796 篇新闻报道与 1,500 份州教育部官方公文进行系统编码。研究通过多轮转述、层级归并与主客体[[Triangulation|三角互证]]，揭示[[Evidence-Based Education|循证教育]]政策工具（如 [[PISA]]、[[Vergleichsarbeiten|VERA]] 测评与[[School Inspection|学校督导]]）在科层[[Working Knowledge|实践运作知识]]中从早期的象征性工具化利用，逐步向形成常规化[[Hypothesis|假设]]检验的深层机制演进（pp. 489–491）。
 
 ---
 

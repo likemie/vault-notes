@@ -7,10 +7,10 @@ summary: "华裔比较教育学者，堪萨斯大学教育学院教授，以教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1965"
 died: ""
 lifespan: "1965–至今"
@@ -37,6 +37,7 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[TIMSS]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 # Yong Zhao
 
@@ -94,7 +95,7 @@ updated: 2026-09-15
 > [!tip]-
 > 对 [[PISA]] 的批评涵盖三个根本缺陷([[Argument_Zhao_2020_JEC|Zhao, 2020]])：
 >
-> **捏造的主张（[[PISA Made-up Claim]]）**。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 TIMSS 等其他国际评估高度相关。
+> **捏造的主张（[[PISA Made-up Claim]]）**。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 [[TIMSS]] 等其他国际评估高度相关。
 >
 > **单一教育观（[[PISA Monolithic View of Education]]）**。PISA 将 [[OECD]] 成员国的西方[[Hypothesis|假设]]强加于全球近 200 个国家。
 >
@@ -125,7 +126,7 @@ updated: 2026-09-15
 ## 影响
 
 > [!success]
-> - 对 [[PISA]]/TIMSS 跨国比较的副作用分析，揭示东亚教育体系在考试成绩上世界第一但学生自信心和学科态度世界最低的矛盾。
+> - 对 [[PISA]]/[[TIMSS]] 跨国比较的副作用分析，揭示东亚教育体系在考试成绩上世界第一但学生自信心和学科态度世界最低的矛盾。
 > - 系统性 PISA 批评为教育政策研究提供了非技术性语言的综合框架，将分散在学术期刊和技术报告中的批评汇集为一处。
 > - 教育副作用框架为反思标准化改革和[[Evidence-Based Education|证据本位教育]]提供了批判性视角。
 

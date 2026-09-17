@@ -8,7 +8,7 @@ aliases:
 summary: "基于潜在特质假设的现代测量理论，认为题目难度和区分度可以独立于施测样本被描述，受试者能力也可以独立于具体测验题目被估计，是计算机自适应测验的理论基础"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_facts:
   - "[[PISA]]"
+  - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 related_instruments:
@@ -39,7 +40,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Item Response Theory
@@ -130,7 +131,7 @@ updated: 2026-09-17
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 为标准化测验的编制、等值和题库建设提供数学基础。
 > - **作为分析工具** 通过 Rasch 模型分析[[Item Analysis|题目难度]]与受试者能力的匹配度；通过多参数模型（2PL、3PL）评估区分度和猜测效应；通过差异题目功能（DIF）分析检测测验偏差。
-> - **作为批判视角** 提醒研究者 [[Classical Test Theory|CTT]] 的题目参数样本依赖性如何限制跨研究比较，以及为什么大规模测评项目（如 [[PISA]]、TIMSS、NAEP）选择 IRT 为基础。
+> - **作为批判视角** 提醒研究者 [[Classical Test Theory|CTT]] 的题目参数样本依赖性如何限制跨研究比较，以及为什么大规模测评项目（如 [[PISA]]、[[TIMSS]]、NAEP）选择 IRT 为基础。
 > - **报告方式** 在研究报告中应明确使用的 IRT 模型类型、模型拟合指标、题目参数估计结果以及能力估计的精度。
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-09-17
 > [!dev-timeline] 发展脉络
 > - **1960 — Rasch 模型提出** Georg Rasch 提出一参数逻辑斯蒂模型，奠定客观测量的概率基础
 > - **1980 — Lord 出版《项目反应理论在实践测验问题中的应用》** 系统化 IRT 的理论框架和实际应用
-> - **1990 — Rasch 测量成为教育测评主流** Wainer & Mislevy 等学者的推广使 IRT 进入大规模测评项目（如 NAEP、TIMSS、[[PISA]]）
+> - **1990 — Rasch 测量成为教育测评主流** Wainer & Mislevy 等学者的推广使 IRT 进入大规模测评项目（如 NAEP、[[TIMSS]]、[[PISA]]）
 > - **2000 年代 — [[Computerized Adaptive Testing|计算机自适应测验]]普及** IRT 成为 [[Consensual Assessment Technique|CAT]] 的核心算法基础
 
 ---

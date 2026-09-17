@@ -8,7 +8,7 @@ aliases:
 summary: "决策者与管理者在工作情境中自发且常规调用的结构化知识体系，包含信念、假定、实践经验及社会科学知识，在新证据进入时发挥认知过滤与调适中介功能"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,8 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Qualitative Research]]"
 related_facts:
+  - "[[Vergleichsarbeiten]]"
+  - "[[PIRLS]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
@@ -142,7 +144,7 @@ updated: 2026-09-18
 > **测评过载对横向整合的挤出效应** 当外部评估工具以短间隔高频常态化施测时，行政决策者的认知带宽与业务精力将被事务性的数据分发与流转规程所耗竭；实践运作知识的认知负荷达到饱和，导致跨数据源的深度横向关联分析陷入停滞，各测评数据多被割裂为孤立的行政档案。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 493–494)]]
 
 > [!warrant]- 经验机制与访谈证据
-> 德国各州教育部的实证调查显示，随着校际比较测试（VERA-3 与 VERA-8）密集的常态化施测，处室官员主要精力集中于面向学校的数据核验与下发工作，缺乏精力将校际测试数据与国际阅读素养研究（PIRLS）或 [[PISA]] 等国际测评进行对接；多源数据的关联整合沦为仅凭个别具备统计兴趣官员偶发开展的边缘行为。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 493)]]
+> 德国各州教育部的实证调查显示，随着[[Vergleichsarbeiten|校际比较测试]]（VERA-3 与 VERA-8）密集的常态化施测，处室官员主要精力集中于面向学校的数据核验与下发工作，缺乏精力将校际测试数据与[[PIRLS|国际阅读素养研究]]（PIRLS）或 [[PISA]] 等国际测评进行对接；多源数据的关联整合沦为仅凭个别具备统计兴趣官员偶发开展的边缘行为。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 493)]]
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "起源于日本的校本协同教研范式，通过集体备课、授课观课、基于学童证据的研讨与教学微调循环提升教学质量；在证据知情体系中被确立为融通内部实践探究与外部研究使用、支撑专业学习共同体落地的联合实践发展（JPD）核心载体，同时其有效性高度依赖制度化课时保障与高位专业引领。"
 type: concept
 domain: "teacher-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -58,13 +58,14 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Lesson Study
@@ -173,7 +174,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 课例研究历史演变与国际传播脉络
 > - **1870s–1950s — 日本[[Normal School|师范教育]]萌芽与制度化** 明治维新时期从西方引入师范学堂，结合本土寺子屋研讨传统发展出“公开授業”；战后成为日本各级公立学校不可动摇的法定义务教研体系（校内研修）。
-> - **1999 — 《教学差距》出版与全球引介狂潮** 斯蒂格勒与希伯特在 TIMSS 录像分析中系统总结课例研究，将其塑造为揭示东亚高[[Academic Achievement|学业表现]]秘密的“灵丹妙药”，欧美各国掀起大规模模仿引进浪潮。
+> - **1999 — 《教学差距》出版与全球引介狂潮** 斯蒂格勒与希伯特在 [[TIMSS]] 录像分析中系统总结课例研究，将其塑造为揭示东亚高[[Academic Achievement|学业表现]]秘密的“灵丹妙药”，欧美各国掀起大规模模仿引进浪潮。
 > - **2000s–2010s — 西方[[Going Native|本土化]]改造与手册化普及** 英国、美国等相继开发本土课例研究操作规程（如 Dudley 模式），被政府教育部门与教师专业协会广泛背书，成为公认的优质专业发展标志。
 > - **2017–2021 — 循证去魅与因果实证反思** 英国 [[Education Endowment Foundation|EEF]] 资助开展 181 所学校的大规模整群 [[Randomised Controlled Trials|RCT]]（Murphy et al., 2017; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]），证实其在西方学校情境中对学生统考成绩零效应。学术界开始深入反思“制度保障脱嵌”、“缺乏专业引领”与“时间挤出”等移植边界条件。
 > - **2018 — [[Self-Improving School System|SISS]] 视阈下 [[Joint Practice Development|JPD]] 证据融通载体的定位重塑** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 在自我改进学校系统研究中，赋予课例研究以全新的循证定位：将其界定为联合实践发展（JPD）的典范机制，能够消除实践者自主探究与外部[[Research Utilization|研究使用]]的鸿沟，为 [[Professional Learning Community|PLC]] 提供了在课堂情境中协同“测试、实施与微调”外部循证方案的正式制度载体。

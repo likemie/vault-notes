@@ -6,7 +6,7 @@ aliases:
 summary: "指在全球量化治理与新自由主义基于结果的规制驱动下，教育系统将关注焦点从教学转移到学习，并将复杂的育人过程与认知成长还原为可追踪、可量化、跨国可比的数字流、能力指标与数据库资产的认识论与社会技术过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -46,6 +46,7 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[UNESCO]]"
   - "[[OECD]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Datafication of Learning
@@ -73,7 +74,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知、反思与[[Growth|成长]]等活态教育经验被全面技术化还原为机器可读、可计算、可存储的数字表征与资产形态。
-> - **用途** 帮助研究者透视 [[PISA]]、TIMSS、[[UN Sustainable Development Goals|SDG 4]] 学习贫困率以及学习管理系统（LMS）背后的治理[[Epistemology|认识论]]，揭示数字技术如何从单纯的测量工具转变为规制甚至重构教育现实的施动性力量。
+> - **用途** 帮助研究者透视 [[PISA]]、[[TIMSS]]、[[UN Sustainable Development Goals|SDG 4]] 学习贫困率以及学习管理系统（LMS）背后的治理[[Epistemology|认识论]]，揭示数字技术如何从单纯的测量工具转变为规制甚至重构教育现实的施动性力量。
 > - **边界** 区别于一般的教育[[Informationalization|信息化]]基础设施建设（如宽带、硬件铺设）；它特指关于“何为有效学习”的评价权与定义权向算法化、量化指标的大规模让渡。
 
 > [!citation-card] 学习数据化作为系统论反思与治理规制的核心载体
@@ -166,7 +167,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **1990s — 质量保证运动与从教向学转移** 全球公共管理改革倡导“以学生产出为导向”，高等教育与基础教育界开始普及学习成果（Learning Outcomes）分类法。
-> - **2000–2010 — 跨国测评帝国与算法基准确立** [[PISA]]、TIMSS 等大规模学生评估普及，[[Item Response Theory|IRT]] 与 Rasch 模型将复杂的跨国学生[[Academic Achievement|学业表现]]压缩为单一数字标尺。
+> - **2000–2010 — 跨国测评帝国与算法基准确立** [[PISA]]、[[TIMSS]] 等大规模学生评估普及，[[Item Response Theory|IRT]] 与 Rasch 模型将复杂的跨国学生[[Academic Achievement|学业表现]]压缩为单一数字标尺。
 > - **2014 — 《治理知识》专著确立批判议程** 芬威克、芒热与奥斯加（Fenwick, Mangez, & Ozga, 2014）系统剖析基于比较与知识技术的教育规制机制。
 > - **2018 — 学习数据化概念正式界定** 陶滕霍夫德（Ernst D. Thoutenhoofd, 2018）在《Studies in Philosophy and Education》发表奠基论文，系统阐发学习数据化的哲学反思。
 > - **2021–2024 — 多边数据协定与[[Governing by Numbers|数字治理]] 2.0 时代** [[UNESCO|教科文组织]]、[[World Bank|世行]]与[[UNICEF|儿童基金会]]设立“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact），施泰纳-哈姆西等（2024）揭示学习数据化已成为全球五大治理巨头构建排他性权力同盟的核心技术基础。
