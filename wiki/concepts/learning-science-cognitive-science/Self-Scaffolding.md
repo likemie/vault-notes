@@ -8,10 +8,10 @@ aliases:
 summary: "个体将外部教学支架内化为自主表征系统，能够自发在头脑中构建空间隐喻与逻辑结构以指导高级问题解决的发展认知机制"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/cognition
   - construct/cognitive-process
@@ -28,6 +28,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Self-Scaffolding
@@ -114,5 +115,5 @@ flowchart LR
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用自我[[Scaffolding|脚手架]]理论量化解释高等教育阶段学生在外在可视化教学干预下[[Effect Size|效应量]]低于中学生的发展机制。

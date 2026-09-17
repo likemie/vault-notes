@@ -9,7 +9,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Machiavelli 思想），视主权领土国家为核心行动者，以无政府状态下的“权力”斗争与国家生存为核心逻辑。在比较教育中，它催生了工具性借用、参照社会与文明化工程等研究形态。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,6 +37,7 @@ related_theories:
 related_methods:
   - "[[Cohort Study]]"
   - "[[Survey Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Sadler]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-17
 ---
 
 # Realism in International Relations
@@ -149,7 +150,7 @@ updated: 2026-07-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 深入探讨了现实主义如何在大国竞争、工业冲突、太空恐慌和帝国扩张下，将学科绑架于地缘利益之战中。
 > - [[Development Turn in Comparative Education]] (比较教育的发展转向) — 展现了冷战地缘博弈下，现实主义在大国向第三世界输出代理人时期的实证表现。
 > - [[Reference Society]] (参照社会) — 现实主义视角下为了确立自我相对实力定位而建立的研究与投影框架。

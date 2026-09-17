@@ -11,7 +11,7 @@ aliases:
 summary: "在社会与教育探究中兼具物质实体与方法学双重维度的核心概念：既指承载文化与制度话语的有形物质实体，又指因测量偏差与工具局限导致的方法学人为假象。"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Triangulation]]"
   - "[[Blinding]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -62,7 +63,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-08-05
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Artefact
@@ -185,7 +186,7 @@ updated: 2026-09-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 30]] — 阐述[[Post-structuralism|后结构主义]][[Discourse Analysis|话语分析]]将人类谈话、课堂互动与物质人工制品视为处于生产中的文本实践。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al., 2011, Ch. 27, p. 531]] — 系统阐释器物作为[[Visual Data|视觉数据]]的分类、多感官特征、[[Organizational Culture|组织文化]]分析以及儿童研究应用。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, p. 189]] — 阐明方法人为产物（artefacts）的定义，论述跨方法对比与[[Triangulation|三角验证]]在排除方法伪效应中的关键机制。

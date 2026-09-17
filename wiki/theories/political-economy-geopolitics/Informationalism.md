@@ -4,7 +4,7 @@ aliases: ["信息主义", "Castells' Informationalism Theory"]
 summary: "由 Manuel Castells 提出的信息时代发展模式理论，认为信息化社会的主要生产力来源是基于知识和信息优化生产要素组合的质化能力，与依赖重工业物质投入的工业化形成对比，并论证了国家主义体制与信息化之间的深层不相容"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,13 +24,14 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Manuel Castells]]"
-related_facts: []
+related_facts:
+  - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-09-17
 ---
 
 # Informationalism
@@ -85,7 +86,7 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 ## 发展脉络
 
 > [!timeline] 理论形成与扩展
-> - **1996–1998** Castells 出版《信息时代》三部曲初版（*The Rise of the [[Network Society]]*; *The Power of Identity*; *End of Millennium*），系统提出信息主义理论框架。
+> - **1996–1998** Castells 出版《信息时代》三部曲初版（*The [[Research in Schools Evaluation|RISE]] of the [[Network Society]]*; *The Power of Identity*; *End of Millennium*），系统提出信息主义理论框架。
 > - **2010** 三部曲再版，在第三卷 *End of Millennium* 中详细分析了[[Soviet Statism|苏联国家主义]]体制在信息时代的转型与崩溃，提出国家主义与[[Informationalization|信息化]]不相容的核心论点。
 > - **2015** Chan 运用该框架分析苏联科技落后的五个具体机制，将信息主义的理论命题[[Operationalization|操作化]]为可检验的历史解释[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
 

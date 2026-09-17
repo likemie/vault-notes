@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序，传统实证主义将其预设为贯通自然与社会的普适法则，而当代科学哲学与科学教育将其重构为多元、情境化且受价值制约的社会认识论实践。"
 type: concept
 domain: "educational-philosophy"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Survey Research]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
   - "[[Quantitative Research]]"
   - "[[Causal Modeling]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Scientific Method
@@ -268,7 +269,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 
 科学方法在当代教育学术研究中既是探究工具，也是批判与反思的核心议题。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 提出[[Practical Epistemology|实践认识论]]与[[Formal Epistemology|形式认识论]]的[[Analytic Framework|分析框架]]，揭示学生探究活动与所持形式[[Epistemological Beliefs|认识论信念]]的脱节，批判中小学科学教育将科学方法教条化为单一线性规程的神话。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方教育探究方法论从[[Positivism|实证主义]]向后实证与批判[[Paradigm|范式]]的演化历程，复原传统科学方法八阶段与五步经验进程，并从存在主义、法兰克福学派与[[Anthony Giddens|吉登斯]]社会学维度清算其忽视主体能动性的缺陷。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 阐明 19 世纪比较教育发轫期将科学方法运用于社会治理与道德改良的现代性源流，剖析[[Marc-Antoine Jullien|朱利安]]借用分类、制表与事实收集为全人[[Bildung|教化]]与和平治理服务的准实证构想。

@@ -5,7 +5,7 @@ aliases:
 summary: "哲学理论附加将认识论的重心从信念转移到认识主体及其智力美德。为研究认知过程提供性格视角的框架。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ related_theories:
   - "[[Expanded Framework of Epistemic Cognition]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"
@@ -28,7 +29,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-17
 ---
 
 # Virtue Epistemology
@@ -50,5 +51,5 @@ updated: 2026-08-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 美德[[Epistemology|认识论]]构成了[[Expanded Framework of Epistemic Cognition|扩展的认识论认知框架]]第四组件的基础。

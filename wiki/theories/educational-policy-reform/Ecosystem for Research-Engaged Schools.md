@@ -7,7 +7,7 @@ aliases:
 summary: "由 Godfrey 和 Brown（2019）提出的框架，用微观、中观、外、宏观与时间五层生态绘制研究参与如何嵌入更大的教育生态，是分析研究参与学校多层级条件的理论透镜"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Framework Synthesis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Ecosystem for Research-Engaged Schools
@@ -147,5 +148,5 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 把生态模型作为[[Framework Synthesis|框架综合]]先验框架的子主题来源，为个体、组织与系统层级提供结构，并在系统层级补充社会因素与教育政策两个子主题。

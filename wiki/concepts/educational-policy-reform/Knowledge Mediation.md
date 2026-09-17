@@ -7,7 +7,7 @@ aliases:
 summary: "在证据生产者与使用者之间建立联结、促进理解并维系协作的有意识中介活动，是知识动员生态系统中与知识生产、知识使用并列的三大核心功能之一。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,6 +41,7 @@ related_theories:
   - "[[Research Knowledge Mobilisation Model]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[EPPI-Centre]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Knowledge Mediation
@@ -188,7 +189,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 系统梳理知识中介在[[Knowledge Production|知识生产]]、传播与利用三大治理环节中的全流程覆盖，提出获取、技能与互动三维支持支柱，并反思政策短周期对中介机制的冲击。
 > - [[Argument_Torres_2022_KMModels|Torres (2022)]] — 横向评述跨领域[[Knowledge Mobilisation|知识动员]]框架，系统界定知识中介的概念内涵与其在三代系统演进中的核心功能。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析国际组织如何运用第三代中介机制设立常设区域枢纽，以缓解全球证据闲置危机。

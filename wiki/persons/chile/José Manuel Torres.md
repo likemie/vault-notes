@@ -9,7 +9,7 @@ summary: "智利公共政策与教育研究学者，经合组织教育研究与�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Strengthening the Impact of Education Research Policy Survey]]"
 related_persons:
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # José Manuel Torres
@@ -114,7 +115,7 @@ updated: 2026-09-13
 > - **方法路径** 为 [[OECD]] 政策调查设计了多层级指标体系，将抽象的知识吸收与利用阻碍分解为可量化的实证观测项，形成了涵盖 37 个系统的跨国比较基线。
 > - **政策路径** 直接为参与 [[Centre for Educational Research and Innovation|OECD CERI]] 项目的 29 个成员国教育决策部门提供了国家层面的证据生态诊断基准，推动威尔士、荷兰、挪威等国反思其研究资助与政策制定的中介机制设计。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 确立教育知识动员的三元模型分类与四层级分析框架。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 呈现 37 个教育系统的阻碍感知与机制部署实证图谱。
 

@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Definition and Selection of Competencies
@@ -178,7 +179,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 追踪北欧能力改革咨询网络，实证揭示挪威教育部官方行政法令中高达 90.9% 的引文被 DeSeCo 委员会所垄断的霸权现象。
 
 ---

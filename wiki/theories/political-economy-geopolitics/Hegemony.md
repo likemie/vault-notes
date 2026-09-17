@@ -9,7 +9,7 @@ aliases:
 summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权，指统治阶级通过法律、教育、媒体、科学、大学等文化制度正当化其统治并赢得被统治者积极同意的权力行使方式。在教育研究中，学校课程与高等教育地缘政治充当了制造文化同意与自然化中心—边缘等级的霸权装置"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Memos]]"
   - "[[Discourse Analysis]]"
   - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-13
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 
 # Hegemony
@@ -218,7 +219,7 @@ updated: '2026-08-27'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 以霸权理论替代[[World-Systems Theory|世界体系理论]]，剖析 1990–2015 年美式大学、全球排名与英语话语如何制造高等教育全球化的文化同意。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 通过 217 册必修教材与 37 名少数民族学生访谈，实证展现课程如何作为霸权装置制造文化共识，以及边缘群体的反霸权解构。
 > - [[Geopolitics of Knowledge]] — 应用霸权概念解释全球学术标准与“世界一流大学”想象如何[[Disciplina and Doctrina|规训]]发展中国家高等教育。

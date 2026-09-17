@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -164,7 +165,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何作为 GERM 的核心驱动力运作，揭示了 PISA 在三层决策（宏观/中观/微观）上推动 GERM 全球扩散的具体机制和国别案例。
 > - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州教育部强制推行 10 项 HITS 以规范教师教学，是 GERM 的经典地方落地案例。
 > - [[No Child Left Behind Act 2001]] — 以测试问责和排斥[[Whole Language|全语言]]为核心的美国法案。

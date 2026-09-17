@@ -6,7 +6,7 @@ aliases:
 summary: "质性田野研究中研究者与参与者之间建立的信任、相互理解和合作关系，是有效数据收集的前提条件和持续过程。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Correlational Research]]"
   - "[[Longitudinal Study]]"
 related_persons: []
 related_facts: []
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Rapport in Qualitative Research
@@ -64,5 +65,5 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 在[[Qualitative Research|质性研究]]12阶段模型的第7阶段（发展和维持现场关系）中详细讨论了融洽关系的定义、要素和难度，以及其在[[Longitudinal Study|纵向研究]]中的特殊作用（pp. 428–430）。

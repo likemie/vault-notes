@@ -8,7 +8,7 @@ aliases:
 summary: "跨伦理哲学、教育学与研究方法论的双重概念：在亚里士多德伦理学中指通过重复实践形成德性与服从习惯；在观察研究中指通过长期驻留消除参与者反应性的策略。"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_theories: []
 related_methods:
   - "[[Observation Method]]"
   - "[[Qualitative Observation]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-24
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Habituation
@@ -134,6 +135,6 @@ updated: 2026-09-11
 > | [[Freedom of the Learner]] | 概念 | 反对将习惯化作为压抑学习者批判自由的工具。 |
 > | [[Observation Method]] | 方法 | 习惯化作为观察研究中降低反应性的核心策略。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 拆解亚里士多德《尼各马可伦理学》习惯化理论及其在阶层固化中的局限。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将习惯化列为[[Qualitative Observation|质性观察]]中控制反应性偏差的经典策略。

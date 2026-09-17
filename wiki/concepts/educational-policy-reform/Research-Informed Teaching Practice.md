@@ -7,7 +7,7 @@ aliases:
 summary: "以学术研究成果为依据组织课堂教学决策的专业取向，强调外部实证文献对教学与领导力的启发与应对能力提升，是证据知情实践（EIP）的关键拼图之一；在现实中常与基于数据的决策（DBDM）割裂，亟需依托教师研究素养与学校探究循环实现双轮整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
   - "[[Case Study]]"
 related_persons:
   - "[[Chris Brown]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Research-Informed Teaching Practice
@@ -266,7 +267,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 提出证据知情学校与教师改进（[[School Enquiry Cycle|ESTI]]）模型，详述 RITP 的双轨行动理论与英格兰 43 所小学 [[Research Learning Communities|RLC]] 实证干预，通过学校探究循环实现 RITP 与 [[Data-Based Decision Making|DBDM]] 的深度融合。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统阐明 RITP 在证据知情拼图中的定位，揭示 RITP 与 DBDM 两个世界的割裂，并提出全系统[[Knowledge Mobilisation|知识动员]]与探究整合模型。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 评述 Cain 的三种声音理论与 Rickinson 的 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立从[[Teacher Professional Agency|教师能动性]]与质量使用理解知识动员的实践路径。

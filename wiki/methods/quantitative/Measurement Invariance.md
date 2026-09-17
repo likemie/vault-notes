@@ -15,7 +15,7 @@ summary: "在多组验证性因子分析（MG-CFA）中检验测量工具在不�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Multivariate Analysis of Variance]]"
   - "[[Causal Modeling]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
   - "[[Scale Development]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-08-30
+updated: 2026-09-17
 ---
 
 # Measurement Invariance
@@ -202,7 +203,7 @@ updated: 2026-08-30
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers|教师研究素养量表]]》的实证检验中，对男性（$n=77$）与女性（$n=181$）教师执行跨性别 MG-[[Confirmatory Factor Analysis|CFA]]，形态等值（$\text{[[Model Fit Indices in SEM and CFA|CFI]]}=.907$）、弱等值（$\Delta\text{CFI}=-.001$）、强等值（$\Delta\text{CFI}=+.003$）与严格等值（$\Delta\text{CFI}=.000$）全部完全满足 $|\Delta\text{CFI}| \le .010$ 标准，实证确立了跨性别严格测量不变性，为男女教师[[Research Literacy|研究素养]]均值无偏比较提供了基石。
 
 ---

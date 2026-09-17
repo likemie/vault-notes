@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 63
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Delphi Technique]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
   - "[[Observation Method]]"
   - "[[External Auditor]]"
   - "[[Experimental Research]]"
@@ -86,7 +87,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 # Action Research
 
@@ -201,7 +202,7 @@ ightarrow$ 反思的螺旋迭代（原则三）；保持系统学习并对意外
 > [!proc] 综合八阶段操作程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 279–280]]）
 > 1. **识别、评价和表述问题** 从日常教学情境中明确亟待改进的核心议题或创新需求。
 > 2. **初步讨论与多方协商** 利益相关方共同商议，明确研究目标、指导[[Hypothesis|假设]]与合作伦理边界。
-> 3. **审查相关研究[[Document|文献]]** 研读既有文献，借鉴类似干预的成熟程序与教训。
+> 3. **审查[[Correlational Research|相关研究]][[Document|文献]]** 研读既有文献，借鉴类似干预的成熟程序与教训。
 > 4. **重新界定并聚焦问题** 将宽泛问题提炼为具体可检验的假设或行动目标。
 > 5. **选择研究设计与程序** 确定抽样、材料、教学方案与资源配置，灵活嵌入准实验、[[Questionnaire|问卷]]或案例分析。
 > 6. **确立持续评价标准** 制定明确、可操作的形成性与总结性评价准则。
@@ -290,14 +291,14 @@ ightarrow$ 独立投票排序”四个阶段，在单次会议中高效收敛群
 > | [[Primary and Secondary Documents]] | 概念 | 行动研究中教师直接研读专业一手[[Document\|文献]]与依赖二手[[Transfer Translation Transformation\|转译]]材料的方法学载体 |
 > | [[Nominal Group Technique]] | 支撑工具 | 结构化群体议题聚焦与共识凝聚方法 |
 > | [[Delphi Technique]] | 支撑工具 | 匿名多轮书面迭代收敛专家意见的技术 |
-> | [[Case Study]] | 相关设计 | 行动研究常以案例研究为载体，核心区分在于是否主动实施变革干预 |
+> | [[Case Study]] | [[Correlational Research\|相关设计]] | 行动研究常以案例研究为载体，核心区分在于是否主动实施变革干预 |
 > | [[Reflexivity]] | 核心概念 | 研究者兼具行动者双重身份时的认识论自省要求 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.9)]] — 系统阐释行动研究的历史渊源、核心特征、九步螺旋程序及三种本土群体研讨工具。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18)]] — 全面梳理行动研究的定义谱系、21项特征、温特六原则与[[Stephen Kemmis|凯米斯]]核心原则、三分类型学及[[Reflexivity|反身性]]困境。
 > - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 23–24, 30–31)]]；[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 61–68)]] — [[International Schools Examination Syndicate|国际学校考试辛迪加]]将[[International Baccalaureate|国际文凭]]项目组织为六年行动研究，在真实教学与升学过程中检验课程可行性。

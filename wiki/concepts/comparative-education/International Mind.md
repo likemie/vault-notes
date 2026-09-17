@@ -5,7 +5,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，指世界各国人民中间一种比民族主义心态更适合国际合作的普遍心态。在理性主义国际关系传统下，该概念通过跨国教科书去偏见化和客观学校知识构建，成为二战后UNESCO和欧洲比较教育学会（CESE）推进科学治理与和平承诺的认知基础。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Joseph Lauwerys]]"
 related_facts:
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # International Mind
@@ -161,5 +162,5 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 深入解析了 Wight 的[[Rationalism in International Relations|理性主义]]传统在比较教育史中的表现，将“国际心智”定位为战前国联以及战后早期 [[UNESCO]] 体系推进教育去民族主义化、实现学科建制化的核心[[Epistemology|认识论]]武器。

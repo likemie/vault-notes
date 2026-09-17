@@ -7,7 +7,7 @@ summary: "不同分析单位层次使用不同类型样本的混合方法抽样�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 10
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -26,6 +26,8 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Purposeful Sampling]]"
   - "[[Convenience Sampling]]"
+  - "[[Hierarchical Linear Model]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -33,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-17
 ---
 # Multilevel Mixed Methods Sampling
 
@@ -73,10 +75,10 @@ updated: 2026-06-22
 
 > [!method-limits] 方法局限
 > - **[[Sample Size Determination|样本量]]不均** 不同层次的样本量通常不相等——如 30 名学生但只有 1–2 名教师，跨层次比较时需注意统计功效的不对称。
-> - **层次间依赖** 学生嵌套于班级、班级嵌套于学校，数据分析需使用多水平模型处理这种依赖结构。
+> - **层次间依赖** 学生嵌套于班级、班级嵌套于学校，数据分析需使用[[Hierarchical Linear Model|多水平模型]]处理这种依赖结构。
 > - **复杂性** 多个层次的抽样设计和数据收集协调对研究管理能力要求较高。
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Teddlie & Tashakkori（2009）的多层次[[Mixed Methods Research|混合方法]]抽样设计及其[[School Effectiveness|学校效能]]研究实例。

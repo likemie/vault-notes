@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 87
+method_related_count: 89
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -82,6 +82,7 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Critical Review]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
@@ -97,6 +98,7 @@ related_arguments:
 related_facts:
   - "[[Best Evidence Synthesis]]"
   - "[[EPPI-Centre]]"
+  - "[[Education Resources Information Center]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Social Programs That Work]]"
@@ -182,7 +184,7 @@ updated: 2026-09-17
 
 > [!method-stack] 方法层级
 > - **研究设计** 遵循国际前沿报告指引——如 [[PRISMA]] 声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses）、[[EPPI-Centre]] 循证综合规程或 Cochrane 协作网方法学手册。
-> - **数据收集** 跨学科学术引文数据库穷尽检索（如 ERIC、Web of Science、Scopus、PsycINFO）、硕博士论文库、专业学会灰色[[Document|文献]]库追踪、手工翻检权威期刊及学者引文回溯。
+> - **数据收集** 跨学科学术引文数据库穷尽检索（如 [[Education Resources Information Center|ERIC]]、Web of Science、Scopus、PsycINFO）、硕博士论文库、专业学会灰色[[Document|文献]]库追踪、手工翻检权威期刊及学者引文回溯。
 > - **分析方法** 质性维度运用主题[[Coding in Qualitative Research|编码]]、框架映射与扎根综合；量化维度运用亚组分析、[[Meta-regression|元回归]]（Meta-regression）与效应量池化；宏观层面开展二阶综合（Reviews of Reviews）。
 > - **辅助技术** 计算机辅助文献去重（如 Covidence、Rayyan）、双人双盲筛选、混合方法质量评估工具（[[Mixed Methods Appraisal Tool|MMAT]]）及偏倚风险评估量表（如 RoB 2、ROBINS-I）。
 
@@ -285,7 +287,7 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Higgins_2016_ROE|Higgins (2016)]]** 系统综述的方法论权威教材，详述[[Research Question|研究问题]]制定、纳入排除、穷尽检索、偏倚风险评估与数据综合的完整操作规范。
 > - **[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]]** 调查全球 15 个代表性证据门户对系统综述标准的采纳率（Table 7.1），解构聚合型与配置型系统综述在国家[[What Works Network|有效性网络]]与证据生态中的[[Epistemology|认识论]]定位与标准塌陷风险。
 > - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 遵循 [[PRISMA]] 框架从 SSCI 与 Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析探讨 PISA 对全球基础教育改革的影响。
@@ -295,4 +297,4 @@ updated: 2026-09-17
 > - **[[Argument_Li_2026_CEAI|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段[[Thematic Synthesis|主题综合法]]，系统解构 ChatGPT 在高等教育中对批判性与[[Creativity|创造性思维]]的促进机制与风险模式。
 > - **[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]]** 在 [[OECD]] 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域相关文献开展跨行业系统综述与叙事综合，跨界界定证据使用质量（Quality of Evidence Use）并奠定 [[Quality Use of Research Evidence Framework|QURE]] 框架的先验理论基础。
 > - **[[Argument_Gorard_2020_ROE|Gorard et al. (2020)]]** 针对教育与公共政策领域“如何使研究证据有效投入使用”这一因果机制，对逾 335 万条数据库记录开展大规模跨学科系统综述，运用[[Gorard's Trustworthiness Sieve|戈拉德研究可信度筛子]]严格质评初筛出的 323 篇文献，最终识别出 33 项具备[[Counterfactual|反事实]]对照设计的因果[[Evaluation Research|评估研究]]并提炼两维度转化模型。
-> - **[[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]]** 遵循系统综述规范对 129 项教育实践检索词在四大证据库（[[What Works Clearinghouse|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation|EEF]], ERIC）中开展全量[[Literature Search|文献检索]]与七级证据评定，并将其与大型城市学区三年间 2.88 亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 财务细项逐一关联，实证测算联邦教育资金投向循证实践的真实比例。
+> - **[[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]]** 遵循系统综述规范对 129 项教育实践检索词在四大证据库（[[What Works Clearinghouse|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation|EEF]], [[Education Resources Information Center|ERIC]]）中开展全量[[Literature Search|文献检索]]与七级证据评定，并将其与大型城市学区三年间 2.88 亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 财务细项逐一关联，实证测算联邦教育资金投向循证实践的真实比例。

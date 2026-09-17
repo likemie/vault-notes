@@ -7,7 +7,7 @@ aliases:
 summary: "一种教学理论框架，依据教师把学习结果归因于学生特征、教师行为还是完整教学系统，区分三个递进的教学观层次。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Didaktik]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Biggs]]"
 related_arguments:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-09-17
 ---
 
 # Three Levels of Teaching
@@ -146,5 +147,5 @@ updated: 2026-08-01
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 提出三层教学观，区分两种加总模型与学生中心的系统模型，并以此推出[[Constructive Alignment|建构性对齐]]的课程设计责任。

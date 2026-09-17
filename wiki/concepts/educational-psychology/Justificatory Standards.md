@@ -7,7 +7,7 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Discourse Analysis]]"
   - "[[Causal Modeling]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Justificatory Standards
@@ -183,7 +184,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 提出在微观细粒度上测量确证标准，打破粗放质疑即高阶的假象，奠定合理校准信任理论。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将确证标准界定为多层系统中的分布式社会协商实践，揭示职业标准向公民生活迁移的断层危机。
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将确证标准[[Operationalization|操作化]]为科学论证评价体系中的规范[[Epistemic Ideals|认识论理想]]（Table 1 & Table 2），实证揭示学生在模型裁决中调用确证标准的运作机制。

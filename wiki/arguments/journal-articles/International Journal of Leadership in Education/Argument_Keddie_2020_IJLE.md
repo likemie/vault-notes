@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_IJLE"
 argument_key: "Argument_Keddie_2020_IJLE"
 argument_display_title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_kind: "journal-article"
-argument_related_count: 6
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
@@ -118,7 +119,7 @@ citation_aliases:
 
 ## 与相关研究的关联
 
-> [!note-] 与相关研究的关联
+> [!note-] 与[[Correlational Research|相关研究]]的关联
 > - 与 [[Argument_Keddie_2020_JEAH]] 同为同一 ARC 项目（DP190100190）的产出，基于同样的 42 位利益相关者数据集，但采用不同的[[Analytic Framework|分析框架]]（JEAH 论文关注"校长的困境"，IJLE 论文关注"悖论与公共性的重新协商"）
 
 ## 来源

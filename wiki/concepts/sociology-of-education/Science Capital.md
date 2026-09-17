@@ -7,7 +7,7 @@ aliases:
 summary: "由 Louise Archer 等学者基于布迪厄资本理论拓展提出的社会学构念，指个体所积累的与科学相关的知识、态度、日常实践、社会网络以及家庭科学资源的集合，直接决定其科学认同与职业抱负"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,10 +27,12 @@ related_theories:
 related_facts:
   - "[[CREST Awards]]"
   - "[[Institute for Research in Schools]]"
+related_methods:
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-09-17
 ---
 
 # Science Capital
@@ -85,5 +87,5 @@ updated: 2026-08-23
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 强调基础教育体系必须直面由科学资本巨大鸿沟带来的青少年抱负分化，设立国家专项资助保障弱势群体的探究权利。

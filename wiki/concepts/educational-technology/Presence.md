@@ -10,7 +10,7 @@ aliases:
 summary: "个体在虚拟环境中感受到身临其境（沉浸感）和与他人共享空间（共在感）的主观体验，是虚拟世界研究中用户参与的重要促进因素"
 type: concept
 domain: "educational-technology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Computer Simulation]]"
   - "[[Avatar]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-09-17
 ---
 
 # Presence
@@ -114,5 +115,5 @@ updated: 2026-07-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 系统阐述了在场感、沉浸感与共在感的定义和机制，分析了影响在场感的关键因素（感觉信息、用户控制、表面保真度、理解的总体响应），并将沉浸感和共在感定位为[[Virtual World|虚拟世界]]研究中用户参与的重要促进因素。

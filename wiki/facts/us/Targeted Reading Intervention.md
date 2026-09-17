@@ -10,9 +10,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2005–至今"
 initiator_organization: "北卡罗来纳大学教堂山分校（University of North Carolina at Chapel Hill）"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -125,7 +126,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 TRI 评定为初等阅读 Tier 3 专业教师一对一辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托 TRI 架构在普通班级内部以极低时间成本构建动态轮换个别救济防线。
 > - [[Reading Recovery]] — 传统专业教师 1:1 辅导代表方案，与 TRI 在实施场景（脱产独立辅导室 vs 班内角落）、技术媒介（纯面授 vs 远程摄像头教练）上形成鲜明对比。

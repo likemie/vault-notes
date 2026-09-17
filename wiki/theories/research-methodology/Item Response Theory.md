@@ -8,7 +8,7 @@ aliases:
 summary: "基于潜在特质假设的现代测量理论，认为题目难度和区分度可以独立于施测样本被描述，受试者能力也可以独立于具体测验题目被估计，是计算机自适应测验的理论基础"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_methods:
   - "[[Rasch Measurement]]"
   - "[[Standard Error]]"
   - "[[Measurement Invariance]]"
+  - "[[Correlational Research]]"
 related_facts:
   - "[[PISA]]"
 related_arguments:
@@ -38,7 +39,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-07-26
+updated: 2026-09-17
 ---
 
 # Item Response Theory
@@ -156,5 +157,5 @@ updated: 2026-07-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节介绍 IRT 的基本原理，包括潜在特质[[Hypothesis|假设]]、[[Item Analysis|题目难度]]与区分度的样本独立性、单维性假设、Rasch 模型，以及 IRT 在[[Computerized Adaptive Testing|计算机自适应测验]]中的应用

@@ -7,7 +7,7 @@ summary: "英国社会研究方法论学者，实在论评估与实在论综合�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Roy Bhaskar]]"
   - "[[Terry Wrigley]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Ray Pawson
@@ -121,7 +122,7 @@ updated: 2026-09-14
 > - **方法路径**[[Realist Evaluation|实在论评估]]和实在论综合已成为全球社会政策评估、医疗卫生评价的一大主流研究传统，在 [[Sage]] 等出版机构出版了大量教材。
 > - **政策路径** 为抵制去情境化的 evidence-based 绩效考核提供了替代性评估框架，深刻启发了教育研究者（如 Wrigley）对 [[Education Endowment Foundation|EEF]] 教学工具包关于[[Teaching Assistant|教学助理]]（TA）类目等误导性排行的技术解构。
 
-> [!evidence-grid-a]- 相关研究
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中 [[Randomised Controlled Trials|RCT]] 的不适用性。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 运用波森的实在论综合思想作为替代路线，揭示[[Meta-analysis|元分析]] “净化过程” 的危害，并以 TA 项目为例论证脱离 CMO 背景的排行榜对政策的误导。
 > - [[Argument_Biesta_2010_SPE|Biesta, 2010]] — 引用波森关于开放系统无法人为封闭和控制的论证，从教育哲学的角度审视[[Evidence-Based Education|证据本位教育]]对复杂教育实践的歪曲。

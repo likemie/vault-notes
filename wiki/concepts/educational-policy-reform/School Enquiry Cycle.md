@@ -12,7 +12,7 @@ aliases:
 summary: "由Brown等提出的证据知情学校改进模型，将校内基于数据的决策（DBDM）与校外研究知情教学实践（RITP）整合为八步探究闭环；并在证据知情学校系统中确立为防止活动陷阱、依托专业学习共同体检验干预成效的关键迭代引擎。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Experimental Research]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Chris Brown]]"
   - "[[Kim Schildkamp]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # School Enquiry Cycle
@@ -146,7 +147,7 @@ updated: 2026-09-16
 >     H -->|"开启新一轮持续改进"| A
 > ```
 
-> [!factors] 探究循环有效运转的四大支撑生态（Brown & Greany, 2018）
+> [!factors] 探究循环有效运转的四大支撑生态（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]）
 > - **嵌入[[Professional Learning Community|专业学习共同体]]（PLC Auspices）** 探究循环并非教师个体的孤立任务，而必须全面置于学校[[Professional Learning Community|专业学习共同体]]的组织摇篮中，依托[[Reflexivity|反思性]]专业探究与集体责任感维系运转。
 > - **依托[[Joint Practice Development|联合实践开发]]机制（JPD & [[Lesson Study|课例研究]]）** 探究循环中的方案试验与微调，高度依赖联合实践发展（Joint Practice Development, JPD）及[[Lesson Study|课例研究]]等课堂情境化协作载体，避免研讨脱离真实教学互动。
 > - **探究性思维习惯（Enquiry Habit of Mind）** [[School Leadership|学校领导]]者与骨干教师需持续示范探究心态：不急于下定论、主动审视理所当然的前提假设、多元搜寻证据，防范[[Empiricism|经验主义]]惯性。
@@ -278,7 +279,7 @@ updated: 2026-09-16
 
 ## 包含此概念的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 奠基性论文，提出整合 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 的“证据知情学校与教师改进”（ESTI）八步探究模型与理论框架。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统评述 Brown 等的学校探究循环模型，确立其在多源[[Evidence-Informed Practice|证据知情实践]]中的核心操作地位。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 在英格兰 79 所小学调查中实证诊断探究循环的四因素支撑生态，揭示末端评价环节（67%）的制度性断裂与诱发[[Activity Traps|活动陷阱]]的内在机制。

@@ -6,7 +6,7 @@ aliases:
 summary: "指问责体系等制度安排把专业人员限定在政策指定的狭小能动范围内，从而压制专业判断与研究使用的信任机制；其程度决定研究使用是专业能动性的表现还是工具性服从"
 type: concept
 domain: "educational-policy-reform"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Teacher Professional Agency]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-17
 ---
 
 # Institutional Distrust
@@ -123,5 +124,5 @@ updated: 2026-08-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 把制度性不信任作为"信任"跨层机制的核心构件，解释问责体系如何压缩专业能动性、推动[[Research Utilization|研究使用]]走向工具性服从。

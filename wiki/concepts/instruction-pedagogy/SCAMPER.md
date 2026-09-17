@@ -9,7 +9,7 @@ aliases:
 summary: "由奥斯本提出雏形并由埃伯尔系统化的创造性思维启发式检核表，通过“替代、合并、调适、修改、移作他用、消除、逆向重组”七大外显思维操作算子，为学习者突破心理固着与展开非线性概念重构提供结构化认知支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Alternate Uses Test]]"
@@ -58,7 +59,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-17
 ---
 
 # SCAMPER
@@ -257,7 +258,7 @@ updated: 2026-09-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — [[Three-Level Meta-Analysis|多层元分析]]将 SCAMPER 归纳为技术型训练的核心代表工具，确立其稳健的促学效应（$g = 0.552$）并解析其具象[[Scaffolding|脚手架]]机制与迁移特征。
 > - Scott, Leritz & Mumford (2004) — 70 项实证的奠基性[[Meta-analysis|元分析]]，确立结构化观念生成启发式（包含 SCAMPER）对[[Creativity|创造力]]表现的强效促进（$d = 0.68$）。
 > - Eberle (1971) — 系统创立并普及 SCAMPER 首字母口诀化模型的奠基性专著。

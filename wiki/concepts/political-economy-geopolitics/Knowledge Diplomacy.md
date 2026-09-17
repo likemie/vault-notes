@@ -5,7 +5,7 @@ aliases:
 summary: "奈特（J. Knight）提出的概念，指通过教育、研究与创新建立和强化国家间关系，立足互信互惠而非零和竞争，共同应对全球挑战的外交理念。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Zero-Sum Competition]]"
   - "[[Operationalization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-09-17
 ---
 
 # Knowledge Diplomacy
@@ -84,5 +85,5 @@ updated: 2026-06-29
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 在跨境合作的论证步骤（论证步骤六）中系统梳理了从[[Soft Power|软实力]]到知识外交的概念演进，并提供了亚洲大学联盟与丝绸之路大学联盟的实证对比。

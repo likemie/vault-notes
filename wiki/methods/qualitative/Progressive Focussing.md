@@ -7,7 +7,7 @@ summary: "Parlett和Hamilton (1976) 提出的质性研究数据分析策略：�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_methods:
   - "[[Longitudinal Study]]"
   - "[[Narrative Analysis]]"
   - "[[Analytic Induction]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Progressive Focussing
@@ -78,5 +79,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将逐步聚焦纳入质性数据分析的七步骤框架的总体策略，并指出其在[[Longitudinal Study|纵向研究]]中的应用（p. 435–436）。

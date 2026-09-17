@@ -81,7 +81,8 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Gert Biesta]]"
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Education Resources Information Center]]"
 related_arguments: []
 sources:
   - "[[sources/Abrami_2015_RER/Abrami_2015_RER|Abrami_2015_RER]]"
@@ -95,7 +96,7 @@ title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -164,7 +165,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与数据库**<br>Systematic Search | 检索 15 个教育学、心理学、医学与跨学科数据库（包括 ERIC, PsycINFO, Web of Science, ProQuest Dissertations, PubMed 等），时间跨度从 1930 年代末至 2009 年，涵盖已发表论文、硕博论文及会议报告。（pp. 282–283, 306） |
+> | **文献检索与数据库**<br>Systematic Search | 检索 15 个教育学、心理学、医学与跨学科数据库（包括 [[Education Resources Information Center\|ERIC]], PsycINFO, Web of Science, ProQuest Dissertations, PubMed 等），时间跨度从 1930 年代末至 2009 年，涵盖已发表论文、硕博论文及会议报告。（pp. 282–283, 306） |
 > | **纳入与排除标准**<br>Eligibility Criteria | 纳入研究必须：(1) 包含明确的[[Critical Thinking\|批判性思维]]教学干预；(2) 报告对照组或前[[Pre-test and Post-test\|后测]]定量数据以计算[[Effect Size\|效应量]]；(3) 针对正规或成人教育学习者。排除未报告充分统计量、无教学干预或纯理论[[Document\|文献]]。（pp. 283–284） |
 > | **效应量计算与模型**<br>[[Meta-analysis\|Meta-Analytic]] Synthesis | 计算无偏估计量 Hedges' $g+$；采用随机效应模型（Random-Effects Model）进行总体合成，混合效应模型进行调节变量分析；使用 Comprehensive Meta-Analysis（CMA v2.2）软件执行。（pp. 284–285） |
 > | **质量控制与偏倚检验**<br>Sensitivity & Bias Audit | 剔除 15 个极端异常值（$g \ge +2.5$）；剔除前实验设计（Pre-experiments，单组前后测），保留高质量准实验（$k=243$）与真实验（$k=98$）；通用技能分析严格限制为标准化测试；检验漏斗图对称性、经典失安全系数（Fail-Safe $N = 434,819$）与 Orwin 失安全系数（$N = 1,833$）。（pp. 288–291） |

@@ -9,7 +9,7 @@ aliases:
 summary: "指学生通过亲自动手实验、野外考察和真实科学问题探究，体验知识生成过程、发展实证思维并加深对科学本质理解的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,10 +26,12 @@ related_facts:
   - "[[CREST Awards]]"
   - "[[Institute for Research in Schools]]"
   - "[[UK Science Education Tracker]]"
+related_methods:
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-09-17
 ---
 
 # Practical Inquiry in Science Education
@@ -85,5 +87,5 @@ updated: 2026-08-23
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 详尽揭示动手探究滑坡现状，呼吁通过大纲减负、设立专项实验耗材基金与稳定技术员队伍予以破局。

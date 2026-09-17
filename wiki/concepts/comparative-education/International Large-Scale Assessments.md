@@ -9,7 +9,7 @@ aliases:
 summary: "由政府间组织或跨国学术联盟（如 OECD、IEA）主持，采用标准化跨文化心理测量学技术（如 IRT、矩阵抽样）与代表性概率抽样，对不同国家和地区的学生或成年人群体的认知素养与背景变量进行系统测度与比较分析的大型评价范式。作为“硬事实施展软权力”与数字治理的物质技术中枢，推动全球教育从“投入要素规制”迈向“基于产出与排名的绩效规制”，但亦因诱发 PISA 冲击、课程狭窄化及全球趋同而饱受批判。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -39,10 +39,12 @@ related_theories:
   - "[[Item Response Theory]]"
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Random Sampling]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Christian Ydesen]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # International Large-Scale Assessments
@@ -76,7 +78,7 @@ updated: 2026-09-15
 ## 定义
 
 > [!def] 核心定义
-> 国际大规模评估（International Large-Scale Assessments，ILSAs）是跨国治理机构（如 [[OECD]]）或国际学术评价组织（如 [[IEA]]）跨越国界开展的周期性、标准化教育测评与[[Questionnaire|问卷调查]][[Paradigm|范式]]。它采用高级心理测量学算法（如[[Item Response Theory|项目反应理论]]与多层线性模型）与代表性[[Random Sampling|概率抽样]]，测查特定学龄或成年受试者在[[21st Century Skills and Competencies Discourse|核心素养]]上的相对表现，并将数字确立为国家与超国家中介机构之间的通用治理语言。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537, 541, 543)]]
+> 国际大规模评估（International Large-Scale Assessments，ILSAs）是跨国治理机构（如 [[OECD]]）或国际学术评价组织（如 [[IEA]]）跨越国界开展的周期性、标准化教育测评与[[Questionnaire|问卷调查]][[Paradigm|范式]]。它采用高级心理测量学算法（如[[Item Response Theory|项目反应理论]]与[[Hierarchical Linear Model|多层线性模型]]）与代表性[[Random Sampling|概率抽样]]，测查特定学龄或成年受试者在[[21st Century Skills and Competencies Discourse|核心素养]]上的相对表现，并将数字确立为国家与超国家中介机构之间的通用治理语言。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537, 541, 543)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种跨国界、大样本、高度标准化且以跨文化可比性为首要目标的量化测量与政策规制复合装置。
@@ -110,7 +112,7 @@ updated: 2026-09-15
 > [!feature] 核心要素
 > - **跨文化心理测量学等值性（Psychometric Equivalence）** 运用[[Item Response Theory|项目反应理论]]（IRT）与微分项目功能（DIF）分析，确保同一试题在不同语言与文化情境中测量的潜在能力具有跨国数学等价性。
 > - **矩阵抽样与旋转设计（Matrix Sampling Design）** 每个学生仅作答题库中的一部分测试模块，但通过群体聚合算法能够以极小的时间成本精准反推整个国家学生群体的综合素养全貌。
-> - **微观背景[[Questionnaire|问卷]]的多维锚定（Contextual Questionnaires）** 同步采集学生家庭社会经济文化地位（ESCS）、教师教学策略及校长学校资源数据，为跨国多层线性回归（HLM）提供解释[[Variable|变量]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
+> - **微观背景[[Questionnaire|问卷]]的多维锚定（Contextual Questionnaires）** 同步采集学生家庭社会经济文化地位（ESCS）、教师教学策略及校长学校资源数据，为跨国多层线性回归（[[Hierarchical Linear Model|HLM]]）提供解释[[Variable|变量]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -206,5 +208,5 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 系统重构国际大规模学生评估从战后冷战时期向当代[[Governing by Numbers|数字治理]] 2.0 跨国中介演进的制度史，揭示其作为硬事实施展[[Soft Power|软权力]]的物质基石。

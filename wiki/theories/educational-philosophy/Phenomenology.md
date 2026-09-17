@@ -5,7 +5,7 @@ aliases:
 summary: "以主观意识和直接经验为核心的哲学传统，关注意识如何主动赋予世界意义，是诠释范式的三大研究传统之一。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 53
+theory_related_count: 54
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Narrative Research]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Edmund Husserl]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Phenomenology
@@ -264,7 +265,7 @@ updated: 2026-09-09
 > | [[Visible Learning]] | 概念 | 现象学的重要反思靶标，揭示其即时可见性假定对深层具身[[Bildung\|教化]]（Bildung）的扭曲。 |
 > | [[Critical Realism]] | 理论 | 与现象学形成良性互补，为微观主观经验探究补充客观社会深层结构维度的反思。 |
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 23)]] — 系统阐释现象学作为诠释范式基石的认识论推导、先验意识三要素与胡塞尔悬置方法。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21, p. 450)]] — 详述 Hycner（1985）基于现象学原理构建的 15 步访谈数据分析规程与意义单位提炼。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29, p. 614)]] — 在系统质性数据[[Analytic Framework|分析框架]]中，进一步规范现象学还原与主题聚类的实施原则。

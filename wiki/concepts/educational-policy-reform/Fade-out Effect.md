@@ -11,7 +11,7 @@ aliases:
 summary: "教育与社会干预在停止实施后即时正向效应随时间推移逐渐萎缩直至消失的普遍经验现象，以及方案从理想效力试验走向大规模实效推广时的效应断崖式归零（电压降），构成了现代循证清算与行政大数据长期追踪的核心审查关卡。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -232,7 +233,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 系统梳理跨国[[Educational Evidence Clearinghouses|证据清算中心]]对干预后持续效果的硬性审查标准，揭示效应衰退对政策认证评级的决定性影响。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度剖析英国 [[Education Endowment Foundation|EEF]] 试验从效力到实效演进中的电压降机制，以及依托[[National Pupil Database|国家学生数据库]]建立长期效应追踪的制度实践。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 论证单次干预后效应衰减的认知必然性，提出在 K–12 全周期推行强证据方案的“[[Cumulative Dosage Principle|累积剂量原则]]（Cumulative Dosage）”，系统阐释如何通过连年持续干预克服短期衰退并终身重塑学业轨迹。

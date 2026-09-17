@@ -8,7 +8,7 @@ summary: "法国哲学家、七月王朝教育决策者与折衷主义自由派�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Auslandspadagogik]]"
 related_theories: []
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Qualitative Observation]]"
 related_instruments: []
 related_persons:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Victor Cousin
@@ -189,7 +190,7 @@ updated: 2026-09-11
 > - **比较教育学科[[Paradigm|范式]]开创** 确立了 19 世纪政策导向行政[[Educational Meliorism|改良主义]]传统，示范了官方决策精英如何通过实地调研发掘他者经验，并以主权法哲学为推论桥梁实现机制转置。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 25–26, 30)]]
 > - **法国课程哲学与文化传统** 其所倡导的文理融合通识构想，直接孕育了法国中等教育延续一个多世纪的“[[Culture Générale|普通文化]]（*culture générale*）”理念与心智训练传统。（Halls, 1965:2; p. 30）
 
-相关研究从比较教育[[Epistemology|认识论]]维度对其学术地位进行了系统评析：
+[[Correlational Research|相关研究]]从比较教育[[Epistemology|认识论]]维度对其学术地位进行了系统评析：
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 深度解构库森的“政策导向行政改良主义母题”，阐明教育权作为国家公共资源的法哲学如何作为推论桥梁，完成从普鲁士[[Prussian Draft Education Law of 1819|聚芬法案]]向法国 1833 年基佐法案的实定法直接转置。

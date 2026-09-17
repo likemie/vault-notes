@@ -7,10 +7,10 @@ summary: "英国科学哲学家，因果机制、证据外推与反思 RCT 局�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1944"
 died: ""
 lifespan: "1944–至今"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Nick Cowen]]"
   - "[[Aristotle]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Nancy Cartwright
@@ -133,7 +134,7 @@ updated: 2026-09-16
 > - **教育政策与实践路径** 深刻影响英国教育循证学术共同体（如 Brown & Greany, 2018；Cowen et al., 2015）；其理论直接被运用于设计[[School Enquiry Cycle|学校探究循环]]（[[School Enquiry Cycle]]）中的证据[[Transfer Translation Transformation|转译]]协议，促使一线学校坚决摒弃照搬外部处方的盲目尝试，将[[Research Utilization|证据使用]]建构为深度的“因果行动理论调试”。
 > - **跨国政策辩论** 成为跨国批判单一“什么有效”（What Works）治理教条的权威哲学旗帜，与比斯塔（[[Gert Biesta]]）的[[Democratic Education|民主教育]]学批判形成跨学科共振。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] — 系统评述卡特赖特哲学在教育中的应用，提出因果角色理论并批判英格兰[[School Inspection|教育督导]]（[[Ofsted]]）推崇伪科学的历史。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 在英格兰[[Self-Improving School System|自我改进学校系统]]研究中，明确征引卡特赖特（Cartwright, 2013）的证据迁移理论，确立教师识别行动理论与支持性因素是防止陷入[[Activity Traps|活动陷阱]]的必备专业能力。
 

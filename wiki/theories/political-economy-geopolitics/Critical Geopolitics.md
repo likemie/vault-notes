@@ -6,10 +6,10 @@ aliases:
 summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - critical-geopolitics
   - geopolitics-of-knowledge
@@ -54,6 +54,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-06-30
+updated: 2026-09-17
 ---
 
 ## 理论定位
@@ -187,7 +188,7 @@ updated: 2026-06-30
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 分析亚洲崛起对全球高等教育架构的重塑
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 与[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]整合为新[[Geopolitics of Knowledge|知识地缘政治]]框架
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理该理论在高等教育研究中的应用与演进

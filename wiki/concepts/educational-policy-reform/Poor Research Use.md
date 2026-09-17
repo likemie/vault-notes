@@ -7,10 +7,10 @@ aliases:
 summary: "指脱离学生真实学情、缺乏批判审思且未经全员协同认同的异化证据使用形态；表现为盲从网络时髦、领导独断推行与教师僵化防卫。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/educational-policy-reform
   - theme/research-use
@@ -34,6 +34,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Effect Size]]"
   - "[[Likert Scale]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Mark Rickinson]]"
   - "[[Toby Greany]]"
@@ -44,7 +45,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Poor Research Use
@@ -181,6 +182,6 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 依托[[Monash Q Project|莫纳什 Q 项目]]系统提炼教育工作者关于劣质[[Research Utilization|研究使用]]的质性定性，展示证据基础、心智倾向、[[School Leadership|学校领导]]与实践成效的四维诊断矩阵。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 以英格兰 79 所小学的基线调查显示，仅半数实践者反对在缺乏研究支撑时实施全校性变革，并把这一追风风险与问责框架对证据类型的筛选作用联系起来。

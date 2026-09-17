@@ -9,7 +9,7 @@ summary: "Merton & Kendall（1946）发展的访谈方法，研究者预先分�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -26,12 +26,13 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Qualitative Interview]]"
   - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-09-17
 ---
 
 # Focused Interview
@@ -120,5 +121,5 @@ updated: 2026-07-22
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了聚焦访谈的四项特征、四项重要数据标准，以及从[[Non-directive Interview|非引导性访谈]]到聚焦访谈的方法演变。

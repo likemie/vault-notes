@@ -7,7 +7,7 @@ aliases:
 summary: "通过互联网以数字形式访问的一手文献（Guardian, 2003）。大多数虚拟文献对研究有价值，但政府和组织的官方网站可能将文献以对自身有利的方式呈现。许多历史学家不完全信服数字文献的优点，指出其失去了原始纸质文献的直接性和物质感（Schama, 1999）。"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Documentary Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Virtual Documents
@@ -67,5 +68,5 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion and Morrison 将虚拟[[Document|文献]]定位为一手/[[Primary and Secondary Documents|二手文献]]区分的四种边界模糊情形之一，系统讨论了其研究价值、呈现偏误以及历史学界对物质性丧失的担忧。

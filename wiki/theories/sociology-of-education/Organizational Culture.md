@@ -9,7 +9,7 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Likert Scale]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-05
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Organizational Culture
@@ -270,7 +271,7 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]** 阐释如何阅读教室、校长办公室等学校物理[[Artefact|器物]]，说明器物在解读隐性组织文化与权力结构中的方法论价值。
 > - **[[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]** 跨国实证测度 37 个教育系统的文化与心态指标，揭示循证理念高认同与深层政学信任赤字并存的组织病理。
 > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 将文化与心态列为 [[OECD]] 强化教育[[Research Impact|研究影响力]][[Analytic Framework|分析框架]]的第四大支柱，探讨实证文化转型的系统策略。

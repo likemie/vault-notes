@@ -10,9 +10,9 @@ summary: "真实验设计变体，同一组受试者在两种或多种实验条�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -34,11 +34,12 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Pilot Testing]]"
   - "[[ABAB Design]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-12
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # Repeated Measures Design
 
@@ -127,5 +128,5 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍重复测量设计的逻辑、[[Order Effects|顺序效应]]挑战、拉丁方排列应对方案及适用条件，并提供了教学方法比较、反馈类型研究、药物交叉试验和界面测试等应用场景。

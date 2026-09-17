@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施赖弗（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Reference Society
@@ -206,7 +207,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]] [[PISA]] 如何通过设立参考社会驱动全球教育[[Policy Borrowing|政策借用]]，详细剖析芬兰、上海、韩国和南锥体国家的参照机制与文化偏见。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用[[Wight's Three Traditions of International Theory|国际关系三大传统]]解构[[Realism in International Relations|现实主义]]比较教育中的参考社会与反参考社会，剖析地缘霸权与制度榜样的共生关系。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合施赖弗[[Externalization|外化]]假说与 [[World Education Reform Database|WERD]] 数据库，对比[[OECD|经合组织]]外向型同行参照社会与[[World Bank|世界银行]]自指性中介机制的治理异同。

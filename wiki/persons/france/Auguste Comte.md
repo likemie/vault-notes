@@ -8,7 +8,7 @@ summary: "19世纪法国实证主义哲学家与社会学奠基人，提出知�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Questionnaire]]"
   - "[[Survey Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Auguste Comte
@@ -178,7 +179,7 @@ updated: 2026-09-11
 
 孔德的学说在当代社会科学与教育哲学[[Document|文献]]中持续引发深度反思与[[Dialogue in Education|对话]]。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1)]] 详尽剖析孔德实证主义的认识论原则、方法论统一假说以及西方教育研究范式从实证到反实证的演化脉络。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 阐明孔德将[[Scientific Method|科学方法]]应用于人类社会事务的实证信念与朱利安比较教育科学化构想之间的同质渊源与现代性底色。
 > - [[Argument_Cowen_2009_CE|Cowen (2009b)]] 追溯比较教育学在实证主义传统下的方法论演化与现代性反思。

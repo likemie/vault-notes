@@ -8,10 +8,10 @@ aliases:
 summary: "在认识论认知AIR模型中，用于生成可信、有效认识产出的因果性认识过程及其适用与保障条件。"
 type: concept
 domain: "educational-psychology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -45,6 +45,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Discourse Analysis]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # Reliable Epistemic Processes
@@ -188,6 +189,6 @@ updated: 2026-09-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 系统界定产生信念的[[Causal Processes|因果过程]]及其在[[Epistemic Cognition|认识论认知]]中的基础地位。
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 提出科学实践中观察与证据整合的可靠过程模板，实证展示初中生对过程因果条件的审视机制。

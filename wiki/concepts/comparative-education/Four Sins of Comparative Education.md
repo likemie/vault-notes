@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2023）对比较教育学术史中不断重演的四类理论与方法论偏差的批判性诊断，包括进步假设、地方主义、借用成瘾与科学混乱"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: '2026-07-04'
+updated: 2026-09-17
 ---
 
 # Four Sins of Comparative Education
@@ -78,5 +79,5 @@ updated: '2026-07-04'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 系统提出“比较教育的四种罪过”，客观诊断其作为未丢弃历史行李的本质，督促学科放弃对旧[[Hypothesis|假设]]的舒适依赖，以在前瞻视角中面对 21 世纪的政治危机。

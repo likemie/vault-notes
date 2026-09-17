@@ -7,7 +7,7 @@ aliases:
 summary: "将社会理解为人类与非人类行动者（异质性物质-符号实体）在持续关联中组装而成的异质网络理论。在比较教育研究中，它被用于解构国家层面的政策借用假说，通过追踪多尺度行动者网络、对称性关注非人类中介（如测评技术、协议、软件、物理硬件），揭示隐藏在教育转移与全球远处治理背后的非线性转译、变异、多行动者博弈及关系空间网络生产机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-06-07
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Actor-Network Theory
@@ -178,7 +179,7 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]] — 使用 ANT 框架分析阿根廷 [[Conectar Igualdad|PCI]] 数字教育项目的微观课堂[[Assemblage|组装]]，揭示了跨国企业商业权力绕过国家政策控制直接作用于教学空间的轨迹，为政策流通的[[Relational Space|关系空间]]转向提供论据。
 > - [[Argument_Li_2025_HSSC|Li et al., 2025]] — 将 ANT 置于内部行动者网络机制层面，解释国家内部多元[[Policy Network|政策网络]]如何以多行动者博弈和[[Transfer Translation Transformation|转译]]传递全球 [[PISA]] 信息。
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 追溯[[Rationalism in International Relations|理性主义]]比较教育传统中引入 ANT，以分析全球教育治理中流动话语、政策图景与数据[[Governing at a Distance|远处治理]]的作用。

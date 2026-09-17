@@ -9,9 +9,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 国际发展政策研究与智库网络（International Public Policy Research Network）
 headquarters: 新德里（New Delhi，初始发起于华盛顿特区）
@@ -36,6 +36,7 @@ related_theories:
   - "[[Two-Communities Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Global Development Network
@@ -155,7 +156,7 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 详析[[World Bank|世界银行]] GDN 从 1999 年去中心化承诺走向被总部集权项目（如 [[Systems Approach for Better Education Results|SABER]]）边缘化的演变历程，揭示本土专家被降格为填报工具的实证事实。
 
 ---

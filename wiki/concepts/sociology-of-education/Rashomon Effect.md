@@ -8,7 +8,7 @@ aliases:
 summary: "源自黑泽明电影的社会科学概念，指同一事件或数据集被不同利益行动者基于自身立场建构出矛盾且不可兼容的多重因果叙事，在质性研究中体现为因果的多重性，在全球治理中体现为数据可塑性引发的政策罗生门"
 type: concept
 domain: "sociology-of-education"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,7 +47,9 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
   - "[[Fieldwork]]"
-related_persons: []
+  - "[[Correlational Research]]"
+related_persons:
+  - "[[Michael Gove]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: '2026-09-12'
+updated: 2026-09-17
 ---
 
 # Rashomon Effect
@@ -155,7 +157,7 @@ updated: '2026-09-12'
 > [!claim] [[Argument_Grey_2018_CE|Grey & Morris (2018, pp. 111–112, 125–126)]]
 > **数据可塑性与现代治理罗生门** 深入追踪 [[PISA]] 2012 结果在英格兰的传播与转化过程。研究证明，由于评估数据指标庞大且结构复杂，赋予了结果极高的话语可塑性，导致同一批客观数据在不同行动主体手中被裂解为三个相互冲突的“政策真实”：
 > 1. **国际组织真实（[[OECD]]）** [[OECD]] 将英格兰成绩界定为长期处于均线之上的稳定系统，在报告中强调促进弱势学校公平、加大教师专业协作与避免过早分流是卓越教育的核心密码；
-> 2. **政治精英真实（UK 教育部 / Michael Gove）** 执政官员动用体制与媒介资本，利用发稿时效实施“遗漏话语”，将平稳数据戏剧化地篡改为“国家教育陷入停滞并被亚洲对手碾压”的危机叙事，以此为推行此前遭到广泛抵制的私有化改革（自由学校、文法甄别、[[Ofsted]] 惩罚性督导、教师[[Performance Pay|绩效工资]] PRP）提供合法性护航；
+> 2. **政治精英真实（UK 教育部 / [[Michael Gove]]）** 执政官员动用体制与媒介资本，利用发稿时效实施“遗漏话语”，将平稳数据戏剧化地篡改为“国家教育陷入停滞并被亚洲对手碾压”的危机叙事，以此为推行此前遭到广泛抵制的私有化改革（自由学校、文法甄别、[[Ofsted]] 惩罚性督导、教师[[Performance Pay|绩效工资]] PRP）提供合法性护航；
 > 3. **大众媒介真实（国家媒体）** 报刊与电视依据新闻业的“标准下滑模版”，将复杂数据降解为“英格兰在国际联赛中惨败”的耸动标题，并集体陷入“[[Policy Avoidance|政策规避]]（policy avoidance）”，完全放弃对政府改革方案是否具有证据支撑的审慎核查。
 > 这种多重真实的共存证明，现代全球教育治理并未走向数据驱动的科学理性，而是陷入了高度政治化与媒介化的象征性罗生门博弈。
 
@@ -212,7 +214,7 @@ updated: '2026-09-12'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] — 将罗生门效应系统引入教育研究方法论，阐释复杂情境下[[Action Narratives|行动叙事]]的多样性与因果路径的非线性特征。
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 运用罗生门效应框架深度剖析英格兰对 [[PISA]] 2012 评估数据的传播与再阐释，揭示国际组织、执政政客与大众媒体如何凭借自身逻辑生产出三重相互抵触的“政策真实”。
 

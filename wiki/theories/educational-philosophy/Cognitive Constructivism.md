@@ -7,7 +7,7 @@ aliases:
 summary: "一种将知识视为存在于个体头脑中的内部结构，将学习视为个体同化与顺应外部信息的内部心理过程的理论范式。它是个体认识论研究早期的主导范式。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_theories:
   - "[[Integrative Pluralism]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-17
 ---
 
 # Cognitive Constructivism
@@ -102,5 +103,5 @@ updated: 2026-08-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了个体[[Constructivist Paradigm|建构主义]]在当前[[Epistemology|认识论]]研究中面临的[[Ontology|本体论]]与方法论危机，并提出将其作为多层级聚合模型中的底层组件加以保留和整合。

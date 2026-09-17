@@ -9,7 +9,7 @@ summary: "用于分析纵向追踪与群聚相关数据的半参数半回归方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Simple Difference in Means Model]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Generalized Estimating Equations
@@ -248,5 +249,5 @@ updated: 2026-09-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）等杜伦大学学者利用 NPD 归档数据开展的 17 项 [[Education Endowment Foundation|EEF]] 试验四模型并行复算，将 GEE 作为应对集群相关性的代表性边际模型，揭示出统计模型选择对[[Effect Size|效应量]]与[[Confidence Interval|置信区间]]的颠覆性影响。

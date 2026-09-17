@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -61,6 +61,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Chi-Squared Test]]"
   - "[[Multiple Regression]]"
+  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
   - "[[Confidence Interval]]"
@@ -216,7 +217,7 @@ updated: 2026-07-13
 > > [!index-table] 研究类型与最低样本量
 > > | 研究类型 | 最低样本量 |
 > > |---|---|
-> > | 相关研究（correlational） | ≥ 30 案例 |
+> > | [[Correlational Research\|相关研究]]（correlational） | ≥ 30 案例 |
 > > | 因果比较与[[Experimental Research\|实验研究]] | ≥ 15 案例 |
 > > | [[Survey Research\|调查研究]] | 每个主要子组 ≥ 100，每个次要子组 20–50 |
 >

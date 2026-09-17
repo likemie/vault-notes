@@ -7,7 +7,7 @@ aliases:
 summary: "由 Shlomo Sharan 与 Yael Sharan（1992）基于杜威实用主义与社会建构理论开发的民主探究型合作学习模式。通过全班确定总主题、小组自主分工规划、资料搜集探究、报告综合形成、全班展示与多维评价六步规程，实现高阶思维与深度学科素养的协同发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Group Investigation
@@ -166,5 +167,5 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，将小组[[Survey Research|调查法]]（Group Investigation）作为独立教学技术亚组进行二阶合成，报告加权平均[[Effect Size|效应量]] $ES = 1.08$，证实其在自然科学探究与情感激发中的高效益。

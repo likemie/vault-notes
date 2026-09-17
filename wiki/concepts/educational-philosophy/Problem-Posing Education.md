@@ -8,7 +8,7 @@ aliases:
 summary: "保罗·弗莱雷与批判教育学提出的核心教学范式，作为储蓄式教育的替代方案，主张教育者提出与学生现实处境相关的问题，使师生成为批判性共同探究者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-09-17
 ---
 
 # Problem-Posing Education
@@ -117,5 +118,5 @@ updated: 2026-07-25
 > | [[Conscientization]] | 概念 | 提问式教育的心理与政治结果（批判意识觉醒）。 |
 > | [[Praxis]] | 概念 | 提问式教育的终极行动落地。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 论述提问式教育在主动学习三环节模型中的定位及其对 [[Theory of Knowledge|TOK]] 课程的审查。

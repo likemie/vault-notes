@@ -9,7 +9,7 @@ aliases:
 summary: "跨文化与质性研究方法论的核心区分。来自语言学类比（音位学/语音学），主位（emic）从文化内部理解参与者的主观意义与结构，客位（etic）从文化外部使用研究者范畴进行比较分析。"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
   - "[[Prototype Methods]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-08-15
+updated: 2026-09-17
 ---
 
 # Emic and Etic
@@ -130,6 +131,6 @@ updated: 2026-08-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在主位/客位框架下研究中国与欧美学习信念差异，以 emic 视角为核心方法论基础，运用[[Prototype Methods|原型方法]]和[[Cultural Models|文化模型]]生成两种文化层面的学习模型。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 从 LeCompte & Preissle（1993）的语言学类比出发，将主位/客位区分系统纳入[[Ethnography|民族志]]方法与[[Positivism|实证主义]]方法的对比框架，并阐明其在[[Interpretive Paradigm|诠释范式]]和[[Rich and Thick Description|厚描述]]中的方法论位置。

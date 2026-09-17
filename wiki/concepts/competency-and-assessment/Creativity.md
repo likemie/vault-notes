@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "competency-and-assessment"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -85,7 +86,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Creativity
@@ -302,7 +303,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Meta-meta-analysis|二阶元分析]]基准与[[Variable|变量]]角色** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 开展创造力领域的[[Meta-meta-analysis|二阶元分析]]，系统整合 52 项一阶[[Meta-analysis|元分析]]，量化确立了创造力作为[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的基准效应，并证明教育干预（$r = 0.20$）对创造力的显著促进效能。
 > - **大学生[[Creativity Training|创造力训练]]干预元分析** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 对 2000–2024 年间 29 项实证研究（109 个[[Effect Size|效应量]]）开展[[Three-Level Meta-Analysis|多层元分析]]，证实训练项目对大学生各子维度创造力（创造性思维、图形、词汇、言语、[[Problem Solving|问题解决]]）产生中等显著促进（$g = 0.628$），并揭示干预周期存在倒 U 型时间[[Interaction Effect|调节效应]]（$< 2$ 个月效果最佳 $g = 0.844$）与言语认知优势（$g = 0.998$）。
 > - **[[Cooperative Learning|合作学习]]对创造性思维赋能** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 开展[[Cooperative Learning|合作学习]]对多维学习产出的二阶元分析，实证确立了合作学习对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的赋能效应达到 $ES = 0.76$，证实小群体互动与认知冲突对[[Creative Problem Solving|创造性问题解决]]的促进价值。

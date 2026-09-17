@@ -71,7 +71,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[PRISMA]]"
   - "[[Corrected Covered Area]]"
   - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
@@ -86,11 +85,13 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Small Study Effects]]"
 related_instruments:
+  - "[[PRISMA]]"
   - "[[AMSTAR]]"
   - "[[GROOVE]]"
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Education Resources Information Center]]"
 related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
 sources:
@@ -104,7 +105,7 @@ title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -252,7 +253,7 @@ issuing_organization: ""
 > 现有 AI 教育一阶[[Meta-analysis|元分析]]由于[[Research Scope|研究范围]]差异、学科聚焦局限及方法学决策不同，导致宏观[[Effect Size|效应量]]在微弱正向（$ES = .32$）至极高正向（$ES = 1.36$）之间剧烈震荡；必须通过严密的 [[PRISMA]] 2020 流程进行系统检索与准入筛选，以建立高质量[[Meta-meta-analysis|二阶元分析]]数据集（pp. 1367–1369）。
 
 > [!chain-link] 证据到判断
-> - **证据一：检索规模与初步过滤** 五大数据库（WoS、Scopus、ERIC、Academic Search Ultimate、ProQuest）双组关键词配对检索共获得 4,558 篇初始记录；在去除跨数据库重复[[Document|文献]]（$n = 37$）并剔除 2 篇无法获取全文的付费墙文献后，依据 Table 1 标准初步确定 35 篇潜在 FOM 进行全文精读（p. 1368）。
+> - **证据一：检索规模与初步过滤** 五大数据库（WoS、Scopus、[[Education Resources Information Center|ERIC]]、Academic Search Ultimate、ProQuest）双组关键词配对检索共获得 4,558 篇初始记录；在去除跨数据库重复[[Document|文献]]（$n = 37$）并剔除 2 篇无法获取全文的付费墙文献后，依据 Table 1 标准初步确定 35 篇潜在 FOM 进行全文精读（p. 1368）。
 > - **证据二：排除原因与证据流向** 进一步排除 16 篇不合格文献，具体排除原因为：考察 AI 使用影响因素而非学习成果（$n = 2$）、仅调查对 AI 的态度与焦虑压力（$n = 2$）、预测辍学风险（$n = 1$）、AI 知识本身的教学（$n = 2$）、测试 AI 答题准确率而非学生表现（$n = 3$），以及初级研究严重重叠（$n = 6$）。
 > - **证据三：最终数据集构成** 最终纳入 19 项独立一阶元分析，时间跨越 2020 至 2025 年，全面覆盖[[Academic Achievement|学业成就]]与[[Higher-Order Thinking Skills|高阶思维]]，奠定了宏观二阶综合的数据底座（p. 1369）。
 

@@ -9,7 +9,7 @@ summary: "质性数据分析中把新获取数据与既有数据、类别和理�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Theoretical Sampling]]"
   - "[[Content Analysis]]"
   - "[[Analytic Induction]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-08-17
+updated: 2026-09-17
 ---
 
 # Constant Comparison
@@ -112,5 +113,5 @@ updated: 2026-08-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]] — 将持续比较定位为质性数据分析的重要工具，指出负面案例导致类别与理论修正直至完全容纳数据，并预告后续章节的充分讨论。

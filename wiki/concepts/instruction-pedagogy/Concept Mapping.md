@@ -10,7 +10,7 @@ aliases:
 summary: "包含显式概念节点、指示连线、命题连接词与跨分支横向交叉连接，用于结构化表征复杂领域知识与语义命题关系的高阶认知建模与评价工具。在有意义学习与科学教育中，它为深层知识整合提供严密语法，既是促学支架亦是诊断认知结构的评价工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -48,12 +48,13 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-03
+updated: 2026-09-17
 ---
 
 # Concept Mapping
@@ -265,7 +266,7 @@ updated: 2026-09-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — [[Meta-analysis|元分析]]综合 36 项概念图实证研究，量化确立其对[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.548$），并与[[Mind Mapping|思维导图]]（$g = 1.041$）和[[Argument Mapping|论证图]]（$g = 0.798$）展开严格的多水平对比与认知开销分析。
 > - Nesbit & Adesope (2006) — 55 项实证的奠基性元分析，确立概念图对知识保持（$d = 0.60$）与知识迁移（$d = 0.46$）的稳健促学效应。
 > - Novak & Gowin (1984) — 概念图奠基之作，系统确立概念图的命题语法、层级拓扑与基于交叉连接的四维评分标准。

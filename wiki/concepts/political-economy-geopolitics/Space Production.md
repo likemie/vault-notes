@@ -6,7 +6,7 @@ aliases:
 summary: "以列斐伏尔空间三元论为基础的分析框架，将高等教育理解为持续参与空间生产与空间治理的制度性实践，从物质性、表征性和关系性三个嵌套维度考察其如何参与全球空间秩序建构"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Academic Ranking of World Universities]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-09-17
 ---
 # Space Production
 
@@ -87,5 +88,5 @@ updated: 2026-06-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 首次在中文[[Document|文献]]中系统提出以空间生产三元维度整合[[Geopolitics of Higher Education|高等教育地缘政治]]研究的[[Analytic Framework|分析框架]]，区分物质性、表征性和关系性三个维度。

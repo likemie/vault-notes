@@ -9,7 +9,7 @@ aliases:
 summary: "Bieri提出的测量个体认知结构中构念分化程度的指标，通过构念间平均相关的高低判断个体以单一维度还是多维度视角建构世界。"
 type: concept
 domain: "educational-psychology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
 related_methods:
   - "[[Repertory Grid Technique]]"
   - "[[Matching]]"
+  - "[[Correlational Research]]"
 related_theories: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]]"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Cognitive Complexity Index
@@ -100,5 +101,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在个人[[Construct|构念]]库（[[Repertory Grid Technique|repertory grid]]）分析中作为认知复杂性/简单性的核心测量指标，用于判断个体构念结构的分化程度与世界理解的多维性（Ch. 25, p. 10）。

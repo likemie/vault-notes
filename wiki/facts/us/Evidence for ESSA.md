@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 32
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Attrition]]"
   - "[[Variable]]"
+  - "[[Domain Specificity]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -54,6 +55,8 @@ related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Education Endowment Foundation]]"
+  - "[[Education Resources Information Center]]"
   - "[[Success for All]]"
   - "[[Open Court Reading]]"
   - "[[Investing in Innovation Program]]"
@@ -61,6 +64,7 @@ related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Slavin_2021_ECNUROE]]"
+  - "[[Argument_Ginsberg_2024_EP]]"
 confidence: high
 status: active
 created: 2026-09-17
@@ -124,6 +128,13 @@ updated: 2026-09-17
 > | **中等证据（Tier 2: Moderate Evidence）** | 至少 1 项高质量[[Quasi-Experimental Designs\|准实验设计]]（QED），具有良好基线等值性与统计控制，取得显著正向增益 | 匹配良好的准实验或高流失等值 RCT |
 > | **有前景证据（Tier 3: Promising Evidence）** | 具有合理理论假说并在控制选择偏差后展现正向统计关联的相关性或观察性研究 | 控制关键协[[Variable\|变量]]的大规模纵向回归研究 |
 
+> [!finding-cards] 多库审计视角下的 Evidence for ESSA 年级与[[Domain Specificity|学科特异性]]问题（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024]]）
+> 金斯伯格等（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act|Title I]] 经费的跨库审计，将 Evidence for ESSA 列为 4 个核心公共证据库之一，与[[What Works Clearinghouse|有效干预清算中心]]（WWC）、英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）及[[Education Resources Information Center|教育资源信息中心]]（Education Resources Information Center，ERIC）并列，系统评估 129 项采购实践所对应的证据状态。审计结果揭示了该平台在实际运用中的两项结构性局限：
+>
+> - **年级与学科特异性的跨级降维推断** 部分学区援引 Evidence for ESSA 已评级的中学阶段研究，为小学阶段同类实践的采购提供证据支撑。然而 Evidence for ESSA 的评级结论与所依据研究的目标学段高度绑定，跨学段借用本质上构成对证据适用范围的扩张引用，在平台并未明确限制此类做法的情况下，仍可能导致证据与实践情境的系统性错配（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024, pp. 170–171]]）。
+> - **单库单研究合规与多库证据体的合规率鸿沟** 仅依托 Evidence for ESSA 的单项评级记录，被审计学区 95%–99% 的采购可找到至少一项 ESSA Tier I–III 合规证据；跨 4 库综合评估后合规率降至 49%–58%（保守估算：20%），揭示任一单一清算中心均不足以支撑完整的证据体评估（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024, p. 173]]）。
+
+
 ---
 
 ## 机制对比：Evidence for ESSA vs WWC
@@ -169,6 +180,7 @@ updated: 2026-09-17
 > |---|---|---|---|---|---|---|
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美 K-12 阅读与数学全部可获取的教育干预方案实证研究池 | 平台审查数据统计与政策渗透分析 | [[Every Student Succeeds Act\|ESSA]] 证据层级评定、月度独立用户数、采纳州数量与合格项目数 | 收录近 100 个达到 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 1–3 的项目（强证据项目占比居首）；月度活跃教育者超 70,000 人（周增 ≈1,000 人）；至少 6 州将平台纳入官方拨款指南 | — | 实证说明以五大硬约束构建的敏捷清算平台能够有效激活学校层面的循证采购（pp. 23–26） |
 > | [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] | 全美中小学阅读与数学干预项目库追踪 | 循证平台长期运营与学科覆盖评估 | 学科覆盖率、审查项目通过率与开发者测验过滤效应 | 严格执行独立测验与 12 周门槛过滤掉 90% 以上低质自发研究，推动教育市场向合规方案收敛 | — | 证实方法学硬约束在规范教育干预市场供给侧方面的治理效能（pp. 19–21） |
+> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 美国南方联合学区（SUD）2.88 亿美元 ESSA [[Title I of the Elementary and Secondary Education Act\|Title I]] 经费，覆盖 129 项采购实践、4 个公共证据库 | 跨库财务审计与证据合规分析 | 平台在多库审计中的年级特异性评级与合规率对比 | 单库合规率 95%–99%；跨 4 库综合后降至 49%–58%（保守估算：20%）；证实单一清算中心不足以支撑完整证据体评估 | — | 揭示 Evidence for ESSA 在跨学段降维推断场景中的适用边界，论证多库整合评估的必要性（pp. 170–174） |
 
 ---
 
@@ -185,3 +197,4 @@ updated: 2026-09-17
 > | [[What Works Clearinghouse]] | 机构事实 | 联邦官方清算机构，与 Evidence for ESSA 构成互补共生关系。 |
 > | [[Success for All]] | 干预项目 | 平台收录的代表性 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 强证据全校综合改革方案。 |
 > | [[Investing in Innovation Program]] | 项目事实 | 联邦教育创新资助计划，为分级证据框架提供资助实践检验。 |
+> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 关键论证 | 以跨库财务审计揭示 Evidence for ESSA 的年级特异性局限，为多库整合评估体系提供实证支撑。 |

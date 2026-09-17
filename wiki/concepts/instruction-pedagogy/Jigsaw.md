@@ -9,10 +9,10 @@ aliases:
 summary: "由 Elliot Aronson（1978）开创、Robert Slavin 发展的角色互补型合作学习模式。通过任务信息不对称构建高度积极互赖，经历原属组分工、专家组研讨、原属组轮流传授与个体独立测评，实现学业提升、偏见消除与同伴支持。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - "instruction/pedagogy"
   - "theme/cooperative-learning"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Confidence Interval]]"
+  - "[[Correlational Research]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-17
 ---
 
 # Jigsaw
@@ -188,5 +189,5 @@ updated: 2026-08-24
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，将拼图法作为四大独立合作技术亚组之一进行综合评估，报告二阶合成[[Effect Size|效应量]] $ES = 0.72$，并纳入 Özkan (2024)、Solissa (2023)、Shakerian (2020) 与 Stanczak (2022) 等 6 个独立效应量。

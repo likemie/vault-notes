@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_methods:
   - "[[Comparative Case Study]]"
   - "[[In-depth Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
   - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons: []
@@ -96,7 +97,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # 21st Century Skills and Competencies Discourse
@@ -286,7 +287,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证 21 世纪高阶素养在高等教育落地中面临的评价瓶颈，提出重构学业评价的五大政策杠杆与全课程改革方案。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判[[Discourse Analysis|话语分析]]，系统剖析 21 世纪技能话语的全球演变、新自由主义主体性[[Disciplina and Doctrina|规训]]与被边缘化的全人素养。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的[[Transfer Translation Transformation|转译]]断裂与概念混乱。

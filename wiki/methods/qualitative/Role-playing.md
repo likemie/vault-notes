@@ -10,7 +10,7 @@ summary: "一种让参与者在具身虚构情境中公开扮演他人角色的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-03
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Role-playing
@@ -134,6 +135,6 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，定量确立角色扮演作为[[Authentic Instruction|真实性教学]]策略中促成[[Critical Thinking|批判性思维]]的最强增益路径（$k=5, g+=0.61$）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen, Manion & Morrison (2011, Ch. 26)]] — 系统阐述角色扮演作为研究与教学方法的理论渊源（心理剧）、八项设计原则、[[Self-spectator|自观]]机制与实证案例。

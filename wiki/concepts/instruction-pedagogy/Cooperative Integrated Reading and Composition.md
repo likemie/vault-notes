@@ -8,7 +8,7 @@ aliases:
 summary: "由 Robert Slavin、Robert Stevens 等人（1987）开发的综合性语言与读写合作学习模式。该技术将教师主导的阅读理解策略精讲与异质性同伴配对朗读、词汇协商、故事语法图解、同伴互评修改及故事续写系统整合，是合作学习中干预效应最为突出的技术模式（ES = 2.04）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Prediction Interval]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -151,7 +152,7 @@ updated: 2026-09-17
 > - **1987 年 — 原型创立与实证验证** Robert Stevens、[[Robert Slavin]] 与 [[Nancy Madden]] 在约翰霍普金斯大学完成 CIRC 的原型开发与首批对照实验，发表里程碑研究。
 > - **1990 年代 — 全校性综合改革整合** CIRC 被深度整合进全员成功（[[Success for All]]，SFA）全校性教育改革项目中，成为全美数百所小学 2–6 年级阅读写作教学的标准化架构。
 > - **2000–2010 年代 — 联邦 CSR 计划与大规模 [[Randomised Controlled Trials|RCT]] 检验** 随着美国全面学校改革计划（CSR）的推行与 Borman et al. (2007) 等全国多学区整群随机对照试验的实施，CIRC 随 SFA 项目确立了在循证改革中的标杆地位。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 24)]]
-> - **2020 年代至今 — 全球跨语言推广与[[Meta-meta-analysis|二阶元分析]]确证** CIRC 进一步推广至印尼语、土耳其语等多语种教学；Güngör et al. (2026) 二阶[[Meta-analysis|元分析]]确证其干预效应在[[Cooperative Learning|合作学习]]技术中位居首位（$ES = 2.04$）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–5)]]
+> - **2020 年代至今 — 全球跨语言推广与[[Meta-meta-analysis|二阶元分析]]确证** CIRC 进一步推广至印尼语、土耳其语等多语种教学；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 二阶[[Meta-analysis|元分析]]确证其干预效应在[[Cooperative Learning|合作学习]]技术中位居首位（$ES = 2.04$）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–5)]]
 
 ---
 
@@ -205,7 +206,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，将 CIRC 作为独立[[Cooperative Learning|合作学习]]技术亚组进行二阶综合，确认其总体[[Effect Size|效应量]]达到 $ES = 2.04$（显著高于[[Jigsaw|拼图法]] $0.72$ 与一般合作模式 $0.61$），确立了读写一体化同伴合作教学在教育干预中的标杆地位。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 梳理 CIRC 作为全员成功（[[Success for All|SFA]]）旗舰课程基座在全美全校改革与 [[Every Student Succeeds Act|ESSA]] 循证改革中的实证轨迹与规模化成效。
 

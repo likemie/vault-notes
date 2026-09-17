@@ -9,7 +9,7 @@ aliases:
 summary: "测验结果对受试者、教师或学校产生重大后果的评估情境，风险程度与不伦理行为发生率正相关，表现为从回冲效应到直接泄题的九级准备方式连续体"
 type: concept
 domain: "educational-policy-reform"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,10 +23,12 @@ related_concepts:
   - "[[Domain-Referenced Test]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
+related_methods:
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-09-17
 ---
 
 # High-Stakes Testing
@@ -99,5 +101,5 @@ updated: 2026-07-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.8 节系统讨论高风险测验引发的伦理问题，包括 Mehrens & Kaminski（1989）的九级准备方式连续体、Gipps（1994）的不伦理实践判断标准和 Harlen（1994）的高风险面向定义。

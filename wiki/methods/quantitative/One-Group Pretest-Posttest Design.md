@@ -6,7 +6,7 @@ summary: "前实验设计中仅对单一组进行前测、干预和后测的设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -26,12 +26,13 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # One-Group Pretest-Posttest Design
 
@@ -98,6 +99,6 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 将单组前[[Pre-test and Post-test|后测]]设计列为[[Pre-Experimental Designs|前实验设计]]的一种，[[Internal Validity|内部效度]]最低。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Adeyemi (1992) 博茨瓦纳社会科教师培训研究为例，展示单组前后测设计的应用和自我警惕；以 Campbell & Stanley (1963) 和 Pilliner (1973) 的类比说明其方法论缺陷。

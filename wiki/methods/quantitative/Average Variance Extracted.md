@@ -9,7 +9,7 @@ summary: "在结构方程模型与验证性因子分析中评估潜变量对观�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Scale Development]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
   - "[[Composite Reliability]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-08-29
+updated: 2026-09-17
 ---
 
 # Average Variance Extracted
@@ -162,7 +163,7 @@ updated: 2026-08-29
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers|教师研究素养量表]]》[[Confirmatory Factor Analysis|CFA]] 验证中，计算 4 个维度的 AVE 分别为：研究意识（$.56$）、研究态度（$.50$）、研究技能（$.54$）、[[Research Utilization|研究使用]]（$.56$），全部达到 $\ge .50$ 标准，且均高于各因子间的决定系数（$r^2$ 为 $.31\sim.59$），确立了优良的收敛与[[Convergent and Discriminant Validity|区分效度]]。
 
 ---

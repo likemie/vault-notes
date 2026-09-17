@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 130
+argument_related_count: 131
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -112,6 +112,7 @@ related_methods:
   - "[[Descriptive Analysis]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
   - "[[Memos]]"
   - "[[Questionnaire]]"
@@ -255,7 +256,7 @@ updated: '2026-09-16'
 > | 人工检索 | 以人工方式从图书、期刊、摘要、杂志、学报等逐册检查，或从参考书目寻找初级文献。 |
 > | 网上检索 | 利用图书馆购买的光碟或数据库进行在线检索，可迅速找到相关文献。 |
 
-文献综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的相关研究成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议。
+文献综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的[[Correlational Research|相关研究]]成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议。
 
 > [!seq-table] 文献综述的三项核心作用
 > | 作用 | 说明 |

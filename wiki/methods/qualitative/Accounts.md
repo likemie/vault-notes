@@ -5,9 +5,9 @@ summary: "一种以情境中的语言为焦点的质性资料收集方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, paradigm/interpretive, theme/language]
 related_concepts:
@@ -35,12 +35,13 @@ related_methods:
   - "[[Cross-checking]]"
   - "[[Triangulation]]"
   - "[[Experience-Sampling Method]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-09-17
 ---
 # Accounts
 
@@ -139,5 +140,5 @@ updated: 2026-07-23
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章系统介绍陈述法的理论根基（[[Ethogenic Approach|人因取向]]）、引发与分析程序（Kitwood八种方法、Brown & Sime框架）、应用案例（Heath的课堂沟通研究）及方法论问题（Menzel的多重意义批判）。

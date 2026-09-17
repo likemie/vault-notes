@@ -10,7 +10,7 @@ aliases:
 summary: "统摄学科全貌、追求先验普遍性与高度逻辑自洽的思辨性元叙述体系，因脱离经验事实与异质微观现实而遭遇默顿中层理论、扎根理论与后现代主义的深刻批判。"
 type: concept
 domain: "sociology-of-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_theories:
 related_methods:
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Keith Morrison]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Grand Theory
@@ -160,6 +161,6 @@ updated: 2026-09-11
 
 ## 参考文献
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 10–11)]] — 系统界定宏大理论的元叙述性质、思辨内核及其遭遇的经验贫瘠批判。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 贯穿全书剖析质性[[Grounded Theory|扎根理论]]与量化[[Hypothesis|假设]]检验如何超越传统先验宏大思辨。

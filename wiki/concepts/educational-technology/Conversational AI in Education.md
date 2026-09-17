@@ -11,7 +11,7 @@ aliases:
 summary: "依托自然语言处理与多轮语音文本交互技术，在教学情境中提供拟真会话演练、即时纠错反馈、启发式追问与自适应语料推送的交互中介系统。"
 type: concept
 domain: "educational-technology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Conversational AI in Education
@@ -100,5 +101,5 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]][[Meta-analysis|元分析]]中系统检验了[[Dialogue in Education|对话]]式智能体的大样本实证效能（$k = 30, g = 0.468$），确立了其在基础教育语言听说与交互式读写领域的统治性干预优势。

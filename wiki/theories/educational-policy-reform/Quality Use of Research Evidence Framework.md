@@ -11,7 +11,7 @@ aliases:
 summary: "由澳大利亚莫纳什大学 Q 项目提出的研究使用理论框架，将质量使用界定为对适切研究证据的审慎参与与实施，受个体、组织与系统多层使能构件协同支持，提炼出六大实践特征并广泛应用于学校实践与跨国政策生态诊断"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 60
+theory_related_count: 61
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -77,6 +77,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -372,7 +373,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — [[Monash Q Project|莫纳什 Q 项目]]旗舰成果，在[[OECD|经合组织]]（OECD）编著第九章系统阐释高质量[[Research Utilization|研究使用]]理论内核、六大特征、实证使能条件与四大系统进路。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 将 QURE [[Operationalization|操作化]]为跨国政策调查维度，实证检验了 29 国 37 个教育系统的组织中介角色、个体文化心智与研究使用形态。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 以 QURE 为理论基石确立强化教育[[Research Impact|研究影响力]]的五维宏观政策诊断模型（结构、关系、质量、文化、能力）。

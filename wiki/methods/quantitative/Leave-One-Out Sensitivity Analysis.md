@@ -11,7 +11,7 @@ summary: "元分析与统计建模中基于刀切法（Jackknife）原理的稳�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Fail-Safe N]]"
   - "[[Between-Study Variance]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Leave-One-Out Sensitivity Analysis
@@ -205,5 +206,5 @@ flowchart LR
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 在关于 AI [[AI Agent in Education|智能体]]促进 K-12 认知表现的[[Meta-analysis|元分析]]中，对 73 个[[Effect Size|效应量]]执行随机效应留一法敏感性分析，证实汇总效应量严格稳定在 [0.242, 0.567] [[Confidence Interval|置信区间]]内，确立了证据体系的高度抗扰动稳健性。

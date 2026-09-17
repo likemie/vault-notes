@@ -6,7 +6,7 @@ aliases:
 summary: "戏剧教育中的核心概念，指参与者在角色扮演中同时观察自己表现的能力，既是保护机制也是深化反思的关键手段。"
 type: concept
 domain: "curriculum"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Role-playing]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-09-17
 ---
 
 # Self-spectator
@@ -111,5 +112,5 @@ updated: 2026-08-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen, Manion & Morrison (2011, Ch. 26)]] — O'Sullivan 系统阐述了自观在[[Role-playing|角色扮演]]研究中的保护功能和激活条件，并以 [[Stanford Prison Experiment]] 作为自观失败的反面案例。

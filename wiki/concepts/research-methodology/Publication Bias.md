@@ -42,7 +42,7 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Creation of REES]]"
-  - "[[ESSA 2015 Evidence Standards]]"
+  - "[[Every Student Succeeds Act]]"
 related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
@@ -150,4 +150,4 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 结合[[Funnel Plot|漏斗图]]目视诊断与 Egger 线性回归检验（$t = 1.871, p = 0.066$）对生成式 AI 促进[[Higher-Order Thinking Skills|高阶思维]]的[[Meta-analysis|元分析]]证据池开展发表偏倚审计，确证了合并促学效应的发表稳健性。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022, p. 22)]] — 从复杂知识生态视角分析学术出版偏好对教育[[Cumulative Knowledge Base|累积性知识库]]构建的系统性阻滞与决策困境。
 > - [[Creation of REES]] — [[Preregistration|预注册]]制度被设计用于减少发表偏倚和选择性报告
-> - [[ESSA 2015 Evidence Standards]] — 要求采用有证据支持的项目，间接增加了开发者的发表偏倚激励
+> - [[Every Student Succeeds Act|ESSA 2015 Evidence Standards]] — 要求采用有证据支持的项目，间接增加了开发者的发表偏倚激励

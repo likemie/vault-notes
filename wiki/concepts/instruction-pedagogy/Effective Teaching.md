@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Hilbert Meyer]]"
@@ -231,7 +232,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 比较 Hattie、Meyer 与 Helmke 国际综合与丹麦 SFI 报告，系统论证有效教学核心质量的普适性及其受学生社会背景的调节。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 从循证改革与实施科学视角，批判抽象有效教学原则的实践困境，论证具体结构化方案对课堂质量提升的决定性支撑。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对比英美实证有效教学[[Paradigm|范式]]与欧陆经典教学论（[[Didaktik]]）的[[Epistemology|认识论]]差异。

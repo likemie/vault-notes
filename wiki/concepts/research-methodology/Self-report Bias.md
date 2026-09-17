@@ -10,7 +10,7 @@ aliases:
 summary: "受访者在自我报告或问卷自陈时，因社会期望、自我美化、记忆衰减或问题理解歧义而导致回答系统性偏离客观真实的测量偏差；在教育循证治理调查中常表现为部委对循证理念的高估与对一线学校实践阻力的掩盖。"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -51,6 +51,7 @@ related_methods:
   - "[[Rating Scale]]"
   - "[[Effect Size]]"
   - "[[Sensitive Questions]]"
+  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[Louis Cohen]]"
@@ -61,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-07-11
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Self-report Bias
@@ -258,7 +259,7 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d, pp. 262–265)]] — 系统阐明[[Survey Research|调查研究]]中自报偏差的三重机制（低报、高报、理解不一致）与回忆偏差，以及数据收集方式对偏差的调节作用。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 76–80, 93)]] — 在[[OECD|经合组织]] 29 国政策调查中深刻反思部委单一自陈调查的局限性，揭示部委自陈偏高掩盖基层学校阻力的方法论偏差，以及跨国文化基准[[Heterogeneity|异质性]]。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 通过对 568 名在职教师的心理测量学调查，实证揭示教师自陈科研态度（4.37）与实际使用行为（3.78）之间的知行断层与自报赞许效应。

@@ -8,7 +8,7 @@ aliases:
 summary: "教育创新倡导者与商业机构利用修辞框架、情感共鸣与权威承诺等策略推销缺乏严谨实证支撑的教育产品与干预方案的传播现象；它容易误导学校盲目跟风教育时尚，亟需教师确立批判性分析立场与研究素养加以甄别。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Julie Nelson]]"
   - "[[Carol Campbell]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Persuasive Communication in Education
@@ -151,6 +152,6 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 特刊导言深入评述 Carrier 研究，论证发展教师[[Analytical Stance|分析立场]]与批判性[[Research Literacy|研究素养]]的紧迫性。
 > - Nora Carrier (2017) — 《How educational ideas catch on: the persuasive communication strategies of innovation promoters》，奠基性实证研究。

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -74,12 +74,13 @@ related_methods:
   - "[[Participatory Research]]"
   - "[[Survey Research]]"
   - "[[Ethnography]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
   - "[[Multiple Regression]]"
   - "[[Experimental Research]]"
   - "[[Network Analysis]]"
   - "[[Ideology Critique]]"
   - "[[Case Study]]"
+  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
   - "[[Comparative Case Study]]"
@@ -95,6 +96,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[Research in Schools Evaluation]]"
 related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -289,14 +291,14 @@ updated: '2026-08-27'
 > | 收集对某一教育提案的意见 | [[Survey Research\|调查研究]] |
 > | 检验语言课程中的师生互动 | [[Ethnography\|人种志]]；观察研究 |
 > | 调查大学科学系的[[Organizational Culture\|组织文化]] | 人种志；[[Survey Research\|调查研究]] |
-> | 识别影响中学生学习动机的各因素相对强弱 | 调查；[[Observational and Correlational Research\|观察研究]]；[[Multiple Regression\|多元回归]]分析；结构方程模型 |
+> | 识别影响中学生学习动机的各因素相对强弱 | 调查；[[Observation Method\|观察研究]]；[[Multiple Regression\|多元回归]]分析；结构方程模型 |
 > | 比较两种音乐教学方法，看哪种产生最有效学习 | 比较研究；[[Experimental Research\|实验研究]]；因果研究 |
 > | 检验某项[[Homework\|家庭作业]]干预的效果 | 实验；行动研究；[[Causality\|因果]]研究 |
 > | 调查外语教师社区中的社交网络趋势 | [[Network Analysis\|网络分析]] |
 > | 识别大型中学教师对高级职员领导力的主要看法 | 个人[[Construct\|构念]]；叙述；调查 |
 > | 审查政府关于学校晋升标准的政策 | [[Ideology Critique\|意识形态批判]]；女性主义批判 |
 > | 检验大学为每个学生指派导师的效果 | 调查；[[Case Study\|案例研究]]；因果研究 |
-> | 检验早期学生辍学的长期影响 | 调查；因果或相关研究 |
+> | 检验早期学生辍学的长期影响 | 调查；因果或[[Correlational Research\|相关研究]] |
 > | 检验[[Grade Retention\|留级]]是否提高学生表现 | 调查；概化；因果或相关研究 |
 > | 记录对中学班级破坏性学生进行辅导的效果 | [[Case Study\|案例研究]]；因果或相关研究 |
 > | 比较[[Questionnaire\|问卷]]与面对面访谈在收集学生药物使用数据上的效果 | 工具检验；方法论研究 |
@@ -578,7 +580,7 @@ updated: '2026-08-27'
 ---
 
 > [!warning] 文献综述必须是形成性的
-> 一份合格的文献综述必须通向或衍生出（lead into, or give rise to）研究的**所有方面** 领域、课题、方法论、数据分析和未来研究启示。它不应是研究的附属品或独立章节，而是研究的有机组成部分。
+> 一份合格的文献综述必须通向或衍生出（lead into, or give [[Research in Schools Evaluation|RISE]] to）研究的**所有方面** 领域、课题、方法论、数据分析和未来研究启示。它不应是研究的附属品或独立章节，而是研究的有机组成部分。
 >
 > 文献综述应包含来自以下材料的及时信息：书籍、文章、报告、研究论文、报纸文章、会议论文、学位论文、综述、政府文件、数据库和互联网来源、一手和二手来源等。
 

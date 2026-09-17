@@ -10,9 +10,9 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 tags:
   - region/uk
@@ -38,6 +38,7 @@ related_methods:
   - "[[Covariate Adjustment]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Generalized Estimating Equations]]"
+  - "[[Correlational Research]]"
   - "[[Propensity Score Matching]]"
   - "[[Difference-in-Differences]]"
 related_instruments:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # National Pupil Database
@@ -110,6 +111,6 @@ updated: 2026-09-16
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详述国家学生数据库在避免自编测验偏倚、对冲[[Attrition|样本流失]]及支撑 [[Education Endowment Foundation|EEF]] 试验数据开放归档中的核心支柱角色。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 记录英国财政研究所如何依托 NPD 微观数据开展大样本[[Propensity Score Matching|倾向得分匹配]]与[[Difference-in-Differences|双重差分]]因果评估。

@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -38,7 +38,8 @@ related_concepts:
   - "[[Global Education Governing Complex]]"
 related_theories:
   - "[[Governing at a Distance]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Norberto Bottani]]"
 related_facts:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Education at a Glance
@@ -136,6 +137,6 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 运用科学知识社会学与 [[Science and Technology Studies|STS]] 视角深度剖析《教育概览》的生产史，揭示其如何通过技术抽象与施为性机制将不可比的各国学校现实建构为跨国可计算的治理空间。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 论证 1992 年《教育概览》作为全球北方确立“[[Governing by Numbers|数字治理]]”[[Paradigm|范式]]的制度里程碑，系统阐述其如何充当[[Global Education Governing Complex|全球教育治理复合体]]的核心[[Policy Brokerage|政策经纪]]工具，并直接孕育了 [[PISA]] 评价帝国。

@@ -8,7 +8,7 @@ summary: "整群抽样的延伸，从样本中再抽取样本的多层概率抽�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -22,6 +22,8 @@ related_theories: []
 related_methods:
   - "[[Cluster Sampling]]"
   - "[[Standard Error]]"
+  - "[[Hierarchical Linear Model]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -29,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-17
 ---
 # Stage Sampling
 
@@ -67,9 +69,9 @@ updated: 2026-06-22
 > [!method-limits] 方法局限
 > - **规模假定** 假定各阶段单位（如学校）规模大致相等，实践中未必成立。
 > - **累积误差** 每阶段抽样均引入[[Sampling Error|抽样误差]]，多阶段累积可能使最终[[Standard Error|标准误]]增大。
-> - **缓解方式** 在分析中使用多水平模型或调查加权方法校正。
+> - **缓解方式** 在分析中使用[[Hierarchical Linear Model|多水平模型]]或调查加权方法校正。
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍阶段抽样与 Morrison（1993）的操作实例。

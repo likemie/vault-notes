@@ -98,7 +98,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Correlational Research]]"
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
   - "[[Pre-test and Post-test]]"
@@ -591,7 +591,7 @@ Wecker 等人展示了正确加权如何改变效应量估计：
 > | 类型（例） | 比较基线的问题 | 排名含义 |
 > |-----------|--------------|---------|
 > | 制度框架条件（学校规模） | 无统一对照组，不同规模学校基线各异 | 不是教师可选择或改变的因素 |
-> | 个人特征（[[Self-concept\|自我概念]]） | [[Observational and Correlational Research\|相关研究]]为主，非[[Intervention Research\|干预研究]] | [[Causality\|因果]]方向可能反向——高成就带来高自我概念 |
+> | 个人特征（[[Self-concept\|自我概念]]） | [[Correlational Research\|相关研究]]为主，非[[Intervention Research\|干预研究]] | [[Causality\|因果]]方向可能反向——高成就带来高自我概念 |
 > | 综合教学项目（[[Direct Instruction\|直接教学]]） | 与"传统"课程比较——存在共同参照点 | 排名相对有意义：可比较基线下的项目比较 |
 > | 设计参数变体（集中 vs. 分散练习） | 同一干预的两种变体相互比较 | 与"选哪种教学法"属完全不同的决策类型 |
 

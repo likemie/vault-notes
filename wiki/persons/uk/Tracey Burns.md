@@ -7,7 +7,7 @@ summary: "加拿大裔英国籍经合组织资深分析师与教育知识治理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_theories:
 related_methods:
   - "[[Cohort Study]]"
   - "[[Systematic Review]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Tracey Burns
@@ -107,7 +108,7 @@ updated: 2026-09-15
 > - **政策路径** 通过 [[Centre for Educational Research and Innovation|OECD CERI]] 报告及国际政策咨询平台，直接影响欧盟、英国、北欧及加拿大等国政府建立或评估本国[[Educational Brokerage Agency|教育中介机构]]的政策决策；其 2007 年报告所确立的 6 家标杆中介机构成为[[International Education|国际教育]]治理比较研究的共同参照。
 > - **跨国传播** 2022 年与 Schuller 合著章节成为[[Evidence-Based Education|循证教育]]政策领域反思"技术官僚化"倾向与倡导"元中介协作"的重要理论资源，被后续 [[OECD]] 项目及各国[[Knowledge Mobilisation|知识动员]]研究广泛引用。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 系统论述了 2007–2022 年全球中介机构演进的三重变迁，以及通过"中介的中介"建构跨国[[Cumulative Knowledge Base|累积性知识库]]的行动路径。
 
 ---

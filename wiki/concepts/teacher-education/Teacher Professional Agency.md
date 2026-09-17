@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，是激发课堂活力与保障师资留任的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,17 +30,19 @@ related_concepts:
   - "[[Deficit Framing]]"
   - "[[Document]]"
 related_facts:
+  - "[[Teacher Choices]]"
   - "[[PISA]]"
   - "[[Estonian STEM Education Model]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-08-26
+updated: 2026-09-17
 ---
 
 # Teacher Professional Agency
@@ -82,7 +84,7 @@ updated: 2026-08-26
 > 严苛的微观进度规制严重打击教师职业[[Pride in Learning|自豪]]感，而在宽框架下赋予教学决策权能显著降低离职率。
 
 > [!claim] 赋权与留任正相关
-> 实证研究（Arthur & Bradley, 2022; Menzies et al., 2015）表明，在宽广课程框架下赋予科学教师选择教学法与设计探究的自主权，能够营造对师生双方均具高度激发性的课堂文化，是改善教师工作满意度并遏制紧缺师资[[Attrition|流失]]的最有效非物质激励。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
+> 实证研究（Arthur & Bradley, 2022; Menzies et al., 2015）表明，在宽广课程框架下赋予科学[[Teacher Choices|教师选择]]教学法与设计探究的自主权，能够营造对师生双方均具高度激发性的课堂文化，是改善教师工作满意度并遏制紧缺师资[[Attrition|流失]]的最有效非物质激励。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 
 ---
 
@@ -122,6 +124,6 @@ updated: 2026-08-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 强调必须通过赋予教师专业自主权与全周期学科进修，破解理化生与计算机专业师资短缺的顽疾。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — [[Systematic Review|系统综述]]把专业能动性置于跨层治理机制中：[[Institutional Distrust|制度性不信任]]压制能动性，[[Research Utilization|研究使用]]缺陷源于系统条件而非个体；主张以可持续结构培育能动性、从实施走向整合。

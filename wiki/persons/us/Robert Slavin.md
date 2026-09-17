@@ -51,6 +51,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Nancy Madden]]"
@@ -67,7 +68,6 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
-  - "[[ESSA 2015 Evidence Standards]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Comprehensive School Reform Program]]"
 related_arguments:
@@ -133,7 +133,7 @@ updated: 2026-09-17
 >   - **代表著作** 
 >     - Slavin, R. E. (2019). How evidence-based reform will transform research and practice in education. *Educational Psychologist*, 55(1), 1–13. [[Argument_Slavin_2019_EP|(Slavin, 2019)]]
 >     - Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? *ECNU Review of Education*, 4(1), 7–24. [[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021)]]
->   - **关键概念／方法** [[ESSA 2015 Evidence Standards]]、三条件框架（有效项目、可信审查、政策激励）。
+>   - **关键概念／方法** ESSA 2015 [[Evidence Standards]]、三条件框架（有效项目、可信审查、政策激励）。
 >   - **阶段特征** 坚定捍卫证据本位教育对公共决策的治理价值，强调 RCT 虽非全部，但绝不可被虚无主义否定。
 > - **2021 至今 — 方法论规程的长期学术遗产**
 >   - **核心影响** 其确立的 $d < 0.25$ 基线门槛和基准[[Effect Size|效应量]]认知（教育真实干预效应通常收敛于 $0.20–0.40$），成为 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 破解生成式 AI 元分析虚高估计的方法学中流砥柱。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 8, 15)]]
@@ -160,7 +160,7 @@ updated: 2026-09-17
 > - **政策路径** 直接促成了美国联邦两代教育法案（NCLB 2001 的“科学本位研究”要求与 ESSA 2015 的四级证据层级绑定），使数十亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 联邦学校改善拨款必须依据实证等级投放。
 > - **实践路径** 创办的 [[Success for All]] 惠及全美百万计的贫困与弱势学生；创建的 [[Best Evidence Encyclopedia|BEE]] 与 [[Evidence for ESSA]] 成为全美学区学监与校长采购教学方案的首选指南。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2002_ER|Slavin (2002)]] — 提出证据本位教育政策的核心纲领，论证开发-评估-推广[[Paradigm|范式]]对克服教育研究声誉危机的根本意义。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 荣获桑代克奖后的总结性论著，系统梳理 [[Every Student Succeeds Act|ESSA]] 时代[[Evidence-Based Reform|证据本位改革]]的三条件机制。
 > - [[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] — 针对中国学者对证据本位教育的质疑进行理论辨正，提出因果实证与质性理解相结合的开放态度。

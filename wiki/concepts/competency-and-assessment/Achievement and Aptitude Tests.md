@@ -11,7 +11,7 @@ aliases:
 summary: "两种按测量目标区分的测验：成就测验测量在特定内容领域已实现的表现，多为总结性；能力倾向测验预测未来表现潜力，测量更一般化的跨学科能力，但二者的区分在实践中存在大量重叠"
 type: concept
 domain: "competency-and-assessment"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,10 +22,12 @@ related_concepts:
   - "[[Construct]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
+related_methods:
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-07-26
+updated: 2026-09-17
 ---
 
 # Achievement and Aptitude Tests
@@ -96,5 +98,5 @@ updated: 2026-07-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.4 节在讨论商业出版测验时区分成就测验和能力倾向测验，引用 Cunningham（1998）、Gronlund（1985）和 Hanna（1993）

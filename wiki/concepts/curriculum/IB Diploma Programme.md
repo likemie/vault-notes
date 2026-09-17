@@ -9,7 +9,7 @@ aliases:
 summary: "IB 为 16–19 岁学生设计的两年制大学预科课程，由六学科组加 TOK、EE、CAS 三项核心要素组成，以显性批判性思维教学和跨学科整合为特色"
 type: concept
 domain: "curriculum"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Bruno Latour]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-08-03
+updated: 2026-09-17
 ---
 
 # IB Diploma Programme
@@ -126,6 +127,6 @@ Zemplén 进一步指出，TOK 的评估设计本身制造了三个相互嵌套�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]，检验澳大利亚 DP 中 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 [[Theory of Knowledge|TOK]] 课程为案例，揭示 DP 中批判性思维议程与科学教育议程之间的结构性冲突，指出 TOK 评估框架可能制造术语表演而非真正的批判性思维。

@@ -10,7 +10,7 @@ aliases:
 summary: "指公众自愿、直接参与科学研究全过程（如数据采集、模式分类、知觉测评、环境监测或课题共创）的协作科研与社会参与范式，兼具前沿科学突破、公众科学资本累积与社区生态治理的多维赋权价值。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,10 +42,11 @@ related_methods:
   - "[[Stratified Sampling]]"
   - "[[Participatory Research]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Citizen Science
@@ -200,5 +201,5 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 将公民科学确立为连接公众参与、社区行动与前沿科研的核心社会桥梁，构建涵盖项目成效、全国民意、基础设施与长期队列的四级评估框架，呼吁设立多年期专项资助与参与式科研伦理培训以打破体制壁垒。

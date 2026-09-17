@@ -9,7 +9,7 @@ subtype: event
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
+  - "[[Advanced Placement Program]]"
   - "[[Theory of Knowledge]]"
   - "[[Reflexivity]]"
   - "[[General Education]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Founding of the International Baccalaureate
@@ -59,7 +60,7 @@ updated: 2026-09-12
 > - **时间 / 地点** 1924–1970 年，以瑞士日内瓦为组织中心，并通过威尔士大西洋学院、英国牛津、法国塞夫尔及多国学校和大学形成跨国试验网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 15–31)]]
 > - **关键主体** 日内瓦[[International Schools|国际学校]]教师、[[International Schools Association|国际学校协会]]、[[International Schools Examination Syndicate|国际学校考试辛迪加]]／[[International Baccalaureate|国际文凭]]办公室、大西洋学院、牛津大学教育系、国际试验学校、基金会、大学与教育主管机关。
 > - **制度背景** 战前外侨学校通常按法国、英国、美国或其他国家体系分别办学；1945 年后国际学校和学生跨国流动增加，大学入学竞争又要求申请者精确准备国家课程与考试。
-> - **触发条件** [[International School of Geneva|日内瓦国际学校]]高中物理课曾按瑞士毕业会考、英国高级程度考试、法国中学毕业会考和美国大学先修课程分为四个小组。资源浪费、国家分隔和少数国籍学生缺少适合通道，使国际共同资格从理想转化为办学必需。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 16–17)]]
+> - **触发条件** [[International School of Geneva|日内瓦国际学校]]高中物理课曾按瑞士毕业会考、英国高级程度考试、法国中学毕业会考和美国[[Advanced Placement Program|大学先修课程]]分为四个小组。资源浪费、国家分隔和少数国籍学生缺少适合通道，使国际共同资格从理想转化为办学必需。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 16–17)]]
 
 ---
 
@@ -86,7 +87,7 @@ updated: 2026-09-12
 > | 安德烈·范·斯梅沃德（André van Smeevoorde） | 课程与考试设计者 | 与雷诺形成六学科组方案，随后担任语言科首任主考官，帮助法英课程传统进入共同考试结构。 | 是关键共同设计者，但不是整个项目的行政负责人。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–30)]] |
 > | [[John Goormaghtigh\|约翰·戈尔马蒂赫（John Goormaghtigh）]] | 组织奠基者 | 借助卡内基国际和平基金会欧洲中心的法律与国际网络，长期领导 [[International Schools Examination Syndicate\|ISES]]／IBO 理事会，使项目获得独立治理和连续性。 | 主要贡献在制度治理与国际协调，而不是原创课程方案。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 18–20)]] |
 > | [[Alec Peterson\|亚历克·皮特森（Alec Peterson）]] | 执行领导与制度整合者 | 1966–1967 年近一年全职领导项目，与汉森促成福特基金 300,000 美元资助，把课程、考试、试验学校、家庭风险、大学承认和持续资金整合为可检验方案。 | 他是把分散工作推向实施的核心领导者，但 IB 的设想、教师网络和部分课程结构均早于其全职介入。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 23–24)]] |
-> | 哈兰·“哈波”·汉森（Harlan “Harpo” Hanson） | 考试与筹资合作者 | 以美国大学理事会大学先修课程主管的经验补足考试专业和美国大学联系，并与彼得森促成福特基金支持。 | 属于关键支持与共同实施者，而非最早倡议者。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 21–24)]] |
+> | 哈兰·“哈波”·汉森（Harlan “Harpo” Hanson） | 考试与筹资合作者 | 以美国大学理事会[[Advanced Placement Program\|大学先修课程]]主管的经验补足考试专业和美国大学联系，并与彼得森促成福特基金支持。 | 属于关键支持与共同实施者，而非最早倡议者。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 21–24)]] |
 > | 德斯蒙德·科尔（Desmond Cole） | 跨大西洋与开放性设计者 | 代表联合国国际学校加入项目；1967 年提出在整体文凭之外颁发单科证书，防止 IB 学生在学校内部形成封闭精英群体。 | 贡献集中于项目开放性和北美参与，不等同于课程整体架构。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 22, 30)]] |
 > | 拉尔夫·泰勒（Ralph Tyler） | 试验设计者 | 1967 年提出自 1969 年开始、为期六年、每年最多 500 人并由大学和主管机关承认的行动研究方案。 | 他设计的是验证和扩展机制，而非最初课程理念。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 31)]] |
 

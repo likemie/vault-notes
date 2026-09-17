@@ -8,7 +8,7 @@ aliases:
 summary: "由 David DeVries 与 Keith Edwards（1973）开创、Robert Slavin 发展的经典合作-竞赛混合教学模式。该方法以同质能力竞赛台（Tournament Tables）替代传统纸笔测验，通过异质小组互助备考与能力均等同伴竞赛，实现低焦虑、高动机的学业掌握与团队赋能。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Teams-Games-Tournament
@@ -169,5 +170,5 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，将 TGT 明确纳入[[Cooperative Learning|合作学习]]经典技术体系，实证确立了结构化游戏与[[Peer-Supported Learning|同伴互助]]对学生[[Academic Achievement|学业成就]]与[[Student Attitude|学习态度]]的中等促进效应（$ES = 0.71$）。

@@ -8,7 +8,7 @@ aliases:
 summary: "Carl Schmitt 的主权理论，主权者的本质不在于制定规则而在于决定例外状态，即谁有权在紧急状态下悬置法律"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Attrition]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jiang Shigong]]"
 related_facts:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Schmittian Sovereignty
@@ -171,5 +172,5 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Vickers_2024_CE|Vickers (2024)]] — 深刻解构了北京宪法学者引入施米特主权观对香港基本法“高度自治”叙事的解构过程。

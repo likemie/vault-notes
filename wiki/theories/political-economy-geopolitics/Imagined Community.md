@@ -7,7 +7,7 @@ aliases:
 summary: "Anderson 提出的民族理论核心概念，主张民族是被想象的有边界和主权的政治共同体，成员虽互不相识却共享同属一个共同体的心理图像，依赖印刷资本主义与现代教育机器予以维持"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 6
+theory_related_count: 7
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[One Country, Two Systems]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-26'
-updated: '2026-07-22'
+updated: 2026-09-17
 ---
 
 # Imagined Community
@@ -161,5 +162,5 @@ updated: '2026-07-22'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用“想象的共同体”理论，实证对比了中国大陆与香港初中中国历史教科书中的领土型与族裔型民族想象。

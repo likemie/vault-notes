@@ -8,7 +8,7 @@ aliases:
 summary: "衡量个体认为知识是孤立、离散的事实片段，还是高度互联的复杂概念网络。构成了认识论理论中“知识的本质”维度的核心支柱，实证表明其是制约学生在劣构任务中开展反思性判断与获得优异学业成就的关键认知瓶颈。"
 type: concept
 domain: "educational-psychology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -45,7 +46,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Simplicity of Knowledge
@@ -168,6 +169,6 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 实证检验了中学生简单知识（SK）信念在不同[[Task Structure|任务结构]]下的预测力，发现 SK 显著负向制约劣构任务表现与[[Reflexivity|反思性]]判断，并揭示了其在不同[[Academic Achievement|学业成就]]群体中的阶梯分化。
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 系统评述了[[Epistemological Theories|认识论理论]]中知识简单性维度的概念内涵、发展阶段与心理加工机制。

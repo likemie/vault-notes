@@ -11,7 +11,7 @@ summary: "同时操纵两个或多个自变量以检验主效应与交互效应�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[True Experimental Design]]"
   - "[[Solomon Four-Group Design]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
@@ -65,7 +66,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 # Factorial Design
 
@@ -181,7 +182,7 @@ updated: 2026-09-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 探讨多臂与析因设计在全英大规模复杂教育干预评估中的机制剥离价值，援引“[[Literacy Octopus|识字八爪鱼]]”[[Multi-Arm Trial|多臂试验]]与 ABRA 在线阅读试验。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 以 $2 \times 4$ 混合因子设计为例，系统示范因子间主效应与[[Interaction Effect|交互效应]]的统计检验程序。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统阐释 $3 \times 3$ 因子设计的正交组合逻辑，并结合交互效应图示示范条件性[[Causality|因果推断]]。

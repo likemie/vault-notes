@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -59,7 +59,6 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Sound Partners]]"
   - "[[Every Student Succeeds Act]]"
-  - "[[ESSA 2015 Evidence Standards]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Evidence for ESSA]]"
   - "[[National Dropout Prevention Center]]"
@@ -108,7 +107,7 @@ updated: 2026-09-17
 > [!citation-card] 循证全班教学与干预响应层级衔接
 > 在《每个学生都成功法案》（[[Every Student Succeeds Act|ESSA]]）循证改革框架下，PALS 作为经[[Cluster Randomized Trials|整群随机试验]]证实有效的全班教学方案（Tier 1），能够在一年级阅读教学中取得显著学业增值（$ES = +0.58$），为学区落实分层干预提供了坚实的实证工具支撑。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
 >
-> *"Whole-class programs meeting [[ESSA 2015 Evidence Standards|ESSA Evidence Standards]], such as Peer-Assisted Learning Strategies (PALS) in first grade reading, demonstrate substantial positive impacts (ES = +0.58) within structured Tier 1 classroom instruction, providing effective alternatives to unproven remediation practices."*
+> *"Whole-class programs meeting ESSA [[Evidence Standards]], such as Peer-Assisted Learning Strategies (PALS) in first grade reading, demonstrate substantial positive impacts (ES = +0.58) within structured Tier 1 classroom instruction, providing effective alternatives to unproven remediation practices."*
 
 ---
 
@@ -148,9 +147,9 @@ updated: 2026-09-17
 > - **极高的实施性价比** 相比每年每校需耗资数万美元的全校性综合改革（CSR）方案，PALS 仅需少量耗材手册与短期教师培训，是全美投入产出比最高的循证教学策略之一。
 
 > [!stat-cards]- 关键实证数据
-> - **$+0.58$ 一年级阅读效应量** 经独立标准化测试验证的一年级阅读干预效应量（Slavin, 2019, p. 23）。
+> - **$+0.58$ 一年级阅读效应量** 经独立标准化测试验证的一年级阅读干预效应量（[[Argument_Slavin_2019_EP|Slavin, 2019, p. 23]]）。
 > - **$+0.20 \sim +0.35$ 跨学科平均增益** Fuchs 团队多中心试验中阅读流畅度与数学运算技能的稳定正向效应量区间。
-> - **5 家权威清算中心审查** 涵盖 [[National Dropout Prevention Center|NDPC]]、[[Blueprints for Healthy Youth Development|Blueprints]]、[[Best Evidence Encyclopedia|BEE]]、[[What Works Clearinghouse|WWC]] 与 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 的全方位循证审查（Wadhwa et al., 2024）。
+> - **5 家权威清算中心审查** 涵盖 [[National Dropout Prevention Center|NDPC]]、[[Blueprints for Healthy Youth Development|Blueprints]]、[[Best Evidence Encyclopedia|BEE]]、[[What Works Clearinghouse|WWC]] 与 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 的全方位循证审查（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]）。
 
 ---
 

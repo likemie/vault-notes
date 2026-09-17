@@ -10,7 +10,7 @@ aliases:
 summary: "国际文凭预科项目（IB DP）的三项必修核心要素之一，要求学生参与课堂之外的艺术创意、体育活动与社区服务体验，促进全人发展与体验式学习。"
 type: concept
 domain: "curriculum"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,7 +33,8 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Experiential Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Creativity, Action, Service
@@ -131,7 +132,7 @@ updated: 2026-09-08
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 追溯 CASS 从“保护非学术学习时间”的最低制度要求（Ch. 3），到莫希[[International Schools|国际学校]]结合坦桑尼亚自力更生原则形成社区服务（Ch. 4），再到 Bellaire 高中以学生自我组织强调责任和就业准备的本地化路径（Ch. 6）。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 分析 CAS 在 IB 课程架构中的定位及其与 [[Theory of Knowledge|TOK]] 的跨领域印证机制。
 > - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 探讨在 [[IB Diploma Programme|IBDP]] 中促进 CAS and TOK、EE 之间[[Concurrency of Learning|并发学习]]（Concurrency of Learning）的整合策略，主张通过[[Experiential Learning|经验学习]]将[[Epistemology|认识论]]思考转化为本地社区服务行动。

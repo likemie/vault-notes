@@ -9,7 +9,7 @@ aliases:
 summary: "涵盖问题分解、模式识别、抽象表征与算法设计等心智操作的问题解决能力体系，是从程序性技能向高阶认知进阶的基础枢纽。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
 related_instruments:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Computational Thinking
@@ -157,6 +158,6 @@ flowchart LR
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]][[Meta-analysis|元分析]]中将计算思维与代码调试作为关键认知[[Dependent Variable|因变量]]，证实结合反思量规的自适应[[Scaffolding|教学支架]]能有效提升中小学生的算法设计表现。
 > - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 在 AI 教育[[Meta-meta-analysis|二阶元分析]]中探讨计算机科学与算法思维教学的独特干预效应，证实计算机科学学科获得显著的促学收益（$ES = 0.72$）。

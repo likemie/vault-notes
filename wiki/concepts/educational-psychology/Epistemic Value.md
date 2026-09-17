@@ -6,7 +6,7 @@ aliases:
 summary: "在认识论认知模型中，个体对特定认识成就（如深层机制理解、理论建构或实操技巧）所赋予的相对主观价值与意义评估，决定了探究资源与认知努力的分配。"
 type: concept
 domain: "educational-psychology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,10 +29,11 @@ related_arguments:
   - "[[Argument_Chinn_2011_EP]]"
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # Epistemic Value
@@ -145,6 +146,6 @@ updated: 2026-09-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 将[[Epistemology|认识论]]价值作为[[Epistemic Cognition|认识论认知]]五构件之一，系统阐明其在成本收益权衡与学科文化差异中的理论功能。
 

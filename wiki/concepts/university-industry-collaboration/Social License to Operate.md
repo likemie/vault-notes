@@ -10,7 +10,7 @@ aliases:
 summary: "指大学及科研机构在法律法定办学资质之外，由周边社区、纳税人、政策制定者及广大公众基于对学术机构公共价值、透明伦理及社会贡献的认可而自发赋予的非正式、动态演变的社会信任与合法性契约"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Participatory Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Social License to Operate
@@ -176,6 +177,6 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026)]] — 将社会运营许可（Licence to Operate）正式确立为大学开展[[Public Engagement with Science|公众科学参与]]的核心制度动因，系统论证维系大学存续的六大基石，指出在财政紧缩与合法性争议时代公众参与是高校的战略性生命线投资。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 从[[Quasi-markets in Higher Education|高等教育准市场]]与社会契约变迁视角，分析英美大学在公共财政削减下重新界定公共合法性与多元利益相关者关系的机制。

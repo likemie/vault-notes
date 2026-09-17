@@ -79,6 +79,7 @@ related_methods:
   - "[[Moderator Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Funnel Plot]]"
+  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[Questionnaire]]"
 related_instruments:
@@ -86,6 +87,7 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[Cram Schools]]"
+  - "[[Education Resources Information Center]]"
   - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
@@ -103,7 +105,7 @@ title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -178,7 +180,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>PRISMA Systematic Review | 系统检索 9 个中英文数据库（韩文：DBpia, RISS, KISS, ScienceON；国际：Web of Science, Scopus, ERIC, PsycINFO, Google Scholar），初检 502 篇，去重后初筛 362 篇，全文审查 54 篇，最终纳入 18 项符合标准的 K-12 阶段实证研究（2001–2025 年）。 |
+> | **文献检索与筛选**<br>PRISMA Systematic Review | 系统检索 9 个中英文数据库（韩文：DBpia, RISS, KISS, ScienceON；国际：Web of Science, Scopus, [[Education Resources Information Center\|ERIC]], PsycINFO, Google Scholar），初检 502 篇，去重后初筛 362 篇，全文审查 54 篇，最终纳入 18 项符合标准的 K-12 阶段实证研究（2001–2025 年）。 |
 > | **数据编码与质量评估**<br>Coding Sheet & JBI Checklist | 依据标准化[[Qualitative Codebook\|编码手册]]提取 8 大类核心维度（学段、年级、性别、[[Epistemology\|认识论]][[Construct\|构念]]、学习成果类型、[[Domain Specificity\|领域特异性]]、学科科目、量表极性与[[Measurement Alignment\|测量对齐]]度）；采用修订版 Joanna Briggs Institute (JBI) 横断面量表评估偏倚风险（11 项高质量，7 项中等质量）。 |
 > | **三层方差分解与元回归**<br>[[Three-Level Meta-Analysis\|Three-Level Meta-Analysis]] | 基于 R 语言（v4.5.0）`metafor::rma.mv`，采用受限最大似然法（REML）估计三层随机效应模型，将 512 个效应量的方差分解为抽样误差（Level 1）、研究内变异（Level 2, $\tau_w^2$）与研究间变异（Level 3, $\tau_b^2$）；通过多元混合效应元回归检验 6 类分类调节变量。 |
 
@@ -325,7 +327,7 @@ issuing_organization: ""
 > [!contrast-table] 跨文化元分析效应量对比（东亚样本 vs 西方跨国样本）
 > | 元分析文献 | 样本地域与文化背景 | 纳入研究与效应量 | 综合效应量 $r$ | 核心结论与跨文化启示 |
 > |---|---|---|---|---|
-> | **|Song & Choi (2026)** | **韩国 K-12 阶段**（东亚高压应试/集体主义背景） | 18 项研究 / 512 个效应量 ($N=6,312$) | **$r = 0.191$** [0.119, 0.261] | 证实成熟[[Epistemological Beliefs\|认识论信念]]在东亚情境下同样对[[Academic Achievement\|学业成就]]、动机与自我调节产生实质性促进。 |
+> | **本研究（Song & Choi, 本篇）** | **韩国 K-12 阶段**（东亚高压应试/集体主义背景） | 18 项研究 / 512 个效应量 ($N=6,312$) | **$r = 0.191$** [0.119, 0.261] | 证实成熟[[Epistemological Beliefs\|认识论信念]]在东亚情境下同样对[[Academic Achievement\|学业成就]]、动机与自我调节产生实质性促进。 |
 > | **[[Argument_Greene_2018_JEP\|Greene et al. (2018)]]** | **西方跨国样本为主**（美、加、挪、德、土耳其等） | 132 项研究 / 752 个效应量 ($N=55,418$) | **$r = 0.162$** [0.135, 0.189] | 确立了国际学界认识论认知与学业成绩关联的实证基准。 |
 > | **Cartiff et al. (2021)** | **国际建构主义教学干预样本** | 19 项干预研究 / 63 个效应量 ($N=4,048$) | **$r = 0.198$** | 证实探究式教学与[[Metacognition\|元认知]]支架干预通过塑造认识论认知有效提升学业表现。 |
 
@@ -527,7 +529,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> 1. **因果推论局限** 纳入的 18 项研究绝大多数为横断面相关设计（仅 1 项准[[Experimental Research|实验研究]]），无法确立[[Epistemic Cognition|认识论认知]]对学习成果的时序因果效应或发展因果链。（p.1, p.14）
+> 1. **因果推论局限** 纳入的 18 项研究绝大多数为横断面[[Correlational Research|相关设计]]（仅 1 项准[[Experimental Research|实验研究]]），无法确立[[Epistemic Cognition|认识论认知]]对学习成果的时序因果效应或发展因果链。（p.1, p.14）
 > 2. **样本范围边界** 样本严格限定于韩国 K-12 阶段中小学生，未涵盖高等教育群体，结论向其他东亚社会或非西方国家的普适性推广需进一步实证检验。（p.1, p.14）
 > 3. **测量工具的自陈偏倚与权威二元化缺陷** 纳入研究高度依赖自陈式[[Questionnaire|问卷]]，且量表题项普遍将权威简化为“外在权威（朴素）vs. 内在经验（成熟）”的二元对立，未能充分反映现代多源信息与[[Generative Artificial Intelligence|生成式人工智能]]情境下多方求证、算法批判与人机协作的复杂[[Epistemology|认识论]]实践。（pp.13–15）
 

@@ -10,7 +10,7 @@ summary: "以迭代循环为核心的研究方法论：在真实教育情境中�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Random Assignment]]"
   - "[[Narrative Analysis]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # Design-Based Research
 
@@ -138,5 +139,5 @@ Design-Based Research Collective (2003, p. 8) 将其生成的知识概括为四�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍设计研究的起源（Brown, 1992）、核心特征、迭代循环、与传统实验的差异和局限性。

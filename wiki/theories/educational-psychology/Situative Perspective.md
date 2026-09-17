@@ -8,7 +8,7 @@ aliases:
 summary: "一种将学习和认知视为特定社会、文化与物理环境中持续进行的参与实践（participation in social practices），而非个体头脑内部脱域知识存储的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Lev Vygotsky]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-17
 ---
 
 # Situative Perspective
@@ -137,5 +138,5 @@ updated: 2026-08-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了情境主义与[[Constructivist Paradigm|建构主义]]在[[Epistemic Cognition|认识论认知]]领域的[[Ontology|本体论]]与方法论断层，并提出必须通过[[Integrative Pluralism|整合多元主义]]来同时利用两者的优势。

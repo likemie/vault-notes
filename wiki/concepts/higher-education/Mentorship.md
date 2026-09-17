@@ -7,7 +7,7 @@ aliases:
 summary: "更有经验者通过示范、辅导、支架与支持促进新手专业、认知和个人发展的过程，在科学精英传承与高阶思维教学干预中发挥核心催化作用"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Network Analysis]]"
+  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Mentorship
@@ -188,6 +189,6 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sandrone_2025_MEO|Sandrone (2025)]] — 基于 208 篇诺贝尔医学奖演讲与学术家族树[[Network Analysis|网络分析]]，系统揭示导师制在科学精英培养中的决定性地位与致谢缺失现象。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项[[Experimental Research|实验研究]]，定量确立导师指导在三维复合教学策略（A+D+M）中发挥关键认知催化功能（$g+ = 0.57$）。

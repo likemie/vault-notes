@@ -10,7 +10,7 @@ summary: "由 Matthias Egger 等人（1997）提出的参数化发表偏倚与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Fail-Safe N]]"
   - "[[Trim and Fill Method]]"
+  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
 related_instruments: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Egger Regression Test
@@ -124,7 +125,7 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，采用经典 Egger 线性回归（$t = 2.08, p = .05$）检验[[Cooperative Learning|合作学习]]对学习产出的干预效应偏倚。
 > - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] — 二阶[[Meta-analysis|元分析]]，运用经典 Egger 回归（$t(45) = 5.53, p < .001$）对高等教育 PBL [[Experimental Research|实验研究]]进行偏倚敏感性检验。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — [[Three-Level Meta-Analysis|三水平元分析]]，采用经典 Egger 回归（$t(149) = 0.29, p = 0.771$）结合等高线增强[[Funnel Plot|漏斗图]]，检验[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]相关的[[Publication Bias|发表偏倚]]。

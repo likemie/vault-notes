@@ -8,7 +8,7 @@ aliases:
 summary: "在教育心理学实证研究中，测量工具与结果变量在特异性颗粒度及学科情境维度上的严格对应匹配，是避免效应量人为衰减的核心方法论法则。"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
 related_theories:
@@ -49,7 +50,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-17
 ---
 
 # Measurement Alignment
@@ -164,5 +165,5 @@ updated: 2026-08-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 系统检验了特异性颗粒度与学科领域双重对齐对[[Academic Achievement|学业成绩]]预测力的调节作用，确立了测量对齐的方法论法则。

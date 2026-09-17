@@ -8,7 +8,7 @@ aliases:
 summary: "教学材料中添加有趣但与核心目标无关的视听装饰元素，导致学习者注意力分散并损害深层理解的认知负荷效应"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_theories:
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Seductive Details Effect
@@ -121,5 +122,5 @@ flowchart TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 在[[Meta-analysis|元分析]]中将诱人细节效应作为解释基础教育不同学段学生利用可视化工具获益差异的核心理论机制。

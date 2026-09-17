@@ -6,7 +6,7 @@ aliases:
 summary: "一种以多种思维方式及其迁移能力界定教育广度的课程理念，用于协调知识范围、学科学习深度与共同教育经验。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Creativity, Action, Service]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-17
 ---
 
 # General Education
@@ -178,6 +179,6 @@ updated: 2026-08-23
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 追踪欧洲和北美通识教育的制度分化，并说明多种思维方式如何进入[[International Baccalaureate|国际文凭]]的学科分布、课程核心和评价设计。
 

@@ -13,7 +13,7 @@ aliases:
 summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系及其对分析信效度的制约机制"
 type: concept
 domain: "research-methodology"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -58,6 +58,7 @@ related_methods:
   - "[[Qualitative Computer Software]]"
   - "[[Pilot Testing]]"
   - "[[Domain Analysis]]"
+  - "[[Correlational Research]]"
   - "[[Mixed Methods Research]]"
 related_instruments: []
 related_persons:
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Unit of Analysis
@@ -277,7 +278,7 @@ updated: 2026-09-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 31)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题，论述从个体/机构原子切片走向围绕奇异吸引子的生态共生网络。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 规范[[Qualitative Research|质性研究]]与[[Mixed Methods Research|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。

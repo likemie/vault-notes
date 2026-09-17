@@ -8,7 +8,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 52
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -60,6 +60,7 @@ related_methods:
   - "[[Progressive Focussing]]"
   - "[[Member Checking]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
   - "[[Focus Group]]"
   - "[[Qualitative Codebook]]"
 related_persons: []
@@ -77,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # In-depth Interview
@@ -211,7 +212,7 @@ updated: 2026-09-14
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 精英大学学生出路分化，两阶段 62 名毕业生，每次 2.5–3.5 小时，累计 150 万字，通过深度访谈重建学生意义世界。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 四所 NSW 学校 ToK 课程实施研究，22 次教师访谈（40 分钟/人）、8 组学生[[Focus Group|焦点小组]]。
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — [[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]][[Space Production|高等教育空间生产]]，39 名教师（30 名关键节点），四城，2023 年。

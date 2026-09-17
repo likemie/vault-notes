@@ -9,7 +9,7 @@ aliases:
 summary: "一种以连续提问、界定术语、检验假设与暴露内在矛盾为核心的引导式教学对话策略，通过认知脚手架促进学习者自主发现真理并发展批判性思维。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Socratic Dialogue
@@ -148,7 +149,7 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，定量评估[[Socrates|苏格拉底]][[Dialogue in Education|对话]]作为具体对话子策略（$k=8, g+=0.27$）对学生[[Critical Thinking|批判性思维]]的干预效果。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 阐述对话在克服储蓄式灌输、建立批判性共同探究中的哲学与教学机制。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 分析苏格拉底式提问引导在西方文化母子学习对话与心智启蒙中的体现。

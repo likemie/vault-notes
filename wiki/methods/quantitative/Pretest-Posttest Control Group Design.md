@@ -9,7 +9,7 @@ summary: "最经典的真实验设计，随机分配参与者至实验组和控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -37,12 +37,13 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Sample Size Determination]]"
   - "[[Experimental Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # Pretest-Posttest Control Group Design
 
@@ -109,6 +110,6 @@ $$\text{因果效应} = (O_2 - O_1) - (O_4 - O_3)$$
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 将前[[Pre-test and Post-test|后测]]控制组设计列为[[True Experimental Design|真实验设计]]的基本形式，以 Campbell & Stanley 符号系统表示。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Bhadwal & Panda (1991) 印度农村阅读研究为例，展示前后测控制组加两个控制组的扩展设计。

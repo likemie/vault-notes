@@ -30,9 +30,9 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Every Student Succeeds Act]]"
   - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
-  - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
 confidence: medium
@@ -43,7 +43,7 @@ updated: 2026-09-14
 ## 背景
 
 > [!info] 背景
-> 在 2010 年代"复制危机"（replication crisis）和"可疑研究实践"（questionable research practices）受到广泛关注的背景下，教育研究界开始寻求结构性解决方案。[[Publication Bias|发表偏倚]]、选择性报告和[[Researcher Degrees of Freedom|研究者自由度]]被认为是导致教育项目评估[[Document|文献]]系统性高估干预效果的关键因素。2015 年 ESSA 通过后，联邦拨款与项目有效性证据的绑定进一步提高了评估结果的经济利害关系，加剧了偏倚风险。([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 443]])
+> 在 2010 年代"复制危机"（replication crisis）和"可疑研究实践"（questionable research practices）受到广泛关注的背景下，教育研究界开始寻求结构性解决方案。[[Publication Bias|发表偏倚]]、选择性报告和[[Researcher Degrees of Freedom|研究者自由度]]被认为是导致教育项目评估[[Document|文献]]系统性高估干预效果的关键因素。2015 年 [[Every Student Succeeds Act|ESSA]] 通过后，联邦拨款与项目有效性证据的绑定进一步提高了评估结果的经济利害关系，加剧了偏倚风险。([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 443]])
 
 ## 经过
 
@@ -84,5 +84,5 @@ updated: 2026-09-14
 > [!example] 相关概念／政策
 > - [[Preregistration]] — REES 是预注册在教育项目评估中的制度化实现
 > - [[Developer Effect]] — REES 被提出作为缓解开发者效应的关键机制
-> - [[ESSA 2015 Evidence Standards]] — ESSA 提高评估结果的经济利害关系，反向增加了对 REES 类机制的需求
+> - [[Every Student Succeeds Act|ESSA 2015 Evidence Standards]] — ESSA 提高评估结果的经济利害关系，反向增加了对 REES 类机制的需求
 

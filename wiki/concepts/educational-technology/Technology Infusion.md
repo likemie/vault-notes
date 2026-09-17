@@ -28,7 +28,7 @@ related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Azione LIM]]"
-  - "[[ESSA 2015 Evidence Standards]]"
+  - "[[Every Student Succeeds Act]]"
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
@@ -86,5 +86,5 @@ updated: 2026-09-16
 
 ### 证据政策环境
 
-- [[ESSA 2015 Evidence Standards]] — 使学校和学区更重视有严格证据支持的教育项目，也使技术融入这类复杂改革面临“如何证明有效”的压力([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.109-113]])。
+- [[Every Student Succeeds Act|ESSA 2015 Evidence Standards]] — 使学校和学区更重视有严格证据支持的教育项目，也使技术融入这类复杂改革面临“如何证明有效”的压力([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.109-113]])。
 

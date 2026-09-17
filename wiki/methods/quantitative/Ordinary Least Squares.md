@@ -11,7 +11,7 @@ summary: "线性回归参数估计的最经典基准模型，通过最小化观�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -63,6 +63,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Simple Difference in Means Model]]"
   - "[[Analysis of Variance]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Steve Higgins]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Ordinary Least Squares
@@ -253,5 +254,5 @@ updated: 2026-09-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）、[[Steve Higgins|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）利用英格兰 NPD 数据开展的 17 项试验复算，证实了基线[[Pre-test and Post-test|前测]] OLS 回归在方差吸收与功效提升方面的核心价值，同时也警示了未校正聚类结构的 OLS 会诱发严重的[[Standard Error|标准误]]低估与伪显著性，促成了英国试验统计指南的确立。

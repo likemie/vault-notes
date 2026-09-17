@@ -9,7 +9,7 @@ aliases:
 summary: "由罗伯特·斯莱文等学者针对教育干预短期效应衰减提出的政策与教学假说，主张克服脉冲式单一干预的局限性，在学前至高中全学段连年推行经过实证检验的高质量教学模式，通过连贯干预剂量的逐年叠加实现学生学业优势的终身稳固累积。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -147,7 +148,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统提出累积剂量原则，作为从根本上反驳循证干预短期衰减批评的核心理论支柱。
 > - [[Fade-out Effect]] — 效应衰减主条目，记录短期因果干预效果随时间衰减的实证现象与理论解释。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过在 [[Response to Intervention|RTI]] 各层级刚性填充经验证方案以保障累积剂量的落实。

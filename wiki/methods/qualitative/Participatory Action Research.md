@@ -7,7 +7,7 @@ summary: "行动研究的政治化版本，以集体参与、赋权和解放为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Case Study]]"
   - "[[Emancipatory Action Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Paulo Freire]]"
@@ -42,7 +43,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-18
-updated: 2026-07-19
+updated: 2026-09-17
 ---
 # Participatory Action Research
 
@@ -191,5 +192,5 @@ PAR 不要求所有参与者做同样的事。这为研究者保留了促进者�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 系统介绍 PAR 的定义、McTaggart 十六信条、Torres 五项原则、与[[Critical Theory|批判理论]]和[[Paulo Freire|弗莱雷]]的关联、区分性特征（方法论/结果/关注领域三维度），以及与一般[[Action Research|行动研究]]的系统对比。

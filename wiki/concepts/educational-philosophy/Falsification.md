@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在教育研究中既驱动了比较假说的实证化转型，又因方法论简化与不完全决定性引发广泛反思"
 type: concept
 domain: "educational-philosophy"
-related_count: 42
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Karl Popper]]"
@@ -61,7 +62,8 @@ related_persons:
   - "[[Edmund King]]"
   - "[[Andreas Kazamias]]"
   - "[[Crane Brinton]]"
-related_facts: []
+related_facts:
+  - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Falsification
@@ -92,7 +94,7 @@ updated: 2026-09-11
 > [!citation-card] 科学理论的可证伪性与严格检验标准
 > 有效的经验理论应当明确阐述自身的验证与证伪条件，识别严格检验（Severe Test）的操作性质。科学理论不仅要在生成它的情境中获得初步印证，更必须在与产生情境截然不同的异质语境中接受严苛的反驳性检验。若一个陈述对所有可能发生的事态都保持兼容，它便无法为我们提供关于现实世界的任何具体经验信息。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]]
 >
-> *A characteristic of an effective empirical theory is falsifiability and verifiability: it clarifies the conditions under which it can be verified or falsified and identifies the nature and operation of a 'severe test'... hypotheses must be capable of being tested in contexts different from those which gave rise to them.*
+> *A characteristic of an effective empirical theory is falsifiability and verifiability: it clarifies the conditions under which it can be verified or falsified and identifies the nature and operation of a 'severe test'... hypotheses must be capable of being tested in contexts different from those which gave [[Research in Schools Evaluation|RISE]] to them.*
 
 > [!citation-card] 霍姆斯论[[Problem Approach|问题法]]中的可反驳假说与情境预测
 > 在比较教育的问题解决法中，研究者在完成具体问题分析与初始情境评估后，必须提出最能解决该问题的假说即政策方案；该假说必须是暂定的、特定于具体问题与特定情境的，且必须具备可反驳性（Refutable Hypotheses），唯有通过将从假说中逻辑演绎出的预期结果与政策实施的实际后果进行经验对比，假说才能接受严苛的证伪检验并暂时获得社会学法则的地位。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 63, 67)]]
@@ -272,7 +274,7 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书的哲学基础章节中系统阐述证伪主义作为[[Postpositivism|后实证主义范式]]的基石概念，详细界定严格检验与推测反驳循环。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 考掘战后比较教育学中霍姆斯如何引入波普尔假说-演绎法与可反驳假说，探讨预测划界标准引发的学术大论战。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|知识论]]（TOK）教科书为经验案例，剖析证伪主义在[[Critical Thinking|批判性思维]]教学中被教条化和简化的结构性困境，提出以不完全决定性和纽拉特[[Positivism|实证主义]]作为替代教学起点。

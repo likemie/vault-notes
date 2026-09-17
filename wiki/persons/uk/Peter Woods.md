@@ -8,7 +8,7 @@ summary: "英国教育社会学家，开放大学荣休教授，微观课堂民�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Participant Observation]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Peter Woods
@@ -118,7 +119,7 @@ updated: 2026-09-11
 > - **方法路径** 确立[[Participant Observation|参与观察]]、[[Rich and Thick Description|深描]]与生活史叙事在教育研究中的合法性，打破[[Flanders Interaction Analysis Categories|弗兰德斯互动分析系统]]（FIAC）等量化行为[[Coding in Qualitative Research|编码]]系统的垄断。
 > - **实践路径** 启迪教师理解学生“无聊”、“打趣”与“胡闹”背后的心理动机与生存诉求，为民主化[[Classroom Management|课堂管理]]与师生沟通提供反思视角。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用伍兹阐发的符号互动论三大公设、课堂微观生存策略与以互动为单位的方法论纲领。
 
 ---

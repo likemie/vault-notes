@@ -16,7 +16,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Norberto Bottani]]"
   - "[[Jarl Bengtsson]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # International Indicators of Education Systems
@@ -171,6 +172,6 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 运用科学与技术研究（[[Science and Technology Studies|STS]]）分析 INES 与《[[Education at a Glance|教育概览]]》的诞生档案，详尽解构指标研发中科学家与政策制定者在塞默灵、卢加诺会议上的权力博弈与[[Knowledge Production|知识生产]]机制。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 从[[Global Education Governing Complex|全球教育治理复合体]]历时演变切入，论证 1980 年代美国《国家处在危险之中》如何促成[[OECD|经合组织]]启动 INES，进而完成从粗放人力预测向跨国数据治理的历史跨越。

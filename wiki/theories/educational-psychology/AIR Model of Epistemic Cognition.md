@@ -8,7 +8,7 @@ aliases:
 summary: "当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
   - "[[Blinding]]"
+  - "[[Correlational Research]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Clark A. Chinn]]"
@@ -61,7 +62,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # AIR Model of Epistemic Cognition
@@ -152,6 +153,6 @@ updated: 2026-09-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将 AIR 模型系统拓展至科学论证质量的评估中，提供了书面论证与口头[[Discourse Analysis|话语分析]]的实证范例。
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — AIR 模型的理论奠基性[[Document|文献]]，提出扩展的[[Epistemic Cognition|认识论认知]]五组件[[Analytic Framework|分析框架]]。

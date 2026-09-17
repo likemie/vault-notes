@@ -5,7 +5,7 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
   - "[[John Hattie]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Scientism
@@ -225,7 +226,7 @@ updated: 2026-09-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 在经典研究方法教科书中系统梳理了法兰克福学派[[Jürgen Habermas|哈贝马斯]]与霍克海默、克尔凯郭尔、扬斯及维特根斯坦对科学主义与量化迷思的批判脉络。
 > - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 以[[John Hattie|哈蒂]]的可见学习为典型案例，解构了当代教育治理中测量中心主义科学主义的意识话语机制与政策后果。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]][[Disciplina and Doctrina|规训]]。

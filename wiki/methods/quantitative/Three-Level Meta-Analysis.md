@@ -10,9 +10,9 @@ summary: "处理同一原始研究内报告多个相关效应量所致统计依�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 41
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - meta-analysis
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Problem Solving]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Effect Size]]"
   - "[[Between-Study Variance]]"
   - "[[Confidence Interval]]"
@@ -50,7 +51,6 @@ related_methods:
   - "[[Robust Variance Estimation]]"
   - "[[Funnel Plot]]"
   - "[[Systematic Review]]"
-  - "[[PRISMA]]"
   - "[[Qualitative Codebook]]"
   - "[[Effect Size Conversion]]"
   - "[[Sample Size Determination]]"
@@ -58,14 +58,17 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Standard Error]]"
   - "[[Moderator Analysis]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Song_Choi_2026_FPSYG]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Guo_2025_TSC]]"
+related_instruments:
+  - "[[PRISMA]]"
 confidence: high
 status: draft
 created: 2026-08-20
-updated: 2026-09-02
+updated: 2026-09-17
 ---
 
 # Three-Level Meta-Analysis
@@ -75,7 +78,7 @@ updated: 2026-09-02
 ## 定义
 
 > [!def] 方法定义
-> 三层[[Meta-analysis|元分析]]（Three-Level Meta-Analysis）是将多层线性模型（Multilevel Linear Modeling）扩展应用于元分析的量化合成方法，专门用于解决单项原始研究报告多个相关[[Effect Size|效应量]]时产生的统计依赖性（Statistical Dependence）问题。该方法将观察到的总变异解构为三个层级：第一层为效应量层面的[[Sampling Error|抽样误差]]方差（Sampling Variance），第二层为同一研究内部不同效应量之间的研究内方差（Within-Study Variance），第三层为不同研究之间的[[Between-Study Variance|研究间方差]]（Between-Study Variance）。[[Argument_Song_Choi_2026_FPSYG|(Song & Choi, 2026, pp. 4–5)]]
+> 三层[[Meta-analysis|元分析]]（Three-Level Meta-Analysis）是将[[Hierarchical Linear Model|多层线性模型]]（Multilevel Linear Modeling）扩展应用于元分析的量化合成方法，专门用于解决单项原始研究报告多个相关[[Effect Size|效应量]]时产生的统计依赖性（Statistical Dependence）问题。该方法将观察到的总变异解构为三个层级：第一层为效应量层面的[[Sampling Error|抽样误差]]方差（Sampling Variance），第二层为同一研究内部不同效应量之间的研究内方差（Within-Study Variance），第三层为不同研究之间的[[Between-Study Variance|研究间方差]]（Between-Study Variance）。[[Argument_Song_Choi_2026_FPSYG|(Song & Choi, 2026, pp. 4–5)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含多个非独立效应量的实证研究[[Document|文献]]集（如同一研究报告多个[[Dependent Variable|结果变量]]、子样本、[[Construct|构念]]维度或测量时间点）。
@@ -122,7 +125,7 @@ updated: 2026-09-02
 > - **数据结构** 嵌套数据结构（Nested Data），多个效应量 $i$ 嵌套于独立研究 $j$ 中。
 > - **样本与单位** 纳入研究数 $k$、效应量总数 $m$ 以及总受试者人数 $N$。
 > - **变量或指标** 效应量 $y_{ij}$（如 Fisher\'s $z$）、已知抽样方差 $v_{ij}$、各层调节变量 $X_{ij}$（如学段、[[Construct|构念]]类型、[[Measurement Alignment|测量对齐]]度）。
-> - **模型或统计量** 三层随机效应多层线性模型、固定效应回归系数、限制性最大似然方差分量 $\tau_{(2)}^2$ 与 $\tau_{(3)}^2$。
+> - **模型或统计量** 三层随机效应[[Hierarchical Linear Model|多层线性模型]]、固定效应回归系数、限制性最大似然方差分量 $\tau_{(2)}^2$ 与 $\tau_{(3)}^2$。
 > - **诊断与检验** $Q$ 统计量检验总异质性、似然比检验（LRT）对比二层与三层模型拟合、标准化残差 $|z| > 3.29$ 异常值检验。
 
 > [!formula-step] 公式步骤　三层[[Fixed-Effect and Random-Effects Models|随机效应模型]]
@@ -194,7 +197,7 @@ updated: 2026-09-02
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用三层[[Meta-analysis|元分析]]模型分析了嵌套在 18 项研究中的 512 个[[Effect Size|效应量]]，妥善处理了单个研究同时报告多个[[Epistemology|认识论]][[Construct|构念]]与学习成果指标所造成的统计依赖性。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 对嵌套在 29 项研究中的 51 个相关系数采用三层随机效应[[Meta-analysis|元分析]]，将方差分解为[[Sampling Error|抽样误差]]、研究内与研究间三层，处理同一研究报告多个测量组合[[Effect Size|效应量]]造成的统计依赖性。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 对 2000–2024 年间 29 项实证研究中的 109 个效应量采用多层[[Fixed-Effect and Random-Effects Models|随机效应模型]]（Hedges' $g$），检验[[Creativity Training|创造力训练]]对大学生[[Divergent Thinking|发散思维]]、言语、图形、词汇及[[Problem Solving|问题解决]]等维度的促进效应及时间与干预类型的调节作用。

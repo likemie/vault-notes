@@ -12,7 +12,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Test-Retest Reliability]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # SPECTRUM
@@ -142,7 +143,7 @@ updated: 2026-09-16
 > - **政策与机构治理** 推动 [[Education Endowment Foundation|EEF]] 形成“认知学业测验”与“非认知心理量表”双轮驱动的标准化测量治理体系。
 > - **国际推广** 为美国 [[Institute of Education Sciences|IES]]、澳大利亚 E4L 等国际证据机构在制定[[Social-Emotional Learning|社会情感学习]]（SEL）与心理韧性评估标准时提供了可直接复用的系统性[[Document|文献]]与分级指标。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 总结 EEF 前八年实践经验，将 SPECTRUM 工具库的建立作为证据资助机构前置防范测量效度危机、节约数百万英镑成本的标志性成果。
 
 ---

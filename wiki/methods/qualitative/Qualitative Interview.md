@@ -8,7 +8,7 @@ summary: "与参与者进行开放式对话以理解其主观经验和意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Field Notes]]"
   - "[[Probes]]"
+  - "[[Correlational Research]]"
   - "[[Semi-structured Interview]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-07-22
+updated: 2026-09-17
 ---
 
 # Qualitative Interview
@@ -216,7 +217,7 @@ Kvale（1996, p. 88）提出访谈调查的七个阶段（[[Argument_Cohen_Manio
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统介绍[[Interview Protocol|访谈协议]]、追问策略和质性访谈实施要点。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 全面覆盖访谈类型、规划、实施、分析及伦理。
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|ODwyer et al. (2023)]] — [[University-Industry Collaboration|产学合作]]网络演化，10 次[[Semi-structured Interview|半结构化访谈]]，10 家跨国企业 + 8 所学术机构。

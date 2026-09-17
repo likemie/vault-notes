@@ -9,7 +9,7 @@ summary: "中国教育家，哥伦比亚大学师范学院毕业，杜威在华�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Pragmatism in China]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Jiang Menglin]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Tao Xingzhi
@@ -121,7 +122,7 @@ updated: 2026-09-11
 > - **实践路径** 创办晓庄乡村师范，推动民国平民教育与乡村建设运动。
 > - **1980年代[[Revoicing|话语重构]]** 1980年代初中国学术界通过“重新评价陶行知批判性吸收[[John Dewey|杜威]]”间接解封了杜威思想的合法性，并为邓小平四个现代化提供了教育话语支撑。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.84–86]]）
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 详细分析了陶行知《新教育评论》时代推行[[Scientific Attitude|科学态度]]的[[Paradigm|范式]]转向。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 揭示了陶行知对“衣食主义”的批评，以及1980年代陶行知研究如何成为解封杜威与支持四个现代化的契机。
 

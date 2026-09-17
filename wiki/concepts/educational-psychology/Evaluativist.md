@@ -6,7 +6,7 @@ aliases:
 summary: "认识论模型中的最高层级，认为知识虽由主观建构，但可以通过论证与证据的客观标准进行优劣评估。"
 type: concept
 domain: "educational-psychology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Areas of Knowledge]]"
 related_theories:
   - "[[Argumentative Reasoning]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Deanna Kuhn]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-09-17
 ---
 
 # Evaluativist
@@ -121,6 +122,6 @@ updated: 2026-08-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 将 Kuhn（1991）[[Argumentative Reasoning|论辩推理]]模型中的评价论者描述为超越绝对论盲从与多元论虚无、能基于相对优劣评估专家专长与知识主张的终极立场。
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 将评价论定位为最难达成的[[Epistemology|认识论]]巅峰，实证揭示了其在不同[[Areas of Knowledge|知识领域]]的达成顺序呈反转态势，并强力验证了专业教育介入的关键作用。

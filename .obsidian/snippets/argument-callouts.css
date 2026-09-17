@@ -12456,18 +12456,20 @@
 
 /* ── [!dev-timeline] 带编号卡片轨道 ── */
 .callout[data-callout="dev-timeline"] {
-  --timeline-rgb: 115, 80, 50;
+  --timeline-rgb: 155, 103, 44;
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ul {
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) {
   position: relative;
-  margin: 0;
+  margin: 0.5rem 0 0.2rem;
   padding: 0.2rem 0 0.1rem 2.9rem;
-  list-style: none;
+  list-style: none !important;
   counter-reset: dev-phase;
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ul::before {
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol)::before {
+  content: "";
+  position: absolute;
   left: 1.13rem;
   top: 0.65rem;
   bottom: 0.95rem;
@@ -12480,64 +12482,137 @@
   );
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ul > li {
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li {
   counter-increment: dev-phase;
   position: relative;
-  margin: 0 0 0.82rem;
-  padding: 0.72rem 0.9rem 0.78rem;
-  border: 1px solid rgba(var(--timeline-rgb), 0.15);
-  border-left: 3px solid rgba(var(--timeline-rgb), 0.48);
+  margin: 0 0 0.95rem;
+  padding: 0.78rem 1.05rem 0.82rem;
+  border: 1px solid rgba(var(--timeline-rgb), 0.18);
+  border-left: 3.5px solid rgba(var(--timeline-rgb), 0.58);
   border-radius: 9px;
   background: rgba(var(--timeline-rgb), 0.05);
-  transition: background 0.14s ease;
+  transition: all 0.18s ease;
+  list-style: none !important;
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ul > li:hover {
-  background: rgba(var(--timeline-rgb), 0.08);
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li::marker,
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > .list-bullet {
+  display: none !important;
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ul > li::before {
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li:hover {
+  background: rgba(var(--timeline-rgb), 0.09);
+  border-color: rgba(var(--timeline-rgb), 0.32);
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li::before {
   content: counter(dev-phase);
+  position: absolute;
   left: -2.28rem;
   top: 0.82rem;
-  width: 1.15rem;
-  height: 1.15rem;
+  width: 1.22rem;
+  height: 1.22rem;
   border: 2.5px solid var(--background-primary);
   border-radius: 999px;
   background: rgb(var(--timeline-rgb));
   color: #fff;
   font-size: var(--fs-label);
   font-weight: 760;
-  line-height: 1.15rem;
+  line-height: 1.22rem;
   text-align: center;
   box-shadow:
     0 0 0 2px rgba(var(--timeline-rgb), 0.38),
     0 0 0 5px rgba(var(--timeline-rgb), 0.09);
+  z-index: 1;
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ul > li::after {
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li::after {
   content: "";
   position: absolute;
   left: -1.18rem;
-  top: 1.38rem;
-  width: 1.12rem;
+  top: 1.42rem;
+  width: 1.15rem;
   height: 1.5px;
   background: rgba(var(--timeline-rgb), 0.42);
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ul > li:last-child::before {
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li:last-child::before {
   background: var(--background-primary);
   color: rgb(var(--timeline-rgb));
+  border-color: rgb(var(--timeline-rgb));
   box-shadow:
     0 0 0 2px rgba(var(--timeline-rgb), 0.35),
     0 0 0 5px rgba(var(--timeline-rgb), 0.08);
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ul > li > p:first-of-type > strong:first-of-type {
-  display: inline;
-  margin: 0;
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > p:first-of-type {
+  margin: 0 0 0.35rem;
+  line-height: 1.68;
+  color: var(--text-normal);
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type,
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > strong:first-of-type {
+  display: inline-block;
+  padding: 0.10em 0.55em;
+  margin-right: 0.45em;
+  border-radius: 5px;
+  background: rgba(var(--timeline-rgb), 0.14);
+  border: 1px solid rgba(var(--timeline-rgb), 0.32);
   color: rgb(var(--timeline-rgb));
-  font-size: 1em;
+  font-size: 0.92em;
+  font-weight: 740;
+  vertical-align: middle;
+}
+
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type,
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > strong:first-of-type {
+  background: rgba(var(--timeline-rgb), 0.22);
+  border-color: rgba(var(--timeline-rgb), 0.42);
+  color: #f6c891;
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > p > em:only-child,
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > p:has(> em:only-child) {
+  color: rgb(var(--timeline-rgb));
+  opacity: 0.85;
+  font-style: italic;
+  font-size: var(--fs-table, 0.9em);
+  display: block;
+  margin: 0.25rem 0 0.45rem;
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > ul {
+  list-style: none !important;
+  padding-inline-start: 0;
+  margin: 0.5rem 0 0.15rem;
+  border-top: 1px dashed rgba(var(--timeline-rgb), 0.18);
+  padding-top: 0.45rem;
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > ul > li {
+  position: relative;
+  padding-left: 1.2rem;
+  margin-bottom: 0.32rem;
+  font-size: var(--fs-table, 0.9em);
+  line-height: 1.62;
+  color: var(--text-muted);
+  list-style: none !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > :is(ul, ol) > li > ul > li::before {
+  content: "";
+  position: absolute;
+  left: 0.22rem;
+  top: 0.56em;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgb(var(--timeline-rgb));
+  opacity: 0.85;
 }
 
 /* ── work-line / thought-timeline 卡片轨道覆盖 ── */
@@ -12873,10 +12948,10 @@
 }
 
 /* ═══════════════════════════════════════════════════════════
-   [!challenges] v3 — 威胁感网格卡片版
+   [!challenges] v4 — 竖排条目版
    红橙警示色；斜纹危险背景；脉冲边框动效；
-   实心红橙徽章（白色数字）；⚠ 角标装饰；
-   hover 强烈红光 + 徽章弹跳；奇数最后一行铺满
+   实心红橙徽章（白色数字）；竖排全宽条目；
+   hover 向右平移 + 轻微阴影；内容自然伸展无高度失衡
    ═══════════════════════════════════════════════════════════ */
 
 @keyframes challenges-border-pulse {
@@ -12926,22 +13001,21 @@
   vertical-align: middle;
 }
 
-/* ── 网格容器 ─────────────────────────────────────────────── */
+/* ── 竖排容器：flex 列，条目按内容高度自然伸展 ─────────── */
 .callout[data-callout="challenges"] .callout-content > ol,
 .callout[data-callout="challenges"] .callout-content > ul {
   counter-reset: challenge-n;
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 0.62rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.52rem;
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-/* 默认：2 列 */
+/* ── 条目：全宽，左侧腾出徽章位 ───────────────────────── */
 .callout[data-callout="challenges"] .callout-content > ol > li,
 .callout[data-callout="challenges"] .callout-content > ul > li {
-  grid-column: span 3;
   counter-increment: challenge-n;
   position: relative;
   font-size: 0.88em;
@@ -12959,67 +13033,11 @@
 }
 .callout[data-callout="challenges"] .callout-content > ol > li:hover,
 .callout[data-callout="challenges"] .callout-content > ul > li:hover {
-  transform: translateY(-4px);
+  transform: translateX(3px);
   box-shadow:
-    0 8px 22px rgba(var(--ch), 0.22),
-    0 0 0 1px rgba(var(--ch), 0.20);
+    0 4px 16px rgba(var(--ch), 0.18),
+    0 0 0 1px rgba(var(--ch), 0.16);
   border-left-color: rgb(var(--ch));
-}
-
-/* 1 项 → 全宽 */
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(1):last-child) > li,
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(1):last-child) > li {
-  grid-column: span 6;
-}
-/* 3 项 → 3 列 */
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(3):last-child) > li,
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(3):last-child) > li {
-  grid-column: span 2;
-}
-/* 5 项 → 2+3 */
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(-n+2),
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+2) { grid-column: span 3; }
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(n+3),
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n+3) { grid-column: span 2; }
-/* 7 项 → 2+3+2 */
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(7):last-child) > li,
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(7):last-child) > li { grid-column: span 3; }
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5),
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5) { grid-column: span 2; }
-/* 奇数项：最后一个铺满（通用） */
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(odd):last-child) > li:last-child,
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
-  grid-column: 1 / -1;
-}
-
-/* 3 项 → 1+1+1（覆盖通用奇数铺满） */
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(3):last-child) > li:last-child,
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(3):last-child) > li:last-child {
-  grid-column: span 2;
-}
-/* 5 项 → 2+3（覆盖通用奇数铺满） */
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:last-child,
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:last-child {
-  grid-column: span 2;
-}
-/* 9 项 → 3+3+3（覆盖通用铺满规则） */
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(9):last-child) > li,
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(9):last-child) > li {
-  grid-column: span 2;
-}
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(9):last-child) > li:last-child,
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(9):last-child) > li:last-child {
-  grid-column: span 2;
-}
-
-/* 11 项 → 2+2+3+2+2（中间行 span 2，覆盖通用铺满规则） */
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(11):last-child) > li:nth-child(n+5):nth-child(-n+7),
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(11):last-child) > li:nth-child(n+5):nth-child(-n+7) {
-  grid-column: span 2;
-}
-.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(11):last-child) > li:last-child,
-.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(11):last-child) > li:last-child {
-  grid-column: span 3;
 }
 
 /* ── 实心红橙徽章（白色数字） ────────────────────────────── */

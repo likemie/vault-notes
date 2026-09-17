@@ -10,7 +10,7 @@ summary: "通过操作化变量、标准化测量、受控实验或抽样调查�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 78
+method_related_count: 84
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -75,7 +75,10 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Analysis of Variance]]"
   - "[[Causal Modeling]]"
+  - "[[Hierarchical Linear Model]]"
+  - "[[Difference-in-Differences]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Propensity Score Matching]]"
   - "[[Random Sampling]]"
   - "[[Stratified Sampling]]"
   - "[[Cluster Sampling]]"
@@ -86,11 +89,14 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Imputation Methods]]"
   - "[[Confidence Interval]]"
+  - "[[Ordinary Least Squares]]"
+  - "[[Generalized Estimating Equations]]"
   - "[[Measurement Invariance]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Exploratory Factor Analysis]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Correlational Research]]"
   - "[[Intervention Research]]"
   - "[[Non-intervention Research]]"
 related_instruments: []
@@ -107,7 +113,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Quantitative Research
@@ -148,7 +154,7 @@ updated: 2026-09-11
 > [!method-stack] 方法层级
 > - **研究设计** [[Randomised Controlled Trials|随机对照试验]]、[[Quasi-Experimental Designs|准实验设计]]、[[Survey Research|调查研究]]、纵向[[Cohort Study|追踪研究]]、相关与比较设计。
 > - **数据收集** 标准化认知测验、心理[[Scale of Measurement|测量量表]]、封闭式[[Questionnaire|问卷]]调查、系统性课堂观察[[Coding in Qualitative Research|编码]]表、国家与区域行政数据库。
-> - **分析方法** 参数与非参数检验、[[Analysis of Variance|方差分析]]（ANOVA）、多元线性回归、逻辑回归、结构方程模型（[[Causal Modeling|SEM]]）、多层线性模型（HLM）、因果推断计量模型（DID, [[Regression Discontinuity Design|RDD]], PSM）。
+> - **分析方法** 参数与非参数检验、[[Analysis of Variance|方差分析]]（ANOVA）、多元线性回归、逻辑回归、结构方程模型（[[Causal Modeling|SEM]]）、[[Hierarchical Linear Model|多层线性模型]]（HLM）、因果推断计量模型（[[Difference-in-Differences|DID]], [[Regression Discontinuity Design|RDD]], [[Propensity Score Matching|PSM]]）。
 > - **辅助技术** [[Random Sampling|概率抽样]]技术（简单随机抽样、[[Stratified Sampling|分层抽样]]、[[Cluster Sampling|整群抽样]]）、先验[[Power Analysis|统计功效分析]]（G*Power）、缺失数据多重插补、异方差稳健[[Standard Error|标准误]]校正、多重假设检验校正。
 
 ---
@@ -170,11 +176,11 @@ updated: 2026-09-11
 > - **数据结构** 横截面数据、时间序列数据、平衡或非平衡面板数据（Panel Data）、多层嵌套数据（学生嵌套于班级与学校）与受控实验数据。
 > - **样本与单位** 概率代表性样本、干预处理组与对照组、个体学生、教师、学校或区域等[[Unit of Analysis|分析单位]]。
 > - **变量体系** 自变量（处理变量/预测变量）、因变量（结果变量）、协变量/控制变量、调节变量（Moderator）与中介变量（Mediator）。
-> - **模型与统计量** 普通最小二乘法（OLS）、广义估计方程（GEE）、潜变量结构方程模型（[[Causal Modeling|SEM]]）、效应量指标（Cohen's d, Hedges' g）、决定系数 $R^2$ 与[[Model Fit Indices in SEM and CFA|模型拟合指数]]（RMSEA, CFI, TLI）。
+> - **模型与统计量** [[Ordinary Least Squares|普通最小二乘法]]（OLS）、[[Generalized Estimating Equations|广义估计方程]]（GEE）、潜变量结构方程模型（[[Causal Modeling|SEM]]）、效应量指标（Cohen's d, Hedges' g）、决定系数 $R^2$ 与[[Model Fit Indices in SEM and CFA|模型拟合指数]]（RMSEA, CFI, TLI）。
 > - **诊断与检验** 多重共线性诊断（方差膨胀因子 VIF）、残差分布检验、[[Measurement Invariance|测量恒常性]]检验（Measurement Invariance）、内生性检验与多重比较校正。
 
 > [!software-impl] 软件实现
-> - **数据处理** 标准化转换、缺失值多重插补（MICE）、逆向计分处理、倾向得分匹配（PSM）与权重赋范。
+> - **数据处理** 标准化转换、缺失值多重插补（MICE）、逆向计分处理、[[Propensity Score Matching|倾向得分匹配]]（PSM）与权重赋范。
 > - **推荐软件** R、Python、Stata、SPSS、Mplus、JASP、Jamovi。
 > - **核心包或命令** R 语言中运用 `lavaan` 开展结构方程建模，运用 `lme4` 进行多层线性分析，运用 `fixest` 进行高维面板固定效应估计；Python 运用 `statsmodels` 与 `scikit-learn`；Stata 运用 `regress`、`xtreg` 与 `sem`。
 > - **实现流程** 原始数据校验 $\rightarrow$ 探索性与[[Confirmatory Factor Analysis|验证性因子分析]]（[[Exploratory Factor Analysis|EFA]]/CFA） $\rightarrow$ 假设检验主模型拟合 $\rightarrow$ 敏感性与稳健性检验 $\rightarrow$ 规范制表与可视化导出。
@@ -220,7 +226,7 @@ updated: 2026-09-11
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 评述[[Scientific Method|科学方法]]与实证量化进路的发展历程，对其机械还原论与计算崇拜发起[[Epistemology|认识论]]批判。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 确立量化研究在[[Postpositivism|后实证主义]]世界观下的操作框架与调查/实验规范流程。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 追踪教育心理学顶级期刊中量化[[Intervention Research|干预研究]]与[[Non-intervention Research|非干预研究]]的方法学分布与演进轨迹。

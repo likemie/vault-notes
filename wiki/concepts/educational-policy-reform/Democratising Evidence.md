@@ -9,7 +9,7 @@ aliases:
 summary: "将民主参与原则拓展至教育研究证据生产与利用全过程的学术思潮与治理议程，主张终结学者与资助者对科研议程的排他性垄断，将实践者与边缘社群确立为议程设定与知识转化的平等主体，同时反思功利主义实用性修辞对离群弱势群体的潜在排斥"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_theories:
 related_methods:
   - "[[Action Research]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Vivian Tseng]]"
 related_facts:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Democratising Evidence
@@ -219,7 +220,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 汇聚 [[Vivian Tseng]] 与 Makito Yurita 的专题论辩，系统奠定证据民主化的[[Epistemology|认识论]]批判、资助制度重构准则以及对功利可用性修辞的专业受托伦理反思。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 在特刊中阐述[[Knowledge Mobilisation|知识动员]]与跨界中介人的培育路径，为证据民主化中[[Research-Practice Partnership|研究-实践伙伴关系]]的微观运行机制提供实证案例支撑。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 梳理[[OECD|经合组织]]国家[[Evidence Ecosystem|证据生态系统]]的制度演进，探讨从单一线性[[Knowledge Transfer|知识转移]]向多元利益相关者协同共创的全球政策趋势。

@@ -5,7 +5,7 @@ aliases:
 summary: "执行功能是一组用于目标导向控制的高阶认知过程，通常包括抑制、转换、更新与监控，用于调节思维和行为以完成任务。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Longitudinal Study]]"
+  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 ## 定义
@@ -103,6 +104,6 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie (2017)]] — 系统阐述 EF 的定义、三成分结构、发展轨迹及其与[[Academic Achievement|学业成就]]、情绪和社会发展的关系。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在[[Meta-analysis|元分析]]中指出[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享抑制、[[Cognitive Flexibility|认知灵活性]]与[[Working Memory|工作记忆]]等执行功能基础，执行功能是两者正相关的共同认知基础。

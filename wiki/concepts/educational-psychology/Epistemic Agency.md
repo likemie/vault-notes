@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为主体参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则。"
 type: concept
 domain: "educational-psychology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,8 @@ related_concepts:
   - "[[Empiricism]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Clark A. Chinn]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # Epistemic Agency
@@ -156,5 +157,5 @@ updated: 2026-09-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 揭示初中生在格陵兰食物网口头辩论中，如何在教师促学引导下展现高度的认识主体性，自主推导并协同确立野外生态观察的五大专业[[Reliability|可靠性]]规范。

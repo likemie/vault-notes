@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
   - "[[Cluster Randomized Trials]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons: []
@@ -124,7 +125,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Perry Beeches 列为初等阅读高年级 Tier 3 [[Teaching Assistant|助教]]辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托助教在高年级升学节点筑牢最后防线。
 > - [[Reach]] — 同属英国 [[Education Endowment Foundation|EEF]] 资助的小初衔接助教一对一阅读方案。

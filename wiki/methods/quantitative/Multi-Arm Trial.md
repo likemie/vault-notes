@@ -11,7 +11,7 @@ summary: "包含三个或更多平行实验组（实验臂）的随机对照试�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -55,6 +55,7 @@ related_methods:
   - "[[Forest Plot]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
+  - "[[Correlational Research]]"
   - "[[Statistical Significance]]"
 related_instruments: []
 related_persons: []
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Multi-Arm Trial
@@ -248,6 +249,6 @@ updated: 2026-09-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 阐述了英国 [[Education Endowment Foundation|EEF]] 通过多臂试验与[[Factorial Design|析因设计]]打开复杂教育干预黑箱的演进历程，重点评述了“[[Literacy Octopus|识字八爪鱼]]”多臂试验与 ABRA 在线阅读多臂试验的方法学价值。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 详析了“识字八爪鱼”大规模多臂 [[Randomised Controlled Trials|RCT]] 的因果结论，证明单纯单向推送实证成果对改善学生终考成绩毫无[[Statistical Significance|统计显著性]]。

@@ -9,7 +9,7 @@ summary: "模拟或促进具有能动性的个体在行动者网络中互动的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 10
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -30,16 +30,18 @@ related_concepts:
   - "[[Causal Processes]]"
 related_theories:
   - "[[Complexity Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Every Student Succeeds Act]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-09-17
 ---
 
 # Agent-based Modelling
@@ -103,7 +105,7 @@ ABM 已被应用于多种领域（Martin, 2011, Ch. 19）：
 > - **流行病学与物流** 季节性迁徙、污染、疾病传播、交通拥堵、供应链等（Epstein, 1996）。
 > - **教育研究** 通过[[Virtual World|虚拟世界]]研究中的主体互动，探索课堂动态、学习行为和社会化过程的[[Emergence|涌现]]模式。
 
-欧洲社会模拟协会（European Social [[Computer Simulation|simulation]] Association, www.essa.eu.org）的成立证明了此类发展的重要性。
+欧洲社会模拟协会（European Social [[Computer Simulation|simulation]] Association, www.[[Every Student Succeeds Act|ESSA]].eu.org）的成立证明了此类发展的重要性。
 
 ---
 
@@ -141,5 +143,5 @@ ABM 已被应用于多种领域（Martin, 2011, Ch. 19）：
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 以 Reynolds 的 boids 模型和公民教育[[Virtual World|虚拟世界]]研究为例，说明 ABM 如何从主体互动的简单规则中[[Emergence|涌现]]复杂社会模式，以及如何在虚拟世界研究中实现。

@@ -9,7 +9,7 @@ summary: "美国科学史家与科学哲学家，以《科学革命的结构》�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Aristotle]]"
   - "[[Karl Popper]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Thomas Kuhn
@@ -134,7 +135,7 @@ updated: 2026-09-11
 > - **方法路径** 为人文社会科学提供了“[[Paradigm|范式]]”这一核心元理论工具，使教育研究者意识到[[Qualitative Research|质性研究]]与[[Quantitative Research|量化研究]]并非单纯技术差异，而是扎根于不同的认识论范式；
 > - **跨学科应用（比较教育学）** 战后比较教育学家（如 Mattheou, 2009）系统运用库恩的范式理论与四维构件模型，深入剖析了 1950–1970 年代“[[Scientific Paradigm|科学范式]]”对古典历史主义的清洗、内部三大派别在法则与目标上的认识论争鸣，以及实证量化范式与现代国家规划体制结盟的学术合法化机制。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐述库恩范式理论、科学革命四阶段演进以及[[Incommensurability|不可通约性]]概念在教育研究方法论中的基石作用。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 运用库恩的范式框架与四维构件模型，全景剖析战后比较教育科学范式的兴衰沉浮与政治共谋机制。
 

@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -122,7 +123,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 ROOTS 评定为初等数学 Tier 2 小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释 ROOTS 如何作为 Tier 2 小组防线保障数学困难学生在普通班级中成功立足。
 > - [[Fraction Face-Off!]] — 初等数学高年级（四年级）[[Teaching Assistant|助教]]小组辅导代表方案，与 ROOTS 共同构成初等数学 Tier 2 循证支柱。

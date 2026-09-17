@@ -8,7 +8,7 @@ aliases:
 summary: "由 Noémi Révai (2020) 在 OECD 提出的知识动力学模型，旨在修复证据动员与教育创新长期割裂的断层，将知识动员重塑为面向教学难题解决与创新的知识创生全流程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_theories: []
 related_methods:
   - "[[Action Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Evidence-Innovation Knowledge Dynamics
@@ -171,7 +172,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Torres_2022_KMModels|Torres (2022)]] — 评析 Révai 的证据-创新知识动力学模型，确立其在打破动员与创新割裂上的理论基石地位。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 在 [[OECD]] 导言中系统阐述教师网络与专业生态系统对教育创新的支撑机制。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 探讨[[School Enquiry Cycle|学校探究循环]]中如何将外部实证研究与校本教学创新闭环整合。

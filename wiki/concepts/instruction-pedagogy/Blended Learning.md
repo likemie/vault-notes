@@ -10,7 +10,7 @@ aliases:
 summary: "有机结合面对面实体课堂教学与数字化在线学习环境的教学模式，通过整合物理临场交互、异步自主探究与自适应智能支架，重构学习时空并促进深层理解与高阶思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,10 +42,11 @@ related_arguments:
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Blended Learning
@@ -202,5 +203,5 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 在生成式 AI 促进学生[[Higher-Order Thinking Skills|高阶思维]]的[[Meta-analysis|元分析]]中，将混合式学习作为核心教学模式调节[[Variable|变量]]（$k = 22, g = 0.525, p < 0.001$），实证确证了双轨探究环境在激发学生逻辑排错与反思评估中的稳健促学价值，促学效果显著超越传统讲授式课堂。

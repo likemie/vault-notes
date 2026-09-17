@@ -6,7 +6,7 @@ aliases:
 summary: "2001 年德国首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德国教育政策制定的决定性分水岭，导致全面的教育改革议程"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # PISA Shock
@@ -83,6 +84,6 @@ updated: 2026-09-11
 
 ## 应用案例
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]中详细综述了德国 [[PISA]] 冲击的机制与后果，以及在不同国家中的差异性政策反应。
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 对比英格兰与德国、瑞典的 PISA 反应机制，指出英格兰在实证表现未出现实质滑坡的情况下，通过政治与媒介的合谋建构出“人为的 PISA 危机”以正名国内激进改革。

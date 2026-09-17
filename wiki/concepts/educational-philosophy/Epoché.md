@@ -12,7 +12,7 @@ aliases:
 summary: "胡塞尔先验现象学的核心方法，主张中止对外部客观实在的自然态度并将世界放入括号，直面纯粹意识流与现象本身，深刻影响了质性研究中排除研究者先入之见的反思性质性态度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Interview]]"
   - "[[Case Study]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Edmund Husserl]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Epoché
@@ -198,7 +199,7 @@ updated: 2026-09-11
 
 ## 论证索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 18–19)]] — 详尽梳理胡塞尔[[Phenomenology|现象学]]悬置的定义、放入括号的操作意涵、先验意识三要素以及 Curtis（1978）现象学共识对质性探究[[Paradigm|范式]]的奠基。
 
 ---

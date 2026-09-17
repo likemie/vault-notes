@@ -8,7 +8,7 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Robert Ulich
@@ -150,7 +151,7 @@ updated: 2026-09-11
 > - **人才培养与师承网络** 在哈佛大学亲自培养了[[George Bereday|乔治·贝雷迪]]（哥伦比亚大学比较教育领袖）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（威斯康星大学教授、[[Comparative Education Society in Europe|CESE]] 荣誉会员）以及保罗·纳什等杰出学者，构成战后比较教育思想史的核心主干。
 > - **教师教育改革** 极力倡导将教育史与比较文明哲学作为教师资格培养的必修核心，抵制行为主义技能训练对[[Normal School|师范教育]]的侵蚀。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009]] — 卡扎米亚斯深情回顾乌利希的人文主义比较传统与其对自身史学思想的深远奠基。
 
 ---

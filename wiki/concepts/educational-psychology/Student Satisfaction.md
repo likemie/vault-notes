@@ -6,7 +6,7 @@ aliases:
 summary: "学生对学习过程与学习环境的总体满意程度，是衡量教学模式情感与体验效果的重要指标；问题本位学习通过主动参与激发内在动机并提升满意度。"
 type: concept
 domain: "educational-psychology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-17
 ---
 
 # Student Satisfaction
@@ -84,5 +85,5 @@ updated: 2026-08-24
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] [[Meta-meta-analysis|二阶元分析]]报告，PBL 对学生满意度的效应（d = 1.10）为五类结果中第二高，源于主动参与[[Problem Solving|问题解决]]带来的内在动机与积极学习体验；Song (2008) 亦比较发现 PBL 在满意度、态度与动机上优于传统教学。（pp. 963–964）

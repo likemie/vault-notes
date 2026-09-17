@@ -7,7 +7,7 @@ summary: "Znaniecki (1934) 提出的质性研究策略：从数据生成理论�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_methods:
   - "[[Progressive Focussing]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Analytic Induction
@@ -105,5 +106,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将分析归纳法定位为[[Theoretical Sampling|理论抽样]]的延伸和质性数据分析第七步（生成理论）的核心策略（pp. 423, 441–442）。

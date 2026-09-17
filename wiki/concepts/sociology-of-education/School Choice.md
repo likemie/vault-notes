@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校；多层实证数据显示学校间方差仅占 5–10%，择校难以替代微观教师教学质量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # School Choice
@@ -206,7 +207,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 运用多层方差分解揭示学校间方差仅占 5–10% 而教师方差占 30%，从实证上论证了择校政策对[[Academic Achievement|学业成就]]提升的有限性。
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu|陪读]]择校实践，解构了其中家庭资本的分层博弈与乡村学校抽干效应。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 探讨了家长规避行政划片、通过非正式网络建立联系以进入心仪学校的手段。

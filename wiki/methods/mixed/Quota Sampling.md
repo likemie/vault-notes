@@ -7,9 +7,9 @@ summary: "非概率版的分层抽样，力求按总体中的比例代表显著�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/sampling
@@ -24,6 +24,7 @@ related_methods:
   - "[[Stratified Sampling]]"
   - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-17
 ---
 # Quota Sampling
 
@@ -72,5 +73,5 @@ updated: 2026-06-22
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍配额抽样的三步程序和最小[[Sample Size Determination|样本量]]计算。

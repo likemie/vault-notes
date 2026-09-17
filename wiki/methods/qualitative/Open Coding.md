@@ -9,7 +9,7 @@ summary: "扎根理论质性数据分析的基础切片与概念化阶段，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Open Coding
@@ -228,6 +229,6 @@ updated: 2026-09-08
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30)]] — 系统阐述开放[[Coding in Qualitative Research|编码]]的微观切片程序、范畴属性与维度连续统解构，并梳理 Flick 11 设问矩阵与认知负荷控制原则（pp. 560–561）。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] — 阐释质性数据初筛与编码归并流程，提出精简编码至 5–7 个核心主题的[[Operationalization|操作化]]指引（pp. 207–209）。

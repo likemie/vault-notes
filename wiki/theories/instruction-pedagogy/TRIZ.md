@@ -10,7 +10,7 @@ aliases:
 summary: "由阿奇舒勒创立的算法化发明问题解决理论体系，主张技术与心智系统的演化遵循客观规律，通过识别并消除系统内在矛盾（技术与物理矛盾）、应用 40 条通用发明原理与理想最终解（IFR）启发式，系统克服思维定势并实现高阶创新。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -39,6 +39,7 @@ related_theories:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Creative Engineering Design Assessment]]"
 related_arguments:
@@ -48,7 +49,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-17
 ---
 
 # TRIZ
@@ -190,7 +191,7 @@ updated: 2026-09-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — [[Meta-analysis|元分析]]确立技术型训练（以 TRIZ 与 [[SCAMPER]] 为代表）对大学生[[Creativity|创造力]]表现的稳健促学效应（$g = 0.552, N = 20$），解析其具象认知锚点与迁移特征。
 > - Altshuller (1984) — TRIZ 理论奠基之作，系统阐明矛盾消除、理想度规律与 40 发明原理的算法体系。
 > - Morin et al. (2018) — 加拿大高校开展的长周期技术型发明工程训练准实验（$EG = 59 / CG = 59$），结合 [[Creative Engineering Design Assessment|CEDA]] 测验检验学生工程设计创造力增益。

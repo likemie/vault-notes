@@ -7,7 +7,7 @@ title: "Argument_Rickinson_2022_UsingResearchWell"
 argument_key: "Argument_Rickinson_2022_UsingResearchWell"
 argument_display_title: "Using research well in educational practice"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -74,6 +74,7 @@ related_theories:
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
   - "[[Survey Research]]"
@@ -123,7 +124,7 @@ updated: 2026-09-14
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **研究使用质态与频次** | 教育实践者在教学决策与日常实践中主动接触、审议并应用大学研究证据的常态化程度与主观质量定性。（pp.183, 192） | Survey 1 中测量常规使用大学研究与大学指导的频度；[[In-depth Interview\|深度访谈]]中区分高质量使用（以证据促进学生学习与教师专业发展）与劣质使用（盲从网络流行趋势、领导强加新点子、僵化防卫信念）。（pp.189–191） |
-> | **个体素养与心智倾向** | 实践者检索研究、判断证据质量、理解研究方法的技术技能，以及好奇审问、反思自身偏见的专业态度与协作关系。（pp.186–187） | Survey 1 中测量判断研究质量信心缺乏（44%）、分析解释研究缺乏信心（32%）、检索相关研究困难（64%）；访谈中提炼好奇心驱动与专业自尊；典型案例为专职特教教师 Alex 的适切性三重审视。（pp.187, 191–192） |
+> | **个体素养与心智倾向** | 实践者检索研究、判断证据质量、理解研究方法的技术技能，以及好奇审问、反思自身偏见的专业态度与协作关系。（pp.186–187） | Survey 1 中测量判断研究质量信心缺乏（44%）、分析解释研究缺乏信心（32%）、检索[[Correlational Research\|相关研究]]困难（64%）；访谈中提炼好奇心驱动与专业自尊；典型案例为专职特教教师 Alex 的适切性三重审视。（pp.187, 191–192） |
 > | **组织使能与领导力** | [[School Leadership\|学校领导]]者的愿景规划、言行示范，以及支持研究参与的信任文化、研讨惯例与资源保障。（p.187） | Survey 2 中测量受信任的师资与领导关系（82%）、知识共享文化（81%）、领导者践行与示范研究应用（84% 管理者 / 73% 教师）；典型案例为特殊学校校长 Kerrie 每周 1 小时一对一指导与校际网络。（pp.188, 191） |
 > | **资源保障与时间赤字** | 学校与教育系统在日常作息与工作量安排中为教师研读、研讨并试验研究所提供的专有时间与制度空间。（p.188） | Survey 1 中测量缺乏充足时间参与研究（76%）、难以跟上最新研究进展（76%）；Survey 2 中测量因耗时过长认为使用研究不划算（61%）、诉求在教职人员排程中内置研讨时间（72%）。（pp.192–193） |
 >

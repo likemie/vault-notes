@@ -72,6 +72,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts:
@@ -92,7 +93,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -584,7 +585,7 @@ journal: "高等教育研究"
 ## 自述局限
 
 > [!warning]
-> 该文是一篇[[Literature Review|文献综述]]，主要基于国际英文[[Document|文献]]展开梳理和讨论，中文文献中的相关研究涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production|空间生产]]三元维度[[Analytic Framework|分析框架]]尚属初步整合，其经验适用性和[[Operationalization|操作化]]路径有待后续研究进一步检验和完善。（p.13）
+> 该文是一篇[[Literature Review|文献综述]]，主要基于国际英文[[Document|文献]]展开梳理和讨论，中文文献中的[[Correlational Research|相关研究]]涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production|空间生产]]三元维度[[Analytic Framework|分析框架]]尚属初步整合，其经验适用性和[[Operationalization|操作化]]路径有待后续研究进一步检验和完善。（p.13）
 
 ---
 

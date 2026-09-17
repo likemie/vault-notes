@@ -8,7 +8,7 @@ summary: "美国著名教育哲学家与批判性思维研究先驱，伊利诺�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,19 +31,21 @@ related_concepts:
   - "[[Domain Specificity]]"
 related_theories:
   - "[[Ennis's Curricular Typology]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Cornell Critical Thinking Test]]"
   - "[[Ennis-Weir Critical Thinking Essay Test]]"
 related_persons:
   - "[[Peter Facione]]"
-related_facts: []
+related_facts:
+  - "[[Education Resources Information Center]]"
 related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Robert Ennis
@@ -84,7 +86,7 @@ updated: 2026-09-11
 > [!work-line] 主要代表作与理论贡献
 > - **1962 — *A Concept of [[Critical Thinking]]*** 在《Harvard Educational Review》发表早期奠基作，系统厘清了逻辑推理在批判性思维中的核心地位。
 > - **1985 — *Cornell Critical Thinking Tests (Level X & Level Z)*** 与 Jason Millman 合作开发，成为全球教育实证研究中使用最广泛的标准化测量工具之一。
-> - **1985 — *The [[Ennis-Weir Critical Thinking Essay Test]]*** 与 Eric Weir 合作开发，开创了通过开放式论证论文评估复合[[Higher-Order Thinking Skills|高阶思维]]的先河。
+> - **1985 — *The [[Ennis-Weir Critical Thinking Essay Test]]*** 与 [[Education Resources Information Center|ERIC]] Weir 合作开发，开创了通过开放式论证论文评估复合[[Higher-Order Thinking Skills|高阶思维]]的先河。
 > - **1989 — *Critical Thinking and Subject Specificity: Clarification and Needed Research*** 系统提出了四类课程模式（通用、融入、沉浸、混合），成为 [[Ennis's Curricular Typology]] 的理论基石。
 > - **1996 — *Critical Thinking*** 出版经典专著，系统阐述论证评估、谬误识别与反思行动的教学法指南。
 
@@ -92,7 +94,7 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 广泛采用 Ennis 的[[Critical Thinking|批判性思维]]定义与四类课程分类模型，并在 341 项实证研究中验证其有效性。
 > - [[Ennis's Curricular Typology]] — Ennis 提出的批判性思维课程组织理论条目。
 > - [[Domain Specificity]] — 探讨 Ennis 通用论原则与 McPeck 学科特异论的历史交锋。

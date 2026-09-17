@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 88
+fact_related_count: 92
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -97,8 +97,11 @@ related_facts:
   - "[[Teacher Choices]]"
   - "[[ISRCTN]]"
   - "[[SPECTRUM]]"
-  - "[[What Works Network]]"
+  - "[[Every Student Succeeds Act]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Evidence for ESSA]]"
+  - "[[What Works Network]]"
   - "[[Ofsted]]"
   - "[[Evidence Network]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
@@ -114,6 +117,7 @@ related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
+  - "[[Argument_Ginsberg_2024_EP]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
@@ -190,6 +194,8 @@ updated: 2026-09-17
 > - **战略领域系统拓展** 证据资助与实践转化重点向学前早期教育（Early Years，特别是学前读写与数学基础能力）、16–19 岁青年教育系统延伸，并重点推进高成效方案（如 Maths Champions）的跨区域规模化落地，持续应对后疫情时期的学业差距危机。
 > - **全球镜像组织辐射** 成功输出模式，深度主导或孵化了澳大利亚 [[Australian Education Research Organisation|AERO]]、澳大利亚 E4L 以及拉美 Summa 等国家与跨国中介机构。
 > - **跨国政策话语权** 其[[Evidence Standards|证据标准]]直接被英美澳等国纳入入职教师培训（[[Initial Teacher Training]]，ITT）核心大纲([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
+> - **美国联邦审计的国际权威认可** 金斯伯格等（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act|Title I]] 经费的实证审计，在 4 个核心公共证据库中明确将 EEF 纳入并列，与美国本土的[[What Works Clearinghouse|有效干预清算中心]]（WWC）及 [[Evidence for ESSA]] 平台同等对待，系统检索其覆盖 129 项采购实践的证据记录，表明 EEF 已超越英国本土，成为国际学界追踪 K-12 教育证据体时不可回避的全球性权威参照库（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024, pp. 165–166, 170]]）。
+
 
 > [!critique-data]- 最终受益人评估与[[Research Schools Network|研究学校网络]]（RSN）3年实证结果
 > - **全球有效机构中的评估例外** 跨国实证综述显示，除英国教育捐赠基金会（EEF）之外，绝大多数有效机构（[[What Works Network|What Works Centres]]）极少对其推动的证据利用在最终受益人（即学生学业与身心发展）上的长远效益进行独立因果评估。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; Gough et al. (2018)
@@ -276,3 +282,4 @@ updated: 2026-09-17
 > | [[EPPI-Centre]] | Fact (Organization) | 英国本土早期的[[Systematic Review\|系统综述]]先驱，为 EEF 的建立提供了学术方法论滋养。 |
 > | [[SPECTRUM]] | Fact (Program) | EEF 委托研发的权威非认知与社会情感测量工具库与准入标准体系。 |
 > | [[Literacy Octopus]] | Fact (Program) | EEF 资助开展的大规模[[Multi-Arm Trial\|多臂试验]]标志性案例，证实单向信息推介对提升学业无效。 |
+> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 关键论证 | 美国联邦级财务审计将 EEF 列为 4 个全球核心证据库之一，实证验证其在北美循证教育决策中的国际权威地位。 |

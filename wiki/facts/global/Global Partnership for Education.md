@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Exploratory Factor Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Global Partnership for Education
@@ -160,7 +161,7 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析 GPE 的区域同侪经验汲取模式、[[Knowledge and Innovation Exchange|KIX]] 枢纽运作及其与[[OECD|经合组织]]、[[World Bank|世界银行]]围绕慈善资本的利基竞争。
 
 ---

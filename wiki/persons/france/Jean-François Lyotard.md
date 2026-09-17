@@ -8,7 +8,7 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -47,7 +47,8 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Academic Capitalism]]"
   - "[[Critical Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Immanuel Kant]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Jean-François Lyotard
@@ -167,7 +168,7 @@ updated: 2026-09-11
 > - **政策与制度评估** [[Performativity|绩效性]]概念被广泛引入教育社会学和高等教育研究，用于分析国家和全球教育监测项目（如 [[PISA]] 排名、大学绩效问责与[[Academic Capitalism|学术资本主义]]）。
 > - **跨国／跨领域传播** 其思想被比较教育学者借用，剖析超国家评估机构如何在绩效追求下迫使地方学校改造自身以迎合可测量指标。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 借用 Lyotard 对后现代“完美信息博弈”的诊断与绩效性批判，论证了在当代教育中，核心竞争力不再是信息的获取，而是能够改变规则的“想象力”，这为[[International Spinozian Curriculum|国际斯宾诺莎主义课程]]提供了时代合理性。
 > - [[Argument_Beech_2009_CE|Beech, 2009]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier|漂浮能指]]”的生存博弈机制。
 > - [[Argument_Partaken_2022_Springer|Partaken, 2022]] — 运用 Lyotard 的叙事知识与科学知识二分法，分析全球知识地缘政治中地方性叙事知识的急剧衰落与西方商业化效用知识的霸权。

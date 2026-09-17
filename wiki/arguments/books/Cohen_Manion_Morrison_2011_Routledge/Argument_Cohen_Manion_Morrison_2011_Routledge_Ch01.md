@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 121
+argument_related_count: 124
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -119,7 +119,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Internal Consistency]]"
   - "[[Design-Based Research]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Correlational Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Role-playing]]"
   - "[[Quantitative Research]]"
@@ -151,12 +151,15 @@ related_persons:
   - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
   - "[[George Herbert Mead]]"
+  - "[[Michael Gove]]"
+  - "[[Horace Mann]]"
   - "[[John Rex]]"
   - "[[Basil Bernstein]]"
   - "[[John W. Creswell]]"
   - "[[Stuart Kauffman]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
+  - "[[Research in Schools Evaluation]]"
 related_arguments: []
 status: draft
 created: 2026-06-16
@@ -547,7 +550,7 @@ updated: 2026-09-09
 > |---|---|---|---|
 > | **时期 1 · 现象界定与猜想萌芽** | **阶段 1 界定科学边界** 明确学科[[Research Scope\|研究范围]]，界定该学科统摄的现象群与本体边界。 | **阶段 1 提出直觉预感与猜想** 形成探索性经验猜想、直觉预感与初步假设，确立具体课题的探索起点。 | 宏观上确立学科的本体论管辖边界与研究对象群；微观上形成具体课题的直觉预感与初始猜想。宏观边界为微观猜想划定了科学探索的合法性范围。 |
 > | **时期 2 · 经验观测与分类隔离** | **阶段 2 经验观察与分类** 识别并标记关键因素与变量，构建范畴体系与分类系统（如大规模问卷调查与描述性案例研究）。 | **阶段 2 方案设计与变量隔离** 严密[[Design-Based Research\|设计实验]]方案，抽取代表性样本，严格物理与统计隔离干扰变量，操作化定义核心变量。 | 宏观上侧重广泛收集生活事实并建立描述性分类系统；微观上侧重实验环境的受控隔离与测量操作化。二者共同完成现象从粗糙经验向科学构念的提炼。 |
-> | **时期 3 · 相关探索与模式识别** | **阶段 3 [[Observational and Correlational Research\|相关性研究]]** 关联变量与参数，在松散初萌的理论框架中系统整合经验信息。 | **阶段 3 观测相关与识别模式** 系统测量变量间的统计相关性，在经验数据分布中识别重复出现的规律模式。 | 两模型在此阶段高度同构，皆聚焦于“共变与关联”的经验发现。宏观上开始在雏形理论中整合参数；微观上从数据中提炼分布规律，为进一步追问因果机制奠定事实基石。 |
+> | **时期 3 · 相关探索与模式识别** | **阶段 3 [[Correlational Research\|相关性研究]]** 关联变量与参数，在松散初萌的理论框架中系统整合经验信息。 | **阶段 3 观测相关与识别模式** 系统测量变量间的统计相关性，在经验数据分布中识别重复出现的规律模式。 | 两模型在此阶段高度同构，皆聚焦于“共变与关联”的经验发现。宏观上开始在雏形理论中整合参数；微观上从数据中提炼分布规律，为进一步追问因果机制奠定事实基石。 |
 > | **时期 4 · 受控操纵与因果检验** | **阶段 4 变量系统受控操纵** 设计严密实验主动操纵变量，检验是否产生预期效应，实现从相关关联向因果机制的深入。 | **阶段 4–5 假说构建与证伪检验** 阶段 4 针对观测到的规律构建解释性因果假说；阶段 5 对因果解释与预测进行经验检验，直面可证伪性（falsifiability）考验。 | 科学方法从描述走向解释的核心深化期。变量操纵实验常被视为科学方法的核心支点：通过实验主动操纵变量以排除虚假相关，确立真实因果；微观模型在此细化为假说建构与严格的波普尔式证伪检验（Kerlinger, 1970；p. 113）。 |
 > | **时期 5 · 法则确立与理论建构** | **阶段 5 建立坚实理论大厦** 累积早期阶段的研究成果，系统化地提炼并确立科学法则，建构稳固的理论大厦。 | **阶段 6 确立普适法则或推翻假说** 若假说经受住严格检验则上升确立为普适科学法则；若遭遇经验反证则果断推翻并修正假说。 | 经验证据向普遍法则（Laws）升华的巩固阶段。宏观上体现为学科知识库的成果累积与理论体系的确立；微观上体现为对单项假说的确证或证伪判决，彰显科学探索的自我纠错属性。 |
 > | **时期 6 · 理论外推与循环繁衍** | **阶段 6 理论应用与新假说生成** 运用成熟理论解决现实实践难题，并作为生成下一代全新假说的母体源泉。 | **阶段 7–8 理论概括外推与生成新理论** 阶段 7 做出广泛的理论概括与跨情境经验外推；阶段 8 生成全新理论体系，并重新触发阶段 1 的新猜想与探索。 | 理论走向实践迁移并开启新一轮认知螺旋。宏观理论成为解决教育现实问题的有效工具并孕育新假说；微观模型完成从概括外推到新理论生成的闭合回路，重新激发新猜想与新一轮探究。 |
@@ -709,7 +712,7 @@ updated: 2026-09-09
 
 ##### 6.5.3 符号互动论（Symbolic Interactionism）
 
-由[[George Herbert Mead|乔治·赫伯特·米德]]（George Herbert Mead）奠基，经赫伯特·布卢默（Herbert Blumer）与欧文·戈夫曼（Erving Goffman）深化的[[Symbolic Interactionism|符号互动论]]，聚焦人际交往中的意义协商与情境定义。彼得·伍兹（Peter Woods）归纳了其三大基本公理（Woods, 1979）：
+由[[George Herbert Mead|乔治·赫伯特·米德]]（George Herbert Mead）奠基，经赫伯特·布卢默（Herbert Blumer）与欧文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）深化的[[Symbolic Interactionism|符号互动论]]，聚焦人际交往中的意义协商与情境定义。彼得·伍兹（Peter Woods）归纳了其三大基本公理（Woods, 1979）：
 
 > [!assumptions] 符号互动论的三大基本公理（Woods, 1979）
 > - **事物意义导引行动** 人类依据事物对其所具有的主观象征意义采取行动，意义是行动的中介与指南。
@@ -949,7 +952,7 @@ updated: 2026-09-09
 > [!citation-card] Burrell & Morgan 论主观–客观维度的四组[[Hypothesis|假设]]推导
 > 社会科学的研究进路建立在关于社会世界本质与如何探究它的根本假设之上：关于现实本质的[[Ontology|本体论假设]]衍生出关于知识获取方式的[[Epistemology|认识论假设]]；这些假设进一步衍生出方法论考量，并最终决定具体的研究工具与数据收集手段。（pp. 145–147）
 >
-> *Ontological assumptions (assumptions about the nature of reality and the nature of things) give rise to epistemological assumptions (ways of researching and enquiring into the nature of reality and the nature of things); these, in turn, give rise to methodological considerations; and these, in turn, give rise to issues of instrumentation and data collection.*
+> *Ontological assumptions (assumptions about the nature of reality and the nature of things) give [[Research in Schools Evaluation|RISE]] to epistemological assumptions (ways of researching and enquiring into the nature of reality and the nature of things); these, in turn, give rise to methodological considerations; and these, in turn, give rise to issues of instrumentation and data collection.*
 
 > [!citation-card] Medawar 论科学假说作为想象与批判的[[Dialogue in Education|对话]]
 > 科学理解在所有层面的进步都始于一次思辨的冒险，一种对可能为真的事物的想象性预想——这种预想总是且必然地略微（有时大幅）超出我们拥有逻辑或事实依据去相信的范围……科学推理因此在所有层面上都是两个思维片段之间的互动：一段想象之声与一段批判之声的对话，一段在可能与现实、提议与裁决、猜想与反驳之间的对话。（p. 359）

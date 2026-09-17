@@ -7,7 +7,7 @@ aliases:
 summary: "指教育研究从问题界定、实地观察、数据分析直至政策转译与课堂应用的完整链条中，必须保持内在认识论逻辑的统一性与不间断性，用以抵御去语境化偏误与政策伪科学"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_theories:
 related_methods:
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Ian Menter]]"
@@ -184,6 +185,6 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 首次在教师教育政策与[[Evidence Era|证据时代]]语境中系统阐发全流程[[Epistemology|认识论]]连贯性概念，揭示其在[[Policy Network|政策网络]]中被割裂的制度机制。
 > - [[Critique of Evidence-Based Education]] — 循证教育批判总条目，包含认识论缺陷、民主缺陷与[[Institutional Isomorphism|制度同构]]批判。

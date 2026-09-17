@@ -9,7 +9,7 @@ aliases:
 summary: "亦称认知灵活性或任务切换，指在多个任务、操作规则或心理集合之间切换的能力，是执行功能的核心成分之一。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Prefrontal Cortex]]"
 related_theories: []
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Cognitive Shifting
@@ -109,6 +110,6 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie (2017)]] — 系统阐述认知转换的定义、转换成本、测量工具、发展轨迹及其与[[Executive Function|执行功能]]、[[Prefrontal Cortex|前额叶皮层]]的关系。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在[[Meta-analysis|元分析]]中指出[[Cognitive Flexibility|认知灵活性]]（转换）是[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共同依赖的执行功能成分之一。

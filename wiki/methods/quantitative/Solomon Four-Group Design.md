@@ -9,7 +9,7 @@ summary: "将受试者随机分配到四组的真实验设计，通过操纵前�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,12 +33,13 @@ related_methods:
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Sample Size Determination]]"
   - "[[Posttest-Only Control Group Design]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-01
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # Solomon Four-Group Design
 
@@ -114,6 +115,6 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 以所罗门四组设计为例，展示如何通过操纵[[Pre-test and Post-test|前测]]和处理来评估前测对处理效果的潜在干扰，将其定位为 2 × 2 [[Factorial Design|因子设计]]的特例。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍所罗门四组设计的逻辑（前测×处理[[Interaction Effect|交互效应]]的分离）、六组比较的推算，以及 Bailey (1994, pp. 231–234) 的完整阐释。

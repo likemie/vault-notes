@@ -8,7 +8,7 @@ aliases:
 summary: "国家文化维度理论，提出权力距离、个人主义/集体主义、不确定性规避等维度刻画文化心智软件；在教育中用于解释权威结构、教学法跨文化转译及生成式 AI 破除师生权力壁垒的中介机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 50
+theory_related_count: 52
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -60,9 +60,11 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Geert Hofstede]]"
@@ -76,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-05
-updated: 2026-09-04
+updated: 2026-09-17
 ---
 
 # Hofstede's Cultural Dimensions
@@ -225,7 +227,7 @@ updated: 2026-09-04
 > [!theory-stance] [[Epistemic Stances|认识论立场]]与方法含义
 > - **[[Ontology|本体论]]** [[Positivism|实证主义]]与结构功能主义倾向——预设民族国家共享相对稳定、跨越时空延续的核心价值观集合，文化被视为具有层级结构与统计聚集特征的“社会客体”。
 > - **[[Epistemology|认识论]]** 宏观聚合实证主义认识论——主张通过大规模跨国[[Questionnaire|问卷调查]]、标准化题项与因子分析，将复杂的文化生活还原为可测量的相对数值坐标。
-> - **方法含义** 支持多层线性模型（HLM）、跨国比较[[Meta-analysis|元分析]]（[[Meta-analysis]]）亚组调节分析（Subgroup Moderation）与跨国实证调查；要求在宏观国家层面与微观个体层面之间保持清晰的统计与分析边界。
+> - **方法含义** 支持[[Hierarchical Linear Model|多层线性模型]]（HLM）、跨国比较[[Meta-analysis|元分析]]（[[Meta-analysis]]）亚组调节分析（Subgroup Moderation）与跨国实证调查；要求在宏观国家层面与微观个体层面之间保持清晰的统计与分析边界。
 > - **不能直接推出的东西** 绝对不能将国家层面的聚合均值直接推导为个体学生的心理特质或认知行为（防范[[Ecological Fallacy|生态谬误]]）；不能证明文化维度对教育成效具有决定性的单一因果作用；不能推论出文化传统是封闭、僵死、不可重构的历史包袱。
 
 > [!theory-use] 如何用于研究
@@ -300,7 +302,7 @@ updated: 2026-09-04
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — 在高等教育生成式 AI 促学成效的[[Meta-analysis|元分析]]中引入 Hofstede 权力距离指数（PDI）作为宏观调节[[Variable|变量]]，发现高权力距离文化下产生极其显著的“权力壁垒破除效应”（$g^+ = 0.859$ vs 低权力距离 $0.236$ 不显著），开辟了文化维度在智能教育中的前沿应用。
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 运用 Hofstede 对丹麦文化的刻画提出跨文化教学差异[[Hypothesis|假设]]，结合丹麦 SFI 报告与高绩效学校实证检验国际[[Effective Teaching|有效教学]]综合在丹麦的适切性，发现核心有效教学质量跨文化稳健，且社会阶层比国家文化更具解释力。
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — 针对西方[[Document|文献]]中广泛存在的“[[Chinese Learner|中国学习者]]”刻板印象展开深层话语解构，批判援引 Hofstede 文化维度进行“文化地图绘制”所带来的本质化倾向，深度剖析了第五维度“儒家工作动力”的历史政治建构与教育实践危害。

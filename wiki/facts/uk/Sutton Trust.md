@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Peter Lampl]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Sutton Trust
@@ -107,7 +108,7 @@ updated: 2026-09-15
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 记录萨顿信托发起创设 [[Education Endowment Foundation|EEF]] 的历史经纬、法定留本基金运营及清算中心联合治理架构。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 梳理萨顿信托资助杜伦大学编制早期[[Meta-analysis|元分析]][[Abstract|研究摘要]]、推动工具包诞生的学术脉络。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 评析萨顿信托通过留本基金设立独立证据中介以化解短期政治选举周期的制度设计。

@@ -10,7 +10,7 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Qualitative Observation]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Lev Vygotsky]]"
   - "[[Confucius]]"
@@ -53,7 +54,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: '2026-07-21'
+updated: 2026-09-17
 ---
 
 # Learner-Centred Education
@@ -217,5 +218,5 @@ updated: '2026-07-21'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 运用[[Third Generation Activity Theory|第三代活动理论]]分析中国 4 所案例学校在跨文化教师教育项目后，如何通过建立学校特定共享目标，将 LCE 重构为提升高阶考分与课堂效率的工具，实现[[Test-Based Accountability|考试问责]]与教学改革的扩展性改造。

@@ -8,7 +8,7 @@ summary: "法国七月王朝公共教育部部长、首相与自由派历史学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,7 +33,8 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # François Guizot
@@ -114,7 +115,7 @@ updated: 2026-09-11
 > - **欧陆比较[[Policy Borrowing|政策借用]]典范** 基佐借用[[Victor Cousin|库森]]的研究网络，将普鲁士枢密顾问官[[Johann Wilhelm Süvern|聚芬]]的《1819 年普鲁士综合教育法草案》技术条款巧妙嫁接至法国七月王朝立宪政制之中，开创了 19 世纪欧陆自上而下将域外先进经验转置为本土实定法的制度移植经典[[Paradigm|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
 > - **跨大西洋公学合法化示范** 基佐通过国家实定法建立初等公学与公立师范的巨大实绩，被英国《外国季刊评论》（*Foreign Quarterly Review*）与美国教育史学家评价为“无可辩驳的成功证明：普及国民初等教育绝非空想家的大脑幻象，而是如同维持陆军与海军一般必须由国家建立并维持的制度常态”，有力支撑了北美[[Common School Movement|公学运动]]的立法游说。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(pp. 27–28)]]；引自 Knight (1930:116–119)
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统剖析基佐如何依托库森的普鲁士报告，将德国君主制法案条款[[Going Native|本土化]]重构为法国七月王朝大资产阶级立宪秩序的法典基石。
 
 ---

@@ -13,7 +13,7 @@ aliases:
 summary: "教育心理学与教学干预研究中指称学生情感领域可观测、可测量产出的操作化概念，涵盖自信心、学科态度、内在动机与一般学习感知等非认知结果变量。理论渊源根植于 Krathwohl 等人（1964）的情感分类学，与学业成就、高阶思维构成学习产出的三大支柱；实证研究表明其在合作学习中具有稳健正向响应（ES = 0.51），但受学科与测量工具影响具有高度情境依赖性。"
 type: concept
 domain: "educational-psychology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -55,6 +55,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Survey Research]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -64,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-04
+updated: 2026-09-17
 ---
 
 # Affective Outcomes
@@ -209,6 +210,6 @@ updated: 2026-09-04
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，系统综合 6 项一阶[[Meta-analysis|元分析]]中关于情感产出的实证证据，量化确立[[Cooperative Learning|合作学习]]对[[Student Attitude|学生态度]]、内在动机与自信心的中等促进效应（$ES = 0.51$），并揭示学科[[Task Structure|任务结构]]对情感效应的显著调节作用。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]]在严格控制基线等效前提下，检验生成式 AI 对大学生情感动机状态（AMS）的促进效应（$g^+ = 0.617$），表明无评判压力的人机交互能有效缓解求助焦虑并显著强化非认知维度的积极学习动力。

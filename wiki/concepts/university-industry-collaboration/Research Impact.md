@@ -10,7 +10,7 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_theories: []
 related_methods:
   - "[[Case Study]]"
   - "[[Systematic Review]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -236,7 +237,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026)]] — 系统解构英国科研卓越框架（[[Research Excellence Framework|REF]]）中科研影响力的评价机制，揭示约 50% 案例依赖[[Public Engagement with Science|公众科学参与]]的事实，指出商业化挤出效应与归因困难，并提出 REF 2029 设立“参与与影响”独立考评剖面的改革路径。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — [[OECD|经合组织]]编著第五章，系统提出科研影响力评估的三层阶梯，并实证测度跨国教育系统对[[Research Utilization|研究利用]]的监测机制覆盖率，揭示“有效机构”面临的最终受益人评估赤字。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation|知识动员]]模型，揭示教育科研影响力的间接缓慢渗透属性，提出乌托邦之喻以强化崇高教育终极目标对生态治理的牵引价值。

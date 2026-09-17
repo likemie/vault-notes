@@ -5,10 +5,10 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - preregistration
   - research-methodology
@@ -55,6 +55,7 @@ related_methods:
   - "[[Generalized Estimating Equations]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Grounded Theory]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[TIDieR]]"
   - "[[EEF Padlock Security Rating]]"
@@ -279,7 +280,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] — 在探讨[[Developer Effect|开发者效应]]与[[Publication Bias|发表偏倚]]的机制时，系统提出将预注册作为 [[What Works Clearinghouse|WWC]] 等清算机构准入条件的政策方案，并深刻辨析了预注册在应对[[Researcher Degrees of Freedom|研究者自由度]]上的有效性与局限性。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）前八年逾 150 项大规模学校 [[Randomised Controlled Trials|RCT]] 的治理实践，详细呈现了从 [[ISRCTN]] 预注册、独立协议防火墙、[[Statistical Analysis Plan|统计分析计划]]（SAP）预先公开，到杜伦大学四模型复算驱动行业指南制定的全生命周期开放科学模式。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 论述[[Evidence-Based Education|循证教育]]改革如何通过大样本预注册、锁定统计分析计划（SAP）、[[Evaluator Independence|第三方独立评估]]与独立标准化测验等严格质控标准，从根本上化解教育研究中的[[Replication in Education Research|复现危机]]与开发者偏倚。

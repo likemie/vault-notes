@@ -9,7 +9,7 @@ summary: "抽样分布的标准差，度量样本统计量对总体参数的估�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Random Sampling]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Standard Error
 
@@ -121,5 +122,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍 [[Causal Modeling|SEM]] 和比例标准误的公式、推导和应用。

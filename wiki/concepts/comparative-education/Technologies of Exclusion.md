@@ -8,7 +8,7 @@ aliases:
 summary: "专业知识生产者或治理机构通过创设高门槛的专门术语、复杂心理测量学模型、严苛准入资质与算法黑箱，将非专业公众与外行质疑排斥在决策审议之外的话语与技术屏障。在教育治理中，面对“专家知识民主化”（人人自诩教育专家）带来的普遍公众争鸣，政策中介机构（如世行与 OECD）策略性利用随机对照试验（RCTs）、潜变量 IRT 模型与指标矩阵等排除性技术，为政策决策构筑不可逾越的科学理性与专业权威护城河。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Qualitative Research]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Technologies of Exclusion
@@ -187,5 +188,5 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐释[[Policy Brokerage|政策中介]]机构在面对“专家知识民主化”所引发的公众争鸣时，如何通过构筑排除性技术与证据阶层化来捍卫专业中介权威。

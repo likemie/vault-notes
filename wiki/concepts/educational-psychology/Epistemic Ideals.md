@@ -8,7 +8,7 @@ aliases:
 summary: "在认识论认知AIR模型中，用于评估科学模型、解释、论证与证据等认识产出质量的规范性标准与评价准则。"
 type: concept
 domain: "educational-psychology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # Epistemic Ideals
@@ -192,6 +193,6 @@ updated: 2026-09-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards|确证标准]]与[[Epistemic Value|认识价值]]在内的扩展[[Epistemic Cognition|认识论认知]]构件，为[[Epistemology|认识论]]理想的界定奠定理论基石。
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将认识论理想作为论证质量评价的双轴核心之一，构建了核心科学实践的基准规范模板，并在初中课堂中实证检验其运作机制。

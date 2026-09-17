@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中把具体知识主张转化为开放且一般化认识论探究的核心问题形式，用于组织跨领域分析，并在并发学习中连接反思与实践。"
 type: concept
 domain: "curriculum"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,7 +39,8 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Test Validity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-08-11
+updated: 2026-09-17
 ---
 
 # Knowledge Questions
@@ -180,6 +181,6 @@ updated: 2026-08-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014)]] — 从课程与评估一致性的视角拆解“知识问题”在 [[Theory of Knowledge|TOK]] 2013 版指南中的核心定位、任务功能及其对[[Critical Thinking|批判性思维]][[Test Validity|测试效度]]的局限性。
 > - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 将知识问题作为打破孤立组件壁垒的工具，展示其如何将 CAS 行动与 EE 研究统合在一致的[[Epistemology|认识论]]反思框架下。

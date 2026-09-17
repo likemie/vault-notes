@@ -10,10 +10,10 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Questionnaire]]"
   - "[[Content Analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
 related_facts: []
@@ -60,7 +61,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-26
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 
 # Global Citizenship
@@ -211,7 +212,7 @@ updated: 2026-07-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 在博士教育层面的七域[[Graduate Attributes|毕业生特质]]分类中[[Revoicing|重铸]]了该域，细化了由环境素养、文化理解和全球视野构成的实证评估赤字。
 > - [[Argument_Wong_2022_HERD|Wong et al. (2022)]] — 检视了英国高校本科毕业生特质话语，指出了全球公民话语的极高纸面覆盖度与其极低的环境、外语应用度之间的张力。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 从 Wight 的三个传统理论深度剖析了该概念，指出了其在[[Rationalism in International Relations|理性主义]]中的国际社会强化逻辑与在[[Revolutionism|革命主义]]中的地缘政治[[Re-Westernisation|再西方化]]实质。

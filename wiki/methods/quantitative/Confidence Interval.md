@@ -8,7 +8,7 @@ summary: "围绕点估计给出的可能取值范围，由置信水平和边际�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Rasch Measurement]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Correlational Research]]"
   - "[[Random Sampling]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 # Confidence Interval
 
@@ -194,7 +195,7 @@ updated: 2026-09-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 借助置信区间分析批判点估计排名的统计虚假精确性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al. (2011)]] — 系统阐释置信区间与置信水平在[[Random Sampling|概率抽样]][[Sample Size Determination|样本量]]计算中的数理逻辑。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 在[[Meta-meta-analysis|二级元分析]]规范中要求报告联合[[Effect Size|效应量]]的[[Standard Error|标准误]]与 95% 置信区间。

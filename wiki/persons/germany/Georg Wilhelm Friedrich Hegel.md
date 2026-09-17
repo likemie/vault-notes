@@ -7,7 +7,7 @@ summary: "19世纪德国唯心主义哲学家。在教育研究（特别是批�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Resonant Oscillation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Baruch Spinoza]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Georg Wilhelm Friedrich Hegel
@@ -68,7 +69,7 @@ updated: 2026-09-11
 > - **理论路径** 深远影响了近现代国家主义教育理论与制度化学校教育（Schooling）的深层语法。在[[International Baccalaureate|国际文凭]]（IB）等高度结构化的现代课程中，常被批评者认为构成了其追求单一真理、塑造“理智化[[Global Citizenship|全球公民]]”的隐蔽[[Ontology|本体论]]基础。
 > - **跨国／跨领域传播** 其对情感的处理方式被认为潜藏在当前流行的“情商教育”背后——表面上关注情感，实则是用理性去裁剪和管理情感，以迎合普世价值和市场需求。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判了主导当代国际课程的“黑格尔式[[Bildung|教化]]（Hegelian Bildung）”，认为其心物二元论和理性[[Disciplina and Doctrina|规训]]阻碍了学生产生真正的突破性学习。
 
 ---

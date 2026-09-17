@@ -6,7 +6,7 @@ aliases:
 summary: "一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-08-19
+updated: 2026-09-17
 ---
 
 # Integrative Pluralism
@@ -152,5 +153,5 @@ updated: 2026-08-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统性回顾了[[Epistemic Cognition|认识论认知]]的四大断层，正式倡导整合的多元主义，指出必须同时考察个体、互动与活动系统三个层级。

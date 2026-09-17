@@ -7,7 +7,7 @@ aliases:
 summary: "学习者主动设定目标、选择策略、监控与评价自身学习过程的学习方式；问题本位学习以识别知识缺口并自导填补为核心机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-17
 ---
 
 # Self-Directed Learning
@@ -86,5 +87,5 @@ updated: 2026-08-24
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 将 SDL 作为PBL的核心机制：学生识别知识缺口后自导学习，并报告 PBL 对高等教育学生自我导向学习的中等正向效应（d = 0.47）。

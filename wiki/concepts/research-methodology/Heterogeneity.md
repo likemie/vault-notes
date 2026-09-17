@@ -6,7 +6,7 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并提示探索调节变量，在混合方法与复杂性理论中揭示统计同质性遮蔽的质性动因多样性与世界的非线性开放特征。"
 type: concept
 domain: "research-methodology"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Between-Study Variance]]"
   - "[[Questionnaire]]"
   - "[[Meta-regression]]"
+  - "[[Correlational Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Karl Pearson]]"
@@ -76,7 +77,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Heterogeneity
@@ -214,7 +215,7 @@ updated: 2026-09-14
 
 ## 实证数据
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 11, 23, 32)]] — 提出“学校像监狱”100 人质性归因案例，论证单一统计指标对解释异质性的遮蔽，并阐明[[Complexity Theory|复杂性理论]]中异质性作为多重视角与多元[[Paradigm|范式]]倡导的核心公理。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]中异质性检验的统计学机制（Q、I²、固定/[[Fixed-Effect and Random-Effects Models|随机效应模型]]）及[[Moderator Analysis|调节变量分析]]的理论价值。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析英国 [[Education Endowment Foundation|EEF]] 工具包中的反馈与[[Teaching Assistant|教学助理]]项目，解构多级统计聚合抹杀教学情境异质性带来的政策风险。

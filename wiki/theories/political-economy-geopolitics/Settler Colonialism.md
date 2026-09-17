@@ -7,7 +7,7 @@ aliases:
 summary: "沃尔夫提出的殖民主义形式理论，核心是消除的逻辑而非剥削的逻辑，近年被西方学者用于分析新疆的汉人移民与维吾尔人关系"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 5
+theory_related_count: 6
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"
@@ -27,7 +27,8 @@ related_concepts:
 related_theories:
   - "[[Necropolitics]]"
   - "[[Hegemony]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Xinjiang Vocational Education and Training Centers]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Settler Colonialism
@@ -102,6 +103,6 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 对定居殖民主义[[Paradigm|范式]]在新疆应用时的去政治化悖论与合谋效应进行了系统性学术批判。
 > - [[Xinjiang Vocational Education and Training Centers]] — 被西方定居殖民主义学者视为执行“消除的逻辑”、实施文化灭绝的核心实证案例。

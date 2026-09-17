@@ -2,13 +2,13 @@
 title: Advanced Placement Program
 aliases:
   - 大学先修课程项目
+  - 大学先修课程
   - Advanced Placement
   - AP Program
-  - AP课程
 summary: "由美国大学理事会建立的高中大学水平单科课程与考试体系，以外部评价支持大学分班或学分，并构成国际文凭进入北美高中的重要制度先例与比较对象。"
 type: concept
 domain: "curriculum"
-related_count: 5
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,12 +23,16 @@ related_concepts:
   - "[[Extended Essay]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
+  - "[[Title I of the Elementary and Secondary Education Act]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
-confidence: medium
-status: draft
+  - "[[Argument_Ginsberg_2024_EP]]"
+related_methods:
+  - "[[Correlational Research]]"
+confidence: high
+status: active
 created: 2026-09-01
-updated: 2026-09-03
+updated: 2026-09-17
 ---
 
 # Advanced Placement Program
@@ -48,9 +52,9 @@ updated: 2026-09-03
 ## 概念演变
 
 > [!dev-timeline]- 从提前升学压力到外部高级课程
-> - **1950 年代中期　项目形成** 福特基金会对优秀学生提前进入大学的讨论、[[Sputnik Shock 1957|Sputnik]] 后的学术竞争焦虑，以及高中担心优秀学生提前离校，共同推动 AP 出现。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, p. 136)]]
-> - **1970 年　规模化实施** 约 55,000 名学生参加三小时 AP 考试，在高中阶段完成被界定为大学水平的学习。课程大纲比英国普通教育证书高级程度考试更少规定，但同样以外部课程和考试影响教学。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, p. 136)]]
-> - **1970 年代后　成为 IB 的制度接口与竞争对象** AP 负责人早期进入[[International Baccalaureate|国际文凭]]理事会，帮助 IB 获得北美承认；学校随后在扩展 AP 与引入 IB 之间比较单科挑战、完整课程、国际标准和实施成本。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 136, 139–140)]]
+> - **1950 年代中期　项目形成** 福特基金会对优秀学生提前进入大学的讨论、[[Sputnik Shock 1957|Sputnik]] 后的学术竞争焦虑，以及高中担心优秀学生提前离校，共同推动 AP 雏形确立。
+> - **1970 年　规模化实施** 约 55,000 名学生参加三小时 AP 考试，在高中阶段完成被界定为大学水平的学习。课程大纲比英国普通教育证书高级程度考试更少规定，但同样以外部课程和考试影响教学。[[Argument_Peterson_1987_OpenCourt_Ch06|(Peterson, 1987, Ch. 6, p. 136)]]
+> - **1970 年代后　成为 IB 的制度接口与竞争对象** AP 负责人早期进入[[International Baccalaureate|国际文凭]]理事会，帮助 IB 获得北美承认；学校随后在扩展 AP 与引入 IB 之间比较单科挑战、完整课程、国际标准和实施成本。[[Argument_Peterson_1987_OpenCourt_Ch06|(Peterson, 1987, Ch. 6, pp. 136, 139–140)]]
 
 ## 核心要素
 
@@ -59,6 +63,7 @@ updated: 2026-09-03
 > - **外部课程与考试** 高校阶段的学科要求通过外部考试进入高中，但不要求全国统一高中课程。
 > - **大学分班** 成绩主要用于进入大学后的分班或学分认定，而不是替代完整高中毕业资格。
 > - **地方嵌入** 学校可把 AP 加入既有荣誉课程，不必重组全部高年级课程。
+> - **大学预备与公平干预载体** 在当代美国基础教育治理中，AP 课程与针对性应试辅导常被贫困率较高的高中作为弥合大学准备度差距（College Readiness）的核心工具，地方教育机构（LEA）广泛利用联邦 [[Title I of the Elementary and Secondary Education Act|Title I]] 补偿性资金为低收入学生采购 AP 备考材料与针对性辅导服务。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, p. 170)]]
 
 ## 与国际文凭的关系
 
@@ -92,5 +97,6 @@ updated: 2026-09-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6)]] — 以 AP 解释北美公立高中接受外部课程与考试的制度先例，并比较其单科选择与 IB 完整课程的不同。
+> - [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] — 在对大型城市学区 [[Title I of the Elementary and Secondary Education Act|Title I]] 联邦经费的实证审计中，记录了高中利用联邦补偿性资金采购针对性 AP 备考辅导以促进大学准备度的现实采办形态。

@@ -5,9 +5,9 @@ summary: "Kitwood发展的质性陈述收集与分析技术，通过15种生活�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, theme/language]
 related_concepts:
@@ -26,12 +26,13 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Accounts]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-09-17
 ---
 # Experience-Sampling Method
 
@@ -112,5 +113,5 @@ updated: 2026-07-23
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）基于[[Ethogenic Approach|人因取向]]原则发展[[Experience Sampling Method|经验取样法]]，使用15种生活情境提示引发参与者录音陈述，并提出八种分析策略及[[Cross-checking|交叉检查]]和[[Member Tests|成员核验]]两道安全措施。

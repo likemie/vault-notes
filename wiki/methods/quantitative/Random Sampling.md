@@ -12,7 +12,7 @@ summary: "从总体中按均等概率选取样本的抽样策略家族，每个�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Stage Sampling]]"
   - "[[Random Assignment]]"
   - "[[Multi-phase Sampling]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-22
+updated: 2026-09-17
 ---
 # Random Sampling
 
@@ -96,5 +97,5 @@ updated: 2026-06-22
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍概率抽样的六种类型及其操作程序。

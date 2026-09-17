@@ -6,7 +6,7 @@ aliases:
 summary: "知识论课程中用于比较不同学科与知识传统如何形成概念、证据、方法和判断标准的课程框架；其历史根源是以多种思维方式回应学科割裂，并逐步由早期知识形式主题发展为可比较的领域分类。"
 type: concept
 domain: "curriculum"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Areas of Knowledge
@@ -332,7 +333,7 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Epistemology|认识论]]演进的[[Domain Specificity|领域特异性]]** [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 横跨品味、审美、价值观、事实等领域，实证了个体的认识论阶段具有强烈的领域非同步性特征。
 > - **跨领域伦理议题** [[Argument_Darwish_2009_Queens|Darwish (2009)]] 记录的 [[Theory of Knowledge|TOK]] 课堂围绕堕胎、死刑与种族歧视展开讨论，引导学生比较不同领域的证据逻辑并识别道德判断中的文化偏见。
 > - **规定题目论文的领域比较** [[Argument_Hughes_2014_JRIE|Hughes (2014)]] 分析跨学科论文如何调用 AOK 发展[[Knowledge Questions|知识问题]]，同时指出领域连接只代表部分[[Critical Thinking|批判性思维]]表现。

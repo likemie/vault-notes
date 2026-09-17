@@ -10,7 +10,7 @@ summary: "由多位评判者各自估计最低可接受水平者在每个二分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -28,12 +28,13 @@ related_concepts:
 related_methods:
   - "[[Ebel Method]]"
   - "[[Multiple-Choice Questions]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-09-17
 ---
 
 # Angoff Method
@@ -113,5 +114,5 @@ updated: 2026-07-25
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节介绍 Angoff（1971）方法的基本程序：评判者估计最低可接受水平者在每题答对的比例，比例总和为最低可接受分数。

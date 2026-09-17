@@ -9,7 +9,7 @@ aliases:
 summary: "正式假设检验中预测总体中变量间不存在关系或组间不存在显著差异的假设形式，与备择假设成对构成统计检验的完整框架，通常以H₀表示。"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Analysis of Variance]]"
+  - "[[Correlational Research]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-21
+updated: 2026-09-17
 ---
 # Null Hypothesis
 
@@ -80,6 +81,6 @@ updated: 2026-06-21
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 系统介绍零[[Hypothesis|假设]]的定义、形式及其在[[Quantitative Research|量化研究]]方案写作中的位置
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 给出零假设的典型场景示例，并与[[Alternative Hypothesis|备择假设]]成对呈现在[[Operationalization|操作化]]框架中

@@ -5,10 +5,10 @@ aliases:
 summary: "知识与教育话语脱离原始生产场所并被接受者选择性挪用、重新定位、改造并嵌入本土秩序与制度架构的过程"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 related_concepts:
   - "[[Champ]]"
   - "[[Policy Borrowing]]"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Case Study]]"
   - "[[Qualitative Observation]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Hu Shi]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Recontextualization
@@ -204,7 +205,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 以[[John Dewey|杜威]]在中国 100 年的四次再脉络化为例，阐述跨国教育转移中接受者基于意识形态与本土痛点展开的选择性挪用与重写机制。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 提出全球—国家—实践三层再脉络化模型，分析教育话语如何被抽象化为[[Floating Signifier|漂浮能指]]并在不同层级发生功能性变形。
 > - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] — 分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中官方再脉络化[[Champ|场域]]运用双文化主义、地方化与道德原则重构话语秩序的实践与张力。

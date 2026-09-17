@@ -14,7 +14,7 @@ aliases:
 summary: "按施测时机和教学功能区分的四种测验类型：安置性测验在课程前测量起点以评估增值，形成性测验在课程中监控进步与诊断，诊断性测验深入探查特定困难的原因，总结性测验在课程后测量最终成就与掌握程度"
 type: concept
 domain: "competency-and-assessment"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,10 +28,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 related_methods:
   - "[[Item Analysis]]"
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-07-26
+updated: 2026-09-17
 ---
 
 # Placement, Formative, Diagnostic, and Summative Testing
@@ -95,5 +96,5 @@ updated: 2026-07-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节在测验编制十步流程的第一步详细介绍四种测验类型，包括安置测验与增值评估的关系、诊断性测验的多题目设计要求，以及总结性测验的参照系选择

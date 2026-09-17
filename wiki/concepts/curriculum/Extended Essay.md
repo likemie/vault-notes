@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭大学预科项目的必修核心要素，通过学生自主选题、长期研究、导师指导和外部评价，把个人兴趣转化为一项可纳入跨国文凭的独立学术探究。"
 type: concept
 domain: "curriculum"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Focus Group]]"
   - "[[Mixed Methods Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-08-22
+updated: 2026-09-17
 ---
 
 # Extended Essay
@@ -132,7 +133,7 @@ updated: 2026-08-22
 > 大学准备不仅包括已经掌握的学科内容，也包括能否管理长期任务、独立判断资料、维持论证并完成规范写作。
 
 > [!claim] Metli, A. & Akış, D.
-> **研究经验支持高等教育过渡** 既有研究把 EE 与[[Critical Thinking|批判性思维]]、独立思考、自我调节和探究式学习联系起来。学生借此熟悉大学所需的研究与写作方法；与大学先修课程（[[Advanced Placement Program|Advanced Placement]]，AP）学生的比较还发现，EE 成绩与大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）存在显著正相关。早期参与者也曾把 EE 评价为进入大学后最有帮助的 [[IB Diploma Programme|IBDP]] 经历之一。Wray、Aulls 与 Lemay、Inkelas 等研究见 [[Argument_Metli_2022_IJER|Metli & Akış (2022, p. 220)]]；早期学生反馈见 [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]。
+> **研究经验支持高等教育过渡** 既有研究把 EE 与[[Critical Thinking|批判性思维]]、独立思考、自我调节和探究式学习联系起来。学生借此熟悉大学所需的研究与写作方法；与[[Advanced Placement Program|大学先修课程]]（[[Advanced Placement Program|Advanced Placement]]，AP）学生的比较还发现，EE 成绩与大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）存在显著正相关。早期参与者也曾把 EE 评价为进入大学后最有帮助的 [[IB Diploma Programme|IBDP]] 经历之一。Wray、Aulls 与 Lemay、Inkelas 等研究见 [[Argument_Metli_2022_IJER|Metli & Akış (2022, p. 220)]]；早期学生反馈见 [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]。
 
 ### 命题总览
 
@@ -193,7 +194,7 @@ updated: 2026-08-22
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 记录 EE 从六学科课程缺口中产生的原因、早期四至六个月研究形态、外部评价、学生反馈及期限调整。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] 说明 [[IB Diploma Programme|IBDP]] 核心结构以及 EE 与 [[Theory of Knowledge|TOK]] 的奖励分转换矩阵。
 > - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] 分析 EE 如何通过[[Concurrency of Learning|并发学习]]与 TOK 和 CAS 形成证据审查、[[Research Question|研究问题]]与现实行动的双向联系，并记录学校实施障碍。

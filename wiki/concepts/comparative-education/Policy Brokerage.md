@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -58,6 +58,7 @@ related_theories:
 related_methods:
   - "[[Network Analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -242,6 +243,6 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，系统解构[[OECD|经合组织]]与[[World Bank|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 揭示英格兰教育[[Policy Network|政策网络]]中政府[[Gatekeepers|守门人]]、官方扶植中介机构与口口相传[[Transfer Translation Transformation|转译]]的运作机制。

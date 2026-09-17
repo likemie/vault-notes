@@ -8,7 +8,7 @@ aliases:
 summary: "教育干预在真实学校中是否按设计要求、足够强度和质量被执行的程度，是打开因果机制黑箱并区分实施失败与理论无效的核心中介"
 type: concept
 domain: "educational-policy-reform"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -63,6 +63,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Effectiveness Trial]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[TIDieR]]"
 related_persons: []
@@ -277,6 +278,6 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 针对美国学校教育技术采购与 [[Every Student Succeeds Act|ESSA]] [[Evidence Standards|证据标准]]的批判性分析，系统阐述了实施保真度、使用剂量、用户满意度与成本信息对解释因果成效不可或缺的实践价值。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 系统梳理了英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在大规模学校现场试验中推进[[Implementation and Process Evaluation|实施与过程评估]]（IPE）规范化的制度演进，深入剖析了规模化扩张引发的培训稀释、大样本功效诉求与现场保真度的张力，以及应对实施妥协的方法学规程。

@@ -8,7 +8,7 @@ aliases:
 summary: "根据研究各阶段时间分布特征区分的研究类型：前载型设置耗时长但分析快（典型为量化调查），后载型设置快但数据收集分析耗时长（典型为质性民族志），混合方法介于两者之间"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
   - "[[Participant Observation]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-17
 ---
 # Front-loaded and End-loaded Research
 
@@ -97,5 +98,5 @@ updated: 2026-06-21
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 系统阐述前载型/后载型的定义、特征对比和典型研究类型，并提供了 Turnbull (1972) 和 Willis (1977) 两个后载型经典案例

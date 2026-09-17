@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,6 +44,7 @@ related_theories:
   - "[[Social Justice Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
 related_facts: []
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Pragmatic Paradigm
@@ -232,7 +233,7 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research|混合方法研究]]取向的哲学前提与[[Fitness for Purpose|适合目的]]原则。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与本土重构。

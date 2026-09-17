@@ -9,7 +9,7 @@ aliases:
 summary: "个体获取并有效应用理解与管理情绪、确立积极目标、展现同理心、建立正向关系以及作出负责任决策所需的认知、情感与行为素养框架。在全球教育治理中，经历从心理卫生与全人教育起源，到联合国儿童基金会（UNICEF）将其开辟为危机保护与脆弱儿童政策中介新赛道，再到经合组织（OECD）与教科文组织跨界将其量化为跨国比较评价指标（如 SSES 测评）的制度演变，引发了关于非认知能力标准化与文化情境性的深刻争鸣。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Social-Emotional Learning
@@ -196,5 +197,5 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示[[UNICEF|联合国儿童基金会]]率先开辟社会情感学习新赛道，并引发[[OECD|经合组织]]与[[UNESCO|教科文组织]]跨界跟进争夺全球规制权与私人资金的组织生态学案例。

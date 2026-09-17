@@ -10,7 +10,7 @@ summary: "测验按是否假设总体分布正态的两类：参数测验假设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
 related_methods:
   - "[[Questionnaire]]"
   - "[[Pilot Testing]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 confidence: medium
@@ -98,5 +99,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.2 节系统区分参数与非参数测验的定义、[[Hypothesis|假设]]、统计适用性和使用场景，并引用 Morrison（1993）对参数测验三项假设的归纳

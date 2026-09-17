@@ -9,7 +9,7 @@ aliases:
 summary: "教育实验研究与循证政策评估中对照组接受的常规教学与既有实践状态，作为检验干预净效应的反事实基准，本身具备动态与高专业水准特征而非被动安慰剂。"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Efficacy Trial]]"
   - "[[Effectiveness Trial]]"
   - "[[Random Assignment]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Business as Usual
@@ -171,6 +172,6 @@ updated: 2026-09-15
 
 ## 使用此概念的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 阐发常态教学高水准基线假说，论证证明干预无法超越常态教学的公共财政与治理价值。
 > - [[Argument_Simpson_2017_JEP|Simpson (2017)]] — 深入剖析教育实验中未界定的常态教学黑箱对[[Counterfactual|反事实]][[Causality|因果推断]]可解释性的严重损害。

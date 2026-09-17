@@ -10,7 +10,7 @@ aliases:
 summary: "社会科学研究中的结构性倾向：研究下（studying down）指向无权群体——更容易进入、敏感性更低；研究上（studying up）指向有权群体——方法论难度更高但平衡了学术知识生产的权力不对称"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -29,9 +29,10 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 related_methods:
   - "[[Semi-structured Interview]]"
+  - "[[Correlational Research]]"
 status: draft
 created: 2026-06-22
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 # Researching Up and Researching Down
 
@@ -76,5 +77,5 @@ updated: 2026-07-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 以研究有权者（9.5）和研究无权与脆弱群体（9.6）两节作为[[Sensitive Research|敏感研究]]的对比案例，系统展示两类研究的方法论差异与共享的伦理底层逻辑。

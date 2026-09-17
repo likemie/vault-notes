@@ -10,7 +10,7 @@ summary: "哥伦比亚大学师范学院经济学与教育学讲座教授、院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Historical-Philosophical-Cultural Motif]]"
 related_theories: []
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Problem Approach]]"
   - "[[Vignettes in Research]]"
   - "[[Historical-Comparative Method]]"
@@ -66,6 +67,7 @@ related_persons:
   - "[[Michael Sadler]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
+  - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -73,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Harold Noah
@@ -143,7 +145,7 @@ updated: 2026-09-14
 > [!citation-card] 借助量化统计技术清洗主观偏见与任意武断
 > 战后社会科学的发展、定量经验研究的兴起、数值数据的日益丰富、数据存储与检索技术的改进以及新统计技术的广泛应用，提升了社会科学处理偏见、倾向性乃至任意武断的能力；因此，比较教育学必须全面跨入现代社会科学的殿堂，采纳经验与量化的探究方法。Noah & Eckstein (1969, pp. 58, 90, 113), 引自 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 65–66)]]
 >
-> *The rise of quantitative empirical research, the greater availability of numerical data, an improved technology for storing, manipulating and retrieving data, and the widespread use of new statistical techniques had improved the scientific character of the social science approach in dealing with problems of bias, tendentiousness and even caprice and willfulness; hence their call for the accession of comparative education into the realm of social sciences, especially as it concerns the adoption of empirical and quantitative methods of inquiry.*
+> *The [[Research in Schools Evaluation|RISE]] of quantitative empirical research, the greater availability of numerical data, an improved technology for storing, manipulating and retrieving data, and the widespread use of new statistical techniques had improved the scientific character of the social science approach in dealing with problems of bias, tendentiousness and even caprice and willfulness; hence their call for the accession of comparative education into the realm of social sciences, especially as it concerns the adoption of empirical and quantitative methods of inquiry.*
 
 ---
 
@@ -155,7 +157,7 @@ updated: 2026-09-14
 > - **学术建制路径** 长期主政哥伦比亚大学[[Normal School|师范学院]]并领航 [[Comparative and International Education Society|CIES]]，奠定了北美跨国教育实证政策研究的机构根基。
 > - **批判史学反省** 考恩指出，其起源叙事虽然赋予了学者合法性，但本质上是高度功能化的建制史，推迟了对档案隐蔽性、非西方经验与[[Academic Iconography|学科肖像学]]的深层批判反思。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析诺亚与埃克斯坦经典著作对年轻学者学科合法性的建构机制，并将其列为[[Comparative History of Comparative Education|比较教育学比较史]]顾问委员会首选资深学者。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯回顾诺亚与埃克斯坦在 1960 年代对历史比较学派的[[Positivism|实证主义]]批评，并对其狭隘科学观展开[[Epistemology|认识论]]辩护。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析诺亚与埃克斯坦在[[Scientific Paradigm|科学范式]]中建立的[[Variable|变量]]函数共变模型，及其审慎不称“法则”的方法论自省与战后政策规划取向。

@@ -9,7 +9,7 @@ summary: "用合理值填充缺失数据以呈现完整数据集并减少无回�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -32,12 +32,13 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Multiple Regression]]"
   - "[[Meta-regression]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 
 # Imputation Methods
@@ -137,5 +138,5 @@ updated: 2026-07-11
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统介绍了回归插补、热卡方法、最近邻方法、多重插补、分数插补和倾向得分赋权的原理与选择框架。

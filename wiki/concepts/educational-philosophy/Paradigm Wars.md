@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪70至90年代社会科学与教育研究领域中量化实证范式与质性诠释范式之间的制度化方法论对立与论辩，后被混合方法研究的实用主义运动所超越与重构"
 type: concept
 domain: "educational-philosophy"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -59,6 +59,7 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stephen Gorard]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Paradigm Wars
@@ -254,7 +255,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 全景呈现教育[[Paradigm|研究范式]]战争的爆发根源、两大阵营对峙以及[[Mixed Methods Research|混合方法]][[Pragmatic Paradigm|实用主义]]整合路径。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 详尽解析量化、质性与混合方法三大研究设计在后实证、建构论与实用主义框架下的演化与协作。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 通过历时[[Document|文献]]计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

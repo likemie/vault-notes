@@ -9,7 +9,7 @@ aliases:
 summary: "研究者与实践者审视自身角色、背景、偏见与隐性假设如何塑造研究与行动全过程的认识论机制，从现象学哲学根基延伸至行动研究、教育探究反思性（防范活动陷阱）及人机协同分析中的人在回路主体责任。"
 type: concept
 domain: "research-methodology"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Field Notes]]"
   - "[[Visual Research Methods]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Reflexivity
@@ -316,7 +317,7 @@ updated: 2026-09-16
 
 ## 包含此概念的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将反身性界定为[[Qualitative Research|质性研究]]核心特征，规范过往经验联结与解释塑造的双重陈述机制，强调备忘录支撑与个人经验篇幅控制（Ch. 9）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐述反身性的[[Phenomenology|现象学]]与[[Ethnomethodology|俗民方法学]]哲学根基、[[Ethnography|民族志]]与[[Action Research|行动研究]]中的主体性监控、质性写作与偏误防范机制，以及计算与AI辅助分析中的人在回路责任。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 在[[Self-Improving School System|自我改进学校系统]]中实证检验教师的反思性专业探究，揭示底层决策[[Hypothesis|假设]]反思滞后（55%）与表面尝试活跃（82%）的鲜明反差，阐明反思性赤字诱发[[Activity Traps|活动陷阱]]的组织机理。

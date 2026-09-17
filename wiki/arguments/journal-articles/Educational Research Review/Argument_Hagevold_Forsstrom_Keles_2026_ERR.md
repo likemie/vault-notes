@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -89,6 +89,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[Education Resources Information Center]]"
   - "[[Ofsted]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
@@ -118,7 +119,7 @@ updated: 2026-09-15
 > 学校里的研究使用受系统条件塑造，但[[Documentary Analysis|文献研究]]它时，大多把目光落在教师个体的技能和心态上。实际上，最顽固的障碍和最有用的促进条件都横跨个体、组织、系统三个层级，由信任、技能发展、可持续结构和关系这四类相互强化的机制共同塑造。因此，研究使用没法靠自上而下的政策指令强制实现，而应从实施（implementation）研究结论转向整合（integration）研究，依靠可持续的结构来培育教师的专业能动性。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 2025 年 1 月在 Scopus、Web of Science 和教育资源信息中心（Education Resources Information Center, ERIC）三个数据库系统检索，经两轮独立盲筛后纳入的 109 项关于学校研究使用的实证研究。
+> - **对象** 2025 年 1 月在 Scopus、Web of Science 和[[Education Resources Information Center|教育资源信息中心]]（Education Resources Information Center, ERIC）三个数据库系统检索，经两轮独立盲筛后纳入的 109 项关于学校研究使用的实证研究。
 > - **张力** 研究使用研究长期带着缺陷框定（[[Deficit Framing]]），把"不用研究"归咎于教师个人，可系统层面的障碍（问责、工作条件、研究与课堂的鸿沟）同时普遍存在。个体层面的研究（k = 91，占 83%）远多于组织（k = 56）和系统层面（k = 46）。
 > - **贡献** 在整合多个既有框架的基础上提出并检验了一个修订框架，用四类跨层治理机制取代原来的层级嵌套逻辑，把对研究使用的理解从实施推进到整合。
 
@@ -130,7 +131,7 @@ updated: 2026-09-15
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Quality Use of Research Evidence Framework\|研究证据质量使用框架（Quality Use of Research Evidence, QURE）]]**<br>[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] | 回答什么样的[[Research Utilization\|研究使用]]才算用得好：好使用不是泛泛接触研究，而是深思熟虑地参与（thoughtful engagement）恰当研究（appropriate research）并加以实施，且受个体（技能、心态、关系）、组织（结构、文化、领导）和系统三层条件支持。用作判断质量使用的基准。（pp.4–5） |
-> | **[[Governing Mechanisms of Research Use\|研究使用治理机制（Governing Mechanisms of Research Use）]]**<br>Hagevold et al. (2026) | 修订框架：信任、技能发展、可持续结构和关系四类机制横跨并贯通个体、组织、系统三层，解释最顽固的研究使用障碍为何反复出现、靠什么条件才能转化。（pp.4, 8, 18–19） |
+> | **[[Governing Mechanisms of Research Use\|研究使用治理机制（Governing Mechanisms of Research Use）]]**<br>本篇综述（Hagevold et al.） | 修订框架：信任、技能发展、可持续结构和关系四类机制横跨并贯通个体、组织、系统三层，解释最顽固的研究使用障碍为何反复出现、靠什么条件才能转化。（pp.4, 8, 18–19） |
 > | **[[Conceptual, Instrumental, and Symbolic Use of Research\|深层使用框架（Deep Use）]]**<br>Farley-Ripple et al. (2018, 2022) | 关注学校用的是什么证据、怎么用：区分工具性、策略性和概念性使用，并把实践者如何搜寻、解释、整合研究视为研究使用的核心活动；用来界定深思熟虑参与与恰当研究之间的双向关系。（p.4） |
 > | **[[Research Literacy\|研究素养（Research Literacy）]]**<br>Eriksen (2022) | 把教师专业工作看成一种技艺而非艺术/科学的两极，主张教师靠完整性、讲理、灵活性三种德性来判断研究是否适合当下情境；用来界定恰当研究的标准，即研究要被实践者带判断地消化，而不是照搬。（pp.4–5） |
 > | **[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型（Ecosystem for Research-Engaged Schools）]]**<br>Godfrey & Brown (2019) | 用微观、中观、外、宏观、时间五个生态层刻画研究参与如何嵌入更大的教育生态，为个体、组织、系统三个分析层级提供子主题来源。（pp.4–5） |

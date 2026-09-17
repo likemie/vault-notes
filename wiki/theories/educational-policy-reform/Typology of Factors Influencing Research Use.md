@@ -10,7 +10,7 @@ aliases:
 summary: "整合 Humphries et al. (2014) 跨领域综述与 Best & Holmes (2010) 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并揭示供需倒挂与系统性协调机制"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -46,6 +46,7 @@ related_theories:
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Typology of Factors Influencing Research Use
@@ -141,7 +142,7 @@ updated: 2026-09-14
 
 > [!proposition-chain] 核心命题四｜科研资助机制与真实需求映射之间存在结构性倒挂，加剧证据供需错配
 > - **前提一（推动导向优先于拉动诊断）** 多数教育系统倾向于优先资助或[[Categorical Funding|委托研究]]生产，却严重忽视对决策者与一线教师真实研究需求的系统性摸查与映射机制。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 114–117)]]
-> - **前提二（倒挂幅度的实证验证）** 经合组织 37 个系统数据显示：在政策端，62% 的系统设有资助政策相关研究的机制，但仅有 51% 设有识别决策者研究需求的机制（存在 11% 倒挂）；在实践端，49% 的系统资[[Teaching Assistant|助教]]学实践相关研究，但仅有 32% 设有摸底教师教学研究需求的机制（存在 17% 倒挂）。
+> - **前提二（倒挂幅度的实证验证）** 经合组织 37 个系统数据显示：在政策端，62% 的系统设有资助政策[[Correlational Research|相关研究]]的机制，但仅有 51% 设有识别决策者研究需求的机制（存在 11% 倒挂）；在实践端，49% 的系统资[[Teaching Assistant|助教]]学实践相关研究，但仅有 32% 设有摸底教师教学研究需求的机制（存在 17% 倒挂）。
 > - **推导** 需求映射机制的滞后导致供给侧研究与需求侧真实痛点持续脱节，形成了“有供给无需求、有需求无证据”的系统性错配。
 
 > [!mechanism-map]- 影响因素五维架构与机制运行系统拓扑图
@@ -249,7 +250,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — [[OECD|经合组织]]编著第五章，正式提出本类型学，并运用 29 国 37 个教育系统跨国调查数据实证测度机制与障壁的分布态势。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统对比跨领域[[Knowledge Mobilisation|知识动员]]模型，为理解机制运作提供理论基础。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 提出信任、技能、结构与关系四类贯通微观、中观与宏观的治理机制，与五维类型学形成微观与宏观互补。

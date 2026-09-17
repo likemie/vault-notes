@@ -10,7 +10,7 @@ summary: "一种在宏观教育与经济规划中运用的定量预测方法。�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Network Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Manpower Requirements Approach
@@ -164,5 +165,5 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]治理史，揭示其在 1960–1970 年代模仿苏联五年计划推行技术官僚化人力需求预测法，并最终催生指标帝国的演进脉络。

@@ -12,7 +12,7 @@ summary: "在量表编制与测验开发初期用于量化专家对题项及全�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Scale Development]]"
   - "[[Questionnaire]]"
   - "[[Rating Scale]]"
+  - "[[Correlational Research]]"
   - "[[Delphi Technique]]"
   - "[[Item Analysis]]"
 related_instruments:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-09-17
 ---
 
 # Content Validity Index
@@ -110,7 +111,7 @@ updated: 2026-08-28
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers|教师研究素养量表]]》编制的第一阶段，针对 63 道初始题池邀请 9 位领域与测量专家进行 CVI/CVR 独立评审，依据 $\text{I-CVI} \ge .78$ 阈值筛选剔除 11 道效度偏低题项，保留 52 道高质量题项进入后续实证施测。
 
 ---

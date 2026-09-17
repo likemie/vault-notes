@@ -10,7 +10,7 @@ aliases:
 summary: "假设检验中根据是否预测关系方向区分的两种假设类型：方向性假设陈述差异或关系的方向（需单尾检验），非方向性假设仅预测存在差异或关系（需双尾检验），各自适用于不同的研究情境。"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-17
 ---
 # Directional and Non-directional Hypotheses
 
@@ -85,6 +86,6 @@ updated: 2026-06-21
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 系统阐述方向性/非方向性[[Hypothesis|假设]]的定义、与单尾/双尾检验的对应关系及各自适用情境
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 将方向性作为好假设的关键特征之一，并提供方向性词汇列表

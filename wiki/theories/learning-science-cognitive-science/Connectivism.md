@@ -9,10 +9,10 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/learning-science
   - field/educational-technology
@@ -43,12 +43,13 @@ related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
   - "[[Network Analysis]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Connectivism
@@ -169,5 +170,5 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 运用连通主义视角将 ChatGPT 概念化为分布式学习网络中的交互式认知中继，分析其在多源信息模式检测与跨情境综合中的赋能效能与局限。

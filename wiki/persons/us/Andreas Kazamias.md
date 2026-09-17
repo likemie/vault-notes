@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -46,6 +46,7 @@ related_theories:
   - "[[Postmodernism]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
+  - "[[Correlational Research]]"
   - "[[Problem Approach]]"
 related_persons:
   - "[[Robert Cowen]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Andreas Kazamias
@@ -154,7 +155,7 @@ updated: 2026-09-11
 > - **学科史编纂** 与考恩共同主编 2009 手册，开创了学科史批判反思板块，直接激发了对比较教育学自身传统发明与[[Geopolitics of Knowledge|知识地缘政治]]的反省。
 > - **人文主义传统** 坚守古典希腊灵魂教育（[[Paideia]]）理想，在高度技术官僚化与经济[[Pragmatic Paradigm|实用主义]]的教育改革潮流中，为全球比较教育界维系了批判性人文关怀。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析卡扎米亚斯对每一代人必须重写其历史命题的提出，及其对学科比较史学传统的开创性贡献。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯系统回顾历史-哲学母题奠基者的思想遗产，重构德语广义科学与非普适探索性假说的方法论合法性。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 考掘比较教育的现代主义发端，辨析[[Marc-Antoine Jullien|朱利安]]准科学人道主义与行政借用母题。

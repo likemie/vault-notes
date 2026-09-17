@@ -7,7 +7,7 @@ summary: "中国著名人类学家与社会学家，提出了中华民族多元�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_theories: []
 related_methods:
   - "[[Fieldwork]]"
   - "[[Ethnography]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Hsu Cho-Yun]]"
   - "[[Ma Rong]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Fei Xiaotong
@@ -112,7 +113,7 @@ updated: 2026-09-11
 > - **教育路径** 其领土型中国观成为中国大陆历史教科书叙事的基础。[[Argument_Xu_2024_CE|Xu (2024)]] 指出，大陆初中历史教科书普遍将当代疆域逆向投影至古代，将古代各政权间战争重构为家门内摩擦，正是“多元一体”框架在课程层面的具体落实。[[Argument_Xu_2024_CE|(Xu, 2024, pp. 580–583)]]
 > - **跨国传播** 在国际比较教育领域，其理论成为分析中国少数民族双语教育、寄宿制学校（[[Boarding Schools]]）及国家认同建构的重要框架。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 系统分析了费孝通“多元一体”理论中的汉人中心主义倾向及其对国家同化主义政策转型的影响。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 通过实证教科书分析，揭示了费孝通领土型中国观如何转化为大陆初中历史教科书的叙事策略。
 

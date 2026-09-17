@@ -13,7 +13,7 @@ summary: "Harré & Secord 提出的社会行为质性研究方法论，秉持“
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Rom Harré]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-22
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Ethogenic Approach
@@ -188,7 +189,7 @@ updated: 2026-09-09
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 19)]] — 阐发哈雷与塞考德的[[Anthropomorphic Model|拟人化模型]]与“人的科学”倡议，主张在质性探究中将人视为具备反思与自我监控能力的能动主体。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22, pp. 441–442)]] — 系统阐述人因取向的五原则、陈述与[[Social Episodes|社会片段]]的特征、以及陈述分析的具体操作程序与方法论边界。
 

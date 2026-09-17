@@ -7,7 +7,7 @@ aliases:
 summary: "高中毕业学分提前完成且大学筛选考试缺少课程激励时，十二年级学生在等待升学期间出现的智识投入下降，揭示招生筛选与高年级课程挑战之间的制度断裂。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,14 +17,15 @@ tags:
   - theme/college-readiness
   - theme/student-engagement
 related_concepts:
-  - "[[Achievement and Aptitude Tests]]"
   - "[[Advanced Placement Program]]"
+  - "[[Achievement and Aptitude Tests]]"
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
   - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-17
 ---
 
 # Twelfth-Grade Slump
@@ -47,7 +48,7 @@ updated: 2026-09-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 十二年级仍处于学校体系内，关键毕业与招生条件却可能已经决定，继续学习的制度回报下降。
-> - **用途** 用于分析大学筛选考试能否反向改善高中课程，以及提前升学、大学先修课程和完整文凭课程怎样重新组织高中最后一年。
+> - **用途** 用于分析大学筛选考试能否反向改善高中课程，以及提前升学、[[Advanced Placement Program|大学先修课程]]和完整文凭课程怎样重新组织高中最后一年。
 > - **边界** 原始材料没有提供该现象的测量工具、发生率或学生层面追踪数据，只说明制度条件与改革者的历史判断。
 
 ## 核心要素
@@ -102,6 +103,6 @@ updated: 2026-09-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6)]] — 用十二年级滑坡解释筛选考试与高年级课程之间的断裂，并比较提前入学、AP 与 IB 三种制度回应。
 

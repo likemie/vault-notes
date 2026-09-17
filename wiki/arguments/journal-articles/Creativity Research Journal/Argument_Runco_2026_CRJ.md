@@ -82,7 +82,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size Conversion]]"
   - "[[Correlated and Hierarchical Effects Model]]"
-  - "[[PRISMA]]"
+  - "[[Correlational Research]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Small Study Effects]]"
   - "[[Confidence Interval]]"
@@ -100,6 +101,7 @@ related_instruments:
   - "[[Creative Achievement Questionnaire]]"
   - "[[Runco Ideational Behavior Scale]]"
   - "[[AMSTAR]]"
+  - "[[PRISMA]]"
   - "[[Alternate Uses Test]]"
 related_persons: []
 related_theories:
@@ -114,7 +116,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 77
+argument_related_count: 79
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -196,7 +198,7 @@ issuing_organization: ""
 > |----------|------|
 > | **元分析与[[Effect Size\|效应量]]样本** | 52 项一阶元分析，包含 164 个一阶效应量；涵盖 2,609 项主要实证研究，16,153 个原始效应量。（pp. 2, 5） |
 > | **参与者样本** | 累计覆盖 1,248,416 名研究被试；单项一阶元分析平均汇总约 50 项研究、323 个原始效应量与 24,968 名被试。（pp. 2, 5–6） |
-> | **时间跨度与设计** | 纳入 1980 年 1 月 1 日至 2023 年 8 月 1 日发表的文献；34 项为相关设计，18 项为比较或实验设计。（pp. 3–4） |
+> | **时间跨度与设计** | 纳入 1980 年 1 月 1 日至 2023 年 8 月 1 日发表的文献；34 项为[[Correlational Research\|相关设计]]，18 项为比较或实验设计。（pp. 3–4） |
 
 ---
 
@@ -226,7 +228,7 @@ issuing_organization: ""
 > 2. **[[PRISMA]] 筛选与严格排除** 全文评估 78 篇，排除无合并统计量的质性综述（如 Bicer et al., 2021）与无关系效应量的脑成像坐标元分析（如 Boccia et al., 2015; Brown & Kim, 2021; Gonen-Yaacovi et al., 2013; Pidgeon et al., 2016; Wu et al., 2015），最终纳入 52 篇。（pp. 3–4）
 > 3. **AMSTAR 12 项方法学质量评估** 双人独立[[Coding in Qualitative Research|编码]]（97% 一致性），设立得分达到 0.75 为高质量判定门槛。（p. 4）
 > 4. **效应量标准化转换与正态化** 统一转换为相关系数 $r$ 并经费舍尔 $z$ 正态化转换。（p. 5）
-> 5. **多水平 [[Correlated and Hierarchical Effects Model|相关与层级效应模型]] 与 [[Robust Variance Estimation|稳健方差估计]] 建模** 设定集群内相关系数为 0.8，基于经验残差构造三明治估计量，运用霍特林 $T^2$ 近似检验进行小样本 $F$ 检验。（pp. 5–6）
+> 5. **多水平 [[Correlated and Hierarchical Effects Model|相关与层级效应模型]] 与 [[Robust Variance Estimation|稳健方差估计]] 建模** 设定集[[Intraclass Correlation Coefficient|群内相关系数]]为 0.8，基于经验残差构造三明治估计量，运用霍特林 $T^2$ 近似检验进行小样本 $F$ 检验。（pp. 5–6）
 > 6. **[[Multilevel Egger's Test|多水平艾格回归]]偏倚校正** 检验[[Small Study Effects|小研究效应]]（$F(1, 10.9) = 15.7, p = .002$），输出偏倚校正后二阶效应量 $r = 0.17$（95% [[Confidence Interval|置信区间]]（Confidence Interval, CI）$[0.11, 0.22]$）。（p. 6）
 
 > [!example]- 图1：[[Literature Search|文献检索]]与筛选流程图（PRISMA [[Flow]] Diagram）
@@ -260,7 +262,7 @@ issuing_organization: ""
 > | 创造力作为预测变量 | .29 | [.18, .41] | [−.10, .61] |
 > | **研究设计** | | | |
 > | 比较研究 | .10 | [−.02, .22] | [−.30, .47] |
-> | 相关研究 | .17 | [.10, .24] | [−.21, .50] |
+> | [[Correlational Research\|相关研究]] | .17 | [.10, .24] | [−.21, .50] |
 > | **[[Creativity Assessment\|创造力测量]]类型** | | | |
 > | 创造性成果 | .12 | [−.02, .26] | [−.28, .49] |
 > | 创造过程 | .27 | [.10, .43] | [−.17, .62] |

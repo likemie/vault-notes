@@ -7,7 +7,7 @@ aliases:
 summary: "对真实世界系统的计算机表征，通过数学模型建模系统特征，用于发现、证明和实验，是教育研究中理解复杂动态系统的工具"
 type: concept
 domain: "educational-technology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_theories:
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Agent-based Modelling]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-09-17
 ---
 
 # Computer Simulation
@@ -187,5 +188,5 @@ Gilbert & Troitzsch（2005, p. 6）指出计算机模拟的三个主要目的（
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 系统介绍计算机模拟的定义、两种类型、七个特征、三大目的、四项优势与十一项保留意见，将模拟与[[Virtual World|虚拟世界]]进行了全面的特征对比，并阐述了模拟作为[[Complexity Theory|复杂性理论]]应用工具的理论基础。

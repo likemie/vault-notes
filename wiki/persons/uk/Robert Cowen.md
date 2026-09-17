@@ -7,7 +7,7 @@ summary: "英国比较教育学者，以 transitology、现代／晚期现代教
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -42,6 +42,7 @@ related_theories:
   - "[[Transitology]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Michael Sadler]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Robert Cowen
@@ -142,7 +143,7 @@ updated: 2026-09-11
 > - **政策路径** 极力抵制将比较教育简化为服务[[Policy Borrowing|政策借用]]和[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）等国际评测的技术官僚“[[Policy Science in Comparative Education|政策科学]]”。他提出的“[[Deductive Rationality|演绎理性]]”和“二元重构支点”引导研究者与国家行政机器、新自由主义绩效量化保持批判性的学术距离。
 > - **跨国传播与应用** 3T 框架被广泛应用于分析包括 [[John Dewey|杜威]] 思想在民国中国的本土转译与碎片化[[Assemblage|组装]]等教育史与比较政策分析中。[[Argument_Zhou_2024_CE|(Zhou & Westberg, 2024, p. 611)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 以 3T 框架分析杜威思想在中国的历史旅程，证明转译与转化受限于本土分裂的权力结构。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 将其双轴模型与转型学应用到[[Regional University Alliances|区域大学联盟]]的晚期现代市场竞争分析中。
 

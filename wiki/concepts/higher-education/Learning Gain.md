@@ -9,10 +9,10 @@ aliases:
 summary: "衡量学生在高等教育阶段从入学到毕业期间在知识储备、高阶思维技能、工作就绪度及个人发展等维度所获得的净增长或纵向发展距离"
 type: concept
 domain: "higher-education"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 confidence: high
 status: draft
 tags:
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Problem Solving]]"
   - "[[Growth]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Incommensurability]]"
   - "[[Going Native]]"
   - "[[Academic Achievement]]"
@@ -37,6 +38,7 @@ related_theories: []
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Triangulation]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
   - "[[Cognitive Ability Test KFT]]"
@@ -56,7 +58,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 created: 2026-08-26
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Learning Gain
@@ -71,7 +73,7 @@ updated: 2026-09-07
 > [!concept-lens] 概念透镜
 > - **含义** 关注学生在大学教育全过程中认知与实践能力的“[[Growth|成长]]距离”（Distance Travelled），而非初始选拔生源的优劣。
 > - **用途** 帮助政策制定者与大学管理者识别教学质量、评估教学改革成效，并为学生能力成长提供实证证据。
-> - **边界** 学习增益测量容易受到学生作答动机（低利害测试中的努力程度）、天花板效应以及跨学科测量[[Incommensurability|不可通约性]]的干扰。
+> - **边界** 学习增益测量容易受到学生作答动机（低利害测试中的努力程度）、[[Floor and Ceiling Effects|天花板效应]]以及跨学科测量[[Incommensurability|不可通约性]]的干扰。
 
 > [!citation-card]- 核心内涵界定
 > 学习增益被理解为学生在高等教育求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（[[Higher Education Funding Council for England|HEFCE]]）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment|CLA+]] [[Going Native|本土化]]版）探索跨院校的能力成长测度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
@@ -115,5 +117,5 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 详细梳理了 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills|高阶思维]]评价的政策项目（包括英国 [[HEFCE Learning Gain Project|HEFCE Learning Gain]] 计划、德国 [[KoKoHs Program|KoKoHs]] 项目与意大利 ANVUR [[TECO Project|TECO]] 试验），分析了不同测度方法的优劣与政策启示。

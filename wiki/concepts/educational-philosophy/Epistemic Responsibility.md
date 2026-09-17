@@ -6,7 +6,7 @@ aliases:
 summary: "认识论责任（Epistemic Responsibility）是指学习者与教育者在知识构建过程中主动批判、审视知识背后的权力诉求与利益立场，拒绝盲从意识形态教条的理性伦理责任。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Liberal Education]]"
   - "[[Problem-Posing Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Epistemic Responsibility（认识论责任）
@@ -133,5 +134,5 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 在学位论文第 4 章中将[[Epistemology|认识论]]责任作为[[Problem-Posing Education|提问式教育]]超越技术性“[[Active Learning|主动学习]]”的核心理论标识。

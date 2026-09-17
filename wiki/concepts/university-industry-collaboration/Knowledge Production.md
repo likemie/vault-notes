@@ -6,7 +6,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在高等教育与地缘政治中关注资本与权力的利益分配，在跨国治理中指向国际组织通过自指性研究帝国对可量化证据的垄断生产。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Chen Kuan-Hsing]]"
 related_facts:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-10
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Knowledge Production
@@ -196,7 +197,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — [[Geopolitics of Knowledge|知识地缘政治]]专著，系统辨析学术知识生产的资本化、专利所有权剥离及[[Narrative Knowledge|叙事知识]]的全球萎缩。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — [[Governing by Numbers|数字治理]] 2.0 框架下解析[[OECD|经合组织]]与[[World Bank|世界银行]]的内部自指性知识生产、工具打包与[[Policy Brokerage|政策中介]]机制。
 

@@ -2290,7 +2290,7 @@
         "Shand, R.",
         "Evans, P.",
         "Blodgett, R.",
-        "Wang, Y.",
+        "[[Wang Yangming|Wang, Y.]]",
         "Head, L."
       ],
       "citation": "Ginsberg, Y. C., Hollands, F. M., Holmes, V. R., Shand, R., Evans, P., Blodgett, R., Wang, Y., & Head, L. (2024). Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185. https://doi.org/10.1177/08959048221127989",
@@ -2314,7 +2314,7 @@
         "Shand, R.",
         "Evans, P.",
         "Blodgett, R.",
-        "Wang, Y.",
+        "[[Wang Yangming|Wang, Y.]]",
         "Head, L."
       ],
       "citation": "Ginsberg, Y. C., Hollands, F. M., Holmes, V. R., Shand, R., Evans, P., Blodgett, R., Wang, Y., & Head, L. (2024). Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185. https://doi.org/10.1177/08959048221127989",
@@ -5968,6 +5968,40 @@
       "source_language": "en",
       "title": "Argument_Schulze-Cleven_2017_HighEduc",
       "year": "2017"
+    },
+    "Serpell (2020)": {
+      "aliases": [
+        "Serpell, 2020",
+        "Serpell (2020)"
+      ],
+      "argument": "Argument_Serpell_2020_EP",
+      "authors": [
+        "[[Zewelanji N. Serpell|Serpell, Z. N.]]"
+      ],
+      "citation": "Serpell, Z. N. (2020). Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers. Educational Psychologist, 55(1), 40-48. https://doi.org/10.1080/00461520.2019.1700798",
+      "doi": "10.1080/00461520.2019.1700798",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md",
+      "source_language": "en",
+      "title": "Argument_Serpell_2020_EP",
+      "year": "2020"
+    },
+    "Serpell, 2020": {
+      "aliases": [
+        "Serpell, 2020",
+        "Serpell (2020)"
+      ],
+      "argument": "Argument_Serpell_2020_EP",
+      "authors": [
+        "[[Zewelanji N. Serpell|Serpell, Z. N.]]"
+      ],
+      "citation": "Serpell, Z. N. (2020). Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers. Educational Psychologist, 55(1), 40-48. https://doi.org/10.1080/00461520.2019.1700798",
+      "doi": "10.1080/00461520.2019.1700798",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md",
+      "source_language": "en",
+      "title": "Argument_Serpell_2020_EP",
+      "year": "2020"
     },
     "Simpson (2017)": {
       "aliases": [

@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -41,7 +41,8 @@ related_concepts:
   - "[[Research Impact]]"
 related_theories:
   - "[[RIA Model for Innovation]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[University of Waterloo Inventor-Owned IP Policy]]"
@@ -215,7 +216,7 @@ citation_aliases:
 23. Schlegel 家族的投入是逐步累积的，而非一次性捐赠。多年来累计投入超过 **5000 万加元**，具体分配为(p.252)：
     - RIA 大楼建设（位于滑铁卢大学北校区）
     - 设立 **12 个**资助讲席教授职位（sponsored chair professorships）
-    - 支持老龄化相关研究活动
+    - 支持老龄化[[Correlational Research|相关研究]]活动
 
 这一投入结构的关键特征是多元化，资金同时投资于物理基础设施（大楼）和人员基础设施（讲席教授）。物理空间确保了共同选址的持续运作，讲席教授确保了持续的研究领导力。
 

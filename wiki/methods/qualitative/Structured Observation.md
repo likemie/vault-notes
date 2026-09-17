@@ -9,7 +9,7 @@ summary: "一种高度系统化的观察方法，研究者预先设计观察类�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -37,11 +37,12 @@ related_methods:
   - "[[Inter-Rater Reliability]]"
   - "[[Rating Scale]]"
   - "[[Triangulation]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 status: draft
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-09-17
 ---
 
 # Structured Observation
@@ -182,5 +183,5 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍结构化观察的设计原则、观察计划表、五种数据记录方式、Dyer（1995）设计清单以及分析方法。（23.2–23.4 节）

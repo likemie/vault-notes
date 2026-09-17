@@ -9,7 +9,7 @@ aliases:
 summary: "Douglas Walton 提出的非形式逻辑论证分析理论，将日常与专业论辩归纳为数十种基于似真推理的论证型式，并配套批判性提问清单以检验论证的辩护效力。"
 type: theory
 theory_field: "argumentation-and-logic"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jack Douglas]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Walton's Argumentation Schemes
@@ -140,5 +141,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将[[Douglas Walton|沃尔顿]]论证型式与基于 [[AIR Model of Epistemic Cognition|AIR]] 模型的科学论证评价方案进行理论对质，揭示其在[[Epistemology|认识论]]正当性、大规模证据整合及分歧裁决机制上的核心局限。

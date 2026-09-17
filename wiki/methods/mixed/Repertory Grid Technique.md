@@ -9,7 +9,7 @@ summary: "基于个人建构理论的研究工具，通过元素与构念的交�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -38,12 +38,13 @@ related_methods:
   - "[[Laddering]]"
   - "[[Pyramiding]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]]"
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-08-01
+updated: 2026-09-17
 ---
 # Repertory Grid Technique
 
@@ -159,5 +160,5 @@ updated: 2026-08-01
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统介绍该方法的技术要素、操作流程、分析方法和教育研究案例，涵盖元素选择、[[Construct|构念]]引发/提供、[[Laddering|阶梯法]]、网格分析和在线资源。

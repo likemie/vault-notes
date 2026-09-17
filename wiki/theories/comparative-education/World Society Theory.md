@@ -10,7 +10,7 @@ aliases:
 summary: "将全球制度趋同阐释为世界文化模型（world culture models）扩散与模仿产物的新制度主义社会学理论。它主张全球化不是简单的功能主义或国家强权统治产物，而是以普世进步和正义规范为基础的去中心化“世界社会”在观念层面的建构，用于解释教育系统和组织形式在跨国范围内呈现的趋同趋势。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John W. Meyer]]"
 related_facts:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # World Society Theory
@@ -198,5 +199,5 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zapp_2022_Springer|Zapp, 2022]] — 深入应用并检验了世界社会理论，展示了大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种具体知识机制嵌入多边全球治理的完整过程。

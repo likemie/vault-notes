@@ -8,7 +8,7 @@ summary: "Delamont (1981) 提出的民族志研究策略，通过研究非典型
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Making the Familiar Strange
@@ -76,5 +77,5 @@ Erickson（1973）也提出了类似的倡议，主张教育研究者应走出�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将 Delamont（1981）的使熟悉变陌生策略列为自然主义方法十大内在困难中第五项的应对方案，并详细阐述了四条具体操作路径。

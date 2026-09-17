@@ -9,7 +9,7 @@ summary: "将Pearson相关扩展到两个或多个预测变量的推断统计方
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Analysis of Covariance]]"
   - "[[Survey Research]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Multiple Regression
@@ -97,6 +98,6 @@ updated: 2026-08-20
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 采用分层与多元线性回归分析，在控制学校导向（确定知识）后检验固定与快速学习能力（FQAL）及[[Simplicity of Knowledge|简单知识]]（SK）对总体[[Academic Achievement|学业成就]]、[[Task Structure|良构与劣构任务]]表现及[[Reflexivity|反思性]]判断的预测力。
 

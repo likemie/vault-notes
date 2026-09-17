@@ -6,7 +6,7 @@ aliases:
 summary: "哈尔伯塔尔提出的政治哲学理论，认为政治共同体通过成员的自我牺牲和殉道获得道德价值，牺牲与感恩构成闭合循环"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Necropolitics]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Sacrifice Theory
@@ -109,6 +110,6 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 首次将哈尔伯塔尔的牺牲理论引入中国的少数民族国族建构研究，剖析了同化暴力的道德化机制。
 > - [[2020 Inner Mongolia Bilingual Education Reform]] — 牺牲理论在地方语言替代危机中的核心经验载体，展现了精英表彰、政治清洗与个体自决中的牺牲逻辑。

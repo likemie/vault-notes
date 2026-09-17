@@ -9,7 +9,7 @@ summary: "美国当代著名混合方法与质性研究方法论学者，系统�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -60,6 +60,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[In-depth Interview]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[J. David Creswell]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # John W. Creswell
@@ -185,7 +186,7 @@ updated: 2026-09-11
 
 克雷斯维尔的学说在当代权威教材与方法论[[Document|文献]]中保持着极高的引证频次。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 《研究设计》第六版，全面呈现世界观三维模型、量化与质性技术以及混合方法设计的最新标准化表述。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 在教育研究哲学全景中引述克雷斯维尔的三大核心混合设计类型学与[[Pragmatic Paradigm|实用主义]]整合逻辑。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011, Ch. 10, p. 261)]] — 系统评析克雷斯维尔与普拉诺·克拉克的混合设计拓扑学、时间规划策略与数据整合实践。

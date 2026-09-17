@@ -6,10 +6,10 @@ aliases:
 summary: "衡量个体接受正规学校教育的时长或最高学历层次的人口学变量。是探究认知发展、社会阶层与人力资本积累的核心解释变量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: []
 related_concepts:
   - "[[Epistemological Beliefs]]"
@@ -22,6 +22,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Questionnaire]]"
   - "[[Multinomial Logistic Regression]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-09-17
 ---
 
 # Educational Level
@@ -60,5 +61,5 @@ updated: 2026-08-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] —  验证了受教育水平对个体[[Epistemology|认识论]]发展阶段的[[Predictive Validity|预测效度]]，确认教育年限越高，个体越倾向于表现出成熟的[[Epistemological Beliefs|认识论信念]]模式。

@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 82
+related_count: 84
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -83,12 +83,14 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Framework Synthesis]]"
   - "[[Likert Scale]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Toby Greany]]"
 related_facts:
   - "[[Teaching and Learning Research Programme]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[ResearchED]]"
+  - "[[Chartered College of Teaching]]"
   - "[[Data Team Intervention]]"
   - "[[Research Learning Communities]]"
   - "[[Every Student Succeeds Act]]"
@@ -109,7 +111,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Evidence-Informed Practice
@@ -322,7 +324,7 @@ updated: 2026-09-16
 > - **1979 — [[Research Utilization|研究利用]]理论奠基** Weiss (1979) 提出研究利用的多元模式（工具性、概念性、象征性等），打破研究直接指导决策的[[Technical Rationality|技术理性]]设想，为 EIP 奠定[[Epistemology|认识论]]基石。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 127)]]
 > - **1996 — 教学作为研究本位专业** Hargreaves (1996) 发表演讲，倡导重塑教学为由研究支撑的专业，引发英美等国关于教育证据角色的大规模政策论争。
 > - **2000s–2010s — 制度化推进与因果问责** 英国实施 [[Teaching and Learning Research Programme|TLRP]] 研究计划，美国出台 [[No Child Left Behind Act 2001|NCLB]] 强化因果实验标准与 What Works 运动，加拿大安大略省推进教育研究与评估战略。
-> - **2013–2015 — 草根转向与翻转系统** 英国一线教师发起 [[ResearchED]] 草根运动，特许教学学院成立；Evers & Kneyber (2015) 编著《Flip the System》，倡导教师[[Professional Judgment|专业判断]]引领变革、抗衡自上而下行政问责。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 128)]]
+> - **2013–2015 — 草根转向与翻转系统** 英国一线教师发起 [[ResearchED]] 草根运动，[[Chartered College of Teaching|特许教学学院]]成立；Evers & Kneyber (2015) 编著《Flip the System》，倡导教师[[Professional Judgment|专业判断]]引领变革、抗衡自上而下行政问责。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 128)]]
 > - **2017 — 定义、应用与测量的三轴整合** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 编辑特刊，将 EIP 系统化组织为定义（四源整合）、应用（[[Knowledge Mobilisation|知识动员]]四策略与肥沃土壤）与测量（双重缺口与成果分层）三大主题。
 > - **2017 — [[Operationalization|操作化]]整合模型（[[School Enquiry Cycle|ESTI]]）与两界融通** [[Argument_Brown_2017_ER|Brown et al. (2017)]] 针对 EIP 在实践中分裂为 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 的双轨割裂现状，提出整合内部[[Data Team Intervention|数据团队]]与外部[[Research Learning Communities|研究学习共同体]]的 ESTI 八步探究循环，为 EIP 奠定了微观操作化理论基石。
 > - **2021 — 欧洲政策语言与非处方化协调** 在欧盟语境中，EIP 被重新概念化为适应成员国教育主权、培育评价文化与[[Knowledge Mediation|知识中介]]的非处方化政策语言。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
@@ -392,7 +394,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle|ESTI]] 探究循环与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization|操作化]]奠定理论与实证基石。
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 追溯 15 年来循证运动从政策端向实践端的演进历程，反思证据知情标签的商业公关化风险，并借助循证医学反思捍卫教师[[Professional Judgment|专业判断]]与[[Knowledge Mediation|知识中介]]的独立性。

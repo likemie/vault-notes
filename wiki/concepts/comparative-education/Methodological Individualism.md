@@ -6,7 +6,7 @@ aliases:
 summary: "主张所有社会现象、制度演进与集体结果必须且只能通过个体行动者的动机、信念、决策与互动来解释的方法论与认识论原则"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Critical Review]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
@@ -48,7 +49,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Methodological Individualism
@@ -186,5 +187,5 @@ ightarrow$ 塑造并规定个体行动 | 微观实践与中观组织、宏观系
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 运用[[Critical Review|批判性综述]]解构 34 篇核心[[Document|文献]]，明确将方法论个体主义识别为 30 年来阻碍[[Research Utilization|研究使用]]理论突破的关键[[Epistemology|认识论]]瓶颈。

@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-09-17
 ---
 
 # China Social Credit System
@@ -52,7 +53,7 @@ updated: '2026-05-18'
 > - 根据个人累积评分，公民被允许或禁止旅行
 > - 子女能否获得优质教育与父母的信用评分挂钩
 > - 实时位置在手机应用中公开以预防金融犯罪
-> - Partaken 引述 Kostka (2019) 和 Song (2019) 作为相关研究来源
+> - Partaken 引述 Kostka (2019) 和 Song (2019) 作为[[Correlational Research|相关研究]]来源
 
 ## 影响与后果
 

@@ -9,7 +9,7 @@ summary: "伦敦大学国王学院比较教育学讲座教授，战后英国比�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Problem Approach]]"
+  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Edmund King
@@ -129,7 +130,7 @@ updated: 2026-09-11
 > - **跨国学会建制化推动** 主持伦敦大学国王学院教研中心，作为[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与英国学会（BCIES）的核心奠基人，推动了西欧比较教育学术网络的制度化形成。
 > - **学科守门与方法论断裂的历史负资产** 在 1970 年代方法论分裂中对结构社会学的排斥与对阿彻的权威[[Disciplina and Doctrina|规训]]，被后代批判学者定性为英格兰老一代学人排他固步的历史教训。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 考证金与霍姆斯围绕科学划界标准与社会预测可行性展开的长年激烈方法论争鸣。
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 批判金在 1970 年代方法论大分裂中试图规训阿彻的学术霸权，并反思其政策科学立场与国家权力的危险结盟。
 

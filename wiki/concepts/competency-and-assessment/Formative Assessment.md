@@ -9,7 +9,7 @@ aliases:
 summary: "在教学过程中系统收集学生理解与表现证据、提供指向改进的对话式反馈并动态调整教与学行动的评价范式"
 type: concept
 domain: "competency-and-assessment"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,6 +41,7 @@ related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
   - "[[Experimental Research]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Formative Assessment
@@ -166,7 +167,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]** 结合 [[OECD]] 国际经验系统论述了形成性评价在培育高等教育学生[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]中的基石作用，呼吁在高校质量保障与教学支持中强化形成性评价工具的研发与应用。
 > - **[[Argument_Biggs_1999_HERD|Biggs (1999)]]** 在[[Constructive Alignment|建构性对齐]]框架下阐明，[[Learning Portfolio|学习档案袋]]与过程性反思日志通过持续的师生协商与形成性反馈，能够有效引导学生走向[[Surface and Deep Learning|深层学习]]。
 > - **[[Argument_Hattie_2005_ACER|Hattie (2005)]]** 论证以教师为核心的形成性评价系统（[[Assessment Tools for Teaching and Learning|asTTle]]）如何通过三核心反馈提问引导目标设定与教学反思，打破传统自上而下的总结性问责困局（pp. 11–21）。

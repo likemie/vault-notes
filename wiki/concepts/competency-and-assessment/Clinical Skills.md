@@ -7,10 +7,10 @@ aliases:
 summary: "通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能；在健康职业教育中由问题本位学习等教学模式重点培养。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/clinical-skills
   - theme/health-professions-education
@@ -26,6 +26,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-17
 ---
 
 # Clinical Skills
@@ -88,5 +89,5 @@ updated: 2026-08-24
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] [[Meta-meta-analysis|二阶元分析]]报告，PBL 对高等教育学生临床技能的效应（d = 1.06）为五类结果中最高，源于 PBL 对真实[[Problem Solving|问题解决]]的聚焦；Wosinski et al. (2018) 亦报告 PBL 促进护理学生临床推理。

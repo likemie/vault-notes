@@ -6,7 +6,7 @@ aliases:
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观、存在唯一正确答案的事实。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,9 +25,11 @@ related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
 related_persons:
   - "[[Deanna Kuhn]]"
+related_methods:
+  - "[[Correlational Research]]"
 status: active
 created: 2026-08-15
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Absolutist
@@ -102,6 +104,6 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 在梳理[[Epistemology|认识论]]发展模型时，将绝对论作为反映[[Certainty of Knowledge|知识的确定性]]、简单性及[[Cognitive Source|认知来源]]与辩护的初始结构性成分。
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 将绝对论纳入其三层认识论发展框架，揭示了绝对论立场在面对主观性侵入时的脆弱性，以及在事实领域的相对顽固性。

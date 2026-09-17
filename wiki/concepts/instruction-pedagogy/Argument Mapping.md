@@ -9,7 +9,7 @@ aliases:
 summary: "严格依循非形式逻辑语法将论辩推论链条（主张、理由、证据、反驳）进行空间树状或网络可视化的认知脚手架"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Pairwise Wald Tests]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Argument Mapping
@@ -131,5 +132,5 @@ flowchart TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 系统对比了论证图（$g = 0.798$）、[[Mind Mapping|思维导图]]（$g = 1.041$）与[[Concept Mapping|概念图]]（$g = 0.548$）对[[Higher-Order Thinking Skills|高阶思维]]的促学效能级差。

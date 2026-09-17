@@ -11,10 +11,10 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 39
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: "government-agency"
 headquarters: "Washington, D.C."
 established: "2002"
@@ -57,6 +57,7 @@ related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Education Resources Information Center]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Education Endowment Foundation]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -83,7 +84,7 @@ updated: 2026-09-17
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 美国联邦最高法定教育评价与证据[[Transfer Translation Transformation|转译]]中枢，隶属于[[Institute of Education Sciences|美国教育部教育科学研究院]]（IES），统辖[[What Works Clearinghouse|有效干预清算中心]]（WWC）、全美十大区域教育实验室（RELs）及教育资源信息中心（ERIC），旨在通过独立、严谨、基于[[Causality|因果推断]]的实证评价，向全美政策制定者、学区管理者与一线教育者提供客观科学的有效性证据。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 50–51)]]
+> 美国联邦最高法定教育评价与证据[[Transfer Translation Transformation|转译]]中枢，隶属于[[Institute of Education Sciences|美国教育部教育科学研究院]]（IES），统辖[[What Works Clearinghouse|有效干预清算中心]]（WWC）、全美十大区域教育实验室（RELs）及[[Education Resources Information Center|教育资源信息中心]]（ERIC），旨在通过独立、严谨、基于[[Causality|因果推断]]的实证评价，向全美政策制定者、学区管理者与一线教育者提供客观科学的有效性证据。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 50–51)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2002 年依据美国国会颁布的《2002年教育科学改革法案》（Education Sciences Reform Act of 2002, ESRA）正式设立，旨在彻底改变以往联邦教育研究碎片化、缺乏科学因果严谨性与充斥利益冲突的弊病。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
@@ -110,7 +111,7 @@ updated: 2026-09-17
 >   1. **评估处（Evaluation Division）** — 直接监管联邦重大法定项目的独立外部第三方评价合同；
 >   2. **[[What Works Clearinghouse|有效干预清算中心]]（WWC Branch）** — 负责[[Evidence Standards|证据标准]]手册研发、认证系统评价员资格与干预指南编写；
 >   3. **区域教育实验室处（RELs Branch）** — 统管全美 10 个跨州区域实验室，开展地方性合作研究与技术援助；
->   4. **国家教育图书馆与 ERIC 处** — 维护全球最大的开放获取教育[[Document|文献]]数据库。
+>   4. **国家教育图书馆与 [[Education Resources Information Center|ERIC]] 处** — 维护全球最大的开放获取教育[[Document|文献]]数据库。
 > - **外部科学咨询理事会** 由国家教育科学委员会（National Board for Education Sciences, NBES）提供同行评议监督与战略指导。
 
 > [!pathways]- 业务运行机制与独立性制度特征

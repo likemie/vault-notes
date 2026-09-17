@@ -4,7 +4,7 @@ aliases: [唯意志论, 唯意志主义, voluntaristic assumption, voluntarist a
 summary: "关于人类本质特性的本体论假设，主张个体是自身行动的自主发起者，具有自由意志、反思意识与创造力，能够在主观意向与社会互动中积极创造并改造其生存环境。"
 type: concept
 domain: "educational-philosophy"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,8 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Accounts]]"
   - "[[Action Research]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Correlational Research]]"
   - "[[Ethogenic Approach]]"
   - "[[Case Study]]"
 related_persons:
@@ -53,7 +55,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Voluntarism
@@ -156,7 +158,7 @@ updated: 2026-09-11
 > [!contrast-table] 围绕唯意志论形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **自主发起创造命题** | 人类是行动的发起者并拥有自由意志，在行动中创造自身生存环境 | 意向性分析、目的论解释、情境建构 | Burrell & Morgan (1979); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 8)]] |
+> | **自主发起创造命题** | 人类是行动的发起者并拥有自由意志，在行动中创造自身生存环境 | [[Intent-to-Treat Analysis\|意向性分析]]、目的论解释、情境建构 | Burrell & Morgan (1979); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 8)]] |
 > | **拟人化主体模型命题** | 探究必须把人当作能动主体，聚焦行动者的理由陈述与规则协商 | 拟人化模型、言语陈述分析、事件分析法 | Harré & Secord (1972); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 16–17)]] |
 > | **组织主观发明命题** | 组织与制度不是超个人的客观法则系统，而是人类意义赋予的发明物 | 组织[[Phenomenology\|现象学]]分析、主观建构追踪、价值冲突剖析 | Greenfield (1975); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 8–10)]] |
 
@@ -196,7 +198,7 @@ updated: 2026-09-11
 
 ## 实证数据
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 8, 16–17)]] — 系统界定唯意志论作为人性[[Ontology|本体论]]基石，阐发其与[[Determinism|决定论]]的对立，并探讨哈雷[[Anthropomorphic Model|拟人化模型]]与格林菲尔德主观组织观。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨[[Ethogenic Approach|人因取向]]、自述法、[[Case Study|个案研究]]与[[Action Research|行动研究]]中的主体性赋权逻辑。
 

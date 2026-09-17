@@ -8,7 +8,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -54,7 +54,8 @@ related_concepts:
   - "[[Habituation]]"
   - "[[Praxis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Stanislav Shatskii]]"
   - "[[Tao Xingzhi]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # John Dewey
@@ -196,7 +197,7 @@ updated: 2026-09-11
 > - **1920年代（翻译与吸收）** *The School and Society* 被译为俄文，肖像收录于苏联教育百科全书；1928年访苏与 [[Stanislav Shatskii]] 等[[Progressive Education|进步教育]]家会面，成为美苏[[Cultural Diplomacy|文化外交]]的焦点。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）
 > - **1930年代（意识形态全面摒弃）** 苏联因其自下而上的民主成长观与阶级意识形态教育发生深刻冲突，全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]，将杜威的探究、对话与生长重构为三环节主动学习模型，并审查 IB [[Theory of Knowledge|TOK]] 课程。
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 运用 Cowen 3T 框架拆解杜威思想在民国中国1919–1928年的转移、转译与转化机制。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 分析杜威思想在建国后中国教育话语中的三重变形与政治重构。

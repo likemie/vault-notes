@@ -6,7 +6,7 @@ aliases:
 summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 77
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_methods:
   - "[[Hierarchical Linear Model]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Slavin]]"
   - "[[John Hattie]]"
@@ -297,7 +298,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2002_ER|Slavin (2002)]] — 证据本位改革奠基之作，系统阐释开发-评估-推广[[Paradigm|范式]]与反思教育研究声誉危机。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统总结 15 年来三条件基础设施突破与 [[Response to Proven Instruction|RTPI]] 方案蓝图。
 > - [[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] — 跨国比较视域下的中美英循证改革演进与对中国学者五类质疑的理论辨正。

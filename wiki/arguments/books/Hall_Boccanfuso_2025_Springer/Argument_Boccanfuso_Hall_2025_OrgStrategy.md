@@ -49,6 +49,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Website Content Analysis]]"
   - "[[Content Analysis]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
@@ -68,7 +69,7 @@ title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_key: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -299,7 +300,7 @@ citation_aliases:
 大学对"C 级高管对接"的重视和企业对"知识产权打包"的重视，反映了第一章建立的两种制度逻辑(pp.67–68)：
 
 - 大学寻求与企业的 CEO/CTO 级别建立联系——这能提升大学在产业界的可见度和声誉，也可能带来更大规模的合作。这是**声誉驱动的逻辑**
-- 企业希望一次谈判拿到多个相关研究者的知识产权组合，而不是和五个教授分别谈五次——这是**效率驱动的逻辑**
+- 企业希望一次谈判拿到多个[[Correlational Research|相关研究]]者的知识产权组合，而不是和五个教授分别谈五次——这是**效率驱动的逻辑**
 
 > [!example]
 > 用一个教育产业的例子来理解这个分歧。假设一家教育科技公司（如 Coursera 或 Duolingo）想和一所大学的教育学院合作。大学希望公司的 CEO 亲自来校园参加签约仪式、做一场公开讲座——因为这能提升教育学院在"教育创新"领域的声誉。公司则希望一次谈判能覆盖教育学院多个教授开发的课程内容和[[Learning Analytics|学习分析]]算法——因为如果需要分别和五位教授谈判，公司的法务成本和时间成本会成倍增加。这两种需求本质上不是冲突的，但需要有人在中间做"翻译"和"整合"——这正是礼宾服务的角色。

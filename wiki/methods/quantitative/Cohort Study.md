@@ -12,7 +12,7 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -41,12 +41,13 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Trend Study]]"
   - "[[Survey Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 
 # Cohort Study
@@ -122,5 +123,5 @@ Douglas（1976）对队列研究相对于横截面设计的优势进行了有力
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 该章系统讨论了队列研究作为[[Longitudinal Study|纵向研究]]设计的定义、特征、优势（Box 13.1）和局限，并区分了队列研究与面板研究。

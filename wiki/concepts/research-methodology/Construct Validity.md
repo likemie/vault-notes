@@ -10,7 +10,7 @@ aliases:
 summary: "评价抽象构念的界定、操作化与所得证据是否共同支持预期解释；涵盖测量工具、实验操纵、质性范畴、课程评估以及宏观政策认证体系（MTMM收敛与判别效度），防范构念不足呈现与无关方差污染。"
 type: concept
 domain: "research-methodology"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Document]]"
   - "[[International Baccalaureate]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Praxis]]"
 related_theories: []
@@ -67,6 +68,7 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Cronbach's Alpha]]"
   - "[[Content Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Louis Cohen]]"
@@ -85,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-08-29
+updated: 2026-09-17
 ---
 
 # Construct Validity
@@ -236,7 +238,7 @@ updated: 2026-08-29
 > 1. **严密界定构念** 说明理论定义、构成要素、排他性边界及潜在竞争解释。
 > 2. **细化[[Operationalization|操作化]]映射** 建立双向细目表，将题项、任务或评价标准逐一映射至构念维度，识别遗漏与无关污染。
 > 3. **多元汇集经验证据** 结合[[Document|文献]]逻辑、专家判断、内部因子结构、[[Multitrait-Multimethod Matrix|MTMM]] 收敛与判别关系及质性主体意义。
-> 4. **系统排查反例与方法效应** 主动寻找反常数据、天花板/地板效应、社会赞许性偏差与特定方法人工副产物。
+> 4. **系统排查反例与方法效应** 主动寻找反常数据、天花板/[[Floor and Ceiling Effects|地板效应]]、社会赞许性偏差与特定方法人工副产物。
 > 5. **限定解释适用范围** 明确声明有效性结论适用的群体特征、语言版本、实施情境与具体决策目的。
 > 6. **动态迭代与再验证** 当工具被翻译、修改、缩减或应用于新情境时，重新启动构念效度验证分析([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch. 8]])。
 
@@ -280,7 +282,7 @@ updated: 2026-08-29
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 创新性将 Campbell & Fiske (1959) [[Multitrait-Multimethod Matrix|MTMM]] [[Construct|构念]]效度理论应用于 10 个教育清算中心实证元评估，揭示跨平台评级冲突与构念效度危机。
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014)]] — 运用构念效度理论剖析 IB ToK 课程评估文本，揭示内部对齐掩盖[[Critical Thinking|批判性思维]]构念不足呈现的方法学机制。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen, Manion, & Morrison (2011)]] — 系统阐释构念效度的理论表述、MTMM 验证矩阵、反驳性检查以及构念不足呈现与无关方差威胁。

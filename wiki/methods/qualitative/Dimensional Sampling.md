@@ -7,9 +7,9 @@ summary: "配额抽样的细化，识别总体中多个感兴趣的因素，确�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 4
+method_related_count: 5
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dbeafe"
 tags:
   - method/sampling
@@ -20,6 +20,7 @@ related_theories: []
 related_methods:
   - "[[Quota Sampling]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-17
 ---
 # Dimensional Sampling
 
@@ -67,5 +68,5 @@ updated: 2026-06-22
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍维度抽样作为[[Quota Sampling|配额抽样]]的细化方法。

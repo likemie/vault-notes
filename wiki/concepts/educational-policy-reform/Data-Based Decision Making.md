@@ -7,7 +7,7 @@ aliases:
 summary: "教育管理与教学中以系统层面和课堂层面的多元数据为依据作出决策的取向，经历目标设定、数据收集、质检分析、改进落实与循环评估的探究过程；虽能精准诊断校本学情病因，但自身不包含现成教学解决方案，亟需与外部研究知情教学实践（RITP）在学校探究循环中深度整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Qualitative Observation]]"
   - "[[Survey Research]]"
+  - "[[Correlational Research]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Theory of Change]]"
@@ -61,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Data-Based Decision Making
@@ -228,7 +229,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 系统阐释 DBDM 演进、五阶段行动循环与特温特[[Data Team Intervention|数据团队]]（Data Team）实证干预，揭示其知病因却缺良方的固有盲区，并构建整合 DBDM 与 [[Research-Informed Teaching Practice|RITP]] 的 [[School Enquiry Cycle|ESTI]] 八步探究模型。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统论述 DBDM 作为与 RITP 相对的数据使用形态，揭示课堂数据层级感知偏误，倡导定性定量[[Triangulation|三角验证]]与学校探究循环。
 > - Schildkamp & Kuiper (2010) — 提出基于数据的决策核心概念界定，系统梳理输入、过程、情境与结果四类校本数据形态及实践功能。

@@ -4,10 +4,10 @@ aliases: [简约原则, 奥卡姆剃刀, Occam's razor, 简便律, law of parsim
 summary: "科学探究四大基本假设之一，源于奥卡姆剃刀与爱因斯坦准则，主张在同等解释力的假说或模型中优先选择实体最少、概念最经济的理论，构成统计建模、模型拟合与理论建构的核心原则。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: [theme/epistemology, theme/methodology, theme/research-philosophy, methodology/quantitative]
 related_concepts:
   - "[[Hypothesis]]"
@@ -40,13 +40,14 @@ related_methods:
   - "[[Accounts]]"
   - "[[Network Analysis]]"
   - "[[Grounded Theory]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Fred N. Kerlinger]]"
   - "[[Keith Morrison]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Principle of Parsimony
@@ -187,7 +188,7 @@ updated: 2026-09-11
 
 ## 实证数据
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 16)]] — 系统界定科学探究中的简约原则、奥卡姆剃刀内涵、爱因斯坦底线以及 Kerlinger 假说经济性准则。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨统计模型选择、因子分析公因子提取准则以及[[Hypothesis|假设]]精简与质性[[Rich and Thick Description|深描]]的方法论权衡。
 

@@ -9,7 +9,7 @@ summary: "美国社会学家，加州大学圣地亚哥分校荣休教授，存�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_theories:
 related_methods:
   - "[[Fieldwork]]"
   - "[[Grounded Theory]]"
+  - "[[Correlational Research]]"
   - "[[Mixed Methods Research]]"
 related_instruments: []
 related_persons:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Jack Douglas
@@ -113,7 +114,7 @@ updated: 2026-09-11
 > - **批判性数据观** 启发教育研究者对标准化考试、出勤率、升学率等官方教育统计数据保持[[Reflexivity|反思性]]警惕，促使研究深入考察这些数据背后的行政分类机制与利益博弈。
 > - **存在主义转向** 将个体的情感、焦虑、生存冲突与微观道德抉择引入社会学经验探究视野。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用道格拉斯[[Normative Paradigm|规范范式]]与[[Interpretive Paradigm|诠释范式]]两分法（pp. 17–18），作为梳理全章范式演变、自然主义探究与反实证主义批判的统摄性概念支柱。
 
 ---

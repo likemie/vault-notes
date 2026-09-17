@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 60
+method_related_count: 61
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -66,6 +66,7 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Field Notes]]"
   - "[[Member Checking]]"
+  - "[[Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Implementation and Process Evaluation]]"
 related_arguments:
@@ -83,7 +84,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 # Case Study
 
@@ -250,7 +251,7 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 ---
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 以跟踪式个案研究为设计，研究者与被访者保持长期联系直至毕业去向确定。双重目的：检视叙述[[Reliability|可靠性]]（观察实际行动与访谈对照）、确证意向与行为关联。选取结合目的抽样与[[Theoretical Sampling|理论抽样]]，通过控制性别、教育质量、学业态度减少噪音。两阶段累计 62 名个案：第一阶段（38 人）滚雪球选取 → 第二阶段（24 人）补充贫困生（17 人）和女生（10 人）。将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异
 > - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations|大科学装置]][[Going Native|本土化]]四个切面案例

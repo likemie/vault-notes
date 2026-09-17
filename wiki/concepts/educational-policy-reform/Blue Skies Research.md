@@ -9,7 +9,7 @@ aliases:
 summary: "由研究者好奇心驱动的开放式、探索性研究，旨在贡献原创知识、扩展理论前沿，区别于理论已被给定、议程由委托方设定的评估研究或应用研究。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,14 +25,15 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Research Topic]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Blue Skies Research
 
@@ -83,5 +84,5 @@ updated: 2026-09-11
 > 过去二十余年，分类资助（categorical funding）的结构性增长正在系统性压缩蓝天研究的空间。当政府和非政府资助机构越来越倾向于赞助政策导向项目时，由研究者好奇心驱动、不以直接政策应用为目标的研究越来越难以获得资助（Burgess, 1993, p. 1）。Burgess 的"研究者不过是合同工"判断，正是对这一趋势的极端概括。
 
 > [!implication] 命题后果
-> - **对[[Knowledge Production|知识生产]]的后果** 当资助只流向政策相关研究时，知识生产的议程被政策议程重新定向。不被政策制定者视为优先的领域——无论其学术价值如何——面临资源匮乏。
+> - **对[[Knowledge Production|知识生产]]的后果** 当资助只流向政策[[Correlational Research|相关研究]]时，知识生产的议程被政策议程重新定向。不被政策制定者视为优先的领域——无论其学术价值如何——面临资源匮乏。
 > - **对研究自主性的后果** 从"研究者指定[[Research Topic|研究主题]]"向"赞助方指定研究焦点"的转变，意味着研究社区丧失了定义什么问题是重要问题的自主权。

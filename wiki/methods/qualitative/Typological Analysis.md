@@ -8,7 +8,7 @@ summary: "按明确标准把质性数据分入组、子集或类别的分类过�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_methods:
   - "[[Constant Comparison]]"
   - "[[Content Analysis]]"
   - "[[Analytic Induction]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Typological Analysis
@@ -111,6 +112,6 @@ updated: 2026-09-12
 
 ## 使用此方法的研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]]** 介绍类型学分析作为 LeCompte & Preissle 提出的质性分析工具之一，梳理 Lofland and Lazarsfeld & Barton 的分类逻辑与建构要求。
 > - **[[Argument_Torres_2022_KMModels|Torres (2022)]]** 运用 Best & Holmes 的三代分析透镜（线性、关系、系统），对[[Knowledge Transfer|知识转移]]、KTA、研究动员与证据生态等四类主流[[Knowledge Mobilisation|知识动员]]模型展开多维类型学与横向比较分析。

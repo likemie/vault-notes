@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2003–至今"
 initiator_organization: "俄勒冈大学（University of Oregon）"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Efficacy Trial]]"
   - "[[Cohort Study]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -126,7 +127,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 ERI 列为初等阅读 Tier 2 [[Teaching Assistant|助教]]小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托 ERI 在幼儿园阶段筑牢早期预防的第一道防线。
 > - [[Sound Partners]] — 同属早期读写助教干预方案，ERI 聚焦幼儿园小组预防，Sound Partners 侧重 K–1 一对一强化，二者构成完整的阶梯式防御。

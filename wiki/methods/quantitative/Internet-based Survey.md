@@ -12,9 +12,9 @@ summary: "通过互联网进行数据收集的调查方式，成本低、速度�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -44,6 +44,7 @@ related_methods:
   - "[[Stratified Sampling]]"
   - "[[Survey Research]]"
   - "[[Pilot Testing]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
@@ -52,7 +53,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Internet-based Survey
@@ -213,6 +214,6 @@ Reips (2002a)的两项核心策略至今仍是提高在线调查回应率的基�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]] — 系统讨论了互联网调查的设计原则、技术问题、抽样挑战、伦理问题及提高回应率的策略（表 13.3）。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 以 Survey Monkey 编制[[Questionnaire|问卷]]并经各校校长以电子方式分发至所有 [[Research Learning Communities|RLC]] 学校与对照学校，在两周的调查期内（2014 年 10 月 2 日至 19 日）回收 797 份应答。

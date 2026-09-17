@@ -9,7 +9,7 @@ aliases:
 summary: "立足教师专业实践特征与复杂知识库的研究使用新范式，强调将研究证据视为与经验、情境及专业规范动态整合的多元资源之一，确立教师的专业能动性"
 type: concept
 domain: "teacher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,12 +40,13 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Survey Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-17
 ---
 
 # Profession-Sensitive Conceptualisations of Research Use
@@ -175,5 +176,5 @@ updated: 2026-08-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 系统论证了构建专业敏感型概念化的紧迫性与核心维度，为第四代[[Research Utilization|研究使用]]研究确立了理论框架。

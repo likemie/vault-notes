@@ -8,7 +8,7 @@ aliases:
 summary: "Sabine Maasen 与 Peter Weingart (2005) 提出的科学社会学概念，指教育等公共领域由于缺乏排他性专业壁垒与术语隔阂，公众皆自视为专家，导致研究证据高度暴露于公共争议之中，迫使政策中介机构诉诸严苛的证据层级体系重塑中立权威。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Democratisation of Expertise
@@ -185,5 +186,5 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐释专业知识民主化如何使得教育[[Policy Brokerage|政策中介]]机构承受巨大的公信力拷问，从而倒逼出以 [[Randomised Controlled Trials|RCT]] 为金标准的证据层级体系与量化规制。

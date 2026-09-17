@@ -8,7 +8,7 @@ summary: "西班牙社会学家，信息时代和网络社会理论的主要奠�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_theories:
   - "[[Informationalism]]"
 related_methods:
   - "[[Snowball Sampling]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Manuel Castells
@@ -136,7 +137,7 @@ updated: 2026-09-12
 > - **政策路径** 网络国家和媒体政治理论揭示了当代国家采纳“能力导向课程”等高度抽象、可塑的全球话语的政治动机，即利用媒体友好型口号进行[[Governance by Spin|舆论操控]]（Spin）来调和多元利益关系。
 > - **实证应用** 其理论被广泛应用于研究跨国教育治理机构（如 [[OECD]]、[[World Bank|世界银行]]）的影响力，以及拉美（巴西、阿根廷）与中国的高等教育和基础教育改革实践。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Beech_2009_CE|Beech, 2009]] — 引入 Castells 的空间二分法、网络国家和媒体政治概念，建立解释全球教育话语在流动—地方空间多层流转中发生变异的[[Analytic Framework|分析框架]]。
 > - [[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]] — 运用 Castells 关于国家主义与[[Informationalization|信息化]]不相容的理论命题，剖析中国 and 苏联的高等教育体制变革及学术自主性变迁。
 

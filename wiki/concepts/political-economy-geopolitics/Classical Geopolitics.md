@@ -7,7 +7,7 @@ aliases:
 summary: "以国家为中心、将空间视为可占有客观地理实体的传统地缘政治范式，以社会有机体论为理论基石，关注领土控制、军事力量和硬实力竞争"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_theories:
   - "[[Critical Geopolitics]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Francis Bacon]]"
 related_facts:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 ## 定义
@@ -152,7 +153,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 界定古典地缘政治的核心逻辑，并通过中美技术竞争（如限制华为运营等科技政治案例）分析其在当代科技竞争与数字时代的延伸运作。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 以 Dalby [[Realism in International Relations|现实主义]]古典地缘政治为对照基线，指出纯粹国家间权力斗争视角难以解释当代高等教育的跨国社会想象与网络化关系，主张转向[[Critical Geopolitics|批判地缘政治学]]视角。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 追溯“geopolitics”词源及其从神学属性到地缘政治教义的演变，并以[[Sino-American Trade War|中美贸易战]]为例剖析古典领土权力逻辑在当代的典型体现。

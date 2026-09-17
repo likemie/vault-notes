@@ -11,7 +11,7 @@ aliases:
 summary: "18世纪起源于欧洲、19世纪经由法美与拉美跨国流通确立的教师专业化培养专门机构，通过国家垄断资格准入、规范化教学法训练与人道纪律塑造公共教育核心师资"
 type: concept
 domain: "teacher-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,7 +40,8 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Dual School System]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Normal School
@@ -237,6 +238,6 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统梳理 19 世纪大西洋两岸先驱（[[Marc-Antoine Jullien|朱利安]]、[[Victor Cousin|库森]]、[[Horace Mann|曼]]、斯托）如何将普鲁士公立师范学校经验[[Transfer Translation Transformation|转译]]为母国确立[[State Educational Sovereignty|国家教育权]]与公学法案的合法化武器。
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 运用[[Relational Space|关系性空间]]与[[Circular Transfer|循环转移]]视角，追踪师范学校从欧陆经北美向阿根廷等拉美国家的空间流动、本土转化与制度变迁轨迹。\n

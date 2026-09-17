@@ -8,7 +8,7 @@ aliases:
 summary: "Seedhouse提出的四层伦理决策模型，将伦理考量分为外部层、后果层、道义层和个体层，构成思考研究伦理问题的认识论装置"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 5
+theory_related_count: 6
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-09-17
 ---
 
 # Seedhouse's Ethical Pyramid
@@ -101,5 +102,5 @@ updated: 2026-06-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al. (2011, Ch.5)]] — 系统介绍该金字塔并将其作为全章伦理讨论的核心框架

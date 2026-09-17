@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷与批判教育学提出的概念，指在压迫性社会与储蓄式教育中被压迫者被剥夺批判性话语权与表达自由、陷入被动服从的无声状态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Freedom of the Learner]]"
 related_theories:
   - "[[Hegemony]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-09-17
 ---
 
 # Culture of Silence
@@ -113,5 +114,5 @@ updated: 2026-07-25
 > | [[Problem-Posing Education]] | 概念 | 打破沉默文化的教学中介与提问[[Paradigm\|范式]]。 |
 > | [[Freedom of the Learner]] | 概念 | 摆脱沉默文化后的终极学习者自由状态。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]]论述沉默文化的破除与[[Active Learning|主动学习]]中的[[Growth|生长]]/成长。

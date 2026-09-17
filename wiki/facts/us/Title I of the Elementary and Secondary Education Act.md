@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -34,12 +34,14 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
 related_methods:
   - "[[Experimental Research]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Correlational Research]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
 related_arguments:
   - "[[Argument_Ginsberg_2024_EP]]"
@@ -77,7 +79,7 @@ updated: 2026-09-17
 > - **约束机制** 资金补充而非替代（supplement, not supplant）财务合规审查，以及 ESSA 规定的学校改进方案必须采纳符合 Tier 1–3 证据要求的干预措施。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 162–164)]]
 
 > [!citation-card] ESSA 关于联邦资金投资循证实践的法定界定
-> ESSA 鼓励将联邦教育资金投资于循证活动、策略或干预措施。这些措施被界定为通过至少一项设计良好且实施良好的[[Experimental Research|实验研究]]（Tier I 证据）、准实验研究（Tier II 证据）或[[Observational and Correlational Research|相关性研究]]（Tier III 证据），证明能够改善“学生学业结局或其他相关结局”的实践。（p. 162）
+> ESSA 鼓励将联邦教育资金投资于循证活动、策略或干预措施。这些措施被界定为通过至少一项设计良好且实施良好的[[Experimental Research|实验研究]]（Tier I 证据）、准实验研究（Tier II 证据）或[[Correlational Research|相关性研究]]（Tier III 证据），证明能够改善“学生学业结局或其他相关结局”的实践。（p. 162）
 >
 > *ESSA encourages investment of federal funds in evidence-based activities, strategies, or interventions. These are defined as practices which have been shown to improve "student outcomes or other relevant outcomes" by at least one well-designed and well-implemented experimental study (Tier I evidence), quasi-experimental study (Tier II evidence), or correlational study (Tier III evidence).*
 
@@ -108,7 +110,30 @@ updated: 2026-09-17
 
 ---
 
-## 争议与政策反思
+## 效果与评价
+
+> [!indicators]- 评价指标
+> - **投入指标** 年度 140 亿至 165 亿美元以上联邦拨款规模、大城市学区约 500–600 美元生均 Title I 专项增量资金、各州 7% 学校改进专项基金（Section 1003）。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 162, 167)]]
+> - **过程指标** 全校范围项目与学区中心统筹分配比重、常规人事编制与商业软件采购流向、符合 [[Every Student Succeeds Act|ESSA]] Tier 1–3 法定[[Evidence Standards|证据标准]]的资金覆盖率。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 167–174)]]
+> - **结果指标** 低收入学生核心学科标准化测验成绩增值、全量证据综合评级下获得稳定积极支持的资金比例、薄弱学校学业达标出列率。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 164, 175)]]
+
+> [!finding-cards] 效果与评价
+> 1. **宏观学业产出效应存在长期实证分歧** 实证研究对 Title I 能否稳定提升贫困生[[Academic Achievement|学业成就]]分歧显著；Dynarski & Kainz (2015) 归纳的两大主因表明，微观资金分散与低效常规实践挤占削弱了联邦财政的补偿效力。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 164–165)]]
+> 2. **法定单项门槛下形式合规率极高** 在 ESSA 实施后，学区逾 95%（全校统一划定达 99%）的资金投向了至少具备一项合格实证支持的实践，学区极易达成名义达标。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, p. 174)]]
+> 3. **全量证据审视下实质循证支持不足六成** 跨四大权威数据库综合审视下，获稳定积极支持的资金比例骤降至 49%–58%，42%–51% 的联邦公共财政被锁定在缺乏充分证据支持或存在混合效应的常规项目中。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 174–177)]]
+> 4. **政策生效前后支出结构高度固化** 2016–2017 至 2018–2019 三年追踪表明，投向循证实践的资金比例在 ESSA 正式生效前后仅波动 1 至 4 个百分点，立法未促发学区资源分配的实质重组。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 175–176)]]
+
+> [!stat-cards]- 核心数据
+> - **140–165 亿** 美元，美国联邦 Title I 全美年度财政拨款规模。（p. 162）
+> - **$2.88 亿** SUD 学区三年间纳入微观财务审计的 Title I 支出总额。（p. 168）
+> - **95%–99%** 符合 ESSA Tier I–III 单项合格研究标准的资金比例范围。（p. 174）
+> - **49%–58%** 获得全量证据综合评价下积极或多半积极支持的资金比例范围。（p. 175）
+> - **20%** 采用学区全校项目统一划定且以最低证据等级进行敏感度测试时的保守积极资金比例。（p. 176）
+> - **2/3** 城市学区直接下拨至各校用于全校范围项目的资金比例。（p. 167）
+
+---
+
+## 争议与评论
 
 > [!debates] 学术与政策争议
 >
@@ -117,6 +142,9 @@ updated: 2026-09-17
 >
 > > [!axis] 法定单项研究标准 vs 全量综合[[Evidence Standards|证据标准]]
 > > [[Every Student Succeeds Act|ESSA]] 允许仅凭一项符合 Tier I–III 要求的实证研究即可为采购辩护，这一极低门槛使学区能够在几乎不改变既有采购惯性的情况下实现 95% 以上的形式合规；但美国教育部指南推荐的全量证据体（full body of evidence）评价表明，近半数获资助实践在更广泛的[[Document|文献]]中存在零效应、混合效应或缺乏适用学段的研究支持。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 163, 177)]]
+>
+> > [!axis] 既有师资编制与供应商关系锁定 vs 循证资源动态重组
+> > 地方学区 Title I 资金逾半数固化于专职干预教师与辅导员的人事薪酬，且商业学习软件供应商形成了长达数年的稳定采购惯性；面对外部立法变动，基层往往选择最低阻力的文牍合规，难以实现真正的资源重新配置。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 177–179)]]
 
 ---
 
@@ -136,9 +164,25 @@ updated: 2026-09-17
 
 ---
 
+## 相关概念／理论
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Every Student Succeeds Act]] | 授权母法 | 2015 年再授权法案，确立四级[[Evidence Standards\|证据标准]]并与 Title I 学校改进资金硬性绑定 |
+> | [[No Child Left Behind Act 2001]] | 前身法案 | 2001 年再授权法案，确立适度年度进展（AYP）与惩罚性行政问责 |
+> | [[Categorical Funding]] | 财政属性 | 联邦针对贫困弱势学生群体设立的体量最大的专项转移支付 |
+> | [[Evidence Standards]] | 规约标准 | ESSA 框架下规范 Title I 资金采纳项目的因果证据层级与质量门槛 |
+> | [[Evidence-Based Education]] | 改革[[Paradigm\|范式]] | 推动公共教育财政从行政惯性向实证因果成效驱动转型的核心理念 |
+> | [[What Works Clearinghouse]] | 官方清算所 | 美国教育部下属评估与认证符合法定证据标准干预的权威官方平台 |
+> | [[Evidence for ESSA]] | 评审门户 | 约翰斯·霍普金斯大学建立的专为 Title I 学校改进方案提供证据评级的非营利门户 |
+
+---
+
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]]** 首项量化评估学区 Title I 联邦教育资金投资于循证实践比例的实证研究，解构 [[Every Student Succeeds Act|ESSA]] 单项研究门槛与全量证据评价之间的巨大鸿沟。
 > - **[[Argument_Slavin_2019_EP|Slavin (2019)]]** 论述 ESSA 四级法定[[Evidence Standards|证据标准]]对 Title I 学校改进资助的重构，探讨 [[Evidence for ESSA]] 平台如何推动循证采购。
 > - **[[Argument_Gorard_2020_ROE|Gorard et al. (2020)]]** 探讨[[Evidence-Based Education|循证教育]]资助机制与政策干预中单兵研究去中心化的重要性。

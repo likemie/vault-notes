@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 80
+method_related_count: 81
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -67,6 +67,7 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Systematic Review]]"
   - "[[Experimental Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Gene Glass]]"
   - "[[John Hattie]]"
@@ -106,7 +107,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 ## 定义
@@ -433,7 +434,7 @@ updated: 2026-09-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 提倡将效应量直接作为学校与教师评估教学成效的通用工具，基于 100 余项[[Meta-analysis|元分析]]确立 $d=0.40$ 为判断干预增值的关节点基准，并揭示“零门槛谬误”。
 > - [[Argument_Kraft_2023_ER|Kraft (2023)]] — 基于 3,426 个教育 [[Randomised Controlled Trials|RCT]] 效应量构建经验分布，提出以实证分布与失败频率替代传统 Cohen 经验法则。
 > - [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] — 运用[[Meta-regression|元回归分析]] 755 个效应量，实证量化了[[Developer Effect|开发者效应]]与测量工具紧密性对效应量的系统性推升。

@@ -8,7 +8,7 @@ summary: "战国时期儒家思想家，孔子学说的直接继承者，以性�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,7 +37,8 @@ related_concepts:
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Confucius]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Mencius
@@ -128,7 +129,7 @@ updated: 2026-09-11
 > - **政策与课程路径** — 《孟子》被朱熹列入“四书”，主导[[Civil Service Examination|科举]]考试逾六百年；当代中国《语文》必修教材将其选为“中华优秀传统文化”的[[Official Knowledge|官方知识]]典范[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 67)]]。
 > - **跨文化反思路径** — “[[Take the World Upon Oneself|以天下为己任]]”的士人精神影响了后世知识分子；然而在当代多元文化研究中，少数民族与信教学生指出教材所渲染的“[[Self-Cultivation|修身]]、齐家、治国、平天下”话语带有强烈的男性主导（male-dominant）与政治精英压迫色彩，忽视了女性与少数族群的主体价值[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 69)]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统分析孟子的性善论、四端说与自得之思想对东亚学习模型的奠基作用。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 揭示《孟子》在当代语文教材中作为[[Official Knowledge|官方知识]]的呈现方式，以及少数民族与信教学生对其男权精英取向的批判解构。
 

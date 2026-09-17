@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育学在两次世界大战之间形成的政治哲学二元类型学，深刻区分以国家强权、意识形态灌输与政治极权动员为特征的政治民族主义，与以文化传统传承、公民健全心智发展及国际主义理解为导向的文化民族主义。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_theories:
   - "[[Hegemony]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Isaac Kandel]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Cultural Nationalism vs. Political Nationalism
@@ -180,5 +181,5 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 梳理[[Isaac Kandel|坎德尔]]在 1930 年代对抗法西斯极权动员时提出文化民族主义与政治民族主义二元区分的思想脉络及其历史[[Educational Meliorism|改良主义]]追求。

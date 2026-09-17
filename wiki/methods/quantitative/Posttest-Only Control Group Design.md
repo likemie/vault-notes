@@ -9,7 +9,7 @@ summary: "真实验设计的变体，随机分配后无前测、仅后测，通�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -31,12 +31,13 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Solomon Four-Group Design]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # Posttest-Only Control Group Design
 
@@ -100,6 +101,6 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 将仅[[Pre-test and Post-test|后测]]控制组设计列为[[True Experimental Design|真实验设计]]的四种基本类型之一。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 在真实验设计部分系统介绍仅后测设计的符号表示和应用场景。

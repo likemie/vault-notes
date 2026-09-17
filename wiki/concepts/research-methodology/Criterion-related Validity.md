@@ -9,7 +9,7 @@ aliases:
 summary: "将测量工具的结果与公认有效的外部标准进行统计关联以确立测量有效性的方法学体系，涵盖预测效度与共时效度两大支柱，核心挑战在于效标问题与效标污染控制"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_arguments:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Criterion-related Validity
@@ -215,7 +216,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]通过 124 万人样本系统检验了作为预测源（$r = 0.29$）与作为效标（$r = 0.12$）的不对称性，为[[Criterion Problem|效标问题]]提供了大规模实证支撑。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详尽梳理效标关联效度在教育测量、考试制度与研究设计中的四大准则与方法学局限。
 

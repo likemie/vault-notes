@@ -9,7 +9,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Advanced Placement Program]]"
   - "[[International Education]]"
   - "[[Reliability]]"
 related_theories: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # International Schools Examination Syndicate
@@ -82,7 +83,7 @@ updated: 2026-09-12
 >
 > - **1965–1966 年　治理膨胀与执行危机迫使组织扩员**
 >
->   理事会、全体会议、执行委员会、教育委员会和技术委员会不断增加，真实考试仍未形成。人员危机、资金分配争议、效果不佳的学科会议及日内瓦成员对扩员的抵制，使项目难以从研究推进到试验。联合国[[International Schools|国际学校]]（United Nations International School，UNIS）校长德斯蒙德·科尔（Desmond Cole）、美国大学入学考试委员会大学先修课程主管哈兰·汉森（Harlan Hanson，常称 Harpo）和[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）的加入，把纽约学校、考试专业、美国大学网络与牛津大学的行政资源带入项目。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 21–24)]]
+>   理事会、全体会议、执行委员会、教育委员会和技术委员会不断增加，真实考试仍未形成。人员危机、资金分配争议、效果不佳的学科会议及日内瓦成员对扩员的抵制，使项目难以从研究推进到试验。联合国[[International Schools|国际学校]]（United Nations International School，UNIS）校长德斯蒙德·科尔（Desmond Cole）、美国大学入学考试委员会[[Advanced Placement Program|大学先修课程]]主管哈兰·汉森（Harlan Hanson，常称 Harpo）和[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）的加入，把纽约学校、考试专业、美国大学网络与牛津大学的行政资源带入项目。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 21–24)]]
 >
 > - **1966–1967 年　全职领导把五项条件推进到同一截止日期**
 >
@@ -130,7 +131,7 @@ updated: 2026-09-12
 > | **乔治·潘绍（Georges Panchaud）** | 洛桑大学教育学教授。 | 成为最早加入项目、具有国际声誉和联系的教育学者，为教师网络增加专业信誉。 |
 > | **让·西奥蒂（Jean Siotis）** | 卡内基欧洲办事处希腊籍助理主任。 | 参加理事会并主持第一届考试委员会，负责 Ecolint 当代史试验考试。 |
 > | **[[Gerard Renaud]] and Halls** | Ecolint 哲学教师与 Oxford 比较教育研究者。 | 分别推进课程结构与学科大纲、比较课程研究、考试性质说明和样题。 |
-> | **Desmond Cole and Harlan Hanson** | UNIS 校长与美国大学理事会大学先修课程主管。 | 带来实际学校、考试技术、美国大学联系和基金会信任，推动治理跨出日内瓦。 |
+> | **Desmond Cole and Harlan Hanson** | UNIS 校长与美国大学理事会[[Advanced Placement Program\|大学先修课程]]主管。 | 带来实际学校、考试技术、美国大学联系和基金会信任，推动治理跨出日内瓦。 |
 > | **[[Alec Peterson]]** | Oxford 教育系与大西洋学院网络。 | 把课程、考试、资金、试验学校、家庭风险和大学承认整合为单一实施计划。 |
 > | **Ruth Bonner and Lucette Donche** | Geneva 办公室行政与财务人员。 | 把会议之间的文件、联络、账务和日常协调转化为持续行政工作。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 19–24, 26–28)]] |
 

@@ -7,7 +7,7 @@ aliases:
 summary: "克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,7 +38,8 @@ related_theories:
   - "[[Dependency Theory]]"
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[Marc-Antoine Jullien]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Agendas of Attention
@@ -200,6 +201,6 @@ updated: 2026-09-12
 > - **[[Dependency Theory|依附理论]]与去殖民比较教育的议程开辟** 1970 年代新马克思主义学者（如卡诺伊等）采用依附理论，将西方的教育援助和评估体系解构为对边缘国家心智的奴役。去殖民路径进一步致力于打破学科自身的殖民认识型（包括朱利安 1817 年学科奠基方案的帝国扩张烙印），将南南[[Knowledge Exchange|知识交流]]和原住民认知确立为在场，实现了对传统注意力边界的突破。
 > - **两次世界大战之间的教科书去民族偏见运动** 两次大战之间，国际联盟的国际知识合作组织与北欧协会等致力于通过教科书比较审查，消除历史叙事中的遗漏、歪曲和刻板印象。这一实践服务于塑造适应多边合作的“[[International Mind|国际心智]]”，标志着理性主义和平政治对学术界注意力在场的首次大规模制度化构建。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 系统引入马丁·怀特的三大传统，界定了比较教育学术形态下注意力议程的在场与缺席机制。
 > - [[Argument_Cowen_2009_CE|Cowen (2009)]] — 奠定了“[[Readings of the Global|阅读全球]]”话语变迁与教育转移形态变形的理论脉络。

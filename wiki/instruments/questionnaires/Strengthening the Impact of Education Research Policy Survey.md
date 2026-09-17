@@ -56,7 +56,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Rating Scale]]"
   - "[[Design-Based Research]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
   - "[[Semi-structured Interview]]"
 related_facts:
@@ -303,7 +303,7 @@ updated: 2026-09-15
 > | Lack of mechanisms that facilitate the use of research<br>**缺乏促进研究利用的专门制度化机制** |
 > | Lack of financial resources<br>**缺乏支持[[Research Translation\|研究转化]]的专项经费与财政资源** |
 > | Lack of learning opportunities<br>**缺乏在岗持续发展与专业学习机会** |
-> | Lack of relevant research<br>**缺乏针对现实迫切问题的高[[Observational and Correlational Research\|相关性研究]]** |
+> | Lack of relevant research<br>**缺乏针对现实迫切问题的高[[Correlational Research\|相关性研究]]** |
 > | Low accessibility of research in appropriate formats<br>**研究成果缺乏适切格式，可获取性低下** |
 > | Low quality of research in key areas<br>**关键重点领域的研究质量与严谨度不足** |
 > | Lack of relationships between different actors<br>**不同行动者群体之间缺乏常态化合作网络与人际联系** |

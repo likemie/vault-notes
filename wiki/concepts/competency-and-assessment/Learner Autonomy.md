@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学解耦并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -60,6 +60,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Comparative Meta-synthesis]]"
   - "[[Multi-Arm Trial]]"
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_facts:
   - "[[PISA]]"
@@ -75,7 +76,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Learner Autonomy
@@ -253,7 +254,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 质性剖析 IB [[Theory of Knowledge|知识论]]课程如何通过[[Epistemology|认识论]]批判反思与[[Metacognition|元认知]]自信建设双轨路径培育实质性学习者自主。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 量化评估 IB 课程对学生[[Critical Thinking|批判性思维]]与独立探究能力的长期因果促进效应。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 总结 [[Education Endowment Foundation|EEF]] 多臂析因试验（如 ABRA 试验）经验，实证解构技术软件自主学习与教师主导辅导的独立效应与交互机制。

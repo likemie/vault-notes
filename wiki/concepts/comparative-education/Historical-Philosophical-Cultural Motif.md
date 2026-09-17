@@ -10,7 +10,7 @@ aliases:
 summary: "19世纪末至20世纪中叶主导比较教育学的核心认识论母题，将学科界定为探究历史因果与文化精神的广义人文科学，以民族国家与国民性为解释单元，服务于历史改良主义与自由民主价值"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Effect Size]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Historical-Philosophical-Cultural Motif
@@ -281,6 +282,6 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古系统梳理[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]的思想谱系，反思[[Whiggism|辉格史观]]与[[National Character|国民性格]]，并借由[[Crane Brinton|布林顿]]比较史学确立[[Historical-Comparative Method|历史比较法]]在理论建构与因果阐释上的现代学术合法性。
 

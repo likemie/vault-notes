@@ -10,10 +10,10 @@ aliases:
 summary: "指个体理解科学探究运作机制、批判性评估多源证据质量、接纳科学知识的暂定性与不确定性，并在日常生活和公共决策中做出理性判断的核心公民素养，涵盖科学本质理解、数据与算法素养及抵御虚假信息的认知免疫机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - field/curriculum
   - theme/scientific-literacy
@@ -64,10 +64,11 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Longitudinal Study]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Scientific Literacy
@@ -258,6 +259,6 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳[[Scientific Uncertainty|科学不确定性]]为核心的[[Citizen Science|公民科学]]素养；并在第五章针对国会议员与公务员队伍提出提升 STEM 研究和数据分析技能的国家行动建议。
 

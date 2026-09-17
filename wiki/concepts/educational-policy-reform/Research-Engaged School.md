@@ -8,7 +8,7 @@ aliases:
 summary: "指以自觉的战略性与发展性取向，在全校教职工中系统培育证据知情实践与文化的组织形态；其判定标准不仅在于具体决策是否参考研究，更在于学校在组织层面是否具备使用证据的意图、意愿与能力，并建立起支撑反思性探究的制度化生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -51,6 +51,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
   - "[[Likert Scale]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Toby Greany]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Research-Engaged School
@@ -208,7 +209,7 @@ updated: 2026-09-16
 > > [!axis] 全员包容参与还是骨干精英攻关
 > > 争论聚焦于学校资源有限时，研究参与应当追求全体教职工的普遍卷入，还是集中赋能少数骨干教师建立攻关突击队。
 > >
-> > - **包容性共同体倡导者（Brown & Greany, 2018; Stoll et al., 2006）** 认为[[Knowledge Mobilisation|知识动员]]唯有在全员参与[[Reflexivity|反思性]][[Dialogue in Education|对话]]时才具有可持续性，突击队模式易导致成果无法扩散。
+> > - **包容性共同体倡导者（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]; Stoll et al., 2006）** 认为[[Knowledge Mobilisation|知识动员]]唯有在全员参与[[Reflexivity|反思性]][[Dialogue in Education|对话]]时才具有可持续性，突击队模式易导致成果无法扩散。
 > > - **管理效率取向者（Roberts, 2015）** 认为全员卷入耗时费力、组织成本过高，在科层管理中建立专项任务小组更具可操作性。
 
 > [!warning] 适用局限
@@ -235,5 +236,5 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 采用 Godfrey 的组织界定，构建四因素理论框架，通过对 79 所小学 696 名教师与领导者的基线实证调查，系统诊断研究参与学校在能力、文化、学习环境与结构上的准备状态，揭示出三大机制断裂并提出针对性干预路径。

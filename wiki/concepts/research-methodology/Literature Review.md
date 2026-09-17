@@ -4,7 +4,7 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Literature Map]]"
+  - "[[Correlational Research]]"
   - "[[Memos]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-07-12
+updated: 2026-09-17
 ---
 
 # Literature Review
@@ -80,7 +81,7 @@ updated: 2026-07-12
 ## 核心任务与目的
 
 > [!abstract] 核心任务
-> [[Document|文献]]综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的相关研究成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。
+> [[Document|文献]]综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的[[Correlational Research|相关研究]]成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。
 
 Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, pp.126–127]]）：
 
@@ -222,7 +223,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将[[Document|文献]]综述作为研究方案的独立章节，系统阐述其在量化、质性和[[Mixed Methods Research|混合方法]]路径中的不同策略
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011, Ch.6)]] — 将文献综述作为[[Research Topic|研究选题]]的决策因素之一，提出七项目的框架和规模考量
 > - Cohen et al. — 强调文献综述的论证本质，提供了四步论证结构和实施撰写规则

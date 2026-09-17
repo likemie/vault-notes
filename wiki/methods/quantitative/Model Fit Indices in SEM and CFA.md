@@ -15,7 +15,7 @@ summary: "验证性因子分析与结构方程模型中评估理论假设模型�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Scale Development]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-17
 ---
 
 # Model Fit Indices in SEM and CFA
@@ -139,5 +140,5 @@ updated: 2026-08-29
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在独立样本 2（$N=258$）中对比单因子、一阶四因子与二阶因子模型的拟合指数（$\chi^2/df = 1.94, \text{RMSEA} = 0.060, \text{CFI} = 0.94$），确立教师[[Research Literacy|研究素养]]的二阶高阶因子结构。

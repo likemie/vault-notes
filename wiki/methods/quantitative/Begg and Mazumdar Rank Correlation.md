@@ -10,7 +10,7 @@ summary: "由 Colin Begg 与 Madhuchhanda Mazumdar（1994）提出的一种用�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
   - "[[Multilevel Egger's Test]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Begg and Mazumdar Rank Correlation
@@ -126,5 +127,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，将 Begg 秩相关检验（$\tau = -0.01, p = .89$）与 Egger 回归及[[Trim and Fill Method|剪补法]]并用，系统评估高等教育中干预措施对[[Critical Thinking|批判性思维]]提升的证据稳健性。

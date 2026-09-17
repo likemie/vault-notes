@@ -6,7 +6,7 @@ aliases:
 summary: "教育戏剧与角色扮演中推动行动前进的张力机制，涵盖四种来源、Heathcote对张力质量的界定、以及张力在维持角色信念与建立投入中的功能。"
 type: concept
 domain: "curriculum"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ related_concepts: []
 related_theories: []
 related_methods:
   - "[[Role-playing]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -26,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-09-17
 ---
 # Dramatic Tension
 
@@ -83,5 +84,5 @@ updated: 2026-08-04
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen, Manion & Morrison (2011, Ch. 26)]] — 将戏剧张力列为[[Role-playing|角色扮演]]成功的核心机制，并纳入八项设计原则之一，用于维持参与者的角色信念与情境投入。

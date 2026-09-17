@@ -5,10 +5,10 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/comparative-education
   - theme/global-governance
@@ -40,6 +40,7 @@ related_concepts:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Methodological Transnationalism
@@ -205,6 +206,6 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 践行方法论跨国主义框架，将全球五大组织与国家政策周期置于统一的[[Relational Space|关系性空间]]中加以考察。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 批判比较教育学中的国家术语偏见，倡导[[Space of Flows and Space of Places|流动空间与地方空间]]的多尺度[[Transfer Translation Transformation|转译]]分析。

@@ -7,7 +7,7 @@ aliases:
 summary: "在规划、实施或调整政策、项目与服务前系统咨询最佳可用研究证据的审议过程，强调通过六大因果机制改变决策者行为与心理状态的系统框架。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[EPPI-Centre]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Evidence-Informed Decision-Making
@@ -195,6 +196,6 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Torres_2022_KMModels|Torres (2022)]] — 系统引入 Langer 等人的 EIDM 行为改变框架，横向阐明其对突破[[Knowledge Mobilisation|知识动员]]供给侧偏误的理论突破。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 探讨[[Evidence-Informed Practice|证据知情实践]]在教育系统中的多源拼图架构与中介网络支撑。

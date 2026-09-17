@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,6 +51,7 @@ related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
   - "[[Case Study]]"
 related_persons:
   - "[[Lev Vygotsky]]"
@@ -58,7 +59,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Scaffolding
@@ -214,7 +215,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 在生成式 AI 赋能学生[[Higher-Order Thinking Skills|高阶思维]]的[[Meta-analysis|元分析]]中，证实技术作为外部认知脚手架具备中等显著效益（$g = 0.609$），并实证揭示了 8–16 周倒 U 型周期所蕴含的支架渐隐必要性，强调必须依托分阶段脚手架设计以避免学生产生[[Cognitive Offloading|认知外包]]。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 元分析考察外部[[Graphic Organizer|图形组织器]]作为认知脚手架对高阶思维的影响，实证对比中学生（$g = 1.113$）与大学生（$g = 0.659$）的效应断层，提出外部支架向内部[[Self-Scaffolding|自我脚手架]]演进的理论模型。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 探讨生成式 AI [[AI Agent in Education|智能体]]在[[Zone of Proximal Development|最近发展区]]内充当自适应动态脚手架的机理，证实其对认知结果存在稳定促进，并指出脚手架需与目标认知层级实现精准对齐。

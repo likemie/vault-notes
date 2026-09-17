@@ -7,7 +7,7 @@ aliases:
 summary: "约翰·杜威进步主义教育的核心教学主张，认为最深刻的知识是“如何做的知识”，学生通过参与真实、动手与解决问题的活动建构经验与批判性思维。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,8 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Experiential Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-09-17
 ---
 
 # Learning by Doing
@@ -94,5 +95,5 @@ updated: 2026-07-26
 > | [[Experiential Learning]] | 概念 | “做”是经验生成与重组的中介。 |
 > | [[Reflective Thinking]] | 概念 | 区别智性“做”与动物盲目试错的关键。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细拆解“在做中学”在主动学习模型中的案例与反思性思维运作机制。

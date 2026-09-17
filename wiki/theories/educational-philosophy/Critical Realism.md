@@ -5,7 +5,7 @@ aliases:
 summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Roy Bhaskar]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Critical Realism
@@ -208,7 +209,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究与应用索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]与应用索引
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 以批判实在论对[[Evidence-Based Education|循证教育]]（EBE）方法论进行三层技术解构，分析了 Fresh Start 和[[Teaching Assistant|教学助理]]等典型案例。
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 将批判实在论作为核心哲学框架，批判证据本位教学的简化科学观，并对 [[Education Endowment Foundation|EEF]] Toolkit 的 “体育参与” 进行实在论剖析。
 > - [[Evidence-Based Education]] — 批判实在论为循证教育与循证政策的批判性反思提供了[[Ontology|本体论]]和[[Epistemology|认识论]]武器。

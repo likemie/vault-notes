@@ -26,7 +26,7 @@ title: "Argument_Brown_Greany_2018_LPS"
 argument_key: "Argument_Brown_Greany_2018_LPS"
 argument_display_title: "The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -74,6 +74,7 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Exploratory Factor Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Research Learning Communities Baseline Survey Questionnaire]]"
 related_persons:
@@ -372,7 +373,7 @@ updated: 2026-09-16
 > [!ref-table]- Table 7. 促进研究使用的结构、系统与资源分布（%）
 > | 调查题项（Structures, Systems & Resources） | 非常同意 | 同意 | 不确定 | 不同意 | 非常不同意 | 合计同意率 |
 > |:--|--:|--:|--:|--:|--:|--:|
-> | (12) 在过去一年中，我曾与同事深入讨论过相关研究发现 | 25% | 57% | 11% | 6% | 1% | **82%** |
+> | (12) 在过去一年中，我曾与同事深入讨论过[[Correlational Research\|相关研究]]发现 | 25% | 57% | 11% | 6% | 1% | **82%** |
 > | (13) 本校建有供教职工分享与研讨信息的正式论坛（n = 694） | 14% | 47% | 21% | 10% | 7% | **61%** |
 > | (14) 学校为教职工的教育培训与专业发展留出充足时间（n = 694） | 26% | 55% | 9% | 4% | 6% | **81%** |
 >

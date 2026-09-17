@@ -9,7 +9,7 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 81
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -80,6 +80,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Likert Scale]]"
   - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -111,7 +112,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Evidence Ecosystem
@@ -446,7 +447,7 @@ updated: 2026-09-15
 >
 > ---
 >
-> ## 相关研究
+> ## [[Correlational Research|相关研究]]
 >
 > > [!evidence-grid-a] 相关研究索引
 > > - [[Argument_Hill_2022_FacilitatingActors|Hill, D. (2022)]] — 跨国摸排 29 国 37 个教育系统证据中介组织生态位、部委政务网络、专业角色设立及微观决策心智，实证确证证据生态的中心—外围结构与交易型病理。

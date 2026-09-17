@@ -8,10 +8,10 @@ aliases:
 summary: "指在非西方威权情境中，部分去殖民学者因过度审查社会制度与自由法治的西方殖民起源（pedigree），而在客观上否定并剥夺了本土人（native agency）选择和保留这些制度的权利，与威权统治者在文化相对主义上达成合流的理论矛盾"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - political-theory
   - decolonial-theory
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Pride in Learning]]"
 related_theories:
   - "[[Hegemony]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jiang Shigong]]"
 related_facts:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-13'
-updated: '2026-07-13'
+updated: 2026-09-17
 ---
 
 # Decolonial Paradox
@@ -148,5 +149,5 @@ updated: '2026-07-13'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Vickers_2024_CE|Vickers (2024)]] — 首次在比较教育框架下使用“去殖民悖论”理论解构香港[[Citizenship and Social Development|公民与社会发展科]]对通识科的替代。

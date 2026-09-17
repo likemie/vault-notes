@@ -5,10 +5,10 @@ aliases:
 summary: "鲍曼提出的概念，指将理想社会定位于被偷走或遗弃但未死的过去的乌托邦想象，用于分析中国的中华民族复兴话语"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theory/social-theory
   - theme/nationalism
@@ -19,7 +19,8 @@ related_concepts:
   - "[[Grand Theory]]"
 related_theories:
   - "[[Necropolitics]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Fei Xiaotong]]"
   - "[[Zhao Tingyang]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 
 # Retrotopia
@@ -96,5 +97,5 @@ updated: '2026-08-27'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 将怀旧乌托邦引入中国少数民族研究，剖析“[[Zhonghua Minzu|中华民族]]伟大复兴”的文明主义时空重构及其对少数民族自我牺牲的道德诉求。

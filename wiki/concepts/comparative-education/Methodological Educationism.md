@@ -6,7 +6,7 @@ aliases:
 summary: "将“教育”等同于“学校教育”（schooling）的还原论认识论倾向。在比较教育研究中，它被用于批判将复杂的教育社会化过程狭隘地等同于正式学校制度和国家课程的局限性；它常与方法论国家主义和方法论国家中心主义叠加，构成传统国民教育研究的限制性视角。"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Relational Space]]"
 related_theories:
   - "[[Governing at a Distance]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
 related_facts:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Methodological Educationism
@@ -132,5 +133,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 深入探讨了方法论教育主义、[[Methodological Statism|方法论国家主义]]与 statism 在比较教育历史演进中的叠加运作，并论证了[[Global Citizenship|全球公民身份]]如何对其构成挑战。

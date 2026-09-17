@@ -7,7 +7,7 @@ aliases:
 summary: "指专业新闻从业者面向公众开展的针对科学探索、科研产出及其社会伦理影响的独立调查、诠释与报道实践；在媒介生态重构冲击下，正经历从传统专职记者主导向数字社交平台多元分发的深刻转型，面临高校通稿过度营销、商业点击率驱动与科研诚信标准对接等核心挑战。"
 type: concept
 domain: "science-communication"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
   - "[[Weight of Evidence Framework]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Science Journalism
@@ -228,5 +229,5 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 系统剖析数字化与人工智能时代大众媒体转型、专业科学记者生存挑战、通稿夸大机制与公众信任落差，提出跨越科学界与媒体界的高质量新闻合作倡议与实践守则治理框架。

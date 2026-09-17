@@ -6,7 +6,7 @@ aliases:
 summary: "国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[National Education]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 
 ## 核心主张
@@ -129,7 +130,7 @@ updated: 2026-07-13
 
 ## 相关研究
 
-> [!example] 相关研究
+> [!example] [[Correlational Research|相关研究]]
 > - [[Argument_Yan_2025_JCS]] — 将香港 LS→[[Citizenship and Social Development|CSD]] 案例纳入边疆国族建构框架
 > - Vickers & Morris (2022) — 国安法与香港教育的"大陆化"
 > - Leibold & Dorjee (2024) — 西藏

@@ -79,7 +79,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[PRISMA]]"
   - "[[Thematic Synthesis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
@@ -90,12 +89,14 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Causal Modeling]]"
 related_instruments:
+  - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Alternate Uses Test]]"
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Education Resources Information Center]]"
 related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
 sources:
@@ -110,7 +111,7 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 71
+argument_related_count: 72
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -240,7 +241,7 @@ issuing_organization: ""
 > [!example]- 图1：PRISMA 文献筛选流程图
 > ![](https://img.mylikemie.icu/sources/Li_2026_CEAI/figures/Li_2026_CEAI_Fig1_PRISMA_Flow_Diagram.jpg)
 >
-> **流程细节说明** 从 Web of Science (161)、Scopus (177) 与 ERIC (71) 检索共获取 409 篇初始记录；经文献管理软件剔除 185 篇重复记录后，对 224 篇文献进行题目与摘要初筛；排除 128 篇不符合主题文献后，获取 96 篇全文本进入合格性深度审阅；依据预设标准排除 27 篇（6 项非实证、4 项非高校情境、9 项未评测学习成果、8 项缺乏高阶思维分析），再通过 MMAT 质量评价排除 2 项得分低于 60% 的研究，最终纳入 67 篇同行评议实证文献。
+> **流程细节说明** 从 Web of Science (161)、Scopus (177) 与 [[Education Resources Information Center|ERIC]] (71) 检索共获取 409 篇初始记录；经文献管理软件剔除 185 篇重复记录后，对 224 篇文献进行题目与摘要初筛；排除 128 篇不符合主题文献后，获取 96 篇全文本进入合格性深度审阅；依据预设标准排除 27 篇（6 项非实证、4 项非高校情境、9 项未评测学习成果、8 项缺乏高阶思维分析），再通过 MMAT 质量评价排除 2 项得分低于 60% 的研究，最终纳入 67 篇同行评议实证文献。
 
 ---
 

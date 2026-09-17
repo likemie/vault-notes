@@ -8,7 +8,7 @@ aliases:
 summary: "由爱德华·德·博诺开创的非线性思维范式与创造性构想生成体系，直接对标并互补于传统“垂直思维（逻辑推导）”。主张打破大脑自组织神经模式的固有凹槽，通过激发（PO）、随机输入与概念挑战等启发式技术，强迫认知系统横向跳跃至非常规切入点以实现观念重构与顿悟突破。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
 related_arguments:
@@ -50,7 +51,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-17
 ---
 
 # Lateral Thinking
@@ -240,7 +241,7 @@ updated: 2026-09-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — [[Three-Level Meta-Analysis|多层元分析]]确立包含侧向思维谜题的思维训练（$g = 0.762$）的高促学效能，并解析其打破认知偏见与重塑心智敏捷性的机制。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]理论述评中重点讨论[[Edward de Bono|爱德华·德·博诺]]六顶思考帽与水平思考对认知加工网络的调控意义。
 > - de Bono (1967, 1970) — 系统奠定侧向思维术语、自组织心智模型与四大操作工具的经典理论专著。

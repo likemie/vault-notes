@@ -8,7 +8,7 @@ summary: "中国春秋时期思想家、教育家，儒学创始人，以修身�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -47,7 +47,8 @@ related_concepts:
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Lev Vygotsky]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Confucius
@@ -136,7 +137,7 @@ updated: 2026-09-11
 > - **政策与课程路径** — [[Civil Service Examination|科举]]制与现代[[Gaokao|高考]]传承其选贤举能思想；当代中国教科书将孔子定位为“[[Zhonghua Minzu|中华民族]]传统文化”的唯一始祖（《历史与社会》），将其选入英语教材“英雄画廊”（与林肯、爱因斯坦、钱学森并列），并将《论语》塑造为正统[[Official Knowledge|官方知识]]与对外[[Soft Power|软实力]]符号[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 63, 67)]]。
 > - **跨国／跨领域传播** — 在跨国[[Policy Borrowing|政策借用]]中与西方心理学产生[[Selective Affinity|选择性亲和]]（如与[[Lev Vygotsky|维果茨基]]社会文化理论在 [[Learner-Centred Education|LCE]] 改革中的互惠共振）[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 596, 602)]]；在[[John Dewey|杜威]]中国接受史中充当对比与反转的符号参照系[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 75, 81)]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统追踪孔子的[[Primary and Secondary Documents|原始文献]]，建构东亚与西方文化学习模型的对比框架。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的[[Going Native|本土化]]赋能。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录蔡元培等学者在杜威访华与 1950 年代批评中对孔子权威符号的跨文化[[Recontextualization|再脉络化]]与反转调用。

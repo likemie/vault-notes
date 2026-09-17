@@ -9,7 +9,7 @@ summary: "质性数据分析中将文本、图像及多模态数据拆解分段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 64
+method_related_count: 65
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -75,6 +75,7 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Narrative Research]]"
   - "[[Accounts]]"
+  - "[[Correlational Research]]"
   - "[[In-depth Interview]]"
   - "[[Template Analysis]]"
 related_instruments: []
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Coding in Qualitative Research
@@ -311,7 +312,7 @@ updated: 2026-09-08
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011)]] — 系统阐释[[Grounded Theory|扎根理论]]四类编码谱系、鲍格丹与比克连九类描述性编码家族、初筛粗编码与复合双重赋码决策，以及课堂态度矩阵化比较与去情境化风险防范。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 提出 Tesch 八步编码规程与四类编码类型（预期/意外/概念兴趣/预设），并在校园枪击案反应研究中通过[[Emergence|涌现]]式编码揭示“再触发”深层主题。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 结合课堂观察与[[In-depth Interview|深度访谈]]，示范如何在教育[[Qualitative Research|质性研究]]中通过多级编码程序自下而上提炼本土概念与建构理论[[Analytic Framework|分析框架]]。

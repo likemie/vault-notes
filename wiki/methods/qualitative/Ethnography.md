@@ -10,7 +10,7 @@ summary: "一种源自人类学的质性研究设计，要求研究者在自然�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 57
+method_related_count: 58
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -75,6 +75,7 @@ related_methods:
   - "[[Member Checking]]"
   - "[[Grounded Theory]]"
   - "[[Ideology Critique]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Conectar Igualdad]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Ethnography
@@ -320,6 +321,6 @@ Walford（2001, p. 62）报告了研究者角色演变的五阶段过程：
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统介绍民族志研究设计的基本步骤、Spradley 的[[Research Question|研究问题]]分类法以及[[Critical Ethnography|批判民族志]]的定位。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 系统介绍民族志的[[Paradigm|范式]]基础、LeCompte & Preissle 的八项要素、Spindler & Spindler 的11条标志、Hitchcock & Hughes 的六项产出、Lofland 的七个观察维度、有效民族志的操作标准以及十大内在困难。

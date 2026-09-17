@@ -7,7 +7,7 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 75
+argument_related_count: 76
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_persons:
   - "[[Stephen Gorard]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Education Resources Information Center]]"
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
   - "[[Institute of Education Sciences]]"
@@ -176,7 +177,7 @@ sources:
 > [!ref-table]- 各大学术数据库检索记录分布统计（Table 1, p. 575）
 > | 数据库名称 | 初检命中记录数 | 检索特征与主要覆盖领域 |
 > |:---|---:|:---|
-> | EBSCOhost | 31,291 | 涵盖 BEI、PsycINFO、ERIC 等 11 个专业子库 |
+> | EBSCOhost | 31,291 | 涵盖 BEI、PsycINFO、[[Education Resources Information Center\|ERIC]] 等 11 个专业子库 |
 > | Web of Science | 1,717 | 核心期刊引文数据库，高集中度学术文献 |
 > | Ovid MEDLINE | 107 | 临床医学与循证医疗专业数据库 |
 > | First Search 电子书专著遴选 | 6,856 | 电子书与专著文献遴选 |

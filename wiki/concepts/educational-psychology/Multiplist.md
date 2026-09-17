@@ -6,10 +6,10 @@ aliases:
 summary: "论辩推理模型中的中间认识论立场，主张知识纯属主观意见，所有观点都同等有效。"
 type: concept
 domain: "educational-psychology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 related_concepts:
   - "[[Epistemology]]"
   - "[[Teaching Assistant]]"
@@ -23,9 +23,11 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 related_persons:
   - "[[Deanna Kuhn]]"
+related_methods:
+  - "[[Correlational Research]]"
 status: active
 created: 2026-08-15
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Multiplist
@@ -111,6 +113,6 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 在梳理[[Epistemology|认识论]]发展模型时，将其作为对权威破灭后走向极端相对主义的结构性阶段。
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 将多元论定位为认识论演进的最庞大瓶颈期，实证揭示了向多元论过渡的极速性，以及成年人在价值观领域对多元论的迷恋。

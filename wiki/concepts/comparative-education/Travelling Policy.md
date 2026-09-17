@@ -8,10 +8,10 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 theory_related_count: 4
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -39,6 +39,7 @@ related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
   - "[[Snowball Sampling]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Travelling Policy
@@ -127,7 +128,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 将旅途政策和流动话语定位为[[Rationalism in International Relations|理性主义]]传统下，治理网络超越国家边界、进行远处协调的重要表征。
 > - [[Argument_Beech_2009_CE|Beech, 2009]] — 详细探讨了跨国机构作为“园丁”，使政策在[[Global Policy Space|全球政策空间]]中旅行、 decontextualize 与 recontextualize 的机制。
 > - [[Transfer Translation Transformation]] (转译与 3T 框架) — 研究政策在其旅途终点，如何在本土社会空间受权力挤压而变形的微观机制。

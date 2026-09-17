@@ -6,7 +6,7 @@ aliases:
 summary: "由 Cole (2005) 提出的一种以想象力和情感政治为核心的课程设计主张，主张在内在性平面上通过组合学生身体的相遇与欲力以引导智识创新。"
 type: concept
 domain: "curriculum"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories:
   - "[[Network Society]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Baruch Spinoza]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 
 # International Spinozian Curriculum
@@ -103,5 +104,5 @@ updated: 2026-07-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 提出了国际[[Baruch Spinoza|斯宾诺莎]]主义课程框架，用以平衡学术研究与想象力培育，并为后现代知识探究提供新的方法论基础。

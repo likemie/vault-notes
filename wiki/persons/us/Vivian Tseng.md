@@ -7,7 +7,7 @@ summary: "美国心理学者与教育资助慈善战略专家，曾任威廉·T�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_concepts:
 related_methods:
   - "[[Network Analysis]]"
   - "[[Mixed Methods Research]]"
+  - "[[Correlational Research]]"
 related_facts:
   - "[[William T. Grant Foundation]]"
 related_persons:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Vivian Tseng
@@ -126,7 +127,7 @@ updated: 2026-09-15
 > - **[[Research-Practice Partnership|RPP]] 评估体系确立** 协同 Henrick 等学者确立[[Evaluation Research|评估研究]]-实践伙伴关系有效性的五大维度，为全美数十个学区-高校协作联盟提供操作与检验基准。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 223, 232)]]
 > - **跨界中介专业化** 将跨界中介专员（[[Boundary Spanner]]）与一线社区误工补偿机制列入常设预算，重塑了科研合作的经济与人力资源分配模式。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 221–222)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]] — 曾薇薇安系统阐发[[Democratising Evidence|证据民主化]]纲领、批判高校榨取式科研并提出资助机构四大行动支柱。（pp. 220–224）
 
 ---

@@ -10,7 +10,7 @@ summary: "元分析中两种最基础的统计合成模型，固定效应模型�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Small Study Effects]]"
   - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
+  - "[[Correlational Research]]"
   - "[[Meta-meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Meta-regression]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Fixed-Effect and Random-Effects Models
@@ -163,7 +164,7 @@ flowchart TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述固定与随机效应模型在教育与医学证据综合中的方法论差异与演进历史。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从固定效应数学等价性推导[[Meta-meta-analysis|二阶元分析]]六项方法论前提，批判 Hattie 违背独立性假定。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 在 341 项[[Critical Thinking|批判性思维]][[Intervention Research|干预研究]]中全面采用随机效应模型与混合效应[[Meta-regression|元回归]]。

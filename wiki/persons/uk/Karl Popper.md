@@ -10,7 +10,7 @@ summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Problem Approach]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Brian Holmes]]"
   - "[[Plato]]"
@@ -60,7 +61,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Karl Popper
@@ -142,7 +143,7 @@ updated: 2026-09-11
 > - **社会政策路径** 奠定了开放社会与渐进[[Educational Meliorism|改良主义]]的哲学框架，其“零星社会工程（Piecemeal Social Engineering）”理念成为现代公共政策实验与事前评估的核心[[Paradigm|范式]]；
 > - **比较教育学转化** [[Brian Holmes|布赖恩·霍姆斯]]将波普尔的[[Critical Dualism|批判二元论]]与假说-演绎试错法全盘移植入比较教育学，创立了著名的[[Problem Approach|问题法]]：将教育政策表述为可证伪的权变假说，通过情境逻辑调查初始条件，以概率性预测作为科学划界标准，从而在战后英美[[Scientific Paradigm|科学范式]]大论战中开创了最具哲学深度的问题学派。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 62–63, 66–67)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统考证波普尔证伪主义、推测性知识与理论负荷概念对教育研究方法论后[[Positivism|实证主义]]转型的奠基贡献。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 详细评析波普尔批判二元论与反归纳主义认识论如何被霍姆斯直接吸纳，成为战后比较教育科学范式中对抗普遍必然因果律的理论基石。
 

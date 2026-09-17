@@ -8,7 +8,7 @@ summary: "德国教育统计学家、经合组织（OECD）教育与技能司司
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -45,7 +45,8 @@ related_concepts:
   - "[[Soft Power by Hard Facts]]"
 related_theories:
   - "[[Item Response Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons:
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Andreas Schleicher
@@ -126,7 +127,7 @@ updated: 2026-09-13
 > - **政策路径** 依托三年一度的 [[PISA]] 放榜在全球掀起“PISA 冲击（[[PISA Shock]]）”，促使德国、日本、挪威等主权国家重构国家[[21st Century Skills and Competencies Discourse|核心素养]]框架、设立中央评估督导机构并将教育治理逻辑彻底转向输出导向。
 > - **全球治理路径** 亲手缔造了[[OECD|经合组织]]在全球教育治理中的“软法与硬事实帝国”，将原本不具有任何教育法定管辖权的经济组织，打造成超越联合国专门机构的全球首要教育[[Policy Brokerage|政策中介]]枢纽。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 547)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 权威援引其[[Document|文献]]，揭示其作为 PISA 总设计师如何超越短期媒体轰动，将经合组织建构成规制全球公共政策的标准设定中枢。
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 系统解构施莱歇尔在媒体发布会上使用的 147 张演示幻灯片，揭示其迎合传媒逻辑、推销新自由主义治理愿景的技术修辞。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 批判其利用东方威权[[Examination-Oriented Education|应试教育]]体系的“自我谴责”特质粉饰 PISA 排名，进而误导西方教育政策改革。
@@ -195,7 +196,7 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 权威剖析其关于[[OECD|经合组织]]作为独特知识枢纽与[[Policy Brokerage|政策中介]]的制度定位，揭示大规模评估背后的全球规制雄心。
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 实证分析其在 [[PISA]] 发布会上的 147 张幻灯片与媒体修辞技术，解构其新自由主义教育改革蓝图。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 深入评析其对中国上海 PISA 表现的文化归因，反思量化指标对威权教育体制的浪漫化遮蔽。

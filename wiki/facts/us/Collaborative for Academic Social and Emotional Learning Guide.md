@@ -39,7 +39,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[ESSA 2015 Evidence Standards]]"
+  - "[[Every Student Succeeds Act]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
@@ -112,4 +112,4 @@ updated: 2026-09-12
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — CASEL 代表了深耕特定学科/领域（[[Social-Emotional Learning|SEL]]）的垂直型非营利证据清算中心。
-> - [[Evidence-Based Reform]] 与 [[ESSA 2015 Evidence Standards]] — CASEL 评级为学校利用 ESSA 资金引入全校性 SEL 课程提供了核心依据。
+> - [[Evidence-Based Reform]] 与 [[Every Student Succeeds Act|ESSA 2015 Evidence Standards]] — CASEL 评级为学校利用 ESSA 资金引入全校性 SEL 课程提供了核心依据。

@@ -9,7 +9,7 @@ aliases:
 summary: "Toulmin 提出的领域依赖论证结构模型，将论证拆解为主张、数据、保证、支撑、限定词与反驳六个部件；当代科学教育批判其纯句法结构无法甄别披着规范外衣的伪科学论证。"
 type: theory
 theory_field: "argumentation-and-logic"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -37,10 +37,11 @@ related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-07-05
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Toulmin's Argumentation Model
@@ -151,7 +152,7 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 在 IB [[Theory of Knowledge|知识论]]课程中剖析图尔敏模型的局限，提出语用辩证学作为对称争辩的替代框架。
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 深刻解构图尔敏式结构评价的[[Epistemology|认识论]]盲区，提出奠基于 [[AIR Model of Epistemic Cognition|AIR]] 模型的[[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠过程]]评价新[[Paradigm|范式]]。
 

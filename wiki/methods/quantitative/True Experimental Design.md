@@ -7,7 +7,7 @@ summary: "具备随机分配、控制组、前测后测和变量操纵全部特�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,12 +45,13 @@ related_methods:
   - "[[Repeated Measures Design]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Pre-Experimental Designs]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 related_facts: []
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # True Experimental Design
 
@@ -128,5 +129,5 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍真实验设计的八个[[Necessary and Sufficient Conditions|必要条件]]、七种主要变体、与准实验的区分标准，以及 Bhadwal & Panda (1991) 印度农村阅读研究的真实验案例。

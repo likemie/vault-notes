@@ -11,7 +11,7 @@ summary: "元分析与统计综合中最核心的最优加权方法，依据各�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Funnel Plot]]"
   - "[[Robust Variance Estimation]]"
   - "[[Meta-regression]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-17
 ---
 
 # Inverse-Variance Weighting
@@ -214,7 +215,7 @@ updated: 2026-08-24
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从逆方差加权与固定/[[Fixed-Effect and Random-Effects Models|随机效应模型]]的数学基础出发，系统批判了 Hattie 在《[[Visible Learning|可见的学习]]》中采用简单算术平均与错误加权的统计缺陷。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 运用随机效应模型下的经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$），加权合成 15 项一阶[[Meta-analysis|元分析]]的 23 个[[Effect Size|效应量]]，确立[[Cooperative Learning|合作学习]]的中等稳健促进效应（$ES = 0.71$）。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在多水平框架下运用三水平方差分解与逆方差加权工作矩阵，结合[[Robust Variance Estimation|稳健方差估计]]综合[[Creativity|创造力]]全领域效应量。

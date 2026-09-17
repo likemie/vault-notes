@@ -8,7 +8,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Critical Thinking Assessment]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence Standards]]"
+  - "[[Rationalized Myth]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
@@ -40,19 +41,21 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Archival Correspondence Analysis]]"
   - "[[Historical Document Analysis of Curriculum]]"
+  - "[[Correlational Research]]"
   - "[[Internal Consistency]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
+  - "[[Argument_Helgetun_2022_JEP]]"
 related_facts:
   - "[[OECD]]"
   - "[[What Works Network]]"
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Documentary Analysis
@@ -161,9 +164,9 @@ Jupp & Norris (1993) 将文献分析的理论传统归纳为三类：
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011, Ch. 12)]] 系统介绍了[[Document|文献]]分析方法的核心程序、三种理论传统、伦理与法律议题，并提供了教育研究中文献分析的多个案例。
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–41)]] 以 2013 年 ToK 课程指南为材料，将课程目标、评估目标和最高等级评分描述符中的命令词与多套[[Critical Thinking|批判性思维]]分类框架进行质性对齐，以判断课程[[Internal Consistency|内部一致性]]及其[[Construct Validity|构念效度]]。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 5–20)]] 对 152 个国家教育政策文件及 [[OECD]] 成员国高等教育资格框架、质量保障条例与评价实践展开系统性文献分析（Documentary Analysis），系统梳理了监管、财政与信息三种政策杠杆在推动[[Creativity|创造力]]与[[Critical Thinking Assessment|批判性思维评价]]中的实施机制与制度断裂。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022, pp. 149–156)]] 对全英有效性中心（[[What Works Network|WWCs]]）的官方战略规划、实施指南及 15 个国际网络证据门户的规程文本展开系统性文献与跨案例分析（Documentary Analysis），提炼出[[Educational Brokerage Agency|知识中介机构]]的演变轨迹、六维[[Evidence Standards|证据标准]]与功效主张的四类病理根源。
-> - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022, pp. 91–93)]] 运用 MAXQDA 对 1983 至 2019 年间英格兰 46 份核心教师教育政策与白皮书文本进行深度文献分析（Documentary Analysis），追踪引文演化与国际参照系变迁，揭示“证据”如何被制度化为主导性合理化神话。
+> - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022, pp. 91–93)]] 运用 MAXQDA 对 1983 至 2019 年间英格兰 46 份核心教师教育政策与白皮书文本进行深度文献分析（Documentary Analysis），追踪引文演化与国际参照系变迁，揭示“证据”如何被制度化为主导性[[Rationalized Myth|合理化神话]]。

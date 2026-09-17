@@ -38,7 +38,7 @@ related_methods:
   - "[[Rating Scale]]"
   - "[[Longitudinal Study]]"
   - "[[Cohort Study]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Correlational Research]]"
   - "[[Trend Study]]"
   - "[[Survey Research]]"
 related_arguments:
@@ -108,7 +108,7 @@ updated: 2026-07-13
 > - 较少受到控制效应的影响。
 > - 更可能在"一次性"基础上获得受访者的合作。
 > - 通常能够包含比队列设计更多的受试者（p.272）。
-> - 适合描述性和[[Observational and Correlational Research|相关性研究]]问题。
+> - 适合描述性和[[Correlational Research|相关性研究]]问题。
 
 > [!weakness] 局限
 > - 不能进行因果分析——除非随时间重复进行（p.271）。
@@ -133,5 +133,5 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 该章系统讨论了横截面研究作为[[Survey Research|调查研究]]设计的定义、特征、优势与局限，及其与[[Longitudinal Study|纵向研究]]的对比。

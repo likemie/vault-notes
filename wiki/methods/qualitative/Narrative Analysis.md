@@ -8,7 +8,7 @@ summary: "以故事为意义建构与表达的基本形式，通过时间序列�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Stories as Research Data]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-08-17
+updated: 2026-09-17
 ---
 
 # Narrative Analysis
@@ -124,5 +125,5 @@ updated: 2026-08-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]] — 系统介绍叙事与传记分析进路：以 Bruner 的故事理论、Labov 的叙事结构、传记的时序重构与最终叙事的多种建构方式说明如何以叙事形式组织质性数据。

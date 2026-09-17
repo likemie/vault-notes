@@ -6,10 +6,10 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - problem-based-learning
   - subject/instruction
@@ -49,6 +49,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
@@ -63,7 +64,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-05
+updated: 2026-09-17
 ---
 
 # Problem-Based Learning
@@ -345,7 +346,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] 将 PBL 作为自上而下[[Constructive Alignment|建构性对齐]]的案例，完整连接专业目标、问题活动和三跳评估。
 > - [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] 以早期二级综合汇总九项一级[[Meta-analysis|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
 > - [[Argument_Blass_2020_JESP|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。

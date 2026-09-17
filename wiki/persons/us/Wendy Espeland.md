@@ -8,7 +8,7 @@ summary: "美国西北大学社会学教授，量化社会学、评价与指标�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Wendy Espeland
@@ -129,7 +130,7 @@ updated: 2026-09-12
 > - **政策路径** 深刻影响全球教育政策学、比较教育学与公共管理学界；其理论被广泛运用于解构 [[PISA]] 跨国排名、大学世界排名（THE, QS）以及国际组织循证决策中的数字修辞。
 > - **跨国／跨领域传播** 思想跨越高等教育、医疗政策、环境治理与法律经济学，成为全球批判数据主义（Critical Data Studies）与算法问责研究的核心理论资源。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]] — 引用 Espeland (2015) 论证数字指标在教育公共政策中如何构筑理性客观表象，并为中介机构和决策者阐释“指标故事”保留政治叙事自由。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017]] — 运用 Espeland & Sauder (2007) 的排名履行性与反应性机制，批判全球高等教育政治经济学中的市场化与象征资本锦标赛。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022]] — 援引 Espeland & Stevens (2008) 论证教育量化技术对学习者“[[Digital Self|数字自我]]”的统计构建，揭示数据测量绝非通向真实客观的特权通道。

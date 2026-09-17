@@ -7,14 +7,14 @@ aliases:
 summary: "梁启超 1902 年引入的现代国族概念，经费孝通 1988 年以“多元一体”重新阐释后进入中共主流话语，指以当代物理领土或汉文化为边界、包容 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: '2026-07-23'
+updated: 2026-09-17
 tags:
   - region/china
   - theme/national-identity
@@ -37,6 +37,7 @@ related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Fei Xiaotong]]"
   - "[[Qian Mu]]"
@@ -193,7 +194,7 @@ related_arguments:
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 探究了中华民族复兴[[Retrotopia|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的实践。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 对中国历史教科书中的中华民族族裔文化观与领土观进行了实证话语对比分析。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 实证分析 217 册必修教材中“中华民族”话语的汉儒正统化及其在少数民族学生中的[[Reflexivity|反思性]]回应。

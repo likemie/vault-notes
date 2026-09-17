@@ -11,7 +11,7 @@ summary: "在结构方程模型与验证性因子分析中评估潜变量多指�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Cronbach's Alpha]]"
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Correlational Research]]"
   - "[[Scale Development]]"
   - "[[Average Variance Extracted]]"
 related_instruments:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-08-29
+updated: 2026-09-17
 ---
 
 # Composite Reliability
@@ -133,7 +134,7 @@ updated: 2026-08-29
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers|教师研究素养量表]]》的 [[Confirmatory Factor Analysis|CFA]] 心理计量检验中，计算各分维度的组合[[Reliability|信度]]分别为：研究意识（$\text{CR} = .83$）、研究态度（$\text{CR} = .75$）、研究技能（$\text{CR} = .87$）、[[Research Utilization|研究使用]]（$\text{CR} = .90$），全部显著超过 $.70$ 门槛，证实了量表各维度卓越的[[Internal Consistency|内部一致性]]。
 
 ---

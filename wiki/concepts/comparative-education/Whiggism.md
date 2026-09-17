@@ -10,7 +10,7 @@ aliases:
 summary: "历史学中以当代价值、标准或进步结果逆向剪裁历史演化过程的史学倾向；在比较教育学中特指混淆实然因果阐释与应然民主改良，或以当代实证量化尺度评判历史先驱的时代倒错。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_theories: []
 related_methods:
   - "[[Ethnography]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Whiggism
@@ -228,6 +229,6 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古揭示比较教育历史学派在追求教育改良时陷入混淆实然与应然的辉格史观，并澄清[[Historical-Comparative Method|历史比较法]]在超越[[National Character|国民性格]]循环论证后的广义科学解释力。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统解构战[[Postpositivism|后实证主义]]学者编造的单向学科进化神话，反驳以现代量化标准裁判 19 世纪早期先驱的时代倒错，正名其教育编年史官与[[Ethnography|民族志]]记录者的奠基价值。\n

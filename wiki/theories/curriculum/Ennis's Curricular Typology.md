@@ -8,7 +8,7 @@ aliases:
 summary: "Robert Ennis (1989) 提出的批判性思维课程设计四分法理论，依据思维原则的显性程度与学科知识的结合架构划分为独立通用、学科融入、学科沉浸与显性混合四种模式"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Ennis's Curricular Typology
@@ -155,7 +156,7 @@ flowchart TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验实证，对 Ennis 提出的四类课程模式进行系统[[Meta-analysis|元分析]]组间检验，确立混合模式（$g+ = 0.38$）与融入模式（$g+ = 0.29$）的实证有效性。
 > - [[Explicit Critical Thinking Instruction]] — 阐述显性[[Critical Thinking|批判性思维]]教学的核心理论命题、教师培训[[Interaction Effect|调节效应]]与实践案例。
 > - [[Domain Specificity]] — 阐明学科特异性与通用性的[[Epistemology|认识论]]辩论及双层整合机制。

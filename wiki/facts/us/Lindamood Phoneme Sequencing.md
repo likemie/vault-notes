@@ -10,9 +10,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1970s–至今"
 initiator_organization: "Lindamood-Bell Learning Processes"
@@ -37,6 +37,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -111,7 +112,7 @@ updated: 2026-09-17
 > [!finding-cards] 核心实证结论
 > - **超大因果学业[[Effect Size|效应量]]** 在托尔格森等（Torgesen et al., 1997, 2010）主导的独立 [[Randomised Controlled Trials|RCT]] 实验中，无论是以 1:2–3 形式开展的小组辅导（Tier 2，效应量 $+0.64$）还是 1:1 个别辅导（Tier 3，效应量 $+0.69$），LiPS 均测得远高于常规教育干预的超大效应量，显著消除虚假音素障碍。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 28)]]
 > - **从根源阻断特殊教育转介** 实证追踪表明，经过 LiPS 密集干预的高危一年级儿童中，超过 85% 成功恢复至年级正常阅读流利度常模，极大地减少了因阅读困难而被迫贴上“[[Lifelong Learning|终身学习]]失能（Learning Disability）”标签的儿童比例。
-> - **双层架构的强证据覆盖** 斯莱文（Slavin, 2019）特别指出，绝大多数教育方案往往仅在单一层级有效，而 LiPS 在 Tier 2 和 Tier 3 均通过了严苛的第三方标准化测试审查，是保障[[Response to Proven Instruction|RTPI]]整体系统效能的关键支柱。
+> - **双层架构的强证据覆盖** 斯莱文（[[Argument_Slavin_2019_EP|Slavin, 2019]]）特别指出，绝大多数教育方案往往仅在单一层级有效，而 LiPS 在 Tier 2 和 Tier 3 均通过了严苛的第三方标准化测试审查，是保障[[Response to Proven Instruction|RTPI]]整体系统效能的关键支柱。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.64** Tier 2 小组辅导（1 年级，1:2–3）测得的平均阅读效应量（$ES$），获 [[Every Student Succeeds Act|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 28)]]
@@ -122,7 +123,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 LiPS 列为初等阅读 Tier 2（[[Effect Size|效应量]] $+0.64$）与 Tier 3（效应量 $+0.69$）双双达到 [[Every Student Succeeds Act|ESSA]] 强[[Evidence Standards|证据标准]]的标志性学术方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何以 LiPS 等强证据工具充实 [[Response to Intervention|RTI]] 多层防线。
 > - [[Sound Partners]] — 同属早期语音阅读强证据代表方案，侧重受训[[Teaching Assistant|助教]]递送；与 LiPS 形成专业教师 vs 助教辅导的双璧矩阵。

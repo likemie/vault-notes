@@ -7,7 +7,7 @@ summary: "英国教育社会学家，教育政策语境理论与私有化分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_theories:
   - "[[Post-structuralism]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Basil Bernstein]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Stephen Ball
@@ -130,7 +131,7 @@ updated: 2026-09-11
 > - **方法路径**[[Network Governance|网络治理]]与社会网络地图绘制方法在后来的私有化研究中得到推广，影响了 O'Neill 等人对跨国[[Policy Network|政策网络]]和商业化轨迹的实证解构。
 > - **政策路径** 为全球教师工会（如教育国际）抵制新自由主义市场化改革和反思以数据为主导的教育质量监测提供了理论弹药。
 
-> [!evidence-grid-a]- 相关研究
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]
 > - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 运用鲍尔关于内生/外生私有化以及跨国政策创业理论，勾勒新西兰公立学校政策网络的商业化和治理重塑。
 > - [[Argument_Ball_2008_SR|Ball, 2008]] — 自行阐述教育社会学史和治理目光的变迁，解构绩效技术对学校的主导。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 引用鲍尔对新自由主义审计社会的剖析，批判[[Evidence-Based Education|循证教育]]运动如何用 “[[Governing by Numbers|数字治理]]” 代替教育的民主目的与教师的[[Professional Judgment|专业判断]]。

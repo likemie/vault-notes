@@ -9,7 +9,7 @@ summary: "事后回溯研究中的一种基本设计类型，通过比较因变�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -28,13 +28,14 @@ related_concepts:
 related_methods:
   - "[[Ex Post Facto Research]]"
   - "[[Random Assignment]]"
+  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Criterion Group Study
 
@@ -47,7 +48,7 @@ updated: 2026-09-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 标准组研究的基本设计可表示为：实验组 E（暴露于 X → 产生 O₁）与对照组 C（未暴露于 X → 产生 O₂）的比较。虚线表示两组不是通过[[Random Assignment|随机分配]]来等价的。
-> - **用途** 通过比较两组在[[Dependent Variable|因变量]]上的差异，推断可能的因果差异。然而这最多是一项相关研究，因果不等于相关，第三变量可能同时解释分组差异与结果差异。
+> - **用途** 通过比较两组在[[Dependent Variable|因变量]]上的差异，推断可能的因果差异。然而这最多是一项[[Correlational Research|相关研究]]，因果不等于相关，第三变量可能同时解释分组差异与结果差异。
 > - **边界** 标准组设计不同于历史设计：前者关注当前事件，后者追溯过去事件的历史（Lord, 1973, p. 4）。它被视为桥梁，连接描述性研究方法与真正[[Experimental Research|实验研究]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 308]]）。
 
 ---

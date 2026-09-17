@@ -7,7 +7,7 @@ summary: "中国著名历史学家，海外文化保守主义史学代表人物�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Official Knowledge]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Fei Xiaotong]]"
   - "[[Qian Mu]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-26'
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Hsu Cho-Yun
@@ -91,7 +92,7 @@ updated: 2026-09-11
 > - **中国大陆历史教育路径** 自 1980 年代起，许倬云等海外文化保守主义者的著作被引入大陆教育界，用以补充对传统汉文化精髓的理解并培养国家治理与传统文化认同。[[Argument_Xu_2024_CE|(Xu, 2024, p. 587)]]
 > - **香港教科书叙事契合路径** 许倬云关于“以汉文化为构成性核心、领土随治理动态演变”的学术表述，与香港 2010 年代末中史教科书（如龄记版）强调汉/非汉对立、[[Sinicisation|汉化]]同化及朝代领土伸缩的叙事逻辑高度契合。[[Argument_Xu_2024_CE|(Xu, 2024, pp. 580–582)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 引用许倬云的文化史著作作为“族裔文化型中国观”的学术代表，并将其与[[Fei Xiaotong|费孝通]]的领土型中国观进行比较分析。
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Multi-Arm Trial]]"
   - "[[Factorial Design]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_facts:
@@ -262,7 +263,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 英国 [[Education Endowment Foundation|EEF]] 评估决策者回顾十年循证试验治理历程，总结三方协议、[[Implementation and Process Evaluation|IPE]] 绑定、客观统考及“证明无效”的重大价值。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]] — 深度审思澳大利亚 [[Australian Education Research Organisation|AERO]] 与英美循证运动的技术治理逻辑，揭示私人资本合谋与[[Teacher Professional Agency|教师专业自主权]]受抑的困境。
 > - [[Argument_Slavin_2019_EP|Slavin, 2019]] — 梳理美国 [[Every Student Succeeds Act|ESSA]] 时代[[Evidence Standards|证据标准]]的建立过程，辩护循证改革对提升全校改进项目实证水平的驱动作用。

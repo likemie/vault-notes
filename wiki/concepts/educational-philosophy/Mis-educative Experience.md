@@ -6,7 +6,7 @@ aliases:
 summary: "约翰·杜威在《经验与教育》中提出的阻碍性经验概念。反教育经验是指具有截断、停滞或扭曲未来经验生长品质效果的经验，如死记硬背或机械操练，导致学习者产生理智麻木、厌恶或求知敏感度丧失。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Narration Sickness]]"
   - "[[Examination-Oriented Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-09-17
 ---
 
 # Mis-educative Experience（反教育经验）
@@ -135,5 +136,5 @@ updated: 2026-08-01
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 分析传统课堂纪律难题、死标本观察课与反教育经验的因果链条。

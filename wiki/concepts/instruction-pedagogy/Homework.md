@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Correlational Research]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
@@ -67,7 +68,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-06-08'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Homework
@@ -229,7 +230,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统批判家庭作业在实证研究中的定义模糊性与“苹果和橙子”[[Construct|构念]]混淆，剖析干预效果与相关效果的本质区别，并反思 Hattie 综合[[Effect Size|效应量]]的局限。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 解构家庭作业的学段断层（小学 $d = 0.15$ vs 中学 $d = 0.64$）与学科差异，警示笼统报告单一效应量对教育决策与教学实践的误导性。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 通过身高类比与 21% 班级提分概率换算，具象化解构 Hattie $d = 0.29$ 效应量背后的真实微弱性与 35% 负面/中性研究事实。

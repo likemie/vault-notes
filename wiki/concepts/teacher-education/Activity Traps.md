@@ -7,7 +7,7 @@ aliases:
 summary: "指专业学习共同体运作中，实践者未真正投入探究便径直跳到解决方案的活动形态；其后果是实践与情境的根本问题未被确立、未考虑全部成因与方案，并因做法“已知”而重复无效实践。"
 type: concept
 domain: "teacher-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
   - "[[Likert Scale]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Toby Greany]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Activity Traps
@@ -208,7 +209,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 引入 Katz 与 Dack 的活动陷阱概念解释英格兰小学的协作探究缺陷，以“讨论潜在[[Hypothesis|假设]]”题项的低同意率作为风险信号，并把成因追溯到问责压力与评价机制缺位。
 
 ---

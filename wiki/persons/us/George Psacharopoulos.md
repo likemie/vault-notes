@@ -8,7 +8,7 @@ summary: "国际著名教育经济学家、世界银行资深教育顾问与人�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,7 +35,8 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # George Psacharopoulos
@@ -166,5 +167,5 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 引用萨卡罗普洛斯 1981 年经典[[Document|文献]]与 2018 年回报率数据库，剖析[[World Bank|世界银行]]如何摆脱[[UNESCO|教科文组织]]、打造自足自指的应用政策研究帝国。

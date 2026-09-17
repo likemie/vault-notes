@@ -9,7 +9,7 @@ aliases:
 summary: "以预先界定的标准或学习结果为判断依据，用于识别个体是否达标及其表现质量。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,11 +40,12 @@ related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Random Sampling]]"
   - "[[Confidence Interval]]"
+  - "[[Correlational Research]]"
   - "[[Item Analysis]]"
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-08-24
+updated: 2026-09-17
 ---
 
 # Criterion-Referenced Test
@@ -224,7 +225,7 @@ updated: 2026-08-24
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — 记录 IB 在六年试验中以标准参照方式判定完整文凭，并提供 1970—1975 年考生规模与年度通过率。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011)]] — 系统说明标准参照的达标逻辑、[[Item Analysis|题目分析]]要求、切分点设定与评分特异性。
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 区分标准模型与常模测量模型，并用标准参照评估连接课程目标、教学活动、评估任务和理解质量。

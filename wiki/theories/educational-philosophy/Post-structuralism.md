@@ -4,7 +4,7 @@ aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 29
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -47,11 +47,12 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Qualitative Observation]]"
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
   - "[[Qualitative Research]]"
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Post-structuralism
@@ -201,7 +202,7 @@ updated: 2026-09-11
 
 ## 实证数据
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 28–29)]] — 系统阐发后结构主义在教育探究中的核心特征：对结构功能主义的反思、个体能动性与内在矛盾主体、数据即文本话语、解构意义特权化以及与后实证、[[Postmodernism|后现代主义]]的方法论互通。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 在跨章节（特别是第 31 章和第 32 章[[Discourse Analysis|话语分析]]专题）中深入论述话语建构、文本表演与多重视角分析在教育[[Qualitative Research|质性研究]]中的具体操作路径。
 

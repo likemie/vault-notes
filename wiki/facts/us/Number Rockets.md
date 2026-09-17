@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Efficacy Trial]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jack Douglas]]"
@@ -128,7 +129,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Number Rockets 列为初等数学 Tier 2 教师小组辅导唯一的强证据代表方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释 Number Rockets 在 Tier 2 小组防线中的精准预防机制。
 > - [[Response to Intervention]] — RTI 母概念条目，Number Rockets 作为全美数学 RTI 的开山实证典范收录其中。

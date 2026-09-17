@@ -11,7 +11,7 @@ summary: "关注因素而非人群、在不同时间点抽取不同样本但聚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -40,12 +40,13 @@ related_methods:
   - "[[Sensitive Questions]]"
   - "[[Cohort Study]]"
   - "[[Survey Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: '2026-07-21'
+updated: 2026-09-17
 ---
 
 # Trend Study
@@ -188,5 +189,5 @@ updated: '2026-07-21'
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统讨论了趋势研究作为[[Longitudinal Study|纵向研究]]设计的定义、核心特征（反应性、滚动样本、预测准确度）、优势与局限，以及与[[Cohort Study|队列研究]]和面板研究的区别（图 13.2）。

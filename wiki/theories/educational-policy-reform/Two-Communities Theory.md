@@ -8,7 +8,7 @@ aliases:
 summary: "两社区理论由 Nathan Caplan（1979）提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，是政策中介、边界跨越者与研究利用理论的奠基性元模型。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 36
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -51,6 +51,7 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -60,10 +61,11 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Serpell_2020_EP]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Two-Communities Theory
@@ -204,6 +206,7 @@ updated: 2026-09-15
 > - **1979 — 内森·卡普兰发表奠基论文** Caplan（1979）在《美国行为科学家》发表论文，正式提出“两社区理论”（Two-Communities Theory），诊断美国联邦决策层中社会科学[[Research Utilization|知识利用]]低迷的制度文化根源。
 > - **1980–1990年代 — 智库兴起与三代知识模型分化** 随着公共管理改革展开，学者将目光从单纯指责两界鸿沟转向探讨桥梁机构；Weiss（1979）与 Caplan（1991）深化研究利用形态划分，催生出边界跨越与[[Knowledge Co-production|协同生产]]模型。
 > - **2019 — 对二元极化隐喻的系统性批判与解构** Mackillop、Downe 与 Quarmby（2019）系统检视[[Knowledge Mediation|知识中介]][[Document|文献]]，指出两社区模型过度夸大了真理与行动的二元断裂，忽视了两者内部的多元性以及知识与权力的深层共谋。
+> - **2020 — 国会山实践视角下两社区壁垒的制度性跨越** [[Argument_Serpell_2020_EP|Serpell (2020)]] 从国会研究员的由外而内的局内人视角指出，两社区隔阂不能通过要求政策过程模仿科学发现过程来解决，而需研究者深入立法世界理解其价值生态与时间系统，借助国会委员会与智库中介进行针对性转化。
 > - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代[[Policy Brokerage|政策中介]]理论的综合应用** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 指出，在信息过载时代，国际组织将[[Knowledge Production|知识生产]]、推介与资助融为一体，跨越两社区的中介行为已演化为高度政治化的全球治理工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
 
 ---
@@ -231,8 +234,9 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 溯源[[Knowledge Mediation|知识中介]]与[[Policy Brokerage|政策中介]]的理论谱系，运用两社区理论阐释国际组织在科学真理与政治行动之间充当[[Boundary Spanner|边界跨越者]]的机制。
+> - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 基于国会山参与实务，反思两社区在证据定义与时间节律上的根本断裂，阐释通过国会研究员与中介机构跨越两界壁垒的实践路径。
 
 ---
 

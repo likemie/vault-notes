@@ -6,7 +6,7 @@ aliases:
 summary: "语言学转向在文献分析中的应用：受解释学原则与文学批评影响，通过对文献语言与话语的细致研究来理解文本的意义建构过程。Sol Cohen（1999）提出五维分析框架——文本生产符号学、意义制造、读者意义获取、作者意图与读者解释、话语共同体的接受角色。"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_theories: []
 related_methods:
   - "[[Documentary Analysis]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Linguistic Turn
@@ -72,5 +73,5 @@ Sol Cohen（1999, p. 81）提出了[[Documentary Analysis|文献分析]]中语�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion and Morrison 将语言学转向定位为[[Documentary Analysis|文献分析]]的文本层面方法论深化的核心组成部分，并在 Cohen（1999）五维框架的基础上连接了解释学和文学批评传统。

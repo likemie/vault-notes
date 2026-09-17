@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 73
+fact_related_count: 74
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -71,6 +71,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Difference-in-Differences]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -100,13 +101,13 @@ related_arguments:
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Wrigley_2019_ERE]]"
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # EEF Teaching and Learning Toolkit
@@ -222,12 +223,12 @@ updated: 2026-09-16
 > > - **政治道德侧步（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]）** 英国中央政府在推行具有高度争议的[[Grammar School|文法学校]]扩张时，刻意回避 Toolkit 代表的学术证据，转而采信非同行评议的 [[Ofsted]] 评级进行道德侧步（[[Moral Sidestep]]）。
 
 > [!critique] 统计聚合与方法学偏差批判
-> - **“[[Months of Progress|月度进步指标]]”（Months of Progress）的非线性[[Growth|成长]]缺陷与透明性掩盖** 戈拉德等（Gorard et al., 2020）及贝尔德与佩恩（Baird & Pane, 2019）对 Toolkit 首创的[[Months of Progress|月度进步指标]]（$0.1 SD pprox 1$ 个月额外进展）提出了尖锐的方法学批判：
+> - **“[[Months of Progress|月度进步指标]]”（Months of Progress）的非线性[[Growth|成长]]缺陷与透明性掩盖** 戈拉德等（[[Argument_Gorard_2020_ROE|Gorard et al., 2020]]）及贝尔德与佩恩（Baird & Pane, 2019）对 Toolkit 首创的[[Months of Progress|月度进步指标]]（$0.1 SD pprox 1$ 个月额外进展）提出了尖锐的方法学批判：
 >   1. **常模非线性成长规律被击穿** 假定全年各年龄段学生匀速线性成长是根本错误的；实证常模表明低幼儿童年自然增长可达 $1.0 \sim 1.5 SD$，而高中生年自然增长仅为 $0.2 SD$。使用全局固定的折算率必然导致跨学段干预评估的严重定向误导；
 >   2. **掩盖原始研究质量与真实离散分布** 通俗隐喻在科学交流上缺乏增量优势，反而掩盖了底层试验的[[Attrition|样本流失]]率、测量工具偏差以及前[[Pre-test and Post-test|后测]]绝对均值分布。高水平决策必须回归未调整的组别均值、标准差与标准化[[Effect Size|效应量]]。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 584)]]
-> - **统计效应量的三类系统性失真** 辛普森（Simpson, 2017）揭示了 Toolkit 效应量计算无法回避的三重失真：比较组效应（对照组常规教学基线直接左右效应量）、样本范围限制（极窄弱势样本方差缩窄在公式上虚假放大效应量）、测量工具敏感度（定制测验效应系统性高于统考）。[[Argument_Bainbridge_2022_ROE|(Bainbridge et al., 2022, p. 4 引用)]]
-> - **“关公战秦琼”式的范畴聚合（苹果与橙子问题）** 里格利（Wrigley, 2018）批评指出，若干分类将不同学科、学段与理论内涵迥异的研究机械捏合，掩盖了微观课堂中的巨大[[Heterogeneity|异质性]]。
-> - **体育参与案例：三级聚合中的因果机制蒸发** 里格利与麦卡斯克（Wrigley & McCusker, 2019, pp. 120–123）通过穿透式个案剖析展示：工具包标定“体育参与”带来 $+2$ 个月学业进步（效应量 $0.17$），但底层最核心支撑来自著名的[[Playing for Success]]项目（数学效应量 $0.80$）；该项目是在英超俱乐部开展的包含专职辅导、尖端设施与球星激励的资源密集型综合干预，与普通校园体育毫无可比性；统计抽象消除了情境因果机制，导致学校误以为增加体育课时即可增进数学成绩。
+> - **统计效应量的三类系统性失真** 辛普森（[[Argument_Simpson_2017_JEP|Simpson, 2017]]）揭示了 Toolkit 效应量计算无法回避的三重失真：比较组效应（对照组常规教学基线直接左右效应量）、样本范围限制（极窄弱势样本方差缩窄在公式上虚假放大效应量）、测量工具敏感度（定制测验效应系统性高于统考）。[[Argument_Bainbridge_2022_ROE|(Bainbridge et al., 2022, p. 4 引用)]]
+> - **“关公战秦琼”式的范畴聚合（苹果与橙子问题）** 里格利（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）批评指出，若干分类将不同学科、学段与理论内涵迥异的研究机械捏合，掩盖了微观课堂中的巨大[[Heterogeneity|异质性]]。
+> - **体育参与案例：三级聚合中的因果机制蒸发** 里格利与麦卡斯克（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 120–123]]）通过穿透式个案剖析展示：工具包标定“体育参与”带来 $+2$ 个月学业进步（效应量 $0.17$），但底层最核心支撑来自著名的[[Playing for Success]]项目（数学效应量 $0.80$）；该项目是在英超俱乐部开展的包含专职辅导、尖端设施与球星激励的资源密集型综合干预，与普通校园体育毫无可比性；统计抽象消除了情境因果机制，导致学校误以为增加体育课时即可增进数学成绩。
 
 > [!warning] 实施局限、去情境化与制度冲突
 > 1. **微观情境信息缺失与单一统考尺度** 工具包提供平均效应，未能充分呈现干预在城乡学校、特定族裔或弱势群体的变异幅度；将短期统考成绩作为唯一产出指标，忽视了校园氛围与教师福祉等长期溢出价值。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 20–22)]]
@@ -244,7 +245,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 对工具包所代表的文本改写被动分发模式进行系统因果检验，并严厉批评“[[Months of Progress|月度进步指标]]”（Months of Progress）的常模线性[[Growth|成长]][[Hypothesis|假设]]与对原始数据质量的掩盖。
 > - [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] — 评估英国[[What Works Network|有效性网络]]与 [[Education Endowment Foundation|EEF]] Toolkit 的早期实施成效，系统剖析五类使用形态、本地情境适应性及与 [[Ofsted]] 督导指标的制度冲突。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 调查国际 15 个证据门户，将 Toolkit 确立为通用策略类[[Systematic Review|系统综述]]标杆，剖析单向传播失效（[[Literacy Octopus|识字八爪鱼]] [[Randomised Controlled Trials|RCT]]）及向 [[Research Schools Network|RSN]] 深度护航的演进逻辑。

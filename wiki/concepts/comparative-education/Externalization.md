@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育学与社会学系统论的核心分析概念，指教育系统根据自身内部问题构型与反思情境，通过在语义上将内部矛盾投射到外部参照系或传统记忆中来为改革或抵制提供正当性辩护的策略性建构过程。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_theories:
   - "[[Autopoiesis]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jeremy Rappleye]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Externalization
@@ -184,7 +185,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 将外化概念对称性地嵌入[[Cross-National Attraction|跨国吸引力]]情境地图，通过美苏与德国历史案例奠定双向外化[[Paradigm|范式]]。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合[[Niklas Luhmann|卢曼]]系统论阐发外部参照点的内部建构性，通过解构多国对芬兰 [[PISA]] 奇迹的随心投射，揭示外化化解本土改革僵局的机制。
 > - [[American Attraction to Japanese Education 1980s]] — 20 世纪 80 年代美国借由外化日本学校管理模式来推动国内标准与问责改革的经典案例。

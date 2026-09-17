@@ -37,15 +37,15 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Cronbach's Alpha]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
   - "[[Scale Development]]"
   - "[[Longitudinal Study]]"
   - "[[Structured Observation]]"
   - "[[Semi-structured Interview]]"
   - "[[Qualitative Research]]"
-  - "[[Observation Method]]"
   - "[[Content Analysis]]"
   - "[[Meta-analysis]]"
 related_arguments:
@@ -54,7 +54,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 status: draft
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Inter-Rater Reliability
 
@@ -86,8 +86,8 @@ updated: 2026-09-11
 > |---|---|---|---|
 > | **核心问题** | 不同的人在评分时是否一致？ | 量表内部条目间是否一致？ | 同一工具在不同时间点是否稳定？ |
 > | **偏差来源** | 评判者之间的主观差异 | 条目之间的[[Heterogeneity\|异质性]] | 时间带来的变化 |
-> | **典型指标** | Cohen's κ、Fleiss' κ、ICC | [[Cronbach's Alpha\|Cronbach's α]] | 前[[Pre-test and Post-test\|后测]]相关系数 |
-> | **典型场景** | [[Observational and Correlational Research\|观察研究]]、测验评分 | [[Scale Development\|量表开发]]与验证 | [[Longitudinal Study\|纵向研究]]、实验前后测 |
+> | **典型指标** | Cohen's κ、Fleiss' κ、[[Intraclass Correlation Coefficient\|ICC]] | [[Cronbach's Alpha\|Cronbach's α]] | 前[[Pre-test and Post-test\|后测]]相关系数 |
+> | **典型场景** | [[Observation Method\|观察法]]、测验评分 | [[Scale Development\|量表开发]]与验证 | [[Longitudinal Study\|纵向研究]]、实验前后测 |
 
 ---
 
@@ -102,7 +102,7 @@ updated: 2026-09-11
 > - **培训与校准** 信度在培训课程中得到解决，使用视频材料以确保录入数据的同等性。培训目标是让所有评判者对同一行为给出相同或高度相近的评分
 > - **简单百分比计算** 计算评分者间一致性百分比：两位评判者评分一致的次数除以总评分次数
 > - **Robson 的复杂方法** Robson (2002, p. 341) 提出了在[[Coding in Qualitative Research|编码]]观察数据中测量评分者间信度的更复杂方法
-> - **常见统计指标** Cohen's κ（两位评判者、类别评定）、Fleiss' κ（多位评判者）、组内相关系数 ICC（连续评分）
+> - **常见统计指标** Cohen's κ（两位评判者、类别评定）、Fleiss' κ（多位评判者）、[[Intraclass Correlation Coefficient|组内相关系数]] ICC（连续评分）
 > - **[[Observer Drift|观察者漂移]]** 需避免疲劳和观察者漂移（observer drift），观察者随时间推移逐渐改变评分标准（Cooper & Schindler, 2001, p. 380）
 
 > [!formula-step] 评分者间信度的计算公式

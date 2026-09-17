@@ -13,7 +13,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 78
+related_count: 79
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -72,6 +72,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[EMMIE Framework]]"
 related_persons: []
@@ -385,7 +386,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 系统考证过去15年间全球教育中介机构在治理模式、方法论立场与服务受众上的历史演化，揭示其受制于政治与预算周期的生存悖论，并在循证医学反思下提出建设[[Cumulative Knowledge Base|累积性知识库]]与“中介的中介”元协调倡议。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 基于 [[OECD]] 政策调查数据，详尽描绘 16 个教育系统中官方中介机构的双重活跃度画像、多元组织形态（统计局、企业化中介、国家评估院）以及与教育部委之间存在的联结脱节悖论。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 比较跨领域四大主流[[Knowledge Mobilisation|知识动员]]模型，解析[[Knowledge Mediation|知识中介]]在系统模型中作为连接[[Knowledge Production|知识生产]]与知识使用核心纽带的职能定位。

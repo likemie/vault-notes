@@ -4,7 +4,7 @@ aliases: [假设, 研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁。好假设必须陈述变量关系、可被检验、方向清晰，并通过操作化转化为可测量的形式。"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Observation Method]]"
   - "[[Pre-test and Post-test]]"
   - "[[Causal Modeling]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 # Hypothesis
 
@@ -222,6 +223,6 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — Ch.1 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性；Ch.7 系统阐述方向性/[[Directional and Non-directional Hypotheses|非方向性假设]]区分、假设[[Operationalization|操作化]]程序和中介[[Variable|变量]]
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 提出方向性/可检验性/理论基础/具体性四特征，以及[[Quantitative Research|量化研究]]问题与假设的区分

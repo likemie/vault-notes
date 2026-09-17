@@ -5,7 +5,7 @@ aliases:
 summary: "OECD 教育体系数据与欧盟数据交叉形成的治理空间，使欧洲教育体系的比较和协调成为可能，PISA 是其核心数据工具，是解释 PISA 研究为何集中于欧洲的关键概念"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-17
 ---
 
 # European Education Space
@@ -70,5 +71,5 @@ updated: 2026-07-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]揭示 [[PISA]] 政策影响研究的区域集中性（欧洲 62.4%），以欧洲教育空间的概念框架解释这一模式。

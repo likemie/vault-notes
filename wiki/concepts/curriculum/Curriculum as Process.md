@@ -6,7 +6,7 @@ aliases:
 summary: "课程理论的核心范式之一，由劳伦斯·斯滕豪斯（Stenhouse）提出。强调课程不是预设结果的流水线，而是师生在课堂中围绕探究原则与实践明智（Phronesis）共同展开的理解与对话过程。"
 type: concept
 domain: "curriculum"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Conscientization]]"
   - "[[Growth]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-09-17
 ---
 
 # Curriculum as Process（作为过程的课程）
@@ -134,5 +135,5 @@ updated: 2026-08-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 评估 IB [[Theory of Knowledge|TOK]] 课程指南如何符合作为过程的课程[[Paradigm|范式]]。

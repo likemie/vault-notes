@@ -10,7 +10,7 @@ aliases:
 summary: "在课程与教学论及应用语言学中，指学习者在第一语言（L1）或第二语言/外语（L2/FL）中理解、组织与表达意义的多维可测量能力构念，涵盖听、说、读、写四大技能及语法词汇、体裁结构与交际流利度。在教育技术与生成式人工智能干预实证中，该构念常作为核心产出变量，表现出对自然语言模型的强敏感性与显著促学效应（g+ = 2.331），但易受发表偏倚与小研究效应影响。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Trim and Fill Method]]"
   - "[[Effect Size]]"
   - "[[Prediction Interval]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[California Critical Thinking Skills Test]]"
 related_persons: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-04
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Language Skills
@@ -174,5 +175,5 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]]系统考察生成式 AI 对大学生多维学习产出的影响，实证确立语言技能是获益最剧烈的产出维度（$g^+ = 2.331$，剪补后 $1.009$），并揭示表层语言符号组织与深层心智调控的效应级差。

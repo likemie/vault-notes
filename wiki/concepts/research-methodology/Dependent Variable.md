@@ -11,7 +11,7 @@ aliases:
 summary: "实验或量化研究中被观察和测量的结果变量，其变化被假定为自变量的操纵或选择所导致，是因果推断中的输出条件"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Ex Post Facto Research]]"
   - "[[Analytic Framework]]"
   - "[[Pretest-Posttest Control Group Design]]"
+  - "[[Correlational Research]]"
   - "[[Factorial Design]]"
 related_persons: []
 related_facts: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-17
 ---
 # Dependent Variable
 
@@ -100,5 +101,5 @@ updated: 2026-07-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 小麦肥料实验中，小麦的[[Growth|生长]]和产量是因[[Variable|变量]]；Bhadwal & Panda (1991) 的研究中，学生的学习习惯和态度是因变量；资源可用性×学习动机的[[Factorial Design|因子设计]]中，考试成绩是因变量。

@@ -9,7 +9,7 @@ aliases:
 summary: "质性研究与扎根理论中探索、理解与理论建构的统摄性轴心概念，在研究设计中界定单一研究聚焦点，在主轴与选择性编码中作为具备最大解释力的核心范畴统摄全部因果机制与故事线。"
 type: concept
 domain: "research-methodology"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Qualitative Content Analysis]]"
+  - "[[Correlational Research]]"
   - "[[Qualitative Codebook]]"
 related_persons:
   - "[[Louis Cohen]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-31
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Central Phenomenon
@@ -266,7 +267,7 @@ flowchart LR
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统确立核心现象在[[Qualitative Research|质性研究]][[Purpose Statement|目的陈述]]与核心提问中的单一聚焦规范与[[Nondirectional Language|非方向性语言]]准则（Ch. 6 & 7）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在[[Grounded Theory|扎根理论]]主轴与[[Selective Coding|选择性编码]]专节中系统阐释核心范畴的最大解释潜力、[[Story Line|故事线]]整合与包容层级统摄机制（Ch. 30）。
 

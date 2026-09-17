@@ -11,7 +11,7 @@ aliases:
 summary: "对研究利用方式的经典三分类：概念性使用指研究以间接方式影响理解与思考，工具性使用指研究直接用于具体决策，象征性使用指研究被事后用来为已定决策背书"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Conceptual, Instrumental, and Symbolic Use of Research
@@ -215,6 +216,6 @@ updated: 2026-09-08
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 以该类型学为概念透镜记录学校[[Research Utilization|研究使用]]方式，发现深思熟虑参与比象征性与工具性使用更罕见，并据此提出从实施走向整合。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 在特刊导言中把工具、概念、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者证据本位决策的影响。

@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Efficacy Trial]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -122,7 +123,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Sound Partners 列为初等阅读 Tier 3 密集个别辅导的强证据典范，系统论证[[Teaching Assistant|助教]]辅导在低成本与高保真度维度的革命性价值。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，将 Sound Partners 作为刚性填充 Tier 3 密集个别化补救的核心支撑方案。
 > - [[Teaching Assistant]] — 教学助教主条目，阐释在结构化脚本支撑下助教替代认证教师提供强效干预的实证依据。

@@ -11,7 +11,7 @@ aliases:
 summary: "在多元教育情境中对前人干预方案或实证发现进行独立重复检验的方法学机制，旨在克服小样本偏倚、开发者利益冲突与自编测验虚夸，确立研究成果的外部概化效度与实践可靠性"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,9 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Evaluator Independence]]"
   - "[[Preregistration]]"
+  - "[[Variable]]"
   - "[[Developer-Made Measures]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Implementation and Process Evaluation]]"
@@ -40,10 +42,12 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Mark Schneider]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Ginsberg_2024_EP]]"
 confidence: high
 status: active
 created: '2026-09-17'
@@ -95,6 +99,16 @@ updated: 2026-09-17
 
 ---
 
+### 命题二　从直接复现走向改良型复现与情境迁移研究是标定证据有效边界的制度保障
+
+> [!concept-lens] 证据情境扰动与适用边界标定维度
+> 探讨如何通过系统改变关键实施参数，克服单纯直接复现无法指导现实复杂采办的供给断层。
+
+> [!claim] [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]]
+> **多维参数扰动的改良型复现克服证据情境衰减** 金斯伯格等（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024]]）对大型城市学区 2.88 亿美元教育经费审计发现，单纯依靠在完全相同情境下重复实施的原样直接复现（Direct Replication），根本无法满足地方学区在多元现实生态中的采办需求。实证审计中有多达 26 项采购实践在目标学段检索不到任何实证研究，且大量研究呈现出严重的跨学段与跨群体情境迁移衰减。为此，研究者援引[[Mark Schneider|施奈德]]（Schneider, 2021）的方法学主张，呼吁将科研资助重点转向**改良型复现（Modified Replications）**与**情境迁移研究（Transferability Studies）**——通过系统性地主动改变受试学生群体（如英语学习者、特殊教育）、学段层次（小学 vs 初高中）、区域生态（城市、郊区、农村）或交付机制（在岗教练辅导 vs 微课交付 vs 软件辅助）等一至多项核心[[Variable|变量]]，精确测绘因果干预在不同现实条件下的有效性边界，防止学区因证据供给断层而滥用跨学段降维推断。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 177–180)]]
+
+---
+
 ## 实证数据
 
 > [!effect-table]- 教育实证复现与早期评估偏差来源对比
@@ -103,3 +117,4 @@ updated: 2026-09-17
 > | **评估执行主体** | 开发者或研发团队自测自评 | [[Evaluator Independence\|第三方独立评估]]机构 | 消除期望偏差，效应量回归真实水平[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]] |
 > | **测量工具属性** | [[Developer-Made Measures\|开发者自编测验]]（高度对齐教材） | 独立心理测量学标准化测验 | 自编测验效应量虚高 50%–100%（$\Delta ES = +0.20 \sim +0.40$）[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25)]] |
 > | **样本与统计模型** | 单学区小样本、忽视聚类效应 | 40–50 所学校跨区整群 [[Randomised Controlled Trials\|RCT]] + [[Hierarchical Linear Model\|HLM]] | 消除假阳性，真实反映宏观推广效力[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 26–27)]] |
+> | **情境迁移与复现[[Paradigm\|范式]]** | 假定单点成功可直接无损外推 | 改良型复现与情境迁移研究（系统变动学段与群体参数） | 揭示多达 26 项采购实践在目标学段证据完全断档，避免跨学段降维推断偏倚[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 177–180)]] |

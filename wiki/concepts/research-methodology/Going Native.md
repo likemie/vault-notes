@@ -6,7 +6,7 @@ aliases:
 summary: "参与式观察中研究者过度认同被研究群体、将群体价值观和规范当作自己的、丧失研究者客观性和批判距离的现象，是完全参与角色的核心风险"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,11 +19,12 @@ related_concepts:
   - "[[Covert Research]]"
 related_methods:
   - "[[Participant Observation]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 status: draft
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-09-17
 ---
 
 # Going Native
@@ -62,5 +63,5 @@ updated: 2026-07-24
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将本土化列为完全参与者角色的核心风险（Kawulich, 2005, p. 4），与完全观察者的推断危险构成[[Participant Observation|参与观察]]的两极困境（23.6 节）

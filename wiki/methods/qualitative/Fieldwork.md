@@ -10,7 +10,7 @@ summary: "民族志研究的核心形式，研究者深入研究现场进行观�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Experimental Research]]"
+  - "[[Correlational Research]]"
   - "[[Field Notes]]"
 related_persons: []
 related_facts: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-25
-updated: '2026-07-22'
+updated: 2026-09-17
 ---
 
 # Fieldwork
@@ -111,6 +112,6 @@ updated: '2026-07-22'
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.7)]] — 系统介绍田野调查的含义、特点、[[Epistemology|认识论]]基础及其在[[Ethnography|民族志研究]]中的核心地位。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 深入华北某区域 4 所案例学校开展实地观察并记录同行评课研讨的[[Field Notes|田野笔记]]，交叉验证校长与教师的教学改进决策。

@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤进行细粒度建模并提供自适应个性化教学指导的计算机系统，由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Intelligent Tutoring Systems
@@ -156,5 +157,5 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]]促学[[Meta-analysis|元分析]]中将智能导师系统作为核心技术形态之一，证实其对 K-12 认知表现具有中等偏强促进效应（$g = 0.540$），通过步骤级自适应线索显著降低外在认知负荷并促进[[Procedural Skill|程序技能]]内化。

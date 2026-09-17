@@ -9,7 +9,7 @@ summary: "英国当代教育社会学与社会语言学奠基理论家，开创�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -55,6 +55,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
   - "[[Action Research]]"
   - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
@@ -74,7 +75,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Basil Bernstein
@@ -169,7 +170,7 @@ updated: 2026-09-11
 > - **政策路径** 其“代码差异非文化赤字”的科学定性直接冲击了 1970 年代英国盲目的补偿教育政策，并在当代成为评估国家课程改革失衡风险的重要预警工具（如[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中概念知识[[Attrition|流失]]的反思）。[[Argument_McPhail_2023_JCS|McPhail et al., 2023]]
 > - **跨国传播** 广泛传播至澳大利亚、南非、拉美、北欧及东亚，成为探究社会阶层固化、教育公平治理与现代性符号暴力的世界性学术母语。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Ball_2008_SR|Ball, 2008]] — 以 Bernstein [[Horizontal Knowledge Structure|横向知识结构]]和教育话语为分析透镜，重构英国教育社会学演变史，剖析学科内部碎片化与[[Paradigm|范式]]争鸣。
 > - [[Argument_McPhail_2023_JCS|McPhail et al., 2023]] — 运用 Bernstein [[Regulative and Instructional Discourse|规约性话语与教学性话语]]理论，评估新西兰国家课程改革中概念知识遭排挤的[[Epistemology|认识论]]危机。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 27]] — 引用 Bernstein (1974) 对微观[[Interpretive Paradigm|诠释范式]]、常人方法学与[[Symbolic Interactionism|符号互动论]]展开严肃的方法论与权力不对称批判。

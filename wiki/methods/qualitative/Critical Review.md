@@ -8,7 +8,7 @@ summary: "超越描述性文献汇总的定性研究综述方法，通过批判�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -32,14 +32,18 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
-  - "[[PRISMA]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
+related_instruments:
+  - "[[PRISMA]]"
+related_facts:
+  - "[[Education Resources Information Center]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-17
 ---
 
 # Critical Review
@@ -94,7 +98,7 @@ updated: 2026-08-26
 > [!sample-panel] 材料与文献边界
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 权威跨学科与教育专业数据库（如教育资源信息中心 Educational Resources Information Center, ERIC、Scopus、Education Source、Web of Science）。 |
+> | 材料来源 | 权威跨学科与教育专业数据库（如[[Education Resources Information Center\|教育资源信息中心]] Educational Resources Information Center, ERIC、Scopus、Education Source、Web of Science）。 |
 > | 抽样选案 | 依据严格纳入与排除标准筛选出的同行评议学术文献全文本。 |
 > | 研究者位置 | 保持批判性反思；研究团队通常采用双人背对背独立评估与集体研讨协商。 |
 > | 资料边界 | 明确限定文献的发表年代、语言、具体学段（如中小学基础教育）与[[Research Topic\|研究主题]]。 |
@@ -141,5 +145,5 @@ updated: 2026-08-26
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 运用系统性批判综述方法，结合 [[PRISMA]] 检索与多维概念分析，对 34 篇关于教育中[[Research Utilization|研究使用]]的[[Document|文献]]进行全文本解构，揭示 30 年来该领域[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]的局限，并提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]概念框架。

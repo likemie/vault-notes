@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 63
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Questionnaire]]"
   - "[[Framework Synthesis]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Stephen Gorard]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Knowledge Mobilisation
@@ -431,7 +432,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]]** 揭示校内知识动员对非正式同伴网络的高度依附，指出领导者必须通过建立包容性正式分享结构，防止[[Professional Learning Community|专业学习共同体]]退化为孤立小组。
 > - **[[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]** 系统构建知识动员四类核心推进策略，总结安大略 [[Knowledge Network for Applied Education Research|KNAER]] 全系统伙伴关系与三位一体法则。
 > - **[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]** 将知识动员应用于北欧 [[Visible Learning]] 学校改进，揭示能力建设、同行研讨与组织支持对证据转化的决定性作用。

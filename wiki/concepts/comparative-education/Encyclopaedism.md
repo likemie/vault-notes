@@ -5,7 +5,7 @@ aliases:
 summary: "一种以广泛覆盖既定学科知识和准确复现事实为通识教育标准的课程范式，可解释多科目课程的浅层学习、考试反拨以及能力改革中旧有分科结构的延续。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Alec Peterson]]"
   - "[[Amelia Peterson]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Encyclopaedism
@@ -158,6 +159,6 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 追踪欧洲[[General Education|通识教育]]从多科目知识覆盖转向多种思维方式的过程，并以 IB 的六学科、共同核心和深度选项呈现课程回应。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] 追踪全球教育话语在拉丁美洲的[[Transfer Translation Transformation|转译]]，揭示百科全书式分科如何在能力与跨学科改革语言中继续存在。

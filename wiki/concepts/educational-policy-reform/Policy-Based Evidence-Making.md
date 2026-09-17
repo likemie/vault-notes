@@ -9,7 +9,7 @@ aliases:
 summary: "批判性政策研究概念，指决策者预先确立政治意图与改革方案，再对学术研究与经验数据进行选择性筛选、重构或定制以逆向论证政策正当性的政治过程"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Elite Interview]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -177,5 +178,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 结合英格兰 1983–2019 年教师教育政策演变与 20 位[[Elite Interview|精英访谈]]，系统揭示了英国教育部作为[[Gatekeepers|守门人]]通过[[Carter Review of Initial Teacher Training|卡特审查]]与[[Chartered College of Teaching|特许教学学院]]运作基于政策的证据制造的机制。

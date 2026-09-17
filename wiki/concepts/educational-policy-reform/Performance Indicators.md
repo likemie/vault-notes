@@ -7,10 +7,10 @@ aliases:
 summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为中介机构为充满歧义性的政策决策构筑“理性表象”的核心脚手架（Steiner-Khamsi et al., 2024）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/educational-policy-reform
   - theme/performance-indicators
@@ -46,7 +46,8 @@ related_concepts:
   - "[[Performativity of Measurement]]"
 related_theories:
   - "[[Governing at a Distance]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Norberto Bottani]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Performance Indicators
@@ -208,7 +209,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 历史解构[[OECD|经合组织]] [[International Indicators of Education Systems|INES]] 项目与《[[Education at a Glance|教育概览]]》指标开发史，揭示科学纯度向政策可用性妥协的制度机制及测量的履行性。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 整合勒加莱斯与杰索普理论，提出绩效指标四维政策工具分析模型，以欧盟区域创新记分牌和[[Lifelong Learning|终身学习]]政策为实证检验。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[Façade of Rationality|理性表象]]与数字叙事理论，剖析国际组织如何将绩效指标工具化为[[Policy Brokerage|政策中介]]武器以施展[[Soft Power|软权力]]。

@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -39,7 +39,8 @@ related_concepts:
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[C. Arnold Anderson]]"
 related_facts:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Sputnik Shock 1957
@@ -153,7 +154,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 以晚期现代性教育愿景为框架，论证斯普特尼克冲击如何在福利国家扩张前夕将经济、国家安全与[[Knowledge Production|知识生产]]硬性挂钩，产生贯穿至今的制度回响（[[Vergegenkunft]]）。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 梳理战后冷战地缘政治三大[[Paradigm|范式]]，拆解斯普特尼克危机如何促成美国《国防教育法》、芝加哥比较教育中心成立以及比较教育学的[[Positivism|实证主义]]转型。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示斯普特尼克冲击如何成为[[Organisation for European Economic Co-operation|欧洲经济合作组织]]重组为[[OECD|经合组织]]（“经济北约”）的关键动力，开创了利用控制论规划与[[Human Capital Theory|人力资本理论]]进行跨国统计规制的全球治理范式。

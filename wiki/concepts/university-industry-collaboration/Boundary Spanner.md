@@ -18,7 +18,7 @@ aliases:
 summary: "在异质组织、专业社群或制度系统（如学术研究与产业界、科学共同体与政策决策系统）之间充当沟通桥梁的专业角色或中介机构，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同。在公共教育治理中，跨界中介者连接科学与政策两社区，在证据过剩与决策歧义性生态下以政策中介平衡公信力与行政两难。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -82,6 +82,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
   - "[[Case Study]]"
 related_persons:
   - "[[Yrjö Engeström]]"
@@ -100,7 +101,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Boundary Spanner
@@ -303,7 +304,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统论证伙伴关系、中介组织与跨界中介者在全系统[[Evidence-Informed Practice|证据知情实践]]中的决定性支撑功能。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 测度 29 国 37 个教育系统中跨界中介个体角色的空间分布，实证揭示中介人才在政策端（73%）与实践端（32%）的非对称断层，并确立基于[[Transfer Translation Transformation|转译]]中介技能而非学术头衔界定中介有效性的原则。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 阐明大学[[University-Industry Collaboration|产学合作]]战略中边界跨越者的双重[[Transfer Translation Transformation|转译]]、信任建构与降低交易成本机制。

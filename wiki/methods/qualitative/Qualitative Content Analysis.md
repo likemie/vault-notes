@@ -9,7 +9,7 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Qualitative Research]]"
   - "[[Open Coding]]"
+  - "[[Correlational Research]]"
   - "[[Domain Analysis]]"
   - "[[Qualitative Codebook]]"
   - "[[Typological Analysis]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Qualitative Content Analysis
@@ -271,7 +272,7 @@ flowchart LR
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在专章中系统整合 Mayring 质性[[Content Analysis|内容分析]]的三大核心进路与形成性复核规程，确立其在教育研究[[Coding in Qualitative Research|编码]]与范畴构建中的基石地位（Ch. 30）。
 
 ---

@@ -8,10 +8,10 @@ aliases:
 summary: "研究者的个人特征和期望系统性地影响访谈数据质量的现象，在敏感研究中效应尤为显著——不预期困难的访谈者比预期困难者获得高5-30%的信息报告率"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/interview
   - method/research-ethics
@@ -28,9 +28,10 @@ related_arguments:
 related_methods:
   - "[[Matching]]"
   - "[[Telephone Interview]]"
+  - "[[Correlational Research]]"
 status: draft
 created: 2026-06-22
-updated: 2026-07-22
+updated: 2026-09-17
 ---
 # Interviewer Effects
 
@@ -97,5 +98,5 @@ Lee (1993, pp. 102–114) 提出了处理访谈者效应的四项操作议题（
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 在[[Sensitive Research|敏感研究]]章节中系统讨论访谈者效应的两个维度、Bradburn & Sudman 的实证发现、以及 Lee 的四项敏感访谈操作框架。

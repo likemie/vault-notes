@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -50,6 +51,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Education International]]"
   - "[[International Summits on the Teaching Profession]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # National Education Association
@@ -86,7 +88,7 @@ updated: 2026-09-15
 > - **2000 年代至今 — 21 世纪技能引领与跨国循证共治突破** 
 >   - **跨国循证协商建制（2011）** 2011 年联合美国教育部前部长阿恩·邓肯（Arne Duncan）、美国教师联盟（AFT）、[[OECD|经合组织]]（OECD）及[[Education International|国际教育协会]]（EI）共同创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），成为全球唯一实现民选教育部长与教师工会领袖闭门平等协商的跨国治理平台。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 211)]]
 >   - **4C 核心技能框架确立（2012）** 2012 年发布里程碑式指南《为全球社会培养 21 世纪学生：教育者 4C 指南》，将[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]、沟通、协作以及[[Creativity|创造力]]与创新确立为全美基础教育[[21st Century Skills and Competencies Discourse|核心素养]]支柱。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
->   - **抵制片面测试与主办第 11 届 ISTP 峰会（2015–2021）** 2015 年深度推动《每个学生成功法案》（ESSA 2015）通过，终结有缺陷的狭隘高利害统考惩罚机制；2021 年在华盛顿联合主办第 11 届 ISTP 峰会，围绕后疫情时代教育重建、教师身心福祉与[[Whole Person Education|全人教育]]达成全球共识。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 216)]]
+>   - **抵制片面测试与主办第 11 届 ISTP 峰会（2015–2021）** 2015 年深度推动《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）通过，终结有缺陷的狭隘高利害统考惩罚机制；2021 年在华盛顿联合主办第 11 届 ISTP 峰会，围绕后疫情时代教育重建、教师身心福祉与[[Whole Person Education|全人教育]]达成全球共识。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 216)]]
 
 ---
 
@@ -180,7 +182,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在关于[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共生关系的[[Meta-analysis|元分析]]中，明确将全美教育协会 2012 年《教育者 4C 指南》列为阐释两者在基础教育中核心地位的权威国家机构文本。（p. 1）
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 记录 NEA 联手美国教育部、[[OECD|经合组织]]与[[Education International|国际教育协会]]创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（ISTP）的历史突破，阐明教师工会组织化发声在跨国循证治理中的关键支柱地位。（pp. 211, 216）
 

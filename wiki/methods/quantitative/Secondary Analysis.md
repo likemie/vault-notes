@@ -8,7 +8,7 @@ summary: "对已有数据集进行的进一步分析，以不同于原始调查�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Sampling Frame]]"
   - "[[Qualitative Codebook]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-17
 ---
 
 # Secondary Analysis
@@ -104,5 +105,5 @@ updated: 2026-07-09
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion and Morrison 以英国全国儿童发展研究（National Child Development Study）为示例，说明二手分析如何通过新问题和新分析路径从已有数据集中挖掘原始研究框架之外的发现。

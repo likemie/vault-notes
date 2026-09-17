@@ -12,9 +12,9 @@ summary: "经典测量理论下评估多题项量表内部一致性信度的基�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -44,6 +44,7 @@ related_methods:
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[McDonald's Omega]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-17
 ---
 
 # Cronbach's Alpha
@@ -187,6 +188,6 @@ updated: 2026-08-29
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在[[Research Literacy Scale for Teachers|教师研究素养量表]]开发中，报告 20 题 RLS 总量表 Cronbach's $\alpha = .94$，4 个分维度 $\alpha$ 介于 $.83 \sim .90$，矫正题总相关介于 $.48 \sim .72$。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 11)]] — 详述量化调查与[[Scale Development|量表编制]]中[[Internal Consistency|内部一致性]] Cronbach's $\alpha$ 的评估基准与题项净化规程。

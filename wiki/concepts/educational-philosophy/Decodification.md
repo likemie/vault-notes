@@ -6,10 +6,10 @@ aliases:
 summary: "弗莱雷提问式教育中受教者在文化圈中对编码符号展开对话拆解与结构性分析的过程，旨在揭示隐蔽的压迫机制并促成批判意识觉醒。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-philosophy
   - freire
@@ -25,6 +25,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 
 # Decodification（解码）
@@ -132,5 +133,5 @@ updated: '2026-08-27'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细记录了巴西农民如何解码“泥砖”照片并建立工会的过程。

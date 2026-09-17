@@ -6,7 +6,7 @@ aliases:
 summary: "个案研究中确保研究过程全程可追踪的方法论原则——外部研究者应能从研究问题追溯到数据来源、工具、证据和结论，以增强信度和效度"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,12 +25,13 @@ related_concepts:
   - "[[External Validity]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 # Chain of Evidence
 
@@ -89,5 +90,5 @@ updated: 2026-07-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材在讨论[[Case Study|个案研究]]的[[Reliability|信度]]与效度时引入Yin的证据链概念，强调其作为连接数据收集、分析、推断和结论的可追溯机制，以及时间/地点记录对复制研究的重要性（pp. 289, 295）

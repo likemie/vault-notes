@@ -7,10 +7,10 @@ aliases:
 summary: "计算机生成的模拟环境，参与者通过化身互动并共创世界，为教育研究提供安全、匿名和沉浸式的敏感议题探索空间"
 type: concept
 domain: "educational-technology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - educational-technology
   - research-methodology
@@ -35,6 +35,7 @@ related_methods:
   - "[[Projection Technique]]"
   - "[[Triangulation]]"
   - "[[Mixed Methods Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-09-17
 ---
 
 # Virtual World
@@ -198,5 +199,5 @@ updated: 2026-07-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 系统介绍虚拟世界作为教育研究工具的内涵、理论基础（[[Complexity Theory|复杂性理论]]、基于主体建模、[[Ideal Speech Situation|理想言说情境]]）、五大应用方向、完整操作程序和伦理议题，并以公民教育虚拟世界研究（Martin, 2010）为案例展示完整的研究设计。

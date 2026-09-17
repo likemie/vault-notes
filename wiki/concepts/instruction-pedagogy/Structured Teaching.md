@@ -7,10 +7,10 @@ aliases:
 summary: "在教学组织与认知支架中强调清晰目标、系统规划、过程监控与师生/人机动态互动平衡的教学范式。既包含基础教育中教师领导与自主学习的有机协调，亦指智能技术整合中防范认知卸载并激活高阶心智的递归探究支架体系。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - "theme/instructional-design"
   - "theme/pedagogy"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Comparative Meta-synthesis]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
   - "[[Argument_Li_2026_CEAI]]"
@@ -64,7 +65,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Structured Teaching
@@ -264,7 +265,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 运用[[Comparative Meta-synthesis|比较性元综合]]解构瑞典“结构化教学”政策口号，确立了教师清晰组织与师生能动互动相结合的教学论[[Paradigm|范式]]，澄清了其与[[Direct Instruction|直接教学]]及讲坛式灌输的边界。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，确立了结构化教学设计作为生成式 AI 介入下激活批判性与[[Creativity|创造性思维]]双向协同增益、抵御[[Cognitive Offloading|认知卸载]]与心智侵蚀的决定性调节机制。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 总结 [[Education Endowment Foundation|EEF]] 大规模现场试验经验，系统剖析手册化结构性教学项目（Manualised Interventions）与教师日常选择（[[Teacher Choices]]）的方法学边界，并反思将结构化教学指导与外在绩效激励挂钩所导致的伦理排异与招募流产（Sutherland et al., 2017）。

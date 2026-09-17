@@ -6,7 +6,7 @@ aliases:
 summary: "将高等教育理解为一类地缘政治行动者或地缘政治场域的分析视角，考察其如何被动或主动地参与全球地缘政治空间和秩序的生产与再生产"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[New Geopolitics]]"
 related_theories:
   - "[[Critical Geopolitics]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Fulbright Program]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Geopolitics of Higher Education
 
@@ -77,5 +78,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理高等教育地缘政治视角的发展脉络、关键议题（人的培养、[[Knowledge Production|知识生产]]、学术流动、跨境合作）和理论[[Paradigm|范式]]演化（[[Classical Geopolitics|传统地缘政治]]与[[New Geopolitics|新地缘政治]]）。

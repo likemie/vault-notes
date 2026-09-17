@@ -7,7 +7,7 @@ summary: "一种通过访问、筛查和分析档案馆与记录办公室中保�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Documentary Analysis]]"
   - "[[Archival Correspondence Analysis]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
 related_concepts:
@@ -33,7 +34,7 @@ related_concepts:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-09-17
 ---
 
 # Archival Research
@@ -117,5 +118,5 @@ updated: 2026-06-24
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — 本章系统介绍了档案的四种来源类型、研究操作程序与挑战，并通过新西兰青少年帮派调查委员会档案案例展示了档案研究在政策过程追踪中的应用。

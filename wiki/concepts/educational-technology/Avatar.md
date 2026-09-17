@@ -6,7 +6,7 @@ aliases:
 summary: "虚拟世界中代表参与者的三维数字形象，可随时更改形态，是参与者投射自我、表达观点和与他人互动的媒介"
 type: concept
 domain: "educational-technology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Projection Technique]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 
 # Avatar
@@ -143,5 +144,5 @@ updated: '2026-08-27'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 系统定义化身在[[Virtual World|虚拟世界]]研究中的角色，包括创建、配置和通过化身进行[[Projection Technique|投射技术]]与敏感议题讨论的完整操作流程，并以公民教育研究为案例展示化身如何用于身份建构和价值观数据收集。

@@ -9,9 +9,9 @@ summary: "在统计与因果推断模型中纳入基线预测变量以减少混�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/covariate-adjustment
@@ -57,6 +57,7 @@ related_methods:
   - "[[Simple Difference in Means Model]]"
   - "[[Statistical Significance]]"
   - "[[Propensity Score Matching]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Covariate Adjustment
@@ -235,7 +236,7 @@ updated: 2026-09-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 阐述英国 [[Education Endowment Foundation|EEF]] 在大规模两级整群 [[Randomised Controlled Trials|RCT]] 中将基线[[Pre-test and Post-test|前测]]协[[Variable|变量]]调整常态化，实现[[Effective Sample Size|有效样本量]]翻倍与微弱效应精准识别的方法学实践。
 > - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 丹麦教师效能实证研究，证明控制学生家庭背景协变量后教师学科资质效应大幅缩水，揭示观察性协变量控制的敏感性。
 > - [[Argument_Berk_2011_ER|Berk (2011)]] — 观察性[[Causality|因果推断]]方法论反思，警示控制可观测协变量无法消除未观测混杂的内在局限。

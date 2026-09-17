@@ -7,7 +7,7 @@ summary: "美国教育心理学家，1976年创造元分析一词并发展其方
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Gene Glass
@@ -111,7 +112,7 @@ updated: 2026-09-15
 > - **方法路径** 使[[Meta-analysis|元分析]]成为医学、心理学和教育学的标准综合方法，效应量（如 Glass's $\Delta$）至今是[[Quantitative Research|定量研究]]的标准报告指标。
 > - **政策路径** 深刻影响了后来的[[Evidence-Based Education|循证教育]]运动，成为[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Meta-meta-analysis|元-元分析]]以及 [[Education Endowment Foundation|EEF]] [[EEF Teaching and Learning Toolkit|教学与学习工具包]]等政策决策参考工具的底层技术基础。
 
-> [!evidence-grid-a]- 相关研究
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]
 > - [[Argument_Higgins_2016_ROE|Higgins, 2016]] — 追溯元分析的起源，阐述格拉斯如何开创心理治疗效果的元分析并确立效应量尺度。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 引用格拉斯关于 “元分析结果应是图表而非均值” 的警告，批判证据本位教育对[[Heterogeneity|异质性]]研究的强制平均和情境剥离。
 

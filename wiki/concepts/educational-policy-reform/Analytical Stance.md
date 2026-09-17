@@ -7,7 +7,7 @@ aliases:
 summary: "教育实践者在面对各类教学改革倡议、商业教育产品与研究证据宣称时，所秉持的主动探询研究质量、审验因果逻辑与评估情境适切性的专业认知立场，是教师抵御说服性修辞诱惑、行使审慎专业判断的核心素养。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,6 +41,7 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Documentary Analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Carol Campbell]]"
   - "[[Julie Nelson]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Analytical Stance
@@ -153,6 +154,6 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 阐明分析立场与[[Research Literacy|研究素养]]在[[Evidence-Informed Practice|证据知情实践]]中的核心枢纽地位。
 > - Carrier (2017) — 提出分析立场以应对教育创新推广者的[[Persuasive Communication in Education|说服性沟通策略]]。

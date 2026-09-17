@@ -8,7 +8,7 @@ aliases:
 summary: "在高度仿真的物理、虚拟或社会环境中进行动态操作、决策试错与即时复盘的高阶教学模式，广泛用于医学、工程与复杂问题解决"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,7 @@ related_theories: []
 related_methods:
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Simulation-Based Learning
@@ -120,5 +121,5 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，定量评估情境模拟作为[[Authentic Instruction|真实性教学]]子策略（$k=23, g+=0.26$）对[[Critical Thinking|批判性思维]]的干预效果。

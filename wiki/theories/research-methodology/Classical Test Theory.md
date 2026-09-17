@@ -9,7 +9,7 @@ aliases:
 summary: "将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Cronbach's Alpha]]"
   - "[[Rating Scale]]"
   - "[[Measurement Invariance]]"
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-24
@@ -140,5 +141,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节介绍 CTT 的基本公式 $X = T + E$、真实分数与观测分数的概念区分、误差来源，以及 CTT 在[[Item Analysis|题目分析]]和测验编制中的应用

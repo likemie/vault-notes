@@ -8,7 +8,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中作为对话伙伴与边界对象驱动发散构想与认知重组，其认知效应高度取决于教学脚手架与认识论摩擦的维持。"
 type: concept
 domain: "educational-technology"
-related_count: 65
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -78,8 +78,9 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Trim and Fill Method]]"
   - "[[Prediction Interval]]"
+  - "[[Correlational Research]]"
+related_instruments:
   - "[[PRISMA]]"
-related_instruments: []
 related_persons:
   - "[[Socrates]]"
   - "[[Alan C. K. Cheung]]"
@@ -94,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Generative Artificial Intelligence
@@ -324,7 +325,7 @@ updated: 2026-09-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis|元分析]]综合 29 项实验与准[[Experimental Research|实验研究]]（59 个[[Effect Size|效应量]]），系统确立生成式 AI 对学生[[Higher-Order Thinking Skills|高阶思维]]的中等显著促学效应（$g = 0.609$），并实证揭示干预时长（8–16 周倒 U 型最优窗口）与[[Self-Regulated Learning|自我调节学习]]能力（高低 SRL 组间差异极显著）的决定性调节边界。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项严格控制[[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$）的实验研究（97 个效应量，$N = 5{,}389$），证实生成式 AI 对大学生产出的综合大效应（$g^+ = 0.804$，剪补校正后 $g^+ = 0.321$），系统揭示多维产出梯度分化（语言技能 $>$ [[Academic Achievement|学业成绩]] $>$ [[Affective Outcomes|情感动机]] $>$ [[Higher-Order Thinking Skills|高阶思维]] $>$ [[Metacognition|元认知]]）及低 ICT 与高权力距离情境下的边际效益赋能机制。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，基于批判性与[[Creativity|创造性思维]]双重视角阐明生成式 AI 的双向调节机制，提炼三大共现演进模型与六大教学干预规制。

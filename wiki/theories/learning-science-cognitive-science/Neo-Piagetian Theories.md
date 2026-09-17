@@ -6,7 +6,7 @@ aliases:
 summary: "修正皮亚杰模型的新皮亚杰理论群：Pascual-Leone 的双层/M-power 模型、Case 的四子域模型、Fischer 的技能理论"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Prefrontal Cortex]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jean Piaget]]"
   - "[[Juan Pascual-Leone]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-09-17
 ---
 
 ## 核心主张
@@ -82,6 +83,6 @@ updated: '2026-05-18'
 
 ## 相关研究
 
-> [!example] 相关研究
+> [!example] [[Correlational Research|相关研究]]
 > - [[Argument_Bolton_2017_ArchPsych]] — 论证新[[Jean Piaget|皮亚杰]]阶段过渡可被 [[Prefrontal Cortex|PFC]] 发育和 EF 发展解释
 

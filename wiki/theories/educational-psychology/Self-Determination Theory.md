@@ -7,7 +7,7 @@ aliases:
 summary: "当代人类动机与人格的核心宏观理论，主张个体具有追求自主性、胜任感与归属感三大基本心理需求的内在成长倾向，构筑了从无动机、外在动机到内在动机的自决连续体，广泛应用于教育环境设计与人机协同学习赋能。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Self-Determination Theory
@@ -211,5 +212,5 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — 在高等教育生成式 AI [[Meta-analysis|元分析]]中运用自我决定理论，解释[[AI Agent in Education|智能体]]作为平等人机伙伴如何通过满足学生的自主性、胜任感与低焦虑归属感，驱动大学生[[Affective Outcomes|情感动机]]状态（$g^+ = 0.617$）的大幅跃升。

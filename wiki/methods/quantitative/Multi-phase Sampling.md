@@ -7,7 +7,7 @@ summary: "各阶段目的不同的概率抽样方法，每个阶段基于不同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Progressive Focussing]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # Multi-phase Sampling
 
@@ -74,5 +75,5 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 区分多[[Stage Sampling|阶段抽样]]与[[Stage Sampling|阶段抽样]]的关键差异。

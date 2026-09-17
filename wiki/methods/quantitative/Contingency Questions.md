@@ -12,7 +12,7 @@ summary: "依赖于前题回答来决定后续题目是否呈现或跳转的题�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -30,10 +30,11 @@ related_arguments:
 related_methods:
   - "[[Questionnaire]]"
   - "[[Telephone Interview]]"
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Contingency Questions
 
@@ -104,5 +105,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 在题型体系一节中定义了条件题的三要素结构（过滤器、分支、跳转指令），详细引述了 Redline et al.（2002）关于分支指令位置效应、夹层效应和视觉显著性的五项关键发现。

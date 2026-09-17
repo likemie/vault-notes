@@ -7,7 +7,7 @@ aliases:
 summary: "心理学与哲学概念附加促进或阻碍达到认识论目标的性情倾向。具有高度的情境特异性。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Expanded Framework of Epistemic Cognition]]"
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Epistemic Virtues and Vices
@@ -73,5 +74,5 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 借用[[Virtue Epistemology|美德认识论]]将该概念确立为[[Expanded Framework of Epistemic Cognition|扩展的认识论认知框架]]的核心组件之一。情境化测验被建议用于替代粗放的[[Questionnaire|问卷调查]]以评估认识美德。

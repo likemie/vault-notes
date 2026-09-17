@@ -7,7 +7,7 @@ aliases:
 summary: "将空间理解为社会网络与行动者关系的动态构型而非静态领土容器；在跨国教育政策研究中用于解构全球与国家二元对立，揭示政策转移空间中的关系性共构与策略性外在化。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_theories:
 related_methods:
   - "[[Network Analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jason Beech]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Relational Space
@@ -213,7 +214,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 比较教育学中系统运用关系性空间[[Paradigm|范式]]的奠基之作，论述空间如何由社会行动者网络[[Assemblage|组装]]和沟通过程所构建。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，将国家与全球置于相互依存的关系性空间中，实证解构[[Transfer Space|转移空间]]中的[[Policy Brokerage|政策中介]]与行政两阶段过滤。
 

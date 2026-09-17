@@ -9,7 +9,7 @@ aliases:
 summary: "指个体在正式获得合格教师资格（QTS）并独立执教前所接受的系统性专业职前准备阶段，涵盖大学本位培养、校本学徒制及混合临床实践模式"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
 related_theories: []
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Elite Interview]]"
 related_instruments: []
 related_persons:
@@ -171,5 +172,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策[[Document|文献]]与 20 位[[Elite Interview|精英访谈]]，揭示从测量时代向[[Evidence Era|证据时代]]的合法化[[Paradigm|范式]]演进与国家把关机制。

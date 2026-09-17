@@ -7,7 +7,7 @@ aliases:
 summary: "教育制度、思想或实践在跨国移动过程中发生的形态变化，强调移动不是忠实复制而是一系列变形，由 Cowen (2009b) 作为比较教育的理论问题提出，并由 Beech (2009) 进一步发展为多层级转译分析"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_theories:
   - "[[Network Society]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Jason Beech]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Shape-Shifting
@@ -104,6 +105,6 @@ updated: 2026-09-08
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 提出“移动即变形”理论命题，援引战后德国与日本接受同源美式民主化蓝图却演化出截然相反制度形状的学制对比（Shibata, 2005），论证教育流动作为社会学[[Recontextualization|再脉络化]]必然引发核心配置变形。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 将形变理论运用于[[Network Society|网络社会]]政策分析，通过巴西中等教育改革中国家政策对跨学科话语的杂糅并置（14 门传统分科包装），以及布宜诺斯艾利斯贫民区学校中教师将“尊重多样性”[[Transfer Translation Transformation|转译]]为“降低学术期望”的微观实践，实证揭示全球话语在多层级落地中的形态变异。

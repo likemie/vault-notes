@@ -6,7 +6,7 @@ aliases:
 summary: "将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Surface and Deep Learning]]"
   - "[[Areas of Knowledge]]"
-  - "[[Visible Learning]]"
   - "[[Knowledge Production]]"
   - "[[Constructivist Paradigm]]"
   - "[[Falsification]]"
@@ -28,11 +27,13 @@ related_concepts:
   - "[[SOLO Taxonomy]]"
   - "[[Procedural Knowledge]]"
   - "[[Metacognition]]"
+  - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Karl Popper]]"
 related_facts: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 ## 核心主张
@@ -66,7 +67,7 @@ updated: 2026-09-15
 
 
 > [!abstract] World 3: 文化与科学对象
-> "客观地伟大的"抽象对象——伟大的书籍、理论、交响乐。这是 Popper 哲学的核心：存在独立于认知主体的客观[[Areas of Knowledge|知识领域]]。Hattie 将其对应于"建构性理解"（constructed understanding），并宣称以此作为 [[Visible Learning|VL]] 的教育理想。
+> "客观地伟大的"抽象对象——伟大的书籍、理论、交响乐。这是 Popper 哲学的核心：存在独立于认知主体的客观[[Areas of Knowledge|知识领域]]。Hattie 将其对应于"建构性理解"（constructed understanding），并宣称以此作为 VL 的教育理想。
 
 ## 发展脉络
 
@@ -85,7 +86,7 @@ updated: 2026-09-15
 >
 > 2. **中介环节 Bereiter**Bereiter (2002) 已经对 Popper 做了关键化简：将"文化对象"缩减为"真理与非真理"，排除贝多芬交响乐这类 Popper 本人常用的 World 3 示例。但 Bereiter 至少保留了"心灵之外的知识"（knowledge outside the mind）以及 World 2（学习）与 World 3（[[Knowledge Production|知识建构]]）的区分。Hattie 进一步抹除了这一区分。
 >
-> 3. **实在论 vs [[Constructivist Paradigm|建构主义]]的根本矛盾** Popper 是哲学实在论者，Hattie 是主观建构主义者。Hattie 用建构主义吞噬了实在论：Popper 的"批评、大胆猜想、实验和[[Falsification|证伪]]"词汇残留在 [[Visible Learning|VL]] 中，但被重构为制造 d>0.4 的学习方法，完全丧失了与文化和科学对象的接触。
+> 3. **实在论 vs [[Constructivist Paradigm|建构主义]]的根本矛盾** Popper 是哲学实在论者，Hattie 是主观建构主义者。Hattie 用建构主义吞噬了实在论：Popper 的"批评、大胆猜想、实验和[[Falsification|证伪]]"词汇残留在 VL 中，但被重构为制造 d>0.4 的学习方法，完全丧失了与文化和科学对象的接触。
 >
 > 4. **后果** 以 Popper 命名的教育理论实际上服务于 Popper 哲学在[[Epistemology|认识论]]上的精确对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。最终得到"一个没有教育和贝多芬交响乐的世界"([[Argument_Rømer_2018_EPT|Rømer, 2018, p.11]])。
 
@@ -95,8 +96,8 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!example] 相关研究
-> - Argument_Rømer_2018_EPT — 论证 Hattie 对 Popper 三个世界理论的误读是 [[Visible Learning|VL]] 理论基础的致命缺陷
+> [!example] [[Correlational Research|相关研究]]
+> - Argument_Rømer_2018_EPT — 论证 Hattie 对 Popper 三个世界理论的误读是 VL 理论基础的致命缺陷
 
 ## 应用领域
 

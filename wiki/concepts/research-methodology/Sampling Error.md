@@ -7,7 +7,7 @@ aliases:
 summary: "从同一总体中多次抽样时样本统计量之间的变异，以均值的标准误（SEM）和比例的标准误度量，其分布规律由中心极限定理描述，是确定样本量和置信区间的基础概念"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Causal Modeling]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-17
 ---
 # Sampling Error
 
@@ -121,5 +122,5 @@ updated: 2026-06-21
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍抽样误差、[[Standard Error|标准误]]和[[Central Limit Theorem|中心极限定理]]在教育研究中的应用，提供比例标准误的数值实例和民调[[Sample Size Determination|样本量]]解释。

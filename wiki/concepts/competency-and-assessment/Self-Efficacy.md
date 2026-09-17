@@ -7,7 +7,7 @@ aliases:
 summary: "Bandura 提出的动机概念，指个体对自身在特定任务上表现能力的自我评价，不同于一般能力感或实际能力水平"
 type: concept
 domain: "competency-and-assessment"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
   - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Self-Efficacy
@@ -112,6 +113,6 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 详细梳理了 Bandura 关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制影响二语学习者动机的基础心理学模型。
 > - [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] — 将自我效能感的概念延伸至教师群体（Teacher Efficacy），通过全球大[[Sample Size Determination|样本量]]表证明了教龄和复杂课程（如[[Theory of Knowledge|知识论]]）的成功实施能够显著提升教师的自我效能感。

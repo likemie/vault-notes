@@ -8,7 +8,7 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Prediction Interval]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Correlational Research]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
@@ -66,7 +67,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Explicit Critical Thinking Instruction
@@ -211,6 +212,6 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 [[IB Diploma Programme|IB DP]] 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]检验显性[[Critical Thinking|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research|实验研究]]，系统检验 Ennis 课程模式（混合模式 $g+=0.38$ 表现最高）及[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维复合策略（$g+=0.57$），为显性教学与课程整合提供了大规模[[Meta-analysis|元分析]]证据。

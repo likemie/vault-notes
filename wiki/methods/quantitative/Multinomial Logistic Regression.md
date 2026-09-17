@@ -7,7 +7,7 @@ summary: "一种用于预测名义变量（包含两个以上无序类别）的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_methods:
   - "[[Chi-Squared Test]]"
   - "[[Standard Error]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-09-17
 ---
 
 # Multinomial Logistic Regression
@@ -144,5 +145,5 @@ updated: 2026-08-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] —  使用多项逻辑回归（Multinomial Logistic Regression），以[[Academic Achievement|学业成绩]]和[[Educational Level|受教育年限]]为[[Independent Variable|自变量]]预测个体归属特定[[Epistemology|认识论]]类别阶段的概率。

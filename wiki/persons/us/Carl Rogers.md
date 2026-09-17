@@ -9,7 +9,7 @@ summary: "美国人本主义心理学泰斗，来访者中心疗法与以人为�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Abraham Maslow]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Carl Rogers
@@ -106,7 +107,7 @@ updated: 2026-09-11
 > - **方法论路径** 为[[Qualitative Research|质性研究]]、[[Phenomenology|现象学]]访谈与教育自传探究提供了不可动摇的[[Ontology|本体论]]辩护，确立了尊重被研究者主体性与知情权的人本伦理准则。
 > - **心理治疗路径** 开创了当代心理咨询三大主流支柱之一的来访者中心疗法，深刻渗透进现代社会工作、危机干预与医患沟通实践。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 将罗杰斯全人模型与内部参照框架作为人本主义抵抗[[Positivism|实证主义]]去人化危机的代表性学理依据。
 
 ---

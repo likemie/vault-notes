@@ -41,8 +41,8 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Multiple Regression]]"
   - "[[Matching]]"
+  - "[[Correlational Research]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Covariate Adjustment]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
@@ -177,7 +177,7 @@ updated: 2026-08-29
 ### 因果语言风险
 
 > [!warning] 观察数据中的因果语言风险
-> [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 从教育心理学期刊实践层面补充了方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含[[Recommendations for Practice|实践建议]]（RFP），可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. 原本计划继续[[Coding in Qualitative Research|编码]]"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（[[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]]）。
+> [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 从教育心理学期刊实践层面补充了方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/[[Correlational Research|相关研究]]更可能包含[[Recommendations for Practice|实践建议]]（RFP），可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. 原本计划继续[[Coding in Qualitative Research|编码]]"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（[[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]]）。
 
 ---
 
@@ -206,7 +206,7 @@ updated: 2026-08-29
 > [!ref-table] 相关方法
 > | 方法 | 关系 | 说明 |
 > |------|------|------|
-> | [[Observational and Correlational Research]] | 数据来源 | 因果建模通常在此类数据中估计因果路径，推论风险直接相关 |
+> | [[Correlational Research]] | 数据来源 | 因果建模通常在此类数据中估计因果路径，推论风险直接相关 |
 > | [[Matching]] | 替代策略 | [[Argument_Berk_2011_ER\|Berk (2011)]] 推荐的替代方法，以协变量平衡降低混杂风险 |
 > | [[Covariate Adjustment]] | 配套技术 | 通过纳入协变量调整效应估计，变量选择影响[[Effect Size\|效应量]]与显著性 |
 > | [[Multiple Regression]] | 基本构件 | 估计单个路径系数；[[Standard Error\|SEM]] 扩展了多元回归以同时处理多方程系统 |
@@ -216,5 +216,5 @@ updated: 2026-08-29
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 在 Mplus 中使用复合抽样校正（Type=Complex）构建潜[[Variable|变量]]结构方程模型，检验了科学知识确定性信念在中介认知能力、家庭[[Cultural Capital|文化资本]]与高中毕业成绩之间的因果路径，并估计了跨期潜变量回归。

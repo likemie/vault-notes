@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成批判性思维的双元支柱"
 type: concept
 domain: "competency-and-assessment"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[True Experimental Design]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Critical Thinking Disposition
@@ -160,7 +161,7 @@ flowchart TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 针对 25 项实证研究展开[[Meta-analysis|元分析]]检验，确立了教学干预对思维倾向的有效性（$g+ = 0.23$）及[[Mentorship|导师制]]的最优增益（$g+ = 0.38$）。
 > - [[APA Delphi Consensus on Critical Thinking]] — 系统界定思维倾向与认知技能的双元[[Construct|构念]]结构。
 > - [[California Critical Thinking Disposition Inventory]] — 测量[[Critical Thinking|批判性思维]]倾向七维度的标准化量表工具。

@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在经历挑战或挫折时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式。表现为低自尊、失败恐惧、迅速放弃努力及负面评价泛化，是实体智力观与固定/快速学习认识论信念的典型行为表征。"
 type: concept
 domain: "educational-psychology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Multiple Regression]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Learned Helplessness
@@ -185,6 +186,6 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统对比中西学习信念，深入剖析了西方文化背景下[[Growth Mindset|实体智力观]]如何直接诱发学业习得性无助，以及中国儒家传统将能力视为后天工夫的抗无助机制。
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 在十年级科学教学中实证检验了固定快速能力信念（FQAL）对长期[[Academic Achievement|学业成就]]的强力负向预测，揭示了学困生群体的[[Epistemology|认识论]]无助特征与性别差异。

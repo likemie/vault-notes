@@ -6,7 +6,7 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和全球远处治理。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_theories:
 related_methods:
   - "[[Snowball Sampling]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[John Hattie]]"
@@ -49,10 +50,12 @@ related_facts:
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Klerides_2023_CE]]"
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Policy Entrepreneur
@@ -145,7 +148,7 @@ updated: 2026-09-16
 
 > [!example] 典型案例：[[John Hattie]] 与 [[Visible Learning]] 的商业化
 > John Hattie 被 O'Neill 等描述为新西兰自 1990 年代末以来“最精湛的公立学校政策行动者”。其轨迹呈现为公共福利、非营利与营利创业的无缝融合：
-> - **公共部门** 受教育部合同开发 asTTle 国家课程测试系统（1999/2000），担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席（2014）。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 47–50]])
+> - **公共部门** 受教育部合同开发 [[Assessment Tools for Teaching and Learning|asTTle]] 国家课程测试系统（1999/2000），担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席（2014）。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 47–50]])
 > - **非营利** 任 [[Cognition Education|Multi Serve Education Trust]] / Cognition Education Trust 董事和学术顾问。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 48]])
 > - **营利** 通过 Cognition Education 将 [[Visible Learning]] 品牌商业化——开发 16 个工作坊系列、进行学校认证、拓展全球交付伙伴网络；Visible Classroom App 通过墨尔本大学与 Ai-Media 合作实现商业化和全球推广。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 48–51]])
 
@@ -192,6 +195,6 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统使用并细化了该概念，深入剖析了新西兰公立教育体系中 [[John Hattie]] 等政策企业家在公共福利、非营利与营利三种运作动机间无缝跨界运作的路径与后果。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将政策企业家概念引入[[Rationalism in International Relations|理性主义]]比较教育发展的第三阶段，用以解释数据[[Governing at a Distance|远处治理]]与分散权威空间的多行动者协调机制。

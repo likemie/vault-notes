@@ -6,7 +6,7 @@ aliases:
 summary: "批判地缘政治与比较教育中指代超国家机构和西方国家通过日常、技术化且看似价值中立的跨国教育绩效数据（如 PISA 排名），建立普世效率指标，在无形中巩固西方中心规则并再生产对非西方社会认识论压制与他者化（Othering）的霸权机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,7 +36,8 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Orientalism]]"
   - "[[Governing at a Distance]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 
 # Banal Imperialism
@@ -111,7 +112,7 @@ updated: 2026-07-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 详述了平庸的帝国主义如何作为超国家数据网络对非西方实施他者化和认识[[Disciplina and Doctrina|规训]]的当代手段。
 > - [[Re-Westernisation]] (再西方化) — 再西方化利用平庸帝国主义作为大数据[[Governing at a Distance|远处治理]]的核心承载物。
 > - Governing at a Distance (远处治理) — 数据化平庸帝国主义最核心的制度与测评执行机制。

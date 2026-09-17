@@ -7,7 +7,7 @@ summary: "质性研究中研究者同时扮演参与者和观察者角色，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 43
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Observation Method]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Participant Observation
@@ -177,7 +178,7 @@ Walford（2001, p. 62）报告了研究者角色随现场时间演变的五阶�
 
 此外，[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14, p. 293)]]指出直接观察忠实于个案研究的真实生活、原址和整体性质（Verschuren, 2003, p. 131）。在实际案例中，Acker（1990）基于数百小时参与观察进行[[Ethnography|民族志研究]]；Patrick（1973）在格拉斯哥帮派中保持隐蔽身份四个月，在目击谋杀时面临角色/伦理/安全之间的极端张力；Willis（1977）作为"班级成员而非教师"对工人阶级男孩进行参与观察。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材将参与观察列为个案研究的核心观察方式，讨论了参与观察的四项优势（Bailey, 1994）、与[[Non-participant Observation|非参与式观察]]的连续体区分，以及六种研究类型示例（Acker/Boulton/Wild/Blease & Cohen/Antonsen/Houghton）（pp. 290–293）
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch11)]] — 教材将参与观察列为自然主义和[[Ethnography|民族志研究]]的主要数据收集方法，讨论了研究者角色的光谱（完全观察到完全参与）和角色冲突/边际性管理（pp. 425–427, 430）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍 Gold（1958）的四层观察者角色连续体、参与观察的流程（描述性→聚焦→选择性观察）、[[Field Notes|田野笔记]]的多层记录框架、[[Emic and Etic|主位与客位]]分析、"[[Going Native|本土化]]"风险和[[Saturation|理论饱和]]作为停止观察的标准（23.1, 23.6 节）。

@@ -9,7 +9,7 @@ summary: "一种广泛使用的调查研究工具，通过结构化或半结构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Meta-regression]]"
   - "[[Sensitive Questions]]"
+  - "[[Correlational Research]]"
   - "[[Questionnaire Wording]]"
   - "[[Covering Letter]]"
 related_arguments:
@@ -58,7 +59,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 # Questionnaire
 
@@ -355,6 +356,6 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al.（2011, Ch20）]] — 系统介绍问卷设计的全流程：从伦理议题到规划[[Operationalization|操作化]]、题型选择、[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、排序、布局、[[Covering Letter|封面信]]、[[Pilot Testing|预测试]]、施测和数据处理。提供了十七项[[Rating Scale|评定量表]]使用警示和十八项预测试检查清单。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 编制四因素 14 题的基线问卷，经[[Pilot Testing|预测试]]检验[[Face Validity|表面效度]]与[[Construct Validity|结构效度]]后以 Survey Monkey 在线施测，用于在干预前刻画英格兰 79 所小学 696 名实践者的[[Evidence-Informed Practice|证据知情实践]]准备状态。

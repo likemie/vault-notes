@@ -7,7 +7,7 @@ aliases:
 summary: "以理解和解释独特个体案例为目标的方法论取向：核心关注解释和理解独特的、个别的情况而非普遍情况，是质性研究的方法论根基，与通则式相对"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Narrative Analysis]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Idiographic
@@ -82,5 +83,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐释个例式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan [[Hypothesis|假设]]推导链的方法论终点（Ch. 1），并在质性分析中阐明针对个体意图、独特性情境与叙事生命的分析路径（Ch. 28）。

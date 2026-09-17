@@ -15,7 +15,7 @@ summary: "德国当代哲学家与社会理论家，法兰克福学派第二代�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 45
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Emancipatory Action Research]]"
   - "[[Analytic Framework]]"
   - "[[Ideology Critique]]"
+  - "[[Correlational Research]]"
   - "[[Action Research]]"
 related_instruments: []
 related_persons:
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Jürgen Habermas
@@ -196,7 +197,7 @@ updated: 2026-09-11
 > - **交往理性与[[Emancipatory Action Research|批判性行动研究]]（教学与课程实践路径）**
 >   [[Stephen Kemmis|斯蒂芬·凯米斯]]（[[Stephen Kemmis]]）将哈贝马斯的交往行动与[[Ideal Speech Situation|理想言说情境]]直接转化为[[Emancipatory Action Research|解放性行动研究]]的核心纲领：赋权教师与学生建立无等级的协商[[Dialogue in Education|对话]]空间，反抗外部官僚指标对教学生活世界的侵蚀，践行[[Paulo Freire|弗莱雷]]式的解放性教育实践（[[Praxis]]）。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 24–25)]] — 运用哈贝马斯现代性未完成工程与理性公共领域理论，奠定 19 世纪前中期现代比较教育起源的思想史阐释基架。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 18–19)]] — 评述哈贝马斯与法兰克福学派对[[Positivism|实证主义]]、[[Scientism|科学主义]]与技术主义的社会哲学批判，指出其消解价值伦理争辩并造就“无良知社会”的危险。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, Ch. 2, pp. 23–25)]] — 详尽解构哈贝马斯三种知识构成性兴趣及其对教育批判[[Paradigm|研究范式]]与[[Ideology Critique|意识形态批判]]的奠基。

@@ -7,7 +7,7 @@ aliases:
 summary: "由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Action Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[George Herbert Mead]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: '2026-06-22'
+updated: 2026-09-17
 ---
 
 # Pragmatic Constructivism
@@ -123,5 +124,5 @@ updated: '2026-06-22'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 追溯了该理论作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）心理学基石的思想史脉络。

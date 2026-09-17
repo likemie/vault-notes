@@ -10,7 +10,7 @@ summary: "由布赖恩·霍姆斯开创的比较教育学方法论程序，结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Quantitative Research]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Brian Holmes]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Problem Approach
@@ -190,5 +191,5 @@ updated: 2026-09-08
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统考证并评析[[Brian Holmes|布赖恩·霍姆斯]]的问题法在战后比较教育科学化运动中的理论建构、[[Epistemology|认识论]]争鸣及其对历史学派与[[Positivism|实证主义]]的折衷综合。

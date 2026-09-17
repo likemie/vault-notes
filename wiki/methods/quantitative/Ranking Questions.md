@@ -9,7 +9,7 @@ summary: "要求受访者在选项之间进行比较并确定优先级的题型�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -28,10 +28,11 @@ related_facts:
   - "[[RAiSE Programme]]"
 related_methods:
   - "[[Rating Scale]]"
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Ranking Questions
 
@@ -133,5 +134,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 在题型体系一节中详细讨论了排序题的核心操作特征（零和模型）、五项使用局限以及排序与评分的六维度对比，并提供了 Ovadia（2004）的实证案例。

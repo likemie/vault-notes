@@ -9,7 +9,7 @@ aliases:
 summary: "源自古希腊教化与德国精神科学传统的品格陶成与自我形成概念，主张教育指向人（Anthropos）在开放未知未来的自主人格塑造，构成抵御狭隘工具化学校教育（Schooling）与数字化算法预测的本体防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Andreas Kazamias]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Bildung
@@ -314,7 +315,7 @@ updated: 2026-09-08
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统梳理德国教化作为 19 世纪支配欧洲中等课程的四大古典传统之一，深入剖析二战浩劫导致的道德神话破灭及其向[[Scientific Paradigm|科学范式]]的跨越。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 提出教化作为决定知识与技能如何使用的能力与勇气，对丹麦可见学习公立学校案例展开批判。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 结合芬兰教育史与[[Phenomenon-Based Learning|现象本位学习]]，论述教化在文化传递与[[Epochal Key Problems|时代关键问题]]上的课程实践。

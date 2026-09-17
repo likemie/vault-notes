@@ -6,7 +6,7 @@ aliases:
 summary: "弗莱雷解放教育与提问式教学法中的核心中介机制，指将受教者日常生活中复杂的受压迫生存矛盾制作成具象的照片、画作或文本符号，使其对象化以便于开展批判性对话。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_theories:
   - "[[Theory of Mind]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-09-17
 ---
 
 # Codification（生存境遇编码）
@@ -132,5 +133,5 @@ updated: 2026-08-02
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 记录[[Paulo Freire|弗莱雷]]如何将泥砖照片制成[[Coding in Qualitative Research|编码]]诱导蔗农开展批判性解构。

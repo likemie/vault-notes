@@ -7,7 +7,7 @@ summary: "美国政策与社会研究学者，研究利用（research utilizatio
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,21 +23,26 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Problem Solving]]"
+  - "[[Enlightenment]]"
+  - "[[Value Neutrality]]"
   - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
   - "[[Research Utilization Models]]"
+  - "[[Navigational Framework for Educational Researchers]]"
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Framework Synthesis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Serpell_2020_EP]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Carol Weiss
@@ -69,9 +74,11 @@ updated: 2026-09-11
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
+> - **1977 — *Research for Policy's Sake: The [[Enlightenment]] Function of Social Research*** 阐明社会科学研究对政策的启蒙功能，深刻指出政治本质上关于价值立场而非[[Value Neutrality|价值中立]]。
 > - **1979 — *The Many Meanings of [[Research Utilization]]*** 提出研究利用的七种模型，区分知识如何以不同方式进入政策与实践。
 > - **1980 — *Knowledge Creep and Decision Accretion*** 提出"知识渗透"（knowledge creep），说明研究常以缓慢、累积、间接的方式改变决策者思维，而非直接应用（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
-> - **1991** 归纳研究利用的四种过程模型（研发、[[Problem Solving|问题解决]]、互动、战术），见 [[Research Utilization|研究利用]]。
+> - **1989 — *Congressional Committees as Users of Analysis*** 剖析美国国会各常设委员会对实证分析的实际吸纳与使用机制。
+> - **1991 — *Policy Research as Advocacy: Pro and Con*** 辩证探讨政策研究作为倡导行动的性质，指出研究有效介入取决于在正确的时间向正确的人提供正确的信息。
 
 ---
 
@@ -93,9 +100,11 @@ updated: 2026-09-11
 > - **理论路径** 为[[Research Utilization|研究利用]]研究奠定基础，七种模型与"知识渗透"概念被后续研究使用综述（如 Hagevold et al., 2026）反复援引。
 > - **方法路径** 推动研究者从"研究是否被使用"转向"研究以什么方式被使用"，并影响概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]类型学。
 > - **政策路径** 其思想进入证据本位与证据知情政策的讨论，成为解释"研究为何没有直接被采纳"的常用框架。
+> - **立法实务印证** 其关于政策价值负荷、国会委员会分析利用与适时介入等经典洞见，在后续学者对美国联邦立法实务的研究中得到系统验证。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 40–45)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 援引 Weiss（1979, 1980）的[[Research Utilization Models|研究利用模型]]与知识渗透概念，作为[[Framework Synthesis|框架综合]]先验框架中"研究使用的多重意义"的来源。
+> - [[Argument_Serpell_2020_EP|Serpell (2020)]] 援引 Weiss（1977, 1989, 1991）关于政策价值负荷性、国会委员会证据使用以及政策倡导时机的重要论述，为[[Navigational Framework for Educational Researchers|教育研究者政策导航框架]]提供基础理论依托。
 
 ---
 

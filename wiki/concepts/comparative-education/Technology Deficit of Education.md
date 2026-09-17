@@ -8,7 +8,7 @@ aliases:
 summary: "Niklas Luhmann 与 Karl-Eberhard Schorr (1979) 提出的概念，指教育因果链条在当下无法获得经验验证，从而形成结构性技术赤字，催生了对量化硬事实与政策中介的永续需求。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Niklas Luhmann]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Technology Deficit of Education
@@ -185,5 +186,5 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合数字化时代的信息过载环境，将教育的技术赤字作为揭示主权国家何以持续向国际组织购买[[Policy Brokerage|政策中介]]工具的核心生态机制。

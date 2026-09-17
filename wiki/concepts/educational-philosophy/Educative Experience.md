@@ -6,7 +6,7 @@ aliases:
 summary: "约翰·杜威在《经验与教育》中提出的正向经验品质标准。教育性经验能够丰富个体的当下体验，为未来更深刻、更广阔的经验打开大门，促进个体在智性、道德与社会参与上的持续生长。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Praxis]]"
 related_theories: []
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Philosophical Analysis in Education]]"
 related_instruments: []
 related_persons:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-09-17
 ---
 
 # Educative Experience（教育性经验）
@@ -139,5 +140,5 @@ updated: 2026-08-01
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[John Dewey|杜威]][[Philosophical Analysis in Education|哲学分析]][[Active Learning|主动学习]]、投石机探究案例与活体农场照顾中的教育性经验。

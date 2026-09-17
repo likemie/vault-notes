@@ -5,9 +5,9 @@ summary: "一种用于预测二分类因变量（如是否陪读、是否择校�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -34,8 +34,10 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Longitudinal Study]]"
   - "[[Sample Size Determination]]"
+  - "[[Ordinary Least Squares]]"
   - "[[Multiple Regression]]"
   - "[[Qualitative Interview]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-12
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 
 # Binary Logistic Regression
@@ -133,7 +135,7 @@ updated: 2026-07-13
 >
 > > [!math-principle] 核心统计量与估计原理的实证理解
 > > - **回归系数 $\beta$ 的估计（极大似然估计 MLE）** 
-> >   由于二元分类的非线性特征，Logistic 回归不使用普通最小二乘法（OLS）进行拟合，而是采用最大似然估计（Maximum Likelihood Estimation, MLE）。其数学逻辑是：软件通过多次迭代，寻找一组最优的回归系数，使得在该参数设定下，整个样本中所有观测个体实际被观察到的选择概率的乘积（似然值）达到最大。该组系数是让模型预测与真实观测最吻合的数学最优解。
+> >   由于二元分类的非线性特征，Logistic 回归不使用[[Ordinary Least Squares|普通最小二乘法]]（OLS）进行拟合，而是采用最大似然估计（Maximum Likelihood Estimation, MLE）。其数学逻辑是：软件通过多次迭代，寻找一组最优的回归系数，使得在该参数设定下，整个样本中所有观测个体实际被观察到的选择概率的乘积（似然值）达到最大。该组系数是让模型预测与真实观测最吻合的数学最优解。
 > > - **回归系数 $\beta$ 与优势比 $\text{Exp}(B)$ 的数学关系** 
 > >   自变量每增加一单位，因变量发生比的对数 $\ln(P/(1-P))$ 变动 $\beta$。由于对数尺度不直观，我们对其进行指数化（即求 $e^{\beta}$）来转化为优势比（Odds Ratio, OR，即软件输出的 $\text{Exp}(B)$）。它代表自变量增加一单位时，事件发生比变为原来的多少倍。当 $\text{Exp}(B) > 1$（$\beta > 0$）时，为正向影响；当 $\text{Exp}(B) < 1$（$\beta < 0$）时，为负向影响。
 > > - **[[Multiple Regression|多元回归]]中的“控制效应”** 
@@ -189,7 +191,7 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025)]] — 建立三个二元 Logistic 回归模型分析家庭资本（经济、文化、社会资本）对是否[[Peidu|陪读]]、进城陪读以及进入重点小学的预测显著度与优势比 (p.310)。
 
 ---

@@ -5,7 +5,7 @@ aliases:
 summary: "Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Observation Method]]"
   - "[[Mixed Methods Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
 related_facts: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-07-10
+updated: 2026-09-17
 ---
 
 ## 核心主张
@@ -119,7 +120,7 @@ updated: 2026-07-10
 
 ## 相关研究
 
-> [!example] 相关研究
+> [!example] [[Correlational Research|相关研究]]
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 将交易[[Epistemology|认识论]]应用于批判[[Evidence-Based Education|证据本位教育]]的[[Theory of Knowledge|知识论]]前提
 > - Biesta & Burbules (2003) — 全面阐述交易认识论对教育研究的意义
 

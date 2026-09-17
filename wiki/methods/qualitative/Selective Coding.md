@@ -8,7 +8,7 @@ summary: "扎根理论质性数据分析的三级编码终局阶段，在开放�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -46,16 +46,18 @@ related_methods:
   - "[[Memos]]"
   - "[[Fieldwork]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 ---
 
 # Selective Coding
@@ -78,7 +80,7 @@ updated: 2026-09-08
 > [!citation-card] Strauss & Corbin 论选择性编码与故事线
 > 创建选择性编码要求首先对主要故事线（即所描述和分析的核心现象及其显著特征）形成深刻理解，进而提炼核心范畴并在维度水平上整合系统关联。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 562)]]
 >
-> *Creating the selective code requires: (a) a deep understanding of the main 'story line' (the descriptive overview of the main phenomenon being described and analysed, and its salient features); then moves to (b) creating the core category; then (c) relating categories at the level of the dimensions identified; then (d) validating those relations in terms of the data that gave rise to them; and then (e) filling in any gaps in categories to ensure the 'conceptual density' of the category. (Strauss & Corbin, 1990, pp. 116–117)*
+> *Creating the selective code requires: (a) a deep understanding of the main 'story line' (the descriptive overview of the main phenomenon being described and analysed, and its salient features); then moves to (b) creating the core category; then (c) relating categories at the level of the dimensions identified; then (d) validating those relations in terms of the data that gave [[Research in Schools Evaluation|RISE]] to them; and then (e) filling in any gaps in categories to ensure the 'conceptual density' of the category. (Strauss & Corbin, 1990, pp. 116–117)*
 
 ---
 
@@ -199,6 +201,6 @@ updated: 2026-09-08
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30)]] — 系统阐释[[Grounded Theory|扎根理论]]选择性[[Coding in Qualitative Research|编码]]中以[[Story Line|故事线]]为起点提炼[[Central Phenomenon|核心范畴]]的五步迭代规程，确立浅层包容层级控制原则与去情境化防范机制（pp. 561–562）。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] — 论述质性数据分析中发展故事线解释与核心主题整合的操作方法，强调通过故事叙述将主轴模型转化为实质性理论框架（p. 209）。

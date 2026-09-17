@@ -7,14 +7,14 @@ aliases:
 summary: "支配群体将其文化视角合法化为社会正统标准，将边缘或少数群体文化降至从属地位的符号支配与教育再生产机制"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-07-23'
-updated: '2026-07-23'
+updated: 2026-09-17
 tags:
   - cultural-hierarchy
   - official-knowledge
@@ -36,7 +36,8 @@ related_concepts:
   - "[[Reflexivity]]"
 related_theories:
   - "[[Hegemony]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Confucius]]"
   - "[[Pierre Bourdieu]]"
@@ -164,7 +165,7 @@ related_arguments:
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 对中国 217 册必修教材中汉儒文化等级与少数民族学生[[Reflexivity|反思性]]回应的实证研究。
 > - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的教材作为文化等级再生产的文本载体。
 

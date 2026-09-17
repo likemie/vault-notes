@@ -8,9 +8,9 @@ summary: "一种通过多轮书面问卷迭代收集和反馈群体意见的结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/group-technique
@@ -25,11 +25,12 @@ related_methods:
   - "[[Nominal Group Technique]]"
   - "[[Questionnaire]]"
   - "[[Action Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-18
-updated: 2026-07-19
+updated: 2026-09-17
 ---
 # Delphi Technique
 
@@ -128,5 +129,5 @@ updated: 2026-07-19
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 在[[Action Research|行动研究]]操作程序（18.7）中介绍德尔菲技术的三阶段模型，作为 [[Nominal Group Technique|NGT]] 的书面对应版本和行动研究中灵活的数据收集方法。

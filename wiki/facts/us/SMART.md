@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -126,7 +127,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 SMART 评定为初等阅读 Tier 3 志愿者辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示社会力量在 Tier 3 个别辅导中作为平价补充防线的实证潜力。
 > - [[SPARK Literacy]] — 同属志愿者 1:1 辅导强证据方案，采用 AmeriCorps 有偿志愿者模式，与 SMART 形成有偿 vs 无偿志愿者的对照。

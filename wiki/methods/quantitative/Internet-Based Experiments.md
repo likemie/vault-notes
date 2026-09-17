@@ -10,7 +10,7 @@ summary: "通过互联网远程进行的实验研究方法，按材料类型分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Pre-test and Post-test]]"
   - "[[Internet-based Survey]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # Internet-Based Experiments
 
@@ -137,5 +138,5 @@ Reips (2002a, 2002b) 提供的系统实施指南（[[Argument_Cohen_Manion_Morri
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍网络实验的四类材料类型、Reips (2002a, 2002b) 的实施指南、与传统实验的相似与差异、优势与局限性。

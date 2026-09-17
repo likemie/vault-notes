@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 119
+related_count: 118
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -114,7 +114,6 @@ related_facts:
   - "[[Selective Schools Expansion Fund]]"
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[California Class Size Reduction 1996]]"
-  - "[[ESSA 2015 Evidence Standards]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[The New Zealand Curriculum]]"
@@ -467,7 +466,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - [[California Class Size Reduction 1996]] — 教师质量在大规模推广中的关键混淆作用
 > - [[Comprehensive School Reform Program]] — 1998 年首次将联邦拨款与证据挂钩
 > - [[No Child Left Behind Act 2001]] — 将科学本位研究作为联邦教育项目核心标准
-> - [[ESSA 2015 Evidence Standards]] — 四级证据标准的联邦政策框架
+> - ESSA 2015 Evidence Standards — 四级证据标准的联邦政策框架
 > - [[Students and Teachers Accessing Tomorrow]] — [[Technology Infusion|技术整合]]改革中证据解释的多因素案例
 > - [[What Works Clearinghouse]] — 美国 EBE 的制度基础设施
 > - [[Educational Evidence Clearinghouses]] — 同一项目在不同清算中心的评级一致性有限

@@ -8,9 +8,9 @@ summary: "通过电话进行的数据收集方法，具有成本低、覆盖广�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -31,13 +31,14 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-09-17
 ---
 
 # Telephone Interview
@@ -117,5 +118,5 @@ updated: 2026-07-22
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — [[Systematic Review|系统综述]]电话访谈的吸引力、局限和操作建议，并对比电子邮件访谈和面对面访谈的适用情境。

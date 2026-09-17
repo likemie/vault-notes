@@ -7,10 +7,10 @@ summary: "牛津大学教师教育荣休教授，英国教育研究协会与苏�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1949"
 died: ""
 lifespan: "1949–至今"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Elite Interview]]"
   - "[[Case Study]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
   - "[[Pre-test and Post-test]]"
 related_instruments: []
 related_persons: []
@@ -125,7 +126,7 @@ updated: 2026-09-17
 > - **政策路径** 主导的 BERA-RSA 调查结论被英国议会委员会及工党、保守党政策顾问广泛引用；提出的临床实践理念直接影响了英国 2015 年《[[Carter Review of Initial Teacher Training|卡特审查]]》等国家文件的起草。
 > - **跨国传播** 其教师教育模型在苏格兰、北爱尔兰、澳大利亚及欧洲大陆多国教师专业标准制定中产生广泛回响。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 结合英格兰 35 年历史与 20 位[[Elite Interview|精英访谈]]，提出[[Evidence Era|证据时代]]与[[Policy-Based Evidence-Making|基于政策的证据制造]]概念框架。
 
 ---

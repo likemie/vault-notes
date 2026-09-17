@@ -6,7 +6,7 @@ aliases:
 summary: "源自歌德与马克斯·韦伯的社会学概念，指两种不同的思想、信仰或制度要素在特定文化/社会条件下产生的互惠吸引、契合与相互强化机制，常用于解释跨文化政策借用与本土传统共振"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: '2026-07-22'
+updated: 2026-09-17
 ---
 # Selective Affinity
 
@@ -116,5 +117,5 @@ updated: '2026-07-22'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 揭示中国学校教师如何将西方 [[Learner-Centred Education|LCE]]、[[Lev Vygotsky|维果茨基]]社会文化理论与[[Confucius|孔子]]启发式[[Dialogue in Education|对话]]产生选择性亲和，实现高压应试下的扩展性改造。

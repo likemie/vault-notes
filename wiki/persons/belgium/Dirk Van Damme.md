@@ -8,7 +8,7 @@ summary: "比利时比较教育学者与国际教育政策专家，曾任根特�
 type: person
 nationality: belgium
 person_region: "belgium"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Epistemic Governance]]"
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_facts:
   - "[[OECD]]"
@@ -142,7 +143,7 @@ updated: 2026-09-17
 > - **政策反思路径** 告诫政策界戒除对循证有效性干预（What Works）的盲目万能崇拜，推动国际组织从单一工具推广转向深层科研生产生态治理。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
 > - **跨国智库议程确立** 领导[[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 确立强化教育[[Research Impact|研究影响力]]专项跨国政策调查，成为 OECD 成员国诊断国家教育科研体系健康度的指标框架。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 202–203)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]] — 范达默系统诊断教育科研供给侧的三大深层病理（理论依附、复现赤字与政治过度承诺），提出长期[[Blue Skies Research|基础研究]]资助与学术自律建制。（pp. 202–206）
 
 ---

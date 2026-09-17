@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 98
+related_count: 99
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -88,6 +88,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
+  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
 related_persons:
   - "[[Steve Higgins]]"
@@ -122,7 +123,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Critical Thinking
@@ -422,7 +423,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **显性教学与学校实施** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 以 [[IB Diploma Programme|IB DP]] 的 ToK 为案例，结合量表、学校案例和毕业生比较，检验显性独立课程及其实施条件。
 > - **课程评估的[[Construct Validity|构念效度]]** [[Argument_Hughes_2014_JRIE|Hughes (2014)]] 用多套批判性思维分类框架审查 ToK 目标、评估目标和评分描述符的[[Construct|构念]]覆盖。
 > - **跨情境迁移与评估困境** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] 证实了独立探究课程对学生其他学科和未来学业产生的批判性思维“溢出效应”，并揭示了其实操评估的主观性痛点。

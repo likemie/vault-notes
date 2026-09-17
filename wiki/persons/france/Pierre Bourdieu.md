@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -62,6 +62,7 @@ related_theories:
 related_methods:
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Bruno Latour]]"
   - "[[Yajun Zheng]]"
@@ -204,7 +205,7 @@ updated: 2026-09-17
 > - **政策路径** 其教育再生产学说强力拆穿了 meritocracy（贤能主义）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论。
 > - **跨国与跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化以及农村随迁家庭的[[School Choice|择校]]博弈。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将习性与[[Cultural Capital|文化资本]]运用于中国精英大学毕业去向分析，开发了目标掌控与直觉依赖两种资本化习性模式，解释了阶层出身如何在校园内部完成隐性变现。
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。

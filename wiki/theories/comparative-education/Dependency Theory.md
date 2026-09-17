@@ -8,7 +8,7 @@ aliases:
 summary: "1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心与边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因。后于 1990 年代至 2010 年代初演化为对高等教育领域“学术依附”与“学术新殖民主义”的地缘政治非自觉批判。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
 related_facts:
@@ -47,7 +48,7 @@ related_instruments: []
 confidence: medium
 status: active
 created: 2026-06-08
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Dependency Theory
@@ -180,6 +181,6 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 将依附理论比较教育置于[[Revolutionism|革命主义]]国际关系传统中，详述了其在拒绝缺失解释、批判文化帝国主义与社会过渡教育方面的历史发展脉络。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊, 2025]] — 揭示了[[Geopolitics of Higher Education|高等教育地缘政治]]研究的发展阶段，分析了冷战后 Altbach 等学者非自觉地以依附论和中心-边缘框架探讨学术新殖民主义与全球高等教育不平等机制的作用。

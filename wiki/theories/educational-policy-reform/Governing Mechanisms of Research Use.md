@@ -7,7 +7,7 @@ aliases:
 summary: "由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Case Study]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-26
+updated: 2026-09-17
 ---
 
 # Governing Mechanisms of Research Use
@@ -182,5 +183,5 @@ updated: 2026-08-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提出并检验该框架：以整合多层框架为先验透镜综合 109 项实证研究，识别四类跨层治理机制，并据此论证从实施转向整合的概念转变。

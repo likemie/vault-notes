@@ -8,7 +8,7 @@ aliases:
 summary: "由 King 和 Kitchener 提出的认知发展与信念辩护模型，描述个体面对劣构问题时从前反思阶段（阶段1-3）、准反思阶段（阶段4-5）向反思阶段（阶段6-7）演进的认识论认知路径。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"
@@ -40,7 +41,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Reflective Judgment Model
@@ -138,6 +139,6 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 在十年级科学课劣构辩护任务中应用 King & Kitchener (1994) 模型建立 5 分制 RJ 评分量规，实证证实了[[Simplicity of Knowledge|简单知识]]（SK）信念对[[Reflexivity|反思性]]判断得分的显著负向预测效应（$\beta = -.24, p = .02$）。
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 全面梳理并评述了 King & Kitchener 的反思性判断模型，剖析了其从 Perry 图式演化而来的理论脉络、三阶段七时期架构及其在[[Epistemic Cognition|认识论认知]]研究中的基石地位。

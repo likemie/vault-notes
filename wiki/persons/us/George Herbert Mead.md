@@ -8,10 +8,10 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1863"
 died: "1931"
 lifespan: "1863–1931"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Mind and Its Wonders]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Phenomenon-Based Learning]]"
+  - "[[Lesson Study]]"
 related_theories:
   - "[[Symbolic Interactionism]]"
   - "[[Thomas Theorem]]"
@@ -47,8 +48,11 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
+  - "[[Correlational Research]]"
 related_persons:
+  - "[[Michael Gove]]"
   - "[[John Dewey]]"
+  - "[[Horace Mann]]"
 related_facts:
   - "[[CREATES Project]]"
 related_arguments:
@@ -59,7 +63,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # George Herbert Mead
@@ -74,7 +78,7 @@ updated: 2026-09-11
 > - **代表贡献** 奠定符号互动论理论基础，提出“扮演他人角色”（Taking the Role of the Other）、“主我”（I）与“客我”（Me）辩证结构，以及基于重要符号与姿态[[Dialogue in Education|对话]]的社会自我发生理论。
 
 > [!citation-card] 符号互动论的理论开创与诠释[[Paradigm|范式]]确立
-> 乔治·赫伯特·米德是符号互动论的理论奠基者。这一术语随后虽与布卢默、休斯、贝克尔以及戈夫曼等著名研究者紧密联系在一起，但其思想构成了诠释范式中最具活力的理论脉系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
+> 乔治·赫伯特·米德是符号互动论的理论奠基者。这一术语随后虽与布卢默、休斯、贝克尔以及[[Michael Gove|戈夫]]曼等著名研究者紧密联系在一起，但其思想构成了诠释范式中最具活力的理论脉系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
 >
 > *Essentially, the notion of symbolic interactionism derives from the work of Mead (1934). Although subsequently to be associated with such noted researchers as Blumer, Hughes, Becker and Goffman, the term does not represent a unified perspective in that it does not embrace a common set of assumptions and concepts accepted by all who subscribe to the approach.*
 
@@ -153,11 +157,11 @@ updated: 2026-09-11
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 思想经赫伯特·布鲁默（Herbert Blumer）提炼为“[[Symbolic Interactionism|符号互动论]]”学派，并启发了埃尔温·戈夫曼（Erving Goffman）的拟剧论（Dramaturgy）与霍华德·贝克尔（Howard S. Becker）的标签理论（Labeling Theory），成为社会学[[Interpretive Paradigm|诠释范式]]最具活力的脉系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
+> - **理论路径** 思想经赫伯特·布鲁默（Herbert Blumer）提炼为“[[Symbolic Interactionism|符号互动论]]”学派，并启发了埃尔温·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）的拟剧论（Dramaturgy）与霍华德·贝克尔（Howard S. Becker）的标签理论（Labeling Theory），成为社会学[[Interpretive Paradigm|诠释范式]]最具活力的脉系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
 > - **方法路径** 为学校微观[[Ethnography|民族志]]、师生课堂互动分析提供了观察互动的概念工具（定义情境、角色协调、协商过程），并为[[Grounded Theory|扎根理论]]（Glaser & Strauss）与质性探究[[Paradigm|范式]]提供了微观[[Epistemology|认识论]]辩护。
 > - **跨领域与课程传播** 1990年代被芬兰教育学者[[Transfer Translation Transformation|转译]]为“[[Pragmatic Constructivism|实用主义建构主义]]”，直接作为芬兰跨学科[[Phenomenon-Based Learning|现象本位学习]]（PhBL）的核心课程与心理学基础。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 详细剖析了米德符号互动论三大公设、[[Role-playing|角色扮演]]、互动研究单位以及其在学校与课堂探究中的独特解释力。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] — 论述了米德关于心身统一、环境互动与[[Pragmatic Paradigm|实用主义]]认识论如何为芬兰现象本位学习（PhBL）奠定哲学根基。
 
@@ -193,7 +197,7 @@ updated: 2026-09-11
 > > - **符号互动论学者回应** 辩护称宏观制度并非超越个体的实体，而是无数行动者在无数微观情境中反复实践与协商所维系的模式化结果；研究互动正是揭示制度动态韧性的微观入口。
 
 > [!critique]- 批评索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 评述了符号互动论及[[Interpretive Paradigm|诠释范式]]在学校与课堂研究中的适用边界，指出若割裂宏观权力网络而孤立观察微观互动，可能难以洞悉深层结构性不平等的来源。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 评述了符号互动论及[[Interpretive Paradigm|诠释范式]]在学校与[[Lesson Study|课堂研究]]中的适用边界，指出若割裂宏观权力网络而孤立观察微观互动，可能难以洞悉深层结构性不平等的来源。
 
 ---
 

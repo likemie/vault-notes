@@ -9,7 +9,7 @@ aliases:
 summary: "由教育干预方案的开发者或研究者自行编制且未经独立标准化的结局测验工具；因其题目往往过度对齐干预课程内容而导致学业效应量被人为虚夸 50% 至 100%，在现代循证审查标准（如 WWC 与 Evidence for ESSA）中被强制排除作为确证性因果证据。"
 type: concept
 domain: "research-methodology"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -157,7 +158,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖论著，深刻剖析开发者自编测验导致[[Effect Size|效应量]]虚高与[[Replication in Education Research|复现危机]]的内在机制，阐述 [[Evidence for ESSA]]、[[What Works Clearinghouse|WWC]] 及 [[Education Endowment Foundation|EEF]] 强制排除自编测验的政策质控意义。
 > - [[Evidence Standards]] — 法定因果证据分级标准主条目，阐述结局测量独立性在判定 [[Every Student Succeeds Act|ESSA]] 强/中证据中的红线地位。
 > - [[Replication in Education Research]] — 教育研究复现危机条目，分析自编测验、小样本与开发者自评三者如何共同驱动非复现性。

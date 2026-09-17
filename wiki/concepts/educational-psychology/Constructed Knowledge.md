@@ -5,10 +5,10 @@ aliases:
 summary: "女性认知方式模型中的最高阶段，个体认为知识是随语境变化的主动建构产物。"
 type: concept
 domain: "educational-psychology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
@@ -42,10 +42,11 @@ related_arguments:
 related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_persons: []
 status: active
 created: 2026-08-15
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 # Constructed Knowledge
 （建构知识）
@@ -145,6 +146,6 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 系统梳理了[[Epistemology|认识论]]发展模型，将建构知识置于跨模型对比框架中，同时提出了对该模型样本局限与理论偏重的批评。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 以[[Meta-analysis|元分析]]视角评估了发展论模型（含建构[[Knowledge Framework|知识框架]]）作为调节[[Variable|变量]]对[[Academic Achievement|学业成就]]预测效力的影响，并指出将[[Constructivist Paradigm|建构主义]]量表误用于认识论测量是该领域的主要混杂因素。

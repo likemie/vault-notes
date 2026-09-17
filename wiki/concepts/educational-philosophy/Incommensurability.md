@@ -8,10 +8,10 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/philosophy-of-science
   - theme/epistemology
@@ -53,6 +53,7 @@ related_methods:
   - "[[Joint Display]]"
   - "[[Content Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Incommensurability
@@ -252,7 +253,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 详尽解构库恩[[Paradigm|范式]]理论中的不可通约性机制，剖析其如何引爆[[Paradigm Wars|范式战争]]并触发[[Mixed Methods Research|混合方法]]运动。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在量化、质性与混合方法的三元框架中阐释哲学世界观的不可通约性与[[Pragmatic Paradigm|实用主义]]调和策略。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 通过历时[[Document|文献]]计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

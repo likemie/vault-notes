@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中当收集新鲜数据不再引发新洞见或揭示新主题时即可停止数据收集的标准，源自扎根理论，在参与式观察中作为停止观察的判断依据"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,12 +27,13 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Survey Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-06-01
-updated: 2026-07-24
+updated: 2026-09-17
 ---
 
 # Saturation
@@ -90,6 +91,6 @@ updated: 2026-07-24
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将饱和作为[[Qualitative Research|质性研究]][[Sample Size Determination|样本量确定]]的核心标准，与预设样本量并列
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将饱和作为参与式观察停止收集数据的判断标准（Adler & Adler, 1994, p. 380），强调在饱和点继续收集以验证[[Emergence|涌现]]类别的价值（23.6 节）

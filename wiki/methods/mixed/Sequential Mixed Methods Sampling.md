@@ -7,7 +7,7 @@ summary: "一种样本先于另一种并影响后续样本的混合方法抽样�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Focus Group]]"
   - "[[Parallel Mixed Methods Sampling]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # Sequential Mixed Methods Sampling
 
@@ -71,5 +72,5 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Teddlie & Tashakkori（2009）的顺序[[Mixed Methods Research|混合方法]]抽样设计。

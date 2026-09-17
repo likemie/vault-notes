@@ -9,7 +9,7 @@ aliases:
 summary: "由政府或研究赞助方预先设定研究主题和边界的资助模式，研究者通过竞标承接项目；这一机制在过去二十余年大幅增长，推动了教育研究从研究者自设议程向赞助方指定焦点的系统性转变。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,14 +24,15 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Research Problem]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Categorical Funding
 
@@ -71,7 +72,7 @@ updated: 2026-09-11
 > 在分类资助模式下，研究不再是开放式的、纯粹的知识探索，而转变为对给定政策或项目的评估。因此，教育研究中评估研究占比的上升直接回应了分类资助的结构性增长。
 
 > [!warrant] 命题一的支撑理由
-> 从资助方的角度看，分类资助确保了研究的"政策回报"——研究成果能直接用于指导、调整或合法化政策决策。从研究者的角度看，如果研究不涉及政策问题，则很难获得资助（Burgess, 1993）。这形成了一个"政策相关 → 获得资助 → 更多政策相关研究"的正反馈循环。
+> 从资助方的角度看，分类资助确保了研究的"政策回报"——研究成果能直接用于指导、调整或合法化政策决策。从研究者的角度看，如果研究不涉及政策问题，则很难获得资助（Burgess, 1993）。这形成了一个"政策相关 → 获得资助 → 更多政策[[Correlational Research|相关研究]]"的正反馈循环。
 
 ---
 

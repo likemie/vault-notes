@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构，既承载公私跨界理念编排，亦在实证中展现出网络规模与互动深度非线性解耦、政治把关与非正式中介转译等深层结构特征"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[In-depth Interview]]"
   - "[[Network Analysis]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Stephen Ball]]"
@@ -278,7 +279,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]]** 揭示英格兰教师教育政策网络中高级官僚轮换、社交媒体意见领袖与教育部[[Gatekeepers|把关人]]共同促成[[Policy-Based Evidence-Making|基于政策的证据制造]]。
 > - **[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]]** 运用政策[[Network Analysis|网络分析]]方法解构澳大利亚教师教育改革中的公私共谋与理念编排机制。
 > - **[[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]** 跨国实证测度 37 个教育系统部委政务网络，揭示网络规模与联结强度解耦、生产依附偏误及形式主义大网络陷阱。

@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_facts:
   - "[[Every Student Succeeds Act]]"
@@ -185,7 +186,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 系统回顾 i3 计划在推动全美循证项目研发与 [[Every Student Succeeds Act|ESSA]] 证据层级法定化中的历史功绩。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度剖析美国 i3 计划受资助者自聘评估团队的制度缺陷，并与英国 [[Education Endowment Foundation|EEF]] 三方资助模式展开系统比较。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 探讨包括 i3 支持项目在内的循证干预自评偏倚，揭示独立第三方评估对真实[[Effect Size|效应量]]判定的决定性意义。

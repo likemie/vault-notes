@@ -9,7 +9,7 @@ summary: "利用初始份额分布与总体冲击的交互项构建工具变量�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -29,6 +29,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Ordinary Least Squares]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -36,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 
 # Shift-Share Instrument
@@ -67,7 +69,7 @@ updated: 2026-07-13
 > [!method-stack] 方法层级
 > - **研究设计** 面板数据因果推断，通常结合[[Fixed-Effect and Random-Effects Models|固定效应模型]]
 > - **数据收集** 需两个数据源——初始截面份额分布和总体时间序列
-> - **分析方法** 两阶段最小二乘法（2SLS）
+> - **分析方法** 两阶段[[Ordinary Least Squares|最小二乘法]]（2SLS）
 > - **辅助技术** 弱工具变量检验（F 统计量）、过度识别检验、安慰剂检验
 
 ---
@@ -114,5 +116,5 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] — 使用 1970 年已在活动的斯塔西"老线人"的初始行业分布和相对生产率构造 shift-share 工具[[Variable|变量]]，处理工业间谍情报分配的内生性问题。

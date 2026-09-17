@@ -9,7 +9,7 @@ summary: "由Rensis Likert于1932年开发的评定量表技术，提供从强�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Internal Consistency]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 # Likert Scale
 
@@ -263,6 +264,6 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 在[[Questionnaire|问卷]]题项类型一节中详细讨论了李克特量表的操作方式、常见格式、单维性[[Hypothesis|假设]]、十七项使用警示（按四个分析维度组织）以及六点量表聚合风险的案例。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 全部 14 道题统一采用五级李克特量表（强烈同意至强烈不同意），并以逐题应答比例而非量表总分呈现结果，其中第 4 题为反向表述题。

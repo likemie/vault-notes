@@ -7,7 +7,7 @@ aliases:
 summary: "一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Ethnography]]"
   - "[[Action Research]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-09-17
 ---
 
 # Situated Ethics
@@ -103,5 +104,5 @@ updated: 2026-06-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al. (2011, Ch.5)]] — 以情境伦理作为全章核心方法论立场，贯穿所有伦理议题的讨论

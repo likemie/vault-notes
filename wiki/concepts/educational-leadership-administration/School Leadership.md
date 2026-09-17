@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jorunn Møller]]"
   - "[[Scott Eacott]]"
@@ -58,7 +59,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # School Leadership
@@ -223,7 +224,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 结合[[Monash Q Project|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization|证据使用]]的首要组织杠杆。
 > - [[Argument_Møller_2017_EERJ|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership|变革型领导力]]与批判政策视角反思个人英雄主义偏差。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 运用[[Pierre Bourdieu|布迪厄]][[Champ|场域]]与[[Habitus|习性]]理论，深入剖析新南威尔士州校长培养方案的管理主义 [[Doxa]]，提出走向教育问题争辩的替代性领导习性。

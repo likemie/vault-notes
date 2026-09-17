@@ -9,7 +9,7 @@ aliases:
 summary: "源自朱利安《比较教育工作计划》的学科发端母题，主张将教育比拟于比较解剖学等自然科学，运用标准化问卷与比较观察表归纳普遍法则，并将经验事实探究深嵌于全人体智德启蒙与欧洲永久和平的人道世界主义关怀"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_theories: []
 related_methods:
   - "[[Questionnaire]]"
   - "[[Multiple Regression]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-17
 ---
 
 # Proto-Scientific Motif
@@ -226,5 +227,5 @@ updated: 2026-09-06
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统界定[[Marc-Antoine Jullien|朱利安]]对比较教育现代性开创的“准科学人道改良母题”，并与 19 世纪欧美的行政[[Educational Meliorism|改良主义]]母题进行全景式学科史学史对照剖析。

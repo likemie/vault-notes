@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 114
+person_related_count: 115
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -84,6 +84,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Analytic Framework]]"
   - "[[Comparative Meta-synthesis]]"
+  - "[[Correlational Research]]"
   - "[[In-depth Interview]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
@@ -145,7 +146,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 # John Hattie
 
@@ -236,7 +237,7 @@ updated: 2026-09-16
 > - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards|新西兰国家标准]]和教师评估工具（[[Assessment Tools for Teaching and Learning|asTTle]]）的基石；直接主导澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE|(Bainbridge et al., 2022, p. 4)]]
 > - **跨国／跨领域传播** 从学术专著演变为覆盖至少 23 个国家的跨国商业与[[Policy Brokerage|政策中介]]复合体；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被[[Transfer Translation Transformation|转译]]为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment|专业判断]]与[[Knowledge Mobilisation|知识动员]]。[[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–69)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER|Hattie, 2005]] — 在 [[Australian Council for Educational Research|ACER]] 大会发表奠基性论文，首次系统提出 $d=0.40$ 关节点、30% 教师方差份额模型与 asTTle 形成性问责理论体系。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]] — [[In-depth Interview|深度访谈]]剖析 Hattie 对实证、翻译、理论与“结果的暴政”的反思与自白。
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]] — 系统记录《[[Visible Learning]]》在新西兰、澳大利亚的制度化采纳与欧洲转译。

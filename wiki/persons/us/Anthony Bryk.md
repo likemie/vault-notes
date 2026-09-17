@@ -7,7 +7,7 @@ summary: "美国教育研究者与组织改进学者，卡内基教学促进基�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_theories: []
 related_methods:
   - "[[Improvement Science]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
   - "[[Mechanism Experiments]]"
   - "[[Effect Size]]"
 related_persons:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Anthony Bryk
@@ -123,7 +124,7 @@ updated: 2026-09-14
 > - **方法路径** 通过网络反馈循环和小步改变（如计划-执行-研究-行动［Plan-Do-Study-Act, PDSA］循环）将注意力从完整程序协议转向真实变化机制。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306–307]])
 > - **政策路径** 作为卡内基教学促进基金会的主导议题，推动了美国学校改进的网络化协作模式；同时激发了如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织对创新学习系统规模化路径的探讨。
 
-> [!evidence-grid-a]- 相关研究
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]] — 将 Bryk 于 2015 年提出的 “基于实践的证据” 定位为 EIP 生态系统中的关键中介与专业支持。
 > - [[Argument_Peterson_2016_IJRME|Peterson, 2016]] — 探讨将实验科学的[[Mechanism Experiments|机制实验]]与 Bryk 等的改进科学进行双向整合，作为 “什么有效 2.0” 的底层基础。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 引用 NICs 作为超越传统 [[Evidence-Based Education|EBE]] “单一平均[[Effect Size|效应量]]” 压制、开展情境化民主探究的重要替代方案。

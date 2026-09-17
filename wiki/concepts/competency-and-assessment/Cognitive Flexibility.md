@@ -9,7 +9,7 @@ aliases:
 summary: "个体根据不断变化的环境情境、目标约束与反馈信息，在不同心智图式、思维范畴或解题策略之间灵活转换与重组的高阶执行功能与创造性思维底层机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-17
 ---
 
 # Cognitive Flexibility
@@ -261,7 +262,7 @@ updated: 2026-09-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — [[Three-Level Meta-Analysis|多层元分析]]确立以认知灵活性为核心的思维训练（$g = 0.762$）的高效促学地位，并解析其多路径搜索与固着打破机制。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 三水平[[Meta-analysis|元分析]]指出[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享包括认知灵活性在内的[[Executive Function|执行功能]]与[[Metacognition|元认知]]调控底座（$r = 0.386$）。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]确立包含认知灵活性在内的认知加工能力与全域创造力的稳健关联（$r = 0.23$）。

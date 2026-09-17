@@ -10,7 +10,7 @@ aliases:
 summary: "测验编制中为各题目分配分值并汇总为总分的系统方法，计分方案直接体现各题目的相对权重，详细计分支持部分得分和跨组比较，但分数汇总可能丧失标准参照的特异性"
 type: concept
 domain: "competency-and-assessment"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,10 +28,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 related_methods:
   - "[[Item Analysis]]"
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-09-17
 ---
 
 # Test Scoring and Weighting
@@ -106,5 +107,5 @@ updated: 2026-07-27
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节第九步详细介绍测验计分的八项优势、汇总与特异性的张力、Ebel 等级分配原则、切分分数的目的依赖性和常模分数类型

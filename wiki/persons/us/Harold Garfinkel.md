@@ -6,7 +6,7 @@ summary: "美国社会学家，常人方法学（Ethnomethodology）创始人，
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Accounts]]"
   - "[[Fieldwork]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
@@ -49,7 +50,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Harold Garfinkel
@@ -145,7 +146,7 @@ updated: 2026-09-11
 > - **方法路径** 催生了哈维·萨克斯（Harvey Sacks）等人的微观会话分析（Conversation Analysis），确立了逐字[[Transcription in Qualitative Research|转录]]、交替轮次（Turn-taking）与修复机制（Repair）等微观实证方法标准。
 > - **教育研究应用** 为教育[[Ethnography|民族志]]与课堂微观研究提供了强大的分析透镜（如著名的课堂“草莓事件”，Walker & Adelman, 1975），揭示了师生互动中默会[[Indexicality|索引性]]规则如何决定课堂控制与学业成败。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 详细剖析了加芬克尔常人方法学对社会秩序概念的解构、索引性与[[Reflexivity|反思性]]原则，以及语言与情境常人方法学对教育探究的独特适切性。
 
 ---

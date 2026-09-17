@@ -9,7 +9,7 @@ aliases:
 summary: "在整群随机试验与分层复杂抽样中，剔除群内相关系数（ICC）导致的设计效应（Design Effect）损耗后，样本实际承载的相当于独立同分布简单随机抽样的真实统计信息量与推断功效。"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Effective Sample Size
@@ -199,6 +200,6 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详尽记录了面对学界对 141 项英美教育 [[Randomised Controlled Trials|RCT]] 效应微弱且[[Confidence Interval|置信区间]]过宽（0.30 SD）的批评，[[Education Endowment Foundation|EEF]] 如何通过系统化制度动员将 2014 年后的试验有效[[Sample Size Determination|样本量]]翻番，使大规模试验逐步演变为能够高精度识别真实微弱效应的决策支持工具。
 

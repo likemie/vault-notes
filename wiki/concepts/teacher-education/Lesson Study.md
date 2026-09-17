@@ -9,7 +9,7 @@ aliases:
 summary: "起源于日本的校本协同教研范式，通过集体备课、授课观课、基于学童证据的研讨与教学微调循环提升教学质量；在证据知情体系中被确立为融通内部实践探究与外部研究使用、支撑专业学习共同体落地的联合实践发展（JPD）核心载体，同时其有效性高度依赖制度化课时保障与高位专业引领。"
 type: concept
 domain: "teacher-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Lesson Study
@@ -87,7 +88,7 @@ updated: 2026-09-16
 >
 > *“The scope of these activities in reality are likely to significantly overlap, especially so if the form of professional development activity used to support evidence use builds upon a form of Joint Practice Development (JPD) such as Lesson Study (Sebba, Tregenza, & Kent, 2012)... Schools must also have in place systems for operationalizing research use in ways that are congruent with the process of learning achieved within PLCs; in other words, formal systems for allowing teachers to work together in testing, implementing, and refining proposed approaches for improving practice. This is best achieved via methods such as JPD (and similar approaches including Lesson Study, Learning Walks, etc.).”*
 
-> [!citation-card] 课例研究在西方规模化试验中的去魅与实证警示（Edovald & Nevill, 2021）
+> [!citation-card] 课例研究在西方规模化试验中的去魅与实证警示（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）
 > 课例研究源自日本，长期被[[International Education|国际教育]]界推崇为促进教师专业发展与教研协作的最理想范式。然而，[[Education Endowment Foundation|EEF]] 资助开展的大规模两级整群 [[Randomised Controlled Trials|RCT]]（Murphy et al., 2017）为这一流行风尚带来了沉重的实证检验。[[Implementation and Process Evaluation|过程评估]]显示，干预组教师普遍对课例研究表达了极高的满意度与协作热情；然而，当评估团队以英国国家统考的数学与阅读客观成绩作为主要结局指标时，干预[[Effect Size|效应量]]净值为零（$ES \approx 0.00$），没有任何统计学显著的学业增益。深入分析揭示，教师在主观协作层面的良好感受未能穿透至微观课堂认知互动，且密集研讨产生了挤占常态备课与个别辅导的负面时间替代效应。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
 >
 > *“Lesson Study originated in Japan and is widely celebrated internationally as a model for teacher collaboration. However, in an EEF trial involving 181 schools, Lesson Study produced no evidence of an effect on pupils' reading or maths attainment (Murphy et al., 2017)... While teachers valued the collaborative process highly, this enthusiasm did not translate into pupil attainment gains, and the intensive meetings risked displacing other essential teaching preparations.”*
@@ -116,7 +117,7 @@ updated: 2026-09-16
 > - **第四阶段：基于实证证据的研讨反思会（Post-Lesson Debriefing & Colloquium）** 课后立即开展研讨。授课者首先反思，观课者随后逐一出示个案学童在具体时间节点上的真实认知反应数据，剖析教学设计的得失。
 > - **第五阶段：教学法提炼与成果沉淀（Consolidating Learning & Revision）** 总结关于该主题微观学科教学知识（PCK）的普适性结论，修改教案并在新班级再教，或形成公共校本课例知识资产。
 
-> [!factors] 课例研究作为高质量 [[Joint Practice Development|JPD]] 载体的三大核心机制（Brown & Greany, 2018; Sebba et al., 2012）
+> [!factors] 课例研究作为高质量 [[Joint Practice Development|JPD]] 载体的三大核心机制（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]; Sebba et al., 2012）
 > - **内外证据深度融通（Bridging Practitioner Inquiry and External Research）** 打破“教师只做微观摸索”或“机械照搬外部[[Document|文献]]”的人为割裂；课例研究将外部经检验的高质量证据作为教案设计的科学支撑，并通过课堂真实互动检验外部证据在本土情境下的有效性，实现“从事探究”（inquiry）与“使用证据”（evidence use）的紧密交融。
 > - **协同测试与微调[[Operationalization|操作化]]系统（Testing, Implementing, and Refining）** 充当 [[Professional Learning Community|PLC]] 的实质性落地规程；使教师团队避免停留在会议室的高谈阔论，而是通过真实的课堂现场共同检验[[Hypothesis|假设]]、试验新法、微调策略，形成因果严密的实践检验闭环。
 > - **去私有化与互惠专业信任（Relational Trust & De-privatizing Practice）** 以共同研制的教案为客体，解除了对执教者个人的评价压力；依托“值得信赖的同行”（trusted peers）之间的平等切磋，将封闭孤立的私人课堂转化为共享的专业探究基地。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122, 125)]]
@@ -239,6 +240,6 @@ updated: 2026-09-16
 
 ## 包含此概念的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 系统评述英国 [[Education Endowment Foundation|EEF]] 十年评估中课例研究大规模 [[Randomised Controlled Trials|RCT]] 显现的零效应反思，剖析了教师主观满意度与客观学生学业产出脱节的深层机制。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 在[[Self-Improving School System|自我改进学校系统]]中将课例研究确立为[[Joint Practice Development|联合实践发展]]（JPD）的典范机制，阐明其融通内部实践探究与外部[[Research Utilization|研究使用]]、为 [[Professional Learning Community|PLC]] 提供课堂操作系统的关键制度价值。

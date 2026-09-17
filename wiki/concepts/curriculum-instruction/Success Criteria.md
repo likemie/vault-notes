@@ -8,10 +8,10 @@ aliases:
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
 domain: "curriculum-instruction"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/formative-assessment
   - theme/instruction
@@ -19,24 +19,28 @@ tags:
   - theme/rubrics
 related_concepts:
   - "[[Learning Intentions]]"
-  - "[[Formative Assessment]]"
-  - "[[Learning Progression]]"
-  - "[[Visible Learning]]"
-  - "[[Constructive Alignment]]"
-  - "[[Metacognition]]"
+  - "[[Operationalization]]"
+  - "[[Rote Learning]]"
   - "[[Dialogue in Education]]"
+  - "[[Chain of Evidence]]"
+  - "[[Scaffolding]]"
+  - "[[Self-control]]"
+  - "[[Variable]]"
+  - "[[Learning Progression]]"
+  - "[[Document]]"
+  - "[[Creativity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Success Criteria
@@ -153,5 +157,5 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Hattie_2005_ACER|Hattie (2005)]]** 系统复刻毛利历史单元范例，论证分层成功标准与因果评估任务是消除课堂形式主义、达成可见学习的核心工具。

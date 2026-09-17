@@ -9,7 +9,7 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Michael Gove]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Performance Pay
@@ -253,7 +254,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 从 [[Visible Learning|可见的学习]] [[Theoretical Perspective|理论视角]]出发，系统批判绩效工资对学校休息室同伴文化、容错反思与教学协作生态的破坏。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 澄清其对于教师表现评价的学理立场，指出专业水平报酬探索的正当性，同时承认客观测量工具开发的极端复杂性。
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 深度解构英格兰 2013 年教师绩效工资改革，揭示政治精英如何动用媒介资本、利用“遗漏话语”将 [[PISA]] 数据与上海案例逆向裁剪为推行国内争议政策的合法化修辞。

@@ -7,7 +7,7 @@ aliases:
 summary: "教师在真实课堂情境中协同分享、测试、实施与改进教学实践的双向互动过程，由 Fielding 与 Sebba 等提出并成为英格兰国家学校领导力学院的核心范式，旨在彻底超越传统单向线性移植的优秀实践转移模型，构成专业学习共同体与证据知情学校微观落地的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,7 +48,8 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Chris Brown]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Joint Practice Development
@@ -212,7 +213,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]]** 实证检验英格兰 79 所小学证据利用准备度，确立 JPD 与[[Lesson Study|课例研究]]作为 [[Professional Learning Community|PLC]] 在微观课堂中[[Operationalization|操作化]][[Transfer Translation Transformation|转译]]证据、规避[[Activity Traps|活动陷阱]]的核心载体。
 > - **Sebba et al. (2012)** 为英格兰国家[[School Leadership|学校领导力]]学院撰写指南，系统界定 JPD 的领导力推进原则、组织流程与评估标准。
 > - **Fielding et al. (2005)** 奠定 JPD [[Construct|构念]]的里程碑报告，通过多案例实证揭示“优秀实践转移”模型的内在缺陷与 JPD 的替代优势。

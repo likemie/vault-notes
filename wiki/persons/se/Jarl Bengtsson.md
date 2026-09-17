@@ -6,10 +6,10 @@ summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CE
 type: person
 nationality: "se"
 person_region: "se"
-person_related_count: 31
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: 1941
 died: ""
 lifespan: "1941–至今"
@@ -39,7 +39,8 @@ related_concepts:
 related_theories:
   - "[[Sociology of Measurement]]"
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
@@ -137,7 +138,7 @@ updated: 2026-09-17
 > - **政策路径** 直接塑造了当代西方世界每逢教育改革必谈《[[Education at a Glance|教育概览]]》指标与 [[PISA]] 排名的政治反射；将教育部门推向国家宏观竞争力的战略核心。
 > - **跨国／跨领域传播** 其开创的指标开发治理[[Paradigm|范式]]被[[World Bank|世界银行]]、欧盟委员会（欧委会教育与培训监测框架）以及 [[UNESCO]] 统计研究所（[[UNESCO Institute for Statistics|UIS]]）全面仿效。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 详尽记录本特森在 1980 年代末如何突破各国外交疑虑，开创 [[International Indicators of Education Systems|INES]] 指标项目并确立 OECD 生产“可计算世界”的技术神话。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 将本特森领导下的 [[Centre for Educational Research and Innovation|CERI]] 转型确立为 OECD 从技术官僚劳动力预测迈向现代量化[[Policy Brokerage|政策中介]]的关键枢纽。
 

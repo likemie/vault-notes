@@ -7,7 +7,7 @@ summary: "质性研究中研究者在观察现场或观察后尽快记录的文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
@@ -33,7 +34,7 @@ related_concepts:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 # Field Notes
 
@@ -92,6 +93,6 @@ updated: 2026-07-11
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材在[[Case Study|个案研究]]章节中专设 14.9 节讨论观察记录，引述 Lofland（1971）七条指南、King（1979）五百页笔记实践、Wolcott（1973）的实用提示，以及 Walker（1980）关于记录时机和方式的十二项选择问题（pp. 295–296）
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍田野笔记的多层记录框架：描述层面（Spradley, 1980; Bogdan & Biklen, 1992; LeCompte & Preissle, 1993）、反思层面（Bogdan & Biklen, 1992）、Lincoln & Guba（1985）的三种日志类型、Spradley（1980）的九项内容清单、LeCompte & Preissle（1993）的观察指南、Lofland（1971）的六类信息分类和 Wilkinson（2000）的分子与摩尔[[Unit of Analysis|分析单位]]（23.6–23.7 节）

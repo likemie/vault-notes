@@ -6,7 +6,7 @@ aliases:
 summary: "研究者在场改变被研究情境的现象，在质性研究中通过延长驻留、谨慎自我呈现和反身性来管理而非消除。"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Blinding]]"
   - "[[Observation Method]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Reactivity in Qualitative Research
@@ -109,5 +110,5 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统剖析反应性对质性探究的多维挑战：在自然主义研究中将其列为[[Qualitative Validity|质性效度]]的核心威胁与方法学难题之一（Ch. 11），并在实地观察中系统论述需求特征偏误以及[[Habituation|习惯化]]与隐蔽观察的应对策略（Ch. 23）。

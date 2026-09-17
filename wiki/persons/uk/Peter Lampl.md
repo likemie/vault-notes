@@ -8,7 +8,7 @@ summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Gove]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Peter Lampl
@@ -119,7 +120,7 @@ updated: 2026-09-16
 > - **组织与治理路径** 奠定了英格兰教育证据中介机构的独立治理[[Paradigm|范式]]，建立由商界、学界与政策专家构成的独立信托理事会，成功抵御了政党更迭与短期政策周期的震荡。
 > - **方法与转化路径** 推动了英国中小学大规模[[Randomised Controlled Trials|随机对照试验]]的合法化与普及化，彻底消除了学界对“公立学校不可能自愿参与对照试验”的偏见；推动以月度学习进展（[[Months of Progress]]）为核心的极简综合证据转化范式普及全球。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详细记录了彼得·兰普尔爵士主持的 [[Education Endowment Foundation|EEF]] 独立理事会治理架构，及其如何通过独立受托人机制保障研究中立性与国家证据生态建设。
 
 ---

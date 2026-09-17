@@ -8,7 +8,7 @@ aliases:
 summary: "衡量扣除资本和劳动投入贡献后产出增长剩余部分的生产率指标，用于衡量技术进步和技术效率变化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,6 +27,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Perpetual Inventory Method]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +36,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Total Factor Productivity
@@ -87,5 +88,5 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] — 利用行业 TFP 差距变化评估工业间谍的生产率效应，详细展示了在非竞争环境中校准 TFP 的方法论挑战和应对策略。

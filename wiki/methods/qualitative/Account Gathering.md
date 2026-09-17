@@ -5,9 +5,9 @@ summary: "Brown和Sime发展的陈述收集操作框架，包含信息提供者�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, theme/language]
 related_concepts:
@@ -26,12 +26,13 @@ related_methods:
   - "[[Experience Sampling Method]]"
   - "[[Experience-Sampling Method]]"
   - "[[Cross-checking]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-09-17
 ---
 # Account Gathering
 
@@ -90,5 +91,5 @@ updated: 2026-07-23
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将Brown & Sime的陈述收集框架作为引发、分析和验证陈述的系统化操作程序介绍，并与Kitwood的[[Experience Sampling Method|经验取样法]]互补使用。

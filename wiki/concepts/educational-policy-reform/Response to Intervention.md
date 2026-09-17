@@ -30,11 +30,11 @@ related_concepts:
 related_methods:
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Slavin]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
-  - "[[ESSA 2015 Evidence Standards]]"
   - "[[Success for All]]"
   - "[[Peer-Assisted Learning Strategies]]"
   - "[[Reading Recovery]]"
@@ -83,7 +83,7 @@ updated: 2026-09-17
 > [!citation-card] [[Response to Proven Instruction|循证干预反应]]方案
 > 传统干预反应模型之所以在大规模评估中未能显现预期成效，根源在于学校仅依凭抽象原则而未在各个层级部署经过严格实验检验的具体方案。若以达到《[[Every Student Succeeds Act|每一个学生成功法]]》（Every Student Succeeds Act, ESSA）强[[Evidence Standards|证据标准]]的项目分别充实 Tier 1（全校优质教学）、Tier 2（[[Teaching Assistant|助教]]/教师小组辅导）与 Tier 3（一对一个别辅导），学生将几乎必然获得学业成功。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 27)]]
 >
-> *Traditional RTI failed to produce effects because its principles are rarely fully implemented. Outfitting each tier with proven strategies according to [[ESSA 2015 Evidence Standards|ESSA Evidence Standards]] could virtually assure student success.*
+> *Traditional RTI failed to produce effects because its principles are rarely fully implemented. Outfitting each tier with proven strategies according to ESSA Evidence Standards could virtually assure student success.*
 
 > [!boundary] 概念边界
 > - **不等于特殊教育分类本身** RTI 是一种普通教育与特教衔接的递进支持体系，其首要目标是在普通教育体系内部解决学业困难，而非扩大特教标签。
@@ -228,7 +228,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统诊断传统 RTI 的执行困境并提出 [[Response to Proven Instruction|RTPI]] 循证干预反应方案及阅读与数学实证效果矩阵。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 对将教育简化为分层技术干预的工具理性与[[Determinism|因果决定论]]提供批判视角。
 > - [[Evidence-Based Reform]] — 循证改革主条目，包含政府资助、证据审查与政策激励的三条件模型。

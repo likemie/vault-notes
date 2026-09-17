@@ -10,7 +10,7 @@ summary: "在元分析与调节效应建模中，用于检验三个或更多亚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Random Sampling]]"
   - "[[Cochran's Q Test]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Pairwise Wald Tests
@@ -178,12 +179,12 @@ updated: 2026-08-25
 > |:-----|:-----|:-----|
 > | [[Meta-analysis]] | 前置方法 | 成对 Wald 检验依附于元分析的亚组调节检验模块，为其提供事后两两推断工具。 |
 > | [[Cochran's Q Test]] | 互补检验 | $Q_{between}$ 检验提供分类变量的总体泛指检验，成对 Wald 检验提供事后两两精确检验。 |
-> | [[Meta-regression]] | 替代与并列方法 | 元回归适用于连续型与多变量联合调节建模，成对 Wald 检验专注于离散亚组的事后成对级差比较。 |
+> | [[Meta-regression]] | 替代与并列方法 | 元回归适用于连续型与多[[Variable\|变量]]联合调节建模，成对 Wald 检验专注于离散亚组的事后成对级差比较。 |
 > | [[Fixed-Effect and Random-Effects Models]] | 建模基础 | 各亚组的合并[[Effect Size\|效应量]]与抽样方差来源于随机或固定效应模型的加权估计。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用成对 Wald 检验系统验证了[[Graphic Organizer|图形组织器]]形态（[[Mind Mapping|思维导图]] $g = 1.041$ > [[Argument Mapping|论证图]] $g = 0.798$ > [[Concept Mapping|概念图]] $g = 0.548$）、学段（中学 $g = 1.113$ > 小学 $g = 0.877$ > 大学 $g = 0.659$）以及[[Higher-Order Thinking Skills|高阶思维]][[Construct|构念]]层级（倾向与过程显著强于技能结果）的两两级差显著性。

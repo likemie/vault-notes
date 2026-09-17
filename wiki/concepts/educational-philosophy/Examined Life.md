@@ -10,7 +10,7 @@ aliases:
 summary: "西方教育哲学与学习传统的核心主题，起源于苏格拉底在《申辩篇》中的名言“未经省察的生活不值得过”，代表质疑既有权威与理所当然知识的智识态度，是批判性思维的文化根源。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,7 +43,8 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Praxis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Socrates]]"
   - "[[Plato]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-07-25
+updated: 2026-09-17
 ---
 
 # Examined Life
@@ -164,6 +165,6 @@ updated: 2026-07-25
 
 ## 条目关联
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 识别“省察的生活”为西方学习传统第三主题，分析[[Socrates|苏格拉底]]、[[Jean-Jacques Rousseau|卢梭]]与[[University Motto|大学校训]]。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 从《申辩篇》《理想国》《美诺篇》梳理省察生活在古典哲学中的表现及其阶级局限。

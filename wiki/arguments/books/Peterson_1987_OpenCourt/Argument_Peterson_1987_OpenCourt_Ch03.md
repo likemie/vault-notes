@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Scientific Method]]"
   - "[[Homework]]"
+  - "[[Advanced Placement Program]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Creativity]]"
@@ -160,7 +161,7 @@ updated: '2026-08-27'
 > |---|---|---|---|
 > | **欧陆百科全书课程** | 古典语言和数学之外不断加入历史、自然科学、地理与经济；德国文理中学一度要求大学预科学生每周学习多达十三门科目。 | 每科只有少量课时，学生频繁切换内容，学习容易停留在记忆信息和接受教师预先组织的解释，缺少把学科思维转化为个人判断的时间。 | 保留跨领域广度，同时限制科目总数，为每门课提供连续深入学习的空间（pp. 38–39）。 |
 > | **英国早期专门化** | 高中最后两年按古典、人文或科学方向分流，学生集中学习两三门考试科目；通识学习留给不受统一规定和考试承认的通识研究课程（General Studies）。 | 学校常声称通识课程占四分之一至三分之一时间，独立调查发现多数学校的课堂占比不足五分之一，也没有获得相应的自习和[[Homework\|家庭作业]]时间。升学考试重要性上升后，学校和学生优先投入计分科目。 | 通识目标必须进入正式课表和资格结构，仅靠不计分的补充课程难以抵抗升学压力（pp. 39–40）。 |
-> | **美国大学通识** | 大学以经典著作、当代文明等专门课程承担通识教育，区别于欧洲中学延续多门普通科目的做法。 | 高中丰富课程和大学先修课程向上进入大学一年级范围，研究生院又把专业要求向下推入本科阶段，大学通识受到两端挤压。人文与社会理解所需的个人成熟度，也使通识教育应放在高中还是大学持续存在争论。 | IB 需要在 16 至 18 岁阶段建立可行的通识结构，同时避免简单复制美国大学共同课程（pp. 39–41）。 |
+> | **美国大学通识** | 大学以经典著作、当代文明等专门课程承担通识教育，区别于欧洲中学延续多门普通科目的做法。 | 高中丰富课程和[[Advanced Placement Program\|大学先修课程]]向上进入大学一年级范围，研究生院又把专业要求向下推入本科阶段，大学通识受到两端挤压。人文与社会理解所需的个人成熟度，也使通识教育应放在高中还是大学持续存在争论。 | IB 需要在 16 至 18 岁阶段建立可行的通识结构，同时避免简单复制美国大学共同课程（pp. 39–41）。 |
 
 三种制度都让通识性依附于特定内容安排：欧陆依靠科目数量，英国把它寄托于考试之外的补充课程，美国将其放在特定教育阶段和共同课程中。跨国学校无法选取其中一套作为共同方案，因为学生的大学去向、国家课程背景和成熟速度各不相同。将通识性定义为可以跨内容迁移的思维能力，才使共同国际课程获得可设计的目标（pp. 40–42）。
 

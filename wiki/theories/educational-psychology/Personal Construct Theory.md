@@ -6,7 +6,7 @@ aliases:
 summary: "George Kelly提出的完整人格理论，以个人建构为基本分析单位解释个体如何感知、解释和预测世界。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,12 +27,13 @@ related_concepts:
 related_methods:
   - "[[Repertory Grid Technique]]"
   - "[[Laddering]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]]"
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-08-01
+updated: 2026-09-17
 ---
 # Personal Construct Theory
 
@@ -151,5 +152,5 @@ Kelly 的理论来自临床经验。他观察到个体主动理解世界并扩�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统介绍该理论作为 [[Repertory Grid Technique]] 的理论基础，涵盖基本公设、十一条推论及其方法论含义。

@@ -9,7 +9,7 @@ aliases:
 summary: "由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Delphi Technique]]"
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # APA Delphi Consensus on Critical Thinking
@@ -154,7 +155,7 @@ flowchart TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 全文以 [[APA Style|APA]] 德尔菲专家共识为理论基底与[[Variable|变量]][[Coding in Qualitative Research|编码]]标准，量化检验了德尔菲技能与倾向的教学成效。
 > - [[Critical Thinking Disposition]] — 深入阐述德尔菲情意倾向维度的理论机制与[[Meta-analysis|元分析]]数据。
 > - [[California Critical Thinking Disposition Inventory]] — 基于德尔菲七维度开发的经典测量工具。

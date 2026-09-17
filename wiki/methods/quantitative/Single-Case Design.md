@@ -7,7 +7,7 @@ summary: "多义词：量化实验中个体作为自身控制的重复测量设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Intervention Research]]"
   - "[[Gating Procedure]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Hitchcock_2015_JBE]]"
@@ -61,7 +62,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 
 ## 概念辨析：两种含义
@@ -165,7 +166,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 澄清 [[What Works Clearinghouse|WWC]] SCD 审查程序如何捕获推广性信息
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Kazdin (1982) [[ABAB Design|ABAB 设计]]为框架介绍单一案实验的逻辑，并以 Dietz (1977) 在特殊教育中对一名青少年男孩使用差别性强化低频率行为（DRL）程序减少课堂干扰为例展示完整 ABAB 循环
 

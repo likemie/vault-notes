@@ -46,7 +46,7 @@ related_concepts:
   - "[[Academic Well-being and Interest in Learning]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
+  - "[[Correlational Research]]"
   - "[[Multiple Regression]]"
   - "[[Questionnaire]]"
   - "[[Analysis of Variance]]"
@@ -80,7 +80,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Observational and Correlational Research]]，并采用分层[[Multiple Regression|多元回归]]分析。
+> - 方法：[[Correlational Research]]，并采用分层[[Multiple Regression|多元回归]]分析。
 > - 样本：2012 年秋季挪威 48 所学校、5-10 年级 4128 名学生（男 2062，女 2066）(p.79)。
 > - 数据来源：学生[[Questionnaire|问卷]]与班主任问卷双来源；[[Academic Achievement|学业表现]]由教师对挪威语、数学、英语评分构成(pp.79-82)。
 > - 统计处理：[[Reliability|信度]]分析、相关分析、[[Analysis of Variance|方差分析]]（Cohen's d）与分性别回归模型；缺失值用 EM 算法处理(pp.81-83)。

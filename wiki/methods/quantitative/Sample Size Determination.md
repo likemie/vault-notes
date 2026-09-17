@@ -10,9 +10,9 @@ summary: "研究设计中确定样本大小的决策过程，涉及研究目的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/sampling
@@ -30,6 +30,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
   - "[[Confidence Interval]]"
   - "[[Chi-Squared Test]]"
   - "[[Multiple Regression]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Sample Size Determination
 
@@ -68,7 +69,7 @@ updated: 2026-09-11
 ### 影响样本量的多重因素
 
 > [!feature] 影响样本量的因素
-> - **[[Research Purpose|研究目的]]与设计** [[Survey Research|调查研究]]通常需大样本（尤其是推论统计）；[[Ethnography|民族志]]或[[Qualitative Research|质性研究]]样本量通常较小。相关研究 ≥ 30 例，因果比较与实验 ≥ 15 例，调查每个主要子组 ≥ 100、每个次要子组 20–50（Borg & Gall, 1979, pp. 194–5）。
+> - **[[Research Purpose|研究目的]]与设计** [[Survey Research|调查研究]]通常需大样本（尤其是推论统计）；[[Ethnography|民族志]]或[[Qualitative Research|质性研究]]样本量通常较小。[[Correlational Research|相关研究]] ≥ 30 例，因果比较与实验 ≥ 15 例，调查每个主要子组 ≥ 100、每个次要子组 20–50（Borg & Gall, 1979, pp. 194–5）。
 > - **总体规模与[[Heterogeneity|异质性]]** 总体越大，所需样本越大；总体异质性越强，所需样本越大。但 Krejcie & Morgan（1970）发现，当总体增至一定程度后，所需样本量趋于恒定（约 384 例）。
 > - **[[Confidence Interval|置信水平]]与[[Confidence Interval|置信区间]]** 置信水平越高（如 99% vs 95%），样本量越大；置信区间越小（如 ± 3% vs ± 5%），样本量越大。常规策略：95% 置信水平 + 3% 置信区间。
 > - **[[Variable|变量]]类型** 类别数据（categorical data）通常比连续数据（continuous data）需要更大的样本。类别数据边际误差通常取 5%，连续数据取 3%（Bartlett et al., 2001, p. 45）。
@@ -128,5 +129,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统梳理样本量确定的多重因素、经验法则、统计方法要求和数学公式，涵盖 Krejcie & Morgan（1970）、Bartlett et al.（2001）、Borg & Gall（1979）和 Gorard（2003）等关键来源。

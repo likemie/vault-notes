@@ -7,7 +7,7 @@ aliases:
 summary: "课程设计原则，指学生在同一阶段内同时学习多门学科并在不同学科（尤其是核心课程组件）之间建立联系，以促进跨学科的整体学习体验。"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-08-06
-updated: 2026-08-10
+updated: 2026-09-17
 ---
 
 # Concurrency of Learning
@@ -91,5 +92,5 @@ updated: 2026-08-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 探讨了在 [[IB Diploma Programme|IBDP]] 核心课程中实施并发学习（Concurrency of Learning）的策略与挑战，指出由于时间限制与国家课程双轨压力，并发学习的理念认同难以转化为日常的连贯教学实践。

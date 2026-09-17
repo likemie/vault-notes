@@ -9,7 +9,7 @@ summary: "美国理论生物学家、复杂系统科学先驱、圣塔菲研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_theories:
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Stuart Kauffman
@@ -101,7 +102,7 @@ updated: 2026-09-11
 > - **方法路径** 深刻挑战了以[[Randomised Controlled Trials|随机对照试验]]（RCT）为代表的“保持[[Variable|变量]]恒常操纵”[[Positivism|实证主义]]黄金标准，推动研究转向网络拓扑、自组织临界性与生态系统分析。
 > - **管理路径** 启发学校管理从“自上而下科层控制”转向“营造自组织微观生态”，赋能教师与学生的内生[[Creativity|创造力]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用考夫曼自组织自发秩序命题（“秩序是免费的，它取代了控制”），作为解构传统量化受控实验与自上而下教育控制的哲学根据。
 
 ---

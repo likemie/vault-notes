@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Content Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Visible Learning
@@ -266,7 +267,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 奠定 VL 前夕理论与统计框架，提出 $d=0.40$ 关节点、30% 教师方差贡献、[[Assessment Tools for Teaching and Learning|asTTle]] 形成性三提问与[[Learning Progression|学业进阶]]共享语言。
 > - [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] — 提炼八项教师思维框架、DIE 教学循环及高等教育情境下的六项高影响条件。
 > - [[Argument_Fredens_2015_Paideia|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。

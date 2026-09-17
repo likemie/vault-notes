@@ -9,7 +9,7 @@ aliases:
 summary: "教育技术与循证干预假说，主张在初始数字化基础设施薄弱（低 ICT）或社会经济背景脆弱（低 SES）的低资源环境中引入技术工具，所产生的相对促学增量和边际附加值显著高于高资源饱和环境"
 type: concept
 domain: "educational-technology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Pre-test and Post-test]]"
   - "[[Prediction Interval]]"
+  - "[[Correlational Research]]"
   - "[[Moderator Analysis]]"
 related_instruments: []
 related_persons: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Marginal Gains Hypothesis
@@ -209,5 +210,5 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — 基于 57 项[[Experimental Research|实验研究]][[Meta-analysis|元分析]]，通过国家 ICT 水平与学生 SES 的[[Moderator Analysis|调节效应分析]]，严格实证检验了边际效益假说，指出生成式 AI 具有促进低资源国家和弱势学生教育平等的战略价值。

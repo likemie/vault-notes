@@ -8,7 +8,7 @@ summary: "奥地利-德国哲学家与数学家，现象学奠基人，提出悬
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_theories:
   - "[[Theory of Mind]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Mark Schneider]]"
   - "[[Immanuel Kant]]"
@@ -51,7 +52,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Edmund Husserl
@@ -154,7 +155,7 @@ updated: 2026-09-14
 > - **方法路径** [[Epoché|悬置]]和现象学还原方法成为[[Qualitative Research|质性研究]]中[[Interpretive Paradigm|诠释范式]]的核心反思工具，为超越表面行为记录、探究参与者深层主观意义提供了[[Epistemology|认识论]]框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
 > - **跨领域传播** 其主体间性与生活世界概念被舒茨（[[Alfred Schutz]]）[[Transfer Translation Transformation|转译]]并带入社会学中，成为社会现象学与常人方法学的基石，并在当代教师教育与芬兰[[Phenomenon-Based Learning|现象本位学习]]中作为抵制课程原子化与工具主义的技术性批判资源。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 11]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 系统阐明了胡塞尔的悬置方法及先验意识三要素如何确立了自然主义与诠释性教育探究的认识论合法性。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] — 深入分析了胡塞尔的先验现象学、意向性及生活世界理论，如何作为芬兰跨学科现象本位学习（PhBL）核心哲学根源的演化与转译。
 

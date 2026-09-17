@@ -6,7 +6,7 @@ aliases:
 summary: "米尼奥洛和康奈尔指出的全球知识体系以欧洲中心主义认识论为基础的隐性权力结构，通过界定哪些知识可被看见与接受来固化象征空间的等级边界"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,8 @@ related_concepts:
 related_theories:
   - "[[Post-colonial Theory]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-09-17
 ---
 
 # Epistemic Coloniality
@@ -100,5 +101,5 @@ updated: 2026-06-29
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 在[[Knowledge Production|知识生产]]的论证步骤（论证步骤四）中系统阐述了[[Epistemology|认识论]]殖民的结构性基础、三层制度机制（排名、出版平台、学者自我[[Disciplina and Doctrina|规训]]）以及全球南方国家的策略性回应。

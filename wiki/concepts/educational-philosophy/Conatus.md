@@ -7,7 +7,7 @@ aliases:
 summary: "斯宾诺莎主义哲学中的核心概念，指个体维持与保存自我存在的努力与挣扎；在教育中被阐发为指向主体内在情感与潜意识的学习驱动力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Baruch Spinoza]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Conatus
@@ -106,5 +107,5 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 将[[Baruch Spinoza|斯宾诺莎]]的欲力概念应用于教育批判，提倡构建以欲力与情感政治为基础的斯宾诺莎主义课程，以抗衡应试取向的理性训练。

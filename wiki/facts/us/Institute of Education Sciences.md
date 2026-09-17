@@ -70,12 +70,12 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Using Data Intervention]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
+  - "[[Education Resources Information Center]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
   - "[[Education Innovation and Research]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Evidence for ESSA]]"
-  - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Gorard_2020_ROE]]"
@@ -118,7 +118,7 @@ updated: 2026-09-17
 > [!actor-grid] 组织治理架构
 > - **决策领导层（Director）** 由美国总统提名并经参议院确认的院长全面统筹，主持制定战略科研资助重点、规程标准与审查导向。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
 > - **四大常设国家研究中心** 统辖国家教育研究中心（National Center for Education Research, NCER）、国家教育统计中心（National Center for Education Statistics, NCES）、国家特殊教育研究中心（National Center for Special Education Research, NCSER）以及国家教育评估与地区资助中心（[[National Center for Education Evaluation and Regional Assistance]], NCEE）。
-> - **证据转化与清算枢纽** 由 NCEE 统筹监管[[What Works Clearinghouse|有效干预清算中心]]（WWC）与教育资源信息中心（Education Resources Information Center, ERIC），执行高标准的[[Evaluator Independence|第三方独立评估]]与证据评级。
+> - **证据转化与清算枢纽** 由 NCEE 统筹监管[[What Works Clearinghouse|有效干预清算中心]]（WWC）与[[Education Resources Information Center|教育资源信息中心]]（Education Resources Information Center, ERIC），执行高标准的[[Evaluator Independence|第三方独立评估]]与证据评级。
 > - **独立监督与同行评审委员会** 设立国家教育科学委员会（National Board for Education Sciences, NBES），由独立学者与公众代表组成，监督科研资助的公正性、科学严谨性与非党派属性。
 
 > [!pathways]- 业务运行机制与宏观制度杠杆

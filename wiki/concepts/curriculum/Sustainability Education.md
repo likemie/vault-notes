@@ -9,7 +9,7 @@ aliases:
 summary: "指培养学生理解气候变化、生物多样性丧失与生态系统复杂性，掌握跨学科系统思维与绿色技能，并能在生活和职业中采取可持续行动的教育模式与综合素养"
 type: concept
 domain: "curriculum"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,10 +23,12 @@ related_concepts:
   - "[[Big Ideas]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+related_methods:
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-17
 ---
 
 # Sustainability Education
@@ -90,5 +92,5 @@ updated: 2026-08-23
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 系统阐述可持续发展教育在基础科学教育中的战略地位，呼吁全校协同推进绿色技能与生态素养培养。

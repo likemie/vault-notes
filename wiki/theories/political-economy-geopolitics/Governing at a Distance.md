@@ -10,7 +10,7 @@ aliases:
 summary: "权力不依赖直接命令或物理在场，而是通过重塑话语、想象、评估技术与自我导向机制在“远处”组织并塑造行为的治理空间机制。在教育全球治理中，它表现为超国家组织（如 OECD）借助标准化测评（如 PISA）和数据基准对主权国家政策进行的去政治化软性规训与交付。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_theories:
   - "[[Governmentality]]"
 related_methods:
   - "[[Single-Case Design]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
 related_facts:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Governing at a Distance
@@ -151,6 +152,6 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 系统梳理了分散权威空间下基准数据和 [[PISA]] 测验作为[[Rationalism in International Relations|理性主义]]比较教育远处治理政治手段的发展史。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022]] — 分析了新自由主义理性如何通过循证方法（[[Single-Case Design|SCD]]）和学术标准设计，实现对科研人员及评价体制的远距治理。

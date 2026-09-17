@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育学古典历史-哲学母题与实证科学化的基石性认识论假定，将主权清晰、制度与文化边界同质的民族国家及其国民教育体系视为首要比较分析基准，在战后历经批判国家理论、多层分析立方体与反思方法论民族主义的范式重构。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,7 +41,8 @@ related_concepts:
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Transitology]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # The Nation-State as the Unit of Comparison
@@ -206,5 +207,5 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 系统考掘民族国家作为历史-哲学母题核心[[Epistemology|认识论]]单位的确立、[[Isaac Kandel|坎德尔]]对国家解释[[Variable|变量]]的开创性贡献，以及战后该[[Paradigm|范式]]遭遇的历史局限与反思。

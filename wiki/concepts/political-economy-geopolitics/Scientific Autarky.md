@@ -11,7 +11,7 @@ aliases:
 summary: "指国家在科研与技术发展中追求自主自足、减少对外部人力资本、资金与合作的依赖，并在技术主权与孤立化成本之间寻求平衡的政策与战略导向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,10 +27,12 @@ related_arguments:
   - "[[Argument_Dezhina_2022_ECO]]"
 related_theories:
   - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: '2026-06-26'
+updated: 2026-09-17
 ---
 
 # Scientific Autarky
@@ -115,5 +117,5 @@ updated: '2026-06-26'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 分析了俄罗斯科学界在学者循环、资助集中化以及[[Megascience Installations|大科学装置]]本土独立化过程中所显现的自给自足趋势及制度代价。

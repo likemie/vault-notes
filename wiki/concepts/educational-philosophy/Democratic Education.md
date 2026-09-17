@@ -6,7 +6,7 @@ aliases:
 summary: "约翰·杜威进步主义教育哲学的核心理想，将民主界定为一种联合生活方式与共享沟通经验，主张学校必须成为培育合作探究、平等对话与公民素养的民主社区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Freedom of the Learner]]"
   - "[[Praxis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-09-17
 ---
 
 # Democratic Education
@@ -91,5 +92,5 @@ updated: 2026-07-26
 > | [[Dialogue in Education]] | 概念 | 民主教育依赖平等对话作为中介。 |
 > | [[Praxis]] | 概念 | [[Paulo Freire\|弗莱雷]]对杜威民主教育的实践性补充。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 深入分析杜威民主教育思想及其与弗莱雷解放教育的张力。

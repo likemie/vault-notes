@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons: []
@@ -130,7 +131,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Numbers Count 评定为初等数学 Tier 3 专业教师一对一辅导唯一的强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释 Numbers Count 作为 Tier 3 密集个别化救济防线的高效能机制。
 > - [[Catch Up Numeracy]] — 同属英国初等数学干预方案，采用低成本教学[[Teaching Assistant|助教]]实施（[[Effect Size|效应量]] $+0.21$），与 Numbers Count 形成“专业教师 vs 助教”的经典英伦政策对照。

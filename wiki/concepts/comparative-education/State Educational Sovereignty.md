@@ -10,7 +10,7 @@ aliases:
 summary: "近代世俗民族国家在打破宗教教会神权与家庭宗族私权垄断中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源，由公共财政保障学校网络、推行强制义务教育并规范国民资格准入"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Educational Meliorism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-17
 ---
 
 # State Educational Sovereignty
@@ -223,5 +224,5 @@ updated: 2026-09-06
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统解构 19 世纪法国[[Victor Cousin|库森]]与美国[[Horace Mann|霍勒斯·曼]]如何分别动用“国家公共资源论”与“自由共和政治合法化依据”，推动世俗国家确立教育最高主权并开创两种跨国借用[[Paradigm|范式]]。

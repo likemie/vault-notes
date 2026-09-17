@@ -7,7 +7,7 @@ aliases:
 summary: "区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Surface and Deep Learning
@@ -266,7 +267,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] 把表层与深层学习界定为具体任务中的活动方式，并通过教学方法、概念改变和[[Constructive Alignment|建构性对齐]]说明教师如何改变学习取向。
 > - [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] 将表层知识视为深层理解的重要基础，同时用笔记复习、[[Problem-Based Learning|问题本位学习]]和[[Assessment Backwash|评估反拨]]说明不同学习层次需要恰当衔接。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] 通过[[Chinese Learner|中国学习者]]研究修正将记忆直接等同于表层学习的判断，强调外显行为在完整学习序列中的不同功能。

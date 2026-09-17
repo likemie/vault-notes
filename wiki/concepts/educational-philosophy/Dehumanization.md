@@ -6,7 +6,7 @@ aliases:
 summary: "弗莱雷批判教育学中的存在论概念，指压迫制度将人类由创造历史的能动主体扭曲物化为被动的客体或东西的历史异化现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,7 +23,8 @@ related_concepts:
   - "[[Culture of Silence]]"
   - "[[Critical Pedagogy]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 
 # Dehumanization（非人性化）
@@ -130,5 +131,5 @@ updated: '2026-08-27'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 在学位论文第 4 章中将非人性化作为论证解放教育政治性的核心存在论基石。

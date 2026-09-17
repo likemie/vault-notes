@@ -9,7 +9,7 @@ summary: "一种观察技术，聚焦于非例行但极具揭示性的特定事�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 related_concepts:
@@ -36,7 +37,7 @@ related_concepts:
   - "[[Classroom Management]]"
 status: draft
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-09-17
 ---
 
 # Critical Incidents
@@ -116,5 +117,5 @@ updated: 2026-07-23
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材在观察方法章节中介绍 Flanagan（1949）的关键事件技术和 Wragg（1994）的关键事件在教育研究中的应用，将其定位为[[Structured Observation|结构化观察]]的补充方法。（23.5 节）

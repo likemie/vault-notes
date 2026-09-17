@@ -8,10 +8,10 @@ aliases:
 summary: "研究现场中控制研究准入与再准入的个体或角色，在质性研究和敏感研究中是关键的权力节点——守门人可能批准、阻止或条件化研究，其行为模式直接影响研究设计、数据质量和伦理关系"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - research-methodology
   - qualitative-research
@@ -34,13 +34,14 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Fieldwork]]"
   - "[[Archival Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 status: draft
 created: 2026-06-01
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 # Gatekeepers
 
@@ -191,7 +192,7 @@ Gewirtz & Ozga (1994, pp. 192–193) 将有权者研究中的守门问题总结�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在[[Qualitative Research|质性研究]]设计中讨论守门人的审查框架（Bogdan & Biklen 五问题），将其定位为进入研究现场的关键步骤。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al. (2011, Ch. 5)]] — 在伦理章节中系统讨论守门人在准入谈判中的角色、Bell 的条件与保证框架、以及研究者与守门人的权力关系。
 > - Cohen et al. — 在[[Sensitive Research|敏感研究]]章节中深入分析守门人的风险控制行为模式、Morrison 的十五项问题、Lee 的让步原则、守门人与担保人的对比、以及有权者研究中的守门问题（Gewirtz & Ozga）。

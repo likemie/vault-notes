@@ -6,14 +6,14 @@ aliases:
 summary: "群体或个体在面对主导文化场域（如精英大学或国家学校课程）时，因自身文化语码被边缘化而产生的疏离感与身份断裂"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: 2026-08-20
+updated: 2026-09-17
 tags:
   - cultural-disembedding
   - higher-education
@@ -32,7 +32,8 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Sense of Shame]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Anthony Giddens]]"
   - "[[Yajun Zheng]]"
@@ -158,7 +159,7 @@ related_arguments:
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 实证揭示精英大学第一代大学生的文化脱嵌及其与[[Cultural Disorientation|文化迷失]]的关系。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 实证揭示 217 册必修教材汉儒中心叙事引发少数民族学生的国族文化脱嵌。
 

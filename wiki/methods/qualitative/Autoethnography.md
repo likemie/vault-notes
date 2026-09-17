@@ -7,7 +7,7 @@ summary: "研究者编撰关于自己生活或情境的个人化、主观性叙�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Qualitative Interview]]"
   - "[[Triangulation]]"
+  - "[[Correlational Research]]"
   - "[[Qualitative Research]]"
 related_persons: []
 related_facts: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 
 # Autoethnography
@@ -84,5 +85,5 @@ updated: 2026-07-11
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 在章末简要介绍自我[[Ethnography|民族志]]为[[Qualitative Research|质性研究]]的新兴领域，引用 Reed-Denahay (1997)、Ellis (2004) 和 Chang (2008) 为代表作品（p. 453）。

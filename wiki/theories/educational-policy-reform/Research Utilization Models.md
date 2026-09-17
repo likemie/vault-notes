@@ -9,7 +9,7 @@ aliases:
 summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 57
+theory_related_count: 58
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -71,6 +71,7 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons:
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Research Utilization Models
@@ -266,7 +267,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 将[[Research Utilization|研究利用]]模型与[[Theory of Planned Behavior|计划行为理论]]结合，开发并验证 20 题 4 维度的[[Research Literacy Scale for Teachers|教师研究素养量表]]，证实研究技能是连接积极态度与实际使用的关键知觉控制枢纽，且做研究与读期刊具有双轨赋能效应。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 在关于教师协作参与科研的[[Framework Synthesis|框架综合]]中，运用 Weiss 的研究利用分类区分深度整合与浅层象征性合规，揭示信任与制度支持在促成互动模型中的决定性作用。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 梳理 Weiss (1979) 以来研究利用[[Document|文献]]对国际[[Evidence-Informed Practice|证据知情实践]]（EIP）的奠基作用，探讨[[Knowledge Mobilisation|知识动员]]条件与系统性落地瓶颈。

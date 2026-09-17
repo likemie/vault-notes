@@ -28,7 +28,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Questionnaire]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
@@ -82,7 +82,7 @@ updated: 2026-07-08
 > [!contrast-table] 两种操作性定义
 > | 维度 | 测量的操作性定义 | 实验的操作性定义 |
 > |---|---|---|
-> | 含义 | 根据如何测量和[[Observational and Correlational Research\|观察研究]]变量而下的定义 | 根据如何操作研究变量而下的定义 |
+> | 含义 | 根据如何测量和[[Observation Method\|观察]]变量而下的定义 | 根据如何操作研究变量而下的定义 |
 > | 示例 | "饥饿"界定为"一分钟内压低杠杆10次以上而获取食物的小白鼠" | "强化"界定为"学生出现某种行为时，教师加以称赞或对之微笑" |
 > | 适用场景 | 通过标准化行为或指标来测量变量 | 描述研究变量的详细过程或活动 |
 

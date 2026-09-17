@@ -9,7 +9,7 @@ summary: "一种同时访谈多位受访者的数据收集方法，通过在群�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -28,13 +28,14 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-09-17
 ---
 
 # Group Interview
@@ -116,5 +117,5 @@ updated: 2026-07-22
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — [[Systematic Review|系统综述]]小组访谈的定义、优势与局限、操作问题，以及访谈儿童和边缘化群体时的应用。

@@ -9,7 +9,7 @@ summary: "结合量化与质性数据并通过特定设计进行系统整合的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 73
+method_related_count: 74
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -78,6 +78,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Qualitative Observation]]"
+  - "[[Correlational Research]]"
   - "[[Website Content Analysis]]"
   - "[[Group Interview]]"
 related_persons:
@@ -100,7 +101,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Mixed Methods Research
@@ -341,7 +342,7 @@ updated: 2026-09-11
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 28]] — 系统论述混合方法作为第三次方法论运动的[[Pragmatic Paradigm|实用主义范式]]、设计类型学、整合策略与哲学论辩。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 232]] — 奠定混合方法与多方法的核心区分，规范聚敛式、解释序列与探索序列三大核心设计及[[Joint Display|联合展示]]规程。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch. 7, p. 119]] — 系统提出顺序、平行与合成式三种数据收集时间规划模型及前载/后载时间成本权衡。

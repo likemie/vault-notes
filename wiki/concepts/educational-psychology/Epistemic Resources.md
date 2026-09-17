@@ -5,7 +5,7 @@ aliases:
 summary: "一种细粒度、情境敏感的微观认知图式。该概念主张个体并不拥有跨情境稳定的宏大信念阶段，而是根据当下的活动任务与框架，动态激活并调配不同的底层认知资源。"
 type: concept
 domain: "educational-psychology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_theories:
 related_methods:
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-17
 ---
 
 # Epistemic Resources
@@ -76,6 +77,6 @@ updated: 2026-08-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **Hammer & Elby (2002)** — 首次提出“[[Epistemology|认识论]]资源”与“认识论框架”概念，通过物理教学的实证案例展示了学生在不同课堂互动中如何调配不同的微观资源。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将认识论资源作为[[Integrative Pluralism|整合多元主义]]框架中“个体层级”的基石，并指出其对传统[[Domain Specificity|领域特异性]]（[[Domain Specificity]]）研究在“颗粒度”上的降维打击。

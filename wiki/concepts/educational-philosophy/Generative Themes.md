@@ -6,10 +6,10 @@ aliases:
 summary: "保罗·弗莱雷解放教育理论的核心课程概念，指从受压迫者具体日常生存境遇与社会矛盾中提取出的、能够引发强烈理智与情感共鸣并促成批判意识觉醒的课程起点主题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-philosophy
   - freire
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Decodification]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-09-17
 ---
 
 # Generative Themes（生成性主题）
@@ -132,5 +133,5 @@ updated: 2026-08-02
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合巴西昂吉科斯识字课例，详细拆解生成性主题的提取与[[Decodification|解码]]过程。

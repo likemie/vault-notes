@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪经典比较教育学用于解释国家教育制度独特性与内在精神的核心构念，后因缺乏经验证据、同义反复解释与辉格史观陷入方法论争议"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_theories:
   - "[[Hegemony]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # National Character
@@ -243,6 +244,6 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古梳理[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Vernon Mallinson|马林森]]对国民性格[[Construct|构念]]的界定与操作，从经验证据、同义反复与[[Whiggism|辉格史观]]三个向度对该构念展开批判反思，并确立[[Historical-Comparative Method|历史比较法]]超越国民性格偏见的现代学术合法性。
 

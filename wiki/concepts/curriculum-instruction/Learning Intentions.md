@@ -8,25 +8,27 @@ aliases:
 summary: "教师与学生共同明确在特定教学活动中所要达成的核心认知理解、概念迁移与能力发展指向，区别于具体的活动任务完成要求"
 type: concept
 domain: "curriculum-instruction"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/formative-assessment
   - theme/instruction
   - theme/curriculum-design
   - theme/pedagogy
 related_concepts:
+  - "[[Teaching Assistant]]"
   - "[[Success Criteria]]"
-  - "[[Formative Assessment]]"
+  - "[[Causality]]"
   - "[[Learning Progression]]"
-  - "[[Visible Learning]]"
-  - "[[Constructive Alignment]]"
   - "[[Metacognition]]"
-  - "[[Dialogue in Education]]"
+  - "[[Formative Assessment]]"
+  - "[[Document]]"
+  - "[[Learning Gap]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -36,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Learning Intentions
@@ -154,5 +156,5 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Hattie_2005_ACER|Hattie (2005)]]** 在论述可见学习与评价证据模型时，系统引用克拉克、廷珀利与[[John Hattie|哈蒂]]（Clarke, Timperley, & Hattie, 2003）的实证案例，论证显性学习意图与[[Success Criteria|成功标准]]是提升课堂教学效能的关键机制。

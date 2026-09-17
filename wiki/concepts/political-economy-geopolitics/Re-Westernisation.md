@@ -7,7 +7,7 @@ aliases:
 summary: "后殖民与去殖民批判中指代美国与西方在新自由主义全球化下，通过输出所谓普世的学校教育模型、科学标准与评估技术（如 OECD 的 PISA 测评），重新巩固并延续西方在认识论、文化和政治控制主导权的空间机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,8 @@ related_concepts:
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Orientalism]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[Walter Mignolo]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-06-08
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 
 # Re-Westernisation
@@ -134,5 +135,5 @@ updated: 2026-07-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 深入探讨了后冷战时代比较教育中去殖民学者对再西方化认识型、多边数据[[Disciplina and Doctrina|规训]]和“[[Banal Imperialism|平庸帝国主义]]”的宏观批判。

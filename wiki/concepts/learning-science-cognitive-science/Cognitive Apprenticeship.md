@@ -6,7 +6,7 @@ aliases:
 summary: "学习科学中的经典教学范式，通过示范、辅导、支架、阐明、反思与探索六大方法将专家的隐性认知与问题解决过程外显化，使新手逐步获得高阶思维能力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Cognitive Apprenticeship
@@ -114,5 +115,5 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，证实真实任务、[[Dialogue in Education|对话]]研讨与导师示范三维协同对[[Critical Thinking|批判性思维]]技能的最强促进效应（$g+ = 0.57$）。

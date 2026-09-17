@@ -9,7 +9,7 @@ summary: "通过识别行动者、关系、节点和连接来测量社会关系�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Qualitative Interview]]"
   - "[[Triangulation]]"
+  - "[[Correlational Research]]"
   - "[[Participant Observation]]"
 related_instruments: []
 related_persons: []
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Network Analysis
@@ -188,7 +189,7 @@ updated: 2026-09-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 系统梳理社会网络分析的方法论源流、五大分析维度、七大关系类型学及矩阵图形展示技术。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 运用[[Participant Observation|参与观察]]与网络分析方法，深入剖析欧洲 23 国 36 家机构构成的 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国教育[[Knowledge Mediation|知识中介]]网络，提炼元中介协同维系机制与制度张力。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 其基线[[Questionnaire|问卷]]从属于更大规模的社会网络分析设计，研究团队因此掌握每所学校教师与[[School Leadership|学校领导]]者的姓名与确切人数，得以逐校计算个体应答率。

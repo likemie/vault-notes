@@ -6,7 +6,7 @@ aliases:
 summary: "一种主张将认识论从先验哲学转向利用心理学和认知科学的实证方法，研究人类实际信念生成机制与社会实践的哲学转向。"
 type: concept
 domain: "educational-psychology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,8 @@ related_concepts:
 related_theories:
   - "[[Reliabilism]]"
   - "[[Expanded Framework of Epistemic Cognition]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[René Descartes]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-09-17
 ---
 
 # Epistemological Naturalism
@@ -141,6 +142,6 @@ updated: 2026-08-18
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 明确指出[[Epistemology|认识论]]自然主义的兴起是教育学提出“[[Expanded Framework of Epistemic Cognition|扩展的认识论认知框架]]”的最重要哲学基础，合法化了对多维[[Causal Processes|因果过程]]的探究。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将自然化转向列为催生当代[[Epistemic Cognition|认识论认知]]研究的多学科源流之一，打破了早期个人认识论研究单纯受[[Jean Piaget|皮亚杰]]发展阶段论影响的狭隘视角。

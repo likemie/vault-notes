@@ -8,7 +8,7 @@ aliases:
 summary: "由教育实践者在教学现场生成的细粒度、情境化知识与微观过程数据，作为对抗实验主义认识论霸权的合法证据形态，为教师专业学习与教学形成性改进提供关键支撑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Systematic Review]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Donald A. Schön]]"
   - "[[Anthony Bryk]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-08-26"
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Practice-Based Evidence
@@ -287,7 +288,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 在“谁的证据算数”讨论中确立 PBE 的合法地位，实证揭示教师获取信息对实践证据与同行网络的压倒性信赖。
 > - [[Argument_Peterson_2016_IJRME|Peterson (2016)]] — 探讨[[Mechanism Experiments|机制实验]]与 Bryk [[Improvement Science|改进科学]]的系统整合，构建连接实验室因果机制与现场 PBE 的双向反馈模型。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 批判 [[Education Endowment Foundation|EEF]] 工具包去情境化[[Effect Size|效应量]]排行，倡导依托网络化共同体沉淀实践本位证据。

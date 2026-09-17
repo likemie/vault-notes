@@ -11,7 +11,7 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从行动者内部视角理解主观意义、生活世界与情境独特性，以归纳、扎根与自然主义方式整体把握人类意向行动。"
 type: concept
 domain: "educational-philosophy"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Open Coding]]"
   - "[[Axial Coding]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Harold Garfinkel]]"
   - "[[George Herbert Mead]]"
@@ -86,7 +87,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Interpretive Paradigm
@@ -247,6 +248,6 @@ updated: 2026-09-11
 > | [[Emic and Etic]] | 概念 | 确立主位进路（Emic）作为捕捉内部行动者真实视角的关键方法论准则。 |
 > | [[Indexicality]] | 概念 | 揭示社会话语与行为意义对特定时空与历时性交往历史的不可剥离附着性。 |
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 15)]] — 全景奠定诠释范式与规范性范式的哲学对照、Burrell & Morgan 四维框架、三大理论传统、教室草莓事件（Box 1.5）与四重批判。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11, p. 402)]] — 详尽展开自然主义探究的 11 项操作公理、emic/etic 区分、概括性重释以及 Woods 与 Dobbert 的范式辩证。

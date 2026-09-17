@@ -10,7 +10,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
+  - "[[Advanced Placement Program]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-09-17
 ---
 
 # International School of Geneva
@@ -62,7 +63,7 @@ Ecolint 的历史作用来自学校日常问题与跨国制度建设的持续连
 > [!chain-link] 国家资格并行如何产生共同考试需求
 > - **升学出口分别绑定国家体系** 战间期的法国、英国、美国、德国和意大利侨民学校能够沿各自国家课程进入大学，跨国共同考试缺少现实需求。
 > - **大学录取竞争加剧** 1945 年后，高等教育扩大与入学竞争增强，学生必须按照目标大学所在国的课程和考试要求进行精确准备。
-> - **同一学科被拆成多套课程** Ecolint 的高级物理学生分别准备瑞士联邦成熟证书、英国普通教育证书高级程度考试、法国业士文凭和美国大学先修课程考试。
+> - **同一学科被拆成多套课程** Ecolint 的高级物理学生分别准备瑞士联邦成熟证书、英国普通教育证书高级程度考试、法国业士文凭和美国[[Advanced Placement Program|大学先修课程]]考试。
 > - **学校共同体受到分割** 四套小班同时消耗师资与课时，并把学生重新分入国家群体，较小国籍群体只能自行适应。
 > - **共同资格成为实践需要** 一套能够跨国获得大学承认的课程与考试，可以减少重复教学，同时维护[[International Schools|国际学校]]共同学习的制度目标。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–17, 21–22)]]
 

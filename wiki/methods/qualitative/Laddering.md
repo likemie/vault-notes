@@ -7,7 +7,7 @@ summary: "从给定构念的偏好极点出发反复追问为什么、逐级追�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Repertory Grid Technique]]"
   - "[[Pyramiding]]"
+  - "[[Correlational Research]]"
 related_concepts:
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-09-17
 ---
 
 # Laddering
@@ -129,6 +130,6 @@ updated: 2026-08-01
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — Crudge & Johnson（2007）用阶梯法确定网络搜索引擎[[Construct|构念]]在用户心智模型中重要的原因，识别出三层构念结构。（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 15]]）
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — Voss 等（2007）用个人访谈与阶梯[[Questionnaire|问卷]]识别商业管理学生期望的讲师品质，发现访谈产生的阶梯结构更复杂。（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 15]]）

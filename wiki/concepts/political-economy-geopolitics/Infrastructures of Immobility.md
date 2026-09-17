@@ -8,7 +8,7 @@ aliases:
 summary: "起源于移民研究、由克莱伯特（J. Kleibert）引入跨境高等教育领域的概念，指制度性与空间性因素协同运作以引导、规训与筛选跨境流动的复合机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,8 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-09-17
 ---
 
 # Infrastructures of Immobility
@@ -79,5 +80,5 @@ updated: 2026-06-29
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 在学术流动的论证步骤（论证步骤五）中引入流动基础设施概念分析制度性筛选机制，结合加拿大和英国案例揭示高校如何被卷入日常边境治理。

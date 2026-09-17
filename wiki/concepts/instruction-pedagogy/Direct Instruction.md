@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -51,6 +51,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -214,7 +215,7 @@ updated: 2026-09-17
 > > [!axis] 短期学业提分 vs 长期[[Creativity|创造力]]与好奇心损失
 > > 探讨高结构化直接教学是否存在不可忽视的非认知隐性代价。
 > >
-> > - **实证反思（Zhao, 2017）** 揭示强效直接教学在基础技能高分的同时，往往伴随着冒险精神、不确定性耐受力与好奇心的系统性抑制。
+> > - **实证反思（[[Argument_Zhao_2017_JEC|Zhao, 2017]]）** 揭示强效直接教学在基础技能高分的同时，往往伴随着冒险精神、不确定性耐受力与好奇心的系统性抑制。
 
 > [!warning] 适用局限
 > - **[[Procedural Skill|程序性技能]]适用，发散性探究受限** 在良构知识、计算规则与初学者入门阶段效能极高，但在艺术创作、哲学思辨与开放性科研探究中边际收益递减。
@@ -252,7 +253,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 评估独立直接教学与[[Infusion Approach|学科融入模式]]在[[Critical Thinking|批判性思维]]培养中的相对效应，揭示显性混合模式的最优性。
 > - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 从教育副作用视角深度反思直接教学与 Hattie [[Effect Size|效应量]]崇拜背后的生态代价。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对比英美[[Positivism|实证主义]]直接教学论与欧陆经典教学论（[[Didaktik]]）的[[Paradigm|范式]]差异。

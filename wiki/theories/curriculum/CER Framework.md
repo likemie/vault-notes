@@ -6,7 +6,7 @@ aliases:
 summary: "Katherine McNeill 与 Joseph Krajcik 提出的科学论证教学与评估框架，将科学解释解构为主张、证据与推理三个核心部件，是基础教育中广泛应用的学习进阶支架。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 19
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
+  - "[[Learning Progression]]"
   - "[[Metacognition]]"
   - "[[Growth]]"
   - "[[Epistemic Stances]]"
@@ -34,6 +35,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Qualitative Observation]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Clark A. Chinn]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # CER Framework
@@ -77,7 +79,7 @@ updated: 2026-09-10
 > | 主张（Claim） | 概念 | 对特定[[Research Question\|研究问题]]、现象或调查给出的陈述性结论或答案。 |
 > | 证据（Evidence） | 概念 | 用于支持主张的经验材料，包括定量测量数据、[[Qualitative Observation\|质性观察]]事实或实验记录。 |
 > | 推理（Reasoning） | 机制 | 连接证据与主张的科学合理解释，阐明为什么该数据能够证明该结论（通常援引既有科学原理或因果法则）。 |
-> | 反驳（Rebuttal，进阶构件） | 概念 | 在高年级或进阶学习进阶中加入，用于说明备选主张为何不成立或自身主张的边界条件。 |
+> | 反驳（Rebuttal，进阶构件） | 概念 | 在高年级或进阶[[Learning Progression\|学习进阶]]中加入，用于说明备选主张为何不成立或自身主张的边界条件。 |
 
 ---
 
@@ -138,5 +140,5 @@ updated: 2026-09-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 批判以 CER 框架和 [[Toulmin's Argumentation Model|TAP]] 为代表的结构主义评价传统，揭示其对伪科学论证的盲区，提出基于 [[AIR Model of Epistemic Cognition|AIR]] 模型统合[[Epistemic Ideals|认识论理想]]与可靠认识过程的实质论证评价框架。

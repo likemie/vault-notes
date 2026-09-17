@@ -6,10 +6,10 @@ aliases:
 summary: "RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - rct
 - causal-inference
@@ -32,6 +32,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: 2026-09-17
 ---
 
 ## 核心主张
@@ -100,7 +101,7 @@ updated: '2026-05-18'
 
 ## 相关研究
 
-> [!example] 相关研究
+> [!example] [[Correlational Research|相关研究]]
 > - [[Argument_Cowen_2015_CHESS]] — 以三阶段框架为核心理论框架，通过教师访谈验证外推问题的实践表现
 
 ## 应用领域

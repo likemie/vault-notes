@@ -11,7 +11,7 @@ summary: "在教育干预试验与复杂项目评价中与量化成效评估并�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 46
+method_related_count: 47
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -65,6 +65,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Sample Size Determination]]"
   - "[[Random Assignment]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[TIDieR]]"
 related_persons: []
@@ -185,5 +186,5 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 系统回顾了英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）在 [[Randomised Controlled Trials|RCT]] 中引入并规范化实施与过程评估（IPE）的方法学历程。指出早期试验因缺乏 IPE 陷入无法解释因果机制与实施细节的困境（当时全英仅 38% 教育试验包含过程评估）；进而通过委托曼彻斯特大学综述并发布 IPE 评估指南（EEF, 2019b），确立了理论检验、影响与 IPE 整合、依从性预先测量及 [[TIDieR]] 规程等行业标准规范。

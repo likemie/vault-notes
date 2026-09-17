@@ -9,7 +9,7 @@ aliases:
 summary: "由 Lev Vygotsky 提出的发展与教学核心构念，指儿童独立解决问题的现有发展水平与在成人指导或更有能力的同伴协作下的潜在发展水平之间的动态差距，是动态评估、脚手架教学与自适应教育智能体的理论基础。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Prediction Interval]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jean Piaget]]"
   - "[[Lev Vygotsky]]"
@@ -190,7 +191,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 将 AI [[AI Agent in Education|智能体]][[Operationalization|操作化]]为基础教育（K-12）学生的外部[[Scaffolding|认知脚手架]]，论证其在最近发展区内自适应微提示对[[Procedural Skill|程序技能]]与[[Higher-Order Thinking Skills|高阶思维]]的赋能机制（pp. 2, 9–10）。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 阐述导师在学徒制与认知脚手架中如何在最近发展区内示范专家思维、提供反思线索以促进[[Critical Thinking|批判性思维]]（pp. 287–288）。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 梳理[[Lev Vygotsky|维果茨基]]社会文化理论在中西教育比较中的发展，阐述 ZPD 与社会互动育人机制（p. 590）。

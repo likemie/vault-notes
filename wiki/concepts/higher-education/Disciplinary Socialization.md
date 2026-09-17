@@ -8,7 +8,7 @@ aliases:
 summary: "高等教育中的认知涵化机制，指大学生在进入特定院系专业后，逐步内化该学科独特的认识论范式、话语体系、思维习惯与价值规范的过程，与入学前的自我选择效应共同驱动学科间的认知分化。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-17
 ---
 
 # Disciplinary Socialization
@@ -158,5 +159,5 @@ updated: 2026-08-19
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 大规模纵向[[Cohort Study|面板研究]]，证实大学工科与商科环境显著强化确定性信念，而人文与社科环境显著解构确定性信念，确立学科社会化的独立因果效应。

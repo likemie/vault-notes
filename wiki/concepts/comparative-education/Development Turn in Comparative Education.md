@@ -7,7 +7,7 @@ aliases:
 summary: "Gita Gita Steiner-Khamsi (2006)提出的概念，指二战后领土帝国崩溃、冷战超级大国争夺新独立国家背景下，比较教育的资金、焦点和方法系统性转向发展中国家教育的过程。在冷战地缘博弈和科学主义的合谋下，该转向将教育规划重构为经济投资，并在后冷战时期演变为新自由主义全球治理下的“最佳实践”输出机制。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,7 +34,8 @@ related_theories:
   - "[[Dependency Theory]]"
   - "[[Governing at a Distance]]"
   - "[[Wight's Three Traditions of International Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[World Bank]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Development Turn in Comparative Education
@@ -174,5 +175,5 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 系统探讨了 Wight 的三大[[Wight's Three Traditions of International Theory|国际关系理论]]如何折射于比较教育的学科历史中，将“发展转向”定位为冷战时期[[Realism in International Relations|现实主义]]地缘竞争以及后冷战时期新自由主义全球化话语统治的关键知识载体。

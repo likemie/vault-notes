@@ -8,7 +8,7 @@ aliases:
 summary: "将社会理解为由自创生沟通构成的多重功能分化系统，严格区分社会系统与个体心理系统，以操作封闭、结构耦合与盲点机制揭示观察界限与自适应生态演化。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-04'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Luhmann's Systems Theory
@@ -198,7 +199,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Larsen_2019_EducSci|Larsen (2019)]]** 运用盲点（Blinder Fleck）与社会-心理系统[[Incommensurability|不可通约性]]，对 [[Visible Learning]] [[Paradigm|范式]]进行深刻的[[Epistemology|认识论]]哲学批判。
 > - **[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]** 运用[[Structural Coupling|结构耦合]]与解释社群概念为[[Evidence-Based Education|循证教育]]辩护，论证外部实证数据如何通过教师[[Professional Judgment|专业判断]]转化为实践扰动。
 > - **[[Argument_Torres_2022_KMModels|Torres (2022)]]** 将系统论与复杂自适应系统（CAS）并置，作为第三代自组织[[Evidence Ecosystem|证据生态系统]]的元理论分析支柱。

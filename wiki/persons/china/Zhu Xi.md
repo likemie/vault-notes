@@ -8,7 +8,7 @@ summary: "南宋理学家，程朱理学集大成者。编纂四书并将其确�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,7 +31,8 @@ related_concepts:
 related_theories:
   - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Confucius]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Zhu Xi
@@ -123,7 +124,7 @@ updated: 2026-09-11
 > - **政策与课程路径** — 当代国家教科书将朱熹及其四书集注作为“中华文明理学高峰”进行官方正统化讲授[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 65)]]。
 > - **跨文化反思路径** — de Bary 等学者将其解释为“个体是自我决定的道德能动者”[[Argument_Li_2012_Cambridge|(Li, 2012, p. 46)]]；然而在当代实证研究中，少数民族与信教学生反思指出，朱熹式理学给人们施加了过度的“道德束缚”（moral constraints），且缺乏对生死起源等灵性领域的终极安顿[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 70)]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 分析朱熹的四书编纂、格物致知与[[The Great Learning|八条目]]框架对东亚学习模型的系统化贡献。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 揭示朱熹理学在当代教科书中的[[Official Knowledge|官方知识]]定位，以及信教学生从佛教与伊斯兰教视角对其“道德束缚”与“灵性缺失”的批判解构。
 

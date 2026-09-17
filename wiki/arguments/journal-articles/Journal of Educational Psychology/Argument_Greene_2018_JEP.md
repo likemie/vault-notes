@@ -72,6 +72,7 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Fail-Safe N]]"
   - "[[Confidence Interval]]"
+  - "[[Correlational Research]]"
   - "[[Meta-regression]]"
   - "[[Sample Size Determination]]"
   - "[[Internal Consistency]]"
@@ -92,7 +93,7 @@ title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -393,7 +394,7 @@ issuing_organization: ""
 >   - **驱动概念转变（Conceptual Change）** 科学与人文学科的核心概念往往反直觉（如牛顿力学、进化论、历史相对性）。持有静态简单知识观的学生倾向于将新信息曲解并塞入旧经验中或直接排斥；只有具备高阶知识演化观与反思意识的学生，才愿意经历认知失衡，推翻旧图式并实现深层概念重构。
 >   - **赋能多源证据协调与批判性论证（Argumentation）** 论证的本质是处理不确定性（Uncertainty）与学术争议。当面对互斥的信息源时，朴素者容易滑向盲信权威或虚无主义的“人人皆有理”；成熟的认识论认知（如评价主义、多源证成）则为学生提供了**确证规则（[[Justificatory Standards|Justificatory Standards]]）**，驱动他们比较证据权重、识别论证漏洞、评估作者立场与方法可靠性。
 > - **机制三：因果边界与双向互惠演进模型（Reciprocal Model）**
->   - *实证推断边界*：本元分析纳入的绝大多数为一级相关研究，不能直接得出“单向绝对因果”结论。（p. 1103）
+>   - *实证推断边界*：本元分析纳入的绝大多数为一级[[Correlational Research|相关研究]]，不能直接得出“单向绝对因果”结论。（p. 1103）
 >   - *双向互惠机制*：认识论认知与高阶思维并非单向决定，而是呈现**螺旋互惠演进**
 >     1. **赋能路径（认识论认知 → 高阶思维）** 成熟认识论信念自发驱动学生调动[[Surface and Deep Learning|深层学习]]策略（Deep Learning Strategies），从而在高阶任务中取得卓越表现；
 >     2. **塑造路径（高阶思维实践 → 认识论认知）** 课堂中开放式探究、辩论和劣构问题（Ill-structured problems）的解决实践，制造了持续的认知冲突，打破了学生的二元论平衡，迫使其在“做中学”（Inquiry-in-practice），最终反哺了认识论认知向更高阶段成熟（正如 Perry 图式 所揭示的大学涵化机制）。

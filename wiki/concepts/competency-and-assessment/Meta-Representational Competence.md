@@ -7,7 +7,7 @@ aliases:
 summary: "学习者生成、评估、修改、发明和跨通道转译外部表征形式（图表、符号、概念图）的高阶元认知能力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Meta-Representational Competence
@@ -123,5 +124,5 @@ flowchart TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 引入元表征能力[[Construct|构念]]解释中学生在[[Graphic Organizer|图形组织器]]干预下表现出显著高于其他学段的促学收益峰值。

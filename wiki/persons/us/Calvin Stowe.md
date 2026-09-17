@@ -13,7 +13,7 @@ summary: "19世纪北美圣经学者与教育改革家，受俄亥俄州议会�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Horace Mann]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Calvin Stowe
@@ -127,7 +128,7 @@ updated: 2026-09-11
 > - **方法与学科路径** 斯托的欧洲调查确立了美国早期[[Auslandspadagogik|外国教育学]]的调查规范：由民选立法机关授权官方调研，以详实的描述性记述（学校分布、师资待遇、课表与教学法）反哺本土法案设计，构成了从旅行见闻走向行政调查的过渡桥梁。
 > - **跨国思想[[Transfer Translation Transformation|转译]]** 斯托成功破除了美国公众对“借用欧洲专制君主国教育经验会腐蚀美利坚自由共和精神”的狭隘偏见，将普鲁士公学的技术卓越性（师范专业化、直观教学法与国民道德感）与政治专制外壳剥离开来，开创了美国借用欧陆经验的[[Pragmatic Paradigm|实用主义]]修辞传统。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 将斯托与曼、巴纳德并列，系统论证其如何代表美国 19 世纪前期的“政策导向与行政[[Educational Meliorism|改良主义]]母题”，将外国经验转化为推进各州公学法案的政治合法化依据。
 
 ---

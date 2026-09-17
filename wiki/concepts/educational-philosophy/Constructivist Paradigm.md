@@ -12,7 +12,7 @@ aliases:
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "educational-philosophy"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -71,9 +71,11 @@ related_methods:
   - "[[Constructivist Grounded Theory]]"
   - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Confucius]]"
 related_facts:
+  - "[[Teacher Choices]]"
   - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -88,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-30'
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Constructivist Paradigm
 
@@ -183,7 +185,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 ### 命题二　学生的学习活动连接教学条件与概念改变
 
 > [!concept-lens] 从学习理论到课程系统
-> 建构主义把学习质量的直接解释对象从教师讲了什么转向学生如何处理内容。课程仍然需要教师选择值得理解的知识，并通过目标、活动和评估形成稳定条件。
+> 建构主义把学习质量的直接解释对象从教师讲了什么转向学生如何处理内容。课程仍然需要[[Teacher Choices|教师选择]]值得理解的知识，并通过目标、活动和评估形成稳定条件。
 
 > [!claim] [[Argument_Biggs_1999_HERD|Biggs (1999)]]
 > **活动是理解变化的中介**　学生通过组织事实、提出关系、应用概念和检验解释来改变理解。教师若只增加信息或展示技巧，无法保证学生开展这些活动。[[Constructive Alignment|建构性对齐]]把预期的理解写入课程目标，把相应活动放入教学，再由评估要求学生实际完成这些活动，从而使概念改变成为可设计、可观察的课程过程。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 60–65)]]
@@ -266,7 +268,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 1)]]　界定建构主义世界观，并说明它如何引导开放提问、情境理解、归纳分析与研究者解释。
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]]　把建构主义学习观转化为三级教学观、概念改变条件和[[Constructive Alignment|建构性对齐]]。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]　揭示建构主义教学理念与中国启发式[[Dialogue in Education|对话]]传统的[[Selective Affinity|选择性亲和]]，以及考试制度设置的改变边界。

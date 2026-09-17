@@ -5,7 +5,7 @@ summary: "质性研究中将研究者的假设和解释带回参与者征求意�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -21,12 +21,13 @@ related_methods:
   - "[[Ethogenic Approach]]"
   - "[[Cross-checking]]"
   - "[[Accounts]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-09-17
 ---
 # Member Tests
 
@@ -86,5 +87,5 @@ updated: 2026-07-23
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）将成员核验作为陈述分析的两项安全措施之一；Blease & Cohen（1990）展示了成员核验的具体操作：将访谈数据的解释带回参与教师征求意见，以及与学生讨论自我概念量表得分。

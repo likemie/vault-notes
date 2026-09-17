@@ -9,7 +9,7 @@ summary: "真实验设计的变体，先将受试者按关键变量配对，再�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -32,11 +32,12 @@ related_methods:
   - "[[Matching]]"
   - "[[Experimental Research]]"
   - "[[Repeated Measures Design]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-12
-updated: 2026-07-13
+updated: 2026-09-17
 ---
 # Matched Pairs Design
 
@@ -127,5 +128,5 @@ Mitchell & Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍配对设计的逻辑、Borg & Gall (1979) 五步操作程序、配对精度的权衡、Mitchell & Jolley (1988) 三问题检验，以及 Smith (1991) 对配对 vs [[Random Assignment|随机化]]的对比。

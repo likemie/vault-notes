@@ -4,7 +4,7 @@ aliases: [决定论, 因果决定论, deterministic assumption, causal determini
 summary: "关于宇宙与人类行为根本特性的本体论假设，主张任何事件与行为均由先前条件与客观规律所决定，反对任性与偶然性，构成经典自然科学与实证主义探究的基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,12 +42,13 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Accounts]]"
   - "[[Causal Modeling]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Keith Morrison]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Determinism
@@ -189,7 +190,7 @@ updated: 2026-09-11
 
 ## 实证数据
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 8, 15, 29–31)]] — 系统论述决定论作为科学第一[[Hypothesis|假设]]、Burrell & Morgan 人性维度木偶模型，以及[[Complexity Theory|复杂性理论]]对线性决定论的超越。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨实验控制、因果设计以及在质性探究中对决定论视角的反思。
 

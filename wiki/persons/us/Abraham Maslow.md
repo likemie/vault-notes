@@ -9,7 +9,7 @@ summary: "美国心理学家，人本主义心理学主要奠基人，曾任美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -39,7 +39,8 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Empiricism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Carl Rogers]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Abraham Maslow
@@ -107,7 +108,7 @@ updated: 2026-09-11
 > - **教育研究路径** 深刻启发了教育研究者重新审视教育探究的目的：教育研究不仅是测量学生分数的手段，更是促进全人[[Growth|成长]]、理解人性尊严与释放创造潜能的人本实践。
 > - **心理学[[Paradigm|范式]]路径** 开辟了第三势力心理学，直接推动积极心理学与人本主义教育学的蓬勃兴起。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 专门复刻 Box 1.1 马斯洛科学九大功能，作为打破实证主义狭隘技术主义的经典论据。
 
 ---

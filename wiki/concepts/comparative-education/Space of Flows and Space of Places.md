@@ -9,10 +9,10 @@ aliases:
 summary: "Castells 提出的空间二分法，将社会空间区分为无需领土毗连的流动空间和附着于领土的地方空间，为分析全球教育话语的跨空间流通与转化提供了空间分析基础"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/comparative-education
   - theme/global-education-governance
@@ -37,6 +37,7 @@ related_theories:
   - "[[Network Society]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Manuel Castells]]"
 related_facts:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-06-24
+updated: 2026-09-17
 ---
 
 # Space of Flows and Space of Places
@@ -202,6 +203,6 @@ updated: 2026-06-24
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 经典应用，通过追踪拉美（阿根廷、巴西和玻利维亚）的课程改革，展示了“能力”和“多样性”如何从流动空间的去历史能指，转化为学校实践中的“概念混乱”与“尊重贫困”。
 > - [[Educated Identity|受教育身份]] (Educated Identity) — 关联条目，探讨在全球流动空间中被重新定义的“信息时代受教育身份”，如何在地方空间中被本土经验中介和改变。

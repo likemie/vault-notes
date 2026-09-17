@@ -6,7 +6,7 @@ aliases:
 summary: "Christian Ydesen (2019) 提出的概念，指由五大政府间组织、主权国家、跨国企业与私人慈善基金会构成的治理网络，通过标准化与可量化知识施展硬事实软权力。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Global Education Governing Complex
@@ -223,5 +224,5 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理全球教育治理复合体的历史成因与当代运作，剖析五大组织[[Soft Power by Hard Facts|以硬事实施展软权力]]的结构性机制。

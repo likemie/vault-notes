@@ -5,9 +5,9 @@ summary: "Moreno发展的社会关系强度测量方法，通过社会图呈现�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags: [method/quantitative, data-collection, theme/social-relations]
 related_concepts:
@@ -18,12 +18,13 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Network Analysis]]"
   - "[[Accounts]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-09-17
 ---
 # Sociometry
 
@@ -92,5 +93,5 @@ updated: 2026-07-23
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将社会计量学作为[[Network Analysis|网络分析]]的早期基础介绍，包括Moreno的明星、对偶、三人组、幽灵、孤立者和链等核心概念，以及社会图的基本展示方式。

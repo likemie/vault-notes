@@ -8,10 +8,10 @@ aliases:
 summary: "约翰·杜威进步主义教育哲学的核心概念，认为一切真正的教育均源于经验，并通过连续性（Continuity）与交互作用（Interaction）双重原则判定经验的教育价值。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/educational-philosophy
   - theme/active-learning
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Active Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-09-17
 ---
 
 # Experiential Learning
@@ -73,5 +74,5 @@ updated: 2026-07-26
 > | [[Learning by Doing]] | 概念 | 经验学习的具体教学操作体现。 |
 > | [[Growth]] | 概念 | 连续性与[[Interaction Effect\|交互作用]]所指向的教育终极目标。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细分析杜威《经验与教育》中的连续性与交互作用原则及其在[[Active Learning|主动学习]]中的地位。

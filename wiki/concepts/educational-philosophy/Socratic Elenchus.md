@@ -11,7 +11,7 @@ aliases:
 summary: "由苏格拉底与柏拉图提出的哲学交锋与交叉反诘方法，通过连续提问揭示既有信念中的内在矛盾，为真理探求与辩证法清理土壤。"
 type: concept
 domain: "educational-philosophy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,7 +40,8 @@ related_concepts:
   - "[[Conscientization]]"
   - "[[Socratic Tutoring Style]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Socratic Elenchus
@@ -174,6 +175,6 @@ updated: 2026-08-25
 > | [[Banking Model of Education]] | 概念 | 驳诘法自下而上的探究是对储蓄式单向存入的彻底否定。 |
 > | [[Socratic Tutoring Style]] | 概念 | 驳诘法在现代教学论中的应用形态。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 拆解《申辩篇》《美诺篇》《理想国》中的驳诘法及其阶级局限。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 分析《优绪弗洛》对话中的 7 轮反诘及其跨文化比较。

@@ -8,7 +8,7 @@ aliases:
 summary: "教师在教育教学实践中所依托的多元复合知识体系，涵盖学科知识、学科教学知识、实践智慧、学情认知与育人伦理，强调在情境中对多源知识进行动态整合与审慎裁决"
 type: concept
 domain: "teacher-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Critical Review]]"
   - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Slavin_2002_ER]]"
@@ -49,7 +50,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-17
 ---
 
 # Teacher Knowledge Base
@@ -183,5 +184,5 @@ updated: 2026-08-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 在[[Critical Review|批判性综述]]中系统引入教师知识库理论，主张将研究重心从测量教师个体能力转向探索微观教学中多源知识整合的机制与要求。

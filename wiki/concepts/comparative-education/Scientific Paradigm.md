@@ -8,10 +8,10 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/comparative-education
   - paradigm/scientific
@@ -58,6 +58,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Thomas Kuhn]]"
   - "[[C. Arnold Anderson]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Scientific Paradigm
@@ -253,7 +254,7 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 全景式考据比较教育学科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的争论、其实用政策结盟机制以及走向解体的深层[[Epistemology|认识论]]原因。
 > - Bereday (1964) — 提出描述、解释、并置、比较的四步操作程序，充当从古典历史向实证科学转型的关键过渡桥梁。
 > - Anderson (1961) — 奠定芝加哥学派结构功能主义立足点，主张探索社会系统超越时空的恒常不变关系。

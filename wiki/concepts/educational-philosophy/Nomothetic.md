@@ -8,7 +8,7 @@ aliases:
 summary: "以发现普遍法则为目标的方法论取向：聚焦分析选定因素之间的关系与规律性，以量化为主，是量化研究的方法论根基，与个例式相对"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Nomothetic
@@ -80,5 +81,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐释通则式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan [[Hypothesis|假设]]推导链的方法论终点（Ch. 1），并在质性分析中阐明通过跨案例模式、主题共性与规律性提炼实现通则化分析的路径（Ch. 28）。

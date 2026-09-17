@@ -8,7 +8,7 @@ aliases:
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 50
+theory_related_count: 51
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Agent-based Modelling]]"
   - "[[Network Analysis]]"
   - "[[Ethnography]]"
+  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
 related_persons:
   - "[[Stuart Kauffman]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Complexity Theory
@@ -285,7 +286,7 @@ updated: 2026-09-14
 > | [[Teaching and Learning Research Initiative]] | 项目事实 | 新西兰科研伙伴项目，体现了微观行动者之间基于伙伴关系的自组织共创与自适应演进。 |
 > | [[Typology of Factors Influencing Research Use]] | [[Analytic Framework\|分析框架]] | Torres 基于复杂性思维整合的跨情境五维机制与障壁诊断框架。 |
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 确立复杂性理论作为超越实证与诠释的新兴[[Paradigm|范式]]，阐述 CAS 五大机制、受控实验四大解构与 Kuhn 五大公理。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch. 16, p. 319)]] — 深入反思[[Experimental Research|实验研究]]在开放教育情境中的因果局限与[[Variable|变量]]控制悖论。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18, p. 278)]] — 系统论证行动研究与复杂性理论的九重深层学理共鸣。

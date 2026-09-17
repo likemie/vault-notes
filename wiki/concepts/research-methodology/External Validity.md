@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 62
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Interpretive Paradigm]]"
   - "[[Research Utilization]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Heterogeneity]]"
   - "[[Hawthorne Effect]]"
   - "[[Interaction Effect]]"
   - "[[Champ]]"
@@ -44,7 +47,6 @@ related_concepts:
   - "[[Evaluative Validity]]"
   - "[[School Choice]]"
   - "[[Attrition]]"
-  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Qualitative Research]]"
@@ -70,6 +72,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Ginsberg_2024_EP]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 related_facts:
@@ -84,7 +87,7 @@ related_persons:
   - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 # External Validity
 
@@ -160,7 +163,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 > 探讨内部因果有效性与[[Internal and External Generalizability|外部推广性]]之间的逻辑顺位与张力。
 
 > [!claim] Pilliner, A.
-> **内部因果成立是推广的逻辑前置条件** Pilliner (1973) 指出[[Internal Validity|内部效度]]与外部效度存在根本的不对称关系：没有内部效度，实验就不可能具备外部效度；但一个内部有效的实验，未必具备外部效度。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 进一步强调，在实验室或人工严密受控条件下消除混淆[[Variable|变量]]固然最大化了内部因果确证，但这种人为封闭系统恰恰破坏了自然复杂情境中的生态常态，形成内部效度与外部效度的经典权衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, p. 168)]]；[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+> **内部因果成立是推广的逻辑前置条件** Pilliner (1973) 指出[[Internal Validity|内部效度]]与外部效度存在根本的不对称关系：没有内部效度，实验就不可能具备外部效度；但一个内部有效的实验，未必具备外部效度。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] 进一步强调，在实验室或人工严密受控条件下消除混淆[[Variable|变量]]固然最大化了内部因果确证，但这种人为封闭系统恰恰破坏了自然复杂情境中的生态常态，形成内部效度与外部效度的经典权衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, p. 168)]]
 
 ---
 
@@ -194,6 +197,16 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 
 ---
 
+### 命题五　行政采办中的情境迁移衰减与跨学段降维推断严重侵蚀外部推广效度
+
+> [!concept-lens] 政策执行生态下的因果结论外推异化
+> 探讨当法定循证要求进入地方教育采办场景时，证据结论如何在目标群体与学段错配中发生效度瓦解。
+
+> [!claim] [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]]
+> **微观情境过度特异与学段供给空白诱发虚假外部概化** 在[[Evidence-Based Education|循证教育]]政策落地中，教育干预的外部效度面临双重体制性破坏：其一是**证据情境迁移衰减（Transferability Decay）**，严格受控因果试验往往依托高度同质且狭窄的微观样本（如特定年级伴有特定障碍的儿童群体），其实施成效与干预人员的专门指导深度绑定，无法被自然外推至常规学校的全样本、其他学科或高低学段；其二是**跨学段降维推断（Cross-Grade Downgraded Inferences）**，当[[Educational Evidence Clearinghouses|证据清算中心]]在某些学段面临严重的实证研究供给空白时，行政管理人员为满足法定合规要求，往往援引中学阶段的因果研究为小学阶段的同类采购提供依据，将未经验证的[[Heterogeneity|异质性]][[Hypothesis|假设]]当作既定事实。这种在政策问责压力下发生的证据外推异化，实质上架空了因果实验所追求的外部概化保障。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, pp. 177–178)]]
+
+---
+
 ## 外部效度威胁全景矩阵
 
 Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立了量化经典框架，Creswell & Guetterman (2018) 将其重组为三种交互威胁；Lincoln & Guba (1985) 与 Onwuegbuzie & Leech (2006b) 建立了质性与自然主义威胁框架。详细威胁清单与应对见 [[Threats to External Validity|外部效度威胁]]。
@@ -213,6 +226,8 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > | **Creswell** | 选择 × 处理交互 | 受试者特征范围过窄（如仅限高动机自愿者）限制推广 |
 > | | 情境 × 处理交互 | 实验所在特殊学校环境（如特权资源学校）限制向薄弱校推广 |
 > | | 历史 × 处理交互 | 特定时空节点（如政策改革或疫情期）限制向其他历史时期推广 |
+> | **政策采办生态（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）** | 证据情境迁移衰减 | 针对极窄特殊亚群的因果有效性（如三年级数学障碍辅导）无法直接外推至常态全样本或其他学科 |
+> | | 跨学段降维推断 | 目标学段实证研究空白导致将初中/高中结论强行套用于小学采购的虚假概化 |
 
 > [!challenges] [[Survey Research|调查研究]]可推广性的三重独特威胁
 > - **无回应偏倚** Dale (2006, p. 148) 指出无回应者几乎总是与回应者不同，直接威胁调查的外部效度。低回应率（可低至 20–30%）意味着实现样本系统性偏离计划样本，导致无法确知发现能否推广到目标总体（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al., 2011, p. 265]]）。

@@ -7,7 +7,7 @@ summary: "美国人类学家，诠释人类学（interpretive anthropology）的
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Accounts]]"
   - "[[Field Notes]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-14
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Clifford Geertz
@@ -89,7 +90,7 @@ updated: 2026-09-11
 > - **理论路径** [[Rich and Thick Description|厚描述]]从诠释人类学进入教育研究与质性方法论，成为自然主义[[Paradigm|范式]]核心公理之一，也是支撑读者做[[Naturalistic Generalization|自然主义概括]]的写作标准。
 > - **方法路径** 文化作为文本的视角支持以诠释性、[[Reflexivity|反身性]]的方式分析访谈、观察与[[Field Notes|田野笔记]]；[[Ethnography|民族志]]描写的四个特征（诠释性的、诠释社会话语之流的、把所说从转瞬即逝中救出并固定下来、显微镜式的）成为质性描述的[[Analytic Framework|分析框架]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28)]] — 引用 Geertz（1973）说明厚描述如何增加而非减少数据的体积、密度与复杂性，并以其铭写社会话语与诠释即虚构的论述支撑质性数据分析的反身性与[[Double Hermeneutic|双重诠释]]论证。
 
 ---

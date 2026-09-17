@@ -7,7 +7,7 @@ aliases:
 summary: "杜威提出的哲学概念（对信念进行积极周密的审慎思考），后被心理学发展为个体在面对劣构问题时运用概率性辩护的高阶心智能力。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Active Learning]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-08-14
+updated: 2026-09-17
 ---
 
 # Reflective Thinking
@@ -112,6 +113,6 @@ updated: 2026-08-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统梳理了[[John Dewey|杜威]][[Reflexivity|反思性]]思维的 5 大步骤及其在[[Active Learning|主动学习]]模型中的实践应用。
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 梳理了反思性思维如何演变为衡量大学生“劣构问题辩护能力”的心理学发展模型。

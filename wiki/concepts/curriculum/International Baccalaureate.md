@@ -7,7 +7,7 @@ aliases:
 summary: "起源于国际学校共同课程与跨国升学需求的国际课程体系，通过学科组、核心组件和统一评估平衡通识教育、专业准备与国际理解。"
 type: concept
 domain: "curriculum"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -44,6 +44,7 @@ related_theories:
 related_methods:
   - "[[Random Sampling]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-17
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # International Baccalaureate
@@ -221,7 +222,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 系统记录 IB 的创生与制度化历程：涵盖六年试验期将课程、考试、行政与资格承认整合为常设国际资格的运行机制（Ch. 4）、沃特福德加入 [[United World Colleges|UWC]] 推动十一月考试季确立对全球考试周期的重构（Ch. 5），以及地方课程自主与教师培训怎样使 IB 转化为北美公立高中的改革工具（Ch. 6）。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 分析了 IB 在[[International Education|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 提供了澳大利亚 IB 毕业生在[[Critical Thinking|批判性思维]]和学术成就上的大规模量化实证数据。

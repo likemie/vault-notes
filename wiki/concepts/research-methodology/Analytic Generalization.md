@@ -7,7 +7,7 @@ aliases:
 summary: "个案研究中从案例到理论的推广逻辑——案例不是样本，推广通过理论与经验案例之间的逻辑连接而非统计推断实现"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,12 +25,13 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 # Analytic Generalization
 
@@ -90,5 +91,5 @@ updated: 2026-07-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材系统阐述了分析性推广与统计推广的区分，引述Yin（2009）的核心论断和Verschuren（2003）的低变异性论证，并梳理了推广的四种形式（pp. 288–289）

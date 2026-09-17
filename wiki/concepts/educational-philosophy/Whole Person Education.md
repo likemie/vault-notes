@@ -8,10 +8,10 @@ aliases:
 summary: "一种协调理解、行动与享受能力的完整发展理念，把智识学习与社会、道德、审美、身体和精神经验纳入共同教育目标。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [theme/whole-person-education, theme/educational-aims, level/upper-secondary]
 related_concepts:
   - "[[International Baccalaureate]]"
@@ -22,7 +22,8 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Extended Essay]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-17
 ---
 
 # Whole Person Education
@@ -163,6 +164,6 @@ updated: 2026-08-23
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 用理解、改变和享受环境三项目标回检[[International Baccalaureate|国际文凭]]课程，区分课程能够直接规定、间接促进和难以验证的全人发展结果。
 

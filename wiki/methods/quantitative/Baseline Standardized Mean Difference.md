@@ -10,9 +10,9 @@ summary: "用于量化实验与准实验研究干预前处理组与对照组初�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Effective Sample Size]]"
   - "[[Scale of Measurement]]"
   - "[[Hypothesis]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Reliability]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -57,6 +58,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[One-Group Pretest-Posttest Design]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -69,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Baseline Standardized Mean Difference
@@ -168,7 +170,7 @@ flowchart TD
 > | **$|d| > 0.25$** | **基线严重不等价**<br>（Baseline Non-equivalent） | 统计模型无法纠偏；[[What Works Clearinghouse\|WWC]] 判定为“未达标（Does Not Meet Standards）”。 | **坚决予以剔除** | **ANCOVA 纠偏失效** 两组潜在能力分布存在质性[[Heterogeneity\|异质性]]、天花板/地板效应，违背平行回归[[Hypothesis\|假设]]。 |
 
 > [!warning] 为什么 $|d_{\text{baseline}}| > 0.25$ 时 ANCOVA 统计校正会失效？
-> 1. **潜在分布质性异质性** 当组间基线差异超过 $0.25$ 个标准差时，两组学生通常来自质性不同的群体（如重点班 vs 普通班）。此时测验工具可能在高端出现“天花板效应”或在低端出现“地板效应”，严重扭曲分数的等距性。
+> 1. **潜在分布质性异质性** 当组间基线差异超过 $0.25$ 个标准差时，两组学生通常来自质性不同的群体（如重点班 vs 普通班）。此时测验工具可能在高端出现“[[Floor and Ceiling Effects|天花板效应]]”或在低端出现“地板效应”，严重扭曲分数的等距性。
 > 2. **违背回归斜率齐性假定（Homogeneity of Regression Slopes）** 协[[Analysis of Variance|方差分析]]的核心假定是两组的前测-后测回归斜率完全平行。当初始能力差距过大时，能力强组的认知增速往往远高于薄弱组（马太效应），导致斜率异质，强行线性调整会产生严重的人为估计偏差。
 > 3. **高维未测混杂的投射** $0.25$ SD 的巨大落差往往是家庭社会经济地位、前期累积学业资本与学习动机的综合外显，单凭单一前测分数的线性扣除绝不可能彻底剔除这些高维多重共线性变量的影响。
 
@@ -216,5 +218,5 @@ flowchart TD
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — 首次在高等教育生成式 AI [[Meta-analysis|元分析]]中严格引入 $d < 0.25$ 基线等效门槛，实证证实该标准成功消除了准实验与[[Randomised Controlled Trials|随机对照试验]]之间的系统性效应差异（$Q_B = 0.407, p = 0.523$），消解了过度乐观的效应膨胀。

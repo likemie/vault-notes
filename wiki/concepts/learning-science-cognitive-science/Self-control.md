@@ -8,7 +8,7 @@ aliases:
 summary: "个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Self-control
@@ -277,7 +278,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详述英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）2014 年起将评价范围拓展至自我控制与韧性等非学业产出（Non-attainment outcomes），并揭示非认知测量工具的信效度赤字与 [[Social-Emotional Learning|SEL]] 实践指南演化。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 援引 Kennett et al. (2008) [[Mixed Methods Research|混合方法研究]]，阐明 Rosenbaum (1990) 自我控制理论与习得性资源感（Learned Resourcefulness）在赋能个体行为自我管理中的机制，并引述 Lekhal (2015) 性别差异（$d = -0.42$）与行为中介证据。
 > - Duckworth & Seligman (2005) — 经典纵向追踪实证，证实自我控制对青少年[[Academic Achievement|学业表现]]的预测力超越智商（IQ）。

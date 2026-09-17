@@ -1930,9 +1930,9 @@
     "path": "wiki/concepts/curriculum/Advanced Placement Program.md",
     "aliases": [
       "大学先修课程项目",
+      "大学先修课程",
       "Advanced Placement",
-      "AP Program",
-      "AP课程"
+      "AP Program"
     ]
   },
   {
@@ -3749,7 +3749,8 @@
       "教育证据中介与清算中心",
       "EEC",
       "教育证据信息交流所",
-      "教育证据交流所"
+      "教育证据交流所",
+      "循证教育证据库"
     ]
   },
   {
@@ -4076,6 +4077,16 @@
     ]
   },
   {
+    "title": "Legislative Policy Brief",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Legislative Policy Brief.md",
+    "aliases": [
+      "立法政策简报",
+      "立法简报",
+      "Legislative Brief"
+    ]
+  },
+  {
     "title": "Local Knowledge in Evidence-Based Policy",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Local Knowledge in Evidence-Based Policy.md",
@@ -4267,6 +4278,16 @@
       "逆向证据生产",
       "PBEM",
       "policy-based evidence making"
+    ]
+  },
+  {
+    "title": "Policymaking Chronosystem",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policymaking Chronosystem.md",
+    "aliases": [
+      "政策制定时间系统",
+      "政策制定历时系统",
+      "政策时间生态系统"
     ]
   },
   {
@@ -7626,6 +7647,18 @@
       "元综合批判",
       "Critique of Second-Order Meta-Analysis",
       "Critique of Mega-analysis"
+    ]
+  },
+  {
+    "title": "Critique of Randomized Controlled Trials",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Critique of Randomized Controlled Trials.md",
+    "aliases": [
+      "随机对照试验批判",
+      "随机对照实验批判",
+      "Critique of RCTs",
+      "RCT Critique",
+      "RCTs Critique"
     ]
   },
   {
@@ -11392,6 +11425,16 @@
     ]
   },
   {
+    "title": "Navigational Framework for Educational Researchers",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Navigational Framework for Educational Researchers.md",
+    "aliases": [
+      "教育研究者政策导航框架",
+      "政策导航框架",
+      "Serpell's Navigational Framework"
+    ]
+  },
+  {
     "title": "Quality Use of Research Evidence Framework",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md",
@@ -14313,6 +14356,18 @@
     ]
   },
   {
+    "title": "Correlational Research",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Correlational Research.md",
+    "aliases": [
+      "相关性研究",
+      "相关研究",
+      "相关设计",
+      "Correlational Design",
+      "Observational and Correlational Research"
+    ]
+  },
+  {
     "title": "Coupling Coordination Model",
     "type": "method",
     "path": "wiki/methods/quantitative/Coupling Coordination Model.md",
@@ -15092,14 +15147,6 @@
     "path": "wiki/methods/quantitative/Non-intervention Research.md",
     "aliases": [
       "非干预研究"
-    ]
-  },
-  {
-    "title": "Observational and Correlational Research",
-    "type": "method",
-    "path": "wiki/methods/quantitative/Observational and Correlational Research.md",
-    "aliases": [
-      "相关性研究"
     ]
   },
   {
@@ -19159,6 +19206,17 @@
     ]
   },
   {
+    "title": "Zewelanji N. Serpell",
+    "type": "person",
+    "path": "wiki/persons/us/Zewelanji N. Serpell.md",
+    "aliases": [
+      "泽韦兰吉·N·瑟佩尔",
+      "泽韦兰吉·瑟佩尔",
+      "Serpell, Z. N.",
+      "Zewelanji Serpell"
+    ]
+  },
+  {
     "title": "Conectar Igualdad",
     "type": "fact",
     "path": "wiki/facts/argentina/Conectar Igualdad.md",
@@ -23099,16 +23157,6 @@
     ]
   },
   {
-    "title": "ESSA 2015 Evidence Standards",
-    "type": "fact",
-    "path": "wiki/facts/us/ESSA 2015 Evidence Standards.md",
-    "aliases": [
-      "ESSA Evidence Standards",
-      "每一个学生成功法证据标准",
-      "每个学生成功法证据标准"
-    ]
-  },
-  {
     "title": "First Look SoCal",
     "type": "fact",
     "path": "wiki/facts/us/First Look SoCal.md",
@@ -23500,6 +23548,16 @@
     ]
   },
   {
+    "title": "Education Resources Information Center",
+    "type": "fact",
+    "path": "wiki/facts/us/Education Resources Information Center.md",
+    "aliases": [
+      "ERIC",
+      "教育资源信息中心",
+      "Educational Resources Information Center"
+    ]
+  },
+  {
     "title": "Educational Testing Service",
     "type": "fact",
     "path": "wiki/facts/us/Educational Testing Service.md",
@@ -23671,7 +23729,22 @@
       "每个学生成功法",
       "每一个学生成功法案",
       "每一个学生成功法",
-      "Every Student Succeeds Act 2015"
+      "Every Student Succeeds Act 2015",
+      "ESSA 2015 Evidence Standards",
+      "ESSA Evidence Standards",
+      "每一个学生成功法证据标准",
+      "每个学生成功法证据标准"
+    ]
+  },
+  {
+    "title": "Foundations for Evidence-Based Policymaking Act of 2018",
+    "type": "fact",
+    "path": "wiki/facts/us/Foundations for Evidence-Based Policymaking Act of 2018.md",
+    "aliases": [
+      "2018年循证决策基础法案",
+      "循证决策基础法案",
+      "Evidence Act",
+      "Foundations for Evidence-Based Policymaking Act"
     ]
   },
   {
@@ -23835,6 +23908,16 @@
       "WWC SCD Pilot Standards 2010",
       "WWC单一个案设计试行标准",
       "WWC SCD标准"
+    ]
+  },
+  {
+    "title": "Advancement Via Individual Determination",
+    "type": "fact",
+    "path": "wiki/facts/us/Advancement Via Individual Determination.md",
+    "aliases": [
+      "AVID",
+      "个体决定促进计划",
+      "通过个体决定获得成功计划"
     ]
   },
   {
@@ -24960,6 +25043,11 @@
     "title": "Argument_Chinn_2011_EP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EP.md"
+  },
+  {
+    "title": "Argument_Serpell_2020_EP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md"
   },
   {
     "title": "Argument_Slavin_2019_EP",

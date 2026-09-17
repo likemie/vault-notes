@@ -7,7 +7,7 @@ aliases:
 summary: "研究学习共同体（RLC）项目在英格兰 79 所小学实施的基线调查问卷，围绕参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四个因素共 14 道题，采用五级李克特量表，用于在干预开始前刻画学校推进证据知情自我改进的准备状态并诊断组织制度性短板。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 25
+instrument_related_count: 26
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Measurement Invariance]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Toby Greany]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Research Learning Communities Baseline Survey Questionnaire
@@ -82,7 +83,7 @@ updated: 2026-09-16
 > [!citation-card]- 开发者的设计说明
 > 问卷依据广泛文献综述提炼的四类关键因素编制，用于测量学校在能力、文化常规、学习环境与支持性结构上的准备状态；四因素框架本身即为问卷的维度结构与分析逻辑基础。
 >
-> *“The survey was developed... based on the four key factors identified from the literature.”*（Brown & Greany, 2018, p. 127）
+> *“The survey was developed... based on the four key factors identified from the literature.”*（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 127]]）
 
 ---
 
@@ -201,7 +202,7 @@ updated: 2026-09-16
 > | **有效学习环境** | 教职工用研究与证据激发[[Dialogue in Education\|对话]]（Q9，n = 695） | 73% | 20% | 8% | 证据激发对话普及度良好 |
 > | **有效学习环境** | 校内人员重视新想法（Q10，n = 694） | 74% | 17% | 10% | 组织开放度良好 |
 > | **有效学习环境** | 学校尝试新的工作方式（Q11，n = 694） | 82% | 9% | 10% | 实践尝试意愿极强 |
-> | **结构系统资源** | 过去一年与同事讨论过相关研究发现（Q12） | 82% | 11% | 7% | 非正式同行交流普遍 |
+> | **结构系统资源** | 过去一年与同事讨论过[[Correlational Research\|相关研究]]发现（Q12） | 82% | 11% | 7% | 非正式同行交流普遍 |
 > | **结构系统资源** | 学校设有为教职工分享信息的论坛（Q13，n = 694） | **61%** | 21% | **17%** | **结构悖论** 非正式热络（82%）与正式制度载体（如 [[Lesson Study\|课例研究]]、论坛）匮乏脱节 |
 > | **结构系统资源** | 学校为教职工的教育培训活动留出时间（Q14，n = 694） | 81% | 9% | 10% | 培训时间基本具备 |
 >

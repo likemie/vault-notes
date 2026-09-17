@@ -5,7 +5,7 @@ aliases:
 summary: "指项目开发者委托、参与或实施的评估往往得到系统性高于独立第三方的效果估计，用于分析利益关系如何影响教育证据。"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,7 +40,6 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Sound Partners]]"
-  - "[[ESSA 2015 Evidence Standards]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Creation of REES]]"
 related_arguments:
@@ -121,7 +120,7 @@ updated: 2026-09-17
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[ESSA 2015 Evidence Standards]] — [[Every Student Succeeds Act|ESSA]] 的通过使开发者有更大的经济激励去证明其产品的有效性，可能加剧开发者效应
+> - [[Every Student Succeeds Act|ESSA 2015 Evidence Standards]] — [[Every Student Succeeds Act|ESSA]] 的通过使开发者有更大的经济激励去证明其产品的有效性，可能加剧开发者效应
 > - [[What Works Clearinghouse]] — WWC 数据库是 Wolf et al. 研究的数据源
 > - [[Creation of REES]] — [[Preregistration|预注册]]制度被提出作为缓解开发者效应的关键机制
 

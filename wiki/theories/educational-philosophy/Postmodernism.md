@@ -7,7 +7,7 @@ aliases:
 summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
   - "[[Qualitative Interview]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jean-François Lyotard]]"
   - "[[Stephen Ball]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Postmodernism
@@ -213,7 +214,7 @@ updated: 2026-09-11
 
 ## 实证数据
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 27–29)]] — 详尽解构詹姆逊后现代主义 11 项核心特征在教育探究中的[[Epistemology|认识论]]体现，系统阐发其变色龙亲和性以及与后实证、[[Post-structuralism|后结构主义]]的方法论同盟。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨后现代主义对[[Reflexivity|反思性]][[Ethnography|民族志]]、微观政治学与多重视角互证的研究启示。
 

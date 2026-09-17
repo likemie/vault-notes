@@ -9,7 +9,7 @@ summary: "质性研究、内容分析与元分析编码中，两名或多名独�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 43
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Test-Retest Reliability]]"
   - "[[Mixed Methods Research]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Yvonna S. Lincoln]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Intercoder Agreement
@@ -201,6 +202,6 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011)]] — 结合第 30 章[[Content Analysis|内容分析]] 14 项[[Reliability|信度]]威胁体系（pp. 573–574）与第 17 章[[Meta-analysis|元分析]]规程（pp. 359–363），系统阐明[[Coding in Qualitative Research|编码]]者信度的[[Operationalization|操作化]]检验与门槛基准。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] — 阐释质性编码者间一致性的四步检验规程与 Miles & Huberman 80% 一致性门槛（p. 215）。

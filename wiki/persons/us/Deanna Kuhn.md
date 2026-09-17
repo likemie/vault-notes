@@ -8,7 +8,7 @@ summary: "发展心理学家，在批判性思维、论辩推理与认识论理�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Deanna Kuhn
@@ -73,7 +74,7 @@ updated: 2026-09-11
 > - **理论路径** Kuhn 极大地推动了教育心理学界对[[Epistemological Beliefs|认识论信念]]（epistemological beliefs/understanding）和论辩（argumentation）之间关系的理解。她的绝对论-多元论-评价论模型成为该领域的标准参考框架之一。
 > - **方法路径** 通过开发简洁的冲突观点选择任务，她将[[Epistemological Understanding|认识论理解]]的测试从复杂的长时[[In-depth Interview|深度访谈]]（如 King & Kitchener）简化为可跨领域、大规模施测的工具。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 本文系统阐述了她关于认识论理解在不同判断领域（事实、价值、审美等）不对称发展的实证研究。
 
 ---

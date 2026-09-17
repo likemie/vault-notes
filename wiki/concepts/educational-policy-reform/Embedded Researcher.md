@@ -7,7 +7,7 @@ aliases:
 summary: "常驻于教育行政部门或学校实践机构内部，依托科研训练背景在真实工作情境中开展证据转化、需求匹配与跨界中介的专业人员，旨在弥合研究与实践断层并重塑组织循证文化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Embedded Researcher
@@ -218,6 +219,6 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]** 跨国实证测度 37 个教育系统中嵌入式研究者等专业角色的设立分布与供求矛盾，奠定其在教育治理研究中的实证基石。
 > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 在 [[OECD]] 五维系统[[Analytic Framework|分析框架]]中将技能、能力与中介角色界定为支撑证据生态可持续运转的关键支柱。

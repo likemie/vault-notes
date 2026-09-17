@@ -10,7 +10,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的自主教学交互系统，具备开放式情境推理、实时支架生成与多轮生成式对话能力，其促学成效高度取决于显性教学脚手架与反思约束。"
 type: concept
 domain: "educational-technology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,6 +46,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Generative AI Agent in Education
@@ -157,5 +158,5 @@ flowchart LR
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]][[Meta-analysis|元分析]]中将生成式智能体作为核心技术亚组（$k = 17, g = 0.421$），系统揭示了其促进[[Computational Thinking|计算思维]]与写作表现的双重属性：当结合显性反思量规时产生稳健增益，若缺乏[[Scaffolding|脚手架]]则可能诱发严重的[[Cognitive Offloading|认知卸载]]。

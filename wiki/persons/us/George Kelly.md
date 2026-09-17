@@ -8,7 +8,7 @@ summary: "美国临床心理学家，个人建构理论的创始人，repertory 
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,12 +30,13 @@ related_methods:
   - "[[Repertory Grid Technique]]"
   - "[[Laddering]]"
   - "[[Pyramiding]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]]"
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # George Kelly
 
@@ -92,7 +93,7 @@ updated: 2026-09-11
 > - **方法路径** Kelly 发明的 [[Repertory Grid Technique]] 从最初的临床工具发展为广泛应用于教育、心理咨询、消费者研究和组织行为学的跨领域研究方法。Hinkle（1965）的[[Laddering|阶梯法]]、Landfield（1971）的[[Pyramiding|金字塔法]]、Shaw & Thomas（1978）的聚焦法都是在其基础上发展的重要变体。
 > - **跨国／跨领域传播** repertory grid 从心理治疗领域扩展到教育研究（教师认知、学生概念转变、考试评分特征、医学生身份发展）、消费者研究（Reynolds & Gutman, 1988）、信息系统评估（Crudge & Johnson, 2007）等多个领域。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统介绍 Kelly 的理论体系及其对教育研究方法的贡献，包含基本公设、十一条推论、repertory grid 技术和教育研究应用实例。
 
 ---

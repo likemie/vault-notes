@@ -9,10 +9,10 @@ aliases:
 summary: "源自古希腊城邦文明的整全公民培育与灵魂转向哲学，统合智性沉思、伦理德性与审美和谐，是西方全人教育与比较教育以人为本（anthropos）思想史传统的始源母题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/paideia
   - theme/humanism
@@ -37,7 +37,8 @@ related_concepts:
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Epistemic Value]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Ulich]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Paideia
@@ -236,7 +237,7 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统阐述希腊古典[[Bildung|教化]]作为 19 世纪欧洲四大中等教育古典支柱之一的终极目标，以及二战后其道德防线的崩溃与向[[Scientific Paradigm|科学范式]]的转换。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 考掘比较教育创立时期的历史母题，阐明广义文化教化超越狭隘学校教育的核心[[Epistemic Value|认识论价值]]。
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 对比较教育学界试图全面回归古代 Paideia 的浪漫主张展开审慎的史学与学科制度化反思。

@@ -10,10 +10,10 @@ aliases:
 summary: "测量工具因题项难度分布或量程受限导致得分在最高端或最低端过度聚集的数据截断缺陷，会导致方差缩减并人为低估干预的真实因果效应量，是导致教育试验微弱效应的关键测量学根源"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - floor-and-ceiling-effects
   - psychometrics
@@ -46,6 +46,7 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Internal Consistency]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts:
@@ -60,7 +61,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Floor and Ceiling Effects
@@ -200,6 +201,6 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 结合 [[Catch Up Numeracy]] 等实证案例，系统剖析商业测验天花板与地板效应如何侵蚀 [[Randomised Controlled Trials|RCT]] [[Causality|因果推断]]效度，并阐述 [[Education Endowment Foundation|EEF]] 建立前置测量工具库的治理经验。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei, Ding, & Chiu (2026)]] — 在跨学段[[Meta-analysis|元分析]]中反思学业测评工具难度受限对认知干预[[Effect Size|效应量]]的潜在衰减效应。

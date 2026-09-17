@@ -7,7 +7,7 @@ aliases:
 summary: "Apple 提出的批判课程论核心概念，指学校课程中被国家与支配群体选择性界定为合法、正当且值得传授的知识，反映并再生产社会中的文化权力关系与政治霸权"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,8 @@ related_theories:
   - "[[Social Realism]]"
   - "[[Hegemony]]"
   - "[[Varieties of Capitalism]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Young]]"
 related_facts: []
@@ -41,7 +42,7 @@ related_instruments: []
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Official Knowledge
@@ -162,6 +163,6 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 通过分析中国六门必修科目教材，揭示官方知识如何将儒家传统塑造为主流正统并边缘化少数民族文化。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 实证比较大陆统编版与香港龄记版中史教材，展示官方知识在不同政治控制体制下的建构逻辑。

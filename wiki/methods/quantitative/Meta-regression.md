@@ -8,7 +8,7 @@ summary: "在元分析框架下，通过加权回归检验研究特征与连续�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 53
+method_related_count: 55
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -63,6 +63,7 @@ related_methods:
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Robust Variance Estimation]]"
   - "[[Between-Study Variance]]"
+  - "[[Ordinary Least Squares]]"
   - "[[Questionnaire]]"
   - "[[Internal Consistency]]"
   - "[[Cronbach's Alpha]]"
@@ -72,13 +73,14 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Moderator Analysis]]"
   - "[[Analysis of Variance]]"
+  - "[[Correlational Research]]"
   - "[[Three-Level Meta-Analysis]]"
 status: active
 related_facts:
   - "[[World Bank]]"
 confidence: high
 created: 2026-08-19
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Meta-regression
@@ -151,7 +153,7 @@ updated: 2026-09-12
 > - $u_i$ 研究间随机效应残差，$u_i \sim N(0, \tau^2_{\text{residual}})$
 > - $\epsilon_i$ 研究内抽样误差，$\epsilon_i \sim N(0, v_i)$，其中 $v_i$ 为抽样方差
 >
-> **数学直觉** 普通最小二乘法假定所有观测值具有同方差，而元回归中大样本研究的抽样误差远小于小样本研究，因此必须以各研究的综合方差倒数（$1/(v_i + \tau^2)$）为权重进行加权最小二乘估计。
+> **数学直觉** [[Ordinary Least Squares|普通最小二乘法]]假定所有观测值具有同方差，而元回归中大样本研究的抽样误差远小于小样本研究，因此必须以各研究的综合方差倒数（$1/(v_i + \tau^2)$）为权重进行加权最小二乘估计。
 >
 > **结果怎么读** $\beta_j > 0$ 且置信区间不包含 0 时，表明该特征与效应量显著正相关；$\beta_j < 0$ 表明负向调节；模型 $F$ 检验或 $Q_{\text{model}}$ 检验判定模型整体是否显著。
 >
@@ -242,7 +244,7 @@ updated: 2026-09-12
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用随机效应元回归检验国家人均国内生产总值 Z 分数（$F = 9.430, p < .01, \beta_1 = 0.197$）、文献发表年份（$F = 7.006, p < .05, \beta_1 = 0.032$）及样本性别比例对图形组织器干预效应的连续调节作用。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 在[[Epistemic Cognition|认识论认知]][[Meta-analysis|元分析]]中运用元回归检验[[Questionnaire|问卷]][[Reliability|信度]]对[[Effect Size|效应量]]的预测力，发现信度回归系数达 $b = .300$。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] 在[[Three-Level Meta-Analysis|三水平元分析]]框架下运用元回归检验参与者年龄、学段、地理区域、发表年份及[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]测量类型对相关量的调节作用，并检验两类测量类型的交互项（$Q_M(1) = 6.524, p = .011$）。

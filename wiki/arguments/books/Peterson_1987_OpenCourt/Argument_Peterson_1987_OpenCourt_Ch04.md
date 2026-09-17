@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -65,6 +65,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -150,7 +151,7 @@ updated: '2026-09-12'
 
 > [!dev-timeline]- 从有限试验到国际常设组织
 > - **1967–1968 年　明确试验分歧并建立行政基础** 塞夫尔会议授权六年有限试验后，理事会在研究型小样本和服务型扩展之间作出选择。1968 年办公室从[[International School of Geneva|日内瓦国际学校]]迁往科洛尼，吉姆·塞拉斯加入考试行政；[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）以兼职总干事身份连接日内瓦、牛津和学校网络（pp. 61–67）。
-> - **1969–1970 年　从试考转入正式资格** 1969 年提供完整试考，1970 年举行首届具有大学承认承诺的正式考试。大西洋学院暂时保留英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，GCE A-level），联合国[[International Schools|国际学校]]暂时保留大学先修课程（[[Advanced Placement Program|Advanced Placement]]，AP）作为风险缓冲，但两校继续参与试验（p. 67）。
+> - **1969–1970 年　从试考转入正式资格** 1969 年提供完整试考，1970 年举行首届具有大学承认承诺的正式考试。大西洋学院暂时保留英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，GCE A-level），联合国[[International Schools|国际学校]]暂时保留[[Advanced Placement Program|大学先修课程]]（[[Advanced Placement Program|Advanced Placement]]，AP）作为风险缓冲，但两校继续参与试验（p. 67）。
 > - **1968–1973 年　承认网络与学校类型同时扩展** 英美自治大学以逐校决定的方式承认 IB；法国、德国、瑞典等集中体系通过法令、等值或特殊程序有限承认。学校网络从收费国际学校扩展到国家实验学校、双语学校、[[Further Education|继续教育]]学院及非洲、亚洲、拉丁美洲学校（pp. 68–82）。
 > - **1970–1973 年　基金会资助支撑启动，成本控制成为核心** 福特基金会（Ford Foundation）、二十世纪基金（Twentieth Century Fund）、杜尔弗顿信托（Dulverton Trust）、卡洛斯特·古尔本基安基金会（Calouste Gulbenkian Foundation）等提供阶段性资金；IBO 同时实行紧缩预算、依赖无偿或低偿劳动，并探索把考试行政从高成本日内瓦分散到英国（pp. 83–87）。
 > - **1973–1975 年　全球经济危机迫使项目制度化** 通货膨胀、汇率错配和国际公益资金枯竭叠加业务扩展，使志愿者式项目难以维持。IBO 部分转移语言考试业务、建立学校加入费和年费，并取得美国国务院等新支持；十所核心学校一度同意把年费提高至四倍以避免组织停摆（pp. 87–94）。
@@ -1017,7 +1018,7 @@ updated: '2026-09-12'
 > [!warning] 作者叙述的边界
 > - **参与者视角** 资金危机、筹款、[[UNESCO]] 谈判和组织决策多由当事人回忆呈现，能够说明行动逻辑，不等于独立机构史核验。
 > - **样本辩护有限** 彼得森反对把早期学生称为不具代表性的精英样本，但没有提供与国家体系升学群体的系统人口比较（pp. 61–62）。
-> - **结果证据有限** 本章报告考生数、通过率和承认范围，未提供课程效果、[[Predictive Validity|预测效度]]或 1979 年相关研究的完整统计结果（pp. 67–68）。
+> - **结果证据有限** 本章报告考生数、通过率和承认范围，未提供课程效果、[[Predictive Validity|预测效度]]或 1979 年[[Correlational Research|相关研究]]的完整统计结果（pp. 67–68）。
 > - **时间超出名义试验** 原定六年试验因对已入读学生的道德义务延至 1976 年；本章还追踪到 1978 年治理安排，时间边界应按制度转型而非简单六个考试年度理解（pp. 89–97）。
 
 ## 来源

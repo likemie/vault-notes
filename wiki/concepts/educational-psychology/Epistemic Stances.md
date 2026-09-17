@@ -6,7 +6,7 @@ aliases:
 summary: "概念附加个体对特定知识主张采取的态度。取代了传统模型中单一的确定性维度。"
 type: concept
 domain: "educational-psychology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,8 @@ related_concepts:
   - "[[Epistemology]]"
 related_theories:
   - "[[Expanded Framework of Epistemic Cognition]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -25,7 +26,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-17
 ---
 
 # Epistemic Stances
@@ -53,5 +54,5 @@ updated: 2026-08-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 确定性被重构为个体的认识立场之一并归入[[Expanded Framework of Epistemic Cognition|扩展的认识论认知框架]]的第三组件。

@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷在《被压迫者教育学》中提出的病态批判概念，指在教育与政治探讨中只有口头的理智觉察或批评、却剥离了改变不公现实的实质行动（Praxis）的异化现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Active Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 
 # Verbalism（言语主义 / 空谈）
@@ -127,5 +128,5 @@ updated: '2026-08-27'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合言语主义概念批评 IB [[Theory of Knowledge|TOK]] 课程“只引导讨论种族与贫困、却不要求变革行动”的内在矛盾。

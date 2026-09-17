@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,6 +49,7 @@ related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Plato]]"
 related_facts:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Knowledge Transfer
@@ -234,7 +235,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 奠定[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中的知识转移概念，系统提出知识在运动中的六大权力模态。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 阐释[[University-Industry Collaboration|产学合作]]中的知识转移全谱系，区分正式知识产权交易与非正式/半正式人际渠道。
 > - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] — 提供国家支持经济间谍实现强制性知识转移的大规模实证计量证据。

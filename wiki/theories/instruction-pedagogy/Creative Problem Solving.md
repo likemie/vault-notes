@@ -8,7 +8,7 @@ aliases:
 summary: "由奥斯本与帕内斯创立的经典结构化认知干预模型，通过理解挑战、生成观念与准备行动三大阶段六大循环，交替实施发散与收敛思维以系统解决不良结构问题。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alex Osborn]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Creative Problem Solving
@@ -188,7 +189,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 将 CPS 确立为结构化认知训练的经典范例，二阶实证证实干预措施对[[Creativity|创造力]]的强大提升作用（$r = 0.20$）。
 > - Scott et al. (2004) — 对[[Creativity Training|创造力训练]]开展里程碑式[[Meta-analysis|元分析]]，证实 CPS 产生 $d = 0.74$ 的综合提升效应。
 > - Ma (2006) — 系统元分析证实复合认知训练程序对创造力发展的显著促进（$d = 0.77$）。

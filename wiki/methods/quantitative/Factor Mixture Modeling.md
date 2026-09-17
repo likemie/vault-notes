@@ -7,7 +7,7 @@ summary: "一种结合了验证性因子分析（Confirmatory Factor Analysis, C
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Questionnaire]]"
   - "[[Chi-Squared Test]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-09-17
 ---
 
 # Factor Mixture Modeling
@@ -162,5 +163,5 @@ updated: 2026-08-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Greene_2010_JEP]] — 该研究通过因子混合模型，将大样本学生在[[Epistemology|认识论]]维度上的测量得分有效聚类为了理论预设的四个阶段组。

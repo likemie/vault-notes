@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2023）提出的比较教育学议程分析框架，将学科关注的研究议题划分为常规谜题、热门主题、突破性主题、冷门主题与重大沉默，以及全球解读五个层级"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Dialogue in Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Cowen]]"
 related_facts:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: '2026-07-04'
+updated: 2026-09-17
 ---
 
 # Hierarchy of Future Issues in Comparative Education
@@ -76,5 +77,5 @@ updated: '2026-07-04'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 系统提出“比较教育未来议题层级”作为分析工具，批评学科在面对战争、帝国等重大变迁时长期失声的现象，主张将[[Readings of the Global|全球解读]]作为重新定性学科议程的宏观基础。

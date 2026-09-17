@@ -10,7 +10,7 @@ summary: "用于同时检验一个或多个分类自变量对两个或多个相�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Analysis of Covariance]]"
   - "[[Confirmatory Factor Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-17
 ---
 
 # Multivariate Analysis of Variance
@@ -255,7 +256,7 @@ updated: 2026-08-29
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在教师[[Research Literacy|研究素养]]研究中建立 2×2 MANOVA 模型，同时检验期刊追踪与亲身做研究对教师研究素养 4 个分维度的独立赋能主效应与[[Interaction Effect|交互效应]]。
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 在高中生科学学习研究中运用 MANOVA 检验不同[[Academic Achievement|学业成就]]组（高/中/低）与性别在固定能力观、知识简单性等[[Epistemological Beliefs|认识论信念]]三因子上的多维显著差异。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Guetterman (2022, Ch. 11)]] — 详细阐述量化实验与组间比较设计中 [[Analysis of Variance|ANOVA]]、[[Analysis of Covariance|ANCOVA]] 与 MANOVA 的方法选择矩阵及错误率控制机制。

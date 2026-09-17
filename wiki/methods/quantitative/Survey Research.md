@@ -78,7 +78,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Telephone Interview]]"
   - "[[Rating Scale]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[In-depth Interview]]"
   - "[[Likert Scale]]"
@@ -299,7 +299,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 ## 方法变体
 
 > [!tip]-
-> - **[[Cross-sectional Study|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Observational and Correlational Research|相关性研究]]问题，但难以建立[[Causality|因果关系]]。
+> - **[[Cross-sectional Study|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Correlational Research|相关性研究]]问题，但难以建立[[Causality|因果关系]]。
 > - **[[Longitudinal Study|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临[[Attrition|样本流失]]（attrition）和控制效应（control effect）等问题。
 > - **[[Cohort Study|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国[[Document|文献]]中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。
 > - **[[Trend Study|趋势研究]]（Trend Study）** 关注因素而非人群，在不同时间点抽取不同样本但聚焦相同因素，避免了[[Pre-test Sensitisation|预试敏感化]]（pre-test sensitisation）问题。
@@ -310,7 +310,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 > [!success]
 > - 需要了解某一总体的态度、意见、行为趋势或特征分布时。
-> - 适合描述性和[[Observational and Correlational Research|相关性研究]]问题。
+> - 适合描述性和[[Correlational Research|相关性研究]]问题。
 > - 横截面设计适合在单一时间点进行快照式描述，纵向设计适合追踪变化趋势。
 > - 探索性调查适合在没有预设模型的情况下探索关系和模式；验证性调查适合检验模型、[[Causality|因果关系]]或[[Hypothesis|假设]]（p.259）。
 > - 调查也适用于收集事实信息、态度与偏好、信念与预测、意见、行为与经验——包括过去和现在的（Weisberg et al., 1996; Aldridge & Levine, 2001）。
@@ -329,7 +329,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国代表性成年抽样 $N = 5,281$）及科研人员参与[[Questionnaire|问卷调查]]的大样本定量数据，全面评估数字智能环境下公众科学信息获取渠道、真实性信任度以及学术共同体开展公众参与面临的体制性阻碍；并在[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|第五章]]中委托 YouGov 对 108 名英国国会议员（MPs）开展专属问卷调查，定量揭示立法决策者在科学信源选择上的偏误结构（55% 依赖智库 vs 仅 22% 依赖[[Parliamentary Office of Science and Technology|议会科学技术办公室]]），并测度公众对科学政策民主咨询的强烈诉求。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 在第六章中系统利用 Technopolis 受托执行的《影响英国科研人员公众参与的因素调查 2025》（Factors Affecting Public Engagement by UK Researchers 2025），通过与 2006 年及 2015 年前序调查的重复横截面大样本比较，定量揭示科研人员参与覆盖率（85%）与道德认同（83%）的高涨趋势，以及时间压力激增（75%）与高校职称考评激励匮乏（仅 25% 认为有助于晋升）构成的核心制度瓶颈。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 25–27)]] — 在[[OECD|经合组织]]（OECD）旗舰著作第一章中，介绍“[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]”实施的跨国标准化政策调查（涵盖 29 国 37 个教育系统教育部）与 6 国跟进[[In-depth Interview|深度访谈]]，系统映射各国教育行政决策中教育研究生产、中介促成与实践转化的制度全景，诊断时间匮乏、格式不便与学术考评体制激励错位等结构性壁垒。

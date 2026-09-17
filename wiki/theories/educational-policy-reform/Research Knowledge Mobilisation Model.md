@@ -8,7 +8,7 @@ aliases:
 summary: "由 Ben Levin 提出的经典教育知识动员系统理论模型，将研究流动表征为生产、使用与中介三大功能情境的动态重叠与双向反馈，提出五阶段研究利用阶梯与机制-障壁诊断比率，并深嵌于宏观社会背景之中"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
   - "[[Network Analysis]]"
   - "[[Cohort Study]]"
   - "[[Meta-analysis]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Research Knowledge Mobilisation Model
@@ -99,7 +100,7 @@ updated: 2026-09-14
 > - **前提一（拒绝机械实体论）** 传统观念将研究者与实践者固定于割裂的物理组织，预设单向传递逻辑（Levin, 2004）。
 > - **前提二（功能大于组织）** 真实教育世界中，中介与使用情境在规模与参与主体上远大于狭义的大学学术生产情境；同一行动者（如大学教师参与校本教研、中小学名师主持实证课题）兼具多重身份。
 > - **前提三（[[Research Utilization|研究利用]]的五阶段递进阶梯）** Levin (2011) 强调，研究利用并非二元分立的“利用/搁置”，而是呈现为由浅入深的五阶段度量阶梯：
->   1. **获取（Access）** 潜在使用者接触、检索或拥有相关研究证据；
+>   1. **获取（Access）** 潜在使用者接触、检索或拥有[[Correlational Research|相关研究]]证据；
 >   2. **知识与理解（Knowledge and Understanding）** 使用者阅读并准确把握证据实质与因果逻辑；
 >   3. **态度与信念（Attitudes and Beliefs）** 使用者对研究结论的可[[Reliability|信度]]与实践价值产生正面认同；
 >   4. **行为改变（Behaviour）** 在具体教学策略、学校治理或政策制定中实质性改变既有实践；
@@ -183,7 +184,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统评述 Levin RKM 模型，将其与 Lavis、Graham、Gough 横向比照，确立其在功能重叠与系统思维上的突破贡献。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — [[OECD|经合组织]]编著第五章，征引 Levin 理论将动员机制与障壁比率[[Operationalization|操作化]]为评估系统优先级的实证诊断工具，并基于跨国数据深化五阶段利用阶梯的评估分析。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 在全系统[[Knowledge Mobilisation|知识动员]]战略中征引并深化 Levin 的重叠网络思想，推动全系统能力建设。

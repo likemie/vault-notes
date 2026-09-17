@@ -9,7 +9,7 @@ aliases:
 summary: "知识动员中划分证据供给侧主动单向推送与实践需求端主动吸收牵引的双机制分析模型；揭示传统线性供给之局限并倡导向学校吸收能力与使能条件重构。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
   - "[[Framework Synthesis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Mark Rickinson]]"
   - "[[Carlos Alberto Torres]]"
@@ -61,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Push and Pull Models of Knowledge Mobilisation
@@ -211,7 +212,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 结合澳大利亚中小学调查，论证教育[[Research Utilization|研究利用]]议程从供给驱动（Push）向需求牵引（Pull）转型的必要性，提出 [[Quality Use of Research Evidence Framework|QURE]] 框架及使能支持路径。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统梳理[[Knowledge Mobilisation|知识动员三代演进模型]]，剖析 Push、Pull 与 Exchange 机制在 [[OECD]] 成员国教育政策中的演进与配置形态。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 探讨[[Educational Brokerage Agency|知识中介机构]]在连接供给推送与需求牵引中的关键跨界功能，反思商业化异化风险。

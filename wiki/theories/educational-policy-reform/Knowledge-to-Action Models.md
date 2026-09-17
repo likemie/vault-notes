@@ -9,7 +9,7 @@ aliases:
 summary: "Allan Best 与 Bob J. Holmes (2010) 提出的知识利用理论分析框架，将研究与政策行动的联结划分为线性推动模型（第一代）、关系型协同生产模型（第二代）与系统生态学模型（第三代），解释了国际组织与国家从单向证据推销转向区域枢纽与制度吸收容量建设的演进逻辑。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -51,6 +51,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Knowledge-to-Action Models
@@ -217,7 +218,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]** 运用知识-行动联结三代模型，剖析国际组织面对数字时代研究证据闲置危机时，为何加速布局区域常设中介枢纽与生态化网络。
 > - **[[Argument_Torres_2022_KMModels|Torres (2022)]]** 系统比较 KTA（Graham et al., 2006）、[[Knowledge Transfer|知识转移]]战略（Lavis et al., 2003）、动员模型（Levin, 2013）与证据生态（Gough et al., 2019），确立代际演进谱系。
 > - **Best & Holmes (2010)** 奠定知识-行动联结三代演化模型（线性推动、关系协同、系统生态），奠定宏观中介分析基石。

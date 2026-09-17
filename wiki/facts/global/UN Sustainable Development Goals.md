@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Exploratory Factor Analysis]]"
   - "[[Quantitative Research]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -61,6 +62,7 @@ related_facts:
   - "[[Learning Data Compact]]"
   - "[[PISA]]"
   - "[[Education International]]"
+  - "[[Research in Schools Evaluation]]"
   - "[[THE Impact Ranking]]"
   - "[[Education at a Glance]]"
 related_arguments:
@@ -69,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # UN Sustainable Development Goals
@@ -211,7 +213,7 @@ updated: 2026-09-12
 > [!citation-card] 扎普论大学地缘政治再领土化悖论
 > 大学的可持续发展承诺日益全球化，但各国政策制定者同时将大学作为国家经济引擎和地缘政治声望的象征，形成悖论——大学知识越是全球化，大学本身越是被重新领土化为地缘政治竞争单位。
 >
-> *While universities' commitments to sustainable development are increasingly globalized, national policymakers simultaneously view higher education as an engine of national economy and an emblem of geopolitical prestige, giving rise to a profound paradox: the more university knowledge globalizes, the more the university itself is re-territorialized into a unit of geopolitical rivalry.* (Moisio, 2018; 引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, pp. 155–157]])
+> *While universities' commitments to sustainable development are increasingly globalized, national policymakers simultaneously view higher education as an engine of national economy and an emblem of geopolitical prestige, giving [[Research in Schools Evaluation|RISE]] to a profound paradox: the more university knowledge globalizes, the more the university itself is re-territorialized into a unit of geopolitical rivalry.* (Moisio, 2018; 引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, pp. 155–157]])
 
 ---
 
@@ -234,7 +236,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 运用[[World Society Theory|世界社会理论]]系统剖析大学通过研究、教学、内部政策及学术网络四重机制全面嵌入 SDGs 的历程，并尖锐警示科学政治化与地缘政治再领土化风险。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明国际协定（[[Exploratory Factor Analysis|EFA]], MDGs, SDGs）如何推动针对全球南方的量化规制转向，揭示 [[UNESCO]] 与[[World Bank|世界银行]]在基准统筹与合规执法上的分工，以及五大多边组织在资金与数据协定上的排他性博弈。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过量化指标、跨国测评排名与最佳实践工具箱对主权国家实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,12 +35,14 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Confucius]]"
   - "[[Jane Knight]]"
 related_facts:
   - "[[PISA]]"
+  - "[[SMART]]"
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[International Indicators of Education Systems]]"
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Soft Power
@@ -80,7 +82,7 @@ updated: 2026-09-12
 
 > [!boundary] 概念边界
 > - **不等于硬实力（Hard Power）** 后者依赖有形的物质资源（军队、核武、经济禁运、投资制裁），遵循强制与惩罚逻辑；软实力依托无形的规范吸引力与合法性认可。
-> - **不等于巧实力（Smart Power）** 巧实力是奈后来提出的战略操作概念，强调硬实力与软实力的有效组合与动态互补。
+> - **不等于巧实力（[[SMART]] Power）** 巧实力是奈后来提出的战略操作概念，强调硬实力与软实力的有效组合与动态互补。
 > - **不等于[[Knowledge Diplomacy|知识外交]]（Knowledge Diplomacy）** 软实力框架深植于国家利益与地缘竞争的相对收益逻辑；知识外交则强调跨国行为体之间基于互惠、信任与共同解决全球性挑战的双向或多向合作。
 
 ---
@@ -88,7 +90,7 @@ updated: 2026-09-12
 ## 概念辨析
 
 > [!contrast-table] 权力形态与治理工具多维对比
-> | 维度 | 传统硬实力（Hard Power） | 传统软实力（Soft Power） | 巧实力（Smart Power） | [[Soft Power by Hard Facts\|以硬事实施展软权力]]（Soft Power by Hard Facts） |
+> | 维度 | 传统硬实力（Hard Power） | 传统软实力（Soft Power） | 巧实力（[[SMART]] Power） | [[Soft Power by Hard Facts\|以硬事实施展软权力]]（Soft Power by Hard Facts） |
 > |:---|:---|:---|:---|:---|
 > | **核心资源** | 军事装备、金融储备、经济制裁壁垒 | 文化产品、政治哲学、对外援助声誉 | 物质惩罚工具与规范认同工具的战略组合 | 跨国可比统计量、标准化测评、[[Performance Indicators\|绩效指标]]数据库 |
 > | **权力作用机制** | 指挥式权力：强制服从、威慑与金钱收买 | 同化式权力：规范吸引、制度示范与价值内化 | 上下文智力：依据情境灵活配置胡萝卜与大棒 | 认识论规制：通过“事实”定义问题、数字作为[[Façade of Rationality\|理性表象]]的脚手架与命名羞辱 |
@@ -167,7 +169,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统检视地缘政治视域下跨境高等教育的软实力理论演化，批判其民族国家中心主义与零和博弈局限，提出[[Knowledge Diplomacy|知识外交]][[Paradigm|范式]]转型。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 论证 [[PISA]] 跨国学业测评如何充当[[OECD|经合组织]]软治理的核心工具，通过确立国际[[Reference Society|模范社会]]实现超国家教育政策趋同。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，深度解构经合组织与[[World Bank|世界银行]]如何以量化指标为硬事实行使跨国软权力，实现[[Policy Brokerage|政策中介]]与远处规制。

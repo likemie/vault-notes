@@ -7,10 +7,10 @@ aliases:
 summary: "日本在 2004 年 PISA 2003 结果公布后纳入国家教育政策目标的学术能力概念，聚焦问题解决、知识应用等高阶能力，区别于传统知识记忆型学力"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - pisa
   - japan
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
 related_theories: []
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-17
 ---
 
 # PISA Literacy
@@ -101,5 +102,5 @@ updated: 2026-07-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]中将 [[PISA]] 素养作为 PISA 在宏观决策层面影响教育改革的典型案例——日本接受能力和素养概念的标志性事件。

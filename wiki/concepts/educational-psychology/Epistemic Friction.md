@@ -9,7 +9,7 @@ aliases:
 summary: "源自社会认识论与学习科学的核心构念，指个体在遭遇相左证据、异质观点或复杂认知任务时所经历的生产性阻力与反思张力，是激活元认知监控、深度推理与知识图式重构的必要心理机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Causal Modeling]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
 related_persons:
@@ -64,7 +65,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-17
 ---
 
 # Epistemic Friction
@@ -231,5 +232,5 @@ updated: 2026-09-02
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育 ChatGPT 实证研究，将“[[Epistemology|认识论]]摩擦”确立为解释人机协同[[Higher-Order Thinking Skills|高阶思维]]发展与防范有害[[Cognitive Offloading|认知卸载]]的基石概念。

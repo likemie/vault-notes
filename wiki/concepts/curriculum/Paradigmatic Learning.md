@@ -6,7 +6,7 @@ aliases:
 summary: "一种以共同核心维持学科背景、以代表性问题承载深度研究的课程取舍原则，使有限课时用于形成学科思维，并为知识爆炸条件下的课程选择提供依据。"
 type: concept
 domain: "curriculum"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Encyclopaedism]]"
   - "[[Areas of Knowledge]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-08-22
+updated: 2026-09-17
 ---
 # Paradigmatic Learning
 
@@ -186,5 +187,5 @@ updated: 2026-08-22
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3)]] 追溯范例学习如何连接牛津[[General Education|通识教育]]改革、卡佩勒对百科全书课程的批评、Becker 的德国教育改革思想和 IB 的共同核心与深度选项结构。

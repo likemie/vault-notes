@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Efficacy Trial]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jack Douglas]]"
@@ -112,7 +113,7 @@ updated: 2026-09-17
 > [!finding-cards] 核心实证结论
 > - **初等数学领域的超高因果[[Effect Size|效应量]]** 在包含两项独立[[Randomised Controlled Trials|随机对照试验]]的[[Meta-analysis|元分析]]综合评估中（Fuchs et al., 2016），Fraction Face-Off! 取得了平均 $+0.51$ 的巨大加权学业[[Effect Size|效应量]]，在概念性分数测验与全美标准化数学成就考试中均表现出极强的因果增益。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 28)]]
 > - **攻克深层数学认知障碍** 实证结果表明，该方案不仅提升了机械分数的计算能力，更显著提升了处境不利学生在代数预备、分数估计及多步骤词汇应用题上的高阶推理表现。
-> - **[[Teaching Assistant|助教]]双人小组的极致性价比** 斯莱文（Slavin, 2019）高度评价该方案证实了 1:2 双人小组相比 1:1 个别辅导大幅节约了师资工时，且由低成本助教执教，展现出在全美公立学区大规模低成本推广的极大现实可行性。
+> - **[[Teaching Assistant|助教]]双人小组的极致性价比** 斯莱文（[[Argument_Slavin_2019_EP|Slavin, 2019]]）高度评价该方案证实了 1:2 双人小组相比 1:1 个别辅导大幅节约了师资工时，且由低成本助教执教，展现出在全美公立学区大规模低成本推广的极大现实可行性。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.51** 严格随机对照试验测得的四年级数学平均效应量（$ES$），获 [[Every Student Succeeds Act|ESSA]] 强证据（Strong）最高评级。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 28)]]
@@ -123,7 +124,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Fraction Face-Off! 列为初等数学 Tier 2 小组辅导达到 [[Every Student Succeeds Act|ESSA]] 强[[Evidence Standards|证据标准]]的标志性学术方案（[[Effect Size|效应量]] $+0.51$）。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何以 Fraction Face-Off! 等强证据工具充实数学多层干预体系。
 > - [[Catch Up Numeracy]] — 同属初等数学强证据辅导方案，侧重 1:1 个别辅导；两者共同构成初等数学低成本[[Teaching Assistant|助教]]干预的核心矩阵。

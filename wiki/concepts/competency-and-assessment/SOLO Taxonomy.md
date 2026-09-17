@@ -8,7 +8,7 @@ aliases:
 summary: "按回答结构的复杂性区分五种理解水平的学习结果分类框架，可用于把课程目标、等级标准与评估表现转化为可观察的认知动词。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,10 +21,12 @@ related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
 related_persons:
   - "[[John Biggs]]"
+related_methods:
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-07-29
+updated: 2026-09-17
 ---
 
 # SOLO Taxonomy
@@ -96,5 +98,5 @@ updated: 2026-07-29
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 把 SOLO 的五层理解结构转化为课程目标动词，并用于连接教学活动、等级标准与评估任务。

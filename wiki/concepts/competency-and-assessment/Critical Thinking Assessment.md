@@ -8,7 +8,7 @@ aliases:
 summary: "批判性思维测评是对个体在论证分析、证据评价、推论构建与反思判断等高阶认知技能及求真探究倾向的操作化测量与促学评价；在教育与心理研究中用于量化学业增益、诊断思维短板并检验课程对齐与构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 69
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Rating Scale]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
@@ -96,7 +97,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Critical Thinking Assessment
@@ -251,7 +252,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **测量类型调节与[[Common Method Variance|共同方法变异]]** [[Argument_Park_2026_TSC|Park et al. (2026)]] 通过[[Three-Level Meta-Analysis|三水平元分析]]系统检验了主客观测量类型对[[Critical Thinking|批判性思维]]与其他高阶能力相关的显著[[Interaction Effect|调节效应]]，确立了自陈测量中 CMV 的膨胀机制与表现测验的真实认知重叠。
 > - **跨国政策测绘与测评工具谱系** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] [[Systematic Review|系统综述]] [[OECD]] 国家高等教育评价政策与实践，详尽梳理 5 类测评工具谱系、客观统考的[[Construct|构念]]代表性不足及校本真实性评分量规的崛起机制。
 > - **课程评估的[[Construct Validity|构念效度]]审查** [[Argument_Hughes_2014_JRIE|Hughes (2014)]] 运用 Facione、Halpern 与 Paul 等多套框架审查国际课程评估大纲，揭示名义对齐与实际构念覆盖不足的效度脱节。

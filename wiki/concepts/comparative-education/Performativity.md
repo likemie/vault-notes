@@ -6,7 +6,7 @@ aliases:
 summary: "Lyotard 提出的输入输出逻辑原则，要求社会系统不断优化表现并以可见的方式证明其表现，在教育研究中用于解释全球政策空间中行动者的实用主义联盟行为及其话语生产特征"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,7 +34,8 @@ related_concepts:
 related_theories:
   - "[[Network Society]]"
   - "[[Post-structuralism]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jean-François Lyotard]]"
   - "[[Ray Pawson]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Performativity
@@ -173,6 +174,6 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 结合 Castells 的网络理论，分析了操演性原则作为驱动全球教育组织话语生产与临时联盟的底层逻辑。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 在全球[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中，运用操演性与效率逻辑，分析了[[Soft Power|软实力]]话语与“科学知识”通过国家与产业赞助合法化的深层机制。

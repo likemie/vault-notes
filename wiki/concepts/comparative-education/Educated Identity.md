@@ -6,7 +6,7 @@ aliases:
 summary: "比较教育的核心概念之一，指教育系统所塑造的理想人格与文化期望，Cowen 将其与转移并列为学科未来发展的两大伦理与学术问题"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Growth]]"
 related_theories:
   - "[[Network Society]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Cowen]]"
 related_facts:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Educated Identity
@@ -121,6 +122,6 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 系统回溯比较教育史，指出受教育身份从文化理解转向绩效测量的伦理危机。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 追踪全球定义的“受教育身份”（信息时代所需的能力与多样性素养）在拉美教育政策与实践中的多级[[Transfer Translation Transformation|转译]]和意外[[Shape-Shifting|形变]]。

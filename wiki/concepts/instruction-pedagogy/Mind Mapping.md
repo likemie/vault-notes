@@ -11,7 +11,7 @@ aliases:
 summary: "围绕单一中心概念向外辐射多级分支，借助色彩、关键词与自由联想规则外显化非线性思维过程的低认知开销空间视觉组织工具。在创造力干预与高阶思维培养中，它以极简拓扑结构最大化降低认知负荷，是激发发散思维与概念远距组合的核心教学支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
 related_arguments:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-03
+updated: 2026-09-17
 ---
 
 # Mind Mapping
@@ -279,7 +280,7 @@ updated: 2026-09-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > | **[[Divergent Thinking\|发散思维]]赋能** | 思维导图对发散思维的促进（ = 1.167$）显著超越聚合逻辑推导（ = 0.680$） | 放射状拓扑契合大脑联想、多维范畴拓展 | 同上 |
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — [[Three-Level Meta-Analysis|多层元分析]]确立思维训练（以思维导图、[[Brainstorming|头脑风暴]]为载体）的高效能（$g = 0.762$），并纳入 Malycha & Maier (2017) 随机图技术实证，揭示独立练习（$g = 0.682$）的内化优势。
 

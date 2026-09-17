@@ -7,10 +7,10 @@ summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大�
 type: person
 nationality: "dk"
 person_region: "dk"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 41
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: 1977
 died: ""
 lifespan: "1977–至今"
@@ -47,6 +47,7 @@ related_theories:
   - "[[Sociology of Measurement]]"
   - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
@@ -56,6 +57,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
+  - "[[Research in Schools Evaluation]]"
   - "[[UNESCO]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Christian Ydesen
@@ -97,7 +99,7 @@ updated: 2026-09-13
 > - **1977** 出生于丹麦。
 > - **2007–2011** 获丹麦哥本哈根大学博士学位，博士论文深入考察 20 世纪跨国智力测验与心理测量技术的制度化传播。
 > - **2011–2017** 任职于丹麦奥尔堡大学教育、学习与哲学系，主持丹麦独立研究基金会（DFF）关于[[OECD|经合组织]]教育治理历史的多项重大科研项目。
-> - **2019** 与索蒂里亚·格雷克（Sotiria Grek）合著出版里程碑式专著《经合组织在教育领域的历史性崛起：全球治理复合体的形成》（*The OECD's Historical Rise In Education: The Formation of a Global Governing Complex*），奠定跨国指标治理史学领军地位。
+> - **2019** 与索蒂里亚·格雷克（Sotiria Grek）合著出版里程碑式专著《经合组织在教育领域的历史性崛起：全球治理复合体的形成》（*The OECD's Historical [[Research in Schools Evaluation|RISE]] In Education: The Formation of a Global Governing Complex*），奠定跨国指标治理史学领军地位。
 > - **2023** 与马伦·埃尔弗特（Maren Elfert）合著出版《全球教育治理：[[UNESCO|联合国教科文组织]]、经合组织与[[World Bank|世界银行]]的历史与当代纠缠》（*Global Governance of Education: The Historical and Contemporary Entanglements of UNESCO, the OECD and the World Bank*）。
 > - **2024** 与吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）及[[Kerstin Martens|克里斯汀·马滕斯]]（Kerstin Martens）在《比较教育》（*Comparative Education*）合作发表《[[Governing by Numbers|数字治理]] 2.0：信息过载时代作为全球治理工具的[[Policy Brokerage|政策中介]]》（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）。
 
@@ -107,7 +109,7 @@ updated: 2026-09-13
 
 > [!thought-timeline] 思想发展
 > - **2011–2018 — 测验技术、心理测量与教育分流史** 关注心理测量与能力测试技术如何在 20 世纪上半叶作为行政分类与社会控制工具跨国流动。
->   - **代表著作** *The Rise of [[High-Stakes Testing]] in Denmark, 1920–1970* (Peter Lang, 2011)。
+>   - **代表著作** *The [[Research in Schools Evaluation|RISE]] of [[High-Stakes Testing]] in Denmark, 1920–1970* (Peter Lang, 2011)。
 >   - **关键概念／方法** Standardised Testing、Historical Institutionalism。
 >   - **阶段转向** 从单个国家的心理测验史转向对超国家多边组织评估架构的宏观历史社会学考察。
 > - **2019–2022 — [[Global Education Governing Complex|全球教育治理复合体]]的历史制度化** 聚焦战后[[OECD|经合组织]]（OECD）如何从冷战经济协调机构逐步转变为拥有无上规制权力的跨国[[Performance Indicators|教育指标]]帝国。
@@ -141,7 +143,7 @@ updated: 2026-09-13
 > - **政策路径** 成果被[[UNESCO|联合国教科文组织]][[Global Education Monitoring Report|全球教育监测报告]]（GEM Report）以及发展中[[State Educational Sovereignty|国家教育主权]]维护联盟多次引述，为反思全球南方国家过度依赖西方外援指标提供了批判性镜鉴。
 > - **跨国／跨领域传播** 成果在北欧比较教育学派、英国关键社会政策圈以及北美全球治理研究网络中获得广泛反响。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 作为第三作者，主导历史制度演进与地缘政治脉络分析，揭示 [[OECD]] 与[[World Bank|世界银行]]如何借战后危机动员确立硬事实[[Policy Brokerage|政策中介]]特权。
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 在[[Sociology of Measurement|测量社会学]]层面与 Ydesen 的 [[International Indicators of Education Systems|INES]] 指标历史档案形成紧密互证。
 

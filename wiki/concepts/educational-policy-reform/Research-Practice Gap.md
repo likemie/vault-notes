@@ -7,7 +7,7 @@ aliases:
 summary: "指教育研究与学校实践之间的系统性脱节：研究者与实践者常被形容为在两个分离的世界里工作，既是系统层面的常见障碍，也是贯穿各层级的跨层关系机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Framework Synthesis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-17
 ---
 
 # Research-Practice Gap
@@ -143,5 +144,5 @@ updated: 2026-08-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 把研究-实践鸿沟作为系统层面障碍（k = 13）记录，并在"关系"机制中将其识别为贯穿各层级的跨层表现。

@@ -7,7 +7,7 @@ summary: "质性数据分析的核心分析流与认知外化工具，指将高�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Computer Software]]"
   - "[[Audit Trail]]"
+  - "[[Correlational Research]]"
   - "[[Joint Display]]"
 related_instruments: []
 related_persons: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-08
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Data Display
@@ -176,7 +177,7 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]] — 以澳门小学英语教学案例系统展示表格矩阵、双重评注系统（实质性与总体性评注）与跨场所分析矩阵的协同运作机制，论证数据展示如何支撑推论得出。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在中西方学习信念研究中，运用大量系统性数据展示呈现两种文化原型的核心差异，为文化学习模型的实证建构提供直观证据支撑。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 探讨如何通过空间化展示工具（如[[Joint Display|联合展示]] Joint Display）并排呈现多元数据形态，以突破单一数据维度的认知局限并生成高阶[[Metainferences|元推论]]。

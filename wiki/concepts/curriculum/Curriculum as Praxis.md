@@ -6,7 +6,7 @@ aliases:
 summary: "由雪莉·葛兰蒂（Shirley Grundy）基于弗莱雷批判哲学提出的课程范式。强调课程不仅是过程与探究，更必须包含对压迫制度的显性政治解构承诺，将批判意识觉醒与改变不公的社会变革行动（Praxis）作为核心。"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-09-17
 ---
 
 # Curriculum as Praxis（作为实践的课程）
@@ -136,5 +137,5 @@ updated: 2026-08-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]]与葛兰蒂理论，批评 [[Theory of Knowledge|TOK]] 课程止于过程而缺乏实践[[Paradigm|范式]]。

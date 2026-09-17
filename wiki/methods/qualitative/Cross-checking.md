@@ -5,9 +5,9 @@ summary: "质性研究中多位研究者独立分析相同材料后协商一致�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, validation, data-quality]
 related_concepts:
@@ -26,12 +26,13 @@ related_methods:
   - "[[Member Tests]]"
   - "[[Accounts]]"
   - "[[Ethogenic Approach]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 # Cross-checking
 
@@ -93,5 +94,5 @@ Kitwood（1977）推荐的实践是两位以上研究者独立提出类别系统
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）将交叉检查作为陈述分析的两项安全措施之一；Blease & Cohen（1990）展示了交叉检查的具体操作：比较和讨论研究助理与研究者的课堂观察记录以达成确定陈述。

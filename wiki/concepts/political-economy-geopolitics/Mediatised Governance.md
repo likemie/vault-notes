@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Analytical Stance]]"
 related_persons:
   - "[[Paul Morris]]"
+  - "[[Michael Gove]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -48,10 +49,12 @@ related_arguments:
   - "[[Argument_Beech_2009_CE]]"
 related_theories:
   - "[[Convergence Theory in Comparative Education]]"
+related_methods:
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Mediatised Governance
@@ -207,6 +210,6 @@ updated: 2026-09-15
 
 ## 应用案例
 
-> [!evidence-grid-a] 相关研究与实证案例
-> - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 以英格兰应对 2012 年 [[PISA]] 结果为案例，系统论证了教育大臣 Michael Gove 如何动员个人与制度媒介资本，在媒体[[Falling Standards Template|水平下降模板]]与[[Policy Avoidance|政策规避]]的协同下，将平稳的评估数据转化为推动学院学校、严苛督导与[[Performance Pay|绩效工资]]改革的媒介化治理过程。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]与实证案例
+> - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 以英格兰应对 2012 年 [[PISA]] 结果为案例，系统论证了教育大臣 [[Michael Gove]] 如何动员个人与制度媒介资本，在媒体[[Falling Standards Template|水平下降模板]]与[[Policy Avoidance|政策规避]]的协同下，将平稳的评估数据转化为推动学院学校、严苛督导与[[Performance Pay|绩效工资]]改革的媒介化治理过程。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 在阿根廷与巴西课程改革研究中揭示国家话语如何利用电视与大众媒体语言的口号化特征，将不相容的改革政策并置为看似现代的公众形象。

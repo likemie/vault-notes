@@ -8,7 +8,7 @@ summary: "英国保守党核心政治家、前教育大臣（2010–2014），�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Peter Lampl]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Michael Gove
@@ -124,7 +125,7 @@ updated: 2026-09-16
 > - **循证因果运动** 通过将[[Pupil Premium|学生津贴]]的使用与最佳实证证据强行关联，直接激活了全英中小学校长对因果干预工具包（Toolkit）的巨量需求，间接驱动了全球最大规模的学校现场[[Randomised Controlled Trials|随机对照试验]]网络。
 > - **政治传播与公共话语** 树立了政客将跨国评估（[[PISA]]）作为“外来震慑”以规避实质政策论证（[[Policy Avoidance]]）的经典范例，深刻塑造了英国教育政策的[[Mediatised Governance|媒介化治理]]形态（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 记录戈夫受美国奥巴马政府启发拍板设立 1.25 亿英镑留本基金创设 EEF、确立学生津贴并开启英格兰[[Evidence-Based Education|循证教育]]试验繁荣的制度历程。
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 深度解构戈夫在 2013 年议会陈述中动用媒介资本、利用“遗漏话语”将 PISA 数据逆向裁剪为推行[[Performance Pay|绩效工资]]与惩罚性督导合法化修辞的传播机理。
 

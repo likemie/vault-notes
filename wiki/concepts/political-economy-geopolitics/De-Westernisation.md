@@ -7,7 +7,7 @@ aliases:
 summary: "去殖民理论中指代非西方新兴地缘主体（如中国）通过经济崛起与主权话语建设，企图夺取对全球资本主义世界秩序与殖民权力矩阵掌控权的政治空间运动。它与西方“再西方化”地缘战略相对立，虽然在政治与权威领域挑战西方主导，但在本质上仍维护资本主义体系的生存。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,8 @@ related_concepts:
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[Walter Mignolo]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 
 # De-Westernisation
@@ -134,6 +135,6 @@ updated: '2026-08-27'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 从去殖民矩阵角度深刻辨析了美国“[[Re-Westernisation|再西方化]]”与中国“去西方化”的地缘政治冲突与共存特征。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊, 2025]] — 分析了[[Geopolitics of Higher Education|高等教育地缘政治]]从非自觉到自觉的阶段，讨论了当前大国竞争和技术民族主义下非西方国家的空间实践。

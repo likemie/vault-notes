@@ -9,10 +9,10 @@ aliases:
 summary: "英国教育捐赠基金会（EEF）研发的因果证据质量与偏倚风险质评核查规程，通过0至5把挂锁直观呈现干预试验核心效应的内部效度与确定性"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 24
-instrument_related_level: 4
-instrument_related_stars: "⭐⭐⭐⭐"
-instrument_related_color: "#e5e7eb"
+instrument_related_count: 25
+instrument_related_level: 6
+instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
+instrument_related_color: "#fecdd3"
 part_of: ""
 developers:
   - "The Education Endowment Foundation"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Confidence Interval]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # EEF Padlock Security Rating
@@ -123,6 +124,6 @@ updated: 2026-09-15
 
 ## 使用该工具的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详细阐述了 [[Education Endowment Foundation|EEF]] 挂锁安全评级的创设动因与标准演进，指出截至 2019 年 EEF 已发表的 95 项影响评估报告中，89% 采用 [[Randomised Controlled Trials|RCT]] 设计，85% 获得了 3 把锁及以上的安全评级（总体[[Attrition|流失]]率严格控制在 30% 以下），并系统反思了单一度量标尺在沟通不确定性与方法学严谨性之间的权衡。
 > - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 指出其早期研发的研究可[[Reliability|信度]]筛子构成了 EEF 挂锁安全评级的思想雏形与技术前身，反思了挂锁系统在向更技术化、少主观判断方向演进时，如何通过设立明确扣锁规则来规范大规模因果证据的确定性传达。

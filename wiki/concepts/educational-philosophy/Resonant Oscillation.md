@@ -6,7 +6,7 @@ aliases:
 summary: "Cole 提出的一种认知张力状态，描述了在特定课程体系（如IB的知识论课程）中，学生在“高效消化实证知识（向前）”与“解构学科基础假设（向后）”之间产生的来回激荡，这种状态被视为突破性学习发生的关键条件。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,8 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Reflexivity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Baruch Spinoza]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-17
 ---
 
 # Resonant Oscillation
@@ -104,5 +105,5 @@ updated: 2026-08-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 提出了这一概念，用以解释[[International Baccalaureate|国际文凭]]（IB）体系下优秀学生在接触[[Theory of Knowledge|知识论]]（TOK）课程时普遍遭遇的认知壁垒和随后的[[Reflexivity|反思性]]突破。

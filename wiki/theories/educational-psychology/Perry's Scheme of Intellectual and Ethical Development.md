@@ -9,7 +9,7 @@ aliases:
 summary: "William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -56,10 +56,11 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons: []
 status: active
 created: 2026-08-13
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
@@ -235,7 +236,7 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 详尽梳理佩里图式的 9 个位置与 4 大阶段，将其置于[[Epistemology|认识论]]发展模型的谱系源头予以评述。
 > - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 针对佩里提出的大学教育环境塑造认识论思维[[Hypothesis|假设]]进行大规模纵向追踪检验，证实[[Disciplinary Socialization|学科社会化]]效应。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 在[[Meta-analysis|元分析]]中将佩里开创的发展论模型作为调节[[Variable|变量]]进行检验，并基于实证数据反思了阶段论对低年级学生的传统假设。

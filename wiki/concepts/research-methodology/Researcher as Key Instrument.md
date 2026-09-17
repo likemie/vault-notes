@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究的核心公理之一：研究者自身是数据收集和解释的首要工具，其适应性、反应性和默会知识使其优于标准化工具，但这也要求高度反身性来管理研究者效应。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-07-11
+updated: 2026-09-17
 ---
 
 # Researcher as Key Instrument
@@ -98,6 +99,6 @@ Lincoln & Guba（1985, pp. 193–194）系统阐述了人作为研究工具相�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将研究者作为关键工具定位为[[Qualitative Research|质性研究]]的九大核心特征之一。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 从[[Interpretive Paradigm|诠释范式]]公理出发，系统阐述研究者作为工具的[[Epistemology|认识论]]根基（Eisner, 1991）、人作为工具的优势（Lincoln & Guba, 1985）、[[Reflexivity|反身性]]的必要补充（Hammersley & Atkinson, 1983）以及进入现场的四种角色（Flick, 1998）。

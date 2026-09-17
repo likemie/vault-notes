@@ -9,7 +9,7 @@ aliases:
 summary: "Robert Cowen（2009）提出、Jason Beech（2009）与 Steiner-Khamsi 等人（2024）深化的跨国教育知识流动分析框架，追踪教育思想在空间转移（太空门时刻）、政策转译（变色龙过程）与权力压缩转化（形态变质与制度化）中的演变，并在数字治理 2.0 中揭示转移空间的自指性转译与政策周期政治过滤机制。"
 type: concept
 domain: "comparative-education"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -63,6 +63,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Content Analysis]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Robert Cowen]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Transfer Translation Transformation
@@ -291,7 +292,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 提出 3T 核心[[Analytic Framework|分析框架]]，并使用战后德日改革与后殖民教育重组阐释。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 应用 3T 框架分析拉美课程改革，引入[[Space of Flows and Space of Places|流动空间]]与网络国家概念。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 从[[Wight's Three Traditions of International Theory|国际关系理论]]视角拓展 3T 分析[[Paradigm|范式]]。

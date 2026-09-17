@@ -7,9 +7,9 @@ summary: "准入困难时依赖自愿参与者的非概率抽样方法，可能�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 4
+method_related_count: 5
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dbeafe"
 tags:
   - method/sampling
@@ -20,6 +20,7 @@ related_theories: []
 related_methods:
   - "[[Non-probability Sampling]]"
   - "[[Sampling Frame]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-17
 ---
 # Volunteer Sampling
 
@@ -61,5 +62,5 @@ updated: 2026-06-22
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍志愿者抽样作为准入困难时的最后选择。

@@ -9,7 +9,7 @@ title: "Argument_Higgins_2016_ROE"
 argument_key: "Argument_Higgins_2016_ROE"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Effect Size Conversion]]"
+  - "[[Correlational Research]]"
   - "[[Intervention Research]]"
   - "[[Umbrella Review]]"
   - "[[Non-intervention Research]]"
@@ -373,7 +374,7 @@ Hattie 的工作面临批评。核心假设是元综合中的研究按类型和�
 > [!note]- 证据质量的层级
 > **最高优先级**是随机试验和良好控制实验的元分析，其中效果的变异（[[Heterogeneity|异质性]]）被探索并尽可能解释。质量评级还包括元分析间效果的一致性。
 >
-> 若此类证据不可用，则基于其他定量数据（如相关研究或单一研究）进行估计。Toolkit 旨在提供特定领域中可用的最佳估计和证据稳健性评估，而非仅报告证据稳健的领域。即使研究稀疏甚至缺乏（如校服或绩效薪酬），也会基于人们对有效实践的假设提供总结(p.46)。
+> 若此类证据不可用，则基于其他定量数据（如[[Correlational Research|相关研究]]或单一研究）进行估计。Toolkit 旨在提供特定领域中可用的最佳估计和证据稳健性评估，而非仅报告证据稳健的领域。即使研究稀疏甚至缺乏（如校服或绩效薪酬），也会基于人们对有效实践的假设提供总结(p.46)。
 
 ---
 

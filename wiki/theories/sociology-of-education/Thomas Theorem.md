@@ -10,7 +10,7 @@ aliases:
 summary: "符号互动论与微观教育社会学的奠基性定理，指出行动者对情境的主观定义决定其行动取向并产生真实客观后果，揭示了微观意义协商、制度性权力强制与自证预言的辩证张力。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 25
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -40,12 +40,14 @@ related_methods:
   - "[[Accounts]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Peter Woods]]"
   - "[[Jack Douglas]]"
   - "[[Basil Bernstein]]"
   - "[[Keith Morrison]]"
+  - "[[Michael Gove]]"
   - "[[John Rex]]"
 related_facts: []
 related_arguments:
@@ -54,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Thomas Theorem
@@ -107,7 +109,7 @@ updated: 2026-09-09
 
 ### 命题二　角色采纳、内部对话与印象管理构成情境定义的微观协商机制
 
-情境定义绝非孤立心灵的先验悬想，而是在具体的社会符号互动中持续协商与流动的动态过程。依据[[Peter Woods|彼得·伍兹]]（Peter Woods, 1979, 1983）对教育[[Symbolic Interactionism|符号互动论]]的经典阐发，行动者生活在充满符号与语言的社会世界中。行动者通过米德所阐明的“角色采纳”（taking the role of the other）机制，向自我发出指示，预测他人对自身行为的可能反馈。在此基础上，行动者积极运用戈夫曼拟剧论的“印象管理”策略（impression management），在课堂师生互动中精心编排自身的言行表演，试图诱导或迫使互动对方接受自己所偏好的情境定义（例如学生通过集体哄笑或“草莓”隐喻，将原本压抑的训话情境重新定义为共享幽默的亚文化空间）。情境定义因此是多方行动者持续博弈、权衡与妥协的实践成就。
+情境定义绝非孤立心灵的先验悬想，而是在具体的社会符号互动中持续协商与流动的动态过程。依据[[Peter Woods|彼得·伍兹]]（Peter Woods, 1979, 1983）对教育[[Symbolic Interactionism|符号互动论]]的经典阐发，行动者生活在充满符号与语言的社会世界中。行动者通过米德所阐明的“角色采纳”（taking the role of the other）机制，向自我发出指示，预测他人对自身行为的可能反馈。在此基础上，行动者积极运用[[Michael Gove|戈夫]]曼拟剧论的“印象管理”策略（impression management），在课堂师生互动中精心编排自身的言行表演，试图诱导或迫使互动对方接受自己所偏好的情境定义（例如学生通过集体哄笑或“草莓”隐喻，将原本压抑的训话情境重新定义为共享幽默的亚文化空间）。情境定义因此是多方行动者持续博弈、权衡与妥协的实践成就。
 
 ### 命题三　制度性权力不对称、虚假意识与自证预言构成情境定义的结构性反思边界
 
@@ -151,6 +153,6 @@ updated: 2026-09-09
 
 ## 参考文献
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 18, 25–26)]] — 系统阐明托马斯定理的微观机制、课堂互动应用以及[[Basil Bernstein|伯恩斯坦]]与[[John Rex|雷克斯]]的结构性批判。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 贯穿全书[[Qualitative Research|质性研究]]设计与[[Ethnography|民族志]]章节，指导研究者深入理解参与者的生活世界叙事。

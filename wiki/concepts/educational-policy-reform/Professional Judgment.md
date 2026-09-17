@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -36,12 +36,12 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Research Utilization]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Visible Learning]]"
   - "[[Research Literacy]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[International Education]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
@@ -55,6 +55,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
   - "[[Framework Synthesis]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-03"
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Professional Judgment
@@ -248,7 +249,7 @@ updated: 2026-09-14
 > [!debates] 学术争议
 >
 > > [!axis] 理论辩护与商业化认证的实践脱节
-> > Qvortrup 试图将专业判断作为缺失环节融入 Hattie 的 [[Visible Learning|VL]] 体系进行辩护；批判学者指出，VL 的商业化认证与培训极其强调指标合规性，在实际操作中反而压缩了教师的[[Reflexivity|反思性]]判断空间。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–5)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
+> > Qvortrup 试图将专业判断作为缺失环节融入 Hattie 的 VL 体系进行辩护；批判学者指出，VL 的商业化认证与培训极其强调指标合规性，在实际操作中反而压缩了教师的[[Reflexivity|反思性]]判断空间。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–5)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
 >
 > > [!axis] 专业判断与[[Empiricism|经验主义]]的滑坡风险
 > > 强循证学者担忧，若过度拔高专业判断而缺乏严谨证据和方法论约束，判断极易沦为捍卫落后教学习惯的主观遮羞布；因此必须维持严谨证据与严谨判断的动态张力。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 123)]]; [[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
@@ -287,7 +288,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]将研究证据界定为开放系统中的概率性资源，分析抹杀专业判断导致的[[Teaching Assistant|教学助理]]误裁实证案例。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 批判技术官僚话语，提出教育核心在于价值审议（“为了什么目的”），确立专业判断的伦理与政治维度。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 将专业判断确立为 [[Evidence-Informed Practice|EIP]] 四源整合的核心枢纽，论述严谨证据与严谨判断过程并存的原则。

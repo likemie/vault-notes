@@ -7,10 +7,10 @@ aliases:
 summary: "Cole 提出的关于后现代课程的功能隐喻。它主张教育（特别是探究性课程）不应追求导向预设的普世真理或统一结论，而应作为一种持续激发群体想象力、甚至将负面情感转化为生产性动力的引擎，借此不断孕育出跨学科的新知识与新探索。"
 type: concept
 domain: "curriculum"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/curriculum
   - concept/postmodernism
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Creativity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Baruch Spinoza]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-17
 ---
 
 # Feeder Mechanism
@@ -105,5 +106,5 @@ updated: 2026-08-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 提出在[[Theory of Knowledge|知识论]]（TOK）课程中应用[[Baruch Spinoza|斯宾诺莎]]主义，将其打造成一种不再受困于目的论的教育滋养机制。

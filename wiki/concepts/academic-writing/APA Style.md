@@ -4,7 +4,7 @@ aliases: ["APA", "APA style manual", "Publication Manual of the APA", "APA 7th e
 summary: "美国心理学会出版手册规定的学术写作与文献著录规范，是社会科学、行为科学与教育学研究中应用最广泛的学术格式，涵盖文中引用、参考文献表、标题层级、图表呈现、章节时态及包容性无偏见语言等核心规则。"
 type: concept
 domain: "academic-writing"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_theories:
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 # APA Style
 
@@ -224,5 +225,5 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统阐述了 APA 格式在研究计划设计、[[Literature Review|文献综述]]编排、标题五级系统、动词时态与包容性语言中的具体应用。

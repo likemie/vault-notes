@@ -11,7 +11,7 @@ aliases:
 summary: "认知心理学与学习科学概念，指个体因信息获取的容易性、文本表层语义流畅性或即时提取的顺畅感，产生的一种误将‘容易理解与阅读顺畅’等同于‘已真正掌握与内化知识’的元认知监控偏差。"
 type: concept
 domain: "educational-psychology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,6 +35,7 @@ related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
@@ -43,7 +44,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-17
 ---
 
 # Illusion of Competence
@@ -207,5 +208,5 @@ updated: 2026-09-02
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，解构生成式 AI 语义流畅性引发能力错觉、构想惰性与认知侵蚀的心理机制。

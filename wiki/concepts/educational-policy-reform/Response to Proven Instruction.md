@@ -6,7 +6,7 @@ aliases:
 summary: "罗伯特·斯莱文于 2019 年提出的循证教育改革实施方案，主张以达到 ESSA 强与中等证据标准的经验证具体干预产品刚性填充干预反应模型（RTI）三层架构，从根本上解决传统 RTI 因缺乏具体方案支撑而流于形式的系统失效问题。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -229,7 +230,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，提出 RTPI 方案，诊断传统 [[Response to Intervention|RTI]] 的全国失效证据，系统呈现阅读与数学领域约 100 个符合 [[Every Student Succeeds Act|ESSA]] 强/中[[Evidence Standards|证据标准]]的具体干预方案矩阵。
 > - [[Response to Intervention]] — RTI 母概念条目，包含原始框架、IDEA 2004 法定背景及与 RTPI 的演进关系。
 > - [[Evidence-Based Reform]] — 循证改革主条目，包含政府资助（i3/[[Education Innovation and Research|EIR]]/[[Education Endowment Foundation|EEF]]）、证据审查平台（[[What Works Clearinghouse|WWC]]/[[Best Evidence Encyclopedia|BEE]]/[[Evidence for ESSA]]）与 ESSA 政策激励三条件框架。

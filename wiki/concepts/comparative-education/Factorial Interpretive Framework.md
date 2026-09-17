@@ -10,7 +10,7 @@ aliases:
 summary: "20世纪经典比较教育学中由汉斯集大成的核心分析范式，通过自然、宗教与世俗三维恒久力量解释民族国家教育制度的相貌生成与精神特质"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Multiple Regression]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Nicholas Hans]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Factorial Interpretive Framework
@@ -334,5 +335,5 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古全面剖析汉斯 1949 年专著，系统拆解自然、宗教与世俗三维阶梯因素架构，记录 1960 年代实证学派的严苛批判，并以广义科学观为历史因果因素解释学进行当代学术平反。

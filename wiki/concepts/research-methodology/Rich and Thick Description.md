@@ -11,7 +11,7 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Trustworthiness]]"
   - "[[Evaluation Research]]"
   - "[[Double Hermeneutic]]"
+  - "[[Lesson Study]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Interpretive Paradigm]]"
@@ -54,6 +55,7 @@ related_methods:
   - "[[Critical Ethnography]]"
   - "[[Mixed Methods Research]]"
   - "[[Member Tests]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:
@@ -73,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Rich and Thick Description
@@ -196,7 +198,7 @@ updated: 2026-09-09
 ### 命题四　深描能够穿透机械行为编码而解码情境索引性与默契秩序
 
 > [!concept-lens] 微观互动与方法论批判维度
-> 本命题聚焦深描与量化系统观察工具在课堂研究中的正面交锋，彰显深描在[[Decodification|解码]]微观语言密语与权力协商中的不可替代性。
+> 本命题聚焦深描与量化系统观察工具在[[Lesson Study|课堂研究]]中的正面交锋，彰显深描在[[Decodification|解码]]微观语言密语与权力协商中的不可替代性。
 
 > [!claim] Walker, R. & Adelman, C.
 > **[[Indexicality|索引性]]破译与行为[[Coding in Qualitative Research|编码]]局限** 沃克与阿德尔曼通过经典中学的“草莓事件”实证论证：预设类别的行为量化观察系统（如 [[Flanders Interaction Analysis Categories|FIAC]]）仅能记录外在行为的表面序列（如批评-提问-激惹-混乱），彻底抹杀了话语中浓缩的情境索引性（indexicality）；深描揭示出看似叛逆的打断实质上是高度信赖的师生幽默默契，有力证明了缺乏深描的行为测度在教育复杂性面前的认识论贫困。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]
@@ -236,7 +238,7 @@ updated: 2026-09-09
 
 ## 论证索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 20–21)]] — 援引 Walker & Adelman（1975）的“草莓事件”经典案例，尖锐对比 [[Flanders Interaction Analysis Categories|FIAC]] 机械行为[[Coding in Qualitative Research|编码]]的局限与深描在破译课堂[[Indexicality|索引性]]情境密语中的根本价值。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11, pp. 403–407, 443–445)]] — 系统论述深描作为自然主义[[Paradigm|范式]]核心公理的[[Epistemology|认识论]]根基、迁移性判断机制与 Swain（2006）关于 1% 数据的选择性写作纪律。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23, p. 466)]] — 详尽剖析 Carspecken（1996）提出的言语、非言语与低推断描述等深描六大操作构件。

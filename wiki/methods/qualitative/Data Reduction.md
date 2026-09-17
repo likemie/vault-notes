@@ -7,7 +7,7 @@ summary: "质性数据分析的核心分析流，指在整个研究生命周期�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Content Analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
   - "[[Axial Coding]]"
   - "[[Selective Coding]]"
 related_instruments: []
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-08
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Data Reduction
@@ -184,7 +185,7 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30)]] — 将数据缩减确立为质性分析的核心支柱，系统阐述[[Qualitative Content Analysis|质性内容分析]]的 11 步规程与[[Coding in Qualitative Research|编码]]技术，论证如何借助单位化、层级归并与频数统计单实现高保真数据缩减。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 阐释质性[[Winnowing|数据筛选]]（Winnowing）机制，论述在面对密集文本与图像时如何进行结构性过滤，将海量资料聚焦提炼为少数核心主题。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 详述质性资料从[[Open Coding|初始编码]]、[[Axial Coding|轴心编码]]到聚焦与[[Selective Coding|选择性编码]]的多阶段浓缩提炼过程，示范如何在教育研究中逐步收拢范畴并建立理论连贯性。

@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 95
+related_count: 96
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -88,6 +88,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
   - "[[Quantitative Research]]"
   - "[[Random Assignment]]"
 related_instruments: []
@@ -123,7 +124,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Positivism
@@ -372,7 +373,7 @@ updated: 2026-09-11
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五大顶级教育心理学期刊发表[[Document\|文献]] | 历时性方法学内容计量[[Coding in Qualitative Research\|编码]] | 量化[[Intervention Research\|干预研究]] vs [[Qualitative Research\|质性研究]]占比 | 量化干预与相关研究仍占 78%，呈现强大制度惯性，质性升至 22% | $p < .05$ | 验证了实证量化模式在主流学科中持续的主导地位与多元范式松动 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五大顶级教育心理学期刊发表[[Document\|文献]] | 历时性方法学内容计量[[Coding in Qualitative Research\|编码]] | 量化[[Intervention Research\|干预研究]] vs [[Qualitative Research\|质性研究]]占比 | 量化干预与[[Correlational Research\|相关研究]]仍占 78%，呈现强大制度惯性，质性升至 22% | $p < .05$ | 验证了实证量化模式在主流学科中持续的主导地位与多元范式松动 |
 > | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] | 跨国可见学习政策与课堂实证评估报告 | 话语与方法学批判分析 | [[Meta-analysis\|元分析]]效应量与循证处方指标 | 揭示将师生教学交往降解为单一效应量指标造成课堂[[Ontology\|本体论]]抽空 | — | 质性批判展现新实证主义在微观教学中面临的本体论边界 |
 
 ---
@@ -381,7 +382,7 @@ updated: 2026-09-11
 
 实证主义及其批评贯穿了教育哲学、比较教育与研究方法论的经典[[Document|文献]]。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 113)]] — 系统复原孔德实证主义的起源、四大科学[[Hypothesis|假设]]、Giddens 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部批评，展现当代教育研究向后实证与批判[[Paradigm|范式]]演进的完整版图。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 剖析比较教育学奠基人[[Marc-Antoine Jullien|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire|问卷]]归属于欧陆二级精神科学，揭示其经验收集始终从属于全人[[Bildung|教化]]与社会改良，强力反驳 20 世纪行为主义实证派以[[Value Neutrality|价值中立]]为由指责其带有主观偏见的辉格史错置。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 系统梳理 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology|认识论]]局限。

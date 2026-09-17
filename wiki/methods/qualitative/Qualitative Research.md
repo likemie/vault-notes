@@ -11,7 +11,7 @@ summary: "以解释学与建构主义为认识论基础，在自然情境中通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 81
+method_related_count: 82
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -59,6 +59,7 @@ related_theories:
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Non-intervention Research]]"
+  - "[[Correlational Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Triangulation]]"
@@ -111,7 +112,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Qualitative Research
@@ -123,7 +124,7 @@ updated: 2026-09-09
 > [!def] 方法定义
 > 质性研究（Qualitative Research）是一种以[[Interpretive Paradigm|诠释范式]]与[[Constructivist Paradigm|社会建构主义]]为[[Epistemology|认识论]]根基，旨在探索和理解个体或群体赋予社会与人类问题之主观意义的探究路径（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 41]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 17]]）。研究过程在参与者身处的自然情境中展开，依托[[Researcher as Key Instrument|研究者作为关键工具]]收集多重质性材料，遵循自下而上的归纳式与迭代式分析程序生成范畴与主题，并通过[[Rich and Thick Description|深描]]展现情境复杂性。书面报告结构灵活生动，强调展现多元主体视角与研究者的[[Reflexivity|反身性]]立场。
 >
-> 在方法分类谱系中，质性研究属于不操纵自[[Variable|变量]]的[[Non-intervention Research|非干预研究]]，依靠访谈文本、现场观察、历史档案与视听图像等质性材料开展探究，与基于量化观测的观察/相关研究及受控实验设计形成根本性分野（[[Argument_Brady_2023_EPR|Brady et al., 2023, p. 4]]）。
+> 在方法分类谱系中，质性研究属于不操纵自[[Variable|变量]]的[[Non-intervention Research|非干预研究]]，依靠访谈文本、现场观察、历史档案与视听图像等质性材料开展探究，与基于量化观测的观察/[[Correlational Research|相关研究]]及受控实验设计形成根本性分野（[[Argument_Brady_2023_EPR|Brady et al., 2023, p. 4]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 行动者的主观生命体验、意义建构过程、微观交往互动、制度文化仪式、政策在地落实历程与话语实践。
@@ -276,7 +277,7 @@ Miller 关于新任大学校长第一年经历的博士论文方案，是质性�
 ## 与相近方法的辨析
 
 > [!method-stack] 质性研究与相近研究路径的界限
-> - **vs 观察/相关研究** 两者皆不操纵[[Variable|变量]]，但相关研究依赖数值统计与标准化测量，质性研究则以[[In-depth Interview|深度访谈]]和情境文本为数据基础（[[Argument_Brady_2023_EPR|Brady et al., 2023, p. 4]]）。
+> - **vs 观察/[[Correlational Research|相关研究]]** 两者皆不操纵[[Variable|变量]]，但相关研究依赖数值统计与标准化测量，质性研究则以[[In-depth Interview|深度访谈]]和情境文本为数据基础（[[Argument_Brady_2023_EPR|Brady et al., 2023, p. 4]]）。
 > - **vs [[Mixed Methods Research|混合方法研究]]** 混合方法研究在同一研究中对量化与质性数据进行深层整合；纯质性研究则完全依托质性数据链条（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch. 1]]）。
 > - **vs [[Intervention Research|干预研究]]** 质性研究聚焦理解自然发生的情境与过程；干预研究则主动施加控制性处理以检验因果[[Hypothesis|假设]]（[[Argument_Brady_2023_EPR|Brady et al., 2023, p. 2]]）。
 
@@ -300,7 +301,7 @@ Miller 关于新任大学校长第一年经历的博士论文方案，是质性�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 系统评析质性[[Interpretive Paradigm|诠释范式]]的发展渊源，揭示教室互动[[Rich and Thick Description|深描]]超越机械行为量化的方法学意义。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 详尽规范质性研究九大特征、数据收集类型、七步分析规程与效度检验策略。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 统计分析顶级教育心理学期刊中质性研究的增长趋势，警示质性[[Recommendations for Practice|实践建议]]中的[[Causality|因果推断]]边界。

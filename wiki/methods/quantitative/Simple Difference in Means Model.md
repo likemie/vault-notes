@@ -10,7 +10,7 @@ summary: "RCT 与组间比较中最直观的基础统计模型，直接以处理
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Effect Size Conversion]]"
   - "[[Experimental Research]]"
   - "[[Analysis of Covariance]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Simple Difference in Means Model
@@ -239,5 +240,5 @@ updated: 2026-09-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）等杜伦大学学者利用英格兰[[National Pupil Database|国家学生数据库]]（NPD）对 17 项早期完成的 [[Education Endowment Foundation|EEF]] 试验开展的四模型并行复算，揭示出简单均值差异模型相比[[Covariate Adjustment|协变量调整]]模型和多层模型存在严重的功效损失与效应漂移，促成了英国国家级试验统计分析标准的建立。

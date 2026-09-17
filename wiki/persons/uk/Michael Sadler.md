@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -43,6 +43,7 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Fieldwork]]"
+  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_persons:
   - "[[Immanuel Kant]]"
@@ -70,7 +71,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Michael Sadler
@@ -177,7 +178,7 @@ updated: 2026-09-12
 > - **政策路径** 其主持的特别调查与报告办公室的系列成果直接影响了英国 1902 年《巴尔福教育法案》对地方中等教育体系的重构；曾作为布赖斯委员会核心成员起草报告，并拟定大英帝国教育部方案。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 44–45)]]
 > - **跨国传播** 其“盆栽移植”隐喻成为比较教育和[[Policy Borrowing|政策借用]]领域引用频率最高的方法论格言，在发展援助与[[International Education|国际教育]]流动中被用作反思技术援助失败的理论护盾。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009]] — 阐明萨德勒思想在维多利亚晚期新自由主义与牛津唯心主义中的哲学源流，评析其不可捉摸精神力量对学科奠基的深远影响。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 批判比较教育学对萨德勒的肖像学崇拜与传统的发明，指出其 1900 年演讲造成的混乱远多于解答。
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 将萨德勒定位为[[Realism in International Relations|现实主义]]国关传统在比较教育中的典型代拟节点，解析其背后的工业自保焦虑。

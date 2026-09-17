@@ -11,7 +11,7 @@ summary: "探索性因子分析与主成分分析前置诊断观测变量相关�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Sample Size Determination]]"
   - "[[Scale Development]]"
+  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # KMO and Bartlett's Test of Sphericity
@@ -130,6 +131,6 @@ updated: 2026-09-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在样本 1（$N=310$）执行 [[Exploratory Factor Analysis|EFA]] 前，检验并报告 KMO $= .92$ 且 Bartlett 球形检验达到极显著水平（$\chi^2 = 3450.21, p < .001$），确立因子分析的充分合法性。
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 在中学生科学[[Epistemological Beliefs|认识论信念]][[Questionnaire|问卷]]（[[Schommer's Modified Epistemological Questionnaire|SMEQ]]）因子分析前，通过 KMO 与 Bartlett 检验确立[[Epistemology|认识论]] 3 维度的提取前提。

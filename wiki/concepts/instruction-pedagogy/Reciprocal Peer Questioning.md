@@ -10,7 +10,7 @@ aliases:
 summary: "由 Alison King 提出的一种基于高阶提问句干脚手架的同伴教学策略，引导学习者在结对互动中相互质询并进行认知精细加工"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Reciprocal Peer Questioning
@@ -122,5 +123,5 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，以 King（1995）对等同伴提问法为典型案例，定量检验学生生成提问策略（$k=4, g+=0.37$）对[[Critical Thinking|批判性思维]]技能的干预效果。

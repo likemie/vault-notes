@@ -9,7 +9,7 @@ aliases:
 summary: "教育哲学与教学法中的核心中介，通过师生与生生间平等的经验共享、批判性质询与共同探究，克服单向灌输并促进批判性思维与意识觉醒"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[Discourse Analysis]]"
 related_instruments: []
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Dialogue in Education
@@ -166,7 +167,7 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research|实验研究]]，系统定量检验 11 项对话具体子策略（教师提问、全班研讨、辩论、[[Socratic Dialogue|苏格拉底对话]]等）对[[Critical Thinking|批判性思维]]技能的促进效应（$g+ = 0.32–0.42$）。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 从[[Critical Pedagogy|批判教育学]]与[[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]]教育哲学出发，论述对话作为克服[[Banking Model of Education|储蓄式教育]]、激发批判性共同探究的政治教学实践。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 采用[[Discourse Analysis|话语分析]]检验家庭教育中的母子学习对话互动模式与文化[[Cognitive Source|认知来源]]。

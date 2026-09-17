@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在高教产学中体现为技术成果商业化漏斗，在教育治理中体现为学术证据向教学与政策实践的双向情境转译；反对形式主义的剪贴式照搬，强调基于行动理论的情境再脉络化与微观协同探究"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Nancy Cartwright]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-03
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Research Translation
@@ -305,7 +306,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]** 提出企业支持大学研究转化的六阶段漏斗模型，深度解析监护权交接、组织风险分担与三类转化路径。
 > - **[[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]** 跨国实证测度 37 个教育系统组织行动者在生产、政策促成与实践促成三端的分布，确立生产过剩与转化贫瘠的结构性断裂。
 > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 阐明[[Evidence Ecosystem|证据生态系统]]中转化中介的组织与个体定位，提出超越线性传递的推拉共存与动态共创模型。

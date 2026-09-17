@@ -8,7 +8,7 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 50
+person_related_count: 51
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Problem Approach]]"
   - "[[Analytic Framework]]"
   - "[[Typological Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Karl Popper]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Brian Holmes
@@ -173,7 +174,7 @@ updated: 2026-09-12
 > - **政策路径** 深度影响了英联邦、[[UNESCO]] 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
 > - **史料评价** 破除实证派对早期发端的傲慢偏见，高度肯定[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）编纂世界教育百科全书的历史贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考察霍姆斯物理学式预测模型与政策科学定位在 1960 年代[[Ontology|本体论]]大论战中的关键地位。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与[[Paradigm|范式]]冲击。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析霍姆斯运用批判二元论解构美国普遍因果律、以问题法综合历史文化与社会科学的[[Epistemology|认识论]]建构，以及在官方资助市场的边缘化遭遇。

@@ -7,7 +7,7 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层理论，主张教育决策是阶级条件下对成本、风险和收益的理性计算"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Cohort Study]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
@@ -46,7 +47,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-08-26
+updated: 2026-09-17
 ---
 
 # Rational Action Theory
@@ -162,7 +163,7 @@ updated: 2026-08-26
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian]] — 将 [[Remote Associates Test|RAT]] 纳入文化社会学[[Paradigm|范式]]争论，作为"价值选择过程"的理论讨论[[Dialogue in Education|对话]]方之一，指出其工具理性[[Hypothesis|假设]]的文化社会学局限
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 以 Goldthorpe（2007）的七步案例展示 RAT 如何通过排除竞争理论、确立假设和三组证据集群的检验来解释阶级差异的持续存在
 

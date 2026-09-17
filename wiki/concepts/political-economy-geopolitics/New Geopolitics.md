@@ -5,7 +5,7 @@ aliases:
 summary: "20世纪90年代以来以批判地缘政治为代表的一系列地缘政治理论范式，采取建构主义立场，将空间理解为流动的社会建构，将知识置于地缘政治分析的中心"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,8 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Governmentality]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-07-10
+updated: 2026-09-17
 ---
 # New Geopolitics
 
@@ -93,5 +94,5 @@ updated: 2026-07-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统阐释新地缘政治与[[Classical Geopolitics|传统地缘政治]]在[[Ontology|本体论]]上的差异，以及两种[[Paradigm|范式]]在当代[[Geopolitics of Higher Education|高等教育地缘政治]]研究中的复合嵌套形态。

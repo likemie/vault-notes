@@ -8,7 +8,7 @@ summary: "美国公立学校运动领袖与马萨诸塞州教育委员会首任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,7 +34,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Horace Mann
@@ -175,7 +176,7 @@ updated: 2026-09-11
 > - **人道主义教学法与儿童中心革命** 大力倡导[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]直观教学法，有力抗击波士顿校长保守联盟，推动体罚在全美公立学校的逐步退场与基于关爱的温和人道纪律普及。（Downs, 1974:88–92）
 > - **民权政治与人人平等实践** 在国会众议院领衔抵抗奴隶制扩张，在安提阿学院率先践行男女同校与非宗派高等教育，将公立教育的平等承诺延伸至更宽广的民权领域。
 
-相关研究深入梳理了曼在比较教育与思想史维度的学术贡献：
+[[Correlational Research|相关研究]]深入梳理了曼在比较教育与思想史维度的学术贡献：
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 阐释曼与斯托、巴纳德构成的美洲[[Educational Meliorism|改良主义]]谱系，系统辨析欧陆直接制度移植与北美政治合法化论证的机制分野。

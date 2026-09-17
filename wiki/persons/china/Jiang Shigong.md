@@ -6,7 +6,7 @@ summary: "中国宪法学者，北京大学法学院教授，曾任中联办研�
 type: person
 nationality: "china"
 person_region: "china"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Psychologisation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Paul Morris]]"
 related_facts:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-12'
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Jiang Shigong
@@ -94,7 +95,7 @@ updated: 2026-09-11
 > - **政策路径** 其法理建构直接指导了香港特区2020年后《国安法》的司法与行政实践，特别是在教育领域全面取消通识科、强制教科书国安评审，以及将青少年教育重点转向[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]融合和“感恩”等[[Psychologisation|心理化]]情感控制。
 > - **理论路径** 极大地改变了中国宪法学界对“[[One Country, Two Systems|一国两制]]”及基本法的法学阐释主流，使得“契约论”和“双重宪制权”话语被单一制的“全面管治权”与“单向授权”话语所取代。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Vickers_2024_CE|Vickers (2024)]] — 深刻解构了强世功的一国两制法理逻辑及其对香港法治与教育专业自主权产生的压制效果。
 
 ---

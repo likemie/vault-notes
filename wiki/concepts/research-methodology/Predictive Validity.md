@@ -8,10 +8,10 @@ aliases:
 summary: "效标关联效度的一种核心形式，衡量测量工具在当前时间点的得分对受试者未来认知表现、学业成就或实际成果的预测能力，核心特征是具有时滞性与预测效度不对称性"
 type: concept
 domain: "research-methodology"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - method/research-methods
   - theme/validity
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Criterion Problem]]"
   - "[[Chain of Evidence]]"
   - "[[Consequential Validity]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Classical Test Theory]]"
@@ -51,6 +52,7 @@ related_methods:
   - "[[Second-Order Meta-Regression]]"
   - "[[Cohort Study]]"
   - "[[Multiple Regression]]"
+  - "[[Correlational Research]]"
   - "[[Meta-regression]]"
 related_persons:
   - "[[Mark A. Runco]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Predictive Validity
@@ -175,7 +177,7 @@ updated: 2026-09-11
 > > - **Wolf (1994)** 指出教育中的 [[Academic Achievement|GPA]] 与工作绩效往往包含大量与个体真实能力无关的混杂因素，导致预测效度系数虚假波动。
 > > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]** 强调必须通过双盲评分与多元效标组合消除效标污染。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 179)]]
 >
-> > [!axis] 范围限制（Range Restriction）导致的效度低估
+> > [!axis] 范围限制（[[Floor and Ceiling Effects|range restriction]]）导致的效度低估
 > > 争论在选拔性情境中仅能对被录取的优秀子群体进行追踪，是否人为压低了预测效度相关系数。
 > >
 > > - **心理测量学修正派** 主张采用统计校正公式（Thorndike 方程）修正由于选拔截断导致的方差缩水。
@@ -218,7 +220,7 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 开展[[Meta-meta-analysis|二阶元分析]]，系统证实潜能测验在作为[[Independent Variable|预测变量]]时具备中等偏强的预测效度（$r = 0.29$），并确立了[[Variable|变量]]角色的调节显著性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详尽论述预测效度在教育考试、[[Gaokao|高考]]与选拔性评估中的测量学准则与效标约束条件。
 

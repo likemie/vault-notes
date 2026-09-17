@@ -6,7 +6,7 @@ aliases:
 summary: "George Kelly的个人建构理论中的基本分析单位——个体用于概念化日常世界的双极维度。"
 type: concept
 domain: "educational-psychology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_theories:
   - "[[Governmentality]]"
 related_methods:
   - "[[Repertory Grid Technique]]"
+  - "[[Correlational Research]]"
   - "[[Laddering]]"
   - "[[Pyramiding]]"
 related_arguments:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Personal Constructs
 
@@ -102,5 +103,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统阐述个人建构作为 Kelly 理论的基本单位，涵盖[[Construct|构念]]的双极性、层级组织、引发方法（三元比较、[[Laddering|阶梯法]]、[[Pyramiding|金字塔法]]）及其在 [[Repertory Grid Technique]] 中的[[Operationalization|操作化]]。

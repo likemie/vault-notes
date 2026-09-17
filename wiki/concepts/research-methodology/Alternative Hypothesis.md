@@ -11,7 +11,7 @@ aliases:
 summary: "正式假设检验中预测变量间存在显著关系的假设形式，最好写为方向性形式以明确预期关系的方向，与零假设成对构成统计检验的完整框架，通常以H₁表示。"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-21
+updated: 2026-09-17
 ---
 # Alternative Hypothesis
 
@@ -122,6 +123,6 @@ updated: 2026-06-21
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 系统介绍备择[[Hypothesis|假设]]的定义、方向性写作规则和[[Research Writing Script|写作脚本]]
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 给出备择假设的典型场景示例，并在[[Operationalization|操作化]]框架中与[[Null Hypothesis|零假设]]成对讨论

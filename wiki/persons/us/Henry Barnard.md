@@ -11,7 +11,7 @@ summary: "美国近代教育家与首任联邦教育专员，编纂卷帙浩繁�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_theories: []
 related_methods:
   - "[[Ethnography]]"
   - "[[Accounts]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Horace Mann]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Henry Barnard
@@ -137,7 +138,7 @@ updated: 2026-09-11
 > - **学术史与学科奠基** 英国比较教育学家[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）指出，巴纳德在缺乏现代科研团队与计算机辅助的时代，几乎以一己之力达成了编纂“世界教育百科全书”的宏伟目标，奠定了比较教育学在 19 世纪中后叶的史料基础。
 > - **专业师范与学术传播** 借助《美国教育杂志》，巴纳德将欧洲先进的[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]实物教学法、福禄贝尔幼儿园运动及德意志[[Normal School|师范学校]]模式系统导入全美，极大加速了美国师资专业化与公立学校现代化的进程。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 详尽剖析巴纳德在 19 世纪美洲话语中的独特地位，探讨其实际上作为卓越的“教育编年史家与[[Ethnography|民族志]]学者”，如何筑就不可替代的事实基石。
 
 ---

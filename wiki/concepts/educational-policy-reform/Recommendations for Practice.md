@@ -25,10 +25,10 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
+  - "[[Correlational Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Multimethod Research]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Experimental Research]]"
@@ -54,7 +54,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **1994** — 既有[[Trend Study|趋势研究]]显示，约 30% 的相关性文章包含实践建议，说明[[Non-intervention Research|非干预研究]]中的 RFP 并非新现象，而是长期存在的出版实践([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
-> - **2010** — 相关性文章包含实践建议的比例上升至 46%，与教育心理学期刊中[[Intervention Research|干预研究]]下降、相关研究上升的趋势同步出现。
+> - **2010** — 相关性文章包含实践建议的比例上升至 46%，与教育心理学期刊中[[Intervention Research|干预研究]]下降、[[Correlational Research|相关研究]]上升的趋势同步出现。
 > - **2020** — [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 发现，观察/相关研究中 66% 包含 RFP；[[Qualitative Research|质性研究]]中 65%、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中 60% 包含 RFP。综合来看，2020 年约三分之二的[[Non-intervention Research|非干预研究]]文章包含 RFP([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 
 ## 核心要素
@@ -68,7 +68,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - **vs [[Non-intervention Research]]** — 非[[Intervention Research|干预研究]]是不操纵自[[Variable|变量]]的研究集合；RFP 是论文讨论部分或实践意义部分中的行动性建议。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的核心问题正是二者之间的错配：非干预设计常被用来支撑实践建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3-4]])。
-> - **vs [[Observational and Correlational Research]]** — 观察/相关研究是非干预研究的一种量化类型；RFP 是对实践行动的建议，不能仅由相关关系自动推出。
+> - **vs [[Correlational Research]]** — 观察/相关研究是非干预研究的一种量化类型；RFP 是对实践行动的建议，不能仅由相关关系自动推出。
 > - **vs [[Randomised Controlled Trials]]** — RCT 通过[[Random Assignment|随机分配]]与变量操纵提供更强的因果证据；Brady et al. 指出，在多数科学领域中，强实践建议通常需要严格 RCT 支撑，而非[[Experimental Research|实验研究]]的证据基础往往不足([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
 
 ## 理论基础
@@ -81,14 +81,14 @@ updated: '2026-05-18'
 
 - [[Intervention Research]] — 更适合承载强 RFP 的方法环节，因为其通过操纵自[[Variable|变量]]检验实践[[Hypothesis|假设]]([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-4]])。
 - [[Non-intervention Research]] — [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 关注的风险对象：这类研究常提供有价值的描述和线索，但 2020 年约三分之二文章仍提出 RFP([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
-- [[Observational and Correlational Research]] — 非干预研究中 RFP 增长最可比的长期序列：2000 年 41%、2010 年 46%、2020 年 66%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
+- [[Correlational Research]] — 非干预研究中 RFP 增长最可比的长期序列：2000 年 41%、2010 年 46%、2020 年 66%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 - [[Randomised Controlled Trials]] — 在多数科学领域，强实践建议通常需要严格随机试验或累积实验证据支撑；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将其作为非干预 RFP 的对照基准([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3-4]])。
 
 ## 实证发现
 
 > [!success] 实证发现
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 审查 2020 年五本教育心理学经验期刊中的 255 篇经验文章，发现[[Non-intervention Research|非干预研究]]仍约占全部研究的四分之三，且其中约三分之二包含 RFP([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.4, 7]])。
-> - 在观察/相关研究中，包含 RFP 的比例从 2000 年的 41%、2010 年的 46% 上升到 2020 年的 66%，显示非[[Intervention Research|干预研究]]中实践建议的增长趋势仍在继续([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
+> - 在观察/[[Correlational Research|相关研究]]中，包含 RFP 的比例从 2000 年的 41%、2010 年的 46% 上升到 2020 年的 66%，显示非[[Intervention Research|干预研究]]中实践建议的增长趋势仍在继续([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 > - 作者在限制性讨论中指出，有些论文在讨论部分给出明确 RFP，却在局限性部分承认方法不能支持因果结论、未来需要[[Experimental Research|实验研究]]；这种错配显示出版过程可能鼓励作者在证据边界之外提供实践建议([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
 
 ## 争议与批评

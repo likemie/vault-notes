@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2023）提出的比较教育批判工具词汇，用以打破精致中立的专业相对主义滤镜，直面学校系统和教育政策背后的国家暴力与人道后果"
 type: concept
 domain: "comparative-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Cowen]]"
 related_facts:
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-08-20
+updated: 2026-09-17
 ---
 
 # Heroic, Strange, and Barbaric
@@ -71,5 +72,5 @@ updated: 2026-08-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 系统提出“英雄、陌生与野蛮”作为批判话语工具，以辅助转移与[[Educated Identity|受教育身份]]的伦理拷问，批判新自由主义测评效率对生命脉络的抽空。

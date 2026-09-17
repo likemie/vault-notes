@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育学史编纂批判概念，指学科为确立自身存在与制度合法性，将特定历史人物、标志性演讲或文本神圣化为起源图腾的社会建构机制，常伴随对历史复杂性与理论混淆的遮蔽。"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Archival Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-06
+updated: 2026-09-17
 ---
 
 # Academic Iconography
@@ -163,5 +164,5 @@ updated: 2026-09-06
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩系统提出学科肖像学概念，解构以[[Michael Sadler|萨德勒]]为代表的神话图腾，提出重写学科史的五大比较维度。

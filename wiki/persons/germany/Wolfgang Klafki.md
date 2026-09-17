@@ -7,7 +7,7 @@ summary: "德国教育学家和 Didaktik 代表人物，批判建设性教学论
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,10 +44,11 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Action Research]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: '2026-05-06'
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Wolfgang Klafki
@@ -131,7 +132,7 @@ updated: 2026-09-11
 > - **政策路径** 在德国国内，深度参与了黑森州课程指南（Hessischen Richtlinien）和北莱茵-威斯特法伦州（NRW）教育委员会报告的起草；其课程思想也为芬兰的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策奠定了核心的哲学基础。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 > - **跨国／跨领域传播** 其思想作为北欧福利国家推行民主、平等和团结教育的重要理论中介，在瑞典和芬兰的教师教育中被广泛翻译和研究，影响了北欧基础教育的课程论面貌。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7, 10]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] — 追溯芬兰 PhBL 的哲学根源，分析了 Klafki 的[[Epochal Key Problems|时代关键问题]]框架如何帮助跨学科课程在保持学科深度的同时抵抗技能原子化倾向。
 
 ---

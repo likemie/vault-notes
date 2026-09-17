@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#ede9fe"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Geopolitical Subject]]"
   - "[[Geopolitics of Higher Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Fulbright Program
@@ -71,5 +72,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 在"人的培养"论证步骤（论证步骤三）中将富布莱特计划作为政府层面[[Geopolitical Subject|地缘政治主体]]生产的典型案例，分析其如何通过国际学生培养传播美国价值观和培养亲美政治主体。

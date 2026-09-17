@@ -9,7 +9,7 @@ title: "Argument_Berk_2011_ER"
 argument_key: "Argument_Berk_2011_ER"
 argument_display_title: "Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -46,7 +46,9 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Causal Modeling]]"
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
+  - "[[Difference-in-Differences]]"
   - "[[Regression Discontinuity Design]]"
 related_persons: []
 related_facts:
@@ -152,7 +154,7 @@ citation_aliases:
 >
 > 2. **团队[[Evaluation Research|评估研究]]** 评估研究最好由包含**真正具备统计程序专业知识**的个人的团队进行。Rand、MDRC and Mathematica 等大型研究公司通常尝试这样做——"当然不能保证在任一环境中所需的专业知识都会被恰当地代表，但至少存在一种可以让其发生的结构"(p.200)。
 >
-> 3. **保持与"数据科学"同步** 评估研究者需要跟上统计学、计量经济学和计算机科学的发展。Berk 预测计算机科学将在未来十年对评估研究产生影响，正如统计学在 1970 年代所做的那样——"因为数据科学如此受到计算能力和大型数据集日益可用性的推动，变化将非常迅速地到来"。在社会科学的评估研究相关研究生培养中，至少需要硕士水平的数据科学训练。
+> 3. **保持与"数据科学"同步** 评估研究者需要跟上统计学、计量经济学和计算机科学的发展。Berk 预测计算机科学将在未来十年对评估研究产生影响，正如统计学在 1970 年代所做的那样——"因为数据科学如此受到计算能力和大型数据集日益可用性的推动，变化将非常迅速地到来"。在社会科学的评估研究[[Correlational Research|相关研究]]生培养中，至少需要硕士水平的数据科学训练。
 
 ## 局限性与批评
 
@@ -160,7 +162,7 @@ citation_aliases:
 > - 作为编辑反思而非[[Systematic Review|系统综述]]，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人观察而非实证研究
 > - Berk 对 [[Randomised Controlled Trials|RCT]] 的辩护（"防止[[Type I and Type II Errors|统计错误]]"）与批判（"集群[[Random Assignment|随机化]]中的 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
 > - 提出的对策（中立专家审查、团队评估）偏重精英专家模式，未回应 Cowen (2019) 后来提出的官僚[[Knowledge Questions|知识问题]]和制度激励问题
-> - 论文发表于 2011 年，此后[[Causality|因果推断]]方法（如双重差分、合成控制、[[Regression Discontinuity Design|断点回归设计]]）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评
+> - 论文发表于 2011 年，此后[[Causality|因果推断]]方法（如[[Difference-in-Differences|双重差分]]、合成控制、[[Regression Discontinuity Design|断点回归设计]]）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评
 
 ## 来源
 

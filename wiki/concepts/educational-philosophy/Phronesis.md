@@ -6,10 +6,10 @@ aliases:
 summary: "古希腊亚里士多德提出的实践理性概念。指在特定社会伦理情境中，个体基于道德善（human flourishing）做出正确理智判断与适切行动的实践智慧。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-philosophy
   - aristotle
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Curriculum as Product]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: '2026-08-27'
+updated: 2026-09-17
 ---
 
 # Phronesis（实践明智）
@@ -131,5 +132,5 @@ updated: '2026-08-27'
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 探讨实践明智在斯滕豪斯过程模式与 [[Theory of Knowledge|TOK]] 课程讨论中的作用。

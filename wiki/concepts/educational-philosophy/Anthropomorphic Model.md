@@ -10,7 +10,7 @@ aliases:
 summary: "哈雷与塞科德在“人的科学”运动中提出的方法论模型，主张“为了科学的目的把人当作真正的人类对待”，赋予行动者能动性、意向性监控与生活叙事能力，以事件分析法取代行为主义机械模型。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Ethogenic Approach]]"
   - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Anthropomorphic Model
@@ -159,6 +160,6 @@ updated: 2026-09-14
 
 ## 参考文献
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 18)]] — 系统介绍拟人化模型、人的科学运动以及对传统实证心理学行为主义模型的批判。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 贯穿课堂观察与事件分析章节，深入剖析师生微观互动的意义阐释机制。

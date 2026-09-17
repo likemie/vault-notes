@@ -4,10 +4,10 @@ aliases: [类型化, 典型化, 理想类型化, typifications]
 summary: "阿尔弗雷德·舒茨现象学社会学的核心认知与互动机制，指行动者与研究者运用源自社会既有知识库的“理想类型”心智图式来理解他人行为、组织日常生活世界并在多重实在间穿梭的过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: [theme/epistemology, theme/social-phenomenology, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
   - "[[Concept Mapping]]"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Cultural Capital]]"
   - "[[Epistemology]]"
+  - "[[Lesson Study]]"
   - "[[Value Neutrality]]"
   - "[[Postpositivism]]"
   - "[[Interpretive Paradigm]]"
@@ -40,13 +41,14 @@ related_arguments:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
+  - "[[Correlational Research]]"
   - "[[Qualitative Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Typification
@@ -163,7 +165,7 @@ updated: 2026-09-15
 > - **1900s–1920s — 韦伯理想类型发轫** [[Max Weber|马克斯·韦伯]]（Max Weber）提出方法论上的“理想类型”，作为社会科学研究者单方面夸大特定特征以进行比较研究的概念工具。
 > - **1932 — 舒茨[[Phenomenology|现象学]]社会学奠基** [[Alfred Schutz|阿尔弗雷德·舒茨]]出版《社会世界的意义建构》，将韦伯的“理想类型”从纯粹方法论工具改造为普通行动者日常生活的普遍认知机制（类型化）。
 > - **1966 — 知识社会学集大成** 伯格与卢克曼（Berger & Luckmann）出版《现实的社会构建》，将类型化确立为制度化与客观社会实在再生产的核心枢纽。
-> - **1970s 至今 — 教育社会学标签理论深化** 凯迪（Nell Keddie）、哈格里夫斯（David Hargreaves）等将类型化全面运用于课堂研究，揭示教师“理想学生”类型化如何隐秘催生教育不平等。
+> - **1970s 至今 — 教育社会学标签理论深化** 凯迪（Nell Keddie）、哈格里夫斯（David Hargreaves）等将类型化全面运用于[[Lesson Study|课堂研究]]，揭示教师“理想学生”类型化如何隐秘催生教育不平等。
 
 ---
 
@@ -191,7 +193,7 @@ updated: 2026-09-15
 
 ## 实证数据
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 19)]] — 详尽阐述舒茨[[Phenomenology|现象学]]社会学中的类型化概念、理想类型工具、传记情境以及行动者在多重实在中的穿梭机制。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨教师课堂标签建构、[[Qualitative Interview|质性访谈]][[Coding in Qualitative Research|编码]]以及行动者常识解释在[[Ethnography|民族志]]中的方法论定位。
 

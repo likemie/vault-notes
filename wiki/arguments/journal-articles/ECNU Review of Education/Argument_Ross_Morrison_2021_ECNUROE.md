@@ -10,7 +10,7 @@ title: "Argument_Ross_Morrison_2021_ECNUROE"
 argument_key: "Argument_Ross_Morrison_2021_ECNUROE"
 argument_display_title: "Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -59,7 +59,6 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
-  - "[[ESSA 2015 Evidence Standards]]"
   - "[[Evidence for ESSA]]"
 related_arguments: []
 sources:
@@ -102,7 +101,7 @@ citation_aliases:
 
 ### 第一层：证据运动把“有效项目”变成政策要求
 
-1. 美国政策从 [[No Child Left Behind Act 2001|NCLB]] 到 [[What Works Clearinghouse]]，再到 [[ESSA 2015 Evidence Standards]]，逐步把严格研究证据放到教育项目选择的中心位置。NCLB 偏好随机实验，WWC 用 [[Randomised Controlled Trials|RCT]] 和 [[Quasi-Experimental Designs|QED]] 审查研究质量，[[Every Student Succeeds Act|ESSA]] 又把强、中、有希望和理论依据四个证据层级用于项目审核(p.109)。
+1. 美国政策从 [[No Child Left Behind Act 2001|NCLB]] 到 [[What Works Clearinghouse]]，再到 [[Every Student Succeeds Act|ESSA 2015 Evidence Standards]]，逐步把严格研究证据放到教育项目选择的中心位置。NCLB 偏好随机实验，WWC 用 [[Randomised Controlled Trials|RCT]] 和 [[Quasi-Experimental Designs|QED]] 审查研究质量，[[Every Student Succeeds Act|ESSA]] 又把强、中、有希望和理论依据四个证据层级用于项目审核(p.109)。
 
 2. 这一步的推理很直接：如果学校要花公共资金购买项目，就不能只听销售宣传，而应尽量选择有研究支持的项目。这也是 [[Evidence-Based Education]] 和 [[Evidence-Based Reform]] 的基本承诺(pp.109-110)。
 

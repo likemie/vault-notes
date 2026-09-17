@@ -10,7 +10,7 @@ aliases:
 summary: "教师专业发展与循证教育中的核心概念，将教师对科研的参与区分为开展研究（Engagement in research，作为研究者进行行动研究与课题探究）与使用研究（Engagement with research，作为利用者研读学术文献并融入教学决策）两种互补模式；跨国实证调查进一步揭示出一线教师面临被局限为被动数据收集客体及外在制度激励全面缺位的深层结构性断层。"
 type: concept
 domain: "teacher-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[Analysis of Variance]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Engagement in and with Research
@@ -223,6 +224,6 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 实证检验期刊追踪（用研究）与亲身开展科研（做研究）对教师[[Research Literacy|研究素养]] 4 个维度的独立主效应，证实微观双轨互补机制。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查（29 国 37 个系统），量化诊断一线教师在科研生产中的边缘化、生命周期数据收集客体化扭曲以及外在制度激励全面匮乏的宏观生态病理。

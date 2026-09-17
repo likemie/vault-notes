@@ -9,7 +9,7 @@ aliases:
 summary: "由布赖恩·霍姆斯从卡尔·波普尔科学哲学引入比较教育学的方法论基石，将人类教育事务严格划分为人为设立且可变更的规范法则与具有情境权变性、用于描述机构功能运行并接受经验证伪的社会学法则"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
 related_methods:
   - "[[Problem Approach]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Brian Holmes]]"
   - "[[Karl Popper]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-17
 ---
 
 # Critical Dualism
@@ -219,7 +220,7 @@ updated: 2026-09-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 详细考据[[Brian Holmes|布赖恩·霍姆斯]]如何运用批判二元论区分规范法则与权变社会学法则，并以此同美国实证学派展开方法论大论战。
 > - Holmes (1965) — 首次将批判二元论转化为比较教育假说-演绎[[Problem Approach|问题法]]的核心情境分析工具。
 > - Holmes (1981) — 全面系统阐述规范法则与权变社会学法则的[[Ontology|本体论]]二元分立，确立预测划界标准。

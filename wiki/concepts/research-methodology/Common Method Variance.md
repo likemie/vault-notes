@@ -9,7 +9,7 @@ aliases:
 summary: "由测量方法本身（而非所测构念的真实差异）造成的系统方差，当多个构念使用同一方法施测时会放大观察相关，威胁构念间关系估计的效度"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-regression]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-17
 ---
 
 # Common Method Variance
@@ -109,5 +110,5 @@ updated: 2026-08-25
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] 在学生样本[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]相关的[[Three-Level Meta-Analysis|三水平元分析]]中，发现双主观（自陈）测量组合的相关（$r = 0.509$）显著高于双客观组合（$r = 0.317$），据此将测量类型[[Interaction Effect|调节效应]]解释为自陈测量中共同方法变异的证据，并建议未来研究以表现型或行为指标对自陈测量进行[[Triangulation|三角验证]]。

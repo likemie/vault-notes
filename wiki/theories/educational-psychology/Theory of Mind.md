@@ -6,7 +6,7 @@ aliases:
 summary: "个体理解自己和他人具有不同心理状态（如信念、欲望、意图），且这些状态可能与客观现实不符的认知能力，被视为认识论认知发展的重要前置基础。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 5
+theory_related_count: 6
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"
@@ -22,7 +22,8 @@ related_concepts:
   - "[[Subjectivism]]"
   - "[[Reliability]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -31,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-09-17
 ---
 # Theory of Mind
 
@@ -80,5 +81,5 @@ updated: 2026-08-18
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将儿童的心智理论（尤其是对错误信念的理解）系统性地整合为[[Epistemology|认识论]]认知的核心发展前置基础，论证了发展心理学对婴幼儿心智发育的探究如何填补教育心理学[[Epistemology|认识论]]模型的断层，呼吁开展连接这两个领域的跨学科研究。

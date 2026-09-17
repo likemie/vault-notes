@@ -8,7 +8,7 @@ aliases:
 summary: "Onwuegbuzie & Leech（2007）对质性研究推广性的区分：内部推广性指子组数据推广到整个样本，外部推广性指样本推广到更广泛的总体，前者在质性研究中更常见可行"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Sample Size Determination]]"
+  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-17
 ---
 # Internal and External Generalizability
 
@@ -77,5 +78,5 @@ updated: 2026-06-22
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Onwuegbuzie & Leech（2007）的内部/外部推广性区分，讨论其在[[Qualitative Research|质性研究]]抽样中的应用。

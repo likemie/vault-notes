@@ -7,7 +7,7 @@ aliases:
 summary: "一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Factor Mixture Modeling]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-09-17
 ---
 
 # Epistemic and Ontological Cognition
@@ -112,5 +113,5 @@ updated: 2026-08-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Greene_2010_JEP]] — 该研究通过[[Factor Mixture Modeling|因子混合模型]]实证检验并支持了 EOC 模型的阶段划分[[Hypothesis|假设]]。

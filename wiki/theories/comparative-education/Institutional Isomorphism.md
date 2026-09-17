@@ -9,7 +9,7 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Elite Interview]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John W. Meyer]]"
@@ -215,7 +216,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用三种制度同构机制分析跨国公司[[Corporate Education|企业教育]]的国际化扩散模式与权威调动策略。
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 揭示英格兰教师教育治理中证据作为[[Rationalized Myth|合理化神话]]如何驱动多方机构走向规范与强制同构。
 

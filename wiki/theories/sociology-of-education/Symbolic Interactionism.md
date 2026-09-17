@@ -7,7 +7,7 @@ aliases:
 summary: "源自微观社会学与社会心理学的核心理论范式，主张行动者基于事物对自身的主观意义采取行动，意义在符号互动与角色扮演中持续涌现、协商与修正，互动本身构成探究的基本分析单位。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 32
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -44,8 +44,11 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[George Herbert Mead]]"
+  - "[[Michael Gove]]"
+  - "[[Horace Mann]]"
   - "[[Peter Woods]]"
   - "[[Basil Bernstein]]"
   - "[[John Rex]]"
@@ -57,7 +60,7 @@ related_instruments:
 confidence: high
 status: stable
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-17
 ---
 
 # Symbolic Interactionism
@@ -70,7 +73,7 @@ updated: 2026-09-09
 > - **解释对象** 人类在日常生活与面对面微观交往中主观意义的赋予、自我的形成、[[Thomas Theorem|情境定义]]以及行动协调机制。
 > - **理论问题** 彻底扬弃行为主义刺激-反应（S-R）的被动假定与结构功能主义外在事实[[Determinism|决定论]]，确立人类行动者基于符号解释、内部[[Dialogue in Education|对话]]与协商妥协的主体能动性。
 > - **理论类型** 微观社会学理论、[[Interpretive Paradigm|诠释范式]]核心基石、社会心理学互动[[Analytic Framework|分析框架]]。
-> - **知识位置** 芝加哥社会学派核心传统，奠基于[[George Herbert Mead|乔治·赫伯特·米德]]（[[George Herbert Mead]]），经赫伯特·布卢默（Herbert Blumer）系统形式化并正式命名，在欧文·戈夫曼（Erving Goffman）拟剧论与[[Peter Woods|彼得·伍兹]]（Peter Woods）教育[[Ethnography|民族志]]中广泛深化。
+> - **知识位置** 芝加哥社会学派核心传统，奠基于[[George Herbert Mead|乔治·赫伯特·米德]]（[[George Herbert Mead]]），经赫伯特·布卢默（Herbert Blumer）系统形式化并正式命名，在欧文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）拟剧论与[[Peter Woods|彼得·伍兹]]（Peter Woods）教育[[Ethnography|民族志]]中广泛深化。
 
 > [!claim] 核心主张
 > 人类行动绝非内在盲目驱力或外部客观社会事实的机械结果，而是行动者基于事物对其所具有的主观意义而开展的能动建构过程。人类同时生活在自然世界与符号社会世界中；意义在持续的社会互动中通过扮演他人角色、[[Reflexivity|反思性]]自我对话与情境定义而动态[[Emergence|涌现]]与协商；互动本身构成探究的基本[[Unit of Analysis|分析单位]]。
@@ -177,7 +180,7 @@ updated: 2026-09-09
 > [!dev-timeline] 发展脉络
 > - **1934 — 思想奠基** [[George Herbert Mead|乔治·赫伯特·米德]]遗作《心灵、自我与社会》（*Mind, Self, and Society*）出版，确立主我/客我与符号姿态理论。
 > - **1969 — [[Paradigm|范式]]确立** 赫伯特·布卢默出版经典《符号互动论：视角与方法》（*Symbolic Interactionism: Perspective and Method*），正式奠定三大核心公设。
-> - **1959–1967 — 拟剧论与情境[[Rich and Thick Description|深描]]拓展** 欧文·戈夫曼引入前台/后台表演、印象管理与常人互动礼节。
+> - **1959–1967 — 拟剧论与情境[[Rich and Thick Description|深描]]拓展** 欧文·[[Michael Gove|戈夫]]曼引入前台/后台表演、印象管理与常人互动礼节。
 > - **1970–1980 至今 — 教育[[Ethnography|民族志]]与学校研究繁荣** [[Peter Woods|彼得·伍兹]]等学者将符号互动论全面引入英国与[[International Education|国际教育]]探究，开创课堂生活微观研究全盛期。
 
 ---
@@ -205,6 +208,6 @@ updated: 2026-09-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 25]] — 系统提炼符号互动论的三大公设、互动研究单位、课堂胡闹案例[[Rich and Thick Description|深描]]以及结构学派对其展开的四重方法论批评。
 

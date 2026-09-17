@@ -10,7 +10,7 @@ summary: "可能引发受访者低报或过度报告的问卷题项，其敏感�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -29,10 +29,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Sensitive Questions
 
@@ -129,5 +130,5 @@ Sudman & Bradburn（1982, Ch. 3, pp. 55–56）系统地提出了处理敏感或
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 在[[Questionnaire|问卷]]设计流程中专设一节讨论敏感问题的双风险机制（低报与过度报告），并系统引述了 Sudman & Bradburn（1982）的十一项应对策略，按措辞设计、时机语境、收集方式和效度保障四个维度组织。

@@ -10,10 +10,10 @@ aliases:
 summary: "人工智能与教育技术学概念，指大语言模型等生成式系统输出看似连贯权威、语法高度流畅但实际上偏离客观事实、缺乏真实依据、虚构引用或逻辑自相矛盾的内容现象。"
 type: concept
 domain: "educational-technology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - field/educational-technology
   - theme/artificial-intelligence
@@ -48,15 +48,17 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Pilot Testing]]"
-  - "[[PRISMA]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+related_instruments:
+  - "[[PRISMA]]"
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-05
+updated: 2026-09-17
 ---
 
 # AI Hallucination
@@ -228,7 +230,7 @@ updated: 2026-09-05
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用一阶[[Meta-analysis|元分析]]实证揭示生成式 AI 对[[Critical Thinking|批判性思维]]的显著促学效应（$g = 0.691$），从认知机理上提出 AI 幻觉对批判审验的倒逼催化机制，同时发现低[[Self-Regulated Learning|自主调节学习]]能力者更容易受到幻觉误导。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育 ChatGPT 实证研究，将 AI 幻觉识别与去幻觉查错确立为驱动[[Critical Thinking|批判性思维]]发展的核心教学机制。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 强调基础教育科学课程必须培养学生识别大模型幻觉与算法偏见的批判性数字素养。

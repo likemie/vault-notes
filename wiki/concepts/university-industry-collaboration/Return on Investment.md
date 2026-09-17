@@ -10,7 +10,7 @@ aliases:
 summary: "衡量教育、研发或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面，它经由人力资本理论和世界银行被建构为跨国政策放贷与结构调整的自指性指标帝国；在微观产学合作层面，各方对回报定义的结构性分歧则被视作驱动复合价值创造的核心引擎。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -46,6 +46,7 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Focus Group]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[George Psacharopoulos]]"
 related_facts:
@@ -61,7 +62,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-02
-updated: 2026-09-12
+updated: 2026-09-17
 ---
 
 # Return on Investment
@@ -228,7 +229,7 @@ updated: 2026-09-12
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[World Bank|世界银行]]脱离[[UNESCO|教科文组织]]后，如何依托 [[George Psacharopoulos]] 建立的 1,120 项收益率数据库将投资回报构建为跨国放贷与[[Governing at a Distance|远处治理]]的自指性指标帝国。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 揭示教育投资回报模型如何充当实证社会科学为国家财政扩张与政策免责背书的“[[Social Science as Legitimation Alibi|合法化借口]]”（Alibi）。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 深入探讨[[University-Industry Collaboration|产学合作]]联合体中 ROI 的差异化定义机制、[[Counterfactual|反事实]]测算原则与以终端用户受益为核心的价值检验框架。

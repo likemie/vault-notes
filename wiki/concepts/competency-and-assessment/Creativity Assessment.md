@@ -14,7 +14,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 75
+related_count: 76
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_instruments:
   - "[[Emotional Creativity Inventory]]"
@@ -339,7 +340,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 系统综合 52 项一阶[[Meta-analysis|元分析]]，确立[[Creativity|创造力]]测评四大[[Paradigm|范式]]与二阶效应基准，量化揭示[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的不对称性，证实过程测量（$r = 0.27$）优于单纯发散测验。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 开展[[Three-Level Meta-Analysis|三水平元分析]]检验创造力与[[Critical Thinking|批判性思维]]的测量关联，证实测量类型组合显著调节观察效应（双主观 $r = 0.509$ vs 双客观 $r = 0.317$），揭示了 [[Common Method Variance|CMV]] 膨胀与[[Executive Function|执行功能]]真实重叠的双重机制。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 综合 29 项高校实验（109 个[[Effect Size|效应量]]），实证确立[[Creativity Training|创造力干预]]总体增益（$g = 0.628$），并首次系统量化了不同测量工具与子[[Construct|构念]]的响应敏感度（思维测验 $g = 0.671$、图形创作 $g = 0.644$、词汇联想 $g = 0.641$、言语表达 $g = 0.606$、[[Problem Solving|问题解决]] $g = 0.539$、情绪量表 $g = 0.397$）。

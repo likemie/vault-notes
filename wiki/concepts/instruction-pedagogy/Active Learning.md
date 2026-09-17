@@ -6,11 +6,10 @@ aliases:
 summary: "由批判教育学与实用主义提出的三环节课程模型，主张主动学习必须由批判性思维、对话与指向变革不公的实践成长（Praxis）共同构成"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
-updated: 2026-09-17
 tags:
 - theme/active-learning
 - field/educational-philosophy
@@ -55,6 +54,7 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -175,7 +175,7 @@ updated: 2026-09-17
 > - **1970 年代 — [[Critical Pedagogy|批判教育学]]与[[Problem-Posing Education|提问式教育]]重构** [[Paulo Freire|保罗·弗莱雷]]在《被压迫者教育学》中提出“提问式教育”，以民主[[Dialogue in Education|对话]]和[[Conscientization|批判意识觉醒]]彻底颠覆“[[Banking Model of Education|储蓄式教育]]”。
 > - **1980–1990 年代 — [[Constructivist Paradigm|建构主义]]与认知科学转向** 建构主义心理学将主动学习解释为学习者主动将新知识同化与顺应进认知图式的内部加工过程。
 > - **2010 年代 — 高等教育与 STEM 领域实证爆发** 针对高校大班讲授的[[Meta-analysis|元分析]]（如 Freeman et al., 2014）证实主动学习相比传统讲授显著降低挂科率并提[[Gaokao|高考]]试成绩。
-> - **2019 年至今 — 循证改革对抽象原则的批判与方案化转型** 斯莱文（Slavin, 2019）系统指出抽象主动学习原则在基础教育改革中的落地局限，主张转向经过严格 [[Randomised Controlled Trials|RCT]] 检验的具体结构化项目。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
+> - **2019 年至今 — 循证改革对抽象原则的批判与方案化转型** 斯莱文（[[Argument_Slavin_2019_EP|Slavin, 2019]]）系统指出抽象主动学习原则在基础教育改革中的落地局限，主张转向经过严格 [[Randomised Controlled Trials|RCT]] 检验的具体结构化项目。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
 
 ---
 
@@ -240,8 +240,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 融合[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]思想，提出主动学习的三维课程模型，系统解析[[Critical Thinking|批判性思维]]、[[Dialogue in Education|对话]]与实践[[Growth|生长]]的内在机理。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 从循证改革与[[Counterfactual|反事实]]检验视角，深度反思抽象主动学习原则的实践失效，倡导向经验证的具体课程方案转型。
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 探讨主动参与作为[[Effective Teaching|有效教学]]基本质量在北欧情境下的表现及其受社会背景的调节。
-

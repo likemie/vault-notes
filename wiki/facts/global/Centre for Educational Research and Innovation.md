@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -46,7 +46,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Critical Thinking]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[OECD Rubrics for Creativity and Critical Thinking]]"
 related_persons:
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Centre for Educational Research and Innovation
@@ -188,7 +189,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理 [[OECD]] 内部机构演变史，论证 CERI 及其主管 [[Jarl Bengtsson]] 如何启动 [[International Indicators of Education Systems|INES]] 项目开启全球教育数据治理转向。
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 记录 CERI 在 1980 年代孕育指标网络与《[[Education at a Glance|教育概览]]》的科学争论档案，呈现学者与决策者围绕数据通约性的博弈。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统评析 OECD CERI 在高等教育领域推行的[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]原型评价量规及其在真实教学情境中的赋能机制。

@@ -9,7 +9,7 @@ aliases:
 summary: "教育研究中以图像形态存在、可供研究者观看与解读的数据类型，涵盖照片、影片、录像、器物、图画等；视觉数据是层层意义包裹的呈现，由生产、图像与受众三重维度共同建构"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,6 +27,7 @@ related_theories: []
 related_methods:
   - "[[Triangulation]]"
   - "[[Observation Method]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-08-11
+updated: 2026-09-17
 ---
 
 # Visual Data
@@ -101,5 +102,5 @@ updated: 2026-08-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 系统介绍视觉数据的类型（Prosser & Loxley 四类）、来源、生产—图像—受众三重维度，及其在照片、影片与[[Artefact|器物]]研究中的应用。

@@ -6,7 +6,7 @@ aliases:
 summary: "跨越单一国家教育体系、服务跨国流动家庭或本地国际课程需求的学校类型，其历史从侨民国家通道逐步发展出共同课程、跨国资格协调与市场化运营。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Boarding Schools]]"
   - "[[International Baccalaureate]]"
+  - "[[Advanced Placement Program]]"
   - "[[Fourth Culture]]"
   - "[[International Education]]"
   - "[[Hypothesis]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: '2026-09-01'
+updated: 2026-09-17
 ---
 
 # International Schools
@@ -65,7 +66,7 @@ updated: '2026-09-01'
 > [!dev-timeline]- 从侨民国家通道到跨国课程市场
 > - **两次世界大战之间　母国学校分别服务侨民** 法国海外中学、英国学校与剑桥海外考试、美国学校与大学入学考试分别把侨民学生接回母国升学体系，德国和意大利也有较少的侨民学校。真正面向多国共同体的学校很少，1924 年创办的[[International School of Geneva|日内瓦国际学校]]（École internationale de Genève，Ecolint）是主要先例。各国通道尚能满足多数家庭需求，共同资格缺少稳定使用者。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–16)]]
 > - **殖民时期至 1960 年　国家前哨站延续** 英国、法国、德国和美国等国家的海外学校主要教育本国公务员、传教士和商人子女。1960 年约 70% 的学生来自学校创始国，课程也与母国制度紧密连接，例如香港加拿大国际学校曾开设安大略省公民课。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 24, 27)]]
-> - **1945–1964 年　跨国升学把共同资格变成校内问题** 高等教育扩张与选拔竞争增强后，学生必须按目标大学所在国的考试要求准备。Ecolint 的高级物理课程一度同时服务瑞士联邦成熟证书、英国普通教育证书高级程度考试、法国业士文凭和美国大学先修课程考试。重复教学消耗师资，也按升学国家重新分隔学生。[[International Schools Association|国际学校协会]]（International Schools Association，ISA）及教师网络遂开始推动共同课程和国际毕业资格。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 16–19)]]
+> - **1945–1964 年　跨国升学把共同资格变成校内问题** 高等教育扩张与选拔竞争增强后，学生必须按目标大学所在国的考试要求准备。Ecolint 的高级物理课程一度同时服务瑞士联邦成熟证书、英国普通教育证书高级程度考试、法国业士文凭和美国[[Advanced Placement Program|大学先修课程]]考试。重复教学消耗师资，也按升学国家重新分隔学生。[[International Schools Association|国际学校协会]]（International Schools Association，ISA）及教师网络遂开始推动共同课程和国际毕业资格。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 16–19)]]
 > - **1964–2005 年　学校数量与学生规模迅速增长** 1964 年全球约有 50 所国际学校；1994 年约 1,000 所，拥有约 5 万名教师和 50 万名学生；2005 年约 3,000 所、200 万名学生。2008 年香港有 58 所，中国大陆有 64 所，印度有 76 所。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 22–23)]]
 > - **殖民体系瓦解后　生源从创始国侨民转向本地与多国家庭** 创始国学生比例从 1960 年约 70% 降至 2005 年约 30%。布鲁塞尔国际学校的美国学生比例在十年间从 70% 降至 29%，雇主支付学费的比例也从 98% 降至 89%。本地富裕家庭日益把国际学校视为进入澳大利亚、加拿大、英国和美国大学的升学通道。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 23–25)]]
 

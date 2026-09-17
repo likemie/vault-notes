@@ -8,7 +8,7 @@ summary: "德国社会学家，社会系统理论创始人；提出自创生系�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -51,6 +51,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Niklas Luhmann
@@ -149,7 +150,7 @@ updated: 2026-09-15
 > - **微观教学反思路径** 揭示“教不等于学”的认识论真相，促使教育者认识到可见的测验分数仅仅是社会沟通系统的代码产物，并非学生内心心理体验的直接镜像，消解了[[Positivism|实证主义]]教学工程论的虚妄幻想。
 > - **比较教育与[[Policy Borrowing|政策借用]]路径** 德国比较教育学家施瑞尔（Jürgen Schriewer）直接引入卢曼的**[[Externalization|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi|合法化借口]]的自指性操作；Steiner-Khamsi 等人（2024）进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage|政策中介]]与数字规制[[Transfer Translation Transformation|转译]]的核心分析工具。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 动用卢曼的盲点理论与社会/心理系统不可通约论，系统解构[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Visible Learning|可见的学习]][[Paradigm|范式]]，揭示实证主义[[Evidence-Based Education|循证教育]]对教育复杂性的盲视与“超积极可见性意识形态”。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合卢曼与肖尔（1979）的[[Technology Deficit of Education|教育技术赤字]]论，揭示教育因果逃逸当下检验如何制造制度焦虑并促成政策中介的繁荣；并依托卢曼（1995）的外化命题，阐释跨国比较数据如何被国内执政者转译为准外部合法化权威。
 

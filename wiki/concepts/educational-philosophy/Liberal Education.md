@@ -8,7 +8,7 @@ aliases:
 summary: "源自西方自由七艺与英国绅士品格培育传统的博雅教育理念，主张知识本身即为其目的，强调通过古典人文学术磨砺卓越心智与高尚品格，构成维多利亚时代大英帝国政治治理与抵御市侩庸俗主义的核心文化防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,7 +39,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Return on Investment]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Matthew Arnold]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Liberal Education
@@ -232,7 +233,7 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统考证自由教育作为 19 世纪欧洲四大[[Paideia|古典教化]]传统之一的终极目标，以及二战浩劫导致的道德破产与战后[[Scientific Paradigm|科学范式]]转型。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 阐述阿诺德如何将古典[[Bildung|教化]]作为抵御自由放任资本主义庸俗化的核心思想武器。
 > - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] — 探讨传统自由教育从精英古典主义向现代 IB 多元思维[[General Education|通识教育]]的课程转换与批判反思。

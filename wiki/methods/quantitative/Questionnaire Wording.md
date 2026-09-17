@@ -9,7 +9,7 @@ summary: "问卷题项措辞中常见的十类陷阱，包括引导性问题、�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -30,12 +30,13 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Sensitive Questions]]"
   - "[[Rating Scale]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 # Questionnaire Wording
 
@@ -114,5 +115,5 @@ updated: 2026-09-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 在[[Questionnaire|问卷]]设计流程中专设一节系统讨论了措辞的十项警示，包括引导性、深奥、复杂、双重否定、极端措辞、权威施压和歧义等陷阱，并提供了六个歧义问题的典型案例，以 Davidson（1970）的"清晰、无歧义、工作可行"三重标准作为黄金法则。

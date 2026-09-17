@@ -8,7 +8,7 @@ aliases:
 summary: "在试验数据收集或解盲前由独立评估团队预先制定并公开发布的详尽技术法典，硬性锁定主要模型、协变量、集群校正与敏感性分析规则，是根除数据钓鱼与消解模型依赖性的制度基石"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
   - "[[CONSORT-SPI]]"
@@ -207,6 +208,6 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详细阐明 [[Education Endowment Foundation|EEF]] 如何通过将 SAP 前置备案、[[ISRCTN]] 试验注册与 NPD 数据库归档深度咬合，打造全链条透明与可复现性治理体系。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 反思[[Meta-meta-analysis|元综合]]中纳入研究在分析方法学上的质量门槛，强调先验协议对控制二阶综合偏差的关键价值。

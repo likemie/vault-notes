@@ -9,7 +9,7 @@ summary: "随机效应元分析中衡量超出抽样误差之外的初级研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Between-Study Variance
@@ -118,6 +119,6 @@ flowchart TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]中研究间方差 $\tau^2$ 的统计定位与[[Heterogeneity|异质性]]量化演进。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍固定与[[Fixed-Effect and Random-Effects Models|随机效应模型]]中 $\tau^2$ 的计算原理与实践意义。

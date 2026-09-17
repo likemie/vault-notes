@@ -10,7 +10,7 @@ summary: "循证教育研究中用于评估干预方案在高度理想化、严�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Hierarchical Linear Model]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Covariate Adjustment]]"
+  - "[[Correlational Research]]"
 related_instruments:
   - "[[TIDieR]]"
   - "[[EEF Padlock Security Rating]]"
@@ -199,5 +200,5 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详述英国 [[Education Endowment Foundation|EEF]] 三级资助体系中效力试验向[[Effectiveness Trial|实效试验]]演进的制度逻辑，反思大样本统计功效与[[Implementation Fidelity|实施保真度]]的内在张力。

@@ -6,7 +6,7 @@ aliases:
 summary: "在认识论认知AIR模型中，指引探究、发现与信念形成过程的规范性意向与认知成就追求，是区分认识论认知与非认识论认知的根本标尺。"
 type: concept
 domain: "educational-psychology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-10
+updated: 2026-09-17
 ---
 
 # Epistemic Aims
@@ -158,6 +159,6 @@ updated: 2026-09-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 系统论证认识目标作为[[Epistemic Cognition|认识论认知]]首要构件的必然性，揭示其在解释同信念不同行为中的关键中介作用。
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 在 [[AIR Model of Epistemic Cognition|AIR]] 模型下将认识目标拓展为包含模型建构与证据评估的广义认识成就，奠定科学论证评价体系。

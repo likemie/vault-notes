@@ -6,14 +6,14 @@ aliases:
 summary: "Lamont 的概念，指通过赋予行为、品味和价值观以道德含义来划分我们与他们的区隔机制，被郑雅君用于高等教育微观习性分析，被 Yu & Zhao 用于国家课程宏观官方知识分析"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: '2026-07-23'
+updated: 2026-09-17
 tags:
   - symbolic-boundary
   - cultural-sociology
@@ -33,6 +33,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
@@ -189,7 +190,7 @@ related_arguments:
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 实证揭示中国精英大学中优势与弱势阶层学生如何通过“有趣”与“淳朴”的道德话语构建象征边界。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 实证分析 217 册必修教材中“中国文化=儒家文化”符号边界的构建及其在少数民族学生中的[[Cultural Disembedding|文化脱嵌]]效应。
 > - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的必修教材充当了国家符号边界自然化的制度载体。

@@ -7,7 +7,7 @@ aliases:
 summary: "由安德鲁·范德文与保罗·约翰逊（2006）开创的学术探究范式，主张将理论与实践的脱节界定为知识生产方式问题，通过学者与实践者在复杂现实问题上的平等合作与协同探究，从源头上弥合学术象牙塔与实践现场的制度与认识论鸿沟。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -46,6 +46,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Design-Based Research]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Engaged Scholarship
@@ -190,7 +191,7 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** — 引入参与式学术之[[Knowledge Production|知识生产]][[Analytic Framework|分析框架]]，深刻剖析大学学术激励错位与[[Knowledge Co-production|知识共创]]模式在严密性、可复制性与可迁移性上的系统性张力。
 > - **Van de Ven & Johnson (2006)** — 开创性提出参与式学术理论，界定理论与实践脱节的三重解释框架，奠定协同知识生产的[[Epistemology|认识论]]基础。
 > - **Van de Ven (2007)** — 专著 *Engaged Scholarship: A Guide for Organizational and Social Research*，系统化参与式学术的钻石设计模型。

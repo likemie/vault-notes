@@ -10,7 +10,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式；在教育心理学中，也指代个体对知识属性进行分类的心智认知系统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,6 +41,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Thomas Barr Greenfield]]"
   - "[[Aristotle]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Ontology
@@ -206,7 +207,7 @@ updated: 2026-09-13
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 详细阐述了本体论在五层研究框架中的基石地位，剖析了 Burrell & Morgan 的实在论–[[Nominalism|唯名论]]连续统与 Greenfield 组织替代架构。
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 将本体论从哲学[[Paradigm|范式]]引入个体认知发展测量，实证检验了学习者在不同学科领域中的本体论认知特征。
 

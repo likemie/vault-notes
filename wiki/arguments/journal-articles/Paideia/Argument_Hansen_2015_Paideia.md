@@ -14,7 +14,7 @@ title: "Argument_Hansen_2015_Paideia"
 argument_key: "Argument_Hansen_2015_Paideia"
 argument_display_title: "Leder Temanummer om synlig læring"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
@@ -72,13 +73,13 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：编辑导言与主题综述。
-> - 材料：本期 *[[Paideia]]* 围绕[[Visible Learning|VL]]组织的主题文章、书评和一篇主题外文章(pp.4–8)。
+> - 材料：本期 *[[Paideia]]* 围绕VL组织的主题文章、书评和一篇主题外文章(pp.4–8)。
 > - 路径：先概括 Hattie 对VL现状的自我界定，再逐篇介绍主题号中对知识概念、跨文化适用性、[[Effect Size|效应量]]解释、瑞典学校改革影响和系统改进策略的不同处理方式。
 
 ## 论证结构
 
 > [!example] 论证结构
-> 1. 导言先把问题背景定为全球教育系统正在向[[Visible Learning|VL]][[Paradigm|范式]]靠拢，学校和改革越来越围绕学习目标是否清晰、是否可见、是否可评估来组织教学(p.4)。
+> 1. 导言先把问题背景定为全球教育系统正在向VL[[Paradigm|范式]]靠拢，学校和改革越来越围绕学习目标是否清晰、是否可见、是否可评估来组织教学(p.4)。
 > 2. 接着它指出，Hattie 最重要的贡献不应被缩减为干预因素排行榜，而应理解为一种教师工作原则：教师要从一开始就把学生当前学习状态、明确目标、可能的教学干预和反馈效果放在同一个评价视角下持续判断自己的影响。
 > 3. 在这个基础上，导言把主题号内部文章安排成一条连续的修正链。Qvortrup 负责回应意识形态和方法论批评，并补上知识与学习概念的动态模型；Laursen 负责检验这些研究结论能否跨出英美语境，在丹麦是否依然成立；Allerup 负责说明[[Effect Size|效应量]]排序需要怎样的统计保留条件(pp.5–6)。
 > 4. 然后导言把主题从[[Document|文献]]争论推向制度实践。Håkansson 的文章被用来说明“Hattie 革命”在瑞典带来了更贴近课堂的学校改进、更多教师集体合作，以及带有视频观察和同伴督导色彩的专业化工作方式(p.6)。
@@ -88,11 +89,11 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - 导言把[[Visible Learning|VL]]的核心重新表述为“教师评估自身影响”的实践原则，而不是单纯识别哪一种教学因素在排行表上更高(p.4)。
+> - 导言把VL的核心重新表述为“教师评估自身影响”的实践原则，而不是单纯识别哪一种教学因素在排行表上更高(p.4)。
 > - 导言明确承认VL现有证据更偏向[[Surface and Deep Learning|表层学习]]，因此需要继续推进对知识与学习概念的重建，避免把学习结果理解得过于单薄(pp.4–5)。
 > - 主题号内部形成了三种互补路线：Qvortrup 提供支持方的概念修正，Laursen 检验丹麦语境中的跨文化适用性，Allerup 审查[[Effect Size|效应量]]排序的统计前提(pp.5–6)。
 > - 导言把瑞典案例和 Nordahl 的系统论述串起来，说明VL在北欧并不只是一套研究结果，也正在重塑学校改进话语，尤其强调教师协作、课堂观察和专业资本建设(pp.6–8)。
-> - Nordahl 在导言结尾所代表的立场非常强硬：完全拒绝使用 Hattie 及相关研究结果的人，需要为儿童未来承担道德责任；问题不在于学校有没有激励，而在于教师是否具备改进教学所需的专业知识与集体能力(pp.7–8)。
+> - Nordahl 在导言结尾所代表的立场非常强硬：完全拒绝使用 Hattie 及[[Correlational Research|相关研究]]结果的人，需要为儿童未来承担道德责任；问题不在于学校有没有激励，而在于教师是否具备改进教学所需的专业知识与集体能力(pp.7–8)。
 
 ## 关键引用
 
@@ -107,7 +108,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 这是一篇编辑导言，不是独立研究；它对各篇文章的介绍高度压缩，因此更适合用来把握主题号内部的立场地图，而不适合替代各文的细读(pp.4–8)。
-> - 导言整体明显偏向支持[[Visible Learning|VL]]的北欧接受路径，尤其在结尾借 Nordahl 将反对者界定为承担“道德责任”的一方；这种表述强化了实践紧迫感，但也压缩了对[[Analytical Stance|批判立场]]的对等呈现空间(pp.7–8)。
+> - 导言整体明显偏向支持VL的北欧接受路径，尤其在结尾借 Nordahl 将反对者界定为承担“道德责任”的一方；这种表述强化了实践紧迫感，但也压缩了对[[Analytical Stance|批判立场]]的对等呈现空间(pp.7–8)。
 > - 导言提到对学习概念和统计解释的修正需求，却没有直接展开 [[New Public Management]]、市场化传播或教育哲学层面的深层批判，因此它更像支持方内部的整理与校准，而非对 VL 的全面反思。
 
 ## 来源

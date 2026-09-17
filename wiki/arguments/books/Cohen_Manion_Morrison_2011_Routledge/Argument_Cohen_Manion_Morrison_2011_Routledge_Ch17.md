@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -89,6 +89,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Content Analysis]]"
   - "[[Case Study]]"
+  - "[[Correlational Research]]"
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[Campbell Collaboration]]"
@@ -561,7 +562,7 @@ Thomas & Pring（2004, pp. 54–55）从研究设计层面补充了元分析应�
 
 > [!proc] Evans & Benefield 的六项原则（pp. 393–396）
 > 1. **明确说明研究问题** 明确说明要解决的研究问题
-> 2. **系统、全面、穷尽地搜索** 系统、全面、穷尽地搜索相关研究
+> 2. **系统、全面、穷尽地搜索** 系统、全面、穷尽地搜索[[Correlational Research|相关研究]]
 > 3. **明确纳入排除标准** 包括数据提取标准（发表状态、引用细节、语言、关键词、资助来源、研究类型、干预性质、样本特征、研究规划和过程、结果评估）和研究的描述性数据（资助来源、研究类型、干预内容、人群与抽样、干预和研究的设计规划、结果评估）（Evans & Benefield, 2001, p. 537）
 > 4. **评估方法论质量** 评估每项[[Research Utilization|研究使用]]的方法论质量（如实验类型和样本、结果测量的报告）
 > 5. **明确减少偏差的策略** 明确选择和审查研究中的偏差减少策略

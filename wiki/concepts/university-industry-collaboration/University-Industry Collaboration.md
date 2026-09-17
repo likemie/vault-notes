@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间有目的的、对齐的合作关系，涵盖研究与学术、教育与学习、公共效益三大维度，区别于单纯的产学关系，强调正式协议框架下的深度参与"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 100
+related_count: 101
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -84,6 +84,7 @@ related_theories:
   - "[[King-Persily Model]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
 related_persons: []
 related_facts:
@@ -307,7 +308,7 @@ updated: 2026-09-17
 
 政府贸易代表团提供了另一连接渠道。以普林斯顿大学为例，自 2018 年起通过新泽西州 ChooseNJ 组织的州贸易代表团访问印度、以色列、爱尔兰、英国和东亚，获得了多重收益：提升州政府和访问国家对大学专长的认知、建立与访问国家产业和创新团体的联系、开拓三方（大学-企业-访问国家大学）合作前景（p.76）。
 
-**探索发现（Exploring/Uncovering）** 识别产学一致利益需要结合技术平台与人的[[Professional Judgment|专业判断]]。Pivot、Elsevier Pure、Academic Analytics 以及 FirstIgnite、PreScouter、Pillar Science、HaloScience 等工具可以做初步匹配，但这些工具依赖用户经验——新手使用可能范围过宽或过窄，从而错失相关研究者或合作机会。最有效的方法是将技术平台与 [[University Corporate Engagement Professional|大学企业参与专员]]的专业洞察相结合，由专员解读数据、将潜在匹配情境化并促成有意义的引荐（pp.76–78）。
+**探索发现（Exploring/Uncovering）** 识别产学一致利益需要结合技术平台与人的[[Professional Judgment|专业判断]]。Pivot、Elsevier Pure、Academic Analytics 以及 FirstIgnite、PreScouter、Pillar Science、HaloScience 等工具可以做初步匹配，但这些工具依赖用户经验——新手使用可能范围过宽或过窄，从而错失[[Correlational Research|相关研究]]者或合作机会。最有效的方法是将技术平台与 [[University Corporate Engagement Professional|大学企业参与专员]]的专业洞察相结合，由专员解读数据、将潜在匹配情境化并促成有意义的引荐（pp.76–78）。
 
 **建设战略伙伴关系（Building）**[[Strategic Partnership|产学战略伙伴关系]]至少需要四个要素——双方组织的联络人、共同认可的愿景与目标、包含定期审查的路线图，以及双方的问责制。联络人理解各自组织需求，制定包含短中长期目标的路线图（同时认识到大学和公司的目标可能不同），并通过定期审查对照 [[SMART]] 目标评估进展。大多数战略伙伴关系从小处起步：从一个教师与产业研究者之间的项目开始，测试双方兼容性；初始项目成功后，随着 UCEP 的参与，关系逐步扩展至更广泛的战略层面（pp.78–79）。
 

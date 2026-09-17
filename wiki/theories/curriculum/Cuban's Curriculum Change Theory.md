@@ -5,7 +5,7 @@ aliases:
 summary: "课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因国家安全而权重重组"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
 related_facts:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 ## 核心主张
@@ -133,7 +134,7 @@ updated: 2026-09-14
 
 ## 相关研究
 
-> [!example] 相关研究
+> [!example] [[Correlational Research|相关研究]]
 > - [[Argument_Yan_2025_JCS]] — 将 Cuban 框架应用于 LS 案例，揭示框架的条件性和因素权重的动态变化
 > - Kan, Vickers & Morris (2007) — 使用 Cuban 框架分析香港中国历史科的课程政治
 

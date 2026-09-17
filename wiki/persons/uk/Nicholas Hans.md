@@ -10,7 +10,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，提�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Democratic Education]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
+  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-17
 ---
 
 # Nicholas Hans
@@ -170,7 +171,7 @@ updated: 2026-09-11
 > - **方法路径** 规范了比较教育中的[[Historical-Comparative Method|历史比较法]]，将原本松散的观念漫谈提升为具有固定维度对照的结构化分析程序。
 > - **政策与实践** 通过主编《教育年鉴》持续介入战后欧洲教育重建与去法西斯化改革话语，推动民主公民教育理念的跨国传播。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009]] — 卡扎米亚斯系统评析汉斯的因素[[Analytic Framework|分析框架]]及其对英美自由民主与苏联社会主义民主的辩证超越。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考恩考察汉斯在战后伦敦大学比较教育学术建制中的承前启后地位。
 

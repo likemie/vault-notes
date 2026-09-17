@@ -7,7 +7,7 @@ summary: "中国历史学家与文化保守主义代表人物，新亚书院创�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Knowledge Co-production]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Hsu Cho-Yun]]"
   - "[[Fei Xiaotong]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-26'
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Qian Mu
@@ -92,7 +93,7 @@ updated: 2026-09-15
 > - **政策与课程路径（殖民合作契约）** 港英政府为了防范左派政治意识形态渗透并维护殖民统治，利用钱穆等文化保守主义者提供的去政治化、重文化伦理史学框架，形成了事实上的“殖民合作契约”（Colonial Bargain）——港英当局鼓励以汉文化与古代史为核心的中史教育，换取政治稳定。[[Argument_Xu_2024_CE|(Xu, 2024, pp. 577–578)]]
 > - **人才链与教材出版传播** 钱穆通过新亚书院培养的弟子及后续学术网络，长期占据香港课程委员会与出版社主笔位置，使得 1997 年回归后至 2010 年代末的香港中史教科书（如龄记版）仍深刻延续其华夏/汉族中心、强化族际战争与显性[[Sinicisation|汉化]]的叙事结构。[[Argument_Xu_2024_CE|(Xu, 2024, pp. 578, 580–585)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 揭示钱穆的文化保守主义如何通过殖民合作契约与门生人才链，塑造了香港初中中史教科书“构成性族群 + 表达性领土”的一国两叙形态。
 
 ---
