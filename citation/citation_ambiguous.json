@@ -235,6 +235,52 @@
         "year": "2021"
       }
     ],
+    "Rickinson et al., 2022": [
+      {
+        "aliases": [
+          "Rickinson et al., 2022a",
+          "Rickinson et al. (2022a)"
+        ],
+        "argument": "Argument_Rickinson_2022_ER",
+        "authors": [
+          "[[Mark Rickinson|Rickinson, M.]]",
+          "Cirkony, C.",
+          "Walsh, L.",
+          "Gleeson, J.",
+          "Cutler, B.",
+          "Salisbury, M."
+        ],
+        "citation": "Rickinson, M., Cirkony, C., Walsh, L., Gleeson, J., Cutler, B., & Salisbury, M. (2022). A framework for understanding the quality of evidence use in education. Educational Research, 64(2), 133–158. https://doi.org/10.1080/00131881.2022.2054452",
+        "doi": "10.1080/00131881.2022.2054452",
+        "isbn": "",
+        "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md",
+        "source_language": "en",
+        "title": "Argument_Rickinson_2022_ER",
+        "year": "2022"
+      },
+      {
+        "aliases": [
+          "Rickinson et al., 2022b",
+          "Rickinson et al. (2022b)"
+        ],
+        "argument": "Argument_Rickinson_2022_UsingResearchWell",
+        "authors": [
+          "[[Mark Rickinson|Rickinson, M.]]",
+          "[[Lucas Walsh|Walsh, L.]]",
+          "[[Joanne Gleeson|Gleeson, J.]]",
+          "[[Blake Cutler|Cutler, B.]]",
+          "[[Connie Cirkony|Cirkony, C.]]",
+          "[[Mandy Salisbury|Salisbury, M.]]"
+        ],
+        "citation": "Rickinson, M., Walsh, L., Gleeson, J., Cutler, B., Cirkony, C., & Salisbury, M. (2022). Using research well in educational practice. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 182–199). Paris: OECD Publishing. https://doi.org/10.1787/d7ff793d-en",
+        "doi": "10.1787/d7ff793d-en",
+        "isbn": "978-92-64-73132-5",
+        "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Rickinson_2022_UsingResearchWell.md",
+        "source_language": "en",
+        "title": "Argument_Rickinson_2022_UsingResearchWell",
+        "year": "2022"
+      }
+    ],
     "Torres, 2022": [
       {
         "aliases": [

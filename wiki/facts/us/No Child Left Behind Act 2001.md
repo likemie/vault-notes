@@ -33,6 +33,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Lifelong Learning]]"
+  - "[[Performance Pay]]"
+  - "[[Technical Rationality]]"
   - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Whole Language]]"
@@ -58,6 +60,7 @@ related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Comprehensive School Reform Program]]"
+  - "[[American Educational Research Association]]"
   - "[[Data Team Intervention]]"
   - "[[What Works Clearinghouse]]"
   - "[[OECD]]"
@@ -105,7 +108,7 @@ updated: 2026-09-17
 > [!policy-design]- 政策设计
 > - **政策目标** 确保所有儿童接受公平、高质量教育，消除基于种族、贫困和特殊需求的[[Academic Achievement|学业成就]]差距，要求到 2013–2014 学年全美学生 100% 达到州立标准的“熟练”（proficient）水平。
 > - **适用对象** 全美各州教育厅、学区公立中小学校、K–12 教师及在读学生。
-> - **政策工具** 借助联邦 ESEA 专项拨款（整体拨款因法案增长 18%，创当时历史新高），重点嵌入以下核心项目：
+> - **政策工具** 借助联邦 [[Elementary and Secondary Education Act of 1965|ESEA]] 专项拨款（整体拨款因法案增长 18%，创当时历史新高），重点嵌入以下核心项目：
 >   - **[[Title I of the Elementary and Secondary Education Act|Title I]]** — 为高贫困学校提供补充教育资金；
 >   - **Reading First** — K–3 年级阅读教学专项扶持；
 >   - **Early Reading First** — 学前阶段早期阅读项目；
@@ -123,9 +126,9 @@ updated: 2026-09-17
 ## 时间线
 
 > [!dev-timeline]- 政策时间线
-> - **2001** — NCLB 在布什政府上任初期获国会参众两院跨党派高票通过，作为 ESEA 的重新授权法案。
+> - **2001** — NCLB 在布什政府上任初期获国会参众两院跨党派高票通过，作为 [[Elementary and Secondary Education Act of 1965|ESEA]] 的重新授权法案。
 > - **2002** — 布什总统于 1 月正式签署生效。Robert E. Slavin 发表专题分析，指出 NCLB 法定“科学本位研究”概念界定缺乏[[Operationalization|操作化]]标准化，任何教学项目都能寻得支持性[[Document|文献]]，尚未产生实质性实践约束。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 16, 18–19]])
-> - **2003** — 美国教育研究协会（AERA）前主席罗伯特·林恩（Robert Linn）发表著名会长演说，通过数学外推指出：按过去十年的实际进步速率，四年级数学达成 100% 达标需 150 年，八年级数学需 160 年；要求 2013–2014 年全员达标属于不可企及的政治幻想，除非出现具有“原子弹级规模”的颠覆性技术创新。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]; Linn (2003)
+> - **2003** — 美国教育研究协会（[[American Educational Research Association|AERA]]）前主席罗伯特·林恩（Robert Linn）发表著名会长演说，通过数学外推指出：按过去十年的实际进步速率，四年级数学达成 100% 达标需 150 年，八年级数学需 160 年；要求 2013–2014 年全员达标属于不可企及的政治幻想，除非出现具有“原子弹级规模”的颠覆性技术创新。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]; Linn (2003)
 > - **2002–2014** — NCLB 的 AYP 问责条款引发全美范围的治理反弹与学术争议；要求至 2014 年实现 100% 熟练水平的法定红线被普遍批评为违背统计规律与教育现实。
 > - **2015** — 贝拉克·奥巴马（Barack Obama）总统签署《[[Every Student Succeeds Act|每个学生成功法]]案》（Every Student Succeeds Act，ESSA），正式替代 NCLB。ESSA 废除了严苛的联邦统一处罚机制，将过于笼统的“科学本位研究”重构为四级操作化证据层级（强证据、中等证据、有希望证据与理论依据）。([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])
 
@@ -157,7 +160,7 @@ updated: 2026-09-17
 >   - **系统性作弊** 约 10% 的教师与管理者迫于达标压力存在篡改答案、泄题或指导作弊行为；
 >   - **排斥弱势学生** 部分学校为拔高通过率，系统性地将后进生划入免考分类，直接违背了“不让一个孩子掉队”的立法初衷；
 >   - **课程严重窄化** 科学、社会研究、艺术、体育等未统考科目课时被大幅挤占，弱势学校情况尤为严重；
->   - **教学异化与系统性作弊丑闻** [[Argument_Serpell_2020_EP|Serpell (2020, p. 41)]] 考证指出，当政策将学生的标准化测验分数与教师人事考核、绩效工资甚至学校关闭直接绑定时，在全美多州引发了极具破坏性的政策异化；部分学区教师陷入极度焦虑并全盘转向“为考而教”（teaching to the test），并在佐治亚州亚特兰大等地爆发了教师与管理层有组织篡改考卷答案的特大集体舞弊丑闻（Croft, Roberts, & Stenhouse, 2015），确凿证实了过度死板的技术理性规制对一线教学实践的反噬。
+>   - **教学异化与系统性作弊丑闻** [[Argument_Serpell_2020_EP|Serpell (2020, p. 41)]] 考证指出，当政策将学生的标准化测验分数与教师人事考核、[[Performance Pay|绩效工资]]甚至学校关闭直接绑定时，在全美多州引发了极具破坏性的政策异化；部分学区教师陷入极度焦虑并全盘转向“为考而教”（teaching to the test），并在佐治亚州亚特兰大等地爆发了教师与管理层有组织篡改考卷答案的特大集体舞弊丑闻（Croft, Roberts, & Stenhouse, 2015），确凿证实了过度死板的[[Technical Rationality|技术理性]]规制对一线教学实践的反噬。
 
 > [!effect-table]- 政策评估与实证数据
 > <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>
@@ -206,7 +209,7 @@ updated: 2026-09-17
 > | [[Data-Based Decision Making]] | 概念 | NCLB 是推动第一代基于数据的决策（DBDM）并在全球普及大规模标准化测试数据利用的政策发源地。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 157)]] |
 | [[Argument_Brown_2017_ER\|Brown et al. (2017)]] | 论证条目 | 考证 NCLB 作为 DBDM 历史起点的问责渊源，分析其将数据利用窄化为终结性考试的局限。 |
 | [[Evidence-Based Reform]] | 概念 / 理论 | NCLB 是美国[[Evidence-Based Education\|循证教育]]改革思潮由学术构想走向国家立法的早期制度化标杆。 |
-> | [[Every Student Succeeds Act|ESSA 2015 Evidence Standards]] | 政策事实 | 替代 NCLB 的后续法律，确立了四级[[Operationalization\|操作化]]证据分级体系。 |
+> | [[Every Student Succeeds Act\|ESSA 2015 Evidence Standards]] | 政策事实 | 替代 NCLB 的后续法律，确立了四级[[Operationalization\|操作化]]证据分级体系。 |
 > | [[Comprehensive School Reform Program]] | 项目事实 | 与 NCLB 协同推行的联邦证据本位项目，重点要求学校采用有证据支持的整体改革方案。 |
 > | [[What Works Clearinghouse]] | 机构事实 | 联邦建立的权威证据清理平台，直接服务于识别 NCLB 所要求的“科学本位研究”干预。 |
 > | [[Educational Evidence Clearinghouses]] | 概念 / 机构类型 | NCLB 为美国证据清算中心机制提供了最高联邦法律依据与经常性资金支撑。 |

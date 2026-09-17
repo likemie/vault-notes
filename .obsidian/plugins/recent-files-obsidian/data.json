@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Rickinson_2022_ER",
+      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
+    },
+    {
       "basename": "Argument_Serpell_2020_EP",
       "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md"
+    },
+    {
+      "basename": "American Association for the Advancement of Science",
+      "path": "wiki/facts/us/American Association for the Advancement of Science.md"
+    },
+    {
+      "basename": "Research Translation",
+      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
+    },
+    {
+      "basename": "House Committee on Education and the Workforce",
+      "path": "wiki/facts/us/House Committee on Education and the Workforce.md"
+    },
+    {
+      "basename": "Attrition",
+      "path": "wiki/concepts/research-methodology/Attrition.md"
+    },
+    {
+      "basename": "Ecological Systems Theory",
+      "path": "wiki/theories/educational-psychology/Ecological Systems Theory.md"
+    },
+    {
+      "basename": "Urie Bronfenbrenner",
+      "path": "wiki/persons/us/Urie Bronfenbrenner.md"
     },
     {
       "basename": "American Educational Research Association",
@@ -171,34 +199,6 @@
     {
       "basename": "Argument_Helgetun_2022_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
-    },
-    {
-      "basename": "Enhanced Core Reading Instruction",
-      "path": "wiki/facts/us/Enhanced Core Reading Instruction.md"
-    },
-    {
-      "basename": "Catch Up Numeracy",
-      "path": "wiki/facts/uk/Catch Up Numeracy.md"
-    },
-    {
-      "basename": "Replication in Education Research",
-      "path": "wiki/concepts/research-methodology/Replication in Education Research.md"
-    },
-    {
-      "basename": "Promising Practices Network",
-      "path": "wiki/facts/us/Promising Practices Network.md"
-    },
-    {
-      "basename": "Education Innovation and Research",
-      "path": "wiki/facts/us/Education Innovation and Research.md"
-    },
-    {
-      "basename": "Nancy Madden",
-      "path": "wiki/persons/us/Nancy Madden.md"
-    },
-    {
-      "basename": "Intraclass Correlation Coefficient",
-      "path": "wiki/methods/quantitative/Intraclass Correlation Coefficient.md"
     }
   ],
   "omittedPaths": [],

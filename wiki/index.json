@@ -11494,6 +11494,20 @@
     ]
   },
   {
+    "title": "Six-Stage Model of Policymaking",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Six-Stage Model of Policymaking.md",
+    "aliases": [
+      "公共政策六阶段模型",
+      "政策过程六阶段模型",
+      "政策六阶段模型",
+      "政策周期六阶段模型",
+      "Stages Heuristic",
+      "Policy Cycle Model",
+      "Six-Stage Policy Process Model"
+    ]
+  },
+  {
     "title": "Theory of Change",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Theory of Change.md",
@@ -23550,6 +23564,34 @@
     ]
   },
   {
+    "title": "American Association for the Advancement of Science",
+    "type": "fact",
+    "path": "wiki/facts/us/American Association for the Advancement of Science.md",
+    "aliases": [
+      "AAAS",
+      "美国科学促进会"
+    ]
+  },
+  {
+    "title": "American Association of Colleges for Teacher Education",
+    "type": "fact",
+    "path": "wiki/facts/us/American Association of Colleges for Teacher Education.md",
+    "aliases": [
+      "AACTE",
+      "美国师范教育学院协会",
+      "美国教师教育学院协会"
+    ]
+  },
+  {
+    "title": "American Council on Education",
+    "type": "fact",
+    "path": "wiki/facts/us/American Council on Education.md",
+    "aliases": [
+      "ACE",
+      "美国教育理事会"
+    ]
+  },
+  {
     "title": "American Educational Research Association",
     "type": "fact",
     "path": "wiki/facts/us/American Educational Research Association.md",
@@ -23724,6 +23766,15 @@
     "aliases": [
       "承诺社区研究联盟",
       "PNRC"
+    ]
+  },
+  {
+    "title": "Society for Research in Child Development",
+    "type": "fact",
+    "path": "wiki/facts/us/Society for Research in Child Development.md",
+    "aliases": [
+      "SRCD",
+      "儿童发展研究学会"
     ]
   },
   {
@@ -25207,6 +25258,11 @@
     "title": "Argument_Nelson_2017_ER",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md"
+  },
+  {
+    "title": "Argument_Rickinson_2022_ER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
   },
   {
     "title": "Argument_Cowen_2019_ERE",

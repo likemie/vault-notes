@@ -24,6 +24,7 @@ tags:
   - theme/development-education
   - theme/global-governance
 related_concepts:
+  - "[[Floor and Ceiling Effects]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Grade Retention]]"
   - "[[Variable]]"
@@ -68,7 +69,7 @@ updated: 2026-09-12
 > - **立项时间 / 周期** 2014 年正式立项启动试点研发，2014–2018 年推进在校与校外青少年的野外实测，其工具改良成果于 2020 年代全盘被常规主线 PISA 吸收整合。
 > - **发起方与资助机制** 由经合组织主导，联合世界银行、美洲开发银行及英美德法多国双边援助机构联合出资补贴，参与试点国承担本地技术团队对等配套。
 > - **覆盖范围与对象** 首批试点涵盖拉丁美洲（厄瓜多尔、危地马拉、洪都拉斯、巴拉圭、巴拿马）、非洲（塞内加尔、赞比亚）及亚洲（柬埔寨、不丹）等 9 个发展中国家；涵盖在校 15 岁中学生及被传统学校测验遗漏的校外青少年。
-> - **核心问题导向** 解决常规 PISA 在中低收入国家中普遍遭遇的严重“地板效应（Floor Effect）”（大部分学生聚集在最低素养等级以下而无法有效区分认知能力差异），以及传统学校抽样无法覆盖庞大失学边缘青少年的代表性缺陷。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
+> - **核心问题导向** 解决常规 PISA 在中低收入国家中普遍遭遇的严重“[[Floor and Ceiling Effects|地板效应]]（Floor Effect）”（大部分学生聚集在最低素养等级以下而无法有效区分认知能力差异），以及传统学校抽样无法覆盖庞大失学边缘青少年的代表性缺陷。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
 

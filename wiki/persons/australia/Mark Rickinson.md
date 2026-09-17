@@ -43,11 +43,12 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
+  - "[[Argument_Rickinson_2022_ER]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Mark Rickinson
@@ -84,7 +85,8 @@ updated: 2026-09-14
 > - **2017 — *What Can Evidence-Use in Practice Learn from Evidence-Use in Policy?*** 跨界比较卫生、社会政策与教育领域[[Research Utilization|证据使用]]，提炼实践端学习政策端证据治理的经验框架。
 > - **2020 — *[[Quality Use of Research Evidence Framework]]*** 正式提出 QURE 理论框架，界定核心要素、个体使能、组织使能与系统影响的四层结构。
 > - **2021 — *Using Research Well in Australian Schools*** 基于澳大利亚学校实证调查，系统描绘教师与校长视角下的高质量研究使用表征与实践阻碍。
-> - **2022 — *Using Research Well in Educational Practice*** 在[[OECD|经合组织]]（OECD）研究专著第九章全面阐释高质量研究使用理论，提出拉动需求、倾听实践者声音等系统变革启示。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 182–199]]）
+> - **2022 — *[[Argument_Rickinson_2022_ER|A Framework for Understanding the Quality of Evidence Use in Education]]*** 在《教育研究》（*Educational Research*）发表奠基性同行评议期刊论文，详述跨越卫生、社会关照、教育与政策四大领域的[[Systematic Review|系统综述]]与叙事综合，确立 QURE 框架的适切证据与审慎实施双核以及多层使能结构。（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022, pp. 133–158]]）
+> - **2022 — *Using Research Well in Educational Practice*** 在[[OECD|经合组织]]（OECD）研究专著第九章全面阐释高质量研究使用理论，公布全澳 906 名教育者的大规模实证发现与系统变革启示。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 182–199]]）
 
 ---
 

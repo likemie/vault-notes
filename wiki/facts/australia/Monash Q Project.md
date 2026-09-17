@@ -53,10 +53,11 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
 related_arguments:
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
+  - "[[Argument_Rickinson_2022_ER]]"
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Monash Q Project
@@ -97,7 +98,7 @@ updated: 2026-09-14
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 项目推进历程
-> - **2019 — 概念框架研制期** 对卫生、社会关照、政策与教育四大领域[[Document|文献]]开展跨界[[Systematic Review|系统综述]]与叙事综合，提炼[[Research Utilization|证据使用]]质量内涵，经过多轮利益相关者研讨发布[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]（QURE）。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 184–185]]）
+> - **2019 — 概念框架研制期** 对卫生、社会关照、政策与教育四大领域[[Document|文献]]开展跨界[[Systematic Review|系统综述]]与叙事综合，提炼[[Research Utilization|证据使用]]质量内涵，经过多轮利益相关者研讨确立[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]（QURE），并在《教育研究》（*Educational Research*）发表同行评议奠基论文。（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022, pp. 133–158]]；[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 184–185]]）
 > - **2020–2021 — 学校实证调查期** 开展两轮大规模标准化[[Questionnaire|问卷调查]]（Survey 1 样本 492 人，聚焦认知与使用行为；Survey 2 样本 414 人，聚焦促成与阻碍因素）以及 27 场深入访谈（29 位教育工作者），深入剖析一线使用质量的实际表征与制度瓶颈。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 184, 199]]）
 > - **2022–2024 — 工具开发与系统辐射期** 与[[OECD|经合组织]]（[[OECD]]）合作发布国际专著章节，面向全澳学校推广研究使用质量诊断量表与专业发展支持工具，推动系统层减负与政策支持。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 182–199]]）
 

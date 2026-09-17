@@ -92,7 +92,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
 related_theories:
   - "[[Realist Evaluation]]"
-  - "[[Luhmann's Systems Theory]]"
+  - "[[Ecological Systems Theory]]"
   - "[[Theory of Change]]"
   - "[[Growth Mindset]]"
 related_methods:
@@ -196,7 +196,7 @@ updated: 2026-09-15
 > | **[[Evaluator Independence\|评估者独立性理论]]**<br>[[Evaluator Independence]] | 指导设计避免研发者自评[[Conflict of Interest in Research\|利益冲突]]的制度防火墙，确立第三方独立评估者在[[Random Assignment\|随机化]]、主数据采集、分析与报告中的专有权。（pp. 50–51） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具将宏观的证据治理政策与微观的试验设计操作紧密衔接：证据生态[[Luhmann's Systems Theory|系统理论]]阐明了为何中介机构必须建立跨越研究与实践的组织网络；实在论评估与独立性理论则为破解[[Positivism|实证主义]]黑箱、防范学术与商业利益冲突提供了坚实的方法论准则。（pp. 47–54）
+> 理论工具将宏观的证据治理政策与微观的试验设计操作紧密衔接：证据[[Ecological Systems Theory|生态系统理论]]阐明了为何中介机构必须建立跨越研究与实践的组织网络；实在论评估与独立性理论则为破解[[Positivism|实证主义]]黑箱、防范学术与商业利益冲突提供了坚实的方法论准则。（pp. 47–54）
 
 ---
 

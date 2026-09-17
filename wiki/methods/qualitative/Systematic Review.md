@@ -92,6 +92,7 @@ related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Li_2026_CEAI]]"
+  - "[[Argument_Rickinson_2022_ER]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Ginsberg_2024_EP]]"
@@ -295,6 +296,7 @@ updated: 2026-09-17
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，三库系统检索并双盲两阶段筛选 109 项学校[[Research Utilization|研究使用]]实证研究，运用 [[Mixed Methods Appraisal Tool|MMAT]] 工具评估质量并采用[[Framework Synthesis|框架综合]]法进行证据整合。
 > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 结合系统综述的检索与筛选规程及[[Critical Review|批判性综述]]方法，解构 34 篇[[Document|文献]]并提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]理论。
 > - **[[Argument_Li_2026_CEAI|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段[[Thematic Synthesis|主题综合法]]，系统解构 ChatGPT 在高等教育中对批判性与[[Creativity|创造性思维]]的促进机制与风险模式。
+> - **[[Argument_Rickinson_2022_ER|Rickinson et al. (2022)]]** 遵循系统综述规范跨 [[Education Resources Information Center|ERIC]]、Scopus、Web of Science 与 ProQuest 四大数据库系统检索，结合双人初筛与同行专家盲审纳入跨卫生、社会关照、教育与政策四大领域的 112 篇核心文献，运用叙事综合法提炼证据使用质量的共性特征并建构 [[Quality Use of Research Evidence Framework|QURE]] 理论框架。
 > - **[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]]** 在 [[OECD]] 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域相关文献开展跨行业系统综述与叙事综合，跨界界定证据使用质量（Quality of Evidence Use）并奠定 [[Quality Use of Research Evidence Framework|QURE]] 框架的先验理论基础。
 > - **[[Argument_Gorard_2020_ROE|Gorard et al. (2020)]]** 针对教育与公共政策领域“如何使研究证据有效投入使用”这一因果机制，对逾 335 万条数据库记录开展大规模跨学科系统综述，运用[[Gorard's Trustworthiness Sieve|戈拉德研究可信度筛子]]严格质评初筛出的 323 篇文献，最终识别出 33 项具备[[Counterfactual|反事实]]对照设计的因果[[Evaluation Research|评估研究]]并提炼两维度转化模型。
 > - **[[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]]** 遵循系统综述规范对 129 项教育实践检索词在四大证据库（[[What Works Clearinghouse|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation|EEF]], [[Education Resources Information Center|ERIC]]）中开展全量[[Literature Search|文献检索]]与七级证据评定，并将其与大型城市学区三年间 2.88 亿美元的 [[Title I of the Elementary and Secondary Education Act|Title I]] 财务细项逐一关联，实证测算联邦教育资金投向循证实践的真实比例。

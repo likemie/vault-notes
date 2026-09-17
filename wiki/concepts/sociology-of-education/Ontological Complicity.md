@@ -104,4 +104,4 @@ updated: 2026-06-10
 ## 应用案例
 
 > [!evidence-grid-a] [[School Leadership|学校领导力]]与[[Cult of the Guru|大师崇拜]]
-> - **澳大利亚[[Visible Learning|VL]]品牌深锁** — 澳大利亚学校领导力社群（如 ACEL）与 Hattie 品牌的共谋并非纯粹的商业强迫，而是行政人员追求确定性的惯习与[[John Hattie|哈蒂]]提供的数据账本契合的结果。这种前反思的契合使“Hattie 崇拜”内嵌于 [[Australian Institute for Teaching and School Leadership|AITSL]] 的国家校长和教师专业标准中，形成极难撼动的霸权深锁。([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 414–415]])
+> - **澳大利亚VL品牌深锁** — 澳大利亚学校领导力社群（如 ACEL）与 Hattie 品牌的共谋并非纯粹的商业强迫，而是行政人员追求确定性的惯习与[[John Hattie|哈蒂]]提供的数据账本契合的结果。这种前反思的契合使“Hattie 崇拜”内嵌于 [[Australian Institute for Teaching and School Leadership|AITSL]] 的国家校长和教师专业标准中，形成极难撼动的霸权深锁。([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 414–415]])

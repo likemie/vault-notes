@@ -27,6 +27,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Class Size]]"
+  - "[[Heterogeneity]]"
   - "[[Evidence Era]]"
   - "[[Rationalized Myth]]"
   - "[[Fade-out Effect]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[External Validity]]"
   - "[[Emergence]]"
+  - "[[Learning Gain]]"
   - "[[Research Question]]"
   - "[[Attrition]]"
   - "[[Initial Teacher Training]]"
@@ -56,7 +58,6 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Homework]]"
   - "[[Implementation Fidelity]]"
-  - "[[Heterogeneity]]"
   - "[[Research Ethics]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Counterfactual]]"
@@ -111,6 +112,7 @@ related_persons:
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Institute of Education Sciences]]"
   - "[[Education Endowment Foundation]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
   - "[[World Bank]]"
@@ -173,7 +175,7 @@ updated: 2026-09-17
 >   - 1985–1989 — 田纳西星级[[Class Size|班级规模]]实验（[[Tennessee STAR Project 1985-1989]]）实施，成为全美教育干预因果评估的里程碑。
 >   - 2000 — 教育经验文章中[[Intervention Research|干预研究]]占比达 40%，受控实验仍占据核心主导地位。
 >   - 2002 — 美国教育部成立有效教育清算所（[[What Works Clearinghouse|WWC]]），形式化将 RCT 确立为教育证据层级的最高准则。
->   - 2007 — Dynarski et al. 完成 IES 资助的全美大规模教育软件 RCT，揭示整体零显著差异与强烈的情境异质性（班级规模、师生比与教师整合能力），有力破除实验净效应可脱离情境普遍复制的迷思（[[Argument_Serpell_2020_EP|Serpell, 2020, p. 42]]）。
+>   - 2007 — Dynarski et al. 完成 [[Institute of Education Sciences|IES]] 资助的全美大规模教育软件 RCT，揭示整体零显著差异与强烈的情境[[Heterogeneity|异质性]]（班级规模、师生比与教师整合能力），有力破除实验净效应可脱离情境普遍复制的迷思（[[Argument_Serpell_2020_EP|Serpell, 2020, p. 42]]）。
 >
 > - **2010–2023 — 规模扩张、实效反思与[[Evidence Era|证据时代]][[Rationalized Myth|合理化神话]]** 英国 [[Education Endowment Foundation|EEF]] 等机构资助数百项大规模实地试验，但实效阶段[[Fade-out Effect|效应衰减]]、清算中心多机构评级冲突与依策造据风险引发[[Epistemology|认识论]]与治理反思。
 >
@@ -208,7 +210,7 @@ updated: 2026-09-17
 > - **知识观** RCT 隐含[[Empiricism|经验主义]]和[[Positivism|实证主义]]认识论：[[Hypothesis|假设]]通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的[[Causal Processes|因果过程]]（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–115]]）。
 > - **研究者角色** [[Random Assignment|随机分配]]和变量控制旨在消除潜在混杂并追求客观中立，但其实验操作本身涉及对受试者的严格控制与变量操纵——“研究者是国王或女王，参与者是臣民”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]])。
 > - **有效性标准** [[Internal Validity|内部效度]]优先（通过随机分配消除混淆），但[[External Validity|外部效度]]常被牺牲。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p. 9)]] 从效度理论角度补充：继承 Lee Cronbach (1971) 和 Samuel Messick (1989)，效度是推论的属性而非实验或测试的属性——即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力，而这种能力随着新证据的[[Emergence|涌现]]而持续演变。
-> - **不声称回答的问题** RCT 只能告诉我们"在已被测试的条件下已测试过的干预的效果"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 7]]），不能直接回答干预为什么有效、如何在其他情境中起作用、或未来是否仍然有效；亦无法直接回答宏观系统性治理与组织权力联动命题——如劳登布什（Stephen Raudenbush, 2015）指出，即使精细实验给出了特定因果答案，但若依据增值评价直接赋权学区辞退教师，是否会摧毁校长的治校权威？孤立因果效应无法涵盖宏观政策的治理连带反应（[[Argument_Serpell_2020_EP|Serpell, 2020, p. 42]]）。
+> - **不声称回答的问题** RCT 只能告诉我们"在已被测试的条件下已测试过的干预的效果"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 7]]），不能直接回答干预为什么有效、如何在其他情境中起作用、或未来是否仍然有效；亦无法直接回答宏观系统性治理与组织权力联动命题——如劳登布什（Stephen Raudenbush, 2015）指出，即使精细实验给出了特定因果答案，但若依据[[Learning Gain|增值评价]]直接赋权学区辞退教师，是否会摧毁校长的治校权威？孤立因果效应无法涵盖宏观政策的治理连带反应（[[Argument_Serpell_2020_EP|Serpell, 2020, p. 42]]）。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[True Experimental Design|真实验设计]]（随机分配至处理组和对照组）

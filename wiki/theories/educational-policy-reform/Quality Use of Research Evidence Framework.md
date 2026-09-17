@@ -65,10 +65,10 @@ related_theories:
   - "[[COM-B Model]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Systematic Review]]"
   - "[[Qualitative Interview]]"
   - "[[Questionnaire]]"
   - "[[Rating Scale]]"
-  - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -86,6 +86,7 @@ related_facts:
   - "[[Monash Q Project]]"
   - "[[Early Steps]]"
 related_arguments:
+  - "[[Argument_Rickinson_2022_ER]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
@@ -107,7 +108,7 @@ updated: 2026-09-17
 > - **解释对象** 教育领域中研究[[Research Utilization|证据使用]]的质态（Quality of Use），即超越使用与否的二元统计（如[[Document|文献]]阅读量、点击率或引用频次），解释何谓高质量使用（即适切证据与审慎实施的双核互构），以及个体素养心智、学校组织生态与宏观系统治理在多大程度上协同促成或阻碍深思熟虑的证据利用。
 > - **理论问题** 突破传统供给驱动（Push）模式将研究使用窄化为单向学术推送的线性偏误，回应一线教育实践者缺乏甄别信心、被动采购外部方案、时间极度匮乏以及研究脱离教学现场的深层实践困境，建构由供给驱动向需求牵引（Pull）转型的系统解释框架。
 > - **理论类型** 跨层使能机制模型（Multi-level Enabling Framework）、中层[[Analytic Framework|分析框架]]与规范性实践指引。
-> - **知识位置** 源自澳大利亚莫纳什大学 Q 项目，由 Rickinson et al. (2020, 2022) 奠定核心概念基石；被[[OECD|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]确立为贯通微观学校实践（第 9 章）与宏观跨国政策生态诊断（第 1、2、4 章）的核心理论支柱（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; [[Argument_Torres_2022_KMModels|Torres, 2022b]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022]]）。
+> - **知识位置** 源自澳大利亚莫纳什大学 Q 项目，由 Rickinson et al. (2020, 2022) 奠定核心概念基石；在《教育研究》（*Educational Research*）正式发表跨领域[[Systematic Review|系统综述]]奠基成果（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022]]），并被[[OECD|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]确立为贯通微观学校实践（第 9 章）与宏观跨国政策生态诊断（第 1、2、4 章）的核心理论支柱（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; [[Argument_Torres_2022_KMModels|Torres, 2022b]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022]]）。
 
 > [!claim] 核心主张
 > 高质量研究证据使用并非表层的接触频次或机械套用，而是在复杂教育系统内，由个体（技能、心智、关系）、组织（领导力、文化、基础架构）与系统环境多层使能构件协同支持的、对适切研究证据的审慎参与和实施；其实质内涵体现在一线教育者共识确立的六大实践特征（目标明确、常态嵌入、连接专业精神、集体参与、依赖时间精力、好奇心驱动），唯有在制度化排程与榜样型领导力保障下打破时间赤字与单向供给偏误，方能实现研究证据与专业[[Phronesis|实践智慧]]的深层融合。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 185–191)]]
@@ -331,6 +332,7 @@ updated: 2026-09-17
 > [!dev-timeline] 发展脉络
 > - **2019 — 跨领域[[Systematic Review|系统综述]]与概念奠基** 莫纳什大学 Q 项目团队针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization|证据使用]][[Document|文献]]展开系统综述与叙事综合，发现各领域均缺乏关于使用质量的直接界定，初步建构 QURE 框架并开展学校利益相关者工作坊迭代。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 184, 199)]]
 > - **2020 — 框架正式发布** 团队发布奠基性专著报告《Using Evidence Better: Quality Use of Research Evidence Framework》，明确提出双核互构与三层使能系统，将研究使用议程由证据质量转向使用质量（Rickinson et al., 2020）。
+> - **2022 — 同行评议奠基论文发表于《教育研究》** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022)]] 在《教育研究》（*Educational Research*）发表同行评议理论论文，详述基于卫生、社会关照、教育与政策四大领域 112 篇核心文献的跨领域系统综述与叙事综合方法，正式确立适切证据与审慎实施双核，并系统阐述个体、组织使能构件及宏观系统影响。（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022, pp. 133–158]]）
 > - **2022 — [[OECD]] [[Knowledge Mobilisation|知识动员]]模型横向比较** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 将 QURE 框架作为考察使用质量的第四代创新知识动员模型纳入横向比较，指出其突破了传统模型只关注使用有无的局限，从个体、组织与系统全链条定义了“用得好”的实质内涵。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 47–50)]]
 > - **2022 — OECD 跨国政策调查[[Operationalization|操作化]]** [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] 首次将 QURE 操作化为跨国政策调查维度，在 29 国 37 个教育系统测度了使能构件分布，揭示出高主观承诺与低信任、行政中介集聚与实践真空等深层结构矛盾。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 75–104)]]
 > - **2022 — [[Monash Q Project|莫纳什 Q 项目]]全澳 906 名教育者实证发表** [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] 在 OECD 编著第九章系统公布澳大利亚 4 州两轮[[Questionnaire|问卷]]（$N=906$）与[[In-depth Interview|深度访谈]]成果，提炼出高质量使用六大实践特征、劣质使用对照矩阵，并量化检验证明了领导示范、[[Professional Learning Community|PLCs]] 与时间赤字的决定性影响。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 182–199)]]

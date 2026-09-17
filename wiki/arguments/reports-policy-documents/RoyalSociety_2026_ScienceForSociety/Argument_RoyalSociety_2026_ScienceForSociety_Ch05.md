@@ -61,6 +61,7 @@ related_facts:
   - "[[Government Office for Science]]"
   - "[[Scientific Advisory Group for Emergencies]]"
   - "[[Parliamentary Office of Science and Technology]]"
+  - "[[American Association for the Advancement of Science]]"
   - "[[Areas of Research Interest]]"
   - "[[The Green Book]]"
   - "[[Public Attitudes to Science]]"
@@ -142,7 +143,7 @@ updated: 2026-09-04
 
 > [!case] 案例研究二：动荡时代的跨国科学外交（Science Diplomacy in an Era of Disruption，p. 80, note 155）
 > 科学与决策的互动在全球化地缘政治博弈中具备独特的战略通道价值：
-> - **皇家学会与 AAAS 联合战略** 英国皇家学会与美国科学促进会（American Association for the Advancement of Science, AAAS）于 2025 年联合发布专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*），深度剖析在国际局势动荡与多边主义受挫情境下，科学合作如何维系国家间[[Dialogue in Education|对话]]。
+> - **皇家学会与 [[American Association for the Advancement of Science|AAAS]] 联合战略** 英国皇家学会与美国科学促进会（American Association for the Advancement of Science, AAAS）于 2025 年联合发布专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*），深度剖析在国际局势动荡与多边主义受挫情境下，科学合作如何维系国家间[[Dialogue in Education|对话]]。
 > - **超越政治僵局的科学理性** 无论在南极科考、气候跨国履约还是前沿人工智能安全标准制定中，跨国科学界所共享的求真原则与证据规范，成为各国政府打破外交冰冻期、构建全球风险治理的重要[[Soft Power|软实力]]支柱。（p. 80）
 
 #### 主题二：罗斯柴尔德报告（[[Rothschild Report 1971]]）与科研采购“市场化”范式确立（p. 80）
@@ -459,7 +460,7 @@ updated: 2026-09-04
 ## 自述局限
 
 > [!warning]
-> 本章分析主要聚焦于英国中央政府内阁行政中枢、部委首席科学顾问机制以及威斯敏斯特议会的科学咨询与决策整合体系；虽然政策制定中的科学融入对于国际“科学外交”（Science Diplomacy）同样至关重要，但鉴于议题的广度与复杂性，报告明确说明科学外交的具体运作已剥离至英国皇家学会与美国科学促进会（AAAS）联合发布的专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*）中单独深入讨论，不在本章考察范围之内；此外，科学证据在司法体系与法庭审判中的具体应用亦作为独立案例单独考察，未纳入本章常规政策治理框架。（pp. 79–80）
+> 本章分析主要聚焦于英国中央政府内阁行政中枢、部委首席科学顾问机制以及威斯敏斯特议会的科学咨询与决策整合体系；虽然政策制定中的科学融入对于国际“科学外交”（Science Diplomacy）同样至关重要，但鉴于议题的广度与复杂性，报告明确说明科学外交的具体运作已剥离至英国皇家学会与[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）联合发布的专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*）中单独深入讨论，不在本章考察范围之内；此外，科学证据在司法体系与法庭审判中的具体应用亦作为独立案例单独考察，未纳入本章常规政策治理框架。（pp. 79–80）
 
 ---
 

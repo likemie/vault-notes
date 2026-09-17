@@ -42,6 +42,7 @@ related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
+  - "[[American Council on Education]]"
   - "[[Educational Testing Service]]"
   - "[[OECD]]"
 related_arguments:
@@ -59,7 +60,7 @@ updated: 2026-09-07
 ## 背景
 
 > [!event-context] 事件背景
-> - **发布时间 / 研发团队** 2012 年由 Victor Borden 与 Brian Kernel 编撰，由美国机构研究协会（[[AIR Model of Epistemic Cognition|AIR]]）、美国教育委员会（ACE）政策分析中心与全美学习成果[[Evaluation Research|评估研究]]所（NILOA）联合发布。[[Argument_Bouckaert_2023_OECD|(Borden & Kernel, 2012; Bouckaert, 2023, p. 29)]]
+> - **发布时间 / 研发团队** 2012 年由 Victor Borden 与 Brian Kernel 编撰，由美国机构研究协会（[[AIR Model of Epistemic Cognition|AIR]]）、美国教育委员会（[[American Council on Education|ACE]]）政策分析中心与全美学习成果[[Evaluation Research|评估研究]]所（NILOA）联合发布。[[Argument_Bouckaert_2023_OECD|(Borden & Kernel, 2012; Bouckaert, 2023, p. 29)]]
 > - **研制目的** 为全美及全球高等教育机构提供一套系统化、透明化且覆盖全面的质量评估工具、软件平台与基准调查数据库。
 > - **收录规模** 编目收录了超过 250 种不同类型的高等教育测量工具，其中学生学业考核测验与学生调查占绝对多数。
 

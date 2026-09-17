@@ -5391,10 +5391,32 @@
       "title": "Argument_Rappleye_2006_RCIE",
       "year": "2006"
     },
-    "Rickinson et al. (2022)": {
+    "Rickinson et al. (2022a)": {
       "aliases": [
-        "Rickinson et al., 2022",
-        "Rickinson et al. (2022)"
+        "Rickinson et al., 2022a",
+        "Rickinson et al. (2022a)"
+      ],
+      "argument": "Argument_Rickinson_2022_ER",
+      "authors": [
+        "[[Mark Rickinson|Rickinson, M.]]",
+        "Cirkony, C.",
+        "Walsh, L.",
+        "Gleeson, J.",
+        "Cutler, B.",
+        "Salisbury, M."
+      ],
+      "citation": "Rickinson, M., Cirkony, C., Walsh, L., Gleeson, J., Cutler, B., & Salisbury, M. (2022). A framework for understanding the quality of evidence use in education. Educational Research, 64(2), 133–158. https://doi.org/10.1080/00131881.2022.2054452",
+      "doi": "10.1080/00131881.2022.2054452",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md",
+      "source_language": "en",
+      "title": "Argument_Rickinson_2022_ER",
+      "year": "2022"
+    },
+    "Rickinson et al. (2022b)": {
+      "aliases": [
+        "Rickinson et al., 2022b",
+        "Rickinson et al. (2022b)"
       ],
       "argument": "Argument_Rickinson_2022_UsingResearchWell",
       "authors": [
@@ -5413,10 +5435,32 @@
       "title": "Argument_Rickinson_2022_UsingResearchWell",
       "year": "2022"
     },
-    "Rickinson et al., 2022": {
+    "Rickinson et al., 2022a": {
       "aliases": [
-        "Rickinson et al., 2022",
-        "Rickinson et al. (2022)"
+        "Rickinson et al., 2022a",
+        "Rickinson et al. (2022a)"
+      ],
+      "argument": "Argument_Rickinson_2022_ER",
+      "authors": [
+        "[[Mark Rickinson|Rickinson, M.]]",
+        "Cirkony, C.",
+        "Walsh, L.",
+        "Gleeson, J.",
+        "Cutler, B.",
+        "Salisbury, M."
+      ],
+      "citation": "Rickinson, M., Cirkony, C., Walsh, L., Gleeson, J., Cutler, B., & Salisbury, M. (2022). A framework for understanding the quality of evidence use in education. Educational Research, 64(2), 133–158. https://doi.org/10.1080/00131881.2022.2054452",
+      "doi": "10.1080/00131881.2022.2054452",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md",
+      "source_language": "en",
+      "title": "Argument_Rickinson_2022_ER",
+      "year": "2022"
+    },
+    "Rickinson et al., 2022b": {
+      "aliases": [
+        "Rickinson et al., 2022b",
+        "Rickinson et al. (2022b)"
       ],
       "argument": "Argument_Rickinson_2022_UsingResearchWell",
       "authors": [

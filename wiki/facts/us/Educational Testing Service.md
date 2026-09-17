@@ -36,6 +36,7 @@ related_instruments:
   - "[[Consensual Assessment Technique]]"
 related_persons: []
 related_facts:
+  - "[[American Council on Education]]"
   - "[[Voluntary System of Accountability]]"
   - "[[InTASC Standards]]"
 related_arguments:
@@ -53,7 +54,7 @@ updated: 2026-08-27
 ## 背景
 
 > [!event-context] 机构创立与定位
-> - **成立时间 / 发起主体** 1947 年由美国教育理事会（ACE）、卡内基教学促进基金会（CFAT）与大学入学考试委员会（CEEB）联合创立。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]
+> - **成立时间 / 发起主体** 1947 年由[[American Council on Education|美国教育理事会]]（ACE）、卡内基教学促进基金会（CFAT）与大学入学考试委员会（CEEB）联合创立。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]
 > - **总部地点** 美国新泽西州普林斯顿（Princeton, New Jersey）。
 > - **机构性质** 全球规模最大的私立非营利性教育评估与心理测量学科研机构。
 > - **核心使命** 通过提供公平、有效且严谨的测评、科研与相关服务，促进全人类教育质量与教育公平。

@@ -25,8 +25,8 @@ publisher: OECD Publishing
 year: 2022
 doi: "10.1787/d7ff793d-en"
 citation_aliases:
-  - "Rickinson et al., 2022"
-  - "Rickinson et al. (2022)"
+  - "Rickinson et al., 2022b"
+  - "Rickinson et al. (2022b)"
 isbn: 978-92-64-73132-5
 citation: "Rickinson, M., Walsh, L., Gleeson, J., Cutler, B., Cirkony, C., & Salisbury, M. (2022). Using research well in educational practice. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 182–199). Paris: OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
 tags:
