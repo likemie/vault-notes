@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Big Data & Society/Argument_Hartong_Forschler_2019_BDS.md"
     },
     {
+      "basename": "Hartong_Forschler_2019_BDS",
+      "path": "sources/Hartong_Forschler_2019_BDS/Hartong_Forschler_2019_BDS.md"
+    },
+    {
       "basename": "Standing Conference of the Ministers of Education and Cultural Affairs",
       "path": "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Knowledge Transfer",
       "path": "wiki/concepts/university-industry-collaboration/Knowledge Transfer.md"
-    },
-    {
-      "basename": "Research Literacy",
-      "path": "wiki/concepts/teacher-education/Research Literacy.md"
     }
   ],
   "omittedPaths": [],
