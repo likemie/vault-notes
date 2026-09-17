@@ -375,12 +375,14 @@ updated: 2026-09-17
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] | 欧美主要教育清算机构（[[What Works Clearinghouse\|WWC]], [[Education Endowment Foundation\|EEF]], BEP） | 教育干预项目与策略 | 比较其系统综述筛选门槛与偏倚控制量表 | 各机构独立有效性分级系统 | 证实不同中介机构在证据标准设定上存在显著方法论分歧与评级不一致（pp. 120–122） |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] | 学校随机对照试验与干预策略 | 0–5 [[EEF Padlock Security Rating\|挂锁安全评级]]（综合设计、[[Sample Size Determination\|样本量]]、[[Attrition\|流失]]率与威胁）；优先锚定国家统考（NPD），严禁自编测验；强制 ISRCTN [[Preregistration\|预注册]]与公开分析计划（SAP）；整合 [[TIDieR]] [[Implementation and Process Evaluation\|过程评估]]（IPE） | 额外学习月数（[[Months of Progress]]）与挂锁安全级别 | 极大降低校长决策门槛，但将多元偏倚压缩为单一分值易掩盖[[Heterogeneity\|异质性]]与统计不确定性（pp. 50–58） |
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | [[Evidence for ESSA]]，美国约翰斯·霍普金斯大学 | K-12 阅读与数学打包干预项目及全校模式 | 依据 ESSA 四级法定标准；强制独立标准化测验、实施周期 $\ge 12$ 周、整群 RCT 与多层线性模型校正 | 强证据（[[Top Institute for Evidence-Based Education Research\|TIER]] 1）、中等证据（Tier 2）与有前景（Tier 3）分级评定 | 严苛方法学准入过滤掉 90% 以上低质研究，为联邦资金采购提供权威透明的技术屏障（pp. 22–26） |
+> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 美国大型城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦资金审计 | K-12 补偿教育实践（129 项检索词） | 比较 [[Every Student Succeeds Act\|ESSA]] 法定 Tier I–III 单项合格研究标准 vs 四大证据库全量证据综合评级（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation\|EEF]], ERIC） | 比例测算：单项合格标准下达 95%–99%，全量证据综合下积极/多半积极支持率降至 49%–58% | 实证证实法定单项合格研究门槛导致合规流于形式，掩盖了更广泛文献中普遍存在的混合效应、零效应与学段不匹配风险（pp. 174–177） |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] — 首项对大型城市学区 2.88 亿美元联邦教育资金开展循证审计的实证研究，量化证实法定单项合格研究门槛（95%–99%）与全量证据综合标准（49%–58%）之间的巨大落差。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 提出[[Educational Brokerage Agency|知识中介机构]]证据标准的六大运作维度与四大病理根源，系统论证方法学严谨性与情境适切性的双维权衡。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 考证全球教育中介机构在因果金标准派与多[[Meta-meta-analysis|元综合]]派之间的方法学阵营分化，指出[[Cumulative Knowledge Base|累积性知识库]]建构的制度阻碍。
 > - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] — 实证评估欧美主流[[Educational Evidence Clearinghouses|证据清算中心]]在评级标准与[[Systematic Review|系统综述]]方法学上的[[Heterogeneity|异质性]]，揭示标准不一致对决策互信的负面影响。
