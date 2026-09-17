@@ -63,7 +63,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Data Literacy
