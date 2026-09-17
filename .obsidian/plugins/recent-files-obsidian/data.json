@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Research Utilization",
-      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
-    },
-    {
       "basename": "Argument_Rickinson_2022_ER",
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
     },
     {
+      "basename": "Fitness for Purpose",
+      "path": "wiki/concepts/research-methodology/Fitness for Purpose.md"
+    },
+    {
+      "basename": "Research Literacy",
+      "path": "wiki/concepts/teacher-education/Research Literacy.md"
+    },
+    {
+      "basename": "Centre for Evidence and Implementation",
+      "path": "wiki/facts/australia/Centre for Evidence and Implementation.md"
+    },
+    {
+      "basename": "Technical Rationality",
+      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
+    },
+    {
+      "basename": "Organizational Culture",
+      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
+    },
+    {
+      "basename": "Evidence Ecosystem",
+      "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md"
+    },
+    {
+      "basename": "Professional Judgment",
+      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
+    },
+    {
       "basename": "Quality Use of Research Evidence Framework",
       "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md"
+    },
+    {
+      "basename": "Research Utilization",
+      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
     },
     {
       "basename": "Research-Engaged School",
@@ -133,10 +161,6 @@
       "path": "wiki/concepts/educational-policy-reform/Policymaking Chronosystem.md"
     },
     {
-      "basename": "Technical Rationality",
-      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
-    },
-    {
       "basename": "Randomised Controlled Trials",
       "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Quasi-Experimental Designs",
       "path": "wiki/methods/quantitative/Quasi-Experimental Designs.md"
-    },
-    {
-      "basename": "Argument_Wadhwa_2024_RER",
-      "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md"
-    },
-    {
-      "basename": "Best Evidence Encyclopedia",
-      "path": "wiki/facts/us/Best Evidence Encyclopedia.md"
-    },
-    {
-      "basename": "California Evidence Based Clearinghouse for Child Social and Economic Welfare",
-      "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare.md"
-    },
-    {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
-      "basename": "Educational Evidence Clearinghouses",
-      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
-    },
-    {
-      "basename": "Argument_Brown_Greany_2018_LPS",
-      "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
     }
   ],
   "omittedPaths": [],

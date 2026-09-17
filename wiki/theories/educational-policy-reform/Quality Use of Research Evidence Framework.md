@@ -29,19 +29,19 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Research Literacy]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Evidence Ecosystem]]"
   - "[[School Leadership]]"
-  - "[[Embedded Researcher]]"
+  - "[[Evidence Ecosystem]]"
   - "[[Poor Research Use]]"
+  - "[[Construct]]"
+  - "[[Ontology]]"
   - "[[Professional Judgment]]"
-  - "[[Research Translation]]"
   - "[[Dialogue in Education]]"
   - "[[Growth]]"
   - "[[Operationalization]]"
-  - "[[Construct]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Professional Learning Community]]"
+  - "[[Research Translation]]"
   - "[[Translational Research]]"
   - "[[Knowledge Mediation]]"
   - "[[Problem Finding]]"
@@ -49,8 +49,8 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Individualised Instruction]]"
   - "[[Teaching Assistant]]"
+  - "[[Embedded Researcher]]"
   - "[[Epistemic Stances]]"
-  - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Knowledge Mobilisation]]"
@@ -59,8 +59,8 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Research Impact]]"
 related_theories:
-  - "[[Organizational Culture]]"
   - "[[Complexity Theory]]"
+  - "[[Organizational Culture]]"
   - "[[Critical Theory]]"
   - "[[COM-B Model]]"
 related_methods:
@@ -122,47 +122,46 @@ updated: 2026-09-17
 
 ## 关键概念与理论构件
 
+教育中研究证据质量使用框架（QURE）由澳大利亚莫纳什大学 Q 项目提出，构建了以“适切研究证据”与“审慎参与和实施”为双核心内核、受个体/组织/系统三层使能构件协同支撑的立体理论构架。
+
 > [!entry-map]
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 审慎参与及实施（Thoughtful Engagement and Implementation） | 概念 | 界定怎么用的核心内核：实践者对研究展开批判性解读、共同审议与情境化调试，与适切证据双核互构 |
-> | 适切研究证据（Appropriate Research Evidence） | 概念 | 界定用什么的核心内核：证据兼具方法学严谨性与教育问题、情境及用途的三维适配性 |
-> | [[Research Literacy\|研究素养（Research Literacy）]] | 概念 | 实践者检索学术数据库、判断证据质量与理解转化方法的关键个体技能 |
-> | [[Evidence-Informed Practice\|证据知情实践（Evidence-Informed Practice）]] | 概念 | QURE 框架的实践哲学归宿，确立研究证据须与教师[[Phronesis\|实践智慧]]及本土情境有机融通 |
+> | 适切研究证据（Appropriate Research Evidence） | 概念 | 界定“用什么”的核心内核：证据兼具方法学严谨性与教育问题、现场脉络及用途的三维适配性 |
+> | 审慎参与及实施（Thoughtful Engagement and Implementation） | 概念 | 界定“怎么用”的核心内核：实践者对研究展开批判性解读、共同审议与日常教学整合，与适切证据双核互构 |
+> | [[Research Literacy\|研究素养（Research Literacy）]] | 概念 | 实践者检索学术数据库、判断证据质量与理解转化方法的关键个体能力基础 |
+> | [[Evidence-Informed Practice\|证据知情实践（Evidence-Informed Practice）]] | 概念 | QURE 框架的实践哲学归宿，确立研究证据须与教师[[Phronesis\|实践智慧]]及本土情境深度融通 |
+> | [[School Leadership\|榜样型领导力（Role-modelling Leadership）]] | 概念 | 学校管理层躬身示范研究在课堂中的具体转化，构成塑造循证文化与打消教师防卫的关键组织杠杆 |
 > | [[Evidence Ecosystem\|证据生态系统（Evidence Ecosystem）]] | 框架 | 提供 QURE 运行的宏观生态底座，统摄研究生成、传播中介与终端学校的非线性互动 |
-> | [[School Leadership\|榜样型领导力（Role-modelling Leadership）]] | 概念 | 学校领导者躬身示范研究在课堂中的具体转化，构成[[Organizational Culture\|组织文化]]塑造与打消教师防卫的关键杠杆 |
-> | [[Embedded Researcher\|嵌入式研究者（Embedded Researcher）]] | 角色 | 组织使能层面的典型制度化中介岗位，在教育行政部门或学区一线搭建连接学术与实践的知识桥梁 |
-> | 个体使能构件（Individual Enablers） | 分类 | 涵盖技能集（Skillsets）、心智倾向（Mindsets）与人际关系（Relationships）三维要素 |
-> | 组织使能构件（Organisational Enablers） | 分类 | 涵盖领导力（Leadership）、文化（Culture）与基础架构（Infrastructure，特别是专有排程时间）三维支柱 |
-> | 系统级影响（System-level Influences） | 分类 | 涵盖宏观问责制度、学区优先事项、科研考评资助导向与跨部门支持生态对微观实践的结构塑造 |
-> | 高质量使用六大实践特征（Six Quality Characteristics） | 分类 | 一线实践者凝练的高质量使用形态：目标明确、常态嵌入、专业精神、集体参与、依赖工时与好奇驱动 |
-> | [[Poor Research Use\|劣质研究使用]]（Poor [[Research Utilization\|Research Use]]） | 分类 | 盲从网络流行趋势、行政强加新点子、证实偏见与僵化自满等病态实践表征 |
+> | [[Poor Research Use\|劣质研究使用（Poor Research Use）]] | 分类 | 盲从网络时髦、行政强加新点子、证实偏见与僵化自满等病态实践表征，构成质量使用的负向对立[[Construct\|构念]] |
 > | [[Monash Q Project\|莫纳什 Q 项目（Monash Q Project）]] | 事实 | QURE 框架的孵化母体与实证基地，在澳大利亚 4 州开展的大规模[[Qualitative Interview\|质性访谈]]与两轮标准化[[Questionnaire\|问卷调查]] |
 
-### 理论构件与三层使能体系
+### 核心双核构件与判定标准
 
-> [!theory-components] QURE 框架的核心内核与多层使能构件（Rickinson et al., 2020, 2022; [[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 49–50]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022, p. 76]]）
-> - **核心内核：适切研究证据（Appropriate Research Evidence）**
->   强调证据质量的情境特异性。优质证据不仅要方法学严谨，更必须针对具体教育问题、学校独特背景与既定使用意图相匹配。证据质量取决于我们想知道什么、为何想知道以及如何使用该证据。
-> - **核心内核：审慎参与及实施（Thoughtful Engagement and Implementation）**
->   体现教育者对研究的批判性研读、集体研讨与有效整合。研究证据绝不代替专业经验，而是与教师现场[[Professional Judgment|专业判断]]紧密融通。
-> - **个体使能：技能集（Skillsets）**
->   实践者获取研究、评估质量、理解方法并结合校情转化落地的专业能力与判断力。
-> - **个体使能：心智倾向（Mindsets）**
->   保持提问审思、探究求索的内在动机，以及清醒反思自身偏见与前设的专业态度。
-> - **个体使能：人际关系（Relationships）**
->   超越个体孤岛的协作过程，依托校内校外信任连接开展集体研讨与共同负责。
-> - **组织使能：领导力（Leadership）**
->   学校管理层树立循证愿景、承担中介引导并亲身示范[[Research Translation|研究转化]]的行为机制。
-> - **组织使能：组织文化（Culture）**
->   将研究使用内化为全校共享规范、鼓励教学反思并容忍创新试验的组织氛围。
-> - **组织使能：基础架构（Infrastructure）**
->   学校排程中受保障的研讨时间、资源预算、教研协调员配置与外部网络链接。
-> - **系统级影响（System-level Influences）**
->   宏观问责制度、学区优先事项、科研资助导向与跨部门支持生态对微观实践的塑造。
+QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质量”或“是否使用”的传统二元论，将高质量研究[[Research Utilization|证据使用]]界定为适切证据与审慎实施的双向互构系统。
 
-### 一线教育者视阈下高质量使用与劣质使用的全维对照
+> [!theory-components] 高质量使用的双核心构件（Core Components）
+> - **适切研究证据（Appropriate Research Evidence）**
+>   强调研究证据质量的情境特异性（Context-specific nature；Nutley et al., 2013）。从使用视角来看，优质研究证据不仅需要在方法学上保持严谨，更必须针对具体的教育问题、学校独特的现场情境脉络以及既定的实践用途实现三维契合。证据的适切性取决于实践者“想知道什么、为何想知道以及如何使用该证据”。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–141)]]; [[Argument_Torres_2022_KMModels|(Torres, 2022b, p. 47)]]
+> - **审慎参与及实施（Thoughtful Engagement and Implementation）**
+>   体现教育者能动克服“研究证据能够自行发声（evidence speaking for itself）”的幻想（Coburn et al., 2009）。它包含对研究证据展开批判性研读、在教研共同体中共同审议其内涵与价值，以及结合教师现场[[Professional Judgment|专业判断]]与学生学情将证据要素渐进整合于日常专业实践（Sharples, 2013）。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 141)]]
+
+### 三层使能体系与微观机制
+
+双核心构件并非在真空中自发运转，而是深嵌于复杂自适应教育系统（[[Complexity Theory|complex adaptive systems]]）之中，依赖个体素养、组织生态与宏观制度三层使能条件的协同支撑与持续激活。
+
+> [!dimension] QURE 三层使能构件体系与微观机制（Enabling Components）
+> - **个体使能构件（Individual Enablers）**
+>   涵盖实践者的**技能集（Skillsets）**（检索数据库、评估质量与情境化转化能力）、**心智倾向（Mindsets）**（保持探究审问、批判反思自身偏见与前设的态度）以及**人际关系（Relationships）**（教研团队内部的互信连接与跨界协作）。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 142–143)]]
+> - **组织使能构件（Organisational Enablers）**
+>   涵盖学校**领导力（Leadership）**（校领导树立愿景、言行一致并躬身示范课堂转化）、**[[Organizational Culture|组织文化]]（Culture）**（全校共享探究规范、鼓励反思并容忍创新试错）以及**基础架构（Infrastructure）**（日常排程中受保障的研讨工时、资源预算与专业协调员配置）。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 143–144)]]
+> - **系统级环境塑造（System-level Influences）**
+>   涵盖宏观绩效问责与督导制度、学区优先施政议程、学术评价与科研资助导向，以及连接实践端与研究端的跨部门支持生态对微观实践的结构塑造。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 144–145)]]
+
+### 一线实践形态：六大特征与两极对照
+
+在澳大利亚莫纳什 Q 项目覆盖 4 州的大规模实证调查中，一线教育者通过质性访谈与问卷自陈，生动具象化了高质量使用与劣质使用的两极形态。
 
 > [!contrast-table] 表1：教育者视阈下高质量研究使用与劣质研究使用的质性引述对照（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, Table 9.1, pp. 190–191]]）
 > | 实践分析维度 | 高质量研究使用引述（Quality research use quotes） | 劣质研究使用引述（Poor research use quotes） |
@@ -171,6 +170,8 @@ updated: 2026-09-17
 > | **使用者心智倾向**<br>（The user's mindset） | “保持开放心态而不带偏见，但在检索、研读和研讨研究时依然抱持明确聚焦与审视视角。这意味着绝不草率急切地赞同或否定证据。”<br>——*公立小学高级领导者，Survey 1 问卷* | “教师仅仅去寻找那些符合自身既有偏好与信念的研究，陷入一种毫无学习与成长空间的僵化封闭心智状态。”<br>——*公立中学教育支持教辅人员，Survey 1 问卷* |
 > | **学校领导行为**<br>（The school leadership） | “领导者与一线教师紧密协作搜集研究，以协助设计符合学校整体愿景的制度与支持架构。”<br>——*公立小学普通教师，Survey 1 问卷* | “某个掌权者头脑发热（gets a bee in their bonnet），突发奇想搞出一个新研究点子，在完全缺乏师生所有权与实质互动的情况下，强行塞给全校师生。”<br>——*公立中学普通教师，Survey 1 问卷* |
 > | **实践终端成效**<br>（The outcomes） | “切实减轻教师与学生双方的压力与无谓负担。”<br>——*独立私立综合学校（P-12）普通教师，Survey 1 问卷* | “导致教职员工心生怨气、学生学业停滞不前，以及学校弥漫自满懈怠情绪。”<br>——*公立特殊教育学校普通教师，Survey 1 问卷* |
+
+基于一线教育者的共识，莫纳什 Q 项目团队将高质量研究证据使用的实践形态提炼为六项核心特征，构成了学校反思与自我诊断的质态基准。
 
 > [!feature] 高质量研究使用的六大实践特征（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, Table 9.2, pp. 190–191]]）
 > - **目标明确（Purposeful）** 使用意图与实践行为高度聚焦，拥有清晰透明的推进逻辑，深受教学情境与学生特质塑造。
@@ -181,6 +182,8 @@ updated: 2026-09-17
 > - **好奇心驱动（Curiosity-driven）** 具备以探究为导向的[[Growth|成长]]型心智，敢于质疑既有惯例，对学术新知保持求索渴望。
 
 ### 宏观与中观政策操作化矩阵
+
+为了将 QURE 框架应用于跨国教育治理与全系统生态诊断，[[OECD|经合组织]]（OECD）研究团队将其核心层级[[Operationalization|操作化]]为可测量的一阶构件与实证指标体系。
 
 > [!framework-table] QURE 框架的宏观与中观政策[[Operationalization|操作化]]矩阵（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022, p. 76]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 24]]）
 > | QURE 理论层级 | [[OECD]] 对应维度 | 核心操作化[[Construct\|构念]]与测量指标（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]） | 跨国实证典型发现 |
