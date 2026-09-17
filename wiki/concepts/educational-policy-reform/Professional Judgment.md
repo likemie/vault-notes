@@ -78,7 +78,7 @@ related_instruments:
 confidence: high
 status: draft
 created: "2026-05-03"
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Professional Judgment
@@ -87,19 +87,13 @@ updated: 2026-09-17
 
 ## 定义
 
-专业判断确立了教育者在证据利用中的能动审议地位，是抵御技术官僚主义去技能化的核心支柱。
-
 > [!def] 核心定义
 > 专业判断（Professional Judgment）指教师与教育决策者在开放、复杂的教育情境中，基于专业知识、伦理价值、教学法原则与情境洞察，权衡多元信息并做出审慎决策的核心能力。在[[Evidence-Informed Practice|证据知情实践]]（EIP）与[[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（QURE）中，专业判断是多源证据整合的[[Epistemology|认识论]]枢纽：研究证据是开放系统中的概率性资源，旨在补充并赋能专业知识而非替代专业智慧；成为证据知情需要严谨证据与严谨专业判断过程辩证共生。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129, 132)]]; [[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 139–141)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
-
-从认知工具与边界来看，专业判断将[[Research Utilization|证据使用]]界定为具有情境敏感性的[[Reflexivity|反思性]]实践。
 
 > [!concept-lens] 概念透镜
 > - **含义** 专业判断指向教育者在不确定性、复杂互动与价值多元情境下的[[Reflexivity|反思性]]决策机制，是连接外部科学规律与特定教学现场的解释性桥梁。
 > - **用途** 防范将教学扁平化为机械套用证据或单纯执行数据指标的技术工人操作，捍卫教师的专业自主能动性与价值审议权。
 > - **边界** 区别于对外部证据的技术性依从，也区别于孤立凭经验直觉主观行事；它要求将内生经验与外部科学证据、伦理规范进行理性整合。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 123)]]
-
-权威[[Document|文献]]从价值审议与认识论共生视角，深刻揭示了专业判断的核心特质。
 
 > [!citation-card] 严谨证据与严谨判断并存
 > “成为证据知情的过程，既需要严谨的证据，也需要严谨的专业判断过程。”（Campbell, 2016，引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 132]]）
@@ -116,8 +110,6 @@ updated: 2026-09-17
 >
 > *"Educational practice is not a purely technical operation; it is intrinsically about values, ethics and long-term purposes. Questions about 'what works' must always be subordinate to professional deliberation on 'to what ends'."*
 
-为防止专业判断滑向主观任意性，需严格界定其内涵边界与实践前提。
-
 > [!boundary]- 概念边界
 > - 区别于技术化执行（Technocratic Implementation）：技术化执行将研究结论视作刚性操作手册，排斥教师的能动调整；专业判断视情境调试（Adaptation）为教学成功的内在[[Necessary and Sufficient Conditions|必要条件]]。
 > - 区别于个人浪漫化直觉或封闭经验：缺乏客观证据约束的判断易退化为主观偏见或[[Empiricism|经验主义]]停滞；专业判断要求在多元证据与伦理标准的约束下展开反思性审议。
@@ -126,8 +118,6 @@ updated: 2026-09-17
 ---
 
 ## 概念辨析
-
-专业判断在[[Epistemology|认识论]]预设、行动者定位与系统假定上，同流水线式技术执行与浪漫化主观直觉存在鲜明张力。
 
 > [!contrast-table] 概念辨析
 > | 比较维度 | 专业判断（Professional Judgment） | 技术化执行（Technocratic Implementation） | 个人浪漫化直觉（Romanticized Intuition） |
@@ -138,8 +128,6 @@ updated: 2026-09-17
 > | **系统与情境[[Hypothesis\|假设]]** | 学校是开放、复杂、充满主体互动与不确定性的系统 | 学校是封闭、线性、可精确控制的机械系统 | 课堂是个体封闭领地，情境差异不可通约 |
 > | **决策检验标准** | 实践反思循环与定性定量证据的[[Triangulation\|三角验证]] | 外部考核指标达成度与方案依从度（Fidelity） | 自我感觉良好与无冲突维持 |
 
-在治理实践中，专业判断构成了自律审议抵抗他律数字管制的关键杠杆。
-
 > [!term] 核心辨析点
 > - **专业判断与技术官僚问责** 前者强调基于专业资本的自律审议，后者依赖基于量化排行的他律问责。
 > - **专业判断在 [[Evidence-Informed Practice|EIP]] 中的位置** EIP 将专业判断置于决策的核心枢纽位置，统筹研究证据、系统层面数据与课堂数据，拒绝单维主导。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 129)]]
@@ -148,15 +136,11 @@ updated: 2026-09-17
 
 ## 核心要素
 
-专业判断内含认知、方法、伦理与反思四大维度的动态融通，构筑起实践者深层的专业资本。
-
 > [!feature] 专业判断的核心构成维度
 > - **认知与知识维度（Knowing Dimension）** 实践由研究知识提供信息。教师主动获取、理解并批判性评估相关的概率性研究证据，将其作为决策的重要外生知识源。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]
 > - **方法与执行维度（Doing Dimension）** 基于教育学方法论的明确实践。教师熟练运用教育学原理与教学策略，结合本土学情将外部科研结论能动转化为具体微观教学设计（Spencer et al., 2012）。
 > - **伦理与价值维度（Helping / Ethical Dimension）** 基于伦理标准与全人发展的实践。专业人员在决策时始终关照学生作为人的发展（[[Bildung]]）与公平正义，而非单维追求测试分数。
 > - **反思实践循环（Reflective Practice Dimension）** 涵盖行动中反思（Reflection-in-Action）与行动后反思（Reflection-on-Action），将上述三个维度在具体教学互动与同伴协作中动态统合。
-
-在微观决策中，专业判断承担着整合实践经验、外生学术研究与现场客观数据的多源枢纽功能（Nelson & Campbell, 2019; [[Argument_Rickinson_2022_ER|Rickinson et al., 2022a]]）。
 
 > [!dual-header] 专业判断在三维证据基础（Tripartite Evidence Base）中的整合功能
 > | 整合数据源 | 专业判断在整合中的具体功能 | 缺乏专业判断时的异化风险 |
@@ -164,8 +148,6 @@ updated: 2026-09-17
 > | **基于实践的证据**<br>（Practice-based Evidence） | 唤醒与反思教师的默会实践知识、个案经验与情境敏感度，确立育人审议的主体立场。 | 退化为因循守旧的封闭[[Empiricism\|经验主义]]或个人主观盲从。 |
 > | **基于研究的证据**<br>（Research-based Evidence） | [[Evaluation Research\|评估研究]]在特定班级与情境中的适切性，完成从概率规律到具体策略的本土[[Transfer Translation Transformation\|转译]]。 | 陷入教条化照搬，导致教学水土不服与技术官僚依赖。 |
 > | **基于数据的证据**<br>（Data-based Evidence） | 批判性解读系统指标与课堂微观学情，开展形成性观察与定性定量[[Triangulation\|三角验证]]。 | 被终结性量化分数与考核排行榜绑架，诱发应试[[Disciplina and Doctrina\|规训]]。 |
-
-多元证据的协同处理在学校日常改进中体现为兼顾价值、效力与负担的审议过程。
 
 > [!exegesis]- 实践理解与应用示例
 > 1. **课堂[[Teaching Assistant|教学助理]]（TA）配置决策** 面对外部工具包中教学助理低[[Effect Size|效应量]]的粗糙评级，具有专业判断力的学校管理者深入分析其低效源于缺乏备课沟通与协同规划，进而通过重组 TA 培训与备课时间表，将 TA 转化为提升弱势学生学业与心理支持的关键支柱。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]

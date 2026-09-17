@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Implementation and Process Evaluation
@@ -98,22 +98,16 @@ updated: 2026-09-17
 > [!def] 方法定义
 > **实施与过程评估（Implementation and Process Evaluation，IPE）**，亦称**过程评估**，是指在教育干预、公共卫生及社会政策的成效检验中，与量化结果评估（如 [[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT））并行实施的一种复杂[[Mixed Methods Evaluation Design|混合方法评估设计]]。该方法通过系统收集质性与量化多源数据，深入追踪干预在现场的递送质量、保真度、参与者依从性、对照组常态活动以及情境与因果机制的中介作用，旨在打开干预成效的黑箱，准确解释干预项目为何有效、为何无效或在何种情境下有效([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]])。在复杂教育生态与[[Research Utilization|证据使用]]评估视域下，IPE 进一步拓展为对证据落地全流程、专业审议深度与组织使能条件的形成性诊断机制（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a, p. 145]]）。
 
-为清晰把握实施与过程评估的研究视域与操作边界，需界定其对象、问题类型与[[Unit of Analysis|分析单位]]。
-
 > [!method-scope] 方法范围
 > - **研究对象** 现场试验中的复杂干预方案、教师与管理者培训过程、课堂实施行为、对照组[[Business as Usual|常态教学]]活动、参与者互动及制度情境。
 > - **问题类型** 回答机制解释、实施质量判定、因果链条验证及情境调节问题——区分成效不显著究竟源于干预本身的理论失效（genuine ineffectiveness）还是现场实施的执行失败（implementation failure）。
 > - **[[Unit of Analysis|分析单位]]** 课堂、学校、项目递送团队、教师个体、学生群体及区域教育生态。
 > - **输出形式** [[Implementation Fidelity|实施保真度]]量化指标、依从性依从度估计、因果路径模型、机制叙事解释、实施障碍与促进因素矩阵。
 
-在医学与循证社会干预评估的经典指引中，权威机构系统奠定了过程评估的[[Epistemology|认识论]]依据。
-
 > [!citation-card] 英国医学研究理事会论复杂干预的过程评估
 > 复杂干预评估必须对干预如何引发改变具备扎实的理论理解；干预未呈现出预期成效，往往可能反映的是现场实施失败（或磨合期阵痛），而非干预策略本身的根本无效。[[Argument_Edovald_Nevill_2021_ECNUROE|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53)]]
 >
 > *A good theoretical understanding is needed of how the intervention causes change... lack of effect may reflect implementation failure (or teething problems) rather than genuine ineffectiveness.*
-
-在证据生态与高质量证据使用视域下，学者进一步将过程评估拓展为审视实践落地与[[Organizational Culture|组织文化]]的诊断框架。
 
 > [!citation-card] Rickinson et al. 论证据使用质量的过程评估与形成性诊断
 > 高质量研究证据使用的评估不能仅停留在下游学生学习结果的孤立产出端，而必须聚焦证据在复杂系统中的落地过程。通过实施与过程评估（IPE），系统追踪学校组织文化、专业审议过程与使能构件的动态互动，才能精准诊断证据落地中的结构性瓶颈，推动循证实践从静态合规走向深层组织探究。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 145)]]
@@ -124,15 +118,11 @@ updated: 2026-09-17
 
 ## 方法定位
 
-实施与过程评估融合了实在论解释取向与[[Mixed Methods Research|混合方法]]设计[[Paradigm|范式]]。
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 采取[[Realist Evaluation|实在论评估]]（Realist Evaluation）或[[Pragmatic Paradigm|实用主义]]取向，认为因果效应不是简单的输入-输出机械对应，而是由干预机制在特定情境下的触发所决定的产物（情境-机制-结果（Context-Mechanism-Outcome，CMO）构型）。
 > - **研究者角色** 评估者既是量化数据的客观统计分析者，又是深入课堂微观现场的[[Qualitative Observation|质性观察]]者与访谈者，需要在保持独立性的同时敏锐捕捉现场变异。
 > - **有效性标准** 追求内部因果解释力（机制解释的充分性）与[[Ecological Validity|生态效度]]的统一，强调数据来源的[[Triangulation|三角互证]]与方案预先规范化。
 > - **不声称回答的问题** 单纯的 IPE 质性材料不能替代控制组量化实验来独立判定净因果[[Effect Size|效应量]]的大小，必须与严格的因果设计（[[Randomised Controlled Trials|RCT]] / [[Quasi-Experimental Designs|准实验设计]]（Quasi-Experimental Designs，QED））嵌套结合。
-
-在具体执行中，实施与过程评估依托严密的混合方法栈与规范指南展开。
 
 > [!method-stack] 整合设计
 > - **设计类型** 嵌套于实验或准实验中的嵌入式[[Mixed Methods Research|混合方法]]设计（Embedded Mixed Methods Design）。
@@ -143,8 +133,6 @@ updated: 2026-09-17
 ---
 
 ## 研究程序
-
-在干预全生命周期中，实施与过程评估遵循严谨的四阶段操作序列。
 
 > [!proc] 实施与过程评估（IPE）的四阶段标准操作规程
 > 1. **阶段一：前期[[Logic Model|逻辑模型]]与核心活性成分界定（Pre-Trial Specification）**
@@ -165,8 +153,6 @@ updated: 2026-09-17
 
 ## 核心评估维度与操作框架
 
-学界与主流循证机构将实施与过程评估凝练为六大核心维度的系统框架。
-
 > [!framework-table] 实施与过程评估（IPE）的核心维度框架（基于 Humphrey et al., 2016 与 EEF, 2019b）
 > | 评估维度 | 核心核查内容 | 典型收集工具与数据形式 |
 > |---|---|---|
@@ -181,8 +167,6 @@ updated: 2026-09-17
 
 ## 适用场景
 
-评估者需依据干预复杂度、研究阶段与现场资源，理性研判实施与过程评估的适配性。
-
 > [!method-fit] 适用判断
 > - **适合使用** 涉及人际多层级复杂互动、[[Organizational Culture|组织文化]]变革或教师教学法重构的教育与社会政策试验；需要同时回答干预在何种情境下有效以及如何发挥作用（Why and How）的重大政策决策评估；具有大规模推广意向并需建立标准化操作规范的项目（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）；以及旨在提升全校[[Research Utilization|证据使用]]素养与优化[[Evidence Ecosystem|证据生态系统]]的深层形成性诊断（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a, p. 145]]）。
 > - **谨慎使用** 试验周期极短、[[Sample Size Determination|样本量]]极小且缺乏理论准备的探索性微型干预；学校行政与教学压力极其沉重、受试者面临高度评估疲劳与高[[Attrition|流失]]风险的紧张[[Champ|场域]]。
@@ -191,8 +175,6 @@ updated: 2026-09-17
 ---
 
 ## 局限性
-
-在真实教育田野中运用该方法，必须前瞻性应对一系列方法学与实操挑战。
 
 > [!method-limits] 方法局限与应对策略
 > - **受试者调研负担沉重** 在收集主学业测验数据之外增加高频度深入访谈、课堂观察与[[Questionnaire|问卷]]，极易引发基层教师抵触情绪，甚至加剧试验[[Attrition|样本流失]]。需通过优化工具设计、整合常规行政数据与无感痕迹监测减轻负担。
@@ -203,8 +185,6 @@ updated: 2026-09-17
 ---
 
 ## 相关理论与方法
-
-实施与过程评估深植于实在论科学哲学，并与多元[[Causality|因果推断]]与生态框架形成密切互补。
 
 > [!entry-map] 实施与过程评估的相关理论与方法网络
 > | 条目 | 类型 | 关系 |
@@ -221,8 +201,6 @@ updated: 2026-09-17
 ---
 
 ## 使用此方法的研究
-
-实施与过程评估在当代[[Evidence-Based Education|循证教育]]试验与系统性变革评估中得到了深入实践与方法论拓展。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 系统回顾了英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）在 [[Randomised Controlled Trials|RCT]] 中引入并规范化实施与过程评估（IPE）的方法学历程。指出早期试验因缺乏 IPE 陷入无法解释因果机制与实施细节的困境（当时全英仅 38% 教育试验包含过程评估）；进而通过委托曼彻斯特大学综述并发布 IPE 评估指南（EEF, 2019b），确立了理论检验、影响与 IPE 整合、依从性预先测量及 [[TIDieR]] 规程等行业标准规范。
