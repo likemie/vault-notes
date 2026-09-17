@@ -5,6 +5,26 @@
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
     },
     {
+      "basename": "Implementation and Process Evaluation",
+      "path": "wiki/methods/mixed/Implementation and Process Evaluation.md"
+    },
+    {
+      "basename": "Reflexivity",
+      "path": "wiki/concepts/research-methodology/Reflexivity.md"
+    },
+    {
+      "basename": "Internal Validity",
+      "path": "wiki/concepts/research-methodology/Internal Validity.md"
+    },
+    {
+      "basename": "Monash Q Project",
+      "path": "wiki/facts/australia/Monash Q Project.md"
+    },
+    {
+      "basename": "Knowledge Transfer",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Transfer.md"
+    },
+    {
       "basename": "Fitness for Purpose",
       "path": "wiki/concepts/research-methodology/Fitness for Purpose.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Argument_Pavitt_1984_RP",
       "path": "wiki/arguments/journal-articles/Research Policy/Argument_Pavitt_1984_RP.md"
-    },
-    {
-      "basename": "What Works Clearinghouse",
-      "path": "wiki/facts/us/What Works Clearinghouse.md"
-    },
-    {
-      "basename": "Title I of the Elementary and Secondary Education Act",
-      "path": "wiki/facts/us/Title I of the Elementary and Secondary Education Act.md"
-    },
-    {
-      "basename": "Experimental Research",
-      "path": "wiki/methods/quantitative/Experimental Research.md"
-    },
-    {
-      "basename": "Professional Learning Community",
-      "path": "wiki/concepts/teacher-education/Professional Learning Community.md"
-    },
-    {
-      "basename": "Quasi-Experimental Designs",
-      "path": "wiki/methods/quantitative/Quasi-Experimental Designs.md"
     }
   ],
   "omittedPaths": [],

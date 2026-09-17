@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 57
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -221,7 +221,7 @@ updated: 2026-09-17
 > **教师教育政策中的[[Epistemological Break|认识论断裂]]与守门把关** 在当代[[Evidence Era|证据时代]]，技术理性演化为一种主导性的[[Rationalized Myth|合理化神话]]。政府部门在推行教师教育改革时，假定实验室与随机试验中的教学规程可以无损、线性地[[Transfer Translation Transformation|转译]]为一线通用标准，在实践中导致了严重的认识论断裂；更为深层的是，技术理性被官方充当守门工具，通过[[Carter Review of Initial Teacher Training|卡特审查]]等程序定向筛选符合执政偏好的证据，使技术治理实质上沦为[[Policy-Based Evidence-Making|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 91–96)]]
 
 > [!claim] [[Argument_Serpell_2020_EP|Serpell (2020)]] / Raudenbush (2015)
-> **规制型政策进路的技术理性幻觉与组织权威瓦解悖论** 塞佩尔（Serpell, 2020）剖析了美国联邦教育治理中规制型进路（Regulatory Approach）所秉持的技术理性本质。政策制定者企图将基于科学的研究与单一黄金标准（RCT）作为配置财政与设立问责的机械门槛（如 [[No Child Left Behind Act 2001|NCLB]]），设定自上而下的惩戒性控制。斯蒂芬·劳登布什（Stephen Raudenbush, 2015）尖锐揭示了这一手段-目的因果[[Hypothesis|假设]]的荒谬性：孤立因果研究所给出的技术性答案无法直接指导宏观治理实践；若依据[[Learning Gain|增值评价]]（Value-Added Measures）技术指标直接授权上级解雇教师，实质上直接摧毁了校长在学校组织中的治理权威。当技术理性把复杂的教育生态还原为孤立因果链条时，不仅无法消除系统不确定性，反倒破坏了教育组织的内在生态平衡并诱发广泛的应试舞弊。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
+> **规制型政策进路的技术理性幻觉与组织权威瓦解悖论** 塞佩尔（[[Argument_Serpell_2020_EP|Serpell, 2020]]）剖析了美国联邦教育治理中规制型进路（Regulatory Approach）所秉持的技术理性本质。政策制定者企图将基于科学的研究与单一黄金标准（RCT）作为配置财政与设立问责的机械门槛（如 [[No Child Left Behind Act 2001|NCLB]]），设定自上而下的惩戒性控制。斯蒂芬·劳登布什（Stephen Raudenbush, 2015）尖锐揭示了这一手段-目的因果[[Hypothesis|假设]]的荒谬性：孤立因果研究所给出的技术性答案无法直接指导宏观治理实践；若依据[[Learning Gain|增值评价]]（Value-Added Measures）技术指标直接授权上级解雇教师，实质上直接摧毁了校长在学校组织中的治理权威。当技术理性把复杂的教育生态还原为孤立因果链条时，不仅无法消除系统不确定性，反倒破坏了教育组织的内在生态平衡并诱发广泛的应试舞弊。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
 
 ---
 

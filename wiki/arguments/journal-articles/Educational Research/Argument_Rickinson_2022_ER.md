@@ -290,10 +290,10 @@ issuing_organization: ""
 > |---|---|---|---|
 > | **适切研究证据（Appropriate Evidence）**<br>（双核心构件） | **用什么（What）**<br>证据质量与情境适配 | 强调证据质量的情境特异性。从使用视角出发，优质研究不仅需具备方法学严谨性，更须契合具体的教育问题、学校现场情境与预期实践用途，兼顾[[Internal Validity\|内部效度]]与实践适用。 | Nutley et al. (2013)<br>Nelson et al. (2017) |
 > | **审慎参与和实施（Thoughtful Engagement）**<br>（双核心构件） | **怎么用（How）**<br>认知诠释与实践融通 | 摒弃“证据自行发声”迷思，实践者能动地研读与批判研究证据、在教研共同体中深度审议，并将其有机融通于日常教学改进与专业决策实践中。 | Coburn et al. (2009)<br>Sharples (2013) |
-> | **技能集（Skillsets）**<br>（个体使能构件） | **能否用（Can）**<br>专业知识与实践能力 | 实践者获取前沿学术资源、鉴别[[Evaluation Research\|评价研究]]质量与效力边界、理解科研方法，以及结合本土学情与教学经验将[[Research Translation\|研究转化]]为具体行动方案的[[Phronesis\|实践智慧]]。 | BERA (2014)<br>Earl (2015) |
-> | **心智倾向（Mindsets）**<br>（个体使能构件） | **愿否用（Will）**<br>专业品格与价值信念 | 抱持探究好奇心（questioning mind）与主动求索动机，自觉觉察并批判反思自身的经验前设与认知偏见，坚信研究能赋能自我专业[[Growth\|成长]]并实质改善教学。 | Earl & Timperley (2009)<br>Stoll et al. (2018) |
-> | **人际关系（Relationships）**<br>（个体使能构件） | **与谁用（With whom）**<br>社交学习与互信网络 | 依托校内同行互信展开深层集体探究与反思，并将专业联结延伸至跨校同行、大学科研团队及专业中介机构，构建多边伙伴关系与协作机制。 | Bryk et al. (2011)<br>Finnigan & Daly (2014) |
-> | **领导力（Leadership）**<br>（组织使能构件） | **谁引领（Who leads）**<br>组织愿景与榜样示范 | 校级管理层将研究使用确立为全校发展愿景，通过自身言行、课堂转化与教学反思躬身示范循证实践，并搭建分布式领导架构以赋能一线教研。 | Coldwell et al. (2017)<br>[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] |
+> | **技能集（Skillsets）**<br>（个体使能构件） | **能否用（Can）**<br>专业知识与实践能力 | 实践者获取前沿学术资源、鉴别[[Evaluation Research|评价研究]]质量与效力边界、理解科研方法，以及结合本土学情与教学经验将[[Research Translation|研究转化]]为具体行动方案的[[Phronesis|实践智慧]]。 | BERA (2014)<br>Earl (2015) |
+> | **心智倾向（Mindsets）**<br>（个体使能构件） | **愿否用（Will）**<br>专业品格与价值信念 | 抱持探究好奇心（questioning mind）与主动求索动机，自觉觉察并批判反思自身的经验前设与认知偏见，坚信研究能促进自我专业[[Growth\|成长]]并实质改善教学。 | Earl & Timperley (2009)<br>Stoll et al. (2018) |
+> | **人际关系（Relationships）**<br>（个体使能构件） | **与谁用（With whom）**<br>同行互信与社会化学习 | 依托专业学习共同体（PLC）与同侪互信氛围开展坦诚交流，将循证打造成去中心化、跨界协作的集体学习实践，抵御孤军奋战。 | Finnigan & Daly (2014)<br>Bryk et al. (2011) |
+> | **领导力（Leadership）**<br>（组织使能构件） | **谁引领（Who leads）**<br>组织愿景与榜样示范 | 校级管理层将研究使用确立为全校发展愿景，通过自身言行、课堂转化与教学反思躬身示范循证实践，并搭建分布式领导架构以支持一线教研。 | Coldwell et al. (2017)<br>[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] |
 > | **[[Organizational Culture\|组织文化（Culture）]]**<br>（组织使能构件） | **何种氛围（Atmosphere）**<br>组织风气与价值规范 | 将循证探究内化为全校办学风气与共同规范，制度化写入学校章程，营造倡导日常批判反思、勇于承担风险并包容创新试错的心理安全环境。 | Handscomb & MacBeath (2003)<br>[[Argument_Brown_2017_ER\|Brown et al. (2017)]] |
 > | **基础架构（Infrastructure）**<br>（组织使能构件） | **何种保障（Support）**<br>制度资源与日常规程 | 在学校排程中制度化刚性保障专有研讨工时与物理空间，设立专项预算，配置校本研究协调员（Research Champions）岗位并规范化循证决策规程。 | Godfrey (2019)<br>Nelson & Campbell (2019) |
 > | **系统级影响（System Influences）**<br>（宏观生态环境） | **何种生态（Ecology）**<br>制度环境与跨层动态 | 超越单一学校的宏观教育生态，涵盖政府绩效问责规程、学区优先施政议程、跨部门中介支持与专项资助，以及基于过程自我监控的持续评估反馈机制。 | EEF (2019)<br>Farley-Ripple et al. (2018) |
