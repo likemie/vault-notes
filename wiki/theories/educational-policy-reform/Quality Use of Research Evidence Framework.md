@@ -11,7 +11,7 @@ aliases:
 summary: "由澳大利亚莫纳什大学 Q 项目提出的研究使用理论框架，将质量使用界定为对适切研究证据的审慎参与与实施，受个体、组织与系统多层使能构件协同支持，提炼出六大实践特征并广泛应用于学校实践与跨国政策生态诊断"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 62
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -96,7 +96,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Quality Use of Research Evidence Framework

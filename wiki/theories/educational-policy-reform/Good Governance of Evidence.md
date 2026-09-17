@@ -7,10 +7,10 @@ aliases:
 summary: "由 Justin Parkhurst（2017）提出的公共政策与教育治理理论，主张超越技术理性对证据‘何者有效’的工具主义迷思，确立证据利用在程序正当性、透明度、多元代表性与可争辩性维度的治理规范，使科学证据与民主价值审议达成有效平衡。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 11
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 27
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-policy-reform
   - theme/evidence-based-policy
@@ -100,7 +100,7 @@ updated: 2026-09-18
 > - **推导** 试图将循证决策还原为纯粹的实证有效性指标，实质是将特定群体的规范立场隐藏于技术官僚的专业话语之下；唯有承认政策过程的政治属性，才能建立正当的证据治理规则。
 
 > [!proposition-chain] 核心命题二｜评价[[Research Utilization|证据使用]]质量的核心基准在于决策过程的程序正当性、透明度与可争辩性，而非单一的下游既定成效
-> - **前提一** 下游成效指标易受宏观经济、社会阶层变迁与偶发环境因素的扰动，单一以结果问责极易诱发被考核者的指标合谋与象征性应对。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 140)]]
+> - **前提一** 下游成效指标易受宏观经济、社会阶层变迁与偶发环境因素的扰动，单一以结果问责极易诱发被考核者的指标合谋与象征性应对。
 >   > [!evidence-grid]- 证据
 >   > - **跨领域综述证据** 英国与澳大利亚在公共卫生与教育领域的综述表明，过度依赖下游结果审计促使机构选择性汇报有利于自身的数据，损害了全系统的信任机制。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 140)]]
 > - **前提二** 健全的治理框架要求决策主体公开证据采纳逻辑，允许相左的研究结论与一线实践者的反向证据进入审议渠道。

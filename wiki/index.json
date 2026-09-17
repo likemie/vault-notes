@@ -4673,6 +4673,17 @@
     ]
   },
   {
+    "title": "Working Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Working Knowledge.md",
+    "aliases": [
+      "实践运作知识",
+      "工作知识",
+      "行政工作知识",
+      "working knowledge concept"
+    ]
+  },
+  {
     "title": "Absolute Knowing",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Absolute Knowing.md",
@@ -13340,6 +13351,18 @@
     ]
   },
   {
+    "title": "Expert Interview",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Expert Interview.md",
+    "aliases": [
+      "专家访谈",
+      "专家访谈法",
+      "expert interviewing",
+      "expert interviews",
+      "Experteninterview"
+    ]
+  },
+  {
     "title": "External Auditor",
     "type": "method",
     "path": "wiki/methods/qualitative/External Auditor.md",
@@ -20407,6 +20430,18 @@
     ]
   },
   {
+    "title": "Standing Conference of the Ministers of Education and Cultural Affairs",
+    "type": "fact",
+    "path": "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md",
+    "aliases": [
+      "德国各州教育与文化部长常设会议",
+      "常设各州教育与文化部长会议",
+      "州文化部长会议",
+      "Kultusministerkonferenz",
+      "KMK"
+    ]
+  },
+  {
     "title": "Fraunhofer Society Model",
     "type": "fact",
     "path": "wiki/facts/germany/Fraunhofer Society Model.md",
@@ -25367,6 +25402,11 @@
     "title": "Argument_Schulte_2009_EncuentrosEducacion",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md"
+  },
+  {
+    "title": "Argument_Dedering_2009_EERJ",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
   },
   {
     "title": "Argument_Møller_2017_EERJ",

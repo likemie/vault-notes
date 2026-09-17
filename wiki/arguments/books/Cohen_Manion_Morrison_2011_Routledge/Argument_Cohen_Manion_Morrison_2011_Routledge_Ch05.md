@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -90,7 +90,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-18
-updated: '2026-08-27'
+updated: '2026-09-18'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05
 
@@ -743,7 +743,7 @@ Kelly (1989a) 指出，质性研究中伦理触角需要特别敏感的领域是
 > 匿名的本质是参与者提供的信息绝不应以任何方式揭示其身份（pp.100–101）。当研究者或任何其他人无法从所提供的信息中识别参与者时，该参与者即被视为匿名的。例如，一份只包含编号而不包含姓名的问卷。当这种情况成立时，无论信息多么个人化或敏感，参与者的隐私都得到保证。
 
 > [!contrast-table] 匿名 vs 保密
-> | 维度 | 匿名 | [[Confidentiality in Research\|保密]] |
+> | 维度 | 匿名 | [[Confidentiality\|保密]] |
 > |---|---|---|
 > | 研究者知道参与者身份吗？ | 不 | 是，但承诺不公开 |
 > | 信息能追溯到个人吗？ | 绝对不能 | 可以，但被保护 |
@@ -1251,7 +1251,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > [!citation-card]- Wax 对知情同意的批评
 > Wax (1982, p. 44) 认为知情同意"既太多又太少"：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中"过度谨慎且具有破坏性"，但[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西："信任、参与者的积极协助和同事关系"。知情同意不是"一锤子买卖"，在质性的、涌现性的研究中必须持续协商。（pp.83–84）
 >
-> Wax (1982, p. 44) holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
+> Wax holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
 
 > [!citation-card]- debriefing 的核心（Aronson & Carlsmith）
 > "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题……如果以严厉的方式呈现，真相可能比完全没有解释更有害。""没有任何量的实验后温和对待能像实验者对自己在情境中的不安的诚实说明那样有效缓解受试者的不适。"（p.113）

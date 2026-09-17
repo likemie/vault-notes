@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Qualitative Content Analysis
@@ -274,6 +274,7 @@ flowchart LR
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在专章中系统整合 Mayring 质性[[Content Analysis|内容分析]]的三大核心进路与形成性复核规程，确立其在教育研究[[Coding in Qualitative Research|编码]]与范畴构建中的基石地位（Ch. 30）。
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 遵循 Mayring 总结性质性内容分析技术，依托 MAXQDA 对德国 4 个联邦州教育部质保负责人的 12 场专家访谈文本建立层次编码系统，分析循证教育政策从象征性应对向常规化治理的机制演进（pp. 489–490）。
 
 ---
 

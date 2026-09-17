@@ -9,7 +9,7 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 75
+related_count: 76
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -105,7 +105,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Evidence Standards

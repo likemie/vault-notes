@@ -6,10 +6,10 @@ aliases:
 summary: "由 David A. Chambers、Russell E. Glasgow 与 Kurt C. Stange（2013）提出的实施科学与系统变革理论，彻底颠覆干预成效随时间衰减的传统‘电压降’假设，主张干预措施、实践现场与宏观生态系统三者处于持续的自适应调适、双向学习与动态拟合之中，以实现长效可持续性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 11
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-policy-reform
   - theme/implementation-science
@@ -71,10 +71,10 @@ updated: 2026-09-18
 > - **知识位置** 源自实施科学、系统论与健康服务研究；由戴维·钱伯斯（David A. Chambers）、拉塞尔·格拉斯哥（Russell E. Glasgow）与库尔特·斯坦格（Kurt C. Stange）于 2013 年在《Implementation Science》发表奠基论文，并由 Chambers & Norton（2016）进一步发展；后被 [[Mark Rickinson]] 等学者引入教育证据高质量使用研究，构成 [[Quality Use of Research Evidence Framework|QURE]] 框架中“适切调适（Appropriate Adaptation）”的核心理论支柱。
 
 > [!claim] 核心主张
-> 干预措施的可持续性不是被动维持初始实验方案的静态忠实度，而是干预措施、实践现场与更广泛宏观生态系统之间通过持续学习、[[Reflexivity|反思性]][[Problem Solving|问题解决]]与适切调适而达成“动态拟合”（Dynamic Fit）的演进过程。[[Argument_Rickinson_2022_ER|(Chambers et al., 2013; Rickinson et al., 2022, pp. 140, 143–144)]]
+> 干预措施的可持续性不是被动维持初始实验方案的静态忠实度，而是干预措施、实践现场与更广泛宏观生态系统之间通过持续学习、[[Reflexivity|反思性]][[Problem Solving|问题解决]]与适切调适而达成“动态拟合”（Dynamic Fit）的演进过程。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140, 143–144)]]
 
 > [!citation-card] 动态可持续性的系统观
-> 实施本质上是一个动态的、跨系统的双向适应过程；干预措施、实践组织与生态环境都在持续演化，长效可持续性要求各系统要素在持续学习与问题解决中不断优化拟合度。[[Argument_Rickinson_2022_ER|(Chambers & Norton, 2016; Rickinson et al., 2022, p. 140)]]
+> 实施本质上是一个动态的、跨系统的双向适应过程；干预措施、实践组织与生态环境都在持续演化，长效可持续性要求各系统要素在持续学习与问题解决中不断优化拟合度。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 140)]]
 >
 > *Sustainability is not a static endpoint of intervention maintenance, but an ongoing process of continuous learning, adaptation, and dynamic fit between the intervention, the practice setting, and the broader ecological system.*
 
@@ -97,14 +97,14 @@ updated: 2026-09-18
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜实践现场与外部系统处于持续变迁之中，静态复制固定干预方案必然导致系统不相容与成效衰减
-> - **前提一** 学校、社区与宏观政策环境并非静态实验温室，师资流动、生源构成变化、政策考核更迭均使实践情境具有高度动态性。[[Argument_Rickinson_2022_ER|(Chambers et al., 2013)]]
+> - **前提一** 学校、社区与宏观政策环境并非静态实验温室，师资流动、生源构成变化、政策考核更迭均使实践情境具有高度动态性。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 140)]]
 > - **前提二** 传统实施观将干预措施视作封闭“标准化药丸”，要求实施者无条件执行固定规程，剥夺了基层专业人员的情境裁量权。
 > - **推导** 当外在环境改变而干预形态固化时，干预措施与组织日常生态必然发生摩擦排斥，最终沦为形式主义或被迫中止。
 
 > [!proposition-chain] 核心命题二｜长效可持续性依赖干预措施、组织环境与宏观系统三者之间的动态拟合与双向自适应
-> - **前提一** 高质量证据利用不是被动采纳，而是结合本土情境对干预方案展开“深思熟虑的参与和实施”。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022, pp. 143–144)]]
+> - **前提一** 高质量证据利用不是被动采纳，而是结合本土情境对干预方案展开“深思熟虑的参与和实施”。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 143–144)]]
 >   > [!evidence-grid]- 证据
->   > - **跨领域综述验证** 卫生保健与教育领域综述表明，获得长期维系且成效显著的变革，均允许实践者根据学生特征与学校资源调整干预载体，同时坚守关键教学机制。[[Argument_Rickinson_2022_ER|(Chambers & Norton, 2016; Rickinson et al., 2022, p. 140)]]
+>   > - **跨领域综述验证** 卫生保健与教育领域综述表明，获得长期维系且成效显著的变革，均允许实践者根据学生特征与学校资源调整干预载体，同时坚守关键教学机制。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 140)]]
 > - **前提二** 组织自身需建立反馈学习结构，促使实践现场的组织流程、教师协作文化向干预需求发生适配性演化。
 > - **推导** 可持续性是干预（Intervention）、组织（Practice Setting）与生态系统（Ecological System）相互学习、双向塑造的结果；适切调适增强了干预与本土情境的契合度，从而提升长期干预成效。
 
@@ -171,9 +171,8 @@ updated: 2026-09-18
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2013 — 框架创立** Chambers、Glasgow 与 Stange 发表奠基性论文，正式命名动态可持续性框架（DSF），直指传统“电压降”理论盲区。[[Argument_Rickinson_2022_ER|(Chambers et al., 2013)]]
-> - **2016 — 调适科学深化** Chambers 与 Norton 提出“调适组学”（Adaptome）概念，系统建构干预调适分类学与监测框架。[[Argument_Rickinson_2022_ER|(Chambers & Norton, 2016)]]
-> - **2022 — 教育质量使用整合** [[Mark Rickinson]] 等人将 DSF 整合为 [[Quality Use of Research Evidence Framework|QURE]] 框架的关键构件，确立了“适切调适”作为深思熟虑使用证据的核心评价维度。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022, pp. 140, 143–144)]]
+> - **2013–2016 — 框架创立与调适科学深化** Chambers 等人相继发表奠基论文并提出“调适组学”（Adaptome）概念，系统建构干预调适分类学与监测框架，直指传统“电压降”理论盲区。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 140)]]
+> - **2022 — 教育质量使用整合** [[Mark Rickinson]] 等人将 DSF 整合为 [[Quality Use of Research Evidence Framework|QURE]] 框架的关键构件，确立了“适切调适”作为深思熟虑使用证据的核心评价维度。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140, 143–144)]]
 
 ---
 
@@ -191,14 +190,14 @@ updated: 2026-09-18
 > > 过度鼓励情境调适可能导致不同实施现场产出高度分化的干预版本，增加多中心综合评价与统计[[Meta-analysis|元分析]]的难度。
 > >
 > > - **定量评价研究者（2018）** 担忧[[Heterogeneity|异质性]]剧增削弱因果结论的外在效度。
-> > - **Rickinson 等人（2022）** 强调教育实践以解决本土实际问题为第一要义，评估[[Paradigm|范式]]应当适应情境复杂性。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022, p. 144)]]
+> > - **Rickinson 等人（2022）** 强调教育实践以解决本土实际问题为第一要义，评估[[Paradigm|范式]]应当适应情境复杂性。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 144)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Rickinson_2022_ER]] — 指出在教育领域推行 DSF 需同步建设教师的[[Research Literacy|研究素养]]与[[Reflexivity|反思性]][[Organizational Culture|组织文化]]，否则易滑入形式主义调适。
+> - [[Argument_Rickinson_2022_ER|Rickinson et al., 2022a]] — 指出在教育领域推行 DSF 需同步建设教师的[[Research Literacy|研究素养]]与[[Reflexivity|反思性]][[Organizational Culture|组织文化]]，否则易滑入形式主义调适。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rickinson_2022_ER]] — 采纳 DSF 构建 [[Quality Use of Research Evidence Framework|QURE]] 框架中“深思熟虑参与及适切调适”构件的核心理论基础。
+> - [[Argument_Rickinson_2022_ER|Rickinson et al., 2022a]] — 采纳 DSF 构建 [[Quality Use of Research Evidence Framework|QURE]] 框架中“深思熟虑参与及适切调适”构件的核心理论基础。

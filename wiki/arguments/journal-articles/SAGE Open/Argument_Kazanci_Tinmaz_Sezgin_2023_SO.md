@@ -80,14 +80,14 @@ related_theories:
   - "[[Research Utilization Models]]"
 status: draft
 created: 2026-08-26
-updated: 2026-09-12
+updated: 2026-09-18
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"

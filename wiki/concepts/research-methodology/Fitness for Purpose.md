@@ -9,7 +9,7 @@ aliases:
 summary: "贯穿研究规划与循证治理的核心方法论与认识论原则；主张研究设计、方法选择、效应量解释与证据评价必须由具体的研究与实践目的决定，而非受制于研究者个人偏好或去情境化的单一证据等级制"
 type: concept
 domain: "research-methodology"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

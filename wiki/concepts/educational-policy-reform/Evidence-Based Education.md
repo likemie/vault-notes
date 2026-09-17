@@ -148,7 +148,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Evidence-Based Education
@@ -484,5 +484,13 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - [[Tomorrow's Schools Reforms]] — NZ 行政改革转向证据本位教学的转折
 > - [[Treasury Briefing on Student-Teacher Ratios]] — EBE 证据在政策论述中被误用的典型范例
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 系统记录 EBE/VL 在 NZ and AU 的政策采纳轨迹
+
+### 德国
+
+> [!case] 德国：从 PISA 震荡到国家教育监测总体战略
+> 德国自 1990 年代末经历教育政策的“经验转向”，在 PISA 震荡后由 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 确立涵盖跨国测评、国家标准测试与全州统一教育报告的监测基础设施。
+
+> [!evidence-grid-a] 德国案例索引
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 追踪德国四个联邦州教育部循证政策实践，揭示数据使用如何从 PISA 2000 初期的政治战术性与象征性合法化应对，逐步演进为具有假设检验、专业质保与弱势扶持特征的日常行政常规。
 
 ---

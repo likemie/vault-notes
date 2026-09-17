@@ -4,10 +4,10 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Document]]"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 # Literature Search
 

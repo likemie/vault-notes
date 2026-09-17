@@ -10,7 +10,7 @@ aliases:
 summary: "教师专业发展与循证教育中的核心概念，将教师对科研的参与区分为开展研究（Engagement in research，作为研究者进行行动研究与课题探究）与使用研究（Engagement with research，作为利用者研读学术文献并融入教学决策）两种互补模式；跨国实证调查进一步揭示出一线教师面临被局限为被动数据收集客体及外在制度激励全面缺位的深层结构性断层。"
 type: concept
 domain: "teacher-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Engagement in and with Research

@@ -7,9 +7,9 @@ summary: "由 Jennie Popay 等人（2006）系统化制定的系统综述证据�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 9
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/mixed
@@ -67,7 +67,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 方法定义
-> 叙事综合（Narrative Synthesis）是一种在[[Systematic Review|系统综述]]中主要依赖文字阐释与结构化叙事来综合多项研究发现的严谨方法，旨在通过系统、透明的文字描述与逻辑映射，整合包含不同设计、质性与量化混合及复杂干预机理的[[Heterogeneity|异质性]][[Document|文献]]证据，产出对干预机制、情境变异与实践影响的深层解释。[[Argument_Rickinson_2022_ER|(Popay et al., 2006; Rickinson et al., 2022, pp. 136–138)]]
+> 叙事综合（Narrative Synthesis）是一种在[[Systematic Review|系统综述]]中主要依赖文字阐释与结构化叙事来综合多项研究发现的严谨方法，旨在通过系统、透明的文字描述与逻辑映射，整合包含不同设计、质性与量化混合及复杂干预机理的[[Heterogeneity|异质性]][[Document|文献]]证据，产出对干预机制、情境变异与实践影响的深层解释。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 136–138)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 涵盖定量实验、质性个案、[[Mixed Methods Research|混合方法]]评估、政策文本、实施过程评价等高度异质性的多源研究文献与实证数据。
@@ -76,7 +76,7 @@ updated: 2026-09-18
 > - **输出形式** 概念框架图、跨[[Research Topic|研究主题]]矩阵、因果机制解释链、情境调适指南及系统性政策建议。
 
 > [!citation-card] 叙事综合的核心界定
-> 叙事综合是指在系统综述框架内，主要借助文字语言总结与解释多项研究发现的方法。它绝非主观随意的非结构化文献述评，而是遵循一套系统且透明的决策程序，用以阐明异[[Qualitative Research|质性研究]]之间的异同与作用机制。[[Argument_Rickinson_2022_ER|(Popay et al., 2006, p. 5)]]
+> 叙事综合是指在系统综述框架内，主要借助文字语言总结与解释多项研究发现的方法。它绝非主观随意的非结构化文献述评，而是遵循一套系统且透明的决策程序，用以阐明异[[Qualitative Research|质性研究]]之间的异同与作用机制。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 136–138)]]
 >
 > *Narrative synthesis refers to an approach to the systematic review and synthesis of findings from multiple studies that relies primarily on the use of words and text to summarise and explain the findings of the synthesis.*
 
@@ -119,7 +119,7 @@ updated: 2026-09-18
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 纳入综述的研究在干预方案、研究设计、测量指标或人群特征上具有高度[[Heterogeneity|异质性]]，导致无法进行统计[[Meta-analysis|元分析]]；涉及跨学科、跨行业（如教育、医疗、社会工作）的复杂制度或机制研究。[[Argument_Rickinson_2022_ER|(Popay et al., 2006; Rickinson et al., 2022, pp. 136–138)]]
+> - **适合使用** 纳入综述的研究在干预方案、研究设计、测量指标或人群特征上具有高度[[Heterogeneity|异质性]]，导致无法进行统计[[Meta-analysis|元分析]]；涉及跨学科、跨行业（如教育、医疗、社会工作）的复杂制度或机制研究。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 136–138)]]
 > - **谨慎使用** [[Document|文献]]仅有碎片化的定性观点且缺乏扎实的方法学记录，或[[Evaluation Research|评价研究]]数量极少难以支撑跨研究比较。
 > - **不适合使用** 面对纯粹同质化的药物[[Clinical Trial|临床试验]]或高度标准化的单一认知测验结果比较，此时应优先采用统计元分析。
 
@@ -151,4 +151,4 @@ updated: 2026-09-18
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rickinson_2022_ER]] — 依据 Popay 等（2006）规范整合跨四大实践领域的 112 篇高度[[Heterogeneity|异质性]][[Document|文献]]，构建了 [[Quality Use of Research Evidence Framework|QURE]] 框架。
+> - [[Argument_Rickinson_2022_ER|Rickinson et al., 2022a]] — 依据 Popay 等（2006）规范整合跨四大实践领域的 112 篇高度[[Heterogeneity|异质性]][[Document|文献]]，构建了 [[Quality Use of Research Evidence Framework|QURE]] 框架。

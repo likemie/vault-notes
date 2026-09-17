@@ -8,7 +8,7 @@ summary: "贾斯汀·帕克赫斯特（Justin Parkhurst）是伦敦政治经济�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

@@ -9,7 +9,7 @@ aliases:
 summary: "研究者隐瞒研究身份和目的、以伪装角色进入研究场所收集资料的研究方式，违反知情同意原则，但其支持者认为这是获取某些敏感群体或隐藏做法数据的唯一途径"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-07-23
+updated: 2026-09-18
 ---
 
 # Covert Research

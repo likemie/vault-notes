@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Dedering_2009_EERJ",
+      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
+    },
+    {
+      "basename": "CALLOUTS-PREVIEW",
+      "path": "wiki/templates/CALLOUTS-PREVIEW.md"
+    },
+    {
+      "basename": "CALLOUTS",
+      "path": "wiki/templates/CALLOUTS.md"
+    },
+    {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "Ecological Systems Theory",
+      "path": "wiki/theories/educational-psychology/Ecological Systems Theory.md"
+    },
+    {
+      "basename": "Situated Ethics",
+      "path": "wiki/theories/research-methodology/Situated Ethics.md"
+    },
+    {
+      "basename": "Seedhouse's Ethical Pyramid",
+      "path": "wiki/theories/research-methodology/Seedhouse's Ethical Pyramid.md"
+    },
+    {
+      "basename": "Potential Outcomes Framework",
+      "path": "wiki/theories/research-methodology/Potential Outcomes Framework.md"
+    },
+    {
+      "basename": "Hart's Ladder of Participation",
+      "path": "wiki/theories/research-methodology/Hart's Ladder of Participation.md"
+    },
+    {
+      "basename": "Item Response Theory",
+      "path": "wiki/theories/research-methodology/Item Response Theory.md"
+    },
+    {
+      "basename": "Campbellian Validity Framework",
+      "path": "wiki/theories/research-methodology/Campbellian Validity Framework.md"
+    },
+    {
+      "basename": "Autopoiesis",
+      "path": "wiki/theories/educational-philosophy/Autopoiesis.md"
+    },
+    {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
       "basename": "Argument_Rickinson_2022_ER",
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
+    },
+    {
+      "basename": "Dynamic Sustainability Framework",
+      "path": "wiki/theories/educational-policy-reform/Dynamic Sustainability Framework.md"
+    },
+    {
+      "basename": "Good Governance of Evidence",
+      "path": "wiki/theories/educational-policy-reform/Good Governance of Evidence.md"
+    },
+    {
+      "basename": "Justin Parkhurst",
+      "path": "wiki/persons/uk/Justin Parkhurst.md"
     },
     {
       "basename": "Fitness for Purpose",
@@ -109,10 +177,6 @@
       "path": "wiki/concepts/research-methodology/Attrition.md"
     },
     {
-      "basename": "Ecological Systems Theory",
-      "path": "wiki/theories/educational-psychology/Ecological Systems Theory.md"
-    },
-    {
       "basename": "Urie Bronfenbrenner",
       "path": "wiki/persons/us/Urie Bronfenbrenner.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Argument_Bouckaert_2023_OECD",
       "path": "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
-    },
-    {
-      "basename": "Bertrand Russell",
-      "path": "wiki/persons/uk/Bertrand Russell.md"
-    },
-    {
-      "basename": "Educational Brokerage Agency",
-      "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
-    },
-    {
-      "basename": "Higher Education Act of 1965",
-      "path": "wiki/facts/us/Higher Education Act of 1965.md"
-    },
-    {
-      "basename": "Value Neutrality",
-      "path": "wiki/concepts/educational-philosophy/Value Neutrality.md"
-    },
-    {
-      "basename": "Carol Weiss",
-      "path": "wiki/persons/us/Carol Weiss.md"
-    },
-    {
-      "basename": "National Center for Education Evaluation and Regional Assistance",
-      "path": "wiki/facts/us/National Center for Education Evaluation and Regional Assistance.md"
-    },
-    {
-      "basename": "Two-Communities Theory",
-      "path": "wiki/theories/educational-policy-reform/Two-Communities Theory.md"
-    },
-    {
-      "basename": "Every Student Succeeds Act",
-      "path": "wiki/facts/us/Every Student Succeeds Act.md"
-    },
-    {
-      "basename": "Legislative Policy Brief",
-      "path": "wiki/concepts/educational-policy-reform/Legislative Policy Brief.md"
-    },
-    {
-      "basename": "No Child Left Behind Act 2001",
-      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
-    },
-    {
-      "basename": "Higher Education Authority",
-      "path": "wiki/facts/ireland/Higher Education Authority.md"
-    },
-    {
-      "basename": "Foundations for Evidence-Based Policymaking Act of 2018",
-      "path": "wiki/facts/us/Foundations for Evidence-Based Policymaking Act of 2018.md"
-    },
-    {
-      "basename": "Research-Policy Gap",
-      "path": "wiki/concepts/educational-policy-reform/Research-Policy Gap.md"
-    },
-    {
-      "basename": "Navigational Framework for Educational Researchers",
-      "path": "wiki/theories/educational-policy-reform/Navigational Framework for Educational Researchers.md"
-    },
-    {
-      "basename": "Luhmann's Systems Theory",
-      "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md"
-    },
-    {
-      "basename": "Policymaking Chronosystem",
-      "path": "wiki/concepts/educational-policy-reform/Policymaking Chronosystem.md"
     }
   ],
   "omittedPaths": [],

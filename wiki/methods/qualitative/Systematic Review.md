@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 90
+method_related_count: 91
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -118,7 +118,7 @@ related_instruments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Systematic Review

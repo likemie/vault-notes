@@ -7,7 +7,7 @@ summary: "牛津大学教师教育荣休教授，英国教育研究协会与苏�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Ian Menter

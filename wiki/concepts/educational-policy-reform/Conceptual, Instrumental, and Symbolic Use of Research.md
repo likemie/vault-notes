@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Conceptual, Instrumental, and Symbolic Use of Research
@@ -188,6 +188,7 @@ updated: 2026-09-17
 > - **1977–1978 — 象征与工具区分** Knorr (1977) 区分象征性使用与工具性使用，Pelz (1978) 扩展[[Research Utilization|研究使用]]的视角。
 > - **1979–1980 — 类型学奠基** Weiss 提出七种[[Research Utilization|研究利用]]模型，并引入"知识渗透"概念（Weiss, 1980）。
 > - **2007 — 三分类系统化** Nutley et al. (2007) 在公共部门证据使用研究中系统化概念性、工具性与象征性三分类。
+> - **2009 — 政策与行政利用历时演进** [[Argument_Dedering_2009_EERJ|Dedering (2009)]] 依托德国联邦州教育部实证调研，证明数据利用在 PISA 震荡初期主要表现为战术性合法化（象征性使用），但经历数轮测评后逐渐演进为问题诊断、弱势补偿（工具性使用）以及假设检验式阅读（概念性使用）。
 > - **2017 — 成果分类应用** 在《Educational Research》特刊中，[[National Center for Research in Policy and Practice|NCRPP]] 学者与 Wentworth et al. 把概念、工具、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership|研究-实践伙伴关系]]的影响([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
 > - **2018–2022 — 深层使用扩展** Farley-Ripple et al. (2018, 2022) 把类型学与"用什么、如何用"的深层使用框架结合。
 > - **2026 — 学校情境实证检验** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 在[[Systematic Review|系统综述]]中记录学校研究使用以象征性与工具性为主，并据以论证从实施转向整合。
@@ -202,6 +203,7 @@ updated: 2026-09-17
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究，来自 28 个国家 | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用方式的分布 | 以象征性与工具性使用为主，深思熟虑参与相对罕见；研究常为三方[[Dialogue in Education\|对话]]中的"第三声音" | — | 描述性综合，反映[[Document\|文献]]报道分布而非精确比例 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | 德国 4 个联邦州教育部质保部门官员（12 场专家访谈） | 探索性定性案例研究＋内容分析 | 教育行政中的数据利用模式演进 | 早期以象征性合法化与政党博弈为主；后续发展出“问题导向”（工具性诊断弱势群体）与“数据导向”（识别困难学校）以及假说检验式概念阅读 | — | 质性深度描述，覆盖 2001–2009 年政策周期 |
 
 ---
 
@@ -219,3 +221,4 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 以该类型学为概念透镜记录学校[[Research Utilization|研究使用]]方式，发现深思熟虑参与比象征性与工具性使用更罕见，并据此提出从实施走向整合。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 在特刊导言中把工具、概念、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者证据本位决策的影响。
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 考察德国各州教育部对 PISA 及大规模测评数据的利用方式，揭示数据使用从早期的战术性合法化（象征性使用）向日常治理中的问题诊断（工具性使用）与假设检验（概念性使用）演进的机制路径。
