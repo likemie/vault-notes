@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
     },
     {
+      "basename": "Quality Use of Research Evidence Framework",
+      "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md"
+    },
+    {
+      "basename": "Research Utilization",
+      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
+    },
+    {
+      "basename": "Research-Engaged School",
+      "path": "wiki/concepts/educational-policy-reform/Research-Engaged School.md"
+    },
+    {
+      "basename": "Research-Practice Partnership",
+      "path": "wiki/concepts/educational-policy-reform/Research-Practice Partnership.md"
+    },
+    {
       "basename": "Argument_Serpell_2020_EP",
       "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Argument_Brown_Greany_2018_LPS",
       "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
-    },
-    {
-      "basename": "Evidence-Based Education",
-      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
-    },
-    {
-      "basename": "Evidence Standards",
-      "path": "wiki/concepts/educational-policy-reform/Evidence Standards.md"
-    },
-    {
-      "basename": "Argument_Slavin_2019_EP",
-      "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Slavin_2019_EP.md"
-    },
-    {
-      "basename": "Argument_Helgetun_2022_JEP",
-      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
     }
   ],
   "omittedPaths": [],
