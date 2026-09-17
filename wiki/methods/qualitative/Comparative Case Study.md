@@ -8,7 +8,7 @@ summary: "Bartlett and Vavrus 提出的比较案例研究方法，通过水平�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Scale in Higher Education]]"
   - "[[Graduate Attributes]]"
+  - "[[Data Infrastructure]]"
 related_theories:
   - "[[Cultural Political Economy]]"
 related_methods:
@@ -34,6 +35,7 @@ related_persons: []
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
+  - "[[Argument_Hartong_Forschler_2019_BDS]]"
 related_facts:
   - "[[GATS and Trade in Education Services]]"
 confidence: medium
@@ -107,6 +109,6 @@ CCS 的研究操作不遵循固定的线性步骤，而是通过三个轴的**�
 > [!example]
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 以 CCS 比较新加坡和阿联酋的教育枢纽项目，聚焦横贯维度追溯 1990–2018 年间的现象变迁
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较[[Case Study|案例研究]]加[[Mixed Methods Research|混合方法]]，比较两所美国大学和一所新西兰大学的 PhD [[Graduate Attributes|毕业生特质]]发展与职场应用，以制度不同的三校一致性模式推论博士培养的系统性偏向
-> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中数据基础设施的社会-技术实践与多维做数据张力
+> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与多维做数据张力
 
 ---

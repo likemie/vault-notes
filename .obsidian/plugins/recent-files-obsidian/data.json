@@ -5,6 +5,50 @@
       "path": "wiki/arguments/journal-articles/Big Data & Society/Argument_Hartong_Forschler_2019_BDS.md"
     },
     {
+      "basename": "Standing Conference of the Ministers of Education and Cultural Affairs",
+      "path": "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md"
+    },
+    {
+      "basename": "Test-Based Accountability",
+      "path": "wiki/concepts/educational-policy-reform/Test-Based Accountability.md"
+    },
+    {
+      "basename": "Wendy Espeland",
+      "path": "wiki/persons/us/Wendy Espeland.md"
+    },
+    {
+      "basename": "Technical Rationality",
+      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
+    },
+    {
+      "basename": "Institute for Educational Monitoring and Quality Improvement",
+      "path": "wiki/facts/germany/Institute for Educational Monitoring and Quality Improvement.md"
+    },
+    {
+      "basename": "Andreas Schleicher",
+      "path": "wiki/persons/germany/Andreas Schleicher.md"
+    },
+    {
+      "basename": "Educational Evidence Clearinghouses",
+      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
+    },
+    {
+      "basename": "PISA Shock",
+      "path": "wiki/concepts/comparative-education/PISA Shock.md"
+    },
+    {
+      "basename": "Data Infrastructure",
+      "path": "wiki/concepts/sociology-of-education/Data Infrastructure.md"
+    },
+    {
+      "basename": "Organizational Culture",
+      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
+    },
+    {
+      "basename": "Data Literacy",
+      "path": "wiki/concepts/competency-and-assessment/Data Literacy.md"
+    },
+    {
       "basename": "Argument_Dedering_2009_EERJ",
       "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
     },
@@ -15,10 +59,6 @@
     {
       "basename": "Academic Achievement",
       "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
-      "basename": "Standing Conference of the Ministers of Education and Cultural Affairs",
-      "path": "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md"
     },
     {
       "basename": "Content Analysis",
@@ -159,46 +199,6 @@
     {
       "basename": "Research Literacy",
       "path": "wiki/concepts/teacher-education/Research Literacy.md"
-    },
-    {
-      "basename": "Centre for Evidence and Implementation",
-      "path": "wiki/facts/australia/Centre for Evidence and Implementation.md"
-    },
-    {
-      "basename": "Technical Rationality",
-      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
-    },
-    {
-      "basename": "Organizational Culture",
-      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
-    },
-    {
-      "basename": "Evidence Ecosystem",
-      "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md"
-    },
-    {
-      "basename": "Quality Use of Research Evidence Framework",
-      "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md"
-    },
-    {
-      "basename": "Research Utilization",
-      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
-    },
-    {
-      "basename": "Research-Engaged School",
-      "path": "wiki/concepts/educational-policy-reform/Research-Engaged School.md"
-    },
-    {
-      "basename": "American Association for the Advancement of Science",
-      "path": "wiki/facts/us/American Association for the Advancement of Science.md"
-    },
-    {
-      "basename": "Research Translation",
-      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
-    },
-    {
-      "basename": "House Committee on Education and the Workforce",
-      "path": "wiki/facts/us/House Committee on Education and the Workforce.md"
     }
   ],
   "omittedPaths": [],

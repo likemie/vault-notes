@@ -1,6 +1,7 @@
 ---
 citation: "Hartong, S., & Förschler, A. (2019). Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies. Big Data & Society, 6(1), 1–12. https://doi.org/10.1177/2053951719853311"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Hartong_Forschler_2019_BDS]]"
 processed_date: 2026-09-18
 ---
 

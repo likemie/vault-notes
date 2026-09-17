@@ -10,9 +10,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 0
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dcfce7"
 org_type: state-educational-research-and-monitoring-institute
 headquarters: "Hamburg, Germany"
@@ -23,6 +23,14 @@ tags:
   - educational-monitoring
   - data-infrastructure
   - quality-assurance
+related_concepts:
+  - "[[Data Infrastructure]]"
+related_facts:
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Gesamtstrategie zum Bildungsmonitoring]]"
+  - "[[Vergleichsarbeiten]]"
+related_arguments:
+  - "[[Argument_Hartong_Forschler_2019_BDS]]"
 confidence: high
 status: stable
 created: 2026-09-18
@@ -39,7 +47,7 @@ updated: 2026-09-18
 > 汉堡教育监测与质量发展研究所（Institut für Bildungsmonitoring und Qualitätsentwicklung, IfBQ）是德国汉堡自由汉萨市主管教育评估、学校质量诊断与[[Data Infrastructure|教育数据基础设施]]建设的法定专业研究机构。该机构直属于汉堡学校与职业教育局（Behörde für Schule und Berufsbildung, BSB），承担着将经验实证研究方法转化为州级宏观教育治理与微观学校改进工具的核心枢纽职能[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 2–3)]]。
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 设立于 2006 年。在德国经历“PISA 震荡”后全面转向实证教育治理的大背景下，汉堡依据[[Standing Conference of the Ministers of Education and Cultural Affairs|各州教育与文化部长常设会议（KMK）]]颁布的[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]组建该所，以强化循证学校督导与质量反馈机制。
+> - **成立时间 / 创设背景** 设立于 2006 年。在德国经历“PISA震荡”后全面转向实证教育治理的大背景下，汉堡依据[[Standing Conference of the Ministers of Education and Cultural Affairs|各州教育与文化部长常设会议（KMK）]]颁布的[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]组建该所，以强化循证学校督导与质量反馈机制。
 > - **总部地点 / 业务辐射** 位于德国汉堡，业务统辖汉堡全州各学段公立与私立学校的学业测评、外部督导评估及教育统计工作。
 > - **法人属性与经费基础** 属于汉堡州政府附属的公立科学评估与数据管理事业单位，由汉堡州财政常设预算全额保障。
 > - **核心宗旨与法定职责** 采集与分析全州教育质量数据，实施全州比较测试（[[Vergleichsarbeiten|VERA]] / KERMIT），编制汉堡年度教育报告，研发学校社会指数分类算法，并为全州各校提供基于客观数据的咨询与改进反馈[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 2, 6, 9)]]。
