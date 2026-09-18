@@ -36,6 +36,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Literature Search]]"
+  - "[[Research Question]]"
   - "[[Primary and Secondary Documents]]"
 related_theories: []
 related_methods:
@@ -45,12 +46,13 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
+  - "[[Violin Plot]]"
+  - "[[UpSet Plot]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
 related_facts:
-  - "[[RAiSE Programme]]"
   - "[[Visible Learning Meta-X]]"
 related_arguments: []
 sources:
@@ -65,7 +67,7 @@ title: "Argument_Jansen_2026_EPR"
 argument_key: "Argument_Jansen_2026_EPR"
 argument_display_title: "Automated data extraction by large language models: Assessing accuracy in comparison to human experts using the example of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -127,7 +129,7 @@ issuing_organization: ""
 > | **[[Document\|文献]]抽样与数据准备** | 从[[John Hattie\|约翰·哈蒂（John Hattie）]]教授维护的[[Visible Learning Meta-X]]数据库（包含 2,100+ 项元分析）中，随机抽取 156 项聚焦学生学业成就的一阶元分析全文文献（PDF 格式）。（pp. 7–8） |
 > | **提示词工程与模型推断** | 构建包含角色定义、[[Variable\|变量]]代码簿、优先级层级与 3 个少样本示例的提示词架构。在独立的 10 篇[[Meta-analysis\|元分析]]子集上完成预试调优后，通过应用程序编程接口（Application Programming Interface, API）运行三大专有前沿模型：Gemini 2.5 Pro、GPT-4.1 与 GPT-o3。（pp. 8–9） |
 > | **两阶段基准仲裁体系** | 针对 101 项存在分歧的元分析，首先由一位作者独立复核建立银标准；对剩余 67 项高度存疑或与原数据库严重背离的文献，由专家作者组联合研讨仲裁建立无偏金标准基准。（pp. 9–10） |
-> | **多维准确性评估方法** | 采用双向随机效应绝对一致性单评分者[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）模型 $\text{ICC}(2,1)$、直接百分比一致率、皮尔逊相关系数（$r$）、平均绝对误差（Mean Absolute Error, MAE）、偏倚分布图与集合交集图（UpSet Plot）展开全景评测。（pp. 10–14） |
+> | **多维准确性评估方法** | 采用双向随机效应绝对一致性单评分者[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）模型 $\text{ICC}(2,1)$、直接百分比一致率、皮尔逊相关系数（$r$）、平均绝对误差（Mean Absolute Error, MAE）、[[Violin Plot\|小提琴图]]（Violin Plot）与集合交集图（[[UpSet Plot]]）展开全景评测。（pp. 10–14） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -193,7 +195,7 @@ issuing_organization: ""
 
 #### 1. 总体统计分布对齐性检验
 
-实证分析首先通过小提琴图检验各编码主体提取数据的宏观分布特征。
+实证分析首先通过[[Violin Plot|小提琴图]]检验各编码主体提取数据的宏观分布特征。
 
 > [!example]- 图2：效应量、研究数与参与者人数分布小提琴图
 > ![](https://img.mylikemie.icu/sources/Jansen_2026_EPR/figures/Jansen_2026_EPR_Fig2_Violin_Plots.jpg)
@@ -221,13 +223,13 @@ issuing_organization: ""
 
 #### 3. 编码主体交集结构与共识模式
 
-为了进一步厘清多方一致性的深层结构，研究采用集合交集图剖析了 468 个数据点的组合重叠分布。
+为了进一步厘清多方一致性的深层结构，研究采用[[UpSet Plot|集合交集图]]剖析了 468 个数据点的组合重叠分布。
 
 > [!example]- 图3：人类编码员、LLMs与金银标准之间一致性交集的 UpSet 图
 > ![](https://img.mylikemie.icu/sources/Jansen_2026_EPR/figures/Jansen_2026_EPR_Fig3_UpSet_Plot.jpg)
 
 > [!warrant]- 图3 支持共识模式主张的推理
-> 集合交集图分析显示，在 280 个数据点上（占 59.8%），所有人类与机器编码员及两项参考标准达成完全一致；排在第二位的频次是 Visible Learning 数据库的单方偏离（57 例，占 12.2%）；在 27 例中（占 5.8%），所有模型与独立作者一致判定，仅既有数据库存在偏差。仅有 16 例（占 3.4%）属于人类双重一致而所有模型均未能正确提取的情形——这表明大模型的失准边界极窄，且与既有人类数据库的误差分布呈现截然不同的结构。（pp. 17–18）
+> 集合交集图（UpSet Plot）分析显示，在 280 个数据点上（占 59.8%），所有人类与机器编码员及两项参考标准达成完全一致；排在第二位的频次是 Visible Learning 数据库的单方偏离（57 例，占 12.2%）；在 27 例中（占 5.8%），所有模型与独立作者一致判定，仅既有数据库存在偏差。仅有 16 例（占 3.4%）属于人类双重一致而所有模型均未能正确提取的情形——这表明大模型的失准边界极窄，且与既有人类数据库的误差分布呈现截然不同的结构。（pp. 17–18）
 
 ---
 
@@ -239,7 +241,7 @@ issuing_organization: ""
 #### 1. 错误形态解构：幻觉罕见而遗漏与多表计算居多
 
 > [!concept-lens] 误差画像的三重透镜
-> - **研究问题** 细粒度的错误分类分析区分人类专家与大语言模型截然不同的误差画像：错误来自何种认知机制？频率如何分布？
+> - **[[Research Question|研究问题]]** 细粒度的错误分类分析区分人类专家与大语言模型截然不同的误差画像：错误来自何种认知机制？频率如何分布？
 > - **关键区分** 事实性幻觉（凭空虚构）vs 信息遗漏（有据可查却标记为缺失）vs 计算偏差（数值存在但累加错误）
 > - **实践边界** 识别误差结构是精准设计提示词与人工介入策略的前提
 
@@ -252,7 +254,7 @@ issuing_organization: ""
 #### 2. 基于有意义人类控制的四步混合验证范式
 
 > [!goal] 混合验证规程的设计目标
-> - **核心目标** 将大模型的提取潜能转化为严谨的学术生产力，结合[[RAiSE Programme|RAiSE]] 负责任证据综合指南，在恪守[[Meaningful Human Control|有意义的人类控制]]原则的前提下，最大化节约专家劳动。
+> - **核心目标** 将大模型的提取潜能转化为严谨的学术生产力，结合RAiSE 负责任证据综合指南，在恪守[[Meaningful Human Control|有意义的人类控制]]原则的前提下，最大化节约专家劳动。
 
 > [!proc] 证据综合中有意义人类控制的四步混合验证规程
 > 1. **提示词开发与预试校准** 编制涵盖变量代码簿、提取优先级与少样本示例的标准化提示词，在独立先导文献集上完成参数调优。（p. 8）
@@ -268,7 +270,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **前沿大语言模型提取准确性达到人类专家水准** Gemini 2.5 Pro、GPT-4.1 与 GPT-o3 在 156 项教育[[Meta-analysis|元分析]]中的提取表现（组内相关系数 ICC = 0.96–0.97，一致率 77%–81%）全面匹敌单一人类专家（ICC = 0.81–0.95，一致率 80%–86%）。（pp. 18–19）
+> 1. **前沿大语言模型提取准确性达到人类专家水准** Gemini 2.5 Pro、GPT-4.1 与 GPT-o3 在 156 项教育[[Meta-analysis|元分析]]中的提取表现（[[Intraclass Correlation Coefficient|组内相关系数]] ICC = 0.96–0.97，一致率 77%–81%）全面匹敌单一人类专家（ICC = 0.81–0.95，一致率 80%–86%）。（pp. 18–19）
 > 2. **事实性幻觉在规范抽取中极为罕见** 在缺失数据的[[Document|文献]]中，大模型虚构数值的幻觉率仅为 5%–7%（3–4 例），与人类专家的幻觉率完全持平。（p. 18）
 > 3. **提取瓶颈聚焦于多表加总与报告模糊性** 机器与人类的分歧主要源于跨分表被试总数 $N$ 的累加疏漏，以及[[Primary and Secondary Documents|原始文献]]在摘要与正文中汇报冲突数据时的选择偏好。（pp. 16–18）
 > 4. **确立人机混合验证的帕累托最优[[Paradigm|范式]]** 双模型初筛结合专家分歧仲裁，在节约 80% 人工劳动的同时，能够有效消除单人提取疏漏并保障[[Meaningful Human Control|有意义的人类控制]]。（pp. 24–25）
@@ -293,7 +295,7 @@ issuing_organization: ""
 > [!citation-card] 证据综合中有意义人类控制与验证条件
 > 证据综合中负责任使用人工智能指南明确要求，必须通过[[Evaluation Research|评估研究]]确定 AI 在特定语境下是否表现充分。我们的研究为大语言模型负责任地用于数据提取提供了实证基础，并阐明了在何种条件下人类、模型或人机混合提取的数据可被视为经过有效验证。（pp. 3, 24）
 >
-> *The [[RAiSE Programme|RAiSE]] guidance states that evaluation studies should determine whether an AI performs adequately in a given context. Our study provides an empirical foundation for responsible use of LLMs for data extraction. We discuss the conditions under which data extracted by LLMs, humans, or a hybrid of both can be considered validated for use in educational SOMAs.*
+> *The RAiSE guidance states that evaluation studies should determine whether an AI performs adequately in a given context. Our study provides an empirical foundation for responsible use of LLMs for data extraction. We discuss the conditions under which data extracted by LLMs, humans, or a hybrid of both can be considered validated for use in educational SOMAs.*
 
 ---
 

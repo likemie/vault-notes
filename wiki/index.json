@@ -7286,6 +7286,16 @@
     ]
   },
   {
+    "title": "Philanthrocapitalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Philanthrocapitalism.md",
+    "aliases": [
+      "慈善资本主义",
+      "风险慈善资本主义",
+      "philanthro-capitalism"
+    ]
+  },
+  {
     "title": "Preemptive Governance",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Preemptive Governance.md",
@@ -16271,6 +16281,25 @@
     ]
   },
   {
+    "title": "UpSet Plot",
+    "type": "method",
+    "path": "wiki/methods/quantitative/UpSet Plot.md",
+    "aliases": [
+      "集合交集图",
+      "UpSet",
+      "UpSet Matrix"
+    ]
+  },
+  {
+    "title": "Violin Plot",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Violin Plot.md",
+    "aliases": [
+      "小提琴图",
+      "核密度小提琴图"
+    ]
+  },
+  {
     "title": "AMSTAR",
     "type": "instrument",
     "path": "wiki/instruments/checklists/AMSTAR.md",
@@ -19844,6 +19873,16 @@
       "澳大利亚慈善服务社",
       "APS",
       "Australian Philanthropic Services Limited"
+    ]
+  },
+  {
+    "title": "Australian Schools Plus",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian Schools Plus.md",
+    "aliases": [
+      "Schools Plus",
+      "澳大利亚学校加计划",
+      "澳大利亚学校加慈善基金会"
     ]
   },
   {
@@ -26067,6 +26106,11 @@
     "title": "Argument_Ross_Morrison_2021_ECNUROE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ECNUROE.md"
+  },
+  {
+    "title": "Argument_Rowe_2023_ECNUROE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
   },
   {
     "title": "Argument_Slavin_2021_ECNUROE",

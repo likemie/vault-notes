@@ -166,3 +166,4 @@ updated: 2026-09-18
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 综合调取澳大利亚证券与投资委员会 17 份企业档案、慈善财务年报及信息公开公函，绘制澳大利亚国家[[Educational Brokerage Agency|证据中介机构]][[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）背后跨越十年的[[Venture Philanthropy|风险慈善]]游说与跨国[[Policy Network|政策网络]]。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 综合运用网络民族志、深度访谈、澳大利亚慈善与非营利委员会（ACNC）财务年报、ASIC 监管报告与 Gephi 网络可视化，以澳大利亚社会创投（SVA）为中枢，解构连接[[Australian Schools Plus|学校加计划]]、[[Evidence for Learning|E4L]] 与 AERO 的风险慈善中介装配及其对国家再分配职能的重塑。

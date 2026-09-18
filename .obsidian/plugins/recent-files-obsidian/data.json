@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Venture Philanthropy",
+      "path": "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md"
+    },
+    {
+      "basename": "Argument_Rowe_2023_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
+    },
+    {
       "basename": "Argument_Jansen_2026_EPR",
       "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Policy Borrowing",
       "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
-    },
-    {
-      "basename": "Argument_Besa_2024_UW",
-      "path": "wiki/arguments/journal-articles/Unterrichtswissenschaft/Argument_Besa_2024_UW.md"
-    },
-    {
-      "basename": "Educational Brokerage Agency",
-      "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
     }
   ],
   "omittedPaths": [],

@@ -243,6 +243,7 @@ updated: 2026-09-18
 > - **2022 [[OECD]] 跨国政务网络实证测度** 经合组织（[[OECD]]）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]）首次在 29 国 37 个教育系统全面测度部委政务网络，揭示了网络规模与联结强度的解耦、大网络陷阱与生产依附偏误。
 > - **2022 教师教育政策网络与[[Gatekeepers|把关人]]实证分析** [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] 剖析英格兰教师教育政策网络，揭示高层官僚轮换、社交媒体意见领袖与教育部把关人如何共同形塑[[Policy-Based Evidence-Making|基于政策的证据制造]]。
 > - **2022 [[Network Ethnography|政策网络民族志]]与无生命客体[[Assemblage|装配]]** 埃玛·罗威（[[Argument_Rowe_2022_IJER|Rowe, 2022]]）结合网络[[Ethnography|民族志]]，通过 ASIC 企业档案与财务披露解构麦肯锡系风险慈善枢纽 [[Social Ventures Australia|SVA]] 长达十年的政策游说网络，揭示跨界[[Co-affiliation|共同从属]]与无生命客体装配如何实现资本对国家科研中介机构的隐蔽掌控。
+> - **2023 异层治理实践与国家再分配重构** 埃玛·罗威（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023]]）进一步聚焦“异层治理实践”（heterarchical state in practice），阐明政策网络不仅重塑治理网络，更通过法定避税特许与财政补贴（如 SVA、[[Australian Schools Plus|学校加计划]]）重构国家再分配职能，造成公共资源向免税中介逆流。
 > - **2024 批判[[Network Analysis|网络分析]]实证落地** [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 运用政策网络分析方法解构澳大利亚[[Initial Teacher Training|初始教师教育]]改革中的理念编排与公私利益合流。
 
 ---
@@ -311,6 +312,7 @@ updated: 2026-09-18
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 结合[[Network Ethnography|网络民族志]]与耐用客体[[Assemblage|装配]]视角，解构澳大利亚政策网络如何以麦肯锡系[[Venture Philanthropy|风险慈善]]为枢纽创设国家[[Educational Brokerage Agency|证据中介机构]]。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 运用网络民族志绘制 SVA 辐射网络（Schools Plus、E4L、AERO），揭示异层治理实践与避税特许如何将公共税收逆向导流至私营中介。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 运用政策[[Network Analysis|网络分析]]方法解构澳大利亚教师教育改革中的公私共谋与理念编排机制。
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 揭示英格兰教师教育政策网络中高级官僚轮换、社交媒体意见领袖与教育部[[Gatekeepers|把关人]]共同促成[[Policy-Based Evidence-Making|基于政策的证据制造]]。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 跨国实证测度 37 个教育系统部委政务网络，揭示网络规模与联结强度解耦、生产依附偏误及形式主义大网络陷阱。

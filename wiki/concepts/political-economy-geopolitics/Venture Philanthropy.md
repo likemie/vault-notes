@@ -188,6 +188,7 @@ updated: 2026-09-18
 > | 同上 | [[Teach First New Zealand\|Teach First NZ]]（新西兰） | 多元资助组合（离岸与本土风险慈善、企业赞助、慈善信托） | 选拔非教育学高学历毕业生进入低分数带高中开展两周速成执教 | 借鉴美英 Teach For All 跨国模式，绕过公立大学正规师训系统（p. ix） | 将教育不平等窄化为教师个体领导力，推行替代性教师资格认证 |
 > | 同上 | [[Partnership Schools Kura Hourua\|特许学校支持实体]]（新西兰） | 混合融资结构（政府配资与风险慈善基金会专项支持） | 支持新西兰国家党政府试行的特许学校体制（如 E Tipu E Rea） | 依托私人慈善资助维持运营，构建公私伙伴基础设施（p. 12） | 为新自由主义[[Endogenous and Exogenous Privatisation\|教育私有化]]与公立教育非工会化提供财政缓冲带 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | [[Social Ventures Australia\|澳大利亚社会创投]]（SVA，澳大利亚） | 管理资产 1.5 亿澳元；年政府补助 120 万澳元、企业捐赠 600 万澳元 | 创设证据中介样板 E4L；运营商业咨询部（年营收近 1000 万澳元） | 获免税与抵税资质，获得公共补贴总额超过其对外发放赠款总和（pp. 5–6） | 充当大企业避税庇护所；主导长达十年政策游说促成 [[Australian Education Research Organisation\|AERO]] 成立 |
+> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | [[Social Ventures Australia\|SVA]] 与 [[Australian Schools Plus\|Schools Plus]]（澳大利亚） | SVA 获政府拨款 121.6 万澳元；Schools Plus 获 500 万公共注资与 DGR1 资质 | SVA 构建涵盖 Schools Plus、E4L 与 AERO 的辐射网络；获 1500 万保密投标资助 | SVA 实际对外发放赠款仅占政府拨款的 51%（62.5 万澳元）；4 家子公司层级控股（pp. 527–528） | 实证确证风险慈善构建[[Philanthrocapitalism\|慈善资本主义]]再分配闭环，迫使公立学校竞逐企业慈善并侵蚀民主问责 |
 > | 同上 | [[Australian Education Research Organisation\|AERO]]（澳大利亚） | 联邦与州政府联合注资 5000 万澳元初始财政预算 | 制定全国 [[Initial Teacher Training\|ITE]] 核心大纲、发布证据量规、桌面审查与证据综合 | 注册为担保有限公司；章程第 6/8 条规定董事须具慈善合作资历（pp. 3, 5） | 依据《公司法》享有前 18 个月审计豁免；特许向营利咨询分包科研 |
 
 ---
@@ -198,10 +199,12 @@ updated: 2026-09-18
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Philanthrocapitalism]] | 概念 | 风险慈善在宏观政治经济体制中依附并推进的意识形态范式。 |
 > | [[Educational Brokerage Agency]] | 概念 | 风险慈善机构在教育领域培育与输送资本的核心组织载体。 |
 > | [[Assemblage]] | 概念 | 解构风险慈善公私网络与无生命制度客体耐用固化的理论透镜。 |
 > | [[Policy Network]] | 概念 | 风险慈善赖以进行政策游说与跨界渗透的异质层级组织网络。 |
 > | [[Social Ventures Australia]] | 事实 | 澳大利亚首要的风险慈善机构与政策网络核心枢纽。 |
+> | [[Australian Schools Plus]] | 事实 | 风险慈善网络游说联邦专门立法创设的全国公立学校企业免税筹款中介实体。 |
 > | [[Foundation North Māori and Pasifika Education Initiative]] | 事实 | 新西兰全面转向风险慈善运作模式的标杆巨型留本信托。 |
 > | [[Teach First New Zealand]] | 事实 | 获跨国风险慈善基金会注资支持的替代性教师准入项目。 |
 > | [[Australian Education Research Organisation]] | 事实 | 风险慈善游说十年催生并获立法特许分包的国家证据机构。 |
