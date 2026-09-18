@@ -12,9 +12,9 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 22
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 34
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "regional-research-laboratory"
 headquarters: "Santiago, Chile"
@@ -28,29 +28,41 @@ tags:
   - knowledge-brokerage
 related_concepts:
   - "[[Evidence Ecosystem]]"
-  - "[[Knowledge Mediation]]"
-  - "[[Educational Brokerage Agency]]"
-  - "[[Evidence-Based Education]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Evaluation Research]]"
+  - "[[Knowledge Mobilisation]]"
   - "[[Going Native]]"
+  - "[[Policy Brokerage]]"
+  - "[[Document]]"
+  - "[[Metacognition]]"
+  - "[[Peer-Supported Learning]]"
+  - "[[Positivism]]"
+  - "[[Technical Rationality]]"
+  - "[[Critical Pedagogy]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Epistemic Governance]]"
+  - "[[Knowledge Mediation]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons:
-  - "[[Sir Kevan Collins]]"
+related_persons: []
 related_facts:
   - "[[BHP Foundation]]"
-  - "[[Education Endowment Foundation]]"
-  - "[[Evidence for Learning]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Building a Global Evidence Ecosystem for Teaching]]"
   - "[[Global Partnership for Education]]"
+  - "[[Education Endowment Foundation]]"
+  - "[[Building a Global Evidence Ecosystem for Teaching]]"
+  - "[[UNESCO]]"
+  - "[[Global Education Monitoring Report]]"
   - "[[Knowledge and Innovation Exchange]]"
+  - "[[World Bank]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Evidence for Learning]]"
+  - "[[Evidence for Education Network]]"
+  - "[[Evidence Network]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
@@ -173,6 +185,7 @@ updated: 2026-09-18
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Organization) | 被 SUMMA 翻译[[Going Native\|本土化]]为《有效教育实践平台》的核心实证证据工具箱。 |
 > | [[Evidence for Learning]] | Fact (Organization) | 同受必和必拓基金会资助建立的澳大利亚姊妹[[Educational Brokerage Agency\|证据中介机构]]。 |
 > | [[Building a Global Evidence Ecosystem for Teaching]] | Fact (Program) | 基金会与 EEF 联合发起、SUMMA 作为核心海外受资助中枢的跨国五年战略项目。 |
+| [[Evidence for Education Network]] | Fact (Organization) | SUMMA 作为拉丁美洲与加勒比核心中枢参与的全球多边常设[[Evidence Network\|证据网络]]。 |
 > | [[Global Partnership for Education]] | Fact (Organization) | 联合设立运营 Centro [[Knowledge and Innovation Exchange\|KIX]] LAC 的多边全球教育伙伴机构。 |
 > | [[Evidence Ecosystem]] | Concept | SUMMA 所致力于在拉美和加勒比多国构建的去中心化循证[[Epistemic Governance\|知识治理]]生态。 |
 > | [[Knowledge Mediation]] | Concept | SUMMA 承担的连接国际科研证据与本土一线政策/学校实践的中介职能。 |

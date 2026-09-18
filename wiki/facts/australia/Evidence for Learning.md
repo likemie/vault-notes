@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -62,6 +62,8 @@ related_facts:
   - "[[SUMMA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Gonski 2.0]]"
+  - "[[Evidence for Education Network]]"
+  - "[[Evidence Network]]"
 related_arguments:
   - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
@@ -183,6 +185,7 @@ updated: 2026-09-18
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Instrument) | E4L 在澳大利亚全盘引进、[[Going Native\|本土化]]并试点的核心循证工具。 |
 > | [[BHP Foundation]] | Fact (Organization) | 资助 E4L 参与“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”的跨国矿业资本方。 |
 > | [[Building a Global Evidence Ecosystem for Teaching]] | Fact (Program) | 必和必拓基金会与 EEF 联合资助的跨国证据生态计划，E4L 与 [[SUMMA]] 担任南北核心枢纽。 |
+| [[Evidence for Education Network]] | Fact (Organization) | E4L 作为澳大利亚创始中介节点所融入的常设全球教育[[Evidence Network\|证据网络]]。 |
 > | [[SUMMA]] | Fact (Organization) | 必和必拓基金会全球教育证据计划中与 E4L 遥相呼应的拉美和加勒比姊妹证据中介。 |
 > | [[David Gonski]] | Person | 其领衔的 [[Gonski 2.0]] 审查采纳 SVA 建议提出第 23 条建议，完成政策落地。 |
 > | [[John Hattie]] | Person | 出任 E4L 学校专家咨询委员会（Schools Expert Reference Council）主席，指导工具包本土化转化。 |

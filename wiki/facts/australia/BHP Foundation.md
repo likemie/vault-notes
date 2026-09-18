@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -51,6 +51,8 @@ related_facts:
   - "[[Social Ventures Australia]]"
   - "[[Building a Global Evidence Ecosystem for Teaching]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Evidence for Education Network]]"
+  - "[[Evidence Network]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
@@ -168,6 +170,7 @@ updated: 2026-09-18
 > | [[SUMMA]] | 机构事实 | 基金会全球教育证据计划在拉美和加勒比地区重点资助设立的区域证据与创新中枢。 |
 > | [[Evidence for Learning]] | 机构事实 | 基金会与社会创投在澳大利亚协同扶持的姊妹[[Evidence-Based Education\|循证教育]]中介。 |
 > | [[Building a Global Evidence Ecosystem for Teaching]] | 项目事实 | 基金会与 EEF 联合发起的跨国证据生态五年战略旗舰项目。 |
+| [[Evidence for Education Network]] | 机构事实 | 基金会全球教育证据项目成果制度化升格的全球常设教育[[Evidence Network\|证据网络]]。 |
 > | [[Australian Education Research Organisation]] | 机构事实 | 基金会资助项目在澳大利亚直接催生并深度联结的官方证据旗舰。 |
 > | [[Evidence Ecosystem]] | 核心概念 | 基金会 5 年战略计划所致力于在全球范围内构建的[[Epistemic Governance\|知识治理]]形态。 |
 > | [[Strong Beginnings Report]] | 政策事实 | 基金会跨国中介网络最终落地并重塑澳大利亚教师教育的国家大纲文本。 |

@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 111
+fact_related_count: 112
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -121,6 +121,7 @@ related_facts:
   - "[[Ofsted]]"
   - "[[Evidence Network]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
+  - "[[Evidence for Education Network]]"
   - "[[Strong Beginnings Report]]"
   - "[[EPPI-Centre]]"
   - "[[Literacy Octopus]]"
@@ -321,6 +322,7 @@ updated: 2026-09-18
 > | [[Australian Education Research Organisation]] | Fact (Organization) | 澳大利亚国家证据机构，设立时以 EEF 为直接蓝本并深度承袭其治理经验。 |
 > | [[BHP Foundation]] | Fact (Organization) | 必和拓基金会是 EEF 全球扩张与跨国[[Policy Network\|理念编排]]的核心私人资本资助方。 |
 > | [[Building a Global Evidence Ecosystem for Teaching]] | Fact (Program) | EEF 与必和必拓基金会联合开展的全球证据生态扩张五年战略旗舰项目。 |
+| [[Evidence for Education Network]] | Fact (Organization) | EEF 牵头组建并常设协调的全球多边教育[[Evidence Network\|证据网络]]（覆盖 20 国）。 |
 > | [[SUMMA]] | Fact (Organization) | EEF 在拉美和加勒比地区的核心海外镜像伙伴，合作推进工具包西葡双语转译与本土试验。 |
 > | [[Strong Beginnings Report]] | Fact (Policy) | 澳大利亚教师教育改革大纲，直接采纳了 EEF 推荐的证据[[Document\|文献]]与大纲要求。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 美国官方清算中心，与 EEF 并列为国际[[Evidence-Based Education\|循证教育]]的两大顶级旗舰。 |
