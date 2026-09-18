@@ -8,7 +8,7 @@ summary: "奥地利教育学家、林茨大学荣休讲席教授，德语区教�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_theories:
 related_methods:
   - "[[Action Research]]"
   - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
   - "[[Cluster Analysis]]"
 related_instruments: []
@@ -108,5 +109,5 @@ updated: 2026-09-18
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 基于奥地利 362 名校长问卷调查，运用聚类分析识别三种治理态度类型，证实循证态度驱动微观工时重塑与教学领导。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 基于奥地利 362 名校长[[Questionnaire|问卷调查]]，运用[[Cluster Analysis|聚类分析]]识别三种治理态度类型，证实循证态度驱动微观工时重塑与教学领导。

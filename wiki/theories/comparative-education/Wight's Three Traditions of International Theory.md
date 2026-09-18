@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Agendas of Attention]]"
   - "[[International Mind]]"
   - "[[Readings of the Global]]"
+  - "[[Policy Mobility]]"
   - "[[Ontology]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[International Education]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-12
+updated: 2026-09-18
 ---
 
 # Wight's Three Traditions of International Theory
@@ -98,7 +99,7 @@ updated: 2026-09-12
 > | **[[Rationalism in International Relations\|理性主义]]（Rationalism）** | 思想传统 | 格劳秀斯传统：视国际社会为存在制度缺陷的合作体，核心是法律与“权威”，在比较教育中对应远处治理、多边合作与[[International Mind\|国际心智]]。 |
 > | **[[Revolutionism\|革命主义]]（Revolutionism）** | 思想传统 | [[Immanuel Kant\|康德]]传统：视政治的终极现实为普遍人类共同体，核心是推翻压迫的“武力”，在比较教育中对应揭露不平等和开辟去殖民的道德解放事业。 |
 > | [[Agendas of Attention\|注意力议程]] | 理论概念 | 决定了比较教育研究中哪些国家、政策和议题是“在场”的，哪些是被选择性忽略而“缺席”的。 |
-> | [[Readings of the Global\|阅读全球]] | 分析工具 | 将全球化及跨国政策流动视为多重文本，三大传统各自构成不同的阅读全球透镜。 |
+> | [[Readings of the Global\|阅读全球]] | 分析工具 | 将全球化及跨国[[Policy Mobility\|政策流动]]视为多重文本，三大传统各自构成不同的阅读全球透镜。 |
 
 ---
 
@@ -127,7 +128,7 @@ updated: 2026-09-12
 > - **前提一** 理性主义认为无政府状态下的冲突可以通过法律、规则和多边协商得到缓解，使权力转化为具有正当性的“权威”；教育不再是国家单向输出，而是被视为分散权威在跨国多行动者网络中的机制。
 >   > [!evidence-grid]- 证据
 >   > - **远处治理与基准测试** 诺沃亚与雅里夫-马沙尔指出，多边组织广泛使用的基准测试和数据评估不仅仅是研究方法，更是在科学客观性名义下推行远处治理的政治手段 (p. 425)。
->   > - **多行动者网络** 经合组织、世界银行、非政府组织、私营商业巨头和[[Policy Entrepreneur|政策企业家]]相互交织，促成了全球政策流动的标准化。
+>   > - **多行动者网络** 经合组织、世界银行、非政府组织、私营商业巨头和[[Policy Entrepreneur|政策企业家]]相互交织，促成了全球[[Policy Mobility|政策流动]]的标准化。
 > - **前提二** 比较作为消除历史教科书中歪曲与刻板印象的制度手段，能够服务于超越民族主义的“国际心智”，从而推动和平政治。
 >   > [!evidence-grid]- 证据
 >   > - **国际理解与学术建制** 两次世界大战之间国际联盟的国际知识合作组织和北欧协会通过教科书修改消除偏见；二战后劳维斯及[[Comparative Education Society in Europe|欧洲比较教育学会]]致力于国际理解与民主化改革的学术建制 (p. 424)。
@@ -198,6 +199,6 @@ updated: 2026-09-12
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 跨国教育政策流动与借用动机、国际组织（[[OECD|经合组织]]/[[World Bank|世界银行]]/[[UNESCO|联合国教科文组织]]）的教育治理网络、比较教育学科史与学术建制变迁。
+> - **适合解释** 跨国教育[[Policy Mobility|政策流动]]与借用动机、国际组织（[[OECD|经合组织]]/[[World Bank|世界银行]]/[[UNESCO|联合国教科文组织]]）的教育治理网络、比较教育学科史与学术建制变迁。
 > - **谨慎使用** 双边或地区性教育技术合作，需注意排除纯技术性操作层面的噪音，精准提炼其宏观政治张力。
 > - **不适合解释** 微观维度的课堂教学法效果、个体层面的认知与学习机制，以及不涉及国际流动的纯本土日常学校运营。

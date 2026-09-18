@@ -5,7 +5,7 @@ aliases:
 summary: "Lundvall和Johnson提出的经济分析视角，强调在全球化与技术加速变迁中，竞争力取决于学习能力而非静态知识存量，为多元知识来源和创新过程中组织学习的必要性提供了宏观语境"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
 related_theories:
   - "[[Systems of Innovation]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons: []
@@ -30,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-10
+updated: 2026-09-18
 ---
 # Learning Economy
 
@@ -76,5 +75,5 @@ updated: 2026-09-10
 
 > [!abstract]
 > - [[Multi-channel Interactive Learning Model|多通道互动学习模型]] — 该模型将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念具体化了学习经济的微观机制。
-> - [[Systems of Innovation|创新系统]] — 国家、区域和部门创新[[Luhmann's Systems Theory|系统理论]]为学习经济提供了制度[[Analytic Framework|分析框架]]。学习经济解释了为什么创新系统比创新政策更重要——因为学习发生在系统层面的互动中，而非单一的政策杠杆上。
+> - [[Systems of Innovation|创新系统]] — 国家、区域和部门创新系统理论为学习经济提供了制度[[Analytic Framework|分析框架]]。学习经济解释了为什么创新系统比创新政策更重要——因为学习发生在系统层面的互动中，而非单一的政策杠杆上。
 > - [[Linear Model of Innovation|线性创新模型]] ←→ 学习经济 — 线性模型将科学投入视为创新的[[Necessary and Sufficient Conditions|充分条件]]；学习经济视角指出，如果组织学习能力不足，再多的科学投入也无法转化为创新绩效。

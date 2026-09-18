@@ -9,7 +9,7 @@ summary: "美国科学史家与科学哲学家，以《科学革命的结构》�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Whiggism]]"
   - "[[Subjectivism]]"
+  - "[[Commensuration]]"
   - "[[Constructivist Paradigm]]"
   - "[[Falsification]]"
   - "[[Dialogue in Education]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Thomas Kuhn
@@ -99,7 +100,7 @@ updated: 2026-09-17
 >   - **代表著作** *The Structure of Scientific Revolutions* (1962, 1970 增订版)。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011)]]
 >   - **关键概念／方法** [[Paradigm|范式]]、常规科学、[[Incommensurability|不可通约性]]、科学革命、解谜（Puzzle-Solving）。
 >   - **阶段转向** 终结逻辑实证主义对静态科学逻辑的垄断，将科学重构为共同体规范约束下的历史活动。
-> - **1970s–1990s — 范式澄清、演化认识论与分类学深化期** 回应[[Subjectivism|主观主义]]与相对主义批评，探索范式不可通约性的语言学根基。
+> - **1970s–1990s — 范式澄清、演化认识论与分类学深化期** 回应[[Subjectivism|主观主义]]与相对主义批评，探索范式不可[[Commensuration|通约]]性的语言学根基。
 >   - **代表著作** *The Essential Tension* (1977), *The Road Since Structure* (2000)。
 >   - **关键概念／方法** 分类学不可通约性、学术传统张力、共同体理性价值。
 >   - **阶段转向** 强调跨范式沟通的翻译困难，澄清科学评价依然受广泛性、简单性与富有成果性等理性价值的规范。
@@ -121,7 +122,7 @@ updated: 2026-09-17
 >
 > *Scientific progress moves from normal science, through the accumulation of anomalies, to a state of crisis, culminating in a scientific revolution that establishes a new paradigm.*
 
-> [!citation-card] 范式不可通约性与共同体权威
+> [!citation-card] 范式不可[[Commensuration|通约]]性与共同体权威
 > 范式之间存在不可通约性（incommensurability）：由于缺乏中立且共同的标准与衡量尺度，研究者无法在两个竞争范式之间进行纯客观的换算；范式的有效性不仅取决于数据，还取决于其在权威学者群体中所受到的承认与尊重，揭示了科学探索同时具备深刻的社会与制度属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 >
 > *Paradigms are incommensurable: they have no common standard of measurement. The validity of a paradigm depends not only on evidence, but on its respect among authoritative practitioners.*
@@ -177,7 +178,7 @@ updated: 2026-09-17
 > > [!axis] [[Incommensurability|不可通约性]]的绝对绝缘 vs 跨范式[[Dialogue in Education|对话]]可能性
 > > 争论焦点在于不同范式之间是否彻底无法沟通。
 > >
-> > - **激进相对主义阵营** 主张不可通约性意味着跨范式评价完全不可能，各范式自给自足。
+> > - **激进相对主义阵营** 主张不可[[Commensuration|通约]]性意味着跨范式评价完全不可能，各范式自给自足。
 > > - **解释学与[[Critical Realism|批判实在论]]学者** 指出不可通约性不等于不可比较性（Incomparability），学者可通过视域融合与深层翻译进行跨范式[[Reflexivity|反思性]]对话。
 
 > [!warning] 适用局限

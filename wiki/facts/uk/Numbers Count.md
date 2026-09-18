@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,8 +34,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Business as Usual]]"
   - "[[Response to Proven Instruction]]"
-related_theories:
-  - "[[Luhmann's Systems Theory]]"
+related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Pre-test and Post-test]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Numbers Count
@@ -87,7 +86,7 @@ updated: 2026-09-17
 >   - **抽象算式符号的书写与口头原理解释**
 >   - **生活化数学情境应用**
 >   - **自我反思与当堂成就记录**
-> - **严苛的师资专业认证门槛** 专任教师须接受边山大学为期一整年的[[Luhmann's Systems Theory|系统理论]]研修、实地录像反思及国家导师进驻督导，获得特许资质方可执教。
+> - **严苛的师资专业认证门槛** 专任教师须接受边山大学为期一整年的系统理论研修、实地录像反思及国家导师进驻督导，获得特许资质方可执教。
 
 > [!citation-card] 斯莱文论 Numbers Count 专业教师一对一辅导的实证效能
 > 在初等数学领域的一对一个别辅导中，专业教师开展的方案成效显著。例如在英国一至二年级开展的 Numbers Count 辅导方案，在经过独立严格评估后取得了 +0.33 的学业[[Effect Size|效应量]]，完全达到了《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）的强[[Evidence Standards|证据标准]]。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 28)]]

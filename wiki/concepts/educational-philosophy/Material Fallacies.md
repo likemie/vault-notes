@@ -5,7 +5,7 @@ aliases:
 summary: "逻辑学中因误解术语含义、适用范围或使用方式而产生的推理错误，用于分析政策和研究话语中的证据误用现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,7 +15,6 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Document]]"
-  - "[[Visible Learning]]"
   - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -30,7 +29,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-06'
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -53,7 +52,7 @@ updated: 2026-09-11
 
 
 > [!abstract] 术语的跨语境误用
-> 当研究术语的原始定义与其政策使用之间存在断裂时，即构成实质谬误。Hattie [[Visible Learning|VL]] 中"教学质量"的[[Meta-analysis|元分析]]证据全部来自大学生评教，但被 Treasury 直接应用于论证增加中小学[[Class Size|班级规模]]的政策合理性（ONeill, 2012, pp.154-155）
+> 当研究术语的原始定义与其政策使用之间存在断裂时，即构成实质谬误。Hattie VL 中"教学质量"的[[Meta-analysis|元分析]]证据全部来自大学生评教，但被 Treasury 直接应用于论证增加中小学[[Class Size|班级规模]]的政策合理性（ONeill, 2012, pp.154-155）
 
 ## 与相关概念的区别
 

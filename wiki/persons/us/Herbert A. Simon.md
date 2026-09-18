@@ -8,7 +8,7 @@ summary: "美国政治学家、经济学家和认知科学家，有限理性理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemology]]"
 related_theories:
   - "[[Bounded Rationality]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -36,7 +35,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 ## 简介
 
@@ -75,4 +74,4 @@ updated: 2026-09-11
 
 > [!note-] 思想发展与影响
 > - [[Bounded Rationality|有限理性]]理论深刻影响了经济学（行为经济学）、管理学（组织决策理论）、心理学（认知心理学）和计算机科学（人工智能）
-> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]将有限理性引入教育研究，作为理解教学实践的[[Epistemology|认识论]]基础——与 Luhmann 的[[Luhmann's Systems Theory|系统理论]]并置
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]将有限理性引入教育研究，作为理解教学实践的[[Epistemology|认识论]]基础——与 Luhmann 的系统理论并置

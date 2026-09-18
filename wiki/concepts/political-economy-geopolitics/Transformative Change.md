@@ -10,7 +10,7 @@ aliases:
 summary: "Schot and Steinmueller（2018）提出的第三个创新政策范式，认为创新系统范式在面对气候变化等棘手问题时过于被动，政策应从修复系统失灵升级为主动推动方向性变革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Systems of Innovation]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Probes]]"
 related_persons: []
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-09-18
 ---
 
 # Transformative Change
@@ -94,7 +93,7 @@ updated: 2026-05-27
 ## 理论基础
 
 > [!tip]-
-> - [[Systems of Innovation]] — 变革转型[[Paradigm|范式]]建立在创新[[Luhmann's Systems Theory|系统理论]]之上，但批判其"过于被动"。两者共享"创新是多行动者系统行为"的核心立场，但在政策导向（修复 vs 引导）上分道
+> - [[Systems of Innovation]] — 变革转型[[Paradigm|范式]]建立在创新系统理论之上，但批判其"过于被动"。两者共享"创新是多行动者系统行为"的核心立场，但在政策导向（修复 vs 引导）上分道
 > - 使命导向型创新政策（Mazzucato, 2018）——与变革转型范式高度共鸣，主张政府应设定宏大的使命（如登月计划）来引导创新方向
 > - 转型管理理论（Transition Management）——与变革转型共享对长期系统变革、多方治理和实验学习的关注
 

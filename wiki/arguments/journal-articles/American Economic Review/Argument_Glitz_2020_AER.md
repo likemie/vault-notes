@@ -37,6 +37,7 @@ related_methods:
   - "[[Perpetual Inventory Method]]"
   - "[[Shift-Share Instrument]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Ordinary Least Squares]]"
   - "[[Standard Error]]"
 related_persons: []
 related_facts: []
@@ -53,7 +54,7 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -182,7 +183,7 @@ issuing_organization: ""
 ### 论证步骤一：识别策略——从面板固定效应到工具变量
 
 > [!claim] 步骤一主张
-> 面板[[Fixed-Effect and Random-Effects Models|固定效应模型]]的 OLS 估计可能因遗漏[[Variable|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity|TFP]] 差距缩小的因果效应。
+> 面板[[Fixed-Effect and Random-Effects Models|固定效应模型]]的 [[Ordinary Least Squares|OLS]] 估计可能因遗漏[[Variable|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity|TFP]] 差距缩小的因果效应。
 
 > [!chain-link] 证据到判断
 > - **基线 OLS 结果** 在控制行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入变量的系数为 −0.052（p=0.011），即一年标准差的额外情报流入（1.40 条/百万欧元产出）使 log TFP 差距缩小 7.3 个百分点（pp.1078–1079）。
@@ -276,7 +277,7 @@ issuing_organization: ""
 > 4. **极高净回报** 间谍的年度收益（约 101 亿欧元）远超运营成本（约 1,100 万欧元），且在高科技行业中发挥了几乎不可替代的技术追赶功能。（pp.1098–1099, Figure 7）
 
 > [!stat-cards]- 核心数据
-> - **−0.052** 基线 OLS 估计系数（p=0.011）。（p.1078, Table 2）
+> - **−0.052** 基线 [[Ordinary Least Squares|OLS]] 估计系数（p=0.011）。（p.1078, Table 2）
 > - **189,725** SIRA 数据库记录的情报总数。（p.1061）
 > - **2,968** 识别出的线人数量。（p.1062）
 > - **13.3%** 无间谍情景下 TFP 比率的降幅。（p.1097）

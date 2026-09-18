@@ -3,7 +3,7 @@ title: Bertrand Russell
 aliases:
   - Russell, B.
   - 伯特兰·罗素
-summary: 英国哲学家、逻辑学家与数学家，分析哲学奠基人之一，以《数学原理》《西方哲学史》等巨著深刻影响 20 世纪哲学与公共文化，1950 年获诺贝尔文学奖
+summary: "英国哲学家、逻辑学家与数学家，分析哲学奠基人之一，以《数学原理》《西方哲学史》等巨著深刻影响 20 世纪哲学与公共文化，1950 年获诺贝尔文学奖"
 type: person
 nationality: uk
 person_region: "uk"

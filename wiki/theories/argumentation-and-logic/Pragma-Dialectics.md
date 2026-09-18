@@ -9,7 +9,7 @@ aliases:
 summary: "van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准"
 type: theory
 theory_field: "argumentation-and-logic"
-theory_related_count: 12
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
-related_theories:
-  - "[[Luhmann's Systems Theory]]"
+related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Pragma-Dialectics
@@ -118,7 +117,7 @@ updated: 2026-09-17
 > - **1984 — 理论奠基** van Eemeren & Grootendorst 出版 *Speech Acts in Argumentative Discussions*，将言语行为理论引入论证分析。
 > - **1992 — 谬误理论系统化** *Argumentation, Communication, and Fallacies* 出版，将传统谬误类型学重新解释为批判性讨论规则的违反（derailments）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 186)]]
 > - **2002 — 修辞维度整合** van Eemeren & Houtlosser 提出"战略运作"（strategic maneuvering）概念，将修辞学洞察纳入语用辩证框架。
-> - **2004 — [[Luhmann's Systems Theory|系统理论]]成型** *A Systematic Theory of Argumentation* 出版，综合理论的核心主张。
+> - **2004 — 系统理论成型** *A Systematic Theory of Argumentation* 出版，综合理论的核心主张。
 
 ---
 

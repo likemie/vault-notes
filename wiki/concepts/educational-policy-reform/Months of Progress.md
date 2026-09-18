@@ -7,7 +7,7 @@ aliases:
 summary: "英国教育捐赠基金会（EEF）教学与学习工具包创制的政策转译指标，将标准化效应量转换为学生额外的学业成长月数，虽降低了政策传播门槛，却因忽视认知非线性成长规律与研究方法学质量而广受因果学界批评。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[Attrition]]"
+  - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Months of Progress
@@ -139,7 +140,7 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 通俗化传播效率 vs 科学测量保真度
-> > 证据中介机构与因果方法学者之间围绕证据交付尺度的长期冲突。
+> > [[Educational Brokerage Agency|证据中介机构]]与因果方法学者之间围绕证据交付尺度的长期冲突。
 > >
 > > - **[[Education Endowment Foundation|EEF]] 工具包研发团队（Higgins et al., 2014）** 坚持认为普通中小学校长面临严重的专业统计认知门槛，直接抛出 Cohen's $d$ 会导致循证决策彻底受阻；月度进步指标提供了极其高效的跨干预横向沟通锚点。
 > > - **定量因果学者团队（[[Argument_Gorard_2020_ROE|Gorard et al., 2020]]; Baird & Pane, 2019）** 坚持认为通俗化不能以牺牲科学真实性为代价；简化的衍生隐喻掩盖了证据本身的脆弱性，诱发了对微弱效应项目的过度投资。

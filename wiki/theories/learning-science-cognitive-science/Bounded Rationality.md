@@ -5,7 +5,7 @@ aliases:
 summary: "解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 10
+theory_related_count: 9
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,8 +19,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
-related_theories:
-  - "[[Luhmann's Systems Theory]]"
+related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -32,7 +31,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 
 ## 核心主张
@@ -68,7 +67,7 @@ updated: 2026-09-11
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 有限理性理论虽然挑战了完全理性[[Hypothesis|假设]]，但仍在理性选择框架内运作——更激进的理论（如 Luhmann 的[[Luhmann's Systems Theory|系统理论]]、实践[[Epistemology|认识论]]）可能从根本上质疑"理性"作为理解专业实践的核心概念
+> - 有限理性理论虽然挑战了完全理性[[Hypothesis|假设]]，但仍在理性选择框架内运作——更激进的理论（如 Luhmann 的系统理论、实践[[Epistemology|认识论]]）可能从根本上质疑"理性"作为理解专业实践的核心概念
 
 ## 应用领域
 

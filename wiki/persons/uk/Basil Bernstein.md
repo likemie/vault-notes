@@ -9,7 +9,7 @@ summary: "英国当代教育社会学与社会语言学奠基理论家，开创�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Value Neutrality]]"
   - "[[Paradigm]]"
+  - "[[Commensuration]]"
   - "[[Critical Pedagogy]]"
   - "[[Attrition]]"
   - "[[Epistemology]]"
@@ -75,7 +76,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Basil Bernstein
@@ -148,7 +149,7 @@ updated: 2026-09-17
 >   - **[[Regulative and Instructional Discourse|规约性话语]]统摄教学性话语** 伯恩斯坦指出，任何教学话语（关于特定学科技能与知识内容的传授）都必然深嵌于更根本的规约性话语（关于道德秩序、社会关系、阶级身份与价值规范的话语）之中，不存在[[Value Neutrality|价值无涉]]的纯粹技术课程。[[Argument_McPhail_2023_JCS|McPhail et al., 2023, p. 111]]
 > - **[[Horizontal Knowledge Structure|横向知识结构]]与专门语言分裂（Horizontal Knowledge Structures）**
 >   - **纵向与横向知识结构对照** 自然科学多呈现等级性纵向知识结构，新理论通过层层吸收整合旧假说向上汇聚；人文社会科学则多呈现横向知识结构，由互不隶属的一系列专门语言、概念体系与特定发言者集合构成。[[Argument_Ball_2008_SR|Ball, 2008, p. 651]]
->   - **教育社会学的片段化诊断** 这一洞见精辟解释了为何教育社会学常年陷入派系林立、[[Paradigm|范式]]互不通约、追逐新潮黑话而难以累积公认核心定律的发展困境。
+>   - **教育社会学的片段化诊断** 这一洞见精辟解释了为何教育社会学常年陷入派系林立、[[Paradigm|范式]]互不[[Commensuration|通约]]、追逐新潮黑话而难以累积公认核心定律的发展困境。
 
 > [!citation-card] 伯恩斯坦论微观互动论的权力盲区与客观结构强制
 > 微观互动论过度沉溺于情境意义协商，严重遮蔽了权力强制机制。在现实世界的医生诊室、法庭乃至中小学校长室中，权力上位者具有压倒性的力量将其自身的[[Thomas Theorem|情境定义]]强加于弱势参与者。社会结构绝非仅仅是互动的副产品，其作为外在客观强力的事实不容抹杀。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 27; Bernstein, 1974]]

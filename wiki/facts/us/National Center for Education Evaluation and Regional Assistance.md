@@ -29,6 +29,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Evidence Standards]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Heterogeneity]]"
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
   - "[[Evaluator Independence]]"
@@ -39,7 +40,6 @@ related_concepts:
   - "[[Effective Sample Size]]"
   - "[[Evaluation Research]]"
   - "[[Class Size]]"
-  - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
   - "[[Scientific Method]]"
 related_theories:
@@ -100,7 +100,7 @@ updated: 2026-09-17
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **2002–2008 — 奠基与金标准确立期** ESRA 法案通过后设立 NCEE，启动[[What Works Clearinghouse|有效干预清算中心]]（WWC），明确将高质量[[Randomised Controlled Trials|随机对照试验]]（RCT）确立为识别因果有效性的黄金标准。2007 年资助并发布全美大规模教育软件现场实验（Dynarski et al., 2007），系统测试 16 款主流阅读与数学软件，首次在国家级评估中揭示了因果效应的高度情境异质性。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
+> - **2002–2008 — 奠基与金标准确立期** ESRA 法案通过后设立 NCEE，启动[[What Works Clearinghouse|有效干预清算中心]]（WWC），明确将高质量[[Randomised Controlled Trials|随机对照试验]]（RCT）确立为识别因果有效性的黄金标准。2007 年资助并发布全美大规模教育软件现场实验（Dynarski et al., 2007），系统测试 16 款主流阅读与数学软件，首次在国家级评估中揭示了因果效应的高度情境[[Heterogeneity|异质性]]。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
 > - **2009–2015 — 规模化扩张与分层证据驱动** 配合奥巴马政府《美国复苏与再投资法案》（ARRA）和争向顶峰（Race to the Top）计划，受托承担总规模达 14 亿美元的投资创新项目（i3）独立评价监督，全面确立分层因果证据审查体系。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
 > - **2016–至今 — 证据法典深化与英美跨国互鉴** 对接《每个学生都成功法案》（[[Every Student Succeeds Act|ESSA]]）四大证据层级要求，持续升级 WWC 评价手册至第 5 版；与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）共同构成全球教育现场因果评估的最大双引擎，其资助的试验构成了国际[[Evidence-Based Education|循证教育]][[Meta-analysis|元分析]]的基石。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
 
@@ -186,7 +186,7 @@ updated: 2026-09-17
 >
 > | 研究 | 样本与评估对象 | 研究设计 | 核心指标与产出 | 原始统计结果 | 显著性或不确定性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Dynarski et al. (2007)（见 [[Argument_Serpell_2020_EP\|Serpell, 2020, p. 42]]） | 全美 33 个学区 132 所学校各年级课堂（评估 16 款阅读与数学教学软件产品） | 全国多中心整群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT） | 阅读与数学标准化统考测验成绩、[[Class Size\|班级规模]]与师生比 | 软件实验组与对照组之间总体学业成就未显现显著差异；但部分学校表现出正向效应，另一些学校表现出负向效果 | 整体主效应  > .05$ 不显著；呈现极强情境[[Heterogeneity\|异质性]] | 证实即使实施严格的 RCT，“什么有效”也始终受制于组织情境与实施条件，政策不可搞一刀切 |
+> | Dynarski et al. (2007)（见 [[Argument_Serpell_2020_EP\|Serpell, 2020, p. 42]]） | 全美 33 个学区 132 所学校各年级课堂（评估 16 款阅读与数学教学软件产品） | 全国多中心整群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT） | 阅读与数学标准化统考测验成绩、[[Class Size\|班级规模]]与师生比 | 软件实验组与对照组之间总体[[Academic Achievement\|学业成就]]未显现显著差异；但部分学校表现出正向效应，另一些学校表现出负向效果 | 整体主效应  > .05$ 不显著；呈现极强情境[[Heterogeneity\|异质性]] | 证实即使实施严格的 RCT，“什么有效”也始终受制于组织情境与实施条件，政策不可搞一刀切 |
 > | Lortie-Forgues & Inglis (2019)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | NCEE 与 EEF 联合资助的 141 项大规模教育 RCT（受试学童 $N = 1,222,024$） | 跨机构[[Meta-analysis\|元分析]]与试验质量复审 | 平均[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]宽度 | 平均效应量 $ES = +0.06\text{ SD}$；平均 95% 置信区间宽度达 $0.30\text{ SD}$ | 多数试验置信区间包含 0 | 说明早期大规模现场试验统计精度不足，促使两机构扩大样本并升级质控规程 |
 > | Boulay et al. (2018)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 50]]） | NCEE 审阅的 65 项 i3 独立评估项目（含 19 项发展类项目） | 联邦竞争性资助评估审查 | 独立评估比例与 [[What Works Clearinghouse\|WWC]] 最高标准达标率 | 97% 报告声称独立评估；仅 68%（13/19 项）达到 WWC 最高无保留标准 | — | 揭示自选自聘评估模式下存在向准实验（[[Quasi-Experimental Designs\|QED]]）退化与[[Attrition\|流失]]率偏高的制度弊端 |
 > | Balu et al. (2015)（见 [[Argument_Slavin_2019_EP\|Slavin, 2019, p. 23]]） | 全美 13 个州 146 所小学 1–3 年级干预响应模型（[[Response to Intervention\|RTI]]）全样本学生 | 跨州多中心[[Regression Discontinuity Design\|断点回归]]（RDD）与对比评估 | 早期阅读补救干预对后进生[[Academic Achievement\|学业表现]]的影响 | 传统 RTI 实施未产生显著正面效果，部分层级出现负向效应 | 统计上无显著正向收益 | 证实单纯依赖未经验证的零散补救练习难以见效，呼吁转向成熟实证教学方案 |

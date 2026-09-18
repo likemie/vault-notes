@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
   - theme/evidence-based-education
   - method/database
 related_concepts:
+  - "[[Data Infrastructure]]"
   - "[[Variable]]"
   - "[[Class Size]]"
   - "[[Causality]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # National Pupil Database
@@ -64,7 +65,7 @@ updated: 2026-09-17
 ## 基础设施定位与宗旨
 
 > [!claim] 核心定位
-> 英格兰国家学生数据库（National Pupil Database，NPD）是由英国教育部（Department for Education，DfE）设立并统筹运营的国家级全样本行政微观人口数据库。该数据库整合了英格兰所有受公共财政资助的学校中 3 至 19 岁儿童与青少年的标准化统考成绩、出勤表现、人口统计特征及升学轨迹，构成了英国教育因果评估、循证改革研究及教育公平问责不可或缺的核心数据基础设施（FFT Education Datalab, 2018；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 52–54]]）。
+> 英格兰国家学生数据库（National Pupil Database，NPD）是由英国教育部（Department for Education，DfE）设立并统筹运营的国家级全样本行政微观人口数据库。该数据库整合了英格兰所有受公共财政资助的学校中 3 至 19 岁儿童与青少年的标准化统考成绩、出勤表现、人口统计特征及升学轨迹，构成了英国教育因果评估、循证改革研究及教育公平问责不可或缺的核心[[Data Infrastructure|数据基础设施]]（FFT Education Datalab, 2018；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 52–54]]）。
 
 > [!org-context] 数据库背景与技术规格
 > - **建设发起方 / 主管部门** 英国教育部。受《教育法》及国家人口普查法例授权，享有对全英公立学校在读学童行政数据的法定汇交权。

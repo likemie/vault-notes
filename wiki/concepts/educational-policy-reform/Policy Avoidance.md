@@ -6,7 +6,7 @@ aliases:
 summary: "大众媒体与公共舆论在极力夸大教育危机的同时，系统性回避对执政者推出的激进改革方案、因果机制与实证证据展开实质审视的媒介异化现象"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Michael Gove]]"
   - "[[Paul Morris]]"
 related_facts:
   - "[[PISA]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 # Policy Avoidance
@@ -65,7 +66,7 @@ updated: 2026-09-15
 > [!citation-card] 政策规避与第四权力的失职
 > Grey & Morris 深刻剖析了媒体在 [[PISA]] 狂欢中陷入政策规避的实质：
 > 
-> 迈克尔·戈夫的政策议程通过‘默认’得到了强化，因为他的方案既未遭到质疑与反驳，但也未受到积极支持。‘政策规避’最贴切地描述了媒体对其拟议改革细节的极度匮乏的审视；在这个意义上，媒体通过监督当权者行为以向公众负责的民主‘第四权力’角色实际上完全缺席，因为他们将全部精力聚焦于建构与本质化一场教育危机。（[[Argument_Grey_2018_CE|Grey & Morris, 2018, p. 125]]）
+> [[Michael Gove|迈克尔·戈夫]]的政策议程通过‘默认’得到了强化，因为他的方案既未遭到质疑与反驳，但也未受到积极支持。‘政策规避’最贴切地描述了媒体对其拟议改革细节的极度匮乏的审视；在这个意义上，媒体通过监督当权者行为以向公众负责的民主‘第四权力’角色实际上完全缺席，因为他们将全部精力聚焦于建构与本质化一场教育危机。（[[Argument_Grey_2018_CE|Grey & Morris, 2018, p. 125]]）
 > 
 > *Michael Gove's policy agenda was reinforced by default in the sense that it was neither contested nor challenged; but it was not actively supported either. 'Policy avoidance' might best describe the lack of engagement over the details of his proposed reforms; and in this sense the media's democratic role in scrutinising the actions of the powerful was effectively absent as they focused on constructing and essentialising an educational crisis.*
 
@@ -106,7 +107,7 @@ updated: 2026-09-15
 > 探讨大众传媒在面对权力话语时，如何通过对方案细节的集体回避，反向赋权执政精英强推争议性法案。
 
 > [!claim] Grey & Morris
-> **默认许可与争议政策通关** 在英国 2013 年应对 [[PISA]] 的过程中，教育大臣戈夫借危机宣布了包括强制学院化、[[Performance Pay|绩效工资]]制在内的五大改革支柱；主流媒体在接下来的报道周期中，几乎没有任何一家对这些支柱是否具有实证支持展开追查，也没有揭露其政策取向与 [[OECD]] 倡导建议之间的南辕北辙；媒体的政策规避使得这一套原本在教育界饱受争议的新自由主义重组方案，在公众舆论中如同未经审议的既成事实一般顺利确立。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 124–125)]]
+> **默认许可与争议政策通关** 在英国 2013 年应对 [[PISA]] 的过程中，教育大臣[[Michael Gove|戈夫]]借危机宣布了包括强制学院化、[[Performance Pay|绩效工资]]制在内的五大改革支柱；主流媒体在接下来的报道周期中，几乎没有任何一家对这些支柱是否具有实证支持展开追查，也没有揭露其政策取向与 [[OECD]] 倡导建议之间的南辕北辙；媒体的政策规避使得这一套原本在教育界饱受争议的新自由主义重组方案，在公众舆论中如同未经审议的既成事实一般顺利确立。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 124–125)]]
 
 ---
 
@@ -162,7 +163,7 @@ updated: 2026-09-15
 > | [[Moral Sidestep]] | Concept | 与政策规避相辅相成：政客在议会辩论中采用道德侧步，媒体在公共传播中配合政策规避。 |
 > | [[Evidence-Based Education]] | Concept | 政策规避直接阻断了严谨实证研究证据进入公共决策[[Dialogue in Education\|对话]]的通道。 |
 > | [[Chain of Evidence]] | Concept | 政策规避所刻意剪断的核心分析环节：政府举措与问题诊断之间缺乏因果证据链。 |
-> | [[Ofsted]] | Fact (Organization) | 戈夫借政策规避强推“磨利督导之剑”与严苛问责，媒体对此缺乏实质批判。 |
+> | [[Ofsted]] | Fact (Organization) | [[Michael Gove\|戈夫]]借政策规避强推“磨利督导之剑”与严苛问责，媒体对此缺乏实质批判。 |
 > | [[Grammar School]] | Fact (Policy) | 英国议会与媒体在讨论中屡屡规避其加剧社会不平等的实证，转而借危机为其复兴造势。 |
 > | [[Paul Morris]] | Person | 首次命名并深刻论证教育公共治理中“政策规避”现象的核心学者。 |
 > | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 提出政策规避概念并以英格兰应对 [[PISA]] 2012 为个案展开深度实证剖析的奠基[[Document\|文献]]。 |

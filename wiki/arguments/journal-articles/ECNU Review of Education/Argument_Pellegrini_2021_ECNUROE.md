@@ -10,7 +10,7 @@ title: "Argument_Pellegrini_2021_ECNUROE"
 argument_key: "Argument_Pellegrini_2021_ECNUROE"
 argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -49,9 +49,11 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[Azione LIM]]"
   - "[[EPPI-Centre]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Strategic School Improvement Fund]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Research Schools Network]]"
   - "[[Campbell Collaboration]]"
@@ -81,7 +83,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 欧洲教育政策中，[[Research Utilization|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 ESSA 式[[Evidence Standards|证据标准]] 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？(pp.25-28)
+> 欧洲教育政策中，[[Research Utilization|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 [[Every Student Succeeds Act|ESSA]] 式[[Evidence Standards|证据标准]] 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？(pp.25-28)
 
 这篇文章要解释的核心张力是：欧盟政策倡议 已经把证据知情政策和实践列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案(pp.35-37)。
 
@@ -107,7 +109,7 @@ citation_aliases:
 ### 第一步：欧洲已经出现证据使用的政策信号
 
 1. 教育决策中使用证据的主张并不是新近出现的口号。Davies and Hargreaves 在 1990 年代末已经提出教育项目和实践应以证据为基础，此后真实教育情境中的高质量项目评价逐渐增加(p.26)。
-2. 欧洲与美国的政策语言不同。ESSA 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和[[Mixed Methods Research|混合方法]]，欧盟文件也主要提供指导而非强制要求(pp.26-27)。
+2. 欧洲与美国的政策语言不同。[[Every Student Succeeds Act|ESSA]] 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和[[Mixed Methods Research|混合方法]]，欧盟文件也主要提供指导而非强制要求(pp.26-27)。
 3. 欧盟层面的政策进程 从 2006 年开始更清楚地成形。2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出证据本位政策与实践应成为教育和培训系统改革的驱动力(pp.28-29)。
 
 例子：[[Azione LIM]] 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和[[Systematic Review|系统综述]]显示其对成绩影响很小或不显著。这说明 技术导入政策 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习(p.27)。
@@ -116,7 +118,7 @@ citation_aliases:
 
 4. 2009 年 ET 2020 将进展监测与证据本位政策制定联系起来；同年欧盟发起[[Knowledge Mediation|知识中介]]网络提案，2010-2013 年 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 项目调查欧洲国家如何连接研究与政策(p.30)。
 5. EIPPEE 发现欧洲活动很多、路径多样，但跨欧洲层面的合作和协调较少；它建议加强研究证据与政策之间的联系、提升研究质量和可用性、扩展系统综述、建设研究生产到使用系统中的能力，并增加政治和财政承诺(p.30)。
-6. 2017 年 Eurydice 报告显示，多数国家已有官方安排和组织为政策制定提供证据，但安排差异很大，从法律规定到一般性咨询指南不等；英国在政策措施上走在前面，并通过 [[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、SSIF and TLIF 等机制推动[[Research Utilization|证据使用]](p.31)。
+6. 2017 年 Eurydice 报告显示，多数国家已有官方安排和组织为政策制定提供证据，但安排差异很大，从法律规定到一般性咨询指南不等；英国在政策措施上走在前面，并通过 [[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、[[Strategic School Improvement Fund|SSIF]] and TLIF 等机制推动[[Research Utilization|证据使用]](p.31)。
 
 例子：EEF 既生成新证据，也通过 [[EEF Teaching and Learning Toolkit|Teaching and Learning Toolkit]] and [[Research Schools Network]] 做 [[Knowledge Mobilisation|知识动员]]。这类组织不是单[[Blue Skies Research|纯研究]]机构，而是在研究、学校和政策之间承担翻译功能(pp.31-33)。
 
@@ -146,7 +148,7 @@ citation_aliases:
 > [!success] 主要发现
 > 1. 欧盟从 2006 年起逐步把[[Research Utilization|证据使用]]纳入教育和培训政策话语，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
 > 2. 欧洲的政策语言更偏向 evidence-informed 而非 evidence-based，这意味着证据来源更宽，政策文件更倾向指导成员国而非规定统一行动线(p.26)。
-> 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、SSIF and TLIF 等机制体现了研究生成、[[Knowledge Mediation|知识中介]]和政策资助之间的连接(pp.31-33)。
+> 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、[[Strategic School Improvement Fund|SSIF]] and TLIF 等机制体现了研究生成、[[Knowledge Mediation|知识中介]]和政策资助之间的连接(pp.31-33)。
 > 4. 欧洲证据使用面临[[External Validity|外部效度]]和可迁移性难题，尤其受 43 个教育系统、24 种官方语言和各国课程标准差异影响(p.36)。
 > 5. 欧洲教育支出总体接近 [[OECD]] 和美国平均水平，关键不是单纯提高总支出，而是面向成员国差异再平衡资源，并把投资导向研究、专业发展和支持工具(pp.37-39)。
 > 6. [[21st Century Skills and Competencies Discourse|关键能力]]课程改革使证据本位政策更复杂，因为多维能力的干预设计和效果评估比基础知识技能更难实现(pp.39-41)。

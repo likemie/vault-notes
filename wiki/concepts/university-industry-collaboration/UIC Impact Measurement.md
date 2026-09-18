@@ -8,7 +8,7 @@ aliases:
 summary: "Cohen、Fernandes and Godinho（2025）通过系统综述 92 篇文献提出的 UIC 影响测量综合框架，将 25 种产学合作影响归入智力、经济、技术、环境、社会和战略六种类型，并以主体、时间、发生方式和性质四个辅助维度交叉分类，同时识别四类测量挑战与七项应对策略"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,13 +30,14 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Case Study]]"
   - "[[Cohort Study]]"
+  - "[[Propensity Score Matching]]"
 related_persons: []
 related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-09-10
+updated: 2026-09-18
 ---
 
 # UIC Impact Measurement
@@ -148,7 +149,7 @@ Cohen 等人识别出四类系统性测量挑战（pp.362–363）：
 > 4. **影响管理系统** 在合作组织中嵌入识别、审查、执行和预判影响的管理流程（Fernandes & O'Sullivan, 2021）
 > 5. **数字与技术工具** 利用网络计量指标（altmetrics）[[Cohort Study|追踪研究]]在社交媒体和政策文件中的讨论（Bornmann, 2017）
 > 6. **多学科方法** 当技术创新同时产生正负影响时，引入伦理和道德维度的跨学科分析（Fini et al., 2018）
-> 7. **参数/非参数与质性方法** 使用工具[[Variable|变量]]、倾向得分匹配等计量方法处理因果归因，结合[[Counterfactual|反事实]]分析（Scandura, 2016; Lööf & Broström, 2008）
+> 7. **参数/非参数与质性方法** 使用工具[[Variable|变量]]、[[Propensity Score Matching|倾向得分匹配]]等计量方法处理因果归因，结合[[Counterfactual|反事实]]分析（Scandura, 2016; Lööf & Broström, 2008）
 
 > [!warning] 实证验证不足
 > 值得注意的是，持续监控、多学科方法和数字工具这三项策略在所分析的 92 篇研究中均未找到实证应用案例（p.364），表明当前讨论仍以规范性建议为主。

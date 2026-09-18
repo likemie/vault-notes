@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Grammar School]]"
   - "[[Education Endowment Foundation]]"
+  - "[[The Education Trust]]"
   - "[[Selective Schools Expansion Fund]]"
   - "[[Sutton Trust]]"
   - "[[OECD]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-07
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Ofsted
@@ -116,7 +117,7 @@ updated: 2026-09-16
 > [!pathways]- 业务运行机制
 > - **四级分类评价机制** 督导团队依据《[[School Inspection|教育督导]]框架》（Education Inspection Framework）开展现场评估，最终给出包含四个维度的单一综合定性：杰出（Outstanding）、良好（Good）、需要改进（Requires Improvement）与不足（Inadequate）。
 > - **突击检查与风险监测驱动** 运用教育部全国考绩数据库（ASP）进行算法化离线监控，触发对数据异常波动学校的短周期或不预先通知现场督导，以行政威慑迫使学校时刻处于应检状态。
-> - **分类处置与结构性惩戒传导** 获得“Outstanding”的学校长期享有免检特权与政策扩张奖励（如设立新校区）；评级为“Inadequate”的学校则立即触发法定干预令（Directive Academy Orders），直接导致领导班子被撤换与学校被私营教育信托（MATs）兼并托管。
+> - **分类处置与结构性惩戒传导** 获得“Outstanding”的学校长期享有免检特权与政策扩张奖励（如设立新校区）；评级为“Inadequate”的学校则立即触发法定干预令（Directive Academy Orders），直接导致领导班子被撤换与学校被私营[[The Education Trust|教育信托]]（MATs）兼并托管。
 
 ---
 

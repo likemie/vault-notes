@@ -42,13 +42,13 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Jurgen Schriewer 是德国比较教育学者和[[Luhmann's Systems Theory|系统理论]]家，以将 [[Niklas Luhmann]] 的社会系统理论引入比较教育研究而著称。他提出的"[[Externalization|外化]]"（externalization）概念已成为比较教育和政策转移研究的核心分析工具。
+> - **身份位置** Jurgen Schriewer 是德国比较教育学者和系统理论家，以将 [[Niklas Luhmann]] 的[[Luhmann's Systems Theory|社会系统理论]]引入比较教育研究而著称。他提出的"[[Externalization|外化]]"（externalization）概念已成为比较教育和政策转移研究的核心分析工具。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
 > - 德国教育学者，任职于柏林洪堡大学（Humboldt University of Berlin）比较教育中心
-> - 将 Luhmann [[Luhmann's Systems Theory|系统理论]]应用于比较教育方法论
+> - 将 Luhmann 系统理论应用于比较教育方法论
 
 ## 主要著作
 
@@ -83,7 +83,7 @@ updated: 2026-09-11
 
 > [!success] 主要贡献
 > - **[[Externalization|外化]]概念** — 比较教育和政策转移研究的核心分析工具
-> - **话语形成理论** — 将比较教育纳入更广泛的社会[[Luhmann's Systems Theory|系统理论]]框架
+> - **话语形成理论** — 将比较教育纳入更广泛的[[Luhmann's Systems Theory|社会系统理论]]框架
 > - **进化过程／语义建构的区分** — 为分析教育政策转移中的"情境"问题提供了方法论基础
 
 ## 思想发展与影响

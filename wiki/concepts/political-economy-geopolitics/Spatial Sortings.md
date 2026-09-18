@@ -6,7 +6,7 @@ aliases:
 summary: "知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[LISA Spatiotemporal Transition]]"
   - "[[Coupling Coordination Model]]"
+  - "[[Difference-in-Differences]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Sami Moisio]]"
@@ -46,7 +47,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -182,7 +183,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 > - **省级尺度的粗糙性**Fan 等（2024）的省级面板数据虽然提供了系统的量化证据，但掩盖了省内巨大的城乡和地市差异——空间分选最极端的赢家-输家分化可能恰恰发生在同一省份内部的核心城市与偏远县域之间，而省级平均数据无法捕捉这一尺度的分选机制（[[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al., 2024, p. 75]]）。
 
 > [!warning] 方法论层面
-> - **[[Coupling Coordination Model|耦合协调模型]]与 LISA 分析的[[Causality|因果性]]缺失** Fan 等（2024）使用的耦合协调度和 LISA 时空分析本质上是描述性综合评价工具——它们可以准确刻画空间分选的格局（谁赢、谁输、格局多稳定），但无法直接推断分选格局的驱动机制。高协调度可能由第三个共同因素（如整体经济发展水平）同时驱动，而非子系统之间的真实协同（[[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al., 2024, p. 74]]）。后续研究如能引入空间面板回归或空间 DID 设计，将有助于从描述推进到因果解释。
+> - **[[Coupling Coordination Model|耦合协调模型]]与 LISA 分析的[[Causality|因果性]]缺失** Fan 等（2024）使用的耦合协调度和 LISA 时空分析本质上是描述性综合评价工具——它们可以准确刻画空间分选的格局（谁赢、谁输、格局多稳定），但无法直接推断分选格局的驱动机制。高协调度可能由第三个共同因素（如整体经济发展水平）同时驱动，而非子系统之间的真实协同（[[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al., 2024, p. 74]]）。后续研究如能引入空间面板回归或空间 [[Difference-in-Differences|DID]] 设计，将有助于从描述推进到因果解释。
 
 ---
 

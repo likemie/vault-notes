@@ -7,7 +7,7 @@ aliases:
 summary: "产学联合体中由单个成员独立出资、建立在所有成员共享的前竞争知识之上但涉及企业专有信息的研究项目，前景知识产权归赞助企业所有，构成联合体的技术转化工具"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Foreground IP]]"
   - "[[Research Translation]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Assemblage]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-10
+updated: 2026-09-18
 ---
 
 # Product-Specific Research in University-Industry Consortia
@@ -50,7 +51,7 @@ updated: 2026-09-10
 > 基于 [[Advanced Manufacturing Research Centre|AMRC]] 的制度实践（pp.114–115）：
 
 1. **独立于联合体协议** 产品专项项目的协议单独建立和资助，不走联合体的会员年费资金池。这使得每个项目可以有自己的 IP 条款、交付物和保密要求
-2. **企业专有信息的注入** 产品专项研究的[[Necessary and Sufficient Conditions|必要条件]]是赞助企业提供自己的专有信息。[[Precompetitive Research|前竞争研究]]使用所有成员都有权使用的通用知识，产品专项研究则加入了只有赞助企业才知道的具体参数——例如特定型号涡轮发动机叶片的材料特性、工作温度和装配公差
+2. **企业专有信息的注入** 产品专项研究的[[Necessary and Sufficient Conditions|必要条件]]是赞助企业提供自己的专有信息。[[Precompetitive Research|前竞争研究]]使用所有成员都有权使用的通用知识，产品专项研究则加入了只有赞助企业才知道的具体参数——例如特定型号涡轮发动机叶片的材料特性、工作温度和[[Assemblage|装配]]公差
 3. **IP 归赞助企业** 产品专项研究产生的[[Foreground IP|前景知识产权]]归赞助企业所有。这是它与前竞争研究（IP 归大学、所有成员平等使用）最根本的制度区别
 4. **建立在共享知识池之上** 产品专项研究不脱离联合体的知识基础。它从前竞争轨道产生的共享知识开始，然后叠加企业的专有信息。两层之间的技术衔接是联合体价值的核心——联合体降低了所有成员的共同技术障碍，专项研究帮助每个成员建立自己的竞争优势
 

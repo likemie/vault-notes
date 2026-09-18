@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[Paradigm]]"
+  - "[[Assemblage]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Credential Inflation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-18
 ---
 
 # Mediterranean Regional Project
@@ -145,7 +146,7 @@ updated: 2026-09-12
 > > [!axis] 育人目的争鸣：国家经济机器配件 vs 公民自由觉醒
 > > 欧陆人文学者与社会民主主义批评家对 MRP 的功利主义取向提出尖锐道德质疑。
 > >
-> > - **批判教育史学界** 抨击 MRP 将学校彻底重构为西方工业资本装配线的前置加工车间，以冷酷的劳动力配额剥夺了学生的自由个性与[[Critical Thinking Disposition|批判精神]]。
+> > - **批判教育史学界** 抨击 MRP 将学校彻底重构为西方工业资本[[Assemblage|装配]]线的前置加工车间，以冷酷的劳动力配额剥夺了学生的自由个性与[[Critical Thinking Disposition|批判精神]]。
 > > - **现代化规划学派** 认为只有快速摆脱文盲与半封建经济依附，广大下层劳工子弟才能真正获得现代市民社会的生存尊严与阶层流动机会。
 
 > [!lessons] 经验教训与启示

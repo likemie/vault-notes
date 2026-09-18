@@ -34,6 +34,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Commensuration]]"
   - "[[Document]]"
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
@@ -78,7 +79,7 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -197,7 +198,7 @@ Castells 据此区分了两种空间逻辑：
 > OECD 通过 PISA 测试持续评估各国教育系统的表现。各国政府，尤其是排名不理想的国家，感到压力，需要证明自己在采取措施来改善教育。这使得 OECD 的教育政策建议（如能力导向的课程改革）获得了巨大的传播动力。OECD 的影响力又反过来强化了它在全球教育网络中的主导节点地位。这构成了一个操演性的正反馈循环。
 
 > [!theory-boundary] 操演性原则的负面边界
-> Lyotard (1984) 警告操演性原则渗透社会关系时会带来某种「恐怖」，表现为「要么可操作（即可通约），要么消失」(p.xxiv, 引自 p.352)。在全球教育政策空间中，这意味着机构如果不能持续证明其影响力，就面临被排除出网络的风险。
+> Lyotard (1984) 警告操演性原则渗透社会关系时会带来某种「恐怖」，表现为「要么可操作（即可[[Commensuration|通约]]），要么消失」(p.xxiv, 引自 p.352)。在全球教育政策空间中，这意味着机构如果不能持续证明其影响力，就面临被排除出网络的风险。
 
 ---
 
@@ -277,7 +278,7 @@ Castells 据此区分了两种空间逻辑：
 
 > [!tension] 全球教育网络权力逻辑的学术分歧
 > - **意识形态霸权论（新自由主义主导）** 既有[[Document|文献]]普遍将全球教育网络与新自由主义及亲市场改革绑定，认为其是由“华盛顿共识”和跨国资本驱动的同质性霸权空间(Robertson & Dale, 2006; Ball, 2007)。
-> - **竞争性多元网络（操演性政治主导）** Beech 指出，随着基础设施的普及，流动空间已演变为竞争性的、有争议的多元网络。在操演性与实用主义驱动下，行动者跨越意识形态进行临时合作(Castells, 2000b; Beech, 2009)。
+> - **竞争性多元网络（操演性政治主导）** Beech 指出，随着基础设施的普及，流动空间已演变为竞争性的、有争议的多元网络。在操演性与实用主义驱动下，行动者跨越意识形态进行临时合作(Castells, 2000b; [[Argument_Beech_2009_CE|Beech, 2009]])。
 
 > [!case] [[Education International]] 的悖论性联盟
 > Education International 是一个覆盖 172 个国家和地区的全球教师工会网络，拥有 401 个成员组织。它的公开修辞强调保护和促进公共免费教育及机会平等，总体持反新自由主义立场。然而，它的全球合作伙伴名单中包括了 IMF 和世界银行，这两个通常被认为是亲市场改革典范的机构(www.ei-ie.org)。

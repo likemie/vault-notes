@@ -43,8 +43,8 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Methodological Nationalism]]"
 related_theories:
-  - "[[Luhmann's Systems Theory]]"
   - "[[World Society Theory]]"
+  - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -137,7 +137,7 @@ updated: 2026-09-12
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 颠覆了传统比较教育中视借用为理性方案移植的[[Hypothesis|假设]]，与[[Niklas Luhmann|卢曼]]的[[Luhmann's Systems Theory|系统理论]]及外在化概念相结合，构建起以本土政治需要为驱动的借用理论；进而开辟[[Governing by Numbers|数字治理]] 2.0 与[[Policy Brokerage|政策中介]]理论。
+> - **理论路径** 颠覆了传统比较教育中视借用为理性方案移植的[[Hypothesis|假设]]，与[[Niklas Luhmann|卢曼]]的系统理论及外在化概念相结合，构建起以本土政治需要为驱动的借用理论；进而开辟[[Governing by Numbers|数字治理]] 2.0 与[[Policy Brokerage|政策中介]]理论。
 > - **方法路径** 倡导两项关键方法创新：一是应用社会[[Network Analysis|网络分析]]识别政策经纪人（Policy Brokers）的节点权力；二是率先推行口述史（Oral History）方法以抢救学者个案与制度记忆；三是践行[[Methodological Transnationalism|方法论跨国主义]]解构全球/国家联结。
 > - **[[Concept Mapping|概念地图]]建构** 其关于借用动机与行动者的论述，被 Jeremy Rappleye (2006) 采纳为比较教育概念地图中[[Pre-Transfer Agency|前转移能动性]]的核心基石。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 224–227)]]
 > - **经验政策研究** 深刻启发了对东欧、中亚转型国家、北欧国家以及东亚地区[[Policy Borrowing|政策借用]]与[[Going Native|本土化]]抵制的经验实证分析。

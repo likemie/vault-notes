@@ -11,7 +11,7 @@ title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Questionnaire]]"
   - "[[Cohort Study]]"
+  - "[[Propensity Score Matching]]"
   - "[[Matching]]"
   - "[[Systematic Review]]"
 related_persons: []
@@ -368,7 +369,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 > 
 > **量化反事实方法**
 > - **工具[[Variable|变量]]估计（instrumental variables）** 寻找一个影响是否参与 UIC、但不直接影响结果的第三方变量，以此分离 UIC 的净效应
-> - **倾向得分匹配（propensity score [[Matching]]）** 为每个参与 UIC 的企业匹配一个"如果不参与合作应该跟它差不多"的对照组企业，比较两组的差异作为 UIC 影响的估计值(Lööf & Broström, 2008)
+> - **[[Propensity Score Matching|倾向得分匹配]]（propensity score [[Matching]]）** 为每个参与 UIC 的企业匹配一个"如果不参与合作应该跟它差不多"的对照组企业，比较两组的差异作为 UIC 影响的估计值(Lööf & Broström, 2008)
 > - **回归模型与对照组比较**Scandura(2016)使用企业层面的面板数据，比较参与合作的企业组与未参与的对照组在多期中的表现差异
 > 
 > 这些方法的共同前提是匹配估计量（matching estimators）要求条件独立假设——即控制了可观测特征后，是否参与 UIC 与潜在结果无关。这一假设在现实中的有效性始终存疑，但它是目前文献中可操作的最佳近似方案(Scandura, 2016)。

@@ -7,7 +7,7 @@ summary: "加拿大教育领导力学者，证据知情实践与知识动员研�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,10 +35,11 @@ related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
 related_facts:
   - "[[Knowledge Network for Applied Education Research]]"
+  - "[[American Educational Research Association]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 ## 简介
 
@@ -74,7 +75,7 @@ updated: 2026-09-11
 > [!abstract] 主要著作
 > - [[Julie Nelson|Nelson, J.]], & Campbell, C. (2017). *[[Evidence-Informed Practice]] in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统整合 [[Evidence-Informed Practice|EIP]] 的定义、应用和测量问题。
 > - Campbell, C. (2016). *Supporting teachers as a profession of knowledge developers and mobilisers*. Education Today, 66(2), 5–20. — 强调教师专业不只是使用知识，也要发展与动员知识。
-> - Campbell, C. (2014). *Q&A with Carol Campbell*. Lead the Change, Series 41. AERA Educational Change SIG. — 展示安大略系统改革中的研究与评估战略。
+> - Campbell, C. (2014). *Q&A with Carol Campbell*. Lead the Change, Series 41. [[American Educational Research Association|AERA]] Educational Change SIG. — 展示安大略系统改革中的研究与评估战略。
 
 ## 生平与职涯
 

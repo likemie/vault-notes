@@ -6,7 +6,7 @@ aliases:
 summary: "以多主体网络协作、关系协调和分布式控制替代单一科层或市场机制的治理方式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,10 +44,12 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Network Governance
@@ -95,7 +97,7 @@ updated: 2026-09-16
 
 **i. Ngāi Tahu MoU（2001）** 教育部长 Trevor Mallard and Parekura Horomia and Te Rūnanga o Ngāi Tahu 签署教育发展合作谅解备忘录，被 iwi 视为支撑其 Vision 2025 教育愿景的"关键文件"。目前教育部已为全国 60+ rohe 发布 iwi 教育概况以促进 iwi 特定教育计划的发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.8]])
 
-**ii. asTTle / e-asTTle 商业化** 2000 年代初由奥克兰大学开发、教育部公费资助。目前 e-asTTle 专业发展支持已合同外包给私营公司 Evaluation Associates Ltd。2015 年底教育部通过 GETS 发布 RFP 寻找投资伙伴出资 USD 4–8M"现代化"e-asTTle——教育部永留新西兰学校使用权，投资伙伴有权向学校收费并开发国际版本在海外销售([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.8–9]])
+**ii. [[Assessment Tools for Teaching and Learning|asTTle]] / e-asTTle 商业化** 2000 年代初由奥克兰大学开发、教育部公费资助。目前 e-asTTle 专业发展支持已合同外包给私营公司 Evaluation Associates Ltd。2015 年底教育部通过 GETS 发布 RFP 寻找投资伙伴出资 USD 4–8M"现代化"e-asTTle——教育部永留新西兰学校使用权，投资伙伴有权向学校收费并开发国际版本在海外销售([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.8–9]])
 
 **iii. [[Manaiakalani Education Trust]]（2011）** 源自 EHSAS 技术增强型扫盲计划，Manaiakalani Education Trust 以四名教育者/非教育者受托人混合结构成立，获 ASB Community Trust（后 [[Foundation North Māori and Pasifika Education Initiative|Foundation North]]）和 Spark Foundation 创始赞助（2012）。至 2015 年获 NEXT Foundation 资助通过 Manaiakalani Outreach 将技术增强学习模式在全国规模化，另获 Samsung Electronics 资助。家庭和学校承担参与 Outreach 方案的运营成本([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.9]])。详见 [[Manaiakalani Education Trust]]
 

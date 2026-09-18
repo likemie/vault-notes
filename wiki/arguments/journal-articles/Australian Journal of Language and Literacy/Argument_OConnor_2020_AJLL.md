@@ -75,7 +75,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question] Question
-> [[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《[[Visible Learning|VL]]》（Visible Learning, VL）中，对[[Whole Language|全语言]]（Whole Language）教学效果的评估是否在科学上可信？基于聚合[[Meta-analysis|元分析]]（Meta-analysis）与[[Meta-meta-analysis|元元分析]]（Meta-meta-analysis）的[[Effect Size|效应量]]（Effect Size）来制定教学实践和公共政策是否具有合法性？(p.142)
+> [[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《VL》（[[Visible Learning]], VL）中，对[[Whole Language|全语言]]（Whole Language）教学效果的评估是否在科学上可信？基于聚合[[Meta-analysis|元分析]]（Meta-analysis）与[[Meta-meta-analysis|元元分析]]（Meta-meta-analysis）的[[Effect Size|效应量]]（Effect Size）来制定教学实践和公共政策是否具有合法性？(p.142)
 
 > [!claim] 核心主张
 > 哈蒂对全语言教学的极低评估（d = 0.06）并不是由科学数据客观推导出来的，而是受其对[[Constructivist Paradigm|建构主义范式]]的先验偏见驱动的、存在严重方法论缺陷的数据操纵结果。以《VL》的单一效应量来指导教学实践是愚蠢的，以此作为制定公共政策的决策基础则是极其不负责任的 (p.149)。
@@ -98,7 +98,7 @@ citation_aliases:
 > | **元分析与元元分析**<br>[[Meta-analysis]] / [[Meta-meta-analysis]] | [[Gene Glass\|吉恩·格拉斯]]（Gene Glass）提出的统计合成法。本研究通过其局限性（如汉斯·艾森克 (Hans J. Eysenck) 的“垃圾输入，垃圾输出”及罗伯特·波森 (Robert Pawson) 的简化论批判）解构[[Effect Size\|效应量]]排名的客观性假象 (p.143)。 |
 
 > [!warrant]- 理论如何支撑论证
-> 作者以读写的社会文化观为立足点，将[[John Hattie|哈蒂]]的《[[Visible Learning|VL]]》置于新自由主义[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM）的政治历史脉络中。通过古德曼对全语言的核心定义，作者能够逐一检验哈蒂在元分析筛选中所依据的“概念分类”是否符合该教学法的本质，从而论证其数据输入与修正过程的主观偏见。
+> 作者以读写的社会文化观为立足点，将[[John Hattie|哈蒂]]的《VL》置于新自由主义[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM）的政治历史脉络中。通过古德曼对全语言的核心定义，作者能够逐一检验哈蒂在元分析筛选中所依据的“概念分类”是否符合该教学法的本质，从而论证其数据输入与修正过程的主观偏见。
 
 ---
 
@@ -155,7 +155,7 @@ citation_aliases:
 > 哈蒂在计算全语言效应量时，直接引入了将全语言与早期“[[Language Experience Approach|语言经验法]]”（LEA）混为一谈的元分析，导致底层数据存在严重的分类错误与时代错误 (p.144)。
 
 > [!critique-method] [[Steven Stahl|斯塔尔]]与米勒的分类混淆 (Stahl & Miller, 1989)
-> [[Steven Stahl|史蒂芬·斯塔尔（Steven Stahl）]]与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。[[Steven Stahl|斯塔尔]]本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的[[Document|文献]] (p.145)。但哈蒂在 15 年后出版《[[Visible Learning|VL]]》时，依然对此分类漏洞未加任何纠正与说明。
+> [[Steven Stahl|史蒂芬·斯塔尔（Steven Stahl）]]与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。[[Steven Stahl|斯塔尔]]本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的[[Document|文献]] (p.145)。但哈蒂在 15 年后出版《VL》时，依然对此分类漏洞未加任何纠正与说明。
 
 > [!case] Case 1: Brazziel & Terrell (1962) 行为主义“假全语言”研究
 > 该研究仅针对田纳西州 26 名低收入非裔一年级学生，其实验干预是为期 6 周的“家长-教师合作”，并让儿童阅读传统的“阅读准备教材” (readiness readers) 以训练感知、词汇和服从指令 (p.144)。
@@ -226,7 +226,7 @@ citation_aliases:
 > 哈蒂将复杂的教育过程简化为单一效应量排名，并将学生进步视为可精确按月测量的增量，迎合了由帕西·萨尔伯格（Pasi Sahlberg）识别的“全球教育改革运动”（Global Education Reform Movement, GERM）对标准化问责、技术控制与教育工业化输出的诉求 (p.149)。其宣称[[Class Size|班级规模]]和学校基建投资为“政治干扰”的论调，为新自由主义政府削减教育经费提供了完美的实证借口 (p.150)。
 
 > [!case] 维多利亚州 DET 政策与商业品牌的共谋
-> 澳大利亚维多利亚州教育部（Department of Education and Training Victoria, DET Victoria）强制要求公立学校教师执行 10 项“高影响教学策略”（[[Victorian HITS and Literacy Toolkit|HITS]]），首要参考文献均指向哈蒂的《VL》。同时，官方 Literacy Toolkit 深度引用了由 Corwin 公司出版的《VL读写教学》，而 Corwin 正是“Visible Learning plus”这一商业培训品牌的实际拥有者 (p.141)。这展示了存在严重方法论瑕疵的数据如何被包装为客观真理，并通过政策与商业共谋，剥夺了教师的教学自主权与专业权。
+> 澳大利亚维多利亚州教育部（Department of Education and Training Victoria, DET Victoria）强制要求公立学校教师执行 10 项“高影响教学策略”（[[Victorian HITS and Literacy Toolkit|HITS]]），首要参考文献均指向哈蒂的《VL》。同时，官方 Literacy Toolkit 深度引用了由 Corwin 公司出版的《VL读写教学》，而 Corwin 正是“[[Visible Learning]] plus”这一商业培训品牌的实际拥有者 (p.141)。这展示了存在严重方法论瑕疵的数据如何被包装为客观真理，并通过政策与商业共谋，剥夺了教师的教学自主权与专业权。
 
 > [!warrant]- 最终推理桥梁
 > 哈蒂的《VL》之所以获得现象级成功，不仅因为其提供了极简的效应量排名，更因为其背后的“故事”完美契合了新自由主义的[[Technical Rationality|技术理性]]治理逻辑。这种宏观数字狂热在抹杀读写教育的社会文化多样性的同时，通过与商业机构的合作，强行压制了一线教师的专业反思权。
@@ -238,7 +238,7 @@ citation_aliases:
 > [!finding-cards] 核心发现
 > 1. **有缺陷的数据输入** [[John Hattie|哈蒂]]通过对 4 项高度分化的[[Meta-analysis|元分析]]进行不加权算的算术平均，得出了[[Whole Language|全语言]][[Effect Size|效应量]]为 d = 0.06 的结论。然而，其中 [[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller, 1989）存在将早期[[Language Experience Approach|语言经验法]]混同于全语言的分类与时代错误 (pp.144-145)。
 > 2. **非对称的数据审查** 哈蒂对极端负面值且计算存在多处反转错误的 [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）元分析（d = -0.65）未做任何审查即予以采纳；却唯独对显示正面效应的 Gee (1995) 元分析（d = 0.65）进行人工干预，删除三项研究并强行将其清零 (pp.145-148)。
-> 3. **意识形态与偏见驱动** 哈蒂在《[[Visible Learning|VL]]》中对[[Constructivist Paradigm|建构主义]]、[[Jean-Jacques Rousseau|卢梭]]（Jean-Jacques Rousseau）式方法及“教师作为便利者”表达了明确的敌意，极度偏爱[[Direct Instruction|直接教学]]与系统拼读。这种先验偏见直接导致其[[Winnowing|数据筛选]]标准的不对称 (pp.147-150)。
+> 3. **意识形态与偏见驱动** 哈蒂在《VL》中对[[Constructivist Paradigm|建构主义]]、[[Jean-Jacques Rousseau|卢梭]]（Jean-Jacques Rousseau）式方法及“教师作为便利者”表达了明确的敌意，极度偏爱[[Direct Instruction|直接教学]]与系统拼读。这种先验偏见直接导致其[[Winnowing|数据筛选]]标准的不对称 (pp.147-150)。
 > 4. **宏观数据对公共政策的绑架** 维多利亚州教育部将《VL》作为 [[Victorian HITS and Literacy Toolkit|HITS]] 和读写工具箱的首要实证参考，展示了这一存在方法论瑕疵的伪科学论证如何通过商业共谋，深度影响并约束了教师的教学专业自主权 (p.141)。
 
 > [!stat-cards]- 核心数据
@@ -253,9 +253,9 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card]- 论[[Effect Size|效应量]]评估的非责任性
-> 试图通过《[[Visible Learning|VL]]》报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的。(p.149)
+> 试图通过《VL》报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的。(p.149)
 >
-> Attempting to orient pedagogical practice through Visible Learning’s reported effect sizes is ill advised, while basing public policy decisions on them is irresponsible.
+> Attempting to orient pedagogical practice through [[Visible Learning]]’s reported effect sizes is ill advised, while basing public policy decisions on them is irresponsible.
 
 > [!citation-card]- 论[[Whole Language|全语言]]被人工剔除的特权
 > 在《VL》收录的 800 多项[[Meta-analysis|元分析]]中，唯有这一项——发现全语言教学有正面影响的元分析——被[[John Hattie|哈蒂]]通过选择性消除某些研究而修正了效应量。(p.148)
@@ -272,7 +272,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning] 自述局限
-> - **审查范围的局部性** 本研究仅针对《[[Visible Learning|VL]]》中[[Whole Language|全语言]]这一细分模块（涉及 4 项[[Meta-analysis|元分析]]、64 项原始研究）进行了极其细致的微观复核，并未对《VL》中其他学科领域或干预措施的[[Effect Size|效应量]]进行同等规模的系统审查 (p.143)。
+> - **审查范围的局部性** 本研究仅针对《VL》中[[Whole Language|全语言]]这一细分模块（涉及 4 项[[Meta-analysis|元分析]]、64 项原始研究）进行了极其细致的微观复核，并未对《VL》中其他学科领域或干预措施的[[Effect Size|效应量]]进行同等规模的系统审查 (p.143)。
 > - **作者的学术与职业镜头的声明** 作者公开声明自身是一名小学三年级至四年级的班级教师，在皇家墨尔本理工大学（Royal Melbourne Institute of Technology, RMIT）受训期间，其读写教学导师包括洛林·威尔逊（Lorraine Wilson）和大卫·霍恩斯比（David Hornsby）等全语言的积极倡导者，因此其研究视角的选择不可避免地带有全语言实践者偏好偏向的限制 (pp.150-151)。
 
 ---

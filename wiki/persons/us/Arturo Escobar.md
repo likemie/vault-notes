@@ -7,7 +7,7 @@ summary: "哥伦比亚裔美国人类学家和设计理论家，Designs for the 
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Buen Vivir]]"
 related_theories:
   - "[[Transition Design]]"
-  - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
 related_methods: []
 related_persons:
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 ## 简介
 
@@ -57,7 +56,7 @@ updated: 2026-09-11
 
 **[[Transition Design]]（转型设计）** Escobar 以"设计"作为应对 wicked problems 的核心工具，超越单一学科或行动领域的限制。转型不是被设计出来的，而是[[Emergence|涌现]]的——依赖自组织与被组织过程的混合交互（Escobar, 2018, p.152；Amos, 2022, p.61）。
 
-Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命[[Luhmann's Systems Theory|系统理论]]理解和应对 wicked problems；(2) 设计同时保护与修复社会和自然生态系统的解决方案；(3) 以日常生活／生活方式为设计的最根本情境；(4) 倡导基于地方、全球联网的解决方案；(5) 为不同时间视域和多重尺度设计解决方案；(6) 将现有解决方案串联为更大转型愿景的步骤；(7) 放大涌现的草根解决方案；(8) 基于最大化最广泛需求的满足物；(9) 将设计师自身心态／姿态视为设计过程的核心构成；(10) 呼吁重新整合和重新情境化多样化跨学科知识（Irwin, 2015, p.3，引自 Escobar, 2018, p.158；Amos, 2022, pp.61–62）。
+Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命系统理论理解和应对 wicked problems；(2) 设计同时保护与修复社会和自然生态系统的解决方案；(3) 以日常生活／生活方式为设计的最根本情境；(4) 倡导基于地方、全球联网的解决方案；(5) 为不同时间视域和多重尺度设计解决方案；(6) 将现有解决方案串联为更大转型愿景的步骤；(7) 放大涌现的草根解决方案；(8) 基于最大化最广泛需求的满足物；(9) 将设计师自身心态／姿态视为设计过程的核心构成；(10) 呼吁重新整合和重新情境化多样化跨学科知识（Irwin, 2015, p.3，引自 Escobar, 2018, p.158；Amos, 2022, pp.61–62）。
 
 **自我的非固化**Escobar 援引 Varela (1999) *Ethical Know-How* 中"自我的非固化"（non-solidity of the self）概念——自我／主体是无自我的或虚拟的自我，是分布式系统经由社会交互涌现的属性。接受自我的非固化产生一种根本的关爱心态([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])。
 

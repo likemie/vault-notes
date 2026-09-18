@@ -8,7 +8,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Knowledge Transfer]]"
+  - "[[Commensuration]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Reliability]]"
   - "[[Democratising Evidence]]"
@@ -175,7 +176,7 @@ updated: 2026-09-18
 > 传统线性[[Knowledge Transfer|知识转移]]假定学者生产“纯粹知识”再推向实践界，导致严重的理论与实践割裂。RPP 通过将知识生产重心转移到研究者与实践者的协作交汇点，从[[Epistemology|认识论]]与制度根源上确立了[[Engaged Scholarship|参与式学术]]的正当性。
 
 > [!claim] Van de Ven & Johnson (2006)
-> **理论实践鸿沟的知识生产根源** 理论与实践脱节的本质不是信息未能传达的转移问题，也不是认识论无法通约的分割问题，而是知识生产方式本身的问题。学者与实践者作为拥有不同专长的共同探究主体，通过“参与式学术”（Engaged Scholarship）在 RPP 框架下协同开展研究，能够从源头上打破象牙塔与实践现场的制度壁垒，确保知识兼具理论深度与实践关涉度。（Van de Ven & Johnson, 2006；引于 [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 19]]）
+> **理论实践鸿沟的知识生产根源** 理论与实践脱节的本质不是信息未能传达的转移问题，也不是认识论无法[[Commensuration|通约]]的分割问题，而是知识生产方式本身的问题。学者与实践者作为拥有不同专长的共同探究主体，通过“参与式学术”（Engaged Scholarship）在 RPP 框架下协同开展研究，能够从源头上打破象牙塔与实践现场的制度壁垒，确保知识兼具理论深度与实践关涉度。（Van de Ven & Johnson, 2006；引于 [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 19]]）
 
 > [!claim] Campbell et al. (2017)
 > **全系统 RPP 对双向能力赤字的制度弥合** 安大略 [[Knowledge Network for Applied Education Research|KNAER]] 的经验表明，[[Knowledge Mobilisation|知识动员]]的核心瓶颈在于研究者缺乏对实践现场的共情与[[Transfer Translation Transformation|转译]]能力，而教育实践者缺乏筛选和应用复杂实证的专业技能。RPP 通过构建跨学区、大学与政府的制度化网络，提供持续的联合探究工具与能力培训，将孤立的课题研究转变为全系统范围内的集体专业能力建设。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]

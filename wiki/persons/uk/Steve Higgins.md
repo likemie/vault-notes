@@ -8,7 +8,7 @@ summary: "英国杜伦大学教育学教授，循证教育与元分析方法学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 34
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Statistical Analysis Plan]]"
   - "[[Causality]]"
   - "[[Preregistration]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Going Native]]"
   - "[[International Education]]"
   - "[[Implementation Fidelity]]"
@@ -59,6 +60,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[National Pupil Database]]"
   - "[[Pupil Premium]]"
+  - "[[Evidence for Learning]]"
   - "[[What Works Network]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Steve Higgins
@@ -131,7 +133,7 @@ updated: 2026-09-17
 > [!influence-path] 影响路径
 > - **方法路径** 推动了教育实证研究对“[[Model Dependency|模型依赖性]]”的深度反思，其复算审计促成了《[[Education Endowment Foundation|EEF]] 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）的出台，将[[Preregistration|预注册]][[Statistical Analysis Plan|统计分析计划]]（SAP）和模型敏感性分析确立为全球教育试验的黄金行业准则。
 > - **政策与[[Transfer Translation Transformation|转译]]路径** 领衔研制的[[EEF Teaching and Learning Toolkit|教学与学习工具包]]覆盖英格兰逾 70% 的中学校长，深度重塑了数十亿英镑[[Pupil Premium|学生津贴]]的财政资源配置取向。
-> - **跨国传播** 工具包架构被澳大利亚（Evidence for Learning）、拉丁美洲及全球证据中介机构（[[What Works Network]]）广泛[[Going Native|本土化]]引介，成为[[International Education|国际教育]]循证综合的标准模板。
+> - **跨国传播** 工具包架构被澳大利亚（[[Evidence for Learning]]）、拉丁美洲及全球[[Educational Brokerage Agency|证据中介机构]]（[[What Works Network]]）广泛[[Going Native|本土化]]引介，成为[[International Education|国际教育]]循证综合的标准模板。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]综合的方法论风险与政策转译价值，奠定工具包的学理基础。

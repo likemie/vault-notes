@@ -10,7 +10,7 @@ aliases:
 summary: "将全球制度趋同阐释为世界文化模型（world culture models）扩散与模仿产物的新制度主义社会学理论。它主张全球化不是简单的功能主义或国家强权统治产物，而是以普世进步和正义规范为基础的去中心化“世界社会”在观念层面的建构，用于解释教育系统和组织形式在跨国范围内呈现的趋同趋势。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 29
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Policy Borrowing]]"
+  - "[[Policy Mobility]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # World Society Theory
@@ -179,7 +180,7 @@ updated: 2026-09-17
 > > 学界围绕政策转移的权力网络和变异性质展开辩论。
 > > - **世界文化理论家 (Meyer et al., 1997)** 将[[Policy Borrowing|政策借用]]视为行动者为了将自身重构为世界社会合法成员而进行的共识性内化，趋同是主基调。
 > > - **地方变异折射论者（Schriewer）** 强调应关注全球现象引入本土时的折射、改组与解耦变异，地方折射限制了趋同效果。
-> > - **全球—地方联结论者（Carney等）** 强调政策流动不仅是模仿，也是地缘强权、资本主义核心-边缘不平等关系强行支配的产物 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])。
+> > - **全球—地方联结论者（Carney等）** 强调[[Policy Mobility|政策流动]]不仅是模仿，也是地缘强权、资本主义核心-边缘不平等关系强行支配的产物 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])。
 >
 > > [!axis] 修辞趋同与本地政治安全的可逆冲突
 > > 争论全球制度趋同假说能否在面对强力政治安全介入时保持稳健。

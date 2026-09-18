@@ -302,7 +302,7 @@ updated: 2026-09-18
 > | [[Evidence-Based Education]] | 政策[[Paradigm\|范式]] | WWC 作为 EBE [[Causality\|因果推断]]标准的旗舰载体，将[[Clinical Trial\|临床试验]]逻辑系统引入教育学。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | WWC 审查程序与门控机制直接奠基于 Campbellian 效度体系。 |
 > | [[5-3-20 Rule]] | 技术规程 | WWC 单一被试实验审查与综合证据认定的标志性门槛规则。 |
-> | [[Every Student Succeeds Act|ESSA 2015 证据标准]] | 法律依托 | [[Every Student Succeeds Act\|ESSA]] 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
+> | [[Every Student Succeeds Act\|ESSA 2015 证据标准]] | 法律依托 | [[Every Student Succeeds Act\|ESSA]] 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
 > | [[Evidence for ESSA]] | 机构事实 | 约翰斯·霍普金斯大学设立的敏捷互补清算平台，填补 WWC 更新周期与实践决策断层。 |
 > | [[Robert Slavin]] | 关键人物 | 循证教育领军学者，系统评析 WWC 机制并创立 [[Best Evidence Encyclopedia\|BEE]] 与 Evidence for ESSA。 |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |

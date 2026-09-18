@@ -10,7 +10,7 @@ aliases:
 summary: "Flanders 开发的经典课堂言语互动系统化观察工具，采用 3 秒时间取样将课堂言语行为划分为 10 类，通过矩阵分析评估课堂结构与师生互动模式，亦成为反思实证量化编码忽视情境索引性的经典范例。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 16
+instrument_related_count: 17
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#cffafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Assertiveness]]"
   - "[[Direct Instruction]]"
   - "[[Positivism]]"
+  - "[[Lesson Study]]"
   - "[[Interpretive Paradigm]]"
   - "[[Homework]]"
   - "[[Conatus]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-25
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 
 # Flanders Interaction Analysis Categories
@@ -126,7 +127,7 @@ FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 
 ### 认识论局限与经典批评案例
 
-尽管 FIAC 曾被[[Positivism|实证主义]]课堂研究奉为客观量化的典范，但在质性[[Interpretive Paradigm|诠释范式]]兴起后，遭遇了极其深刻的理论批判：
+尽管 FIAC 曾被[[Positivism|实证主义]][[Lesson Study|课堂研究]]奉为客观量化的典范，但在质性[[Interpretive Paradigm|诠释范式]]兴起后，遭遇了极其深刻的理论批判：
 
 > [!case] 课堂案例：“草莓事件”与 FIAC 机械分类的破产（Walker & Adelman, 1975）
 > 罗布·沃克（Rob Walker）与克莱门斯·阿德尔曼（Clem Adelman）记录了英国中学的经典作文课场景（Delamont, 1976；pp. 459–484）：
@@ -179,4 +180,4 @@ FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 原始版 | 英语，美国 | 中小学课堂师生互动 | 10 | 奠定 10 类言语互动与 3 秒等距时间取样规程 | Flanders (1970) |
-> | 中文译介版 | 中文，中国 | 中小学及大学课堂研究 | 10 | 完整引入十大分类及 10×10 矩阵比率分析模型 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch. 3)]] |
+> | 中文译介版 | 中文，中国 | 中小学及大学[[Lesson Study\|课堂研究]] | 10 | 完整引入十大分类及 10×10 矩阵比率分析模型 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch. 3)]] |

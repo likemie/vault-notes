@@ -5,7 +5,7 @@ aliases:
 summary: "把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 14
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[Evidence-Based Education]]"
 related_theories:
-  - "[[Luhmann's Systems Theory]]"
   - "[[Post-structuralism]]"
 related_methods: []
 related_persons:
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 ## 核心主张
@@ -77,7 +76,7 @@ updated: 2026-09-15
 > - 1995 von Glasersfeld 出版 *Radical Constructivism: A Way of Knowing and Learning*
 > - 1990s 激进建构主义成为学习理论的重要[[Paradigm|范式]]
 > - 2000 Bjørgen 提出"对自己学习负责"，将唯我论前提推至极致
-> - 2009 Hattie 的 [[Visible Learning|VL]] 以 Glasersfeld 为出发点，添加教师中心教学
+> - 2009 Hattie 的 VL 以 Glasersfeld 为出发点，添加教师中心教学
 > - 2011 Biggs & Tang 的"[[Constructive Alignment|建构性对齐]]"（constructive alignment）
 
 ## 研究范式
@@ -85,7 +84,7 @@ updated: 2026-09-15
 > [!info] 研究[[Paradigm|范式]]
 > - [[Epistemology|认识论]]立场：主观唯心论／唯我论，与 Popper 的科学实在论完全对立
 > - 封闭系统：一切发生在学习者认知系统内部，无社会、政治、经济分析
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] 指出 Hattie 的 [[Visible Learning|VL]] 因此可以与任何利益体系结合——在丹麦，激进[[Constructivist Paradigm|建构主义]]的大脑被[[Luhmann's Systems Theory|系统理论]]、"竞争国家理论"、[[Post-structuralism|后结构主义]]甚至[[Posthumanism|后人类主义]]同时捕获([[Argument_Rømer_2018_EPT|Rømer, 2018, p.8]])
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] 指出 Hattie 的 VL 因此可以与任何利益体系结合——在丹麦，激进[[Constructivist Paradigm|建构主义]]的大脑被系统理论、"竞争国家理论"、[[Post-structuralism|后结构主义]]甚至[[Posthumanism|后人类主义]]同时捕获([[Argument_Rømer_2018_EPT|Rømer, 2018, p.8]])
 
 ## 争议与批评
 

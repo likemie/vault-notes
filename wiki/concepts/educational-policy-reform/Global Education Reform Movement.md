@@ -6,16 +6,17 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - germ
   - global-education-reform-movement
   - neoliberalism
   - region/global
 related_concepts:
+  - "[[Assemblage]]"
   - "[[New Public Management]]"
   - "[[Test-Based Accountability]]"
   - "[[Paradigm]]"
@@ -67,7 +68,7 @@ updated: 2026-09-18
 > 全球教育改革运动（Global Education Reform Movement, GERM）是由芬兰教育家帕西·萨尔伯格（Pasi Sahlberg, 2012）提出的一个批判性学术术语，用于描述自 1980 年代以来在全球范围内兴起的以新自由主义（Neoliberalism）意识形态为导向的学校教育改革模式，主张通过标准化、问责制、市场竞争与私有化来提高教育绩效（p.141）。
 
 > [!concept-lens]- 概念透镜
-> - **含义** GERM 将复杂的教育过程等同于工业制造，把学校视为工厂，教师视为生产线装配工（输入），学生的测试分数视为工厂的增值增量（产出），寻求在整个公立系统内强加企业式的技术管理模型（p.141, p.149）。
+> - **含义** GERM 将复杂的教育过程等同于工业制造，把学校视为工厂，教师视为生产线[[Assemblage|装配]]工（输入），学生的测试分数视为工厂的增值增量（产出），寻求在整个公立系统内强加企业式的技术管理模型（p.141, p.149）。
 > - **用途** 作为批判性[[Analytic Framework|分析框架]]，用于解构各国（如美、英、澳等）教育分流、全国标准化测试（如澳洲 NAPLAN）、国际排名（如 [[PISA]]）以及学校管理合同的政治经济学底色。
 > - **边界** 它不是一个由政策制定者自我承认的官方改革指南，而是一个用于揭示技术官僚治理逻辑副作用的批判性概念。
 

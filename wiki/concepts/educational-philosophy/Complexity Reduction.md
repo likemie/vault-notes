@@ -28,12 +28,12 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Complexity Theory]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Analytic Framework]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Teacher Choices]]"
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
 confidence: medium
@@ -54,7 +54,7 @@ updated: 2026-09-14
 > [!note-] 历史沿革
 > - **2010** — Biesta 使用该概念解释教育系统的可预测性从何而来
 > - **2010b** — Biesta 在 *[[Complexity Theory]] and the Politics of Education* 中进一步探讨复杂性化简的政治维度
-> - **理论根源** 来自[[Luhmann's Systems Theory|系统理论]]（systems theory）对封闭/开放/递归/符号系统的区分
+> - **理论根源** 来自系统理论（systems theory）对封闭/开放/递归/符号系统的区分
 
 ## 核心要素
 
@@ -124,7 +124,7 @@ updated: 2026-09-14
 
 
 > [!warning] "减少选项"是否总是权力行使？
-> 教育本身就涉及基于专业知识和伦理判断的选择限制（如教师选择特定教学策略而非放任学生随意选择）——这在什么情况下是合法的专业行为，在什么情况下构成非法的权力行使？复杂性化简框架需要进一步区分"基于专业的化简"与"基于控制的化简"。
+> 教育本身就涉及基于专业知识和伦理判断的选择限制（如[[Teacher Choices|教师选择]]特定教学策略而非放任学生随意选择）——这在什么情况下是合法的专业行为，在什么情况下构成非法的权力行使？复杂性化简框架需要进一步区分"基于专业的化简"与"基于控制的化简"。
 >
 > **目前状态** 此张力在教育专业化[[Document|文献]]中有相关讨论（如专业自主权 vs 问责制的边界），但尚未在复杂性化简框架内系统回应。
 

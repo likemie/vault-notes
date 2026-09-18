@@ -8,10 +8,10 @@ summary: "美国西北大学社会学教授，量化社会学、评价与指标�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: 1954
 died: ""
 lifespan: "1954–至今"
@@ -23,6 +23,7 @@ tags:
   - theme/educational-governance
   - theme/rankings
 related_concepts:
+  - "[[Commensuration]]"
   - "[[Façade of Rationality]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Wendy Espeland
@@ -66,7 +67,7 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代社会学家，西北大学社会学系荣休教授；知识社会学、法律社会学与量化社会学（Sociology of Quantification）代表人物。
-> - **核心角色** 现代指标社会学与通约化理论的奠基者；系统揭示量化度量如何主动重构社会组织、诱发制度焦虑，并在不确定与争议性政策情境中被政客用作构筑[[Façade of Rationality|理性表象]]的叙事工具。
+> - **核心角色** 现代指标社会学与[[Commensuration|通约化]]理论的奠基者；系统揭示量化度量如何主动重构社会组织、诱发制度焦虑，并在不确定与争议性政策情境中被政客用作构筑[[Façade of Rationality|理性表象]]的叙事工具。
 > - **代表贡献** 提出通约化理论（Commensuration）与反应性机制（Reactivity）；撰写指标社会学奠基著作《焦虑的引擎：学术排名、声誉与问责》（*Engines of Anxiety*）；提出数字激发叙事理论（Narrating Numbers）。
 
 > [!citation-card] 数字激发叙事与指标故事诠释
@@ -80,7 +81,7 @@ updated: 2026-09-17
 
 > [!timeline] 生平与职涯
 > - **1988** 获得芝加哥大学社会学博士学位，受芝加哥学派质性社会学与制度分析熏陶，开启组织理性与公共决策定[[Quantitative Research|量化研究]]。
-> - **1998** 与米切尔·L·史蒂文斯（Mitchell L. Stevens）在《社会学年评》发表奠基论文《作为社会过程的通约化》（*Commensuration as a Social Process*），正式确立通约化在比较测量与价值折算中的核心分析地位。
+> - **1998** 与米切尔·L·史蒂文斯（Mitchell L. Stevens）在《社会学年评》发表奠基论文《作为社会过程的[[Commensuration|通约化]]》（*Commensuration as a Social Process*），正式确立通约化在比较测量与价值折算中的核心分析地位。
 > - **2007** 与迈克尔·索德（Michael Sauder）在《美国社会学杂志》发表《排名与反应性》（*Rankings and Reactivity*），将社会学目光引向法学院与大学排名对组织制度生态的逆向侵蚀。
 > - **2015–2016** 出版《焦虑的引擎》（*Engines of Anxiety*）并发表《叙事化数字》（*Narrating Numbers*），系统阐发定量指标作为治理技术的政治修辞实质，荣获美国社会学协会（ASA）多项年度学术大奖。
 > - **2019** 与安德里亚·门尼肯（Andrea Mennicken）在《社会学年评》发表《数字有什么新意？量化研究的社会学路径》，全面整合量化社会学前沿分析[[Paradigm|范式]]。
@@ -90,7 +91,7 @@ updated: 2026-09-17
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1990年代 — 制度理性与通约化机制确立** 聚焦水资源冲突与官僚决策中的理性化神话，揭示技术官僚如何通过将异质价值折算为单一价格或分值来强行制造共识。
+> - **1990年代 — 制度理性与[[Commensuration|通约化]]机制确立** 聚焦水资源冲突与官僚决策中的理性化神话，揭示技术官僚如何通过将异质价值折算为单一价格或分值来强行制造共识。
 >   - **代表著作** *The Struggle for Water: Politics, Rationality, and Identity in the American Southwest* (1998); *Commensuration as a Social Process* (1998, with M. L. Stevens)。转引自 [[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 225)]]
 >   - **关键概念／方法** 通约化（Commensuration）、制度理性、质性[[Case Study|案例研究]]。
 >   - **阶段转向** 突破传统经济学将度量视作中立信息收集工具的[[Positivism|实证主义]]假定，开辟将度量本身视为社会互动与权力建构过程的社会学视阈。
@@ -108,7 +109,7 @@ updated: 2026-09-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 量化并非对前存在现实的中立镜像反映，而是一种深刻重塑社会关系的干预技术。数字指标通过通约化机制强行剔除情境细节与质性争议，使数字作为客观普适的“[[Façade of Rationality|理性表象]]”[[Scaffolding|脚手架]]；与此同时，数字的抽象性并未消除政治，反而激发了具有高度弹性的意识形态叙事，并诱发全系统的反应性焦虑与行为异化。
+> 量化并非对前存在现实的中立镜像反映，而是一种深刻重塑社会关系的干预技术。数字指标通过[[Commensuration|通约化]]机制强行剔除情境细节与质性争议，使数字作为客观普适的“[[Façade of Rationality|理性表象]]”[[Scaffolding|脚手架]]；与此同时，数字的抽象性并未消除政治，反而激发了具有高度弹性的意识形态叙事，并诱发全系统的反应性焦虑与行为异化。
 
 > [!citation-card] 通约化作为抹除质性差异的社会过程
 > 通约化是将不同质性的差异转化为跨越通用度量的数量差异的过程。通约化通过建立统一的价值关系，消解了原有的质性独特性与道德复杂性，为组织决策提供了去政治化与去语境化的计算外表。转引自 [[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 225)]]
@@ -163,7 +164,7 @@ updated: 2026-09-17
 > > - **Espeland & Sauder（2007）** 强调反应性是不可避免的系统性力量，制度惩戒机制倒逼行动者重塑价值观与精力分配，不能简化为个体操守问题。
 
 > [!warning] 未解问题与边界
-> 埃斯佩兰德主要聚焦于西方高度理性化、法律主义与市场化组织情境；在政治高度集权、数据基础薄弱或传统人情治理占主导的全球南方社会，指标的通约化与反应性逻辑可能发生不同形式的制度变异与非正式规避。
+> 埃斯佩兰德主要聚焦于西方高度理性化、法律主义与市场化组织情境；在政治高度集权、数据基础薄弱或传统人情治理占主导的全球南方社会，指标的[[Commensuration|通约化]]与反应性逻辑可能发生不同形式的制度变异与非正式规避。
 
 ---
 
@@ -174,6 +175,6 @@ updated: 2026-09-17
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Façade of Rationality]] | 概念 | 核心[[Construct\|构念]]贡献者，阐明数字如何作为政策行动的理性表象[[Scaffolding\|脚手架]]，在抹除情境的同时激发叙事。 |
-> | [[Governing by Numbers]] | 概念 | 理论基石，系统阐明通约化与反应性作为数字治理底层社会学机制的运转逻辑。 |
+> | [[Governing by Numbers]] | 概念 | 理论基石，系统阐明[[Commensuration\|通约化]]与反应性作为数字治理底层社会学机制的运转逻辑。 |
 > | [[Sociology of Valuation and Evaluation]] | 概念 | 奠基学者，开创了关于高校学术排名、声誉焦虑与组织[[Disciplina and Doctrina\|规训]]的评价社会学[[Paradigm\|范式]]。 |
 > | [[Digital Self]] | 概念 | 理论透镜提供者，批判了统计度量作为客观反映个体本质特权通道的[[Positivism\|实证主义]]假定。 |

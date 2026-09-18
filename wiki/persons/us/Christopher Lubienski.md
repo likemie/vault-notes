@@ -9,7 +9,7 @@ summary: "美国教育政策学者，印第安纳大学布卢明顿分校（Indi
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -45,12 +45,13 @@ related_facts:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[OECD]]"
   - "[[World Bank]]"
+  - "[[American Educational Research Association]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 # Christopher Lubienski
@@ -122,7 +123,7 @@ updated: 2026-09-15
 > - **理论[[Dialogue in Education|对话]]** [[Gita Steiner-Khamsi]] — 直接援引 Lubienski（2019）关于"思想市场"的概念，用以分析全球教育治理中[[Policy Brokerage|政策中介]]机构的意识形态性证据操作。
 > - **合著伙伴** Sarah Lubienski — 长期合著者，共同开展公私立学校实证比较研究。
 > - **合著伙伴** Husain Malin（2022）— 共同提出"信息孤岛"概念，分析数字时代知识碎片化对政策理性的侵蚀。
-> - **学术环境** 美国教育政策研究学会（AERA）、印第安纳大学教育政策研究中心（Center for Evaluation & Education Policy）。
+> - **学术环境** 美国教育政策研究学会（[[American Educational Research Association|AERA]]）、印第安纳大学教育政策研究中心（Center for Evaluation & Education Policy）。
 
 ---
 

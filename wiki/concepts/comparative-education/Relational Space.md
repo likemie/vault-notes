@@ -7,7 +7,7 @@ aliases:
 summary: "将空间理解为社会网络与行动者关系的动态构型而非静态领土容器；在跨国教育政策研究中用于解构全球与国家二元对立，揭示政策转移空间中的关系性共构与策略性外在化。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Shape-Shifting]]"
   - "[[Externalization]]"
+  - "[[Policy Mobility]]"
   - "[[Policy Borrowing]]"
   - "[[Going Native]]"
   - "[[Policy Network]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Relational Space
@@ -111,7 +112,7 @@ updated: 2026-09-17
 > - **超越全球/地方固定二元对立** 彻底打破“全球在宏观外侧、地方在微观内侧”的刚性嵌套想象，揭示全球规范如何内生于本土行政重构，以及本土危机如何通过[[Externalization|外化]]为全球话语得以合法化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
 > - **[[Transfer Space|转移空间]]（Transfer Space）的意义[[Recontextualization|再脉络化]]** 政策知识绝非从甲地直接复印至乙地，而是在由国际组织、专家智库与国家官僚共同构成的转移空间中，经历选择性提取、包装转化与再脉络化重塑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540, 546)]]
 
-> [!logic-map]- 关系性空间视阈下的政策流动拓扑图
+> [!logic-map]- 关系性空间视阈下的[[Policy Mobility|政策流动]]拓扑图
 > ```mermaid
 > flowchart TD
 >     subgraph Space["关系性空间网络 (Relational Space Network)"]
@@ -155,7 +156,7 @@ updated: 2026-09-17
 > 分析[[Policy Borrowing|政策借用]]在转移空间中所经历的多阶段非对称筛选与[[Going Native|本土化]]变异。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **转移空间中的两阶段过滤断裂** 跨国政策流动绝非单向均质的全球趋同，而是发生在充满权力博弈的转移空间之中。在转移空间内部，不仅国际组织依据自身利基打包差异化证据，主权国家内部的不同职能部门亦依据政治周期展开非对称过滤：在早期的议程设置阶段，专家咨询网络广泛吸纳跨国中介知识以制造危机动员；在进入行政法令出台的决策阶段，官僚机构则会施加戏剧性的去国际化过滤，仅留下极少数高度契合本土行政控制诉求的外部工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 546–548)]]
+> **转移空间中的两阶段过滤断裂** 跨国[[Policy Mobility|政策流动]]绝非单向均质的全球趋同，而是发生在充满权力博弈的转移空间之中。在转移空间内部，不仅国际组织依据自身利基打包差异化证据，主权国家内部的不同职能部门亦依据政治周期展开非对称过滤：在早期的议程设置阶段，专家咨询网络广泛吸纳跨国中介知识以制造危机动员；在进入行政法令出台的决策阶段，官僚机构则会施加戏剧性的去国际化过滤，仅留下极少数高度契合本土行政控制诉求的外部工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 546–548)]]
 
 ---
 
@@ -187,7 +188,7 @@ updated: 2026-09-17
 > > [!axis] 关系性网络拓扑是否会消解国家领土主权的硬约束
 > > 争论过于关注流动网络与关系性空间是否会低估国家领土边界、主权法治与地缘政治壁垒的刚性制约。
 > >
-> > - **网络空间派** 坚称全球化与数字化使信息和政策流动实质性穿透了地理边界，若退回领土容器视角将彻底失去对跨国治理的解释力。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015)]]
+> > - **网络空间派** 坚称全球化与数字化使信息和[[Policy Mobility|政策流动]]实质性穿透了地理边界，若退回领土容器视角将彻底失去对跨国治理的解释力。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015)]]
 > > - **新[[Realism in International Relations|现实主义]]/主权学派** 批评关系性空间视角容易滑向去中心化的流动浪漫主义，在面对国家安全管控、制裁封锁与教育本土主权防御等硬性领土权力时解释力受限。
 >
 > > [!axis] [[Transfer Space|转移空间]]中的[[Transfer Translation Transformation|转译]]是促进了政策杂糅还是隐蔽了新自由主义同质化

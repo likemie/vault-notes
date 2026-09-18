@@ -5,7 +5,7 @@ aliases:
 summary: "课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因国家安全而权重重组"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -38,13 +38,14 @@ related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
+  - "[[American Educational Research Association]]"
   - "[[Liberal Studies]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 ## 核心主张
@@ -86,7 +87,7 @@ updated: 2026-09-17
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1992** — Cuban 在 AERA 课程研究手册中提出此框架，基于对美国课程变革的历史分析
+> - **1992** — Cuban 在 [[American Educational Research Association|AERA]] 课程研究手册中提出此框架，基于对美国课程变革的历史分析
 > - **2007** — Kan, Vickers & Morris 将此框架应用于香港中国历史科的课程变革，发现教师专业团体（科目协会）在美国和香港均扮演关键角色
 > - **2025** — Yan & Morris 将 Cuban 框架应用于 LS 案例，发现其部分因素在阐释力上存在显著变化——特别是协商与妥协在香港的后 2019 语境中完全消失
 

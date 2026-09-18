@@ -89,7 +89,7 @@ updated: 2026-09-17
 ## 时间线
 
 > [!timeline] 政策时间线
-> - 1965 年 约翰逊总统签署《初等与中等教育法》，正式设立 Title I 专项补偿拨款。
+> - 1965 年 约翰逊总统签署《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]》，正式设立 Title I 专项补偿拨款。
 > - 2001 年 布什总统签署《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），强化以标准化测验与适度年度进展（Adequate Yearly Progress, AYP）为导向的惩罚性行政问责。
 > - 2015 年 奥巴马总统签署《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA），废除惩罚性问责，首次确立四级法定[[Evidence Standards|证据标准]]（Tier 1–4），并将 Title I 学校改进专项拨款与循证实践采纳刚性绑定。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, p. 162)]]
 > - 2017 年 2017–2018 学年全美学区开始正式执行 ESSA 证据要求。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, p. 175)]]

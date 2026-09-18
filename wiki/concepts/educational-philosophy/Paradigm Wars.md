@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪70至90年代社会科学与教育研究领域中量化实证范式与质性诠释范式之间的制度化方法论对立与论辩，后被混合方法研究的实用主义运动所超越与重构"
 type: concept
 domain: "educational-philosophy"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Incommensurability]]"
   - "[[Scale of Measurement]]"
+  - "[[Commensuration]]"
   - "[[Research Question]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Paradigm Wars
@@ -137,7 +138,7 @@ updated: 2026-09-17
 > 论证范式战争为何无法通过单纯的技术妥协而平息，揭示其深层深嵌于主客观哲学的根本对立。
 
 > [!claim] Gage, N. L.
-> **方法之争的实质是不可调和的世界观冲突** 范式战争并非关于[[Questionnaire|问卷]]好还是访谈好的技术分歧，而是两套关于世界究竟是客观硬质还是主观建构的根本信念之战；学者们退守于不可通约的方法论阵营中，使得理性[[Dialogue in Education|对话]]在长达二十年间陷入僵局。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 116]]
+> **方法之争的实质是不可调和的世界观冲突** 范式战争并非关于[[Questionnaire|问卷]]好还是访谈好的技术分歧，而是两套关于世界究竟是客观硬质还是主观建构的根本信念之战；学者们退守于不可[[Commensuration|通约]]的方法论阵营中，使得理性[[Dialogue in Education|对话]]在长达二十年间陷入僵局。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 116]]
 
 > [!claim] Kuhn, T. S.
 > **缺乏中立公尺引发阵营排他性对抗** 当科学共同体发生范式分裂时，由于缺乏共同认可的中立评判尺度，范式之间的论争不可避免地演化为争夺学术话语权与合法性认可的范式政治。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 116]]
@@ -202,7 +203,7 @@ updated: 2026-09-17
 > - **1980 年代 — [[Paradigm|范式]]战争白热化** 纳撒尼尔·格奇（Gage, 1989）正式将这场对抗命名为“范式战争”，双方在学术大会与权威期刊上猛烈抨击对方的方法学效度与伦理合法性。
 > - **1990 年代 — 停火呼吁与和平协商** 学者们意识到旷日持久的阵营内耗严重削弱了教育研究对社会现实的解释力，学界开始呼吁“范式和平”，探索质性与量化方法的结合可能。
 > - **2000 年代 — [[Mixed Methods Research|混合方法]]运动确立“第三条道路”** 塔沙克里（Tashakkori）、特德利（Teddlie）与克雷斯威尔（Creswell）等系统确立混合方法研究体系，《混合方法研究杂志》（JMMR）创刊，[[Pragmatic Paradigm|实用主义]]被确立为跨越鸿沟的第三种范式。
-> - **2010 年代至今 — [[Evidence-Based Education|循证教育]]新[[Positivism|实证主义]]回潮与新型辩证张力** 以[[Randomised Controlled Trials|随机对照试验]]（RCT）和[[Meta-analysis|元分析]]为代表的“循证教育”政策运动再度强化了量化特权地位；学界警惕“新实证霸权”，主张在混合[[Dialogue in Education|对话]]中保持不可通约的质性批判锐度。
+> - **2010 年代至今 — [[Evidence-Based Education|循证教育]]新[[Positivism|实证主义]]回潮与新型辩证张力** 以[[Randomised Controlled Trials|随机对照试验]]（RCT）和[[Meta-analysis|元分析]]为代表的“循证教育”政策运动再度强化了量化特权地位；学界警惕“新实证霸权”，主张在混合[[Dialogue in Education|对话]]中保持不可[[Commensuration|通约]]的质性批判锐度。
 
 ---
 

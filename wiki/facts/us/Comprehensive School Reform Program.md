@@ -8,7 +8,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
+  - "[[Scientifically Based Research]]"
   - "[[Evaluator Independence]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 # Comprehensive School Reform Program
 
@@ -171,7 +172,7 @@ updated: 2026-09-17
 > | [[Evidence Standards]] | Concept | CSR 立法首次将实验与准实验证据标准写入联邦教育拨款条件。 |
 > | [[Success for All]] | Fact (Program) | CSR 计划中获益并被评为“强证据”的核心标杆全校改革方案。 |
 > | [[Direct Instruction]] | Concept | CSR 审查中与 SFA 并列获得 [[AIR Model of Epistemic Cognition\|AIR]] 最高强证据评级的基础教学模式。 |
-> | [[No Child Left Behind Act 2001]] | Fact (Policy) | 将 CSR 项目正式纳入联邦法定拨款体系并强化科学本位研究要求的母法。 |
+> | [[No Child Left Behind Act 2001]] | Fact (Policy) | 将 CSR 项目正式纳入联邦法定拨款体系并强化[[Scientifically Based Research\|科学本位研究]]要求的母法。 |
 > | [[Investing in Innovation Program]] | Fact (Program) | 承继 CSR 经验教训、建立严格[[Evaluator Independence\|第三方独立评估]]分层资助管线的联邦后续项目。 |
 > | [[Every Student Succeeds Act]] | Fact (Policy) | 汲取 CSR 执行落差经验，设立[[Operationalization\|操作化]]四级证据标准的当代联邦基础教育法。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 联邦为解决 CSR 时代缺乏统一权威证据审查平台痛点而设立的国家证据清算机构。 |

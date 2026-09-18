@@ -9,7 +9,7 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 76
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Developer-Made Measures]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Predictive Validity]]"
+  - "[[Scientifically Based Research]]"
   - "[[Paradigm]]"
   - "[[Evaluator Independence]]"
   - "[[Research Impact]]"
@@ -290,7 +291,7 @@ updated: 2026-09-18
 > 探讨如何通过联邦法定证据分级与竞争性资助挂钩，倒逼教育干预研发者采用严谨因果设计，驱动教育科研从名义概念走向真实实践效用。
 
 > [!claim] [[Robert Slavin|Slavin, R.]] E.
-> **法定证据分级与资金杠杆驱动的科研供给侧改革** 美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB 2001）虽 110 次提及“基于科学的研究”，但因缺乏清晰法定定义与执行机制，导致大量未经严格检验的干预项目泛滥。相比之下，《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）首次确立四级法定证据标准（TIER 1 强证据、Tier 2 中等证据、Tier 3 有前景、Tier 4 正在评估），并将[[Education Innovation and Research|教育创新与研究计划]]（EIR/i3）及一类学校（[[Title I of the Elementary and Secondary Education Act|Title I]]）改进资金直接与证据层级挂钩。这一分级标准结合独立标准化测验、至少 12 周周期、第三方评估等硬约束，有效终结了“研发者自编测验与短期实验虚高效应量”的乱象，推动教育实践建立在真正经受住因果检验的实证方案之上。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–26)]]
+> **法定证据分级与资金杠杆驱动的科研供给侧改革** 美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB 2001）虽 110 次提及“[[Scientifically Based Research|基于科学的研究]]”，但因缺乏清晰法定定义与执行机制，导致大量未经严格检验的干预项目泛滥。相比之下，《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）首次确立四级法定证据标准（TIER 1 强证据、Tier 2 中等证据、Tier 3 有前景、Tier 4 正在评估），并将[[Education Innovation and Research|教育创新与研究计划]]（EIR/i3）及一类学校（[[Title I of the Elementary and Secondary Education Act|Title I]]）改进资金直接与证据层级挂钩。这一分级标准结合独立标准化测验、至少 12 周周期、第三方评估等硬约束，有效终结了“研发者自编测验与短期实验虚高效应量”的乱象，推动教育实践建立在真正经受住因果检验的实证方案之上。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–26)]]
 
 ---
 

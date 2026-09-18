@@ -8,7 +8,7 @@ summary: "信度作为内部一致性的形式，衡量多项目量表中各条�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_methods:
   - "[[Scale Development]]"
   - "[[Cronbach's Alpha]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Split-Half Reliability]]"
   - "[[Item Analysis]]"
 related_arguments:
@@ -38,7 +39,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 # Internal Consistency
 
@@ -71,7 +72,7 @@ updated: 2026-09-11
 > | **核心问题** | 条目是否一致地测量同一[[Construct\|构念]]？ | 测量在不同时间是否稳定？ | 不同评分者是否一致？ |
 > | **施测次数** | 一次 | 两次（间隔一定时间） | 一次（但多位评分者） |
 > | **偏差来源** | 条目之间的[[Heterogeneity\|异质性]] | 时间带来的变化 | 评分者之间的主观差异 |
-> | **典型指标** | [[Cronbach's Alpha\|Cronbach's α]]、Spearman-Brown | 前[[Pre-test and Post-test\|后测]]相关系数 | Cohen's κ、Fleiss' κ、ICC |
+> | **典型指标** | [[Cronbach's Alpha\|Cronbach's α]]、Spearman-Brown | 前[[Pre-test and Post-test\|后测]]相关系数 | Cohen's κ、Fleiss' κ、[[Intraclass Correlation Coefficient\|ICC]] |
 > | **[[Reliability\|信度]]类型** | 内部一致性 | 稳定性 | 等值性 |
 
 ---

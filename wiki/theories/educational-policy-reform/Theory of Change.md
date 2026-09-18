@@ -8,7 +8,7 @@ aliases:
 summary: "基于因果分析解释一整套干预措施为何及如何达成特定变化的循证理论框架，通过识别底层假设、活动投入、因果链条与中介行为改变要素，为项目评价与知识中介提供可检验的机制说明"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 59
+theory_related_count: 58
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -68,7 +68,6 @@ related_arguments:
   - "[[Argument_Torres_2022_KMModels]]"
 related_theories:
   - "[[COM-B Model]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Randomised Controlled Trials]]"
@@ -87,7 +86,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-13
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Theory of Change
@@ -256,7 +255,7 @@ updated: 2026-09-17
 > - **1970s–1980s — 理论驱动型评估兴起** 反思传统黑箱评估（Black-box Evaluation）仅关注输入与输出而无法解释为何有效的局限，Chen & Rossi (1980) 与 [[Carol Weiss]] (1972) 提出基于理论的评估（Theory-Driven Evaluation）。
 > - **1990s — [[Logic Model|逻辑模型]]普及与变革理论正式成型** Aspen Institute 推进社区综合变革项目评估，[[Logic Model|逻辑模型]]广泛流行；Weiss (1995) 正式系统提出 Theory of Change 概念，呼吁将关注点由图表框线转向深挖起效的底层[[Hypothesis|假设]]与因果链条。
 > - **2000s — 因果机制显性化与多领域制度化** 变革理论被全面引入国际发展合作（如英国国际发展部 DFID、[[World Bank|世界银行]]）与美国综合学校改革（Comprehensive School Reform, CSR）项目评估。
-> - **2010s–2020s — 复杂系统、行为科学与[[Knowledge Mediation|知识中介]]自我循证融合** 面对单纯信息推送屡遭失败的实证判决，变革理论与行为改变轮（[[COM-B Model|COM-B]]）、复杂[[Luhmann's Systems Theory|系统理论]]及利益相关者[[Knowledge Co-production|协同生产]]深度整合，成为英国[[What Works Network|有效性网络]]（WWN）等现代[[Educational Brokerage Agency|知识中介机构]]开展方案设计与自我评价的制度化准则。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 152–153)]]
+> - **2010s–2020s — 复杂系统、行为科学与[[Knowledge Mediation|知识中介]]自我循证融合** 面对单纯信息推送屡遭失败的实证判决，变革理论与行为改变轮（[[COM-B Model|COM-B]]）、复杂系统理论及利益相关者[[Knowledge Co-production|协同生产]]深度整合，成为英国[[What Works Network|有效性网络]]（WWN）等现代[[Educational Brokerage Agency|知识中介机构]]开展方案设计与自我评价的制度化准则。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 152–153)]]
 > - **2014–2021 — 干预活性成分规范（[[TIDieR]]）与实施[[Implementation and Process Evaluation|过程评估]]（IPE）因果闭环** Hoffmann et al. (2014) 提出干预描述与复制模板（TIDieR），[[Education Endowment Foundation|EEF]] 将其制度化为所有资助项目编制 ToC 的准则，要求严格界定核心活性成分与刚柔边界；同时结合英国医学研究理事会复杂干预评估指南（Craig et al., 2008），以[[Mixed Methods Research|混合方法]] IPE 检验 ToC 各环节假设，实现从理论假设到因果实证的闭环校验。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 53–55)]]
 
 ---

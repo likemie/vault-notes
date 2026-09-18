@@ -27,6 +27,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Valley of Death]]"
   - "[[Institutional Review Board]]"
+  - "[[Data Infrastructure]]"
   - "[[Informed Consent]]"
   - "[[T-Shaped Skills]]"
   - "[[Return on Investment]]"
@@ -55,7 +56,7 @@ title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -163,7 +164,7 @@ citation_aliases:
 ---
 
 > [!warning] 挑战三：患者数据管理的严格要求
-> 《健康保险携带和责任法案》（Health Insurance Portability and Accountability Act of 1996, HIPAA）要求医院在高度监管的环境中保护患者信息(p.184)。HIPAA 合规需要专门的数据基础设施、增强的员工培训和先进的数据安全技术，均需持续投入。当试图引入研究用途时，复杂性进一步升级：研究者必须获取[[Informed Consent|知情同意]]；涉及弱势群体（儿童、孕妇）或危重患者的研究还需额外的监管审查层。
+> 《健康保险携带和责任法案》（Health Insurance Portability and Accountability Act of 1996, HIPAA）要求医院在高度监管的环境中保护患者信息(p.184)。HIPAA 合规需要专门的[[Data Infrastructure|数据基础设施]]、增强的员工培训和先进的数据安全技术，均需持续投入。当试图引入研究用途时，复杂性进一步升级：研究者必须获取[[Informed Consent|知情同意]]；涉及弱势群体（儿童、孕妇）或危重患者的研究还需额外的监管审查层。
 
 ---
 

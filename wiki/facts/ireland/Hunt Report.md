@@ -10,9 +10,9 @@ subtype: policy
 region: ireland
 fact_region: "ireland"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "爱尔兰政府与高等教育战略指导小组"
 tags:
@@ -31,13 +31,14 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Higher Education Authority]]"
+  - "[[Higher Education Act of 1965]]"
   - "[[Irish Survey of Student Engagement]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-18
 ---
 
 # Hunt Report
@@ -62,7 +63,7 @@ updated: 2026-08-27
 > [!policy-design]- 政策设计与关键举措
 > - **发展通用高阶素养** 课程必须系统整合[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]、人际沟通与自律[[Lifelong Learning|终身学习]]能力。
 > - **考核机制创新** 要求高校摒弃纯记忆性期末考核，推行多元化、形成性且强调真实情境的评价方式。
-> - **建立全国监测工具** 责成[[Higher Education Authority|爱尔兰高等教育局]]（HEA）设立常态化全国调查体系，正式催生了[[Irish Survey of Student Engagement|爱尔兰学生投入调查]]（ISSE）。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
+> - **建立全国监测工具** 责成[[Higher Education Authority|爱尔兰高等教育局]]（[[Higher Education Act of 1965|HEA]]）设立常态化全国调查体系，正式催生了[[Irish Survey of Student Engagement|爱尔兰学生投入调查]]（ISSE）。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
 
 ---
 

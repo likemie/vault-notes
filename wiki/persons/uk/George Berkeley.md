@@ -7,7 +7,7 @@ summary: "爱尔兰哲学家与克洛因主教，经验论—唯心论代表人�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,14 +37,13 @@ related_persons:
   - "[[Plato]]"
   - "[[John Locke]]"
   - "[[Immanuel Kant]]"
-  - "[[Bertrand Russell]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 # George Berkeley
 
@@ -106,7 +105,7 @@ Li 引述贝克莱的具体论证："热和冷只是存在于我们心智中的�
 > [!success]
 > - **对[[Empiricism|经验论]]传统** 在 Li 的 西方心智传统追溯中，贝克莱与 [[John Locke]]、Hume 构成了经验论脉络从"客观实在"到"心智构造"的递进论证链([[Argument_Li_2012_Cambridge|Li, 2012, pp.29-30]])。洛克说一切知识来自经验，贝克莱说那么被经验的"外部世界"本身也在心智中，休谟说那么[[Causality|因果关系]]和自我的统一也只是心智的习惯——经验论从温和走向激进，贝克莱是关键的"中间一项"
 > - **对现象主义与唯心论** 贝克莱将经验论的逻辑推到极致——如果一切知识来自感觉经验，所谓的"外部世界"不过就是感觉的组合。这为休谟、[[Immanuel Kant|康德]]以及 19-20 世纪的现象主义（phenomenalism）传统开辟了道路
-> - **对后世哲学** 贝克莱思想中"物质实体无法被经验证实"的论证被 20 世纪的逻辑[[Positivism|实证主义]]和现象主义继承并改造。[[Bertrand Russell|罗素]]曾评论：贝克莱"提出了此后全部唯心论哲学的论据"（待核）
+> - **对后世哲学** 贝克莱思想中"物质实体无法被经验证实"的论证被 20 世纪的逻辑[[Positivism|实证主义]]和现象主义继承并改造。罗素曾评论：贝克莱"提出了此后全部唯心论哲学的论据"（待核）
 
 ---
 

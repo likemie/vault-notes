@@ -10,7 +10,7 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -67,6 +67,7 @@ related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[2009 Hong Kong NSS Curriculum Reform]]"
   - "[[Institute of Education Sciences]]"
+  - "[[ROOTS]]"
   - "[[National Education]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
@@ -229,7 +230,7 @@ LS 自 2009 年引入以来，一直被本地亲中政治力量质疑为年轻�
 
 2019 年夏天，形势发生了质变。中国内地官媒对 LS 发起了突然的、明显协调的集中攻击。从 7 月到 9 月，《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》等官方媒体密集发表文章，将 LS 描绘为年轻人参与 2019 年抗议活动的主要原因。
 
-各官媒的攻击角度各有侧重但互相配合。《人民日报》(2019)声称 LS 教科书在"夹带私货"。《北京日报》(2019)将 LS 教科书称为"教唆书"（subversion manuals）。《中国青年报》(2019)称 LS 是"香港问题的病根"（diseased roots）。《光明日报》(2019)宣称 LS "亟须改革"。攻击的核心论点是 LS 没有官方教科书、教学材料缺乏监管，使得"某些势力"得以通过自编教材腐蚀年轻人的心智(pp. 488–489)。
+各官媒的攻击角度各有侧重但互相配合。《人民日报》(2019)声称 LS 教科书在"夹带私货"。《北京日报》(2019)将 LS 教科书称为"教唆书"（subversion manuals）。《中国青年报》(2019)称 LS 是"香港问题的病根"（diseased [[ROOTS]]）。《光明日报》(2019)宣称 LS "亟须改革"。攻击的核心论点是 LS 没有官方教科书、教学材料缺乏监管，使得"某些势力"得以通过自编教材腐蚀年轻人的心智(pp. 488–489)。
 
 > [!warning] 攻击的叙事结构
 > 官媒构建了一个将 LS 与年轻人社会运动参与和"西方恶意干涉"联系起来的叙事链。具体而言，这一叙事包含三个环节。

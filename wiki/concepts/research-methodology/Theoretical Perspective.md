@@ -7,7 +7,7 @@ aliases:
 summary: "量化研究计划中专门阐述理论框架的独立章节，说明研究采用的理论、其核心命题和假设、已有应用文献，以及该理论如何连接到当前研究的变量和假设"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,13 +29,14 @@ related_theories:
 related_methods:
   - "[[Quantitative Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[American Educational Research Association]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-18
 ---
 
 # Theoretical Perspective
@@ -43,7 +44,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 理论视角（theoretical perspective）是[[Quantitative Research|量化研究]]计划或论文中专门阐述理论框架的独立章节。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.53)]] 偏好使用这一术语，因为它已被美国教育研究协会（AERA）年会广泛用作投稿研究计划中的必填章节名称。该章节可以放在[[Literature Review|文献综述]]之中，也可以作为一个独立章节。同一章节在[[Document|文献]]中还有多种名称，包括理论依据（theoretical rationale）、理论基础（theory base）、理论取向（theoretical orientation）、理论模型（theoretical model）和概念框架（conceptual framework）。
+> 理论视角（theoretical perspective）是[[Quantitative Research|量化研究]]计划或论文中专门阐述理论框架的独立章节。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.53)]] 偏好使用这一术语，因为它已被美国教育研究协会（[[American Educational Research Association|AERA]]）年会广泛用作投稿研究计划中的必填章节名称。该章节可以放在[[Literature Review|文献综述]]之中，也可以作为一个独立章节。同一章节在[[Document|文献]]中还有多种名称，包括理论依据（theoretical rationale）、理论基础（theory base）、理论取向（theoretical orientation）、理论模型（theoretical model）和概念框架（conceptual framework）。
 
 > [!quote]
 > "A discussion about this theory would appear in a section of a proposal in the literature review or in a separate section called the theory base, the theoretical rationale, the theoretical perspective, or the conceptual framework."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.53]])

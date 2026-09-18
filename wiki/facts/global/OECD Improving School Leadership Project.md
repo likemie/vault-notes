@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[International Education]]"
+  - "[[Data Infrastructure]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[International Large-Scale Assessments]]"
@@ -39,12 +40,12 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 ## 背景
 
 > [!info] 背景
-> 进入 2000 年代后，[[OECD]] 将[[School Leadership|学校领导力]]定位为教育政策的关键杠杆。此前 OECD 已通过 [[PISA]] 和 [[International Indicators of Education Systems|INES]]/[[Education at a Glance|EAG]] 建立了[[International Education|国际教育]]比较的数据基础设施，学校领导力被视为连接政策投入与学生产出的关键中介[[Variable|变量]]([[Argument_Møller_2017_EERJ|Møller, 2017, p.376-377]])。
+> 进入 2000 年代后，[[OECD]] 将[[School Leadership|学校领导力]]定位为教育政策的关键杠杆。此前 OECD 已通过 [[PISA]] 和 [[International Indicators of Education Systems|INES]]/[[Education at a Glance|EAG]] 建立了[[International Education|国际教育]]比较的[[Data Infrastructure|数据基础设施]]，学校领导力被视为连接政策投入与学生产出的关键中介[[Variable|变量]]([[Argument_Møller_2017_EERJ|Møller, 2017, p.376-377]])。
 
 ## 政策文本摘要
 

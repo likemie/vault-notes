@@ -196,7 +196,7 @@ STAR 项目的评估不仅采集了干预期间的[[Academic Achievement|学业�
 > | [[Class Size]] | Concept | STAR 项目构成了现代教育学与教育经济学讨论班级规模缩减的核心实证基石。 |
 > | [[California Class Size Reduction 1996]] | Fact (Policy) | 试图全州复制 STAR 成功经验但因师资质量滑坡而遭遇外推挫折的经典政策反例。 |
 > | [[Randomised Controlled Trials]] | Method | STAR 项目在教育科学研究方法史上确立了严格 RCT 设计的经典典范。 |
-> | [[Random Assignment]] | Method | 项目在校内实施的学生与教师双向随机分配，是消除混淆变量的关键技术手段。 |
+> | [[Random Assignment]] | Method | 项目在校内实施的学生与教师双向随机分配，是消除混淆[[Variable\|变量]]的关键技术手段。 |
 > | [[Evidence-Based Education]] | Concept | STAR 揭示了循证教育在从“实验室证据”走向真实世界公共政策外推时的结构性局限。 |
 > | [[Visible Learning]] | Concept | Snook 等学者以 STAR 项目的强[[Effect Size\|效应量]]为武器，深度质疑 Hattie 对班级规模的[[Meta-analysis\|元分析]]评级。 |
 > | [[Effect Size]] | Concept | STAR 的大效应量（0.62–0.66）与跨研究综合均值（约 0.20）的张力构成了效应量方法论辩论的名篇。 |

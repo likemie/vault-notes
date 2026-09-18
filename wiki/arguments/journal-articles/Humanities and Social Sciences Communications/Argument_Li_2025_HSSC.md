@@ -65,9 +65,9 @@ related_methods:
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Codebook]]"
-  - "[[PRISMA]]"
   - "[[Accounts]]"
-related_instruments: []
+related_instruments:
+  - "[[PRISMA]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"

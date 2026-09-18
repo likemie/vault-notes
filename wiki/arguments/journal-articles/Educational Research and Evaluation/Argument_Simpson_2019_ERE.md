@@ -9,7 +9,7 @@ title: "Argument_Simpson_2019_ERE"
 argument_key: "Argument_Simpson_2019_ERE"
 argument_display_title: "Separating arguments from conclusions: The mistaken role of effect size in educational policy research"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[Reach]]"
 related_arguments: []
 sources:
   - "[[sources/Simpson_2019_ERE|Simpson_2019_ERE]]"
@@ -95,7 +96,7 @@ citation_aliases:
 >
 > **Merrell & Kasim (2015) 语音干预** 同一干预在同一样本上，NGRT d=0.43，SWRT d=0.38，PhAB d=0.23。
 >
-> **REACH 阅读支持项目(Sibieta, 2016)** 同一样本，NGRT d=0.33，阅读理解 d=-0.08，阅读准确性 d=0.17——"按 EEF 的月数进步指标，我们不得不得出结论：同一干预导致了 4 个月进步、2 个月进步和 1 个月退步"(p.103)。
+> **[[Reach]] 阅读支持项目(Sibieta, 2016)** 同一样本，NGRT d=0.33，阅读理解 d=-0.08，阅读准确性 d=0.17——"按 EEF 的月数进步指标，我们不得不得出结论：同一干预导致了 4 个月进步、2 个月进步和 1 个月退步"(p.103)。
 >
 > **Nuffield 早期语言干预(Sibieta, Kotecha, & Skipp, 2016)** 主要结果（四项测量复合）d=0.27，次要结果（三项测量复合）d=0.06。
 >

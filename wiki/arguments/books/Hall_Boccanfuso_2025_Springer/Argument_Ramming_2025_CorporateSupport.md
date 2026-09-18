@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Growth]]"
+  - "[[Commensuration]]"
   - "[[Document]]"
   - "[[Innovation Hub]]"
   - "[[Academic Engagement Team]]"
@@ -72,7 +73,7 @@ citation_aliases:
 > [!question] 核心关切
 > 企业内部的 [[University-Industry Collaboration|产学合作]] 实践者（practitioner）如何在公司内部为大学合作项目争取持续的预算、人员和管理层支持？
 >
-> 这一问题之所以棘手，根源在于产学合作的价值难以还原为短期的财务指标，其总回报由招聘、研究产出、战略营销、人才发展和员工[[Growth|成长]]等多个不可通约的维度加总而成，而中层业务经理通常只对其中某一维度有管辖权。公司内部的权力结构和预算分配逻辑天然倾向于可以量化的季度性回报，产学合作的商业影响却往往滞后数年才显现(pp.220–221)。
+> 这一问题之所以棘手，根源在于产学合作的价值难以还原为短期的财务指标，其总回报由招聘、研究产出、战略营销、人才发展和员工[[Growth|成长]]等多个不可[[Commensuration|通约]]的维度加总而成，而中层业务经理通常只对其中某一维度有管辖权。公司内部的权力结构和预算分配逻辑天然倾向于可以量化的季度性回报，产学合作的商业影响却往往滞后数年才显现(pp.220–221)。
 
 > [!info] 定位
 > 长达二十余年的产学合作[[Document|文献]]积累了大量从大学侧出发的研究：如何组织产学参与办公室（Boccanfuso & Hall 第三章）、如何设计知识产权条款（Narayan & Spohrer 第五章）、如何建设[[Innovation Hub|创新中心]]（Byrne 第七章），但企业侧的内部运作逻辑，尤其是实践者如何在公司内部推销项目、争取预算和构建利益相关者联盟，始终缺乏系统的实践指南。这一空白正是本章的切入点。内容来自 Ramming 在 [[DARPA]]、Intel and VMware 多年的产学合作管理经验，属于实践指导型章节，区别于实证研究(p.217)。
@@ -147,7 +148,7 @@ citation_aliases:
 
 ### 挑战二：度量指标
 
-3. **产学合作的度量困境是结构性的：总体价值由不可通约的维度组成，中层管理者只对单一维度有管辖权，而能跨维度评估的高管层级太高，本质上是组织设计问题，不是数据不足的问题**
+3. **产学合作的度量困境是结构性的：总体价值由不可[[Commensuration|通约]]的维度组成，中层管理者只对单一维度有管辖权，而能跨维度评估的高管层级太高，本质上是组织设计问题，不是数据不足的问题**
 
    产学合作的总价值是招聘回报（新雇员的质量 和 数量）、研究产出（出版物、专利、[[Technology Transfer|技术转移]]）、战略营销（品牌形象、招聘吸引力）、人才发展（在职员工的技能提升）和员工[[Growth|成长]]（技术领袖通过学术合作获得的隐性知识）等多维度的加总。但这些维度之间不可通约，无法用同一个计量单位表达(p.220)。
 

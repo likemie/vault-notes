@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Façade of Rationality]]"
   - "[[Policy Network]]"
   - "[[Research Translation]]"
+  - "[[Policy Mobility]]"
   - "[[Boundary Spanner]]"
   - "[[Policy Borrowing]]"
   - "[[Knowledge Production]]"
@@ -85,7 +86,7 @@ updated: 2026-09-18
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示知识向政策转化过程中的非中立性，阐明跨国中介机构与国内[[Policy Network|政策网络]]中的中介主体（官方扶植机构、专家审查组、领袖网络）如何将自身偏好的[[Research Translation|研究转化]]为不可置疑的决策依据。
-> - **用途** 帮助研究者透视国际组织、咨询公司、智库以及国内由政府扶植的“圈内机构”在教育政策流动中的网络节点权力、证据守门与议程设置手法。
+> - **用途** 帮助研究者透视国际组织、咨询公司、智库以及国内由政府扶植的“圈内机构”在教育[[Policy Mobility|政策流动]]中的网络节点权力、证据守门与议程设置手法。
 > - **边界** 不等于纯学术性的科学传播，亦不同于国家行政体系自上而下的法定权力命令。
 
 > [!citation-card] 政策中介的政治化定性

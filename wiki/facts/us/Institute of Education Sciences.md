@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 51
+fact_related_count: 52
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Variable]]"
   - "[[Conatus]]"
   - "[[Ecological Validity]]"
@@ -193,7 +194,7 @@ graph TD
 
 > [!finding-cards] 关键成效与辐射影响
 > - **学术引领与[[Scientific Paradigm|科学范式]]重塑** 通过联邦资助杠杆终结了低质散漫的随意评价，促使全美教育因果研究全面向实验设计、预注册与透明数据[[Paradigm|范式]]转型。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–207)]]
-> - **引领全球[[Output-Oriented Governance|循证治理]]趋势** 其制定的证据层级与清算机制成为[[OECD|经合组织]]（OECD）多国（如英国[[Education Endowment Foundation|教育捐赠基金会]]等）设立本土证据中介机构的重要参照蓝本。
+> - **引领全球[[Output-Oriented Governance|循证治理]]趋势** 其制定的证据层级与清算机制成为[[OECD|经合组织]]（OECD）多国（如英国[[Education Endowment Foundation|教育捐赠基金会]]等）设立本土[[Educational Brokerage Agency|证据中介机构]]的重要参照蓝本。
 > - **法定财政杠杆的制度化示范** 通过将 WWC 因果证据层级与联邦教育补助金深度绑定，开创了通过法律硬约束驱动学校采纳优质实证干预的宏观治理典范。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 598–600)]]
 > - **政策沉浸与国家科研领军人才转化中枢** [[Argument_Serpell_2020_EP|Serpell (2020, pp. 46–47)]] 考证指出，全职浸润式的国会科学研究员（Congressional Fellows）机制为 IES 等联邦核心机构输送了深谙立法与行政运作的关键管理人才。部分学者在结束国会山任期后进入 IES 执掌科研资助指南（RFPs）制定与优先资助领域设定，将真实的宏观政策需求反向注入国家教育科研资助顶层设计，打通了学术界与联邦行政中枢的隐性知识循环。
 

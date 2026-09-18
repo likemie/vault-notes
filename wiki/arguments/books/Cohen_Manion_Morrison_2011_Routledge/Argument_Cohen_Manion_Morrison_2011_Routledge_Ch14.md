@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 68
+argument_related_count: 69
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Lesson Study]]"
   - "[[Document]]"
   - "[[Creativity]]"
   - "[[Ways of Knowing]]"
@@ -168,7 +169,7 @@ Hitchcock & Hughes（1995, pp. 317, 319）从两个互补角度描述个案研�
 
 > [!dimension] 七种界定维度（p. 319）
 > - **时间特征（temporal characteristics）**
->   案例发生在什么时间段。例如一项课堂研究可能以学期为单位划定时间范围。
+>   案例发生在什么时间段。例如一项[[Lesson Study|课堂研究]]可能以学期为单位划定时间范围。
 > - **地理参数（geographical parameters）**
 >   案例的地点范围——一所学校、一个社区或一个地区。
 > - **边界（boundaries）**

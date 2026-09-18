@@ -7,7 +7,7 @@ aliases:
 summary: "以排名、指标化和审计文化为基础设施的高等教育竞争逻辑，将大学重塑为争夺资源、声誉和地位的市场参与者。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Performativity of Measurement]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Universities Rankings]]"
+  - "[[Academic Attrition]]"
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: '2026-08-27'
+updated: 2026-09-18
 ---
 
 # Competitiveness in Higher Education
@@ -76,7 +77,7 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 
 在教学领域，竞争力的运作逻辑与科研不同。Thompson 等人（2022, p.220）识别了一个根本悖论：大学的竞争优势取决于它能为学生提供成功学习过程的可能性，但大学所竞争的并非学生已经展现的能力，而是学生**潜在的未来努力（potential future effort）**。
 
-- 大学长期以来收集学生辍学率和完成学业所需时间的数据
+- 大学长期以来收集[[Academic Attrition|学生辍学]]率和完成学业所需时间的数据
 - 随着数据化和 [[Learning Analytics|学习分析]] 的兴起，大学获得了分析"成功相关性"（correlations of success）的能力——识别最可能导致学业成功的学生特征([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
 - 这些数字化实践赋予大学管理学生成功不确定性的能力——消除偶然性和不确定性(Amos, 2019; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]])
 

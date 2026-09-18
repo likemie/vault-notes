@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Methodological Globalism]]"
   - "[[Hypothesis]]"
   - "[[Policy Borrowing]]"
+  - "[[Policy Mobility]]"
   - "[[Policy Brokerage]]"
   - "[[Going Native]]"
   - "[[Space of Flows and Space of Places]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Methodological Transnationalism
@@ -131,7 +132,7 @@ updated: 2026-09-17
 ### 命题二　对政府实体的尺度与职能解构是把握跨国治理真实图景的前提
 
 > [!concept-lens] 国家行动者的多元拆解
-> 分析传统政策研究将国家均质化造成的认知盲区，主张在细分治理层级中辨析政策流动的断裂与重组。
+> 分析传统政策研究将国家均质化造成的认知盲区，主张在细分治理层级中辨析[[Policy Mobility|政策流动]]的断裂与重组。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
 > **多尺度治理实体的分离与冲突** 将国家政府视为均质统一体的[[Hypothesis|假设]]遮蔽了不同部门对跨国政策的异质反应；必须将政府拆解为咨询、行政与立法等不同职能主体。实证研究表明，政府委任的专家咨询委员会所采纳的跨国知识，往往在进入行政部门起草法定法令阶段遭到大规模过滤或选择性遗弃，这种政策周期的断裂只有在解构国家主体的视角下才能被准确捕捉。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540, 546–547)]]
@@ -182,7 +183,7 @@ updated: 2026-09-17
 > > [!axis] 解构国家实体是否会导致政策执行归因碎片化
 > > 探讨在高度强调职能与尺度细分时，是否会稀释中央政权对重大教育战略方向的根本决定权。
 > >
-> > - **跨国网络论** 认为政策流动始终在碎片化多主体博弈中生成，任何单一归因都是虚妄。
+> > - **跨国网络论** 认为[[Policy Mobility|政策流动]]始终在碎片化多主体博弈中生成，任何单一归因都是虚妄。
 > > - **国家自主性论** 指出行政官僚对法案的最终签署权表明主权国家仍牢牢掌握政策关卡。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]
 
 > [!critique] 外部批评

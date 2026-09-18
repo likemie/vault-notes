@@ -7,7 +7,7 @@ aliases:
 summary: "指公共政策制定中针对同一客观情境或治理问题同时并存多种互不相容、无法通约的思考方式与价值取向的生态特征。在信息过量时代，更多知识证据无法自发消除歧义性，反而加剧解释撕裂，促使决策者将数字作为理性表象的脚手架以应对多元分歧。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
+  - "[[Commensuration]]"
   - "[[Return on Investment]]"
   - "[[Policy Brokerage]]"
   - "[[Transfer Translation Transformation]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Policy Ambiguity
@@ -110,7 +111,7 @@ updated: 2026-09-17
 > [!feature] 核心要素
 > - **不可调和的多元思考[[Paradigm|范式]]** 政策主体针对同一教育事实（如[[Academic Achievement|学业成绩]]分布不均）存在互不兼容的归因模型（如社会阶层固化论 vs 教师专业投入不足论 vs 课程标准落后论）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
 > - **信息过载反噬机制** 在数字经济时代，海量研究成果呈指数级爆发，[[Surplus of Evidence|证据过剩]]并未达成科学共识，反而使各利益集团都能轻松筛选出支持自身政治偏好的“定制证据”（Customised Evidence）。
-> - **裁量选择的制度强制性** 面对无法通约的多重观念，政府无法以折衷方式兼顾所有主张，必须运用权力进行排他性的政策议程决断。
+> - **裁量选择的制度强制性** 面对无法[[Commensuration|通约]]的多重观念，政府无法以折衷方式兼顾所有主张，必须运用权力进行排他性的政策议程决断。
 > - **对数字[[Scaffolding|脚手架]]的结构性寄生** 面对充满分歧的公众舆论，政策制定者无法依靠纯粹理论思辨说服异见者，只能依托看似精密客观的量化排名（如 [[PISA]] 分数、[[Return on Investment|ROI]] 收益率）建立决断的正当性。
 
 > [!logic-map]- 要素关系
@@ -146,7 +147,7 @@ updated: 2026-09-17
 
 ### 命题二　数字作为理性表象的脚手架为歧义性决策保留政治叙事自由
 
-> [!concept-lens] 通约化[[Scaffolding|脚手架]]与叙事自由
+> [!concept-lens] [[Commensuration|通约化]][[Scaffolding|脚手架]]与叙事自由
 > 揭示量化指标如何同时实现“对外压制价值争论”与“对内保留政治阐释自由”的双重功能。
 
 > [!claim] Zahariadis, N.

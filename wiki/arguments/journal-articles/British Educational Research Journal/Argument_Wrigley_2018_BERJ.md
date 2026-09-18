@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Critique of Meta-analysis]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
@@ -218,13 +219,13 @@ citation_aliases:
 > 将元分析进一步聚合为“元-元分析”时，前几级的技术缺陷被无限放大。以 [[John Hattie|哈蒂]]的 0.40 阈值和《教学与学习工具包》的“进步月份表”为代表的排行榜修辞，严重误导了教育决策。
 
 > [!critique-method] 聚合排行工具的系统性偏差
-> 1. **[[John Hattie|约翰·哈蒂]]《[[Visible Learning|VL]]》的五大硬伤**
+> 1. **[[John Hattie|约翰·哈蒂]]《VL》的五大硬伤**
 >    - **数据老化与地域局限** 数据源绝大多数集中于美国，且许多研究已过时半个世纪。
 >    - **测量工具窄化** 大量采用与学习目标脱节的窄化结果测试（例如用朗读单个单词来代表阅读能力） (p. 11)。
 >    - **铰链点（0.40）逻辑漏洞** 无视干预时长（短期强化干预的效应量系统性高于长期项目）、学生年龄（平均效应量随学生年龄增长而呈非线性递减）以及计算基准（混用对照组比较法与前-后测比较法）。
 > 2. **EEF《教学与学习工具包》的三大系统偏差([[Argument_Simpson_2017_JEP|Simpson, 2017]])**
 >    - **对照组设计（Comparison groups）** 控制组如果处于“零干预”状态，测出的效应量会被系统性放大。
->    - **范围限制（Range Restriction）** 如果研究对象局限于窄化人群（如11岁阅读障碍男孩），由于其标准差（分母）急剧缩小，计算出的效应量会急剧膨胀，这并非项目本身效果更好 (p. 12)。
+>    - **范围限制（[[Floor and Ceiling Effects|range restriction]]）** 如果研究对象局限于窄化人群（如11岁阅读障碍男孩），由于其标准差（分母）急剧缩小，计算出的效应量会急剧膨胀，这并非项目本身效果更好 (p. 12)。
 >    - **测量设计（Measure design）** 开发者自行设计的、与干预内容高度契合的测试（如特定代数测验），其测得的效应量远大于第三方标准测试。
 
 > [!case] TA 类目：结构不当与误导性决策
@@ -272,7 +273,7 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **统计聚合的逐级失真机制** [[Randomised Controlled Trials|RCT]] 在第一级的简化偏误，在第二级 [[Meta-analysis|元分析]]中复合，并在第三级 [[Meta-meta-analysis|元-元分析]]（如 [[John Hattie|约翰·哈蒂]]的《[[Visible Learning|VL]]》与 [[Education Endowment Foundation|EEF]]《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》）的“速度表指针”排行榜修辞中被彻底隐藏，呈现“越聚合、越空洞”的态势。
+> 1. **统计聚合的逐级失真机制** [[Randomised Controlled Trials|RCT]] 在第一级的简化偏误，在第二级 [[Meta-analysis|元分析]]中复合，并在第三级 [[Meta-meta-analysis|元-元分析]]（如 [[John Hattie|约翰·哈蒂]]的《VL》与 [[Education Endowment Foundation|EEF]]《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》）的“速度表指针”排行榜修辞中被彻底隐藏，呈现“越聚合、越空洞”的态势。
 > 2. **“新起点”案例揭示糟糕[[Random Assignment|随机分配]]的数据幻象** 经过匹配子集分析，干预组与对照组低分学生进步成绩几乎完全相同，所谓的 $+0.24$ 标准差（相当于 3 个月额外进步）仅是糟糕随机分配造成的[[Pre-test and Post-test|前测]]失衡幻象 (p. 5)。
 > 3. **TA 类目警示扁平化排行诱发反效果** EEF《教学与学习工具包》将 TA 排入底部，完全剥离了其“无沟通备课时间”、“系统性安排给低成就生”等结构性不当情境，在预算裁剪时期极易诱发错误的裁员决策 (p. 12)。
 > 4. **教育实验中“人类意志既是必要又是污染”的悖论** RCT 将人类意志视为污染源，但教学效果的产生恰恰依赖教师的热情与学生的推理交互，这使得 RCT 从根本上不适合作为教育学的唯一科学标准 (p. 6)。
@@ -301,7 +302,7 @@ citation_aliases:
 >
 > The result of a meta-analysis should never be an average; it should be a graph. ([[Gene Glass|吉恩·格拉斯]])
 
-> [!citation-card]- 《[[Visible Learning|VL]]》对 陶冶 的遮蔽
+> [!citation-card]- 《VL》对 陶冶 的遮蔽
 > 让学习可见的尝试，使人们对教育作为 陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。(p. 16)
 >
 > The attempt to make learning visible eclipses older understandings of education as Bildung and pedagogy (both words carrying the sense of human formation).

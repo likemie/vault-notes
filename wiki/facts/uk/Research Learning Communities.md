@@ -170,8 +170,8 @@ updated: 2026-09-16
 > > > [!axis] 教师研讨热情 vs 学生终端学业增益的解耦
 > > 该项目的终期评估结果在循证学界引发了广泛反思。
 > >
-> > - **戈拉德等（Gorard et al., 2020）** 指出 RLC 构成了弱人际中介模式的典型案例：通过工作坊激发教师兴趣和教研讨论相对容易，但这种浅层人际互动极易在级联传递中发生实施衰减，无法克服微观课堂教学行为的固有惯性。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 592–593)]]
-> > - **布朗等（Brown et al., 2017）** 强调[[Evidence-Informed Practice|证据知情实践]]的文化重塑需要长期积累，短期标准化统考未捕捉到[[Organizational Culture|组织文化]]与教师反思能力的深层进化。
+> > - **戈拉德等（[[Argument_Gorard_2020_ROE|Gorard et al., 2020]]）** 指出 RLC 构成了弱人际中介模式的典型案例：通过工作坊激发教师兴趣和教研讨论相对容易，但这种浅层人际互动极易在级联传递中发生实施衰减，无法克服微观课堂教学行为的固有惯性。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 592–593)]]
+> > - **布朗等（[[Argument_Brown_2017_ER|Brown et al., 2017]]）** 强调[[Evidence-Informed Practice|证据知情实践]]的文化重塑需要长期积累，短期标准化统考未捕捉到[[Organizational Culture|组织文化]]与教师反思能力的深层进化。
 
 > [!lessons] 经验教训与启示
 > - **警惕过程指标繁荣掩盖学业零增益** 评估循证中介网络不能仅看教师[[Questionnaire|问卷]]满意度或网络交流密度，必须以客观终端学业为最终检验标尺。

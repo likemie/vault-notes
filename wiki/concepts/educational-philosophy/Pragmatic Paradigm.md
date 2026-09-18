@@ -8,10 +8,10 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - research-philosophy
   - mixed-methods
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Knowledge Transfer]]"
   - "[[Quality Education]]"
+  - "[[Commensuration]]"
   - "[[Research Ethics]]"
 related_theories:
   - "[[Social Justice Theory]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Pragmatic Paradigm
@@ -216,7 +217,7 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] [[Incommensurability|范式不可通约性]]与方法论折中主义（方法论层次）
-> > 传统[[Positivism|实证主义]]与[[Constructivist Paradigm|建构主义]]学者质疑[[Mixed Methods Research|混合方法]]是否打破了库恩[[Paradigm|范式]]的不可通约性（incommensurability），担心将不同[[Ontology|本体论假设]]混用会导致逻辑不自洽。
+> > 传统[[Positivism|实证主义]]与[[Constructivist Paradigm|建构主义]]学者质疑[[Mixed Methods Research|混合方法]]是否打破了库恩[[Paradigm|范式]]的不可[[Commensuration|通约]]性（incommensurability），担心将不同[[Ontology|本体论假设]]混用会导致逻辑不自洽。
 > >
 > > - **Guba & Lincoln (1994)** 认为范式具有不可调和的[[Epistemology|认识论]]根基。
 > > - **Denscombe (2008)** 主张将混合方法理解为实践共同体，以效用与[[Fitness for Purpose|适合目的]]超越教条对立。

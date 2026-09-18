@@ -8,15 +8,57 @@ summary: "一种追踪全球化与网络化治理背景下政策流动的质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 36
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - theme/network-ethnography
   - theme/policy-network
   - theme/policy-mobility
+related_concepts:
+  - "[[Policy Mobility]]"
+  - "[[Network Governance]]"
+  - "[[Reflexivity]]"
+  - "[[Policy Network]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Venture Philanthropy]]"
+  - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Unit of Analysis]]"
+  - "[[Co-affiliation]]"
+  - "[[Epistemology]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Assemblage]]"
+  - "[[Reliability]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Hypothesis]]"
+  - "[[Policy Borrowing]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Heterogeneity]]"
+related_theories:
+  - "[[Actor-Network Theory]]"
+related_methods:
+  - "[[Ethnography]]"
+  - "[[Qualitative Research]]"
+  - "[[Network Analysis]]"
+  - "[[Triangulation]]"
+  - "[[In-depth Interview]]"
+  - "[[Case Study]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Discourse Analysis]]"
+  - "[[Effect Size]]"
+  - "[[Qualitative Observation]]"
+  - "[[Correlational Research]]"
+related_persons:
+  - "[[Stephen Ball]]"
+related_facts:
+  - "[[Social Ventures Australia]]"
+  - "[[Education Endowment Foundation]]"
+  - "[[Australian Education Research Organisation]]"
+related_arguments:
+  - "[[Argument_Rowe_2022_IJER]]"
 confidence: high
 status: completed
 created: 2026-09-18
@@ -30,13 +72,13 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 方法定义
-> 网络民族志（Network Ethnography）是由斯蒂芬·鲍尔（Stephen J. Ball）及其合作者系统发展的质性研究方法，专门用于考察新自由主义与全球化背景下的政策流动性（policy mobility）与网络化治理（network governance）。该方法将传统民族志的深度沉浸、反身性与文本分析，与社会网络分析（Social Network Analysis, SNA）的关系追踪相结合，核心在于跟随（following）政策、人、思想、资金、技术与制度客体跨越公共与私营部门、国家与超国家边界的流动轨迹（Ball, 2016; Ball et al., 2017; [[Argument_Rowe_2022_IJER|Rowe, 2022, p. 4]]）。
+> 网络[[Ethnography|民族志]]（Network Ethnography）是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者系统发展的[[Qualitative Research|质性研究]]方法，专门用于考察新自由主义与全球化背景下的[[Policy Mobility|政策流动性]]（policy mobility）与网络化治理（[[Network Governance]]）。该方法将传统民族志的深度沉浸、[[Reflexivity|反身性]]与文本分析，与[[Network Analysis|社会网络分析]]（Social Network Analysis, SNA）的关系追踪相结合，核心在于跟随（following）政策、人、思想、资金、技术与制度客体跨越公共与私营部门、国家与超国家边界的流动轨迹（Ball, 2016; Ball et al., 2017; [[Argument_Rowe_2022_IJER|Rowe, 2022, p. 4]]）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 跨国与国家政策网络、教育中介机构、风险慈善基金会、企业顾问、政府官员、立法文本、公司注册档案、资金流向及会议交往场域。
-> - **问题类型** 政策如何在异质网络中被构想、转译、游说并合法化为制度实体；非正式关系与企业资本如何重塑国家教育决策。
-> - **分析单位** 政策流动轨迹、行动者节点（人物与机构）、关系连接（互任董事、共同资助）、网络事件（峰会、工作坊）与中介话语。
-> - **输出形式** 政策网络拓扑图、行动者共同从属矩阵、制度沿革时间轴、关键节点深度个案叙事与权力机制批判阐释。
+> - **研究对象** 跨国与国家[[Policy Network|政策网络]]、[[Educational Brokerage Agency|教育中介机构]]、[[Venture Philanthropy|风险慈善]]基金会、企业顾问、政府官员、立法文本、公司注册档案、资金流向及会议交往[[Champ|场域]]。
+> - **问题类型** 政策如何在异质网络中被构想、[[Transfer Translation Transformation|转译]]、游说并合法化为制度实体；非正式关系与企业资本如何重塑国家教育决策。
+> - **[[Unit of Analysis|分析单位]]** 政策流动轨迹、行动者节点（人物与机构）、关系连接（互任董事、共同资助）、网络事件（峰会、工作坊）与中介话语。
+> - **输出形式** 政策网络拓扑图、行动者[[Co-affiliation|共同从属]]矩阵、制度沿革时间轴、关键节点深度个案叙事与权力机制批判阐释。
 
 > [!citation-card] 政策网络成员的流动性本质
 > 政策网络是社会结构与关系过程……网络成员在不同地点之间、在私营与公共部门之间移动。他们在国家内部和国家之间穿梭。许多人同时或相继担任多重职务。（Ball & Exley, 2010, p. 155; [[Argument_Rowe_2022_IJER|Rowe, 2022, p. 8]]）
@@ -47,16 +89,16 @@ updated: 2026-09-18
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
-> - **知识观** 采取批判性与关系性建构主义视角，视权力为异质网络装配生成的效应，而非预先固化的科层结构；高度关注公开表象与底层非正式运作之间的断裂。
-> - **研究者角色** 作为敏锐的侦查者与追踪者，保持批判反身性，穿透官方中立修辞与公关材料。
-> - **有效性标准** 多源材料三角互证（官方监管档案、公司注册记录、信息公开申请与深度访谈比对）、关系拓扑映射的经验可信度与厚描述解释力。
-> - **不声称回答的问题** 不用于检验大样本统计因果效应，亦不假设网络在所有历史时期均具有恒定静态结构。
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 采取批判性与关系性[[Constructivist Paradigm|建构主义]]视角，视权力为异质网络[[Assemblage|装配]]生成的效应，而非预先固化的科层结构；高度关注公开表象与底层非正式运作之间的断裂。
+> - **研究者角色** 作为敏锐的侦查者与追踪者，保持批判[[Reflexivity|反身性]]，穿透官方中立修辞与公关材料。
+> - **有效性标准** 多源材料[[Triangulation|三角互证]]（官方监管档案、公司注册记录、信息公开申请与[[In-depth Interview|深度访谈]]比对）、关系拓扑映射的经验可[[Reliability|信度]]与[[Rich and Thick Description|厚描述]]解释力。
+> - **不声称回答的问题** 不用于检验大样本统计因果效应，亦不[[Hypothesis|假设]]网络在所有历史时期均具有恒定静态结构。
 
 > [!method-stack] 方法层级
-> - **研究设计** 跨界、多点移动民族志与批判性案例研究设计。
+> - **研究设计** 跨界、多点移动[[Ethnography|民族志]]与批判性[[Case Study|案例研究]]设计。
 > - **数据收集** 监管机构企业提取报告（如澳大利亚证券与投资委员会［Australian Securities and Investments Commission, ASIC］档案）、慈善年报与财务审计、政府立法文本与咨询答复、《信息公开法》（Freedom of Information Act, FOI）申请、网络拓扑检索、行业会议观察与关键人物深度访谈。
-> - **分析方法** 关系映射（relational mapping）、共同从属网络分析（co-affiliation analysis）、转译社会学编码、政策话语分析。
+> - **分析方法** 关系映射（relational mapping）、[[Co-affiliation|共同从属]][[Network Analysis|网络分析]]（co-affiliation analysis）、[[Actor-Network Theory|转译社会学]][[Coding in Qualitative Research|编码]]、政策[[Discourse Analysis|话语分析]]。
 > - **辅助技术** 网络可视化软件（如 Gephi、UCINET）、公司登记数据库检索、时间线交叉比对。
 
 ---
@@ -64,11 +106,11 @@ updated: 2026-09-18
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. 选定政策流动起点或关键组织节点（如特定政策法案或中介机构）。
+> 1. 选定[[Policy Mobility|政策流动]]起点或关键组织节点（如特定政策法案或中介机构）。
 > 2. 开展跨界全景式网络数据挖掘（官方登记库、监管记录、财务披露、网络数字痕迹）。
 > 3. 追踪人员穿梭、资金流转与制度文本互文关系，识别核心枢纽（hubs）与从属纽带（ties）。
-> 4. 绘制政策网络关系拓扑图，标定重叠董事、双重资助与异质层级协调机制。
-> 5. 结合宏观政治经济结构与微观转译过程，撰写批判性民族志叙事。
+> 4. 绘制[[Policy Network|政策网络]]关系拓扑图，标定重叠董事、双重资助与异质层级协调机制。
+> 5. 结合宏观政治经济结构与微观[[Transfer Translation Transformation|转译]]过程，撰写批判性[[Ethnography|民族志]]叙事。
 
 ### 质性方法模块
 
@@ -76,13 +118,13 @@ updated: 2026-09-18
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 证券与投资监管机构企业登记报告、慈善与非营利机构财务披露、政府正式调查报告与立法修正案、部门往来公函与信息公开裁决、跨国基金会年度报告、峰会演讲记录。 |
-> | 抽样或选案 | 滚雪球网络抽样、关键枢纽节点深度剖析（如澳大利亚社会创投［Social Ventures Australia, SVA］、英国教育捐赠基金会［Education Endowment Foundation, EEF］、澳大利亚教育研究组织［Australian Education Research Organisation, AERO］）、跨国资助者重叠追踪。 |
-> | 研究者位置 | 外部独立学术侦查者，反思自身在学术场域中的位置，审视商业机密与制度透明度之间的博弈。 |
-> | 资料边界 | 跨越澳大利亚、英国、美国等跨国政策借用与资金转移网络；时间跨度纵贯 10 至 20 年。 |
+> | 抽样或选案 | 滚雪球网络抽样、关键枢纽节点深度剖析（如[[Social Ventures Australia\|澳大利亚社会创投]]［Social Ventures Australia, SVA］、英国[[Education Endowment Foundation\|教育捐赠基金会]]［Education Endowment Foundation, EEF］、[[Australian Education Research Organisation\|澳大利亚教育研究组织]]［Australian Education Research Organisation, AERO］）、跨国资助者重叠追踪。 |
+> | 研究者位置 | 外部独立学术侦查者，反思自身在学术[[Champ\|场域]]中的位置，审视商业机密与制度透明度之间的博弈。 |
+> | 资料边界 | 跨越澳大利亚、英国、美国等跨国[[Policy Borrowing\|政策借用]]与资金转移网络；时间跨度纵贯 10 至 20 年。 |
 
 > [!proc] 质性分析程序
 > 1. 资料清洗与实体对齐：将跨国、跨机构的企业高管、基金会理事与政府官员姓名、职务及任期进行标准化匹配。
-> 2. 关系编码与网络拓扑构建：依据资助关系、组织从属、咨询分包与立法引用建立关系矩阵。
+> 2. 关系[[Coding in Qualitative Research|编码]]与网络拓扑构建：依据资助关系、组织从属、咨询分包与立法引用建立关系矩阵。
 > 3. 制度考古与时间线重构：梳理立法演变、重大审查报告与机构成立的因果推移脉络。
 > 4. 结构与话语互证：将客观商业法律档案与主观公关宣传、媒体访谈进行反差对质，揭示意识形态遮蔽机制。
 
@@ -91,9 +133,9 @@ updated: 2026-09-18
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 适用于研究全球化与网络化治理中的教育私有化、风险慈善介入、政策借用与流动、新型智库与证据中介机构运作机制。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 4–5]])
+> - **适合使用** 适用于研究全球化与网络化治理中的[[Endogenous and Exogenous Privatisation|教育私有化]]、[[Venture Philanthropy|风险慈善]]介入、[[Policy Borrowing|政策借用]]与流动、新型智库与[[Educational Brokerage Agency|证据中介机构]]运作机制。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 4–5]])
 > - **谨慎使用** 涉及商业保密、私人高管网络壁垒或政府信息公开豁免时，需结合多方间接证据，审慎评估网络全貌的局部性与片面性。([[Argument_Rowe_2022_IJER|Rowe, 2022, p. 5]])
-> - **不适合使用** 不适合用于测算微观教学干预效应量或评估单一闭门课堂的日常教学行为。
+> - **不适合使用** 不适合用于测算微观教学干预[[Effect Size|效应量]]或评估单一闭门课堂的日常教学行为。
 
 ---
 
@@ -113,14 +155,14 @@ updated: 2026-09-18
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Actor-Network Theory]] | 理论 | 为网络民族志提供异质性、广义对称性与转译社会学的分析视角。 |
+> | [[Actor-Network Theory]] | 理论 | 为网络[[Ethnography\|民族志]]提供[[Heterogeneity\|异质性]]、广义对称性与转译社会学的分析视角。 |
 > | [[Policy Network]] | 概念 | 网络民族志所要解构和实证绘制的核心治理形态。 |
 > | [[Venture Philanthropy]] | 概念 | 网络民族志在教育领域经常追踪的核心资助与治理主体。 |
-> | [[Ethnography]] | 前置方法 | 提供田野观察、反身性与厚描述的基础方法论训练。 |
+> | [[Ethnography]] | 前置方法 | 提供[[Qualitative Observation\|田野观察]]、[[Reflexivity\|反身性]]与[[Rich and Thick Description\|厚描述]]的基础方法论训练。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 综合调取澳大利亚证券与投资委员会 17 份企业档案、慈善财务年报及信息公开公函，绘制澳大利亚国家证据中介机构澳大利亚教育研究组织（AERO）背后跨越十年的风险慈善游说与跨国政策网络。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 综合调取澳大利亚证券与投资委员会 17 份企业档案、慈善财务年报及信息公开公函，绘制澳大利亚国家[[Educational Brokerage Agency|证据中介机构]][[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）背后跨越十年的[[Venture Philanthropy|风险慈善]]游说与跨国[[Policy Network|政策网络]]。

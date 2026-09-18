@@ -8,7 +8,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
+  - "[[Teacher Choices]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
   - "[[Argument_Sarbiewska_2019_JSR]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: 2026-07-09
+updated: 2026-09-18
 ---
 ## 背景
 
@@ -56,7 +57,7 @@ updated: 2026-07-09
 >
 > 课程允许所有学校"设计自己的学习项目以满足社区和学生的需求。每所学校的课程应该是独特的、回应性的蓝图，反映学校和社区认为对学生学习重要和可取的内容。课程的愿景、价值观、原则和[[21st Century Skills and Competencies Discourse|关键能力]]为利益相关者提供了一个框架，以讨论他们希望学生成为什么样的人，以及支持学生发展潜力的最佳方式"（NZ Ministry of Education, cited in Sarbiewska, 2019, p.128）。
 >
-> 该课程是[[Outcomes-based Education|结果导向课程]]的典型代表，以广泛陈述的成就目标为特征，让学校和教师选择与这些目标相关的内容。课程强调通用能力和 21 世纪学习，知识被边缘化。2021 年启动的课程改革声称从结果导向课程转向进步导向课程([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> 该课程是[[Outcomes-based Education|结果导向课程]]的典型代表，以广泛陈述的成就目标为特征，让学校和[[Teacher Choices|教师选择]]与这些目标相关的内容。课程强调通用能力和 21 世纪学习，知识被边缘化。2021 年启动的课程改革声称从结果导向课程转向进步导向课程([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ## 时间线
 

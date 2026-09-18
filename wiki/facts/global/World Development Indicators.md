@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
   - "[[Return on Investment]]"
+  - "[[Commensuration]]"
   - "[[Grade Retention]]"
   - "[[Document]]"
   - "[[Operationalization]]"
@@ -78,7 +79,7 @@ updated: 2026-09-18
 ## 方案设计与运行机制
 
 > [!claim] 核心机制假说
-> WDI 的核心机制在于将不可通约的全球发展差异浓缩为可跨国直接比较的数字指标，以此为[[World Bank|世界银行]]构建政策处方提供"客观科学"的数据庇护；指标数量的历史性爆炸式增长本身就是世界银行对全球教育规制话语权持续扩张的制度性证据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> WDI 的核心机制在于将不可[[Commensuration|通约]]的全球发展差异浓缩为可跨国直接比较的数字指标，以此为[[World Bank|世界银行]]构建政策处方提供"客观科学"的数据庇护；指标数量的历史性爆炸式增长本身就是世界银行对全球教育规制话语权持续扩张的制度性证据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!policy-design]- 方案设计
 > - **数据收集方式** 整合各国官方行政统计（教育部数据）、人口普查、家庭调查（如[[UNICEF|儿童基金会]][[Multiple Indicator Cluster Surveys|MICS]]、世行 LSMS）与国际组织专项调查，经标准化处理后汇入数据库。
@@ -132,7 +133,7 @@ updated: 2026-09-18
 > > - **批判视角** 1,600 余项[[Performance Indicators|教育指标]]的存在制造了典型的[[Surplus of Evidence|证据过剩]]状态，使得任何政府官员都不可能通读全量数据；[[World Bank|世界银行]]由此获得了"提炼者"与"诠释者"的垄断特权——这正是 Steiner-Khamsi 等人所批判的世界银行[[Policy Brokerage|政策中介]]的自指性扩张机制。
 > > - **世行辩护** 免费开放的原则使全球任何研究者都能独立下载原始数据并自行分析，最大限度降低了信息不对称。
 > >
-> > [!axis] [[Human Capital Theory|人力资本理论]]框架的强行通约化
+> > [!axis] [[Human Capital Theory|人力资本理论]]框架的强行[[Commensuration|通约化]]
 > > WDI 教育指标体系的设计隐含了特定的政策[[Paradigm|范式]]预设。
 > >
 > > - **比较教育批评** WDI 的教育指标体系从框架设计之初便高度服务于教育回报率与[[Human Capital Theory|人力资本]]测算范式，对教育的公民养成、文化传承与个人自由发展等非经济维度缺乏系统性量化，这种框架性偏见深刻影响了全球南方国家的教育政策优先序。

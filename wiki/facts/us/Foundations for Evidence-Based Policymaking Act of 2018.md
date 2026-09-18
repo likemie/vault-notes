@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - theme/federal-education-policy
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Scientifically Based Research]]"
   - "[[Output-Oriented Governance]]"
   - "[[Paradigm]]"
   - "[[Confidentiality]]"
@@ -65,7 +66,7 @@ updated: 2026-09-18
 > - **发布时间 / 发布主体** 2018 年由美国第 115 届国会两院跨党派全票或压倒性多数通过，2019 年 1 月 14 日由总统签署成为联邦公法（公法编号：P.L. 115-435）。
 > - **适用地区 / 对象** 覆盖美国联邦政府所有首席财务官法案（CFO Act）内阁级与独立行政部委（包含美国联邦教育部 U.S. Department of Education, ED）、国家统计机构、公共数据用户与学术科研界。
 > - **宪政约束与财政杠杆机制** 美国宪法第十修正案确立了联邦制分权原则，将绝大部分教育事务的管辖权留给各州与地方学区，联邦政府既不直接决定课程教材，也不统一制定[[Academic Achievement|学业成就]]基准。联邦介入教育治理的核心机制在于财政拨款的附带法定约束，这一传统奠定于 1965 年签署的[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]（Elementary and Secondary Education Act, ESEA）及其核心的第一条款（[[Title I of the Elementary and Secondary Education Act]], Title I）。Title I 作为美国规模最大的联邦中小学补偿性教育财政专项，通过向低收入家庭集中的学区提供公式拨款，同时附带强制性评估与证据要求。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 41)]]
-> - **问题背景与治理转型** 2001 年不让一个孩子掉队法（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）将“基于科学的研究”写入 ESEA 法条，但规制型政策将单一[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）与高利害问责死板挂钩，诱发了教学窄化与集体舞弊危机；2017 年国会内部更爆发了关于是否废除强制收集按种族分层学业成绩数据（Race-Disaggregated Data）的激烈党派交锋。传统[[Output-Oriented Governance|循证治理]]面临部委数据孤岛、格式封闭、科研调取壁垒以及过度将 RCT 奉为唯一金标准的方法论瓶颈。法案系统承接了联邦循证决策委员会（Commission on Evidence-Based Policymaking, CEP）的核心建议，标志着联邦循证治理从狭隘的实验门槛转向全政府数据开放与治理基座的重大[[Paradigm|范式]]跃升。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–43)]]
+> - **问题背景与治理转型** 2001 年不让一个孩子掉队法（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）将“[[Scientifically Based Research|基于科学的研究]]”写入 ESEA 法条，但规制型政策将单一[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）与高利害问责死板挂钩，诱发了教学窄化与集体舞弊危机；2017 年国会内部更爆发了关于是否废除强制收集按种族分层学业成绩数据（Race-Disaggregated Data）的激烈党派交锋。传统[[Output-Oriented Governance|循证治理]]面临部委数据孤岛、格式封闭、科研调取壁垒以及过度将 RCT 奉为唯一金标准的方法论瓶颈。法案系统承接了联邦循证决策委员会（Commission on Evidence-Based Policymaking, CEP）的核心建议，标志着联邦循证治理从狭隘的实验门槛转向全政府数据开放与治理基座的重大[[Paradigm|范式]]跃升。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–43)]]
 
 ---
 
@@ -93,7 +94,7 @@ updated: 2026-09-18
 
 > [!timeline] 政策时间线
 > - **1965** 约翰逊总统签署[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]（ESEA），创设第一条款（[[Title I of the Elementary and Secondary Education Act|Title I]]）补偿性财政拨款杠杆。
-> - **2001** 乔治·布什总统签署不让一个孩子掉队法（[[No Child Left Behind Act 2001|NCLB]]），首次将“基于科学的研究”刚性嵌入 ESEA 第一条款的拨款与问责门槛。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 41)]]
+> - **2001** 乔治·布什总统签署不让一个孩子掉队法（[[No Child Left Behind Act 2001|NCLB]]），首次将“[[Scientifically Based Research|基于科学的研究]]”刚性嵌入 ESEA 第一条款的拨款与问责门槛。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 41)]]
 > - **2016** 国会跨党派通过《循证决策委员会法案》，由众议院议长保罗·瑞安与参议员帕蒂·默里联合推动成立跨党派联邦循证决策委员会（CEP）。
 > - **2017** CEP 提交里程碑式最终报告《承诺循证决策》；同年国会就废除种族分层数据收集动议爆发激烈博弈。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
 > - **2018** 国会两院跨党派全票或压倒性多数通过 FEBPA。

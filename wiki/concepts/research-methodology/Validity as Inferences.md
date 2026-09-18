@@ -5,7 +5,7 @@ aliases:
 summary: "效度被理解为推论的属性而非测试或实验本身的属性，验证是持续修正推论边界与证据基础的过程"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,13 +30,14 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Observation Method]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Every Student Succeeds Act]]"
 related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-13
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -93,5 +94,5 @@ updated: 2026-09-13
 
 > [!warning] 争议与批评
 > - **[[Operationalization|操作化]]困难** 如果验证是永无止境的过程，研究人员和政策制定者何时可以"足够确信"以采取行动？效度作为过程的立场提供了哲学严谨性但缺乏操作性的停止规则。
-> - **与证据等级体系的张力** ESSA 的三级[[Evidence Standards|证据标准]]（强/中/有希望）将效度隐含地定位在研究设计层面而非推论层面——与 Cronbach/Messick 的立场在根本上不一致
+> - **与证据等级体系的张力** [[Every Student Succeeds Act|ESSA]] 的三级[[Evidence Standards|证据标准]]（强/中/有希望）将效度隐含地定位在研究设计层面而非推论层面——与 Cronbach/Messick 的立场在根本上不一致
 

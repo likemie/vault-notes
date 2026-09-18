@@ -10,7 +10,7 @@ aliases:
 summary: "测量工具因题项难度分布或量程受限导致得分在最高端或最低端过度聚集的数据截断缺陷，会导致方差缩减并人为低估干预的真实因果效应量，是导致教育试验微弱效应的关键测量学根源"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Reliability]]"
   - "[[Document]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
 related_theories:
@@ -61,7 +62,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Floor and Ceiling Effects
@@ -155,7 +156,7 @@ updated: 2026-09-17
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **因果遮蔽命题** | 揭示天花板与地板效应如何通过截断方差人为稀释效应量，制造假阴性证据 | 量化因果评估、测验误差诊断、试验复盘 | Hodgen et al. (2019); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
-> | **测量治理命题** | 阐明自编测验虚高与商业测验截断的两难困境，提出前置准入测量库的治理方案 | 证据中介机构规范、测验选择准则、测评基础设施 | Allen et al. (2018) |
+> | **测量治理命题** | 阐明自编测验虚高与商业测验截断的两难困境，提出前置准入测量库的治理方案 | [[Educational Brokerage Agency\|证据中介机构]]规范、测验选择准则、测评基础设施 | Allen et al. (2018) |
 
 ---
 

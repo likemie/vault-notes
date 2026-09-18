@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Transfer Translation Transformation]]"
+  - "[[Policy Mobility]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Creativity]]"
   - "[[Policy Network]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Travelling Policy
@@ -64,7 +65,7 @@ updated: 2026-09-17
 > 旅途政策（Travelling Policy，亦称旅途改革 travelling reforms）是全球化时代比较教育政策转移研究的核心概念。它指的是特定的教育改革方案（如“以学生为中心”的教学法或“能力本位”课程）脱离了其原有的社会和历史脉络，在跨国政策空间中进行多维循环，并在不同本土情境中被不断解构、[[Transfer Translation Transformation|转译]]（translation）和重新合法化的非线性流变过程。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])
 
 > [!concept-lens] 概念透镜
-> - **非线性流动** 否定了传统线性“输入-输出”或简单“借用-出借”的双边对称模式，认为政策流动是多向、网格式且难以预测的流变过程。(引自 [[Argument_Beech_2009_CE|Beech, 2009]])
+> - **非线性流动** 否定了传统线性“输入-输出”或简单“借用-出借”的双边对称模式，认为[[Policy Mobility|政策流动]]是多向、网格式且难以预测的流变过程。(引自 [[Argument_Beech_2009_CE|Beech, 2009]])
 > - **无主权属** 政策在流通过程中由于被不断转译，往往成为“无明确单一源头”与“多重轨迹”的共同体拼贴，即成为“无人拥有却人人效法的改革”（nobody's and everybody's reform）。
 > - **话语中介** 全球性的“流动话语”（flowing discourses，如“[[21st Century Skills and Competencies Discourse|21世纪技能]]”、“[[Creativity|创造力]]”等）充当了政策旅行的催化剂，使地方[[Policy Network|政策网络]]在追求“世界级”标准的焦虑下主动将其嵌入。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])
 

@@ -6,7 +6,7 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和全球远处治理。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theme/global-governance
 related_concepts:
   - "[[Network Governance]]"
+  - "[[Policy Mobility]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
@@ -42,6 +43,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Michael Barber]]"
 related_facts:
+  - "[[The Education Trust]]"
   - "[[Teach First New Zealand]]"
   - "[[Cognition Education]]"
   - "[[Common School Movement]]"
@@ -55,7 +57,7 @@ related_instruments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Policy Entrepreneur
@@ -69,7 +71,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种能够跨越公共、非营利和营利等多个传统分立界限的，具有极高能动性与资源打包能力的跨界行动者。
-> - **用途** 它帮助研究者透视全球化治理中传统民族国家行政权威被“分散权威”和跨国多行动者网络蚕食后，政策流动背后的能动主体和微观机制。
+> - **用途** 它帮助研究者透视全球化治理中传统民族国家行政权威被“分散权威”和跨国多行动者网络蚕食后，[[Policy Mobility|政策流动]]背后的能动主体和微观机制。
 > - **边界** 不应将所有的普通游说团体或单纯执行政策的学校管理人员视为政策企业家；它强调主动创造或利用政策窗口、对知识产权进行商业化包装并建立网络化契约关系的创业特征。
 
 > [!citation-card]- 关键表述
@@ -120,7 +122,7 @@ updated: 2026-09-17
 > 这一命题关注在去中心化的全球教育治理中，政策企业家如何利用数据和评估指标，绕过国家主权屏障，在跨国尺度上实施软性政策控制。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **多行动者交织的远处治理** 论证了二战后比较教育从国家单向借用工具演变至 2000s 后的分散权威空间，大数据、基准测试以中立客观之名行使远处治理，政策企业家与国际组织、非政府组织和跨国公司共同交织成网络，充当政策流动和理性化规范输出的主体。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> **多行动者交织的远处治理** 论证了二战后比较教育从国家单向借用工具演变至 2000s 后的分散权威空间，大数据、基准测试以中立客观之名行使远处治理，政策企业家与国际组织、非政府组织和跨国公司共同交织成网络，充当[[Policy Mobility|政策流动]]和理性化规范输出的主体。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 ---
 
@@ -130,7 +132,7 @@ updated: 2026-09-17
 > 探讨政策企业家如何将非营利信托或慈善话语与商业资本、多边开发援助项目结合，模糊公私界限以引导资本进入公共教育系统。
 
 > [!claim] O'Neill, J.
-> **混合创业与资本剥离** 指出政策企业家通过建立非营利性教育信托（如 [[Teach First New Zealand]] 或 [[Cognition Education|Cognition Education Trust]]），一方面获取政府合同和慈善免税资格，另一方面通过旗下的营利性子公司和国际商业合作商，将[[Common School Movement|公共学校]]服务转化为可源源不断抽取商业利润的品牌产品。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. viii–ix]])
+> **混合创业与资本剥离** 指出政策企业家通过建立非营利性[[The Education Trust|教育信托]]（如 [[Teach First New Zealand]] 或 [[Cognition Education|Cognition Education Trust]]），一方面获取政府合同和慈善免税资格，另一方面通过旗下的营利性子公司和国际商业合作商，将[[Common School Movement|公共学校]]服务转化为可源源不断抽取商业利润的品牌产品。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. viii–ix]])
 
 ---
 

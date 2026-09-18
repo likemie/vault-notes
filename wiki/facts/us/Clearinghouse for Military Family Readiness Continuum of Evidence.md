@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Propensity Score Matching]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-09-18
 ---
 
 # Clearinghouse for Military Family Readiness Continuum of Evidence
@@ -85,7 +86,7 @@ updated: 2026-08-21
 > CMFR 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=3, [[Regression Discontinuity Design|RDD]]=0, [[Intelligent Tutoring Systems|ITS]]=0**，是少数同时为 RCT 和准实验（QED）均制定详尽审查手册的机构之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
 >
 > 1. **[[Attrition|流失]]率刚性红线** 设定了不超过 **20%** 的总样本流失率上限，且对处理组与对照组差异流失进行严格控制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
-> 2. **准实验匹配控制** 对 QED 的倾向得分匹配、基线协[[Variable|变量]]平衡性制定了细致的审核规程。
+> 2. **准实验匹配控制** 对 QED 的[[Propensity Score Matching|倾向得分匹配]]、基线协[[Variable|变量]]平衡性制定了细致的审核规程。
 
 ---
 

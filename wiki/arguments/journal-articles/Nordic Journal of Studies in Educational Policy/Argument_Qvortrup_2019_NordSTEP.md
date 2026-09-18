@@ -96,7 +96,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > - 丹麦 Hattie 批评中存在将学术争论转化为"文化战争"的倾向——对手先被解除武装（如通过嘲笑），然后被诉诸最低大众偏见公约数的打击致死(p.5)
-> - 对 [[Visible Learning|VL]] 的辩护框架：VL 是支持而非取代教师[[Professional Judgment|专业判断]]的工具——[[Effect Size|效应量]]提供概率信息，反馈作为修正机制(p.6-7)
+> - 对 VL 的辩护框架：VL 是支持而非取代教师[[Professional Judgment|专业判断]]的工具——[[Effect Size|效应量]]提供概率信息，反馈作为修正机制(p.6-7)
 
 ## 关键引用
 
@@ -111,7 +111,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 论文为讨论论文（discussion paper），非实证研究——论点未经过系统数据检验
-> - Qvortrup 本人是丹麦 Hattie 译本的导言作者之一——作为 [[Visible Learning|VL]] 的直接推广者，其辩护者的立场可能影响其分析的中立性
+> - Qvortrup 本人是丹麦 Hattie 译本的导言作者之一——作为 VL 的直接推广者，其辩护者的立场可能影响其分析的中立性
 > - 论文将丹麦批评者整体定性为"解释社群"和"文化战争"可能过度简化——部分批评（如 Rømer 2018 的五线哲学批评、Nielsen & Klitmøller 2021 的合法化危机分析）确实提出了实质性的学术论点，不应被简单归类为意识形态驱动的误读
 > - Qvortrup 的"观察透镜"[[Epistemology|认识论]]可能滑向相对主义——如果不问透镜可以产生同样有效的但相互矛盾的图像，如何在不同透镜之间做出合理判断？
 

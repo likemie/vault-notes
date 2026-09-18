@@ -20,6 +20,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Document]]"
   - "[[Normal School]]"
+  - "[[Data Infrastructure]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Industry Co-location]]"
   - "[[Paradigm]]"
@@ -56,7 +57,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -164,7 +165,7 @@ citation_aliases:
 
 > 试想一所师范大学的战略重点从"课程与教学论"转向"教育技术"。与地方教育局的实习基地合作（Regions）、在职教师培训项目（Readiness）、毕业生招聘管道（Recruiting）未必需要随研究方向而变化。但如果度量指标只有"合作论文数"一项（Research），其他维度的价值就完全看不见，管理者也就无法做出分维度的精细调整。
 
-11. 六 R 框架的运作依赖于一个数据基础设施：IBM 的中央数据库追踪了全球约 2000 所高校的投资历史和成果，覆盖 30 余万员工、每年约 3 万新聘和实习人员的信息(p.89)。每位伙伴关系执行主管（Partnership Executive Program, PEP）在访问一所大学之前，可以调取一份关系全景报告：该校有多少教师接受过 IBM 研究资助、专业领域分布如何；历年从该校招聘的员工数量和学位分布、现任高管中的校友有多少；该校是否是 IBM 软件或超算的客户。所有这些信息汇总为一份大学作为"复杂企业"的剖面图。
+11. 六 R 框架的运作依赖于一个[[Data Infrastructure|数据基础设施]]：IBM 的中央数据库追踪了全球约 2000 所高校的投资历史和成果，覆盖 30 余万员工、每年约 3 万新聘和实习人员的信息(p.89)。每位伙伴关系执行主管（Partnership Executive Program, PEP）在访问一所大学之前，可以调取一份关系全景报告：该校有多少教师接受过 IBM 研究资助、专业领域分布如何；历年从该校招聘的员工数量和学位分布、现任高管中的校友有多少；该校是否是 IBM 软件或超算的客户。所有这些信息汇总为一份大学作为"复杂企业"的剖面图。
 
 12. 这一步的论证力量在于，它将"信任"从抽象的修辞转化为可追踪、可积累、可通过数据透明的管理实践。信任建立在双方共享的合作历史数据之上。当 PEP 主管带着对该校关系的全景理解走进大学校长办公室时，校长能感受到对方真的了解自己、重视这段关系，这种感受本身就是信任的具体载体。
 
@@ -256,7 +257,7 @@ citation_aliases:
 > [!success]
 > 1. 产学关系的度量、激励、奖励与文化是需要随企业商业环境和战略重点持续调适的动态系统。IBM 从 2000 年代的全球整合企业到 2010 年代的认知计算与混合云，每一次战略转型都要求重新校准六 R 投资组合中各领域的权重(pp.88, 96–97)。
 > 2. 度量指标随投资规模发生质变。小型项目（<$250K）以出版物和人才招聘为核心度量，IP 条款的过度谈判反而阻碍合作启动；中型项目（$250K–$1M）以建立能力中心的时间和研究生管道为核心；大型项目（>$1M）以合作密度、产业成员数量和外部资金撬动为核心(pp.91–95)。
-> 3. 信任是[[University-Industry Collaboration|产学合作]]的根基，IBM 通过中央数据库为 2000 余所高校维护投资历史和成果全景，使每位 PEP 主管在访问大学前都能获取量化的关系数据。信任的可[[Operationalization|操作化]]正是六 R 框架背后的数据基础设施(p.89)。
+> 3. 信任是[[University-Industry Collaboration|产学合作]]的根基，IBM 通过中央数据库为 2000 余所高校维护投资历史和成果全景，使每位 PEP 主管在访问大学前都能获取量化的关系数据。信任的可[[Operationalization|操作化]]正是六 R 框架背后的[[Data Infrastructure|数据基础设施]](p.89)。
 > 4. [[Translational Research|转化研究]]存在系统性技能缺口：学术机构缺乏将 IP 连接到产业需求的动机和路径，企业研究部门缺乏将研究创新推向硬化产品的工程师。IBM 通过将博士与学士/硕士的比例从 70/30 调整至接近 50/50 来应对这一缺口，但更根本的解决方案需要改革大学的人才培养结构，包括推动 T 型技能的发展(pp.95–96)。
 > 5. AI 可能通过数字孪生改变产学合作的形式和效率。核心逻辑不变：信任加上有效使用 AI 的服务提供者将取代仅有信任或仅依赖 AI 的任何一方(p.97)。
 

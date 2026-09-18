@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -64,7 +64,6 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Peer-Assisted Learning Strategies]]"
   - "[[Evidence Network]]"
-  - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Slavin_2019_EP]]"
@@ -72,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Best Evidence Encyclopedia

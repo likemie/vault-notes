@@ -62,7 +62,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Meta-regression]]"
-  - "[[PRISMA]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
@@ -79,6 +78,7 @@ related_instruments:
   - "[[Remote Associates Test]]"
   - "[[Alternate Uses Test]]"
   - "[[Emotional Creativity Inventory]]"
+  - "[[PRISMA]]"
   - "[[Originality Scale of Visual Metaphors]]"
 related_persons:
   - "[[Edward de Bono]]"

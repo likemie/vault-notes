@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 84
+related_count: 92
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -55,9 +55,14 @@ related_concepts:
   - "[[Research-Engaged School]]"
   - "[[Problem Solving]]"
   - "[[Activity Traps]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Reliability]]"
+  - "[[Normal School]]"
   - "[[Technical Rationality]]"
   - "[[Knowledge Mediation]]"
   - "[[Evidence Standards]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Research-Practice Gap]]"
   - "[[Absorptive Capacity]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
@@ -74,6 +79,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
+  - "[[Meta-analysis]]"
   - "[[Action Research]]"
   - "[[Network Analysis]]"
   - "[[Questionnaire]]"
@@ -87,6 +93,7 @@ related_methods:
 related_persons:
   - "[[Toby Greany]]"
 related_facts:
+  - "[[Clearing House Unterricht]]"
   - "[[Teaching and Learning Research Programme]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[ResearchED]]"
@@ -106,12 +113,13 @@ related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Evidence-Informed Practice
@@ -121,7 +129,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于打破单向供给推送（Push）偏误，转向以一线实践者为中心的需求牵引（Pull），依托榜样型领导力示范、内置排程工时保障以及全系统[[Knowledge Mobilisation|知识动员]]支撑，实现对适切研究证据的审慎参与与常态化实施。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–129)]]；[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 17–18)]]；[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 183–185)]]
+> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于打破单向供给推送（Push）偏误，转向以一线实践者为中心的需求牵引（Pull），依托榜样型领导力示范、内置排程工时保障以及全系统[[Knowledge Mobilisation|知识动员]]支撑，实现对适切研究证据的审慎参与与常态化实施。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–129)]]；[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 17–18)]]；[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 183–185)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注研究证据在教育决策中的位置、转化机制与使用质量：研究是证据拼图的关键板块，须由教育者结合微观教学现场与宏观系统数据进行批判性审议与情境化调试。
@@ -270,11 +278,11 @@ updated: 2026-09-17
 > [!concept-lens] 使用质态与组织使能机制
 > 探讨研究证据进入实践现场后如何避免形式化套用，剖析高质量使用的实践特征与学校组织生态保障。
 
-> [!claim] [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]]
-> **从证据质量向使用质量的范式位移** 证据知情实践的成败不仅取决于外部证据本身是否达到方法学严谨，更取决于实践端的使用质量（Quality of Use）。忽视使用质量会导致 EIP 蜕化为追逐时髦风向、证实偏见或管理层单向强推新奇点子等劣质使用；高质量 EIP 具备目标明确、常态嵌入、连接专业精神、集体参与、依赖时间精力与好奇心驱动六大特征，其实质是将研究内化为教师专业反思与协作改进的内在基因。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 185–191)]]
+> [!claim] [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b)]]
+> **从证据质量向使用质量的范式位移** 证据知情实践的成败不仅取决于外部证据本身是否达到方法学严谨，更取决于实践端的使用质量（Quality of Use）。忽视使用质量会导致 EIP 蜕化为追逐时髦风向、证实偏见或管理层单向强推新奇点子等劣质使用；高质量 EIP 具备目标明确、常态嵌入、连接专业精神、集体参与、依赖时间精力与好奇心驱动六大特征，其实质是将研究内化为教师专业反思与协作改进的内在基因。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 185–191)]]
 
-> [!claim] [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]]
-> **组织生态与制度化排程的刚性底座** EIP 的常态化落地深度依赖学校组织支持，尤其是学校管理层言行一致、亲身示范教学转化，以及通过[[Professional Learning Community|专业学习共同体]]（PLCs）打破教师的[[Research Literacy|研究素养]]与质量甄别信心赤字。更为严峻的是，压倒性的时间匮乏与繁冗行政文书构成了扼杀 EIP 的最大制度壁垒，唯有在日常工作量与排程中刚性划拨专有教研工时，倡导放慢节奏以换取长远加速，才能消除教师身心倦怠，保障 EIP 的可持续生命力。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 191–195)]]
+> [!claim] [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b)]]
+> **组织生态与制度化排程的刚性底座** EIP 的常态化落地深度依赖学校组织支持，尤其是学校管理层言行一致、亲身示范教学转化，以及通过[[Professional Learning Community|专业学习共同体]]（PLCs）打破教师的[[Research Literacy|研究素养]]与质量甄别信心赤字。更为严峻的是，压倒性的时间匮乏与繁冗行政文书构成了扼杀 EIP 的最大制度壁垒，唯有在日常工作量与排程中刚性划拨专有教研工时，倡导放慢节奏以换取长远加速，才能消除教师身心倦怠，保障 EIP 的可持续生命力。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 191–195)]]
 
 ---
 
@@ -304,6 +312,16 @@ updated: 2026-09-17
 
 ---
 
+### 命题七　推进教师专业化循证转向必须依托专门证据中介机构建立受众适配的决策脚手架
+
+> [!concept-lens] 教师教育中介化专业化机制
+> 探讨如何克服教师专业立论要求与学术[[Document|文献]]深奥深层脱节的矛盾，论证通过第三方[[Educational Evidence Clearinghouses|证据清算中心]]对高因果[[Reliability|信度]][[Meta-analysis|元分析]]进行二次加工、并以师资培训者为骨干支点推动 EIP 常态化落实的内在机制。
+
+> [!claim] Knogler, M., et al.
+> **中介转化与骨干辐射机制** 教师职业向类似医学的专门职业转型，其核心特征是教学决策日益建立在坚实的科学实证证据之上；然而，学术研究的理论旨趣与微观课堂的即时操作诉求存在深刻的生产逻辑割裂，导致单纯的信息发布无法转化为实践行动。克服这一阻滞的关键在于引入第三方的专门[[Educational Evidence Clearinghouses|教育证据清算机构]]（如德国 [[Clearing House Unterricht]]）：专家团队以高因果信度的[[Meta-analysis|元分析]]为基底，依据严格标准提炼为轻量化教学简评（Kurzreviews）、术语指南与专题播客，实质性消除实践者的语言与统计认知门槛；同时，重点面向高校[[Normal School|师范教育]]者（Lehrkräftebildende）与进修主管等骨干中介群体（Multiplikatoren），将证据知情探究内生嵌入教师职前培养与在职研修体系，依托双向反馈机制推动证据知情实践在教育教学常态中持续落实。[[Argument_Knogler_2025_BB|(Knogler et al., 2025, pp. 13–16)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -312,9 +330,10 @@ updated: 2026-09-17
 > | **多源整合** | 研究证据只是决策资源之一，专业判断为情境整合枢纽，以探究循环融通数据与研究 | 克服机械执行，超越 DBDM 与 RITP 双轨割裂 | Sharples (2013); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]; [[Argument_Brown_2017_ER\|Brown et al. (2017)]] |
 > | **证据合法性** | 因果黄金标准与实践本位证据并存，适切性重于普遍性 | 倡导课堂数据三角验证与情境判断 | Goldacre (2013); Bredo (2006); Bryk (2015); Rickinson et al. (2017) |
 > | **系统动员** | 系统推进依赖肥沃土壤与双向能力，推动从实施转向整合 | 建设 [[Research-Practice Partnership\|RPP]] 伙伴关系、跨界中介与探究文化 | Campbell et al. (2017); [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
-> | **使用质量与组织使能** | 从证据质量转向使用质量，以榜样领导与工时排程破除时间赤字 | 防范劣质使用异化，推动循证成为教师专业自觉 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] |
+> | **使用质量与组织使能** | 从证据质量转向使用质量，以榜样领导与工时排程破除时间赤字 | 防范劣质使用异化，推动循证成为教师专业自觉 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] |
 > | **学校条件配置** | 能力、文化规范、学习环境与结构资源须同时具备，任一缺位都使 EIP 难以稳定 | 学校层面推进 EIP 的准备状态诊断与优先排序 | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]; Stoll et al. (2006); Katz & Dack (2013) |
 > | **成果评估** | 存在双重知识缺口，须结合中间与多维长期成果综合评价 | 结合量化指标与质性描述，拒绝狭隘量化主义 | Coburn et al.; Wentworth et al. (2017) |
+> | **中介化专业化** | 依托第三方清算中介开展元分析通俗化转译，以高校师资培训者为骨干支点推进常态化落实 | 区域与国家级[[Normal School\|师范教育]]体系循证转型与中介服务生态构建 | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]]; Bauer & Kollar (2023) |
 
 ---
 
@@ -331,7 +350,8 @@ updated: 2026-09-17
 > - **2021 — [[Local Knowledge in Evidence-Based Policy|地方知识]]与多维决策信息的显影** [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] 结合 [[Every Student Succeeds Act|ESSA]] [[Evidence Standards|证据标准]]与巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证实施语境、成本与地方知识对证据使用的塑造作用。
 > - **2022 — 系统论转向与政策调查国际映射** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 依托[[OECD|经合组织]]（OECD）项目将 EIP 拓展至 29 个国家的 37 个教育系统，从复杂系统论和行动者生态视角，揭示政策制定者与实践者在证据知情过程中面临的结构性壁垒与共创瓶颈。
 > - **2022 — 实践倾斜反思、商业异化与循证医学镜鉴** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 考证 EIP 重心由政策端向实践端的历史转移（如 [[Education Endowment Foundation|EEF]] 与 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 的兴起），警告过度偏向课堂易诱发政策层自我脱责；揭示证据知情标签存在被商业资本与自利操纵者绑架的异化风险，并援引循证医学危机阐明僵化指南对专业判断的潜在侵蚀。
-> - **2022 — 从证据质量向使用质量的[[Paradigm|范式]]跃升** [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] 结合澳大利亚 4 州 906 名教育者实证调查，将 EIP 由单纯讨论证据生产转向深耕使用质量，凝练出高质量使用六大特征并确立榜样领导与工时排程的刚性使能地位。
+> - **2022 — 从证据质量向使用质量的[[Paradigm|范式]]跃升** [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b)]] 结合澳大利亚 4 州 906 名教育者实证调查，将 EIP 由单纯讨论证据生产转向深耕使用质量，凝练出高质量使用六大特征并确立榜样领导与工时排程的刚性使能地位。
+> - **2025 — 欧陆本土中介范式与骨干深化** [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] 总结德语区首个清算中心 [[Clearing House Unterricht|CHU]] 近十年实践，确立以[[Meta-analysis|元分析]]为证据源头、经通俗二次加工向高校[[Normal School|师范教育]]者骨干群体辐射的[[Knowledge Transfer|知识转移]]模式，论证适配受众需求的精炼产品、师资培训枢纽与双向反馈机制是破解[[Research-Practice Gap|转移困境]]的制度化保障。
 > - **2026 — 从线性实施转向多维整合** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 基于跨国[[Systematic Review|系统综述]]，主张 EIP 应由外部干预的机械执行，转向强调[[Teacher Professional Agency|教师能动性]]、多源知识交互与跨层治理的整合范式。
 > - **2018 — 组织单位上移与四类关键因素** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 把[[Unit of Analysis|分析单位]]由个体决策上移至学校组织，提出参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四类关键因素，并在英格兰 79 所小学测量其准备状态;研究同时指出 EIP 的稳定推进依赖外部问责与督导框架的明确支持。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122–126, 133)]]
 
@@ -357,7 +377,7 @@ updated: 2026-09-17
 > > 传统循证政策长期将资源倾斜于成果生产与数据库单向推送（Push），而实践界呼吁转向终端[[Absorptive Capacity|吸收能力]]与学校组织生态建设（Pull）。
 > >
 > > - **传统学术供给侧** 预设只要提供严谨的综合简报与数据库，实践端便会自然采纳。
-> > - **[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]]** 指出单向推送无法化解实践者的技能信心赤字与时间匮乏，唯有在需求端进行组织使能投资才能实现实质落地。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 183–185, 193–195)]]
+> > - **[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b)]]** 指出单向推送无法化解实践者的技能信心赤字与时间匮乏，唯有在需求端进行组织使能投资才能实现实质落地。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 183–185, 193–195)]]
 
 > [!tension] 核心张力
 > - **实验黄金标准（What Works）** 追求普遍因果效度与标准化干预效果，主张依据证据金字塔等级实施干预方案。
@@ -365,7 +385,7 @@ updated: 2026-09-17
 
 > [!warning] 适用局限
 > - **多源整合的模糊性与权衡标准缺失** 若未建立严谨的审议框架，多源整合容易导致不同利益主体各取所需，使同一批评估数据得出截然相反的结论。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 123)]]
-> - **压倒性时间赤字与行政杂务挤压** 澳大利亚调查显示，高达 76% 教师在校缺乏时间、61% 感到耗时不划算，在缺乏专有工时保障的科层体制中，EIP 极易异化为透支教师个人休息时间的隐性负担或走过场。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 192–193)]]
+> - **压倒性时间赤字与行政杂务挤压** 澳大利亚调查显示，高达 76% 教师在校缺乏时间、61% 感到耗时不划算，在缺乏专有工时保障的科层体制中，EIP 极易异化为透支教师个人休息时间的隐性负担或走过场。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 192–193)]]
 > - **动态社会过程的测量与归因困境** EIP 是一项跨层级的复杂社会交互过程，因果链条冗长，过度追求量化指标易诱发指标异化风险。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 133)]]
 > - **西方英语语境中心主义** 现有 EIP 理论与实证积累高度集中于英美加澳等国，在高度中央集权或资源匮乏的教育系统中，其制度适用性与中介机制仍有待检验。
 
@@ -379,7 +399,7 @@ updated: 2026-09-17
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brown_2017_ER\|Brown et al. (2017, pp. 158, 161)]] | 荷兰与瑞典 80 余所中小学（[[Data Team Intervention\|数据团队]]干预）及英格兰 43 所小学（[[Research Learning Communities\|RLC]] 专业网络） | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、跟踪评估与[[Network Analysis\|社会网络分析]]（SNA） | [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 两大微观干预对教师素养、教研文化与[[Academic Achievement\|学业成绩]]的影响 | 数据团队显著提升[[Data Literacy\|数据素养]]并带动部分学校数学与阅读成绩增长，但教师普遍苦于无法独立研制干预措施；RLC 显著提升[[Research Translation\|研究转译]]与协作文化，但缺乏数据诊断时易陷入追逐热门话题偏差 | RCT 与 SNA 检验具有显著积极成效 | 实证印证了两大[[Paradigm\|范式]]各自具有实证效能但存在互补盲区，支持通过 [[School Enquiry Cycle\|ESTI]] 整合为统一的证据知情循环 |
-> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] | 澳大利亚 4 个州（NSW、VIC、QLD、SA）中小学 906 名教育者（Survey 1 为 492 人，Survey 2 为 414 人）及 29 名访谈受访者 | 两轮标准化[[Questionnaire\|问卷调查]]（SPSS 重[[Coding in Qualitative Research\|编码]]与 Fisher 精确检验）与半结构化[[In-depth Interview\|深度访谈]]（主题分析） | [[Research Utilization\|证据使用]]行为、使能条件与阻碍因素（领导示范、[[Professional Learning Community\|PLCs]]、时间赤字、质量信心） | 76% 报告在校严重缺乏接触研究时间；61% 认为耗时过长致使用不划算；59% 课后加班、69% 周末研读；84% 管理者与 73% 教师认同领导言行一致示范；44% 缺乏质量判断信心；PLCs 显著提升常规使用概率 | Fisher 精确检验 $p < .05$ | 基于澳大利亚基础教育教师与管理者的经验自陈，课堂直接教学行为客观测量仍待跨国拓展 |
+> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 澳大利亚 4 个州（NSW、VIC、QLD、SA）中小学 906 名教育者（Survey 1 为 492 人，Survey 2 为 414 人）及 29 名访谈受访者 | 两轮标准化[[Questionnaire\|问卷调查]]（SPSS 重[[Coding in Qualitative Research\|编码]]与 Fisher 精确检验）与半结构化[[In-depth Interview\|深度访谈]]（主题分析） | [[Research Utilization\|证据使用]]行为、使能条件与阻碍因素（领导示范、[[Professional Learning Community\|PLCs]]、时间赤字、质量信心） | 76% 报告在校严重缺乏接触研究时间；61% 认为耗时过长致使用不划算；59% 课后加班、69% 周末研读；84% 管理者与 73% 教师认同领导言行一致示范；44% 缺乏质量判断信心；PLCs 显著提升常规使用概率 | Fisher 精确检验 $p < .05$ | 基于澳大利亚基础教育教师与管理者的经验自陈，课堂直接教学行为客观测量仍待跨国拓展 |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 教师群体，课堂评估实践信息搜寻行为 | 调查与深度访谈 | 教师获取信息的最首要渠道 | 教师主要从其他一线教师（同行网络）获取评估实践信息 | — | 证实一线人际网络在教育证据流动中的支配性地位 |
 > | 同上 转述 LaPointe-McEwan et al. | 协作探究网络中的教师证据使用 | [[Mixed Methods Research\|混合方法]]实证研究 | 各类证据来源的接纳与使用频率 | 实践来源证据的使用频率与信赖度显著高于原始学术研究 | — | 证实即使在主动推进证据使用的试验项目中，实践证据依然居主导 |
 > | 同上 转述 CUREE (2011) | 英格兰专业发展中实践者参与研究的状况 | [[Systematic Review\|系统综述]] | 实践者参与研究的普及程度 | 实践者参与研究日益普遍，但实现常态化依然进展缓慢 | — | 证实对教学实践有潜在益处，但尚未转化为全行业普遍制度文化 |
@@ -389,14 +409,16 @@ updated: 2026-09-17
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021, pp. 120–121)]] | 学校教育产品与改革方案的决策者 | 问卷调查与案例分析 | 决策信息渠道的信赖与采纳偏好 | 显著偏好同伴推荐与本地试点经验，而非纯粹学术研究证据 | — | 决策者更关注项目特征、实施要求、使用满意度与本土适配性 |
 > | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018, pp. 129–132)]] | 英格兰 79 所小学的 696 名教师与[[School Leadership\|学校领导]]者（60 所 RLC 学校与 19 所可计算应答率的对照学校） | 横断面基线[[Questionnaire\|问卷]]（四因素 14 题，五级[[Likert Scale\|李克特量表]]，经 Survey Monkey 在线施测） | EIP 学校层面落地的四类关键因素：能力、文化规范、有效学习环境、结构系统与资源 | 76% 认为研究信息对教学实践有重要作用、86% 认为其在课堂应用新方法时有用，但仅 67% 确认学校有正式评价流程（13% 不同意）;51% 对无研究支撑的全校性变革为不确定或不同意（该比例在正文中记为 61%，与表内分布不一致）;仅 55% 表示学校经常讨论影响关键决策的潜在[[Hypothesis\|假设]];82% 曾与同事讨论研究发现，但仅 61% 确认学校设有正式分享论坛 | — | 干预前基线数据且对照与干预学校合并呈现，仅描述准备状态，不支持[[Causality\|因果推断]];样本全部为小学且具有自选倾向 |
 > | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018, pp. 126, 128)]] | 英格兰 114 所被招募小学中的 79 所（60 所 RLC 学校、57 所对照学校中 19 所可计算应答率） | 应答率统计 | 各校问卷应答率分布 | RLC 学校中 32 所（53.3%）应答率超过 80%，其中 13 所（22%）达 100%;对照学校中 6 所（31.6%）超过 80%，3 所（11%）达 100% | — | 因该调查从属于社会网络分析设计，研究团队掌握各校教师的确切人数，故可计算个体应答率 |
+> | [[Argument_Knogler_2025_BB\|Knogler et al. (2025, p. 16)]] | 德国高校教师教育者与在岗研修主管（$N = 189$） | 横断面问卷调查与平台接受度评估 | EIP 清算中介服务的使用效用评价（1–6 分） | 个人使用效用、自身教学适用性、专业知识拓展与时间精力减负四个维度平均评分均达 4–5 分 | 跨越不同研究经验与资源储备的使用者群体均呈现一致高度正面评价 | 表明通过专业中介开展[[Meta-analysis\|元分析]]通俗化转译能有效减轻师资培训者的时间压力与认知负荷，验证了中介机构推动 EIP 持续落实的专业赋能价值 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 结合德语区教学清算中心（[[Clearing House Unterricht]], CHU）近十年运行实践与高校教师教育者（$N = 189$）评估数据，论证以高[[Reliability|信度]][[Meta-analysis|元分析]]为证据基底进行通俗化二次加工、以高校师资培训者为辐射支点并健全双向反馈机制，是推进教师教育 EIP 转型与破除[[Research-Practice Gap|转移困境]]的有效路径。
 > - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle|ESTI]] 探究循环与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization|操作化]]奠定理论与实证基石。
-> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。
+> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 追溯 15 年来循证运动从政策端向实践端的演进历程，反思证据知情标签的商业公关化风险，并借助循证医学反思捍卫教师[[Professional Judgment|专业判断]]与[[Knowledge Mediation|知识中介]]的独立性。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation|知识动员]]策略与成果测量类型学。
 > - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 通过马里兰州 [[Students and Teachers Accessing Tomorrow|STAT]] 技术改革项目，检验 [[Every Student Succeeds Act|ESSA]] [[Evidence Standards|证据标准]]在学区采购与复杂改革中的局限性，论证[[Local Knowledge in Evidence-Based Policy|地方知识]]与实施成本对[[Evidence-Informed Decision-Making|证据知情决策]]的塑造作用。

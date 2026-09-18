@@ -8995,8 +8995,6 @@
 
 .callout[data-callout="event-context"] > .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
   grid-column: 1 / -1;
-  max-width: 50%;
-  margin-inline: auto;
 }
 
 
@@ -9122,8 +9120,6 @@
 
 .callout[data-callout="policy-context"] > .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
   grid-column: 1 / -1;
-  max-width: 50%;
-  margin-inline: auto;
 }
 
 
@@ -19292,8 +19288,6 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 
 .callout[data-callout="org-context"] > .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
   grid-column: 1 / -1;
-  max-width: 50%;
-  margin-inline: auto;
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -19418,8 +19412,6 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 
 .callout[data-callout="program-context"] > .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
   grid-column: 1 / -1;
-  max-width: 50%;
-  margin-inline: auto;
 }
 
 /* ═══════════════════════════════════════════════════════════

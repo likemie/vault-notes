@@ -33,6 +33,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
+  - "[[Data Infrastructure]]"
   - "[[Problem Solving]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Emergence]]"
@@ -67,7 +68,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -337,7 +338,7 @@ citation_aliases:
 32. SSLEEC 最成功的衍生企业案例是 Soraa Laser Diode（SLD Inc.），这家公司后来于 2020 年被日本京瓷公司（Kyocera）收购(p.150)。虽然原文没有详细描述 SLD 的发展历程，但案例的关键意义在于：它证明了在"IP 归大学、企业有优先许可权"的制度安排下，衍生企业能够成功地独立发展、获得外部融资、并最终通过收购实现退出，整个过程不受任何一家会员企业的约束。
 
 > [!example]
-> 将这个模式迁移到教育领域。一所师范大学的教育学院设立了"学习科学与技术[[Innovation Hub|创新中心]]"，聚焦"AI 驱动的个性化学习"这一垂直领域。六家企业成为创始会员：一家大型 K-12 教育出版集团、一家教育科技公司、一家学习管理系统（Learning Management System, LMS）提供商、一家为学校提供数据基础设施的科技公司、一家专注教育领域的 VC 基金，以及一家非营利教育研究机构。每家每年缴纳 15 万美元会费，共同资助中心内五个研究方向的早期探索性研究。
+> 将这个模式迁移到教育领域。一所师范大学的教育学院设立了"学习科学与技术[[Innovation Hub|创新中心]]"，聚焦"AI 驱动的个性化学习"这一垂直领域。六家企业成为创始会员：一家大型 K-12 教育出版集团、一家教育科技公司、一家学习管理系统（Learning Management System, LMS）提供商、一家为学校提供[[Data Infrastructure|数据基础设施]]的科技公司、一家专注教育领域的 VC 基金，以及一家非营利教育研究机构。每家每年缴纳 15 万美元会费，共同资助中心内五个研究方向的早期探索性研究。
 >
 > 第二年会费缴纳时，有两家企业表示犹豫，第一年没看到什么"能用的东西"。这时，LMS 提供商的代表——三个月前因项目需要被派驻中心工作了四周——站了出来："我跟那个做'AI 探究式学习支架'的项目组一起待了一个月。他们现在的原型在实验室环境下可以让中学生在科学探究任务中的提问质量提高 40%。当然这离产品还很远，但我现在非常清楚地知道三年后我们的 LMS 需要什么样的 AI 探究支架，因为我们现有的产品在这个维度上基本是零。15 万会员费换一个未来产品的清晰路线图，我觉得值。"犹豫的企业最终续了费。当一个产业伙伴深度参与研究过程以至于变成了"内部代言人"时，联盟获得了可持续发展的动力（参见 pp.150-151）。
 

@@ -11,7 +11,7 @@ summary: "在元分析与证据合成中，将不同实证设计所报告的效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
+  - "[[Floor and Ceiling Effects]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-18
 ---
 
 # Effect Size Conversion
@@ -258,7 +259,7 @@ updated: 2026-08-24
 ## 局限与方法学边界
 
 > [!warning]
-> 1. **总体分布形态[[Hypothesis|假设]]限制** $d$ 与 $r$ 的数学转换基于两组数据服从正态分布且方差齐性的假定；若原始数据存在极端偏态或天花板效应，转换后关联系数可能产生失真。
+> 1. **总体分布形态[[Hypothesis|假设]]限制** $d$ 与 $r$ 的数学转换基于两组数据服从正态分布且方差齐性的假定；若原始数据存在极端偏态或[[Floor and Ceiling Effects|天花板效应]]，转换后关联系数可能产生失真。
 > 2. **人工二分[[Variable|变量]]导致的衰减偏倚** 将原本连续的变量人为划分为二分类（如高低分组）计算 $d$ 再转为 $r$ 时，会系统性低估真实的相关强度（需运用连续校正公式进行矫正）。
 > 3. **群聚依赖效应（Clustering Dependency）** 若单项研究报告多个非独立[[Effect Size|效应量]]，直接进行公式转换会造成抽样方差低估，必须结合[[Robust Variance Estimation|稳健方差估计]]（RVE）进行协方差修正。
 

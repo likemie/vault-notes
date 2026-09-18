@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - educational-governance
 related_concepts:
   - "[[Governing by Numbers]]"
+  - "[[Commensuration]]"
   - "[[Operationalization]]"
   - "[[Hypothesis]]"
   - "[[Performativity]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Education at a Glance
@@ -71,7 +72,7 @@ updated: 2026-09-17
 > - **立项时间 / 周期** 1992 年首版面世；此后每年秋季定期发布最新年度报告，迄今已连续出版逾三十年。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 14)]]
 > - **发起方与数据生产机制** 由 OECD 秘书处教育与技能司统筹，依托各成员国教育部、国家统计局与 INES 志愿网络群（Networks A/B/C）提供原始普查与抽样数据。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8–9)]]
 > - **覆盖规模与体量** 从 1992 年首版仅 150 页的英法双语合订本，迅速扩展至当今超过 500 页、涵盖 230 余张综合数据表、140 余幅图表、超过 100,000 个独立数据点的大型知识平台，覆盖全部 OECD 成员国及二十国集团（Group of Twenty，G20）主要经济体。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 4)]]
-> - **核心问题导向** 终结各国自说自话的封闭统计壁垒，将极度异质的学制、学历体系与预算口径统一转换为跨国可通约的[[Operationalization|操作化]]指标，以横向绩效比较为各国国内结构性改革施加舆论问责与转型动力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **核心问题导向** 终结各国自说自话的封闭统计壁垒，将极度异质的学制、学历体系与预算口径统一转换为跨国可[[Commensuration|通约]]的[[Operationalization|操作化]]指标，以横向绩效比较为各国国内结构性改革施加舆论问责与转型动力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---
 

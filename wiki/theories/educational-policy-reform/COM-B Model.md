@@ -9,7 +9,7 @@ aliases:
 summary: "由苏珊·米奇等提出的行为系统理论模型，认为行为改变是能力（身体与心理）、机会（物理与社会）和动机（反思与自发）交互作用的产物；在教育政策与知识动员中，它被用于解释为何单纯信息推送无法改变实践，并为循证中介机构设计多维支持体系提供行为科学基石"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 35
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Evidence Ecosystem]]"
 related_theories:
-  - "[[Luhmann's Systems Theory]]"
   - "[[Organizational Culture]]"
   - "[[Theory of Change]]"
   - "[[Research Utilization Models]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-18
 ---
 
 # COM-B Model
@@ -76,7 +75,7 @@ updated: 2026-09-14
 > [!theory-position] 理论定位
 > - **解释对象** 复杂社会与组织环境中个体及群体行为改变的生成条件与因果机制，尤其关注专业人员（如教师、[[School Leadership|学校领导]]者、社会工作者）对科学研究证据的采纳与实践转化行为。
 > - **理论问题** 回应循证政策与实践（EIPP）领域的长期经验谜题：为何高质[[Quantitative Research|量的研究]]证据在被系统综合并广泛发布后，一线学校与课堂教学实践仍难以发生实质性改变？单纯的信息传播为何无法自动驱动证据利用？
-> - **理论类型** 中层行为[[Luhmann's Systems Theory|系统理论]]（Behavioural System Model）、执行科学[[Analytic Framework|分析框架]]与[[Knowledge Mobilisation|知识动员]]因果机制模型。
+> - **理论类型** 中层行为系统理论（Behavioural System Model）、执行科学[[Analytic Framework|分析框架]]与[[Knowledge Mobilisation|知识动员]]因果机制模型。
 > - **知识位置** 植根于健康心理学与应用行为科学，由苏珊·米奇（Susan Michie）、马尔特·范斯特拉伦（Maartje van Stralen）与罗伯特·韦斯特（Robert West）于 2011 年提出，构成行为改变轮（Behaviour Change Wheel, BCW）的理论枢纽；后经[[Jonathan Sharples|乔纳森·夏普尔斯]]（[[Jonathan Sharples]]）、[[David Gough|戴维·高夫]]（[[David Gough]]）及克里斯·沃德尔（Chris Waddell）等人引入教育政策与[[Knowledge Mediation|知识中介]]研究（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, pp. 152–153]]；Waddell & Sharples, 2020）。
 
 > [!claim] 核心主张

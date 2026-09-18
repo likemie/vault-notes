@@ -74,7 +74,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Funnel Plot]]"
-  - "[[PRISMA]]"
   - "[[Forest Plot]]"
   - "[[Triangulation]]"
 related_instruments:
@@ -86,6 +85,7 @@ related_instruments:
   - "[[Runco Ideational Behavior Scale]]"
   - "[[Computational Thinking Scale]]"
   - "[[Cornell Critical Thinking Test]]"
+  - "[[PRISMA]]"
   - "[[Consensual Assessment Technique]]"
 related_persons:
   - "[[Socrates]]"

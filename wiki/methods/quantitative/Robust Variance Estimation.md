@@ -11,9 +11,9 @@ summary: "在元分析中处理复杂依赖与嵌套效应量的统计方法，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -40,6 +40,7 @@ related_methods:
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Inverse-Variance Weighting]]"
 related_arguments:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-08-25
+updated: 2026-09-18
 ---
 
 # Robust Variance Estimation
@@ -96,7 +97,7 @@ updated: 2026-08-25
 
 > [!proc] 通用程序
 > 1. **数据准备与集群[[Coding in Qualitative Research|编码]]** 提取一阶[[Effect Size|效应量]]并为其分配所属集群编号（如一阶[[Meta-analysis|元分析]]编号或主要研究编号），统一转换为费舍尔 $z$。
-> 2. **设定 [[Correlated and Hierarchical Effects Model|CHE]] 工作模型** 采用[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]，假定集群内相关系数（如 $\rho = 0.8$）以构建逆方差权重矩阵。
+> 2. **设定 [[Correlated and Hierarchical Effects Model|CHE]] 工作模型** 采用[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]，假定集[[Intraclass Correlation Coefficient|群内相关系数]]（如 $\rho = 0.8$）以构建逆方差权重矩阵。
 > 3. **拟合[[Meta-regression|元回归]]模型** 基于权重矩阵进行加权最小二乘估计，获得回归系数点估计。
 > 4. **应用 RVE 三明治方差调整** 提取残差计算集群稳健三明治协方差矩阵，生成稳健[[Standard Error|标准误]]与[[Confidence Interval|置信区间]]。
 > 5. **小样本自由度修正与[[Hypothesis|假设]]检验** 针对集群数较少（$<40$）的调节变量，采用霍特林 $T^2$ 近似检验计算调整后 $F$ 值与 $p$ 值。

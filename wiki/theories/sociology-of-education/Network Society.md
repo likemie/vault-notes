@@ -5,7 +5,7 @@ aliases:
 summary: "把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_methods: []
 related_persons:
   - "[[Manuel Castells]]"
 related_facts:
+  - "[[Research in Schools Evaluation]]"
   - "[[OECD]]"
   - "[[Education International]]"
   - "[[World Bank]]"
@@ -43,13 +44,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-14
+updated: 2026-09-18
 ---
 
 ## 核心主张
 
 > [!info] 核心主张
-> 网络社会（Network Society）理论由 Manuel Castells (1996) 在 *The Rise of the Network Society* 中系统阐述。其核心主张是：社会组织的主导模式正在从以民族国家为代表的**稳定等级制**转向更为**流动的网络形式**。在这一转型中，跨国网络——而非领土固定的民族国家——日益成为经济活动、[[Knowledge Production|知识生产]]和政治权力的核心组织单位（Castells, 1996, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]]）。
+> 网络社会（Network Society）理论由 Manuel Castells (1996) 在 *The [[Research in Schools Evaluation|RISE]] of the Network Society* 中系统阐述。其核心主张是：社会组织的主导模式正在从以民族国家为代表的**稳定等级制**转向更为**流动的网络形式**。在这一转型中，跨国网络——而非领土固定的民族国家——日益成为经济活动、[[Knowledge Production|知识生产]]和政治权力的核心组织单位（Castells, 1996, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]]）。
 >
 > Yochai Benkler (2006) 在 *The Wealth of Networks* 中进一步推进了这一主张，提出"网络财富"（wealth of networks）概念：跨国网络而非民族国家才是**知识创造和经济生产力的新源泉**。这一论证将网络社会理论从社会组织的一般描述延伸到对知识生产和经济价值创造机制的重新解释（Benkler, 2006, cited in）。
 >
@@ -66,7 +67,7 @@ updated: 2026-09-14
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1996** — [[Manuel Castells]] 出版 *The Rise of the Network Society*（信息时代三部曲第一卷），系统阐述网络社会概念，将信息技术革命、经济全球化和网络化组织形式的兴起整合为一个统一的理论框架
+> - **1996** — [[Manuel Castells]] 出版 *The [[Research in Schools Evaluation|RISE]] of the Network Society*（信息时代三部曲第一卷），系统阐述网络社会概念，将信息技术革命、经济全球化和网络化组织形式的兴起整合为一个统一的理论框架
 > - **2000** — Castells 在 *British Journal of Sociology* 发表网络社会探索性理论，进一步阐述网络的二元纳入／排除逻辑和权力动态（Castells, 2000c）
 > - **2006** — Yochai Benkler 出版 *The Wealth of Networks*，将网络社会理论延伸至[[Knowledge Production|知识生产]]领域，论证网络化的知识生产（如开源软件、维基百科式的协作）正在挑战传统的、等级化的知识生产模式
 > - **2009** — Beech 将 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]]区分和网络逻辑应用于比较教育中的话语流通分析，提出[[Global Policy Space|全球政策空间]]概念([[Argument_Beech_2009_CE|Beech, 2009]])

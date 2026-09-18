@@ -9,7 +9,7 @@ aliases:
 summary: "系统低阶组成部分遵循简单局部规则相互作用时自发产生高阶全局秩序与新结构的非线性动力学过程，整体大于部分之和且无法向下机械还原"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Determinism]]"
+  - "[[Assemblage]]"
   - "[[Virtual World]]"
   - "[[Unit of Analysis]]"
   - "[[Positivism]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Emergence
@@ -113,7 +114,7 @@ updated: 2026-09-17
 > | 分析对象 | 开放、非平衡的[[Complexity Theory\|复杂适应系统]] | 孤立、封闭的线性物理或机械系统 | 层级官僚体系与指令式组织架构 |
 > | 核心机制 | 遵循简单局部规则的微观主体非线性互动与自组织演化 | 将高阶整体逐层分解为低阶离散[[Variable\|变量]]与原子化零件 | 依据先验预设目标自上而下发布指令与机械调控 |
 > | 因果逻辑 | 环形反馈网络、多向因果与相变临界性 | [[Determinism\|决定论]]式的单向线性因果链（X 导致 Y） | 目的论式的工具理性手段-目标匹配 |
-> | 秩序来源 | 内部微观互动内生自发生成（“秩序是免费的”） | 孤立部件机械装配后的被动求和 | 外部中心权威自上而下强加与约束 |
+> | 秩序来源 | 内部微观互动内生自发生成（“秩序是免费的”） | 孤立部件机械[[Assemblage\|装配]]后的被动求和 | 外部中心权威自上而下强加与约束 |
 
 ---
 

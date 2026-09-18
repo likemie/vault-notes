@@ -9,7 +9,7 @@ aliases:
 summary: "由政府间组织或跨国学术联盟（如 OECD、IEA）主持，采用标准化跨文化心理测量学技术（如 IRT、矩阵抽样）与代表性概率抽样，对不同国家和地区的学生或成年人群体的认知素养与背景变量进行系统测度与比较分析的大型评价范式。作为“硬事实施展软权力”与数字治理的物质技术中枢，推动全球教育从“投入要素规制”迈向“基于产出与排名的绩效规制”，但亦因诱发 PISA 冲击、课程狭窄化及全球趋同而饱受批判。"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Externalization]]"
   - "[[Soft Power]]"
+  - "[[Commensuration]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Document]]"
@@ -177,7 +178,7 @@ updated: 2026-09-18
 
 > [!debates] 学术争议
 >
-> > [!axis] 全球统一量规的通约化暴力 vs 多元文化特质的消解
+> > [!axis] 全球统一量规的[[Commensuration|通约化]]暴力 vs 多元文化特质的消解
 > > 比较教育学者指控 ILSAs 在抹杀各民族独特的文明经验。
 > >
 > > - **批判比较教育学派** 批评 ILSAs 将全球差异化极其巨大的文化生活、历史渊源与育人理想，暴力削减为单一维度的线性排行榜，促成了严重的“全球教育同质化”与西方知识霸权。

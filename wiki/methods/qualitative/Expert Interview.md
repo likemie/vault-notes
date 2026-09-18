@@ -10,9 +10,9 @@ summary: "将受访者视为具有特定领域专业特权、制度性职能与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 34
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Working Knowledge]]"
+  - "[[Commensuration]]"
 related_methods:
   - "[[Qualitative Interview]]"
   - "[[Focus Group]]"
@@ -52,6 +53,10 @@ related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
+  - "[[Argument_Hartong_Forschler_2019_BDS]]"
+related_facts:
+  - "[[Massachusetts Department of Elementary and Secondary Education]]"
+  - "[[Institute for Educational Monitoring and Quality Improvement]]"
 confidence: high
 status: stable
 created: 2026-09-18
@@ -159,4 +164,4 @@ updated: 2026-09-18
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 针对德国四个联邦州教育部质量保障与发展部门官员开展 12 场半结构化专家访谈，深入剖析州教育行政层级对大型实证监测数据的接收、处理与日常利用机制。
-> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 针对美国马萨诸塞州中小学教育部（DESE）及德国汉堡学校与职业教育局（BSB）、汉堡教育监测与质量发展研究所（IfBQ）的 20 位数据专家开展 16 场半结构化专家访谈，揭示州级教育行政机构在数据清洗、算法通约与问责建模中的暗箱实践与多维张力。
+> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 针对美国[[Massachusetts Department of Elementary and Secondary Education|马萨诸塞州中小学教育部]]（DESE）及德国汉堡学校与职业教育局（BSB）、[[Institute for Educational Monitoring and Quality Improvement|汉堡教育监测与质量发展研究所]]（IfBQ）的 20 位数据专家开展 16 场半结构化专家访谈，揭示州级教育行政机构在数据清洗、算法[[Commensuration|通约]]与问责建模中的暗箱实践与多维张力。

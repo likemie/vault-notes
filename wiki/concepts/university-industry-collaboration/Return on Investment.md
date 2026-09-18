@@ -10,7 +10,7 @@ aliases:
 summary: "衡量教育、研发或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面，它经由人力资本理论和世界银行被建构为跨国政策放贷与结构调整的自指性指标帝国；在微观产学合作层面，各方对回报定义的结构性分歧则被视作驱动复合价值创造的核心引擎。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Counterfactual]]"
+  - "[[Commensuration]]"
   - "[[Academic Freedom]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
@@ -62,7 +63,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-02
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Return on Investment
@@ -77,7 +78,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **双重透镜** 兼具新古典实证经济学的“投入—产出因果核算”透镜与跨部门治理的“多元价值协商”透镜。
 > - **分析功能** 向上解释跨国金融组织如何运用回报率指标实施“[[Governing at a Distance|远处治理]]”与政策规制；向下指引大学与企业在非对称利益中确立[[Counterfactual|反事实]]评估基准与终端用户受益标准。
-> - **批判边界** 严防将不可通约的育人价值、[[Academic Freedom|学术自由]]与公共卫生福祉机械折算为短期货币贴现率。
+> - **批判边界** 严防将不可[[Commensuration|通约]]的育人价值、[[Academic Freedom|学术自由]]与公共卫生福祉机械折算为短期货币贴现率。
 
 > [!citation-card] 普萨查罗普洛斯论世行教育投资回报率数据库与研究帝国
 > 1980 年的政策文件不仅反映了世界银行的业务如今越来越建立在研究成果的基础之上，更表明世行已经开展属于自己的独立研究，并将在未来继续如此推进。这无疑极其令人振奋，因为世行拥有局外人甚至做梦都无法企及的海量比较教育数据资料。

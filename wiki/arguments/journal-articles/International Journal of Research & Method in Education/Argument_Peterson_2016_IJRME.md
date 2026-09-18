@@ -9,7 +9,7 @@ title: "Argument_Peterson_2016_IJRME"
 argument_key: "Argument_Peterson_2016_IJRME"
 argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Improvement Science]]"
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
+  - "[[Effectiveness Trial]]"
   - "[[Random Assignment]]"
   - "[[Implementation and Process Evaluation]]"
 related_persons: []
@@ -88,7 +89,7 @@ citation_aliases:
 >
 > Peterson 识别了当前"什么有效"策略的四个系统性问题（详见 Peterson 和 [[Black Box RCTs]]）：
 > 1. 与教师主导干预不匹配——引导资金流向更具项目性和更少教师主导的"治疗"(p. 301)
-> 2. 实施薄弱——美国 90%+ 有效性试验无影响，[[Education Endowment Foundation|EEF]] 仅 1 项有效性试验有明确效果(pp. 301–302)
+> 2. 实施薄弱——美国 90%+ [[Effectiveness Trial|有效性试验]]无影响，[[Education Endowment Foundation|EEF]] 仅 1 项有效性试验有明确效果(pp. 301–302)
 > 3. 低采纳率——从业者不使用聚合知识，"使研究更易获得不能解决采纳问题如果证据不够强"(p. 302)
 > 4. 仅适用于二选一决策——教育情境中因素的相互依赖使单次二选一决策极少可行(p. 300)
 >

@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -47,8 +47,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[External Auditor]]"
-related_persons:
-  - "[[Bertrand Russell]]"
+related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Research Excellence Framework
@@ -100,7 +99,7 @@ updated: 2026-09-16
 > - **准市场的强力资源分配机制**
 >   REF 是[[Quasi-markets in Higher Education|高等教育准市场]]最成熟也最具影响力的制度实践。它通过量化考核直接决定数亿英镑 QR 拨款的流向，将[[New Public Management|新公共管理]]（NPM）的[[Performance Indicators|绩效指标]]与物质激励强力挂钩，实现了以行政和审计指标调控学术资源的准市场机制（[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p. 801]]）。
 > - **制度化的[[Matthew Effect in Academia|学术马太效应]]**
->   评估逻辑严重倾向于已有资源和历史积累优势的精英机构。 Russell Group（[[Bertrand Russell|罗素]]大学集团）大学凭借拥有更多科研岗位、博士生后以及雄厚的发表资源，持续垄断评估得分顶端，获取最大份额的 QR 拨款，进一步拉大了与非精英大学的经费差距（[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p. 809]]）。
+>   评估逻辑严重倾向于已有资源和历史积累优势的精英机构。 Russell Group（罗素大学集团）大学凭借拥有更多科研岗位、博士生后以及雄厚的发表资源，持续垄断评估得分顶端，获取最大份额的 QR 拨款，进一步拉大了与非精英大学的经费差距（[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p. 809]]）。
 > - **多价的合法性与分层装置**
 >   REF 同时运作三种功能：**符号分配**（赋予大学“世界领先”或“国际卓越”的声誉等级）、**物质分配**（决定质量相关财政拨款）、以及**合法性制造**（声称评估基于中立专家的研究质量评审）。相同的评分结果在 Russell Group 精英大学（作为扩张的公关资本）与 1992 年后升格大学（作为削减预算的合理化备忘录）产生了截然相反的合法性与生存后果。
 > - **大学及学者的行为性优化**

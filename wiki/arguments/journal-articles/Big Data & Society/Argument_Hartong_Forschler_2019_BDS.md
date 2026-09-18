@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ journal: "Big Data & Society"
 sources:
   - "[[sources/Hartong_Forschler_2019_BDS/Hartong_Forschler_2019_BDS|Hartong_Forschler_2019_BDS]]"
 related_concepts:
+  - "[[Assemblage]]"
   - "[[Data Literacy]]"
   - "[[Data Infrastructure]]"
   - "[[Technical Rationality]]"
@@ -89,7 +90,7 @@ updated: 2026-09-18
 > 在当代全球教育治理全面转向循证决策与数字化的浪潮中，州级教育行政机构如何具体建构、运行和维系基于数据的学校监测系统？这一过程内部究竟包含哪些鲜为人知的数据流转环节、算法决策机制与社会-技术暗箱？面对不同国家体制与[[Organizational Culture|组织文化]]，数字数据实践又遭遇了哪些普遍性与情境化的结构张力？
 
 > [!claim] 核心主张
-> 基于数据的学校监测绝非中立、客观且线性的纯技术程序，而是一个深度纠缠着政治价值、行政博弈与即兴试错的社会-技术装配；在州级行政机构做数据（doing data）的微观实践中，始终贯穿着数据简化与准确性、统计公平与地域比较、快速交付与单一事实确立、透明公开与隐私安全、问责改进与策略博弈等五维结构性张力，对传统的[[Data Literacy|数据素养]]观念构成了根本性挑战，亟需转向深度介入系统全链条机制的[[Data Infrastructure|数据基础设施]]素养。
+> 基于数据的学校监测绝非中立、客观且线性的纯技术程序，而是一个深度纠缠着政治价值、行政博弈与即兴试错的社会-技术[[Assemblage|装配]]；在州级行政机构做数据（doing data）的微观实践中，始终贯穿着数据简化与准确性、统计公平与地域比较、快速交付与单一事实确立、透明公开与隐私安全、问责改进与策略博弈等五维结构性张力，对传统的[[Data Literacy|数据素养]]观念构成了根本性挑战，亟需转向深度介入系统全链条机制的[[Data Infrastructure|数据基础设施]]素养。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国[[Massachusetts Department of Elementary and Secondary Education|马萨诸塞州中小学教育部]]（Massachusetts Department of Elementary and Secondary Education, DESE）与德国汉堡学校与职业教育局（Behörde für Schule und Berufsbildung, BSB）直属的[[Institute for Educational Monitoring and Quality Improvement|汉堡教育监测与质量发展研究所]]（Institute for Educational Monitoring and Quality Improvement, IfBQ）内部的数据基础设施、算法流转与专家行政实践。
@@ -113,7 +114,7 @@ updated: 2026-09-18
 | 分析维度 | 技术[[Positivism\|实证主义]]传统范式 | 批判性数据基础设施范式 |
 |---|---|---|
 | **数据本质观** | 中立、客观反映学校现状的信息原材料 | 经过制度筛选、去情境化与形式化[[Coding in Qualitative Research\|编码]]的权力建构物 |
-| **治理基础设施** | 静态的信息存储硬件、服务器与软件管道 | 由行动者、话语规范、算法代码与行政常规持续互构的动态装配 |
+| **治理基础设施** | 静态的信息存储硬件、服务器与软件管道 | 由行动者、话语规范、算法代码与行政常规持续互构的动态[[Assemblage\|装配]] |
 | **量化评价功能** | 发现客观差距以提供中立的改进依据 | 制造通约度量，建立跨时空可比性并分配制度合法性与资源 |
 
 > [!warrant]- 理论工具如何支撑全景论证
@@ -208,7 +209,7 @@ updated: 2026-09-18
 >
 > *In fact, most interviewees contrasted their work around data with linear procedures or loop circle models (as the technical infrastructure would suggest), instead describing it as highly experimental, involving significant elements of 'messing around' or, as one interviewee phrased it, 'cooking' with multiple ingredients (data, algorithms or models) to find working solutions within a highly diverse entanglement of often very different logics, stakeholders or problems.*
 
-这种充满妥协与修补的微观实践表明，量化治理数据绝非客观中立的产物，而是由查询代码、权重分配与手工补丁共同塑造的社会-技术装配：
+这种充满妥协与修补的微观实践表明，量化治理数据绝非客观中立的产物，而是由查询代码、权重分配与手工补丁共同塑造的社会-技术[[Assemblage|装配]]：
 
 > [!quad-grid] 算法选择性与微观实践干预的具体维度
 > - **查询脚本过滤**
@@ -354,7 +355,7 @@ updated: 2026-09-18
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **学校监测是高度杂糅的试错装配** 州级教育监测在技术表象下是一套高度依赖即兴调整与非正式修补的社会-技术实验，所谓中立客观的指标实质上是算法选择与规范权衡的产物。（pp.4–5）
+> 1. **学校监测是高度杂糅的试错[[Assemblage|装配]]** 州级教育监测在技术表象下是一套高度依赖即兴调整与非正式修补的社会-技术实验，所谓中立客观的指标实质上是算法选择与规范权衡的产物。（pp.4–5）
 > 2. **做数据实践被五维治理张力贯穿** 行政行动者普遍受困于数据简化与准确、统计公平与本地比较、生成速度与单一事实权威、透明公开与数据安全、问责效能与策略博弈的多重撕裂。（pp.5–10）
 > 3. **[[Commensuration|通约]]机制引发普遍的地域抗拒** 跨越空间的去地域化统计相似对标遭遇基层学校的强烈文化排斥，迫使行政系统在标准化通约与个性化定制之间反复妥协。（pp.6–7）
 > 4. **问责利害必然诱发系统性博弈** 无论是美国的高利害接管还是德国的资源倾斜配置，一旦指标与实质利益绑定，均迅速诱发数据操纵与表演性防卫行为。（pp.9–10）
@@ -369,7 +370,7 @@ updated: 2026-09-18
 
 ## 关键引用
 
-> [!citation-card] 治理权力在[[Data Infrastructure|数据基础设施]]中的空间化装配
+> [!citation-card] 治理权力在[[Data Infrastructure|数据基础设施]]中的空间化[[Assemblage|装配]]
 > 正如[[Rob Kitchin|罗伯·基钦]]（Rob Kitchin）与特雷西·劳里奥特（Tracey Lauriault）所言，数据基础设施始终是知识与权力的具象表达，深刻塑造了什么问题可以被提出、这些问题如何被提出、它们如何获得解答、这些答案如何被部署，以及究竟由谁来提出这些问题。正如韦斯特（West, 2017）所指出的，监测基础设施制造出关于重要分析对象的有限次级代表表象，行政官员以此代表学校、教师或学生发声。（p.10）
 >
 > *As Kitchin and Lauriault (2014: 4–5) state, data infrastructures are always '[... ] expressions of knowledge/power, shaping what questions can be asked, how they are asked, how they are answered, how the answers are deployed, and who can ask them' (see also Ruppert et al., 2017). In other words, monitoring infrastructures create what West (2017: 1) describes as limited '[ ... ] second-hand representations of important objects of analysis' that administrators use to speak on behalf of the school, the teacher or the student.*

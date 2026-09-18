@@ -94,4 +94,4 @@ citation_aliases: []
 
 ## 相关概念
 
-- [[Whole Language]] — 语言经验法是全语言的直接前身，但在《[[Visible Learning|VL]]》中被错误合并计算。
+- [[Whole Language]] — 语言经验法是全语言的直接前身，但在《VL》中被错误合并计算。

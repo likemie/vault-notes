@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖四个前提要素、合理知情同意策略、标准构成要素、儿童与弱势群体的特殊处理，以及在产学合作中因共同规则适用不对称而成为协议谈判中的不可协商前提"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Common Rule 2018]]"
+  - "[[American Educational Research Association]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 # Informed Consent
 
@@ -245,4 +246,4 @@ Lee (1993, p. 139) 进一步指出，一些参与者可能故意制造让研究�
 
 > [!info] 法规与守则
 > - 美国联邦法规（共同规则, 45 CFR 46）规定了 [[Institutional Review Board|IRB]] 审批和知情同意的法律框架
-> - 各专业协会（[[APA Style|APA]]、AERA、ASA 等）的伦理守则均将知情同意列为强制性程序
+> - 各专业协会（[[APA Style|APA]]、[[American Educational Research Association|AERA]]、ASA 等）的伦理守则均将知情同意列为强制性程序

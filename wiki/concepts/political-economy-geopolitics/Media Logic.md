@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒体在选择、加工与呈现现实时所遵循的组织惯例、格式规程与新闻价值体系，在教育治理中迫使政策行动者积累媒介资本并以危机叙事迎合媒体规则"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Performance Pay]]"
   - "[[Determinism]]"
+  - "[[Data Infrastructure]]"
   - "[[Rashomon Effect]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Document]]"
@@ -189,7 +190,7 @@ updated: 2026-09-18
 > > [!axis] 超国家趋同 vs 本土媒介重塑
 > > 争论全球教育治理是由 [[OECD]] 等超国家组织自上而下同质化收敛，还是被本土媒介逻辑割裂重构。
 > >
-> > - **全球趋同说** 强调全球数据基础设施催生了新自由主义政策处方的跨国趋同（Sellar & Lingard, 2013）。
+> > - **全球趋同说** 强调全球[[Data Infrastructure|数据基础设施]]催生了新自由主义政策处方的跨国趋同（Sellar & Lingard, 2013）。
 > > - **本土重塑说** 论证在新闻媒介享有高度自主权的国家，国际数据完全被本土媒介逻辑再造，呈现出不可调和的[[Rashomon Effect|罗生门效应]]。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, p. 127)]]
 
 ---

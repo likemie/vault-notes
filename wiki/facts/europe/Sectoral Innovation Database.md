@@ -9,9 +9,9 @@ subtype: event
 region: europe
 fact_region: "europe"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/europe
@@ -19,6 +19,7 @@ tags:
   - theme/innovation-measurement
   - method/database
 related_concepts:
+  - "[[Data Infrastructure]]"
   - "[[Variable]]"
   - "[[Assemblage]]"
   - "[[Public-Private Partnership in Research]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-09-18
 ---
 
 # Sectoral Innovation Database
@@ -43,7 +44,7 @@ updated: 2026-06-10
 ## 背景
 
 > [!info]
-> 部门创新数据库（Sectoral Innovation Database，SID）由意大利 Urbino 大学开发，是一个跨国家产业层面的创新数据库。它将社区创新调查（[[Community Innovation Survey]]，CIS）的多个波次数据与来自其他来源的经济表现指标整合在一起，为创新经济学中的跨国家和跨行业比较研究提供标准化的数据基础设施[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp.162-163)]]。
+> 部门创新数据库（Sectoral Innovation Database，SID）由意大利 Urbino 大学开发，是一个跨国家产业层面的创新数据库。它将社区创新调查（[[Community Innovation Survey]]，CIS）的多个波次数据与来自其他来源的经济表现指标整合在一起，为创新经济学中的跨国家和跨行业比较研究提供标准化的[[Data Infrastructure|数据基础设施]][[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp.162-163)]]。
 
 ---
 ## 覆盖范围

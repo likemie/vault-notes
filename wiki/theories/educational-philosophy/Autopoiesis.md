@@ -33,8 +33,8 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Virtual World]]"
 related_theories:
-  - "[[Luhmann's Systems Theory]]"
   - "[[Transition Design]]"
+  - "[[Luhmann's Systems Theory]]"
   - "[[Cultural Models]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -64,7 +64,7 @@ updated: 2026-09-17
 > [!theory-position] 理论定位
 > - **解释对象** 生命系统与社会系统的自我指涉性（self-referentiality）、自我生产（self-production）与边界维系机制。
 > - **理论问题** 系统如何通过内部封闭的操作网络在开放且充满干扰的环境中维持连续性；面对全球趋同压力时，地方教育体制如何通过内部逻辑实现折射式采纳或变异抵制。
-> - **理论类型** 宏观[[Luhmann's Systems Theory|系统理论]]、中层[[Analytic Framework|分析框架]]、社会演化模型。
+> - **理论类型** 宏观系统理论、中层[[Analytic Framework|分析框架]]、社会演化模型。
 > - **知识位置** 生物[[Epistemology|认识论]]（Maturana & Varela）、社会系统论（Luhmann）、[[Transition Design|转型设计]]论（Escobar）以及系统比较教育学（Schriewer）。
 
 > [!claim] 核心主张
@@ -108,7 +108,7 @@ updated: 2026-09-17
 > - **前提一** 自创生系统的自我指涉特征意味着教育系统在吸纳全球性政策修辞（如 [[PISA]] 或世界文化规范）时，并非被动直接同质化复刻。
 > - **前提二** [[Externalization|外部化]]（[[Externalization]]）：系统在维持自身结构连续性的过程中，会将全球性参照作为系统内部重构与自我指涉的论证原料（例如以“[[Reference Society|参照社会]]”为改革正当性背书）。
 >   > [!evidence-grid]- 证据
-   >   > - **[[Luhmann's Systems Theory|系统理论]]与自创生引入比较教育** 1990 年代起，Schriewer 将自创生与系统理论引入比较教育，用以论证为何全球趋同政策在地方层面的内化总是伴随着重大的印记折射与变异抵抗，否定了简单的单一趋同假说。(Schriewer, 2012, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+   >   > - **系统理论与自创生引入比较教育** 1990 年代起，Schriewer 将自创生与系统理论引入比较教育，用以论证为何全球趋同政策在地方层面的内化总是伴随着重大的印记折射与变异抵抗，否定了简单的单一趋同假说。(Schriewer, 2012, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 > - **推导** 比较教育中的教育转移不是简单的输入-输出，而是受制于系统本国内部折射机制（如转译与转化）的自创生过程。
 
 > [!proposition-chain]- 延伸命题
@@ -189,5 +189,5 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Amos_2022_Springer|Amos, 2022]] — 以 autopoiesis/[[Sympoiesis]] 的对照作为晚期现代性教育愿景的分析资源。
-> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 追溯了 1990 年代起自创生与[[Luhmann's Systems Theory|系统理论]]如何引入比较教育[[Rationalism in International Relations|理性主义]]传统中用以解释[[Externalization|外部化]]与折射抵抗。
+> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 追溯了 1990 年代起自创生与系统理论如何引入比较教育[[Rationalism in International Relations|理性主义]]传统中用以解释[[Externalization|外部化]]与折射抵抗。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 在[[Virtual World|虚拟世界]]研究的结论中指出：从微观到宏观、从宏观到微观的[[Emergence|涌现]]过程要求适应性、开放系统、学习、反馈、沟通和连接性，以使个体和系统发展自身的身份（自创生）。

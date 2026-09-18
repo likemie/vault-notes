@@ -7,7 +7,7 @@ summary: "美国教育政策官员和研究管理者，IES 证据标准体系关
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,10 +36,11 @@ related_arguments:
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
+  - "[[American Educational Research Association]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-18
 ---
 ## 简介
 
@@ -69,7 +70,7 @@ updated: 2026-09-14
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Whitehurst, G. (2002). Charting a new course for the U.S. Office of Educational Research and Improvement. Paper presented at AERA annual meeting, New Orleans.
+> - Whitehurst, G. (2002). Charting a new course for the U.S. Office of Educational Research and Improvement. Paper presented at [[American Educational Research Association|AERA]] annual meeting, New Orleans.
 
 ## 思想发展与影响
 

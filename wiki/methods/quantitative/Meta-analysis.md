@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 102
+method_related_count: 108
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,6 +43,10 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[External Validity]]"
   - "[[Literature Review]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Document]]"
+  - "[[Intelligent Tutoring Systems]]"
+  - "[[Scaffolding]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Empiricism]]"
@@ -103,6 +107,7 @@ related_persons:
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Clearing House Unterricht]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
@@ -121,6 +126,7 @@ related_arguments:
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Zhao_2025_JIntell]]"
 related_instruments:
   - "[[PRISMA]]"
@@ -128,7 +134,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Meta-analysis
@@ -325,6 +331,10 @@ flowchart LR
 > - **二阶合成的决策转化** 单一试验的内部有效性不足以直接推论出广泛的[[External Validity|外部效度]]，[[Systematic Review|系统综述]]与元分析构成了外推基石（Shadish et al., 2002）。英国教育捐赠基金会（EEF）在《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》中综合了 30 余类通用教学策略底层的数千项元分析与实证研究，将复杂的统计量转化为额外学习月数（[[Months of Progress]]）、实施成本与[[EEF Padlock Security Rating|挂锁安全评级]]，成为全英格兰超 70% 中学校长配置资源的法定参考指南。
 > - **实时活态数据库破解异质性偏误** 针对传统元分析在[[Literature Review|文献综述]]中容易混合不同研究质量、学段与国别而引发的证据异质性（Heterogeneity）偏误，EEF 组织专业[[Coding in Qualitative Research|编码]]团队对工具包底层的约 10,000 项独立初级试验进行逐一深度二次微观编码，提取精确效应量、样本人口学特征、干预实施时长、被试背景与微观测量参数，构建全球首个动态更新的活态教育数据库（Live Database），实现了从静态一阶合并向动态多维特征解构的方法学演进。（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 54–55]]）
 
+> [!case] 元分析通俗化[[Transfer Translation Transformation|转译]]与决策降维：Hillmayr et al. (2020) 数字化教学工具元分析与 [[Clearing House Unterricht|CHU]] 简评转化（[[Argument_Knogler_2025_BB|Knogler et al., 2025]]）
+> - **高[[Reliability|信度]]因果证据基底** 该项[[Meta-meta-analysis|二阶元分析]]发表于 *Computers & Education*，综合了 2000 年以来全球 92 项实验与准[[Experimental Research|实验研究]]（$k = 92, N = 44{,}527$），确立数字化工具对学业成绩（$g = 0.65, p < .001$）与学科态度（$g = 0.45$）的显著中等促进效应，并揭示教师专业培训是关键正向调节变量。
+> - **中介降维与实践指南加工** 德国教学研究清算中心（[[Clearing House Unterricht|CHU]]）将该篇高度复杂的 20 页英文计量[[Document|文献]]解构重塑为面向中小学教师的实践简评（Kurzreview）：将学术标题改写为主张导向的实践问题，首页设计标准化核心参数框（METAANALYSE IM ÜBERBLICK），正文所有统计术语内嵌超链接至在线术语表（Online-Glossar），并依据认知功能将繁杂工具系统归纳为六大类（操练软件、[[Intelligent Tutoring Systems|智能辅导系统]]、模拟建模工具、超媒体系统、教育游戏、协作互动工具），实现了从严谨统计合成向低认知负荷[[Scaffolding|教学脚手架]]的高保真转译。（[[Argument_Knogler_2025_BB|Knogler et al., 2025, pp. 14–15]]）
+
 ---
 
 ## 相关理论与方法
@@ -334,6 +344,7 @@ flowchart LR
 > |---|---|---|
 > | [[Baseline Standardized Mean Difference]] | 前置质控方法 | 检验初级研究处理组与对照组[[Pre-test and Post-test\|前测]]可比性、确立 0.25 SD 准入门槛的核心指标 |
 > | [[What Works Clearinghouse]] | 证据评价标准 | 确立教育[[Causality\|因果推断]]、实验等效性（0.25 SD 门槛）与证据评级基准的旗舰清算中心 |
+> | [[Clearing House Unterricht]] | 证据中介平台 | 依托理科元分析开展受众适配加工、面向教师教育者[[Transfer Translation Transformation\|转译]]高因果[[Reliability\|信度]]证据的欧陆清算平台 |
 > | [[Inverse-Variance Weighting]] | 核心算法 | 元分析中最基础的最优精度加权方法 |
 > | [[Fixed-Effect and Random-Effects Models]] | 统计模型 | 固定与随机效应两类基础建模[[Paradigm\|范式]] |
 > | [[Three-Level Meta-Analysis]] | 高阶扩展 | 处理研究内多重[[Effect Size\|效应量]]嵌套依赖的多层模型 |
@@ -349,6 +360,7 @@ flowchart LR
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究案例索引
+> - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] 剖析 Hillmayr et al. (2020) 针对中学数理教学数字化工具的元分析（$k = 92, g = 0.65$ [[Academic Achievement|学业成就]]，$g = 0.45$ 学科态度），详述清算中心如何以此类高因果[[Reliability|信度]]元分析为底座提炼结构化决策参数与六大工具分类，构建面向教师教育的循证中介转化[[Paradigm|范式]]。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 29 项实验与准[[Experimental Research|实验研究]]（59 个[[Effect Size|效应量]]），评估[[Generative Artificial Intelligence|生成式人工智能]]对学生[[Higher-Order Thinking Skills|高阶思维]]（涵盖[[Problem Solving|问题解决能力]]、[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]）的总体促进效应（Hedges' $g = 0.609$），并系统检验干预时长、学段、教学方法与[[Self-Regulated Learning|自主调节学习]]能力的[[Interaction Effect|调节效应]]。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 依据[[Third Generation Activity Theory|活动理论]]移动计算机支持协作学习（AT-MCSCL）框架对 57 项实验与准[[Experimental Research|实验研究]]（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test|前测]][[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。

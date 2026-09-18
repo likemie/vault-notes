@@ -7,7 +7,7 @@ aliases:
 summary: "解释大学生如何通过学术融入与社交融入逐步稳定留在高等教育体系中的学生发展概念，强调归属感与参与质量的重要性"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Academic Attrition]]"
   - "[[Student Engagement]]"
   - "[[Operationalization]]"
   - "[[Student Involvement]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-08-20
+updated: 2026-09-18
 ---
 
 # Academic and Social Integration
@@ -55,7 +56,7 @@ updated: 2026-08-20
 > [!quote]
 > 学生必须先与其之前的社会关系（比如家人和高中的朋友）相分离（separate），进入一个"开始尝试融入新群体互动"的转折性阶段，并习得（incorporate）新群体或大学内部的规范性价值观与行为模式（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tinto, 1993）
 
-Tinto 的核心关切是大学生辍学问题：为何许多学生——特别是弱势背景学生——在进入大学后选择离开？他的回答是：融入失败。学生若不能顺利完成从原有社会关系到大学新群体的心理和行为过渡，辍学风险就会显著升高（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许多学生——特别是弱势背景学生——在进入大学后选择离开？他的回答是：融入失败。学生若不能顺利完成从原有社会关系到大学新群体的心理和行为过渡，辍学风险就会显著升高（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将该理论作为"大学过程"三层嵌套[[Analytic Framework|分析框架]]中"投入过程"的主要理论资源之一。
 
@@ -73,7 +74,7 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 ## 概念演变
 
 > [!note]-
-> - **1975 初版** Tinto 在 *Review of Educational Research* 发表"dropout from Higher Education"，借鉴 Durkheim 的自杀理论和 van Gennep 的过渡仪式理论，提出大学生辍学的互动模型
+> - **1975 初版** Tinto 在 *Review of Educational Research* 发表"dropout from Higher Education"，借鉴 Durkheim 的自杀理论和 van Gennep 的过渡仪式理论，提出大[[Academic Attrition|学生辍学]]的互动模型
 > - **1993 系统化** *Leaving College* 第二版系统阐述了分离-转折-习得三阶段模型和学业/社交双维度融入框架（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tinto, 1993）
 > - **2000s [[Operationalization|操作化]]争议** 学界对如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（，引 Braxton & Lien, 2000），但大多数学者同意其基本共识：学生必须主动投入、积极参与学校活动、主动与教师和同学交往，才更可能取得成功
 > - **2023 中国教育研究应用**[[Yajun Zheng|郑雅君]]将 Tinto 的融入理论作为"投入过程"层的核心理论基础之一，操作化为 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 两个分析维度
@@ -109,7 +110,7 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 
 > [!tip]-
 > - van Gennep 过渡仪式理论（Rites of Passage）— 三阶段模型的原型：分离（séparation）→ 阈限（limen）→ 聚合（agrégation）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tinto, 1993）
-> - Durkheim 自杀理论 — Tinto 借鉴 Durkheim 关于个体与社会整合失败导致自杀的[[Analytic Framework|分析框架]]，将其应用于大学生辍学问题
+> - Durkheim 自杀理论 — Tinto 借鉴 Durkheim 关于个体与社会整合失败导致自杀的[[Analytic Framework|分析框架]]，将其应用于大[[Academic Attrition|学生辍学]]问题
 
 ---
 

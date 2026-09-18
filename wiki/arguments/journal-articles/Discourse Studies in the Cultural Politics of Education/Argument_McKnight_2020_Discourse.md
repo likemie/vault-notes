@@ -10,7 +10,7 @@ title: "Argument_McKnight_2020_Discourse"
 argument_key: "Argument_McKnight_2020_Discourse"
 argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Ontology]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Lesson Study]]"
   - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Dialogue in Education]]"
@@ -81,7 +82,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法** 理论性／批判性[[Discourse Analysis|话语分析]]（非实证课堂研究）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"(p.34)
+> - **方法** 理论性／批判性[[Discourse Analysis|话语分析]]（非实证[[Lesson Study|课堂研究]]）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"(p.34)
 > - **分析对象** Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
 > - **分析视角** 作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究(p.33)
 > - **数据来源** Hattie 的出版物、[[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
@@ -90,7 +91,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 论文以七个批判性论点逐层展开（作者明确表示"七"这个数字本身即是对 [[Visible Learning|VL]] 中充斥的管理话语——测量、表演性和"交付"——的挑衅性和反讽性回应）：
+> 论文以七个批判性论点逐层展开（作者明确表示"七"这个数字本身即是对 VL 中充斥的管理话语——测量、表演性和"交付"——的挑衅性和反讽性回应）：
 >
 > ### 1. [[Visible Learning]] 承载政治包袱
 > 视觉作为主导性和殖民性感官，在新自由主义语境中并非中性选择。VL 暗示教师和学生是全能的行动者——命运在自己手中，从而否定了国家强制课程、测试制度、排名表等的结构性暴力。VL 创造了"每个人都可以监视其他所有人"的监控文化（教师-学生、家长-教师、校长-教师、学者-教师、国家-教师、国家-学者）。教师被保持在"[[Ontology|本体论]]上不安全"的状态以被去政治化(Ball, 2003)。提出问题：VL 使什么具体化了？谁的获益？暴力和资本流动在哪里？
@@ -147,7 +148,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **论文自认局限** 非实证课堂研究，而是理论性参与；由于专门批评 [[Visible Learning|VL]] 文化政治的[[Document|文献]]匮乏，未进行常规[[Literature Review|文献综述]](p.34)；作者承认自己也可能同样"将教师定位为匮乏者、未被意识到的被接管者、被学者发声的腹语术人偶"(p.42)
+> - **论文自认局限** 非实证[[Lesson Study|课堂研究]]，而是理论性参与；由于专门批评 VL 文化政治的[[Document|文献]]匮乏，未进行常规[[Literature Review|文献综述]](p.34)；作者承认自己也可能同样"将教师定位为匮乏者、未被意识到的被接管者、被学者发声的腹语术人偶"(p.42)
 > - **立场** 作者来自包容性教育领域（残疾研究和性别研究），其文化政治立场明确，不声称[[Value Neutrality|价值中立]]
 > - **可能被驳回的方式** 作者预见到批评可能被"方便地驳回或边缘化，而不充分参与我们的想法"，并呼吁"不回避审问论述的文化政治的、有力的辩论"
 

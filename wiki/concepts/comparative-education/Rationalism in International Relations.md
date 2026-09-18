@@ -9,7 +9,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Grotius 思想），视国际社会为通过多边合作与规则缓和无政府冲突的“存在制度缺陷的社会”，以“权威”为核心概念。在比较教育中，它将学科塑造成促进国际理解与远处治理规范趋同的“理性事业”。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[International Mind]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Policy Mobility]]"
   - "[[Network Governance]]"
   - "[[Relational Space]]"
   - "[[Policy Entrepreneur]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Rationalism in International Relations
@@ -102,7 +103,7 @@ updated: 2026-09-17
 > [!feature] 核心要素
 > - **和平政治与[[International Mind|国际心智]]培育（Peace Politics & International Understanding）** 比较教育被构想为消解民族利己主义、消除历史教科书偏见、促进跨国合作与培育“国际心智”的和平工具，其早期实证表现为国际联盟智力合作组织（IIIC）的工作。(引自 [[Argument_Klerides, 2023, pp. 423–424]])
 > - **[[Governing at a Distance|远处治理]]与中立数据技术（Benchmarking & Governing at a Distance）** 在冷战后将比较教育塑造为一种“治理模式”。多边组织（如 [[OECD]]）借助大数据、评估框架与基准测试（benchmarking），在“科学客观性”的外衣下行使远处[[Disciplina and Doctrina|规训]]，推动各国教育系统向效率指标渐进趋同。(引自 [[Argument_Klerides, 2023, p. 424]])
-> - **多元政策流动的网格化分析（[[Network Governance]] & [[Relational Space]]）** 突破单一国家的物理边界，使用[[Actor-Network Theory|行动者网络理论]]（ANT），透视[[Policy Entrepreneur|政策企业家]]、NGO、跨国企业与主权国家在“政策景观”（policyscapes）和“流动话语”中的多维共谋与标准化对齐。(引自 [[Argument_Klerides, 2023, pp. 424–425]])
+> - **多元[[Policy Mobility|政策流动]]的网格化分析（[[Network Governance]] & [[Relational Space]]）** 突破单一国家的物理边界，使用[[Actor-Network Theory|行动者网络理论]]（ANT），透视[[Policy Entrepreneur|政策企业家]]、NGO、跨国企业与主权国家在“政策景观”（policyscapes）和“流动话语”中的多维共谋与标准化对齐。(引自 [[Argument_Klerides, 2023, pp. 424–425]])
 
 > [!logic-map]- 要素关系
 > ```mermaid

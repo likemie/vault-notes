@@ -5,7 +5,7 @@ aliases:
 summary: "把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 13
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Mondialisation]]"
 related_theories:
-  - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
 related_methods: []
 related_persons:
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-09-18
 ---
 
 ## 核心主张
@@ -57,7 +56,7 @@ updated: '2026-05-18'
 > [!abstract] 核心命题
 > Escobar 援引 Irwin (2015) 提出了转型设计的十条原则。[[Argument_Amos_2022_Springer|Amos (2022, pp.61–62)]] 在正文中全文引用。其完整逻辑如下：
 >
-> 1. **以生命[[Luhmann's Systems Theory|系统理论]]理解和应对 wicked problems（棘手问题）**——wicked problems 不能简化为单个[[Variable|变量]]或单一学科的方法；需要 Maturana & Varela 的[[Autopoiesis|自创生]]系统理论提供的整体视角
+> 1. **以生命系统理论理解和应对 wicked problems（棘手问题）**——wicked problems 不能简化为单个[[Variable|变量]]或单一学科的方法；需要 Maturana & Varela 的[[Autopoiesis|自创生]]系统理论提供的整体视角
 > 2. **设计同时保护与修复社会和自然生态系统的解决方案**——不可偏废一方
 > 3. **以日常生活／生活方式为设计的最根本情境**——不从抽象模型出发，从人们实际如何生活、如何消费、如何移动、如何学习出发
 > 4. **基于地方（place-based）、全球联网（globally networked）的解决方案**——方案必须扎根于特定地方，但通过连接和扩散在更大范围产生影响
@@ -72,7 +71,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **Maturana & Varela (1987)** — *The Tree of Knowledge* 奠定了生命[[Luhmann's Systems Theory|系统理论]]（[[Autopoiesis|自创生]]）的基础，为转型设计的"[[Emergence|涌现]]"命题提供了生物学依据
+> - **Maturana & Varela (1987)** — *The Tree of Knowledge* 奠定了生命系统理论（[[Autopoiesis|自创生]]）的基础，为转型设计的"[[Emergence|涌现]]"命题提供了生物学依据
 > - **Varela (1999)** — *Ethical Know-How* 提出"自我的非固化"概念——自我作为分布式系统的涌现属性——为转型设计中"设计师心态是设计构成要素"的主张提供了理论基础
 > - **Irwin (2015)** — 提出转型设计的十条原则，将系统理论与设计实践连接
 > - **Escobar (2018)** — *Designs for the Pluriverse* 系统阐述转型设计作为应对现代性危机的全面框架，连接去殖民主义、后榨取主义、替代经济增长模型等议题

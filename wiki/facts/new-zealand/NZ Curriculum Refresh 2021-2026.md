@@ -11,7 +11,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -36,12 +36,13 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[The New Zealand Curriculum]]"
+  - "[[Teacher Choices]]"
 related_arguments:
   - "[[Argument_McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 
 # NZ Curriculum Refresh 2021-2026
@@ -58,7 +59,7 @@ updated: 2026-09-11
 ## 背景
 
 > [!note]-
-> 改革的直接推动力来自 2019 年新西兰历史教师协会发起的请愿活动，要求新西兰历史成为必修课程。时任总理 Jacinda Ardern 支持了这一倡议。2022 年 3 月发布的新西兰历史课程标志着与教育部之前灵活课程方法的显著不同，该方法让学校和教师选择与广泛陈述的成就目标相关的内容。
+> 改革的直接推动力来自 2019 年新西兰历史教师协会发起的请愿活动，要求新西兰历史成为必修课程。时任总理 Jacinda Ardern 支持了这一倡议。2022 年 3 月发布的新西兰历史课程标志着与教育部之前灵活课程方法的显著不同，该方法让学校和[[Teacher Choices|教师选择]]与广泛陈述的成就目标相关的内容。
 >
 > 新的历史课程引入了新的结构和新的指导原则，成为当前课程改革的推动力和原型。改革始于 2021 年，计划完成日期为 2026 年([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
@@ -68,7 +69,7 @@ updated: 2026-09-11
 
 > [!abstract] 从结果导向到进步导向
 >
-> **2007 年课程的特点**。2007 年[[The New Zealand Curriculum|新西兰课程]]是简洁的课程，让学校和教师选择与广泛陈述的成就目标相关的内容。该课程以结果为导向，强调通用能力和 21 世纪学习([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> **2007 年课程的特点**。2007 年[[The New Zealand Curriculum|新西兰课程]]是简洁的课程，让学校和[[Teacher Choices|教师选择]]与广泛陈述的成就目标相关的内容。该课程以结果为导向，强调通用能力和 21 世纪学习([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 >
 > **改革的方向**。教育部声明课程改革涉及从[[Outcomes-based Education|结果导向课程]]转向进步导向课程，通过使用 UKD 框架。新模型旨在提供比之前课程水平更多的细节和指导，关于学生在课程各个阶段需要理解、知道和做什么。
 

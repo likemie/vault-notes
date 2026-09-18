@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -49,12 +49,13 @@ related_facts:
   - "[[PISA]]"
   - "[[Educational Testing Service]]"
   - "[[Teaching and Learning International Survey]]"
+  - "[[Reach]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-18
 ---
 
 # Programme for the International Assessment of Adult Competencies
@@ -88,7 +89,7 @@ updated: 2026-09-12
 > [!citation-card] [[OECD|经合组织]]能力治理从学校走向全生命周期的扩张
 > 经合组织在 2000 年正式推出[[PISA|国际学生评估项目]]（PISA），此后相继衍生出成人能力评估（PIAAC）、教师教学调查（[[Teaching and Learning International Survey|TALIS]]）等跨国评价平台，确立了不可逆转的跨国比较规制体系。这种将知识与能力彻底量化化的规制企业，使其不仅穿透了各成员国的中小学课程，更将多边治理的触角直接伸向劳动力技能市场与[[Lifelong Learning|终身学习]]全生命周期。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 >
-> *[[Governing by Numbers|governance by numbers]] fully evolved with PISA and PISA-induced education knowledge outlets. Cross-national comparison or metrics became the hallmark of the OECD. The quantification enterprise of the OECD became unstoppable, expanding its reach into lifelong learning and adult competencies.*
+> *[[Governing by Numbers|governance by numbers]] fully evolved with PISA and PISA-induced education knowledge outlets. Cross-national comparison or metrics became the hallmark of the OECD. The quantification enterprise of the OECD became unstoppable, expanding its [[Reach]] into lifelong learning and adult competencies.*
 
 ---
 

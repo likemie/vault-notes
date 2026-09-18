@@ -12,9 +12,9 @@ subtype: event
 region: "global"
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -42,12 +42,13 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[A Nation at Risk 1983]]"
   - "[[PISA]]"
+  - "[[Reach]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-18
 ---
 
 # 1967 Williamsburg Conference on the World Crisis in Education
@@ -128,7 +129,7 @@ updated: 2026-09-12
 > [!citation-card] 危机叙事与[[Policy Brokerage|政策中介]]的起源
 > [[OECD|经合组织]]与[[World Bank|世界银行]]向政策中介演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……[[Philip H. Coombs|菲利普·H·库姆斯]]身兼肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]首任所长，同时也是极具影响力的《世界教育危机》一书的作者，他比任何人都更具象地人格化了这种危机的普世主义宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
-> *Arguably, the policy broker trajectories of the OECD and the World Bank were steeped in recurrent crisis narratives about the worldwide spread of the education crisis. Given their universal reach, the IOs heard the calling. ... Philip H. Coombs, the first Assistant Secretary of State for Education and Culture (appointed by President John F. Kennedy), the first Director of the [[UNESCO]] International Institute for Educational Planning, and author of the influential book The World Education Crisis (Coombs 1968), personified more than anyone else the universalist claim. Published in a divided world during the Cold War, Coombs’ book was harshly criticised on the other side of the Iron Curtain (see Steiner-Khamsi 2006).*
+> *Arguably, the policy broker trajectories of the OECD and the World Bank were steeped in recurrent crisis narratives about the worldwide spread of the education crisis. Given their universal [[Reach]], the IOs heard the calling. ... Philip H. Coombs, the first Assistant Secretary of State for Education and Culture (appointed by President John F. Kennedy), the first Director of the [[UNESCO]] International Institute for Educational Planning, and author of the influential book The World Education Crisis (Coombs 1968), personified more than anyone else the universalist claim. Published in a divided world during the Cold War, Coombs’ book was harshly criticised on the other side of the Iron Curtain (see Steiner-Khamsi 2006).*
 
 ---
 

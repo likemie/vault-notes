@@ -66,7 +66,6 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Knowledge-to-Action Models]]"
   - "[[Complexity Theory]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Typological Analysis]]"
   - "[[Analytic Framework]]"
@@ -80,6 +79,7 @@ related_facts:
   - "[[What Works Network]]"
   - "[[Monash Q Project]]"
   - "[[OECD]]"
+  - "[[Reach]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
 sources:
@@ -182,7 +182,7 @@ updated: 2026-09-13
 >
 > - **系统模型（Systems Model）**
 >
->   根植于系统论与复杂自适应[[Luhmann's Systems Theory|系统理论]]（Burns & Köster, 2016），将教育研究系统视为自组织的复杂生态网络；行动者深嵌于多维反馈回路之中，系统呈现多层级嵌套、非线性涌现与自组织演化，系统整体能力远大于孤立构件的简单加总。（pp.35–36）
+>   根植于系统论与复杂自适应系统理论（Burns & Köster, 2016），将教育研究系统视为自组织的复杂生态网络；行动者深嵌于多维反馈回路之中，系统呈现多层级嵌套、非线性涌现与自组织演化，系统整体能力远大于孤立构件的简单加总。（pp.35–36）
 
 #### 2. 从流水线技术理性走向自组织复杂网络的图式流变
 
@@ -442,7 +442,7 @@ Révai (2020) 在 [[OECD]] 工作论文中提出了教育生态中证据与创�
 > [!citation-card] 终极目标在系统治理中的导向价值：乌托邦之喻
 > 大多数框架忽略了系统追求的主要目标。承诺一个明确目标并在图示和文字中明确表述，能让教育系统及其行动者始终锁定终极方向。如果我们将教育研究视为对学生学习产生间接而缓慢影响的事物，那么学生学习可能看起来就像地平线上遥不可及的目标。无论我们走多远，都永远无法真正触及那个地平线。然而，正如 Eduardo Galeano (2012) 所言，这正是遥不可及目标的真正意义所在：它指引我们不断前行。（p.51）
 >
-> *Most of the frameworks analysed in this chapter omit the main objectives that systems aim for. Committing to a specific goal, representing it graphically and putting it in writing can allow education systems and their actors to keep the ultimate goal in sight. In this case, if we think of educational research as something that has indirect and slow impact on student learning, this latter may appear as an unreachable goal on the horizon. And no matter how far we go, we can never reach that horizon. But that is the exact purpose of this seemingly unreachable goal: To make us move forward.*
+> *Most of the frameworks analysed in this chapter omit the main objectives that systems aim for. Committing to a specific goal, representing it graphically and putting it in writing can allow education systems and their actors to keep the ultimate goal in sight. In this case, if we think of educational research as something that has indirect and slow impact on student learning, this latter may appear as an unreachable goal on the horizon. And no matter how far we go, we can never [[Reach]] that horizon. But that is the exact purpose of this seemingly unreachable goal: To make us move forward.*
 
 #### 3. 构建下一代教育证据生态系统模型的四大行动路径
 

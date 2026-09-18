@@ -9,7 +9,7 @@ aliases:
 summary: "将教育系统理解为多层级行动者在制度结构中通过协商、博弈与制度工具共同达成决策与行动协调的宏观分析框架"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 29
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -31,11 +31,12 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Creativity]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
-  - "[[Critical Pedagogy]]"
-  - "[[Variable]]"
   - "[[Counterfactual]]"
   - "[[Causality]]"
+  - "[[Academic Achievement]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[New Public Management]]"
+  - "[[Governing by Numbers]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -43,7 +44,8 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
   - "[[Rating Scale]]"
-  - "[[Mixed Methods Research]]"
+  - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Herbert Altrichter]]"
@@ -150,11 +152,11 @@ updated: 2026-09-18
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 多层级教育系统中宏观政策、中观督导与微观学校领导之间的协调机制、再情境化过程与行动者观念分化。
+> - **适合分析** 多层级教育系统中宏观政策、中观督导与微观[[School Leadership|学校领导]]之间的协调机制、再情境化过程与行动者观念分化。
 > - **成立条件** 适用于存在多层级科层行政与单校专业能动空间的现代教育制度；需要结合政策文本、督导工作记录与一线校长量表数据。
-> - **解释不足** 早期分析框架对宏观新自由主义意识形态与资本逻辑对教育公益性的深层侵蚀关注不足；对行动者微观认知改变心理机制的刻画相对宏观。
-> - **转化困难** 治理框架涉及宏观、中观、微观多层级复杂构件，各层级间存在高度松散耦合，在实证量化研究中难以建立严密的反事实因果推断。
-> - **不能直接推出** 治理工具的制度供给不能直接推出学校日常教学质量的自动改善，更不能直接替代学生终端学业成就的评估。
+> - **解释不足** 早期[[Analytic Framework|分析框架]]对宏观新自由主义意识形态与资本逻辑对教育公益性的深层侵蚀关注不足；对行动者微观认知改变心理机制的刻画相对宏观。
+> - **转化困难** 治理框架涉及宏观、中观、微观多层级复杂构件，各层级间存在高度松散耦合，在实证[[Quantitative Research|量化研究]]中难以建立严密的[[Counterfactual|反事实]][[Causality|因果推断]]。
+> - **不能直接推出** 治理工具的制度供给不能直接推出学校日常教学质量的自动改善，更不能直接替代学生终端[[Academic Achievement|学业成就]]的评估。
 
 ---
 
@@ -162,15 +164,15 @@ updated: 2026-09-18
 
 > [!debates] 理论争议
 >
-> > [!axis] 理性决策循环与新自由主义规训的理论论争
-> > 批判学者质疑治理框架隐含的“目标设定 $\rightarrow$ 数据监控 $\rightarrow$ 诊断改进”理性循环假定，认为其美化了绩效问责与新公共管理（NPM）的技术治理逻辑。
+> > [!axis] 理性决策循环与新自由主义[[Disciplina and Doctrina|规训]]的理论论争
+> > 批判学者质疑治理框架隐含的“目标设定 $\rightarrow$ 数据监控 $\rightarrow$ 诊断改进”理性循环假定，认为其美化了绩效问责与[[New Public Management|新公共管理]]（NPM）的技术治理逻辑。
 > >
-> > - **批判学者立场** 强调数字治理与监控技术加剧了对教师劳动过程的审计规训，导致教育价值的窄化与文牍主义异化。
-> > - **治理理论倡导者立场** 坚称治理视角摒弃了中央集权全能调控的幻想，其核心洞见恰恰在于揭示行动者在多层博弈中的自主空间、抵抗阻断与再情境化转译机制。
+> > - **批判学者立场** 强调[[Governing by Numbers|数字治理]]与监控技术加剧了对教师劳动过程的审计规训，导致教育价值的窄化与文牍主义异化。
+> > - **治理理论倡导者立场** 坚称治理视角摒弃了中央集权全能调控的幻想，其核心洞见恰恰在于揭示行动者在多层博弈中的自主空间、抵抗阻断与再情境化[[Transfer Translation Transformation|转译]]机制。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 以教育治理框架为核心理论坐标，实证检验奥地利中小学校长治理态度聚类及其对微观日常工时配置与教学领导的重塑效应。

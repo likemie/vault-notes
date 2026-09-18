@@ -73,5 +73,5 @@ updated: '2026-08-27'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Learnification 作为批判性概念，其立场本身是规范性的——它预设教育的目的是超越学习结果测量的，这可能被 [[Evidence-Based Education|EBE]]/ [[Visible Learning|VL]] 支持者视为对教育问责和透明性的拒绝
+> - Learnification 作为批判性概念，其立场本身是规范性的——它预设教育的目的是超越学习结果测量的，这可能被 [[Evidence-Based Education|EBE]]/ VL 支持者视为对教育问责和透明性的拒绝
 

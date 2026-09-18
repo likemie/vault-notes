@@ -9,7 +9,7 @@ summary: "结合量化与质性数据并通过特定设计进行系统整合的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 74
+method_related_count: 75
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm Wars]]"
+  - "[[Commensuration]]"
   - "[[Knowledge Production]]"
   - "[[Dialogue in Education]]"
   - "[[APA Style]]"
@@ -101,7 +102,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Mixed Methods Research
@@ -165,7 +166,7 @@ updated: 2026-09-17
 ## 历史背景与演变
 
 ### 范式战争与第三条道路
-混合方法研究的兴起直接根植于 20 世纪晚期社会科学界激烈的“[[Paradigm Wars|范式战争]]”（Gage, 1989）。传统阵营将量化与质性划分为互不可通约的敌对信仰体系。随着教育研究实践的深化，学者们日益意识到将探究粗暴二分为量化与质性不仅缺乏建设性，更严重禁锢了[[Knowledge Production|知识生产]]的潜能（Gorard & Smith, 2006, p. 61）；混合方法主张减少无谓对抗、促进方法趋同（Brannen, 2005）与开启多维[[Dialogue in Education|对话]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 26]]）。
+混合方法研究的兴起直接根植于 20 世纪晚期社会科学界激烈的“[[Paradigm Wars|范式战争]]”（Gage, 1989）。传统阵营将量化与质性划分为互不可[[Commensuration|通约]]的敌对信仰体系。随着教育研究实践的深化，学者们日益意识到将探究粗暴二分为量化与质性不仅缺乏建设性，更严重禁锢了[[Knowledge Production|知识生产]]的潜能（Gorard & Smith, 2006, p. 61）；混合方法主张减少无谓对抗、促进方法趋同（Brannen, 2005）与开启多维[[Dialogue in Education|对话]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 26]]）。
 
 > [!timeline] 混合方法研究的发展演进
 > - **1985–1990** 管理学、教育学、社会学与评估科学界学者开始系统撰写混合方法研究论著（Bryman, 1988; Greene et al., 1989）。
@@ -271,7 +272,7 @@ updated: 2026-09-17
 >   - **数据转换** 保障量化转换与质化转换过程中的意义保真度与解释连贯性。
 > - **哲学与政治合法化**
 >   - **范式混合** 务实协调不同哲学[[Hypothesis|假设]]，避免[[Epistemology|认识论]]分裂。
->   - **可通约性** 跨越概念鸿沟，搭建跨学科与跨范式整合[[Dialogue in Education|对话]]平台。
+>   - **可[[Commensuration|通约]]性** 跨越概念鸿沟，搭建跨学科与跨范式整合[[Dialogue in Education|对话]]平台。
 >   - **政治合法化** 同时满足同行评议专家、政策决策者与实践社区多元主体的证据期待。
 
 ### 方案设计中的九大核心决策维度

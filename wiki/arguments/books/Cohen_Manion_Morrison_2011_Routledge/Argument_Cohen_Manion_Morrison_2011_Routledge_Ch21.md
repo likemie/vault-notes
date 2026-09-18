@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Response Bias]]"
   - "[[Gatekeepers]]"
   - "[[Deficiencies Model for an Introduction]]"
+  - "[[Commensuration]]"
   - "[[Reflexivity]]"
   - "[[Informed Consent]]"
 related_theories:
@@ -952,7 +953,7 @@ Parker & Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体�
 > 13. 陌生人通过电话往往更难沟通，非语言线索的缺失加剧这一困难
 
 > [!info] 电子邮件访谈（James & Busher, 2007）
-> - 可接触硬性接触群体（时间、地点、旅行、地理分散、残疾、语言或沟通约束）
+> - 可接触硬性接触群体（时间、地点、旅行、地理分散、残疾、语言或沟[[Commensuration|通约]]束）
 > - 比电话访谈产生更**丰富、更具[[Reflexivity|反思性]]、更深思熟虑和更长**的回答
 > - 减少转录时间（电子邮件已转录）；受访者有机会检查所提供的数据
 > - 可同步（实时）或异步进行（后者给予受访者时间考虑其回答）

@@ -8,9 +8,9 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -20,13 +20,18 @@ tags:
 - equity
 related_concepts:
   - "[[Growth]]"
+  - "[[Venture Philanthropy]]"
+  - "[[Policy Network]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
-related_persons: []
+related_persons:
+  - "[[David Gonski]]"
 related_facts:
+  - "[[Gonski 2.0]]"
   - "[[Karmel Report]]"
   - "[[Social Ventures Australia]]"
 related_arguments:
@@ -49,11 +54,11 @@ updated: 2026-09-18
 > Gonski 改革分两轮进行（Keddie et al., 2020, IJLE, p.2, 11）：
 >
 > - **Gonski et al. (2011)** *Review of Funding for Schooling: Final Report* — 首次系统审查澳大利亚学校教育拨款
-> - **Gonski et al. (2018)** *Through [[Growth]] to Achievement: Report of the Review to Achieve Educational Excellence in Australian Schools* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
+> - **Gonski et al. (2018)** *Through [[Growth]] to Achievement: Report of the [[Gonski 2.0|Review to Achieve Educational Excellence in Australian Schools]]* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
 >
 > 改革旨在返回 [[Karmel Report]] 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、SES、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
 >
-> Gonski 2.0 的核心创新在于重新定义"成功学习"：**不是以年龄基准（age-based expectations）衡量，而是以个体取得的进步（progress individuals make）衡量，无论起点如何**。David Gonski 本人认识到"当人们被教授他们已经知道的内容或缺乏成功所需的先前知识或技能时，学习不太可能发生"（Masters, cited in Sarbiewska, 2019, p.127）。这一视角将教育公平的关注点从"投入平等"转向"成长平等"。
+> Gonski 2.0 的核心创新在于重新定义"成功学习"：**不是以年龄基准（age-based expectations）衡量，而是以个体取得的进步（progress individuals make）衡量，无论起点如何**。[[David Gonski]] 本人认识到"当人们被教授他们已经知道的内容或缺乏成功所需的先前知识或技能时，学习不太可能发生"（Masters, cited in Sarbiewska, 2019, p.127）。这一视角将教育公平的关注点从"投入平等"转向"成长平等"。
 
 ## 时间线
 
@@ -83,7 +88,7 @@ updated: 2026-09-18
 > [!warning] 争议与评论
 > - **"不让任何学校更糟"条款**被批评为事实上维护了结构性不平等——即使有 Gonski 的额外资金，资金最充足的私立学校仍然获得最多资源（Keddie et al., 2020, IJLE, p.12-13）
 > - **透明度和行政支持的缺乏**使公平资金的预期效果无法实现，校长可能将拨款用于其他优先事项（Keddie et al., 2020, IJLE, p.11-12）
-> - **文化符号与公共信任的工具化借用** 戴维·冈斯基（David Gonski）作为商业律师与风险慈善顾问，其名字因公立学校工会活动（#igiveagonski）而在公众中被塑造成公平投入的道德符号；埃玛·罗威（Emma Rowe）批评指出，Gonski 2.0 报告（特别是倡设国家独立证据机构的第 23 条建议）被政策网络策略性地用作认知标签（epistemic label）与公众合法性杠杆，借以推销由[[Social Ventures Australia|澳大利亚社会创投]]（Social Ventures Australia, SVA）游说推动的证据经纪人模式，实则掩蔽了底层跨国金融与咨询资本的治理渗透（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 2–3, 10]]）。
+> - **文化符号与公共信任的工具化借用** [[David Gonski|戴维·冈斯基]]（David Gonski）作为商业律师与[[Venture Philanthropy|风险慈善]]顾问，其名字因公立学校工会活动（#igiveagonski）而在公众中被塑造成公平投入的道德符号；埃玛·罗威（Emma Rowe）批评指出，[[Gonski 2.0]] 报告（特别是倡设国家独立证据机构的第 23 条建议）被[[Policy Network|政策网络]]策略性地用作认知标签（epistemic label）与公众合法性杠杆，借以推销由[[Social Ventures Australia|澳大利亚社会创投]]（Social Ventures Australia, SVA）游说推动的[[Educational Brokerage Agency|证据经纪人]]模式，实则掩蔽了底层跨国金融与咨询资本的治理渗透（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 2–3, 10]]）。
 
 ## 相关概念／理论
 

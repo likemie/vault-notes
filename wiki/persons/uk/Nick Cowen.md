@@ -7,7 +7,7 @@ summary: "英国政治科学家，公共选择理论取向的教育政策分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Elite Interview]]"
   - "[[Critical Review]]"
 related_persons:
   - "[[Nancy Cartwright]]"
@@ -53,7 +54,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 ## 简介
 
@@ -69,7 +70,7 @@ updated: 2026-09-11
 > [[Argument_Cowen_2019_ERE|Cowen (2019)]] 论证 EBE（[[Randomised Controlled Trials|RCT]] + [[Systematic Review|系统综述]]）的吸引力不在于[[Epistemology|认识论]]优越性，而在于它为决策者提供了一种**便于信息过滤与问责**的工具——即使其研究结果对一线教师的实际价值有限。
 >
 > **维度二：EBE 的实施困境（实证研究）**
-> [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] 通过对 22 位英国教师的精英访谈，揭示了 EBE 从"什么有效"到"在这里有效"之间的知识鸿沟。关键发现包括：
+> [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] 通过对 22 位英国教师的[[Elite Interview|精英访谈]]，揭示了 EBE 从"什么有效"到"在这里有效"之间的知识鸿沟。关键发现包括：
 >
 > 1. **证据实施的"流动性"** 学校不是"开箱即用"地应用证据本位方案。证据与已有知识、实践和价值观以不可预测的方式互动——既可用于克服制度惯性，也可用于[[Creativity|创造性]]偏离。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40-41]])
 >

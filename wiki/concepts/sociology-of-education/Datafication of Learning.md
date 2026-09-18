@@ -6,7 +6,7 @@ aliases:
 summary: "指在全球量化治理与新自由主义基于结果的规制驱动下，教育系统将关注焦点从教学转移到学习，并将复杂的育人过程与认知成长还原为可追踪、可量化、跨国可比的数字流、能力指标与数据库资产的认识论与社会技术过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Academic Achievement]]"
+  - "[[Commensuration]]"
   - "[[Policy Borrowing]]"
   - "[[Growth]]"
   - "[[Epistemology]]"
@@ -70,7 +71,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> **学习数据化（Datafication of Learning）**是指在全球教育治理量化转向与[[New Public Management|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其[[Transfer Translation Transformation|转译]]为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement|学业表现]]彻底转化为离散的数字[[Coding in Qualitative Research|编码]]、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并通约化为跨时空可比的指标流，使[[Governing at a Distance|远处治理]]、算法审计与跨国[[Policy Borrowing|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
+> **学习数据化（Datafication of Learning）**是指在全球教育治理量化转向与[[New Public Management|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其[[Transfer Translation Transformation|转译]]为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement|学业表现]]彻底转化为离散的数字[[Coding in Qualitative Research|编码]]、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration|通约化]]为跨时空可比的指标流，使[[Governing at a Distance|远处治理]]、算法审计与跨国[[Policy Borrowing|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知、反思与[[Growth|成长]]等活态教育经验被全面技术化还原为机器可读、可计算、可存储的数字表征与资产形态。
@@ -94,7 +95,7 @@ updated: 2026-09-18
 > [!contrast-table] 学习评价与技术形态的比较辨析
 > | 比较维度 | 本概念（学习数据化 Datafication of Learning） | 教育数字化转型（Digitalisation of Education） | 传统纸笔标准化测验（Standardised Testing） |
 > |---|---|---|---|
-> | **[[Epistemology\|认识论]]预设** | 认知与经验可被完全离散化、通约化与算法表征 | 数字化工具能提升信息传播与知识获取效率 | 学生能力服从正态分布，可按知识点线性测量 |
+> | **[[Epistemology\|认识论]]预设** | 认知与经验可被完全离散化、[[Commensuration\|通约化]]与算法表征 | 数字化工具能提升信息传播与知识获取效率 | 学生能力服从正态分布，可按知识点线性测量 |
 > | **核心[[Unit of Analysis\|分析单元]]** | 细粒度行为数据流、点击率、能力等级与微观指标 | 数字化教学平台、智能终端设备、课程资源库 | 试卷总分、试题得分率、常模百分位数 |
 > | **治理功能指向** | 远程自动化审计、全球基准对标、数据资产变现 | 扩大优质资源覆盖面、实现跨时空网络交互 | 升学甄别、文凭分流、国内教学质量达标评估 |
 > | **师生主体性** | 教师退化为数据录入员，学生沦为被测算的数字画像 | 教师借助数字资源授课，学生作为终端用户 | 教师主导课堂答疑，学生作为应试考生 |
@@ -106,7 +107,7 @@ updated: 2026-09-18
 
 > [!feature] 核心要素
 > - **从“教”向“学”的话语位移** 新自由主义公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
-> - **微观认知经验的通约化与离散化** 复杂的思维过程、情绪韧性与道德体验被转化为离散的代码与连续性量表，原本不具有可比性的不同文化背景学生被纳入同一标尺。
+> - **微观认知经验的[[Commensuration|通约化]]与离散化** 复杂的思维过程、情绪韧性与道德体验被转化为离散的代码与连续性量表，原本不具有可比性的不同文化背景学生被纳入同一标尺。
 > - **[[Governing at a Distance|远处治理]]与算法化审计** 学习数据化打破了学校围墙的物理边界，使[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]等超国家机构能够直接透过数据流对成员国课堂实施远程规制。
 > - **教育数据的资产化与市场提炼** 学习生成的数据流被国际商业资本（如 Pearson、McKinsey）与慈善基金会捕获，转化为可变现的算法模型、培训软件与咨询服务合同。
 
@@ -142,7 +143,7 @@ updated: 2026-09-18
 
 ### 命题二　学习数据化通过剥离在地语境将活态教育重构为可跨国交易与审计的数字资产
 
-> [!concept-lens] 去语境化通约与资产化
+> [!concept-lens] 去语境化[[Commensuration|通约]]与资产化
 > 揭示数据化如何抹杀文化差异，并将公共教育领域转化为全球数字资本主义的原料产地。
 
 > [!claim] Thoutenhoofd, E. D.

@@ -91,7 +91,7 @@ updated: 2026-09-17
 > - **工具类型** [[Authentic Assessment|表现性评价]]量规矩阵（Rubrics）与多维[[Evidence Standards|证据标准]]评定工具。
 > - **开发者与年份** Johnson, S. D., Tilley, N., & Bowers, K. J. (2015)；英国警务学院犯罪减少有效性中心（College of Policing What Works Centre for Crime Reduction, WWCCR, 2016）。
 > - **测量目的** 为社会政策、治安管理与公共教育干预的[[Systematic Review|系统综述]]与实证综合提供多维质评标准，摆脱传统单一因果阶梯制仅关注平均[[Effect Size|效应量]]的局限，系统评估效应方向与证据严密性、因果机制实证度、情境调节边界、实施条件与保真度门槛以及经济学投入产出比。
-> - **实施方式** 专家[[Coding in Qualitative Research|编码]]评估（Expert Coding），由证据中介机构研究员或系统评价团队对照阶梯描述符独立研判并开展复核。
+> - **实施方式** 专家[[Coding in Qualitative Research|编码]]评估（Expert Coding），由[[Educational Brokerage Agency|证据中介机构]]研究员或系统评价团队对照阶梯描述符独立研判并开展复核。
 
 > [!citation-card] 证据多维评价量规开发主旨与方法论演进
 > 针对单一效果指标无法解释复杂社会情境干预有效性的局限，Johnson 等人于 2015 年在《Journal of Experimental Criminology》提出 EMMIE 证据评级量表，并在英国警务学院《犯罪减少工具包》中制度化推行。[[David Gough]] 等学者指出，EMMIE 框架标志着[[Educational Brokerage Agency|知识中介机构]]由单维因果效应评级向涵盖机制解释与情境适切性的多维量规演进。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 150)]]

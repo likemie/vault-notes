@@ -11,7 +11,7 @@ summary: "在二阶元分析框架下，通过三水平CHE工作模型与RVE三�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Small Study Effects]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
+  - "[[Ordinary Least Squares]]"
   - "[[Random Sampling]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Sample Size Determination]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-25
+updated: 2026-09-18
 ---
 
 # Second-Order Meta-Regression
@@ -82,7 +83,7 @@ updated: 2026-08-25
 
 ## 数学原理：一阶元回归 vs 二阶元回归
 
-> [!concept-lens] 底层数学同构：广义加权最小二乘法（GLS）
+> [!concept-lens] 底层数学同构：广义加权[[Ordinary Least Squares|最小二乘法]]（GLS）
 > 一阶[[Meta-regression|元回归]]与二阶元回归在底层参数点估计上具有完全相同的数学形式，均属于广义加权最小二乘线性模型：
 > $$\hat{\boldsymbol{\beta}} = \left( \mathbf{X}^T \mathbf{W} \mathbf{X} \right)^{-1} \mathbf{X}^T \mathbf{W} \mathbf{y}$$
 > 两者的共同目标都是通过特征设计矩阵 $\mathbf{X}$ 解释[[Effect Size|效应量]]向量 $\mathbf{y}$ 的离散变异，并通过逆方差权重矩阵 $\mathbf{W}$ 赋予高精度观测点更大的统计权重。

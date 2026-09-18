@@ -84,7 +84,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／观察** Hattie 自称"我是统计学家，不是理论家"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]])，其追随者将 [[Visible Learning|VL]] 呈现为"不可否认的事实"
+> 1. **前提／观察** Hattie 自称"我是统计学家，不是理论家"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]])，其追随者将 VL 呈现为"不可否认的事实"
 >
 > 2. **论证步骤一——Hattie 是教育理论家** 所有研究都基于理论[[Hypothesis|假设]]（定义问题、选择方法、解释结果）。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的假象。其隐含理论是[[Technical Rationality|技术理性]] + 行为主义（通过 Glaser）
 >

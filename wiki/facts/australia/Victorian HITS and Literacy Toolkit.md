@@ -55,7 +55,7 @@ citation_aliases: []
 > [!policy-context] 背景档案
 > - **发布时间** 2017年 (p.141)。
 > - **发布主体** 澳大利亚维多利亚州教育部（Department of Education and Training Victoria, DET Victoria）(p.141)。
-> - **政策背景** 新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）和标准化考核压力下，[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|VL]]》在澳洲教育界获得现象级影响力，维州政府决定将其转化为全公立系统内教师必须贯彻的硬性教学指导标准 (p.141, p.150)。
+> - **政策背景** 新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）和标准化考核压力下，[[John Hattie|约翰·哈蒂]]（John Hattie）的《VL》在澳洲教育界获得现象级影响力，维州政府决定将其转化为全公立系统内教师必须贯彻的硬性教学指导标准 (p.141, p.150)。
 
 ---
 
@@ -75,8 +75,8 @@ citation_aliases: []
 > - **实施主体** 维多利亚州教育部负责在全州公立小学和中学网络中分发、培训并落实这两套指南。
 > - **实施路径**
 >   - 维州教师被官方“建议”在其教学设计中显性整合 10 项 HITS 策略，以此作为优质课堂的标准 (p.141)。
->   - 在读写课（Literacy Hour）上，教师被要求参考读写教学工具箱的阅读和查看指南。该工具箱深度引入了由 Corwin 公司出版的《[[Visible Learning|VL]]读写教学》（Fisher, Frey, & Hattie, 2016），用于规范日常拼读与阅读教学的实操步骤 (p.141)。
-> - **反馈调整与偏误** 在一线课堂实践中，由于政策过度依靠 Visible Learning [[Effect Size|效应量]]排行，导致拼读法被过度拔高，[[Whole Language|全语言]]教学被排挤。教师被动接受了存在方法论缺陷的“假科学证据”，导致课堂自主裁量权受到实质压制 (p.141, p.149)。
+>   - 在读写课（Literacy Hour）上，教师被要求参考读写教学工具箱的阅读和查看指南。该工具箱深度引入了由 Corwin 公司出版的《VL读写教学》（Fisher, Frey, & Hattie, 2016），用于规范日常拼读与阅读教学的实操步骤 (p.141)。
+> - **反馈调整与偏误** 在一线课堂实践中，由于政策过度依靠 [[Visible Learning]] [[Effect Size|效应量]]排行，导致拼读法被过度拔高，[[Whole Language|全语言]]教学被排挤。教师被动接受了存在方法论缺陷的“假科学证据”，导致课堂自主裁量权受到实质压制 (p.141, p.149)。
 
 ---
 

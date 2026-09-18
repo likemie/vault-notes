@@ -7,7 +7,7 @@ summary: "美国教育心理学家，1976年创造元分析一词并发展其方
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[American Educational Research Association]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Gene Glass
@@ -75,7 +76,7 @@ updated: 2026-09-17
 
 > [!timeline] 生平与职涯
 > - **1940 年** 出生于美国。
-> - **1976 年** 在美国教育研究协会（AERA）主席演说中首次创造 “[[Meta-analysis|元分析]]” 一词，将其定义为 “对大量个别研究的分析结果进行统计分析，以整合发现”。
+> - **1976 年** 在美国教育研究协会（[[American Educational Research Association|AERA]]）主席演说中首次创造 “[[Meta-analysis|元分析]]” 一词，将其定义为 “对大量个别研究的分析结果进行统计分析，以整合发现”。
 > - **1977 年** 与玛丽·李·史密斯（Mary Lee Smith）合作发表心理治疗效果的元分析，发现治疗组平均[[Effect Size|效应量]]为 0.6 个标准差（SD），直接挑战了当时 Hans Eysenck 主导的 “心理治疗无效” 学术共识。 ([[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 36–37]])
 
 ---

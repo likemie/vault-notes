@@ -7,7 +7,7 @@ aliases:
 summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为中介机构为充满歧义性的政策决策构筑“理性表象”的核心脚手架（Steiner-Khamsi et al., 2024）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
+  - "[[Commensuration]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
   - "[[International Education]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Performance Indicators
@@ -133,7 +134,7 @@ updated: 2026-09-17
 >   - **重塑政治关系并执行结构性选择（[[Selectivity]]）** 遵循杰索普（[[Bob Jessop]]）的国家理论，指标通过“决定度量什么和忽视什么”，特权化某些群体的利益诉求，同时使无法量化的教育价值边缘化。
 > - **[[Governing by Numbers|数字治理]] 2.0 时代的[[Façade of Rationality|理性表象]]与叙事空间**
 >   - **数字作为“理性表象”数字作为理性表象的[[Scaffolding|脚手架]]（Numbers as Scaffolding for Façade of Rationality）** 当代公共教育充满深刻的政治争议与不可知风险，指标作为“硬事实”为政府决策构筑了客观、科学与普适的防护外壳，对内平息争端，对外抵御问责。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
->   - **数字激发意识形态叙事（Numbers Evoking Narratives）** 援引埃斯佩兰德（Espeland, 2015）指标社会学理论，指标并未消灭政治，相反，其高度通约化（Commensuration）与去语境化赋予了政客极大的“自由阐释空间”，决策者可以依据自身选战策略编织指标涨跌背后的政治故事。
+>   - **数字激发意识形态叙事（Numbers Evoking Narratives）** 援引埃斯佩兰德（Espeland, 2015）指标社会学理论，指标并未消灭政治，相反，其高度[[Commensuration|通约化]]（Commensuration）与去语境化赋予了政客极大的“自由阐释空间”，决策者可以依据自身选战策略编织指标涨跌背后的政治故事。
 
 > [!logic-map]- 绩效指标的双重属性与治理运作机制流程图
 > ```mermaid
@@ -192,7 +193,7 @@ updated: 2026-09-17
 > > [!axis] 科学纯度（Scientific Purity） vs 政策可用性（Policy Usability）
 > > [[International Indicators of Education Systems|INES]] 项目自创设起就深陷学术严谨性与行政实用性的深刻妥协。
 > >
-> > - **[[Positivism|实证主义]]政策制定者（Bottani, 1996）** 主张指标无需经受极端严苛的效度检验，不兼容数据的强行通约化“总比完全缺乏数据要好”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 13)]]
+> > - **[[Positivism|实证主义]]政策制定者（Bottani, 1996）** 主张指标无需经受极端严苛的效度检验，不兼容数据的强行[[Commensuration|通约化]]“总比完全缺乏数据要好”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 13)]]
 > > - **方法论学者与社会学家（[[Argument_Gorur_2014_Discourse|Gorur, 2014]]）** 批评这种妥协开辟了系统性数据滥用的潘多拉魔盒，使大量原本不能合并的统计量被包装成具有虚假可比性的客观事实。
 > > - **跨国[[Policy Brokerage|政策中介]]网络** 坚信只要持续发布指标，就能倒逼各成员国完善自身统计系统，推动国际数据标准收敛。
 >

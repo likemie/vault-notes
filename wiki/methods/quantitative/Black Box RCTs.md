@@ -7,7 +7,7 @@ summary: "一种不解释干预如何、为何以及在何种条件下有效的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Mechanism Experiments]]"
+  - "[[Effectiveness Trial]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Random Assignment]]"
 related_persons: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -79,7 +80,7 @@ updated: 2026-09-15
 >
 > **2. 实施薄弱与规模扩展失败**
 >
-> 在美国，超过 90% 的教育干预有效性试验未显示影响（C4E, 2013）——约为医学二期[[Clinical Trial|临床试验]]成功率的一半（Kane, 2015）。这指示零效果的关键来源是：**当干预被移出初始情境时，实施不完整或不准确([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302]])**。
+> 在美国，超过 90% 的教育干预[[Effectiveness Trial|有效性试验]]未显示影响（C4E, 2013）——约为医学二期[[Clinical Trial|临床试验]]成功率的一半（Kane, 2015）。这指示零效果的关键来源是：**当干预被移出初始情境时，实施不完整或不准确([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302]])**。
 >
 > 虽然 [[Education Endowment Foundation|EEF]] 和 [[Institute of Education Sciences|IES]] 正在开发改进的实施[[Implementation and Process Evaluation|过程评估]]（IPE）方案（Dhillon, Darrow, & Meyers, 2015; Lendrum & Humphrey, 2012），但这显著提高了每次试验的成本，且由于对干预的"关键成分"或实施的[[Necessary and Sufficient Conditions|必要条件]]通常缺乏了解，IPE 方案的制定本身极具挑战性（Darrow & Goodson, forthcoming）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 302]])
 >
@@ -113,7 +114,7 @@ updated: 2026-09-15
 ## 实证发现
 
 > [!success] 实证发现
-> - 美国教育有效性试验超 90% 未显示影响（C4E, 2013）([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302]])
+> - 美国教育[[Effectiveness Trial|有效性试验]]超 90% 未显示影响（C4E, 2013）([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302]])
 > - [[Education Endowment Foundation|EEF]] 有效性试验中仅一项显示明确效应([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 301]])
 > - 仅约 20.8% 的美国 CSR 拨款流向强证据项目([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 

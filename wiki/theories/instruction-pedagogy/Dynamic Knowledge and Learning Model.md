@@ -119,6 +119,6 @@ updated: '2026-05-18'
 
 > [!example] 交叉阅读路径
 > - **方法论链**[[Effect Size]] → [[Meta-analysis]] → [[Meta-meta-analysis]] → [[Dynamic Knowledge and Learning Model]]
-> - **[[Visible Learning|VL]] 内部修正链** [[Visible Learning]] → [[Popper's Three Worlds Theory]] → [[Dynamic Knowledge and Learning Model]]
+> - **VL 内部修正链** [[Visible Learning]] → [[Popper's Three Worlds Theory]] → [[Dynamic Knowledge and Learning Model]]
 > - **政策批判链**[[Evidence-Based Education]] → [[Scientism]] → [[Cargo Cult Science]]
 

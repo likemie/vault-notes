@@ -9,7 +9,7 @@ title: "Argument_Gorur_2014_Discourse"
 argument_key: "Argument_Gorur_2014_Discourse"
 argument_display_title: "Producing calculable worlds: education at a glance"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Assemblage]]"
 related_theories:
   - "[[Sociology of Measurement]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
@@ -83,7 +82,7 @@ citation_aliases:
 >
 > 2. **论证步骤**
 >
->    **(a) 科学的妥协**[[International Indicators of Education Systems|INES]] 从一开始就放弃了科学研究的标准方法——放弃寻找普遍教育[[Luhmann's Systems Theory|系统理论]]模型，转而采用以可用性为导向的经验方法(p.10)。"不完美的数据总比没有数据好"成为核心论证逻辑。坚持统计纯度被视为阻碍(p.11)
+>    **(a) 科学的妥协**[[International Indicators of Education Systems|INES]] 从一开始就放弃了科学研究的标准方法——放弃寻找普遍教育系统理论模型，转而采用以可用性为导向的经验方法(p.10)。"不完美的数据总比没有数据好"成为核心论证逻辑。坚持统计纯度被视为阻碍(p.11)
 >
 >    **(b) 权力的转移** Lugano 1991 是分水岭时刻——政策制定者强行将学生成绩数据纳入 EAG，科学家失去对指标生产端的控制权。控制权从统计学家和社会科学专家转移到政府官员手中，心理测量学家成为官员的盟友(p.12–13)
 >

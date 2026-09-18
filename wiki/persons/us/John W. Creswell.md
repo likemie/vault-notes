@@ -9,7 +9,7 @@ summary: "美国当代著名混合方法与质性研究方法论学者，系统�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 46
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Commensuration]]"
   - "[[Epistemology]]"
   - "[[Epoché]]"
   - "[[Construct]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # John W. Creswell
@@ -131,7 +132,7 @@ updated: 2026-09-17
 >   - **代表著作** 《研究设计》（*Research Design*, 1994 第 1 版）；《质性探究与研究设计》（*Qualitative Inquiry and Research Design*, 1998）。
 >   - **关键概念** 研究设计三维模型（哲学世界观、探究设计、具体方法）、质性五路径框架。
 >   - **阶段转向** 打破技巧孤立主义，确立[[Postpositivism|后实证主义]]、[[Constructivist Paradigm|建构主义]]、转化[[Paradigm|范式]]与[[Pragmatic Paradigm|实用主义]]四类哲学世界观对研究设计的先导约束力。
-> - **2000s–2010s — 混合方法独立范式确立与设计模型标准化期** 系统回击“范式不可通约论”，将混合方法从经验性拼凑上升为自洽的方法论体系。
+> - **2000s–2010s — 混合方法独立范式确立与设计模型标准化期** 系统回击“范式不可[[Commensuration|通约]]论”，将混合方法从经验性拼凑上升为自洽的方法论体系。
 >   - **代表著作** 《设计与实施混合方法研究》（*Designing and Conducting Mixed Methods Research*, 2007 第 1 版 / 2011 第 2 版，与 Vicki L. Plano Clark 合著）；《混合方法研究简明入门》（*A Concise Introduction to Mixed Methods Research*, 2014）。
 >   - **关键概念** [[Convergent Design|聚敛式设计]]（Convergent）、[[Explanatory Sequential Design|解释性序列设计]]（Explanatory Sequential）、[[Exploratory Sequential Design|探索性序列设计]]（Exploratory Sequential）、复杂混合设计。
 >   - **阶段转向** 正式将混合方法确立为第三范式，以实用主义哲学确立其合法性，完成经典设计拓扑学构建。
@@ -200,7 +201,7 @@ updated: 2026-09-17
 > [!person-network] 关系网络
 > - **核心学术合作者** [[J. David Creswell]]（儿子兼合著者，卡内基梅隆大学心理学教授，拓展神经科学与健康心理学交叉）；Vicki L. Plano Clark（长期核心合著者，辛辛那提大学教授，共同奠立设计拓扑学）；Cheryl N. Poth（阿尔伯塔大学教授，合著质性五路径新版）。
 > - **[[Mixed Methods Research|混合方法]]理论同盟** 阿巴斯·塔沙克里（Abbas Tashakkori）与查尔斯·泰德利（Charles Teddlie）— 共同推动混合方法作为第三范式的建制化；詹妮弗·格林（Jennifer C. Greene）— 共同倡导多元范式包容与数据整合通道。
-> - **[[Qualitative Research|质性研究]]理论先驱** 伊冈·古巴（[[Egon G. Guba|Egon Guba]]）与[[Yvonna S. Lincoln|伊冯娜·林肯]]（Yvonna S. Lincoln）— 克雷斯维尔在早期建构质性世界观时深受其第四代评价与[[Constructivist Paradigm|建构主义范式]]启发，但克服了其“范式不可通约”的僵化对立。
+> - **[[Qualitative Research|质性研究]]理论先驱** 伊冈·古巴（[[Egon G. Guba|Egon Guba]]）与[[Yvonna S. Lincoln|伊冯娜·林肯]]（Yvonna S. Lincoln）— 克雷斯维尔在早期建构质性世界观时深受其第四代评价与[[Constructivist Paradigm|建构主义范式]]启发，但克服了其“范式不可[[Commensuration|通约]]”的僵化对立。
 > - **国际推广同行** 曼弗雷德·马克斯·贝格曼（Manfred Max Bergman）— 瑞士社会学家，[[Mixed Methods International Research Association|MMIRA]] 第二任主席，共同推动混合方法跨国网络的全球拓展。
 
 ---

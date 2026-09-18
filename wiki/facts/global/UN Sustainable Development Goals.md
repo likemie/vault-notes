@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[University Social Responsibility]]"
   - "[[Knowledge Production]]"
   - "[[Grand Theory]]"
+  - "[[Policy Mobility]]"
   - "[[Policy Brokerage]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Internationalization of Higher Education]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # UN Sustainable Development Goals
@@ -176,7 +177,7 @@ updated: 2026-09-17
 > - **结果指标** 低收入和中等收入国家 10 岁儿童“学习贫困”（无法阅读理解简短文本）发生率；大学在泰晤士高等教育大学影响力排名（THE Impact Rankings）中的综合得分。
 
 > [!finding-cards] 关键成效与治理影响
-> - **确立全球可持续发展最高共识体系** SDGs 成功将分散的气候、扶贫、公共卫生与教育改革熔铸为一个不可分割的跨国[[Grand Theory|元叙事]]，为跨国政策流动提供了普遍通行的度量语言。
+> - **确立全球可持续发展最高共识体系** SDGs 成功将分散的气候、扶贫、公共卫生与教育改革熔铸为一个不可分割的跨国[[Grand Theory|元叙事]]，为跨国[[Policy Mobility|政策流动]]提供了普遍通行的度量语言。
 > - **催化[[Third Mission|大学第三使命]]从经济化向世界社会价值转向** 促使高等教育机构摆脱单纯服务于商业技术专利转移的狭隘视野，将解决人类共同面临的“宏大挑战”（Grand Challenges）确立为合法性基石。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 150–154)]]
 > - **加剧跨国[[Policy Brokerage|政策中介]]的多边竞争与数据圈地** 跨国实证表明，SDG 4 的出台并未促成多边机构的均质一体化，反而刺激了五大主要国际组织在私人慈善基金会资助、数字化平台开发与排他性数据协定上的领地争夺。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 

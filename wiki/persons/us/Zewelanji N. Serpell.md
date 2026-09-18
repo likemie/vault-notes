@@ -9,10 +9,10 @@ summary: "美国教育心理学家，弗吉尼亚联邦大学教授，曾任国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1974"
 died: ""
 lifespan: "1974–至今"
@@ -32,13 +32,15 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[American Educational Research Association]]"
+  - "[[House Committee on Education and the Workforce]]"
   - "[[AERA Congressional Fellowship Program]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EP]]"
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Zewelanji N. Serpell
@@ -49,7 +51,7 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育心理学家，弗吉尼亚联邦大学（Virginia Commonwealth University）心理学系教授。
-> - **核心角色** 曾入选美国教育研究学会（American Educational Research Association, AERA）赞助的国会科学研究员计划，在众议院教育与劳动力委员会（House Committee on Education and the Workforce）担任全职国会研究员（Congressional Fellow），在教育研究学界与联邦立法机关之间扮演了独特的由外而内的局内人角色。
+> - **核心角色** 曾入选[[American Educational Research Association|美国教育研究学会]]（American Educational Research Association, AERA）赞助的国会科学研究员计划，在[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]（House Committee on Education and the Workforce）担任全职国会研究员（Congressional Fellow），在教育研究学界与联邦立法机关之间扮演了独特的由外而内的局内人角色。
 > - **代表贡献** 创立指导学术研究介入宏观立法的[[Navigational Framework for Educational Researchers|教育研究者政策导航框架]]；开创性提出解释政治立法极速响应生态的[[Policymaking Chronosystem|政策制定时间系统]]视角。
 
 > [!citation-card] 局内反思与行动倡导
@@ -63,7 +65,7 @@ updated: 2026-09-17
 
 > [!timeline] 生平与职涯
 > - **2000s–2010s** 在弗吉尼亚联邦大学心理学系从事儿童发展、注意力机制与基于学校的心理学实证研究。
-> - **2017–2018** 入选[[AERA Congressional Fellowship Program|国会研究员计划]]，前往华盛顿特区，担任美国众议院教育与劳动力委员会专业幕僚研究员，直接深度参与联邦教育法案听证、证据审查、跨党派协商与政策制定全流程。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–43)]]
+> - **2017–2018** 入选[[AERA Congressional Fellowship Program|国会研究员计划]]，前往华盛顿特区，担任美国[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]专业幕僚研究员，直接深度参与联邦教育法案听证、证据审查、跨党派协商与政策制定全流程。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–43)]]
 > - **2020** 在权威刊物《教育心理学家》（*Educational Psychologist*）发表专题论文，系统总结国会山立法实务经验，构建指导教育研究者的[[Navigational Framework for Educational Researchers|政策导航框架]]。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 40–48)]]
 
 ---

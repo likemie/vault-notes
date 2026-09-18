@@ -8,10 +8,10 @@ summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 22
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1946"
 died: ""
 lifespan: "1946–至今"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Determinism]]"
   - "[[Growth]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Paradigm]]"
   - "[[Months of Progress]]"
   - "[[Educational Meliorism]]"
@@ -46,6 +47,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education at a Glance]]"
   - "[[Pupil Premium]]"
+  - "[[Impetus]]"
   - "[[BHP Foundation]]"
   - "[[Grammar School]]"
 related_arguments:
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Peter Lampl
@@ -81,7 +83,7 @@ updated: 2026-09-17
 > - **1970s–1990s** 在美国和欧洲从事国际管理咨询（波士顿咨询集团）与私人股本投资，创立投资公司 Sutton Company，积累了深厚的商业与资本运作经验。
 > - **1997** 捐资出资创办[[Sutton Trust|萨顿信托]]（The Sutton Trust），确立“通过改善低收入家庭儿童教育机会以促进社会流动性”的慈善宗旨，资助牛津、剑桥等顶尖高校夏季大学体验项目。
 > - **2000s** 资助开展一系列开创性实证研究，揭示英国顶尖行业（法律、金融、医学、政界）中私立公学毕业生的过度垄断现状；推动英国引入并制度化面向处境不利学生的“[[Pupil Premium|学生溢价]]”（Pupil Premium）政策。
-> - **2010–2011** 联合动力信托（Impetus）代表萨顿信托参与英国教育部面向全国举办的公开招标，在 14 家机构竞争中脱颖而出，获得 1.25 亿英镑法定种子基金创办[[Education Endowment Foundation|教育捐赠基金会]]（EEF），出任 EEF 创始理事会主席。
+> - **2010–2011** 联合[[Impetus|动力信托]]（Impetus）代表萨顿信托参与英国教育部面向全国举办的公开招标，在 14 家机构竞争中脱颖而出，获得 1.25 亿英镑法定种子基金创办[[Education Endowment Foundation|教育捐赠基金会]]（EEF），出任 EEF 创始理事会主席。
 > - **2011–2013** 资助杜伦大学团队将《补救学业差距的循证教学工具包》升级为《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》；2013 年推动萨顿信托与 EEF 被英国政府内阁办公厅官方指定为英国教育领域的“有效机构”（What Works Centre for Education）。
 > - **2018–2020** 推动 EEF 拓展全球合作伙伴网络，吸纳[[BHP Foundation|必和必拓基金会]]等跨国资金，在澳大利亚和拉丁美洲建设全球教学[[Evidence Ecosystem|证据生态系统]]，累计推动全英过半数公立学校参与前沿科研。
 
@@ -117,7 +119,7 @@ updated: 2026-09-17
 
 > [!influence-path] 影响路径
 > - **政策路径** 深度影响英国教育资助结构，直接催生“[[Pupil Premium|学生溢价]]”（Pupil Premium）长效机制，将数十亿英镑公共预算精准下沉至贫困学生；推动[[Grammar School|文法学校]]招录改革与高校扩大弱势群体参与（Widening Participation）立法。
-> - **组织与治理路径** 奠定了英格兰教育证据中介机构的独立治理[[Paradigm|范式]]，建立由商界、学界与政策专家构成的独立信托理事会，成功抵御了政党更迭与短期政策周期的震荡。
+> - **组织与治理路径** 奠定了英格兰教育[[Educational Brokerage Agency|证据中介机构]]的独立治理[[Paradigm|范式]]，建立由商界、学界与政策专家构成的独立信托理事会，成功抵御了政党更迭与短期政策周期的震荡。
 > - **方法与转化路径** 推动了英国中小学大规模[[Randomised Controlled Trials|随机对照试验]]的合法化与普及化，彻底消除了学界对“公立学校不可能自愿参与对照试验”的偏见；推动以月度学习进展（[[Months of Progress]]）为核心的极简综合证据转化范式普及全球。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

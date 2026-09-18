@@ -10,7 +10,7 @@ aliases:
 summary: "多家企业作为会员共同出资支持大学研究、IP 归大学所有、会员获得优先许可权的制度安排，以 UCSB SSLEEC 为典型案例，通过非独占性 IP 设计绕过产业赞助研究中的 IP 毒丸问题"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
+  - "[[Data Infrastructure]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-09-10
+updated: 2026-09-18
 ---
 
 # Membership-based Research Consortium
@@ -95,7 +96,7 @@ updated: 2026-09-10
 ## 教育领域的迁移逻辑
 
 > [!example]
-> 一所师范大学的教育学院设立"学习科学与技术[[Innovation Hub|创新中心]]"，六家企业成为创始会员（K-12 教育出版集团、教育科技公司、学习管理系统提供商、学校数据基础设施公司、教育 VC 基金、非营利教育研究机构），每家每年缴纳会费，共同资助五个研究方向的早期探索。IP 归大学所有，会员获得优先许可权。当某个研究方向出现可商业化的技术时，研究人员可以独立从大学许可 IP 去创业，不受任何一家会员企业的约束；会员企业则因参与了前期研究而对技术方向有更深的理解，在许可和投资决策上拥有信息优势（参见 pp.150-151）。
+> 一所师范大学的教育学院设立"学习科学与技术[[Innovation Hub|创新中心]]"，六家企业成为创始会员（K-12 教育出版集团、教育科技公司、学习管理系统提供商、学校[[Data Infrastructure|数据基础设施]]公司、教育 VC 基金、非营利教育研究机构），每家每年缴纳会费，共同资助五个研究方向的早期探索。IP 归大学所有，会员获得优先许可权。当某个研究方向出现可商业化的技术时，研究人员可以独立从大学许可 IP 去创业，不受任何一家会员企业的约束；会员企业则因参与了前期研究而对技术方向有更深的理解，在许可和投资决策上拥有信息优势（参见 pp.150-151）。
 
 ---
 

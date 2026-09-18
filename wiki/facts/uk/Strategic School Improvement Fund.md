@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Counterfactual]]"
   - "[[Engineered Evidence]]"
 related_theories: []
 related_methods: []
@@ -30,8 +31,9 @@ related_persons: []
 related_facts:
   - "[[Pupil Premium]]"
   - "[[Research Schools Network]]"
-  - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Every Student Succeeds Act]]"
+  - "[[What Works Clearinghouse]]"
   - "[[Investing in Innovation Program]]"
 related_arguments:
   - "[[Argument_Gorard_2020_ROE]]"
@@ -39,7 +41,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 # Strategic School Improvement Fund
 
@@ -51,7 +53,7 @@ updated: 2026-09-16
 > - **立项时间 / 发起主体** 英国教育部（Department for Education, DfE）于 2017 年正式设立战略学校改进基金（Strategic School Improvement Fund, SSIF）。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 596)]]
 > - **适用对象 / 覆盖范围** 英格兰地区面临学业挑战与质量困境的公立中小学校，重点支持办学表现落后与资源匮乏的学区集群。
 > - **问题导向** 旨在向面临学术困境的薄弱学校注入专项财政支持，通过资助针对性的改进项目与专业培训，促进学校整体办学水平提升与学生[[Academic Achievement|学业成就]]改善。
-> - **制度位置** 作为英国政府继[[Pupil Premium|学生资助溢价]]（Pupil Premium）之后推动薄弱学校质量攻坚的大型竞争性拨款计划，但在拨款准入标准上与同期的国际证据规制实践产生严重偏离。
+> - **制度位置** 作为英国政府继学生资助溢价（[[Pupil Premium]]）之后推动薄弱学校质量攻坚的大型竞争性拨款计划，但在拨款准入标准上与同期的国际证据规制实践产生严重偏离。
 
 ---
 
@@ -70,18 +72,18 @@ updated: 2026-09-16
 > [!phase] 推进历程与批次拨款
 > - **第一阶段：方案启动与首轮评审（2017年）** 英国教育部启动规模达数千万英镑的资金池，首轮资助 56 个合作项目，覆盖数百所公立学校，重点倾斜数学教学与读写能力提升。
 > - **第二阶段：资金扩围与多轮投放（2017–2018年）** 持续开展第二与第三轮评审，累计资助超过 140 个区域改进项目，支持范围扩展至偏远乡村学校与处境不利学生集中的城市边缘校区。
-> - **第三阶段：政策反思与项目终结（2018–2019年）** 由于资金效益饱受议会与独立研究机构质疑，且缺乏持续客观的因果增益证据，教育部随后停止设立新的拨款轮次，转向依靠[[Research Schools Network|研究学校网络]]与教育捐赠基金会（EEF）的证据推广渠道。
+> - **第三阶段：政策反思与项目终结（2018–2019年）** 由于资金效益饱受议会与独立研究机构质疑，且缺乏持续客观的因果增益证据，教育部随后停止设立新的拨款轮次，转向依靠[[Research Schools Network|研究学校网络]]与[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的证据推广渠道。
 
 ---
 
 ## 成效评估与制度批评
 
-> [!finding-cards] 成效评估与反事实评估赤字
-> - **缺乏严格因果评估设计** 萨福克郡等地方议会联合 EEF 针对资助项目开展的评估（Gu et al., 2019）属于无对照组的轻量过程性调查，虽显示对孤立乡村学校有一定主观满意度，但无法确立对学生学业表现的净因果增益。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 592)]]
-> - **公款拨付与科学证据脱节的制度荒谬** 英国下议院公共账目委员会（Public Accounts Committee, 2015）对教育部提出严厉质询，指出教育部一方面投入巨资支持 EEF 建设最佳证据库，另一方面在核心财政拨款（如 SSIF 与 Pupil Premium）中却“完全不设科学证据硬约束”，仅仅采取口头推荐而非强制要求薄弱学校采购循证方案。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 596)]]
+> [!finding-cards] 成效评估与[[Counterfactual|反事实]]评估赤字
+> - **缺乏严格因果评估设计** 萨福克郡等地方议会联合 [[Education Endowment Foundation|EEF]] 针对资助项目开展的评估（Gu et al., 2019）属于无对照组的轻量过程性调查，虽显示对孤立乡村学校有一定主观满意度，但无法确立对学生[[Academic Achievement|学业表现]]的净因果增益。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 592)]]
+> - **公款拨付与科学证据脱节的制度荒谬** 英国下议院公共账目委员会（Public Accounts Committee, 2015）对教育部提出严厉质询，指出教育部一方面投入巨资支持 EEF 建设最佳证据库，另一方面在核心财政拨款（如 SSIF 与 [[Pupil Premium]]）中却“完全不设科学证据硬约束”，仅仅采取口头推荐而非强制要求薄弱学校采购循证方案。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 596)]]
 
 > [!critique] 跨国制度对比与政策启示
-> - **美英宏观证据治理的鲜明分野** 与美国《每一个学生成功法》（[[Every Student Succeeds Act|ESSA]]）和 i3 基金强制要求受资助学校必须采购 [[What Works Clearinghouse|WWC]] 认证的 1–3 级证据项目形成强烈反差，英国 SSIF 拨付数千万公款却允许学校自由采购缺乏实证依据的花哨商业项目。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 596)]]
+> - **美英宏观证据治理的鲜明分野** 与美国《[[Every Student Succeeds Act|每一个学生成功法]]》（[[Every Student Succeeds Act|ESSA]]）和 i3 基金强制要求受资助学校必须采购 [[What Works Clearinghouse|WWC]] 认证的 1–3 级证据项目形成强烈反差，英国 SSIF 拨付数千万公款却允许学校自由采购缺乏实证依据的花哨商业项目。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 596)]]
 > - **薄弱学校的逆向选择困境** 现实实证表明，办学表现最差、最亟需改进的薄弱学校，往往最缺乏专业甄别能力，若无国家法定证据门槛约束，其获得的公款极易被未经检验的伪科学或商业噱头项目套取，造成宝贵财政资源与学生学业时间的双重浪费。
 
 ---

@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,13 +31,14 @@ related_persons:
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 related_facts:
+  - "[[Education Resources Information Center]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
 related_theories:
   - "[[Transitology]]"
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-01
+updated: 2026-09-18
 ---
 
 # United World Colleges
@@ -69,7 +70,7 @@ UWC 的形成不是把一所学校完整复制到其他国家。早期加拿大�
 >
 > - **临时捐助**
 >
->   国际行动委员会依赖戴维·威尔斯（David Wills）、詹姆斯·惠特克（Sir James Whitaker）等人的逐项捐助，也依靠埃里克·韦斯（Sir Eric Weiss）等支持者在商务旅行中兼办扩展事务。零散现金、差旅和志愿劳动无法支持专职国际办公室。
+>   国际行动委员会依赖戴维·威尔斯（David Wills）、詹姆斯·惠特克（Sir James Whitaker）等人的逐项捐助，也依靠埃里克·韦斯（Sir [[Education Resources Information Center|ERIC]] Weiss）等支持者在商务旅行中兼办扩展事务。零散现金、差旅和志愿劳动无法支持专职国际办公室。
 >
 > - **个人筹款与大型活动**
 >

@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 48
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -55,7 +55,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Praxis]]"
 related_theories:
-  - "[[Luhmann's Systems Theory]]"
   - "[[Neo-feudalism in Higher Education]]"
   - "[[Post-structuralism]]"
   - "[[Phenomenology]]"
@@ -77,7 +76,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Pierre Bourdieu
@@ -120,7 +119,7 @@ updated: 2026-09-17
 >     - 《阿尔及利亚社会学》（*Sociologie de l'Algérie*, Minuit, 1958）：以阿尔及利亚社会、劳动与殖民断裂为对象的早期田野呈现。
 >     - 《继承人：学生与文化》（*Les Héritiers*, Minuit, 1964）：揭示教育系统偏向优势阶级[[Cultural Capital|文化资本]]的经典研究。
 >     - 《社会学家行当》（*Le Métier de sociologue*, Mouton, 1968）：系统梳理社会科学对象建构与方法原则。
->     - 《再生产：一种教育[[Luhmann's Systems Theory|系统理论]]的要素》（*La Reproduction*, Minuit, 1970）：系统论述学校通过符号暴力将等级关系合法化。
+>     - 《再生产：一种教育系统理论的要素》（*La Reproduction*, Minuit, 1970）：系统论述学校通过符号暴力将等级关系合法化。
 >   - **关键概念／方法** [[Cultural Capital|文化资本]]、[[Habitus|习性]]、符号暴力、[[Ethnography|民族志研究]]
 >   - **阶段转向** 从哲学的先验思辨彻底转向依靠经验观察的社会学，发现并确立了教育系统作为阶级结构复制工具的解释路径。
 > - **1972–1980 — 实践理论的建构** 致力于超越萨特式自由主体的[[Subjectivism|主观主义]]与列维-斯特劳斯式无主体结构的[[Objectivism|客观主义]]，提出习性与实践感概念。

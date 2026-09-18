@@ -9,9 +9,9 @@ title: "Argument_Terhart_2011_JCS"
 argument_key: "Argument_Terhart_2011_JCS"
 argument_display_title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Curriculum Studies
 citation: "Terhart, E. (2011). Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning. Journal of Curriculum Studies, 43(3), 425–438."
@@ -45,6 +45,8 @@ related_arguments:
 sources:
   - "[[sources/Terhart_2011_JCS|Terhart_2011_JCS]]"
 part_of: ''
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
@@ -93,7 +95,7 @@ citation_aliases:
 > - **[[Didaktik|教学理论]]局限** Hattie 使用 Popper 的三个世界理论"以一种相当联想和顽固的方式穿越学习理论领域"，但与德国 [[Bildung]] 概念有可关联之处——然而 Bildung 的实质面被忽略(p.430-431)。
 > - **课程内容缺失** "内容问题、学科的教学意义问题、关于合法化课程决策的问题和可能性的反思……被完全忽略"(p.431)。"肉在哪里？"。
 > - **教师作为激活者 vs 促进者** Hattie 区分教师作为激活者（d=0.60 平均）和作为促进者（d=0.17 平均），但 Terhart 指出 Hattie 所描述的专家教师特征——"将学生整合到内容导向的学习、尝试、思考和判断中"——"顺便说一句，并不是一个根本上的新洞见或发现"。
-> - **新西兰争议** Hattie 被批评与新西兰政府的密切联系、在 asTTle 评估和培训项目中的经济利益、提倡绩效薪酬以及忽视社会背景、不平等和学校结构问题(p.434-435)。[[Argument_Snook_2010_NZJES|Snook et al. (2010)]] 发表 *Invisible Learnings?* 提出系统批评。
+> - **新西兰争议** Hattie 被批评与新西兰政府的密切联系、在 [[Assessment Tools for Teaching and Learning|asTTle]] 评估和培训项目中的经济利益、提倡绩效薪酬以及忽视社会背景、不平等和学校结构问题(p.434-435)。[[Argument_Snook_2010_NZJES|Snook et al. (2010)]] 发表 *Invisible Learnings?* 提出系统批评。
 > - **教育乐观主义** 书中呈现出一种"压倒性的、旺盛的乐观主义，一种对通过好的教学实现成功学习的可达成性的深深的信念"，但"看着数据中常常相当怀疑和悲观的意涵，让读者有点困惑"。Terhart 将此描述为"以更心理学的方式建立的、对通过正确的、好的教学实现无限学习促进的信念"(p.435)。
 
 ## 关键引用
@@ -112,7 +114,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 本文是一篇书评，未提供独立的实证研究，论证基于对 Hattie 文本的批判性阅读
 > - 对 Hattie [[Didaktik|教学理论]]的批评部分基于德国 [[Bildung]]/Didaktik 传统，可能对英语读者不够直接可理解
-> - 承认 [[Visible Learning|VL]] 的广度是空前的，且许多[[Effective Teaching|有效教学]]因素已被反复验证——"几乎所有的……都是近 10 年来……教科书的标准组成部分"(p.436)
+> - 承认 VL 的广度是空前的，且许多[[Effective Teaching|有效教学]]因素已被反复验证——"几乎所有的……都是近 10 年来……教科书的标准组成部分"(p.436)
 
 ## 来源
 

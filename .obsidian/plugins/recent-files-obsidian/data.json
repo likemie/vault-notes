@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Educational Evidence Clearinghouses",
+      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
+    },
+    {
+      "basename": "Clearing House Unterricht",
+      "path": "wiki/facts/germany/Clearing House Unterricht.md"
+    },
+    {
+      "basename": "Argument_Knogler_2025_BB",
+      "path": "wiki/arguments/journal-articles/berufsbildung Zeitschrift für Theorie-Praxis-Dialog/Argument_Knogler_2025_BB.md"
+    },
+    {
+      "basename": "Zentrum für internationale Bildungsvergleichsstudien",
+      "path": "wiki/facts/germany/Zentrum für internationale Bildungsvergleichsstudien.md"
+    },
+    {
+      "basename": "No Child Left Behind Act 2001",
+      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
+    },
+    {
+      "basename": "Intelligent Tutoring Systems",
+      "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md"
+    },
+    {
+      "basename": "Qualitätsoffensive Lehrerbildung",
+      "path": "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
+    },
+    {
+      "basename": "Tina Seidel",
+      "path": "wiki/persons/germany/Tina Seidel.md"
+    },
+    {
+      "basename": "Educational Brokerage Agency",
+      "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
+    },
+    {
+      "basename": "Evidence-Informed Practice",
+      "path": "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md"
+    },
+    {
+      "basename": "Research-Practice Gap",
+      "path": "wiki/concepts/educational-policy-reform/Research-Practice Gap.md"
+    },
+    {
+      "basename": "Meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-analysis.md"
+    },
+    {
       "basename": "Argument_Rowe_2022_IJER",
       "path": "wiki/arguments/journal-articles/International Journal of Educational Research/Argument_Rowe_2022_IJER.md"
+    },
+    {
+      "basename": "BHP Foundation",
+      "path": "wiki/facts/australia/BHP Foundation.md"
+    },
+    {
+      "basename": "Gonski 2.0",
+      "path": "wiki/facts/australia/Gonski 2.0.md"
+    },
+    {
+      "basename": "National Education Evidence Base Inquiry",
+      "path": "wiki/facts/australia/National Education Evidence Base Inquiry.md"
+    },
+    {
+      "basename": "David Gonski",
+      "path": "wiki/persons/australia/David Gonski.md"
     },
     {
       "basename": "Assemblage",
@@ -33,24 +97,12 @@
       "path": "wiki/facts/australia/Social Ventures Australia.md"
     },
     {
-      "basename": "Educational Brokerage Agency",
-      "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
-    },
-    {
       "basename": "Australian Education Research Organisation",
       "path": "wiki/facts/australia/Australian Education Research Organisation.md"
     },
     {
       "basename": "Evidence for ESSA",
       "path": "wiki/facts/us/Evidence for ESSA.md"
-    },
-    {
-      "basename": "Educational Evidence Clearinghouses",
-      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
-    },
-    {
-      "basename": "No Child Left Behind Act 2001",
-      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
     },
     {
       "basename": "Argument_Metli_2022_IJER",
@@ -147,58 +199,6 @@
     {
       "basename": "Research-Engaged School",
       "path": "wiki/concepts/educational-policy-reform/Research-Engaged School.md"
-    },
-    {
-      "basename": "Ecosystem for Research-Engaged Schools",
-      "path": "wiki/theories/educational-policy-reform/Ecosystem for Research-Engaged Schools.md"
-    },
-    {
-      "basename": "Argument_Brown_Greany_2018_LPS",
-      "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
-    },
-    {
-      "basename": "Argument_Simpson_2017_JEP",
-      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEP.md"
-    },
-    {
-      "basename": "Argument_Helgetun_2022_JEP",
-      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
-    },
-    {
-      "basename": "Argument_Dedering_2009_EERJ",
-      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
-    },
-    {
-      "basename": "Argument_Møller_2017_EERJ",
-      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Møller_2017_EERJ.md"
-    },
-    {
-      "basename": "Item Response Theory",
-      "path": "wiki/theories/research-methodology/Item Response Theory.md"
-    },
-    {
-      "basename": "Hart's Ladder of Participation",
-      "path": "wiki/theories/research-methodology/Hart's Ladder of Participation.md"
-    },
-    {
-      "basename": "Potential Outcomes Framework",
-      "path": "wiki/theories/research-methodology/Potential Outcomes Framework.md"
-    },
-    {
-      "basename": "Seedhouse's Ethical Pyramid",
-      "path": "wiki/theories/research-methodology/Seedhouse's Ethical Pyramid.md"
-    },
-    {
-      "basename": "Situated Ethics",
-      "path": "wiki/theories/research-methodology/Situated Ethics.md"
-    },
-    {
-      "basename": "Ecological Systems Theory",
-      "path": "wiki/theories/educational-psychology/Ecological Systems Theory.md"
-    },
-    {
-      "basename": "CALLOUTS",
-      "path": "wiki/templates/CALLOUTS.md"
     }
   ],
   "omittedPaths": [],

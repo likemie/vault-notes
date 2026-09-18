@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 65
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -80,14 +80,13 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[National Pupil Database]]"
   - "[[Researching School Choices]]"
-related_theories:
-  - "[[Luhmann's Systems Theory]]"
+related_theories: []
 related_persons:
   - "[[Yvonna S. Lincoln]]"
   - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 # External Validity
 
@@ -269,4 +268,4 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 ## 争议与前沿
 
 > [!warning] [[Internal Validity|内部效度]]与外部效度的权衡与统一
-> 传统实验科学假定内部效度与外部效度处于零和博弈关系——消除混淆的严密控制必然削弱外部生态性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。然而在当代[[Evidence-Based Education|循证教育]]与社会干预评估中，随着[[Implementation and Process Evaluation|实施与过程评估]]（IPE）和复杂[[Luhmann's Systems Theory|系统理论]]的发展，研究者越来越强调两者不应割裂：单项研究内部因果确证必须与试验全过程的生态监测、对照组[[Business as Usual|常态教学]][[Rich and Thick Description|深描]]相结合，才能真正为宏观政策决策提供可信、可用、可推广的实践证据（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）。
+> 传统实验科学假定内部效度与外部效度处于零和博弈关系——消除混淆的严密控制必然削弱外部生态性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。然而在当代[[Evidence-Based Education|循证教育]]与社会干预评估中，随着[[Implementation and Process Evaluation|实施与过程评估]]（IPE）和复杂系统理论的发展，研究者越来越强调两者不应割裂：单项研究内部因果确证必须与试验全过程的生态监测、对照组[[Business as Usual|常态教学]][[Rich and Thick Description|深描]]相结合，才能真正为宏观政策决策提供可信、可用、可推广的实践证据（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）。

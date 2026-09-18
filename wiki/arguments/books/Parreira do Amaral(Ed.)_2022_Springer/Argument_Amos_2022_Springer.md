@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 48
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -55,7 +55,6 @@ related_theories:
   - "[[Transitology]]"
   - "[[World Society Theory]]"
   - "[[Autopoiesis]]"
-  - "[[Luhmann's Systems Theory]]"
   - "[[Transition Design]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -106,7 +105,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > - [[Transitology]] — Cowen (1996, 2000) 的转型学概念是整章的分析骨架：教育在宏观社会转型中扮演"摧毁过去、重新定义未来"的象征性和重构性角色。Amos 以此判断：从国家中心到市场中心的教育关系转变，就是当下的 transitology(pp.53–54)
 > - [[World Society Theory]] — 援引 Ramirez & Boli (1987) 对大众教育政治建构的历史分析：18 世纪欧洲民族国家如何通过教育创造 membership（成员身份）——建立忠诚与归属的纽带，同时划定"谁属于我们、谁是外人"的边界(pp.54–55)。这一分析为理解"国家中心教育"提供了历史基线
-> - [[Autopoiesis]] — Maturana & Varela 的自创生[[Luhmann's Systems Theory|系统理论]]被 Escobar 引入社会转型分析。Amos 将 autopoiesis（自我制造）与 Haraway 的 [[Sympoiesis]]（共同制造）并置对比，作为两种世界观在理论层面的映射(pp.61–63)
+> - [[Autopoiesis]] — Maturana & Varela 的自创生系统理论被 Escobar 引入社会转型分析。Amos 将 autopoiesis（自我制造）与 Haraway 的 [[Sympoiesis]]（共同制造）并置对比，作为两种世界观在理论层面的映射(pp.61–63)
 >
 
 ## 研究方法
@@ -220,7 +219,7 @@ citation_aliases:
 >
 > Escobar 援引 Irwin (2015) 的转型设计十条原则来具体化这个思路。Amos 在正文中全文引用了这十条(pp.61–62)。其核心逻辑可概括为：
 >
-> 1. **以生命[[Luhmann's Systems Theory|系统理论]]理解和应对 wicked problems**——不是将问题简化为单个[[Variable|变量]]
+> 1. **以生命系统理论理解和应对 wicked problems**——不是将问题简化为单个[[Variable|变量]]
 > 2. **设计保护与修复社会和自然生态系统的解决方案**——不可偏废一方
 > 3. **以日常生活和生活方式为设计的最根本情境**——不从抽象模型开始，从人们实际如何生活开始
 > 4. **基于地方、全球联网**——解决方案必须在特定地方扎根，但通过连接扩散

@@ -228,7 +228,7 @@ updated: 2026-09-18
 > | 清算中心 / 政策法规 | 对 QED 因果设计的描述强度 | 允许获得的最高评级待遇 | 关键限制条件与特殊要求 |
 > |:---|:---:|:---|:---|
 > | **[[What Works Clearinghouse\|WWC]] (美国联邦)** | 2 级 (明确规程) | **Meets Standards With Reservations**<br>(封顶于二等，不得作为单项一等证据) | 必须满足严苛的基线等值性要求（$\le 0.25\text{ SD}$）及整体/差异流失模型。 |
-> | **[[Every Student Succeeds Act|ESSA 2015 证据标准]] (联邦立法)** | 法定分级 | **Tier 2 (Moderate Evidence)**<br>(中等证据法定上限) | 要求具备良好的统计控制与广泛代表性，作为学区申请联邦资助的合法依据。 |
+> | **[[Every Student Succeeds Act\|ESSA 2015 证据标准]] (联邦立法)** | 法定分级 | **Tier 2 (Moderate Evidence)**<br>(中等证据法定上限) | 要求具备良好的统计控制与广泛代表性，作为学区申请联邦资助的合法依据。 |
 > | **[[Best Evidence Encyclopedia\|最佳证据百科全书（Best Evidence Encyclopedia, BEE）]]** | 1 级 ([[Meta-analysis\|元分析]]纳入) | **Moderate / Strong** (需与 [[Randomised Controlled Trials\|RCT]] 结合) | 约翰斯·霍普金斯大学（Johns Hopkins University, JHU）团队允许高质量 QED 纳入元分析；最高 Strong 证据允许“1 项大型多中心 RCT + 1 项高质量 QED”组合。 |
 > | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 3 级 (严苛规程) | **Promising** (封顶于二等) | 排除单独 QED 参评 Model / Model Plus 顶级认证；强制要求[[Evaluator Independence\|独立评估者]]报告与[[Fade-out Effect\|持续效果]]。 |
 > | **[[National Dropout Prevention Center\|国家预防辍学中心（National Dropout Prevention Center, NDPC）]]** | 1 级 (宽松包容) | **Strong Evidence** (允许 QED 获评最高级) | 准入门槛包容，仅要求存在显著正向 QED 证据且方案在学校现场实际运行满 3 年。 |

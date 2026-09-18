@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Causality]]"
   - "[[Construct]]"
+  - "[[Academic Attrition]]"
   - "[[Grade Retention]]"
   - "[[Covert Research]]"
   - "[[Research Question]]"
@@ -298,7 +299,7 @@ updated: '2026-08-27'
 > | 识别大型中学教师对高级职员领导力的主要看法 | 个人[[Construct\|构念]]；叙述；调查 |
 > | 审查政府关于学校晋升标准的政策 | [[Ideology Critique\|意识形态批判]]；女性主义批判 |
 > | 检验大学为每个学生指派导师的效果 | 调查；[[Case Study\|案例研究]]；因果研究 |
-> | 检验早期学生辍学的长期影响 | 调查；因果或[[Correlational Research\|相关研究]] |
+> | 检验早期[[Academic Attrition\|学生辍学]]的长期影响 | 调查；因果或[[Correlational Research\|相关研究]] |
 > | 检验[[Grade Retention\|留级]]是否提高学生表现 | 调查；概化；因果或相关研究 |
 > | 记录对中学班级破坏性学生进行辅导的效果 | [[Case Study\|案例研究]]；因果或相关研究 |
 > | 比较[[Questionnaire\|问卷]]与面对面访谈在收集学生药物使用数据上的效果 | 工具检验；方法论研究 |

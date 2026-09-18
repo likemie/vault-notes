@@ -10,10 +10,10 @@ aliases:
 summary: "以改善学生学业与福祉为共享愿景、依托合作探究与反思性对话深化教学实践并制度化研读转化外部证据的学校协同组织形态。"
 type: concept
 domain: "teacher-education"
-related_count: 51
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 47
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - field/teacher-education
   - field/educational-leadership-administration
@@ -24,22 +24,19 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Research Utilization]]"
-  - "[[Practical Epistemology]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Knowledge Mobilisation]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Teacher Professional Agency]]"
   - "[[Document]]"
   - "[[Growth]]"
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
-  - "[[Phronesis]]"
   - "[[Learning Gain]]"
   - "[[Teaching Assistant]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Problem Solving]]"
   - "[[Activity Traps]]"
   - "[[Heterogeneity]]"
+  - "[[Knowledge Mobilisation]]"
   - "[[Research Literacy]]"
   - "[[Paradigm]]"
   - "[[Operationalization]]"
@@ -58,10 +55,9 @@ related_arguments:
   - "[[Argument_Ginsberg_2024_EP]]"
   - "[[Argument_Torres_2022_KMModels]]"
 related_methods:
-  - "[[Meta-meta-analysis]]"
   - "[[Network Analysis]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Systematic Review]]"
-  - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"

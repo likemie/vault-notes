@@ -79,7 +79,6 @@ related_methods:
   - "[[Inverse-Variance Weighting]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[PRISMA]]"
   - "[[Fail-Safe N]]"
   - "[[Trim and Fill Method]]"
   - "[[Funnel Plot]]"
@@ -91,6 +90,7 @@ related_methods:
   - "[[Sample Size Determination]]"
 related_instruments:
   - "[[AMSTAR]]"
+  - "[[PRISMA]]"
 related_persons: []
 related_facts: []
 related_arguments: []

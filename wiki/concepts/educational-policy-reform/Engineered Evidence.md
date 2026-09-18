@@ -8,7 +8,7 @@ aliases:
 summary: "教育实证研究向实践转化的最高介入形态，指将因果证据直接封装进高结构化教学工件（如预制教案与软件规程）或法定制度要求（拨款门槛），免除一线教师自行检索解读统计证据的认知负荷"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,9 +43,8 @@ related_methods:
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Investing in Innovation Program]]"
-  - "[[ESSA 2015 Evidence Standards]]"
-  - "[[Education Endowment Foundation]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Research Learning Communities]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Engineered Evidence

@@ -3645,6 +3645,19 @@
     ]
   },
   {
+    "title": "Co-affiliation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Co-affiliation.md",
+    "aliases": [
+      "共同从属",
+      "机构多重从属性",
+      "连锁任职",
+      "多重从属性",
+      "Co-affiliations",
+      "Interlocking Directorship"
+    ]
+  },
+  {
     "title": "Conceptual, Instrumental, and Symbolic Use of Research",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Conceptual, Instrumental, and Symbolic Use of Research.md",
@@ -4503,7 +4516,9 @@
     "aliases": [
       "研究-实践鸿沟",
       "研究与实践的鸿沟",
-      "research-practice divide"
+      "research-practice divide",
+      "Transferproblem",
+      "转移困境"
     ]
   },
   {
@@ -17646,6 +17661,17 @@
     ]
   },
   {
+    "title": "Tina Seidel",
+    "type": "person",
+    "path": "wiki/persons/germany/Tina Seidel.md",
+    "aliases": [
+      "蒂娜·赛德尔",
+      "赛德尔",
+      "Seidel, T.",
+      "Tina Seidel-Schöne"
+    ]
+  },
+  {
     "title": "Ulrich Trautwein",
     "type": "person",
     "path": "wiki/persons/germany/Ulrich Trautwein.md",
@@ -18571,6 +18597,17 @@
     ]
   },
   {
+    "title": "Sir Kevan Collins",
+    "type": "person",
+    "path": "wiki/persons/uk/Sir Kevan Collins.md",
+    "aliases": [
+      "柯文·科林斯爵士",
+      "柯文·科林斯",
+      "Kevan Collins",
+      "Collins, K."
+    ]
+  },
+  {
     "title": "Stephen Ball",
     "type": "person",
     "path": "wiki/persons/uk/Stephen Ball.md",
@@ -19347,6 +19384,18 @@
     ]
   },
   {
+    "title": "Richard J. Shavelson",
+    "type": "person",
+    "path": "wiki/persons/us/Richard J. Shavelson.md",
+    "aliases": [
+      "理查德·沙维尔森",
+      "理查德·J·沙维尔森",
+      "沙维尔森",
+      "Shavelson, R. J.",
+      "Richard Shavelson"
+    ]
+  },
+  {
     "title": "Robert E. Stake",
     "type": "person",
     "path": "wiki/persons/us/Robert E. Stake.md",
@@ -19599,11 +19648,31 @@
     ]
   },
   {
+    "title": "Australian Philanthropic Services",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian Philanthropic Services.md",
+    "aliases": [
+      "澳大利亚慈善服务社",
+      "APS",
+      "Australian Philanthropic Services Limited"
+    ]
+  },
+  {
     "title": "BHP Foundation",
     "type": "fact",
     "path": "wiki/facts/australia/BHP Foundation.md",
     "aliases": [
       "必和必拓基金会"
+    ]
+  },
+  {
+    "title": "Centre for Educational Statistics and Evaluation",
+    "type": "fact",
+    "path": "wiki/facts/australia/Centre for Educational Statistics and Evaluation.md",
+    "aliases": [
+      "新南威尔士州教育统计与评估中心",
+      "新州教育统计与评估中心",
+      "CESE NSW"
     ]
   },
   {
@@ -19659,6 +19728,18 @@
     "path": "wiki/facts/australia/Australian Curriculum.md",
     "aliases": [
       "澳大利亚课程"
+    ]
+  },
+  {
+    "title": "Gonski 2.0",
+    "type": "fact",
+    "path": "wiki/facts/australia/Gonski 2.0.md",
+    "aliases": [
+      "冈斯基2.0",
+      "通过成长实现成就",
+      "Gonski Review 2.0",
+      "Through Growth to Achievement",
+      "Review to Achieve Educational Excellence in Australian Schools"
     ]
   },
   {
@@ -19731,6 +19812,17 @@
     "aliases": [
       "My School",
       "我的学校网站"
+    ]
+  },
+  {
+    "title": "National Education Evidence Base Inquiry",
+    "type": "fact",
+    "path": "wiki/facts/australia/National Education Evidence Base Inquiry.md",
+    "aliases": [
+      "国家教育证据基础审查",
+      "生产力委员会国家教育证据基础审查",
+      "Inquiry into the National Education Evidence Base",
+      "National Education Evidence Base Report"
     ]
   },
   {
@@ -20679,6 +20771,27 @@
     ]
   },
   {
+    "title": "Clearing House Unterricht",
+    "type": "fact",
+    "path": "wiki/facts/germany/Clearing House Unterricht.md",
+    "aliases": [
+      "德国教学研究清算中心",
+      "慕尼黑工业大学教学清算中心",
+      "CHU"
+    ]
+  },
+  {
+    "title": "Federal Ministry of Education and Research",
+    "type": "fact",
+    "path": "wiki/facts/germany/Federal Ministry of Education and Research.md",
+    "aliases": [
+      "德国联邦教育与研究部",
+      "德国联邦教育及研究部",
+      "BMBF",
+      "Bundesministerium für Bildung und Forschung"
+    ]
+  },
+  {
     "title": "Institute for Educational Monitoring and Quality Improvement",
     "type": "fact",
     "path": "wiki/facts/germany/Institute for Educational Monitoring and Quality Improvement.md",
@@ -20698,6 +20811,16 @@
       "州文化部长会议",
       "Kultusministerkonferenz",
       "KMK"
+    ]
+  },
+  {
+    "title": "Zentrum für internationale Bildungsvergleichsstudien",
+    "type": "fact",
+    "path": "wiki/facts/germany/Zentrum für internationale Bildungsvergleichsstudien.md",
+    "aliases": [
+      "德国国际教育比较研究中心",
+      "ZIB",
+      "Centre for International Student Assessment"
     ]
   },
   {
@@ -20781,6 +20904,16 @@
       "德国高等教育能力建模与测量计划",
       "德国能力建模与测量计划",
       "Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor"
+    ]
+  },
+  {
+    "title": "Qualitätsoffensive Lehrerbildung",
+    "type": "fact",
+    "path": "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md",
+    "aliases": [
+      "教师教育质量攻坚计划",
+      "QLB",
+      "Quality Campaign for Teacher Education"
     ]
   },
   {
@@ -21276,6 +21409,16 @@
       "国际早期学习和儿童福祉研究",
       "国际早期学习与儿童福祉研究",
       "幼儿版国际学生评估项目"
+    ]
+  },
+  {
+    "title": "Building a Global Evidence Ecosystem for Teaching",
+    "type": "fact",
+    "path": "wiki/facts/global/Building a Global Evidence Ecosystem for Teaching.md",
+    "aliases": [
+      "构建全球教学证据生态系统",
+      "Global Evidence Ecosystem for Teaching",
+      "EEF-BHP Global Evidence Ecosystem"
     ]
   },
   {
@@ -25446,6 +25589,11 @@
     "title": "Argument_OConnor_2020_AJLL",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md"
+  },
+  {
+    "title": "Argument_Knogler_2025_BB",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/berufsbildung Zeitschrift für Theorie-Praxis-Dialog/Argument_Knogler_2025_BB.md"
   },
   {
     "title": "Argument_Hartong_Forschler_2019_BDS",

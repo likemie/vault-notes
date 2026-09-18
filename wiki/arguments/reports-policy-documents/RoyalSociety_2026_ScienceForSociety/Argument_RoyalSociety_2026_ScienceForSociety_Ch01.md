@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -78,6 +78,7 @@ related_facts:
   - "[[RAiSE Programme]]"
   - "[[CREST Awards]]"
   - "[[Institute for Research in Schools]]"
+  - "[[Teacher Choices]]"
   - "[[Estonian STEM Education Model]]"
   - "[[Science Learning Centres Network]]"
   - "[[Gatsby Benchmarks]]"
@@ -270,7 +271,7 @@ updated: 2026-09-04
 > [!warrant]- 师资短缺现状与专业赋权机制
 > - **43% 教师报告师资短缺损害学业** 2024 年科学教学调查显示，英格兰近半数科学教师明确指出专业对口师资匮乏已对学生学习成果造成直接损害。（p. 35）
 > - **非专业对口授课与地域不均** 物理、计算机等学科大量由非本专业背景教师兼任，在低社会经济地位地区学校尤为严重，加剧了教育阶层不平等。
-> - **专业自主权（Professional Agency）是留任关键** 机械的自上而下考评与微观规制严重打击教师积极性；在宽广课程框架下赋予教师选择教学法与[[Design-Based Research|设计实验]]的自主权，能显著提升职业吸引力与留任率。（p. 36）
+> - **专业自主权（Professional Agency）是留任关键** 机械的自上而下考评与微观规制严重打击教师积极性；在宽广课程框架下赋予[[Teacher Choices|教师选择]]教学法与[[Design-Based Research|设计实验]]的自主权，能显著提升职业吸引力与留任率。（p. 36）
 
 > [!case] 案例研究：爱沙尼亚 STEM 教育重构经验（Re-engineering [[STEM Education]] in Estonia）
 > - **案例背景与国际标杆地位** 详见 [[Estonian STEM Education Model|爱沙尼亚科学教育模式]]：爱沙尼亚在多次经合组织（OECD）[[PISA]] 国际测评中常年位居全欧洲科学与数学素养榜首；尤为关键的是，在所有 OECD 成员国中，爱沙尼亚家庭社会经济背景对学生[[Academic Achievement|学业成就]]的不利影响程度为全欧最低，成功实现了卓越学术质量与高度教育公平的统一。（p. 31）

@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_IRTP"
 argument_key: "Argument_Nielsen_2021_IRTP"
 argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Accounts]]"
 related_persons: []
 related_facts:
+  - "[[Research in Schools Evaluation]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
@@ -73,18 +74,18 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 以 **Habermas (1976) 的合法化危机理论（Legitimation Crisis）** 为核心[[Analytic Framework|分析框架]]，配合 **Schön (1983, 1987) 的[[Technical Rationality|技术理性]]（Technical Rationality）** 概念。将 Hattie 的工作定位为对现代学校教育**合法化危机**的回应——[[Visible Learning|VL]] 不是因其科学质量而被接受，而是因其提供了教育系统亟需的合法化功能。
+> 以 **Habermas (1976) 的合法化危机理论（Legitimation Crisis）** 为核心[[Analytic Framework|分析框架]]，配合 **Schön (1983, 1987) 的[[Technical Rationality|技术理性]]（Technical Rationality）** 概念。将 Hattie 的工作定位为对现代学校教育**合法化危机**的回应——VL 不是因其科学质量而被接受，而是因其提供了教育系统亟需的合法化功能。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：理论分析（theoretical analysis）与概念批判
-> - 策略：运用 Habermas 的系统/生活世界（system/lifeworld）二元框架和合法化危机概念，解释 [[Visible Learning|VL]] 的流行现象；结合对 VL 方法论问题的已有[[Literature Review|文献综述]]
+> - 策略：运用 Habermas 的系统/生活世界（system/lifeworld）二元框架和合法化危机概念，解释 VL 的流行现象；结合对 VL 方法论问题的已有[[Literature Review|文献综述]]
 
 ## 核心论证
 
 > [!example] 核心论证
-> ### 1. [[Visible Learning|VL]] 的流行无法用经验质量解释
+> ### 1. VL 的流行无法用经验质量解释
 >
 > 作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; Terhart, 2012; [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]])一致记录了 VL 的重大方法论缺陷(pp. 80-81, Table 1)：
 >
@@ -108,7 +109,7 @@ citation_aliases:
 > 作者论证 Hattie 深受 Schön (1983, 1987) 所描述的**技术理性（Technical Rationality）**影响(p. 81-82)：
 >
 > > “技术理性是[[Positivism|实证主义]]的遗产，这一强大的哲学学说在十九世纪[[Growth|成长]]起来，既作为对科学技术崛起的解释，也作为一场旨在将科学技术的成就应用于人类福祉的社会运动。”
-> ("Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts|account]] of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind.") (Schön, 1983, p. 31)
+> ("Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts|account]] of the [[Research in Schools Evaluation|RISE]] of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind.") (Schön, 1983, p. 31)
 >
 > 技术理性铺平了教育中的手段-目的思维（means-ends thinking）——问题被理解为脱离情境的独立实体，可以通过查阅和应用基础科学知识来解决(p. 82)。
 >
@@ -138,7 +139,7 @@ citation_aliases:
 > - **学习目标不容讨论** Hattie 的理论是一个**封闭系统**——"the learning objective sanctifies the means of teaching"(p. 88-89)。教育问题被理解为技术性目标-手段理性范畴内的问题，其他类型的问题被认为无关
 > - **反馈取代[[Dialogue in Education|对话]]** 人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
 >
-> > “在 Hattie 的可见的学习理论中，教师必须利用反馈（向后反馈、向上反馈和向前反馈），创造一个环境，在其中学生……将学生的活动引向已经制定好的学习目标。这是一个封闭的系统，其中学习目标使教学手段变得神圣化。”
+> > “在 Hattie 的[[Visible Learning|可见的学习]]理论中，教师必须利用反馈（向后反馈、向上反馈和向前反馈），创造一个环境，在其中学生……将学生的活动引向已经制定好的学习目标。这是一个封闭的系统，其中学习目标使教学手段变得神圣化。”
 > ("In Hattie's theory of [[Visible Learning]], the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students... direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching.")
 >
 > > “因此，Hattie 的学习理论具有‘使技术的学习途径变得[[Doxa|不言自明]]且占据主导地位的意识形态功能’。”
@@ -147,7 +148,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - **[[Visible Learning|VL]] 的流行是合法化危机的症状，而非教育科学进步的标志**(pp. 86-88)
+> - **VL 的流行是合法化危机的症状，而非教育科学进步的标志**(pp. 86-88)
 > - **Hattie 的理论（[[Technical Rationality|技术理性]]）而非数据驱动了 VL 的影响力**——政策制定者需要的是一个可用来向公众证明教育系统在"有效运作"的理论框架(p. 87)
 > - **VL 的技术理性框架系统性边缘化了学生和教师的意向性与意义寻求** 学生被原子化为[[Variable|变量]]，学习目标不容讨论(pp. 88-89)
 > - **改进教学的出发点不应该是"什么方法有效"，而应该是"学生为什么参与学校实践"(p. 89)**
@@ -170,7 +171,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文为理论分析而非实证研究——其对 Hattie 流行原因的解释（合法化危机）是对 [[Visible Learning|VL]] 方法论批评的补充而非替代
+> - 论文为理论分析而非实证研究——其对 Hattie 流行原因的解释（合法化危机）是对 VL 方法论批评的补充而非替代
 > - 论文将 VL 的全球流行与丹麦的具体经验（2014 年义务教育改革）紧密关联——丹麦的情境特殊性可能限制分析的跨情境推广
 > - 对"如何替代[[Technical Rationality|技术理性]]"的正面建议仅停留在方向性层面（"从研究学生为什么参与学校实践开始"），缺乏具体的替代框架
 

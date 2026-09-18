@@ -63,7 +63,6 @@ related_theories:
 related_methods:
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
-  - "[[PRISMA]]"
   - "[[Critical Review]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -71,7 +70,8 @@ related_methods:
   - "[[Observation Method]]"
   - "[[Accounts]]"
   - "[[Action Research]]"
-related_instruments: []
+related_instruments:
+  - "[[PRISMA]]"
 related_persons: []
 related_facts: []
 related_arguments: []

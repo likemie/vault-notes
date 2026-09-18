@@ -16,9 +16,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 30
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
 tags:
   - ines
@@ -33,11 +33,13 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
+  - "[[Data Infrastructure]]"
   - "[[Heterogeneity]]"
   - "[[New Public Management]]"
   - "[[Disciplina and Doctrina]]"
   - "[[School Autonomy]]"
   - "[[Science and Technology Studies]]"
+  - "[[Commensuration]]"
   - "[[Performativity]]"
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # International Indicators of Education Systems
@@ -114,7 +116,7 @@ updated: 2026-09-17
 > - **1973–1987 — 前期孕育与概念试错期** 1973 年 [[OECD]] 发布《指导公共政策决策的[[Performance Indicators|教育指标]]体系》，但因理论模型过于繁复（内外生[[Variable|变量]]无法分解）且缺乏可用数据而完全流产；1983 年美国《国家处在危险之中》重燃指标狂热；1987 年华盛顿跨国专家会议正式达成共识，宣布“国际基准比较已成为提升教育质量的不可或缺要素”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8, 10)]]
 > - **1988–1991 — INES 创立与大会建制探索期** 1988 年 INES 正式启动。1989 年奥地利塞默灵（Semmering）第一届全体大会编制出 160 项初始指标，因不可管理被大幅删减；1991 年瑞士卢加诺（Lugano）第二届全体大会经过白热化博弈，将指标压缩至约 50 项“理想指标”，并在此遭遇历史性分水岭——政治决策者强力击败学术统计学家的保留意见，强行决定将“学生[[Academic Achievement|学业成绩]]”纳入核心指标体系。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 11–12)]]
 > - **1992–1999 — 《[[Education at a Glance|教育概览]]》常态化与产出导向奠基期** 1992 年首版《教育概览》正式出炉；1995 年芬兰拉赫蒂（Lahti）召开第三届全体大会；INES 逐步从学术探索转向例行公事化的高阶政策供给，并直接催生了 1990 年代末启动策划的[[PISA|国际学生评估项目]]（[[PISA]]）。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 14, 17)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **2000 至今 — 政府间行政程序化与测评帝国整合** 2000 年日本东京第四届全体大会名存实亡，沦为严苛限制代表名额的纯政府间磋商，一线指标研发科学家被彻底排斥在外；INES 机制全面融入 OECD 教育与技能司的常态化行政流水线，成为支撑 PISA 与[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）等跨国巨型测试的底层数据基础设施。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 17)]]
+> - **2000 至今 — 政府间行政程序化与测评帝国整合** 2000 年日本东京第四届全体大会名存实亡，沦为严苛限制代表名额的纯政府间磋商，一线指标研发科学家被彻底排斥在外；INES 机制全面融入 OECD 教育与技能司的常态化行政流水线，成为支撑 PISA 与[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）等跨国巨型测试的底层[[Data Infrastructure|数据基础设施]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 17)]]
 
 ---
 
@@ -146,7 +148,7 @@ updated: 2026-09-17
 > - **产出与结果指标（Outputs & Outcomes）** 中学与高等教育完成率、青年劳动力就业溢价、跨国标准化认知测试得分。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 9)]]
 
 > [!finding-cards] 核心实证结论
-> - **跨国“可计算世界”的生产** 科学与技术研究（[[Science and Technology Studies]]，STS）视角证实：INES 指标并非被动“记录”客观现实，而是高度建构性的制度技术；它通过强行抹平各国内部文化脉络，生产出一个可横向通约的全球教育治理空间。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 6–7)]]
+> - **跨国“可计算世界”的生产** 科学与技术研究（[[Science and Technology Studies]]，STS）视角证实：INES 指标并非被动“记录”客观现实，而是高度建构性的制度技术；它通过强行抹平各国内部文化脉络，生产出一个可横向[[Commensuration|通约]]的全球教育治理空间。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 6–7)]]
 > - **指标的施为性（[[Performativity]]）** 统计指标一旦确立，便自发产生强大的[[Reflexivity|反身性]]反馈：各国政府为避免在《[[Education at a Glance|教育概览]]》中垫底，主动调整国内课程政策与统计口径，展现出强大的指标定型力。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 16–18)]]
 > - **比较转向的历史里程碑** INES 终结了冷战初期单纯依赖粗放人力预测的规划时代，正式确立了全球教育治理的“比较转向”（Comparative Turn），将跨国数据确立为裁决国内教育成败的“准外部客观权威”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 

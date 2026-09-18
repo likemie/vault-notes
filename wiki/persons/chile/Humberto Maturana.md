@@ -7,10 +7,10 @@ summary: "智利生物学家和哲学家，自创生理论共同创立者与知�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1928"
 died: "2021"
 lifespan: "1928–2021"
@@ -28,13 +28,15 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Francisco Varela]]"
-related_facts: []
+related_facts:
+  - "[[Research in Schools Evaluation]]"
+  - "[[ROOTS]]"
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 ## 简介
 
@@ -49,7 +51,7 @@ updated: 2026-09-11
 
 **[[Autopoiesis]]（自创生）** 与 [[Francisco Varela]] 在 *The Tree of Knowledge* (1987) 中共同提出：生命系统通过自我指涉和自我生产持续维持自身。这一理论的核心主张——生命是"自组织的"——后被 Escobar 延伸至社会转型领域：社会变革在多重地方行动的非计划交互中[[Emergence|涌现]]，不需要中央计划或智能引导（Escobar, 2018, p.152；Amos, 2022, p.61）。
 
-> "Emergence, […] takes place on the basis of a [[Multiplicity]] of local actions that, through their (largely unplanned) interaction, give rise to what appears to an observer to be a new structure of integrated whole […] without the need for any central planning or intelligence guiding the process."（Escobar, 2018, p.152；Amos, 2022, p.61）
+> "Emergence, […] takes place on the basis of a [[Multiplicity]] of local actions that, through their (largely unplanned) interaction, give [[Research in Schools Evaluation|RISE]] to what appears to an observer to be a new structure of integrated whole […] without the need for any central planning or intelligence guiding the process."（Escobar, 2018, p.152；Amos, 2022, p.61）
 
 ---
 
@@ -57,7 +59,7 @@ updated: 2026-09-11
 
 > [!abstract]
 
-- Maturana, H. R., & [[Francisco Varela|Varela, F.]] J. (1987). *The tree of knowledge: The biological roots of human understanding*. Shambhala. — 与 Varela 共同提出[[Autopoiesis|自创生]]理论，从生物学延伸到人类理解
+- Maturana, H. R., & [[Francisco Varela|Varela, F.]] J. (1987). *The tree of knowledge: The biological [[ROOTS]] of human understanding*. Shambhala. — 与 Varela 共同提出[[Autopoiesis|自创生]]理论，从生物学延伸到人类理解
 
 ---
 

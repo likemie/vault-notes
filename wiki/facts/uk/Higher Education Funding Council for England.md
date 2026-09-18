@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: "Higher Education Funding Council for England"
 tags:
@@ -30,6 +30,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Higher Education Act of 1965]]"
   - "[[Research Excellence Framework]]"
   - "[[TESTA Project]]"
 related_arguments:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-18
 ---
 
 # Higher Education Funding Council for England
@@ -47,7 +48,7 @@ updated: 2026-08-27
 ## 背景
 
 > [!event-context] 机构创立与法律地位
-> - **成立时间 / 法律依据** 依据英国《1992年[[Further Education|继续教育]]与高等教育法案》（Further and Higher Education Act 1992）正式设立。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
+> - **成立时间 / 法律依据** 依据英国《1992年[[Further Education|继续教育]]与[[Higher Education Act of 1965|高等教育法]]案》（Further and Higher Education Act 1992）正式设立。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
 > - **机构性质** 英国政府商务、创新与技能部（BIS）下属的非部委公共机构（NDPB，即“臂弯机构”/ Arm's-Length Body）。
 > - **历史演进** 2018 年英国《高等教育与研究法案》（HERA 2017）实施后，其教学规约职能转由学生事务办公室（Office for Students, OfS）承接，科研职能转归英格兰研究局（Research England）。
 > - **核心使命** 负责英格兰所有公立大学的教学与科研财政拨款，维护学术质量、促进教育公平与推动大学体制创新。

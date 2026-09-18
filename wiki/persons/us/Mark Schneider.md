@@ -7,7 +7,7 @@ summary: "美国政治学者与教育科研管理专家，曾任美国教育科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Implementation Fidelity]]"
   - "[[School Choice]]"
+  - "[[Academic Attrition]]"
   - "[[Return on Investment]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence Standards]]"
@@ -53,7 +54,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Mark Schneider
@@ -92,7 +93,7 @@ updated: 2026-09-17
 >   - **代表著作** *Choosing Schools: Consumer Choice and the Quality of American Schools* (2000)。
 >   - **关键概念／方法** [[School Choice]]、家长偏好测量、准实验因果识别。
 >   - **阶段转向** 从传统地方政府政治学分析，转向将家长行为、学校选择与社区资本挂钩的实证教育政策研究。
-> - **2005–2018 — 国家教育统计治理与高等教育绩效透明化** 回应全美教育数据碎片化、高等教育文凭性价比不透明以及学生辍学率高企等政策两难。
+> - **2005–2018 — 国家教育统计治理与高等教育绩效透明化** 回应全美教育数据碎片化、高等教育文凭性价比不透明以及[[Academic Attrition|学生辍学]]率高企等政策两难。
 >   - **代表著作** *Getting to Graduation: The Completing College Challenge* (2012)、*The University Next Door: What Is a College For, and Who Decides?* (2014)。
 >   - **关键概念／方法** 纵向队列追踪、教育收益率核算、大学绩效评估。
 >   - **阶段转向** 从微观家长择校行为拓展为国家级教育统计指标设计与高等教育公共[[Return on Investment|投资回报]]透明化治理。

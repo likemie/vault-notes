@@ -9,7 +9,7 @@ aliases:
 summary: "研究者与实践者审视自身角色、背景、偏见与隐性假设如何塑造研究与行动全过程的认识论机制，从现象学哲学根基延伸至行动研究、教育探究反思性（防范活动陷阱）及人机协同分析中的人在回路主体责任。"
 type: concept
 domain: "research-methodology"
-related_count: 65
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,16 +20,15 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Research Question]]"
-  - "[[Metacognition]]"
   - "[[Hypothesis]]"
   - "[[Interpretive Validity]]"
-  - "[[Evidence-Based Education]]"
   - "[[Research Utilization]]"
   - "[[Positivism]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Activity Traps]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Champ]]"
+  - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Objectivism]]"
   - "[[Knowledge Production]]"
@@ -60,8 +59,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Action Research]]"
   - "[[Memos]]"
-  - "[[Qualitative Observation]]"
-  - "[[Meta-analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Emancipatory Action Research]]"
   - "[[Coding in Qualitative Research]]"
@@ -113,8 +110,8 @@ updated: 2026-09-18
 >
 > *He or she [the researcher] is the research instrument par excellence. The fact that behaviour and attitudes are often not stable across contexts and that the researcher may play a part in shaping the context becomes central to the analysis... The theories we develop to explain the behaviour of the people we study should also, where relevant, be applied to our own activities as researchers. (Hammersley & Atkinson, 1983, pp. 18–19)*
 
-> [!citation-card] Rickinson et al. 论反思性文化与证据使用
-> 高质量研究证据使用要求教育者保持批判性反思与探究好奇心，并在组织内营建倡导日常反思、宽容试验风险并具备心理安全感的研究文化。唯有在反思性组织文化的支撑下，实践者才能持续质疑行动背后的底层假设与习惯做法，使证据真正契合复杂的实践情境。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 142–144)]]
+> [!citation-card] Rickinson et al. 论反思性文化与[[Research Utilization|证据使用]]
+> 高质量研究证据使用要求教育者保持批判性反思与探究好奇心，并在组织内营建倡导日常反思、宽容试验风险并具备心理安全感的研究文化。唯有在反思性[[Organizational Culture|组织文化]]的支撑下，实践者才能持续质疑行动背后的底层假设与习惯做法，使证据真正契合复杂的实践情境。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 142–144)]]
 >
 > *Quality use requires an inquiring mindset and a reflective organisational culture that encourages critical reflection, tolerates risk, and provides psychological safety.*
 

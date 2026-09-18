@@ -9,7 +9,7 @@ summary: "美国社会学家，加州大学圣地亚哥分校荣休教授，存�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
+  - "[[Commensuration]]"
   - "[[Indexicality]]"
   - "[[Determinism]]"
   - "[[Rich and Thick Description]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Jack Douglas
@@ -98,7 +99,7 @@ updated: 2026-09-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 社会学探究历史上存在两大不可通约的基础[[Paradigm|范式]]：[[Normative Paradigm|规范范式]]（Normative Paradigm）假定人类行为完全由外在既定的、非人化的客观社会规则所支配，追求如同物理力学般的宏大理性大厦与普适规律；[[Interpretive Paradigm|诠释范式]]（Interpretive Paradigm）则断定社会实在由行动者在具体流动情境中动态建构，人类行动源自自主赋予的未来意图与情境协商，规则本身仅仅是行动者事后用以解释合理性的[[Indexicality|索引性]]修辞。研究者必须放弃将社会视为机械[[Determinism|决定论]]客体的幻想，转向对生动微观日常生活的[[Rich and Thick Description|深描]]。
+> 社会学探究历史上存在两大不可[[Commensuration|通约]]的基础[[Paradigm|范式]]：[[Normative Paradigm|规范范式]]（Normative Paradigm）假定人类行为完全由外在既定的、非人化的客观社会规则所支配，追求如同物理力学般的宏大理性大厦与普适规律；[[Interpretive Paradigm|诠释范式]]（Interpretive Paradigm）则断定社会实在由行动者在具体流动情境中动态建构，人类行动源自自主赋予的未来意图与情境协商，规则本身仅仅是行动者事后用以解释合理性的[[Indexicality|索引性]]修辞。研究者必须放弃将社会视为机械[[Determinism|决定论]]客体的幻想，转向对生动微观日常生活的[[Rich and Thick Description|深描]]。
 
 > [!citation-card] 道格拉斯论规范范式与诠释范式的本质分野
 > 道格拉斯指出，规范范式假定人类行为是受规则统治的，并且在很大程度上能够被规则所预测；[[Positivism|实证主义]]、行为主义与结构功能主义均在此范式下构建宏大的普适因果大厦。相反，诠释范式认为人类行动不仅不可预测，而且是由行动者在具体情境中[[Reflexivity|反思性]]协商、意图驱动与动态赋予意义的产物。在诠释进路中，理论不是先验推导的模型，而是贴近日常生活的[[Grounded Theory|扎根理论]]与多面图像。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]

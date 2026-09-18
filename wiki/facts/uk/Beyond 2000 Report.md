@@ -9,9 +9,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Nuffield Foundation and Wellcome Trust
 tags:
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Science Journalism]]"
   - "[[Homework]]"
+  - "[[Construct]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-03
+updated: 2026-09-18
 ---
 
 # Beyond 2000 Report
@@ -85,4 +86,4 @@ updated: 2026-09-03
 > |:-----|:-----|:-----|
 > | [[Scientific Literacy]] | 概念 | 报告的核心论证对象与重构概念。 |
 > | [[Twenty First Century Science]] | 政策 | 依据本报告原则开发的英格兰中学课程项目。 |
-> | [[PISA]] | 事实 | 本报告为 PISA 科学素养测评构念提供了直接理论支撑。 |
+> | [[PISA]] | 事实 | 本报告为 PISA 科学素养测评[[Construct\|构念]]提供了直接理论支撑。 |

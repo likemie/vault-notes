@@ -7,7 +7,7 @@ summary: "阿根廷圣安德烈斯大学教育学者，研究教育话语的跨�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
 related_theories:
   - "[[Actor-Network Theory]]"
   - "[[Network Society]]"
+  - "[[Educational Governance Framework]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 # Jason Beech
 
@@ -80,6 +81,6 @@ updated: 2026-09-11
 > - Beech, J. (2009). Policy spaces, mobile discourses, and the definition of [[Educated Identity|educated identities]]. *Comparative Education*, 45(3), 347–364.
 > - Beech, J. (2011). *Global Panaceas, Local Realities: International Agencies and the Future of Education*. Peter Lang.
 > - Beech, J., & [[Alejandro Artopoulos|Artopoulos, A.]] (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. *Globalisation, Societies and Education*, 14(1), 1–18.
-> - Beech, J., & Barrenechea, I. (2011). Pro-market educational governance: Is Argentina a black swan? *Critical Studies in Education*, 52(3), 279–293.
+> - Beech, J., & Barrenechea, I. (2011). Pro-market [[Educational Governance Framework|Educational Governance]]: Is Argentina a black swan? *Critical Studies in Education*, 52(3), 279–293.
 
 ---

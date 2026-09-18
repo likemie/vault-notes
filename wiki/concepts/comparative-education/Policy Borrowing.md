@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Externalization]]"
+  - "[[Policy Mobility]]"
   - "[[Policy Entrepreneur]]"
   - "[[Value Neutrality]]"
   - "[[Educational Meliorism]]"
@@ -93,7 +94,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Policy Borrowing
@@ -107,7 +108,7 @@ updated: 2026-09-17
 > [!def] 核心定义
 > **政策借用（Policy Borrowing）** 指主权国家或地区在教育政策制定与体制重构中有选择地参照外部教育模式、实践与论述的复杂过程。与其[[Hypothesis|假设]]“最佳实践”从中立技术角度直接跨国移植不同，政策借用框架指出决策者往往是**先有国内改革议程或治理危机，再借用外部话语与制度实绩来合法化该议程**。在 19 世纪现代主义发端期，政策借用表现为以救治母国危机为导向的官方行政直接移植（如库森主笔 1833 年基佐法案）与政治正当性辩护（如[[Horace Mann|霍勒斯·曼]]开创的合法化借用）；而在当代全球化语境下，它进一步演进为政策行动者操纵高声望国际话语以推进国内争议议程的“[[Externalization|外化]]”修辞策略。[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 24–34)]]
 
-该概念为解构跨国政策流动背后的政治权力博弈提供了核心透镜：
+该概念为解构跨国[[Policy Mobility|政策流动]]背后的政治权力博弈提供了核心透镜：
 
 > [!concept-lens] 概念透镜
 > - **含义** 政策借用指向的是在外部教育模式被引入本地语境时，决策者、[[Policy Entrepreneur|政策企业家]]与公众之间围绕政策的“[[Externalization|外化]]”合法化论证、制度技术转置与“形态变异”重构关系。
@@ -159,7 +160,7 @@ updated: 2026-09-17
 > |---|---|---|---|---|
 > | **分析对象** | 本地决策者的主动修辞与政治合法化过程 | 全球教育规范的扩散与长期标准化趋同 | 中立的“最佳[[Praxis\|实践]]”跨国移植与文本搬运 | 宏观历史与社会系统的转型结构与条件 |
 > | **核心机制** | 选择性借用、**[[Externalization\|外化]]**、合法化功能与**形态变异** | 规范的内化、仪式性模仿与世界文化扩散 | 技术性引进、跨国复制与直接政策落地 | 转型过程中的结构性翻转（Polis 到 Market） |
-> | **适用边界** | 仅适用于决策需要国内合法化协商的半开放语境 | 侧重长期宏观趋同，低估短期地方能动性 | 预设理性决策，忽视了政策流动的政治操纵性 | 侧重宏观社会历史改革，非微观政策过程 |
+> | **适用边界** | 仅适用于决策需要国内合法化协商的半开放语境 | 侧重长期宏观趋同，低估短期地方能动性 | 预设理性决策，忽视了[[Policy Mobility\|政策流动]]的政治操纵性 | 侧重宏观社会历史改革，非微观政策过程 |
 
 ---
 
@@ -169,7 +170,7 @@ updated: 2026-09-17
 > - **[[Externalization|外化]]（Externalization）** 决策者将内部改革需求投射到“国际趋势”或“传统”参照系中，使国内反对者难以抗拒。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230]])
 > - **合法化功能（Legitimation）** 借用具有高国际声望的教育话语为争议性国内决定提供正当性护航。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]])
 > - **方案先行、问题后建** 决策者往往在引入国际参照前已确定改革方案，随后才建构与之匹配的“体系陈旧”问题。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])
-> - **四阶段循环模型** 政策流动的完整生命周期，涵盖[[Cross-National Attraction|跨国吸引力]]、决策、实施到内化／[[Going Native|本土化]]。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 225]])
+> - **四阶段循环模型** [[Policy Mobility|政策流动]]的完整生命周期，涵盖[[Cross-National Attraction|跨国吸引力]]、决策、实施到内化／[[Going Native|本土化]]。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 225]])
 > - **形态变异（Morphing）** 借用的教育政策元素在进入本地语境后，发生实质性的形态翻译与功能[[Transfer Translation Transformation|转译]]。([[Argument_Cowen_2009_CE|Cowen, 2009b, pp. 319–320]])
 > - **吸引力火花（Attraction Sparks）** 政策辩论中使用外国范例的四种动机：丑闻化、合法化、警示与颂扬。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
 
@@ -280,7 +281,7 @@ updated: 2026-09-17
 > **[[Autopoiesis|自创生]]系统的自我参照** 教育系统作为一个“自创生”（Autopoietic）的闭环，不是被动的、刺激-反应的线性移入体系。任何被借用的国际参考或外部话语，都只是一个触发源，系统只以自身既有的运作逻辑对外部进行“自我参照的反射”，并由本土网络在本土语境下重新折射和构型。([[Argument_Rappleye_2006_RCIE|Schriewer, 2003, 引自 Rappleye, 2006, pp. 228–229]])
 
 > [!claim] Klerides, E.
-> **[[Re-Westernisation|再西方化]]认识型与他者化歧视** 跨国教育政策流动并非自愿的中立传播，而是西方中心主义知识对非西方社会的强加与“再西方化”（re-Westernisation）认识型的扩张。多边组织以发展援助或普遍标准（如 PISA）的形式，迫使非西方边缘国家去情境化地“追赶”西方模式以维系“中心-边缘”的认知和支配关系；在此过程中，即使非西方社会在量化评估中取得优异成绩，西方话语仍会诉诸“[[Orientalism|东方主义]]”（Orientalism）将其矮化或在借鉴中选择性地剪裁其内核，从而在再生产学科霸权的同时延续新殖民主义的心智奴役。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 427–428]])
+> **[[Re-Westernisation|再西方化]]认识型与他者化歧视** 跨国教育[[Policy Mobility|政策流动]]并非自愿的中立传播，而是西方中心主义知识对非西方社会的强加与“再西方化”（re-Westernisation）认识型的扩张。多边组织以发展援助或普遍标准（如 PISA）的形式，迫使非西方边缘国家去情境化地“追赶”西方模式以维系“中心-边缘”的认知和支配关系；在此过程中，即使非西方社会在量化评估中取得优异成绩，西方话语仍会诉诸“[[Orientalism|东方主义]]”（Orientalism）将其矮化或在借鉴中选择性地剪裁其内核，从而在再生产学科霸权的同时延续新殖民主义的心智奴役。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 427–428]])
 
 ---
 
@@ -356,6 +357,6 @@ updated: 2026-09-17
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 综述 [[PISA]] 国际排名如何将东亚与芬兰等确立为全球“[[Reference Society|参考社会]]”，剖析韩国政策借用从日本模式向芬兰模式动态切换的制度化历程。
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 批判传统政策借用局限于国家官方书面文本的静态[[Hypothesis|假设]]，从[[Network Governance|网络治理]]视角揭示去中心化非官方网络中话语权力的微观流转与转译机制。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 剖析[[Michael Sadler|迈克尔·萨德勒]]和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性社会系统翻转从偶发外交变成常规合法化手段。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将国际关系三大思想传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）引入政策流动研究，系统解构政策借用背后的地缘政治与生存焦虑底色。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将国际关系三大思想传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）引入[[Policy Mobility|政策流动]]研究，系统解构政策借用背后的地缘政治与生存焦虑底色。
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 剖析英格兰在 PISA 2012 发布后借用东亚（上海）与 [[OECD]] 话语推行教师[[Performance Pay|绩效工资]]等五大争议政策的过程，揭示“遗漏话语”与媒体“[[Policy Avoidance|政策规避]]”构成的媒介化政策借用合法化新机制。
 

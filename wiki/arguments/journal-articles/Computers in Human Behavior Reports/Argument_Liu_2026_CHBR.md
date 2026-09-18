@@ -76,7 +76,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
-  - "[[PRISMA]]"
   - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
@@ -97,6 +96,7 @@ related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
   - "[[Computational Thinking Scale]]"
+  - "[[PRISMA]]"
 status: draft
 tags:
   - level/k-12

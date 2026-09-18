@@ -8,7 +8,7 @@ aliases:
 summary: "主张智力是创造力的必要非充分条件，在智商低于临界阈值（约120）时两者呈正相关，超过阈值后智力与创造力脱钩或关联显著减弱。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Academic Achievement]]"
   - "[[Self-Efficacy]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
 related_theories: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-14
+updated: 2026-09-18
 ---
 
 # Threshold Hypothesis
@@ -137,7 +138,7 @@ updated: 2026-09-14
 
 > [!tension] 门槛存在性之争：分段断裂 vs 连续曲线 vs 测量伪差
 > - **支持门槛立场** Karwowski et al. (2016, 2021) 运用[[Necessary and Sufficient Conditions|必要条件]]分析（NCA）和分段回归，在大样本数据库中验证了 $IQ \approx 115 \sim 120$ 处的斜率断裂，支持非线性门槛模型。
-> - **质疑门槛立场** Weiss & Steger (2021) 与 Kim (2005) 指出，部分研究中观察到的相关性减弱源于高智商群体的**分量表范围限制（Range Restriction）**或测验天花板效应，认为两者在本质上是平滑的微弱连续正相关，而非刚性断裂。
+> - **质疑门槛立场** Weiss & Steger (2021) 与 Kim (2005) 指出，部分研究中观察到的相关性减弱源于高智商群体的**分量表范围限制（[[Floor and Ceiling Effects|range restriction]]）**或测验天花板效应，认为两者在本质上是平滑的微弱连续正相关，而非刚性断裂。
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,14 +30,17 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
+  - "[[Policy Mobility]]"
   - "[[External Validity]]"
   - "[[Tracking]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Attrition]]"
+  - "[[Data Infrastructure]]"
   - "[[Counterfactual]]"
   - "[[Hawthorne Effect]]"
   - "[[Realism in International Relations]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Humility in Learning]]"
   - "[[Causality]]"
   - "[[Construct]]"
@@ -62,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 # Researching School Choices
@@ -72,7 +75,7 @@ updated: 2026-09-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 研究[[School Choice|学校选择]]（Researching School Choices）是英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）于 2019 年设立的宏观组织变革专项资助流。该资助流标志着[[Evidence-Based Education|循证教育]]治理彻底打破对单一[[Randomised Controlled Trials|随机对照试验]]（RCT）[[Paradigm|范式]]的教条崇拜：针对涉及学校深层治理体制、师资排课架构与家长敏感利益的宏观制度领域（如分轨分流、到校作息调整），资助机制果断放弃引发招募灾难的人为[[Random Assignment|随机化]]，转向依托英格兰[[National Pupil Database|国家学生数据库]]（NPD）全量微观纵向普查数据，采用严密的[[Quasi-Experimental Designs|准实验设计]]（[[Quasi-Experimental Designs|QED]]）评估现实教育生态中自然存在的政策变异。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 55–56)]]
+> 研究[[School Choice|学校选择]]（Researching School Choices）是英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）于 2019 年设立的宏观组织变革专项资助流。该资助流标志着[[Evidence-Based Education|循证教育]]治理彻底打破对单一[[Randomised Controlled Trials|随机对照试验]]（RCT）[[Paradigm|范式]]的教条崇拜：针对涉及学校深层治理体制、师资排课架构与家长敏感利益的宏观制度领域（如分轨分流、到校作息调整），资助机制果断放弃引发招募灾难的人为[[Random Assignment|随机化]]，转向依托英格兰[[National Pupil Database|国家学生数据库]]（NPD）全量微观纵向普查数据，采用严密的[[Quasi-Experimental Designs|准实验设计]]（[[Quasi-Experimental Designs|QED]]）评估现实教育生态中自然存在的[[Policy Mobility|政策变异]]。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 > [!program-context] 立项背景与 RCT 实施灾难反思
 > - **立项时间 / 周期** 2019 年正式确立为常设资助流并面向全英公开招标。
@@ -119,7 +122,7 @@ updated: 2026-09-15
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层设计与资助方** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF） — 甄选具有全局价值的宏观组织变革议题，协调跨部门数据使用权。
-> - **数据基础设施提供方** 英国教育部统计处（DfE NPD 团队） — 提供覆盖英格兰全体学龄儿童的纵向微观考分、学校特征与家庭背景数据库。
+> - **[[Data Infrastructure|数据基础设施]]提供方** 英国教育部统计处（DfE NPD 团队） — 提供覆盖英格兰全体学龄儿童的纵向微观考分、学校特征与家庭背景数据库。
 > - **准实验评估学者** 计量经济学、定量社会学与教育政策研究中心 — 建立[[Counterfactual|反事实]]匹配模型、执行平行趋势检验与安慰剂检验。
 > - **受益决策群体** 中小学校长、地方多学院信托（MAT）CEO 与教育决策者 — 获取关于编班体制、到校时间等制度安排的无偏经验证据。
 
@@ -150,7 +153,7 @@ updated: 2026-09-15
 > > - **[[Realism in International Relations|现实主义]]方法论立场（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）** 指出当某项宏观改革根本无法在田野中随机化时，强推 RCT 只能收获虚脱的招募样本与归零的[[External Validity|外部效度]]；依托优质大数据的严密 [[Quasi-Experimental Designs|QED]] 是最具科学诚意的最优解。
 
 > [!lessons] 经验教训与启示
-> - **证据中介机构必须保持方法论[[Humility in Learning|谦逊]]** 证据资助体系绝不可将特定统计方法奉为不可触碰的宗教教条；只有根据实践问题的决策层级动态调整设计工具箱，因果科学才能在错综复杂的教育现实中真正生根发芽。
+> - **[[Educational Brokerage Agency|证据中介机构]]必须保持方法论[[Humility in Learning|谦逊]]** 证据资助体系绝不可将特定统计方法奉为不可触碰的宗教教条；只有根据实践问题的决策层级动态调整设计工具箱，因果科学才能在错综复杂的教育现实中真正生根发芽。
 
 ---
 

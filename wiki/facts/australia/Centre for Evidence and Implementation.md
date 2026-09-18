@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -19,6 +19,7 @@ tags:
   - policy/evidence-based
   - theme/intermediary-organisation
 related_concepts:
+  - "[[Educational Brokerage Agency]]"
   - "[[Boundary Spanner]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
@@ -55,7 +56,7 @@ updated: 2026-09-18
 > [!event-context] 机构背景
 > - **时间 / 地点** 成立于澳大利亚（在英国、新加坡等地设有分支机构）。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 > - **关键主体** 证据与实施中心（Centre for Evidence and Implementation, CEI）。
-> - **制度背景** 自我定位为一个“全球性的、非营利证据中介机构”（global, not-for-profit evidence intermediary），致力于运用实施科学（Implementation Science）方法，通过中介评估、证据综合与知识转化，推动高质量研究在公共服务、社会福利和教育系统中的有效落地。
+> - **制度背景** 自我定位为一个“全球性的、非营利[[Educational Brokerage Agency|证据中介机构]]”（global, not-for-profit evidence intermediary），致力于运用实施科学（Implementation Science）方法，通过中介评估、证据综合与知识转化，推动高质量研究在公共服务、社会福利和教育系统中的有效落地。
 > - **触发条件** 在公共部门向外部专业智库和[[Boundary Spanner|知识经纪人]]（Evidence Brokers）外包政策评估的治理转向下，CEI 既受官方委托开展宏观审查，亦广泛参与大学与智库的高级别学术咨询网络。
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-09-18
 
 > [!actor-grid] 评论视角图
 > - **实施科学与中介转化视角** 强调其专业实施科学（Implementation Science）方法论，致力于打破象牙塔科研生产与中小学校园一线行动之间的转化壁垒，为[[Systematic Review|系统综述]]与使用质量框架提供扎实的落地支持。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 138)]]
-> - **批判社会学视角** 批评 CEI 作为公私合营证据经纪人，协助官方机构垄断了什么是合法有效证据的解释权，将复杂的公共育人审议重构为自洽的[[Technical Rationality|技术理性]]操作。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **批判社会学视角** 批评 CEI 作为公私合营[[Educational Brokerage Agency|证据经纪人]]，协助官方机构垄断了什么是合法有效证据的解释权，将复杂的公共育人审议重构为自洽的[[Technical Rationality|技术理性]]操作。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 > - **方法学与[[Document|文献]]独立性视角** 指出其桌面审查未经广泛学术共同体的严格同行评审，且文献引用高度聚焦于自身阵营期刊，中立性与客观代表性面临拷问。
 
 > [!tension] 争议焦点

@@ -8,7 +8,7 @@ aliases:
 summary: "雷蒙德·卡拉汉提出的概念，指20世纪初美国公立学校教育盲目引入工厂泰勒制科学管理，以行政控制与商业效率取代教育本质价值的现象"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
+  - "[[Assemblage]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-09-18
 ---
 
 # Cult of Efficiency
@@ -64,7 +65,7 @@ updated: 2026-06-09
 
 > [!abstract]
 > 效率崇拜的运作主要表现为以下特征： ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 413, 416, 418]])
-> - **学校的工厂化隐喻** 把学校视作工业流水线，学生是待处理的原料，教师是装配工人，而校长则变成了坐在办公室核算账本的首席执行官（CEO）。
+> - **学校的工厂化隐喻** 把学校视作工业流水线，学生是待处理的原料，教师是[[Assemblage|装配]]工人，而校长则变成了坐在办公室核算账本的首席执行官（CEO）。
 > - **手段与目的的倒置** 将教育的根本价值（促进个体的全面发展与民主参与）退化为行政手段（例如如何使生均运营成本最小化、或者如何在最短时间内拉高学生标准考试成绩）。
 > - **科学管理的中介化** 需要一套可供管理者坐在办公室直接决策和评估的数据工具（早期为车间秒表和标准化表格，当代为[[Effect Size|效应量]]排行和绩效数据库），实现由科层官僚对课堂微观教学过程的异化控制。
 

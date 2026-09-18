@@ -9,7 +9,7 @@ title: "Argument_Biesta_2010_SPE"
 argument_key: "Argument_Biesta_2010_SPE"
 argument_display_title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Phronesis]]"
 related_theories:
   - "[[Transactional Epistemology]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Philosophical Analysis in Education]]"
@@ -74,7 +73,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - **Dewey 的交易[[Epistemology|认识论]]（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证[[Experimental Research|实验研究]]无法产生未来确定性的知识
-> - **[[Luhmann's Systems Theory|系统理论]]（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非[[Determinism|决定论]]特征
+> - **系统理论（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非[[Determinism|决定论]]特征
 > - **Latour 的计量学（Metrology）** — 论证"科学成就"并非知识应用到世界，而是世界被改造为实验室条件
 > - **教育的 teleological 特征** — 教育是目的性（telos-driven）实践，价值先于效果
 >
@@ -85,7 +84,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法**[[Philosophical Analysis in Education]] — 以三个维度（[[Epistemology|认识论]]、存在论、实践论）为框架，逐一展开概念分析和逻辑论证
 > - **论证结构** 每个维度先区分两种"解读"（representational vs. transactional / closed vs. open / application vs. incorporation），再识别一个"缺陷"
-> - **数据来源** 哲学[[Document|文献]]（Dewey、Latour）、[[Luhmann's Systems Theory|系统理论]]、教育研究方法论文献
+> - **数据来源** 哲学[[Document|文献]]（Dewey、Latour）、系统理论、教育研究方法论文献
 
 ## 核心论证
 

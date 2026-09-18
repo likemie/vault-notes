@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Performativity of Measurement]]"
   - "[[Student Satisfaction]]"
+  - "[[Academic Attrition]]"
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
@@ -120,7 +121,7 @@ citation_aliases:
 OSA 在德国大学政策话语中具有三种战略功能(pp.222–224)：
 
 1. **发现天赋（discovery of talent）** 找到"最适合"的申请者，OSA 被要求"以资源为导向"而非"以缺陷为导向"(Wolff-Grosser, 2018, p.93)
-2. **降低成本和风险（reduction of costs and risks）** 通过促进"有根据的自我选择"(Thiele & Kauffeld, 2019a, p.275)，减少学生辍学率，避免大学的资源投入无回报
+2. **降低成本和风险（reduction of costs and risks）** 通过促进"有根据的自我选择"(Thiele & Kauffeld, 2019a, p.275)，减少[[Academic Attrition|学生辍学]]率，避免大学的资源投入无回报
 3. **完善大学形象（refinement of university profile）** OSA 是一个"教育品牌"平台，让大学不再是"匿名的教育机构"(Thiele & Kauffeld, 2019a, p.234)
 
 OSA 不能被简化为一种"限制入学"的方法——它通过"匹配"和"和谐"的承诺重新定义了"学习的场所"（location of study）。大学被呈现为"完美的环境"，能够帮助学生实现他们的潜力(p.223)。

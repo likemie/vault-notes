@@ -6,7 +6,7 @@ aliases:
 summary: "Lyotard 提出的输入输出逻辑原则，要求社会系统不断优化表现并以可见的方式证明其表现，在教育研究中用于解释全球政策空间中行动者的实用主义联盟行为及其话语生产特征"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,6 +16,7 @@ tags:
   - theory/postmodernism
 related_concepts:
   - "[[Pragmatic Paradigm]]"
+  - "[[Commensuration]]"
   - "[[Performativity of Measurement]]"
   - "[[Knowledge Production]]"
   - "[[Policy Science in Comparative Education]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Performativity
@@ -64,7 +65,7 @@ updated: 2026-09-17
 > **操演性/绩效性（Performativity）**最初是由[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以“输入/输出逻辑”为核心的社会运作与知识合法化原则，其终极目标是优化系统表现。在教育政策治理研究中，操演性是指机构或行动者为了在[[Network Society|网络社会]]中获取并维持主导地位，必须使其绩效表现**高度可见**，并以**影响力广度**（如政策采纳率、数据引用率）作为评估成效的核心机制，这导致了[[Pragmatic Paradigm|实用主义]]联盟压倒意识形态的政治逻辑。([[Argument_Beech_2009_CE|Beech, 2009, pp. 352–353]])
 
 > [!concept-lens] 概念透镜
-> - **指向机制** 操演性指向评估逻辑对社会关系的渗透。它强制要求系统成员不断生产出可通约的绩效证明，并将“可见的绩效”等同于“实际的价值”。
+> - **指向机制** 操演性指向评估逻辑对社会关系的渗透。它强制要求系统成员不断生产出可[[Commensuration|通约]]的绩效证明，并将“可见的绩效”等同于“实际的价值”。
 > - **研究用途** 帮助研究者透视超国家教育组织（如 [[OECD]]、[[World Bank|世界银行]]）通过数据发布和排名确立地缘政治权威，以及政策行动者如何在不具意识形态共识的情况下结成临时协作网。
 > - **边界** 它描述的是宏观与中观层面的治理机制与系统规则，侧重于评估环境对行动者身份和话语特征的形塑，不适合解释微观课堂中具体的教学策略或单纯的方法论测量偏差。
 
@@ -119,7 +120,7 @@ updated: 2026-09-17
 ### 命题类型一：操演性逻辑下的系统恐怖与网络排除机制（Terror & Exclusion）
 
 > [!concept-lens] 绩效评估的[[Disciplina and Doctrina|规训]]压迫
-> 该命题关注操演性原则作为一种无声的行政技术，如何通过将社会关系重构为“可通约的数字/指标”，对行动者实施规训，并排除无法被指标化的实践。
+> 该命题关注操演性原则作为一种无声的行政技术，如何通过将社会关系重构为“可[[Commensuration|通约]]的数字/指标”，对行动者实施规训，并排除无法被指标化的实践。
 
 > [!claim] [[Jean-François Lyotard|Lyotard, J. F.]]
 > 操演性在渗透社会关系时会施加一种“系统恐怖”——“要么可操作（即可通约），要么消失”。凡是不能用输入/输出指标、数字和可见表现证明自身效率的知识形态或社会机构，都将被系统视作无用而予以边缘化。(Lyotard, 1984, p. xxiv, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 352]])

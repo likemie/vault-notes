@@ -9,7 +9,7 @@ title: "Argument_Simpson_2017_JEP"
 argument_key: "Argument_Simpson_2017_JEP"
 argument_display_title: "The misdirection of public policy: Comparing and combining standardised effect sizes"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Homework]]"
   - "[[Business as Usual]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Metacognition]]"
   - "[[Critical Thinking]]"
 related_theories: []
@@ -117,7 +118,7 @@ citation_aliases:
 >
 > **系统性含义** 反馈研究可以合乎伦理地使用"无反馈"比较（实验室环境），但行为[[Intervention Research|干预研究]]只能比较"更密集 vs 现有"方案（学校环境）。结果是，在其他条件相同的情况下，我们可以预期反馈研究的效应量系统性地高于行为干预研究——不是因为反馈更有效，而是因为可用的研究设计选择不同。
 >
-> #### 3b. 范围限制（Range Restriction）
+> #### 3b. 范围限制（[[Floor and Ceiling Effects|range restriction]]）
 >
 > **思想实验** 第一位农民从苗圃中选择豆子长度均匀的植株（限制范围），第二位从所有植株中随机选择。两人使用完全相同的肥料和实验方案。第一位农民报告的效应量远大于第二位——因为限制范围减小了方差（分母），而非因为肥料效果更好(pp.7–8)。
 >
@@ -196,7 +197,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 论文自身承认论证聚焦于标准化均值差（Cohen's d 及其变体）——使用原始（非标准化）[[Effect Size|效应量]]可以解决部分但非全部问题(p.4)
-> - 论文引用的教育研究案例主要来自英美语境（[[Education Endowment Foundation|EEF]] Toolkit、Hattie [[Visible Learning|VL]]），对非英语国家[[Meta-analysis|元分析]]实践的适用性需进一步验证
+> - 论文引用的教育研究案例主要来自英美语境（[[Education Endowment Foundation|EEF]] Toolkit、Hattie VL），对非英语国家[[Meta-analysis|元分析]]实践的适用性需进一步验证
 > - 论文是技术论证而非实证研究——未提供定量估计每个偏差来源对排名影响幅度的元分析
 
 ## 来源

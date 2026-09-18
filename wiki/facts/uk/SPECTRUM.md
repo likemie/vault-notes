@@ -12,7 +12,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Preregistration]]"
   - "[[Floor and Ceiling Effects]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Social-Emotional Learning]]"
   - "[[Construct]]"
   - "[[Ecological Validity]]"
@@ -59,12 +60,13 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Institute of Education Sciences]]"
+  - "[[Evidence for Learning]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # SPECTRUM
@@ -132,7 +134,7 @@ updated: 2026-09-17
 > [!finding-cards] 核心实证结论与制度价值
 > - **确立非认知测评的心理测量学准入红线** 终结了教育干预中随意采纳未经充分验证的自编[[Questionnaire|问卷]]或商业量表的乱象，明确了只有具备坚实[[Construct Validity|结构效度]]与[[Predictive Validity|预测效度]]的工具方可作为 [[Randomised Controlled Trials|RCT]] 主要结局指标。
 > - **前置防范数百万英镑的试错损失** 避免了因测量工具信效度缺陷（如严重的天花板/[[Floor and Ceiling Effects|地板效应]]、对干预不敏感）而导致昂贵的大规模现场试验结果失效，节约了巨额公共财政资金。
-> - **树立全球循证中介机构的基础设施镜鉴** 向国际学术界与各国证据中介机构确立了一条关键经验：资助机构必须前置建立权威的测量工具基准库，而非在试验资助铺开后被动补救。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
+> - **树立全球循证中介机构的基础设施镜鉴** 向国际学术界与各国[[Educational Brokerage Agency|证据中介机构]]确立了一条关键经验：资助机构必须前置建立权威的测量工具基准库，而非在试验资助铺开后被动补救。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
 
@@ -141,7 +143,7 @@ updated: 2026-09-17
 > [!influence-path] 影响路径
 > - **方法路径** 极大提升了非认知教育干预试验的测量严谨性，将[[Construct Validity|构念效度]]与测量[[Reliability|信度]]审查制度化嵌入教育实证研究的设计阶段。
 > - **政策与机构治理** 推动 [[Education Endowment Foundation|EEF]] 形成“认知学业测验”与“非认知心理量表”双轮驱动的标准化测量治理体系。
-> - **国际推广** 为美国 [[Institute of Education Sciences|IES]]、澳大利亚 E4L 等国际证据机构在制定[[Social-Emotional Learning|社会情感学习]]（SEL）与心理韧性评估标准时提供了可直接复用的系统性[[Document|文献]]与分级指标。
+> - **国际推广** 为美国 [[Institute of Education Sciences|IES]]、澳大利亚 [[Evidence for Learning|E4L]] 等国际证据机构在制定[[Social-Emotional Learning|社会情感学习]]（SEL）与心理韧性评估标准时提供了可直接复用的系统性[[Document|文献]]与分级指标。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 总结 EEF 前八年实践经验，将 SPECTRUM 工具库的建立作为证据资助机构前置防范测量效度危机、节约数百万英镑成本的标志性成果。

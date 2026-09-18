@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 135
+argument_related_count: 136
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -92,6 +92,7 @@ related_concepts:
   - "[[Metainferences]]"
   - "[[Order Effects]]"
   - "[[Axiology]]"
+  - "[[Commensuration]]"
   - "[[Incommensurability]]"
   - "[[Leading Questions]]"
   - "[[Attrition]]"
@@ -900,7 +901,7 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 >   将数值数据**质化（[[Data Transformation|qualitizing]]）**或将质性数据**量化（quantitizing）**在多大程度上有助于产出稳健的"元推断"
 > - **范式混合（Paradigmatic mixing）**
 >   综合本体论、[[Epistemology|认识论]]、[[Axiology|价值论]]、方法论和修辞学信念与实践来产出有用结果的成功程度——特别是当范式之间存在张力时
-> - **可通约性（Commensurability）**
+> - **可[[Commensuration|通约]]性（Commensurability）**
 >   "元推断"是否捕捉了一种**"混合世界观"（mixed worldview——拒绝[[Incommensurability|范式不可通约性]]）**，通过"格式塔转换"（Gestalt switching）以及范式及其方法论的**整合**来实现
 > - **多重效度（Multiple validities）**
 >   对每种量化和质性数据的各自效度标准的**忠诚（fidelity）**

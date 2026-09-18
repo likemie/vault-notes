@@ -11,7 +11,7 @@ summary: "在教育干预试验与复杂项目评价中与量化成效评估并�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 56
+method_related_count: 54
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -22,11 +22,10 @@ tags:
   - evidence-based-education
 related_concepts:
   - "[[Research Utilization]]"
-  - "[[Unit of Analysis]]"
   - "[[Business as Usual]]"
+  - "[[Unit of Analysis]]"
   - "[[Implementation Fidelity]]"
   - "[[Epistemology]]"
-  - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Ecological Validity]]"
   - "[[Variable]]"
@@ -48,7 +47,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Internal Validity]]"
   - "[[Construct]]"
-  - "[[Evidence-Based Education]]"
   - "[[Formative Assessment]]"
   - "[[Reflexivity]]"
 related_theories:
@@ -59,11 +57,11 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Evaluation Design]]"
-  - "[[Mixed Methods Research]]"
   - "[[Qualitative Observation]]"
   - "[[Triangulation]]"
   - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Mixed Methods Research]]"
   - "[[Joint Display]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
@@ -110,7 +108,7 @@ updated: 2026-09-18
 > *A good theoretical understanding is needed of how the intervention causes change... lack of effect may reflect implementation failure (or teething problems) rather than genuine ineffectiveness.*
 
 > [!citation-card] Rickinson et al. 论证据使用质量的过程评估与形成性诊断
-> 高质量研究证据使用的评估不能仅停留在下游学生学习结果的孤立产出端，而必须聚焦证据在复杂系统中的落地过程。通过实施与过程评估（IPE），系统追踪学校组织文化、专业审议过程与使能构件的动态互动，才能精准诊断证据落地中的结构性瓶颈，推动循证实践从静态合规走向深层组织探究。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 145)]]
+> 高质量研究证据使用的评估不能仅停留在下游学生学习结果的孤立产出端，而必须聚焦证据在复杂系统中的落地过程。通过实施与过程评估（IPE），系统追踪学校[[Organizational Culture|组织文化]]、专业审议过程与使能构件的动态互动，才能精准诊断证据落地中的结构性瓶颈，推动循证实践从静态合规走向深层组织探究。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, p. 145)]]
 >
 > *Evaluating quality evidence use requires continuous, diagnostic, and formative implementation and process evaluations that capture the dynamic interplay among organizational cultures, professional deliberation, and systemic enablers.*
 

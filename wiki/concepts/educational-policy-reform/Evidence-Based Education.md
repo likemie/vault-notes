@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 122
+related_count: 124
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Ontology]]"
   - "[[Causality]]"
+  - "[[Scientifically Based Research]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Teacher Professional Agency]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Metacognition]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[School Choice]]"
   - "[[Paradigm]]"
   - "[[Document]]"
@@ -233,7 +235,7 @@ updated: 2026-09-18
 4. **区分"基于科学原则研究"与"针对具体项目进行过严格实验评估"**
 
    > [!info] 政策筛选的门槛
-   > 这是 [[Argument_Slavin_2002_ER|Slavin (2002, pp. 18–19)]] 提出的关键概念区分：[[No Child Left Behind Act 2001|NCLB]] 法案中出现的"基于科学本位研究"是一个不足的标准——任何项目都能找到支持其原则的某些零散研究。Slavin 论证真正需要的是项目**本身**已经过严格实验评估并被证明有效。这一区分直接影响了后续 ESSA (2015) 的证据标准设计。
+   > 这是 [[Argument_Slavin_2002_ER|Slavin (2002, pp. 18–19)]] 提出的关键概念区分：[[No Child Left Behind Act 2001|NCLB]] 法案中出现的"基于[[Scientifically Based Research|科学本位研究]]"是一个不足的标准——任何项目都能找到支持其原则的某些零散研究。Slavin 论证真正需要的是项目**本身**已经过严格实验评估并被证明有效。这一区分直接影响了后续 ESSA (2015) 的证据标准设计。
 
 ---
 
@@ -324,7 +326,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > [!proc] 英国 [[Education Endowment Foundation|EEF]] 的知识动员与中介基础设施演进
 > 针对早期证据本位教育过度依赖单向、静态文本工具包（如《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》）所导致的知识应用瓶颈，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）探索建立了动员导向的现代证据中介生态（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48, 55]]）：
 > 1. **从静态工具包到操作性实践指南（Guidance Reports）** 针对[[Metacognition|元认知]]、拼读、阅读理解、数学与行为管理等核心主题发布证据实践指南，提炼出可落地的操作性推荐原则。
-> 2. **建设“[[Research Schools Network|研究学校网络]]”（RSN）** 在全英选拔设立由 32 所常设研究学校与 8 所联合研究学校构成的骨干网络，由资深教师与校长担任证据经纪人，为区域内普通学校提供长期循证培训与专业发展支持。
+> 2. **建设“[[Research Schools Network|研究学校网络]]”（RSN）** 在全英选拔设立由 32 所常设研究学校与 8 所联合研究学校构成的骨干网络，由资深教师与校长担任[[Educational Brokerage Agency|证据经纪人]]，为区域内普通学校提供长期循证培训与专业发展支持。
 > 3. **学校与[[Teacher Choices|教师选择]]的差异化设计流** 针对学校抗拒随机分配的核心管理决策（如作息调整、分层分班）开辟研究[[School Choice|学校选择]]（[[Researching School Choices]]）准实验流，并设立聚焦课堂日常教学微决策的教师选择（Teacher choices）微型试验项目，使证据生产直接回应一线学校的现实关切。
 
 ---
@@ -361,7 +363,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 
 > [!timeline] 关键事件
 > - **1998** — 美国国会首次将联邦教育拨款与有效性证据直接挂钩：[[Comprehensive School Reform Program]] 拨款 USD 150M/年，要求使用"经过验证的、全面的改革模式"（Obey-Porter 立法）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
-> - **2001** — [[No Child Left Behind Act 2001]] 通过，全文提及"科学本位研究"110 次，定义该术语并奠定其作为 [[Title I of the Elementary and Secondary Education Act|Title I]]、Reading First 等联邦项目的基础([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
+> - **2001** — [[No Child Left Behind Act 2001]] 通过，全文提及"[[Scientifically Based Research|科学本位研究]]"110 次，定义该术语并奠定其作为 [[Title I of the Elementary and Secondary Education Act|Title I]]、Reading First 等联邦项目的基础([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 > - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，旨在成为"关于教育中什么有效的科学证据的中央可信来源"([[Argument_Wiliam_2019|Wiliam, 2019, p.3]])
 > - **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）
 > - **2010** — WWC 发布 [[Single-Case Design|SCD]] Pilot Standards，将[[Single-Case Design|单一个案设计]]认可为 [[Randomised Controlled Trials|RCT]] 之外的第二种实验证据生成方法；[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 随后澄清了其审查程序中推广性信息的捕获方式
@@ -469,7 +471,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - [[Tennessee STAR Project 1985-1989]] — RCT 外推失败的经典案例
 > - [[California Class Size Reduction 1996]] — 教师质量在大规模推广中的关键混淆作用
 > - [[Comprehensive School Reform Program]] — 1998 年首次将联邦拨款与证据挂钩
-> - [[No Child Left Behind Act 2001]] — 将科学本位研究作为联邦教育项目核心标准
+> - [[No Child Left Behind Act 2001]] — 将[[Scientifically Based Research|科学本位研究]]作为联邦教育项目核心标准
 > - ESSA 2015 Evidence Standards — 四级证据标准的联邦政策框架
 > - [[Students and Teachers Accessing Tomorrow]] — [[Technology Infusion|技术整合]]改革中证据解释的多因素案例
 > - [[What Works Clearinghouse]] — 美国 EBE 的制度基础设施

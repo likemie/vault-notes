@@ -7,7 +7,7 @@ aliases:
 summary: "在后真相时代由于算法极化、反专家情绪与心理防卫机制共振而引发的对科学实证证据的刻意贬低与激进怀疑现象；在Burns & Schuller（2022）教育中介研究中被确立为动摇传统循证政策“客观理性”预设的重大认识论危机，表明单纯提供更多证据不仅无法消除偏见，反而可能刺激受众产生更深层的认知防卫与反弹。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,13 +30,14 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Research in Schools Evaluation]]"
   - "[[Education Media Centre]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-09-18
 ---
 
 # Evidence Backlash
@@ -56,7 +57,7 @@ updated: 2026-09-13
 > [!citation-card] Burns & Schuller 论证据反弹与专家公信力侵蚀
 > 某些话语中对“专家”的公开轻蔑引发了对真相与事实正在失去效用的担忧，我们可能正在目睹一场科学与研究被刻意贬低的“证据反弹”。这些都是令人警醒的论断。如果它们属实，那么教育实践与政策中证据利用的匮乏，就绝不仅仅是一个获取渠道、供给可用性或完善证据利用流程的问题……它无法通过提供更多获取机会、更多可用数据、甚至是能力建设来解决。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 57)]]
 >
-> *"A disdain for 'experts' in some discourses has given rise to worries that truth and fact are losing currency, and that we could be witnessing an 'evidence backlash' in which science and research are deliberately devalued (Lewandowsky, Ecker and Cook, 2017). These are alarming arguments. If they are true, then the lack of use of evidence in education practice and policy is not simply an issue of access or availability or better processes for ensuring that available evidence is actually used... it cannot be fixed by providing more access, more availability, or even by building capacity."*
+> *"A disdain for 'experts' in some discourses has given [[Research in Schools Evaluation|RISE]] to worries that truth and fact are losing currency, and that we could be witnessing an 'evidence backlash' in which science and research are deliberately devalued (Lewandowsky, Ecker and Cook, 2017). These are alarming arguments. If they are true, then the lack of use of evidence in education practice and policy is not simply an issue of access or availability or better processes for ensuring that available evidence is actually used... it cannot be fixed by providing more access, more availability, or even by building capacity."*
 
 ---
 

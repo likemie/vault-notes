@@ -42,7 +42,7 @@ related_methods:
   - "[[Likert Scale]]"
   - "[[Confidence Interval]]"
   - "[[Cluster Analysis]]"
-  - "[[Power Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -187,11 +187,11 @@ updated: 2026-09-18
 > | [[Analysis of Variance]] | Method | 计算 $\omega^2$ 的底层统计模型与变异来源分解框架。 |
 > | [[Effect Size]] | Method | $\omega^2$ 所属的宏观统计方法学上位范畴。 |
 > | Eta-Squared | Method | $\omega^2$ 所旨在修正并替代的样本有偏对应统计量。 |
-> | [[Cluster Analysis]] | Method | 在聚类分组后检验簇间分离度与下游变量差异时的标准效应量配套工具。 |
+> | [[Cluster Analysis]] | Method | 在聚类分组后检验簇间分离度与下游[[Variable\|变量]]差异时的标准效应量配套工具。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 在单因素方差分析中报告 $\omega^2$ 作为无偏效应量，检验三类治理态度聚类校长在学校发展活动与日常工时分配上的组间差异。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 在单因素[[Analysis of Variance|方差分析]]中报告 $\omega^2$ 作为无偏[[Effect Size|效应量]]，检验三类治理态度聚类校长在学校发展活动与日常工时分配上的组间差异。

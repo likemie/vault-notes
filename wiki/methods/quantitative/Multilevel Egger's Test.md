@@ -10,7 +10,7 @@ summary: "在多水平与聚类依赖元分析数据中检验小研究效应与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
   - "[[Robust Variance Estimation]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Meta-regression]]"
   - "[[Sample Size Determination]]"
   - "[[Correlated and Hierarchical Effects Model]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-18
 ---
 
 # Multilevel Egger's Test
@@ -82,7 +83,7 @@ updated: 2026-08-24
 > | **核心产出** | 仅给出偏倚显著性检验 $p$ 值 | 填补虚拟研究后的粗糙估计 | **同时输出偏倚显著性 $p$ 值与偏倚校正后的无偏截距 $\beta_0$** |
 
 > [!concept-lens] 多水平 Egger 检验解决的核心痛点
-> 1. **破解依赖数据下的假阳性偏倚警报** 传统 Egger 回归忽略了同一研究或一阶元分析内部的效应量相关性，会将“同一高质量综述内部效应量的集中性”错误诊断为“严重的[[Publication Bias|发表偏倚]]”。多水平模型通过 Level 2 和 Level 3 随机效应吸收了这些集群内变异。
+> 1. **破解依赖数据下的假阳性偏倚警报** 传统 Egger 回归忽略了同一研究或一阶元分析内部的效应量相关性，会将“同一高质量综述内部效应量的集中性”错误诊断为“严重的[[Publication Bias|发表偏倚]]”。[[Hierarchical Linear Model|多水平模型]]通过 Level 2 和 Level 3 随机效应吸收了这些集群内变异。
 > 2. **实现“偏倚诊断”与“无偏效应量校正”的一体化** 经典方法通常只能做偏倚检验或粗糙剪补；多水平 Egger 回归通过数学截距项 $\beta_0$（当抽样标准误 $\text{SE} \to 0$ 时的理论效应量），直接给出了剔除小样本膨胀效应后的“纯净效应量基准”。
 
 ---

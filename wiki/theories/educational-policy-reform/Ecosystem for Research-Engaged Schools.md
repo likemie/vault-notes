@@ -7,10 +7,10 @@ aliases:
 summary: "由 Godfrey 和 Brown（2019）提出的框架，用微观、中观、外、宏观与时间五层生态绘制研究参与如何嵌入更大的教育生态，是分析研究参与学校多层级条件的理论透镜"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/research-use
   - theory/ecosystem
@@ -34,14 +34,15 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Urie Bronfenbrenner]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Ecosystem for Research-Engaged Schools
@@ -53,7 +54,7 @@ updated: 2026-09-17
 > [!theory-position] 理论定位
 > - **解释对象** 学校的研究参与如何嵌入更大的教育生态：什么样的多层条件让学校成为研究参与的学校。
 > - **理论问题** 回应"把研究参与只看作学校内部事务"的局限，主张必须放在从课堂到宏观政策的生态系统中理解。
-> - **理论类型** 生态系统的中层[[Analytic Framework|分析框架]]，借用布朗芬布伦纳式的生态层级。
+> - **理论类型** 生态系统的中层[[Analytic Framework|分析框架]]，借用[[Urie Bronfenbrenner|布朗芬布伦纳]]式的生态层级。
 > - **知识位置** 由 David Godfrey 与 Chris Brown（2019）提出，基于实证研究与理论综合，用于研究与改进学校层面的研究参与。
 
 > [!claim] 核心主张

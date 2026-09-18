@@ -90,7 +90,7 @@ updated: 2026-09-16
 > > [!axis] [[New Public Management|新公共管理]]审计合规 vs 贝叶斯证据积累伦理
 > > 学界对 Researchfish 所代表的科研管理体制在方法学与学术伦理上的负外部性展开了猛烈批评。
 > >
-> > - **戈拉德等（Gorard et al., 2020）** 从循证科学哲学视角指出，真实教育情境极少开展直接重复试验，单项研究结论极易受特定样本与未测[[Variable|变量]]扰动；要求单项研究产出独立现实影响不仅背离了贝叶斯证据综合原则，更通过 Researchfish 等考核压力迫使学者蜕化为“学术推销员”（Salespersons），甚至向无效干预颁发影响力大奖。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 572–573)]]
+> > - **戈拉德等（[[Argument_Gorard_2020_ROE|Gorard et al., 2020]]）** 从循证科学哲学视角指出，真实教育情境极少开展直接重复试验，单项研究结论极易受特定样本与未测[[Variable|变量]]扰动；要求单项研究产出独立现实影响不仅背离了贝叶斯证据综合原则，更通过 Researchfish 等考核压力迫使学者蜕化为“学术推销员”（Salespersons），甚至向无效干预颁发影响力大奖。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 572–573)]]
 > > - **丘布与沃特迈耶（Chubb & Watermeyer, 2017）** 揭示了考核机制对学术诚信的系统性侵蚀，证实研究者在资助方与 [[Research Excellence Framework|REF]] 压力下，被迫策略性地夸大甚至虚构其研究在现实中的社会经济效益。
 
 > [!lessons] 经验教训与治理警示

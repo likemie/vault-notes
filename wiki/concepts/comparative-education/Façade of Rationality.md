@@ -9,7 +9,7 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）与温迪·埃斯佩兰德（Wendy Espeland）等学者提出的批判性理论构念，指在充斥歧义性、争议性与不确定性的教育决策生态中，数字作为理性表象的脚手架，相比质性论述能为政策制定者构筑出具备客观性、精确度与普适性的政治外壳。这种外衣在压制外部质疑的同时，为决策者依循自身政治偏好自由阐释指标意义保留了弹性空间。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[New Public Management]]"
   - "[[Policy Ambiguity]]"
+  - "[[Commensuration]]"
   - "[[Heterogeneity]]"
   - "[[Surplus of Evidence]]"
   - "[[Conatus]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Façade of Rationality
@@ -104,7 +105,7 @@ updated: 2026-09-17
 
 > [!feature] 核心要素
 > - **决策生态的三重约束** 教育领域具有不可化约的[[Policy Ambiguity|政策歧义性]]（多重思维方式互不相容）、专家知识民主化带来的高度公共争议性、以及育人结果指向不可见未来所导致的技术赤字。这三重生态约束构成了决策者亟需理性外衣的现实温床。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
-> - **通约化与去语境化** 数字通过剥离地方学校、文化传统与历史脉络的特殊性，将[[Heterogeneity|异质性]]的教育经验还原为单一度量衡上的标量数值，制造出全球普适与科学精密的错觉。
+> - **[[Commensuration|通约化]]与去语境化** 数字通过剥离地方学校、文化传统与历史脉络的特殊性，将[[Heterogeneity|异质性]]的教育经验还原为单一度量衡上的标量数值，制造出全球普适与科学精密的错觉。
 > - **数字作为政治[[Scaffolding|脚手架]]功能** 量化指标充当了阻挡公众批评与专业异见的防御性盾牌，为既有政策议程提供坚不可摧的客观外包装。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **指标叙事的弹性空间** 数字不仅不消解叙事，反而激发叙事；决策者能够剥离原始统计口径的技术细节，根据政党选举与施政需要自由讲述关于指标含义的政治故事。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 
@@ -136,7 +137,7 @@ updated: 2026-09-17
 
 ### 命题二　数字作为理性表象的脚手架：遮蔽价值冲突并保留政治叙事自由
 
-> [!concept-lens] 数字通约与叙事空间
+> [!concept-lens] 数字[[Commensuration|通约]]与叙事空间
 > 探讨量化技术如何兼顾政治防御功能与施政主观裁量需求，揭示客观表象与政治叙事之间的共[[Conatus|生机]]制。
 
 > [!claim] Espeland, W.
@@ -157,7 +158,7 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990–2000年代 — 量化社会学奠基** 西奥多·M·波特（Theodore M. Porter）与[[Wendy Espeland|温迪·埃斯佩兰德]]（Wendy Espeland）等学者揭示通约化与信赖数字的政治本质，指出量化是弱势专业群体抵抗政治干预与政府建立公众信任的技术策略。
+> - **1990–2000年代 — 量化社会学奠基** 西奥多·M·波特（Theodore M. Porter）与[[Wendy Espeland|温迪·埃斯佩兰德]]（Wendy Espeland）等学者揭示[[Commensuration|通约化]]与信赖数字的政治本质，指出量化是弱势专业群体抵抗政治干预与政府建立公众信任的技术策略。
 > - **2013 — 比较教育[[Policy Borrowing|政策借用]]中的理性外衣** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）在反思教育政策借鉴中的“成功经验路径”时，明确提出量化硬事实为争议性政策移植提供了“理性、精确与普适的表象（façade of rationality, precision, and universality）”。
 > - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代[[Policy Brokerage|政策中介]]的运作机制** 施泰纳-哈姆西、马滕斯（[[Kerstin Martens]]）与伊德森（[[Christian Ydesen]]）在《数字治理 2.0》中将理性表象概念进一步升华，确立为剖析国际组织从单纯[[Knowledge Mediation|知识中介]]走向政治化政策中介的核心机制枢纽。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 

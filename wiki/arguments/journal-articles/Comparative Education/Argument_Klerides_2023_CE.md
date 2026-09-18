@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 59
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -63,7 +63,6 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
   - "[[World Society Theory]]"
-  - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
   - "[[Actor-Network Theory]]"
   - "[[Dependency Theory]]"
@@ -235,7 +234,7 @@ citation_aliases:
 > - **1945–1960s — 学科学术建制的大学化** 约瑟夫·劳维斯作为首位比较教育教授（1947年）与[[Comparative Education Society in Europe|欧洲比较教育学会]]首任主席，致力于国际理解与科学人道主义，多边合作政治直接推动了学科在大学中的专业化学术网络建立。随着 Holmes 等人参与 UNESCO 专家会议，伦敦大学 IOE 设立了专门的比较教育系。
 > - **1970s–1990s — 全球化的文化趋同与世界文化辩论** 随着全球多边治理的发展，关于全球化与本土适应的争论在学科中爆发。
 >   - 1970s 起 [[World Society Theory|世界文化理论]]兴起，认为西方现代学校模型作为全球理性规范被各国共识性单向采纳以彰显世界社会成员身份(Meyer & Ramirez, 2000)。
->   - 1990s 起 [[Luhmann's Systems Theory|系统理论]]与[[Autopoiesis|自创生]]概念被引入，强调教育系统的自我参照性和地方文化的[[Externalization|外部化]]变异抵抗(Schriewer, 2012)。
+>   - 1990s 起 系统理论与[[Autopoiesis|自创生]]概念被引入，强调教育系统的自我参照性和地方文化的[[Externalization|外部化]]变异抵抗(Schriewer, 2012)。
 >   - 1990s 起 联结论学者强调教育转移背后隐藏的新帝国主义资本积累和强制性干预关系(Carney et al., 2012)。
 > - **2000s 至今 — 分散权威与基准数据治理** 全球治理取代了国家单向输出，大数据和 [[PISA]] 等基准测试以中立客观之名实施远处治理（governing from a distance），教育政策呈现为由国际组织、非政府组织、跨国公司及[[Policy Entrepreneur|政策企业家]]共同交织的多行动者网络(pp. 424–425)。
 >   - 子事件：跨国多行动者网络下，非国家行动者、慈善资本及跨国公司推进教育服务私有化，政策企业家推销“循证政策”方案。
@@ -338,22 +337,22 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card]- 理论反思的缺失
-> 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。(Klerides, 2023, p. 416)
+> 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 416]])
 > 
 > *We have never used the lens of international theory in a systematic way to articulate our [[Champ|field]]'s identity, history and future.*
 
 > [!citation-card]- 国际预设决定学术实践
-> 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。(Klerides, 2023, p. 417)
+> 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 417]])
 > 
 > *What we practise as 'comparative education' is the effect of the way(s) in which we understand, consciously or unconsciously, the nature of international society and its politics, as well as how its main actors (should) conduct themselves in it.*
 
 > [!citation-card]- 怀特传统的政治价值
-> 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。(Klerides, 2023, p. 431)
+> 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 431]])
 > 
 > *The three traditions are crucial because they unveil the underlying values of our work, facilitating critical reflections on the issue of whose power we are historically and politically reproducing, or opposing, in and through this work.*
 
 > [!citation-card]- 比较教育史的未来难题
-> 中文译文：我们如何以既不单被[[Rationalism in International Relations|理性主义]]的乐观所引导，也不单被[[Revolutionism|革命主义]]的道德激情所引导，同时又包含[[Realism in International Relations|现实主义]]色彩（而非其犬儒主义）方式来书写这一领域？(Klerides, 2023, p. 431)
+> 中文译文：我们如何以既不单被[[Rationalism in International Relations|理性主义]]的乐观所引导，也不单被[[Revolutionism|革命主义]]的道德激情所引导，同时又包含[[Realism in International Relations|现实主义]]色彩（而非其犬儒主义）方式来书写这一领域？([[Argument_Klerides_2023_CE|Klerides, 2023, p. 431]])
 > 
 > *How do we write about the field in ways that are not simply guided by the optimism of rationalism nor the moral passion of [[Revolutionism]], but that also include a realist(ic) flavour without its cynicism?*
 

@@ -7,7 +7,7 @@ title: "Argument_Bogliacino_Pianta_2016_EP"
 argument_key: "Argument_Bogliacino_Pianta_2016_EP"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Total Factor Productivity]]"
   - "[[Blue Skies Research]]"
+  - "[[Assemblage]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
   - "[[Competitiveness]]"
@@ -146,7 +147,7 @@ updated: 2026-09-16
 > 典型制造业包括机械工程和精密仪器。Pavitt 指出，SS 企业的"创新常常是隐性的——嵌入在工程师的头脑和手指中，而非专利文件中"。这种创新模式使它们在创新来源上介于 SB and SI 之间（pp.156-158）。
 
 > [!line-a] 规模密集型（Scale Intensive, SI）
-> 创新嵌入在大规模生产流程中，**规模经济**是核心驱动力。创新既包括流程创新，通过持续改进降低单位成本，也包括产品创新，属于渐进式改进。企业以大企业为主，通常运营连续流程或大规模装配线。
+> 创新嵌入在大规模生产流程中，**规模经济**是核心驱动力。创新既包括流程创新，通过持续改进降低单位成本，也包括产品创新，属于渐进式改进。企业以大企业为主，通常运营连续流程或大规模[[Assemblage|装配]]线。
 >
 > 典型制造业包括汽车制造、基础金属和矿物油精炼。Pavitt 观察到这类产业的创新支出中设备投资占比最高——新机器的引入同时带来了新工艺和新产品——而不仅仅是研发。这一特征后来成为修订版分类法的关键线索（pp.156-158）。
 
@@ -171,7 +172,7 @@ updated: 2026-09-16
 
 ### 论证步骤四：修订版分类法的实证检验
 
-Bogliacino & Pianta (2016)通过三个层次的实证检验论证了修订的合理性，每一层都比上一层更深入：
+[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]通过三个层次的实证检验论证了修订的合理性，每一层都比上一层更深入：
 
 > [!line-a] PCA 揭示两类创新策略
 > [[Research Utilization|研究使用]]六个创新[[Variable|变量]]进行主成分分析，根据 Kaiser 准则保留两个主成分，累计解释 $71.36\%$ 的总方差（$\lambda_1 = 3.06$，$\lambda_2 = 1.22$）。两个成分精确对应了 Schumpeter 关于产品创新和流程创新的经典区分（pp.163-165）。

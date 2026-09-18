@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪经典比较教育学用于解释国家教育制度独特性与内在精神的核心构念，后因缺乏经验证据、同义反复解释与辉格史观陷入方法论争议"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Whiggism]]"
   - "[[Causality]]"
+  - "[[Commensuration]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[Habitus]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # National Character
@@ -194,7 +195,7 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **18 世纪末–19 世纪中叶 — 哲学思辨与民族精神发轫** 孟德斯鸠（Montesquieu）探讨法律与地理、气候和民族精神的关系，赫尔德（Herder）等浪漫主义思想家提出不可通约的独特民族精神（Volksgeist），为早期比较教育观察提供了思想土壤。
+> - **18 世纪末–19 世纪中叶 — 哲学思辨与民族精神发轫** 孟德斯鸠（Montesquieu）探讨法律与地理、气候和民族精神的关系，赫尔德（Herder）等浪漫主义思想家提出不可[[Commensuration|通约]]的独特民族精神（Volksgeist），为早期比较教育观察提供了思想土壤。
 > - **1900 — [[Michael Sadler|萨德勒]]确立教育制度反映与救治国民性格命题** 萨德勒在著名的吉尔福德演讲《我们在多大程度上能够从外国教育制度研究中学习实际有价值的经验？》中，提出国家教育制度是活体有机体，蕴含民族生活隐秘运作，既反映又试图救治国民性格缺陷，打破了机械移植办学经验的功利主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 44)]]
 > - **1930s–1950s — 经典学派系统化为核心分析[[Construct|构念]]** [[Isaac Kandel|坎德尔]]《比较教育》（1933）、汉斯《比较教育：教育的因素与传统研究》（1949）与[[Vernon Mallinson|马林森]]《比较教育研究导论》（1957）将国民性格作为跨国制度比较的基本[[Independent Variable|自变量]]与核心解释框架。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40–42)]]
 > - **1960s — 实证转型期的全面反思与方法论清算** [[Positivism|实证主义]]者（如 Noah & Eckstein）指责国民性格属于前科学主观臆测；卡扎米亚斯与劳威斯指出其陷入同义反复、缺乏经验史料证据，并伴随混淆实然与应然的[[Whiggism|辉格史观]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–55)]]

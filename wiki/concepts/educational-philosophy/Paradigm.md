@@ -10,7 +10,7 @@ aliases:
 summary: "库恩提出的核心概念，指研究共同体共享的看待现象的方式、世界观、信念体系和原则集合，决定了什么算作合法的科学知识和研究方法。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Problem Solving]]"
   - "[[Incommensurability]]"
+  - "[[Commensuration]]"
   - "[[Value Neutrality]]"
   - "[[Positivism]]"
   - "[[Postpositivism]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 
 # Paradigm
@@ -65,7 +66,7 @@ updated: 2026-09-11
 ## 不可通约性
 
 > [!def] [[Incommensurability|不可通约性]]（Incommensurability）
-> 不同范式之间不存在共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式。不可通约性意味着范式之间无法用同一套标准来比较优劣——选择一种范式，就是选择了一整套关于实在、知识和方法的根本信念，而非仅仅选择一种研究工具（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。[[Mixed Methods Research|混合方法研究]]作为一种"新范式"的兴起，在某种程度上挑战了不可通约性论点。
+> 不同范式之间不存在共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式。不可[[Commensuration|通约]]性意味着范式之间无法用同一套标准来比较优劣——选择一种范式，就是选择了一整套关于实在、知识和方法的根本信念，而非仅仅选择一种研究工具（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。[[Mixed Methods Research|混合方法研究]]作为一种"新范式"的兴起，在某种程度上挑战了不可通约性论点。
 
 ## 范式转换的历史案例
 

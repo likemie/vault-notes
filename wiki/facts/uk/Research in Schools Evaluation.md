@@ -116,7 +116,7 @@ updated: 2026-09-16
 > > [!axis] 弱人际中介模式的实效与可持续性
 > > 学界围绕在学校内部任命“研究骨干”的制度有效性与抗扰动能力展开争论。
 > >
-> > - **戈拉德等（Gorard et al., 2020）** 认为将证据[[Transfer Translation Transformation|转译]]的希望单方面寄托于个别校内教师身上极其脆弱，学校组织生态的高流动性必然导致证据传导链条断裂，弱人际连接无法撬动稳定的学业增益。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 592)]]
+> > - **戈拉德等（[[Argument_Gorard_2020_ROE|Gorard et al., 2020]]）** 认为将证据[[Transfer Translation Transformation|转译]]的希望单方面寄托于个别校内教师身上极其脆弱，学校组织生态的高流动性必然导致证据传导链条断裂，弱人际连接无法撬动稳定的学业增益。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 592)]]
 > > - **威金斯等（Wiggins et al., 2019）** 强调虽然该模式人均经济成本低廉，但在缺乏全校性制度重构与配套激励机制的情况下，难以抵御人员离岗带来的负面冲击。
 
 > [!lessons] 经验教训与启示

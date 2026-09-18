@@ -8,9 +8,9 @@ aliases:
 summary: "由美国大学入学考试机构（ACT）研发的标准化通识能力测评工具，其批判性思维模块通过33道情境单选题测量大学生分析要素、评估论证与拓展论点的能力。"
 type: instrument
 instrument_type: test
-instrument_related_count: 9
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
+  - "[[Scientifically Based Research]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-18
 ---
 
 # Collegiate Assessment of Academic Proficiency
@@ -78,7 +79,7 @@ updated: 2026-08-27
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 33 道基于科学研究、社会争议、哲学辩论等短文材料的情境[[Multiple-Choice Questions|选择题]]。
+> - **题项形式** 33 道[[Scientifically Based Research|基于科学研究]]、社会争议、哲学辩论等短文材料的情境[[Multiple-Choice Questions|选择题]]。
 > - **作答格式** 4 选 1 客观单项选择题。
 > - **计分与常模** 采用 50–70 分的量表分体系，提供基于全美数百所高校常模的百分位等级与院校增值评估报告。
 

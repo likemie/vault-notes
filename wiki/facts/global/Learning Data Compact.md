@@ -10,7 +10,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,8 @@ tags:
   - theme/quantification
   - theme/un-sdgs
 related_concepts:
+  - "[[Data Infrastructure]]"
+  - "[[Commensuration]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
 related_theories: []
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-14
+updated: 2026-09-18
 ---
 
 # Learning Data Compact
@@ -55,7 +57,7 @@ updated: 2026-09-14
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 学习数据契约（Learning Data Compact，简称 LDC）是[[UNESCO|联合国教科文组织]]统计研究所（UNESCO-[[UNESCO Institute for Statistics|UIS]]）、[[UNICEF|联合国儿童基金会]]（UNICEF）与[[World Bank|世界银行]]（World Bank）于 2021 年联合发起的高级别数据协同倡议，旨在构建全球一体化的学生学业测评数据采集与监测架构，为落实 2030 [[UN Sustainable Development Goals|可持续发展目标]]（SDG 4）提供坚实的数据基础设施。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
+> 学习数据契约（Learning Data Compact，简称 LDC）是[[UNESCO|联合国教科文组织]]统计研究所（UNESCO-[[UNESCO Institute for Statistics|UIS]]）、[[UNICEF|联合国儿童基金会]]（UNICEF）与[[World Bank|世界银行]]（World Bank）于 2021 年联合发起的高级别数据协同倡议，旨在构建全球一体化的学生学业测评数据采集与监测架构，为落实 2030 [[UN Sustainable Development Goals|可持续发展目标]]（SDG 4）提供坚实的[[Data Infrastructure|数据基础设施]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2021 年启动，与 2030 年联合国可持续发展议程时间跨度相锚定。
@@ -68,7 +70,7 @@ updated: 2026-09-14
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 通过三大核心国际组织统筹资金、协调测验工具（如结合 [[Multiple Indicator Cluster Surveys|MICS]]、PASEC、SACMEQ 及国家自主评估）并提供统一方法论技术规范，消除跨机构数据割裂，实现对全球南方所有学龄儿童学习成果的定期普查与跨国通约。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
+> 通过三大核心国际组织统筹资金、协调测验工具（如结合 [[Multiple Indicator Cluster Surveys|MICS]]、PASEC、SACMEQ 及国家自主评估）并提供统一方法论技术规范，消除跨机构数据割裂，实现对全球南方所有学龄儿童学习成果的定期普查与跨国[[Commensuration|通约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 确保到 2030 年所有低收入和中等收入国家至少开展两次具备国际可比性的大规模学生学业评估。
@@ -109,7 +111,7 @@ updated: 2026-09-14
 
 > [!indicators]- 评估指标体系
 > - **数据缺口填补率** 拥有 2015 年以来至少一次学业测验数据的低收入国家占比。
-> - **工具通约化程度** 成功实现与国际基准尺度对齐的本土测验工具数量。
+> - **工具[[Commensuration|通约化]]程度** 成功实现与国际基准尺度对齐的本土测验工具数量。
 > - **跨机构协作效率** 避免的三大机构在同一国家重复派驻评估代表团的财政损耗。
 
 > [!finding-cards] 核心实证结论
@@ -135,7 +137,7 @@ updated: 2026-09-14
 > *As a result, there is a surge in coalition building and networking activities among some IOs at the exclusion of others, such as in the Building Evidence in Education (BE2) (World Bank Group, FCDO, USAID, and one rotating UN agency) or the Learning Data Compact (UNESCO, UNICEF, World Bank).*
 
 > [!lessons] 经验教训与启示
-> 数据基础设施本身就是权力体系。多边组织如果仅沉迷于建立自上而下的跨国测验网络，而忽视受援国教师微观教学能力的实质改善，最终只能制造出更加庞大却脱离教学实际的数字官僚泡沫。
+> [[Data Infrastructure|数据基础设施]]本身就是权力体系。多边组织如果仅沉迷于建立自上而下的跨国测验网络，而忽视受援国教师微观教学能力的实质改善，最终只能制造出更加庞大却脱离教学实际的数字官僚泡沫。
 
 ---
 

@@ -70,7 +70,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
-  - "[[PRISMA]]"
   - "[[Effect Size Conversion]]"
   - "[[Standard Error]]"
   - "[[Funnel Plot]]"
@@ -78,6 +77,7 @@ related_methods:
   - "[[Random Assignment]]"
 related_instruments:
   - "[[AMSTAR]]"
+  - "[[PRISMA]]"
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -35,6 +35,7 @@ related_methods:
   - "[[Qualitative Research]]"
 related_persons: []
 related_facts:
+  - "[[American Educational Research Association]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"
 related_arguments:
@@ -51,7 +52,7 @@ title: "Argument_Slavin_2002_ER"
 argument_key: "Argument_Slavin_2002_ER"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -84,7 +85,7 @@ issuing_organization: ""
 
 > [!info] 研究方法
 > - **方法** 政策分析与方法论论证（非实证研究）
-> - **发表于** 2002 年 AERA 年会 Dewitt Wallace-Reader's Digest 杰出讲座
+> - **发表于** 2002 年 [[American Educational Research Association|AERA]] 年会 Dewitt Wallace-Reader's Digest 杰出讲座
 > - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001|NCLB]] 法案文本、OERI 战略计划）、方法论[[Document|文献]]、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment|随机化]]评估经验）
 
 ---
@@ -101,7 +102,7 @@ issuing_organization: ""
 > ### 3. [[Random Assignment|随机化]]实验是最佳方法，但严格匹配实验也是有效的替代方案
 > Slavin 承认随机化实验的困难和昂贵（以 [[Success for All]] 随机化评估为例：最初 USD 30,000/校的激励不够，最终需免费提供项目，约 USD 70,000/校成本），但认为"无论如何通常可以做到"。同时主张**不应单方面要求随机化** 在不同地点由不同研究者重复进行的匹配研究，可能比"一生一次"的随机化研究产生更有意义的结果。从**政治理由**出发，当下应优先投资无可挑剔的随机化实验以修复教育研究的"糟糕声誉"。(pp. 17–18)
 >
-> ### 4. 区分"基于科学研究"与"经严格评估"
+> ### 4. 区分"[[Scientifically Based Research|基于科学研究]]"与"经严格评估"
 > 这是 Slavin 的核心概念区分：[[No Child Left Behind Act 2001|NCLB]] 法案中出现 110 次的"[[Scientifically Based Research|基于科学研究]]"（based on scientifically based research）是一个有问题的标准——任何项目都能找到支持其原则的研究。真正有效的标准应当是项目**本身已经过严格实验评估并被证明有效**。Slavin 用莱特兄弟类比：其他发明家使用与莱特兄弟完全相同的航空科学研究，但他们的飞机从未离开地面。(pp. 18–19)
 >
 > ### 5. 需要独立共识审查机制

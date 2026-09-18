@@ -5,7 +5,7 @@ aliases:
 summary: "用于描述被宣称可在自调节系统中独立于具体时空运作的评价实践的概念，常用于批评抽离情境的普遍化评估逻辑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,7 +15,6 @@ tags:
 - region/denmark
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Visible Learning]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -27,7 +26,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -56,6 +55,6 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] 以 Hattie 的 [[Visible Learning|VL]] 为 Pure Evaluation 的典型案例：138 个[[Variable|变量]]被原子化、去情境化，在[[Meta-meta-analysis|元-元分析]]中汇总为一个全球性的 d>0.4 基准
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] 以 Hattie 的 VL 为 Pure Evaluation 的典型案例：138 个[[Variable|变量]]被原子化、去情境化，在[[Meta-meta-analysis|元-元分析]]中汇总为一个全球性的 d>0.4 基准
 > - 批评的实质：评价从"评估教育"变为"定义教育"，教育对象在评价语言游戏中消失([[Argument_Rømer_2018_EPT|Rømer, 2018, p.3-5]])
 

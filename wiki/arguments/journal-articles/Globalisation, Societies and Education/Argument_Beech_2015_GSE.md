@@ -10,7 +10,7 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
   - "[[Ethnography]]"
+  - "[[Network Ethnography]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
   - "[[Horace Mann]]"
@@ -259,7 +260,7 @@ citation_aliases:
 >
 > **[[Actor-Network Theory|ANT]] 的浅层使用**。对 ANT 的使用相当肤浅，仅作为[[Relational Space|关系性空间]]概念如何克服传统框架局限的例证，并非将 ANT 作为理论方法论万能药推广。
 >
-> **非替代而是补充**。不建议丢弃转移、全球化或[[Policy Borrowing|政策借用]]等概念，而是需要评估它们在多大程度上有助于揭示社会过程中的复杂性，以及在多大程度上被用作逃避复杂性的舒适方式。还有许多其他有趣的方法，如全球[[Ethnography|民族志]](Burawoy et al., 2000)、政策景观概念(Carney, 2009)和网络民族志(Ball & Junemann, 2012)。这些方法的共同点是，教育的全球化可以通过准民族志方法来研究，其中网络化空间通过对特定事件的经验观察被重建和映射，同时在分析中考虑结构性历史问题。
+> **非替代而是补充**。不建议丢弃转移、全球化或[[Policy Borrowing|政策借用]]等概念，而是需要评估它们在多大程度上有助于揭示社会过程中的复杂性，以及在多大程度上被用作逃避复杂性的舒适方式。还有许多其他有趣的方法，如全球[[Ethnography|民族志]](Burawoy et al., 2000)、政策景观概念(Carney, 2009)和[[Network Ethnography|网络民族志]](Ball & Junemann, 2012)。这些方法的共同点是，教育的全球化可以通过准民族志方法来研究，其中网络化空间通过对特定事件的经验观察被重建和映射，同时在分析中考虑结构性历史问题。
 
 ---
 

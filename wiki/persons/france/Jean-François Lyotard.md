@@ -8,7 +8,7 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Positivism]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Commensuration]]"
   - "[[Incommensurability]]"
   - "[[Growth]]"
   - "[[Critical Pedagogy]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Jean-François Lyotard
@@ -122,7 +123,7 @@ updated: 2026-09-17
 >   - **代表著作** 《论述，形象》（*Discours, figure*, 1971）、《力比多经济学》（*Libidinal Economy*, 1974）。
 >   - **关键概念／方法** 形象（Figure）解构、力比多流、欲望强度。
 >   - **阶段转向** 在此阶段利奥塔彻底与辩证唯物主义决裂。在《论述，形象》中，他以形象（figure）反抗概念指称逻辑，拒绝将艺术整合进[[Georg Wilhelm Friedrich Hegel|黑格尔]]式的绝对精神；在《力比多经济学》中，他批判了马克思的“假意识”学说，认为资本主义工业化不仅是剥削，也是力比多强度的无序释放，主张以边缘冲动解构统治结构。
-> - **Late 1970s–1980s — 后现代状况与分歧哲学阶段** 研究后工业社会知识合法性的蜕变，探讨去中心化公正以及无法通约的言说不义。
+> - **Late 1970s–1980s — 后现代状况与分歧哲学阶段** 研究后工业社会知识合法性的蜕变，探讨去中心化公正以及无法[[Commensuration|通约]]的言说不义。
 >   - **代表著作** 《后现代状况》（*The Postmodern Condition*, 1979）、《公正》（*Au juste*, 1979）、《分歧》（*Le Différend*, 1983）。
 >   - **关键概念／方法** [[Performativity|绩效性]]（[[Performativity]]）、[[Grand Theory|元叙事]]怀疑、分歧（The Differend）、[[Incommensurability|不可通约性]]（[[Incommensurability]]）。
 >   - **阶段转向** 从感性的欲望释放转向语言游戏与微观政治。受维特根斯坦“语言游戏”和[[Immanuel Kant|康德]]“判断力批判”启发，在《后现代状况》中诊断了宏大叙事的崩塌和输入输出式绩效性的崛起；在《分歧》中，他定义了“分歧”这一受害者由于缺乏主流话语表达手段而沦为沉默的极端不义，呼吁为不可言说者作证。
@@ -138,7 +139,7 @@ updated: 2026-09-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 后现代时期的标志是**对宏大[[Grand Theory|元叙事]]（如人类解放、科学进步大叙事）的怀疑**。知识的合法化基础已从“是否真实/是否正义”彻底转向以“优化输入产出比”为核心目标的**[[Performativity|绩效性]]（[[Performativity]]）**。在绩效性逻辑的主导下，社会关系和机构运营被强加了绩效“恐怖”（要么可操作，要么消失）。同时，不同的话语系统（语言游戏）之间存在着**不可通约的分歧（The Differend）**，当强势话语强行以自身的规则裁判弱势话语时，将制造出受害者无法诉说和申辩的根本不义。
+> 后现代时期的标志是**对宏大[[Grand Theory|元叙事]]（如人类解放、科学进步大叙事）的怀疑**。知识的合法化基础已从“是否真实/是否正义”彻底转向以“优化输入产出比”为核心目标的**[[Performativity|绩效性]]（[[Performativity]]）**。在绩效性逻辑的主导下，社会关系和机构运营被强加了绩效“恐怖”（要么可操作，要么消失）。同时，不同的话语系统（语言游戏）之间存在着**不可[[Commensuration|通约]]的分歧（The Differend）**，当强势话语强行以自身的规则裁判弱势话语时，将制造出受害者无法诉说和申辩的根本不义。
 
 > [!citation-card]- 关键表述
 > 1. **后现代的定义**

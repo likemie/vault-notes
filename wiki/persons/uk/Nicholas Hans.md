@@ -10,10 +10,10 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，提�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1888"
 died: "1969"
 lifespan: "1888–1969"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Determinism]]"
   - "[[Incommensurability]]"
+  - "[[Commensuration]]"
   - "[[Analytical Stance]]"
   - "[[Construct]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Nicholas Hans
@@ -140,7 +141,7 @@ updated: 2026-09-17
 > - **跨越人文与科学边缘的哲学品格（Borderline Discipline Resembling Philosophy）**
 >   比较教育学坐落于人文科学与自然科学的交界边缘，区别于机械的政策工程学；它依托教育哲学确立价值目的，依托历史学、社会学与经济学奠定经验事实根基。(Hans, 1959: 299)
 > - **质性品质与文化[[Incommensurability|不可通约性]]防线（Qualitative Integrity against Psychometrics）**
->   统计测验与心理测量在跨国应用时受制于文化不可通约性障碍；量化数据绝无法定义教育目标，比较研究的核心仍须锁定在学校体系所依托的深层文化氛围与制度质性品质。(Hans, 1959: 447)
+>   统计测验与心理测量在跨国应用时受制于文化不可[[Commensuration|通约]]性障碍；量化数据绝无法定义教育目标，比较研究的核心仍须锁定在学校体系所依托的深层文化氛围与制度质性品质。(Hans, 1959: 447)
 
 这一质性[[Analytical Stance|批判立场]]在汉斯对具体制度案例的实证剖析中展现出深刻穿透力，集中体现于对极权民族主义的异化批判与对美苏冷战民主神话的双向解构。
 

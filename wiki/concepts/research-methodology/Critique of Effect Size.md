@@ -5,7 +5,7 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_persons:
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Reach]]"
   - "[[Playing for Success]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments:
@@ -75,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-15
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 # Critique of Effect Size
@@ -307,7 +308,7 @@ updated: 2026-09-15
 > [[Argument_Simpson_2019_ERE|Simpson (2019, pp. 102–103)]]引用 [[Education Endowment Foundation|EEF]] 评估报告验证同一干预在不同结果测量上产生截然不同的效应量：
 >
 > - **Merrell & Kasim（2015）语音干预** 新组阅读测试 $d = 0.43$，标准化书面阅读测试 $d = 0.38$，语音评估 $d = 0.23$
-> - **REACH 阅读支持（Sibieta, 2016）** NGRT d=0.33，阅读理解 d=−0.08，阅读准确性 d=0.17——同一干预导致 4 个月进步、2 个月进步和 1 个月退步
+> - **[[Reach]] 阅读支持（Sibieta, 2016）** NGRT d=0.33，阅读理解 d=−0.08，阅读准确性 d=0.17——同一干预导致 4 个月进步、2 个月进步和 1 个月退步
 > - **Nuffield 早期语言干预（Sibieta, Kotecha, & Skipp, 2016）** 主要结果 d=0.27，次要结果 d=0.06
 >
 > "在每个案例中，虽然评估者预先选择了一个作为主要测量，但对同一实验的不同评估可能做出不同的选择并获得截然不同的效应量。"（p. 102）

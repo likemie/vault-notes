@@ -8,10 +8,10 @@ summary: "美国社会学家，世界社会理论创始人与组织行动者理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1935"
 died: ""
 lifespan: "1935–至今"
@@ -34,7 +34,6 @@ related_concepts:
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons:
   - "[[Gary Thomas]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 # John W. Meyer
 
@@ -90,7 +89,7 @@ updated: 2026-09-11
 ### 2015 — *Hyper-Organization: Global Organizational Expansion*（与 Patricia Bromley 合著）
 
 - APA：Bromley, P., & Meyer, J. W. (2015). *Hyper-Organization: Global Organizational Expansion*. Oxford University Press.
-- 核心内容：发展组织能动者身份（organizational actorhood）的[[Luhmann's Systems Theory|系统理论]]，提出四维度模型（自主性、目标导向、问责性、社会嵌入性），将世界社会理论延伸至全球组织扩张的分析([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])。
+- 核心内容：发展组织能动者身份（organizational actorhood）的系统理论，提出四维度模型（自主性、目标导向、问责性、社会嵌入性），将世界社会理论延伸至全球组织扩张的分析([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])。
 - 思想位置：世界社会理论在组织研究领域的系统应用和扩展。
 - 相关概念／理论：[[Organizational Actorhood]]
 

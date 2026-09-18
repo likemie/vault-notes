@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
+  - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Education Resources Information Center
@@ -65,7 +66,7 @@ updated: 2026-09-17
 > 教育资源信息中心（Education Resources Information Center, ERIC）是由美国联邦教育部（U.S. Department of Education）所属[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES）出资赞助并维护的国家级、公益性教育[[Document|文献]]数字图书馆与检索系统，是全球规模最大、历史最悠久的教育学专业文献索引与全文存储枢纽。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, p. 171)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1964 年由美国联邦教育署（U.S. Office of Education）立项设立，作为肯尼迪与约翰逊政府“向贫困宣战”与《1965 年初等与中等教育法》实施的配套信息基础设施，旨在集中整理并向全国开放未正式出版的教育科研报告、政府资助课题与课程实验材料。
+> - **成立时间 / 创设背景** 1964 年由美国联邦教育署（U.S. Office of Education）立项设立，作为肯尼迪与约翰逊政府“向贫困宣战”与《1965 年[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]》实施的配套信息基础设施，旨在集中整理并向全国开放未正式出版的教育科研报告、政府资助课题与课程实验材料。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，依托数字化网络向全球研究者、政策制定者、中小学校长及教师提供完全免费开放的在线检索服务。
 > - **法人属性与经费基础** 属于美国联邦政府资助的公共数字文献服务实体，由联邦教育部 IES 提供全额财政预算拨款并向社会专业机构招标运维。
 > - **核心宗旨与法定职责** 搜集、筛选、索引并提供高质量教育研究与实践文献，打破学术期刊商业付费墙垄断，为[[Evidence-Based Education|循证教育]]决策、[[Systematic Review|系统综述]]与实践教学提供权威可溯源的文献基底。[[Argument_Ginsberg_2024_EP|(Ginsberg et al., 2024, p. 171)]]

@@ -42,6 +42,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Literature Search]]"
   - "[[Research Literacy]]"
   - "[[Research Scope]]"
@@ -97,7 +98,7 @@ title: "Argument_Rickinson_2022_ER"
 argument_key: "Argument_Rickinson_2022_ER"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -150,7 +151,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **跨领域系统综述**<br>Cross-sector Systematic Review | 遵循[[Systematic Review\|系统综述]]原则，检索教育资源信息中心（Education Resources Information Center, ERIC）、Scopus、Web of Science 与 ProQuest 四大数据库，并补充网络检索、专家咨询与引文滚雪球；制定涵盖评估、发展与改善研究使用的检索式；经 Covidence 平台双人初筛与团队多轮协调质评，最终纳入 112 篇核心文献。（pp. 134–136） |
 > | **[[Narrative Synthesis\|叙事综合]]与框架构建**<br>Narrative Synthesis & Framework Construction | 依据 Popay et al. (2006) 规范撰写卫生保健、社会关照、教育与公共政策四大领域的[[Narrative Synthesis\|叙事综合]]文本（各 6,000–12,000 字），并经领域专家外部盲审；第一阶段通过主题分析提炼跨领域共性洞见并拓展先验框架；第二阶段结合教育[[Document\|文献]]展开比较分析，细化各构件内涵。（pp. 136–138） |
-> | **利益相关者多轮咨询**<br>Stakeholder Consultation | 贯穿框架研制全程，与澳大利亚跨州教育行政官员、中小学领导者、教师、证据中介机构以及国际循证专家开展会议、工作坊和结构化书面咨询，检验框架的专业相关性与实践可行性。（p. 138） |
+> | **利益相关者多轮咨询**<br>Stakeholder Consultation | 贯穿框架研制全程，与澳大利亚跨州教育行政官员、中小学领导者、教师、[[Educational Brokerage Agency\|证据中介机构]]以及国际循证专家开展会议、工作坊和结构化书面咨询，检验框架的专业相关性与实践可行性。（p. 138） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

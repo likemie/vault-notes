@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Empiricism]]"
   - "[[Hypothesis]]"
+  - "[[Commensuration]]"
   - "[[Bildung]]"
   - "[[Evaluation Research]]"
   - "[[Transfer Translation Transformation]]"
@@ -124,7 +125,7 @@ updated: 2026-09-18
 > | **证据角色** | 作为概率性资源，结合情境权衡与批判解读 | 作为绝对指令或标准操作规程，强调忠实依从 | 视为外来干扰，选择性忽视或排斥客观数据 |
 > | **教育目的取向** | 聚焦育人价值与长远目的（To What Ends） | 聚焦有效性指标（What Works）与效率 | 依据个人偏好与既有习惯维持教学现状 |
 > | **教师主体角色** | 具有[[Reflexivity\|反思性]]与批判能动性的专业人员（Professional） | 接受数据审计与标准化流水线的操作工人（Technician） | 依赖封闭经验与隐性直觉的个体从业者（Artisan） |
-> | **系统与情境[[Hypothesis\|假设]]** | 学校是开放、复杂、充满主体互动与不确定性的系统 | 学校是封闭、线性、可精确控制的机械系统 | 课堂是个体封闭领地，情境差异不可通约 |
+> | **系统与情境[[Hypothesis\|假设]]** | 学校是开放、复杂、充满主体互动与不确定性的系统 | 学校是封闭、线性、可精确控制的机械系统 | 课堂是个体封闭领地，情境差异不可[[Commensuration\|通约]] |
 > | **决策检验标准** | 实践反思循环与定性定量证据的[[Triangulation\|三角验证]] | 外部考核指标达成度与方案依从度（Fidelity） | 自我感觉良好与无冲突维持 |
 
 > [!term] 核心辨析点

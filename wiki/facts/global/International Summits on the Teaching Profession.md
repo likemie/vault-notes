@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -46,12 +46,13 @@ related_facts:
   - "[[Teaching and Learning International Survey]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[PISA]]"
+  - "[[Every Student Succeeds Act]]"
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 # International Summits on the Teaching Profession
@@ -117,7 +118,7 @@ updated: 2026-09-15
 > [!indicators]- 影响力指标维度
 > - **机制稳定性** 连续举办十余届，成为[[International Education|国际教育]]界历史最悠久、参与规格最高的常设性部长-工会双边峰会。
 > - **政策[[Paradigm|范式]]重塑** 成功将对抗性劳资谈判转化为基于实证研究的理性协商，被 [[OECD]] 评为现代教育治理史上的重大突破。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 211)]]
-> - **国家立法吸收** 参会国先后在《每个学生成功法案》（ESSA 2015）以及欧洲多国教师职业发展规划中直接采纳峰会关于[[Whole Person Education|全人教育]]与分布式领导的共识。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 211, 216)]]
+> - **国家立法吸收** 参会国先后在《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）以及欧洲多国教师职业发展规划中直接采纳峰会关于[[Whole Person Education|全人教育]]与分布式领导的共识。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 211, 216)]]
 
 > [!finding-cards] 核心治理成效
 > - **终结单向官僚治理模式** 证实有组织的教师集体参与绝非教育现代化的阻力，而是保障政策兼具科学性与可操作性的核心支柱。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 211–212)]]

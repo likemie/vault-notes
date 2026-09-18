@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,8 +27,10 @@ tags:
 related_concepts:
   - "[[Global Education Governing Complex]]"
   - "[[Governing by Numbers]]"
+  - "[[Data Infrastructure]]"
   - "[[International Education]]"
   - "[[Reliability]]"
+  - "[[Commensuration]]"
   - "[[International Large-Scale Assessments]]"
 related_theories: []
 related_methods:
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-18
 ---
 
 # UNESCO Institute for Statistics
@@ -65,7 +67,7 @@ updated: 2026-09-12
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> [[UNESCO|联合国教科文组织]]统计研究所（UNESCO Institute for Statistics，UIS）是联合国系统内唯一专责教育、科学、文化与传播领域跨国可比统计数据生产的官方机构，为《2030 年可持续发展议程》第四项教育目标（[[UN Sustainable Development Goals|SDG 4]]）的全球法定监测体系提供权威底层数据支撑，是[[Global Education Governing Complex|全球教育治理复合体]]借以构建"[[Governing by Numbers|数字治理]]"的关键数据基础设施。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
+> [[UNESCO|联合国教科文组织]]统计研究所（UNESCO Institute for Statistics，UIS）是联合国系统内唯一专责教育、科学、文化与传播领域跨国可比统计数据生产的官方机构，为《2030 年可持续发展议程》第四项教育目标（[[UN Sustainable Development Goals|SDG 4]]）的全球法定监测体系提供权威底层数据支撑，是[[Global Education Governing Complex|全球教育治理复合体]]借以构建"[[Governing by Numbers|数字治理]]"的关键[[Data Infrastructure|数据基础设施]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1999 年由联合国教科文组织大会决议通过、在加拿大蒙特利尔正式设立，作为回应 1990 年《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）宣言后国际社会对权威跨国可比教育数据的迫切需求而建立。
@@ -130,7 +132,7 @@ updated: 2026-09-12
 > > - **批评视角** 撒哈拉以南非洲和南亚部分国家的行政统计系统极为薄弱，UIS 数据不得不大量依赖估算与插值，而这些估算本身可能掩盖极度真实的教育危机；统计覆盖最薄弱的恰恰是教育状况最糟糕的最脆弱群体。
 > > - **UIS 立场** 持续推进国家统计能力建设项目，并通过与[[UNICEF|儿童基金会]][[Multiple Indicator Cluster Surveys|MICS]]的联合校准来补充官方行政数据的空白。
 > >
-> > [!axis] 技术标准化的文化通约化代价
+> > [!axis] 技术标准化的文化[[Commensuration|通约化]]代价
 > > 统一 ISCED 分类标准对非西方教育形式的削足适履。
 > >
 > > - **比较教育批评** 将全球各异的教育制度强行纳入西方学段结构的 ISCED 框架，导致伊斯兰宗教学校、土著民族传统知识传授以及非正规劳动力培训等重要教育形式长期处于统计盲区。

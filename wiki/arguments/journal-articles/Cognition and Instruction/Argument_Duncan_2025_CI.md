@@ -33,6 +33,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Emergence]]"
   - "[[Academic Achievement]]"
+  - "[[Learning Progression]]"
   - "[[Metacognition]]"
   - "[[Epistemological Understanding]]"
   - "[[Alternative Hypothesis]]"
@@ -85,7 +86,7 @@ title: "Argument_Duncan_2025_CI"
 argument_key: "Argument_Duncan_2025_CI"
 argument_display_title: "Evaluating the Quality of Argumentation: The Role of Epistemic Ideals and Reliable Processes"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -187,7 +188,7 @@ issuing_organization: ""
 > | **学生 1** | “我认为模型A是正确的，因为证据1中说‘在8小时结束时，科学家在全部20人的肺部都发现了蟑螂粉尘’。”<br><br>==主张==：“我认为模型A是正确的”<br>*证据*：“在8小时结束时，科学家在全部20人的肺部都发现了蟑螂粉尘” | **低阶结构（仅含主张与证据）** 缺乏因果推理桥梁（Reasoning），仅仅摘抄数据，未解释为何肺部存在粉尘即能确立粉尘引发哮喘发作的因果链条。 |
 > | **学生 2** | “模型A更好……因为证据1说20人在含有蟑螂粉尘的房间里待了8小时，结束时全部20人体内都有粉尘，<u>所以如果蟑螂粉尘进入气道，过一段时间就会引起咳嗽或喘息</u>。”<br><br>==主张==：“模型A更好”<br>*证据*：“20人在含有蟑螂粉尘的房间里待了8小时……”<br><u>推理</u>：“所以如果蟑螂粉尘进入气道……” | **高阶结构（包含完整主张、证据与推理）** 提供了明确的生理机制推理，阐明了粉尘微粒刺激气道诱发咳嗽与喘息的因果路径。 |
 
-基于图尔敏论证型式（TAP）或主张-证据-推理（CER）框架的学习进阶（如 Berland & McNeill, 2010; Osborne et al., 2016），正是通过核对推理桥梁等结构要素的有无，准确区分了学生 2 与学生 1 的优劣。
+基于图尔敏论证型式（TAP）或主张-证据-推理（CER）框架的[[Learning Progression|学习进阶]]（如 Berland & McNeill, 2010; Osborne et al., 2016），正是通过核对推理桥梁等结构要素的有无，准确区分了学生 2 与学生 1 的优劣。
 
 #### 2. 伪科学文本对纯结构主义评价的典型反例
 
@@ -301,7 +302,7 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 >
 > *“However, the most convincing piece of evidence in my opinion is evidence four, the Paxton study. This is because it pertains not merely to a variant of HIV, but to HIV itself. 25 people were taken and tested for traces of HIV, ones who had had much exposure to HIV, and yet, 100% of people tested HIV negative, and it seems improbable to me that 100% of the people, who had been exposed so many times to the disease would be completely devoid of it unless there was some sort of a resistant factor... Also, there were 25 people in the study. This is a good amount of people considering all of them showed some resistance... even if they were exposed to high levels of HIV.”*
 
-> [!factors] 学生对 Paxton 研究可靠过程的具体审视维度（Duncan & Chinn, 2025, p. 215）
+> [!factors] 学生对 Paxton 研究可靠过程的具体审视维度（[[Argument_Duncan_2025_CI|Duncan & Chinn, 2025, p. 215]]）
 > - **[[Independent Variable|自变量]][[Operationalization|操作化]]的靶向性与直接性** 肯定研究直接针对人类免疫缺陷病毒（HIV）本体进行因果测试，而非依赖猫科（FIV）或灵长类（SIV）等动物近缘变体，排除了跨物种机制类比带来的[[Construct Validity|构念效度]]折损与推论损耗。
 > - **观测结果的[[Statistical Significance|统计显著性]]与反常度** 敏锐结合受试者“多次高危暴露”的前置背景条件，指出“100% 血液检测呈阴性”在概率上具有极高的反常度（在多次暴露下全员免于感染的随机概率趋近于零），从而强力确立了内在生理抗性因子的必然存在。
 > - **样本量与现象效应强度的适配性** 深刻洞察到[[Sample Size Determination|样本量]]规模诉求与底层现象效应强度的权衡关系：意识到在 25 例样本全员展现抗性表型的高均一性规律下，25 人的样本规模已具备充分的统计检验力与因果解释力，无需盲目迷信大样本。
@@ -369,7 +370,7 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 
 #### 3. 课堂对话中协同析出的野外生态观察五大黄金条件
 
-这一对话过程雄辩地证明：初中生尽管在发言中使用着极其日常、简短的话语（单看句法仅有简单主张和一两句理由，在图尔敏评分中表现平平），但通过协同审议，全班自发推导出了与专业生态学家野外调查完全同构的五大可靠性规范条件（Eberbach & Crowley, 2009; Duncan & Chinn, 2025, p. 218）：
+这一对话过程雄辩地证明：初中生尽管在发言中使用着极其日常、简短的话语（单看句法仅有简单主张和一两句理由，在图尔敏评分中表现平平），但通过协同审议，全班自发推导出了与专业生态学家野外调查完全同构的五大可靠性规范条件（Eberbach & Crowley, 2009; [[Argument_Duncan_2025_CI|Duncan & Chinn, 2025, p. 218]]）：
 
 > [!tension-table] 初中生对话析出的可靠性条件与生态学专业观察规范对齐（p. 218）
 > | 规范观察条件 | 学生对话中的表征 | 生态学专业方法论原理 |

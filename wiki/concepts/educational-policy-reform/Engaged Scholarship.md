@@ -7,7 +7,7 @@ aliases:
 summary: "由安德鲁·范德文与保罗·约翰逊（2006）开创的学术探究范式，主张将理论与实践的脱节界定为知识生产方式问题，通过学者与实践者在复杂现实问题上的平等合作与协同探究，从源头上弥合学术象牙塔与实践现场的制度与认识论鸿沟。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Theoretical Knowledge]]"
   - "[[Phronesis]]"
+  - "[[Commensuration]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
   - "[[Research-Practice Partnership]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Engaged Scholarship
@@ -70,7 +71,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）**指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research|设计研究]]、收集证据并[[Transfer Translation Transformation|转译]]应用的协同[[Knowledge Production|知识生产]][[Paradigm|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源不在于信息能否被顺利传递（[[Knowledge Transfer|知识转移]]问题），也不在于[[Theoretical Knowledge|理论知识]]与[[Phronesis|实践智慧]]的不可通约（知识形态[[Heterogeneity|异质性]]问题），而是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 19)]]
+> **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）**指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research|设计研究]]、收集证据并[[Transfer Translation Transformation|转译]]应用的协同[[Knowledge Production|知识生产]][[Paradigm|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源不在于信息能否被顺利传递（[[Knowledge Transfer|知识转移]]问题），也不在于[[Theoretical Knowledge|理论知识]]与[[Phronesis|实践智慧]]的不可[[Commensuration|通约]]（知识形态[[Heterogeneity|异质性]]问题），而是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 19)]]
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 强调知识生产主体的多元共创与民主化，将一线教育工作者从单纯的“研究受众或数据提供者”提升为“平等的联合探究者”。

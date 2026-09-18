@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 82
+method_related_count: 83
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Learning Gain]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Attrition]]"
   - "[[Preregistration]]"
   - "[[Business as Usual]]"
@@ -272,7 +273,7 @@ updated: 2026-09-18
 ### 清算中心的最低效应阈值
 
 > [!info] 清算中心的最低效应阈值
-> [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]]显示，部分[[Educational Evidence Clearinghouses|教育证据清算中心]]把最低效应量阈值直接写入项目评级规则：[[Promising Practices Network]] 的最高评级要求至少 0.25 个标准差的差异，[[Best Evidence Encyclopedia]] 要求至少 0.20 个标准差的影响。相比之下，[[What Works Clearinghouse]] 的最高项目效果判断要求统计显著正向效果，但不要求平均效果达到特定大小([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–15]])。这说明效应量不仅是研究报告中的统计指标，也会成为证据中介机构划定"推荐/有希望/不推荐"边界的制度阈值。
+> [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]]显示，部分[[Educational Evidence Clearinghouses|教育证据清算中心]]把最低效应量阈值直接写入项目评级规则：[[Promising Practices Network]] 的最高评级要求至少 0.25 个标准差的差异，[[Best Evidence Encyclopedia]] 要求至少 0.20 个标准差的影响。相比之下，[[What Works Clearinghouse]] 的最高项目效果判断要求统计显著正向效果，但不要求平均效果达到特定大小([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–15]])。这说明效应量不仅是研究报告中的统计指标，也会成为[[Educational Brokerage Agency|证据中介机构]]划定"推荐/有希望/不推荐"边界的制度阈值。
 
 ---
 

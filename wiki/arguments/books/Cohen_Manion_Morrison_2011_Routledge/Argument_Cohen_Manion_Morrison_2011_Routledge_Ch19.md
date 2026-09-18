@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -90,6 +90,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
+related_facts:
+  - "[[Research in Schools Evaluation]]"
 status: draft
 created: 2026-07-19
 updated: 2026-09-07
@@ -582,7 +584,7 @@ updated: 2026-09-07
 > [!citation-card]- [[Complexity Theory|复杂性理论]]对[[Virtual World|虚拟世界]]的基础性支撑
 > 真实世界虽然高度复杂，但建立在相对简单的规则之上，这些规则产生了这种复杂性。（Waldrop, 1992; Lewin, 1993; p. 154）
 >
-> *The real world, though highly complex, is built on comparatively simple rules that give rise to such complexity.*
+> *The real world, though highly complex, is built on comparatively simple rules that give [[Research in Schools Evaluation|RISE]] to such complexity.*
 
 > [!citation-card]- Reynolds (1987) boids 模型的核心洞见
 > 复杂、模式化的行为从简单规则中[[Emergence|涌现]]，且模式不能完全以产生它们的初始条件来理解，它们不能被分解或原子化为初始条件，新整体大于部分之和。（pp. 155–157）

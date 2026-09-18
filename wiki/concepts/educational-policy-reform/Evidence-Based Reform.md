@@ -6,7 +6,7 @@ aliases:
 summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 85
+related_count: 86
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Scientifically Based Research]]"
   - "[[Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -137,7 +138,7 @@ updated: 2026-09-18
 > [!boundary]- 概念边界
 > - **不等于[[Evidence-Based Education|循证教育]]（EBE）** 循证教育是指“教育决策应当参考研究证据”的宏观哲学与倡导理念；证据本位改革（EBR）则是推动该理念落地的**法定政策、拨款杠杆与审查管线**。
 > - **不等于[[Evidence-Informed Practice|证据知情实践]]（EIP）** 证据知情实践往往允许教师依据宽泛原则进行自由情境裁剪；而 EBR 强调必须依托经过完整对照实验验证的**具体结构化方案与配套培训**。
-> - **不等于抽象的“基于科学研究”（Research-Based）** 斯莱文（[[Argument_Slavin_2002_ER|Slavin, 2002, p. 19]]）提出著名的“莱特兄弟类比”，指出发明家使用了完全相同的航空物理学原理，但只有莱特兄弟的飞机飞上了天空；仅“基于研究原理”设计的项目在现实课堂中极易因过于繁难或培训不足而失效，只有经过**严格实验评估验证（Proven / Evaluated）**的项目才能作为改革依据。
+> - **不等于抽象的“[[Scientifically Based Research|基于科学研究]]”（Research-Based）** 斯莱文（[[Argument_Slavin_2002_ER|Slavin, 2002, p. 19]]）提出著名的“莱特兄弟类比”，指出发明家使用了完全相同的航空物理学原理，但只有莱特兄弟的飞机飞上了天空；仅“基于研究原理”设计的项目在现实课堂中极易因过于繁难或培训不足而失效，只有经过**严格实验评估验证（Proven / Evaluated）**的项目才能作为改革依据。
 
 ---
 
@@ -236,7 +237,7 @@ updated: 2026-09-18
 > [!dev-timeline] 概念演变
 > - **1974–1980 年代 — 联邦早期技术扩散先驱** 美国联邦教育部设立[[National Diffusion Network|国家扩散网络]]（NDN），通过各州设立“州促进员”网络跨辖区推广 500+ 个经审查的模型，覆盖数万所学校，初步证明了基层学校规模化采纳外部优质方案的可行性。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 6–7)]]
 > - **1997–1998 年 — 联邦萌芽与 CSR 项目** 美国国会通过 Obey-Porter 修正案设立全面学校改革计划（Comprehensive School Reform, CSR），首次将联邦专项资金与采纳经实证检验的全校方案（如 [[Success for All]]）挂钩。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
-> - **2001–2002 年 — 概念奠基与 [[No Child Left Behind Act 2001|NCLB]] 立法** 《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB）全文 110 次提及“科学本位研究”；斯莱文在 [[American Educational Research Association|AERA]] 发表杰出讲座，正式提出“[[Evidence-Based Education|证据本位教育]]改革”理论纲领与开发-评估-推广[[Paradigm|范式]]。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–19)]]
+> - **2001–2002 年 — 概念奠基与 [[No Child Left Behind Act 2001|NCLB]] 立法** 《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB）全文 110 次提及“[[Scientifically Based Research|科学本位研究]]”；斯莱文在 [[American Educational Research Association|AERA]] 发表杰出讲座，正式提出“[[Evidence-Based Education|证据本位教育]]改革”理论纲领与开发-评估-推广[[Paradigm|范式]]。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–19)]]
 > - **2009–2011 年 — 研发管线与跨国旗舰创设** 美国设立 14 亿美元[[Investing in Innovation Program|创新投资项目]]（i3）分层研发管线；英国政府出资 1.25 亿英镑设立[[Education Endowment Foundation|教育捐赠基金会]]（EEF），开启大规模学校现场实验时代。
 > - **2015 年 — [[Every Student Succeeds Act|ESSA]] 四级法定[[Evidence Standards|证据标准]]确立** 美国通过《每一个学生成功法》（ESSA 2015），正式在联邦法典中确立 TIER 1–4 证据等级，并将 [[Title I of the Elementary and Secondary Education Act|Title I]] 改进基金与强/中/有希望证据刚性绑定。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
 > - **2017 年 — 审查中枢上线与跨国扩散** [[Evidence for ESSA]] 评级平台正式上线；中国发布《华东师范大学宣言》，开启大规模教育实证研究倡导。[[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021, p. 14)]]

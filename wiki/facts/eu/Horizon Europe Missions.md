@@ -8,7 +8,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,12 +32,13 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Innovation Network]]"
+  - "[[SMART]]"
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-09-18
 ---
 ## 背景
 
@@ -56,7 +57,7 @@ updated: '2026-05-18'
 > - 抗击癌症（Fighting cancer）
 > - 适应气候变化（Adapting to climate change）
 > - 保护海洋和水域（Protecting our oceans and waters）
-> - 气候中性与智慧城市（Climate-neutral and smart cities）
+> - 气候中性与智慧城市（Climate-neutral and [[SMART]] cities）
 > - 土壤健康与食物（Soil health and food）（Thompson & Parreira do Amaral, 2022, p.12）
 
 ## 实施影响

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_display_title: "Research Methods in Education · Ch28"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Informed Consent]]"
   - "[[Emergence]]"
+  - "[[Assemblage]]"
   - "[[Central Phenomenon]]"
   - "[[Construct]]"
 related_theories:
@@ -322,7 +323,7 @@ updated: '2026-09-08'
 > - **管理与存储** 有序管理与存储数据；编辑、扩展或修订田野笔记；存储并校对数据；整理与分段数据并制作副本。
 > - **搜索与检索** 文本搜索与检索；搜索词或短语并检索文本；搜索以特定（如时间）顺序出现的数据片段。
 > - **[[Coding in Qualitative Research|编码]]与分类** 编码数据并把编码排列为层级（树）与节点；进行初步编码；把编码备忘录纳入同一分类图式；给文本单元附加识别标签；按研究者决定或自然语言划分数据单元。
-> - **比较与关联** 排序、再排序、整理、分类、再分类数据片段以促进持续比较；交叉核对数据能否编入多个类别；统计多类别数据的发生率；从子集（如按性别）检索数据片段；建立编码类别联系；按优选标准过滤、装配与关联数据。
+> - **比较与关联** 排序、再排序、整理、分类、再分类数据片段以促进持续比较；交叉核对数据能否编入多个类别；统计多类别数据的发生率；从子集（如按性别）检索数据片段；建立编码类别联系；按优选标准过滤、[[Assemblage|装配]]与关联数据。
 > - **分析输出** 进行内容分析（频数、意义、序列、地点、人物等）；以不同方式展示数据；显示类别关系（层级、时间、关系、包含、上属）；在最终报告中引用数据。
 > - **理论与协作** 撰写备忘录并记录撰写情境；得出结论并验证结论与假设；生成与检验理论；与其他研究者或参与者沟通。
 

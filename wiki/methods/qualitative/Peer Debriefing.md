@@ -9,7 +9,7 @@ summary: "Lincoln and Guba 建立质性研究可信性的六项核心策略之�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -47,10 +47,12 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+related_facts:
+  - "[[Early Steps]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-23
+updated: 2026-09-18
 ---
 # Peer Debriefing
 
@@ -72,7 +74,7 @@ updated: 2026-06-23
 > [!citation-card]- Lincoln & Guba 对同行汇报的定义
 > 同行汇报是"将自己暴露于一位无利害关系的同行面前，以类似交叉审问的方式，检验诚实性、工作假设并识别研究的下一步"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 167)]]
 >
-> *Peer debriefing is "exposing oneself to a disinterested peer in a manner akin to cross-examination, in order to test honesty, working [[Hypothesis|hypotheses]] and to identify the next steps in the research" (Lincoln & Guba, 1985, p. 308).*
+> *Peer debriefing is "exposing oneself to a disinterested peer in a manner akin to cross-examination, in order to test honesty, working [[Hypothesis|hypotheses]] and to identify the [[Early Steps|Next Steps]] in the research" (Lincoln & Guba, 1985, p. 308).*
 
 ---
 
@@ -101,7 +103,7 @@ Lincoln & Guba (1985, p. 308) 将同行汇报设计为一种特定形式的审�
 > 3. **执行交叉审问式的审议** 审议者的角色类似**交叉审问者（cross-examiner）**——就三个维度提出质疑性问题：
 >    - **诚实性检验（testing honesty）** 研究者的解释是否忠实地反映了数据？是否存在选择性呈现或有意忽略？
 >    - **工作[[Hypothesis|假设]]检验（testing working [[Hypothesis|hypotheses]]）** 研究者形成的初步假设和模式是否在数据中有充分支撑？是否存在过度解释？
->    - **下一步识别（identifying next steps）** 基于审议中暴露的弱点或盲点，研究接下来应该关注什么？
+>    - **下一步识别（identifying [[Early Steps|Next Steps]]）** 基于审议中暴露的弱点或盲点，研究接下来应该关注什么？
 > 4. **记录审议反馈并反省** 基于审议反馈，研究者回溯性地反思分析和解释过程，修正[[Analytic Framework|分析框架]]、重新审视数据或调整研究设计方向
 > 5. **循环迭代**（如需要） 在研究过程中可能进行多轮审议——特别是当分析出现重大修正或新方向[[Emergence|涌现]]时
 

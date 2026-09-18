@@ -6,7 +6,7 @@ summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CE
 type: person
 nationality: "se"
 person_region: "se"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Knowledge Mediation]]"
+  - "[[Commensuration]]"
   - "[[Problem Finding]]"
   - "[[Façade of Rationality]]"
   - "[[Hypothesis]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Jarl Bengtsson
@@ -121,7 +122,7 @@ updated: 2026-09-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 跨国教育治理的权威并不取决于强制性的国际法指令，而取决于国际组织能否建立起一套被成员国技术官僚广泛接受、具备高度通约性与政治防御力的比较统计指标。通过将教育改革的[[Problem Finding|问题界定]]权嵌入指标编制规程中，国际组织得以在看似纯粹的技术合作网络中重塑主权国家的教育发展优先序。正是指标的去语境化与客观科学外观，使数字成为支撑公共政策[[Façade of Rationality|理性表象]]的强韧[[Scaffolding|脚手架]]。
+> 跨国教育治理的权威并不取决于强制性的国际法指令，而取决于国际组织能否建立起一套被成员国技术官僚广泛接受、具备高度[[Commensuration|通约]]性与政治防御力的比较统计指标。通过将教育改革的[[Problem Finding|问题界定]]权嵌入指标编制规程中，国际组织得以在看似纯粹的技术合作网络中重塑主权国家的教育发展优先序。正是指标的去语境化与客观科学外观，使数字成为支撑公共政策[[Façade of Rationality|理性表象]]的强韧[[Scaffolding|脚手架]]。
 
 > [!citation-card] 本特森论指标网络作为国际治理的核心杠杆
 > 如果一个国际组织无法拿出让财政部与首相办公室信服的跨国硬事实，那么教育部门在国家预算分配与长远战略决策中将永远沦为无关痛痒的边缘配角。指标不仅是在描述教育，更是在为民族国家在充满不确定性的未来经济中寻找立足点提供政治脚手架。转引自 [[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 581–583)]]

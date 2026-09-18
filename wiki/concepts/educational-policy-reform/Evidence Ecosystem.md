@@ -9,7 +9,7 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 88
+related_count: 89
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -103,6 +103,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Synthesis]]"
   - "[[BHP Foundation]]"
+  - "[[Evidence for Learning]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
@@ -166,7 +167,7 @@ updated: 2026-09-18
 > - **狭义界定（高层行政裁决权）** 绝大多数教育系统将其严格限定为具有实质决策裁决权的高级行政长官（如司局长、总司长、常务秘书），明确将决策职能与政策执行人员区隔开来。
 > - **广义界定（全系统行政人员）** 部分国家采取大行政观，将教育部所有专业雇员以及行政与立法分支涉及教育事务的所有人员全数纳入考量，导致跨国比较中政策端需求画像存在口径[[Heterogeneity|异质性]]。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 25)]]
 
-> [!taxonomy] 证据中介机构的三重功能画像与治理形态
+> [!taxonomy] [[Educational Brokerage Agency|证据中介机构]]的三重功能画像与治理形态
 > 实证调查显示，证据生态中的中介行动者展现出鲜明的功能分化与体制属性：
 > - **法定双重职能型** 如丹麦国家社会科学研究中心等公资独立机构，被法律明确赋予[[Blue Skies Research|基础研究]]产出与政策促成的双重使命，兼顾证据生产与多端扩散。
 > - **纯转化促成型** 如英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）、智利部属[[School Leadership|学校领导力]]中心等，完全聚焦于实践转化工具箱研发与中介网络搭建，不直接承担基础研究生产。
@@ -401,7 +402,7 @@ updated: 2026-09-18
 > - **2000s 中 — 循证金标准扩散与中介库兴起** 英美等国强力推行[[Positivism|实证主义]]循证运动，设立美国什么是有效研究所（[[What Works Clearinghouse]]，WWC）与新西兰[[Best Evidence Synthesis|最佳证据综合]]（Best Evidence Synthesis，BES），尝试以等级化因果干预库指导决策。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–17)]]
 > - **2010 — 复杂系统模型与嵌套[[Paradigm|范式]]确立** Best & Holmes (2010) 提出[[Knowledge Mobilisation|知识动员]]三代嵌套演进模型（线性模型、关系模型、复杂系统模型），奠定了证据生态系统的理论骨架。[[Argument_Revai_2022_ChangingLandscape|(Best & Holmes, 2010; Révai, 2022, pp. 18–19)]]
 > - **2011–2019 — 系统级中介、双层嵌套与[[Research Schools Network|研究学校网络]]探索** 英国 [[Teaching and Learning Research Programme|TLRP]] 项目（2000–2011）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）研究学校网络相继落地，探索将评估、[[Transfer Translation Transformation|转译]]与实践反思有机统整的生态实践模式。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]] 同时，Gough et al. (2011, 2018, 2019) 历经近十年演进，提出反转供需构图的需求拉力模型，并以虚线确立狭义证据生态与广义社会政治环境的双层嵌套生态架构。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 41–43)]]
-> - **2018–2021 — 跨国教育证据生态扩散与全球南方[[Going Native|本土化]]网络** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）携手[[BHP Foundation|必和必拓基金会]]（BHP Foundation）启动为期 5 年的全球合作项目，支持智利 Summa（拉丁美洲与加勒比证据中心）以及澳大利亚实证学习组织（Evidence for Learning，E4L），将教学与学习工具箱（[[EEF Teaching and Learning Toolkit]]）翻译转译为西班牙语并开展区域因果试验本土化，探索循证中介机构跨国扩散与全球南方国家生态适配路径。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
+> - **2018–2021 — 跨国教育证据生态扩散与全球南方[[Going Native|本土化]]网络** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）携手[[BHP Foundation|必和必拓基金会]]（BHP Foundation）启动为期 5 年的全球合作项目，支持智利 Summa（拉丁美洲与加勒比证据中心）以及澳大利亚实证学习组织（[[Evidence for Learning]]，E4L），将教学与学习工具箱（[[EEF Teaching and Learning Toolkit]]）翻译转译为西班牙语并开展区域因果试验本土化，探索循证中介机构跨国扩散与全球南方国家生态适配路径。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
 > - **2021–2022 — 跨国政策调查与五维诊断体系** [[OECD]] 启动[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，覆盖 29 国 37 个教育系统，正式构建涵盖结构、关系、质量、文化与能力的证据生态系统五维[[Analytic Framework|分析框架]]。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 24–27)]]
 > - **2022 — 跨国证据生态组织图景与政务联结实证测度** [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] 基于 OECD 调查对 29 国 37 个教育系统开展系统性实证诊断，首次绘制出 17 类组织生态位分布、部委网络规模与强度非线性解耦、专业中介角色的行政端集聚，确证了“学术供给过剩、微观转化贫瘠”的中心—外围失衡结构。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 78–96)]]
 > - **2022 — 跨领域知识动员模型生态演进比较** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 横向比照卫生、公共治理与教育领域主流知识动员模型，提炼出构件交互从孤立管道走向双层嵌套生态、行动者定位从一维标签走向多维功能复合体的深层演化轨迹，并提出兼具自适应机制与崇高教育目标的下一代生态构建路径。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 43–46, 51–52)]]

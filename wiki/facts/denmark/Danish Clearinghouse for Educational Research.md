@@ -25,6 +25,7 @@ tags:
   - policy/evidence-informed-policy
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Based Education]]"
   - "[[Research Translation]]"
   - "[[Transfer Translation Transformation]]"
@@ -32,7 +33,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Return on Investment]]"
   - "[[Knowledge Mediation]]"
-  - "[[Educational Brokerage Agency]]"
   - "[[Incubation]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Scientific Method]]"
@@ -66,7 +66,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 丹麦教育研究清算中心（Danish [[Educational Evidence Clearinghouses|Clearinghouse]] for Educational Research, Danish Clearinghouse）是 2006 年由奥胡斯大学（Aarhus University）丹麦教育学院（DPU）与丹麦教育科学部合作设立的国家级证据中介机构，是欧洲大陆较早建立的专业化[[Evidence-Based Education|循证教育]]清算机构之一；在[[OECD|经合组织]]（OECD）十五年纵向追踪中，被确立为因高度依赖短期行政采购合同而受制于政治与预算周期的典型夭折案例([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57, 64–65]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 32]])。
+> 丹麦教育研究清算中心（Danish [[Educational Evidence Clearinghouses|Clearinghouse]] for Educational Research, Danish Clearinghouse）是 2006 年由奥胡斯大学（Aarhus University）丹麦教育学院（DPU）与丹麦教育科学部合作设立的国家级[[Educational Brokerage Agency|证据中介机构]]，是欧洲大陆较早建立的专业化[[Evidence-Based Education|循证教育]]清算机构之一；在[[OECD|经合组织]]（OECD）十五年纵向追踪中，被确立为因高度依赖短期行政采购合同而受制于政治与预算周期的典型夭折案例([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57, 64–65]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, p. 32]])。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2006 年创立于哥本哈根，旨在将英美兴起的循证教育理念引入北欧福利国家语境，打破丹麦教育决策长期依赖地方经验与政治妥协的传统惯性。

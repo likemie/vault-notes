@@ -11,7 +11,7 @@ subtype: policy
 region: "austria"
 fact_region: "austria"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_instruments: []
 related_persons:
   - "[[Herbert Altrichter]]"
 related_facts:
+  - "[[Australian Philanthropic Services]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
@@ -54,7 +55,7 @@ updated: 2026-09-18
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2012 年由奥地利联邦教育、艺术与文化部（Bundesministerium für Unterricht, Kunst und Kultur, BMUKK；后更名为联邦教育部 BMBF）联合各联邦州教育委员会联合颁布。
-> - **适用地区 / 对象** 奥地利全国所有公立与受资助私立普通教育学校，包括普通义务教育学校（Allgemeinbildende Pflichtschulen, APS；涵盖小学 Volksschule、主体中学 Hauptschule、新型中学 Neue Mittelschule）与普通学术高中（Allgemeinbildende Höhere Schulen, [[Academic Health System|AHS]]）。
+> - **适用地区 / 对象** 奥地利全国所有公立与受资助私立普通教育学校，包括普通义务教育学校（Allgemeinbildende Pflichtschulen, [[Australian Philanthropic Services|APS]]；涵盖小学 Volksschule、主体中学 Hauptschule、新型中学 Neue Mittelschule）与普通学术高中（Allgemeinbildende Höhere Schulen, [[Academic Health System|AHS]]）。
 > - **问题背景** 2000 年代初爆发的 [[PISA]] 冲击重创了奥地利传统教育信誉。过去依赖教学大纲与行政检查的事前科层规制无法提升学生客观读写与数学素养，且单校缺乏系统性的自我诊断工具，[[School Inspection|学校督导]]与基层之间缺乏制度化的质量沟通机制。
 > - **制度位置** 作为奥地利落实产出导向教育治理的核心载体，SQA 将宏观国家教育标准（Bildungsstandards）、全国统考数据监测、校本发展规划与新型学校督导整合进统一的质量循环闭合网络。
 
@@ -116,7 +117,7 @@ updated: 2026-09-18
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Output-Oriented Governance]] | Concept | 为 SQA 提供宏观制度合法性与标准调控逻辑的上位教育治理形态。 |
-> | [[School Inspection]] | Concept | SQA 成为新型对话协商与目标协定型学校督导范式的标志性国家制度实践。 |
+> | [[School Inspection]] | Concept | SQA 成为新型[[Dialogue in Education\|对话]]协商与目标协定型学校督导[[Paradigm\|范式]]的标志性国家制度实践。 |
 > | [[Evidence-Based School Development]] | Concept | SQA 制度设计所追求的核心微观学校组织行动范式。 |
 > | [[Dialogue in Education]] | Concept | SQA 中成效与目标协定对话的核心沟通与专业互动载体。 |
 > | [[Herbert Altrichter]] | Person | 主持多项评估 SQA 实施成效与校长领导力转型的奥地利实证学者。 |

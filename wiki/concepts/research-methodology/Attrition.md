@@ -14,10 +14,10 @@ aliases:
 summary: "实验或追踪研究中参与者因各种原因中途脱落导致初始随机等价性被破坏的内部效度威胁，WWC通过整体流失与差异流失二维边界模型度量其潜在因果偏误。"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - subject/research-methodology
   - experiment
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Academic Attrition]]"
+  - "[[Threats to Internal Validity]]"
   - "[[Sampling Error]]"
   - "[[Causality]]"
   - "[[Business as Usual]]"
@@ -36,7 +37,6 @@ related_concepts:
   - "[[Response Bias]]"
   - "[[Initial Teacher Training]]"
   - "[[Hypothesis]]"
-  - "[[Threats to Internal Validity]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -46,6 +46,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
+  - "[[Random Sampling]]"
   - "[[Pre-test and Post-test]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Intent-to-Treat Analysis]]"
@@ -92,14 +93,14 @@ updated: 2026-09-18
 > - **与[[External Validity|外部效度]]的张力** 即使采用统计手段维持了内部效度，严重的流失也意味着干预结论只能外推至“有能力坚持完成干预的特定子群体”，从而损害了生态推广的外部效度（External Validity）。
 > - **真实验向准实验的滑坡点** 一旦 RCT 发生高流失，该研究即刻丧失“无保留达标（Meets Standards Without Reservations）”的顶级资格，必须强制通过基线等值性重新核查方能获得降级达标。
 
-> [!citation-card] 实验死亡率对组别成分与因果效应量的扭曲
+> [!citation-card] 实验死亡率对组别成分与因果[[Effect Size|效应量]]的扭曲
 > 实验死亡率（Experimental Mortality）不仅是样本量的缩减，它从根本上重构了组别成分。如果退出者与保留者存在系统性特征差异，仅分析留守样本（Completers-Only）将产生灾难性的流失偏差，完全扭曲真实的因果[[Effect Size|效应量]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, p. 333)]]
 >
 > *Attrition threatens internal validity because individuals who drop out are often systematically different from those who remain. When dropout rates differ between treatment and control groups, randomization is compromised, requiring rigorous attrition modeling or intention-to-treat adjustments.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Academic Attrition|学业流失 / 学生流失]] 本概念专指实证研究与追踪调查中样本被试中途脱落导致的方法学内部效度威胁；学业流失（Academic Attrition / Student Attrition）则指在校学生因学业失败、制度性惩戒排斥或经济压力脱离学校教育系统的实质性教育社会学与政策现象。
-> - 不等于 [[Sampling Error|抽样误差]] 抽样误差源自随机抽样产生的偶然统计波动，而流失偏差源自被试非随机退出导致的系统性效度偏误。
+> - 不等于 [[Academic Attrition|学业流失]] / 学生流失 本概念专指实证研究与追踪调查中样本被试中途脱落导致的方法学[[Threats to Internal Validity|内部效度威胁]]；学业流失（Academic Attrition / Student Attrition）则指在校学生因学业失败、制度性惩戒排斥或经济压力脱离学校教育系统的实质性教育社会学与政策现象。
+> - 不等于 [[Sampling Error|抽样误差]] 抽样误差源自[[Random Sampling|随机抽样]]产生的偶然统计波动，而流失偏差源自被试非随机退出导致的系统性效度偏误。
 
 ---
 

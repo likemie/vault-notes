@@ -8,7 +8,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -33,13 +33,14 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[Teacher Choices]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: 2026-09-18
 ---
 ## 背景
 
@@ -83,7 +84,7 @@ updated: '2026-05-18'
 >
 > 2. **因果信息的系统性丢失** 当 Playing for Success 的详细评估报告被逐级简化为一个效应量（0.80）、然后一个[[Meta-analysis|元分析]]平均值（0.19 学业 / 0.80 数学）、然后一个元-元分析平均值（0.17）时，所有解释该项目为什么成功的因果信息都消失了——个性化课程设计、情境化学习活动、地位提升效应、一对一辅导、20 小时密集投入。
 >
-> 3. **源研究质量被忽视** Playing for Success 严格来说不是 [[Randomised Controlled Trials|RCT]]——参与者自愿报名后教师选择谁参加（自我选择偏差）。而同一元分析中的其他源研究更不可靠：一项只有 15 名学生样本；两项比较的是武术与传统学校体育（而非体育参与与非参与）；一项是关于按摩和瑜伽中的"自我发现"([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 121]])。
+> 3. **源研究质量被忽视** Playing for Success 严格来说不是 [[Randomised Controlled Trials|RCT]]——参与者自愿报名后[[Teacher Choices|教师选择]]谁参加（自我选择偏差）。而同一元分析中的其他源研究更不可靠：一项只有 15 名学生样本；两项比较的是武术与传统学校体育（而非体育参与与非参与）；一项是关于按摩和瑜伽中的"自我发现"([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 121]])。
 
 ## 关键文件
 

@@ -51,7 +51,7 @@ updated: 2026-09-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国保守派教育学者、[[Meta-analysis|元分析]]专家，同时为福音派传教士与“上帝之爱事工”（God's Love Ministries）创始人。曾任教于美国多所大学，并在共和党内拥有深厚的政策影响力，曾位列唐纳德·特朗普（Donald Trump）政府教育部长候选人名单中。
-> - **为什么值得建条目** 他是《[[Visible Learning|VL]]》（Visible Learning）中被引用率最高的元分析作者之一（共有 8 项元分析被[[John Hattie|约翰·哈蒂]]（John Hattie）采纳）。其关于[[Whole Language|全语言]]（Whole Language）的元分析结论（d = -0.65）引发了学术界的激烈交锋，并成为“阅读战争”（Reading Wars）与保守派教育政策制定的核心实证支柱之一。
+> - **为什么值得建条目** 他是《VL》（[[Visible Learning]]）中被引用率最高的元分析作者之一（共有 8 项元分析被[[John Hattie|约翰·哈蒂]]（John Hattie）采纳）。其关于[[Whole Language|全语言]]（Whole Language）的元分析结论（d = -0.65）引发了学术界的激烈交锋，并成为“阅读战争”（Reading Wars）与保守派教育政策制定的核心实证支柱之一。
 > - **代表贡献** 主持了针对低社会经济地位（Socioeconomic Status, SES）学童的全语言元分析（Jeynes & Littell, 2000，见 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145-146]]），并对“纯粹全语言”（Pure Whole Language）提出了极具争议的划界与统计。
 > - **阅读边界** 本页关注他在全语言评估中的方法论特征、数据争议、以及其学术研究背后的宗教与政治意识形态偏见。
 
@@ -85,7 +85,7 @@ updated: 2026-09-11
 > [!concept-lens]- 思想透镜
 > - **问题意识** 如何通过可量化的[[Meta-analysis|元分析]]方法，评估宗教学校、传统教学法和家庭结构对弱势学童教育表现的促进作用，并将其转化为可供新保守主义政府采纳的政策依据。
 > - **概念工具** 全语言的多级分类法：纯粹（Pure）、特定（Specific）、广泛（Broad）、折衷（Eclectic）；“纯粹全语言”的三大判准（无文本切片与改编、无全班统一任务、无孤立技能操练）（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]]）。
-> - **研究影响** 其数据被[[John Hattie|约翰·哈蒂]]直接整合进《[[Visible Learning|VL]]》中，直接促成了对全语言“低效”的科学判决，但也因为数据质量与作者背景而饱受方法论专家的质疑。
+> - **研究影响** 其数据被[[John Hattie|约翰·哈蒂]]直接整合进《VL》中，直接促成了对全语言“低效”的科学判决，但也因为数据质量与作者背景而饱受方法论专家的质疑。
 
 ---
 

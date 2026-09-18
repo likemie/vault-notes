@@ -109,7 +109,7 @@ updated: 2026-09-17
 >   - **Tier 2 中等证据（Moderate Evidence）** 至少 1 项设计良好、实施良好的[[Quasi-Experimental Designs|准实验设计]]（Quasi-[[Experimental Research|experimental design]], QED）匹配研究；
 >   - **Tier 3 有希望证据（Promising Evidence）** 至少 1 项控制选择偏误的[[Correlational Research|相关性研究]]；
 >   - **Tier 4 展示合理逻辑（Demonstrates a Rationale）** 具备研究支持的明确[[Logic Model|逻辑模型]]并正在开展严格评估。
-> - **约束机制** 各州必须设立 7% 的 Title I 学校改进专项基金（Section 1003）；全州学业表现处于倒数 5% 的 CSI 学校申请资助时，**必须且只能采购符合 Tier 1–3 证据要求的干预项目**；若仅依赖理论模型（Tier 4）则无法获得此类专项资助。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]; [[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 596)]]
+> - **约束机制** 各州必须设立 7% 的 Title I 学校改进专项基金（Section 1003）；全州[[Academic Achievement|学业表现]]处于倒数 5% 的 CSI 学校申请资助时，**必须且只能采购符合 Tier 1–3 证据要求的干预项目**；若仅依赖理论模型（Tier 4）则无法获得此类专项资助。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]; [[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 596)]]
 
 > [!contrast-table] ESSA 法定四级[[Evidence Standards|证据标准]]技术门槛体系
 > | 等级 | 英文法定层级 | 核心研究设计要求 | 最低研究量要求 | 法定准入效力 |
@@ -141,9 +141,9 @@ updated: 2026-09-17
 ## 时间线
 
 > [!dev-timeline] 政策推进历程
-> - **2015 年 12 月 — 国会两党通过与总统签署** 历经整整一届国会两会期（2 年以上）的长期立法博弈，参众两院以跨党派压倒性多数通过 ESSA，奥巴马总统签署生效，正式终结 NCLB 规制型问责时代。法案漫长的再授权审议充分展现了宏观政策时间系统（[[Policymaking Chronosystem]]）的高可预期性与长周期特征。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41, 46)]]
+> - **2015 年 12 月 — 国会两党通过与总统签署** 历经整整一届国会两会期（2 年以上）的长期立法博弈，参众两院以跨党派压倒性多数通过 ESSA，奥巴马总统签署生效，正式终结 [[No Child Left Behind Act 2001|NCLB]] 规制型问责时代。法案漫长的再授权审议充分展现了宏观政策时间系统（[[Policymaking Chronosystem]]）的高可预期性与长周期特征。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41, 46)]]
 > - **2016 年 — 联邦证据指南出台** 联邦教育部发布 ESSA 循证规定非约束性实施指南，明确界定 TIER 1–4 的统计与设计门槛，确立 强效清算中心（[[What Works Clearinghouse]], WWC） 与 [[Evidence for ESSA]] 等平台作为国家证据判定中枢。
-> - **2017 年 — 国会种族分层成绩数据收集规则博弈** 国会保守派议员发起立法动议，试图废除奥巴马政府在 ESSA 规章中强制要求各州收集并报告按种族细分的学生学业成就数据的条款；该动议遭到教育科研界与民权团体的强力抵制，生动展现了弱势群体实证数据本身就是政策政治博弈的核心焦点。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]; Schultz (2017)
+> - **2017 年 — 国会种族分层成绩数据收集规则博弈** 国会保守派议员发起立法动议，试图废除奥巴马政府在 ESSA 规章中强制要求各州收集并报告按种族细分的学生[[Academic Achievement|学业成就]]数据的条款；该动议遭到教育科研界与民权团体的强力抵制，生动展现了弱势群体实证数据本身就是政策政治博弈的核心焦点。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]; Schultz (2017)
 > - **2017–2018 年 — 州级综合计划审批与标准扩围** 各州陆续提交 ESSA 州级实施计划。亚利桑那州、路易斯安那州、明尼苏达州、马里兰州、内华达州、北卡罗来纳州与罗德岛州等主动将[[Evidence Standards|证据标准]]扩展至**州级自有教育财政拨款**与项目采购目录。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]; [[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 428)]]
 > - **2019 年至今 — 循证常态化治理与产业链成熟** 推动全美形成由大学智库、第三方评估机构、学区与课程出版商构成的[[Evidence-Based Education|循证教育]]产业链，倒逼服务商主动开展大样本第三方[[Randomised Controlled Trials|随机对照试验]]。
 

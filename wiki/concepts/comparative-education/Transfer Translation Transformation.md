@@ -9,7 +9,7 @@ aliases:
 summary: "Robert Cowen（2009）提出、Jason Beech（2009）与 Steiner-Khamsi 等人（2024）深化的跨国教育知识流动分析框架，追踪教育思想在空间转移（太空门时刻）、政策转译（变色龙过程）与权力压缩转化（形态变质与制度化）中的演变，并在数字治理 2.0 中揭示转移空间的自指性转译与政策周期政治过滤机制。"
 type: concept
 domain: "comparative-education"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Chain of Evidence]]"
   - "[[Policy Brokerage]]"
+  - "[[Policy Mobility]]"
   - "[[Media Logic]]"
   - "[[Mediatised Governance]]"
   - "[[Variable]]"
@@ -87,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Transfer Translation Transformation
@@ -243,7 +244,7 @@ updated: 2026-09-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **3T 阶段演进与形态重塑** | 追踪知识移动中太空门时刻、变色龙过程与权力压缩变形 | 比较教育学、政策流动 | [[Argument_Cowen_2009_CE\|Cowen (2009b, p. 255)]]; [[Argument_Beech_2009_CE\|Beech (2009, p.348)]] |
+> | **3T 阶段演进与形态重塑** | 追踪知识移动中太空门时刻、变色龙过程与权力压缩变形 | 比较教育学、[[Policy Mobility\|政策流动]] | [[Argument_Cowen_2009_CE\|Cowen (2009b, p. 255)]]; [[Argument_Beech_2009_CE\|Beech (2009, p.348)]] |
 > | **地缘政治与制度移植** | 分析国际关系范式与强制占领下的差异化转化 | 比较教育史、后殖民研究 | [[Argument_Klerides_2023_CE\|Klerides (2023, pp.422–427)]]; [[Argument_Cowen_2009_CE\|Cowen (2009b, p. 257)]] |
 > | **危机社会中的解耦与重组** | 揭示民国与建国后中国对外来思想的去政治化折算与三重变形 | 中国教育思想史、跨国转移 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024, pp.614–623)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.79–93)]] |
 > | **现代评估时代的策略性借用与逆向形变** | 揭示以 PISA 样板为合法化工具的[[Policy Borrowing\|政策借用]]在本土政治与[[Media Logic\|媒介逻辑]]压缩下的形态变质 | 现代跨国比较、[[Mediatised Governance\|媒介化治理]]、实证政策分析 | [[Argument_Grey_2018_CE\|Grey & Morris (2018, pp. 116–124)]] |

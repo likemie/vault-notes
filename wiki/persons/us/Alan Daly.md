@@ -9,7 +9,7 @@ summary: "美国加利福尼亚大学圣迭戈分校教育研究系杰出教授�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -53,12 +53,13 @@ related_persons:
   - "[[Toby Greany]]"
 related_facts:
   - "[[Research Learning Communities]]"
+  - "[[American Educational Research Association]]"
 related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Alan Daly
@@ -88,7 +89,7 @@ updated: 2026-09-16
 > - **1990s–2000s** 早期曾长期担任美国公立基础教育阶段的教师、中小学校长及学区管理官员，积累了极其深厚的教育一线组织治理与危机应对经验；后于加利福尼亚大学圣塔芭芭拉分校（UCSB）获得教育学博士学位。
 > - **2006–至今** 加盟加利福尼亚大学圣迭戈分校（UCSD）教育研究系，历任助理教授、副教授、教授、系主任，现任杰出教授，创立了国际知名的教育网络与系统改进研究团队。
 > - **2010** 由哈佛教育出版社（Harvard Education Press）出版里程碑式著作《社会网络理论与教育变革》（*Social Network Theory and Educational Change*），确立了[[Network Analysis|社会网络分析]]在教育政策与学校改进研究中的主导[[Paradigm|范式]]地位。
-> - **2012–2018** 担任美国教育研究协会（AERA）多个专业委员会重要职务；与伦敦大学学院教育研究院（UCL IOE）学者展开跨国密切合作，深度参与英格兰[[Research Learning Communities|研究学习共同体]]（RLC）项目的研究设计与工具开发（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]）。
+> - **2012–2018** 担任美国教育研究协会（[[American Educational Research Association|AERA]]）多个专业委员会重要职务；与伦敦大学学院教育研究院（UCL IOE）学者展开跨国密切合作，深度参与英格兰[[Research Learning Communities|研究学习共同体]]（RLC）项目的研究设计与工具开发（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]）。
 
 ---
 

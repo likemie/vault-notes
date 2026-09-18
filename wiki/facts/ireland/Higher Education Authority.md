@@ -4,7 +4,7 @@ aliases:
   - 爱尔兰高等教育局
   - 爱尔兰高教局
   - An tÚdarás um Ard-Oideachas
-summary: 爱尔兰法定高等教育战略规划、经费拨款与质量监管机构，负责统筹全爱尔兰公立大学与理工学院，发起爱尔兰学生投入调查（ISSE）并统筹推进高教国家战略。
+summary: "爱尔兰法定高等教育战略规划、经费拨款与质量监管机构，负责统筹全爱尔兰公立大学与理工学院，发起爱尔兰学生投入调查（ISSE）并统筹推进高教国家战略。"
 type: fact
 subtype: organization
 region: ireland

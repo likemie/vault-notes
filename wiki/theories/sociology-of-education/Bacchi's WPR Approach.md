@@ -9,10 +9,10 @@ aliases:
 summary: "Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/policy-analysis
   - sociology-of-education
@@ -20,6 +20,7 @@ tags:
   - methodology
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Policy Mobility]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Theoretical Standpoint]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Bacchi's WPR Approach
@@ -54,7 +55,7 @@ updated: 2026-09-17
 > [!theory-position] 理论定位
 > WPR方法的核心前提是，政策并非对既定问题的中性回应，而是主动参与了问题的建构。政策文本中的“问题”并非客观存在，而是通过特定的表征方式被生产出来的。分析者应当追问的不是“如何解决这个问题”，而是“这个问题被表征为什么”（Bacchi, 2009）。
 > 
-> 该方法在理论上与批判政策社会学（Critical Policy Sociology）紧密关联，专注于质疑权力分配、[[Knowledge Production|知识生产]]以及政策流动（policy mobilities）背后的意图与机制（Ozga, 2021）。
+> 该方法在理论上与批判政策社会学（Critical Policy Sociology）紧密关联，专注于质疑权力分配、[[Knowledge Production|知识生产]]以及[[Policy Mobility|政策流动]]（policy mobilities）背后的意图与机制（Ozga, 2021）。
 
 > [!claim] 核心主张
 > 政策是通过将某些状况界定为“问题”来行使治理权力的。一旦某种“问题表征”获得官方话语的权威地位，它就会主动建构社会成员的认知，并合理化特定的制度化干预手段（Bacchi, 2009）。
@@ -124,4 +125,4 @@ updated: 2026-09-17
 > [!ref-table] [[Correlational Research|相关研究]]索引
 > | 研究 | 应用方式说明 | 来源 |
 > |---|---|---|
-> | [[Argument_Skourdoumbis_2024_AER]] | 运用 WPR 框架分析《强劲开端》报告，揭示政策如何将教师短缺危机表征为“[[Initial Teacher Training\|ITE]] 培训质量缺陷”，并系统性地对“教师过度工作量”这一事实保持沉默。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]] |
+> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]] | 运用 WPR 框架分析《强劲开端》报告，揭示政策如何将教师短缺危机表征为"[[Initial Teacher Training\|ITE]] 培训质量缺陷"，并系统性地对"教师过度工作量"这一事实保持沉默。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]] |

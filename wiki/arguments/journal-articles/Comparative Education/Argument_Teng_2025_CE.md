@@ -10,7 +10,7 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Causality]]"
   - "[[Value Neutrality]]"
+  - "[[Academic Attrition]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -191,7 +192,7 @@ source_language: en
 > | | School 6 | 712 | 215 | 30.2% |
 > | | **乡镇小计** | **4602** | **1970** | **42.8%** |
 
-> [!ref-table]- 表 3：农村学校的学龄学生流失与保留率 (2017/2018 学年)
+> [!ref-table]- 表 3：农村学校的学龄[[Academic Attrition|学生流失]]与保留率 (2017/2018 学年)
 > | 学校名称 | 实际在校生 (人) | 服务学区内学龄人口 (人) | 本地留守生占比 (%) | 开设年级 | 距县城距离 | 距乡镇距离 |
 > | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 > | School 7 | 272 | 513 | 53.0% | 1–6 | 66.1 km | 11.0 km |

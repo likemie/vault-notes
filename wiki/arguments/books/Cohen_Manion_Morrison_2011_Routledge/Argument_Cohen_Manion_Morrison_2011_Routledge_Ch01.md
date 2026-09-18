@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 124
+argument_related_count: 125
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Evaluation Research]]"
   - "[[Causality]]"
+  - "[[Commensuration]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
   - "[[Creativity]]"
@@ -349,7 +350,7 @@ updated: 2026-09-09
 
 #### 2.3 不可通约性与“范式战争”
 
-在范式转换的深层机理上，库恩提出了不可通约性的核心命题：
+在范式转换的深层机理上，库恩提出了不可[[Commensuration|通约]]性的核心命题：
 
 > [!def] 不可通约性（Incommensurability）
 > 不同范式之间不存在中立、公认的外部评价标准或比较尺度。选择一种范式，意味着采纳了一整套关于实在本质、知识构成与探究规程的根本信念系统，因而研究者无法在同一认知时刻同时持有两套彼此冲突的范式（Kuhn, 1962）。

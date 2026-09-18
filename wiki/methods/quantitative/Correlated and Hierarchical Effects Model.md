@@ -9,7 +9,7 @@ summary: "用于同时处理元分析中多重测量相关的效应量（相关�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Accounts]]"
+  - "[[Hierarchical Linear Model]]"
   - "[[Robust Variance Estimation]]"
   - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-12
+updated: 2026-09-18
 ---
 
 # Correlated and Hierarchical Effects Model
@@ -69,7 +70,7 @@ updated: 2026-09-12
 
 ## 方法定位：解决的核心问题
 
-> [!contrast-table] 传统模型 vs 独立多水平模型 vs CHE 工作模型
+> [!contrast-table] 传统模型 vs 独立[[Hierarchical Linear Model|多水平模型]] vs CHE 工作模型
 > | 维度 | 传统两水平[[Meta-analysis\|元分析]]模型 | 纯层级效应模型（Hierarchical） | 相关与层级效应工作模型（CHE） |
 > |---|---|---|---|
 > | **依赖性[[Hypothesis\|假设]]** | 假设所有[[Effect Size\|效应量]]完全独立 | 仅假设效应量嵌套于研究中，假设研究内无额外相关 | **同时建模研究内测量相关（$\rho$）与多层嵌套（$\tau_3^2, \tau_2^2$）** |

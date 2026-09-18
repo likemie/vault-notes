@@ -7,7 +7,7 @@ summary: "利用学年 vs 暑假作为自然实验的准实验研究设计，比
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Counterfactual]]"
   - "[[Hypothesis]]"
+  - "[[Floor and Ceiling Effects]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -92,7 +93,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 等距量表的假设
-> 比较起点低（A 组）和起点高（B 组）的增长需要等距量表（interval-level scales），即底部的增长与顶部的增长可比较（如同等距台阶）。某些较好的认知技能量表可能接近此要求，能减少困扰纵向比较的天花板效应问题，但该领域需要更多讨论，或许更大程度使用不依赖等距假设的非参数方法（Ho & Reardon, 2011）([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.4–5]])。
+> 比较起点低（A 组）和起点高（B 组）的增长需要等距量表（interval-level scales），即底部的增长与顶部的增长可比较（如同等距台阶）。某些较好的认知技能量表可能接近此要求，能减少困扰纵向比较的[[Floor and Ceiling Effects|天花板效应]]问题，但该领域需要更多讨论，或许更大程度使用不依赖等距假设的非参数方法（Ho & Reardon, 2011）([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.4–5]])。
 
 
 > [!warning] 暑假作为[[Counterfactual|反事实]]的效度

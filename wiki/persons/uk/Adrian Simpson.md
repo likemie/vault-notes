@@ -150,7 +150,7 @@ updated: 2026-09-11
 >
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p.118)]]将 Simpson 的三大系统性偏差总结为效应量批判的核心构件，并整合进其三级失真框架——详见 [[Argument_Wrigley_2019_ERE]]
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]明确引用 Simpson 的论证作为其"[[Meta-meta-analysis|元-元分析]]在教育政策中绝对没有任何角色"断言的方法论基础，同时肯定 Simpson 并非"把婴儿和洗澡水一起倒掉"——"Simpson is careful not to throw the baby out with the bathwater"——详见 Argument_Wiliam_2019_ERE
-> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]在[[Whole Language|全语言]]案例的细读审查中运用 Simpson 效应量不可比性的论证，揭示 [[Visible Learning|VL]] 中分类错误和选择性排除的模式——详见 [[Argument_OConnor_2020_AJLL]]
+> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]在[[Whole Language|全语言]]案例的细读审查中运用 Simpson 效应量不可比性的论证，揭示 VL 中分类错误和选择性排除的模式——详见 [[Argument_OConnor_2020_AJLL]]
 >
 > **对政策工具的直接影响** Simpson 的批判直接适用于 [[EEF Teaching and Learning Toolkit]] 和 [[Visible Learning]]——两者都以效应量为基本[[Unit of Analysis|分析单位]]，而效应量本身已被论证为不可靠的测量指标。他的论证从技术层面支持了 Wrigley 的方法论批判和 Biesta 的哲学批判，使 EBE 批判形成了哲学-方法论-制度的完整框架。
 

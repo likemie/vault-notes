@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 77
+argument_related_count: 78
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Cultural Nationalism vs. Political Nationalism]]"
   - "[[Factorial Interpretive Framework]]"
   - "[[Incommensurability]]"
+  - "[[Commensuration]]"
   - "[[Analytical Stance]]"
   - "[[Liberal Education]]"
   - "[[Enlightenment]]"
@@ -364,7 +365,7 @@ updated: 2026-09-07
 > - **跨越人文与科学边缘的哲学品格（Borderline Discipline Resembling Philosophy）**
 >   比较教育学坐落于人文科学与自然科学的交界边缘，区别于机械的政策工程学；它依托教育哲学确立价值目的，依托历史学、社会学与经济学奠定经验事实根基。（Hans, 1959: 299; pp.39–40）
 > - **质性品质与文化[[Incommensurability|不可通约性]]防线（Qualitative Integrity against Psychometrics）**
->   统计测验与心理测量在跨国应用时受制于文化不可通约性障碍；量化数据绝无法定义教育目标，比较研究的核心仍须锁定在学校体系所依托的深层文化氛围与制度质性品质。（Hans, 1959: 447; p.41）
+>   统计测验与心理测量在跨国应用时受制于文化不可[[Commensuration|通约]]性障碍；量化数据绝无法定义教育目标，比较研究的核心仍须锁定在学校体系所依托的深层文化氛围与制度质性品质。（Hans, 1959: 447; p.41）
 
 这一质性[[Analytical Stance|批判立场]]在汉斯对具体制度案例的实证剖析中展现出深刻穿透力，尤其体现在对极权民族主义的异化批判与对美苏冷战民主神话的双向解构之中：（pp.50–51）
 
