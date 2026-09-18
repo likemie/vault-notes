@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Educational Evidence Clearinghouses",
-      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
-    },
-    {
       "basename": "Education Endowment Foundation",
       "path": "wiki/facts/uk/Education Endowment Foundation.md"
+    },
+    {
+      "basename": "EPPI-Centre",
+      "path": "wiki/facts/uk/EPPI-Centre.md"
+    },
+    {
+      "basename": "Educational Evidence Clearinghouses",
+      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
     },
     {
       "basename": "Evidence for Learning",
@@ -195,10 +199,6 @@
     {
       "basename": "Institute for Educational Quality Improvement",
       "path": "wiki/facts/germany/Institute for Educational Quality Improvement.md"
-    },
-    {
-      "basename": "Argument_Hartong_2018_GSE",
-      "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Hartong_2018_GSE.md"
     }
   ],
   "omittedPaths": [],
