@@ -66,6 +66,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Rowe_2022_IJER]]"
+  - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Hartong_2018_GSE]]"
 confidence: high
 status: stable
@@ -178,6 +179,16 @@ updated: 2026-09-18
 
 ---
 
+### 命题五　权力是异质网络隐蔽运作的装配效应，国家通过制度拼装与慈善资本共生
+
+> [!concept-lens] 隐蔽装配效应与国家-资本共生机制
+> 探讨权力如何摆脱传统单一主权实体的宏观压制模型，作为异质行动者网络持续调配与制度特许的隐蔽效果而生成。
+
+> [!claim] Rowe, E.
+> **权力作为装配效应与异质制度拼装** 埃玛·罗威（Emma Rowe）深化装配理论对国家与资本关系的考察，提出权力不是预先存在并集中于国家顶层的实体，而是异质行动者网络经过长程动员、转译与法律修补后显现的“隐蔽装配效应”（concealed effect of assemblage）。新自由主义国家并非被动受害者或纯粹让渡主权，而是作为核心构件主动参与装配：国家通过量身定制税法豁免（如为 [[Australian Schools Plus|澳大利亚学校加计划]] 专门修订 DGR1 税法条款）、修改公共治理与问责规则、创设受《公司法》保护而非传统行政法约束的担保有限公司（如 [[Australian Education Research Organisation|AERO]]），以及开展定向保密招标（如将 1500 万澳元公立学校领导力培训专向委托给 [[Social Ventures Australia|SVA]]），在政策生态中主动为风险慈善和营利性咨询机构开辟合法空间。这种装配使商业逻辑与资本截留无缝融入公共教育肌理，并在表面上以“公私合作伙伴关系”与中立循证的修辞黑箱化，彻底规避了议会监督与公民社会的民主审议。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 162–165)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -187,6 +198,7 @@ updated: 2026-09-18
 > | **去政治化与隐形权力命题** | 装配的客观技术外表遮蔽非公立资本与跨国企业规约力量的落地 | 数字化校园硬件落地、智库游说与国家科研外包治理 | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]]; Latour (2002) |
 > | **结构脆断与建构暴露命题** | 非人类构件失灵或法律档案解密会导致黑箱化权力网络瞬间解组 | 课堂教学技术故障、课程资源更迭与政策审计透明度危机 | Fenwick & Edwards (2010); Callon (1986) |
 > | **拓扑折叠与跨尺度重组命题** | 数据基础设施与计算中心将远处标准折叠进微观教学以跨越行政边界 | 联邦制多级治理、全国性数据监测网络与数字化自适应教学平台 | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] |
+> | **隐蔽装配效应与国家共生命题** | 权力是异质网络编织的生成性效果，国家通过法规特许与资本形成共生装配 | 慈善资本主义、税法破例特许、非公开政府招标与准政府中介机构 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] |
 
 ---
 
@@ -197,7 +209,7 @@ updated: 2026-09-18
 > - **1990–2000 年代 — 科学技术学唯物主义重构与装配理论化** 约翰·劳（John Law, 1992）提出关系物质性，强调耐用材料对社会秩序的固化功能；[[Bruno Latour|布鲁诺·拉图尔]]（Bruno Latour, 2005）提出“重新组装社会”（Reassembling the Social）；曼努埃尔·德兰达（Manuel DeLanda, 2006）出版《装配理论与社会复杂性》，系统论证构件的“外在性关系”哲学。
 > - **2010 年代 — 教育微观空间与数字化物质性转向** 塔拉·芬威克（Tara Fenwick）等将装配引入教育实践（Fenwick & Edwards, 2010）；杰森·比奇（[[Jason Beech]]）与阿托普洛斯（[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]）利用装配概念分析阿根廷笔记本电脑配送项目，确立课堂作为社会-物质装配体的分析[[Paradigm|范式]]。
 > - **2018 年 — 联邦多级治理与政策[[Topological Spatialisation|拓扑学重组]]** [[Sigrid Hartong|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE|Hartong, 2018]]）将装配理论与[[Topological Spatialisation|拓扑空间化]]结合，深入考察德国在 [[PISA]] 震荡后建立的绩效[[Data Infrastructure|数据基础设施]]与[[Institute for Educational Quality Improvement|IQB]][[Center of Calculation|计算中心]]，揭示法律条文、统计模型与在线题库构成的社会-物质复合体如何实现跨尺度的政策重组。
-> - **2020 年代至今 — 批判政策社会学与国家无生命客体装配** 政策社会学者将装配拓展至全球教育治理与国家中介研究。拉德希卡·戈鲁尔（Radhika Gorur, 2016）解构 [[PISA]] 测评装配；埃玛·罗威（Emma Rowe, 2022）提出“无生命客体的装配”（assemblage of inanimate objects），借助防野狗围栏隐喻，揭示公司法、章程与证据量规如何装配成掩盖跨国[[Venture Philanthropy|风险慈善]]与私营咨询垄断的国家证据中介。
+> - **2020 年代至今 — 批判政策社会学与国家-慈善资本共生装配** 政策社会学者将装配拓展至全球教育治理与国家中介研究。拉德希卡·戈鲁尔（Radhika Gorur, 2016）解构 [[PISA]] 测评装配；埃玛·罗威（Emma Rowe, 2022, 2023）提出“无生命客体的装配”（assemblage of inanimate objects）与“国家-慈善资本共生装配”，借助防野狗围栏隐喻与中介实体映射，揭示税法、公司法、闭门竞标与专家委员会如何装配成掩盖跨国[[Venture Philanthropy|风险慈善]]掠夺公共资源与重构知识生产的隐蔽权力机器。
 
 ---
 
@@ -225,13 +237,14 @@ updated: 2026-09-18
 
 ## 实证数据
 
-> [!ref-table]- 国际代表性教育装配案例与物质构成对照（2010–2022）
+> [!ref-table]- 国际代表性教育装配案例与物质构成对照（2010–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 装配案例与国家情境 | 核心分析构件（人与非人类） | 耐用材料与外在形式 | 黑箱化去政治化表象 | 揭露的真实权力与资本网络 |
 > |---|---|---|---|---|---|
 > | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 监测战略、[[Institute for Educational Quality Improvement\|IQB]] 与 [[Vergleichsarbeiten\|VERA]], 德国 | 联邦与州教育部官员、心理测量学者、16 州公立学校、在线试题平台、FDZ 数据库 | KMK 总体战略决议、[[Item Response Theory\|IRT]] 标定题库、去排名保密法条、数字任务平台 | 尊重各州文化主权与坚持去排名的中立质量诊断与科学服务 | 通过标准试卷与题库平台在各州之间搭建拓扑数据管道，实现[[Governing at a Distance\|远处治理]]与跨尺度政策重组（pp. 140–145） |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | [[Australian Education Research Organisation\|AERO]], 澳大利亚 | 联邦与州教育部、[[Social Ventures Australia\|SVA]]、麦肯锡前顾问、ASIC 监管档案、PGPA 规程修改案 | 依据《公司法》注册的担保有限公司章程、标准化因果量规、5000 万澳元预算法案条款 | 超党派中立的“国家[[Educational Brokerage Agency\|证据经纪人]]”；声称以严谨科学将政治移出课堂 | 掩蔽[[Venture Philanthropy\|风险慈善]]十年游说，前 18 个月免于公开审计报表，立法特许向私营咨询机构分包（pp. 3, 5, 11） |
+> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | [[Social Ventures Australia\|SVA]] 中介网络与国家装配, 澳大利亚 | SVA、[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]]、联邦国库部、财政部闭门竞标专家 | 《税法修正案（2013年第2号措施）》、DGR1 税务特许代码、1500 万澳元限制性采购合同、两套独立申报表 | 促进教育公平、赋能弱势学校与动员社会捐赠的“公益孵化”与“伙伴关系” | 权力作为隐蔽的装配效应：国家通过立法破例与闭门采购向特定慈善机构定向输送资本与特许权，构建政商兼任闭环（pp. 162–165） |
 > | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] | [[Conectar Igualdad\|PCI]] 数字化项目, 阿根廷 | 公立学校教师、学生、教育部官员、Netbook 电脑、操作系统、教室电源布线 | 预装 Windows 与 Linux 双系统、中国定制[[Classroom Management\|课堂管理]]软件、英特尔芯片架构 | 消除数字鸿沟与保障教育公平的免费国家公益福利项目 | 绕过《国家教育法》反商业化规定，将跨国技术资本的标准协议直接植入课堂日常行为（pp. 8–11） |
 > | Fenwick & Edwards (2010) | 基础教育课堂传统教学, 英国/北美 | 执教学科教师、学生、教科书、课程标准大纲、考核试卷、课桌布局 | 印刷纸质教科书、出版商分销合同、官方审定版权批号 | 传授客观中立学科知识与培养核心学业素养的自然教学活动 | 出版商商业资本、学科专家意识形态与行政问责指标对一线教师专业裁量权的隐形剥离（引自 Beech, 2015） |
 
@@ -242,4 +255,5 @@ updated: 2026-09-18
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 结合装配理论与[[Topological Spatialisation|拓扑空间化]]，深入剖析德国国家教育监测基础设施与[[Institute for Educational Quality Improvement|IQB]][[Center of Calculation|计算中心]]如何实现跨尺度的政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 提出无生命客体的政策装配框架，运用防野狗围栏隐喻解构澳大利亚 [[Australian Education Research Organisation|AERO]] 背后的企业法注册底座、跨国[[Venture Philanthropy|风险慈善]]网络与特许商业分包。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 将装配视角推进至国家与慈善资本主义的共生关系，揭示权力作为隐蔽装配效应如何依托税法修正案（DGR1）、定向闭门采购与双重申报架构重塑公共教育交换规则。
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 运用装配与 [[Actor-Network Theory|ANT]] 分析阿根廷 [[Conectar Igualdad|PCI]] 数字教育项目，证明跨国技术资本权力如何绕过国家宏观法律直接部署在课堂微观装配中。
