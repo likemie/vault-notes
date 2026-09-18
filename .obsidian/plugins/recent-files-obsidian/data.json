@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Hartong_2018_GSE",
+      "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Hartong_2018_GSE.md"
+    },
+    {
       "basename": "Argument_Besa_2024_UW",
       "path": "wiki/arguments/journal-articles/Unterrichtswissenschaft/Argument_Besa_2024_UW.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Meta-analysis",
       "path": "wiki/methods/quantitative/Meta-analysis.md"
-    },
-    {
-      "basename": "BHP Foundation",
-      "path": "wiki/facts/australia/BHP Foundation.md"
     }
   ],
   "omittedPaths": [],
