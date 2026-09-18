@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/facts/global/Evidence for Education Network.md",
+                "file": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Evidence for Education Network"
+              "title": "Argument_Steiner-Khamsi_2024_CE"
             }
           },
           {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,8 +260,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1a4f14d7b6aba2f6",
+  "active": "3e17d8b5a663e069",
   "lastOpenFiles": [
+    "wiki/facts/global/Global Partnership for Education.md",
+    "wiki/facts/global/Evidence for Education Network.md",
+    "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md",
     "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md",
     "wiki/facts/australia/Social Ventures Australia.md",
     "wiki/concepts/political-economy-geopolitics/Philanthrocapitalism.md",
@@ -269,7 +272,6 @@
     "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig2_Following_People_Policy_Money.jpg",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig1_SVA_Expansive_Network.jpg",
-    "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md",
     "sources/Rowe_2023_ECNUROE/figures",
     "sources/Rowe_2023_ECNUROE/Rowe_2023_ECNUROE.pdf",
     "sources/Rowe_2023_ECNUROE/Rowe_2023_ECNUROE.md",
@@ -282,14 +284,12 @@
     "wiki/methods/quantitative/UpSet Plot.md",
     "wiki/facts/uk/RAiSE Programme.md",
     "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
-    "wiki/facts/global/Evidence for Education Network.md",
     "wiki/facts/global/Building a Global Evidence Ecosystem for Teaching.md",
     "wiki/facts/australia/Evidence for Learning.md",
     "wiki/facts/australia/BHP Foundation.md",
     "wiki/facts/chile/SUMMA.md",
     "wiki/arguments/journal-articles/International Journal of Educational Research/Argument_Rowe_2022_IJER.md",
     "raw/rowe-2022-philanthrocapitalism-and-the-state-mapping-the-rise-of-venture-philanthropy-in-public-education-in-australia.pdf",
-    "wiki/facts/global/Global Partnership for Education.md",
     "wiki/persons/uk/Sir Kevan Collins.md",
     "wiki/facts/chile",
     "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",

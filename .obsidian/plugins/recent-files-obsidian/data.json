@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Steiner-Khamsi_2024_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Global Partnership for Education",
+      "path": "wiki/facts/global/Global Partnership for Education.md"
+    },
+    {
+      "basename": "Evidence for Education Network",
+      "path": "wiki/facts/global/Evidence for Education Network.md"
+    },
+    {
       "basename": "Argument_Jansen_2026_EPR",
       "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md"
     },
@@ -33,10 +45,6 @@
       "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
     },
     {
-      "basename": "Evidence for Education Network",
-      "path": "wiki/facts/global/Evidence for Education Network.md"
-    },
-    {
       "basename": "Building a Global Evidence Ecosystem for Teaching",
       "path": "wiki/facts/global/Building a Global Evidence Ecosystem for Teaching.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Argument_Rowe_2022_IJER",
       "path": "wiki/arguments/journal-articles/International Journal of Educational Research/Argument_Rowe_2022_IJER.md"
-    },
-    {
-      "basename": "Global Partnership for Education",
-      "path": "wiki/facts/global/Global Partnership for Education.md"
     },
     {
       "basename": "Sir Kevan Collins",
@@ -195,10 +199,6 @@
     {
       "basename": "Topological Spatialisation",
       "path": "wiki/concepts/comparative-education/Topological Spatialisation.md"
-    },
-    {
-      "basename": "Standing Conference of the Ministers of Education and Cultural Affairs",
-      "path": "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md"
     }
   ],
   "omittedPaths": [],
