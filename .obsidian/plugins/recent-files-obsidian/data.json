@@ -5,6 +5,10 @@
       "path": "wiki/concepts/research-methodology/Gatekeepers.md"
     },
     {
+      "basename": "Effect Size",
+      "path": "wiki/methods/quantitative/Effect Size.md"
+    },
+    {
       "basename": "Argument_Kelly_2025_ROE",
       "path": "wiki/arguments/journal-articles/Review of Education/Argument_Kelly_2025_ROE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Educational Governance Framework",
       "path": "wiki/theories/educational-policy-reform/Educational Governance Framework.md"
-    },
-    {
-      "basename": "Scientifically Based Research",
-      "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md"
     }
   ],
   "omittedPaths": [],

@@ -329,7 +329,7 @@ Total entries: **536**
 > [!index-list]- Organization (5)
 > - [[Clearing House Unterricht]] — 2017年慕尼黑工业大学创设的德语区首个教育科学证据清算中介机构，经历联邦项目孵化、大学实体运行与私人基金会接续资助三阶段，以理科教学有效性元分析为基底，与德国国际比较中心（ZIB）开展宏微观协同，面向教师教育者提供简评与学院培训。
 > - [[Federal Ministry of Education and Research]] — 德国联邦最高教育与科研行政主管部委，在文化联邦制宪法框架下统筹国家重大科技创新资助、产学研协同及全国性教育质量攻坚工程（如 QLB），立项出资孵化德国教学研究清算中心（CHU）。
-> - [[Institute for Educational Monitoring and Quality Improvement]] — 德国汉堡市直属的专业化教育质量监测与研究机构，隶属于汉堡学校与职业教育局（BSB），主导开发汉堡社会指数、实施全州统一测试、制作学校一览表（SchÜb）并承担向德国各州教育与文化部长常设会议（KMK）汇总呈报全域数据的技术枢纽职能
+> - [[Institute for Educational Monitoring and Quality Improvement]] — 德国汉堡市直属的专业化教育质量监测与研究机构，隶属于汉堡学校与职业教育局（BSB），主导开发汉堡社会指数、实施全州统一测试（KERMIT/VERA）、制作学校一览表（SchÜb），构建低利害形成性数据反馈与同侪案例会商机制，并承担向德国各州教育与文化部长常设会议（KMK）汇总呈报全域数据的技术枢纽职能
 > - [[Standing Conference of the Ministers of Education and Cultural Affairs]] — 德国16个联邦州负责教育、高校与文化事务主管部长的宪制性常设协调机构，主导制定国家教育监测总体战略与跨州统一教育标准
 > - [[Zentrum für internationale Bildungsvergleichsstudien]] — 2010年由德国联邦教育与研究部（BMBF）与各州文教部长联席会议（KMK）联合创设的国家级学术联合体，设于慕尼黑工业大学，负责统筹执行 PISA 等国际大型教育测评并产出宏观系统知识，与教学研究清算中心（CHU）开展宏观诊断与微观干预的双轨中介协同。
 

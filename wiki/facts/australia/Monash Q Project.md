@@ -11,10 +11,10 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 34
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#ede9fe"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 period: "2019–2024"
 initiator_organization: "Monash University & Paul Ramsay Foundation"
 tags:
