@@ -334,28 +334,28 @@ updated: 2026-09-18
 > [!row-contrast] 国际教育中介机构的制度特征：治理依附谱系（pp. 61–64）
 > | 治理依附类型 | 典型代表案例 | 组织架构与运行机制 | 制度比较优势 | 体制风险与伴生挑战 |
 > |---|---|---|---|---|
-> | **部委直属嵌入型** | 新西兰 [[Best Evidence Synthesis|BES]]；<br>荷兰 [[Kenniskamer]] | 教育部内设处室，全额依托政府行政预算运作。 | 政策对齐度极高，研究直通国家决策核心。 | 缺乏学术自主，极易随政党轮替被撤销或边缘化。 |
-> | **政府资助自治型** | 日本 [[National Institute for Educational Policy Research|NIER]]；<br>澳大利亚 [[Australian Education Research Organisation|AERO]]；<br>瑞士 [[Swiss Coordination Centre for Research in Education|SKBF / CSRE]]；<br>挪威 [[Kunnskapssenter for utdanning]]；<br>加拿大 [[Canadian Council on Learning|CCL]]；<br>瑞典 [[Swedish Institute for Educational Research|Skolfi]] | 依托国家独立行政法人立法、议会法案或联邦/各州跨辖区联合资助。 | 享法定学术独立性，与日常政治保持健康专业距离。 | 跨部门与跨辖区协调成本高；分权体制下存财政撤销风险。 |
-> | **大学依托合同型** | 英国 [[EPPI-Centre]]；<br>丹麦 [[Danish Clearinghouse for Educational Research|丹麦清算中心]] | 扎根顶尖大学学术共同体，依托部委定期服务合同或自主承接科研课题。 | 学术信誉高，能借助大学研究生态与团队开展前沿系统综合。 | 高度依赖政府续约合同，合同终止即面临关停清算。 |
-> | **独立慈善基金型** | 英国 [[Education Endowment Foundation|EEF]]；<br>土耳其 [[Education Reform Initiative|ERG]] | 独立慈善信托或民间战略基金会支持，靠永久留本基金运作。 | 战略自主性强，彻底摆脱 2–3 年选举周期撕扯，响应敏捷。 | 与正式问责法规易脱节，若政策不采纳存体制外悬浮风险。 |
-> | **高校依托混合资助型** | 德国 [[Clearing House Unterricht|教学研究清算中心]]（CHU） | 慕尼黑工业大学教师教育团队运营，联邦专项孵化，民间慈善基金会接续资助。 | 兼具大学学术严谨性与基金会长期稳定性，紧扣师范源头培育。 | 依赖特定基金会承诺，辐射范围主要受制于德语区与师资培养体制。 |
+> | **部委直属嵌入型** | 新西兰 [[Best Evidence Synthesis\|BES]]；<br>荷兰 [[Kenniskamer]] | 教育部内设处室，全额依托政府行政预算运作。 | 政策对齐度极高，研究直通国家决策核心。 | 缺乏学术自主，极易随政党轮替被撤销或边缘化。 |
+> | **政府资助自治型** | 日本 [[National Institute for Educational Policy Research\|NIER]]；<br>澳大利亚 [[Australian Education Research Organisation\|AERO]]；<br>瑞士 [[Swiss Coordination Centre for Research in Education\|SKBF / CSRE]]；<br>挪威 [[Kunnskapssenter for utdanning]]；<br>加拿大 [[Canadian Council on Learning\|CCL]]；<br>瑞典 [[Swedish Institute for Educational Research\|Skolfi]] | 依托国家独立行政法人立法、议会法案或联邦/各州跨辖区联合资助。 | 享法定学术独立性，与日常政治保持健康专业距离。 | 跨部门与跨辖区协调成本高；分权体制下存财政撤销风险。 |
+> | **大学依托合同型** | 英国 [[EPPI-Centre]]；<br>丹麦 [[Danish Clearinghouse for Educational Research\|丹麦清算中心]] | 扎根顶尖大学学术共同体，依托部委定期服务合同或自主承接科研课题。 | 学术信誉高，能借助大学研究生态与团队开展前沿系统综合。 | 高度依赖政府续约合同，合同终止即面临关停清算。 |
+> | **独立慈善基金型** | 英国 [[Education Endowment Foundation\|EEF]]；<br>土耳其 [[Education Reform Initiative\|ERG]] | 独立慈善信托或民间战略基金会支持，靠永久留本基金运作。 | 战略自主性强，彻底摆脱 2–3 年选举周期撕扯，响应敏捷。 | 与正式问责法规易脱节，若政策不采纳存体制外悬浮风险。 |
+> | **高校依托混合资助型** | 德国 [[Clearing House Unterricht\|教学研究清算中心]]（CHU） | 慕尼黑工业大学教师教育团队运营，联邦专项孵化，民间慈善基金会接续资助。 | 兼具大学学术严谨性与基金会长期稳定性，紧扣师范源头培育。 | 依赖特定基金会承诺，辐射范围主要受制于德语区与师资培养体制。 |
 
 > [!row-contrast] 国际教育中介机构的制度特征：目标受众分工谱系（pp. 61–64）
 > | 受众导向类型 | 典型代表案例 | 核心中介机制与产出 | 比较优势与功能价值 | 局限与伴生挑战 |
 > |---|---|---|---|---|
-> | **宏观政策制定导向型** | 早期中介机构；<br>美国 [[What Works Clearinghouse|WWC]]（政策端）；<br>日本 NIER 政策部；<br>荷兰 [[Kenniskamer]] | 产出[[Policy Mobility|快速政策]]简报、宏观监测指标与立法咨询。 | 紧扣国家大政方针，宏观制度撬动力与规制权威强。 | 文本抽象官僚化，脱离微观课堂教学与学区采购痛点。 |
-> | **基层学校实践导向型** | 澳大利亚 [[Australian Education Research Organisation|AERO]]；<br>英国 [[Research Schools Network|EEF 研究学校网络]]；<br>荷兰 [[Kennisrotonde]]（知识环岛）；<br>英国 [[Centre for the Use of Research and Evidence in Education|CUREE]] | 开发实践工具包、国家核心课程大纲、问答平台与校际同伴网络。 | 直接支持一线教师与校长微观决策，显著提升课堂采纳度。 | 规模复制中存情境稀释风险，易被政策部门借以自我脱责。 |
-> | **师资培训骨干导向型** | 德国 [[Clearing House Unterricht|教学研究清算中心]]（CHU） | 研制德语研究简评、在线进修学院、评价表与教师教育教学法资源。 | 以高校教师教育者与在岗研训主管为战略支点，发挥乘数扩散效应。 | 师训向常态课堂教学渗透链路长，依赖职后研修体系机制配合。 |
-> | **大众媒体导向型** | 英国 [[Education Media Centre|EMC]] | 对接新闻媒体采编室，提供事实核查与专家推荐。 | 阻断伪科学在公共舆论发酵，守护教育研究学术公信力。 | 受制于外部新闻突发热点，难以进行长线系统规划。 |
-> | **学术共同体导向型** | 美国 [[Best Evidence Encyclopedia|BEE]]（学术端）；<br>英国 [[EPPI-Centre]]（方法端）；<br>[[Campbell Collaboration|坎贝尔协作网]] | 开展大样本定量元分析、质性与量化混合系统综述、研发综述软件。 | 学术信誉卓著，为循证教育实践奠定坚实的方法学基础。 | 产出多为长篇学术专论，一线实践决策者难以直接提取参数。 |
+> | **宏观政策制定导向型** | 早期中介机构；<br>美国 [[What Works Clearinghouse\|WWC]]（政策端）；<br>日本 NIER 政策部；<br>荷兰 [[Kenniskamer]] | 产出[[Policy Mobility\|快速政策]]简报、宏观监测指标与立法咨询。 | 紧扣国家大政方针，宏观制度撬动力与规制权威强。 | 文本抽象官僚化，脱离微观课堂教学与学区采购痛点。 |
+> | **基层学校实践导向型** | 澳大利亚 [[Australian Education Research Organisation\|AERO]]；<br>英国 [[Research Schools Network\|EEF 研究学校网络]]；<br>荷兰 [[Kennisrotonde]]（知识环岛）；<br>英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]] | 开发实践工具包、国家核心课程大纲、问答平台与校际同伴网络。 | 直接支持一线教师与校长微观决策，显著提升课堂采纳度。 | 规模复制中存情境稀释风险，易被政策部门借以自我脱责。 |
+> | **师资培训骨干导向型** | 德国 [[Clearing House Unterricht\|教学研究清算中心]]（CHU） | 研制德语研究简评、在线进修学院、评价表与教师教育教学法资源。 | 以高校教师教育者与在岗研训主管为战略支点，发挥乘数扩散效应。 | 师训向常态课堂教学渗透链路长，依赖职后研修体系机制配合。 |
+> | **大众媒体导向型** | 英国 [[Education Media Centre\|EMC]] | 对接新闻媒体采编室，提供事实核查与专家推荐。 | 阻断伪科学在公共舆论发酵，守护教育研究学术公信力。 | 受制于外部新闻突发热点，难以进行长线系统规划。 |
+> | **学术共同体导向型** | 美国 [[Best Evidence Encyclopedia\|BEE]]（学术端）；<br>英国 [[EPPI-Centre]]（方法端）；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 开展大样本定量元分析、质性与量化混合系统综述、研发综述软件。 | 学术信誉卓著，为循证教育实践奠定坚实的方法学基础。 | 产出多为长篇学术专论，一线实践决策者难以直接提取参数。 |
 
 > [!row-contrast] 国际教育中介机构的制度特征：方法学审查立场谱系（pp. 61–64）
 > | 方法学立场类型 | 典型代表案例 | 审查准则与综合形态 | 比较优势与功能价值 | 局限与伴生挑战 |
 > |---|---|---|---|---|
-> | **因果实证派（RCT 黄金标准）** | 美国 [[What Works Clearinghouse|WWC]]；<br>英国 EEF；<br>澳大利亚 AERO；<br>[[Campbell Collaboration|坎贝尔协作网]] | 确立随机对照试验为因果黄金标准，严苛审查基线等值与流失偏倚。 | 结论[[Internal Validity|内部效度]]极高，提供确凿因果效应量支撑。 | 过滤门槛过严，排斥质性知识，难以阐释“为何有效与如何发生”。 |
-> | **定量元分析与二阶综合派** | 美国 [[Best Evidence Encyclopedia|BEE]]；<br>英国 [[EEF Teaching and Learning Toolkit|EEF 教学与学习工具箱]]；<br>Visible Learning MetaX；<br>德国 [[Clearing House Unterricht|CHU]] | 运用加权元分析、进展月数折算或标准化元分析转译规程进行二阶综合。 | 兼顾统计严谨与直观可比，大幅降低实践决策者提取门槛。 | 均值效应量可能掩盖亚群体异质性，面临发表偏倚风险。 |
-> | **多元综合与混合方法派** | 英国 [[EPPI-Centre]]；<br>挪威 [[Kunnskapssenter for utdanning|Kunnskapssenter]]；<br>新西兰 BES | 质性、量化与[[Mixed Methods Research|混合方法]]系统综合，开创结构化混合编码。 | [[Ecological Validity|生态效度]]高，兼顾复杂微观语境，护持专业判断。 | 方法规程繁复漫长，缺乏量化直观指标，紧急决策响应较慢。 |
-> | **本土实践审议与经验知识派** | 瑞典教育法案体制（[[Swedish Institute for Educational Research|Skolfi]] 实践端）；<br>北欧教育学（Didaktik）模式 | 将教师实践专业知识视为与形式科学研究平等的独立知识源。 | 紧密契合课堂生态效度与教师专业自主，激发实践主体性。 | 异质知识融合机制尚不明确，经验证据缺乏标准化检验流程。 |
+> | **因果实证派（RCT 黄金标准）** | 美国 [[What Works Clearinghouse\|WWC]]；<br>英国 EEF；<br>澳大利亚 AERO；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 确立随机对照试验为因果黄金标准，严苛审查基线等值与流失偏倚。 | 结论[[Internal Validity\|内部效度]]极高，提供确凿因果效应量支撑。 | 过滤门槛过严，排斥质性知识，难以阐释“为何有效与如何发生”。 |
+> | **定量元分析与二阶综合派** | 美国 [[Best Evidence Encyclopedia\|BEE]]；<br>英国 [[EEF Teaching and Learning Toolkit\|EEF 教学与学习工具箱]]；<br>Visible Learning MetaX；<br>德国 [[Clearing House Unterricht\|CHU]] | 运用加权元分析、进展月数折算或标准化元分析转译规程进行二阶综合。 | 兼顾统计严谨与直观可比，大幅降低实践决策者提取门槛。 | 均值效应量可能掩盖亚群体异质性，面临发表偏倚风险。 |
+> | **多元综合与混合方法派** | 英国 [[EPPI-Centre]]；<br>挪威 [[Kunnskapssenter for utdanning\|Kunnskapssenter]]；<br>新西兰 BES | 质性、量化与[[Mixed Methods Research\|混合方法]]系统综合，开创结构化混合编码。 | [[Ecological Validity\|生态效度]]高，兼顾复杂微观语境，护持专业判断。 | 方法规程繁复漫长，缺乏量化直观指标，紧急决策响应较慢。 |
+> | **本土实践审议与经验知识派** | 瑞典教育法案体制（[[Swedish Institute for Educational Research\|Skolfi]] 实践端）；<br>北欧教育学（Didaktik）模式 | 将教师实践专业知识视为与形式科学研究平等的独立知识源。 | 紧密契合课堂生态效度与教师专业自主，激发实践主体性。 | 异质知识融合机制尚不明确，经验证据缺乏标准化检验流程。 |
 
 这些制度维度的交织演化，形成了各具特色的代表性中介组织实践（pp. 61–64）：
 
