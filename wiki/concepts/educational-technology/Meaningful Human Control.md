@@ -9,10 +9,10 @@ aliases:
 summary: "人工智能伦理、人机协同与证据综合方法学概念，指在自动化与人工智能辅助全流程中，人类专家保持对技术推理因果链的主动追踪与价值响应能力，主导分歧仲裁与决策控制权。"
 type: concept
 domain: "educational-technology"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/educational-technology
   - theme/artificial-intelligence
@@ -119,7 +119,7 @@ updated: 2026-09-18
 > 探索在保证证据综合绝对准确性的前提下，如何利用人类控制机制最大化节约专家劳动时间。
 
 > [!claim] Jansen et al.
-> **分歧触发机制大幅降低人工负荷同时守住真值底线** Jansen et al. (2026) 提出，通过两个或多个独立大模型进行背对背提取，仅在模型出现分歧（约占总数据量的 16%–22%）或涉及复杂多表累加时触发人类专家介入仲裁，能够消除约 80% 的机械式人工劳动，同时确保最终数据集准确度超越任何单一人类专家的单次独立提取，契合了有意义人类控制在证据综合中的[[Operationalization|操作化]]要求。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 20–25)]]
+> **分歧触发机制大幅降低人工负荷同时守住真值底线** [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 提出，通过两个或多个独立大模型进行背对背提取，仅在模型出现分歧（约占总数据量的 16%–22%）或涉及复杂多表累加时触发人类专家介入仲裁，能够消除约 80% 的机械式人工劳动，同时确保最终数据集准确度超越任何单一人类专家的单次独立提取，契合了有意义人类控制在证据综合中的[[Operationalization|操作化]]要求。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 20–25)]]
 
 ---
 
@@ -129,7 +129,7 @@ updated: 2026-09-18
 > 反思传统方法学将单人提取与粗略抽查视作真值的弊端，阐明人类控制必须建立在专家多方校准之上。
 
 > [!claim] Jansen et al.
-> **单一人类专家同样存在计算疏漏与选择偏离** Jansen et al. (2026) 揭示，即使是资深人类专家独立[[Coding in Qualitative Research|编码]]，与最终仲裁金标准的[[Intraclass Correlation Coefficient|组内相关系数]]亦为 $\text{ICC} = 0.95$（遗漏 12 例），而既有数据库录入更存在 57 处单人偏离（$\text{ICC} = 0.81$）。这表明有意义的人类控制不仅是对 AI 系统的纠偏，更是通过人机多源交叉互证实现对人类自身认知疏漏的双向校准。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 16–18, 23–24)]]
+> **单一人类专家同样存在计算疏漏与选择偏离** [[Argument_Jansen_2026_EPR|Jansen et al. (2026, pp. 16–18, 23–24)]] 揭示，即使是资深人类专家独立[[Coding in Qualitative Research|编码]]，与最终仲裁金标准的[[Intraclass Correlation Coefficient|组内相关系数]]亦为 $\text{ICC} = 0.95$（遗漏 12 例），而既有数据库录入更存在 57 处单人偏离（$\text{ICC} = 0.81$）。这表明有意义的人类控制不仅是对 AI 系统的纠偏，更是通过人机多源交叉互证实现对人类自身认知疏漏的双向校准。
 
 ---
 
@@ -138,8 +138,8 @@ updated: 2026-09-18
 > [!contrast-table] 有意义的人类控制命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **人机协同最优化命题** | 多模型一致性初筛结合专家分歧仲裁实现证据综合的准确与高效协同 | 系统评价、[[Meta-meta-analysis\|二阶元分析]]、高风险[[Document\|文献]]证据清算 | Jansen et al. (2026); Thomas et al. (2025a) |
-> | **双向校准命题** | 人机互证破除了单一人类无误差假定，人类控制成为双向去偏机制 | 科学数据管理、AI 辅助同行评议与质控 | Jansen et al. (2026); Santoni de Sio & van den Hoven (2018) |
+> | **人机协同最优化命题** | 多模型一致性初筛结合专家分歧仲裁实现证据综合的准确与高效协同 | 系统评价、[[Meta-meta-analysis\|二阶元分析]]、高风险[[Document\|文献]]证据清算 | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Thomas et al. (2025a) |
+> | **双向校准命题** | 人机互证破除了单一人类无误差假定，人类控制成为双向去偏机制 | 科学数据管理、AI 辅助同行评议与质控 | Santoni de Sio & van den Hoven (2018) |
 
 ---
 
@@ -151,13 +151,13 @@ updated: 2026-09-18
 > > 争论当大模型处理数万篇[[Document|文献]]时，即使只触发 20% 分歧，人类专家是否仍面临难以承受的认知负荷。
 > >
 > > - **怀疑论调** 专家在连续处理数百个复杂分歧时，可能发生注意力退化，导致仲裁质量下滑。
-> > - **系统设计应对（Jansen et al., 2026）** 建议将任务分批，并在提示词中要求模型输出具体的原文引用定位，辅助专家快速溯源。
+> > - **系统设计应对（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]）** 建议将任务分批，并在提示词中要求模型输出具体的原文引用定位，辅助专家快速溯源。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 人机混合验证与单方验证表现对比（Jansen et al., 2026）
+> [!ref-table]- 人机混合验证与单方验证表现对比（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 验证模式 | 构成形式 | 准确性表现（[[Intraclass Correlation Coefficient\|ICC]] / 一致率） | 人工劳动投入占比 | 优势与瓶颈 |

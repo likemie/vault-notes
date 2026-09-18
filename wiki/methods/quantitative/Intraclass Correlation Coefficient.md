@@ -11,7 +11,7 @@ summary: "用于度量多层嵌套或集群数据中同组观测值之间相似�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 46
+method_related_count: 48
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
