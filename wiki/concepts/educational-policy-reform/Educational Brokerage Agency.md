@@ -8,6 +8,10 @@ aliases:
   - education brokerage organisation
   - brokerage agencies in education
   - 知识经纪
+  - 证据经纪人
+  - 证据中介机构
+  - evidence broker
+  - Evidence Brokers
   - Knowledge Brokerage Intermediary
   - KBI
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
@@ -124,7 +128,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Educational Brokerage Agency
@@ -365,6 +369,7 @@ updated: 2026-09-17
 > >
 > > - **Best & Holmes (2010); Burns & Schuller** 强调中介机构是解决供需错配、建立双向信任与促成集体[[Knowledge Production|知识建构]]不可替代的系统协调枢纽（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60–61]]）。
 > > - **Lubienski (2019)** 批判私有化与教育科技资本正将中介平台转化为带货推销的营销载体，中介机构极易沦为兜售现成方案的利益操纵者（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 60]]）。
+> > - **[[Argument_Rowe_2022_IJER|Rowe (2022)]]** 指出证据经纪人（evidence broker）概念源于金融资本中介语系（买卖双方中介与抽成），虽然中介机构对外普遍包装为超党派、客观中立且依靠量化工具（如随机对照试验与证据量规）的科学评级实体，但深层网络结构往往深嵌于跨国金融咨询与[[Venture Philanthropy|风险慈善]]网络（如澳大利亚社会创投［Social Ventures Australia, SVA］、麦肯锡、跨国投行），成为将公共教育研究议程外包化、企业化与政策流动化的隐蔽通道（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3–4]]）。
 
 > [!critique] 外部批评
 > - **重实践轻政策导致的治理失衡** 过去十年中介机构过度向教师教学技巧倾斜，导致原本负责系统问责、教师准入认证和研发资金导向的政策层被免除循证改造责任，削弱了自上而下制度保障的构建（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 69]]）。
@@ -392,7 +397,7 @@ updated: 2026-09-17
 > | 同上 | [[National Institute for Educational Policy Research]] (NIER), 日本 | 文部科学省同楼办公但保持行政自治的国立研究机构 | 文部科学省、各都道府县教育委员会 | 课程[[Implementation and Process Evaluation\|实施评估]]、国家学力调查与政策实证分析 | 持续稳定运行（Active） | 法定国立政策研究机构定位，与中央教育行政形成稳定的共生协调机制（pp. 61–62） |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | 16 个设立官方中介机构的 [[OECD]] 教育系统 | 涵盖部委直属研究中心、独立评估院、民间基金会与统计局等多形态 | 政策决策者、一线学校实践者、公众 | 全流程生产与促成（6国）vs 单点聚焦（7国） | 16 个系统活跃（5 个系统存在但停滞） | 仅 9 个部委保持经常性联结；英格兰 EEF 仅维持偶尔接触；智利与丹麦部委断联（pp. 81–82, 86–87） |
 
-> [!ref-table]- 英国[[What Works Network|有效性网络]]（What Works Network）代表性中介机构治理属性与循证模式（Gough et al., 2018, 2022）
+> [!ref-table]- 英国[[What Works Network\|有效性网络]]（What Works Network）代表性中介机构治理属性与循证模式（Gough et al., 2018, 2022）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 考察组别 | 机构全称与简称 | 业务领域与目标受众 | 组织治理属性与资金源 | 核心介入策略与代表产出 | 循证模式与治理启示 |
@@ -419,6 +424,7 @@ updated: 2026-09-17
 > - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] — 评估欧美主要[[Educational Evidence Clearinghouses|教育证据清算机构]]（包括 [[What Works Clearinghouse|WWC]]、[[Education Endowment Foundation|EEF]]、BEP 等）的[[Systematic Review|系统综述]]标准与评级一致性，证实中介审查门槛的差异对政策采纳产生直接影响。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 针对知识中介机构缺乏实证依据的“循证赤字”展开元研究批判，提出涵盖需求分析、外层系统整合、[[Theory of Change|变革理论]]、[[Evidence Standards|证据标准]]与自我成效评估的知识中介五大支柱框架。
 > - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 基于美国国会常设委员会全职沉浸经历，剖析智库中介（如新美国、[[The Education Trust|EdTrust]]、[[American Council on Education|ACE]]、[[American Association of Colleges for Teacher Education|AACTE]]）运用包含法定示范条文的[[Legislative Policy Brief|立法政策简报]]向立法幕僚[[Transfer Translation Transformation|转译]]实证证据的运作机制，揭示研究者作为[[Boundary Spanner|知识经纪人]]赋权选民游说以及专业学会设立极速应急响应战略（[[Rapid Assessment and Response Strategy|RARS]]）的制度效能。
+- [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 运用[[Network Ethnography|网络民族志]]与[[Actor-Network Theory|行动者网络理论]]解构国家级证据经纪人（以澳大利亚教育研究组织［Australian Education Research Organisation, AERO］为例）的政策装配过程，揭示其超党派科学中立表象下所掩盖的跨国[[Venture Philanthropy|风险慈善]]游说、企业法注册与公私网络治理实质。
 
 ---
 

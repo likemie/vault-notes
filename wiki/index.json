@@ -479,7 +479,8 @@
     "path": "wiki/concepts/comparative-education/Assemblage.md",
     "aliases": [
       "组装",
-      "assemblage"
+      "装配",
+      "组合装配"
     ]
   },
   {
@@ -3748,6 +3749,10 @@
       "education brokerage organisation",
       "brokerage agencies in education",
       "知识经纪",
+      "证据经纪人",
+      "证据中介机构",
+      "evidence broker",
+      "Evidence Brokers",
       "Knowledge Brokerage Intermediary",
       "KBI"
     ]
@@ -7396,7 +7401,9 @@
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md",
     "aliases": [
-      "风险慈善"
+      "风险慈善",
+      "创投慈善",
+      "公益创投"
     ]
   },
   {
@@ -13740,6 +13747,16 @@
     ]
   },
   {
+    "title": "Network Ethnography",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Network Ethnography.md",
+    "aliases": [
+      "网络民族志",
+      "政策网络民族志",
+      "policy network ethnography"
+    ]
+  },
+  {
     "title": "Nominal Group Technique",
     "type": "method",
     "path": "wiki/methods/qualitative/Nominal Group Technique.md",
@@ -19587,6 +19604,17 @@
     "aliases": [
       "澳大利亚教育服务公司",
       "ESA"
+    ]
+  },
+  {
+    "title": "Social Ventures Australia",
+    "type": "fact",
+    "path": "wiki/facts/australia/Social Ventures Australia.md",
+    "aliases": [
+      "SVA",
+      "澳大利亚社会创投",
+      "澳大利亚社会风险投资组织",
+      "Social Ventures Australia Limited"
     ]
   },
   {
@@ -25721,6 +25749,11 @@
     "title": "Argument_Metli_2022_IJER",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/International Journal of Educational Reform/Argument_Metli_2022_IJER.md"
+  },
+  {
+    "title": "Argument_Rowe_2022_IJER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/International Journal of Educational Research/Argument_Rowe_2022_IJER.md"
   },
   {
     "title": "Argument_Eacott_2019_IJLE",
