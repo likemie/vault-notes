@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 79
+fact_related_count: 80
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
   - "[[Knowledge Mediation]]"
+  - "[[Scientifically Based Research]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Research Translation]]"
@@ -117,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # What Works Clearinghouse
@@ -130,7 +131,7 @@ updated: 2026-09-17
 > 有效干预清算中心（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）是[[Institute of Education Sciences|美国教育部教育科学研究院]]（Institute of Education Sciences, IES）于 2002 年依据《教育科学改革法案》（ESRA）创立的联邦官方教育证据清算中心，是当代[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）与循证改革基础设施的国际旗舰平台，在[[OECD|经合组织]]（OECD）十五年纵向追踪中被确立为凭借法律强制授权与法定预算保障抵御政治更迭、实现持续完全活跃的政府依托型清算[[Paradigm|范式]]典范([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57, 64]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 7–8]])。
 
 > [!org-context] 机构背景与[[Knowledge Mediation|知识中介]]范式
-> - **成立时间 / 创设背景** 2002 年依据联邦《教育科学改革法案》（ESRA）创设，旨在落实《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（[[No Child Left Behind Act 2001|NCLB]]）关于“基于科学的研究”（Scientifically Based Research）的法定问责要求([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
+> - **成立时间 / 创设背景** 2002 年依据联邦《教育科学改革法案》（ESRA）创设，旨在落实《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（[[No Child Left Behind Act 2001|NCLB]]）关于“[[Scientifically Based Research|基于科学的研究]]”（Scientifically Based Research）的法定问责要求([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区；审查对象覆盖早期教育至高等教育全学段，官方平台为 [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)，审查标准已迭代至手册第 5 版（Handbook v5.0）。
 > - **法人属性与经费依托** 联邦政府官方直属公共机构；累计获得超过 **1 亿美元（>$100M）** 联邦经常性强制财政预算资助，享有极强的制度护城河([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 > - **早期线性“推送”与[[Transfer Translation Transformation|转译]]范式代表** [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 20–21)]] 指出，WWC 是早期[[Educational Brokerage Agency|知识经纪]]（Knowledge Brokerage）的标志性机构，核心假定在于通过专业“[[Research Translation|知识转译]]”（Translation）将高严谨性学术研究加工为实践指南（Practice Guides）与干预评估报告，呈现出鲜明的线性研究转移（Research Transfer）与单向供给推送特征。
@@ -301,7 +302,7 @@ updated: 2026-09-17
 > | [[Evidence-Based Education]] | 政策[[Paradigm\|范式]] | WWC 作为 EBE [[Causality\|因果推断]]标准的旗舰载体，将[[Clinical Trial\|临床试验]]逻辑系统引入教育学。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | WWC 审查程序与门控机制直接奠基于 Campbellian 效度体系。 |
 > | [[5-3-20 Rule]] | 技术规程 | WWC 单一被试实验审查与综合证据认定的标志性门槛规则。 |
-> | [[ESSA 2015 Evidence Standards]] | 法律依托 | [[Every Student Succeeds Act\|ESSA]] 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
+> | [[Every Student Succeeds Act|ESSA 2015 证据标准]] | 法律依托 | [[Every Student Succeeds Act\|ESSA]] 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
 > | [[Evidence for ESSA]] | 机构事实 | 约翰斯·霍普金斯大学设立的敏捷互补清算平台，填补 WWC 更新周期与实践决策断层。 |
 > | [[Robert Slavin]] | 关键人物 | 循证教育领军学者，系统评析 WWC 机制并创立 [[Best Evidence Encyclopedia\|BEE]] 与 Evidence for ESSA。 |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |

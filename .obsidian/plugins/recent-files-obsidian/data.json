@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Educational Governance Framework",
+      "path": "wiki/theories/educational-policy-reform/Educational Governance Framework.md"
+    },
+    {
+      "basename": "Educational Evidence Clearinghouses",
+      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
+    },
+    {
+      "basename": "No Child Left Behind Act 2001",
+      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
+    },
+    {
+      "basename": "Scientifically Based Research",
+      "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md"
+    },
+    {
       "basename": "template-theory",
       "path": "wiki/templates/template-theory.md"
     },
@@ -9,12 +25,28 @@
       "path": "wiki/arguments/journal-articles/Zeitschrift für Bildungsforschung/Argument_Altrichter_2019_ZfB.md"
     },
     {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+      "basename": "Argument_Wecker_2016_ZfE",
+      "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
+    },
+    {
+      "basename": "Argument_Rickinson_2022_ER",
+      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
+    },
+    {
+      "basename": "Argument_Serpell_2020_EP",
+      "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md"
     },
     {
       "basename": "Evidence-Based School Development",
       "path": "wiki/concepts/educational-policy-reform/Evidence-Based School Development.md"
+    },
+    {
+      "basename": "Argument_Ginsberg_2024_EP",
+      "path": "wiki/arguments/journal-articles/Educational Policy/Argument_Ginsberg_2024_EP.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
     },
     {
       "basename": "Exploratory Factor Analysis",
@@ -43,10 +75,6 @@
     {
       "basename": "Output-Oriented Governance",
       "path": "wiki/concepts/educational-policy-reform/Output-Oriented Governance.md"
-    },
-    {
-      "basename": "Argument_Rickinson_2022_ER",
-      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
     },
     {
       "basename": "Educational Research, Development and Innovation",
@@ -149,10 +177,6 @@
       "path": "wiki/persons/germany/Andreas Schleicher.md"
     },
     {
-      "basename": "Educational Evidence Clearinghouses",
-      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
-    },
-    {
       "basename": "PISA Shock",
       "path": "wiki/concepts/comparative-education/PISA Shock.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Working Knowledge",
       "path": "wiki/concepts/educational-policy-reform/Working Knowledge.md"
-    },
-    {
-      "basename": "Campbellian Validity Framework",
-      "path": "wiki/theories/research-methodology/Campbellian Validity Framework.md"
-    },
-    {
-      "basename": "Autopoiesis",
-      "path": "wiki/theories/educational-philosophy/Autopoiesis.md"
-    },
-    {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
-    },
-    {
-      "basename": "Dynamic Sustainability Framework",
-      "path": "wiki/theories/educational-policy-reform/Dynamic Sustainability Framework.md"
-    },
-    {
-      "basename": "Good Governance of Evidence",
-      "path": "wiki/theories/educational-policy-reform/Good Governance of Evidence.md"
     }
   ],
   "omittedPaths": [],

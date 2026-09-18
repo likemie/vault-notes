@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Academic Achievement]]"
+  - "[[Scientifically Based Research]]"
   - "[[Scientific Method]]"
   - "[[Learning Gain]]"
   - "[[Informationalization]]"
@@ -33,7 +34,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Dialogue in Education]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Attrition]]"
+  - "[[Academic Attrition]]"
   - "[[Research Utilization]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Research Translation]]"
@@ -84,14 +85,14 @@ sources:
   - "[[sources/Serpell_2020_EP/Serpell_2020_EP|Serpell_2020_EP]]"
 status: draft
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Serpell_2020_EP"
 argument_key: "Argument_Serpell_2020_EP"
 argument_display_title: "Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -178,7 +179,7 @@ journal: Educational Psychologist
 > [!timeline] 联邦教育治理与循证规制演进历程
 > - **1965** 约翰逊总统签署《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]》（ESEA）与《[[Higher Education Act of 1965|高等教育法]]》（HEA），确立联邦以附带条件的专项拨款间接介入地方教育的治理传统。
 > - **1980** 联邦教育部正式升格为内阁级部委，联邦对各州教育绩效与实证证据的集中规制管理逐步深化。
-> - **2001** 乔治·W·布什总统签署《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），首次将“基于科学的研究”写入联邦法律；以单一统考挂钩奖惩引发广泛的教学窄化与集体舞弊。
+> - **2001** 乔治·W·布什总统签署《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），首次将“[[Scientifically Based Research|基于科学的研究]]”写入联邦法律；以单一统考挂钩奖惩引发广泛的教学窄化与集体舞弊。
 > - **2015** 巴拉克·奥巴马总统签署重新授权的《[[Every Student Succeeds Act|每一个学生成功法案]]》（ESSA），吸取 NCLB 异化教训，构建包含学校环境在内的综合评估体系，明确定义证据分级并将具体评价权重新归还各州。（p.41）
 > - **2019** 《[[Foundations for Evidence-Based Policymaking Act of 2018|2018年循证决策基础法案]]》正式生效，推动联邦跨部委非敏感微观数据开放与共享，打破单一实验金标准对政策证据的垄断。（pp.42–43）
 
@@ -195,7 +196,7 @@ journal: Educational Psychologist
 在规制型进路下，由于政策设计者对教育实践环境的复杂性缺乏体察，过度死板的证据要求往往反噬改革初衷。
 
 > [!case] 案例一：NCLB 高利害问责引发的教学窄化与舞弊危机
-> 在 NCLB 实施期间，政策制定者试图依据基于科学的研究建立绝对可测的问责链条，将学生的标准化阅读与数学统考分数直接绑定在教师晋升、绩效奖金乃至学校关闭的决策上（Croft, Roberts, & Stenhouse, 2015）。这一做法导致部分学区教师在极度焦虑中将全部教学时间投入应试操练，大幅削减音乐、体育与社会科课程，甚至在佐治亚州亚特兰大等地爆发了教师与校领导有组织篡改机读卡答案的重大集体舞弊丑闻。该案例深刻证明：即便政策文本冠以科学研究之名，若将复杂的教育实践还原为单一规制指标，必然引发灾难性的系统性异化。（p.41）
+> 在 NCLB 实施期间，政策制定者试图依据[[Scientifically Based Research|基于科学的研究]]建立绝对可测的问责链条，将学生的标准化阅读与数学统考分数直接绑定在教师晋升、绩效奖金乃至学校关闭的决策上（Croft, Roberts, & Stenhouse, 2015）。这一做法导致部分学区教师在极度焦虑中将全部教学时间投入应试操练，大幅削减音乐、体育与社会科课程，甚至在佐治亚州亚特兰大等地爆发了教师与校领导有组织篡改机读卡答案的重大集体舞弊丑闻。该案例深刻证明：即便政策文本冠以科学研究之名，若将复杂的教育实践还原为单一规制指标，必然引发灾难性的系统性异化。（p.41）
 
 #### 2. 随机对照试验在复杂政策情境中的四重局限与数据治理转向
 
@@ -289,7 +290,7 @@ journal: Educational Psychologist
 > 在阶段一（问题界定）中，研究者不仅可以自己走进议员办公室，更能充当赋权基层的知识经纪人。弗吉尼亚联邦大学学者利用关于青少年昼夜节律与睡眠周期的严谨神经科学证据，为本选区的一群中小学生家长提供了专业证据工具包。这群家长带着详实的学术证据造访当地州议员办公室，有力论证了将初高中上学时间推迟至上午 8 点半之后的科学依据，最终成功说服立法者立项跟进该议题。这一案例表明，研究者将专业知识赋权给深受议题影响的普通选民群体，能够形成远比学者单打独斗更具政治穿透力的游说合力。（pp.43–44）
 
 > [!case] 案例五：[[Russell J. Skiba|Russell Skiba]] 国会听证会专家证词——少数族裔排斥性纪律处分调查
-> 在阶段三（政策制定）中，国会委员会听证会是学术研究直接输入法案文本的最高殿堂。在美国众议院常设委员会关于校园惩戒改革的立法审议中，印第安纳大学学者[[Russell J. Skiba|拉塞尔·斯基巴]]（Russell J. Skiba）受邀出席听证会。斯基巴依据其多年积累的实证研究成果，向国会议员呈递了详实数据，揭示非裔学生在中小学校园中面临着严重不成比例的停课与开除等排斥性纪律处分，力证零容忍纪律政策并未提升校园安全反倒加剧了学业[[Attrition|流失]]。斯基巴的专家证词直接为委员会起草针对学校管教改革与反歧视拨款的法案条款提供了无可替代的实证支撑。（p.45）
+> 在阶段三（政策制定）中，国会委员会听证会是学术研究直接输入法案文本的最高殿堂。在美国众议院常设委员会关于校园惩戒改革的立法审议中，印第安纳大学学者[[Russell J. Skiba|拉塞尔·斯基巴]]（Russell J. Skiba）受邀出席听证会。斯基巴依据其多年积累的实证研究成果，向国会议员呈递了详实数据，揭示非裔学生在中小学校园中面临着严重不成比例的停课与开除等排斥性纪律处分，力证零容忍纪律政策并未提升校园安全反倒加剧了[[Academic Attrition|学业流失]]。斯基巴的专家证词直接为委员会起草针对学校管教改革与反歧视拨款的法案条款提供了无可替代的实证支撑。（p.45）
 
 #### 2. 国会常设委员会、中介机构与立法政策简报的转化功能
 

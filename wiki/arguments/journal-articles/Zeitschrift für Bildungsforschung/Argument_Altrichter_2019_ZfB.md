@@ -34,15 +34,17 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[School Inspection]]"
   - "[[Hypothesis]]"
+  - "[[Paradigm]]"
   - "[[School Autonomy]]"
   - "[[PISA Shock]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence-Based School Development]]"
   - "[[Determinism]]"
   - "[[School Effectiveness]]"
+  - "[[Causal Processes]]"
 related_theories:
-  - "[[Organizational Culture]]"
   - "[[Educational Governance Framework]]"
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Cluster Analysis]]"
   - "[[Coding in Qualitative Research]]"
@@ -50,16 +52,15 @@ related_methods:
   - "[[Exploratory Factor Analysis]]"
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
+  - "[[Omega-Squared]]"
   - "[[Rating Scale]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Analysis of Variance]]"
   - "[[Standard Error]]"
-  - "[[Omega-Squared]]"
 related_instruments: []
 related_persons:
-  - "[[John W. Meyer]]"
-  - "[[Herbert Altrichter]]"
   - "[[Helmut Fend]]"
+  - "[[Herbert Altrichter]]"
 related_facts:
   - "[[PISA]]"
   - "[[Schulqualität Allgemeinbildung]]"
@@ -76,7 +77,7 @@ title: "Argument_Altrichter_2019_ZfB"
 argument_key: "Argument_Altrichter_2019_ZfB"
 argument_display_title: "Schulleitungen und evidenzbasierte Bildungsreform im Schulwesen"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -110,8 +111,8 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Educational Governance Framework|教育治理分析框架]]（Educational Governance Framework）**<br>Schimank (2007); Altrichter & Maag Merki (2016) | 将治理界定为教育系统多层级决策形成与行动者协调的核心机制；提炼出从投入导向向产出导向演进（A1）与系统各层级行动者分工协作重组（A2）两大分析维度，为剖析宏观政策变迁与组织内部权力再配置提供理论坐标。（pp. 18–20） |
-> | **再情境化理论（Recontextualisation Theory）**<br>[[Helmut Fend|Fend (2006)]]; Ball et al. (2012); Spillane (2012) | 揭示宏观政策并非单向度线性落实，而是制度结构供给在学校现场被行动者感知、[[Transfer Translation Transformation\|转译]]与重构的复杂过程；校长作为学校变革的[[Gatekeepers\|把关人]]，其价值态度直接决定了政策意图能否转化为日常组织实践。（pp. 20–21） |
+> | **[[Educational Governance Framework\|教育治理分析框架]]（Educational Governance Framework）**<br>Schimank (2007); Altrichter & Maag Merki (2016) | 将治理界定为教育系统多层级决策形成与行动者协调的核心机制；提炼出从投入导向向产出导向演进（A1）与系统各层级行动者分工协作重组（A2）两大分析维度，为剖析宏观政策变迁与组织内部权力再配置提供理论坐标。（pp. 18–20） |
+> | **再情境化理论（Recontextualisation Theory）**<br>[[Helmut Fend\|Fend (2006)]]; Ball et al. (2012); Spillane (2012) | 揭示宏观政策并非单向度线性落实，而是制度结构供给在学校现场被行动者感知、[[Transfer Translation Transformation\|转译]]与重构的复杂过程；校长作为学校变革的[[Gatekeepers\|把关人]]，其价值态度直接决定了政策意图能否转化为日常组织实践。（pp. 20–21） |
 > | **学校效能与领导力理论**<br>Day et al. (2016); Hallinger (2011) | 确立[[School Leadership\|学校领导]]者的价值信念、知识结构与管理行为是塑造[[Organizational Culture\|组织文化]]、教师教学实践并最终间接影响学生[[Academic Achievement\|学业成就]]的关键驱动机制。（p. 21） |
 > | **行动者数据利用类型学（Typologies of Data Use）**<br>Stamm (2003); Wurster & Gärtner (2013); Higham & Earley (2013) | 归纳一线学校应对评估与督导数据的[[Heterogeneity\|异质性]]模式（如抵触阻断、象征借口、被动应付、积极创新），为实证识别校长分群提供经验形态参照。（pp. 21–22） |
 
@@ -138,7 +139,7 @@ issuing_organization: ""
 > |---|---|
 > | **调查设计**<br>横截面问卷调查 | 依托欧盟资助的跨国比较项目 ISI-TL（Ehren et al., 2013; Gustafsson et al., 2015），对奥地利施泰尔马克州全部公立义务教育学校展开全覆盖在线[[Questionnaire\|问卷调查]]（2012 年 11 月至 2013 年 2 月）。（p. 26） |
 > | **分类分析**<br>[[Cluster Analysis\|k 均值聚类分析]] | 运用 $k$ 均值聚类算法对 22 项治理态度题项展开无监督聚类；系统检验 2 至 5 类的聚类方案，在组间方差分离度与理论解释度之间权衡后选定最优的 3 聚类解，并借助组内相关系数（Intraclass Correlation Coefficient, ICC）检验各题项对聚类形成的判别效度。（pp. 27–28） |
-> | **组间差异检验与[[Effect Size\|效应量]]** | 运用单因素方差分析（Analysis of Variance, ANOVA）比较三类聚类群体在学校发展活动与工时分配上的均值差异；报告效应量 [[Omega-Squared|Omega-Squared]]（$\omega^2$）评估实际效应大小，并报告事后 $t$ 检验的两两比较效应量 Cohen's $d$（$\omega^2 > 0.01$ 为弱效应、$0.06$ 为中等效应、$0.14$ 为强效应；$d = 0.20$ 为弱、$0.50$ 为中等、$0.80$ 为强）。（p. 27） |
+> | **组间差异检验与[[Effect Size\|效应量]]** | 运用单因素方差分析（Analysis of Variance, ANOVA）比较三类聚类群体在学校发展活动与工时分配上的均值差异；报告效应量 [[Omega-Squared\|Omega-Squared]]（$\omega^2$）评估实际效应大小，并报告事后 $t$ 检验的两两比较效应量 Cohen's $d$（$\omega^2 > 0.01$ 为弱效应、$0.06$ 为中等效应、$0.14$ 为强效应；$d = 0.20$ 为弱、$0.50$ 为中等、$0.80$ 为强）。（p. 27） |
 > | **计算与软件工具** | 采用 R 语言（R Core Team, 2018）、SPSS 22 与 G*Power 3（Faul et al., 2007）进行统计建模、[[Hypothesis\|假设]]检验与统计功效测算。（p. 27） |
 
 > [!sample-panel]- 样本与材料快照
@@ -173,13 +174,13 @@ issuing_organization: ""
 
 #### 1. 投入导向向产出导向转型的制度演进与路径自主原则
 
-理解当前[[School Leadership|学校领导]]实践，必须首先考察教育治理模式的宏观转型。[[Herbert Altrichter|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者指出，德语区基础教育在过去数十年经历了从传统投入规制向产出导向循证治理的深层范式转换：
+理解当前[[School Leadership|学校领导]]实践，必须首先考察教育治理模式的宏观转型。[[Herbert Altrichter|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者指出，德语区基础教育在过去数十年经历了从传统投入规制向产出导向[[Output-Oriented Governance|循证治理]]的深层[[Paradigm|范式转换]]：
 
 > [!contrast-table] 投入导向治理与产出导向治理的制度逻辑对比
 > | 制度维度 | 传统投入导向治理（Input-Steuerung） | 新型产出导向治理（Output-Steuerung） |
 > |---|---|---|
 > | **调控重心与手段** | 依赖严格的事前行政规制（法律法规、教学大纲、课时标准、统审教材、编制与经费划拨） | 聚焦教学实施后的实际学习成果，依托国家标准、统考监测、督导诊断与数据反馈 |
-> | **组织制度假设** | 依托信任与良好意愿逻辑（Meyer & Rowan, 1977）：假定投入合规与程序正确则教学自然达标 | 理性改进循环：设定标准 $\rightarrow$ 测评督导 $\rightarrow$ 诊断差距 $\rightarrow$ 反馈数据 $\rightarrow$ 循证决策 |
+> | **组织制度[[Hypothesis\|假设]]** | 依托信任与良好意愿逻辑（Meyer & Rowan, 1977）：假定投入合规与程序正确则教学自然达标 | 理性改进循环：设定标准 $\rightarrow$ 测评督导 $\rightarrow$ 诊断差距 $\rightarrow$ 反馈数据 $\rightarrow$ 循证决策 |
 > | **权力分配原则** | 行政集权统辖，对单校微观教学与组织运行实施详细控制 | 目标的统一设定与路径的自主探索原则（Heid, 2003），中央管目标、单校掌路径 |
 > | **学校领导角色** | 听命于上级行政指令的科层办事员与兼任行政的资深教师 | 协调校本循证改进的[[Gatekeepers\|把关人]]、组织变革中枢与教育企业管理者 |
 
@@ -188,7 +189,7 @@ issuing_organization: ""
 > [!phase] 德语区学校系统治理现代化的三阶段演进
 > - **阶段一：1990 年代中叶的[[School Autonomy|学校自主权]]（Schulautonomie）** 逐步放宽中央对规范性投入的过细限制，允许单校在课程微调、校舍出租、赞助获取等事务上拥有自决权。这一阶段确立了[[Helmut Fend|赫尔穆特·芬德]]（Helmut Fend）自 1980 年代倡导的单校自主发展（Einzelschulentwicklung）理念，督导部门逐渐淡出日常微观干预，从规则稽查者逐步转向后台支持。（p. 19）
 > - **阶段二：1990 年代后期的校长赋权与校本质量协调工具** 确立校长作为校内行政与专业领导中枢的地位，普遍引入学校发展规划（Schulprogramme）、自我评估与校本质量管理框架，同时上级行政部门通过发布示范题库与试探性统考为自主单校标定发展方向。这一阶段实现了从行政管辖向质量意识的柔性过渡。（p. 19）
-> - **阶段三：2000 年代以来的产出导向与循证监控成型** 2000 年[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）跨国测试公布后，德国与奥地利因实际成绩与传统教育强国自我认知之间出现严重落差，爆发了波及整个公共政策领域的[[PISA Shock|PISA 冲击（PISA Shock）]]（德文：PISA-Schock）。正是这场政策震荡瓦解了投入即保证质量的传统科层惯性，驱动德语区全面转向以国家教育标准（Bildungsstandards）、全域标准化测评、新[[School Inspection|学校督导]]（Neue Schulinspektion）与国家教育报告为主轴的产出导向治理体制。奥地利推行[[Schulqualität Allgemeinbildung|普通学校质量保障体系]]（德文：Schulqualität Allgemeinbildung，缩写为 SQA），以督导与学校间的成效与目标协定[[Dialogue in Education|对话]]（Bilanz- und Zielvereinbarungsgespräche）驱动单校改进。（pp. 19–20）
+> - **阶段三：2000 年代以来的产出导向与循证监控成型** 2000 年[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）跨国测试公布后，德国与奥地利因实际成绩与传统教育强国自我认知之间出现严重落差，爆发了波及整个公共政策领域的PISA 冲击（[[PISA Shock]]）（德文：PISA-Schock）。正是这场政策震荡瓦解了投入即保证质量的传统科层惯性，驱动德语区全面转向以国家教育标准（Bildungsstandards）、全域标准化测评、新[[School Inspection|学校督导]]（Neue Schulinspektion）与国家教育报告为主轴的产出导向治理体制。奥地利推行普通学校质量保障体系（德文：[[Schulqualität Allgemeinbildung]]，缩写为 SQA），以督导与学校间的成效与目标协定[[Dialogue in Education|对话]]（Bilanz- und Zielvereinbarungsgespräche）驱动单校改进。（pp. 19–20）
 
 在制度逻辑上，这一变革确立了目标的统一设定与路径的自主探索原则（Autonomie der Wege, nicht der Ziele; Heid, 2003）：中央收拢了教育目标的界定权，但将实现目标的具体教学法与组织调控权让渡给单校。这种双重重组使校长成为连接宏观政策与微观实践的核心纽带。（pp. 20–21）
 
@@ -232,9 +233,9 @@ issuing_organization: ""
 >
 > **图表深度解析**
 > - **循证学校发展型（Cluster 1，实线）** 在产出导向与循证工具（国家标准、统考测评、国家教育报告）以及校本质量工具（自我评估、学校规划）上均处三个群体的最高得分位置，是唯一对外部产出监控赋予积极价值的群体。
-> - **资源驱动发展型（Cluster 2，虚线）** 对追加外部资源（缩减班额、改善校舍与数字化设备）的评价呈现断崖式领先，但在循证工具上的评价显著低迷，深信没有资源追加任何改革均为空谈。
+> - **资源驱动发展型（Cluster 2，虚线）** 对追加外部资源（缩减[[Class Size|班额]]、改善校舍与数字化设备）的评价呈现断崖式领先，但在循证工具上的评价显著低迷，深信没有资源追加任何改革均为空谈。
 > - **弱发展取向型（Cluster 3，点线）** 对几乎所有治理工具的评分均显著低于总体均值，尤其对跨国测试与外部监测持强烈的怀疑与防卫取向。
-> - **关键判别指标** 各态度题项区分不同聚类的组内相关系数（ICC）介于 0.09 至 0.41 之间；其中涉及追加外部资源的题项组间方差解释力最高，成为划分不同类型校长的最关键观念分水岭。（p. 28）
+> - **关键判别指标** 各态度题项区分不同聚类的[[Intraclass Correlation Coefficient|组内相关系数]]（ICC）介于 0.09 至 0.41 之间；其中涉及追加外部资源的题项组间方差解释力最高，成为划分不同类型校长的最关键观念分水岭。（p. 28）
 
 #### 2. 背景变量对聚类归属的预测效应
 
@@ -268,7 +269,7 @@ issuing_organization: ""
 方差分析与事后两两检验揭示出价值观念向学校微观实践转化的两项核心规律：
 
 > [!result-reading] 学校发展活动实证检验的深度解读
-> - **课堂教学改进与同侪协同的显著撬动** 在直接关涉课堂教学改进的举措（如持续跟踪学生学业进展）上，循证型校长报告的时间投入显著高于资源型与弱发展型校长，效应量接近中等水平（$d = 0.48$）；在教师之间的专业协同能力建设上，循证型校长同样显著领先（$d = 0.62$）。这证实对数据与标准的认可，确实在微观组织层面转化为了驱动教学改进的直接动能。（pp. 29–30）
+> - **课堂教学改进与同侪协同的显著撬动** 在直接关涉课堂教学改进的举措（如持续跟踪学生学业进展）上，循证型校长报告的时间投入显著高于资源型与弱发展型校长，[[Effect Size|效应量]]接近中等水平（$d = 0.48$）；在教师之间的专业协同能力建设上，循证型校长同样显著领先（$d = 0.62$）。这证实对数据与标准的认可，确实在微观组织层面转化为了驱动教学改进的直接动能。（pp. 29–30）
 > - **单校自我评估工具的有效性约束** 循证型与资源型校长在自我评估活动上的差异未达统计显著水平（$p = .089$），但两类群体在教学改进活动与协同能力上分异显著。这表明通用的校本评估工具本身并不足以自动撬动教学实践，唯有当校长同时高度认同外部产出监控与数据反馈时，内部评估工具才能切实转化为课堂教学改进的生产力。（p. 30）
 
 #### 2. 日常工时分配与从兼课教师向教育企业管理者的实质转型
@@ -294,7 +295,7 @@ issuing_organization: ""
 > - **行政管理事务的普遍基线负担** 行政事务在三类群体中均占据首要工作份额（33%–39%），组间未达显著差异。这与 Brauckmann & Schwarz (2015) 及 Huber et al. (2013) 的实证调查高度契合，证实繁琐的科层行政日常普遍挤压了校长的专业领导时间。（pp. 21–22, 30）
 > - **授课与教学领导的结构性置换** 核心分野体现在课堂直接授课与专业教学领导之间的时间置换：弱发展型与资源型校长仍将近三分之一的工时（29%–34%）用于日常课堂兼课；而循证型校长将直接授课大幅压缩至 19.87%，腾出的宝贵工时被实质性地投向能够直接诊断教学过程的关键领域——深入课堂听课观摩显著提升至 7.29%（$d = 0.47$），教学研讨提升至 13.67%（$d = 0.36$），校本自我评估提升至 7.68%（$d = 0.39$）。（pp. 30–31）
 
-从直接兼课向深入听课与教学研讨的结构性时间置换，直观印证了外部治理制度如何穿透行动者认知壁垒、重塑基层领导角色的微观因果过程：
+从直接兼课向深入听课与教学研讨的结构性时间置换，直观印证了外部治理制度如何穿透行动者认知壁垒、重塑基层领导角色的微观[[Causal Processes|因果过程]]：
 
 > [!chain-link] 治理理念重塑领导角色的微观机制链条
 > - **制度情境供给** 宏观产出导向治理确立统一质量标准与数据监测，赋予学校实施路径自主权。（pp. 18–20）
@@ -340,7 +341,7 @@ issuing_organization: ""
 
 > [!warning]
 > - **回溯性时序测量局限** 研究对学校发展活动的测量采用的是校长对相比上一学年投入时间变化趋势的自陈主观评估，而非对学校改进活动绝对水平或客观产出（如学生[[Academic Achievement|学业成绩]]）的直接纵向追踪。（pp. 27, 33）
-> - **政策导入期动态干扰** 数据收集期间正值奥地利全面推行普通学校质量保障体系（SQA）的初始阶段，配套的数据反馈解读中介机制（如反馈培训员、辅导手册）尚在建设之中，可能导致部分校长产生暂时性适应困难。（p. 33）
+> - **政策导入期动态干扰** 数据收集期间正值奥地利全面推行普通学校质量保障体系（[[Schulqualität Allgemeinbildung|SQA]]）的初始阶段，配套的数据反馈解读中介机制（如反馈培训员、辅导手册）尚在建设之中，可能导致部分校长产生暂时性适应困难。（p. 33）
 > - **学段与地区推论边界** 调查样本仅涵盖了奥地利施泰尔马克州的公立普通义务教育学校（小学与新型中学），未纳入普通学术高中（Gymnasien）或职业教育学校，研究结论推广至更高学段或具有不同督导传统的其他联邦州时需保持审慎。（pp. 26, 33）
 
 ---

@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -29,11 +29,11 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Champ]]"
   - "[[Research Utilization]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Instructional Leadership]]"
   - "[[Paradigm]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
-  - "[[Output-Oriented Governance]]"
   - "[[Doxa]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -42,8 +42,8 @@ related_theories:
 related_arguments:
   - "[[Argument_Møller_2017_EERJ]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
-  - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Altrichter_2019_ZfB]]"
+  - "[[Argument_Eacott_2011_JEAH]]"
 related_facts:
   - "[[OECD]]"
   - "[[Monash Q Project]]"
@@ -61,6 +61,7 @@ related_persons:
   - "[[Scott Eacott]]"
   - "[[Pierre Bourdieu]]"
   - "[[Mark Rickinson]]"
+  - "[[Herbert Altrichter]]"
 confidence: high
 status: draft
 created: 2026-05-02
@@ -104,7 +105,7 @@ updated: 2026-09-18
 > | 比较维度 | 学校领导力（School Leadership） | [[Transformative Leadership\|变革型领导力（Transformative Leadership）]] | [[New Public Management\|新公共管理]]科层管理（NPM Administration） | 教育企业管理者型领导（Pedagogical Enterprise Manager） |
 > |---|---|---|---|---|
 > | **分析起点** | 学校微观组织运作、人员发展与教学情境 | 宏观权力结构、社会正义与制度不平等批判 | 科层问责规程、成本效益核算与标准交付 | 路径自主权体制下国家标准、成效监测与校本改进交汇处 |
-> | **核心使命** | 设定方向、发展教师、培育信任与改善教学 | 解构压迫性权力关系，推进边缘群体教育公平 | 执行上级政策指标、提高测验排名与行政依从 | 依托数据诊断反馈，优化教学流程、深化研讨对话并保障办学质量 |
+> | **核心使命** | 设定方向、发展教师、培育信任与改善教学 | 解构压迫性权力关系，推进边缘群体教育公平 | 执行上级政策指标、提高测验排名与行政依从 | 依托数据诊断反馈，优化教学流程、深化研讨[[Dialogue in Education\|对话]]并保障办学质量 |
 > | **组织关系** | 分布式协作网络与去私有化的教研共同体 | 具有批判意识的盟友关系与解放性赋权[[Dialogue in Education\|对话]] | 上下级命令服从、绩效考核监督与合同问责 | 教学诊断者、同侪协作赋能者与目标协定对话中枢 |
 > | **证据定位** | 作为审慎探究的适切资源，强调领导言行示范 | 审视证据生产背后的意识形态与权力偏见 | 作为绩效考核与合法化交付的硬性指标工具 | 作为校本持续改进的客观镜鉴与教学诊断依据 |
 > | **工时重点** | 兼顾全校常规行政管理与教学关注 | 投向批判性对话与社会行动动员 | 消耗于外部公文填报与形式化绩效审计 | 系统性削减课堂兼课，集中于深入课堂听课与教学质量研讨 |
@@ -123,7 +124,7 @@ updated: 2026-09-18
 > - **构筑安全环境（Building Safe Environment）** 营造支持性育人生态，兼顾学生学业[[Growth|成长]]、身心健康与情感归属。
 > - **榜样型领导示范（Role-modelling Leadership）** 领导者躬身参与教学一线，言行一致示范外部科研成果的课堂落地转化。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 187–188, 191)]]
 > - **制度化时空排程（Protected Infrastructure）** 在日常作息中刚性划拨专有教研工时，设立[[Professional Learning Community|专业学习共同体]]（PLCs）并隔绝行政杂务干扰。
-> - **微观工时重组与实地诊断（Micro-Time Allocation and Diagnosis）** 突破传统兼课教师的精力束缚，将实质性工作时间投向深入课堂听课观摩、教学研讨对话与校本自我评估。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 30–31)]]
+> - **微观工时重组与实地诊断（Micro-Time Allocation and Diagnosis）** 突破传统兼课教师的精力束缚，将实质性工作时间投向深入课堂听课观摩、教学研讨[[Dialogue in Education|对话]]与校本自我评估。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 30–31)]]
 
 > [!logic-map]- 学校领导力驱动[[Evidence-Based School Development|循证学校改进]]的机制链
 > ```mermaid
@@ -176,7 +177,7 @@ updated: 2026-09-18
 > 探讨宏观治理模式如何穿透学校领导者的日常时间分配，论证从兼课教师向教育企业管理者的结构性转型机制。
 
 > [!claim] Altrichter et al.
-> **教育企业管理者角色的经验确立** 阿尔特里希特（Herbert Altrichter）等学者基于对奥地利中小学校长的实证调查指出，领导力的制度重塑最终必须落实于微观时间结构的重构。在传统科层体制下，中小学校长长期固守兼任行政事务的资深任课教师（Unterrichtende mit Zusatzaufgaben）这一历史角色；而高度认同产出导向与循证治理的校长，在实践中系统性缩减了近 14 个百分点的直接授课负担，将释放出的宝贵工时实质性投向深入课堂听课观摩、教学诊断研讨与校本自我评估，在实际行动中转型为以组织改进和教学质量引领为核心的教育企业管理者（Manager eines pädagogischen Betriebs）。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 30–33)]]
+> **教育企业管理者角色的经验确立** [[Herbert Altrichter|阿尔特里希特]]（Herbert Altrichter）等学者基于对奥地利中小学校长的实证调查指出，领导力的制度重塑最终必须落实于微观时间结构的重构。在传统科层体制下，中小学校长长期固守兼任行政事务的资深任课教师（Unterrichtende mit Zusatzaufgaben）这一历史角色；而高度认同产出导向与[[Output-Oriented Governance|循证治理]]的校长，在实践中系统性缩减了近 14 个百分点的直接授课负担，将释放出的宝贵工时实质性投向深入课堂听课观摩、教学诊断研讨与校本自我评估，在实际行动中转型为以组织改进和教学质量引领为核心的教育企业管理者（Manager eines pädagogischen Betriebs）。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 30–33)]]
 
 ---
 

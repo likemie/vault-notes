@@ -3586,6 +3586,20 @@
     ]
   },
   {
+    "title": "Academic Attrition",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Academic Attrition.md",
+    "aliases": [
+      "学业流失",
+      "学生流失",
+      "Student Attrition",
+      "School Attrition",
+      "学业脱落",
+      "学生辍学",
+      "早期离校"
+    ]
+  },
+  {
     "title": "Analytical Stance",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Analytical Stance.md",
@@ -4566,6 +4580,18 @@
       "教育上的科学态度",
       "Scientific Disposition",
       "科学探究心智"
+    ]
+  },
+  {
+    "title": "Scientifically Based Research",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md",
+    "aliases": [
+      "科学本位研究",
+      "基于科学的研究",
+      "基于科学研究",
+      "SBR",
+      "Scientifically-Based Research"
     ]
   },
   {
@@ -19690,7 +19716,7 @@
   {
     "title": "Schulqualität Allgemeinbildung",
     "type": "fact",
-    "path": "wiki/facts/austria/Schulqualität Allgemeinbildung.md",
+    "path": "wiki/facts/austria/Schulqualität Allgemeinbildung.md",
     "aliases": [
       "SQA",
       "奥地利普通学校质量管理体系",

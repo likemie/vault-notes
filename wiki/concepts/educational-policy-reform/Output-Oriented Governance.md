@@ -10,7 +10,7 @@ aliases:
 summary: "一种以设定教育标准、开展学习成效监测与提供数据反馈为核心，强调路径自主而非目标自主的现代教育治理模式，与传统的投入导向科层规制形成鲜明对照。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,8 +43,11 @@ related_methods:
   - "[[Correlational Research]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Schulqualität Allgemeinbildung]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
+related_persons:
+  - "[[Herbert Altrichter]]"
 confidence: high
 status: draft
 created: 2026-09-18
@@ -123,7 +126,7 @@ updated: 2026-09-18
 > 探讨产出导向治理如何通过权力结构重组与信息供给，假设学校行动者具有吸收和转化外来评估数据的理性动机与组织能力。
 
 > [!claim] Altrichter et al.
-> **[[Rationalism in International Relations|理性主义]]假说与路径自主重构** 产出导向治理在理论架构上依赖一种理性主义决策模型。赫伯特·阿尔特里希特（Herbert Altrichter）等学者指出，新治理模式打破了传统科层制对教育输入的死板限定，赋予单所学校充分的组织实施自主权；然而这种自主绝非目标自主，而是将国家教育标准内嵌于指标监测体系中。该治理架构深层假设[[School Leadership|学校领导]]者与教师会主动将外部监测数据视作客观镜鉴，通过对数据的专业解读发现学校内部短板，进而制定有针对性的改进举措。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 19–21)]]
+> **[[Rationalism in International Relations|理性主义]]假说与路径自主重构** 产出导向治理在理论架构上依赖一种理性主义决策模型。[[Herbert Altrichter|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者指出，新治理模式打破了传统科层制对教育输入的死板限定，赋予单所学校充分的组织实施自主权；然而这种自主绝非目标自主，而是将国家教育标准内嵌于指标监测体系中。该治理架构深层假设[[School Leadership|学校领导]]者与教师会主动将外部监测数据视作客观镜鉴，通过对数据的专业解读发现学校内部短板，进而制定有针对性的改进举措。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 19–21)]]
 
 ---
 
@@ -164,7 +167,7 @@ updated: 2026-09-18
 > - **1980 年代 — 单校发展（Einzelschulentwicklung）理念萌生** 学界与政策界开始认识到去中心化的单所学校作为教育变革核心行动单元的关键价值。
 > - **1990 年代中叶 — 治理变革第一阶段：[[School Autonomy|学校自主权]]（Schulautonomie）** 放宽中央科层对资源投入和细则的过细规定，扩大单校在预算与地方事务中的自决空间，强化办学灵活性。
 > - **1990 年代后期 — 治理变革第二阶段：校长地位提升与校本质量工具** 确立校长的中枢引领地位，普遍引入学校发展规划（Schulprogramme）、自我评估与质量管理框架，为自主单校确立微观组织协调杠杆。
-> - **2000 年代至今 — 治理变革第三阶段：产出导向与循证治理成型** [[PISA]] 冲击促发全面转向，建立国家教育标准、跨校统考监测、国家教育报告以及新型督导目标协定体系（如奥地利普通学校质量保障体系，德文：Schulqualität Allgemeinbildung，缩写为 SQA），完整确立产出导向治理形态。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 19–20)]]
+> - **2000 年代至今 — 治理变革第三阶段：产出导向与循证治理成型** [[PISA]] 冲击促发全面转向，建立国家教育标准、跨校统考监测、国家教育报告以及新型督导目标协定体系（如[[Schulqualität Allgemeinbildung|奥地利普通学校质量保障体系]]，德文：Schulqualität Allgemeinbildung，缩写为 SQA），完整确立产出导向治理形态。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 19–20)]]
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -48,13 +48,14 @@ related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Beech_2009_CE]]"
 related_theories:
+  - "[[Educational Governance Framework]]"
   - "[[Convergence Theory in Comparative Education]]"
 related_methods:
   - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Mediatised Governance
@@ -87,7 +88,7 @@ updated: 2026-09-17
 ## 概念辨析
 
 > [!contrast-table] 媒介化治理与相近治理概念辨析
-> | 维度 | 媒介化治理（Mediatised Governance） | 全球教育治理（Global Educational Governance） | 舆论操控治理（[[Governance by Spin]]） |
+> | 维度 | 媒介化治理（Mediatised Governance） | 全球教育治理（Global [[Educational Governance Framework\|Educational Governance]]） | 舆论操控治理（[[Governance by Spin]]） |
 > |---|---|---|---|
 > | **核心驱动力量** | 本土[[Media Logic\|媒体逻辑]]、新闻价值与政客媒介资本的双向互动 | 超国家机构（[[OECD]]）的跨国对标、指标监控与同行评议 | 国家政府公关机器对公众感知的单向塑造与争议消解 |
 > | **数据工具角色** | 评估数据成为高度可塑的修辞弹药，用于制造危机感 | 评估数据作为客观指标，界定全球最佳实践与质量基准 | 政策文本中的模糊话语，用于并置矛盾声明以安抚多元群体 |

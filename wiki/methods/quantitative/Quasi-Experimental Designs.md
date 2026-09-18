@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 75
+method_related_count: 76
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Ecological Validity]]"
   - "[[Tracking]]"
+  - "[[Scientifically Based Research]]"
   - "[[Evidence Standards]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Academic Achievement]]"
@@ -106,7 +107,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Quasi-Experimental Designs
@@ -139,7 +140,7 @@ updated: 2026-09-17
 > - **认识论取向** 秉承[[Postpositivism|后实证主义]]与[[Pragmatic Paradigm|实用主义]]哲学取向，承认学校系统具有开放性、社会关系复杂性与情境嵌套性，在坚持[[Causality|因果推断]]逻辑的同时，以妥协性控制技术换取更高的[[Ecological Validity|生态效度]]（Ecological Validity）。
 > - **因果识别定位** 采用[[Counterfactual|反事实]]潜在结果逻辑，但因果识别依赖于**条件独立性[[Hypothesis|假设]]（Conditional Independence Assumption, CIA）**——即假定在控制了基线[[Pre-test and Post-test|前测]]和关键可观察协[[Variable|变量]]后，组别分配与潜在结果在统计上条件独立。
 > - **与[[Randomised Controlled Trials|随机对照试验]]的互补关系** 当出于伦理考量（如不能剥夺弱势学生的必要辅导）、行政限制（学校拒绝打破现有班级建制）、政策可行性，或学校拒绝被[[Random Assignment|随机分配]]宏观组织决策（如混合[[Tracking|能力分组]]分流、作息时间变革）而无法实施 RCT 时，QED 提供唯一合法的因果证据替代路径（[[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]]；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 55–56]]）。
-> - **法定证据体系的演进定位** 相较于 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB）笼统要求的“基于科学的研究”（scientifically based research），[[Every Student Succeeds Act|ESSA]] 将 QED 正式制度化为 Tier II 中等[[Evidence Standards|证据标准]]，要求试验方案具备严密的前测基线控制与统计调整模型（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024, pp. 162–163]]）。
+> - **法定证据体系的演进定位** 相较于 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB）笼统要求的“[[Scientifically Based Research|基于科学的研究]]”（scientifically based research），[[Every Student Succeeds Act|ESSA]] 将 QED 正式制度化为 Tier II 中等[[Evidence Standards|证据标准]]，要求试验方案具备严密的前测基线控制与统计调整模型（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024, pp. 162–163]]）。
 
 > [!method-stack] 数据、变量与方法层级
 > - **数据结构** 重复截面数据、面板数据（Panel Data）、多时间点追踪序列、多层嵌套行政数据（学生-班级-学校）。
@@ -227,7 +228,7 @@ updated: 2026-09-17
 > | 清算中心 / 政策法规 | 对 QED 因果设计的描述强度 | 允许获得的最高评级待遇 | 关键限制条件与特殊要求 |
 > |:---|:---:|:---|:---|
 > | **[[What Works Clearinghouse\|WWC]] (美国联邦)** | 2 级 (明确规程) | **Meets Standards With Reservations**<br>(封顶于二等，不得作为单项一等证据) | 必须满足严苛的基线等值性要求（$\le 0.25\text{ SD}$）及整体/差异流失模型。 |
-> | **[[ESSA 2015 Evidence Standards\|ESSA 2015]] (联邦立法)** | 法定分级 | **Tier 2 (Moderate Evidence)**<br>(中等证据法定上限) | 要求具备良好的统计控制与广泛代表性，作为学区申请联邦资助的合法依据。 |
+> | **[[Every Student Succeeds Act|ESSA 2015 证据标准]] (联邦立法)** | 法定分级 | **Tier 2 (Moderate Evidence)**<br>(中等证据法定上限) | 要求具备良好的统计控制与广泛代表性，作为学区申请联邦资助的合法依据。 |
 > | **[[Best Evidence Encyclopedia\|最佳证据百科全书（Best Evidence Encyclopedia, BEE）]]** | 1 级 ([[Meta-analysis\|元分析]]纳入) | **Moderate / Strong** (需与 [[Randomised Controlled Trials\|RCT]] 结合) | 约翰斯·霍普金斯大学（Johns Hopkins University, JHU）团队允许高质量 QED 纳入元分析；最高 Strong 证据允许“1 项大型多中心 RCT + 1 项高质量 QED”组合。 |
 > | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 3 级 (严苛规程) | **Promising** (封顶于二等) | 排除单独 QED 参评 Model / Model Plus 顶级认证；强制要求[[Evaluator Independence\|独立评估者]]报告与[[Fade-out Effect\|持续效果]]。 |
 > | **[[National Dropout Prevention Center\|国家预防辍学中心（National Dropout Prevention Center, NDPC）]]** | 1 级 (宽松包容) | **Strong Evidence** (允许 QED 获评最高级) | 准入门槛包容，仅要求存在显著正向 QED 证据且方案在学校现场实际运行满 3 年。 |

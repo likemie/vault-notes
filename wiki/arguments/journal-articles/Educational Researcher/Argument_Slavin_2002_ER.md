@@ -23,6 +23,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Blue Skies Research]]"
   - "[[Document]]"
+  - "[[Scientifically Based Research]]"
   - "[[Evidence-Based Reform]]"
   - "[[Research Utilization]]"
   - "[[Hypothesis]]"
@@ -43,16 +44,16 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-06-08
+updated: 2026-09-18
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Slavin_2002_ER"
 argument_key: "Argument_Slavin_2002_ER"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Researcher"
 book_title: ""
@@ -101,7 +102,7 @@ issuing_organization: ""
 > Slavin 承认随机化实验的困难和昂贵（以 [[Success for All]] 随机化评估为例：最初 USD 30,000/校的激励不够，最终需免费提供项目，约 USD 70,000/校成本），但认为"无论如何通常可以做到"。同时主张**不应单方面要求随机化** 在不同地点由不同研究者重复进行的匹配研究，可能比"一生一次"的随机化研究产生更有意义的结果。从**政治理由**出发，当下应优先投资无可挑剔的随机化实验以修复教育研究的"糟糕声誉"。(pp. 17–18)
 >
 > ### 4. 区分"基于科学研究"与"经严格评估"
-> 这是 Slavin 的核心概念区分：[[No Child Left Behind Act 2001|NCLB]] 法案中出现 110 次的"基于科学研究"（based on scientifically based research）是一个有问题的标准——任何项目都能找到支持其原则的研究。真正有效的标准应当是项目**本身已经过严格实验评估并被证明有效**。Slavin 用莱特兄弟类比：其他发明家使用与莱特兄弟完全相同的航空科学研究，但他们的飞机从未离开地面。(pp. 18–19)
+> 这是 Slavin 的核心概念区分：[[No Child Left Behind Act 2001|NCLB]] 法案中出现 110 次的"[[Scientifically Based Research|基于科学研究]]"（based on scientifically based research）是一个有问题的标准——任何项目都能找到支持其原则的研究。真正有效的标准应当是项目**本身已经过严格实验评估并被证明有效**。Slavin 用莱特兄弟类比：其他发明家使用与莱特兄弟完全相同的航空科学研究，但他们的飞机从未离开地面。(pp. 18–19)
 >
 > ### 5. 需要独立共识审查机制
 > 由于研究者之间即使在方法论和原则上达成一致也可能公开分歧，反对[[Evidence-Based Reform|证据本位改革]]的人会利用这些分歧。因此需要频繁组建代表多元观点的独立审查委员会，"在从业者和政策制定者能接触的语言中产生关于什么有效的共识"。(p. 19)
