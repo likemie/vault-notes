@@ -1,13 +1,14 @@
 ---
 title: Black Box RCTs
 aliases:
-  - 黑箱RCT
   - 黑箱随机对照试验
+  - 黑箱试验
+  - black box randomised controlled trials
 summary: "一种不解释干预如何、为何以及在何种条件下有效的 RCT 设计取向，常被用于批评只报告平均效果而忽视机制、情境和专业判断的实验研究。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -34,6 +35,7 @@ related_methods:
   - "[[Mechanism Experiments]]"
   - "[[Effectiveness Trial]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Random Assignment]]"
 related_persons: []
 related_facts:
@@ -121,7 +123,7 @@ updated: 2026-09-18
 ## 争议与批评
 
 > [!warning] 争议与批评
-> 评估界对黑箱 [[Randomised Controlled Trials|RCT]] 的拒绝已有悠久历史（Chen, 1990; Weiss, 1995），但 Peterson (2016) 的独特贡献在于：她不是在"放弃 RCT"和"坚持黑箱 RCT"之间做选择，而是提出了**第三条道路**——通过[[Mechanism Experiments|机制实验]]将 RCT 改建为生成与教师探究实践兼容的因果知识。
+> 评估界对黑箱 [[Randomised Controlled Trials|RCT]] 的拒绝已有悠久历史（Chen, 1990; Weiss, 1995），但 [[Argument_Peterson_2016_IJRME|Peterson (2016)]] 的独特贡献在于：她不是在"放弃 RCT"和"坚持黑箱 RCT"之间做选择，而是提出了**第三条道路**——通过[[Mechanism Experiments|机制实验]]将 RCT 改建为生成与[[Practitioner Enquiry|教师探究]]实践兼容的因果知识。
 >
 > [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 明确声明其提案从"[[Random Assignment|随机化]]评估将继续是教育研究的主要组成部分"这一立场出发——部分原因是随机化评估"更不易腐败和'伪评估'（Fowler, 2012）且与其他影响评估相比未显示[[Publication Bias|发表偏差]]（Vivalt, forthcoming）"。
 

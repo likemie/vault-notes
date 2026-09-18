@@ -9,7 +9,7 @@ title: "Argument_Peterson_2016_IJRME"
 argument_key: "Argument_Peterson_2016_IJRME"
 argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Improvement Science]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
   - "[[Effectiveness Trial]]"
@@ -56,7 +57,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: '2026-06-08'
+updated: 2026-09-18
 year: 2016
 doi: ""
 citation_aliases:
@@ -66,7 +67,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 如何将实验科学（"什么有效"[[Paradigm|范式]]，以 [[Randomised Controlled Trials|RCT]] 为核心）和[[Improvement Science|改进科学]]（以网络化教师探究为核心）的核心要素整合，以克服各自弱点——黑箱 RCT 仅生成适用于二选一决策的证据，改进科学缺乏稳健因果估计——形成一个更有效的提高教育成就的系统性策略？
+> 如何将实验科学（"什么有效"[[Paradigm|范式]]，以 [[Randomised Controlled Trials|RCT]] 为核心）和[[Improvement Science|改进科学]]（以网络化[[Practitioner Enquiry|教师探究]]为核心）的核心要素整合，以克服各自弱点——黑箱 RCT 仅生成适用于二选一决策的证据，改进科学缺乏稳健因果估计——形成一个更有效的提高教育成就的系统性策略？
 
 ## 理论框架
 
@@ -105,7 +106,7 @@ citation_aliases:
 >
 > ### 结论：共享的"构建块"作为整合媒介
 >
-> 两种适应的兼容性在于：随机化评估转移性机制产生稳健可靠的因果估计→这些机制作为"构建块"指导改进网络中的教师探究→网络实践洞见反馈回新的机制[[Hypothesis|假设]]进入实验测试。"机制标签"将"什么有效"从极少被实施的程序性干预重新导向更高杠杆和更可靠类型的"什么"——最接近影响学习的因素(p. 308)。
+> 两种适应的兼容性在于：随机化评估转移性机制产生稳健可靠的因果估计→这些机制作为"构建块"指导改进网络中的[[Practitioner Enquiry|教师探究]]→网络实践洞见反馈回新的机制[[Hypothesis|假设]]进入实验测试。"机制标签"将"什么有效"从极少被实施的程序性干预重新导向更高杠杆和更可靠类型的"什么"——最接近影响学习的因素(p. 308)。
 
 ## 主要发现
 

@@ -8,10 +8,10 @@ aliases:
 summary: "实践者在特定物理与社会情境中通过长期实践积累的、兼具默会性与具身性的实践智慧与手艺知识，能够应对现场偶发挑战并促成实际成效的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - sociology-of-expertise
   - science-and-technology-studies
@@ -43,6 +43,7 @@ related_theories: []
 related_methods:
   - "[[Accounts]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Effect Size]]"
   - "[[Qualitative Research]]"
   - "[[Documentary Analysis]]"
@@ -128,7 +129,7 @@ updated: 2026-09-18
 > 阐述一线专业人员如何凭借贡献专长审视并改造外部研究证据。
 
 > [!claim] [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]]
-> **受训判断力对外部中介证据的抵制与校准** 当外部[[Educational Brokerage Agency|知识中介机构]]或工具包推销的“有效做法”（如削减[[Teaching Assistant|助教]]以节约成本的结论）与一线长期的具身实践经验直接冲突时，具有成熟贡献型专长的校长与教师会展现出坚决的专业怀疑主义。他们依托对微观生源特征与特定学生的深刻理解，将外部研究降维为粗略的参考起点或[[Dialogue in Education|对话]]契机，通过实践者探究（practitioner enquiry）检验其真实适切性，拒绝被动盲从缺乏情境敏感性的技术客观性主张。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 19–21)]]
+> **受训判断力对外部中介证据的抵制与校准** 当外部[[Educational Brokerage Agency|知识中介机构]]或工具包推销的“有效做法”（如削减[[Teaching Assistant|助教]]以节约成本的结论）与一线长期的具身实践经验直接冲突时，具有成熟贡献型专长的校长与教师会展现出坚决的专业怀疑主义。他们依托对微观生源特征与特定学生的深刻理解，将外部研究降维为粗略的参考起点或[[Dialogue in Education|对话]]契机，通过[[Practitioner Enquiry|实践者探究]]（practitioner enquiry）检验其真实适切性，拒绝被动盲从缺乏情境敏感性的技术客观性主张。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 19–21)]]
 
 ---
 

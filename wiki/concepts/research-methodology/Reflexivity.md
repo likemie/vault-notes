@@ -9,7 +9,7 @@ aliases:
 summary: "研究者与实践者审视自身角色、背景、偏见与隐性假设如何塑造研究与行动全过程的认识论机制，从现象学哲学根基延伸至行动研究、教育探究反思性（防范活动陷阱）及人机协同分析中的人在回路主体责任。"
 type: concept
 domain: "research-methodology"
-related_count: 62
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Critical Ethnography]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Qualitative Computer Software]]"
   - "[[Negative Case Analysis]]"
   - "[[Internal Consistency]]"
@@ -253,7 +254,7 @@ updated: 2026-09-18
 > - **1980s — [[Ethnography|民族志]]反思浪潮与工具确立** 哈默斯利与阿特金森（Hammersley & Atkinson, 1983）确立“研究者即卓越工具”的方法论命题；阿什莫尔（Ashmore, 1989）提出[[Discourse Analysis|话语分析]]的双重反身性，反身性进入[[Qualitative Research|质性研究]]核心。
 > - **1990s — 批判转向与[[Emancipatory Action Research|解放性行动研究]]** 霍尔（Hall, 1996）与匡茨（Quantz, 1992）等学者将反身性融入解放性[[Action Research|行动研究]]与[[Critical Ethnography|批判民族志]]，反身性被提升为打破支配结构、揭示利益偏倚的[[Epistemology|认识论]]基石。
 > - **2000s–2010s — 质性写作规范与[[Operationalization|操作化]]** 克雷斯威尔（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）与沃尔福德（Walford, 2001）推动反身性操作化，确立研究者位置性陈述、第一人称作者叙事规范，并划定克制个人自传性暴露的理论边界。
-> - **2018 — 教育实践者探究中的反身性与[[Activity Traps|活动陷阱]]实证诊断** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 将[[Reflective Thinking|反思性探究]]（Reflective Professional Inquiry）确立为有效学习环境的判定特征；实证揭示了教师高频表层尝试（82%）与底层[[Hypothesis|假设]]反身性审视严重脱节（55%）的现实落差，论证了反身性缺失诱发[[Activity Traps|活动陷阱]]的组织病理机制。
+> - **2018 — 教育[[Practitioner Enquiry|实践者探究]]中的反身性与[[Activity Traps|活动陷阱]]实证诊断** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 将[[Reflective Thinking|反思性探究]]（Reflective Professional Inquiry）确立为有效学习环境的判定特征；实证揭示了教师高频表层尝试（82%）与底层[[Hypothesis|假设]]反身性审视严重脱节（55%）的现实落差，论证了反身性缺失诱发[[Activity Traps|活动陷阱]]的组织病理机制。
 > - **2020s — 计算质性分析与人在回路主体责任** 面对计算机辅助软件（[[Qualitative Computer Software|CAQDAS]]）与[[Generative Artificial Intelligence|生成式人工智能]]辅助[[Coding in Qualitative Research|编码]]的普及，学界确立人在回路（HITL）反身性准则，反身性成为抵御算法黑箱与去情境化的核心防线（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 560–561]]）。
 > - **2022 — [[Evidence-Based Education|循证教育]]生态与反思性[[Organizational Culture|组织文化]]确立** 莫纳什 Q 计划（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a]]）在[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]中，将反思性从个体研究者认识论自省扩展为涵盖“探究心智”与“反思性[[Organizational Culture|组织文化]]”的多层次使能构件，确立了制度化批判反思与心理安全环境在防范循证形式主义中的关键地位。
 

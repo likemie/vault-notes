@@ -11,7 +11,7 @@ aliases:
 summary: "由澳大利亚莫纳什大学 Q 项目提出的研究使用理论框架，将质量使用界定为对适切研究证据的审慎参与与实施，受个体、组织与系统多层使能构件协同支持，提炼出六大实践特征并广泛应用于学校实践与跨国政策生态诊断"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 63
+theory_related_count: 64
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -69,6 +69,7 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Questionnaire]]"
   - "[[Rating Scale]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -228,7 +229,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > - **前提二** 在宏观政策与中观学校缺乏制度化审议时间与中介保障时，行动者的高主观承诺度无法转化为高质量审议，蜕化为浅层形式化或交易型工具采购。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 92–95)]]
 >   > [!evidence-grid]- 证据
 >   > - **[[OECD]] 跨国政策调查** 37 个教育系统调查显示，决策者使用研究的主观承诺意愿极高（均分 4.46），但深层信任（3.19/3.42）与概念共识（3.30）严重匮乏，导致 61%–70% 的使用沦为寻找现成方案的交易型采购，深层[[Dialogue in Education|对话]]仅占 47%，建立信任仅占 33%。
->   > - **行政文书压垮善意** 72% 的教育者诉求在日常工作排程中内置研讨时间；中层管理者沉痛指出繁重文书考核彻底压垮了教师探究的善意。
+>   > - **行政文书压垮善意** 72% 的教育者诉求在日常工作排程中内置研讨时间；中层管理者沉痛指出繁重文书考核彻底压垮了[[Practitioner Enquiry|教师探究]]的善意。
 > - **推导** ① 个体层面的道德倡导与主观热情无法弥合制度性工时赤字；② 在缺乏专有排程与行政减负时，高质量使用发生功能性畸变，要么异化为透支教师个人业余时间的道德剥削，要么蜕化为追求速成方案的表面文章；③ 专有工时保障与减负是维持 QURE 的刚性基础设施。
 
 > [!proposition-chain] 核心命题四｜中介角色与资源在科层行政端过度集聚与学校实践端长期真空，固化了自上而下的单向供给推送偏误

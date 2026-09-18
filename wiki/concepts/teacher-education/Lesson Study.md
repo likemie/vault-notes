@@ -9,7 +9,7 @@ aliases:
 summary: "起源于日本的校本协同教研范式，通过集体备课、授课观课、基于学童证据的研讨与教学微调循环提升教学质量；在证据知情体系中被确立为融通内部实践探究与外部研究使用、支撑专业学习共同体落地的联合实践发展（JPD）核心载体，同时其有效性高度依赖制度化课时保障与高位专业引领。"
 type: concept
 domain: "teacher-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,6 +49,7 @@ related_theories: []
 related_methods:
   - "[[Action Research]]"
   - "[[Design-Based Research]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Effect Size]]"
@@ -85,7 +86,7 @@ updated: 2026-09-18
 > - **系统定位** 在证据知情学校体系中，课例研究被确立为**[[Joint Practice Development|联合实践发展]]（Joint Practice Development, JPD）**的典范机制，是让[[Professional Learning Community|专业学习共同体]]（PLC）将抽象研究证据在真实课堂中进行“测试、实施与微调”的操作载体。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 125)]]
 
 > [!citation-card] 布朗与格里尼论课例研究作为融通证据与实践的 JPD 载体
-> 教师参与研究[[Evidence-Informed Practice|证据知情实践]]存在两大路径：一是开展自身的实践者探究，二是搜寻外部已被验证的成熟策略；在现实中，若专业发展依托联合实践发展（JPD）如课例研究展开，这两项活动将高度重叠。学校必须建立起能与 PLC 学习进程相契合的[[Research Utilization|证据使用]][[Operationalization|操作化]]系统，使教师得以协同测试、实施并完善改进教学的拟议方案；这通过 JPD 及课例研究等方法得到最有效实现。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122, 125)]]
+> 教师参与研究[[Evidence-Informed Practice|证据知情实践]]存在两大路径：一是开展自身的[[Practitioner Enquiry|实践者探究]]，二是搜寻外部已被验证的成熟策略；在现实中，若专业发展依托联合实践发展（JPD）如课例研究展开，这两项活动将高度重叠。学校必须建立起能与 PLC 学习进程相契合的[[Research Utilization|证据使用]][[Operationalization|操作化]]系统，使教师得以协同测试、实施并完善改进教学的拟议方案；这通过 JPD 及课例研究等方法得到最有效实现。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122, 125)]]
 >
 > *“The scope of these activities in reality are likely to significantly overlap, especially so if the form of professional development activity used to support evidence use builds upon a form of Joint Practice Development (JPD) such as Lesson Study (Sebba, Tregenza, & Kent, 2012)... Schools must also have in place systems for operationalizing research use in ways that are congruent with the process of learning achieved within PLCs; in other words, formal systems for allowing teachers to work together in testing, implementing, and refining proposed approaches for improving practice. This is best achieved via methods such as JPD (and similar approaches including Lesson Study, Learning Walks, etc.).”*
 
@@ -119,7 +120,7 @@ updated: 2026-09-18
 > - **第五阶段：教学法提炼与成果沉淀（Consolidating Learning & Revision）** 总结关于该主题微观学科教学知识（PCK）的普适性结论，修改教案并在新班级再教，或形成公共校本课例知识资产。
 
 > [!factors] 课例研究作为高质量 [[Joint Practice Development|JPD]] 载体的三大核心机制（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]; Sebba et al., 2012）
-> - **内外证据深度融通（Bridging Practitioner Inquiry and External Research）** 打破“教师只做微观摸索”或“机械照搬外部[[Document|文献]]”的人为割裂；课例研究将外部经检验的高质量证据作为教案设计的科学支撑，并通过课堂真实互动检验外部证据在本土情境下的有效性，实现“从事探究”（inquiry）与“使用证据”（evidence use）的紧密交融。
+> - **内外证据深度融通（Bridging [[Practitioner Enquiry|practitioner inquiry]] and External Research）** 打破“教师只做微观摸索”或“机械照搬外部[[Document|文献]]”的人为割裂；课例研究将外部经检验的高质量证据作为教案设计的科学支撑，并通过课堂真实互动检验外部证据在本土情境下的有效性，实现“从事探究”（inquiry）与“使用证据”（evidence use）的紧密交融。
 > - **协同测试与微调[[Operationalization|操作化]]系统（Testing, Implementing, and Refining）** 充当 [[Professional Learning Community|PLC]] 的实质性落地规程；使教师团队避免停留在会议室的高谈阔论，而是通过真实的课堂现场共同检验[[Hypothesis|假设]]、试验新法、微调策略，形成因果严密的实践检验闭环。
 > - **去私有化与互惠专业信任（Relational Trust & De-privatizing Practice）** 以共同研制的教案为客体，解除了对执教者个人的评价压力；依托“值得信赖的同行”（trusted peers）之间的平等切磋，将封闭孤立的私人课堂转化为共享的专业探究基地。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122, 125)]]
 
@@ -152,7 +153,7 @@ updated: 2026-09-18
 ### 命题三　课例研究作为联合实践发展载体，是融通实践者探究与外部研究使用的操作中枢
 
 > [!concept-lens] [[Joint Practice Development|JPD]] 载体与 [[Professional Learning Community|PLC]] 循证落地的组织中枢
-> 课例研究消解了实践者探究与外部证据运用的壁垒，是 PLC 避免[[Activity Traps|活动陷阱]]的关键制度保障。
+> 课例研究消解了[[Practitioner Enquiry|实践者探究]]与外部证据运用的壁垒，是 PLC 避免[[Activity Traps|活动陷阱]]的关键制度保障。
 
 > [!claim] [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]]; Sebba, J. et al.; Dudley, P.
 > **实践探究与外部证据的双向交融** 教师参与[[Evidence-Informed Practice|证据知情实践]]面临两难：自主探究容易因循守旧，外部研究容易浮于表面。Brown & Greany 指出，课例研究作为联合实践发展（JPD）的典型模式，使“教师自主探究”与“运用成熟研究证据”在真实磨课中实现有机结合。课例研究不仅提供微观课堂反思，更为学校 PLC 提供了正式的制度系统，使教师得以协同测试、实施并微调外部循证干预举措；唯有依托此类严密结构，学校才能避免陷入频繁开会却无因果检验的[[Activity Traps|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122, 125)]]

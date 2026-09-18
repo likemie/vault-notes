@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 87
+argument_related_count: 92
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -63,7 +63,10 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Growth]]"
   - "[[Policy Mobility]]"
+  - "[[Attrition]]"
   - "[[Internal Validity]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Publication Bias]]"
   - "[[Ecological Validity]]"
   - "[[School Leadership]]"
   - "[[Abstract]]"
@@ -86,6 +89,8 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Mixed Methods Research]]"
   - "[[Statistical Significance]]"
   - "[[Qualitative Research]]"
@@ -346,14 +351,14 @@ updated: 2026-09-18
 > | **宏观政策制定导向型** | 早期中介机构；<br>美国 [[What Works Clearinghouse\|WWC]]（政策端）；<br>日本 NIER 政策部；<br>荷兰 [[Kenniskamer]] | 产出[[Policy Mobility\|快速政策]]简报、宏观监测指标与立法咨询。 | 紧扣国家大政方针，宏观制度撬动力与规制权威强。 | 文本抽象官僚化，脱离微观课堂教学与学区采购痛点。 |
 > | **实践导向型** | 澳大利亚 [[Australian Education Research Organisation\|AERO]]（学区实践端）；<br>英国 [[Research Schools Network\|EEF 研究学校网络]]；<br>荷兰 [[Kennisrotonde]]（知识环岛）；<br>英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]]；<br>德国 [[Clearing House Unterricht\|教学研究清算中心]]（CHU，高校教师教育者与师资培训骨干端） | 学区采购端：开发实践工具包、国家核心课程大纲、问答平台与校际同伴网络；<br>师资培训端（CHU）：研制德语研究简评、在线进修学院、评价表与教师教育教学法资源。 | 直接服务课堂实践端：学区侧支持一线教师与校长微观决策，显著提升课堂采纳度；师资培训侧以高校教师教育者为战略支点，发挥乘数扩散效应。 | 学区侧规模复制中存情境稀释风险，易被政策部门借以自我脱责；师资培训侧向常态课堂渗透链路长，依赖职后研修体系机制配合。 |
 > | **大众媒体导向型** | 英国 [[Education Media Centre\|EMC]] | 对接新闻媒体采编室，提供事实核查与专家推荐。 | 阻断伪科学在公共舆论发酵，守护教育研究学术公信力。 | 受制于外部新闻突发热点，难以进行长线系统规划。 |
-> | **学术共同体导向型** | 美国 [[Best Evidence Encyclopedia\|BEE]]（学术端）；<br>英国 [[EPPI-Centre]]（方法端）；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 开展大样本定量元分析、质性与量化混合系统综述、研发综述软件。 | 学术信誉卓著，为循证教育实践奠定坚实的方法学基础。 | 产出多为长篇学术专论，一线实践决策者难以直接提取参数。 |
+> | **学术共同体导向型** | 美国 [[Best Evidence Encyclopedia\|BEE]]（学术端）；<br>英国 [[EPPI-Centre]]（方法端）；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 开展大样本定量[[Meta-analysis\|元分析]]、质性与量化混合系统综述、研发综述软件。 | 学术信誉卓著，为循证教育实践奠定坚实的方法学基础。 | 产出多为长篇学术专论，一线实践决策者难以直接提取参数。 |
 
 > [!row-contrast] 国际教育中介机构的制度特征：方法学审查立场谱系（pp. 61–64）
 > | 方法学立场类型 | 典型代表案例 | 审查准则与综合形态 | 比较优势与功能价值 | 局限与伴生挑战 |
 > |---|---|---|---|---|
-> | **因果实证派（RCT 黄金标准）** | 美国 [[What Works Clearinghouse\|WWC]]；<br>英国 EEF（RCT 评估资助端）；<br>澳大利亚 AERO；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 确立随机对照试验为因果黄金标准，严苛审查基线等值与流失偏倚。 | 结论[[Internal Validity\|内部效度]]极高，提供确凿因果效应量支撑。 | 过滤门槛过严，排斥质性知识，难以阐释"为何有效与如何发生"。 |
-> | **定量元分析与二阶综合派** | 美国 [[Best Evidence Encyclopedia\|BEE]]；<br>英国 [[EEF Teaching and Learning Toolkit\|EEF 教学与学习工具箱]]（同上，EEF 元分析综合产品端）；<br>Visible Learning MetaX；<br>德国 [[Clearing House Unterricht\|CHU]] | 运用加权元分析、进展月数折算或标准化元分析转译规程进行二阶综合。 | 兼顾统计严谨与直观可比，大幅降低实践决策者提取门槛。 | 均值效应量可能掩盖亚群体异质性，面临发表偏倚风险。 |
-> | **多元综合与混合方法派** | 英国 [[EPPI-Centre]]；<br>挪威 [[Kunnskapssenter for utdanning\|Kunnskapssenter]]；<br>新西兰 BES | 质性、量化与[[Mixed Methods Research\|混合方法]]系统综合，开创结构化混合编码。 | [[Ecological Validity\|生态效度]]高，兼顾复杂微观语境，护持专业判断。 | 方法规程繁复漫长，缺乏量化直观指标，紧急决策响应较慢。 |
+> | **因果实证派（RCT 黄金标准）** | 美国 [[What Works Clearinghouse\|WWC]]；<br>英国 EEF（RCT 评估资助端）；<br>澳大利亚 AERO；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 确立随机对照试验为因果黄金标准，严苛审查基线等值与[[Attrition\|流失]]偏倚。 | 结论[[Internal Validity\|内部效度]]极高，提供确凿因果效应量支撑。 | 过滤门槛过严，排斥质性知识，难以阐释"为何有效与如何发生"。 |
+> | **定量元分析与二阶综合派** | 美国 [[Best Evidence Encyclopedia\|BEE]]；<br>英国 [[EEF Teaching and Learning Toolkit\|EEF 教学与学习工具箱]]（同上，EEF 元分析综合产品端）；<br>Visible Learning MetaX；<br>德国 [[Clearing House Unterricht\|CHU]] | 运用加权元分析、进展月数折算或标准化元分析[[Transfer Translation Transformation\|转译]]规程进行二阶综合。 | 兼顾统计严谨与直观可比，大幅降低实践决策者提取门槛。 | 均值效应量可能掩盖亚群体[[Heterogeneity\|异质性]]，面临[[Publication Bias\|发表偏倚]]风险。 |
+> | **多[[Meta-meta-analysis\|元综合]]与[[Mixed Methods Research\|混合方法]]派** | 英国 [[EPPI-Centre]]；<br>挪威 [[Kunnskapssenter for utdanning\|Kunnskapssenter]]；<br>新西兰 BES | 质性、量化与[[Mixed Methods Research\|混合方法]]系统综合，开创结构化混合编码。 | [[Ecological Validity\|生态效度]]高，兼顾复杂微观语境，护持专业判断。 | 方法规程繁复漫长，缺乏量化直观指标，紧急决策响应较慢。 |
 > | **本土实践审议与经验知识派** | 瑞典教育法案体制（[[Swedish Institute for Educational Research\|Skolfi]] 实践端）；<br>北欧教育学（Didaktik）模式 | 将教师实践专业知识视为与形式科学研究平等的独立知识源。 | 紧密契合课堂生态效度与教师专业自主，激发实践主体性。 | 异质知识融合机制尚不明确，经验证据缺乏标准化检验流程。 |
 
 这些制度维度的交织演化，形成了各具特色的代表性中介组织实践（pp. 61–64）：

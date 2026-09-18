@@ -7,7 +7,7 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 76
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Chain of Evidence]]"
 related_methods:
+  - "[[Practitioner Enquiry]]"
   - "[[Effect Size]]"
   - "[[Action Research]]"
   - "[[Systematic Review]]"
@@ -94,7 +95,7 @@ related_facts:
   - "[[Strategic School Improvement Fund]]"
 status: completed
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-18
 journal: Review of Education
 citation: "Gorard, S., See, B. H., & Siddiqui, N. (2020). What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610."
 authors:
@@ -145,7 +146,7 @@ sources:
 > [!dual-header] 证据投入使用的两维度分类九宫格（Table 3, p. 578）
 > | 证据加工形态 \ 传递互动维度 | 被动传递 | 参与传递 | 交互传递 |
 > |---|---|---|---|
-> | **原始证据** | 期刊开放获取 | 期刊研读会 | 实践者探究 |
+> | **原始证据** | 期刊开放获取 | 期刊研读会 | [[Practitioner Enquiry\|实践者探究]] |
 > | **改写证据** | 实践者摘要工具包（如[[EEF Teaching and Learning Toolkit\|教育捐赠基金会教学与学习工具包]]（Education Endowment Foundation, EEF）） | 智库政策简报与研讨 | 沉浸式实习基地、研究型学校网络 |
 > | **[[Engineered Evidence\|工程化证据]]（Engineered Evidence）** | 预制标准化教案与教学软件 | 专家支持热线、技术服务台 | 全员群体措施的法定立法与拨款规程 |
 

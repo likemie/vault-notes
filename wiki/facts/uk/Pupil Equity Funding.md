@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,13 +29,15 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Contributory Expertise]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Practitioner Enquiry]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
+  - "[[General Teaching Council for Scotland]]"
   - "[[Pupil Premium]]"
 related_arguments:
   - "[[Argument_Kelly_2025_ROE]]"
@@ -98,7 +100,7 @@ updated: 2026-09-18
 > [!pathways]- 实施路径
 > - **资金直拨与自主采购** [[School Leadership|学校领导]]者获得独立财务账户，可直接向商业或第三部门机构购买课程干预方案与专业发展支持。[[Argument_Kelly_2025_ROE|Kelly et al. (2025, p. 14)]]
 > - **地方当局的弹性规制** 地方当局依然扮演[[Gatekeepers|守门人]]角色，有时向学校推行强制性改进方案（如将特定行为干预项目作为高辍学率学校的必选动作），同时组织学者专家讲座。[[Argument_Kelly_2025_ROE|Kelly et al. (2025, p. 15)]]
-> - **实践者探究的校本锚定** 校长普遍利用苏格兰通用教学总署（General Teaching Council for Scotland, GTCS）所倡导的实践者探究（practitioner enquiry），在落实 PEF 资助项目时组织教师搜集校本数据，评估干预措施的本土适切性。[[Argument_Kelly_2025_ROE|Kelly et al. (2025, p. 18)]]
+> - **[[Practitioner Enquiry|实践者探究]]的校本锚定** 校长普遍利用[[General Teaching Council for Scotland|苏格兰通用教学总署]]（General Teaching Council for Scotland, GTCS）所倡导的实践者探究（practitioner enquiry），在落实 PEF 资助项目时组织教师搜集校本数据，评估干预措施的本土适切性。[[Argument_Kelly_2025_ROE|Kelly et al. (2025, p. 18)]]
 
 ---
 
@@ -125,7 +127,7 @@ updated: 2026-09-18
 > > PEF 配套方案强推自上而下的外来证据消化，引发了对苏格兰悠久“教师作为研究者”传统的侵蚀担忧。
 > >
 > > - **中央政策导向** 倾向于将教师定位为已被验证证据的忠实执行者（research-users）。[[Argument_Kelly_2025_ROE|Kelly et al. (2025, p. 3)]]
-> > - **专业自治倡导者** 强调实践者探究与大学—中小学伙伴协作才是提升教师专业资本的根本路径。[[Argument_Kelly_2025_ROE|Kelly et al. (2025, p. 16)]]
+> > - **专业自治倡导者** 强调[[Practitioner Enquiry|实践者探究]]与大学—中小学伙伴协作才是提升教师专业资本的根本路径。[[Argument_Kelly_2025_ROE|Kelly et al. (2025, p. 16)]]
 
 ---
 

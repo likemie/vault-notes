@@ -64,6 +64,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[In-depth Interview]]"
+  - "[[Practitioner Enquiry]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -77,6 +78,7 @@ related_facts:
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
   - "[[Pupil Premium]]"
   - "[[Pupil Equity Funding]]"
+  - "[[General Teaching Council for Scotland]]"
 related_arguments: []
 sources:
   - "[[sources/Kelly_2025_ROE|Kelly_2025_ROE]]"
@@ -90,7 +92,7 @@ title: "Argument_Kelly_2025_ROE"
 argument_key: "Argument_Kelly_2025_ROE"
 argument_display_title: "Comparing school leaders' experiences of research use in England, Scotland and Germany"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -243,7 +245,7 @@ issuing_organization: ""
 > [!line-b] 苏格兰：地方当局行政缓冲与专业裁量探索
 > - **地方行政过滤与知名学者研训** 地方当局承担了主要证据筛选职能，通过 Tapestry Partnership 邀请 Andy Hargreaves、[[John Hattie]]、[[Dylan Wiliam]] 与 Michael Fullan 等学者作报告并开展研训。（pp. 14–15）
 > - **指令性项目与自主采购平衡** 地方当局对特定项目设定硬性指标（如 Leader G 反映高退学率学校必须执行促进替代思维策略（Promoting Alternative Thinking Strategies, PATHS）），但校长可运用 PEF 资金自主采购康奈尔大学危机治疗干预（Therapeutic Crisis Intervention, TCI）项目。（pp. 14, 18）
-> - **官方平台资源与行业媒体跟踪** 苏格兰通用教学总署（General Teaching Council for Scotland, GTCS）提供 Education Source 数据库，苏格兰教育署（Education Scotland）提供《公平干预库》（*Interventions for Equity*），EEF 仅作末尾参考，实践者常通过泰晤士报教育增刊（Times Educational Supplement, TES）追踪前沿讨论。（pp. 14–15, 18–19）
+> - **官方平台资源与行业媒体跟踪** [[General Teaching Council for Scotland|苏格兰通用教学总署]]（General Teaching Council for Scotland, GTCS）提供 Education Source 数据库，苏格兰教育署（Education Scotland）提供《公平干预库》（*Interventions for Equity*），EEF 仅作末尾参考，实践者常通过泰晤士报教育增刊（Times Educational Supplement, TES）追踪前沿讨论。（pp. 14–15, 18–19）
 
 > [!line-c] 德国汉堡：官僚信息主导、监测数据去魅与校本互助
 > - **州立研训手册与常规监测** 邦立研训院（LI）为新任校长提供涵盖人事、法律与教学的综合培训手册（Reader，Leader D），校长主要依据 IfBQ 监测数据发现问题，对外部研究标签保持去魅。（pp. 12–14）
@@ -281,7 +283,7 @@ issuing_organization: ""
 
 > [!line-b] 苏格兰校长的一线手艺坚守与批判性抵制
 > - **公然反驳官方助教无用论** 当地方教育局长试图依据 EEF 报告禁止学校使用 PEF 资金聘用助教时，校长 Leader H 凭借一线贡献专长坚决反驳，指出优秀的课堂助教价值胜过黄金，痛斥官方教条脱离实际。（p. 20）
-> - **依托实践者探究校准流行概念** 校长 Leader G 强调面对大肆炒作的可见学习（[[Visible Learning]]）等流行理念，学校必须通过校本实践者探究（Practitioner Enquiry）严格审视其对特定社区与生源的真实适切性。（pp. 20–21）
+> - **依托[[Practitioner Enquiry|实践者探究]]校准流行概念** 校长 Leader G 强调面对大肆炒作的可见学习（[[Visible Learning]]）等流行理念，学校必须通过校本[[Practitioner Enquiry|实践者探究]]（Practitioner Enquiry）严格审视其对特定社区与生源的真实适切性。（pp. 20–21）
 
 宏观问责与中介包装共同推动了[[Research Utilization|证据使用]]在微观场域中的功能异化。
 
@@ -299,7 +301,7 @@ issuing_organization: ""
 > 1. **治理体制深刻决定[[Knowledge Mediation|知识中介]]形态与实践者心理负荷** 英格兰的市场化治理催生了过载的中介机构与商业方案，导致校长陷入信息疲劳并转向熟人网络求助；苏格兰通过地方当局与高校协作保留了弹性缓冲；德国汉堡依托稳定的州级官僚研训与低利害监测，校长对外部研究光环保持淡定与去魅。（pp. 11–15）
 > 2. **[[Interactional Expertise|交互型专长]]与[[Contributory Expertise|贡献型专长]]的[[Epistemology|认识论]]鸿沟制约[[Research Translation|研究转化]]** 推崇技术客观性与还原论的医学化循证模型脱离一线教学的复杂情境；当外部中介证据（如 [[Education Endowment Foundation|EEF]] 评估认为[[Teaching Assistant|助教]]成本高而成效低）与一线校长长期积累的具身手艺知识直接冲突时，一线专业人员展现出强烈的怀疑主义与实践抵触。（pp. 19–21）
 > 3. **高利害问责导致研究证据被异化为表演性防卫工具** 在生存焦虑笼罩下的英格兰体系中，[[Evidence-Informed Practice|证据知情实践]]在很大程度上退化为校长迎合督导审查、向家长证明专业胜任力乃至为财政裁员提供合理化借口的工具性外衣，反而挤压了真正的[[Reflexivity|反思性]]实践空间。（pp. 19–23）
-> 4. **实践者探究构筑弥合专长断裂的制度桥梁** 苏格兰将实践者探究（Practitioner Enquiry）制度化嵌入教师专业标准（GTCS），使教师能够结合具体学校情境对外部证据进行调适、检验与重构，展现了弥合交互专长与贡献专长的有效路径。（pp. 15–16, 23–24）
+> 4. **[[Practitioner Enquiry|实践者探究]]构筑弥合专长断裂的制度桥梁** 苏格兰将[[Practitioner Enquiry|实践者探究]]（Practitioner Enquiry）制度化嵌入教师专业标准（[[General Teaching Council for Scotland|GTCS]]），使教师能够结合具体学校情境对外部证据进行调适、检验与重构，展现了弥合交互专长与贡献专长的有效路径。（pp. 15–16, 23–24）
 
 > [!stat-cards]- 核心数据
 > - **49** 份纳入系统[[Documentary Analysis|文献分析]]的官方政策、督导规程与中介[[Document|文献]]总量。（p. 9）

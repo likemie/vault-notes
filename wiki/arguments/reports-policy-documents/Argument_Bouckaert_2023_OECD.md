@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 110
+argument_related_count: 111
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -130,6 +130,7 @@ related_facts:
   - "[[European Standards and Guidelines]]"
   - "[[Norwegian Agency for Quality Assurance in Education]]"
   - "[[StraNES]]"
+  - "[[Federal Ministry of Education and Research]]"
   - "[[Council for Aid to Education]]"
   - "[[Higher Education Funding Council for England]]"
   - "[[InTASC Standards]]"
@@ -151,7 +152,7 @@ sources:
 issuing_organization: "OECD"
 status: draft
 created: 2026-08-26
-updated: 2026-09-07
+updated: 2026-09-18
 ---
 # Argument_Bouckaert_2023_OECD
 
@@ -304,7 +305,7 @@ updated: 2026-09-07
 > （pp. 11–16）
 
 > [!case] 德国 [[KoKoHs Program|KoKoHs]] 计划：高等教育能力建模与测量的国家级典范
-> 德国联邦教育与研究部（BMBF）在 2011–2020 年间持续资助“高等教育能力建模与测量”（Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor, KoKoHs）大型国家级科研工程，成为全球范围内规模最大、体系最完备的高教测评研发标杆（KoKoHs, 2015; Zlatkin-Troitschanskaia et al., 2017, 2020）：
+> [[Federal Ministry of Education and Research|德国联邦教育与研究部]]（BMBF）在 2011–2020 年间持续资助“高等教育能力建模与测量”（Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor, KoKoHs）大型国家级科研工程，成为全球范围内规模最大、体系最完备的高教测评研发标杆（KoKoHs, 2015; Zlatkin-Troitschanskaia et al., 2017, 2020）：
 > - **第一阶段（KoKoHs I, 2011–2015）能力建模与工具研发**
 >   - **跨校学术网络** 汇聚全德 50 余所大学与科研机构的 220 余名资深研究者，下设 70 个跨学科独立子项目。
 >   - **研发产出** 成功研制出 41 套高等教育能力理论模型与 116 套配套心理测量学工具，系统覆盖经济学、工程学、医学、教师教育等专业胜任力以及批判性思维、复杂问题解决等跨学科通用高阶认知技能。

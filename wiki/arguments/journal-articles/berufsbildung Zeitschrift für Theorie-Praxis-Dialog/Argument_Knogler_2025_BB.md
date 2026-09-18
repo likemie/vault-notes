@@ -114,8 +114,8 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Evidence-Informed Practice\|证据知情实践（Evidence-Informed Practice, EIP）]]**<br>[[Evidence-Informed Practice]] | 将教师专业决策从依赖个体直觉与经验教条，转向系统面向最佳可用科学证据（Bauer & Kollar, 2023; Stark, 2017），作为论证教学有效性与专业立论合法性的规范基石。 |
-> | **[[Research-Practice Gap\|研究-实践鸿沟（Transferproblem）]]**<br>[[Research-Practice Gap]] | 揭示科研产出与教学实践脱节的系统性根源（Gräsel, 2010），阐明教育科研偏重理论发展而非实践指引的生产逻辑差异（[[Richard J. Shavelson|理查德·沙维尔森（Richard J. Shavelson）]]，Shavelson, 2020），界定清算中介介入的必要性。 |
-> | **[[Educational Brokerage Agency\|教育知识中介理论（Knowledge Brokerage）]]**<br>[[Educational Brokerage Agency]] | 将中介机构界定为连接研究者与实践者的第三方桥梁（[[Richard J. Shavelson|沙维尔森]]，Shavelson, 2020），阐明中介通过去偏筛选、通俗[[Transfer Translation Transformation\|转译]]与渠道嵌入来降低实践者认知负荷的功能。 |
+> | **[[Research-Practice Gap\|研究-实践鸿沟（Transferproblem）]]**<br>[[Research-Practice Gap]] | 揭示科研产出与教学实践脱节的系统性根源（Gräsel, 2010），阐明教育科研偏重理论发展而非实践指引的生产逻辑差异（[[Richard J. Shavelson\|理查德·沙维尔森（Richard J. Shavelson）]]，Shavelson, 2020），界定清算中介介入的必要性。 |
+> | **[[Educational Brokerage Agency\|教育知识中介理论（Knowledge Brokerage）]]**<br>[[Educational Brokerage Agency]] | 将中介机构界定为连接研究者与实践者的第三方桥梁（[[Richard J. Shavelson\|沙维尔森]]，Shavelson, 2020），阐明中介通过去偏筛选、通俗[[Transfer Translation Transformation\|转译]]与渠道嵌入来降低实践者认知负荷的功能。 |
 
 > [!warrant]- 理论如何支撑论证
 > 论证以现代教师专业化转型为逻辑起点：如同医学等成熟专门职业，教师专业决策必须建立在可靠科学证据基础之上以提升教学效能；然而，Gräsel (2010) 与[[Richard J. Shavelson|沙维尔森]]（Shavelson, 2020）的理论指明，科研知识与实践知识遵循完全不同的生产逻辑与激励体制，单纯依赖自发传播注定遭遇结构性阻滞。因此，必须引入第三方的[[Knowledge Mediation|知识中介机制]]，以清算中心的制度形态对实证证据进行知识筛选与加工，从而在[[Epistemology|认识论]]与实践操作之间架起稳固桥梁。
@@ -138,7 +138,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 > | **文献样本** | 国际教学有效性前沿[[Meta-analysis\|元分析]]与[[Systematic Review\|系统综述]]（重点覆盖数学与自然科学领域的探究学习、问题导向学习、翻转课堂、游戏化学习及自我调节学习等教学策略）。 |
 > | **案例样本** | Hillmayr et al. (2020) 发表在 *Computers & Education* 上的中学理科数字化工具元分析（$k = 92$），以及 CHU 研制的配套德语 Kurzreview。 |
 > | **调查样本** | 针对使用过 CHU 平台的德国高校教师教育者开展的实证调查与画像分析（Diery et al., 2020, 2021）。 |
-> | **材料情境** | [[Federal Ministry of Education and Research|德国联邦教育与研究部（BMBF）]]“[[Qualitätsoffensive Lehrerbildung|教师教育质量攻坚计划]]”（QLB）及威廉·施特默基金会（Wilhelm Stemmer Stiftung）资助下的开放获取中介服务平台（www.[[Educational Evidence Clearinghouses\|Clearinghouse]].edu.tum.de）。 |
+> | **材料情境** | [[Federal Ministry of Education and Research\|德国联邦教育与研究部（BMBF）]]“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB）及威廉·施特默基金会（Wilhelm Stemmer Stiftung）资助下的开放获取中介服务平台（www.[[Educational Evidence Clearinghouses\|Clearinghouse]].edu.tum.de）。 |
 
 ---
 
@@ -169,7 +169,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 > [!feature] 教师专业决策转向与转移困境的双重表征
 > - **科学立论的专业化诉求** 教师日常面临常规测试效用、[[Critical Thinking|批判性思维]]培养路径、数字化工具应用边界等微观抉择；实证教学研究（如探究学习与问题导向学习）虽已积累大量有效因果证据，但多散见于专业期刊，难以直接转化为微观决策支撑。
-> - **结构性转移困境的成因** 转移难题（Gräsel, 2010）并非源于证据匮乏，而是学术生产通常以理论推进与科学知识演进为目标，不直接提供行动方案（[[Richard J. Shavelson|Shavelson]], 2020）；同时，学术出版物质量良莠不齐，一线实践者既缺乏计量[[Document|文献]]鉴别能力，又承受着繁重课务与时间挤压，导致科研产出与实践需求长期脱节。（p. 13）
+> - **结构性转移困境的成因** 转移难题（Gräsel, 2010）并非源于证据匮乏，而是学术生产通常以理论推进与科学知识演进为目标，不直接提供行动方案（Shavelson, 2020）；同时，学术出版物质量良莠不齐，一线实践者既缺乏计量[[Document|文献]]鉴别能力，又承受着繁重课务与时间挤压，导致科研产出与实践需求长期脱节。（p. 13）
 
 面对此种系统性脱节，[[Knowledge Transfer|知识转移]]绝非学术论文发表后的自发扩散过程，必须由专业中介机构承担连接与重构职能。（pp. 13–14）
 
@@ -192,7 +192,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 #### 1. 专家规程制定与多层次中介服务矩阵
 
-美国[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）与英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的运行实践表明，高质量综合概览能够实质性降低实践者获取科研证据的门槛；慕尼黑工业大学[[Tina Seidel|蒂娜·赛德尔（Tina Seidel）]]团队于 2017 年依托[[Federal Ministry of Education and Research|BMBF]]与[[Qualitätsoffensive Lehrerbildung|QLB]]计划立项设立的[[Clearing House Unterricht|德国教学研究清算中心]]（CHU）（Seidel, Knogler et al., 2017; Seidel, Mok et al., 2017），通过专家标准与产品分层填补了德语区中介机制的空白。（p. 14）
+美国[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）与英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的运行实践表明，高质量综合概览能够实质性降低实践者获取科研证据的门槛；慕尼黑工业大学[[Tina Seidel|蒂娜·赛德尔]]（Tina Seidel）团队于 2017 年依托[[Federal Ministry of Education and Research|BMBF]]与[[Qualitätsoffensive Lehrerbildung|QLB]]计划立项设立的[[Clearing House Unterricht|德国教学研究清算中心]]（CHU）（Seidel, Knogler et al., 2017; Seidel, Mok et al., 2017），通过专家标准与产品分层填补了德语区中介机制的空白。（p. 14）
 
 > [!proc] 教学证据中介转化的四大业务支撑
 > 1. **严苛标准与高质量证据筛选** 专家团队制定统一规范，[[FocusMath|聚焦数学]]与自然科学等学科中探讨教学有效性的当代[[Meta-analysis|元分析]]，重点吸收基于[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）的高因果信度成果。

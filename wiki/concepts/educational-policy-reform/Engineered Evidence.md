@@ -8,7 +8,7 @@ aliases:
 summary: "教育实证研究向实践转化的最高介入形态，指将因果证据直接封装进高结构化教学工件（如预制教案与软件规程）或法定制度要求（拨款门槛），免除一线教师自行检索解读统计证据的认知负荷"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Multiple Regression]]"
   - "[[Systematic Review]]"
   - "[[Quasi-Experimental Designs]]"
@@ -90,7 +91,7 @@ updated: 2026-09-18
 > | **物理形态** | 学术期刊论文、评估技术报告、统计专著 | 证据工具包、政策简报、科普综述、执行摘要 | 预制教案、教学软件交互脚本、临床诊疗规程、法案准入清单 |
 > | **对使用者的要求** | 要求具备高级学术检索、统计鉴别与因果质评能力 | 要求具备解读[[Effect Size\|效应量]]、结合校情进行本地化迁移的转化能力 | 仅需按规程忠实执行，无需理解底层复杂的统计建模与方法学争论 |
 > | **认知负荷** | 极高，绝大多数一线教师与政策官员无法承受 | 中等偏高，易在二次解读中产生致命突变与偏差 | 极低，操作要求明确具体，行为边界清晰 |
-> | **典型代表** | 开放获取期刊数据库、学术专著 | [[EEF Teaching and Learning Toolkit\|教育捐赠基金会（EEF）工具包]]、有效教学清算所（WWC）实践指南 | 结构化核心数学与阅读教案、[[Investing in Innovation Program\|投资创新计划（i3）]]准入标准、[[ESSA 2015 Evidence Standards\|每个学生成功法案（ESSA）]]证据层级 |
+> | **典型代表** | 开放获取期刊数据库、学术专著 | [[EEF Teaching and Learning Toolkit\|教育捐赠基金会（EEF）工具包]]、有效教学清算所（WWC）实践指南 | 结构化核心数学与阅读教案、[[Investing in Innovation Program\|投资创新计划（i3）]]准入标准、[[Every Student Succeeds Act\|每个学生成功法案（ESSA）]]证据层级 |
 
 > [!tension] 个体自主依从干预 vs 群体级制度工程化（公共卫生借镜）
 > - **个体自主依从干预（低效、高依从损耗）** 如 Kansagra & Farley（2012）在公共卫生领域所分析的，向糖尿病患者开具二甲双胍处方高度依赖患者个体长期自觉，面临极高的行为断裂与失访损耗；在教育中依赖教师个体自发查阅学术摘要同样深陷依从性困境。
@@ -103,7 +104,7 @@ updated: 2026-09-18
 > [!dual-header] 证据投入使用的两维度分类九宫格（Table 3, p. 578）
 > | 证据加工形态 \ 传递互动维度 | 被动传递（Passive） | 参与传递（Engagement） | 交互传递（[inter]Active） |
 > |---|---|---|---|
-> | **原始证据（Plain Evidence）** | 期刊开放获取 | 期刊研读会 | 实践者探究与反思研究 |
+> | **原始证据（Plain Evidence）** | 期刊开放获取 | 期刊研读会 | [[Practitioner Enquiry\|实践者探究]]与反思研究 |
 > | **改写证据（Modified Evidence）** | 实践者工具包（如 [[Education Endowment Foundation\|EEF]] 工具包） | 智库政策简报与研讨 | 实习基地、研究型学校网络 |
 > | **工程化证据（Engineered Evidence）** | 预制标准化教案与教学软件 | 专家支持热线、技术服务台 | 群体措施的法定立法与拨款规程 |
 

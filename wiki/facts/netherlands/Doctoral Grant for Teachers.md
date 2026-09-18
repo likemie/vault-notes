@@ -10,7 +10,7 @@ subtype: program
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Practitioner Enquiry]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -104,7 +105,7 @@ updated: 2026-09-18
 > [!pathways]- 实施路径与管理
 > - **工时制度保障** 通过劳动合同补充协议明确豁免课时，严防学校因临时师资紧缺而随意挤占教师法定科研时间。
 > - **双[[Mentorship|导师制]]协同** 部分项目采取大学学术导师与教育一线特级专家/教研督导联合指导机制，确保论文兼具学术严密性与教学应用价值。
-> - **成果校际共享** 鼓励毕业博士在校内组建教师探究共同体，协助学区开展循证教学改良。
+> - **成果校际共享** 鼓励毕业博士在校内组建[[Practitioner Enquiry|教师探究]]共同体，协助学区开展循证教学改良。
 
 ---
 

@@ -2443,7 +2443,8 @@
     "aliases": [
       "助教",
       "Teaching Assistants",
-      "教学助理"
+      "教学助理",
+      "课堂助教"
     ]
   },
   {
@@ -13931,6 +13932,17 @@
     ]
   },
   {
+    "title": "Practitioner Enquiry",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Practitioner Enquiry.md",
+    "aliases": [
+      "实践者探究",
+      "实践者探究法",
+      "practitioner inquiry",
+      "教师探究"
+    ]
+  },
+  {
     "title": "Probes",
     "type": "method",
     "path": "wiki/methods/qualitative/Probes.md",
@@ -14423,8 +14435,9 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Black Box RCTs.md",
     "aliases": [
-      "黑箱RCT",
-      "黑箱随机对照试验"
+      "黑箱随机对照试验",
+      "黑箱试验",
+      "black box randomised controlled trials"
     ]
   },
   {
@@ -22772,6 +22785,16 @@
       "证据网络",
       "UK Evidence Network",
       "ESRC Evidence Network"
+    ]
+  },
+  {
+    "title": "General Teaching Council for Scotland",
+    "type": "fact",
+    "path": "wiki/facts/uk/General Teaching Council for Scotland.md",
+    "aliases": [
+      "苏格兰通用教学总署",
+      "GTCS",
+      "苏格兰教学委员会"
     ]
   },
   {

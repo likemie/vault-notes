@@ -8,10 +8,10 @@ aliases:
 summary: "教育干预在真实学校中是否按设计要求、足够强度和质量被执行的程度，是打开因果机制黑箱并区分实施失败与理论无效的核心中介"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - implementation-fidelity
   - implementation
@@ -59,6 +59,7 @@ related_methods:
   - "[[Intent-to-Treat Analysis]]"
   - "[[Complier Average Causal Effect]]"
   - "[[Random Assignment]]"
+  - "[[Black Box RCTs]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
   - "[[Effectiveness Trial]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-23'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Implementation Fidelity
@@ -121,7 +122,7 @@ updated: 2026-09-17
 > | **分析对象** | 干预传递与执行是否符合设计蓝图 | 学校结合本地资源与学情所做的校本重构 | 依据初始[[Random Assignment\|随机分配]]方案确立的分析群体 | 实际高度依从并完成规定剂量的干预接受者 |
 > | **核心机制** | 测量方案活性成分落实率与执行质量损耗 | 动态权衡情境嵌入性与设计原则底线 | 保留随机化带来的基线无偏性，容忍实施衰减 | 借助工具[[Variable\|变量]]模型剔除未依从与低剂量稀释效应 |
 > | **对偏离的定性** | 偏离通常被视为削弱[[Internal Validity\|内部效度]]的潜在威胁 | 偏离被视为项目本土扎根与可持续运行的[[Necessary and Sufficient Conditions\|必要条件]] | 将所有未执行与[[Attrition\|流失]]合并视为现实有效性损失 | 将偏离作为内生依从行为进行统计剥离校正 |
-> | **适用评估场景** | [[Efficacy and Effectiveness Trials\|效力试验]]、方案标准化认证与机制归因 | 复杂组织变革、质性过程追踪与校本改进 | 政策决策层面的整体干预可获得性评估 | 检验干预在理想充分实施下的最大理论潜能 |
+> | **适用评估场景** | [[Efficacy Trial|效力试验]]、方案标准化认证与机制归因 | 复杂组织变革、质性过程追踪与校本改进 | 政策决策层面的整体干预可获得性评估 | 检验干预在理想充分实施下的最大理论潜能 |
 
 ---
 
@@ -172,7 +173,7 @@ updated: 2026-09-17
 > **实施失败与理论失败的本质区分** 复杂社会与教育干预由多个相互关联的组件构成，对情境高度敏感。在英国医学研究理事会（Medical Research Council，[[Meta-Representational Competence|MRC]]）复杂干预评估框架中，学者指出干预在终结性评估中呈现出的弱效应或零结果，往往是现场实施失败（implementation failure）或磨合期阵痛（teething problems）的直接体现，绝不能简单等同于干预理论逻辑的根本失效。如果评估缺乏对实施过程的深入剖析，决策者将不可避免地过早抛弃极具潜力的有效理论。[[Argument_Edovald_Nevill_2021_ECNUROE|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53)]]
 
 > [!claim] Edovald, T. & Nevill, C.
-> **早期黑箱试验的证据困境与 [[Implementation and Process Evaluation|IPE]] 制度化** 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）在早期资助试验中发现，由于缺乏实施保真度测量，大量试验得出零结果后陷入了既道不明执行细节、又无法解释因果机制的黑箱尴尬（Morris et al., 2016）。为此，EEF 强制要求所有后续试验必须将量化 [[Randomised Controlled Trials|RCT]] 与实施与过程评估（Implementation and Process Evaluation，IPE）深度嵌合，通过课堂观察[[Coding in Qualitative Research|编码]]、培训出勤追踪与 [[TIDieR]] 规程，确保[[Chain of Evidence|证据链]]能够准确回答项目究竟是未被做好还是本身无效。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 53–54)]]
+> **早期[[Black Box RCTs|黑箱试验]]的证据困境与 [[Implementation and Process Evaluation|IPE]] 制度化** 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）在早期资助试验中发现，由于缺乏实施保真度测量，大量试验得出零结果后陷入了既道不明执行细节、又无法解释因果机制的黑箱尴尬（Morris et al., 2016）。为此，EEF 强制要求所有后续试验必须将量化 [[Randomised Controlled Trials|RCT]] 与实施与过程评估（Implementation and Process Evaluation，IPE）深度嵌合，通过课堂观察[[Coding in Qualitative Research|编码]]、培训出勤追踪与 [[TIDieR]] 规程，确保[[Chain of Evidence|证据链]]能够准确回答项目究竟是未被做好还是本身无效。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 > [!claim] Ross, S. M. & Morrison, G. R.
 > **实施进展作为项目质量的独立积极证据** 在对巴尔的摩县公立学校未来数字学习（[[Students and Teachers Accessing Tomorrow]]，STAT）进行[[Formative Assessment|形成性评估]]时发现，尽管因多重外部[[Variable|变量]]干扰未能检测到明确的学生统考成绩提升，但教师准备度、数字[[Technology Infusion|技术融入]]课堂以及以学生为中心教学的实施保真度指标展现出极其稳固的增长。评估者强调，高保真度的实施进展本身就是项目质量和组织可持续性的关键积极证据，不能单凭不显著的期末测验全盘否定项目价值。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 118–123)]]
@@ -270,8 +271,8 @@ updated: 2026-09-17
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 全球 1980–2016 年 1,017 项教育试验（Connolly et al., 2018） | 历史[[Document\|文献]]元调查 | 试验中包含实施与过程评估（IPE）的比例 | 38% | — | 说明早期教育试验极度缺乏保真度与过程数据，超过六成处于机制黑箱状态 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 针对小学高年级儿童哲学（P4C）的大规模效果试验（Kitmitto et al., 2018） | 大规模整群 [[Randomised Controlled Trials\|RCT]] | 大样本效果检验学业效应（对比小样本[[Efficacy and Effectiveness Trials\|效力试验]]的 +2 个月进展） | 主效应未达统计学显著（零结果） | $p > 0.05$ | 实证证实由于培训师队伍过快扩张导致多层级培训稀释，课堂实施保真度崩溃直接抹平了干预效果 |
-> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] | 巴尔的摩县公立学校未来数字学习（[[Students and Teachers Accessing Tomorrow\|STAT]]）改革（涵盖数十所公立学校） | [[Formative Program Evaluation\|形成性项目评价]] | 教师准备度、设备进课堂、数字资源使用与学生中心教学实施评分 | 实施保真度呈现系统性与显著性提升 | 各学区学校稳步推进 | 证实高保真度实施进展在学业测验不显著时仍可作为评价项目生命力的独立积极证据 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 针对小学高年级儿童哲学（P4C）的大规模效果试验（Kitmitto et al., 2018） | 大规模整群 [[Randomised Controlled Trials\|RCT]] | 大样本效果检验学业效应（对比小样本[[Efficacy Trial|效力试验]]的 +2 个月进展） | 主效应未达统计学显著（零结果） | $p > 0.05$ | 实证证实由于培训师队伍过快扩张导致多层级培训稀释，课堂实施保真度崩溃直接抹平了干预效果 |
+> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] | 巴尔的摩县公立学校未来数字学习（[[Students and Teachers Accessing Tomorrow\|STAT]]）改革（涵盖数十所公立学校） | [[Formative Program Evaluation|形成性项目评价]] | 教师准备度、设备进课堂、数字资源使用与学生中心教学实施评分 | 实施保真度呈现系统性与显著性提升 | 各学区学校稳步推进 | 证实高保真度实施进展在学业测验不显著时仍可作为评价项目生命力的独立积极证据 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 资助试验中的实施与过程评估规范化推进（EEF, 2019b） | 机构治理追踪 | 资助试验中强制实施 IPE 与发表独立报告的比例 | 100% 试验整合 IPE；100% 报告全量公开发布 | — | 确立了将 [[TIDieR]] 活性成分界定、对照组常态活动调查与依从性测量深度融合的行业典范 |
 
 ---

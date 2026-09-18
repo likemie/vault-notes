@@ -5,7 +5,7 @@ aliases:
 summary: "围绕扫描、聚焦、形成直觉、学习、行动和检查展开的教师探究循环模型，用于把证据使用与持续学校改进连接起来"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
+  - "[[Practitioner Enquiry]]"
   - "[[Improvement Science]]"
 related_persons: []
 related_facts:
@@ -30,13 +31,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-14
+updated: 2026-09-18
 ---
 
 ## 定义
 
 > [!info] 定义
-> 探究螺旋（Spirals of Inquiry）是由 Timperley, Halbert, & Kaser (2014) 开发的教师探究循环模型，已在多个情境中实施。该模型的核心主张是：教师通过参与系统性探究循环——扫描学生的教育体验→发展探究焦点→形成关于教师行动如何改变模式的[[Hypothesis|假设]]→查阅已发表证据→采取行动→检查效果——将外部研究证据与本地证据生成过程整合([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
+> 探究螺旋（Spirals of Inquiry）是由 Timperley, Halbert, & Kaser (2014) 开发的[[Practitioner Enquiry|教师探究]]循环模型，已在多个情境中实施。该模型的核心主张是：教师通过参与系统性探究循环——扫描学生的教育体验→发展探究焦点→形成关于教师行动如何改变模式的[[Hypothesis|假设]]→查阅已发表证据→采取行动→检查效果——将外部研究证据与本地证据生成过程整合([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
 >
 > > "This approach involves teachers engaging in cycles of scanning to understand how students are experiencing their education; developing a focus for their inquiry and a 'hunch' about which of their actions could change the patterns they are seeing; looking at published evidence to inform their practice; taking action; and finally checking to see if the action is having the desired effect." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306, summarizing Halbert & Kaser, 2014]])
 

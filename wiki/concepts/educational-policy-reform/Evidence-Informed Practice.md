@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 95
+related_count: 96
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -81,6 +81,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Meta-analysis]]"
   - "[[Action Research]]"
   - "[[In-depth Interview]]"
@@ -275,7 +276,7 @@ updated: 2026-09-18
 > **双向能力建设与从实施转向整合** [[Knowledge Mobilisation|知识动员]]的瓶颈在于研究生产者与使用者均普遍存在能力短板；推进 EIP 依赖优质知识产出、协作伙伴关系与全系统能力承诺的三位一体。跨国[[Systematic Review|系统综述]]表明，学校[[Research Utilization|研究使用]]正由自上而下的机械实施范式，转向强调[[Teacher Professional Agency|教师能动性]]、信任网络与跨层治理的整合范式。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 12–15)]]
 
 > [!claim] [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]]
-> **专长类型断裂与治理异化** 宏观治理环境与专长类型分野是决定 EIP 成败的深层结构[[Variable|变量]]。推崇医学模式与随机对照试验的技术客观性代表了研究者与中介机构的[[Interactional Expertise|交互型专长]]，而一线教师与校长的实践知识则属于高度具身、默会的情境化[[Contributory Expertise|贡献型专长]]。在英格兰等高利害市场化治理体制下，证据被异化为学校领导者迎合外部督导与证明专业正当性的表演性工具；唯有在低利害问责并保障实践者探究（如苏格兰部分实践与德国同行咨询）的生态中，两类专长才能展开良性协同。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 21–23)]]
+> **专长类型断裂与治理异化** 宏观治理环境与专长类型分野是决定 EIP 成败的深层结构[[Variable|变量]]。推崇医学模式与随机对照试验的技术客观性代表了研究者与中介机构的[[Interactional Expertise|交互型专长]]，而一线教师与校长的实践知识则属于高度具身、默会的情境化[[Contributory Expertise|贡献型专长]]。在英格兰等高利害市场化治理体制下，证据被异化为学校领导者迎合外部督导与证明专业正当性的表演性工具；唯有在低利害问责并保障[[Practitioner Enquiry|实践者探究]]（如苏格兰部分实践与德国同行咨询）的生态中，两类专长才能展开良性协同。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 21–23)]]
 
 ---
 

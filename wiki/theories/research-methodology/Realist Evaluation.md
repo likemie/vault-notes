@@ -14,7 +14,7 @@ aliases:
 summary: "由 Ray Pawson 与 Nick Tilley 创立并经 Bonell 等人发展的科学实在论评估理论与实验范式，主张干预通过在特定背景中向受试者提供资源并激活其推理而产生非线性结果，倡导以多臂析因设计与过程评估打破因果黑箱。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Systematic Review]]"
   - "[[Correlational Research]]"
+  - "[[Black Box RCTs]]"
 related_persons:
   - "[[Ray Pawson]]"
   - "[[Roy Bhaskar]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-06-19'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Realist Evaluation
@@ -216,7 +217,7 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]与应用索引
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 运用实在论评估的因果机制观，深度解构了 [[Education Endowment Foundation|EEF]] 早期[[Teaching Assistant|教学助理]]与拼读项目因去情境化聚合导致的政策误导。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 详细记录全球最大教育循证试验资助机构从黑箱试验向多臂[[Factorial Design|析因设计]]、中介指标度量与[[Realism in International Relations|现实主义]]试验转型的制度轨迹。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 详细记录全球最大教育循证试验资助机构从[[Black Box RCTs|黑箱试验]]向多臂[[Factorial Design|析因设计]]、中介指标度量与[[Realism in International Relations|现实主义]]试验转型的制度轨迹。
 > - [[Argument_Rambla_2022_Springer|Rambla, 2022]] — 将实在论评估框架应用于剖析[[EU Skills Agenda|欧盟技能议程]]政策，分析特定政策干预在特定制度情境中激活的因果机制。
 > - [[Professional Judgment]] — 实在论评估对个体能动推理的强调，为重构教师在循证实践中的专业判断力提供了理论支撑。
 

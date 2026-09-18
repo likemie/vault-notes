@@ -11,7 +11,7 @@ aliases:
 summary: "既指质性研究中控制田野准入与再准入的关键权力节点，又指教育治理与循证学校建设中连接宏观政策供给与微观教学实践的组织把关人（如校长）；前者决定田野研究者能否进入现场开展调查，后者通过认知过滤与价值选择决定外部研究证据与改革工具能否转化为校本实践。"
 type: concept
 domain: "research-methodology"
-related_count: 53
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

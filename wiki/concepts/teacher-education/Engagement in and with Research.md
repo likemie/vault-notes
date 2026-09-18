@@ -10,10 +10,10 @@ aliases:
 summary: "教师专业发展与循证教育中的核心概念，将教师对科研的参与区分为开展研究（Engagement in research，作为研究者进行行动研究与课题探究）与使用研究（Engagement with research，作为利用者研读学术文献并融入教学决策）两种互补模式；跨国实证调查进一步揭示出一线教师面临被局限为被动数据收集客体及外在制度激励全面缺位的深层结构性断层。"
 type: concept
 domain: "teacher-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/teacher-education
   - theme/research-use
@@ -41,6 +41,7 @@ related_theories: []
 related_methods:
   - "[[Action Research]]"
   - "[[Questionnaire]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Multivariate Analysis of Variance]]"
@@ -84,7 +85,7 @@ updated: 2026-09-18
 > [!boundary]- 概念边界
 > - 不等于纯学术专职研究 — 教师开展研究始终深植于真实的教育教学[[Champ|场域]]与师生交互情境，以改进实践与理解微观机制为导向，不同于以纯理论建构为主要目的的高校象牙塔学术生产。
 > - 不等于直觉经验教学 — 仅凭个体主观感性经验或惯习教学，缺乏对实证证据的批判审视与系统探究，不属于使用研究的范畴。
-> - 不等于被动接受指令的数据填报 — 外部学者单向进校采集数据、教师仅提供答卷而无权介入研究设计与结果解释的行为，不具备教师探究主体性，属于科研客体化异化。
+> - 不等于被动接受指令的数据填报 — 外部学者单向进校采集数据、教师仅提供答卷而无权介入研究设计与结果解释的行为，不具备[[Practitioner Enquiry|教师探究]]主体性，属于科研客体化异化。
 
 ---
 
