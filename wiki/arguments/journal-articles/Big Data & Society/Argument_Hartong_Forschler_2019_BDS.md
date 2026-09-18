@@ -2,7 +2,7 @@
 summary: "哈通与弗施勒通过美德两地州级教育行政机构的比较案例研究，揭开学校数据监测的技术黑箱，提炼出数据实践在简化与准确、统计公平与地域比较、快速交付与单一事实确立、透明公开与隐私安全、问责改进与策略博弈等五维治理张力，主张培育面向社会-技术系统的数据基础设施素养。"
 type: argument
 authors:
-  - "Hartong, S."
+  - "[[Sigrid Hartong|Hartong, S.]]"
   - "Förschler, A."
 source_language: en
 citation: "Hartong, S., & Förschler, A. (2019). Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies. Big Data & Society, 6(1), 1–12. https://doi.org/10.1177/2053951719853311"
@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -45,6 +45,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[School Inspection]]"
+  - "[[Variable]]"
   - "[[Dialogue in Education]]"
   - "[[School Autonomy]]"
   - "[[Champ]]"
@@ -62,7 +64,9 @@ related_methods:
   - "[[Descriptive Analysis]]"
   - "[[Accounts]]"
 related_persons:
+  - "[[Rob Kitchin]]"
   - "[[Wendy Espeland]]"
+  - "[[Sigrid Hartong]]"
 related_facts:
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
@@ -70,6 +74,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[PISA]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Early Warning Indicator System]]"
 status: stable
 created: 2026-09-18
 updated: 2026-09-18
@@ -89,7 +94,7 @@ updated: 2026-09-18
 > [!concept-lens] 阅读透镜
 > - **对象** 美国[[Massachusetts Department of Elementary and Secondary Education|马萨诸塞州中小学教育部]]（Massachusetts Department of Elementary and Secondary Education, DESE）与德国汉堡学校与职业教育局（Behörde für Schule und Berufsbildung, BSB）直属的[[Institute for Educational Monitoring and Quality Improvement|汉堡教育监测与质量发展研究所]]（Institute for Educational Monitoring and Quality Improvement, IfBQ）内部的数据基础设施、算法流转与专家行政实践。
 > - **张力** 官方话语中[[Technical Rationality|技术理性]]、自动化中立与即时循环的理想化模型，同实践现场中充斥着[[Coding in Qualitative Research|编码]]修补、算法妥协、指标滞后与学校防御性造假的混乱现实之间的深刻断裂。
-> - **贡献** 打破将宏观教育治理与微观量化技术割裂的传统视角，首次以经验扎实的跨国实证材料剖开州级数据治理黑箱，系统建构出做数据张力（doing data discrepancies）的批判性分析框架。
+> - **贡献** 打破将宏观教育治理与微观量化技术割裂的传统视角，首次以经验扎实的跨国实证材料剖开州级数据治理黑箱，系统建构出做数据张力（doing data discrepancies）的批判性[[Analytic Framework|分析框架]]。
 
 ---
 
@@ -98,9 +103,9 @@ updated: 2026-09-18
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Data Infrastructure\|数据基础设施 / 数据汇聚体]]**<br>（Data Infrastructure / Data Assemblage） | 借鉴罗伯·基钦（Rob Kitchin）与本·威廉姆森（Ben Williamson）的界定，将数据系统视作围绕数据的去情境化与再情境化而动态装配的技术、政治、社会与经济网络，聚焦数据如何被赋予治理权力。 |
+> | **[[Data Infrastructure\|数据基础设施 / 数据汇聚体]]**<br>（Data Infrastructure / Data Assemblage） | 借鉴罗伯·基钦（[[Rob Kitchin]]）与本·威廉姆森（Ben Williamson）的界定，将数据系统视作围绕数据的去情境化与再情境化而动态装配的技术、政治、社会与经济网络，聚焦数据如何被赋予治理权力。 |
 > | **[[Commensuration\|数量通约化]]**<br>（Commensuration） | 依据温迪·埃斯佩兰（[[Wendy Espeland\|Wendy Nelson Espeland]]）与马克·史蒂文斯（Mark L. Stevens）的社会学阐释，揭示将质态各异的学校生态、生源背景转化为同质可比量化指标的建构机制，剖析数字背后的价值权重与政治裁决。 |
-> | **做数据张力**<br>（Doing Data Discrepancies） | 作者自主构建的批判性经验[[Analytic Framework\|分析框架]]，用于解构行动者在面对技术能力扩张、行政时限压力与多方受众诉求时所必须经受的制度两难与妥协策略。 |
+> | **做数据张力**<br>（Doing Data Discrepancies） | 西格丽德·哈通（[[Sigrid Hartong]]）与安·克里斯汀·弗施勒（Annina Förschler）自主构建的批判性经验[[Analytic Framework\|分析框架]]，用于解构行动者在面对技术能力扩张、行政时限压力与多方受众诉求时所必须经受的制度两难与妥协策略。 |
 
 研究借助批判性数据研究（Critical Data Studies）视角，实现从数据中立论向社会-技术治理实践论的[[Paradigm|范式]]转向。
 
@@ -196,7 +201,7 @@ updated: 2026-09-18
 
 > [!voice] 行政官员与监测专家对数据中立性的解构
 > - **马萨诸塞州技术官员** 外部所见的数据图景并非客观真实的镜像，而是由具体的检索程序与筛选代码严格决定的：程序指令显性规定了过滤哪些字段、统计哪些对象、合并或剔除哪些项目。（p.4）
-> - **汉堡 IfBQ 监测专家** 每一个指数数值都内嵌着特定的背景[[Hypothesis|假设]]与方法权衡，根本不存在能够完全折射绝对真理的无瑕数据集。（pp.4–5, 11）
+> - **汉堡 [[Institute for Educational Monitoring and Quality Improvement|IfBQ]] 监测专家** 每一个指数数值都内嵌着特定的背景[[Hypothesis|假设]]与方法权衡，根本不存在能够完全折射绝对真理的无瑕数据集。（pp.4–5, 11）
 
 > [!citation-card] 监测数据工作的试错烹饪本质
 > 受访者将围绕数据展开的工作与技术基础设施所暗示的线性流程或循环回路模型进行了鲜明对比，转而将其描述为高度实验性的过程，包含着大量即兴摸索与试探（messing around）的成分；正如一位受访者所生动比喻的那样，这好比使用多种原料（数据、算法或模型）进行烹饪，以便在高度多元且充满异质逻辑、利益相关者或现实难题的复杂纠缠中寻找可行方案。（p.4）
@@ -220,7 +225,7 @@ updated: 2026-09-18
 ### 论证步骤二　监测数据嵌入多方行政实践必然激化制度冲突，深陷五维不可调和的结构性治理张力
 
 > [!claim] 步骤二核心主张
-> 当技术性的代码编写、数据关联与算法计算嵌入更广泛的学校督导、资源分配与行政问责实践时，行动者必须在五组具有深刻政治意涵的做数据张力（doing data discrepancies）中求取妥协，这些结构性张力划定了教育数据化治理的现实边界。（pp.5–10）
+> 当技术性的代码编写、数据关联与算法计算嵌入更广泛的[[School Inspection|学校督导]]、资源分配与行政问责实践时，行动者必须在五组具有深刻政治意涵的做数据张力（doing data discrepancies）中求取妥协，这些结构性张力划定了教育数据化治理的现实边界。（pp.5–10）
 
 > [!figure]- 图2：州教育行政机构中开展数据监测的实践与张力结构
 > ![](https://img.mylikemie.icu/sources/Hartong_Forschler_2019_BDS/figures/Hartong_Forschler_2019_BDS_Fig2_Doing_Monitoring_State_Education_Agencies.jpg)
@@ -233,7 +238,7 @@ updated: 2026-09-18
 
 #### 1. 扁平化数据极简呈现剥离微观教学情境，诱发粗暴定性与片面标签化误用
 
-行政机构试图促使基层教育者主动调用监测系统，但一线教职人员普遍缺乏深入解读复杂多变量统计模型的专业时间与分析能力。为防止认知过载，行政部门普遍推行以红绿灯警示和单页摘要为代表的极简可视化设计，由此引发了表面易懂与深层失真的治理两难：
+行政机构试图促使基层教育者主动调用监测系统，但一线教职人员普遍缺乏深入解读复杂多[[Variable|变量]]统计模型的专业时间与分析能力。为防止认知过载，行政部门普遍推行以红绿灯警示和单页摘要为代表的极简可视化设计，由此引发了表面易懂与深层失真的治理两难：
 
 > [!tension-table] 数据简化与数据准确性之间的治理两难
 > | 诉求方向 | 核心动因与代表性设计 | 伴生风险与负面治理后果 |
@@ -241,8 +246,8 @@ updated: 2026-09-18
 > | **用户友好型极简呈现** | 降低理解门槛，使非专家家长与校长能一眼看清结果并迅速采取行动（actionable data）；大力推行红绿灯色彩分级与单页报表。（pp.5–6） | 彻底剥离了数据背后的生源[[Heterogeneity\|异质性]]与微观教学情境，极易导致粗暴定性与片面标签化推断。 |
 > | **深层情境化与精准审慎** | 强调教育测评的多维不确定性，要求必须结合学校社会经济背景与误差区间开展专业审读。 | 界面充斥密集的[[Confidence Interval\|置信区间]]与复杂回归表格，导致工具无人问津，基层陷入抗拒或过度解读。 |
 
-> [!case] 算法预测工具简化的标签化异化：马萨诸塞州早期预警系统（EWIS）
-> 马萨诸塞州主导开发的早期预警指标系统（Early Warning Indicator System, EWIS）依托纵向历时追踪算法，计算学生高中毕业受阻或未能升学的掉队风险等级，初衷是提示学校及早提供学业补偿支持。然而在微观实践中，因指标剥离了复杂生活情境并以极简风险标签呈现，部分高中辅导员竟直接将其作为劝阻弱势学生报考大学的劝退依据。（p.6）
+> [!case] 算法预测工具简化的标签化异化：马萨诸塞州早期预警系统（[[Early Warning Indicator System|EWIS]]）
+> 马萨诸塞州主导开发的[[Early Warning Indicator System|早期预警指标系统]]（Early Warning Indicator System, EWIS）依托纵向历时追踪算法，计算学生高中毕业受阻或未能升学的掉队风险等级，初衷是提示学校及早提供学业补偿支持。然而在微观实践中，因指标剥离了复杂生活情境并以极简风险标签呈现，部分高中辅导员竟直接将其作为劝阻弱势学生报考大学的劝退依据。（p.6）
 
 试图面向所有群体包办一切的折中型数据工具，在实践中往往陷入既不友好又不精准的治理两难。
 
@@ -254,7 +259,7 @@ updated: 2026-09-18
 > | 案例与核心工具 | 技术机制与政策设想 | 一线实践抗拒与妥协后果 |
 > |:---|:---|:---|
 > | **德国汉堡：社会指数**<br>（Hamburger Sozialindex） | 依据 2012 年家庭背景普查构建 1–6 级社会指数，作为配置补偿性财政编制及计算测评统计对标组的基准。 | 历经六年后指数严重老化，人口变迁导致部分学校深感遭遇数据误判；此前设立的按需申请重估程序因引发更大公平争议而被迫取消。（p.6） |
-> | **美国马萨诸塞州：资源配置报告**<br>（RADAR） | 整合财务开支与学业指标，系统默认向学区推荐 10 所跨越地理边界、人口统计特征相似的学区展开资源对标。 | 学区主管极其排斥与地理遥远、毫无历史渊源的陌生学区对比，坚决要求以本地邻区为参照；DESE 最终妥协，增设地理定制模块。（p.7） |
+> | **美国马萨诸塞州：资源配置报告**<br>（RADAR） | 整合财务开支与学业指标，系统默认向学区推荐 10 所跨越地理边界、人口统计特征相似的学区展开资源对标。 | 学区主管极其排斥与地理遥远、毫无历史渊源的陌生学区对比，坚决要求以本地邻区为参照；[[Massachusetts Department of Elementary and Secondary Education\|DESE]] 最终妥协，增设地理定制模块。（p.7） |
 
 > [!voice] 基层行动者对纯算法通约对标的文化抗拒
 > - **马萨诸塞州学区领导者的反弹** 州教育行政官员坦言，学区主管对由算法强制指派的远方同类学校极度反感（受访官员直言学区对此极为反感〔they hated that〕），他们天然认为唯有处于同一本地劳动力市场、共享相似地域文化的周边学区才具备现实[[Dialogue in Education|对话]]价值。（p.7）
@@ -330,7 +335,7 @@ updated: 2026-09-18
 
 #### 2. 孤立操作数据集的传统数据技能失效，行动者亟需掌握全链条批判介入的数据基础设施素养
 
-面对深度纠缠的社会-技术网络，单纯教导教师与公众如何下载表格或绘制图表的传统数据素养方案已完全脱节：
+面对深度纠缠的社会-技术网络，单纯教导教师与公众如何下载表格或绘制图表的传统[[Data Literacy|数据素养]]方案已完全脱节：
 
 > [!chain-link] 从数据技能向基础设施素养的范式推导
 > - **前提：治理权力的基础设施化嵌入** 监测权力不再由单一行政长官以条文形式直接发号施令，而是弥散性地固化在数据库业务规则、算法通约标准与冻结时限之中。（pp.10–11）
@@ -365,7 +370,7 @@ updated: 2026-09-18
 ## 关键引用
 
 > [!citation-card] 治理权力在[[Data Infrastructure|数据基础设施]]中的空间化装配
-> 正如罗伯·基钦（Rob Kitchin）与特雷西·劳里奥特（Tracey Lauriault）所言，数据基础设施始终是知识与权力的具象表达，深刻塑造了什么问题可以被提出、这些问题如何被提出、它们如何获得解答、这些答案如何被部署，以及究竟由谁来提出这些问题。正如韦斯特（West, 2017）所指出的，监测基础设施制造出关于重要分析对象的有限次级代表表象，行政官员以此代表学校、教师或学生发声。（p.10）
+> 正如[[Rob Kitchin|罗伯·基钦]]（Rob Kitchin）与特雷西·劳里奥特（Tracey Lauriault）所言，数据基础设施始终是知识与权力的具象表达，深刻塑造了什么问题可以被提出、这些问题如何被提出、它们如何获得解答、这些答案如何被部署，以及究竟由谁来提出这些问题。正如韦斯特（West, 2017）所指出的，监测基础设施制造出关于重要分析对象的有限次级代表表象，行政官员以此代表学校、教师或学生发声。（p.10）
 >
 > *As Kitchin and Lauriault (2014: 4–5) state, data infrastructures are always '[... ] expressions of knowledge/power, shaping what questions can be asked, how they are asked, how they are answered, how the answers are deployed, and who can ask them' (see also Ruppert et al., 2017). In other words, monitoring infrastructures create what West (2017: 1) describes as limited '[ ... ] second-hand representations of important objects of analysis' that administrators use to speak on behalf of the school, the teacher or the student.*
 

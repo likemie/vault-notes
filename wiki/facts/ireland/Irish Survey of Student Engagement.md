@@ -11,7 +11,7 @@ subtype: policy
 region: ireland
 fact_region: "ireland"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Effective Teaching]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Critical Thinking]]"
   - "[[Growth]]"
 related_theories: []
@@ -36,13 +37,14 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[Higher Education Authority]]"
+  - "[[Higher Education Act of 1965]]"
   - "[[Hunt Report]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-18
 ---
 
 # Irish Survey of Student Engagement
@@ -52,7 +54,7 @@ updated: 2026-08-27
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2013 年由[[Higher Education Authority|爱尔兰高等教育局]]（Higher Education Authority, HEA）联合爱尔兰大学协会（IUA）与爱尔兰学生联盟（USI）共同设立。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
+> - **发布时间 / 发布主体** 2013 年由[[Higher Education Authority|爱尔兰高等教育局]]（Higher Education Authority, [[Higher Education Act of 1965|HEA]]）联合爱尔兰大学协会（IUA）与爱尔兰学生联盟（USI）共同设立。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
 > - **适用地区 / 对象** 爱尔兰全境所有公立大学、理工学院与技术大学的一年级本科生、毕业班本科生及授课型硕士生。
 > - **问题背景** 爱尔兰《国家高等教育战略2030》（[[Hunt Report]]）强调以学生为中心的卓越教学，需要科学工具系统测量学生的[[Surface and Deep Learning|深层学习]]投入。
 > - **制度位置** 爱尔兰高等教育国家战略质量监测与院校绩效契约审核的重要数据支撑。
@@ -75,6 +77,6 @@ updated: 2026-08-27
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **政策影响** 确立了爱尔兰高等教育教学改革中“学生作为伙伴（Students as Partners）”与循证治理的核心地位。
+> - **政策影响** 确立了爱尔兰高等教育教学改革中“学生作为伙伴（Students as Partners）”与[[Output-Oriented Governance|循证治理]]的核心地位。
 > - **实践影响** 促使爱尔兰高校重视考核任务对[[Higher-Order Thinking Skills|高阶思维]]的引导，为高校卓越教学中心（CTL）开展教学法培训提供了精准靶向。
 > - **知识影响** 推动了欧洲高教界对学生有效学习投入与[[Critical Thinking|批判性思维]][[Growth|成长]]相关性的实证研究。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]

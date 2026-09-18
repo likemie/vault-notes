@@ -7,7 +7,7 @@ summary: "华人教育研究者，布朗大学教授，以中西文化学习模�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -55,6 +55,7 @@ related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Prototype Methods]]"
+  - "[[Cluster Analysis]]"
   - "[[Ethnography]]"
   - "[[Autoethnography]]"
 related_persons:
@@ -71,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 # Jin Li
 
@@ -143,7 +144,7 @@ Li 在第 2 章中系统追溯了西方与东亚两种学习文化的知识根�
 
 Li 在第 3 章通过"[[Prototype Methods|原型方法]]"（prototype methods）对两种文化的学习模型进行了系统的实证建构([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-103]])。该方法基于认知心理学的原型理论——人类对世界的理解很大程度上依赖于对物体、活动和经验的分门别类，而语言承载着这些类别，使其成为特定文化成员共享的原型。
 
-**研究设计** 首先让三所顶尖大学的学生自由联想"学习／learn"相关词汇（中文初始词表 145 个，英文 242 个），然后由更多学生补充扩展（中文 478 个，英文 496 个），最后由 60 名参与者按四分量表评定每个词与学习的关联度，取中位数 2.72 以上的核心词表（中文 225 个，英文 203 个）([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-90]])。随后请 100 名大学生按意义相似性对核心词表进行分组，分组数据经聚类分析生成两种文化的学习[[Concept Mapping|概念地图]]（Figures 3.1 & 3.2）([[Argument_Li_2012_Cambridge|Li, 2012, pp.91-97]])。
+**研究设计** 首先让三所顶尖大学的学生自由联想"学习／learn"相关词汇（中文初始词表 145 个，英文 242 个），然后由更多学生补充扩展（中文 478 个，英文 496 个），最后由 60 名参与者按四分量表评定每个词与学习的关联度，取中位数 2.72 以上的核心词表（中文 225 个，英文 203 个）([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-90]])。随后请 100 名大学生按意义相似性对核心词表进行分组，分组数据经[[Cluster Analysis|聚类分析]]生成两种文化的学习[[Concept Mapping|概念地图]]（Figures 3.1 & 3.2）([[Argument_Li_2012_Cambridge|Li, 2012, pp.91-97]])。
 
 **欧裔美国学习模型([[Argument_Li_2012_Cambridge|Li, 2012, pp.98-103]])**
 - 学习目的：培养心智／理解世界、发展能力／技能、达成个人目标

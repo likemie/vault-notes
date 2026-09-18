@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -39,7 +39,7 @@ tags:
 related_theories:
   - "[[Theory of Change]]"
   - "[[COM-B Model]]"
-  - "[[Luhmann's Systems Theory]]"
+  - "[[Ecological Systems Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Documentary Analysis]]"
@@ -92,6 +92,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Growth]]"
   - "[[Sage]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Causality]]"
   - "[[Emergence]]"
 related_facts:
@@ -115,7 +116,7 @@ related_instruments:
   - "[[EMMIE Framework]]"
 status: draft
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-18
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch07_Gough_2022|Ch07_Gough_2022]]"
 ---
@@ -150,7 +151,7 @@ sources:
 > | **[[Educational Brokerage Agency\|知识中介机构分类框架]]**<br>[[Educational Brokerage Agency]] | 将中介主体细分为网络门户、专门中介机构（如 [[What Works Network\|WWCs]]）、大学科研传播办公室及政府科学顾问系统四类形态。（p. 147） |
 
 > [!warrant]- 理论如何支撑论证
-> 证据生态[[Luhmann's Systems Theory|系统理论]]与行为改变科学、项目评价学的结合，揭示了中介机构常年成效受限的理论根源：传统实践将中介预设为单向线性输出管道。双层嵌套生态[[Analytic Framework|分析框架]]打破了这一[[Hypothesis|假设]]，要求在审视中介使命时，不仅向上考察研究供给与决策拉力的实质匹配，更向外审视高利害问责等外层体制对实践者施加的行为约束，从而使中介干预的因果推论获得严密的实证检验。（pp. 148–153）
+> 证据[[Ecological Systems Theory|生态系统理论]]与行为改变科学、项目评价学的结合，揭示了中介机构常年成效受限的理论根源：传统实践将中介预设为单向线性输出管道。双层嵌套生态[[Analytic Framework|分析框架]]打破了这一[[Hypothesis|假设]]，要求在审视中介使命时，不仅向上考察研究供给与决策拉力的实质匹配，更向外审视高利害问责等外层体制对实践者施加的行为约束，从而使中介干预的因果推论获得严密的实证检验。（pp. 148–153）
 
 ---
 
@@ -555,7 +556,7 @@ sources:
 >   2. **决策转化黑箱与政治推诿** 政府内阁对外宣称决策“始终遵循科学（Follow the science）”，实则在幕后黑箱中对顾问意见进行政治取舍；公众与学界无从获知究竟哪些具体建议被内阁采纳、哪些建议被行政裁决否决或篡改；
 >   3. **终极因果影响后验追踪缺位** 国家投入巨额资源维系庞大的科学咨询网络，但对于被采纳或被驳回的顾问决策究竟在多大程度上减缓了病毒传播、挽救了生命，或造成了何种次生社会经济代价，始终缺乏制度化的因果成效评估。
 > - **元学科警示**
->   无论是常设型有效性中心还是最高层级的国家科学顾问系统，只要其运作机制停留在黑箱状态，且对自身的政策渗透度与终端社会福祉缺乏长效因果后验，循证治理便极易蜕变为“科学修辞化”与“政治推诿化”。对中介咨询活动本身的因果评估，绝非边缘性的学术装饰，而是维系公共决策科学性与公信力的生命线。
+>   无论是常设型有效性中心还是最高层级的国家科学顾问系统，只要其运作机制停留在黑箱状态，且对自身的政策渗透度与终端社会福祉缺乏长效因果后验，[[Output-Oriented Governance|循证治理]]便极易蜕变为“科学修辞化”与“政治推诿化”。对中介咨询活动本身的因果评估，绝非边缘性的学术装饰，而是维系公共决策科学性与公信力的生命线。
 
 > [!warning] 资助体制结构性扭曲对中介自我评估的掣肘（ESRC, 2016, p. 157）
 > 中介机构自我循证意识薄弱的深层根源，在于外部资助体制的结构性扭曲：资助方往往只愿意资助具体的干预活动与成果产出，极少设立专项经费支持中介机构开展严肃的自我监测与长效因果评估，导致中介实践长期深陷重交付、轻反思的恶性循环。

@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Working Memory]]"
   - "[[Formative Assessment]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Domain Specificity]]"
   - "[[Rationalized Myth]]"
   - "[[Disciplina and Doctrina]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Initial Teacher Training Core Content Framework
@@ -116,7 +117,7 @@ updated: 2026-09-17
 ## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 关键行动者** 英国教育部（DfE）与 [[Ofsted]] — 掌握资质认证与督导生杀大权，将 CCF 作为推行中央远程控制与循证治理的核心抓手。
+> - **高权力 · 高利益 — 关键行动者** 英国教育部（DfE）与 [[Ofsted]] — 掌握资质认证与督导生杀大权，将 CCF 作为推行中央远程控制与[[Output-Oriented Governance|循证治理]]的核心抓手。
 > - **高权力 · 低利益 — 潜在盟友** 大型多学院信托（MAT）与校本培训机构（SCITT） — 积极拥抱标准化操作清单，借此拓展校本培训市场份额。
 > - **低权力 · 高利益 — 受影响群体** 大学教师教育者（HEI Tutors）与受训学员 — 课程自主权与批判反思空间受到挤压，必须严格对照清单履行合规教学。
 > - **低权力 · 低利益 — 边缘行动者** 传统学科专业学会 — 关注[[Domain Specificity|学科特异性]]教学法是否在通识性认知清单中被边缘化。

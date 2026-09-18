@@ -4,7 +4,7 @@ aliases: [社会片段, social episode]
 summary: "社会生活的任何连贯片段，有可识别的起点和终点，其行动序列对参与者具有某种意义，是人因研究的基本分析单位。"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
 related_methods:
   - "[[Ethogenic Approach]]"
+  - "[[Cluster Analysis]]"
   - "[[Correlational Research]]"
   - "[[Account Gathering]]"
 related_arguments:
@@ -21,7 +22,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 # Social Episodes
 
@@ -74,7 +75,7 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!warning] 概念局限
-> 社会片段概念本身存在模糊性——缺乏可接受的分类法来基于经验可量化的特征对互动序列进行分类（p.458）。若干研究尝试使用因子分析、连接分析、多维标度和聚类分析等量化手段来解决这一问题，但尚未形成共识（Magnusson, 1971; Forgas, 1976, 1978）。
+> 社会片段概念本身存在模糊性——缺乏可接受的分类法来基于经验可量化的特征对互动序列进行分类（p.458）。若干研究尝试使用因子分析、连接分析、多维标度和[[Cluster Analysis|聚类分析]]等量化手段来解决这一问题，但尚未形成共识（Magnusson, 1971; Forgas, 1976, 1978）。
 
 ## 相关研究
 

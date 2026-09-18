@@ -8,7 +8,7 @@ summary: "香港中文大学教育学院教授、证据本位教育改革与大�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Metacognitive Laziness]]"
   - "[[Scaffolding]]"
   - "[[Operationalization]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Scientism]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Alan C. K. Cheung
@@ -149,7 +150,7 @@ updated: 2026-09-17
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2021_ECNUROE]] — 梳理并正面回应中国学者对证据本位教育在[[Epistemology|认识论]]、方法论和实践伦理维度的质疑，阐述科学实证研究对教育进步的不可替代性。
 > - [[Argument_Cheung_2021_ECNUROE]] — 以 COVID-19 疫苗试验类比教育 RCT，阐述全球视野下循证改革的四项核心活动框架。
-> - [[Argument_Chen_Cheung_2025_ERR]] — 运用活动理论 AT-MCSCL 框架与严谨基线控制，主持实施 57 项[[Experimental Research|实验研究]]的高等教育生成式 AI [[Meta-analysis|元分析]]，证实促学效应并提出防范[[Metacognitive Laziness|元认知惰性]]的循证治理路径。
+> - [[Argument_Chen_Cheung_2025_ERR]] — 运用活动理论 AT-MCSCL 框架与严谨基线控制，主持实施 57 项[[Experimental Research|实验研究]]的高等教育生成式 AI [[Meta-analysis|元分析]]，证实促学效应并提出防范[[Metacognitive Laziness|元认知惰性]]的[[Output-Oriented Governance|循证治理]]路径。
 
 ---
 

@@ -7,7 +7,7 @@ summary: "牛津大学教师教育荣休教授，英国教育研究协会与苏�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -19,6 +19,7 @@ tags:
   - education-policy
   - sociology-of-education
 related_concepts:
+  - "[[Output-Oriented Governance]]"
   - "[[Paradigm]]"
   - "[[Evidence Era]]"
   - "[[Policy-Based Evidence-Making]]"
@@ -64,7 +65,7 @@ updated: 2026-09-18
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代教师教育与教育政策学者，牛津大学教育系教师教育荣休教授（Professor Emeritus of Teacher Education），俄罗斯喀山联邦大学资深研究员。
-> - **核心角色** 曾任[[British Educational Research Association|英国教育研究协会]]（British Educational Research Association, BERA，2013–2015）主席与苏格兰教育研究协会（Scottish Educational Research Association, SERA，2005–2007）主席，是英国教师专业发展、教师教育政策批判与循证治理研究的代表性学术领袖。
+> - **核心角色** 曾任[[British Educational Research Association|英国教育研究协会]]（British Educational Research Association, BERA，2013–2015）主席与苏格兰教育研究协会（Scottish Educational Research Association, SERA，2005–2007）主席，是英国教师专业发展、教师教育政策批判与[[Output-Oriented Governance|循证治理]]研究的代表性学术领袖。
 > - **代表贡献** 提出“以研究为导向的临床实践”（Research-Informed Clinical Practice）[[Paradigm|范式]]；主导 BERA-RSA 教师教育国家调查；系统论证教育政策从测量时代向[[Evidence Era|证据时代]]的治理范式演进与[[Policy-Based Evidence-Making|基于政策的证据制造]]机制。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 88–91)]]
 
 > [!citation-card]- 教师教育与证据治理的学术定位
@@ -123,7 +124,7 @@ updated: 2026-09-18
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 推进了教师教育政治学与新制度主义政策分析的交叉融合，深化了学界对教育循证治理异化机制的认知。
+> - **理论路径** 推进了教师教育政治学与新制度主义政策分析的交叉融合，深化了学界对教育[[Output-Oriented Governance|循证治理]]异化机制的认知。
 > - **政策路径** 主导的 [[British Educational Research Association|BERA]]-RSA 调查结论被英国议会委员会及工党、保守党政策顾问广泛引用；提出的临床实践理念直接影响了英国 2015 年《[[Carter Review of Initial Teacher Training|卡特审查]]》等国家文件的起草。
 > - **跨国传播** 其教师教育模型在苏格兰、北爱尔兰、澳大利亚及欧洲大陆多国教师专业标准制定中产生广泛回响。
 

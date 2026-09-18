@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 50
+fact_related_count: 51
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -26,10 +26,12 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Lifelong Learning]]"
+  - "[[Evidence Standards]]"
+  - "[[Internal Validity]]"
+  - "[[Heterogeneity]]"
   - "[[Evaluator Independence]]"
   - "[[Hypothesis]]"
   - "[[Publication Bias]]"
-  - "[[Evidence Standards]]"
   - "[[Counterfactual]]"
   - "[[Engineered Evidence]]"
   - "[[Operationalization]]"
@@ -40,20 +42,19 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Scientific Paradigm]]"
   - "[[Paradigm]]"
-  - "[[Internal Validity]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Variable]]"
   - "[[Conatus]]"
   - "[[Ecological Validity]]"
   - "[[Statistical Normalisation]]"
-  - "[[Heterogeneity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
   - "[[Democratising Evidence]]"
   - "[[Research-Practice Partnership]]"
 related_theories: []
 related_methods:
-  - "[[Intervention Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Intervention Research]]"
   - "[[Experimental Research]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -63,12 +64,12 @@ related_persons:
   - "[[Mark Schneider]]"
   - "[[Robert Slavin]]"
 related_facts:
+  - "[[What Works Clearinghouse]]"
+  - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Investing in Innovation Program]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Using Data Intervention]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
-  - "[[National Center for Education Evaluation and Regional Assistance]]"
-  - "[[What Works Clearinghouse]]"
   - "[[Education Resources Information Center]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Institute of Education Sciences
@@ -106,7 +107,7 @@ updated: 2026-09-17
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **2002–2008 — 创设奠基与因果证据标准确立** 成立初期确立以内部效度为基石的研究评价体系，创设有效干预清算中心（WWC），将随机对照试验（RCT）确立为因果干预评估的黄金标准。2007 年，旗下 NCEE 资助实施了全美首批跨校大规模阅读与数学教育软件随机对照试验（Dynarski et al., 2007），首次以国家级严谨实验确证了干预成效的高度情境敏感性与组织异质性。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
+> - **2002–2008 — 创设奠基与因果[[Evidence Standards|证据标准]]确立** 成立初期确立以[[Internal Validity|内部效度]]为基石的研究评价体系，创设[[What Works Clearinghouse|有效干预清算中心]]（WWC），将[[Randomised Controlled Trials|随机对照试验]]（RCT）确立为因果干预评估的黄金标准。2007 年，旗下 [[National Center for Education Evaluation and Regional Assistance|NCEE]] 资助实施了全美首批跨校大规模阅读与数学教育软件随机对照试验（Dynarski et al., 2007），首次以国家级严谨实验确证了干预成效的高度情境敏感性与组织[[Heterogeneity|异质性]]。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
 > - **2008–2015 — 投资创新计划（i3）与分级证据资助模型成型** 依托《美国复苏与再投资法案》，IES 与联邦教育部推行投资创新计划（[[Investing in Innovation Program|Investing in Innovation]], i3），开创性地将竞争性资助与前期实证证据等级（起步级、验证级、规模化级）深度绑定，资助了全美上百项大规模整校改革与课程整群 RCT 评估。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–24)]]
 > - **2015–2018 — [[Every Student Succeeds Act|ESSA]] 四级法定标准与重大后端因果评估** 《每个学生成功法案》（ESSA 2015）将 IES/WWC 四级证据标准正式上升为国家法定采购门槛；同时，IES 资助了佛罗里达 [[Using Data Intervention|Using Data]] 数据使用干预等重大试验，推动学界反思纯认知培训与真实学业增益脱节的转化瓶颈。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 571, 592)]]
 > - **2018–至今 — SEER 循证卓越标准与全域数据治理转型** 在院长[[Mark Schneider|马克·施奈德]]（Mark Schneider）领导下启动 SEER 卓越标准改革，从单纯强调因果内部效度转向九维治理生态；2019 年随《[[Foundations for Evidence-Based Policymaking Act of 2018|2018年循证决策基础法案]]》（FEBPA）生效，IES 受托牵头编制联邦教育部跨部门系统化“学习议程”（Learning Agendas）与年度评价计划，协同设立评价官与首席数据官，推动国家教育实证体系由孤立实验项目向开放微观行政数据治理纵深演进。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–209)]]
@@ -192,7 +193,7 @@ graph TD
 
 > [!finding-cards] 关键成效与辐射影响
 > - **学术引领与[[Scientific Paradigm|科学范式]]重塑** 通过联邦资助杠杆终结了低质散漫的随意评价，促使全美教育因果研究全面向实验设计、预注册与透明数据[[Paradigm|范式]]转型。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 206–207)]]
-> - **引领全球循证治理趋势** 其制定的证据层级与清算机制成为[[OECD|经合组织]]（OECD）多国（如英国[[Education Endowment Foundation|教育捐赠基金会]]等）设立本土证据中介机构的重要参照蓝本。
+> - **引领全球[[Output-Oriented Governance|循证治理]]趋势** 其制定的证据层级与清算机制成为[[OECD|经合组织]]（OECD）多国（如英国[[Education Endowment Foundation|教育捐赠基金会]]等）设立本土证据中介机构的重要参照蓝本。
 > - **法定财政杠杆的制度化示范** 通过将 WWC 因果证据层级与联邦教育补助金深度绑定，开创了通过法律硬约束驱动学校采纳优质实证干预的宏观治理典范。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 598–600)]]
 > - **政策沉浸与国家科研领军人才转化中枢** [[Argument_Serpell_2020_EP|Serpell (2020, pp. 46–47)]] 考证指出，全职浸润式的国会科学研究员（Congressional Fellows）机制为 IES 等联邦核心机构输送了深谙立法与行政运作的关键管理人才。部分学者在结束国会山任期后进入 IES 执掌科研资助指南（RFPs）制定与优先资助领域设定，将真实的宏观政策需求反向注入国家教育科研资助顶层设计，打通了学术界与联邦行政中枢的隐性知识循环。
 

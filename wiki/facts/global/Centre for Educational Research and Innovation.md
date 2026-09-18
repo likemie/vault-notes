@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 42
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Creativity Assessment]]"
   - "[[Dialogue in Education]]"
   - "[[New Public Management]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
   - "[[Creativity]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
   - "[[Construct]]"
+  - "[[Commensuration]]"
   - "[[Critical Thinking]]"
 related_theories: []
 related_methods:
@@ -78,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Centre for Educational Research and Innovation
@@ -130,7 +132,7 @@ updated: 2026-09-17
 > - **前瞻政策理念框架** 循环教育（Recurrent Education）构想、“明日学校”六大情境模型、[[Definition and Selection of Competencies|DeSeCo]] 关键素养理论框架。
 > - **跨国评估与指标基础设施原型** 1988 年创设的 [[International Indicators of Education Systems|INES]] 项目网络及其孵化的《[[Education at a Glance|教育概览]]》前三版。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8, 14)]]
 > - **质性与真实性表现量规** 研发贯穿探究、想象、实作与反思维度的[[OECD Rubrics for Creativity and Critical Thinking|创造力与批判性思维评价量规]]（CERI Rubrics），为全球高校与基础教育提供了超越标准化客观题的校本评价支架。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 28, 30)]]
-> - **[[International Summits on the Teaching Profession|国际教师职业峰会]]（ISTP）证据基底** 2011 年协同创设的 ISTP 峰会系全球唯一的部长-工会闭门循证治理平台，历届峰会讨论主题均依托 CERI 与 [[OECD]] 综合报告提供实证支撑。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 211, 216)]]
+> - **[[International Summits on the Teaching Profession|国际教师职业峰会]]（ISTP）证据基底** 2011 年协同创设的 ISTP 峰会系全球唯一的部长-工会闭门[[Output-Oriented Governance|循证治理]]平台，历届峰会讨论主题均依托 CERI 与 [[OECD]] 综合报告提供实证支撑。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 211, 216)]]
 > - **教育[[Epistemic Governance|知识治理]]与研发网络系列专著** 连续出版探讨教育知识管理、循证政策与[[Research Utilization|研究利用]]生态的旗舰学术专著：涵盖《Evidence in Education》（2007）、《The Nature of Learning》（2010）、教师知识调查（TKS）丛书及《Who Cares about Using Education Research in Policy and Practice?》（2022），构建跨国证据生态政策诊断工具与 7 大群体全景论辩矩阵。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 200–234)]]
 
 > [!citation-card] CERI 论知识供给侧改革与多利益相关方证据治理
@@ -191,7 +193,7 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理 [[OECD]] 内部机构演变史，论证 CERI 及其主管 [[Jarl Bengtsson]] 如何启动 [[International Indicators of Education Systems|INES]] 项目开启全球教育数据治理转向。
-> - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 记录 CERI 在 1980 年代孕育指标网络与《[[Education at a Glance|教育概览]]》的科学争论档案，呈现学者与决策者围绕数据通约性的博弈。
+> - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 记录 CERI 在 1980 年代孕育指标网络与《[[Education at a Glance|教育概览]]》的科学争论档案，呈现学者与决策者围绕数据[[Commensuration|通约]]性的博弈。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统评析 OECD CERI 在高等教育领域推行的[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]原型评价量规及其在真实教学情境中的赋能机制。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 引述 CERI 近年来关于加强教育研究影响的政策反思，探讨超越机械循证中介、迈向专业信任与协作参与的新路径。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai, N. (2022)]] — 梳理 CERI 20 年知识管理与证据治理研究脉络，基于跨国政策调查构建五维[[Evidence Ecosystem|证据生态系统]]诊断框架。

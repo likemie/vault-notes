@@ -8,10 +8,10 @@ aliases:
 summary: "决策者与管理者在工作情境中自发且常规调用的结构化知识体系，包含信念、假定、实践经验及社会科学知识，在新证据进入时发挥认知过滤与调适中介功能"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - topic/knowledge-utilization
   - topic/educational-policy
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Construct]]"
+  - "[[Output-Oriented Governance]]"
   - "[[School Inspection]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
@@ -54,7 +55,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> **实践运作知识（Working Knowledge，又称工作知识）** 是[[Research Utilization|知识利用]]（Knowledge utilization）与政策执行认知研究中的基础[[Construct|构念]]。由美国政策学者玛丽·M·肯尼迪（Mary M. Kennedy, 1982b）在探讨实证证据与决策关系时系统提出。它被界定为行政管理者与政策制定者在工作情境中自发、常规且不假思索地调用的一整套有组织的知识体系，涵盖指导个体工作行为的全部信念、预设假定、过往经历以及内化吸收的社会科学知识。在循证治理情境中，实证研究证据鲜少以未加工的原始形态直接机械决定政策产出；决策者总是将外部新证据拆解、简化并调适整合进其既有的实践运作知识结构之中，经由这一认知透镜赋予数据实践意义。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 485–486)]]
+> **实践运作知识（Working Knowledge，又称工作知识）** 是[[Research Utilization|知识利用]]（Knowledge utilization）与政策执行认知研究中的基础[[Construct|构念]]。由美国政策学者玛丽·M·肯尼迪（Mary M. Kennedy, 1982b）在探讨实证证据与决策关系时系统提出。它被界定为行政管理者与政策制定者在工作情境中自发、常规且不假思索地调用的一整套有组织的知识体系，涵盖指导个体工作行为的全部信念、预设假定、过往经历以及内化吸收的社会科学知识。在[[Output-Oriented Governance|循证治理]]情境中，实证研究证据鲜少以未加工的原始形态直接机械决定政策产出；决策者总是将外部新证据拆解、简化并调适整合进其既有的实践运作知识结构之中，经由这一认知透镜赋予数据实践意义。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 485–486)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 决策者面对政策问题时实际激活并据以行动的认知图式与经验常识总和。

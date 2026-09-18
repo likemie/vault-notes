@@ -8,9 +8,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: international-union-federation
 headquarters: "Brussels, Belgium"
@@ -46,13 +46,14 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[PISA]]"
+  - "[[Reach]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Education International
@@ -149,7 +150,7 @@ updated: 2026-09-16
 > [!citation-card] Beech 论[[International Education|国际教育]]协会的操演性结盟与政策杂合
 > EI 与 IMF、世界银行结盟的决策，不是基于彼此在教育价值观或意识形态上的共识，而是基于操演性逻辑的需要。为了使自身在[[Policy Network|政策网络]]中的表现高度可见，EI 需要借由与强力多边机构合作来扩大其在特定议题上的话语权和影响力广度。这种[[Network Governance|网络治理]]下[[Pragmatic Paradigm|实用主义]]压倒了意识形态的一致性，催生出政策文本的拼贴杂合。（pp. 351–353）
 >
-> *The decision by EI to ally with the IMF and the World Bank is based not on a consensus about values or ideology, but on the requirements of performativity. To make its performance visible in policy networks, EI needs to expand its reach and discourse by collaborating with powerful multilateral agencies.*
+> *The decision by EI to ally with the IMF and the World Bank is based not on a consensus about values or ideology, but on the requirements of performativity. To make its performance visible in policy networks, EI needs to expand its [[Reach]] and discourse by collaborating with powerful multilateral agencies.*
 
 ---
 

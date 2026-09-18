@@ -1038,7 +1038,8 @@
     "aliases": [
       "国际学生评估项目冲击",
       "国际学生评估项目震动",
-      "国际学生评估项目震荡"
+      "国际学生评估项目震荡",
+      "PISA-Schock"
     ]
   },
   {
@@ -3764,6 +3765,17 @@
     ]
   },
   {
+    "title": "Educational Research, Development and Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Educational Research, Development and Innovation.md",
+    "aliases": [
+      "教育研发与创新",
+      "研发与创新",
+      "Research, Development and Innovation",
+      "RDI"
+    ]
+  },
+  {
     "title": "Embedded Researcher",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Embedded Researcher.md",
@@ -3892,6 +3904,18 @@
     "aliases": [
       "证据本位改革",
       "EBR"
+    ]
+  },
+  {
+    "title": "Evidence-Based School Development",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence-Based School Development.md",
+    "aliases": [
+      "循证学校发展",
+      "循证学校管理",
+      "循证学校改进",
+      "Evidence-Based School Management",
+      "Evidenzbasierte Schulentwicklung"
     ]
   },
   {
@@ -4123,6 +4147,19 @@
     "path": "wiki/concepts/educational-policy-reform/Moral Sidestep.md",
     "aliases": [
       "道德回避"
+    ]
+  },
+  {
+    "title": "Output-Oriented Governance",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Output-Oriented Governance.md",
+    "aliases": [
+      "产出导向治理",
+      "结果导向治理",
+      "Output-Orientierung",
+      "Output-Oriented School Governance",
+      "Evidenzbasierte Steuerung",
+      "循证治理"
     ]
   },
   {
@@ -7987,7 +8024,9 @@
       "守门人",
       "把关人",
       "gatekeeper",
-      "研究准入把关人"
+      "研究准入把关人",
+      "变革把关人",
+      "政策把关人"
     ]
   },
   {
@@ -9808,6 +9847,16 @@
     "aliases": [
       "研究素养",
       "研究阅读素养"
+    ]
+  },
+  {
+    "title": "Research-Rich Teaching Profession",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Research-Rich Teaching Profession.md",
+    "aliases": [
+      "研究充实型教学专业",
+      "研究丰富型教学专业",
+      "Strengthening a Research-Rich Teaching Profession"
     ]
   },
   {
@@ -14315,6 +14364,17 @@
     ]
   },
   {
+    "title": "Cluster Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cluster Analysis.md",
+    "aliases": [
+      "聚类分析",
+      "K-Means Cluster Analysis",
+      "k均值聚类分析",
+      "类别分析"
+    ]
+  },
+  {
     "title": "Cluster Randomized Trials",
     "type": "method",
     "path": "wiki/methods/quantitative/Cluster Randomized Trials.md",
@@ -14712,7 +14772,9 @@
     "path": "wiki/methods/quantitative/Exploratory Factor Analysis.md",
     "aliases": [
       "探索性因子分析",
-      "EFA"
+      "EFA",
+      "主轴因子分析",
+      "Principal Axis Factoring"
     ]
   },
   {
@@ -17464,6 +17526,16 @@
     ]
   },
   {
+    "title": "Sigrid Hartong",
+    "type": "person",
+    "path": "wiki/persons/germany/Sigrid Hartong.md",
+    "aliases": [
+      "西格丽德·哈通",
+      "哈通",
+      "Hartong, S."
+    ]
+  },
+  {
     "title": "Ulrich Trautwein",
     "type": "person",
     "path": "wiki/persons/germany/Ulrich Trautwein.md",
@@ -17521,6 +17593,16 @@
     "aliases": [
       "Hazelkorn, E.",
       "埃伦·黑兹尔科恩"
+    ]
+  },
+  {
+    "title": "Rob Kitchin",
+    "type": "person",
+    "path": "wiki/persons/ireland/Rob Kitchin.md",
+    "aliases": [
+      "罗伯·基钦",
+      "基钦",
+      "Kitchin, R."
     ]
   },
   {
@@ -24331,6 +24413,16 @@
     ]
   },
   {
+    "title": "Early Warning Indicator System",
+    "type": "fact",
+    "path": "wiki/facts/us/Early Warning Indicator System.md",
+    "aliases": [
+      "早期预警指标系统",
+      "EWIS",
+      "Early Warning Indicator System (EWIS)"
+    ]
+  },
+  {
     "title": "Education Innovation and Research",
     "type": "fact",
     "path": "wiki/facts/us/Education Innovation and Research.md",
@@ -25916,6 +26008,11 @@
     "title": "Argument_Park_2026_TSC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md"
+  },
+  {
+    "title": "Argument_Altrichter_2019_ZfB",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Zeitschrift für Bildungsforschung/Argument_Altrichter_2019_ZfB.md"
   },
   {
     "title": "Argument_Wecker_2016_ZfE",

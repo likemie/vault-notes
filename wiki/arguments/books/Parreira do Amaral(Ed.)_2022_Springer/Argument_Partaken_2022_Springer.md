@@ -9,9 +9,9 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 67–90). Cham: Springer."
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Incommensurability]]"
+  - "[[Commensuration]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Cultural Hierarchy]]"
@@ -57,6 +58,7 @@ related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Cluster Analysis]]"
 related_persons:
   - "[[Chen Kuan-Hsing]]"
   - "[[Plato]]"
@@ -75,7 +77,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: '2026-06-08'
+updated: 2026-09-18
 year: 2022
 doi: ""
 citation_aliases:
@@ -133,7 +135,7 @@ citation_aliases:
 
 **盲点一（§5.2）："知识生产"话语的商业包装**
 
-Partaken 以"[[Fourth Industrial Revolution|第四次工业革命]]"话语为例。Klaus Schwab 在世界经济论坛中推广这一概念，声称当前转型因"速度、范围、系统影响"三个原因而构成第四次革命而非第三次的延伸(p.70)。但 Partaken 指出 Kuhn 关于科学革命的核心标准是[[Incommensurability|不可通约性]]（incommensurability）——革命意味着与之前的东西"不仅不相容而且往往不可通约"。例如，从牛顿力学到量子力学，不仅是技术进步，更是整个世界观的重构——物理学家不能再同时使用两种框架。而 Schwab 所描述的 AI、物联网、区块链等技术，虽然规模宏大，却仍然在既有数字技术[[Paradigm|范式]]内部运作：算法更快、数据更多、连接更广，但它们没有产生一种"与第三次工业革命不可通约"的新[[Epistemology|认识论]]。以"知识生产更多"（a lot more of the same is new）来论证"新革命"，恰恰缺失了革命的根本特征。这一批评的实质是：霸权性的"知识生产"论述本身可能只是既有权力结构的自我包装——Schwab 作为世界经济论坛主席，其"第四次工业革命"叙事服务于其组织在全球治理中的话语权。
+Partaken 以"[[Fourth Industrial Revolution|第四次工业革命]]"话语为例。Klaus Schwab 在世界经济论坛中推广这一概念，声称当前转型因"速度、范围、系统影响"三个原因而构成第四次革命而非第三次的延伸(p.70)。但 Partaken 指出 Kuhn 关于科学革命的核心标准是[[Incommensurability|不可通约性]]（incommensurability）——革命意味着与之前的东西"不仅不相容而且往往不可[[Commensuration|通约]]"。例如，从牛顿力学到量子力学，不仅是技术进步，更是整个世界观的重构——物理学家不能再同时使用两种框架。而 Schwab 所描述的 AI、物联网、区块链等技术，虽然规模宏大，却仍然在既有数字技术[[Paradigm|范式]]内部运作：算法更快、数据更多、连接更广，但它们没有产生一种"与第三次工业革命不可通约"的新[[Epistemology|认识论]]。以"知识生产更多"（a lot more of the same is new）来论证"新革命"，恰恰缺失了革命的根本特征。这一批评的实质是：霸权性的"知识生产"论述本身可能只是既有权力结构的自我包装——Schwab 作为世界经济论坛主席，其"第四次工业革命"叙事服务于其组织在全球治理中的话语权。
 
 **盲点二（§5.3）：知识的所有权 ≠ 知识的生产**
 
@@ -233,7 +235,7 @@ Partaken 回归 Lyotard 的框架解释为什么[[Narrative Knowledge|叙事知�
 
 **综合二：Big Data 的双刃剑**
 
-Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为信息和知识、然后有目的地动员它的能力。"多层次分析、路径分析和潜在类别分析"等统计模型使 Big Data 成为"验证研究者假设的稳健归纳工具"——它使科学知识合法化（Lyotard 的诊断）。然而，以双刃剑的方式，Big Data 也被用于"在权力持有者的便利下隐藏和暴露特定知识"的地缘政治合法化(p.84–85)。
+Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为信息和知识、然后有目的地动员它的能力。"多层次分析、路径分析和潜在[[Cluster Analysis|类别分析]]"等统计模型使 Big Data 成为"验证研究者假设的稳健归纳工具"——它使科学知识合法化（Lyotard 的诊断）。然而，以双刃剑的方式，Big Data 也被用于"在权力持有者的便利下隐藏和暴露特定知识"的地缘政治合法化(p.84–85)。
 
 **综合三：回归 Bacon**
 

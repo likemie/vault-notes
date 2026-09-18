@@ -7,7 +7,7 @@ aliases:
 summary: "一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Factor Mixture Modeling]]"
+  - "[[Cluster Analysis]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Epistemic and Ontological Cognition
@@ -87,7 +88,7 @@ updated: 2026-09-17
 > [!theory-stance] [[Epistemology|认识论]]立场
 > - **[[Ontology|本体论]]** 知识的本质具有[[Domain Specificity|领域特殊性]]，劣构领域（如历史）与良构领域（如数学）的知识本体具有不同分类。
 > - **认识论** 个体的认知发展具有可测量的潜在类别（阶段）特征，不仅是一组离散的连续维度。
-> - **方法含义** 要求采用能同时处理多维连续因子与类别分析的方法（如[[Factor Mixture Modeling|因子混合模型]]）。
+> - **方法含义** 要求采用能同时处理多维连续因子与[[Cluster Analysis|类别分析]]的方法（如[[Factor Mixture Modeling|因子混合模型]]）。
 > - **不能直接推出的东西** 本模型可反映不同[[Educational Level|受教育水平]]伴随的认知阶段变迁，但不能直接证明教育年份作为单一因果干预导致了该升级。
 
 > [!theory-use] 如何用于研究

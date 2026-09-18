@@ -7,7 +7,7 @@ aliases:
 summary: "中国本土学习概念，指一个人内在的求知欲望与向学之心，Jin Li 将其置于中国学习传统六主题框架中作为核心动力机制"
 type: concept
 domain: "chinese-philosophy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Prototype Methods]]"
+  - "[[Cluster Analysis]]"
 related_persons:
   - "[[Jin Li]]"
   - "[[Confucius]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-08-20
+updated: 2026-09-18
 ---
 
 # Heart and Mind for Wanting to Learn
@@ -118,7 +119,7 @@ Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可�
 
 > [!success]
 > ### [[Prototype Methods|原型方法]]研究：好學心作为最大的概念群
-> Li 通过原型方法（prototype methods）对中国和欧裔美国学习词汇进行了系统比较研究([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-97]])。在大学中征集的近 500 个初始学习相关词汇中，经过群体共识筛选获得核心词表（中文 225 个，英文 203 个）。聚类分析产生的[[Concept Mapping|概念地图]]（Figure 3.2）显示：
+> Li 通过原型方法（prototype methods）对中国和欧裔美国学习词汇进行了系统比较研究([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-97]])。在大学中征集的近 500 个初始学习相关词汇中，经过群体共识筛选获得核心词表（中文 225 个，英文 203 个）。[[Cluster Analysis|聚类分析]]产生的[[Concept Mapping|概念地图]]（Figure 3.2）显示：
 >
 > ![](https://img.mylikemie.icu/books/Li_2012_Cambridge/figures/Chinese%20Conceptualization%20of%20Learning.png)
 >

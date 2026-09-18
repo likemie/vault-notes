@@ -10,7 +10,7 @@ subtype: event
 region: canada
 fact_region: "canada"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Rob Kitchin]]"
   - "[[Louis Mountbatten]]"
 related_facts:
   - "[[United World Colleges]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Founding of Lester B. Pearson College
@@ -53,7 +54,7 @@ updated: 2026-09-16
 ## 经过
 
 > [!dev-timeline]- 从等待军用校园到森林书院开幕
-> - **1970 年初　皇家路方案终止** 皇家路国防学院确认不会释放，乔治·基钦将军（General George Kitching）主张改为主动建设，结束对现成军用校园的依赖。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 109–110)]]
+> - **1970 年初　皇家路方案终止** 皇家路国防学院确认不会释放，乔治·[[Rob Kitchin|基钦]]将军（General George Kitching）主张改为主动建设，结束对现成军用校园的依赖。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 109–110)]]
 > - **1970 年 6 月　教育领导提前进入** 加拿大方面在校址、建筑和完整资本尚未落实时任命学校负责人，使校长能够参与空间、课程与共同生活的初始设计。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 111, 119–120)]]
 > - **1971 年　西部创办结构形成** 罗伯特·休斯顿（Robert Houston）接任国家委员会主席，西部创办委员会承担资本建设和未来地方治理，安大略方面继续负责全国选拔与奖学金。
 > - **1971 年　佩德湾成为建设基地** 创办者从国防部以优惠价格购得距维多利亚约十四英里的原始林地。威尔斯提供前期经费及近九万英镑购地款，马修斯接受尚未建成书院的领导职位。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 119)]]

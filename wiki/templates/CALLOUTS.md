@@ -25,7 +25,7 @@ updated: 2026-09-18
 | stat-cards | 仪表刻度底纹、大数字、底部强调线 |
 | finding-cards / evidence-grid | 铜色发现卡与编号证据卡，各有形态 |
 | dimension / theory-components / factors / chain-link | 保留阶梯、编号与推导结构，增加面板层次 |
-| theory-origin / theory-framework | 来源四格卡与保留表头的分析维度映射表 |
+| theory-origin / theory-proposition / theory-framework | 来源四格卡、命题解释实例卡与保留表头的分析维度映射表 |
 | timeline / phase / dev-timeline / thought-timeline | 沿原有节点轨道排列事件卡片 |
 | volume 系列 | 分层标题色带与结构面板 |
 | 对照与统计表格 | 加强表头层次，保留原有列配色及末行强调 |
@@ -185,6 +185,7 @@ updated: 2026-09-18
 | 触发信号 | 首选 callout |
 |---|---|
 | 核心论点 / 主张 / 可争辩的判断 | `[!claim]` |
+| 理论命题及其解释和具体应用实例 | `[!theory-proposition]` |
 | 3–5 个链节的连续推导；前提→中间推论/机制→结论 | `[!chain-link]` |
 | 论证总结 / 核心主张摘要 / 章节收束 | `[!conclusion]` |
 | 推论 / 理论后果 / 政策后果 / 方法后果 | `[!implication]-` |
@@ -452,7 +453,7 @@ updated: 2026-09-18
 | `[!dimension]` vs `[!feature]` vs `[!factors]` vs `[!theory-components]` | dimension = 分析**视角**；feature = 并列**属性**（该事物本身有什么）；factors = **影响变量**（什么条件作用于结果）；theory-components = 理论内部**构件** |
 | `[!proc]` vs `[!chain-link]` vs `[!phase]` | proc = **执行层**操作步骤（如何做）；chain-link = **逻辑层**3–5 个不可换序的连续推导；phase = **时间层**发展阶段。仅有顺序不等于论证链 |
 | `[!dimension]` vs `[!concept-lens]` | dimension = 分析**视角/层面**（≥3）；concept-lens = 固定三联（含义/用途/边界） |
-| `[!chain-link]` vs `[!proposition-chain]` | chain-link = 围绕一个结论展开的叙述式深层推导；proposition-chain = 理论自身的形式化核心命题，按前提、机制、条件和结果组织。并列命题不用任一“chain” |
+| `[!chain-link]` vs `[!proposition-chain]` vs `[!theory-proposition]` | chain-link = 围绕一个结论展开的逐层推导；proposition-chain = 原文形式化命题链；theory-proposition = Theory 页常用的命题、解释与应用实例。并列命题不用任一“chain” |
 | `[!implication]-` vs `[!conclusion]` | implication = 从发现**延伸出去**的后果；conclusion = 本论证的**收束** |
 | `[!design-notation]` vs `[!formula]` vs `[!designs]` vs `[!method-panel]` | design-notation = 实验设计的 **R/X/O 记号图示**（彩色徽章列表，标签蓝／R·NR 红／X 琥珀／O 绿）；formula = 数学/统计**公式**；designs = 设计类型的**文字列表**；method-panel = 研究设计各环节的**散文/表格说明** |
 
@@ -572,6 +573,15 @@ updated: 2026-09-18
 > - **形成路径** 从问题与材料到概念、命题或机制的推理。
 ```
 
+`[!theory-proposition]` 用一个单元承载一条命题。标题是一句完整判断；正文只有“解释”和“应用实例”两个连续段落。解释交代含义、构件关系、条件、版本与来源，应用实例展示命题如何用于理解具体现象。不要把同一命题拆成前提、机制和推论列表；自拟实例要标为示例。
+
+```markdown
+> [!theory-proposition] 命题一｜<完整判断>
+> **解释** 用连贯文字说明判断为何成立，交代提出者与版本。[[Argument|(Author, Year, p. X)]]
+>
+> **应用实例** 用一个具体情境展示这条命题怎样引导观察；自拟时写明“示例”。
+```
+
 `[!theory-framework]` 用于从理论转向研究分析。表头必须保留；每行对应一条可追溯的命题或构件，四列依次区分理论依据、分析提问、观察材料、判读规则。维度不等于变量，材料也不等于结论。表格在窄面板横向滚动。
 
 ```markdown
@@ -591,8 +601,9 @@ updated: 2026-09-18
 | Callout | 用途 |
 |---|---|
 | `[!logic-map]` | Mermaid 论证图、机制图、因果链 |
-| `[!mechanism-map]` | 理论机制图；图后需配 `[!proposition-chain]` 或散文解释 |
-| `[!proposition-chain]` | 核心命题链，按前提 → 机制 → 条件 → 结果组织 |
+| `[!mechanism-map]` | 理论机制图；图后需配 `[!theory-proposition]` 或散文解释 |
+| `[!theory-proposition]` | 理论页的命题单元：完整命题标题＋解释段落＋应用实例段落 |
+| `[!proposition-chain]` | 旧式形式化命题链；仅在原文明确逐项推导且任务确需还原时使用 |
 | `[!argument-steps]` | 分步论证结构，适合全书或长篇论证 |
 | `[!chain-link]` | 深层论证链：围绕一个结论呈现 3–5 个连续链节；链节不可任意换序，后项必须以前项为逻辑前提 |
 | `[!assumptions]` | 支撑论证但未被文本直接证明的隐含假设或基础前提；不表示这些前提彼此构成推导链 |

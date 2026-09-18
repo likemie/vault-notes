@@ -7,7 +7,7 @@ aliases:
 summary: "常驻于教育行政部门或学校实践机构内部，依托科研训练背景在真实工作情境中开展证据转化、需求匹配与跨界中介的专业人员，旨在弥合研究与实践断层并重塑组织循证文化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[School Inspection]]"
   - "[[Reflexivity]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Champ]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Determinism]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Embedded Researcher
@@ -110,7 +111,7 @@ updated: 2026-09-17
 ## 围绕概念形成的命题
 
 > [!claim] 命题总览
-> 嵌入式研究者通过将专业科研素养植入公共行政中枢与教学一线，构筑起跨越学术与实践的人际信任纽带，其设立格局深刻反映了循证治理资源在宏观中枢与微观基层的非均衡配置。
+> 嵌入式研究者通过将专业科研素养植入公共行政中枢与教学一线，构筑起跨越学术与实践的人际信任纽带，其设立格局深刻反映了[[Output-Oriented Governance|循证治理]]资源在宏观中枢与微观基层的非均衡配置。
 
 > [!logic-map] 命题推导结构
 > ```mermaid

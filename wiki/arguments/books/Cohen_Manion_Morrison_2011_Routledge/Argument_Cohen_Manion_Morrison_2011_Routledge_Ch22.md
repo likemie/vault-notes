@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Reflexivity]]"
   - "[[Constructed Knowledge]]"
+  - "[[Commensuration]]"
   - "[[Multiplicity]]"
 related_theories:
   - "[[Ethnomethodology]]"
@@ -75,6 +76,7 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Sociometry]]"
   - "[[Quantitative Research]]"
+  - "[[Cluster Analysis]]"
   - "[[Survey Research]]"
   - "[[Stories as Research Data]]"
   - "[[Ex Post Facto Research]]"
@@ -84,7 +86,7 @@ related_persons:
   - "[[Jürgen Habermas]]"
 status: draft
 created: 2026-07-22
-updated: '2026-09-08'
+updated: 2026-09-18
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22
 
@@ -433,7 +435,7 @@ Edwards & Mercer（1987）将这一分析扩展到对整个课堂学习过程的
 ### 22.7 分析社会片段：量化路径
 
 > [!info] 社会片段的量化分类尝试
-> 研究社会行为的自然单位——社会片段——面临一个主要问题：概念本身的模糊性，以及缺乏可接受的分类法来基于经验可量化的特征对互动序列进行分类。若干[[Quantitative Research|量化研究]]已在这一领域开展（p.458）：Magnusson（1971）、Ekehammer & Magnusson（1973）以及 McQuitty（1957）使用**因子分析**和**连接分析**；Forgas（1976, 1978）、Peevers & Secord（1973）以及 Secord & Peevers（1974）使用**多维标度**和**聚类分析**。
+> 研究社会行为的自然单位——社会片段——面临一个主要问题：概念本身的模糊性，以及缺乏可接受的分类法来基于经验可量化的特征对互动序列进行分类。若干[[Quantitative Research|量化研究]]已在这一领域开展（p.458）：Magnusson（1971）、Ekehammer & Magnusson（1973）以及 McQuitty（1957）使用**因子分析**和**连接分析**；Forgas（1976, 1978）、Peevers & Secord（1973）以及 Secord & Peevers（1974）使用**多维标度**和**[[Cluster Analysis|聚类分析]]**。
 
 ---
 
@@ -447,7 +449,7 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 >
 > **研究设计** Heath 从儿童的父母和教师双方引发解释，这正是陈述法的核心操作。她的"对陈述的再陈述"产生于在课堂和部分教师家中的**参与和观察**。她聚焦于"儿童如何学会使用语言来满足需要、提问、传递信息，并说服周围的人他们是胜任的沟通者"。这涉及对 **Trackton 社区**生活整体结构的更广泛和更深入的研究：从广泛的语境和情境中收集数据，对儿童进行**纵向**和在**多个语境中**的追踪，注意记录语言的使用、社会语境和参与者的**沟通能力（communicative competence）**。
 >
-> **核心发现：两套不可通约的提问文化**
+> **核心发现：两套不可[[Commensuration|通约]]的提问文化**
 >
 > 父母的观察直截了当："**我们不像你们那样对孩子们说话。**"在 Trackton 社区中，儿童不被视为信息提供者或成人的适当对话伙伴。但这**不意味着儿童被排除在语言参与之外**。他们参与的语言在风格、说话者和话题上非常丰富。
 >

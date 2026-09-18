@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -51,6 +51,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Cluster Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Jack Douglas]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Peer-Assisted Learning Strategies
@@ -164,7 +165,7 @@ updated: 2026-09-17
 >
 > > [!axis] 刚性方法学门槛的“一票否决”争议
 > > - **CMFR 的 6 个月随访门槛** CMFR 纳入了 12 项研究，但因全部研究未收集干预结束后 6 个月的追踪数据，直接判定为证据不足；
-> > - **Blueprints 的因果过滤** 审查 18 项实证，其中 17 项因[[Attrition|流失]]率或聚类分析问题被剔除，仅认证 1 项 [[Randomised Controlled Trials|RCT]]，因缺乏独立复制止步于“有望”评级。
+> > - **Blueprints 的因果过滤** 审查 18 项实证，其中 17 项因[[Attrition|流失]]率或[[Cluster Analysis|聚类分析]]问题被剔除，仅认证 1 项 [[Randomised Controlled Trials|RCT]]，因缺乏独立复制止步于“有望”评级。
 
 > [!lessons] 经验教训与启示
 > - **证据消费者的识别要求** 一线决策者不能孤立查看清算所的单一标签，必须考察具体学科组件（阅读 vs 数学）及纳入文献的方法学特征。

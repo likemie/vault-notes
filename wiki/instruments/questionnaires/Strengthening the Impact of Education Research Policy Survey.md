@@ -8,7 +8,7 @@ aliases:
 summary: "OECD 教育研究与创新中心（CERI）在 SIER 项目下开发的宏观系统级政策调查问卷，涵盖政策利用、实践促成与学术生产三大板块，通过多维矩阵打分与质性开放题，全面测度 29 国 37 个教育系统的研究动员生态、行动者网络、促成机制与制度障碍。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 32
+instrument_related_count: 33
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -30,6 +30,7 @@ tags:
   - knowledge-mobilisation
   - research-utilization
 related_concepts:
+  - "[[Output-Oriented Governance]]"
   - "[[Research Utilization]]"
   - "[[Norm-Referenced Test]]"
   - "[[Self-report Bias]]"
@@ -70,7 +71,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-15
+updated: 2026-09-18
 ---
 
 # Strengthening the Impact of Education Research Policy Survey
@@ -82,7 +83,7 @@ updated: 2026-09-15
 > [!instrument-profile] Strengthening the Impact of Education Research Policy Survey
 > - **工具类型** 跨国系统级政策与证据生态综合调查[[Questionnaire|问卷]]（System-level Policy Survey Questionnaire）。
 > - **开发者与年份** [[OECD]] / [[Centre for Educational Research and Innovation|CERI]]（2021）。
-> - **测量目的** 针对国家和区域教育系统宏观循证治理生态，系统性逐项映射[[Research Utilization|研究利用]]在政策制定与一线教学中的促成机制、关键行动者活跃度网络、政策利用形态、资源投入、能力短板与制度化阻力障壁。
+> - **测量目的** 针对国家和区域教育系统宏观[[Output-Oriented Governance|循证治理]]生态，系统性逐项映射[[Research Utilization|研究利用]]在政策制定与一线教学中的促成机制、关键行动者活跃度网络、政策利用形态、资源投入、能力短板与制度化阻力障壁。
 > - **实施方式** 由参调国家或地方教育系统（共 29 国 37 个系统）的中央教育部委/主管行政部门（Ministries/Departments of Education）统筹协调内部各业务处室完成在线自陈填报，并配套针对关键代表性系统的半结构化追踪访谈。
 
 > [!warning] 测量属性与调查效度局限

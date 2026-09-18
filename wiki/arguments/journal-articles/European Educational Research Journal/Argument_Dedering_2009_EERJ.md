@@ -27,6 +27,7 @@ related_concepts:
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Research Utilization]]"
   - "[[Theoretical Perspective]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Document]]"
   - "[[Champ]]"
   - "[[Academic Achievement]]"
@@ -66,7 +67,7 @@ title: "Argument_Dedering_2009_EERJ"
 argument_key: "Argument_Dedering_2009_EERJ"
 argument_display_title: "Evidence-Based Education Policy: Lip service or common practice? Empirical findings from Germany"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -105,7 +106,7 @@ issuing_organization: ""
 > | **政策执行中的认知与意义建构理论**<br>Cognitive Sensemaking in Policy Implementation | 由 Spillane et al. (2002) 与 Honig & Coburn (2008) 确立，强调管理者总是透过前置课程与教学认知透镜来同化吸收新的评估标准与测评数据，优先采纳与既往实践框架相一致的改革进路。（p. 486） |
 
 > [!warrant]- 理论如何支撑论证
-> [[Research Utilization|知识利用]]理论与认知意义建构理论为穿透官方行政修辞提供了严密的分析桥梁。实证证据并不是具有唯一确定含义的客观处方，其本身无法在真空中自我实施；行政决策者在面对纷繁复杂的测评报告时，必然展开主动的认知加工。这一[[Theoretical Perspective|理论视角]]使研究能够精准区分政策出台表面的引用数据证明合理性（象征性使用）与官员在业务深处基于数据排查异常和配置资源（工具性与概念性使用），从而客观评估循证治理在德国科层体制内部的真实推进水准。（pp. 485–486）
+> [[Research Utilization|知识利用]]理论与认知意义建构理论为穿透官方行政修辞提供了严密的分析桥梁。实证证据并不是具有唯一确定含义的客观处方，其本身无法在真空中自我实施；行政决策者在面对纷繁复杂的测评报告时，必然展开主动的认知加工。这一[[Theoretical Perspective|理论视角]]使研究能够精准区分政策出台表面的引用数据证明合理性（象征性使用）与官员在业务深处基于数据排查异常和配置资源（工具性与概念性使用），从而客观评估[[Output-Oriented Governance|循证治理]]在德国科层体制内部的真实推进水准。（pp. 485–486）
 
 ---
 
@@ -267,7 +268,7 @@ issuing_organization: ""
 > [!chain-link] 德国循证教育政策从象征性修辞走向日常行政常规的机制演进链
 > - **前提：外部危机驱动象征性合法化防御** 面对 PISA 震荡的舆论关注与执政联盟博弈，教育部官员因缺乏实证工具与分析能力，主要将数据用作防御性政治包装与既定政策背书。（pp. 486–487）
 > - **机制一：常态化监测体制推动专业能力内生化** KMK 四大支柱监测战略落地，催生了专职质保处室、专业社会科学研究员编制与长效高校合作网络，推动官员实践运作知识走向专业化。（pp. 490–492）
-> - **机制二：日常行政内嵌双重模式与工具理性甄别** 数据融入问题诊断与薄弱校识别，决策者区分宏观测评与微观督导的治理边界，推动循证治理成为日常行政常规。（pp. 492–495）
+> - **机制二：日常行政内嵌双重模式与工具理性甄别** 数据融入问题诊断与薄弱校识别，决策者区分宏观测评与微观督导的治理边界，推动[[Output-Oriented Governance|循证治理]]成为日常行政常规。（pp. 492–495）
 > - **结论：循证教育政策在德国完成从口头修辞向常规实践的转型** 尽管面临数据过载与多源关联瓶颈，但德国各州教育部已将实证数据内化为日常科层治理与资源配置的基础逻辑。（pp. 494–495）
 
 ---

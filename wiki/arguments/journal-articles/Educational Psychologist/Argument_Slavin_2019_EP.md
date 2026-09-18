@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How evidence-based reform will transform research and practice in education"
 argument_kind: "journal-article"
-argument_related_count: 97
+argument_related_count: 98
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -83,6 +83,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Qualitative Research]]"
+  - "[[Cluster Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Intervention Research]]"
 related_facts:
@@ -134,7 +135,7 @@ related_persons:
   - "[[Nancy Madden]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 # Argument_Slavin_2019_EP
 
@@ -416,7 +417,7 @@ updated: 2026-09-17
 > - **$1.4B+** 美国 i3 计划累计资助总额，撬动 171 项高质量教育干预与第三方因果评估。
 > - **180+** 英国 EEF 累计资助的第三方、多为[[Random Assignment|随机分配]]的教育干预试验总数。（p. 24）
 > - **70,000+** [[Evidence for ESSA]] 平台月度独立活跃教育决策者数量。
-> - **40–50 所** 满足 [[Hierarchical Linear Model|HLM]] 聚类分析统计功效并同时兼顾内部与[[External Validity|外部效度]]的基准学校[[Sample Size Determination|样本量]]规模。（p. 26）
+> - **40–50 所** 满足 [[Hierarchical Linear Model|HLM]] [[Cluster Analysis|聚类分析]]统计功效并同时兼顾内部与[[External Validity|外部效度]]的基准学校[[Sample Size Determination|样本量]]规模。（p. 26）
 
 ---
 

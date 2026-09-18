@@ -1,6 +1,122 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Altrichter_2019_ZfB",
+      "path": "wiki/arguments/journal-articles/Zeitschrift für Bildungsforschung/Argument_Altrichter_2019_ZfB.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+    },
+    {
+      "basename": "Evidence-Based School Development",
+      "path": "wiki/concepts/educational-policy-reform/Evidence-Based School Development.md"
+    },
+    {
+      "basename": "Exploratory Factor Analysis",
+      "path": "wiki/methods/quantitative/Exploratory Factor Analysis.md"
+    },
+    {
+      "basename": "School Inspection",
+      "path": "wiki/concepts/educational-policy-reform/School Inspection.md"
+    },
+    {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "School Leadership",
+      "path": "wiki/concepts/educational-leadership-administration/School Leadership.md"
+    },
+    {
+      "basename": "Cluster Analysis",
+      "path": "wiki/methods/quantitative/Cluster Analysis.md"
+    },
+    {
+      "basename": "Gatekeepers",
+      "path": "wiki/concepts/research-methodology/Gatekeepers.md"
+    },
+    {
+      "basename": "Output-Oriented Governance",
+      "path": "wiki/concepts/educational-policy-reform/Output-Oriented Governance.md"
+    },
+    {
+      "basename": "Argument_Rickinson_2022_ER",
+      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
+    },
+    {
+      "basename": "Educational Research, Development and Innovation",
+      "path": "wiki/concepts/educational-policy-reform/Educational Research, Development and Innovation.md"
+    },
+    {
+      "basename": "Research-Rich Teaching Profession",
+      "path": "wiki/concepts/teacher-education/Research-Rich Teaching Profession.md"
+    },
+    {
+      "basename": "Research-Engaged School",
+      "path": "wiki/concepts/educational-policy-reform/Research-Engaged School.md"
+    },
+    {
+      "basename": "Ecosystem for Research-Engaged Schools",
+      "path": "wiki/theories/educational-policy-reform/Ecosystem for Research-Engaged Schools.md"
+    },
+    {
+      "basename": "Argument_Brown_Greany_2018_LPS",
+      "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
+    },
+    {
+      "basename": "Argument_Simpson_2017_JEP",
+      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEP.md"
+    },
+    {
+      "basename": "Argument_Helgetun_2022_JEP",
+      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
+    },
+    {
+      "basename": "Argument_Dedering_2009_EERJ",
+      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
+    },
+    {
+      "basename": "Argument_Møller_2017_EERJ",
+      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Møller_2017_EERJ.md"
+    },
+    {
+      "basename": "Item Response Theory",
+      "path": "wiki/theories/research-methodology/Item Response Theory.md"
+    },
+    {
+      "basename": "Hart's Ladder of Participation",
+      "path": "wiki/theories/research-methodology/Hart's Ladder of Participation.md"
+    },
+    {
+      "basename": "Potential Outcomes Framework",
+      "path": "wiki/theories/research-methodology/Potential Outcomes Framework.md"
+    },
+    {
+      "basename": "Seedhouse's Ethical Pyramid",
+      "path": "wiki/theories/research-methodology/Seedhouse's Ethical Pyramid.md"
+    },
+    {
+      "basename": "Situated Ethics",
+      "path": "wiki/theories/research-methodology/Situated Ethics.md"
+    },
+    {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "Ecological Systems Theory",
+      "path": "wiki/theories/educational-psychology/Ecological Systems Theory.md"
+    },
+    {
+      "basename": "CALLOUTS",
+      "path": "wiki/templates/CALLOUTS.md"
+    },
+    {
+      "basename": "CALLOUTS-PREVIEW",
+      "path": "wiki/templates/CALLOUTS-PREVIEW.md"
+    },
+    {
       "basename": "Argument_Hartong_Forschler_2019_BDS",
       "path": "wiki/arguments/journal-articles/Big Data & Society/Argument_Hartong_Forschler_2019_BDS.md"
     },
@@ -53,64 +169,12 @@
       "path": "wiki/concepts/competency-and-assessment/Data Literacy.md"
     },
     {
-      "basename": "Argument_Dedering_2009_EERJ",
-      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
-    },
-    {
-      "basename": "School Inspection",
-      "path": "wiki/concepts/educational-policy-reform/School Inspection.md"
-    },
-    {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
       "basename": "Content Analysis",
       "path": "wiki/methods/qualitative/Content Analysis.md"
     },
     {
       "basename": "Working Knowledge",
       "path": "wiki/concepts/educational-policy-reform/Working Knowledge.md"
-    },
-    {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "CALLOUTS-PREVIEW",
-      "path": "wiki/templates/CALLOUTS-PREVIEW.md"
-    },
-    {
-      "basename": "CALLOUTS",
-      "path": "wiki/templates/CALLOUTS.md"
-    },
-    {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
-    },
-    {
-      "basename": "Ecological Systems Theory",
-      "path": "wiki/theories/educational-psychology/Ecological Systems Theory.md"
-    },
-    {
-      "basename": "Situated Ethics",
-      "path": "wiki/theories/research-methodology/Situated Ethics.md"
-    },
-    {
-      "basename": "Seedhouse's Ethical Pyramid",
-      "path": "wiki/theories/research-methodology/Seedhouse's Ethical Pyramid.md"
-    },
-    {
-      "basename": "Potential Outcomes Framework",
-      "path": "wiki/theories/research-methodology/Potential Outcomes Framework.md"
-    },
-    {
-      "basename": "Hart's Ladder of Participation",
-      "path": "wiki/theories/research-methodology/Hart's Ladder of Participation.md"
-    },
-    {
-      "basename": "Item Response Theory",
-      "path": "wiki/theories/research-methodology/Item Response Theory.md"
     },
     {
       "basename": "Campbellian Validity Framework",
@@ -129,76 +193,12 @@
       "path": "wiki/templates/template-argument.md"
     },
     {
-      "basename": "Argument_Rickinson_2022_ER",
-      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_ER.md"
-    },
-    {
       "basename": "Dynamic Sustainability Framework",
       "path": "wiki/theories/educational-policy-reform/Dynamic Sustainability Framework.md"
     },
     {
       "basename": "Good Governance of Evidence",
       "path": "wiki/theories/educational-policy-reform/Good Governance of Evidence.md"
-    },
-    {
-      "basename": "Justin Parkhurst",
-      "path": "wiki/persons/uk/Justin Parkhurst.md"
-    },
-    {
-      "basename": "Fitness for Purpose",
-      "path": "wiki/concepts/research-methodology/Fitness for Purpose.md"
-    },
-    {
-      "basename": "Monash Q Project",
-      "path": "wiki/facts/australia/Monash Q Project.md"
-    },
-    {
-      "basename": "Argument_Serpell_2020_EP",
-      "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md"
-    },
-    {
-      "basename": "Professional Judgment",
-      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
-    },
-    {
-      "basename": "Research-Practice Partnership",
-      "path": "wiki/concepts/educational-policy-reform/Research-Practice Partnership.md"
-    },
-    {
-      "basename": "Boundary Spanner",
-      "path": "wiki/concepts/university-industry-collaboration/Boundary Spanner.md"
-    },
-    {
-      "basename": "Systematic Review",
-      "path": "wiki/methods/qualitative/Systematic Review.md"
-    },
-    {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
-    },
-    {
-      "basename": "Problem Solving",
-      "path": "wiki/concepts/competency-and-assessment/Problem Solving.md"
-    },
-    {
-      "basename": "Professional Learning Community",
-      "path": "wiki/concepts/teacher-education/Professional Learning Community.md"
-    },
-    {
-      "basename": "Implementation and Process Evaluation",
-      "path": "wiki/methods/mixed/Implementation and Process Evaluation.md"
-    },
-    {
-      "basename": "Reflexivity",
-      "path": "wiki/concepts/research-methodology/Reflexivity.md"
-    },
-    {
-      "basename": "Internal Validity",
-      "path": "wiki/concepts/research-methodology/Internal Validity.md"
-    },
-    {
-      "basename": "Knowledge Transfer",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Transfer.md"
     }
   ],
   "omittedPaths": [],

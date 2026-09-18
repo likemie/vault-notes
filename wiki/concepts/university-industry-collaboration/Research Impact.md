@@ -10,7 +10,7 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Public Engagement with Science]]"
   - "[[Dialogue in Education]]"
   - "[[School Leadership]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Research Literacy]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Utilization]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Research Impact
@@ -111,7 +112,7 @@ updated: 2026-09-17
 > - **科研影响力评估的三层进阶阶梯（Three Tiers of Impact Evaluation）**
 >   将科研影响力的度量自下而上划分为三个相互嵌套的因果层级（Levin, 2011; Gough et al., 2018; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, pp. 117–118]]）：
 >   1. **最终受益人群体成效（Ultimate Beneficiary Outcomes）** 处于因果链顶端，指学生学业进展、身心健康、教育公平与长远福祉等最终受益人层面的实质性积极改变，因果链漫长且极难直接归因；
->   2. **预定使用者的行为与实践变革（Behaviours of Intended Users）** 处于因果链中游，指一线教师教学行为革新、[[School Leadership|学校领导]]层循证治理常规与教育行政部门政策制定流程转型；
+>   2. **预定使用者的行为与实践变革（Behaviours of Intended Users）** 处于因果链中游，指一线教师教学行为革新、[[School Leadership|学校领导]]层[[Output-Oriented Governance|循证治理]]常规与教育行政部门政策制定流程转型；
 >   3. **中间过程产出（Intermediate Outcomes）** 处于因果链基底，涵盖研究证据的获取渠道通畅度、使用者对研究的认知与[[Research Literacy|研究素养]]提升以及对科学证据的信任态度。
 
 > [!logic-map]- 科研影响力评估的三层因果递进逻辑

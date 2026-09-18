@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 107
+related_count: 108
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Knowledge Production]]"
   - "[[Research Question]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Ontology]]"
   - "[[International Education]]"
   - "[[Professional Judgment]]"
@@ -348,7 +349,7 @@ updated: 2026-09-18
 > 3. **实践者知识主权与教师组织自主[[Knowledge Production|知识生产]]** [[John Bangs|约翰·班斯]]（John Bangs）与埃梅谢·K·纳吉（Emese K. Nagy, 2022）坚决反对将一线专业人员矮化为外部研究结论的被动消费者，主张确立教师作为知识协同创造者与所有者的主体地位。以教育国际（EI）和[[National Education Association|全美教育协会]]（NEA）为代表的教师专业组织通过开展独立实证研究与全球政策对话，将循证融入育人伦理与专业裁决，从而保障研究利用真正服务于教育公平与专业赋权。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 219–222, 226–228, 233–236)]]
 
 > [!warrant]- 制度性保障与权力共享机制
-> 证据民主化主张拆解以顶层循证机构为核心的层级[[Disciplina and Doctrina|规训]]，将弱势边缘群体、社区家庭与一线教师的[[Phronesis|实践智慧]]引入[[Research Question|研究问题]]界定与证据生产源头，确立由多方共同拥有的循证治理生态。
+> 证据民主化主张拆解以顶层循证机构为核心的层级[[Disciplina and Doctrina|规训]]，将弱势边缘群体、社区家庭与一线教师的[[Phronesis|实践智慧]]引入[[Research Question|研究问题]]界定与证据生产源头，确立由多方共同拥有的[[Output-Oriented Governance|循证治理]]生态。
 
 ---
 

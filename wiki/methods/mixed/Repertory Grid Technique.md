@@ -9,7 +9,7 @@ summary: "基于个人建构理论的研究工具，通过元素与构念的交�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Laddering]]"
   - "[[Pyramiding]]"
+  - "[[Cluster Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
 related_arguments:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 # Repertory Grid Technique
 
@@ -79,7 +80,7 @@ updated: 2026-09-17
 > [!method-stack] 方法层级
 > - **研究设计** 个别化[[Case Study|案例研究]]、前[[Pre-test and Post-test|后测]]比较设计、组间比较（使用提供元素/构念时）、[[Mixed Methods Research|混合方法]]（grid + 访谈 + 观察）。
 > - **数据收集** 一对一访谈施测、团体施测、[[Questionnaire|问卷]]式施测、计算机施测（Webgrid 5, Idiogrid）；构念引发技术包括三元比较法、对立面方法、[[Laddering|阶梯法]]、[[Pyramiding|金字塔法]]。
-> - **分析方法** 构念间相关与平均相关（认知复杂性/简单性指数）；主成分分析 / 奇异值分解；层次聚类分析；聚焦法；自认同图分析；社会网格（Sociogrids）和社会网络（Socionets）分析。
+> - **分析方法** 构念间相关与平均相关（认知复杂性/简单性指数）；主成分分析 / 奇异值分解；层次[[Cluster Analysis|聚类分析]]；聚焦法；自认同图分析；社会网格（Sociogrids）和社会网络（Socionets）分析。
 > - **辅助技术** 构念对齐（偏好极点法、理想自我法、自动反转法）；偏斜性处理；中点评分与缺失数据处理；GRIDSTAT、Idiogrid、Rep 5 等软件。
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-09-17
 >
 > 5. **构念对齐** 分析前统一构念朝向：偏好极点法、理想自我法或自动反转法（识别并反转与其他构念普遍负相关的构念）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 10–11)]]
 >
-> 6. **分析数据** 进行构念间相关分析（认知复杂性/简单性指数）、主成分分析或奇异值分解、聚类分析、聚焦分析、自认同图分析。选择方法取决于[[Research Purpose|研究目的]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 10–12)]]
+> 6. **分析数据** 进行构念间相关分析（认知复杂性/简单性指数）、主成分分析或奇异值分解、[[Cluster Analysis|聚类分析]]、聚焦分析、自认同图分析。选择方法取决于[[Research Purpose|研究目的]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 10–12)]]
 
 ---
 

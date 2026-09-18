@@ -8,7 +8,7 @@ summary: "基于认知心理学原型理论、通过语言词汇的自由联想�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Ethnography]]"
+  - "[[Cluster Analysis]]"
   - "[[Triangulation]]"
 related_persons: []
 related_arguments:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-08-20
+updated: 2026-09-18
 ---
 
 # Prototype Methods
@@ -103,7 +104,7 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 
 各文化 60 名参与者按四分量表评定每个词与学习的关联度（1＝无关，4＝确定有关）。取中位数 2.72 为分界线，经逐一审查后确定核心词表：英文 203 个、中文 225 个。这些词表代表经**群体共识（group consensus）**确认的与学习具有合理相关性的词汇([[Argument_Li_2012_Cambridge|Li, 2012, pp.90-91]])。
 
-**阶段 4：聚类分析生成[[Concept Mapping|概念地图]]（cluster analysis）**
+**阶段 4：[[Cluster Analysis|聚类分析]]生成[[Concept Mapping|概念地图]]（cluster analysis）**
 
 各文化 100 名大学生将核心词表按意义相似性分组。分组数据经**聚类分析（cluster analysis）**统计处理，生成两张层级概念地图（Figures 3.1 & 3.2）。每张地图包含四个层级：上位层（Superordinate Level）→ 基本层 I（Basic Level I）→ 基本层 II（Basic Level II）→ 下位层（Subordinate Level，即实际词汇所在层）。聚类数量和大小由参与者将多少概念归入各组决定——原型方法[[Hypothesis|假设]]**某一聚类中词项越多，表示该文化成员对该概念的意识／重视程度越高([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-94]])**。
 
@@ -145,7 +146,7 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 > [!warning]
 > - **样本代表性问题** Li 的[[Study Population and Sample|研究样本]]均为大学生——通常是该文化中受教育程度最高、年龄最集中的群体。这些参与者可能不是各自文化整体人口的代表性样本（Li 未在研究中直接讨论此限制）
 > - **语言 vs 信念的差距** 原型方法[[Hypothesis|假设]]语言材料直接反映文化信念，但词汇存在（lexical availability）不等于信念存在——一个文化可能保留了某些"化石词汇"（如成语），但成员已不再持有相应的信念
-> - **聚类分析的主观性** 虽然聚类分析是统计方法，但参与者在"按意义相似性分组"时仍然涉及大量主观判断——不同的分组标准（如按功能、按情境、按情感效价）可能产生不同的[[Concept Mapping|概念地图]]。Li 没有报告分组指导语的详细措辞，也没有讨论不同分组策略的可能性
+> - **[[Cluster Analysis|聚类分析]]的主观性** 虽然聚类分析是统计方法，但参与者在"按意义相似性分组"时仍然涉及大量主观判断——不同的分组标准（如按功能、按情境、按情感效价）可能产生不同的[[Concept Mapping|概念地图]]。Li 没有报告分组指导语的详细措辞，也没有讨论不同分组策略的可能性
 > - **方法不直接解释行为** 原型方法产出的是概念结构而非行为数据——即使两种文化的学习概念地图完全不同，也不能直接推断两种文化成员的实际学习行为不同。Li 意识到了这一局限，因此通过引述其他研究（课堂观察、归因研究等）来补充行为层面的[[Chain of Evidence|证据链]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.76-87]])
 > - **翻译对等性问题** 交叉翻译和评分程序虽然减少了但不完全消除了翻译偏差——"學習"和"learn/learning"在各自的语义网络中与不同的概念关联，即使它们是各自语言中最接近的对等词
 

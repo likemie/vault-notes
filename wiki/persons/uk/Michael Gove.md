@@ -8,7 +8,7 @@ summary: "英国保守党核心政治家、前教育大臣（2010–2014），�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Falling Standards Template]]"
   - "[[Rote Learning]]"
   - "[[Policy Avoidance]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Scientific Autarky]]"
 related_theories: []
 related_methods:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Michael Gove
@@ -133,7 +134,7 @@ updated: 2026-09-17
 
 ## 历史与学术评价
 
-> [!citation-card] Edovald & Nevill 论循证治理制度化遗产
+> [!citation-card] Edovald & Nevill 论[[Output-Oriented Governance|循证治理]]制度化遗产
 > 无论政界对其意识形态课程政策存在何种激烈争辩，戈夫在任内推动设立独立留本基金创立 [[Education Endowment Foundation|EEF]]，并赋予其不受政党轮替干扰的 15 年法定运营周期，被广泛公认为全球循证公共治理史上最具远见的制度创新之一。它成功将因果科研从短期选举预算周期的政治干涉中剥离，奠定了英格兰教育因果试验全球领先地位。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 47)]]
 >
 > *“The establishment of the EEF as an independent charity with a 15-year endowment protected it from shifting political priorities, enabling long-term methodological investments that generated unprecedented public trust.”*

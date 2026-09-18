@@ -9,7 +9,7 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 33
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -22,8 +22,10 @@ tags:
 related_concepts:
   - "[[Artefact]]"
   - "[[Hypothesis]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Data Infrastructure]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence Ecosystem]]"
   - "[[Embedded Researcher]]"
@@ -31,6 +33,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Research Literacy]]"
   - "[[Evidence-Based Education]]"
+  - "[[Conatus]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Cultural Hierarchy]]"
@@ -53,6 +56,9 @@ related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Massachusetts Department of Elementary and Secondary Education]]"
+  - "[[Early Warning Indicator System]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
@@ -74,8 +80,8 @@ updated: 2026-09-18
 > [!theory-position] 理论定位
 > - **解释对象** 组织文化在不同层级上的生成机制与表征结构，特别是物质[[Artefact|器物]]、公开信奉价值与深层潜意识[[Hypothesis|假设]]之间的动态关联。
 > - **理论问题** 解释组织内部可见显现与隐性深层规范的脱节，破解为何组织在物理符号（器物）与口头承诺（价值观）上积极拥抱变革，而在日常行为与决策中却深陷防备、怀疑与因循守旧（深层假设）。
-> - **理论类型** 中层[[Analytic Framework|分析框架]]与机制模型，广泛应用于教育社会学、学校组织改进、循证治理与质性/[[Visual Research Methods|视觉研究方法]]论。
-> - **知识位置** 由 Edgar Schein (1985, 1992) 奠定三层次架构，后经复杂系统[[Knowledge Mobilisation|知识动员]]理论（Best & Holmes, 2010）引入教育政策与证据生态分析，被[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]列为衡量跨国循证文化心态与组织制度环境的核心理论基底（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）；亦被教育关键数据研究用于解析不同行政治理文化对数字化学校监测与[[Data Infrastructure|数据基础设施]]采纳形态的深层规训机制（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）。
+> - **理论类型** 中层[[Analytic Framework|分析框架]]与机制模型，广泛应用于教育社会学、学校组织改进、[[Output-Oriented Governance|循证治理]]与质性/[[Visual Research Methods|视觉研究方法]]论。
+> - **知识位置** 由 Edgar Schein (1985, 1992) 奠定三层次架构，后经复杂系统[[Knowledge Mobilisation|知识动员]]理论（Best & Holmes, 2010）引入教育政策与证据生态分析，被[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]列为衡量跨国循证文化心态与组织制度环境的核心理论基底（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）；亦被教育关键数据研究用于解析不同行政治理文化对数字化学校监测与[[Data Infrastructure|数据基础设施]]采纳形态的深层[[Disciplina and Doctrina|规训]]机制（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）。
 
 > [!claim] 核心主张
 > 组织文化由三个层次嵌套构成：表层的物质器物与制度结构、中间层的官方信奉价值观、以及最深层的潜意识基本假设与防御规范；表层器物与口头理念能够展示组织正在呈现何种形象，但组织的实质决策与行动逻辑由深层基本假设决定，二者之间普遍存在着表层崇尚科学与深层信任赤字的认知断层（Schein, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022, pp. 92–95]]）。
@@ -114,7 +120,7 @@ updated: 2026-09-18
 >   - *宏观治理情境* 部属政策研究中心、官方数据库平台、定向委托课题合同、政策简报与咨询委员会清单；州级与市立集中式数据仓库、学生信息管理系统、公共评级仪表盘，以及行政部门间阻隔敏感数据直接流通的防盗铁门物理协议。
 >   - *特征* 高度可见、容易记录，但含义具有主观多义性，只能展示组织在做什么，无法说明为何这样做。
 > - **第二层次：信奉的价值观与理念自陈（Espoused Values & Mindset）**
->   - *表现形式* 学校办学宗旨与使命宣言；教育部委对循证治理的高度认同（如调查中官员高度赞同研究非常重要，均分 4.46）；官方对数据驱动、客观量化、横向公平可比与自动监测预警的正式政策承诺。
+>   - *表现形式* 学校办学宗旨与使命宣言；教育部委对[[Output-Oriented Governance|循证治理]]的高度认同（如调查中官员高度赞同研究非常重要，均分 4.46）；官方对数据驱动、客观量化、横向公平可比与自动监测预警的正式政策承诺。
 >   - *特征* 处于意识层面，容易受到社会赞许性效应影响，常反映组织期望呈现的理想形态，而非实际执行的惯例。
 > - **第三层次：深层基本假设与潜意识规范（Basic Underlying Assumptions & Deep Norms）**
 >   - *表现形式* 关于权力分配、人际信任、风险承担与知识真伪的非言明假定。如决策部门对外部学者的戒备心理（信任度仅 3.40）、恐惧研究揭露政策短板，以及将证据窄化为交易型采买原料的工具理性假设；又如惩罚性问责假设下基层学区对州管接管风险与排队比较的本能恐慌和防卫策略，或诊断性自治传统下学校对非惩罚性反馈的信赖与对商业化监管平台的天然排斥。
@@ -168,7 +174,7 @@ updated: 2026-09-18
 
 ### 核心命题二 表层器物与信奉价值的繁荣常遮蔽深层防备性假设与政学信任赤字
 
-> [!concept-lens] 循证治理中的二[[Metacognition|元认知]]反差与防御机制
+> [!concept-lens] [[Output-Oriented Governance|循证治理]]中的二[[Metacognition|元认知]]反差与防御机制
 > 运用三层次模型解构教育行政部门表面崇尚研究与实际交易型排斥研究的体制悖论。
 
 > [!claim] 理念自陈高度认同与深层人际信任赤字的结构性断裂
@@ -202,7 +208,7 @@ updated: 2026-09-18
 > [!exegesis]- 教育研究与公共治理案例分析
 > - **微观学校环境的视觉文化透视** 走进一所公立高中，校长的办公室宽敞、私密、铺设实木地板，陈列着荣誉奖杯、政要合影与完备的监控大屏；而普通教师共享没有隔断的大开间，办公桌局促凌乱，个人物品被严格限制摆放。以 Schein 理论透视，这一器物组合生动传递了等级控制压倒专业尊严的组织文化；但仅凭器物无法断言领导层是否真心关怀教学，研究者必须深入访谈教师对评估制度的真实信念（中间价值观），并穿透至学校对教师人性假设的最深层潜意识规范（第三层次）。
 > - **宏观教育部委的循证文化反差** 一国教育部高调出台[[Evidence-Based Education|循证教育]]改革白皮书，大屏幕滚动播放统计数据，部委领导在公开演讲中强调证据驱动决策（信奉的价值观，4.46分高认同）。然而进入日常业务司局内部，决策官员在面对大学学者提出的严谨课程批判报告时，第一反应是封存报告或指责学者脱离实际，私下更偏好通过电话向熟人专家采购符合现行政策预设的定制材料（深层假设：政学信任赤字 3.40分，交易型采购占 70%）。表面器物与官方价值的繁荣掩盖了骨子里的科层防御与技术短视。
-> - **比较数字化学校监测中的两种行政组织文化（马萨诸塞 vs 汉堡）** 美国马萨诸塞州中小学教育部（Massachusetts Department of Elementary and Secondary Education, DESE）建设了涵盖千余项指标的 Edwin Analytics 数据仓库与早期预警指示系统（Early Warning Indicator System, EWIS）（器物），宣称促进所有学生公平成功（信奉价值观）。但因其底层制度深嵌着针对四级与五级落后学校的州级直接接管惩罚性问责假设，导致学区和学校对系统抱持高度戒备，辅导员私下规避系统或产生机械误判；州教育局内部甚至在负责外部问责的评估司与负责基层扶持的学区支持司之间设立带门禁的物理防盗铁门，严禁问责原始数据流入支持部门，形成荒诞的数据流转断裂。反观德国汉堡，尽管同样建立汉堡社会指数与全样本统一学业测评等复杂监测工具（器物），但受后国际学生评估项目（Programme for International Student Assessment, PISA）时期强调学校教学诊断自治的行政文化（深层假设）规训，数据严格限制在非惩罚性视导反馈对话中，学校视导员充当专业缓冲带，坚决抵制将学校公开排队或将数据外包给商业云端平台（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）。
+> - **比较数字化学校监测中的两种行政组织文化（马萨诸塞 vs 汉堡）** 美国[[Massachusetts Department of Elementary and Secondary Education|马萨诸塞州中小学教育部]]（Massachusetts Department of Elementary and Secondary Education, DESE）建设了涵盖千余项指标的 Edwin Analytics 数据仓库与早期预警指示系统（[[Early Warning Indicator System]], EWIS）（器物），宣称促进所有学生公平成功（信奉价值观）。但因其底层制度深嵌着针对四级与五级落后学校的州级直接接管惩罚性问责假设，导致学区和学校对系统抱持高度戒备，辅导员私下规避系统或产[[Conatus|生机]]械误判；州教育局内部甚至在负责外部问责的评估司与负责基层扶持的学区支持司之间设立带门禁的物理防盗铁门，严禁问责原始数据流入支持部门，形成荒诞的数据流转断裂。反观德国汉堡，尽管同样建立汉堡社会指数与全样本统一学业测评等复杂监测工具（器物），但受后[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）时期强调学校教学诊断自治的行政文化（深层假设）[[Disciplina and Doctrina|规训]]，数据严格限制在非惩罚性视导反馈对话中，学校视导员充当专业缓冲带，坚决抵制将学校公开排队或将数据外包给商业云端平台（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）。
 
 ---
 
@@ -279,5 +285,5 @@ updated: 2026-09-18
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]** 阐释如何阅读教室、校长办公室等学校物理[[Artefact|器物]]，说明器物在解读隐性组织文化与权力结构中的方法论价值。
 > - **[[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]** 跨国实证测度 37 个教育系统的文化与心态指标，揭示循证理念高认同与深层政学信任赤字并存的组织病理。
 > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 将文化与心态列为 [[OECD]] 强化教育[[Research Impact|研究影响力]][[Analytic Framework|分析框架]]的第四大支柱，探讨实证文化转型的系统策略。
-> - **[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]]** 比较美德两国数字化学校监测的基础设施流转，揭示高利害惩罚问责文化与低利害诊断自治文化如何从深层塑造数据基础设施的落地形态与部门间物理隔离。
+> - **[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]]** 比较美德两国数字化学校监测的基础设施流转，揭示高利害惩罚问责文化与低利害诊断自治文化如何从深层塑造[[Data Infrastructure|数据基础设施]]的落地形态与部门间物理隔离。
 > - **Schein (1992)** 经典著作奠定组织文化三层次理论基石。

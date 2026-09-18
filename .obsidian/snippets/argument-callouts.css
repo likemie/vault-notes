@@ -19786,3 +19786,66 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="theory-framework"] tbody tr:hover td {
   background: color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
 }
+
+.callout[data-callout="theory-proposition"] {
+  --callout-color: 127, 78, 138;
+  --callout-icon: lucide-lightbulb;
+  border: 1px solid rgba(var(--callout-color), 0.23);
+  border-left: 5px solid rgb(var(--callout-color));
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.09), transparent 55%),
+    var(--background-primary);
+  box-shadow: 0 7px 18px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="theory-proposition"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  line-height: 1.45;
+}
+
+.callout[data-callout="theory-proposition"] > .callout-title .callout-title-inner::before {
+  content: "PROPOSITION";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.14);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 820;
+  letter-spacing: 0.07em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="theory-proposition"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="theory-proposition"] > .callout-content > p {
+  margin: 0;
+  line-height: 1.7;
+}
+
+.callout[data-callout="theory-proposition"] > .callout-content > p + p {
+  margin-top: 0.7rem;
+  padding-top: 0.7rem;
+  border-top: 1px solid rgba(var(--callout-color), 0.18);
+}
+
+.callout[data-callout="theory-proposition"] > .callout-content > p > strong:first-child {
+  color: rgb(var(--callout-color));
+  margin-right: 0.25rem;
+}
+
+.theme-dark .callout[data-callout="theory-origin"] {
+  --callout-color: 169, 151, 226;
+}
+
+.theme-dark .callout[data-callout="theory-framework"] {
+  --callout-color: 109, 198, 204;
+}
+
+.theme-dark .callout[data-callout="theory-proposition"] {
+  --callout-color: 211, 154, 219;
+}

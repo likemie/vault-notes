@@ -79,6 +79,44 @@
       "title": "Argument_Allerup_2015_Paideia",
       "year": "2015"
     },
+    "Altrichter et al. (2019)": {
+      "aliases": [
+        "Altrichter et al., 2019",
+        "Altrichter et al. (2019)"
+      ],
+      "argument": "Argument_Altrichter_2019_ZfB",
+      "authors": [
+        "Altrichter, H.",
+        "Kemethofer, D.",
+        "George, A. C."
+      ],
+      "citation": "Altrichter, H., Kemethofer, D., & George, A. C. (2019). Schulleitungen und evidenzbasierte Bildungsreform im Schulwesen. *Zeitschrift für Bildungsforschung*, 9(1), 17–35. https://doi.org/10.1007/s35834-018-0228-5",
+      "doi": "10.1007/s35834-018-0228-5",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Zeitschrift für Bildungsforschung/Argument_Altrichter_2019_ZfB.md",
+      "source_language": "en",
+      "title": "Argument_Altrichter_2019_ZfB",
+      "year": "2019"
+    },
+    "Altrichter et al., 2019": {
+      "aliases": [
+        "Altrichter et al., 2019",
+        "Altrichter et al. (2019)"
+      ],
+      "argument": "Argument_Altrichter_2019_ZfB",
+      "authors": [
+        "Altrichter, H.",
+        "Kemethofer, D.",
+        "George, A. C."
+      ],
+      "citation": "Altrichter, H., Kemethofer, D., & George, A. C. (2019). Schulleitungen und evidenzbasierte Bildungsreform im Schulwesen. *Zeitschrift für Bildungsforschung*, 9(1), 17–35. https://doi.org/10.1007/s35834-018-0228-5",
+      "doi": "10.1007/s35834-018-0228-5",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Zeitschrift für Bildungsforschung/Argument_Altrichter_2019_ZfB.md",
+      "source_language": "en",
+      "title": "Argument_Altrichter_2019_ZfB",
+      "year": "2019"
+    },
     "Amos (2022)": {
       "aliases": [
         "Amos, 2022",
@@ -2958,7 +2996,7 @@
       ],
       "argument": "Argument_Hartong_Forschler_2019_BDS",
       "authors": [
-        "Hartong, S.",
+        "[[Sigrid Hartong|Hartong, S.]]",
         "Förschler, A."
       ],
       "citation": "Hartong, S., & Förschler, A. (2019). Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies. Big Data & Society, 6(1), 1–12. https://doi.org/10.1177/2053951719853311",
@@ -2976,7 +3014,7 @@
       ],
       "argument": "Argument_Hartong_Forschler_2019_BDS",
       "authors": [
-        "Hartong, S.",
+        "[[Sigrid Hartong|Hartong, S.]]",
         "Förschler, A."
       ],
       "citation": "Hartong, S., & Förschler, A. (2019). Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies. Big Data & Society, 6(1), 1–12. https://doi.org/10.1177/2053951719853311",

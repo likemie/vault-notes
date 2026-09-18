@@ -29,6 +29,9 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Research-Practice Partnership]]"
   - "[[Research-Engaged School]]"
+  - "[[Research-Rich Teaching Profession]]"
+  - "[[Educational Research, Development and Innovation]]"
+  - "[[Evidence-Based School Development]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
@@ -94,7 +97,7 @@ title: "Argument_Rickinson_2022_ER"
 argument_key: "Argument_Rickinson_2022_ER"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -111,7 +114,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[International Education|国际教育]]界推动学校与教育系统利用研究证据的诉求日益高涨，[[Emergence|涌现]]出美国的研究实践伙伴关系（[[Research-Practice Partnership|Research-Practice Partnerships]], RPP）、英国的循证参与学校（[[Research-Engaged School|Research-Engaged Schools]]）、澳大利亚的研究充实型教学专业、新加坡的研发与创新（Research, Development and Innovation, RDI）以及德国的循证学校发展等全球举措。然而，学界与政策界的讨论长期深陷于何谓高质量的证据，极少深入探讨何谓高质量的使用。面对这一关键缺口，国际教育研究面临两大核心议题：
+> [[International Education|国际教育]]界推动学校与教育系统利用研究证据的诉求日益高涨，[[Emergence|涌现]]出美国的研究实践伙伴关系（[[Research-Practice Partnership|Research-Practice Partnerships]], RPP）、英国的循证参与学校（[[Research-Engaged School|Research-Engaged Schools]]）、澳大利亚的[[Research-Rich Teaching Profession|研究充实型教学专业]]、新加坡的[[Educational Research, Development and Innovation|研发与创新]]（Educational Research, Development and Innovation, RDI）以及德国的[[Evidence-Based School Development|循证学校发展]]等全球举措。然而，学界与政策界的讨论长期深陷于何谓高质量的证据，极少深入探讨何谓高质量的使用。面对这一关键缺口，国际教育研究面临两大核心议题：
 > 1. 卫生保健、社会关照、教育与公共政策四大实践领域如何界定与概念化[[Research Utilization|证据使用]]质量？
 > 2. 如何从教育专业视角出发，系统定义并建构一个立足教育实践的[[Quality Use of Research Evidence Framework|研究证据质量使用框架]]？（pp. 133–134）
 

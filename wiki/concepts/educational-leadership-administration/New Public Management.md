@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争与管理问责"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Rationalized Myth]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Evidence Era]]"
   - "[[Critical Pedagogy]]"
   - "[[Internationalization of Higher Education]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # New Public Management
@@ -169,7 +170,7 @@ updated: 2026-09-17
 > |---|---|---|---|
 > | **专业自主与问责重塑** | 量化绩效与管理主义问责替代专业[[Phronesis\|实践智慧]]与育人审议，规训[[School Leadership\|学校领导]]者 | 基础教育学校领导、督导评级与课程交付 | Møller; Eacott |
 > | **高等教育市场化与分层** | 财政紧缩倒逼大学企业化运营与国际生源商品化，强化资源马太效应 | 高等教育治理、科研评价与跨国教育市场 | Rizvi; Schulze-Cleven et al.; Amos |
-> | **循证治理与证据异化** | 借循证实践与性价比核算推行分权表象下的集中规训与逆向证据生产 | 教师教育准入资质、核心框架与宏观政策合法化 | Helgetun & Menter |
+> | **[[Output-Oriented Governance\|循证治理]]与证据异化** | 借循证实践与性价比核算推行分权表象下的集中规训与逆向证据生产 | 教师教育准入资质、核心框架与宏观政策合法化 | Helgetun & Menter |
 
 ---
 
@@ -177,7 +178,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 理论萌芽期** [[Human Capital Theory|人力资本理论]]与公共选择学派将知识定义为经济生产要素，确立了[[Knowledge-Based Economization|知识经济化]]与行政自利性[[Hypothesis|假设]]。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
-> - **1980s–1990s — 全球扩散与教育渗透** 英美等国率先开启去管制化改革；1984 年英格兰成立[[Committee for the Accreditation of Teacher Education|教师教育认证委员会]]（CATE），开创依据皇家督学署（HMI）督导证据进行资质核准的显性循证治理先河。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
+> - **1980s–1990s — 全球扩散与教育渗透** 英美等国率先开启去管制化改革；1984 年英格兰成立[[Committee for the Accreditation of Teacher Education|教师教育认证委员会]]（CATE），开创依据皇家督学署（HMI）督导证据进行资质核准的显性[[Output-Oriented Governance|循证治理]]先河。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
 > - **2000s–2010s — 审计文化与[[Governing by Numbers|数字治理]]高潮** 大规模测验（如 [[PISA]]、NAPLAN）与大学[[Research Excellence Framework|研究卓越框架]]（REF）确立，绩效评估与经费拨款紧密挂钩，形成制度化马太效应。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 > - **2010s 至今 — 从测量时代迈向[[Evidence Era|证据时代]]** 治理修辞从单一数据指标扩张为以科学证据、[[Randomised Controlled Trials|随机对照试验]]（RCT）与国际最佳实践为包装的主导性[[Rationalized Myth|合理化神话]]，政策制定在高度集权把关下演进为[[Policy-Based Evidence-Making|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–93)]]
 

@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -44,8 +44,10 @@ related_concepts:
   - "[[Evidence Era]]"
   - "[[Governing by Numbers]]"
   - "[[Technical Rationality]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
+  - "[[Data Infrastructure]]"
   - "[[Variable]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
@@ -69,7 +71,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Policy Brokerage
@@ -218,7 +220,7 @@ updated: 2026-09-17
 > > [!axis] 中立知识桥梁还是隐蔽政治议程载体
 > > 关于中介机构究竟是在促进理性决策还是在推行特定意识形态的争论。
 > >
-> > - **[[Technical Rationality|技术理性]]派** 认为政策中介有效整合了零散复杂的科研证据，降低了决策者的信息搜寻成本，是现代循证治理必不可少的专业基础设施。
+> > - **[[Technical Rationality|技术理性]]派** 认为政策中介有效整合了零散复杂的科研证据，降低了决策者的信息搜寻成本，是现代[[Output-Oriented Governance|循证治理]]必不可少的专业基础设施。
 > > - **批判政治学派** 指责政策中介机构利用数字外衣遮蔽了深层政治考量，借技术客观性之名推行新自由主义治理问责与全球市场化议程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!critique] 外部批评
@@ -226,7 +228,7 @@ updated: 2026-09-17
 > - **证据异化与[[Epistemology|认识论]]连贯性断裂** [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] 批评国内政策中介机制割裂了严谨学术研究的完整[[Epistemology|认识论]]链条，在追求政策落地偏好与部长适宜性逻辑的驱使下，将研究证据降格为去情境化的口号与政治辩护工具，导致科学认识论退化为非[[Reflexivity|反思性]]的教条意见。
 
 > [!warning] 适用局限
-> 政策中介概念主要解释具备完备数据生产能力与跨国传播网络的超国家组织、大型智库及发达咨询实体；在缺乏成熟数据基础设施或高度封闭集权的政策体系中，其分析解释力可能受限。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 550)]]
+> 政策中介概念主要解释具备完备数据生产能力与跨国传播网络的超国家组织、大型智库及发达咨询实体；在缺乏成熟[[Data Infrastructure|数据基础设施]]或高度封闭集权的政策体系中，其分析解释力可能受限。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 550)]]
 
 ---
 

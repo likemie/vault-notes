@@ -7,7 +7,7 @@ aliases:
 summary: "涵盖个体在数字化社会中理解、解读与批判评估数据的通识能力，以及教育者在学校探究中系统采集质检多源数据、超越单一终结性评价、进行定性定量三角验证的专业实践胜任力；虽能精准诊断学情病因，但自身不包含现成教学策略，亟需与研究素养协同驱动探究闭环。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 42
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -25,8 +25,10 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Data Infrastructure]]"
   - "[[Document]]"
+  - "[[Commensuration]]"
   - "[[Literature Search]]"
   - "[[Scientific Literacy]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Effective Teaching]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
@@ -43,7 +45,6 @@ related_concepts:
   - "[[Affective Outcomes]]"
   - "[[Professional Judgment]]"
   - "[[Academic Achievement]]"
-  - "[[Commensuration]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Nelson_2017_ER]]"
@@ -54,6 +55,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
   - "[[Qualitative Observation]]"
+  - "[[Descriptive Analysis]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Survey Research]]"
@@ -64,6 +66,9 @@ related_persons:
 related_facts:
   - "[[Data Team Intervention]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Massachusetts Department of Elementary and Secondary Education]]"
+  - "[[Institute for Educational Monitoring and Quality Improvement]]"
+  - "[[Early Warning Indicator System]]"
 confidence: high
 status: draft
 created: 2026-08-22
@@ -103,8 +108,8 @@ updated: 2026-09-18
 |---|---|---|---|---|
 | **核心主体** | K-12 学生、未来公民 | 教师、学科组长、[[School Leadership\|学校领导]]者 | 教育行政官员、督学、学校领导者与研究者 | 教师、教育研究者、政策制定者 |
 | **主要对象** | 跨学科情境数据、统计图表、科学实验数据 | 校内测试成绩、[[Formative Assessment\|形成性评价]]、课堂观察、学生行为数据 | 数据基础设施全生命周期（抽取、清洗、算法建模、冻结时限、展示界面） | 外部发表的学术[[Document\|文献]]、实证研究报告、[[Meta-analysis\|元分析]]工具包 |
-| **关键技能** | 概率推理、图表批判、不确定性审视、数据清洗 | 确立分析立场、定性定量[[Triangulation\|三角验证]]、教学诊断与成因归因 | 洞察算法检索规则、质询通约加权标准、辨析法定冻结节点与参与系统重构 | [[Literature Search\|文献检索]]、研究方法评估、证据情境转化、外部推论审视 |
-| **功能定位** | 理性公民决策、[[Scientific Literacy\|科学素养]]与就业胜任力 | 精准诊断校本痛点、微观教学调适、学情深层归因 | 识别教育数据化背后的制度偏见，抵御算法规训并实现民主治理参与 | 提供成熟干预策略、解释因果机制、避免盲目摸索 |
+| **关键技能** | 概率推理、图表批判、不确定性审视、数据清洗 | 确立分析立场、定性定量[[Triangulation\|三角验证]]、教学诊断与成因归因 | 洞察算法检索规则、质询[[Commensuration\|通约]]加权标准、辨析法定冻结节点与参与系统重构 | [[Literature Search\|文献检索]]、研究方法评估、证据情境转化、外部推论审视 |
+| **功能定位** | 理性公民决策、[[Scientific Literacy\|科学素养]]与就业胜任力 | 精准诊断校本痛点、微观教学调适、学情深层归因 | 识别教育数据化背后的制度偏见，抵御算法[[Disciplina and Doctrina\|规训]]并实现民主治理参与 | 提供成熟干预策略、解释因果机制、避免盲目摸索 |
 | **固有盲区** | 易停留在抽象做题，脱离现实生活复杂情境 | 能诊断病因却不知如何研制[[Effective Teaching\|有效教学]]干预方案 | 偏重系统与制度批判，较少直接指导微观课堂日常教学交互 | 方案成熟但易追逐时髦热点，脱离校本真实学情 |
 
 ---
@@ -176,10 +181,10 @@ updated: 2026-09-18
 ### 命题四　孤立识读数据集的传统技能无力应对算法黑箱，批判性治理亟需拓展为数据基础设施素养
 
 > [!concept-lens] 批判性数据治理与系统介入维度
-> 传统数据素养仅关注现成数据集的操作与图表分析，无法穿透算法加权、指标冻结与去地域化通约背后的社会-技术黑箱。
+> 传统数据素养仅关注现成数据集的操作与图表分析，无法穿透算法加权、指标冻结与去地域化[[Commensuration|通约]]背后的社会-技术黑箱。
 
 > [!claim] Gray et al. (2018) / [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]]
-> **超越数据集识读的基础设施批判介入** 现代教育治理权力弥散于分散的算法模型与系统管道之中，单纯掌握下载表格或描述统计计算的数据素养已完全无法应对治理黑箱。行动者必须发展数据基础设施素养（Data Infrastructure Literacy），具备解释、质询与介入创造、存储和流转数据的更广泛社会-技术系统的能力，包括审查检索脚本的过滤偏见、质疑综合指标的通约加权、理解法定截止节点的冻结时限，并对系统架构展开民主协商。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 10–11)]]
+> **超越数据集识读的基础设施批判介入** 现代教育治理权力弥散于分散的算法模型与系统管道之中，单纯掌握下载表格或[[Descriptive Analysis|描述统计]]计算的数据素养已完全无法应对治理黑箱。行动者必须发展[[Data Infrastructure|数据基础设施]]素养（Data Infrastructure Literacy），具备解释、质询与介入创造、存储和流转数据的更广泛社会-技术系统的能力，包括审查检索脚本的过滤偏见、质疑综合指标的通约加权、理解法定截止节点的冻结时限，并对系统架构展开民主协商。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 10–11)]]
 
 ---
 
@@ -224,10 +229,10 @@ updated: 2026-09-18
 > > - **组织支架取向** 强调依托[[Data Team Intervention|数据团队]]（Data Team）与[[Professional Learning Community|专业学习共同体]]（PLC）提供集体探究支架。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 158, 167)]]
 > >
 > > [!axis] 操作现成数据集的技术技能还是审视生产机制的基础设施素养
-> > 传统政策话语将数据素养窄化为教师提取和使用现成数据报表的技术胜任力；批判性数据学者指出，由于数据在采集与建模阶段已被算法深度去情境化与价值加权，仅教导使用者接受既定数据将加剧算法规训，必须升级为能够审视并介入基础设施全链条的批判素养。
+> > 传统政策话语将数据素养窄化为教师提取和使用现成数据报表的技术胜任力；批判性数据学者指出，由于数据在采集与建模阶段已被算法深度去情境化与价值加权，仅教导使用者接受既定数据将加剧算法[[Disciplina and Doctrina|规训]]，必须升级为能够审视并介入基础设施全链条的批判素养。
 > >
-> > - **数据集操作取向** 关注对既有数据的描述统计分析、图表判读与合规教学应用。
-> > - **基础设施质询取向** 关注对算法逻辑、通约规则、数据所有权及系统选择性的批判反思与制度介入。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 10–11)]]
+> > - **数据集操作取向** 关注对既有数据的[[Descriptive Analysis|描述统计]]分析、图表判读与合规教学应用。
+> > - **基础设施质询取向** 关注对算法逻辑、[[Commensuration|通约]]规则、数据所有权及系统选择性的批判反思与制度介入。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 10–11)]]
 
 > [!tension] 核心张力
 > - **量化指标的标准化客观性** 统一的考试成绩与达标率易于比较汇报，为教育决策提供显性参考基准。
@@ -250,7 +255,7 @@ updated: 2026-09-18
 > | [[Argument_Brown_2017_ER\|Brown et al. (2017, p. 158)]] 引 Carlson et al. (2011); Faber & Visscher (2014); Van Geel et al. (2016) | 荷兰与瑞典 80 余所中小学骨干教师与校领导 | 多项[[Randomised Controlled Trials\|随机对照试验]]（RCT）与跟踪评估设计 | [[Data Team Intervention\|数据团队]]（Data Team）干预对教师数据素养、协作技能及学生[[Academic Achievement\|学业成绩]]的影响 | 数据团队显著提升了教师的数据素养与协作探究技能；并在部分参与学校带动了学生数学与阅读成绩的显著增长 | RCT 检验显著提升 | 证实结构化数据探究规程可系统培育数据素养；但教师在得出诊断后依然缺乏独立研制教学干预方案的能力 |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 129)]] 引 LaPointe-McEwan et al. (2017) | 协作探究网络中的一线中小学教师群体 | [[Qualitative Observation\|质性观察]]与[[Survey Research\|问卷调查研究]] | 教师对不同形态课堂数据的接触、信任度与决策采纳频率 | 终结性测试数据占据绝对主导；日常形成性测评、课堂观察及师生质性互动证据的使用频率与权重显著偏低 | — | 证实实践端存在显著的数据层级感知偏差，亟待通过专业培训推行[[Triangulation\|三角验证]] |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 31)]] | 英国跨学科科学教育与劳动力市场需求评估 | 宏观政策[[Document\|文献]]综合与专家咨询评估 | 科学教育大纲中数学与数据素养的融入程度与现实需求 | 现行课程体系中数据素养碎片化严重，学生在真实情境中的概率推理与数据批判能力匮乏；提出将数据素养贯穿面向 18 岁全员的基础大纲 | — | 基于英国中等教育与就业市场预测，凸显数据素养由专业技能走向公民通识素养的政策转向 |
-| [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, pp. 6, 10–11)]] | 美国马萨诸塞州（DESE）与德国汉堡（BSB/IfBQ）州级教育行政机构 | 跨国[[Comparative Case Study\|比较案例研究]]与专家访谈 | 传统数据素养在算法系统与监测实践中的失效表征 | 基层辅导员将 EWIS 算法预测标签直接误读为弱势学生升学劝退依据；官员与校长普遍受制于检索代码与冻结时限 | 质性经验证据 | 证实单纯识读现成数据集的技能无法识别算法偏见，亟需建立对数据基础设施全链条展开质询的素养 |
+| [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, pp. 6, 10–11)]] | 美国马萨诸塞州（[[Massachusetts Department of Elementary and Secondary Education\|DESE]]）与德国汉堡（BSB/[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]]）州级教育行政机构 | 跨国[[Comparative Case Study\|比较案例研究]]与专家访谈 | 传统数据素养在算法系统与监测实践中的失效表征 | 基层辅导员将 [[Early Warning Indicator System\|EWIS]] 算法预测标签直接误读为弱势学生升学劝退依据；官员与校长普遍受制于检索代码与冻结时限 | 质性经验证据 | 证实单纯识读现成数据集的技能无法识别算法偏见，亟需建立对[[Data Infrastructure\|数据基础设施]]全链条展开质询的素养 |
 
 ---
 

@@ -7,7 +7,7 @@ summary: "英国科学哲学家，因果机制、证据外推与反思 RCT 局�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[School Inspection]]"
   - "[[Activity Traps]]"
+  - "[[Evidence-Based School Development]]"
   - "[[Operationalization]]"
   - "[[Evidence-Based Education]]"
   - "[[Pragmatism in China]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Nancy Cartwright
@@ -146,7 +147,7 @@ updated: 2026-09-17
 > - **学术合作者** [[Nick Cowen]] — 共同撰写教育循证政策工作论文，将卡特赖特因果哲学落地为学校决策指南。
 > - **学术合作者** Jeremy Hardie — 共同撰写《证据知情政策实践指南》（2012）。
 > - **教育学共振者** [[Gert Biesta]] — 同样反对医学化 [[Randomised Controlled Trials|RCT]] 垄断教育研究，从价值哲学与因果哲学双向夹击“什么有效”教条。
-> - **教育研究应用者** [[Chris Brown]]、[[Toby Greany]] — 在循证学校改进研究中将卡特赖特外推思想[[Operationalization|操作化]]为校本探究[[Transfer Translation Transformation|转译]]原则。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 123)]]
+> - **教育研究应用者** [[Chris Brown]]、[[Toby Greany]] — 在[[Evidence-Based School Development|循证学校改进]]研究中将卡特赖特外推思想[[Operationalization|操作化]]为校本探究[[Transfer Translation Transformation|转译]]原则。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 123)]]
 > - **政策批判对象** 英国 [[What Works Network]] 早期的机械证据主义模型。
 
 ---

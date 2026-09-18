@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 131
+argument_related_count: 132
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -150,6 +150,7 @@ related_methods:
   - "[[Axial Coding]]"
   - "[[Selective Coding]]"
   - "[[Mixed Methods Research]]"
+  - "[[Cluster Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Constant Comparison]]"
   - "[[In-depth Interview]]"
@@ -169,7 +170,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: '2026-09-16'
+updated: 2026-09-18
 ---
 # 教育研究方法
 
@@ -812,7 +813,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > | 研究功能（Stake） | 本质性 / 工具性 / 集合性 | 展示案例本身意义 → 发现新结论 → 多案例比较预测 |
 > | 理论贡献（Lijphart） | 非理论/解释性/产生假设/证实/[[Falsification\|证伪]]/偏离常规 | 其中产生假设和偏离常规的个案研究价值最大 |
 
-案例研究程序分为五步：案例研究设计（确定研究问题→做出假设→确定分析单位→确定数据分析逻辑→解释准则→选择数量） → 案例选择（目的抽样或[[Theoretical Sampling|理论抽样]]） → 数据收集（七种来源：文件、档案、访谈、观察、问卷、[[Artefact|人工制品]]、实验；数据量的标准为[[Saturation|理论饱和]]度和资料饱和度） → 数据分析（定量嵌入整体分析，定性核心是编码；常用技术包括模式匹配、建构性解释、个案聚类分析） → 撰写研究报告。
+案例研究程序分为五步：案例研究设计（确定研究问题→做出假设→确定分析单位→确定数据分析逻辑→解释准则→选择数量） → 案例选择（目的抽样或[[Theoretical Sampling|理论抽样]]） → 数据收集（七种来源：文件、档案、访谈、观察、问卷、[[Artefact|人工制品]]、实验；数据量的标准为[[Saturation|理论饱和]]度和资料饱和度） → 数据分析（定量嵌入整体分析，定性核心是编码；常用技术包括模式匹配、建构性解释、个案[[Cluster Analysis|聚类分析]]） → 撰写研究报告。
 
 案例研究的质量检验标准包括[[Construct Validity|建构效度]]、内在效度（仅适用于因果解释性案例研究）、外在效度和信度。提高信度主要通过三角测量策略——从不同角度、不同侧面收集同一现象的数据资料并相互印证核实。
 

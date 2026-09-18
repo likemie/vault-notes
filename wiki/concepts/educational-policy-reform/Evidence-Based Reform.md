@@ -6,7 +6,7 @@ aliases:
 summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 78
+related_count: 85
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -50,6 +50,8 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Entrepreneur in Residence]]"
+  - "[[Output-Oriented Governance]]"
+  - "[[Evidence-Based School Development]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -65,6 +67,9 @@ related_methods:
   - "[[Hierarchical Linear Model]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
+  - "[[Cluster Analysis]]"
+  - "[[Intraclass Correlation Coefficient]]"
+  - "[[Analysis of Variance]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Slavin]]"
@@ -82,6 +87,7 @@ related_facts:
   - "[[Pact for Educational Excellence]]"
   - "[[National Diffusion Network]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[American Educational Research Association]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Peer-Assisted Learning Strategies]]"
   - "[[Lindamood Phoneme Sequencing]]"
@@ -103,9 +109,10 @@ related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Peterson_2016_IJRME]]"
   - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Evidence-Based Reform
@@ -229,7 +236,7 @@ updated: 2026-09-17
 > [!dev-timeline] 概念演变
 > - **1974–1980 年代 — 联邦早期技术扩散先驱** 美国联邦教育部设立[[National Diffusion Network|国家扩散网络]]（NDN），通过各州设立“州促进员”网络跨辖区推广 500+ 个经审查的模型，覆盖数万所学校，初步证明了基层学校规模化采纳外部优质方案的可行性。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 6–7)]]
 > - **1997–1998 年 — 联邦萌芽与 CSR 项目** 美国国会通过 Obey-Porter 修正案设立全面学校改革计划（Comprehensive School Reform, CSR），首次将联邦专项资金与采纳经实证检验的全校方案（如 [[Success for All]]）挂钩。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
-> - **2001–2002 年 — 概念奠基与 [[No Child Left Behind Act 2001|NCLB]] 立法** 《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB）全文 110 次提及“科学本位研究”；斯莱文在 AERA 发表杰出讲座，正式提出“[[Evidence-Based Education|证据本位教育]]改革”理论纲领与开发-评估-推广[[Paradigm|范式]]。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–19)]]
+> - **2001–2002 年 — 概念奠基与 [[No Child Left Behind Act 2001|NCLB]] 立法** 《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB）全文 110 次提及“科学本位研究”；斯莱文在 [[American Educational Research Association|AERA]] 发表杰出讲座，正式提出“[[Evidence-Based Education|证据本位教育]]改革”理论纲领与开发-评估-推广[[Paradigm|范式]]。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–19)]]
 > - **2009–2011 年 — 研发管线与跨国旗舰创设** 美国设立 14 亿美元[[Investing in Innovation Program|创新投资项目]]（i3）分层研发管线；英国政府出资 1.25 亿英镑设立[[Education Endowment Foundation|教育捐赠基金会]]（EEF），开启大规模学校现场实验时代。
 > - **2015 年 — [[Every Student Succeeds Act|ESSA]] 四级法定[[Evidence Standards|证据标准]]确立** 美国通过《每一个学生成功法》（ESSA 2015），正式在联邦法典中确立 TIER 1–4 证据等级，并将 [[Title I of the Elementary and Secondary Education Act|Title I]] 改进基金与强/中/有希望证据刚性绑定。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
 > - **2017 年 — 审查中枢上线与跨国扩散** [[Evidence for ESSA]] 评级平台正式上线；中国发布《华东师范大学宣言》，开启大规模教育实证研究倡导。[[Argument_Slavin_2021_ECNUROE|(Slavin et al., 2021, p. 14)]]
@@ -293,12 +300,14 @@ updated: 2026-09-17
 > |---|---|---|---|---|---|---|
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 美国 i3/[[Entrepreneur in Residence\|EIR]] 资助项目（171 项）与英国 [[Education Endowment Foundation\|EEF]] 资助项目（180+ 项） | 政策项目库统计与系统评价 | 达到 [[Every Student Succeeds Act\|ESSA]] 强与中等标准的阅读与数学方案数 | 约 100 个合规方案（阅读与数学） | — | 仅涵盖达标审查的 K-12 阅读与数学方案，科学/艺术领域依然匮乏 |
 > | [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] | 法语比利时《[[Pact for Educational Excellence\|教育卓越公约]]》证据库（70 项教育资源） | 本土证据库分类普查 | 本土因果实验方案占比 | 本土严谨实验设计仅占 3%（2 项） | — | 说明非英美国家在推进 EBR 初期面临严重的本土实验方案存量不足瓶颈 |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] | 奥地利施泰尔马克州 362 名公立义务教育学校校长 | 问卷调查与 $k$ 均值[[Cluster Analysis\|聚类分析]]（22 项治理工具评价） | 证据本位与[[Output-Oriented Governance\|产出导向治理]]工具（标准测试、国家报告、国际比较）的校长认同比例 | 仅 27.5% 校长高度认同循证治理（[[Evidence-Based School Development\|循证学校发展]]型），多数仍倾向资源驱动（37.5%）或弱发展取向（35.0%） | [[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）介于 0.09 至 0.41；[[Analysis of Variance\|方差分析]]显著 | 揭示德语区欧陆语境下证据本位治理面临一线校长的认知分化与文化惯性制约 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 探究奥地利基础教育阶段证据本位与产出导向改革在学校微观层面的受纳现状，证实真正接纳循证监控工具的校长群体仅占少数，但该群体在教学领导与校本评估上表现出显著更高的实践积极性。
 > - [[Argument_Slavin_2002_ER|Slavin (2002)]] — 证据本位改革奠基之作，系统阐释开发-评估-推广[[Paradigm|范式]]与反思教育研究声誉危机。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统总结 15 年来三条件基础设施突破与 [[Response to Proven Instruction|RTPI]] 方案蓝图。
 > - [[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] — 跨国比较视域下的中美英循证改革演进与对中国学者五类质疑的理论辨正。

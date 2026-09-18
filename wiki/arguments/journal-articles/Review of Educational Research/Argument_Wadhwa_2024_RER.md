@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 80
+argument_related_count: 81
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
   - "[[Social-Emotional Learning]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[School Leadership]]"
@@ -124,7 +125,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-05-05
-updated: 2026-09-13
+updated: 2026-09-18
 ---
 # Argument_Wadhwa_2024_RER
 
@@ -454,7 +455,7 @@ updated: 2026-09-13
 > 4. **调节解释二：同名项目不同变体与版本混淆 (Differences in Program Variants)**
 >    干预项目在获得早期成效后往往进行版本迭代（如 QOP 到 EQOP，或 SFA 的全校版 vs 双语过渡版），清算中心审查版本的不一致可能引发名义上的评级分歧(p. 27)。
 
-> [!warrant]- 步骤六深度解读：从[[Construct Validity|构念效度]]危机到循证治理的[[Paradigm|范式]]重构
+> [!warrant]- 步骤六深度解读：从[[Construct Validity|构念效度]]危机到[[Output-Oriented Governance|循证治理]]的[[Paradigm|范式]]重构
 > 1. **“基于证据”构念效度危机的[[Epistemology|认识论]]根源**
 >    - 在 Campbellian 多质多法分析下，清算中心评级展现出的极低一致性（多重评级中完全一致仅 30%，且集中于无效判定）表明：“基于证据”并非一个客观固化的科学属性，而是一个被特定制度程序高度塑造的**政策建构物（policy [[Construct]]）**。
 >    - 不同的清算中心实际上在测量不同的潜在特质：有的在测量“是否存在哪怕一次显著的正向统计关联（NDPC）”，有的在测量“该效应是否具有跨越时间衰退与研究者利益冲突的鲁棒性（Blueprints）”。当测量目标本身发生漂移，“基于证据”这一标签便失去了跨平台的一致涵义。

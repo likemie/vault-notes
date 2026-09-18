@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Further Education]]"
   - "[[Research Translation]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Research Impact]]"
   - "[[Knowledge Mediation]]"
   - "[[Boundary Spanner]]"
@@ -93,7 +94,7 @@ related_facts:
   - "[[Public Sector PhD Scheme]]"
 status: draft
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-18
 ---
 # Argument_Hill_2022_FacilitatingActors
 
@@ -232,7 +233,7 @@ updated: 2026-09-13
 > | **芬兰** | 4.94 | 4.59 | 4.88 | 全系统三项指标均居首位，呈现高度协同的成熟[[Evidence Ecosystem\|证据生态系统]]。 |
 > | **瑞士圣加仑州** | 5.00 | 4.67 | 4.50 | 地方系统协同标杆，政策促成均值达到量表满分 5.00。 |
 > | **冰岛** | 4.27 | 4.45 | 4.11 | 三端均衡高活跃，实践促成水平极为突出。 |
-> | **智利** | 4.40 | 4.18 | 4.18 | 拉美地区循证治理先锋，各领域均值稳居 4.1 以上。 |
+> | **智利** | 4.40 | 4.18 | 4.18 | 拉美地区[[Output-Oriented Governance\|循证治理]]先锋，各领域均值稳居 4.1 以上。 |
 > | **哥伦比亚** | 3.88 | 4.00 | 4.29 | 研究生产与实践应用活跃，但部委网络存在结构性断层。 |
 > | **西班牙** | 4.00 | 4.07 | 4.00 | 三端均衡分布于 4.00 基准线，展现稳定的系统支持力。 |
 > | **匈牙利** | 4.07 | 4.00 | 3.94 | 政策促成略高于生产端，制度化教师评价体系支撑显著。 |

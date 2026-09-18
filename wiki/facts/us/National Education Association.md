@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Attrition]]"
   - "[[Democratising Evidence]]"
+  - "[[Output-Oriented Governance]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -48,6 +49,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Education]]"
+  - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[OECD]]"
   - "[[Education International]]"
   - "[[International Summits on the Teaching Profession]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # National Education Association
@@ -84,7 +86,7 @@ updated: 2026-09-17
 
 > [!dev-timeline]- 组织发展历程
 > - **1857–1960 年代 — 全国学术团体的创立与课程标准奠定** 1857 年创立后于 1870 年更名为全美教育协会（NEA）；早期主要由大学校长与学区督学主导，具有浓厚的精英学术学会色彩。1892 年设立著名的“十人委员会”（Committee of Ten），确立了全美中等教育以核心学术科目为基础的现代课程标准体系。
-> - **1960–2000 年代 — 劳工工会化转型与联邦教育立法攻坚** 1960 年代伴随公立雇员集体谈判权兴起，NEA 逐步从传统专业协会转型为具有强大集体谈判权与基层动员能力的现代劳工工会；1979 年通过强有力的两党游说推动卡特政府设立美国内阁级教育部（US Department of Education）；此后在《初等与中等教育法案》（ESEA）历次再授权中坚定捍卫公立学校财政拨款与教师编制。
+> - **1960–2000 年代 — 劳工工会化转型与联邦教育立法攻坚** 1960 年代伴随公立雇员集体谈判权兴起，NEA 逐步从传统专业协会转型为具有强大集体谈判权与基层动员能力的现代劳工工会；1979 年通过强有力的两党游说推动卡特政府设立美国内阁级教育部（US Department of Education）；此后在《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]案》（ESEA）历次再授权中坚定捍卫公立学校财政拨款与教师编制。
 > - **2000 年代至今 — 21 世纪技能引领与跨国循证共治突破** 
 >   - **跨国循证协商建制（2011）** 2011 年联合美国教育部前部长阿恩·邓肯（Arne Duncan）、美国教师联盟（AFT）、[[OECD|经合组织]]（OECD）及[[Education International|国际教育协会]]（EI）共同创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），成为全球唯一实现民选教育部长与教师工会领袖闭门平等协商的跨国治理平台。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 211)]]
 >   - **4C 核心技能框架确立（2012）** 2012 年发布里程碑式指南《为全球社会培养 21 世纪学生：教育者 4C 指南》，将[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]、沟通、协作以及[[Creativity|创造力]]与创新确立为全美基础教育[[21st Century Skills and Competencies Discourse|核心素养]]支柱。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
@@ -184,5 +186,5 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在关于[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共生关系的[[Meta-analysis|元分析]]中，明确将全美教育协会 2012 年《教育者 4C 指南》列为阐释两者在基础教育中核心地位的权威国家机构文本。（p. 1）
-> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 记录 NEA 联手美国教育部、[[OECD|经合组织]]与[[Education International|国际教育协会]]创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（ISTP）的历史突破，阐明教师工会组织化发声在跨国循证治理中的关键支柱地位。（pp. 211, 216）
+> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 记录 NEA 联手美国教育部、[[OECD|经合组织]]与[[Education International|国际教育协会]]创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（ISTP）的历史突破，阐明教师工会组织化发声在跨国[[Output-Oriented Governance|循证治理]]中的关键支柱地位。（pp. 211, 216）
 

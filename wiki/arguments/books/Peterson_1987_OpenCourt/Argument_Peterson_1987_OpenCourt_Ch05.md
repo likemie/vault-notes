@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -50,9 +50,11 @@ related_persons:
   - "[[Kurt Hahn]]"
   - "[[Desmond Hoare]]"
   - "[[Alec Peterson]]"
+  - "[[Rob Kitchin]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[William T. Grant Foundation]]"
+  - "[[Education Resources Information Center]]"
   - "[[Transformation of Singapore International School into United World College of South East Asia]]"
   - "[[Waterford Kamhlaba Admission to United World Colleges]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
@@ -62,7 +64,7 @@ related_methods:
   - "[[Fieldwork]]"
 status: draft
 created: 2026-08-24
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 # Argument_Peterson_1987_OpenCourt_Ch05
 
@@ -238,7 +240,7 @@ updated: 2026-09-16
 #### 德国：和解象征不能替代家庭信任与资格承认
 
 > [!case] 德国北海项目同时具备象征优势与制度缺口
-> 德国被国际行动委员会列为优先项目，原因包括战后和解与和平的使命、德国捐款和奖学金对大西洋学院的支持，以及[[Kurt Hahn|库尔特·哈恩]]（Kurt Hahn）的个人投入。英国前驻波兰大使埃里克·贝尔特德（Sir Eric Berthoud）通过德国驻伦敦大使和德国学术基金会（Studienstiftung）建立联系，戴维·威尔斯（David Wills）的慈善信托则承担部分考察费用。项目并非缺少跨国倡导者，而是尚未把倡导网络转化为足以开学的制度组合（pp. 103–104）。
+> 德国被国际行动委员会列为优先项目，原因包括战后和解与和平的使命、德国捐款和奖学金对大西洋学院的支持，以及[[Kurt Hahn|库尔特·哈恩]]（Kurt Hahn）的个人投入。英国前驻波兰大使埃里克·贝尔特德（Sir [[Education Resources Information Center|ERIC]] Berthoud）通过德国驻伦敦大使和德国学术基金会（Studienstiftung）建立联系，戴维·威尔斯（David Wills）的慈善信托则承担部分考察费用。项目并非缺少跨国倡导者，而是尚未把倡导网络转化为足以开学的制度组合（pp. 103–104）。
 
 > [!dev-timeline]- 德国北海项目的考察与搁置
 > - **1968 年 1 月　海岸模型限定选址范围** 哈恩、戴维·威尔斯和[[Desmond Hoare|德斯蒙德·霍尔]]（Desmond Hoare）考察叙尔特与库克斯港。由于当时仍认为新书院应临海，两地被视为德国北海岸仅有的现实选择（pp. 103–104）。
@@ -508,7 +510,7 @@ updated: 2026-09-16
 > - **罗宾·汉基** 在决定建设佩德湾书院前联系加拿大几乎所有大学，确认 IB 可以作为入学资格（pp. 119–121）。
 
 > [!dev-timeline]- 加拿大项目从场地追逐转向主动建设
-> - **1968–1970 年　皇家路希望延缓替代方案** 蒙巴顿就任后一个月即访问皇家路，鼓励委员会继续等待军事设施释放，并说服莱斯特·皮尔逊担任加拿大国家委员会名誉主席。到 1970 年初，皇家路确定不会开放；委员会秘书乔治·基钦将军（General George Kitching）转而主张从零建设，不再追逐现成校园（pp. 109–110）。
+> - **1968–1970 年　皇家路希望延缓替代方案** 蒙巴顿就任后一个月即访问皇家路，鼓励委员会继续等待军事设施释放，并说服莱斯特·皮尔逊担任加拿大国家委员会名誉主席。到 1970 年初，皇家路确定不会开放；委员会秘书乔治·[[Rob Kitchin|基钦]]将军（General George Kitching）转而主张从零建设，不再追逐现成校园（pp. 109–110）。
 > - **1970 年 6 月　校长先于校园进入项目** 加拿大方面在土地、建筑和完整资本尚未落实时决定任命学校负责人。教育领导由此不只是接管建成校园，而能直接参与场地选择与学校设计（pp. 111, 119–120）。
 > - **1971 年　全国委员会完成领导交接** 多纳德·卡梅伦因健康辞任主席，由自委员会创立起即参与工作的罗伯特·休斯顿接任。加拿大项目已经确定面向西海岸，组织结构随地理重心调整（pp. 118–119）。
 > - **1971 年　三个高风险决定并行作出** 加拿大方面成立西部创办委员会，任命杰克·马修斯领导尚不存在的书院，并以优惠价格购买距维多利亚约十四英里的佩德湾林地。项目由等待机会转为主动制造既成承诺（p. 119）。

@@ -6,7 +6,7 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并提示探索调节变量，在混合方法与复杂性理论中揭示统计同质性遮蔽的质性动因多样性与世界的非线性开放特征。"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Teaching Assistant]]"
   - "[[Knowledge Mediation]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Emergence]]"
   - "[[Positivism]]"
   - "[[Visible Learning]]"
@@ -77,7 +78,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Heterogeneity
@@ -174,7 +175,7 @@ updated: 2026-09-17
 ### 命题四　复杂适应系统视异质性为核心公理，行动者网络内外部异质性瓦解线性推送
 
 > [!claim] Morrison, Layder & Burns & Schuller
-> **世界流动性与[[Epistemic Governance|知识治理]]网络的主体异质性** [[Grand Theory|宏大理论]]企图用单一[[Determinism|决定论]]架构概括一切社会行为，但在面对充满开放性、流动性、变迁、异质性与碎片化的真实世界时，往往陷入科学上的贫乏与脱节。[[Complexity Theory|复杂性理论]]视异质性为根本立足点，强调通过多元视角、质性案例与伙伴式研究倾听多重声音（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, pp. 11, 32]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Layder, 1994]]）。在教育治理与[[Knowledge Mediation|知识中介]]层面，[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller（2022, pp. 60–61）]]进一步指出，研究者、政策制定者与实践教师三方绝非均质铁板一块，各群体内部高度分化且群体间存在深刻的外部异质性；正是这种双重异质性彻底瓦解了“研究生产-单向推送-实践执行”的古典流水线模式，迫使循证治理转向以社会关系与专业信任为核心的复杂网络协同。
+> **世界流动性与[[Epistemic Governance|知识治理]]网络的主体异质性** [[Grand Theory|宏大理论]]企图用单一[[Determinism|决定论]]架构概括一切社会行为，但在面对充满开放性、流动性、变迁、异质性与碎片化的真实世界时，往往陷入科学上的贫乏与脱节。[[Complexity Theory|复杂性理论]]视异质性为根本立足点，强调通过多元视角、质性案例与伙伴式研究倾听多重声音（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, pp. 11, 32]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Layder, 1994]]）。在教育治理与[[Knowledge Mediation|知识中介]]层面，[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller（2022, pp. 60–61）]]进一步指出，研究者、政策制定者与实践教师三方绝非均质铁板一块，各群体内部高度分化且群体间存在深刻的外部异质性；正是这种双重异质性彻底瓦解了“研究生产-单向推送-实践执行”的古典流水线模式，迫使[[Output-Oriented Governance|循证治理]]转向以社会关系与专业信任为核心的复杂网络协同。
 
 ---
 

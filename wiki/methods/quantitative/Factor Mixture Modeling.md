@@ -7,9 +7,9 @@ summary: "一种结合了验证性因子分析（Confirmatory Factor Analysis, C
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags: []
 related_concepts:
@@ -27,6 +27,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Questionnaire]]"
+  - "[[Cluster Analysis]]"
   - "[[Chi-Squared Test]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Factor Mixture Modeling
@@ -89,7 +90,7 @@ updated: 2026-09-17
 > [!formula-step] 公式步骤　FMM 基础测量方程
 > $$ y_{ik} = \nu_{k} + \lambda_{k} \eta_{ik} + \epsilon_{ik} $$
 >
-> **这个公式在做什么** 将针对潜因子的连续维度测量（CFA）与针对人群分类的潜在类别分析（LPA）融合，构建异质类别 $K$ 下观测变量与潜因子的回归方程。
+> **这个公式在做什么** 将针对潜因子的连续维度测量（CFA）与针对人群分类的潜在[[Cluster Analysis|类别分析]]（LPA）融合，构建异质类别 $K$ 下观测变量与潜因子的回归方程。
 >
 > **符号说明** $y_{ik}$：个体 $i$ 在属于类别 $k$ 时的观测变量得分；$\nu_{k}$：类别 $k$ 的截距；$\lambda_{k}$：类别 $k$ 的因子载荷；$\eta_{ik}$：个体 $i$ 的连续潜在因子（如具体的心理测验得分）；$\epsilon_{ik}$：特定类别下的测量残差。
 >

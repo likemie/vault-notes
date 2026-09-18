@@ -4,22 +4,25 @@ aliases:
   - 国际学生评估项目冲击
   - 国际学生评估项目震动
   - 国际学生评估项目震荡
-summary: "2001 年德国首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德国教育政策制定的决定性分水岭，导致全面的教育改革议程"
+  - PISA-Schock
+summary: "2001 年德语区（德国与奥地利）首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德语区教育政策制定的决定性分水岭，打破传统投入规制惯性并开启全面的产出导向与循证治理改革"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - pisa
   - policy-shock
   - education-reform
   - germany
+  - austria
   - region/global
 related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
+  - "[[Output-Oriented Governance]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -33,6 +36,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Altrichter_2019_ZfB]]"
 confidence: medium
 status: draft
 created: 2026-07-05
@@ -88,3 +92,4 @@ updated: 2026-09-18
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]中详细综述了德国 [[PISA]] 冲击的机制与后果，以及在不同国家中的差异性政策反应。
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 对比英格兰与德国、瑞典的 PISA 反应机制，指出英格兰在实证表现未出现实质滑坡的情况下，通过政治与媒介的合谋建构出“人为的 PISA 危机”以正名国内激进改革。
+> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 实证阐述德语区在遭遇 PISA 冲击后打破传统投入规制惯性、全面转向以国家标准、全域测评与新学校督导为支柱的产出导向治理现代化演进历程。

@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Soft Power]]"
 related_theories: []
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Definition and Selection of Competencies
@@ -133,7 +134,7 @@ updated: 2026-09-17
 
 > [!finding-cards] 核心实证结论
 > - **构筑现代全球测验帝国的理论母体** DeSeCo 打破了传统的“知识回忆测验”[[Paradigm|范式]]，将学生在陌生生活情境中迁移与应用能力的“素养（Literacy）”概念体系化，直接构成了 [[PISA]] 科学、阅读与数学素养的顶层理论框架。
-> - **引发全球课程哲学的“能力转向”** 促使欧洲、亚洲和美洲各国将课程改革重心从教学大纲规定的学科知识清单转向学生必须达成的终结性素养标准，奠定了新自由主义问责制与产出导向治理的学理根基。
+> - **引发全球课程哲学的“能力转向”** 促使欧洲、亚洲和美洲各国将课程改革重心从教学大纲规定的学科知识清单转向学生必须达成的终结性素养标准，奠定了新自由主义问责制与[[Output-Oriented Governance|产出导向治理]]的学理根基。
 > - **主权国家法定行政法令中的垄断性引文霸权** Steiner-Khamsi 等（2024）实证追踪北欧五国政策咨询网络发现，在主权国家行政决策出台阶段，DeSeCo 展现出碾压性的制度穿透力；主权政府极度偏向于吸纳 DeSeCo 这一特定超国家蓝图以压制本土学术争议。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 关键实证数据

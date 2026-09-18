@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Global Education Reform Movement
@@ -150,7 +151,7 @@ updated: 2026-09-17
 > - **抹杀教学法多样性** 哈蒂将"拼读法（0.60）"与"[[Whole Language|全语言]]（0.06）"的效应量拉出来对比，迎合了政策制定者对"唯一证据基础"的迷恋，直接导致澳大利亚维多利亚州教育部等政策实体强行推行基于 VL 指标的公立教师教学限制政策。
 
 > [!case] 德国：[[PISA]] 冲击与产出导向[[Paradigm|范式转换]]
-> 2001 年 PISA 结果公布后，德国经历了 PISA 冲击——PISA 暴露了德国教育体系的隐患，直接推动了三项产出导向改革规范：建立教育标准与集中监测、去顶层化治理、提高教育标准（Niemann et al., 2017）。Yore et al.（2010）指出德国改革反映了从投入导向到产出导向的范式转换——教育政策制定融入了循证治理模式，完全契合 GERM 的企业管理和测试问责逻辑（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+> 2001 年 PISA 结果公布后，德国经历了 PISA 冲击——PISA 暴露了德国教育体系的隐患，直接推动了三项产出导向改革规范：建立教育标准与集中监测、去顶层化治理、提高教育标准（Niemann et al., 2017）。Yore et al.（2010）指出德国改革反映了从投入导向到产出导向的范式转换——教育政策制定融入了[[Output-Oriented Governance|循证治理]]模式，完全契合 GERM 的企业管理和测试问责逻辑（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 
 > [!case] 日本：从宽松教育到证据—改进循环
 > 日本 1980–1990 年代的宽松教育（yutori education）在 PISA 2003 结果公布后受到质疑，PISA 素养概念于 2004 年被纳入国家课程目标（Ninomiya, 2019）。PISA 进一步影响了日本学校教育管理体系中证据—改进循环（evidence-improvement cycle）的构建——学校管理者以[[Academic Achievement|学业成就]]数据为证据推动管理改进，体现了 GERM 的标准化课程和测试问责在日本教育体系中的制度化（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。

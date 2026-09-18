@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
   - theme/sociology-of-education
   - policy/teacher-training
 related_concepts:
+  - "[[Output-Oriented Governance]]"
   - "[[Initial Teacher Training]]"
   - "[[New Public Management]]"
   - "[[Classroom Management]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Committee for the Accreditation of Teacher Education
@@ -59,7 +60,7 @@ updated: 2026-09-17
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 教师教育认证委员会（Committee for the Accreditation of Teacher Education, CATE）是 1984 年英国保守党政府设立的法定顾问与资质认证机构，受命与皇家督学署（Her Majesty's Inspectorate, HMI）密切合作，依据督导实证证据对全英教师培训机构进行强制性资格核准，开创了英格兰教师教育显性循证治理与国家集权监控的制度先河。[[Argument_Ball_2008_SR|(Ball, 2008, p. 659)]]；[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
+> 教师教育认证委员会（Committee for the Accreditation of Teacher Education, CATE）是 1984 年英国保守党政府设立的法定顾问与资质认证机构，受命与皇家督学署（Her Majesty's Inspectorate, HMI）密切合作，依据督导实证证据对全英教师培训机构进行强制性资格核准，开创了英格兰教师教育显性[[Output-Oriented Governance|循证治理]]与国家集权监控的制度先河。[[Argument_Ball_2008_SR|(Ball, 2008, p. 659)]]；[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1984 年正式设立；源于 1983 年撒切尔政府发布的白皮书《教学质量》（*Teaching Quality*），旨在应对公众对教师教学质量的焦虑，打破大学对教师教育课程的自主垄断。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 91)]]
@@ -112,7 +113,7 @@ updated: 2026-09-17
 > - **知识形态转型** 促使教师专业知识从以哲学、社会学为主的“基础学科”（Foundational Disciplines）向[[Classroom Management|课堂管理]]、行为控制与技能达标的“能力本位”（Competence-Based）不可逆重构。[[Argument_Ball_2008_SR|(Ball, 2008, p. 659)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **确立显性循证治理原型** 为 2000 年代以后的英国教育标准局（[[Ofsted]]）督导、[[Carter Review of Initial Teacher Training|卡特审查]]以及[[Evidence Era|证据时代]]治理[[Paradigm|范式]]奠定了操作雏形。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
+> - **确立显性[[Output-Oriented Governance|循证治理]]原型** 为 2000 年代以后的英国教育标准局（[[Ofsted]]）督导、[[Carter Review of Initial Teacher Training|卡特审查]]以及[[Evidence Era|证据时代]]治理[[Paradigm|范式]]奠定了操作雏形。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
 > - **压缩批判教育社会学空间** 导致[[New Sociology of Education|新教育社会学]]等批判学科被逐出核心师训大纲，退缩至高阶选修学位或被重构为应用性评价工具。[[Argument_Ball_2008_SR|(Ball, 2008, p. 659)]]
 
 ---
@@ -145,7 +146,7 @@ updated: 2026-09-17
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Evidence Era]] | Concept | CATE 开创了以督导报告为证据的显性循证治理先河，是证据时代的历史源头。 |
+> | [[Evidence Era]] | Concept | CATE 开创了以督导报告为证据的显性[[Output-Oriented Governance\|循证治理]]先河，是证据时代的历史源头。 |
 > | [[New Public Management]] | Concept | CATE 是撒切尔政府运用新公共管理逻辑重塑公共部门问责的标志性产物。 |
 > | [[New Sociology of Education]] | Concept | CATE 认证标准强力压缩了新教育社会学在师资培训课程中的生存空间。 |
 > | [[School Effectiveness]] | Concept | CATE 与学校效能运动共同推动了教师知识从理论批判转向效能与技能达标。 |

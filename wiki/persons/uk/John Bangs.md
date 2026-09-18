@@ -7,7 +7,7 @@ summary: "英国资深教育政策学者与教师工会战略家，剑桥大学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Mediation]]"
   - "[[Variable]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Educational Meliorism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Mobilisation]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # John Bangs
@@ -139,7 +140,7 @@ updated: 2026-09-17
 > - **理论路径** 拓展了教育政治学与社会[[Dialogue in Education|对话]]理论，将工会从传统利益集团的抗争[[Paradigm|范式]]，重塑为具备高级学术研判能力的[[Knowledge Mediation|知识中介]]与证据倡导者（[[Boundary Spanner|Knowledge Broker]]）。
 > - **方法路径** 打破了官僚自编量表的象牙塔偏差，推动大型跨国测量工具（如 [[Teaching and Learning International Survey|TALIS]]）融入一线教学真实[[Variable|变量]]，开创了工会委托独立资深学者二次挖掘官方数据库的实证规程。
 > - **政策路径** 创立全球最高规格的部长-工会双边治理平台（[[International Summits on the Teaching Profession|ISTP]]），促成各国在国家立法（如美国 [[Every Student Succeeds Act|ESSA]] 法案）中采纳分布式领导与教师福祉指标。
-> - **跨国传播** 将英美工会参与循证治理的经验拓展至[[OECD|经合组织]]全部成员国，为拉美、亚太等发展中地区的教师专业化发展提供了跨国行动蓝本。
+> - **跨国传播** 将英美工会参与[[Output-Oriented Governance|循证治理]]的经验拓展至[[OECD|经合组织]]全部成员国，为拉美、亚太等发展中地区的教师专业化发展提供了跨国行动蓝本。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 详细记录了班斯关于 EI 智库战略、TALIS 量表重塑与 ISTP 峰会十一年运作机制的系统论述。

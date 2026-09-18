@@ -10,7 +10,7 @@ subtype: program
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Research Literacy]]"
   - "[[Ecological Validity]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Engagement in and with Research]]"
   - "[[Knowledge Co-production]]"
   - "[[Boundary Spanner]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Doctoral Grant for Teachers
@@ -143,7 +144,7 @@ updated: 2026-09-16
 
 > [!lessons] 经验教训与启示
 > - **外在硬性保障是实践者做科研的前提** 若无制度化的课时豁免与代课支持，单纯口头号召教师“反思探究”注定流于形式主义。
-> - **打通教育知识双向流动的制度基座** 该计划为国际循证治理提供了一条将研究生产与使用深度融合的样板路径，展示了政府科研基金如何有效介入微观教学改进。
+> - **打通教育知识双向流动的制度基座** 该计划为国际[[Output-Oriented Governance|循证治理]]提供了一条将研究生产与使用深度融合的样板路径，展示了政府科研基金如何有效介入微观教学改进。
 
 ---
 

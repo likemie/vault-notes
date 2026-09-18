@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_display_title: "Research Methods in Education · Ch25"
 argument_kind: "book-chapter"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -57,6 +57,7 @@ related_theories:
   - "[[Personal Construct Theory]]"
 related_methods:
   - "[[Repertory Grid Technique]]"
+  - "[[Cluster Analysis]]"
   - "[[Laddering]]"
   - "[[Questionnaire]]"
   - "[[Role-playing]]"
@@ -69,7 +70,7 @@ related_persons:
   - "[[George Kelly]]"
 status: draft
 created: 2026-07-28
-updated: '2026-08-27'
+updated: 2026-09-18
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25
 
@@ -89,7 +90,7 @@ updated: '2026-08-27'
 > - **什么是个人建构？** 个人建构理论的基本[[Unit of Analysis|分析单位]]，个体用于概念化日常世界、预测事件的双极维度
 > - **repertory grid 如何收集数据？** 通过元素（被评价对象）与构念（评价维度）的交叉评分矩阵，实现双向分析
 > - **构念应当引发还是提供？** 个体性推论与共同性推论之间的根本方法论张力贯穿全部操作决策
-> - **如何分析网格数据？** 从[[Cognitive Complexity Index|认知复杂性指数]]、主成分分析、聚类分析到聚焦法和自认同图的多层次分析工具箱
+> - **如何分析网格数据？** 从[[Cognitive Complexity Index|认知复杂性指数]]、主成分分析、[[Cluster Analysis|聚类分析]]到聚焦法和自认同图的多层次分析工具箱
 > - **repertory grid 在教育研究中如何应用？** 从校长角色认知到学生概念转变，从考试评分特征到医学生身份发展
 
 

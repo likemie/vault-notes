@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Descriptive Analysis]]"
+  - "[[Cluster Analysis]]"
 related_persons:
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
@@ -84,7 +85,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-09-08
+updated: 2026-09-18
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
@@ -137,7 +138,7 @@ updated: 2026-09-08
 > | 第36章 [[Descriptive Analysis \| descriptive statistics]] | | |
 > | 第37章 Inferential statistics: difference tests | | |
 > | 第38章 Inferential statistics: regression analysis and standardization | | |
-> | 第39章 Factor analysis, cluster analysis and structural equation modelling | | |
+> | 第39章 Factor analysis, [[Cluster Analysis]] and structural equation modelling | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14 \| 第14章]] | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21 \| 第21章 Interviews]] | 系统介绍[[Qualitative Interview | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01 \| 第1章]] | | |

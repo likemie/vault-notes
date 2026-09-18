@@ -8,10 +8,10 @@ aliases:
 summary: "跨文化学习研究中的分析概念，指特定文化偏好的最优发展终点，可通过学习目的、过程、品格和情感维度加以描述"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/cross-cultural
 - theme/cross-cultural-learning
@@ -28,13 +28,14 @@ related_theories:
 related_methods:
   - "[[Prototype Methods]]"
   - "[[Triangulation]]"
+  - "[[Cluster Analysis]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-08-20
+updated: 2026-09-18
 ---
 
 # Ideal Learner
@@ -75,7 +76,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 |------|---------------------|----------------------|
 | 材料类型 | 离散词汇和短语 | 完整的书面叙事 |
 | 揭示内容 | 概念之间的结构关系 | 人格在情境中的感受、思考和行动 |
-| 分析方式 | 聚类分析（量化） | 质性 + 量化分析 |
+| 分析方式 | [[Cluster Analysis\|聚类分析]]（量化） | 质性 + 量化分析 |
 | 产出 | 层级概念地图（Figures 3.1 & 3.2） | 四维度的理想学习者画像 |
 | 文化模型层面 | 语言承载的模型 | 形象承载的模型 |
 

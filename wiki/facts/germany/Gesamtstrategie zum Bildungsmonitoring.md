@@ -11,7 +11,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,12 +25,14 @@ tags:
   - kmk
   - quality-assurance
 related_concepts:
+  - "[[Data Infrastructure]]"
   - "[[Academic Achievement]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[School Inspection]]"
   - "[[Evidence-Based Education]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Hypothesis]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Working Knowledge]]"
   - "[[Document]]"
 related_theories: []
@@ -64,7 +66,7 @@ updated: 2026-09-18
 > - **发布时间 / 发布主体** 2006 年由德意志联邦共和国[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）在各联邦州全会共识基础上正式颁布。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 484)]]
 > - **适用地区 / 对象** 覆盖全德 16 个联邦州的学前教育、基础教育与中等教育体系，规范各州教育部、教研督导机构与中小学校。
 > - **问题背景** 传统德国教育治理依托文化主权在州（Kulturhoheit der Länder）原则，长期偏重课程大纲与行政法条等输入控制；2000 年首轮 [[PISA]] 结果显示德国学生基础素养低于国际均值且教育不平等严峻（PISA 震荡），打破了体制自信，驱动国家转向产出导向与实证监测的经验治理。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 484–485)]]
-> - **制度位置** 构成了当代德国基础教育循证改革的最高统摄性政策纲领，奠定了跨州教育标准对等与数据基础设施的法定框架。
+> - **制度位置** 构成了当代德国基础教育循证改革的最高统摄性政策纲领，奠定了跨州教育标准对等与[[Data Infrastructure|数据基础设施]]的法定框架。
 
 ---
 
@@ -112,7 +114,7 @@ updated: 2026-09-18
 ## 治理影响与体系成效
 
 > [!finding-cards] 体系影响
-> - **推动科层治理常规化** 终结了德国教育行政长期停留于主观经验与口头修辞的状态；各州官员在多轮监测周期中演化出以[[Hypothesis|假设]]检验为特征的前置认知图式，使循证治理实质性沉淀为日常行政常规。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 490–495)]]
+> - **推动科层治理常规化** 终结了德国教育行政长期停留于主观经验与口头修辞的状态；各州官员在多轮监测周期中演化出以[[Hypothesis|假设]]检验为特征的前置认知图式，使[[Output-Oriented Governance|循证治理]]实质性沉淀为日常行政常规。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 490–495)]]
 > - **促进国家教育标准统一** 打破了德国各州中学毕业考试（Abitur）与文凭资格各自为政、难以横向互认的百年藩篱。
 > - **理性区隔工具治理功能** 确立了以宏观国际测评（[[PISA]]、[[TIMSS]]）负责声誉定位、以全域微观工具（[[Vergleichsarbeiten|VERA]]、[[School Inspection|学校督导]]）指导靶向改进的分工体系。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 494)]]
 

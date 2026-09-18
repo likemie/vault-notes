@@ -11,7 +11,7 @@ subtype: policy
 region: "uk"
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - policy/educational-finance
 related_concepts:
   - "[[School Inspection]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Academic Achievement]]"
   - "[[Teaching Assistant]]"
   - "[[Critical Pedagogy]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Pupil Premium
@@ -74,7 +75,7 @@ updated: 2026-09-16
 > - **发布时间 / 发布主体** 2011 年 4 月由英国保守党—自由民主党联合政府（Conservative-Liberal Democrat Coalition Government）教育部正式颁布实施。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 47–49)]]
 > - **适用地区 / 对象** 英格兰全境所有接受国家财政资助的公立初等与中等学校（含普通公立学校、学院制学校 Academies 及自由学校 Free Schools）中注册的处境不利学生。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 110–111)]]
 > - **问题背景** 长期以来英格兰基础教育体系存在严重的阶层学业差距，低收入家庭儿童的中学统考成绩（GCSE）落后于优势同龄人近两年的学习进展。社会阶层背景与教育成就的高度固化制约了英国的社会流动性。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 48)]]
-> - **制度位置** 政策作为英国教育财政转移支付的重大结构性创新，与 2011 年成立的[[Education Endowment Foundation|教育捐赠基金会]]（EEF）及随后推广的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》相互绑定，形成“国家专项注资—学校自主支配—权威证据指引—[[School Inspection|教育督导]]评估”四位一体的因果循证治理格局。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 280)]]
+> - **制度位置** 政策作为英国教育财政转移支付的重大结构性创新，与 2011 年成立的[[Education Endowment Foundation|教育捐赠基金会]]（EEF）及随后推广的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》相互绑定，形成“国家专项注资—学校自主支配—权威证据指引—[[School Inspection|教育督导]]评估”四位一体的因果[[Output-Oriented Governance|循证治理]]格局。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 280)]]
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Research-Practice Gap]]"
   - "[[Publication Bias]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Internal Validity]]"
   - "[[Formative Assessment]]"
   - "[[Realism in International Relations]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # What Works Movement
@@ -203,7 +204,7 @@ updated: 2026-09-17
 ## 实证数据
 
 > [!ref-table] 跨国循证改革运动关键制度与实证参数对照表
-> | 循证治理体系 | 核心政策机构 / 载体 | 动员规模与覆盖广度 | 核心实证参数与成效产出 | 方法学与制度特色 | 核心实证来源 |
+> | [[Output-Oriented Governance\|循证治理]]体系 | 核心政策机构 / 载体 | 动员规模与覆盖广度 | 核心实证参数与成效产出 | 方法学与制度特色 | 核心实证来源 |
 > |:---|:---|:---|:---|:---|:---|
 > | **英国循证改革体系** | [[Education Endowment Foundation\|EEF]] / [[What Works Network\|WWN]] | 资助逾 **200 项**现场试验；动员全英 **50% 以上**的中小学校；涵盖逾 160 万名学生。 | 仅少量项目实现统计显著正效应；商业干预中位效应量 **$d = 0.06$**；**85%** 试验获 3+ 安全挂锁。 | 强制三方资助协议；对接[[National Pupil Database\|国家学生数据库]] NPD 统考；绑定定性[[Implementation and Process Evaluation\|过程评估]]（IPE）。 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–56]]；White, 2019 |
 > | **美国联邦循证体系** | [[Institute of Education Sciences\|IES]] / [[What Works Clearinghouse\|WWC]] | 覆盖全美教育科学改革法案（ESRA）与 [[Every Student Succeeds Act\|ESSA]] 资助；设立 10 余个区域教育实验室。 | 审查数万篇[[Document\|文献]]；获得“无保留达标”（Meets Without Reservations）认证比例不足 **20%**。 | 严苛的方法学技术审查；早期侧重[[Internal Validity\|内部效度]]；受资助者自聘评估导致部分 [[Quasi-Experimental Designs\|QED]] 妥协。 | Boulay et al., 2018；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]] |

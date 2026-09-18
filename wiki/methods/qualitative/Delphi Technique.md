@@ -8,7 +8,7 @@ summary: "一种通过多轮书面问卷迭代收集和反馈群体意见的结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -24,13 +24,14 @@ related_concepts:
 related_methods:
   - "[[Nominal Group Technique]]"
   - "[[Questionnaire]]"
+  - "[[Cluster Analysis]]"
   - "[[Action Research]]"
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-18
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 # Delphi Technique
 
@@ -60,7 +61,7 @@ updated: 2026-09-17
 > [!method-stack] 方法层级
 > - **研究设计** 多轮书面数据收集——可在个体或小组基础上灵活使用。
 > - **数据收集** 首轮书面[[Questionnaire|问卷]]→组长整理聚类→发回参与者→征求意见和进一步讨论→重复迭代。
-> - **分析方法** 组长进行聚类分析和频率统计；参与者对群体回应做出反应（同意或表达更大分歧）。
+> - **分析方法** 组长进行[[Cluster Analysis|聚类分析]]和频率统计；参与者对群体回应做出反应（同意或表达更大分歧）。
 > - **辅助技术** 保密性管理、匿名化、书面问卷设计。
 
 ---
