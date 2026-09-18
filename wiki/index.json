@@ -4488,6 +4488,18 @@
     ]
   },
   {
+    "title": "Rescaling",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Rescaling.md",
+    "aliases": [
+      "尺度重组",
+      "空间尺度重构",
+      "State Rescaling",
+      "Policy Rescaling",
+      "尺度重构"
+    ]
+  },
+  {
     "title": "Research Utilization",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Research Utilization.md",
@@ -18366,6 +18378,15 @@
     ]
   },
   {
+    "title": "John Allen",
+    "type": "person",
+    "path": "wiki/persons/uk/John Allen.md",
+    "aliases": [
+      "约翰·艾伦",
+      "Allen, J."
+    ]
+  },
+  {
     "title": "John Bangs",
     "type": "person",
     "path": "wiki/persons/uk/John Bangs.md",
@@ -21078,6 +21099,18 @@
     ]
   },
   {
+    "title": "IQB-Bildungstrend",
+    "type": "fact",
+    "path": "wiki/facts/germany/IQB-Bildungstrend.md",
+    "aliases": [
+      "IQB教育趋势测评",
+      "Ländervergleich",
+      "IQB-Ländervergleich",
+      "IQB Educational Trend",
+      "跨州教育标准比较测评"
+    ]
+  },
+  {
     "title": "KoKoHs Program",
     "type": "fact",
     "path": "wiki/facts/germany/KoKoHs Program.md",
@@ -21086,6 +21119,26 @@
       "德国高等教育能力建模与测量计划",
       "德国能力建模与测量计划",
       "Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor"
+    ]
+  },
+  {
+    "title": "Lernen vor Ort",
+    "type": "fact",
+    "path": "wiki/facts/germany/Lernen vor Ort.md",
+    "aliases": [
+      "地方学习计划",
+      "Local Learning",
+      "Kommunales Bildungsmanagement"
+    ]
+  },
+  {
+    "title": "National Educational Panel Study",
+    "type": "fact",
+    "path": "wiki/facts/germany/National Educational Panel Study.md",
+    "aliases": [
+      "德国国家教育发展追踪研究",
+      "NEPS",
+      "Nationales Bildungspanel"
     ]
   },
   {

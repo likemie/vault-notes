@@ -31,6 +31,7 @@ tags:
   - theme/educational-monitoring
   - theme/federalism
 related_concepts:
+  - "[[Rescaling]]"
   - "[[Policy Borrowing]]"
   - "[[Center of Calculation]]"
   - "[[Data Infrastructure]]"
@@ -54,10 +55,12 @@ related_methods:
   - "[[Expert Interview]]"
   - "[[Ethnography]]"
 related_persons:
+  - "[[John Allen]]"
   - "[[Bruno Latour]]"
 related_facts:
   - "[[Institute for Educational Quality Improvement]]"
   - "[[PISA]]"
+  - "[[IQB-Bildungstrend]]"
   - "[[Vergleichsarbeiten]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
@@ -65,10 +68,13 @@ related_facts:
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
   - "[[Reach]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
+  - "[[Federal Ministry of Education and Research]]"
+  - "[[National Educational Panel Study]]"
   - "[[OECD]]"
   - "[[TIMSS]]"
   - "[[PIRLS]]"
   - "[[IEA]]"
+  - "[[Lernen vor Ort]]"
 sources:
   - "[[sources/Hartong_2018_GSE/Hartong_2018_GSE|Hartong_2018_GSE]]"
 confidence: high
@@ -83,10 +89,10 @@ updated: 2026-09-18
 ## 研究问题
 
 > [!question]
-> 在全球化与数字化交织推进的背景下，教育政策的尺度重组（rescaling）如何打破传统的国家、区域与地方等层级化行政界限？正统新制度主义的世界体系与[[Policy Borrowing|政策借用]]理论侧重宏观趋同，忽视了技术客体、软件算法与数据流转的社会-物质性；在高度分权且宪法保障各州文化主权的德国教育体制中，以[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为代表的[[Center of Calculation|计算中心]]（Center of Calculation）与跨尺度绩效[[Data Infrastructure|数据基础设施]]（Data Infrastructure），如何在经历 2000 年[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）后建立并运转？这种数据流动如何在法律明文禁止编制学校排名的约束下，通过时空折叠驱动教育政策的[[Topological Spatialisation|拓扑学重组]]（Topological Re-[[Assemblage]]）？（pp. 134–136）
+> 在全球化与数字化交织推进的背景下，教育政策的[[Rescaling|尺度重组]]（rescaling）如何打破传统的国家、区域与地方等层级化行政界限？正统新制度主义的世界体系与[[Policy Borrowing|政策借用]]理论侧重宏观趋同，忽视了技术客体、软件算法与数据流转的社会-物质性；在高度分权且宪法保障各州文化主权的德国教育体制中，以[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为代表的[[Center of Calculation|计算中心]]（Center of Calculation）与跨尺度绩效[[Data Infrastructure|数据基础设施]]（Data Infrastructure），如何在经历 2000 年[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）后建立并运转？这种数据流动如何在法律明文禁止编制学校排名的约束下，通过时空折叠驱动教育政策的[[Topological Spatialisation|拓扑学重组]]（Topological Re-[[Assemblage]]）？（pp. 134–136）
 
 > [!claim] 核心主张
-> 教育治理的跨尺度重组不仅依赖宏观政策话语与行政命令，更依托于将微观教育现象[[Transfer Translation Transformation|转译]]为可[[Commensuration|通约]]数据的绩效数据基础设施；德国在 PISA 震荡后建立的 IQB 作为国家计算中心，通过统筹国家教育标准、联邦州学业达标趋势比较（IQB-Bildungstrend）与全德[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA）题库，并在内部设立教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），在法律严格禁止公开发布学校排名表与维护各州文化主权的强制度约束下，依然在各州行政边界之间搭建起密集的拓扑连通管道，实现了对基层学校教学实践的远程拓扑[[Disciplina and Doctrina|规训]]与政策重组。（pp. 143–146）
+> 教育治理的跨尺度重组不仅依赖宏观政策话语与行政命令，更依托于将微观教育现象[[Transfer Translation Transformation|转译]]为可[[Commensuration|通约]]数据的绩效数据基础设施；德国在 PISA 震荡后建立的 IQB 作为国家计算中心，通过统筹国家教育标准、联邦州学业达标趋势比较（[[IQB-Bildungstrend]]）与全德[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA）题库，并在内部设立教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），在法律严格禁止公开发布学校排名表与维护各州文化主权的强制度约束下，依然在各州行政边界之间搭建起密集的拓扑连通管道，实现了对基层学校教学实践的远程拓扑[[Disciplina and Doctrina|规训]]与政策重组。（pp. 143–146）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 德国在 PISA 震荡后构建的国家教育监测体系，重点考察各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）的监测战略、柏林洪堡大学教育质量发展研究所（[[Institute for Educational Quality Improvement|IQB]]）及其研发的跨州数据基础设施。
@@ -100,12 +106,13 @@ updated: 2026-09-18
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Topological Spatialisation\|拓扑空间化（Topological Spatialisation）]]**<br>[[Topological Spatialisation]] | 突破欧几里得几何与固定层级容器空间观，将空间理解为基于连接、触达、折叠与拉伸的关系网络；解释[[Data Infrastructure\|数据基础设施]]如何使远距主体产生即时邻近性并促成跨尺度治理（pp. 136–137）。 |
+> | **[[Topological Spatialisation\|拓扑空间化（Topological Spatialisation）]]**<br>[[Topological Spatialisation]] | 源自[[John Allen\|约翰·艾伦]]（[[John Allen]]），突破欧几里得几何与固定层级容器空间观，将空间理解为基于连接、触达、折叠与拉伸的关系网络；解释[[Data Infrastructure\|数据基础设施]]如何使远距主体产生即时邻近性并促成跨尺度治理（pp. 136–137）。 |
+> | **[[Rescaling\|尺度重组（Rescaling）]]**<br>[[Rescaling]] | 承接政治地理学国家空间重构理论，解释全球化与数字化如何驱动国家规约权力在跨国、国家、州与地方市镇之间发生质性再分配与多尺度互嵌（pp. 134–136）。 |
 > | **[[Assemblage\|装配理论（Assemblage Theory）]]**<br>[[Assemblage]] | 强调人类与非人类行动者（软件、数据库、法规、标准）构成的社会-物质复合体，分析系统在物质性与表达性、去领土化与再领土化维度的动态博弈与脆弱妥协（p. 137）。 |
 > | **[[Center of Calculation\|计算中心（Center of Calculation）]]**<br>[[Center of Calculation]] | 源自[[Bruno Latour\|布鲁诺·拉图尔]]（[[Bruno Latour]]）行动者网络理论（[[Actor-Network Theory\|Actor-Network Theory, ANT]]），揭示机构如何通过将分散实体转译为流动、稳定且可组合的标准化数据表征（inscriptions），在中心节点运算并实现[[Governing at a Distance\|远距离治理]]（p. 138）。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具构成了穿透制度表象的核心桥梁：装配理论将数据基础设施视作由代码、法规、测试题库与专家网络构成的异质复合体；计算中心概念阐明了数据如何在 [[Institute for Educational Quality Improvement|IQB]] 集中沉淀并转化为治理知识；拓扑空间化则精准刻画了这种数据流动如何绕过德国联邦各州的行政地理隔离，在微观课堂与国家标准之间建立即时互动通道（pp. 136–138）。
+> 理论工具构成了穿透制度表象的核心桥梁：装配理论将数据基础设施视作由代码、法规、测试题库与专家网络构成的异质复合体；计算中心概念阐明了数据如何在 [[Institute for Educational Quality Improvement|IQB]] 集中沉淀并转化为治理知识；[[John Allen|约翰·艾伦]]开创的拓扑空间化与[[Rescaling|尺度重组]]视角则精准刻画了这种数据流动如何绕过德国联邦各州的行政地理隔离，在微观课堂与国家标准之间建立即时互动通道（pp. 136–138）。
 
 ---
 
@@ -145,7 +152,7 @@ updated: 2026-09-18
 ### 论证步骤一　正统新制度主义同构论难以解释微观技术能动性：数据基础设施通过拓扑空间化重构教育政策尺度
 
 > [!claim] 步骤一核心主张
-> 正统新制度主义将全球化视作国家间政策趋同（isomorphism）与世界体系扩张的宏观过程，忽视了微观物质技术的能动性；数字化[[Data Infrastructure|数据基础设施]]通过[[Topological Spatialisation|拓扑空间化]]与[[Assemblage|装配]]机制，打破了固定领土边界对政策尺度的固化约束。（pp. 135–138）
+> 正统新制度主义将全球化视作国家间政策趋同（isomorphism）与世界体系扩张的宏观过程，忽视了微观物质技术的能动性；数字化[[Data Infrastructure|数据基础设施]]通过[[Topological Spatialisation|拓扑空间化]]与[[Assemblage|装配]]机制，打破了固定领土边界对政策尺度的固化约束，驱动了教育政策的[[Rescaling|尺度重组]]。（pp. 135–138）
 
 #### 1. 正统制度主义同构论忽视技术物质性且难以解释本土制度摩擦
 
@@ -187,7 +194,7 @@ updated: 2026-09-18
 ### 论证步骤二　PISA 震荡打破联邦分权路径依赖：驱动产出导向国家教育监测体系建立
 
 > [!claim] 步骤二核心主张
-> 2000 年 [[PISA]] 震荡打破了德国各州各自为政的传统输入控制模式，促使 16 个联邦州在 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 框架下制定《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》，正式确立了包含四大支柱的产出导向多层级质量监测体系。（pp. 138–140）
+> 2000 年 [[PISA]] 震荡打破了德国各州各自为政的传统输入控制模式，促使 16 个联邦州在 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 框架下制定《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》，正式确立了包含四大支柱的产出导向多层级质量监测体系，并由联邦教研部（[[Federal Ministry of Education and Research|BMBF]]）启动[[National Educational Panel Study|德国国家教育发展追踪研究]]（NEPS）与“地方学习”计划深化微观与地方基建。（pp. 138–143）
 
 #### 1. 文化主权壁垒与 PISA 震荡危机倒逼治理范式从输入控制转向产出监测
 
@@ -203,9 +210,13 @@ updated: 2026-09-18
 > | 评估项目 / 支柱 | 施测性质与频次 | 抽样与覆盖范围 | 主导与研发机构 | 核心治理功能与政策定位 |
 > |:---|:---|:---|:---|:---|
 > | **国际大型测评（[[PISA]] / [[TIMSS\|国际数学与科学趋势研究（Trends in International Mathematics and Science Study, TIMSS）]] / [[PIRLS\|国际阅读素养进展研究（Progress in International Reading Literacy Study, PIRLS）]]）** | 周期性抽样评估（3–5 年一轮） | 国际代表性样本（PISA 在德国扩样至约 40,000 人以覆盖 16 州） | [[OECD\|经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）]] / [[IEA\|国际教育成就评价协会（International Association for the Evaluation of Educational Achievement, IEA）]] 主导；德国境内由慕尼黑工大国际教育比较研究中心（ZIB）统筹 | 国际宏观定位与跨国比较；为国家教育改革议程提供外部正当性（pp. 139–141） |
-> | **检验国家教育标准的联邦州比较（[[Institute for Educational Quality Improvement\|IQB]]-Bildungstrend）** | 周期性抽样评估（小学 5 年、初中 3 年一轮） | 小学 4 年级与初中 9 年级全德代表性抽样样本 | 柏林洪堡大学教育质量发展研究所（[[Institute for Educational Quality Improvement\|IQB]]） | 审查各州学生对国家教育标准的达标率；形成跨州公开同行比较压力（pp. 140–142） |
+> | **检验国家教育标准的联邦州比较（[[IQB-Bildungstrend]]）** | 周期性抽样评估（小学 5 年、初中 3 年一轮） | 小学 4 年级与初中 9 年级全德代表性抽样样本 | 柏林洪堡大学教育质量发展研究所（[[Institute for Educational Quality Improvement\|IQB]]） | 审查各州学生对国家教育标准的达标率；形成跨州公开同行比较压力（pp. 140–142） |
 > | **全域校际比较测试（[[Vergleichsarbeiten\|VERA-3]] / VERA-8）** | 每年常态化普查施测 | 全德 16 州所有公立学校的小学 3 年级与初中 8 年级全体学生 | [[Institute for Educational Quality Improvement\|IQB]] 负责全国命题与题库平台；各州教育部负责行政实施 | 全样本微观教学诊断与薄弱校筛查；支持校本教研反思（pp. 140–144） |
 > | **国家与州级联合教育报告（Bildungsbericht）** | 双年度发布综合报告 | 宏观全域教育统计、人口结构与经费投入数据 | [[Leibniz Institute for Educational Research and Educational Information\|莱布尼茨教育研究与教育信息研究所]]（DIPF）协同相关智库编撰 | 向议会与公众全面呈现国家与各州教育体系的结构性发展指标（pp. 140–141, 145） |
+
+> [!policy-context] 联邦教研部（BMBF）对实证基建与地方监测的赋能重组
+> - **全生命周期追踪基建：[[National Educational Panel Study|NEPS]]** BMBF 于 2009 年资助建立全德 20 余所科研机构联合的教育发展追踪网络，跟踪 6 大起始队列逾 6 万名受试者，并在 2013 年正式确立为联邦与各州共建的永久性国家科研基建。
+> - **地方监测与公私伙伴计划：[[Lernen vor Ort]]** BMBF 联合慈善基金会于 2009–2014 年资助 35 个示范市镇建立地方教育管理与监测报告，以公私伙伴关系穿透州级壁垒直接赋能基层学区。（pp. 142–143）
 
 > [!example]- 图1：德国标准化绩效评价体系
 > ![](https://img.mylikemie.icu/sources/Hartong_2018_GSE/figures/Hartong_2018_GSE_Fig1_Standardised_Performance_Assessments_Germany.jpg)
@@ -232,7 +243,7 @@ updated: 2026-09-18
 >
 > - **2007–2012 — 联邦州比较常规化与 VERA 统筹接管**
 >
->   IQB 将 PISA 扩样测试转化为独立的联邦州学业达标比较测试（Ländervergleich）；同时，接管原本由南部 7 州自发发起并由大学协调的 VERA 项目，将 VERA 命题权与全国协调权统一收拢至 IQB。（pp. 141–144）
+>   IQB 将 PISA 扩样测试转化为独立的联邦州学业达标比较测试（[[IQB-Bildungstrend]]）；同时，接管原本由南部 7 州自发发起并由大学协调的 VERA 项目，将 VERA 命题权与全国协调权统一收拢至 IQB。（pp. 141–144）
 >
 > - **2013–至今 — FDZ 数据集成与数字化任务平台拓展**
 >

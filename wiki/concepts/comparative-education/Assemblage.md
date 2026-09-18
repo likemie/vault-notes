@@ -35,6 +35,7 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Knowledge Production]]"
   - "[[Topological Spatialisation]]"
+  - "[[Rescaling]]"
   - "[[Center of Calculation]]"
   - "[[Data Infrastructure]]"
   - "[[Paradigm]]"
@@ -169,7 +170,7 @@ updated: 2026-09-18
 
 ### 命题四　政策装配通过拓扑折叠与数据基础设施跨越传统空间与宪政科层
 
-> [!concept-lens] [[Topological Spatialisation|拓扑空间化]]与跨尺度重组机制
+> [!concept-lens] [[Topological Spatialisation|拓扑空间化]]与跨[[Rescaling|尺度重组]]机制
 > 检视技术标准、统一题库与数字[[Center of Calculation|计算中心]]如何突破欧几里得地理空间与行政管辖边界，在微观教学与宏观治理之间建立直接的拓扑连接。
 
 > [!claim] [[Sigrid Hartong|Hartong, S.]]

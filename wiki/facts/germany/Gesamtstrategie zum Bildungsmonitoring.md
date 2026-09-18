@@ -54,6 +54,7 @@ related_facts:
   - "[[PIRLS]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
   - "[[Institute for Educational Quality Improvement]]"
+  - "[[IQB-Bildungstrend]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
 related_arguments:
@@ -86,7 +87,7 @@ updated: 2026-09-18
 
 > [!policy-design] 政策设计与四大支柱
 > - **支柱一：定期参与国际大型[[Academic Achievement|学业成就]]评估** 系统化参与 [[OECD]] 主导的 [[PISA]] 以及[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）主导的[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）与[[PIRLS|国际阅读素养进展研究]]（Progress in International Reading Literacy Study, PIRLS）；由设于慕尼黑工业大学的[[Zentrum für internationale Bildungsvergleichsstudien|德国国际教育比较研究中心]]（Centre for International Student Assessment, ZIB）统一统筹执行国内抽样扩样与技术实施，为国家改革提供宏观国际参照。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 484, 488)]]; [[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–141)]]
-> - **支柱二：检验国家教育标准的全国代表性州际比较测试** 依托柏林洪堡大学[[Institute for Educational Quality Improvement|德国教育质量发展研究所]]（Institut zur Qualitätsentwicklung im Bildungswesen, IQB）开展小学（4 年级）与初中（9 年级）全德代表性抽样达标趋势测试（IQB-Bildungstrend / Ländervergleich），严格审查各州学生对 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 设立的国家教育标准的达成度。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–142)]]
+> - **支柱二：检验国家教育标准的全国代表性州际比较测试** 依托柏林洪堡大学[[Institute for Educational Quality Improvement|德国教育质量发展研究所]]（Institut zur Qualitätsentwicklung im Bildungswesen, IQB）开展小学（4 年级）与初中（9 年级）全德代表性抽样达标趋势测试（[[IQB-Bildungstrend]] / Ländervergleich），严格审查各州学生对 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 设立的国家教育标准的达成度。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–142)]]
 > - **支柱三：面向全域单体学校的[[Vergleichsarbeiten|校际比较测试]]** 在全德 16 州推行普查式[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA，包含小学 3 年级的 VERA-3 与初中 8 年级的 VERA-8），由 IQB 统筹研发标准试题与题库平台，为单体学校提供微观教学诊断与异常排查依据。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 484)]]; [[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–144)]]
 > - **支柱四：联合国家统一教育报告体系** 联合[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF）委托[[Leibniz Institute for Educational Research and Educational Information|莱布尼茨教育研究与教育信息研究所]]（Leibniz Institute for Educational Research and Educational Information, DIPF）主导编制双年度《德国教育报告》（*[[Bildung]] in Deutschland*），向议会与公众发布人口结构、财政投入与结构性发展指标。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–141, 145)]]
 > - **协同保障：[[School Inspection|外部学校督导]]与教育研究数据中心（FDZ）** 协同各州建立定期的外部[[School Inspection|学校督导]]机制以弥补量化测试局限，并在 IQB 与 DIPF 内部设立教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），向学术界规范开放微观去标识化数据集。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 485)]]; [[Argument_Hartong_2018_GSE|(Hartong, 2018, p. 144)]]

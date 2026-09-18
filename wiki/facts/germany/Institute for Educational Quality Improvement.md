@@ -46,6 +46,7 @@ related_facts:
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Vergleichsarbeiten]]"
   - "[[PISA]]"
+  - "[[IQB-Bildungstrend]]"
   - "[[TIMSS]]"
   - "[[PIRLS]]"
   - "[[Federal Ministry of Education and Research]]"
@@ -74,7 +75,7 @@ updated: 2026-09-18
 > - **成立时间 / 创设背景** 创设于 2004 年。在 2000 年首轮[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）引发德国全社会强烈震动后，KMK 决议打破各州完全分散的传统，联合建立专门科研实体以推进全国统一教育标准与客观质量监测（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 140]]）。
 > - **总部地点 / 业务辐射** 设于德国柏林洪堡大学（Humboldt-Universität zu Berlin），业务全面覆盖德国 16 个联邦州的中小学基础教育学段。
 > - **法人属性与经费基础** 属于挂靠柏林洪堡大学的独立公立学术研究实体，运行经费由 16 个联邦州通过 KMK 财政预算按法定比例共同长期保障。
-> - **核心宗旨与法定职责** 研制经过心理测量学标定的标准化试题与能力水平模型，定期组织开展全德联邦州[[Academic Achievement|学业表现]]横向比较（IQB-Bildungstrend / Ländervergleich），为各州开展 VERA 测评提供统一标准试卷与在线练习平台，并对全域大规模教育数据进行深度二次分析与社会开放（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 140–144]]）。
+> - **核心宗旨与法定职责** 研制经过心理测量学标定的标准化试题与能力水平模型，定期组织开展全德联邦州[[Academic Achievement|学业表现]]横向比较（[[IQB-Bildungstrend]] / Ländervergleich），为各州开展 VERA 测评提供统一标准试卷与在线练习平台，并对全域大规模教育数据进行深度二次分析与社会开放（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 140–144]]）。
 
 ---
 
@@ -82,7 +83,7 @@ updated: 2026-09-18
 
 > [!dev-timeline] 组织发展历程
 > - **2004–2006 — 机构创设与国家教育标准题库奠基** 2004 年由 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 决议在柏林正式组建，初期核心任务是为 KMK 颁布的中学第一阶段（Sekundarstufe I）与小学国家教育标准（Bildungsstandards）研发心理测量学指标、试题库与能力层级量规（[[Argument_Dedering_2009_EERJ|Dedering, 2009, p. 484]]）。
-> - **2007–2012 — 联邦州比较测试常规化与 [[Vergleichsarbeiten|VERA]] 统筹接管** 2009 年起常态化组织实施全国代表性样本的联邦州学业达标比较测试（Ländervergleich），并逐步接管由各州自发发起的校际比较测试（[[Vergleichsarbeiten|VERA]]）的全国命题与元治理协调职能，确立其作为全国命题与标准标定中枢的法定权威（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 141, 144]]）。
+> - **2007–2012 — 联邦州比较测试常规化与 [[Vergleichsarbeiten|VERA]] 统筹接管** 2009 年起常态化组织实施全国代表性样本的联邦州学业达标比较测试（[[IQB-Bildungstrend|Ländervergleich]]），并逐步接管由各州自发发起的校际比较测试（[[Vergleichsarbeiten|VERA]]）的全国命题与元治理协调职能，确立其作为全国命题与标准标定中枢的法定权威（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 141, 144]]）。
 > - **2013–至今 — 研究数据中心（FDZ）集成与数字化拓扑拓展** 正式建立并扩大教育研究数据中心（Forschungsdatenzentrum, FDZ），将跨国（[[PISA]]、[[TIMSS]]、[[PIRLS]]）与国内大规模测评数据全面集成归档；同时上线面向全德一线教师的数字化练习任务平台，推动国家标准向微观课堂教学直接延伸（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 144–145]]）。
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-09-18
 
 > [!pathways]- 业务运行机制
 > - **国家标准测验开发（Item Development & Scaling）** 依托[[Item Response Theory|项目反应理论]]（Item Response Theory, IRT）与多维能力模型，开发经过大规模预试与心理测量标定的试题库，确保跨年级、跨地区测试的绝对等价性（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 141]]）。
-> - **全国抽样联邦州比较施测（IQB-Bildungstrend）** 周期性对全德 16 州具有代表性的小学 4 年级与中学 9 年级学生开展大样本抽样施测，精确计算各州达成国家基础标准、常规标准与卓越标准的学生比例（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 141–142]]）。
+> - **全国抽样联邦州比较施测（[[IQB-Bildungstrend]]）** 周期性对全德 16 州具有代表性的小学 4 年级与中学 9 年级学生开展大样本抽样施测，精确计算各州达成国家基础标准、常规标准与卓越标准的学生比例（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 141–142]]）。
 > - **[[Vergleichsarbeiten|VERA]] 跨州协同与数字化任务分发** 统一向各州提供 VERA-3 与 VERA-8 试卷母本，并通过数字化网络平台向教师分发对齐国家标准的教学训练任务，支持教师开展校本形成性诊断（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 143–144]]）。
 > - **FDZ 数据清洗、归档与二次研究支持** 汇聚全德与[[International Large-Scale Assessments|国际大规模评估]]的微观数据集，实施去标识化清洗，面向全球学术界提供合规的数据调取申请、高级统计培训与方法学研讨（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 144]]）。
 
@@ -106,7 +107,7 @@ updated: 2026-09-18
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **联邦州教育趋势比较（IQB-Bildungstrend / Ländervergleich）**
+> - **联邦州教育趋势比较（[[IQB-Bildungstrend]] / Ländervergleich）**
 >   定期向全德发布的权威宏观测评报告，系统展示 16 个联邦州在各核心学科国家教育标准达标率、社会背景与[[Academic Achievement|学业成就]]关联度及移民群体融入方面的历时演进态势（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 141]]）。
 > - **国家教育标准试题库与素养层级模型（Item Pools & Proficiency Levels）**
 >   研制覆盖小学至高中学段的德语、数学与外语标准化题库，建立从未达最低标准到超越最优标准的 5 级连续能力尺度，成为全德国各级考试命题的核心参照系。

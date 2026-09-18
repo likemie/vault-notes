@@ -11,9 +11,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦最高行政机关
 headquarters: 波恩与柏林（双总部）
@@ -98,67 +98,34 @@ updated: 2026-09-18
 > - **跨辖区宪法协调机制（GWK / [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）** 通过与 16 州教育文化部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）及联合科学委员会（Gemeinsame Wissenschaftskonferenz, GWK）的联席会商，在严守州级教育主权前提下制定国家重大战略资助协议。
 > - **项目管理与委托审查机构（Projektträger）** 广泛委托德国航空航天中心项目管理署（DLR-PT）、尤利希项目管理署（PtJ）等专业第三方机构，组织国内外顶尖同行专家开展评审与全流程绩效审计。
 
-### BMBF 与相关国家教育科研中枢组织协同架构
-
-```mermaid
-flowchart LR
-    subgraph GOV["联邦与各州顶层治理层 (Governance & Funding)"]
-        direction TB
-        BMBF["德国联邦教育与研究部<br>(BMBF / 联邦资金与国家攻坚)"]
-        KMK["常设各州教育与文化部长会议<br>(KMK / 16州文化主权与课标)"]
-        GWK["联邦-各州联合科学委员会<br>(GWK / 宪法共商拨款机制)"]
-        BMBF <-->|战略会商与联合资助| GWK
-        KMK <-->|跨州协调与共识表决| GWK
-    end
-
-    subgraph POLICY["国家战略框架层 (Frameworks & Programs)"]
-        direction TB
-        STRATEGY["国家教育监测总体战略<br>(Gesamtstrategie zum Bildungsmonitoring)"]
-        QLB["教师教育质量攻坚计划<br>(QLB 专项工程 / 5亿欧元)"]
-    end
-
-    subgraph INSTITUTES["国家学术研发与计算中枢 (R&D & Centers of Calculation)"]
-        direction TB
-        ZIB["德国国际教育比较研究中心 (ZIB)<br>（慕尼黑工大牵头国家联合体）"]
-        IQB["柏林教育质量发展研究所 (IQB)<br>（国家标准 / VERA题库 / FDZ）"]
-        DIPF["莱布尼茨教育研究所 (DIPF)<br>（国家综合教育报告 / TBA测评中心）"]
-        TUM["慕尼黑工业大学 (TUM)<br>（社会科学与技术学院教育系）"]
-        IPN["基尔莱布尼茨数理研究所 (IPN)<br>（数理认知与纵向追踪）"]
-    end
-
-    subgraph TRANSLATION["证据清算与微观教学转化层 (Evidence Mediation & Practice)"]
-        direction TB
-        CHU["德国教学研究清算中心 (CHU)<br>（微观教学元分析与 Kurzreviews）"]
-        PRACTICE["全德师范院校、教研督导机构<br>与 16 州公立中小学校"]
-    end
-
-    %% 治理层对战略框架的赋权与出资
-    BMBF & KMK -->|联合审议通过并法定化| STRATEGY
-    BMBF -->|主导设立并全额资助| QLB
-
-    %% 战略框架与学术中枢的委托支撑
-    STRATEGY -->|第一支柱：统筹 PISA 测评研发| ZIB
-    STRATEGY -->|第二/三支柱：国家标准与 VERA| IQB
-    STRATEGY -->|第四支柱：联合编撰国家教育报告| DIPF
-    KMK -->|独立创设并全权委托| IQB
-    BMBF & KMK -->|联合出资 50/50 设立| ZIB
-    BMBF & KMK -->|共同资助 50/50| DIPF
-
-    %% ZIB 三方联合体架构
-    TUM -->|牵头主持单位| ZIB
-    DIPF -->|问卷与计算机测评技术| ZIB
-    IPN -->|数理学科认知建模| ZIB
-
-    %% 证据转化清算中介与高校依托
-    QLB -->|2017年专项立项出资孵化| CHU
-    TUM -->|实体依托与学者主政| CHU
-    ZIB <-->|CHU x ZIB 双轨中介协同<br>宏观系统监测 × 微观教学干预| CHU
-
-    %% 成果辐射与实践落地
-    CHU -->|教学证据简评与进修培训| PRACTICE
-    IQB -->|数字化任务平台与标准诊断| PRACTICE
-    DIPF -->|DIPF-Kompass 与开放资源| PRACTICE
-```
+> [!logic-map]- BMBF 与相关国家教育科研中枢组织协同架构
+> ```mermaid
+> flowchart LR
+>     %% 顶层出资与治理
+>     BMBF["联邦教育与研究部 (BMBF)"]
+>     KMK["各州文教部长会议 (KMK)"]
+> 
+>     %% 核心研究与中介中枢
+>     ZIB["国际比较中心 (ZIB)<br>(TUM牵头 + DIPF + IPN)"]
+>     CHU["教学清算中心 (CHU)<br>(BMBF孵化 / 设于TUM)"]
+>     IQB["教育质量发展所 (IQB)<br>(KMK委托 / 柏林洪堡大学)"]
+>     DIPF["莱布尼茨教育研究所 (DIPF)<br>(国家教育报告 / TBA测评)"]
+> 
+>     %% 实践落地端
+>     SCHOOLS["16州公立中小学校与师范机构"]
+> 
+>     %% 治理与资助关系
+>     BMBF & KMK -->|联合出资 50/50| ZIB
+>     BMBF & KMK -->|共同资助| DIPF
+>     KMK -->|全权委托| IQB
+>     BMBF -->|QLB专项孵化| CHU
+> 
+>     %% 证据转化与协同关系
+>     ZIB <-->|CHU x ZIB 双轨中介| CHU
+>     CHU -->|教学证据简评| SCHOOLS
+>     IQB -->|标准题库与诊断| SCHOOLS
+>     DIPF -->|宏观报告与数据库| SCHOOLS
+> ```
 
 > [!pathways] 业务运行机制
 > - **议程设置** 围绕国家高科技战略（High-Tech-Strategie）、国家教育报告（Bildungsbericht）实证监测指标以及国际 [[PISA]] 测评反馈，拟定国家急需优先攻关领域。
