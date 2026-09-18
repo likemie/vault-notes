@@ -34,6 +34,7 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Sutton Trust]]"
 related_arguments: []
 sources:
   - "[[sources/Rowe_2022_IJER/Rowe_2022_IJER|Rowe_2022_IJER]]"
@@ -118,7 +119,7 @@ issuing_organization: ""
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["防野狗围栏隐喻与关系物质性<br>(无生命客体装配的理论视角)"] --> B["步骤一：科学中立表象掩盖企业法与特许分包底座<br>(担保有限公司注册与特许慈善界合作)"]
 >     B --> C["步骤二：麦肯锡系枢纽与跨国金融资本十年游说<br>(SVA 设立、E4L 试验与跨国资本注入)"]
 >     C --> D["步骤三：跨界共同从属构筑异质治理层级<br>(多重兼职闭环与民主问责结构性侵蚀)"]
@@ -182,7 +183,7 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 > [!example]- 图3：动力基金会（Impetus）的跨国金融与私募股权资助网络
 > ![](https://img.mylikemie.icu/sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig3_Impetus_Funders.jpg)
 
-英国 EEF 资助母体萨顿信托（The Sutton Trust）与动力基金会（Impetus）汇聚了美洲银行（Bank of America）、高盛集团（Goldman Sachs）、摩根大通（JP Morgan）、普华永道（PwC）等跨国投行、算法交易公司与商业律所资本；这些跨国金融资本流动至英国成立 EEF，EEF 再与必和必拓基金会（BHP Foundation）联合注资澳大利亚 SVA 与 E4L，最终在澳大利亚国家政权内部装配出全新的国家机构（pp. 6–8）。
+英国 EEF 资助母体[[Sutton Trust|萨顿信托]]（The Sutton Trust）与动力基金会（Impetus）汇聚了美洲银行（Bank of America）、高盛集团（Goldman Sachs）、摩根大通（JP Morgan）、普华永道（PwC）等跨国投行、算法交易公司与商业律所资本；这些跨国金融资本流动至英国成立 EEF，EEF 再与必和必拓基金会（BHP Foundation）联合注资澳大利亚 SVA 与 E4L，最终在澳大利亚国家政权内部装配出全新的国家机构（pp. 6–8）。
 
 ---
 

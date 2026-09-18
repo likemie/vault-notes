@@ -7,36 +7,35 @@ aliases:
   - 政策装配
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
+domain: "comparative-education"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - social-theory
   - actor-network-theory
   - comparative-education
   - policy-sociology
 related_concepts:
-  - "[[Heterogeneity]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Relational Space]]"
-  - "[[Educational Brokerage Agency]]"
   - "[[Venture Philanthropy]]"
-  - "[[Posthumanism]]"
 related_theories:
   - "[[Actor-Network Theory]]"
-  - "[[Governing at a Distance]]"
-related_methods:
-  - "[[Network Ethnography]]"
-  - "[[Analytic Framework]]"
-related_persons:
-  - "[[Bruno Latour]]"
-  - "[[John Law]]"
-  - "[[Michel Callon]]"
+related_methods: []
+related_persons: []
 related_facts:
   - "[[Australian Education Research Organisation]]"
+  - "[[Social Ventures Australia]]"
   - "[[Conectar Igualdad]]"
 related_arguments:
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Rowe_2022_IJER]]"
 confidence: high
 status: stable
+created: 2026-06-07
+updated: 2026-09-18
 ---
 
 # Assemblage
@@ -89,7 +88,7 @@ status: stable
 
 > [!logic-map]- 组装运作与权力生成拓扑
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["异质实体来源<br>(人类精英、非公立资本、立法文本、技术标准)"] -->|转译与协商| B["耐用材料具身化<br>(文本、硬件、章程、合同、量规)"]
 >     B --> C["社会-物质组装体<br>(临时维系形态的关系性网络)"]
 >     C -->|去政治化修辞与技术规程| D["黑箱化实体<br>(如中立证据机构、标准化课堂)"]
@@ -140,8 +139,8 @@ status: stable
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **关系物质性与耐用秩序命题** | 瞬时社会关系借由法规、章程与物质技术耐用客体具身化为长程秩序 | 跨区域基础设施、国家级教育中介机构与标准化管理系统 | [[Argument_Rowe_2022_IJER\|Rowe (2022)]]; Law (1992) |
-> | **去政治化与隐形权力命题** | 装配的客观技术外表遮蔽非公立资本与跨国企业规约力量的落地 | 数字化校园硬件落地、智库游说与国家科研外包治理 | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]] |
-> | **结构脆断与建构暴露命题** | 非人类构件失灵或法律档案解密会导致黑箱化权力网络瞬间解组 | 课堂教学技术故障、课程资源更迭与政策审计透明度危机 | Fenwick & Edwards (2010); [[Argument_Rowe_2022_IJER\|Rowe (2022)]] |
+> | **去政治化与隐形权力命题** | 装配的客观技术外表遮蔽非公立资本与跨国企业规约力量的落地 | 数字化校园硬件落地、智库游说与国家科研外包治理 | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]]; Latour (2002) |
+> | **结构脆断与建构暴露命题** | 非人类构件失灵或法律档案解密会导致黑箱化权力网络瞬间解组 | 课堂教学技术故障、课程资源更迭与政策审计透明度危机 | Fenwick & Edwards (2010); Callon (1986) |
 
 ---
 
