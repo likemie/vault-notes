@@ -11,7 +11,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,13 +28,14 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
-related_theories:
+related_theories: []
+related_methods:
   - "[[Item Response Theory]]"
-related_methods: []
 related_instruments:
   - "[[Consensual Assessment Technique]]"
 related_persons: []
 related_facts:
+  - "[[Federal Ministry of Education and Research]]"
   - "[[Bologna Process]]"
   - "[[OECD]]"
 related_arguments:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-18
 ---
 
 # KoKoHs Program
@@ -52,7 +53,7 @@ updated: 2026-08-27
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2011 年由德国联邦教育与研究部（Bundesministerium für [[Bildung]] und Forschung, BMBF）正式设立并持续资助至 2020 年。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 16–17)]]
+> - **发布时间 / 发布主体** 2011 年由[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（Bundesministerium für [[Bildung]] und Forschung, BMBF）正式设立并持续资助至 2020 年。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 16–17)]]
 > - **适用地区 / 对象** 德国全境高等院校各专业学段本科生及研究生、高教科研机构与学科教研团队。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
 > - **问题背景** 伴随[[Bologna Process|博洛尼亚进程]]能力导向改革，高等教育界长期缺乏具备心理测量学信效度的专业与通用素养测量工具，无法科学评估大学生的学业收获。
 > - **制度位置** 作为德国国家级高等教育科研旗舰工程，为德国高等教育质量保障体系与国际能力比较研究提供坚实实证基准。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
@@ -75,7 +76,7 @@ updated: 2026-08-27
 ## 时间线
 
 > [!timeline] 项目实施时间线
-> - 2011 德国联邦教研部（BMBF）正式启动 KoKoHs 第一阶段（KoKoHs I, 2011–2015），聚焦能力理论建模与工具研制。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
+> - 2011 德国联邦教研部（[[Federal Ministry of Education and Research|BMBF]]）正式启动 KoKoHs 第一阶段（KoKoHs I, 2011–2015），聚焦能力理论建模与工具研制。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
 > - 2015 启动第二阶段（KoKoHs II, 2015–2020），聚焦心理测量学验证、计算机化自适应施测与纵向追踪。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
 > - 2020 项目全面收官，发布 116 套测量工具与覆盖 350 所高校逾 75,000 名学生的实证数据库。
 
@@ -84,7 +85,7 @@ updated: 2026-08-27
 ## 实施情况
 
 > [!actor-grid] 实施角色分工
-> - **发布主体** 德国联邦教育与研究部（BMBF）。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
+> - **发布主体** [[Federal Ministry of Education and Research|德国联邦教育与研究部]]（BMBF）。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
 > - **执行主体** 美因茨大学、柏林洪堡大学等 50 余所高校的 220 余名资深研究学者（如 Zlatkin-Troitschanskaia 等）。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 16–17)]]
 > - **适用对象** 全德 350 所高等院校的 75,000 余名本科生及研究生。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
 > - **政策工具** 竞争性教改基金资助、跨学科子项目攻关（70 个独立课题）与国家测试基础设施建设。

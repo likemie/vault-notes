@@ -4,8 +4,11 @@ aliases:
   - 拓扑空间化
   - 拓扑空间
   - 拓扑治理
+  - 拓扑学重组
+  - 拓扑重组
   - Topological Space
   - Topological Governance
+  - Topological Re-Assemblage
   - 拓扑空间性
 summary: "人文地理学与批判政策社会学的核心空间概念，指打破传统欧几里得几何与层级化行政疆界的连续、关系性空间构型。在教育治理中，它揭示数据基础设施与算法通约如何压缩时空距离，将分散微观的学校实践与跨区域甚至跨国计算中心折叠进即时连通的拓扑网络中。"
 type: concept
@@ -141,7 +144,7 @@ updated: 2026-09-18
 > 剖析微观复杂的师生互动与学校教学如何被提炼为可移动数据，并在中心节点生成治理效力。
 
 > [!claim] [[Bruno Latour|Latour, B.]]; [[Sigrid Hartong|Hartong, S.]]
-> **标准化数据表征的流动性、稳定性与可组合性** 依据布鲁诺·拉图尔（Bruno Latour）的[[Actor-Network Theory|行动者网络理论]]，拓扑空间的维系取决于中心能否生产出流动、稳定且可组合的标准化数据表征（inscriptions）。在德国教育监测重组中，IQB 扮演了典型的国家[[Center of Calculation|计算中心]]角色。它将各州异质的学生表现转化为标准化的常模分数与素养层级，通过研究数据中心（Research Data Centre, FDZ）对多源数据集（PISA、[[TIMSS]]、IQB-Bildungstrend、VERA）进行二次汇聚与交叉建模；这些在数学上高度[[Commensuration|通约]]的数据不仅支持了跨州学业趋势对比，更通过数字平台向基层教师定向推送对齐标准的教学任务，使国家中心在不具备直接雇佣和人事处分权的情况下，完成了对一线学校的远程拓扑[[Disciplina and Doctrina|规训]]（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 138, 144–145]]）。
+> **标准化数据表征的流动性、稳定性与可组合性** 依据布鲁诺·拉图尔（Bruno Latour）的[[Actor-Network Theory|行动者网络理论]]，拓扑空间的维系取决于中心能否生产出流动、稳定且可组合的标准化数据表征（inscriptions）。在德国教育监测重组中，IQB 扮演了典型的国家[[Center of Calculation|计算中心]]角色。它将各州异质的学生表现转化为标准化的常模分数与素养层级，通过教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）对多源数据集（PISA、[[TIMSS]]、IQB-Bildungstrend、VERA）进行二次汇聚与交叉建模；这些在数学上高度[[Commensuration|通约]]的数据不仅支持了跨州学业趋势对比，更通过数字平台向基层教师定向推送对齐标准的教学任务，使国家中心在不具备直接雇佣和人事处分权的情况下，完成了对一线学校的远程拓扑[[Disciplina and Doctrina|规训]]（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 138, 144–145]]）。
 
 ---
 

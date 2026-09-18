@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 62
+fact_related_count: 63
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Science Capital]]"
 related_methods:
+  - "[[Item Response Theory]]"
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
   - "[[Pilot Testing]]"
@@ -75,6 +76,7 @@ related_facts:
   - "[[HarmoS]]"
   - "[[National Assessment of Education Quality China 2007]]"
   - "[[Lisbon Strategy]]"
+  - "[[Institute for Educational Quality Improvement]]"
   - "[[Vergleichsarbeiten]]"
   - "[[Estonian STEM Education Model]]"
   - "[[Ofsted]]"
@@ -87,7 +89,6 @@ related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
 related_theories:
   - "[[Human Capital Theory]]"
-  - "[[Item Response Theory]]"
 confidence: high
 status: draft
 created: 2026-05-17
@@ -188,7 +189,7 @@ updated: 2026-09-18
 >
 > - **初期政治战术利用与象征性合法化防御（PISA 2000 周期）** 面对前所未有的公共危机与媒体问责，各州教育部官员与政客普遍将 PISA 数据作为政治工具。部长将数据解释为自身先见之明的佐证；执政党派利用负面测评成绩打破联盟僵局，强推本党派既定施政纲领（如不来梅 CDU 借 PISA 垫底成绩强行出台全州统一高中毕业会考 Zentralabitur；勃兰登堡创立全州教育圆桌会议分散政治问责压力）。（pp. 486–487, 491）
 > - **官员认知模式由通篇被动通读转向[[Hypothesis|假设]]检验式阅读（PISA 2006 周期）** 随着公众舆论高压减退，官员的[[Working Knowledge|实践运作知识]]逐渐沉淀出稳定的认知预期。在面对后续各轮报告时，官员放弃了耗费巨大行政精力的全员通读与多级简报编制，转而带着明确的行政问题开展靶向假设检验，并主动检索《教育学杂志》（ZfE）等学术期刊深化归因。（pp. 490–491）
-> - **专业实证分析能力的科层内生化** 各州通过直接在教育部设立专职社会科学量化分析编制、建立直属州级教育质量发展研究所、委托本土综合大学深度合作，以及支持官员常态化嵌入学术网络，建构起稳定的专业实证分析中枢。（pp. 491–492）
+> - **专业实证分析能力的科层内生化** 各州通过直接在教育部设立专职社会科学量化分析编制、建立直属州级[[Institute for Educational Quality Improvement|教育质量发展研究所]]、委托本土综合大学深度合作，以及支持官员常态化嵌入学术网络，建构起稳定的专业实证分析中枢。（pp. 491–492）
 > - **宏观测评定位功能与微观工具治理效能的清醒甄别** 教育部决策者逐步确立了对不同测评工具的理性分工认知：PISA 等宏观大型抽样测评仅具国家与联邦州的位置参照（Positioning）功能，结论过于抽象且无法直接导出具体的微观教学改进或评价专项政策成效；日常科层的精准资源配置与薄弱学校干预，则高度依赖全样本、覆盖过程与产出指标的[[Vergleichsarbeiten|校际比较测试]]（VERA）与[[School Inspection|学校督导]]。（pp. 493–494）
 
 ---

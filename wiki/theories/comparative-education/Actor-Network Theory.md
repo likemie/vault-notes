@@ -8,10 +8,10 @@ aliases:
 summary: "起源于布鲁诺·拉图尔、米歇尔·卡隆与约翰·劳的科学技术学（STS）社会理论与方法论框架，将社会与制度理解为人类与非人类行动者通过持续转译与关系物质性生成的异质网络。在比较教育研究中，它被用于解构国家中心主义与政策借用假设，通过追踪多尺度网络、互客体性、耐用客体装配（教科书、测评量规、技术协议、立法条款）与关系空间，揭示隐藏在教育改革与远处治理背后的非线性转译、变异及公私权力重组机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 47
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 57
+theory_related_level: 6
+theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_color: "#fef3c7"
 tags:
   - social-theory
   - actor-network-theory
@@ -27,6 +27,9 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Relational Space]]"
   - "[[Policy Mobility]]"
+  - "[[Center of Calculation]]"
+  - "[[Topological Spatialisation]]"
+  - "[[Data Infrastructure]]"
   - "[[Venture Philanthropy]]"
   - "[[Posthumanism]]"
   - "[[Hypothesis]]"
@@ -51,13 +54,18 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Analytic Framework]]"
   - "[[Network Ethnography]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Item Response Theory]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Ethnography]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Baruch Spinoza]]"
   - "[[Bruno Latour]]"
+  - "[[Sigrid Hartong]]"
 related_facts:
+  - "[[Institute for Educational Quality Improvement]]"
+  - "[[Vergleichsarbeiten]]"
   - "[[Conectar Igualdad]]"
   - "[[PISA]]"
   - "[[OECD]]"
@@ -66,10 +74,12 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Sutton Trust]]"
   - "[[Evidence for Learning]]"
+  - "[[Gesamtstrategie zum Bildungsmonitoring]]"
 related_arguments:
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: active
@@ -109,6 +119,7 @@ updated: 2026-09-18
 > - **1992 — 关系物质性与耐用材料策略** Law 提出关系物质性概念，指出口头言语和思想瞬时易逝，社会秩序的跨时空维系必须借由文本、建筑与法律等耐用材料予以具身化践行。（Law, 1992, 引自 [[Argument_Rowe_2022_IJER|Rowe, 2022, p. 2]]）
 > - **2005 — 重新[[Assemblage|组装]]社会与方法论澄清** Latour 出版《重新组装社会》，澄清 ANT 并非一种实体论学说，而是一种追踪异质行动者痕迹的“旅行者方法论”。（Latour, 2005）
 > - **2015–2023 — 比较教育[[Policy Mobility|政策流动]]转向** Beech & Artopoulos 将 ANT 引入跨国数字教育，提出超越领土国家的“[[Relational Space|关系空间]]”政策流通论；Klerides 追溯比较教育引入 ANT 以解构全球治理流动话语与基准测评[[Governing at a Distance|远处治理]]黑箱。（[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, pp. 8–11]]；[[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]]）
+> - **2018 — 拓扑学空间化与国家[[Center of Calculation|计算中心]]** [[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）将 ANT 的[[Center of Calculation|计算中心]]（Centers of Calculation）与[[Topological Spatialisation|拓扑空间]]理论结合，考察德国绩效[[Data Infrastructure|数据基础设施]]（[[Institute for Educational Quality Improvement|IQB]]、[[Vergleichsarbeiten|VERA]]）如何在维持地方文化主权的同时，通过不变移动物（统一题库、数字练习平台）实现跨尺度的远处治理与拓扑政策重组。（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 134–146]]）
 > - **2022 — 无生命客体装配与国家科研中介批判** 埃玛·罗威（Emma Rowe）结合[[Network Ethnography|网络民族志]]，提出“无生命客体的装配”，揭示《公司法》注册底座、董事交叉兼职与标准化量规如何将跨国[[Venture Philanthropy|风险慈善]]网络装配为看似客观中立的国家中介实体。（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 1–5]]）
 
 ---
@@ -123,6 +134,8 @@ updated: 2026-09-18
 > | [[Assemblage\|装配（Assemblage）]] | 结构 | 人类与非人类在持续关联中临时生成的社会-物质配置构型与网络效果。 |
 > | [[Posthumanism\|广义对称性（Generalized Symmetry）]] | 原则 / [[Hypothesis\|假设]] | 在分析起点赋予人类与非人类以对等的能动资格，不预设人类的主体特权。 |
 > | [[Relational Space\|关系性空间（Relational Space）]] | 概念 | 将空间视为网络关系拓扑生产的效果，而非容纳社会过程的静态欧几里得容器。 |
+> | [[Center of Calculation\|计算中心（Centers of Calculation）]] | 结构 / 机制 | 汇聚、编码与处理远处异质材料并重新输出标准化指令或基准的中央节点（Latour, 1987; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）。 |
+> | 不变移动物（Immutable Mobiles） | 构件 | 能够在广袤地理空间中自由传输且保持内部信息与格式不失真的耐用载体（如标准化测验、[[Coding in Qualitative Research\|编码]]量规、数据表格）。 |
 > | 耐用材料（Durable Materials） | 机制 | 将社会关系具身于法规、章程、硬件中以克服瞬时性并维系长程秩序的策略（Law, 1992）。 |
 > | 互客体性（Interobjectivity） | 概念 | 复杂社会互动借由客体构成的层叠网络实现秩序固化与权力传导（Latour, 2002; [[Argument_Rowe_2022_IJER\|Rowe, 2022]]）。 |
 > | 黑箱化（Black-boxing） | 状态 | 网络运作高度稳定后，内部异质博弈与利益妥协被遮蔽为[[Doxa\|不言自明]]的客观工具或事实。 |
@@ -146,13 +159,20 @@ updated: 2026-09-18
 >
 > **应用实例** 澳大利亚国家[[Educational Brokerage Agency|证据中介机构]][[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）对外标榜为客观中立的公共机构（犹如荒原上的防野狗围栏），但维系该机构的是依据《公司法》注册的担保有限责任底座、特许慈善界合作的法案修正案及排他性因果量规；整套耐用装配将麦肯锡背景的[[Social Ventures Australia|澳大利亚社会创投]]（SVA）及跨国金融资本合法嵌入国家科研议程，并赋予其审计保密豁免。（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 1–5, 11]]）
 
-> [!mechanism-map]- 多尺度行动者网络转译与远处治理机制
+> [!theory-proposition] 命题四｜[[Center of Calculation|计算中心]]与拓扑[[Data Infrastructure|数据基础设施]]能够跨越行政与地理阻隔实现远处治理与政策重组
+> **解释** 政策网络无需依赖传统的层级行政命令或领土强制，而是通过设立专门的[[Center of Calculation|计算中心]]（Centers of Calculation），向边缘学校和课堂输送标准化测试题库与自适应练习系统等“不变移动物”（Immutable Mobiles），并在中心汇集、清洗和再处理各州绩效数据。这种社会-技术装配将远处的国际和国家质量基准直接“折叠”（folding）进微观日常教学，在尊重地方形式自治的同时实现了对教育系统的精细远处治理。（Latour, 1987; [[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 136–144]]）
+>
+> **应用实例** 德国[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（IQB）作为国家计算中心，通过开发经[[Item Response Theory|项目反应理论]]（IRT）校准的统一题库与校际比较诊断（[[Vergleichsarbeiten|VERA]]），将国家教育标准直接下沉至 16 个联邦州的数万间教室，在未触动宪法文化主权壁垒的前提下重组了全国教育政策空间。（[[Argument_Hartong_2018_GSE|Hartong, 2018]]）
+
+> [!mechanism-map]- 多尺度行动者网络转译、计算中心与远处治理机制
 > ```mermaid
 > flowchart LR
 >   A["超国家节点与跨国资本<br>(OECD / 风险慈善 / 投行)"] -->|模式输出与资助| B["国家转译网络<br>(智库 / 审查报告 / 法规修正)"]
 >   B -->|耐用客体具身化| C["制度中介装配<br>(担保有限公司 / 证据量规 / 章程)"]
->   C -->|黑箱化标准输出| D["课堂微观装配<br>(软件 / 教科书 / 教学常规)"]
->   D --> E["远处治理与权力效果"]
+>   C -->|设立与委托| G["国家计算中心<br>(IQB / 数据库 / IRT题库)"]
+>   G -->|不变移动物输出| D["课堂微观装配<br>(VERA测试 / 在线练习平台)"]
+>   D -->|绩效铭文汇聚| G
+>   D --> E["远处治理与拓扑重组效果"]
 >   C -.非人类节点审计/解密.-> F["装配脆断与合法性危机"]
 > ```
 
@@ -173,6 +193,7 @@ updated: 2026-09-18
 > | **广义对称性（命题一）** | **异质行动者识别**<br>有哪些非人类实体直接参与了秩序建构？它们施加了何种约束？ | 硬件设备、操作协议、软件许可证、教室布线、评估标准文本、数据报表。 | 若特定物质节点的增减直接导致实践流程中断或转向，则判定其具有行动元地位；不能将非人类还原为纯被动工具。 |
 > | **转译四阶段（命题二）** | **转译与本土折射**<br>外部理念如何经过问题化、利益化、征募与动员被本土网络吸纳？ | 政策咨询白皮书、政府听证会记录、专家委员会组成、媒体公关话语。 | 追踪原初提议在各阶段发生的语义妥协、利益交换与形式变形；若仅有自上而下行政命令而无各方博弈结网，则转译机制不完全。 |
 > | **关系物质性与耐用客体（命题三）** | **耐用客体装配与黑箱化**<br>网络通过哪些耐用材料维持跨时空形态？去政治化表象掩盖了什么？ | 公司注册执照、特别法案条款、董事会章程细则、因果证据量规、保密豁免协议。 | 检查技术量规与法律文件是否阻断了公众批评；若制度特许条款为私营分包提供隐蔽通道，则判定存在黑箱化权力装配。 |
+> | **[[Center of Calculation\|计算中心]]与拓扑折叠（命题四）** | **计算中心与数据流动**<br>机构如何收集不变移动物并在远处施加控制？数据基础设施如何折叠空间？ | 题库参数、数据交换协议、集中式服务器、全域测试指南、微观练习平台。 | 追踪数据从边缘向中心汇集与标准从中心向边缘反向辐射的闭环；若地方实践直接被远程软件与量规参数所重塑，则判定存在拓扑远处治理。 |
 > | **网络脆断机制（命题一与三）** | **脆弱性与断裂暴露**<br>网络在何种条件下会暴露其拼装本质？哪些节点是潜在断裂点？ | 系统技术故障记录、财务审计漏洞、民间信息公开申请（FOI）、人事变动。 | 寻找使网络日常运转中断的危机事件；当非人类节点失灵导致后台博弈被置于聚光灯下时，即可确认装配的脆弱性边界。 |
 
 ### 整体分析示例
@@ -207,7 +228,7 @@ updated: 2026-09-18
 > > 争论是否应当赋予法案条款、硬件设备与量规以对称能动性。
 > > - **批判方学者** 认为把插座、电线、电脑和量规与人类等同，会陷入拜物教式的物化陷阱，消解了跨国资本的主观蓄意剥削与阶级统治责任。
 > > - **Bruno Latour (2004)** 强调没有非人类客体的参与，人类甚至无法维持一分钟的社会秩序；客体的抗拒、固化与传导是社会权力效果能够持久稳定的物理底座。（Latour, 2004, 引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, p. 8]]）
->
+> >
 > > [!axis] 微观经验[[Rich and Thick Description|深描]] vs 宏观阶级与资本主义总体性
 > > 争论 ANT 的局域追踪是否回避了深层宏观结构与资本主义积累危机。
 > > - **批判政治经济学者** 批评 ANT 沉迷于描摹局域异质链条，缺乏对全球资本主义体系与宏观国家机器强制垄断本质的批判纵深。
@@ -221,6 +242,7 @@ updated: 2026-09-18
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 整合 ANT [[Center of Calculation|计算中心]]理论与[[Topological Spatialisation|拓扑空间]]学，深入剖析[[Gesamtstrategie zum Bildungsmonitoring|德国国家教育监测总体战略]]、[[Institute for Educational Quality Improvement|IQB]] 计算中心及 [[Vergleichsarbeiten|VERA]] 测评基础设施如何实现跨尺度的[[Governing at a Distance|远处治理]]与政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 结合 ANT、[[Network Ethnography|网络民族志]]与耐用材料[[Assemblage|装配]]视角，解构澳大利亚 [[Australian Education Research Organisation|AERO]] 国家证据中介背后的《公司法》注册底座、董事会跨界[[Co-affiliation|共同从属]]及麦肯锡系[[Venture Philanthropy|风险慈善]]渗透网络。
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 借助 ANT 的多行动者[[Transfer Translation Transformation|转译]]模型，剖析国家内部[[Policy Network|政策网络]]如何在多方博弈中折射并[[Going Native|本土化]]转译 [[OECD]] [[PISA]] 评估信息。

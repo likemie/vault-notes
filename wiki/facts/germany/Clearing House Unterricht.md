@@ -10,7 +10,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -59,6 +59,7 @@ related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[Qualitätsoffensive Lehrerbildung]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
+  - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -81,7 +82,7 @@ updated: 2026-09-18
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的学术性[[Educational Evidence Clearinghouses|教育证据清算中心]]与教育[[Educational Brokerage Agency|知识中介机构]]。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点聚焦数学、信息学、自然科学与技术［Mathematik, Informatik, Naturwissenschaften und Technik, MINT］学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB|(Knogler et al., 2025, pp. 13–14)]]
+> 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的学术性[[Educational Evidence Clearinghouses|教育证据清算中心]]与教育[[Educational Brokerage Agency|知识中介机构]]。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点[[FocusMath|聚焦数学]]、信息学、自然科学与技术［Mathematik, Informatik, Naturwissenschaften und Technik, MINT］学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB|(Knogler et al., 2025, pp. 13–14)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 机构于 2017 年正式上线运行，创设背景在于德语区长期缺乏[[Going Native|本土化]]教育证据清算中介，且实证教育研究[[Document|文献]]激增与中小学一线教学实践之间存在深刻的[[Research-Practice Gap|研究-实践鸿沟]]（Transferproblem）。
@@ -130,7 +131,7 @@ updated: 2026-09-18
 > [!contrast-table] CHU x ZIB 宏微观双轨[[Knowledge Mediation|知识中介]]协同架构
 > | 比较与协同维度 | ZIB 宏观系统监测端 | CHU 微观教学转化端 |
 > |---|---|---|
-> | **依托实体与定位** | 慕尼黑工业大学 + 莱布尼茨学会（DIPF / IPN）国家联合体 | 慕尼黑工业大学教师教育与教学研究团队 |
+> | **依托实体与定位** | 慕尼黑工业大学 + 莱布尼茨学会（[[Leibniz Institute for Educational Research and Educational Information\|DIPF]] / IPN）国家联合体 | 慕尼黑工业大学教师教育与教学研究团队 |
 > | **核心供给知识** | **系统知识与解释性知识（System- und Erklärungswissen）** | **行动知识与变革性知识（Handlungs- und Veränderungswissen）** |
 > | **回应核心关切** | 德国教育系统现状如何？薄弱学科与社会不平等机制何在？ | 一线课堂教学如何有效改进？针对薄弱点的因果策略是什么？ |
 > | **证据来源与形态** | [[OECD]] [[PISA]] 德国国家调查测评数据、背景[[Questionnaire\|问卷]]与多水平统计建模 | 国际前沿因果同行评审元分析、德语 Kurzreviews 与实操评分表 |

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 136
+argument_related_count: 137
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -76,6 +76,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Creativity]]"
   - "[[Falsification]]"
+  - "[[Refutational Evidence]]"
   - "[[Literature Search]]"
   - "[[Problem Solving]]"
   - "[[Cross-cultural Validity]]"
@@ -116,7 +117,6 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
   - "[[Thomas Theorem]]"
-  - "[[Item Response Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
@@ -163,6 +163,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Participant Observation]]"
   - "[[Observation Method]]"
+  - "[[Item Response Theory]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Accounts]]"
 related_facts:
@@ -172,7 +173,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-08-29
+updated: 2026-09-18
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10
 
@@ -433,7 +434,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 >
 >   **应对策略** 设定更严格的显著性水平。将 α 从 ρ < 0.05 降低到 ρ < 0.01，可以降低第一类错误发生的概率，但代价是增加第二类错误的风险。
 > - **第二类错误（Type II error）**
->   接受了实际上不为真的零假设。Mitchell & Jolley (1988, p. 121) 的类比是相当于**放过有罪者（finding a guilty person innocent）**。例如，新教学法实际上确实能提升 0.3 SD 的学习效果，但由于样本太小或测量工具信度不足，研究未能检测到这一真实差异，错误地得出"新教学法与传统教学法无显著差异"的结论。
+>   接受了实际上不为真的零假设。其类比则是相当于**放过有罪者（finding a guilty person innocent）**。例如，新教学法实际上确实能提升 0.3 SD 的学习效果，但由于样本太小或测量工具信度不足，研究未能检测到这一真实差异，错误地得出"新教学法与传统教学法无显著差异"的结论。
 >
 >   Boruch (1997, p. 211) 指出第二类错误可能在以下四种情况下发生：（a）对干预反应的测量效度不足；（b）干预的测量相关性不足；（c）实验的统计效力（statistical power）太低；（d）选择了错误的研究总体。
 >
@@ -633,7 +634,7 @@ Scheurich (1996) 提出了一个更为激进的反思：效度不过是实际上
 >
 > 这个例子虽然极端，但精确地说明了构念效度的核心问题：**我对这个构念的理解是否与被普遍接受的该构念的理解一致？**要建立构念效度，我需要确保我对特定议题的构造与其他对同一底层议题的构造或理论（如智力、[[Creativity|创造力]]、焦虑、动机）**一致（p.176）**。
 
-构念效度不仅需要确认建构与相关文献一致，还需要**寻找反例**——可能[[Falsification|证伪]]我的构造的反例。只有平衡了确认性和反驳性证据后，才能证明构念效度。在存在冲突解释时，可能需要承认冲突并明确规定将采用的解释。
+构念效度不仅需要确认建构与相关文献一致，还需要**寻找反例**——可能[[Falsification|证伪]]我的构造的反例。只有平衡了确认性和[[Refutational Evidence|反驳性证据]]后，才能证明构念效度。在存在冲突解释时，可能需要承认冲突并明确规定将采用的解释。
 
 **量化构念效度**可通过与其他测量该问题的方法进行相关分析，或将建构扎根于广泛的[[Literature Search|文献检索]]来实现（pp.176–177）。Campbell & Fiske (1959)、Brock-Utne (1996) 和 Cooper & Schindler (2001) 建议通过**收敛技术**和**区分技术**来解决构念效度。因子分析（factor analysis）也可产生区分效度——它将相似议题聚集在一起，并将它们与其他议题分开。
 
@@ -1550,7 +1551,7 @@ Plummer (1983) 提供了四种效度检查：
 > [!citation-card]- [[Qualitative Reliability|质性信度]]作为吻合度
 > 在质性研究中，信度可被视为研究者记录为数据的内容和在被研究的自然情境中实际发生的内容之间的吻合度——即一定程度的准确性和覆盖面的全面性。（第10章, p.205）
 >
-> *In qualitative research reliability can be regarded as a fit between what researchers record as data and what actually occurs in the natural setting that is being [[ResearchED]], i.e. a degree of accuracy and comprehensiveness of coverage (Bogdan and Biklen, 1992, p. 48).*
+> *In qualitative research reliability can be regarded as a fit between what researchers record as data and what actually occurs in the natural setting that is being [[ResearchED]], i.e. a degree of accuracy and comprehensiveness of coverage (Bogdan & Biklen, 1992, p. 48).*
 
 > [!citation-card]- Kitwood 的信度-效度矛盾
 > 通过理性化增强"信度"的程度越高，"效度"就越低。因为在研究中使用访谈的主要目的正是相信在**人际相遇**中，人们比在更少人性的情境中更可能披露自身的方方面面……换言之，访谈中独特的人性元素对其"效度"是必要的。（第10章, p.213）

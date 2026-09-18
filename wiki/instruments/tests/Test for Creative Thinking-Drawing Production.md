@@ -8,7 +8,7 @@ aliases:
 summary: "由乌尔班与耶伦开发的高信度非言语创造力测验，通过6个给定的不规则图形碎片诱发被试的整体性图画创作，从14个维度综合评估个体的图形创造力与构想突破能力。"
 type: instrument
 instrument_type: test
-instrument_related_count: 3
+instrument_related_count: 4
 instrument_related_level: 0
 instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Creativity]]"
+  - "[[Topological Spatialisation]]"
 related_theories: []
 related_methods:
   - "[[Pre-test and Post-test]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-18
 ---
 
 # Test for Creative Thinking-Drawing Production
@@ -50,7 +51,7 @@ updated: 2026-09-03
 > [!instrument-profile] Test for [[Creativity|creative thinking]]-Drawing Production (TCT-DP)
 > - **工具类型** 非言语图形创造力表现测验（整体性产品创作测验）。
 > - **开发者与年份** Urban & Jellen (1986, 1996)。
-> - **测量目的** 评估个体的图形创造力潜能、空间拓扑重组与打破框架定势的能力；有效避免语言流畅性与文化背景偏倚。
+> - **测量目的** 评估个体的图形创造力潜能、空间[[Topological Spatialisation|拓扑重组]]与打破框架定势的能力；有效避免语言流畅性与文化背景偏倚。
 > - **实施方式** 纸笔个别或团体施测（单张画纸，建议用时约 15 分钟）。
 
 ---

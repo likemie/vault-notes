@@ -9,10 +9,10 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；并非静态信息管道，而是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -23,11 +23,13 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Comparative Case Study]]"
   - "[[Effect Size]]"
+  - "[[Case Study]]"
   - "[[In-depth Interview]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
+  - "[[Argument_Hartong_2018_GSE]]"
 related_concepts:
   - "[[Assemblage]]"
   - "[[Ontology]]"
@@ -36,13 +38,21 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[School Inspection]]"
   - "[[Data Literacy]]"
+  - "[[Topological Spatialisation]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
+  - "[[Center of Calculation]]"
 related_persons:
   - "[[Rob Kitchin]]"
 related_facts:
+  - "[[PISA]]"
+  - "[[Vergleichsarbeiten]]"
+  - "[[Institute for Educational Quality Improvement]]"
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
+related_theories:
+  - "[[Governing at a Distance]]"
 confidence: high
 status: stable
 created: 2026-09-18
@@ -63,7 +73,7 @@ updated: 2026-09-18
 > - **用途** 破解将数字化系统视为纯粹客观中立黑箱的迷思，揭示算法过滤、单一事实设定与界面呈现背后的权力运作。
 > - **边界** 区别于物理服务器与数据库等单一硬件设备；数据基础设施聚焦由多元行动者、制度规则、数据业务逻辑与社会实践共同构成的动态装配网络。
 
-> [!citation-card] [[Rob Kitchin|基钦]]论数据基础设施的装配属性
+> [!citation-card] 罗布·[[Rob Kitchin|基钦]]论数据基础设施的装配属性
 > 数据基础设施绝非中立的管道，而是深植于政治经济诉求与治理意图之中的复杂汇聚体；它们不仅塑造了什么问题可以被提出以及如何被解答，更深刻界定了究竟由谁来代表被分析对象发声。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, p. 10)]]
 >
 > *As Kitchin & Lauriault (2014) state, data infrastructures are always expressions of knowledge/power, shaping what questions can be asked, how they are asked, how they are answered, how the answers are deployed, and who can ask them.*
@@ -77,12 +87,12 @@ updated: 2026-09-18
 ## 概念辨析
 
 > [!contrast-table] 数据基础设施与相近概念辨析
-| 维度 | 本概念：数据基础设施（Data Infrastructure） | 教育管理信息系统（Education Management Information System, EMIS） | 商业教育数字平台（Digital Platforms） |
-|---|---|---|---|
-| **[[Ontology\|本体论]]定位** | 开放、演化且高度纠缠价值立场的社会-技术[[Assemblage\|装配]]网络 | 封闭、静态、预设为客观中立的行政事务管理工具 | 以资本盈利与用户粘性为导向的商业化数字中介 |
-| **核心机制** | 数据的去情境化抽取、算法[[Commensuration\|通约]]折算与分层再呈现 | 事实信息的层级流转、格式化归档与事务性统计输出 | 用户行为追踪、算法推荐、私有化协议与数据资产变现 |
-| **[[Knowledge Production\|知识生产]]方式** | 充满妥协的试错调配（cooking）与多方利益拉锯 | 严格遵循预设业务逻辑与法条规章的标准录入与查询 | 基于黑箱算法与私有代码的自动化数据挖掘与预测 |
-| **权力效应** | 制造次级代表表象，通过算法指标弥散性重塑治理能见度 | 维持科层制组织内部既有的行政汇报层级与监督权威 | 培育对商业平台的生态依赖，蚕食公共教育主权 |
+> | 维度 | 本概念：数据基础设施（Data Infrastructure） | 教育管理信息系统（Education Management Information System, EMIS） | 商业教育数字平台（Digital Platforms） |
+> |---|---|---|---|
+> | **[[Ontology\|本体论]]定位** | 开放、演化且高度纠缠价值立场的社会-技术[[Assemblage\|装配]]网络 | 封闭、静态、预设为客观中立的行政事务管理工具 | 以资本盈利与用户粘性为导向的商业化数字中介 |
+> | **核心机制** | 数据的去情境化抽取、算法[[Commensuration\|通约]]折算与分层再呈现 | 事实信息的层级流转、格式化归档与事务性统计输出 | 用户行为追踪、算法推荐、私有化协议与数据资产变现 |
+> | **[[Knowledge Production\|知识生产]]方式** | 充满妥协的试错调配（cooking）与多方利益拉锯 | 严格遵循预设业务逻辑与法条规章的标准录入与查询 | 基于黑箱算法与私有代码的自动化数据挖掘与预测 |
+> | **权力效应** | 制造次级代表表象，通过算法指标弥散性重塑治理能见度 | 维持科层制组织内部既有的行政汇报层级与监督权威 | 培育对商业平台的生态依赖，蚕食公共教育主权 |
 
 ---
 
@@ -96,7 +106,7 @@ updated: 2026-09-18
 
 > [!logic-map]- 要素关系与数据流转网络
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["基层学校与学区信息系统<br>(SIS / 原始数据中介)"] -->|抽取与标准化上报| B["数据校验与中央仓储层<br>(业务规则清洗 / 冻结为单一事实)"]
 >     B -->|调取与算法加权| C["统计分析与预测建模层<br>(通约指标 / 早警模型 / 社会指数)"]
 >     C -->|分层定制输出| D["知识呈报与交互应用层<br>(宏观监管 / 公开报表 / 学校仪表盘)"]
@@ -142,11 +152,11 @@ updated: 2026-09-18
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-| 命题类型 | 核心指向 | 适用情境 | 代表学者 |
-|---|---|---|---|
-| **[[Assemblage\|装配]]实践命题** | 基础设施是由算法代码、检索程序与即兴试错调配持续维系的动态网络 | 州级教育监测系统建构、数据库底层清洗核验与日常运维 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]]; Williamson (2017) |
-| **治理张力命题** | 数据系统必然在简化、[[Commensuration\|通约]]、时效、公开与博弈五维两难中求取妥协 | 绩效仪表盘设计、社会经济指数编制、资源分配与高利害问责 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] |
-| **权力重构命题** | 基础设施通过次级表象行使分布式权力，呼唤培育数据基础设施素养 | 批判性教育治理研究、教育算法审计、公民与师生民主参与 | Kitchin (2014); Gray et al. (2018); [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **[[Assemblage\|装配]]实践命题** | 基础设施是由算法代码、检索程序与即兴试错调配持续维系的动态网络 | 州级教育监测系统建构、数据库底层清洗核验与日常运维 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]]; Williamson (2017) |
+> | **治理张力命题** | 数据系统必然在简化、[[Commensuration\|通约]]、时效、公开与博弈五维两难中求取妥协 | 绩效仪表盘设计、社会经济指数编制、资源分配与高利害问责 | Hartong & Förschler; Ozga (2009) |
+> | **权力重构命题** | 基础设施通过次级表象行使分布式权力，呼唤培育数据基础设施素养 | 批判性教育治理研究、教育算法审计、公民与师生民主参与 | Kitchin (2014); Gray et al. (2018) |
 
 ---
 
@@ -154,9 +164,9 @@ updated: 2026-09-18
 
 > [!dev-timeline] 数据基础设施的概念演进
 > - **1990s — 信息基础设施与科学学起源** Bowker & Star (1999) 奠定基础设施研究基石，指出分类标准、[[Coding in Qualitative Research|编码]]规程与信息管道构成了现代社会不可见的隐性秩序基底。
-> - **2014 — 批判性数据研究与数据汇聚体提出** [[Rob Kitchin]] 提出数据汇聚体（Data [[Assemblage]]）框架，强调数据系统是围绕思想观念、法律规章、技术代码与物质财富动态结网的权力系统。
-> - **2017 — 数字教育治理与平台基础设施化** Ben Williamson 系统将批判性数据基础设施理论引入教育学，揭示商业科技公司与全球政策智库如何通过算法管道重构教育决策。
-> - **2018 — 联邦多级教育政策的拓扑重组** [[Argument_Hartong_2018_GSE|Hartong (2018)]] 结合装配理论与[[Topological Spatialisation|拓扑空间化]]，揭示德国在 PISA 震荡后如何通过国家标准题库、VERA 统一测试与 [[Institute for Educational Quality Improvement|IQB]] 建设跨尺度绩效数据基础设施，在分权体制中实现远处治理。
+> - **2014 — 批判性数据研究与数据汇聚体提出** 罗布·[[Rob Kitchin|基钦]]（Rob Kitchin）提出数据汇聚体（Data [[Assemblage]]）框架，强调数据系统是围绕思想观念、法律规章、技术代码与物质财富动态结网的权力系统。
+> - **2017 — 数字教育治理与平台基础设施化** 本·威廉姆森（Ben Williamson, 2017）系统将批判性数据基础设施理论引入教育学，揭示商业科技公司与全球政策智库如何通过算法管道重构教育决策。
+> - **2018 — 联邦多级教育政策的[[Topological Spatialisation|拓扑重组]]** [[Argument_Hartong_2018_GSE|Hartong (2018)]] 结合装配理论与[[Topological Spatialisation|拓扑空间化]]，揭示德国在 [[PISA]] 震荡后如何通过国家标准题库、[[Vergleichsarbeiten|VERA]] 统一测试与 [[Institute for Educational Quality Improvement|IQB]] 建设跨尺度绩效数据基础设施，在分权体制中实现[[Governing at a Distance|远处治理]]。
 > - **2019 — 州级教育行政机构数据黑箱的经验拆解** [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] 开展美德跨国[[Comparative Case Study|比较案例研究]]，系统勾勒出四级技术架构与做数据五维治理张力，并倡导培育数据基础设施素养。
 
 ---
@@ -194,7 +204,7 @@ updated: 2026-09-18
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hartong_2018_GSE\|Hartong (2018, pp. 140–145)]] | 德国 16 个联邦州、[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 与[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB） | 纵向多层级质性[[Case Study\|案例研究]]与专家访谈 | 跨尺度测评网络、题库数字化与中央数据库集成 | VERA 测评自 2004 年后覆盖全德 16 州；IQB 在 FDZ 统筹集成国内外多源大规模评估数据库并运营标准教学任务平台 | 质性规程与机制追踪 | 证实数据基础设施在法律禁止公开排名的环境下依然能够重构治理拓扑并实现远处治理 |
+> | [[Argument_Hartong_2018_GSE\|Hartong (2018, pp. 140–145)]] | 德国 16 个联邦州、[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 与[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB） | 纵向多层级质性[[Case Study\|案例研究]]与专家访谈 | 跨尺度测评网络、题库数字化与中央数据库集成 | [[Vergleichsarbeiten\|VERA]] 测评自 2004 年后覆盖全德 16 州；IQB 在 FDZ 统筹集成国内外多源大规模评估数据库并运营标准教学任务平台 | 质性规程与机制追踪 | 证实数据基础设施在法律禁止公开排名的环境下依然能够重构治理拓扑并实现[[Governing at a Distance\|远处治理]] |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, p. 3)]] | 美国[[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）、德国汉堡市学校与职业教育局（BSB）及[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ） | 跨国[[Comparative Case Study\|比较案例研究]]与半结构化专家访谈 | 基础设施运作节点、数据流转规程与官员认知张力 | 开展 16 场[[In-depth Interview\|深度访谈]]（涵盖 20 位州级专业数据与政策官员）；确认数据流转贯穿采集、校验、建模与呈报四级架构 | 质性深度饱和 | 揭示了美德先锋州在全域数据化监测中普遍遭遇的五维做数据张力，证实系统非线性烹饪本质 |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, pp. 6–7)]] | 马萨诸塞州 RADAR 系统与汉堡社会指数（Hamburger Sozialindex） | 政策技术规程与在线仪表盘系统实证分析 | 统计对标算法推荐上限与社会指数分级体系 | RADAR 系统默认向学区推荐 10 所跨地域人口统计特征相似的学区展开资源对标；汉堡社会指数设立 1–6 级阶梯作为资源倾斜与统计基准 | 法定技术规程 | 呈现[[Commensuration\|通约]]算法在基层遭遇的地域文化抵制及行政系统的妥协应对 |
 
@@ -203,7 +213,7 @@ updated: 2026-09-18
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 系统解剖德国建立跨尺度绩效数据基础设施与国家计算中心的演化过程，论证数据流动如何促成教育政策的拓扑学重组。
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 系统解剖德国建立跨尺度绩效数据基础设施与国家[[Center of Calculation|计算中心]]的演化过程，论证数据流动如何促成教育政策的[[Topological Spatialisation|拓扑学重组]]。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 比较美德两地州级教育监测系统，全景剖析数据基础设施的四级技术架构与五维治理张力，首倡培育面向社会-技术系统的数据基础设施素养。
 > - Kitchin (2014) — 经典奠定数据汇聚体（Data [[Assemblage]]）批判性[[Analytic Framework|分析框架]]，系统阐释技术代码、法律规范与国家权力的动态结网机制。
 > - Williamson (2017) — 深入剖析数字教育治理中算法、平台中介与私营科技资本构筑的教育数据基础设施网络。

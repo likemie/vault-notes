@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 77
+related_count: 79
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -27,10 +27,11 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Policy Entrepreneur]]"
   - "[[Value Neutrality]]"
+  - "[[Document]]"
+  - "[[Paradigm]]"
   - "[[Educational Meliorism]]"
   - "[[Commensuration]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Paradigm]]"
   - "[[Center of Calculation]]"
   - "[[Policy Mobility]]"
   - "[[Cross-National Attraction]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Policy Avoidance]]"
   - "[[Chain of Evidence]]"
   - "[[Re-Westernisation]]"
+  - "[[PISA Shock]]"
   - "[[Concept Mapping]]"
   - "[[Rashomon Effect]]"
   - "[[Realism in International Relations]]"
@@ -54,13 +56,13 @@ related_concepts:
   - "[[Network Governance]]"
 related_theories:
   - "[[World Society Theory]]"
-  - "[[Item Response Theory]]"
   - "[[Governing at a Distance]]"
   - "[[Autopoiesis]]"
   - "[[Orientalism]]"
   - "[[Transitology]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Item Response Theory]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Horace Mann]]"
@@ -123,7 +125,7 @@ updated: 2026-09-18
 > - **用途** 帮助研究者解构教育改革中“方案先行、问题后建”的政治修辞，辨识政策引进背后的真实国内政治考量、国家建制诉求与合法性焦虑。
 > - **边界** 不适合解释没有国内合法化协商需求的单方面强权命令推行，也不等同于[[Value Neutrality|价值中立]]、客观理性的纯技术学习。
 
-为深化对政策借用本质的理解，下述经典文献确立了该概念在不同历史阶段与理论范式下的核心论断：
+为深化对政策借用本质的理解，下述经典[[Document|文献]]确立了该概念在不同历史阶段与理论[[Paradigm|范式]]下的核心论断：
 
 > [!citation-card] 吉塔·施泰纳-哈姆西论政策借用的政治合法化外化机制
 > 决策者通常被认为是在动用广泛传播的全球话语，来合法化和推广那些在国内存在争议的议程。（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]；引自 Steiner-Khamsi, 2012）
@@ -161,7 +163,7 @@ updated: 2026-09-18
 
 ## 概念辨析
 
-通过对比比较教育与全球治理研究中的主流范式，可以清晰辨析政策借用在分析对象、空间假设与技术中介上的独特理论定位。
+通过对比比较教育与全球治理研究中的主流[[Paradigm|范式]]，可以清晰辨析政策借用在分析对象、空间[[Hypothesis|假设]]与技术中介上的独特理论定位。
 
 > [!contrast-table] 政策借用与相关跨国政策分析[[Paradigm|范式]]辨析
 > | 维度 | 本概念：政策借用（Policy Borrowing） | [[World Society Theory\|世界文化理论]] | 政策转移（Policy Transfer） | [[Assemblage\|政策装配]]与拓扑重组（Policy Assemblage） |
@@ -182,14 +184,14 @@ updated: 2026-09-18
 > - **[[Externalization|外化]]机制** 决策者将内部改革需求投射到“国际趋势”或“传统”参照系中，使国内反对者难以抗拒（[[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230]]）。
 > - **政治合法化功能** 借用具有高国际声望的教育话语为争议性国内决定提供正当性护航（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]）。
 > - **方案先行与问题后建** 决策者往往在引入国际参照前已确定改革方案，随后才建构与之匹配的“体系陈旧”问题（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]]）。
-> - **四阶段生命周期** 政策流动涵盖[[Cross-National Attraction|跨国吸引力]]、决策、实施到内化／[[Going Native|本土化]]的完整发展历程（[[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 225]]）。
-> - **形态变异与转译** 借用的教育政策元素在进入本地语境后，发生实质性的形态翻译与功能[[Transfer Translation Transformation|转译]]（[[Argument_Cowen_2009_CE|Cowen, 2009b, pp. 319–320]]）。
+> - **四阶段生命周期** [[Policy Mobility|政策流动]]涵盖[[Cross-National Attraction|跨国吸引力]]、决策、实施到内化／[[Going Native|本土化]]的完整发展历程（[[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 225]]）。
+> - **形态变异与[[Transfer Translation Transformation|转译]]** 借用的教育政策元素在进入本地语境后，发生实质性的形态翻译与功能[[Transfer Translation Transformation|转译]]（[[Argument_Cowen_2009_CE|Cowen, 2009b, pp. 319–320]]）。
 > - **吸引力修辞火花** 政策辩论中使用外国范例的四种动机：丑闻化、合法化、警示与颂扬（[[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]]）。
-> - **社会-物质政策装配** 借用不仅是文本与话语的借调，更是测试软件、题库与[[Data Infrastructure|数据基础设施]]的物理装配（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 137–138]]）。
+> - **社会-物质[[Assemblage|政策装配]]** 借用不仅是文本与话语的借调，更是测试软件、题库与[[Data Infrastructure|数据基础设施]]的物理装配（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 137–138]]）。
 
 上述各要素在话语修辞与物质装配两个层面上相互咬合，共同构成了政策借用的动态运行机制：
 
-> [!logic-map] 政策借用与拓扑重组动力学机制
+> [!logic-map] 政策借用与[[Topological Spatialisation|拓扑重组]]动力学机制
 > ```mermaid
 > flowchart LR
 >     subgraph 话语与合法化环 ["话语借用与政治合法化循环"]
@@ -254,7 +256,7 @@ updated: 2026-09-18
 在生命周期的不同时段，行动者的主导力量与关注焦点存在显著差异：
 
 > [!layer] 政策流动中的行动者能动性向度
-> > [!col-l] 前转移能动性（Pre-Transfer Agency）
+> > [!col-l] [[Pre-Transfer Agency|前转移能动性]]（Pre-Transfer Agency）
 > > 外国范例引入之初的引入者及其动机，涉及高级官员、[[Policy Entrepreneur|政策企业家]]、智库专家与跨国评估发布方，侧重国际话语的引介与国内正当性辩护。（[[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]]）
 >
 > > [!col-r] 后转移能动性（Post-Transfer Agency）
@@ -297,7 +299,7 @@ updated: 2026-09-18
 
 ## 围绕概念形成的命题
 
-围绕政策借用的发生动力、合法化机制、微观转译与适用边界，学界形成了五类系统性的理论命题。
+围绕政策借用的发生动力、合法化机制、微观[[Transfer Translation Transformation|转译]]与适用边界，学界形成了五类系统性的理论命题。
 
 ---
 
@@ -368,7 +370,7 @@ updated: 2026-09-18
 > 探讨在大规模数据基础设施与国际基准渗透下，政策借用如何超越传统的国家间文本与话语借调，演变为跨尺度社会-物质复合体的实时装配。
 
 > [!claim] [[Sigrid Hartong|Hartong, S.]]
-> **从话语借用到拓扑数据装配** 数字化时代的政策借用不再局限于宏观政策话语的策略性引用，而是依托跨尺度数据基础设施展开实质性的[[Topological Spatialisation|拓扑空间化]]重组。以经历 2000 年 PISA 震荡（PISA shock）后的德国教育监测改革为例，德国并未简单照搬 OECD 或英美市场的外部高利害问责模式，而是在各州文化主权与禁止学校排名的强宪制约束下，由 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 设立[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]，通过统一国家标准题库、接管 [[Vergleichsarbeiten|VERA]] 测试以及运营研究数据中心（FDZ），将跨国（PISA、[[TIMSS]]）与国内微观数据打通。这一过程表明，政策借用已转化为一种复合的政策装配（Policy Assemblage）：外部国际基准通过数字化练习平台与心理测量学算法直接折叠进一线教师的微观教学之中，在保持分权法治表象的同时达成了实质性的跨尺度远距离治理。（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 135–138, 144–146]]）
+> **从话语借用到拓扑数据装配** 数字化时代的政策借用不再局限于宏观政策话语的策略性引用，而是依托跨尺度数据基础设施展开实质性的[[Topological Spatialisation|拓扑空间化]]重组。以经历 2000 年 PISA 震荡（[[PISA Shock]]）后的德国教育监测改革为例，德国并未简单照搬 OECD 或英美市场的外部高利害问责模式，而是在各州文化主权与禁止学校排名的强宪制约束下，由 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 设立[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]，通过统一国家标准题库、接管 [[Vergleichsarbeiten|VERA]] 测试以及运营教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），将跨国（PISA、[[TIMSS]]）与国内微观数据打通。这一过程表明，政策借用已转化为一种复合的政策装配（Policy Assemblage）：外部国际基准通过数字化练习平台与心理测量学算法直接折叠进一线教师的微观教学之中，在保持分权法治表象的同时达成了实质性的跨尺度远距离治理。（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 135–138, 144–146]]）
 
 ---
 
@@ -387,7 +389,7 @@ updated: 2026-09-18
 
 ## 概念演变
 
-政策借用概念经历了两百年的理论演进，从 19 世纪的法律与实绩移植，发展为当代的政治合法化批判与拓扑数据装配。
+政策借用概念经历了两百年的理论演进，从 19 世纪的法律与实绩移植，发展为当代的政治合法化批判与拓扑数据[[Assemblage|装配]]。
 
 > [!dev-timeline] 政策借用概念的理论演变
 > - **1830–1850 — 19世纪行政实定法转置与政治合法化先声** 跨大西洋两岸借用机制发生深刻分流：欧陆由[[Victor Cousin|维克多·库森]]以审慎借用准则将普鲁士 1819 年[[Prussian Draft Education Law of 1819|聚芬法案]]技术条款直接法典化为法国 1833 年[[Guizot Law of 1833|基佐法案]]的实定法直接转置模式；北美由[[Horace Mann|霍勒斯·曼]]以“示警烽火与引路明灯”辩证剥离专制外壳，开创将外国公学实绩作为击败国内反对派政治合法化依据（legitimating rationales）的模式。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 24–34]]）
@@ -408,7 +410,7 @@ updated: 2026-09-18
 
 ## 争议与批评
 
-围绕政策借用的理论驱动力、研究范式以及方法论局限，学术界存在持续深入的讨论。
+围绕政策借用的理论驱动力、[[Paradigm|研究范式]]以及方法论局限，学术界存在持续深入的讨论。
 
 > [!debates] 学术争议
 >
@@ -439,7 +441,7 @@ updated: 2026-09-18
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 批判正统政策借用与新制度主义对微观技术物质性的忽视，以德国 [[PISA]] 震荡后教育监测改革为例，揭示跨尺度[[Data Infrastructure|数据基础设施]]与[[Center of Calculation|计算中心]]如何实现教育政策的拓扑学重组。
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 批判正统政策借用与新制度主义对微观技术物质性的忽视，以德国 [[PISA]] 震荡后教育监测改革为例，揭示跨尺度[[Data Infrastructure|数据基础设施]]与[[Center of Calculation|计算中心]]如何实现教育政策的[[Topological Spatialisation|拓扑学重组]]。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统剖析 19 世纪欧美跨国借用的机制分野：[[Victor Cousin|维克多·库森]]在法国推行的普鲁士教育法案“实定法直接转置”模式，与[[Horace Mann|霍勒斯·曼]]在北美将普鲁士公学实绩作为反击保守派的“政治合法化论证依据”模式。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 构建[[Cross-National Attraction|跨国吸引力]]情境[[Concept Mapping|概念地图]]，剖析[[Pre-Transfer Agency|前转移能动性]]与吸引力四种修辞动机，并以甲午战争后中国晚清改革派与保守派基于不同政治动机共同借用日本教育体制为例展开实证分析。
 > - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 建立“转移—[[Transfer Translation Transformation|转译]]—形态变异”分析视角，论证教育政策元素在跨国流动中受微观权力与时空重构必然发生实质形态改变。

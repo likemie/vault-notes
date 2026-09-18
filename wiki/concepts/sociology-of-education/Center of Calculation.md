@@ -35,10 +35,10 @@ related_concepts:
   - "[[Variable]]"
 related_theories:
   - "[[Actor-Network Theory]]"
-  - "[[Item Response Theory]]"
   - "[[Governmentality]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Item Response Theory]]"
   - "[[Effect Size]]"
   - "[[Expert Interview]]"
   - "[[Correlational Research]]"
@@ -103,13 +103,13 @@ updated: 2026-09-18
 
 > [!feature] 计算中心运转的核心机制构件
 > - **标准化数据表征的生产（Production of Mobile Inscriptions）** 复杂的教学过程无法直接搬运到中心；计算中心必须通过统一题库、标准试卷和评分量规，将学生的即时表现转化为在纸张和网络中自由移动且结构不变的量化数据记录（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 138]]）。
-> - **数据的集约化汇聚与多源组合（Accumulation & Combinability）** 中心建立大规模研究数据中心（如 [[Institute for Educational Quality Improvement|IQB]] 设立的 Research Data Centre, FDZ），将本国标准测评（[[Vergleichsarbeiten|VERA]]、Ländervergleich）与国际大型测评（[[PISA]]、[[TIMSS]]）在同一底层架构中合并二次建模（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 144]]）。
+> - **数据的集约化汇聚与多源组合（Accumulation & Combinability）** 中心建立大规模研究数据中心（如 [[Institute for Educational Quality Improvement|IQB]] 设立的教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）），将本国标准测评（[[Vergleichsarbeiten|VERA]]、Ländervergleich）与国际大型测评（[[PISA]]、[[TIMSS]]）在同一底层架构中合并二次建模（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 144]]）。
 > - **全域常模与素养水平标定（Metric Standardisation & Scale Linking）** 运用[[Item Response Theory|项目反应理论]]（Item Response Theory, IRT）等高级统计技术，建立跨时间、跨区域均可对标的全国统一素养层级尺度（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 140–141]]）。
-> - **远程干预与标准推送闭环（Projection of Norms & Tasks）** 通过数字化任务平台向一线教师直接推送符合国家标准的备考与练习题，将微观课堂教学行为拉回国家中心设定的轨道（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 145]]）。
+> - **远程干预与标准推送反馈（Projection of Norms & Tasks）** 通过数字化任务平台向一线教师直接推送符合国家标准的备考与练习题，将微观课堂教学行为拉回国家中心设定的轨道（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 145]]）。
 
 > [!logic-map]- 计算中心的[[Transfer Translation Transformation|转译]]与远距离治理循环
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["微观分散的学校与课堂"] -->|1. 施测与标准化抽取| B["流动且稳定的标准化数据表征<br>(测验得分 / 背景问卷)"]
 >     B -->|2. 汇聚与入库| C["计算中心 (如 IQB / OECD)<br>(多源清洗 / IRT 标定 / 统计建模)"]
 >     C -->|3. 生产治理知识| D["全国/跨国比较基准与素养层级报告<br>(趋势对比 / 达标率)"]

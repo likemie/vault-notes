@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -36,9 +36,9 @@ related_concepts:
   - "[[Topological Spatialisation]]"
   - "[[Document]]"
 related_theories:
-  - "[[Item Response Theory]]"
   - "[[Governing at a Distance]]"
-related_methods: []
+related_methods:
+  - "[[Item Response Theory]]"
 related_persons:
   - "[[Sigrid Hartong]]"
 related_facts:
@@ -50,6 +50,8 @@ related_facts:
   - "[[PIRLS]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
+  - "[[Leibniz Institute for Educational Research and Educational Information]]"
+  - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
 related_arguments:
   - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Dedering_2009_EERJ]]"
@@ -66,7 +68,7 @@ updated: 2026-09-18
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 德国教育质量发展研究所（Institut zur Qualitätsentwicklung im Bildungswesen, IQB）是德意志联邦共和国 16 个联邦州依据各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）决议于柏林洪堡大学联合创设的国家级专业科学研究机构。作为[[Gesamtstrategie zum Bildungsmonitoring|德国国家教育监测总体战略]]（[[Gesamtstrategie zum Bildungsmonitoring]]）的学术中枢与核心研发基地，IQB 承担着研发国家教育标准测评工具、实施联邦州学业达标水平比较、统筹全德[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA）题库以及维护全国教育研究数据中心（Research Data Centre, FDZ）的核心使命，在德国联邦分权治理体制中扮演了联结跨国、国家、州级与微观学校的国家[[Center of Calculation|计算中心]]角色（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 140–145]]；[[Argument_Dedering_2009_EERJ|Dedering, 2009, p. 484]]）。
+> 德国教育质量发展研究所（Institut zur Qualitätsentwicklung im Bildungswesen, IQB）是德意志联邦共和国 16 个联邦州依据各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）决议于柏林洪堡大学联合创设的国家级专业科学研究机构。作为[[Gesamtstrategie zum Bildungsmonitoring|德国国家教育监测总体战略]]（[[Gesamtstrategie zum Bildungsmonitoring]]）的学术中枢与核心研发基地，IQB 承担着研发国家教育标准测评工具、实施联邦州学业达标水平比较、统筹全德[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA）题库以及维护全国教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）的核心使命，在德国联邦分权治理体制中扮演了联结跨国、国家、州级与微观学校的国家[[Center of Calculation|计算中心]]角色（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 140–145]]；[[Argument_Dedering_2009_EERJ|Dedering, 2009, p. 484]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 2004 年。在 2000 年首轮[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）引发德国全社会强烈震动后，KMK 决议打破各州完全分散的传统，联合建立专门科研实体以推进全国统一教育标准与客观质量监测（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 140]]）。
@@ -161,6 +163,8 @@ updated: 2026-09-18
 > | [[Data Infrastructure]] | Concept | IQB 运营的题库平台与 FDZ 数据库是全德核心教育数据基础设施。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 创设并委托 IQB 执行国家教育监测战略的国家最高协调机构。 |
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | 规范 IQB 职能定位与监测支柱的国家最高政策纲领。 |
+> | [[Leibniz Institute for Educational Research and Educational Information]] | Fact (Organization) | 国家兄弟研究机构，DIPF 统筹国家教育报告与教育信息基础设施。 |
+> | [[Zentrum für internationale Bildungsvergleichsstudien]] | Fact (Organization) | 国家兄弟研究联合体，ZIB 统筹德国 [[PISA]] 测评研发与实施。 |
 > | [[Vergleichsarbeiten]] | Fact (Program) | IQB 承担命题研制与元治理协调的全德国校际比较测试项目。 |
 > | [[PISA]] | Fact (Program) | 催生 IQB 成立的根本性国际危机事件，其数据集由 IQB FDZ 集成管理。 |
 > | [[Institute for Educational Monitoring and Quality Improvement]] | Fact (Organization) | 汉堡州立监测机构（IfBQ），在州级层面落实 IQB 标准与 VERA 实施。 |

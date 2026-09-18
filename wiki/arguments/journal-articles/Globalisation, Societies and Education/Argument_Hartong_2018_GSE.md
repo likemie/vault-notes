@@ -35,21 +35,20 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Data Infrastructure]]"
   - "[[PISA Shock]]"
+  - "[[Topological Spatialisation]]"
   - "[[Assemblage]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Commensuration]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Topological Spatialisation]]"
-  - "[[International Education]]"
   - "[[Policy Mobility]]"
   - "[[Champ]]"
 related_theories:
   - "[[Actor-Network Theory]]"
   - "[[Governing at a Distance]]"
-  - "[[Item Response Theory]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Semi-structured Interview]]"
+  - "[[Item Response Theory]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
   - "[[Expert Interview]]"
@@ -62,6 +61,7 @@ related_facts:
   - "[[Vergleichsarbeiten]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
+  - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
   - "[[Reach]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
@@ -83,10 +83,10 @@ updated: 2026-09-18
 ## 研究问题
 
 > [!question]
-> 在全球化与数字化交织推进的背景下，教育政策的尺度重组（rescaling）如何打破传统的国家、区域与地方等层级化行政界限？正统新制度主义的世界体系与[[Policy Borrowing|政策借用]]理论侧重宏观趋同，忽视了技术客体、软件算法与数据流转的社会-物质性；在高度分权且宪法保障各州文化主权的德国教育体制中，以[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为代表的[[Center of Calculation|计算中心]]（Center of Calculation）与跨尺度绩效[[Data Infrastructure|数据基础设施]]（Data Infrastructure），如何在经历 2000 年[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）后建立并运转？这种数据流动如何在法律明文禁止编制学校排名的约束下，通过时空折叠驱动教育政策的拓扑学重组（Topological Re-[[Assemblage]]）？（pp. 134–136）
+> 在全球化与数字化交织推进的背景下，教育政策的尺度重组（rescaling）如何打破传统的国家、区域与地方等层级化行政界限？正统新制度主义的世界体系与[[Policy Borrowing|政策借用]]理论侧重宏观趋同，忽视了技术客体、软件算法与数据流转的社会-物质性；在高度分权且宪法保障各州文化主权的德国教育体制中，以[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为代表的[[Center of Calculation|计算中心]]（Center of Calculation）与跨尺度绩效[[Data Infrastructure|数据基础设施]]（Data Infrastructure），如何在经历 2000 年[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）后建立并运转？这种数据流动如何在法律明文禁止编制学校排名的约束下，通过时空折叠驱动教育政策的[[Topological Spatialisation|拓扑学重组]]（Topological Re-[[Assemblage]]）？（pp. 134–136）
 
 > [!claim] 核心主张
-> 教育治理的跨尺度重组不仅依赖宏观政策话语与行政命令，更依托于将微观教育现象[[Transfer Translation Transformation|转译]]为可[[Commensuration|通约]]数据的绩效数据基础设施；德国在 PISA 震荡后建立的 IQB 作为国家计算中心，通过统筹国家教育标准、联邦州学业达标趋势比较（IQB-Bildungstrend）与全德[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA）题库，并在内部设立研究数据中心（Research Data Centre, FDZ），在法律严格禁止公开发布学校排名表与维护各州文化主权的强制度约束下，依然在各州行政边界之间搭建起密集的拓扑连通管道，实现了对基层学校教学实践的远程拓扑[[Disciplina and Doctrina|规训]]与政策重组。（pp. 143–146）
+> 教育治理的跨尺度重组不仅依赖宏观政策话语与行政命令，更依托于将微观教育现象[[Transfer Translation Transformation|转译]]为可[[Commensuration|通约]]数据的绩效数据基础设施；德国在 PISA 震荡后建立的 IQB 作为国家计算中心，通过统筹国家教育标准、联邦州学业达标趋势比较（IQB-Bildungstrend）与全德[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA）题库，并在内部设立教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），在法律严格禁止公开发布学校排名表与维护各州文化主权的强制度约束下，依然在各州行政边界之间搭建起密集的拓扑连通管道，实现了对基层学校教学实践的远程拓扑[[Disciplina and Doctrina|规训]]与政策重组。（pp. 143–146）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 德国在 PISA 震荡后构建的国家教育监测体系，重点考察各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）的监测战略、柏林洪堡大学教育质量发展研究所（[[Institute for Educational Quality Improvement|IQB]]）及其研发的跨州数据基础设施。
@@ -122,7 +122,7 @@ updated: 2026-09-18
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **政策文本样本** | 涵盖 2002–2016 年间 KMK 核心决议、IQB 年度报告、FDZ 数据管理规程及 16 州实施法令等数十份核心法定文件。 |
-> | **机构与项目案例** | 核心剖析柏林教育质量发展研究所（IQB）、KMK 秘书处、全德校际比较测试（VERA-3/VERA-8）、[[International Education\|国际教育]]比较研究中心（[[Zentrum für internationale Bildungsvergleichsstudien\|Centre for International Student Assessment]], ZIB）、德国国际教育研究所（German Institute for International Educational Research, DIPF）及汉堡教育质量与学校发展研究所（[[Institute for Educational Monitoring and Quality Improvement\|Institute for Educational Monitoring and Quality Development]], IfBQ）等州立监测机构。 |
+> | **机构与项目案例** | 核心剖析柏林教育质量发展研究所（IQB）、KMK 秘书处、全德校际比较测试（VERA-3/VERA-8）、[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（Centre for International Student Assessment, ZIB）、[[Leibniz Institute for Educational Research and Educational Information\|莱布尼茨教育研究与教育信息研究所]]（Leibniz Institute for Educational Research and Educational Information, DIPF / 曾用名：德国国际教育研究所 German Institute for International Educational Research）及汉堡教育质量与学校发展研究所（[[Institute for Educational Monitoring and Quality Improvement\|Institute for Educational Monitoring and Quality Development]], IfBQ）等州立监测机构。 |
 > | **经验分析情境** | 聚焦德国宪法确立的各州文化主权联邦体制与去排名化传统背景下的数据治理实践。 |
 
 ---
@@ -205,7 +205,7 @@ updated: 2026-09-18
 > | **国际大型测评（[[PISA]] / [[TIMSS\|国际数学与科学趋势研究（Trends in International Mathematics and Science Study, TIMSS）]] / [[PIRLS\|国际阅读素养进展研究（Progress in International Reading Literacy Study, PIRLS）]]）** | 周期性抽样评估（3–5 年一轮） | 国际代表性样本（PISA 在德国扩样至约 40,000 人以覆盖 16 州） | [[OECD\|经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）]] / [[IEA\|国际教育成就评价协会（International Association for the Evaluation of Educational Achievement, IEA）]] 主导；德国境内由慕尼黑工大国际教育比较研究中心（ZIB）统筹 | 国际宏观定位与跨国比较；为国家教育改革议程提供外部正当性（pp. 139–141） |
 > | **检验国家教育标准的联邦州比较（[[Institute for Educational Quality Improvement\|IQB]]-Bildungstrend）** | 周期性抽样评估（小学 5 年、初中 3 年一轮） | 小学 4 年级与初中 9 年级全德代表性抽样样本 | 柏林洪堡大学教育质量发展研究所（[[Institute for Educational Quality Improvement\|IQB]]） | 审查各州学生对国家教育标准的达标率；形成跨州公开同行比较压力（pp. 140–142） |
 > | **全域校际比较测试（[[Vergleichsarbeiten\|VERA-3]] / VERA-8）** | 每年常态化普查施测 | 全德 16 州所有公立学校的小学 3 年级与初中 8 年级全体学生 | [[Institute for Educational Quality Improvement\|IQB]] 负责全国命题与题库平台；各州教育部负责行政实施 | 全样本微观教学诊断与薄弱校筛查；支持校本教研反思（pp. 140–144） |
-> | **国家与州级联合教育报告（Bildungsbericht）** | 双年度发布综合报告 | 宏观全域教育统计、人口结构与经费投入数据 | 德国[[International Education\|国际教育]]研究所（DIPF）协同相关智库编撰 | 向议会与公众全面呈现国家与各州教育体系的结构性发展指标（pp. 140–141, 145） |
+> | **国家与州级联合教育报告（Bildungsbericht）** | 双年度发布综合报告 | 宏观全域教育统计、人口结构与经费投入数据 | [[Leibniz Institute for Educational Research and Educational Information\|莱布尼茨教育研究与教育信息研究所]]（DIPF）协同相关智库编撰 | 向议会与公众全面呈现国家与各州教育体系的结构性发展指标（pp. 140–141, 145） |
 
 > [!example]- 图1：德国标准化绩效评价体系
 > ![](https://img.mylikemie.icu/sources/Hartong_2018_GSE/figures/Hartong_2018_GSE_Fig1_Standardised_Performance_Assessments_Germany.jpg)
@@ -245,7 +245,7 @@ IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延�
 > [!actor-grid] 跨尺度数据流动中的关键中介机构
 > - **研发与计算中枢（IQB）** 统筹国家标准命题、VERA 试题研发、FDZ 数据集成及教师在线练习任务平台运营。（pp. 140–144）
 > - **国际评估接口（[[Zentrum für internationale Bildungsvergleichsstudien|ZIB]]）** 设于慕尼黑工业大学，负责对接 OECD 统筹德国 PISA 施测，将国际数据导入国家数据库。（pp. 141, 144）
-> - **宏观报告智库（DIPF）** 编撰国家与州级教育报告，维护全国教育监测信息门户（DIPF-Kompass）。（p. 145）
+> - **宏观报告智库（[[Leibniz Institute for Educational Research and Educational Information|DIPF]]）** 编撰国家与州级教育报告，维护全国教育监测信息门户（DIPF-Kompass）。（p. 145）
 > - **地方与州立服务商（State IT Providers）** 研发与运维各州学籍与学校管理软件（如莱法州的 SVP 系统），实现微观数据的自动化抽取与向上汇聚。（pp. 145–146）
 
 > [!tension-table] 德国教育治理中领土分权与拓扑集权的多维结构张力

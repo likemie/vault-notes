@@ -34,6 +34,7 @@ related_concepts:
   - "[[SCAMPER]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
+  - "[[Topological Spatialisation]]"
   - "[[Literature Search]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
@@ -92,14 +93,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-18
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -144,7 +145,7 @@ issuing_organization: ""
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **创造性思维** | 产生新颖、多向度且具适应性观念的认知发散与重构能力。 | 典型工具包含[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）]]图形版（TTCT-F）与言语版（TTCT-V）、[[Abbreviated Torrance Test for Adults\|成人托兰斯创造性思维简表（Abbreviated Torrance Test for Adults, ATTA）]]、[[Evaluation of Potential for Creativity\|创造潜能评估测验（Evaluation of Potential for Creativity, EPOC）]]；代表研究如 Karwowski & Soszynski (2008)、Puccio et al. (2020)；$N = 24, g = 0.671$。 |
-> | **图形创造力** | 借助视觉表征与空间拓扑重组新颖具象形态的图画创造能力。 | 典型工具包含 TTCT 图形版、[[Test for Creative Thinking-Drawing Production\|创造性思维绘画测验（Test for Creative Thinking-Drawing Production, TCT-DP）]]、[[Creative Engineering Design Assessment\|创意工程设计评估测验（Creative Engineering Design Assessment, CEDA）]]；代表研究如 West et al. (2012)、Morin et al. (2018)；$N = 27, g = 0.644$。 |
+> | **图形创造力** | 借助视觉表征与空间[[Topological Spatialisation\|拓扑重组]]新颖具象形态的图画创造能力。 | 典型工具包含 TTCT 图形版、[[Test for Creative Thinking-Drawing Production\|创造性思维绘画测验（Test for Creative Thinking-Drawing Production, TCT-DP）]]、[[Creative Engineering Design Assessment\|创意工程设计评估测验（Creative Engineering Design Assessment, CEDA）]]；代表研究如 West et al. (2012)、Morin et al. (2018)；$N = 27, g = 0.644$。 |
 > | **词汇创造力** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test\|远距离联想测验（Remote Associates Test, RAT）]]、过泛思维任务（Over-Inclusive Thinking Task, OTT）；代表研究如 Chiu (2015)、Zitek & Vincent (2015)；$N = 16, g = 0.641$。 |
 > | **言语创造力** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test\|另类用途测验（Alternate Uses Test, AUT）]]、生成另类用途测验（Generation of Alternative Uses, GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis & Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
 > | Baruah & Paulus (2008) | 美国（ = 48 / CG = 48$） | [[Divergent Thinking\|发散思维]]产出量；前[[Pre-test and Post-test\|后测]]设计（b: 替代训练） | 书面[[Brainstorming\|头脑风暴]]训练；< 1 周；小组协作 |
@@ -278,7 +279,7 @@ issuing_organization: ""
 > | **全域合并效应** | 109 | $\mathbf{0.569}\ [0.480, 0.658]$ | $SE = 0.045,\ Z = 12.54\ (p < .001)$ | **综合中等显著促进效能**（多维构念加权合并基准） |
 
 > **图表解读** 
-> 1. **认知发散与具象表达居首** 创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）效应量最为显著，表明发散探索与非言语视觉拓扑重组极易受到显式启发式策略的激活。
+> 1. **认知发散与具象表达居首** 创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）效应量最为显著，表明发散探索与非言语视觉[[Topological Spatialisation|拓扑重组]]极易受到显式启发式策略的激活。
 > 2. **言语与词汇联想保持稳健** 词汇创造力（$g = 0.641$）与言语创造力（$g = 0.606$）展现出强劲的语义重组与非常规用途生成能力。
 > 3. **情绪创造力响应相对滞后** 情绪创造力（$g = 0.397$）显著偏低，提示涉及深层情绪体验与人格调节的非认知构念对常规认知干预的敏感度相对有限。（p.7）
 

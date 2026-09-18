@@ -481,7 +481,10 @@
       "组装",
       "装配",
       "组合装配",
-      "政策装配"
+      "政策装配",
+      "Policy Assemblage",
+      "装配理论",
+      "Assemblage Theory"
     ]
   },
   {
@@ -1038,12 +1041,12 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/PISA Shock.md",
     "aliases": [
-      "PISA 震荡",
-      "PISA 冲击",
       "国际学生评估项目震荡",
       "国际学生评估项目冲击",
       "国际学生评估项目震动",
-      "PISA-Schock"
+      "PISA-Schock",
+      "PISA Crisis",
+      "PISA-Schock-Phänomen"
     ]
   },
   {
@@ -1313,8 +1316,11 @@
       "拓扑空间化",
       "拓扑空间",
       "拓扑治理",
+      "拓扑学重组",
+      "拓扑重组",
       "Topological Space",
       "Topological Governance",
+      "Topological Re-Assemblage",
       "拓扑空间性"
     ]
   },
@@ -12358,7 +12364,8 @@
       "遥控治理",
       "远程治理",
       "governing from a distance",
-      "governance at a distance"
+      "governance at a distance",
+      "action at a distance"
     ]
   },
   {
@@ -12581,17 +12588,6 @@
       "儿童参与阶梯",
       "Ladder of Participation",
       "Hart's participation ladder"
-    ]
-  },
-  {
-    "title": "Item Response Theory",
-    "type": "theory",
-    "path": "wiki/theories/research-methodology/Item Response Theory.md",
-    "aliases": [
-      "项目反应理论",
-      "IRT",
-      "latent trait theory",
-      "潜在特质理论"
     ]
   },
   {
@@ -15231,6 +15227,19 @@
       "项目难度",
       "distractor analysis",
       "干扰项分析"
+    ]
+  },
+  {
+    "title": "Item Response Theory",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Item Response Theory.md",
+    "aliases": [
+      "项目反应理论",
+      "IRT",
+      "latent trait theory",
+      "潜在特质理论",
+      "现代测量理论",
+      "Item Response Models"
     ]
   },
   {
@@ -20957,6 +20966,21 @@
       "柏林教育质量发展研究所",
       "IQB",
       "Institut zur Qualitätsentwicklung im Bildungswesen"
+    ]
+  },
+  {
+    "title": "Leibniz Institute for Educational Research and Educational Information",
+    "type": "fact",
+    "path": "wiki/facts/germany/Leibniz Institute for Educational Research and Educational Information.md",
+    "aliases": [
+      "莱布尼茨教育研究与教育信息研究所",
+      "德国国际教育研究所",
+      "DIPF",
+      "German Institute for International Educational Research",
+      "DIPF | Leibniz Institute for Educational Research and Educational Information",
+      "Leibniz-Institut für Bildungsforschung und Bildungsinformation",
+      "Deutsches Institut für Internationale Pädagogische Forschung",
+      "DIPF-Kompass"
     ]
   },
   {
