@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Sir Kevan Collins",
+      "path": "wiki/persons/uk/Sir Kevan Collins.md"
+    },
+    {
+      "basename": "Building a Global Evidence Ecosystem for Teaching",
+      "path": "wiki/facts/global/Building a Global Evidence Ecosystem for Teaching.md"
+    },
+    {
+      "basename": "Evidence for Learning",
+      "path": "wiki/facts/australia/Evidence for Learning.md"
+    },
+    {
+      "basename": "BHP Foundation",
+      "path": "wiki/facts/australia/BHP Foundation.md"
+    },
+    {
+      "basename": "Argument_Skourdoumbis_2024_AER",
+      "path": "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md"
+    },
+    {
+      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
+    },
+    {
+      "basename": "John Hattie",
+      "path": "wiki/persons/new-zealand/John Hattie.md"
+    },
+    {
+      "basename": "Visible Learning Meta-X",
+      "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
+    },
+    {
+      "basename": "Argument_Jansen_2026_EPR",
+      "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md"
+    },
+    {
+      "basename": "Argument_Chen_Cheung_2025_ERR",
+      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
+    },
+    {
+      "basename": "Argument_Mausethagen_2025_ERR",
+      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md"
+    },
+    {
       "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
     },
@@ -33,10 +77,6 @@
       "path": "wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md"
     },
     {
-      "basename": "John Hattie",
-      "path": "wiki/persons/new-zealand/John Hattie.md"
-    },
-    {
       "basename": "Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
@@ -45,16 +85,8 @@
       "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit.md"
     },
     {
-      "basename": "Argument_Jansen_2026_EPR",
-      "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md"
-    },
-    {
       "basename": "RAiSE Programme",
       "path": "wiki/facts/uk/RAiSE Programme.md"
-    },
-    {
-      "basename": "Visible Learning Meta-X",
-      "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
     },
     {
       "basename": "Meta-meta-analysis",
@@ -63,14 +95,6 @@
     {
       "basename": "Argument_Brady_2023_EPR",
       "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Brady_2023_EPR.md"
-    },
-    {
-      "basename": "Argument_Mausethagen_2025_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md"
-    },
-    {
-      "basename": "Argument_Chen_Cheung_2025_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
     },
     {
       "basename": "Clearing House Unterricht",
@@ -175,30 +199,6 @@
     {
       "basename": "Normal School",
       "path": "wiki/concepts/teacher-education/Normal School.md"
-    },
-    {
-      "basename": "Learning Style Myth",
-      "path": "wiki/concepts/learning-science-cognitive-science/Learning Style Myth.md"
-    },
-    {
-      "basename": "Educational Science Communication",
-      "path": "wiki/concepts/science-communication/Educational Science Communication.md"
-    },
-    {
-      "basename": "Effect Size",
-      "path": "wiki/methods/quantitative/Effect Size.md"
-    },
-    {
-      "basename": "Evidence for ESSA",
-      "path": "wiki/facts/us/Evidence for ESSA.md"
-    },
-    {
-      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
-    },
-    {
-      "basename": "Argument_Kelly_2025_ROE",
-      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Kelly_2025_ROE.md"
     }
   ],
   "omittedPaths": [],
