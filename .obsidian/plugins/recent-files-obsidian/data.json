@@ -5,6 +5,10 @@
       "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
     },
     {
+      "basename": "Institute for Effective Education",
+      "path": "wiki/facts/uk/Institute for Effective Education.md"
+    },
+    {
       "basename": "Danish Clearinghouse for Educational Research",
       "path": "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Output-Oriented Governance",
       "path": "wiki/concepts/educational-policy-reform/Output-Oriented Governance.md"
-    },
-    {
-      "basename": "Educational Research, Development and Innovation",
-      "path": "wiki/concepts/educational-policy-reform/Educational Research, Development and Innovation.md"
     }
   ],
   "omittedPaths": [],
