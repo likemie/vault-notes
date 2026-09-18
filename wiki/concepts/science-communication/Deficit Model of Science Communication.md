@@ -43,10 +43,10 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 科学传播赤字模型是指一种将公众预设为“知识被动接受者”的单向线性传播取向。该模型假定公众之所以对某些科技议题（如疫苗、基因编辑、气候变化）产生疑虑、恐惧或抵触，根本原因在于其缺乏足够的科学事实与技术认知（即认知“赤字”），因此科学界只需单向传递科学知识即可消除公众阻力并建立信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
+> 科学传播赤字模型是指一种将公众预设为知识被动接受者的单向线性传播取向。该模型假定公众之所以对某些科技议题（如疫苗、基因编辑、气候变化）产生疑虑、恐惧或抵触，根本原因在于其缺乏足够的科学事实与技术认知（即认知赤字），因此科学界只需单向传递科学知识即可消除公众阻力并建立信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示了传统科普中将公众视为“无知受众”的单向知识传递偏见。
+> - **含义** 揭示了传统科普中将公众视为无知受众的单向知识传递偏见。
 > - **用途** 帮助科学社会学与传播学批判反思以专家为中心的居高临下态度，为推动双向平等[[Dialogue in Education|对话]]提供反思靶子。
 > - **边界** 批判赤字模型并不意味着否定科学事实的重要性，而是强调公众态度由价值观、文化信任、制度透明度及切身利益等多重复杂机制共同塑造。
 
@@ -56,7 +56,7 @@ updated: 2026-09-18
 
 > [!feature] 核心要素
 > - **单向线性传递（One-way Transmission）** 专家作为知识拥有者向下传递，受众作为被动容器接受。
-> - **知识[[Determinism|决定论]][[Hypothesis|假设]]（Knowledge-determines-attitude Assumption）** 假定“知晓更多便会认同更多”，忽视公众的价值取向与伦理诉求。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
+> - **知识[[Determinism|决定论]][[Hypothesis|假设]]（Knowledge-determines-attitude Assumption）** 假定知晓更多便会认同更多，忽视公众的价值取向与伦理诉求。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
 
 ---
 
@@ -69,7 +69,7 @@ updated: 2026-09-18
 > >
 > > - **House of Lords (2000)** 严厉批评将公众视为被动知识受体的赤字模型，倡导发展对话驱动与参与式的科学-社会关系。
 > > - **[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]** 确认赤字模型已被现代科学参与政策所超越，强调倾听与共建信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
-> > - **[[Argument_Besa_2024_UW|Besa (2024)]]** 指出教育研究中单向线性的自上而下“[[Knowledge Transfer|知识转移]]”本质上延续了赤字模型假定，因忽视一线教学实践的复杂情境逻辑而导致教师研究疏离与防御，必须转向双向递归的[[Educational Science Communication|教育科学传播]]。[[Argument_Besa_2024_UW|(Besa, 2024, pp. 252–254)]]
+> > - **[[Argument_Besa_2024_UW|Besa (2024)]]** 指出教育研究中单向线性的自上而下[[Knowledge Transfer|知识转移]]本质上延续了赤字模型假定，因忽视一线教学实践的复杂情境逻辑而导致教师研究疏离与防御，必须转向双向递归的[[Educational Science Communication|教育科学传播]]。[[Argument_Besa_2024_UW|(Besa, 2024, pp. 252–254)]]
 
 ---
 
