@@ -156,8 +156,8 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰教育统计学家，墨尔本大学教育研究所（Melbourne Graduate School of Education）荣休教授，曾任澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership]]，AITSL）主席。
-> - **核心角色** 《[[Visible Learning|可见的学习]]》（Visible Learning，VL）作者，教育领域[[Meta-meta-analysis|元综合]]（元-[[Meta-analysis|元分析]]）[[Paradigm|范式]]的奠基者与集大成者；全球[[Evidence-Based Education|证据本位教育]]与[[What Works Movement|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介网络。
-> - **代表贡献** [[Visible Learning|可见的学习]]综合框架与 $d=0.40$ 关节点模型；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment|形成性评价]]模型；[[Assessment Tools for Teaching and Learning|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；可见课堂（Visible Classroom）与三阶段学习模型。
+> - **核心角色** 《[[Visible Learning|可见的学习]]》（Visible Learning，VL）作者，教育领域[[Meta-meta-analysis|元综合]]（元-[[Meta-analysis|元分析]]）[[Paradigm|范式]]的奠基者与集大成者；主持维护全球最大教育元分析汇聚数据库 [[Visible Learning Meta-X]]；全球[[Evidence-Based Education|证据本位教育]]与[[What Works Movement|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，依托 [[Visible Learning Branding and Global Influences|跨国商业授权网络]] 构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介生态。
+> - **代表贡献** [[Visible Learning|可见的学习]]综合框架与 $d=0.40$ 关节点模型；全球最大元分析汇聚数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment|形成性评价]]模型；[[Assessment Tools for Teaching and Learning|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；可见课堂（Visible Classroom）与三阶段学习模型。
 
 > [!citation-card]- 人物定位的关键来源
 > 我是测量人员，我是统计学家，我不是理论家。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]

@@ -1,10 +1,9 @@
 ---
 title: RAiSE Programme
 aliases:
-  - RAiSE
   - 苏格兰科学教育抱负提升计划
   - Raising Aspirations in Science Education
-summary: "苏格兰推行的科学教育赋能计划（Raising Aspirations in Science Education），通过在地方当局设立小学科学发展专员与全区域学科持续专业发展，系统提升小学教师的科学教学信心与学生的科学抱负。"
+summary: "苏格兰推行的科学教育提升计划（Raising Aspirations in Science Education），通过在地方当局设立小学科学发展专员与全区域学科持续专业发展，系统提升小学教师的科学教学信心与学生的科学抱负。"
 type: fact
 subtype: program
 region: uk
@@ -33,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-09-18
 ---
 
 # RAiSE Programme

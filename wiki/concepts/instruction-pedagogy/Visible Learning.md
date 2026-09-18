@@ -230,9 +230,10 @@ updated: 2026-09-18
 > - **1987–1992 — [[Meta-meta-analysis|元综合]]积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项[[Meta-analysis|元分析]]、22,155 个[[Effect Size|效应量]]的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
 > - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–19)]]
 > - **2009–2010 — 著作出版与全球理论论战** 《可见的学习》初版出版，汇总 800 余项元分析与 150+ 影响因素，引发全球教育界轰动；随后在《新西兰教育研究杂志》系统回应关于方法论、STAR [[Class Size|班级规模]]实验及外部有效性的第一波批评。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–91)]]
-> - **2010–2018 — 品牌化扩张与全球政策采纳** [[Cognition Education]] 与 Corwin（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 以及丹麦公立学校改革等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019)]]
+> - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 [[Visible Learning Branding and Global Influences|商业化品牌运作]] 的推进，[[Cognition Education]] 与 Corwin（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 以及丹麦公立学校改革等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019)]]
 > - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于[[Neo-Taylorism|新泰勒主义]]与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]
 > - **2021–至今 — 欧洲跨国治理实证与[[Practitioner Enquiry|实践者探究]]校准** 欧洲实证研究（[[Argument_Kelly_2025_ROE|Kelly et al., 2025]]）揭示一线实践者在不同治理体制下对 VL 的差异化吸收：苏格兰依托“实践者探究”对其开展去魅与本土校准，德国作为校本教研参考，打破单一商业化崇拜迷思。
+> - **2024–至今 — 二阶元分析基础设施化与大模型准确性评测** 底层数据库拓展为收录 2,100 余项一阶元分析的 [[Visible Learning Meta-X]] 平台。该数据库被实证研究（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]）作为评估大语言模型[[Automated Data Extraction|自动化数据提取]]的基准库；该评测同时揭示了早期单人人工录入的历史局限与 57 处单方偏离（ICC = 0.81），确立了人机混合验证的质控新标准。
 
 ---
 
@@ -262,8 +263,8 @@ updated: 2026-09-18
 >
 > | 二阶[[Meta-analysis\|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 干预因素：宏观教学与学校创新综合 | $M > 100$；$k > 300,000$ 项底层原始研究 | 标准化均值差 $d$；全域元综合分布 | 平均效应量 $d = 0.40$（标准差 $ pprox 0.20$） | 效应量呈正态分布，绝大多数干预 $d > 0$ | 确立 $d=0.40$ 为全行业平均关节点基准，不代表单一干预在特定情境下的确定性效果 |
-> | Hattie (2009, 2015b) | 干预因素：基础教育与高等教育教学影响因素综合 | $M > 800$（2009版）/ 1,200+（后期版）；涵盖 50,000+ 原始研究与数千万学生 | 标准化均值差 $d$；排名矩阵模型 | 整体均值维持在 $d  pprox 0.40$ | 因子效应跨度从 $d = -0.34$ 至 $d = 1.56$ | 汇总横跨数十年跨国研究，存在原始测验工具偏向表层技能的测量局限 |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 干预因素：宏观教学与学校创新综合 | $M > 100$；$k > 300,000$ 项底层原始研究 | 标准化均值差 $d$；全域元综合分布 | 平均效应量 $d = 0.40$（标准差 $\approx 0.20$） | 效应量呈正态分布，绝大多数干预 $d > 0$ | 确立 $d=0.40$ 为全行业平均关节点基准，不代表单一干预在特定情境下的确定性效果 |
+> | Hattie (2009, 2015b); [[Visible Learning Meta-X]] | 干预因素：基础教育与高等教育教学影响因素综合（滚存至 Meta-X 数据库） | $M > 800$（2009版）/ 2,100+（Meta-X 现行版）；涵盖数万项原始研究与超 3 亿学生 | 标准化均值差 $d$；排名矩阵与二阶汇聚模型 | 整体均值维持在 $d \approx 0.40$ | 因子效应跨度从 $d = -0.34$ 至 $d = 1.56$ | 汇总横跨数十年跨国研究，存在原始测验工具偏向表层技能与早期人工单方录入局限 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -273,6 +274,7 @@ updated: 2026-09-18
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 13)]] | 多国[[Academic Achievement\|学业成就]]方差多层实证模型 | 多层线性方差分解元模型 | 六大学业成就变异源方差贡献率 | 学生个人差异 50%；教师教学效能 30%；家庭 5–10%；学校 5–10%；同伴 5–10%；校长间接影响 | — | 实证确立教师在学校系统内部可控变量中占据绝对主导地位（30%） |
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–16)]] | 新西兰 [[Assessment Tools for Teaching and Learning\|asTTle]] 常模标定样本（25,000 名 5–12 年级学生，1,500 余道试题） | 大样本横断面与纵向常模测评 | 数运算策略 vs. 几何知识跨学段[[Growth\|成长]]曲线 | 数运算策略从 5 至 12 年级呈现陡峭线性递增；几何知识在 5–7 年级出现明显停滞甚至倒退 | — | 实证揭示现行小学几何课程脱离学生实际认知进阶，为循证课改提供依据 |
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]]（Hattie & Peddie, 2003） | 新西兰 156 所中小学真实出具给家长的期末学业报告卡 | 文本[[Content Analysis\|内容分析]]与[[Coding in Qualitative Research\|编码]]统计 | 报告提及国家课程等级比例、[[Criterion-Referenced Test\|标准参照]]率与评语倾向 | 仅 12 所（<8%）提及官方课程等级；>50% 无客观标准；98% 为纯正面赞许评语 | — | 揭示学校报告缺乏客观进阶信息，导致家长产生虚假乐观并倒逼外部统考 |
+> | [[Argument_Jansen_2026_EPR|Jansen et al. (2026, pp. 16–18)]] | 从 [[Visible Learning Meta-X]] 随机抽取 156 项一阶元分析（468 个统计数据点） | 专家双轮仲裁金标准比对评测 | 原数据库录入 vs. 金标准组内相关系数与一致率 | 原数据库录入 $\text{ICC} = 0.81$，一致率 80%；存在 57 处单方偏离与 31 例信息遗漏 | 单方偏离度显著高于人类独立作者（$\text{ICC} = 0.95$）与大语言模型（$\text{ICC} = 0.96–0.97$） | 实证揭示早期大规模人工录入的历史局限性，论证了引入多模型与专家仲裁混合质控的必要性 |
 
 ---
 
@@ -282,6 +284,8 @@ updated: 2026-09-18
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Visible Learning Meta-X]] | Fact (Program) | 承载 Visible Learning 核心实证数据的底层二阶元分析汇聚数据库（收录 2,100+ 项元分析）。 |
+> | [[Visible Learning Branding and Global Influences]] | Fact (Event) | 记录 Visible Learning 从学术出版到跨国品牌化运营与政策扩散的制度化历程与争议。 |
 > | [[Critiques of Visible Learning]] | Concept | 系统梳理对 Visible Learning 在统计方法学、教学论与商业化推广维度的批判性[[Document\|文献]]。 |
 > | [[Effect Size]] | Method | VL 衡量教育干预相对有效性与绘制全域证据地图的通用统计度量衡。 |
 > | [[Evidence-Based Education]] | Concept | VL 是全球循证教育运动中最具政策影响力与争议性的教学综合框架之一。 |
@@ -294,6 +298,7 @@ updated: 2026-09-18
 > | [[Argument_Hattie_2005_ACER\|Hattie, 2005]] | Argument | 奠定 VL 理论与统计框架、提出 $d=0.40$ 关节点与 30% 教师方差贡献的核心文献。 |
 > | [[Argument_Hattie_2015_SOTLP\|Hattie, 2015b]] | Argument | 提炼八项教师思维框架与 DIE 教学动态循环的代表性文献。 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示苏格兰[[School Leadership\|学校领导]]者如何依托实践者探究对 VL 开展批判性校准的文献。 |
+> | [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]] | Argument | 评测大模型在 VL Meta-X 数据提取准确性的最新文献，揭示原数据库录入质量与混合质控范式。 |
 
 ---
 

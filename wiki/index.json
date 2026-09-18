@@ -22501,6 +22501,16 @@
     ]
   },
   {
+    "title": "Visible Learning Meta-X",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md",
+    "aliases": [
+      "Visible Learning MetaX",
+      "可见的学习元分析数据库",
+      "VL Meta-X"
+    ]
+  },
+  {
     "title": "Kunnskapssenter for utdanning",
     "type": "fact",
     "path": "wiki/facts/norway/Kunnskapssenter for utdanning.md",
@@ -23704,7 +23714,6 @@
     "type": "fact",
     "path": "wiki/facts/uk/RAiSE Programme.md",
     "aliases": [
-      "RAiSE",
       "苏格兰科学教育抱负提升计划",
       "Raising Aspirations in Science Education"
     ]

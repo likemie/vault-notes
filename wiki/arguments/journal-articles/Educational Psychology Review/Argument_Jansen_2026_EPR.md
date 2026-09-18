@@ -51,6 +51,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[RAiSE Programme]]"
+  - "[[Visible Learning Meta-X]]"
 related_arguments: []
 sources:
   - "[[sources/Jansen_2026_EPR/Jansen_2026_EPR|Jansen_2026_EPR]]"
@@ -64,9 +65,9 @@ title: "Argument_Jansen_2026_EPR"
 argument_key: "Argument_Jansen_2026_EPR"
 argument_display_title: "Automated data extraction by large language models: Assessing accuracy in comparison to human experts using the example of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 8
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 26
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Psychology Review"
 book_title: ""
@@ -87,7 +88,7 @@ issuing_organization: ""
 > 前沿大语言模型在规范提示词引导下，对复杂教育元分析文献进行[[Automated Data Extraction|自动化数据提取]]的统计准确性全面达到甚至部分超越人类专家水平（与仲裁金标准的[[Intraclass Correlation Coefficient|组内相关系数]] $\text{ICC} = 0.96–0.97$ vs 专家 $\text{ICC} = 0.81–0.95$；一致率达 77%–81% vs 专家 80%–86%）；模型之间表现出高达 87%–90% 的高度收敛一致性。事实性AI 幻觉在规范抽取中发生率极低（3–4 例，与专家持平），主要误差源于跨表格加总学生总数与原文报告模糊性。研究据此构建了双模型独立初筛结合专家分歧仲裁的人机混合验证[[Paradigm|范式]]，在恪守[[Meaningful Human Control|有意义的人类控制]]（Meaningful Human Control, MHC）的前提下消减 80% 人工劳动，实现证据综合效率与精度的帕累托最优。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 从《[[Visible Learning|可见的学习]]》数据库（Visible Learning Meta-X）中随机抽取的 156 项调查学生[[Academic Achievement|学业成就]]的一阶元分析全文文献（涵盖综合效应量 $d$、纳入研究数 $k$ 与学生样本总量 $N$ 共 468 个目标数据点）。
+> - **对象** 从《[[Visible Learning|可见的学习]]》数据库（[[Visible Learning Meta-X]]）中随机抽取的 156 项调查学生[[Academic Achievement|学业成就]]的一阶元分析全文文献（涵盖综合效应量 $d$、纳入研究数 $k$ 与学生样本总量 $N$ 共 468 个目标数据点）。
 > - **张力** 传统证据综合对繁重双人人工[[Homework|作业]]的高昂成本依赖 vs 大模型全自动提取的不[[Reliability|可靠性]]与幻觉担忧；单一人类提取被预设为无偏真值 vs 真实科研中人类单方[[Coding in Qualitative Research|编码]]普遍存在的疲劳漂移与疏漏偏差。
 > - **贡献** 首次在二阶元分析情境下建立多专家两阶段仲裁校准的金标准基准；系统评测三大前沿大语言模型（Gemini 2.5 Pro、GPT-4.1、GPT-o3）与人类专家的准确性矩阵；提出兼顾伦理规范与生产力跃升的有意义人类控制证据综合实操框架。
 
@@ -103,7 +104,7 @@ issuing_organization: ""
 > | **[[AI Hallucination\|AI 幻觉]]与误差分类学**<br>[[AI Hallucination]] | 建立涵盖事实虚构、信息遗漏、跨表计算偏差与报告模糊性选择偏误的四维诊断体系。 |
 
 > [!warrant]- 理论如何支撑论证
-> 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis, [[RAiSE Programme|RAiSE]]）指南为本研究确立了评价基线：任何人工智能系统的引入都不能直接假定其可[[Reliability|信度]]，而必须通过严密的实证评测确定其在特定任务情境下的准确性基准；同时，人类专家必须保持对系统的因果追踪能力。通过解构模型与人类在不同误差类型上的认知表现，研究得以将统计一致性指标转化为人机协同分工的理论依据。（pp. 3, 6, 20, 24）
+> 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis）指南为本研究确立了评价基线：任何人工智能系统的引入都不能直接假定其可[[Reliability|信度]]，而必须通过严密的实证评测确定其在特定任务情境下的准确性基准；同时，人类专家必须保持对系统的因果追踪能力。通过解构模型与人类在不同误差类型上的认知表现，研究得以将统计一致性指标转化为人机协同分工的理论依据。（pp. 3, 6, 20, 24）
 
 ### 核心变量与操作化编码表（仅量化研究填写）
 
@@ -123,7 +124,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **[[Document\|文献]]抽样与数据准备** | 从[[John Hattie\|约翰·哈蒂（John Hattie）]]教授维护的 Visible Learning Meta-X 数据库（包含 2,100+ 项元分析）中，随机抽取 156 项聚焦学生学业成就的一阶元分析全文文献（PDF 格式）。（pp. 7–8） |
+> | **[[Document\|文献]]抽样与数据准备** | 从[[John Hattie\|约翰·哈蒂（John Hattie）]]教授维护的[[Visible Learning Meta-X]]数据库（包含 2,100+ 项元分析）中，随机抽取 156 项聚焦学生学业成就的一阶元分析全文文献（PDF 格式）。（pp. 7–8） |
 > | **提示词工程与模型推断** | 构建包含角色定义、[[Variable\|变量]]代码簿、优先级层级与 3 个少样本示例的提示词架构。在独立的 10 篇[[Meta-analysis\|元分析]]子集上完成预试调优后，通过应用程序编程接口（Application Programming Interface, API）运行三大专有前沿模型：Gemini 2.5 Pro、GPT-4.1 与 GPT-o3。（pp. 8–9） |
 > | **两阶段基准仲裁体系** | 针对 101 项存在分歧的元分析，首先由一位作者独立复核建立银标准；对剩余 67 项高度存疑或与原数据库严重背离的文献，由专家作者组联合研讨仲裁建立无偏金标准基准。（pp. 9–10） |
 > | **多维准确性评估方法** | 采用双向随机效应绝对一致性单评分者[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）模型 $\text{ICC}(2,1)$、直接百分比一致率、皮尔逊相关系数（$r$）、平均绝对误差（Mean Absolute Error, MAE）、偏倚分布图与集合交集图（UpSet Plot）展开全景评测。（pp. 10–14） |
@@ -267,19 +268,16 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **前沿大语言模型提取准确性达到人类专家水准** Gemini 2.5 Pro、GPT-4.1 与 GPT-o3 在 156 项教育[[Meta-analysis|元分析]]中的提取表现（$\text{[[Intraclass Correlation Coefficient|ICC]]} = 0.96–0.97$，一致率 77%–81%）全面匹敌单一人类专家（$\text{ICC} = 0.81–0.95$，一致率 80%–86%）。（pp. 18–19）
+> 1. **前沿大语言模型提取准确性达到人类专家水准** Gemini 2.5 Pro、GPT-4.1 与 GPT-o3 在 156 项教育[[Meta-analysis|元分析]]中的提取表现（组内相关系数 ICC = 0.96–0.97，一致率 77%–81%）全面匹敌单一人类专家（ICC = 0.81–0.95，一致率 80%–86%）。（pp. 18–19）
 > 2. **事实性幻觉在规范抽取中极为罕见** 在缺失数据的[[Document|文献]]中，大模型虚构数值的幻觉率仅为 5%–7%（3–4 例），与人类专家的幻觉率完全持平。（p. 18）
 > 3. **提取瓶颈聚焦于多表加总与报告模糊性** 机器与人类的分歧主要源于跨分表被试总数 $N$ 的累加疏漏，以及[[Primary and Secondary Documents|原始文献]]在摘要与正文中汇报冲突数据时的选择偏好。（pp. 16–18）
 > 4. **确立人机混合验证的帕累托最优[[Paradigm|范式]]** 双模型初筛结合专家分歧仲裁，在节约 80% 人工劳动的同时，能够有效消除单人提取疏漏并保障[[Meaningful Human Control|有意义的人类控制]]。（pp. 24–25）
 
 > [!stat-cards]- 核心数据
-> - **156** 纳入实证评测的一阶教育元分析文献总量（篇）。（p. 7）
-> - **468** 提取与比对的核心连续[[Variable|变量]]数据点总量（个）。（p. 10）
-> - **0.96–0.97** 三大前沿大语言模型与仲裁金标准的组内相关系数 $\text{ICC}(2,1)$。
-> - **81% / 78% / 77%** Gemini 2.5 Pro、GPT-4.1 与 GPT-o3 与金标准的百分比一致率。
-> - **87%–90%** 大语言模型之间的两两一致率（$\text{ICC} = 0.95–0.97$）。
-> - **≈ 390** 传统人工提取 156 篇文献所需的专家工时（小时）。（p. 2）
+> - **0.96–0.97** 三大前沿大语言模型与金标准的组内相关系数 ICC(2,1)。
+> - **87%–90%** 大语言模型之间的两两一致率（ICC = 0.95–0.97）。
 > - **≈ 80%** 采用双模型初筛后可直接免除人工逐字复核的高置[[Reliability|信度]]数据比例。（p. 24）
+> - **≈ 390** 传统单人提取 156 篇文献所需的专家工时（小时，混合范式仅需约 60–80 小时）。（pp. 2, 24）
 >
 > 以上 ICC 与一致率数据均来自 p. 18 主要结果表格。
 
