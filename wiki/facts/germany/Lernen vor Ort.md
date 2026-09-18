@@ -10,7 +10,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -54,9 +54,9 @@ updated: 2026-09-18
 > “地方学习”计划（Lernen vor Ort / Local Learning）是[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF）联合欧洲社会基金（[[English Schools Foundation Hong Kong|ESF]]）及多家大型私人慈善基金会（如贝塔斯曼基金会 Bertelsmann Stiftung、赢创基金会 Evonik Stiftung 等）在 2009 至 2014 年间实施的重大全国性地方教育治理资助工程。该项目旨在赋能德国基层市镇与独立县区（*Kommunen*），推动建立地方层级的数据驱动型教育管理（Kommunales Bildungsmanagement）与地方教育监测报告体系（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 142–143]]）。
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 2009 年启动，历经两期资助（2009–2012，2012–2014），于 2014 年底正式结项（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 142]]）。
-> - **发起方与资助机制** BMBF 与 ESF 提供总额约 1.2 亿欧元的国库与欧盟配比资金，同时联合全德近 180 家私人基金会形成公私伙伴关系（Public-Private Partnerships, PPPs）（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 142]]）。
-> - **覆盖范围与对象** 在全德 16 个联邦州资助了 35 个示范性市镇与县区（覆盖柏林、汉堡、莱比锡、科隆、纽伦堡等主要城市与农村地区）（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 142]]）。
+> - **立项时间 / 周期** 2009 年启动，历经两期资助（2009–2012，2012–2014），于 2014 年底正式结项。
+> - **发起方与资助机制** BMBF 与 ESF 提供总额约 1.2 亿欧元的国库与欧盟配比资金，同时联合全德近 180 家私人基金会形成公私伙伴关系（Public-Private Partnerships, PPPs）。
+> - **覆盖范围与对象** 在全德 16 个联邦州资助了 35 个示范性市镇与县区（覆盖柏林、汉堡、莱比锡、科隆、纽伦堡等主要城市与农村地区）。
 > - **核心问题导向** 打破传统德国地方教育碎片化、各职能部门（学校局、青年局、社会救助局、劳工局）数据孤立分割的局面，强化地方政府对全域教育生态的自主统筹与循证调控能力（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 142–143]]）。
 
 ---

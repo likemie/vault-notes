@@ -68,10 +68,11 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Jansen_2026_EPR]]"
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Intercoder Agreement
@@ -205,3 +206,4 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011)]] — 结合第 30 章[[Content Analysis|内容分析]] 14 项[[Reliability|信度]]威胁体系（pp. 573–574）与第 17 章[[Meta-analysis|元分析]]规程（pp. 359–363），系统阐明[[Coding in Qualitative Research|编码]]者信度的[[Operationalization|操作化]]检验与门槛基准。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] — 阐释质性编码者间一致性的四步检验规程与 Miles & Huberman 80% 一致性门槛（p. 215）。
+> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 比较大语言模型与人类专家在 156 项教育元分析数据提取中的编码者间一致性（百分比一致率达 77%–86%），并通过多方仲裁确立金标准基准。

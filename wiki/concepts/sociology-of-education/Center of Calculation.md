@@ -9,10 +9,10 @@ aliases:
 summary: "行动者网络理论与治理社会学的核心概念，指将遥远、异质的现实实体通过标准化转译为流动、稳定且可组合的标准化数据表征（如测试数据、统计指标），并在中心节点进行汇聚、建模与运算，从而实现远距离治理的专业机构或空间节点。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/sociology-of-education
   - actor-network-theory

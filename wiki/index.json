@@ -5496,6 +5496,18 @@
     ]
   },
   {
+    "title": "Meaningful Human Control",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Meaningful Human Control.md",
+    "aliases": [
+      "有意义的人类控制",
+      "MHC",
+      "Human-in-the-Loop in AI",
+      "Human Oversight",
+      "人类有效控制"
+    ]
+  },
+  {
     "title": "Presence",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Presence.md",
@@ -7585,6 +7597,18 @@
       "差异流失",
       "differential attrition",
       "overall attrition"
+    ]
+  },
+  {
+    "title": "Automated Data Extraction",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Automated Data Extraction.md",
+    "aliases": [
+      "自动化数据提取",
+      "自动化数据抽取",
+      "Automated Data Extraction in Systematic Reviews",
+      "LLM Data Extraction",
+      "Machine-Assisted Data Extraction"
     ]
   },
   {
@@ -21103,11 +21127,12 @@
     "type": "fact",
     "path": "wiki/facts/germany/IQB-Bildungstrend.md",
     "aliases": [
-      "IQB教育趋势测评",
+      "教育趋势测评",
+      "跨州教育标准比较测评",
+      "Bildungstrend",
       "Ländervergleich",
       "IQB-Ländervergleich",
-      "IQB Educational Trend",
-      "跨州教育标准比较测评"
+      "IQB Educational Trend"
     ]
   },
   {
@@ -26074,6 +26099,11 @@
     "title": "Argument_Brady_2023_EPR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Brady_2023_EPR.md"
+  },
+  {
+    "title": "Argument_Jansen_2026_EPR",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md"
   },
   {
     "title": "Argument_Brown_2017_ER",

@@ -13,7 +13,7 @@ aliases:
 summary: "人文地理学与批判政策社会学的核心空间概念，指打破传统欧几里得几何与层级化行政疆界的连续、关系性空间构型。在教育治理中，它揭示数据基础设施与算法通约如何压缩时空距离，将分散微观的学校实践与跨区域甚至跨国计算中心折叠进即时连通的拓扑网络中。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

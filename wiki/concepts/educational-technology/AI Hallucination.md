@@ -40,6 +40,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Structured Teaching]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Visible Learning]]"
+  - "[[Automated Data Extraction]]"
   - "[[Primary and Secondary Documents]]"
 related_theories: []
 related_methods:
@@ -48,17 +50,19 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Pilot Testing]]"
+  - "[[Random Sampling]]"
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 related_instruments:
   - "[[PRISMA]]"
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # AI Hallucination
@@ -215,6 +219,7 @@ updated: 2026-09-17
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 11)]] (引述 Archila et al., 2024) | 大学本科生科学写作课堂 | 教学干[[Pilot Testing\|预实验]]与文本分析 | 对抗性红队查错（Red-teaming）表现 | 学生在教师布置的去幻觉任务中，主动核查并成功标定出 14 处 ChatGPT 编造的虚假[[Document\|文献]]与错误科学论断 | — | 证实具体的查错量规能有效将对 AI 幻觉的警惕转化为可操作的实证探究行为 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] 系统综述 | 缺乏幻觉核查导致的学术风险 | 14 项实证研究报告学生因未辨别 AI 幻觉而直接采纳错误引文，导致[[Homework\|作业]]论证逻辑破裂并面临学术诚信风险 | — | 揭示缺乏 AI 素养与幻觉防范规程时的普遍认知风险 |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 10–11, 14, 16)]] | 纳入全球 59 项独立实证研究（批判性思维子维度 $k = 20$） | 随机效应一阶[[Meta-analysis\|元分析]]与调节效应模型 | 批判性思维（$g = 0.691$）机制解释与自主调节能力（低 SRL 易感性） | 确立批判性思维在中等偏大水平显著提升（$g = 0.691$），理论机制模型证实 AI 幻觉具有倒逼审验的催化作用；同时亚组检验显示低 SRL 组促学效应微弱（$g = 0.284$），证实缺乏自律调控易深陷幻觉误导 | 组内 $Z = 5.973, p < 0.001$；SRL 组间 $Q_b = 40.962, p < 0.001$ | 实证表明 AI 幻觉转化为批判性思维动力高度依存于学习者的自我调节水平与显性查错支架 |
+| [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] | 156 项教育元分析（[[Visible Learning\|可见的学习]]数据库[[Random Sampling\|随机抽样]]，468 个数据点） | 大模型提取准确性与金标准仲裁评测（Gemini 2.5 Pro、GPT-4.1、GPT-o3） | [[Automated Data Extraction\|自动化数据提取]]中的事实幻觉与信息遗漏 | 在 55 项原文缺失对应统计量的元分析中，三大前沿 LLM 仅产生 3–4 例事实性幻觉（与人类专家的 3–4 例完全持平）；而信息遗漏更为普遍（LLM 遗漏 21–36 例 vs 专家 12–31 例） | $\text{ICC} = 0.96–0.97$（模型 vs 金标准） | 证实前沿 LLM 在严格提示词下事实性幻觉发生率极低，误差主要由长文本信息遗漏与多表累加疏漏驱动 |
 
 ---
 
@@ -233,4 +238,5 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用一阶[[Meta-analysis|元分析]]实证揭示生成式 AI 对[[Critical Thinking|批判性思维]]的显著促学效应（$g = 0.691$），从认知机理上提出 AI 幻觉对批判审验的倒逼催化机制，同时发现低[[Self-Regulated Learning|自主调节学习]]能力者更容易受到幻觉误导。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育 ChatGPT 实证研究，将 AI 幻觉识别与去幻觉查错确立为驱动[[Critical Thinking|批判性思维]]发展的核心教学机制。
+> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 在 156 项教育元分析的[[Automated Data Extraction|自动化数据提取]]中系统评测大模型幻觉与遗漏率，证实模型事实性幻觉发生率极低且与人类专家持平。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 强调基础教育科学课程必须培养学生识别大模型幻觉与算法偏见的批判性数字素养。

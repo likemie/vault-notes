@@ -1,18 +1,19 @@
 ---
 title: IQB-Bildungstrend
 aliases:
-  - IQB教育趋势测评
+  - 教育趋势测评
+  - 跨州教育标准比较测评
+  - Bildungstrend
   - Ländervergleich
   - IQB-Ländervergleich
   - IQB Educational Trend
-  - 跨州教育标准比较测评
 summary: "德国各州教育与文化部长常设会议（KMK）委托柏林教育质量发展研究所（IQB）实施的全国代表性抽样学业达标监测项目，以三年为周期轮流对全德16个联邦州的小学四年级和初中九年级进行国家教育标准达标度抽样测试与跨时间趋势追踪，构成德国国家教育监测战略的第一大支柱。"
 type: fact
 subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -62,10 +63,10 @@ updated: 2026-09-18
 > [[Institute for Educational Quality Improvement|IQB]] 教育趋势测评（IQB-Bildungstrend，早期亦称 Ländervergleich / 跨州比较研究）是德国依据各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]设立的全国代表性抽样达标测评项目。该项目由[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）全面统筹，用于系统监测德国 16 个联邦州的学生在多大程度上达到了国家统一制定的教育标准（Bildungsstandards）（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 143–144]]）。
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 2008–2009 年正式从早期 [[PISA]] 各州扩展样本（PISA-E / PISA-BS）脱胎独立；以 3 年为轮替周期（小学 4 年级与初中 9 年级交替施测），已常态化运行至今（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 143]]）。
-> - **发起方与资助机制** 由 KMK 决议发起，16 个联邦州共同出资，委托洪堡大学附属的独立研究中枢 IQB 负责具体的框架研发、试题编制、抽样施测与数据分析（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 143]]）。
-> - **覆盖范围与对象** 覆盖全德 16 个联邦州的普通中小学校，每轮测评抽取数千所学校、数万名小学 4 年级或初中 9 年级学生，构成具备全州与全国代表性的分层[[Random Sampling|概率抽样]]（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 143]]）。
-> - **核心问题导向** 克服 2000 年PISA 震荡后各州仅依赖国际测评排名的被动局面，建立德国本土自主可控的、对标国家教育标准的跨州达标度追踪工具（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 143]]）。
+> - **立项时间 / 周期** 2008–2009 年正式从早期 [[PISA]] 各州扩展样本（PISA-E / PISA-BS）脱胎独立；以 3 年为轮替周期（小学 4 年级与初中 9 年级交替施测），已常态化运行至今。
+> - **发起方与资助机制** 由 KMK 决议发起，16 个联邦州共同出资，委托洪堡大学附属的独立研究中枢 IQB 负责具体的框架研发、试题编制、抽样施测与数据分析。
+> - **覆盖范围与对象** 覆盖全德 16 个联邦州的普通中小学校，每轮测评抽取数千所学校、数万名小学 4 年级或初中 9 年级学生，构成具备全州与全国代表性的分层[[Random Sampling|概率抽样]]。
+> - **核心问题导向** 克服 2000 年 PISA 震荡后各州仅依赖国际测评排名的被动局面，建立德国本土自主可控的、对标国家教育标准的跨州达标度追踪工具（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 143]]）。
 
 ---
 
@@ -93,7 +94,7 @@ updated: 2026-09-18
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **2000–2006 年 — [[PISA]] 各州扩展样本（PISA-E / PISA-BS）先行探索** 德国参与 PISA 后，[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 委托实证研究联盟增设大样本各州扩展测试，用于评估各州间的学业差距；这一阶段直接催生了统一国家标准的出台与 [[Institute for Educational Quality Improvement|IQB]] 的成立（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 143]]）。
+> - **2000–2006 年 — [[PISA]] 各州扩展样本（PISA-E / PISA-BS）先行探索** 德国参与 PISA 后，[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 委托实证研究联盟增设大样本各州扩展测试，用于评估各州间的学业差距；这一阶段直接催生了统一国家标准的出台与 [[Institute for Educational Quality Improvement|IQB]] 的成立。
 > - **2008–2012 年 — IQB-Ländervergleich 独立制度化** IQB 完全接管跨州标准测试，先后于 2009 年开展首轮 9 年级初中比较、2011 年开展首轮 4 年级小学比较，标志着德国国家自主测评体系的正式成型（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 143]]）。
 > - **2015 年至今 — 正式更名为 IQB-Bildungstrend 并深化纵向趋势监测** KMK 将该系列研究统一定名为“IQB 教育趋势”（IQB-Bildungstrend），重点转向跨轮次能力的长期升降趋势追踪（Trend Analyses），成为全德最具政治敏感度与政策影响力的质量晴雨表（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 144]]）。
 

@@ -60,6 +60,7 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
   - "[[Clinical Skills]]"
   - "[[Critical Thinking]]"
+  - "[[Automated Data Extraction]]"
   - "[[Epistemology]]"
   - "[[Critique of Meta-meta-analysis]]"
 related_theories:
@@ -112,6 +113,7 @@ related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Unal_2026_JECR]]"
+  - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -122,7 +124,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-09-16
+updated: 2026-09-18
 ---
 
 # Meta-meta-analysis
@@ -398,6 +400,7 @@ flowchart LR
 > - **[[Cooperative Learning|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting|逆方差加权]][[Fixed-Effect and Random-Effects Models|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与[[Affective Outcomes|情感行为]]的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect|调节效应]]。
 > - **[[Problem-Based Learning|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size|效应量]]），在[[Fixed-Effect and Random-Effects Models|随机效应模型]]下采用经典[[Inverse-Variance Weighting|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制[[Document|文献]]重叠与质量偏倚，报告问题本位学习对学生[[Theoretical Knowledge|理论性知识]]、[[Clinical Skills|临床技能]]、[[Critical Thinking|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect|调节效应]]。
 > - **AI 教育应用全领域二阶元分析** [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] 综合 19 项一阶元分析（58,702 名参与者），采用 [[GROOVE]] 宏的[[Corrected Covered Area|校正覆盖面积]]（CCA）热力图排除 6 项重叠元分析，在[[Fixed-Effect and Random-Effects Models|随机效应模型]]下以经典[[Inverse-Variance Weighting|逆方差加权法]]合并效应量，报告 AI 教育应用对学生[[Academic Achievement|学业成就]]与[[Higher-Order Thinking Skills|高阶思维技能]]的综合效应（$ES = 0.67$，95% CI = [.55, .78]），并识别教育阶段（K12 vs 混合）与学科领域（计算机科学 vs 数学）为显著调节来源。
+> - **大语言模型二阶元分析[[Automated Data Extraction|自动化数据提取]]** [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 基于《[[Visible Learning|可见的学习]]》证据库中的 156 项一阶教育元分析，通过专家仲裁校准确立金标准，系统评估了三大前沿大语言模型（Gemini 2.5 Pro、GPT-4.1、GPT-o3）自动提取效应量、研究数与[[Sample Size Determination|样本量]]的准确性（$\text{[[Intraclass Correlation Coefficient|ICC]]} = 0.96–0.97$），确立大模型提取达到人类专家水准并为人机混合验证提供[[Paradigm|范式]]。
 > - **固定效应等价性与方法论批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 从固定效应数学模型推导 6 项要求并系统审查《可见的学习》。
 
 ---

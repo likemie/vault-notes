@@ -10,7 +10,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -65,9 +65,9 @@ updated: 2026-09-18
 > 德国国家教育发展[[Cohort Study|追踪研究]]（National Educational Panel Study, NEPS / 德语：Nationales Bildungspanel）是德国规模最大的全国性、多队列纵向教育追踪研究项目与常设科研基础设施。该项目于 2009 年由[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF）出资启动，旨在通过跨越全生命周期的超大规模纵向追踪数据，填补德国在教育能力习得、升学分流、教育不平等及成人技能变迁等领域缺乏高质量长时段面板数据的空白（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 142]]）。
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 2009 年正式立项启动；2009–2012 年完成基线大样本抽样；2013 年转入联邦与各州常态化长期资助阶段并持续至今（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 142]]）。
-> - **发起方与资助机制** 最初由 BMBF 提供重大专项资助（资助金额逾数千万欧元）；2013 年经联合科学大会（Gemeinsame Wissenschaftskonferenz, GWK）决议，转为由联邦政府与 16 个联邦州政府联合资助（50:50 配比）的永久性国家级科研基础设施（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 142]]）。
-> - **覆盖范围与对象** 依托全国跨学科研究联盟，横跨早期幼儿教育、初等教育、中等教育、高等教育与职业培训直至成人劳动力市场，建立 6 大起始队列（Starting Cohorts, SC1–SC6），累计直接跟踪受试者超过 60,000 人（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 142]]）。
+> - **立项时间 / 周期** 2009 年正式立项启动；2009–2012 年完成基线大样本抽样；2013 年转入联邦与各州常态化长期资助阶段并持续至今。
+> - **发起方与资助机制** 最初由 BMBF 提供重大专项资助（资助金额逾数千万欧元）；2013 年经联合科学大会（Gemeinsame Wissenschaftskonferenz, GWK）决议，转为由联邦政府与 16 个联邦州政府联合资助（50:50 配比）的永久性国家级科研基础设施。
+> - **覆盖范围与对象** 依托全国跨学科研究联盟，横跨早期幼儿教育、初等教育、中等教育、高等教育与职业培训直至成人劳动力市场，建立 6 大起始队列（Starting Cohorts, SC1–SC6），累计直接跟踪受试者超过 60,000 人。
 > - **核心问题导向** 响应 2000 年[[PISA]] 震荡后德国对实证教育研究（Empirical Educational Research）的迫切需求，克服横断测评（如 [[PISA]]、[[TIMSS]]、[[IQB-Bildungstrend]]）无法有效追踪个体能力因果轨迹与生命历程转型的局限（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 141–142]]）。
 
 ---
