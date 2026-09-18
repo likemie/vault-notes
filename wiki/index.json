@@ -4312,6 +4312,19 @@
     ]
   },
   {
+    "title": "Policy Mobility",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy Mobility.md",
+    "aliases": [
+      "政策流动",
+      "政策流动性",
+      "快速政策",
+      "Fast Policy",
+      "Policy Mobilities",
+      "政策变异"
+    ]
+  },
+  {
     "title": "Policy Network",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Policy Network.md",
@@ -16800,6 +16813,16 @@
     ]
   },
   {
+    "title": "David Gonski",
+    "type": "person",
+    "path": "wiki/persons/australia/David Gonski.md",
+    "aliases": [
+      "戴维·冈斯基",
+      "戴维·冈斯基阁下",
+      "David Michael Gonski"
+    ]
+  },
+  {
     "title": "David Watkins",
     "type": "person",
     "path": "wiki/persons/australia/David Watkins.md",
@@ -19607,6 +19630,16 @@
     "aliases": [
       "澳大利亚教育服务公司",
       "ESA"
+    ]
+  },
+  {
+    "title": "Evidence for Learning",
+    "type": "fact",
+    "path": "wiki/facts/australia/Evidence for Learning.md",
+    "aliases": [
+      "E4L",
+      "证据学习中心",
+      "澳大利亚证据学习中心"
     ]
   },
   {
@@ -22582,6 +22615,17 @@
       "HEFCE",
       "英格兰高等教育拨款委员会",
       "英国高教拨款委员会"
+    ]
+  },
+  {
+    "title": "Impetus",
+    "type": "fact",
+    "path": "wiki/facts/uk/Impetus.md",
+    "aliases": [
+      "动力基金会",
+      "动力信托",
+      "Impetus Trust",
+      "Impetus - The Private Equity Foundation"
     ]
   },
   {

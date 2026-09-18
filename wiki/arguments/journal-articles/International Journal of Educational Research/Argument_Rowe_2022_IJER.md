@@ -23,6 +23,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Assemblage]]"
   - "[[Policy Network]]"
+  - "[[Policy Mobility]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
@@ -30,10 +31,13 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Stephen Ball]]"
+  - "[[David Gonski]]"
 related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Evidence for Learning]]"
+  - "[[Impetus]]"
   - "[[Sutton Trust]]"
 related_arguments: []
 sources:
@@ -48,9 +52,9 @@ title: "Argument_Rowe_2022_IJER"
 argument_key: "Argument_Rowe_2022_IJER"
 argument_display_title: "The assemblage of inanimate objects in educational research: Mapping venture philanthropy, policy networks and evidence brokers"
 argument_kind: "journal-article"
-argument_related_count: 11
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "International Journal of Educational Research"
 book_title: ""
@@ -96,12 +100,12 @@ issuing_organization: ""
 
 ## 研究方法
 
-本研究是一项为期三年的宏观科研课题的重要组成部分，聚焦于公共教育中的风险慈善与政策流动。
+本研究是一项为期三年的宏观科研课题的重要组成部分，聚焦于公共教育中的[[Venture Philanthropy|风险慈善]]与[[Policy Mobility|政策流动]]（Policy Mobility）。
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **研究设计／具体方法**<br>[[Network Ethnography\|网络民族志]] | 遵循 Ball et al. (2017) 的网络民族志范式，开展跨界深度追踪，跟随政策、人、思想、资金与文本穿梭于公共与私营部门、国家与跨国场域之间。（p. 4） |
+> | **研究设计／具体方法**<br>[[Network Ethnography\|网络民族志]] | 遵循 Ball et al. (2017) 的网络民族志范式与[[Policy Mobility|政策流动]]追踪方法，开展跨界深度追踪，跟随政策、人、思想、资金与文本穿梭于公共与私营部门、国家与跨国场域之间。（p. 4） |
 > | **档案与数据收集** | 调取澳大利亚证券与投资委员会（Australian Securities and Investments Commission, ASIC）17 份官方企业登记档案、章程与历史变更记录；提取澳大利亚慈善与非营利委员会（Australian Charities and Not-for-profits Commission, ACNC）历年财务报表；收集议会法案、生产力委员会调查报告与部委公函。（pp. 4–5） |
 > | **分析策略与工具** | 开展机构共同从属网络分析（co-affiliation analysis），绘制资助者流动路径、子公司层级嵌套与董事会双重职务交叉拓扑图。（pp. 4, 8–10） |
 
@@ -138,7 +142,7 @@ issuing_organization: ""
 
 > [!policy-context] 证据机构的公共表象与合法性修辞
 > - **中立修辞与技术规约** AERO 宣称自身为超越党派纷争的独立证据经纪人，将核心使命界定为生产高质量证据、传播高质量证据、加速证据在课堂与政策中的应用；通过统一的标准化证据量规（evidence rubrics）与因果实验，声称能够将政治彻底移出课堂。（p. 2）
-> - **借用文化声誉的道德杠杆** AERO 将自身合法性完全锚定在 2018 年联邦政府发起的《Gonski 2.0》审查报告第 23 条建议上；戴维·冈斯基（David Gonski）作为长期呼吁增加公立教育投入的商业顾问，其名字已在公立教师工会发起的 `#igiveagonski` 运动中被升格为一种道德动词，政策网络策略性地利用认知标签（epistemic label）来换取公众信任。（pp. 2–3）
+> - **借用文化声誉的道德杠杆** AERO 将自身合法性完全锚定在 2018 年联邦政府发起的《Gonski 2.0》审查报告第 23 条建议上；[[David Gonski|戴维·冈斯基]]（David Gonski）作为长期呼吁增加公立教育投入的商业顾问，其名字已在公立教师工会发起的 `#igiveagonski` 运动中被升格为一种道德动词，政策网络策略性地利用认知标签（epistemic label）来换取公众信任。（pp. 2–3）
 
 #### 2. 公司法注册与特许慈善合作的法律事实
 
@@ -163,9 +167,9 @@ issuing_organization: ""
 > [!dev-timeline] AERO 创生的十年关键政策演变（2002–2021, pp. 3–9）
 > - **2002 — SVA 创立** 在国家推行鼓励企业慈善立法背景下，由麦肯锡公司（McKinsey & Company）前高管罗伯特·麦克莱恩（Robert McLean）发起设立[[Social Ventures Australia|澳大利亚社会创投]]（SVA），注册为担保有限公司，引入风投资本纪律。
 > - **2011 — 英国设立 EEF** 英国教育大臣 Michael Gove 在前麦肯锡全球总裁 Michael Barber 理念影响下，利用缩减免费学生校餐的沉淀资金注资 1.25 亿英镑设立英国教育捐赠基金会（EEF）。
-> - **2014 — 试验原型 E4L 启动** 英国 EEF 与澳大利亚联邦银行联合出资，支持 SVA 成立全资中介子公司证据学习中心（Evidence for Learning, E4L），由商业律师 Matthew Deeble 掌舵，率先本土化 EEF《教学与学习工具包》，作为国家证据经纪人的试验样板。
+> - **2014 — 试验原型 E4L 启动** 英国 EEF 与澳大利亚联邦银行联合出资，支持 SVA 成立全资中介子公司[[Evidence for Learning|证据学习中心]]（Evidence for Learning, E4L），由商业律师 Matthew Deeble 掌舵，率先本土化 EEF《教学与学习工具包》，作为国家证据经纪人的试验样板。
 > - **2016 — 生产力委员会国家证据调查** 联邦财长 Scott Morrison 委托生产力委员会开展“国家教育证据基础”审查；同期 SVA 董事 Richard Spencer 获委任为委员会社会政策专员；SVA 提交 50 页专项建议书，报告最终建议以英国 EEF 为蓝本建立本土机构。
-> - **2017–2018 — Gonski 2.0 审查与资助承诺** 联邦政府启动卓越学校教育审查，由 SVA 前子公司澳大利亚慈善服务社（APS）董事长 David Gonski 领衔；报告正式提出设立独立证据机构的第 23 条建议；澳大利亚政府理事会（Council of Australian Governments, COAG）《全国学校改革协议》承诺联合注资 5000 万澳元。
+> - **2017–2018 — Gonski 2.0 审查与资助承诺** 联邦政府启动卓越学校教育审查，由 SVA 前子公司澳大利亚慈善服务社（APS）董事长[[David Gonski|戴维·冈斯基]]（David Gonski）领衔；报告正式提出设立独立证据机构的第 23 条建议；澳大利亚政府理事会（Council of Australian Governments, COAG）《全国学校改革协议》承诺联合注资 5000 万澳元。
 > - **2018 — EEF 全球生态扩张** 英国 EEF 与跨国铁矿石巨头必和必拓旗下基金会（BHP Foundation）建立合作，启动为期五年的“构建全球教学证据生态系统”项目，进一步加速模式向澳洲输出。
 > - **2020 — 立法特许慈善合作** 联邦政府通过行政立法规则修正，正式授权 AERO 与慈善组织开展合作并制定国家议程。
 > - **2021 — AERO 正式注册成立** AERO 依据《公司法》注册为担保有限公司；其首任董事会充斥 SVA 董事、SVA 长期捐赠人及英国 EEF 首任首席执行官 Sir Kevan Collins。
@@ -180,10 +184,10 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 > [!example]- 图2：萨顿信托（The Sutton Trust）的跨国企业与金融资助者网络
 > ![](https://img.mylikemie.icu/sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig2_Sutton_Trust_Funders.jpg)
 
-> [!example]- 图3：动力基金会（Impetus）的跨国金融与私募股权资助网络
+> [!example]- 图3：[[Impetus|动力基金会]]（Impetus）的跨国金融与私募股权资助网络
 > ![](https://img.mylikemie.icu/sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig3_Impetus_Funders.jpg)
 
-英国 EEF 资助母体[[Sutton Trust|萨顿信托]]（The Sutton Trust）与动力基金会（Impetus）汇聚了美洲银行（Bank of America）、高盛集团（Goldman Sachs）、摩根大通（JP Morgan）、普华永道（PwC）等跨国投行、算法交易公司与商业律所资本；这些跨国金融资本流动至英国成立 EEF，EEF 再与必和必拓基金会（BHP Foundation）联合注资澳大利亚 SVA 与 E4L，最终在澳大利亚国家政权内部装配出全新的国家机构（pp. 6–8）。
+英国 EEF 资助母体[[Sutton Trust|萨顿信托]]（The Sutton Trust）与[[Impetus|动力基金会]]（Impetus）汇聚了美洲银行（Bank of America）、高盛集团（Goldman Sachs）、摩根大通（JP Morgan）、普华永道（PwC）等跨国投行、算法交易公司与商业律所资本；这些跨国金融资本流动至英国成立 EEF，EEF 再与必和必拓基金会（BHP Foundation）联合注资澳大利亚 SVA 与 [[Evidence for Learning|E4L]]，最终在澳大利亚国家政权内部装配出全新的国家机构（pp. 6–8）。
 
 ---
 
