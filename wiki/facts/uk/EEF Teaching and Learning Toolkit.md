@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 76
+fact_related_count: 77
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -87,6 +87,7 @@ related_facts:
   - "[[Ofsted]]"
   - "[[Institute for Effective Education]]"
   - "[[BHP Foundation]]"
+  - "[[SUMMA]]"
   - "[[Evidence for Learning]]"
   - "[[What Works Clearinghouse]]"
   - "[[Grammar School]]"
@@ -164,7 +165,7 @@ updated: 2026-09-18
 > - **2014 — 拓展早期教育与非学业产出指标** EEF 职责范围向早期教育（Early Years Toolkit）与非学业产出系统延伸，委托开展[[Systematic Review|系统综述]]以摸排[[Self-control|自我控制]]与韧性测评工具。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
 > - **2015 — 早期实施质询与使用模式调研** Cowen & Cartwright (2015) 开展[[In-depth Interview|深度访谈]]，识别出 5 类典型使用模式，并警示工具包去情境化、平均效应误读及与教育标准局（[[Ofsted]]）督导指标脱节的矛盾。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 19–22, 37–40)]]
 > - **2016 — 突破单向推介与创设[[Research Schools Network|研究学校网络]]（RSN）** 意识到单纯挂网无法撬动课堂深层变革，EEF 联合约克大学[[Institute for Effective Education|有效教育研究所]]（IEE）发起设立研究学校网络，推动工具包向校际同伴实践下沉。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 149–150)]]
-> - **2018–2021 — 跨国证据生态扩散与全球[[Going Native|本土化]]网络** 获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的全球教育证据生态计划，支持智利 Summa 将工具箱翻译为西语与葡语并在拉美加勒比地区开展本土因果试验，支持澳大利亚实证学习组织（[[Evidence for Learning]], E4L）构建澳洲本土化工具包。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
+> - **2018–2021 — 跨国证据生态扩散与全球[[Going Native|本土化]]网络** 获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的全球教育证据生态计划，支持智利 [[SUMMA]] 将工具箱翻译为西语与葡语并在拉美加勒比地区开展本土因果试验，支持澳大利亚实证学习组织（[[Evidence for Learning]], E4L）构建澳洲本土化工具包。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
 > - **2018–2022 — 国际证据门户调查与实施科学深化** 高夫团队（Gough & White, 2018; [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022]]）将 Toolkit 确立为国际 15 个证据门户中“通用策略类”的系统综述典范；EEF 配套出台实施指南并开展[[Teaching Assistant|助教]]配置等区域规模化战役。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 150, 154–155)]]
 
 ---
@@ -276,6 +277,7 @@ updated: 2026-09-18
 > | [[Engineered Evidence]] | Concept | 戈拉德等在总结工具包被动分发局限后提出的微观预制工件转化路径。 |
 > | [[What Works Network]] | Fact (Program) | 国家治理网络；Toolkit 是英国国家有效性网络在教育领域的旗舰成果。 |
 > | [[BHP Foundation]] | Fact (Organization) | 资助组织；2018 年资助 5 年全球教育证据生态项目，支持工具包跨国扩散。 |
+> | [[SUMMA]] | Fact (Organization) | 跨国中介；主导工具包在拉美和加勒比地区的西班牙语与葡萄牙语[[Going Native\|本土化]]转译与试验。 |
 > | [[Self-control]] | Concept | 核心能力；工具包[[Metacognition\|元认知]]与[[Social-Emotional Learning\|社会情感学习]]策略所依托的非学业[[21st Century Skills and Competencies Discourse\|核心素养]][[Construct\|构念]]。 |
 > | [[Evidence Standards]] | Concept | 方法学规范；规范 Toolkit 纳入实证[[Document\|文献]]、加权[[Meta-analysis\|元分析]]与证据安全挂锁评级的准则。 |
 > | [[Evidence-Based Education]] | Concept | 核心思潮；Toolkit 是当代循证教育运动最具辨识度的标志性政策产品。 |

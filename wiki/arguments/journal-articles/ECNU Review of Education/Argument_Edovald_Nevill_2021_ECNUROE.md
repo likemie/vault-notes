@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 127
+argument_related_count: 129
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -153,6 +153,8 @@ related_facts:
   - "[[Impetus]]"
   - "[[What Works Network]]"
   - "[[BHP Foundation]]"
+  - "[[Evidence for Learning]]"
+  - "[[SUMMA]]"
   - "[[ISRCTN]]"
   - "[[Literacy Octopus]]"
   - "[[Catch Up Numeracy]]"
@@ -253,7 +255,7 @@ updated: 2026-09-18
 > - **2010 — 动议提出** 英国教育大臣[[Michael Gove|迈克尔·戈夫]]（Michael Gove）受美国奥巴马政府“争向顶峰”计划启发，宣布设立独立基金会以改善英格兰处境不利学校。
 > - **2011 — 竞标创设与种子基金** [[Sutton Trust|萨顿信托]]联合[[Impetus|动力信托]]（Impetus）在 14 家竞标机构中胜出，依托英国教育部 1.25 亿英镑初始捐赠创设 EEF，规划 15 年法定运营期并撬动超 2 亿英镑资助，由萨顿信托创始人[[Peter Lampl|彼得·兰普尔爵士]]（Sir Peter Lampl）出任创始理事会主席以确立独立治理架构。
 > - **2013 — 国家有效机构认定** 英国政府正式将 EEF 与萨顿信托联合认定为英国教育领域的有效机构，纳入覆盖超 2,500 亿英镑公共支出的国家[[What Works Network|有效性网络]]（What Works Network）。
-> - **2018 — 跨国证据生态战略启动** 获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的全球教学[[Evidence Ecosystem|证据生态系统]]建设项目，向澳大拉西亚与拉丁美洲输出经验。
+> - **2018 — 跨国证据生态战略启动** 获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的全球教学[[Evidence Ecosystem|证据生态系统]]建设项目，向澳大拉西亚（[[Evidence for Learning|E4L]]）与拉丁美洲（[[SUMMA]]）输出经验。
 > - **2020 — 动员规模过半** 累计卷入英格兰逾 14,000 所学校与 158 万名学生，资助完成 150 余项 RCT，平均样本规模超过 8,000 人。
 
 针对严重的受试者流失威胁，EEF 探索了内在专业认同与外在经济补偿相协同的综合动员治理方案。（pp. 49–50）

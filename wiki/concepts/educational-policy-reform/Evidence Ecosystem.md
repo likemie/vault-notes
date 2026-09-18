@@ -9,7 +9,7 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 89
+related_count: 90
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -103,6 +103,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Synthesis]]"
   - "[[BHP Foundation]]"
+  - "[[SUMMA]]"
   - "[[Evidence for Learning]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[OECD]]"
@@ -402,7 +403,7 @@ updated: 2026-09-18
 > - **2000s 中 — 循证金标准扩散与中介库兴起** 英美等国强力推行[[Positivism|实证主义]]循证运动，设立美国什么是有效研究所（[[What Works Clearinghouse]]，WWC）与新西兰[[Best Evidence Synthesis|最佳证据综合]]（Best Evidence Synthesis，BES），尝试以等级化因果干预库指导决策。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–17)]]
 > - **2010 — 复杂系统模型与嵌套[[Paradigm|范式]]确立** Best & Holmes (2010) 提出[[Knowledge Mobilisation|知识动员]]三代嵌套演进模型（线性模型、关系模型、复杂系统模型），奠定了证据生态系统的理论骨架。[[Argument_Revai_2022_ChangingLandscape|(Best & Holmes, 2010; Révai, 2022, pp. 18–19)]]
 > - **2011–2019 — 系统级中介、双层嵌套与[[Research Schools Network|研究学校网络]]探索** 英国 [[Teaching and Learning Research Programme|TLRP]] 项目（2000–2011）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）研究学校网络相继落地，探索将评估、[[Transfer Translation Transformation|转译]]与实践反思有机统整的生态实践模式。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]] 同时，Gough et al. (2011, 2018, 2019) 历经近十年演进，提出反转供需构图的需求拉力模型，并以虚线确立狭义证据生态与广义社会政治环境的双层嵌套生态架构。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 41–43)]]
-> - **2018–2021 — 跨国教育证据生态扩散与全球南方[[Going Native|本土化]]网络** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）携手[[BHP Foundation|必和必拓基金会]]（BHP Foundation）启动为期 5 年的全球合作项目，支持智利 Summa（拉丁美洲与加勒比证据中心）以及澳大利亚实证学习组织（[[Evidence for Learning]]，E4L），将教学与学习工具箱（[[EEF Teaching and Learning Toolkit]]）翻译转译为西班牙语并开展区域因果试验本土化，探索循证中介机构跨国扩散与全球南方国家生态适配路径。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
+> - **2018–2021 — 跨国教育证据生态扩散与全球南方[[Going Native|本土化]]网络** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）携手[[BHP Foundation|必和必拓基金会]]（BHP Foundation）启动为期 5 年的全球合作项目，支持智利 [[SUMMA]]（拉丁美洲与加勒比证据中心）以及澳大利亚实证学习组织（[[Evidence for Learning]]，E4L），将教学与学习工具箱（[[EEF Teaching and Learning Toolkit]]）翻译转译为西班牙语并开展区域因果试验本土化，探索循证中介机构跨国扩散与全球南方国家生态适配路径。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
 > - **2021–2022 — 跨国政策调查与五维诊断体系** [[OECD]] 启动[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，覆盖 29 国 37 个教育系统，正式构建涵盖结构、关系、质量、文化与能力的证据生态系统五维[[Analytic Framework|分析框架]]。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 24–27)]]
 > - **2022 — 跨国证据生态组织图景与政务联结实证测度** [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] 基于 OECD 调查对 29 国 37 个教育系统开展系统性实证诊断，首次绘制出 17 类组织生态位分布、部委网络规模与强度非线性解耦、专业中介角色的行政端集聚，确证了“学术供给过剩、微观转化贫瘠”的中心—外围失衡结构。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 78–96)]]
 > - **2022 — 跨领域知识动员模型生态演进比较** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 横向比照卫生、公共治理与教育领域主流知识动员模型，提炼出构件交互从孤立管道走向双层嵌套生态、行动者定位从一维标签走向多维功能复合体的深层演化轨迹，并提出兼具自适应机制与崇高教育目标的下一代生态构建路径。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 43–46, 51–52)]]
@@ -461,7 +462,6 @@ updated: 2026-09-18
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
 > | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 140, 144–145)]] | 跨卫生、社会关照、教育与公共政策四大领域[[Document\|文献]]库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | 宏观系统影响构件与跨部门治理特征 | 证实高质量[[Research Utilization\|证据使用]]依赖系统领导力战略优先性、专项资金支持以及基于决策过程透明度与自我监控的反馈循环 | 定性[[Narrative Synthesis\|叙事综合]]证实 | 为宏观证据生态超越单纯中介网络走向系统使能治理提供跨领域实证支撑 |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 78–86)]] | 涵盖 29 个[[OECD\|经合组织]]国家的 37 个国家或地方教育部委 | 跨国政策[[Questionnaire\|问卷调查]]（5 点量表活跃度与 6 点量表网络强度） | 17 类组织在三大维度的活跃度分布及部委联结相关性 | 大学与教育学院（生产活跃 30 系统、促成 32 系统）与教育部委（26/32 系统）构成双核心;智库（6/10 系统）与工会（4/13 系统）边缘化;逾 85% 系统的生产活跃类别显著多于实践促成;部委对纯转化中介定期征询率极低（仅哥伦比亚、斯洛文尼亚保持常规联系） | — | 宏观横截面自陈调查，确证学术供给过剩与实践转化贫瘠的中心—外围结构及生产依附偏误 |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 87–92)]] | 涵盖 29 个国家的 37 个教育系统 | 跨国政策问卷与典型国家案例考证 | 专业中介岗位设立比例、个体在 7 阶段的参与分布及激励机制 | [[Embedded Researcher\|嵌入式研究者]]政策端 73% vs 实践端 32%;高校科研人员在 7 个阶段均处于绝对主导地位（各阶段 18–20 系统卷入），一线教师高度窄化于数据收集（18 系统），提出问题（5 系统）与方案设计（4 系统）极度缺位;科研人员内外激励双充沛，教师外在硬性激励近乎空白 | — | 反映跨国制度配置上的行政集聚与实践赤字，揭示一线教师沦为被动数据苦力的客体化异化 |
@@ -470,7 +470,7 @@ updated: 2026-09-18
 > | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, p. 25)]] | 日本、新西兰、挪威、葡萄牙、斯洛文尼亚与南非 6 国教育部门高官 | 定性深度访谈 | 政策制定者（Policy Makers）的行政角色界定与理解口径 | 狭义界定（仅限高级行政长官）与广义界定（所有行政与立法相关人员）并存 | — | 提示跨国横向比较中受访者行政职能口径差异可能影响数据可比性 |
 > | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2018, 2022)]] | 英国[[What Works Network\|有效性网络]]（WWN）全部 9 个正式有效性中心及关联中介机构 | 跨机构深度文件分析与关键知情人调查 | 有效性中心创立初期的 7 大核心目标分布、业务重心向深度实施落地的演进轨迹 | 创立初期压倒性聚焦于证据综合（9/9）与信息传播（9/9），后续普遍因单向传播乏力向用户深度参与、专业指南编制与区域实施网络转型（如 EEF 建立全国[[Research Schools Network\|研究学校网络]]、推广助教配置指南，EIF 开展行为动员项目） | — | 质性多案例跟踪调研，揭示[[Knowledge Mediation\|知识中介]]由“信息推介”向“生态实施”战略转型的实证规律 |
 > | [[Argument_Gough_2022_EvidenceOnEIPP\|Lord et al. (2017; Gough et al., 2022, p. 152)]] | 英格兰 800 余所公立小学、数千名五年级与六年级语文教师及数万名学童 | 大规模多臂[[Randomised Controlled Trials\|随机对照试验]]（Multi-armed RCT，[[Education Endowment Foundation\|EEF]] “识字八爪鱼”试验），由英国国家教育研究基金会（NFER）独立实施 | 精编纸质手册、数字化通讯、专业期刊专栏、低交互网络资源库四类单向传播干预臂对小学毕业统考 Key Stage 2（KS2）阅读写作标准化成绩及教师教学行为的影响 | 经过严格意向性分析（ITT），四类单一信息传播策略在改善学童 KS2 识字成绩上均未达到统计学显著性（[[Effect Size\|效应量]]接近于 0）;教师课堂教学行为亦未见可识别的系统性转变 | 统计学不显著（p > 0.05，效应量接近于 0） | 大规模严谨因果多臂 RCT，确证单纯单向信息推送在改变教学行为与学业产出上的因果无效性，从实证上[[Falsification\|证伪]]了信息赤字[[Hypothesis\|假设]] |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, pp. 48–51)]] | 英格兰 14,000 余所公立中小学与幼儿机构（占全英逾半数公立学校），累计卷入百余万名学生 | 纵向全系统生态中介监测与元数据汇总分析（2011–2020） | 评价中介产出规模、微观数据归档率、证据工具箱触达率与跨国网络扩散 | 累计资助并独立评估 200 余项大规模[[Randomised Controlled Trials\|RCT]]（占全球教育 RCT 逾 10%）;将 105 项试验个体层级微观数据脱敏挂钩英国国家学生数据库（NPD）并向英国数据档案馆（UKDA）完全开放;[[EEF Teaching and Learning Toolkit\|教学与学习工具箱]]触达全英 70% 中小学管理层;支持全英 40 所[[Research Schools Network\|研究学校]]与跨国智利 Summa、澳大利亚 E4L 节点 | — | 确证独立中介在调和研究生产、微观归档公共品、实践[[Transfer Translation Transformation\|转译]]与跨国扩散中的关键系统枢纽功能 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, pp. 48–51)]] | 英格兰 14,000 余所公立中小学与幼儿机构（占全英逾半数公立学校），累计卷入百余万名学生 | 纵向全系统生态中介监测与元数据汇总分析（2011–2020） | 评价中介产出规模、微观数据归档率、证据工具箱触达率与跨国网络扩散 | 累计资助并独立评估 200 余项大规模[[Randomised Controlled Trials\|RCT]]（占全球教育 RCT 逾 10%）;将 105 项试验个体层级微观数据脱敏挂钩英国国家学生数据库（NPD）并向英国数据档案馆（UKDA）完全开放;[[EEF Teaching and Learning Toolkit\|教学与学习工具箱]]触达全英 70% 中小学管理层;支持全英 40 所[[Research Schools Network\|研究学校]]与跨国智利 [[SUMMA]]、澳大利亚 E4L 节点 | — | 确证独立中介在调和研究生产、微观归档公共品、实践[[Transfer Translation Transformation\|转译]]与跨国扩散中的关键系统枢纽功能 |
 
 ---
 

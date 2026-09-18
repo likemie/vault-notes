@@ -20222,6 +20222,18 @@
     ]
   },
   {
+    "title": "SUMMA",
+    "type": "fact",
+    "path": "wiki/facts/chile/SUMMA.md",
+    "aliases": [
+      "拉美和加勒比教育研究与创新实验室",
+      "拉美和加勒比卓越教育中介网络",
+      "Laboratorio de Investigación e Innovación en Educación para América Latina y el Caribe",
+      "Laboratory of Research and Innovation in Education for Latin America and the Caribbean",
+      "Fundación SUMMA"
+    ]
+  },
+  {
     "title": "Academic Ranking of World Universities",
     "type": "fact",
     "path": "wiki/facts/china/Academic Ranking of World Universities.md",

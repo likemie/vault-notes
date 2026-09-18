@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 110
+fact_related_count: 111
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -107,6 +107,7 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[BHP Foundation]]"
   - "[[Building a Global Evidence Ecosystem for Teaching]]"
+  - "[[SUMMA]]"
   - "[[Researching School Choices]]"
   - "[[Teacher Choices]]"
   - "[[Education at a Glance]]"
@@ -169,7 +170,7 @@ updated: 2026-09-18
 > - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration|预注册]]与[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size|有效样本量]]较早期翻倍，显著提升了统计功效，被斯莱文（[[Argument_Slavin_2019_EP|Slavin, 2019, p. 24]]）评价为全球最具活力的教育因果试验资助与管理平台之一（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48–50]]）。
 > - **2014 — 跨国原型输出与 [[Evidence for Learning|E4L]] 资助** EEF 联合澳大利亚联邦银行出资，资助[[Social Ventures Australia|澳大利亚社会创投]]（SVA）设立全资中介子公司证据学习中心（Evidence for Learning, E4L），由商业律师 Matthew Deeble 掌舵，率先在维多利亚州教育部试水[[Going Native|本土化]]工具包，作为国家级证据中介的样板试验田（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 3]]）。
 > - **2016 — 跨国政策辐射与制度输出** 澳大利亚政府生产力委员会审查报告直接建议以英国 EEF 和美国 [[Institute of Education Sciences|IES]] 为蓝本建立本土国家级证据机构，直接催生后来的[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 7]]）。
-> - **2018 — 跨国矿业资本注资与全球生态复制** 启动全球[[Evidence Ecosystem|证据生态系统]]扩张战略，获得跨国铁矿石巨头必和必拓旗下基金会（[[BHP Foundation|必和必拓基金会]]）资助开展为期 5 年的“[[Building a Global Evidence Ecosystem for Teaching|构建全球教学证据生态系统]]”跨国项目，联合智利 Summa 与澳大利亚 E4L 等机构加速证据[[Going Native|本土化]]转化与模式克隆（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 49]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 8]]）。
+> - **2018 — 跨国矿业资本注资与全球生态复制** 启动全球[[Evidence Ecosystem|证据生态系统]]扩张战略，获得跨国铁矿石巨头必和必拓旗下基金会（[[BHP Foundation|必和必拓基金会]]）资助开展为期 5 年的“[[Building a Global Evidence Ecosystem for Teaching|构建全球教学证据生态系统]]”跨国项目，联合智利 [[SUMMA]] 与澳大利亚 E4L 等机构加速证据[[Going Native|本土化]]转化与模式克隆（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 49]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 8]]）。
 > - **2019 — 启动“[[Research Schools Network|研究学校网络]]”并开辟多样化设计资助流** 正式构建由 32 所常设研究学校与 8 所联合研究学校组成的研究学校网络（Research Schools Network，RSN）；针对学校不愿[[Random Assignment|随机化]]的结构制度设立研究[[School Choice|学校选择]]（[[Researching School Choices]]）[[Quasi-Experimental Designs|准实验设计]]（QED）资助流，并设立关注日常教学微决策的[[Teacher Choices|教师选择]]（Teacher choices）微型试验项目（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 55–56]]）。
 > - **2020–2023 — 跨国高管旋转门与认知科学推广** EEF 首任首席执行官[[Sir Kevan Collins|柯文·科林斯爵士]]（Sir Kevan Collins）受邀出任澳大利亚 AERO 首届专家董事会董事，实现跨国[[Policy Network|政策网络]]的人事与知识闭环；2023 年发布《课堂中的认知科学》专题综述，系统推进基于[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory）的显性教学规程（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 9–10]]）。
 
@@ -212,7 +213,7 @@ updated: 2026-09-18
 > - **学校覆盖率与动员广度** 截至官方最新发布的评估报告（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)），全英格兰已有超过五分之四（80%）的公立中小学实际参与过 EEF 资助的项目；累计资助超过 400 项教育干预试验与先导试点，构建起全球覆盖密度最高的单体教育实证试验网络。
 > - **校长决策渗透率** 约 85% 的英格兰中小学校长报告在制定针对处境不利学生的学业支持战略及使用 [[Pupil Premium]] 预算时，主动参考并采用了 EEF 发布的权威指南（Guidance Reports）与工具包建议（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)；[[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a, p. 111]]）。
 > - **战略领域系统拓展** 证据资助与实践转化重点向学前早期教育（Early Years，特别是学前读写与数学基础能力）、16–19 岁青年教育系统延伸，并重点推进高成效方案（如 Maths Champions）的跨区域规模化落地，持续应对后疫情时期的学业差距危机。
-> - **全球镜像组织辐射** 成功输出模式，深度主导或孵化了澳大利亚 [[Australian Education Research Organisation|AERO]]、澳大利亚 [[Evidence for Learning|E4L]] 以及拉美 Summa 等国家与跨国中介机构。
+> - **全球镜像组织辐射** 成功输出模式，深度主导或孵化了澳大利亚 [[Australian Education Research Organisation|AERO]]、澳大利亚 [[Evidence for Learning|E4L]] 以及拉美 [[SUMMA]] 等国家与跨国中介机构。
 > - **跨国政策话语权** 其[[Evidence Standards|证据标准]]直接被英美澳等国纳入入职教师培训（[[Initial Teacher Training]]，ITT）核心大纲([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
 > - **美国联邦审计的国际权威认可** 金斯伯格等（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act|Title I]] 经费的实证审计，在 4 个核心公共证据库中明确将 EEF 纳入并列，与美国本土的[[What Works Clearinghouse|有效干预清算中心]]（WWC）及 [[Evidence for ESSA]] 平台同等对待，系统检索其覆盖 129 项采购实践的证据记录，表明 EEF 已超越英国本土，成为国际学界追踪 K-12 教育证据体时不可回避的全球性权威参照库（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024, pp. 165–166, 170]]）。
 
@@ -319,6 +320,8 @@ updated: 2026-09-18
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Instrument) | EEF 运维的核心旗舰产品，将[[Effect Size\|效应量]]转化为学习月数的可视化工具包。 |
 > | [[Australian Education Research Organisation]] | Fact (Organization) | 澳大利亚国家证据机构，设立时以 EEF 为直接蓝本并深度承袭其治理经验。 |
 > | [[BHP Foundation]] | Fact (Organization) | 必和拓基金会是 EEF 全球扩张与跨国[[Policy Network\|理念编排]]的核心私人资本资助方。 |
+> | [[Building a Global Evidence Ecosystem for Teaching]] | Fact (Program) | EEF 与必和必拓基金会联合开展的全球证据生态扩张五年战略旗舰项目。 |
+> | [[SUMMA]] | Fact (Organization) | EEF 在拉美和加勒比地区的核心海外镜像伙伴，合作推进工具包西葡双语转译与本土试验。 |
 > | [[Strong Beginnings Report]] | Fact (Policy) | 澳大利亚教师教育改革大纲，直接采纳了 EEF 推荐的证据[[Document\|文献]]与大纲要求。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 美国官方清算中心，与 EEF 并列为国际[[Evidence-Based Education\|循证教育]]的两大顶级旗舰。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国本土早期的[[Systematic Review\|系统综述]]先驱，为 EEF 的建立提供了学术方法论滋养。 |

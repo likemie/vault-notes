@@ -2,13 +2,13 @@
 title: BHP Foundation
 aliases:
   - 必和必拓基金会
-summary: "由全球跨国资源巨头必和必拓集团全资设立的风险慈善组织，通过与英国教育捐赠基金会订立五年战略协议，在全球资助拉美Summa与澳大利亚E4L等证据中介，推动全球教育证据生态构建并介入主权国家教育大纲治理"
+summary: "由全球跨国资源巨头必和必拓集团全资设立的风险慈善组织，通过与英国教育捐赠基金会订立五年战略协议，在全球资助拉美SUMMA与澳大利亚E4L等证据中介，推动全球教育证据生态构建并介入主权国家教育大纲治理"
 type: fact
 subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -43,11 +43,13 @@ related_persons:
   - "[[Sir Kevan Collins]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[SUMMA]]"
   - "[[Evidence for Learning]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Strong Beginnings Report]]"
   - "[[Impetus]]"
   - "[[Social Ventures Australia]]"
+  - "[[Building a Global Evidence Ecosystem for Teaching]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
@@ -80,7 +82,7 @@ updated: 2026-09-18
 > [!dev-timeline]- 组织发展历程
 > - **2013–2017 — 创设与传统企业慈善期** 依托集团矿产业务所在地开展社区援助与助学项目，运营模式接近传统的企业社会责任（Corporate Social Responsibility，CSR）直接赠款。
 > - **2018 — 启动“全球[[Evidence Ecosystem|教育证据生态系统]]”五年战略项目** 必和必拓基金会转型采取现代[[Venture Philanthropy|风险慈善]]策略，宣布与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）正式结成全球战略伙伴，出资启动为期 5 年的跨国教学证据生态建设计划，旨在将 EEF 的因果评估与循证工具包模式向全球关键区域辐射扩散。
-> - **2018–2021 — 扶持跨国证据中介节点（Summa 与 [[Evidence for Learning|E4L]]）** 基金会资金直接支持建立拉丁美洲和加勒比地区的区域证据枢纽 Summa（总部设于智利），以及澳大利亚的有效学习组织（Evidence for Learning，E4L），开展工具包[[Going Native|本土化]]调试与本土多中心试验。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
+> - **2018–2021 — 扶持跨国证据中介节点（[[SUMMA]] 与 [[Evidence for Learning|E4L]]）** 基金会资金直接支持建立拉丁美洲和加勒比地区的区域证据枢纽 [[SUMMA]]（总部设于智利圣地亚哥），以及澳大利亚的有效学习组织（Evidence for Learning，E4L），开展工具包[[Going Native|本土化]]调试与本土多中心试验。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
 > - **2021–至今 — 深度介入澳大利亚国家教育大纲改革** 借助注资项目形成的人事与机构网络，深度参与推动澳大利亚联邦政府创设官方证据旗舰——[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation，AERO），并通过人事跨界渗透主导了澳大利亚全国初任教师教育大纲《有力开端》（[[Strong Beginnings Report|Strong Beginnings]]）的制度化重塑。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 8, 11)]]
 
 ---
@@ -90,11 +92,11 @@ updated: 2026-09-18
 > [!actor-grid] 组织治理架构
 > - **董事会（Board of Directors）** 由必和必拓集团高级管理层、国际发展专家与前政府高官组成，掌控制定全球资助战略与大额拨备审批。
 > - **教育项目执行团队** 设立专职项目官员，与受资助国际中介机构的高层管理团队保持常态化战略协同。
-> - **跨国伙伴协同网络** 核心合作伙伴包括英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）、智利 Summa 中心、澳大利亚社会公益组织[[Impetus|动力信托]]（[[Social Ventures Australia]] / [[Evidence for Learning|E4L]]），以及后续成立的官方机构 [[Australian Education Research Organisation|AERO]]。
+> - **跨国伙伴协同网络** 核心合作伙伴包括英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）、智利 [[SUMMA]] 实验室、澳大利亚社会公益组织[[Impetus|动力信托]]（[[Social Ventures Australia]] / [[Evidence for Learning|E4L]]），以及后续成立的官方机构 [[Australian Education Research Organisation|AERO]]。
 
 > [!pathways]- [[Venture Philanthropy|风险慈善]]资本运作链条
 > 1. **资本注资与中介赋能** 避开官僚程序，直接向国际顶尖证据中介（如 EEF）注资，资助其跨国扩张与全球知识产品开发。
-> 2. **扶持本土中介组织** 在目标国家资助设立对标 EEF 模式的非政府证据机构（如智利 Summa、澳洲 E4L），完成核心证据工具的本土情境[[Transfer Translation Transformation|转译]]。
+> 2. **扶持本土中介组织** 在目标国家资助设立对标 EEF 模式的非政府证据机构（如智利 [[SUMMA]]、澳洲 E4L），完成核心证据工具的本土情境[[Transfer Translation Transformation|转译]]。
 > 3. **人事网络流动与借调** 推动核心专家在国际中介、慈善智库与政府咨询委员会之间交叉任职（如原 EEF 首席执行官柯文·柯林斯爵士同时兼任 AERO 董事会成员）。
 > 4. **国家法案与准入标准渗透** 借助官方循证咨询契机，将基金会资助的中介成果直接嵌入国家教师认证大纲与学校财政问责法规。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
@@ -103,13 +105,13 @@ updated: 2026-09-18
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心项目与业务矩阵
-> - **全球[[Evidence Ecosystem|教育证据生态系统]]五年计划（Building Global Evidence Ecosystems for Teaching）** 2018 年与英国 [[Education Endowment Foundation|EEF]] 联合设立的旗舰计划，旨在超越英国本土单一中心，在全球范围内建立多国互联、扎根区域本土情境的现代证据生态网络。
-> - **拉美和加勒比卓越教育中介网络（Summa）** 基金会资金重点支持的跨国证据平台（设于智利），联合拉美十余国教育部将《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》翻译为西班牙语与葡萄牙语版本，并结合拉美本土学情资助开展原创性学校现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
+> - **全球[[Evidence Ecosystem|教育证据生态系统]]五年计划（[[Building a Global Evidence Ecosystem for Teaching]]）** 2018 年与英国 [[Education Endowment Foundation|EEF]] 联合设立的旗舰计划，旨在超越英国本土单一中心，在全球范围内建立多国互联、扎根区域本土情境的现代证据生态网络。
+> - **[[SUMMA|拉美和加勒比卓越教育中介网络]]（[[SUMMA]]）** 基金会资金重点支持的跨国证据平台（设于智利圣地亚哥），联合拉美十余国教育部将《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》翻译为西班牙语与葡萄牙语版本（《有效教育实践平台》），并结合拉美本土学情资助开展原创性学校现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
 > - **澳大利亚学习有效性组织（[[Evidence for Learning]]，E4L）** 基金会资助建立的澳大利亚循证中介平台，依托社会创投基金开发了适配澳大利亚公立学校、原住民社区与偏远地区的[[Going Native|本土化]]教学工具包。
 > - **澳大利亚国家教育大纲项目支撑** 为澳大利亚联邦初任教师教育专家评审团提供研究支持与证据输入，直接促成了以显性教学法和[[Cognitive Load Theory|认知负荷理论]]为核心的《有力开端》（[[Strong Beginnings Report|Strong Beginnings]]）国家法案落地。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 > [!citation-card] 基金会全球证据生态建设计划战略愿景
-> 必和必拓基金会致力于通过支持严谨教育研究的生产与应用，提升全球弱势儿童的受教育质量。2018 年基金会与英国教育捐赠基金会（EEF）建立为期五年的战略合作，共同在拉丁美洲（通过 Summa）和澳大利亚（通过 Evidence for Learning）建设教育证据生态系统，帮助当地决策者与学校教师获得扎根本土情境的高质量教学证据。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
+> 必和必拓基金会致力于通过支持严谨教育研究的生产与应用，提升全球弱势儿童的受教育质量。2018 年基金会与英国教育捐赠基金会（EEF）建立为期五年的战略合作，共同在拉丁美洲（通过 [[SUMMA]]）和澳大利亚（通过 Evidence for Learning）建设教育证据生态系统，帮助当地决策者与学校教师获得扎根本土情境的高质量教学证据。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
 >
 > *"In 2018, the EEF partnered with the BHP Foundation to support a five-year initiative to build evidence ecosystems in education globally... working with partners including Summa in Latin America and the Caribbean, and Evidence for Learning in Australia."*
 
@@ -118,7 +120,7 @@ updated: 2026-09-18
 ## 影响与体系成效
 
 > [!indicators]- 影响力维度与指标
-> - **跨国中介孵化** 成功资助建立了辐射拉美和加勒比 10 余国的 Summa 平台以及澳大利亚 [[Evidence for Learning|E4L]] 组织，成为南半球最具影响力的两大[[Evidence-Based Education|循证教育]]中介。
+> - **跨国中介孵化** 成功资助建立了辐射拉美和加勒比 21 国的 [[SUMMA]] 平台以及澳大利亚 [[Evidence for Learning|E4L]] 组织，成为南半球最具影响力的两大[[Evidence-Based Education|循证教育]]中介。
 > - **政策与大纲重构** 在澳大利亚，基金会资助的生态网络直接催生了国家级官方机构 [[Australian Education Research Organisation|AERO]]，并主导了联邦教师教育核心大纲的法定修订。
 > - **资金杠杆效应** 凭借数千万美元的慈善种子资金，成功撬动了澳大利亚联邦与各州政府数亿澳元的公共财政匹配投入。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
@@ -163,6 +165,9 @@ updated: 2026-09-18
 > |:---|:---|:---|
 > | [[Venture Philanthropy]] | 核心概念 | 必和必拓基金会运作所依循的现代风险慈善与企业资本治理[[Paradigm\|范式]]。 |
 > | [[Education Endowment Foundation]] | 机构事实 | 基金会全球教育证据项目的主要资助对象与跨国模式母体。 |
+> | [[SUMMA]] | 机构事实 | 基金会全球教育证据计划在拉美和加勒比地区重点资助设立的区域证据与创新中枢。 |
+> | [[Evidence for Learning]] | 机构事实 | 基金会与社会创投在澳大利亚协同扶持的姊妹[[Evidence-Based Education\|循证教育]]中介。 |
+> | [[Building a Global Evidence Ecosystem for Teaching]] | 项目事实 | 基金会与 EEF 联合发起的跨国证据生态五年战略旗舰项目。 |
 > | [[Australian Education Research Organisation]] | 机构事实 | 基金会资助项目在澳大利亚直接催生并深度联结的官方证据旗舰。 |
 > | [[Evidence Ecosystem]] | 核心概念 | 基金会 5 年战略计划所致力于在全球范围内构建的[[Epistemic Governance\|知识治理]]形态。 |
 > | [[Strong Beginnings Report]] | 政策事实 | 基金会跨国中介网络最终落地并重塑澳大利亚教师教育的国家大纲文本。 |

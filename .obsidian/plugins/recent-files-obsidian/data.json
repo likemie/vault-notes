@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Sir Kevan Collins",
-      "path": "wiki/persons/uk/Sir Kevan Collins.md"
+      "basename": "SUMMA",
+      "path": "wiki/facts/chile/SUMMA.md"
     },
     {
-      "basename": "Building a Global Evidence Ecosystem for Teaching",
-      "path": "wiki/facts/global/Building a Global Evidence Ecosystem for Teaching.md"
+      "basename": "BHP Foundation",
+      "path": "wiki/facts/australia/BHP Foundation.md"
     },
     {
       "basename": "Evidence for Learning",
       "path": "wiki/facts/australia/Evidence for Learning.md"
     },
     {
-      "basename": "BHP Foundation",
-      "path": "wiki/facts/australia/BHP Foundation.md"
+      "basename": "Building a Global Evidence Ecosystem for Teaching",
+      "path": "wiki/facts/global/Building a Global Evidence Ecosystem for Teaching.md"
+    },
+    {
+      "basename": "Sir Kevan Collins",
+      "path": "wiki/persons/uk/Sir Kevan Collins.md"
     },
     {
       "basename": "Argument_Skourdoumbis_2024_AER",
@@ -195,10 +199,6 @@
     {
       "basename": "Self-Efficacy",
       "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
-    },
-    {
-      "basename": "Normal School",
-      "path": "wiki/concepts/teacher-education/Normal School.md"
     }
   ],
   "omittedPaths": [],
