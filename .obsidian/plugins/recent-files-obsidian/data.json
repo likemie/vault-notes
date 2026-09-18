@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Evidence for ESSA",
+      "path": "wiki/facts/us/Evidence for ESSA.md"
+    },
+    {
+      "basename": "Black Box RCTs",
+      "path": "wiki/methods/quantitative/Black Box RCTs.md"
+    },
+    {
+      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
+    },
+    {
       "basename": "Argument_Kelly_2025_ROE",
       "path": "wiki/arguments/journal-articles/Review of Education/Argument_Kelly_2025_ROE.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Actor-Network Theory",
       "path": "wiki/theories/comparative-education/Actor-Network Theory.md"
-    },
-    {
-      "basename": "Network Ethnography",
-      "path": "wiki/methods/qualitative/Network Ethnography.md"
-    },
-    {
-      "basename": "Social Ventures Australia",
-      "path": "wiki/facts/australia/Social Ventures Australia.md"
-    },
-    {
-      "basename": "Australian Education Research Organisation",
-      "path": "wiki/facts/australia/Australian Education Research Organisation.md"
     }
   ],
   "omittedPaths": [],

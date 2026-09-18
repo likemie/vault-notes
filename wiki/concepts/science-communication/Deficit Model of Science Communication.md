@@ -8,10 +8,10 @@ aliases:
 summary: "早期科学传播的核心范式，假定公众对科学的疑虑或反对源自科学知识的匮乏（赤字），因而认为只要单向灌输科学事实即可消除分歧并增进公众支持"
 type: concept
 domain: "science-communication"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/sociology-of-education
   - field/science-communication
@@ -20,6 +20,8 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Determinism]]"
   - "[[Hypothesis]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Educational Science Communication]]"
   - "[[Public Engagement with Science]]"
   - "[[Paradigm]]"
   - "[[Praxis]]"
@@ -27,10 +29,11 @@ related_facts:
   - "[[Bodmer Report 1985]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
+  - "[[Argument_Besa_2024_UW]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 
 # Deficit Model of Science Communication
@@ -52,7 +55,7 @@ updated: 2026-09-11
 ## 核心要素
 
 > [!feature] 核心要素
-> - **单向线性传递（One-way Transmission）** 专家作为知识拥有者向下传递，受众作为被动容器接受。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
+> - **单向线性传递（One-way Transmission）** 专家作为知识拥有者向下传递，受众作为被动容器接受。
 > - **知识[[Determinism|决定论]][[Hypothesis|假设]]（Knowledge-determines-attitude Assumption）** 假定“知晓更多便会认同更多”，忽视公众的价值取向与伦理诉求。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
 
 ---
@@ -64,8 +67,9 @@ updated: 2026-09-11
 > > [!axis] 赤字模型的局限与超越
 > > 2000 年英国上议院科技委员会报告明确指出，公众信任危机并非源于民众缺乏科学常识，而是源于对科学治理透明度、利益关联及风险不确定性的担忧；必须以参与式、[[Dialogue in Education|对话]]驱动的双向互动取代赤字模型。
 > >
-> > - **House of Lords (2000)** 严厉批评将公众视为被动知识受体的赤字模型，倡导发展对话驱动与参与式的科学-社会关系。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
+> > - **House of Lords (2000)** 严厉批评将公众视为被动知识受体的赤字模型，倡导发展对话驱动与参与式的科学-社会关系。
 > > - **[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]** 确认赤字模型已被现代科学参与政策所超越，强调倾听与共建信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
+> > - **[[Argument_Besa_2024_UW|Besa (2024)]]** 指出教育研究中单向线性的自上而下“[[Knowledge Transfer|知识转移]]”本质上延续了赤字模型假定，因忽视一线教学实践的复杂情境逻辑而导致教师研究疏离与防御，必须转向双向递归的[[Educational Science Communication|教育科学传播]]。[[Argument_Besa_2024_UW|(Besa, 2024, pp. 252–254)]]
 
 ---
 
@@ -75,5 +79,6 @@ updated: 2026-09-11
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Educational Science Communication]] | 概念 | 教育研究领域超越单向赤字模型、转向非线性[[Dialogue in Education\|对话]]的核心传播形态。 |
 > | [[Public Engagement with Science]] | 概念 | 超越赤字模型后确立的双向[[Dialogue in Education\|对话]][[Paradigm\|范式]]。 |
 > | [[Bodmer Report 1985]] | 事实 | 早期[[Praxis\|实践]]中常被反思包含一定赤字模型色彩的政策文本。 |

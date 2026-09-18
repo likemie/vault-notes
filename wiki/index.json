@@ -6596,6 +6596,20 @@
     ]
   },
   {
+    "title": "Learning Style Myth",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Learning Style Myth.md",
+    "aliases": [
+      "学习风格神话",
+      "学习风格迷思",
+      "学习类型神话",
+      "学习风格假说",
+      "Lerntypenmythos",
+      "learning styles myth",
+      "VAK learning styles myth"
+    ]
+  },
+  {
     "title": "Learning-Impeding Behavior",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Learning-Impeding Behavior.md",
@@ -9041,6 +9055,19 @@
       "科学传播赤字模型",
       "deficit model",
       "亏缺模型"
+    ]
+  },
+  {
+    "title": "Educational Science Communication",
+    "type": "concept",
+    "path": "wiki/concepts/science-communication/Educational Science Communication.md",
+    "aliases": [
+      "教育科学传播",
+      "教育研究科学传播",
+      "教育科学知识传播",
+      "Wissenschaftskommunikation in der Bildungsforschung",
+      "science communication in education",
+      "educational research communication"
     ]
   },
   {
@@ -20828,6 +20855,16 @@
     ]
   },
   {
+    "title": "Forschungsmonitor Schule",
+    "type": "fact",
+    "path": "wiki/facts/germany/Forschungsmonitor Schule.md",
+    "aliases": [
+      "学校研究监测平台",
+      "德国学校研究监测网",
+      "FMS"
+    ]
+  },
+  {
     "title": "Institute for Educational Monitoring and Quality Improvement",
     "type": "fact",
     "path": "wiki/facts/germany/Institute for Educational Monitoring and Quality Improvement.md",
@@ -26376,6 +26413,11 @@
     "title": "Argument_Park_2026_TSC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md"
+  },
+  {
+    "title": "Argument_Besa_2024_UW",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Unterrichtswissenschaft/Argument_Besa_2024_UW.md"
   },
   {
     "title": "Argument_Altrichter_2019_ZfB",
