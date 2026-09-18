@@ -268,7 +268,7 @@ updated: 2026-09-18
 > | **基层实践与学区采购型** | 美国 [[Evidence for ESSA]]（校长与采购端）；<br>澳大利亚 [[Australian Education Research Organisation\|AERO]]；<br>澳大利亚 [[Evidence for Learning\|有效学习组织]]（E4L，学前与中小学实践工具包）；<br>Visible Learning MetaX（全球效应量气压计检索）；<br>英国 [[Research Schools Network\|EEF 研究学校网络]]；<br>荷兰 [[Kennisrotonde]]；<br>英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]] | 开发面向学区与校长的决策工具包、证据徽章、实施成本与生源匹配指引、问答平台与校际同伴网络。 | 直接支持一线教育领导者采购与微观教学决策，显著降低循证转译门槛，采纳度极高。 | 规模复制中存情境稀释风险，且高度依赖外部持续资金以维持月度敏捷更新。 |
 > | **师资培训骨干与教师教育者辐射型** | 德国 [[Clearing House Unterricht\|教学研究清算中心（CHU）]]（高校教师教育者与在岗研训主管端） | 面向高校师范专业研讨课与进修课程研制德语 Kurzreviews、在线 CHU-Academy 自学模块、配套评分表与专题播客。 | 聚焦师资培训骨干这一关键战略支点，在专业化源头培育准教师的循证思维习惯，依托师资培养网络实现学术成果的乘数级倍增扩散。 | 骨干群体自身面临繁重教学科研任务，对精炼通俗化材料依附度高；证据向中小学课堂常态化教学的最终穿透链路较长，依赖职后研修体系的机制协同。 |
 > | **大众媒体与公共传播导向型** | 英国 [[Education Media Centre\|EMC]] | 对接大众新闻媒体采编室与记者，提供突发教育争议事实核查与专家推荐。 | 从源头阻断教育谣言、公关营销与伪科学在公共舆论发酵，守护学术公信力。 | 议程高度依附于外部突发新闻热点，缺乏对长线系统化证据库建设的主动规划。 |
-> | **学术共同体与系统综述型** | 美国 [[Best Evidence Encyclopedia\|BEE]]（学术端）；<br>英国 [[EPPI-Centre]]（综述方法端）；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 开展大样本定量元分析、质性与量化混合系统综述、方法学工具（如 EPPI-Reviewer）研发与理论专著。 | 学术严谨性高，全面澄清学科领域因果[[Effect Size\|效应量]]全貌，为循证教育奠定理论基石。 | 产出为长篇学术专论，发表周期较长，一线决策者难以直接提取操作参数。 |
+> | **学术共同体导向型** | 美国 [[Best Evidence Encyclopedia\|BEE]]（学术端）；<br>英国 [[EPPI-Centre]]（综述方法端）；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 开展大样本定量元分析、质性与量化混合系统综述、方法学工具（如 EPPI-Reviewer）研发与理论专著。 | 学术严谨性高，全面澄清学科领域因果[[Effect Size\|效应量]]全貌，为循证教育奠定理论基石。 | 产出为长篇学术专论，发表周期较长，一线决策者难以直接提取操作参数。 |
 
 > [!row-contrast] 国际[[Educational Brokerage Agency|教育中介机构]]的制度特征：方法学审查立场谱系（pp. 61–64）
 > | 方法学立场类型 | 典型代表案例 | 审查准则与综合形态 | 比较优势与功能价值 | 局限与伴生挑战 |
