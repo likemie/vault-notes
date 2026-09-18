@@ -81,7 +81,7 @@ updated: 2026-09-18
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的学术性[[Educational Evidence Clearinghouses|教育证据清算中心]]与教育[[Educational Brokerage Agency|知识中介机构]]。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点[[FocusMath|聚焦数学]]与自然科学 MINT 学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB|(Knogler et al., 2025, pp. 13–14)]]
+> 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的学术性[[Educational Evidence Clearinghouses|教育证据清算中心]]与教育[[Educational Brokerage Agency|知识中介机构]]。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点聚焦数学、信息学、自然科学与技术［Mathematik, Informatik, Naturwissenschaften und Technik, MINT］学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB|(Knogler et al., 2025, pp. 13–14)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 机构于 2017 年正式上线运行，创设背景在于德语区长期缺乏[[Going Native|本土化]]教育证据清算中介，且实证教育研究[[Document|文献]]激增与中小学一线教学实践之间存在深刻的[[Research-Practice Gap|研究-实践鸿沟]]（Transferproblem）。
@@ -163,8 +163,7 @@ updated: 2026-09-18
 
 > [!debates] 核心制度反思
 >
-> > [!axis] 项目制思维（Projektitis）与中介机构可持续机制建设
-> > 德国乃至欧洲诸多教育清算机构（如丹麦 DPU 清算所）均依附于政府为期 2–3 年的短期课题合同，在合同期满后往往面临资金断裂甚至实体解散的困局；CHU 创设早期同样依托联邦 [[Qualitätsoffensive Lehrerbildung|QLB]] 阶段性课题（2015/2016–2023），但其通过迅速建立高质量产品矩阵与广泛用户网络，在联邦项目收官之际成功获得威廉·施特默基金会延续至 2029 年的长期慈善注资，开辟了政府项目孵化—高校常设支持—私人基金会长期护航的混合中介治理新[[Paradigm|范式]]。
+> > - **项目制思维（Projektitis）与中介机构可持续机制建设** 德国乃至欧洲诸多教育清算机构（如丹麦 DPU 清算所）均依附于政府为期 2–3 年的短期课题合同，在合同期满后往往面临资金断裂甚至实体解散的困局；CHU 创设早期同样依托联邦 [[Qualitätsoffensive Lehrerbildung|QLB]] 阶段性课题（2015/2016–2023），但其通过迅速建立高质量产品矩阵与广泛用户网络，在联邦项目收官之际成功获得威廉·施特默基金会延续至 2029 年的长期慈善注资，开辟了政府项目孵化—高校常设支持—私人基金会长期资助支持的混合中介治理新[[Paradigm|范式]]。
 >
 > > [!axis] 乘数群体的支持依赖与最终穿透链路
 > > 将资源重点配置于教师教育者与进修负责人（乘数群体）虽能实现杠杆扩散，但这批骨干群体自身同样高度依赖成套易用的教学工具；且与 [[Forschungsmonitor Schule|学校研究监测平台]] 相比，CHU 重点聚焦 MINT 学科及高阶[[Meta-analysis|元分析]]，其学术成果从大学研训课堂向中小学[[Business as Usual|常态教学]]法渗透的链路较长，仍需各州在职进修督导体制与大众化科学传播格式的深度协同。[[Argument_Knogler_2025_BB|(Knogler et al., 2025, p. 16)]]; [[Argument_Besa_2024_UW|(Besa, 2024, pp. 256–257)]]

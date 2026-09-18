@@ -5,12 +5,32 @@
       "path": "wiki/arguments/journal-articles/Unterrichtswissenschaft/Argument_Besa_2024_UW.md"
     },
     {
-      "basename": "Educational Brokerage Agency",
-      "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
+      "basename": "Forschungsmonitor Schule",
+      "path": "wiki/facts/germany/Forschungsmonitor Schule.md"
     },
     {
       "basename": "Deficit Model of Science Communication",
       "path": "wiki/concepts/science-communication/Deficit Model of Science Communication.md"
+    },
+    {
+      "basename": "Self-Efficacy",
+      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
+    },
+    {
+      "basename": "Normal School",
+      "path": "wiki/concepts/teacher-education/Normal School.md"
+    },
+    {
+      "basename": "Educational Brokerage Agency",
+      "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
+    },
+    {
+      "basename": "Clearing House Unterricht",
+      "path": "wiki/facts/germany/Clearing House Unterricht.md"
+    },
+    {
+      "basename": "Learning Style Myth",
+      "path": "wiki/concepts/learning-science-cognitive-science/Learning Style Myth.md"
     },
     {
       "basename": "Educational Science Communication",
@@ -19,10 +39,6 @@
     {
       "basename": "Effect Size",
       "path": "wiki/methods/quantitative/Effect Size.md"
-    },
-    {
-      "basename": "Learning Style Myth",
-      "path": "wiki/concepts/learning-science-cognitive-science/Learning Style Myth.md"
     },
     {
       "basename": "Evidence for ESSA",
@@ -149,10 +165,6 @@
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
     },
     {
-      "basename": "Clearing House Unterricht",
-      "path": "wiki/facts/germany/Clearing House Unterricht.md"
-    },
-    {
       "basename": "Argument_Knogler_2025_BB",
       "path": "wiki/arguments/journal-articles/berufsbildung Zeitschrift für Theorie-Praxis-Dialog/Argument_Knogler_2025_BB.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "BHP Foundation",
       "path": "wiki/facts/australia/BHP Foundation.md"
-    },
-    {
-      "basename": "Gonski 2.0",
-      "path": "wiki/facts/australia/Gonski 2.0.md"
-    },
-    {
-      "basename": "National Education Evidence Base Inquiry",
-      "path": "wiki/facts/australia/National Education Evidence Base Inquiry.md"
-    },
-    {
-      "basename": "David Gonski",
-      "path": "wiki/persons/australia/David Gonski.md"
     }
   ],
   "omittedPaths": [],

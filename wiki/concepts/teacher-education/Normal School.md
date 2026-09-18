@@ -39,6 +39,9 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Critical Pedagogy]]"
   - "[[Dual School System]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Educational Science Communication]]"
+  - "[[Learning Style Myth]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -60,13 +63,16 @@ related_facts:
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Report on Elementary Public Instruction in Europe]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
+  - "[[Clearing House Unterricht]]"
+  - "[[Forschungsmonitor Schule]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Beech_2015_GSE]]"
+  - "[[Argument_Besa_2024_UW]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-06-07
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Normal School
@@ -85,7 +91,7 @@ updated: 2026-09-17
 > - **用途** 揭示现代[[Common School Movement|公共学校]]体系如何通过标准化师资生产，落实国家统一课程大纲，终结机械体罚与[[Rote Learning|死记硬背]]陋习，并重塑统一的爱国公民认同。
 > - **边界** 严格区别于中世纪以来以自由七艺、哲学与神学思辨为核心的高等文理大学（Universities）；亦不同于 20 世纪后期大学内部偏重理论学术研究的教育研究生院（Graduate Schools of Education），早期师范学校核心功能紧扣初等教育一线实用技能、直观教学法与班级组织规程。
 
-> [!citation-card]- 关键表述：师范建制作为现代公立教育的战略防线
+> [!citation-card] 关键表述：师范建制作为现代公立教育的战略防线
 > [[Victor Cousin|维克多·库森]]在考察普鲁士后强调初等教育的成败完全系于师范学校的质量，英国《外国季刊》对此评价道：通过完全实际成功的坚实论据，该报告无可争议地证明，国民教育绝非梦想哲学家的空想幻影，而是一种确保全体儿童初等教育的方式，其建立与维持不亚于任何军队或海军之于国家的战略地位。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 27–28)]]；引自 Knight (1930:116–119)
 >
 > *The Foreign Quarterly Review viewed Cousin's report as an incontestable proof, 'by the solid and substantial argument of complete practical success', that a system of [[National Education]] was not visionary ... but a mode of insuring the elementary instruction of all children, which may be established and maintained not less than any army or navy.*
@@ -121,27 +127,24 @@ updated: 2026-09-17
 
 > [!logic-map]- 师范学校制度运转与专业化生产机制
 > ```mermaid
-> flowchart TD
->     A["国家主权与法定设校义务<br/>（普鲁士1819草案 / 法国基佐法案 / 马萨诸塞1839法案）"] --> B["初等师范学校（Normal School）"]
->     
->     B --> C["教学法操练：裴斯泰洛齐要素法与官能心理学"]
->     B --> D["临床实习基地：附属模范学校（Model Schools）"]
->     B --> E["伦理塑造：超越宗派的世俗公民道德"]
->     
->     C --> F["国家专业考试与资格证书准入"]
+> flowchart LR
+>     A["国家主权与法定设校义务<br/>（普鲁士1819草案/基佐法案/马萨诸塞1839）"] --> B["初等师范学校<br/>（Normal School）"]
+>     B --> C["教学法操练：裴斯泰洛齐要素法"]
+>     B --> D["临床实习基地：附属模范学校"]
+>     B --> E["伦理塑造：世俗公民道德"]
+>     C --> F["国家专业考试与资格准入"]
 >     D --> F
 >     E --> F
->     
->     F --> G["专业化公学教师队伍（Schoolmasters）"]
->     G --> H["全境初等国民公共学校（Common Schools）"]
->     H --> I["消除文盲、废除野蛮体罚与塑造自由共和/现代爱国公民"]
+>     F --> G["专业化公学教师队伍"]
+>     G --> H["全境初等国民公共学校"]
+>     H --> I["破除迷信盲从与塑造现代公民"]
 > ```
 
 ---
 
 ## 围绕概念形成的命题
 
-围绕师范学校在现代教育史与比较教育学中的地位，学术界形成了两大核心理论命题：
+围绕师范学校在现代教育史与比较教育学中的地位及当代教师教育转型，学术界形成了三大核心理论命题：
 
 ---
 
