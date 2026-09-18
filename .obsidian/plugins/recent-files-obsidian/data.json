@@ -5,6 +5,10 @@
       "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
     },
     {
+      "basename": "Argument_Burns_Schuller_2022_BrokerageAgencies",
+      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
+    },
+    {
       "basename": "Clearing House Unterricht",
       "path": "wiki/facts/germany/Clearing House Unterricht.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Research-Rich Teaching Profession",
       "path": "wiki/concepts/teacher-education/Research-Rich Teaching Profession.md"
-    },
-    {
-      "basename": "Research-Engaged School",
-      "path": "wiki/concepts/educational-policy-reform/Research-Engaged School.md"
     }
   ],
   "omittedPaths": [],
