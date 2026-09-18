@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Danish Clearinghouse for Educational Research",
+      "path": "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md"
+    },
+    {
       "basename": "Educational Evidence Clearinghouses",
       "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
     },
@@ -15,6 +19,10 @@
     {
       "basename": "Argument_Knogler_2025_BB",
       "path": "wiki/arguments/journal-articles/berufsbildung Zeitschrift für Theorie-Praxis-Dialog/Argument_Knogler_2025_BB.md"
+    },
+    {
+      "basename": "Argument_Rowe_2022_IJER",
+      "path": "wiki/arguments/journal-articles/International Journal of Educational Research/Argument_Rowe_2022_IJER.md"
     },
     {
       "basename": "Zentrum für internationale Bildungsvergleichsstudien",
@@ -51,10 +59,6 @@
     {
       "basename": "Meta-analysis",
       "path": "wiki/methods/quantitative/Meta-analysis.md"
-    },
-    {
-      "basename": "Argument_Rowe_2022_IJER",
-      "path": "wiki/arguments/journal-articles/International Journal of Educational Research/Argument_Rowe_2022_IJER.md"
     },
     {
       "basename": "BHP Foundation",
@@ -195,10 +199,6 @@
     {
       "basename": "Educational Research, Development and Innovation",
       "path": "wiki/concepts/educational-policy-reform/Educational Research, Development and Innovation.md"
-    },
-    {
-      "basename": "Research-Rich Teaching Profession",
-      "path": "wiki/concepts/teacher-education/Research-Rich Teaching Profession.md"
     }
   ],
   "omittedPaths": [],

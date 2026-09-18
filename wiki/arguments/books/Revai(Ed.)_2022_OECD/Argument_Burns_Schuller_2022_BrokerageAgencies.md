@@ -351,8 +351,8 @@ updated: 2026-09-18
 > [!row-contrast] 国际教育中介机构的制度特征：方法学审查立场谱系（pp. 61–64）
 > | 方法学立场类型 | 典型代表案例 | 审查准则与综合形态 | 比较优势与功能价值 | 局限与伴生挑战 |
 > |---|---|---|---|---|
-> | **因果实证派（RCT 黄金标准）** | 美国 [[What Works Clearinghouse\|WWC]]；<br>英国 EEF；<br>澳大利亚 AERO；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 确立随机对照试验为因果黄金标准，严苛审查基线等值与流失偏倚。 | 结论[[Internal Validity\|内部效度]]极高，提供确凿因果效应量支撑。 | 过滤门槛过严，排斥质性知识，难以阐释“为何有效与如何发生”。 |
-> | **定量元分析与二阶综合派** | 美国 [[Best Evidence Encyclopedia\|BEE]]；<br>英国 [[EEF Teaching and Learning Toolkit\|EEF 教学与学习工具箱]]；<br>Visible Learning MetaX；<br>德国 [[Clearing House Unterricht\|CHU]] | 运用加权元分析、进展月数折算或标准化元分析转译规程进行二阶综合。 | 兼顾统计严谨与直观可比，大幅降低实践决策者提取门槛。 | 均值效应量可能掩盖亚群体异质性，面临发表偏倚风险。 |
+> | **因果实证派（RCT 黄金标准）** | 美国 [[What Works Clearinghouse\|WWC]]；<br>英国 EEF（RCT 评估资助端）；<br>澳大利亚 AERO；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 确立随机对照试验为因果黄金标准，严苛审查基线等值与流失偏倚。 | 结论[[Internal Validity\|内部效度]]极高，提供确凿因果效应量支撑。 | 过滤门槛过严，排斥质性知识，难以阐释"为何有效与如何发生"。 |
+> | **定量元分析与二阶综合派** | 美国 [[Best Evidence Encyclopedia\|BEE]]；<br>英国 [[EEF Teaching and Learning Toolkit\|EEF 教学与学习工具箱]]（同上，EEF 元分析综合产品端）；<br>Visible Learning MetaX；<br>德国 [[Clearing House Unterricht\|CHU]] | 运用加权元分析、进展月数折算或标准化元分析转译规程进行二阶综合。 | 兼顾统计严谨与直观可比，大幅降低实践决策者提取门槛。 | 均值效应量可能掩盖亚群体异质性，面临发表偏倚风险。 |
 > | **多元综合与混合方法派** | 英国 [[EPPI-Centre]]；<br>挪威 [[Kunnskapssenter for utdanning\|Kunnskapssenter]]；<br>新西兰 BES | 质性、量化与[[Mixed Methods Research\|混合方法]]系统综合，开创结构化混合编码。 | [[Ecological Validity\|生态效度]]高，兼顾复杂微观语境，护持专业判断。 | 方法规程繁复漫长，缺乏量化直观指标，紧急决策响应较慢。 |
 > | **本土实践审议与经验知识派** | 瑞典教育法案体制（[[Swedish Institute for Educational Research\|Skolfi]] 实践端）；<br>北欧教育学（Didaktik）模式 | 将教师实践专业知识视为与形式科学研究平等的独立知识源。 | 紧密契合课堂生态效度与教师专业自主，激发实践主体性。 | 异质知识融合机制尚不明确，经验证据缺乏标准化检验流程。 |
 
