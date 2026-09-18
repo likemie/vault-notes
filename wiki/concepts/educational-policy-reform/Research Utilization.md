@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 108
+related_count: 117
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -64,6 +64,11 @@ related_concepts:
   - "[[Ontology]]"
   - "[[International Education]]"
   - "[[Professional Judgment]]"
+  - "[[School Leadership]]"
+  - "[[Reflective Thinking]]"
+  - "[[Teaching Assistant]]"
+  - "[[Reflexivity]]"
+  - "[[Contributory Expertise]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence Standards]]"
   - "[[Positivism]]"
@@ -101,6 +106,8 @@ related_methods:
   - "[[Composite Reliability]]"
   - "[[Mixed Methods Research]]"
   - "[[Semi-structured Interview]]"
+  - "[[Qualitative Research]]"
+  - "[[Documentary Analysis]]"
   - "[[Correlational Research]]"
   - "[[Narrative Synthesis]]"
 related_instruments:
@@ -116,6 +123,7 @@ related_facts:
   - "[[National Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[Literacy Octopus]]"
+  - "[[Institute for Educational Monitoring and Quality Improvement]]"
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[What Works Network]]"
@@ -132,6 +140,7 @@ related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Helgetun_2022_JEP]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
+  - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Slavin_2019_EP]]"
@@ -363,6 +372,18 @@ updated: 2026-09-18
 
 ---
 
+### 命题十　国家教育治理体制决定知识中介形态，高利害市场问责异化研究使用为表演性辩护
+
+> [!concept-lens] 治理体制分化与象征性防御机制
+> 考察宏观国家治理架构与问责利害程度如何塑造[[School Leadership|学校领导]]者的证据接触途径与使用动机，揭示表演性依从与[[Reflective Thinking|反思性探究]]的制度根源。
+
+> [!claim] [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]]
+> **治理体制分化与象征性防御异化** 比较英格兰、苏格兰与德国汉堡基础教育体系的研究使用表明，研究利用并非由个体[[Research Literacy|研究素养]]单向决定，而是深受宏观政治语境与治理体制的塑造：
+> 1. **高利害市场化治理下的表演性依从** 英格兰学校处于高度市场化竞争与严苛督导（[[Ofsted]]）问责下，催生了商业中介的过载推销与校长的认知疲劳。在生存焦虑驱动下，校长将权威机构（如 [[Education Endowment Foundation|EEF]]）证据作为向督导证明专业胜任力、防范降级乃至为削减[[Teaching Assistant|助教]]编制提供合理化借口的表演性防御工具（Performative Compliance），导致真正的[[Reflexivity|反思性]]实践被严重挤压；
+> 2. **低利害缓冲生态下的反思性校本探究** 苏格兰依托地方当局行政缓冲与法定实践者探究，德国汉堡依托稳定的邦立研训（LI）与低利害形成性监测（[[Institute for Educational Monitoring and Quality Improvement|IfBQ]]），学校领导者对外部研究保持去魅态度，依凭微观情境中的[[Contributory Expertise|贡献型专长]]对脱离现场的通用证据进行批判性校准，将研究作为同侪对话与校本探究的起点而非教条指令。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 11–15, 19–23)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -377,6 +398,7 @@ updated: 2026-09-18
 > | **行为变革驱动** | 单向传播无法克服信息赤字，研究利用必须扎根能力、机会与动机驱动实践行为改变 | 证据中介干预方案设计、教师专业发展与行为干预评估 | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 152–153)]]; Lord et al. (2017) |
 > | **关系伙伴与证据民主化** | 超越单向推送与采矿式调研，依托长效互信伙伴关系、第三空间话语与社群共有议程实现深层利用 | 跨界 RPP 联盟、学区治理改革、边缘弱势社区赋权 | Tseng (2022); Prøitz (2022); [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] |
 > | **使用质量范式** | 从侧重证据生产质量与二元采纳转向关注适切证据与审慎实施的双核互构使用质态 | 学校与区域开展循证反思、质量使用评价与能力建设 | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]; Nutley et al. (2013) |
+> | **治理体制与象征性防御** | 宏观治理体制决定中介生态，高利害市场问责异化证据为表演性自保工具，低利害生态庇护反思探究 | 比较教育治理、学校绩效问责、校长证据接触负荷与决策分析 | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
 
 ---
 
@@ -393,6 +415,7 @@ updated: 2026-09-18
 > - **2022 — 七大利益相关者全景论辩与[[Democratising Evidence|证据民主化]]转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思[[Technical Rationality|技术理性]]下单一[[Evidence Standards|证据标准]]的霸权，正式确立以[[Democratising Evidence|证据民主化]]、研究与实践伙伴关系（[[Research-Practice Partnership|RPP]]）、[[Third Space Discourse|第三空间话语]]与教师专业主权为支柱的深层关系型研究利用进路。
 > - **2022 — 从证据质量向使用质量的范式跨越与 [[Quality Use of Research Evidence Framework|QURE]] 框架建构** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表里程碑论文，[[Systematic Review|系统综述]]跨卫生、社工、教育与政策四大领域 112 篇核心[[Document|文献]]，正式提出“教育研究证据质量使用框架”（QURE），确立适切证据与审慎实施双核构件及个体-组织-系统三层使能机制，开辟了从二元采纳走向质态卓越的全新范式。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
+> - **2025 — 治理体制比较与专长社会学视角的证据使用异化** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 首次将专长社会学与治理体制理论引入英德苏三国基础教育研究使用比较，揭示高利害市场化问责异化证据为表演性辩护工具，而低利害与专业自主环境为基于[[Contributory Expertise|贡献型专长]]的合作探究提供了制度庇护。
 
 ---
 
@@ -465,6 +488,7 @@ updated: 2026-09-18
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议英文学术[[Document\|文献]]（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review\|批判性综述]]＋PRISMA 流程 | 30 年文献[[Problem Finding\|问题界定]]与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用[[Deficit Framing\|赤字框架]] | — | 揭示文献在方法多样性下同质化重复“使用不足”结论，陷入推论循环 |
 > | [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] | 29 个 [[OECD]] 国家/地区，37 个教育系统 | 跨国政策[[Questionnaire\|问卷调查]]与 6 国跟进[[Semi-structured Interview\|半结构化访谈]] | 研究利用促成机制普及率与核心阻碍障壁 | 机制均值政策 4.7 项 / 实践 4.9 项；互动项目（实践 86% / 政策 65%）、专项经费 70%、成果分发工具 60% vs 能力建设（政策 49% / 实践 39%）、全系统战略仅 22%；核心障壁前三位为研读时间缺乏、科研周期冲突与专门机制缺乏；科研委托（62%/49%）严重倒置于需求识别（51%/32%） | — | 揭示机制数量与障壁感知的非对称错配（“机制短缺”本质上是现有机制孤立碎片化）；实证确立供给驱动导致的研究生产与实践需求脱节（pp. 107–118） |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威教育改革政策制定（5 个政府专家委员会报告 vs 教育部法定法令，北欧五国政策系统） | 跨文本两阶段引用追踪与文献计量对比（绿色咨询报告与白皮书政令对比） | 专家委员会与教育部政令的证据继承率及来源分布 | 5 个专家委员会共引用 464 篇文献，教育部政令仅引用 22 篇（转化率仅 4.7%）；其中 20 篇（90.9%）仅源于审议 [[OECD]] DeSeCo 项目的单一委员会，OECD 引用频次碾压其他一切机构及知名学者 | $p$ 未报告（全样本追踪） | 证实宏观政策层面的证据利用存在严重的阶段性政治过滤断层，行政首脑机关仅高度倾向于吸纳能够赋权其施政意志的特定超国家中介证据 |
+> | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 英格兰、苏格兰与德国汉堡 9 位中小学与特教[[School Leadership\|学校领导]]者；49 份政策与中介文献 | 跨国比较[[Qualitative Research\|质性研究]]（[[Documentary Analysis\|文献分析]]＋半结构化访谈） | 治理机制对证据中介形态、校长接触负荷与使用功能的影响 | 英格兰高利害市场竞争导致中介泛滥与校长表演性自保使用（压缩反思）；苏格兰地方当局缓冲与实践者探究促进校本批判整合；德国汉堡官僚监测与同侪咨询促成去魅化反思使用 | — | 实证确立国家治理体制对微观证据利用性质的决定性规约，揭示表演性依从与[[Reflective Thinking\|反思性探究]]的制度分野 |
 > | [[Argument_Gough_2022_EvidenceOnEIPP\|Lord et al. (2017; Gough et al., 2022, p. 152)]] | 英格兰 800 余所公立小学、数千名五年级与六年级语文教师及数万名学童 | 大规模多臂[[Randomised Controlled Trials\|随机对照试验]]（Multi-armed RCT，[[Education Endowment Foundation\|EEF]] “识字八爪鱼”试验），由英国国家教育研究基金会（NFER）独立实施 | 精编纸质手册、数字化通讯、专业期刊专栏、低交互网络资源库四类单向传播干预臂对小学毕业统考 Key Stage 2（KS2）阅读写作标准化成绩及教师教学行为的影响 | 经过严格意向性分析（ITT），四类单一信息传播策略在改善学童 KS2 识字成绩上均未达到统计学显著性（[[Effect Size\|效应量]]接近于 0）；教师课堂教学行为亦未见可识别的系统性转变 | 统计学不显著（p > 0.05，效应量接近于 0） | 大规模严谨因果多臂 RCT，确证单纯单向信息推送在改变教学行为与学业产出上的因果无效性，从实证上[[Falsification\|证伪]]了信息赤字[[Hypothesis\|假设]] |
 > | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] | 卫生保健、社会关照、教育与公共政策四大实践领域 | 跨领域[[Systematic Review\|系统综述]]与叙事综合（PRISMA 规程） | 跨学科数据库检索检出与最终纳入篇数分布 | 初检 10,813 篇，查重后 10,634 篇，初筛剔除 9,837 篇，评估 797 篇全文，最终精选 112 篇核心文献（卫生 30 篇、社工 29 篇、教育 31 篇、政策 22 篇）撰写 6,000–12,000 词综述 | — | 首次跨领域系统检视使用质量文献，实证揭示各领域对使用质量显性定义的普遍匮乏，并确立[[Professional Judgment\|专业判断]]与系统动态性两大跨界共识（pp. 135–140） |
 
@@ -484,6 +508,7 @@ updated: 2026-09-18
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型，系统批判官方治理模型遗漏外层系统的盲区，并依据多臂 [[Randomised Controlled Trials|RCT]] 因果实证阐明扎根行为改变科学的理论路径。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 汇聚经合组织、资助机构、研究学者与国际教师工会等七大利益相关者群体，系统检视教育研究利用的结构性断层，提出[[Democratising Evidence|证据民主化]]、去采矿式伙伴关系、[[Third Space Discourse|第三空间对话]]机制与教师组织自主[[Knowledge Production|知识生产]]的全景治理方案。
 > - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 针对[[International Education|国际教育]]界长期侧重证据质量而忽视使用质量的理论盲区，基于四大领域 112 篇核心文献的跨领域[[Systematic Review|系统综述]]与[[Narrative Synthesis|叙事综合]]，提出教育中研究证据质量使用框架（QURE），确立适切研究证据与审慎参与实施双核心构件，以及个体、组织与系统三层协同使能结构，开辟了从二元采纳走向使用质量的新[[Paradigm|范式]]。
+> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国基础教育体系，首次从专长社会学与治理体制视角剖析[[School Leadership|学校领导]]者的研究使用经验，揭示高利害市场问责导致证据被表演性利用以维持合法性，而低利害环境为[[Contributory Expertise|贡献型专长]]与合作校本探究保留了关键空间。
 
 ---
 
