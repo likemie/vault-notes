@@ -42,6 +42,7 @@ related_concepts:
   - "[[School Effectiveness]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Educational Governance Framework]]"
 related_methods:
   - "[[Cluster Analysis]]"
   - "[[Coding in Qualitative Research]]"
@@ -53,11 +54,15 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Analysis of Variance]]"
   - "[[Standard Error]]"
+  - "[[Omega-Squared]]"
 related_instruments: []
 related_persons:
   - "[[John W. Meyer]]"
+  - "[[Herbert Altrichter]]"
+  - "[[Helmut Fend]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Schulqualität Allgemeinbildung]]"
 related_arguments: []
 sources:
   - "[[sources/Altrichter_2019_ZfB/Altrichter_2019_ZfB|Altrichter_2019_ZfB]]"
@@ -71,7 +76,7 @@ title: "Argument_Altrichter_2019_ZfB"
 argument_key: "Argument_Altrichter_2019_ZfB"
 argument_display_title: "Schulleitungen und evidenzbasierte Bildungsreform im Schulwesen"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -105,8 +110,8 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **教育治理分析框架（Educational Governance Framework）**<br>Schimank (2007); Altrichter & Maag Merki (2016) | 将治理界定为教育系统多层级决策形成与行动者协调的核心机制；提炼出从投入导向向产出导向演进（A1）与系统各层级行动者分工协作重组（A2）两大分析维度，为剖析宏观政策变迁与组织内部权力再配置提供理论坐标。（pp. 18–20） |
-> | **再情境化理论（Recontextualisation Theory）**<br>Fend (2006); Ball et al. (2012); Spillane (2012) | 揭示宏观政策并非单向度线性落实，而是制度结构供给在学校现场被行动者感知、[[Transfer Translation Transformation\|转译]]与重构的复杂过程；校长作为学校变革的[[Gatekeepers\|把关人]]，其价值态度直接决定了政策意图能否转化为日常组织实践。（pp. 20–21） |
+> | **[[Educational Governance Framework|教育治理分析框架]]（Educational Governance Framework）**<br>Schimank (2007); Altrichter & Maag Merki (2016) | 将治理界定为教育系统多层级决策形成与行动者协调的核心机制；提炼出从投入导向向产出导向演进（A1）与系统各层级行动者分工协作重组（A2）两大分析维度，为剖析宏观政策变迁与组织内部权力再配置提供理论坐标。（pp. 18–20） |
+> | **再情境化理论（Recontextualisation Theory）**<br>[[Helmut Fend|Fend (2006)]]; Ball et al. (2012); Spillane (2012) | 揭示宏观政策并非单向度线性落实，而是制度结构供给在学校现场被行动者感知、[[Transfer Translation Transformation\|转译]]与重构的复杂过程；校长作为学校变革的[[Gatekeepers\|把关人]]，其价值态度直接决定了政策意图能否转化为日常组织实践。（pp. 20–21） |
 > | **学校效能与领导力理论**<br>Day et al. (2016); Hallinger (2011) | 确立[[School Leadership\|学校领导]]者的价值信念、知识结构与管理行为是塑造[[Organizational Culture\|组织文化]]、教师教学实践并最终间接影响学生[[Academic Achievement\|学业成就]]的关键驱动机制。（p. 21） |
 > | **行动者数据利用类型学（Typologies of Data Use）**<br>Stamm (2003); Wurster & Gärtner (2013); Higham & Earley (2013) | 归纳一线学校应对评估与督导数据的[[Heterogeneity\|异质性]]模式（如抵触阻断、象征借口、被动应付、积极创新），为实证识别校长分群提供经验形态参照。（pp. 21–22） |
 
@@ -133,7 +138,7 @@ issuing_organization: ""
 > |---|---|
 > | **调查设计**<br>横截面问卷调查 | 依托欧盟资助的跨国比较项目 ISI-TL（Ehren et al., 2013; Gustafsson et al., 2015），对奥地利施泰尔马克州全部公立义务教育学校展开全覆盖在线[[Questionnaire\|问卷调查]]（2012 年 11 月至 2013 年 2 月）。（p. 26） |
 > | **分类分析**<br>[[Cluster Analysis\|k 均值聚类分析]] | 运用 $k$ 均值聚类算法对 22 项治理态度题项展开无监督聚类；系统检验 2 至 5 类的聚类方案，在组间方差分离度与理论解释度之间权衡后选定最优的 3 聚类解，并借助组内相关系数（Intraclass Correlation Coefficient, ICC）检验各题项对聚类形成的判别效度。（pp. 27–28） |
-> | **组间差异检验与[[Effect Size\|效应量]]** | 运用单因素方差分析（Analysis of Variance, ANOVA）比较三类聚类群体在学校发展活动与工时分配上的均值差异；报告效应量 Omega-Squared（$\omega^2$）评估实际效应大小，并报告事后 $t$ 检验的两两比较效应量 Cohen's $d$（$\omega^2 > 0.01$ 为弱效应、$0.06$ 为中等效应、$0.14$ 为强效应；$d = 0.20$ 为弱、$0.50$ 为中等、$0.80$ 为强）。（p. 27） |
+> | **组间差异检验与[[Effect Size\|效应量]]** | 运用单因素方差分析（Analysis of Variance, ANOVA）比较三类聚类群体在学校发展活动与工时分配上的均值差异；报告效应量 [[Omega-Squared|Omega-Squared]]（$\omega^2$）评估实际效应大小，并报告事后 $t$ 检验的两两比较效应量 Cohen's $d$（$\omega^2 > 0.01$ 为弱效应、$0.06$ 为中等效应、$0.14$ 为强效应；$d = 0.20$ 为弱、$0.50$ 为中等、$0.80$ 为强）。（p. 27） |
 > | **计算与软件工具** | 采用 R 语言（R Core Team, 2018）、SPSS 22 与 G*Power 3（Faul et al., 2007）进行统计建模、[[Hypothesis\|假设]]检验与统计功效测算。（p. 27） |
 
 > [!sample-panel]- 样本与材料快照
@@ -168,7 +173,7 @@ issuing_organization: ""
 
 #### 1. 投入导向向产出导向转型的制度演进与路径自主原则
 
-理解当前[[School Leadership|学校领导]]实践，必须首先考察教育治理模式的宏观转型。赫伯特·阿尔特里希特（Herbert Altrichter）等学者指出，德语区基础教育在过去数十年经历了从传统投入规制向产出导向循证治理的深层范式转换：
+理解当前[[School Leadership|学校领导]]实践，必须首先考察教育治理模式的宏观转型。[[Herbert Altrichter|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者指出，德语区基础教育在过去数十年经历了从传统投入规制向产出导向循证治理的深层范式转换：
 
 > [!contrast-table] 投入导向治理与产出导向治理的制度逻辑对比
 > | 制度维度 | 传统投入导向治理（Input-Steuerung） | 新型产出导向治理（Output-Steuerung） |
@@ -181,9 +186,9 @@ issuing_organization: ""
 德语区教育治理的宏观转型并非一蹴而就，而是在政策与实践互动中经历了长达二十余年的三阶段演化历程：（p. 19）
 
 > [!phase] 德语区学校系统治理现代化的三阶段演进
-> - **阶段一：1990 年代中叶的[[School Autonomy|学校自主权]]（Schulautonomie）** 逐步放宽中央对规范性投入的过细限制，允许单校在课程微调、校舍出租、赞助获取等事务上拥有自决权。这一阶段确立了赫尔穆特·芬德（Helmut Fend）自 1980 年代倡导的单校自主发展（Einzelschulentwicklung）理念，督导部门逐渐淡出日常微观干预，从规则稽查者逐步转向后台支持。（p. 19）
+> - **阶段一：1990 年代中叶的[[School Autonomy|学校自主权]]（Schulautonomie）** 逐步放宽中央对规范性投入的过细限制，允许单校在课程微调、校舍出租、赞助获取等事务上拥有自决权。这一阶段确立了[[Helmut Fend|赫尔穆特·芬德]]（Helmut Fend）自 1980 年代倡导的单校自主发展（Einzelschulentwicklung）理念，督导部门逐渐淡出日常微观干预，从规则稽查者逐步转向后台支持。（p. 19）
 > - **阶段二：1990 年代后期的校长赋权与校本质量协调工具** 确立校长作为校内行政与专业领导中枢的地位，普遍引入学校发展规划（Schulprogramme）、自我评估与校本质量管理框架，同时上级行政部门通过发布示范题库与试探性统考为自主单校标定发展方向。这一阶段实现了从行政管辖向质量意识的柔性过渡。（p. 19）
-> - **阶段三：2000 年代以来的产出导向与循证监控成型** 2000 年[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）跨国测试公布后，德国与奥地利因实际成绩与传统教育强国自我认知之间出现严重落差，爆发了波及整个公共政策领域的[[PISA Shock|PISA 冲击（PISA Shock）]]（德文：PISA-Schock）。正是这场政策震荡瓦解了投入即保证质量的传统科层惯性，驱动德语区全面转向以国家教育标准（Bildungsstandards）、全域标准化测评、新[[School Inspection|学校督导]]（Neue Schulinspektion）与国家教育报告为主轴的产出导向治理体制。奥地利推行普通学校质量保障体系（德文：Schulqualität Allgemeinbildung，缩写为 SQA），以督导与学校间的成效与目标协定[[Dialogue in Education|对话]]（Bilanz- und Zielvereinbarungsgespräche）驱动单校改进。（pp. 19–20）
+> - **阶段三：2000 年代以来的产出导向与循证监控成型** 2000 年[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）跨国测试公布后，德国与奥地利因实际成绩与传统教育强国自我认知之间出现严重落差，爆发了波及整个公共政策领域的[[PISA Shock|PISA 冲击（PISA Shock）]]（德文：PISA-Schock）。正是这场政策震荡瓦解了投入即保证质量的传统科层惯性，驱动德语区全面转向以国家教育标准（Bildungsstandards）、全域标准化测评、新[[School Inspection|学校督导]]（Neue Schulinspektion）与国家教育报告为主轴的产出导向治理体制。奥地利推行[[Schulqualität Allgemeinbildung|普通学校质量保障体系]]（德文：Schulqualität Allgemeinbildung，缩写为 SQA），以督导与学校间的成效与目标协定[[Dialogue in Education|对话]]（Bilanz- und Zielvereinbarungsgespräche）驱动单校改进。（pp. 19–20）
 
 在制度逻辑上，这一变革确立了目标的统一设定与路径的自主探索原则（Autonomie der Wege, nicht der Ziele; Heid, 2003）：中央收拢了教育目标的界定权，但将实现目标的具体教学法与组织调控权让渡给单校。这种双重重组使校长成为连接宏观政策与微观实践的核心纽带。（pp. 20–21）
 

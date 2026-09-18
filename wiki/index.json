@@ -11475,6 +11475,18 @@
     ]
   },
   {
+    "title": "Educational Governance Framework",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Educational Governance Framework.md",
+    "aliases": [
+      "教育治理分析框架",
+      "教育治理理论",
+      "治理分析框架",
+      "Bildungsgovernance",
+      "Educational Governance"
+    ]
+  },
+  {
     "title": "Four Generations of Research Use",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Four Generations of Research Use.md",
@@ -15336,6 +15348,15 @@
     ]
   },
   {
+    "title": "Omega-Squared",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Omega-Squared.md",
+    "aliases": [
+      "欧米茄平方",
+      "Omega Squared"
+    ]
+  },
+  {
     "title": "One-Group Pretest-Posttest Design",
     "type": "method",
     "path": "wiki/methods/quantitative/One-Group Pretest-Posttest Design.md",
@@ -16794,6 +16815,26 @@
       "斯蒂芬·凯米斯",
       "凯米斯",
       "Kemmis, S."
+    ]
+  },
+  {
+    "title": "Helmut Fend",
+    "type": "person",
+    "path": "wiki/persons/austria/Helmut Fend.md",
+    "aliases": [
+      "赫尔穆特·芬德",
+      "芬德",
+      "H. Fend"
+    ]
+  },
+  {
+    "title": "Herbert Altrichter",
+    "type": "person",
+    "path": "wiki/persons/austria/Herbert Altrichter.md",
+    "aliases": [
+      "赫伯特·阿尔特里希特",
+      "阿尔特里希特",
+      "H. Altrichter"
     ]
   },
   {
@@ -19644,6 +19685,17 @@
       "Q Project",
       "Monash Q",
       "The Monash Q Project"
+    ]
+  },
+  {
+    "title": "Schulqualität Allgemeinbildung",
+    "type": "fact",
+    "path": "wiki/facts/austria/Schulqualität Allgemeinbildung.md",
+    "aliases": [
+      "SQA",
+      "奥地利普通学校质量管理体系",
+      "奥地利普通学校质量保障体系",
+      "Schulqualität Allgemeinbildung (SQA)"
     ]
   },
   {
