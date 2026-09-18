@@ -10,9 +10,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "intermediary"
 headquarters: "Sydney, Australia"
@@ -50,6 +50,7 @@ related_instruments: []
 related_persons:
   - "[[Sir Kevan Collins]]"
   - "[[David Gonski]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[Social Ventures Australia]]"
   - "[[Education Endowment Foundation]]"
@@ -88,11 +89,13 @@ updated: 2026-09-18
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展与中介试验历程
-> - **2014 — 机构创设与跨国资本注入** 在英国 [[Education Endowment Foundation|EEF]] 推进全球化扩张的背景下，EEF 联合澳大利亚联邦银行出资，支持 [[Social Ventures Australia|SVA]] 设立证据学习中心（E4L）；由前商业律师马修·迪布尔（Matthew Deeble）出任首任总监，负责全面引进、重构并[[Going Native|本土化]]英国 EEF《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3, 6]]）。
-> - **2015 — 维多利亚州公立学校系统试点** E4L 与维多利亚州教育部达成官方战略合作，正式向该州中小学校长和教师推行澳大利亚版《教学与学习工具包》，以“额外学习月数”为标尺评估不同教学干预的有效性，成功将英国中介模式落地为地方教研实践（EEF, 2021；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]）。
+> - **2014–2015 — 机构创设与跨国资本注入** 在英国 [[Education Endowment Foundation|EEF]] 推进全球化扩张的背景下，EEF 联合澳大利亚联邦银行（Commonwealth Bank of Australia）出资，支持 [[Social Ventures Australia|SVA]] 设立证据学习中心（E4L）；由前商业律师马修·迪布尔（Matthew Deeble）出任首任首席执行官，负责全面引进、重构并[[Going Native|本土化]]英国 EEF《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3, 6]]）。
+> - **2015–2016 — 维多利亚州公立学校试点与本土表达重塑** E4L 与维多利亚州教育部等建立官方战略合作，正式向中小学校长和教师推行澳大利亚版工具包；通过改写英式专业术语（如将 pupils 替换为 students、head teacher 替换为 school leaders、key stages 替换为 year levels）、嵌入澳大利亚伴随研究并对齐各州学校改进框架，推动月访问量突破 2.2 万次（EEF, 2021；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]）。
 > - **2016–2017 — 借道试验样板游说联邦生产力委员会** 面对联邦财长委托开展的“国家教育证据基础”审查，SVA 提交 50 页专项建议书，高调引用 E4L 的本土试验成果，宣称“SVA 创办 E4L 旨在试点[[Educational Brokerage Agency|证据经纪人]]；既然样板已验证成功，现在迫切需要在国家尺度上建立大规模法定解决方案”（SVA, 2017a, p. 1；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 7]]）。
+> - **2017–2019 — 实验研究能力培育与全澳最大教育 RCT 试验** 为打破澳洲本土实验研究匮乏的瓶颈，E4L 与教育行政部门共同出资委托现有评估机构开展高标准试验，在南澳大利亚州组织了涵盖 158 所学校、超 7,000 名学生的“思维数学”（Thinking Maths）随机对照试验，成为澳大利亚规模最大的教育 RCT，直接推动联邦与各州教育部长对高质量实证标准的政策共识。
 > - **2018 — 跨国矿业资本助力与全球生态对接** 英国 EEF 与跨国铁矿石巨头必和必拓旗下基金会启动为期五年的“[[Building a Global Evidence Ecosystem for Teaching|构建全球教学证据生态系统]]”项目，E4L 作为核心海外枢纽获得持续资助，并与拉美 Summa 等镜像机构建立跨国循证[[Policy Network|政策网络]]（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 49]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 8]]）。
-> - **2021–至今 — 国家级机构 [[Australian Education Research Organisation|AERO]] 落成后的职能重构** 随着澳大利亚联邦与各州联合注资 5000 万澳元设立国家法定中介 AERO，E4L 完成了由“体制外试验原型”向“国家证据基础设施铺路石”的战略跃进，持续在循证项目实施指导与地方学校网络中扮演互补角色（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 7–10]]）。
+> - **2021 — 国家级机构 [[Australian Education Research Organisation|AERO]] 设立与战略终局达成** 经过多年跨党派游说，联邦与各州教育部长联合注资 5,000 万澳元正式成立国家法定中介机构 AERO，达成了 E4L 作为政策催化剂的预设“终局”（Endgame）。
+> - **2024–至今 — 剥离独立运行与常态化数字服务** 2024 年 3 月，E4L 完成在 SVA 内部近十年的孵化使命，作为独立运营平台平稳过渡，持续向全澳教育工作者免费开放其沉淀的证据工具包与实践指南资源库。
 
 ---
 
@@ -101,21 +104,24 @@ updated: 2026-09-18
 > [!actor-grid] 组织治理架构与母体从属
 > - **母体控制（[[Social Ventures Australia|SVA]] 全资控股）** E4L 并非独立法人实体，其行政人事、法律审计与财务运营完全依托母体澳大利亚社会创投（SVA），是 SVA 进军基础教育公共政策领域的专业操作手臂（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 6–7]]）。
 > - **执行领导层（跨国商法精英主导）** 由前跨国商业律师马修·迪布尔长期担任总监。埃玛·罗威（Emma Rowe）特别指出，迪布尔没有任何一线公立中小学教师或校长从业经历，体现了跨国商法和企业咨询精英在循证中介机构中的主导性占位（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]）。
+> - **学术咨询治理（学校专家咨询委员会）** 设立学校专家咨询委员会（Schools Expert Reference Council），特邀墨尔本大学教育荣休教授、澳大利亚教学与学校领导力研究院（AITSL）前主席[[John Hattie|约翰·哈蒂]]（John Hattie）出任委员会主席，统筹本土顶尖学者与实践者对工具包本土化转译及指导指南（Guidance Reports）进行学术把关与方法论指导。
 > - **跨国战略伙伴网络** 深度绑定英国 [[Education Endowment Foundation|EEF]] 专家网络（包括 EEF 首任首席执行官 [[Sir Kevan Collins]] 的常态化业务指导），并与澳大利亚联邦银行基金会、[[BHP Foundation|必和必拓基金会]]保持紧密的资助协同关系（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3, 6, 8]]）。
 
-> [!pathways]- 业务运行与原型试验机制
-> - **工具包[[Going Native|本土化]][[Transfer Translation Transformation|转译]]** 对英国 EEF 工具包的全球[[Meta-analysis|元分析]]与因果实证[[Document|文献]]进行本土情境二次[[Coding in Qualitative Research|编码]]，针对澳大利亚原住民教育、偏远地区学校与读写障碍干预增设本土证据滤镜。
-> - **州级教育行政对接** 绕开联邦繁琐立法流程，先以慈善试验名义与州级教育部（如维多利亚州）签订试点协议，以免费工具包和培训服务换取学校入场券。
-> - **政策议程反向包装** 收集地方试点学校的好评反馈，将其包装为“[[Evidence-Based Education|循证教育]]在澳洲具备可行性”的实证凭据，递交联邦审查委员会作为呼吁国家立项的游说弹药。
+> [!pathways]- 业务运行与“建构-共享-运用”三维中介机制
+> - **证据生产与本土建构（Build Evidence）** 资助并委托第三方科研机构开展 3 项[[Randomised Controlled Trials|随机对照试验]]（RCTs）、2 项先导试验、4 项系统性文献综述与 2 项专题调查；设立本土评估者专家库（Evaluator Panel）并提供国际标准培训，弥补澳大利亚本土高公信力实验实证产能的不足。
+> - **知识转化与情境共享（Share Knowledge）** 依托 EEF 全球 30,000 余项研究摘要，重构形成涵盖 34 类教学策略的《教学与学习工具包》及早期儿童教育工具包；组织澳洲一线实践者与学科专家编制《实践指导指南》（Guidance Reports），累计发布超过 175 份循证专业资源。
+> - **实践赋能与多方协同（Support Use）** 秉持“在合作中开展所有活动”原则，与维多利亚州、新南威尔士州和北领地教育部深度合作，举办逾 425 场专业研修活动（覆盖超 1.6 万名教育工作者），推动证据从被动“灌输推送”（Push）转向学校按需“主动索取”（Pull）。
+> - **慈善冒险与政策反向包装** 依托联邦银行等机构提供的长期风险慈善资本，承担政府教育部门不愿冒险的前期试错成本；通过“大声学习”（Learn Out Loud）公开所有评估结果与政策建议书，向联邦政府论证国家级法定证据机构的可行性与紧迫性。
 
 ---
 
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **澳大利亚版《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit - Australia）** 参照英国 [[Education Endowment Foundation|EEF]] 架构，汇总逾 5,500 项实证研究，以直观的“额外[[Months of Progress|月度学业进展]]”（Months of Progress）、成本星级和证据挂锁安全度呈现 30 余类教学策略。
-> - **早期儿童教育工具包（Early Childhood Education Toolkit）** 针对学前与幼小衔接阶段的读写早期干预发布本土证据摘要。
-> - **[[Clinical Trial|临床试验]]与实施指南** 翻译并出版针对[[School Leadership|学校领导]]者的《实践指导指南》（Guidance Reports），协助校长根据需求本位拨款分配学校预算。
+> - **澳大利亚版《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit - Australia）** 参照英国 [[Education Endowment Foundation|EEF]] 架构并深度本土化，系统收录 34 类教学策略，以直观的“额外[[Months of Progress|月度学业进展]]”（Months of Progress）、成本星级和挂锁证据强度呈现，成为全澳一线校长与教研主任高频查阅的核心导航工具。
+> - **早期儿童教育工具包（Early Childhood Education Toolkit）** 针对学前教育与幼小衔接阶段的读写启蒙、早期干预发布本土循证策略指南。
+> - **本土化《实践指导指南》（Guidance Reports）** 结合国际证据与澳大利亚课堂本土图景，针对数学教学、元认知、阅读提升与实施科学编制可操作的行动指引（全澳累计下载量近 17 万次）。
+> - **循证评估与先导试验报告** 公开出版南澳“思维数学”等大型实验研究报告，推动建立严格的研究透明度标准。
 
 > [!citation-card] E4L 官方关于中立与独立性的公关宣称
 > 迪布尔与沃恩在官方报告中高调宣称：至关重要的是，我们独立于所有学校教育的提供方、资助方、项目开发机构、研究学者与政府部门。这种绝对独立使我们能够为校领导与教师客观呈现证据，助力其做出更优的投资决策。（Deeble & Vaughan, 2018, p. 11；引自 [[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]）
@@ -127,14 +133,15 @@ updated: 2026-09-18
 ## 影响与体系成效
 
 > [!indicators]- 影响力维度与指标
-> - **学校试点动员** 2015 年起在维多利亚州公立中小学广泛铺开，成为澳大利亚最早被公立学校决策层常规使用的交互式证据工具库。
-> - **国家政策制度催化** 成功将英国有效性运动话语引入澳大利亚主流政策圈，其运营成果被 2016 生产力委员会和 2018 [[Gonski 2.0]] 报告全盘肯定，直接促成联邦与各州政府在《全国学校改革协议》中承诺向国家级证据机构注资 5000 万澳元。
+> - **学校决策与教师专业动员** 深度嵌入各州公立学校系统（如维多利亚州学校改进模型），成为教师日常教研备课、资源选配的高频参考，工具包月访问量达 2.2 万次，核心用户逾 2.6 万人。
+> - **实验研究能力突破** 打造澳大利亚教育史上最大规模 RCT 试验（南澳“思维数学”，158 所学校，7,000+ 名学生），实质性提升了澳大利亚高等院校与评估机构设计执行因果实证的整体产能。
+> - **跨党派国家政策共识达成** 成功在工党与联盟党之间建立“证据超越党派政治”的政策共识，其模式直接启发 2016 生产力委员会和 2018 [[Gonski 2.0]] 报告，促成联邦政府在 2020 年正式注资 2,500 万澳元（与各州配套共 5,000 万澳元）设立国家法定机构 AERO。
 
 > [!stat-cards]- 核心规模数据
-> - **2014 年** 机构创设年份，标志着英澳跨国[[Evidence-Based Education|循证教育]]流动网络的正式建立
-> - **5,500+ 项** [[Going Native|本土化]]工具包底层综合的国际与本土实证研究总量
-> - **50 页** [[Social Ventures Australia|SVA]] 以 E4L 样板为凭据向生产力委员会提交的国家证据基础专项游说报告篇幅
-> - **5000 万澳元** 借道 E4L 试验样板游说成功的联邦与各州 [[Australian Education Research Organisation|AERO]] 启动专项注资
+> - **175+ 份** 累计编制并向全澳公立教育工作者免费发布的循证实践资源与工具包总数。
+> - **158 所 / 7,000+ 名** 委托开展的澳大利亚史上最大规模教育随机对照试验（Thinking Maths）覆盖的学校与学生规模。
+> - **425 场 / 16,000+ 人** 与各州教育部及专业协会联合举办的证据运用研讨会场次及培训教师总人数。
+> - **5,000 万澳元** 借道 E4L 试验样板游说促成的联邦与各州设立国家法定中介 [[Australian Education Research Organisation|AERO]] 的启动专项注资。
 
 ---
 
@@ -173,6 +180,7 @@ updated: 2026-09-18
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Instrument) | E4L 在澳大利亚全盘引进、[[Going Native\|本土化]]并试点的核心循证工具。 |
 > | [[BHP Foundation]] | Fact (Organization) | 资助 E4L 参与“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”的跨国矿业资本方。 |
 > | [[David Gonski]] | Person | 其领衔的 [[Gonski 2.0]] 审查采纳 SVA 建议提出第 23 条建议，完成政策落地。 |
+> | [[John Hattie]] | Person | 出任 E4L 学校专家咨询委员会（Schools Expert Reference Council）主席，指导工具包本土化转化。 |
 > | [[Educational Brokerage Agency]] | Concept | E4L 属于典型的准独立慈善基金会型教育证据中介机构。 |
 > | [[Policy Network]] | Concept | E4L 是澳洲连接跨国[[Venture Philanthropy\|风险慈善]]、商业银行与教育部委的枢纽节点。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 详细解构 E4L 作为 SVA 全资子公司、中立表象以及游说 AERO 的因果链条。 |
