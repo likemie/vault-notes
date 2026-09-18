@@ -336,9 +336,9 @@ updated: 2026-09-18
 > |---|---|---|---|---|
 > | **部委直属嵌入型** | 新西兰 [[Best Evidence Synthesis\|BES]]；<br>荷兰 [[Kenniskamer]] | 教育部内设处室，全额依托政府行政预算运作。 | 政策对齐度极高，研究直通国家决策核心。 | 缺乏学术自主，极易随政党轮替被撤销或边缘化。 |
 > | **政府资助自治型** | 日本 [[National Institute for Educational Policy Research\|NIER]]；<br>澳大利亚 [[Australian Education Research Organisation\|AERO]]；<br>瑞士 [[Swiss Coordination Centre for Research in Education\|SKBF / CSRE]]；<br>挪威 [[Kunnskapssenter for utdanning]]；<br>加拿大 [[Canadian Council on Learning\|CCL]]；<br>瑞典 [[Swedish Institute for Educational Research\|Skolfi]] | 依托国家独立行政法人立法、议会法案或联邦/各州跨辖区联合资助。 | 享法定学术独立性，与日常政治保持健康专业距离。 | 跨部门与跨辖区协调成本高；分权体制下存财政撤销风险。 |
-> | **大学依托合同型** | 英国 [[EPPI-Centre]]；<br>丹麦 [[Danish Clearinghouse for Educational Research\|丹麦清算中心]] | 扎根顶尖大学学术共同体，依托部委定期服务合同或自主承接科研课题。 | 学术信誉高，能借助大学研究生态与团队开展前沿系统综合。 | 高度依赖政府续约合同，合同终止即面临关停清算。 |
-> | **独立慈善基金型** | 英国 [[Education Endowment Foundation\|EEF]]；<br>土耳其 [[Education Reform Initiative\|ERG]] | 独立慈善信托或民间战略基金会支持，靠永久留本基金运作。 | 战略自主性强，彻底摆脱 2–3 年选举周期撕扯，响应敏捷。 | 与正式问责法规易脱节，若政策不采纳存体制外悬浮风险。 |
-> | **高校依托混合资助型** | 德国 [[Clearing House Unterricht\|教学研究清算中心]]（CHU） | 慕尼黑工业大学教师教育团队运营，联邦专项孵化，民间慈善基金会接续资助。 | 兼具大学学术严谨性与基金会长期稳定性，紧扣师范源头培育。 | 依赖特定基金会承诺，辐射范围主要受制于德语区与师资培养体制。 |
+> | **大学学术驱动／依托型** | 英国 [[EPPI-Centre]]（伦敦大学学院依托-服务合同型）；<br>丹麦 [[Danish Clearinghouse for Educational Research\|丹麦清算中心]]（奥胡斯大学依托-政府合同期满关停）；<br>德国 [[Clearing House Unterricht\|教学研究清算中心]]（CHU，慕尼黑工业大学依托-联邦项目孵化转基金会资助） | 扎根顶尖大学学术共同体与师资培养生态，依托部委服务合同、高校专职团队或民间基金会接续资助运作。 | 学术信誉高，能借助大学科研生态开展深度系统综合，天然紧扣师范培养与高校研训体系。 | 高度依赖外部项目合同或专项资助承诺，合同终止即面临关停清算（如丹麦清算中心）；大学科层体制协同成本较高。 |
+> | **独立慈善信托／基金会型** | 英国 [[Education Endowment Foundation\|EEF]]（政府种子基金设立的独立慈善信托）；<br>土耳其 [[Education Reform Initiative\|ERG]]（民间战略基金会联合资助） | 独立于政府科层架构的慈善信托或基金会实体，靠永久留本基金收益或战略慈善注资独立运作。 | 战略与运营自主性极强，彻底摆脱 2–3 年政党选举周期撕扯，能够保持长期定力，技术响应敏捷。 | 与正式行政法规和问责体系易脱节，高度依赖留本基金投资收益；若政策端不采纳存体制外悬浮风险。 |
+
 
 > [!row-contrast] 国际教育中介机构的制度特征：目标受众分工谱系（pp. 61–64）
 > | 受众导向类型 | 典型代表案例 | 核心中介机制与产出 | 比较优势与功能价值 | 局限与伴生挑战 |
