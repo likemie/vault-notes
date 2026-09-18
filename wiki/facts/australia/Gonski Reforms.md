@@ -8,7 +8,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -28,7 +28,9 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Karmel Report]]"
-related_arguments: []
+  - "[[Social Ventures Australia]]"
+related_arguments:
+  - "[[Argument_Rowe_2022_IJER]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -81,7 +83,7 @@ updated: 2026-09-18
 > [!warning] 争议与评论
 > - **"不让任何学校更糟"条款**被批评为事实上维护了结构性不平等——即使有 Gonski 的额外资金，资金最充足的私立学校仍然获得最多资源（Keddie et al., 2020, IJLE, p.12-13）
 > - **透明度和行政支持的缺乏**使公平资金的预期效果无法实现，校长可能将拨款用于其他优先事项（Keddie et al., 2020, IJLE, p.11-12）
-> - **文化符号与公共信任的工具化借用** 戴维·冈斯基（David Gonski）作为商业律师与风险慈善顾问，其名字因公立学校工会活动（#igiveagonski）而在公众中被塑造成公平投入的道德符号；埃玛·罗威（Emma Rowe）批评指出，Gonski 2.0 报告（特别是倡设国家独立证据机构的第 23 条建议）被政策网络策略性地用作“认知标签”（epistemic label）与公众合法性杠杆，借以推销由[[Social Ventures Australia|澳大利亚社会创投]]（SVA）游说推动的证据经纪人模式，实则掩蔽了底层跨国金融与咨询资本的治理渗透（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 2–3, 10]]）。
+> - **文化符号与公共信任的工具化借用** 戴维·冈斯基（David Gonski）作为商业律师与风险慈善顾问，其名字因公立学校工会活动（#igiveagonski）而在公众中被塑造成公平投入的道德符号；埃玛·罗威（Emma Rowe）批评指出，Gonski 2.0 报告（特别是倡设国家独立证据机构的第 23 条建议）被政策网络策略性地用作认知标签（epistemic label）与公众合法性杠杆，借以推销由[[Social Ventures Australia|澳大利亚社会创投]]（Social Ventures Australia, SVA）游说推动的证据经纪人模式，实则掩蔽了底层跨国金融与咨询资本的治理渗透（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 2–3, 10]]）。
 
 ## 相关概念／理论
 

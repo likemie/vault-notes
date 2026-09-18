@@ -59,7 +59,7 @@ Total entries: **524**
 
 > [!trail]- Evidence infrastructure (8)
 > - [[Areas of Research Interest]] — 由英国中央政府各行政部委常态化公开发布的政策科研需求清单，旨在明确界定政府未来决策面临的核心政策痛点与亟需研究问题，引导大学高等教育机构、科研院所与资助机构对齐国家重大战略需求，构筑政府智能客户与学术界之间的长效沟通桥梁
-> - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，成立于2010年代后期。作为什么是有效（what works）运动在澳大利亚的制度化载体，AERO致力于评估和推广循证教育实践。其在2023年《强劲开端》改革中扮演了核心角色，是推动全国初始教师教育（Initial Teacher Education, ITE）标准化和惩罚性问责的重要政策节点。
+> - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，2021年依据《公司法》注册为担保有限公司。表面宣称为部委所有、独立客观的证据经纪人，推动什么是有效（what works）循证实践与初始教师教育标准化；实则为麦肯锡背景风险慈善机构 SVA 联合跨国投行资本十年游说的装配产物，并获立法特许向私营咨询分包。
 > - [[Azione LIM]] — 2008年意大利教育部推动的互动白板采购与教师培训政策，向学校提供35114块互动白板但被用作证据不足的教育技术投入案例。
 > - [[BERA-RSA Inquiry into the Role of Research in Teacher Education]] — 由英国教育研究学会（BERA）与英国皇家艺术学会（RSA）于 2013–2014 年联合开展的里程碑式国家调查，正式确立教师研究素养是教师专业效能与自我完善教育系统的核心基石。
 > - [[Best Evidence Encyclopedia]] — 约翰斯·霍普金斯大学教育研究与改革中心（CRRE）由 Robert Slavin 创立的教育专精证据清算中心，以最佳证据综合法（BES）、常规教学对照组要求及加权效应量（ES≥+0.20 SD）为核心，现已孵化演进为 Evidence for ESSA 决策平台
@@ -118,7 +118,7 @@ Total entries: **524**
 
 > [!index-list]- Organization (8)
 > - [[Australian Council for Educational Research]] — 澳大利亚教育研究与评估组织，独立于政府，负责开发和管理初始教师教育学生读写与算术统考（LANTITE）。在初始教师教育改革问责链条中充当核心中介，通过运营统考每年获得数百万澳元的巨大商业利益。
-> - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，成立于2010年代后期。作为什么是有效（what works）运动在澳大利亚的制度化载体，AERO致力于评估和推广循证教育实践。其在2023年《强劲开端》改革中扮演了核心角色，是推动全国初始教师教育（Initial Teacher Education, ITE）标准化和惩罚性问责的重要政策节点。
+> - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，2021年依据《公司法》注册为担保有限公司。表面宣称为部委所有、独立客观的证据经纪人，推动什么是有效（what works）循证实践与初始教师教育标准化；实则为麦肯锡背景风险慈善机构 SVA 联合跨国投行资本十年游说的装配产物，并获立法特许向私营咨询分包。
 > - [[Australian Institute for Teaching and School Leadership]] — 澳大利亚联邦政府设立的全国性教师专业机构，成立于2011年。负责制定全国教师专业标准及初始教师教育（ITE）项目的认证程序。在2023年《强劲开端》改革中，其职权被大幅扩张，受托将“大脑与学习”等标准化核心内容强制嵌入国家认证大纲，成为推行绩效问责与监视治理的关键治理节点。
 > - [[BHP Foundation]] — 由全球跨国资源巨头必和必拓集团全资设立的风险慈善组织，通过与英国教育捐赠基金会订立五年战略协议，在全球资助拉美Summa与澳大利亚E4L等证据中介，推动全球教育证据生态构建并介入主权国家教育大纲治理
 > - [[Centre for Evidence and Implementation]] — 总部位于澳大利亚的跨国非营利证据中介机构（Evidence Intermediary）。在2023年《强劲开端》教师教育改革前夕，受AERO委托撰写了教育循证实践桌面审查，为国家核心大纲的强制出台提供了关键的底层证据支撑，同时也因证据链条的封闭和局限性受到政策社会学者的批评。

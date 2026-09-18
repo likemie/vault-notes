@@ -17,7 +17,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 91
+related_count: 95
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Normal School]]"
   - "[[Legislative Policy Brief]]"
+  - "[[Venture Philanthropy]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence Backlash]]"
   - "[[Epistemology]]"
@@ -71,6 +72,7 @@ related_concepts:
 related_theories:
   - "[[COM-B Model]]"
   - "[[Theory of Change]]"
+  - "[[Actor-Network Theory]]"
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods:
   - "[[Systematic Review]]"
@@ -81,6 +83,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Correlational Research]]"
+  - "[[Network Ethnography]]"
 related_instruments:
   - "[[EMMIE Framework]]"
 related_persons:
@@ -111,9 +114,9 @@ related_facts:
   - "[[American Association of Colleges for Teacher Education]]"
   - "[[Rapid Assessment and Response Strategy]]"
   - "[[Society for Research in Child Development]]"
+  - "[[Australian Education Research Organisation]]"
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Australian Education Research Organisation]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Sutton Trust]]"
   - "[[What Works Network]]"
@@ -123,6 +126,7 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
 confidence: high
@@ -329,6 +333,16 @@ updated: 2026-09-18
 
 ---
 
+### 命题九　证据中介机构作为无生命客体装配体掩盖了风险慈善与咨询资本的治理渗透
+
+> [!concept-lens] 金融化话语与制度客体装配
+> 运用行动者网络理论与政策网络视角，探讨证据中介机构如何借由中立量规与公司法条文构筑科学表象，掩蔽跨国金融资本与咨询寡头的政策治理渗透。
+
+> [!claim] Rowe, E.
+> **金融化语系统摄与无生命客体的耐用装配** 罗威（[[Argument_Rowe_2022_IJER|Rowe, 2022]]）基于对澳大利亚国家级证据中介机构[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）的企业注册档案、立法修订与跨国网络的深入追踪指出，证据经纪人（evidence broker）与买入（buy in）等核心概念源自金融借贷与风险投资语系。政策网络策略性地运用“耐用材料”（durable materials）——如依据《公司法》注册为担保有限公司、在行政规程中修改特许与慈善界合作条款、制定标准化证据量规（evidence rubrics）与因果实验规程——在空间中固化出一座看似超党派、客观中立的“防野狗围栏”（dingo fence），声称将政治彻底移出课堂；然而，这一无生命客体装配实质上掩蔽了麦肯锡系[[Venture Philanthropy|风险慈善]]机构长达十年的游说轨迹，为跨国金融资本与营利性咨询寡头合法分包国家公共教育科研议程开辟了特许通道，深层侵蚀了公共教育的民主问责机制。[[Argument_Rowe_2022_IJER|(Rowe, 2022, pp. 2–5, 10–11)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -342,6 +356,7 @@ updated: 2026-09-18
 > | **单向传播无效性命题** | 单纯学术成果推送对学生学业产出效应量为零，无法跨越专业认知与实践鸿沟 | 中介成果传播策略设计、[[Knowledge Mobilisation\|知识动员]]干预方案评估 | Lord et al. (2017); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, p. 152)]] |
 > | **外层整合战略抉择命题** | 宏观系统统筹缺位下面临功能拓展下沉（EEF）与紧凑聚焦法定统筹（NICE）两难 | 知识中介机构组织定位、宏观政策与高利害问责体制衔接 | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 150–151)]] |
 > | **立法中介与敏捷响应命题** | 立法生态依赖智库示范条文转译、选民赋权经纪与学会极速应急机制 | 联邦宏观立法审议、议员办公室游说、委员会听证与危机响应 | [[Zewelanji N. Serpell\|Serpell (2020)]]; Weiss (1989) |
+> | **金融化装配与资本渗透命题** | 证据经纪人概念源于金融语系，中立客体装配掩盖风险慈善游说与私营特许分包 | 国家证据中介机构创设、循证工具包推广、公私网络治理与跨国资本流动 | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] |
 
 ---
 
@@ -351,6 +366,7 @@ updated: 2026-09-18
 > - **2000–2007 — 政策导向与早期制度化试点** 伴随[[OECD|经合组织]]《教育中的证据：连接研究与政策》（OECD, 2007）发布，美、英、新西兰、丹麦、荷兰等多国建立早期教育中介机构（如 [[What Works Clearinghouse|WWC]]、[[EPPI-Centre]]、[[Best Evidence Synthesis|NZ BES]]、[[Danish Clearinghouse for Educational Research|Danish Clearinghouse]]、[[Kenniskamer]]），工作重心几乎完全聚焦于中央政策制定与高层宏观决策咨询（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 56–58, 64]]）。
 > - **2010–2015 — 实践转向与规模化工具包普及** 欧洲 EIPEE 项目扩展为纳入实践维度的 EIPPEE 网络（2011）；英国斥巨资设立 [[Education Endowment Foundation|EEF]]（2011）并发布直面教师与校领导的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit）；[[Knowledge Mediation|知识中介]]服务重心全面由政策端向学校课堂与教师实践端大范围倾斜（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57–58]]）。
 > - **2016–2022 — 复杂系统治理、后真相挑战与元中介协作** 社交媒体时代算法信息茧房、对专业知识的不信任与后真相（Post-truth）语境带来“[[Evidence Backlash|证据反弹]]”（Evidence Backlash）；澳大利亚 [[Australian Education Research Organisation|AERO]] 等新一代机构相继成立；学者反思过度偏向实践导致政策责任缺位，强调重塑政策-实践双向循环，并在循证医学镜鉴下提出“中介的中介”（Brokering the Brokers）系统化治理构想（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58–60, 66–69]]）。
+> - **2022–至今 — 金融化批判与公私政策网络解构** 学者开启对证据中介底层治理结构与资本纽带的批判反思；罗威（[[Argument_Rowe_2022_IJER|Rowe, 2022]]）解构了以 AERO 为代表的证据经纪人背后的《公司法》担保有限责任底座、跨国风险慈善网络游说及立法特许商业分包机制，推动了教育中介研究由“技术中立论”向“批判政治经济学”的认识论转向。
 
 ---
 
@@ -396,6 +412,7 @@ updated: 2026-09-18
 > | 同上 | [[Education Endowment Foundation\|Education Endowment Foundation (EEF)]], 英国 | [[Sutton Trust\|萨顿信托]]（Sutton Trust）发起设立的独立慈善信托 | 校长、一线教师、教育中介网络 | 严苛 RCT 评价；发布教学与学习工具包；[[Research Schools Network\|研究学校网络]] | 持续高度活跃（Highly active） | 2011年获英国教育部1.25亿英镑巨额留本基金资助，拥有高度独立的财务与治理保障（p. 58） |
 > | 同上 | [[National Institute for Educational Policy Research]] (NIER), 日本 | 文部科学省同楼办公但保持行政自治的国立研究机构 | 文部科学省、各都道府县教育委员会 | 课程[[Implementation and Process Evaluation\|实施评估]]、国家学力调查与政策实证分析 | 持续稳定运行（Active） | 法定国立政策研究机构定位，与中央教育行政形成稳定的共生协调机制（pp. 61–62） |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | 16 个设立官方中介机构的 [[OECD]] 教育系统 | 涵盖部委直属研究中心、独立评估院、民间基金会与统计局等多形态 | 政策决策者、一线学校实践者、公众 | 全流程生产与促成（6国）vs 单点聚焦（7国） | 16 个系统活跃（5 个系统存在但停滞） | 仅 9 个部委保持经常性联结；英格兰 EEF 仅维持偶尔接触；智利与丹麦部委断联（pp. 81–82, 86–87） |
+> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | [[Australian Education Research Organisation\|AERO]], 澳大利亚 | 依据联邦《公司法》注册的担保有限公司；部委所有与立法特许慈善合作 | 教师、政策制定者、学校领导者 | 统一标准化因果量规；桌面审查；强制性 ITE 核心大纲 | 持续高度活跃（Fully active） | 获联邦与各州 5000 万澳元联合财政注资；受前 18 个月审计豁免与特许私营分包规程支持（pp. 3, 5） |
 
 > [!ref-table]- 英国[[What Works Network\|有效性网络]]（What Works Network）代表性中介机构治理属性与循证模式（Gough et al., 2018, 2022）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

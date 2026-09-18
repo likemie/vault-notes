@@ -1,6 +1,7 @@
 ---
 citation: "Rowe, E. (2022). The assemblage of inanimate objects in educational research: Mapping venture philanthropy, policy networks and evidence brokers. International Journal of Educational Research, 114, 102005. https://doi.org/10.1016/j.ijer.2022.102005"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Rowe_2022_IJER]]"
 processed_date: 2026-09-18
 ---
 
