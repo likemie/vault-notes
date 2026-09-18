@@ -99,7 +99,7 @@ updated: 2026-09-18
 
 > [!actor-grid] 实施协同矩阵
 > - **国家顶层协调** [[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（KMK）制定监测规程，保障测试周期与教育标准的一致性。
-> - **试题研发与常模研制** 柏林洪堡大学教育质量发展研究所（IQB）联合各州学科专家研制经过心理测量学标定的标准化试题库。
+> - **试题研发与常模研制** [[Institute for Educational Quality Improvement|柏林洪堡大学教育质量发展研究所]]（IQB）联合各州学科专家研制经过心理测量学标定的标准化试题库与数字化任务平台。[[Argument_Hartong_2018_GSE|(Hartong, 2018, p. 144)]]
 > - **行政督导与资源调配** 各州教育部质量保障处室负责数据汇总、排查异常薄弱学校，并据此派出指导力量或配置专项促进资金。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 491–492)]]
 > - **一线组织实施** 中小学校长与任课教师负责现场施测、阅卷与校内教研反思，将诊断结果转化为班级补救教学方案。
 
@@ -140,9 +140,11 @@ updated: 2026-09-18
 > |:-----|:-----|:-----|
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | VERA 是该国家监测战略中第三大核心支柱。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 部署并统筹管理 VERA 测试的国家最高协调机构。 |
+> | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 承担 VERA 全国题库研制、元治理协调与数字化任务平台运营的国家计算中心。 |
 > | [[PISA]] | Fact (Program) | 德国监测战略的第一支柱，与 VERA 在宏观定位与微观干预上形成互补。 |
 > | [[TIMSS]] | Fact (Program) | 国际课程对标测试，与 VERA 共同构成德国基础教育阶段的[[Criterion-Referenced Test\|标准参照]]矩阵。 |
 > | [[PIRLS]] | Fact (Program) | 小学 4 年级国际阅读测试，与 VERA-3 在小学阅读素养监控上形成多源互证。 |
 > | [[School Inspection]] | Concept | 德国教育质量监测中的现场过程督导，与 VERA 的量化产出测试协同运行。 |
 > | [[Working Knowledge]] | Concept | VERA 密集高频施测对行政决策者的实践运作知识造成行政过载挤出效应。 |
+> | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | Argument | 剖析 VERA 在全德 16 州扩张过程及其作为数据基础设施驱动政策拓扑重组的机制。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证考察 VERA 测试在德国四个联邦州教育部中的实际治理效力与行政过载瓶颈。 |

@@ -96,7 +96,7 @@ updated: 2026-09-18
 > - **国家教育监测总体战略（2006）** 确立四大实证支柱：(1) 定期参与国际大型评估（[[PISA]]、[[PIRLS|国际阅读素养研究]]（Progress in International Reading Literacy Study, PIRLS）、[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS））；(2) 检验国家教育标准的全国集中测试（教育质量发展研究所联邦州比较测试，第 4、9、10 年级）；(3) 面向全域单体学校的[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA，包含小学 3 年级的 VERA-3 与初中 8 年级的 VERA-8）；(4) 联合国家教育报告体系（Bildungsbericht für Deutschland）。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 484)]]
 > - **促成各州建立[[School Inspection|外部学校督导]]体系** 在四大监测支柱之外，KMK 框架推动各州普遍建立独立的外部[[School Inspection|学校督导]]（Schulinspektion / Schulvisitation）机构与州立教育质量研究院所，通过现场实地视导补充纸笔测评无法涵盖的学校输入与过程质量数据。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 485)]]
 > - **国家教育标准（Bildungsstandards）** 制定覆盖德语、数学、第一外语及自然科学学科的产出导向[[21st Century Skills and Competencies Discourse|核心素养]]标准与能力水平模型。
-> - **教育质量发展研究所（IQB）** 全称教育质量发展研究所（Institute for Educational Quality Improvement, IQB，德语：Institut zur Qualitätsentwicklung im Bildungswesen），2004 年由各州联合创立并托付柏林洪堡大学，作为 KMK 的科学专业支撑机构，专门研制国家测评题库与执行联邦州比较测评。
+> - **[[Institute for Educational Quality Improvement|教育质量发展研究所（IQB）]]** 全称教育质量发展研究所（Institute for Educational Quality Improvement, IQB，德语：Institut zur Qualitätsentwicklung im Bildungswesen），2004 年由各州联合创立并托付柏林洪堡大学，作为 KMK 的科学专业支撑机构与[[Center of Calculation|国家计算中心]]，专门研制国家测评题库与执行联邦州比较测评。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–144)]]
 > - **跨州数据汇聚与单一事实来源（Single Point of Truth）规程** 各州在汇总基层学校数据后，须按统一技术口径向 KMK 宏观数据仓库上报。为消除各州之间及跨时点的数据离散与口径冲突，各州教育部与 KMK 建立了严格的“时间冻结”（temporal freezing）机制（如每年 10 月设定固定的数据封存截止日），将各州异质指标沉淀为权威的单一事实来源（Single Point of Truth），并在 KMK 部长联合新闻发布会上作为官方统计基准对外发布。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 8, 14)]]
 
 ---
@@ -142,6 +142,7 @@ updated: 2026-09-18
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | KMK 于 2006 年制定并统筹推行的纲领性实证监测战略。 |
+> | [[Institute for Educational Quality Improvement]] | Fact (Organization) | KMK 创设并托付柏林洪堡大学运营的国家教育质量与测评研发中枢。 |
 > | [[Vergleichsarbeiten]] | Fact (Program) | KMK 总体战略第三支柱：全德小学与初中校际比较测试。 |
 > | [[PISA]] | Fact (Program) | KMK 总体战略第一支柱：跨国大型学生能力评估项目。 |
 > | [[TIMSS]] | Fact (Program) | KMK 总体战略第一支柱：国际数学与科学[[Trend Study\|趋势研究]]。 |
@@ -152,5 +153,6 @@ updated: 2026-09-18
 > | [[Data Infrastructure]] | Concept | KMK 主导的全国教育监测总体战略依赖高度标准化的跨州数字[[Data Infrastructure\|数据基础设施]]与单一事实来源冻结规程。 |
 > | [[Test-Based Accountability]] | Concept | KMK 在推进国家标准测试的同时坚守禁止学校排名的底线，塑造了德国独特的低利害诊断问责文化。 |
 > | [[Expert Interview]] | Method | 各州教育部在 KMK 监测框架下的履职体验构成了相关实证研究专家访谈的核心内容。 |
+> | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | Argument | 剖析 KMK 监测战略下 IQB 作为国家计算中心与跨尺度绩效数据基础设施的拓扑重组。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 历时考察德国四个联邦州教育部在 KMK 监测框架下的微观接收与行政常规化机制。 |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] | Argument | 剖析 KMK 监测框架在汉堡 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 的具体制度化形态及其向上数据流与单一事实来源机制。 |

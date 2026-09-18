@@ -7,7 +7,7 @@ title: "Argument_Besa_2024_UW"
 argument_key: "Argument_Besa_2024_UW"
 argument_display_title: "Evidenzfernes Lehrkräftehandeln – braucht die Bildungsforschung eine neue Wissenschaftskommunikation? Unterrichtswissenschaft, 52(2), 251–262"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -58,6 +58,9 @@ related_concepts:
   - "[[Champ]]"
   - "[[Empiricism]]"
   - "[[Praxis]]"
+  - "[[Ratgeberliteratur]]"
+  - "[[Refutational Evidence]]"
+  - "[[Virtual Teacher Staffroom]]"
 related_theories:
   - "[[Situative Perspective]]"
 related_methods:
@@ -152,7 +155,7 @@ updated: 2026-09-18
 > [!factors] 阻碍教师吸纳实证研究的三重制约机制
 > - **感知投入成本过高** 在繁重的[[Business as Usual|常态教学]]与行政重负下，在岗教师普遍认为研读方法学密集、统计繁复的实证[[Document|文献]]需要耗费过多的时间与精力，形成了难以逾越的认知门槛（Demski, 2018）。
 > - **直接实践指导性缺失** 大多数一级实证研究聚焦于狭窄[[Variable|变量]]关系的因果检验，缺乏面向课堂情境的[[Operationalization|操作化]]转化方案，难以直接解答课堂教学的具体方案疑问。
-> - **反驳性证据引发的心理防御** 学术文献频繁将焦点置于对教师传统做法与经验直觉的否定与[[Falsification|证伪]]（widerlegende Evidenz），容易激发教师的专业自尊防御，促使其对科研出版物产生整体抵触心理（Bauer & Kollar, 2023）。（p. 254）
+> - **[[Refutational Evidence|反驳性证据]]引发的心理防御** 学术文献频繁将焦点置于对教师传统做法与经验直觉的否定与[[Falsification|证伪]]（widerlegende Evidenz），容易激发教师的专业自尊防御，促使其对科研出版物产生整体抵触心理（Bauer & Kollar, 2023）。（p. 254）
 
 #### 2. 学习风格假说在经验和逻辑上均无法成立且持续扭曲教学资源分配并抑制学生认知发展
 
@@ -222,10 +225,10 @@ updated: 2026-09-18
 > | 传播载体 | 核心特征与传播优势 | 实践局限与质量风险 | 代表案例与实证数据 |
 > |---|---|---|---|
 > | **专业学术期刊**<br>（Fachzeitschriften） | 具备严格匿名同行评议与高证据层级，是严谨科学知识与理论生产的核心源头 | 语言抽象晦涩、多数处于商业付费墙后，且过度聚焦证伪易引发教师心理防御（Bauer & Kollar, 2023） | 德语区主流教育学术期刊（p. 254） |
-> | **实践指南与行业期刊**<br>（Ratgeberliteratur） | 市场规模庞大，高度契合教师即时备课与教学反思需求，在实践界流传极广 | 绝大多数由一线教师单方撰写并仅凭经验自我合法化，缺乏科学把关并推波助澜神经神话（Mohajerzad et al., 2022） | 410 部在售指南（Krüger & Konrad, 2022）；Paradies & Linser (2003)；Greutmann et al. (2020)（p. 255） |
+> | **实践指南与行业期刊**<br>（[[Ratgeberliteratur]]） | 市场规模庞大，高度契合教师即时备课与教学反思需求，在实践界流传极广 | 绝大多数由一线教师单方撰写并仅凭经验自我合法化，缺乏科学把关并推波助澜神经神话（Mohajerzad et al., 2022） | 410 部在售指南（Krüger & Konrad, 2022）；Paradies & Linser (2003)；Greutmann et al. (2020)（p. 255） |
 > | **教学视频与播客**<br>（Lehrvideos & Podcasts） | 覆盖面广、直观生动；实验证实通俗语言与概念转变设计能显著修正师范生神话认知（Götzfried et al., 2022） | 制作门槛高，信息接收质量高度依赖受众个体的批判性反思与自我甄别能力 | Spannagel（>10万订阅）；maiLab（>140万订阅）；Wisniewski（年播放>1万次）（pp. 255–256） |
 > | **信息中介与清算平台**<br>（Information Broker） | 结构化提炼高阶因果证据与[[Meta-analysis\|元分析]]，提供高质量德语实践评介与培训资源 | 部分平台聚焦 MINT 学科且以教师教育者为主要乘数群体，对一线在岗教师的直接穿透链路较长 | [[Clearing House Unterricht\|CHU]]（下载超1.6万次）；[[Forschungsmonitor Schule\|FMS]] 全学科监测（pp. 256–257） |
-> | **社交媒体网络**<br>（Social Media-Plattformen） | 覆盖 Twitter、Instagram 与 TikTok，实现去中心化即时交流、同侪情感支持与灵感分享 | 讨论缺乏同行把关，极易被意见领袖垄断，信息质量参差不齐（Fütterer et al., 2021） | Twitter-Lehrerzimmer（#twitterlehrerzimmer）；TikTok 教育社群（pp. 257–258） |
+> | **社交媒体网络**<br>（Social Media-Plattformen） | 覆盖 Twitter、Instagram 与 TikTok，实现去中心化即时交流、同侪情感支持与灵感分享 | 讨论缺乏同行把关，极易被意见领袖垄断，信息质量参差不齐（Fütterer et al., 2021） | [[Virtual Teacher Staffroom\|Twitter-Lehrerzimmer]]（#twitterlehrerzimmer）；TikTok 教育社群（pp. 257–258） |
 
 #### 2. 克服同行声誉顾虑并采用受众适配的通俗语言是打破伪科学垄断与推动证据落地的关键行动路径
 

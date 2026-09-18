@@ -171,6 +171,7 @@ updated: 2026-09-18
 > - **1980 年代 — 哲学起点与去中心化构型** 吉尔·德勒兹（Gilles Deleuze）与费利克斯·加塔利（Félix Guattari）在《千高原》（Deleuze & Guattari, 1987）中提出 agencement（后英译为 assemblage），用以指涉异质要素的去中心化共生连接，打破传统西方形而上学的封闭实体与总体性假定。
 > - **1990–2000 年代 — 科学技术学唯物主义重构与装配理论化** 约翰·劳（John Law, 1992）提出关系物质性，强调耐用材料对社会秩序的固化功能；[[Bruno Latour|布鲁诺·拉图尔]]（Bruno Latour, 2005）提出“重新组装社会”（Reassembling the Social）；曼努埃尔·德兰达（Manuel DeLanda, 2006）出版《装配理论与社会复杂性》，系统论证构件的“外在性关系”哲学。
 > - **2010 年代 — 教育微观空间与数字化物质性转向** 塔拉·芬威克（Tara Fenwick）等将装配引入教育实践（Fenwick & Edwards, 2010）；杰森·比奇（[[Jason Beech]]）与阿托普洛斯（[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]）利用装配概念分析阿根廷笔记本电脑配送项目，确立课堂作为社会-物质装配体的分析[[Paradigm|范式]]。
+> - **2018 年 — 联邦多级治理与政策拓扑学重组** [[Sigrid Hartong|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE|Hartong, 2018]]）将装配理论与[[Topological Spatialisation|拓扑空间化]]结合，深入考察德国在 PISA 震荡后建立的绩效[[Data Infrastructure|数据基础设施]]与[[Institute for Educational Quality Improvement|IQB]][[Center of Calculation|计算中心]]，揭示法律条文、统计模型与在线题库构成的社会-物质复合体如何实现跨尺度的政策重组。
 > - **2020 年代至今 — 批判政策社会学与国家无生命客体装配** 政策社会学者将装配拓展至全球教育治理与国家中介研究。拉德希卡·戈鲁尔（Radhika Gorur, 2016）解构 [[PISA]] 测评装配；埃玛·罗威（Emma Rowe, 2022）提出“无生命客体的装配”（assemblage of inanimate objects），借助防野狗围栏隐喻，揭示公司法、章程与证据量规如何装配成掩盖跨国[[Venture Philanthropy|风险慈善]]与私营咨询垄断的国家证据中介。
 
 ---
@@ -183,7 +184,7 @@ updated: 2026-09-18
 > > 争论是否应当赋予法案条款、硬件设备与量规以对称能动性。
 > > - **[[Analytical Stance|批判立场]]** 批评者担忧将铁丝围栏、电线与人类行动者同等对待，会陷入极度扁平的物化陷阱，模糊了跨国金融资本家和政策精英的主观政治蓄意与剥削伦理责任。
 > > - **装配[[Theoretical Standpoint|理论立场]]** 拉图尔与罗威指出，人类无法脱离物质客体建立持续权力；正是耐用客体的装配才使得人类意志与剥削机制得以跨越地理阻隔长效固化（Latour, 2002; [[Argument_Rowe_2022_IJER|Rowe, 2022]]）。
->
+> >
 > > [!axis] 局域生成论 vs 资本主义宏观总体性
 > > 争论装配理论强调局部、偶发性连接，是否忽视了资本主义全球生产方式等深层宏观结构。
 > > - **新马克思主义立场** 批评装配理论沉溺于追踪零散微观网络，回避了阶级冲突与资本积累规律的全局性统摄力。
@@ -204,6 +205,7 @@ updated: 2026-09-18
 >
 > | 研究 | 装配案例与国家情境 | 核心分析构件（人与非人类） | 耐用材料与外在形式 | 黑箱化去政治化表象 | 揭露的真实权力与资本网络 |
 > |---|---|---|---|---|---|
+> | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 监测战略、[[Institute for Educational Quality Improvement\|IQB]] 与 [[Vergleichsarbeiten\|VERA]], 德国 | 联邦与州教育部官员、心理测量学者、16 州公立学校、在线试题平台、FDZ 数据库 | KMK 总体战略决议、IRT 标定题库、去排名保密法条、数字任务平台 | 尊重各州文化主权与坚持去排名的中立质量诊断与科学服务 | 通过标准试卷与题库平台在各州之间搭建拓扑数据管道，实现远处治理与跨尺度政策重组（pp. 140–145） |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | [[Australian Education Research Organisation\|AERO]], 澳大利亚 | 联邦与州教育部、[[Social Ventures Australia\|SVA]]、麦肯锡前顾问、ASIC 监管档案、PGPA 规程修改案 | 依据《公司法》注册的担保有限公司章程、标准化因果量规、5000 万澳元预算法案条款 | 超党派中立的“国家[[Educational Brokerage Agency\|证据经纪人]]”；声称以严谨科学将政治移出课堂 | 掩蔽[[Venture Philanthropy\|风险慈善]]十年游说，前 18 个月免于公开审计报表，立法特许向私营咨询机构分包（pp. 3, 5, 11） |
 > | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] | [[Conectar Igualdad\|PCI]] 数字化项目, 阿根廷 | 公立学校教师、学生、教育部官员、Netbook 电脑、操作系统、教室电源布线 | 预装 Windows 与 Linux 双系统、中国定制[[Classroom Management\|课堂管理]]软件、英特尔芯片架构 | 消除数字鸿沟与保障教育公平的免费国家公益福利项目 | 绕过《国家教育法》反商业化规定，将跨国技术资本的标准协议直接植入课堂日常行为（pp. 8–11） |
 > | Fenwick & Edwards (2010) | 基础教育课堂传统教学, 英国/北美 | 执教学科教师、学生、教科书、课程标准大纲、考核试卷、课桌布局 | 印刷纸质教科书、出版商分销合同、官方审定版权批号 | 传授客观中立学科知识与培养核心学业素养的自然教学活动 | 出版商商业资本、学科专家意识形态与行政问责指标对一线教师专业裁量权的隐形剥离（引自 Beech, 2015） |
@@ -213,5 +215,6 @@ updated: 2026-09-18
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 结合装配理论与[[Topological Spatialisation|拓扑空间化]]，深入剖析德国国家教育监测基础设施与[[Institute for Educational Quality Improvement|IQB]][[Center of Calculation|计算中心]]如何实现跨尺度的政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 提出无生命客体的政策装配框架，运用防野狗围栏隐喻解构澳大利亚 [[Australian Education Research Organisation|AERO]] 背后的企业法注册底座、跨国[[Venture Philanthropy|风险慈善]]网络与特许商业分包。
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 运用装配与 [[Actor-Network Theory|ANT]] 分析阿根廷 [[Conectar Igualdad|PCI]] 数字教育项目，证明跨国技术资本权力如何绕过国家宏观法律直接部署在课堂微观装配中。

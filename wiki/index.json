@@ -1304,6 +1304,19 @@
     ]
   },
   {
+    "title": "Topological Spatialisation",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Topological Spatialisation.md",
+    "aliases": [
+      "拓扑空间化",
+      "拓扑空间",
+      "拓扑治理",
+      "Topological Space",
+      "Topological Governance",
+      "拓扑空间性"
+    ]
+  },
+  {
     "title": "Transfer Space",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Transfer Space.md",
@@ -5496,6 +5509,21 @@
     ]
   },
   {
+    "title": "Virtual Teacher Staffroom",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Virtual Teacher Staffroom.md",
+    "aliases": [
+      "虚拟教师休息室",
+      "线上教师教研社群",
+      "虚拟教师办公室",
+      "Twitter-Lehrerzimmer",
+      "Twitterlehrerzimmer",
+      "twlz",
+      "Virtuelles Lehrerzimmer",
+      "Online Teacher Community"
+    ]
+  },
+  {
     "title": "Virtual World",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Virtual World.md",
@@ -9105,6 +9133,32 @@
     ]
   },
   {
+    "title": "Ratgeberliteratur",
+    "type": "concept",
+    "path": "wiki/concepts/science-communication/Ratgeberliteratur.md",
+    "aliases": [
+      "教学指南文献",
+      "教师实用指南",
+      "教学指导读物",
+      "实用指南类文献",
+      "Teacher Advice Literature",
+      "Educational Advice Literature",
+      "Praxisratgeber"
+    ]
+  },
+  {
+    "title": "Refutational Evidence",
+    "type": "concept",
+    "path": "wiki/concepts/science-communication/Refutational Evidence.md",
+    "aliases": [
+      "反驳性证据",
+      "证伪性证据",
+      "widerlegende Evidenz",
+      "反驳性实证",
+      "refuting evidence"
+    ]
+  },
+  {
     "title": "Science Journalism",
     "type": "concept",
     "path": "wiki/concepts/science-communication/Science Journalism.md",
@@ -9174,6 +9228,18 @@
       "边界客体",
       "跨界对象",
       "boundary objects"
+    ]
+  },
+  {
+    "title": "Center of Calculation",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Center of Calculation.md",
+    "aliases": [
+      "计算中心",
+      "算计中心",
+      "运算中心",
+      "Centre of Calculation",
+      "Centers of Calculation"
     ]
   },
   {
@@ -20880,6 +20946,18 @@
     ]
   },
   {
+    "title": "Institute for Educational Quality Improvement",
+    "type": "fact",
+    "path": "wiki/facts/germany/Institute for Educational Quality Improvement.md",
+    "aliases": [
+      "德国教育质量发展研究所",
+      "教育质量发展研究所",
+      "柏林教育质量发展研究所",
+      "IQB",
+      "Institut zur Qualitätsentwicklung im Bildungswesen"
+    ]
+  },
+  {
     "title": "Standing Conference of the Ministers of Education and Cultural Affairs",
     "type": "fact",
     "path": "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md",
@@ -26012,6 +26090,11 @@
     "title": "Argument_Beech_2015_GSE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md"
+  },
+  {
+    "title": "Argument_Hartong_2018_GSE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Hartong_2018_GSE.md"
   },
   {
     "title": "Argument_Cai_Gao_Liu_2025_HE",

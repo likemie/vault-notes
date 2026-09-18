@@ -77,7 +77,7 @@ updated: 2026-09-18
 
 > [!policy-design]- 政策设计与四大支柱
 > - **支柱一：定期参与国际大型[[Academic Achievement|学业成就]]评估** 系统化参与由 [[OECD]] 主导的 [[PISA]] 以及由 [[IEA]] 主导的 [[TIMSS]] 和 [[PIRLS]]，并通过全国性大幅扩样（如 PISA 国内样本扩充至 40,000 余人），实现对 16 个联邦州的横向相对定位与国际参照。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 484, 488)]]
-> - **支柱二：检验国家教育标准的全国代表性州际比较测试** 依托柏林洪堡大学教育质量发展研究所（IQB）开展 IQB 联邦州学业标准达标比较测试（针对第 4、9、10 年级代表性样本），审查各州学生是否达成 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 制定的[[21st Century Skills and Competencies Discourse|核心素养]]标准。
+> - **支柱二：检验国家教育标准的全国代表性州际比较测试** 依托[[Institute for Educational Quality Improvement|柏林洪堡大学教育质量发展研究所]]（IQB）开展 IQB 联邦州学业标准达标比较测试（针对第 4、9、10 年级代表性样本），审查各州学生是否达成 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 制定的[[21st Century Skills and Competencies Discourse|核心素养]]标准。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–141)]]
 > - **支柱三：面向全域单体学校的[[Vergleichsarbeiten|校际比较测试]]** 在全德推行普查式[[Vergleichsarbeiten|校际比较测试]]（VERA，包含小学 3 年级的 VERA-3 与初中 8 年级的 VERA-8），为每所学校提供微观层面的教学诊断与异常排查依据。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 484)]]
 > - **支柱四：联合国家统一教育报告体系** 联合联邦教育与研究部（BMBF）及顶尖科研机构编撰《德国教育报告》（Bildungsbericht für Deutschland），定期公布教育体系全貌、投入指标、人口流动与结构性挑战。
 > - **配套支柱：[[School Inspection|外部学校督导]]与州立质量院所** 协同各州全面建立独立的外部[[School Inspection|学校督导]]（Schulinspektion / Schulvisitation）体系，弥补纯量化测验对课堂教学与组织管理过程视导的不足。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 485)]]
@@ -95,7 +95,7 @@ updated: 2026-09-18
 
 > [!dev-timeline] 推进与修订历程
 > - **2001–2002 — 应急响应与七大行动领域** [[PISA]] 2000 震荡后 6 个月内，[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 迅速制定全国协调应对清单，确立学前语言促进、基础读写与数理能力、移民群体靶向支持等七大优先行动领域（Handlungsfelder），并做出关键技术决议，将 PISA 样本扩增至 4 万人以上以支持跨州横向比对。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 488, 491)]]
-> - **2004 — 创设国家质量中枢 IQB** 各州在柏林洪堡大学联合创设教育质量发展研究所（IQB），确立国家标准测评与题库研发的专业学术实体。
+> - **2004 — 创设国家质量中枢 IQB** 各州在柏林洪堡大学联合创设[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB），确立国家标准测评与题库研发的专业学术实体与[[Center of Calculation|国家计算中心]]。[[Argument_Hartong_2018_GSE|(Hartong, 2018, p. 140)]]
 > - **2006 — 正式通过总体战略决议** KMK 全会通过《国家教育监测总体战略》，四大支柱全面法定化，各州相继完成配套立法。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 484)]]
 > - **2015 — 总体战略升级修订** KMK 表决通过修订版战略，将数字素养、全日制学校扩展、幼小初高衔接贯通以及持续追踪机制正式纳入总体监测体系。
 
@@ -105,7 +105,7 @@ updated: 2026-09-18
 
 > [!actor-grid] 实施协同矩阵
 > - **政策发端与顶层决策** [[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（KMK）制定监测规程，保障测试周期与教育标准的一致性。
-> - **研发中枢与题库研发** 柏林洪堡大学教育质量发展研究所（IQB）负责研发标定试题库并出具跨州比较报告。
+> - **研发中枢与题库研发** [[Institute for Educational Quality Improvement|柏林洪堡大学教育质量发展研究所]]（IQB）负责研发标定试题库并出具跨州比较报告。
 > - **地方行政与干预执行** 各联邦州教育部设立专门的质量保障与质量发展处室，招聘社科量化人才，将监测数据用于薄弱校诊断与资源倾斜。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 491–492)]]
 > - **基层落地与过程视导** 中小学校实施常态化测试（[[Vergleichsarbeiten|VERA]]），各州外部[[School Inspection|学校督导]]组进驻现场开展实地评估。
 
@@ -142,6 +142,7 @@ updated: 2026-09-18
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 总体战略的制定、通过与监督实施的最高宪制性政府间协调机构。 |
+> | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 总体战略下创设的国家教育标准与题库研发中枢。 |
 > | [[Vergleichsarbeiten]] | Fact (Program) | 总体战略第三支柱：全域普查性校际比较测试。 |
 > | [[PISA]] | Fact (Program) | 总体战略第一支柱：作为宏观国际参照的大规模跨国测评。 |
 > | [[TIMSS]] | Fact (Program) | 总体战略第一支柱：国际数学与科学[[Trend Study\|趋势研究]]。 |
@@ -149,4 +150,5 @@ updated: 2026-09-18
 > | [[School Inspection]] | Concept | 总体战略协同建立的外部过程性学校督导机制。 |
 > | [[Evidence-Based Education]] | Concept | 总体战略是德国教育体系贯彻循证教育政策的最高纲领。 |
 > | [[Working Knowledge]] | Concept | 总体战略的长期运行深刻重塑了各州教育部官员的实践运作知识。 |
+> | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | Argument | 剖析总体战略下 IQB 作为计算中心与跨尺度绩效数据基础设施的拓扑重组。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估总体战略在各州教育部日常落实机制中的代表性[[Document\|文献]]。 |

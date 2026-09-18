@@ -10,10 +10,10 @@ aliases:
 summary: "以改善学生学业与福祉为共享愿景、依托合作探究与反思性对话深化教学实践并制度化研读转化外部证据的学校协同组织形态。"
 type: concept
 domain: "teacher-education"
-related_count: 47
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - field/teacher-education
   - field/educational-leadership-administration
@@ -45,6 +45,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Academic Achievement]]"
   - "[[Research-Informed Teaching Practice]]"
+  - "[[Virtual Teacher Staffroom]]"
+  - "[[Educational Science Communication]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 related_arguments:
@@ -54,6 +56,7 @@ related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Ginsberg_2024_EP]]"
   - "[[Argument_Torres_2022_KMModels]]"
+  - "[[Argument_Besa_2024_UW]]"
 related_methods:
   - "[[Network Analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -233,6 +236,7 @@ updated: 2026-09-18
 > - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架确立 PLC 作为“审慎参与”共同审议与多层使能交汇中枢** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 在《教育研究者》（Educational Researcher）系统阐发高质量研究[[Research Utilization|证据使用]]框架（[[Quality Use of Research Evidence Framework|QURE]]），将“审慎参与与实施”界定为发生在团队与 PLC 内的社会化批判审议，论证 PLC 作为个体使能因素（信任、探究心智）与组织使能因素（领导、反思文化、制度化工时）微观交汇中枢的不可替代性（pp. 141–144）。
 > - **2022 — 证据知情视阈下组织使能中枢的实证检验证明** 莫纳什大学 Q 项目实证调查（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b]]）对澳大利亚 4 州 906 名教育者进行列联与精确检验，证实校内 PLC 的充分提供显著正向预测了教师常规使用大学研究与指导的行为（$p < .05$），确立了其作为破除时间赤字与提供实践庇护的制度支柱功能（pp. 188, 191–192）。
 > - **2024 — 穿透式财务审计与复合实践的循证锚点确认** [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] 首创将特大型城市学区 [[Title I of the Elementary and Secondary Education Act|Title I]] 财务支出与四大证据库逐笔映射，在拆解复合教学培训时量化证实：PLC 在小学学段独家获得全量“积极”证据评级，而宽泛的专业发展呈混合效应。这一实证审计确立了 PLC 作为校本复合专业发展项目获取循证政策合规支持的关键实证基准。
+> - **2024 — 数字化转型与跨校虚拟共同体（[[Virtual Teacher Staffroom|Virtual Staffroom]] / #twlz）网络形态拓展** 贝萨（[[Argument_Besa_2024_UW|Besa, 2024, pp. 257–258]]）等学者探讨了 PLC 在社交媒体时代向去中心化线上社群（如 Twitter-Lehrerzimmer `#twlz`）的延伸，揭示其在打破校舍物理隔绝、激发同侪数字化微创新中的独特价值，并呼吁教育科研人员主动融入虚拟教研室开展双向递归对话。
 
 ---
 
@@ -274,6 +278,7 @@ updated: 2026-09-18
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 把 PLC 定位为[[Evidence-Informed Practice|证据知情实践]]关键学习环境支柱，基于 79 所小学调查揭示全员包容性参与的紧迫性，论证缺乏正式探究协议与论坛易导致 PLC 退化为孤立任务小组与[[Activity Traps|活动陷阱]]。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 探讨组织内生学习结构与实践者能力建设，指出协同探究团队在弥合政策与实践鸿沟中的核心作用。
 > - [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] — 通过对大型城市学区 [[Title I of the Elementary and Secondary Education Act|Title I]] 支出流水的穿透审计与构件拆解，实证证实 PLC 在四大证据库中具有独立于一般教师培训的积极实证证据，构成了复合专业发展项目获得循证合规支持的核心基石（pp. 171, 173）。
+> - [[Argument_Besa_2024_UW|Besa (2024)]] — 探讨 PLC 在社交媒体时代向跨区域虚拟教研室（Twitter-Lehrerzimmer）的网络化延伸，分析草根同侪互助与学术科研双向对话缺位的实践张力。
 
 ---
 
@@ -288,7 +293,10 @@ updated: 2026-09-18
 > | [[Research Utilization]] | 概念 | PLC 为学校层面的研究证据利用提供实践庇护所与制度保障。 |
 > | [[Quality Use of Research Evidence Framework]] | 理论 | QURE 框架将 PLC 确立为承载“审慎参与”共同审议与凝聚个体/组织使能构件的核心微观载体。 |
 > | [[Knowledge Mobilisation]] | 概念 | PLC 是校内知识动员与多方协作共创的微观组织枢纽。 |
+> | [[Virtual Teacher Staffroom]] | 概念 | PLC 在社交媒体与数字网络时代的去中心化、跨校际网络化延伸形态。 |
+> | [[Educational Science Communication]] | 概念 | 共同体为开展双向递归式教育科学传播提供了微观组织与在线社群场域。 |
 > | [[Research Learning Communities]] | 事实 (项目) | 依托跨校 PLC 集群网络规模化推进教师循证探究的旗舰干预模型。 |
 > | [[Mark Rickinson]] | 人物 | 莫纳什大学教授，Q 项目领衔专家，论证 PLC 作为研究使用实践庇护所与审议载体。 |
 > | [[Chris Brown]] | 人物 | 研发 RLC 模型并实证诊断英格兰小学 PLC 运作短板的主持学者。 |
+
 

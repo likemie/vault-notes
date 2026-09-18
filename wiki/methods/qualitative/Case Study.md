@@ -258,3 +258,4 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、课堂观察和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking|批判性思维]]教学模式
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge|TOK]] 课程中学习者的自主性角色与[[Knowledge Production|知识建构]]过程
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 以英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）为单一机构案例研究，从内部评估决策者视角系统剖析其在学校现场推动大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT）的制度设计、独立评估机制、[[Implementation and Process Evaluation|实施与过程评估]]（Implementation and Process Evaluation，IPE）演进以及在[[Business as Usual|常态教学]]背景下评估干预效应所面临的方法学挑战
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 采用多层级纵向质性个案研究设计，结合全国性政策法规文本、技术白皮书梳理与针对联邦及各州教育部高级决策者、测量学家的专家访谈，深入剖析德国国家教育监测总体战略下柏林教育质量发展研究所（IQB）作为国家计算中心的崛起历程与跨尺度绩效数据基础设施的拓扑运作机制。
