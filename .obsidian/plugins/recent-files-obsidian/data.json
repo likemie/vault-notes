@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
+      "basename": "Gatekeepers",
+      "path": "wiki/concepts/research-methodology/Gatekeepers.md"
     },
     {
       "basename": "Argument_Kelly_2025_ROE",
       "path": "wiki/arguments/journal-articles/Review of Education/Argument_Kelly_2025_ROE.md"
     },
     {
-      "basename": "Monash Q Project",
-      "path": "wiki/facts/australia/Monash Q Project.md"
+      "basename": "Education Endowment Foundation",
+      "path": "wiki/facts/uk/Education Endowment Foundation.md"
     },
     {
-      "basename": "Positivism",
-      "path": "wiki/concepts/educational-philosophy/Positivism.md"
+      "basename": "Institute for Educational Monitoring and Quality Improvement",
+      "path": "wiki/facts/germany/Institute for Educational Monitoring and Quality Improvement.md"
+    },
+    {
+      "basename": "Ofsted",
+      "path": "wiki/facts/uk/Ofsted.md"
+    },
+    {
+      "basename": "Randomised Controlled Trials",
+      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
     },
     {
       "basename": "Interactional Expertise",
@@ -23,6 +31,18 @@
     {
       "basename": "Contributory Expertise",
       "path": "wiki/concepts/sociology-of-education/Contributory Expertise.md"
+    },
+    {
+      "basename": "Educational Evidence Clearinghouses",
+      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
+    },
+    {
+      "basename": "Monash Q Project",
+      "path": "wiki/facts/australia/Monash Q Project.md"
+    },
+    {
+      "basename": "Positivism",
+      "path": "wiki/concepts/educational-philosophy/Positivism.md"
     },
     {
       "basename": "Research Literacy",
@@ -41,20 +61,8 @@
       "path": "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md"
     },
     {
-      "basename": "Gatekeepers",
-      "path": "wiki/concepts/research-methodology/Gatekeepers.md"
-    },
-    {
-      "basename": "Educational Evidence Clearinghouses",
-      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
-    },
-    {
       "basename": "Agendas of Attention",
       "path": "wiki/concepts/comparative-education/Agendas of Attention.md"
-    },
-    {
-      "basename": "Institute for Educational Monitoring and Quality Improvement",
-      "path": "wiki/facts/germany/Institute for Educational Monitoring and Quality Improvement.md"
     },
     {
       "basename": "PISA",
@@ -191,14 +199,6 @@
     {
       "basename": "Scientifically Based Research",
       "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md"
-    },
-    {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
-    },
-    {
-      "basename": "Argument_Wecker_2016_ZfE",
-      "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
     }
   ],
   "omittedPaths": [],

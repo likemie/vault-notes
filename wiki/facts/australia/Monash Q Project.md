@@ -11,9 +11,9 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 34
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2019–2024"
 initiator_organization: "Monash University & Paul Ramsay Foundation"
@@ -31,6 +31,13 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Research Translation]]"
   - "[[Translational Research]]"
+  - "[[Hypothesis]]"
+  - "[[Rationalism in International Relations]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Interactional Expertise]]"
+  - "[[Contributory Expertise]]"
+  - "[[Epistemological Break]]"
+  - "[[Reflective Thinking]]"
   - "[[Absorptive Capacity]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Poor Research Use]]"
@@ -49,6 +56,7 @@ related_methods:
   - "[[Likert Scale]]"
   - "[[Coding in Qualitative Research]]"
   - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Mark Rickinson]]"
 related_facts:
@@ -58,6 +66,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Rickinson_2022_ER]]"
+  - "[[Argument_Kelly_2025_ROE]]"
 related_instruments:
   - "[[PRISMA]]"
 confidence: high
@@ -158,6 +167,9 @@ updated: 2026-09-18
 >
 > > [!axis] 自陈调查与真实教学观测的差距
 > > [[Questionnaire|问卷调查]]与[[In-depth Interview|深度访谈]]主要依赖教师与管理者的主观经验自陈，对于微观课堂教学行为的直接客观观测与学生学业长远增值指标仍显不足。（[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022b, p. 184]]）
+>
+> > [!axis] 系统理性模型[[Hypothesis|假设]] vs 专长类型断裂与治理现实
+> > 批判学者指出，莫纳什 Q 项目与 [[Quality Use of Research Evidence Framework|QURE]] 框架虽强调从证据生产质量转向使用质量，但其背后仍带有功能主义与[[Rationalism in International Relations|理性主义]]假设，预设只要通过专业学习、榜样领导与工时排程等使能条件，证据就能顺畅转化为优质实践；然而专长社会学与比较教育研究表明，[[Educational Brokerage Agency|证据中介机构]]所代表的[[Interactional Expertise|交互型专长]]（技术客观性）与一线教师扎根现场的[[Contributory Expertise|贡献型专长]]（具身实践经验）之间存在深刻的[[Epistemological Break|认识论断裂]]，且在高利害市场化治理体制下，[[Research Utilization|证据使用]]极易异化为迎合外部问责的表演性合规，而非自发的[[Reflective Thinking|反思性探究]]。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 4–5, 21–23)]]
 
 > [!lessons] 经验教训与启示
 > - **从供给驱动向需求牵引全面转型** 改变以往单纯资助成果生产与单向数据库推送的路径依赖，必须将增量资源投向一线教师的[[Absorptive Capacity|吸收能力]]与学校组织使能条件建设。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022b, pp. 193–195)]]
@@ -173,6 +185,8 @@ updated: 2026-09-18
 > |:-----|:-----|:-----|
 > | [[Quality Use of Research Evidence Framework]] | Theory | 项目孵化建构的核心理论框架（QURE） |
 > | [[Evidence-Informed Practice]] | Concept | 项目依托的实践哲学基础与实践导向 |
+> | [[Contributory Expertise]] | Concept | 一线实践者具身手艺与默会专长，构成检验 Q 项目系统理性[[Hypothesis\|假设]]的核心概念透镜 |
+> | [[Interactional Expertise]] | Concept | 证据中介与研究者所具备的交互型专长，与一线贡献型专长存在结构性张力 |
 > | [[Poor Research Use]] | Concept | 项目从一线经验中系统提炼的病态使用反面范畴 |
 > | [[Push and Pull Models of Knowledge Mobilisation]] | Concept | 项目批判供给驱动、倡导需求牵引的分析模型 |
 > | [[Professional Learning Community]] | Concept | 项目实证检验确立的关键组织使能支柱与实践庇护所 |
@@ -181,3 +195,15 @@ updated: 2026-09-18
 > | [[Centre for Evidence and Implementation]] | Fact (Organization) | 深度参与项目先验综述研讨与[[Transfer Translation Transformation\|转译]]支持的外部专业咨询机构 |
 > | [[Mark Rickinson]] | Person | 莫纳什大学 Q 项目首席研究员与项目负责人 |
 > | [[OECD]] | Fact (Organization) | 项目联合发布成果并推动国际政策辐射的跨国合作方 |
+> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 关键论证 | 全澳 906 名教育者调查与[[In-depth Interview\|深度访谈]]，确立高质量使用六大特征与组织使能条件 |
+> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] | 关键论证 | 跨领域 112 篇核心[[Document\|文献]][[Systematic Review\|系统综述]]，建构高质量研究[[Research Utilization\|证据使用]] QURE 理论框架 |
+> | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 关键论证 | 从专长社会学视阈批判 Q 项目等系统性循证模型的[[Rationalism in International Relations\|理性主义]]假定，揭示治理体制对证据使用的表演性异化 |
+
+---
+
+## 相关研究索引
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b)]] — 结合全澳 906 名教育者调查与[[In-depth Interview|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立高质量使用六大特征并量化检验榜样领导与时间赤字的决定性影响。
+> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 跨卫生、社工、教育与政策四领域 112 篇核心[[Document|文献]][[Systematic Review|系统综述]]，正式确立适切证据与审慎实施双核互构的 [[Quality Use of Research Evidence Framework|QURE]] [[Analytic Framework|分析框架]]。
+> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 运用专长社会学框架，对英格兰、苏格兰与德国汉堡基础教育[[Research Utilization|研究使用]]展开跨国比较，批判 Q 项目等系统性模型所预设的理性乌托邦假定，揭示高利害市场化治理如何将证据异化为表演性合规工具。

@@ -143,9 +143,9 @@ issuing_organization: ""
 > | **[[Semi-structured Interview\|半结构化访谈（Semi-structured Interview）]]** | 在三国相近的都会与次都会区域各遴选 3 位中小学与特殊教育[[School Leadership\|学校领导]]者（共 9 位），展开约 1 小时的深度半结构化访谈，系统探讨证据可及性、[[Research Utilization\|研究使用]]体验、学校改进影响与效用评价。（pp. 9–11） |
 > | **比较质性分析（Comparative Qualitative Analysis）** | 依托[[Refined Mastery\|精通]]本土语言与教育体制的内部研究者（insider researchers）进行第一阶段独立[[Transcription in Qualitative Research\|转录]]与主题归纳，再由跨国研究团队通过局内人—局外人多重视角[[Dialogue in Education\|对话]]进行跨案例交叉比较与理论提炼。（pp. 9–10） |
 
-> [!sample-panel]- 样本与材料快照
+> [!ref-table]- 样本与材料快照
 >
-> **表 1：文献分析样本分布**
+> **表 1：文献分析样本分布（$N = 49$）**
 >
 > | 来源类别 | 英格兰 | 德国 | 苏格兰 | 合计 |
 > |---|---|---|---|---|
@@ -155,7 +155,7 @@ issuing_organization: ""
 > | **商业组织** | 8 | 2 | 5 | 15 |
 > | **总计** | 19 | 13 | 17 | 49 |
 >
-> **表 2：[[In-depth Interview|深度访谈]]参与者特征**
+> **表 2：[[In-depth Interview|深度访谈]]参与者特征（$N = 9$）**
 >
 > | 编号 | 地区 | 职务 | 学校特征与学段 | 任职年限 |
 > |---|---|---|---|---|

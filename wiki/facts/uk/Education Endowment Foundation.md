@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 103
+fact_related_count: 107
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -51,6 +51,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Evaluator Independence]]"
   - "[[Knowledge Production]]"
+  - "[[School Leadership]]"
+  - "[[Contributory Expertise]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
@@ -61,6 +63,9 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Educational Brokerage Agency]]"
   - "[[What Works Movement]]"
+  - "[[Interactional Expertise]]"
+  - "[[Epistemology]]"
+  - "[[Performativity]]"
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Venture Philanthropy]]"
@@ -77,6 +82,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
+  - "[[In-depth Interview]]"
   - "[[Efficacy Trial]]"
   - "[[Systematic Review]]"
   - "[[Multi-Arm Trial]]"
@@ -131,6 +137,7 @@ related_arguments:
   - "[[Argument_Ginsberg_2024_EP]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Cowen_2019_ERE]]"
+  - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: high
 status: completed
@@ -260,6 +267,12 @@ updated: 2026-09-18
 > >
 > > - **批判政策社会学视阈** [[Argument_Rowe_2022_IJER|Rowe (2022, pp. 6–8)]] 尖锐揭露，EEF 的 1.25 亿英镑法定初始留本基金并非财政新增拨款，而是源于英国教育部“决定不增加免费学生校餐计划”（Free School Meals initiative）的预算节余；这形成了极具讽刺意味的制度悖论：一个标榜为弱势儿童“促进教育公平”的机构，其启动资金恰恰来自削减贫困儿童免费午餐的公共福利开支。同时，EEF 的资助母体（[[Sutton Trust|萨顿信托]]与 [[Impetus]]）汇聚了华尔街投行与跨国私募股权资本，并与全球矿业寡头必和必拓基金会深度结盟向海外扩张，使其客观上沦为跨国商业金融资本规避税收、构建中立公关形象与重塑主权国家教育议程的战略工具。
 > > - **官方与辩护立场** 强调留本基金为证据机构提供了超越选举周期的长期财政保障，且与私人慈善基金会的合作有效撬动了社会闲散资本投向公共教育科研，通过严谨因果评估避免了数十亿英镑教育经费的盲目浪费。
+>
+> > [!axis] 循证实践指南 vs 高利害问责下的表演性合规与防御性辩护
+> > 探讨在英格兰高度市场化竞争与外部督导（[[Ofsted]]）问责体制下，EEF 证据与指南在[[School Leadership|学校领导]]层日常运作中究竟是促进了实践改进，还是异化为防御性合规工具。
+> >
+> > - **官方与工具主义设想（EEF 五步实施指南）** 预设学校遵循“探索-准备-交付-维持-扩展”的理性系统规程，即可将工具包与指南报告转化为教学改进。
+> > - **跨国比较实证批判（[[Argument_Kelly_2025_ROE|Kelly et al., 2025]]）** [[In-depth Interview|深度访谈]]英格兰学校领导者发现，在高利害督导与升学市场化竞争压力下，EEF 工具包被校长普遍异化为应对督导审查、证明专业胜任力的“表演性合规护身符”（Badge of Compliance）；同时，商业机构过度二次包装 EEF 成果进行侵略性营销加剧了校长的信息过载与防御倦怠；更为严重的是，学校管理层利用 EEF 关于[[Teaching Assistant|助教]]（TA）低成本效益的论调，为在财政紧缩下裁撤助教岗位提供去责任化的合法化辩护，严重挤压了一线基于[[Contributory Expertise|贡献型专长]]的真实反思空间。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 11–13, 21–23)]]
 
 > [!citation-card] 政策网络学者论 EEF 创设资金的财政溯源与伦理悖论
 > 罗威揭露，英国教育部为 EEF 提供的 1.25 亿英镑创办资金，源于政府决定不扩大贫困儿童免费学校午餐计划的预算节余；机构虽标榜为弱势群体促进公平，其实质却依托削减贫困学童温饱福利的资金设立，并由汇聚跨国投行与私募资本的萨顿信托与 Impetus 共同资助。[[Argument_Rowe_2022_IJER|(Rowe, 2022, p. 6)]]
@@ -298,11 +311,14 @@ updated: 2026-09-18
 > | [[Evidence Era]] | Concept | EEF 的成立标志着英格兰教育治理正式跨入以因果实验与证据工具包为标志的证据时代。 |
 > | [[Rationalized Myth]] | Concept | EEF 资助的 [[Randomised Controlled Trials\|RCT]] 证据体系被政府与实践[[Champ\|场域]]动员为主导性的制度合理化神话。 |
 > | [[Evidence Ecosystem]] | Concept | EEF 代表的“生成-综合-[[Transfer Translation Transformation\|转译]]-落地”全链条现代中介[[Paradigm\|范式]]。 |
+> | [[Contributory Expertise]] | Concept | 一线实践者默会手艺与经验专长，在英格兰高利害体制下受到 EEF 表演性使用的挤压。 |
+> | [[Interactional Expertise]] | Concept | EEF 等中介机构所代表的交互型专长，与一线微观实践存在[[Epistemology\|认识论]]张力。 |
+> | [[Performativity]] | Concept | 高利害问责下[[School Leadership\|学校领导]]将 EEF 证据作为合规护身符的表演性异化机制。 |
 > | [[Sutton Trust]] | Fact (Organization) | EEF 的联合创设母体基金会，工具包的最初研发出资方。 |
 > | [[Social Ventures Australia]] | Fact (Organization) | EEF 跨国资助与模式输出的核心澳洲伙伴，联合设立中介子公司 [[Evidence for Learning\|E4L]]。 |
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Instrument) | EEF 运维的核心旗舰产品，将[[Effect Size\|效应量]]转化为学习月数的可视化工具包。 |
 > | [[Australian Education Research Organisation]] | Fact (Organization) | 澳大利亚国家证据机构，设立时以 EEF 为直接蓝本并深度承袭其治理经验。 |
-> | [[BHP Foundation]] | Fact (Organization) | 必和必拓基金会是 EEF 全球扩张与跨国[[Policy Network\|理念编排]]的核心私人资本资助方。 |
+> | [[BHP Foundation]] | Fact (Organization) | 必和拓基金会是 EEF 全球扩张与跨国[[Policy Network\|理念编排]]的核心私人资本资助方。 |
 > | [[Strong Beginnings Report]] | Fact (Policy) | 澳大利亚教师教育改革大纲，直接采纳了 EEF 推荐的证据[[Document\|文献]]与大纲要求。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 美国官方清算中心，与 EEF 并列为国际[[Evidence-Based Education\|循证教育]]的两大顶级旗舰。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国本土早期的[[Systematic Review\|系统综述]]先驱，为 EEF 的建立提供了学术方法论滋养。 |
@@ -310,12 +326,14 @@ updated: 2026-09-18
 > | [[Literacy Octopus]] | Fact (Program) | EEF 资助开展的大规模[[Multi-Arm Trial\|多臂试验]]标志性案例，证实单向信息推介对提升学业无效。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 揭示 EEF 的 1.25 亿英镑启动资金源自削减免费学生校餐预算，并剖析其背后的跨国投行与[[Venture Philanthropy\|风险慈善]]网络。 |
 > | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 关键论证 | 美国联邦级财务审计将 EEF 列为 4 个全球核心证据库之一，实证验证其在北美循证教育决策中的国际权威地位。 |
+> | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 关键论证 | 跨国比较英德苏三国学校领导者经验，揭示英格兰高利害治理如何异化 EEF 工具包为表演性合规与防御性辩护工具。 |
 
 ---
 
 ## 相关研究索引
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国汉堡 34 所中小学的 53 名[[School Leadership|学校领导]]者经验，揭示英格兰高利害督导与市场化问责体制如何异化 EEF 工具包为表演性合规的防御工具与财政紧缩下的裁员借口。
 > - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 揭示 EEF 财政溯源悖论（源自削减免费校餐沉淀资金）、母体[[Sutton Trust|萨顿信托]]与 [[Impetus]] 的跨国金融资本网络及向澳大利亚（[[Social Ventures Australia|SVA]]/[[Evidence for Learning|E4L]]/[[Australian Education Research Organisation|AERO]]）的制度输出。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详述 EEF 作为英格兰证据中介旗舰的创设经纬、留本基金运作、[[Randomised Controlled Trials|RCT]] 试验资助与[[Research Schools Network|研究学校网络]]（RSN）治理架构。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判 EEF 与澳大利亚 AERO 等[[Policy Network|政策网络]]如何将[[Cognitive Load Theory|认知负荷理论]]等特定学说编排为强制教师教育国家标准。

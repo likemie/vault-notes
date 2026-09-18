@@ -49,6 +49,9 @@ related_concepts:
   - "[[Rashomon Effect]]"
   - "[[Performance Pay]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Contributory Expertise]]"
+  - "[[Interactional Expertise]]"
+  - "[[Performativity]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -73,6 +76,7 @@ related_arguments:
   - "[[Argument_Cowen_2015_CHESS]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
+  - "[[Argument_Kelly_2025_ROE]]"
 confidence: high
 status: draft
 created: 2026-05-07
