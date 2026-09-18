@@ -47,7 +47,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Semi-structured Interview
@@ -131,3 +131,4 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022, p. 107)]] — 在[[OECD|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。
+> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025, pp. 9–11)]] — 在英格兰西南部、苏格兰格拉斯哥城市区与德国汉堡大都市区选取生源与规模相当的 9 所初等、中等与特殊学校校长开展 1 小时半结构化访谈（Semi-structured Interview），深入挖掘学校领导者在不同治理背景下的证据获取渠道、使用约束与效用认知。

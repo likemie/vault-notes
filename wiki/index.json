@@ -9190,6 +9190,17 @@
     ]
   },
   {
+    "title": "Contributory Expertise",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Contributory Expertise.md",
+    "aliases": [
+      "贡献型专长",
+      "贡献专门知识",
+      "贡献专长",
+      "contributory expert"
+    ]
+  },
+  {
     "title": "Cooperative Competition",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cooperative Competition.md",
@@ -9454,6 +9465,17 @@
       "知性-社交二分",
       "智识-社交分离",
       "知性与社交的对立"
+    ]
+  },
+  {
+    "title": "Interactional Expertise",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Interactional Expertise.md",
+    "aliases": [
+      "交互型专长",
+      "交互专门知识",
+      "交互专长",
+      "interactional expert"
     ]
   },
   {
@@ -23134,6 +23156,16 @@
     ]
   },
   {
+    "title": "Pupil Equity Funding",
+    "type": "fact",
+    "path": "wiki/facts/uk/Pupil Equity Funding.md",
+    "aliases": [
+      "学童公平资助",
+      "苏格兰学童公平资助",
+      "PEF"
+    ]
+  },
+  {
     "title": "Pupil Premium",
     "type": "fact",
     "path": "wiki/facts/uk/Pupil Premium.md",
@@ -26214,6 +26246,11 @@
     "title": "Argument_Higgins_2016_ROE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md"
+  },
+  {
+    "title": "Argument_Kelly_2025_ROE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Review of Education/Argument_Kelly_2025_ROE.md"
   },
   {
     "title": "Argument_Abrami_2015_RER",
