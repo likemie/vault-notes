@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -66,12 +66,13 @@ related_facts:
   - "[[Evidence Network]]"
 related_arguments:
   - "[[Argument_Rowe_2022_IJER]]"
+  - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-19
 ---
 
 # Evidence for Learning
@@ -101,6 +102,11 @@ updated: 2026-09-18
 > - **2018 — 跨国矿业资本助力与全球生态对接** 英国 EEF 与跨国铁矿石巨头必和必拓旗下基金会启动为期五年的“[[Building a Global Evidence Ecosystem for Teaching|构建全球教学证据生态系统]]”项目，E4L 作为核心海外枢纽获得持续资助，并与拉美 [[SUMMA]] 等镜像机构建立跨国循证[[Policy Network|政策网络]]（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 49]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 8]]）。
 > - **2021 — 国家级机构 [[Australian Education Research Organisation|AERO]] 设立与战略终局达成** 经过多年跨党派游说，联邦与各州教育部长联合注资 5,000 万澳元正式成立国家法定中介机构 AERO，达成了 E4L 作为政策催化剂的预设“终局”（Endgame）。
 > - **2024–至今 — 剥离独立运行与常态化数字服务** 2024 年 3 月，E4L 完成在 SVA 内部近十年的孵化使命，作为独立运营平台平稳过渡，持续向全澳教育工作者免费开放其沉淀的证据工具包与实践指南资源库。
+
+> [!phase] 证据中介从私营原型到国家法定的转译历程
+> 1. **私营试验原型孵化（2014–2015）** SVA 联合英国 EEF 与澳大利亚联邦银行，以风险慈善种子资金创办 E4L，本土化《教学与学习工具包》，以跨界商法精英操盘搭建敏捷的试验中介样板。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3, 6]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]])
+> 2. **政策游说与审查采纳（2016–2018）** 借道生产力委员会调查与 Gonski 2.0 审查，SVA 董事与游说团队高调将 E4L 呈现为“经实践验证成功的证据经纪人”，推动国家将“设立独立国家证据机构”写入官方审查报告建议。([[Argument_Rowe_2022_IJER|Rowe, 2022, p. 7]])
+> 3. **国家法定机构内嵌（2021–至今）** 联邦与各州注资 5000 万澳元设立 AERO，E4L 的核心资助者（如联邦银行、必和必拓基金会）与专家网络（如 Collins、Massy-Greene）直接嵌入国家机构董事会，完成从非政府创投项目向国家教育治理机器的战略转译。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 8–10]])
 
 ---
 
@@ -185,13 +191,14 @@ updated: 2026-09-18
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Instrument) | E4L 在澳大利亚全盘引进、[[Going Native\|本土化]]并试点的核心循证工具。 |
 > | [[BHP Foundation]] | Fact (Organization) | 资助 E4L 参与“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”的跨国矿业资本方。 |
 > | [[Building a Global Evidence Ecosystem for Teaching]] | Fact (Program) | 必和必拓基金会与 EEF 联合资助的跨国证据生态计划，E4L 与 [[SUMMA]] 担任南北核心枢纽。 |
-| [[Evidence for Education Network]] | Fact (Organization) | E4L 作为澳大利亚创始中介节点所融入的常设全球教育[[Evidence Network\|证据网络]]。 |
+> | [[Evidence for Education Network]] | Fact (Organization) | E4L 作为澳大利亚创始中介节点所融入的常设全球教育[[Evidence Network\|证据网络]]。 |
 > | [[SUMMA]] | Fact (Organization) | 必和必拓基金会全球教育证据计划中与 E4L 遥相呼应的拉美和加勒比姊妹证据中介。 |
 > | [[David Gonski]] | Person | 其领衔的 [[Gonski 2.0]] 审查采纳 SVA 建议提出第 23 条建议，完成政策落地。 |
 > | [[John Hattie]] | Person | 出任 E4L 学校专家咨询委员会（Schools Expert Reference Council）主席，指导工具包本土化转化。 |
 > | [[Educational Brokerage Agency]] | Concept | E4L 属于典型的准独立慈善基金会型教育证据中介机构。 |
 > | [[Policy Network]] | Concept | E4L 是澳洲连接跨国[[Venture Philanthropy\|风险慈善]]、商业银行与教育部委的枢纽节点。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 详细解构 E4L 作为 SVA 全资子公司、中立表象以及游说 AERO 的因果链条。 |
+> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 E4L 作为 SVA 辐射网络中的战略技术原型，以及其与国家法定证据中介的转译连接。 |
 
 ---
 
@@ -199,5 +206,6 @@ updated: 2026-09-18
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 详尽解构 E4L 作为英国 [[Education Endowment Foundation|EEF]] 与 [[Social Ventures Australia|SVA]] 设立的试验原型、前商业律师领衔背景、公关中立性神话及其向 [[Australian Education Research Organisation|AERO]] 演进的[[Policy Network|政策网络]]轨迹。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 将 E4L 置于澳大利亚慈善资本主义兴起的宏观图景中，阐释风险慈善机构如何将试验性中介转化为影响国家公共教育拨款与知识标准的制度杠杆。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 记录英国 EEF 携手[[BHP Foundation|必和必拓基金会]]支持澳大利亚 E4L 等机构进行全球证据生态[[Going Native|本土化]]的跨国进程。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 评析由 E4L 与 AERO 推广的工具包证据[[Paradigm|范式]]对澳大利亚教师教育国家大纲重塑的影响。

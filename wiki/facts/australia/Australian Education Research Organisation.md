@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -65,11 +65,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Rowe_2022_IJER]]"
+  - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-18
+updated: 2026-09-19
 ---
 
 # Australian Education Research Organisation
@@ -95,22 +96,26 @@ updated: 2026-09-18
 > - **2002–2013 — [[Venture Philanthropy|创投慈善]]萌芽与企业慈善立法期** 麦肯锡公司合伙人发起设立[[Social Ventures Australia|澳大利亚社会创投]]（SVA），在企业慈善税收激励与公司法改革支持下将风投资本纪律引入社会公益领域。([[Argument_Rowe_2022_IJER|Rowe, 2022, p. 3]])
 > - **2014–2016 — 试验原型探索与政府调查游说期** SVA 联合英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）及澳大利亚联邦银行设立[[Evidence for Learning|证据学习中心]]（Evidence for Learning, E4L），[[Going Native|本土化]]《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》；2016 年 SVA 董事 Richard Spencer 出任生产力委员会专员，促使委员会官方报告正式建议效仿英国 EEF 设立国家级独立证据机构。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 6–7]])
 > - **2017–2020 — [[Gonski 2.0]] 审查与行政法特许合作期** SVA 子公司前董事长[[David Gonski|戴维·冈斯基]]（David Gonski）牵头《卓越学校教育审查》，其第 23 条建议正式提出设立国家独立证据机构；《全国学校改革协议》承诺联合出资 5000 万澳元；2020 年联邦政府修订规则，以行政立法特许 AERO 与慈善组织开展深度合作。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 5, 8]])
-> - **2021–至今 — 公司法注册设立与高利害问责扩张期** 2021 年正式注册为担保有限公司；委托[[Centre for Evidence and Implementation|证据与实施中心]]（CEI）开展全国学校证据采纳桌面审查；2023 年首席执行官 Jenny Donovan 成为教师教育专家小组（Teacher Education Expert Panel, TEEP）成员，推动 AERO 起草的未发表证据综合报告成为全国[[Initial Teacher Training|初始教师教育]]（Initial Teacher Education, ITE）核心课程大纲与惩罚性问责的直接依据。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER|Rowe, 2022, p. 9]]; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **2021–至今 — 公司法注册设立与高利害问责扩张期** 2021 年正式注册为担保有限公司；SVA 十年游说达成“终局”目标；委托[[Centre for Evidence and Implementation|证据与实施中心]]（CEI）开展全国学校证据采纳桌面审查；2023 年首席执行官 Jenny Donovan 成为教师教育专家小组（Teacher Education Expert Panel, TEEP）成员，推动 AERO 起草的未发表证据综合报告成为全国[[Initial Teacher Training|初始教师教育]]（Initial Teacher Education, ITE）核心课程大纲与惩罚性问责的直接依据。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER|Rowe, 2022, p. 9]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]]; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **决策机构（董事会）** 设立由政府、商界与慈善界高管主导的专家董事会；首任主席莉萨·奥布莱恩（Lisa O'Brien，曾任 [[Social Ventures Australia|SVA]] 董事），核心成员包括[[Sir Kevan Collins|柯文·科林斯爵士]]（Sir Kevan Collins，英国 [[Education Endowment Foundation|EEF]] 首任 CEO）、罗杰·马西-格林（Roger Massy-Greene，SVA 长期捐赠人、力拓集团与美洲银行前高管）及莱斯利·洛布尔（Leslie Loble，保罗·拉姆齐基金会会士）。公司章程第 6 条与第 8 条明文规定董事选任必须具备与慈善界合作的资历。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 5, 9–10]])
+> - **决策机构（董事会）** 设立由政府、商界与慈善界高管主导的专家董事会；首任主席莉萨·奥布莱恩（Lisa O'Brien，曾任 [[Social Ventures Australia|SVA]] 董事），核心成员包括[[Sir Kevan Collins|柯文·科林斯爵士]]（Sir Kevan Collins，英国 [[Education Endowment Foundation|EEF]] 首任 CEO、SVA 顾问）、罗杰·马西-格林（Roger Massy-Greene，SVA 长期捐赠人、力拓集团与美洲银行前高管、Schools Plus 先驱者委员会成员）及莱斯利·洛布尔（Leslie Loble，保罗·拉姆齐基金会会士）。公司章程第 6 条与第 8 条明文规定董事选任必须具备与慈善界合作的资历。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 5, 9–10]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 529–530]])
 > - **执行机构（高管管理团队）** 首席执行官杰妮·多诺万（Jenny Donovan，曾任[[Centre for Educational Statistics and Evaluation|新南威尔士州教育统计与评估中心]] [[Comparative Education Society in Europe|CESE]] 主任）全面主持业务运作，直接参与联邦教育部委核心专家委员会（TEEP）。
 > - **底层网络与系统统筹** 与澳大利亚教学与[[School Leadership|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership|AITSL]]）及[[Australian Curriculum|澳大利亚课程]]、评估与报告局（ACARA）共享澳大利亚教育服务社（[[Educational Services Australia|ESA]]）底层数字化中介架构。
 > - **外部咨询与学术分包网络** 深度委托外部中介实体[[Centre for Evidence and Implementation|证据与实施中心]]（CEI）及各类商业咨询智库承担桌面审查与干预评估分包。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
+> [!voice] 担保有限公司制度设计的初衷
+> AERO 首席执行官杰妮·多诺万（Jenny Donovan）在学术访谈中直言不讳地指出，机构之所以没有设立为传统的政府法定机构，而是依据《公司法》设立为担保有限公司，核心考量正是为了吸纳私人慈善与企业资本：
+> > “选择这种法人形式是刻意为之的。它使我们不仅能接受联邦和州政府的联合拨款，而且在法律结构上能够合法接受慈善捐赠与企业资金的注入（allow for philanthropic contributions）……这为我们提供了传统法定机构所不具备的灵活性。”（Jenny Donovan Interview; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]]）
+
 > [!pathways]- 业务运行机制
 > - **议程设置** 依据《公共治理、绩效与问责规则》立法授权，同政府教育部门、早期教育机构、大学科研机构及慈善基金会联合制定国家研究议程。([[Argument_Rowe_2022_IJER|Rowe, 2022, p. 5]])
 > - **证据转化与工具研制** 制定标准化证据量规（evidence rubrics），将[[Randomised Controlled Trials|随机对照试验]]成果提炼为课堂实操指南，向教师与决策者推介“有效实践”。([[Argument_Rowe_2022_IJER|Rowe, 2022, p. 2]])
-> - **商业豁免与透明度控制** 企业法人属性使其在成立前 18 个月内免于向公众公开经审计的财务账目；同时为政府资金向私营咨询机构分包提供合法合规通道。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 5, 11]])
+> - **商业豁免与透明度控制** 企业法人属性使其在成立前 18 个月内免于向公众公开经审计的财务账目；同时为政府资金向私营咨询机构分包提供合法合规通道。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 5, 11]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]])
 
 ---
 
@@ -186,3 +191,15 @@ updated: 2026-09-18
 > | [[Centre for Evidence and Implementation]] | 事实 | 受 AERO 委托开展首期学校证据采纳桌面审查的外部中介机构。 |
 > | [[Strong Beginnings Report]] | 事实 | AERO 深度介入并强推全国[[Initial Teacher Training\|初始教师教育]]核心大纲的联邦改革报告。 |
 > | [[Gonski Reforms]] | 事实 | 其 2.0 审查第 23 条建议被 AERO 用作公众合法性包装的道德杠杆。 |
+> | [[Australian Schools Plus]] | 事实 | 共享关键高管与资助人节点的慈善筹款中介实体。 |
+> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 AERO 设立作为 SVA 十年政策游说终局与担保有限公司吸纳慈善资金的制度机制。 |
+
+---
+
+## 相关研究索引
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 提出无生命客体政策装配框架，运用防野狗围栏隐喻解构 AERO 担保有限公司注册底座、18 个月审计保密豁免及特许商业分包。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 深入追踪 SVA 长达十年的政策网络渗透，结合 CEO 访谈原声揭露 AERO 担保有限公司架构旨在吸纳慈善资本的制度本质。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 全球比较视野下对包括 AERO 在内的国家级教育中介机构的兴起与治理结构进行系统调研。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判 AERO 在初始教师教育中推行的神经科学简化论与惩罚性问责大纲对大学教师专业判断的剥夺。
