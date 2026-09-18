@@ -107,7 +107,7 @@ updated: 2026-09-18
 > [!feature] 拓扑空间化的关键机制构件
 > - **关系的密集触达（Intensities of [[Reach]] & Proximity）** 权力不再取决于物理驻留，而是取决于[[Data Infrastructure|数据基础设施]]向微观教育[[Champ|场域]]触达的深度与频次；通过标准化日常测试与在线题库平台，中央机构得以直接与一线教师互动（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 136, 144]]）。
 > - **时空折叠与拉伸（Folding & Stretching of Time-Space）** 数据流将相隔千里但指标相同的学校拉伸至同一比较轴线，将分散在全德 16 州的课堂表现直接折叠进联邦[[Center of Calculation|计算中心]]的监测屏幕（[[Argument_Hartong_2018_GSE|Hartong, 2018, p. 137]]）。
-> - **标准化数据表征与算法通约（Standardised Inscriptions & Commensuration）** 异质的教学过程被[[Coding in Qualitative Research|编码]]为标准化的测验得分与能力层级，使不可比的教学情境在数学上转化为可自由移动、聚合与二次计算的数据（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 138, 141]]）。
+> - **标准化数据表征与算法[[Commensuration|通约]]（Standardised Inscriptions & Commensuration）** 异质的教学过程被[[Coding in Qualitative Research|编码]]为标准化的测验得分与能力层级，使不可比的教学情境在数学上转化为可自由移动、聚合与二次计算的数据（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 138, 141]]）。
 > - **跨尺度制度重组（Cross-scale Re-[[Assemblage]]）** 传统被宪法严格区隔的联邦、州与地方权限，在拓扑数据网络中被重新装配为新型治理形态（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 143–145]]）。
 
 > [!logic-map]- 拓扑空间折叠与数据流转拓扑
@@ -137,7 +137,7 @@ updated: 2026-09-18
 
 ### 命题二　拓扑空间的生产依赖于计算中心对微观教育现象的标准化数据表征转译
 
-> [!concept-lens] 尺度转译与远程操控维度
+> [!concept-lens] 尺度[[Transfer Translation Transformation|转译]]与远程操控维度
 > 剖析微观复杂的师生互动与学校教学如何被提炼为可移动数据，并在中心节点生成治理效力。
 
 > [!claim] [[Bruno Latour|Latour, B.]]; [[Sigrid Hartong|Hartong, S.]]
@@ -151,7 +151,7 @@ updated: 2026-09-18
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **尺度穿透与制度重组命题** | 数据基础设施在保持名义分权结构的同时实现跨尺度的拓扑连通与软性协同 | 联邦制国家教育改革、跨国[[Policy Mobility\|政策流动]]与多级治理协调 | [[Argument_Hartong_2018_GSE\|Hartong (2018, p. 143)]]; Savage (2016) |
-> | **数据表征转译与远程治理命题** | 计算中心通过标准化数据表征将微观教学折叠进宏观监测网络中行使[[Governing at a Distance\|远距离治理]] | 国家级测评中枢、大规模数据库建设与循证政策制定 | [[Argument_Hartong_2018_GSE\|Hartong (2018, p. 138)]]; Latour (1987); Rose (1999) |
+> | **数据表征转译与[[Governing at a Distance\|远程治理]]命题** | 计算中心通过标准化数据表征将微观教学折叠进宏观监测网络中行使[[Governing at a Distance\|远距离治理]] | 国家级测评中枢、大规模数据库建设与循证政策制定 | [[Argument_Hartong_2018_GSE\|Hartong (2018, p. 138)]]; Latour (1987); Rose (1999) |
 
 ---
 

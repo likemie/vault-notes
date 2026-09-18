@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Policy Borrowing",
+      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
+    },
+    {
       "basename": "Argument_Hartong_2018_GSE",
       "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Hartong_2018_GSE.md"
+    },
+    {
+      "basename": "Institute for Educational Quality Improvement",
+      "path": "wiki/facts/germany/Institute for Educational Quality Improvement.md"
     },
     {
       "basename": "Argument_Besa_2024_UW",
@@ -191,14 +199,6 @@
     {
       "basename": "Tina Seidel",
       "path": "wiki/persons/germany/Tina Seidel.md"
-    },
-    {
-      "basename": "Research-Practice Gap",
-      "path": "wiki/concepts/educational-policy-reform/Research-Practice Gap.md"
-    },
-    {
-      "basename": "Meta-analysis",
-      "path": "wiki/methods/quantitative/Meta-analysis.md"
     }
   ],
   "omittedPaths": [],

@@ -269,7 +269,7 @@ IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延�
 > [!finding-cards] 核心发现
 > 1. **[[Data Infrastructure|数据基础设施]]作为政策重组的核心媒介** 绩效数据基础设施不仅是纯粹的技术工具，更是重组国家治理拓扑、将分散微观教学与宏观标准实时连接的核心制度媒介。（p. 134, p. 145）
 > 2. **[[Institute for Educational Quality Improvement|IQB]] 确立国家[[Center of Calculation|计算中心]]的元治理地位** 柏林 IQB 通过主导国家标准研发、跨州趋势测试、统筹 [[Vergleichsarbeiten|VERA]] 命题及运营 FDZ 数据库，成为全德最具认知权威的计算中枢。（pp. 140–144）
-> 3. **拓扑穿透与去排名共识下的新型[[Disciplina and Doctrina|规训]]** 尽管德国坚守禁止学校公开排名的法律底线，但集约化的数据池与数字化任务平台已在实质上构筑起全域对标与[[Governing at a Distance|远距离治理]]的能力。（pp. 144–145）
+> 3. **拓扑穿透与去排名共识下的新型[[Disciplina and Doctrina|规训]]** 尽管德国坚守禁止学校公开排名的法律底线，但集约化的数据池与数字化任务平台已在实质上构筑起全域对标与远距离治理的能力。（pp. 144–145）
 > 4. **分权与集权在[[Assemblage|装配]]体中的复合共生** 德国教育政策并未简单走向中央集权或维持旧有分权，而是在物质技术、法律条款与专家网络的动态博弈中形成了新型复合政策装配体。（pp. 145–146）
 
 > [!stat-cards]- 核心数据
@@ -284,7 +284,7 @@ IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延�
 
 ## 关键引用
 
-> [!citation-card] [[Center of Calculation|计算中心]]与[[Governing at a Distance|远距离治理]]的拓扑机制
+> [!citation-card] [[Center of Calculation|计算中心]]与远距离治理的拓扑机制
 > [[Institute for Educational Quality Improvement|IQB]] 作为新兴跨尺度数据中介机构，正在重组德国教育的空间结构：
 >
 > 一方面，各州在官方层面上依然保留对所有教育绩效调查的管辖权；另一方面，作为新型跨尺度数据中介机构的 IQB 正在日益主导这些测试的设计，并由此生产出详尽的数据池，在新型[[Topological Spatialisation|拓扑空间化]]中将地方、州级、国家以及国际数据紧密串联起来。（p. 144）
