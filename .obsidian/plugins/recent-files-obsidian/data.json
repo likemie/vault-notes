@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
       "basename": "Argument_Altrichter_2019_ZfB",
       "path": "wiki/arguments/journal-articles/Zeitschrift für Bildungsforschung/Argument_Altrichter_2019_ZfB.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "Situated Ethics",
       "path": "wiki/theories/research-methodology/Situated Ethics.md"
-    },
-    {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
     },
     {
       "basename": "Ecological Systems Theory",
