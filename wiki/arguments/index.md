@@ -214,7 +214,7 @@ Total entries: **271**
 > - [[Argument_Marginson_2025_ECNUROE]] — 以 Massey 关系性空间理论为基础，将高等教育地缘政治分为 1990–2015 霸权式全球化与 2015 至今部分去全球化两个历史阶段，以中美英澳四国的国家-全球协同模式分析空间制造的多样性
 > - [[Argument_Pellegrini_2021_ECNUROE]] — 梳理2006年以来欧盟证据知情教育政策和证据中介组织，指出欧洲进展主要停留在倡议和网络层面，真正落地受外部效度、经费再平衡和关键能力评估难题制约
 > - [[Argument_Ross_Morrison_2021_ECNUROE]] — 以ESSA证据标准和巴尔的摩STAT技术整合评估为例，说明教育项目证据的使用受研究设计属性、实施语境和利益相关者价值判断共同塑造
-> - [[Argument_Rowe_2023_ECNUROE]] — 埃玛·罗威（Emma Rowe）运用网络民族志与 Gephi 可视化技术，以澳大利亚社会创投（SVA）为中枢，解构连接学校加计划、证据学习中心（E4L）与澳大利亚教育研究组织（AERO）的风险慈善政策网络，揭示慈善资本主义如何重构国家再分配职能、特许避税庇护并侵蚀公共教育民主问责。
+> - [[Argument_Rowe_2023_ECNUROE]] — 埃玛·罗威运用网络民族志与 Gephi 可视化技术，以澳大利亚社会创投（Social Ventures Australia, SVA）为中枢，解构连接学校加计划、证据学习中心（Evidence for Learning, E4L）与澳大利亚教育研究组织（Australian Education Research Organisation, AERO）的政策网络，揭示慈善资本主义如何重构国家再分配职能、特许避税庇护并侵蚀公立教育民主问责。
 > - [[Argument_Slavin_2021_ECNUROE]] — 首个中美英证据本位改革国际比较：记录中国教育实证研究的制度化发展（ECNU 论坛、华东师大宣言、BEiB），呈现中国学者五类内部质疑，以四项核心活动框架分析中国情境
 
 > [!index-list]- ECO (1)

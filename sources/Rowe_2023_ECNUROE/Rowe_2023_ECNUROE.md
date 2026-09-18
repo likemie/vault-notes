@@ -1,6 +1,7 @@
 ---
 citation: "Rowe, E. E. (2023). Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia. ECNU Review of Education, 6(4), 518–540. https://doi.org/10.1177/20965311221128840"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Rowe_2023_ECNUROE]]"
 processed_date: 2026-09-18
 ---
 
