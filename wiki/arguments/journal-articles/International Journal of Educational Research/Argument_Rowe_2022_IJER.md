@@ -261,7 +261,7 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 ## 关键引用
 
 > [!citation-card] 约翰·劳论关系物质性与耐用材料
-> 一种有效的秩序化策略是将一套关系具身于耐用材料之中。因此，一个相对稳定的网络，正是由一系列耐用材料所具身并不断践行的。（Law, 1992, p. 387; [[Argument_Rowe_2022_IJER|Rowe, 2022, p. 2]]）
+> 一种有效的秩序化策略是将一套关系具身于耐用材料之中。因此，一个相对稳定的网络，正是由一系列耐用材料所具身并不断践行的。（Law, 1992, p. 387; Rowe, 2022, p. 2）
 >
 > *…a good ordering strategy is to embody a set of relations in durable materials. Consequently, a relatively stable network is one embodied in and performed by a range of durable materials.* (Law, 1992, p. 387)
 
