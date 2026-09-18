@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 92
+fact_related_count: 94
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence Ecosystem]]"
   - "[[Paradigm]]"
-  - "[[Evidence Era]]"
   - "[[Academic Achievement]]"
   - "[[Months of Progress]]"
   - "[[Preregistration]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Publication Bias]]"
   - "[[Governing by Numbers]]"
+  - "[[Evidence Era]]"
   - "[[Rationalized Myth]]"
   - "[[Champ]]"
   - "[[Gatekeepers]]"
@@ -87,14 +87,15 @@ related_facts:
   - "[[Sutton Trust]]"
   - "[[Research Schools Network]]"
   - "[[The Importance of Teaching]]"
-  - "[[Education at a Glance]]"
   - "[[Pupil Premium]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[National Pupil Database]]"
+  - "[[Social Ventures Australia]]"
   - "[[Australian Education Research Organisation]]"
   - "[[BHP Foundation]]"
   - "[[Researching School Choices]]"
   - "[[Teacher Choices]]"
+  - "[[Education at a Glance]]"
   - "[[ISRCTN]]"
   - "[[SPECTRUM]]"
   - "[[Every Student Succeeds Act]]"
@@ -111,11 +112,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
-  - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Helgetun_2022_JEP]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Ginsberg_2024_EP]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
@@ -124,7 +126,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # Education Endowment Foundation
@@ -134,32 +136,34 @@ updated: 2026-09-17
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 教育捐赠基金会（Education Endowment Foundation，EEF）是 2011 年成立于英国伦敦的准独立慈善证据中介旗舰机构，由[[Sutton Trust|萨顿信托]]（Sutton Trust）与动力信托（Impetus）联合设立并依托英国教育部 1.25 亿英镑种子基金运营，代表了从传统单向清算中心向因果证据生产 $+$ 综合[[Transfer Translation Transformation|转译]] $+$ [[Research Schools Network|研究学校网络]]深耕的现代[[Evidence Ecosystem|教育证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm|范式]]演进([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 62]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]]; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 47–49]])。
+> 教育捐赠基金会（Education Endowment Foundation，EEF）是 2011 年成立于英国伦敦的准独立慈善证据中介旗舰机构，由[[Sutton Trust|萨顿信托]]（The Sutton Trust）与动力基金会（Impetus）联合设立并依托英国教育部 1.25 亿英镑留本基金运营，代表了从传统单向清算中心向因果证据生产 $+$ 综合[[Transfer Translation Transformation|转译]] $+$ [[Research Schools Network|研究学校网络]]深耕的现代[[Evidence Ecosystem|教育证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm|范式]]演进（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 62]]；[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]]；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 47–49]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3, 6]]）。
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2010 年末，时任英国教育大臣[[Michael Gove|迈克尔·戈夫]]（Michael Gove）依据[[The Importance of Teaching|《教学的重要性》]]白皮书规划并受美国奥巴马政府争向顶峰（Race to the Top）计划启发，宣布设立独立基金会以提升英格兰薄弱学校标准并开启[[Evidence Era|证据时代]]；2011 年萨顿信托在公开竞标中胜出，联合 Impetus 共同创立 EEF，设定了 15 年法定运营期并计划撬动超过 2 亿英镑资助款项。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–91)]]
+> - **成立时间 / 创设背景** 2010 年末，时任英国教育大臣[[Michael Gove|迈克尔·戈夫]]（Michael Gove）在前麦肯锡公司（McKinsey & Company）全球总裁迈克尔·巴伯（Michael Barber）理念影响下，依据[[The Importance of Teaching|《教学的重要性》]]白皮书规划宣布设立独立基金会；其 1.25 亿英镑法定启动资金直接源于英国政府决定不扩大免费学生校餐（Free School Meals）计划的预算沉淀；2011 年萨顿信托在公开竞标中胜出，联合 Impetus 共同创立 EEF，设定了 15 年法定运营期并撬动社会配比资金（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, pp. 90–91]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3, 6]]）。
 > - **法定定位与清算中心职能** 2013 年 3 月，EEF 与萨顿信托被英国政府正式指定为英国教育领域的有效机构（What Works Centre for Education），纳入覆盖超过 2,500 亿英镑公共开支的国家证据中介网络。
-> - **法人属性与治理架构** 独立注册慈善组织（Charity），保持对政府政策的学术独立性；受托人理事会（Board of Trustees）由[[Peter Lampl|彼得·兰普尔爵士]]（Sir Peter Lampl）担任主席，并受专家顾问委员会（Advisory Board）与评估顾问小组（Evaluation Advisory Group，[[Education at a Glance|EAG]]）的专业指导([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 47]])。
-> - **核心宗旨与法定职责** 破除家庭收入与[[Academic Achievement|学业成就]]之间的制度性关联，重点提升 3 至 18 岁处境不利儿童青少年的学业水平与生活技能，指导学校科学分配[[Pupil Premium|学生津贴]]（Pupil Premium）公共专项资金([[Argument_Higgins_2016_ROE|Higgins, 2016, p. 46]]; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 48]])。
+> - **法人属性与资本网络** 依据英国慈善法注册为独立慈善组织（Charity No. 1142111），受托人理事会（Board of Trustees）由[[Peter Lampl|彼得·兰普尔爵士]]（Sir Peter Lampl）担任主席；背后母体萨顿信托与 Impetus 深度汇聚了美洲银行（Bank of America）、高盛集团（Goldman Sachs）、摩根大通（JP Morgan）、普华永道（PwC）等跨国投资银行、商业律所与跨国私募股权财团资本（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 47]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 6–8]]）。
+> - **核心宗旨与法定职责** 破除家庭收入与[[Academic Achievement|学业成就]]之间的制度性关联，重点提升 3 至 18 岁处境不利儿童青少年的学业水平与生活技能，指导学校科学分配[[Pupil Premium|学生津贴]]（Pupil Premium）公共专项资金（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 46]]；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 48]]）。
 
 ---
 
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 机构发展与全球扩张历程
-> - **2011 — 创设与工具包研发** 依据 2010 年白皮书[[The Importance of Teaching|《教学的重要性》]]战略设想，[[Sutton Trust|萨顿信托]]联合政府注资正式创立 EEF，作为英格兰教育迈入[[Evidence Era|证据时代]]的制度支柱（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, pp. 90–91]]）；接手并深度拓展杜伦大学（Durham University）研发的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit），以额外学习月数（[[Months of Progress]]）为通俗指标向全英学校输出证据排序。
-> - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration|预注册]]与[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size|有效样本量]]较早期翻倍，显著提升了统计功效，被斯莱文（[[Argument_Slavin_2019_EP|Slavin, 2019, p. 24]]）评价为全球最具活力的教育因果试验资助与管理平台之一（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48–50, 56]]；Sanders, 2019）。
-> - **2016 — 跨国政策辐射与制度输出** 澳大利亚政府生产力委员会建议直接以英国 EEF 为蓝本建立本土国家证据机构，直接催生了后来的[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation，AERO）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
-> - **2018 — 私人资本注资与全球生态复制** 启动全球[[Evidence Ecosystem|证据生态系统]]扩张战略，获得[[BHP Foundation|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的跨国教学证据生态建设项目，联合智利 Summa、澳大利亚有效证据组织（Evidence for Learning，E4L）等机构推进证据[[Going Native|本土化]]转化([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 49]])。
-> - **2019 — 启动“[[Research Schools Network|研究学校网络]]”并开辟多样化设计资助流** 正式构建由 32 所常设研究学校与 8 所联合研究学校组成的研究学校网络（Research Schools Network，RSN）；针对学校不愿[[Random Assignment|随机化]]的结构制度（如分层分班、作息调整）设立研究[[School Choice|学校选择]]（[[Researching School Choices]]）[[Quasi-Experimental Designs|准实验设计]]（Quasi-Experimental Designs，QED）资助流，并设立关注日常教学微决策的[[Teacher Choices|教师选择]]（Teacher choices）微型试验项目([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48, 55–56]])。
-> - **2020–2023 — 跨国治理渗透与认知科学推广** EEF 首任首席执行官凯万·柯林斯爵士（Sir Kevan Collins）受邀出任澳大利亚 AERO 专家委员会委员；2023 年发布《课堂中的认知科学》专题综述，系统推进基于[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory）的显性教学规程([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 8, 11]])。
+> - **2011 — 创设与工具包研发** 依据 2010 年白皮书[[The Importance of Teaching|《教学的重要性》]]设想，Gove 在 Michael Barber 影响下推动设立，利用未扩大免费学生校餐的沉淀资金注资 1.25 亿英镑；[[Sutton Trust|萨顿信托]]联合 Impetus 正式创立 EEF（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022, pp. 90–91]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]）；接手并深度拓展杜伦大学（Durham University）研发的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit），以额外学习月数（[[Months of Progress]]）向全英学校输出排序指标。
+> - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration|预注册]]与[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size|有效样本量]]较早期翻倍，显著提升了统计功效，被斯莱文（[[Argument_Slavin_2019_EP|Slavin, 2019, p. 24]]）评价为全球最具活力的教育因果试验资助与管理平台之一（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48–50]]）。
+> - **2014 — 跨国原型输出与 E4L 资助** EEF 联合澳大利亚联邦银行出资，资助[[Social Ventures Australia|澳大利亚社会创投]]（SVA）设立全资中介子公司证据学习中心（Evidence for Learning, E4L），由商业律师 Matthew Deeble 掌舵，率先在维多利亚州教育部试水本土化工具包，作为国家级证据中介的样板试验田（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 3]]）。
+> - **2016 — 跨国政策辐射与制度输出** 澳大利亚政府生产力委员会审查报告直接建议以英国 EEF 和美国 IES 为蓝本建立本土国家级证据机构，直接催生后来的[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 7]]）。
+> - **2018 — 跨国矿业资本注资与全球生态复制** 启动全球[[Evidence Ecosystem|证据生态系统]]扩张战略，获得跨国铁矿石巨头必和必拓旗下基金会（[[BHP Foundation|必和必拓基金会]]）资助开展为期 5 年的“构建全球教学证据生态系统”跨国项目，联合智利 Summa 与澳大利亚 E4L 等机构加速证据[[Going Native|本土化]]转化与模式克隆（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 49]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 8]]）。
+> - **2019 — 启动“[[Research Schools Network|研究学校网络]]”并开辟多样化设计资助流** 正式构建由 32 所常设研究学校与 8 所联合研究学校组成的研究学校网络（Research Schools Network，RSN）；针对学校不愿[[Random Assignment|随机化]]的结构制度设立研究[[School Choice|学校选择]]（[[Researching School Choices]]）[[Quasi-Experimental Designs|准实验设计]]（QED）资助流，并设立关注日常教学微决策的[[Teacher Choices|教师选择]]（Teacher choices）微型试验项目（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 55–56]]）。
+> - **2020–2023 — 跨国高管旋转门与认知科学推广** EEF 首任首席执行官柯文·科林斯爵士（Sir Kevan Collins）受邀出任澳大利亚 AERO 首届专家董事会董事，实现跨国政策网络的人事与知识闭环；2023 年发布《课堂中的认知科学》专题综述，系统推进基于[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory）的显性教学规程（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]；[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 9–10]]）。
 
 ---
 
 ## 治理架构与运行机制
 
-> [!actor-grid] 组织治理架构
-> - **信托受托人理事会（Board of Trustees）** 机构最高决策权力层，由[[Peter Lampl|彼得·兰普尔爵士]]担任主席，[[Sutton Trust|萨顿信托]]代表、顶尖教育学者、前高级政务官及商界资深人士组成，决定战略资助方向与资金配置。
+> [!actor-grid] 组织治理架构与跨国网络
+> - **信托受托人理事会（Board of Trustees）** 机构最高决策权力层，由[[Peter Lampl|彼得·兰普尔爵士]]担任主席，[[Sutton Trust|萨顿信托]]代表、动力基金会（Impetus）代表、顶尖教育学者、前高级政务官及商界资深人士组成，统筹战略资助与资金配置。
+> - **跨国企业资本与资助网络** EEF 虽以公共慈善形象示人，但其资金与治理底座深深锚定于跨国金融与法律资本：资助母体萨顿信托由美洲银行、高盛集团、摩根大通、普华永道等巨头支持；Impetus 由贝恩资本、KKR、黑石集团等跨国私募股权财团主导；并获必和必拓基金会数百万英镑专项资助，形成公私模糊的跨国资本拓扑网络（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 6–8]]）。
 > - **评估顾问小组（Evaluation Advisory Group，[[Education at a Glance|EAG]]）** 专门指导评估方法学与证据生成规范的独立专家智囊，维护评估标准的严谨性与前沿性。
 > - **评估者专家库（Panel of Evaluators）** 通过公开竞标遴选的专业研究机构网络。EEF 分别与项目开发者和评估机构签署独立三方协议，严格实行开发者与评估者彻底剥离的制度设计，确保[[Random Assignment|随机分配]]、主指标收集、统计分析与报告撰写全程保持独立。
 > - **[[Research Schools Network|研究学校网络]]（RSN 基层网络）** 由 40 所卓越公立中小学担任“研究学校”，作为连接宏观证据与微观教研室的核心边界跨越枢纽。
@@ -241,6 +245,17 @@ updated: 2026-09-17
 > > 探讨企业慈善基金会（如[[BHP Foundation|必和必拓基金会]]）注资对主权国家公共教育主权的潜在侵蚀。
 > >
 > > - **学术批判** [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 尖锐指出，EEF 借助跨国矿业寡头资本构建全球[[Evidence Network|证据网络]]，其推崇的标准化循证模式实质上将主权国家的教师教育大纲（如澳大利亚《强劲开端》报告）卷入新自由主义[[Policy Network|理念编排]]，造成教育知识生产的隐性政治偏向。
+>
+> > [!axis] 财政溯源伦理悖论与跨国企业资本洗白（免费校餐沉淀资金 vs 弱势儿童救助修辞）
+> > 探讨 EEF 崇高的公平与证据话语是否掩盖了紧缩财政削减弱势儿童直接福利以及为跨国企业资本漂绿的深层矛盾。
+> >
+> > - **批判政策社会学视阈** [[Argument_Rowe_2022_IJER|Rowe (2022, pp. 6–8)]] 尖锐揭露，EEF 的 1.25 亿英镑法定初始留本基金并非财政新增拨款，而是源于英国教育部“决定不增加免费学生校餐计划”（Free School Meals initiative）的预算节余；这形成了极具讽刺意味的制度悖论：一个标榜为弱势儿童“促进教育公平”的机构，其启动资金恰恰来自削减贫困儿童免费午餐的公共福利开支。同时，EEF 的资助母体（萨顿信托与 Impetus）汇聚了华尔街投行与跨国私募股权资本，并与全球矿业寡头必和必拓基金会深度结盟向海外扩张，使其客观上沦为跨国商业金融资本规避税收、构建中立公关形象与重塑主权国家教育议程的战略工具。
+> > - **官方与辩护立场** 强调留本基金为证据机构提供了超越选举周期的长期财政保障，且与私人慈善基金会的合作有效撬动了社会闲散资本投向公共教育科研，通过严谨因果评估避免了数十亿英镑教育经费的盲目浪费。
+
+> [!citation-card] 政策网络学者论 EEF 创设资金的财政溯源与伦理悖论
+> 罗威揭露，英国教育部为 EEF 提供的 1.25 亿英镑创办资金，源于政府决定不扩大贫困儿童免费学校午餐计划的预算节余；机构虽标榜为弱势群体促进公平，其实质却依托削减贫困学童温饱福利的资金设立，并由汇聚跨国投行与私募资本的萨顿信托与 Impetus 共同资助。[[Argument_Rowe_2022_IJER|(Rowe, 2022, p. 6)]]
+>
+> *In providing a 125 million pound founding grant for EEF, the UK Department for Education wrote that the foundation 'is being established from the money that was set aside when the Government took the decision not to increase the number of free school meals initiative'... The EEF is committed to 'improving equity' for young people (even whilst it takes money for free school meals); and is funded by The Sutton Trust and the private equity firm Impetus: nodes that are funded by an assortment of multinational corporations—the 'corporate and financial elite'.*
 
 > [!critique-data]- 案例一：新起点拼读 [[Randomised Controlled Trials|RCT]] 的数据包装与[[Random Assignment|随机分配]]失败
 > EEF 官方摘要高调宣称，针对初中一年级阅读落后学生的“新起点”（Fresh Start）合成拼读干预产生了 $+0.24$ 标准差（Standard Deviation，SD）的显著[[Effect Size|效应量]]（等同于 3 个月额外学业增益）。
@@ -274,12 +289,29 @@ updated: 2026-09-17
 > | [[Evidence Era]] | Concept | EEF 的成立标志着英格兰教育治理正式跨入以因果实验与证据工具包为标志的证据时代。 |
 > | [[Rationalized Myth]] | Concept | EEF 资助的 [[Randomised Controlled Trials\|RCT]] 证据体系被政府与实践[[Champ\|场域]]动员为主导性的制度合理化神话。 |
 > | [[Evidence Ecosystem]] | Concept | EEF 代表的“生成-综合-[[Transfer Translation Transformation\|转译]]-落地”全链条现代中介[[Paradigm\|范式]]。 |
+> | [[Sutton Trust]] | Fact (Organization) | EEF 的联合创设母体基金会，工具包的最初研发出资方。 |
+> | [[Social Ventures Australia]] | Fact (Organization) | EEF 跨国资助与模式输出的核心澳洲伙伴，联合设立中介子公司 E4L。 |
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Instrument) | EEF 运维的核心旗舰产品，将[[Effect Size\|效应量]]转化为学习月数的可视化工具包。 |
 > | [[Australian Education Research Organisation]] | Fact (Organization) | 澳大利亚国家证据机构，设立时以 EEF 为直接蓝本并深度承袭其治理经验。 |
 > | [[BHP Foundation]] | Fact (Organization) | 必和必拓基金会是 EEF 全球扩张与跨国[[Policy Network\|理念编排]]的核心私人资本资助方。 |
 > | [[Strong Beginnings Report]] | Fact (Policy) | 澳大利亚教师教育改革大纲，直接采纳了 EEF 推荐的证据[[Document\|文献]]与大纲要求。 |
-> | [[What Works Clearinghouse]] | Fact (Organization) | 美国官方清算中心，与 EEF 并列为国际[[Evidence-Based Education\|循证教育]]的两大顶级旗舰。 |
-> | [[EPPI-Centre]] | Fact (Organization) | 英国本土早期的[[Systematic Review\|系统综述]]先驱，为 EEF 的建立提供了学术方法论滋养。 |
+> | [[What Works Clearinghouse]] | Fact (Organization) | 美国官方清算中心，与 EEF 并列为国际[[Evidence-Based Education|循证教育]]的两大顶级旗舰。 |
+> | [[EPPI-Centre]] | Fact (Organization) | 英国本土早期的[[Systematic Review|系统综述]]先驱，为 EEF 的建立提供了学术方法论滋养。 |
 > | [[SPECTRUM]] | Fact (Program) | EEF 委托研发的权威非认知与社会情感测量工具库与准入标准体系。 |
-> | [[Literacy Octopus]] | Fact (Program) | EEF 资助开展的大规模[[Multi-Arm Trial\|多臂试验]]标志性案例，证实单向信息推介对提升学业无效。 |
-> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 关键论证 | 美国联邦级财务审计将 EEF 列为 4 个全球核心证据库之一，实证验证其在北美循证教育决策中的国际权威地位。 |
+> | [[Literacy Octopus]] | Fact (Program) | EEF 资助开展的大规模[[Multi-Arm Trial|多臂试验]]标志性案例，证实单向信息推介对提升学业无效。 |
+> | [[Argument_Rowe_2022_IJER|Rowe (2022)]] | 关键论证 | 揭示 EEF 的 1.25 亿英镑启动资金源自削减免费学生校餐预算，并剖析其背后的跨国投行与风险慈善网络。 |
+> | [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] | 关键论证 | 美国联邦级财务审计将 EEF 列为 4 个全球核心证据库之一，实证验证其在北美循证教育决策中的国际权威地位。 |
+
+---
+
+## 相关研究索引
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 揭示 EEF 财政溯源悖论（源自削减免费校餐沉淀资金）、母体萨顿信托与 Impetus 的跨国金融资本网络及向澳大利亚（SVA/E4L/AERO）的制度输出。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详述 EEF 作为英格兰证据中介旗舰的创设经纬、留本基金运作、RCT 试验资助与研究学校网络（RSN）治理架构。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判 EEF 与澳大利亚 AERO 等政策网络如何将认知负荷理论等特定学说编排为强制教师教育国家标准。
+> - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 剖析 EEF 在英格兰教师教育政策网络中作为“合理化神话”的功能及政治场域中的选择性证据利用。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 比较经合组织（OECD）视野下 EEF 克服传统线性清算中心局限、迈向生态型证据中介的系统经验。
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 评析 EEF 工具包的学校决策渗透率及研究学校网络（RSN）三年独立评估的因果时滞。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 从批判实在论视阈核查 EEF 新起点拼读试验的数据包装缺陷与助教排行榜的去情境化误区。
+> - [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] — 记录美国 ESSA Title I 经费审计中将 EEF 视同 WWC 的国际权威实证。
