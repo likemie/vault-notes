@@ -2554,7 +2554,7 @@ Total entries: **2701**
 > - [[Partnership Schools Kura Hourua]] — 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
 > - [[Teach First New Zealand]] — 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
 > - [[Treasury Briefing on Student-Teacher Ratios]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
-> - [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议
+> - [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议。
 
 > [!index-list]- Policy (7)
 > - [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M

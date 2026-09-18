@@ -28,12 +28,13 @@ related_facts:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[OECD]]"
   - "[[Cognition Education]]"
+  - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-07-09'
+updated: 2026-09-18
 ---
 
 ## 定义
@@ -86,7 +87,7 @@ Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织
 ## 主要案例
 
 > [!example] 主要案例
-> - **[[Cognition Education|Cognition Education]]**（新西兰最大 EMO）— 起源于 Multi Serve Education Trust (1989)，2010 年收入达 USD 69M，2015 年降至 USD 28M；以商业运作 [[John Hattie]] 的 Visible Learningplus 为核心品牌([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.65–75]])
+> - **[[Cognition Education|Cognition Education]]**（新西兰最大 EMO）— 起源于 Multi Serve Education Trust (1989)，2010 年收入达 USD 69M，2015 年降至 USD 28M；以商业运作 [[John Hattie]] 的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 为核心品牌([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.65–75]])
 > - **CORE Education**（新西兰第二大 EMO）— 专注于学习技术和数字环境，约 85% 年收入来自教育部合同（2014–2015），收入从 2010 年 USD 7.8M 增长至 2015 年 USD 22.7M([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.76–85]])
 > - **Pearson** — 全球最大教育组织，40,000 名员工遍布 70+ 国家，2015 年销售额约 £4.5B，以教育服务、思想领导力和风险投资品牌运营([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.59–64]])
 
