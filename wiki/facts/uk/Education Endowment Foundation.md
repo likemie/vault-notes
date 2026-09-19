@@ -144,7 +144,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-18
+updated: 2026-09-19
 ---
 
 # Education Endowment Foundation
@@ -185,6 +185,94 @@ updated: 2026-09-18
 > - **评估顾问小组（Evaluation Advisory Group，[[Education at a Glance|EAG]]）** 专门指导评估方法学与证据生成规范的独立专家智囊，维护评估标准的严谨性与前沿性。
 > - **评估者专家库（Panel of Evaluators）** 通过公开竞标遴选的专业研究机构网络。EEF 分别与项目开发者和评估机构签署独立三方协议，严格实行开发者与评估者彻底剥离的制度设计，确保[[Random Assignment|随机分配]]、主指标收集、统计分析与报告撰写全程保持独立。
 > - **[[Research Schools Network|研究学校网络]]（RSN 基层网络）** 由 40 所卓越公立中小学担任“研究学校”，作为连接宏观证据与微观教研室的核心边界跨越枢纽。
+
+> [!logic-map]+ 机构组织架构与多方关系网络
+> ```mermaid
+> flowchart TD
+>     %% 顶层政务与法定监督
+>     subgraph GOV ["政府与法定监督网络"]
+>         DFE["英国教育部 (DfE)<br/>· 1.25 亿英镑初始留本基金<br/>· 15年法定协议与后续资助"]
+>         WTC["内阁办公室有效网络 (What Works)<br/>· 正式指定为教育有效机构"]
+>         OFSTED["英国教育标准局 (Ofsted)<br/>· 督导评估学校循证合规"]
+>     end
+> 
+>     %% 母体创设与跨国资本支持
+>     subgraph FOUNDERS ["创设母体与资本支持网络"]
+>         SUTTON["萨顿信托 (The Sutton Trust)<br/>· 联合发起方 / 董事长 Lampl 掌舵<br/>· 工具包前身研发与知识产权"]
+>         IMPETUS["动力基金会 (Impetus-PEF)<br/>· 联合发起方 / 私募资本纪律"]
+>         CORP_CAPITAL["跨国金融与企业资本<br/>· 美洲银行 / 高盛 / 摩根大通<br/>· 贝恩资本 / KKR / 黑石"]
+>         BHP["必和必拓基金会 (BHP Foundation)<br/>· 矿业资本数百万英镑专项资助<br/>· 推动全球证据生态项目"]
+>     end
+> 
+>     %% EEF 核心治理中枢
+>     subgraph EEF_CORE ["教育捐赠基金会 (EEF) 核心中枢"]
+>         TRUSTEES["受托人理事会 (Board of Trustees)<br/>· 最高决策权力层 / 公私精英兼任"]
+>         EXEC["执行管理层 (Executive Team)<br/>· 创始 CEO Kevan Collins<br/>· 证据生产 / 转化 / 动员三支柱"]
+>         EAG["评估顾问小组 (EAG)<br/>· 独立方法学与因果实证专家"]
+>     end
+> 
+>     %% 证据生产与独立评估防火墙
+>     subgraph RESEARCH_NET ["证据生产与第三方科研网络"]
+>         DEVELOPERS["项目干预开发者 (Grantees)<br/>· 大学 / 慈善组织 / 科技企业<br/>· 研发并交付具体教学创新干预"]
+>         EVALUATORS["评估者专家库 (Panel of Evaluators)<br/>· 杜伦大学 / 约克大学 / UCL IOE<br/>· 独立实施前测-后测 RCT 试验"]
+>         DATA_REG["实证数据库与国家注册基建<br/>· 国家学生数据库 (NPD) 长期追踪<br/>· ISRCTN 方案与分析计划预注册"]
+>     end
+> 
+>     %% 实践转化与基层学校网络
+>     subgraph PRACTICE_NET ["循证实践与基层落地网络"]
+>         TOOLKIT["旗舰产品与指导体系<br/>· 《教学与学习工具包》(Toolkit)<br/>· 主题实践指导报告 (Guidance)"]
+>         RSN["研究学校网络 (Research Schools Network)<br/>· 40 所领衔公立中小学枢纽<br/>· 跨区域教研培训与证据本地化"]
+>         SCHOOLS["全英公立中小学校 (覆盖 80%+)<br/>· 约 85% 校长参考分配学生津贴 (Pupil Premium)"]
+>     end
+> 
+>     %% 跨国辐射与全球镜像机构
+>     subgraph GLOBAL_NET ["跨国辐射与全球镜像网络"]
+>         SVA_E4L["澳大利亚 E4L / SVA<br/>· 联合注资设立试验原型<br/>· 促成澳国家机构 AERO 成立"]
+>         AERO["澳大利亚教育研究组织 (AERO)<br/>· Collins 任专家董事 / 制度输出"]
+>         SUMMA["拉美教育中介 (SUMMA)<br/>· 工具包西葡双语转译与拉美试验"]
+>         GLOBAL_ECO["全球教育证据网络 (EEN)<br/>· 覆盖 20 国的多边常设协作网络"]
+>     end
+> 
+>     %% 顶层与核心中枢关系
+>     DFE -->|注资 1.25 亿英镑与签订 15 年法定协议| TRUSTEES
+>     WTC -.法定指定与协调.-> TRUSTEES
+>     SUTTON -->|联合竞标创设与派驻理事| TRUSTEES
+>     IMPETUS -->|联合竞标创设与派驻理事| TRUSTEES
+>     CORP_CAPITAL -.捐赠与战略支持.-> SUTTON
+>     CORP_CAPITAL -.捐赠与战略支持.-> IMPETUS
+>     BHP -->|专项资助全球扩张| EXEC
+> 
+>     %% 核心治理流动
+>     TRUSTEES --> EXEC
+>     EAG -.方法学把关与标准制定.-> EXEC
+> 
+>     %% 证据生产独立防火墙机制
+>     EXEC -->|三方协议：资金与干预交付| DEVELOPERS
+>     EXEC -->|三方协议：公开竞标独立委托| EVALUATORS
+>     DEVELOPERS -.严格独立防火墙 (禁止参与评估).-> EVALUATORS
+>     EVALUATORS -->|微观数据归档与预注册| DATA_REG
+> 
+>     %% 证据综合与实践转化
+>     EVALUATORS -->|试验结题报告| EXEC
+>     EXEC -->|证据综合与元分析| TOOLKIT
+>     TOOLKIT -->|理念输入与培训资源| RSN
+>     RSN -->|区域网络与同行指导| SCHOOLS
+>     DFE -.将工具包与指南绑定.-> SCHOOLS
+>     OFSTED -.合规问责检查.-> SCHOOLS
+> 
+>     %% 跨国扩张与网络辐射
+>     EXEC -->|出资与模式授权| SVA_E4L
+>     SVA_E4L -.政策演进与人事闭环.-> AERO
+>     EXEC -->|全球生态共建| SUMMA
+>     BHP -->|全球生态共建| SUMMA
+>     EXEC -->|常设协调多边网络| GLOBAL_ECO
+> ```
+> - **政府与法定监督网络** 英国教育部（Department for Education, DfE）通过 1.25 亿英镑初始留本基金（及后续延长资助）与 15 年法定运营协议确立其相对独立的运行空间，并将 EEF 工具包与全英中小学[[Pupil Premium|学生津贴]]（Pupil Premium）配置建议挂钩；内阁办公室有效网络（What Works Network）将其法定指定为教育领域国家级有效机构；英国教育标准局（Office for Standards in Education, Children's Services and Skills, Ofsted）在学校督导评估中将循证合规作为考量，形成外部问责推力。
+> - **创设母体与跨国资本支持** [[Sutton Trust|萨顿信托]]与[[Impetus|动力基金会]]在公开竞标中胜出并联合创设 EEF，深度输送跨国金融、商业法律与私募股权资本；[[BHP Foundation|必和必拓基金会]]提供数百万英镑专项资助，强力支撑 EEF 的全球证据生态扩张。
+> - **核心治理中枢与专家智囊** 受托人理事会（Board of Trustees）汇聚政商学界高管掌舵战略投资；执行管理层由创始首席执行官[[Sir Kevan Collins|柯文·科林斯爵士]]（Sir Kevan Collins）等专业团队统筹运作；评估顾问小组（Evaluation Advisory Group, EAG）负责把关因果实证方法学标准。
+> - **证据生产与独立评估防火墙** EEF 严格实行干预开发者与评估者彻底剥离的“独立三方协议”制度：项目干预开发者负责教学创新方案的开发与交付，评估者专家库（顶尖大学科研团队）通过公开竞标独立主持实施大规模 RCT 试验，并将方案在国际标准随机对照试验编码（ISRCTN）预注册、微观数据接入[[National Pupil Database|国家学生数据库]]（NPD）纵向归档。
+> - **循证实践与基层学校生态** 经过多维证据综合形成的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》和主题指导报告，依托 40 所[[Research Schools Network|研究学校网络]]（RSN）作为边界跨越枢纽，向覆盖全英 80% 以上的公立中小学进行校际教研推广与常态化能力建设。
+> - **跨国辐射与全球镜像网络** EEF 跨国输出中介模式，出资扶持澳大利亚[[Social Ventures Australia|SVA]]旗下中介原型[[Evidence for Learning|E4L]]并促成澳国家级机构[[Australian Education Research Organisation|AERO]]创设；携手必和必拓基金会共建拉美中介[[SUMMA]]；牵头协调覆盖 20 国的全球教育证据网络（EEN）。
 
 > [!pathways]- 业务运行与生态化转化机制
 > - **因果证据生成机制** 针对有潜力的教学创新公开招募提案 $\to$ 委托独立第三方开展[[Pre-test and Post-test|前测]]-后测大规模 [[Randomised Controlled Trials|RCT]] $\to$ 在国际标准随机对照试验[[Coding in Qualitative Research|编码]]（[[ISRCTN|International Standard Randomised Controlled Trial Number]]，ISRCTN）[[Preregistration|预注册]]方案与[[Statistical Analysis Plan|统计分析计划]]（Statistical Analysis Plan，SAP） $\to$ 统一归档至[[National Pupil Database|国家学生数据库]]（NPD）并发布完全公开的独立评估报告。

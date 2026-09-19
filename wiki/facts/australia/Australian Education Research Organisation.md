@@ -108,6 +108,95 @@ updated: 2026-09-19
 > - **底层网络与系统统筹** 与澳大利亚教学与[[School Leadership|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership|AITSL]]）及[[Australian Curriculum|澳大利亚课程]]、评估与报告局（ACARA）共享澳大利亚教育服务社（[[Educational Services Australia|ESA]]）底层数字化中介架构。
 > - **外部咨询与学术分包网络** 深度委托外部中介实体[[Centre for Evidence and Implementation|证据与实施中心]]（CEI）及各类商业咨询智库承担桌面审查与干预评估分包。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
+> [!logic-map]+ 机构组织架构与多方关系网络
+> ```mermaid
+> flowchart TD
+>     %% 顶层联邦与州级政务所有权
+>     subgraph GOV_NET ["政府联合所有权与法定特许网络"]
+>         CW_ED["联邦教育部 (Australian Government)<br/>· 联合拨款 2500 万澳元初始预算"]
+>         STATE_ED["各州与领地教育部 (States & Territories)<br/>· 联合配套 2500 万澳元预算"]
+>         EMM["教育部长联席会议 (Education Ministers)<br/>· 《全国学校改革协议》联合所有"]
+>         PGPA["行政特许法律底座<br/>· 《公司法》担保有限公司注册<br/>· PGPA 规程修正案：特许慈善合作与分包"]
+>     end
+> 
+>     %% 风险慈善、跨国母体与前身试验原型
+>     subgraph PHILANTHROPY_NET ["风险慈善母体与试验原型孵化网络"]
+>         SVA["澳大利亚社会创投 (SVA)<br/>· 十年政策网络游说顶峰<br/>· 董事会人事输送与治理闭环"]
+>         EEF["英国教育捐赠基金会 (EEF)<br/>· 组织模板输出与工具包母本"]
+>         E4L["证据学习中心 (Evidence for Learning, E4L)<br/>· SVA 旗下全资中介 / EEF 本土化试验原型<br/>· 维州公立校试点 / 为 AERO 充当制度脚手架"]
+>         PRF["保罗·拉姆齐基金会 (PRF)<br/>· 澳洲大型慈善资助伙伴"]
+>         PE_CORP["跨国投行与企业资本<br/>· 联邦银行 / 必和必拓基金会 / 美洲银行"]
+>     end
+> 
+>     %% AERO 核心治理中枢
+>     subgraph AERO_CORE ["澳大利亚教育研究组织 (AERO) 核心中枢"]
+>         BOARD["专家董事会 (AERO Board)<br/>· 主席 Lisa O'Brien (前 SVA 董事)<br/>· Sir Kevan Collins (EEF 创始 CEO)<br/>· Roger Massy-Greene (SVA 资助人)<br/>· Leslie Loble (PRF 会士)"]
+>         EXEC["执行管理层 (Executive Team)<br/>· CEO Jenny Donovan (前 CESE 主任)<br/>· 坦承担保有限公司架构为吸纳慈善资金"]
+>         DEPT["内部职能中枢<br/>· 证据生成 / 证据综合与量规 / 实践赋能"]
+>     end
+> 
+>     %% 兄弟法定机构与数字底座
+>     subgraph NATIONAL_INFRA ["国家兄弟中介与数字化底座"]
+>         ESA["澳大利亚教育服务社 (ESA)<br/>· 共享底层数字中介交付系统"]
+>         AITSL["澳大利亚教学与学校领导力所 (AITSL)<br/>· 教师专业标准协同"]
+>         ACARA["课程评估与报告局 (ACARA)<br/>· 课程大纲与数据对接"]
+>     end
+> 
+>     %% 外部受托审查与私营咨询分包
+>     subgraph OUTSOURCE_NET ["受托审查与私营咨询分包网络"]
+>         CEI["证据与实施中心 (CEI)<br/>· 受托承担全澳学校证据桌面审查"]
+>         CONSULT["私营商业咨询智库<br/>· 麦肯锡系等咨询分包与外包评估"]
+>     end
+> 
+>     %% 落地受众与高利害问责对象
+>     subgraph IMPACT_TARGETS ["实践落地与高利害问责对象"]
+>         TEEP["教师教育专家小组 (TEEP)<br/>· CEO Donovan 深度介入国家改革"]
+>         ITE["全澳大学初始教师教育 (ITE) 院校<br/>· 《强劲开端》大纲强制认证与资金挂钩"]
+>         SCHOOLS["全澳中小学及早期教育机构<br/>· 6 州 2 领地公立 / 天主教 / 独立学校<br/>· 推广标准化证据量规与显性教学"]
+>     end
+> 
+>     %% 顶层与 AERO 治理关系
+>     CW_ED -->|联合注资 2500 万澳元| BOARD
+>     STATE_ED -->|联合配套 2500 万澳元| BOARD
+>     EMM -.联合所有与战略监督.-> BOARD
+>     PGPA -.赋予法人地位与特许分包权.-> EXEC
+> 
+>     %% 慈善母体与原型孵化链路
+>     SVA -->|联合发起与种子注资| E4L
+>     EEF -->|工具包授权与种子出资| E4L
+>     PE_CORP -.资助与战略支持.-> SVA
+>     PE_CORP -.资助与战略支持.-> E4L
+>     E4L -->|试验样板与游说依据| AERO_CORE
+>     E4L <-->|工具包体系与实证网络协同| DEPT
+>     SVA -->|派驻首任董事会主席| BOARD
+>     EEF -->|派驻首任专家董事| BOARD
+>     PRF -->|派驻核心专家董事| BOARD
+> 
+>     %% 核心治理流动
+>     BOARD --> EXEC
+>     EXEC --> DEPT
+> 
+>     %% 国家底座与协同
+>     DEPT <-->|底层技术与分发托管| ESA
+>     DEPT <-->|教师专业标准协同| AITSL
+>     DEPT <-->|课程与数据对接| ACARA
+> 
+>     %% 外部委托与分包
+>     DEPT -->|桌面审查研究分包| CEI
+>     DEPT -->|商业咨询服务分包| CONSULT
+> 
+>     %% 政策与实践落地规制
+>     EXEC -->|兼任核心成员起草大纲| TEEP
+>     TEEP -->|强制性认证与拨款问责| ITE
+>     DEPT -->|推广有效教学量规与指南| SCHOOLS
+> ```
+> - **政府联合所有权与法定特许网络** 联邦教育部与全澳 6 个州及 2 个领地的教育部门依据《全国学校改革协议》联合提供 5000 万澳元初始预算，由教育部长联席会议（Education Ministers Meeting）代表共同所有；联邦政府专门修订《2020年公共治理、绩效与问责规则》修正案，以行政法特许其注册为《2001年公司法》担保有限公司并与私营慈善组织开展深度合作。
+> - **风险慈善母体、EEF 输出与 E4L 试验原型** [[Social Ventures Australia|澳大利亚社会创投]]（SVA）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在 2014 年联合出资创设全资中介[[Evidence for Learning|证据学习中心]]（Evidence for Learning, E4L），作为在澳大利亚本土试验工具包与因果证据的“概念验证样板”；SVA 以 E4L 的本土成功为跳板，借道 2016 生产力委员会调查与 2018 Gonski 2.0 审查（第 23 条建议）游说联邦设立国家级机构；AERO 成立后，全面承袭了 E4L 沉淀的工具包范式与方法学网络，完成了从“私营创投试验原型”向“国家法定中介”的制度转译。
+> - **核心治理中枢与政商兼任闭环** 专家董事会由 SVA 前董事莉萨·奥布莱恩（Lisa O'Brien）掌舵，汇聚 EEF 创始首席执行官[[Sir Kevan Collins|柯文·科林斯爵士]]（Sir Kevan Collins）与 SVA 核心捐赠人罗杰·马西-格林（Roger Massy-Greene）等商业与慈善高管；公司章程明文规定董事选任须具备与慈善界合作资质；首席执行官杰妮·多诺万（Jenny Donovan）全面统筹三大业务部门运作。
+> - **国家兄弟中介与数字化底座** 与澳大利亚教学与[[School Leadership|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership|AITSL]]）及[[Australian Curriculum|澳大利亚课程]]、评估与报告局（ACARA）共享澳大利亚教育服务社（[[Educational Services Australia|ESA]]）底层数字化系统，实现国家证据资源的分发托管。
+> - **受托审查与私营咨询分包** 设立初期深度委托外部中介[[Centre for Evidence and Implementation|证据与实施中心]]（CEI）承担全澳学校证据采纳桌面审查，并向麦肯锡系等私营咨询智库开放合规分包通道。
+> - **实践落地与高利害问责对象** 首席执行官 Donovan 深度介入联邦教师教育专家小组（Teacher Education Expert Panel, TEEP），将 AERO 未发表证据综合报告确立为《强劲开端》核心大纲，对全澳大学[[Initial Teacher Training|初始教师教育]]（ITE）院校施加关乎办学认证与资金分配的强制问责；同时面向全澳中小学与早期教育部门推广标准化证据量规。
+
 > [!voice] 担保有限公司制度设计的初衷
 > AERO 首席执行官杰妮·多诺万（Jenny Donovan）在学术访谈中直言不讳地指出，机构之所以没有设立为传统的政府法定机构，而是依据《公司法》设立为担保有限公司，核心考量正是为了吸纳私人慈善与企业资本：
 > > “选择这种法人形式是刻意为之的。它使我们不仅能接受联邦和州政府的联合拨款，而且在法律结构上能够合法接受慈善捐赠与企业资金的注入（allow for philanthropic contributions）……这为我们提供了传统法定机构所不具备的灵活性。”（Jenny Donovan Interview; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]]）
