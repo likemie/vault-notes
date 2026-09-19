@@ -58,17 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/facts/uk/Education Endowment Foundation.md",
+                "file": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Education Endowment Foundation"
+              "title": "Educational Evidence Clearinghouses"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,8 +261,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "41073bf3fc60164f",
+  "active": "1a4f14d7b6aba2f6",
   "lastOpenFiles": [
+    "wiki/facts/global/Centre for Educational Research and Innovation.md",
+    "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
+    "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
+    "wiki/facts/us/What Works Clearinghouse.md",
+    "wiki/facts/uk/Education Endowment Foundation.md",
+    "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md",
     "wiki/concepts/educational-policy-reform/Scientifically Based Research.md",
     "wiki/facts/us/Institute of Education Sciences.md",
     "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ECNUROE.md",
@@ -270,10 +276,7 @@
     "wiki/facts/us/No Child Left Behind Act 2001.md",
     "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ECNUROE.md",
     "Clippings/Building an evidence movement in Australian education.md",
-    "wiki/facts/global/Centre for Educational Research and Innovation.md",
-    "wiki/facts/uk/Education Endowment Foundation.md",
     "wiki/facts/australia/Australian Education Research Organisation.md",
-    "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "wiki/facts/uk/EPPI-Centre.md",
     "wiki/facts/australia/Evidence for Learning.md",
     "wiki/persons/new-zealand/John Hattie.md",
@@ -286,9 +289,6 @@
     "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md",
     "wiki/concepts/educational-policy-reform/Policy Network.md",
     "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ECNUROE.md",
-    "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md",
-    "wiki/facts/global/OECD.md",
-    "wiki/facts/global/Global Partnership for Education.md",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig2_Following_People_Policy_Money.jpg",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig1_SVA_Expansive_Network.jpg",
     "sources/Rowe_2023_ECNUROE/figures",
