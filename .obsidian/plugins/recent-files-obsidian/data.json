@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
     },
     {
+      "basename": "Professional Judgment",
+      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
+    },
+    {
+      "basename": "Common School Movement",
+      "path": "wiki/facts/us/Common School Movement.md"
+    },
+    {
+      "basename": "Policy Mobility",
+      "path": "wiki/concepts/educational-policy-reform/Policy Mobility.md"
+    },
+    {
       "basename": "Sir Kevan Collins",
       "path": "wiki/persons/uk/Sir Kevan Collins.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "John Hattie",
       "path": "wiki/persons/new-zealand/John Hattie.md"
-    },
-    {
-      "basename": "Visible Learning Branding and Global Influences",
-      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
-    },
-    {
-      "basename": "Venture Philanthropy",
-      "path": "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md"
-    },
-    {
-      "basename": "Argument_Marginson_2025_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ECNUROE.md"
     }
   ],
   "omittedPaths": [],

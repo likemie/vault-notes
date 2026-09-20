@@ -4,7 +4,6 @@ aliases:
   - 公学运动
   - 公共学校运动
   - Common School
-  - 公共学校
   - American Common School Movement
   - common school reform
 summary: "19世纪北美以霍勒斯·曼等人为主导的初等教育改革运动，主张由公共税收供养、公众共同治理并秉持无宗派世俗道德，将欧洲公立教育实绩转译为击败国内保守势力的合法化依据"
@@ -19,7 +18,7 @@ fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 related_count: 20
 related_level: 2
-related_stars: "⭐⭐"
+related_stars: ⭐⭐
 related_color: "#99f6e4"
 tags:
   - subject/comparative-education
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-20
 ---
 
 # Common School Movement
