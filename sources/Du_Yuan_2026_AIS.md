@@ -1,6 +1,7 @@
 ---
 citation: "Du, Y., & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning. AI & SOCIETY. https://doi.org/10.1007/s00146-026-03294-1"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Du_Yuan_2026_AIS]]"
 processed_date: 2026-09-21
 ---
 

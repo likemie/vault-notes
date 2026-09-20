@@ -39,16 +39,19 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Homework]]"
   - "[[Problem Solving]]"
+  - "[[Epistemic Dependence]]"
   - "[[Reflexivity]]"
   - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Brainstorming]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Epistemology]]"
   - "[[Technology Infusion]]"
   - "[[Illusion of Competence]]"
   - "[[Variable]]"
   - "[[Concept Mapping]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
@@ -58,6 +61,7 @@ related_methods:
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
 related_persons: []
 confidence: high
 status: active
@@ -141,7 +145,7 @@ updated: 2026-09-21
 > **知识外包与捷径学习对深度思维的阻断** 高等教育阶段的非结构化环境使大学生倾向于将生成式 AI 降格为低阶代写、翻译与代码套用工具。学生在遇到复杂难题时直接复制题目索取完整答案，完全跳过算法架构设计与中间推理环节。这种“捷径式学习”虽然换取了即时的[[Homework|作业]]完成效率，却切断了自主排错的认知链条，导致批判性分析与[[Problem Solving|问题解决能力]]的实质性退化。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
 
 > [!claim] Du & Yuan
-> **无摩擦委派对中间认识动作与评价性判断的剥离** 认知卸载本身并不构成教育失败，认知成就历来分布于人类与外部人造物之间。然而，当生成式人工智能将检索、阅读、比对、综合与起草等多个认识阶段压缩为一次性交互时，中间认识动作被彻底剥离。如果评估机制仅奖励光鲜的最终产出，学习者理性地选择将评价性判断（如论证是否严密、证据是否充分）本身委托给模型，认知卸载便蜕变为有害的认识依赖，导致理解肤浅化、不确定性耐受力降低以及脱离技术时的能力崩溃。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 4–6)]]
+> **无摩擦委派对中间认识动作与评价性判断的剥离** 认知卸载本身并不构成教育失败，认知成就历来分布于人类与外部人造物之间。然而，当生成式人工智能将检索、阅读、比对、综合与起草等多个认识阶段压缩为一次性交互时，中间认识动作被彻底剥离。如果评估机制仅奖励光鲜的最终产出，学习者理性地选择将评价性判断（如论证是否严密、证据是否充分）本身委托给模型，认知卸载便蜕变为有害的[[Epistemic Dependence|认识依赖]]，导致理解肤浅化、不确定性耐受力降低以及脱离技术时的能力崩溃。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 4–6)]]
 
 ---
 
@@ -184,7 +188,7 @@ updated: 2026-09-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **破坏性卸载机制** | 缺乏教学约束时认知卸载诱发捷径学习并削弱批判性思维 | 非结构化写作、无约束作业与应付性任务 | Li et al.; Zhao et al. |
-> | **建设性卸载机制** | [[Structured Teaching\|结构化教学]]支架将卸载收益转化为高阶探究与元认知监控 | 探究式学习、翻转课堂与对齐评估设计 | Li et al. |
+> | **建设性卸载机制** | [[Structured Teaching\|结构化教学]]支架将卸载收益转化为高阶探究与元认知监控 | [[Inquiry-Based Learning\|探究式学习]]、翻转课堂与对齐评估设计 | Li et al. |
 > | **元认知外包中介** | [[Epistemology\|认识论]]摩擦剥离诱发错误盲从，SRL 构成关键中和防线 | 概率算法交互、大语言模型写作与编程排错任务 | Li et al.; Zhao et al. |
 > | **时间衰减规律** | 长期缺乏动态消退导致依赖固化，呈现倒 U 型效能窗口 | 长期[[Technology Infusion\|技术整合]]项目、全学期教学实验、人机共创课堂 | Zhao et al. |
 
@@ -196,7 +200,7 @@ updated: 2026-09-21
 > - **2010 年代初 — 具身与物理动作卸载** Risko & Gilbert 等认知心理学家系统界定认知卸载，聚焦于使用旋转头部/身体、纸笔备忘与数码提醒等外部动作降低内部记忆负荷。
 > - **2010 年代末 — 互联网互联与数字外包** 随着智能手机与搜索引擎普及，研究拓展至数字记忆外包（Google 效应 / 数字健忘症）对长时记忆[[Coding in Qualitative Research|编码]]与信息检索策略的影响。
 > - **2024–2025 年 — 生成式 AI 介入下的认知分化与时间边界确立** 大语言模型赋予机器复杂的语义生成与代码调试能力，认知卸载突破低阶存储边界，进入论证建构与[[Creativity|创造性]]综合等高阶领域。[[Argument_Li_2026_CEAI|Li et al. (2026)]] 揭示了非结构化环境下的批判性侵蚀与[[Metacognition|元认知]]外包路径；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 进一步通过一阶[[Meta-analysis|元分析]]实证确立了“8–16 周中期黄金平衡 vs 长期过度依赖衰落”的倒 U 型时间曲线，并证实[[Self-Regulated Learning|自主调节学习]]能力（SRL）是中和认知外包风险的决定性个体防线。
-> - **2026 年 — 延展心智规范判准重塑与中间认识动作剥落诊断** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 从社会认识论与延展心智理论出发重新界定认知卸载，提出卸载能否扩展主体性取决于学习者能否控制耦合、审计系统输入并独立恢复推理，并系统剖析了无摩擦委派如何压缩检索与综合等中间认识动作并剥夺评价性判断。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 4–6)]]
+> - **2026 年 — 延展心智规范判准重塑与中间认识动作剥落诊断** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 从社会[[Epistemology|认识论]]与延展[[Theory of Mind|心智理论]]出发重新界定认知卸载，提出卸载能否扩展主体性取决于学习者能否控制耦合、审计系统输入并独立恢复推理，并系统剖析了无摩擦委派如何压缩检索与综合等中间认识动作并剥夺评价性判断。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 4–6)]]
 
 ---
 
@@ -254,5 +258,5 @@ updated: 2026-09-21
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，解构[[Generative Artificial Intelligence|生成式人工智能]]介入下认知卸载的两种截然相反路径：在无支架任务中引发认知惰性与批判思维外包；在结构化支架下释放认知负荷赋能高阶探究。
-> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 从社会认识论与延展心智视角界定认知卸载与认识依赖的边界，揭示无摩擦委派如何压缩检索、比对与综合等中间认识动作，进而侵蚀评价性判断与能力迁移。
+> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 从社会[[Epistemology|认识论]]与延展心智视角界定认知卸载与[[Epistemic Dependence|认识依赖]]的边界，揭示无摩擦委派如何压缩检索、比对与综合等中间认识动作，进而侵蚀评价性判断与能力迁移。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 基于 29 项实验与准实验的一阶[[Meta-analysis|元分析]]，实证揭示干预时长呈现的倒 U 型效能衰减规律（$>16$ 周回落至 $0.372$），并量化证实[[Self-Regulated Learning|自主调节学习]]能力（SRL）对抵御知识外包与捷径式学习的关键免疫中和功能（组间检验 $p < 0.001$）。
