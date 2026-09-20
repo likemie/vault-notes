@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Epistemic Agency",
+      "path": "wiki/concepts/educational-psychology/Epistemic Agency.md"
+    },
+    {
       "basename": "Argument_DeJong_2023_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
+    },
+    {
+      "basename": "Clark A. Chinn",
+      "path": "wiki/persons/us/Clark A. Chinn.md"
+    },
+    {
+      "basename": "Control of Variables Strategy",
+      "path": "wiki/concepts/instruction-pedagogy/Control of Variables Strategy.md"
+    },
+    {
+      "basename": "Cognitive Load Theory",
+      "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
+    },
+    {
+      "basename": "Meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-analysis.md"
+    },
+    {
+      "basename": "John Sweller",
+      "path": "wiki/persons/australia/John Sweller.md"
+    },
+    {
+      "basename": "Direct Instruction",
+      "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
+    },
+    {
+      "basename": "Inquiry-Based Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md"
     },
     {
       "basename": "Argument_Rowe_2023_ECNUROE",
@@ -167,38 +199,6 @@
     {
       "basename": "What Works Network",
       "path": "wiki/facts/uk/What Works Network.md"
-    },
-    {
-      "basename": "Argument_Wadhwa_2024_RER",
-      "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md"
-    },
-    {
-      "basename": "Scientifically Based Research",
-      "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md"
-    },
-    {
-      "basename": "Argument_Ross_Morrison_2021_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ECNUROE.md"
-    },
-    {
-      "basename": "Every Student Succeeds Act",
-      "path": "wiki/facts/us/Every Student Succeeds Act.md"
-    },
-    {
-      "basename": "No Child Left Behind Act 2001",
-      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
-    },
-    {
-      "basename": "Argument_Slavin_2021_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ECNUROE.md"
-    },
-    {
-      "basename": "Building an evidence movement in Australian education",
-      "path": "Clippings/Building an evidence movement in Australian education.md"
-    },
-    {
-      "basename": "EPPI-Centre",
-      "path": "wiki/facts/uk/EPPI-Centre.md"
     }
   ],
   "omittedPaths": [],
