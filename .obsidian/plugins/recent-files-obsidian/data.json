@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
     },
     {
+      "basename": "Inhibitory Control",
+      "path": "wiki/concepts/learning-science-cognitive-science/Inhibitory Control.md"
+    },
+    {
+      "basename": "Web-based Inquiry Science Environment",
+      "path": "wiki/facts/us/Web-based Inquiry Science Environment.md"
+    },
+    {
       "basename": "Process-Oriented Guided Inquiry Learning",
       "path": "wiki/concepts/instruction-pedagogy/Process-Oriented Guided Inquiry Learning.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Australian Education Research Organisation",
       "path": "wiki/facts/australia/Australian Education Research Organisation.md"
-    },
-    {
-      "basename": "Evidence for Learning",
-      "path": "wiki/facts/australia/Evidence for Learning.md"
-    },
-    {
-      "basename": "Social Ventures Australia",
-      "path": "wiki/facts/australia/Social Ventures Australia.md"
     }
   ],
   "omittedPaths": [],

@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Research Problem]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Knowledge Production]]"
   - "[[Incubation]]"
   - "[[Blue Skies Research]]"
   - "[[Boundary Spanner]]"
@@ -56,7 +57,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: '2026-08-27'
+updated: '2026-09-21'
 year: 2025
 doi: ""
 citation_aliases:
@@ -260,7 +261,7 @@ citation_aliases:
 
 30. RIA 的 2022–2023 年影响报告提出了 [[RIA Model for Innovation|RIA 创新模型]]（RIA Model for Innovation），一个四阶段框架(p.253)：
 
-1. **知识生成（Knowledge generation）**——通过跨学科研究产生新知识
+1. **[[Knowledge Production|知识生成]]（Knowledge generation）**——通过跨学科研究产生新知识
 2. **孵化（[[Incubation]]）**——发现和开发创新
 3. **加速（Acceleration）**——在新环境中扩展和评估创新
 4. **动员（Mobilization）**——分享知识以惠及各地老年人

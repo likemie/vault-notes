@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Nature of Science]]"
   - "[[Rote Learning]]"
   - "[[Technology Infusion]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -89,7 +90,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-09-04
+updated: 2026-09-21
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch01
 
@@ -144,7 +145,7 @@ updated: 2026-09-04
 >   1. **科学地解释现象（Explaining phenomena scientifically）** 识别、提供并评估多学科自然与技术现象的科学解释模型；
 >   2. **评价与设计科学探究（Evaluating and designing scientific enquiry）** 描述并评估探究设计方案，识别可检验的[[Hypothesis|研究假设]]与控制[[Variable|变量]]，评估数据采集的有效性与严密性；
 >   3. **科学地解释数据与证据（Interpreting data and evidence scientifically）** 批判性分析多源数据、统计图表与声称，区分客观科学证据与主观推测，评估结论的效度与不确定性。
-> - **本土课程映射与实证检验** 在英格兰，这一素养导向直接促成了覆盖约 60% 中学的《21世纪科学》（Twenty First Century Science）课程体系，将科学如何运作（How Science Works）作为与学科核心知识并重的基础维度；实证追踪表明该课程不仅深化了学生对科学本质的理解，且并未削弱后续 A-level 的选课与深造表现。
+> - **本土课程映射与实证检验** 在英格兰，这一素养导向直接促成了覆盖约 60% 中学的《21世纪科学》（Twenty First Century Science）课程体系，将科学如何运作（How Science Works）作为与学科核心知识并重的基础维度；实证追踪表明该课程不仅深化了学生对[[Nature of Science|科学本质]]的理解，且并未削弱后续 A-level 的选课与深造表现。
 > - **国际镜鉴与政策启示** PISA 测评的长期国际比较证实，超越传统[[Rote Learning|死记硬背]]、强调证据评估的科学教育范式不仅具有高度可行性，更是国家教育系统培育具备全球竞争力与理性反思能力未来公民的必由之路；为英格兰 2025 年《课程与评估审查》纠偏近年大纲事实回忆过载提供了关键的国际经验支撑。
 
 > [!contrast-table] 表1-1：英国四地（英格兰、苏格兰、威尔士、北爱尔兰）科学教育分权体系特征对比

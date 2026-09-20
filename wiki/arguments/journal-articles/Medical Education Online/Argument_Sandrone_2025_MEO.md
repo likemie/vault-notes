@@ -9,7 +9,7 @@ title: "Argument_Sandrone_2025_MEO"
 argument_key: "Argument_Sandrone_2025_MEO"
 argument_display_title: "Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees"
 argument_kind: "journal-article"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Mentorship Recognition]]"
   - "[[Research Topic]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Integration]]"
 related_methods:
   - "[[Content Analysis]]"
   - "[[Transcription in Qualitative Research]]"
@@ -38,7 +39,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: '2026-06-08'
+updated: '2026-09-21'
 year: 2025
 doi: ""
 citation_aliases:
@@ -95,7 +96,7 @@ citation_aliases:
 >
 > **强预测因子**。对约 40,000 名在过去 60 年中发表了 1,167,518 篇 STEM 论文的科学家的数据分析显示，导师制是被指导者成功的强预测因子(Ma et al., 2020)。
 >
-> **博士后导师的重要性**。对 18,856 名生物医学研究人员的开放获取数据库分析显示，博士后导师比研究生导师对受训者的成功更有影响。在具有不同专业知识的导师指导下训练并将该专业知识整合到自己工作中的科学家更有可能成功(Liénard et al., 2018)。
+> **博士后导师的重要性**。对 18,856 名生物医学研究人员的开放获取数据库分析显示，博士后导师比研究生导师对受训者的成功更有影响。在具有不同专业知识的导师指导下训练并将该专业[[Knowledge Integration|知识整合]]到自己工作中的科学家更有可能成功(Liénard et al., 2018)。
 >
 > **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的[[Research Topic|研究主题]]中分离出来并与导师只合著一小部分总体研究时，表现最好。导师制也与被指导者成为其研究领域先驱的概率增加相关(Ma et al., 2020)。
 

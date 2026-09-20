@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -28,14 +28,13 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Grammar School]]"
-  - "[[Partnership Schools Kura Hourua]]"
   - "[[Cognition Education]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: '2026-07-09'
+updated: 2026-09-21
 ---
 ## 概述
 
@@ -64,7 +63,7 @@ updated: '2026-07-09'
 > [!abstract] 资金来源与创始伙伴
 > 可行性研究于 2010 年由两家私人赠款基金会的配对资助启动([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.10]])：
 >
-> - **Aotearoa Foundation**（纽约）— 涉及美国对冲基金亿万富翁 Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年总净资产 USD 575M，大量资助与美国[[Partnership Schools Kura Hourua|特许学校]]运动相关
+> - **Aotearoa Foundation**（纽约）— 涉及美国对冲基金亿万富翁 Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年总净资产 USD 575M，大量资助与美国特许学校运动相关
 > - **Tindall Foundation**（奥克兰）
 >
 > 创始伙伴包括：Aotearoa Foundation、ASB Bank、Chapman Tripp、Deloitte、Harry Singer Foundation、Hutton Wilson Nominees (NEXT Foundation) 和 Woolf Fisher Trust([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.10–11]])

@@ -9,7 +9,7 @@ summary: "美国科学史家与科学哲学家，以《科学革命的结构》�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Problem Solving]]"
+  - "[[Nature of Science]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Thomas Kuhn
@@ -194,7 +195,7 @@ updated: 2026-09-18
 > |:-----|:-----|:-----|
 > | [[Paradigm]] | 概念 | 系统提出范式概念，阐释其作为世界观、共有规则与解谜典范的核心内涵。 |
 > | [[Incommensurability]] | 概念 | 提出不同范式之间缺乏公度标准的不可通约性原理，奠定范式竞争的[[Epistemology\|认识论]]界碑。 |
-> | [[Problem Solving]] | 概念 | 界定常规科学本质上是在既定范式约束下开展的解谜活动。 |
+> | [[Problem Solving]] | 概念 | 界定常规[[Nature of Science\|科学本质]]上是在既定范式约束下开展的解谜活动。 |
 > | [[Scientific Paradigm]] | 概念 | 其范式危机模型与四维构件被直接应用于解构战后比较教育科学范式的兴衰史。 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 论证 | 考据[[Deanna Kuhn\|库恩]]范式理论对教育研究方法论范式划分的奠基性贡献。 |
 > | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 运用库恩范式理论分析比较教育学从历史主义向科学范式转型的学科动力与政治结盟。 |

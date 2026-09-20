@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 63
+fact_related_count: 64
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Paradigm]]"
   - "[[Reference Society]]"
+  - "[[Nature of Science]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Rote Learning]]"
@@ -116,7 +117,7 @@ updated: 2026-09-21
 >   - 1995 年 [[OECD]] 构想超越 [[IEA]] 传统课程测验的评估方案，吸纳《[[Beyond 2000 Report|Beyond 2000]]》原则；2000 年首轮测评（32 个经济体），阅读为主测，正式确立应用导向的素养评价范式。
 > - **2000–2009 — PISA 冲击、科学首轮主测与全球扩散**
 >   - PISA 2000 结果发布触发德国著名的“PISA 冲击”，芬兰成为全球[[Reference Society|参考社会]]；
->   - **PISA 2006（首个科学主测年）** 正式确立[[Scientific Literacy|科学素养]]三大核心能力（识别科学议题、科学解释现象、使用科学证据），强调在真实个人、社会与全球情境中考查科学本质。
+>   - **PISA 2006（首个科学主测年）** 正式确立[[Scientific Literacy|科学素养]]三大核心能力（识别科学议题、科学解释现象、使用科学证据），强调在真实个人、社会与全球情境中考查[[Nature of Science|科学本质]]。
 > - **2009–2018 — 上海崛起、计算机化交互探究与产品线扩张**
 >   - PISA 2009 上海（中国）拔得头筹，引发欧美“新卫星冲击”讨论；参与系统增至 70+ 个；
 >   - **PISA 2015（第二个科学主测年）** 全面推行计算机化测评（CBA），引入交互式模拟实验（Simulations），将能力框架升级为“解释现象、评估与设计探究、解释数据与证据”三大科学胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
@@ -162,7 +163,7 @@ updated: 2026-09-21
 
 > [!finding-cards] 核心政策影响
 > - **确立全球教育软治理** PISA 通过量化排名、平均分与差距叙事，实现了超国家层面的“数据治理”，使高表现国家成为跨国[[Policy Borrowing|政策借用]]的模板。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]
-> - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加科学本质、社会科学争议（SSI）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加[[Nature of Science|科学本质]]、社会科学争议（SSI）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **双向多层驱动** [[Argument_Li_2025_HSSC|Li et al. (2025)]][[Systematic Review|系统综述]]指出，PISA 影响在质量与公平双重路径上展开，通过超国家软治理、国家[[Transfer Translation Transformation|转译]]与国内行动者博弈三层机制深刻重塑全球教育格局。
 
 ### [[Argument_Li_2025_HSSC|Li et al. (2025)]] 综述：质量与公平双轨决策路径

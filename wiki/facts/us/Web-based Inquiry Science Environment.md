@@ -1,7 +1,6 @@
 ---
 title: Web-based Inquiry Science Environment
 aliases:
-  - WISE
   - 网络探究科学环境
   - WISE Platform
 summary: "加州大学伯克利分校 Marcia Linn 团队研发的开源技术增强科学探究学习环境，依托知识整合框架与动态可视化支架，结合 NLP 自动评估与教师实时看板，经过逾 8,000 名学生的大规模课程实验与权威元分析证实其显著提升科学成就并促进教育公平"
@@ -10,12 +9,12 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
-period: "1997–至今"
-initiator_organization: "加州大学伯克利分校（UC Berkeley）与美国国家科学基金会（NSF）"
+period: 1997–至今
+initiator_organization: 加州大学伯克利分校（UC Berkeley）与美国国家科学基金会（NSF）
 tags:
   - region/us
   - level/k12
@@ -35,7 +34,8 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Computer Simulation]]"
   - "[[Productive Failure]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Integration]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
@@ -63,7 +63,7 @@ updated: 2026-09-21
 > 基于网络的探究科学环境（Web-based Inquiry Science Environment, WISE）是由加州大学伯克利分校[[Marcia C. Linn|马西娅·琳]]（Marcia C. Linn）教授领衔、[[National Science Foundation|美国国家科学基金会]]（NSF）长期持续资助的开源数字化科学教育研发平台。平台专注于为 K-12 阶段提供将动态交互可视化、基于证据的科学探究、协同论证与自适应反馈深度整合的课程单元，是全球学习科学与教育技术领域应用最广、历时最长、循证证据最为扎实的代表性平台之一。（Slotta & Linn, 2009；[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 3]]）
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 1997 年启动早期原型开发（源自计算机作为学习伙伴 CLP 及知识整合环境 KIE 项目），2000 年代初正式确立 WISE 平台架构并持续迭代至今，处于长期活跃的全球常态化运行状态。
+> - **立项时间 / 周期** 1997 年启动早期原型开发（源自计算机作为学习伙伴 CLP 及[[Knowledge Integration|知识整合]]环境 KIE 项目），2000 年代初正式确立 WISE 平台架构并持续迭代至今，处于长期活跃的全球常态化运行状态。
 > - **发起方与资助机制** 由加州大学伯克利分校教育研究生院主导研发，获得美国国家科学基金会（NSF）多项数百万美元级重大教育研究专项基金持续资助。
 > - **覆盖范围与对象** 全球逾万所学校的科学课堂，涵盖小学、初中及高中阶段数万名学生与数千名一线理科教师。
 > - **核心问题导向** 破解传统科学教学中“照本宣科式记忆事实”与“死板验证性实验”的弊端，通过交互式仿真与[[Scaffolding|脚手架]]支持，帮助处境不利与多样化背景的学生建立对复杂抽象科学现象的深层概念理解，缩小 STEM 学业鸿沟。（Linn et al., 2023）
@@ -73,7 +73,7 @@ updated: 2026-09-21
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> WISE 依托“知识整合”（Knowledge Integration, KI）教学框架，假定学生并非带着白纸进入课堂，而是拥有丰富的直觉朴素观念；通过创设技术增强的互动微世界、促进观点引出、增加科学证据、建立概念区分并促成反思整合，能够帮助学生在无需[[Rote Learning|死记硬背]]的前提下自主构建连贯的科学因果图式。（Slotta & Linn, 2009）
+> WISE 依托“[[Knowledge Integration|知识整合]]”（Knowledge Integration, KI）教学框架，假定学生并非带着白纸进入课堂，而是拥有丰富的直觉朴素观念；通过创设技术增强的互动微世界、促进观点引出、增加科学证据、建立概念区分并促成反思整合，能够帮助学生在无需[[Rote Learning|死记硬背]]的前提下自主构建连贯的科学因果图式。（Slotta & Linn, 2009）
 
 > [!policy-design]- 方案设计
 > - **项目目标** 促进中学生对热力学、光学生物学、地球系统及力学等复杂抽象理科概念的深层理解，提升科学论证与[[Variable|变量]]控制等高阶探究技能。
@@ -95,7 +95,7 @@ updated: 2026-09-21
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **1997–2005 — 平台奠基与知识整合框架确立** 完成从单机软件向 Web 架构的迁移，确立“知识整合”理论框架，开发涵盖热量平衡、环境科学与遗传学的首批模块化探究单元。（Slotta & Linn, 2009）
+> - **1997–2005 — 平台奠基与[[Knowledge Integration|知识整合框架]]确立** 完成从单机软件向 Web 架构的迁移，确立“知识整合”理论框架，开发涵盖热量平衡、环境科学与遗传学的首批模块化探究单元。（Slotta & Linn, 2009）
 > - **2006–2014 — 大规模课程级实证检验与全美普及** 开展涵盖 8,000 余名初中生的大规模课程准实验（Linn et al., 2006），在 6 门独立理科课程中证实了探究队列对比传统讲授的显著优势；WISE 成为全美最受推崇的科学探究课程平台之一。
 > - **2015–2022 — 人工智能与 NLP 自动评价技术突破** 整合自然语言处理算法与机器学习技术，实现对学生开放式科学论述与因果解释的秒级智能诊断与个性化支架推送（Gerard & Linn, 2022）；权威[[Meta-analysis|元分析]]证实自适应指导显著提升探究成效（Gerard et al., 2015）。
 > - **2023–至今 — 教师仪表盘与公平导向自适应生态** 推出全新 WISE 自定义开发环境，深度整合教师实时决策看板（Teacher Dashboard），致力于为教育弱势群体提供更为公平、个性化的科学探究支持。（Linn et al., 2023；[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 10]]）
@@ -149,7 +149,7 @@ updated: 2026-09-21
 > > - **人机协同论** 强调无论算法多先进，复杂的价值引导、班级共同体批判协商及深层概念统整依然高度依赖人类教师的专业智慧，系统定位必须是“赋能教师”而非“替代教师”（Linn et al., 2023；[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 10]]）。
 
 > [!lessons] 经验教训与启示
-> - **避免纯技术堆砌** 平台早期尝试过复杂的 3D 渲染，但发现过度的视觉花哨反而分散了学生的注意力并加重了外在认知负荷；后期的界面设计高度克制，紧密围绕“知识整合”认知目标开展减负设计。
+> - **避免纯技术堆砌** 平台早期尝试过复杂的 3D 渲染，但发现过度的视觉花哨反而分散了学生的注意力并加重了外在认知负荷；后期的界面设计高度克制，紧密围绕“[[Knowledge Integration|知识整合]]”认知目标开展减负设计。
 > - **必须提供即时成效感** [[Inquiry-Based Learning|探究学习]]若让学[[Growth|生长]]时间处于困惑中容易诱发挫败感；WISE 成功引入 NLP 自动化即时批改，使学生在修改科学论述时能获得实时正向激励，显著提升了学习依从度。
 
 ---

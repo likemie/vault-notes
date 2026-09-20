@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Center of Calculation]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-28
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # National Science Foundation
@@ -130,7 +131,7 @@ updated: 2026-09-17
 
 > [!indicators]- 影响力维度与指标
 > - **资源与资助规模** 年财政预算近 100 亿美元；每年资助逾 11,000 项新科研提案，直接支持全美超过 30 万名科学家、工程专家、教育工作者与研究生。
-> - **学术与[[Knowledge Production|知识生产]]** 支撑了美国当代绝大多数国家级重大科学基础设施（如射电天文台、超级计算中心、南极科考站）；孵化了互联网早期架构（NSFNET）及大规模数字[[Research Translation|技术转化]]。
+> - **学术与[[Knowledge Production|知识生产]]** 支撑了美国当代绝大多数国家级重大科学基础设施（如射电天文台、超级[[Center of Calculation|计算中心]]、南极科考站）；孵化了互联网早期架构（NSFNET）及大规模数字[[Research Translation|技术转化]]。
 > - **政策与制度渗透** 确立了现代学术研究的同行评议标准与“广泛影响”评价[[Paradigm|范式]]；通过国会与行政部门科学研究员机制为联邦科技行政中枢持续输送兼具学术敏锐度与宏观视野的领军人才。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
 
 > [!finding-cards] 关键成效与辐射影响

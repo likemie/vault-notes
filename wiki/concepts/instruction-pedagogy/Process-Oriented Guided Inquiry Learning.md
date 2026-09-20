@@ -7,7 +7,7 @@ aliases:
 summary: "源自大学化学教育并广泛扩散至 K-12 阶段的小组合作探究教学法，依托探索、概念形成与应用三阶段学习环，结合结构化团队角色分配与引导式活动材料，元分析证实其能显著降低课程挂科率并大幅提高学业通过优势比"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Surface and Deep Learning]]"
   - "[[Class Size]]"
+  - "[[Nature of Science]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
   - "[[Active Learning]]"
@@ -197,7 +198,7 @@ POGIL 的成功运作依赖于“学习环认知进阶”与“合作角色互�
 > |---|---|---|---|
 > | **协同认知与负荷降低** | 角色互锁分工构建集体工作记忆，有效抑制搭便车并降低个体外在负荷 | 大[[Class Size\|班额]]复杂科学概念学习、合作探究活动 | Moog & Spencer; Trout et al. |
 > | **课程保留与及格突破** | 显著提高学生通过门槛课程的优势比，大幅压低挂科与退课率 | 大学与高中 STEM 关键必修课（如普通化学） | Walker & Warfa; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 3)]] |
-> | **深层学习与长效保持** | 促进深层学习途径，增强对科学本质因果机制的长期抗遗忘韧性 | 延迟学业评估、科学推理能力培养 | Joshi & Lau; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 2–3)]] |
+> | **深层学习与长效保持** | 促进深层学习途径，增强对[[Nature of Science\|科学本质]]因果机制的长期抗遗忘韧性 | 延迟学业评估、科学推理能力培养 | Joshi & Lau; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 2–3)]] |
 
 ---
 

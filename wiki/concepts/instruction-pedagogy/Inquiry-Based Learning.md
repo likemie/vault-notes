@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 47
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -40,7 +40,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Productive Failure]]"
   - "[[Executive Function]]"
+  - "[[Inhibitory Control]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Nature of Science]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
@@ -186,7 +188,7 @@ updated: 2026-09-21
 > **学习目标与知识层级的结构匹配** 教学设计的核心原则在于教学方法与期望学习产出的精准对齐。对于事实性信息记忆与常规算理等表层、良构知识，直接教学具有更高的传递效率；而当教学目标聚焦于复杂、不良构、易引发直觉迷思（Misconceptions）的概念理解与跨情境远迁移时，探究式学习能够通过激发认知冲突与深层表征重构，达成直接教学难以企及的深层理解。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 6–7)]]
 
 > [!claim] Gerard & Linn & Homer & Plass
-> **学习者先验知识与[[Executive Function|执行功能]]的差异化调节** 先验知识匮乏的学生在自主探究中容易迷失，但他们在指导式探究中所获得的指导增益反而显著高于高先验学生；同时，阅读理解、数学基础以及执行功能中的抑制控制能力（Inhibitory Control）高度预测了学生在开放虚拟实验中的探究行为与迁移成绩。对于低抑制控制或低学科自我概念的学生，必须在探究中嵌入更高密度的结构化直接指导。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 7–8)]]
+> **学习者先验知识与[[Executive Function|执行功能]]的差异化调节** 先验知识匮乏的学生在自主探究中容易迷失，但他们在指导式探究中所获得的指导增益反而显著高于高先验学生；同时，阅读理解、数学基础以及执行功能中的[[Inhibitory Control|抑制控制]]能力（Inhibitory Control）高度预测了学生在开放虚拟实验中的探究行为与迁移成绩。对于低抑制控制或低学科自我概念的学生，必须在探究中嵌入更高密度的结构化直接指导。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 7–8)]]
 
 ---
 
@@ -207,7 +209,7 @@ updated: 2026-09-21
 > - **1960–1970 年代 — [[Discovery Learning|纯发现学习]]兴起与早期受挫** 早期发现学习（Discovery Learning）主张学习者在无指导环境中自主探索自然规律，但因缺乏认知支持导致学生产生大量挫败感与知识迷失，引发教育界对极简指导教学的大规模反思。
 > - **1980–1990 年代 — [[Constructivist Paradigm|建构主义]]转型与[[Inquiry Cycle|探究循环]]规范化** 随着[[Cognitive Constructivism|认知建构主义]]与社会建构主义兴起，科学教育研究将探究学习系统规范化为由问题驱动、[[Hypothesis|假设]]设计、证据收集、模型建构与同伴论证构成的探究循环（Inquiry Cycle），[[Scaffolding|教学支架]]（Scaffolding）理论被全面引入探究设计。
 > - **2000–2010 年代 — 认知负荷争论与指导式探究循证确立** [[Cognitive Load Theory|认知负荷理论]]学者提出强力批评，宣扬最小指导彻底失效；学习科学界开展反驳，明确将有效探究界定为包含充分认知支架的指导式探究（Guided Inquiry），系列[[Meta-analysis|元分析]]（Alfieri et al., 2011; Furtak et al., 2012; Lazonder & Harmsen, 2016）系统确立了指导式探究的实证优势。
-> - **2020 年代至今 — 多重调节[[Variable|变量]]与时序协同模型** 面临[[Direct Instruction|直接教学]]绝对优越论的再次抬头，以 [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 为代表的综述全面整合受控实验、[[PISA]] 跨国调查与课程级长周期项目，建构起结合先验知识、抑制控制与学习目标的探究与直接教学时序整合设计[[Paradigm|范式]]。
+> - **2020 年代至今 — 多重调节[[Variable|变量]]与时序协同模型** 面临[[Direct Instruction|直接教学]]绝对优越论的再次抬头，以 [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 为代表的综述全面整合受控实验、[[PISA]] 跨国调查与课程级长周期项目，建构起结合先验知识、[[Inhibitory Control|抑制控制]]与学习目标的探究与直接教学时序整合设计[[Paradigm|范式]]。
 
 ---
 
@@ -215,7 +217,7 @@ updated: 2026-09-21
 
 > [!tension] 探究式教学与[[Direct Instruction|直接教学]]之争（Inquiry vs. Direct Instruction Debate）
 > - **认知负荷派观点（蓝方）** 以 [[John Sweller]]、Paul A. Kirschner 与 Richard E. Clark 等学者为代表，依据[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT），主张人类[[Working Memory|工作记忆]]容量极其有限。在处理全新信息时，让学习者自主探索会迫使工作记忆陷入无效的盲目搜索与试误，造成沉重的外在认知负荷；因此，由教师进行完全显性的示范、提供充分工作样例的直接教学在任何阶段都具有压倒性优势。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 1–2)]]
-> - **学习科学与探究派观点（红方）** 以 [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] 等学者为代表，指出反对者将探究教学贬损为无指导纯发现是制造假想敌。大量受控实验与[[Meta-analysis|元分析]]实证证实，辅以有效支架的探究教学不仅不会造成超载，反而在深层概念理解、科学本质认识、迁移能力与学习动机上全面超越单一直接讲授；真实课堂的最优[[Paradigm|范式]]绝非二选一，而是将直接教学适时嵌入探究全周期中。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–6)]]
+> - **学习科学与探究派观点（红方）** 以 [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] 等学者为代表，指出反对者将探究教学贬损为无指导纯发现是制造假想敌。大量受控实验与[[Meta-analysis|元分析]]实证证实，辅以有效支架的探究教学不仅不会造成超载，反而在深层概念理解、[[Nature of Science|科学本质]]认识、迁移能力与学习动机上全面超越单一直接讲授；真实课堂的最优[[Paradigm|范式]]绝非二选一，而是将直接教学适时嵌入探究全周期中。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–6)]]
 
 > [!warning] 适用局限
 > 探究式教学的顺利实施对师资专业素养与教学环境设计提出了极高要求。若教师缺乏实时诊断学生推理困境的能力，或数字化平台缺乏自适应[[Scaffolding|脚手架]]，探究活动极易退化为低效的形式主义或造成严重认知超载。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–9)]]

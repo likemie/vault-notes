@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Growth]]"
   - "[[Megascience Installations]]"
+  - "[[Center of Calculation]]"
   - "[[Industry Affiliate Program]]"
 related_theories: []
 related_methods:
@@ -73,7 +74,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-03
-updated: 2026-08-20
+updated: 2026-09-21
 year: 2026
 doi: ""
 citation_aliases:
@@ -581,7 +582,7 @@ citation_aliases:
 > [!info] 科技供给：[[Megascience Installations|大科学装置]]与"揭榜挂帅"
 > 西安拥有高校63所、科研院所590余所，各类专业科技人员超50万人（占全市人口比例全国首位）。研发投入601.08亿元，强度5.23%（副省级城市第二）。技术合同成交额突破3900亿元（同比增长35.4%）。2024年全球创新指数中位列"全球科技集群Top100"第18位（中国第7位）(pp.87–88)。
 >
-> 建设高能级科创平台：国家增材制造创新中心、未来人工智能计算中心、秦创原创新驱动平台等。2023年启动"双中心"核心区建设，签约20个高能级创新平台项目（总投资39.09亿元）。加快大科学装置建设：先进阿秒激光设施、高精度地基授时系统、分子医学转化中心等(pp.88–89)。
+> 建设高能级科创平台：国家增材制造创新中心、未来人工智能[[Center of Calculation|计算中心]]、秦创原创新驱动平台等。2023年启动"双中心"核心区建设，签约20个高能级创新平台项目（总投资39.09亿元）。加快大科学装置建设：先进阿秒激光设施、高精度地基授时系统、分子医学转化中心等(pp.88–89)。
 >
 > 关键核心技术攻关：每年设立不少于1亿元"揭榜挂帅"专项资金，对成功完成项目择优奖励。组建多个创新联合体聚焦半导体、智能终端、生物医药等领域。西安光机所与陕西光电集成电路先导技术研究院合作研发多款高性能光电芯片(p.89)。
 

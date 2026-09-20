@@ -4783,8 +4783,9 @@
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/STEM Education.md",
     "aliases": [
-      "STEM教育",
-      "科学、技术、工程和数学教育",
+      "STEM",
+      "跨学科科学教育",
+      "科学技术工程与数学教育",
       "Science, Technology, Engineering, and Mathematics Education"
     ]
   },
@@ -19345,6 +19346,16 @@
     ]
   },
   {
+    "title": "David Klahr",
+    "type": "person",
+    "path": "wiki/persons/us/David Klahr.md",
+    "aliases": [
+      "戴维·克拉尔",
+      "大卫·克拉尔",
+      "Klahr, D."
+    ]
+  },
+  {
     "title": "Deanna Kuhn",
     "type": "person",
     "path": "wiki/persons/us/Deanna Kuhn.md",
@@ -19813,6 +19824,17 @@
       "菲利普·H·库姆斯",
       "菲利普·库姆斯",
       "Philip Coombs"
+    ]
+  },
+  {
+    "title": "Richard E. Mayer",
+    "type": "person",
+    "path": "wiki/persons/us/Richard E. Mayer.md",
+    "aliases": [
+      "理查德·梅耶",
+      "理查德·E·梅耶",
+      "Mayer, R. E.",
+      "Richard Mayer"
     ]
   },
   {
@@ -25682,7 +25704,6 @@
     "type": "fact",
     "path": "wiki/facts/us/Web-based Inquiry Science Environment.md",
     "aliases": [
-      "WISE",
       "网络探究科学环境",
       "WISE Platform"
     ]

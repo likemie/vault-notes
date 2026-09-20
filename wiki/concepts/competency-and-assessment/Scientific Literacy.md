@@ -10,7 +10,7 @@ aliases:
 summary: "指个体理解科学探究运作机制、批判性评估多源证据质量、接纳科学知识的暂定性与不确定性，并在日常生活和公共决策中做出理性判断的核心公民素养，涵盖科学本质理解、数据与算法素养及抵御虚假信息的认知免疫机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -22,6 +22,7 @@ tags:
   - theme/science-capital
   - theme/public-engagement
 related_concepts:
+  - "[[Nature of Science]]"
   - "[[Reliability]]"
   - "[[Knowledge Production]]"
   - "[[Rote Learning]]"
@@ -85,7 +86,7 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 核心定义
-> 科学素养（Scientific Literacy / Science Literacy）是指个体具有对科学本质及其运作机制的充分理解，能够把握科学知识通过逐步降低不确定性而演进的动态过程，具备批判性评估多源证据质量及其可[[Reliability|信度]]的认知能力，并在日常生活、健康医疗、消费抉择与公共民主审议中做出明智决策的核心公民素养。它超越了传统对孤立科技事实与术语的机械记忆，将科学本质理解、科学探究实践、数据与算法素养以及抵御伪科学与虚假信息的理性批判心智融为一体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
+> 科学素养（Scientific Literacy / Science Literacy）是指个体具有对[[Nature of Science|科学本质]]及其运作机制的充分理解，能够把握科学知识通过逐步降低不确定性而演进的动态过程，具备批判性评估多源证据质量及其可[[Reliability|信度]]的认知能力，并在日常生活、健康医疗、消费抉择与公共民主审议中做出明智决策的核心公民素养。它超越了传统对孤立科技事实与术语的机械记忆，将科学本质理解、科学探究实践、数据与算法素养以及抵御伪科学与虚假信息的理性批判心智融为一体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将科学教育的终极目标从“孤立事实的单向传授”重构为“探究证据与理解科学[[Knowledge Production|知识生成]]的内在逻辑”。
@@ -116,7 +117,7 @@ updated: 2026-09-21
 > | 比较维度 | [[Scientific Literacy\|科学素养（Scientific Literacy）]] | [[Science Capital\|科学资本（Science Capital）]] | [[Data Literacy\|数据素养（Data Literacy）]] | [[AI Literacy\|人工智能素养（AI Literacy）]] |
 > |---|---|---|---|---|
 > | **核心关注** | 理解科学运作、评估证据质量、接纳不确定性与理性决策 | 解释个体为何认为“科学是否适合我”的综合社会[[Cultural Capital\|文化资本]] | 评估日常生活与媒体中海量数据、图表、统计与风险的能力 | 理解算法推荐逻辑、识别[[AI Hallucination\|大模型幻觉]]与人机协作伦理 |
-> | **构念构成** | 科学本质、探究方法、证据辨析、怀疑与自我纠错机制 | 科学素养、科学相关态度、媒体消费、校外参与、家庭人脉 | 样本代表性、[[Effect Size\|效应量]]、因果推论、概率认知与统计偏误识别 | 提示词工程、算法偏见审计、合成伪证鉴别、版权溯源意识 |
+> | **构念构成** | [[Nature of Science\|科学本质]]、探究方法、证据辨析、怀疑与自我纠错机制 | 科学素养、科学相关态度、媒体消费、校外参与、家庭人脉 | 样本代表性、[[Effect Size\|效应量]]、因果推论、概率认知与统计偏误识别 | 提示词工程、算法偏见审计、合成伪证鉴别、版权溯源意识 |
 > | **在知识生态中的定位** | 全民[[21st Century Skills and Competencies Discourse\|核心素养]]底座；科学资本构念的第一关键要素 | 社会学阶层与认同分析工具；涵盖素养但延伸至社会网络 | 科学素养在量化实证维度的必要技术支撑与量化延伸 | 科学素养在生成式数字时代的全新延伸与认知护栏 |
 > | **主要政策场景** | 基础教育科学课程改革、公民素养监测（如 [[PISA]]） | 促进教育公平、打破边缘群体与女性科学参与壁垒 | 应对数字媒体统计误导、公共卫生与气候危机风险沟通 | 防范算法虚假信息扩散、规范智能检索与新闻内容生成 |
 
@@ -125,7 +126,7 @@ updated: 2026-09-21
 ## 核心要素
 
 > [!feature] 现代科学素养四大能力支柱（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026]], 2026b, 2026d）
-> - **理解科学运作机制与科学本质（Understanding Scientific Processes & Nature of Science）** 掌握实证观察、假说检验、实验设计与同行评议如何共同确立和修正科学结论；深刻理解科学知识的经验性、暂定性与社会协商修正属性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]
+> - **理解科学运作机制与[[Nature of Science|科学本质]]（Understanding Scientific Processes & Nature of Science）** 掌握实证观察、假说检验、实验设计与同行评议如何共同确立和修正科学结论；深刻理解科学知识的经验性、暂定性与社会协商修正属性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]
 > - **证据质量批判评估与来源辨识（Evidence Quality & Source Evaluation）** 在信息爆炸与算法分发环境中，能够穿透商业公关赞助与机构通稿夸大，准确[[Evaluation Research|评估研究]][[Sample Size Determination|样本量]]、[[Effect Size|效应量]]大小、相关与[[Causality|因果关系]]的本质鸿沟，审慎核验多源证据[[Reliability|信度]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 > - **接纳[[Scientific Uncertainty|科学不确定性]]与暂定性（Navigating Uncertainty & Provisionality）** 深刻领会[[Confidence Interval|置信区间]]、测量误差与区间预测的科学价值，认识到承认“证据有限与未知”并非科学无能，而是严谨探索的必然常态；避免因科学争议而滑向反智虚无主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **公共决策参与与算法数据批判（Civic Deliberation & Algorithmic Critique）** 能够将科学证据理性应用于应对气候危机、公共卫生防护、基因科技伦理以及审视生成式 AI 工具带来的模型幻觉与偏见，积极参与民主审议。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
@@ -163,7 +164,7 @@ updated: 2026-09-21
 
 ### 命题二　真正的科学素养本质在于接纳证据暂定性与理解科学不确定性而非死记定论
 
-> [!concept-lens] 科学本质认知与证据演进机制
+> [!concept-lens] [[Nature of Science|科学本质]]认知与证据演进机制
 > 传统[[Examination-Oriented Education|应试教育]]将科学歪曲为绝对确定事实的集合，阻碍了学生对真实科研探索逻辑的领会。
 
 > [!claim] Kerr et al. (2022)
@@ -249,7 +250,7 @@ updated: 2026-09-21
 > > - **精英主义选拔论** 强调高难度数理硬核推演与专业术语记忆，担忧强调通识素养会稀释学术严谨性，导致国家失去尖端科技竞争力。
 > > - **公民素养赋能论** 指出 90% 以上的学生未来不会从事科研职业；缺乏通识素养将导致大众在伪科学与极化舆论中迷失，摧毁科技创新的民意与道德执照。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 >
-> > [!axis] 事实性核心知识积累 vs 科学本质探究过程（Nature of Science）
+> > [!axis] 事实性核心知识积累 vs [[Nature of Science|科学本质]]探究过程（Nature of Science）
 > > 掌握足够的学科事实概念是前提，还是探究过程能力更为核心？
 > > - **知识本位立场** 认为没有充足的事实与原理解释储备，所谓“批判性评估”就会沦为无根浮萍与盲目怀疑。
 > > - **探究本质立场** 指出互联网与 AI 使得事实检索成本趋近于零，理解知识如何被实证检验、同行评议与修正纠错才是终身受用的[[21st Century Skills and Competencies Discourse|核心素养]]。

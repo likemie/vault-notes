@@ -10,7 +10,7 @@ aliases:
 summary: "认知心理学与教学设计中的自主建构范式，由杰罗姆·布鲁纳奠基，主张让学生在最小干预下通过自主探究概念例证领悟学科基本结构；经 Alfieri 等 164 项元分析解构确立无指导纯发现成效低下而辅以支架的增强型引导式发现显著优于传统直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Computer Simulation]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
+  - "[[Knowledge Integration]]"
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -159,7 +160,7 @@ updated: 2026-09-21
 > **增强型指导式发现的实证全景优势** 针对 164 项原始实证研究的大规模一阶元分析表明，虽然无指导纯发现大幅劣于显性直接讲授（$d = -0.38$），但配备了支架结构、启发提示或过程设计的增强型引导式发现（Assisted Discovery），其教学效果系统性超越了传统直接讲授（$d = +0.30$）。这一结果证明直接教学倡导者对探究教学的批评建立在偷换概念之上：他们批评的是纯发现，却企图否定有指导的发现。（Alfieri et al., 2011；引自 [[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 4, 10]]）
 
 > [!claim] [[Ton de Jong|De Jong, T.]] & Lazonder, A. W.
-> **多媒体学习环境中的引导式发现原则** 在数字化微世界与多媒体学习中，单纯让学生点击操纵无法自发生成深层知识。通过嵌入概念支架（如[[Variable|变量]]列表）、过程支架（如假设生成向导）与反思支架，引导式发现能够充分释放学生的[[Epistemic Agency|认识能动性]]，实现高水平的知识整合。（de Jong & Lazonder, 2014；引自 [[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 5]]）
+> **多媒体学习环境中的引导式发现原则** 在数字化微世界与多媒体学习中，单纯让学生点击操纵无法自发生成深层知识。通过嵌入概念支架（如[[Variable|变量]]列表）、过程支架（如假设生成向导）与反思支架，引导式发现能够充分释放学生的[[Epistemic Agency|认识能动性]]，实现高水平的[[Knowledge Integration|知识整合]]。（de Jong & Lazonder, 2014；引自 [[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 5]]）
 
 ---
 

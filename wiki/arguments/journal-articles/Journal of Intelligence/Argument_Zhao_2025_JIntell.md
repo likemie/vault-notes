@@ -29,15 +29,15 @@ title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
 argument_display_title: "Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 sources:
   - "[[sources/Zhao_2025_JIntell/Zhao_2025_JIntell|Zhao_2025_JIntell]]"
 journal: "Journal of Intelligence"
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-09-21
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
   - "[[Literature Search]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Reflexivity]]"
@@ -276,7 +277,7 @@ status: draft
 > 按照 Cohen（1992）的标准，$0.5 \le g < 0.8$ 属于教育实证领域中等偏大的促学效应。这一量化结果从根本上反驳了将人工智能简单视作“思考杀手”的悲观论调。其深层认知机制在于：生成式 AI 凭借自然语言多轮交互、智能检索与方案重组能力，承担了繁琐的基础信息检索与初步查错工作，有效减轻了学习者的即时工作记忆负担，从而节省了宝贵的认知资源（认知带宽），让学生能将精力集中在高阶推理、权衡证据与深入反思上。（pp. 10, 12–13）
 
 > [!case]- 代表性实证案例：STEM 结构化探究系统 InquiryGPT（Li et al., 2024b）
-> - **研究背景与工具开发** 面对学生在传统探究学习中容易迷失方向或将 AI 沦为查答案工具的问题，Li et al. (2024b) 为高校与中职 STEM 实验课程定制开发了嵌入[[Scaffolding|脚手架]]的系统 **InquiryGPT**。
+> - **研究背景与工具开发** 面对学生在传统[[Inquiry-Based Learning|探究学习]]中容易迷失方向或将 AI 沦为查答案工具的问题，Li et al. (2024b) 为高校与中职 STEM 实验课程定制开发了嵌入[[Scaffolding|脚手架]]的系统 **InquiryGPT**。
 > - **核心教学规程设计** 该系统并非开放式聊天，而是强制约束在结构化探究学习框架（Inquiry-Based Learning Framework）内：系统通过多阶段提示语引导学生逐步经历“提出科学[[Hypothesis|假设]] $\rightarrow$ 确定[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]控制 $\rightarrow$ 数据异常分析与推论 $\rightarrow$ [[Metacognition|元认知]]反思评估”四个连续节点；系统被明确设定为“不直接提供实验结果，仅提供[[Socrates|苏格拉底]]式启发问题”。
 > - **实证效果与机制验证** 实验组学生的系统性科学推理能力与元认知监控得分显著超越使用原生 ChatGPT 的对照组。该案例直接证实：生成式 AI 绝非只要引入就能促进高阶思维，而是必须依托显性[[Structured Teaching|结构化教学]][[Scaffolding|脚手架]]的定向规范，才能将大模型的算力真正转化为心智进阶的杠杆。（p. 4）
 

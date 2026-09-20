@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 65
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -57,12 +57,14 @@ related_concepts:
   - "[[Variable]]"
   - "[[Project-Based Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Knowledge Production]]"
   - "[[Constructivist Paradigm]]"
   - "[[Dependent Variable]]"
   - "[[Task Structure]]"
   - "[[Convergent Thinking]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[AI Agent in Education]]"
+  - "[[Inquiry-Based Learning]]"
 related_theories:
   - "[[Bloom's Taxonomy]]"
 related_methods:
@@ -94,7 +96,7 @@ related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Higher-Order Thinking Skills
@@ -258,7 +260,7 @@ updated: 2026-09-17
 > [!dev-timeline] 高阶思维技能的理论与实证演进
 > - **1956 年 认知目标分类学奠基** Bloom 等人提出认知领域教育目标分类学，确立从知识、领会、运用到分析、综合、评价的六级阶梯，奠定高阶思维的经典层级框架。
 > - **1980 年代 认知科学转向与思维教学运动** Resnick（1987）系统阐述“教育与学习思考”，明确高阶思维的非算法性、复杂性与自我调节属性，推动思维技能显性教学与[[Metacognition|元认知]]研究兴起。
-> - **2001 年 [[Bloom's Taxonomy|布鲁姆分类学]]二维修订** Anderson & Krathwohl 对分类学进行重构（知识维度 $\times$ 认知过程维度），将“创造”（Create）置于认知过程最高层级，突出知识生成的综合性。
+> - **2001 年 [[Bloom's Taxonomy|布鲁姆分类学]]二维修订** Anderson & Krathwohl 对分类学进行重构（知识维度 $\times$ 认知过程维度），将“创造”（Create）置于认知过程最高层级，突出[[Knowledge Production|知识生成]]的综合性。
 > - **2010 年代 [[Computational Thinking|计算思维]]与多维技能拓展** Korkmaz et al. (2017) 研制[[Computational Thinking Scale|计算思维量表]]（CTS），将算法思维、[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]与[[Creativity|创造力]]整合为可测量的技术高阶认知[[Construct|构念]]。
 > - **2020 年代 21世纪[[21st Century Skills and Competencies Discourse|核心素养]]与二阶证据确证** [[Meta-meta-analysis|二阶元分析]]相继证实[[Constructivist Paradigm|建构主义]][[Cooperative Learning|合作学习]]（$ES = 0.76$）与人工智能技术支架（$ES = 0.63$）对高阶思维的显著促进效应，确立了宏观证据基准。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026)]]
 > - **2025 年 认知加工深度级差与算法心智适配模型确立** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 揭示技术效应从表层语言向高阶思维及元认知单调递减规律（$g^+ = 0.580 \to 0.078$）；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 综合 29 项实验确立生成式 AI 促进高阶思维总体中等偏大基准（$g = 0.609$），解构出“问题解决（$0.745$）$>$ 批判性思维（$0.691$）$>$ 创造力（$0.444$）”的结构性级差，并揭示[[Self-Regulated Learning|自主调节学习]]能力（$Q_b = 40.962$）与 8–16 周倒 U 型周期对抵御[[Cognitive Offloading|认知外包]]的决定性边界。
@@ -349,7 +351,7 @@ updated: 2026-09-17
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis|元分析]]综合 29 项实验与准[[Experimental Research|实验研究]]（59 个[[Effect Size|效应量]]），系统检验生成式 AI 对学生高阶思维的促进效应（$g = 0.609$），确立了[[Problem Solving|问题解决]]（$g = 0.745$）$>$ [[Critical Thinking|批判性思维]]（$g = 0.691$）$>$ [[Creativity|创造力]]（$g = 0.444$）的效应梯度，并证实 8–16 周干预周期与高[[Self-Regulated Learning|自我调节学习]]能力的显著调节赋能。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项[[Experimental Research|实验研究]]中生成式 AI 对大学生高阶思维（HOT）的促进效应（$g^+ = 0.580$），严格控制[[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$），揭示了生成式技术对高校批判反思与发散创造的中等显著赋能。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用随机效应[[Meta-analysis|元分析]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking|发散思维]]收益显著高于[[Convergent Thinking|聚合思维]]的层级调节特征。
-> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 运用随机效应元分析综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），检验 AI [[AI Agent in Education|智能体]]对 K-12 学生高阶思维的影响，发现尽管效应量点估计较大（$g = 0.540$），但未达统计显著（$p = .066$）且[[Heterogeneity|异质性]]极高（$I^2 = 95.4\%$），表明 AI 促进高阶思维的效果高度取决于探究式学习和[[Reflexivity|反思性]]任务设计。
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 运用随机效应元分析综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），检验 AI [[AI Agent in Education|智能体]]对 K-12 学生高阶思维的影响，发现尽管效应量点估计较大（$g = 0.540$），但未达统计显著（$p = .066$）且[[Heterogeneity|异质性]]极高（$I^2 = 95.4\%$），表明 AI 促进高阶思维的效果高度取决于[[Inquiry-Based Learning|探究式学习]]和[[Reflexivity|反思性]]任务设计。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 运用[[Meta-meta-analysis|二阶元分析]]系统考察[[Cooperative Learning|合作学习]]对高阶思维技能的干预效应，报告了 $ES = 0.76$ 的高效益表现，证实社会建构互动对学生[[Critical Thinking|批判性思维]]与复杂问题解决能力的突出推动价值。
 > - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 采用二阶元分析综合 19 项 AIEd 一阶元分析（58,702 名参与者），报告 AI 教育应用对高阶思维技能亚组的效应（$ES = 0.63$，95% CI [.12, 1.14]），依托[[Bloom's Taxonomy|布鲁姆分类学]]与五维 HOTS 框架厘清了 AI 赋能认知[[Externalization|外化]]与潜在[[Cognitive Offloading|认知卸载]]的辩证关系。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统评述 [[OECD]] 成员国高等教育中高阶思维技能（[[Creativity|创造力]]与批判性思维）的政策导向与评价实践，揭示了宏观资格框架与微观课堂考核之间的脱节，论证了通过真实表现性任务与校本评分量规推进高阶思维测度的制度路径。
