@@ -3648,6 +3648,18 @@
     ]
   },
   {
+    "title": "Catalytic Philanthropy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Catalytic Philanthropy.md",
+    "aliases": [
+      "催化慈善",
+      "催化型慈善",
+      "证据催化慈善",
+      "Evidence-based Catalytic Philanthropy",
+      "杠杆慈善"
+    ]
+  },
+  {
     "title": "Categorical Funding",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Categorical Funding.md",
@@ -3705,6 +3717,17 @@
     ]
   },
   {
+    "title": "Consultocracy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Consultocracy.md",
+    "aliases": [
+      "顾问统治",
+      "咨询官僚治理",
+      "咨询政治",
+      "咨询寡头治理"
+    ]
+  },
+  {
     "title": "Critique of Evidence-Based Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Critique of Evidence-Based Education.md",
@@ -3743,6 +3766,19 @@
       "基于数据的决策",
       "数据本位决策",
       "DBDM"
+    ]
+  },
+  {
+    "title": "Deductible Gift Recipient",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Deductible Gift Recipient.md",
+    "aliases": [
+      "可扣税赠款受赠人",
+      "DGR",
+      "DGR1",
+      "第一类可扣税赠款人",
+      "Deductible Gift Recipient Status",
+      "税收抵免受赠资格"
     ]
   },
   {
@@ -4689,6 +4725,19 @@
     "path": "wiki/concepts/educational-policy-reform/Side Effects.md",
     "aliases": [
       "教育中的副作用"
+    ]
+  },
+  {
+    "title": "Social Impact Investing",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Social Impact Investing.md",
+    "aliases": [
+      "社会影响力投资",
+      "影响力投资",
+      "Impact Investing",
+      "社会投资",
+      "社会效益投资",
+      "Social Investment"
     ]
   },
   {
@@ -17095,6 +17144,16 @@
     "aliases": [
       "Rickinson, M.",
       "马克·里金森"
+    ]
+  },
+  {
+    "title": "Michael Traill",
+    "type": "person",
+    "path": "wiki/persons/australia/Michael Traill.md",
+    "aliases": [
+      "迈克尔·特雷尔",
+      "特雷尔",
+      "Michael Traill AM"
     ]
   },
   {
