@@ -5407,7 +5407,9 @@
     "aliases": [
       "计算机模拟",
       "computer simulations",
-      "simulation"
+      "simulation",
+      "虚拟仿真",
+      "计算机仿真"
     ]
   },
   {
@@ -6831,6 +6833,17 @@
       "程序技能",
       "Skill-Based Outcomes",
       "技能类认知结果"
+    ]
+  },
+  {
+    "title": "Productive Failure",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Productive Failure.md",
+    "aliases": [
+      "生产性失败",
+      "有成效的失败",
+      "启发式失败",
+      "PF"
     ]
   },
   {
@@ -25531,6 +25544,16 @@
       "佛罗里达数据使用干预试验",
       "佛罗里达数据使用干预",
       "Florida Using Data Trial"
+    ]
+  },
+  {
+    "title": "Web-based Inquiry Science Environment",
+    "type": "fact",
+    "path": "wiki/facts/us/Web-based Inquiry Science Environment.md",
+    "aliases": [
+      "WISE",
+      "网络探究科学环境",
+      "WISE Platform"
     ]
   },
   {

@@ -18,11 +18,12 @@ tags:
   - level/k12
   - pedagogy
 related_concepts:
-  - "[[Inquiry-Based Learning]]"
   - "[[Scaffolding]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Creativity]]"
   - "[[Feedback]]"
   - "[[Structured Teaching]]"
+  - "[[Problem-Based Learning]]"
   - "[[Knowledge Framework]]"
   - "[[Mentorship]]"
   - "[[Working Memory]]"
@@ -35,24 +36,30 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity Training]]"
   - "[[Divergent Thinking]]"
-  - "[[Growth]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"
-  - "[[Effective Teaching]]"
+  - "[[Knowledge Production]]"
   - "[[Paradigm]]"
+  - "[[Control of Variables Strategy]]"
+  - "[[Procedural Knowledge]]"
+  - "[[Effective Teaching]]"
   - "[[Dialogue in Education]]"
+  - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Evidence Standards]]"
+  - "[[Interaction Effect]]"
   - "[[Infusion Approach]]"
-  - "[[Control of Variables Strategy]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Intervention Research]]"
+  - "[[Critical Review]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -63,16 +70,16 @@ related_persons:
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
-  - "[[Australian Curriculum]]"
   - "[[PISA]]"
+  - "[[Australian Curriculum]]"
 related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Cole_2015_AJE]]"
-  - "[[Argument_DeJong_2023_ERR]]"
 confidence: high
 status: active
 created: 2026-05-04
@@ -94,7 +101,7 @@ updated: 2026-09-21
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调教师作为[[Scaffolding|认知脚手架]]的“主动激活者（Activator）”，通过将复杂认知过程外显化与结构化，降低学习者的外在认知负荷。
-> - **用途** 用于解释基础知识、程序性解题技能的高效掌握机制，并作为评价探究式学习、发现学习与微观课堂结构的基准参照。
+> - **用途** 用于解释基础知识、程序性解题技能的高效掌握机制，并作为评价[[Inquiry-Based Learning|探究式学习]]、发现学习与微观课堂结构的基准参照。
 > - **边界** 区别于无互动的单一满堂灌单向讲授；同时在培养发散性[[Creativity|创造力]]、深层批判性探究与学习自主性上面临明显的边际效用递减与教育副作用。
 
 > [!citation-card] 直接教学的核心界定与机制
@@ -105,14 +112,14 @@ updated: 2026-09-21
 > [!boundary]- 概念边界
 > - **不等于单向满堂灌（Rote Lecturing）** 纯粹讲授缺乏高频的理解检查与即时纠错练习；直接教学要求师生之间保持高密度的互动与结构化提问。
 > - **不等于[[Structured Teaching|结构化教学]]（Structured Teaching）** 结构化教学是更上位的课堂组织范畴，直接教学是其经典实现路径，但高结构课堂亦可容纳结构化的小组辩论或项目探究。
-> - **不等于问题导向学习（Problem-Based Learning, PBL）** PBL 强调以真实劣构问题为起点由学生自主推理；直接教学则强调在学生尚未形成先验[[Knowledge Framework|知识框架]]时由教师先搭设明晰的规则体系。
+> - **不等于问题导向学习（[[Problem-Based Learning]], PBL）** PBL 强调以真实劣构问题为起点由学生自主推理；直接教学则强调在学生尚未形成先验[[Knowledge Framework|知识框架]]时由教师先搭设明晰的规则体系。
 
 ---
 
 ## 概念辨析
 
 > [!contrast-table] 直接教学与主流教学取向对比
-> | 比较维度 | 直接教学（Direct Instruction） | 问题导向学习（Problem-Based Learning, PBL） | 学科融入显性教学 | 隐性发现/沉浸模式 |
+> | 比较维度 | 直接教学（Direct Instruction） | 问题导向学习（[[Problem-Based Learning]], PBL） | 学科融入显性教学 | 隐性发现/沉浸模式 |
 > |---|---|---|---|---|
 > | **教学起点** | 教师明确说明概念、规则与分步示范 | 呈现复杂劣构的真实情境问题 | 学科内容与显性思维准则双重锚定 | 深入学科高难度任务，不揭示通用规则 |
 > | **教师角色** | **激活者（Activator）** 与示范专家 | 资源顾问、认知促进者（Facilitator） | 领域专家与思维导师（[[Mentorship\|mentor]]） | 任务发布者与环境提供者 |
@@ -156,7 +163,7 @@ updated: 2026-09-21
 > [!claim] [[John Hattie|Hattie, J.]]
 > **教师作为“激活者”的极高[[Effect Size|效应量]]** 在可见学习综合体系中，直接教学的合并效应量达 $d = 0.59$（远超 $d = 0.40$ 的发展铰接点），显著高于教师仅充当促进者（Facilitator，如非指导性发现学习 $d = 0.17$）的模式。这表明由教师主动设定目标、清晰示范并监控掌握进度的结构化行为具有强力实证支持。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 433)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 7)]]
 
-> [!claim] [[John Sweller|Sweller, J.]], & Kirschner, P. A.
+> [!claim] Sweller, J., & Kirschner, P. A.
 > **[[Cognitive Load Theory|认知负荷理论]]对显性直接指导的辩护** 初学者在面对新领域时缺乏长时记忆中的知识图式（Schemata）。若采用未加指导的自由探索，有限的工作记忆会瞬间被盲目搜寻的外在负荷挤爆；直接教学通过“专家示范 + 样例解析 + 指导练习”，将外部认知负荷降至最低，使认知资源完全聚焦于图式建构与技能自动化。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 1–2)]]
 
 ---
@@ -190,13 +197,13 @@ updated: 2026-09-21
 ### 命题四　直接教学在长效保持与概念迁移上面临瓶颈，其最大效能依赖于与探究实践的时序协同
 
 > [!concept-lens] 教学时序与概念深层内化
-> 探讨直接教学与学生探究在知识建构不同阶段的功能分工，反思脱离探究练习的单一直接教学在长周期保持上的局限。
+> 探讨直接教学与学生探究在[[Knowledge Production|知识建构]]不同阶段的功能分工，反思脱离探究练习的单一直接教学在长周期保持上的局限。
 
 > [!claim] De Jong et al.
-> **长效保持中单一讲授的脆弱性与探究时序互补** 单一的直接教学尽管能减少学习初期的错误并提高即时测验成绩，但在缺乏持续主动探究和情境化练习的情况下，无法促成知识的长效保持与向新情境的远迁移。直接教学与[[Inquiry-Based Learning|探究式学习]]并非非此即彼的对立范式：直接教学可作为探究的前置知识铺垫、探究过程中的即时解释支架，或置于自主探索引发认知冲突之后的概念澄清环节（如生产性失败），二者的时序融合才能达成深度学习。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
+> **长效保持中单一讲授的脆弱性与探究时序互补** 单一的直接教学尽管能减少学习初期的错误并提高即时测验成绩，但在缺乏持续主动探究和情境化练习的情况下，无法促成知识的长效保持与向新情境的远迁移。直接教学与[[Inquiry-Based Learning|探究式学习]]并非非此即彼的对立[[Paradigm|范式]]：直接教学可作为探究的前置知识铺垫、探究过程中的即时解释支架，或置于自主探索引发认知冲突之后的概念澄清环节（如生产性失败），二者的时序融合才能达成深度学习。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
 
-> [!claim] [[Deanna Kuhn|Dean & Kuhn]]
-> **探究练习对直接教学长效保持的巩固效应** 在[[Control of Variables Strategy|变量控制策略]]（CVS）的受控追踪实验中，单纯接受直接教学的学生在学习 13 周后技能保持率暴跌至 31%，而接受直接教学与自主探究练习相结合的学生保持率高达 83%。这表明直接教学所建立的表层程序知识若不经历情境化探究与验证的深层加工，极易迅速衰退。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 3)]]
+> [!claim] Dean & Kuhn
+> **探究练习对直接教学长效保持的巩固效应** 在[[Control of Variables Strategy|变量控制策略]]（CVS）的受控追踪实验中，单纯接受直接教学的学生在学习 13 周后技能保持率暴跌至 31%，而接受直接教学与自主探究练习相结合的学生保持率高达 83%。这表明直接教学所建立的表层[[Procedural Knowledge|程序知识]]若不经历情境化探究与验证的深层加工，极易迅速衰退。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 3)]]
 
 ---
 
@@ -218,7 +225,7 @@ updated: 2026-09-21
 > - **1960–1970 年代 — 脚本化 DI 奠基与 Follow Through 试验** Siegfried Engelmann 与 Wes Becker 开发高度脚本化的直接教学模式（DI），并在美国“追踪项目（Project Follow Through）”中横扫 20 余种教学法，奠定了在弱势儿童基础学业补救中的实证基石。[[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 7)]]
 > - **1980 年代 — 显性教学原则提炼与普及** Barak Rosenshine 系统提炼出小步子示范、指导练习与即时反馈等 10 项显性教学原则，直接教学从专门补救课程扩展为通用[[Effective Teaching|有效教学]][[Paradigm|范式]]。
 > - **1990–2000 年代 — [[Cognitive Load Theory|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory|工作记忆]]局限性为显性指导提供认知科学解释；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 24)]]
-> - **2010 年代至今 — 可见学习综合、副作用反思与时序协同模型** Hattie（$d=0.59$）确立其教师激活地位；[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 确立其在高阶[[Critical Thinking|批判性思维]]中的显性混合模式；[[Argument_Zhao_2017_JEC|Zhao (2017)]] 提出教育副作用理论；[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 系统反思直接教学绝对优越论，提出直接教学与探究式学习的时序协同模型。
+> - **2010 年代至今 — 可见学习综合、副作用反思与时序协同模型** Hattie（$d=0.59$）确立其教师激活地位；[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 确立其在高阶[[Critical Thinking|批判性思维]]中的显性混合模式；[[Argument_Zhao_2017_JEC|Zhao (2017)]] 提出教育副作用理论；[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 系统反思直接教学绝对优越论，提出直接教学与[[Inquiry-Based Learning|探究式学习]]的时序协同模型。
 
 ---
 
@@ -238,15 +245,15 @@ updated: 2026-09-21
 > > - **实证反思（[[Argument_Zhao_2017_JEC|Zhao, 2017]]）** 揭示强效直接教学在基础技能高分的同时，往往伴随着冒险精神、不确定性耐受力与好奇心的系统性抑制。
 >
 > > [!axis] 绝对普遍优越论 vs 领域与时序协同论
-> > 争论直接教学是否全面优于探究学习，抑或二者属于互补的教学时序要素。
+> > 争论直接教学是否全面优于[[Inquiry-Based Learning|探究学习]]，抑或二者属于互补的教学时序要素。
 > >
-> > - **认知负荷派（[[John Sweller|Sweller]], Kirschner, Clark, Zhang）** 主张基于工作记忆瓶颈，显性直接教学在任何科学教学领域都必须占据绝对主导地位。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 1–2)]]
-> > - **学习科学派（De Jong, Hmelo-Silver, [[Clark A. Chinn|Chinn]]）** 批驳直接教学绝对优越论，指出直接教学对于抽象概念理解与长效保持具有天然局限，必须将其作为支架有机嵌入探究进程。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
+> > - **认知负荷派（Sweller, Kirschner, Clark, Zhang）** 主张基于[[Working Memory|工作记忆]]瓶颈，显性直接教学在任何科学教学领域都必须占据绝对主导地位。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 1–2)]]
+> > - **学习科学派（De Jong, Hmelo-Silver, Chinn）** 批驳直接教学绝对优越论，指出直接教学对于抽象概念理解与长效保持具有天然局限，必须将其作为支架有机嵌入探究进程。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
 
 > [!warning] 适用局限
 > - **[[Procedural Skill|程序性技能]]适用，发散性探究受限** 在良构知识、计算规则与初学者入门阶段效能极高，但在艺术创作、哲学思辨与开放性科研探究中边际收益递减。
 > - **不可孤立用于[[Higher-Order Thinking Skills|高阶思维]]** [[Critical Thinking|批判性思维]]与高阶[[Problem Solving|问题解决]]必须依赖显性教学 + 学科探究 + [[Dialogue in Education|对话]]导师的混合模式方能实现跨情境迁移。
-> - **长效保持脆弱** 若缺乏情境化实践与探究演练，直接讲授习得的规则在长周期后测中容易发生严重衰减。
+> - **长效保持脆弱** 若缺乏情境化实践与探究演练，直接讲授习得的规则在长周期[[Pre-test and Post-test|后测]]中容易发生严重衰减。
 
 ---
 
@@ -255,10 +262,10 @@ updated: 2026-09-21
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | 结果变量 | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | 变量控制策略教学：直接教学组 vs. 直接教学+探究组 vs. 纯探究组 | 13 周延迟保持测验成绩 | 六年级学生 | 直接教学组保持率 31%；直接+探究组保持率 83%；纯探究组保持率 78% | — | 组间差异显著（$p < .05$） | 纵向对比实验；证实直接教学若脱离自主探究练习，长效保持率发生显著退化 |
-> | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 即时掌握率与跨情境迁移测验 | 小学三、四年级学生 | 即时与延迟测验两组得分高度均等（Equivalence） | — | 差异无统计学显著性 | 受控实验；表明直接教学并未展现出压倒探究式学习的绝对优势 |
+> | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | [[Control of Variables Strategy\|变量控制策略]]教学：直接教学组 vs. 直接教学+探究组 vs. 纯探究组 | 13 周延迟保持测验成绩 | 六年级学生 | 直接教学组保持率 31%；直接+探究组保持率 83%；纯探究组保持率 78% | — | 组间差异显著（$p < .05$） | 纵向对比实验；证实直接教学若脱离自主探究练习，长效保持率发生显著退化 |
+> | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 即时掌握率与跨情境迁移测验 | 小学三、四年级学生 | 即时与延迟测验两组得分高度均等（Equivalence） | — | 差异无统计学显著性 | 受控实验；表明直接教学并未展现出压倒[[Inquiry-Based Learning\|探究式学习]]的绝对优势 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -283,8 +290,8 @@ updated: 2026-09-21
 > | [[Argument_Zhao_2017_JEC\|Zhao (2017, p. 7)]] | 美国联邦 Project Follow Through（史上最大规模教育实验，涵盖数万名弱势儿童） | 大规模准实验长期追踪对比（20余种教学模式） | 基础技能、认知理解与自尊情感 | 脚本化直接教学（DI）在基础学业技能上显著夺冠，但在自主探索与情感维度未显优势 | 跨学区一致显著 | 奠定了直接教学在基础技能补救教学中的历史标杆地位 |
 > | [[Argument_Zhao_2017_JEC\|Zhao (2017, p. 8)]] | 可见学习综合实证数据库（涵盖数百项元分析） | [[Meta-meta-analysis\|二阶元分析]]汇总 | 直接教学对综合[[Academic Achievement\|学业成就]]的影响 | $d = 0.59$（排名前列） | 远超发展铰接点 $d = 0.40$ | 主要反映标准化知识与常规学科考试成绩，未能测查创造力与非认知副作用 |
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 美国全面学校改革计划（Comprehensive School Reform, CSR）及 [[Every Student Succeeds Act\|ESSA]] 项目库 | 联邦政策实证审查 | 达到联邦法定强/中[[Evidence Standards\|证据标准]]的全校与学科方案 | Direct Instruction 作为全美少数经受住长期实验检验的 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 全班核心方案之一 | 经受住多轮独立审查 | 证实其在全美规模化推广中的因果有效性 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Stockard et al., 2018） | 328 项阅读、数学与拼写干预研究（非 STEM 领域） | 元分析与批判性综述审查 | 直接教学对比常规或其他教学课程 | 直接教学在基础读写算技能上表现出正向效应，但对照组仅区分为常规课程而未具体界定教学类型 | — | 该元分析未覆盖科学概念探究领域，其对照组特征模糊导致无法推导出直接教学对探究教学的全面优越性 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Oliver et al., 2021） | 国际学生评估项目（PISA）2015 跨国大规模数据（数十万学生） | 多层非线性多项式回归分析 | 教师直接指导与学生探究对科学成绩的交互作用 | 教师直接指导与探究活动呈显著倒 U 型交互增益；单一孤立的超高强度直接讲授呈现收益递减甚至负向关联 | 跨国分析高度一致 | 证明直接教学的最优效能取决于其与探究实践的动态结合（Sweet Spot） |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Stockard et al., 2018） | 328 项阅读、数学与拼写[[Intervention Research\|干预研究]]（非 STEM 领域） | 元分析与[[Critical Review\|批判性综述]]审查 | 直接教学对比常规或其他教学课程 | 直接教学在基础读写算技能上表现出正向效应，但对照组仅区分为常规课程而未具体界定教学类型 | — | 该元分析未覆盖科学概念探究领域，其对照组特征模糊导致无法推导出直接教学对探究教学的全面优越性 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Oliver et al., 2021） | [[PISA\|国际学生评估项目]]（PISA）2015 跨国大规模数据（数十万学生） | 多层非线性多项式回归分析 | 教师直接指导与学生探究对科学成绩的[[Interaction Effect\|交互作用]] | 教师直接指导与探究活动呈显著倒 U 型交互增益；单一孤立的超高强度直接讲授呈现收益递减甚至负向关联 | 跨国分析高度一致 | 证明直接教学的最优效能取决于其与探究实践的动态结合（Sweet Spot） |
 
 ---
 
