@@ -6,13 +6,13 @@ aliases:
   - 自我效能
   - teacher self-efficacy
   - 教师自我效能感
-summary: "阿尔伯特·班杜拉提出的社会认知动机核心构念，指个体对自身在特定任务情境中组织并执行必要行动以达成特定目标的胜任信念与自我评价，通过预期、努力持久度、任务选择与目标设定调节学习与教学行为"
+summary: "阿尔伯特·班杜拉提出的社会认知动机核心构念，指个体对自身在特定任务情境中组织并执行必要行动以达成特定目标的胜任信念；通过预期、努力持久度与目标设定调节学习与教学，并在支架式探究中作为亲历掌握经验塑造的非认知与认识论动因关键成果。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 38
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/motivation
   - theme/self-belief
@@ -20,30 +20,53 @@ tags:
   - theme/teacher-education
   - theme/learning-science
 related_concepts:
-  - "[[Student Attitude]]"
+  - "[[Learned Helplessness]]"
+  - "[[Creativity]]"
+  - "[[Construct]]"
+  - "[[Epistemological Beliefs]]"
+  - "[[Academic Achievement]]"
+  - "[[Metacognition]]"
   - "[[Teacher Beliefs]]"
   - "[[Critical Thinking]]"
-  - "[[Epistemological Beliefs]]"
-  - "[[Dependent Variable]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Learning Style Myth]]"
-  - "[[Evidence-Informed Practice]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Variable]]"
+  - "[[Epistemology]]"
+  - "[[Direct Instruction]]"
+  - "[[Knowledge Production]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Hypothesis]]"
+  - "[[Epistemic Agency]]"
+  - "[[Learner Autonomy]]"
+  - "[[Classroom Management]]"
   - "[[Educational Science Communication]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Refutational Evidence]]"
+  - "[[Voluntarism]]"
+  - "[[Dependent Variable]]"
+  - "[[Document]]"
+  - "[[Chain of Evidence]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Design-Based Research]]"
+  - "[[Systematic Review]]"
   - "[[Correlational Research]]"
-  - "[[Sample Size Determination]]"
-related_persons: []
+related_persons:
+  - "[[Albert Bandura]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Besa_2024_UW]]"
+  - "[[Argument_DeJong_2023_ERR]]"
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Self-Efficacy
@@ -52,10 +75,10 @@ updated: 2026-09-18
 
 ## 定义
 
-自我效能感（Self-Efficacy）是由心理学家阿尔伯特·班杜拉（Albert Bandura）在社会认知理论中提出的核心动机概念，指个体对自己组织与执行达成特定成就所需行动能力的信念和自我评价。
+自我效能感（Self-Efficacy）是由心理学家[[Albert Bandura|阿尔伯特·班杜拉]]（Albert Bandura）在社会认知理论中提出的核心动机概念，指个体对自己组织与执行达成特定成就所需行动能力的信念和自我评价。
 
 > [!def] 核心定义
-> 自我效能感是指个体在面对**特定任务情境**时，对自身能否成功调动认知、动机与行为资源以达成预期表现的主观胜任信念。班杜拉强调，感到自我有效（feeling efficacious）是驱动个体走向积极探索与技能掌握的直接动力；反之，低自我效能感会引发任务逃避与习得性无助。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 58)]]；[[Argument_Bergeron_2015_TeachingTOK|(Bergeron & Rogers, 2015, p. 9)]]
+> 自我效能感是指个体在面对**特定任务情境**时，对自身能否成功调动认知、动机与行为资源以达成预期表现的主观胜任信念。班杜拉强调，感到自我有效（feeling efficacious）是驱动个体走向积极探索与技能掌握的直接动力；反之，低自我效能感会引发任务逃避与[[Learned Helplessness|习得性无助]]。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 58)]]；[[Argument_Bergeron_2015_TeachingTOK|(Bergeron & Rogers, 2015, p. 9)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向个体对自身在具体情境与特定任务中行动效能的主观信念系统，涵盖学习者的学习自我效能与教师的教学自我效能（Teacher Efficacy）。
@@ -69,25 +92,25 @@ updated: 2026-09-18
 
 > [!boundary]- 概念边界
 > - **不等于一般自尊或一般能力感** — 自我效能感具有高度的任务特定性（task-specific）与情境敏感性。个体可能在数学推理上具有极高的效能感，但在学术写作或公开演讲上效能感极低；它并非对整体智力或人格价值的笼统评价。
-> - **不等于客观实际能力水平** — 实际具备高技能的个体可能因过度焦虑或消极归因而表现出低效能感（导致主动放弃挑战）；而效能感适度高于实际水平则常能激发超越常规的努力与创造力。自我效能感调节的是从潜能向行动转化的中介动力机制。
+> - **不等于客观实际能力水平** — 实际具备高技能的个体可能因过度焦虑或消极归因而表现出低效能感（导致主动放弃挑战）；而效能感适度高于实际水平则常能激发超越常规的努力与[[Creativity|创造力]]。自我效能感调节的是从潜能向行动转化的中介动力机制。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 自我效能感与相近心理构念辨析
-> | 比较维度 | 自我效能感（Self-Efficacy） | 自尊（Self-Esteem） | 实际能力水平（Objective Ability） | 认识论信念（Epistemological Beliefs） |
+> [!contrast-table] 自我效能感与相近心理[[Construct|构念]]辨析
+> | 比较维度 | 自我效能感（Self-Efficacy） | 自尊（Self-Esteem） | 实际能力水平（Objective Ability） | [[Epistemological Beliefs\|认识论信念]]（Epistemological Beliefs） |
 > |---|---|---|---|---|
 > | **分析对象** | 对特定任务行动胜任力的主观判断 | 对自我整体价值与身份的情感性评价 | 经客观测量确证的知识与技能储备 | 对知识本质、来源与确定性的底层认知结构 |
 > | **核心机制** | 预期能否达成目标，调节努力与坚韧性 | 维持自我价值感，调节情绪安全与自尊防御 | 决定任务完成的技术上限与客观产出质量 | 影响对复杂问题、证据反驳与专业实践的理解方式 |
-> | **适用情境** | 任务层面的学习动机、教师教学胜任力评估 | 全局性心理健康与人格发展研究 | 学业成就测量与标准化专业能力认证 | 教师教学决策、科学理解与教学法反思 |
+> | **适用情境** | 任务层面的学习动机、教师教学胜任力评估 | 全局性心理健康与人格发展研究 | [[Academic Achievement\|学业成就]]测量与标准化专业能力认证 | 教师教学决策、科学理解与教学法反思 |
 
 ---
 
 ## 核心要素
 
 > [!feature] 自我效能感的信息来源与行为调节机制
-> - **四大核心信息源（Sources of Efficacy）** 班杜拉归纳了个体构建效能信念的四大基石：
+> - **四大核心信息源（Sources of Efficacy）** [[Albert Bandura|班杜拉]]归纳了个体构建效能信念的四大基石：
 >   1. **亲历掌握经验（Mastery Experiences）** 过去成功完成类似任务的直接经验，是塑造效能感最稳固的基础；
 >   2. **替代经验（Vicarious Experiences）** 观察相似同伴或榜样成功示范所产生的“我也能做到”的信念；
 >   3. **言语劝导（Verbal Persuasion）** 来自教师、导师或专家的鼓励与专业反馈；
@@ -96,7 +119,7 @@ updated: 2026-09-18
 >   - **预期塑造（Expectation Shaping）** 高效能者将困难视为可克服的挑战并预期成功，低效能者倾向于预期失败并放大潜在阻碍。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 58)]]
 >   - **努力与持久度（Effort & Persistence）** 效能感越高，面临阻碍时激发的努力越持久、越专注，不易因暂时挫折而放弃。
 >   - **任务选择（Task Selection）** 主动倾向于选择具有适度挑战性的任务，回避自认无法胜任的领域。
->   - **目标设定与监控（Goal Setting & Monitoring）** 高效能感推动个体设定更高标准的近期目标与远期抱负，并维持高水平的元认知监控。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 65)]]
+>   - **目标设定与监控（Goal Setting & Monitoring）** 高效能感推动个体设定更高标准的近期目标与远期抱负，并维持高水平的[[Metacognition|元认知监控]]。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 65)]]
 
 > [!logic-map]- 自我效能感的双向交互决定与教学实践机制
 > ```mermaid
@@ -119,30 +142,40 @@ updated: 2026-09-18
 ### 命题一　教学实践成效与教师认识论信念之间存在双向重塑机制，成功的高阶探究教学显著提升教师自我效能感
 
 > [!concept-lens] [[Teacher Beliefs|教师信念]]与实践经验的双向交互
-> 揭示教师自我效能感并非职前阶段固定形成的静态特质，而是在真实课堂教学实践中与教学策略、认识论信念动态交互生成的产物；面对复杂教学挑战取得的成功经验对提升教师教学效能具有不可替代的驱动作用。
+> 揭示教师自我效能感并非职前阶段固定形成的静态特质，而是在真实课堂教学实践中与教学策略、[[Epistemological Beliefs|认识论信念]]动态交互生成的产物；面对复杂教学挑战取得的成功经验对提升教师教学效能具有不可替代的驱动作用。
 
 > [!claim] [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers, 2015]]
-> **探究教学经验对教师效能感与认识论信念的反向强化** 教师信念与教学实践之间绝非单向由认知指导行为的机械关系，而是存在深刻的双向重塑机制。全球跨国大规模调查显示，当教师长期承担高挑战性、注重批判性思维与跨学科探究的复杂课程（如国际文凭项目的知识论课程，[[Theory of Knowledge|TOK]]）并积累成熟经验时，其教学信心与自我效能感相较于新手教师显著提高（中等教龄组效应量 $d = 0.40$，资深组 $d = 0.51$），并反向推动其认识论信念向建构主义与审辩取向深化。[[Argument_Bergeron_2015_TeachingTOK|(Bergeron & Rogers, 2015, pp. 9–10 引用 Buehl & Beck, 2015)]]
+> **探究教学经验对教师效能感与认识论信念的反向强化** 教师信念与教学实践之间绝非单向由认知指导行为的机械关系，而是存在深刻的双向重塑机制。全球跨国大规模调查显示，当教师长期承担高挑战性、注重[[Critical Thinking|批判性思维]]与跨学科探究的复杂课程（如[[International Baccalaureate|国际文凭]]项目的[[Theory of Knowledge|知识论]]课程，[[Theory of Knowledge|TOK]]）并积累成熟经验时，其教学信心与自我效能感相较于新手教师显著提高（中等教龄组[[Effect Size|效应量]] $d = 0.40$，资深组 $d = 0.51$），并反向推动其认识论信念向[[Constructivist Paradigm|建构主义]]与审辩取向深化。[[Argument_Bergeron_2015_TeachingTOK|(Bergeron & Rogers, 2015, pp. 9–10 引用 Buehl & Beck, 2015)]]
 
 ---
 
 ### 命题二　教学中的本质主义定型与教育神经神话会系统性削弱学生的任务自我效能感并诱发回避行为
 
 > [!concept-lens] 本质主义标签对学习效能信念的认知束缚
-> 阐明缺乏科学依据的伪科学教育神话（如学习风格假说）如何通过将学习者固化为单一感官类型，破坏学生在多通道任务中的胜任信念，形成人为的认知设限与动机抑制。
+> 阐明缺乏科学依据的伪科学教育神话（如[[Learning Style Myth|学习风格假说]]）如何通过将学习者固化为单一感官类型，破坏学生在多通道任务中的胜任信念，形成人为的认知设限与动机抑制。
 
 > [!claim] [[Argument_Besa_2024_UW|Besa, 2024]]
-> **本质主义分类定型对学习者自我效能感的习得性削弱** 在缺乏实证转译的课堂实践中广泛流行的[[Learning Style Myth|学习风格神话]]（Lerntypenmythos），诱导教师、学生与家长将学习者划分为“视觉型”、“听觉型”或“动觉型”等孤立类别。这种本质主义分类（Nancekivell et al., 2020）诱使学生将特定感官通道的偏好错误等同于自身能力的不可变边界，极大地削弱了学生在非偏好通道或多模态深度学习任务上的自我效能感，导致其主动回避需要综合运用多元表征的复杂认知活动，在心理层面上造成自我设限与潜能抑制。[[Argument_Besa_2024_UW|(Besa, 2024, p. 252)]]
+> **本质主义分类定型对学习者自我效能感的习得性削弱** 在缺乏实证[[Transfer Translation Transformation|转译]]的课堂实践中广泛流行的[[Learning Style Myth|学习风格神话]]（Lerntypenmythos），诱导教师、学生与家长将学习者划分为“视觉型”、“听觉型”或“动觉型”等孤立类别。这种本质主义分类（Nancekivell et al., 2020）诱使学生将特定感官通道的偏好错误等同于自身能力的不可变边界，极大地削弱了学生在非偏好通道或多模态深度学习任务上的自我效能感，导致其主动回避需要综合运用多元表征的复杂认知活动，在心理层面上造成自我设限与潜能抑制。[[Argument_Besa_2024_UW|(Besa, 2024, p. 252)]]
 
 ---
 
 ### 命题三　自我效能感通过预期塑造、努力持久度与目标设定三大心理机制调节个体的深度学习与动机维持
 
 > [!concept-lens] 社会认知动机调控机制
-> 阐明自我效能信念如何作为中枢心理变量，直接支配学习者在面对学业挑战时的努力分配、目标导向与认知坚持度。
+> 阐明自我效能信念如何作为中枢心理[[Variable|变量]]，直接支配学习者在面对学业挑战时的努力分配、目标导向与认知坚持度。
 
 > [!claim] [[Argument_Li_2012_Cambridge|Li, 2012]]
 > **效能信念对学习动机与抱负水平的决定性调控** 在语言习得与复杂学业任务中，自我效能感并非被动反映过往成绩，而是主动调控未来动机的主导力量。高自我效能感能够促使学习者主动设定更具挑战性的近端与远端目标，在遭遇挫折时保持更强的抗逆力与投入度；相反，低效能信念会使学习者在任务启动前即产生失败预期，大幅减少努力投入并诱发拖延与回避行为。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 58–60, 65)]]
+
+---
+
+### 命题四　支架式科学探究通过亲历掌握经验有效赋能学生的学科自我效能感与认识论动因
+
+> [!concept-lens] 科学探究情境中的自我效能生成与[[Epistemology|认识论]]动因
+> 探讨自主探究实践相较于单向[[Direct Instruction|直接讲授]]，如何通过赋予学生科学[[Knowledge Production|知识生产]]者的身份，直接提供最坚实的亲历掌握经验以提升其科学自我效能感。
+
+> [!claim] [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]
+> **探究体验对科学自我效能感与认识论动因的独特培育** 在科学教育与教学法争论中，教学成效的衡量不能窄化为孤立的概念性事实测验。实证研究明确表明，[[Inquiry-Based Learning|探究式学习]]在激发学生的科学本质观（NOS）、探究实践素养、科学学习兴趣以及自我效能感（Self-Efficacy）等非认知与认识论维度上具有直接讲授无法替代的独特育人价值；依照[[Albert Bandura|班杜拉]]的社会认知理论，亲历掌握经验（Mastery Experiences）是自我效能感最稳固的信息来源，在支架式探究中，学生通过自主提出[[Hypothesis|假设]]、[[Design-Based Research|设计实验]]并解决真实认知阻碍，亲身获得了作为“知识发现者与检验者”的具身掌握体验，从而显著强化了面对复杂科学挑战时的胜任信念与认识论动因（[[Epistemic Agency]]）。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 10)]]
 
 ---
 
@@ -153,17 +186,19 @@ updated: 2026-09-18
 > |---|---|---|---|
 > | **实践双向重塑命题** | 复杂探究性教学实践能够反向提升教师教学自我效能感并重塑认识论信念 | 复杂课程教学、创新教学法实践与教师专业成熟度评估 | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]]; Buehl & Beck (2015) |
 > | **本质主义定型削弱命题** | 伪科学教育神话导致本质主义分类标签，系统性削弱学生多模态任务自我效能感 | 课堂差异化教学、教育迷思破除与学习动机干预 | [[Argument_Besa_2024_UW\|Besa (2024)]]; Nancekivell et al. (2020) |
-> | **社会认知动机调控命题** | 自我效能感通过预期塑造、任务选择与努力坚持支配深度学习与抱负达成 | 学业动机激发、二语习得与自主学习能力培养 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; Bandura (1997) |
+> | **社会认知动机调控命题** | 自我效能感通过预期塑造、任务选择与努力坚持支配深度学习与抱负达成 | 学业动机激发、二语习得与[[Learner Autonomy\|自主学习]]能力培养 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; Bandura (1997) |
+> | **科学探究与认识论动因命题** | 支架式探究通过提供亲历掌握经验，在自我效能感与认识论动因上展现出直接讲授无法替代的独特价值 | 科学探究教学法、非认知素养测评、理科学习动机与兴趣激发 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 10)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1977 — 社会认知理论奠基** 阿尔伯特·班杜拉发表《自我效能：迈向行为改变的综合理论》（*Self-efficacy: Toward a unifying theory of behavioral change*），正式确立自我效能感概念及其四大信息源与调节机制。
-> - **1980s–1990s — 学业动机与学习策略领域广泛应用** 学界将自我效能感从临床心理治疗拓展至教育学与学习科学领域，实证揭示其对学生学业成就、元认知策略使用与成就归因的关键中介作用（Pintrich & De Groot, 1990; Bandura, 1997）。
-> - **2000s–2010s — 教师自我效能感与认识论信念研究深化** 研究重点拓展至教师群体（Teacher Self-Efficacy），揭示教师效能感与课堂管理、探究式教学实施及自身认识论信念的双向重塑机制（Buehl & Beck, 2015；[[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers, 2015]]）。
-> - **2020s — 认知迷思批判与科学传播视野拓展** 贝萨（[[Argument_Besa_2024_UW|Besa, 2024]]）等学者将自我效能感引入教育科学传播与神经神话批判语境，揭示本质主义标签对学生效能感的隐性侵蚀，强调通过循证知识动员维护学习者与教师的专业效能。
+> - **1977 — 社会认知理论奠基** [[Albert Bandura|阿尔伯特·班杜拉]]发表《自我效能：迈向行为改变的综合理论》（*Self-efficacy: Toward a unifying theory of behavioral change*），正式确立自我效能感概念及其四大信息源与调节机制。
+> - **1980s–1990s — 学业动机与学习策略领域广泛应用** 学界将自我效能感从临床心理治疗拓展至教育学与学习科学领域，实证揭示其对学生[[Academic Achievement|学业成就]]、[[Metacognition|元认知]]策略使用与成就归因的关键中介作用（Pintrich & De Groot, 1990; Bandura, 1997）。
+> - **2000s–2010s — 教师自我效能感与[[Epistemological Beliefs|认识论信念]]研究深化** 研究重点拓展至教师群体（Teacher Self-Efficacy），揭示教师效能感与[[Classroom Management|课堂管理]]、[[Inquiry-Based Learning|探究式教学]]实施及自身认识论信念的双向重塑机制（Buehl & Beck, 2015；[[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers, 2015]]）。
+> - **2020s — 认知迷思批判与科学传播视野拓展** 贝萨（[[Argument_Besa_2024_UW|Besa, 2024]]）等学者将自我效能感引入[[Educational Science Communication|教育科学传播]]与神经神话批判语境，揭示本质主义标签对学生效能感的隐性侵蚀，强调通过循证[[Knowledge Mobilisation|知识动员]]维护学习者与教师的专业效能。
+> - **2023 — 科学探究实践与学科非认知效能整合** [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 明确确立了探究式学习在培育科学自我效能感、科学本质观（NOS）与[[Epistemology|认识论]]动因（[[Epistemic Agency]]）上的不可替代性，拓展了自我效能感在现代科学教育评价中的维度。
 
 ---
 
@@ -175,9 +210,9 @@ updated: 2026-09-18
 > > 争论围绕自我效能感应当严格限定于微观特定任务情境（Bandura 经典取向），还是可以抽象为跨情境的“一般自我效能感（General Self-Efficacy, GSE）”特质。经典学者强调特定性才能精准预测因果行为，而人格心理学者主张一般效能感有助于评估个体的普遍适应性。
 >
 > > [!axis] 效能感过高导致的盲目自信风险
-> > 极高的自我效能感通常被视作积极心理资本，但过度膨胀的效能信念可能导致个体低估任务难度、忽视反驳性证据与拒绝必要的方法调整，形成认知盲区与风险低估。
+> > 极高的自我效能感通常被视作积极心理资本，但过度膨胀的效能信念可能导致个体低估任务难度、忽视[[Refutational Evidence|反驳性证据]]与拒绝必要的方法调整，形成认知盲区与风险低估。
 
-> [!critique] 唯意志论倾向与结构性忽视批判
+> [!critique] [[Voluntarism|唯意志论]]倾向与结构性忽视批判
 > 批判社会学者指出，过度强调自我效能感容易陷入“唯意志论（voluntarism）”的认知陷阱，将学生的学业落后或教师的教学倦怠完全归咎于个体心理胜任信念不足，掩盖了学校资源匮乏、家庭社会经济地位劣势及制度支持缺失等深层结构性矛盾。
 
 > [!warning] 适用局限
@@ -194,12 +229,14 @@ updated: 2026-09-18
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] | [[Theory of Knowledge\|TOK]]教龄：4-9年中等经验组 vs 1-3年新手组 | 教学信心量表得分（教师自我效能感代理指标） | 274 vs 289 | 4-9年组 M=3.35(SD=0.42) vs 新手组 M=3.17(SD=0.47) | $d = 0.40$* | $p<.001$ | 量化横截面调查。证明了在教授复杂探究性课程时，长期的实践经验能提升教师自我效能。高度依赖自我报告数据。（*注：效应量基于原文 M, SD, N 补算） |
 > | 同上（Bergeron & Rogers） | TOK教龄：10年以上资深组 vs 1-3年新手组 | 教学信心量表得分（教师自我效能感代理指标） | 105 vs 289 | 10年以上组 M=3.40(SD=0.40) vs 新手组 M=3.17(SD=0.47) | $d = 0.51$* | $p<.001$ | 同上。 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | [[Inquiry-Based Learning\|指导式探究]]学习 vs. 传统单向[[Direct Instruction\|直接讲授]] | 科学自我效能感、科学探究实践素养与科学本质观（NOS） | K-12 科学探究[[Document\|文献]]综合与实证综述 | — | 探究在非认知与效能维度展现独特增益 | 综合文献[[Chain of Evidence\|证据链]]确证 | [[Systematic Review\|系统综述]]；确立探究式教学在培养自我效能感、科学兴趣等[[Epistemology\|认识论]]维度的独特不可替代性 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 详细梳理了班杜拉关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制调控学习者动机的基础心理学模型。
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统阐明[[Inquiry-Based Learning|探究式学习]]在培养学生科学自我效能感、科学本质观（NOS）与[[Epistemology|认识论]]动因（[[Epistemic Agency]]）上的独特育人机制，突破了将教学法成效窄化为单一事实概念测验的局限。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 详细梳理了[[Albert Bandura|班杜拉]]关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制调控学习者动机的基础心理学模型。
 > - [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] — 将自我效能感拓展至教师群体（Teacher Efficacy），通过跨国大样本调查证实教龄累积与复杂探究课程（如[[Theory of Knowledge|知识论]]）的成功实施能够显著提升教师教学效能感。
-> - [[Argument_Besa_2024_UW|Besa (2024)]] — 揭示未经检验的教育神经神话（如学习风格假说）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。
+> - [[Argument_Besa_2024_UW|Besa (2024)]] — 揭示未经检验的教育神经神话（如[[Learning Style Myth|学习风格假说]]）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。
