@@ -6488,7 +6488,8 @@
       "助产术",
       "产婆术",
       "苏格拉底式对话",
-      "Socratic inquiry"
+      "Socratic inquiry",
+      "苏格拉底诘问"
     ]
   },
   {
@@ -6944,7 +6945,9 @@
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Working Memory.md",
     "aliases": [
-      "工作记忆"
+      "工作记忆",
+      "工作记忆系统",
+      "短时工作记忆"
     ]
   },
   {
@@ -10674,7 +10677,12 @@
     "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md",
     "aliases": [
       "知识生产",
-      "知识建构"
+      "知识建构",
+      "知识生成",
+      "协作知识建构",
+      "Knowledge Construction",
+      "Knowledge Building",
+      "Collaborative Knowledge Construction"
     ]
   },
   {

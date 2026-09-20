@@ -5,6 +5,42 @@
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
     },
     {
+      "basename": "Executive Function",
+      "path": "wiki/concepts/learning-science-cognitive-science/Executive Function.md"
+    },
+    {
+      "basename": "Control of Variables Strategy",
+      "path": "wiki/concepts/instruction-pedagogy/Control of Variables Strategy.md"
+    },
+    {
+      "basename": "Heterogeneity",
+      "path": "wiki/concepts/research-methodology/Heterogeneity.md"
+    },
+    {
+      "basename": "Scientific Literacy",
+      "path": "wiki/concepts/competency-and-assessment/Scientific Literacy.md"
+    },
+    {
+      "basename": "Learning Gain",
+      "path": "wiki/concepts/higher-education/Learning Gain.md"
+    },
+    {
+      "basename": "Socratic Dialogue",
+      "path": "wiki/concepts/instruction-pedagogy/Socratic Dialogue.md"
+    },
+    {
+      "basename": "Scaffolding",
+      "path": "wiki/concepts/instruction-pedagogy/Scaffolding.md"
+    },
+    {
+      "basename": "Working Memory",
+      "path": "wiki/concepts/learning-science-cognitive-science/Working Memory.md"
+    },
+    {
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
+    },
+    {
       "basename": "Cognitive Load Theory",
       "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
     },
@@ -27,10 +63,6 @@
     {
       "basename": "Clark A. Chinn",
       "path": "wiki/persons/us/Clark A. Chinn.md"
-    },
-    {
-      "basename": "Control of Variables Strategy",
-      "path": "wiki/concepts/instruction-pedagogy/Control of Variables Strategy.md"
     },
     {
       "basename": "Meta-analysis",
@@ -167,38 +199,6 @@
     {
       "basename": "Evidence for Education Network",
       "path": "wiki/facts/global/Evidence for Education Network.md"
-    },
-    {
-      "basename": "What Works Clearinghouse",
-      "path": "wiki/facts/us/What Works Clearinghouse.md"
-    },
-    {
-      "basename": "Institute of Education Sciences",
-      "path": "wiki/facts/us/Institute of Education Sciences.md"
-    },
-    {
-      "basename": "Evidence-Based Education",
-      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
-    },
-    {
-      "basename": "Argument_Serpell_2020_EP",
-      "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Serpell_2020_EP.md"
-    },
-    {
-      "basename": "Argument_Steiner-Khamsi_2024_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
-    },
-    {
-      "basename": "Governing by Numbers",
-      "path": "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
-    },
-    {
-      "basename": "A Nation at Risk 1983",
-      "path": "wiki/facts/us/A Nation at Risk 1983.md"
-    },
-    {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
     }
   ],
   "omittedPaths": [],
