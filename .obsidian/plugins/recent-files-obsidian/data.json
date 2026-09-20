@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Epistemic Agency",
-      "path": "wiki/concepts/educational-psychology/Epistemic Agency.md"
-    },
-    {
       "basename": "Argument_DeJong_2023_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
+    },
+    {
+      "basename": "Cognitive Load Theory",
+      "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
+    },
+    {
+      "basename": "Correlational Research",
+      "path": "wiki/methods/quantitative/Correlational Research.md"
+    },
+    {
+      "basename": "Problem Solving",
+      "path": "wiki/concepts/competency-and-assessment/Problem Solving.md"
+    },
+    {
+      "basename": "Direct Instruction",
+      "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
+    },
+    {
+      "basename": "Epistemic Agency",
+      "path": "wiki/concepts/educational-psychology/Epistemic Agency.md"
     },
     {
       "basename": "Clark A. Chinn",
@@ -17,20 +33,12 @@
       "path": "wiki/concepts/instruction-pedagogy/Control of Variables Strategy.md"
     },
     {
-      "basename": "Cognitive Load Theory",
-      "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
-    },
-    {
       "basename": "Meta-analysis",
       "path": "wiki/methods/quantitative/Meta-analysis.md"
     },
     {
       "basename": "John Sweller",
       "path": "wiki/persons/australia/John Sweller.md"
-    },
-    {
-      "basename": "Direct Instruction",
-      "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
     },
     {
       "basename": "Inquiry-Based Learning",
@@ -191,14 +199,6 @@
     {
       "basename": "Academic Achievement",
       "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
-      "basename": "BHP Foundation",
-      "path": "wiki/facts/australia/BHP Foundation.md"
-    },
-    {
-      "basename": "What Works Network",
-      "path": "wiki/facts/uk/What Works Network.md"
     }
   ],
   "omittedPaths": [],
