@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
     },
     {
+      "basename": "Michael Barber",
+      "path": "wiki/persons/uk/Michael Barber.md"
+    },
+    {
+      "basename": "Education Endowment Foundation",
+      "path": "wiki/facts/uk/Education Endowment Foundation.md"
+    },
+    {
       "basename": "David Gonski",
       "path": "wiki/persons/australia/David Gonski.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Federal Ministry of Education and Research",
       "path": "wiki/facts/germany/Federal Ministry of Education and Research.md"
-    },
-    {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
     },
     {
       "basename": "Building a Global Evidence Ecosystem for Teaching",
@@ -195,10 +199,6 @@
     {
       "basename": "Philanthrocapitalism",
       "path": "wiki/concepts/political-economy-geopolitics/Philanthrocapitalism.md"
-    },
-    {
-      "basename": "RAiSE Programme",
-      "path": "wiki/facts/uk/RAiSE Programme.md"
     }
   ],
   "omittedPaths": [],
