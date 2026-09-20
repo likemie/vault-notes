@@ -10,9 +10,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "国家级教育筹款中介慈善机构"
 headquarters: "悉尼，澳大利亚"
@@ -30,6 +30,10 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Paradigm]]"
   - "[[Venture Philanthropy]]"
+  - "[[Network Governance]]"
+  - "[[Relational Space]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Assemblage]]"
 related_theories: []
 related_methods:
   - "[[Network Ethnography]]"
@@ -41,12 +45,13 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Evidence for Learning]]"
   - "[[Gonski Reforms]]"
+  - "[[Australian Philanthropic Services]]"
 related_arguments:
   - "[[Argument_Rowe_2023_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-19
+updated: 2026-09-20
 ---
 
 # Australian Schools Plus
@@ -152,3 +157,12 @@ updated: 2026-09-19
 > | [[Gonski Reforms]] | Fact (Policy) | 催生学校加计划成立的国家级学校资助审查改革背景。 |
 > | [[David Gonski]] | Person | 审查报告主笔人，兼任学校加计划慈善先驱者委员会主席。 |
 > | [[Australian Education Research Organisation]] | Fact (Organization) | 处于同一[[Policy Network\|政策网络]]内部、共享董事与资助节点的国家级证据中介实体。 |
+| [[Network Governance]] | Concept | 学校加计划所体现的以公私伙伴关系、税法特许与项目竞标替代国家统一供给的治理形态。 |
+| [[Relational Space]] | Concept | 学校加计划与 SVA、E4L、AERO 共同装配构筑的排他性防野狗围栏式关系拓扑。 |
+
+---
+
+## 相关研究索引
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 结合监管文件、税法修正案与访谈，系统揭示澳大利亚学校加计划作为 SVA 衍生中介机构的创设过程、DGR1 免税特许机制及其对公共教育民主问责的侵蚀。

@@ -10,10 +10,10 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 42
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: "intermediary"
 headquarters: "Sydney, Australia"
 established: "2014"
@@ -41,6 +41,9 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
+  - "[[Network Governance]]"
+  - "[[Relational Space]]"
+  - "[[Assemblage]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -64,6 +67,7 @@ related_facts:
   - "[[Gonski 2.0]]"
   - "[[Evidence for Education Network]]"
   - "[[Evidence Network]]"
+  - "[[Australian Philanthropic Services]]"
 related_arguments:
   - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
@@ -72,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-19
+updated: 2026-09-20
 ---
 
 # Evidence for Learning
@@ -199,6 +203,8 @@ updated: 2026-09-19
 > | [[Policy Network]] | Concept | E4L 是澳洲连接跨国[[Venture Philanthropy\|风险慈善]]、商业银行与教育部委的枢纽节点。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 详细解构 E4L 作为 SVA 全资子公司、中立表象以及游说 AERO 的因果链条。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 E4L 作为 SVA 辐射网络中的战略技术原型，以及其与国家法定证据中介的转译连接。 |
+> | [[Network Governance]] | Concept | E4L 作为公私中介所践行的以工具包量规统摄、项目制试验与异层契约为特征的网络治理形态。 |
+> | [[Relational Space]] | Concept | E4L 作为耐用材料（因果证据工具包）在关系空间中将商业秩序固化并长程延展的关键中介。 |
 
 ---
 

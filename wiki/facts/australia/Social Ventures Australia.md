@@ -11,9 +11,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "风险慈善机构 / 社会影响力投资与咨询机构"
 headquarters: "悉尼与墨尔本，澳大利亚"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Paradigm]]"
   - "[[Relational Space]]"
+  - "[[Network Governance]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Australian Schools Plus]]"
@@ -62,7 +63,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-19
+updated: 2026-09-20
 ---
 
 # Social Ventures Australia
@@ -186,4 +187,13 @@ updated: 2026-09-19
 > | [[Gonski Reforms]] | Fact (Policy) | SVA 借助其文化声誉与第 23 条建议实现政策落地的重大国家审查。 |
 > | [[Policy Network]] | Concept | SVA 所处并深度构建的政商学公私交叉治理网络。 |
 > | [[Assemblage]] | Concept | SVA 借助耐用材料在[[Relational Space\|关系空间]]中装配起的社会-物质网络构型。 |
+| [[Network Governance]] | Concept | SVA 作为核心中介枢纽所驱动的以异层协商、契约分包与市场缔造为特征的网络治理模式。 |
+
+---
+
+## 相关研究索引
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 依托公司监管档案与政策追踪，系统揭示 SVA 如何借由共同从属网络与四层控股架构，游说创设国家证据经纪机构 AERO 并实现国家科研议程的私营分包。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 结合 Gephi 网络拓扑与税法追踪，深入剖析由 SVA 辐射衍生的风险慈善网络如何跨越二十年重构澳大利亚资本主义国家实践，推动公共财富向免税中介逆向流动。
 
