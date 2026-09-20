@@ -10,10 +10,10 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 43
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/pedagogy
   - theme/science-education
@@ -35,13 +35,14 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Procedural Skill]]"
   - "[[Metacognition]]"
+  - "[[Computer Simulation]]"
   - "[[Paradigm]]"
+  - "[[Productive Failure]]"
   - "[[Executive Function]]"
   - "[[Constructivist Paradigm]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
-  - "[[Computer Simulation]]"
   - "[[Literature Review]]"
   - "[[Academic Achievement]]"
 related_theories:
@@ -66,6 +67,7 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
+  - "[[Web-based Inquiry Science Environment]]"
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
 confidence: high
@@ -116,7 +118,7 @@ updated: 2026-09-21
 > [!feature] 核心要素
 > - **自主生成新知（Generating New Knowledge）** 学习者通过调查生成对其自身而言全新的概念理解，而非单纯验证教师事先讲授的定论。
 > - **高阶主动参与（Active Intellectual Work）** 学习者进行实质性的深层认知加工（包括精细化、自我解释与[[Metacognition|元认知监控]]），而非机械应答。
-> - **依托经验证据（Using Evidence）** 结论的推导必须严格扎根于物理实验、虚拟仿真数据或信息文本等实证线索。
+> - **依托经验证据（Using Evidence）** 结论的推导必须严格扎根于物理实验、[[Computer Simulation|虚拟仿真]]数据或信息文本等实证线索。
 > - **行使[[Epistemic Agency|认识能动性]]（Epistemic Agency）** 学习者对学习过程拥有自主裁决权，能够提出自己的探究问题并对模型合理性负责。
 > - **复杂推理协调（Complex Reasoning）** 协调多源证据，评估替代性解释，妥善处理实验数据中的反常与异常值。
 > - **共同体批判协商（Collaborative Community）** 将探究方法与结论向学习共同体公开，直面同伴质疑并在协商中开展社会化建构。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]
@@ -164,7 +166,7 @@ updated: 2026-09-21
 > 直接教学与探究式学习并非非此即彼的对立[[Paradigm|范式]]。在教学进程的不同节点灵活配置两种教学行为，能够兼顾概念表征的深度建构与外在负荷的有效控制。
 
 > [!claim] De Jong et al.
-> **多节点时序互补与即时支架嵌入** 探究与直接指导的最佳结合方式因教学目标与任务情境而异：既可采用先直接讲授基础知识再开展复杂探究的演进路径，也可采用先探究遭遇挫折以激活认知图式、随后提供直接讲授的生产性失败路径（Productive Failure），更可在探究过程中嵌入按需触发的即时解释与自适应提示。这种时序协同消解了二元对立，实现了深层概念内化。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
+> **多节点时序互补与即时支架嵌入** 探究与直接指导的最佳结合方式因教学目标与任务情境而异：既可采用先直接讲授基础知识再开展复杂探究的演进路径，也可采用先探究遭遇挫折以激活认知图式、随后提供直接讲授的[[Productive Failure|生产性失败]]路径（Productive Failure），更可在探究过程中嵌入按需触发的即时解释与自适应提示。这种时序协同消解了二元对立，实现了深层概念内化。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
 
 > [!claim] Dean & Kuhn
 > **长效保持与自主探究练习的不可替代性** 在[[Control of Variables Strategy|变量控制策略]]（Control of [[Variable|variables]] Strategy, CVS）的教学干预中，虽然单纯直接讲授能够在即时[[Pre-test and Post-test|后测]]中达成高通过率，但经历 13 周延迟后测时，仅接受直接讲授的学生保持率出现断崖式下跌；唯有经历持续探究练习或直接教学与探究结合的学生，才展现出卓越的长效保持与迁移能力。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 3)]]
@@ -257,7 +259,7 @@ updated: 2026-09-21
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Minner et al., 2010） | 138 项包含探究要素的实证研究（42 项严格受控比较研究） | [[Systematic Review\|系统综述]]与受控实验亚组分析 | 概念知识习得与探究饱和度 | 全样本中 51% 报告正向效应，仅 2% 为负向；42 项受控研究中 55% 证实高探究饱和度显著优于低探究，仅 1 项（2%）低探究占优 | 具有统计学显著性 | 跨越数十年理科实证研究，推翻了直接教学在概念知识上普遍优于探究的断言 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Smetana & Bell, 2012） | 61 项计算机模拟探究与讲授/实验对比研究 | 系统[[Literature Review\|文献综述]] | 科学理解与概念掌握 | 49 项研究（80%）表明计算机模拟探究组具有明显学业优势 | 定性实证梳理 | 强调计算机模拟必须配套高质量支持结构方能充分发挥探究效能 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Teig, 2022） | [[PISA\|国际学生评估项目]]（PISA）2015 与[[TIMSS\|国际数学与科学趋势研究]]（TIMSS）跨国大规模评估数据（数十万中学生） | 大规模横截面多层相关分析与非线性多项式回归 | 探究教学频次与科学[[Academic Achievement\|学业成绩]] | 探究活动频次与科学成绩呈显著倒 U 型曲线（Curvilinear）；探究与教师直接指导融合时增益最大 | 跨国跨数据库高度稳健 | 证明过度开放的高频探究或单一机械灌输均非最优，最佳效益来自直接指导与探究的有机结合 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 6)]]<br>（引述 Linn et al., 2014; Krajcik et al., 2014; Songer et al., 2009） | 涵盖全州与学区数万名学生的多年期课程改革项目（如基于网络的探究科学环境 WISE、全要素科学调查课程 IQWST） | 课程级长周期准实验与全州统考追踪 | 标准化科学统考成绩与概念理解表现 | 接受完整探究课程的学生在全州标准化科学统考中的及格率与高分率显著超越学区对照组 | 跨多年、跨学校大规模队列效应稳健 | 强力反驳了探究教学无法提升宏观标准化测验成绩的质疑，证实结构化探究课程的规模化优势 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 6)]]<br>（引述 Linn et al., 2014; Krajcik et al., 2014; Songer et al., 2009） | 涵盖全州与学区数万名学生的多年期课程改革项目（如基于网络的探究科学环境 [[Web-based Inquiry Science Environment\|WISE]]、全要素科学调查课程 IQWST） | 课程级长周期准实验与全州统考追踪 | 标准化科学统考成绩与概念理解表现 | 接受完整探究课程的学生在全州标准化科学统考中的及格率与高分率显著超越学区对照组 | 跨多年、跨学校大规模队列效应稳健 | 强力反驳了探究教学无法提升宏观标准化测验成绩的质疑，证实结构化探究课程的规模化优势 |
 
 ---
 

@@ -6,10 +6,10 @@ summary: "澳大利亚认知与教育心理学家，新南威尔士大学名誉�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 22
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 29
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1946"
 died: ""
 lifespan: "1946–至今"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Control of Variables Strategy]]"
+  - "[[Productive Failure]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -178,7 +179,7 @@ updated: 2026-09-21
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批评其受保守派智库资助的论著被政治化动员为强制推行脚本化教学、剥夺大学教师教育自主权的[[Disciplina and Doctrina|规训]]工具。
 
 > [!warning] 未解问题与边界
-> 随着学习科学对探究时序性（如生产性失败中探究前置以激活认知图式、随后直接讲授）的深入探索，Sweller 关于“初学者任何时候都必须先接受显性直接示范”的绝对化断言正面临越来越多的实验边界修正。学界共识逐渐倾向于探讨直接教学与探究实践在认知发展不同阶段的动态时序互补，而非固守二元对立。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
+> 随着学习科学对探究时序性（如[[Productive Failure|生产性失败]]中探究前置以激活认知图式、随后直接讲授）的深入探索，Sweller 关于“初学者任何时候都必须先接受显性直接示范”的绝对化断言正面临越来越多的实验边界修正。学界共识逐渐倾向于探讨直接教学与探究实践在认知发展不同阶段的动态时序互补，而非固守二元对立。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
 
 ---
 

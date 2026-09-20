@@ -11,9 +11,9 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dcfce7"
 issuing_organization: Massey University
 citation: "O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Final report to NZEI Te Riu Roa, NZPPTA Te Wehengarua, and NZPF Ngā Tumuaki o Aotearoa. Massey University."
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Policy Entrepreneur]]"
   - "[[Literature Search]]"
+  - "[[Social Impact Investing]]"
   - "[[Analytical Stance]]"
 related_theories: []
 related_methods:
@@ -43,7 +44,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-07-09'
+updated: '2026-09-21'
 year: 2016
 doi: ""
 citation_aliases:
@@ -79,7 +80,7 @@ citation_aliases:
 > 1. **前提/观察** 自 2008 年以来，国家党领导的政府积极鼓励和促进多样化私营部门行动者进入新西兰公立学校教育的"管理市场"
 > 2. **论证步骤**
 >    - 公立学校私有化以两种形式出现：使学校更像企业运营；将私营部门引入公立学校
->    - 政府政策话语从"政府资助和提供"转向"政府补贴"和"社会投资"，从普遍主义转向有针对性供给
+>    - 政府政策话语从"政府资助和提供"转向"政府补贴"和"[[Social Impact Investing|社会投资]]"，从普遍主义转向有针对性供给
 >    - 新西兰慈善法允许非营利慈善机构设立营利性子机构，模糊公私参与的概念和实践区分
 >    - 六案例（Pearson / [[Cognition Education|Cognition Education]] / CORE Education / [[Foundation North Māori and Pasifika Education Initiative|Foundation North]] / COMET / Kidscan）展示了私营部门参与的多样性
 >    - EMOs 从系统取出的资金可能超过以合同服务和慈善捐赠形式返还的价值

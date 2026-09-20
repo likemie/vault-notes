@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
     },
     {
+      "basename": "Heterogeneity",
+      "path": "wiki/concepts/research-methodology/Heterogeneity.md"
+    },
+    {
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
+    },
+    {
       "basename": "Business as Usual",
       "path": "wiki/concepts/research-methodology/Business as Usual.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Control of Variables Strategy",
       "path": "wiki/concepts/instruction-pedagogy/Control of Variables Strategy.md"
-    },
-    {
-      "basename": "Heterogeneity",
-      "path": "wiki/concepts/research-methodology/Heterogeneity.md"
     },
     {
       "basename": "Scientific Literacy",
@@ -195,10 +199,6 @@
     {
       "basename": "Relational Space",
       "path": "wiki/concepts/comparative-education/Relational Space.md"
-    },
-    {
-      "basename": "Co-affiliation",
-      "path": "wiki/concepts/educational-policy-reform/Co-affiliation.md"
     }
   ],
   "omittedPaths": [],

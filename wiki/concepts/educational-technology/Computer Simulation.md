@@ -9,10 +9,10 @@ aliases:
 summary: "对真实世界复杂系统的计算机建模与交互式表征，既作为教育研究中基于复杂性理论检验假设与探索涌现规律的建模方法，又作为科学教育中为学习者提供可操纵变量与实时反馈的数字化探究微世界"
 type: concept
 domain: "educational-technology"
-related_count: 26
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 42
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - educational-technology
   - research-methodology
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Socratic Dialogue]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
+  - "[[Productive Failure]]"
   - "[[Control of Variables Strategy]]"
   - "[[Independent Variable]]"
   - "[[Ontology]]"
@@ -63,7 +64,8 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Web-based Inquiry Science Environment]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
   - "[[Argument_DeJong_2023_ERR]]"
@@ -97,7 +99,7 @@ updated: 2026-09-21
 > [!citation-card] 德容等论数字化模拟探究对概念理解的实证优势
 > 现代科学教育的实证全景表明，数字化模拟实验极大地赋能了探究教学。在配备了有效指导结构的虚拟仿真环境中，超过 80% 的实证研究证实计算机模拟探究优于传统讲授；大规模元分析进一步确证，仿真探究在学科内容知识、科学推理技能以及情意态度上全面显著超越非仿真传统教学。（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 5]]）
 >
-> *Smetana and Bell (2012) reviewed 61 studies... 80% of the studies showed that computer simulations, when accompanied by support structures, were more effective than traditional instruction... d'Angelo et al. (2014) performed a meta-analysis on 59 studies and found that simulation-based inquiry was significantly more effective than non-simulation instruction for content knowledge, reasoning skills, and attitudes.*
+> *Smetana & Bell (2012) reviewed 61 studies... 80% of the studies showed that computer simulations, when accompanied by support structures, were more effective than traditional instruction... d'Angelo et al. (2014) performed a meta-analysis on 59 studies and found that simulation-based inquiry was significantly more effective than non-simulation instruction for content knowledge, reasoning skills, and attitudes.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Virtual World|虚拟世界]]（Virtual World） — 模拟由底层确定的数学物理算法完全驱动，旨在揭示特定规律；虚拟世界由自由参与者的社交互动驱动，具有无界性与社会涌现性。
@@ -206,7 +208,7 @@ updated: 2026-09-21
 > [!dev-timeline] 概念演变
 > - **1970–1980 年代 — 确定性模拟与行为模拟起步** 基于牛顿-拉普拉斯[[Determinism|因果决定论]]，主要通过封闭数学方程组在受控情境下运行物理轨迹计算与职业技能行为模拟（如飞行模拟器）。（Palys, 1978）
 > - **1990 年代 — [[Complexity Theory|复杂性理论]]与基于主体建模（[[Agent-based Modelling|ABM]]）兴起** 突破纯确定性框架，引入随机过程与复杂自适应系统理论；[[Agent-based Modelling|基于主体的建模]]（ABM）成为教育社会学探索种族隔离、同伴效应[[Emergence|涌现]]的重要定量工具。（Cohen et al., 2011）
-> - **2000–2010 年代 — 科学探究数字化微世界全盛期** 随着互联网普及，以 PhET（科罗拉多大学）、WISE（伯克利）与 Molecular Workbench 为代表的交互式物理、化学仿真微世界全面进入课堂，成为转变前概念迷思的主流技术。（Moore & Perkins, 2018; Slotta & Linn, 2009）
+> - **2000–2010 年代 — 科学探究数字化微世界全盛期** 随着互联网普及，以 PhET（科罗拉多大学）、[[Web-based Inquiry Science Environment|WISE]]（伯克利）与 Molecular Workbench 为代表的交互式物理、化学仿真微世界全面进入课堂，成为转变前概念迷思的主流技术。（Moore & Perkins, 2018; Slotta & Linn, 2009）
 > - **2014–2018 年代 — 权威[[Meta-analysis|元分析]]确立模拟探究循证优势** Smetana & Bell (2012) 与 d'Angelo et al. (2014) 元分析全面确立了模拟探究在内容知识与科学推理上的显著优势，学界焦点从“模拟是否有效”全面转向“如何为模拟提供最优支架”。
 > - **2020–至今 — 眼动追踪、即时介入与 AI 自适应智能仿真** 深度融合眼动仪（van der Graaf et al., 2020）、教育数据挖掘与智能代理（Rex, Inq-[[Intelligent Tutoring Systems|ITS]]），实现对学生探究路径的秒级自动诊断、即时[[Direct Instruction|直接讲授]]（Just-in-Time DI）与教师看板联动。（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 8–10]]）
 
@@ -248,7 +250,7 @@ updated: 2026-09-21
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | d'Angelo et al. (2014)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]） | 干预因素：基于计算机模拟的探究教学对比非模拟传统教学 | $k = 59$ / 128 个效应量 | 标准化平均差（SMD） | 模拟探究组显著优于非模拟组（$p < .05$） | 涵盖内容知识、推理技能与态度 | 证实模拟探究在科学知识习得与探究技能发展上具有全面跨领域的显著优势 |
-> | Smetana & Bell (2012)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]） | 干预因素：配备支持结构的计算机模拟探究教学有效性[[Systematic Review\|系统综述]] | $k = 61$ 篇实证研究 | 优势率统计（Vote-counting） | 80% 研究证实模拟探究显著优于传统讲授 | 涵盖物理、化学、生物与地球科学 | 强调模拟必须配备引导问题或[[Scaffolding\|认知支架]]，缺乏支架的开放模拟成效大幅下滑 |
+> | Smetana & Bell (2012)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 干预因素：配备支持结构的计算机模拟探究教学有效性[[Systematic Review\|系统综述]] | $k = 61$ 篇实证研究 | 优势率统计（Vote-counting） | 80% 研究证实模拟探究显著优于传统讲授 | 涵盖物理、化学、生物与地球科学 | 强调模拟必须配备引导问题或[[Scaffolding\|认知支架]]，缺乏支架的开放模拟成效大幅下滑 |
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -283,8 +285,8 @@ updated: 2026-09-21
 > | [[Control of Variables Strategy]] | 概念 | 计算机模拟提供了冻结无关[[Variable\|变量]]与精准操纵[[Independent Variable\|自变量]]的最优正交实验平台。 |
 > | [[Complexity Theory]] | 理论 | 计算机模拟作为研究建模工具时赖以立足的核心[[Ontology\|本体论]]与方法论基础。 |
 > | [[Agent-based Modelling]] | 方法 | 计算机模拟在社会科学与教育宏观系统研究中的代表性实现方法。 |
-> | [[Argument_DeJong_2023_ERR]] | 论证 | 权威综述系统汇总多项[[Meta-analysis\|元分析]]确立配备支架的模拟探究对传统教学的循证优势。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]] | 论证 | 权威方法论专著系统阐发计算机模拟的哲学基础、建模特征与[[Epistemology\|认识论]]局限。 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述系统汇总多项[[Meta-analysis\|元分析]]确立配备支架的模拟探究对传统教学的循证优势。 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011)]] | 论证 | 权威方法论专著系统阐发计算机模拟的哲学基础、建模特征与[[Epistemology\|认识论]]局限。 |
 
 ---
 

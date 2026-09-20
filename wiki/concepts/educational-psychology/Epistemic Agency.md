@@ -7,10 +7,10 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/epistemic-cognition
   - theme/science-education
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
+  - "[[Computer Simulation]]"
   - "[[Scaffolding]]"
   - "[[Learner Autonomy]]"
   - "[[Reliability]]"
@@ -81,7 +82,7 @@ updated: 2026-09-21
 
 > [!boundary]- 概念边界
 > - **不等于普通行为参与（Behavioral Engagement）** 行为参与仅指学生在课堂中有动手操作、举手发言或阅读材料的行为表象；认识能动性特指对“知识主张何以成立”与“评判标准何以合法”拥有实质的反思与裁决权。
-> - **不等于无约束的相对主义臆测** 认识能动性并非脱离事实的任性自流，而是深深扎根于物理实验数据、虚拟仿真证据与科学共同体同行评议的严谨因果约束之中。
+> - **不等于无约束的相对主义臆测** 认识能动性并非脱离事实的任性自流，而是深深扎根于物理实验数据、[[Computer Simulation|虚拟仿真]]证据与科学共同体同行评议的严谨因果约束之中。
 > - **不等于否定教师教学指导** 认识能动性不是剥离教师指导，而是在教师提供过程约束、概念提示等高质量[[Scaffolding|脚手架]]的前提下，确保认知控制权与反思权保留在学生手中。
 
 ---

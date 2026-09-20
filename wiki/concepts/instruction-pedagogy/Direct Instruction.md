@@ -7,10 +7,10 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 57
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - direct-instruction
   - explicit-instruction
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
+  - "[[Productive Failure]]"
   - "[[Control of Variables Strategy]]"
   - "[[Procedural Knowledge]]"
   - "[[Effective Teaching]]"
@@ -200,7 +201,7 @@ updated: 2026-09-21
 > 探讨直接教学与学生探究在[[Knowledge Production|知识建构]]不同阶段的功能分工，反思脱离探究练习的单一直接教学在长周期保持上的局限。
 
 > [!claim] De Jong et al.
-> **长效保持中单一讲授的脆弱性与探究时序互补** 单一的直接教学尽管能减少学习初期的错误并提高即时测验成绩，但在缺乏持续主动探究和情境化练习的情况下，无法促成知识的长效保持与向新情境的远迁移。直接教学与[[Inquiry-Based Learning|探究式学习]]并非非此即彼的对立[[Paradigm|范式]]：直接教学可作为探究的前置知识铺垫、探究过程中的即时解释支架，或置于自主探索引发认知冲突之后的概念澄清环节（如生产性失败），二者的时序融合才能达成深度学习。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
+> **长效保持中单一讲授的脆弱性与探究时序互补** 单一的直接教学尽管能减少学习初期的错误并提高即时测验成绩，但在缺乏持续主动探究和情境化练习的情况下，无法促成知识的长效保持与向新情境的远迁移。直接教学与[[Inquiry-Based Learning|探究式学习]]并非非此即彼的对立[[Paradigm|范式]]：直接教学可作为探究的前置知识铺垫、探究过程中的即时解释支架，或置于自主探索引发认知冲突之后的概念澄清环节（如[[Productive Failure|生产性失败]]），二者的时序融合才能达成深度学习。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
 
 > [!claim] Dean & Kuhn
 > **探究练习对直接教学长效保持的巩固效应** 在[[Control of Variables Strategy|变量控制策略]]（CVS）的受控追踪实验中，单纯接受直接教学的学生在学习 13 周后技能保持率暴跌至 31%，而接受直接教学与自主探究练习相结合的学生保持率高达 83%。这表明直接教学所建立的表层[[Procedural Knowledge|程序知识]]若不经历情境化探究与验证的深层加工，极易迅速衰退。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 3)]]

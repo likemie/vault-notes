@@ -10,12 +10,12 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-period: "1997–至今"
-initiator_organization: "加州大学伯克利分校（UC Berkeley）与美国国家科学基金会（NSF）"
-fact_related_count: 20
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
-fact_related_color: "#fed7aa"
+fact_related_color: "#ede9fe"
+period: "1997–至今"
+initiator_organization: "加州大学伯克利分校（UC Berkeley）与美国国家科学基金会（NSF）"
 tags:
   - region/us
   - level/k12
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Ecological Validity]]"
   - "[[Computer Simulation]]"
+  - "[[Productive Failure]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -164,4 +165,4 @@ updated: 2026-09-21
 > | [[Computer Simulation]] | 概念 | 交互式虚拟仿真微世界构成了 WISE 探究单元的核心教学介质。 |
 > | [[Productive Failure]] | 概念 | WISE 探究平台经常被用作在正式概念讲授前开展劣构试错的前置环境。 |
 > | [[Scaffolding]] | 概念 | WISE 平台集成了从过程提示、动态可视化到 NLP 智能批改的多层脚手架。 |
-> | [[Argument_DeJong_2023_ERR]] | 论证 | 权威综述将 WISE 作为反驳直接教学垄断、确立课程级探究实效的核心证据。 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述将 WISE 作为反驳直接教学垄断、确立课程级探究实效的核心证据。 |

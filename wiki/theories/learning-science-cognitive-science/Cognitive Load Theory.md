@@ -7,7 +7,7 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与关联负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 47
+theory_related_count: 48
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -29,10 +29,12 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
+  - "[[Productive Failure]]"
   - "[[Interaction Effect]]"
   - "[[Epistemic Agency]]"
   - "[[Control of Variables Strategy]]"
   - "[[Variable]]"
+  - "[[Computer Simulation]]"
   - "[[Dependent Variable]]"
   - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
@@ -112,7 +114,7 @@ updated: 2026-09-21
 > - **1998 — 经典综合与教学效应群确立** Sweller、van Merriënboer 与 Paas 联合发表经典[[Document|文献]]，系统总结分心效应、通道效应、冗余效应与专业反转效应（Expertise Reversal Effect）。
 > - **2006 — 最小指导批判与教学论争** Kirschner、Sweller 与 Clark 发表争议论文，断言未加指导的[[Constructivist Paradigm|建构主义]]与[[Inquiry-Based Learning|探究学习]]因引发工作记忆超载而彻底无效，主张回归[[Direct Instruction|显性直接教学]]（Direct Instruction, DI）。
 > - **2011 — 进化心理学基础整合** Sweller 结合 David C. Geary 进化心理学，提出生物初级知识与生物次级知识划分，论证次级学科知识必须依赖显性指导教学。
-> - **2023 — 学习科学边界审视与时序协同拓展** [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 系统反驳将探究等同于极简指导的狭隘解读，指出辅以支架的指导式探究能有效管理认知负荷，且探究前置（如生产性失败）能激活图式、提高后续讲授的认知接受度。
+> - **2023 — 学习科学边界审视与时序协同拓展** [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 系统反驳将探究等同于极简指导的狭隘解读，指出辅以支架的指导式探究能有效管理认知负荷，且探究前置（如[[Productive Failure|生产性失败]]）能激活图式、提高后续讲授的认知接受度。
 > - **2026 — 生成式 AI 时代：负荷双向分化与[[Epistemic Friction|认识论摩擦]]机制** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 揭示大语言模型（Large Language Model, LLM）在结构化设计中释放外在负荷赋能高阶探究，而在非结构化使用中切除关联负荷（认识论摩擦）导致认知侵蚀的双向分化机制。
 
 ---
@@ -156,7 +158,7 @@ updated: 2026-09-21
 > [!theory-proposition] 命题三｜生物次级知识的获取高度依赖显性指导教学与结构化支架以防止认知超载
 > **解释** 科学、数学等学科知识属于文化创造的生物次级知识，缺乏进化自发习得机制。对于缺乏领域先验知识的新手，若直接置身于无指导的纯发现或极简指导环境中，有限的工作记忆会瞬间被随机试错搜索所占满，导致深层图式建构失败（Sweller, 2021）。然而，在提供合理[[Scaffolding|脚手架]]（如过程约束、概念提示或数字化模拟支持）的[[Inquiry-Based Learning|指导式探究]]中，支架能够动态分担外在负荷，既保护工作记忆不发生过载，又赋予学生深层概念理解所需的[[Epistemic Agency|认识能动性]]。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–5)]]
 >
-> **应用实例** 在小学科学[[Control of Variables Strategy|变量控制策略]]（Control of [[Variable|variables]] Strategy, CVS）教学中，若让学生在完全无指导的情况下自主摸索斜坡小球实验，学生往往同时变动坡度与球重导致实验失效；而在虚拟仿真实验中嵌入变量控制提示模板与即时纠错反馈（指导式探究），学生既能体验科学探索，又不会[[Dependent Variable|因变量]]繁杂而超载。
+> **应用实例** 在小学科学[[Control of Variables Strategy|变量控制策略]]（Control of [[Variable|variables]] Strategy, CVS）教学中，若让学生在完全无指导的情况下自主摸索斜坡小球实验，学生往往同时变动坡度与球重导致实验失效；而在[[Computer Simulation|虚拟仿真]]实验中嵌入变量控制提示模板与即时纠错反馈（指导式探究），学生既能体验科学探索，又不会[[Dependent Variable|因变量]]繁杂而超载。
 
 ---
 
@@ -205,7 +207,7 @@ updated: 2026-09-21
 > > 学界对初学者是否在任何情况下都不适宜开展探究式学习存在长期对立。
 > >
 > > - **认知负荷派（Sweller, Kirschner, Clark, Zhang）** 坚称人类[[Working Memory|工作记忆]]瓶颈决定了任何缺乏显性示范的教学都是低效的，指责倡导探究的政策制定者引发了教育实证危机。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 1–2)]]
-> > - **学习科学与探究派（De Jong, Hmelo-Silver, Chinn）** 指出 Sweller 制造了纯发现假想敌；配备有效支架的指导式探究不仅不会超载，反而在深层概念建构、科学思维与长期记忆保持上显著超越单一直接教学；二者最优[[Paradigm|范式]]在于时序互补（如生产性失败）。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–6)]]
+> > - **学习科学与探究派（De Jong, Hmelo-Silver, Chinn）** 指出 Sweller 制造了纯发现假想敌；配备有效支架的指导式探究不仅不会超载，反而在深层概念建构、科学思维与长期记忆保持上显著超越单一直接教学；二者最优[[Paradigm|范式]]在于时序互补（如[[Productive Failure|生产性失败]]）。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–6)]]
 >
 > > [!axis] 智能工具[[Cognitive Offloading|认知卸载]]：是释放心智资源还是切除深度反思？
 > > 争论外部技术媒介究竟是优化了心智资源配置，还是消解了图式建构必需的认知挣扎。
