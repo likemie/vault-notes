@@ -1759,6 +1759,17 @@
     ]
   },
   {
+    "title": "Nature of Science",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Nature of Science.md",
+    "aliases": [
+      "科学本质",
+      "科学本质观",
+      "NOS",
+      "理解科学本质"
+    ]
+  },
+  {
     "title": "Norm-Referenced Test",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Norm-Referenced Test.md",
@@ -6760,6 +6771,18 @@
     ]
   },
   {
+    "title": "Inhibitory Control",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Inhibitory Control.md",
+    "aliases": [
+      "抑制控制",
+      "抑制能力",
+      "抑制功能",
+      "反应抑制",
+      "response inhibition"
+    ]
+  },
+  {
     "title": "Learning Style Myth",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Learning Style Myth.md",
@@ -8422,7 +8445,6 @@
       "交互效应",
       "交互作用",
       "调节效应",
-      "interaction effect",
       "interaction effects",
       "moderation effect"
     ]
@@ -12306,6 +12328,18 @@
       "佩达斯特探究循环",
       "科学探究阶段模型",
       "Inquiry Learning Cycle"
+    ]
+  },
+  {
+    "title": "Knowledge Integration",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Knowledge Integration.md",
+    "aliases": [
+      "知识整合",
+      "知识整合理论",
+      "知识整合框架",
+      "Knowledge Integration Framework",
+      "KI Framework"
     ]
   },
   {

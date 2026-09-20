@@ -4,17 +4,16 @@ aliases:
   - 交互效应
   - 交互作用
   - 调节效应
-  - interaction effect
   - interaction effects
   - moderation effect
 summary: "一个自变量对因变量的因果效应依赖于另一个自变量或调节变量水平的非可加性现象，是因子设计与条件性因果推断的核心，揭示了教学干预在不同学习者特征与情境中的异质性机制"
 type: concept
 domain: "research-methodology"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 concept_field: "research-methodology"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - experiment
@@ -26,17 +25,24 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Heterogeneity]]"
-  - "[[Learning Gain]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Executive Function]]"
+  - "[[Metacognition]]"
+  - "[[Problem Solving]]"
+  - "[[Direct Instruction]]"
   - "[[Self-Efficacy]]"
   - "[[Scaffolding]]"
   - "[[Productive Failure]]"
+  - "[[Paradigm]]"
 related_methods:
-  - "[[Factorial Design]]"
-  - "[[Analysis of Variance]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
-  - "[[Sample Size Determination]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Factorial Design]]"
+  - "[[Analysis of Variance]]"
+  - "[[Statistical Significance]]"
+  - "[[Multi-Arm Trial]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_DeJong_2023_ERR]]"
@@ -96,13 +102,13 @@ updated: 2026-09-21
 > |---|---|---|---|---|---|---|
 > | **[[Executive Function\|执行功能]] × 探究结构** | 抑制控制（Inhibitory Control） | 开放式探究模拟 vs 结构化支架模拟 | 概念获得与迁移测验 | 高抑制控制学生在探究迁移题上表现更优；低抑制控制学生在无支架时受干扰信息严重拖累，在结构化支架下劣势消除 | 高执行功能个体能自主抑制无关参数干扰；低抑制控制学生必须依托外源支架补偿认知控制不足 | Kwon & Lawson (2000); Homer & Plass (2014) |
 > | **[[Self-Efficacy\|自我效能感]] × 引导机制** | 初始科学自我效能感 | 纯自主发现 vs 教师/系统支架引导 | 探究数据搜集行为与成就 | 初始阶段高效能感学生搜集更多数据；但随着数字化支架介入，效能感对探究行为的调节作用减弱，支架抹平了低效能感学生的行为差距 | 自适应支架提供了即时[[Scaffolding\|脚手架]]支持，降低任务门槛，重构了低效能感学生的行动信念 | Ketelhut (2007); Liu & Wang (2022) |
-> | **先验知识 × 指导程度（专业逆转）** | 领域先验知识水平 | 显性直接指导 vs 开放探索 | 学习效率与认知负荷 | 低先验知识学生在直接指导下显著获益，在开放探索中负荷超载；高先验知识学生在重复显性指导下产生厌烦与负荷冗余 | 教学设计的专业逆转效应（Expertise Reversal Effect）；先验图式充当了内部支架，与外在显性指导产生冗余交互 | Sweller et al. (2003); De Jong et al. (2023) |
+> | **先验知识 × 指导程度（专业逆转）** | 领域先验知识水平 | 显性直接指导 vs 开放探索 | 学习效率与认知负荷 | 低先验知识学生在直接指导下显著获益，在开放探索中负荷超载；高先验知识学生在重复显性指导下产生厌烦与负荷冗余 | 教学设计的专业逆转效应（Expertise Reversal Effect）；先验图式充当了内部支架，与外在显性指导产生冗余交互 | Sweller et al. (2003); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
 
 ### 2. 教学时序 × 认知目标类型的交互
 
 教学干预与时序编排的交互作用是近年来学习科学最重要的突破之一。以[[Productive Failure|生产性失败]]（Productive Failure）与反转序列为代表的研究确立了教学时序与认知目标深度的交叉交互（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 8–9]]）：
 - **记忆提取 vs 深层迁移的交互** 若教学目标仅为机械事实性识记（如化学元素符号）或单一步骤运算，直接讲授展现出高效率的主效应；若教学目标为深层概念理解（Conceptual Understanding）与灵活迁移（Transfer），“先探究后讲授”（Inquiry before Direct Instruction）与目标类型产生显著正向交互。
-- **即时测试 vs 延迟保持的交互（必要难度）** 在即时课[[Pre-test and Post-test|后测]]验中，直接讲授由于减少了学习过程中的尝试错误，往往表现出更高的即时正确率；但在数周后的延迟测验（Delayed Assessment）中，经历先期探究磨砺与错误辨析的学生表现出更具韧性的长期保持，直接讲授的优势随时间衰减，显现出时序与时间跨度的显著交互作用（Vitale, McBride, & Linn, 2016; De Jong et al., 2023, p. 9）。
+- **即时测试 vs 延迟保持的交互（必要难度）** 在即时课[[Pre-test and Post-test|后测]]验中，直接讲授由于减少了学习过程中的尝试错误，往往表现出更高的即时正确率；但在数周后的延迟测验（Delayed Assessment）中，经历先期探究磨砺与错误辨析的学生表现出更具韧性的长期保持，直接讲授的优势随时间衰减，显现出时序与时间跨度的显著交互作用（Vitale, McBride, & Linn, 2016; [[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 9]]）。
 
 ---
 

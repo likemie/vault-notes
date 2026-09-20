@@ -96,7 +96,7 @@ updated: 2026-09-18
 >   - **代表著作** *The Copernican Revolution* (1957)。
 >   - **关键概念／方法** 概念革命、世界观转型、历史语境主义。
 >   - **阶段转向** 彻底摒弃将科学史视为真理积累清单的[[Whiggism|辉格史观]]，转向考察历史行动者内部的完整知识世界。
-> - **1960s — [[Paradigm|范式]]理论确立与认识论震荡期** 直面科学知识生成的社会学与心理学维度，系统提出动态革命模型。
+> - **1960s — [[Paradigm|范式]]理论确立与认识论震荡期** 直面科学[[Knowledge Production|知识生成]]的社会学与心理学维度，系统提出动态革命模型。
 >   - **代表著作** *The Structure of Scientific Revolutions* (1962, 1970 增订版)。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011)]]
 >   - **关键概念／方法** [[Paradigm|范式]]、常规科学、[[Incommensurability|不可通约性]]、科学革命、解谜（Puzzle-Solving）。
 >   - **阶段转向** 终结逻辑实证主义对静态科学逻辑的垄断，将科学重构为共同体规范约束下的历史活动。

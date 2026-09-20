@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
     },
     {
+      "basename": "Process-Oriented Guided Inquiry Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Process-Oriented Guided Inquiry Learning.md"
+    },
+    {
+      "basename": "PhET Interactive Simulations",
+      "path": "wiki/facts/us/PhET Interactive Simulations.md"
+    },
+    {
+      "basename": "Inq-Blotter",
+      "path": "wiki/facts/us/Inq-Blotter.md"
+    },
+    {
+      "basename": "Intelligent Tutoring Systems",
+      "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md"
+    },
+    {
       "basename": "Centre for Educational Research and Innovation",
       "path": "wiki/facts/global/Centre for Educational Research and Innovation.md"
     },
@@ -47,10 +63,6 @@
     {
       "basename": "Avatar",
       "path": "wiki/concepts/educational-technology/Avatar.md"
-    },
-    {
-      "basename": "Intelligent Tutoring Systems",
-      "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md"
     },
     {
       "basename": "Executive Function",
@@ -187,18 +199,6 @@
     {
       "basename": "Social Ventures Australia",
       "path": "wiki/facts/australia/Social Ventures Australia.md"
-    },
-    {
-      "basename": "Assemblage",
-      "path": "wiki/concepts/comparative-education/Assemblage.md"
-    },
-    {
-      "basename": "Australian Schools Plus",
-      "path": "wiki/facts/australia/Australian Schools Plus.md"
-    },
-    {
-      "basename": "Network Governance",
-      "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
     }
   ],
   "omittedPaths": [],

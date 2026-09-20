@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 114
+method_related_count: 119
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -65,12 +65,16 @@ related_concepts:
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Critique of Randomized Controlled Trials]]"
   - "[[Ontology]]"
+  - "[[Direct Instruction]]"
+  - "[[Ecological Validity]]"
+  - "[[Interaction Effect]]"
   - "[[Validity as Inferences]]"
   - "[[Evidence Standards]]"
   - "[[Recommendations for Practice]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Complexity Theory]]"
+  - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Random Assignment]]"
   - "[[Effect Size]]"

@@ -10,7 +10,7 @@ aliases:
 summary: "指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Scientific Literacy]]"
   - "[[Paradigm]]"
+  - "[[Knowledge Production]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Science Journalism]]"
   - "[[Praxis]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Scientific Attitude
@@ -151,7 +152,7 @@ updated: 2026-09-17
 > 面对数字信息爆炸与伪科学泛滥，科学态度的核心不再是记忆孤立的科学定理，而是理解科学探索本身的实证逻辑。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026, pp. 30–31)]]
-> **[[Scientific Uncertainty|科学不确定性]]理解与证据质量批判审视** 强调科学知识生成是动态演进的实证探索过程，[[Scientific Literacy|科学素养]]的核心在于具备评估多源证据质量、识别数据偏差以及接纳科学知识暂定性（Provisional Nature）的态度倾向。缺乏对不确定性的理性认知，往往导致公众在面对动态修正的科学共识（如公共卫生危机中的指引调整）时陷入极端怀疑论或反智主义。
+> **[[Scientific Uncertainty|科学不确定性]]理解与证据质量批判审视** 强调科学[[Knowledge Production|知识生成]]是动态演进的实证探索过程，[[Scientific Literacy|科学素养]]的核心在于具备评估多源证据质量、识别数据偏差以及接纳科学知识暂定性（Provisional Nature）的态度倾向。缺乏对不确定性的理性认知，往往导致公众在面对动态修正的科学共识（如公共卫生危机中的指引调整）时陷入极端怀疑论或反智主义。
 
 ---
 

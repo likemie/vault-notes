@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[Logic Model]]"
   - "[[Scientific Literacy]]"
+  - "[[Knowledge Production]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Public Engagement with Science]]"
@@ -129,7 +130,7 @@ updated: 2026-09-04
 科学教育不仅承担着为国家培养未来约 25% 科学、技术、工程与数学（Science, Technology, Engineering and Mathematics, STEM）专业技术人才的管道功能，更具有为 100% 的全体学生赋予日常生活理性决策、公民参与及就业所需的通用[[Scientific Literacy|科学素养]]的根本使命。（p. 30）
 
 > [!claim] 步骤一核心主张
-> 在数字信息时代，[[Scientific Literacy|科学素养]]的核心价值不在于孤立记忆预设的技术事实与学术定义，而在于掌握科学知识生成的实证逻辑、批判性评估多源证据的[[Reliability|可靠性]]与证据质量，并深刻理解科学知识的暂定性（Provisional Nature）与不确定性（Uncertainty）在推动科学探索中的积极功能。（p. 30）
+> 在数字信息时代，[[Scientific Literacy|科学素养]]的核心价值不在于孤立记忆预设的技术事实与学术定义，而在于掌握科学[[Knowledge Production|知识生成]]的实证逻辑、批判性评估多源证据的[[Reliability|可靠性]]与证据质量，并深刻理解科学知识的暂定性（Provisional Nature）与不确定性（Uncertainty）在推动科学探索中的积极功能。（p. 30）
 
 > [!chain-link] 40 年科学课程[[Paradigm|范式]]演进的钟摆效应
 > - **1985 年[[Bodmer Report 1985|博德默尔报告]]的奠基** 确立科学教育对[[Public Engagement with Science|公众科学参与]]的基石作用，强调公众需理解科学的基础知识与社会价值。（p. 30）

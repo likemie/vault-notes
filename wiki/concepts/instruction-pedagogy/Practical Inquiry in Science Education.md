@@ -9,7 +9,7 @@ aliases:
 summary: "指学生通过亲自动手实验、野外考察和真实科学问题探究，体验知识生成过程、发展实证思维并加深对科学本质理解的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - theme/stem-education
   - theme/scientific-literacy
 related_concepts:
+  - "[[Knowledge Production]]"
   - "[[Variable]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
@@ -31,7 +32,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Practical Inquiry in Science Education
@@ -41,7 +42,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 科学教育中的实践探究是指学生在教师与专业技术人员支持下，通过直接动手实验操作（Hands-on Practical Work）、长周期课题研究、野外生态考察以及与真实科研前沿连接，具身化体验科学知识生成、检验与修正过程的教学模式。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 33)]]
+> 科学教育中的实践探究是指学生在教师与专业技术人员支持下，通过直接动手实验操作（Hands-on Practical Work）、长周期课题研究、野外生态考察以及与真实科研前沿连接，具身化体验科学[[Knowledge Production|知识生成]]、检验与修正过程的教学模式。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 33)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学知识的实证属性决定了其必须建立在观察与实验之上；实践探究是将抽象数理公式转化为具身体验与实证反思的核心桥梁。

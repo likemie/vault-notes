@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Scaffolding]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Rote Learning]]"
   - "[[Epistemic Resources]]"
 related_theories: []
@@ -48,7 +49,7 @@ title: "Argument_Sandoval_2005_SE"
 argument_key: "Argument_Sandoval_2005_SE"
 argument_display_title: "Understanding students' practical epistemologies and their influence on learning through inquiry"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -135,7 +136,7 @@ journal: Science Education
 > - **脱节的根源：缺乏显式反思**
 >   脱节的核心原因在于，学生并没有将他们在课堂里进行的学校科学与抽象的专业科学建立等价联系。在大多探究活动中，学生调用证据的“认识论关系”是隐性的。研究表明，只有像 Smith et al. (2000) 观察到的那样，在长达六年的探究教学中持续且高频地引导学生进行**显式的认识论反思（explicit epistemological reflection）**，学生才有可能将自己解决实际问题的隐性策略，真正上升为关于科学本质的抽象信念。
 
-> [!evidence-grid] 核心实证研究汇总：认识论信念与探究学习
+> [!evidence-grid] 核心实证研究汇总：认识论信念与[[Inquiry-Based Learning|探究学习]]
 > | 研究者（年份） | 研究对象与情境 | 核心发现与细节 |
 > |---|---|---|
 > | **Songer and Linn (1991)** | 8年级，热力学探究 | 具有“动态/建构性”科学观的学生，比持有“静态/事实集合”科学观的学生，能更深入地掌握热量与温度的目标原理。证明了认识论信念直接影响概念学习效果。 |
