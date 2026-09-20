@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Experiential Learning]]"
   - "[[Cooperative Learning]]"
+  - "[[Discovery Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
@@ -65,7 +66,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Problem-Based Learning
@@ -156,7 +157,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > - **体验学习与社会学习** 在真实问题中[[Experiential Learning|经验学习]]，通过小组互动与替代观察获取知识。
 > - **信息加工与认知负荷** 学习涉及认知过程与认知负荷管理，问题结构调节加工深度。
 > - **协作与[[Cooperative Learning|合作学习]]** 强调学习者之间互动、激活先备知识、主动参与。
-> - **情境与发现学习** 知识在应用情境中获得，并通过探究发现建构。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 952–953)]]
+> - **情境与[[Discovery Learning|发现学习]]** 知识在应用情境中获得，并通过探究发现建构。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 952–953)]]
 
 ---
 

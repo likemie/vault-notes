@@ -7,7 +7,7 @@ summary: "英国杜伦大学教育学教授（曾任职于华威大学与UCL教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,7 +32,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research-Engaged School]]"
   - "[[Activity Traps]]"
-related_theories: []
+related_theories:
+  - "[[Inquiry Cycle]]"
 related_methods:
   - "[[Experimental Research]]"
 related_persons:
@@ -50,7 +51,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-16
+updated: 2026-09-21
 ---
 
 # Chris Brown
@@ -100,4 +101,4 @@ updated: 2026-09-16
 > - [[School Enquiry Cycle]] — 核心理论模型条目。
 > - [[Research-Engaged School]] / [[Activity Traps]] — 2018 年论文所依托的组织形态概念与协作探究缺陷概念。
 > - [[Research Learning Communities Baseline Survey Questionnaire]] — 与 [[Alan Daly]] 共同设计的项目基线调查工具。
-> - [[Data-Based Decision Making]] / [[Research-Informed Teaching Practice]] — 探究循环所整合的两大支柱。
+> - [[Data-Based Decision Making]] / [[Research-Informed Teaching Practice]] — [[Inquiry Cycle|探究循环]]所整合的两大支柱。

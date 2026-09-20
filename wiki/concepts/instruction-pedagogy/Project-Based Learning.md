@@ -8,7 +8,7 @@ aliases:
 summary: "以真实驱动性问题为核心、以持续协作探究为路径、以生成并公开展示真实制品为导向的学生中心教学模式，能显著激发创造力与高阶思维，但高度依赖认知脚手架与自我调节能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Problem-Based Learning]]"
   - "[[Homework]]"
+  - "[[Discovery Learning]]"
   - "[[Task Structure]]"
   - "[[Constructed Knowledge]]"
   - "[[Construct]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Project-Based Learning
@@ -77,7 +78,7 @@ updated: 2026-09-17
 > [!boundary]- 概念边界
 > - 不等于 **问题导向学习（[[Problem-Based Learning]]）** — 两者同属建构主义探究模式并常共享“PBL”简称，但终局产出不同：问题导向学习聚焦于对特定劣构临床/理论问题的合理解释与诊断模型，不强制要求产出物化制品；项目式学习则必须围绕驱动问题开发出具体、可公开展示的产品或解决方案原型（Product/Artifact）。
 > - 不等于 **传统手工[[Homework|作业]]/附加活动（Hands-on Activity / Dessert Project）** — 传统教学往往把项目当作单元教学结束后的“甜点（Dessert Project）”，仅用于复述已知知识；真实的项目式学习是学习本身的“主菜（Main Course Project）”，核心知识的建构与高阶思维的习得直接发生在探究与制作流程中。
-> - 不等于 **无指导发现学习（Pure Discovery Learning）** — 项目式学习并非任由学生盲目尝试，而是需要严密的[[Task Structure|任务结构]]设计、阶段性里程碑检查（Milestones）、同伴互评与教师认知脚手架。
+> - 不等于 **无指导[[Discovery Learning|发现学习]]（Pure Discovery Learning）** — 项目式学习并非任由学生盲目尝试，而是需要严密的[[Task Structure|任务结构]]设计、阶段性里程碑检查（Milestones）、同伴互评与教师认知脚手架。
 
 > [!citation-card]- 项目式学习的定义与认知定位
 > 项目式学习强调以学习者为中心、探究驱动的活动，学生通过参与现实世界的项目来[[Constructed Knowledge|建构知识]]。在此情境下，生成式人工智能可充当有价值的认知伙伴，提供多元资源与多维视角，赋能学生自主探索和解决复杂问题。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, p. 16)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "个体在执行复杂认知任务时，用于短暂保持、动态操纵与更新信息的容量有限的认知加工系统，构成人类新异信息加工的瓶颈与高级思维的核心基石。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Executive Function]]"
   - "[[Updating and Monitoring]]"
   - "[[Scaffolding]]"
+  - "[[Discovery Learning]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Construct]]"
   - "[[Independent Knowing]]"
@@ -75,7 +76,7 @@ updated: 2026-09-21
 >
 > 学习必须是对所学内容的主动回应，思维必须先被启动，工作记忆必须被激活。当学生缺乏必要的指导时，工作记忆会被大量无关琐碎信息填满——犹如垃圾桶装满了垃圾，进而造成认知超载。大脑的注意力代谢资源通常仅能支持约 10 分钟的全神贯注。[[Argument_Fredens_2015_Paideia|(Fredens, 2015, pp. 71–73)]]
 >
-> 在无指导的纯发现学习中，新手缺乏长时记忆图式支持，工作记忆被大量外部冗余细节与盲目试误挤占，极易陷入挫败与错误理解固化；而[[Inquiry-Based Learning|指导式探究]]通过认知支架适时介入，精准分担表层负荷，使工作记忆聚焦于深层概念协调。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 3, 8)]]
+> 在无指导的[[Discovery Learning|纯发现学习]]中，新手缺乏长时记忆图式支持，工作记忆被大量外部冗余细节与盲目试误挤占，极易陷入挫败与错误理解固化；而[[Inquiry-Based Learning|指导式探究]]通过认知支架适时介入，精准分担表层负荷，使工作记忆聚焦于深层概念协调。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 3, 8)]]
 >
 > *In unguided discovery, working memory is flooded with irrelevant information, leading to frustration and misconceptions... structured guidance frees working memory resources for deep conceptual integration.*
 

@@ -20,9 +20,9 @@ tags:
 related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Problem Solving]]"
+  - "[[Knowledge Production]]"
   - "[[Evidence Ecosystem]]"
   - "[[Research-Informed Teaching Practice]]"
-  - "[[Knowledge Production]]"
   - "[[Empiricism]]"
   - "[[Knowledge Transfer]]"
   - "[[Hypothesis]]"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Evidence-Innovation Knowledge Dynamics
@@ -68,7 +68,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **含义** 指向证据利用与教学创新交融发生时的知识生命周期，将[[Knowledge Mobilisation|知识动员]]实质界定为**面向[[Problem Solving|问题解决]]的“知识创生”（Knowledge Creation）过程**。
 > - **用途** 破解“照搬学术研究处方”的机械主义与“缺乏实证依据的盲目微创新”之间的对立，指导学校与网络共同体建构有证据支撑的教育创新机制。
-> - **边界** 聚焦于一线学校与网络共同体内部“证据输入 ➔ 课堂调试 ➔ 本土知识生成 ➔ 规模扩散”的动态流变；区别于宏观纯制度框架（[[Evidence Ecosystem]]），也区别于单纯的教师微观审议机制（[[Research-Informed Teaching Practice]]）。
+> - **边界** 聚焦于一线学校与网络共同体内部“证据输入 ➔ 课堂调试 ➔ 本土[[Knowledge Production|知识生成]] ➔ 规模扩散”的动态流变；区别于宏观纯制度框架（[[Evidence Ecosystem]]），也区别于单纯的教师微观审议机制（[[Research-Informed Teaching Practice]]）。
 
 > [!citation-card] Révai 论修复证据动员与教育创新的体制断层
 > 这项工作旨在‘修复’教育领域中为了证据而进行的知识动员与为了创新而进行的[[Knowledge Production|知识建构]]之间断裂的纽带。当今的政策问题往往要么关注扩大创新努力的规模，要么关注提高证据的使用率，而未能认识到两者在实践中往往且确实应当相伴而行。[[Argument_Torres_2022_KMModels|Torres, 2022, p. 49; Révai, 2020, p. 18]]

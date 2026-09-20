@@ -7,7 +7,7 @@ summary: "英国诺丁汉大学教育领导力教授，前伦敦大学学院教�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Inquiry Cycle]]"
 related_methods:
   - "[[Network Analysis]]"
 related_instruments: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Toby Greany
@@ -133,7 +134,7 @@ updated: 2026-09-17
 > |:-----|:-----|:-----|
 > | [[Self-Improving School System]] | 概念 | 系统界定该[[Construct\|构念]]的四大支柱与演化阶段，揭示其与外部高压问责的内在制度悖论。 |
 > | [[School Leadership]] | 概念 | 提出领导者在证据知情自改进中必须重点投入文化建设、行动理论审思与正式研讨支持。 |
-> | [[Evidence-Informed Practice]] | 概念 | 批判单向证据推送，强调结合教师缄默智慧与微观探究循环的情境化循证落地。 |
+> | [[Evidence-Informed Practice]] | 概念 | 批判单向证据推送，强调结合教师缄默智慧与微观[[Inquiry Cycle\|探究循环]]的情境化循证落地。 |
 > | [[Research-Engaged School]] | 概念 | 剖析学校由被动应付技巧示范向全校性探究文化转型的领导力路径与组织支撑。 |
 > | [[Activity Traps]] | 概念 | 揭示学校在缺乏因果[[Hypothesis\|假设]]审思与效果评估时，极易陷入教学形式主义空转的实证病理。 |
 > | [[Joint Practice Development]] | 概念 | 在 NCSL 期间推动 JPD 成为国家级领导力战略，并确立其为课堂微观证据转化的核心机制。 |

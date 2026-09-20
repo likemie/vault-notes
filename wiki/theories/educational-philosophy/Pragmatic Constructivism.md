@@ -7,10 +7,10 @@ aliases:
 summary: "由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - constructivism
   - pragmatism
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
+  - "[[Discovery Learning]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Pragmatic Constructivism
@@ -109,7 +110,7 @@ updated: 2026-09-17
 > [!theory-boundary] 适用边界
 > - **适合解释** 探究性学习、跨学科[[Phenomenon-Based Learning|现象本位学习]]中的师生互动、概念转变过程。
 > - **不适合解释** 纯粹依靠机械性重复训练的技能获得，或与学生生活世界完全割裂的纯逻辑符号演算。
-> - **常见误用** 将其等同于完全放任学生的“发现学习”，忽视了[[John Dewey|杜威]]所强调的系统科学学科的[[Ontology|本体论]]深度（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
+> - **常见误用** 将其等同于完全放任学生的“[[Discovery Learning|发现学习]]”，忽视了[[John Dewey|杜威]]所强调的系统科学学科的[[Ontology|本体论]]深度（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
 
 ---
 

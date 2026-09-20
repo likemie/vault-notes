@@ -7,10 +7,10 @@ aliases:
 summary: "学习科学与教学设计中的前置探究时序模型，指在正式直接讲授前让学生先行尝试解决复杂的劣构问题，通过挫折激活先验图式并暴露认知盲区，为后续显性讲授创设最佳认知准备状态，进而促进深层概念理解与长效远迁移"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - learning-science
   - instructional-design
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Scaffolding]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Discovery Learning]]"
   - "[[Working Memory]]"
   - "[[Epistemology]]"
   - "[[Epistemic Agency]]"
@@ -47,7 +48,10 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ton de Jong]]"
+  - "[[Marcia C. Linn]]"
+  - "[[Cindy E. Hmelo-Silver]]"
 related_facts: []
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
@@ -73,13 +77,13 @@ updated: 2026-09-21
 > - **用途** 破解科学教育中长达数十年关于“[[Inquiry-Based Learning|探究式学习]] vs [[Direct Instruction|直接教学]]”的非此即彼二元对立，通过微观时序协同实现概念知识的牢固内化与远迁移。
 > - **边界** 生产性失败严格依赖探索之后的显性直接讲授；若缺乏教师的高质量解释与模型整合，试错将退化为毫无成效的挫败（Unproductive Failure）。
 
-> [!citation-card] 德容等论生产性失败对未来学习准备的诱发机制
+> [!citation-card] [[Ton de Jong|德容]]等论生产性失败对未来学习准备的诱发机制
 > 探究性学习能够促进学生从后续的直接教学中受益的准备状态。关于生产性失败、必要难度以及未来学习准备的研究表明，面对问题展开艰难探索——哪怕探索并未成功——也能帮助学习者在随后的教学材料或直接讲授中实现更深层次的学习，因为这种经验激活了先验知识，并揭示了为何特定的学习内容是必不可少的。（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 8]]）
 >
 > *Thus, inquiry learning can promote a readiness to learn from direct instruction... Research on productive failure, desirable difficulties, and preparation for future learning suggests that grappling with a problem, even unsuccessfully, can help prepare learners to learn more deeply from other instructional materials or direct instruction, because such an experience activates prior knowledge and shows why the learning content is relevant.*
 
 > [!boundary]- 概念边界
-> - 不等于 纯发现学习（Pure Discovery Learning） — 纯发现学习拒绝提供任何显性讲授，任由学生自生自灭；生产性失败则将探索严格定位为后续直接教学的前置准备阶段。
+> - 不等于 [[Discovery Learning|纯发现学习]]（Pure Discovery Learning） — 纯发现学习拒绝提供任何显性讲授，任由学生自生自灭；生产性失败则将探索严格定位为后续直接教学的前置准备阶段。
 > - 不等于 传统的讲后解题（Direct Instruction Followed by Practice） — 传统模式由教师先行给出标准答案或规范例题，剥夺了学生暴露直觉盲区和自主建构图式的前提。
 > - 不等于 无支持的盲目试错（Unproductive Struggle） — 生产性失败的探索任务经过精密劣构设计，能够有效聚焦领域核心深层结构，而非毫无逻辑的胡乱猜测。
 > - 不适用于 零先验的机械记忆任务 — 在面对拼写、化学命名法则或纯人为符号规定等表层良构程序时，强行探究仅会产生徒劳的认知损耗。
@@ -91,7 +95,7 @@ updated: 2026-09-21
 通过对比不同教学时序编排模式，可以精准定位生产性失败的认知加工特征与教学机制。
 
 > [!contrast-table] 生产性失败与主流教学时序模式辨析
-> | 维度 | 本概念：生产性失败（Productive Failure） | 传统[[Direct Instruction\|直接教学]]后练习（DI-first Practice） | 纯发现学习（Pure Discovery） | 样例学习（Worked Example） |
+> | 维度 | 本概念：生产性失败（Productive Failure） | 传统[[Direct Instruction\|直接教学]]后练习（DI-first Practice） | [[Discovery Learning\|纯发现学习]]（Pure Discovery） | 样例学习（Worked Example） |
 > |---|---|---|---|---|
 > | **时序逻辑** | **先劣构探究 ➔ 后直接讲授统整** | 先显性讲授 ➔ 后封闭例题操练 | 仅自主探究，教师拒绝显性介入 | 观察专家解题样例 ➔ 相似题练习 |
 > | **对错误的态度** | **积极资源**（暴露直觉盲区，激活图式） | 消极干扰（视错误为待消除的偏离） | 偶然经历（任由学生陷入错误图式固化） | 尽力规避（通过标准步骤抑制犯错） |
@@ -168,7 +172,7 @@ updated: 2026-09-21
 > [!claim] Schmidt, R. A. & Bjork, R. A.
 > **必要难度假说对教学时序的反直觉阐释** 在学习过程中人为引入适度的阻碍与挑战（如前置试错、间隔练习），虽然会在短期内降低解题速度并增加错误率，但能显著促进信息的深层提取、语义加工与概念重构。相反，使学习过程平滑顺畅的单一直接示范，往往仅产生脆弱的表层短时记忆，在长周期追踪中遗忘率极高。（Schmidt & Bjork, 1992；引自 [[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 8–9]]）
 
-> [!claim] Vitale, J. M., McBride, E., & Linn, M. C.
+> [!claim] Vitale, J. M., McBride, E., & [[Marcia C. Linn|Linn, M. C.]]
 > **即时成绩虚高与延迟[[Pre-test and Post-test|后测]]衰退的实证反差** 在对比直接讲授与探究试错的严格课堂实验中，直接教学组在课堂当期测验中因严格套用步骤而表现出极低的错误率，容易制造教学极其成功的假象；然而在数周后的延迟后测中，直接教学组出现了断崖式的知识遗忘；而经历了前置探究、遭遇挫折并最终理解核心原理的学生，在延迟后测以及面对复杂陌生情境的知识远迁移中表现显著更优。（Vitale et al., 2016；引自 [[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 9]]）
 
 ---
@@ -178,7 +182,7 @@ updated: 2026-09-21
 > [!concept-lens] 教学闭环与系统统整维度
 > 澄清生产性失败与放任自流的本质区别，确立教师讲授在失败转化中的核心地位。
 
-> [!claim] Kapur, M. & Hmelo-Silver, C. E.
+> [!claim] Kapur, M. & [[Cindy E. Hmelo-Silver|Hmelo-Silver, C. E.]]
 > **讲授统整环节对失败成效转化的决定性作用** 生产性失败的核心不在于“失败”本身，而在于“失败的生产性转化”。如果探索阶段结束后没有教师对典型错误解法的比较剖析，没有对学科本质概念的显性梳理，学生就会停留在挫败感与错误图式中，导致实验退化为无成效的认知损耗。唯有将探究的自主建构性与教师讲授的结构精确性有机融合，才能构成完整的循证教学闭环。（Hmelo-Silver, Kapur, & Hamstra, 2018；[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 8, 10]]）
 
 ---

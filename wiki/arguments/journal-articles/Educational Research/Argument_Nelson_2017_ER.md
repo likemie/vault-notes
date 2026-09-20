@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_ER"
 argument_key: "Argument_Nelson_2017_ER"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -63,6 +63,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Problem Finding]]"
+  - "[[Knowledge Production]]"
   - "[[Big Ideas]]"
   - "[[Definition of Terms]]"
 related_theories:
@@ -98,7 +99,7 @@ sources:
 part_of: ""
 status: draft
 created: "2026-05-01"
-updated: 2026-09-15
+updated: 2026-09-21
 ---
 # Argument_Nelson_2017_ER
 
@@ -338,7 +339,7 @@ updated: 2026-09-15
 > **分类解读** 成果分层类型学为 EIP 评估提供了从短期行为转向深层思维与实践重塑的观测框架。（p.132）
 
 > [!warrant]- 最终推理桥梁：动态社会过程与拒绝单纯量化主义
-> 评估 EIP 的成效必须建立在严谨的[[Theory of Change|变革理论]]（theories of change）之上，统筹考察知识动员策略质量、多元证据使用形态、专业知识生成以及对学习者最终成果的深层影响（pp.132–133）。由于 EIP 本质上是一个动态的社会交互过程，评估不能落入只去理解那些容易被量化的组成部分的陷阱，必须坚持多元量化指标与丰富质性描述数据的有机结合（p.133）。
+> 评估 EIP 的成效必须建立在严谨的[[Theory of Change|变革理论]]（theories of change）之上，统筹考察知识动员策略质量、多元证据使用形态、专业[[Knowledge Production|知识生成]]以及对学习者最终成果的深层影响（pp.132–133）。由于 EIP 本质上是一个动态的社会交互过程，评估不能落入只去理解那些容易被量化的组成部分的陷阱，必须坚持多元量化指标与丰富质性描述数据的有机结合（p.133）。
 
 ---
 

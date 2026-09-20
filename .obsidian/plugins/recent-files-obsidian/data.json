@@ -5,6 +5,26 @@
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
     },
     {
+      "basename": "Centre for Educational Research and Innovation",
+      "path": "wiki/facts/global/Centre for Educational Research and Innovation.md"
+    },
+    {
+      "basename": "Randomised Controlled Trials",
+      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
+    },
+    {
+      "basename": "Scaffolding",
+      "path": "wiki/concepts/instruction-pedagogy/Scaffolding.md"
+    },
+    {
+      "basename": "Interaction Effect",
+      "path": "wiki/concepts/research-methodology/Interaction Effect.md"
+    },
+    {
+      "basename": "Self-Efficacy",
+      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
+    },
+    {
       "basename": "Heterogeneity",
       "path": "wiki/concepts/research-methodology/Heterogeneity.md"
     },
@@ -21,16 +41,8 @@
       "path": "wiki/facts/global/PISA.md"
     },
     {
-      "basename": "Centre for Educational Research and Innovation",
-      "path": "wiki/facts/global/Centre for Educational Research and Innovation.md"
-    },
-    {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
-    },
-    {
-      "basename": "Self-Efficacy",
-      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
     },
     {
       "basename": "Avatar",
@@ -59,10 +71,6 @@
     {
       "basename": "Socratic Dialogue",
       "path": "wiki/concepts/instruction-pedagogy/Socratic Dialogue.md"
-    },
-    {
-      "basename": "Scaffolding",
-      "path": "wiki/concepts/instruction-pedagogy/Scaffolding.md"
     },
     {
       "basename": "Working Memory",
@@ -191,14 +199,6 @@
     {
       "basename": "Network Governance",
       "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
-    },
-    {
-      "basename": "Policy Network",
-      "path": "wiki/concepts/educational-policy-reform/Policy Network.md"
-    },
-    {
-      "basename": "Relational Space",
-      "path": "wiki/concepts/comparative-education/Relational Space.md"
     }
   ],
   "omittedPaths": [],

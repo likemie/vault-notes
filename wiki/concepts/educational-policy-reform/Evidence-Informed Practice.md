@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 96
+related_count: 97
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Evidence Ecosystem]]"
 related_theories:
+  - "[[Inquiry Cycle]]"
   - "[[Situated Ethics]]"
 related_methods:
   - "[[Experimental Research]]"
@@ -123,7 +124,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Evidence-Informed Practice
@@ -197,7 +198,7 @@ updated: 2026-09-18
 > - **双素养协同培育（Dual Literacy Development）** 协同培育教师的[[Data Literacy|数据素养]]（采集与质检校本数据）与[[Research Literacy|研究素养]]（检索与[[Transfer Translation Transformation|转译]]外部实证），打破专业能力壁垒。[[Argument_Brown_2017_ER|(Brown et al., 2017, p. 167)]]
 
 > [!factors] EIP 在学校层面落地的四类关键因素
-> - **能力** 参与研究并运用研究证据与数据的能力，包括解读校本数据以定位问题、判断研究方法的优势与局限、理解再情境化，以及掌握探究循环与影响测量的方法。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122–123)]]
+> - **能力** 参与研究并运用研究证据与数据的能力，包括解读校本数据以定位问题、判断研究方法的优势与局限、理解再情境化，以及掌握[[Inquiry Cycle|探究循环]]与影响测量的方法。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122–123)]]
 > - **文化规范** 让[[Research Utilization|研究使用]]成为学校的文化常规，需要[[School Leadership|学校领导]]层的全力投入以及非正式推动者的支持;领导者在其中既承担确立愿景的变革型职能，也承担建构学习条件的职能。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 123–124)]]
 > - **学习环境** 把研究使用嵌入有效的学习环境，其最佳载体是[[Professional Learning Community|专业学习共同体]]（PLC），核心特征是[[Reflexivity|反思性]]专业探究，包括反思性[[Dialogue in Education|对话]]与围绕严肃教育议题的交谈。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 124–125)]]
 > - **结构、系统与资源** 领导者须提供并协调时间、空间与预算，建立与 PLC 学习相容的正式机制，并理解校内非正式社会网络如何促成有效实践的分配与采纳。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 125)]]
@@ -247,7 +248,7 @@ updated: 2026-09-18
 > **多源整合与专业审议** 证据知情实践将专业专长、系统管理数据、课堂即时数据与来自研究的外部证据有机融合。研究证据是关键拼图，但不构成决策的全部；教育决策兼具技术性、伦理价值与政治情境性，唯有通过教育者的专业判断进行审议与改编，外部研究才能克服教条主义，转化为高质量的实践行动。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–129)]]
 
 > [!claim] [[Argument_Brown_2017_ER|Brown et al. (2017)]]
-> **双轨割裂超越与探究循环[[Operationalization|操作化]]** 证据知情实践在微观推行中长期面临基于数据决策（[[Data-Based Decision Making|DBDM]]）与研究知情实践（[[Research-Informed Teaching Practice|RITP]]）两个领域的结构性割裂：前者擅长校本学情病因诊断却缺乏[[Effective Teaching|有效教学]]干预策略，后者掌握丰富有效策略却脱离校本真实痛点。两派优势恰好呈镜像互补；通过构建“证据知情学校与教师改进”（[[School Enquiry Cycle|ESTI]]）八步探究循环，将校本数据诊断、实践者默会智慧与外部学术研究系统咬合，EIP 方能克服抽象概念宣示，落地为兼顾有效性、高效性与公平性的整体性专业实践。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 156, 165–167)]]
+> **双轨割裂超越与[[Inquiry Cycle|探究循环]][[Operationalization|操作化]]** 证据知情实践在微观推行中长期面临基于数据决策（[[Data-Based Decision Making|DBDM]]）与研究知情实践（[[Research-Informed Teaching Practice|RITP]]）两个领域的结构性割裂：前者擅长校本学情病因诊断却缺乏[[Effective Teaching|有效教学]]干预策略，后者掌握丰富有效策略却脱离校本真实痛点。两派优势恰好呈镜像互补；通过构建“证据知情学校与教师改进”（[[School Enquiry Cycle|ESTI]]）八步探究循环，将校本数据诊断、实践者默会智慧与外部学术研究系统咬合，EIP 方能克服抽象概念宣示，落地为兼顾有效性、高效性与公平性的整体性专业实践。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 156, 165–167)]]
 
 ---
 
@@ -353,7 +354,7 @@ updated: 2026-09-18
 > - **2000s–2010s — 制度化推进与因果问责** 英国实施 [[Teaching and Learning Research Programme|TLRP]] 研究计划，美国出台 [[No Child Left Behind Act 2001|NCLB]] 强化因果实验标准与 What Works 运动，加拿大安大略省推进教育研究与评估战略。
 > - **2013–2015 — 草根转向与翻转系统** 英国一线教师发起 [[ResearchED]] 草根运动，[[Chartered College of Teaching|特许教学学院]]成立；Evers & Kneyber (2015) 编著《Flip the System》，倡导教师[[Professional Judgment|专业判断]]引领变革、抗衡自上而下行政问责。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 128)]]
 > - **2017 — 定义、应用与测量的三轴整合** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 编辑特刊，将 EIP 系统化组织为定义（四源整合）、应用（[[Knowledge Mobilisation|知识动员]]四策略与肥沃土壤）与测量（双重缺口与成果分层）三大主题。
-> - **2017 — [[Operationalization|操作化]]整合模型（[[School Enquiry Cycle|ESTI]]）与两界融通** [[Argument_Brown_2017_ER|Brown et al. (2017)]] 针对 EIP 在实践中分裂为 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 的双轨割裂现状，提出整合内部[[Data Team Intervention|数据团队]]与外部[[Research Learning Communities|研究学习共同体]]的 ESTI 八步探究循环，为 EIP 奠定了微观操作化理论基石。
+> - **2017 — [[Operationalization|操作化]]整合模型（[[School Enquiry Cycle|ESTI]]）与两界融通** [[Argument_Brown_2017_ER|Brown et al. (2017)]] 针对 EIP 在实践中分裂为 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 的双轨割裂现状，提出整合内部[[Data Team Intervention|数据团队]]与外部[[Research Learning Communities|研究学习共同体]]的 ESTI 八步[[Inquiry Cycle|探究循环]]，为 EIP 奠定了微观操作化理论基石。
 > - **2018 — 组织单位上移与四类关键因素** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 把[[Unit of Analysis|分析单位]]由个体决策上移至学校组织，提出参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四类关键因素，并在英格兰 79 所小学测量其准备状态;研究同时指出 EIP 的稳定推进依赖外部问责与督导框架的明确支持。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 122–126, 133)]]
 > - **2021 — 欧洲政策语言与非处方化协调** 在欧盟语境中，EIP 被重新概念化为适应成员国教育主权、培育评价文化与[[Knowledge Mediation|知识中介]]的非处方化政策语言。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
 > - **2021 — [[Local Knowledge in Evidence-Based Policy|地方知识]]与多维决策信息的显影** [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] 结合 [[Every Student Succeeds Act|ESSA]] [[Evidence Standards|证据标准]]与巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证实施语境、成本与地方知识对证据使用的塑造作用。
@@ -428,7 +429,7 @@ updated: 2026-09-18
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 运用专长社会学理论框架，对英格兰、苏格兰与德国汉堡 34 所中小学的 53 名[[School Leadership|学校领导]]者展开跨国比较，揭示宏观治理体制对 EIP 的深层塑造：英格兰高利害问责导致[[Research Utilization|研究使用]]异化为象征性合规工具，而苏格兰与汉堡的低利害探究文化促进了实践者[[Contributory Expertise|贡献型专长]]与外部[[Interactional Expertise|交互型专长]]的有机融合。
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 结合德语区教学清算中心（[[Clearing House Unterricht]], CHU）近十年运行实践与高校教师教育者（$N = 189$）评估数据，论证以高[[Reliability|信度]][[Meta-analysis|元分析]]为证据基底进行通俗化二次加工、以高校师资培训者为辐射支点并健全双向反馈机制，是推进教师教育 EIP 转型与破除[[Research-Practice Gap|转移困境]]的有效路径。
-> - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle|ESTI]] 探究循环与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization|操作化]]奠定理论与实证基石。
+> - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle|ESTI]] [[Inquiry Cycle|探究循环]]与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization|操作化]]奠定理论与实证基石。
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 追溯 15 年来循证运动从政策端向实践端的演进历程，反思证据知情标签的商业公关化风险，并借助循证医学反思捍卫教师[[Professional Judgment|专业判断]]与[[Knowledge Mediation|知识中介]]的独立性。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation|知识动员]]策略与成果测量类型学。

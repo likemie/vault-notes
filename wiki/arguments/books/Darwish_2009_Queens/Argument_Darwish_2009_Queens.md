@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Argument_Darwish_2009_Queens"
 argument_kind: "books"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -35,7 +35,7 @@ tags:
  - school-reform
  - constructivism
 created: '2026-07-28'
-updated: 2026-09-15
+updated: 2026-09-21
 sources: []
 related_concepts:
   - "[[Active Learning]]"
@@ -92,6 +92,7 @@ related_concepts:
   - "[[Classroom Debate]]"
   - "[[Dehumanization]]"
 related_theories:
+  - "[[Inquiry Cycle]]"
   - "[[Critical Theory]]"
 related_persons:
   - "[[Plato]]"
@@ -345,7 +346,7 @@ related_persons:
 >   $$\sum \tau = 0 \quad \implies \quad F_{\text{动力}} \cdot d_{\text{动力}} = F_{\text{阻力}} \cdot d_{\text{阻力}}$$
 > 
 > - **探究与做中学的全流程**
->   组员首先自主协商搜集物理资料（杠杆支点位置、皮筋拉力系数 $k$）、分配谁负责测量、采购与框架搭建 (p. 35)。小组在草图绘制与弹性测试中展开密集的面对面[[Dialogue in Education|对话]]，将各自的生活直觉与观察经验融合 (Dewey, 1961, pp. 185–186)。在反思性探究循环中：
+>   组员首先自主协商搜集物理资料（杠杆支点位置、皮筋拉力系数 $k$）、分配谁负责测量、采购与框架搭建 (p. 35)。小组在草图绘制与弹性测试中展开密集的面对面[[Dialogue in Education|对话]]，将各自的生活直觉与观察经验融合 (Dewey, 1961, pp. 185–186)。在反思性[[Inquiry Cycle|探究循环]]中：
 >   1. *感知难题* 试射出现木条断裂或抛射距离不达标，产生切身的认知冲突。
 >   2. *明确难题* 根据 $F_{\text{动力}} \cdot d_{\text{动力}} = F_{\text{阻力}} \cdot d_{\text{阻力}}$，精细定位阻力臂 $d_{\text{阻力}}$ 过长导致所需动力 $F_{\text{动力}}$ 超出承受极限。
 >   3. *提出假设* 提出移动支点位置以缩短阻力臂 $d_{\text{阻力}}$ 或增加皮筋组数等改进方案。

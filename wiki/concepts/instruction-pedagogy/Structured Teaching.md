@@ -7,7 +7,7 @@ aliases:
 summary: "在教学组织与认知支架中强调清晰目标、系统规划、过程监控与师生/人机动态互动平衡的教学范式。既包含基础教育中教师领导与自主学习的有机协调，亦指智能技术整合中防范认知卸载并激活高阶心智的递归探究支架体系。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Homework]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Learner Autonomy]]"
   - "[[Performance Pay]]"
   - "[[Lost Mode]]"
@@ -65,7 +66,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Structured Teaching
@@ -100,7 +101,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界辨析
 > - **不等于讲坛式教学（Pulpit / Recitation Teaching）** 讲坛式教学以教师站在前方单向灌输和碎片化问答为主，学生处于被动听讲状态；结构化教学强调教师清晰组织为小组研讨、探究辩论和人机协同提供支架，倡导高质量的双向互动。
-> - **不等于机械套用直接教学（Direct Instruction）** 直接教学特指包含标准步骤、示范与即时纠错的特定教学法；结构化教学是更宽泛的教学组织原则，可灵活嵌入探究式学习、基于设计的学习（DBL）或翻转课堂中。
+> - **不等于机械套用直接教学（Direct Instruction）** 直接教学特指包含标准步骤、示范与即时纠错的特定教学法；结构化教学是更宽泛的教学组织原则，可灵活嵌入[[Inquiry-Based Learning|探究式学习]]、基于设计的学习（DBL）或翻转课堂中。
 > - **不等于缺乏支持的激进个别化（Unguided Individualisation）** 极端的[[Learner Autonomy|自主学习]]让学生独自承担复杂的理解与进度规划，容易导致弱势学生“表面自由、实际掉队”；结构化教学强调自主必须伴随目标、支架与多源反馈。
 > - **不等于忽视教师职业伦理的手册化干预硬性嫁接** 在现场因果试验中，成套手册化结构性干预（Manualised Programmes）若与粗暴的外在金钱奖惩（如[[Performance Pay|绩效工资]]）机械捆绑，极易破坏教师同行信任与内在专业利他认同，诱发伦理抵制乃至招募流产（Sutherland et al., 2017；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）。结构化教学指导（Instructional Coaching）的成效高度依赖于尊重新生教研生态的专业支持模式。
 

@@ -6,7 +6,7 @@ aliases:
 summary: "由批判教育学与实用主义提出的三环节课程模型，主张主动学习必须由批判性思维、对话与指向变革不公的实践成长（Praxis）共同构成"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Scaffolding]]"
   - "[[Working Memory]]"
+  - "[[Discovery Learning]]"
   - "[[Abstract]]"
   - "[[Banking Model of Education]]"
   - "[[Counterfactual]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Active Learning
@@ -97,7 +98,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界
 > - **不等于形式化动手操作（Hands-on without Minds-on）** 纯粹的动手动脚操作若缺乏深层概念冲突、逻辑推演与批判性对话，仍属于低阶被动体验。
-> - **不等于无指导的自由发现（Unassisted Discovery Learning）** 主动学习不排斥教师的显性指导；认知科学证实，缺乏教师支架的自由探索会导致外在认知负荷暴增，效能极低。
+> - **不等于无指导的自由发现（Unassisted [[Discovery Learning]]）** 主动学习不排斥教师的显性指导；认知科学证实，缺乏教师支架的自由探索会导致外在认知负荷暴增，效能极低。
 > - **不等于抽象的政策口号（[[Abstract]] Slogans）** 脱离具体教材教法与课堂规程的主动学习原则存在巨大的实践转化鸿沟。
 
 ---

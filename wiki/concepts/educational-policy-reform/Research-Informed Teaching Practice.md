@@ -7,7 +7,7 @@ aliases:
 summary: "以学术研究成果为依据组织课堂教学决策的专业取向，强调外部实证文献对教学与领导力的启发与应对能力提升，是证据知情实践（EIP）的关键拼图之一；在现实中常与基于数据的决策（DBDM）割裂，亟需依托教师研究素养与学校探究循环实现双轮整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Teacher Professional Agency]]"
 related_theories:
+  - "[[Inquiry Cycle]]"
   - "[[Research Utilization Models]]"
   - "[[Situative Perspective]]"
   - "[[Quality Use of Research Evidence Framework]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Research-Informed Teaching Practice
@@ -129,7 +130,7 @@ updated: 2026-09-17
 > - **[[Research Learning Communities|研究学习共同体]]支架（Research Learning Communities, RLC）** 由 [[Chris Brown]] 开发，结对学校各选派骨干教师与校领导组队，在外部协调员引领下完成全学年四次跨校工作坊，借助结构化协议将学术成果[[Transfer Translation Transformation|转译]]为校本干预并全校扩散。[[Argument_Brown_2017_ER|(Brown et al., 2017, p. 161)]]
 > - **批判性[[Research Literacy|研究素养]]与[[Analytical Stance|分析立场]]（Research Literacy & Analytical Stance）** 教师具备辨识研究质量、识破商业化[[Persuasive Communication in Education|说服性修辞]]包装并评估实证效能的专业素养。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
 > - **同行实践证据中介网络（Peer-Mediated Practice Evidence）** 依托教师工会、学区教研员与学校领导等中介者，将原始学术成果转译为易吸收的[[Practice-Based Evidence|实践本位证据]]。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
-> - **[[School Enquiry Cycle|学校探究循环]]整合机制（School Enquiry Cycle Integration）** 在学校探究循环中，将 RITP 的实证干预策略与 [[Data-Based Decision Making|DBDM]] 的校本诊断紧密嵌合。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 165–167)]]
+> - **[[School Enquiry Cycle|学校探究循环]]整合机制（School Enquiry Cycle Integration）** 在学校[[Inquiry Cycle|探究循环]]中，将 RITP 的实证干预策略与 [[Data-Based Decision Making|DBDM]] 的校本诊断紧密嵌合。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 165–167)]]
 > - **审议协商中的三种声音[[Dialogue in Education|对话]]（Three Voices in Teacher Deliberation）** 承认教师个人经验信念（第一声音）、同行学校文化（第二声音）与外来学术研究（第三声音）在课堂决策中的多维碰撞与深度对话（Cain, 2015; [[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 47–49]]）。
 
 > [!exegesis]- 实践理解与应用示例
@@ -206,7 +207,7 @@ updated: 2026-09-17
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论界定命题** | 确立研究证据作为证据知情拼图的关键碎片地位，划定其与 EIP 的本质区别 | 教师教研培训、循证教学设计、反对脚本化与教条化教学 | Jonathan Sharples (2013); [[Julie Nelson]] 等 |
-> | **系统整合命题** | 揭示 RITP 与 DBDM 的结构性割裂，倡导依托学校探究循环实现双轮嵌合 | 校本教研改革、学校持续改进计划、跨校协作网络 | [[Argument_Brown_2017_ER\|Brown et al. (2017)]]; [[Carol Campbell]] 等 |
+> | **系统整合命题** | 揭示 RITP 与 DBDM 的结构性割裂，倡导依托学校[[Inquiry Cycle\|探究循环]]实现双轮嵌合 | 校本教研改革、学校持续改进计划、跨校协作网络 | [[Argument_Brown_2017_ER\|Brown et al. (2017)]]; [[Carol Campbell]] 等 |
 > | **社会动员与素养命题** | 阐明同行中介网络对证据流动的决定性作用，强调教师分析立场与研究素养建设 | 流行教育创新甄别、全系统知识动员、[[Professional Learning Community\|专业学习共同体]]建设 | Cooper et al. (2017); Carrier (2017); Campbell et al. (2017) |
 > | **微观认知能动命题** | 阐明三种声音碰撞与五类能动反应模式，揭示教师作为反思审议主体的微观采纳机制 | 教师专业发展设计、研究文本转译、校本教研反思研讨 | Tim Cain (2015); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
 
@@ -268,7 +269,7 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 提出证据知情学校与教师改进（[[School Enquiry Cycle|ESTI]]）模型，详述 RITP 的双轨行动理论与英格兰 43 所小学 [[Research Learning Communities|RLC]] 实证干预，通过学校探究循环实现 RITP 与 [[Data-Based Decision Making|DBDM]] 的深度融合。
+> - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 提出证据知情学校与教师改进（[[School Enquiry Cycle|ESTI]]）模型，详述 RITP 的双轨行动理论与英格兰 43 所小学 [[Research Learning Communities|RLC]] 实证干预，通过学校[[Inquiry Cycle|探究循环]]实现 RITP 与 [[Data-Based Decision Making|DBDM]] 的深度融合。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统阐明 RITP 在证据知情拼图中的定位，揭示 RITP 与 DBDM 两个世界的割裂，并提出全系统[[Knowledge Mobilisation|知识动员]]与探究整合模型。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 评述 Cain 的三种声音理论与 Rickinson 的 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立从[[Teacher Professional Agency|教师能动性]]与质量使用理解知识动员的实践路径。
 > - Cain (2015) — 提出教师与研究文本互动的“三种声音”理论与五类能动反应模式（忽略、证实、策略、概念、拒绝），揭示课堂证据采纳的微观机制。

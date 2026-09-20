@@ -9,7 +9,7 @@ summary: "美国加利福尼亚大学圣迭戈分校教育研究系杰出教授�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Document]]"
 related_theories:
+  - "[[Inquiry Cycle]]"
   - "[[Network Society]]"
   - "[[Social Capital Theory]]"
 related_methods:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Alan Daly
@@ -108,7 +109,7 @@ updated: 2026-09-18
 > 教育组织变革与循证实践的成败并非取决于外部证据供给的技术性多寡，而取决于组织内部“关系网络”的连接质量与社会资本存量；教师采纳与运用研究证据，在本质上是一种基于人际信任的社会互动行为。
 
 > [!citation-card] 高利害问责对学校组织学习网络的撕裂效应
-> 当外部问责体制以惩罚和评级作为驱动学校改进的唯一杠杆时，它不仅无法促进[[Research Utilization|研究利用]]，反而会在[[School Leadership|学校领导]]层与教师之间制造深层焦虑与防备心理；[[Network Analysis|网络分析]]清晰表明，面临绩效压力的薄弱学校其内部[[Knowledge Exchange|知识交流]]网络往往更加稀疏和碎片化，实践者倾向于闭门自守，阻断了探究循环所需的组织学习。（Finnegan & Daly, 2012, pp. 62–65）
+> 当外部问责体制以惩罚和评级作为驱动学校改进的唯一杠杆时，它不仅无法促进[[Research Utilization|研究利用]]，反而会在[[School Leadership|学校领导]]层与教师之间制造深层焦虑与防备心理；[[Network Analysis|网络分析]]清晰表明，面临绩效压力的薄弱学校其内部[[Knowledge Exchange|知识交流]]网络往往更加稀疏和碎片化，实践者倾向于闭门自守，阻断了[[Inquiry Cycle|探究循环]]所需的组织学习。（Finnegan & Daly, 2012, pp. 62–65）
 >
 > *Under high-stakes punitive accountability, anxiety and defensiveness undermine the relational ties necessary for professional sharing; network metrics reveal that struggling schools exhibit increasingly fractured knowledge networks, inhibiting the collaborative organizational learning required for genuine improvement.*
 

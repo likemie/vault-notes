@@ -7,7 +7,7 @@ aliases:
 summary: "涵盖个体在数字化社会中理解、解读与批判评估数据的通识能力，以及教育者在学校探究中系统采集质检多源数据、超越单一终结性评价、进行定性定量三角验证的专业实践胜任力；虽能精准诊断学情病因，但自身不包含现成教学策略，亟需与研究素养协同驱动探究闭环。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -69,10 +69,12 @@ related_facts:
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
   - "[[Early Warning Indicator System]]"
+related_theories:
+  - "[[Inquiry Cycle]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Data Literacy
@@ -174,7 +176,7 @@ updated: 2026-09-18
 > 孤立的数据素养往往使学校决策局限于校内数据的现状诊断，缺乏成熟干预策略；孤立的[[Research Literacy|研究素养]]则容易使外部[[Document|文献]]脱离校本现实。
 
 > [!claim] [[Argument_Brown_2017_ER|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
-> **双素养整合赋能探究循环** 推动真正的[[Evidence-Informed Practice|证据知情实践]]（EIP）必须同时依托数据素养与研究素养。数据素养帮[[Teaching Assistant|助教]]育者基于校内数据精准定位问题诱因与真实学情痛点，但数据自身绝不包含现成的教学解决方案；研究素养则帮助教育者从外部实证研究中检索、评估和[[Transfer Translation Transformation|转译]]成熟有效的教学干预方案。只有将两种素养协同整合于系统的[[School Enquiry Cycle|学校探究循环]]（ESTI）中，才能使 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 紧密交融，赋能教师的专业探究与学校的持续改进。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 156, 159, 166–167)]]
+> **双素养整合赋能[[Inquiry Cycle|探究循环]]** 推动真正的[[Evidence-Informed Practice|证据知情实践]]（EIP）必须同时依托数据素养与研究素养。数据素养帮[[Teaching Assistant|助教]]育者基于校内数据精准定位问题诱因与真实学情痛点，但数据自身绝不包含现成的教学解决方案；研究素养则帮助教育者从外部实证研究中检索、评估和[[Transfer Translation Transformation|转译]]成熟有效的教学干预方案。只有将两种素养协同整合于系统的[[School Enquiry Cycle|学校探究循环]]（ESTI）中，才能使 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 紧密交融，赋能教师的专业探究与学校的持续改进。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 156, 159, 166–167)]]
 
 ---
 
@@ -262,7 +264,7 @@ updated: 2026-09-18
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 阐述[[Data Team Intervention|数据团队]]（Data Team）在培育教师数据素养上的实证效能，揭示数据素养知病因缺良方的结构性短板，提出数据素养与[[Research Literacy|研究素养]]在 [[School Enquiry Cycle|ESTI]] 探究循环中的双轮协同。
+> - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 阐述[[Data Team Intervention|数据团队]]（Data Team）在培育教师数据素养上的实证效能，揭示数据素养知病因缺良方的结构性短板，提出数据素养与[[Research Literacy|研究素养]]在 [[School Enquiry Cycle|ESTI]] [[Inquiry Cycle|探究循环]]中的双轮协同。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 阐述教育者数据素养在课堂证据[[Triangulation|三角验证]]、克服终结性评估单一支配及与研究素养整合驱动学校探究中的核心机制。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 强调超越孤立识读数据集的传统数据素养，提倡面向数据去情境化、算法[[Commensuration|通约]]与问责建模全链条的[[Data Infrastructure|数据基础设施]]素养。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 强调未来科学教育改革必须将数学与数据素养作为基础核心维度，支撑学生对现实复杂议题的量化推理。

@@ -7,7 +7,7 @@ aliases:
 summary: "指专业学习共同体运作中，实践者未真正投入探究便径直跳到解决方案的活动形态；其后果是实践与情境的根本问题未被确立、未考虑全部成因与方案，并因做法“已知”而重复无效实践。"
 type: concept
 domain: "teacher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,8 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
-related_theories: []
+related_theories:
+  - "[[Inquiry Cycle]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Activity Traps
@@ -221,7 +222,7 @@ updated: 2026-09-17
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Professional Learning Community]] | 概念 | 活动陷阱是专业学习共同体在缺乏探究协议与成因分析时的典型退化形态。 |
-> | [[School Enquiry Cycle]] | 概念 | 活动陷阱的本质是学校探究循环在“问题成因诊断”与“成效评价”环节发生中断。 |
+> | [[School Enquiry Cycle]] | 概念 | 活动陷阱的本质是学校[[Inquiry Cycle\|探究循环]]在“问题成因诊断”与“成效评价”环节发生中断。 |
 > | [[Poor Research Use]] | 概念 | 活动陷阱是[[Research Utilization\|证据使用]]中流于形式合规、缺乏批判审思的微观病理表现。 |
 > | [[Research Utilization]] | 概念 | 探讨证据如何在学校组织中被实质消化，活动陷阱揭示了证据未能转化为行动理论的机制阻滞。 |
 > | [[Evidence-Informed Practice]] | 概念 | 循证教学实践的防护警示，提示教育者警惕“无探究的盲目活动”。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "由Stenhouse开创并经复杂性理论深化的教育研究范式，主张教师从知识消费者转向自身实践的知识生产者，在复杂自组织教育生态中与外部研究者形成共生探究网络。"
 type: concept
 domain: "teacher-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Ontology]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Inquiry Cycle]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Action Research]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Teacher-as-Researcher
@@ -154,7 +155,7 @@ updated: 2026-09-17
 > 2. **行动[[Hypothesis|假设]]与方案拟定** 结合理论灵感与同行智慧，设计切实可行的教学改进干预方案。
 > 3. **行动实施与多源证据收集** 在[[Business as Usual|常态教学]]中推行新策略，同步记录过程性数据与师生交互细节。
 > 4. **协同反思与效果评估** 对照基线数据分析干预实效，提炼哪些策略促成了积极改变及其背后的情境动因。
-> 5. **经验概念化与迭代再出发** 形成校本案例叙事与实践假说，启动下一轮螺旋上升的探究循环。
+> 5. **经验概念化与迭代再出发** 形成校本案例叙事与实践假说，启动下一轮螺旋上升的[[Inquiry Cycle|探究循环]]。
 
 ---
 

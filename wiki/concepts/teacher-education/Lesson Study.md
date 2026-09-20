@@ -9,7 +9,7 @@ aliases:
 summary: "起源于日本的校本协同教研范式，通过集体备课、授课观课、基于学童证据的研讨与教学微调循环提升教学质量；在证据知情体系中被确立为融通内部实践探究与外部研究使用、支撑专业学习共同体落地的联合实践发展（JPD）核心载体，同时其有效性高度依赖制度化课时保障与高位专业引领。"
 type: concept
 domain: "teacher-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,7 +45,8 @@ related_concepts:
   - "[[Teacher-as-Researcher]]"
   - "[[Teacher Professional Agency]]"
   - "[[Teacher Knowledge Base]]"
-related_theories: []
+related_theories:
+  - "[[Inquiry Cycle]]"
 related_methods:
   - "[[Action Research]]"
   - "[[Design-Based Research]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Lesson Study
@@ -81,7 +82,7 @@ updated: 2026-09-18
 > 课例研究的[[Epistemology|认识论]]旨趣在于将传统孤立封闭的个人课堂转变为公开透明的实证研究现场，使教师从被动的方案执行者转变为深入观察儿童微观认知发生过程的研究型实践者（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 56]]）。
 
 > [!concept-lens] 概念透镜
-> - **核心属性** 聚焦微观真实课堂、以特定个案学童（Case Pupils）的学习反应为核心证据、全员协同研讨、探究循环迭代。
+> - **核心属性** 聚焦微观真实课堂、以特定个案学童（Case Pupils）的学习反应为核心证据、全员协同研讨、[[Inquiry Cycle|探究循环]]迭代。
 > - **外延边界** 课例研究不同于行政考核性的“公开课评优”或自上而下的教研听评课；其评价焦点并非授课教师的个人表演技巧，而是具体教学设计对学生思维认知路径的实际影响。
 > - **系统定位** 在证据知情学校体系中，课例研究被确立为**[[Joint Practice Development|联合实践发展]]（Joint Practice Development, JPD）**的典范机制，是让[[Professional Learning Community|专业学习共同体]]（PLC）将抽象研究证据在真实课堂中进行“测试、实施与微调”的操作载体。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 125)]]
 
@@ -112,7 +113,7 @@ updated: 2026-09-18
 
 ## 核心要素
 
-> [!feature] 课例研究五阶段协同探究循环
+> [!feature] 课例研究五阶段协同[[Inquiry Cycle|探究循环]]
 > - **第一阶段：协同确立目标与教材深度解析（Formulating Goals & Curriculum Analysis）** 教师团队共同研读国家课程标准与学情痛点，确立长远全人育人愿景（如“培养勇于提出质疑的思考者”）与具体单元教学目标。
 > - **第二阶段：协同规划研究课（Collaborative Lesson Planning）** 团队共同设计详尽教案，预测学生在各个提问节点的具体认知反应、典型错误与概念混淆。
 > - **第三阶段：现场授课与个案聚焦点观课（Conducting & Observing the Research Lesson）** 由一名教师执教，其余教师分散在教室内，不干预教学，严格基于预设观察量规详实记录 3 名具有代表性的典型个案学童（高、中、低基础）的发言、困惑表情与[[Homework|作业]]笔记。
@@ -230,7 +231,7 @@ updated: 2026-09-18
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Professional Learning Community]] | 组织土壤 | 课例研究是专业学习共同体（PLC）在微观课堂教研层面的具象化操作模式与 [[Joint Practice Development\|JPD]] 载体。 |
-> | [[School Enquiry Cycle]] | 过程框架 | 课例研究为学校探究循环中的“方案试验与微调”步骤提供了微观实操平台。 |
+> | [[School Enquiry Cycle]] | 过程框架 | 课例研究为学校[[Inquiry Cycle\|探究循环]]中的“方案试验与微调”步骤提供了微观实操平台。 |
 > | [[Activity Traps]] | 防范机制 | 严格基于学生个案证据的课例反思能够有效防止教研活动陷入无因果反馈的活动陷阱。 |
 > | [[Teacher-as-Researcher]] | 理论角色 | 课例研究的[[Epistemology\|认识论]]核心，倡导一线教师成为自身教学情境的研究主体。 |
 > | [[Teacher Professional Agency]] | 核心能力 | 教师在课例研讨与教案重构中行使的能动选择权与批判审思能力。 |

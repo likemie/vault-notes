@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中不使用暗示结果方向的词语的原则，由 McCracken (1988) 提出，要求访谈者和目的陈述写作者让受访者自主描述经验，避免使用成功的、有益的、积极的等预设方向性结果的词汇"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Purpose Statement]]"
   - "[[Document]]"
+  - "[[Discovery Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-21
 ---
 
 # Nondirectional Language
@@ -64,7 +65,7 @@ updated: 2026-05-31
 
 > [!abstract] 应避免的方向性词语
 
-根据 Creswell & Creswell (2022, p.126)，以下词语在质性[[Purpose Statement|目的陈述]]和访谈问题中具有方向性暗示，应予以避免：
+根据 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p. 126)]]，以下词语在质性[[Purpose Statement|目的陈述]]和访谈问题中具有方向性暗示，应予以避免：
 
 - **useful**（有用的）——预设了对特定用途的有效性
 - **positive**（积极的）——预设了正面结果
@@ -80,7 +81,7 @@ updated: 2026-05-31
 | 探索个体的成功自我表达经验 | 探索个体的自我表达经验 |
 | 理解有益的职业发展策略 | 理解职业发展策略 |
 | 考察积极的师生互动模式 | 考察师生互动模式 |
-| 发现有效的学习习惯 | 发现学习习惯及其影响 |
+| 发现有效的学习习惯 | [[Discovery Learning\|发现学习]]习惯及其影响 |
 
 改写后的表述移除了隐含的价值判断，使研究真正开放于参与者经验的多样性。
 

@@ -11,9 +11,9 @@ subtype: program
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2010s–present"
 initiator_organization: "University of Twente"
@@ -53,10 +53,12 @@ related_methods:
 related_facts:
   - "[[Using Data Intervention]]"
   - "[[Research Learning Communities]]"
+related_theories:
+  - "[[Inquiry Cycle]]"
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-21
 ---
 
 # Data Team Intervention
@@ -151,7 +153,7 @@ updated: 2026-09-16
 > > - **探究赋权立场** 强调结构化规程为教师合作研讨与批判反思提供了心理安全空间。
 > >
 > > [!axis] 外部教练依赖度与自我造血能力
-> > 数据团队高度依赖大学教练提供方法学支架；一旦教练撤出，学校能否自发维持高质量探究循环面临考验。
+> > 数据团队高度依赖大学教练提供方法学支架；一旦教练撤出，学校能否自发维持高质量[[Inquiry Cycle|探究循环]]面临考验。
 > >
 > > - **资源制约批判** 指出全天候教练支持难以在更大范围低成本复制。
 > > - **渐进移交策略** 主张通过梯队建设逐步将探究规程内化为学校常规校本教研文化。

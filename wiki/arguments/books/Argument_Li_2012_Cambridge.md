@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 155
+argument_related_count: 156
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -137,6 +137,7 @@ related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
   - "[[Self-Determination Theory]]"
+  - "[[Inquiry Cycle]]"
   - "[[Phenomenology]]"
   - "[[Growth Mindset]]"
   - "[[Attribution Theory]]"
@@ -189,7 +190,7 @@ sources:
 part_of: []
 status: draft
 created: 2026-05-21
-updated: 2026-09-18
+updated: 2026-09-21
 year: 2012
 doi: ""
 citation_aliases:
@@ -1774,7 +1775,7 @@ Li 在第 2 章已经把探究确立为西方学习传统的核心（追溯到�
 >
 > "我记得在 11 岁时开始问关于天空的问题。一个明朗的九月早晨，我早早醒来，决心要看到它（太阳）。我把祖父的望远镜从窗户伸出去，用透镜片将太阳光聚焦到一张纸上。我一直观察到纸终于——我还以为它不会——烧了起来。"(pp.115-116)
 >
-> Li 选择这个故事不是因为它展示了"天才的早期迹象"，而是因为它的**结构** 好奇心（关于天空的问题）→ 主动行为（早起、架望远镜）→ 实验操作（聚焦阳光）→ 观察等待（纸烧起来）。这四步完整地展示了一个探究循环。任何一个 11 岁孩子都可能做类似的事——区别在于，在西方文化中，这种行为被**识别**为"探究精神"并受到**鼓励**。
+> Li 选择这个故事不是因为它展示了"天才的早期迹象"，而是因为它的**结构** 好奇心（关于天空的问题）→ 主动行为（早起、架望远镜）→ 实验操作（聚焦阳光）→ 观察等待（纸烧起来）。这四步完整地展示了一个[[Inquiry Cycle|探究循环]]。任何一个 11 岁孩子都可能做类似的事——区别在于，在西方文化中，这种行为被**识别**为"探究精神"并受到**鼓励**。
 
 > [!info] 探究的制度化
 > 探究不仅是个体行为，在西方已被深度嵌入教育制度(pp.114-115)：

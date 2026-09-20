@@ -53,6 +53,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Normal School]]"
 related_theories:
+  - "[[Inquiry Cycle]]"
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -77,14 +78,14 @@ sources:
   - "[[sources/Brown_2017_ER|Brown_2017_ER]]"
 status: draft
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brown_2017_ER"
 argument_key: "Argument_Brown_2017_ER"
 argument_display_title: "Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -100,7 +101,7 @@ journal: Educational Research
 > 21世纪全球金融危机后，欧美多国公共财政紧缩导致教育行政资助持续削减，传统的自上而下指令式改革日渐式微，各国政策重心加速转向自下而上的学校自我改进。这种宏观转型迫使学校与教师必须自主建立三项核心专业能力：识别教学核心问题、探究其深层根因、设计并实施针对性改进举措。在此背景下，学校纷纷寻求[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）作为支撑路径。然而，当前实践中主导的两条途径——[[Data-Based Decision Making|基于数据的决策]]（Data-Based Decision-Making, DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）——长期作为两个互不交融的独立世界平行演进：DBDM 专注于校内数据分析而缺乏外部成熟教学方案，RITP 偏好学术[[Document|文献]]研读却往往脱离校本真实需求，二者均未能达成学界设想的融通多元证据的全面 EIP 愿景。如何打破两派的制度与[[Epistemology|认识论]]壁垒，将校本数据、实践经验与学术研究系统融合，构建一个兼顾诊断与干预的整体性学校与教师改进模型？（pp. 155–156）
 
 > [!claim] 核心主张
-> DBDM 与 RITP 在认识论功能与操作机制上具有高度的互补性，各自的优势恰好能够镜像弥补对方的结构性短板；通过构建“证据知情学校与教师改进”（[[School Enquiry Cycle|Evidence-Informed School and Teacher Improvement]], ESTI）八步探究循环，将校本数据诊断、实践者默会智慧与外部学术研究系统化融合，才能实现兼具情境适应性、科学有效性与价值公平性的整体性[[Evidence-Informed Decision-Making|证据知情决策]]。（pp. 156, 165–167）
+> DBDM 与 RITP 在认识论功能与操作机制上具有高度的互补性，各自的优势恰好能够镜像弥补对方的结构性短板；通过构建“证据知情学校与教师改进”（[[School Enquiry Cycle|Evidence-Informed School and Teacher Improvement]], ESTI）八步[[Inquiry Cycle|探究循环]]，将校本数据诊断、实践者默会智慧与外部学术研究系统化融合，才能实现兼具情境适应性、科学有效性与价值公平性的整体性[[Evidence-Informed Decision-Making|证据知情决策]]。（pp. 156, 165–167）
 
 
 > [!concept-lens] 阅读透镜
@@ -266,7 +267,7 @@ RITP 的行动理论涵盖教师教学轨与学校领导轨两条平行主线，
 ### 论证步骤三　构建统摄模型：ESTI 八步探究循环与三大支撑条件实现两界融通
 
 > [!claim] 步骤三核心主张
-> 融通两界优势的必由之路在于建构系统的“证据知情学校与教师改进”（[[School Enquiry Cycle|ESTI]]）模型：以八步探究循环为操作骨架，以系统规程、双素养融合与协作意义建构为组织保障，推动教育改进迈向理性审验与本土创生。（pp. 165–168）
+> 融通两界优势的必由之路在于建构系统的“证据知情学校与教师改进”（[[School Enquiry Cycle|ESTI]]）模型：以八步[[Inquiry Cycle|探究循环]]为操作骨架，以系统规程、双素养融合与协作意义建构为组织保障，推动教育改进迈向理性审验与本土创生。（pp. 165–168）
 
 #### 1. 证据知情学校与教师改进（ESTI）八步探究循环操作规程
 
@@ -313,7 +314,7 @@ ESTI 模型并非单纯的流程拼接，其平稳实施必须依托三项深层
 > [!finding-cards] 核心理论判断
 > 1. **两派割裂阻碍整体性 [[Evidence-Informed Practice|EIP]] 达成** [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 在[[International Education|国际教育]]改革中长期作为两条互不交融的平行轨迹演进，导致学校在实践中要么陷于数据诊断而缺乏良方，要么盲目追逐学术热点而脱离校情。（pp. 155–156）
 > 2. **优劣势呈现高度对称的镜像互补** DBDM 的优势（立足真实需求、自主[[Hypothesis|假设]]病因、生成校本方案）恰好能对冲 RITP 的短板（追逐热点、无因盲跳、千校一面）；而 RITP 的优势（提供验证策略、阐明作用机制、拥有[[Transfer Translation Transformation|转译]]工具）亦恰好能弥补 DBDM 的盲区（知病因却不知如何治疗）。（pp. 164–165）
-> 3. **[[School Enquiry Cycle|ESTI]] 八步探究循环构建了统摄操作[[Paradigm|范式]]** 通过涵盖“确立愿景—假设成因—收集数据—质检分析—得出结论—搜寻方案—行动计划—循环评估”的严谨闭环，为学校提供了兼具校本针对性与科学严谨性的整体性实践模型。（pp. 165–167）
+> 3. **[[School Enquiry Cycle|ESTI]] 八步[[Inquiry Cycle|探究循环]]构建了统摄操作[[Paradigm|范式]]** 通过涵盖“确立愿景—假设成因—收集数据—质检分析—得出结论—搜寻方案—行动计划—循环评估”的严谨闭环，为学校提供了兼具校本针对性与科学严谨性的整体性实践模型。（pp. 165–167）
 > 4. **双素养融合与协作意义建构是落地的关键支架** 成功推行 ESTI 要求职前与在职培训系统打破学科壁垒，同步培育教师的[[Data Literacy|数据素养]]与[[Research Literacy|研究素养]]，并在学校内部培育高信任度的协作文化与探究共同体。（pp. 167–168）
 
 > [!stat-cards]- 经验案例与研究规模参数

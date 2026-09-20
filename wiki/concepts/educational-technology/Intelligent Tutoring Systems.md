@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 35
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Dependent Variable]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Computer Simulation]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -55,7 +56,10 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Inq-Blotter]]"
+  - "[[Inq-ITS]]"
+  - "[[Web-based Inquiry Science Environment]]"
 related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Knogler_2025_BB]]"
@@ -117,7 +121,7 @@ updated: 2026-09-21
 > - **学生模型（Student / Learner Model）** 动态表征与追踪学习者当前的知识掌握概率、技能熟练度与常见错误认知偏差，经典方法包括贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）与深度知识追踪（Deep Knowledge Tracing, DKT）。
 > - **教学模型（Pedagogical / Tutor Model）** 依据学生模型与领域模型的差异，动态决定教学干预的时机、反馈类型以及提示层级（从微线索、定向提示到概念解释与答案呈现），并实施[[Scaffolding|脚手架]]的渐进撤除。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, p. 7)]]
 > - **用户界面（User Interface）** 提供学生输入推导步骤、书写代码或进行多模态交互的操作空间，并即时呈现图式表征与自适应[[Feedback|教学反馈]]。
-> - **探究式智能导师架构（Inquiry ITS & Teacher Dashboard）** 将传统步骤诊断拓展至开放科学探究，利用教育数据挖掘解析实验操作日志，内置虚拟智能代理（如 Rex）提供实时微观支架，并借[[Teaching Assistant|助教]]师实时看板（如 Inq-Blotter）将学生探究卡点转化为教师现场介入建议，实现人机协同双轨支架闭环（Gobert et al., 2013, 2023; Dickler et al., 2021; De Jong et al., 2023, pp. 9–10）。
+> - **探究式智能导师架构（Inquiry ITS & Teacher Dashboard）** 将传统步骤诊断拓展至开放科学探究，利用教育数据挖掘解析实验操作日志，内置虚拟智能代理（如 Rex）提供实时微观支架，并借[[Teaching Assistant|助教]]师实时看板（如 [[Inq-Blotter]]）将学生探究卡点转化为教师现场介入建议，实现人机协同双轨支架闭环（Gobert et al., 2013, 2023; Dickler et al., 2021; De Jong et al., 2023, pp. 9–10）。
 
 > [!taxonomy] 数字化教学工具的功能谱系与认知定位（Hillmayr et al., 2020）
 > - **辅导与智能辅导系统（Tutorials & ITS）** 结构化引导全新概念与技能建构，具备自适应诊断与分步支持，学业提升效应最为突出。
@@ -204,7 +208,7 @@ updated: 2026-09-21
 > 突破传统 ITS 局限于良构解题的范式瓶颈，探讨数据挖掘与教师决策看板如何协同支持学生在高阶探究中的假说检验与变量控制。
 
 > [!claim] [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]
-> **过程日志挖掘与人机双轨探究支架赋能** 现代探究式智能导师系统（Inquiry-based Intelligent Tutoring Systems, Inq-ITS）打破了传统 ITS 局限于良构符号计算的范围瓶颈，通过教育数据挖掘技术实时解析学生在虚拟科学实验室中的动态操作（如[[Hypothesis|假设]]提出、[[Control of Variables Strategy|变量控制策略]] CVS 与数据解读）。系统内置的虚拟[[Dialogue in Education|对话]][[AI Agent in Education|智能体]]（Rex）在算法检测到探究阻碍时自动推送分层微观[[Scaffolding|脚手架]]，纵向追踪实验证实此种干预不仅促进即时探究技能，更实现了跨学期的远距离知识迁移（Gobert et al., 2013, 2023）；更为关键的是，系统结合实时决策看板（Inq-Blotter）将算法诊断的学生探究卡点实时推送给任课教师，指导教师精准进行现场面对面干预，获得教师针对性提示的学生在后续任务中技能获得显著额外提升（Dickler et al., 2021），确立了“算法实时微观代偿+教师现场宏观引导”的人机协同双轨探究教学模式。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 9–10)]]
+> **过程日志挖掘与人机双轨探究支架赋能** 现代探究式智能导师系统（Inquiry-based Intelligent Tutoring Systems, [[Inq-ITS]]）打破了传统 ITS 局限于良构符号计算的范围瓶颈，通过教育数据挖掘技术实时解析学生在虚拟科学实验室中的动态操作（如[[Hypothesis|假设]]提出、[[Control of Variables Strategy|变量控制策略]] CVS 与数据解读）。系统内置的虚拟[[Dialogue in Education|对话]][[AI Agent in Education|智能体]]（Rex）在算法检测到探究阻碍时自动推送分层微观[[Scaffolding|脚手架]]，纵向追踪实验证实此种干预不仅促进即时探究技能，更实现了跨学期的远距离知识迁移（Gobert et al., 2013, 2023）；更为关键的是，系统结合实时决策看板（[[Inq-Blotter]]）将算法诊断的学生探究卡点实时推送给任课教师，指导教师精准进行现场面对面干预，获得教师针对性提示的学生在后续任务中技能获得显著额外提升（Dickler et al., 2021），确立了“算法实时微观代偿+教师现场宏观引导”的人机协同双轨探究教学模式。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 9–10)]]
 
 ---
 
@@ -228,7 +232,7 @@ updated: 2026-09-21
 > - **2000年代 概率推断与数据驱动转型** Corbett 与 Anderson 提出的贝叶斯知识追踪（BKT）模型广泛应用于 Carnegie Learning 与 Khan Academy 等平台，实现对知识掌握状态的连续概率拟合。
 > - **2010年代 约束基辅导与[[Dialogue in Education|对话]]系统拓展** 引入约束满足理论（Constraint-Based Tutors）与自然语言多轮交互（如 AutoTutor），探索结合眼动追踪等生理数据辅助[[Metacognition|元认知]]监控。
 > - **2020年 中学理科因果证据整合** Hillmayr et al. (2020) 基于全球 92 项[[Experimental Research|实验研究]]进行系统[[Meta-analysis|元分析]]，确立了智能辅导系统在理科领域显著优于操练与超媒体软件的实证地位，并揭示了教师专业培训的关键调节机制。[[Argument_Knogler_2025_BB|(Knogler et al., 2025)]]
-> - **2020年代 探究式系统（Inq-ITS）与人机协同看板前沿拓展** 突破纯良构符号解题[[Paradigm|范式]]，将教育数据挖掘与自然语言处理应用于开放科学探究过程，通过内置对话代理（Rex）与教师实时看板（Inq-Blotter）构建人机双轨支架，实现科学探究技能跨学期远迁移。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 9–10)]]
+> - **2020年代 探究式系统（[[Inq-ITS]]）与人机协同看板前沿拓展** 突破纯良构符号解题[[Paradigm|范式]]，将教育数据挖掘与自然语言处理应用于开放科学探究过程，通过内置对话代理（Rex）与教师实时看板（[[Inq-Blotter]]）构建人机双轨支架，实现科学探究技能跨学期远迁移。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 9–10)]]
 > - **2020年代中期 生成式大模型复合架构探索** 随着大语言模型兴起，学界尝试将大模型的开放语义理解能力与传统 ITS 的确定性领域规则引擎相结合，探索高稳健性、低成本的新一代教育智能辅导[[Paradigm|范式]]。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
 
 ---
@@ -270,7 +274,7 @@ updated: 2026-09-21
 > | Chen et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 历史多源事实导学 ITS vs. 传统课堂讲授 | 历史事实识记与时间线图式构建 | $N = 84$ | — | Hedges' $g = 0.52$ | $p < .01$ | 准实验设计；ITS 自适应支架有效提升人文历史事实知识掌握度 |
 > | Tasdelen & Bodemer (2025)，引自同上 | 自适应分步微提示 ITS vs. 传统纸笔解题 | 小学数学长除法步骤解题技能 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步微提示降低外在负荷 |
 > | Khazanchi et al. (2025)，引自同上 | 代数几何智能导师 vs. 常规教学 | 中学几何辅助线推导与代数解题 | $N = 96$ | — | Hedges' $g = 0.05$ | $p > .05$ | [[Quasi-Experimental Designs\|准实验设计]]；高抽象度几何证明任务中短期干预效应较温和 |
-> | Dickler et al. (2021; Gobert et al., 2023)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 探究式智能导师（Inq-ITS）+ 教师实时看板（Inq-Blotter）介入 vs. 无看板常规教学 | 中学生科学探究技能（[[Variable\|变量]]控制 [[Control of Variables Strategy\|CVS]] 与证据推论）及后续任务表现 | 中学科学课堂队列实验 | — | 技能增长显著且跨学期稳健迁移 | $p < .01$ | 准实验与追踪设计；证实算法微观提示与教师宏观介入的人机双轨协同效应 |
+> | Dickler et al. (2021; Gobert et al., 2023)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 探究式智能导师（[[Inq-ITS]]）+ 教师实时看板（[[Inq-Blotter]]）介入 vs. 无看板常规教学 | 中学生科学探究技能（[[Variable\|变量]]控制 [[Control of Variables Strategy\|CVS]] 与证据推论）及后续任务表现 | 中学科学课堂队列实验 | — | 技能增长显著且跨学期稳健迁移 | $p < .01$ | 准实验与追踪设计；证实算法微观提示与教师宏观介入的人机双轨协同效应 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -279,14 +283,14 @@ updated: 2026-09-21
 > |---|---|---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 智能导师系统（ITS） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 聚焦基础教育理科解题与规则引导场景，在四大技术形态中汇总点估计最高 |
 > | Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 干预因素（数字化工具功能类型） | 辅导与智能辅导系统（Tutorials & ITS） | $k = 92$（总体） / — | 学业成就 $g = 0.65$；学科态度 $g = 0.45$ | 工具类型比较及教师培训调节检验显著（$p < .001$） | 中学数学与自然科学实验及准实验证据；ITS 显著优于超媒体（$g = 0.44$）与操练程序 |
-> | Gerard et al. (2015)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 干预因素（自动化自适应指导） | 科学探究平台（WISE）NLP 自适应支架 | $k = 41$ / — | $g = 0.34$ | 与常规课堂指导对比显著 | 针对学生开放式科学论证与因果解释文本的自动化批改与自适应提示 |
+> | Gerard et al. (2015)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 干预因素（自动化自适应指导） | 科学探究平台（[[Web-based Inquiry Science Environment\|WISE]]）NLP 自适应支架 | $k = 41$ / — | $g = 0.34$ | 与常规课堂指导对比显著 | 针对学生开放式科学论证与因果解释文本的自动化批改与自适应提示 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统阐明探究式智能导师系统（Inq-ITS）利用教育数据挖掘追踪复杂科学探究技能、通过智能代理（Rex）提供自适应微观支架，并借助实时教师看板（Inq-Blotter）实现人机双轨协同教学与跨学期远迁移的前沿机制。
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统阐明探究式智能导师系统（[[Inq-ITS]]）利用教育数据挖掘追踪复杂科学探究技能、通过智能代理（Rex）提供自适应微观支架，并借助实时教师看板（[[Inq-Blotter]]）实现人机双轨协同教学与跨学期远迁移的前沿机制。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在教育[[AI Agent in Education|人工智能智能体]]促学[[Meta-analysis|元分析]]中将智能导师系统作为核心分析类型，证实其对基础教育学段认知表现具有显著的正向促进效应（$g = 0.540$），通过步骤级自适应线索精准支持学习者的[[Procedural Skill|程序性技能]]习得。
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 依托德语区清算服务中心[[Transfer Translation Transformation|转译]]实践，详细评述 Hillmayr et al. (2020) 针对中学理科数字化工具的元分析（$k = 92$），确立了智能辅导系统（$g = 0.65$）相较于传统操练程序与超媒体系统的效能优势，并明确论证了教师专业教学法培训作为关键调节支点的不可替代性。
 
@@ -299,7 +303,7 @@ updated: 2026-09-21
 > |---|---|---|---|
 > | **中学数学与代数** | 方程求解、多步骤长除法、函数图式演练 | 步骤级错误归因、自适应微提示与分步[[Scaffolding\|脚手架]] | 显著降低外在负荷并提升技能内化；Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
 > | **自然科学与物理化学** | 概念规律探究、微观分子反应推演 | 结合动态模拟与知识追踪的因果逻辑诊断 | 促学成效显著优于静态超媒体系统（$g = 0.65$）；Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] |
-> | **虚拟仿真与科学探究** | 虚拟实验室假说检验、[[Variable\|变量]]控制与数据推论 | 操作日志挖掘、智能代理（Rex）微观支架与教师看板（Inq-Blotter） | 探究技能显著提升并实现跨学期远迁移；Gobert et al. (2023)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
+> | **[[Computer Simulation\|虚拟仿真]]与科学探究** | 虚拟实验室假说检验、[[Variable\|变量]]控制与数据推论 | 操作日志挖掘、智能代理（Rex）微观支架与教师看板（[[Inq-Blotter]]） | 探究技能显著提升并实现跨学期远迁移；Gobert et al. (2023)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
 > | **人文历史与社会科学** | 多源史料阅读、时空轴线图式构建 | 事实问答导学、因果线索自适应触发与结构化评测 | 人文事实与图式识记效应显著（$g = 0.52$）；Chen et al. (2025)，引自同上 |
 > | **中学几何与高阶证明** | 辅助线构造、严密逻辑演绎推导 | 产生式规则推理与逆向推演检验 | 面对非标准高阶劣构证明时干预效应温和；Khazanchi et al. (2025)，引自同上 |
 

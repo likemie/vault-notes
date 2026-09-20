@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序，传统实证主义将其预设为贯通自然与社会的普适法则，而当代科学哲学与科学教育将其重构为多元、情境化且受价值制约的社会认识论实践。"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[School Effectiveness]]"
 related_theories:
+  - "[[Inquiry Cycle]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[In-depth Interview]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Scientific Method
@@ -156,7 +157,7 @@ updated: 2026-09-17
 
 Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的系统操作路径，而当代科学社会学则为其补充了社会论证反馈回路。
 
-> [!logic-map]- 要素关系与探究循环
+> [!logic-map]- 要素关系与[[Inquiry Cycle|探究循环]]
 > ```mermaid
 > flowchart TD
 >     subgraph 假说与设计阶段 [理论推演与设计]

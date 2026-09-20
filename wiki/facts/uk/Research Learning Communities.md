@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Engineered Evidence]]"
   - "[[Academic Achievement]]"
 related_theories:
+  - "[[Inquiry Cycle]]"
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Network Analysis]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-21
 ---
 
 # Research Learning Communities
@@ -101,7 +102,7 @@ updated: 2026-09-16
 > - **实施控制** 采用[[Network Analysis|社会网络分析]]（SNA）与[[Longitudinal Study|纵向调查]]量表追踪信息流动态势，监测研究证据在教师人际网络中的扩散深度。
 
 > [!proc] RLC 三步“学习[[Dialogue in Education|对话]]”与四阶段跨校研修流程
-> 工作坊围绕三步“学习对话”（Learning Conversations）探究循环展开，促使外部显性证据与教师默会知识深度碰撞：[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 126)]]
+> 工作坊围绕三步“学习对话”（Learning Conversations）[[Inquiry Cycle|探究循环]]展开，促使外部显性证据与教师默会知识深度碰撞：[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 126)]]
 > 1. **审视与重构（Review & Reframe）** 交互研读学术转译简报，挑战并反思既有实践惯性与认知假设；
 > 2. **设计与试验（Design & Trial）** 结对合作，将研究通则转化为适配本校真实学情的微型课堂教学干预并开展试验；
 > 3. **评估与反思（Evaluate & Reflect）** 多视角搜集学生证据与课堂反馈，评估教学干预成效并迭代优化。
@@ -126,7 +127,7 @@ updated: 2026-09-16
 > - **2014–2015 — 理论奠基与小范围试点** 布朗在伦敦大学学院确立 RLC 概念框架与操作手册，联合英格兰南部部分学区开展原型测试。
 > - **2015–2016 — [[Education Endowment Foundation|EEF]] 资助大规模试点与[[Network Analysis|网络分析]]** 在英格兰小学展开系统干预，通过社会网络分析（SNA）与前[[Pre-test and Post-test|后测]]问卷，系统评估教师[[Research Literacy|研究素养]]与专业网络密度的动态跃升。
 > - **2017 — 布里斯托大学独立 [[Randomised Controlled Trials|RCT]] 评估发布** 由布里斯托大学领衔执行的独立随机对照试验发布终期报告（Rose et al., 2017），直接追踪 119 所小学 5,462 名学生的客观阅读成绩，发现对学生终考成绩提升净值为零（$ES = -0.03$）。[[Gorard's Trustworthiness Sieve|戈拉德可信度筛子]]将其评定为 3 级（★★★，良好因果可[[Reliability|信度]]）。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 592–593)]]
-> - **2017 至今 — “热门话题”偏差反思与生态融合** 评估实证促使学者反思单纯依赖人际研讨的脆弱性，推动将 RLC 与[[Data Team Intervention|数据团队]]干预（Data Team）整合为探究循环模型，并深度融入英格兰[[Research Schools Network|研究学校网络]]。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 164–165)]]
+> - **2017 至今 — “热门话题”偏差反思与生态融合** 评估实证促使学者反思单纯依赖人际研讨的脆弱性，推动将 RLC 与[[Data Team Intervention|数据团队]]干预（Data Team）整合为[[Inquiry Cycle|探究循环模型]]，并深度融入英格兰[[Research Schools Network|研究学校网络]]。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 164–165)]]
 
 ---
 

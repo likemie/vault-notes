@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -41,7 +41,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Marcia C. Linn]]"
 related_facts:
   - "[[National Science Foundation]]"
 related_arguments:
@@ -59,7 +60,7 @@ updated: 2026-09-21
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 基于网络的探究科学环境（Web-based Inquiry Science Environment, WISE）是由加州大学伯克利分校马西娅·琳（Marcia C. Linn）教授领衔、[[National Science Foundation|美国国家科学基金会]]（NSF）长期持续资助的开源数字化科学教育研发平台。平台专注于为 K-12 阶段提供将动态交互可视化、基于证据的科学探究、协同论证与自适应反馈深度整合的课程单元，是全球学习科学与教育技术领域应用最广、历时最长、循证证据最为扎实的代表性平台之一。（Slotta & Linn, 2009；[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 3]]）
+> 基于网络的探究科学环境（Web-based Inquiry Science Environment, WISE）是由加州大学伯克利分校[[Marcia C. Linn|马西娅·琳]]（Marcia C. Linn）教授领衔、[[National Science Foundation|美国国家科学基金会]]（NSF）长期持续资助的开源数字化科学教育研发平台。平台专注于为 K-12 阶段提供将动态交互可视化、基于证据的科学探究、协同论证与自适应反馈深度整合的课程单元，是全球学习科学与教育技术领域应用最广、历时最长、循证证据最为扎实的代表性平台之一。（Slotta & Linn, 2009；[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 3]]）
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1997 年启动早期原型开发（源自计算机作为学习伙伴 CLP 及知识整合环境 KIE 项目），2000 年代初正式确立 WISE 平台架构并持续迭代至今，处于长期活跃的全球常态化运行状态。

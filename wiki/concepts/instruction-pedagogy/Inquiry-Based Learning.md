@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 43
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Direct Instruction]]"
   - "[[Document]]"
+  - "[[Discovery Learning]]"
   - "[[Scaffolding]]"
   - "[[Working Memory]]"
   - "[[Epistemology]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Academic Achievement]]"
 related_theories:
+  - "[[Inquiry Cycle]]"
   - "[[Cognitive Constructivism]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -63,6 +65,8 @@ related_instruments: []
 related_persons:
   - "[[Deanna Kuhn]]"
   - "[[John Sweller]]"
+  - "[[Ton de Jong]]"
+  - "[[Cindy E. Hmelo-Silver]]"
   - "[[Clark A. Chinn]]"
 related_facts:
   - "[[PISA]]"
@@ -83,7 +87,7 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 核心定义
-> 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质不是将预制结论直接交付学生，而是引导学生在由浅入深的探究循环（Inquiry Cycle）中，通过[[Hypothesis|假设]]提出、[[Variable|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge|建构知识]]。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–3)]]
+> 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质不是将预制结论直接交付学生，而是引导学生在由浅入深的[[Inquiry Cycle|探究循环]]（Inquiry Cycle）中，通过[[Hypothesis|假设]]提出、[[Variable|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge|建构知识]]。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调学习者在情境化调查中作为[[Knowledge Production|知识建构]]者的[[Epistemic Agency|认识能动性]]（Epistemic Agency），通过经验证据检验概念模型，推动深度概念重构与概念转变。
@@ -96,14 +100,14 @@ updated: 2026-09-21
 > *Inquiry-based instruction produces better overall results for acquiring conceptual knowledge than does direct instruction. We show that this conclusion holds for controlled, correlational, and program-based studies... inquiry-based instruction is most effective when supplemented with guidance that can be personalized based on moderating factors.*
 
 > [!boundary]- 概念边界
-> - 不等于纯发现学习（Pure Discovery） — 纯发现缺乏[[Scaffolding|认知脚手架]]，会导致[[Working Memory|工作记忆]]过载与迷失；有效的探究教学普遍高度结构化，包含严谨的任务序列与动态支架。
+> - 不等于[[Discovery Learning|纯发现学习]]（Pure Discovery） — 纯发现缺乏[[Scaffolding|认知脚手架]]，会导致[[Working Memory|工作记忆]]过载与迷失；有效的探究教学普遍高度结构化，包含严谨的任务序列与动态支架。
 > - 不等于仪式性操作手册验证（Cookbook Experiments） — 照搬实验手册以机械验证预定理论的烹饪式实验缺乏真实的问题提出与证据权衡，不具备探究学习的核心特征。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 指导式探究学习、[[Direct Instruction|直接教学]]与纯发现学习的对比
+> [!contrast-table] 指导式探究学习、[[Direct Instruction|直接教学]]与[[Discovery Learning|纯发现学习]]的对比
 > | 维度 | 指导式探究学习（Guided Inquiry） | 直接教学（Direct Instruction） | 纯发现学习（Pure Discovery） |
 > |---|---|---|---|
 > | [[Knowledge Production\|知识生成]]路径 | 学生在支架引导下通过证据检验自主建构 | 教师先行清晰讲授、示范并主导程序练习 | 学习者在无指导环境中完全自主摸索尝试 |
@@ -123,7 +127,7 @@ updated: 2026-09-21
 > - **复杂推理协调（Complex Reasoning）** 协调多源证据，评估替代性解释，妥善处理实验数据中的反常与异常值。
 > - **共同体批判协商（Collaborative Community）** 将探究方法与结论向学习共同体公开，直面同伴质疑并在协商中开展社会化建构。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]
 
-> [!logic-map]- 探究循环与指导维度
+> [!logic-map]- [[Inquiry Cycle|探究循环]]与指导维度
 > ```mermaid
 > flowchart TD
 >     A["激发取向：提出问题与激活先验"] --> B["概念化：形成假设与确定变量"]
@@ -153,7 +157,7 @@ updated: 2026-09-21
 > 学界关于探究教学成效的争论根源在于未严格区分指导程度。受控实验与[[Meta-analysis|元分析]]一致表明，无指导发现成效匮乏，但一旦提供合理认知与[[Metacognition|元认知]]支架，探究式教学的学业成效显著超越传统[[Direct Instruction|直接讲授]]。
 
 > [!claim] Alfieri et al. & Furtak et al.
-> **辅助探究的优越性与纯发现的局限** 对 164 项实证研究的元分析表明，无辅助发现学习的效果确实劣于显性直接教学；然而，包含启发提示、策略示范或过程反馈的辅助式探究学习（Assisted Inquiry），其在概念知识掌握上的成效显著优于单纯由教师进行结构化讲授与示范的直接教学。Furtak et al. 对 37 项对比研究的元分析进一步确认了探究教学的整体正向效应，且教师指导的介入进一步放大了该优势。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 4–5)]]
+> **辅助探究的优越性与纯发现的局限** 对 164 项实证研究的元分析表明，无辅助[[Discovery Learning|发现学习]]的效果确实劣于显性直接教学；然而，包含启发提示、策略示范或过程反馈的辅助式探究学习（Assisted Inquiry），其在概念知识掌握上的成效显著优于单纯由教师进行结构化讲授与示范的直接教学。Furtak et al. 对 37 项对比研究的元分析进一步确认了探究教学的整体正向效应，且教师指导的介入进一步放大了该优势。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 4–5)]]
 
 > [!claim] Lazonder & Harmsen
 > **指导支架对探究成效的倍增作用** 针对 72 项严格实验与准[[Experimental Research|实验研究]]的元分析显示，教学指导的引入使探究式教学的学习成果平均提升了半个标准差。更为关键的是，无论指导的具体形式是过程约束、概念线索、反思提示还是适时解释，只要提供了有效指导，各类支架在促进学习产出上均表现出高度等效的积极作用。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 4–5)]]
@@ -200,8 +204,8 @@ updated: 2026-09-21
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1960–1970 年代 — 纯发现学习兴起与早期受挫** 早期发现学习（Discovery Learning）主张学习者在无指导环境中自主探索自然规律，但因缺乏认知支持导致学生产生大量挫败感与知识迷失，引发教育界对极简指导教学的大规模反思。
-> - **1980–1990 年代 — [[Constructivist Paradigm|建构主义]]转型与探究循环规范化** 随着[[Cognitive Constructivism|认知建构主义]]与社会建构主义兴起，科学教育研究将探究学习系统规范化为由问题驱动、[[Hypothesis|假设]]设计、证据收集、模型建构与同伴论证构成的探究循环（Inquiry Cycle），[[Scaffolding|教学支架]]（Scaffolding）理论被全面引入探究设计。
+> - **1960–1970 年代 — [[Discovery Learning|纯发现学习]]兴起与早期受挫** 早期发现学习（Discovery Learning）主张学习者在无指导环境中自主探索自然规律，但因缺乏认知支持导致学生产生大量挫败感与知识迷失，引发教育界对极简指导教学的大规模反思。
+> - **1980–1990 年代 — [[Constructivist Paradigm|建构主义]]转型与[[Inquiry Cycle|探究循环]]规范化** 随着[[Cognitive Constructivism|认知建构主义]]与社会建构主义兴起，科学教育研究将探究学习系统规范化为由问题驱动、[[Hypothesis|假设]]设计、证据收集、模型建构与同伴论证构成的探究循环（Inquiry Cycle），[[Scaffolding|教学支架]]（Scaffolding）理论被全面引入探究设计。
 > - **2000–2010 年代 — 认知负荷争论与指导式探究循证确立** [[Cognitive Load Theory|认知负荷理论]]学者提出强力批评，宣扬最小指导彻底失效；学习科学界开展反驳，明确将有效探究界定为包含充分认知支架的指导式探究（Guided Inquiry），系列[[Meta-analysis|元分析]]（Alfieri et al., 2011; Furtak et al., 2012; Lazonder & Harmsen, 2016）系统确立了指导式探究的实证优势。
 > - **2020 年代至今 — 多重调节[[Variable|变量]]与时序协同模型** 面临[[Direct Instruction|直接教学]]绝对优越论的再次抬头，以 [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 为代表的综述全面整合受控实验、[[PISA]] 跨国调查与课程级长周期项目，建构起结合先验知识、抑制控制与学习目标的探究与直接教学时序整合设计[[Paradigm|范式]]。
 
@@ -211,7 +215,7 @@ updated: 2026-09-21
 
 > [!tension] 探究式教学与[[Direct Instruction|直接教学]]之争（Inquiry vs. Direct Instruction Debate）
 > - **认知负荷派观点（蓝方）** 以 [[John Sweller]]、Paul A. Kirschner 与 Richard E. Clark 等学者为代表，依据[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT），主张人类[[Working Memory|工作记忆]]容量极其有限。在处理全新信息时，让学习者自主探索会迫使工作记忆陷入无效的盲目搜索与试误，造成沉重的外在认知负荷；因此，由教师进行完全显性的示范、提供充分工作样例的直接教学在任何阶段都具有压倒性优势。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 1–2)]]
-> - **学习科学与探究派观点（红方）** 以 Ton de Jong、Cindy E. Hmelo-Silver、[[Clark A. Chinn]] 等学者为代表，指出反对者将探究教学贬损为无指导纯发现是制造假想敌。大量受控实验与[[Meta-analysis|元分析]]实证证实，辅以有效支架的探究教学不仅不会造成超载，反而在深层概念理解、科学本质认识、迁移能力与学习动机上全面超越单一直接讲授；真实课堂的最优[[Paradigm|范式]]绝非二选一，而是将直接教学适时嵌入探究全周期中。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–6)]]
+> - **学习科学与探究派观点（红方）** 以 [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] 等学者为代表，指出反对者将探究教学贬损为无指导纯发现是制造假想敌。大量受控实验与[[Meta-analysis|元分析]]实证证实，辅以有效支架的探究教学不仅不会造成超载，反而在深层概念理解、科学本质认识、迁移能力与学习动机上全面超越单一直接讲授；真实课堂的最优[[Paradigm|范式]]绝非二选一，而是将直接教学适时嵌入探究全周期中。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–6)]]
 
 > [!warning] 适用局限
 > 探究式教学的顺利实施对师资专业素养与教学环境设计提出了极高要求。若教师缺乏实时诊断学生推理困境的能力，或数字化平台缺乏自适应[[Scaffolding|脚手架]]，探究活动极易退化为低效的形式主义或造成严重认知超载。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–9)]]

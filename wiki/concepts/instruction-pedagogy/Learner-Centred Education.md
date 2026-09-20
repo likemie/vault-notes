@@ -10,7 +10,7 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Discovery Learning]]"
   - "[[Scaffolding]]"
   - "[[Test-Based Accountability]]"
   - "[[Decodification]]"
@@ -54,7 +55,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Learner-Centred Education
@@ -89,7 +90,7 @@ updated: 2026-09-17
 > | 维度 | 以学生为中心教育（LCE） | 教师主导教学法（Teacher-Led Pedagogy） | [[Constructivist Paradigm\|建构主义教学]] |
 > |---|---|---|---|
 > | **分析对象** | 以学生为主体、强调自主与对话的整体教学[[Paradigm\|范式]] | 以教师为知识权威和控制核心的讲授范式 | 关注学习者主观知识建构过程的[[Epistemology\|认识论]]与教学法 |
-> | **核心机制** | 内在动机驱动、已有经验联系、课堂对话与[[Critical Thinking\|批判性思维]] | 系统讲授、知识传授、精细练习与数据诊断提分 | 发现学习、认知冲突解决、社会文化互动与意义建构 |
+> | **核心机制** | 内在动机驱动、已有经验联系、课堂对话与[[Critical Thinking\|批判性思维]] | 系统讲授、知识传授、精细练习与数据诊断提分 | [[Discovery Learning\|发现学习]]、认知冲突解决、社会文化互动与意义建构 |
 > | **知识观** | 知识在师生与生生[[Dialogue in Education\|对话]]协商中建构与深化 | 知识为客观确定的符号体系，需被记忆与掌握 | 知识由个人或共同体在情境中主观建构 |
 > | **教师角色** | 学习促进者（facilitator）、设计者与探究引导者 | 知识权威、课堂主导者与统考冲刺指挥官 | [[Scaffolding\|认知支架]]提供者、情境创设者 |
 > | **[[Test-Based Accountability\|考试问责]]适应性** | 易被质疑效率低，但可被重构为攻克高阶考题与提升课堂吸收率的工具 | 与标准考核高度适配，风险低且能稳定输出中等分数 | 强调深度理解，与传统记忆型考核存在摩擦 |

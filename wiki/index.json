@@ -6198,6 +6198,19 @@
     ]
   },
   {
+    "title": "Discovery Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Discovery Learning.md",
+    "aliases": [
+      "发现学习",
+      "发现式学习",
+      "引导式发现",
+      "纯发现学习",
+      "Guided Discovery",
+      "Pure Discovery"
+    ]
+  },
+  {
     "title": "Effective Teaching",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
@@ -6399,6 +6412,16 @@
     "aliases": [
       "问题本位学习",
       "基于问题的学习"
+    ]
+  },
+  {
+    "title": "Process-Oriented Guided Inquiry Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Process-Oriented Guided Inquiry Learning.md",
+    "aliases": [
+      "过程导向指导式探究学习",
+      "POGIL",
+      "过程导向探究教学法"
     ]
   },
   {
@@ -12273,6 +12296,18 @@
     ]
   },
   {
+    "title": "Inquiry Cycle",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Inquiry Cycle.md",
+    "aliases": [
+      "探究循环",
+      "探究循环模型",
+      "佩达斯特探究循环",
+      "科学探究阶段模型",
+      "Inquiry Learning Cycle"
+    ]
+  },
+  {
     "title": "Social Interdependence Theory",
     "type": "theory",
     "path": "wiki/theories/instruction-pedagogy/Social Interdependence Theory.md",
@@ -18100,6 +18135,16 @@
     ]
   },
   {
+    "title": "Ton de Jong",
+    "type": "person",
+    "path": "wiki/persons/netherlands/Ton de Jong.md",
+    "aliases": [
+      "唐·德容",
+      "德容",
+      "De Jong, T."
+    ]
+  },
+  {
     "title": "John Hattie",
     "type": "person",
     "path": "wiki/persons/new-zealand/John Hattie.md",
@@ -19224,6 +19269,16 @@
     ]
   },
   {
+    "title": "Cindy E. Hmelo-Silver",
+    "type": "person",
+    "path": "wiki/persons/us/Cindy E. Hmelo-Silver.md",
+    "aliases": [
+      "辛迪·赫梅洛-西尔弗",
+      "Hmelo-Silver, C. E.",
+      "Cindy Hmelo-Silver"
+    ]
+  },
+  {
     "title": "Clark A. Chinn",
     "type": "person",
     "path": "wiki/persons/us/Clark A. Chinn.md",
@@ -19620,6 +19675,17 @@
     "aliases": [
       "Magolda, M. B.",
       "马西娅·巴克斯特·马戈尔达"
+    ]
+  },
+  {
+    "title": "Marcia C. Linn",
+    "type": "person",
+    "path": "wiki/persons/us/Marcia C. Linn.md",
+    "aliases": [
+      "马西娅·琳",
+      "玛西亚·林恩",
+      "Linn, M. C.",
+      "Marcia Linn"
     ]
   },
   {
@@ -25258,6 +25324,26 @@
     ]
   },
   {
+    "title": "Inq-Blotter",
+    "type": "fact",
+    "path": "wiki/facts/us/Inq-Blotter.md",
+    "aliases": [
+      "探究警报看板",
+      "探究教师仪表盘",
+      "Inq-Blotter Dashboard",
+      "AI-based Teacher Dashboard"
+    ]
+  },
+  {
+    "title": "Inq-ITS",
+    "type": "fact",
+    "path": "wiki/facts/us/Inq-ITS.md",
+    "aliases": [
+      "探究智能导师系统",
+      "Inquiry Intelligent Tutoring System"
+    ]
+  },
+  {
     "title": "Intensive Reading Remediation",
     "type": "fact",
     "path": "wiki/facts/us/Intensive Reading Remediation.md",
@@ -25357,6 +25443,17 @@
       "同伴互助学习策略",
       "PALS",
       "Peer-Assisted Learning Strategies (PALS)"
+    ]
+  },
+  {
+    "title": "PhET Interactive Simulations",
+    "type": "fact",
+    "path": "wiki/facts/us/PhET Interactive Simulations.md",
+    "aliases": [
+      "PhET",
+      "PhET Simulations",
+      "交互式科学仿真",
+      "物理教育技术项目"
     ]
   },
   {

@@ -8,7 +8,7 @@ aliases:
 summary: "在数字虚拟世界与交互式学习环境中代表人类用户或人工智能系统的可配置拟人化数字表征；在质性研究中作为投射技术与身份实验媒介，在人机交互与智能探究中作为提供自适应脚手架与即时诊断的拟人教学导师。"
 type: concept
 domain: "educational-technology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Ideal Speech Situation]]"
   - "[[Hypothesis]]"
+  - "[[Computer Simulation]]"
   - "[[Construct]]"
   - "[[Presence]]"
   - "[[Dialogue in Education]]"
@@ -170,7 +171,7 @@ updated: 2026-09-21
 > |---|---|---|---|
 > | **观点[[Externalization\|外化]]与真实投射** | 化身作为投射技术媒介穿透社会期望偏误，实现价值观与认同外化 | 质性深入访谈、自我认同建构与群体偏好研究 | Martin (2010); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] |
 > | **匿名赋权与理想言说** | 匿名性消解现实权力压迫，逼近理想言说情境，支持高敏感议题辩论 | 公民教育研讨、跨文化争议审议、网络社群交互 | Habermas (1984); Castells (2009) |
-> | **交互探究与概念生成** | 虚拟教学化身通过预测性提问与即时因果诊断实现无讲授概念自主探究 | 混合现实科学探究、物理实验操作、虚拟仿真实验室 | Yannier et al. (2020); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 9)]] |
+> | **交互探究与概念生成** | 虚拟教学化身通过预测性提问与即时因果诊断实现无讲授概念自主探究 | 混合现实科学探究、物理实验操作、[[Computer Simulation\|虚拟仿真]]实验室 | Yannier et al. (2020); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 9)]] |
 
 ---
 

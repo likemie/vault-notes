@@ -6,7 +6,7 @@ aliases:
 summary: "指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石"
 type: concept
 domain: "teacher-education"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -76,6 +76,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Organizational Culture]]"
   - "[[Theory of Planned Behavior]]"
+  - "[[Inquiry Cycle]]"
 related_facts:
   - "[[British Educational Research Association]]"
   - "[[Research Learning Communities]]"
@@ -84,7 +85,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Research Literacy
@@ -259,7 +260,7 @@ updated: 2026-09-18
 
 > [!dev-timeline] 概念演变
 > - **2000s–2010s — 信息素养与实证技能测度** [[Document|文献]]多将研究素养[[Operationalization|操作化]]为信息检索、科研文献阅读与数据分析技能（Williams & Coles, 2007; Brown & Zhang, 2016）。
-> - **2017 — 探究循环视阈下的双素养协同（[[School Enquiry Cycle|ESTI]]）** [[Argument_Brown_2017_ER|Brown et al. (2017)]] 揭示教师在检索与[[Transfer Translation Transformation|转译]]期刊学术论文时面临的研究素养壁垒，提出依托 [[Research Learning Communities|RLC]] 结构化协议提供中介支架，并倡导职前与在职培训中将研究素养与[[Data Literacy|数据素养]]一体化协同培育。
+> - **2017 — [[Inquiry Cycle|探究循环]]视阈下的双素养协同（[[School Enquiry Cycle|ESTI]]）** [[Argument_Brown_2017_ER|Brown et al. (2017)]] 揭示教师在检索与[[Transfer Translation Transformation|转译]]期刊学术论文时面临的研究素养壁垒，提出依托 [[Research Learning Communities|RLC]] 结构化协议提供中介支架，并倡导职前与在职培训中将研究素养与[[Data Literacy|数据素养]]一体化协同培育。
 > - **2018 — [[Scientific Literacy|科学素养]]确立为公民民主权利** Chalmers 等人（2018）提出公众对研究证据的批判性理解与使用是现代民主社会中公民不可剥夺的基本权利。
 > - **2022 — 技艺模型与专业德性转向** Eriksen（2022）把研究素养界定为专业德性，在技艺模型框架下提出完整性、讲理与灵活性三德性及三种敏感度。
 > - **2022 — 双轨培训拓展与后真相批判免疫** [[OECD|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022]]）将研究素养从教师单轨拓展至“教师教育与公职人员培训”双轨，强调对多元方法论的批判性审议，确立其作为抵御商业营销操纵与后真相偏见的核心防线。
@@ -326,7 +327,7 @@ updated: 2026-09-18
 > |:-----|:-----|:-----|
 > | [[Quality Use of Research Evidence Framework]] | 理论 | 研究素养构成驱动“深思熟虑参与”不可或缺的个体使能构件（技能网络与态度价值观）。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 142–143)]] |
 > | [[Data Literacy]] | 概念 | 研究素养与数据素养在 ESTI 学校探究循环中构成双轮驱动，前者提供实证干预方案，后者精准锚定校本学情痛点。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 167)]] |
-> | [[School Enquiry Cycle]] | 概念 | 统一的学校探究循环（ESTI）为教师协同运用研究素养与数据素养提供了微观操作规程。 |
+> | [[School Enquiry Cycle]] | 概念 | 统一的学校[[Inquiry Cycle\|探究循环]]（ESTI）为教师协同运用研究素养与数据素养提供了微观操作规程。 |
 > | [[Professional Judgment\|专业判断]] | 概念 | 研究素养是教师在教学现场将外部科研与本土学情有机融合的把关与调和德性。 |
 > | [[Epistemic Governance\|认识论治理]] | 概念 | 公职决策者的研究素养决定了国家知识治理问责框架与科研拨款方向的科学性与公信力。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 58)]] |
 > | [[Evidence-Informed Practice\|证据知情实践]] | 概念 | 批判性研究素养构成了实践者识别伪科学包装、避免盲从商业教改软件的认知免疫机制。 |

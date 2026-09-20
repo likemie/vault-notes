@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Scaffolding]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Discovery Learning]]"
   - "[[Creativity]]"
   - "[[Feedback]]"
   - "[[Structured Teaching]]"
@@ -102,7 +103,7 @@ updated: 2026-09-21
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调教师作为[[Scaffolding|认知脚手架]]的“主动激活者（Activator）”，通过将复杂认知过程外显化与结构化，降低学习者的外在认知负荷。
-> - **用途** 用于解释基础知识、程序性解题技能的高效掌握机制，并作为评价[[Inquiry-Based Learning|探究式学习]]、发现学习与微观课堂结构的基准参照。
+> - **用途** 用于解释基础知识、程序性解题技能的高效掌握机制，并作为评价[[Inquiry-Based Learning|探究式学习]]、[[Discovery Learning|发现学习]]与微观课堂结构的基准参照。
 > - **边界** 区别于无互动的单一满堂灌单向讲授；同时在培养发散性[[Creativity|创造力]]、深层批判性探究与学习自主性上面临明显的边际效用递减与教育副作用。
 
 > [!citation-card] 直接教学的核心界定与机制
@@ -162,7 +163,7 @@ updated: 2026-09-21
 > 探讨直接教学如何通过匹配人类认知架构（有限[[Working Memory|工作记忆]]与庞大长时记忆）实现基础学科通用[[Academic Achievement|学业成就]]的高效提升。
 
 > [!claim] [[John Hattie|Hattie, J.]]
-> **教师作为“激活者”的极高[[Effect Size|效应量]]** 在可见学习综合体系中，直接教学的合并效应量达 $d = 0.59$（远超 $d = 0.40$ 的发展铰接点），显著高于教师仅充当促进者（Facilitator，如非指导性发现学习 $d = 0.17$）的模式。这表明由教师主动设定目标、清晰示范并监控掌握进度的结构化行为具有强力实证支持。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 433)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 7)]]
+> **教师作为“激活者”的极高[[Effect Size|效应量]]** 在可见学习综合体系中，直接教学的合并效应量达 $d = 0.59$（远超 $d = 0.40$ 的发展铰接点），显著高于教师仅充当促进者（Facilitator，如非指导性[[Discovery Learning|发现学习]] $d = 0.17$）的模式。这表明由教师主动设定目标、清晰示范并监控掌握进度的结构化行为具有强力实证支持。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 433)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 7)]]
 
 > [!claim] Sweller, J., & Kirschner, P. A.
 > **[[Cognitive Load Theory|认知负荷理论]]对显性直接指导的辩护** 初学者在面对新领域时缺乏长时记忆中的知识图式（Schemata）。若采用未加指导的自由探索，有限的工作记忆会瞬间被盲目搜寻的外在负荷挤爆；直接教学通过“专家示范 + 样例解析 + 指导练习”，将外部认知负荷降至最低，使认知资源完全聚焦于图式建构与技能自动化。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 1–2)]]

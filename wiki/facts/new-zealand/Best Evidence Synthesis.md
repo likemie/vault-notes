@@ -12,7 +12,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -40,7 +40,8 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm]]"
-related_theories: []
+related_theories:
+  - "[[Inquiry Cycle]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Best Evidence Synthesis
@@ -106,7 +107,7 @@ updated: 2026-09-18
 > - **2003–2010 — 奠基与四大旗舰[[Systematic Review|系统综述]]产出期** 新西兰教育部陆续委托并发布多卷划时代的 BES 迭代专著：
 >   - **优质教学综合（Alton-Lee, 2003）** 提炼出针对多元族裔学生的优质教学 10 项核心实证特征；
 >   - **社区与家庭影响综合（Biddulph et al., 2003）** 剖析家庭-学校-社区协同育人对低收入弱势群体的补偿机制；
->   - **教师专业学习与发展综合（Timperley et al., 2007）** 确立基于[[Practitioner Enquiry|教师探究]]与[[Knowledge Production|知识建构]]循环（Teacher Inquiry Cycle）的专业发展模型；
+>   - **教师专业学习与发展综合（Timperley et al., 2007）** 确立基于[[Practitioner Enquiry|教师探究]]与[[Knowledge Production|知识建构]]循环（Teacher [[Inquiry Cycle]]）的专业发展模型；
 >   - **[[School Leadership|学校领导力]]与学生结果综合（Robinson et al., 2009）** 实证测算出教学型领导（[[Instructional Leadership]]）对学生学业增值的显著[[Effect Size|效应量]]（$d = 0.42$），成为全球教育领导力奠基[[Document|文献]]。
 > - **2011–2018 — 实践转化与视频案例开发期** 伴随国际循证运动向学校微观实践倾斜，BES 逐步缩减对新基础综述的直接资助，转而联合学校一线录制实景视频，展示证据如何指导课堂教学与学校改进决策([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
 > - **2019–至今 — 存量[[Knowledge Mediation|知识中介]]与常态化资源库维护** 官方终止了新系统综述的委托资助与研究者方法指导职能，项目全面转型为对既有丰富证据资产的数字化中介传播，通过在线知识门户继续向教育系统输出专业指南([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 61–62, 64]])。
