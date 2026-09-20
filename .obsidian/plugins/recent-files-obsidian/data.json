@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Network Governance",
+      "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
+    },
+    {
       "basename": "Argument_Rowe_2023_ECNUROE",
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Visible Learning Meta-X",
       "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
-    },
-    {
-      "basename": "Argument_Chen_Cheung_2025_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
     }
   ],
   "omittedPaths": [],
