@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gonski 2.0",
+      "path": "wiki/facts/australia/Gonski 2.0.md"
+    },
+    {
       "basename": "Argument_Rowe_2023_ECNUROE",
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Global Partnership for Education",
       "path": "wiki/facts/global/Global Partnership for Education.md"
-    },
-    {
-      "basename": "Philanthrocapitalism",
-      "path": "wiki/concepts/political-economy-geopolitics/Philanthrocapitalism.md"
     }
   ],
   "omittedPaths": [],
