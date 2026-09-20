@@ -85,7 +85,7 @@ updated: 2026-09-20
 > - **潜在混杂排除（Confound Elimination）** 识别并冻结所有可能影响结果的非目标变量，防止虚假关联与过度推论。
 > - **有效性评价（Evaluation of Validity）** 能够识别并批判他人设计的未控制变量实验，指出其因果推论的无效性。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 4–5)]]
 
-> [!logic-map]- 变量控制策略的操作闭环
+> [!logic-map]- 变量控制策略的操作流程
 > ```mermaid
 > flowchart LR
 >     A["界定目标假设与焦点变量"] --> B["识别潜在混杂变量"]
