@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Rowe_2023_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
+    },
+    {
+      "basename": "Policy Network",
+      "path": "wiki/concepts/educational-policy-reform/Policy Network.md"
+    },
+    {
+      "basename": "Relational Space",
+      "path": "wiki/concepts/comparative-education/Relational Space.md"
+    },
+    {
+      "basename": "Co-affiliation",
+      "path": "wiki/concepts/educational-policy-reform/Co-affiliation.md"
+    },
+    {
       "basename": "Australian Education Research Organisation",
       "path": "wiki/facts/australia/Australian Education Research Organisation.md"
     },
@@ -121,14 +137,6 @@
       "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
     },
     {
-      "basename": "Argument_Rowe_2023_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
-    },
-    {
-      "basename": "Co-affiliation",
-      "path": "wiki/concepts/educational-policy-reform/Co-affiliation.md"
-    },
-    {
       "basename": "Australian Schools Plus",
       "path": "wiki/facts/australia/Australian Schools Plus.md"
     },
@@ -143,10 +151,6 @@
     {
       "basename": "Venture Philanthropy",
       "path": "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md"
-    },
-    {
-      "basename": "Policy Network",
-      "path": "wiki/concepts/educational-policy-reform/Policy Network.md"
     },
     {
       "basename": "Argument_Marginson_2025_ECNUROE",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Chen_Cheung_2025_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
-    },
-    {
-      "basename": "Argument_Mausethagen_2025_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md"
     }
   ],
   "omittedPaths": [],

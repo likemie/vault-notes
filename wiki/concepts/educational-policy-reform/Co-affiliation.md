@@ -46,16 +46,19 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
   - "[[Australian Philanthropic Services]]"
+  - "[[Australian Schools Plus]]"
+  - "[[Evidence for Learning]]"
   - "[[Education Endowment Foundation]]"
   - "[[Sutton Trust]]"
   - "[[The Education Trust]]"
 related_arguments:
   - "[[Argument_Rowe_2022_IJER]]"
+  - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Keddie_2020_IJLE]]"
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-20
 ---
 
 # Co-affiliation
@@ -100,6 +103,7 @@ updated: 2026-09-18
 
 > [!feature] 核心要素
 > - **[[Multiplicity|多重性]]与跨界任职（Multiplicity of Positions）** 核心政策行动者不局限于单一职业标签，而是以商界领袖、慈善信托人、大学校监、国家政策审查委员会主席等多重身份同步介入治理，将特定商业哲学无缝输入公共决策。[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 8–9]]
+> - **超流动性与权力的关系性生成（Hypermobility & Relational Power）** 异层治理网络呈现出一种持续重塑自我的“超流动性”；权力不再沿正式的韦伯式行政科层线条自上而下逐级下达，而是作为行动者跨界兼职与关系性共同从属的生成性效果而流动展现。[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 527]]
 > - **[[Epistemology|认识论]]同质性（Epistemic Homophily）** 频繁重叠兼职的精英群体因共享麦肯锡咨询、跨国投行与私募股权职业背景，形成了高度一致的语言语系（如将教育科研称为“证据经纪”、将政策推进称为“买入”），视商业效率与量化审计为[[Doxa|不言自明]]的公理。[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3–5]]
 > - **隐性知识与信息套利通道（Tacit Conduits for Capital and Ideas）** 共同从属为理念、立法动向与资金流向提供了制度化的非正式传导通道，使特定利益集团能够在法案起草或国家机构设立前夕精准布局。[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 8]]
 > - **避税与商业分包网络嵌套（Subsidiarity and Tax Sheltering）** 母公司、全资子公司与中介实体通过重叠董事架构深度嵌套，使政府公共财政补助流向免税慈善平台，再借由技术咨询名义合法分包回私营咨询机构。[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 5–7]]
@@ -180,6 +184,16 @@ updated: 2026-09-18
 
 ---
 
+### 命题三　共同从属网络生成了具有超流动性的异层权力，其权力来源具有结构非确定性
+
+> [!concept-lens] 权力社会学维度：超流动性与关系性权力生成
+> 剖析兼任网络如何在去中心化的表象下重塑资本主义国家实践，使公私权力在高度流动的非正式节点中无缝转化。
+
+> [!claim] Rowe, E.
+> **超流动性与关系性权力的非确定性根源** 埃玛·罗威（Emma Rowe）结合开源网络拓扑分析（Gephi）揭示，由共同从属维系的政策网络并非静态同盟，而是一种高度动态重构的“超流动性”（hypermobility）构型。在澳大利亚教育改革网络中，[[Social Ventures Australia|澳大利亚社会创投]]（SVA）呈现为物理和人事的辐射中枢，但权力的来源绝非源于传统的科层等级或法定公职，而是“关系性共同从属（relational co-affiliations）的结果”。美洲银行、麦格理银行、麦肯锡及大型矿业资本的高管，与前政府高级文官在 SVA、[[Australian Philanthropic Services|APS]]、[[Australian Schools Plus|澳大利亚学校加计划]]、[[Evidence for Learning|E4L]] 及 AERO 之间自由流动；他们凭借直通国库部长的政商非正式通道推动专门立法修订（赋予 DGR1 避税资质）和非公开政府闭门竞标（1500 万澳元公立校领导力项目）。这种关系性兼职消解了权力责任的具体指向，使商业利益在高度流动与非确定的网络缝隙中完成了对公共教育资源与知识标准的系统性重构。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 527–531)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -187,6 +201,7 @@ updated: 2026-09-18
 > |---|---|---|---|
 > | **观念传导命题** | 多重任职创造了结构性流动通道，使商业咨询与金融逻辑跨界弥散 | 全球教育改革网络与跨国智库流动机制分析 | Ball & Exley (2010); Borgatti & Halgin (2011) |
 > | **民主侵蚀命题** | 精英共同从属构筑异质层级，借由技术中立与慈善修辞剥夺公众监督 | 国家级证据中介设立、独立政策审查委员会解构 | Avelar & Ball (2019); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 8)]] |
+> | **超流动性权力命题** | 兼任网络呈现超流动形态，权力非源于正式公职而是关系性兼职效果 | 慈善资本主义、税法特许修正案与公私联合中介网络分析 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, p. 527)]] |
 
 ---
 
@@ -197,6 +212,7 @@ updated: 2026-09-18
 > - **2000s — 社会网络分析与二分图理论化** Borgatti、Halgin 等学者将共同从属正式数学化，发展二模网络（two-mode networks / affiliation networks）分析模型，揭示行动者与事件/组织集合间的双向投影机制。
 > - **2010–2019 — 批判[[Policy Network|政策网络]]与教育异质治理转向** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者将该概念引入全球教育政策研究，指出新自由主义政策网络依靠跨国多重从属性运作，推动了[[Endogenous and Exogenous Privatisation|教育私有化]]与治理模式的深刻变迁。
 > - **2021–2022 — 证据经济与国家科研企业化应用** 埃玛·罗威（Emma Rowe）结合监管档案调档与法条追踪，将共同从属应用于解构国家级[[Educational Brokerage Agency|证据经纪人]]（[[Australian Education Research Organisation|AERO]]）的创生过程，证实了[[Venture Philanthropy|风险慈善]]、跨国银行家与国家审查委员会之间的利益闭环。[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 8–10]]
+> - **2023 — 异层国家网络与超流动性拓扑建构** 罗威运用开源网络分析软件 Gephi 可视化映射澳大利亚二十年间（2002–2021）由[[Social Ventures Australia|澳大利亚社会创投]]（SVA）辐射派生的风险慈善中介网络，揭示跨界金融与咨询高管（美洲银行、麦格理银行、麦肯锡）与政府高级官僚在 SVA、[[Australian Philanthropic Services|APS]]、[[Australian Schools Plus]]、[[Evidence for Learning|E4L]] 与 AERO 之间的高频流动与四层控股嵌套，证明共同从属构成了生成异层权力与重构国家实践的核心机制。[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 520–531]]
 
 ---
 
@@ -220,12 +236,13 @@ updated: 2026-09-18
 
 ## 实证数据
 
-> [!ref-table]- 国际代表性教育治理共同从属案例与网络拓扑对照（2010–2022）
+> [!ref-table]- 国际代表性教育治理共同从属案例与网络拓扑对照（2010–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 分析[[Champ\|场域]]与核心机构 | 涉及核心精英行动者 | 跨界从属机构集群 | 关键制度与资金流动效果 | 识别出的治理隐患 |
 > |---|---|---|---|---|---|
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 澳大利亚国家教育科研体系：[[Australian Education Research Organisation\|AERO]] | 戴维·冈斯基（David Gonski）、罗杰·马西-格林（Roger Massy-Greene）、[[Sir Kevan Collins\|柯文·科林斯爵士]] | [[Social Ventures Australia\|SVA]]、美洲银行、力拓集团、[[Australian Philanthropic Services\|APS]]、保罗·拉姆齐基金会、英国 [[Education Endowment Foundation\|EEF]] | 推动联邦与各州注资 5000 万澳元，依据《公司法》注册实体并立法特许向私营咨询分包 | 绕过大学科研共同体，以客观中立量规遮蔽企业慈善游说与避税庇护所实质（pp. 8–11） |
+> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚公立教育慈善资本主义中介实体网络（2002–2021） | 戴维·冈斯基（David Gonski）、迈克尔·特恩布尔（Michael Traill）等跨界金融高管与政府政策精英 | [[Social Ventures Australia\|SVA]]、[[Australian Philanthropic Services\|APS]]、[[Australian Schools Plus]]、[[Evidence for Learning\|E4L]]、[[Australian Education Research Organisation\|AERO]] | 运用 Gephi 揭示四层控股母子公司架构与高密度兼职，游说联邦国库部修改税法获得 DGR1 避税资质，并借公私联合项目获得 1500 万澳元政府非公开闭门竞标 | 权力不再依循宪政行政科层，而是作为超流动关系网络的效果生成；以技术中立和慈善免税名义转移国家公共教育职能与财政资源（pp. 520–531） |
 > | Avelar & Ball (2019) | 巴西基础教育国家课程改革：Movimento pela Base | Jorge Paulo Lemann、Viviane Senna 等商业寡头 | Lemann 基金会、Ayrton Senna 研究所、巴西联邦教育部、Santander 银行 | 慈善基金会通过共同董事直接资助并主导国家基础教育课程共同标准（BNCC）起草 | 将商业技能与[[Human Capital Theory\|人力资本]]评估指标强行植入国家法定大纲，排斥批判性人文公民教育 |
 > | Ball & Junemann (2012) | 英国学院学校（Academies）改革与地方教育局分权 | Lord Adonis、[[Peter Lampl\|Sir Peter Lampl]] 等商界受封贵族 | [[Sutton Trust\|萨顿信托]]、Ark Schools、汇丰银行慈善信托、英格兰教育部 | 跨国金融高管通过出任教育赞助商董事会，直接接管数百所公立薄弱学校办学权 | 瓦解地方教育行政当局（LEAs）民主问责，使公共资产流向未受公法约束的独立[[The Education Trust\|教育信托]] |
 
@@ -235,4 +252,5 @@ updated: 2026-09-18
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 运用机构共同从属分析（co-affiliation analysis），深度绘制澳大利亚国家级证据中介 [[Australian Education Research Organisation|AERO]] 与 [[Social Ventures Australia|SVA]]、跨国投行及英国 [[Education Endowment Foundation|EEF]] 的多重董事兼职网络。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 运用开源网络可视化分析（Gephi）与监管文件追踪，系统映射澳大利亚风险慈善中介组织（SVA、APS、Schools Plus、E4L、AERO）长达二十年的共同从属拓扑与四层控股嵌套结构。
 > - [[Argument_Keddie_2020_IJLE|Keddie et al. (2020b)]] — 展现政策行动者在需求本位拨款与学校自主化改革之间的网络博弈与身份重合。

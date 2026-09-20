@@ -4,10 +4,10 @@ aliases:
   - 关系性空间
   - 关系空间
   - relational notions of space
-summary: "将空间理解为社会网络与行动者关系的动态构型而非静态领土容器；在跨国教育政策研究中用于解构全球与国家二元对立，揭示政策转移空间中的关系性共构与策略性外在化。"
+summary: "将空间理解为社会网络、制度安排与耐用材料构成的动态拓扑构型而非静态领土容器；在教育政策研究中用于解构全球与国家二元对立，透视政策网络中的策略性外在化以及耐用客体构建的异层支配秩序。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 42
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,6 +36,9 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Going Native]]"
   - "[[Policy Network]]"
+  - "[[Co-affiliation]]"
+  - "[[Venture Philanthropy]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Methodological Transnationalism]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
@@ -53,15 +56,20 @@ related_methods:
 related_persons:
   - "[[Jason Beech]]"
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Emma Rowe]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Social Ventures Australia]]"
+  - "[[Australian Education Research Organisation]]"
 related_arguments:
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Rowe_2022_IJER]]"
+  - "[[Argument_Rowe_2023_ECNUROE]]"
 confidence: high
-status: draft
+status: stable
 created: 2026-06-07
-updated: 2026-09-18
+updated: 2026-09-20
 ---
 
 # Relational Space
@@ -71,11 +79,11 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 关系性空间（Relational Space）是空间社会学与比较教育研究中的核心[[Ontology|本体论]][[Paradigm|范式]]，指将空间理解为由社会行动者、制度网络与权力实践相互交织而动态生成的网络构型，而非先验给定、边界固定的物理领土或静态地理容器（[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]; Murdoch, 2006）。在跨国教育政策与全球治理分析中，该范式打破了传统“全球/地方”与“国家/国际”的二元对立，主张将全球与国家视为高度相互依存的关系性空间（interdependent spaces）而非物理隔离的孤立处所（distinct places）；跨国政策的借用与流通并非真空中的理念跳跃，而是在由各类中介机构与本土官僚共同构筑的“[[Transfer Space|转移空间]]”（Transfer Space）中经历选择性[[Transfer Translation Transformation|转译]]、工具打包与策略性[[Recontextualization|再脉络化]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 关系性空间（Relational Space）是空间社会学与比较教育研究中的核心[[Ontology|本体论]][[Paradigm|范式]]，指将空间理解为由社会行动者、制度网络与权力实践相互交织而动态生成的网络拓扑构型，而非先验给定、边界固定的物理领土或静态地理容器（[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]; Murdoch, 2006）。在跨国教育政策、批判政策网络与社会-物质装配（[[Assemblage|assemblage]]）视阈中，该范式不仅打破了传统“全球与地方”、“国家与国际”的二元对立，主张将全球与国家视为高度相互依存的关系性空间（interdependent spaces）而非物理隔离的孤立处所（distinct places）（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 540]]）；更进一步指出，关系性空间不仅是主观人际互动，而且依赖于税法豁免法条、公司法人注册与证据量规等“耐用客体”（durable materials）的持续装配，从而在传统国家科层管辖之外构筑起具有排他性与支配性的异层治理拓扑。[[Argument_Rowe_2022_IJER|(Rowe, 2022, p. 8)]]; [[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 520–522)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 空间并非容纳社会事件的客观容器，而是由社会关系、制度联结与网络[[Assemblage|组装]]（Assemblage）持续生产的效果。
-> - **用途** 帮助研究者克服“[[Methodological Nationalism|方法论民族主义]]”对领土边界的执念与“全球[[Determinism|决定论]]”的单向霸权假定，透视跨尺度网络中行动者的能动性与借力策略。
+> - **用途** 帮助研究者克服“[[Methodological Nationalism|方法论民族主义]]”对领土边界的执念与“全球[[Determinism|决定论]]”的单向霸权假定，透视跨尺度网络中行动者的能动性、借力策略与耐用客体构筑的隐性支配。
 > - **边界** 不否认地理物质实体与国家行政边界的客观存在，但坚决拒绝将领土疆界等同于社会交往与政策互动的天然闭合边界。
 
 > [!citation-card] 关系性空间的本体界定与全球/国家联结
