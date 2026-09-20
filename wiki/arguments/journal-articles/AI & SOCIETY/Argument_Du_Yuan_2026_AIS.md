@@ -98,9 +98,9 @@ title: "Argument_Du_Yuan_2026_AIS"
 argument_key: "Argument_Du_Yuan_2026_AIS"
 argument_display_title: "Epistemic dependence in AI-mediated learning"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 61
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "AI & SOCIETY"
 book_title: ""

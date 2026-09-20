@@ -8,10 +8,10 @@ aliases:
 summary: "学习者在知识获取、解释生成与判断辩护等任务中依赖外部系统的认识关系，在人工智能介入下被区分为保有反思质疑的生产性依赖与剥离评价性判断的有害性依赖。"
 type: concept
 domain: "educational-psychology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/artificial-intelligence
   - theme/epistemic-cognition

@@ -8,7 +8,7 @@ aliases:
 summary: "源自社会认识论与学习科学的核心构念，指个体在遭遇相左证据、异质观点或复杂认知任务时所经历的生产性阻力与反思张力，是激活元认知监控、深度推理与知识图式重构的必要心理机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
