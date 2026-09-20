@@ -138,11 +138,12 @@ related_arguments:
   - "[[Argument_Peterson_2016_IJRME]]"
   - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_DeJong_2023_ERR]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Randomised Controlled Trials
@@ -327,6 +328,12 @@ updated: 2026-09-17
 > 2. **真实教育情境中的操作与效度困境** 双盲缺失、常态教学对照组“不作为”幻觉、集群随机化对 SUTVA 假设的违背、家长转组与未测量教师质量的颠覆性混淆，以及从效力试验向实效试验的效应量断崖式衰减（[[Argument_Berk_2011_ER|Berk, 2011]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）。
 > 3. **证据治理与政策应用层面的认识论异化** 法定单项合格研究背书的“合规假象”、12 家清算中心 35.4% 的评级冲突悖论、微观技术隔离对宏观政治经济结构的“屏蔽”效应、十年科学发现周期与政策时间系统的时效脱节，以及依策造据（[[Policy-Based Evidence-Making|PBEM]]）等治理失灵（[[Argument_Helgetun_2022_JEP|Helgetun & Menter, 2022]]; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]; [[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024]]; [[Argument_Serpell_2020_EP|Serpell, 2020]]）。
 
+> [!debates] 真实课堂复合干预 vs 纯净实验室 RCT 的效度论战
+> [[Cognitive Load Theory|认知负荷理论]]学派（如 Zhang et al., 2022）指责支持探究教学的实证证据多为涵盖师训、技术工具等多重组件的宏观“项目式研究”（Program-based Studies），缺乏高度真空化的单变量实验室 RCT，并质疑常态教学（[[Business as Usual|BAU]]）对照组的设计公平性。针对这一方法学争论，学习科学学者（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 4–6]]）展开了系统方法学辩护：
+> - **[[Meta-analysis|元分析]]设计效应检验** Lazonder & Harmsen (2016) 对 72 项科学探究实验的元分析实证检验表明，**实验设计类型（严格 RCT vs 准实验 Quasi-experiment）对效应量大小没有统计学上的显著影响（did not influence the magnitude of the effect sizes, p. 4）**，确证探究教学增益在不同实验控制严格度下具有稳健的跨设计一致性；Alfieri et al. (2011) 基于 164 项对照研究的元分析同样证实了有指导探究优于[[Direct Instruction|直接讲授]]。
+> - **真实课堂严格单变量 RCT 的存在** Schuster et al. (2018) 在真实物理课堂针对完全同质的教学内容实施了严格控制的随机对照试验，直接证实在相同知识范围与课时约束下，探究组在深层概念理解上显著超越直接讲授组。
+> - **复合干预的[[Ecological Validity|生态效度]]辩护** 真实教育情境中的常规教学或直接讲授本身同样由示范、练习与即时反馈等复合组件构成，要求探究干预剔除技术支架与协同组件是方法学上的“双重标准”；全课程项目式研究在保持真实课堂情境的同时，提供了更高的生态效度与实践迁移力。
+
 ---
 
 ## 相关理论与方法
@@ -337,6 +344,7 @@ updated: 2026-09-17
 > | [[Critical Realism]] | 理论 | 提供对 RCT 经验主义假设的最系统哲学批判：强调开放系统、[[Emergence\|涌现]]性与深层因果机制。 |
 > | [[Complexity Theory]] | 理论 | 从非线性、涌现、整体协同和自组织角度根本性质疑 RCT 封闭系统与控制[[Variable\|变量]][[Hypothesis\|假设]]。 |
 > | [[Critique of Randomized Controlled Trials]] | 概念 | 系统批判 RCT 黄金标准的神话，涵盖[[Ontology\|本体论]]解构、效度困境与政策异化。 |
+> | [[Interaction Effect]] | 概念 | 大样本多臂 RCT 是精确检验干预措施与学习者特征交互效应的核心设计。 |
 > | [[Validity as Inferences]] | 理论 | 继承 Cronbach 与 Messick 的效度理论，论证 RCT 推论的效度永远是情境依赖且局部的属性。 |
 > | [[Evidence Standards]] | 政策规程 | 规定 RCT 为最高等级证据（Tier I / Strong Evidence），诱发法定单项合格门槛与科研供给赤字矛盾。 |
 > | [[Educational Evidence Clearinghouses]] | 评估机构 | 制定形式化因果审查规程（如 [[What Works Clearinghouse\|WWC]] 3 级标准）对单项 RCT 进行[[Internal Validity\|内部效度]]质检与评级。 |
@@ -348,6 +356,7 @@ updated: 2026-09-17
 > | [[Quasi-Experimental Designs]] | 替代方法 | 在随机分配不可行或遭遇伦理/组织阻力时，提供[[External Validity\|外部效度]]与现实可行性更强的替代因果识别方案。 |
 > | [[Non-intervention Research]] | 对照方法 | 不操纵[[Independent Variable\|自变量]]的[[Observation Method\|观察研究]]，以此对照批评无因果干预基础的过度强[[Recommendations for Practice\|实践建议]]。 |
 > | [[Correlational Research]] | 前置方法 | 能够在大规模自然情境中探测变量关联并生成干预假设，但缺乏随机分配与因果隔离效力。 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 辩护真实课堂复合干预 RCT 的[[Ecological Validity\|生态效度]]，指出[[Meta-analysis\|元分析]]中 RCT 与准实验[[Effect Size\|效应量]]无显著差异。 |
 
 ---
 
@@ -364,3 +373,4 @@ updated: 2026-09-17
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明[[World Bank|世界银行]]（World Bank）如何将其专属[[Policy Brokerage|政策中介]]工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）十年来资助超 200 项大规模教育 RCT 的制度演进，系统剖析独立评估人机制、[[Preregistration|预注册]][[Statistical Analysis Plan|统计分析计划]]（SAP）、[[Implementation and Process Evaluation|实施与过程评估]]（IPE）整合、[[School Choice|学校选择]]与[[Teacher Choices|教师选择]]新设计，以及应对[[Effect Size|效应量]]衰减与不确定性报告的方法学突破。
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 实证解剖英格兰[[Evidence Era|证据时代]]将临床医学 RCT 奉为[[Rationalized Myth|合理化神话]]的政策话语建构，剖析从研究设计到政策转化中[[Epistemological Coherence|认识论连贯性]]的断裂，以及由此衍生的依策造据风险。
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统反驳认知负荷学派对探究教学缺乏纯粹实验室 RCT 的指责，援引 Lazonder & Harmsen (2016) 元分析实证检验确立 RCT 与准实验在效应量量级上无显著差异，基于 Schuster et al. (2018) 课堂严格 RCT 证实探究教学的深层概念优势，并为复杂教育情境中涵盖多元组件的“项目式研究”（Program-based RCTs）之[[Ecological Validity|生态效度]]与常态对照组（[[Business as Usual|BAU]]）设计提供方法学辩护（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 4–6]]）。
