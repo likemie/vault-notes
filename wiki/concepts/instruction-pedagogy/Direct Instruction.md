@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -67,10 +67,11 @@ related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_DeJong_2023_ERR]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Direct Instruction
@@ -181,6 +182,16 @@ updated: 2026-09-17
 
 ---
 
+### 命题四　直接教学在长效保持与概念迁移上面临瓶颈，其最大效能依赖于与探究实践的时序协同
+
+> [!concept-lens] 教学时序与概念深层内化
+> 探讨直接教学与学生探究在知识建构不同阶段的功能分工，反思脱离探究练习的单一直接教学在长周期保持上的局限。
+
+> [!claim] De Jong et al.
+> **长效保持中直接教学的脆弱性与探究互补** 单一的直接教学尽管能减少学习初期的错误并提高即时测验成绩，但在缺乏持续主动探究和情境化练习的情况下，无法促成知识的长效保持与向新情境的远迁移。直接教学与探究式学习并非非此即彼的对立范式：直接教学可作为探究的前置知识铺垫、探究过程中的即时解释支架，或置于自主探索引发认知冲突之后的概念澄清环节（如生产性失败），二者的时序融合才能达成深度学习。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 8–10)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -189,6 +200,7 @@ updated: 2026-09-17
 > | **认知负荷与技能精熟** | 小步子示范与指导练习优化认知负荷，基础知识与程序技能效应量显著（$d \approx 0.59$） | 基础教育入门、数学计算、语法规则、技能补救 | Rosenshine (1986); Sweller (2006); [[John Hattie\|Hattie (2009)]] |
 > | **高阶思维工具箱定位** | 显性直接传授思维准则是高阶能力跃迁的前提，但须与情境探究融合成混合模式 | 批判性思维课程、创造力培训、跨学科综合探究 | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]]; [[Argument_Park_2026_TSC\|Park et al. (2026)]] |
 > | **教育副作用与生态代价** | 长期依赖高控制直接教学可能压制学生的创造性探索、好奇心与自我调节能力 | 教学政策评估、全人发展与长周期教育追踪 | [[Argument_Zhao_2017_JEC\|Zhao (2017)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
+> | **时序协同与长效保持** | 单一直接教学长效迁移受限，与探究实践前后衔接（如生产性失败与即时支架）方能实现深层概念内化 | 科学概念转变、延迟学业保持与跨情境迁移 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]; Dean & Kuhn (2007) |
 
 ---
 
@@ -248,6 +260,7 @@ updated: 2026-09-17
 > | [[Argument_Zhao_2017_JEC\|Zhao (2017, p. 7)]] | 美国联邦 Project Follow Through（史上最大规模教育实验，涵盖数万名弱势儿童） | 大规模准实验长期追踪对比（20余种教学模式） | 基础技能、认知理解与自尊情感 | 脚本化直接教学（DI）在基础学业技能上显著夺冠，但在自主探索与情感维度未显优势 | 跨学区一致显著 | 奠定了直接教学在基础技能补救教学中的历史标杆地位 |
 > | [[Argument_Zhao_2017_JEC\|Zhao (2017, p. 8)]] | 可见学习综合实证数据库（涵盖数百项元分析） | [[Meta-meta-analysis\|二阶元分析]]汇总 | 直接教学对综合[[Academic Achievement\|学业成就]]的影响 | $d = 0.59$（排名前列） | 远超发展铰接点 $d = 0.40$ | 主要反映标准化知识与常规学科考试成绩，未能测查创造力与非认知副作用 |
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 美国全面学校改革计划（CSR 1997/1998）及 [[Every Student Succeeds Act\|ESSA]] 项目库 | 联邦政策实证审查 | 达到联邦法定强/中[[Evidence Standards\|证据标准]]的全校与学科方案 | Direct Instruction 作为全美少数经受住长期实验检验的 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 全班核心方案之一 | 经受住多轮独立审查 | 证实其在全美规模化推广中的因果有效性 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]<br>（引述 Stockard et al., 2018） | 328 项阅读、数学与拼写干预研究（非 STEM 领域） | 元分析与批判性综述审查 | 直接教学对比常规或其他教学课程 | 直接教学在基础读写算技能上表现出正向效应，但对照组仅区分为“常规课程”而未具体界定教学类型 | — | 该元分析未覆盖科学概念探究领域，其对照组特征模糊导致无法推导出直接教学对探究教学的全面优越性 |
 
 ---
 
@@ -260,4 +273,5 @@ updated: 2026-09-17
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 多水平[[Meta-analysis|元分析]]证实显性直接教学在[[Creativity Training|创造力干预]]中的关键效能。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 比较[[Australian Curriculum|澳大利亚课程]]体系中显性教学与隐性期望对批判性思维的差异化影响。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act|ESSA]] TIER 1 核心通用教学中的实证定位。
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
 

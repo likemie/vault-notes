@@ -10,7 +10,7 @@ aliases:
 summary: "指将金融市场的风险投资与私募股权纪律同明确可测量的社会或教育改善目标相结合的投资范式；强调在追求财务回报（或资金保值）的同时实现经由量规审计的社会效益回报（ROI），以社会影响力债券和成果导向合同重塑公共教育供给。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

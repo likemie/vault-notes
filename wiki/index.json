@@ -6131,6 +6131,17 @@
     ]
   },
   {
+    "title": "Control of Variables Strategy",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Control of Variables Strategy.md",
+    "aliases": [
+      "变量控制策略",
+      "控制变量策略",
+      "CVS",
+      "control of variables"
+    ]
+  },
+  {
     "title": "Cooperative Integrated Reading and Composition",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Cooperative Integrated Reading and Composition.md",
@@ -6260,6 +6271,19 @@
       "Informal Science Engagement",
       "Informal Science Education",
       "校外科学学习"
+    ]
+  },
+  {
+    "title": "Inquiry-Based Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md",
+    "aliases": [
+      "探究式学习",
+      "探究式教学",
+      "inquiry-based instruction",
+      "guided inquiry",
+      "指导式探究",
+      "探究学习"
     ]
   },
   {
@@ -26286,6 +26310,11 @@
     "title": "Argument_Chen_Cheung_2025_ERR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
+  },
+  {
+    "title": "Argument_DeJong_2023_ERR",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
   },
   {
     "title": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
