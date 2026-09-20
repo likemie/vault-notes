@@ -4,7 +4,6 @@ aliases:
   - 认识论摩擦
   - 认知摩擦
   - Cognitive Friction
-  - epistemic friction
   - productive friction
 summary: "源自社会认识论与学习科学的核心构念，指个体在遭遇相左证据、异质观点或复杂认知任务时所经历的生产性阻力与反思张力，是激活元认知监控、深度推理与知识图式重构的必要心理机制。"
 type: concept
@@ -65,7 +64,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Epistemic Friction
@@ -162,6 +161,9 @@ updated: 2026-09-17
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
 > **无摩擦陷阱与有害[[Cognitive Offloading|认知卸载]]** 大语言模型生成的文本具有权威的语调与完美的语法结构，这种表面语义流畅性为学生提供了无阻力的答案通道。在缺乏显性教学引导的情境下，学生倾向于直接采纳模型输出，天然切除了本来需要由学习者自主经历的阅读、提取、论证与校验过程，造成严重的有害认知卸载与[[Creativity|创造性]]早熟收敛。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2, 7–8, 10)]]
 
+> [!claim] Du & Yuan
+> **无摩擦委派与中间认识动作的剥离** 生成式人工智能将检索、阅读、比对、综合与起草等多重认知活动压缩为单一的“提问—回答”循环。并非所有心智努力都值得保留，某些耗费精力且与核心学习目标无关的浪费性摩擦确实应当消除以降低认知门槛；然而，另一些认识论摩擦具有不可替代的生产性，它为学习者提供了察觉不确定性、遭遇异质视角并亲身演练评价性判断的宝贵契机。当技术系统将寻找、解释与辩护的生产性阻力一并消除时，学习者在缺乏中间认识动作演练的情况下直接交付成品，将导致理解肤浅化、不确定性耐受力下降以及迁移能力崩溃。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
+
 ---
 
 ### 命题三　结构化教学设计的核心功能在于按需重构认识论摩擦
@@ -179,9 +181,9 @@ updated: 2026-09-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表[[Document\|文献]] |
 > |---|---|---|---|
-> | **认知前提命题** | [[Higher-Order Thinking Skills\|高阶思维]]与深度图式构建依赖生产性认识论摩擦 | 高等教育、复杂概念学习与学术研究 | Medina (2013); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
-> | **技术旁路命题** | 算法顺滑表象天然切除心智摩擦，诱发认知卸载 | 无约束人机交互、常规[[Homework\|作业]]应付场景 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
-> | **教学重构命题** | 教学支架的核心在于将摩擦转化为可控的探索关卡 | 结构化课程设计、[[Blended Learning\|混合式教学]]与评价改革 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
+> | **认知前提命题** | [[Higher-Order Thinking Skills\|高阶思维]]与深度图式构建依赖生产性认识论摩擦 | 高等教育、复杂概念学习与学术研究 | Medina (2013); [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 10)]] |
+> | **技术旁路命题** | 算法顺滑表象天然切除心智摩擦，诱发认知卸载 | 无约束人机交互、常规[[Homework\|作业]]应付场景 | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 7–8)]] |
+> | **教学重构命题** | 教学支架的核心在于将摩擦转化为可控的探索关卡 | 结构化课程设计、[[Blended Learning\|混合式教学]]与评价改革 | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 11–13)]] |
 
 ---
 
@@ -191,6 +193,7 @@ updated: 2026-09-17
 > - **2013 年 — 社会[[Epistemology|认识论]]提出** José Medina 在 *The [[Epistemology of Resistance]]* 中首次系统界定“认识论摩擦”，强调边缘群体视角与异质观点对抗主导常识时产生的生产性阻力。
 > - **2015–2020 年 — 学习科学与[[Cognitive Load Theory|认知负荷理论]]交叉** 学习科学学者将认识论摩擦引入探究性学习与概念转变研究，与 Bjork 的“生产性困难（Desirable Difficulties）”以及 Sweller 的“关联认知负荷（Germane Load）”形成理论互通。
 > - **2026 年 — [[Generative Artificial Intelligence|生成式人工智能]]教育时代重塑** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将其作为核心理论工具，系统解释 ChatGPT 在高等教育中引发的“流畅性陷阱”与思维分化机制，确立其作为人机协同教学设计的核心调节概念。
+> - **2026 年 — 生产性与浪费性摩擦的双重划分与无摩擦委派诊断** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 明确区分排他/浪费性摩擦与生产性认识摩擦，指出技术设计的关键在于辨识何种心智努力被消除以及何种认识工作予以替代，揭示“无摩擦委派”剥离中间认识动作与评价性判断的机制危害。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
 
 ---
 
@@ -234,3 +237,4 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育 ChatGPT 实证研究，将“[[Epistemology|认识论]]摩擦”确立为解释人机协同[[Higher-Order Thinking Skills|高阶思维]]发展与防范有害[[Cognitive Offloading|认知卸载]]的基石概念。
+> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 在批判整合性综述中区分浪费性摩擦与生产性认识摩擦，论证“无摩擦委派（Frictionless Delegation）”如何通过压缩中间认识动作剥夺学习者评价性判断的演练机会。

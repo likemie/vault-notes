@@ -44,7 +44,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-20
+updated: 2026-09-21
 ---
 
 # Critical Review
@@ -148,4 +148,5 @@ updated: 2026-09-20
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 运用系统性批判综述方法，结合 [[PRISMA]] 检索与多维概念分析，对 34 篇关于教育中[[Research Utilization|研究使用]]的[[Document|文献]]进行全文本解构，揭示 30 年来该领域[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]的局限，并提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]概念框架。
+> - **[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]** 运用批判整合性综述（Critical-Integrative Review）方法，跨越教育人工智能、人机交互、认识论认知与社会认识论等多学科视阈，解构将人工智能工具单纯视为效率辅助或诚信风险的局限，系统界定认识依赖（Epistemic Dependence）构念，提炼六维诊断标准与四条社会技术路径，确立关系性认识主体性的规范内核。
 > - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]** 运用批判性综述方法，系统反思并解构了 Zhang et al. (2022) 宣称“直接教学全面优于探究教学”的论据与基本假设，通过对受控实验、PISA 跨国相关研究与宏观课程实验三类实证证据的批判性综合，揭示其选择性引证与误读偏误，确立了指导式探究的循证效能，并构建了基于学习目标、先验知识与认知特质的探究与直接教学协同模型。

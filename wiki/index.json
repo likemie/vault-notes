@@ -5038,6 +5038,17 @@
     ]
   },
   {
+    "title": "Epistemic Dependence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Dependence.md",
+    "aliases": [
+      "认识依赖",
+      "认识性依赖",
+      "认识论依赖",
+      "Epistemic Reliance"
+    ]
+  },
+  {
     "title": "Epistemic Forms",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Epistemic Forms.md",
@@ -5054,7 +5065,6 @@
       "认识论摩擦",
       "认知摩擦",
       "Cognitive Friction",
-      "epistemic friction",
       "productive friction"
     ]
   },
@@ -26187,6 +26197,11 @@
     "title": "Argument_Zheng_2023_ShanghaiSanlian",
     "type": "argument",
     "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
+  },
+  {
+    "title": "Argument_Du_Yuan_2026_AIS",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
   },
   {
     "title": "Argument_Glitz_2020_AER",
