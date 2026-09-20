@@ -10917,11 +10917,15 @@
     "path": "wiki/concepts/university-industry-collaboration/Return on Investment.md",
     "aliases": [
       "投资回报",
+      "投资回报率",
       "教育投资回报率",
+      "社会投资回报",
       "产学合作投资回报",
       "ROI",
+      "SROI",
       "RORE",
-      "rate of return to education"
+      "rate of return to education",
+      "social return on investment"
     ]
   },
   {
@@ -22428,8 +22432,9 @@
     "type": "fact",
     "path": "wiki/facts/new-zealand/Partnership Schools Kura Hourua.md",
     "aliases": [
-      "伙伴学校Kura Hourua",
-      "特许学校"
+      "伙伴学校",
+      "Kura Hourua",
+      "新西兰版特许学校"
     ]
   },
   {

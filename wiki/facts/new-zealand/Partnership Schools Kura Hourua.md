@@ -1,8 +1,9 @@
 ---
 title: Partnership Schools Kura Hourua
 aliases:
-  - 伙伴学校Kura Hourua
-  - 特许学校
+  - 伙伴学校
+  - Kura Hourua
+  - 新西兰版特许学校
 summary: "新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动"
 type: fact
 subtype: event
@@ -14,11 +15,11 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
-- charter-schools
-- pskh
-- subject/curriculum
-- region/new-zealand
-- education-policy
+  - charter-schools
+  - pskh
+  - subject/curriculum
+  - region/new-zealand
+  - education-policy
 related_concepts: []
 related_theories: []
 related_methods: []
@@ -28,8 +29,8 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 confidence: medium
 status: draft
-created: '2026-05-04'
-updated: '2026-05-18'
+created: 2026-05-04
+updated: 2026-09-20
 ---
 ## 概述
 
