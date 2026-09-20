@@ -2,24 +2,27 @@
 title: Learning Gain
 aliases:
   - 学习增益
+  - 学习增值
   - learning gains
   - 增值评价
-  - 学习增值
-  - value-added assessment in higher education
-summary: "衡量学生在高等教育阶段从入学到毕业期间在知识储备、高阶思维技能、工作就绪度及个人发展等维度所获得的净增长或纵向发展距离"
+  - 增值性评价
+  - value-added assessment
+summary: "衡量学生在特定教学干预或高等教育求学期间，在专业知识储备、概念理解、高阶思维技能及综合素养等方面所实现的净增长幅度与纵向发展距离。"
 type: concept
 domain: "higher-education"
-related_count: 33
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 confidence: high
-status: draft
+status: active
 tags:
   - theme/assessment
   - level/higher-ed
   - theme/higher-order-thinking
   - theme/educational-policy
+  - learning-science
+  - inquiry-learning
 related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
@@ -35,12 +38,18 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Attrition]]"
   - "[[Technical Rationality]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Direct Instruction]]"
+  - "[[Scaffolding]]"
+  - "[[Working Memory]]"
 related_theories: []
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Triangulation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
   - "[[Cognitive Ability Test KFT]]"
@@ -60,8 +69,9 @@ related_facts:
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_DeJong_2023_ERR]]"
 created: 2026-08-26
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Learning Gain
@@ -71,26 +81,57 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 学习增益（Learning Gain，也常称学习增值或 VALUE-Added）是指学生在高等教育求学期间（从入学到毕业），在专业知识、[[Higher-Order Thinking Skills|高阶思维技能]]（如[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与[[Problem Solving|问题解决]]）、就业就绪度（Work-Readiness）以及个人综合素养等方面所获得的纵向能力进步与净增长幅度。它突破了传统以入学成绩、名校声誉或静态文凭等级为主的质量评价模式，转而通过前[[Pre-test and Post-test|后测]]对比或增值模型（Value-Added Modeling）直接评估院校教学与培养过程对学生认知发展的实际赋能效果。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–18)]]; Kandiko Howson (2018); McGrath et al. (2015)
+> 学习增益（Learning Gain，亦称学习增值或 Value-Added）是指学生在经历特定教学干预、课程阶段或高等教育全周期培养后，在学科专业知识、概念性理解、[[Higher-Order Thinking Skills|高阶思维技能]]（如[[Critical Thinking|批判性思维]]与[[Problem Solving|问题解决]]）以及个人综合素养等方面所实现的纵向能力进步与净增长幅度。在现代教学设计与学习科学实验中，学习增益特指通过前[[Pre-test and Post-test|后测]]设计或受控实验对比所剥离出的教学干预净成效；在高等教育与宏观政策评价中，它突破了以生源声誉和静态文凭为主的输入导向评价，转而评估院校教育过程对学生实际认知发展的增值赋能。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–18)]]; [[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 4)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 关注学生在大学教育全过程中认知与实践能力的“[[Growth|成长]]距离”（Distance Travelled），而非初始选拔生源的优劣。
-> - **用途** 帮助政策制定者与大学管理者识别教学质量、评估教学改革成效，并为学生能力成长提供实证证据。
-> - **边界** 学习增益测量容易受到学生作答动机（低利害测试中的努力程度）、[[Floor and Ceiling Effects|天花板效应]]以及跨学科测量[[Incommensurability|不可通约性]]的干扰。
+> - **含义** 关注从基线起点到培养终点的净位移（Distance Travelled），剥离初始先验差异，测量干预带来的真实认知进阶。
+> - **用途** 用于在微观层面检视特定教学支架对深层概念转变的促进作用，在宏观层面诊断高校教学质量并扭转名校声誉偏误。
+> - **边界** 容易受到低利害测试中的作答动机衰退、[[Floor and Ceiling Effects|天花板效应]]、样本流失以及学科间不可通约性的干扰。
 
-> [!citation-card]- 核心内涵界定
-> 学习增益被理解为学生在高等教育求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（[[Higher Education Funding Council for England|HEFCE]]）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment|CLA+]] [[Going Native|本土化]]版）探索跨院校的能力成长测度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
+> [!citation-card] 高等教育增值评估与探究教学中的学习增益归因
+> 学习增益被理解为学生在求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（[[Higher Education Funding Council for England|HEFCE]]）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment|CLA+]] 本土化版）探索跨院校的能力成长测度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
 >
-> *Learning gains are understood as the improvement of students' knowledge, skills, work-readiness and personal development over the course of their higher education studies... Critical thinking was a central component of learning gains in several projects supported by the programme.*
+> 直接教学倡导者声称探究教学中学生的学习增益完全来自程序中追加的直接解释，这是对实证文献的严重误读。元分析表明，六类指导脚手架在促进学习增益上完全等价（平均提升 $d = 0.50$），直接讲授仅是六分之一，学习增益本质上源于结构化支架对认知负荷的适时调节。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 4)]]
+>
+> *The type of guidance had no significant moderation effect... Only one of the six types of guidance was direct instruction, so it is misleading to claim that the learning gains resulted solely from direct explanations.*
+
+> [!boundary]- 概念边界
+> - 不等于 静态绝对[[Academic Achievement|学业成就]]（Absolute Achievement） — 绝对成就往往由学生家庭背景、既往教育积累及选拔门槛决定；学习增益测量的是控制初始起点后的纵向“附加值”（净成长）。
+> - 不等于 单一课程期末考试分数（Final Course Grade） — 期末分数常混杂教师主观打分偏好与常模参照，缺乏基线锚定与跨学期可比量尺。
+> - 不等于 机构科研与资源输入 — 学习增益聚焦于学生微观心理模型的实际转变，而非大学经费规模或教授科研产出。
+
+---
+
+## 概念辨析
+
+> [!contrast-table] 学习增益在不同研究层面的范式对比
+> | 维度 | 教学实验中的微观学习增益 | 高等教育纵向增值评价 | 教师效能增值模型（VAM） |
+> |---|---|---|---|
+> | **分析单位** | 教学单元、实验课时或项目周期 | 大学本科 3–4 年全周期成长 | 学区内班级学生年度统考成绩 |
+> | **测量技术** | 概念测验、探究技能任务前后测（$d$ 或 $g$） | 标准化通用能力测验（CLA+）、表现性量规 | 多层线性回归（HLM）残差增值统计 |
+> | **核心归因目标** | 识别特定教学策略（如支架式探究 vs 直接教学）的净效应 | 评估大学教学法与课程设计的整体赋能效能 | 评估任课教师个人对学生统考分数的独立边际贡献 |
+> | **典型风险** | 霍桑效应、测试工具敏感度局限 | 学生低利害作答动机涣散、配对样本流失 | 惩戒性人事规制瓦解教师专业信任生态 |
 
 ---
 
 ## 核心要素
 
-> [!feature] 学习增益的三大测量取向与构件（Kandiko Howson, 2018; [[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）
-> - **标准化认知前-[[Pre-test and Post-test|后测]]（Standardized Cognitive Pre-POST Testing）** 在新生入学与毕业阶段分别实施通用[[Cognitive Ability Test KFT|认知能力测验]]（如 [[Collegiate Learning Assessment|CLA+]]、[[Collegiate Assessment of Academic Proficiency|CAAP]]、[[ETS Proficiency Profile]]），计算纵向分数增益或相对预期表现的残差值。
-> - **课程[[Academic Achievement|学业表现]]与评分量规（Grades & Authentic Rubrics）** 追踪学生从低年级到高年级在课程[[Homework|作业]]、学术长文与毕业设计中基于表现性量规（如 [[VALUE Rubrics]]）的分数演进。
-> - **学生自陈与参与度调查（Student Self-Reports & Engagement Surveys）** 通过国家或院校层面的调查工具（如澳大利亚 [[Graduate Outcomes Survey|GOS]]、爱尔兰 [[Irish Survey of Student Engagement|ISSE]]、挪威 [[Studiebarometeret]]），测量学生感知到的[[Higher-Order Thinking Skills|高阶思维]]与通用技能收获。
+> [!feature] 学习增益的核心测度取向与构成机制
+> - **实验干预的净因果增益识别** 在教学对比实验中，通过严格的前测基线控制与后测延迟测试，剔除先验知识与自然成长影响，精准度量特定教学法诱发的认知结构变化。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 4, 8)]]
+> - **标准化通用认知测试（Standardized Cognitive Assessments）** 运用脱离具体专业事实的高阶思维测评工具（如 CLA+、CAAP、ETS 档案），追踪批判性思维、因果推理与问题解决的跨周期进阶。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
+> - **质性表现性量规与课程真实作品（Authentic Rubrics）** 追踪学生在学术论文、设计项目及毕业设计中基于表现性量规（如 VALUE Rubrics）的水平跨越，弥补客观测试对复杂学科素养的简化。
+> - **多层统计模型与残差剥离** 依托增值建模（Value-Added Modeling, VAM）控制学生社会经济背景（SES）、先验基础与同伴效应，提取纯净的教学增值量。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
+
+> [!logic-map]- 学习增益的测量与转化逻辑链
+> ```mermaid
+> flowchart LR
+>     Pre["前测基线 / 先验起点评估"] --> Int["教学干预 / 大学培养过程<br>(指导式探究 / 认知支架 / 课程教学)"]
+>     Int --> Post["后测评估 / 延迟迁移测验"]
+>     Pre & Post --> Model["增值建模 / 效应量计算<br>(剥离先验背景与抽样误差)"]
+>     Model --> Gain["学习增益 (Learning Gain)"]
+>     Gain --> Impr["微观教学改进：精准调节支架强度"]
+>     Gain --> Gov["宏观质量评估：破除名校声誉偏误"]
+> ```
 
 ---
 
@@ -98,38 +139,100 @@ updated: 2026-09-18
 
 ---
 
-### 命题一　学习增益测量有助于扭转高等教育质量评价的“声誉偏误”与“输入导向”
+### 命题一　学习增益测量有助于扭转教育质量评价的“声誉偏误”与“输入导向”
 
-> [!concept-lens] 质量问责模式的[[Paradigm|范式]]转型
-> 探讨增值评价如何使教育质量评估聚焦于真实教学产出与学生[[Growth|成长]]。
-
-> [!claim] [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]
-> **增值导向对教学质量问责的重塑** 长期以来，高等教育质量评估过度依赖生源质量、科研产出与经费规模等输入与声誉指标，难以证明大学教育究竟为学生认知带来了何种实质增值（Arum & Roksa, 2011; Bok, 2006）。学习增益理念将评价焦点转移到学生高阶认知能力（[[Critical Thinking|批判性思维]]、创新[[Problem Solving|问题解决]]）的实际增量上，促使高校关注教学法改进与课程对齐（[[Constructive Alignment]]）。德国 [[KoKoHs Program|KoKoHs]] 项目、英国 Learning Gain 计划以及意大利 [[TECO Project|TECO]] 试点均表明，系统测量学习增益能够为院校改进教学提供直接实证反馈。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4, 16–18)]]
-
----
-
-### 命题二　低利害施测情境下的动机缺失与样本流失构成学习增益测量的核心技术瓶颈
-
-> [!concept-lens] 心理测量效度与纵向追踪的实施困境
-> 分析在大规模高校开展增值测试时面临的方法学挑战。
+> [!concept-lens] 质量问责模式的范式转型
+> 探讨增值评价如何使高等教育质量评估从盲目崇拜生源与科研经费转向真实教学产出。
 
 > [!claim] [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]
-> **增益测量的动机与[[Attrition|流失]]挑战** 学习增益测量在实践中面临严峻的方法学限制：首先，此类测试对学生通常属于“无利害关系（Low-Stakes）”活动，高年级学生往往缺乏全力作答的动机，导致表现低估；其次，纵向追踪设计存在极高的新生与毕业生配对样本流失率（Attrition）；再者，跨学科之间[[Higher-Order Thinking Skills|高阶思维]]的内涵差异使得统一通用测验容易受到学科专业知识的混淆。因此，增值评价需结合课程嵌入式评价（如量规）与多元证据[[Triangulation|三角互证]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17, 24–26)]]
+> **增值导向对教学质量问责的重塑** 长期以来，教育质量评估过度依赖生源择优、科研产出与经费规模等输入与声誉指标，难以证明院校培养究竟为学生认知带来了何种实质增量。学习增益理念将评价焦点转移到学生高阶认知能力（批判性思维、创新问题解决）的实际净增值上，促使院校将资源投向课程对齐与有效教学法设计。多国实践表明，系统测量学习增益能够为院校改进教学提供坚实的循证反馈。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4, 16–18)]]
 
 ---
 
+### 命题二　探究教学中的学习增益源于多维支架对认知负荷的系统性调节而非单一直接解释
+
+> [!concept-lens] 教学机制归因与负荷控制
+> 辨析理科教学实验中学生概念知识获得与推理能力净增益的核心驱动源泉。
+
+> [!claim] Lazonder & Harmsen; [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]
+> **指导类型促学增益的功能等价性** 元分析表明，在辅助科学探究中引入指导性脚手架能够带来半个标准差（$d = 0.50$）的稳健学习增益。直接教学倡导者宣称学习增益完全来自附加的显性讲授，然而对六类指导形式（过程约束、状态概览、提示、线索、脚手架、直接解释）的调节检验发现各类型促学效果完全等价。这证实探究教学中的学习增益来自于支架对工作记忆搜索负担的整体卸载，促使学生将认知带宽投入于主动证据协调，而非取决于是否由教师单向灌输答案。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 4)]]
+
 ---
 
-### 命题三　增值评价指标的微观技术有效性无法直接等同于宏观治理决策的合理性
+### 命题三　低利害施测情境下的动机缺失与治理指标的机械人事规制构成学习增益测量的双重边界
 
-> [!concept-lens] 测量指标与宏观政策生态的制度脱节
-> 剖析增值评价模型（Value-Added Measures, VAM）在基础教育与宏观政策治理中从技术有效性向高利害决策转化时的深层悖论。
+> [!concept-lens] 心理测量效度与宏观制度生态
+> 剖析增值测量在微观施测动机与宏观政策转化中面临的方法学与制度悖论。
 
-> [!claim] 增值指标的治理生态制约
-> 即使严谨的实证研究或[[Randomised Controlled Trials|随机对照试验]]证实增值评价指标能有效预测教师教学效能，这也绝不意味着政策制定者可以直接依据该指标授权学区总监解雇教师。斯蒂芬·劳登布什（Stephen Raudenbush, 2015）指出，回答微观颗粒度的事实问题（如增值模型能否有效识别教师绩效）并不等于能直接导出行动决策；若机械将其转化为惩戒性人事规制，将直接瓦解校长的日常治校权威并破坏教师专业信任生态。增值指标本身是[[Technical Rationality|技术理性]]测量工具，其高利害政策转化必须充分考量教育治理系统的连带反应，防范技术理性对学校组织生态的反噬。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
+> [!claim] [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]; [[Argument_Serpell_2020_EP|Serpell (2020)]]
+> **动机涣散与技术理性规制的制度反噬** 学习增益测量在实践中面临内外部双重制约：在微观测试层面，若测试缺乏利益挂钩（Low-stakes），高年级学生往往缺乏全力作答的动机，极易产生低估与样本流失；在宏观治理层面，Stephen Raudenbush 指出，增值指标在技术上的统计有效性绝不等于可以直接转化为解雇教师或关闭专业的治理依据。若机械将增值模型（VAM）异化为惩戒性规制工具，将彻底瓦解教师间的专业信任，诱发应试投机，破坏学校组织的良性生态。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17, 24–26)]]; [[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **质量范式重塑** | 关注学生认知净位移以打破名校声誉与生源选拔偏误 | 高等教育质量保障、院校评估与课程改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
+> | **探究机制归因** | 学习增益源于支架卸载工作记忆负荷，六类指导形态功能等价 | 理科教学干预、指导式探究与实验设计 | Lazonder & Harmsen; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
+> | **治理生态制约** | 低利害作答动机衰退与机械惩戒性人事转化的制度反噬 | 增值评价模型（VAM）、政策问责与绩效监测 | Raudenbush; [[Argument_Serpell_2020_EP\|Serpell (2020)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 学习增益概念的演进历程
+> - **1980s — 基础教育教师增值评估（VAM）兴起** William Sanders 在美国田纳西州开创田纳西增值评价系统（TVAAS），利用多层线性模型追踪学生跨学年标准化成绩，尝试剥离教师个体的教学增益。
+> - **2000s — 实验心理学与探究教学增益标准化** 科学教育与认知心理学普遍确立以前后测标准差增益（Cohen's $d$ / Hedges' $g$）作为衡量不同教学范式（探究 vs 讲授）概念获得成效的核心指标。
+> - **2010s — 高等教育纵向能力增值项目大规模试点** 英国高等教育拨款委员会（HEFCE）启动“学习增益项目”，德国实施 KoKoHs 计划，意大利开展 TECO 试验，系统探索高等教育批判性思维与通用能力的增值测度。
+> - **2016–2023 — 探究指导与自适应支架增益的循证综合** Lazonder & Harmsen (2016) 元分析确立指导使探究学习增益提升半个标准差及指导形态等价性；[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 系统综合长周期实验，论证探究与直接教学协同互补实现长效深层学习增益的最佳路径。
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议
+>
+> > [!axis] 增益测量工具：跨专业通用测验 vs 学科内嵌表现评价
+> > 争论学习增益应当依托通用批判性思维量表测量，还是必须扎根于具体专业领域的真实作业。
+> >
+> > - **通用测验派（CLA+, CAAP）** 主张通用测试具备跨院校、跨专业的横向可比性，能够为国家宏观政策问责提供统一基准。
+> > - **学科情境派（VALUE Rubrics）** 认为高阶思维无法脱离具体的学科专业知识孤立存在，通用测验容易退化为脱离学科脉络的智力题，主张依赖教师嵌入式真实评分量规。
+> >
+> > > [!axis] 增益结果用途：形成性诊断教学 vs 终结性高利害问责
+> > 争论学习增益指标应当用于帮助教师改进教学，还是直接挂钩拨款与人事奖惩。
+> >
+> > - **形成性改进派** 强调增值指标具有较大幅度的抽样误差与年份波动，只能作为识别教学短板、开展教研反思的内部反馈线索。
+> > - **高利害问责派** 主张必须将增值绩效作为公共教育财政问责与教师末位考核的核心抓手。
+
+> [!warning] 适用局限
+> 学习增益测量必须建立在稳定可靠的前测与后测基准量尺之上；若前后测试题形式异质、存在明显的天花板效应（高水平学生无法测出进步），或者学生作答态度消极，增益计算将产生严重的统计假象。
+
+---
+
+## 实证数据
+
+> [!ma-table]- 一阶元分析总体结果
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 异质性与预测区间 | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | Lazonder & Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | 结果变量：指导脚手架对比无指导探究产生的学习增益 | $k = 72$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $d = 0.50$ [0.37, 0.63] | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架稳定带来半个标准差学习增益 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 英国 HEFCE 学习增益项目涵盖数十所高校、数万名本科生 | 纵向准实验追踪与试点评价 | CLA+ 与表现性量规在各专业中的跨期配对率与作答完成度 | 绝大多数试点项目面临极为严重的第二轮追踪样本流失与作答动机不足 | 跨校差异显著 | 证实通用客观化增值测试在低利害大学情境下面临严重的实施与测量效度挑战 |
+> | Raudenbush (2015) (引自 [[Argument_Serpell_2020_EP\|Serpell, 2020, p. 42]]) | 美国公立学区教师与学生纵向统考数据 | 多层线性增值回归建模（VAM） | 教师年度增值分数在不同学年间的重测稳定性 | 教师个人增值排位在连续年份间呈现大幅波动，存在高比例因非教学因素造成的误判 | 误差范围较大 | 实证确立不能机械将微观统计增值模型作为解雇教师的高利害行政裁决依据 |
+
+---
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 详细梳理了 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills|高阶思维]]评价的政策项目（包括英国 [[HEFCE Learning Gain Project|HEFCE Learning Gain]] 计划、德国 [[KoKoHs Program|KoKoHs]] 项目与意大利 ANVUR [[TECO Project|TECO]] 试验），分析了不同测度方法的优劣与政策启示。
-> - [[Argument_Serpell_2020_EP|Serpell (2020)]] 援引 Stephen Raudenbush (2015) 论析增值评价（VAM）在宏观政策应用中的局限，指出单一增值测量的技术有效性无法直接替代宏观治理决策，揭示了微观[[Technical Rationality|技术理性]]与宏观学校治理生态之间的深层张力。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统评析探究与直接教学的实证全景，引用 Lazonder & Harmsen (2016) 确证指导脚手架带来 $d = 0.50$ 的学习增益及六类指导类型的促学等价性。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 梳理 OECD 国家支持学习增益与高阶思维评价的政策项目（英国 HEFCE、德国 KoKoHs、意大利 TECO），辨析不同测度方法的优劣与实施挑战。
+> - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 援引 Raudenbush (2015) 剖析增值评价模型（VAM）在宏观政策应用中的局限，揭示微观技术理性与宏观学校治理生态之间的深层张力。

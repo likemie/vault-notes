@@ -10,7 +10,7 @@ aliases:
 summary: "指个体理解科学探究运作机制、批判性评估多源证据质量、接纳科学知识的暂定性与不确定性，并在日常生活和公共决策中做出理性判断的核心公民素养，涵盖科学本质理解、数据与算法素养及抵御虚假信息的认知免疫机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 41
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,6 +23,7 @@ tags:
   - theme/public-engagement
 related_concepts:
   - "[[Reliability]]"
+  - "[[Knowledge Production]]"
   - "[[Rote Learning]]"
   - "[[Scientism]]"
   - "[[Epistemology]]"
@@ -45,8 +46,12 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Document]]"
   - "[[Output-Oriented Governance]]"
-  - "[[Operationalization]]"
+  - "[[Direct Instruction]]"
+  - "[[Interaction Effect]]"
+  - "[[International Large-Scale Assessments]]"
   - "[[Variable]]"
+  - "[[Heterogeneity]]"
+  - "[[Operationalization]]"
 related_facts:
   - "[[PISA]]"
   - "[[Beyond 2000 Report]]"
@@ -58,6 +63,7 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
+  - "[[Argument_DeJong_2023_ERR]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
@@ -67,9 +73,9 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
 confidence: high
-status: draft
+status: active
 created: 2026-08-22
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Scientific Literacy
@@ -82,7 +88,7 @@ updated: 2026-09-18
 > 科学素养（Scientific Literacy / Science Literacy）是指个体具有对科学本质及其运作机制的充分理解，能够把握科学知识通过逐步降低不确定性而演进的动态过程，具备批判性评估多源证据质量及其可[[Reliability|信度]]的认知能力，并在日常生活、健康医疗、消费抉择与公共民主审议中做出明智决策的核心公民素养。它超越了传统对孤立科技事实与术语的机械记忆，将科学本质理解、科学探究实践、数据与算法素养以及抵御伪科学与虚假信息的理性批判心智融为一体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 将科学教育的终极目标从“孤立事实的单向传授”重构为“探究证据与理解科学知识生成的内在逻辑”。
+> - **含义** 将科学教育的终极目标从“孤立事实的单向传授”重构为“探究证据与理解科学[[Knowledge Production|知识生成]]的内在逻辑”。
 > - **用途** 为课程设计者提供打破应试[[Rote Learning|死记硬背]]的理论武器，并在数字算法时代为公众构筑识别虚假信息、理解科研不确定性的认知免疫屏障。
 > - **边界** 区别于面向大学专业科研管网（STEM Pipeline）的预备选拔技能；全民科学素养聚焦于面向所有未来公民的通用探究心智与证据反思能力。
 
@@ -193,6 +199,16 @@ updated: 2026-09-18
 
 ---
 
+### 命题五　科学素养的有效培育依赖于支架式探究与直接教学的协同而非孤立放任探索
+
+> [!concept-lens] 教学交互与证据探究协同机制
+> 科学素养的养成并非源于非此即彼的孤立探究或灌输，而在于教师精心设计的支架式探究与结构化[[Direct Instruction|直接教学]]的紧密互补。
+
+> [!claim] [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]
+> **探究指导[[Interaction Effect|调节效应]]与教学最佳平衡点** [[International Large-Scale Assessments|国际大规模学生评估]]（PISA 2015）跨国实证数据揭示，科学素养与课堂探究教学频率呈非线性倒 U 型曲线（Chen et al., 2017），当支架式探究与直接教学紧密结合时达到科学表现的最佳平衡点（Sweet Spot）；教师指导是核心调节[[Variable|变量]]（Aditomo & Klieme, 2020），缺乏教师指导的孤立探究与科学素养显著负相关，而在全部 16 个高成效教育系统中，教师主导的支架式探究均呈稳健正相关；同时探究活动类型存在极高维度[[Heterogeneity|异质性]]（Cairns, 2019），基于实验设计与数据推论的动手探究显著促进科学素养，而缺乏先验知识支撑的泛化课堂争论则表现为负向关联。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 5–6)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -202,6 +218,7 @@ updated: 2026-09-18
 > | **不确定性与科学本质** | 掌握多源证据批判与科学知识的暂定性、可修正性 | 科学探究教学法、公共风险沟通、争议科学审议 | Kerr et al. (2022); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 62)]] |
 > | **数字虚假信息认知免疫** | 辨识源头通稿夸大、算法偏见与生成式 AI 伪证 | 媒体素养融合课程、数字网络信息消费与事实核查 | Sumner et al. (2014); West & Bergstrom (2021) |
 > | **政策决策证据素养** | 揭示立法者信源偏误短板并推进全政策社群 STEM 与数据分析技能建设 | 议会立法审议、政府科研采购与公共政策循证评估 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society (2026, Ch. 5, pp. 82–83)]] |
+> | **教学协同与支架调节** | 揭示探究教学与直接教学协同的最佳平衡点，确立教师指导对科学素养发展的决定性作用 | 跨国大规模测评分析、K-12 科学探究课程设计、课堂探究活动类型筛选 | Chen et al. (2017); Aditomo & Klieme (2020); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]] |
 
 ---
 
@@ -250,6 +267,7 @@ updated: 2026-09-18
 > [!index-table] 科学素养实证测量与教育教学现状监测表
 > | 研究 / 调查项目 | 样本与情境特征 | 核心[[Variable\|变量]]与测量维度 | 关键实证数据 | 政策含义与理论洞见 |
 > |---|---|---|---|---|
+> | **[[OECD]] [[PISA]] 2015 科学素养跨国测评** | 全球 54 万名 15 岁学生的大规模跨国测评数据（72 个国家/经济体） | 探究式科学教学频率（IBST）、教师指导水平、科学素养表现分 | • 倒 U 型关系：低到中度探究伴随最高素养表现，过度孤立探究表现骤降（Chen et al., 2017）<br>• 教师指导调节：无指导探究与素养负相关，支架式探究在全部 16 个高成效体系中均为正相关（Aditomo & Klieme, 2020）<br>• 维度差异：实验操作与数据结论正向预测素养，无准备辩论负向预测（Cairns, 2019） | 实证打破了“纯粹探究优于直接教学”或“直接教学排斥探究”的二元对立，证明探究与直接教学协同、高教师指导介入是科学素养养成的关键制度设计。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 5–6)]] |
 > | **[[UK Science Education Tracker\|SET 2023]] [[Longitudinal Study\|纵向调查]]** | 英格兰 14–16 岁中学生全国代表性样本 | 课堂动手实验频率、科学学习动机与素养感知 | 每两周至少进行一次动手实验的比例从 2016 年的 **44%** 骤降至 2023 年的 **26%** | 应试导向与课时压缩严重削弱探究教学，危机全员科学素养生成根基。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]] |
 > | **[[Public Attitudes to Science\|PAS 2025]] 全英调查** | 英国全国 16 岁及以上成年代表性样本（$N=5,281$） | 信息获取渠道、信息充足感、网络真实性甄别自信 | • **40%** 通过数字新媒体首要获取科学信息<br>• **60%** 感到获取科学信息过少<br>• 仅 **40%** 有信心辨别网络科学信息真伪 | 公众对科学信息具有强烈渴求，但面对数字算法环境存在显著的证据素养自信落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 57–58)]] |
 > | **YouGov 2025 英国议员调查** | 英国下议院 108 名国会议员专属[[Questionnaire\|问卷调查]] | 科学信息获取主要渠道、信息[[Reliability\|可靠性]]甄别及 AI 使用 | • **55%** 依赖智库与倡导团体<br>• **48%** 依赖大学学者<br>• **47%** 依赖互联网开放检索<br>• 仅 **22%** 使用 POST，仅 **12%** 使用国家学术院<br>• 仅 **5%** 自述使用 AI | 定量揭示立法决策群体在科学信源上的偏误结构，缺乏鉴别可靠性的规范规程，凸显全政策社群 STEM 与数据分析素养培训的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82–83)]] |
@@ -261,5 +279,6 @@ updated: 2026-09-18
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统梳理基于 [[PISA]] 2015 大规模实证数据的科学素养研究，论证了探究教学提升科学素养的关键在于教师支架与活动维度（实验操作 vs 盲目辩论），揭示了探究与[[Direct Instruction|直接教学]]协同促成科学素养生成的“最佳平衡点”。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳[[Scientific Uncertainty|科学不确定性]]为核心的[[Citizen Science|公民科学]]素养；并在第五章针对国会议员与公务员队伍提出提升 STEM 研究和数据分析技能的国家行动建议。
 

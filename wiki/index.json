@@ -5395,7 +5395,8 @@
     "path": "wiki/concepts/educational-technology/Avatar.md",
     "aliases": [
       "化身",
-      "avatars"
+      "avatars",
+      "虚拟化身"
     ]
   },
   {
@@ -5819,10 +5820,11 @@
     "path": "wiki/concepts/higher-education/Learning Gain.md",
     "aliases": [
       "学习增益",
+      "学习增值",
       "learning gains",
       "增值评价",
-      "学习增值",
-      "value-added assessment in higher education"
+      "增值性评价",
+      "value-added assessment"
     ]
   },
   {

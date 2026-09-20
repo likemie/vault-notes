@@ -3,6 +3,7 @@ title: Avatar
 aliases:
   - 化身
   - avatars
+  - 虚拟化身
 summary: "虚拟世界中代表参与者的三维数字形象，可随时更改形态，是参与者投射自我、表达观点和与他人互动的媒介"
 type: concept
 domain: "educational-technology"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Avatar
