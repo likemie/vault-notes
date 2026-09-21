@@ -67,10 +67,11 @@ related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Fade-out Effect
@@ -112,6 +113,7 @@ updated: 2026-09-17
 > - **新奇效应退潮与非认知动机回落（Decay of Novelty & Motivation）** 即时显著收益常混合了新硬件、额外金钱奖励或研究者特殊关注带来的[[Hawthorne Effect|霍桑效应]]；一旦恢复日常教学常态，学生的专注度与额外投入迅速回落至常规基线。
 > - **规模化级联培训稀释（Cascade Dilution in Scale-up）** 当方案从 20 所学校的[[Efficacy Trial|效力试验]]迅速扩张至 200 所学校的[[Effectiveness Trial|实效试验]]时，原作者无法亲自授课，转由多层中介培训师转导。信息逐级衰减导致课堂[[Implementation Fidelity|实施保真度]]崩溃，引发大规模效果断崖（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 57]]）。
 > - **[[Counterfactual|反事实]]基线常态演进（Counterfactual Creep）** 随着全行业教研水准提升，对照组学校在日常教学（BAU）中自发采纳了类似的有益教学实践，导致干预措施相对于常规实践的比较优势荡然无存。
+- **长周期实施浓度稀释与平台期效应（Dosage Dilution & Plateau Effect）** 认知干预的生长轨迹常呈非线性，学生在短期高强度教学中快速吸收核心策略并达到平台期；若干预时间拖延过长（如超过一学期），单位时间教学浓度被严重稀释，加之对照组在常态教学中逐渐自然成熟追赶，导致长周期干预往往表现出相对优势消失甚至不显著的衰退假象。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 490, 493)]]
 
 ---
 
@@ -119,10 +121,13 @@ updated: 2026-09-17
 
 ---
 
-### 命题一　单纯针对低阶技能的专项强化必定遭遇快速的因果衰退
+### 命题一　单纯针对低阶技能的专项强化必定遭遇快速因果衰退而高阶认知习惯可形成延时反弹
 
 > [!concept-lens] 琐碎技能与门禁技能的因果分野
 > 聚焦于机械刷题或易于传授的低阶表面技能（Trifles，如短期背词）的项目，其效应几乎 100% 在 6 至 12 个月内消退殆尽；唯有深层重塑思维方式、[[Metacognition|元认知]]策略与批判探究能力的**门禁技能（[[Gatekeepers|gatekeeper]] Skills）**，才能激活自发增强的乘数循环（Self-reinforcing Multipliers），在撤除外部支持后长期留存（Bailey et al., 2017）。
+
+> [!claim] Cartiff et al.
+> **认知思维习惯的内化沉淀与延时反弹机制** 与单纯传授低阶记忆或算法规则不同，当教学干预聚焦于重塑学生的证据确证标准与信源评估等认识论思维习惯时，干预不仅能有效抵御后效衰退，甚至能在延时测试中展现出效应翻倍的后劲红利。因为认识论准则属于具有强元认知属性的思维习惯，在外部干预结束后，学生在后续常态学习中仍会主动调用该准则权衡证据，在时间沉淀与自主应用中达成更深层的图式重组，从而逆转了低阶技能因自然遗忘与对照组追赶而衰退的经验常态。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 490–493)]]
 
 ---
 
@@ -155,7 +160,7 @@ updated: 2026-09-17
 > [!contrast-table] 所有命题归纳与审查规则
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **技能层级分化** | 低阶琐碎技能易于消退，唯有深层元认知与门禁技能具备长期自强乘数效应 | 早期读写、数学与认知干预方案设计 | Bailey et al. (2017) |
+> | **技能层级分化** | 低阶琐碎技能易于消退，唯有深层元认知与思维习惯具备延时反弹与长期乘数效应 | 早期读写、数学与认知干预方案设计 | Bailey et al. (2017); Cartiff et al. |
 > | **清算随访筛选** | 6–12 个月干预后持续效果门槛是区分表面提分与实质轨迹改变的制度分水岭 | [[Educational Evidence Clearinghouses\|证据清算中心]]评级准入与政策推荐 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
 > | **大数据追踪范式** | 链接国家行政普查数据库（如 NPD）可消除随访高流失，实现全样本终身因果追踪 | 国家级证据中介、长期政策效应评估 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
 > | **累积剂量机制** | 单次短期干预易衰退，唯有在 K–12 全学段连贯实施强证据方案才能固化学业优势 | 处境不利薄弱学校改进、分层预防干预体系 | [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
@@ -170,6 +175,7 @@ updated: 2026-09-17
 > - **2000s–2010s — 循证清算中心将持续效果制度化为准入门槛** [[Blueprints for Healthy Youth Development|Blueprints]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 正式确立 $\ge 12$ 个月持续效果作为顶级循证标准的刚性红线，倒逼教育试验必须设计多轮延期随访（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]）。
 > - **2018–至今 — 规模化电压降反思与国家大数据追踪整合** 英国 [[Education Endowment Foundation|EEF]] 大规模试验反思（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）将效应衰退拓展至规模化级联损耗（Efficacy to Effectiveness Drop），并依托国家行政数据库（NPD）开创无感式全纳长期留存监测新[[Paradigm|范式]]。
 > - **2019 — [[Cumulative Dosage Principle|累积剂量原则]]确立为抵御衰退的核心理论解法** [[Argument_Slavin_2019_EP|Slavin (2019)]] 系统论证单纯依靠单一年份或短期干预难以对抗后续[[Business as Usual|常态教学]]侵蚀，确立在 K–12 全周期推行连续循证教学方案的“累积剂量原则（Cumulative Dosage）”。
+> - **2021 — 认识论干预中的延时效应翻倍与时长衰退解构** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 针对认识论认知干预展开元分析，实证发现延时后测效应量较即时后测翻倍（$d = 0.966$ vs. $d = 0.451$），揭示高阶认知习惯的内化沉淀机制能够抵御传统消退；同时证实全学期长周期干预由于教学浓度稀释与对照组自然成熟而产生的相对衰减现象。
 
 ---
 
@@ -182,7 +188,7 @@ updated: 2026-09-17
 > >
 > > - **实用政策派观点** 主张干预只要在学年结束时帮助学生通过统考便已达成使命，要求 12 个月随访成本极高且[[Attrition|样本流失]]严重，不切实际。
 > > - **长效发展派反驳** 强调公共财政不应资助虚假繁荣；没有持续效果的提分只是暂时透支，若无法阻断后效衰退，巨额公共资金便沦为一次性消耗品。
->
+> >
 > > [!axis] 纯粹认知技能衰减 vs 隐性非认知素质留存
 > > 随访测验未测出差异是否能等同于干预毫无价值。
 > >
@@ -204,6 +210,14 @@ updated: 2026-09-17
 ---
 
 ## 实证数据
+
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]延时追踪与干预周期调节结果
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 考察维度与对比条件 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 组间差异检验 | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **测试时间节点** 延时后测 vs. 即时后测（抗衰退与内化反弹） | 5 项延时（485 人） vs. 54 项即时（3,888 人） | Cohen's $d$，随机效应模型 | 延时后测 $d = 0.966$ $[0.802, 1.131]$；即时后测 $d = 0.451$ $[0.264, 0.638]$ | $Q_b(1) = 16.737, p < .001$ | 认识论认知干预展现出罕见的反向翻倍效应，证实高阶思维习惯随时间具有内化沉淀优势 |
+> | 同上 | **干预实施周期** 短期与中期集中教学 vs. 全学期长期干预 | 59 个效应量 / 4,373 | Cohen's $d$，随机效应模型 | 中期 $d = 0.925$；短期 $d = 0.615$；单次 $d = 0.734$；长期（全学期） $d = 0.234$（不显著） | $Q_b(3) = 8.863, p < .05$ | 长期干预效应消退源于教学浓度稀释、对照组常态追赶以及选用了不敏感的期末统一考试 |
 
 > [!ref-table]- 经典实证案例汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -237,4 +251,5 @@ updated: 2026-09-17
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 系统梳理跨国[[Educational Evidence Clearinghouses|证据清算中心]]对干预后持续效果的硬性审查标准，揭示效应衰退对政策认证评级的决定性影响。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度剖析英国 [[Education Endowment Foundation|EEF]] 试验从效力到实效演进中的电压降机制，以及依托[[National Pupil Database|国家学生数据库]]建立长期效应追踪的制度实践。
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 论证单次干预后效应衰减的认知必然性，提出在 K–12 全周期推行强证据方案的“[[Cumulative Dosage Principle|累积剂量原则]]（Cumulative Dosage）”，系统阐释如何通过连年持续干预克服短期衰退并终身重塑学业轨迹。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 元分析实证证实认识论教学干预在延时后测中展现出罕见的效应翻倍（$d = 0.966$ vs. $d = 0.451$），阐明思维习惯随时间具有内化沉淀优势，并解构了全学期长周期干预产生相对衰退的教学稀释机制。
 

@@ -131,8 +131,6 @@ journal: "Journal of Educational Psychology"
 
 ## 理论框架
 
-[[Epistemic Cognition|认识论认知]]干预的教学设计取决于研究者所依据的[[Theoretical Perspective|理论视角]]。不同的理论模型对学生应该如何看待知识以及教学应聚焦于哪些环节有着不同的界定。
-
 > [!framework-table] 认识论认知理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|

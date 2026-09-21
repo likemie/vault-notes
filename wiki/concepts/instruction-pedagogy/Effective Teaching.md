@@ -66,10 +66,11 @@ related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Abrami_2015_RER]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
-status: draft
+status: active
 created: '2026-05-05'
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Effective Teaching
@@ -145,6 +146,9 @@ updated: 2026-09-17
 > [!claim] Hattie; Meyer; Helmke; Laursen
 > **跨国共识指向课堂经典基本质量** 综合 [[John Hattie]]（可见学习）、[[Hilbert Meyer]] 及 [[Andreas Helmke]] 的实证体系，有效教学高度收敛于清晰目标、积极教师领导、学习导向气氛与形成性反馈。丹麦国家社会科学研究所（SFI）的实证研究进一步确证，清晰一致的[[Classroom Management|课堂管理]]与高学业要求在北欧情境下同样是提升[[Academic Achievement|学业成绩]]的关键决定因素。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–37)]]
 
+> [!claim] Cartiff et al.
+> **显性证据规则与支架介入确立有效教学基线** 对认识论教学干预的因果元分析量化证实了教师显性领导的不可替代性：明确向学生讲授证据确证规则并提供实验变量支架的指导式探究与信源评估模式，成效显著优于缺乏支架的自主问题解决与开放辩论。这一结果从反面推翻了“放任探究自发有效”的假设，确立了教师提供结构化脚手架、嵌入即时诊断反馈并开展短周期高浓度聚焦教学，是实现高品质有效教学的循证基准。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 485–486, 492)]]
+
 ---
 
 ### 命题二　开放教学与结构化教学的有效性受制于学生家庭社会经济背景的强力调节
@@ -172,9 +176,9 @@ updated: 2026-09-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教师激活与基本质量** | 明确目标、教师领导、形成性反馈与安全氛围是跨文化通用的有效教学核心支柱 | K–12 课堂教学设计、全科教师专业发展标准 | [[John Hattie\|Hattie (2009)]]; Meyer (2004); Helmke (2009); [[Argument_Laursen_2015_Paideia\|Laursen (2015, pp. 35–37)]] |
-> | **社会背景调节机制** | 处境不利学生高度依赖显性结构与清晰指导，过度开放教学易扩大阶层学业差距 | 补偿教育政策制定、弱势学校课堂教学改进 | [[SFI Report\|SFI (2015)]]; [[Argument_Laursen_2015_Paideia\|Laursen (2015, pp. 38–40)]] |
-> | **具体方案落地载体** | 抽象通用原则存在巨大的实践转化壁垒，必须内嵌于经实验检验的具体课程方案 | [[Evidence-Based Education\|循证教育]]政策（[[Every Student Succeeds Act\|ESSA]]）、全校改革与教材采购 | [[Robert Slavin\|Slavin (2019)]]; [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
+> | **教师激活与基本质量** | 明确目标、教师领导、形成性反馈与安全氛围是跨文化通用的有效教学核心支柱 | K–12 课堂教学设计、全科教师专业发展标准 | Hattie; Meyer; Helmke; Laursen; Cartiff et al. |
+> | **社会背景调节机制** | 处境不利学生高度依赖显性结构与清晰指导，过度开放教学易扩大阶层学业差距 | 补偿教育政策制定、弱势学校课堂教学改进 | SFI; Laursen |
+> | **具体方案落地载体** | 抽象通用原则存在巨大的实践转化壁垒，必须内嵌于经实验检验的具体课程方案 | [[Evidence-Based Education\|循证教育]]政策（[[Every Student Succeeds Act\|ESSA]]）、全校改革与教材采购 | Slavin |
 
 ---
 
@@ -186,6 +190,7 @@ updated: 2026-09-17
 > - **2009 年 — 可见学习[[Meta-analysis|元分析]]综合（[[Visible Learning]]）** [[John Hattie]] 出版《可见学习》，综合 800+ 项元分析，提出教师作为“主动激活者（$d = 0.60$）”远优于“促进者（$d = 0.17$）”的论断。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 35)]]
 > - **2015 年 — 跨文化检验与社会背景调节深化** Per Fibæk Laursen 结合丹麦 SFI 报告检验国际综合，揭示有效教学质量的跨文化普适性及学生社会背景对开放教学效果的深度调节。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 38–40)]]
 > - **2019 年至今 — 循证改革批判与具体方案转向** [[Robert Slavin]] 系统指出抽象通用原则的实践失效，倡导将有效教学内嵌于达到 [[Every Student Succeeds Act|ESSA]] 强[[Evidence Standards|证据标准]]的成套课程与干预产品中。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
+> - **2021 年 — 认识论因果干预对有效教学核心要素的量化提炼** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 开展首个认识论教学元分析，实证确立了有效教学的四大循证支柱：显性指导式探究与信源评估的机制优势、1–4 周高浓度聚焦实施、形成性评价反馈撬动延时内化反弹，以及评价工具与深层高阶思维的精准对齐。
 
 ---
 
@@ -219,6 +224,14 @@ updated: 2026-09-17
 
 ## 实证数据
 
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]教学模式与干预特征调节结果
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 教学质量维度与干预特征 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 组间检验 | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **教学组织形式** 指导式探究与信源评估（显性激活） vs. 开放论证与 PBL（自主探索） | 28 篇（59 个效应量） / 4,373 | Cohen's $d$，随机效应模型 | 指导式探究 $d = 0.808$；信源评估 $d = 0.800$；认知支架 $d = 0.663$；PBL $d = 0.340$；论证 $d = 0.134$ | $Q_b(5) = 17.491, p < .01$ | 教师提供显性证据评估支架是有效教学的核心分水岭，放任式自主探究成效微弱 |
+> | 同上 | **实施时间浓度** 1 至 4 周高强度聚焦教学 vs. 全学期长期泛化实施 | 59 个效应量 / 4,373 | Cohen's $d$，随机效应模型 | 中期（2–4 周） $d = 0.925$；短期（1 周内） $d = 0.615$；长期（全学期） $d = 0.234$（不显著） | $Q_b(3) = 8.863, p < .05$ | 短周期集中教学保证了教学浓度与评价对齐，证实有效教学需防范长周期实施稀释 |
+
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -237,5 +250,6 @@ updated: 2026-09-17
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 从循证改革与实施科学视角，批判抽象有效教学原则的实践困境，论证具体结构化方案对课堂质量提升的决定性支撑。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对比英美实证有效教学[[Paradigm|范式]]与欧陆经典教学论（[[Didaktik]]）的[[Epistemology|认识论]]差异。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 实证检验[[Direct Instruction|显性直接教学]]与情境探究融合对培养高阶[[Critical Thinking|批判性思维]]的最优效能。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 开展认识论干预元分析，实证确立指导式探究与信源评估的机制优势、短周期高浓度教学特征与形成性评价反馈对学业成就的因果促进作用，提炼出有效教学的循证关键支柱。
 
 
