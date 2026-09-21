@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Epistemic Cognition",
+      "path": "wiki/concepts/educational-psychology/Epistemic Cognition.md"
+    },
+    {
       "basename": "Argument_Cartiff_2021_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "Argument_Steiner-Khamsi_2024_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
     }
   ],
   "omittedPaths": [],
