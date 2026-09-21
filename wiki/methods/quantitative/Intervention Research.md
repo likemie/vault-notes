@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: 2026-07-13
+updated: 2026-09-21
 ---
 
 ## 定义
@@ -123,7 +123,8 @@ updated: 2026-07-13
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Brady_2023_EPR]] — 将干预研究作为五类方法之一进行趋势[[Coding in Qualitative Research|编码]]，发现其比例自 2010 年后稳定在 25%，但随机实验继续下降([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
+> - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将干预研究作为五类方法之一进行趋势[[Coding in Qualitative Research|编码]]，发现其比例自 2010 年后稳定在 25%，但随机实验继续下降([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 针对 26 项旨在促进[[Epistemic Cognition|认识论认知]]的实验与准实验干预研究开展[[Meta-analysis|元分析]]，证实教学干预对[[Academic Achievement|学业成就]]具有显著因果提升作用（Cohen's $d = 0.509$），并确立了指导式探究与信源评估的优势地位。
 
 ---
 

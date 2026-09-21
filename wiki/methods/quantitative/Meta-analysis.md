@@ -134,7 +134,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Meta-analysis
@@ -368,6 +368,7 @@ flowchart LR
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 综合 341 项实验与准实验研究，运用随机效应模型与混合效应亚组调节检验，确立[[Dialogue in Education|对话]]、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]的三维复合干预效应（$g+ = 0.57$）。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] 采用三水平随机效应元分析模型综合 51 个样本（$N = 12{,}548$），估计[[Creativity|创造力]]与批判性思维的整体相关（$r = 0.386$），并配合元回归检验测量类型等调节变量。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 对 132 项非实验研究中的 752 个效应量执行随机效应元分析，系统考察[[Epistemic Cognition|认识论认知]]与[[Academic Achievement|学业成就]]的关联及调节变量。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 26 项实验与准实验研究（28 个独立样本，59 个[[Effect Size|效应量]]，$N = 4{,}373$），评估[[Epistemic Cognition|认识论认知]]干预对[[Academic Achievement|学业成就]]的因果促进效应（Cohen's $d = 0.509$），并结合混合效应 $Q$ 检验系统考察干预教学框架、理论模型、特异性对齐、干预时长及学段等调节[[Variable|变量]]。
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] 采用三水平多层随机效应模型综合 512 个效应量，探讨中小学生认识论认知发展。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] 系统介绍元分析四套操作流程、效应量计算方法与方法论局限。
 > - [[Argument_Hattie_2015_Paideia|Hattie (2015a)]] 探讨元分析作为探索[[Heterogeneity|异质性]]与调节变量的证据地图定位。

@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 # Epistemic Cognition
 （[[Epistemology|认识论]]认知）
@@ -183,6 +183,7 @@ updated: 2026-09-17
 > - **1990–1997 — 扩展阶段：多维模型** Schommer (1990) 以及 [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 打破了单维发展观，提出知识确定性、来源等多维独立的信念系统。
 > - **2001–2006 — 转向阶段：学科/领域驱动模型** Elby & Hammer (2001) 提出微观的[[Epistemic Resources|认识论资源]]，Muis et al. (2006) 确立了情境依赖性，摒弃了跨领域稳定特质的[[Hypothesis|假设]]。
 > - **2011–2018 — 教育研究应用：哲学驱动与整合框架** [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 与 [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] 提出了基于规范哲学与多层系统的整合框架；[[Argument_Greene_2018_JEP|Greene et al. (2018)]] 的[[Meta-analysis|元分析]]确立了该领域的实证基准。
+> - **2021 — 因果干预证据：教学框架与干预时长的元分析检验** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 针对 26 项实验与准实验研究开展首个干预元分析，证实认识论认知教学干预对学业成就有中等因果促进效应（$d = 0.509$）；揭示指导式探究与信源评估优于非指导式设计，并发现短周期高强度干预显著优于学期长周期干预。
 > - **2025 — 实践与论证转向：认识论实质与主体性** [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] 将 [[AIR Model of Epistemic Cognition|AIR]] 框架[[Operationalization|操作化]]为科学论证评价的中位规范模板，推动认识论认知从静态信念测量全面走向探究实践中的学科认识论实质与共同体[[Epistemic Agency|认识主体性]]建构。
 
 ---
@@ -211,6 +212,7 @@ updated: 2026-09-17
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Academic Achievement\|学业成就]] | 151 / 55,418 | r；随机效应 | 0.162 [0.135, 0.189] | I²=88.77%，Q=1335.22 | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（干预因果效应） | 28 / 4,373 | Cohen's d；随机效应 | 0.509 [0.326, 0.692] | I²=92.72%，Q=370.964***；离群值缩尾至 2 SD | — |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 学习成果（认知、动机、自我调节） | 512 / 6,312 | r；三层多层随机效应（REML） | 0.191 [0.119, 0.261] | I²=92.46%（L2: 35.82%, τ²=0.015; L3: 56.64%, τ²=0.024）, Q=6004.06*** | — |
 
 > [!ma-table]- 调节[[Variable|变量]]与亚组分析
@@ -221,6 +223,9 @@ updated: 2026-09-17
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 亚组分析 | 初中（r=.246）和混合阶段（r=.233）较大，大学（r=.131）较小 | — | Q_between = 15.111 (p<.05) | 预设 | — |
 > | 同上 | 成就类型 | 亚组分析 | 概念性知识（r=.190）和论证（r=.154）较高，[[Procedural Skill\|程序性知识]]（r=.077，不显著）较低 | — | Q_between = 1.766 (p>.05) | 预设 | — |
 > | 同上 | [[Epistemology\|认识论]][[Construct\|构念]] | 亚组分析 | 知识发展（r=.274）、一般认识论认知（r=.266）、多种证成（r=.225）较高 | — | Q_between = 57.955 (p<.001) | 预设 | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 亚组分析 | 指导式探究（d=.808）与信源评估（d=.800）最高，支架（d=.663）与建构主义（d=.479）居中，PBL（d=.340）与论证（d=.134）较低 | — | Q_between = 17.491 (p<.01) | 预设 | 显性指导与证据评估策略能防范劣构探究中的认知超载 |
+> | 同上 | 干预时长 | 亚组分析 | 中期（d=.925）、单次（d=.734）与短期（d=.615）显著优于全学期及以上（d=.234，不显著） | — | Q_between = 8.863 (p<.05) | 预设 | 短期干预教学浓度高且测验更贴合；长周期干预存在效应衰退与常规教学稀释 |
+> | 同上 | 教育阶段 | 亚组分析 | K-12 中小学生（d=.606）显著高于大学本科生（d=.309） | — | Q_between = 9.071 (p<.05) | 预设 | 中小学生处于认识论可塑关键期；大学生已有信念相对固化 |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 学段（School level） | 亚组分析与多元[[Meta-regression\|元回归]] | 小学（r=0.375）显著高于初中（r=0.142）与高中（r=0.157） | — | F(2, 485) = 5.683, p = 0.003 | 预设 | 高学段应试升学与课外补习强化了机械记诵，弱化了高级认识论认知的作用 |
 > | 同上 | 认识论认知构念（EC constructs） | 亚组分析与多元元回归 | 总体认识论认知（r=0.288）、学习速度（r=0.207）、知识确证（r=0.187）、学习能力与知识来源（r=0.174）较高，确定性（r=0.122）较低 | — | F(7, 498) = 3.193, p = 0.002 | 预设 | 学习本质（外围）与认识本质（核心）效应明显，[[Ontology\|本体论]]维度的知识本质与学习成果关联较弱 |
 > | 同上 | [[Domain Specificity\|领域特异性]]、[[Measurement Alignment\|测量对齐]]、量表极性、成果类型 | 多元元回归 | 均不显著（p > 0.05） | — | 领域特异性 p=0.126；对齐 p=0.277；量表极性 p=0.159；成果类型 p=0.828 | 预设 | 成果类型不显著反映东亚文化将学习视为自我修养与持续努力，高级认识论认知产生全域性促进 |
@@ -231,6 +236,7 @@ updated: 2026-09-17
 > | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
 > |---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | — | 漏斗图，Trim-and-fill，[[Fail-Safe N]] | 0.162 | 稳定 | Fail-safe N=9265，未发现发表偏倚 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 离群值缩尾至 2 SD | 漏斗图、剪补法（Trim-and-fill）、[[Fail-Safe N]] | 0.342 [0.155, 0.528] | 稳定 | 剪补法填补 6 项缺失研究后效应量仍达中等偏小（d=0.342）；Classic Fail-safe N=2,752，Orwin's Fail-safe N=115 |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 逐一排除敏感性分析（r 稳定在 0.177–0.203）；无绝对残差 \|z\| > 3.29 的离群值 | 三层 [[Egger Regression Test\|Egger 回归检验]]（斜率 = -1.007, p = 0.429；截距 = 0.257, p = 0.004）与漏斗图 | 0.191 | 稳定 | [[Funnel Plot\|漏斗图]]对称，未发现发表偏倚或小样本效应 |
 
 ---
@@ -241,5 +247,6 @@ updated: 2026-09-17
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 包含五个组件的扩展[[Epistemology|认识论]]认知框架推动了研究向细粒度和情境化方向发展。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism|整合多元主义]]”主张。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 提供了一项大规模的[[Meta-analysis|元分析]]，评估了认识论认知对[[Academic Achievement|学业成就]]的预测效应，澄清了[[Reliability|信度]]与对齐规则的核心地位。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 针对 26 项实验与准实验干预研究开展首个元分析，证实认识论认知教学干预对学业成就具有中等因果促进效应（$d = 0.509$），并确立指导式探究、信源评估及短周期聚焦干预的相对优势。
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用[[Three-Level Meta-Analysis|三层元分析]]模型综合韩国中小学生 512 个[[Effect Size|效应量]]，证实认识论认知与学习成果呈小到中等正相关（r = 0.191），并揭示学段与[[Construct|构念]]维度的关键[[Interaction Effect|调节效应]]。
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将 [[AIR Model of Epistemic Cognition|AIR]] 认识论认知模型[[Operationalization|操作化]]为科学论证评价体系，构建观察与证据整合的规范模板，实证揭示[[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠过程]]对论证实质的决定机制。

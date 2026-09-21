@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 125
+related_count: 126
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -150,10 +150,11 @@ related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Academic Achievement
@@ -398,6 +399,7 @@ updated: 2026-09-18
 - **2019 年：多级治理因果链条与远端学业解耦机理** [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] 结合欧陆[[Output-Oriented Governance|产出导向治理]]理论，揭示从宏观治理工具到微观学业成就需跨越五级多层因果链条；基层校长的认知把关过滤（七成以上校长未采纳循证发展取向）导致政策因果动力在第二级发生严重衰减，从多层治理与微观阻滞视角解释了大规模监控与督导改革对终端学生学业成就难以产生直接净效应的结构性规律。
 > - **2020 年：因果产出分层与终端学业解耦规律确立** [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] 确立了低阶认知、中阶行为与高阶终端学业的三阶因果检验阶梯，实证揭示改写分发、中介人与[[Action Research|行动研究]]虽能改变教师中阶行为，但终端学业成就多表现为零增益；提出唯有将因果规律工程化封装为操作工件，方能打破中介断裂并稳定保障学业成效。
 > - **2021 年：因果评估准则确立与学业测验[[Reliability|信度]]反思** [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] 总结英格兰近十年因果循证经验，系统规范了学业成就作为首要结果（primary outcomes）的测验准入标准。研究确立了独立标准化测验与[[National Pupil Database|国家学生数据库]]（NPD）行政微观档案的首选地位，警惕[[Developer-Made Measures|开发者自编测验]]的效应虚高，并揭示了商业化测验在因果评估中暴露的地板与[[Floor and Ceiling Effects|天花板效应]]信度危机。同时，指明了学业成就与[[Self-control|自我控制]]、社会情感素养协同评估的必要性。
+> - **2021 年：认识论因果干预与高阶成就敏感性确立** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 开展首个认识论干预因果元分析（$d = 0.509$），证实认识论认知干预对高阶论证表现（$d = 1.047$）与概念理解（$d = 0.557$）具有极强提分效能，但对程序套用（$d = 0.140$）与一般考试（$d = 0.127$）完全脱节，并在因果层面揭示了短周期高强度干预优于学期泛化干预的时长悖论。
 > - **2024 年：微观财政流水审计与学业成就[[Chain of Evidence|证据链]]断裂** [[Argument_Ginsberg_2024_EP|Ginsberg et al. (2024)]] 首创将大型城市学区 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act|Title I]] 微观财务支出细项与四大权威证据库进行逐笔穿透式匹配，实证检验 Dynarski & Kainz (2015) 资源投入与学业产出脱节假说；量化揭示法定单项门槛（>95% 合规）掩盖了 42%–51% 的资金投向未获全量证据支持的实践，从制度合规与资源分配维度揭示了为何数十年巨额补偿性财政难以稳定撬动弱势学生的学业成就。
 > - **2025 年：基线控制[[Meta-analysis|元分析]]解构学业成绩虚高机制** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 引入 [[What Works Clearinghouse|WWC]] 基线等效门槛（$d < 0.25$）检验生成式 AI 对大学生学业成绩的促进效应，通过自编测验分化（$1.022$ vs $0.614$）与剪补法校正（$0.633 \to 0.354$），实证揭示了工具代答与发表偏倚导致的学业提分泡沫。
 > - **生成式 AI 时代：终稿成果与真实心智脱钩及过程性转向** 随着以 ChatGPT 为代表的生成式 AI 普及，单纯基于文本终稿的学业成绩（如论文、[[Homework|作业]]）面临空前的效度危机。学者系统批判将高阶心智与粗放学业成就混为一谈的传统做法，推动学业成就概念从“静态文本产出”向“包含提示词设计、事实核查、反思日志与批判辩护的自适应专业特长（Adaptive Expertise）”过程性转向。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026)]]
@@ -437,6 +439,7 @@ updated: 2026-09-18
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：[[Critical Thinking\|批判性思维]]教学干预对常规学业成就的促进效应 | $k = 140$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.33$ $[0.25, 0.40]$ | $Q(139) = 887.62, p < .001, I^2 = 84.34\%$ | 严格排除前实验设计；证实思维干预对学科知识掌握产生显著正向协同（改善指数 12.93%） |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 结果变量：[[Epistemic Cognition\|认识论认知]]对学业成就的总体预测效应 | $k = 151$ / $N = 55,418$ | 皮尔逊 $r$ / 随机效应模型 | $r = 0.162$ $[0.135, 0.189]$ | $Q = 1335.22, p < .001, I^2 = 88.77\%$；95% PI 未报告 | 纳入横断与相关研究为主，测量方式与成就类型存在高异质性 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量：[[Epistemic Cognition\|认识论认知]]干预对学业成就的总体因果促进效应 | $k = 28$ / $N = 4,373$ | Cohen's $d$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $d = 0.509$ $[0.326, 0.692]$ | $Q = 370.964, p < .001, I^2 = 92.72\%$；离群值缩尾至 2 SD | 严格限定实验与准实验干预研究；涵盖 59 个效应量；剪补法校正后 $d = 0.342$ |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生学业成绩（Academic Achievement）的促学效应 | $k = 25$ / $N = —$ | Hedges' $g^+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g^+ = 0.633$ $[0.418, 0.849]$ | $Q(24) = 134.37, p < .001, I^2 = 82.14\%$；剪补法填补 9 项后调整为 $g^+_{\text{adj}} = 0.354$ | 严格限定前测基线等效（$d < 0.25$）；高校编程与医学等学科客观知识与测验表现；检出显著发表偏倚收敛 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
@@ -447,6 +450,8 @@ updated: 2026-09-18
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]] | 测量工具性质：标准化[[Achievement and Aptitude Tests\|成就测验]] vs 教师自编/课程期末考试 | 标准化 $k = 25$ / 课程自编 $k = 115$ | 标准化 $g+ = 0.13$ $[-0.03, 0.28]$；自编 $g+ = 0.37$ $[0.29, 0.46]$ | $Q_b(1) = 7.97, p = .005$ | 预设分析；组间差异高度显著，与课程紧密贴合的成就测量获益更明显 |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Dependent Variable\|结果变量]] | 成就类型亚组：概念性知识 vs 论证 vs 陈述性知识 vs [[Procedural Skill\|程序性知识]] | 概念 $k = 25$ / 论证 $k = 14$ / 陈述 $k = 101$ / 程序 $k = 23$ | 概念 $r = 0.190$ $[0.133, 0.245$]；论证 $r = 0.154$ $[0.088, 0.219]$；陈述 $r = 0.127$ $[0.093, 0.160]$；程序 $r = 0.077$ $[-0.007, 0.160]$ | $Q_b = 1.766, p > .05$ | 预设分析；组间未达显著，但高阶概念与论证点估计显著高于[[Rote Learning\|死记硬背]]类[[Procedural Knowledge\|程序知识]] |
 > | Greene et al.（测量方式亚组） | 结果[[Variable\|变量]] | 测量方式亚组：标准化测试 vs 专门测验 vs 参与者自报 GPA | 标准化 $k = 18$ / 专测 $k = 74$ / 自报 $k = 59$ | 标准化 $r = 0.214$ $[0.148, 0.278]$；专测 $r = 0.177$ $[0.136, 0.217]$；自报 $r = 0.083$ $[0.043, 0.122]$ | $Q_b = 16.48, p < .001$ | 预设分析；组间差异高度显著，脱离效标的自报成绩会严重低估理论关联 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量 | 成就类型亚组：论证 vs 概念性知识 vs 陈述性知识 vs 程序性知识 vs 一般知识 | 论证 $k = 5$ / 概念 $k = 19$ / 陈述 $k = 3$ / 程序 $k = 1$ / 一般 $k = 5$ | 论证 $d = 1.047$ $[0.481, 1.614]$；概念 $d = 0.557$ $[0.323, 0.791]$；陈述 $d = 0.494$ $[0.244, 0.743]$；程序 $d = 0.140$ $[-0.257, 0.537]$；一般 $d = 0.127$ $[-0.383, 0.637]$ | $Q_b(4) = 8.940, p > .05$（固定 $Q_b = 76.981, p < .001$） | 预设分析；高阶论证与概念理解效应量大幅领先于低阶机械记忆与套用 |
+> | Cartiff et al.（测验开发者亚组） | 结果变量 | 测验开发者亚组：研究者自编 vs 官方 GPA vs 标准化测验 vs 教师自编 | 自编 $k = 20$ / GPA $k = 1$ / 标准化 $k = 4$ / 教师 $k = 5$ | 自编 $d = 0.651$ $[0.456, 0.846]$；GPA $d = 0.470$ $[0.289, 0.651]$；标准化 $d = 0.304$ $[-0.208, 0.816]$；教师 $d = 0.012$ $[-0.449, 0.473]$ | $Q_b(3) = 7.271, p > .05$（固定 $Q_b = 96.466, p < .001$） | 预设分析；与干预内容紧密贴合的研究者自编测验效应显著，外部统考与常规教师测验未达显著 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -504,6 +509,7 @@ updated: 2026-09-18
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 确立了学业成就的六大方差源分解（教师占 30% 系统内最大可控核心），揭示 40 年宏观资源投入与 NAEP 成绩脱节悖论，并依托 [[Assessment Tools for Teaching and Learning|asTTle]] 系统推动基于[[Learning Progression|学业进阶]]与形成性反馈的评价模式。
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 通过大样本调查与组内平衡任务实验，揭示了中学[[Growth|生长]]期总体学业成就（EOAA）的[[Epistemology|认识论]]预测源，实证确立了[[Task Structure|任务结构]]（良构 vs 劣构）对学业表现认识论制约效应的调节作用，并提供了[[Gender Differences in Academic Achievement|学业成就性别差异]]与效标锚定（$r = .91$）的关键证据。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 通过大规模[[Meta-analysis|元分析]]系统考察了[[Epistemic Cognition|认识论认知]]对不同类型学业成就的预测力，确立了认知加工深度[[Matching|匹配法]]则（概念性/论证 vs 程序性）以及测试客观性[[Measurement Alignment|对齐法则]]。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 针对 26 项实验与准实验干预研究开展[[Meta-analysis|元分析]]，证实认识论认知教学干预对学业成就具有中等因果提升作用（Cohen's $d = 0.509$），并确立了成就类型的认知加工层级敏感性（论证 $d = 1.047$、概念 $d = 0.557$）与指导式探究的优势。
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 将学业成就作为潜类别[[Multinomial Logistic Regression|多项逻辑回归]]的协[[Variable|变量]]，证明特定学科成绩能够有效预测学生的[[Epistemic and Ontological Cognition|认识论与本体论认知]]阶段。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，批判了将[[Higher-Order Thinking Skills|高阶思维]]混同为泛化学业表现（Academic Achievement）的传统取向，揭示了表面文本流畅性掩盖深层[[Cognitive Offloading|认知卸载]]的危机，确立了从“终稿产出”向“反思过程与自适应专业特长”转型的评价规制。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]]在严格控制[[Pre-test and Post-test|前测]]基线等效（$d < 0.25$）前提下，评估生成式 AI 对大学生学业成绩的促进效应（$g^+ = 0.633$），并经[[Trim and Fill Method|剪补法]]校正[[Publication Bias|发表偏倚]]至稳健水平（$g^+_{\text{adj}} = 0.354$）。

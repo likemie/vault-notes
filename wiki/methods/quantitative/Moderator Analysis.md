@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 ## 定义
@@ -95,6 +95,7 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在三水平[[Meta-analysis|元分析]]中通过[[Meta-regression|元回归]]检验[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]测量类型（主观 vs 客观）、学段、年龄、地理区域与发表年份对两者相关的调节作用，并检验测量类型交互项（$Q_M(1) = 6.524, p = .011$）。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 在关于[[Epistemic Cognition|认识论认知]]干预与[[Academic Achievement|学业成就]]的[[Meta-analysis|元分析]]中，通过混合效应模型 $Q$ 检验系统检验了干预教学框架（$Q_b = 17.491$）、理论模型、特异性对齐（$Q_b = 7.986$）、成就测量类型（$Q_b = 8.940$）、干预时长（$Q_b = 8.863$）与学段（$Q_b = 9.071$）等多重调节[[Variable|变量]]。
 
 ---
 
