@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Epistemic Practices",
+      "path": "wiki/concepts/instruction-pedagogy/Epistemic Practices.md"
+    },
+    {
       "basename": "Argument_Kelly_Licona_2018_EpistemicPractices",
       "path": "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md"
+    },
+    {
+      "basename": "Scientific Method",
+      "path": "wiki/concepts/educational-philosophy/Scientific Method.md"
     },
     {
       "basename": "Problem-Based Learning",
@@ -191,14 +199,6 @@
     {
       "basename": "Epistemic Stances",
       "path": "wiki/concepts/educational-psychology/Epistemic Stances.md"
-    },
-    {
-      "basename": "Clark A. Chinn",
-      "path": "wiki/persons/us/Clark A. Chinn.md"
-    },
-    {
-      "basename": "Alvin Goldman",
-      "path": "wiki/persons/us/Alvin Goldman.md"
     }
   ],
   "omittedPaths": [],
