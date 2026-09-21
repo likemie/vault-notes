@@ -1,0 +1,1757 @@
+Title: Feng Shui: Educational Responsibilities and Opportunities
+Pages: 28-66
+
+--- PAGE 28 ---
+3
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_1
+Chapter 1
+Feng Shui: Educational Responsibilities 
+and Opportunities
+Michael R. Matthews
+1.1  Introduction
+Feng shui is a system of beliefs and practices originating some three to four thousand 
+years ago that is concerned with identifying, charting, and utilizing the supposed 
+all-encompassing flow of chi or qi, the putative universal life force, so that people’s 
+lives and their habitat can be brought into harmony with it, made more natural, and 
+so improved. It is a worldview and is a significant feature of Chinese and south-east 
+Asian cultures.1 But it has long migrated from Asia and has an increasing interna -
+tional commercial and personal presence. As a writer in the American Institute of 
+Architects newsletter commented: ‘Feng Shui is no longer just an ancient Chinese 
+secret. While slow to take root outside of its original heartland, it is now global and 
+transcends culture and politics’ (Knoop 2001). Feng shui is a growth industry, yet it 
+is a neglected topic in science education. It is also ignored in most philosophical 
+discussions of pseudoscience and the demarcation dispute; discussions where it 
+might be expected to be mentioned and used as a case study.
+This neglect is an enigma as feng shui is a worldview that makes claims about the 
+constitution of the world and the ways in which humans can most harmoniously live 
+in the world. Unlike many comparable worldviews, feng shui explicitly claims to be 
+scientific. The whole theory and practice of feng shui revolves around the identifica-
+tion and utilisation of universal energy, or chi, that circulates in a defined manner 
+through nature and through specific meridians in people’s bodies where purportedly 
+there are 600+ nodes that can be manipulated by acupuncture. 2 This supposed 
+1 Feng shui’s origins, history, philosophy and applications have been exhaustively written upon. 
+See, among others: Bruun ( 2008), Bruun and Kalland ( 1995), Henderson (2010), Huang (1968),  
+and Smith (1991, chap. 4), Yosida (1973).
+2 In the official Chinese Pinyin system of Romanization, the Chinese character is rendered as Qi. In 
+M.R. Matthews (*) 
+School of Education, University of New South Wales, Sydney, NSW, Australia
+e-mail: m.matthews@unsw.edu.au
+
+--- PAGE 29 ---
+4
+energy has remarkable properties that are mapped, harnessed and utilized by mas -
+ters and this knowledge and technique can be appropriately taught and learnt.
+Feng shui occupies just one sector on the wide spectrum of chi-based Eastern 
+beliefs, therapies, and practices. Over some two to three thousand years, under dif-
+ferent philosophical and cultural influences, many versions of fundamental chi-  
+based practice have evolved and cemented their social and cultural place. Along 
+with feng shui, others in the spectrum are: Qi Gong, Falun Gong, Tai Chi, and Jin 
+Shin Jyutsu. They all combine chi ( qi) and work, practice or cultivation ( gong). 
+Countless books elaborate on the metaphysics and ‘science’ of the fundamental 
+categories. Ole Bruun writes:
+The concept of qi, which may be translated into ‘breath’ or ‘breath of nature’, is fundamen-
+tal to Chinese natural philosophy. It is strongly indicative of an organic predisposition in 
+Chinese thinking in general, as opposed to the mechanistic orientation that became domi -
+nant in European natural philosophy after the Middle Ages. (Bruun 2008, p. 108)
+The Wikipedia entry for Qigong gives a reasonable overview:
+Qigong is traditionally viewed as a practice to cultivate and balance qi (chi), translated as 
+‘life-energy’ … qigong allows access to higher realms of awareness, awakens one’s ‘true 
+nature’, and helps develop human potential. Qigong is now practiced throughout China and 
+worldwide.
+As with most serious issues in science education, the issues addressed in this 
+chapter involve considerations in both philosophy of science and philosophy of edu-
+cation. They include:
+•  How feng shui constitutes a world view.
+•  Why feng shui is a pseudoscience.
+•  How examination of feng shui can contribute to knowledge of basic matters in 
+philosophy of science, and more generally to better understanding of the nature 
+of science.
+•  How the historical and philosophical examination of feng shui in classrooms can 
+contribute to the cultural health of society.
+1.2  The Cultural Contribution of Science Education
+Ideally education promotes the well-being of society. That is why so much effort 
+and expenditure is put into education at all levels from pre-school through primary 
+and secondary, to post-school, including university education. Social well-being 
+encompasses personal flourishing, good and equitable economic functioning and 
+the older Wade-Giles system of Romanization the character is rendered as Chi which is the 
+Taiwanese usage favoured by most Western scholars. Less frequently the character is written as 
+Ch’i. The Korean and Japanese preference for Chi is Ki, the word which appears in many of their 
+Chi-based martial arts and therapies.
+M.R. Matthews
+
+--- PAGE 30 ---
+5
+cultural health. All school subjects make their own contribution to this overall social 
+well-being. Apart from obvious areas of personal knowledge, clear thinking and 
+psychological health, science education, and the culture-wide science literacy it 
+promotes, can make contributions to the cultural health of societies by clarifying 
+and appraising worldviews (Matthews 2009a, b).
+In particular, a modicum of science literacy can be useful in identifying world -
+views that are inconsistent with science, and especially identifying those purporting 
+to be scientific (Fishman 2009). If clarity can be had about these distinctions, then 
+students are better able to be more conscious, informed, appreciative, but also criti-
+cal of their own and their culture’s worldviews and superstitions. Jon Miller, who 
+for decades has researched science literacy and public understanding of science, 
+well stated this point:
+In addition to understanding basic scientific constructs, it is important for citizens to recog-
+nize pseudoscientific constructs that seek to be recognized as scientific. Astrology is a good 
+example. Since 1988, national samples of US adults were asked whether they though that 
+astrology was “very scientific, sort of scientific, or not at all scientific.” Throughout this 
+period, approximately 60 percent of US adults recognized astrology as being not at all sci-
+entific. (Miller 2004, p. 278)
+Which leaves 40% of the population believing astrology is ‘very’ scientific or ‘sort 
+of’ scientific. Surveys in the UK have reported 63% of people believing in the para-
+normal and 67% in astrology (Preece and Baxter 2000). In one survey, 31% of 
+PGCE would-be science teachers believed in ghosts, and 25% believed in the effi -
+cacy of crystals to keep people healthy (Preece and Baxter 2000).
+Exercising Miller’s broader or deeper scientific literacy means students should 
+develop a scientific ‘habit of mind’; its development is a mark of effective science 
+education. In the words of the American Association of the Advancement of Science:
+Taken together, these [scientific] values, attitudes, and skills can be thought of as habits of 
+mind because they all relate directly to a person’s outlook on knowledge and learning and 
+ways of thinking and acting. (AAAS 1989, p. 133)
+1.3  Academic Neglect of Feng Shui
+Given the multiple-millions of feng shui believers in Asia and increasingly beyond 
+Asia, and feng shui’s immense social, commercial, and personal impact, it is note-
+worthy that there has been so little appraisal, critical or otherwise, of feng shui in 
+philosophical or educational literature. A whole raft of popular and highly regarded 
+books devoted to pseudoscientific belief systems simply fail to mention feng shui.3 
+Nor is it mentioned in the long review article ‘Science, Pseudo-science, and Science 
+Falsely So-called’ (Thurs and Numbers 2013), or the edited 23-chapter Philosophy 
+of Pseudoscience (Pigliucci and Boudry 2013. And, revealingly, feng shui does not 
+3 Feng shui is not mentioned in any of the following best-selling books on pseudoscience: Gardner 
+(1981), Grim (1990), Park (2000, 2008), Shermer (1997) or Sagan (1996).
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 31 ---
+6
+appear in the 35-chapter, 472-page Chinese Studies in the History and  Philosophy 
+of Science  and Technology (Dainian and Cohen 1996). If feng shui were to be 
+treated seriously and critically by historians and philosophers of science, this last 
+Chinese-based anthology would be a natural home for such examination, but there 
+is no such examination.
+Despite widespread, and seemingly growing, commitment to feng shui, and 
+despite it so clearly making claims about putative physical processes in the world, 
+that is, sharing the same ‘ground’ as modern science - many years of science educa-
+tion journals can be searched without finding any mention of feng shui. Nor does it 
+appear in the Subject Index of school science textbooks even ones promoted in the 
+Asian market.
+This neglect is noteworthy as Asian countries famously top the world in school 
+science achievement: Singapore, South Korea, Hong Kong, Japan, Shanghai and 
+other Chinese centres define the gold standard in the field. These countries are also 
+the gold medallists in feng shui belief. The concurrence of high science achievement 
+along with widespread feng shui belief does raise the question: To what extent does 
+science education promote a scientific habit of mind? Which invites a further ques-
+tion: Can belief in feng shui theory and practice be compatible with a scientific habit 
+of mind? Is something missing from ‘gold standard’ science education if it seem -
+ingly has no impact on the cultural breadth and depth of feng shui belief and prac -
+tice? Is development and exercise of a scientific habit of mind part of the meaning of 
+‘gold standard’ science education? Can a science education be gold standard if it 
+does not promote a scientific habit of mind? For the Enlightenment tradition, forma-
+tion of a scientific habit of mind is the core responsibility of science education.
+This disjunct between educational results and commitment to non- and anti-  
+scientific beliefs is not confined to Asia and feng shui. It has oft been remarked that 
+in the USA the same pairing of gullibility and education is found, with Sedona (AZ) 
+being perhaps the poster case. One of the hundreds of counter-culture business oper-
+ations functioning in the town, claims to:
+have discovered some of the most potent concentrated energy fields (V ortex Phenomena) in 
+the Sedona area to reconnect you with the energetic nurturance of Mother Earth’s NEMFs 
+(natural electro-magnetic fields)
+Appraisal of feng shui in classrooms gives the opportunity to explicate a number 
+of important issues in science education and in philosophy of science:
+•  What is the nature of science?
+•  Can we separate science from proto-science, pseudoscience and just bad 
+science?
+•  Is pseudoscience a legitimate and useful category?
+•  What was and is involved in transition from proto-science to science?
+•  How do we evaluate competing accounts of phenomena?
+•  What personal and social factors support the near-universal embrace of non-  
+scientific explanations of natural phenomena?
+•  How can the Asian cultural tradition be respected yet feng shui belief be criti -
+cally appraised in schools?
+M.R. Matthews
+
+--- PAGE 32 ---
+7
+1.4  Chi and Feng Shui
+Feng shui had its origin three-to-four thousand years ago in China as part of a family 
+of cosmological worldviews in which an all-pervasive life force, or energy, known 
+as chi (or qi) bound together nature and man.4 Before its articulation as a metaphysi-
+cal cosmology, it was merely the collective, passed-down commonsense of Chinese 
+and other cultures that needed to attend to environmental realities in order to sow, 
+harvest, herd, build houses and villages, and live safely with whatever comfort 
+could be garnered. Feng shui translates literally as ‘wind water’. It is not surprising 
+that this became the name for the all-encompassing cosmological system, as wind 
+and water were the primeval forces that formed landscapes and governed much of 
+life. This was the conceptual milieu from which Taoism emerged and provided the 
+metaphysical and proto-scientific component of systematic feng shui.
+Chi is fundamental to the worldview, metaphysics and ‘science’ that ground 
+ancient and contemporary fend shui practices. The name feng shui was introduced 
+to Chinese vocabulary and culture by Guo Pu (276–324 ad ) in his early fourth cen-
+tury AD Book of Burial (Guo 2004). Guo lived during the Jin dynasty (265–420 ad). 
+He was a scholar, diviner, omen interpreter and, as with all Confucian scholars, a 
+commentator on ancient texts. In Guo’s account, feng shui described the properties 
+and behavior of chi which was the basic all-pervasive constituent, or energy, of the 
+world. For Guo, as with all commentators, Chi is borne by wind and diverted or 
+absorbed by water. The qi lines were orientated north-south, a property utilized in 
+the early Chinese geomantic compasses, which then became the technological foun-
+dation for the lodestone-based magnetic compasses that were later used in the West 
+for navigation, and in Asia for both purposes.5
+Guo in his Book of Burial writes:
+The Classic says that if qi rides the wind it is scattered; if it is bounded by water it is held. 
+Ancient men gathered it, causing it not to be scattered and curtailed its area of circulation. 
+Hence this is referred to as fengshui. The method of fengshui is, first of all, to obtain water 
+and secondly to store from the wind. (Paton 2007, p. 427)
+Guo also elaborates on the mechanism of chi saying:
+Qi circulates through the earth according to the geodetic force of the earth. It gathers where 
+the geodetic force stops. The qi follows the trunk of a hill and branches along its ridges. 
+(Paton 2007, p. 427)
+A proper, historically-informed understanding of chi is clearly a major challenge, 
+yet Stephen Field, a translator of Guo’s classic says that ‘Qi is the sine qua non for 
+any discussion of feng shui’ (Guo 2001). So, this challenge cannot be avoided.
+4 Many works discuss the notion of chi and its place in Chinese philosophy and proto-science. See 
+Chan (1963, 1967), Fung (1947), Yoshida (1973) and Zhang (2002).
+5 On the original Chinese geomantic interpretation and use of the compass see Aczel (2001, chap. 7) 
+and Skinner (2008).
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 33 ---
+8
+An authoritative modern text on Chinese Philosophy written by Zhang Danian, 
+from Beijing University Philosophy Department, devotes a chapter to Chi. The book 
+provides an informative listing of scores of representative and influential Chinese 
+chi beliefs from ancient times to the present. Zhang summarizes the tradition of chi 
+beliefs as follows:
+1. Qi is the original material out of which all things are formed by coagulation.
+2. Qi has breadth and depth and can be spoken of.
+3. Qi is contrasted with the mind. It exists independent of the mind.
+4. Qi can move. Indeed, it is normally in a state of flux and transformation. (Zhang 2002, 
+p. 63)
+And he adds:
+Hence, what Chinese philosophy says about qi is basically the same as what Western phi -
+losophy says about matter. The Chinese theory, however, is distinctive on two counts:
+ 1. Qi is not impenetrable; rather, it penetrates all things;
+ 2. Qi is intrinsically in a state of motion and is normally in flux. (Zhang 2002, p. 63)
+Edmund Ryden, the translator of Zhang’s book revealingly says:
+Perhaps the best translation of the Chinese word qi is provided by Einstein’s equation, 
+e=mc2.. According to this equation, matter and energy are convertible. In places the material 
+element may be to the fore, in others, what we term energy. Qi embraces both. … Qi is both 
+what really exists and what has the ability to become… Qi is the life principle but it is also 
+the stuff of inanimate objects. … As a philosophical category … [this] meaning is then 
+expanded to encompass all phenomena. (Zhang 2002, p. 45)
+Ryden well captures the explicit identification of chi-theorising with basic theory of 
+modern science. Chi beliefs are not meant to be removed from, outside of, or alien 
+to science. Chi believers, or at least theoreticians, avowedly embrace and accom -
+modate the most sophisticated foundational statement of modern science. But unlike 
+orthodox science, there is no history of the conceptual, much less experimental, 
+amplification and refinement of the basic idea.
+For instance, Zhang’s description of ‘coagulation’ of elements might parallel a 
+kitchen-chefs’s use of the term or maybe an artist’s when mixing paint, but it has no 
+connection or comparison with the long history in chemistry of investigating what 
+elements combine with what others to form compounds, the conditions under which 
+the combinations can occur, and the detailed theory of valency which governs such 
+combinations.
+Identifying with science, and seeking the public esteem and legitimation that it 
+brings, is a two-edged sword for feng shui: the more explicitly its advocates tout its 
+scientificity, the more pressing is the need for scientific-philosophical appraisal of 
+the worldview and associated geomantic practices. The enigma is that this has not 
+happened in either education or philosophy communities.
+The contrast with the long history of Atomism, or even the more recent history 
+of Relativity Theory, is dramatic. In the latter fields, there is detailed, precise testing 
+and elaboration of theory in the light of exact experimental testing, all done in a 
+M.R. Matthews
+
+--- PAGE 34 ---
+9
+public, published tradition. Once feng shui claims to be on the same field as science, 
+then this contrast is invited and the deficiency of the former is obvious. An 
+ educational and philosophical challenge is to make and appraise the contrast, draw-
+ing out implications for the nature of healthy science.
+1.5  Feng Shui Practice
+Feng shui was never just an idle worldview; from the beginning, it was connected to 
+practice, to decision making about where to live, the configuration of domestic and 
+government buildings, lifestyles, and how to identify auspicious times and foretell 
+futures. Feng shui was linked to geomancy; it was an Eastern version of astrology 
+that was so routine across the entire ancient and medieval worlds, and that still lin-
+gers in the modern world, both East and West. The practice side of Feng shui began 
+as a way of building tombs to harness chi currents for the better after-life of ances-
+tors and later became a method of orienting palaces, homes, commercial premises 
+so that they too might achieve harmony with their natural environment (Chen and 
+Wu 2009; Han 2001).
+Three thousand years later, for millions of people, feng shui dictates major com-
+mercial and domestic construction decisions as well as the proper internal arrange-
+ment of offices, homes, kitchens, gardens, furniture and decorations (Mak and So 
+2015). Millions more rely on feng shui astrological guides to make business deci -
+sions and for the timing for significant personal and family events (Lim 2003; Lip 
+2008), and to guide their decisions in romantic and personal life (Hsu 2003; Leung 
+2010). Feng shui, for example, has an impact in the Asian hospitality industry where 
+decisions about the location, layout, furnishings, decorations and marketing of 
+hotels, resorts and restaurants are all dependent on advice about good feng shui; and 
+where an institution’s bad feng shui is known, poor patronage and economic loss 
+follows.
+The universal distribution and flow of chi not only dictates the best-placement of 
+structures to harmonize them with local energy flows, but chi also internalizes and 
+determines the health and well-being of people. Chi is at the heart of all Traditional 
+Chinese Medicine; it purportedly flows along numerous meridians in the body and 
+any interruption to this orderly flow results in pain, illness and disease. Ken Tobin, 
+who before ‘moving on’ (Tobin 2000), was a world-leader of the constructivist 
+movement in science education has embraced chi-related medical practice, saying:
+The underlying theory relates to Qi, universal energy, and its flows through the body. In the 
+case of humans there are 26 pairs of safety energy locks (SELs) through which Qi flows, 
+providing the life source to the body … When a body is disharmonized, energy can be 
+blocked at or close to the SELs, thereby disrupting one or more of the flows needed to dis-
+tribute the life force to different parts of the body. (Tobin 2015)
+Tobin’s claims are typical of feng shui proponents who connect the practice to 
+supposed fundamental cosmic and terrestrial ‘energies’ that are unknown, unde -
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 35 ---
+10
+tected and unmeasured by orthodox science. For instance, the International Feng 
+Shui Society (UK) states that:
+Chi, or qi, is the oriental word for the vital intangible natural energy that emanates from 
+everything in our universe, a combination of both real and abstract forces: energy from 
+the earth’s magnetic field, sunlight, cosmic influences, colour vibrations, the nature of our 
+thoughts and emotions, the form of objects, the quality of the air around us. Depending 
+on whether it flows harmoniously or not, chi influences how a place feels and how we feel 
+in it.6
+1.6  Commercial Feng Shui
+Feng shui belief and practice is wide-spread in China, in Chinese-influenced Asia, 
+and over the past 50 years, increasingly in the West. A study of feng shui in Korea 
+commenced with the statement: ‘The importance of geomancy in understanding the 
+East Asian cultural landscape and cultural ecology is difficult to overemphasize’ 
+(Yoon 2006, p.xiii). Hong Kong is the pulsating centre of the feng shui industry. 
+One scholar writes that: ‘Nowhere in the world is feng shui so intensely integrated 
+into every aspect of social, religious and commercial life as in Hong Kong’ (Bruun 
+2008, p. 136). One website announces that:
+Today Hong Kong is the unofficial heart of feng shui practice. In a city where more than 
+10,000 masters (called geomancers) now ply their craft, you can feel the power of feng shui 
+everywhere.7
+Nearly all Hong Kong businesses, big and small, and government departments, con-
+sult feng shui experts to determine auspicious dates for deals and programme 
+launches; to create interiors and environments that will bring good fortune for a 
+business; to guide against creating bad feng shui for others that might result in 
+costly legal battles and compensation claims (Emmons 1992). Feng shui advice is 
+expensive. The standard ‘tycoon’ rate is £2–3 per square inch, repeat: per square 
+inch, not square feet or yard or acre, of building (Moore 2011).
+For impact, reach and cost of feng shui, Hong Kong is closely challenged by 
+Taiwan. In 2004 the Taipei Times (17 October 2004) estimated that there were 
+30,000 feng shui practitioners in Taiwan. And they are kept busy. After a serious 
+train derailment in Taipei, the Transport Minister sought the advice of a feng shui 
+master who divined that the main station had bad feng shui, including a faulty bagua 
+symbol on its premises, and so the ministry realigned at considerable expense the 
+station’s south entrance (Bruun 2008, p. 135). The opposition transport spokesman 
+counter-claimed that the accident had nothing to do with feng shui but rather with 
+inadequate technical systems and human error due to poor management practices. 
+6 http://www.fengshuisociety.org.uk/
+7 http://www.hotelclub.com/blog/the-power-of-feng-shui-in-hong-kong/#full-info
+M.R. Matthews
+
+--- PAGE 36 ---
+11
+This routine dispute invites, indeed demands, the recourse to scientific appraisal of 
+the claims: on what other basis could courts make a determination?
+It is increasingly common for architectural design and building construction in 
+San Francisco, Los Angeles, Vancouver, Toronto, London, Sydney, Auckland 
+and most major cities around the world to proceed in accordance with feng shui 
+principles; and even in accordance with neo- or quasi-feng shui principles. Serious 
+Western architectural and construction books (Alexander 1987; Gallagher 1993; 
+Rossbach 1983) and scholarly articles (Marafa 2003; Chen and Wu 2009; Hwangbo 
+1999, 2002; Mak and Ng 2005) are devoted to feng shui informed location, design, 
+placement and construction  (Perry-Hobson 1994; Rossbach 1987). Indicative of 
+this building- industry embrace of feng shui is the title of a recent book: Scientific 
+Feng Shui for the Built Environment: Theories and Applications (Mak and So 2015). 
+Feng shui is a curriculum subject in various Chinese and US university architecture 
+programmes.
+In Southern California, having positive feng shui lines, namely soft or curvy 
+ones, is a featured consideration in the marketing of certain cars and there is even a 
+radio station that gives regular updates on the state of regional and local chi energy 
+lines. It is reported that in Los Angeles feng shui consultants, some earning as much 
+as $750 an hour, were recruited from Hong Kong and Taiwan to redesign entire 
+buildings and, where necessary, install structures that could ward off negative 
+energy surreptitiously infiltrating a room or edifice (Queenan 2002).
+The worldwide web has dramatically expanded feng shui influence and business: 
+even in the most isolated places on earth a feng shui consultation is only one click 
+and one credit-card charge away. There are thousands and thousands of feng shui 
+sites on the web that list countless thousands of happy corporate and individual 
+clients. One UK site alone mentions among its satisfied customers: Coca Cola, 
+Orange, British Airways, Hiscox Insurance, Hilton Hotels, Marriott Hotels, and 
+BRE (Building Research Establishment), University of Westminster School of 
+Architecture, the National Health Service, and many more. There are feng shui sites 
+for consultants, businesses, retail outlets, teachers, societies, associations, colleges, 
+practitioners, conferences, seminars, publications, diplomas and much else.
+All the foregoing examples of contemporary feng shui practice might be seen as 
+the investigation of external or environmental feng shui, and the making of appro -
+priate personal and construction decisions in the light of local feng shui. But once 
+you commit to the existence of an all-pervasive life force, energy, or chi that binds 
+together nature and man and governs their harmonization, then the next step is to 
+admit its existence and powers within bodies; and to then move to control, redirect 
+and manipulate its flow to enhance good effects (wellness) and minimize bad effects 
+(illness). If chi is everywhere and travels everywhere, why should it stop at a per -
+son’s skin? This is precisely the basis for numerous Asian acupuncture treatments 
+and therapies. Chi is also the ‘physical’ foundation for the family of Pr āņa-based, 
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 37 ---
+12
+Hindu yoga exercises that seek to marshal and utilize, seemingly, the same all-  
+pervasive life-force.
+It was recognized some three-to-four thousand years ago in China when feng 
+shui was first formulated that chi was both outside and inside people. This is noted 
+by Fritjof Capra in his best-selling The Tao of Physics:
+Traditional Chinese medicine, too, is based on the balance of yin and yang in the human 
+body, and any illness is seen as a disruption of this balance. The body is divided into yin and 
+yang parts. Globally speaking, the inside of the body is yang, the body surface is yin; the 
+back is yang, the front is yin; inside the body there are yin and yang organs. The balance 
+between all these parts is maintained by a continuous flow of ch’I, or vital energy, along a 
+system of ‘meridians’ which contain the acupuncture points. … (Capra 1984, p. 98)
+1.7  The Origin and Elaboration of Feng Shui
+The ancient cosmological fount of feng shui was codified during the Bronze Age 
+(10th – 4th centuries bce) in the Confucian classic Book of Changes or Yi jing (Rutt 
+1996). One historian said of this work that it is:
+the mother of Chinese divination, having fostered both its diversity and persistence; … feng 
+shui is anchored in its perception of reality … it stands out as the single most important 
+book in Chinese civilization … comparable to the sacred scriptures of the other great civi -
+lizations (Bruun 2008, pp. 100–101).
+Since the beginning, feng shui has been intimately associated with geomancy, one 
+of numerous systematic forms of divination that have a long history in Asia (March 
+1968; Smith 1991), but also elsewhere. Many people would like to know what the 
+future holds for them. For thousands of years this has been the lure of astrology in 
+all countries. The name ‘geomancy’ has its roots in the Ancient Greek geōmanteía 
+which translates literally to ‘foresight by earth’, or ‘earth divining’. The practice of 
+divining good and bad fortune by the spread of blown sand had older origins in the 
+Arab world (Skinner 1980, p. 14). This tradition created the geomantic compass, or 
+luopan compass, consisting of a circular, flat, inscribed wooden or brass plate, usu-
+ally with 40 concentric rings and 24 direction lines, and a centered lodestone needle 
+(Skinner 2008). Most science museums have compass exhibits from ancient times, 
+and modern ones can be bought across the counter or online in most ‘esoteric’ 
+stores. Lillian Too explains:
+In feng shui, the attributes of the elements influence each of the eight sectors of the com -
+pass. The four cardinal and four secondary directions each have a corresponding element. 
+So the easiest method of creating good feng shui is simply to energize the element of each 
+compass sector. Understanding element attributes is thus essential. (Too 1998, p. 42)
+M.R. Matthews
+
+--- PAGE 38 ---
+13
+1.8  Two Historical Encounters Between Feng Shui 
+and the Western Scientific Worldview
+It is informative to examine two moments in the history of contact between feng 
+shui and Western science and philosophy. These historical episodes are illustrative 
+of the general arguments advanced in this chapter and can also serve as suitable 
+‘hooks’ for classroom discussion. In particular, there are lessons to be learnt from 
+the celebrated engagements of two Christian missionaries with feng shui. First, the 
+Jesuit priest Matteo Ricci in the late- sixteenth century; second, the Lutheran pastor 
+Ernst Eitel in the mid-nineteenth century. Both episodes have historical, philosophi-
+cal, political, cultural, theological and scientific dimensions. The episodes can, to 
+whatever degree is appropriate in the classroom and curriculum circumstance, be 
+elaborated with science classes. They also provide ideal cases for cross-disciplinary 
+cooperation among teachers.
+1.8.1  Matteo Ricci
+Matteo Ricci (1552–1610) was one of the first Europeans to give an informed and 
+detailed appraisal of feng shui belief and practice in China, and certainly one of the 
+first whose account gained wide readership. 8 He was among the earliest, and fore -
+most, of the Jesuit missionaries who were sent to Ming-dynasty China in the late 
+sixteenth century following the thwarted efforts of Francis Xavier.9 As well as philo-
+sophical and religious training at Jesuit universities in Rome, Ricci had serious 
+mathematical, scientific and technical competence. At the Collegio Romano  he 
+studied mathematics and astronomy with the famed German Jesuit, Christopher 
+Clavius, who was known as ‘the Euclid of the sixteenth century’. Clavius was direc-
+tor of the Gregorian calendar reforms; and although an opponent of helio-centrism, 
+he was a confidant of Galileo and they exchanged mathematical and astronomical 
+papers. The Jesuits he trained were the vehicle for bringing Galileo’s arguments, 
+telescope and more generally the best European astronomy to China.
+With 14 fellow Jesuit missionaries,  Ricci  left Lisbon in 1578 sailing to Goa 
+where he spent 3 years completing theology studies; then sailed on to and arrived in 
+Portuguese Macao in 1582. There he immersed himself in the study of Chinese 
+language, literature, customs and history. His quick mastery of so much completely 
+novel material was abetted by his astonishing, and much commented-upon memory. 
+After one reading, he could repeat random lists of hundreds of characters. He had 
+8 For studies of Ricci’s life and influence see: Cronin (1955), d’Elia (1960), Hsia ( 2012), Spence 
+(1984), Rule (1986), Tang (2015b) and Wright (2010).
+9 On the early history of the sixteenth-century Jesuit missions, and their precursors, see Rule 
+(1986).
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 39 ---
+14
+written an essay on memory during his studies in Rome.10 Ricci’s life in China is a 
+justly celebrated ‘first contact’ between Western philosophy and theology and 
+Eastern religion, metaphysics and culture, and consequently something from which 
+a better understanding of both traditions can be obtained. In 1583 Ricci began his 
+27-year sojourn in China. It was a country for whose culture and achievements 
+he had the greatest admiration, incorporating many customs within the practice of 
+the embryonic Chinese Catholicism that he and fellow Jesuits were establishing. 
+In 1615 Ricci’s travel journal, On the Christian Mission among the Chinese , was 
+published posthumously in Rome in Latin with the oversight of his fellow Jesuit 
+Nicolas Trigault.
+Ricci’s mathematical, astronomical and chronological knowledge was taken up 
+in a purely utilitarian way by the Chinese court and mandarins; it was seen to 
+improve astronomy, astrology and calendar calculations upon which so much of the 
+functioning of the Emperor’s state apparatus depended. Ricci’s ‘natural philoso -
+phy’, or his Western science, had minimal impact on Chinese science and no impact 
+on Chinese culture.11 Those who accepted the science, held an early version of the 
+later nineteenth-century Chinese  traditionalist moto: ‘Chinese learning for the fun -
+damental principles, Western learning for practical application’.
+Chapter Nine of Book One of the Journal is titled ‘Concerning Certain Rites, 
+Superstitious and Otherwise’. Ricci’s opening admonition is: ‘I would request of the 
+reader that he recognize in the two following chapters a reason for sympathizing 
+with this people and for praying God for their salvation’ (Ricci 1953, p. 82). He then 
+proceeds by noting:
+No superstition is so common to the entire kingdom as that which pertains to the observance 
+of certain days and hours as being good or bad, lucky or unlucky, in which to act or to 
+refrain from acting, because the result of everything they do is supposed to depend upon a 
+measurement of time. This imposture has assumed such a semblance of truth among them 
+that two calendars are edited every year, written by the astrologers of the crown and pub -
+lished by public authority. These almanacs are sold in such great quantities that every house 
+has a supply of them …and in them one finds directions as to what should be done and what 
+should be left undone for each particular day, and what precise time each and everything 
+should be done. In this manner the entire year is carefully mapped out in exact detail. (Ricci 
+1953, pp. 82–83)
+Ricci elaborated on divination:
+These people worry a great deal about judging their whole lives and fortunes as dependent 
+upon the exact moment of birth, and so everyone makes an inquiry as to that precise moment 
+and takes an accurate note of it. Masters of this kind of fortune-telling are numerous every-
+where …(Ricci 1953, p. 83)
+And he observes, not unexpectedly, that:
+Fraud is so common and new methods of deceiving are of such daily occurrence that a 
+simple and credulous people are easily led into error. These soothsayers frequently have 
+10 On Ricci’s memory feats, see Spence (1984).
+11 There was strong opposition to Jesuit science by Confucian traditionalists. This is elaborated in 
+Wong (1963).
+M.R. Matthews
+
+--- PAGE 40 ---
+15
+confederates in a gathering who declare to a crowd that everything that was told to them by 
+the performer came to pass just as he had predicted it. Sometimes, too, when strangers are 
+brought in as confederates and relate marvels of the past, the followers of the local imposter 
+respond with loud applause. The result is that many deceived by this trickery, have their 
+own fortunes told and accept what is predicted for them as the certain truth. (Ricci 1953, 
+pp. 83–84)
+Geomancy was thoroughly embedded in Ming dynasty (1368–1644) life, the 
+practice being codified in the 1445 Daoist Canon that contained entire sections of 
+geomantic charts for divination purpose. Few civil and military decisions were 
+made without geomantic input; by law, no official building construction could 
+ commence without geomantic certification  (Skinner 2015). Ricci regarded all of 
+this as a superstitio absurdissima observing that:
+What could be more absurd than their imagining that the safety of a family, honors, and 
+their entire existence must depend upon such trifles as a door being opened from one side 
+or another, as rain falling into a courtyard from the right or from the left, a window opened 
+here or there, or one roof being higher than another? (Ricci 1953)
+1.8.2  Ernst Johann Eitel
+Two hundred and fifty years after Matteo Ricci’s landmark account of the early 
+engagement of European natural philosophy and religion with Chinese culture, 
+another missionary, Sinologist and linguist covered the same ground. This was 
+Ernst Johann Eitel (1838–1908), a German Lutheran missionary with a doctoral 
+degree from the University of Tübingen, who lived for many years in Hong Kong, 
+who travelled within China, who oversaw educational enterprises in Hong Kong, 
+who published a history of the colony (Eitel 1983), and who published translation 
+dictionaries and studies of Buddhism (Eitel 1873). Importantly he published a sub-
+stantial appraisal of the history, metaphysics and functioning of feng shui - Feng 
+Shui: The Rudiments of Natural Science in China  (Eitel 1987). The book provides 
+opportunity for elaboration of wider issues concerning feng shui, science and soci-
+ety, science and experiment, science in China, and science and worldviews. These 
+are all issues that can easily and naturally be discussed in science classes.
+1.8.2.1  Feng Shui as a ‘Black Art’
+Eitel notes how the European construction in the Treaty Ports that followed the mid- 
+nineteenth century Opium Wars, was constantly embroiled in feng shui disputes 
+about the work’s expected positive and negative impacts on the flow and distribution 
+of chi in the port area. He observes how much of the foreigners’ building work in 
+Hong Kong inadvertently turned out to be in ‘good’ feng shui sites (access to water, 
+protection from high wind, away from malaria swamps, and so on) which led many 
+Chinese to impute advanced feng shui knowledge to foreigners.
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 41 ---
+16
+This is the relatively harmless, near trivial face of feng shui – do what common 
+sense and accumulated experience suggests and then call it ‘feng shui guided’. For 
+instance, all feng shui site-selection manuals point out that invisible chi is blown 
+away by wind and is accumulated and borne by water (Han 2001). Thus, attention 
+to wind and water (the original meaning of feng shui) as indicators of chi is of 
+paramount importance and consequently ideal feng shui sites should not be wind-
+swept and should be located near water.
+No one needs cosmology and metaphysics to come to this conclusion. Water is 
+beneficial in all ways: for drinking, plant growth, temperature control, transport, and 
+so on. Good ecological and common-sense reasons suggest proximity to water and 
+avoidance of wind tunnels make for good living places. People claiming this 
+conclusion as warrant for feng shui belief are committing the elementary logical 
+mistake of affirming the consequent:
+Feng shui →  site A will be healthy and beneficial.
+Site A is healthy and beneficial.
+∴ Feng shui is proved/warranted/confirmed/established/vindicated.
+But, of course, any number of other ‘theories’, including scientifically informed 
+ones, can equally suggest site A. Further, if site A turns out not to be healthy and 
+beneficial, then other theories, especially scientifically-based ones, can suggest 
+local reasons why this might be so and consequently can give guidance on rectifica-
+tion or remediation of the local problem. It is not clear how feng shui theory can, on 
+its own, do this. The theory is just an idle distraction.
+Feng shui cannot make considered adjustments in the way that scientifically 
+informed predictors of site A can make adjustments in the event that A turns out not 
+to be favourable: ecological theories (acid rain), climatological (rising sea levels), 
+geological (seismic activity) or economic (property values) - can explain the diver -
+gence from expectation. Feng shui consultants claim that with water, sun and chi 
+plants grow. A proper science education should lead students to inquire whether 
+plants will grow with just two of these - water and sun. A classroom challenge will 
+be to see how chi can be removed from the experimental set-up, as it is supposedly 
+all pervasive. But if it cannot be removed, then equally gravitation or space could be 
+identified as necessary for plant growth. It becomes apparent that chi is just an idle 
+passenger; it is along for the experimental ride.
+Quite predictably, two researchers report how feng shui-informed and feng shui- 
+uninformed architects come to the same conclusion about the suitability of building 
+sites, and even floor plans:
+An empirical survey was conducted with architects in Sydney and Hong Kong, and the 
+results show that the selection of surrounding environment for a building and interior layout 
+as proposed by the [non-feng shui] architects generally concurs with the ideal Feng Shui 
+model established more than two thousand years ago. (Mak and Ng 2005, p. 427)
+When feng shui advisors go on to advise on the purchase and placement of crystals, 
+mirrors, wind chimes, three-legged gold toads with coins in their mouths, the five 
+elements in each room, and all the other paraphernalia that supposedly brings luck 
+M.R. Matthews
+
+--- PAGE 42 ---
+17
+and good fortune – then this suggests that the whole operation is just a piece of 
+creative marketing; that the feng shui operation is a ‘dark art’.
+Eitel recognised that feng shui site selection and medical guidance goes beyond 
+harmless and benign commonsensical practices:
+Well, if Feng-shui were no more than what our common sense and natural instincts teach 
+us, Chinese Feng-shui would be no such puzzle to us. But the fact is, the Chinese have made 
+Feng-shui a black art, and those that are proficient in this art and derive their livelihood 
+from it, find it to their advantage to make the same mystery of it, with which European 
+alchemists and astrologers used to surround their vagaries. (Eitel 1987, p. 1)
+Eitel here articulates a standard criticism: what is good in feng shui practice is 
+merely dressed-up commonsense – construct dwellings and plant crops in proximity 
+to water and not in a wind tunnel or on a mountain top; have living areas orientated 
+to the sun, and sleeping areas away from the sun; avoid having front and rear doors 
+opening in an uninterrupted line; do not have toilets opening into living areas; etc. 
+An advocate for feng shui recently wrote in an American Institute of Architects 
+publication:
+Feng Shui is all about what nurtures a building’s occupants and makes them feel comfort-
+able in a space. As architects and designers, we instinctively do a lot of these things. Feng 
+Shui provides the framework and the philosophy to support our instincts. (Knoop 2001)
+The argument of this chapter is that all the associated metaphysics, cosmology 
+and ultimately worldview is just hand-waving. As the saying is: ‘With the cosmol-
+ogy and two dollars you can ride the subway’. But it is not idle or harmless hand 
+waving, as it opens the cultural door to mystification and worse still, to manipula -
+tion by charlatans (Huston 1995). If people get accustomed to believing the fantas-
+tic, evidence-free, or evidence-neutral, chi narrative, then what other evidence-free 
+or neutral beliefs might they be prepared to accept? European history if full of epi-
+sodes of mass hysteria sustained by such gullibility.
+1.8.2.2  Chinese Proto-Science and Avoidance of Experiment
+Eitel sees feng shui as Chinese natural science, but for him it was a science that did 
+not ‘grow up’ (Eitel 1987, p. 3). Eitel marks down Confucius and his influential 
+early disciples for not engaging with and correcting the proto feng-shui systems of 
+his age. Many historians and commentators on Confucianism make the same point: 
+Confucius was not engaged by or interested in how the world worked; he had little 
+if any concern with ‘natural philosophy’ (Chan 1957).
+Joseph Needham repeatedly makes this observation (Needham 1963), and fol -
+lows Eitel in saying that it was the rise of neo-Confucian thought in the late Sung 
+Dynasty (ce 960–1280) that gave a ‘modern’ scientific direction to Chinese think-
+ing about nature and led to studies in pharmacy, geography, magnetism, mathemat-
+ics; the direction and groundwork was there, but not the maturation (Needham and 
+Ling 1956, pp. 293–296). He writes:
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 43 ---
+18
+The Neo Confucians arrived at what was essentially an organic view of the universe. 
+Composed of matter-energy ( ch’i) and ordered by the universal principle of organization 
+(Li), it was a universe which, though neither created nor governed by any personal deity, 
+was entirely real, and possessed the property of manifesting the highest human values (love, 
+righteousness, sacrifice, etc.) when beings of an integrative level sufficiently high to allow 
+of their appearance, had come into existence. (Needham and Ling 1956, p. 412)
+Fifty years after Eitel, Joseph Needham, and many others, debated why Chinese 
+proto-science did not mature in the way that European seventeenth-century did. The 
+became known as ‘The Needham Question’. Needham, with his explicit Marxist 
+convictions, looked to ‘external’ social factors for an answer (Needham 1963). 
+These factors have been long identified: a stratified society where there was a clear 
+separation of manual work and technological experience, from intellectual or 
+ philosophical speculation; the primacy given in the Confucian tradition to ‘inner’ 
+knowledge and personal well-being; the rigid court control of higher knowledge and 
+its dissemination; an in-grained preference for utility rather than understanding, etc.
+Eitel had better instincts on this central question, later to be called ‘The Needham 
+Question’, of: Why was there no scientific revolution in China?12 Eitel’s answer was 
+the lack of an experimental tradition in China. Not ‘kitchen’ or pragmatic experi -
+ments dealing with how to improve production, transport, weapons, cuisine, or man-
+ufacturing, but mathematically formulated and controlled scientific experiments with 
+explicit methodological principles. Towards the end of his book, he writes:
+There is one great defect in Feng-shui, which our Western physicists have happily long ago 
+discarded. This is the neglect of an experimental but at the same time critical survey of 
+nature in all its details. (Eitel 1987, p. 69)
+Eitel here echoes Kant’s famous pronouncement in his Critique about the New 
+Science only beginning when Galileo rolled balls down inclined planes and forced 
+Nature to answer to questions that the natural philosopher asked: it was then that ‘a 
+light broke upon all students of nature’ (Kant 1933, p. 20). Eitel might well have 
+learnt from Kant’s commentary during his own doctoral studies at the University of 
+Tübingen. His observation was not far off the mark. Nathan Sivin, the Sinologist 
+and historian of Chinese science has written:
+Still we do not find anything corresponding to Galileo’s conviction that physical realities 
+must be isolated from the flux of sensation by measurement (as in experiments) so that 
+physical truth can be made to manifest itself in straightforward quantitative relations. (Sivin 
+1984, p. 546)
+Alexandre Koyré’s account of the distinctiveness of the Scientific Revolution is 
+relevant to Eitel’s answer to the ‘Needham Question’. As Koyré puts it:
+… observation and experience – in the meaning of brute, common-sense observation and 
+experience – had a very small part in the edification of modern science; one could even say 
+that they constituted the chief obstacles that it encountered on its way. … the empiricism of 
+modern science is not experiential; it is experimental. (Koyré 1968, p. 90)
+12 There is a vast literature on the Needham Question, but see at least Jin et al. (1996), Sivin ( 1984), 
+Lin (1995).
+M.R. Matthews
+
+--- PAGE 44 ---
+19
+Appraising Eitel’s important claim about the centrality of experiment is an occa-
+sion not just for historical study, but for scientific/philosophical analysis of what 
+constitutes an experiment. This latter question has been widely and energetically 
+addressed in recent philosophy of science literature.13
+1.8.2.3  Astronomical Problems for Feng Shui
+Leaving aside any scientific or ‘metaphysical’ problem in translating from motions 
+of the sun and moon to earthly and human affairs, Eitel identifies two major astro -
+nomical problems for feng shui theory: the precession of the equinoxes and missing 
+planets.
+The Chinese astronomers/astrologers did not know of the precession of the equi-
+noxes from east to west, the effect of which has been to disconnect the astrological 
+signs of the zodiac from their respective constellations. Eitel comments that:
+The Chinese, not knowing of the precession of the equinoxes, are rather perplexed by the 
+discrepancy, but caring less for accuracy and more for ancient tradition, ignore the actual 
+discrepancy, and still represent the twelve signs, not as they appear now, but as they 
+appeared to their ancestors two thousand years ago. (Eitel 1987, p. 11)
+This is a matter that at least some contemporary feng shui consultants deal with by 
+simply severing the connection of auspiciousness from the position of star groups in 
+the galaxy.
+Eitel identifies another major conceptual and evidential problem: the Chinese 
+recognised only five planets - Jupiter, Venus, Saturn, Mars and Mercury. Given the 
+centrality of these in the whole Chinese cosmological picture, it is easy to under -
+stand why Chinese astronomers did not seek to discover new planets. Chinese 
+astronomers may or may not have seen additional planets, but if so, they did not 
+identify them as planets; they would have been regarded as comets, stars or some 
+aberration, just as Uranus was by those who happened upon it from antiquity till 
+William Herschel’s identification of it in 1781 (Miner 1998). Similarly, the spec -
+tacular 1846 discovery of Neptune by Johann Galle following its mathematically 
+precise prediction by Urbain Le Verrier (Grosser 1962) did not and could not have 
+happened within the Chinese astronomical tradition. These are merely examples of 
+the commonplace observation that culture impacts on the conduct of science, and 
+that recognising and being alert to such a nexus is an important outcome of a good 
+science education.
+13 See at least Hacking (1988) and contributions to Radder (2003).
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 45 ---
+20
+1.8.2.4  Eitel’s Appraisal of Feng Shui and the Educational Task in China
+Eitel concludes his exposition by writing that while 2000 years ago the embrace of 
+some of the fundamental ideas of feng shui was understandable and ‘rational’, but 
+such embrace no longer is. He writes:
+Feng-shui is at present a power in China. It is an essential part of ancestral worship, which 
+national religion, neither Tauism nor Buddhism managed to deprive of its all-pervading 
+presence…Feng-shui is indeed the refined quintessence of Tauistic mysticism, Buddhistic 
+fatalism and Choo-he’s materialism, and as such it commands if not the distinct approval 
+yet the secret sympathy of every Chinaman, high or low. (Eitel 1987, pp. 65–66)
+He notes that feng shui exponents:
+had studied nature, in a pious and reverential yet in a very superficial and grossly supersti-
+tious manner, but which, trusting in the force of a few logical formulae and mystic dia -
+grams, endeavoured to solve all the problems of nature and to explain everything in heaven 
+above and on the earth below with some mathematical categories. The result, of course, is 
+a farrago of nonsense and childish absurdities. (Eitel 1987, p. 69).
+Eitel had no hesitation in pointing to the educational project, specifically the 
+science-education project, that was needed in his day:
+The only powerful agent likely to overthrow the almost universal reign of Feng-shui in 
+China I conceive to be the spread of sound views of natural science, the distribution of use-
+ful knowledge in China … let correct views be spread regarding those continually inter -
+changing forces of nature, heat, electricity, magnetism, chemical affinity and motion; let 
+these views be set forth in as forcible and attractive, but popular a form as Choo-he 
+employed, and the issue of the whole cannot be doubtful. (Eitel 1987, p. 69)
+Although a Lutheran clergyman, he spoke with a voice informed by science and the 
+Enlightenment:
+The fires of science will purge away the geomantic dross, but only that the truth may shine 
+forth in its golden glory. (Eitel 1987, p. 69)
+Importantly, he did not underestimate the educational task; it could not be confined 
+just to classrooms:
+Feng-shui is, moreover, so engrafted upon Chinese social life, it has become so firmly inter-
+twined with every possible event of domestic life (birth, marriage, housebuilding, funerals, 
+etc.) that it cannot be uprooted without a complete overthrow and consequent re- organisation 
+of all social forms and habits. (Eitel 1987, p. 65)
+Not surprisingly, this contention has drawn down on Eitel the ire of some who 
+have read his work. It is the kind of statement that is put up as ‘Exhibit A’ to dem-
+onstrate cultural insensitivity, Western chauvinism and objectionable scientism and 
+positivism. Notwithstanding all of this, Eitel’s recognition of the material embed -
+dedness of feng shui beliefs, and the consequent social and cultural adjustments 
+needed if they were to be abandoned or significantly changed, is both realistic and 
+commendable; nothing is gained by ignoring the difficult personal, cultural and 
+social adjustments that need to be made when modern science is seriously engaged, 
+that is in other than just a utilitarian or technical way. Further, Eitel’s view has been 
+M.R. Matthews
+
+--- PAGE 46 ---
+21
+independently adopted by many contemporary Chinese scientists, philosophers, 
+educators and cultural critics concerned with the modernization of Chinese culture 
+(Tang 2015a).
+1.9  Feng Shui, Education and Modernization of Chinese 
+Culture
+In the seventeenth century, China’s adoption of Matteo Ricci’s European technol-
+ogy, astronomy and mathematics left Confucianism untouched; so too it left the 
+entire Chinese political or imperial system untouched, indeed the latter was strength-
+ened. At the beginning of the twentieth century, a small minority of scholars strove 
+for more radical rapprochement between Chinese culture and modern science. For 
+example, Ch’en Tu-Hsiu [Chen Duxiu] (1879–1942) was an ardent ‘public intel -
+lectual’, political reformist and opponent of obscurantist Confucian philosophy. He 
+was one of thousands who looked to Western thought, especially science, in order to 
+modernise Chinese thinking, and strengthen the society so that the endless humilia-
+tions of the late nineteenth and early twentieth centuries visited upon China by the 
+European powers and Japan would not recur.
+After living in France and absorbing a good deal of the thinking of the Enlightenment 
+philosophes, Ch’en returned in 1910 to China and was, along with prominent teachers 
+at Peking and Tsinghua universities and major publishers in Shanghai, a founding and 
+influential member of the ‘New Thought’ (sometimes referred to as ‘New Culture’) 
+movement. Ch’en wanted to modernise Chinese thinking, not just Chinese industry 
+and technology. This ‘progressive’ movement was locked in conflict with a ‘tradi-
+tional’ or ‘conservative’ one, both vying for influence in the early life of republican 
+China following the collapse of the disastrous Manchu regime (Furth 1983). The New 
+Thought movement launched their own journal New Youth. This was edited by Ch’en, 
+and in it he published his own essay ‘The French People and Modern Civilization’. He 
+saw that both politics and science contributed to the supremacy of Europe, and that 
+both European liberal, democratic politics and Western science had to be embraced by 
+China; there could be no return to the old ways.
+The first issue of New Youth contained an editorial essay ‘My Solemn Plea to 
+Youth’ in which Ch’en wrote:
+Our men of learning do not understand science; thus they make use of yin-yang signs and 
+beliefs in the five elements to confuse the world and delude the people and engage in specu-
+lations on geomancy …The height of their wondrous illusions is the theory of ch’I [primal 
+force] …We will never comprehend this ch’I even if we were to search everywhere in the 
+universe. All of these fanciful notions and irrational beliefs can be corrected at their roots 
+by science, because to explain truth by science we must prove everything with fact. 
+Although this is slower than imagination and arbitrary judgment, every progressive step is 
+taken on firm ground. It is different from those flights of fancy which in the end cannot 
+advance one bit. (New Youth, 1915, vol.1, p.1. In Kwok 1965, p. 65)
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 47 ---
+22
+The editorial touches on most of the core scientific, philosophical, cultural and 
+educational issues surrounding feng shui and how it is best treated in a school sys -
+tem. These were momentous issues for China at the beginning of the twentieth 
+century. The same issues recur in all societies and cultures as they ‘come to terms 
+with’ science, and with Enlightenment beliefs especially secularism, liberalism and 
+democracy in politics.
+Ch’en’s crusade was supported by Fung Yu-Lan (1895–1990) the noted historian 
+of Chinese philosophy (Fung 1949, 2008). In his much-cited 1922 publication 
+written during the dark depths of Chinese warlord-ism and national humiliation, 
+Fung maintained that:
+What keeps China back is that she has no science. The effect of this fact is not only plain in 
+the material side, but also in the spiritual side, of the present condition of Chinese life. 
+China produced her philosophy [Confucius (551-479 bce), Mencius (372-289 bce)] at the 
+same time with, or a little before, the height of Athenian culture. Why did she not produce 
+science at the same time with, or even before, the beginning of modern Europe? (Fung 
+1922, pp. 237–238)
+More recently, Tang Yijie (1927–2014), a prominent Chinese philosopher, well 
+stated the importance of this ‘cultural appraisal’ task:
+If Chinese people want to make contributions to the ‘coexistence of civilizations’ in con -
+temporary human society, they must first know their own culture well, which means they 
+must have a cultural self-consciousness. The so-called cultural-consciousness refers to the 
+fact that people in a certain cultural tradition can give serious consideration or make earnest 
+reexamination of their own culture’s origin, history, characteristics (including both merits 
+and weakness), and its tendency of progress … we must analyze the weak points of our own 
+culture as well to better absorb other cultures’ essences, and to give a modern reinterpreta-
+tion of Chinese culture, so that it can adapt to the general tendency in the development of 
+modern society. (Tang 2015c, p. 299)
+Clearly this task of ‘cultural self-consciousness’, as outlined by the Chinese 
+scholars Chen, Fung, Tang and so many others, is an educational project that 
+requires science-informed historical and philosophical input. It is a task with which 
+all societies need to engage. Western and Middle-Eastern societies are as much in 
+need, if not more, of this historical consciousness as Asian societies. The beginnings 
+should be engendered by formal education; responsible science education will 
+contribute to this task in all countries. The more explicitly the HPS dimensions of 
+science are presented in classrooms, then the more fruitful will be such contribution 
+to cultural self-consciousness.
+HPS-informed science education can contribute to this cultural task of develop -
+ing an historical consciousness by showing the historical and philosophical connec-
+tions between modern science and the Enlightenment tradition. 14 And there are 
+other things that science education can bring to the task: the cultivation of a scien -
+tific habit of mind, the appreciation of empirical evidence, coherent and logical 
+thinking, knowledge of basic mechanisms in the natural world.
+14 On this see Matthews (2015, chap. 2).
+M.R. Matthews
+
+--- PAGE 48 ---
+23
+1.10  Feng Shui and the Chinese Communist Party
+In 1940 Mao Tse-Tung declared for science and against superstition, including feng 
+shui, saying:
+The culture of this New Democracy is scientific. It opposes all feudal and superstitious 
+thought; it advocates practical realism, objective truth, and the union of theory and practice. 
+From this point of view, the scientific thought of the Chinese proletariat, along with the 
+comparatively progressive material monists and natural scientists of the capitalist class, 
+must unite to oppose imperialism, feudalism, and superstition; [they] must not ally them -
+selves with any reactionary idealism. (Selected Works, vol.2, p. 700; in Kwok 1965, p. 19)
+When the Chinese Communist Party came to power in 1949 it outlawed feng shui 
+as a form of backward superstition and as being incompatible with Marxist theory 
+and its associated materialist ontology. The Party said feng shui was one of the 
+‘Four Olds’ (Shapiro 2001). The clamp down on feng shui was tightened during the 
+Cultural Revolution. Mao’s efforts to outlaw and ban the practice, and to systemati-
+cally refute the associated cosmological beliefs as being incompatible with Marxist 
+dialectics and materialism, were Canute-like in their effect: the feng shui tide kept 
+rising in China.
+Part of the reason for this was that Mao’s embrace of science was the embrace of 
+a stunted science; a purely technological science that ignored the wider social and 
+philosophical implications of science, much less embraced its connection with the 
+Enlightenment’s critical and ‘Open Society’ traditions. Chairman Mao’s Education 
+Directive of July 11, 1968, said that, reluctantly:
+It is still necessary to have universities; here I refer mainly to colleges of science and engi-
+neering. However, it is essential to shorten the length of schooling, revolutionize education, 
+put proletarian politics in command and take the road of the Shanghai Machine Tools Plant 
+in training technicians from among the workers. Students should be selected from among 
+workers and peasants with practical experience, and they should turn to production after a 
+few years’ study. (Bloembergen 1980, p. 104).
+Because the university curriculum was closely tied to practical outcomes, there was 
+no course in General Physics, rather physics was divided into subspecialties – lasers, 
+acoustics, magnetism, radio-physics, etc. – once admitted to a specialty in first year, 
+students could only with great difficulty change. During this period, China pro -
+duced hundreds of thousands of science graduates who had no inkling of the tradi -
+tion and culture of modern science, much less had cultivated a scientific habit of 
+mind, or a social-historical critical facility.15 Students graduated with what amounted 
+to bachelor degrees in radios, or internal-combustion engines. They were more tech-
+nicians than scientists; little in their education would prepare them for intelligent 
+engagement with feng shui or party ideology.16
+15 On this see Bloembergen (1980). As with other countries, there are blind-spots or ‘no-go’ areas 
+in Chinese historical studies. For example, serious appraisal of Mao, and the devastation he 
+unleashed on China, is simply not included in the curriculum.
+16 This ‘stunted worldview-free’ science is favoured by proponents of ‘border-crossing’ in multi-
+cultural science education (Aikenhead 1996). Such proponents maintain that indigenous commu -
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 49 ---
+24
+The first ever Chinese national science congress was held in March 1978 after 
+the Party repudiated and denounced the Gang of Four and its anti-intellectualism, 
+but there was not, of course, any denunciation of Chairman Mao. Vice-Premier 
+Deng Xiaoping’s four modernizations – of agriculture, industry, defense, and sci -
+ence and technology - were announced as Party policy and the 6000 attendees were 
+ordered to contribute to the modernization of science. 17 A broader science training 
+was envisaged, but there were limits. Fang Yi, a politburo member, future 
+ Vice- Premier and President of the Chinese Academy of Science, in his speech to the 
+congress said:
+We actively advocate the study of Marxist philosophy by scientific and technical workers, 
+and we should encourage and help them to do so. It is necessary to hold different kinds of 
+forums regularly, begin publishing journals on the dialectics of nature, carry out research on 
+the history of natural science, and encourage scientific and technical personnel to guide 
+their scientific research with Marxist philosophical concepts. (Orleans 1980, p. 554)
+Fang’s programme has continued to the present day, with ‘Dialectics of Nature’ 
+being a compulsory course for all science graduate programmes (Gong 1996; Guo 
+2014). It is little wonder that many Chinese intellectuals lament that a fifth modern-
+ization, namely the modernization of culture, was not added to Deng’s four modern-
+izations. But this would have deleterious consequences for Communist Party rule.
+1.11  Teaching About Energy and Appraising Feng Shui
+One obvious and non-controversial way to raise issues about feng shui in science 
+classes is to do so when teaching units on energy. Throughout the world at all edu-
+cational levels - elementary, secondary and college - energy is a ubiquitous topic in 
+science programmes. The study of energy is one of the core requirements in the 
+English (UK) school science programme where students are expected to detail dif -
+ferent sources of energy and know how different cultures utilize these sources. 
+Energy is one of the core ‘cross cutting concepts’ in the USA Next Generation 
+Science Standards (NRC 2013).18
+This ubiquity is deserved because energy is the central conceptual component of 
+modern science – all modern science, not just physics. Mario Bunge observed: ‘All 
+the sciences that study concrete or material things, from physics to biology to social 
+science, use one or more concepts of energy’ (Bunge 2000, p. 458). Energy is a 
+property of all existent things; hence it is universal. But it does not exist apart from 
+nities should be taught enough science to cope with modern technology, but not use it to appraise 
+their own worldviews or metaphysical commitments.
+17 Deng Xiaoping and Fang Yi’s congress addresses are reproduced in Orleans ( 1980, 
+pp. 535–556).
+18 Papers presented at an international conference to link research to the teaching of energy in the 
+NGSS can be seen in Chen et al. ( 2014). See also chap. 9 of this anthology.
+M.R. Matthews
+
+--- PAGE 50 ---
+25
+things of which it is a property; there is no ‘free-floating’ energy. Bunge is relaxed 
+about calling energy a metaphysical concept:
+Because it is ubiquitous, the concept of energy must be philosophical and, in particular, 
+metaphysical (ontological). (Bunge 2000, p. 458)
+For Bunge, and all competent philosophers, metaphysics does not license obscuran-
+tism, incoherence or contradiction. Richard Feynman famously said in his Lectures 
+in Physics that:
+It is important to realize that in physics today, we have no knowledge of what energy is. We 
+do not have a picture that energy comes in little blobs of a definite amount. It is not that way. 
+However, there are formulas for calculating some numerical quantity, and when we add it 
+all together it gives “28”—always the same number. It is an abstract thing in that it does not 
+tell us the mechanism or the reasons for the various formulas. (Feynman 1963, Lect.4, sect. 
+4.1, p. 2)
+Although he modestly says that he does not know what energy is, he is prepared to 
+defend the claim that whatever it is, it is conserved. And far from Feynman’s lecture 
+legitimating all alternatives to orthodox scientific understanding of energy, he is 
+prepared to say that psychoanalysis is not a science and that witchdoctors’ recourse 
+to spirits as the cause of disease likewise marks them as non-scientific (Feynman 
+1963, lect. 3, sect. 3.6). As long as chi remains in the heavens, then its violation, or 
+otherwise, of energy conservation cannot be ascertained. But as soon as chi engages 
+with worldly processes, then it enters terrestrial energy chains and can be shown to 
+violate the conservation law if any of its putative effects are real.
+In the USA, the Department of Energy (DoE) produced an educational guide that 
+specifies an ‘energy literate’ person has:
+An understanding of the nature and role of energy in the universe and in our lives. Energy 
+literacy is also the ability to apply this understanding to answer questions and solve prob -
+lems. (DoE 2012, p. 4)
+The US Department further elaborates that such a person ‘Can assess the credibility 
+of information about energy’.
+Given the centrality of ‘energy’ in feng shui discourse and practice, and given the 
+wide influence and impact of feng shui in Asian and now Western culture, these 
+DoE objectives can assuredly be advanced by explicit treatment of feng shui in sci-
+ence classes. The DoE guide means that students should be able to assess the cred-
+ibility of feng shui energy claims (and indeed any other popular claims about energy 
+creation or conservation). If daily feng shui forecasts are on the nightly news, then 
+asking a class to assess their credibility is hardly an outside imposition on the class, 
+or a pandering to a teacher’s proclivities.
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 51 ---
+26
+1.12  Scientific Testing of Chi Claims
+Pleasingly there seem to be some opportunities for clear-cut scientific tests for the 
+putative powers of chi. Dr. Yan Xin, a medical researcher from the Chinese Chi 
+Research Centre, who has worked in major Western and Chinese universities, com-
+mendably spells out the power of chi in a testable manner (Yan 2015). As Karl 
+Popper would say, he bravely puts his theory’s neck on the experimental block:
+the mind power or Qi emitted by a trained Qigong master can influence or change the 
+molecular structure of many test samples, including those of DNA and RNA, even if these 
+test samples are 6 to 2,000 kilometers away from the master. Qi can also effect the half-life 
+of radioactive isotopes and the polarization plane of a beam of light as emitted from a 
+Helium-Neon laser.19
+At first, and even last, reading these are stunning claims; they certainly have the 
+patina of science. As Yan Xin’s followers maintain: ‘His discoveries are changing 
+the way modern science is viewed, and challenging many of its assumptions’ (ibid). 
+But Dr. Xin then retreats and takes the theory’s head off the block:
+Currently, the essential qualities of qigong and qi are difficult to study in a detailed, qualita-
+tive, and quantitative manner. (ibid)
+Pleasingly serious scientific research journals require studies to be done in a 
+‘detailed, qualitative, and quantitative’ manner and so set a high bar for publication. 
+So far, it seems, that feng shui ‘research’ has not met the standards of any reputable 
+scientific journal; no reference appears in physics journals. But gullible people, with 
+minimal science literacy, read such claims and believe that modern science has so 
+changed and has endorsed such nonsense. But modern science is simply incompat-
+ible with the truth of these claims; they could never find outlet in any serious science 
+research journal.
+Another colleague, Dr. Hui Lin, also of the Chinese Chi Research Centre offers 
+the following striking example of chi power:
+Consider a simple experiment on qigong potential. In this experiment people used their qi 
+to shake pills out of a sealed bottle. However, the intermediate process was undetectable by 
+any available means. The pills passed through the bottle (analogous to conducted experi -
+ments in which a person passes through a solid wall), even though the bottle is completely 
+sealed and intact, without any possibility of tampering.
+Accepting at face value the results, he concludes that:
+This demonstrates the probable existence of a form of energy associated with qi which 
+transcends the three or four [gravitational, electromagnetic, strong and weak interaction] 
+fundamental forces.
+This all sounds very scientific and certainly would cause a revision in our under -
+standing of science and of the world picture that science has given us. But in Hui 
+Lin’s ‘experiment’, no independent witness to such ‘transportation’ is noted; and no 
+replication study is reported. Independent observation and replication should be the 
+19 See: www.item-bioenergy.com/infocenter/chinesechiresearch.doc
+M.R. Matthews
+
+--- PAGE 52 ---
+27
+beginning of any effort to bring these ‘truly remarkable results’ into the scientific 
+fold.20 They should be among the first things that any scientifically literate student 
+or adult asks of the remarkable experiment. Their absence is a powerful indicator of 
+the whole feng shui practice being pseudoscientific.
+After 200 years of modern scientific study of energy,21 with pressing contempo-
+rary universal concern with clean energy production and use, and with numerous 
+major international energy summits and conferences, it is noteworthy that feng shui 
+energy is yet to be indentified and convincingly measured in any reputable labora -
+tory. There are many putative such measures, providing ‘convincing’ evidence for 
+the efficacy of chi, but as with the above cases from the China Chi Research Centre, 
+they do not bear close scrutiny.
+What constitutes ‘close scrutiny’ is something that can be taught in science 
+classes when teachers have a modicum of HPS competence and interest. Students 
+can read the texts, and follow the experimental footsteps of Galileo, Newton, 
+Huygens, Priestley, Darwin, Rutherford, and so many others, and see and appreciate 
+the difference between close scrutiny, careful measurement, appraisal of alternative 
+hypotheses, and the lazy uncritical holding of original and perhaps prejudicial 
+opinions.
+1.13  Feng Shui as Pseudoscience
+Belief systems, and associated practices, can usefully be categorized as: Science 
+(either mature or proto-science), Pseudoscience (non-science that claims to be sci -
+ence) and Non-science (History, Art, Theology, Philosophy, etc.). Such classification 
+does depend upon adequate demarcation criteria, but these do not require any time-
+less essentialism, and they can and have changed over time as scientific inquiry 
+matures and takes new forms. 22 Further, membership of a category is not cut and 
+dried, it is more a matter of family resemblance; there are clusters of criteria that 
+mark out the categories, these can change over time, and not all boxes need be ticked,
+Efforts to distinguish science from non-science, the original ‘demarcation prob-
+lem’, have been pursued since at least David Hume’s time when in his Inquiry he 
+commented:
+When we entertain, therefore, any suspicion that a philosophical term is employed without 
+any meaning or idea (as is but too frequent), we need but enquire, from what impression is 
+that supposed idea derived? And if it be impossible to assign any, this will serve to confirm 
+our suspicion. (Hume 1902, p. 22, emphasis in original)
+20 The magician, James Randi, has rendered a great public service by replicating, exposing and 
+debunking these sorts of claims (Randi 1987, 1995).
+21 See at least Coopersmith (2010) and Harman (1982).
+22 There is an enormous amount of philosophical discussion on the ‘demarcation problem’. 
+See at least Butts (1993), (Hansson 2009, 2013), Mahner ( 2007, 2013), Nickles ( 2013) and 
+Pigliucci ( 2013).
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 53 ---
+28
+Hume was enunciating his empiricism and using the grounding in sensation as a 
+way of separating ‘sensible’ ideas from the wide class of others. Ernst Mach took 
+Hume’s point seriously and, with recourse to his philosophical phenomenalism 
+argued that a whole raft of central scientific concepts – mass, force, absolute space, 
+absolute time, atom, molecule – were not scientific as they went beyond their sen -
+sory anchors, or the observation statements that grounded them (Mach 1992). He 
+famously said that he would ‘leave the Church of Physics’ if belief in atoms was 
+required for its membership (Blackmore 1989).
+Karl Popper acknowledged the force of Mach’s critique, but rather than accept 
+orthodox science as unscientific, he proposed a new demarcation of science from 
+non-science, namely Falsificationism or Testability, maintaining that:
+A system is to be considered as scientific only if it makes assertions which may clash with 
+observations; and a system is, in fact, tested by attempts to produce such clashes, that is to 
+say by attempts to refute it. (Popper 1963, p. 256)
+A great deal of late twentieth-century philosophy of science has been taken up 
+with problems occasioned by using testability as a demarcation criterion for sci -
+ence, and with efforts to find other more adequate criteria. Willard Quine, Thomas 
+Kuhn, Imre Lakatos, Paul Feyerabend and Paul Thagard all contributed to this 
+debate.23 Lakatos thought that his ‘methodology of scientific research programmes’ 
+did provide a warranted demarcation in the way that Popper and Kuhn’s had failed 
+to do (Lakatos 1970). Further this was important because:
+… the problem of demarcation between science and pseudoscience is not a pseudo-problem 
+of armchair philosophers: it has grave ethical and political implications. (Lakatos 1978, 
+p. 7)
+The mushrooming, internationalizing, billion-dollar feng shui industry is an exam -
+ple of the ethical, political and cultural consequences of failing to identify pseudo -
+science, or saying that such identification is impossible, to which Lakatos points. 
+Being able to robustly identify feng shui as pseudoscience might put some brake on 
+its spread and impact, it might redirect people’s monies to effective treatments, in 
+some jurisdictions it might enable conviction for false advertising, etc. And beyond 
+this, defense of such identification can engage citizens in careful analysis of an 
+important philosophical point that is central to understanding the nature of science.
+Carl Hempel usefully offered not so much a singular demarcation criterion, but 
+rather a list of seven desiderata that identified good science, or specifically good 
+scientific theories, among which are:
+•  A theory should yield precise, preferably quantitative, predictions.
+•  It should be accurate in the sense that testable consequences derivable from it 
+should be in good agreement with the results of experimental tests.
+•  It should be consistent both internally and with currently accepted theories in 
+neighboring fields.
+•  It should have broad scope.
+23 For an outline of the arguments and literature, see Ladyman (2013), chap. 3).
+M.R. Matthews
+
+--- PAGE 54 ---
+29
+•  It should predict phenomena that are novel in the sense of not having been known 
+or taken into account when the theory was formulated.
+•  It should be simple.
+•  It should be fruitful. (Hempel 1983, pp. 87–88; author formatting added)
+This account usefully employs a number of criteria to distinguish good theories 
+from not-so-good or poor theories. Indeed, ‘marks out of five’ can be given to theo-
+ries on the basis of how well they meet each criterion, with a maximum possible 
+score of thirty-five. Then discussion can occur about ‘cut-off’ marks for separating 
+good from poor theories. Here poor theories can be improved, they can raise their 
+mark by attending to one or other deficiency.
+It is unfortunate that Hempel conflates ‘science’ with ‘theories’. Good theories, 
+as Hempel characterizes them, are the expected outcome and indicator of good sci-
+ence; but science as an organized, structured, historical-sociological entity, needs 
+further characterization beyond what suffices for good theory. Extra ontological, 
+methodological and sociological criteria are required; the more so in order to sepa-
+rate science from pseudoscience.24 For a research or scholarly group to be called a 
+scientific group, or for it to be pursuing a scientific practice, it needs have the fol -
+lowing characteristics:
+•  It should reliably produce a ‘quota’ of good scientific theories as characterized 
+above.
+•  It needs to seek new knowledge, to do research; not be ossified, stand still, and 
+repeat extant knowledge.
+•  It should be constituted as a research community pursuing cognitive goals and 
+committed to finding out new things about the natural and/or social worlds; not 
+just a community sharing beliefs, inquiring into texts or formulating legislative 
+laws.
+•  Its members need be trained or certified in such cognitive inquiry; science can be 
+advanced by lay-people, but if no or few members of the community are suitably 
+trained, then the community falls short of being a scientific community;
+•  It should appeal only to ontologically stable entities in its explanations and theo-
+rizing. Reference to ‘here today, gone tomorrow’ entities, or entities that come in 
+and out of existence depending on who is thinking about them, diminish the 
+scientific status of theories and communities that propose them.
+•  It needs be committed to at least pragmatic methodological naturalism as the 
+basis for evidence collection and theory appraisal; appeals to political, ideologi-
+cal or religious authority is simply not allowed, nor is reference to divine scrip -
+ture or revelation.
+Methodological naturalism, in the final criterion, is not methodological material-
+ism. The latter characterized the Mechanical Worldview of the seventeenth and 
+eighteenth centuries (Schofield 1970), but with the progress of nineteenth and twen-
+tieth century science, where there was recourse to stable, yet non-material, explana-
+24 See Bunge (1991).
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 55 ---
+30
+tory and causal entities (non-contact forces, fields, radiation, gravitational waves, 
+etc.) materialist ontology became a hindrance rather than an asset for science; and 
+such novel non-material entities became ‘naturalised’.
+One option is to claim that upholding methodological naturalism is a defining 
+feature of a scientific community of inquiry (Mahner 2012). This does have an in- 
+built conservatism as only currently acknowledged ‘natural’ entities can feature in 
+the research of a putative scientific group. A more relaxed option is to take ‘prag -
+matic methodological naturalism’ as a defining characteristic of a scientific com -
+munity. Here the community tries to go as far as it can with extant naturalized 
+entities, but recourse to new entities is not ruled out provided efforts are then made 
+to naturalise them; that is, to show that they meet all the accepted grounds for incor-
+poration into science (Fishman and Boudry 2013).
+Much is rightly made of the under-determination of scientific theory by evi -
+dence - the Duhem-Quine thesis (Harding 1976; Weinert 1995). More specifically 
+there is serious argument, initiated by Ernst Mach in the late nineteenth century, 
+about premature realist inferences to the reality of hypothetical constructs or entities 
+in explanatory scientific theories (Matthews 2015, chap. 9). There are detailed phil-
+osophical and scientific debates about the ontological status of phlogiston, caloric, 
+atoms, genes, fields, electron shells, forces, and so on. Nothing comparable occurs 
+in the uncritical, unreflective feng shui move from rural farming practice or archi -
+tectural commonsense to the putative reality of chi. The mere juxtaposition of 
+debates about realism in science and in feng shui can illustrate important features of 
+science and of pseudoscience.
+Larry Laudan, in a much commented-upon paper hoped to bring this discussion 
+to an end with his claim that the demarcation quest was hopelessly contentious:
+… it is probably fair to say that there is no demarcation line between science and non -
+science, or between science and pseudo-science, which would win assent from a majority 
+of philosophers. (Laudan 1996, p. 211)
+And further that the efforts were misdirected because they:
+managed to conflate two quite distinct questions: What makes a belief well founded (or 
+heuristically fertile)? And what makes a belief scientific? (Laudan 1996, p. 222)
+He concluded his paper with the admonition:
+If we would stand up and be counted on the side of reason, we ought to drop terms like 
+‘pseudo-science’ and ‘unscientific’ from our vocabulary; they are just hollow phrases 
+which do only emotive work for us. (Laudan 1996, p. 222)
+Laudan’s philosophical argument gained the assent of the majority of philosophers 
+of science, not just the more general scholarly or educational constructivist commu-
+nity who could be expected to readily embraced it. Constructivists were very happy to 
+hear prominent philosophers saying that ‘everything is science; it is only politics, 
+ideology, or culture that makes distinctions for their own purposes’. But Laudan’s 
+obituary for demarcation was premature; many have found philosophical life in the 
+M.R. Matthews
+
+--- PAGE 56 ---
+31
+supposed corpse.25 Thus there is no overwhelming philosophical requirement to aban-
+don the tripartite classification of Science-Pseudoscience-Non-science.
+It helps the argument of this chapter to focus on just the first distinction, namely 
+Science-Pseudoscience rather than the wider task of separating both from Non-  
+sciences such as Art, History, Mathematics, Theology and so on. How these domains 
+have justifiable warrants for their claims is a matter for separate investigation. 
+Different philosophical, sociological and political indicators or markers of 
+ pseudoscience have been advanced. Sven Hansson provided one such list whereby 
+a corpus of belief and practice can be judged pseudoscientific in as much as:
+•  There is overdependence on authority figures.
+•  Unrepeatable experiments are too frequently adduced.
+•  Data selectivity, or cherry-picking of evidence is too common.
+•  There is an unwillingness to seriously test claims and predictions.
+•  Confirmation bias is endemic and disconfirmation is neither sought nor 
+recognized.
+•  Some explanations are changed without systematic consideration. (Hansson 
+2009)
+And when:
+•  They make claims about events and mechanisms in the natural world.
+•  The claims cannot be epistemically warranted, yet effort is made to show their 
+scientificity.
+•  They too easily resort to auxiliary hypotheses to insulate claims from empirical 
+refutation. (Hansson 2009)
+A further characteristic that can be added to this list, is:
+•  The practice makes scientific claims, but refuses to engage with the scientific 
+community (publishing in research journals, presenting at research conferences), 
+whose status it is claiming.
+Although there is a certain variation of feng shui beliefs and practices, the feng 
+shui ‘family’ ticks all the above ‘boxes’.
+The central feng shui ontological entity, chi - its sine qua non as Stephen Field 
+rightly called it – does not appear in any reputable physics research journal or book. 
+Chi is not mentioned anywhere in the hugely-funded international search for new 
+energy, renewable energy or clean energy. The Science in Contemporary China  
+handbook (Orleans 1980) has chapters on all the Chinese natural, social and applied 
+sciences, including biomedical sciences, but no chapter on either chi or feng shui. 
+The only mention of either in the entire work is in discussion of acupuncture where 
+the ‘meridian’ theory of freeing vital energy pathways by inserting needles into 
+various of the 600+ meridian intersections, is listed as the original explanation for 
+the efficacy of acupuncture; but this is then passed over in favour of contemporary, 
+25 See at least: Bunge ( 1991, 2011), Butts (1993), Derksen ( 1993),  Ladyman ( 2013), Mahner 
+(2007, 2013), Pigliucci (2013) and the 23 contributions to Pigliucci and Boudry (2013).
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 57 ---
+32
+routine physiological or psychological accounts of the highly-debated effects of 
+acupuncture. Myron Wegman, the author of the Biomedical Research chapter in the 
+above handbook, observes that: ‘a classic weakness …of most Chinese research on 
+therapy is the absence of true controls, essential if one is to draw secure conclusions 
+about the efficacy of a particular treatment’ (Wegman 1980, p. 273). He notes that 
+this is a particular problem for acupuncture research because the illnesses ‘cured’ 
+are often ones where there is a high portion of spontaneous recovery or 
+remission.26
+To say, as Ken Tobin above does, that the feng shui industry is engaged in and 
+informed by ‘unorthodox’ or ‘alternative’ science is too generous. Leaving aside 
+philosophical considerations, on just sociological or externalist grounds alone, chi- 
+based feng shui is not a science. It does not meet the criteria of ‘playing the game’; 
+practitioners might be playing a game, but it is not the science game. The situation 
+is akin to a local rugby team saying they are playing ‘alternative baseball’ or 
+‘unorthodox baseball’. For the latter names to be meaningful, there has to be an 
+overlap in key elements with baseball. And the latter cannot be called ‘poor rugby’ 
+as that suggests that by incremental improvements baseball could become rugby. It 
+cannot. Rugby is an alternate to baseball, it is not alternative or unorthodox base -
+ball. Similarly science and feng shui are not on a continuum; the difference is not 
+like that between full-strength and lite beer.
+Efforts to place science and feng shui on a continuum do not adequately capture 
+the unfortunate cultural, commercial and personal realities of feng shui. For exam -
+ple, one of the hundreds of newly arrived feng shui consultants in Sydney has in 
+2016 advertised for business asserting that:
+As a descendant of the Founding Father of Feng Shui – King Wen , highly sought after by 
+scores of billionaire customers, with 30 years of experience, Master Feng, the world’s only 
+Feng Shui Master who has the gift of SEEING Feng Shui energies, will help you get rid of: 
+Bad Luck, Achieve Success, Health, Wealth and Happiness.27
+Not only does King Wen ‘see’ energy but he has ‘x-ray vision’ that detects ulcers, 
+slipped discs and a whole range of ailments. And he can predict people’s futures. All 
+of this comes at a price. He claims his costly 3-day courses ‘eliminates confusion 
+caused from different conflicting Feng Shui ideologies’. Full credit to King Wen 
+that he acknowledges that other feng shui systems are ideologies. Although he does 
+not elaborate his own meaning of ‘ideology’, doubtless whatever this account is, it 
+is a reasonable expectation that it will apply to his own interpretation of feng shui.
+26 There is a vast literature on the contentious Western interpretation of the success of Chinese 
+traditional medicine, including acupuncture. See at least Porkert (1982).
+27 See http://www.masterfeng.com/consultations.html
+M.R. Matthews
+
+--- PAGE 58 ---
+33
+1.14  Conclusion
+Feng shui theorists and consultants are practicing something that superficially 
+appears like science and is infused with scientific terminology – witness the title of 
+the recent book Scientific Feng Shui for the Built Environment (Mak and So 2015) - 
+but it is not science. The key elements of science, both content and methodology, are 
+missing:
+•  There is no tradition of controlled and reproducible experiment.
+•  There is no recognition of the problematic recourse to ad hoc rescuing of failed 
+hypotheses.
+•  There is a dramatic inconsistency with the core of established scientific knowl -
+edge, most especially the conservation of energy postulate.
+•  There is no participation in the established, peer-reviewed, scientific research 
+community and its journals.
+•  There is altogether unwarranted dependence upon individual or sectarian inter -
+pretation of basic feng shui principles; there are hundreds of different feng shui 
+‘schools’ each with masters but no unified canon.
+•  Finally, there is a radical disjunct between the law-governed, causally-  
+deterministic worldview of science and the chaotic, idiosyncratic ‘fortune-  
+telling’, ‘auspicious times’ worldview of feng shui. The latter is only imaginable 
+if the fundamental laws of causation for macro objects are jettisoned; and if that 
+happens then science is also abandoned. Whatever legitimate debate there is 
+about causality at the micro or sub-atomic level (Bunge 1982), there is none at 
+the macro-level where feng shui interventions, and chi-caused events supposedly 
+take place.
+In as much as the modernization of thought depends upon its reconciliation with 
+science, then feng shui ideology is a barrier to modernization of thought in all cul -
+tures where it has taken root. Further it is manifest that feng shui practice has been 
+overtaken by charlatans and fraudsters; these are not absent from science, but the 
+scientific community can identify them, and call them out.28 It is not at all clear how 
+‘fake’ or fraudulent feng shui practitioners can be called out. The task is comparable 
+to identifying and condemning heresy in religious traditions. The designation of 
+feng shui as ‘pseudoscience’ well captures the differences with science, and alerts 
+everyone to the omnipresence of fraud.
+All institutions, belief systems and ideologies benefit from historical study; from 
+understanding themselves in an historical sequence and context. All the major reli-
+gions have gained from developing such perspectives. The change, and arguably 
+corruption, of religious, political and more generally, ideological institutions and 
+beliefs over time is a common historical reality. Judaism, Islam, Christianity, 
+Hinduism, Marxism and Liberalism have all had to identify what is genuine ‘devel-
+28 On fraud in contemporary science, see at least Bell ( 1992), Oreskes and Conway ( 2010), and 
+Park (2000).
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 59 ---
+34
+opment’, what is ‘corruption’ and what is ossified ‘fundamentalism’ in the histori-
+cal development of their traditions. This is abundantly true of science: an historical 
+understanding of science reveals essential features of its dependence on culture, of 
+its connection with philosophy and metaphysics, of its changing methodology and 
+canons of proof, and much more.
+Famously Thomas Kuhn said that it was his unplanned teaching of a history of 
+science course at Harvard University that opened his eyes to a real understanding of 
+science (Kuhn 1970, p.v). A cursory historical study shows that astrology and 
+alchemy were once part of mainstream Western science, with Isaac Newton being a 
+serious practitioner of both into the early eighteenth century. Natural theology was 
+part of the birth of modern science and remained undisturbed at its core up to the 
+time of Darwin and beyond. 29 But science has progressively developed, and its 
+knowledge of the constituents and mechanisms of the world have refined. Astrology, 
+alchemy and natural theology are no longer part of science. This has been an out -
+come of science’s commitment to, minimally, pragmatic methodological natural -
+ism.30 The same standard applied to feng shui takes it out of the scientific family.
+Students can benefit from applying the same historical-philosophical analysis to 
+feng shui, and this can be part of its examination in science classes. Across the spec-
+trum of features of science  – experimentation, authority, prediction, precision, 
+mathematisation, idealisation, coherence, testimony (Matthews 2011) - feng shui 
+can be juxtaposed with science, and similarities and differences drawn out. Feng 
+shui belief in society and classrooms presents not so much a problem for teachers as 
+an opportunity (Martin 1994). Its considered and informed examination is a way for 
+students to learn about the nature of science  (Turgut 2011) and other important 
+social processes – marketing, determiners of belief, and so on. It will be apparent 
+that feng shui violates all constitutive and procedural components of science. Such 
+learning can be science education’s contribution to the cultural health of society. 
+The latter is inversely related to the degree of gullibility, credulity, superstition and 
+embrace of careless unwarranted beliefs in society (Kaminer 1999; Lindeman and 
+Aarnio 2007; Shermer 2002). With better organised curricula, perhaps history, 
+social studies, philosophy and cultural studies departments can cooperatively con -
+tribute to the considered examination of feng shui.
+A co-ordinated, cross-disciplinary approach to the inclusion of feng shui in a 
+curriculum might look like the following table. Such subject co-ordination fits well 
+the aspirations of integrated STEM-Humanities, or STEAM education programmes 
+(Kim 2014).
+29 Of many works on the theological background of early modern science see Hooykaas 
+(1972,  1999), Mascall (1956),  and contributions to Lindberg and Numbers ( 1986).
+30 On scientific naturalism, and religious responses to it, see Drees (1996, chap. 5).
+M.R. Matthews
+
+--- PAGE 60 ---
+35
+School Curriculum Subjects &T opics
+Religion &
+Ethics
+HistoryS cience Social StudiesP hilosophy
+Christian 
+Missions in 
+China
+Energy Asian Cultural 
+Beliefs
+Religions & 
+Science
+Nature of 
+Science
+v Feng Shui
+Science & Law
+The State and 
+Civil Society
+Ecology Advertising & 
+Pseudoscience
+Causality &
+Determinism  
+References
+American Association for the Advancement of Science (AAAS). (1989). Project 2061: Science 
+for All Americans, AAAS, Washington, DC. Also published by Oxford University Press, 1990.
+Aczel, A. D. (2001). The riddle of the compass: The invention that changed the world . Orlando: 
+Harcourt.
+Alexander, C. (1987). A timeless way of building. New York: Oxford University Press.
+Bell, R. (1992). Impure science: Fraud, compromise and political influence in scientific research. 
+New York: Wiley.
+Blackmore, J. T. (1989). Ernst Mach leaves “the Church of Physics”. British Journal for Philosophy 
+of Science, 40, 519–540.
+Bloembergen, N. (1980). Physics. In L.  A. Orleans (Ed.), Science in contemporary China  
+(pp. 85–109). Stanford: Stanford University Press.
+Bruun, O. (2008). An introduction to Feng Shui. Cambridge: Cambridge University Press.
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 61 ---
+36
+Bruun, O., & Kalland, A. (Eds.). (1995). Asian perceptions of nature  – A critical approach . 
+London: Curzon Press.
+Bunge, M. (1982). The revival of causality. In G. Floistad (ed.), Contemporary philosophy, vol. 
+2, (pp. 133–155) The Hague: Martinus Nijhoff, Reproduced in Martin Mahner (Ed.), Selected 
+essays of Mario Bunge, (2001), (pp. 57–74) Amherst: Prometheus Books.
+Bunge, M. (1991). What is science? Does it matter to distinguish it from pseudoscience? New 
+Ideas in Psychology, 9, 245–283.
+Bunge, M. (2000). Energy: Between physics and metaphysics. Science & Education, 9 (5), 
+457–461.
+Bunge, M. (2011). Knowledge: Genuine and bogus. Science & Education, 20(5–6), 411–438.
+Capra, F. (1984). The Tao of Physics, 2nd revised edition of 1975 original . New York: Bantam 
+Books.
+Chan, W.-T. (1957). Neo-Confucianism and Chinese scientific thought. Philosophy East and West, 
+6(4), 309–332.
+Chan, W.-T. (1963). A source book in Chinese philosophy. Princeton: Princeton University Press.
+Chan, W.-T. (1967). Chinese philosophy, 1949–1963: An annotated bibliography of mainland 
+China publications. Honolulu: East-West Center Press.
+Chen, X., & Wu, J. (2009). Sustainable landscape architecture: Implications of the Chinese phi -
+losophy of ‘unity of man with nature’ and beyond. Landscape Ecology, 24(8), 1015–1026.
+Chen, R. F., Eisenkraft, A., Fortus, D., Krajcik, J., Neumann, K., Nordine, J., & Scheff, A. (Eds.). 
+(2014). Teaching and learning of energy in K-12 education. Dordrecht: Springer.
+Coopersmith, J.  (2010). Energy, the subtle concept: The discovery of Feynman’s blocks from 
+Leibniz to Einstein. Oxford: Oxford University Press.
+Cronin, V . (1955). The wise man from the west: Matteo Ricci and his Mission to China. New York: 
+Harper Collins.
+Dainian, F., & Cohen, R. S. (Eds.). (1996). Chinese studies in the history and philosophy of science 
+and technology. Dordrecht: Kluwer Academic Publishers.
+Department of Energy (DoE) USA. (2012). Energy literacy: Essential principles an fundamental 
+concepts for energy education. Washington, DC: US Department of Energy.
+d’Elia, P.M. (1960). Galileo in China. Relations through the Roman College between Galileo 
+and the Jesuit Scientist-Missionaries (1610–1640) , (S.  Rufus, Trans.). Cambridge: Harvard 
+University Press.
+Derksen, A.  A. (1993). The seven sins of pseudoscience. Journal for General Philosophy of 
+Science, 24, 17–42.
+Drees, W. B. (1996). Religion, science and naturalism. Cambridge: Cambridge University Press.
+Eitel, E. J. (1873). Buddhism: Its historical, theoretical and popular aspects. London: Trübner &.
+Eitel, E.J. (1873/1987). Feng Shui: The rudiments of natural science in China, Lane, Crawford & 
+Co., Hong Kong, Graham Brash, Singapore.
+Eitel, E.J. (1895/1983). Europe in China: A History of Hong Kong , (ed. H.J. Lethbridge) Hong 
+Kong: Oxford University Press.
+Emmons, C. F. (1992). Hong Kong’s Feng Shui: Popular magic in a modern urban setting. The 
+Journal of Popular Culture, 26(1), 39–50.
+Feynman, R. P. (1963). The Feynman Lectures on physics, vol. I: Mainly mechanics, radiation, and 
+heat. Pasadena: California Institute of Technology.
+Fishman, Y . I. (2009). Can science test supernatural worldviews? Science & Education, 18 (6–7), 
+813–837.
+Fishman, Y . I., & Boudry, M. (2013). Does science presuppose naturalism (or, indeed, anything at 
+all)? Science & Education, 22(5), 921–949.
+Fung, Y .-L. (1922). Why China has no science – An interpretation of the history and consequences 
+of Chinese philosophy. International Journal of Ethics, 32(3), 237–263.
+Fung, Yu-Lan. (1947). The spirit of Chinese philosophy  (H. E. Rughes, Trans.). London: Kegan 
+Paul.
+M.R. Matthews
+
+--- PAGE 62 ---
+37
+Fung, Yu-Lan. (1949. History of Chinese philosophy  (D.  Bodde, Trans.). Princeton: Princeton 
+University Press.
+Fung, Y .-L. (2008). Selected philosophical writings of Feng Yu-Lan. Beijing: Foreign Languages 
+Press.
+Furth, C. (1983). Intellectual change: From the reform movement to the may fourth movement, 
+1895–1920. In J. K. Fairbank (Ed.), Republican China 1912–1949 (pp. 322–405). Cambridge: 
+Cambridge University Press.
+Gallagher, W. (1993). The power of place: How our surroundings shape our thoughts, emotions & 
+actions. New York: Simon & Schuster.
+Gardner, M. (1981). Science: Good , bad and bogus : A skeptical look at extraordinary claiims . 
+Buffalo: Prometheus Books.
+Gong, Y . (1996). Dialectics of nature in China. Beijing: Beijing University Press.
+Grim, P. (Ed.). (1990). Philosophy of science and the occult. Albany: State University of New York 
+Press.
+Grosser, M. (1962). The discovery of Neptune. New York: Dover.
+Guo, P. (2001). The Zangshu, or Book of Burial (S. Field, Trans.). web source. [original ≈ 300bce].
+Guo, P. (2004). The Zangshu, or Book of Burial (J. Zhang, Trans.). Lewiston: Edwin Mellen Press. 
+[original ≈ 300bce].
+Guo, Y . (2014). The philosophy of science and technology in China: Political and ideological influ-
+ences. Science & Education, 23(9), 1835–1844.
+Hacking, I. (1988). Philosophers of experiment. In A. Fine & J. Leplin (Eds.), PSA 1988 (V ol. 2, 
+pp. 147–156).
+Han, K.-T. (2001). Traditional Chinese site selection-Feng Shui: An evolutionary/ecological per -
+spective. Journal of Cultural Geography, 19(1), 75–96.
+Hansson, S.  O. (2009). Cutting the Gordian knot of demarcation. International Studies in the 
+Philosophy of Science, 23, 237–243.
+Hansson, S. O. (2013). Defining pseudoscience and science. In M. Pigliccci & M. Boudry (Eds.), 
+Philosophy of pseudoscience: Reconsidering the demarcation problem  (pp. 61–77). Chicago: 
+University of Chicago Press.
+Harding, S. G. (1976). Can theories be refuted? Essays on the Duhem-Quine thesis . Dordrecht: 
+Reidel.
+Harman, P.  M. (1982). Energy, force and matter: The conceptual development of nineteenth-  
+century physics. Cambridge: Cambridge University Press.
+Hempel, C. G. (1983). Valuation and objectivity in science. In R. S. Cohen & L. Laudan (Eds.), 
+Physics, philosophy and psychoanalysis: Essays in honor of Adolf Grünbaum  (pp. 111–127). 
+Dordrecht: Reidel.
+Henderson, J. R. (2010). Cosmology and concepts of nature in ancient China. In H. U. V ogel & 
+G. Dux (Eds.), Concepts of nature: A Chinese-European cross-cultural perspective (pp. 198–
+218). Leiden: Brill.
+Hooykaas, R. (1972). Religion and the rise of modern science . Edinburgh: Scottish Academic 
+Press.
+Hooykaas, R. (1999). Fact, faith and fiction in the development of science . Dordrecht: Kluwer 
+Academic Publishers.
+Hsia, P.-C. R. (2012). A Jesuit in the Forbidden City: Matteo Ricci 1552–1610 . Oxford: Oxford 
+University Press.
+Hsu, S.-T. (2003). Yin & Yang of love: Feng Shui for Relationships. St. Paul: Llewellyn.
+Huang, S.-c. (1968). Chang Tsai’s concept of Ch’i. Philosophy East and West, 18(4), 247–260.
+Hume, D. (1777/1902). Enquiries concerning the human understanding and concerning the prin-
+ciples of morals, (L.A. Selby-Bigge, ed), Clarendon Press, Oxford.
+Huston, P. (1995). China, chi and Chicanary: Examing traditional Chinese medicine and chi the -
+ory. Skeptical Inquirer, 19(5), 38–42.
+Hwangbo, A.  B. (1999). A new millennium and feng shui. The Journal of Architecture, 4 (2), 
+191–198.
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 63 ---
+38
+Hwangbo, A. B. (2002). An alternative tradition in architecture: Conceptions in Feng Shui and its 
+continuous tradition. Journal of Architectural and Planning Research, 19(2), 110–130.
+Jin, G., Fan, H., & Liu, Q. (1996). The structure of science and technology in history: On the fac-
+tors delaying the development of science and technology in China in comparison with the west 
+since the 17th century (part one). In F. Dainian & R. C. Cohen (Eds.), Chinese studies in the 
+history and philosophy of science and technology (pp. 137–164). Dordrecht: Kluwer Academic 
+Publishers.
+Kaminer, W. (1999). Sleeping with extra-terrestrials: The rise of irrationalism and the perils of 
+piety. New York: Pantheon Books.
+Kant, I. (1787/1933). Critique of pure reason. (N. K. Smith, Trans.). (2nd edn). London: Macmillan, 
+(First edition, 1781).
+Kim, P. W. (2014). The wheel model of convergence STEAM education based on traditional sci -
+entific contents. Eurasia Journal of Mathematics, Science & Technology Education, 12 (9), 
+2353–2371.
+Knoop, A. (2001). Feng Shui for architects. Newsletter: American Institute of Architects. http://
+www.lezley.info/feng-shui.htm.
+Koyré, A. (1968). Metaphysics and measurement. Cambridge: Harvard University Press.
+Kuhn, T. S. (1970). The structure of scientific revolutions (2nd ed.). Chicago: Chicago University 
+Press. (First edition, 1962).
+Kwok, D. W. Y . (1965). Scientism in Chinese thought: 1900–1950. New Haven: Yale University Press.
+Ladyman, J.  (2013). Toward a demarcation of science from pseudoscience. In M.  Pigluicci & 
+M.  Boudry (Eds.), Philosophy of pseudoscience: Reconsidering the demarcation problem  
+(pp. 45–59). Chicago: University of Chicago Press.
+Lakatos, I. (1970). Falsification and the methodology of scientific research Programmes. In 
+I.  Lakatos & A.  Musgrave (Eds.), Criticism and the growth of knowledge  (pp.  91–196). 
+Cambridge: Cambridge University Press.
+Lakatos, I. (1978). Introduction: Science and pseudoscience. In J. Worrall & G. Currie (Eds.), The 
+methodology of scientific research programmes: Volume I (pp. 1–7). Cambridge: Cambridge 
+University Press.
+Laudan, L. (1983/1996). The demise of the demarcation problem. In L. Laudan Beyond positivism 
+and relativism: Theory, method and evidence, Westview Press, Boulder, pp. 210–222.
+Leung, K. (2010). Beliefs in Chinese culture. In  Oxford handbook of Chinese psychology  
+(pp. 221–240). Oxford: Oxford University Press.
+Lim, J. T. Y . (2003). Feng Shui for business and office. Toronto: Warwick Publishing.
+Lin, J. Y . (1995). The Needham puzzle: Why the industrial revolution did not originate in China. 
+Economic Development and Cultural Change, 43(2), 269–292.
+Lindberg, D.  C., & Numbers, R.  L. (Eds.). (1986). God and nature: Historical essays on the 
+Encounter between Christianity and science. Berkeley: University of California Press.
+Lindeman, M., & Aarnio, K. (2007). Superstitious, magical, and paranormal beliefs: An integrative 
+model. Journal of Research in Personality, 41, 731–744.
+Lip, E. (2008). Feng Shui for success in business. Singapore: Marshall Cavendish.
+Mach, E. (1910/1992). Sensory elements and scientific concepts. In J.  Blackmore (ed.) Ernst 
+Mach: A deeper look, Kluwer Academic Publishers, Dordrecht, pp. 118–126.
+Mahner, M. (2007). Demarcating science from pseudoscience. In T.  Kuipers (Ed.), Handbook 
+of the philosophy of science: General philosophy of science- focal issue  (pp.  515–575). 
+Amsterdam: Elsevier.
+Mahner, M. (2012). The role of metaphysical naturalism in science. Science & Education, 21(10), 
+1437–1459.
+Mahner, M. (2013). Science and pseudoscience: How to demarcate after the (alleged) demise of 
+the demarcation problem. In M. Pigliucci & M. Boudry (Eds.), Philosophy of pseudoscience: 
+Reconsidering the demarcation problem (pp. 29–59). Chicago: University of Chicago Press.
+Mak, M. Y ., & Ng, S. T. (2005). The art and science of Feng Shui – A study on architects’ percep-
+tion. Building and Environment, 40(3), 427–434.
+M.R. Matthews
+
+--- PAGE 64 ---
+39
+Mak, M. Y ., & So, A. T. (2015). Scientific Feng Shui for the built environment: Theories and appli-
+cations. Hong Kong: City University of Hong Kong Press.
+Marafa, L. M. (2003). Integrating natural and cultural heritage: The advantage of feng shui land -
+scape resources. International Journal of Heritage Studies 9 Part, 4, 307–324.
+March, A.  L. (1968). An appreciation of Chinese geomancy. Journal of Asian Studies, 27 (2), 
+253–267.
+Martin, M. (1994). Pseudoscience, the paranormal, and science education. Science & Education, 
+3(4), 357–372.
+Mascall, E. L. (1956). Christian theology and natural science: Some questions in their relations . 
+London: Longmans Green & Co..
+Matthews, M. R. (Ed.). (2009a). Science, worldviews and education. Dordrecht: Springer.
+Matthews, M.  R. (2009b). Teaching the philosophical and worldview components of science. 
+Science & Education, 18(6–7), 697–728.
+Matthews, M. R. (2011). From nature of science (NOS) to features of science (FOS). In M. S. 
+Khine (Ed.), Advances in the nature of science research: Concepts and methodologies  
+(pp. 1–26). Dordrecht: Springer.
+Matthews, M. R. (2015). Science teaching: The contribution of history and philosophy of science: 
+20th anniversary revised and enlarged edition. New York: Routledge.
+Miller, J. D. (2004). Public understanding of, and attitudes toward, scientific research: What we 
+know and what we need to know. Public Understanding of Science, 13, 273–294.
+Miner, E. D. (1998). Uranus: The planet, rings and satellites. New York: Wiley.
+Moore, M. (2011). Feng shui scandals cause 20 per cent drop in business, The Telegraph 8th 
+March.
+National Research Council (NRC). (2013). Next generation science standards. Washington, DC: 
+National Academies Press.
+Needham, J. (1963). Poverties and triumphs of the Chinese scientific tradition. In A. C. Crombie 
+(Ed.), Scientific change: Historical studies in the intellectual, social and technical conditions 
+for scientific discovery and technical invention, from antiquity to the present  (pp. 117–153). 
+New York: Basic Books.
+Needham, J., & Ling, W. (1956). Science and civilisation in China. In  History of scientific thought 
+(V ol. 2). Cambridge: Cambridge University Press.
+Nickles, T. (2013). The problem of demarcation: History and future. In M. Pigliucci & M. Boudry 
+(Eds.), Philosophy of pseudoscience: Reconsidering the demarcation problem  (pp. 101–120). 
+Chicago: University of Chicago Press.
+Oreskes, N., & Conway, E. M. (2010). Merchants of doubt: How a handful of scientists obscured 
+the truth on issues from tobacco smoke to global warming. New York: Bloomsbury Press.
+Orleans, L. A. (Ed.). (1980). Science in contemporary China. Stanford: Stanford University Press.
+Park, R. L. (2000). Voodoo science: The road from foolishness to fraud. Oxford: Oxford University 
+Press.
+Park, R. L. (2008). Superstition: Belief in the age of science. Princeton: Princeton University Press.
+Paton, M.  J. (2007). Feng shui: A continuation of the Art of Swindlers? Journal of Chinese 
+Philosophy, 34(3), 427–445.
+Perry-Hobson, J. S. (1994). Feng Shui: Its impacts on the Asian hospitality industry. International 
+Journal of Contemporary Hospitality Management, 6(6), 21–26.
+Pigliucci, M. (2013). The demarcation problem: A (Belated) response to Laudan. In M. Pigliucci 
+& M. Boudry (Eds.), Philosophy of pseudoscience: Reconsidering the demarcation problem  
+(pp. 9–28). Chicago: University of Chicago Press.
+Pigliucci, M., & Boudry, M. (Eds.). (2013). Philosophy of pseudoscience: Reconsidering the 
+demarcation problem. Chicago: University of Chicago Press.
+Popper, K. R. (1963). Conjectures and refutations: The growth of scientific knowledge . London: 
+Routledge & Kegan Paul.
+Porkert, M. (1982). The difficult task of blending Chinese and Western science: The case of the 
+modern interpretations of traditional Chinese medicine. In G. Li, M. Zhang, & T. Cao (Eds.), 
+1 Feng Shui: Educational Responsibilities and Opportunities
+
+--- PAGE 65 ---
+40
+Explorations in the history of science and technology in China  (pp.  553–572). Shanghai: 
+Shanghai Chinese Classics Publishing House.
+Preece, P. F. W., & Baxter, J. H. (2000). Scepticism and gullibility: The superstitious and pseudo-  
+scientific beliefs of secondary school students. International Journal of Science Education, 
+22(11), 1147–1156.
+Queenan, J. (2002). Beyond Feng Shui. Skeptical Inquirer, 12(4).
+Radder, H. (Ed.). (2003). The philosophy of scientific experimentation . Pittsburgh: University of 
+Pittsburgh Press.
+Randi, J. (1987). The faith healers. Buffalo: Prometheus Books.
+Randi, J. (1995). An encyclopedia of claims, frauds, and hoaxes of the occult and supernatural . 
+New York: St. Martin’s Press.
+Ricci, M.: 1617/1953 On the Christian mission among the Chinese . In L.L. Gallagher, China in 
+the sixteenth century: The Journals of Matthew Ricci, 1583–1610, Random House, New York.
+Rossbach, S. (1983). Feng Shui: The Chinese Art of Placement. New York: E.P. Dutton.
+Rossbach, S. (1987). Interior design with Feng Shui. New York: E.P. Dutton.
+Rule, P. A. (1986). K’ung-tzu or Confucius? The Jesuit interpretation of Confucianism . Sydney: 
+Allen & Unwin.
+Rutt, R. (1996). The book of Changes (Zhouyi): A bronze age document. Richmond: Curzon Press.
+Sagan, C. (1996). The demon-haunted world: Science as a candle in the dark . London: Headline 
+Book Publishing.
+Schofield, R. E. (1970). Mechanism and materialism: British natural philosophy in an age of rea-
+son. Princeton: Princeton University Press.
+Shapiro, J. (2001). Mao’s war against nature: Politics and environment in revolutionary China . 
+Cambridge: Cambridge University Press.
+Shermer, M. (1997). Why people believe weird things: Pseudoscience, superstition, and other 
+confusions of our time. New York: W.H. Freemand & Co..
+Shermer, M. (2002). ‘Feng Shui’, The Skeptics encyclopedia of pseudoscience (V ol. 2, pp. 111–
+112). Santa Barbara: ABC-CLIO.
+Sivin, N. (1984). Why the scientific revolution did not take place in China  – Or Didn’t it? In 
+E. Mendelshohn (Ed.), Transformation and tradition in the sciences (pp. 531–554). Cambridge: 
+Cambridge University Press.
+Skinner, S. (1980). Terrestrial astrology: Divination by geomancy. London: Routeledge & Kegan 
+Paul.
+Skinner, S. (2008). Guide to the Feng Shui compass: A compendium of classical Feng Shui . 
+Singapore: Golden Hoard Press.
+Skinner, S. (2015). Advanced flying star Feng Shui. Singapore: Golden Hoard Press.
+Smith, R.  J. (1991). Fortune-tellers and philosophers. Divination in Chinese society . Boulder: 
+Westview Press.
+Spence, J. D. (1984). The memory palace of Matteo Ricci. New York: Penguin.
+Tang, Y . (2015a). Confucianism, Buddhism, Daoism, Christianity and Chinese culture. Dordrecht: 
+Springer.
+Tang, Y . (2015b). Some reflections on new confucianism in Chinese mainland culture of the 
+1990s. In Y . Tang (Ed.), Confucianism, Buddhism, Daoism, Christianity and Chinese culture  
+(pp. 67–78). Dordrecht: Springer.
+Tang, Y . (2015c). On the clash and coexistence of human civilizations. In Y . Tang (Ed.), Confucianism, 
+Buddhism, Daoism, Christianity and Chinese culture (pp. 291–307). Dordrecht: Springer.
+Thurs, D. P., & Numbers, R. L. (2013). Science, pseudoscience, and science falsely so-called. In 
+M. Pigliucci & M. Boudry (Eds.), Philosophy of pseudoscience: Reconsidering the demarca -
+tion problem (pp. 121–144). Oxford: Oxford University Press.
+Tobin, K. (2000). Constructivism in science education: Moving on. In D.  C. Phillips (Ed.), 
+Constructivism in education  (pp.  227–253). Chicago: National Society for the Study of 
+Education.
+M.R. Matthews
+
+--- PAGE 66 ---
+41
+Tobin, K. (2015). Connecting science education to a world in crisis. Asia-Pacific Science Education, 
+1, 2. doi:10.1186/s41029-015-0003-z.
+Too, L. (1998). Essential Feng Shui: A step-by step guide to enhancing your relationships,health 
+and prosperity. London: Random House.
+Turgut, H. (2011). The context of demarcation in nature of science teaching: The case of astrology. 
+Science & Education, 20(5–6), 491–515.
+Wegman, M. E. (1980). Biomedical research: Clinical and public health Aspects. In L. A. Orleans 
+(Ed.), Science in contemporary China (pp. 269–294). Stanford: Stanford University Press.
+Weinert, F. (1995). The Duhem-Quine thesis revisited. International Studies in Philosophy of 
+Science, 9(2), 147–156.
+Wong, G. (1963). China’s opposition to Western science during the late Ming and Early Ch’ing. 
+Isis, 54(1), 29–49.
+Wright, J. (2010). Mission to China: Matteo Ricci and the Jesuit Encounter with the east. London: 
+Faber.
+Yoon, H.-K. (2006). The culture of Fengshui in Korea: An exploration of East Asian Geomancy . 
+Plymouth: Rowan & Littlefield.
+Yosida, M. (1973). The Chinese concept of nature. In S. Nakayama & N. Sivin (Eds.), Chinese 
+science: Explorations of an ancient tradition (pp. 71–89). Cambridge, MA: Harvard University 
+Press.
+Zhang, D. (2002). Key concepts in Chinese philosophy, (translated and edited by Edmund Ryden). 
+Beijing: Foreign Languages Press.
+1 Feng Shui: Educational Responsibilities and Opportunities

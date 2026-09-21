@@ -1,0 +1,1085 @@
+Title: The Enlightenment: Truths Behind a Misleading Abstraction
+Pages: 67-90
+
+--- PAGE 67 ---
+43
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_2
+Chapter 2      
+The Enlightenment: Truths Behind 
+a Misleading Abstraction                                      
+Robert Nola
+In trying to come to understand what ‘The Enlightenment’ means, enlightenment is 
+not always readily forthcoming. Historians are prone to “periodize” history (mainly 
+European history) using terms such as ‘The Renaissance’, ‘The Reformation’, ‘The 
+Age of Reason’, ‘The Enlightenment’ (are these last two the same?), ‘The Romantic 
+Age’, ‘The Age of Revolutions’, ‘The Modern Age’, and so on. What distinguishes 
+one period from another is often hard to determine. Here the focus is on the period 
+of “The Enlightenment”, its scope, the content of its characteristic doctrines, their 
+epistemic standing and some critics of the (idea of) the Enlightenment.
+Of the multifarious issues that surround The Enlightenment, the following few 
+are selected for attention in this essay. Section 2.1 of this paper canvases a few of the 
+competing accounts of when The Enlightenment occurred, how many “enlighten -
+ments” there were and what some of its central doctrines might be. As a leading 
+hypothesis I draw (but not uncritically) on Jonathan Israel’s idea that there are just 
+two aspects to The Enlightenment, the Radical and the Moderate, and his more 
+detailed account, in the form of eight cardinal points, of how one might characterise 
+the Radical Enlightenment. Section 2.2 makes some suggestions that expand on the 
+role of science in The Enlightenment that are not well captured in Israel’s account. 
+Section 2.3 develops some brief comments about what it might be for a person to be 
+enlightened about some subject matter. Note here that the word ‘enlightened’ is an 
+adjective that is applied to a person. This is to be distinguished from its nominaliza-
+tion when it is turned into the abstract noun ‘The Enlightenment’. It will be claimed 
+that its denotation remains quite unclear; if not treated with care it is a misleading 
+abstraction.
+In Sect. 2.4 it is suggested that talk about ‘The Enlightenment’ is better replaced 
+by an epidemiological approach that considers the scatter of enlightened and unen-
+lightened people at a time in any given society. This is the kernel of hard fact about 
+R. Nola (*) 
+School of Humanities, The University of Auckland, Auckland, New Zealand
+e-mail: r.nola@auckland.ac.nz
+
+--- PAGE 68 ---
+44
+“The Enlightenment” as it exists in a given society at a time. The approach taken 
+here is that of methodological individualism in which a seemingly holistic concept 
+like “Enlightenment” is given an analysis in terms of individual people who are 
+enlightened to some degree or in some respect. Section 2.5 considers some of the 
+definitional comments made by Mendelssohn and Kant in their respective accounts 
+of The Enlightenment; these are just two of the many early attempts to characterise 
+the Enlightenment. The final Sects. 2.6 and 2.7 consider some of the claims made 
+by some recent detractors of the Enlightenment (such as John Gray, Horkheimer 
+and Adorno). Their claims have gained some currency but, as will be argued, they 
+are not convincing and are often implausible. But they are part of the current wide-
+spread denigration of “The Enlightenment” that has reached beyond philosophy and 
+sociology into science education where typically one author, for example, maintains 
+that: ‘Enlightenment epistemology of science is imbued with cultural meanings of 
+gender’ and that the Enlightenment gave rise to all manner of undesirable dualisms 
+(Brickhouse 2001, p. 283).
+2.1  What Is Enlightenment?
+There is little agreement as to when “The Enlightenment” started. Many suppose 
+that it began at some time during the first half of the 1700s though others push its 
+origin back to a time in the 1600s in order to include the works of Descartes (1596–
+1650), Spinoza (1632–1677) and Newton (the first edition of his Principia 
+Mathematica was published in 1687) as crucial to philosophical and scientific 
+aspects of “The Enlightenment”. It remains a moot point as to whether what some 
+call “the scientific revolution” is to be included within The Enlightenment. The 
+scientific revolution was inaugurated much earlier by Copernicus (his De 
+Revolutionibus was published just before his death in 1543) and was continued by 
+Bacon, Galileo, Kepler, who were followed by many others.
+If “the scientific revolution” is regarded as an independent matter (as it is here), 
+it remains important to trace the influence of both science and the methods of 
+science on “The Enlightenment” conception of rationalism and reason. Matthews 
+follows many in saying: ‘The eighteenth-century Enlightenment was the fruit of the 
+seventeenth-century scientific revolution’ (Matthews 2015, p. 23). Many suppose 
+that “The Enlightenment” ended by the end of the eighteenth century; the decade of 
+the French Revolution 1789–1799 is commonly said to mark its end.
+For some, for example Habermas, these dates are too restrictive. There is still 
+supposed to be an ongoing “project of enlightenment” 1 which remains unfinished. 
+1 There is a quite ordinary sense of the phrase ‘The Enlightenment Project’ in which we can say 
+that some of the ideas and ideals that were inaugurated in the 17th and 18th The Enlightenment 
+period are yet to be fully articulated or even adequately implemented (such as sexual equality). 
+Harbermas, of course, might well invest the phrase with a different meaning as when he talks of 
+“Modernity – an Unfinished Project” at the beginning of the ‘Preface’ to Habermas 1990, p. xix. 
+See also the collection by Honneth and others 1992.
+R. Nola
+
+--- PAGE 69 ---
+45
+More broadly, Bertrand Russell held the view that the enlightenment was a phase in 
+a more general progressive development which began in antiquity, and that reason 
+and challenges to the established order were constant ideals from that time until 
+now. Given what we ordinarily understand by being enlightened and using reason, 
+Russell is right in that it would be odd to claim that the Ancient Greeks, some of the 
+medieval philosophers, as well as theoreticians in our own time, were not enlight -
+ened. A similar point is acknowledged by a leading historian of The Enlightenment, 
+Peter Gay, who speaks of a ‘first enlightenment’ to be found in Ancient Greece and 
+the Roman Empire.2 For him the subsequent “second” seventeenth–eighteenth cen-
+tury enlightenment period is said to be “pagan” in that it rejects much of the inter -
+vening Christian view of the world.
+Is the “The Enlightenment” the same sort of thing in different places in Europe? 
+Some point to the distinctive character of national enlightenments such as “The 
+Scottish Enlightenment”, “The French Enlightenment”, and so on. The historian 
+John G. A. Pocock in his Barbarism and Religion,  V ol. 1, The Enlightenments of 
+Edward Gibbon deliberately uses the plural ‘Enlightenments’ in the subtitle of his 
+book about the various, distinct enlightenments with which Edward Gibbon was 
+allegedly involved. He underlines this plurality by saying: “it is a premise of this 
+book that we can no longer write satisfactorily of ‘The Enlightenment’ as a unified 
+and universal intellectual movement“(Pocock 1999, p. 13). So we are to drop the 
+‘The’ indicating uniqueness. More broadly this suggests that in the attempt to say 
+what “The Enlightenment” is, we are to abandon the idea that in any definition of 
+the concept there is to be found a common core of characteristics which the alleg -
+edly various instances of the several “Enlightenments” all share. To use an idea of 
+Wittgenstein, there might still be a family resemblance between the various kinds of 
+Enlightenment even though there is no essential common core to them all. However 
+on this view it does not emerge clearly just how many distinct “Enlightenments” 
+there really are.
+In three volumes, each about 900 pages long, another prominent historian of The 
+Enlightenment, Jonathan Israel, resists Pocock’s position and claims that there were 
+just two Enlightenments in Europe and America  - Radical and Moderate main -
+stream (or conservative).3 Leading radical enlighteners were, for example, Spinoza, 
+Bayle, Meslier, d’Alembert and Diderot; they advanced social and political ideas 
+that were radically opposed to prevailing restrictive views advocated by the church 
+and absolutist monarchies. Leading moderate enlighteners included, for example, 
+Hume, Locke, V oltaire and (the later) Rousseau.4 To various extents they drew back 
+2 Gay 1967, volume 1; see Book One, Chapter Two, entitled ‘The First Enlightenment’ and the 
+bibliographical essay on pages 464–81. Note that the subtitle to volume 1 is ‘The Rise of Modern 
+Paganism’.
+3 In Israel 2006, chapters 1.1 and 34 ‘Postscript’ the case is made against the “many” enlightenments 
+of Pocock and a supposed “one” enlightenment suggested by Gay. He makes a case for there being 
+just two trends in the enlightenment period, radical and moderate. Though disputed, this will be 
+provisionally accepted here since it is not germane to my main purpose in mentioning Israel’s work.
+4 For an elaboration of this distinction see Israel 2006, section 1.1, pp.  3–15 and section 34 
+‘Postscript’. The later Rousseau is even said to become ‘… the moral “prophet” as it were of one 
+form of Counter-Enlightenment’ (ibid., p 11).
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 70 ---
+46
+from the more radical stance and even in some cases were apologetic towards, if not 
+supportive of, the absolutist tendencies to be found in churches, governments and/
+or monarchies. Of the two kinds of enlightenment the moderate became the much 
+more dominant in its public support and approval.
+Unlike many historians of The Enlightenment, Israel assists discussion of what 
+doctrines the Radical Enlightenment endorsed by distilling out eight, brief cardinal 
+points which he takes to characterise it. In this essay I will, with one modification, 
+provisionally accept Israel’s cardinal points as a useful hypothesis to keep in mind; 
+though it should also be recognised that the thinkers of the Enlightenment were 
+quite diverse in their doctrines and not all would have endorsed every one of the 
+following cardinal points in exactly the form expressed5:
+ (1) adoption of philosophical (mathematical-historical) reason as the only and 
+exclusive criterion of what is true;
+ (2) rejection of all supernatural agency, magic, disembodies spirits and divine 
+providence;
+ (3) equality of all mankind (racial and sexual);
+ (4) secular ‘universalism’ in ethics anchored in equality and chiefly stressing 
+equity, justice and charity;
+ (5) comprehensive toleration and freedom of thought based on independent critical 
+thinking;
+ (6) personal liberty of life style and sexual conduct between consenting adults, 
+safeguarding the dignity and freedom of the unmarried and homosexuals;
+ (7) freedom of expression, political criticism, and the press, in the public sphere;
+ (8) democratic republicanism as the most legitimate form of politics.6 (Israel 2006, 
+p. 866)
+5 Abner Shimony makes a good point about the diversity of views of leading members of the 
+Enlightenment. They were: ‘rationalists, empiricists and mediators; Newtonians and dissenters 
+from Newton: system builders and skeptics; theists, deists, agnostics and atheists; cultural univer-
+salists and cultural pluralists; advocates of a variety of bases of ethics; a wide spectrum of political 
+theorists; physicalists and mentalists; determinists and advocates of free will; trusters and distrust-
+ers in benevolent despotism; believers and disbelievers in the inevitability of human progress. 
+Some core commitments, shared by almost all of the Enlightenment philosophers, can be reason -
+ably extracted and these, in my opinion, need little modification to be permanently valuable’ 
+(Shimony 1997, p. S2). Shimony then proceeds to give a list of 10 core commitments of The 
+Enlightenment which differ from those of Israel; but there is no deep inconsistency, or great 
+distance, between the two lists. Shimony’s list puts greater emphasis on matters to do with science 
+and could have just as well been used here instead of Israel’s eight cardinal points. Finally Shimony 
+examines four criticisms of The Enlightenment and makes convincing responses to them 
+(pp. S3-S9). His account is laid out and discussed in Matthews (2015, pp.24–26).
+6 In Israel 2011, section 1.1 (‘Defining the Enlightenment’, pp.  1–8) the author reviews other 
+attempts at a definition of ‘The Enlightenment’ and proposes something like (1) to (8) in truncated 
+form. He takes it to be a unitary movement occurring on both sides of the Atlantic from about 1680 
+to 1800 which is driven by philosophy (here Spinoza is said to have had an important role at the 
+beginning) and is socially ameliorative in transforming accepted values and practices. The extent 
+to which the Enlightenment is linked to revolution is one aspect of the division between Radical 
+R. Nola
+
+--- PAGE 71 ---
+47
+We can take these eight to points embody central beliefs and values of enlighten-
+ment thought. They can be divided into two broad categories, scientific ((1) and (2)) 
+and social-ethical ((3) to (8)). 7 It is important to note that there is no logical link 
+between scientific aspects of the enlightenment and its social/ethical aspects; each 
+is logically independent of the other. But it just so happens that they do accompany 
+one another, largely because of the more general background role of reason sup -
+posed in The Enlightenment that draws upon the scientific revolution.
+The first two points are an attempt to characterise philosophical and scientific 
+aspects of the Enlightenment; but (1) does not do it adequately as will be argued in 
+Sect. 2.2. Clearly (2) distances science from religion. However this Enlightenment 
+goal has not been realised fully; it is still a matter of dispute when one considers the 
+resurgence of religious views which oppose science such as creationism or intelli -
+gent design or the moderate doctrine of NOMA championed by Stephen J. Gould 
+which gives science and religion non-overlapping, consistent and complementary 
+domains of concern. 8 In contrast (3) to (8) spell out social and ethical aspects of 
+Israel’s Radical Enlightenment. Moderate Enlightenment departed from Radical 
+Enlightenment in that it compromised on some of these social-ethical principles; for 
+some of the non-radicals there was even a backsliding into supporting forms of 
+absolute monarchy, authoritarianism (political and religious), and the like.
+These eight cardinal points do not now have the same radical edge that they 
+might have had in the eighteenth century. But there is a good sense in which we can 
+agree with Habermas, Russell and Gay that the Enlightenment project is unfinished. 
+In some respects the philosophical clarification of what each entails has yet to be 
+fully articulated and agreed upon; and some of the ethical and political goals are 
+only now being realised in some countries (e.g., the rights of gays, same sex mar -
+riage, sexual equality, the exercise of tolerance, and the like). Depending on what 
+country one is in, the conflict between religion and science embodied in (2) still 
+looms large. And the same can be said for the characterisation of science in the 
+seventeenth–eighteenth century enlightenment period. Twentieth century philoso -
+phy of science deepens our understanding of both science and philosophy well 
+beyond what might have been envisaged in that period; and this is still an ongoing 
+process.
+and Moderate trends within the Enlightenment. Cassirer has a different view from Shimony and 
+Israel: ‘The true nature of Enlightenment thinking cannot be seen in its purest and clearest form 
+where it is formulated into particular doctrines, axioms, and theorems; but rather where it is in 
+process, where it is doubting and seeking, tearing down and building up’ (Cassirer 1951, p. ix). But 
+there need be no inconsistency between picking out some cardinal points and also understanding 
+the activity of thinking as some kind of process.
+7 Bristow, 2010, distinguishes three different areas of enlightenment: scientific; moral/political; 
+aesthetic. Gay, 1970, chapters 5 and 6 also includes aesthetics in the various areas of enlighten -
+ment, as does Cassirer, 1951, chapter VII.
+8 For an account of his NOMA, see Gould 1999. For one of the many recent accounts of the conflict 
+between religion and science which rejects Gould’s distinction, see Coyne 2015, pp. 106–12.
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 72 ---
+48
+Given the different ways in which the phrase ‘The Enlightenment’ could be used, 
+some writers might well have thought that the best thing to do is to drop it alto -
+gether. But dropping it has the drawback that a number of eighteenth century think-
+ers used a term equivalent to the English word ‘Enlightenment’ to refer to their 
+period of activity. The term ‘The Enlightenment’ appears to be of late usage in 
+English; according to the on-line OED, the use of the expression beginning with 
+‘The’ followed by capital ‘E’ was only common in the nineteenth century after the 
+time when some say “The Enlightenment” period had ended. On the continent their 
+various terms for ‘The Enlightenment’9 had a longer history and towards the end of 
+the eighteenth century writers on the topic became more self-reflective about what 
+“The Enlightenment” was supposed to be.
+This self-reflection began when Johann Zöllner posed an innocent question 
+‘What is Enlightenment?’ in a footnote of a paper he published in the December 
+1783 issue of Berlinische Monatsschrift. The reflection began in earnest when the 
+same journal published the next year a series of articles which attempted to answer 
+Zöllner’s question, beginning with those of Moses Mendelssohn and Immanuel 
+Kant (these are discussed in Sect. 2.5).10 But there was no general agreement as to 
+what The Enlightenment was. So little clarity about the nature of it was achieved 
+that an anonymous 1790 article in the Deutsche Monatsschrift ‘… argued that the 
+term had become so divorced from any clear conventions of usage that discussions 
+of it had degenerated into “a war of all against all” between combatants who mar -
+shalled their own idiosyncratic definitions’ (Schmidt 1996, p. 2).
+Though the eight cardinal points listed by Israel help anchor discussions about 
+the beliefs and values of enlightenment thought, some might contend that we still 
+remain in the same late eighteenth century state of conflict concerning its definition. 
+Given what some contemporary critics of the Enlightenment think it is (see Sects. 
+2.6 and 2.7), one has good grounds for saying that the situation has not changed 
+very much today. The remainder of this essay attempts to say to what extent it is 
+possible to characterise “The Enlightenment” and to dispel some current miscon -
+ceptions about it.
+2.2  Science and The Enlightenment
+Historians do not always have sufficient understanding of doctrines within philoso-
+phy and the philosophy of science; Israel’s philosophical cardinal point (1) is a good 
+example of this. But the problems here can be readily repaired by making some 
+broad comments about the development of science and the methods of science from 
+the sixteenth to the eighteenth centuries that can replace what is said in Israel’s first 
+9 A related term in German is Aufklärung and in French is éclaircissement. All three terms connote 
+the casting of light upon some matter, or a process of bring something to light.
+10 These two papers and three other contemporary papers are collected in Part I of Schmidt (ed.) 
+1996.
+R. Nola
+
+--- PAGE 73 ---
+49
+cardinal point (1) (but perhaps not as succinctly). Here Israel lists one of the ways 
+in which science and its philosophy has influenced some of the doctrines of The 
+Enlightenment: he speaks of ‘philosophical (mathematical-historical) reason as the 
+only and exclusive criterion of what is true’. But reason is reason, whether in the 
+context of philosophy, mathematics or history. And in none of these cases is it a 
+criterion for truth; this is a separate matter (which reason might well presuppose). 
+The important matter that can be readily agreed upon is the broad role of scientific 
+reasoning in “The Enlightenment” (setting aside the irrelevant appeal to mathemat-
+ics and history). But what might this be?
+Let us set aside questions about whether what is commonly called the “Scientific 
+Revolution” was in one sweep quite revolutionary. However, the models of the cos-
+mos provided by Copernicus in his 1543 De Revolutionibus inaugurated a chain of 
+rethinking of theories of dynamics and cosmology that were developed by a number 
+of thinkers from Galileo to Newton. Though much of this occurred well before sev-
+eral dates suggested for the start of The Enlightenment period, it had an important 
+influence as a scientific exemplar of the kind of reason that any Enlightenment 
+thinker thought they should try to emulate.
+In considering this, we need to distinguish between the products of the various 
+kinds of scientific thinking, such as the laws, theories, postulates and models that 
+were developed, and the processes that were employed to arrive at these products. 
+These processes fall under the general notion of the methods of science such as 
+methods for discovering laws and theories, methods for assessing rival theories 
+(such as Newton’s versus Descartes’ theories of motion in a resisting medium in 
+which Newton’s theory was triumphant), methods for constructing idealized models 
+of real systems (first developed by Galileo but subsequently followed by others), 
+and the like. Not only were the products of the “scientific revolution” quite novel 
+within The Enlightenment period; but also the methods of science themselves were 
+novel and contributed to our idea of how reason can function when dealing with not 
+only the natural world but also the human and social worlds to which Enlightenment 
+thinkers were to turn their attention. It is this broad appeal to the notion of the role 
+of reason and method in science and elsewhere that can replace Israel’s cardinal 
+point (1).
+But a little more needs to be said of this. The works of scientists from Copernicus 
+onwards often contain an account of what the role of reason ought to be in science. 
+Francis Bacon promulgated principles of reason such as principles of induction and 
+inductive elimination. Descartes was preoccupied by setting out his ‘Rules for the 
+Direction of the Mind’. Much more successful and influential in science were 
+Newton’s ‘Rules of Reasoning in Philosophy’ that stand at the beginning of Book 
+Three ‘System of the World’ in his Principia and which were employed in arriving 
+at his law of Universal Gravitation. Subsequently philosophers developed theories 
+about the extent and limitations of reason which are still open to debate (for example, 
+Kant in his 1781 Critique of Pure Reason). If there is an unfinished project of “The 
+Enlightenment” it is in the area of the philosophy of science and its  articulation 
+of what scientific reason might be, and reason more generally. Theories of method, 
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 74 ---
+50
+logic and the nature of rationality grew in the twentieth century leading to a deepening 
+account of scientific reason along with more broad theories within epistemology. 11 
+The eighteenth century Enlightenment had only an intimation of this.
+Some of the issues involved here are well-stated by Rebecca Goldstein in her 
+recent critical review of a book on The Enlightenment:
+… the soul of the Enlightenment unmistakably lay in an endorsement of reason, though not 
+necessarily a priori reason, since many Enlightenment thinkers were robust empiricists …. 
+They appealed to rational powers, which meant that only certain kinds of justification for 
+beliefs would be countenanced—namely those that were, in principle, accessible to all 
+humans relying only on our shared cognitive capacities. Insisting on this standard was the 
+Enlightenment’s revolution. There could be no privileged knowers who appealed to special 
+sources of knowledge—available to them by way of heavenly revelation, or authoritative 
+status, or intimations to which their group was privy. Even tradition couldn’t stand merely 
+on its longevity but had to justify its right to continue to exist.
+The Enlightenment, in short, amounted to an assertion of epistemic democracy. Whatever 
+can be known by one person can, in principle, be known by all, as long as they master the 
+techniques for knowing that are relevant to a field. It’s no accident that the development of 
+modern empirical science was intertwined with the Enlightenment. (Goldstein 2015, p. 51)
+Talk of there being no privileged knowers with a special inside track to knowl -
+edge and there being epistemic democracy for all of those who are willing to make 
+the intellectual effort, not only underpins Israel’s point (2) about the rejection of the 
+supernatural but prepares the ground for the positive features of method and reason 
+suggested in point (1) that give content to the principles of an epistemic democracy 
+advocated by many enlightenment thinkers. It is this conception of epistemic 
+democracy, along with the principles of scientific reason, that were being developed 
+from the eighteenth century onwards, which lie behind Israel’s cardinal points (1) 
+and (2). It is this expanded conception of these points which will be assumed here.
+2.3  What Is It to Be Enlightened?
+What do we normally mean by being enlightened? In our ordinary use of the term a 
+person can be enlightened when they are instructed about, or informed about, or 
+have some ““light” cast upon”, some matter about which they previously knew little 
+or nothing. Negative connotations are added when it is said that a person is at the 
+same time freed from ignorance, superstition or prejudice. In addition, a person can 
+be said to be enlightened when they acquire some understanding of some matter or 
+be in a position to offer an explanation of it. Thus in reading Newton’s Principia one 
+can become enlightened, say, about the universal character of gravitational 
+11 There is a good account of aspects this in Shimony 1997. Shimony is a philosopher of science 
+who is well known for defending Bayesianism as the method of science to adopt; he is not an 
+historian like most of the writers considered so far. There are also a few hints about the role of sci-
+ence and it methods in Cassirer 1951, chapter II, though his comments are largely with respect to 
+Newton and some of Newton’s contemporaries.
+R. Nola
+
+--- PAGE 75 ---
+51
+attraction and how the law that governs it works. Negative connotations are empha-
+sised when it is added that one is freed from some former prejudice, superstition or 
+ignorance about the nature of gravitation as it acts in the universe.
+Could one say that one’s tax consultant enlightens one about one’s tax returns? 
+This is not ruled out in the above and remains an acceptable use of the term in ordi-
+nary English when one is informed about factual matters. (However note that no 
+negative connotation such as superstition or prejudice need be involved; it is simply 
+a matter of not knowing.) If one wished to set aside such a case, one would have to 
+add that being informed about factual matters may not be the proper intensional 
+object of “being enlightened about …”. Rather, the proper object of being enlight -
+ened is acquiring some explanatory knowledge or understanding rather than merely 
+knowledge of particular fact. Enlightenment about, say, gravitational attraction is 
+akin to gaining knowledge of, or understanding about, Newton’s theory of gravita-
+tional attraction and its associated law12; this is different from merely getting knowl-
+edge of a factual matter such as the gravitational mass of the Moon. In addition 
+becoming enlightened may well involve using some of the principles of epistemic 
+democracy suggested in the previous section.
+Setting aside what some early writers may have said about the nature of the 
+enlightenment (see Sect. 2.5) we may proceed in a slightly anachronistic way and 
+consult the on-line OED. It says two things about being enlightened: (1) ‘… bring -
+ing someone to a state of greater knowledge, understanding, or insight; the state of 
+being enlightened in this way’. Here there is emphasis on the state of acquiring 
+some initial knowledge or understanding. But further emphasis on the word ‘greater’ 
+suggests a pervasive feature of past and present science, viz., its ability to grow. 
+Science is not static in what it produces; in line with its epistemic democracy, it is 
+dynamic and revisionary giving us new or improved laws, hypotheses and theories 
+as well as methods and techniques of observation gathering and experimentation.
+Within theories of scientific method criteria have been proposed in which we can 
+determine the extent to which we have improved knowledge (or more correctly, 
+beliefs) over previous knowledge (beliefs); or improved understandings or explana-
+tions when compared with previous attempts at understanding or explanation; or we 
+have ways of determining any increase in truth-likeness or verisimilitude; or we 
+have ways of determining when we have some degree of evidential support, or 
+greater evidential support, for our laws, theories and hypotheses. Here emphasis is 
+placed on the idea of enlightenment being a process within the growth of knowl -
+edge. There is nothing novel about this aspect of enlightenment so defined. It is a 
+feature of science both before and after the commonly suggested seventeenth and 
+eighteenth century scope of The Enlightenment period.
+12 Of course one might not be fully enlightened about Newton’s theory of gravitational attraction 
+but only partially so. However partial enlightenment is a step along the path to greater enlighten -
+ment as one’s knowledge and understanding develops. Think of the more limited understanding of 
+Newton himself and his application of his theory when compared with later developments of the 
+theory of gravitation suggested by Laplace, Lagrange and Hamilton.
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 76 ---
+52
+The on-line OED goes on to make an important contrast between an earlier state 
+of pre-enlightenment understanding which is then replaced by an enlightened view: 
+(2) ‘The action or process of freeing human understanding from the accepted and 
+customary beliefs sanctioned by traditional, esp. religious, authority, chiefly by 
+rational and scientific inquiry into all aspects of human life, which became a char -
+acteristic goal of philosophical writing in the late seventeenth and eighteenth centu-
+ries.’ This is not merely a matter of getting greater and greater understanding, this 
+being one of the important critical functions of science in relation to earlier sci -
+ences. Importantly enlightenment has a further critical and revisionary function in 
+that customary, traditional and religious beliefs and various kinds of authorized 
+beliefs are to be replaced, this being the first step on the path to initial (if not com -
+plete) enlightenment. And by what means are the pre-enlightened beliefs and values 
+to be replaced by enlightened beliefs and values? This is something called “rational-
+ity” or “scientific method” - whatever they are.13 Thus the methods of science help 
+us in both aspects of the notion of enlightenment distinguished by the OED. Its use 
+helps people make the first move from pre-enlightened beliefs and values to enlight-
+ened beliefs and values; and then it helps people to get improved beliefs once the 
+initial move has been made out of the pre-enlightened phase.
+The above will suffice to say what the property of being enlightened might be 
+when predicated of persons. In addition the kind of knowledge involved is given 
+some content by the eight cardinal points listed by Israel (noting the revised (1)). 
+Thus a person is enlightened when they apply scientific methods and advocate tol -
+eration, freedom of expression, sexual equality, republicanism, etc. To require that 
+they also conduct their lives in the light of these principles and actually practice 
+what they advocate is to adopt a strongly committed version of enlightenment. They 
+are also enlightened when they use some principles of scientific method to argue for 
+some point of view and do not abandon epistemic democracy in favour of some kind 
+of epistemic privilege, as might their religious rivals.
+What now counts as being unenlightened? A necessary condition for a person to 
+be enlightened would be, for example, to believe in toleration, or freedom of expres-
+sion or sexual equality (i.e., to advocate most or all of the eight cardinal beliefs and 
+values listed by Israel); to fail to so believe would make one unenlightened. However 
+mere belief might not be enough for enlightenment: one is required also to practice 
+what one believes leading to a more strenuous form of enlightenment. Note that not 
+being enlightened is not to be confused with the Counter-Enlightenment; this is a 
+philosophical and political movement opposed to some or all of the main tenets of 
+The Enlightenment (such as Israel’s eight points). One can be unenlightened but not 
+be a member of the Counter-Enlightenment.
+13 As already suggested, the nature and scope of scientific method and rationality, though an impor-
+tant part of the seventeenth and eighteenth century enlightenment period, is still part of the unfin-
+ished project of the enlightenment. See for example the growth of statistical methods or random 
+clinical trials during twentieth century science. There are still issues to be addressed in a full 
+account of the nature of scientific method and the scope of rationality in various spheres. This is 
+suggested in the revisionary comments on Jonathan Israel’s cardinal points (1) and (2) of the previ-
+ous section 2. See also Shimony 1997.
+R. Nola
+
+--- PAGE 77 ---
+53
+2.4  The Enlightenment Versus the Epidemiology of Being 
+Enlightened
+Epidemiology is the study of the distribution of some property throughout a given 
+population (which could be human or non-human, though here we will stay with 
+human populations). One could focus on any property (over a given time). Typically 
+within epidemiology the property is a medical one, such as the spread of influenza 
+in a population over a given time. But one can consider the distribution of non-  
+medical properties across a population such as being over 2 m tall, or owning two 
+or more homes or having more than 10 million dollars in wealth. The population is 
+then divided into two groups (which can have fuzzy boundaries); those who have 
+the specified property and the complementary group of those who do not have the 
+property.
+In the same way one can also consider the distribution of mental properties over 
+a population, such as the property of believing in some proposition, that p. Thus in 
+a given population some will believe that the free market is the most efficacious 
+form of economic organisation while others will not; some will believe that God 
+exists while others will not; some will believe in creationism while others will not; 
+and so on for any belief whatever. Here the population is divided into two groups: 
+those who believe some claim that p and the complementary group who do not 
+believe that p (which can be further divided into those who positively disbelieve that 
+p, or have no belief either way that p, or have suspended belief in p, or are so con -
+fused that they do not know what they believe).14
+Now apply the epidemiology of beliefs to the particular case of the beliefs char-
+acteristic of “The Enlightenment” (such as the conjunction of (most of) Israel’s 
+eight cardinal points). It would be an empirical matter to determine just how wide-
+spread were these Enlightenment beliefs at any given time in, say, the seventeenth 
+and eighteenth centuries across Europe (though not an empirical investigation that 
+one could easily carry out now).
+Israel gives us a hint of these empirical matters when he says:
+In this present work, over seventy writers French, Dutch, German, Italian and British active 
+within the period between 1660 and 1750 have been identified as significantly contributing 
+to formulating and publicizing the ideas which drove the Radical Enlightenment, in con -
+junction with social forces and grievances where these helped to produce the ideas and 
+shape the controversies. … among the five main ‘national’ contingents, the French group 
+turns out to have been by far the largest, the Dutch the second largest, and the British group 
+seemingly the smallest.’ (Israel 2006, p. 867)
+We can say that, in a given society, a few people (such as the above writers) are the 
+enlightened at that time, and indeed the radically enlightened. Just how many fellow 
+travellers in each society were also radically enlightened is hard to tell. But we can 
+say that the number of people in a given society who were (radically) enlightened 
+14 On the application of epidemiology to cultural contexts see Sperber 1996, ‘Introduction’ pp. 1–6 
+and Chapter 4 ‘The Epidemiology of Beliefs’.
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 78 ---
+54
+was quite small when compared with the number of people in the complementary 
+class who were not enlightened at all (and this would include a small number of 
+members of the Counter-Enlightenment who knew of the doctrines of the radically 
+enlightened few but were opposed to them).
+This highlights the way in which the use of the phrase ‘The Enlightenment’ can 
+mislead. It is an abstract noun which is not clear in its denotation. Does it refer to a 
+period of time? Or a body of doctrine? Or some people? Or a movement or a pro -
+cess? Or what? Context of use might not always help here. However an approach 
+based on the epidemiology of belief invites us to consider (i) the adjective ‘enlight-
+ened’ which can apply to the members of a class of people and (ii) the adjective 
+‘unenlightened’ which applies to the members of a complementary class. A period, 
+or an “Age”, might be characterised by having a small number of enlightened peo-
+ple in it while also containing a large number of unenlightened people. In such a 
+case the phrase “The Enlightenment” when applied to the Age as a whole will be 
+misleading in another way.15
+Here there is an important distinction to mark that perhaps Kant is trying to make 
+when he says: ‘If it is asked “Do we now live in an enlightened age?” the answer is 
+“No”, but we do live in an age of enlightenment” (Kant 1996, p. 62). We do not live 
+in an enlightened age because of the paucity of people who are in fact enlightened; 
+the complementary class of the unenlightened is, in comparison, quite large and 
+they are dominant. But because there are some enlightened people, as few as they 
+may be, there is some enlightenment in the age.
+Importantly there is no overall thing such as “The Enlightenment” to talk about. 
+In one of its uses the phrase ‘The Enlightenment’ might be thought to pick out an 
+enlightened age; but according to Kant there is no such thing to pick out as there is 
+no general enlightenment distributed across all, or most, people. In another of its 
+uses the phrase ‘The Enlightenment’ might refer to an “age of enlightenment”; but 
+then few in the age are enlightened and there is a much bigger complementary class 
+of people to take into account who are not enlightened. What is being talked about 
+is often unclear or misleading. The distinction Kant attempts to make becomes 
+clearer on the epidemiological approach taken here. It separates the use of an adjec-
+tive ‘enlightened’ when applied to people (or not as the case may be) from the more 
+obscure ‘The Enlightenment’ which is unclear in its denotation and so can mislead 
+those who use the term.
+Since being enlightened is not an “all-or-nothing” matter, the epidemiological 
+approach needs modification. Suppose we have some persons x who live in a given 
+society S (or Age) over a time t; and suppose further that they hold some  enlightened 
+beliefs and values, B, on some subject matter M. The beliefs they hold might be 
+some of the eight given in Israel’s (modified) list, or at least some smaller number 
+of them which form a cluster. The first modification arises as follows. We should not 
+expect that person x always be fully enlightened about subject matter M; they may 
+15 Approaching matters in this way gives an account of the seemingly holist notion of Enlightenment 
+in terms of the mental properties of people; in this way the proposed analysis is of a piece with the 
+doctrine of methodological individualism.
+R. Nola
+
+--- PAGE 79 ---
+55
+be only partially so (as an example see footnote 12 on this). Taking this into account 
+allows that a person’s enlightenment can come in degrees which can then be 
+comparative.
+As an illustration consider John Locke’s well known account of tolerance. 
+Locke’s attempt to develop an account of the concept of toleration is at best partial; 
+modern accounts are, in several respects, an improvement. Infamously Locke 
+restricts the extension of the concept of those to be tolerated; his account is partial 
+since atheists are not to be included and he has serious doubts about Catholics. 
+(Locke 1689/2010–15, section 10, p. 21). Since Locke’s time we have expanded the 
+extension of those who must be tolerated making it a universal ideal. However the 
+extent to which tolerance is actually practised between groups and nations is a sepa-
+rate empirical socio-historical matter which tells us about the degree to which 
+enlightenment ideals are actually realised. For various groups of people the exten -
+sion of tolerance is at best partial; so we can legitimately speak of the unfinished 
+project of enlightenment.
+A second illustration is the case of David Hume who is often cited as a leading 
+enlightenment figure. Is he always enlightened when it comes to race? Hume tells 
+us that ‘the most rude and barbarous of the whites, such as the ancient Germans, the 
+present Tartars, have still something eminent about them” (Hume  1985, p. 208, fn. 
+10). But not so the “negroes” as Hume calls them. None of them have any redeem-
+ing features at all: ‘I am apt to suspect the negroes to be naturally inferior to whites”. 
+That negroes accomplish anything is to be compared to ‘… a parrot who speaks a 
+few words plainly’ (loc. Cit.). Hume’s espousal of an appalling form of selective 
+racism concerning “negroes” illustrates, at best, a case of “partial enlightenment” 
+(in the sense being distinguished).
+A second modification concerns the possibility that a person x be enlightened 
+about some subject matter M but not about some other subject matter M* (say, they 
+are fully or partially enlightened about the science of gravitational attraction but not 
+fully or partially enlightened about political matters such as republicanism). It is a 
+commonplace observation that some people are enlightened about some subject 
+matter M at a time but not enlightened about other matters such as M*; and yet other 
+people are not enlightened about M at all. Note that all of this can vary over time.
+Further modifications allow that a person’s belief B is not a matter of either full, 
+or no, belief; there are degrees of belief D in between to take into account.16 In addi-
+tion the degree of belief may be sanctioned by some principles of reasoning or 
+principle of scientific method R.17 Clearly people can differ in the respects and the 
+degree in which they are enlightened.
+16 Here one could adopt an account, found in theories of probabilistic degrees of belief, as to how 
+D is to be understood. D can vary on a scale from 0 to 1.
+17 Perhaps this could be expressed more strongly; it is not just that a person’s beliefs are sanctioned 
+by some principles of rationality but a person’s actually holds the belief on the basis of the sanc -
+tioning principles. Being so enlightened is more strenuous in requiring the actual use of principles 
+of reason in belief formation. Being unenlightened would then be accompanied by forming beliefs 
+dogmatically without any appeal to principles like R.
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 80 ---
+56
+This suggests at least seven parameters in terms of which enlightenment can be 
+assessed: <a person x in a society S at a time t, a set of beliefs and values B held by 
+x about some subject matter M, some principles of belief assessment R employed 
+by x, and some degree D to which B are given credence by x>. Or in short: <x S, t, 
+B, M, R, D>. This gives a finer gradation concerning enlightenment; having an 
+enlightened attitude to matters is not an all-or-nothing affair. Importantly as x and t 
+vary (within S) the attempt to find the incidence of beliefs B about M in S will result 
+in a scatter of individuals who are enlightened to some degree; but this will shade 
+off into a scatter of individuals who lack any such beliefs - the unenlightened. As 
+indicated this scatter can vary over time and place; determining what is the scatter 
+is a matter of empirical science.
+The epidemiological approach taken here shows that one cannot talk in a general 
+way about “The Enlightenment”; this is part of the inflation of the term 
+‘Enlightenment’ and its denotational obscurity. Rather there is just the social scatter 
+of the property of being enlightened and unenlightened with respect to people. 
+Perhaps with some charity, the term ‘Enlightenment’ can be understood on some 
+occasions of its use to be a shorthand way of referring to this scatter.
+2.5  Early Attempts to Define ‘Enlightenment’: Moses 
+Mendelssohn and Immanuel Kant
+In his brief 1784 commentary, Moses Mendelssohn does not really attempt to pro -
+vide a definition of the term ‘enlightenment’; but he makes links between it and 
+other notions such as Culture (Kultur) and Education (Bildung) (though the term 
+‘Bildung’ can cover all three concepts). He also makes comments which link nicely 
+with what has been developed in the above sections about the epidemiological scat-
+ter of the property of being enlightened.
+Enlightenment, he says, concerns more theoretical matters, such as our knowl -
+edge and our ability to rationally reflect and to eliminate prejudices. This is said to 
+stand in contrast to culture which is oriented towards more practical matters that can 
+arise in political, ethical and aesthetic contexts. He readily acknowledges the differ-
+ent degrees to which societies can be enlightened; the epidemiology of being 
+enlightened differs between different cultural groups such as Berliners, the English, 
+the Chinese and the Ancient Greeks. He also recognises that enlightenment can 
+come in different degrees: ‘… the enlightenment of a nation is proportional to (1) 
+the amount of knowledge, (2) its importance …. (3) its dissemination through all 
+estates, (4) its accord with their vocations’ (Mendelssohn 1784/1996, p. 55). Each 
+of these four considerations can fit with the above set of parameters for determining 
+the scatter, in any population, of the property of being enlightened.
+Mendelssohn also acknowledges the way in which education is important in 
+spreading enlightenment. Education is the main way of providing us with an enlight-
+R. Nola
+
+--- PAGE 81 ---
+57
+ened view of the world (viz., increasing knowledge and understanding of the world), 
+a critical stance from which to evaluate prejudice, and an appreciation of how ratio-
+nal reflection is involved in both these matters. Here Mendelssohn touches on the 
+significant issue of, given the small scatter of enlightened people compared with the 
+larger scatter of the unenlightened, how the number of the enlightened is to be 
+increased. Since the acquisition of knowledge and understanding lies at the heart of 
+the enlightenment project, education becomes important in increasing the extent 
+and degree of enlightenment in any society.
+In contrast, Kant does attempt to say what the enlightenment is; this attempt is 
+commonly cited but not often critically evaluated (one exception is Bittner 1996). 
+Kant tells us that the motto of the enlightenment is: ‘Sapere aude! Have the courage 
+to use your own understanding!’ (Kant 1784/1996, p. 58). As has been said above, 
+understanding and explanation are two proper goals of the epistemic enterprise 
+associated with enlightened thinking. We can all agree that each person, when they 
+can, ought to autonomously employ their own powers of reason in thinking, in con-
+structing explanations and forming their understanding of some subject matter.
+Importantly the injunction rules out (1) appeal to authorities (such as religious or 
+monarchical), socially sanctioned traditions, habits and conventions so that epis -
+temic democracy prevails. Kant also emphasises two additional points when he 
+talks of (2) courage, which might well have to be employed in (3) the use of ones’ 
+own understanding rather than that of another. These three points are emphasised in 
+what can be taken to be Kant’s account of ‘enlightenment’: ‘Enlightenment is man-
+kind’s exit from self-incurred immaturity. Immaturity is the inability to make use of 
+one’s own understanding without the guidance of another’ (loc. Cit.).
+A number of points need to be made about Kant’s account. First, the definition 
+(if that is what it is) given by the injunction ‘Sapere aude’ is almost content-less. As 
+important as the injunction is, and although it states that individuals should ‘own’ 
+their beliefs and not be swayed by mere authority, it does not tell us anything about 
+the actual beliefs and values that an enlightened person ought to entertain or reject, 
+for example, along the lines of the eight cardinal points listed by Israel (modified or 
+unmodified).
+Second, one might summon up one’s courage to have beliefs with some content 
+but miscalculate what the proper use of one’s understanding ought to be. So, some-
+thing normative has to be added to using one’s understanding to ensure that it is a 
+proper use so that the products of one’s understanding bear some relationship to the 
+truth.
+Thirdly, one might well dispute whether any immaturity 18 one suffers from is 
+self-inflicted so that one is unable to make use of one’s understanding without the 
+18 Some argue that part of the problem in understanding Kant here is with the use of the English 
+term ‘immaturity’ which commonly translates a German term which has legal overtones not pres-
+ent in the English. Thus the German term can apply to the legal status of minors who do not have 
+certain kinds of responsibilities; but this is not the necessarily the case with the English 
+‘immaturity’.
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 82 ---
+58
+help of another. One’s inability to use one’s own understanding may not be self-  
+inflicted and could well be due to other factors outside one’s control such as lack of 
+the right education, lack of training to acquire the right skills, lack of opportunity 
+during one’s life, and so on.
+Fourthly, one should not make the inference that there was a prior stage in which 
+one was mature and then later one is immature (whether it is one’s own fault or not) 
+and that one might try to recover the earlier phase of maturity; there might well be 
+no such earlier phase to recover.
+Finally, is Kant saying that we ought to put no, or very little, weight on the judge-
+ments of others in forming our own beliefs and that always we ought to maximize 
+our own judgmental autonomy? For an enlightened outlook Kant says that we need 
+to make a public use of our reason in all matters. In contrast there are those who tell 
+us not to. Thus the tax collector says: ‘Don’t argue, just pay. The clergyman says: 
+‘Don’t argue, just believe’. And so on.19 Certainly the injunction ‘ Sapere aude!’ 
+rules out such cases. But would it rule out the following case from science (rather 
+than religion)? Suppose that a scientist, or Isaac Newton himself, says, pointing to 
+Principia, Book III on gravitational attraction, ‘Don’t argue; just believe this stuff 
+on gravitational attraction!’
+We lay people often take what scientists say about their field as authoritative. 
+Moreover scientists in one field (say, genetics) take what other scientists in another 
+field (say, plasma physics) on authority and do not think through the other’s science. 
+In general a scientific claim that p (say, about Newtonian gravitation) is taken on 
+trust by others who do not work in the field. And they take it on trust because of the 
+authority of the scientist (after all it is Isaac Newton!), or the authority of the book 
+or journal in which the claim that p is published; and so on. In such cases there is an 
+authoritative person who offers us expert testimony.20 Standardly in such a case we 
+do not have to argue for ourselves all the ins and outs with some Newton about his 
+theory but simply accept matters on his word. But if one simply takes on board 
+Newton’s claims as a matter of expert testimony does it follow that one is immature 
+in some way, as Kant might be understood to claim?
+What this example shows is that we can separate Kant’s connection between self- 
+incurred immaturity and the guidance that another can provide without fully using 
+one’s own understanding. Importantly in education a student can accept such guid-
+ance without being self-incurably immature, as in the case of coming to know on the 
+basis of testimony. Kant might well be asking for too much in requiring that the 
+light of reason shine in all cases of knowing. After all we do get much of our knowl-
+edge from expert testimony without reckoning we are immature in some way. But it 
+should always remain an open possibility, as Kant indicates, that we also come to 
+know matters, such as Newton’s theory of gravitational attraction, on the basis of 
+the exercise of our own powers of reason. This is an aspect of epistemic democracy 
+(see Sect. 2.2) which is at the core of Enlightenment ideas and ideals.
+19 See Kant 1996, p. 59. Kant talks of our freedom to use public reason in not following these 
+injunctions.
+20 On expert testimony see Gelfert 2014, especially Chapter 9.
+R. Nola
+
+--- PAGE 83 ---
+59
+2.6  Some Modern Critics of “The Enlightenment”
+ (a) John Gray
+There is a general tendency found in several contemporary critics to want turn off 
+the lights of “The Enlightenment”. Rather than cast light on the world it has been 
+claimed to be responsible for some of the dark episodes of recent human history 
+from colonialism to imperialism, anti-Semitism, the Holocaust, racism, and the like. 
+Thus John Gray wants to tell us: ‘The role of the Enlightenment in twentieth- century 
+terror remains a blind spot in western perception’ (Gray 2008, p. 50). One can take 
+this to be a causal claim saying that “The Enlightenment” has been casually respon-
+sible for some acts of twentieth century terror - though we have failed to notice this. 
+Further on he tells us: ‘The Enlightenment played an indispensable role in the 
+development of Nazism’.21 Indispensability is more casual talk. Thankfully Gray 
+does not think that the Enlightenment was causally involved in all twentieth century 
+acts of terror, the case of the 1994 massacre in Rwanda being an exception he men-
+tions. But he does allege there is a causal role of “The Enlightenment” in bringing 
+about some twentieth century acts of terror, or the Nazis.
+Contrary to Gray, many would find it hard to envisage how Kant’s directive 
+‘Sapere aude!’, viz., ‘employ one’s own understanding!’, or Israel’s eight cardinal 
+points of Enlightenment doctrine (see Sect. 2.1), could have been responsible for 
+either terror or Nazism. Gray’s remarks are fatuous in an important way. He talks of 
+“The Enlightenment” as if it had causal powers to bring about things. But this is a 
+category error due to the inflated use of language. We have noted in Sect. 2.4 that it 
+is hard to determine what the denotation of the abstract name ‘The Enlightenment’ 
+is. Perhaps it refers to period of time, say from 1660 to 1790. But periods of time 
+have no causal powers. Nor can the eighteenth century “Enlightenment” make a 
+leap over time to causally affect the Nazis of the twentieth century. Perhaps it refers 
+to some eighteenth century doctrines; but again, propositional doctrines, in them -
+selves, have no casual powers.
+The suggestion made in Sect. 2.4 about the epidemiology of beliefs and values 
+held by people in some society over time might bring us closer to the right kind of 
+ground for the casual powers allegedly at work here; it is people and the beliefs on 
+which they act that have causal powers. Putting matters this way turns on the 
+ important distinction between a group of people who were enlightened (they 
+adopted something like the eight doctrines listed by Israel) and the complementary 
+group who were unenlightened (either they had never heard of Israel’s eight doc -
+trines or, if they had, they were counter-enlightenment people who rejected them).
+21 See chapter 2, ‘Enlightenment and Terror in the Twentieth Century’ in Gray 2008, p. 78. Again 
+on p. 78 Gray tells us that ‘Nazi ideologues picked up from … Counter-Enlightenment thinkers 
+whatever they found useful – as they did with the thinkers of the Enlightenment’. But Gray also 
+speaks of ‘… a Nazi state which spurned the Enlightenment and all its works …’ (Gray 2002, 
+p. 101). Doing both of these seems impossible, even for the Nazis.
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 84 ---
+60
+Here another distinction mentioned in Sect. 2.4, but not noticed by Gray, becomes 
+important: it is Kant’s distinction between “living in an enlightened age” (we do 
+not) but “living in an age of enlightenment” (we do because there are some enlight-
+ened people, however few). In this context, the reference of Gray’s use of the term 
+‘The Enlightenment’ remains quite obscure. We can ask: which group, the enlight-
+ened or the unenlightened, might be the best candidate of the alleged causes of 
+twentieth century terror or the Nazis? One would have to attribute a great deal of 
+cognitive dissonance to the enlightened if they are to be deemed causal agents which 
+bring about terror or Nazism.
+The above merely addresses the question of what is the alleged casual power at 
+work in these cases of terror, or the rise of the Nazis. It does not yet say whether the 
+supposed casual power actually brings about the alleged effects. The problem with 
+claims of the sort made by Gray and others is that there is no investigation into what 
+are the cause-effect relations that are supposed to hold that would rule out merely 
+accompanying features which are not causes. That there are enlightened people who 
+hold enlightenment doctrines and that they are contemporaneous with people who 
+do not hold or reject enlightenment doctrines (some of whom are agents of terror or 
+Nazism), seems to go unnoticed in vague all-encompassing talk of “The 
+Enlightenment” as some kind of causal power. One would have to show which of 
+the enlightened and the unenlightened is casually responsible for terror or the Nazis; 
+but even this much is not done. What we have are obscure and untested claims about 
+causal relations in which no care has been taken to separate out genuine causes of 
+particular events from spurious accompaniments. This is bad science. But this is one 
+way in which causal claims about the supposed obnoxious effects of “The 
+Enlightenment” get their currency.
+Gray tells us about one of the sources of his claims about the rise of the Nazis: 
+‘The argument advanced by some members of the neo-Marxist Frankfurt School, 
+which says that Nazism is a logical development of Enlightenment thinking, is 
+much overstated; but there is more than a grain of truth in it’ (Gray 2008, p 78). 
+Here the reference is to the 1944 work of Horkheimer and Adorno, The Dialectics 
+of Enlightenment. If Nazism were to be a logical development of a certain kind of 
+enlightenment thinking, then that would be to misuse the notion of logic and to 
+confuse it with causation. Happily, this is said to be an overstatement; so we can 
+pass over this claim. But it is left to us to search out what grains of truth we have 
+been offered. Alas, the grains are meagre pickings. Horkheimer and Adorno wrote 
+their book towards the end of WWII in exile in California. They wished to explain 
+the rise of the Nazis in Germany and the Enlightenment is invoked to that end. How 
+this explanation is supposed to work remains obscure or contestable.
+ (b) Max Horkheimer and Theodor Adorno
+In the ‘Introduction’ to their book The Dialectics of Enlightenment, Horkheimer 
+and Adorno summarize their final chapter ‘Elements of Anti-Semitism: The Limits 
+of Enlightenment’ as follows: ‘The argument and thesis of “Elements of Anti-  
+Semitism’ is concerned with the actual reversion of enlightened civilization to bar-
+barism’ (Horkheimer and Adorno 1994 pp. xvi-xvii). Though seven theses are 
+R. Nola
+
+--- PAGE 85 ---
+61
+advanced about the nature of anti-Semitism, nothing substantial is established to 
+causally connect a reversion of “enlightened civilization” to anti-Semitic and Nazi 
+barbarism with “The Enlightenment” supposedly invoked as the temporally distant 
+cause.22 Again as in the case of Gray, lack of clarity about the reference of ‘The 
+Enlightenment’ does its job of obfuscation. All three commentators ride roughshod 
+over Kant’s subtle distinction between “living in an enlightened age” and “living in 
+age of enlightenment”.
+One commentator, James Schmidt, finds there is hardly a connection at all 
+between “The Enlightenment” and Nazism owing to the broad way in which 
+Horkheimer and Adorno understand ‘The Enlightenment’:
+The conception of enlightenment the book elaborated lacked historical specificity and its 
+account of Nazi genocide ultimately made the choice of victims appear as contingent. The 
+costs incurred by both these points should not be underestimated.
+In the account offered by Horkheimer and Adorno, “enlightenment” has been defined so 
+broadly as to make it virtually identical with the attempt to master nature through instru -
+mental reasoning. As a consequence, any hope of understanding what was historically spe-
+cific to the eighteenth-century Enlightenment is lost. (Schmidt 2000, p. 97)
+There are two objections here. The first is the familiar point that the referent of 
+‘Enlightenment’ is obscure. The second is a new, surprising, point: Horkheimer and 
+Adorno claim that the use of instrumental reasoning to obtain mastery defines ‘The 
+Enlightenment’ (and that this leads to a disaster for the Enlightenment – a claim to 
+be evaluated shortly). But they give the game away when they refer to non-  
+enlightenment figures such as Francis Bacon, and Odysseus (!), as users of instru -
+mental reasoning. In fact humans have used such reasoning ever since humans 
+began to think. So, such reasoning cannot be a defining characteristic of “The 
+Enlightenment”.
+Instrumental reasoning is not specifically listed in Israel’s 8 cardinal points; but 
+let us not quibble about whether or not such reasoning is to be found there. (It would 
+be in an expanded version of Israel’s point (1) as suggested in Sect. 2.2, but other 
+kinds of rationality are covered in point (1) than just instrumental reasoning.) 
+Importantly Israel lists much more in his eight cardinal points which emerged in the 
+eighteenth century Enlightenment period, and are characteristic of it. These items 
+should be invoked if claims are to be made about any casual connection between the 
+Enlightenment and anti-Semitism or Nazism. But it hard to see how any of these, 
+such as toleration, equality, freedom of thought, liberty, equality, republicanism, 
+etc., could in any way be casually responsible for anti-Semitism or Nazism. They in 
+fact count against any such casual connection.
+Horkheimer and Adorno have bigger fish to fry. They begin their book by telling 
+us: ‘In the most general sense of progressive thought, the Enlightenment has always 
+aimed at liberating men from fear and establishing their sovereignty. Yet the fully 
+enlightened earth radiates disaster triumphant’ (ibid., p. 3). And they speak of ‘the 
+22 The seven theses to be found in ‘Elements of Anti-Semitism’ is usefully discussed in Schmidt 
+2000 in a section entitled ‘Projection and Anti-Semitism’, pp. 91–97.
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 86 ---
+62
+indefatigable self-destructiveness of the enlightenment’ (ibid, p. xi). To emphasise 
+this they also tell us of ‘… the first phenomenon for investigation: the self- destruction 
+of the Enlightenment’ and add that ‘… the actual historic forms – the social institu -
+tions – with which it [The Enlightenment] is interwoven, already contains the seed 
+of the reversal universally apparent today’ (ibid., p. xiii). These and other like pas-
+sages spell out the main idea behind the title of their book Dialectic of Enlightenment. 
+There is a dialectic at work in the Enlightenment; this is said to be a contradiction 
+or, more metaphorically, something that contains the seed of its own destruction or 
+transformation into something else. The emergence of anti-Semitism is, allegedly, 
+just one aspect of the working out of these dialectical tensions.
+Talk of a “dialectic” at work has always been obscure with many resisting such 
+talk; they rightly ask for a more specific account of what are the causes at work 
+which have supposed incompatible tendencies. But it can also be away of obfuscat-
+ing what one wishes to talk about. Marx himself was not above this, and in fact says 
+as much in a letter to Engels when he temporarily took over his job of newspaper 
+commentator on Indian affairs when Engels fell ill: ‘It’s possible that I shall make 
+an ass of myself. But in that case one can always get out of it with a little dialectic. 
+I have, of course, so worded my proposition as to be right either way.’23 One might 
+well suspect that Horkheimer and Adorno have more than a little of Marx’s dishon-
+est cunning in using dialectic to get out of intellectual trouble and to be right regard-
+less whatever they say.
+It is hard to determine what dialectical contradiction lies at the heart of “The 
+Enlightenment” which contains the “seeds” of its own destruction. But it is gener -
+ally supposed to be due to the dominant role of instrumental reason to the exclusion 
+of other forms of reason in our coming to master nature. The Elizabethan Francis 
+Bacon (hardly an Enlightenment figure though he is prominent in the so-called ‘sci-
+entific revolution’), is excoriated for promoting this kind of thinking in his advocacy 
+of science. In summing up Bacon’s alleged stance Horkheimer and Adorno tell us:
+What men [sic] want to learn from nature is how to use it in order wholly to dominate it and 
+other men. That is the only aim. Ruthlessly, in despite of itself, the Enlightenment has 
+extinguished any trace of its own self-consciousness. The only kind of thinking that is suf-
+ficiently hard to shatter myths is ultimately self-destructive’ (Horkheimer and Adorno 1994, 
+p. 4)
+In this context they also cite Bacon’s claim that ‘power is knowledge’.24 Though 
+this is a common view it is hardly compelling. First, it supposes that all principles 
+of reasoning are instrumental in character which, we may suppose, is of the form ‘if 
+23 A letter by Marx to Engels, 15 August, 1857; see Marx-Engels Collected Works Vol 40 (1983) 
+p. 152.
+24 This is a slogan, often advocated by Foucault, which should be resisted. Most books on episte -
+mology do not claim that the definition of knowledge involves power. In fact they do not even 
+mention it, since they think that the view is so mistaken it is not worth noting. But of course if you 
+know something then your powers of action can be enhanced. But this has nothing to do with the 
+nature of knowledge itself; at best it is a possible consequence.
+R. Nola
+
+--- PAGE 87 ---
+63
+you want V then do X’. These are means-ends claims where ‘X’ is some procedure 
+or action to be carried out and ‘V’ is something one might want, or value, or it might 
+even be a value itself. 25 But as has been suggested in Sects. 2.2 and 2.5 in which 
+principles of scientific reasoning are mentioned, in particular Newton’s Rules of 
+Reasoning in Philosophy, these are not instrumental in form; they are categorical. In 
+fact in science one finds both instrumental claims alongside categorical claims. And 
+in some of these categoricals the value might be truth itself; and X tells one how to 
+arrive at truth. This is hardly an instrumental value to be excoriated.
+Horkheimer and Adorno have a very one-sided and blinkered view of both sci -
+ence and its methods in ignoring categorical claims or the values that can enter into 
+instrumentalities; but this is not uncommon in theoreticians of their ilk. For this 
+reason their considerations about the dominance of instrumental reasoning fails to 
+make its point.
+A second unacceptable claim is that domination of nature and other men is ‘the 
+only aim’ that instrumental principles can have. True, people do wish to finds means 
+(some provided by science) to dominate others. But this is not always the case and 
+one can have instrumentalities that involve aims other than domination, such as 
+those mentioned in Israel’s cardinal points which express values such as equality, 
+secularism, toleration, freedom, and the like. Though there are a lot of instrumen -
+talities of domination to be noted, they are not the only instrumentalities and they 
+have competitors with other values. This is something that most advocates of 
+enlightenment values would recognise in their struggle against the absolutist ten -
+dencies of the churches, monarchies and governments of the time. And it is some -
+thing we should recognize pace Horkheimer and Adorno.
+Thirdly, there is the unacceptable claim that, as a result, the Enlightenment is 
+somehow self-destructive. This might be so if the instrumentalities are only directed 
+at dominance. But they are not. As just mentioned the social and ethical values 
+espoused by enlightenment thinkers also involve values such as equality, secular -
+ism, toleration, freedom, republicanism and the like. These are ignored by 
+Horkheimer and Adorno.
+At the end of their book Horkheimer and Adorno tell us: ‘Enlightenment which 
+is in possession of itself and coming to power can break the bounds of enlighten -
+ment’ (p.  208). Characteristically this is a somewhat obscure remark about an 
+Enlightenment “in possession of itself” which somehow “breaks its own bounds”. 
+(This occurs when, presumably, issues of equality, secularism, toleration, freedom 
+are given prominent recognition). If such a kind of Enlightenment is possible, then 
+it would appear to be in contradiction with claims they make at the beginning of the 
+book about ‘the indefatigable self-destructiveness of enlightenment’ in which this 
+possibility appears to be ruled out. No dialectical wriggle can get them out of this 
+contradiction; rather they must seriously modify the core of the dialectical claim 
+25 It is important to note that in instrumentalities of the form mentioned, V can be a value itself, and 
+not merely some goal or end that one might wish whatever its value. Horkheimer and Adorno seem 
+not to recognise this point and reduce all instrumentalities to means-ends claims whatever the end.
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 88 ---
+64
+about Enlightenment’s self-destructiveness. And this they appear to do when, as 
+some commentators suggest, they had planned to write a sequel which would coun-
+teract the negative view of Dialectic of Enlightenment with a more positive view in 
+a work tentatively called Saving the Enlightenment.26
+It is hard to tell from Horkheimer and Adorno’s critique whether there is any -
+thing worth saving in “The Enlightenment”, contorted as it allegedly is by instru -
+mental reasoning amongst other defects. If there were genuinely a “dialectical 
+contradiction” at the heart of the Enlightenment then there is nothing to write about 
+in any sequel; the Enlightenment is stuck with its alleged internal contradiction (and 
+whatever fate is supposed to follow from this). But that there is such a contradiction 
+is hopelessly obscure. As Marx advises, Horkheimer and Adorno can wriggle out of 
+their predicament with a little dialectic and be right either way.
+Do Gray or Horkheimer and Adorno mange to tell us something about the nature 
+of Enlightenment? At best Gray gives us false causal consequences of it. And I leave 
+it to a recent (not unsympathetic) commentator to tell us about Horkheimer’s and 
+Adorno’s book: ‘The few mentions of the original libertarian and emancipatory 
+nature of the Enlightenment within the volume were hardly adequate to counterbal-
+ance its apocalyptic tone and unsubstantiated indictments, or the authors’ unilateral 
+pronouncements according to which “Enlightenment is as totalitarian as any sys -
+tem” (Horkheimer and Adorno, p. 24)’ (Ferrone 2015, p. 33).
+2.7  Conclusion
+Here just three of the many critics of “The Enlightenment” have been mentioned. 
+But there is now an academic industry hard at work discrediting the Enlightenment 
+by showing that it is intimately bound up with the Nazis, the holocaust, capitalism, 
+colonialism, universalism in education  – you name it! To deal with all of these 
+would require much more space than is available here. But many of them make 
+Gray’s false assumption that if something is coincidental with “The Enlightenment” 
+then “The Enlightenment” must be the cause of it. To make this error one must not 
+only have a poor idea of how casual connections are to be tested; also one has failed 
+to see that talk of “The Enlightenment” is often quite obscure and that its referent is 
+unclear. By introducing the idea of the epidemiology of enlightenment one can then 
+begin to see how excessive focus on a nominalization of what is more properly 
+adjectival can lead one astray. Talk of ‘The Enlightenment’ can be a convenient 
+shorthand; but it comes at the cost of taking the nominalized name at face value and 
+assuming that there is a definite “object” to be spoken about. The epidemiology of 
+being enlightened tells us what are the real facts hidden behind the veil of a nomi -
+nalizing abstraction.
+26 On this supposed sequel see Schmidt 2000, p. 101. It seems as if little of it was actually written 
+down.
+R. Nola
+
+--- PAGE 89 ---
+65
+References
+Bittner, R. (1996). What is enlightenment? In Schmidt (Ed.) (1996) pp. 345–358.
+Brickhouse, N.  W. (2001). Embodying science: A feminist perspective on learning. Journal of 
+Research in Science Teaching, 38(3), 282–295.
+Bristow, W. (2010). Enlightenment. In E. N. Zalta (Ed.) The Stanford Encyclopedia of Philosophy. 
+URL = http://plato.stanford.edu/entries/enlightenment/. Accessed 26 Apr 2016.
+Cassirer, E. (1951/1932). The philosophy of the enlightenment . Princeton: Princeton University 
+Press.
+Coyne, J. A. (2015). Faith vs. fact: Why science and religion are incompatible. New York: Viking.
+Ferrone, V . (2015). The enlightenment: History of an idea. Princeton: Princeton University Press.
+Gay, P. (1967). The enlightenment: An interpretation: Volume 1, the rise of modern paganism . 
+London: Weidenfeld and Nicholson.
+Gay, P. (1970). The enlightenment: An interpretation: Volume 2, the science of freedom. London: 
+Weidenfeld and Nicholson.
+Gelfert, A. (2014). A critical introduction to testimony. London: Bloomsbury.
+Goldstein, R. (2015,May). Don’t overthink it. Review of Matthew B. Crawford, The world beyond 
+your head: On becoming an individual in an age of distraction . In  The Atlantic monthly  
+(pp. 50–52). Boston: The Atlantic Co.
+Gould, S.  J. (1999). Rocks of ages: Science and religion and the fullness of life . New  York: 
+Ballantine.
+Gray, J. (2002). False dawn: The delusions of global capitalism. London: Granta Books.
+Gray, J. (2008). Black mass: Apocalyptic religion and the death of utopia. London: Penguin.
+Habermas, J. (1990). The philosophical discourse of modernity: Twelve lectures. Cambridge, MA: 
+The MIT Press.
+Honneth, A., McCarthy, T., Offe, C., & Wellmer, A. (Eds.). (1992). Philosophical interventions in 
+the unfinished project of enlightenment. Cambridge, MA: The MIT Press.
+Horkheimer, M., & Adorno, T. (1994/1944/1947). The dialectics of enlightenment  (Cumming J., 
+Trans). New York: Continuum.
+Hume, D. (1985). Of national characters. In E. F. Miller (Ed.), David Hume: Essays moral, politi-
+cal and literary (pp. 197–215). Indianapolis: Liberty Classics.
+Israel, J. I. (2006). Enlightenment contested. Oxford: Oxford University Press.
+Israel, J. I. (2011). Democratic enlightenment. Oxford: Oxford University Press.
+Kant, I. (1996/1784). An answer to the question: What is enlightenment? In J.  Schmidt (Ed.) 
+(1996) pp. 58–64.
+Locke, J.  (1689/2010–15). ‘Toleration’ (or ‘First letter on toleration’) translated by Jonathan 
+Bennett. http://www.earlymoderntexts.com/assets/pdfs/locke1689b.pdf. Accessed 20 Apr 
+2016.
+Marx, K., & Engels, F. (1983). Letter of Marx to Engels, 15 August 1857. Collected works volume 
+40. Marx and Engels 1856–1859. London: Lawrence and Wishart.
+Matthews, M. R. (2015). Science teaching: The contribution of history and philosophy of science. 
+New York: Routledge.
+Mendelssohn, M. (1784/1996). On the question: What is Enlightenment? In Schmidt (Ed.) (1996): 
+pp. 53–57.
+Pocock, J. G. A. (1999). Barbarism and religion: Volume 1, the enlightenments of Edward Gibbon, 
+1737–1764. Cambridge: Cambridge University Press.
+Schmidt, J. (Ed.). (1996). What is enlightenment? Eighteenth-century answers and twentieth- cen-
+tury questions. Berkeley: University of California Press.
+Schmidt, J. (2000). Genocide and the limits of enlightenment: Horkheimer and adorno revisited. In 
+Stråth and Kaye (Eds.) (2000), pp. 81–102.
+2 The Enlightenment: Truths Behind a Misleading Abstraction
+
+--- PAGE 90 ---
+66
+Shimony, A. (1997). Some historical and philosophical reflections on science and enlighten -
+ment. In L. Darden (Ed.), Proceedings of the 1996 PSA meeting  (pp. S1–S14). East Lansing: 
+Philosophy of Science Association.
+Sperber, D. (1996). Explaining culture: A naturalistic approach. Oxford: Blackwell.
+Stråth, B., & Kaye, J. (Eds.). (2000). Enlightenment and genocide, contradictions of modernity 
+(philosophy and politics, volume 5). Brussels: Peter Lang International Academic Publishers.
+R. Nola

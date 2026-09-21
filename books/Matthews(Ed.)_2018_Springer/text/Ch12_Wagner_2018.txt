@@ -1,0 +1,389 @@
+Title: Warranted Indoctrination in Science Education
+Pages: 323-331
+
+--- PAGE 323 ---
+307
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_12
+Chapter 12   
+Warranted Indoctrination in Science 
+Education             
+Paul A. Wagner
+A much-debated educational question has been: What is the legitimate role of 
+indoctrination in education, and more specifically in science education? Contrary to 
+many opinions, the noun indoctrination does not name a process or a set of pro -
+cesses; it does not denote any malevolent intent on the part of an indoctrinator; nor 
+does it denote the value or epistemic soundness of any content resulting from one or 
+more processes employed by an indoctrinator. Each of these claims will be made 
+clear in the explanations which follow as will the conclusion that the noun indoctri-
+nation is best understood as a “benchmark” term and nothing more. It is a valuable 
+benchmark term and provides generic license for pedagogical practices that lead to 
+firmly held beliefs without the benefit of epistemic grounding.
+12.1  Some History
+The concept of indoctrination suffered a turbulent past during much of the last cen-
+tury (Wagner 1981, 1990). Appreciation of the Progressive Education movement 
+and fear of practices such as the indoctrination of those in Nazi youth programs 
+caused the concept of indoctrination to fall into disrepute. Western ideological fears 
+prompted by the rise of the Cold War turned the connotation of the concept from a 
+perceived good to a perceived evil. Many troubling practices were increasingly 
+affiliated with the concept by politically sensitive scholars.
+At the extreme, British philosopher Anthony Flew declared, albeit free from any 
+definitional source, that indoctrination is a matter of implanting firm conviction in 
+the truth of doctrines that are “…known to be false or at least not known to be true 
+(Flew 1966, p. 282).” A few years later another British scholar John Wilson  similarly 
+P.A. Wagner (*) 
+Institute for Logic and Cognitive Studies, University of Houston, Houston, TX, USA
+e-mail: wagner@uhcl.edu
+
+--- PAGE 324 ---
+308
+dictated that indoctrination is “…to take over [the child’s} consciousness” (Wilson 
+1972, p. 22 and Wilson 1964). A variety of similar ideological definitions of indoc-
+trination were entertained moving from the 1960s into the 1980s as evidenced in 
+Ivan Snook’s anthology titled, Concepts of Indoctrination (Snook 1972b). Snook’s 
+own position, developed in his monograph, Education and Indoctrination  (Snook 
+1972a), echoed much the same alarm as the authors in his edited volume.
+The alarm of these post-war and Cold War scholars was misdirected. They took 
+recent connotations of the term indoctrination and assigned malignant teaching 
+practices to the meaning of the term itself. This was unnecessary. Drill and grill 
+teaching practices had been denounced by progressive educators for years. Practices 
+that stunted intellectual growth and substituted predictable behaviors in their stead 
+had been denounced for years and continue to be denounced to this day. All that is 
+well and good. But to bundle objection to malignant teaching practices with analy-
+sis of a common and well entrenched term such as indoctrination was likely to 
+generate jargon and linguistic hair-splitting among scholars while practical advice 
+to teachers lingered by the wayside.
+The philosopher Thomas Green was among the first to recognize that something 
+about recent attitudes toward indoctrination may cause more distraction than clarity 
+in managing classroom instruction. Green’s recognition, as articulated in Ivan 
+Snook’s edited volume Indoctrination and Education,  set his position distinctly 
+apart from the other contributors (Green 1972).
+Green acknowledged that some beliefs must be inculcated in students. This 
+seems a straight-forward matter of entering into any new study or the learning of a 
+new game. These inculcated beliefs however should never be such as to make reflec-
+tion, repair, or the discarding of ineffectual beliefs impossible. Certainly all this 
+seems true enough and had Green stopped there then there would be no need to re- 
+visit his position. Unfortunately Green did not stop there but rather went on to elab-
+orate the concept of indoctrination to distinguish between teaching strategies that 
+precluded or greatly inhibited any further questioning on the part of students, from 
+evidentially-responsive teaching that allowed for later belief revision when 
+appropriate.
+This bit of well-intended analysis did not advance pedagogical theorizing as 
+Green hoped. Refining the meaning of the term ‘indoctrination’ does little to repair 
+misguided classroom practices. In the mid-1980s Harvey Siegel picked up Green’s 
+ambition in a book titled, Educating Reason (1988). Siegel recognized the practical 
+importance of the distinction that animated Green’s thinking.
+Siegel uses an example of two children Janie and Johnny. If each child is incul -
+cated in some belief, but say Johnny’s belief cannot be rationally redeemed while 
+Janie’s can, then there is indoctrination in the first case but not in the second. The 
+turning point for Siegel, as for Green, turns on two evaluations. First, if the initial 
+inculcation of belief leads to irredeemable grasping of some belief that is the distin-
+guishing feature of their technical notion of indoctrination. Second, the holding of 
+irredeemable beliefs on the part of a student is de facto evidence of culpable fault on 
+the part of the teacher or some prescribed instructional strategy (Siegel 1988, 
+pp. 79–83). All of this is a lot of machinery to make distinctions that in the end are 
+P.A. Wagner
+
+--- PAGE 325 ---
+309
+pragmatically unmanageable. Holding irredeemable beliefs is difficult to make 
+sense of for any prescriptive purpose. How long must one wait before evaluating 
+whether or not a student’s inculcated belief is irredeemable by reason?
+In addition, there are many causes for why a student may not redeem an incul -
+cated belief with reason and many of those may have nothing to do with how the 
+student was taught! For example, the student may simply be negligent in attending 
+to a particular belief set as she passes through life! And there may be no reason for 
+her to attend to certain acquired belief sets in her life as she lives it.
+12.2  Clearing a Path
+In what follows, the term will reduced to its simplest and most deeply entrenched 
+historical meaning. The purpose of this reduction is to secure ease of application of 
+the concept when and where it matters most namely, the time and place of 
+instruction.
+The social and biological sciences make clear that the inculcation of belief is 
+necessary for humans to grow intellectually. Standard dictionaries make clear that a 
+simple and modest definition of the term indoctrination offers greatest utility for 
+purposes of bench-marking effective pedagogical practices.
+The utility of any term is best grounded by simplifying the concept to its most 
+basic denotative meaning (Sober 2015, p. 10–12). Determining whether objection-
+able practices are indoctrinative or not is not the same as analyzing whether or not 
+such practices corrupt student education. And declaring such practices to be indoc-
+trination is not the same as explaining why named practices are offensive by refer -
+ence to some clear and unambiguous criteria for identifying offensive practices.
+Pejorative reference to practices associated with indoctrination and decrying that 
+they involve some misguided intent is not uncommon (Smith and Siegel 2004). Of 
+course, misguided or worse, evil intent towards others is always a bad thing as is 
+deliberately inculcating falsehoods in others. And certainly the destruction of criti-
+cal thinking and diminishing personal autonomy is similarly objectionable. Each of 
+these intents and practices thwarts the invitation for every learner to come together 
+in a Great Conversation of Humankind (Wagner 2011, p. 394). Yet none of these is 
+an element in any standard dictionary’s primary definition of indoctrination.
+Thomas Kuhn’s The Structure of Scientific Revolutions  (Kuhn 1962/1970) 
+attracted so much attention because the idea is that entry into a paradigm entails 
+adopting organizing principles common to the science at the time. That much Kuhn 
+continues to stand by (Kuhn 1987, p.11). Whatever challenges continue regarding 
+the coherence of Kuhn’s arguments, one thing remains settled: namely that, entering 
+a new discipline involves learning context-dependent fundamentals.
+Following Sosa, the term ‘context–dependent fundamentals’ will henceforth 
+refer to principles, doctrine and performative practices that must be learned in order 
+to engage those who already exhibit substantial expertise in a given discipline (Sosa 
+2011, p.  238–239). There is no suggestion here that in each and every case a 
+12 Warranted Indoctrination in Science Education
+
+--- PAGE 326 ---
+310
+ discipline specific set of context-dependent fundamentals creates a closed system. 
+In some sciences, such as classical mechanics, this may be true but in many other 
+sciences, such as population genetics and plate tectonics, there is a relatively narrow 
+but open set of such fundamentals operative at any point in time.
+12.3  Preliminary Definition
+Indoctrination is neither a good nor an evil in itself. Judging the effects of indoctri-
+nation and in context may prompt a host of legitimate and timely concerns. However, 
+the effects and context do not constitute the literal meaning of the term, either tradi-
+tionally or in this exegesis.
+Indoctrination is best described (as opposed to defined) as a dangerous good. 
+Indoctrination in science is good to the extent it instills in students a useful concep-
+tual foundation for doing science. This is to say, indoctrination is good to the extent 
+that it makes possible greater student engagement with those more expert in a disci-
+pline or field of study. In contrast, indoctrination is dangerous to the extent it causes 
+students to lose a sense of wonder, a passion for confirmation and a propensity to 
+seek ever better understanding of the world. Furthermore, indoctrination is danger-
+ous to the extent it causes students to disengage with experts and other specialists in 
+a field or discipline, or causes students to lose interest in independently seeking 
+further insight into the world through a never ending process of systematic trial and 
+error.
+In practice, fitting students with a set of beliefs and dispositions for which they 
+are unable to provide justification is not always a bad thing—at least initially. In 
+fact, practices culminating in indoctrination are often unavoidable as in situations 
+where novice learners must be led to the threshold of creative inquiry in a discipline 
+wholly novel to them. For example, take the common and rudimentary case of stu-
+dents learning the context-dependent fundamentals of written communication. No 
+alphabet is particularly superior to any other. But given the context, the twists and 
+turns of symbols acquire an evolutionary resiliency that make for a useful tool 
+advancing communal access to common understanding.
+In the United States, students are typically taught a song, the Alphabet Song. 
+Once familiar with the alphabet, students begin reading, writing and moving for -
+ward towards participation in The Great Conversation in ways they never previously 
+imagined. Being drilled on the alphabet or how to count with no grounds for justifi-
+cation (indoctrination) never prevented anyone from later engaging in science, phi-
+losophy, linguistics, critical theory and all contemporary disciplines which require 
+written transactions of one kind or another.
+When students first learn the elements of the periodic table, they have little grasp 
+of why it is worth learning (Weinstein 2013, p.46). Teachers make a point of explain-
+ing atomic weights and the sterile nature of elements, but to the novice this is typi-
+cally little more than information to be grasped and responded to on recognition 
+tests. Little more can be expected early on. Without such directed (indoctrinative) 
+P.A. Wagner
+
+--- PAGE 327 ---
+311
+learning, again to use Wiley’s term, ritualized signaling, students have little chance 
+to gain an independent grasp on the various disciplines, fields and other ways of 
+looking at the world.
+12.4  Indoctrination in the Sciences
+Beginning students in every science are required to grasp basic semantics, inferen-
+tial principles and, perhaps, dispositions and habits of observation (Wagner and 
+Lucas 1977). As these context-driven fundamentals are acquired, students should 
+then be invited to doubt, criticize hypothesize and consider systematic trial and error 
+approaches to extort further information from nature. In general, this is how humans 
+advanced individual and collective understanding across every generation. The pro-
+cess leads from early indoctrinative/ritualized signaling practices to greater theo -
+retical strategies and the ability to notice anomalies in experimental observations 
+(Wiley 2015, p. 124–5). As student understanding and management of autonomous 
+reflection increase, directed instruction leading to indoctrination should decrease 
+proportionately (Driver et al. 1996).
+12.4.1  The Teaching of Genetics
+As an example, consider the teaching of genetics. The context-driven fundamentals 
+in biology at the time of Watson and Crick’s childhood were as follows: Mendel and 
+Ronald Fisher’s theory of proportional probabilities of inheritance, Thomas 
+Morgan’s work with fruit flies exhibiting the potency of mutations, cells had non-  
+porous membranes, eukaryotic cells had nucleus and were filled with cytoplasm 
+protecting the nucleus. Watson and Crick and others of their generation would have 
+been required to memorize these context-driven fundamentals in their early biologi-
+cal education (Wesson 1991, p. 289–90). There was no gene theory of information 
+processing as of yet. There was no knowledge of ribosomes (a term Crick coined), 
+the transmission of biological information for coding proteins within cytoplasm (a 
+hunch Crick explored the year after discovering the structure of DNA) (Lane 2015, 
+p. 7). There was no theory of mitochondria oxygen-releasing, energy engines, and 
+no speculation regarding messenger RNA (Lane 2005, p. 16). Yet Watson and Crick, 
+schooled in the context-driven fundamentals of biology at their time were able to 
+use the knowledge they had to construct disciplined speculation about something as 
+extraordinary as DNA and add to the set of context-driven fundamentals of the neo- 
+Darwinian evolutionary science that they and folks like Carl Woese were revising 
+and extending (Lane 2015, p. 7–9).
+Forty years later students in high school were taught that every cell is an indus -
+trial center of activity with at least forty-three factories operating inside nearly every 
+cell. Students are told that DNA contains chemical bases of four amino acids 
+12 Warranted Indoctrination in Science Education
+
+--- PAGE 328 ---
+312
+(ACGT). They are also told that combinations of these amino acids code for pro -
+teins, and generate ribosome activity and genetic differentiation (Stolz et al. 2004). 
+Students learn Lynn Margulis’ startling discovery of a process called symbiosis 
+inside the cell whereas previous generations had been taught there is only the dor -
+mant cytoplasm (Lane 2015, p. 30–37). High school curricula are making genetic 
+coding a threshold concept in biological education (Smith and Good 1984).
+Approaching 2020, the scientific context determining relevant fundaments con -
+tinues to evolve. Students are still directly taught about cell membranes, meiosis, 
+mietosis, nucleus, inheritance and mutation just as were Watson, Crick, Woese and 
+others decades before. The additional context-driven fundamentals of the twenty-  
+first century now incorporate ribosomes, genes as hybrid units of shape, amino acid 
+proximity and information (Field and Davies 2015), as well as suspicions about the 
+creative potential of something called epigenetics and environmental change (Carey 
+2015, p. 101). The size of the human genome, students are now taught, is approxi-
+mately twenty to thirty thousand genes and not the one hundred thousand believed 
+in the year 2000 (Lane 2015, p. 22–23). Students are told that humans and chimpan-
+zees share as much as 98.3% of the same genomic make up but as data from the 
+ENCODE Project flows in, it may turn out that non-coding “junk DNA” is critical 
+to managing genetic information and differentiating humans from other primates as 
+well as re-framing the problem of speciation generally (Carey 2015, p. 178–179).
+No entry level biology student can understand what such a deluge of information 
+means in any significant way (Lombroso et al. 2008). Even the public at large seems 
+overwhelmed by all the evidence revealing genetic foundations of evolution (Miller 
+et al. 2006). Nonetheless, through ritualized signaling/indoctrination, students are 
+expected to buy into these facts. This information must stick if one day students are 
+to speculate, doubt and otherwise meaningfully grapple with the complexities of 
+genetics and evolution (Lawson and Weser 1990).
+There is no way of entering into the deep and demanding study of genetics with-
+out first grasping some basic linguistic and conceptual tools, inferential practices 
+and investigatory procedures that constitute the context-driven fundamentals (Smith 
+and Adkinson 2010; Thompson and Stewart 2003). These basic tools and practices 
+are no more simply discovered by students than do students simply discover a 
+usable alphabet and theorize about its utility. Instead, students are introduced to 
+adopt conceptual tools intended to transport them through the threshold of ritualized 
+signaling and then into a new dimension of the Great Conversation. The same 
+instructional pattern is repeated in the teaching of all science disciplines.
+Instructional practices that exceed the required amount of indoctrination, work 
+against students developing autonomy in science and beyond. Science educators 
+must be careful not to treat all subject matter as if it is fundamental (El Hani and 
+Mortimer 2007). If everything is taught as so much “mud thrown against a brick 
+wall,” in the hope that some will stick, then students are unlikely to recognize some 
+ideas as “context-driven” and others as more promisingly resilient (Nisbett 2015, 
+P.A. Wagner
+
+--- PAGE 329 ---
+313
+p. 230–2). If all is determined as settled once and for all, learners may dismiss the 
+need for critical review and inventive investigation.
+The fact that creationism must rely wholly on indoctrinative practices discredits 
+creationism in science education. But discrediting creationism doesn’t make indoc-
+trination a bad idea. It is only the exhaustive exploitation of indoctrinative practices 
+that is pedagogically (and perhaps morally) objectionable. This is true of genetics 
+and evolutionary science as much as it is for creationism. Any time instruction dis-
+courages apt questions, the curriculum becomes fossilized. In the teaching of every 
+science, there must be a threshold demarcating the staged ending of indoctrinative 
+instructional strategies (practices that aim for acquisition of facts, protocols and 
+dispositions that students cannot remotely justify) and leading towards participation 
+in a technical aspect of the Great Conversation.
+12.5  Conclusion
+In the end, two things matter when it comes to understanding the pedagogical sig -
+nificance of the concept of indoctrination. First, educators need to benchmark when 
+indoctrinative practices are necessary given learner innocence of the fundamentals. 
+Second, educators need to recognize when practices leading to indoctrination 
+become excessive. This excessiveness alerts educators that current practices need to 
+be curtailed and replaced with more dialogic exercises. Understanding indoctrina -
+tion benchmarks for educators both when indoctrinative practices are necessary and 
+when ritualistic signaling practices exceed their utility.
+Students need indoctrination as herein defined, in order to approach the threshold 
+of study in any new discipline. However, once learners are over the threshold, sci -
+ence educators need to identify the transition points wherein the focus of instruction 
+steers away from constraining practices that are counter-productive to bringing stu-
+dents into the Great Conversation of Humankind.
+When indoctrination continues unabated beyond the threshold required for novel 
+speculation and criticism, new paths for student understanding are thwarted. Teacher 
+respect for the moral agency of the student as an independent thinker and contribu-
+tor to the science is threatened. In short, the student’s eventual residence in The 
+Great Conversation of Humankind is at risk. Such consequences are grave moral 
+misdeeds.
+Students must simply appropriate fundamentals of a discipline or field of study 
+in order to begin developing any skills of independent investigation. This recogni -
+tion of the limited but core value of indoctrinative practices leads to the following 
+principles:
+ I. Indoctrinative practices are necessary in the initial stages of any new quest for 
+disciplinary understanding.
+12 Warranted Indoctrination in Science Education
+
+--- PAGE 330 ---
+314
+ II. The justification of such practices is limited to facts, principles, current investi-
+gatory strategies and semantics fundamental for understanding the discipline in 
+its current scientific context.
+ A. What is fundamental to a discipline or field of study is context dependent 
+and made evident by the practices of currently engaged experts in the field 
+(Sarkar 2007).
+ B. Indoctrination should never exceed the minimum required for disciplined 
+inquiry into a field of study in its current state.
+ III. Indoctrinative practices that prove excessive should be avoided.
+ A. Such practices prove excessive when they discourage desire for indepen -
+dent investigation.
+ B. Excessive use of practices which indoctrinate is morally offensive. It should 
+be avoided when it limits rather than extends prospects for learner autono -
+mous agency.
+References
+Carey, N. (2015). Junk DNA: A journey through the dark matter of the genome . New  York: 
+Columbia University Press.
+Driver, R., Leach, J., Millar, R., & Scott, P. (1996). Young people’s images of science. Buckingham: 
+Open University Press.
+El Hani, C. N., & Mortimer, E. F. (2007). Multicultural education, pragmatism, and the goals of 
+science teaching. Cultural Studies of Science Education, 2, 657–702.
+Field, D., & Davies, N. (2015). Biocode: The new age of genomics . Oxford: Oxford University 
+Press.
+Flew, A. (1966). What is indoctrination? Studies in Philosophy and Education, 4(3), 281–306.
+Green, T.  F. (1972). Indoctrination and beliefs. In I.  Snook (Ed.), Concepts of indoctrination  
+(pp. 25–46). New York: Routledge & Kegan Paul.
+Kuhn, T. S. (1962/1970). The structure of scientific revolutions. Chicago: University of Chicago 
+Press.
+Kuhn, T. S. (1987). Black body theory and the quantum discontintuity . Chicago: University of 
+Chicago Press.
+Lane, N. (2005). Power, sex and suicide: Mitochondria and the meaning of life . Oxford: Oxford 
+University Press.
+Lane, N. (2015). The vital question: Energy, evolution and the origins of complex life. New York: 
+W. W. Norton.
+Lawson, A. E., & Weser, J. (1990). The rejection of non-scientific beliefs about life: Effects of 
+instruction and reasoning skills. Journal of Research in Science Teaching, 27(6), 589–606.
+Lombroso, T., Thanukos, A., & Weisberg, M. (2008). The importance of understanding the nature 
+of science for accepting evolution. Evolution Education and Outreach, 1, 290–298.
+Miller, J. D., Scott, E. C., & Okamoto, S. (2006). Public acceptance of evolution. Science, 313, 
+765–766.
+Nisbett, R. (2015). Mindware: Tools for smart thinking. New York: Strauss, Giroux & Farrar.
+Sarkar, H. (2007). Group rationality in scientific research . Cambridge: Cambridge University 
+Press.
+P.A. Wagner
+
+--- PAGE 331 ---
+315
+Siegel, H. (1988). Educating reason: Rationality, critical thinking, and education . New  York: 
+Routledge.
+Smith, M. U., & Good, R. (1984). Problem-solving and classical genetics: Successful v. unsuc -
+cessful performance. Journal of Research in Science Teaching, 21, 895–812.
+Smith, M. U., & Siegel, H. (2004). Knowing, believing and understanding: What goals for science 
+education? Science and Education, 13, 553–562.
+Smith, M. U., & Adkinson, L. R. (2010). Updating the model definition of the gene in the modern 
+genomic era with implications for instruction. Science & Education, 19(1), 1–20.
+Snook, I. (1972a). Indoctrination and education. New York: Routledge & Kegan Paul.
+Snook, I. A. (Ed.). (1972b). Concepts of indoctrination. London: Routledge & Kegan Paul.
+Sober, E. (2015). Ockham’s razors: A user’s manual. Cambridge: Cambridge University Press.
+Sosa, E. (2011). Reflective knowledge: Apt belief and rational knowledge . Oxford: Oxford 
+University Press.
+Stolz, K., Griffith, P. E., & Knight, R. (2004). How biologists conceptualize genes: An empirical 
+study. Studies in the History and Philosophy of Biological and Medical Sciences, 35, 647–673.
+Thompson, N., & Stewart, J. (2003). Genetics inquiry: Strategies and knowledge geneticists use in 
+solving transmission genetics problems. Science Education, 87(2), 161–180.
+Wagner, P. (1981). Indoctrination, Simon and ethical relativism. Journal of Educational Thought, 
+15(3), 187–194.
+Wagner, P. (1990). Will education contain fewer surprises for students in the future? In V . Howard 
+(Ed.), Varieties of thinking: Recent research from the Harvard Philosophy of Education 
+Research Center (pp. 176–211). New York: Routledge.
+Wagner, P. (2011). Isolationism and the possibility of truth. Interchange, 42(4), 389–408.
+Wagner, P., & Lucas, C. (1977). Philosophic inquiry and the logic of elementary school science 
+education. Science Education, 61(4), 549–558.
+Weinstein, M. (2013). Logic, truth and inquiry. London: College Publications.
+Wesson, R. (1991). Beyond natural selection. Cambridge, MA: MIT Press.
+Wiley, R. (2015). Noise matters: The evolution of communication . Cambridge, MA: Harvard 
+University Press.
+Wilson, J. (1964). Education and indoctrination. In T. H. B. Hollins (Ed.), Aims in education: The 
+philosophic approach (pp. 23–46). Manchester: University of Manchester Press.
+Wilson, J.  (1972). Indoctrination and rationality. In I.  Snook (Ed.), Concept of indoctrination  
+(pp. 17–24). New York: Routledge & Kegan Paul.
+12 Warranted Indoctrination in Science Education

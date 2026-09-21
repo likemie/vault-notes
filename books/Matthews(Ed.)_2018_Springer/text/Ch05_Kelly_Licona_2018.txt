@@ -1,0 +1,1392 @@
+Title: Epistemic Practices and Science Education
+Pages: 161-187
+
+--- PAGE 161 ---
+139
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_5
+Chapter 5
+Epistemic Practices and Science Education 
+Gregory J. Kelly and Peter Licona
+This chapter draws from the empirical studies of scientific practice to derive impli-
+cations for science teaching and learning. There has been considerable empirical 
+work from multiple disciplines (cognitive science, sociology, anthropology, rheto -
+ric) informing perspectives about science and the inner workings of scientific com-
+munities and institutions. These interdisciplinary science studies examine the 
+practices, discourses, and cultures of scientists and scientific communities. While 
+the empirical study of science has a considerable history, including informing a 
+naturalized philosophy of science, it is an area often less emphasized for informing 
+education. Such empirical studies of science offer insights about science, provide 
+implications for science learning, and model ways of investigating knowledge in 
+action. These studies of disciplinary practices have parallels in education where 
+ethnographic studies of the everyday work of teaching, learning, and schooling have 
+a long tradition. Such studies examine the cultural practices of educational phenom-
+ena in various settings, and similarly provide insights into the ways that knowledge 
+is proposed, communicated, evaluated, and legitimized through sociocognitive 
+practices.
+G.J. Kelly (*) 
+College of Education, The Pennsylvania State University, State College, PA, USA
+e-mail: gkelly@psu.edu
+P. Licona 
+Elizabethtown College, PA, USA
+e-mail: liconap@etown.edu
+The authors would like to thank Richard Duschl and the members of the Penn State Education 
+Discourse Group (Matthew Johnson, Yann Shiou Ong, Arzu Tanis Ozcelik, Jisun Park, Amy 
+Ricketts, Lucia Sasseron, Carmen Vanderhoof) for comments on an earlier draft of this chapter.
+
+--- PAGE 162 ---
+140
+A key contribution of this empirical work on the practice of knowledge construc-
+tion is the shift in the consideration of the epistemic subject from the individual 
+knower to that of a relevant social group. This research adds to the work in philoso-
+phy identifying limitations of epistemologies based in, or assuming, a Cartesian 
+subject. This shift suggests the need to examine the social processes determining 
+what counts as knowledge, to consider a communal understanding of meaning, to 
+evaluate ideas set in historical and public contexts, and to recognize the importance 
+of the assessment of knowledge claims by relevant groups. Such social processes 
+can become routinized and patterned over time becoming epistemic practices. 
+These epistemic practices include public reasoning and adjudication of competing 
+claims for knowledge.
+Epistemic practices are the socially organized and interactionally accomplished 
+ways that members of a group propose, communicate, evaluate, and legitimize 
+knowledge claims. Drawing from studies of science and education, this chapter 
+argues that epistemic practices are interactional (constructed among people through 
+concerted activity), contextual (situated in social practices and cultural norms), 
+intertextual (communicated through a history of coherent discourses, signs and 
+symbols), and consequential (legitimized knowledge instantiates power and cul -
+ture). Through application of these epistemic practices, communities justify knowl-
+edge claims.
+Through a review of research from education and science studies, the argument 
+for the relevance of a focus on epistemic practices is developed. From this point of 
+view, a number of implications for developing conceptual understanding, for learn-
+ing, and for research methodology in science education are derived. The chapter 
+shows how the use of empirical studies of scientific knowledge and knowledge con-
+struction processes in schools offers contributions to thinking about science educa-
+tion. This perspective complements the important normative work in epistemology 
+to provide a balanced view of history, philosophy, and sociology of science in sci -
+ence education.
+5.1  Education Goals for Science and Engineering Education
+In a review of major reforms in science education over the past 50 years, Duschl 
+(2008) drew from learning science and science studies to propose that science edu-
+cation be organized around conceptual, epistemic, and social learning goals. While 
+these goals can be delineated, they do not appear as separate objectives of a given 
+science lesson. Rather, they are to be integrated into lessons and experiences with 
+each building off and supporting the others. For example, Duschl notes the impor -
+tance of building models, constructing arguments, and using specialized forms of 
+language in scientific communities. Such social practices involve and are dependent 
+on cognitive processes and a history of conceptual knowledge that is brought to bear 
+on decisions about argument and models (Toulmin 1972). Recognizing these goals 
+are integrated and central to effective science education makes a shift away from 
+G.J. Kelly and P. Licona
+
+--- PAGE 163 ---
+141
+only the products of science, to a view of science that includes the evidentiary bases 
+for knowledge and need for participation in the cultural practices leading to knowl-
+edge construction (Kelly 2008, 2016; Longino 2002). The construction and assess-
+ment of models, reasoning, and communication each entail use of specialized 
+discourse (Kelly 2014a), and lead to ways that educational goals for science instruc-
+tion tie to scientific literacy.
+Debates about scientific literacy have a history with many educational goals 
+and purposes (DeBoer 2000). Conceptual, epistemic, and social goals all entail the 
+uses of discourses (spoken, written, symbolic) and pose communicative demands 
+on  students. Building on these goals for science education is a set of considerations 
+around the uses of language for learning. Norris and Phillips (2003) identified two 
+broad forms of scientific literacy, fundamental and derived. Derived scientific liter-
+acy refers to the knowledge to be an informed citizen about science and socioscien-
+tific issues. These authors argue that to develop effective knowledge about 
+socioscientific issues (derived sense of literacy), students need to be proficient in 
+reading and writing scientific texts (fundamental sense). The argument we develop 
+builds on this importance of language, but further considers how discourse pro -
+cesses are central to the work of constructing, communicating, evaluating, and legit-
+imizing knowledge claims (Kelly 2011). Discourse refers to language-in-use, 
+including verbal and non-verbal communication and uses of inscriptions, signs, and 
+symbols. Discourse positions people in social groups and identities. Social norms, 
+expectations, and practices are constructed through such discourse processes over 
+time, and in turn shape uses of discourse; thus, discourse both shapes and is shaped 
+by sociocultural practices. Discourse practices are central to the processes of seek -
+ing, building, and refining knowledge claims in science.
+Across views of scientific literacy there is a common commitment to the need to 
+develop understandings of science in context and to bring ethical and moral consid-
+erations to bear on socioscientific decision-making. For example, Aikenhead et al. 
+(2011), aim to develop capacity to engage with issues from a scientific perspective. 
+They suggest that this capacity focus on knowing how to learn and developing 
+knowing-in-action. From this perspective, propositional knowledge of science is too 
+limited a goal. They propose rather that curricular goals for science build on a triad 
+of content, processes, and contexts. Through a review of perspectives on scientific 
+literacy, Norris, Phillips, and Burns (2014) characterize intended outcomes of scien-
+tific literacy into three categories: values regarding states of knowing, values regard-
+ing capacity to engage with science in context, and values regarding moral and 
+intellectual development of learners.
+These arguments for scientific literacy build a view of learning that entails a 
+“mastery of a range of epistemic practices” (Saljo 2012, p. 10) that require knowing 
+how to draw from the texts, signs and symbols of relevant communities and employ 
+concepts in the processes of knowledge construction. Learning the discourse pro -
+cesses of epistemic cultures occurs through acculturation into the ways of being 
+instantiated by members of local communities (Kelly and Green 1998). Such local 
+communities develop social language with unique features. For science, there are 
+commonalities across social languages, for example the formalization of certified 
+5 Epistemic Practices and Science Education
+
+--- PAGE 164 ---
+142
+propositional knowledge, and variations, such as ways such knowledge is talked 
+into being in local contexts (e.g., field-based ecology research group, after school 
+science club). Learning science requires participation in a community of more 
+knowing others that provides contexts for use of social languages where acquisition 
+of scientific social languages is possible (Leach and Scott 2003).
+Such participation holds regardless of the diversity of emphases in science learn-
+ing—products or processes of science. Different science curricula will place empha-
+sis on different aspects of the conceptual, social, and epistemic goals for education. 
+To illustrate some of these differences we consider three types of curricula, science 
+as inquiry (Kelly 2014b), engineering education (Cunningham and Carlsen 2014), 
+and socioscientific issues (Sadler 2004; Zeidler 2014). These orientations toward 
+knowledge and products of knowledge across the three types of educational goals 
+(conceptual, epistemic, social) are presented in Table  5.1. This table demonstrates 
+the ways educational goals vary across three approaches to teaching science. In each 
+disciplinary approach, different conceptual, epistemic, and social practices are 
+foregrounded.
+Developing knowledge, values, and capacity to apply knowledge in action 
+requires a recognition by educators of a commitment to “certain paths and goals of 
+development and growth” that are more valuable than others (Norris et al. 2014, 
+p. 1319). The argument we develop here is that this commitment is not just to learning 
+the products of science, but rather involves understanding the importance and value 
+Table 5.1 Variation in foregrounding of the articulation of three educational goals across three 
+approaches to teaching science
+Disciplinary 
+approach: Science Engineering Socioscientific issues
+Educational goals:
+Conceptual Construction and 
+understanding of 
+plausible models for 
+representing and 
+making sense of 
+natural world
+Design, analysis, and 
+construction of models 
+and technologies for 
+specified purposes
+Construction and 
+understanding of science 
+concepts and moral, 
+personal, religious 
+perspectives
+Epistemic Understanding of the 
+reasons, evidentiary 
+bases for conceptual 
+knowledge and 
+models
+Understanding and 
+optimizing the 
+functioning of 
+technologies and 
+evidentiary bases for 
+measures of success
+Understanding the multiple 
+perspectives (e.g., scientific, 
+moral, personal, religious) 
+for the construction of 
+coherent line(s) of 
+reasoning supporting a 
+position(s) on a 
+controversial issue
+Social Recognize the 
+procedures used by 
+epistemic cultures to 
+generate, 
+communicate, and 
+evaluate knowledge 
+claims
+Recognize the 
+procedures used by 
+design and analysis 
+teams and role of client 
+in generating, 
+communicating, and 
+evaluating technological 
+designs
+Recognize the procedures 
+for generating, 
+communicating, and 
+evaluating arguments 
+supporting particular 
+position(s) on an issue
+G.J. Kelly and P. Licona
+
+--- PAGE 165 ---
+143
+of the disciplinary nature of science and engineering fields. This means that our 
+view of epistemology is not one of a personal way of knowing, but rather that there 
+are disciplinary ways of knowing that can be empowering for learners and recog -
+nized by legitimizing institutions. Thus, we turn to studies of science in action (his-
+tory, philosophy and sociology of science, plus anthropology and rhetoric of 
+science), to examine the processes and values associated across four categories of 
+epistemic practices  - proposing, communicating, evaluating, and legitimating 
+knowledge claims.
+5.2  History, Philosophy, and Sociology of Science (HPS) 
+and Epistemic Practices
+Studies in the History, Philosophy, and Sociology (HPS) of science and science 
+teaching have drawn largely from the fields of history and philosophy. For example, 
+a recent comprehensive HPS handbook (Matthews 2014) leaves sociology out of the 
+title and largely out of the series of chapters. The perspectives in this handbook and 
+elsewhere drawing from history and philosophy of science are valuable and have 
+advanced thinking in education in a number of ways (e.g., Duschl 1990; Matthews 
+2015), including setting a prominent role for disciplinary knowledge in consider -
+ations of educational aims. To complement such perspectives, in this chapter we 
+draw from an alternative body of literature that sets scientific knowledge and prac-
+tice (i.e., science-in-the-making, Kelly et al. 1998) as the foci of empirical investi-
+gation. Studies from anthropology, sociology, and rhetoric of science have been 
+introduced into conversations about science education in a number of ways over an 
+extended period of time.1
+Studies from the sociology of science have been ignored and often criticized in 
+science education (e.g., Koertge 1998; Slezak 1994a, b; for alternatives, see Allchin 
+2004; Kelly 2005). Such criticisms often focus on the ways that sociology of sci -
+ence can be interpreted to offer a debunking critique of science. The emphasis on 
+the social, causal explanations for the success for scientific theories and scientists 
+by sociologists (Collins 1985) appears to run counter to not only the value of epis -
+temology as a discipline, but also to a central educational goal of developing ratio-
+nality among students. In a more recent book, Collins ( 2014) noted how a 
+sociological understanding of science has identified the unique values, commit -
+ments, and expertise of scientific communities (p. 124), which cohere with educa -
+tional goals. While we recognize problems in the sociology of science, we make 
+three counter arguments to such criticisms, and in doing so leave open the possible 
+value of the empirical study of scientific practices.
+First, it is important to differentiate normative from descriptive accounts of social 
+practice. Translating descriptions of actual practice to normative goals misses the 
+central point of the empirical studies of practice. Normative goals may be informed 
+1 See: Collins 2007; Ford 2008; Heckler 2014; Kelly and Bazerman 2003; Kelly et al. 1993; Kelly 
+and Crawford 1997; Roth et al. 1996; Stewart and Rudolph 2001.
+5 Epistemic Practices and Science Education
+
+--- PAGE 166 ---
+144
+by studies of everyday life in social settings, but such educational goals are depen-
+dent on deontological arguments that include a range of considerations beyond a 
+replication of current practice. Empirical studies of practice identify how knowl -
+edge is constructed in situ ; this may expand the range of understanding about 
+knowledge construction, but not every behavior needs to contribute to normative 
+goals. Second, for the purposes of educational theory, sociology of science and 
+other empirical studies of science need to be read and understood from an educa -
+tional point of view. Such studies may expand the range of knowledge about sci -
+ence, bring to light inner workings of epistemic cultures, and identify ways that 
+claims are modified through experimental and textual work. These valuable insights 
+can contribute to the development of educational programs without suffering from 
+excesses of a relativist epistemology (Allchin 2011). Third, ethnographic studies of 
+science from sociology and anthropology offer a range of methodological orienta -
+tions and approaches to understanding cultural practices of science. The overall 
+stance of investigating science-in-the-making through inquiry into how knowledge 
+is produced offers a model for studies of education (Kelly et al. 1998). This approach 
+asks similar questions about what counts as knowledge in school settings. The 
+examination of the ways that groups produce knowledge offers a model that can be 
+taken up in education.
+5.2.1  Illustrative Examples of Epistemic Practices 
+from Education Informed by Science Studies
+We define epistemic practices as the socially organized and interactionally accom-
+plished ways that members of a group propose, communicate, evaluate, and legiti -
+mize knowledge claims (Kelly 2008, 2016). Social practices are patterned actions 
+that are recognizable among members of a group. Epistemic practices are central to 
+both science and education. Practices are learned through participation and often 
+entail extended interactions with members already familiar with the ways that prac-
+tices are recognized as socially significant. Such practices are not static over time 
+and may be contextualized to relatively local groups – for example, a laboratory 
+technique may be invented and used in a local context of research before being 
+spread with various dissemination activities. Thus, epistemic practices are defined 
+and acknowledged in a group that can be very localized and mutable, or extend to 
+large membership through formulation (e.g., Hamiltonian function, standardized 
+laboratory protocols). These epistemic practices are formed in endogenous com -
+munities and may be constructed and extended, modified and changed, and are 
+based in substantive assumptions, such as the ontological categories of a discipline. 
+Furthermore, in education, there are various forms of epistemic practice that vary 
+with relevant pedagogical goals. For example, epistemic goals of an inquiry lab may 
+be significantly different than those of a debate regarding socioscientific issues.
+Since epistemic practices are field- and time-dependent (changing due to the 
+challenges of knowledge production), there is not a limited set of “science practices.” 
+This contrasts with how “the scientific method” is often interpreted in education as 
+G.J. Kelly and P. Licona
+
+--- PAGE 167 ---
+145
+a set of linear steps. Rather, there are disciplinary (and other!) ways of knowing 
+that vary across the multiple ways that humans make sense of their experience. 
+The point is not to define a given set of eight practices (NGSS Lead States 2013), 
+or the five steps of the scientific method. Rather, the idea is to identify the ways 
+people come to know and recognize the value of making sense in systematic ways 
+that render evidence open for public scrutiny and evaluation.
+To illustrate the four categories of epistemic practices (ways of proposing, 
+communicating, evaluating, and legitimizing knowledge), we draw from a series of 
+education studies of Kelly and his colleagues. These studies represent an empirical 
+program of epistemology – that is, they focused on what counts as knowledge, rea -
+soning, justification, and representation in science education settings. The studies 
+were informed by science studies and educational ethnography.
+One dimension of epistemic practices concerns the value of proposing knowl-
+edge claims. Kelly et al. ( 2001) examined the discourse processes of four physics 
+groups studying oscillatory motion. The student discourse was analyzed from a 
+sociolinguistic perspective that considered the verbal and non-verbal communica -
+tion, which included the signs and symbols, proxemics, and prosody of the conver-
+sations (Green et al. 1988; Gumperz 2001). The student groups made a series of 
+knowledge claims. In this example, students needed to make interpretation of the 
+physical events (oscillating masses), symbols (real-time, computer generated 
+graphs), verbal and written prompts (student talk,  teacher lab guide sheet), and 
+embodied motion (student imitation of motion through physical movement of 
+hands). The basis for much of the generation of knowledge claims was produced by 
+the data acquisition and representation technologies. The computer generated visual 
+texts were a consequence of the live complex physical phenomena and offered suf-
+ficient interpretative flexibility (Knorr-Cetina 1995) to provoke sustained conversa-
+tion. Thus, a series of knowledge claims, often as false starts and initial thinking, 
+were central to the activity by providing a focus for the students’ processes of delib-
+eration about the phenomena. The knowledge gleaned from the educational experi-
+ence was supported by these knowledge claims  – that is, ways of proposing 
+assertions about the physical phenomena.
+The methodological orientation was supported by studies of scientific practice, 
+including Garfinkel et al. ( 1981) analysis of the “local, interactionally produced, 
+recognized, and understood embodied practices” (p. 135) of astronomers through 
+the processes of discovering, naming, and textually identifying a pulsar. Much like 
+the astronomers, the physics students made sense of the phenomena by proposing a 
+series of claims that were considered and modified over time by the group 
+members.
+Kelly and Brown (2003) examined the communicative demands of learning sci-
+ence through technological design. In this case, third grade students were tasked 
+with using science to inform the design of functioning solar energy devices. 
+Communicating knowledge claims is central to the development of knowledge gen-
+eration. In this instance, the knowledge claims emerged from a series of events that 
+required the students to work together in teams to study designs, brainstorm ideas, 
+negotiate and renegotiate design strategies, and test and evaluate their solar devices. 
+The students participated in multiple speech situations, where knowledge of science, 
+5 Epistemic Practices and Science Education
+
+--- PAGE 168 ---
+146
+materials, and phenomena were in question. Knowledge claims were forwarded 
+to multiple audiences (e.g., small student groups, presenting ideas to classmates, 
+student “scientific” reporter). The technological design challenge offered students 
+multiple forums for drawing from extant knowledge and for advancing their own 
+thinking. In this study, the students were situated in forums where discourse was 
+central to the academic and scientific task. They needed to use sense making, per -
+suasion, and representation of their thinking. While the substance of the communi-
+cation differed from the formalization often found in scientific texts, the epistemic 
+practices and the need for formulating evidence in particular ways is analogous to 
+the discursive work of scientists (Bazerman 1988; Traweek 1988). The inquiry 
+processes and engineering designs necessitating communication and, in particular, 
+forwarding knowledge claims deemed persuasive by the relevant audience.
+Takao and Kelly (2003) applied rhetoric of science and argumentation analysis 
+to consider ways of recognizing and evaluating adherence to scientific genres in 
+writing. Assessing the merits of the presentation of evidence is one way that knowl-
+edge claims can be evaluated. Drawing from rhetoric of science (Bazerman 1988; 
+Gross 1989) and theories of argumentation (Kuhn 1992), this study first reviews key 
+features of evidentiary-based arguments in science. Scientific evidence is presented 
+in particular genres (patterned uses of language) with unique features—that is, 
+knowledge claims are justified through socially accepted ways of presenting evi -
+dence. The study focused on methods of assessment of university students’ uses of 
+evidence regarding plate tectonics. Through a review of the literature and the analy-
+sis of the students’ written arguments, key features of the situated nature of the 
+genre of writing evidence were examined. In this case, the formulation of evidence 
+entailed building from low inference claims to progressively higher order theoreti -
+cal claims, while identifying coherence across epistemic levels of generality. The 
+analysis of the students’ papers identified this genre-specific feature of using evi -
+dence in geology. These features were difficult for even experienced graduate stu -
+dent instructors to recognize in others’ writing. The example shows while the 
+assessment of knowledge claims is important in science, the processes often remain 
+tacit and unrecognizable for participants. This is an example of how science studies 
+can make visible the epistemic practices associated with assessment knowledge claims.
+In a study by Reveles et al. (2004), the teacher (Cordova) positioned his students 
+to legitimize a scientific point of view  amidst competing ways of thinking about 
+natural phenomena. In this third grade classroom the students are introduced to a set 
+of epistemic practices (organized around investigating, communicating, and using 
+evidence). In this case, the goal of developing improved scientific literacy required 
+more than learning the conceptual knowledge of science, or even the abilities to 
+read and write science (Norris and Phillips 2003) – although the uses of language 
+was an important component. In this example the teacher made reference to science 
+and scientists in an effort to develop students’ knowledge of disciplinary practices. 
+He was able to accomplish this through meta-discourse, talk about the classroom 
+talk. In doing so, he built on students’ initial ideas and made reference to how they 
+were using scientific concepts to understand phenomena. This is an example of how 
+fostering epistemic practices among young students differs from the uses of such 
+practices in science fields.
+G.J. Kelly and P. Licona
+
+--- PAGE 169 ---
+147
+In the educational context, a key piece of the learning experience entailed devel-
+oping students’ identities as science learners capable of participating and making 
+sense of scientific practices. This is just one way that knowledge can be legitimized 
+in and through classroom discourse. There are multiple ways that knowledge can be 
+legitimized in science and engineering fields (Pinch 1986). These legitimation pro-
+cesses often entail uses of texts and peer review and many agonistic struggles and 
+competition (Latour 1987; Myers 1989, 1997). Knowledge claims can be proposed, 
+communicated, and assessed, without entering into the socially recognized public 
+knowledge and thus through the processes of legitimation such knowledge claims 
+can become scientific knowledge.
+5.2.2  Emerging Themes from Study of Epistemic Practices 
+in Science and Education
+5.2.2.1  Contexts of Knowledge Claims
+Across the four studies mentioned in the previous section, and others in education 
+building on science studies (Jiménez-Aleixandre 2014), an important feature of the 
+learning process is a focus on knowledge across three types of contexts. In philoso-
+phy of science, there was a distinction made between the (often messy and confus-
+ing) context of discovery and the (inferentially tight) context of justification. Both 
+of these are important for science learners. The context of discovery provides 
+opportunities to learn about instrumentation, how ideas connect to phenomena, and 
+how knowledge claims change through inquiry. The context of discovery also pro-
+vides opportunities to learn about how seemingly subject-dependent processes such 
+as observation, require cultural knowledge to learn how to observe (Norman 1998). 
+The context of justification remains important, not only to understand how theories 
+change over time (e.g., Duschl 1990; Matthews 2015), but also to understand the 
+ways that evidence gets marshaled in science (Duschl and Grandy 2008). Another 
+context of equal importance is the context of communication and presentation. This 
+context does not occur after the inquiry processes, when the knowledge claims are 
+completed, but throughout the contexts of discovery and justification, as knowledge 
+claims are conceived, put forth, debated, formulated, reviewed, critiqued, and 
+revised. For this, context issues of persuasion and audience play a central role.
+5.2.2.2  Epistemic Subject as Local Endogenous Community
+Studies of epistemology in science education have been based on the epistemology 
+of scientific knowledge (e.g., views of theory change and rationality), or personal 
+epistemologies of individual learners (e.g., how views of knowing influence learning). 
+An alternative view informing this chapter emerges from studies of epistemology 
+in situ , focusing on the situated contextual practices of knowledge construction 
+(Kelly et al. 2012). From this point of view, the locus of attention centers on how 
+5 Epistemic Practices and Science Education
+
+--- PAGE 170 ---
+148
+participants in an epistemic culture decide what counts as evidence, knowledge, and 
+justification. The practices view of epistemology can be informed by both the study 
+of disciplinary knowledge or of learners’ views of knowing, but also reorganizes the 
+research approaches to actual practices of knowledge construction. From this point 
+of view, a key feature of knowing is the recognition of the local endogenous com -
+munity as the relevant epistemic subject (Kelly 2008; Longino 1993).
+Situating the epistemic subject in a relevant community of knowers suggests a 
+view of learning as socialization into ways of being, knowing, interacting, and par-
+ticipating. Learning occurs through participation and engagement. Central to such 
+participating is developing social meanings for terms, concepts, processes, and 
+ways of being in a field. Under this orientation, teachers aim to engage students in 
+epistemic practices through knowledge constructing activities. From theories of lan-
+guage socialization, it is clear that it takes significant socialization and acculturation 
+to have meaningful conversations about substantive scientific concepts and proce -
+dures (e.g., s and p orbitals in atoms, mass spectroscopy).
+As proposers of knowledge claims seek greater generality, claims migrate 
+through increasingly broader levels of critique and legitimation. Longino ( 1990, 
+2002) proposed a set of social norms for the development of social (scientific) 
+knowledge. Longino recognized the important role of social processes and values in 
+the evaluation and legitimation of knowledge claims. The four norms are the follow-
+ing: The venue refers to the need for publicly recognized forums for the criticism of 
+evidence, methods, assumptions, and reasoning (e.g., research meetings, conference 
+presentations, and publications). Uptake refers to the extent to which a community 
+tolerates dissent, and subjects its beliefs and theories to modification over time in 
+response to critical discourse. A basis for criticism of the prevailing theories occurs 
+through publicly recognized standards. These standards frame debates and criticism 
+and evolve over time as research groups, communities and disciplines develop new 
+knowledge and practices. Finally, Longino (2002) argued for communities charac-
+terized by equality of intellectual authority, tempered by relevant levels of expertise 
+and knowledge.
+Longino’s argument is that such social norms are prescriptive – offering a nor -
+mative account for public discourse in science. Such norms may be adaptable for 
+learning contexts in education (Kelly 2014b). Longino’s perspective offers ways 
+of integrating the results from the practices of inquiry into the social knowledge 
+recognized and legitimized by an epistemic culture, thus showing the importance of 
+normative considerations for epistemology.
+5.3  Epistemic Practices in Science and Engineering 
+Education
+Studies of scientific and engineering practices offer a number of implications for 
+science and engineering education. These studies contribute to the important 
+dimension of curriculum validity by considering the epistemological dimensions of 
+education. By identifying what counts as science, design, engineering, experiment, 
+G.J. Kelly and P. Licona
+
+--- PAGE 171 ---
+149
+and so forth, these studies open a range of possibilities for inventive, creative cur -
+riculum development. The study of professional practice and the epistemic cul -
+tures producing knowledge provides insights into not only how science and 
+engineering are conducted, but also the ways in which knowledge is proposed, 
+communicated, evaluated, and legitimized. Furthermore, ethnographic, sociological, 
+and rhetorical studies of the actions, practices, and texts of professional practice 
+offer models for the study of knowledge in education settings. These implications 
+are noteworthy and complement the work that has emerged from the history and 
+philosophy of science. Nevertheless, studies of professional practices cannot be 
+taken without careful consideration of the educational contexts (McDonald and 
+Songer 2008). Students often have considerably less knowledge and fewer and less 
+developed habits of mind to bring to bear on issues of inquiry. Although when work-
+ing under conditions with proper scaffolding, students have been shown to engage 
+in knowledge building and reasoning (Lehrer and Schauble 2012), ethnographies of 
+science also identify the highly competitive and sometimes ruthless rivalries in pro-
+fessional communities that would be detrimental to educational purposes. So, while 
+HPS, and in particular the empirical study of science and engineering practice, 
+has demonstrable value for science education, such studies must be read from an 
+educational point of view where issues of ethics, pedagogy, and human development 
+outweigh views of authenticity. There are a number of emerging research programs 
+in education that build on science studies, taking carefully considered readings of 
+this work into the study of epistemic practices in education.
+5.3.1  Research Programs Regarding Epistemic Practices 
+in Science Education
+Science studies have been taken up and applied to science education in a number of 
+contexts and across a range of educational purposes (e.g., Kelly et al. 1993; Kelly 
+and Crawford 1997; Roth et al. 1996). We now turn to research in science and engi-
+neering education that brings science studies perspectives to education. These stud-
+ies have a common orientation to consider epistemological issues as interactionally 
+accomplished among members of an educational community for specific goals 
+(Kelly et al. 2012). In this section we answer the question: What does a focus on 
+epistemic practice contribute to the field of history, philosophy, and sociology of 
+science and science teaching (HPS&ST)?
+5.3.1.1  Nuanced Understandings of Language and Its Relationships 
+to Meaning
+As we view epistemic practices as the socially organized and interactionally accom-
+plished ways that members of a group propose, communicate, evaluate, and legiti -
+mize knowledge claims, engaging in epistemic practices involves making meaning 
+among people through discourse. Discourse is language-in-use and includes spoken 
+5 Epistemic Practices and Science Education
+
+--- PAGE 172 ---
+150
+and written language, uses of signs and symbols, and non-lexical elements of com-
+munication such as body language and eye gaze. A number of studies in science 
+education address epistemological questions through the study of discourse pro -
+cesses. One such research program follows an approach labeled the practical episte-
+mology analysis (Lidar et  al. 2010; Ostman and Wickman 2014). Rather than 
+consider the epistemology of science as a known entity, and seeking to inculcate 
+students into this perspective, a practical epistemology analysis focuses rather on 
+the everyday practices of students and teachers making sense of phenomena and 
+developing knowledge. This view takes epistemology as situated “in on-going com-
+munication, action, and practice” (Ostman and Wickman 2014, p. 375) and is con -
+sistent with the view of epistemic practices developed in this chapter. These studies 
+examine meaning making, in situ, through analysis of the talk and action of mem -
+bers of a group. As the focus is on the work of deciding what counts as knowledge, 
+the authors refer to the perspective as practical epistemologies.
+Practical epistemologies focus on what counts as knowledge and how partici -
+pants construct knowledge in educational events (Wickman 2004). To examine such 
+issues in learning contexts, the researchers draw from Wittgenstein (1958) and focus 
+on the language games of science learning. In this case, language games identify 
+how meanings are constructed in situated actions and tied to ways of life (Heckler 
+2014). That is, the meanings of key terms are not taken for granted, but examined as 
+either plausibly assumed or at stake in any given conversation. To examine practical 
+epistemologies the research group has developed practical epistemological analysis 
+(PEA). This approach considers those concepts that stand fast (assumed communal 
+meaning) and the gaps (lack of initial understanding) that occur when students 
+encounter challenges through talk or action (Wickman 2004). Students build rela -
+tions with understood and effectively useful constructs across gaps in understand -
+ing. This approach allows for a close examination of how students’ epistemologies 
+in action account for the development of meaning. An example of this approach is 
+provided by Lidar et al. ( 2010) who examined children’s discussion about gravity 
+and the shape of the Earth. The study showed how children made different meaning 
+from a shared situation. These meanings were mediated by relevant artifacts such as 
+a celestial globe and maps, and were varied in their adherence to normative 
+interpretation.
+5.3.1.2  Disciplinarity and Variation in Epistemic Practices
+Science may refer to a body of knowledge, a set of disciplines, or even a way of 
+making sense of nature. The potential for commonality and differences across 
+different substantive disciplines remains an open question for considerations of 
+epistemic practices. That is, we would expect commonality, at least in a family 
+resemblance manner, for some portions of science disciplines, but also recognize 
+that considerable variation is likely. In this section we review some of the ways that 
+epistemic practices are manifest in various science disciplines. Our purpose is to 
+provide illustrative examples of how different disciplines make sense of those 
+G.J. Kelly and P. Licona
+
+--- PAGE 173 ---
+151
+aspects of nature studied, and what can be learned by looking across such 
+perspectives.
+The individual scientific disciplines – across the life sciences, physical sciences, 
+and earth and space sciences  – are often conveniently grouped as “science” and 
+naively assumed to represent common ways of knowing and epistemic practices. 
+While there may be some commonality among general epistemic practices, each of 
+the individual sciences may require students to engage in different ways of making 
+sense and building knowledge (Rudolph 2000). For illustrative purposes we con -
+sider some of the research around the disciplinarity in science education and exam-
+ine the commonalities, but, more importantly, the differences across disciplines. 
+Three examples make the point.
+Ault (1998) used the term “domains of inquiry” in order to acknowledge that the 
+different sciences ask different questions and use different data sets. What counts as 
+a legitimate question, evidence, and reasoning varies according to each domain of 
+inquiry. For example, Ault noted that the earth and space sciences seek to retrodict, 
+or answer questions about the past, as opposed to other domains that seek to predict. 
+What counts as data, evidence, and reasoning about past geological events differs 
+from the data, evidence, and reasoning relevant to development of knowledge about 
+biological organisms. Given such disciplinary differences, the epistemic practices in 
+these domains may vary. This is evident in a set of discipline-specific criteria geol-
+ogy education derived by Ault ( 1998). To engage in geological inquiry students 
+need to draw from specific epistemic practices such as understanding constraints on 
+ambiguity; drawing from independent, converging lines of inquiry; identifying 
+proper taxonomies; extrapolating systems through time; and integrating across tem-
+poral and spatial scales. This attention to domain specific epistemic practices would 
+necessitate different pedagogical methods.
+In the life sciences, Jimenez-Aleixandre ( 2014) sought to examine the connec -
+tions between science learning and the epistemology of science and noted three 
+interrelated dimensions: domain-general and domain-specific features of epistemol-
+ogies, correct versus productive students’ epistemological positions, and comple -
+mentary approaches to the relationships between epistemology and science learning. 
+Relevant to our work is her attention to domain-general versus domain-specific 
+epistemologies, most specifically her treatment of genetics and the three aspects of 
+relevance for engaging students: understanding what counts as acceptable science, 
+identifying patterns in data, and recognizing the differences between probabilism 
+and determinism. Such understandings develop through student engagement with 
+genetics and in particular, learning to use and critique evidence through argumenta-
+tion. Her argument is that the goal of teaching genetics is to support students in 
+developing the capacity to understand and evaluate pieces of information related to 
+genetics. Thus, building the capacity to use and evaluate evidence develops in stu -
+dents the abilities to learn and decipher socioscientific issues such as cloning, 
+genetic screening, and commercial interests in genetics. This study shows how ways 
+of engaging students in epistemic practices can develop scientific literacy in 
+students.
+5 Epistemic Practices and Science Education
+
+--- PAGE 174 ---
+152
+Erduran (2007) and Erduran and Duschl (2004) argued for domain specific epis-
+temological considerations in the analysis of specific features of laws in sciences 
+and models in chemistry. Erduran (2007) made the case that laws in chemistry, such 
+as the periodic law, are not exact and deducible in the ways that laws, such as 
+Newton’s law of gravitation, in physics are. She recommended a consideration of 
+the application of philosophy of chemistry to chemical education in three distinct 
+ways. First, she sought to develop ways that an epistemology of chemistry can be 
+related to developmental patterns in students’ thinking with respect to understand-
+ing how laws in chemistry are generated and evaluated. Second, she found ways that 
+disciplinary-specific epistemology can be used to inform curriculum design. And 
+third, epistemology of chemistry can be used to inform current and future chemistry 
+teachers about how knowledge is structured in the discipline and how this structur-
+ing is related to the teaching of chemistry.
+While epistemic practices such as argumentation and evidence-based explana -
+tions do indeed cross the boundaries of the science domains, such practices may be 
+taken up and applied in domain specific ways that distinguish science and engineer-
+ing disciplines from each other. Furthermore, the individual science subsumed 
+under the large umbrellas of the life, physical, and earth and space sciences may 
+also differ. Erduran ( 2007) made an argument noting the difference of the term 
+“law” between chemistry and physics, both physical sciences. Similar inspection is 
+needed in the individual life sciences (e.g. botany, zoology, mycology) as well as 
+within earth and space science in order to consider how what counts as knowledge 
+differs between the sciences.
+5.3.1.3  Student Learning About Science Through Engagement 
+in and with Science
+One advantage of engaging students in epistemic practices of science and engineer-
+ing is that they may be able to learn about the nature of the disciplines through 
+participation. This is not to suggest that merely going through the motions of labo-
+ratory procedures develops knowledge. Rather, the processes of inquiry, reasoning, 
+and engineering design, among other ways of knowing, offer students insights into 
+disciplinary approaches to knowledge construction if properly organized and 
+reflected upon (Rudolph 2000). We have argued throughout this chapter that the 
+epistemic practices we describe are illustrative examples of the kinds of ways vari-
+ous science and engineering disciplines construct knowledge.
+Irzik and Nola (2011) have applied Wittgenstein’s notion of family resemblances 
+to the nature of science, or more properly, the natures of the sciences. They argue 
+that across multiple disciplines of science there is a family resemblance of the kinds 
+of activities, values, methodologies, and products. This approach has the advantage 
+of not limiting the nature of knowing, recognizing the value of disciplined 
+approaches to knowledge construction, and combined with reflective practices 
+about activities, values, methodologies, and products may improve students’ under-
+standings of and about science. Our examples of epistemic practices have largely 
+G.J. Kelly and P. Licona
+
+--- PAGE 175 ---
+153
+fallen into the category of activities, but this does not mean that values, methodolo-
+gies, and products do not need to be examined and integrated into education as well. 
+Furthermore, any choice of representation of epistemic practices requires a selec -
+tion of the range of real-world practices of science (Rudolph 2002).
+Science learning often situates students in sense making situations, with goals of 
+developing propositional and procedural knowledge. The focus on knowledge con-
+struction in student reasoning has led to the practical epistemology employed by 
+students through engagement (Wickman 2004; Sandoval 2005). Wickman (2004) 
+identified the ways that students learned what counted as a valid observation in 
+chemistry. Students drew from the chemical phenomena, prior experience, and the 
+expertise of the teacher. Through these processes, the students addressed gaps in 
+their understanding by patching together meanings derived from use in the contexts 
+of the learning situations. Sandoval (2005) took a similar approach, noting the ways 
+that teaching about science (nature of science) has not been successful at developing 
+robust understandings about science. He noted that engagement in inquiry does not 
+develop an understanding about the epistemology of science. Rather, students are 
+guided by the practical experiences of their locally relevant situation. They develop 
+ways of knowing, or a practical epistemology, that are unlikely to be coherent and 
+explicitly recognized by learners.
+Other studies consider how students can learn about science through engagement 
+in scientific activities. Ford (2008) drew from science studies and the psychology of 
+learning to show how students come to understand roles as “constructors and criti-
+quers” (p. 159) of claims. These are important roles that embody epistemic practices 
+of scientists, and may help students take on the role of a skeptical observer. Ford is 
+concerned with developing students’ capacity to assess claims as citizens. He argued 
+that through engagement, students develop a grasp of practice, and while this may 
+not develop immediately into declarative knowledge about science, it can inform 
+reasoning in the public sphere about science issues.
+One important dimension of constructing and critiquing claims is the epistemic 
+criteria brought to bear on the decisions regarding evidence. Pluta et  al. ( 2011) 
+examined middle school students’ criteria for judging the quality of scientific mod-
+els. The students were shown to be able to generate epistemic criteria such as the 
+explanatory functions of models, the role of evidence in making decisions about 
+uses of models, the inclusion of appropriate details in the models, and the accuracy 
+of the models as related to empirical observations. Given the prominent role of 
+models in scientific reasoning (Giere 1999), these criteria are important parts of 
+learning how to engage in the construction and critique of knowledge claims.
+A number of studies of epistemic practices in education consider the ways that 
+messages about science are communicated through engagement in activity. While 
+such messages about science may not lead to robust understandings of professional 
+practice (Sandoval 2005), often misconceptions about science are promulgated 
+(Lemke 1990). For example, Oliveira et  al. ( 2012) examined teachers’ uses of 
+hedges and boosters in conversations that implied different levels of certainty in 
+science and thus reflect an implicit view of the nature of science. As teachers often 
+followed the stepwise progression of ideas in textbooks, students received messages 
+5 Epistemic Practices and Science Education
+
+--- PAGE 176 ---
+154
+about the authoritarian nature of science. In this study, the teachers’ choices of how 
+to frame knowledge and draw on only specific practices limited students’ under -
+standing of science. Interestingly, while science often publically views itself as open 
+to revision and evidence, this value co-exists with the need to acculturate novices 
+into the ways of being and knowing of the relevant epistemic community (Fleck 
+1935/1979; Kuhn 1962/1996). While messages are communicated about science 
+through practice, across these studies and others (Akerson et al. 2000), students are 
+shown to need reflective meta-discourse about inquiry activities to develop under -
+standings about science (Reveles et al. 2004). Engagement in epistemic practices 
+provides a basis for such discussions and can offer insights into the processes of 
+knowledge construction.
+5.3.1.4  Broadening Uses of Knowledge to Social and Ethical Domains
+Inquiry science and socioscientific issues are two approaches to science education 
+that have gained prominence in recent years. These approaches share a common 
+goal in the move away from a traditional approach in which science content is deliv-
+ered from the teacher to the students with little attention to how this content was 
+produced. While both of these approaches share a common goal, the epistemic prac-
+tices necessitated by each approach differ. In order to focus on the different epis -
+temic practices promoted by these approaches, it is necessary to consider the 
+separate goals of each approach. Goals of an inquiry approach include promoting 
+students to ask authentic questions, plan authentic investigations, and use the results 
+of the investigations to provide answers to the questions. As students attempt to 
+answer a scientific question, they bring to bear scientific evidence and reasoning. 
+Engineering education is another approach that engages students in science, but for 
+the purposes of technical design or analysis. Across these approaches are variations 
+in the extent of the scope of the relevant ethical domains. In inquiry science, issues 
+of ethics and values often center on the integrity of the research approach. 
+Engineering entails ethics around the application of design and analysis to serve a 
+human purpose, and often the concerns are safety, function, and cost.
+The goal of a socioscientific approach is to develop scientific literacy by promot-
+ing the exercise of informal reasoning in which students are compelled to analyze, 
+evaluate, discuss, and argue varied perspectives on complex issues that are 
+ ill- structured but fundamentally important to the quality of life in social and natural 
+spheres (Sadler 2009; Zeidler 2014). As students consider and attempt to respond to 
+the issue at hand, they may bring scientific, ecological, moral, religious, personal, 
+and/or economic perspectives to bear on the issue. In contrast to an inquiry science 
+approach, a socioscientific approach does not constrain explanations, arguments, 
+evidence, or reasoning to only a scientific perspective. In addition, a socioscientific 
+approach often requires students to take a position on or make a decision about a 
+specific issue. In contrasting across approaches, we can consider the concept of 
+G.J. Kelly and P. Licona
+
+--- PAGE 177 ---
+155
+genetically modified organisms (GMO), in this case GMO corn. An inquiry approach 
+might ask, “Does genetically modified corn grow better than wild corn?” On the 
+other hand, a socioscientific issues approach might ask, “Should genetically 
+modified corn be introduced into the natural ecosystem?” An engineering question 
+might be “how can corn be modified to conform to a set of social and economic 
+constraints?” While these approaches use the concept of genetically modified organ-
+isms, each asks a different question, thus promoting different epistemic practices in 
+answering the different questions.
+In considering the epistemic practices promoted by these approaches we return 
+to the four epistemic practices of proposing, communicating, evaluating, and legiti-
+mating knowledge as proposed by Kelly (2008). While an inquiry approach focuses 
+on the use of scientific knowledge, a socioscientific approach also considers knowl-
+edge from other domains (e.g., ethical, economic, and religious). As such, students 
+are required to engage in epistemic practices from various perspectives, some of 
+which may be competing. The epistemic practices foregrounded by an inquiry 
+approach would center on the construction, communication, evaluation, and legiti -
+mization of a scientific explanation that answers a scientific question. The epistemic 
+practices foregrounded by a socioscientific approach would require students to 
+engage in these practices while attempting to answer the original socioscientific 
+question that often involves taking a position. These arguments are multiple and 
+originate from not only the scientific perspective but also ethical, moral, economic, 
+and religious perspectives. In this way, each perspective may require students to 
+construct, communicate, evaluate, and legitimate (or not) multiple and often com -
+peting arguments.
+What counts as evidence or reasoning from each perspective may vary, thus 
+requiring students to engage in epistemic practices that go beyond the scope of the 
+scientific content of the argument. For example, a student arguing from the scientific 
+perspective may provide an argument regarding the ecological implications of intro-
+ducing a GMO into the natural ecosystem. On the other hand, another student may 
+provide an argument from a purely economic perspective regarding the increased 
+yield of GMO crops. In yet a third case, a student may provide an ethical argument 
+stating that it is wrong to introduce an organism produced in a lab into the ecosys -
+tem. Each argument originates from a different perspective and would require stu -
+dents to consider what counts as a strong (or weak) argument in each of these 
+perspectives. While both inquiry science and socioscientific issues approaches to 
+science education promote a move away from content-delivery pedagogy, each 
+approach differs in the epistemic practices foregrounded. Engineering provides yet 
+another set of practices that concern identifying the problem, assessing constraints, 
+considering multiple solutions, and providing analysis. In each of these ways of 
+drawing from science and engaging in knowledge building require that students 
+appropriate and take up various epistemic practices.
+5 Epistemic Practices and Science Education
+
+--- PAGE 178 ---
+156
+5.4  Characteristics of Epistemic Practice in Science 
+and Engineering Education
+Epistemic practices may be appropriated and taken up differently across a range of 
+educational goals for STEM education. While there is no finite set of epistemic 
+practices characterizing science or engineering, we present some illustrative 
+examples across a range of educational goals in Table  5.2. For comparison sake we 
+consider inquiry science (Kelly 2014b), engineering education (Cunningham and 
+Carlsen 2014), and a socioscientific issues approach (Zeidler 2014). Some key dif-
+ferences in educational goals and the nature of epistemic practices are evident in 
+Table 5.2 Illustrative examples of epistemic practices three orientations toward science and 
+engineering education
+Disciplinary 
+approach: Inquiry Science Engineering Socioscientific issues
+Epistemic practices:
+Propose Posing scientific 
+questions
+Designing scientific 
+investigations to 
+answer questions
+Making observations
+Envisioning relevant 
+evidence based for an 
+investigation
+Building and refining 
+models
+Identifying problems
+Considering problems 
+in context
+Applying scientific 
+concepts and 
+reasoning
+Applying mathematical 
+reasoning
+Envisioning multiple 
+solutions
+Persisting and learning 
+from failure
+Using systems thinking
+Posing questions – 
+scientific, 
+economic, moral, 
+religious, ecological
+Designing 
+investigations to 
+answer questions
+Balancing multiple 
+lines of reasoning
+Constructing a rebuttal
+Communicate Developing a scientific 
+line of reasoning
+Providing disciplinary- 
+specific justification 
+for knowledge claims
+Writing a scientific 
+explanation (lab 
+report)
+Communicating a verbal 
+scientific explanation
+Constructing a scientific 
+explanation based on 
+evidence and 
+reasoning
+Communicating 
+effectively in working 
+teams
+Justifying project 
+designs for given 
+constraints
+Communicating to the 
+client
+Constructing evidence 
+based on 
+investigations
+Taking a position
+Constructing 
+(multiple) 
+arguments based on 
+evidence and 
+reasoning
+Presenting an 
+argument
+Engaging in a debate 
+or role-play
+(continued)
+G.J. Kelly and P. Licona
+
+--- PAGE 179 ---
+157
+this table. For example, inquiry science generally seeks to develop students’ capac-
+ity to conduct investigations and, through this process, learn the knowledge and 
+practices of a disciplinary community. The approach situates the students as inquir-
+ers and seeks to develop ways of building knowledge through engagement, thereby 
+developing over time the capacity among students to make sense of their world. 
+Engineering education focuses on developing the knowledge of design and analysis 
+through project-based approaches that require understandings of relevant science, 
+math, and the cultural contexts of the client. This approach finds its solution in real 
+world applications that are optimized given a set of constraints. A socioscientific 
+issues approach situates science in a social problem and requires that students draw 
+from current knowledge, build on this knowledge, and apply moral and ethical rea-
+soning to taking a position regarding a controversial issue. In each of these three 
+orientations to learning science, there are shared and mutually exclusive epistemic 
+practices. As previously discussed (Kelly 2016), epistemic practices are interac -
+tional, contextual, intertextual, and consequential.
+Table 5.2 (continued)
+Disciplinary 
+approach: Inquiry Science Engineering Socioscientific issues
+Evaluate Assessing merits of a 
+scientific claim, 
+evidence or model
+Assessing a line of 
+scientific reasoning
+Evaluating scientific 
+explanation
+Considering alternative 
+explanations
+Making tradeoffs 
+between criteria and 
+constraints
+Using data to drive 
+decision making
+Placing value on 
+constraints and client 
+needs
+Assessing merits of a 
+scientific claim
+Evaluating evidence 
+(what counts as 
+evidence – moral, 
+ethical, scientific, 
+etc.)
+Assessing lines and 
+types of reasoning
+Evaluating arguments 
+holistically
+Legitimize Building group 
+consensus for 
+scientifically sound 
+explanations
+According value to the 
+explanation that most 
+closely matches the 
+preexisting 
+scientifically accepted 
+theories
+Recognizing knowledge 
+by relevant epistemic 
+community
+Considering 
+implications of 
+solutions
+Making evidence- based 
+decisions
+Acknowledging 
+evaluation of 
+successful technology 
+by client
+Building consensus or 
+acceptance of the 
+most convincing 
+argument
+Recognizing value of 
+positions taken in 
+debate
+5 Epistemic Practices and Science Education
+
+--- PAGE 180 ---
+158
+Each action in the world occurs in a time and place. As these actions are 
+developed and routinized, they can be recognized as patterns. Such patterns begin 
+as actions members of a group take through social interaction. Engaging in social 
+practices defines what counts as knowing and knowledge, such as proposing ideas, 
+testing hypotheses, representing concepts, evaluating merits of candidate solutions, 
+recognizing alternatives, justifying knowledge claims, and legitimizing conclusions 
+(see Table  5.2). Thus, in any instance, epistemic practices are constructed in the 
+moment, as they are interactionally accomplished, among people, texts, and tech -
+nologies. While each interaction is situated and contextualized, participants of a 
+group draw from common knowledge, and make reference to previous knowledge 
+and ways of participating. Research in science education has demonstrated how 
+discourse processes are central to knowledge construction (e.g., Kelly and Crawford 
+1997; Wickman 2004). The ways of talking and being, including uses of signs and 
+symbols are characteristic of epistemic cultures (Kelly 2014a, b).
+Epistemic practices are contextualized in time, space, social practices, and cul -
+tural norms. Knowledge is constructed through specific processes with variations 
+across disciplines and ways of knowing (Knorr-Cetina 1999; Longino 1990). 
+Knowledge construction occurs over time through a series of interactions from 
+interactions around data collection, to conversations about interpretation, to forms 
+of representation, and to processes of communication, evaluation, and legitimation 
+(Bazerman 1988; Lynch 1992). Engaging in epistemic practices thus occurs in vari-
+ous venues and settings and such practices need to be examined as they occur in the 
+making (Kelly et al. 1998). Thus, the study of epistemic practices needs to be situ -
+ated in specific contexts. This suggests that the study of knowledge construction 
+needs to occur in situ, through an examination of the processes leading to socially 
+agreed-upon knowledge. The study on such micro-moments of interaction needs to 
+take into consideration the ways that cultural practices are established over longer 
+time scales and how such cultural practices enter into moments of interaction. 
+This suggests looking across time scales to consider how epistemic practices 
+emerge, vary, change, and influence social processes (Kelly 2008; Lemke 2000; 
+Wortham 2003). Events constructed in the moment (e.g., a decision regarding 
+anomalous data, consideration of ethical implications regarding a socioscientific 
+issue) draw from contexts, practices, texts, and artifacts created at longer time scales 
+(Goodwin 2000). For example, the genre of an experimental article in science 
+(Bazerman 1988) becomes a cultural model that can be taken up and used to create 
+new texts within this patterned use of language (Kelly and Bazerman 2003; Takao 
+and Kelly 2003).
+Discourse processes make use of and reference to previous discourse, both 
+spoken and written texts, including the various signs and symbols characteristic of 
+disciplinary knowledge, and are thus intertextual (Bazerman 2004; Green and 
+Castanheira 2012). Reference to previous texts builds continuity and common 
+knowledge as members of a social group (e.g., student laboratory group, profes -
+sional research team, environmental activists) define and make use of shared 
+assumptions of meaning (Wittgenstein 1958). Intertextuality serves as a method to 
+identify socially salient concepts comprising common histories and cultural 
+G.J. Kelly and P. Licona
+
+--- PAGE 181 ---
+159
+experiences (Vygotsky 1978). For example, students taking a stand regarding a 
+socioscientific issue (Licona and Kelly 2015) may make reference to relevant 
+published facts of the matter (e.g., characteristics of the ecology of an endangered 
+species) and to definitions and policies (e.g., legal definitions). These texts serve as 
+reference to decisions regarding how to use science to reason through a problem.
+Knowledge claims are proposed, communicated, evaluated, and legitimized 
+through social processes. Thus, epistemic practices have consequences for what 
+knowledge counts for participating members of a group. Members entering into a 
+knowledge generating culture bring ways of knowing with them that may or may 
+not count or be recognized (Traweek 1988), as often in science and education 
+knowledge claims need to be modified to build acknowledgement as legitimate 
+(Kelly et al. 2001; Myers 1997). The empirical study of ways that knowledge is 
+legitimized identifies how power, culture, and social processes are tied to what gets 
+taken for knowledge in certain contexts (Kelly 2016).
+5.5  Research Directions for the Study of Epistemic Practices 
+in Education
+We have argued that a focus on epistemic practices should be part of the pedagogy 
+for science and engineering education across a range of educational goals. Education 
+seeks to develop knowledge, skills, values, and ways of knowing and learning. 
+Importantly, while substantive, conceptual knowledge plays a role in learning ways 
+of knowing (i.e., epistemic practices depend on substantive knowledge), developing 
+the capacity to learn and know should be a major goal of education. In this section 
+we draw from the literature considered in previous sections of the chapter to con -
+sider plausible research directions for the study of epistemic practices in education. 
+We propose following four directions: (a) development of learning of epistemic 
+practices, (b) disciplinarity and learning, (c) cultural and linguistic diversity and 
+learning epistemic practices, and (d) learning about science through engagement 
+in practice.
+A number of studies have begun to show the value of a focus on epistemic prac-
+tices for science education (Manz 2014; Sandoval 2005; Wickman 2004). This posi-
+tive direction opens up questions for further research. Kelly (2014b) argued that the 
+learning of epistemic practice in science inquiry settings depends on and requires 
+understanding of relevant concepts to the problem at hand. This means that, rather 
+than learning domain general science process skills, students learn epistemic prac -
+tices (e.g., posing questions, justifying claims) through engaging in problems where 
+conceptual knowledge is evoked and applied. This poses research questions for the 
+field. For example, what is the interaction of particular types of epistemic practices 
+with substantive, disciplinary knowledge? What knowledge do students need to 
+effectively employ epistemic practices in inquiry settings? How can the develop -
+ment of conceptual and epistemic knowledge co-occur and develop synergies? 
+5 Epistemic Practices and Science Education
+
+--- PAGE 182 ---
+160
+We know that students bring a variety of experiences and knowledge to educational 
+situations (González et al. 2006). These previous experiences may be resources for 
+developing and learning epistemic practices.
+Questions relevant to this topic include: What knowledge do students bring? 
+How are students’ outside of school ways of knowing relevant and helpful for devel-
+oping disciplinary practices? Each learner and group of learners brings different 
+experiences and thus offers a unique set of opportunities for learning, both for indi-
+viduals within a group, but also how the group learns over time to function and 
+become an epistemic community (Kelly 2008). Finally, there may be ways that 
+maturation and development are related to ways that students learn to engage in 
+epistemic practices: What are the learning progressions for epistemic practices? 
+How can school science and engineering be designed to gauge students’ develop -
+ment trajectories and potential?
+Scholars focusing on epistemology and learning have identified the ways that 
+disciplinary knowledge and ways of knowing vary across the sciences (Ault 1998; 
+Erduran 2007; Jimenez-Aleixandre 2014). While often grouped together, each of 
+the sciences, and even more so, fields of engineering, vary in the ways that they 
+investigate and solve relevant problems in their respective fields. While we recog -
+nize these differences, and acknowledge that such differences should not be glossed, 
+science teachers face the problem of developing the knowledge, inquiry abilities, 
+values, and applications of science and engineering in real settings. Furthermore, 
+nuances in disciplinarity may be lost on students. This poses a number of research 
+questions about disciplinarity and learning: What are the ways that understandings 
+about the sciences and engineering fields can be refined through empirical inquiry? 
+How is knowledge gained about such practices relevant to teaching? To what extent 
+do students learn to transfer epistemic practices gained in one discipline (e.g., rec -
+ognizing anomalies to a distribution of data) to another discipline with different 
+substantive knowledge (e.g., epidemiology and atmospheric sciences)?
+We live in an increasingly multilingual and multicultural world. Different ways 
+of knowing offer opportunities to learn about and draw from alternative ways of 
+making sense and learning (Varelas et al. 2008; Varelas et al. 2012). Students bring 
+ways of sense making to educational events that can be drawn into school activities, 
+thus serving as resources for learning. Furthemore, various sciences produce their 
+own cultural ways of being with particular ways of communicating, producing 
+knowledge, and being a member of the group (Knorr-Cetina 1999; Watson-Verran 
+and Turnbull 1995). Thus, learning science or engineering can be viewed as a pro -
+cess of acculturation in which new members both learn the extant ways of being and 
+doing, but also transform the current practice through innovation and change. 
+Research questions emerging from this area include: What sorts of ways of knowing 
+do students bring to educational events? How can these ways of knowing contrib -
+ute? How can access to the practices of epistemic cultures be made visible and 
+opened to learners?
+Finally, engaging in epistemic practices offers contexts for discussion and reflec-
+tion about science and engineering fields (Akerson et  al. 2000; Kelly 2014a, b). 
+While it is generally recognized that merely engaging in activity does not produce 
+G.J. Kelly and P. Licona
+
+--- PAGE 183 ---
+161
+propositional knowledge about science (Abd-El-Khalick 2012; Sandoval 2005), 
+learning to propose, communicate, evaluate, and legitimize knowledge claims can 
+provide a basis for discussions, reflection, and further reading about how science 
+and engineering operate, the values in these disciplines, and limitations of these 
+ways of approaching problems. Research in these areas may consider the following 
+questions: What are the relationships between competency in certain epistemic 
+practices and learning science and engineering? How are epistemic practices gen -
+erative of new knowledge of and about science and engineering? What sorts of 
+engagement and reflection leads to learning of and about science and engineering 
+that support decision making for socioscientific issues?
+5.6  Conclusion
+Our argument in this chapter is that engagement in epistemic practices is an impor-
+tant part of a robust science education. Part of the need to engage in epistemic prac-
+tices is to learn values of knowledge-producing communities  – the value of 
+persuasion over force, open-mindedness over dogma, and consideration of alterna-
+tive solutions, and so forth (Rorty 1991). Scientific explanation and argument are 
+not technical procedures, as they do not have specific formulas that can be translated 
+easily to the pedagogy of science education. We drew from three types of educa -
+tional approaches (inquiry, engineering, socioscientific issues), each with different 
+goals, to identify illustrative examples of epistemic practices across these contexts. 
+Each of these approaches can support goals for scientific literacy, suggested by 
+Aikenhead et al. ( 2011): developing the capacity to engage with issues from a sci -
+entific perspective. Central to such engagement is an understanding of the disciplin-
+ary ways of proposing, communicating, evaluating, and legitimizing knowledge 
+claims. Through such engagement, connected to carefully organized pedagogy, stu-
+dents may build capacity to participate as informed citizens in the public sphere.
+References
+Abd-El-Khalick, F. (2012). Examining the sources for our understandings about science: 
+Enduring conflations and critical issues in research on nature of science in science education. 
+International Journal of Science Education, 34, 353–374.
+Aikenhead, G., Orpwood, G., & Fensham, P. (2011). Scientific literacy for a knowledge society. 
+In C.  Linder, L. Östman, D.  A. Roberts, P.  Wickman, G.  Erikson, & A.  McKinnon (Eds.), 
+Exploring the landscape of scientific literacy (pp. 28–44). New York: Routledge.
+Akerson, V . L., Abd-El-Khalick, F., & Lederman, N. G. (2000). Influence of a reflective explicit 
+activity-based approach on elementary teachers' conceptions of nature of science. Journal of 
+Research in Science Teaching, 37, 295–317.
+Allchin, D. (2004). Should the sociology of science be rated X? Science Education, 88, 1–13.
+Allchin, D. (2011). Evaluating knowledge of the nature of (whole) science. Science Education, 
+95, 518–542.
+5 Epistemic Practices and Science Education
+
+--- PAGE 184 ---
+162
+Ault, C.  R. (1998). Criteria of excellence for geological inquiry: The necessity of ambiguity. 
+Journal of Research in Science Teaching, 35, 189–212.
+Bazerman, C. (1988). Shaping written knowledge: The genre and activity of the experimental arti-
+cle in science. Madison: University of Wisconsin Press.
+Bazerman, C. (2004). Intertextualities: V olosinov, Bakhtin, literary theory, and literacy studies. In 
+A. F. Ball & S. Warshauer Freedman (Eds.), Bakhtinian perspectives on language, literacy, and 
+learning (pp. 53–65). Cambridge: Cambridge University Press.
+Collins, H. M. (1985). Changing order: Replication and induction in scientific practice. London: 
+Sage.
+Collins, H. M. (2007). The uses of sociology of science for scientists and educators. Science & 
+Education, 16, 217–230.
+Collins, H. M. (2014). Are we all scientific experts now? New York: John Wiley & Sons.
+Cunningham, C.  M., & Carlsen, W.  S. (2014). Precollege engineering education. In N.  G. 
+Lederman & S. K. Abell (Eds.), Handbook of research on science education (V ol. 2, pp. 747–
+758). Mahwah: Lawrence Erlbaum Associates.
+DeBoer, G. E. (2000). Scientific literacy: Another look at its historical and contemporary mean -
+ings and its relationship to science education reform. Journal of Research in Science Teaching, 
+37(6), 582–601.
+Duschl, R.  A. (1990). Restructuring science education: The importance of theories and their 
+development. New York: Teacher's College Press.
+Duschl, R. A. (2008). Science education in three-part harmony: Balancing conceptual, epistemic, 
+and social learning goals. Review of Research in Education, 32, 268–291.
+Duschl, R., & Grandy, R. (2008). Consensus: Expanding the scientific method and school science. 
+In R. Duschl & R. Grandy (Eds.), Teaching scientific inquiry: Recommendations for research 
+and implementation (pp. 304–325). Rotterdam: Sense Publishers.
+Erduran, S. (2007). Breaking the law: Promoting domain-specificity in chemical education in the 
+context of arguing about the periodic law. Foundations of Chemistry, 9(3), 247–263.
+Erduran, S., & Duschl, R. A. (2004). Interdisciplinary characteristics of models and the nature of 
+chemical knowledge in the classroom. Studies in Science Education, 40, 105–138.
+Fleck, L. (1935/1979). Genesis and development of a scientific fact. (F. Bradley & T. J. Trenn, 
+Trans.). Chicago: University of Chicago Press.
+Ford, M. (2008). Disciplinary authority and accountability in scientific practice and learning. 
+Science Education, 92, 404–423.
+Garfinkel, H., Lynch, M., & Livingston, E. (1981). The work of discovering science construed with 
+materials from the optically discovered pulsar. Philosophy of the Social Sciences, 11, 131–158. 
+Giere, R. (1999). Science without laws. Chicago: University of Chicago Press.
+González, N., Moll, L. C., & Amanti, C. (Eds.). (2006). Funds of knowledge: Theorizing practices 
+in households, communities, and classrooms. New York: Routledge.
+Goodwin, C. (2000). Action and embodiment within situated human interaction. Journal of 
+Pragmatics, 32, 1489–1522.
+Green, J., & Castanheira, M. L. (2012). Exploring classroom life and student learning: An inter -
+actional ethnographic approach. In B.  Kaur (Ed.), Understanding teaching and learning: 
+Classroom research revisited (pp. 53–65). Rotterdam: Sense.
+Green, J. L., Weade, R., & Graham, K. (1988). Lesson construction and student participation: A 
+sociolinguistic analysis. In J. L. Green & J. O. Harker (Eds.), Multiple perspective analyses of 
+classroom discourse. Norwood: Ablex.
+Gross, A. (1989). The rhetoric of science. Cambridge, MA: Harvard University Press.
+Gumperz, J.  J. (2001). Interactional sociolinguistics: A personal perspective. In D.  Schiffrin, 
+D. Tannen, & H. E. Hamilton (Eds.), Handbook of discourse analysis (pp. 215–228). Malden: 
+Blackwell.
+Heckler, W. S. (2014). Research on student learning in science: A Wittgensteinian perspective. 
+In M. Matthews (Ed.), International handbook of research in history, philosophy and science 
+teaching (pp. 1381–1410). Dordrecht: Springer.
+G.J. Kelly and P. Licona
+
+--- PAGE 185 ---
+163
+Irzik, G., & Nola, R. (2011). A family resemblance approach to the nature of science for science 
+education. Science & Education, 20, 591–607.
+Jiménez-Aleixandre, M. P. (2014). Determinism and underdetermination in genetics: Implications 
+for students’ engagement in argumentation and epistemic practices. Science & Education, 23, 
+465–484.
+Kelly, G. J. (2005). Discourse, description, and science education. In R. Yerrick & W.-M. Roth 
+(Eds.), Establishing scientific classroom discourse communities: Multiple voices of research on 
+teaching and learning (pp. 79–108). Mahwah: Lawrence Erlbaum Associates.
+Kelly, G. J. (2008). Inquiry, activity, and epistemic practice. In R. Duschl & R. Grandy (Eds.) 
+Teaching scientific inquiry: Recommendations for research and implementation (pp. 99–117; 
+288–291). Rotterdam: Sense Publishers.
+Kelly, G. J. (2011). Scientific literacy, discourse, and epistemic practices. In C. Linder, L. Östman, 
+D. A. Roberts, P. Wickman, G. Erikson, & A. McKinnon (Eds.), Exploring the landscape of 
+scientific literacy (pp. 61–73). New York: Routledge.
+Kelly, G.  J. (2014a). Discourse practices in science learning and teaching. In N.  G. Lederman 
+& S. K. Abell (Eds.), Handbook of research on science education, volume 2  (pp. 321–336). 
+Mahwah: Lawrence Erlbaum Associates.
+Kelly, G. J. (2014b). Inquiry teaching and learning: Philosophical considerations. In M. Matthews 
+(Ed.), International handbook of research in history, philosophy and science teaching  
+(pp. 1363–1380). Dordrecht: Springer.
+Kelly, G. J. (2016). Methodological considerations for the study of epistemic cognition in prac -
+tice. In J. A. Greene, W. A. Sandoval, & I. Braten (Eds.), Handbook of epistemic cognition  
+(pp. 393–408). New York: Routledge.
+Kelly, G. J., & Bazerman, C. (2003). How students argue scientific claims: A rhetorical-semantic 
+analysis. Applied Linguistics, 24(1), 28–55.
+Kelly, G. J., & Brown, C. M. (2003). Communicative demands of learning science through tech -
+nological design: Third grade students’ construction of solar energy devices. Linguistics & 
+Education, 13(4), 483–532.
+Kelly, G. J., & Crawford, T. (1997). An ethnographic investigation of the discourse processes of 
+school science. Science Education, 81(5), 533–559.
+Kelly, G. J., & Green, J. (1998). The social nature of knowing: Toward a sociocultural perspec -
+tive on conceptual change and knowledge construction. In B.  Guzzetti & C.  Hynd (Eds.), 
+Perspectives on conceptual change: Multiple ways to understand knowing and learning in a 
+complex world (pp. 145–181). Mahwah: Lawrence Erlbaum Associates.
+Kelly, G. J., Carlsen, W. S., & Cunningham, C. M. (1993). Science education in sociocultural con -
+text: Perspectives from the sociology of science. Science Education, 77, 207–220.
+Kelly, G. J., Chen, C., & Crawford, T. (1998). Methodological considerations for studying science- 
+in- the-making in educational settings. Research in Science Education, 28(1), 23–49.
+Kelly, G.  J., Crawford, T., & Green, J.  (2001). Common tasks and uncommon knowledge: 
+Dissenting voices in the discursive construction of physics across small laboratory groups. 
+Linguistics & Education, 12(2), 135–174.
+Kelly, G.  J., McDonald, S., & Wickman, P.  O. (2012). Science learning and epistemology. In 
+K. Tobin, B. Fraser, & C. McRobbie (Eds.), Second international handbook of science educa-
+tion (pp. 281–291). Dordrecht: Springer.
+Knorr-Cetina, K. (1995). Laboratory studies: The cultural approach to the study of science. In 
+S. Jasanoff, G. E. Markle, J. C. Peterson, & T. Pinch (Eds.), Handbook of science and technol-
+ogy studies (pp. 140–166). Thousand Oaks: Sage.
+Knorr-Cetina, K. (1999). Epistemic cultures: How the sciences make knowledge. Cambridge, MA: 
+Harvard University Press.
+Koertge, N. (1998). Postmodernisms and the problem of scientific literacy. In N. Koertge (Ed.), 
+A house built on sand: Exposing postmodern myths about science  (pp. 257–271). New York: 
+Oxford University Press.
+Kuhn, T. S. (1962/1996). The structure of scientific revolutions (3rd ed.). Chicago: University of 
+Chicago Press.
+5 Epistemic Practices and Science Education
+
+--- PAGE 186 ---
+164
+Kuhn, D. (1992). Thinking as argument. Harvard Educational Review, 62(2), 155–178.
+Latour, B. (1987). Science in action: How to follow scientists and engineers through society . 
+Cambridge, MA: Harvard University Press.
+Leach, J., & Scott, P. (2003). Individual and sociocultural views of learning in science education. 
+Science & Education, 12, 91–113.
+Lead States, N.  G. S.  S. (2013). Next Generation Science Standards: For States, By States . 
+Washington, DC: The National Academies Press.
+Lehrer, R., & Schauble, L. (2012). Seeding evolutionary thinking by engaging children in model-
+ing its foundations. Science Education, 96, 701–724.
+Lemke, J. L. (1990). Talking science: Language, learning and values. Norwood: Ablex.
+Lemke, J. L. (2000). Across the scales of time: Artifacts, activities, and meanings in ecosocial 
+systems. Mind, Culture, and Activity, 7(4), 273–290.
+Licona, P. & Kelly, G. J. (2015, April). Arguing from evidence in an English/Spanish dual lan -
+guage middle school science classroom . Paper presented at the annual meeting of the 
+NARST. Chicago, IL.
+Lidar, M., Almqvist, J., & Ostman, L. (2010). A pragmatist approach to meaning making in chil -
+dren’s discussions about gravity and the shape of the earth. Science Education, 94, 689–709.
+Longino, H. E. (1990). Science as social knowledge: Values and objectivity in science inquiry . 
+Princeton: Princeton University Press.
+Longino, H. E. (1993). Subjects, power, and knowledge: Description and prescription in feminist 
+philosophies of science. In L. Alcoff & E. Potter (Eds.), Feminist Epistemologies (pp. 101–
+120). New York: Routledge.
+Longino, H. E. (2002). The fate of knowledge. Princeton: Princeton University Press.
+Lynch, M. (1992). Extending Wittgenstein: The pivotal move from epistemology to the sociology 
+of science. In A.  Pickering (Ed.), Science as practice and culture  (pp.  215–265). Chicago: 
+University of Chicago Press.
+Manz, E. (2014). Representing student argumentation as functionally emergent from scientific 
+activity. Review of Educational Research.
+Matthews, M. (Ed.). (2014). International handbook of research in history, philosophy and science 
+teaching. Dordrecht: Springer.
+Matthews, M. (2015). Science teaching: The contribution of history and philosophy of science, 20th 
+anniversary revised and (expanded ed.). New York: Routledge.
+McDonald, S., & Songer, N. B. (2008). Enacting classroom inquiry: Theorizing teachers' concep -
+tions of science teaching. Science Education, 92, 973–993.
+Myers, G. (1989). The pragmatics of politeness in scientific articles. Applied Linguistics, 10, 1–35.
+Myers, G. (1997). Texts as knowledge claims: The social construction of two biology articles. In 
+R. A. Harris (Ed.), Landmark essay on the rhetoric of science: Case studies  (pp. 187–215). 
+Mahwah: Erlbaum.
+Norman, A. (1998). Seeing, semantics and social epistemic practice. Studies in the History and 
+Philosophy of Science, 29, 501–513.
+Norris, S. P., & Phillips, L. M. (2003). How literacy in its fundamental sense is central to scientific 
+literacy. Science Education, 87, 224–240.
+Norris, S., Phillips, L. M., & Burns, D. P. (2014). Conceptions of scientific literacy: Identifying 
+and evaluating their programmatic elements. In M. Matthews (Ed.), International handbook 
+of research in history, philosophy and science teaching (pp. 1317–1344). Dordrecht: Springer.
+Oliveira, A.  W., Akerson, V .  L., Colak, H., Pongsanon, K., & Genel, A. (2012). The implicit 
+communication of nature of science and epistemology during inquiry discussion. Science 
+Education, 96, 652–684.
+Ostman, L., & Wickman, P.-O. (2014). A pragmatic approach on epistemology, teaching, and 
+learning. Science Education, 98, 375–382.
+Pinch, T. (1986). Confronting nature. Dordrecht: R. Reidel.
+Pluta, W. J., Chinn, C. A., & Duncan, R. G. (2011). Learners' epistemic criteria for good scientific 
+models. Journal of Research in Science Teaching, 48, 486–511.
+G.J. Kelly and P. Licona
+
+--- PAGE 187 ---
+165
+Reveles, J. M., Cordova, R., & Kelly, G. J. (2004). Science literacy and academic identity formula-
+tion. Journal for Research in Science Teaching, 41, 1111–1144.
+Rorty, R. (1991). Objectivity, relativism, and truth. New York: Cambridge University Press.
+Roth, W. M., McGinn, M. K., & Bowen, G. M. (1996). Applications of science and technology 
+studies: Effecting change in science education. Science, Technology & Human Values, 21 , 
+454–484.
+Rudolph, J. L. (2000). Reconsidering the ‘nature of science’ as a curriculum component. Journal 
+of Curriculum Studies, 32, 403–419.
+Rudolph, J.  L. (2002). Portraying epistemology: School science in historical context. Science 
+Education, 87, 64–79.
+Sadler, T.  D. (2004). Informal reasoning regarding socioscientific issues: A critical review of 
+research. Journal of Research in Science Teaching, 41, 513–536.
+Sadler, T. D. (2009). Situated learning in science education: Socio-scientific issues as contexts for 
+practice. Studies in Science Education, 45(1), 1–42.
+Saljo, R. (2012). Literacy, digital literacy and epistemic practices: The co-evolution of hybrid 
+minds and external memory systems. Nordic Journal of Digital Literacy, 7(1), 5–19.
+Sandoval, W. A. (2005). Understanding students’ practical epistemologies and their influence on 
+learning through inquiry. Science Education, 89, 634–656.
+Slezak, P. (1994a). Sociology of science and science education: Part I. Science & Education, 3(3), 
+265–294.
+Slezak, P. (1994b). Sociology of science and science education. Part 11: Laboratory life under the 
+microscope. Science & Education, 3(4), 329–356.
+Stewart, J., & Rudolph, J. L. (2001). Considering the nature of scientific problems when designing 
+science curricula. Science Education, 85, 207–222.
+Takao, A. Y ., & Kelly, G. J. (2003). Assessment of evidence in university students' scientific writ-
+ing. Science & Education, 12, 341–363.
+Toulmin, S. (1972). Human understanding (V ol. 1: The collective use and evolution of concepts). 
+Princeton: Princeton University Press.
+Traweek, S. (1988). Beamtimes and lifetimes: The world of high energy physicists . Cambridge, 
+MA: Harvard University Press.
+Varelas, M., Pappas, C. C., Kane, J. M., Arsenault, A., Hankes, J., & Cowan, B. M. (2008). Urban 
+primary-grade children think and talk science: Curricular and instructional practices that nur -
+ture participation and argumentation. Science Education, 92, 65–95.
+Varelas, M., Kane, J. M., & Wylie, C. D. (2012). Young black children and science: Chronotopes of 
+narratives around their science journals. Journal of Research in Science Teaching, 49, 568–596.
+Vygotsky, L. (1978). Mind in society: The development of higher psychological processes . 
+Cambridge, MA: Harvard.
+Watson-Verran, H., & Turnbull, D. (1995). Science and other indigenous knowledge systems. In 
+S. Jasanoff, G. E. Markle, J. C. Peterson, & T. Pinch (Eds.), Handbook of science and technol-
+ogy studies (pp. 115–139). Sage: Thousand Oaks.
+Wickman, P.-O. (2004). The practical epistemologies of the classroom: A study of laboratory 
+work. Science Education, 88, 325–344.
+Wittgenstein, L. (1958). Philosophical investigations (3rd ed.). (G.  E. M.  Anscombe, Trans.). 
+New York: Macmillan Publishing.
+Wortham, S. (2003). Curriculum as a resource for the development of social identity. Sociology of 
+Education, 76, 229–247.
+Zeidler, D. L. (2014). Socioscientific issues as a curriculum emphasis. In N. G. Lederman & S. K. 
+Abell (Eds.), Handbook of research on science education  (V ol. 2, pp.  697–726). Mahwah: 
+Lawrence Erlbaum Associates.
+5 Epistemic Practices and Science Education

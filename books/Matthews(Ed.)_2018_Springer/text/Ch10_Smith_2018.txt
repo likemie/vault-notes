@@ -1,0 +1,858 @@
+Title: Teaching Evolution: Criticism of Common Justifications and the Proposal of a More Warranted Set
+Pages: 279-297
+
+--- PAGE 279 ---
+261
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_10
+Chapter 10
+Teaching Evolution: Criticism of Common 
+Justifications and the Proposal of a More 
+Warranted Set
+Mike U. Smith
+10.1  Introduction
+Along with cell theory and the DNA theory of inheritance, evolution stands as one 
+the three pillars of modern biology. It helps us understand phenomena in fields as 
+diverse as genetics, anatomy, ecology, and physiology. Understanding evolution is 
+important not just from a scientific perspective, but from a practical one as well. 
+Evolutionary theory can help us solve real-world problems that have a biological 
+basis — whether figuring out how to employ antibiotics more effectively or devel -
+oping new pest-resistant crop varieties. These arguments have been widely used as 
+justifications for evolution instruction. But, who is the “us” in the statement above? 
+Does it include students? How do these justifications apply to the daily lives of 
+students?
+In an earlier paper (Smith 2010), I asked, “Why do students and members of the 
+public at large need to understand evolution?” This question has also been asked in 
+various forms by a few other researchers (e.g., Rosengren et al. 2012), but few 
+have analyzed in detail the answers educators have been giving to these 
+questions.
+The universal response from biologists has been that public school students 
+“need” to understand evolution. A wide variety of reasons for the inclusion of evolu-
+tion has been proposed, but too often these justifications make sense to teachers and 
+policy makers but do not appear to be convincing to introductory students.
+This chapter will discuss the types of justifications that have been used to support 
+science literacy in general and evolution understanding in particular. This chapter 
+will also question the likely effectiveness of those reasons as justifications for teach-
+ing and learning about evolution. Recognizing the limited cogency of our student-  
+centered justifications for evolution literacy, the preceding analysis also suggests 
+M.U. Smith (*) 
+School of Medicine, Mercer University, Macon, GA, USA
+e-mail: smith_mu@mercer.edu
+
+--- PAGE 280 ---
+262
+that we need a discussion about how to make our justifications more relevant and 
+convincing to students. The reader will likely be surprised with how limited our 
+student-centered justifications for evolution literacy are. How can we make them 
+stronger? Are there better justifications? A small set of justifications is proposed that 
+might be more relevant, interesting, and convincing to young people, then I close 
+with some educational implications of my position. This paper is meant to initiate a 
+wider conversation among evolution educators about what student-centered justifi-
+cations for evolution education there might be, including expansion and criticism of 
+the list presented here.
+10.2  Scientific Literacy and the Utility/Relevance Argument
+Scientific literacy has long been a primary goal of science education. This promi -
+nence has resulted in such widely varying meanings for the term1 that it has become 
+impossibly vague and perhaps nothing more than an “educational slogan” (Roberts 
+1988; p. 28), a “myth,” or “little more than a romantic idea, a dream that has little 
+bearing on reality” (Shamos 1995; p. 215). Several worthwhile reviews of the topic 
+have appeared in recent years.2
+Science educators have grouped the proffered justifications for scientific literacy 
+in various ways. One of the most widely cited of these schemes is based on Roberts’ 
+classification of the different “views” of science literacy: Vision I, focusing on the 
+products and processes of science, (cf., the Project 2061 Atlas of Science Literacy—
+AAAS 1993, 2001; NRC 1995) and Vision 2, focusing on “situations with a scien-
+tific component, situations that students are likely to encounter as citizens” (Roberts 
+2007, p. 730).
+Another useful categorization follows Roberts’ ( 1988) earlier grouping of rec -
+ommended science education curriculum “emphases”: everyday coping, structure 
+of science, science technology and decisions (about practical matters), scientific 
+skill development, correct explanations, self as explainer, and science as a solid 
+foundation.
+Another grouping focused explicitly on science literacy justifications is pre -
+sented in an earlier paper of mine: (a) utility, (b) democratic/civic/social, (c) eco -
+nomic, (d) cultural, (e) moral/ethical, (f) science career-related, and (g) aesthetic 3 
+(Smith 2010). In Roberts’ (2007) terms, some of these justifications are more “stu-
+dent–centered” than others, and it is these that I assume will be most effective with 
+students. The central questions are how well each of these types of justification 
+measures up as being centered on students and how we can sharpen our arguments 
+for encouraging student study.
+1 See DeBoer, (2000); Gormally et al. ( 2012); Millar (2005); Norris & Phillips (2003).
+2 DeBoer (2000), Hodson (2009), Laugksch (2000), and Roberts (2007).
+3 These categories are not meant to be non-overlapping.
+M.U. Smith
+
+--- PAGE 281 ---
+263
+The most common justifications for teaching science found throughout most 
+organizational schemes fall in Roberts’ Vision 2 (or “everyday coping”) or the first 
+two Smith (2010) groupings, focusing on utility/usefulness—especially utility “in 
+daily life,” or on creating “informed citizens,” solving personally meaningful prob-
+lems, shaping behavior, making important practical and political decisions, framing 
+questions to science professionals, evaluating scientific claims, and engaging scien-
+tific information in the media.4 This has also been called “civic efficacy or good citi-
+zenship” (Dewey 1916), “functional scientific literacy” (Aikenhead 2006; Jenkins 
+1990; Rennie 2007; Ryder 2001; Shamos 1995), “science education for action” 
+(Jenkins 1994), “science for specific social purposes” (Layton et al. 1993), and “cit-
+izen science” (Irwin 1995).
+Dewey (1916) characterized such aims as having “instrumental value,” i.e., top-
+ics studied because of some end beyond themselves,” not intrinsic value (p. 284). 
+Science instruction that favors these aims might be expected to focus on practical 
+applications such as the negative effects of the use of chemical fertilizers and pesti-
+cides, construction of nuclear power plants, use of ozone-destroying CFCs, climate 
+change, the use of genetically modified organisms, etc. (Vilches and Gil-Pérez 
+2011; Osborne and Collins 2001). According to this view, if students take antibiot-
+ics in the future, they need to learn about evolution now to ensure that they do so 
+properly. If students need to make sensible decisions about genetically modified 
+organisms (GMOs), they will need to understand aspects of molecular genetics.
+Two prominent criticisms of this “practical value” justification have been pre -
+sented, even though they have mostly been ignored in the science education litera -
+ture. First, Ryder (2001) has argued that the science topics we have chosen to teach 
+because of their real-world utility have typically been selected on the basis of sur -
+veys of expert opinion (a top-down approach) instead of surveying members of the 
+public or investigating situations where science is applied in real life (more bottom-
+ up approaches). A prime, and often-cited, example of such a bottom-up approach is 
+an analysis of 51 case studies to identify the science knowledge and processes peo-
+ple use to deal with various science related situations outside the classroom (e.g., 
+options for incineration of local waste or dealing with the birth of a child with Down 
+Syndrome) (Ryder 2001). Although this approach is clearly superior to top-down 
+approaches, the underlying assumption in Ryder and similar studies is still that sci-
+ence is useful in everyday life. But what proportion of students is likely to deal with 
+each of the issues so identified in order to make it worthwhile as a learning goal for 
+all students?
+The second criticism is found in more ethnographic studies of how individuals 
+use science content and scientific skills in their daily lives outside the classroom. 5 
+These studies find that people rarely if ever use school science knowledge or 
+approaches to make science-related decisions or solve science-related problems. 
+4 Dempster and Hugo (2006), Feinstein (2010), Fensham (2002a, b), Gil-Pérez and Vilches (2005), 
+Gordin (2015), Johnson et al. ( 2015), Kolstø (2001), and Lederman et al. ( 2012).
+5 E.g., Baram-Tsabari and Segev (2011), Basu and Calabrese-Barton (2007), and Feinstein (2010).
+10 Teaching Evolution: Criticism of Common Justifications and the Proposal…
+
+--- PAGE 282 ---
+264
+Thus, Ryder caricatured the utility justification as claiming that “thermodynamics is 
+pressed into action to choose between one garment and another … polymer chem -
+istry is used to decide what to spread on toast” (Ryder 1993; p. 148).
+Another explanation of these ethnographic findings is, of course, that so much of 
+the population is scientifically illiterate; they have very limited understanding of 
+science upon which to base decisions about everyday science-related questions. An 
+equally troubling explanation is that too many people hold the view that school sci-
+ence does not apply to their everyday lives (Aikenhead 2006; Feinstein 2009). Glen 
+Aikenhead’s extensive review of the relevant literature strongly suggests that:
+empirical evidence … contradicts scientists’ and science teachers’ hypothetical claims that 
+science is directly applicable to a citizen’s everyday life. … The fact is that this type of 
+intellectual abstraction is relevant only to those who enjoy explaining everyday experiences 
+this way. (Aikenhead 2006; p. 29)
+Osborne maintains that today’s science education is “not appropriate for the need 
+of contemporary youth” because it is based on a group of “fallacies”, one of which is:
+the fallacy that scientific knowledge has personal utility—that it is essential to the mastery 
+of the technology; to remedy its defects; and to live as tease in the culture of technology that 
+surrounds us. Yet as machines become more intelligent they require less care and thought 
+for their effective use (Osborne 2007, pp. 174–175).
+The utility argument is a bit like arguing that I need to understand how my carbure-
+tor works in order to drive my car – clearly this is not necessary. (See also Millar and 
+Osborne 1998.)
+Likewise, Jenkins (2003) has argued that “utilitarian claims for school science 
+are naïve and misleading” (p. 10). Feinstein (2010) contends that, like literacy itself, 
+usefulness “has largely been reduced to a rhetorical claim” (p.  168). Feinstein 
+(2010) also argues that:
+decades of educational psychology tell us that this is a complicated and unlikely proposi -
+tion. … It is a profound misconception that individuals make everyday decisions on the 
+basis of formal principles and reliable knowledge built from the foundations up [because] 
+… daily action and decision making rely on heuristic devices and tailored, situation-specific 
+solutions (Feinstein 2010, p. 181). 6
+Dewey (1916) also argued that educators have focused too strongly on utility as 
+a justification for selection of curricular content. “It is,” he says “absurd to argue 
+that unless teachers or pupils can point out some definite assignable future use to 
+which it is to be put, it lacks justifying value” (p. 284).
+Thus, in the most general terms, it appears that utilitarian justifications for devel-
+oping science literacy are weak at best, although some have argued that this prob -
+lem is the result of failures of science curriculum design focused on canonical 
+principles (Aikenhead 2006; Feinstein 2009). Osborne and Collins ( 2001) join 
+Aikenhead and Feinstein in arguing that the focus should instead be on topics more 
+directly relevant to everyday life on and helping students learn to evaluate scientific 
+6 Based, for example, on the work of Lave (1988), Layton et al. (1993), and Tversky and Kahneman 
+(1974).
+M.U. Smith
+
+--- PAGE 283 ---
+265
+information—  especially the trustworthiness of that information, becoming skilled 
+consumers of science.
+10.3  The Practical Utility Justification for Evolution 
+Education
+What justifications have been applied to evolution literacy per se, and in light of the 
+criticisms just reviewed, how sound are these justifications? Surprisingly, only a 
+small number of justifications for teaching evolution specifically have been put for-
+ward. As with justifications for scientific literacy, the majority of the reasons typi -
+cally proposed for evolution education are utilitarian. Scientists and educators argue 
+that knowledge of evolution is also “relevant to daily life,” that it is “useful” or 
+“valuable” for making sound decisions in the “real world” (e.g., Aikenhead 2006; 
+Feinstein 2010). Utility is also the cornerstone of relatively recent arguments for the 
+redesign of genetics instruction (Condit 2010).
+One of the few explicit cases proposed as an example of the utilitarian value of 
+evolution education is that of proper antibiotic use. Presumably, this justification is 
+one reason why the development of antibiotic resistance is such a common instruc-
+tional activity (Lead States 2013). According to this view, understanding (and 
+acceptance) of evolution informs John and Mary Q Public’s wise use of antibiotics, 
+i.e., that if they understand how antibiotic resistance develops, they will be more 
+likely to take the full course of antibiotics prescribed by their physicians. On the 
+face of it, this claim seems logical, but two problems are apparent. First, this is an 
+untested claim.
+More importantly, there is an extensive research literature in health education 
+that demonstrates that knowledge may be necessary but is clearly insufficient to 
+determine behavior.7 This research strongly suggests that knowledge of evolution -
+ary mechanisms is unlikely to account for a substantial proportion of the variability 
+in antibiotic-taking (or prescribing) behavior. We think that a host of other factors 
+such as simple forgetfulness, attitudes toward authority, and cultural norms are 
+likely to be more important. Thus, it seems that the most widely employed justifica-
+tion for evolution education has questionable merit.
+The other commonly employed example used to buttress the practicality/utility 
+justification for evolution education is that understanding evolution will help people 
+make wise decisions about genetically modified organisms/foods (GMOs) (e.g., 
+Lederman et  al. 2012). GMOs have already become a major component of the 
+world’s foodstuffs—e.g., 91% of US soybeans (Anonymous 2014a), have the poten-
+tial to reduce the use of pesticides and herbicides and the consequent pollution, and 
+may make an important contribution to solving the persistent problem of world 
+7 E.g., Atreja et al. ( 2005), Ferris et al. ( 2001), and Rogers (1983).
+10 Teaching Evolution: Criticism of Common Justifications and the Proposal…
+
+--- PAGE 284 ---
+266
+hunger, but people have raised many concerns about them as well. Consumer con -
+cerns are typically about food safety, risk to the environment, biodiversity and agri-
+culture, and various issues of economic and governmental policy (Anonymous 
+2014b; Vilches and Gil-Pérez 2011).
+Recent furor has arisen over the development of a variety of apple that lacks the 
+enzyme that causes apple flesh to turn brown when cut. Responding to such 
+ concerns, many companies such as General Mills (maker of Cheerios ®) have 
+announced that their products will be GMO-free. Education about GMO-related 
+issues is needed if modern society is to take advantage of potential benefits and 
+prevent potential harm. The critical question for our discussion, however, is: How 
+would evolution understanding facilitate consumer decision-making about GMOs?
+First, it is demonstrably clear that evolutionary issues are central to the develop-
+ment and use of GMOs. For example, introducing genes into one species from 
+another to produce combinations that have never existed before certainly raises 
+issues about the evolutionary fitness of such hybrids - how the new cultivars would 
+compete with existing varieties if the new ones were released into the environment. 
+Again, these questions will be relevant to scientists, agricultural engineers, activists, 
+etc. but to very few consumers.
+Second, many people are concerned about the relative safety of consuming GMO 
+foods. Does knowledge of evolution help consumers make decisions about consum-
+ing these foods? Safety decisions can certainly be informed by scientific knowledge 
+about GMOs. For example, the fact that no scientific studies have identified any 
+substantial difference in safety of GMO and non-GMO foodstuff consumption 
+should be important knowledge for citizens as they make decisions about consum -
+ing GMO foods. If the utility argument for evolution education has merit, therefore, 
+one might assume that the most knowledgeable individuals would be those most 
+likely to be unconcerned about GMO foods. Again, a study testing this correlation 
+has not been published to my knowledge, but anecdotal information suggests just 
+the opposite conclusion. People most concerned about GMO consumption often 
+seem to be very educated. In addition, the knowledge relevant to making these 
+safety decisions lies primarily within genetics, digestion, and nutrition, not in evolu-
+tion theory. How could understanding natural selection, genetic drift, speciation, or 
+other evolutionary concepts inform GMO-related food safety decisions? No such 
+informative pathways seem apparent.
+Third, careful review of the GMO concerns of the public shows that the major 
+concerns are about economics (“Big Pharma”) and ethics (Anonymous 2014b). As 
+with the issues raised above, evolution understanding provides little or no guidance 
+for addressing these concerns. Again, few of our graduates will be directly involved 
+in these GMO-related discussions except through their representatives.
+Second, and more generally, students can often see through our claims that evo-
+lution is of practical importance to their daily lives. They haven’t needed it before, 
+and most don’t plan to become scientists or activists and so don’t see any need for 
+it in the future. When students see through our claims, the teacher loses credibility 
+and students find either limited or no reason for investing the effort required to 
+understand evolution.
+M.U. Smith
+
+--- PAGE 285 ---
+267
+According to a largely ignored report from the United Kingdom (Millar and 
+Osborne 1998), the familiar justifications for science education (and presumably for 
+evolution education) “have been overused” and have “worn thin.” If these are the 
+strongest available examples of the value of evolution understanding in real world 
+decision making, then either we should look for better examples or perhaps we must 
+look beyond the practicality/utility arguments for justifying evolution education. 
+How well then do the other justifications used for supporting science literacy identi-
+fied above apply to students?
+10.4  The Democracy Justification
+Modern societies will indeed continue to make a host of decisions beyond antibiotic 
+use and GMO consumption that should be informed by evolution. It will indeed be 
+crucial for our representatives to understand evolutionary principles in order to 
+understand the issues involved and make appropriate decisions. The evolution-  
+related scientific ignorance of many American legislators—even of presidents and 
+US representatives on the federal Science, Space, and Technology Committee—has 
+been apparent in recent years (Nelson 2012).
+Even more important than scientific ignorance is the fact that legislative deci -
+sions are often driven more by personal values than by science, whether learned at 
+school or later as demonstrated by the refusal of the US Congress to fund needle 
+exchange programs until 2009 even though clear data showed that such programs 
+are effective in reducing HIV transmission (Office of National Drug Control Policy 
+2012).
+But how does the need for educated legislators impact John and Mary Student? 
+Few people in the modern world live in a true republic in which they have a direct 
+voice in decisions, including decisions that may specifically require evolution 
+understanding. People in democracies rarely have input into such specific decisions, 
+except perhaps in occasional propositions or referenda or the occasional letter to a 
+congressman. If they live in a democracy, John and Mary may at most be involved 
+in selecting leaders who will make decisions about funding such endeavors, but how 
+well do John and Mary, themselves, need to understand the principles of evolution 
+in order to choose leaders wisely? Although a candidates’ understanding of evolu-
+tion may influence how some people will vote, it seems unlikely to be the deciding 
+factor for many voters.
+The argument is not that many of the justifications for evolution education used 
+to date are incorrect or invalid or that they are not crucial at other levels and for other 
+audiences such as policy makers. There is clearly great societal value in understand-
+ing evolution. Most of these justifications, however, are logically unsound or simply 
+irrelevant and/or likely to be unconvincing to young people in our classrooms. They 
+are instead convincing to us the converted educators.
+Likewise, the argument assumes that evolution instruction can be an excellent 
+vehicle for teaching about the nature of science, about judging the validity of claims 
+10 Teaching Evolution: Criticism of Common Justifications and the Proposal…
+
+--- PAGE 286 ---
+268
+from diverse sources, etc. But what is the value of understanding evolution itself? 
+As Rosengren, Brem, Evans, and Sinatra put it,
+If we’re going to ask people to expend the time and effort it requires to wrap their heads 
+around a [sic] idea like biological evolution, it seems as though there ought to be a really 
+big payoff for all that work (Rosengren et al. 2012, p. 1).
+The analysis above suggests that the payoff may not be at the individual level. 
+Should we then discard evolution instruction from all but pre-professional educa -
+tion programs and perhaps instruction for legislators? The argument below explains 
+why the answer is still “No,” although for reasons much less frequently cited.
+10.5  Evolution Literacy Is an Essential Part of Scientific 
+Literacy in Modern Society
+Most of the types of scientific literacy justifications listed above can be called 
+“macro” justifications, i.e., largely for the benefit of society. In contrast, “micro” 
+justifications primarily affect the individual (Thomas and Durant 1987; Shortland 
+1988). Macro justifications are not student-centered and thus carry little or no sway 
+with young people. For example, questions about the ethical implications of the 
+conduct of scientific research or the moral implications of scientific advancement 
+seem mostly irrelevant to students at this age, as does the need of a society to have 
+high quality scientists or good decision-making citizens. Likewise, few young peo-
+ple care about how the economic health of a society depends on a scientifically-  
+literate society. These criticisms are even more cogent for justifications of evolution 
+literacy. What effective justifications, then, can be made for expecting students to 
+develop evolution literacy?8 What justifications will be motivating and convincing 
+to our students?
+Science literacy requires that evolution should be taught because:
+ 1. it is crucial for future learning in biology—both inside and outside the 
+classroom.
+ 2. understanding evolution is widely recognized as a basic component of being a 
+scientifically literate person.
+ 3. it is inspiring and a thing of beauty that can enrich the lives of learners and help 
+them understand living things, including themselves, and the interdependence of 
+man and nature (Dewey 1916).
+First are two micro utility arguments that have not been widely promoted: 
+Students need to understand evolution as a foundation for understanding other parts 
+8 The question of precisely what are the necessary and sufficient components of evolution literacy 
+remains to be determined. A first approximation is the list of evolution-related content knowledge 
+to be found in the various standards documents, but evolution literacy as described in this paper 
+calls for much more—and, in terms of content, perhaps a good bit less.
+M.U. Smith
+
+--- PAGE 287 ---
+269
+of biology. As Dobzhansky said, “Nothing in biology makes sense except in the 
+light of evolution” (1973). Pre-service science teachers in a recent study shared this 
+view. They argued that evolution is “a huge part of understanding the rest of biology 
+… it provides a foundation for the other units …. [which] kind of build off that” 
+(Dotger et al. 2009; p. 563). These student comments reflect the Next Generation 
+Science Standards  (NGSS Lead States 2013) identification of the “Evidence of 
+Common Ancestry and Diversity (LS4).”
+Although the Dobzhansky claim has been oft-quoted and evolutionary concepts 
+have long been a component of the biology curriculum, reasons for the importance 
+of evolution have been claimed but rarely if ever analyzed. What specific examples 
+can we propose in evidence of this claim? Certainly, we cannot understand the unity 
+of all living things without understanding evolution. Without evolution we cannot 
+explain why (almost) all living things have DNA as their genetic material, why the 
+same histones form the chromosome scaffolding of so many diverse beings, why 
+meiosis occurs in all sexually-reproducing organisms, etc. We cannot understand 
+the advantages of sexual reproduction or how closely humans are related to chimps 
+and apes.
+Similarly, without evolution we cannot understand the diversity of living things. 
+Why are there so many different species? Why is there so much variation within 
+species? How does variation arise? How does each species come to be so well suited 
+(adapted) to the environment of its specific niche? How do new species arise?
+Likewise, at the organismal level, without understanding evolution, how can we 
+explain the development over time of structures as complex as the flagellum or the 
+human eye? At the cellular level, evolution helps to explain cell structure and spe -
+cialization. At the sub-cellular level, evolution helps to explain the structure and 
+function of organelles, proteins, and membranes and interactions between and 
+among them. Moreover, given that many of our students will never take another biol-
+ogy course, understanding evolution is even more important if students are to become 
+effective consumers of the scientific information they will encounter in the future.
+Thus it appears that the justification for evolution education coincides with that 
+of science literacy and biology education. If we value understanding biology for all 
+students, then of necessity biology education must embrace evolution education.
+Second, closely related to the justification above, because evolution is one of the 
+“explanatory stories” discussed or alluded to widely in modern society, one can 
+simply not be considered a “literate” or “educated” person unless one knows some-
+thing about evolution. Educated people are expected to have an opinion on the sub-
+ject, and education is greatly needed to inform those opinions. The twenty-first 
+Century will truly be an information-rich world. Everyone will increasingly be 
+bombarded with information, which not infrequently will require an understanding 
+of evolution. Throughout their lives our students are likely to encounter allusions to 
+evolution in many situations, including conversations, movies, the Internet, etc. If 
+they know nothing about evolution, they cannot understand these media or engage 
+in “reasoned discussions” about evolution-related issues (Lewis and Leach 2006). 
+They cannot fully participate in modern society. This justification is clearly part and 
+parcel of the arguments our society has long made for liberal education.
+10 Teaching Evolution: Criticism of Common Justifications and the Proposal…
+
+--- PAGE 288 ---
+270
+Dotger’s pre-service science teachers shared this view as well. They argued that 
+evolution is “necessary for modern general knowledge or to be an informed citizen” 
+(Dotger et al. 2009; p. 562). To paraphrase Laugksch (2000), evolution “is as central 
+to a truly cultivated mind as literature, music, and the performing arts” (p. 86) (see 
+also Ryder 2002).
+Finally, we have made far too little in the classroom of aesthetic justifications for 
+scientific literacy in general and of evolution literacy in particular (DeBoer 2000; 
+Dewey 1916; Feinstein 2010). Dobzhansky (1973) argued that “seen in the light of 
+evolution, biology is, perhaps intellectually the most satisfying and inspiring sci -
+ence” (1973; p. 129). This claim has received far too little attention. Like so many 
+stories in science, the story of Darwin and his journey toward the development of a 
+solution for the ageless question of where we come from is fascinating. As an 
+answer to a question that many students can identify with (where did we come 
+from?), the modern evolutionary synthesis is a thing of beauty and elegance. Which 
+one of us did not become a scientist/science educator because we were captivated 
+by something we learned about science? For example, when we help students see 
+the question, the conundrum to be solved, instead of only the answers as a “rhetoric 
+of conclusions,” they can see the beauty in both the process and the solution. 
+Evolution “cuts straight to the heart of who we are, what our strengths and limita -
+tions are, and how they came to be” (Tatersall 2013). Understanding evolution is a 
+way of “understanding ourselves” (Pigliucci 2005; p. 2).
+For me, it was the first time I encountered Mendel and solved basic genetics 
+problems. They were so beautiful! The logic was so simple! Many of my friends 
+found the problems impossible, but the solutions were so transparent to me. They 
+FIT! I was hooked. Yes, understanding science in general and evolution in particular 
+can give pleasure, and enjoyment (Jenkins 2003; Carter 2008), “enrich” our lives 
+(Anonymous 2014c), and lead to “personal self-fulfillment” (American Academy 
+for the Advancement of Science 1990; Laugksch 2000). Consider:
+The scientist does not study nature because it is useful; he studies it because he delights in 
+it and delights in it because it is beautiful. If nature were not beautiful, it would not be worth 
+knowing, and if nature were not worth knowing, life would not be worth living. (Poincaré 
+1907; p. 8)
+And:
+Knowing some things is a “part of being ‘well-read’ in science—an excellent thing indeed, 
+and one capable of giving us joy and satisfaction, but not one that all of our students will 
+find useful. (Feinstein 2010; p. 183)
+M.U. Smith
+
+--- PAGE 289 ---
+271
+10.6  Taking the Measure of the Foundational, Literacy, 
+and Aesthetic Justifications
+How well do these justifications fare against the criticisms lodged against those 
+criticized above. How relevant are they to children’s lives and how convincing are 
+the arguments likely to be to young learners?
+At the outset of this part of the discussion, I should acknowledge that, even in the 
+sense I am promoting, most students will not need to understand evolution. They 
+will rarely if ever need such understanding to make decisions in their daily lives. 
+Just as with teaching algebra, history, etc., utility justifications are weak for these 
+subjects and often a hard to “sell” to students. Justifying evolution literacy to young 
+students is simply a tough job.
+First, how much do students care about understanding evolution allusions in dis-
+cussions at home, church, synagogue, or mosque or in information they encounter 
+on the web, in blogs or tweets, on television and movies (think science fiction such 
+as “Jurassic Park”), etc.? This justification has perhaps the greatest potential to 
+encourage the study of evolution. Most of our students have already heard about 
+evolution—some a great deal. They know that it can be a controversial topic and 
+that many people hold very strong opinions about it. Controversies can be very 
+motivating to secondary school students. Some students may already have formed 
+opinions of their own and may strongly value understanding what biology has to say 
+about those opinions. Many of the opinions held by young people are merely 
+adopted from their parents, but a primary developmental task of teenagers is to 
+question such views and decide for themselves. For these reasons some students can 
+easily see the relevance of evolution learning as important to being wise consumers 
+of information.
+Second, it may be difficult to convince most students that evolution is fundamen-
+tal to understanding biology and thus worthy of study because young people tend to 
+focus on the present not the future. Teaching techniques that demonstrate the foun-
+dational nature of evolution are required if students are to be persuaded of this jus-
+tification (see Implications section below).
+Third, how interested are students in becoming literate/educated people? In 
+becoming evolution literate? Some, though perhaps not enough, clearly are inter -
+ested. They see the pitfalls and narrowed lives of the illiterate, and if learning about 
+evolution is a part of literacy, they can see that such study is worthwhile—if only as 
+a means to the end of getting a good job in the future. Public instruction in many 
+countries has often done a poor job of convincing students of the value of such lit -
+eracy, as evidenced by relatively poor performance on international exams such as 
+the Program for International Student Assessment (PISA) exams (U.S. Department 
+of Education, National Center for Education Statistics (2015). If we value evolution 
+literacy so highly, however, educators must seriously consider how we can convince 
+our students of its import.
+Fourth, how much do students value the aesthetics of science and evolution? Few 
+students will agree that they value beauty and wonder, but their behaviors often 
+10 Teaching Evolution: Criticism of Common Justifications and the Proposal…
+
+--- PAGE 290 ---
+272
+belie such protestations. Elementary education has long done the best job of tapping 
+into this appreciation, e.g., watching caterpillars that spin cocoons and eventually 
+become butterflies. Likewise, secondary biology education has paid at least lip ser-
+vice to aesthetics with pretty pictures in textbooks and beautiful videos and other 
+materials in the resources affiliated with the text. And more could be done.
+But what introductory biology and evolution education has largely failed to do is 
+to invite students into the experience of the beauty of discovering a solution to a 
+perplexing question, the joy of the “Aha!” moment, the beauty of how well evolu -
+tionary theory solves the quandary of where species come from, of mimicry, of the 
+variety of breeds of dogs, of fossils and extinct species such as dinosaurs and mam-
+moths. These topics are relevant to the interests of students. As many have noted, 
+however, we have too often presented evolution (and biology and science) as a 
+“rhetoric of conclusions” and not as a set of questions about the living world and 
+how people have proposed and tested various answers to those questions. Evolution 
+is a wonderful opportunity to learn about the questions people have asked and about 
+how the answers to these questions have themselves evolved.
+So, are these justifications for evolution literacy more relevant and interesting, 
+more convincing for our students? I propose that they are—or at least they are 
+potentially more relevant to students’ lives than the arguments science educators 
+and policy makers have been promoting (explicitly or implicitly). That judgment is, 
+of course, left to the reader and to teachers and ultimately to the students 
+themselves.
+10.7  Current Practice, Implications, and Further Research
+What justifications do teachers actually use in the classroom? To date, no published 
+study has asked this question. In mock parent-teacher conferences conducted by 
+American pre-service teachers, these soon-to-be teachers justified the teaching of 
+evolution as a requirement of state or national standards, as necessitated in light of 
+(US) court cases, or because evolution is included in the textbook (Dotger et al. 
+2009). The research design may have increased the defensiveness evident in this 
+type of justification, but this study suggests that these justifications are used by 
+some, perhaps many, teachers, at least in communities where evolution instruction 
+is a volatile issue. Such justifications are indeed valid, and they may mollify angry 
+parents. On the other hand, they are not student-centered and are not likely to 
+encourage buy-in from young learners. As Dewey (1916) pointed out, these justifi-
+cations likely “represent the values of adults rather than those of children and youth” 
+(p. 283).
+What then are the implications of adopting and promoting the positive justifica-
+tions presented above for both what we teach and how we teach evolution? What 
+suggestions can we make to both curriculum developers and classroom teachers?
+First, a word of caution: Many of the activities for teaching evolution are “whiz- 
+bang”, “fun” activities. For example, many activities for teaching natural selection 
+M.U. Smith
+
+--- PAGE 291 ---
+273
+involve “selecting” buttons or paper dots against a colored or patterned background. 
+Students often enjoy such activities greatly. Such activities present at least two prob-
+lems. First, fun is not the same as relevant. We teachers see how the activity trans -
+lates to an evolutionary principle, but in practice, students often get caught up in the 
+activity itself and spend little time coming to understand what it means. Second, 
+most students are at a concrete developmental stage in which understanding by met-
+aphor is very challenging. It takes an excellent teacher to be able to help students 
+translate colored dots of paper into abstract concepts such as changes in allele fre -
+quency due to differences in fitness. Put simply, teachers should be explicit about 
+why students are doing what they are doing. They should focus students’ attention 
+on understanding the modeled process before, during, and after the activity and use 
+real-world, familiar examples as well as models and metaphors whenever possible. 
+For example, teachers might use the real-world studies of Peter and Rosemary Grant 
+on the evolution of Darwin’s finches on the Galapagos islands (Weiner 1994).
+Second, many of the things we know about effective science teaching in general 
+are even more important in evolution instruction. For example, students are more 
+likely to invest themselves in learning when they see a purpose for the learning—
+when they need the understanding in order to answer a question or solve a problem 
+that they are interested in. This approach has been called inquiry, problem-based, or 
+case-based instruction, but it can also simply entail presenting questions and chal -
+lenges that students, not the teacher, seek answers for. Likewise, instruction should 
+be goal-driven; know specifically what you want students to achieve and aim learn-
+ing activities toward that goal. If a primary goal is understanding the nature of sci -
+ence (NOS), evolution is a fertile ground for helping students understand when 
+science does or does not apply to a question. Teachers should be explicit about this 
+goal with their students, share their goal for each activity, model such decisions, 
+give students practice, and provide coaching. (See, for example, Smith and 
+Scharmann (2006) and Scharmann and Butler (2015)).
+Third, this discussion raises the question of what the goals of evolution education 
+should be. Justifications are easily translated into goals. I have therefore argued that 
+the goals of evolution education should be understanding the basic concepts and 
+how they underlie the study of living things, evolution literacy, and aesthetic appre-
+ciation. More generally, Feinstein ( 2010) has convincingly argued that the goal of 
+science education (and I would argue of evolution education) is to help students 
+become “competent outsiders” (p. 180). He argues that most people will always 
+remain outsiders, rarely asking “How does science/evolution apply here?” The cur-
+rent system shortchanges the student by implicitly aiming to produce “marginal 
+insiders” with little or no everyday competence. “It follows that the pursuit of sci -
+ence literacy is not incidentally but fundamentally about identifying relevance; 
+learning to see how science is or could be significant to the things you [students] 
+care about most” (Feinstein 2010; p. 180; emphasis in original).
+Similarly, as with the research on NOS teaching, it seems wise to be explicit 
+about the justifications for evolution education. At least some of the students sitting 
+before you are likely asking themselves “Why do we need to learn this crap?” It 
+behooves us as teachers to share our personal convictions about the value of this 
+10 Teaching Evolution: Criticism of Common Justifications and the Proposal…
+
+--- PAGE 292 ---
+274
+instruction. We need to design instruction to help students see evolution literacy as 
+valuable to them personally. Sharing our justifications is a first step toward doing 
+that. Another approach is a lesson that asks students themselves to generate justifi-
+cations for learning about evolution (Scharmann 2005).
+Fourth, if the goal is to build a foundational understanding of evolutionary prin-
+ciples, then not only is the focus on the principles, but also on the foundational 
+nature of evolution (Jenkins 2003). This will require the oft-recommended use of 
+evolution as the unifying theme throughout biology instruction. It means that 
+ evolution becomes the basic “explanatory story” for the whole of biology, a power-
+ful “explanatory tool” for solving problems (Scharmann 2005; p.  13). Again, it 
+seems especially important that teachers explicitly note that they are using this uni-
+fied approach and that they frequently “step outside” the lesson content to note how 
+valuable their earlier learning of evolution is to understanding the biological ques -
+tion being studied at the time.
+Fifth, if the learning goal is evolution literacy, instruction could focus on its value 
+and relevance. Teachers interested in relevance have long presented stories from 
+newspapers and magazines and posted them on bulletin boards. They may also 
+spend valuable class time discussing some of those stories or showing movies 
+related to applications of evolution in daily life. These seem to be useful approaches 
+for demonstrating the utility of evolution literacy for helping students become wise 
+consumers of information. Today, of course, print newspapers and magazines have 
+mostly disappeared from the homes of our students and movies have been replaced 
+by videos. The primary source of information for today’s students is likely the 
+Internet, but the adept teacher can make similar use of websites, blogs, and games, 
+which, in fact, can provide even more opportunities than print media. Students 
+might, for example, engage in finding an answer to an evolution-related problem 
+that arises in a news story, movie, or blog that is of interest to them (Evolution 
+Today). Students then learn for themselves how necessary it is to identify personal 
+misunderstandings/misconceptions, to understand certain evolutionary principles, 
+to be adept at using evolutionary terms, etc. Such an activity might, for example, be 
+based on the question: “Should we use antibacterial soap?” or “Should we use hand 
+sanitizers frequently?” (Scharmann 2005). As Feinstein ( 2010) notes, “learning 
+about science [evolution] in a deeply personal context could make students more 
+willing to plunge into unfamiliar, science-tinged waters in the future” (p. 182).
+Sixth, teachers can also focus more on the beauty and wonder to be found in the 
+story of evolution and in how evolutionary theory answers so many biological ques-
+tions. For example, the beauty of the Watson/Crick/Franklin model of DNA and the 
+excitement of developing a model that would explain both the unity and diversity of 
+living things can easily be found in reading Watson’s ( 2001) account of the story, 
+which might be assigned as outside reading with questions for thought and then 
+discussion in class. Again, the teacher should point out how each learning experi -
+ence is evidence for one of the stated justifications for understanding evolution.
+Finally, recognizing that this instruction will require additional teaching, it is 
+time that we reconsidered what is necessary for these future citizens to know, what 
+skills they must have, and what attitudes they should hold. Perhaps, for example, it 
+M.U. Smith
+
+--- PAGE 293 ---
+275
+might not be necessary to spend so much time on mRNA translation, having stu -
+dents spend an entire lab hour using models to translate an mRNA model. Instead, 
+we might present some dog skeletons and ask students: How did we get all these 
+different breeds of dogs? Should they be called different species? Why/why not? 
+How is what breeders do like what happens in nature? Then present a human skel -
+eton and ask: What similarities and differences do you see? How does the theory of 
+evolution explain these?
+Adopting such an approach raises questions that call for further research. How 
+do the three justifications proposed here speak to students; do they motivate learning 
+of evolution? How can we best communicate these justifications to students?
+Foundations:   How can we design instruction that convinces students that under-
+standing all of biology requires understanding evolution?
+Literacy:   What constitutes evolution literacy uniquely; what are the essen-
+tial big ideas we can agree upon, etc.? What would effective 
+instruction that promotes evolution literacy look like? Can we 
+convince students to accept the importance of evolution literacy 
+as a personal goal?
+Aesthetics:   How can teachers find the instructional time to address the aes -
+thetics of evolution (and science in general)?
+Utility:   There is clearly a need for studies of the extent to which individu-
+als can and do apply what they have learned in science class once 
+they have graduated into the world outside the classroom (build -
+ing on the work of people such as Basu and Calabrese-Barton 
+(2007) in urban settings).
+There is clearly a need for empirical studies testing the efficacy of instructional 
+approaches that are built on each of these justifications.
+In addition, what other justifications might be proposed that would be more pro-
+ductive? If utility is a poor justification, not just for evolution learning but for most 
+of science learning, what would that mean for science instruction in general? For 
+example, should we adopt the goal of producing “competent outsiders” instead of 
+“marginal insiders” (Feinstein 2010). How would this impact the present over -
+loaded, prescribed curriculum and high stakes testing?
+10.8  Conclusion
+So, do students need to understand evolution? Are there sound justifications for 
+evolution instruction? Yes, but, as argued above, some commonly employed argu -
+ments are of questionable logical merit and others seem to be more relevant at a 
+societal level. I maintain that efforts to convince students of the practical utility of 
+evolution in their daily lives are often misguided. (I am not, however, arguing 
+against the value of helping students see the relevance of evolution in the modern 
+world in ways that impact their lives and their culture as a tool to motivate learning.) 
+10 Teaching Evolution: Criticism of Common Justifications and the Proposal…
+
+--- PAGE 294 ---
+276
+I maintain that our purposes are better served by arguing that evolution is important 
+(1) to becoming wise consumers of information, (2) to becoming literate individu -
+als, and (3) to experiencing the beauty and wonder in the story of evolution and its 
+power to explain living things.
+Recognizing the limited cogency of our student-centered justifications for evolu-
+tion literacy, the preceding analysis also suggests that we need a discussion about 
+how to make our justifications more relevant and convincing to students. The reader 
+will likely be surprised with how limited our student-centered justifications for 
+ evolution literacy are. How can we make them stronger? Are there better 
+justifications?
+Finally, this kind of instruction calls on all the skills of a master teacher and for 
+them to play a somewhat different role. Motivating students to see the value of 
+learning about topics like evolution that have limited relevance to daily life is indeed 
+a challenge, especially given the student effort that may be required and not to men-
+tion the controversial nature of the subject itself in some settings. Also, taking the 
+time to focus explicitly on justifications for evolution instruction will be a new role 
+for many. Effective teachers may need to become, not just explainers, but advocates 
+of evolution.
+References
+AAAS, American Association for the Advancement of Science. (1990). Science for all Americans. 
+New York: Oxford University Press. Available at http://www.project2061.org/tools/sfaaol/sfaa-
+toc.htm.
+AAAS, American Association for the Advancement of Science (1993). Benchmarks for science 
+literacy. New  York: Oxford University Press. http://www.project2061.org/tools/benchol/bol -
+frame.htm
+AAAS, American Association for the Advancement of Science. (2001). Atlas of science literacy. 
+Washington, DC: American Association for the Advancement of Science.
+Aikenhead, A. (2006). Science education for everyday life: Evidence-based practice . New York: 
+Teachers College Press.
+Anonymous. (2014a). About genetically engineered foods . Center for food safety. http://www.
+centerforfoodsafety.org/issues/311/ge-foods/about-ge-foods#
+Anonymous. (2014b). Genetically modified food controversies . Available at http://en.wikipedia.
+org/wiki/Genetically_modified_food_controversies. Accessed 20 Sept 2014.
+Anonymous. (2014c). Scientific literacy. Available at http://en.wikipedia.org/wiki/Scientific_lit-
+eracy. Accessed 22 Sept 2014.
+Atreja, A., Bellam, N., & Levy, S. (2005). Strategies to enhance patient adherence: Making it 
+simple. Medscape General Medicine, 7(1), 4.
+Baram-Tsabari, A., & Segev, E. (2011). Exploring new web-based tools to identify public interest 
+in science. Public Understanding of Science Journal, 20(1), 130–143.
+Basu, S. J., & Calabrese-Barton, A. C. (2007). Developing a sustained interest in science among 
+urban minority youth. Journal of Research in Science Teaching, 44(3), 466–489.
+Carter, L. (2008). Globalization and science education: The implications of science in the new 
+economy. Journal of Research in Science Teaching, 45(5), 617–633.
+Condit, C. M. (2010). Public understandings of genetics and health. Clinical Genetics, 77(1), 1–9.
+M.U. Smith
+
+--- PAGE 295 ---
+277
+DeBoer, G. B. (2000). Scientific literacy: Another look at its historical and contemporary mean -
+ings and its relationship to science education reform. Journal of Research in Science Teaching, 
+37(6), 582–601.
+Dempster, E.  R., & Hugo, W. (2006). Introducing the concept of evolution into South African 
+schools. South African Journal of Science, 102(3/4), 106–113.
+Dewey, J. (1916). An introduction to the philosophy of education. New York: Macmillan.
+Dobzhansky, T. (1973). Nothing in biology makes sense except in the light of evolution. American 
+Biology Teacher, 35(3), 125–129.
+Dotger, S., Dotger, B.  H., & Tillotson, J.  (2009). Examining how preservice science teachers 
+navigate simulated parent-teacher conversations on evolution and intelligent design. Science 
+Education, 94(3), 552–570.
+Evolution Today. http://www.amnh.org/exhibitions/darwin/evolution-today/.
+Feinstein, N. (2009). Prepared for what? Why teaching “Everyday Science” makes sense. Phi 
+Delta Kappan, 90(10), 762.
+Feinstein, N. (2010). Salvaging science literacy. Science Education, 95(1), 168–185.
+Fensham, P. J. (2002a). Time to change drivers for scientific literacy. Canadian Journal of Science, 
+Mathematics and Technology Education, 2(1), 9–24.
+Fensham, P. J. (2002b). De nouveaux guides pour l'alphabétisation scientifique. Canadian Journal 
+of Science, Mathematics and Technology Education, 2(2), 133–149.
+Ferris, F. D., von Gunten, C. F., & Emanuel, L. L. (2001). Knowledge: Insufficient for change. 
+Journal of Palliative Medicine, 4(2), 145–147.
+Gil-Pérez, D., & Vilches, A. (2005). Contribution of science and technological education to citi -
+zens’ culture. Canadian Journal of Science, Mathematics and Technology Education, 5 (2), 
+253–263.
+Gordin, M. D. (2015). That a clear line of demarcation has separated science from pseudoscience. 
+In R. L. Numbers & K. Kampourakis (Eds.), Newton’s apple and other myths about science. 
+Cambridge, MA: Harvard University Press.
+Gormally, C., Brickman, P., & Lutz, M. (2012). Developing a test of scientific literacy skills 
+(TOSLS): Measuring undergraduates’ evaluation of scientific information and arguments. CBE 
+Life Sciences Education, 11, 364–377.
+Hodson, D. (2009). Toward scientific literacy: A teachers’ guide to the history, philosophy, and 
+sociology of science. Rotterdam: Sense Publishers.
+Irwin, A. (1995). Citizen science: A study of people, expertise, and sustainable development . 
+New York: Routledge.
+Jenkins, E. W. (1990). Scientific literacy and school science education. School Science Review, 
+71, 43–51.
+Jenkins, E. J. (1994). Scientific literacy. In T. Husen & T. N. Postlethwait (Eds.), The international 
+encyclopedia of education (V ol. 9, pp. 5345–5350). Oxford: Pergamon Press.
+Jenkins, E.  J. (2003). Postscript. In E.  J. Jenkins (Ed.), Innovations in science and technology 
+education (V ol. III). Madrid: UNESCO Publishing.
+Johnson, K., Dempster, E., & Hugo, W. (2015). Exploring the recontextualisation of biology in the 
+CAPS for life sciences. Journal of Education, 60, 101–121.
+Kolstø, S. D. (2001). Scientific literacy for citizenship: Tools for dealing with the science dimen -
+sion of controversial socioscientific issues. Science Education, 85(3), 291–310.
+Laugksch, E. (2000). Scientific literacy: A conceptual overview. Science Education, 84(1), 71–94.
+Lave, J. (1988). Cognition in practice: Mind, mathematics and culture in everyday life. New York: 
+Cambridge University Press.
+Layton, D., Jenkins, E., MacGill, S., & Davey, A. (1993). Inarticulate science? Nafferton: Studies 
+in Science Education.
+Lederman, N. G., Antink, A., & Bartos, S. (2012). Nature of science, scientific inquiry, and socio- 
+scientific issues arising from genetics: A pathway to developing a scientifically literate citi -
+zenry. Science & Education, 23(2), 285–302.
+Lewis, J., & Leach, J. (2006). Discussion of socio-scientific issues: The role of science knowledge. 
+International Journal of Science Education, 28(11), 1267–1287.
+10 Teaching Evolution: Criticism of Common Justifications and the Proposal…
+
+--- PAGE 296 ---
+278
+Millar, R. (2005). Contextualized science courses: Where next? In D. Waddington & P. Nentwig 
+(Eds.), Making it relevant: Context based learning of science. New York: Waxman Munster.
+Millar, R., & Osborne, J. (1998). Beyond 2000: Science education for the future. London: King’s 
+College London.
+Nelson, S. (2012). Anti-Evolution Rep. Broun wants to stay on science committee. US News & 
+World Report. Available at http://www.usnews.com/news/articles/2012/12/03/anti-evolution- 
+rep-broun-wants-to-stay-on-science-committee. Accessed 20 Sept 2014.
+NGSS Lead States. (2013). Next Generation Science Standards: For States, By States. Washington, 
+DC: The National Academies Press. http://www.nextgenscience.org/. Accessed 13 May 2013.
+Norris, S., & Phillips, L. (2003). How literacy in its fundamental sense is central to scientific lit -
+eracy. Science Education, 87, 224–240.
+NRC, National Research Council. (1995). National Science Education Standards . Washington, 
+DC: National Academy Press.
+Office of National Drug Control Policy. (2012). Federal funding ban on needle exchange pro -
+grams. Available at http://www.whitehouse.gov/blog/2012/01/05/federal-funding-ban-needle-
+exchange- programs. Accessed 24 Sept 2015.
+Osborne, J., & Collins, S. (2001). Pupils’ view of the role and value of the science curriculum: A 
+focus-group study. International Journal of Science Education, 23(5), 441–467.
+Osborne, J. (2007). Science Education for the Twenty First Century, 3(3), 173–184.
+Pigliucci, M. (2005). Evolution’s importance to society. Available at: http://www.actionbioscience.
+org/evolution/pigliucci.html. Accessed 24 Sept 2015.
+Poincare, H. (1907). The value of science. New York: The Science Press.
+Rennie, L. J. (2007). What counts as science education? Studies in Science Education, 43, 135–143.
+Roberts, D. A. (1988). What counts as science education? In P. J. Fensham (Ed.), Development and 
+dilemmas in science education (pp. 27–54). New York: Falmer Press.
+Roberts, D. A. (2007). Scientific literacy/science literacy. In S. K. Abell & N. G. Lederman (Eds.), 
+Handbook of research on science teaching  (pp.  729–780). Mahwah: Lawrence Erlbaum 
+Associates.
+Rogers, E. M. (1983). Diffusion of innovations. New York: The Free Press.
+Rosengren, K. S., Brem, S. K., Evans, E. M., & Sinatra, G. M. (2012). Understanding evolution on 
+Darwin Day. http://blog.oup.com/2012/02/understanding-evolution. Accessed 18 Sept 2014.
+Ryder, N. (1993). Vernacular science: Something to rely on in your actions? In P. J. Black & A. M. 
+Lucas (Eds.), Children’s informal ideas about science (pp. 148–171). New York: Routledge.
+Ryder, J.  (2001). Identifying science understanding for functional scientific literacy. Studies in 
+Science Education, 36, 1–44.
+Ryder, J. (2002). School science education for citizenship: Strategies for teaching about the epis -
+temology of science. Journal of Curriculum Studies, 34, 637–658.
+Scharmann, L. S. (2005). A proactive strategy for teaching evolution. American Biology Teacher, 
+67(1), 12–16.
+Scharmann, L.  S., & Butler, W. (2015). Two-year community: The use of journaling to assess 
+student learning and acceptance of evolutionary science. Journal of College Science Teaching, 
+45(1), 11–16.
+Shamos, M. (1995). The myth of scientific literacy. New Brunswick: Rutgers University Press.
+Shortland, M. (1988). Advocating science: Literacy and public understanding. Impact of Science 
+on Society, 38(4), 305–316.
+Smith, M. U. (2010). Current status of research in teaching and learning evolution: II. Pedagogical 
+issues. Science & Education, 19(6–8), 539–571.
+Smith, M. U., & Scharmann, L. C. (2006). A multi-year program developing an explicit reflec -
+tive pedagogy for teaching pre-service teachers the nature of science by Ostention. Science & 
+Education, 17(1–2), 219–248.
+Tatersall, I. (2013). Why do we care about human evolution today?  Available at: https://www.
+bigquestionsonline.com/print/198. Accessed 24 Sept 2015.
+Thomas, G., & Durant, J. (1987). Why should we promote the public understanding of science? In 
+M. Shortland (Ed.), Scientific literacy papers (pp. 1–14). Oxford: Rewley House.
+M.U. Smith
+
+--- PAGE 297 ---
+279
+Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 
+185(4157), 1124–1131.
+U.S. Department of Education, National Center for Education Statistics. (2015). The condition 
+of education 2015  (NCES 2015–144), International Assessments. Available at https://nces.
+ed.gov/fastfacts/display.asp?id=1. Accessed 15 Mar 2016.
+Vilches, A., & Gil-Pérez, D. (2011). Actual experiences and actions as essential component s of 
+education for sustainability. School Research, 74, 59–71.
+Watson, J. D. (2001). The double helix: A personal account of the discovery of the structure of 
+DNA. New York: Touchstone.
+Weiner, J.  (1994). The beak of the finch: A story of evolution in our time . New  York: Alfred 
+A. Knopf.
+10 Teaching Evolution: Criticism of Common Justifications and the Proposal…

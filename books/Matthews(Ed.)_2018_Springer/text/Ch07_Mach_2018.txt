@@ -1,0 +1,285 @@
+Title: About the Psychological and Logical Moment in Natural Science Teaching (1890)
+Pages: 215-220
+
+--- PAGE 215 ---
+195
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_7
+Chapter 7
+About the Psychological and Logical Moment 
+in Natural Science Teaching (1890)
+Ernst Mach
+Historical studies convincingly demonstrate that the knowledge process 1 
+[Erkenntnis] in natural science consists of the gradual adaptation of the thoughts to 
+the facts. This adaptation happens through happy circumstances, which increasingly 
+reveal the more general similarities and subtle differences of the facts. By this, the 
+precision of the representation of the facts by the thoughts grows, so that the latter 
+finally become an image of the former, which for certain intellectual purposes may 
+completely substitute for them.
+1  Translator’s note: In Mach’s understanding, knowledge is a non-teleological process, as  
+part of Lamarck/Spencer/Wallace/Darwin’s idea of evolution. Any development, “growth”, etc. 
+are local, but not general. Knowledge, like Darwinian species is thus a process generally with a 
+concrete product locally (see also Beneke, 1840, System der Metaphysik und Religionsphilosophie 
+aus den natürlichen Grundverhältnissen des menschlichen Geistes abgeleitet.  Mach read this 
+text early in his life and applied many ideas from it). Directionality depends on observations 
+relative to a “background”, which can never be absolute. The process view was used by 
+Newton in his concept of “interaction” in order to replace the previous “object”/“product” view. 
+The process/gestalt view was also used by Mach in his criticism of Newton’s absolute space 
+and time.
+Translator’s note: The article was first printed in the Zeitschrift für den physikalischen und che-
+mischen Unterricht . Berlin: Springer: 1890/1891, 1–5. Über das psychologische und logische 
+Moment im naturwissenschaftlichen Unterricht.
+Translated by Hayo Siemsen: Translator’s note: For the following references in the footnotes, see 
+Siemsen, H. (2012). Ernst Mach, George Sarton and the Empiry of Teaching Science Part I. 
+Science & Education, 21/4: 447–484.
+Siemsen, H. (2013). Ernst Mach, George Sarton and the Empiry of Teaching Science Part II. 
+Science & Education, 22/5: 951–1000.
+E. Mach (deceased)
+Ernst Mach (translated and edited by Hayo Siemsen).
+
+--- PAGE 216 ---
+196
+The one who admits this sober view of the meaning of natural science will assign 
+to natural science teaching2 no other purpose, but to promote the aspired adaptation 
+of thoughts with highest economy of work on shortcuts, by artificially bringing 
+about those favorable circumstances avoiding the unfavorable historical coinci -
+dences and delays. 3 If one has adopted this opinion, it can barely appear strange 
+that, just as an organic being (after Darwin) in its embryonic stage replicates the 
+whole step-ladder of evolutionary development in an abridged way, also in teaching 
+a condensed and clarified imitation of the historical way of development of science 
+has shown to be the most natural and useful; because the next higher level of knowl-
+edge has actually established itself, thereby psychologically, on the former lower 
+one, and can in a certain way only be ascended, i.e. fully understood through it.
+On different occasions I think I have observed that this stated view is still barely 
+shared in the circles of the teachers. Even those, who theoretically adhere to it, prac-
+tically defect from it again and again. This mainly, and quite prominently, manifests 
+itself in the overrating of the logical and disregard of the psychological moment in 
+teaching. By stating my opinion on this issue here, I hope – without counting on 
+immediate agreement – to contribute to the discussion and clarification of the peda-
+gogical opinions.
+The generally prevalent overrating of the logical moment in relation to the psy -
+chological  – also when one completely disregards the abnormal outgrowth of it 
+completely4 – meets us often enough. It probably derives from the time when the 
+2 Translator’s note: Ernst Mach is well known for his influence in physics (spacetime), physiology 
+(psychophysics, the inner ear), psychology (gestalt) or erkenntnis-psychology/ theory of knowl -
+edge (Erkenntnis und Irrtum). He is less known for his works on pedagogy and didactics. He has 
+many activities in this area, but he never consolidated them into a consistent theory (see Siemsen 
+2014). What are these “activities”?
+Most influentially, he co-authored the physics school books, which were used from the 1880’s 
+to the mid 1920’s in larger parts of the German speaking countries. He also wrote a teacher instruc-
+tion for the school books (see Hohenester, 1988, Ernst Mach als Didaktiker, Lehrbuch- und 
+Lehrplanverfasser. In: Haller, R. & Stadler, F. (Eds.), Ernst Mach Werk und Wirkung, Vienna: 
+Hölder-Pichler-Tempski; part-translation Siemsen 2012, 2013). He was also founder and co-editor 
+of a teachers‘journal in science education Zeitschrift für den Physikalischen und Chemischen 
+Unterricht. In this function, he wrote several articles (like the one translated here) and small 
+“thought experimental “descriptions to be used for teaching. Unfortunately, nearly all this material 
+has not yet been translated into English (collected in German by Koller, 1997, Kommentare zu den 
+physikdidaktischen Schriften Ernst Machs, Diploma Thesis at the Karl-Franzens-Universität Graz, 
+supervised by Adolf Hohenester). Furthermore, he used his pedagogy to transform the thoughts of 
+his students. William James considered Mach’s lecture as “the most artistic lesson I ever heard 
+“(see Thiele 1978, Wissenschaftliche Kommunikation: Die Korrespondenz Ernst Machs , 
+Kastellaun: Henn; Siemsen 2014). The following article gives an account of the erkenntnis-psy-
+chological implications of Mach’s pedagogy.
+3 Translator’s note: Mach’s clear distinction and well-known criticism of metaphysics can be 
+found in this statement. From a Machian perspective, current science teaching is full of metaphysi-
+cal errors, which are not recognized as such. If students and teachers do not “understand” the 
+inconsistencies taught to them, one cannot thus blame them for being confused about what is 
+confusing.
+4 As such an outgrowth I have to call the view, which an eminent natural scientist, who at a time 
+also had been a proficient school teacher, had advanced towards me. He stated that in geometry 
+E. Mach
+
+--- PAGE 217 ---
+197
+elements of Euclid were seen as a model of scientific method. At the time, one 
+barely considered that this method, which may have proven of excellent value as a 
+means to train the reasoning power and logically educating adult men with extended 
+practical and scientific geometrical knowledge, would be completely inappropriate 
+for introduction into geometry.5 Criticism6 cannot already start, where secure con -
+ceptualizations are still completely missing. Criticism, which does not produce, but 
+only assorts what is given, is by no means the whole of science, but it is a means for 
+stabilizing it.7
+The goal of the teaching is without question not only psychological, but also 
+logical. Not only a vivid visualization of the facts should be gained, but also an 
+arrangement of the concepts achieved, which allows for the most parsimonious 
+expression of them. It nevertheless seems to be clear that the order of the concepts 
+can only occur when and to the extent that concepts are gained in the first place. If, 
+as it often happens, it is required that teaching should already begin with full sen -
+tences [Sätze] and as well continue in sentences, from which later (also at reaching 
+the teaching goal) nothing is to be corrected, then one already presupposes, I think, 
+the attainable goal, which one seeks, as already having been reached. One expects 
+from the student an overview, a familiarity of the contents, a training of abstraction, 
+which is not only non-existing, but cannot possibly be existing yet; what at best can 
+be the end of the activity, one wants to begin with. This procedure – the counter 
+image of the historical way of development – I can only consider as mistaken.
+It will not be denied that a word has only value and meaning by the conceptions 
+it awakens, by the psychological contents given to it, without which it just remains 
+empty sound. This content is very different, depending on the conceptual richness 
+of the speaker and of the addressed person. If now the teacher, to whom all the 
+teaching contents is present, mounts a sentence adapted to his concepts to his own 
+satisfaction; so therein is – if it happens unconsciously – definitely an error regard -
+ing the person on whose satisfaction teaching foremost depends; if it happens 
+teaching, one had to accustom the student to judge correctly from a false figure from given prem-
+ises. Admittedly, such a procedure can be exceptionally quite useful in order to make the difference 
+between the conceptualized perception [ Anschauung] process from the logical process, which 
+basically happens in the argumentum ad absurdum; but where would one end by systematically 
+leading to mistrust the conceptualized perception?! – Another time I heard in a group of teachers 
+the statement that a certain topic could not be included into elementary teaching, because the defi-
+nition of the basic concepts was not scientifically completed. – Also J. K. Becker seems to turn 
+against such outgrowths, when he underlines that the proven truths are in no way better than the 
+immediately perceived.
+5 Luckily, nobody falls into the hands of a didact proceeding Euclidically without themselves hav-
+ing at least some initial geometrical concepts.
+6 Translator’s note: Mach is here referring to Kant’s and Herbart’s method of criticism. Criticism 
+is optimizing by reducing mistakes. In another article, Mach explains that first one needs to have a 
+relatively stable “world view”, before it can be “optimized”. Children are initially lacking the sta-
+ble world view (a basic model).
+7 This circumstance is illustrated by nothing better than the comparison of the transparency and 
+fruitfulness of modern geometrical methods with the clumsiness and barrenness of the Euclidean.
+7 About the Psychological and Logical Moment in Natural Science Teaching (1890)
+
+--- PAGE 218 ---
+198
+ consciously, it is a didactical dishonesty. 8 For the student, a prematurely applied 
+completeness and logical finesse must be useless and worthless, yes often even 
+distracting.
+If one sticks to this claim, it is practically impossible to start teaching or to pro -
+ceed, without continuously violating against didactic usefulness. The simplest sen-
+tences then become untenable, as the following examples show:
+“A body, which illuminates without the mediation of another, is called self-  
+luminous.” The teacher will now immediately notice that  – according to today’s 
+understanding at least – every body can only illuminate through the mediation of the 
+ether. Wouldn’t it be most unpractical to interrupt the simple thought of the student 
+by some reservation, at this point at which the student does not think about the ether 
+and does not need to do so?
+“A body, which taken in-between the eye and another body, does not hinder the 
+excitement of light perception through the latter, is called transparent.” According to 
+this, a glass prism with a sufficiently large refraction angle would not be transpar -
+ent. How quirky would a sentence have to appear to the student, if one would also 
+take such a case into account?
+“The pressure of a heavy body on the surface is called its weight.” One would 
+actually have to say “on a surface at rest”. Strictly speaking, also that would not be 
+unobjectionable, but should be “on the in a vertical sense not accelerated surface”, 
+against which one could still object to on a higher level.
+These examples could be proliferated at will. Who had – for example when com-
+posing an elementary teaching book – not felt the conflict between the requirements 
+of the didactic utility on the one hand and those of science and logical precision on 
+the other? To satisfy both requirements to the same degree is simply not possible.
+Such difficulties are naturally resolved by gradually proceeding from the simpler 
+to the more composed, if one introduces the necessary completeness and precision 
+after sufficient psychological preparation. A logical contradiction would only exist, 
+if the student, after being better taught, would still see the introductory sentence as 
+a complete and generally valid instruction. At the end of teaching, the introductory 
+sentence has also acquired a different meaning for the student. Also he acknowl -
+edges it as provisional.
+The adaptation of the thoughts in the process of scientific development enables 
+us to complete a partially given fact in thoughts, i.e. seeing an incoming light beam 
+the we can anticipate the refracted one, to find the induced current in the neighbor-
+ing conductor of a moved conductor, etc. The result of this adaptation can thereby 
+linguistically be formulated: If A is, so is B. But as a fact in general is not exactly 
+repeated, so such a result can only be gained by a process of abstraction, which 
+8 Reading the writings of some eminent researchers (e.g. Gauss), to the same degree as one enters, 
+one feels all the more, that they have not written them for the reader, but for their own satisfaction. 
+By this, some such text has acquired a nearly enigmatic form. One can understand the sentences of 
+them but in one specific way, if one succeeds in understanding them at all. This way of fixing a 
+completed knowledge is also a masterpiece, but by no means a didactical one. A few introductory 
+words about how the researcher has reached his results, in general saves the reader some major 
+work.
+E. Mach
+
+--- PAGE 219 ---
+199
+results in a series of facts with coinciding attributes. The economy of replicating the 
+facts in the thoughts already necessarily compels to this. By the thoughts also seek-
+ing to sufficiently replicate the differences of the facts, also the necessity then arises 
+to seek the differentiating attributes of the facts. Natural research consists of this 
+gradual separation of the coinciding and differentiating attributes; a process which 
+one could call classification. If the facts are so close, that the decisive [massgeben-
+den] attributes of them only differ by the amount of equal parts, into which they can 
+be dissected, so the further classification can take place according to this number of 
+the parts. The measurement and counting or the intermediate counting, the calcula-
+tion, i.e. the mathematical treatment commences. The advantage of the latter con -
+sists in the immediate ability to refine the classification infinitely. Rightly, one 
+considers the adaptation of the thoughts, which has advanced thus far as being 
+essentially completed.
+The advancement of the before mentioned classification process requires a vivid 
+envisioning of the facts. Wherein the behavior of electrical, magnetic and heavy 
+bodies coincides (reverse square law), and wherein it differs, can only be noticed by 
+one who is familiar with the facts. Who is psychologically prepared by the demon-
+stration of a continuum of cases of light refraction (i.e. air – glass) will easily notice 
+the similarity of them (that both rays lie perpendicular in the same plane and larger 
+arrival angles correspond to larger refraction angles) and also the difference (that 
+each arrival angle corresponds to a different refraction angle). One has arrived with 
+the mathematical classification, if one can attribute each special arrival angle a spe-
+cial refraction angle, for example by making a chart. If one can see that the chart can 
+be replaced by the formula sin α/sinβ = 3/2, so this initially seems like a practical 
+simplification. But we have found a new similarity of all cases of refraction, if it 
+turns out that in all of them, is manifested the same relation of the speed of light in 
+air and in glass. The order established gradually in such a way will probably be bet-
+ter understood and valued than if it would be presented in a completed form – for 
+instance by the immediate introduction of the refraction law – which would be con-
+sistent with a logical, but not with a psychological process.
+It should not remain unmentioned that for the accomplishment of the aforemen-
+tioned classification the psychological preparation is all the more necessary, as the 
+coinciding and differentiating attributes often are not gained by immediate percep-
+tion/conceptualization [Anschauung], but through an abstraction based on laborious 
+activity, an activity which should be well trained.9 The abstraction “refraction expo-
+nent”, “moment”, etc. will only be constructed by the one, who really calculated the 
+refraction occurrences, the occurrences of equilibrium, etc. One can barely disrupt 
+the abstraction process more effectively than by prematurely making use of it.10
+9 I think that one can agree to what is stated in the text, even if one does not agree to the view on 
+abstraction, which I have detailed elsewhere (Beiträge zur Analyse der Empfindungen. Jena 1886. 
+pp. 149). Nobody doubts that for instance in mathematics, the understanding is based on the prac -
+ticing of the operations.
+10 In my youth I was repeatedly in the position to provide elementary teaching and could many 
+times see for myself the barrenness of the pressing for premature abstraction. If, for instance, I 
+7 About the Psychological and Logical Moment in Natural Science Teaching (1890)
+
+--- PAGE 220 ---
+200
+The solution of a problem consists in the completion of a currently insufficient 
+classification, by either finding a new more general similarity or a more detailed 
+differentiation. So the discrepancy, which seems to lie in the movement of a body, 
+when pushed on a horizontal path or thrown upwards it is slowed, while a falling 
+body is accelerated, is resolved by the recognition [ Erkenntnis] that accelerating 
+circumstances apply to all these cases. The prismatic spreading of a white ray into a 
+fan of colors seems to be a contradiction of the law of refraction, but explains itself 
+by the finer differentiation of the refractive index of the colors. Also the solution of 
+a problem, if it is to be valued and understood, needs to be prepared psychologi -
+cally. Even the obscurity, the discrepancy, which comes before the solution of the 
+problem, should be felt. The solution should not appear ready, before the problem 
+has appeared, but rather become gradually. Thereby it also becomes clear that not 
+every produced sentence can and should be indefeasible from the point of view of 
+the resolved problem. Here applies in detail what has been stated about the applica-
+tion of teaching in general.
+Even if the adaptation of the thoughts to the facts, i.e. the knowing of the facts is 
+the actual goal of natural science, this goal cannot be accomplished without finally 
+also satisfying the requirement for an economical ordering of the thoughts. From 
+this economical requirement, the logical requirement, that is, the requirement of 
+consistency, is a part. It would be a bad economy of a completed area of knowledge, 
+if it would require continuous correction and improvement. The requirements of 
+economy nevertheless go further than those of logic, which in a certain way only 
+provides a negative regulative condition. One could state quite comprehensively the 
+goal for natural science and natural science education as: The adaptation of the 
+thoughts to the facts and the thoughts to each other.
+I would now like to summarize my opinion in the following sentences:
+One should in teaching first and foremost proceed psychologically; only second-
+arily and as much logically, as this is enabled through the psychological preparation 
+so that it becomes a need.
+New concepts, theories, hypotheses, solutions of problems should only be intro-
+duced, when the need for this is felt in order to be able to master the topic.
+For each sentence, which appears during teaching, clarity and explicitness, but in 
+general not indefeasibility from the point of view of the goal of teaching, should be 
+required.
+provided the question for able children, who could already count quite well: How much is 5 + 3?, 
+so I got no answer. But the answer was immediately provided for the question: How many are 5 
+nuts and 3 nuts? Also for my children I have often observed that the abstractions, which I had in 
+vain tried to induce, occurred a few days later just on their own, sometimes in a completely unex-
+pected way. I think that also in higher education, without noticing, we often commit very analo -
+gous errors. – The phenomenon (mentioned in this journal, [Zeitschrift für den physikalischen und 
+chemischen Unterricht III, p. 111], that so many of the most important French mathematicians of 
+the eighteenth century were technicians by training, finds its explanation in this circumstance. The 
+technician has to concern him/ herself with many details; his/her abstractions appear later, but 
+often more powerful than at the study of pure theory.
+E. Mach

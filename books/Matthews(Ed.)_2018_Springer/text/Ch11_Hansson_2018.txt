@@ -1,0 +1,1122 @@
+Title: Science Education, Indoctrination, and the Hidden Curriculum
+Pages: 299-322
+
+--- PAGE 299 ---
+283
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_11
+Chapter 11 
+Science Education, Indoctrination, 
+and the Hidden Curriculum
+Lena Hansson
+11.1  Introduction
+Are students indoctrinated in science class? What could that mean? If yes, what 
+kind of views are teachers indoctrinating students into? Is it possible to avoid? Is 
+indoctrination a useful concept when trying to understand what is happening in the 
+science classroom? Such issues will be of focus in this chapter.
+Historically there is no difference between the concept of indoctrination and the 
+concept of teaching (Callan and Arena 2009; Gatchel 1972/2010; Green 1972). 
+However, nowadays, indoctrination has negative connotations.  It is not known 
+exactly when this pejorative way to use the word began. However, Callan and Arena 
+(2009, p. 120) provide an example from 1852 where indoctrination is positioned as 
+something negative. However, different usage of the concept was used at the same 
+time. Gatchel (1972/2010) writes that “little over half a century ago the employment 
+of ‘indoctrination’ was no more offensive in educational circles than the use of 
+‘education’. Indeed, the two terms were practically synonymous” (p.  9). Green 
+(1972) adds to this by referring to the Oxford English Dictionary published around 
+1900 that did not distinguish indoctrination from teaching.
+The definition of the concept of indoctrination, and how to distinguish it from 
+teaching or from socialization, is discussed by philosophers of education.1 The risk 
+of indoctrination has been frequently discussed in relation to religious and political 
+education, but less frequently in science education. When used in science education, 
+it has been in relation to teaching controversial value-based areas (for example in 
+environmental education), as well as in relation to teaching the nature of science and 
+1 See for example Bailey ( 2010); Callan and Arena ( 2009); Snook ( 1972b/2010); Wilson (1964, 
+1972).
+L. Hansson (*) 
+School of Education, Kristianstad University, Kristianstad, Sweden
+e-mail: lena.hansson@hkr.se
+
+--- PAGE 300 ---
+284
+specific scientific models. It has also been used in more general discussions of 
+whether teaching science should aim towards knowledge or belief.
+This chapter will take as a starting point, discussions of indoctrination in 
+philosophy of education. The value of philosophy of education for science educa -
+tion research is highlighted by Schulz (2014). He states that debates on the aims of 
+education as well as the difference between education and indoctrination are impor-
+tant for science education research.
+It is suggested in the literature that social and institutional structures should be 
+taken into account when discussing indoctrination. In line with this Huttunen (2003) 
+suggests that indoctrination can happen through the hidden curriculum (Snyder 
+1971). The chapter will discuss the possibility of using the concept of indoctrination 
+in this way: in relation to explicit and implicit messages in science class that are part 
+of the hidden curriculum. Focus will be on the part of the hidden curriculum that 
+communicates views about science itself –specific “nature of science” perspectives 
+as well as specific worldviews and ideologies communicated side by side with sci-
+ence content in the science classroom (without necessarily being part of the formal 
+curriculum).
+11.2  Indoctrination: The Concept
+Indoctrination has long been a topic for analysis in the philosophy of education lit-
+erature. Most teachers would feel attacked and offended if someone told them that 
+they were indoctrinating students. Thus indoctrination has negative connotations for 
+most people, including education scholars, teachers and the general public. The 
+concept has generally come to mean the “unethical influencing in a teaching situa-
+tion. Indoctrination means infiltrating (drilling, inculcating etc.) concepts, attitudes, 
+beliefs and theories into a student’s mind by passing her free and critical delibera -
+tion” (Huttunen 2003, p. 1). Indoctrination, in this way, is a “systematic distortion 
+of some kind in the teachers’ presentation of subject matter – a distortion that elicits, 
+or could reasonably be expected to elicit, a corresponding distortion in the way 
+students understand the subject matter” (Callan and Arena 2009, p. 105).
+In line with this, in the general use of the concept, there is a stark dichotomy 
+between objectivity and indoctrination (Stolzenberg 1993).2 Thus, indoctrination 
+nowadays is most often not viewed as something positive, but something that should 
+be avoided. There are descriptions in the literature of how teachers navigate (and 
+even exclude some aspects from their teaching) in fear of risking the indoctrination 
+of students (Qablan et al. 2011).
+However, even if indoctrination is most often viewed as negative and to be 
+avoided, some scholars argue that avoidance is not always possible (Moore 1972). 
+2 However, opposite to this there are also people for whom an “objective” teaching is part of the 
+problem, e.g. not all parents want their children to rationally scrutinize everything (Stolzenberg 
+1993).
+L. Hansson
+
+--- PAGE 301 ---
+285
+In addition, there are scholars who argue that indoctrination can sometimes be justi-
+fied, for example, in the moral education of very young children, or depending on 
+high values at stake. Discussions include, for example, whether it would be justifi -
+able to indoctrinate students into democratic values (e.g. Kilpatrick 1972) or critical 
+thinking (e.g. Cuypers and Haji 2006).
+A need is identified in the literature to define the concept of indoctrination more 
+stringently to be able to decide whether a teacher is correctly accused of indoctrinat-
+ing. Snook (1972/2010) offers a philosophical analysis of the concept in an attempt 
+to define it with the starting point of four different criteria: the methods of teaching, 
+the content of the teaching, the consequences of teaching, and the intentions of the 
+teacher. These criteria are widely used among philosophers of education who have 
+discussed the concept of indoctrination and how to understand the difference 
+between indoctrination and teaching. However, scholars do not always agree on 
+which (or which combination of) criterion should be decisive.
+There are scholars who argue for indoctrination being associated with specific 
+teaching methods (e.g. Gatchel 1972/2010; Momanu 2012; Moore 1972/2010), for 
+example, “the use of propaganda devices, including censorship” and “authoritarian 
+methods” (Moore 1972/2010, pp. 93–94). Examples of authoritarian methods are 
+when a teacher rewards the right answers and punishes with silence wrong answers, 
+as well as not providing reasons for their claims (Bailey 2010, p. 276). Others argue 
+that this criterion is not the most productive: “method is not a strong candidate as 
+the criterion for indoctrination simply because it is extremely difficult to conceive 
+of methods that are characteristic of indoctrination alone” (Bailey 2010, p. 276).
+Also, content has been suggested as a possible decisive criterion. For example, 
+there are arguments raised that only doctrines are possible to indoctrinate, or for 
+defining a content based criterion in some other way (e.g. being about uncertain 
+subject matters). Therefore, scholars arguing for the content criterion in different 
+ways reason that there is a difference between consensus content and controversial 
+content – where only controversial content could be subject for indoctrination. Flew 
+(1972/2010) illustrates this by arguing for the difference between teaching contro -
+versial religious or political ideologies, and something like the multiplication tables. 
+However, other scholars reject the notion of ideologies being the only content open 
+for the possibility of indoctrination, for example, due to the difficulties with differ-
+ing “between matters of broad consensus” and “contested claims” (Bailey 2010, 
+p. 275). Green on the other hand, states that the difference between teaching and 
+indoctrination “has nothing to do with the contents of beliefs” and refers that “two 
+persons may hold to the same belief and yet one may do so evidentially and the 
+other non-evidentially” (Green 1972, p. 33).
+There are also scholars who discuss the consequences as a possible criterion for 
+indoctrination. For example, Bailey ( 2010) discusses “closed-mindedness” (with 
+reference to Laura ( 1983)) as a consequence of indoctrination while teaching is 
+characterized by “open-mindedness”. Focus, in this way to characterise indoctrina-
+tion, is the care about “students’ ability to judge for themselves” (Bailey 2010, 
+p. 277), and about the autonomy of the student (Bailey 2010).
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 302 ---
+286
+A well-discussed criterion in the literature is the intention criterion, which many 
+scholars argue for as the decisive criterion (e.g. Snook 1972/2010; White 1972/2010). 
+Wilson ( 1972) states that indoctrination is an “intentional activity: you cannot 
+indoctrinate by accident” (p. 18). The indoctrinator must “intend his pupil to arrive 
+at a certain belief” (p. 18–19). Also, when presenting the four possible criteria (see 
+above), Snook concludes that the intention criterion is the most useful of them all. 
+He states that “A person cannot indoctrinate if he is not doing anything intentional 
+at all: one cannot indoctrinate by omission” (Snook 1972, p. 66). He further states:
+‘Indoctrination’ implies a pejorative judgment on a teaching situation. It suggests that 
+someone taking advantage of a privileged role to influence those under his charge in a man-
+ner which is likely to distort their ability to assess the evidence on its own merit. The posi-
+tive intention to bring about this state of mind is sufficient for the application of the term to 
+his teaching, even if he should fail in his task. (Snook 1972, p. 66)
+Thus a teacher’s intention is central for Snook and many other scholars. However 
+this position has been criticised, with arguments that it is not necessary that the 
+teacher intend the student to believe non-rationally. Wilson (1972) writes that even 
+though indoctrination is an “intentional activity”, it is possible that the indoctrinator 
+(e.g. the teacher responsible for the indoctrination) “might say, and believe, that 
+they were helping people to form their own beliefs rationally and freely, but this 
+might not be” (Wilson 1972, p. 18–19). Wilson argues that the teacher must “intend 
+his pupil to arrive at a certain belief” for being held responsible for indoctrination, 
+but it is not necessary that the indoctrinator intends this to happen non-rationally, for 
+example, due to the authority of the teacher (Wilson 1972, p. 18–19). Snook ( 1972) 
+widens the meaning of intention when including what is “foreseen” by the teacher: 
+“Such a desire is not necessary, however, if it is foreseen that this state of mind is 
+likely as a result of what is being done” (Snook 1972, p. 66).
+Snook’s philosophical analysis has been a starting point for other scholars’ rea-
+soning on indoctrination and education, such as Peterson ( 2007) who criticises the 
+definition using the “foreseen” because it “does not allow us to accurately identify 
+indoctrination. We cannot know with any degree of certainty what another person 
+desires or foresees”. Due to this she suggests that we add “the foreseeable” to the 
+concept of intent.3 However, she also emphasises the importance that indoctrination 
+is caused by the actions of the teacher: “We ought only to hold teachers accountable 
+for indoctrination if it is foreseeable that students would hold beliefs in a non-  
+rational manner as a result of their teacher’s actions” (Peterson 2007, p. 303). Thus, 
+if the relation between the teacher’s actions and the fact that students have come to 
+hold beliefs in a non-rational manner cannot be established, then the teacher should 
+not be accused. In this way “intent” has been widened to include actions that are not 
+necessarily a result of the teacher’s desire to indoctrinate, but where this conse -
+quence was foreseeable. Such actions can sometimes be best understood by taking 
+the institutional level into account. The suggestion of taking also the institutional 
+level into account will be returned to later in the chapter.
+3 The foreseeable has been discussed also by Snook (1972/2010, pp. 156–157), who argued against 
+it as a criterion.
+L. Hansson
+
+--- PAGE 303 ---
+287
+11.3  Indoctrination and Science Education
+As mentioned previously, indoctrination has often been discussed in relation to 
+religious or political education. Religious sects as well as totalitarian states have 
+been accused of indoctrinating young people. Some scholars argue that only doc -
+trines are possible to indoctrinate (see above), whilst others such as Snook ( 1972) 
+argue that in principle any content can be indoctrinated, while not all content is at 
+all equally probable, since doctrines “often provide motive for indoctrination” 
+(p. 67). Snook even uses “physics” as an example:
+Because we find it difficult to imagine a motive for indoctrinating physics we tend to 
+exclude the teaching of such subjects from indoctrination. I have argued that the concept 
+can include them, but a motive is needed to explain why anyone would want to indoctrinate 
+them. (Snook 1972, p. 67)
+However, there might be reasons as to way indoctrination could be relevant to dis -
+cuss in relation to the teaching of science. There are even scholars who suggest that 
+the risk of indoctrination is greater in subjects like science than in, for example, 
+religious education due to epistemological assumptions often taken for granted in 
+science (Leahy 1990). In this section the focus will be on how the concept of indoc-
+trination has been used in relation to different practices of science education.
+11.3.1  Indoctrination in Relation to the Teaching of Scientific 
+Concepts and Models
+Indoctrination has been discussed in relation to the teaching of scientific concepts 
+and models, for example, when concepts and models are presented in the science 
+classroom as “facts” without arguments. Mohanan states that in introductory text -
+books one is likely to find statements such as:
+A dropped coin falls to the ground because of gravity.
+The Earth rotates around its axis.
+All matter is made up of molecules.
+There are two atoms of hydrogen and one of oxygen in a molecule of water.
+Oxygen has a valency of two, and carbon has a valency of four. (Mohanan 2000, p. 1)
+These types of statements are also found in many science classes, where teachers 
+present “facts” to students without describing the processes that have led to consen-
+sus on a specific model: “students are forced to accept a set of conclusions without 
+knowledge of the reasons for believing them” (Mohanan 2000, p.  3). Using the 
+content criterion, this would most probably not be viewed as an example of indoc -
+trination – the content is scientific models on which there is consensus in the scien-
+tific community.
+However, using the method criterion provides a different result. When presenting 
+science in this way, the students’ rationality is bypassed and the students are left to 
+the authority of the teacher. Students who take the views described by the teacher to 
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 304 ---
+288
+be their own will believe on non-rational grounds (the views have not been ratio -
+nally evaluated by the student). The scientific models become something that many 
+students believe in due to trust in the authority (the teacher), but not because of 
+rational arguments (those they have not heard about). Thus, in such a case using a 
+method or consequence criterion for indoctrination would position a teacher 
+presenting science in this way as guilty of indoctrination.
+Yet, if instead an intention criterion is used, then this point is not so straight 
+forward. The teacher’s intention is probably not to make students believe in a non- 
+rational way, but this will be a consequence of teachers not problematizing this way 
+to present science (a way that often is part of science teaching tradition). However, 
+if we add not only what is foreseen by the teacher, but also what is foreseeable 
+(Peterson 2007), then again the result will change: obviously it is foreseeable that 
+some students will come to believe in a non-rational way as a result of the teaching. 
+This use of the intention criterion (including the foreseeable) will position the 
+teacher as an indoctrinator – the teacher could be informed of different possibilities 
+for teaching the scientific model in focus and what these could result in. Being 
+informed about such different possibilities includes understanding the differences 
+between a teaching of “facts” without providing reasons, and a teaching that empha-
+sizes reasons and describes the processes and discussions in the scientific commu -
+nity that have led to consensus concerning the scientific model in focus. However, it 
+is not so sure that it really is foreseeable for most teachers, due to many teachers 
+having limited nature of science training, and are part of an institution (school 
+science) where the power of the science teaching traditions (including teaching 
+“facts”) is great. For the in-principle foreseeable to also be foreseen by the teacher, 
+is often a big step.
+Another related issue is the one of whether science teaching should aim at devel-
+oping students’ knowledge of science concepts and models, or whether it should 
+actually aim at students believing in these models. 4 Traditionally, the learning of 
+scientific concepts has been viewed in line with what is described in the 1982 article 
+by Posner, Strike, Hewson and Gertzog: “Often … the students’ current concepts 
+are inadequate to allow him to grasp some new phenomenon successfully. Then the 
+student must replace or reorganize his central concept” (Posner et al. 1982, p. 212). 
+Although views concerning this have been developed further in different ways 
+within the conceptual change paradigm (see Treagust and Duit 2008), these research-
+ers do not discuss science learning in terms of the differences between knowledge 
+and belief. Southerland and colleagues state that “often science education, espe -
+cially conceptual change research, equates students’ knowledge with students’ 
+beliefs” (Southerland et al. 2001, p. 342), and El-Hani and Mortimer state that with 
+such an assumption of what learning science means it is “impossible to distinguish 
+understanding from belief” (El-Hani and Mortimer 2007a, p. 672).
+4 See, for example, Cobern ( 2000b), Cobern ( 2004), El-Hani and Mortimer ( 2007a, b), Hoffman 
+(2007), Smith and Siegel (2004), and Southerland et al. ( 2001).
+L. Hansson
+
+--- PAGE 305 ---
+289
+However other scholars distinguish these concepts. 5 Cobern states that it is 
+possible for a student to understand without taking the view to be her or his own: 
+“…comprehension does not necessitate apprehension. One may well reject a con -
+cept that he or she fully comprehends while someone else apprehends it as knowl -
+edge” (Cobern 1996, p. 592). Science teaching that has changed beliefs as a goal for 
+students is regarded by some scholars as risking indoctrination. Therefore, distin -
+guishing between teaching for knowledge and for belief could be viewed as a way 
+to avoid indoctrination. El-Hani and Mortimer write:
+students’ understanding of scientific theories, models, and concepts is the proper goal of 
+science education. We think that if science teaching adopts change of beliefs as a goal, it 
+runs the risk of degenerating into nothing more than a proselytizing, indoctrinating, scien -
+tistic endeavor. The decision to believe or not in scientific ideas is up to the students, but 
+they are necessarily entitled to understand those ideas, if they are to be successful science 
+learners. (El-Hani and Mortimer 2007a p. 683–684)
+Thus, teachers should not use their authority to impose specific beliefs upon 
+students, even though from a science perspective there is consensus in the scientific 
+community on the model taught. Instead the only aim should be understanding. 
+Ultimately, this has to do with defending the autonomy (Bailey 2010) of the student: 
+students should have the right to judge reasons and evidence, and themselves decide 
+what they are to believe in. Aikenhead ( 1996) emphasizes that there are ethical as 
+well as empirical reasons (the traditional approach has not succeeded for large 
+groups of students) for adopting a “cross-cultural” learning approach in the teaching 
+of science. For example, there are students who play “Fatima’s rules” – that is they 
+learn “without being intellectually engaged” (Aikenhead 2006, p. 28). Aikenhead 
+describes how this is a strategy used by some students “who feel their teacher is 
+attempting to assimilate them into the culture of science and who want to resist such 
+indoctrination” (Aikenhead 2006, p. 28). In this way, indoctrination is discussed as 
+a danger in respect of students who themselves have views and ways of reasoning 
+founded in their own cultures, which differ (in different ways) from the culture of 
+science.
+This applies to both non-western and western countries since science also in 
+western countries is a foreign culture for most students (Aikenhead 2006). For 
+example, studies of students’ worldviews 6 show that students frequently have 
+worldviews that are more or less at odds with the ones most often taken for granted 
+in science and in science class. Scholars, in line with this, discuss different 
+approaches to avoid indoctrination by replacing the aim of believing/accepting with 
+the aim of understanding (e.g. Southerland and Scharmann 2013).
+Would it be correct to say that a teacher indoctrinates students when teaching 
+with the aim set to change students’ beliefs (not only aiming at understanding)? 
+5 See, for example, Cobern ( 1991), Cobern (1996), Cobern (2004), Smith and Siegel ( 2004), and 
+El-Hani and Mortimer (2007a, b).
+6 See, for example, Allen and Crowley ( 1998), Hansson ( 2014), Hansson and Redfors ( 2006, 
+2007a, b), Hansson and Lindahl ( 2010), Brandt (2007), Cobern (1993), Cobern (2000a), Cobern 
+et al. ( 1999), and Lee et al.  ( 2012).
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 306 ---
+290
+Again, this depends on the criterion used. When aiming to change belief one could 
+argue that most teachers do not intend this to happen non-rationally. When using the 
+concept in the way suggested by Snook ( 1972), this is not a case of indoctrination 
+because the intent is not there. However for Wilson it is considered enough that the 
+teacher “intend[s] his pupil to arrive at a certain belief”, but it is not necessary that 
+the teacher intends this to happen non-rationally (Wilson 1972, pp. 18–19). Using 
+this definition, the teacher could be held guilty of indoctrination. Also, when 
+arguing along the lines of Peterson’s (2007) reasoning (including the foreseeable), 
+the teacher would be an indoctrinator in this case. This is due to the fact that it is 
+foreseeable that a teaching for change of belief runs the risk of indoctrination – at 
+least in cases when focus is not put on arguments and reasons, but instead on the 
+change of belief as such.
+Indoctrination is foreseeable because research shows that not all students accept-
+ing a scientific model do this on rational grounds, but simply adopt a teacher’s 
+beliefs. For example, Sinatra et al. (2003) show that there are students accepting the 
+theory of evolution without understanding what the theory really means or its sup -
+porting evidence. Here the content is not of concern, but instead that the teaching 
+has by-passed students’ rational evaluation. In these types of cases it can be argued 
+that the teacher takes “advantage of a privileged role to influence those under his 
+charge in a manner which is likely to distort their ability to assess the evidence on 
+its own merit” (Snook 1972, p. 66). Much science teaching, from the above perspec-
+tive, could be viewed as guilty of indoctrination when students, as a result of teach-
+ing, come to accept a specific model as true without knowing why; or when teachers 
+use their power to convince students to change their beliefs.
+However, it should be noted that there are also many students for whom attempts 
+at indoctrination are unsuccessful. Instead, many students play “Fatima’s rules” – 
+e.g. learning statements or procedures by heart without engaging intellectually, or 
+find different kinds of “cross-cultural” (Aikenhead 1996, 2006) strategies where 
+they separate their knowledge of the scientific view and their own views. For exam-
+ple, colleagues and I have shown in previous research that students frequently asso-
+ciate one view with science, but state that they themselves view the same thing in a 
+different way (Hansson and Redfors 2006; Hansson and Redfors 2013). In these 
+cases, students have resisted indoctrination in respect of them not adopting the 
+taught views. However, it is possible to argue that students in some of these (and 
+other) cases are indoctrinated into associating specific views with science. Without 
+really knowing why a specific view is the view of science, this is associating science 
+with these views on non-rational grounds (without any rational evaluations), which 
+could be considered as a possible example of indoctrination.
+We have seen that teaching models as facts, and teaching for belief (not only 
+knowledge), have been discussed as indoctrination in the literature. However, the 
+kind of criterion that is used for indoctrination in science education literature is 
+often only implicitly communicated. Thus, whether the discussed cases should be 
+judged as indoctrination depends on the criterion used: for example, according to 
+the method and consequence criteria it is indoctrination, while it is most often not if 
+L. Hansson
+
+--- PAGE 307 ---
+291
+viewed against a content criterion. As seen above, scholars have frequently argued 
+for the importance of the intentions of the teacher. In the cases described here it is 
+unclear whether the indicator of indoctrination is really the intent of the teacher. The 
+question then arises: can it, nevertheless, be fair to talk about indoctrination? Later 
+in this chapter it will be argued that the institutional level should also be taken into 
+account.
+11.3.2  Indoctrination in Relation to Controversial, Value 
+Based Issues
+When the concept of indoctrination occurs in science education it is often invoked 
+concerning controversial and value based areas such as environmental issues (Poole 
+1995). Also, in general philosophy of education, the treatment of controversial 
+issues in school is discussed in relation to indoctrination (Kilpatrick 1972).
+Indoctrination is discussed in environmental education, and education for sus -
+tainable development.7 For example, in a case study of professors in environmental 
+science (Qablan et al. 2011) it is shown how these professors, due to the fear of 
+indoctrinating students (“My job isn’t to tell them what to think”), emphasize the 
+scientific part of curricula in Education for Sustainable Development (ESD) courses. 
+They teach what they view as objective (scientific) facts. The professors feel that 
+they run the risk of communicating biased ideas to students if they deal with eco -
+nomic or social dimensions in combination with the scientific dimension of ESD 
+(Qablan et al. 2011). Öhman (2007) describes three selective traditions in Swedish 
+environmental education. One of them is the fact-based tradition (the one used by 
+the professors in Qablan et al. ( 2011) described above).
+Other traditions are the normative tradition and the pluralistic tradition. The criti-
+cism of the normative tradition is in line with the fear of the professors in the study 
+by Qablan et al. ( 2011): “there is a danger that education will lose its emancipatory 
+potential and its democratic obligation will be violated; the result being that educa-
+tion then resembles indoctrination” (Öhman 2007, p. 44). The third tradition (plu -
+ralistic) attempts to avoid indoctrination by promoting critical thinking and 
+discussing different viewpoints. On the other hand, this instead runs the risk of open 
+up for relativism – students could for example be given the impression that there are 
+two serious sides to the issue of global warming.8
+Also concerning other controversial issues (e.g. “socio-scientific issues”, SSI) 
+there could be a fear of biased presentations (Couló 2014) and of indoctrination 
+(Pedretti et al. 2008). This is especially the case when teaching for change of the 
+present state in society (Bobel 2006). In such cases the teaching is connected to 
+7 See, for example, Jickling (2003), Qablan et al. ( 2011), Qablan et al. ( 2009), Tabone (2011), and 
+Östman (2010).
+8 Some, for example, Öhman ( 2007), argue against pluralistic ESD being necessarily relativistic.
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 308 ---
+292
+activism (Bencze and Alsop 2014) in some way, and becomes openly political and 
+ideological. In such cases the teacher runs the risk of ending up being accused of 
+indoctrinating students (see the examples above concerning environmental issues). 
+However not mentioning societal aspects of different kinds, of relevance for the sci-
+ence taught, could be seen as problematic. It could be argued that it is the responsi-
+bility of the teacher to tell students about different viewpoints concerning 
+controversial issues. Not doing so makes action impossible for the students and the 
+teacher could instead be accused of indoctrinating students into the present domi -
+nating ideological viewpoint. For example, a number of scholars state that some 
+ideological perspectives (e.g. neoliberalism and modernism) are more frequently 
+communicated in the science classroom than other ideological perspectives.
+For example, Bencze and Carter (2011) discuss science education in relation to 
+neo-liberal agendas, and Selby (2014) states that science teaching tends to commu-
+nicate views such as “unending economic growth”, “ever upward progress” and 
+“technological fix”, as well as the dominance of humans over nature (Selby 2014, 
+p. 172). A concrete example of how these types of ideological perspectives are com-
+municated in the science classroom is presented by Solli et al. ( 2014), who show 
+how a professor during an introductory course in biotechnology “was engaged in 
+convincing the students into being critical towards opposition to GM food” (Solli 
+et al. 2014, p. 19).
+Different approaches have been put forward concerning how to deal with contro-
+versial issues in educational contexts (Ashton and Watson 1998; Reiss 1993). The 
+problem here is the same in all education (and not specific for science education). It 
+is about whether the teacher should try to be neutral (in some way) or whether the 
+teacher should tell students about her or his own viewpoint. Telling students about 
+their own view runs the risk of being accused of trying to indoctrinate them. On the 
+other hand, it could be argued that teaching cannot be value-free, and telling stu -
+dents about the teachers’ own view and having this view scrutinized with other 
+views is the best thing to do (Ashton and Watson 1998). Hodson (2014) discusses 
+the problems with a so called “balanced view” – “ all views embody a particular 
+position, and that position needs to be rationalised and justified if indoctrination is 
+to be avoided … I believe that students have a right to know their teacher’s views on 
+SSI addressed in the curriculum” (Hodson 2014, p. 74).
+11.3.3  Indoctrination in Relation to Teaching of the Nature 
+of Science
+In relation to teaching the nature of science, concern has been raised due to the risk 
+of indoctrinating students. Matthews (1998) states:
+there is a danger that teachers, curriculum developers, and examiners will define ‘epistemo-
+logical development’ merely as ‘believing what I believe about epistemology’. When this 
+happens, we confuse education with indoctrination. (Matthews 1998, p. 167)
+L. Hansson
+
+--- PAGE 309 ---
+293
+In such cases the purpose of teaching nature of science is to convey to students a 
+“particular view about the nature of science” (Matthews 1998, p. 167). That could 
+be “constructivist/positivist/realist/feminist/Marxist/multiculturalist/universalist 
+views about the nature of science” (Matthews 1998, p. 167), or something else.
+In the case described above the teacher explicitly teaches a specific nature of sci-
+ence perspective (controversial content) with the intention that students should 
+adopt the same view without necessarily scrutinizing different alternatives. If using 
+the content criterion one could argue that this is a clear case of indoctrination, and 
+in this case also the intention criterion is fulfilled.
+There is also the problem of science teaching frequently conveying stereotypical 
+and mythical images of science to students, for example that scientists always fol -
+low one specific “scientific method”, that creativity is absent from the research pro-
+cess and that scientific research is entirely objective and universal and produces 
+objective, absolute knowledge (facts) about the world (McComas 1998). There is a 
+large amount of research showing how teachers communicate such stereotypical 
+images of science in their classrooms even though they do not intend to teach nature 
+of science at all (Abd-El-Khalick 2012; Clough 2006). Such views are conveyed 
+anyway, implicitly, through lab work that strengthens the notion of one scientific 
+method/procedure, or through the way the teacher implicitly presents a model as an 
+unchangeable fact. Teachers are not alone communicating these kinds of images of 
+science. Medawar (1961/1996) argues that scientific research articles also do “give 
+a totally misleading narrative of the processes of thought that go into the making of 
+scientific discoveries” (p.38).
+Related to this are examples of scholars discussing indoctrination in relation to 
+worldview. Van Eijck and Roth (2011) state: “Teaching science is a double-edged 
+sword, because students … may actually be indoctrinated into a particular world -
+view consistent with classical metaphysics (Western science) rather than learning to 
+critically reflect the value of different knowledge systems.” (van Eijck and Roth 
+2011, p. 832). In line with this, Proper and colleagues ( 1988) show that only a few 
+worldviews are communicated in the teaching of science, and most often implicitly. 
+Taber (2013) states: “there is much potential for the image of science offered to 
+pupils to be scientistic” (Taber 2013, p.  153). In line with this I and colleagues 
+(Hansson and Redfors 2007a,b; Hansson and Lindahl 2010, 2015) show how 
+students in fact often associate scientism with science and this is discussed as an 
+indoctrination of students into associating such kinds of views with science 
+(Hansson and Lindahl 2015).9
+In the same way as teachers can become guilty of indoctrinating students with 
+specific nature of science perspectives, there is also a communication of nature of 
+9 Scientism can be defined in different ways (Stenmark 2001). Here a definition is followed sug -
+gested by Poole (1998). Poole argues that scientism, but not science, “Denies that anything other 
+than the natural world exists”, states that “Scientific accounts are all there are”, “Denies that there 
+are first causes or final causes”, and “Denies that there could ever be behavior other than law like 
+(anti-miraculous)” (Poole 1998). When such views are claimed “in the name of science” (Stenmark 
+2001), this is what is meant by scientism in this chapter.
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 310 ---
+294
+science in science textbooks (DiGiuseppe 2014) that could contribute to 
+ indoctrination. For example, in a study of science textbooks Knain ( 2001) shows 
+that the image of science communicated is:
+[one] where individual scientists are discovering truth, through experiment. Scientific ratio-
+nality is grounded in procedures of inquiry alone and not in debate and argumentation 
+within scientific communities. The communal aspects of science tend to become visible in 
+historical examples where science did not function properly due to prejudices or ignorance. 
+(Knain 2001, p. 319)
+There is not one nature of science (Alters 1997). When teachers intentionally argue 
+for a specific perspective (as discussed in the quote by Matthews above) on such a 
+controversial issue then this is a self-evident case of indoctrination (e.g. using the 
+content or intention criterion). Also, when teachers are not arguing for, but take 
+specific perspectives for granted, this could be viewed as indoctrination, if using 
+for example the content or consequence criterion. Cobern ( 2000b) states that the 
+teacher who takes presuppositions for granted, which are not necessary for science, 
+distorts science for the students. This is what has happened when students have 
+come to associate science with for example scientism and atheism (Hansson and 
+Redfors 2007a, b; Hansson and Lindahl 2010). However, it is uncertain if these 
+cases could be judged as indoctrination if the latter is defined in terms of the inten-
+tion criterion.
+Also, the presuppositions necessary for science (which science builds upon) and 
+that are taken for granted in science class, can be seen as part of the indoctrination 
+of students. Leahy (1990), building upon Laura (1983), argues that any belief sys -
+tem depends on assumptions (“epistemic primitives”) about the world. This is also 
+in line with the worldview theory building on Kearney ( 1984) and applied in the 
+science education context by Cobern (1991). Leahy argues:
+If student access to truth is to be properly safeguarded … students will need to be provided 
+… not only with an understanding of the content of the subject concerned, but also of the 
+‘epistemic primitives’ underpinning that subject. To teach the content of any subject with-
+out also providing students with an understanding of that content’s dependence on its ‘epis-
+temic primitives’ would be to indoctrinate rather than to educate. (Leahy 1990, p. 142)
+An example of this is students who do not know that science presupposes that the 
+universe is ordered and uniform. For these students, it is not possible to in a mean -
+ingful and rational way understand for example conclusions drawn about the abun-
+dances of elements in stars from observed spectra (Hansson 2014). This is but one 
+example of how students’ knowledge about the presuppositions of science can inter-
+act with their understanding of scientific models (for a more in-depth discussion 
+about this, see Hansson 2014). Leahy points to that by looking at indoctrination in 
+this way there is a “danger of indoctrination in all subjects” (Leahy 1990, p. 142).
+We have here encountered examples of how indoctrination can be discussed in 
+relation to teaching of the nature of science. However, teachers are not always aware 
+of what they are doing. Perhaps they are themselves indoctrinated, for example, into 
+mythical and stereotypical images of science, which they then in turn convey to 
+students. Also, they are perhaps not aware of the importance of discussing also the 
+L. Hansson
+
+--- PAGE 311 ---
+295
+presuppositions of science in science class – this is not something that is part of the 
+science teaching tradition. Thus, teachers might not have any intention to indoctri-
+nate students into biased and dubious ways to view science, but indoctrination does 
+anyway seem to become the case. Was it foreseeable (Peterson 2007)? Yes, due to 
+the large amount of research on students’ views of the nature of science and the 
+necessity of an explicit teaching concerning this (Lederman 2007), one can argue 
+that it is foreseeable that teachers communicate stereotypical and mythical images 
+of science, when not explicitly focused on doing something different. Yet, is this 
+foreseeable for the accused teacher? Without extensive in-service training would it 
+then be reasonable to accuse the teacher of indoctrination?
+Discussion in philosophy of education points to the problems of accusing teach-
+ers of indoctrination when they have no such intent. We have, however, encountered 
+some situations in the literature on indoctrination and science teaching where the 
+intention to indoctrinate does not seem to be present, but where it anyway, some -
+how, seems to be about indoctrination. Therefore, we will return to the philosophy 
+of education literature and look further into the discussions concerning the intention 
+criterion and possible solutions to this dilemma.
+11.4  Indoctrination Without Intention
+A criticism raised in relation to the use of the intention criterion is that it excludes 
+the possibility that teachers are unaware of their own intentions or that of the cur -
+ricula writers (Bailey 2010). If “teachers have been educated within an indoctrina-
+tory system, then it is possible that they are no more aware of the actual aims of 
+schooling than their students: the teacher is both a victim and a perpetrator of indoc-
+trination” (Bailey 2010, p. 276). In line with this, Momanu ( 2012) points to the fact 
+that indoctrination in the literature has often been coupled to “interpersonal rela -
+tionships”, but that it sometimes also has been treated in relation to an “institutional 
+level”. Also, Huttunen discusses the intention criterion and points to this criterion 
+not accounting for a possible indoctrination caused by the social structures rather 
+than intended by the teacher: “Intention criterion focus attention on the teacher-  
+student relationship and excludes the aspects of social systems or ideological pro -
+cesses” (Huttunen 2003, p. 10). He concludes that teachers’ intentions to indoctrinate 
+should not be used as the sole criterion for indoctrination – most teachers do not 
+want to indoctrinate students, but one can see teaching practices where indoctrina -
+tion seems to happen:
+how many teachers really want to indoctrinate students? … So, it is more meaningful to 
+assume that the indoctrination happens unintentionally (by the structural causes). In this 
+case, the traditional formulation of the intention criterion /…/ is useless. The intention cri -
+terion does not recognise indoctrination that is caused by the institutional or social struc -
+tures. I presume that in the (post)modern teaching situation indoctrination occurs at the 
+level of hidden curriculum (see Snyder 1971). No teacher or no educational institution 
+openly and intentionally indoctrinates students, although many unreflected attitudes and 
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 312 ---
+296
+beliefs (example racist and ethnocentric beliefs that would be rejected in the open and 
+ critical discourse) are transferred to the next generation through education. (Huttunen 2003, 
+pp. 3–4)
+That is, according to Huttunen, indoctrination, instead of being intended by the 
+teacher, often happens unintentionally due to social or institutional structures  – 
+through the hidden curriculum (Snyder 1971).
+Also, earlier writings about indoctrination and education open up for the possi -
+bility that indoctrination is not always intended by the teacher. Gregory and Woods 
+argue that:
+The uncommitted teacher may have no intention of bringing about certain beliefs, but his 
+position of authority within the institutional set-up, his role as teacher, lends powerful back-
+ing to his words; the system within which he operates endows his actions with a sense of 
+purpose of which he, as an individual, may be quite unaware. (Gregory and Woods 
+1972/2010, p. 170)
+Related to this they also speak about “the intentions of society” (Gregory and Woods 
+1972/2010, p. 170). This is in line with Huttunen (2003, p. 4) who states that “many 
+unreflected [unexamined] attitudes and beliefs (example racist and ethnocentric 
+beliefs that would be rejected in the open and critical discourse) are transferred to 
+the next generation through education”. Huttunen suggests that teaching that limits 
+the possible perspectives for students instead of widening them, should be viewed 
+as indoctrination:
+The teaching content should provide students with opportunities to construct their own 
+creative and multi-dimensional view of reality. The teaching content should also promote 
+students to engage critical self-reflection. Thus, if we want the teaching content to be non- 
+indoctrinative, the teaching content should contribute to students’ reflectivity towards 
+those meaning perspectives that they have already adopted, and as well as toward those 
+that are taught (see Mezirow 1991). … I consider content that limits students’ meaning 
+perspectives and minimizes as opposed to increases students’ own power of judgement as 
+indoctrinative. … The non-indoctrinative teaching content gives students both the freedom 
+and faculty to determine their own differentiated identity, worldview and conduct of life. 
+(Huttunen 2003, p. 13)
+Huttunen’s way of treating indoctrination is useful when trying to shed light on 
+some frequent practices in science teaching, and is also a way to understand the 
+cases referred to above: where intention does not seem to be there, but where it 
+seems to be about indoctrination. To be able to develop reasoning further in this 
+direction, we will now turn to examples of images of science communicated in the 
+science classroom through the hidden curriculum. Thereafter, we will return to the 
+concept of indoctrination and focus on indoctrination that possibly happens through 
+the hidden curriculum, as suggested by Huttunen ( 2003). We will discuss the 
+possibility of using the concept of indoctrination in this way to describe what is 
+happening in science classrooms.
+L. Hansson
+
+--- PAGE 313 ---
+297
+11.5  The Hidden Curriculum in the Teaching of Science: 
+A Focus on Images of Science
+The “hidden curriculum” concept was utilised by Snyder:
+I have found that a hidden curriculum determines, to a significant degree, what becomes the 
+basis for all participants’ sense of worth and self-esteem. It is this hidden curriculum, more 
+than the formal curriculum, that influences the adaptation of students and faculty. …. 
+Though each curriculum has characteristics that are special to the particular setting, the 
+presence of these hidden curricula importantly affects the process of all education. The 
+similarities in these hidden curricula are at least as important as the differences. (Snyder 
+1971, xii–xiii)
+This hidden curriculum could include how to master tasks given, how to communi-
+cate in science class, how to engage in laboratory work or problem solving, or how 
+to attain high grades. Messages about these kinds of things, given by the teacher, are 
+not always in line with the formal curriculum. Instead, there could be important dif-
+ferences between the formal curriculum and these other messages (the hidden cur -
+riculum) that influence life in the classroom.
+In science teaching, there are messages about science itself, which are communi-
+cated in the classroom, in textbooks or elsewhere, but are not necessarily in line 
+with how the formal curriculum describes the subject – these messages could be 
+viewed as part of the hidden curriculum. It could be specific worldviews and ideolo-
+gies communicated in the science class and therefore, associated with science by the 
+students, as well as specific nature of science perspectives. Stereotypic and mythical 
+images of science could very well be communicated in the teaching of science, even 
+though the formal curriculum perhaps puts forward other nature of science perspec-
+tives. These types of views about science are sometimes communicated explicitly, 
+but often also implicitly in science class.10
+Schools can communicate a worldview through teaching in different ways, and 
+two extreme cases can be seen (Proper et al. 1988). In one extreme, school explicitly 
+presents and discusses a large variety of worldviews, while in the other extreme 
+only a narrow span of worldviews is presented, and implicitly. The same could be 
+said about possibilities for the communication of ideology as well as “nature of sci-
+ence” perspectives. In the second case (narrow span and implicit) it is relevant to 
+discuss worldview (or ideology, or general nature of science perspectives) as part of 
+the hidden curriculum (Kilbourn 1980). Often these worldviews, ideological 
+perspectives, and nature of science perspectives are communicated implicitly as 
+“companion meanings” (Roberts 1998). These companion meanings “can be either 
+deliberately planned and incorporated in policy … or ‘unintentional’ (as with gen -
+der bias, world view bias, cultural bias, and many others)” (Roberts 1998, p. 11). In 
+line with this, Östman states that the teaching, through these kinds of companion 
+meanings, is communicating a view about science, nature and the relation between 
+10 See, for example, Fourez ( 1988), Kilbourn (1980), Kilbourn (1980–1981), Roberts (1998) and 
+Östman (1998).
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 314 ---
+298
+humans and nature. To be able to see these companion meanings and be aware of 
+their role, it is necessary to look for differences between the messages communi -
+cated and other possible alternative messages. This is done by noting what is not 
+said, but could have been said (Östman 1998).
+The examples given by Östman constitute examples of how views about science 
+and specific worldviews are communicated in the teaching of science and become 
+part of the hidden curriculum (see also Kilbourn 1980). Also, Fysh and Lucas (1998) 
+discuss the problem with messages implicitly communicated about things not 
+explicitly discussed in the teaching (in their case the relation between science and 
+religion). Those implicit messages are important and students’ views about the val-
+ues and presuppositions of science are formed by them. In the extreme cases articu-
+lated by Proper and colleagues ( 1988) of how school science communicate 
+worldviews, most such teaching is implicit rather than explicit. This means that 
+even though science could be understood from the starting point of very different 
+worldviews, ideologies and nature of science perspectives, this is most often not 
+communicated in the science classroom. Here follow some examples.
+11.5.1  Messages About the Nature of Science as Part 
+of the Hidden Curriculum
+Though often misunderstood in a way that makes a travesty of the pedagogical 
+theory and practice of the founding positivists (Matthews 2004), logical positivism 
+strongly influences much teaching of science (Aikenhead 2006). The above men -
+tioned myths about science (McComas 1998) are reproduced in science classes 
+through science concepts and models being presented as unchangeable, objective 
+facts, and through traditional lab-work practices conveying images of a strict scien-
+tific method always being applicable. A large amount of research (see e.g. Lederman 
+2007) shows that students frequently express such views about the “nature of sci -
+ence” including, for example, that scientific research is an entirely rational, objec -
+tive and universal enterprise, following the “scientific method” leading to absolute, 
+objective facts about nature (Lederman 2007; McComas 1998).
+Communicating such a small span of nature of science perspectives in the class-
+room leaves no room for students to scrutinize different possibilities and positions. 
+Of course, a positivistic view is possible to combine with science, but so are many 
+other views. Despite that many different perspectives are possible – Alters (1998, 
+p. 48) argues that “no one agreed-on NOS exists” – uniform images of science are 
+communicated in most science classrooms. This uniform image most often leaves 
+no room for discussing or problematizing different possible perspectives on the 
+nature of science. Instead, it could be argued that such images of science are part of 
+the hidden curriculum in many science classes.
+L. Hansson
+
+--- PAGE 315 ---
+299
+11.5.2  Messages About Worldview and Ideology as Part 
+of the Hidden Curriculum
+The image of science communicated in science class could also include science 
+being associated with specific worldviews, such as scientistic (Stenmark 2004) and 
+atheistic worldviews. Taber (2013, p. 153) states that “there is much potential for the 
+image of science offered to pupils to be scientistic”; while Hansson and Redfors 
+(2007a, b) and Hansson and Lindahl (2010, 2015) show that students often associate 
+scientistic and atheistic views about the world with science. The question of how 
+science is related to worldview has been discussed by scholars with different disci-
+plinary backgrounds (see Matthews 2014, 2015, chap.10) and contributions to 
+Matthews 2009). That there are different views concerning science and worldview 
+is consistent with scholars having different views on other nature-of-science related 
+issues.11 Cobern ( 1991, 2000a) describes how scientists could be viewed to have 
+some presuppositions about the world in common, but these presuppositions do not 
+in themselves constitute a worldview. Instead these presuppositions are combined 
+with others that differ between different scientists. Taber (2013) exemplifies how in 
+this way it is possible to understand science with the starting point in different 
+worldviews. This is, however, most often not communicated in the science class. 
+Instead, frequently, a narrow span of worldviews is communicated, and taken for 
+granted, in science class.
+In addition, school science also communicates ideological perspectives. Fourez 
+(1988) discussed ideology in relation to the teaching of science, stating that all sci-
+ence teaching is marked by ideology, but that there is often a large unawareness of 
+this. Fourez gives an example of a teacher who argues that in his text book there is 
+no ideology, only science. However, independent of the teacher’s unawareness of 
+the communication of ideology in the teaching of science, such messages are always 
+there implicitly, in the teaching and in the text book (Fourez 1988). These messages 
+will influence students’ images of science. For example, there are scholars who 
+argue that school science most often communicates modernistic and technology 
+optimistic agendas (see above). However, these are not the only possible ideological 
+starting points for engagement in science, and again the images communicated of 
+science are narrow.
+In the science class, often only a narrow span of worldviews, ideology, and 
+nature of science perspectives are communicated and therefore tend to be associated 
+with science by the students. Due to this students are not given access to different 
+perspectives from which science can be understood. This specific narrow span is 
+often not part of the formal curriculum, but something that influences what is hap -
+pening in the science classrooms and how science is understood by students. These 
+11 An individual’s view about science and religion depends on her/his view about different nature 
+of science issues), but also on the individual’s view about religion, see Stenmark (2004) for an in-
+depth discussion on the relationship between science and religion.
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 316 ---
+300
+messages could be viewed as part of the hidden curriculum in many science classes 
+around the world.
+11.6  Indoctrination in Science Class Through the Hidden 
+Curriculum
+Huttunen (2003) suggests that indoctrination is not always the intent of the teacher, 
+but that it could be fruitful to think of indoctrination as something that also happens 
+due to institutional structures, through the hidden curriculum. The hidden curricu -
+lum includes a lot of different aspects, and the ones focused on here are messages 
+communicated about science itself – messages that most often are not part of the 
+formal curriculum but nevertheless have great impact on students’ images of sci -
+ence. For example, there are plenty of examples in the literature showing how sci -
+ence teaching communicates messages about science being a body of unchangeable, 
+objective, universal facts; science being the same thing as scientism and science 
+being associated with modernism (see above). These views are so frequent among 
+teachers and students that they could be viewed as part of a hidden curriculum 
+shared by many science classes around the world. Teachers and students are part of 
+the social structures reproducing these images of science. While it would have been 
+possible to communicate a wide span of perspectives in respect of worldviews, ide-
+ologies and nature of science perspectives, this is most often not what is happening. 
+Instead, only a narrow span of perspectives are presented to the students, and fre -
+quently this is also done implicitly (Proper et al. 1988). It could be argued that these 
+taken-for-granted and unproblematised messages constitute an attempt to indoctri -
+nate students. In such a classroom where only a narrow span of perspectives is com-
+municated, science is distorted for the students.
+In these cases, it is not necessarily about teachers wanting to indoctrinate stu -
+dents (most teachers have good intentions), but something that happens unintention-
+ally through the hidden curriculum (Huttunen 2003). Due to this, the traditional 
+intention criterion is not fulfilled. However, it could be argued, in line with what 
+Huttunen suggests, that teachers – as part of the school science institution – have 
+used their “privileged role to influence those under his charge in a manner which is 
+likely to distort their ability to assess the evidence on its own merit” (Snook 1972, 
+p. 66). However, this may not always be the intention of the teacher. Also the teacher 
+could have been indoctrinated into associating science with for example positivistic, 
+scientistic and modernistic views. Not knowing what they are doing, the teachers 
+contribute to a reproduction of the association between science and these specific 
+perspectives on science. This distorts science for these indoctrinated students, who 
+lose their possibility to engage in science with the starting point in their own 
+ideological and worldview perspectives. Hansson and Lindahl ( 2010) shows how 
+students’ relations to science (good or bad) could partly be understood from such 
+L. Hansson
+
+--- PAGE 317 ---
+301
+differences between students’ own worldviews and the type of worldview they asso-
+ciate with science. Huttunen considers:
+content that limits students’ meaning perspectives and minimizes as opposed to increases 
+students’ own power of judgement as indoctrinative. … The non-indoctrinative teaching 
+content gives students both the freedom and faculty to determine their own differentiated 
+identity, worldview and conduct of life. (Huttunen 2003, p. 13)
+Thus, not problematizing and discussing different nature of science perspectives 
+as well as science in relation to worldview and ideology, but instead only implicitly 
+communicating a narrow span of views, indeed, according to this definition of the 
+concept, is indoctrination. Thus, it is indoctrination both with the starting point in 
+the content criterion (controversial content being communicated as non-  
+controversial), and the consequence criterion (the teaching limits, rather than broad-
+ens, students’ meaning perspectives). Taking the hidden curricula into account, 
+much science teaching could be viewed as an attempt to indoctrinate students into 
+specific views about science, even though most teachers have no such intent.
+That the result of such teaching would be indoctrination is foreseeable, due to the 
+large body of literature on students’ views upon science. However, the one respon-
+sible for this indoctrination through the hidden curriculum is not only the teacher 
+(who might have no intention of indoctrinating students), but the whole system (for 
+which it is foreseeable that much teaching today is guilty of indoctrinating students 
+into very specific views about science). Thus, it is the system as a whole that should 
+be held guilty of indoctrinating students in science classes. This includes teachers, 
+but also textbook authors, curriculum developers, teacher education and science 
+education researchers – who all are part of this indoctrination. All should do their 
+part to counteract this pattern.
+11.7  Conclusion
+The concept of indoctrination has not been given much attention in science educa -
+tion. Instead, most texts about indoctrination are about political and religious educa-
+tion. However, we have also seen that there are a number of different situations in 
+which scholars have found indoctrination to be a fruitful concept in respect of 
+science education. As we have seen here, with different definitions of the concept, 
+these cases become more or less relevant to speak about as indoctrination.
+This chapter outlined what it would mean to follow the line of reasoning sug -
+gested by Huttunen ( 2003) – which includes the institutional level and the hidden 
+curriculum, in the concept of indoctrination. With this use of the concept much sci-
+ence teaching will be guilty of indoctrinating students, due to unproblematized and 
+taken for granted views about the nature of science, worldview and ideology. As 
+well as sticking to teaching traditions where science is mainly taught as “facts and 
+lab-work” (Leden et al. 2015), where the aim is to change the belief (rather than 
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 318 ---
+302
+understanding), and where reasons for “facts” are not given. Such a teaching could 
+result in students’ rationality being by-passed and their autonomy threatened.
+Scholars have identified this situation in the teaching of science, and also pointed 
+to these practices as a hindrance for a meaningful and pluralistic science education, 
+as well as for a pluralistic science. Empirical studies has pointed to the risk that 
+students associating science with specific worldviews and values, but who them -
+selves not share these views, tend to choose not to study science when having the 
+choice (Hansson and Lindahl 2010; Krogh and Thomsen 2005; Worthley 1992). For 
+example, a Swedish case study indicate that students with worldviews very different 
+from the ones they associate with science tend to exclude themselves from science 
+intense programmes (Hansson and Lindahl 2010). Indoctrination of students into 
+specific ways of viewing science could therefore have consequences for students’ 
+possibilities to engage in science, and could also have consequences in respect of 
+choice of study profiles.
+Stenmark argues that it is important that “the scientific community consists of 
+people with different ideological or religious backgrounds so that the research top-
+ics undertaken and the questions asked reflect the interests of different groups of 
+people” (Stenmark 2004, p. 220–221). To accomplish such a pluralistic science, it is 
+important that students are provided with examples of how science could be engaged 
+in from very different starting points. In this way, students with different world -
+views, ideologies and perspectives on the nature of science get the possibility to 
+engage in science in ways that they find meaningful. However, the present state is 
+far from that. Instead, specific images of science are part of the hidden curriculum 
+in most science classes around the world.
+To label this “indoctrination” perhaps sounds harsh, but it is, as argued here, fair. 
+To call things by their right name can shed light on the state of affair, and perhaps 
+function as a starting shot for breaking the traditions of science teaching that result 
+in indoctrination processes taking place in science classes all over the world.
+References
+Abd-El-Khalick, F. (2012). Nature of science in science education: Toward a coherent framework 
+for synergistic Research and Development. In B. J. Fraser, K. Tobin, & C. McRobbie (Eds.), 
+Second international handbook of science education (V ol. 2, pp. 1041–1060). Berlin: Springer.
+Aikenhead, G.  S. (1996). Science education: Border crossing into the subculture of science. 
+Studies in Science Education, 27, 1–52.
+Aikenhead, G. S. (2006). Science education for everyday life: Evidence-based practice. New York: 
+Teachers College Press.
+Allen, N. J., & Crawley, F. E. (1998). V oices from the bridge: Worldview conflicts of Kickapoo 
+students of science. Journal of Research in Science Teaching, 35(2), 111–132.
+Alters, B. J. (1997). Whose nature of science? Journal of Research in Science Teaching, 34 (1), 
+39–55.
+Ashton, E., & Watson, B. (1998). Values education: A fresh look at procedural neutrality. 
+Educational Studies, 24(2), 183–193.
+L. Hansson
+
+--- PAGE 319 ---
+303
+Bailey, R. (2010). Indoctrination. In R. Bailey, R. Barrow, & D. Carr (Eds.), SAGE handbook of 
+philosophy of education. London: SAGE Publications Ltd.
+Bencze, L., & Carter, L. (2011). Globalizing students acting for the common good. Journal of 
+Research in Science Teaching, 48(6), 648–669.
+Bencze, L., & Alsop, S. (Eds.). (2014). Activist science and technology education, Cultural studies 
+of science education (V ol. 9). Dordrecht: Springer.
+Bobel, C. (2006). “take this class if you like to be brainwashed”: Walking the Knife’s edge between 
+education and indoctrination. Human Architecture, 4, 359.
+Brandt, C. (2007). Scientific discourse in the academy: A case study of an American Indian under-
+graduate. Science Education, 92, 825–847.
+Callan, E., & Arena, D. (2009). Indoctrination. In H. Siegel (Ed.), The Oxford handbook of phi -
+losophy of education. New York: Oxford University Press.
+Clough, M. P. (2006). Learners’ responses to the demands of conceptual change: Considerations 
+for effective nature of science instruction. Science & Education, 15(5), 463–494.
+Cobern, W. W. (1991). World view theory and science education research, NARST monograph no. 
+3. Manhattan: National Association for Research in Science Teaching.
+Cobern, W. W. (1993). College students’ conceptualizations of nature: An interpretive world view 
+analysis. Journal of Research in Science Teaching, 30(8), 935–951.
+Cobern, W. W. (1996). Worldview theory and conceptual change in science education. Science 
+Education, 80(5), 579–610.
+Cobern, W. W. (2000a). Everyday thoughts about nature. Dordrecht: Kluwer.
+Cobern, W. W. (2000b). The nature of science and the role of knowledge and belief. Science & 
+Education, 9, 219–246.
+Cobern, W. W. (2004). Apples and oranges: A rejoinder to Smith and Siegel. Science & Education, 
+13, 583–589.
+Cobern, W. W., Gibson, A. T., & Underwood, S. A. (1999). Conceptualizations of nature: An inter-
+pretive study of 16 ninth graders’ everyday thinking. Journal of Research in Science Teaching, 
+36(5), 541–564.
+Couló, A. C. (2014). Philosophical dimensions of social and ethical issues in school science educa-
+tion: Values in science and in science classrooms. In M. R. Matthews (Ed.), International hand-
+book of research in history, philosophy and science teaching (V ol. II). Dordrecht: Springer.
+Cuypers, S. E., & Haji, I. (2006). Education for critical thinking: Can it be non-indoctrinative? 
+Educational Philosophy and Theory, 38(6), 723–743.
+DiGiuseppe, M. (2014). Representing nature of science in a science textbook: Exploring author-  
+editor- publisher interactions. International Journal of Science Education, 36(7), 1061–1082.
+El-Hani, C. N., & Mortimer, E. F. (2007a). Multicultural education, pragmatism, and the goals of 
+science education. Cultural Studies of Science Education, 2, 657–702.
+El-Hani, C.  N., & Mortimer, E.  F. (2007b). Understanding typically yields belief: A neglected 
+point in Hoffmann’s reaction to our idea of “culturally sensitive science education”. Cultural 
+Studies of Science Education, 2(3). doi:10.1007/s11422-007-9064-y.
+Flew, A. (1972/2010). Indoctrination and doctrines. In I. A. Snook (Ed.), Concepts of indoctrina-
+tion. Philosophical essays. Abingdon: Routledge & Kegan Paul.
+Fourez, G. (1988). Ideologies and science teaching. Bulletin of Science, Technology & Society, 8, 
+269–277.
+Fysh, R., & Lucas, K. B. (1998). Religious beliefs in science classrooms. Research in Science 
+Education, 28(4), 399–427.
+Gatchel, R. H. (1972/2010). The evolution of the concept. In I. A. Snook (Ed.), Concepts of indoc-
+trination. Philosophical essays. Abingdon: Routledge & Kegan Paul.
+Green, T. F. (1972). Indoctrination and beliefs. In I. A. Snook (Ed.), Concepts of indoctrination. 
+Philosophical essays. Abingdon: Routledge & Kegan Paul.
+Gregory, I. M. M., & Woods, R. G. (1972/2010). In I. A. Snook (Ed.), Concepts of indoctrination. 
+Philosophical essays. Abingdon: Routledge & Kegan Paul.
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 320 ---
+304
+Hansson, L. (2014). Students’ views concerning worldview presuppositions underpinning science: 
+Is the world really ordered, uniform, and comprehensible? Science Education, 98(5), 743–765.
+Hansson, L., & Lindahl, B. (2010). “I have chosen another way of thinking” Students’ relations to 
+science with a focus on worldview. Science & Education, 19, 895–918.
+Hansson, L., & Lindahl, B. (2015). Students, science and scientism: A story about resistance. Proceedings 
+from the IHPST Thirteenth Biennial International Conference, Rio de Janeiro. Retrieved from 
+http://ihpst.net/content.aspx?page_id=22&club_id=360747&module_id=187166
+Hansson, L., & Redfors, A. (2006). Swedish upper secondary students’ views of the origin and 
+development of the universe. Research in Science Education, 36, 355–379.
+Hansson, L., & Redfors, A. (2007a). Physics and the possibility of a religious view of the universe: 
+Swedish upper secondary students’ views. Science & Education, 16, 461–478.
+Hansson, L., & Redfors, A. (2007b). Upper secondary students in group discussions about physics 
+and our presuppositions of the world. Science & Education, 16, 1007–1025.
+Hansson, L., & Redfors, A. (2013). Lower secondary students’ views in astrobiology. Research in 
+Science Education, 43(5), 1957–1978.
+Hodson, D. (2014). Becoming part of the solution: Learning about activism, learning through 
+activism, learning from activism. In L. Bencze & S. Alsop (Eds.), Activist science and technol-
+ogy education, Cultural studies of science 9. Dordrecht: Springer.
+Hoffman, M. H. G. (2007). Learning without belief change? Cultural Studies of Science Education, 
+2(3). doi:10.1007/s11422-007-9064-y.
+Huttunen, R. (2003). Habermas and the Problem of Indoctrination. In M.  Peters, T.  Besley, A.  Gibbons, 
+B. Žarnić, & P. Ghiraldelli (Eds.), The Encyclopaedia of Educational Philosophy and Theory. 
+Retrieved from http://eepat.net/doku.php?id=habermas_and_the_problem_of_indoctrination
+Jickling, B. (2003). Environmental education and environmental advocacy: Revisited. The Journal 
+of Environmental Education, 34(2), 20–27.
+Kearney, M. (1984). World view. Novato: Chandler & Sharp.
+Kilbourn, B. (1980). World views and science teaching. In H. Munby, G. Orpwood, & T. Russell 
+(Eds.), Seeing curriculum in a new light. Essays from science education  (pp. 34–43). OISE 
+Press/The Ontario Institute for Studies in Education.
+Kilbourn, B. (1980–1981). World views and curriculum. Interchange, 11(2), 1–10.
+Kilpatrick, W. H. (1972). Indoctrination and respect for persons. In I. A. Snook (Ed.), Concepts of 
+indoctrination. Philosophical essays. Abingdon: Routledge & Kegan Paul.
+Knain, E. (2001). Ideologies in school science textbooks. International Journal of Science 
+Education, 23(3), 319–329.
+Krogh, L. B., & Thomsen, P. V . (2005). Studying students’ attitudes towards science from a cul -
+tural perspective but with a quantitative methodology: Border crossing into the physics class -
+room. International Journal of Science Education, 27(3), 281–302.
+Laura, R. S. (1983). To educate or to indoctrinate: That is still the question. Educational Philosophy 
+and Theory, 15(1), 43–55.
+Leahy, M. (1990). Indoctrination, evangelization, catechesis and religious education. British 
+Journal of Religious Education, 12(3), 137–144.
+Leden, L., Hansson, L., Redfors, A., & Ideland, M. (2015). Teachers’ ways of talking about nature 
+of science and its teaching. Science & Education, 24(9–10), 1141–1172.
+Lederman, N.  G. (2007). Nature of science: Past, present, and future. In S.  K. Abell & N.  G. 
+Lederman (Eds.), Handbook of research on science education  (pp.  831–879). Mahwah: 
+Lawrence Erlbaum Associates.
+Lee, H., Yen, C.-F., & Aikenhead, G. S. (2012). Indigenous elementary students’ science instruc-
+tion in Taiwan: Indigenous knowledge and western science. Research in Science Education, 
+42(6), 1183–1199.
+Matthews, M. R. (1998). In defense of modest goals when teaching about the nature of science. 
+Journal of Research in Science Teaching, 35(2), 161–174.
+Matthews, M. R. (2004). Reappraising positivism and education: The arguments of Philipp Frank 
+and Herbert Feigl. Science & Education, 13(1–2), 7–39.
+L. Hansson
+
+--- PAGE 321 ---
+305
+Matthews, M. R. (Ed.). (2009). Science, worldviews and education. Dordrecht: Springer.
+Matthews, M. R. (2014). Science, worldviews and education. In M. R. Matthews (Ed.), International 
+handbook of research in history, philosophy and science teaching (pp. 1585–1635). Dordrecht: 
+Springer.
+Matthews, M. R. (2015). Science teaching: The contribution of history and philosophy of science. 
+New York: Routledge.
+McComas, W. F. (1998). The principal elements of the nature of science: Dispelling the myths. In 
+W. F. McComas (Ed.), The nature of science in science education: Rationales and strategies  
+(pp. 53–70). Dordrecht: Kluwer Academic.
+Medawar, P. (1961/1996). Is the scientific paper a fraud? In P. Medawar (Ed.), The strange case of 
+the spotted Mice and other classic essays on science. Oxford: Oxford University Press.
+Mohanan, K. P. (2000). Indoctrination in linguistics education. Retrieved from http://www.iiser-
+pune.ac.in/~mohanan/educ/ling-ed.pdf.
+Momanu, M. (2012). The pedagogical dimension of indoctrination: Criticism of indoctrination 
+and the constructivism in education. Meta: Research in Hermeneutics, Phenomenology, and 
+Practical Philosophy, IV(1), 88–105.
+Moore, W. (1972/2010). Indoctrination and democratic method. In I. A. Snook (Ed.), Concepts of 
+indoctrination. Philosophical essays. Abingdon:Routledge & Kegan Paul.
+Öhman, J. (2007). The ethical dimension of ESD–Navigating between the pitfalls of indoctrina -
+tion and relativism. In I. Björneloo & E. Nyberg (Eds.), Drivers and barriers for implementing 
+learning for sustainable development in pre-school through upper secondary and teacher edu-
+cation, 43. UNESCO, Education for Sustainable Development in Action Technical Paper N°4.
+Östman, L. (1998). How companion meanings are expressed by science education discourse. In 
+I. D. A. Roberts & L. Östman (Eds.), Problems of meaning in science curriculum (pp. 54–70). 
+New York: Teacher College Press.
+Östman, L. (2010). Education for sustainable development and normativity: A transactional 
+analysis of moral meaning-making and companion meanings in classroom communication. 
+Environmental Education Research, 16(1), 75–93.
+Pedretti, E. G., Bencze, L., Hewitt, J., Romkey, L., & Jivraj, A. (2008). Promoting issues-based 
+STSE perspectives in science teacher education: Problems of identity and ideology. Science & 
+Education, 17(8–9), 941–960.
+Peterson, B. A. (2007). Holding teachers accountable for indoctrination: A reexamination of I. A. 
+Snook’s Notion of “Intent”. Philosophy of Education.
+Poole, M. W. (1995). Beliefs and values in science education. Buckingham: Open University Press.
+Poole, M.  W. (1998). Science and science education: A Judeo-Christian perspective. In W.  W. 
+Cobern (Ed.), Socio-cultural perspectives on science education. An international dialogue  
+(pp. 181–201). Dordrecht: Kluwer.
+Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scien -
+tific conception toward conceptual change. Science Education, 66(2), 211–227.
+Proper, H., Wideen, M. F., & Ivany, G. (1988). World view projected by science teachers: A study 
+of classroom dialogue. Science Education, 72(5), 547–560.
+Qablan, A., AL-Ruz, J. S., Khasawneh, S., & Al-Omari, A. (2009). Education for sustainable devel-
+opment: Liberation or indoctrination? An assessment of faculty members’ attitudes and class-
+room practices. International Journal of Environmental & Science Education, 4(4), 401–417.
+Qablan, A., Southerland, S. A., & Saka, Y . (2011). “my job isn’t to tell them what to think”: The 
+fear of indoctrination and how it shapes education for sustainable development. Electronic 
+Journal of Science Education, 15(2).
+Reiss, M. (1993). Science education for a pluralist society. Buckingham: Open University Press.
+Roberts, D. A. (1998). Analysing school science courses: The concept of companion meaning. 
+In D. A. Roberts & L. Östman (Eds.), Problems of meaning in science curriculum (pp. 5–12). 
+New York: Teacher College Press.
+Schulz, R. M. (2014). Philosophy of education and science education: A vital but underdeveloped 
+relationship. In M. R. Matthews (Ed.), International handbook of research in history, philoso-
+phy and science teaching (V ol. II). Dordrecht: Springer.
+11 Science Education, Indoctrination, and the Hidden Curriculum
+
+--- PAGE 322 ---
+306
+Selby, D. E. (2014). Education for sustainable contraction as appropriate response to global heat -
+ing. In L. Bencze & S. Alsop (Eds.), Activist science and technology education, Cultural stud-
+ies of science 9. Dordrecht: Springer.
+Sinatra, G. M., Southerland, S. A., McConaughy, F., & Demastes, J. W. (2003). Intentions and 
+beliefs in students’ understanding and acceptance of biological evolution. Journal of Research 
+in Science Teaching, 40(5), 510–528.
+Smith, M. U., & Siegel, H. (2004). Knowing, believing, and understanding: What goals for science 
+education? Science & Education, 13, 553–582.
+Snook, I. A. (1972). Indoctrination and education. Abingdon: Routledge & Kegan Paul.
+Snook, I. A. (1972/2010). Concepts of indoctrination. Philosophical essays . Abingdon: Routledge 
+& Kegan Paul.
+Snyder, B. R. (1971). The hidden curriculum. New York: Alfred A. Knopf.
+Solli, A., Bach, F., & Åkerman, B. (2014). Learning to argue as a biotechnologist: Disprivileging 
+opposition to genetically modified food. Cultural Studies of Science Education, 9(1), 1–23.
+Southerland, S.  A., & Scharmann, L.  C. (2013). Acknowledging the religious beliefs students 
+bring into the science classroom: Using the bounded nature of science. Theory Into Practice, 
+52(1), 59–65.
+Southerland, S. A., Sinatra, G. M., & Matthews, M. R. (2001). Belief, knowledge, and science 
+education. Educational Psychology Review, 13(4), 325–351.
+Stenmark, M. (2001). Scientism: Science, ethics and religion . Aldershot: Ashgate Science and 
+Religion Series.
+Stenmark, M. (2004). How to relate science and religion: A multidimensional model . Michigan: 
+W. B. Eerdmans Publishing.
+Stolzenberg, N. M. (1993). "he drew a circle that shut me out": Assimilation, indoctrination, and 
+the paradox of a liberal education. Harvard Law Review, 106, 581–667.
+Taber, K.  S. (2013). Conceptual frameworks, metaphysical commitments and worldviews: The 
+challenge of reflecting the relationships between science and religion in science education. 
+In N.  R. Mansour & Wegerif (Eds.), Science education for diversity. Theory and Practice . 
+Springer. Dordrecht
+Tabone, C. P. (2011). Environmental education under assault: Can instructors teach environmental 
+science without fear? Interdisciplinary Environmental Review, 12(2), 146–153.
+Treagust, D. F., & Duit, R. (2008). Conceptual change: A discussion of theoretical, methodologi -
+cal and practical challenges for science education. Cultural Studies of Science Education, 3 , 
+297–328.
+van Eijck, M., & Roth, W.-M. (2011). Cultural diversity in science education through Novelization: 
+Against the Epicization of science and cultural centralization. Journal of Research in Science 
+Teaching, 48(7), 824–847.
+White. (1972/2010). Indoctrination and intentions. In I. A. Snook (Ed.), Concepts of indoctrina-
+tion. Philosophical essays. Abingdon: Routledge & Kegan Paul.
+Wilson, J. (1964). Education and indoctrination. In T. H. B. Hollins (Ed.), Aims in education: The 
+philosophic approach (pp. 23–46). Manchester: University of Manchester Press.
+Wilson. (1972). Indoctrination and rationality. In I. A. Snook (Ed.), Concepts of indoctrination. 
+Philosophical essays. Abingdon: Routledge & Kegan Paul.
+Worthley, J. S. (1992). Is science persistence a matter of values? Psychology of Women Quarterly, 
+16, 57–68.
+L. Hansson

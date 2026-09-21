@@ -1,0 +1,769 @@
+Title: New Perspectives in History, Philosophy and Science Teaching: An Introduction
+Author: Michael R. Matthews
+Pages: 10-26 (pp. ix-xxv)
+
+--- PAGE 10 ---
+ix
+New Perspectives in History, Philosophy and 
+Science Teaching: An Introduction
+ Introduction
+Research relating the history and philosophy of science to theoretical, curricular and 
+pedagogical issues in science teaching (HPS&ST research) has been conducted for 
+over a century. Its institutionalised or disciplinary beginnings can be dated from 
+1887 when Ernst Mach, the German physicist, philosopher, historian and educator, 
+founded the world’s first science education journal  – Zeitschrift für den 
+Physikalischen und Chemischen Unterricht .1 In the USA, John Dewey and Lloyd 
+Taylor explicitly addressed HPS&ST issues in the 1920s and 1930s. James Conant, 
+Gerald Holton, Stephen G. Brush, Leo Klopfer, Robert S. Cohen, Joseph Schwab, 
+Otto Blüh and Arnold Arons made significant contributions to the tradition through 
+the 1950s and 1960s. In the UK, HPS&ST issues were addressed by Thomas Henry 
+Huxley in the nineteenth century; from the 1920s in books and articles by Frederick 
+Westaway, Eric Holmyard and James Partington; and in the 1960s and subsequently 
+by John Bradley, Joan Solomon and others. HPS&ST investigations are also found 
+in Spanish, Portuguese, French, German, Italian, Finnish and Asian educational 
+research traditions.2 All of this work was published in various philosophy, history 
+and education journals and book series.
+That there should be such a tradition of HPS&ST scholarship is not surprising: 
+Any intelligent and informed teaching of a subject inevitably leads teachers and 
+curriculum writers towards an appreciation and understanding of the history, episte-
+mology and ontology of the subject they teach, organise and frame for students. The 
+same holds for mathematics, economics, psychology, theology and all disciplines.
+A landmark in the history of HPS&ST research was the launching in 1992 of the 
+Springer-published journal, Science & Education: Contributions from History and 
+Philosophy of Science. This was, and is, the first scholarly journal devoted entirely 
+to HPS&ST research. It began modestly with four numbers per year and has grown 
+1 Pleasingly Mach’s journal is archived on the web.
+2 An outline of the tradition of HPS&ST can be found in Matthews (2015a, Chaps.1–3).
+
+--- PAGE 11 ---
+x
+both in size and in scholarly recognition. In 1997 it moved to six numbers, in 2003 
+to eight numbers and in 2007 to ten numbers per volume. In 2011 there were 108,650 
+article downloads from its Springer site.3
+Much of the last 30 years of HPS&ST research was detailed and appraised in the 
+3-volume, 76-chapter, 125-author, 2544-page Springer International Handbook of 
+Research in History, Philosophy and Science Teaching  (Matthews 2014a). The 
+Handbook’s subject index contained 2,000 entries and its name index had 3,600 
+entries. The chapters were grouped into four sections, Pedagogical Studies, 
+Theoretical Studies, Regional Studies and Biographical Studies, with each section 
+being further subdivided. Indicative of the vitality of the HPS&ST research, there 
+have been 100,000 chapter downloads from its Springer site in the two years it has 
+been available.
+In the past three decades, there have been hundreds of papers published on nature 
+of science and its implications for teaching, learning, science curriculum and teacher 
+education programmes. This is commonly cited as ‘NOS research’ and it has had 
+enormous international impact in research, teacher education and curriculum writ -
+ing.4 Although often not seen as such, it is another segment of the broader HPS&ST 
+research tradition.5
+Although extensive, the Handbook did not exhaust the spectrum of HPS&ST 
+studies. This anthology of New Perspectives in History, Philosophy and Science 
+Teaching Research takes up some fields that were not included in the Handbook (the 
+Enlightenment tradition, cultural studies and indoctrination) and develops some that 
+were.
+ Structure and Contents
+This anthology of 12 reviewed articles grouped in four sections deals either with 
+aspects of HPS&ST research not covered in the Handbook (the chapters on the 
+Enlightenment tradition and on indoctrination) or with research that has risen in 
+importance over the past few years. The first section of four chapters deals with the 
+pressing issue of understanding the interrelation between science, science education 
+and the cultural tradition of the Enlightenment.
+The first chapter, ‘Feng Shui: Educational Responsibilities and Opportunities’, is 
+a new contribution to the perennial and important topic of ‘science education and 
+3 Something of the origins, history, content and impact of the journal can be read in Matthews 
+(2015b).
+4 For reviews of NOS research, see Erduran and Dagher (2014), Hodson (2014) and Lederman 
+et al. (2014).
+5 Three papers connecting NOS research to the wider spectrum of HPS&ST studies are Matthews 
+(1997, 2004a,b). Some of the philosophical issues raised, but not adequately addressed, by con -
+temporary NOS research have been canvassed in Matthews (2012, 2015a, Chap.11).
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 12 ---
+xi
+worldviews’.6 The chapter describes how feng shui belief and practice is an ancient 
+and still significant worldview in Chinese and Southeast Asian cultures and how it 
+has an increasing commercial and personal presence in other cultures. It documents 
+the unexpected, almost total neglect of feng shui in educational and philosophical 
+literature, especially in accounts of pseudoscience and of ‘alternative sciences’. A 
+brief account of the history of feng shui is given, with special attention paid to two 
+early encounters between feng shui and Western science and worldviews: first, the 
+Jesuit priest Matteo Ricci (1552–1610) and, second, the Protestant missionary Ernst 
+Johann Eitel (1838–1908). These are chosen in part for their own historical impor -
+tance but also because the philosophical, cultural and educational dimensions of the 
+two ‘encounters’ still resonate whenever and wherever issues of modernisation and 
+multicultural science arise. The chapter elaborates efforts at cultural modernisation 
+in twentieth-century China, including the Communist Party’s efforts in this regard, 
+and how these sought to excise feng shui from personal and cultural life in China.
+Debate over the possibility of demarcating science from pseudoscience is exam-
+ined, and arguments are given for maintaining the distinction against those wanting 
+to dissolve it and, more strongly, for regarding feng shui as a pseudoscience. The 
+claim is made that it is a responsibility of education, specifically science education, 
+to engage with and promote the refinement of students’ worldviews, the more so 
+when those views encompass events, processes and mechanisms in the natural 
+world, the world about which science provides unrivalled knowledge. Science edu-
+cation can provide practice in requiring beliefs to be linked to evidence and practice 
+in the more sophisticated appraisal of competing beliefs. Such training can flow 
+over to beliefs and commitments in politics, history, religion, economics and gov -
+ernment policy. Such engagement and flow-over are a contribution of science edu-
+cation to the cultural health of societies. This was the hope of the Enlightenment 
+philosophers who thought widespread science education could counteract the preju-
+dice, superstition, illusion, fantasy and unchecked harmful social and political pro-
+grammes so rife in their age; it remains the hope of most contemporary science 
+educators.
+Robert Nola’s second chapter, ‘The Enlightenment: Truths Behind a Misleading 
+Abstraction’, brings philosophical and historical refinement to a core issue in sci -
+ence education, namely, the connection between modern science education and the 
+eighteenth-century sociocultural-historical movement known as the ‘European 
+Enlightenment’ (le Siècle des Lumières or Aufklärung). One unfortunate omission 
+from the Handbook, and more generally from contemporary science education dis-
+cussion, is the ‘The Enlightenment Tradition in Science Education’. The eighteenth-
+century Enlightenment philosophers – John Locke (1632–1704), Baruch Spinoza 
+(1632–1677), V oltaire (1694–1778), Jean D’Alembert (1717–1783), Denis Diderot 
+(1713–1784), Nicolas de Condorcet (1743–1794), Julien de la Mettrie (1709–1751), 
+David Hume (1711–1776) and a little later Benjamin Franklin (1706–1790), Joseph 
+Priestley (1733–1804), Thomas Jefferson (1743–1826) and Immanuel Kant (1724–
+6 On this subject, see Matthews (2009b, 2014b) and contributions to Matthews (2009a).
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 13 ---
+xii
+1804) – were inspired by the dramatic achievements of the new science of the sev -
+enteenth century. Of this founding group, Isaiah Berlin well said:
+The intellectual power, honesty, lucidity, courage and disinterested love of the truth of the 
+most gifted thinkers of the eighteenth century remain to this day without parallel. Their age 
+is one of the best and most hopeful episodes in the life of mankind. (Berlin 1956, p.29)
+The eighteenth-century Enlightenment was the fruit of the seventeenth-century 
+scientific revolution. It was not a monolithic grouping holding to a ‘party line’; they 
+held a diverse set of philosophical, religious and political views, but nevertheless 
+certain core commitments can be identified, and the holding of which warrants an 
+individual’s inclusion in the Enlightenment movement (Matthews 2015a, pp.23–26, 
+Shimony 1997).7
+The Enlightenment put large-scale, society-wide education on the cultural and 
+political map. It was distinguished, among other things, by its commitment to social 
+and cultural improvement, to progress, and this was to be achieved through educa -
+tion broadly understood to include periodicals, newspapers, books, colleges and 
+embryonic schools (Shimony 1997). The hallmark of Enlightenment education was 
+to be the spread of scientific (natural philosophy) knowledge and outlooks. 
+Enlightenment figures believed in ‘science for all’ some three centuries before it 
+became a popular educational slogan (Brock 1996). This commitment to expansive 
+science education has marked all educators explicitly aligned to the Enlightenment 
+tradition – Ernst Mach, Thomas Huxley, John Dewey and Gerald Holton, to name 
+just some.8
+The Enlightenment tradition deserves to be a core topic in science education. Its 
+educational, cultural, religious, political, historical and philosophical dimensions 
+are deep, rich and demanding; the topic is, one might say, very illuminating. There 
+can be productive cooperation between school science, history, religion, economics, 
+politics and literature teachers if more were known of the scientific roots of the 
+Enlightenment. The intimate connection of science, politics and the Enlightenment 
+in the foundation of the USA (Cohen 1995, Koch 1965, Stewart 2014) is an obvious 
+illuminating cross-disciplinary case study that can be, with benefit, repeated for just 
+about all countries. Such cross-faculty collaboration can bring some cohesion to the 
+fragmented, unconnected subject divisions that school students’ experience.
+The Enlightenment tradition has many detractors, both within and outside mod-
+ernism. Contemporary postmodernism is basically defined in terms of its rejection 
+of the historic Enlightenment project; wherever postmodernism holds sway, all, or 
+most, of the Enlightenment’s commitments are abandoned. Assuredly the 
+Enlightenment is out of favour in education; it is seen to be intimately connected to 
+ills, real and imagined, of universalism, imperialism, rationalism and patriarchy. 
+The Enlightenment’s connection to embryonic democratic movements, opposition 
+7 There are numerous scholarly studies of the Enlightenment (see, for instance, Himmelfarb 2004, 
+Israel 2001, Outram 2005, Porter 2000), while three recent ‘popular’ expositions and defences are 
+Grayling (2007), Pagden (2013) and Postman (1999).
+8 For an outline of this research tradition, see Matthews (2015a Chap.2), and for different national 
+HPS&ST traditions, see individual chapters in Matthews (2014a, Section 3).
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 14 ---
+xiii
+to political and religious absolutism, support for universal human rights, secularism 
+(as in the separation of church and state, the separation of sin from crime), freedom 
+of the press, open debate, freedom of association, an open and civil society and 
+promotion of the critical, including self-critical, spirit or habit of mind is less often 
+recognised. What is living and what is dead in the historic European Enlightenment 
+movement need to be disentangled, and a good education would endeavour to do so. 
+HPS-informed science teachers can contribute wonderfully to this project.
+Overwhelmingly modern science education appeals to and extols Enlightenment-
+grounded commitments: the importance of evidence; rejection of simple authority 
+as the arbiter of epistemic matters; a preparedness to change opinions and theories; 
+recognising the interdependence of disciplines; pursuing knowledge for advance -
+ment of personal and social welfare; resisting the imposition of political, religious 
+and ideological pressures on curriculum development and classroom teaching; and 
+so on. These commitments are mostly made without awareness of their Enlightenment 
+roots. It is important for educators to connect these contemporary commitments 
+with their historical scientific-philosophical base and to be aware of the trajectories 
+and philosophical-political-religious buffeting that the commitments have experi -
+enced over time. If the past is known, it can be learnt from, and teachers can develop 
+a sense of belonging to an open-minded, critical, scholarly tradition and hopefully 
+defend it.9
+Nola’s chapter asks: What does the name ‘The Enlightenment’ refer to? 
+Sometimes it is used merely to name a period of time in European history. Sometimes 
+it is used to refer to some body of doctrine (though often what doctrine is unclear). 
+On other occasions, it is used to refer to people who advanced such bodies of doc -
+trine. Such a nominalisation obscures the use of the adjective ‘enlightened’ to name 
+some property of a person. The chapter attempts to say what this property is and 
+shows how it underpins an epidemiology of being enlightened, that is, an account of 
+the distribution of enlightened as opposed to unenlightened people, in a given soci-
+ety at a given time. This gives the kernel of truth that the nominalisation ‘The 
+Enlightenment’ obscures. It also helps show that some recent criticisms of ‘The 
+Enlightenment’ fall quite short of their mark.
+The chapter argues that, introducing the idea of the epidemiology of 
+Enlightenment, one can begin to see how excessive focus on a nominalisation of 
+what is more properly adjectival can lead one astray. Talk of ‘The Enlightenment’ 
+can be a convenient shorthand, but it comes at the cost of taking the nominalisation 
+at face value and assuming that there is a definite ‘object’ to be spoken about. The 
+epidemiology of being enlightened tells us what are the real facts hidden behind the 
+veil of a nominalising abstraction.
+Deniz Peker and Özgür Taskin’s third chapter, ‘The Enlightenment Tradition and 
+Science Education in Turkey’, provides a case study of the subject introduced by 
+Nola. The chapter argues that the Enlightenment tradition in modern Turkey cannot 
+be understood without first examining the Enlightenment tradition in the late 
+Ottoman Empire. The original Enlightenment tradition in Europe emerged as a 
+9 Neil Postman (1999) provides a clear and informed elaboration of this argument.
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 15 ---
+xiv
+reaction to the church and state’s dogmatism and oppression in quest for a more 
+rational and sceptical worldview and a freer more open society. The Ottoman 
+Empire had different societal dynamics than Western Europe, so to understand the 
+Enlightenment tradition in Ottoman times, one needs to pay attention to these 
+differences.
+The Ottoman Empire occupied a massive land area spread over three continents. 
+Within this big diversity of geography and population, it is hard to imagine a unified 
+view of an Enlightenment phenomenon for Ottoman societies. Nonetheless, the 
+Ottoman Empire was a very bureaucratic, centralised state, somehow distant from 
+the societies it includes. Thus, focusing on the changes and transformations on 
+Ottoman state and Turkey, their structures and policies on education since the con-
+ception of European Enlightenment provide good reference points for understand -
+ing the Enlightenment movement in the Ottoman Empire and its successor, the 
+Republic of Turkey.
+However, a chronological order of events alone is not sufficient to capture the 
+complexity of the Enlightenment tradition in Turkey. One needs to look at the social, 
+cultural, philosophical and political backdrop of these events, with particular atten-
+tion to the tension between secularism and religious conservatism. The chapter 
+presents the Enlightenment tradition by examining some of the key events in several 
+distinct historical periods from late Ottoman through today’s Turkey while provid-
+ing cultural, social and political contexts for these events.
+Clearly more such national studies of ‘science education and the Enlightenment 
+tradition’ need to be undertaken, and hopefully they will be. There is a clear case for 
+such studies of Enlightenment-engaged science education in the USA, England, 
+Brazil, Argentina, France, Spain, Portugal, China, Japan and Finland – to identify 
+just the most obvious candidates for further research.
+India is a noteworthy case where the introduction of Enlightenment-informed 
+science education in a country, and its subsequent contested history, provides mate-
+rial for philosophical, political and educational analysis and hence lessons. The 
+Constitution of the newly independent India had many claims to international atten-
+tion, but one is unique. Article 51A(h) of the Constitution of India, co-written by 
+Jawaharlal Nehru and Bhimrao Ambedkar, states that a fundamental duty of the 
+state is To develop the scientific temper, humanism and the spirit of inquiry and 
+reform. How did this explicitly Enlightenment provision get there, what has it 
+achieved, and what intellectual, educational and political controversy has it occa -
+sioned? These are all engaging questions that repay serious research and that illumi-
+nate current curriculum and pedagogy debates in India. 10 Comparable research on 
+Pakistan, which was co-created with modern India but whose founding educational 
+power brokers rejected the Enlightenment tradition, would be rewarding.11
+10 An outline of the India case, and consequent debate about cultivation of scientific temper (‘Habits 
+of Mind’, as more generally known, as a goal of science education, can be read in Matthews 
+(2015a, pp.48–50).
+11 In a 2016 HPS&ST conference address in Pusan, the dean of education at a major Pakistan uni-
+versity laid out the depressing litany of problems bedevilling the country’s education and laid 
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 16 ---
+xv
+Christine McCarthy’s fourth chapter, ‘Cultural Studies of Science Education: A 
+Philosophical Appraisal’, documents how the newly emergent research field of cul-
+tural studies of science education (CSSE) came to prominence with the launching in 
+2006 of the Springer journal of the same name and a little later a Springer book 
+series of the same name. The founding editors of the journal and book series, 
+Kenneth Tobin and Wolff-Michael Roth, were also two of the most prominent driv-
+ers of, and prolific writers in, the constructivist research programme in science edu-
+cation and protagonists in the ‘constructivist controversies’ that were ignited by 
+early philosophical criticisms of the doctrine. The CSSE programme rejects the 
+Enlightenment project; such rejection is an identifier of the CSSE tradition.
+The conceptual contradictions and simple confusions of constructivism were 
+detailed by Wallis Suchting (1992) and in Matthews (1992, 1993). The former pro-
+vided a detailed, philosophically informed, line-by-line critique of von Glasersfeld’s 
+hugely popular version of constructivism that was championed by both Tobin and 
+Roth. Suchting concluded that:
+First, much of the doctrine known as ‘constructivism’ ... is simply unintelligible. Second, to 
+the extent that it is intelligible ... it is simply confused. Third, there is a complete absence 
+of any argument for whatever positions can be made out. ... In general, far from being what 
+it is claimed to be, namely, the New Age in philosophy of science, an even slightly percep-
+tive ear can detect the familiar voice of a really quite primitive, traditional subjectivistic 
+empiricism with some overtones of diverse provenance like Piaget and Kuhn. (Suchting, 
+1992, p.247)
+The critique was ignored, and the constructivist caravan moved on over the edu-
+cational landscape with unfortunate consequences for student learning of mathe -
+matics, literacy and science and harming graduate education and teacher-education 
+programmes where belief in the doctrine verged on being compulsory. Symptomatic 
+of the times is that in the mid-1990s I gave a talk critical of constructivism at the 
+Harvard Graduate School of Education and students told me that it was the first time 
+they had heard any criticism of the doctrine since enrolling in the programme. And 
+that was at Harvard, the supposed jewel in the education crown.
+After the early critiques published in Science & Education  and elsewhere 
+(Solomon 1994, Osborne 1996), the range of philosophical problems occasioned by 
+constructivism were laid out by contributors to Matthews (1998). Later research 
+focussed, to put it gently, on the pedagogical deficiencies of the doctrine. That these 
+are substantial and warranted is confirmed by the fact that the word ‘constructivism’ 
+has now entirely disappeared from the annual NARST conference programme.12
+As Ken Tobin has now ‘moved on’ from constructivism (Tobin 2000) and Wolff-
+Michael Roth has now ‘abandoned the constructivist paradigm as a useful theory … 
+because [it is] plagued with considerable contradictions’ (Roth 2006), the emergent 
+field of CSSE research needs to be examined to see if the well-known philosophical 
+problems of constructivism have been carried over into its replacement programme. 
+responsibility for most of them on the founding fathers’ rejection of the ‘Enlightenment’ education 
+policies adopted in India 70 years ago.
+12 The critical studies are outlined in Matthews (2015b, pp.782–789).
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 17 ---
+xvi
+An issue now is whether CSSE is a case of old and discredited philosophical wine 
+in new bottles. McCarthy takes up this question.
+A great deal of patient, useful work has been done in examination of the inter -
+relations of science, philosophy and culture. Ernst Mach, so often decried by educa-
+tors as a narrow-minded, scientistic positivist, wrote:
+The historical investigation of the development of a science is most needful, lest the prin -
+ciples treasured up in it become a system of half-understood prescripts, or worse, a system 
+of prejudices. Historical investigation not only promotes the understanding of that which 
+now is, but also brings new possibilities before us, by showing that which exists to be in 
+great measure conventional and accidental. (Mach 1893/1974, p.316)
+George Sarton, arguably the founder of the discipline of history of science, wrote in 
+his foundational work:
+In this book pains have been taken to evoke the social background of living science …
+Science never developed in a social vacuum, and in the case of each individual it never 
+developed in a psychologic vacuum. (Sarton 1952, p.xiii)
+In 1994, William Cobern, in introducing a new section in the long-established jour-
+nal Science Education, wrote:
+This section serves as a forum for the critical discussion of cultural, sociological, and politi-
+cal influences on all aspects of science education. Its purpose is to bring a cross-cultural and 
+international perspective to science education that will broaden awareness within the com-
+munity of science educators, wherever they may be, that science education is a global activ-
+ity. (Cobern 1994, p.217)
+The study of ethno-science is a well-established anthropological research tradi -
+tion from which science educators can learn. There are serious pedagogical and 
+utilitarian issues about how science can best and most effectively and respectively 
+be taught in diverse different cultures each with diverse worldviews. Such ‘critical 
+discussion’ has been reported in different journals, including CSSE. But the basic 
+issue is not pedagogical but philosophical: what is the aim and what should ulti -
+mately be taught in the ‘global activity’ of science education? Is it ‘global’ in the 
+sense of everywhere having the same goals? Is it universal science or local (ethno)
+science that is to be taught? In the most recent iteration of CSSE, what needs to be 
+identified is the degree to which the constructivist origins of the field have influ -
+enced its methodological, epistemological and even political research 
+commitments.
+A central issue is whether the CSSE subject matter, namely, the interdependence 
+of science, culture and education, can be studied in a scientific or social-scientific 
+way as Mach or Sarton did or whether the ‘new’ discipline has its own distinctive 
+methodology and truth tests. The latter is suggested by the opening editorial of 
+CSSE where it is stated that ‘A requisite for all published articles is, however, an 
+explicit and appropriate connection with and immersion in cultural studies’ (Roth 
+2006; Tobin 2000, p.1). And a few pages later, that research will be published pro-
+vided it ‘is consistent with the forms of inquiry that characterize the research’ (p.7). 
+This is very close to a ‘only insiders need apply’ policy and gives rise to important 
+methodological and political questions about scholarly publishing.
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 18 ---
+xvii
+Not surprisingly there is carry-over from CSSE’s constructivist birthing to its 
+current decade-old form. McCarthy’s chapter documents how the CSSE field has 
+developed a suite of interrelated theses about the nature of modern science that cast 
+doubt on the claims of scientific inquiry to provide the best possible and needed 
+knowledge of the natural and social worlds. The prevalence in CSSE of postmodern 
+interpretations of the nature of science, the nature of knowledge and the nature of 
+truth fuels public doubt about modern science, its practices and its findings.13 There 
+is a pervasive intercultural and intracultural relativism in the CSSE literature; 
+indeed, commitment to such functions as a shibboleth for the tradition. This is intel-
+lectually, politically and culturally both unsound and dangerous. Harry Collins, one 
+of the foremost proponents of the Edinburgh/Bath strong programme in sociology 
+of science, has written:
+The attitude that anyone’s opinion on any topic is equally valuable could spread, and there 
+are some indications, such as widespread vaccine scares, that suggest it is happening. A 
+world in which there is said to be no difference between those who know what they are 
+talking about and those who don't is not one that anyone who thinks about it wants. Such a 
+society would be like one's worst nightmare, exhibiting many of the characteristics of the 
+most vile epochs of human history. (Collins 2008)
+In contrast to most CSSE advocates, McCarthy argues for a set of philosophical 
+positions she regards as essential for the conduct of modern science: methodologi -
+cal naturalism, pragmatic realism, a correspondence conception of truth and a natu-
+ralistic conception of knowledge. There is, of course, serious dispute about each of 
+these positions, but McCarthy lays them out in detail and invites engagement with 
+the arguments. She rejects the common CSSE argument that, because science is not 
+infallible (something on which everyone agrees), then anything or any system of 
+beliefs is equally warranted. McCarthy rightly points out that between epistemo -
+logical infallibilism and relativism falls fallibilism. And in the latter domain, mod -
+ern science has no equal in terms of understanding natural mechanisms in the world.
+The second section on ‘Teaching and Learning Science’ begins with Gregory 
+Kelly and Peter Licona’s fifth chapter, ‘Epistemic Practices and Science Education’, 
+which continues this bridge-building between epistemology and the psychology of 
+learning. The chapter draws from the empirical studies of scientific practice to 
+derive implications for science teaching and learning. There has been considerable 
+empirical work from multiple disciplinary perspectives (cognitive science, sociol -
+ogy, anthropology, rhetoric) informing perspectives about science and the inner 
+workings of scientific communities. These studies examine the practices, discourses 
+and cultures of scientists and scientific communities. While the empirical study of 
+science has a considerable history, it is an area often less emphasised in education 
+as compared to the roles of philosophy and history of science for informing educa-
+tion. The chapter details how such empirical studies of science offer insights about 
+science, provide implications for science learning and model ways of investigating 
+knowledge in action.
+13 Further elaboration of this claim can be found in Mackenzie, Good and Brown (2014).
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 19 ---
+xviii
+A key contribution of this empirical work on the practice of knowledge construc-
+tion is the shift in the identification of the epistemic subject from the individual 
+knower to that of a relevant social group. The chapter adds to the work in philoso -
+phy identifying limitations to epistemologies based in, or assuming, a Cartesian 
+knowing subject. This shift suggests the need to examine the social processes deter-
+mining what counts as knowledge, to consider a communal understanding of mean-
+ing, to evaluate ideas set in historical and public contexts and to recognise the 
+importance of the assessment of knowledge claims by relevant groups. The chapter 
+might be seen as repeating the point made long ago by Hegel and popularised by 
+Paulo Freire that ‘The “we think” determines the “I think”’.
+Through a review of science studies, the argument of the chapter for the rele -
+vance of a study of epistemic practices is developed. From this point of view, a 
+number of implications for developing conceptual understanding, for learning and 
+for research methodology in science education are derived. The chapter shows how 
+the use of empirical studies of scientific knowledge and knowledge construction 
+processes in schools offers contributions to thinking about science education. This 
+perspective complements the important normative work in epistemology to provide 
+a balanced view of history, philosophy and sociology of science in science 
+education.
+Erin Peters-Burton’s sixth chapter, ‘Strategies for Learning Nature of Science 
+Knowledge: A Perspective from Educational Psychology’, begins with the common 
+recognition that learning how to think scientifically is an important, if not vital, skill 
+for an informed citizenry. In order to have a democratic community who can make 
+knowledgeable decisions, citizens need to be able to evaluate the reliability of evi -
+dence and to be able to use logic and reason to make choices that result in favour -
+able consequences both for themselves and their society.
+The chapter examines the parallels between the ways that nature of science 
+(NOS) knowledge has been taught and the learning processes established by self-
+regulated learning theory. The chapter bridges the two often separate research fields 
+of the epistemology of subject matters and the psychology of learning those subject 
+matters. The chapter recognises that one mechanism from which to develop student 
+scientific thinking is through the exploration of epistemic cognition in science. The 
+chapter shows that an examination of the history of efforts to create NOS-conscious 
+curriculum over the past 50 years can give insight into how we identify and under -
+stand the effective teaching of NOS.
+Hayo Siemsen provides the seventh chapter, it being the first published English 
+translation of Ernst Mach’s influential 1890 essay ‘About the Psychological and 
+Logical Moment in Natural Science Teaching’. The article was published in the 
+world’s first science education journal that had been established by Ernst Mach 
+in 1887  – Zeitschrift für den Physikalischen und Chemischen Unterricht .14 
+The article was titled ‘Über das Psychologische und Logische Moment im 
+Naturwissenschaftlichen Unterricht’ (1890/91, vol.4 pp.1–5). It was the distillation 
+14 Pleasingly the journal is archived on the web.
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 20 ---
+xix
+of Mach’s numerous works on pedagogy and educational theory.15 Mach took as a 
+given that science pedagogy involves both logical (epistemological) and psycho -
+logical considerations. Mach states his position in the conclusion of the essay:
+One should in teaching first and foremost proceed psychologically; only secondarily and as 
+much logically, as this is enabled through the psychological preparation so that it becomes 
+a need. New concepts, theories, hypotheses, solutions of problems should only be intro -
+duced, when the need for this is felt in order to be able to master the topic. For each sen -
+tence, which appears during teaching, clarity and explicitness, but in general not 
+indefeasibility from the point of view of the goal of teaching, should be required.
+Mach’s writings initiated a long ‘Machian tradition’ of education. The tradition 
+is characterised by having a historically informed or ‘heuristic’ method; valuing 
+experiential and manipulative (‘hands-on’) learning; promoting thought experimen-
+tation; championing a liberal, coherent and limited curriculum so that understand-
+ing of subject matter can be achieved; stressing the elaboration of the philosophical 
+content of curriculum material; and directly or indirectly teaching the nature of 
+science.16
+It is a great pity that there is so little opportunity in any country’s science teacher 
+education programmes, or even graduate education programmes, to learn from the 
+life, work and writings of Mach. The same is true of the other significant contribu-
+tors to the HPS&ST tradition  – Thomas Henry Huxley, Frederick Westaway, 
+E.J. Holmyard, John Dewey, Joseph Schwab and numerous others. 17 The history 
+and philosophy of science is not a part of these programmes, and neither is the his-
+tory of science education. With both HPS and history of education missing, Mach 
+does not appear in pre-service or graduate education programmes that are domi -
+nated by other supposedly more practical concerns. But in education, as in science, 
+there is nothing so practical as a good theory, and Mach provides one.
+Mach’s educational (and philosophical) theory can be elaborated, revised and 
+criticised. It is an orientation and guide to education and pedagogy that rewards 
+engagement. Hopefully this first-ever English translation of his brief piece might 
+lead educators and researchers to give more attention to Mach’s life and writings. 
+The notoriously monolingual Anglo-American science education community has a 
+debt to Hayo Siemsen’s painstaking translation efforts.
+The third section on curriculum development and justification begins with Igal 
+Galili’s eighth chapter, ‘Scientific Knowledge as a Culture: A Paradigm for 
+Meaningful Teaching and Learning of Science’, which starts with recognition that 
+considerable research in science education has focussed on how scientific knowl -
+edge is best represented in classrooms so as to facilitate its teaching and learning. 
+Such a goal naturally seeks for the most representative and essential features of 
+scientific knowledge as established in history and philosophy of science (HPS). It 
+15 For discussion of Mach’s extensive educational writings, research and involvements, see 
+Matthews (2015a, Chap.2, 2017) and Siemsen (2014).
+16 The characteristics of the tradition, and its contributors, are elaborated in Matthews (2017).
+17 There are chapters on five of these individuals in the biographical section of Matthews (2014a). 
+More such research needs to be written on others in the tradition.
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 21 ---
+xx
+acknowledges that science teachers require the rudiments of multidisciplinary 
+knowledge: subject matter, pedagogy, cognitive science, history and philosophy of 
+science. Commonly, the first three are addressed in pre-service programmes of 
+teacher training. Yet, even a basic knowledge of history and philosophy of science 
+is often totally lacking in such programmes.
+An appropriate way to make up this deficiency is to consider scientific knowledge 
+as a cultural system. Doing so opens up opportunities to explore how scientific 
+knowledge mediates human understanding of natural phenomena and how that 
+knowledge is developed through carefully managed processes of investigation and 
+validation. Such a pedagogical approach sees science as an instance of cultural con-
+tent knowledge (CCK).
+A CCK-based curriculum looks to the discourse in the scientific pursuit for 
+knowledge, revealing its characteristic structural features − ontological and episte-
+mological – which otherwise languish in obscurity in the strictly disciplinary teach-
+ing of science. CCK reveals the big picture and broader context of scientific 
+knowledge as well as frames and specifies the necessary involvement of HPS in 
+science curriculum construction. Evidence is provided that such a curriculum 
+appeals to a broad population of learners beyond the traditional disciplinary-  
+oriented students and that it keeps with the Enlightenment tradition of dissemina -
+tion of scientific literacy.
+Yaron Lehavi and Bat-Sheva Eylon’s ninth chapter, ‘Integrating Science 
+Education Research, Science and History and Philosophy of Science in Developing 
+an Energy Curriculum’, contributes to applied or pedagogical aspects of the 
+HPS&ST tradition. One of the universally agreed goals of science education is to 
+foster students’ understanding of science: the community-generated web of con -
+cepts and ideas that aims to explain natural phenomena according to accepted tools 
+and methodology. In addition, students are expected to develop their competency in 
+applying scientific ideas and justifying their application. Hence, a curriculum in sci-
+ence education involves addressing the interpretation of evidence and the reasons 
+for preferring one view over another. Since these considerations are also the focus 
+of the history of science and its philosophy, their utilisation can assist the develop-
+ment of a genuine scientific curriculum.
+Curriculum serves both students and teachers so science education research pro-
+vides another context for curriculum theorising and design. Hence, a curriculum 
+that aims at supplying students with the requisite tools to learn from the evolution 
+of scientific ideas and their foundations, and by those means, foster students’ scien-
+tific understanding, rests on four pillars: science itself, its history and philosophy 
+and results from science education research. The chapter discusses how each of 
+these four pillars can assist in designing a curriculum for teaching energy at middle 
+school (7th and 9th grade levels) in Israel. Given international concern about the 
+energy crisis and commitments to clean energy, it is valuable to see how HPS plays 
+out in a practical, national curricular context.18
+18 On contemporary approaches to energy teaching and curricula, see Chen et al. (2014) and the US 
+Department of Energy (2012).
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 22 ---
+xxi
+Mike Smith’s tenth chapter, ‘Teaching Evolution: Criticism of Common 
+Justifications and the Proposal of a More Warranted One’, shows that, with cell 
+theory and the DNA theory of inheritance, evolution stands as one of the three pil -
+lars of modern biology. Evolution helps us understand phenomena in fields as 
+diverse as genetics, anatomy, ecology and physiology. Understanding evolution is 
+important not just from a scientific perspective but from a practical one as well. 
+Evolutionary theory can help us solve real-world problems that have a biological 
+basis. The chapter shows that while a wide variety of reasons for the inclusion of 
+evolution in the science curriculum have been proposed, too often these justifica -
+tions make sense to teachers and policy makers but do not appear to be convincing 
+to students; despite all justifications, many students hold out against learning evolu-
+tionary theory, and many of those that do learn resist belief in it.
+The chapter discusses the types of justifications that have been used to support 
+science literacy in general and evolution understanding in particular. It demonstrates 
+how limited student-centred justifications for evolution literacy are and asks how 
+they can be made stronger. A small set of justifications are proposed that are more 
+relevant, interesting and convincing to students. The chapter concludes by drawing 
+out educational implications of the argument.
+The fourth section on indoctrination introduces the important but largely 
+neglected task of the informing science education debates by the discipline of phi -
+losophy of education. It begins with Lena Hansson’s eleventh chapter, ‘Science 
+Education, Indoctrination, and the Hidden Curriculum’. On connections between 
+the two research fields, see Schulz (2014). In Hansson’s chapter, the topic of indoc-
+trination is discussed; with the chapter taking as its starting point analyses of the 
+concept of indoctrination in philosophy of education, it provides an overview of the 
+use of the concept in science education. The chapter then focuses on indoctrination 
+through the hidden curriculum, claiming that messages about the image of science 
+communicated in the classroom, which are not in line with the formal curriculum, 
+are part of this hidden curriculum.
+It is suggested that widespread views about science (e.g. associating science with 
+positivistic, scientistic, atheistic and modernistic views) could be viewed as the 
+indoctrination of students. It is claimed that since these views are not necessary for 
+science, the image of science becomes distorted for students. Thus, such indoctrina-
+tion could have unfortunate consequences for the possibility of students embracing 
+science or identifying with it. The issues raised in the chapter return to those in the 
+opening chapter about whether the practice of science is committed to any particular 
+worldview, or more usefully, what characteristics of the world are required to 
+explain the conduct and success of science.
+Paul Wagner’s twelfth chapter, ‘Warranted Indoctrination in Science Education’, 
+continues the discussion of indoctrination by asking the following question: Is there 
+a place for indoctrination in science education? The issue surfaces with some regu-
+larity, but usually without the necessary historical and philosophical refinement, in 
+education debate. The question arises whenever science education removes itself 
+from student experience and depends overly on authority, the scientific tradition or 
+the testimony of experts.
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 23 ---
+xxii
+The problem might appear intractable as a hallmark of modern science is its 
+remove from immediate, unmediated experience and its dependence upon the 
+experimental and confirmed findings of others as reported in journals and books. 
+Everywhere students learn about things they rarely can see or experience – atomic 
+structure, chemical bonding, paleo-climates, arrangement of the solar system, 
+galactic events and so on. Nearly all school science content needs to be learnt  
+second-hand and taken on testimony, hence the need to see how, and indeed if, rou-
+tine science learning and instruction can be distinguished from indoctrination. The 
+chapter shows that, through to the early part of the twentieth century, the concept of 
+indoctrination was straightforward and generally free of controversy. Ideological 
+agitations likely fermented by several factors such as a misunderstanding of the 
+progressive education movement, reaction to the growth of fascism and commu -
+nism in Europe especially and student revolts of the 1960s and 1970s brought with 
+them a host of disturbing connotations surrounding the idea of indoctrination.
+The chapter notes that the noun indoctrination does not name a process or a set 
+of processes. Indoctrination does not denote any malevolent intent on the part of an 
+indoctrinator. Indoctrination does not denote the value or epistemic soundness of 
+any content resulting from one or more processes employed by an indoctrinator; it 
+is claimed that the noun indoctrination is best understood as a ‘benchmark’ term 
+and nothing more. It is a valuable benchmark term and provides generic licence for 
+pedagogical practices that lead to firmly held beliefs without the benefit of personal 
+epistemic grounding.
+The chapter’s claim is that indoctrination functions as a benchmark when entry 
+levels of disciplinary material have sufficiently ‘stuck’ in order that learners might 
+pass over the threshold of a new discipline and into independent engagement with 
+those who are more expert in the discipline. The benchmark establishing that the 
+threshold has been successfully secured is manifest when learners are able and 
+inclined to carefully express doubt about knowledge claims within the discipline.
+ Conclusion
+As a guiding curricular principle, Matthew Arnold’s claim of nearly 150 years ago 
+(Arnold 1868/1966) that education systems have a responsibility to identify and 
+transmit the best of their culture’s heritage is hard to dispute: surely no one would 
+want to advocate its opposite. Modern science is one of the most important parts of 
+the patrimony of humanity; it has long ceased to be a European or Western cultural 
+artefact. The history and philosophy of science allows science teachers and science 
+education researchers to better understand the achievements, the strengths and the 
+weaknesses of science and so their own social and professional responsibilities as 
+part of an important tradition. Consequently, interest and competence in HPS need 
+to be cultivated in teacher education and graduate education courses. Minimally, as 
+Israel Scheffler so succinctly maintained, to teach a discipline, you need to know 
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 24 ---
+xxiii
+something of its history and epistemology, and the more of the latter you know, the 
+more valuable for students can be your teaching of the discipline (Scheffler 1973).
+Hopefully each of the contributions in this anthology can do something towards 
+broadening the professional vision of science teachers and thus assist in having their 
+students not only arrive at ‘mandated’ destinations – scientific competence, literacy 
+and appreciation  - but arrive with broader horizons. Such positive learning out -
+comes enable science education to contribute to the cultural health of all societies 
+and cultures.
+ References
+Arnold, M. (1868/1966). In J. Dover Wilson (Ed.), Culture and anarchy: Landmarks in the history 
+of education. Cambridge: Cambridge University Press.
+Berlin, I. (Ed.). (1956). The Age of enlightenment: The eighteenth century philosophers. New York: 
+Mentor Books.
+Brock, W. H. (1996). Science for All: Studies in the history of Victorian science and education . 
+Aldershot: Variorum Press.
+Chen, R. F., Eisenkraft, A., Fortus, D., Krajcik, J., Neumann, K., Nordine, J., & Scheff, A. (2014). 
+Teaching and learning of energy in K-12 education. Dordrecht: Springer.
+Cobern, W. W. (1994). International science education section: Editorial policy statement. Science 
+Education, 78(3), 217–220.
+Cohen, I. B. (1995). Science and the founding fathers: Science in the political thought of Jefferson, 
+Franklin, Adams, and Madison. New York: W. W. Norton & Company.
+Collins, H.M. ( 2008). An Interview. American Scientist. http://www.americanscientist.org/search/
+home_result.aspx?q=harry%20collins
+Department of Energy (DoE) USA. (2012). Energy literacy: Essential principles an fundamental 
+concepts for energy education. Washington, DC: US Department of Energy.
+Erduran, S., & Dagher, Z. R. (2014). Reconceptualizing the nature of science for science educa -
+tion. Dordrecht: Springer.
+Grayling, A. C. (2007). Towards the light: The story of the struggles for liberty & rights that made 
+the modern west. London: Bloomsbury.
+Himmelfarb, G. (2004). The roads to modernity. The British, French, and American enlighten -
+ments. New York: Alfred A. Knopf.
+Hodson, D. (2014). Nature of science in the science curriculum: Origin, development and shifting 
+emphases. In M. R. Matthews (Ed.), International handbook of research in history, philosophy 
+and science teaching (pp. 911–970). Dordrecht: Springer.
+Israel, J. I. (2001). Radical enlightenment: Philosophy and the making of modernity 1650–1750 . 
+Oxford: Oxford University Press.
+Koch, A. (Ed.). (1965). The American enlightenment: The shaping of the American experiment and 
+a free society. New York: George Braziller.
+Lederman, N. G., Bartos, S. A., & Lederman, J. (2014). The development, use, and interpretation 
+of nature of science assessments. In M. R. Matthews (Ed.), International handbook of research 
+in history, philosophy and science teaching (pp. 971–997). Dordrecht: Springer.
+School of Education
+University of New South Wales
+Kensington, NSW, Australia
+Michael R. Matthews
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 25 ---
+xxiv
+Mach, E. (1893/1974). The science of mechanics . (6th edn). La Salle: Open Court Publishing 
+Company.
+Mackenzie, J., Good, R., & Brown, J.  R. (2014). Postmodernism and science education: An 
+appraisal. In M. R. Matthews (Ed.), International handbook of research in history, philosophy 
+and science teaching (pp. 1057–1086). Dordrecht: Springer.
+Matthews, M. R. (1992). Old wine in new bottles: A problem with constructivist epistemology. In 
+H.  Alexander (Ed.), Philosophy of education 1992 , Proceedings of the forty-eighth annual 
+meeting of the Philosophy of Education Society. Philosophy of Education Society, Urbana, IL, 
+pp. 303–311.
+Matthews, M. R. (1993). Constructivism and science education: Some epistemological problems. 
+Journal of Science Education and Technology, 2(1), 359–370.
+Matthews, M. R. (1997). James T. Robinson’s account of philosophy of science and science teach-
+ing: Some lessons for today from the 1960s. Science Education, 81(3), 295–315.
+Matthews, M. R. (Ed.). (1998). Constructivism in science education: A philosophical examination. 
+Dordrecht: Kluwer Academic Publishers.
+Matthews, M.  R. (2004a). Thomas Kuhn and science education: What lessons can be learnt? 
+Science Education, 88(1), 90–118.
+Matthews, M. R. (2004b). Reappraising positivism and education: The arguments of Philipp Frank 
+and Herbert Feigl. Science & Education, 13(1-2), 7–39.
+Matthews, M. R. (Ed.). (2009a). Science, worldviews and education. Dordrecht: Springer.
+Matthews, M. R. (2009b). Teaching the philosophical and worldview components of science. In 
+M. R. Matthews (Ed.), Science, worldviews and education (pp. 49–80). Dordrecht: Springer.
+Matthews, M. R. (2012). Changing the focus: from nature of science (NOS) to features of science 
+(FOS). In M. S. Khine (Ed.), Advances in nature of science research  (pp. 3–26). Dordrecht: 
+Springer.
+Matthews, M. R. (Ed.). (2014a). International handbook of research in history, philosophy and 
+science teaching (3 vols.). Dordrecht: Springer.
+Matthews, M.  R. (2014b). Science, worldviews and education. In M.  R. Matthews (Ed.), 
+International handbook of research in history, philosophy and science teaching  (pp.  1585–
+1636). Dordrecht: Springer.
+Matthews, M. R. (2015a). Science teaching: The contribution of history and philosophy of science: 
+20th Anniversary revised and enlarged edition. New York: Routledge.
+Matthews, M. R. (2015b). Reflections on 25-Years of Journal Editorship. Science & Education, 
+24(5–6), 749–805.
+Matthews, M. R. (2017). Mach’s educational theory and practice. In F. Stadler (Ed.), Vienna circle 
+institute yearbook. Berlin: Springer.
+Osborne, J. (1996). Beyond constructivism. Science Education, 80(1), 53–82.
+Outram, D. (2005). The Enlightenment (2nd ed.). New York: Cambridge University Press.
+Pagden, A. (2013). The Enlightenment and why it still matters. Oxford: Oxford University Press.
+Porter, R. (2000). The Enlightenment: Britain and the creation of the modern world . London: 
+Penguin Books.
+Postman, N. (1999). Building a bridge to the 18th century: How the past can improve our future . 
+New York: Alfred A. Knopf.
+Roth, W.-M. (2006). Learning science: A singular plural perspective. Rotterdam: Sense Publishers.
+Sarton, G. (1952). A history of science, volume one: Ancient science through the golden age of 
+greece. New York: W.W. Norton.
+Scheffler, I. (1973). Philosophy and the curriculum. In his reason and teaching  (pp.  31–41). 
+Indianapolis: Bobbs-Merrill.
+Schulz, R. M. (2014). Philosophy of education and science education: A vital but underdeveloped 
+relationship. In M. R. Matthews (Ed.), International handbook of research in history, philoso-
+phy and science teaching (pp. 1259–1315). Dordrecht: Springer.
+Shimony, A. (1997). Presidential address: Some historical and philosophical reflections on science 
+and enlightenment. In L. Darden (Ed.) Proceedings of the 1996 PSA Meeting, S1–14.
+New Perspectives in History, Philosophy and Science Teaching: An Introduction
+
+--- PAGE 26 ---
+xxv
+Siemsen, H. (2014). Ernst Mach: A genetic introduction to his educational theory and pedagogy. 
+In M. R. Matthews (Ed.), International handbook of research in history, philosophy and sci -
+ence teaching (pp. 2329–2357). Dordrecht: Springer.
+Solomon, J. (1994). The rise and fall of constructivism. Studies in Science Education, 23, 1–19.
+Stewart, M. (2014). Nature’s god: The heretical origins of the American republic . New  York: 
+W.W. Norton & Co.
+Suchting, W. A. (1992). Constructivism deconstructed. Science & Education, 1(3), 223–254.
+Tobin, K. (2000). Constructivism in science education: Moving on. In D.  C. Phillips (Ed.), 
+Constructivism in education  (pp.  227–253). Chicago: National Society for the Study of 
+Education.
+New Perspectives in History, Philosophy and Science Teaching: An Introduction

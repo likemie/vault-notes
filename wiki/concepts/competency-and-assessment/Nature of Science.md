@@ -8,6 +8,10 @@ aliases:
 summary: "对科学作为独特知识生产体系的认识论属性、社会文化嵌入性及其生成机理的元认知理解，区别于陈述性事实记忆与孤立操作技能，构成公民科学素养的重要基石。"
 type: concept
 domain: "competency-and-assessment"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - science-education
   - nature-of-science

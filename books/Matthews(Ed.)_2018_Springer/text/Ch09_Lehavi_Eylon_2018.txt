@@ -1,0 +1,1203 @@
+Title: Integrating Science Education Research and History and Philosophy of Science in Developing an Energy Curriculum
+Pages: 253-278
+
+--- PAGE 253 ---
+235
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_9
+Chapter 9
+Integrating Science Education Research 
+and History and Philosophy of Science 
+in Developing an Energy Curriculum
+Yaron Lehavi and Bat-Sheva Eylon
+9.1  Introduction
+Traditionally, the role of the nature of science (NOS) in curriculum development is 
+manifested by asking how history and philosophy of science (HS and PS, respec -
+tively) should be integrated into the curriculum (Rudolph 2000), whereas ideas 
+from science itself are often regarded as the final and desired goal of students’ 
+understanding. The findings from science education research (SER) are used to 
+inform the curriculum designers about how students learn a certain subject, what 
+difficulties they (and sometimes their teachers) have, and what methods are most 
+suited for constructing the students’ desired understanding. How the four disci -
+plines – HS, PS, Science, and SER - are considered in curriculum design may vary, 
+reflecting the curriculum developers’ different educational perspectives. For exam-
+ple, disciplines such as the history and philosophy of science (HPS) can be used to 
+supplement the curriculum, aimed at adding cultural information or human interest, 
+or past scientists’ views on natural phenomena could be set alongside students’ 
+views as other perspectives for consideration (Monk and Osborne 1997). Class and 
+lab activities can be used to emphasize methodological concerns, such as the iden -
+tification and control of variables, to encourage students’ motivation and curiosity 
+or, alternatively, to determine “how, with what confidence, and on what bases, sci-
+entists come to know what they do” (Shapin 1992). Results from education research 
+Y . Lehavi (*) 
+The David Yellin College of Education, Jerusalem, Israel 
+The Weizmann Institute of Science, Rehovot, Israel
+e-mail: yarlehavi@gmail.com 
+B.-S. Eylon 
+The David Yellin College of Education, Jerusalem, Israel
+e-mail: Bat-sheva.Eylon@weizmann.ac.il
+
+--- PAGE 254 ---
+236
+can be used to elicit students’ prior knowledge or to put constraints on the ways by 
+which new scientific ideas can be conveyed.
+Thus, the strong interrelations among science, its philosophy, and its teaching 
+(Elkana 2000, Matthews 2015) call for considering in conjunction all four disci -
+plines when planning a curriculum design: Philosophy of Science, its History, 
+Science Education Research, and Science itself (PHES). This view is in accordance 
+with the suggestion of viewing didactics as a discipline that utilizes contributions 
+from different scholarly fields in order to improve science education (Adúriz-Bravo 
+and Izquierdo-Aymerich 2005). Although the four disciplines often overlap and 
+cannot be completely distinguished from each another, each of them has its own 
+unique contribution to curriculum decision making and therefore will be discussed 
+here separately.
+In this regard, energy serves as a very good example, since scientists, philoso -
+phers of science, and science educators (e.g., Poincare 1903/1952, ch. VIII; Feynman 
+1964; Bunge 2000; Wolter and Martin 2002) have all been involved in the ongoing 
+long discussion regarding the meaning of energy and its special language (Bevilacqua 
+2014). Evidently, the lack of consensus with regard to what is energy, its level of 
+abstraction and what is meant by energy types/forms, conversion/transformation, 
+transfer and conservation presents a great challenge for an energy curriculum 
+designer who strives for coherence and consistency. For us, the philosophical dis -
+course with regard to the experiment-theory relationship and the meaning of scien-
+tific concepts, with special emphasis on their definitions, provides essential and rich 
+support in making curriculum development decisions.
+Thus, our approach integrates all four disciplines in developing a coherent, con-
+sistent, spiral curriculum for teaching energy. We exemplify this approach by dis -
+cussing how considerations based on each of the four disciplines were integrated in 
+making curricular decisions in the development and implementation of a curriculum 
+for teaching the concept of energy in Israel. This approach follows and extends the 
+suggestion that HPS should be used in order to address the teaching of the concept 
+of energy and especially with regard to teachers’ training (Bächtold and Guedj 
+2012, 2014). Our approach led us to shift the focus of the curriculum and to put 
+more emphasis on quantitative change in energy rather than on energy itself. The 
+importance of focusing on changes in energy (as one concept) rather than viewing 
+it in a static way in teaching energy has been recognized in the past (Chisholm 
+1992).
+Our curriculum development was based on the assumption that the difficulties 
+reported by SER are strongly related to the above-mentioned lack of consensus with 
+regard to the “language of energy”. We not only examined past studies—we also 
+conducted our own research, with regard to teachers’ concept image of energy, to 
+help us in making curricular decisions. In order to address the challenges that our 
+research raised, we considered all four components of PHES in constructing a new 
+curriculum for teaching energy in Israel.
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 255 ---
+237
+9.2  The Integrated Approach to Curriculum Design
+As described above, the design of the energy curriculum was based on four pillars: 
+(1) History of science; (2) Science; (3) Philosophy of science, and (4) Science edu-
+cation research. We will describe how we employed each of these disciplines in 
+designing our curriculum.
+9.2.1  History of Science (HS): Adopting Joule’s Approach
+With regard to the history of science, we followed the approach to curriculum design 
+that addresses scientific ideas in their original context of discovery (Monk and 
+Osborn 1997). Applying this approach to energy was manifested by adopting Joule’s 
+approach.
+During the nineteenth century, scientists developed the idea that the creation of a 
+certain ‘power’ requires the exhaustion of another. However, to become a conserva-
+tion law, this co-variation in different directions of ‘power’ required measurable 
+relations to a given standard (Kuhn 1977, p. 79–82). Such relations, using change in 
+temperature of a standard object, were established by several scientists at the middle 
+of the nineteenth century (Kuhn 1977, p. 89) with the prominent contribution of 
+Joule who wished to compare different processes:
+In accordance with the pledge I gave the Royal Society some years ago, I have now the 
+honour to present it with the results of the experiments I have made in order to determine 
+the mechanical equivalent of heat with exactness. (James Prescott Joule 1850)
+Thus, Joule’s approach1 led him to arrive at quantitative relations between differ-
+ent phenomena rather than to characterize a new entity and to attribute it with quali-
+ties such as being indestructible. Owing to his remarkable experimental skills, he 
+discovered quantitative relations between temperature change and other phenom -
+ena: electrical, chemical, gas expansion, and change in speed (Coopersmith 2015, 
+p. 245–252). Although at Joule’s times many concepts were used to describe differ-
+ent processes and phenomena (e.g., living force, heat, power), his experiments laid 
+the groundwork for using energy as one entity that can be employed in analyzing 
+different phenomena, otherwise considered to be disconnected (Kuhn 1977, p. 77). 
+The heating phenomenon served Joule as a standard against which he compared the 
+results of measuring chemical affinity, electromotive and electro-magnetic forces, 
+and even the passage of water through narrow tubes.
+Furthermore, Joule succeeded in finding equivalence between different processes 
+by which a system can change by measuring the change in temperature of an object 
+due to such processes:
+1 We named this approach after Joule although he was one of many who contributed to the effort to 
+arrive at a unified concept of energy via experiments (see especially Bevilacqua 2014 and 
+Coopersmith 2015).
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 256 ---
+238
+A change (by various processes)  →   ∆T (of a certain object)
+Thus, for each changing variable in his experiments, Joule could relate a certain 
+change in temperature. This, as is well known, enabled him to relate different pro -
+cesses to each other and to suggest a means to compare them. One can therefore 
+interpret Joule’s approach as an endeavor to quantify different processes by the 
+same operation of measurement.
+Further pursuing Joule’s approach, if one measures separately how each process 
+(the change in height, speed, electric charge distribution, chemical constituents in 
+bio and non-bio systems,2 temperature of bodies in contact, radiation or even nuclear 
+masses)3 affects the change in temperature, one can combine all such processes 
+under one concept. Note that this aligns well with Joule’s own interpretation and 
+enables regarding heat (the change in energy of an object that interacts with another 
+object having a different temperature) and work as not distinct from each other.
+Thus, HS provided us with the means to clarify in our curriculum why we can use 
+energy change as one concept for different kinds of processes. It also led us to 
+develop low-cost classroom experiments that can be used to demonstrate Joule’s 
+approach (Lehavi et al. 2014a, b, 2016). This unitary view of energy is crucial for 
+presenting it as a crosscutting curricular concept.
+9.2.2  Science: Interpreting the First Law of Thermodynamics 
+and Energy Conservation
+Our guiding principle in employing the scientific ideas was to consider them not 
+only as the goal of teaching but also for guiding curriculum design decisions.
+This principle was manifested in interpreting the first law of thermodynamics 
+∆E = W - Q) as representing the change in energy (left side) corresponding to dif -
+ferent processes (right side) and making this change the focus of the curriculum 
+(Eylon and Lehavi 2014). Thus, the 1st law was not taught at the middle school 
+level, but rather, it served as a means of organizing the curriculum.
+The various processes by which a system can change are characterized by a 
+change in variables such as height, temperature, and speed, among others. The 
+change in value (increase or decrease) of each of these variables characterizes a 
+specific change (process) in the system. Such changes in the characterizing vari -
+ables, each corresponding to a certain process, indicate a corresponding change 
+(increase or decrease) in the value of the energy of the system. Such an interpreta -
+tion of the first law of thermodynamics is in accordance with both Joule’s approach 
+(although he did not use the concept of energy as such) and the scientific view of 
+2 Recall Lavoisier and Laplace’s calorimetric experiment that showed how processes in animals are 
+energetically (and chemically) similar to a combustion reaction.
+3 Although many of these phenomena were not known to Joule, his approach is often used for 
+measuring the heating/cooling they induce.
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 257 ---
+239
+energy as one entity (Moore 1993). It follows that energy, like any other scientific 
+entity, can change only by its value. Thus, changes in kinetic energy, height energy, 
+and chemical energy, among others do not represent changes in different forms of 
+energy. These ‘forms’ are just labels that refer to the different processes by which 
+the value of the energy of a system can increase or decrease.
+Science puts emphasis on changes and processes and employs changes in the 
+value of energy to describe them. Notably, science provides no definite method by 
+which the energy value of a system can be determined. In fact, the energy value of 
+a system is relative and can be determined up to an arbitrary constant (Fermi 1936). 
+However, this ambiguity does not affect the first law of thermodynamics, since this 
+law is not concerned with the energy value but instead, with the quantitative changes 
+in this value. Thus, from a scientific point of view, although energy itself cannot be 
+determined without ambiguity, since it has no absolute zero value, a change in the 
+quantity of energy4 can be measured and thus, it is of physical importance.5 A good 
+example of this view adopted by science is that the rest mass of the objects within a 
+system is not often mentioned (e.g., in an electric circuit or when an apple falls), 
+although it is responsible for most of the energy related to the system. This mass 
+cancels out since only changes in energy matter (Quinn 2014, p. 18).
+It is apparent from our discussion that the 1st law is not regarded by us as repre-
+senting the energy conservation law. We adopted the view that in certain systems 
+(termed isolated since any change within them is not accompanied by any change in 
+their surroundings and vice versa) any increase in energy related to one or more 
+processes is counterbalanced by a decrease in energy related to one or more other 
+processes. Such a balance can be the subject of an empirical inquiry after we arrived 
+at a good quantification of energy change in processes characterized by changes in 
+different variables. In this respect, energy conservation becomes a refutable law.
+9.2.3  Philosophy of Science (PS): The Meaning of Scientific 
+Concepts and Theory-Experiment Relationships
+Science teaching should have a have deep commitment to philosophy (Gilbert 2006, 
+p. 5; Matthews 2015). Pleasingly many philosophers recognize the place of philoso-
+phy in science teaching:
+It is well known that there is a strong interaction between the philosophy of science and the 
+science of each generation. It is less often stated clearly that there is also an interaction 
+between these two and the teaching of science in so far as it is the philosophy of science 
+which molds the general attitudes which form the foundations of the various theories of 
+science teaching. (Elkana 2000 p.463)
+4 In the literature, energy change is often used as a synonym for energy transformation. Here we use 
+the term solely to describe the change in the value of energy: its increase or decrease.
+5 See: Fermi 1936; Quinn 2014, p. 18; Reif 1967, p. 202; Reif 1965, p. 129.
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 258 ---
+240
+However, Feigl and Brodbeck (1953, p. 5) claimed that philosophy of science was 
+concerned mainly with describing the structure of science itself. The structure of 
+science, not surprisingly, has also been the concern of prominent science 
+educators:
+By linking concept clusters that have common physical variables, one can create larger 
+structures that ultimately encompass all of physics. The approach to definitions, empirical 
+relationships, and theoretical relationships has to be consistent among the clusters that are 
+linked…. there is considerable freedom in the choice of quantities to be defined and derived. 
+The exact choices that are made will determine the structure that is obtained. (Karplus 
+1983, p. 240)
+Elkana further supports this view:
+In whatever light we see this interaction, one thing will be admitted by all; in every age it is 
+the philosophy of science which forms the image of science in the eyes of the masses,... It 
+is not less important that it is this philosophy which determines what is ‘good science’ and 
+thus determines how it should be taught. (Elkana 2000 p.464–465).
+The importance of providing meaning to data brings back Schwab‘s observation 
+that the epistemology of science is not only about its procedures—it is heavily 
+based on interpretation. This, as stressed by Monk and Osborne (1997), has implica-
+tions for curriculum development since curriculum developers should be obliged to 
+focus not merely on scientific inquiry skills but also on interpretive discussions of 
+the data found. The curriculum should therefore include grounds on how “scientists 
+come to know what they do” (Shapin 1992).
+Karplus‘comment with regard to the freedom a curriculum planner has in choos-
+ing which concepts to define and which to derive led us to also consider, in addition 
+to developing inquiry skills, the meanings provided to concepts and how such mean-
+ings are gained. This naturally brings to fore concepts definition and their connec -
+tion to theory-experiment relationships. The context of science education also calls 
+to interrelate it to PS by stressing the important role of theories and by addressing 
+explicitly the nature of science in the curriculum (Duschl 1985, 1990, 2000)
+Moreover, since science presents a culture, learning of science presumes encul -
+turation from inside and/or outside (Tseitlin and Galili 2005). Expanding the prac-
+ticing of science presents enculturation from inside. During such a process, 
+conceptual knowledge is constructed by experience in many contexts. Explicit and 
+concise articulation and contemplation of concept meaning might seem less impor-
+tant than application of physical knowledge. This attitude is, however, natural for 
+“normal science” (Kuhn 1970) rather than for revolutionary research. In the latter, 
+the concept’s meaning might represent the major issue of interest (Bridgman 1952).
+9.2.3.1  Addressing Scientific Concepts in Relation to Their Definitions
+We adopted Elkana‘s approach that philosophy of science can assist in choosing the 
+‘teaching theory’ for curriculum development design:
+…We should also aim at grounding our theories of science teaching in that philosophy of 
+science which at present seems to us the most advanced. (Elkana 2000)
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 259 ---
+241
+Traditionally, philosophy of science was largely concerned with the meaning of the 
+scientific concepts, with special attention given to their definitions (Bridgman 1964; 
+Copi and Cohen 1990; Hempel 1966, 1970; Margenau 1950). Schwab ( 1964) 
+stressed the importance of concept definitions with regard to the structure of a sci -
+entific discipline, as well as in educational scientific epistemology (comprising syn-
+tactic knowledge and its relation to measurement) and in scientific content 
+(substantive knowledge). He regarded concept definitions as necessary for the 
+coherent presentation of a subject in science owing to their role in the organization 
+of scientific knowledge.
+Thus, philosophy of science was considered in our curriculum development 
+approach since science education requires clarity with regard to the meaning of the 
+concepts used. The scientific activity also requires the use of concept definitions in 
+order to make such concepts useful for scientific endeavors:
+A concept is useless if it does not appear in relation to other concepts, or if we fail to sup -
+port it with clear definitions. (Holton 1985, p. 221)
+Many types of definitions were found to exist (Angeles 1981). However, only 
+two of them, nominal (theoretical) and operational (epistemic), are in accordance 
+with the fundamental schools of scientific thinking: rationalism and empiricism 
+(Margenau 1950; Matthews 2015).
+A nominal definition seeks to establish the meaning of a concept by relating it to 
+other concepts and by listing its characteristics. Within the nominal definitions, one 
+can distinguish between several types: textual (such as “the weight of the body is the 
+gravitational force acting on it”), “definitory formula” (Braithwaite 1955) (such as 
+W = mg), and characteristics (such as “weight is a vector”).
+Positivist philosophy recognized that the explanation of nature - unlike in math -
+ematics - requires more than just theoretical definitions of the concepts involved. 
+This development, which was apparent in Einstein‘s (1905) use of the concepts of 
+time, simultaneity, and length, led to an appreciation of the fundamental role of the 
+operational definition of physical concepts (Bridgman 1923/1964, p. 36). Thus, an 
+operational definition defines the concept in terms of a particular measurement, 
+indicating the apparatus and the conditions of measurement. Such a definition con-
+stitutes the concept’s epistemic aspect:
+Ideally, each concept used in physical sciences can be made clear in terms of some such 
+definition, and that is the mechanism whereby mutual understanding among scientists is 
+made possible. For it is clearly more difficult to misinterpret action than words. (Holton 
+1985, p. 222)
+Karplus (1981) claimed that operational definitions have a didactical advantage in 
+that they are more accessible to students but warns about their weakness with regard 
+to the structure of physics:
+The extensive use of operational definitions relates concepts directly to the students’ experi-
+ence and more-or-less familiar objects. Yet physics relationships among concepts must then 
+be obtained from experiments that are carried out with the errors and uncertainties of such 
+procedures, from teacher claims about such experiments that have been carried out by 
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 260 ---
+242
+ others (i.e., researchers in physics), or by means of theoretical derivations and “thought” 
+experiments. (Karplus 1981, p. 240)
+Note how in that claim Robert Karplus relates to science, science education 
+research, science philosophy and, by referring to ‘researchers in physics’, also to the 
+history of science. Hence, his approach was for us a way to interrelate all four 
+disciplines.
+However, Bunge realized that the operational definitions of physical concepts are 
+not clear without any theory (Bunge 1963 pp. 60–61). Therefore, both theoretical 
+(constitutional) and operational (epistemic) definitions should be employed in 
+defining a given concept (Margenau 1950 pp. 220–244).
+In the context of science education, the quality of definitions was regarded as an 
+indicator of coherence (Bächtold & Guedj 2014; Galili and Lehavi 2006). Swartz 
+(1999) drew attention to the many flaws in definitions, such as applying circular rea-
+soning in connection with Newton’s Second Law, found in textbooks of which teach-
+ers should be aware. Stinner ( 1992) and Hestenes ( 1998) stressed the essential 
+contribution of definitions to the effectiveness of instruction. Operational definitions 
+of physical concepts have been strongly advocated by several leading researchers in 
+physics education (Arons 1965, 1999; McDermott 1996, 1997; Reif 1965). With 
+regard to energy, providing a definition was found to be important in supporting teach-
+ers and increasing their confidence (Kruger 1990, Stylianidou and Ogborn 1999).
+Teachers and textbooks were found to provide additional types of definitions to 
+the theoretical and the operational (Galili and Lehavi 2006). Lexical (descriptive) 
+definitions (Copi and Cohen 1990) were identified as a subcategory of the nominal 
+definitions. Definitions in this subcategory describe concepts informally, as in a 
+general dictionary, but not in a manner sufficient for a rigid discipline. The concepts 
+were usually related to common experiences, sensations, or ideas and they used 
+non-formal terms. For example, energy is often defined by relating it to fuel, sun’s 
+light, or electricity. The reliance on a descriptive rather than a quantitative approach 
+might cause difficulties (Mclldowie 1995). Textbooks have rarely followed the 
+advanced texts (e.g., Landau and Lifshits 1960) and they related energy to time 
+symmetry and thus avoided its mere postulation. Such definitions were often far 
+from accurate and never referred to measuring operations.
+9.2.3.2  Addressing Experiment-Theory Relationships
+The experiment-theory relationship is another strand of the philosophy of science 
+discourse that can influence curriculum design, especially when considering 
+whether to construct a concept’s understanding deductively or inductively. With 
+regard to energy, such a consideration can assist when one needs to decide how 
+concrete (vs. abstract) energy should be presented in a curriculum.
+According to the generative view (Koponen and Mäntylä 2006), adopting the 
+epistemology of experiments requires an inductive justification of knowledge that 
+can foster and guide students’ own knowledge construction. It was claimed that the 
+epistemological role of experiments in physics may help to reconstruct the use of 
+experiments in their historical perspective. Thus, insights from history and philoso-
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 261 ---
+243
+phy of physics should be taken into account if one wishes to design an experimental- 
+based curriculum and train teachers accordingly.
+9.2.3.3  Implications for Energy Curriculum Design
+Several approaches for addressing the challenge posed by the problems of defining 
+energy have been suggested: (a) Avoiding a definition (Poincare 1903/1952, p. 167; 
+Feynman 1964), (b) A mechanical definition as “the ability to do work”, (c) A defi-
+nition as “the cause of events” (Millar 2000), (d) A definition based on an opera -
+tional definition of energy change (Karplus 1981),6 and (e) Developing energy 
+transfer and transformation as a theoretical framework that accounts for changes in 
+very different systems (Bächtold and Guedj 2014; Papadouris et al. 2008).
+It is apparent that in most cases if a definition of energy is provided, it would be 
+formulated as a nominal theoretical definition rather than an operational one. The 
+first two approaches seem to provide no or an incomplete answer to the question 
+what is energy. The third definition, a causal definition of energy, as discussed by 
+Ogborn (1986) and Millar ( 2000), is incorrect since it is entropy (or free energy), 
+that can be said to ‘make things happen’. The ‘work’ definition of energy could 
+hinder our goal of unifying the concept of energy because it is hardly applicable for 
+non-mechanical processes such as light absorption or chemical reactions. In fact, 
+any mechanical-based definition of energy (e.g., through motion) will fail to unify 
+such phenomena and therefore, it will be limited in rendering the idea of energy 
+conservation plausible.
+Consider, for example, using a pendulum in order to convey the energy conserva-
+tion idea. Any classroom observation will demonstrate that the pendulum “loses 
+height” as it swings until it stops its motion. This will happen even in vacuum. 
+Therefore, if one relates energy to motion, the direct interpretation of observing the 
+pendulum’s motion will be that it lost its energy. In order to start looking for the 
+“lost” energy, one assumes that energy is conserved and then one is also compelled 
+to relate energy to phenomena other than motion. Hence energy dissipation and 
+energy conservation are inseparable (Solomon 1982). However, following such an 
+argumentation, students may find the unification of energy difficult and may view 
+the structure of science as being based on cyclic reasoning.
+Furthermore, the fact that students are very familiar with such non-mechanical 
+processes stresses the didactic weakness of employing the mechanical definition.
+Approaches (c) – (e) share in common the emphasis they put on processes and 
+changes. The last two approaches, (d) & (e), seem to complement each other; however, 
+they share an epistemic difference: (d) employs an operational definition of energy 
+change, whereas (e) presents energy as an abstract, trans-phenomenological concept.
+6 Karplus suggested defining operationally the energy of a system relative to a system of ice and 
+water at 0 °C as: “the mass of ice melted as the system comes to equilibrium with a mixture of ice 
+and water”. We consider this as a definition of the change in energy rather than the energy itself, 
+since the result of such a measurement also depends on the relative motion and position of the 
+measured system and the ice-water system.
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 262 ---
+244
+Note that although energy does not lend itself to an operational definition (or, 
+perhaps to any definition), a change in the energy of a system does. Therefore, keep-
+ing in mind Karplus‘educational insights with regard to the advantage of using such 
+definitions from the students’ perspective, we decided to design the curriculum for 
+middle school level around an operational definition of energy change.
+Approaches (d) & (e) naturally directed us to follow Joule‘s approach and to 
+establish a list of different processes (e.g., a change in height, a change in speed, and 
+a chemical change) that share their capability to produce the same effect: changing 
+the temperature of a certain object.7 Choosing the temperature change of a standard 
+object as our ‘ruler’ for measuring energy change, rather than some mechanical 
+device, also enables, beyond the unification of the energy concept mentioned above, 
+to avoid the difficulties posed by the 2nd law of thermodynamics, i.e., that a 
+mechanical process can terminate with heating as the only final result but not vice 
+versa (Arons 1999).
+According to the operational approach, the teachers would have a valid rationale 
+to justify the unification of the concept of energy change for cases where a change 
+in temperature occurs:
+Changes in characterizing variables (of certain processes) →   ∆T (of a standard object) ≡  ∆E
+The generalization to other processes is left for the next steps of the procedure. This 
+approach enabled us to provide a definition of energy change as a quantification of 
+processes:
+‘Energy change’, corresponding to some process, is the maximal change in the temperature 
+of a standard object that this process can induce.
+Or, less formally: ‘Energy change’ is the capability of a process to induce warming or 
+cooling.
+‘Energy change’ thus, provides a measure of the change in a system when it goes 
+from one state to another through some process. The details of the process are not 
+significant - only the difference between the different states. Note that the role of a 
+system is greatly emphasized according to this approach. In addition, our definition 
+enables to quantify energy change when a system undergoes a process and there -
+fore, it differs from defining the energy of a system as its capacity to produce a 
+change (Bächtold and Guedj 2014).
+It should be clarified that the operational definition does not mean that the energy 
+of a system does not change if there is no (or very little) change in temperature when 
+a characterizing variable of a process changes. It only means that if one wishes to 
+ascribe energy change to such a process, one has to refer to a measurement in which 
+the change in temperature is the only change corresponding to the changing vari -
+able. Thus, if one wishes to analyze the swinging of a pendulum in terms of change 
+in energy from the beginning of the swing to some intermediate position, one has 
+first to ascribe independently, via measurement, energy change to the change in 
+7 Karplus‘suggestion has merit in that the change in the ice mass is the only change in an ice-water 
+system, whereas using a thermometer also involves volume changes. However, carrying out a 
+measurement such as that suggested by Karplus is not feasible in most classrooms.
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 263 ---
+245
+height and the change in speed. One can then arrive empirically to the idea that the 
+decrease in energy related to the decrease in height almost equals the increase in 
+energy related to the increase in speed.
+9.2.4  Science Education Research (SER): Studying Students’ 
+and Teachers’ Pertinent Knowledge and Difficulties
+Science education research provides information about students’ and teachers’ 
+known pertinent knowledge and difficulties regarding various scientific concepts 
+and ideas. Furthermore, analysis of textbooks can shed light on how a certain sub -
+ject is planned to be presented and taught. The presentation can be categorized with 
+respect to the different aspects of the concept on hand. 8 With regard to the special 
+concept of energy, SER found that it presents a great challenge for teaching. The 
+literature indicates that students lack a proper understanding of: (I) what energy is 
+(its definition) and what is the meaning of: (II) energy forms, (III) energy transfor-
+mation and transfer, and (IV) energy conservation (Duit 1984, 1985).
+SER also indicates several additional challenges. Students have difficulties to 
+relate quantitative and qualitative knowledge (Goldring and Osborne 1994) with 
+regard to energy and difficulties related to the interrelation of work and energy and 
+to the role of a system in this regard (Lindsey et al. 2009, 2012). The definition of 
+energy seems to pose difficulties even to teachers (Trumper 1998, Galili and Lehavi 
+2006). In the past, many doubts were raised about the use of ‘forms of energy’ in 
+teaching. Millar (2000, 2014) points out that very often energy forms serve as a list 
+of labels to be remembered by pupils and that such forms add little, if at all, to 
+explanations and understanding of phenomena. He further argues that energy forms 
+may also complicate explanations by adding unnecessary variables and can even 
+lead to incorrect analyses of processes. Most important to our approach, energy 
+forms may hinder the importance of processes and weaken the unifying image of 
+energy (Ellse 1988; Mak and Young 1987; Summers 1983).
+Commonly, graduate-level physics textbooks define energy through a gradual 
+construction: First, work is defined and then, when applied to various forces (e.g., 
+gravitation or elastic), different expressions are obtained by defining the 
+ corresponding types of energy (Galili and Lehavi 2006). This method shows that 
+many “types” of energy are based on the definition of work. However, this approach, 
+as discussed above, may face difficulty in addressing heat or radiation. Hence, such 
+phenomena are often postulated as additional options of energy transfer.
+The concept of energy is rarely given a universal definition to which the learner 
+can refer when considering something called “energy”. Thus, energy cannot be well 
+distinguished from other concepts (e.g., force) and is not sufficiently inclusive to 
+account for its different “types”. Therefore, the definitions of energy often lack the 
+8 With regard to energy, see the comprehensive summary of Michelini and Stefanel (2010).
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 264 ---
+246
+requirement of the scientific method, namely that a definition of a concept will dif-
+ferentiate it from other concepts and clarify its essence (Cohen and Nagel 1939, 
+p. 232, 238). This, possibly, impedes a systematic exploration of the subject matter 
+(e.g., the application of energy rather than force to chemical or biological systems).
+Parallel to these deficiencies, there is a lack of consensus among physics educa-
+tors as to the proper language by which energy should be described (Wolter and 
+Martin 2002). In particular, the meaning of the above-mentioned four aspects is not 
+agreed upon (Michelini and Stefanel 2014). For example, whereas energy is consid-
+ered not to be a substance, the language used to describe some of its aspects (mainly 
+energy transfer) may suggest a substance interpretation of energy.
+Official international education standards and national curricula often leave 
+much room for interpreting the meaning of the four aspects of energy. For example, 
+the New Framework for K-12 Science Education uses terms like energy generation 
+(e.g., pp. 9, 43), energy flow, and energy transfer (e.g., pp. 84, 89, 92, 93), energy 
+storage (e.g., pp.  96, 121) without explicating their meaning (National Research 
+Council 2012). Under the headline “What is energy?” the framework states: “That 
+there is a single quantity called energy is due to the remarkable fact that a system’s 
+total energy is conserved”. Such a statement clarifies the unitary aspect of energy 
+but not the meaning of the concept (there are other conserved entities in science). 
+The fact that various forms of energy still exist in the framework may also weaken 
+the unitary statement. Energy as a quantitative property of a system is mentioned 
+only once (p. 123) without specifying how its value can be determined. Moreover, 
+scrutinizing the framework reveals that energy is predominantly mentioned with 
+relation to its changes during processes due to transfer, interactions, and reactions, 
+rather than its value within a system. This may provide a hint as to the importance 
+of using energy changes rather than energy to describe and analyze processes and 
+changes, as suggested by Hecht (2007).
+The SER literature suggests that although forms of energy or its transformations 
+do not have a solid scientific status, they are very useful in science teaching. Thus, 
+in designing the curriculum we were challenged to develop teaching materials in 
+order to address the students’ difficulties and the teachers’ need to possess a clear 
+view regarding the meaning of the concepts they teach.9 In designing these  materials, 
+we gave special attention to the unitary nature of energy and to the coherent mean-
+ing of such terms as energy “forms”, “transfer”, “transformation/conversion”, and 
+conservation.
+In order to follow the goals of coherence and consistency, the curriculum design 
+required us to make didactical choices with regard to which definition to choose,  
+whether to focus on energy or on energy change to refer to energy forms or to avoid 
+them, among other choices. We will demonstrate later possible ramifications of 
+making different curricular choices with regard to the example of the energy change 
+related to changes in speed (“kinetic” energy).
+9 It is not surprising that the Framework (pp. 95,96) calls for the need to have “a common use of 
+language about energy and matter across the disciplines in science instruction” and that “the lan -
+guage of energy needs to be used with care so as not to further establish misconceptions”.
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 265 ---
+247
+Consequently, we had to make decisions concerning how to interweave the con-
+tent and the means to support students in constructing their pertinent knowledge and 
+understanding.
+One can observe that many of the difficulties regarding the understanding of 
+energy, as reported by SER, may be related to the “language of energy” as described 
+above. These observations are summarized in the following table. We formulated 
+the difficulties that were found to puzzle learners in terms of questions, and catego-
+rized them according to the corresponding energy curriculum challenges:
+9.3  Teachers’ Concept-Image of Energy
+In parallel to our curriculum design, we conducted research on teachers’ concept 
+images of energy. It revealed that their concept image may pose a great challenge 
+for curriculum design (Lehavi and Eylon 2014). We found that many teachers 
+declared that energy is one entity, but, at the same time, many also did not agree 
+with the statement that energy only changes in its value. Moreover, regarding energy 
+transformations in general, the extent of agreement among the teachers regarding 
+the unity of energy was considerably less. A similar picture of teachers’ views was 
+observed in their responses regarding specific cases of energy forms or types. There 
+is an apparent gap between the teachers’ statements regarding the unity of energy 
+and their opinion regarding energy transformations and forms. This gap may indi -
+cate that the idea that energy is a unified concept is not fully accepted and is not 
+clearly related to terms such as energy transformations and forms.
+Most of the teachers indicated that the energy of an object is a relative quantity. 
+However, their responses to questions that addressed specific cases revealed that 
+many abandoned this idea in favor of the idea that energy is a property pertaining to 
+a single object that is absolutely determined. This view ignores the systemic view of 
+energy as is apparent in the case of an object’s height energy, which disregards the 
+Earth as a part of the system. In addition, most of the teachers hold the view that 
+energy is contained within an object, which further weakens the relativistic view of 
+energy. Only a few teachers agreed with the statement that a single procedure of 
+measurement can be used to measure energy changes, and with regard to measuring 
+energy itself, most of them did not respond. This may indicate that the teachers are 
+confused with regard to the idea of unifying the concept of energy via measurement 
+or they may even reject it. This, together with the confusion regarding the possibility 
+of measuring energy changes by a single procedure, may have implications regard-
+ing the ability of many teachers to teach their students about the unification of energy.
+With regard to energy conservation, our findings indicate that the energy conser-
+vation law (ECL) is perceived as an irrefutable law. This is supported by teachers’ 
+views of the limitations of measurement with regard to energy. Such a view of the 
+conservation law assigns it a special status as a scientific law. Furthermore, the view 
+that energy cannot be created or destroyed does not support the systemic view of the 
+energy conservation law and might actually strengthen the material view of energy. 
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 266 ---
+248
+We found that the two aspects - energy conservation and energy transformations - 
+nearly mirror each other in the teachers’ views. Apparently, one is the reason for the 
+other and, at the same time, its result. This view may suggest that some teachers 
+regard ECL not as a basic law but as being derived from energy transformation. 
+Such views possibly hinder a coherent justification of both energy transformation 
+and the energy conservation law.
+These findings may indicate the difficulties one may face in fostering a coherent 
+teaching of the energy concept in such a way that energy forms (or types) together 
+with energy transformation and transfer will be consistent with the unity of energy 
+and its conservation (Eylon and Lehavi 2014).
+9.4  Curriculum Design Decisions
+Here we will depict the framework we employed in developing an ‘energy change 
+approach’. We will describe the points considered in this development and will pro-
+vide specific examples from the curriculum.
+It should be stressed that we focused on the teachers’ concept image of energy. 
+We therefore decided to support the unitary image of energy by regarding energy 
+types/forms as labels of different processes  in which the value of energy changes 
+(i.e., increase or decrease) rather than perceiving the existence of different types of 
+energies. The notion of energy increase/decrease assisted us in providing coherent 
+meaning to confusing concepts such as energy transformations, energy transfer, and 
+energy conservation. The finding that the teachers’ declarative knowledge was not 
+always in accordance with their deep-rooted beliefs and knowledge led us to con -
+struct ideas and activities that support their declarative knowledge. For example, the 
+teachers’ doubts regarding whether it is possible to construct an energy concept on 
+the basis of experiments led us to generate simple and easy-to-use Joule-like experi-
+ments (Lehavi 2014; Lehavi et al. 2014a, b, 2016). Thus, we aimed at focusing the 
+teachers’ attention on the following observations:
+9.4.1  Central Observations
+As pointed out previously (Table 9.1), we opted in the energy curriculum to provide 
+meaning to energy forms, transformations, conversions, transfer, and conservation. 
+This required us to draw the students’ attention throughout their learning to the fol-
+lowing observations:
+A. Co-variance of Changes An observation of various processes in nature revealed 
+that they cannot be described by the change in one variable only. For example, when 
+an object falls, its height decreases and its speed increases; when an object absorbs 
+light there is less light and the object heats up.
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 267 ---
+249
+Table 9.1 Energy teaching challenges and their relations to energy curriculum challengesa, b
+Teaching challenges Curriculum challenges
+(a) Is energy a material entity? (I) How can a definition be employed 
+in order to provide meaning to energy?(b) Is energy related to living things only?
+(c) Is energy a force?
+(d) How can we distinguish the energy scientific 
+content from its everyday meaning?
+(e) What makes energy one concept and not many?
+(f) Is energy an absolute or relative entity?
+(g) Can we measure energy or is it only an abstract 
+concept?
+(h) What does ‘energy of an object’ mean? (e.g., 
+energy of a chocolate bar)?
+(i) How can we indicate the characteristics of energy 
+(e.g., its conservation or relativeness) if we don’t know 
+what energy is?
+(j) Why does energy, unlike other physical concepts, 
+have forms?
+(II) What meaning can be ascribed to 
+energy forms (types)?
+(k) What makes these forms manifest the same entity?
+(l) How do we know that one or more forms of 
+energy can be transformed into other forms?
+(III) What meaning can be ascribed to 
+energy transformations/conversions/
+transfer?(m) Is energy transformation a consequence of energy 
+conservation?
+(n) How do work and heat relate to energy change?
+(o) If energy is not a material entity, how can it move 
+from one object to another?
+(p) How do we know that energy is conserved? (IV) What meaning can be ascribed to 
+energy conservation?(q) Is energy conservation an empirical law of nature?
+(r) Can one, in principle, refute the energy 
+conservation law?
+(s) Is energy conservation a consequence of energy 
+transformation?
+(t) Does energy conservation mean that energy cannot 
+be created or destroyed?
+(u) Does energy conservation mean that energy cannot 
+be created or destroyed?
+(v) Why does energy conservation hold only for 
+isolated systems?
+(w) If energy is conserved, what is the meaning of 
+energy sources?
+(x) How can energy conservation be applied?
+aIn some cases the difficulties from one category are closely related to those belonging to another 
+category
+bMost of these questions were the focus of the Discussion of Strand on Energy in Lower Secondary 
+School, held at Girep 2010, Reims
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 268 ---
+250
+This observation enabled us to relate to energy changes in simultaneous pro -
+cesses. Simultaneous changes can occur solely within a system or also in the system 
+and in its surroundings. The simultaneity of changes enabled us to generalize the 
+concept of energy change and to apply it to cases beyond those described by tem -
+perature change.
+B. Opposite Arrows of Change A further observation revealed that simultaneous 
+changes always occur in such a way that some of them correspond to an increase in 
+energy and others to its decrease.
+C.  Simultaneous Changes in Energy Can Counterbalance Each Other  The 
+previously mentioned feature of opposite arrows of changes in nature does not nec-
+essarily imply that the corresponding changes in energy are mutually counterbal -
+anced. This remains to be determined experimentally. One has to verify that for 
+simultaneous changes to occur, the increase in energy corresponding to some 
+changes equals the decrease in energy corresponding to the others.
+D. Isolated Versus Non-isolated Systems The concept of simultaneous changes 
+can be used to define operationally an isolated system:
+An isolated system is one that any change within it is not coupled by changes in its sur -
+roundings and vice versa.
+Note that since the borders of a system are defined arbitrarily, one can transform a 
+non-isolated system into an isolated one by expanding its borders.
+E. Energy Conservation From observations A – D one can determine empirically 
+that in an isolated system the energy increase corresponding to some processes of 
+change is balanced by the energy decrease corresponding to other processes. 
+Therefore, one can regard energy conservation as an empirical law that, in principle, 
+is refutable.
+9.4.2  Didactical Decisions
+Considering the four disciplines as resources for guiding our curriculum design 
+decisions led us to agree on the following didactical principles:
+Focus on Observations To encourage students: to observe various processes and 
+draw their attention to the changes involved in them without first using the concept 
+of energy; to look for as many processes as they can that cause a thermometer to rise 
+or fall in temperature; to look for a common feature that enables one to compare 
+different processes 10; to focus on energy increase or decrease as characterizing 
+changes (processes) in nature rather than focusing on energy as characterizing static 
+states.
+10 Some students say that time can be that common feature. A great idea!
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 269 ---
+251
+Unification To unify the concept of energy change (its increase or decrease) by 
+providing an operational definition based on Joule-like experiments, based on the 
+change in temperature of a standard object.11
+Reinterpretation To keep the traditional vocabulary owing to its convenience and 
+frequent use, but suggest a new meaning to it:
+ – Energy transformations and transfer are presented as a convenient way to talk 
+about energy increase and decrease in coupled processes and systems, 
+respectively.
+ – Energy conservation is presented as an empirical observation of the balance 
+between energy increase and energy decrease related to processes occurring in 
+isolated systems.
+Table 9.2 presents how our curricular decisions employed observations from 
+Science, HS, PS, and SER:
+9.4.3  Example: Different Definitions Imply Different 
+Approaches to Teaching Energy Related to Motion
+The following is an example of how one can adopt different definitions of energy 
+change in order to arrive at the well-known expression for when an object stops:
+∆Ek ∝ v2–0
+ A. A work-based definition:
+ (a) ∆E  ≡ W ≡ F.∙∆s = (ma) ∙∆s = (m v
+s s
+22 0
+2
+- ×D D)  ∝ v2–0
+ B. An operational definition:
+ (a) ∆E  ≡  ∆T (of a standard object) ∝ v2–0 (as measurements show)
+Note that the first alternative requires knowledge of Newton’s laws and kinemat-
+ics in their mathematical formulation. Such sophistication is beyond the middle 
+school level. The operational definition (alternative B), on the other hand, is based 
+on knowledge of temperature measurement and the fact that a change in tempera -
+ture, being a common result of different processes, can be agreed to define energy 
+change. Such a view is well within the reach of our students, demonstrating rather 
+well what Karplus‘claim (p. 10) with regard to operational definitions.
+11 We used a simple kitchen thermometer that has a metal “sleeve” with the sensor inserted in it. 
+The sleeve can be regarded as a standard object.
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 270 ---
+252Table 9.2 Employing science, HPS, and SER in making curricular decisions
+Alternatives Observations from science, SER, and HPS Our decisions
+1. Which concept should be 
+emphasized: Energy (static 
+states) or energy change 
+(processes)?
+Scientists are mostly concerned with changes in the value of 
+energy in different kinds of processes (the 1st law of 
+thermodynamics) rather than in its absolute value, which is 
+more ambiguous
+To emphasize changes in the value of energy and hence, 
+on the processes by which a system’s state can change
+2. Provide the emphasized 
+concept with an abstract or a 
+concrete definition?
+Scientists and PS scholars regard operational definitions to 
+be unambiguous. SER found that students and teachers have 
+difficulties in understanding the abstract meaning of energy
+To relate energy changes (increase or decrease) to a 
+specific measurement: Temperature change of a 
+standard object
+3. Many “energies” (types/forms) 
+or one?
+Scientists regard energy as one concept. SER found that 
+students have difficulties in accepting the unitary nature of 
+energy and that the community of “experts” dealing with 
+energy (teachers, engineers, and scientists) find the terms of 
+energy forms to be useful.
+To keep the terms of energy forms or types. To unify 
+these terms through energy change by referring to a 
+feature common to many kinds of processes: Their 
+ability to warm or cool (a calorimetric approach 
+following joule and Karplus). Thus, we defined energy 
+change as a measure of the maximal ability of a process 
+to induce change in the temperature of a standard object
+4. Energy transfer interpretation: 
+a substance “flow” or a change in 
+the value of energy?
+Scientists regard energy transfer as a systemic feature: Its 
+increase or decrease owing to a system’s interaction with 
+another system (the 1st law of thermodynamics). SER found 
+that students often regard energy as a kind of substance that 
+can move from place to place
+To relate to energy transfer in terms of a simultaneous 
+decrease and increase of energy in interacting systems
+5. Energy transformations: a 
+change between different types/
+forms of energy or a change in 
+the value of energy?
+Scientists did not reach a consensus regarding the scientific 
+meaning of energy transformations. SER found that energy 
+transformations, although useful for classroom discourse, 
+strengthen the “many energies” concept
+To relate to energy transformations in terms of a 
+decrease and increase of energy in simultaneous 
+processes
+6. Energy conservation: a 
+postulated character of energy or 
+a systemic, empirically based 
+law?
+Scientists regard energy conservation either as coming from 
+a general symmetry or as a systemic feature (through the 1st 
+law of thermodynamics). SER found that teachers have 
+difficulties in justifying energy conservation
+To construct energy conservation as a systemic law 
+representing the balance (supported by experiments) 
+between the simultaneous increase and decrease of 
+energy in certain systems
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 271 ---
+253
+9.5  Implementation
+The subject of energy is addressed directly in the Israeli middle school curriculum 
+in grades 7 and 9. In addition, energy is addressed in grade 8 as part of a unit on 
+electricity, and also in grade 9 as a part of a unit focusing on biology. At the middle 
+school level the national curriculum addresses topics such as energy forms, energy 
+transfer, energy transformations, and energy conservation and relates them to vari-
+ous phenomena. The main leap from the 7th grade level to the 9th grade level is that 
+the latter requires introducing mathematical representation. Note that the Israeli 
+national curriculum lets the textbook authors choose their own preferred didactics.
+The curriculum resources that were designed according to the above approach 
+were implemented in Israel in two phases: (a) Developing teaching materials for 7th 
+and 9th grade science teachers 12; (b) Developing textbooks for 7th and 9th grade 
+levels. These phases were accompanied by special workshops for teachers.
+In phase (a) the teachers were provided with a rationale explaining why energy 
+is the “language of changes”, followed by suggestions for classroom activities, such 
+as simple experiments and demonstrations. The teaching materials also offered the 
+teachers specially designed questions that emphasize changes rather than static 
+states. For example, instead of asking what is the energy of a book standing on a 
+shelf (given the book’s mass and height above the floor), we asked what would be 
+the change in energy when the book falls from that shelf to the floor; or, instead of 
+asking what is the energy of a moving car (given its mass and speed relative to the 
+road), we asked what would be the change in energy when the car stops. Similar 
+questions were developed for other phenomena. The teaching materials that 
+appeared during the years 2011–2012 interweaved teaching, learning, and 
+ assessment. The materials also offered a graphical representation that calls attention 
+to processes in systems and the corresponding changes in energy (Fig.  9.1).
+These materials are used by most of the science teachers in 7th to 9th grade. 
+However, although mentioned in the rationale, these materials did not strictly follow 
+the operational definition of energy change as mentioned above.
+The materials for the 7th and 9th grades also added the operational definition of 
+energy change by introducing the idea that many changes in nature can be quanti -
+fied by measuring the change in the temperature of a standard object (a calorimetric 
+approach).13 Thus, these materials also offered Joule-like experiments such as those 
+described previously (Lehavi 2014; Lehavi et al. 2014a, 2016).
+In phase (b) the textbooks developed at the Weizmann Institute followed the 
+approach described previously by referring explicitly to the students’ (and teach -
+ers’) attention to the following aspects of energy as a language of changes:
+12 These materials were developed, in addition to the authors of the current paper, by Rami Arieli, 
+Amnon Hazan, Ayelet Weizman, Yael Bamberger, Tammy Yechieli, Oren Eckstein, and Roni 
+Mualem.
+13 These units are not the only ones used in our system, which is in the middle of shifting from the 
+old curriculum to the new one.
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 272 ---
+254
+ 1. Processes: Different processes in nature, characterized by changeable properties 
+(parameters/indicators) such as height or speed, can be quantified by energy 
+change.
+ 2. Simultaneous (or coupled) changes: Changes in nature are always accompanied 
+simultaneously by other changes.
+ 3. Unity: Energy is considered to be a single quantity because its increase or 
+decrease in different processes can be uniquely quantified via measurement. 
+Different “types” or “forms” are only labels representing different processes in 
+which energy increases or decreases (and thus they are not really different).
+ 4. Measurability: Increases or decreases in energy can be verified experimentally. 
+The results of such measurements can be generalized and used in mathematical 
+expressions (for 9th grade level only).
+ 5. The meaning of “Energy transfer”:  Simultaneous energy increase and decrease 
+in interacting systems.
+ 6. The meaning of “Energy transformation”: An increase and decrease in energy in 
+different kinds of simultaneous processes.
+ 7. Conservation: The overall simultaneous changes in energy within certain systems 
+(called isolated systems) are measured (or calculated, based on measurement gen-
+eralizations) to mutually cancel out each other. In this respect, we wish to clarify 
+that any classroom experiment can only support this idea as a plausible inference. 
+We addressed it quantitatively in both grades (7th and 9th) with regard to the heat 
+phenomenon by measuring the change in temperature of two identical objects 
+having different temperatures. The students were able to observe that the decrease 
+in energy of the hotter object equals the increase in energy of the colder one.
+For the case of energy conservation during decreased height, we referred to it in 
+the 9th grade as follows: First we established through Joule-like experiments that a 
+linear relation between an energy change (measured by a change in temperature) 
+and the height change is plausible. Then we did the same for the quadratic relations 
+between the change in speed and in energy (again, measured by a change in tem -
+perature). We then demonstrated that for a falling body there is a linear relation 
+between the decrease in the energy corresponding to the decrease in height and the 
+Changes (speed, temp...)
+Energy increase related to
+each change
+Energy decrease related to
+each change
+System(s) before System(s) after
+Fig. 9.1 Energy change diagram
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 273 ---
+255
+increase in energy corresponding to the increase in speed.14 From these two experi-
+ments, together with all the qualitative examples of energy mutual increase/decrease, 
+we were able to present the energy conservation as plausible inference.
+We will describe here the structure of the 7th grade unit 15 developed at the 
+Weizmann Institute: “A first Look at Energy”, which was intended to lay the foun-
+dation for further development in the 8th and 9th grade units. The unit comprises 
+five themes (Table 9.3).
+9.6  Conclusion
+We examined the importance of considering science, HS, PS, and SER when design-
+ing a coherent science curriculum for teaching energy and discussed in detail how 
+they were used. SER provided answers to the question, what is required in the 
+energy language in order to address the difficulties exhibited by students and teach-
+ers. Science provided us with the principles and laws that should be addressed, 
+together with their interpretations. PS was examined in order to determine how to 
+make scientific concepts meaningful and relate to the scientific structure regarding 
+energy. HS gave us the means to justify scientific claims. In addition, the philosophi-
+cal discourse regarding the experiment-theory relationship and the meaning of 
+14 We analyzed a video of a falling object.
+15 Written by Amnon Hazan and Yael Bamberger, The Science Teaching Department at the 
+Weizmann Institute of Science, Rehovot, Israel.
+Table 9.3 The 7th grade unit components (14 lessons, 45 min each)
+Subject Key ideas
+1. Energy – Phenomena 
+& changes
+Energy increase or decrease can describe different types of 
+processes
+Each process can be characterized by some changeable property
+A change in temperature can indicate a change in energy
+2. Energy conservation 
+(an empirical approach)
+A decrease in energy is always accompanied by its increase
+Observations and measurements show that in some systems energy 
+increase is counterbalanced by energy decrease
+3. Energy change Energy transfer means the simultaneous energy increase/decrease in 
+interacting systems, and energy transformation means the 
+simultaneous energy increase/decrease in processes of different 
+types
+4. Where is the missing 
+energy?
+Changes in thermal energy cannot be fully reused
+5. Energy change in 
+warming and cooling
+Heat is the gain in energy of a system due to its interaction with a 
+warmer system
+Heat is related to radiation, convection, and conduction.
+Heat can indicate an open system
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 274 ---
+256
+scientific concepts, with special attention to their definitions, provided essential and 
+rich support in making curriculum and development decisions.
+Note that each of the four PHES in our approach was employed not just for the 
+sake of presenting them and discussing their role in understanding science, but 
+rather, as a resource to be considered when designing a science curriculum. We 
+regarded the PHES disciplines as important for providing guidelines for designing 
+a curriculum rather than as bodies of knowledge from which the content of the cur-
+riculum should be enriched. This is especially salient with regard to the history of 
+science. Although in our 9th grade textbook16 we discuss the caloric theory as well 
+as different alternatives to define weight, these are not considered by us as guide -
+lines but rather as contents that we found important to be included in our textbook. 
+In contrast, adopting operational definitions from PS (as well as from SER) and the 
+Joule-Karplus thermal approach from HS, provided us with guidelines regardless of 
+the important question of whether or not this choice should be presented explicitly 
+to the students. Although the guidelines illustrate the approach to teaching energy, 
+they can also be used for teaching other concepts such as electric charge or force. 
+For example, our 8th grade unit on electricity relates the concept of electric charge 
+to electroscope measurements and after discussing this topic, the different features 
+of electric charge are studied.
+We, as well as others (Eylon and Hofstein 2015), regard curriculum design as a 
+discipline of its own that has undergone considerable changes in emphases and 
+approaches. Like PS, HS the process of a curriculum design requires the examina -
+tion of science in order to make it comprehensible. However, unlike those disci -
+plines, the target population of the science curriculum designers is not the designers’ 
+community and its goal is not a scholarly investigation. Curriculum design is mainly 
+concerned with making didactical choices with students’ and teachers’ communi -
+ties in mind, along with practical ramifications. Therefore, it requires knowledge 
+from the SER discipline.
+It should be emphasized that we do not advocate only one way of using PHES in 
+curriculum design. For example, one may wish to emphasize in a specific curricu -
+lum the evolution of science and hence, lean more heavily on HS or that part of PS 
+that is devoted to the history of scientific discourse. In the case of energy, this would 
+probably result in a curriculum much different from the one presented here – one 
+that elaborates on how the concept of energy evolved in the course of scientific 
+discourse. To cite another example, a curriculum that emphasizes contemporary sci-
+ence may highlight, as the New Framework for K-12 Science Education does, the 
+role of fields with regard to energy. Nevertheless, we believe that in making any 
+such curricular choices, the role of SER in the designing process should be central.
+The idea that a curriculum design process should integrate multiple perspectives 
+is not new. More than 40  years ago, Schwab ( 1973) argued that such a process 
+should involve five commonplaces: subject matter, learners, milieus, teachers, and 
+curriculum making. Our approach addresses all of these aspects, especially if one 
+16 The 9th grade textbook was developed, in addition to the authors of the current paper, by Adi 
+Rosen, Uri Ganiel, and Amnon Hazan.
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 275 ---
+257
+accepts Null‘s (2011) interpretation of the subject matter as involving content and 
+methods. However, since it is not clear in Schwab’s framework whether and how 
+considerations from PS and HS should be involved, we believe that our approach 
+may complement this framework in curriculum design theory.
+References
+Adúriz-Bravo, A., & Izquierdo-Aymerich, M. (2005). Utilising the ‘3P-model’ to characterise the 
+discipline of didactics of science. Science & Education, 14(1), 29–41.
+Angeles, P. A. (1981). Dictionary of philosophy. New York: Harper & Row.
+Arons, A. B. (1965). Development of concepts in physics. Reading: Addison-Wesley.
+Arons, A. B. (1999). Development of energy concepts in introductory physics courses. American 
+Journal of Physics, 67, 1063–1067.
+Bächtold, M., & Guedj, M. (2012). Towards a new strategy for teaching energy based on the his -
+tory and philosophy of the concept of energy. In Innovative methods for science education: 
+History of science, ICT and inquiry based science teaching  (pp. 225–238). Berlin: Frank & 
+Timme.
+Bächtold, M., & Guedj, M. (2014). Teaching energy informed by the history and epistemology of 
+the concept with implications for teacher education. In M. R. Matthews (Ed.), International 
+handbook of research in history, philosophy and science teaching  (pp. 211–243). Dordrecht: 
+Springer.
+Bevilacqua, F. (2014). Energy: Learning from the past. Science & Education, 23(6), 1231–1243.
+Braithwaite, R. B. (1955). Scientific explanations. Cambridge: Cambridge University Press.
+Bridgman, P. W. (1936). The nature of physical theory. New York: Dover Publications.
+Bridgman, P. W. (1952). The nature of some of physical concepts. New York: Philosophical Library.
+Bridgman, P. W. (1964). The nature of a physical theory. New York: Wiley.
+Bunge, M. (1963). The myth of simplicity. Englewood Cliffs: Prentice-Hall.
+Bunge, M. (2000). Energy: Between physics and metaphysics. Science & Education, 9 (5), 
+459–463.
+Chisholm, D. (1992). Some energetic thoughts. Physics Education, 27, 215–220.
+Cohen, M. R., & Nagel, E. (1939). An Introduction to logic and scientific method . New York: 
+Harcourt.
+Coopersmith, J.  (2015). Energy, the subtle concept: The discovery of Feynman’s blocks from 
+Leibniz to Einstein (Revised ed.). Oxford: Oxford University Press.
+Copi, I. M., & Cohen, C. (1990). Introduction to logic. New York: Macmillan.
+Duit, R. (1984). Learning the energy concept in school—Empirical results from the Philippines 
+and West Germany. Physics Education, 19, 59–66.
+Duit, R. (1985). In search of an energy concept. In The paper was presented at the conference on: 
+Teaching about energy within the secondary school science curriculum. Leeds: The University 
+of Leeds.
+Duschl, R. (1985). Science education and philosophy of science, twenty-five years of mutually 
+exclusive development. School Science and Mathematics, 87, 541–555.
+Duschl, R. (1990). Restructuring science education: The role of theories and their importance . 
+New York: Teachers’ College Press.
+Duschl, R. (2000). Making the nature of science explicit. In R. Millar, J. Leech, & J. Osborne 
+(Eds.), Improving science education: The contribution of research (pp. 187–206). Philadelphia: 
+Open University Press.
+Einstein, A. (1905/1952). On the electrodynamics of moving bodies. In His: The principle of rela-
+tivity. New York: Dover.
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 276 ---
+258
+Elkana, Y . (2000). Science, philosophy of science and science teaching. Science & Education, 9, 
+463–485.
+Ellse, M. (1988). Transferring, not transforming energy. School Science Review, 69, 427–437.
+Eylon, B., & Hofstein, A. (2015). Curriculum development and change in the sciences. In 
+R. Gunstone (Ed.), Encyclopedia of science education (pp. 258–264). Heidelberg: Springer.
+Eylon, B-S., & Lehavi, Y . (2014). Position paper: Energy as the language of changes. In: Kaminski, 
+W., & Michelini, M. (Eds.), Proceedings of selected papers of the GIREP-ICPE-MPTL inter-
+national conference, Reims 2010, France (pp. 789–790). Università degli Studi di Udine, Italy.
+Feigl, H., & Brodbeck, M. (1953). Readings in the philosophy of science . New  York: 
+Appleton-Century-Crofts.
+Fermi, E. (1936). Thermodynamics. New York: Dover.
+Feynman, R. (1964). Feynman’s lectures on physics (V ol. I, pp. 4-1–4-8). Reading: Addison-Wesley.
+Galili, I., & Lehavi, Y . (2006). Definitions of physical concepts: A study of physics teachers’ 
+knowledge and views. International Journal of Science Education, 28(5), 521–541.
+Gilbert, J. K. (2006). Science education: Science, education, and the formal curriculum  (V ol. 1). 
+New York: Routledge.
+Goldring, H., & Osborne, J.  (1994). Students’ difficulties with energy and related concepts. 
+Physics Education, 29, 26–32.
+Hecht, E. (2007). Energy and change. The Physics Teacher, 45(2), 88–92.
+Hempel, C. G. (1966). Philosophy of natural science. Englewood: Prentice-hall.
+Hempel, C. G. (1970). Aspects of scientific explanations. New York: Macmillan.
+Hestenes, D. (1998). Who needs physics education research!? American Journal of Physics, 66 , 
+465–467.
+Holton, G. (1985). Introduction to concepts and theories in physical science. Princeton: Princeton 
+University Press.
+Karplus, R. (1981). Educational aspects of the structure of physics. American Journal of Physics, 
+49(3), 238–241.
+Karplus, R., Pulos, S., & Stage, E. K. (1983). Early adolescents’ proportional reasoning on ‘rate’ 
+problems. Educational studies in Mathematics, 14(3), 219–233.
+Koponen, I. T., & Mäntylä, T. (2006). Generative role of experiments in physics and in teaching 
+physics: A suggestion for epistemological reconstruction. Science & Education, 15, 31–54.
+Kruger, C. (1990). Some primary Teachers’ ideas about energy. Physics Education, 25, 86–91.
+Kuhn, T. S. (1962/1970). The structure of scientific revolutions. Chicago: University of Chicago 
+Press.
+Kuhn, T.  S. (1977). The essential tension: Selected studies in scientific tradition and change . 
+Chicago: University of Chicago Press.
+Landau, L. D., & Lifshits, E. M. (1960). Mechanics. Oxford: Pergamon Press.
+Lehavi, Y . (2014). Reproducing joule’s experiment(s) in teaching the concept of energy. In 
+Michelini, M. and Heron, P. (Organizers), Symposium: Teaching and learning the concept of 
+energy from early childhood school through university. In Taşar, M. F. (Ed.) Proceedings of the 
+world conference on physics education 2012, (pp. 491–498). Pegem Akademi, Istanbul, ISBN 
+978-605-364-658-7.
+Lehavi, Y ., & Eylon, B. S. (2014). Teachers’ concept image of energy. In L. Dvořák & V . Koudelková 
+(Eds.), Proceedings of the international conference on physics education: Active learning – In 
+a changing world of new technologies. Prague: MATFYZPRESS publisher/Charles University 
+in Prague. ISBN 978-80-7378-266-5. 492-500.
+Lehavi, Y ., Eylon, B. S., Hazan, A., Bamberger, Y ., & Weizman, A. (2014a). Focusing on changes 
+in teaching about energy. In M. F. Taşar (Ed.), Proceedings of the world conference on physics 
+education 2012. Istanbul: Pegem Akademi. ISBN 978-605-364-658-7, 491-497.
+Lehavi, Y ., Eckstien, O., & Rosenzweig, G. (2014b). A simple kit for detecting quantitative 
+changes in energy. In L.  Dvo řák & V .  Koudelková (Eds.), Proceedings of the international 
+conference on physics education: Active learning  – In a changing world of new technolo -
+Y. Lehavi and B.-S. Eylon
+
+--- PAGE 277 ---
+259
+gies (pp. 1219–1225). Prague: MATFYZPRESS publisher/Charles University in Prague. ISBN 
+978-80-7378-266-5.
+Lehavi, Y ., Amit Yosovich, A., & Barak, S. (2016). Bringing joule back to school. School Science 
+Review, 97(361), 9–14.
+Lindsey, B. A., Heron, P. R. L., & Shaffer, P. S. (2009). Student ability to apply the concepts of 
+work and energy to extended systems. American Journal of Physics, 77(11), 999–1009.
+Lindsey, B.  A., Heron, P.  R. L., & Shaffer, P.  S. (2012). Student understanding of energy: 
+Difficulties related to systems. American Journal of Physics, 80(2), 154–163.
+Mak, S. Y ., & Young, K. (1987). Misconceptions in the teaching of heat. School Science Review, 
+68, 464–470.
+Margenau, H. (1950). The nature of physical reality (pp. 220–244). New York: McGraw-Hill.
+Matthews, M. R. (2015). Science teaching: The contribution of history and philosophy of science. 
+New York: Routledge.
+Mclldowie, E. (1995). Energy transfer  – Where did we go wrong? Physics Education, 30 (4), 
+228–230.
+Michelini, M., & Stefanel, A. (2014). Approaches and learning problems in energy teaching/learn-
+ing: an overview. In: Kaminski, W., & Michelini, M. (Eds .), Proceedings of selected papers 
+of the GIREP-ICPE-MPTL International Conference , Reims 2010 , France, (pp.  779–788) 
+Università degli Studi di Udine, Italy.
+McDermott, L. C. (1997). Bridging the gap between teaching and Learning: The role of 
+research. In E. F. Redish & J. S. Rigden (Eds.), The changing role of physics departments in 
+modern universities: Proceedings of ICUPE  (pp. 139–165). Woodbury: American Institute 
+of Physics.
+McDermott, L. C., & The Physics Education Group. (1996). Physics by inquiry, Vol. I & II. New 
+York: Wiley.
+Millar, R. (2000). Energy. In D. Sang (Ed.), Teaching secondary physics (pp. 1–43). London: John 
+Murray.
+Millar, R. (2014). Teaching about energy: From everyday to scientific understandings. School 
+Science Review, 96(354), 45–50.
+Monk, M., & Osborne, J. (1997). Placing the history and philosophy of science on the curriculum: 
+A model for the development of pedagogy. Science Education, 81, 405–424.
+Moore, G. S. M. (1993). General, restricted and misleading forms of the first law of thermodynam-
+ics. Physics Education, 28(4), 228–237.
+National Research Council. (2012). A framework for K-12 science education: Practices, crosscut-
+ting concepts, and core ideas . Committee on a conceptual framework for new K-12 science 
+education standards. Board on Science Education, Division of Behavioral and Social Sciences 
+and Education. Washington, DC: The National Academies Press.
+Null, W. (2011). Curriculum: From theory to practice. Lanham: Rowman & Littlefield Pub..
+Ogborn, J. (1986). Energy and fuel: The meaning of the go of things. School Science Review, 68, 
+30–35.
+Papadouris, N., Constantinou, P., & Theodora Kyratsi, T. (2008). Students’ use of the energy 
+model to account for changes in physical systems. Journal of Research in Science Teaching, 
+45(4), 444–469.
+Poincare, H. (1905/1952). Science and hypothesis. New York: Dover.
+Quinn, H. (2014). A physicist’s musings on teaching about energy. In R.  Chen, A.  Eisenkraft, 
+D. Fortus, J. Krajcik, J. Nordine, & A. Scheff (Eds.), Teaching and learning of energy in K-12 
+education (pp. 15–36). London: Springer.
+Reif, F. (1965). Fundamentals of statistical and thermal physics. New York: McGraw-Hill.
+Reif, Frederick. “Berkeley physics course.” (1967).
+Rudolph, J. L. (2000). Reconsidering the `nature of science’ as a curriculum component. Journal 
+of Curriculum Studies, 32(3), 403–419.
+9 Integrating Science Education Research and History and Philosophy of Science…
+
+--- PAGE 278 ---
+260
+Schwab, J.  J. (1964). Structure of the discipline: Meaning and significance. In G.  W. Ford & 
+L. Pugno (Eds.), The structure of knowledge and the curriculum  (pp. 6–30). Chicago: Rand 
+and McNally.
+Schwab, J.  J. (1973). The practical 3: Translation into curriculum. The School Review, 81 (4), 
+501–522.
+Shapin, S. (1992). Why the public ought to understand science-in-the-making. Public 
+Understanding of Science, 1, 27–30.
+Solomon, J. (1982). How children learn about energy—Or: Does the first law come first? School 
+Science Review, 63, 415–422.
+Stinner, A. (1992). Science textbooks and science teaching: From logic to evidence. Science 
+Education, 76(1), 1–16.
+Stylianidou, F., & Ogborn, J. (1999). Teaching about energy in secondary schools: The case of two 
+innovations and Teachers’ transformations of them. In M. Komorek, H. Behrendt, H. Dahncke, 
+R. Duit, W. Gröber, & A. Kross (Eds.), Proceedings of international conference . Dordrecht: 
+Kluwer.
+Summers, M. K. (1983). Teaching heat - an analysis of misconceptions. School Science Review, 
+64, 670–676.
+Swartz, C. (1999). Book report: Survey of high-school physics texts. The Physics Teacher, 37(5), 
+283–308.
+Trumper, R. (1998). A longitudinal study of Israeli physics students’ conceptions of energy in 
+pre-service training for high school teachers. Journal of Science Education and Technology, 
+7, 311–318.
+Tseitlin, M., & Galili, I. (2005). Physics teaching in the search for its self: From physics as a disci-
+pline to physics as a discipline-culture. Science & Education, 14(3–5), 235–261.
+Wolter, H. K., & Martin, J. G. (2002). ‘Forms of Energy’, an intermediary language on the road to 
+thermodynamics? Part I. International Journal of Science Education, 24(1), 81–95.
+Y. Lehavi and B.-S. Eylon

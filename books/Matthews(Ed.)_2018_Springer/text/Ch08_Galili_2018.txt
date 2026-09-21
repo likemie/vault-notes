@@ -1,0 +1,1371 @@
+Title: Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching and Learning of Science
+Pages: 222-252
+
+--- PAGE 222 ---
+203
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_8
+Chapter 8   
+Scientific Knowledge as a Culture: 
+A Paradigm for Meaningful Teaching 
+and Learning of Science             
+Igal Galili
+8.1  Introduction
+Science education research in part studies the ways in which scientific knowledge is 
+represented for teaching and learning purposes. Such a goal naturally seeks to be 
+informed by the most representative and essential features of scientific knowledge 
+as established by research in history and philosophy of science (HPS). Though edu-
+cators share many views in this regard, there is controversy regarding some features 
+which are of principal importance (Matthews 2012; Lederman et  al. 2014): 
+objectivity- subjectivity, theory-experiment, theory dependence of observation, 
+tentativeness- certainty, theory-model and theory-law relationships, etc. A recently 
+published HPS&ST Handbook (Matthews 2014) represents the wide breadth of the 
+pertinent discourse in this regard, and this essay touches on some of it in relation to 
+the new inclusive framework of curricular contents oriented to Cultural Content 
+Knowledge (CCK).
+The problematic of this discourse stems from the complexity of science teaching 
+and the multidisciplinary nature of research in the field. Science teachers require 
+knowledge of subject matter, pedagogy, cognitive science, history and philosophy 
+of science (Fig.  8.1). Commonly, the first three are addressed in pre-service pro -
+grams of teacher training. Yet, even a basic knowledge of history and (especially) 
+philosophy of science is very often totally lacking in such programs.1 In such a situ-
+ation, teachers’ knowledge of the philosophy of science is inevitably superficial and 
+this makes them an easy prey of various trends of superficial philosophical thought.
+Seeing frequent confusion regarding epistemology among teachers encouraged 
+us to look for a curricular framework, which could protect the practitioner providing 
+1 For instance, this is the situation in Israel.
+I. Galili (*) 
+Science Teaching Center, The Hebrew University of Jerusalem, Jerusalem, Israel
+e-mail: igal.galili@mail.huji.ac.il
+
+--- PAGE 223 ---
+204
+a wider a more mature representation of scientific knowledge – metaknowledge, 
+drawing on basic aspects of HPS. The core idea of the suggested change is to con -
+sider scientific knowledge as a kind of cultural system, a discourse of ideas rather 
+than a univocal discipline. This perspective mediates between scientific knowledge 
+and the learner constructing understanding of science.
+In the following, we will first depict science knowledge composed of a few fun-
+damental theories as a special type of culture, so that disciplines become discipline- 
+cultures (Tseitlin and Galili 2005). We will review applications of this paradigm to 
+the contents of science curriculum: presenting scientific revolutions, involvement of 
+HPS, conceptual change of students learning science and their interests in science. 
+The essay proceeds and depicts the implementations of CCK (Cultural Content 
+Knowledge) perspective in three curricular approaches: CCK based curriculum, 
+conceptual excursus and summative lecture. Finally, the cultural perspective 
+expands on some epistemological issues suggesting complementarity and integrated 
+account in order to clarify and refine such epistemological oppositions as theory-  
+model, objective-subjective in scientific knowledge.
+8.2  Knowledge as a Culture
+The term culture is extremely inclusive. It designates the entirety of human products 
+(Tylor 1871/1920). Hofstede (1991) reduced it to a subset of material and spiritual 
+products with the productive activities distinguishing one group from another. Thus, 
+science is clearly distinct from history, religion, philosophy, arts, even if it is often 
+interwoven with them. It employs a different methodology, possesses different goals 
+and values. It is common to consider science as interacting with culture in specific 
+social aspects (e.g. Bevilacqua et al. 2001). Other researchers elaborate the features 
+characterizing the activities, behavior, internal relationships of scientists as a social 
+group (e.g. Latour 1987). Still another popular meaning of culture considers ethni-
+cal traditions, habits of different civilizations in the ways they accounted for nature, 
+the kind of knowledge and knowledge production different from those adopted in 
+the western science (e.g. Aikenhead, Aikenhead 1997; Ma 2012; Liu 2015).
+Subject matter 
+knowledge
+History of 
+Science
+Pedagogy
+Philosophy 
+of Science
+Cognitive 
+science
+Science 
+Teaching
+Fig. 8.1 Areas of 
+proficiency required from 
+science educators
+I. Galili
+
+--- PAGE 224 ---
+205
+Physics knowledge, as we know it, is composed of a few fundamental theories, 
+each presenting an organized and internally coherent set of interrelated concepts, 
+principles, laws and their derivatives all together describing and interpreting fea -
+tures of world organization in a unified structure (Heisenberg 1959/1971; Weizsacker 
+1985/2006; Weinberg 1992).2 Each such theory presents a “picture of the world” 
+(Einstein 1918), valid not globally but in a certain area of experience and degree of 
+accuracy/reliability.
+There is a specific perspective in which knowledge itself is considered as a cul -
+ture (Lotman 2010). Lotman distinguished two types: the culture of rules and the 
+culture of texts. Within the first type, the well-defined rules regulate relationship 
+among knowledge elements in certain area, making clear their correct-incorrect sta-
+tus (e.g. jurisprudence). The culture of texts allows grouping knowledge elements 
+around canonical exemplars (e.g. art). One may consider scientific knowledge as a 
+culture of rules composed of disciplines such as mechanics, electromagnetism, ther-
+modynamics, etc. Each group of knowledge elements affiliated with a discipline can 
+be  represented by a fundamental theory structured in terms of nucleus-body-  
+periphery – “discipline-culture” (Tseitlin and Galili 2005). Such representation is 
+not only hierarchical but also reflects scientific knowledge as inherently discursive, 
+yet specific in validation in terms correct-incorrect and including epistemological 
+norms. Considering scientific knowledge as a culture creates an encompassing and 
+adequate picture of such knowledge. It may serve as a guidance in the selection 
+relevant HPS materials in the curriculum design, clarifying their role and possible 
+involvement. This approach was exemplified in developing the historico-philosoph-
+ical perspective on teaching optics (Galili 2014).
+Discipline-culture codifies scientific theory in a tripartite structure (Fig.  8.2). Its 
+first area, nucleus, includes fundamentals – the principles of ontological and episte-
+mological nature, paradigmatic model and basic concepts. The second one, body 
+knowledge, includes the elements subdued to the nucleus. They could be derived 
+from and reduced to the fundamentals as well as being empirical and non-  
+contradictive with the nucleus. Body knowledge incorporates more specific laws, 
+secondary concepts, explanations of particular phenomena, experiments (actual and 
+2 Though we address the fundamental theories of physics, the stated regarding theory representa -
+tion holds also regarding theories in biology (e.g. theory of evolution) and chemistry (e.g. classifi-
+cation of elements).
+12 3
+Fig. 8.2 The structure of 
+discipline-culture: 
+1-nucleus, 2– body 
+knowledge, 3- periphery
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 225 ---
+206
+thought), technology, etc.3 To better represent the nature of scientific knowledge as 
+a culture, one should, however, expand and include elements of a third type  – 
+periphery. The elements of periphery are at odds with the pertinent nucleus. 
+Periphery includes challenging problems and alternative accounts. By challenging 
+certain nucleus, the periphery of  the correspondent theory determines the meaning 
+of the nucleus as well as informs about the boundaries of the theory so often 
+remained implicit and not known to the novice. In that, periphery touches on the 
+tradition of apophatic and comparative approaches in philosophy (e.g. Libbrecht 
+2009). Scientific knowledge codified and structured in terms of discipline-cultures, 
+is defined as cultural content knowledge (CCK) and establishes a framework of the 
+new type of science curriculum (Galili 2012).
+Furthermore, since learning scientific concepts could be considered somewhat 
+similar to the process of learning of a foreign language (Vygotsky 1986)  −  the 
+learning “from outside” – identifying scientific knowledge as a culture cannot be 
+left for students to discover; instruction should introduce the codification of knowl-
+edge and its structure.
+8.3  Cultural Content Knowledge Advantages
+8.3.1  Scientific Revolution and History of Physics
+We can apply the introduced structure to representation of conceptual change taking 
+place in science during scientific revolution, replacement of the fundamental theory. 
+Instead of seeing this process as a sequential exchange of theories, each dismissing 
+the previous, CCK suggests an inclusive and more realistic image incorporating 
+competitive ideas. This is because:
+At almost any period in history, one can find a vast range of ideas existing simultaneously. The 
+important question is which of the variety of ideas available at an earlier period got adopted 
+and transmitted to later periods, and thus shaped later interpretations. (Giere 1999, p. 88)
+Consider, for example, the theory of how the world is organised. Its first scientific 
+account took the form of the geocentric theory. Its nucleus included principles of 
+Aristotelian physics, the paradigmatic model of concentric spheres, fundamental con-
+cepts (circular motion, spherical universe, the basic elements, etc.). The body knowl-
+edge of that theory included working models of Eudoxus and Apollonius,4 auxiliary 
+concepts (epicycle, equant), accounts of seasons, equinoxes, eclipses and other 
+3 This definition excludes identification of a theory as either syntactic (based on axioms and theo-
+rems) or semantic (based on models) type (van Fraassen 1980, p. 44; Giere 1988, p. 48), incorpo -
+rating knowledge elements of both types in addition to principles, concepts, experiments, 
+epistemological rules, etc. In fact, it depicts a theory as it is used and taught in physics class: clas-
+sical mechanics, electromagnetism, thermodynamics and so on (Tseitlin and Galili 2005).
+4 For simplicity, we may ignore here the mismatch of epicycle-based model with Aristotelian princi-
+ples, which caused Lakatos to introduce protective belt around the core of the theory (Lakatos 1978).
+I. Galili
+
+--- PAGE 226 ---
+207
+ phenomena as depicted in Ptolemy‘s Almagest. The body knowledge included col-
+lected data, instruments (quadrant, Jacob’s staff) and methods of measurement (paral-
+lax, shadow patterns). Importantly, however, the rival (heliocentric and Earth spinning) 
+accounts of Pythagoras, Heraclites, and Aristarchus were present from the beginning 
+establishing permanent debate (Ptolemy 1952, pp. 6–14; Heath 1966). Various schol-
+ars continuously introduced new elements of periphery through the period of two 
+millennia. The increasing tension between the nucleus and periphery caused the revo-
+lutionary change, a breakthrow and rearranging of elements: during the Copernican 
+revolution, the heliocentric model moved to the nucleus, and the geocentric model – 
+to the periphery. The body elements transformed to adjust the new nucleus.
+Importantly, the elements of the new and old knowledge were interrelated within 
+one system. One may get this spirit of conceptual unity and continuity from 
+Einstein‘s perception of his contribution to physics theory. He wrote to his biogra-
+pher (quoted in Miller 1986, p. xx):
+With respect to the theory of relativity, it is not at all a question of a revolutionary act, but 
+of a natural development of a line which can be pursued through centuries.
+CCK-based description visualizes this pursuit in the space of scientific discourse, 
+displaying the meaning of crisis and following revolutionary change as described by 
+Kuhn (1957, 1970). Yet, in the cultural perspective, the knowledge elements of the 
+old nucleus are preserved after being refuted. They remain within the horizon of the 
+new theories of the world organization.
+8.3.2  Theories Relationship
+The controversy of fundamental physics theories is often addressed by claiming 
+their incommensurability − an essential mismatch of the scientific paradigms (Kuhn 
+1970). The tripartite model of discipline culture allows clarification of this relation-
+ship. In particular, the nucleus of one fundamental theory ought to be located in the 
+periphery of the other (Fig.  8.3). Yet, at the same time, the body areas of these theo-
+ries may overlay representing the cases where the same phenomenon or problem is 
+treated by the two theories producing commensurable results.
+For example, in the limit of low velocities both classical and relativistic mechan-
+ics provide physically equivalent results despite the essential contradiction between 
+the nuclei of these two theories. The tripartite structure illustrates the meaning of the 
+Body1 Body2
+Periphery
+Nucleus1
+Nucleus2
+Fig. 8.3 Representation of relationship between two fundamental physical theories that contradict 
+each other with respect to their fundamentals but may consider the same subject matter
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 227 ---
+208
+principle of correspondence in physics knowledge. It is in this sense that continuity 
+of scientific knowledge is maintained in science showing its cumulative nature as 
+one of its major characteristics. Physics knowledge includes different theories, com-
+plementing each other. They establish relationship known as family resemblance, 
+sharing some features and different in others. It allows to more advanced theories, to 
+draw on the old accomplishments, problem solutions, rather than replacing alto -
+gether the previous knowledge. CCK envisions this type of relationship clarifying 
+the nature of scientific holism and refining the metaphor of “patchwork” for scien-
+tific knowledge (Cartwright 2005). It is inadequate to represent scientific knowledge 
+as a collection of non-related different pieces. Structuring the multiplicity of knowl-
+edge elements in a conceptually related web leads students to establishing metaknowl-
+edge defined as the knowledge of science as an organism in terms of its global 
+features (Novak and Gowin 1984). CCK does it in terms of the tripartite structure.
+8.3.3  Students’ Learning
+The tripartite structure of CCK suggests ways of representing individual conceptual 
+change in learning science. Posner and associates (Posner et al. 1982) saw this pro-
+cess as similar to conceptual change in science and stated the epistemological condi-
+tions for that process to go – dissatisfaction, ineligibility, plausibility and fruitfulness. 
+The individual conceptual change will be represented, then, in similar way to the 
+change of the collective knowledge, as an exchange of contents between nucleus, 
+initially containing naïve conceptions, and the peripheral contents created by the 
+instruction. The implementations of students’ naïve conceptions create correspond-
+ing body knowledge, which serves as a barrier for any change of the nuclear contents. 
+The new knowledge due to instruction enters the periphery first. During the required 
+conceptual change, the new concepts penetrate the nucleus and the naive ones move 
+to the periphery.5 Yet, facing a novel situation, students may retrieve the old contents 
+and apply them again (Galili and Bar 1992). The metaphor of a breakthrough through 
+the barrier of body knowledge may explain the difficulty of conceptual change, its 
+essential difference from replacement as old software in a computer.6
+Furthermore, periphery knowledge stipulates meaningful learning by creation of a 
+“space for learning” (Marton et al. 2004). The periphery creates conceptual variation 
+with respect to the goal of instruction. For instance, the genuine understanding of 
+Newton‘s First Law as the cornerstone of mechanics7 requires addressing  alternative 
+5 Since 1982, the conditions for conceptual change were revised to include other factors. This, 
+however, does not change the idea of using triadic structure to visualize the conceptual change as 
+a breakthrough and elements transfer between nucleus and periphery.
+6 The factors instigating the breakthrough are compared, thus, to the difference of potentials 
+between nucleus and periphery.
+7 Beyond being a special case of the Second Law, as often stated in disciplinary instruction (e.g. 
+Galili and Tseitlin 2003).
+I. Galili
+
+--- PAGE 228 ---
+209
+accounts for motion – those by the Aristotelian and impetus theories. It is through 
+identification of nucleus contents and their comparison with alternatives that concep-
+tual change takes place both in the history of science and in individual learning.
+In other words, by comparison of conceptual accounts, students may learn 
+through considerations similar to those of scientists who changed their mind in the 
+past (e.g. Galili 2015). The awareness of such changes is metalearning. CCK stimu-
+lates students’ metalearning due to the created metaknowledge:
+Learning about the nature and structure of knowledge helps students to understand how 
+they learn… Metalearning and metaknowledge are two different but interconnected bodies 
+of knowledge that characterize human understanding. (Novak and Gowin 1984, p. 9)
+8.3.4  Physics Curriculum
+The CCK paradigm transplants easily to physics curriculum. In common teaching, 
+the theory-based superstructure of physics knowledge is often barely emphasized. 
+Instead, a sequence of concepts, laws, models, instruments, experiments, problems 
+to solve and phenomena to explain flood the learners with a flux of knowledge ele-
+ments without clear organization in a hierarchical structure, in effect promoting the 
+image of a toolbox, or even a “patchwork” (Cartwright 2005). Physics educators 
+often unfold the knowledge from simpler to complex as if building a unique and 
+homogeneous construction.
+The learner often gets an impression of a proportional accretion: the more one 
+learns, the more one knows − more models, solved problems, explained phenom -
+ena, concepts and laws. Principles are often barely distinguished from laws which 
+endlessly multiply themselves along the course. This perspective in which the laws 
+might appear as “…neither universal nor necessary – nor even true” (Giere 1999, 
+p.  90) is refined by discipline-culture organization. Indeed, physics laws are not 
+universal and hold in specified areas of validity. Yet, the physics knowledge is com-
+posed of a few fundamental theories, structured hierarchically. They are much more 
+than “rules for model construction”.8 Although different, they are related, epistemo-
+logically and ontologically. The diminished status of a theory in science curriculum 
+may impede adequate appreciation of scientific knowledge as a culture.
+Instead of a sequential presentation of non-interrelated contents, curricular 
+designers may point to the triadic affiliation of each element of knowledge. We may 
+learn of such approach from Newton. Dealing with specular reflection and  refraction 
+laws, he placed them in the nucleus of his Opticks. At the same time, in his Principia, 
+the same laws appeared as elements of body knowledge: they were derived from the 
+general principles of mechanics. Similarly, presenting thermodynamics one may 
+place the state equation (Mendeleev-Clapeyron) in the nucleus as an empirically 
+8 van Fraassen (2008, p. 266) says: “A well-constructed scientific theory will tell a story, a narrative 
+in which the why is as clearly explained as the what, and we come to understand not only ‘what 
+happens’ but ‘what is really going on’”.
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 229 ---
+210
+based law, whereas in statistical physics the same law would be affiliated with the 
+body knowledge backed by its microscopic underpinning.
+The CCK approach emphasizes the nucleus in each theory, often missed in phys-
+ics class. Thus, such contents of mechanics as space and time, relativity, interaction, 
+inertia being ignored may mask the essential difference with their counterparts in 
+electromagnetism.9
+An important feature of the CCK based curriculum is inclusion of knowledge 
+elements usually considered to be wrong or external, they are in the periphery of the 
+considered theory. For instance, the curriculum of classical mechanics would incor-
+porate the obsolete conceptions of Aristotelian violent and natural motion, medieval 
+impetus. Moreover, such curriculum would point to how classical mechanics essen-
+tially is different from relativistic and quantum. It is also emphasized that the clas -
+sical account is valid in the particular span of space, time and mass magnitudes. By 
+variation, these extensions provide the meaning of the classical conception of 
+motion in the unified picture of physics knowledge.
+The appeal to the alternative ideas specifies HPS involvement surpassing a mere 
+enrichment and scientific literacy. By bringing conceptual alternatives to the fore, 
+the curriculum reveals diachronic and synchronic conceptual debates thus promot -
+ing meaningful learning of scientific disciplines.
+8.3.5  Students’ Typology
+The tripartite structure of discipline-culture suggests a new typology of students 
+with regard to their potential, interests and intentions. Instead of the division 
+between scientists and non-scientists (“good” and “bad” in science) as reflecting 
+“two cultures” (Snow 1959), students may be distinguished in their cognitive pref-
+erences towards the three facets of scientific knowledge corresponding to the three 
+types of knowledge elements of discipline-culture. Some students may show inter -
+est in the rules of the world order (the nucleus), but remain reluctant towards their 
+applications, problem solving, and are satisfied by being informed of the science 
+fundamentals. Other students may prefer solving practical problems (body) taking 
+general principles as given. Such individuals are focused on certain problems that 
+attract them either by challenging their ambition of mastering scientific knowledge 
+or being encouraged by their needs of different nature (e.g. social or techonologi -
+cal). Becoming a competent practitioner implies seeking proficiency in modeling 
+and problem solving. The third type of students is interested in a different aspect of 
+scientific knowledge. Facing the authoritative claims, they raise, however, a ques -
+tion why these laws and not others govern reality.10
+9 The contrast between nuclei of classical mechanics and classical electromagnetism is striking, 
+since electromagnetism is essentially relativistic theory and employs field interaction.
+10 Allegedly, this was the question Einstein mentioned as the one he would ask God if a chance 
+were granted.
+I. Galili
+
+--- PAGE 230 ---
+211
+The students of the first type – “observers-philosophers”  − often meet teachers’ 
+remarks of being superficial, not practical and not serious enough. They are advised 
+to engage in more practice, problem solving, and mastering of mathematical for -
+malism. They are urged not to be “childish dreamers”. Taking seriously such cri -
+tique, such students often leave their science class and move over to humanities. 
+This presents a real loss for our society that badly needs an enlightened population 
+literate in science in order to make educated decisions in a modern democratic soci-
+ety. Worth listening to is one of the leading physicists of our time who said:
+What is important in science (I leave philosophy to others) is not the solution of some popu-
+lar scientific problems of one’s own day, but understanding the world. (Weinberg 2015, 
+p. 24)
+The students who are attracted to the body knowledge – “engineers” – do not 
+need to be pressured. They often please their teachers and are usually supported by 
+the school administration. Such students are often shown in media as easy to present 
+and appreciate. Indeed, they comprise the great reserve for the practitioners, normal 
+scientists and people of technology.
+The third and most controversial type of student is attracted to the periphery 
+knowledge  – where there is debate over ideas. Such students  – “investiga -
+tors”  − often challenge the teachers with philosophical questions. “Correct” and 
+“incorrect” subject matter becomes equally interesting and deserve attention. Since 
+such students may impede the flow of instruction, they might face not a favorable 
+attitude. Yet, before they are called to order, one may recollect that the archaic “phil-
+osophical” ideas of potentiality and actuality in Aristotelian physics inspired the 
+founders of quantum mechanics, students of classical gymnasium. It was the antique 
+idea of the Cartesian plenum that led physicists to the introduction of the field con-
+cept to account for interactions in electromagnetism. The twentieth century intro -
+duction of photons was informed by the seventeenth–nineteenth centuries debates 
+about the particle-wave nature of light in. Recycling of ideas is a norm in physics 
+research and virtue of intellectuality. Therefore, the students of the third type 
+deserve support and encouragement, as they will nourish the new generation of 
+researchers, the science pioneers producing essentially new knowledge  – the 
+extremely important role.
+It is important therefore that science curriculum speaks in three voices corre -
+sponding to the three aspects of CCK, matching the interests important for the soci-
+ety in wider perspective. Moreover, given that people are not born with clear 
+self-identification of their cognitive preferences, each of us must try all three aspects 
+of scientific knowledge to detect and make the correct choice of his/her preference 
+for future occupation, leaving aside the special value of holistic knowledge and the 
+pleasure people receive from multi-faceted intellectuality. The evidence of  relevance 
+of the tripartite typology of students’ preferences emerged from a study introducing 
+discipline-culture in a summative lecture (Levrini et al. 2014) that will be addressed 
+in the following.
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 231 ---
+212
+8.4  The Ways to Provide Cultural Content Knowledge
+After a certain innovation is theoretically considered, the ways to implement it 
+become a subject of experimentation. Feasibility and the nature of impact of any 
+innovation can be checked only through real teaching. We have explored three ways 
+to facilitate construction of CCK in students. Their brief account follows.
+8.4.1  CCK-Based Curriculum
+The first and the most comprehensive way is a production of a CCK-based curricu-
+lum in a certain area of knowledge. We produced a new curriculum for teaching 
+optics – a theory of light and vision – in high school and developed a special text -
+book (Galili and Hazan 2004). A yearlong teaching experiment was performed 
+(Galili and Hazan 2000). The new curriculum included the unfolding discourse with 
+regard to the nature of vision and light, the debate of competitive accounts through-
+out the history of science (Lindberg 1976; Galili 2014).
+Our experience in teaching optics and research in students’ knowledge found 
+evidence of certain recapitulation. Recapitulation implies similarity of ontogeny of 
+knowledge, individual development, and correspondent phylogeny, the develop -
+ment of the pertinent collective knowledge. In the domain of optics and vision such 
+parallelism is presented in Table  8.1.
+Optics teaching involving the diachronic discourse on the nature of light and 
+vision caused resonance with students’ ideas and beliefs. The teachers drew on this 
+similarity in addressing the known misconceptions of students. In a way, CCK of 
+Table 8.1 Conceptual parallelism in optics knowledge
+Historical conceptions Students’ conceptions
+Pythagorean active vision (5th c. B.C.) Active vision scheme
+Euclidean dichotomy of vision and light rays 
+(Ptolemy – 2nd c., Alkindi, 9th c.)
+Rays of sight and rays of light
+Atomists’ conception of Eidola (moving 
+replica, simulacrum, from the observed 
+object) (5th c. B.C.)
+Conception (scheme) of Holistic Image moving 
+in space
+Biblical dichotomy of light as an entity and 
+light as perception (lumen-lux Latin and in 
+photometry)
+Conception of static light located in/around light 
+sources (halo, bright sky) and illuminated 
+surfaces and moving light
+Ibn al-Haytham’s theory of light and vision 
+(11th c.)
+Light comprised of rays and image projection 
+scheme of account for optical image observed 
+by means of light rays
+Pure (white) light and colour as a pigment, 
+attenuation/pigmentation
+Pure (white) light and colour as a pigment, 
+attenuation/pigmentation
+Galili and Hazan (2000)
+I. Galili
+
+--- PAGE 232 ---
+213
+the subject matter vaccinated the learners through their appreciation of the evolving 
+scientific views. We believe that even if the particular student did not develop a 
+particular alternative conception, the learning about such was beneficial. Students’ 
+naïve ideas are often less well reasoned in comparison with historical conceptions. 
+Therefore, comprehension of the pertinent historical debate enriches students’ 
+knowledge instigating conceptual learning. The usually vague intuitive alternative 
+ideas become distinct in their meaning and that helps to analyse them, reveal their 
+rationale and facilitate their refutation. This process may be compared with increas-
+ing the potential difference between the nucleus and periphery leading to a break -
+through – the required conceptual change. Our experiment showed that the suggested 
+curriculum had strong remedial effect on students’ misconceptions (Galili and 
+Hazan 2000).
+8.4.2  Conceptual Excursus
+The second way to provide CCK we explored does not require changes in the regu-
+lar curriculum and facilitates the cultural upgrading of conceptual knowledge by 
+means of complementary studies. It suggests performing a conceptual excursus11 to 
+the historical consolidation of a particular concept that took place in the history of 
+science, identifying the major steps in such process and thus establishing the space 
+of variation of that concept in order to be truly understood. This genre is common in 
+historical studies often focused on certain concept (e.g. Jammer 1957; Lindberg 
+1976). It, however, is marginal in regular disciplinary teaching-learning. We have 
+produced several such HPS-based excursuses to illustrate the idea in educational 
+perspective (Galili 2012). Excursuses may support students’ learning in classes and 
+teachers’ training, in- and pre-service. We picked up several concepts that were 
+interesting and relevant to illustrate this new genre. The problematic nature of the 
+chosen concepts (collision, motion, image, weight and inertial force) calls attention 
+and invites changes in teaching practice. In the following, we briefly illustrate a 
+couple of them.
+8.4.2.1  The Concept of Weight
+The concept of weight is of special interest in science education because it belongs 
+to a cluster of concepts interwoven, interchangeably used and badly distinguished: 
+weight, mass, heaviness, gravity, gravitation. Moreover, there is no consensus 
+among physics educators regarding how this concept should be defined. In many 
+countries weight of a body is defined as the gravitational force exerted on it  
+11 The meaning we address in the notion of excursus is stepping aside of the major line of teaching 
+for elaborating on a certain subject.
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 233 ---
+214
+(e.g. Young and Freedman 2004, 2012),12 while in others, weight is defined as a 
+result of standard weighing. 13 Physics educators argued for the latter followed 
+Reichenbach ( 1927/1958, p.  223) in his epistemological analysis in light of the 
+Einstein principle of equivalence. The debate in physics education started after King 
+(1962) who argued for changing the definition of weight toward the operational one. 
+The concept of weight was discussed (Galili 2001), checked in students’ and teach-
+ers’ knowledge (Galili and Kaplan 1996; Galili and Lehavi 2003, 2006) and experi-
+mentally tested in teaching (Stein and Galili 2014; Stein et al. 2015; Galili et al. 
+2017) showing numerous  advantages of the operational definition of weight. 
+Textbooks slowly change in the account of weight and weightlessness towards the 
+operational definition of weight.14
+Importantly, however, physics textbooks avoid discussing the available choice in 
+the definition of weight, and do not compare between the two options, regardless the 
+way they chose to present the weight concept and related issues (weightlessness, 
+weight changes, etc.). The CCK orientated excursus to the subject suggests an 
+explicit comparison between the approaches. In contrast to disciplinary teaching, 
+the excursus followed the evolution of the pertinent conceptual understanding 
+(Fig.  8.4), displayed the debate of scientists, their discourse and in this way revealed 
+to the learners the rationale underpinning concept definitions in general, the need of 
+12 Such is the definition adopted in the majority of the “Western” world countries (also in Australia, 
+South Korea and many others). This approach culminates in the famous definition: “The weight of 
+a body is the total gravitational force exerted on the body by all other bodies in the universe” 
+(Young and Freedman 2012). The latter has no sense in modern physics epistemology being 
+impossible either to measure, or estimate, or use in solving any problem (Galili 2001).
+13 For instance, Baruch and Vizansky (1937) in Israel, Chaikin (1947/1963) in Russia; Marion and 
+Hornyack (1982) and Knight (2013) in the US.
+14 Hewitt 1992, pp. 176, 179–180, versus Hewitt 2002, pp.159–160; Knight 2004, pp.131–132, 
+versus Knight 2013, pp.146–147; Resnick and Halliday 1966, p. 93 versus Halliday et al. 2001, 
+pp. 80–81
+Newton 
+1687 
+Gravity, 
+weight, mass 
+Gravitational force, 
+Weight force
+Inertial Mass
+Einstein 1916
+Reichenbach 1927
+Gravitational force
+Weight force
+Inertial Mass
+Fig. 8.4 Flowchart of the conceptual change of meaning in the conceptual cluster of mass-weight- 
+gravitation throughout the history of science (Galili 2012)
+I. Galili
+
+--- PAGE 234 ---
+215
+a pair of definitions for each: nominal and operational (Margenau 1950). This 
+requirement presents a new epistemological framework of physics knowledge intro-
+duced in the modern physics, and it is illustrated by the case of weight.
+8.4.2.2  The Concept of Optical Image
+This excursus lays out the genesis of physics knowledge regarding optical imagery 
+and vision. The subject is usually studied at the beginning of optics course. The 
+account for optical images developed in classical Greece, in parallel with the views 
+about the nature of light. Several conceptions of optical image coexisted for years, 
+remaining a subject of a continuous discourse 15 (Fig.  8.5). The excursus traces the 
+evolution of understanding from the Hellenic conceptions (Pythagorean active 
+vision, Atomists’ eidola, Plato’s hybrid understanding, and Aristotle’s medium 
+through transmission), to the Euclidean rays of vision, and the medieval theory by 
+Ibn Al-Haytham (11th c.).
+These accounts preceded the theory of Kepler (17th c.) and thus belong to the 
+periphery of the currently taught light theory of rays − Geometrical Optics. The 
+concept of light rays developed in parallel, changed its status from being the effec-
+tive cause of vision, in the Hellenistic and Medieval physics, to a mere descriptive 
+tool, in Kepler’s ray and Huygens’ wave theories of light. The important opposition 
+between the intromission and extramission theories of vision held for more than 
+1500 years, until Ibn Al-Haytham refuted the extramission theory in the eleventh 
+century. His own theory of image creation though was also erroneous but served as 
+15 Ronchi (1970, 1991), Pedersen and Phil (1974), Lindberg (1976), Russo (2004)
+O I
+Holistic 
+conception
+Image 
+projection
+Mapping by light flux
+Intromission 
+models of vision
+Extramission
+model of vision
+Vision by sight rays
+Fig. 8.5 Historical conceptions with respect to understanding of optical image (Galili 2012)
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 235 ---
+216
+a vital intermediate stage before Kepler who resolved the problem within 
+Geometrical optics – image creation by light flux, instead of single rays tracing the 
+points of an object to its image replica (Lindberg 1976).
+Similar to mechanics, it appeared that the historical conceptions are relevant for 
+physics education. Several researchers reported and analyzed conceptions possess-
+ing clear similarity with the historical models (Table  8.1) (Guesne 1985; Bendall 
+et al. 1993; Galili and Hazan 2000).16 Thus, prior to optical instruction, students 
+often show holistic understanding of optical images travelling through space, remi-
+niscent of eidola of Greek Atomists, as well as the understanding by active vision, 
+visual rays, similar to that by the scientists of Alexandria (Euclid, Ptolemy) and 
+medieval Arabic scholars (Alkindi). Novice learners, after initial instruction, often 
+show the misconception similar to Ibn al-Haytham’s account for vision. It stated 
+that “relevant” light rays, one per image point, create the image. Light rays enter the 
+eye, refract in multiple layers and construct an image on the surface of the eye’s-  
+lens. This process often seems reasonable to learners (Galili et al. 1993; Galili and 
+Hazan 2000; Kim 2011).
+The excursus to imagery in optics creates a space of learning and furnishes genu-
+ine understanding of geometrical optics by conceptual variation and comparison 
+amidst a range of possibilities of image creation. The excursus shows the progress 
+of physics theories: holistic and descriptive (Hellenic), structural and mechanistic 
+(Hellenistic and medieval light rays). The account for image changed from pure 
+qualitative (by means of eidola) to quantitative mathematical providing image con-
+struction and a formula for its location (by means of light rays flux).
+The story of the optical image touches on the nature of science with respect to its 
+identification as a sub-culture of Western culture (Aikenhead 1997). In any event, 
+after the first steps in Hellenic science of Greece the knowledge was promoted in 
+Hellenistic mixed society of the middle East, and then by scientists of Muslim coun-
+tries (Arabs, Jews, Christians) before its arrival to the medieval Europe (Al-Khalili 
+2010).
+The important inference here is that different scholars, regardless their ethnicity 
+shared a specific trend of thought and inquiry of the same subject matter. They drew 
+on the previous research, adopted its results and further developed the relevant 
+knowledge. The optical excursus refines the Kuhnian claim about the incommensu-
+rability of physics theories. Muslim scholars adopted Hellenic and Hellenistic sci -
+ence and saw it as their own. They “were not doing Islamic science. They were 
+doing science” (Weinberg 2015, p. 70). Science clearly appears here as cumulative 
+and continuous, preserving and developing a universal culture with no ethnic, racial 
+or religious essence.17
+16 For a more inclusive list of citations, see Galili (2014).
+17 This claim also touches on the important trend of science education considering Western culture 
+seeking the way to present scientific knowledge in developing countries of the post-colonial world.
+I. Galili
+
+--- PAGE 236 ---
+217
+8.4.3  Summative Lecture
+The third way to provide CCK, summative lecture, though lacking the inclusiveness 
+of the novel curriculum and the depth of historical excursus, might be, however, the 
+most affordable and easily implemented.
+In the past, David Ausubel suggested a special tool – advance organiser – to 
+facilitate and fortify learning (Ausubel 1968). Before teaching a new topic, students 
+are instructed regarding the framework of the knowledge to be considered. The 
+instruction may include the tools to be used, such as the required mathematical for-
+malism. Yet, the major goal in such an approach is displaying the overall idea, the 
+concept. For example, in a biology course, introducing at the beginning the concept 
+of natural selection may serve as an advance organizer. In physics, the big picture of 
+the course would require addressing fundamental theories. Providing such 
+metaknowledge as an advance organiser looked problematic in physics  as there 
+were too many unknown specific concepts. Therefore, we tried the reversed order. 
+We designed a summative, reviewing lecture, which might be considered as an a 
+posteriori or delayed organizer . The lecture addressed the students after they 
+learned the contents in a traditional course.
+This special type of lecture is designed to rearrange the learned materials in a 
+theory-based structure, identifying the elements of knowledge as affiliated to three 
+types: nucleus, body, and periphery of a certain theory. Though the lecture addresses 
+the already known to students contents, to reach CCK, one should, besides the hier-
+archical classification, provide, even if only qualitatively, certain elements for the 
+periphery of the considered theory in order to address the pertinent historical dis -
+course. Such a lecture should create a holistic view on the course, its essential con-
+tent and unifying structure, rearranging the learned mosaic of knowledge 
+elements.
+As a teaching experiment, we provided a summative lecture to three high school 
+classes at Liceo Scientifico in Rimini, Italy (Levrini et al. 2014). Optics was chosen 
+as an especially convenient area for testing the discipline-cultural organization since 
+the school curriculum employs three basic theories learned in different depth: ray 
+theory of light (geometrical optics), wave theory of light (physical optics) and pho-
+tons theory of light (modern physics). To these basic theories, we added Newton’s 
+particle theory addressed at a conceptual level (Galili 2014). The four theories 
+together created a panoramic image of optics development as shown in Fig.  8.6.
+To depict the scientific discourse on light and vision a few fragments were added. 
+Such was Newton‘s treatment of interference patterns (Newton’s rings) within the 
+theory of rays and without the interference principle (not known to Newton). He 
+developed the ray theory and stretched it in order to include colors and color bands 
+in thin films (Shapiro 1993). Another historical fragment added was Huygens’ treat-
+ment of double refraction in crystals. It showed where Huygens was stuck, unable 
+to recognise the transverse nature of light waves. Newton only qualitatively resolved 
+that problem by ascribing sides to a light ray.
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 237 ---
+218
+The elements of optics knowledge learned and new, were affiliated in according 
+to the tripartite codification and filled the diagrams of the kind shown on Fig.  8.7. 
+This way a competition of basic theories was visualized: the debate on color, the 
+account of reflection and refraction, Snell’s law and double refraction, diffraction 
+and other items populated different areas of the structure. The diagram facilitated 
+explanation of the preference given in the eighteenth century to Newton’s theory of 
+light particles over the theory of ether waves of Huygens.
+In the following, a pertinent diagram illustrated the victory of the Fresnel-Young 
+wave theory over the Newton‘s theory of light particles in the nineteenth century. 
+Finally, the wave theory succumbed to the modern theory of photons in the twenti-
+eth century. This review showed that each topic and feature of light the students had 
+learned could find its location in the suggested structure and participate in a dynamic 
+picture – recognizably human, often contentious, conditioned by context and envi -
+ronment, and producing a stream of knowledge development arranged in different 
+theories.
+The big picture of optical knowledge emerged in its full stature. In the case of 
+optics, all three learned theories of light preserved their validity and coexist in pres-
+ent practice. Each of the basic models − ray, wave and photon – is valid in certain 
+area of parameters (light intensity, wavelength) and level of accuracy. They serve 
+for producing the simplest and efficient accounts, products and useful devices. The 
+idea of knowledge progress was thus refined. Despite the confidence that the quan-
+tum theory is the most general, we account for spectacles by ray optics and for 
+microscope resolution by light waves.
+8.4.3.1  Findings of the Experiment
+We applied the lecture, pre- and post- questionnaires and following class discussion 
+(Levrini et al. 2014). We found that the tripartite organization of knowledge ele -
+ments within theories was appreciated by students as helpful and informing. Novel 
+Ray Theory
+Particle Theory 
+Wave Theory Wave Theory 
+Photon Theory
+17thc –1 8thc1 9thc 20thc-3thc –1 7thc
+Fig. 8.6 The big picture of the development of the knowledge of light. The theories dominated in 
+each period are marked by a point frame (Galili 2014)
+I. Galili
+
+--- PAGE 238 ---
+219
+Stability of a light beam
+Newton’s Rings (Fits)
+Newton’s Colors
+Geometrical Shadow
+Newton’s hypothesis of 
+polarization (in terms of 
+particles poles)
+Higher light speed in denser medium
+for gravitational attraction
+Hooke’s explanation of 
+color fringes in thin films
+(Pulse turn)
+The mathematical account 
+for diffraction (Interference)
+The full mathematical 
+account for double 
+refraction 
+Splitting light in crystals
+(double refraction)
+Particle
+Refraction
+Waves1
+Reflection
+Descartes’ explanation of color 
+(particle rotation in pressure waves) Comparison of light with 
+sound waves (higher 
+speed in denser medium)
+Ray
+Fig. 8.7 Representation of the development of optics knowledge in the seventeenth to eighteenth centuries in the CCK perspective. It represents the competi-
+tion of two theories of light stemmed from the ray theory (Levrini et al. 2014)
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 239 ---
+220
+for all, it matched students’ intuition. Many of them (2/3, 1/3, 1/3 in the 3 classes) 
+said “it was not new for me…” indicating closeness to intuition and their naïve 
+attempts to organize the multitude of laws, principles, models, concepts that they 
+learned.18 Students debated the relative importance of the three types of knowledge 
+elements. They were interested in the hierarchy of the theories and their possible 
+unification in one inclusive theory of all.
+Lacking initial understanding of theories and the related role of models, the stu-
+dents asked for clarification of theory-model relationship. In responding to this 
+question, different models of optical theories were affiliated to the three areas of the 
+corresponding theories (Fig.  8.8). The models of ray, wave, photon were attributed 
+to the nuclei as paradigmatic models. The models of thin lenses, paraxial rays, point 
+sources were identified as working models located in the body of ray theory. Finally, 
+the models from periphery were exemplified by photons in the wave theory used as 
+a heuristic model.
+Some students, who usually remained outside of discussions in physics class, 
+mentioned that they were interested in the big picture of optics knowledge. 
+Refutation of some conceptions and explanations, and adoption of others, as shown 
+in the history and philosophy of science lessons, attracted them to physics.
+The image of the subject matter as a cluster of several theories allowed consider-
+ation of the relationship of physics knowledge with the real world: does physics 
+knowledge mirror nature exactly? Facing several valid theories of light led students 
+away from the idea of a unique reflection toward the more adequate view of physical 
+theory as representing a certain perspective – useful, and valid, but not identical to 
+nature leaving space to other accounts, quite in harmony with the view that the “sci-
+entific knowledge is not absolute, but perspectival” (Giere 1999, p. 150).
+Student interest and engagement that was apparent in the discussion indicated 
+the strong appeal of the new perspective on physics knowledge applied in the 
+ experiment and its beneficial impact. Students thought about whether they wanted 
+18 One may interpret this reaction to the triadic organization as a sort of cognitive resonance with 
+the immature ideas located in the Vygotskian Zone of Proximal Development (ZPD).
+NucleusB odyP eriphery
+Heuristic models
+Working models
+Paradigmatic models
+Fig. 8.8 Models may appear in all areas of theory structure
+I. Galili
+
+--- PAGE 240 ---
+221
+to be physicists and if so, of what type − dealing with the nucleus, body or periphery 
+of physics.
+When interviewed, the teachers of the experimental classes expressed apprecia -
+tion of CCK as a framework of the subject matter, unifying various knowledge ele-
+ments – models, laws, experiments, etc. – in a related web. They mentioned that 
+such inclusion of history and philosophy of science infused new meaning into the 
+regular teaching. In particular, they pointed to the ability to display the progression 
+of physical theories, the conceptual change in science and transitions from one the-
+ory to another. Frequent use of representative graphical, artistic, and allegorical 
+images in the short summative lecture was seen as an appealing pedagogical tool 
+(Galili 2013).
+8.5  Epistemology and Considering Knowledge as a Culture
+The impact of a cultural knowledge approach to science curriculum with respect to 
+the epistemological aspects is of different nature because philosophy itself corre -
+sponds to a different type of culture. While the content knowledge of science com-
+prises a culture of rules, the epistemological knowledge of science is rather a culture 
+of texts, implying a more flexible perception of correct-incorrect opposition. 
+Different epistemological approaches often  complement each other rather than 
+exclude.
+In particular, the history of science illustrates the continuous contest of rational-
+ist and empiricist methods of knowledge construction. Aristotle combined them in 
+an inductive-deductive circular procedure of scientific investigation drawing on 
+contemplation and logical analysis (Losee 1993). Platonic-Pythagorean rational 
+analysis preceded Aristotelian. It drew on the idea of transcendent order and math-
+ematical logic to uncover the hidden forms projecting to the perceived reality. 
+Theory was introduced to account for and represent reality. The scientific method 
+developed and was modified. Initially focused on theory-based speculations it was 
+reinforced by experimentation in Hellenistic and Muslim sciences.
+In the following elaboration of scientific method, medieval science introduced 
+“prerogatives of experimental science” on top of the further developed rationalist 
+apparatus clearly prevailed. The medieval resolution-composition method as well as 
+nominalist-realist opposition regarding scientific concepts prepared both Baconian 
+empiricism and Cartesian rationalism. Science always kept both approaches towards 
+their synthesis by Galileo and Newton who produced the integrated account 
+(Fig.  8.9). This is different from the clear hierarchy of content elements in the 
+discipline- culture structure. For instance, in classical mechanics, the rectilinear uni-
+form motion is affiliated to the nucleus whereas its counterparts in the Aristotelian 
+(state of rest) and quantum (state of definite momentum) mechanics belong to the 
+periphery.
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 241 ---
+222
+The cultural perspective unifies the accounts of discovery in the Baconian “inter-
+rogation of nature” with the constructivist creation in the scientific research pro -
+gram (Lakatos 1978). The combination of both approaches more adequately 
+represents scientific practice as in Fig.  8.10.
+Scientists are often inconsistent in their methodology. They may employ empiri-
+cism, rationalism, constructivism in different combinations while remaining com -
+mitted to the standards of empirical verification, drawing on theory, objectivity, and 
+open discourse. The teaching drawing on discipline-culture idea displays this plu -
+rality claiming their complementarity. The epistemological plurality influences on 
+science curriculum as may be represented with a semiotic triangle (e.g. Löbner 
+2013, p. 24). In it, the disciplinary contents of a theory constitute the object vertex. 
+The chosen philosophical dictum creates the concept vertex thus providing the 
+object with conceptual meaning (Fig.  8.11). The object – disciplinary contents – is 
+signified by science curriculum, the sign vertex, which features are determined by 
+the chosen philosophical framework of the concept vertex (Tseitlin and Galili 2006). 
+This dependence manifests itself in the emphasis and preferences given to empirical 
+versus theoretical fundamentals, 19 deductive versus inductive organization of 
+materials,20 etc.
+19 Thus, one may compare the introductory physics textbooks of the Nuffield project in UK strongly 
+emphasizing laboratory work and less the elaboration of theoretical aspects with other physics 
+textbooks of the same level, for instance, Harvard Physics Project in the US.
+20 Introductory courses of physics are often framed in inductive organization while the correspond-
+ing advanced courses of theoretical physics are usually deductive.
+Fig. 8.9 Plato and 
+Aristotle in the center of 
+Raphael fresco The School 
+of Athens in Vatican (c. 
+1511). This image became 
+emblematic of the Western 
+science as having two 
+images in its focus. The 
+gesturing of the two 
+philosophers is interpreted 
+as representing integration 
+of rationalism (“theory 
+first”) and empiricism 
+(“experience first”) (Galili 
+2013). (arrows added)
+I. Galili
+
+--- PAGE 242 ---
+223
+A discipline-cultural curriculum suggests a combined methodological perspec -
+tive in exact parallel with scientists who cannot afford being restricted to one epis -
+temology and combine philosophically different and even opposite approaches 
+(Einstein 1949, pp. 683–684). 21
+21 Einstein explained there: “He [scientist] therefore must appear to the systematic epistemologist 
+as a type of unscrupulous opportunist: he appears as realist insofar as he seeks to describe a world 
+independent of the acts of perception; as idealist insofar as he looks upon the concepts and theories 
+as free inventions of the human spirit (not logically derivable from what is empirically given); as 
+positivist insofar as he considers his concepts and theories justified only to the extent to which they 
+furnish a logical representation of relations among sensory experiences. He may even appear as 
+Platonist or Pythagorean insofar as he considers the viewpoint of logical simplicity as an indis -
+pensable and effective tool of his research.”
+Fig. 8.10 Images representing two scientific methodologies. ( a) Discovery taken as emblematic 
+for physics on the Nobel Price medal (names of the figures emphasized); (b) Constructivism as the 
+method of modern science might be represented using the images of Pygmalion and Galatea
+Physics 
+Theory
+Philosophy of 
+science
+Science 
+curriculum
+Conceptually explained by
+Fig. 8.11 Semiotic triangle of physics education
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 243 ---
+224
+Pragmatic, instrumental philosophy, such as that by Dewey ( 1938), would 
+emphasise problem-based curriculum, learning by doing, drawing on personal 
+experience and initial conceptions of the learner (educational constructivism) as the 
+ways to mastering and understanding scientific knowledge. This perspective may 
+miss the overall view, the epistemological status of knowledge elements in the 
+theory- based structure of physics, identification of fundamentals, concept defini -
+tions, principles, and interrelations of the constituents. Those contents would come 
+to the fore in the curriculum based on the rationalistic account of science (e.g. Frank 
+1957). The latter comprise metaknowledge which cannot be created in practicing 
+standard problems, but should be explicitly taught, illustrated and discussed.
+As an example, within the curricular perspective of modelling, one considers 
+theory merely as a set of models constructed according to certain rules (semantic 
+view). Addressing classical mechanics such approach pointed to the set of basic 
+models (e.g. Giere 1999, pp. 110–111; Halloun 2006, pp. 140–141). However, the 
+other contents of theory, its nucleus may be missed. Among them, the relativity 
+principle, concepts of absolute time and space, state of motion, force definition, 
+central interaction of point masses, etc. Thus, the mentioned set of useful models 
+includes the uniform motion (rectilinear with constant velocity) as one of the basic 
+models, next to circular and oscillatory motions. Yet, the uniform motion is much 
+more than that. It presents a fundamental state different from all other types of 
+motion (e.g. Galili and Tseitlin 2003, 2013). It served as one of the revolutionary 
+claims of Newton’s Principia following the discourse on motion of two thousand 
+years.
+As already specified (Fig.  8.8), theoretical models contribute to all three areas of 
+theory structure. Paradigmatic models of nuclei may reveal the analogy underpin -
+ning the formalism of the whole theory (in Newton‘s mechanics: point particles in 
+a void under central force interaction). Models in the body area, working models, 
+mediate between the theory and reality (Morrison and Morgan 1999) as simplified 
+subsets of the theory enabling precise account of chosen ideal systems (e.g. mathe-
+matical pendulum). Models of the periphery may be of heuristic type for the account 
+of a system without conforming to the nucleus. Such models may pave the way to a 
+new theory (Bohr’s model in quantum theory or Plank’s account for blackbody radi-
+ation in classical electromagnetism).
+Missing fundamentals, converts teaching of physics to instruction of a craft. 
+Ironically, such teaching could well serve prospective physicists who will construct 
+an adequate image of physics knowledge for themselves later. Yet, the others, the 
+much wider audience, will miss the holistic picture of mechanics, its ideas – the 
+cultural heritage.
+Similar critique could address the model-based curriculum of introductory quan-
+tum mechanics often focused on Schrodinger equation and its solutions in simple 
+cases. Ignoring the nucleus of quantum theory, its central principles, basic concepts 
+and specific epistemology, so much different from classical mechanics, implies stu-
+dents’ missing the quantum picture of the world.
+I. Galili
+
+--- PAGE 244 ---
+225
+Apologists for a pragmatic curriculum sometimes quote Einstein (1934/2011):
+If you want to find out anything from the theoretical physicists about the methods they use, 
+I advise you to stick closely to one principle: don’t listen to their words, fix your attention 
+on their deeds.
+One may, however, pay attention that this advice addresses the methods used by 
+practitioners, not the meaning of the theory to develop the methods on the first 
+place. That aspect presents a goal specific for science education. For that, one has 
+no other way but address both rationalist and empiricist approaches.
+Another epistemological aspect is the need of integrated concept definition. We 
+have addressed above the concept of weight in that respect. Historically, Mach was 
+the first who emphasized the need to draw on the operational definition of concepts. 
+He introduced a new definition of inertial mass through the measurement of accel -
+erations in an interaction (collision) of two bodies (Mach 1883/1989, p.  218). 
+Einstein followed him with regard to simultaneity in his theory of relativity 
+(Reichenbach 1927/1958).22 Yet, the initial claim of operationalism that any “con -
+cept is synonymous with the corresponding set of operations” (Bridgman 1927) was 
+transformed to the more recent philosophical account requiring a pair of definitions: 
+nominal and operational of the same concept (Margenau 1950). This approach 
+might be viewed as integration of empirical and rational approaches in physical 
+method.
+8.6  Objectivity of Scientific Knowledge
+Lastly, we touch on the epistemological claim of science being subjective which 
+presents a cardinal attack on the traditional presenting scientific knowledge as 
+objective in science education.23 Normally, physicists state (Hestenes 1993)24:
+What makes knowledge scientific? Scientific knowledge is distinguished from ordinary 
+knowledge by its objectivity, precision and structure.  These distinctions are erratically 
+maintained and sometimes missing altogether in introductory science textbooks and 
+programs.
+Students cannot be expected to comprehend the structure of science until they have learned 
+to think objectively, in the sense that they can readily distinguish between “objective” prop-
+erties of physical objects and their own subjective perceptions of them.
+22 In physics education, the introduction of operational definitions was advocated by Karplus 
+(1981) and Arons (1990). Essential changes might follow such change as illustrated by the case of 
+weight concept.
+23 Though clearly a philosophical topic, it entered educational discourse as an item of NOS (nature 
+of science). As mentioned above, the implied complexity stems from the need to learn about the 
+pertinent accomplishments in philosophy of science and science itself in order to avoid naïve opin-
+ions regarding the nontrivial arguments of another discourse.
+24 This claim presents a commonplace in physics (e.g. Weinberg 1992, 2001), philosophy of sci -
+ence (e.g. Popper 1979), history of science (e.g. Holton 1985; Russo 2004; Jaroszyński 2007).
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 245 ---
+226
+In a sharp contrast, Lederman and colleagues assert that:
+…scientific knowledge, owing to scientists’ theoretical commitments, beliefs, previous 
+knowledge, training, experiences, and expectations, is unavoidably subjective. (Lederman 
+et al. 2014, p.976. Emphasis added)
+The subjectivity of scientific knowledge was argued for because of its dependence 
+on scientific theories which were considered as subjective constructs (Lederman 
+et al. 2015, p. 695):
+…scientific knowledge is subjective and theory laden. Scientists’ beliefs, previous knowl-
+edge, training, experiences, and expectations, in addition to theoretical commitments, influ-
+ence their work. (Emphasis added)
+Steven Shapin (1996, p. 165) wrote as if in answer:
+…much recent history and sociology of science that seeks to portray science as the contin -
+gent, diverse, and at times deeply problematic product of interested, morally concerned 
+historically situated people is likely to be read as criticism of science. It may be thought that 
+anyone making such claims must be motivated by a desire to expose science to say that sci-
+ence is not objective, not true, not reliable or that such accounts will have the effect of 
+eroding respect for science.
+While Lederman talks about the personal perception of scientific knowledge and 
+individual inquiry, Shapin addresses the collective scientific knowledge, the product 
+of inquiry process. If taken as is, Lederman misinterprets the unifying role of theory 
+in the scientific knowledge providing an inadequate image of science as activity of 
+separate individuals or groups in workshops, a picture reminding more art (the cul-
+ture of texts) rather than science (the culture of rules) which draws on a few funda-
+mental theories shared by the whole community. In another perspective, Lederman’s 
+confusion stems from missing the difference between the context of inquiry and the 
+context of justification in science (e.g. Losee 1993). To avoid confusion, one needs 
+to address the conceptual pair objective-subjective in science curriculum, exposing 
+and refining both aspects – discipline-cultural approach.
+Historically, objectivity was preserved as a norm in science. 25 It was about the 
+account of regularity and features of Nature (object) independent of our (subject) 
+wish. Since its foundation in Classical Greece, natural science considered objectiv-
+ity as the genus of scientific knowledge and its differentia from mythology and the 
+knowledge in other areas of intellectual activity, history, literature, etc. (Sarton 1948, 
+p. 170). Yet, despite the long tradition, the opposite claim of science being subjective 
+has been univocally appeared in the voluminous Encyclopedia of Science Education 
+(Gunstone 2015). Critique came from Matthews (2012) who demonstrated that the 
+claim was dubious (mixing contents) and contradicted the actual status of scientific 
+knowledge. Yet, the claim of subjectivity is not new in philosophy and sociology of 
+science revealing non-trivial subtleties. It is therefore cannot be ignored.
+Commonly, the objectivity of knowledge presumes its essential independence 
+from psychological and social factors; the latter are germane to the creation of 
+knowledge (the context of inquiry), and even to its form of expression, but not to the 
+25 See Elkana 1981; Hempel 1966; Polanyi 1962; Popper 1979; Weinberg 2001.
+I. Galili
+
+--- PAGE 246 ---
+227
+epistemological status of what is created  (the context of justification). Scientists 
+explain: “the way whether and how the dropped object falls is independent of our 
+attitude to that” and such should be any scientific account. In this sense scientists 
+state physics theories (classical mechanics, electromagnetism, thermodynamics, 
+quantum theories, general relativity) being objective and dismiss their relativism 
+(Weinberg 1992, 2001). Each of the theories is valid in certain area of parameters 
+and depicts a certain aspect of reality; a sort of approximation in depicting reality. 
+Yet, their objectivity suggests understanding of the stated tentativeness of scientific 
+knowledge: “the approximate theories are not merely approximately true” says 
+Weinberg (2001, p.  208) . They adequately account for certain aspects of reality. 
+Only such objective knowledge can be a subject of any critical discourse stipulating 
+its reliability and “health” (Popper 1965, 1978, 1979; Elkana 1981; Holton 1985), 
+providing a pledge for progress and adequate world view − much more than new 
+devices, medicine, and weapon (Weinberg 2001, p. 106).
+Commonly objective–subjective disputes regarding scientific knowledge are 
+sometimes interwoven with true-false claims about the putative knowledge (e.g. 
+Agazzi 2014). In their products, scientists might be wrong or leave explanation 
+unknown, but seeking objectivity and excluding of voluntary factors in scientific 
+theory present a common norm. The theory-laden analysis is intrinsic in any scien-
+tific inquiry. However, stating analysis being theory-laden is not equal to volun -
+tarism. It is as correct in science as stating experiment-laden theory. Both comprise 
+complementary aspects of a reciprocal process of scientific inquiry essential in 
+knowledge construction in science.
+The subtlety of science is in the fact that in their account of nature scientists use 
+associative imagination in creating a system of concepts − a “free creation of the 
+human mind” (Einstein and Infeld 1938, p. 33). Yet, those enter into a continuous 
+inquiry loop in which the chosen (subjectively) concepts are going through refine -
+ment and correction drawing on experiments. Awareness of the circular iterative 
+construction of scientific knowledge may resolve the confusion between scientific 
+inquiry and scientific theory (subjective and objective aspects of science) . Indeed, 
+inquiry relies on the individual and group views, hypothesis, interpretations, and 
+style, and therefore, it might include subjective or intersubjective elements. However, 
+the scientific theory consolidates in an iterative process of evolutionary construc -
+tion, empirical corroboration in the professional discourse.26 Multiple studies inde-
+pendently test theory in a variety of dimensions and in back and forth interaction 
+with reality. Together with continuous versatile attempts of falsification, theoretical 
+and experimental, they provide objectivity of the product. As Gerald Holton wrote:
+…the metaphysical tenets of individual scientists, though often quite strong, are generally 
+so varied, so vague, and technically inept that in a sense they cancel out, made ineffectual 
+by the lack of a basis for general acceptance and agreement of such tenets. (Holton 1985, 
+p.193)
+26 The problem arises when the process of scientific inquiry is presented being listed as a sequential 
+procedure (e.g. Hempel 1966, p.11). Missing circularity and iterative self-corrective nature of scien-
+tific inquiry makes it vulnerable to the claims of subjectivity or intersubjectivity (e.g. Husserl 1978).
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 247 ---
+228
+Therefore, inclusion of the specific historical contents in education is essential 
+for appreciation of objectivity as emerging from the melting pot of scientific dis -
+course. This is the approach of CCK-based curriculum, in which scientific theories 
+appeared not as useful opinions or dogma but as products distilled in the discipline- 
+cultural discourse. Inclusion of diachronic discourse allows tracing the arguments 
+on the way, compare and complement theories in contest. The mentioned excursus 
+to the conceptual history of weight and optics may illustrate such process (Galili 
+2014).
+In our optics materials, we considered, for instance, the path of light. Heron of 
+Alexandria in his Catoptrics demonstrated the rule of specular reflection: the light 
+path presents the shortest trajectory between any two points including mirror reflec-
+tion (Cohen and Drabkin 1966, p. 263). This was a piece of objective knowledge. 
+However, the interpretation of this result by Nature seeking the most “economical” 
+way to go, or by Nature that does nothing in vain (natura frustra nihil agit ) was 
+mystical. Fermat in the seventeenth century used the method of Maxima and Minima 
+and advocated for the extreme temporal rather than spatial path (Ross 2008, p. v) – 
+the objective truth. Yet, he claimed that such path expressed the “natural inten -
+tion”  – a mystical view. The actual measurement confirmed the Snell law of 
+refraction as sine ratio of incident and reflection angles  – the objective truth. 
+Descartes believed that this empirical law is insufficient, as it did not explain the 
+phenomenon. He provided an ad hoc mechanism of analogy between light and the 
+motion of a ball being hit downwards at the surface of water (Descartes 1637/1965, 
+p. 79). The artificial and subjective nature of this analogy was obvious. Mach called 
+it “unintelligible and unscientific” (Sabra 1981, p. 104).
+The approach of Fermat was unsatisfactory too: how and why does light “decide” 
+in advance (!) about the extreme path? Scientists continued to seek for an objective 
+account. Only in the nineteenth century, following the account of wave interference 
+by Fresnel, were the subjective speculations regarding light propagation removed. 
+Raleigh by covering odd (or even) Fresnel zones demonstrated that light did not 
+“decide” which way to go but goes in all ways between any two points. The interfer-
+ence of all these beams produces the apparent light path and destroys all others. 
+Feynman ( 1948, 1985) further expanded this account to massive particles. 
+Summarizing, the subjective interpretations associated with the understanding of 
+light path through the history “cancelled out” and the objective account emerged. At 
+no stage, however, were scientists seize trying to reveal the objective truth about 
+Nature. Individual scientists are not purely subjective; their “personal knowledge” 
+incorporates both subjective and objective components (Polanyi 1962).
+For Karl Popper, the objectivity of physics knowledge was framed using the idea 
+of the “third world”27 – a virtual intellectual space incorporating physical theories 
+(Popper 1978). Possessing its own existence (spiritual reality shared through gen -
+erations), somewhat reminiscent of Plato’s transcendental world of forms and the 
+realists’ view of concepts in the medieval science, it contains objective knowledge 
+of science:
+27 To be distinguished from the real world (the first one) and the personal world (the second one).
+I. Galili
+
+--- PAGE 248 ---
+229
+Without claiming to solve such ancient philosophical problems, I would argue that scien -
+tific theories share those properties of rocks—stability and independence of societal set -
+ting—that lead us to call rocks real (Weinberg 2001, p. 269).
+Holton ( 1985) introduced ideas of science-1 and science-2 for the same pur -
+pose – to distinguish between the objective core and subjective associative ideas of 
+physical knowledge. We used this metaphor in addressing optics as a cluster of a 
+few theories of light complementary and objective, dwelling in the “third world“. 
+Valid in different areas of space-time and energy scales, they share the objective 
+genus.
+8.7  Conclusion
+Altogether, considering scientific knowledge as a culture displays the discourse of 
+science revealing its characteristic structural features − ontological and epistemo -
+logical – which are often missing in strictly disciplinary teaching. For the ontologi -
+cal disciplinary contents, CCK approach suggests the curriculum displaying the 
+tripartite hierarchical structure of a few fundamental theories: nucleus-body-  
+periphery, whereas for the epistemic contents, an integrated presentation is sug -
+gested addressing a few principal accounts as complementary instead of claiming 
+only one view as legitimate. Such CCK curriculum reveals a big picture and broader 
+context of scientific knowledge. It provides metaknowledge of science appealing to 
+the broad population of learners of different interests and preferences beyond the 
+audience of disciplinary oriented students. It frames and specifies the involvement 
+of HPS contents, making them a curricular necessity. In doing this, it provides a 
+paradigm matching the historical tradition of dissemination of scientific knowledge 
+and cultural enlightenment.
+Acknowledgments I am deeply obliged to Professor Robert Carson for his essential help in pre-
+paring this paper for publication. I am in great debt to Professor Michael Matthews for his never 
+stopping encouraging support and intellectual inspiration. The anonymous reviewers helped me 
+greatly expanding my knowledge which I sincerely appreciate and wish to acknowledge.
+References
+Agazzi, E. (2014). Objectivity as a replacement for truth in modern science. In Objectivity and its 
+contents (pp. 1–10). London: Springer.
+Aikenhead, G. S. (1997). Towards a first nations cross-cultural science and technology curriculum. 
+Science Education, 81(2), 217–238.
+Al-Khalili, J. (2010). Pathfinders. The golden age of Arabic science. New York: Penguin Books.
+Arons, A. (1990). A guide to introductory physics teaching. New York: Wiley.
+Ausubel, D. P. (1968). Educational psychology: A cognitive view . New York: Holt, Rinehart & 
+Winston.
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 249 ---
+230
+Baruch, A., & Vizansky, A. (1937). Physics. Tel-Aviv: Dvir.
+Bendall, S., Goldberg, F., & Galili, I. (1993). Prospective elementary teachers’ prior knowledge 
+about light. Journal of Research in Science Teaching, 30(9), 1169–1187.
+Bevilacqua, F., Giannetto, E., & Matthews, M. (Eds.). (2001). Science education and culture. The 
+contribution of history and philosophy of science. Dordrecht: Kluwer.
+Bridgman, P. (1927). The logic of modern physics. New York: Macmillan.
+Cartwright, N. (2005). The dappled world. A study of the boundaries of science . Cambridge: 
+Cambridge University Press.
+Chaikin, S. E. (1947/1963). Mechanics. General physics course (V ol. 1). Moscow: Gosizdaetlstvo 
+Physmath Literaturi.
+Cohen, R. M., & Drabkin, E. I. (1966). A source book in Greek science. New York: McGraw-Hill 
+Book Company, Inc..
+Descartes, R. (1637/1965). Second discourse  – Of refraction. In Discourse on method, optics, 
+geometry and meteorology. New York: Bobbs-Merrill.
+Dewey, J. (1938). Experience & education. New York: Kappa Delta Pi.
+Einstein, A. (1918). Principles of research. Address to physical society, Berlin, for Max Planck’s 
+sixtieth birthday. http://www.site.uottawa.ca/~yymao/misc/Einstein_PlanckBirthday.html. 
+Accessed 24 Sept 2015.
+Einstein, A. (1934/2011). On the method of theoretical physics. In Essays in science. New York: 
+Open Road.
+Einstein, A. (1949/1979). Autobiographical notes. In P.  A. Schilpp (Ed.), Albert Einstein: 
+Philosopher-scientist. New York: Harper.
+Einstein, A., & Infeld, L. (1938). The evolution of physics . Cambridge: Cambridge University 
+Press.
+Elkana, Y . (1981). A programmatic attempt at an anthropology of knowledge. In E. Mendelsohn & 
+Y . Elkana (Eds.), Science and cultures. Dordrecht: Reidel.
+Feynman, R. (1948). The space-time formulation of nonrelativistic quantum mechanics. Reviews 
+of Modern Physics, 20(2), 367–387.
+Feynman, R. (1985). QED – The strange theory of light and matter, Lecture 2. Princeton: Princeton 
+University Press.
+Frank, M. (1957). Philosophy of science. The link between science and philosophy . Englewood 
+Cliffs: Prentice-Hall.
+Galili, I. (2001). Weight versus gravitational force: Historical and educational perspectives. 
+International Journal of Science Education, 23(10), 1073–1093.
+Galili, I. (2012). Promotion of content cultural knowledge through the use of the history and phi -
+losophy of science. Science & Education, 21(9), 1283–1316.
+Galili, I. (2013). On the power of fine arts pictorial imagery in science education in science educa-
+tion. Science & Education, 22, 1911–1938.
+Galili, I. (2014). Teaching optics: A Historico-philosophical perspective. In M. R. Matthews (Ed.), 
+International handbook of research in history and philosophy for science and mathematics 
+education (pp. 97–128). Dordrecht: Springer.
+Galili, I. (2015). From comparison between scientists to gaining cultural scientific knowledge: 
+Leonardo and Galileo. Science & Education, 25(1), 115–145.
+Galili, I., & Bar, V . (1992). Motion implies force. Where to expect vestiges of the misconception? 
+International Journal of Science Education, 14(1), 63–81.
+Galili, I., & Hazan, A. (2000). The influence of a historically oriented course on students’ con -
+tent knowledge in optics evaluated by means of facets–schemes analysis. American Journal of 
+Physics, 68(7), S3–S15.
+Galili, I., & Kaplan, D. (1996). Students operation with the concept of weight. Science Education, 
+80(4), 457–487.
+Galili, I., & Lehavi, Y . (2003). The importance of weightlessness and tides in teaching gravitation. 
+American Journal of Physics, 71(11), 1127–1135.
+I. Galili
+
+--- PAGE 250 ---
+231
+Galili, I., & Hazan, A. (2004). Optics – The theory of light and vision in the broad cultural 
+approach. Jerusalem: Science Teaching Center, The Hebrew University of Jerusalem. 
+[ISBN-965-295-026-2]
+Galili, I., & Lehavi, Y . (2006). Definitions of physical concepts: A study of physics teachers’ 
+knowledge and views. International Journal of Science Education, 28(5), 521–541.
+Galili, I., & Tseitlin, M. (2003). Newton’s first law: Text, translations, interpretations, and physics 
+education. Science & Education, 12(1), 45–73.
+Galili, I., Goldberg, F., & Bendall, S. (1993). Effects of prior knowledge and instruction on under-
+standing image formation. Journal of Research in Science Teaching, 30(3), 271–303.
+Galili, I., & Tseitlin, M. (2013). Excurse to the History of Understanding of Motion – De Motu. In 
+I. Galili (Ed.), The Pleasure of understanding. Collection of excurses to the history of physical 
+concepts for teachers and students . Jerusalem: The Amos de-Shalit Science Teaching Center, 
+The Hebrew University of Jerusalem.
+Galili, I., Bar, V ., & Brosh, Y . (2017). Teaching weight-gravity and gravitation in middle school—
+Testing a new instructional approach. Science & Education, 26(3), 977–1010.
+Giere, R. N. (1988). Explaining science. A cognitive approach . Chicago: University of Chicago 
+Press.
+Giere, R. N. (1999). Science without laws. Chicago: University of Chicago Press.
+Guesne, E. (1985). Light. In R. Driver, E. Guesne, & A. Tiberghien (Eds.), Children’s ideas in sci-
+ence (pp. 11–32). Milton Keynes: Open University Press.
+Gunstone, R. (Ed.). (2015). Encyclopedia of science education. Dordrecht: Springer.
+Halliday, D., Resnick, R., & Walker, J.  (2001). Fundamentals of physics  (9th ed.). New  York: 
+Wiley.
+Halloun, I. A. (2006). Modeling theory in science education. Dordrecht: Springer.
+Heath, T. (1966). Aristarchus of Samos. Oxford: Clarendon Press.
+Heisenberg, W. (1959/1971). Physics and philosophy. London: Georger Allen & Unwin.
+Hempel, C. (1966). Philosophy of natural science. Upper Saddle River: Simon & Schuster.
+Hestenes, D. (1993). Modelling is the name of the game. A presentation at the NSF modeling con-
+ference. Temple: Arizona State University.
+Hewitt, P. G. (1992). Conceptual physics. Upper Saddle River: Pearson Prentice Hall.
+Hewitt, P. G. (2002). Conceptual physics. Upper Saddle River: Pearson Prentice Hall.
+Hofstede, G. (1991). Cultures and organizations: Software of the mind. London: McGraw-Hill.
+Holton, G. (1985). Introduction to concepts and theories in physical science.  Second edition 
+revised by S. G. Brush. Princeton: Princeton University Press.
+Husserl, E. (1978). The crisis of European sciences and transcendental phenomenology. Evanston: 
+Northwestern University Press.
+Jammer, M. (1957). Concepts of force. Cambridge, MA: Harvard University Press.
+Jaroszyński, P. (2007). Science in culture. New York: Rodomi.
+Karplus, R. (1981). Educational aspects of the structure of physics. American Journal of Physics, 
+49(3), 238–241.
+Kim, Y . (2011). How many Korean science high-school students find the same scientific prob -
+lem as Kepler found in optics and physiology? Journal of Gifted/Talented Education, 21 (2), 
+575–589.
+King, A. L. (1962). Weight and weightlessness. American Journal of Physics, 30(4), 387.
+Knight, R. D. (2004). Physics for scientists and engineers. Reading: Pearson.
+Knight, R. D. (2013). Physics for scientists and engineers (3rd ed.). Reading: Pearson.
+Kuhn, T. S. (1957). The Copernican revolution. Cambridge, MA: Harvard University Press.
+Kuhn, T. S. (1970). The structure of scientific revolutions. Chicago: University of Chicago Press.
+Lakatos, I. (1978). The methodology of scientific research programs . Cambridge: Cambridge 
+University Press.
+Latour, B. (1987). Science in action. Cambridge, MA: Harvard University Press.
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…
+
+--- PAGE 251 ---
+232
+Lederman, N. G., Bartos, S. A., & Lederman, J. S. (2014). The development, use, and interpretation 
+of nature of science assessments. In M. R. Matthews (Ed.), International handbook of research 
+in history, philosophy and science teaching (Ch. 29, pp. 971–997). Dordrecht: Springer.
+Lederman, N. G., Schwartz, R., & Abd-El-Khalick, F. (2015). Conceptualizing the construct of 
+NOS.  In R.  Gunstone (Ed.), Encyclopedia of science education  (pp.  694–698). Dordrecht: 
+Springer.
+Levrini, O., Bertozzi, E., Gagliardi, M., Grimellini-Tomasini, N., Pecori, B., Tasquier, G., & Galili, 
+I. (2014). Meeting the discipline-culture framework of physics knowledge: An experiment in 
+Italian secondary school. Science & Education, 23, 1701–1731.
+Libbrecht, U. (2009). Comparative philosophy: A methodological approach. In N. Note, R. Fornet- 
+Betancout, J. Estermann, & D. Aerts (Eds.), Worldviews and Cultures. Dordrecht: Springer.
+Lindberg, D. C. (1976). Theories of vision from al-Kindi to Kepler . Chicago: The University of 
+Chicago Press.
+Liu, Y . (2015). Overview of ancient Chinese science and technology. In Lu (Ed.), A history of 
+Chinese science and technology (V ol. 1, pp. 19–40). Heidelberg: Springer.
+Löbner, S. (2013). Understanding semantics. London: Routledge.
+Losee, J.  (1993). A historical introduction to the philosophy of science . New  York: Oxford 
+University Press.
+Lotman, Y . (2010). The problem of learning culture as a typological characteristic. In What people 
+learn. Collection of papers and notes (pp. 18–32). Moscow: Rudomino.
+Ma, H. (2012). The images of science through cultural lenses. In A Chinese study on the nature of 
+science. Rotterdam: Sense Publishers.
+Mach, E. (1883/1989). The science of mechanics, a critical and historical account of its develop -
+ment. La Salle: Open Court.
+Margenau, H. (1950). The role of definitions in science. In The nature of physical reality (pp. 220–
+244). New York: McGraw-Hill.
+Marion, J. B., & Hornyack, W. F. (1982). Physics for science and engineering (p. 129). New York: 
+Saunders.
+Marton, F., Runesson, U., & Tsui, A. B. M. (2004). The space of learning. In F. Marton & A. B. 
+M. Tsui (Eds.), Classroom discourse and the space of learning (pp. 3–40). Mahwah: Lawrence 
+Erlbaum.
+Matthews, M. R. (2012). Changing the focus: From nature of science to features of science. In 
+M. S. Khine (Ed.), Advances in nature of science research (pp. 3–26). Dordrecht: Springer.
+Matthews, M. R. (Ed.). (2014). International handbook of research in history, philosophy and sci-
+ence teaching. Dordrecht: Springer.
+Miller, A. I. (1986). Frontiers of physics. Selected essays (p. xx). Boston: Birkhauser.
+Morrison, M., & Morgan, M. S. (1999). Models as mediating instruments. In M. Morgan & M. S. 
+Morrison (Eds.), Models as mediators: Perspectives on natural and social science (pp. 10–37). 
+Cambridge: Cambridge University Press.
+Novak, J. D., & Gowin, D. B. (1984). Learning how to learn. Cambridge: Cambridge University 
+Press.
+Pedersen, O., & Phil, M. (1974). Early physics and astronomy. London: Macdonald & Janes.
+Polanyi, M. (1962). Personal knowledge. Towards a post-critical philosophy. London: Routledge.
+Popper, K. R. (1965). Conjectures and refutations: The growth of scientific knowledge. New York: 
+Harper Torchbooks.
+Popper, K.  R. (1978). Three worlds. The Tanner lecture on human values . The University of 
+Michigan. http://www.tannerlectures.utah.edu/lectures/documents/popper80.pdf. Accessed 24 
+Sept 2015.
+Popper, K. R. (1979). Objective knowledge. Oxford: Clarendon Press.
+Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a sci -
+entific conception: Toward a theory of conceptual change. Science Education, 66, 211–227.
+Ptolemy, C. (1952). Almagest. In Britannica great books  (V ol. 6). Chicago: Encyclopedia 
+Britannica.
+I. Galili
+
+--- PAGE 252 ---
+233
+Reichenbach, H. (1927/1958). The philosophy of space and time. New York: Dover.
+Resnick, R., & Halliday, D. (1966). Physics. NewYork: Wiley.
+Ronchi, V . (1970). The nature of light: An historical survey. London: Heinemann.
+Ronchi, V . (1991). Optics. The science of vision. New York: Dover.
+Ross, J. (2008). Fermat’s complete correspondence on light. Dynamis. http://science.larouchepac.
+com/fermat/. Accessed 24 Sept 2015.
+Russo, L. (2004). The forgotten revolution: How science was born in 300 BC and why it had to be 
+reborn. Berlin: Verlag/Springer.
+Sabra, A.  I. (1981). Theories of light. From Descartes to Newton . Cambridge: Cambridge 
+University Press.
+Sarton, G. (1948). The life of science − Essays in the history of civilization . New York: Henry 
+Schuman.
+Shapin, S. (1996). The scientific revolution. Chicago: Chicago University Press.
+Shapiro, A. E. (1993). Fits, passions, and paroxysms. Cambridge: Cambridge University Press.
+Snow, C. P. (1959). The two cultures and scientific revolution. Cambridge: Cambridge University 
+Press.
+Stein, H., & Galili, I. (2014). The impact of operational definition of weight concept on Students’ 
+understanding of physical situations. International Journal of Research in Science and 
+Mathematical Education, 13(6), 1487–1515.
+Stein, H., Galili, I., & Schur, Y . (2015). Teaching new conceptual framework of weight and gravita-
+tion in the middle school. Journal of Research in Science Teaching, 52(9), 1234–1268.
+Tseitlin, M., & Galili, I. (2005). Teaching physics in looking for its self: From a physics-discipline 
+to a physics-culture. Science & Education, 14(3–5), 235–261.
+Tseitlin, M., & Galili, I. (2006). Science teaching: What does it mean? – A simple semiotic per -
+spective. Science & Education, 15(5), 393–417.
+Tylor, E. (1871/1920). Primitive culture (V ol. 1). New York: Putnam’s Sons.
+van Fraassen, B. C. (1980). The scientific image. Oxford: Clarendon Press.
+van Fraassen, B. C. (2008). Scientific representation: Paradoxes of perspective. Oxford: Clarendon 
+Press.
+Vygotsky, L. (1986). Thought and language. Cambridge, MA: MIT Press.
+Weinberg, S. (1992). Dreams of a final theory. New York: Pantheon Books.
+Weinberg, S. (2001). Facing up – Science and its cultural adversaries. Cambridge, MA: Harvard 
+University Press.
+Weinberg, S. (2015). To explain the world: The discovery of modern science . New York: Harper 
+Collins.
+Weizsacker, C. F. (1985/2006). The structure of physics. Dordrecht: Springer.
+Young, H. D. & Freedman, R. A. (2004). University physics (pp. 120, 441, 459–460). New York: 
+Pearson, Addison Wesley.
+Young, H.  D. & Freedman, R.  A. (2012). University physics  (pp.  406, 421–422). New  York: 
+Pearson, Addison Wesley.
+8 Scientific Knowledge as a Culture: A Paradigm for Meaningful Teaching…

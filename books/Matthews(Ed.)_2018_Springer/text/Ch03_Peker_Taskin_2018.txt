@@ -1,0 +1,1494 @@
+Title: The Enlightenment Tradition and Science Education in Turkey
+Pages: 91-121
+
+--- PAGE 91 ---
+67
+© Springer International Publishing AG 2018 
+M.R. Matthews (ed.), History, Philosophy and Science Teaching, Science: 
+Philosophy, History and Education, DOI 10.1007/978-3-319-62616-1_3
+Chapter 3      
+The Enlightenment Tradition and Science 
+Education in Turkey                                       
+Deniz Peker and Özgür Taskin
+3.1  Introduction
+The original Enlightenment tradition in Europe emerged as a reaction to the Catholic 
+and Protestant churches’ dogmatism and feudal aristocratic oppression in quest for 
+a more rational and sceptical worldview, and a freer society. The Enlightenment 
+ideology projected a broad range of notions such as universalism, objectivity, ratio-
+nality, empiricism, scientism, anti-revelationism, naturalism, utilitarianism, opti -
+mism and independence (Matthews 2015a, Chap. 2). In the interest of space, we 
+limit our examination of the enlightenment mostly to the development of the mod -
+ern and secular Turkish state and its educational institutions beginning from the 
+reformation of medieval Ottoman Empire structures (eighteenth century) to con -
+temporary Turkish society.
+The original Enlightenment was a product of social, political, cultural, philo -
+sophical and economical influences in a given time frame (roughly seventeenth and 
+eighteenth centuries) and geography (Western Europe). For instance, the scientific 
+revolution of the seventeenth century prepared the way for the eighteenth century 
+Enlightenment movement. So also did the religious wars that made questionable the 
+entrenched prestige and moral and intellectual authority of the church. The condi -
+tions that brought about the Enlightenment were unique to its time and place. Thus 
+beyond the centre of the enlightenment, at the periphery, different cultures went 
+through different processes of enlightenment influenced by their own cultural, polit-
+ical and material conditions.
+D. Peker (*) 
+Department of Teacher Education, Columbus State University, Columbus, GA, USA
+e-mail: peker_deniz@columbusstate.edu 
+Ö. Taskin 
+School of Education, Ondokuz Mayis University, Samsun, Turkey
+e-mail: omuozgurtaskin@gmail.com
+
+--- PAGE 92 ---
+68
+Historical analyses show that beyond Western Europe each enlightenment trajec-
+tory is unique in the way it adopts, transforms, or redefines the original enlighten -
+ment ideas (Outram 2013). It is argued that the enlightenment of the non-West is a 
+process of appropriation in which the “transferred” ideas from the West create a 
+new, emerging discourse to accommodate new ideas into existing schemas (Patiniotis 
+and Gavroglu 2012). Patiniotis and Gavroglu argue that this new discourse is the 
+best way to overcome the local constraints because new ideas are not transferred 
+into a vacuum; rather they replace or modify existing ways of thinking, reasoning or 
+organizing knowledge. Thus this discursive negotiation phase is a necessary ele -
+ment to overcome an initial rejection of ideas and creates a context for their new 
+legitimization.
+Given these assumptions, we will provide a treatise of Ottoman-Turkish enlight-
+enment, paying particular attention to the unique aspects of the Ottoman and Turkish 
+case, which is different in many respects from Western Europe. For clarity, we 
+reserve the words West and Western Europe to refer to countries beyond the west of 
+the Ottoman Empire borders even though the Ottoman Empire had territories in 
+Europe. Our purpose is to show, beginning from the eighteenth century Ottoman 
+Empire, how the enlightenment ideas were initially perceived by the Ottomans as 
+part of their long-standing modernization efforts and continued through the more 
+systematic ways during the late Ottoman, early Turkish Republic, and finally mod-
+ern Turkey. First, we will provide the context for the Ottoman case by describing its 
+unique characteristics where the battles of enlightenment took place. We will then 
+provide accounts of important historical events in the Ottoman-Turkish enlighten -
+ment trajectory. Finally, we will provide a conclusion to our analysis.
+3.2  The Ottoman Context
+The enlightenment tradition in modern Turkey cannot be understood without first 
+examining the enlightenment tradition in the late Ottoman Empire. The Ottoman 
+Empire had different societal dynamics than Western Europe; thus, to understand 
+the enlightenment tradition in the Ottoman Empire (and subsequently, Turkey) one 
+needs to pay attention to these differences. These differences are related to religion, 
+state-religion relationships, scientific and intellectual inheritance, and economic 
+variables.
+First, the Ottoman Empire was an Islamic state, even though the empire was 
+home to many non-Muslim groups. The ruling Sultan (Padisah) of the empire was 
+also the Caliphate for the Islamic world, meaning that he was the direct representa-
+tive of God in the world. However, the Caliphate did not assume any divine or pro-
+phetic role; nor did he have any particular religious status other than being at the 
+highest position of protecting the Islamic order. The power of the Sultan was only 
+limited to Sharia, the Islamic Law (Berkes 1998).
+The Ulema was the religious authority, composed of the corps of learned men of 
+religion who ensured that the laws and executions of the ruling Sultan were in 
+D. Peker and Ö. Taskin
+
+--- PAGE 93 ---
+69
+accordance with Sharia. Members of the Ulema were trained in madrasas that were 
+in essence, higher education institutions teaching theology and Islamic law. The 
+Ulema had three classes within itself: imam (minister of religion), mufti (juricon -
+sult), and kadi (judge). All of these were involved in regulating the relationship 
+between the religion and many aspects of social life based on Islamic laws. However, 
+the roles of muftis were particularly important because they were responsible for the 
+administration of justice and determined whether the Sultan’s laws and actions are 
+in accordance with Islam. The highest ranking mufti was named Seyhul-Islam (or 
+Shayk al-Islam), who was appointed by the Sultan but who had the power to depose 
+a Sultan if they were not acting in accordance with Sharia. Seyhul-Islam’s authority 
+was almost equal to Sadrazam (Grand Vizier) who had the highest authority in state 
+affairs below the Sultan. Seyhul-Islam declared official statements, called fetvas, on 
+legal and technical matters but also about declarations of war as well as new innova-
+tions such as the use of coffee or tobacco (Berkes 1998). This model of Islamic 
+jurisprudence as part of the state still continues, though to a much lesser degree in 
+the Republic of Turkey. The Department of the Affairs of Piety (Diyanet) issues 
+fetvas on personal religious matters although it does not directly interfere with the 
+state affairs (Gulalp 2005).
+When comparing the enlightenment tradition in Europe and Islamic societies, 
+there are a few differences between Christianity and Islam that are worth mention -
+ing. First, Islam does not have the same ecclesial institutions and priestly class as 
+does the bulk of Christian tradition. In Christian Europe, the church and the state 
+were, for the most part, separate but allying forces, typically defending one anoth -
+er.1 Whereas in Islamic societies, the church and the state were fused; there was not 
+a separate church institution (Berkes 1998; Davidson 2006). The Ulema in the 
+Ottoman State was more of a temporal and official body, unlike the Catholic or 
+Orthodox clergy who had a spiritual corps organized through the church, but often 
+did not have an official position within the government. Thus, as a state authority, 
+Ulema’s prime function was to protect the order (nizam) against any change or 
+reform. In such a traditionalist system, there was no room for change through the 
+agency of state. Berkes argues that Ulema’s influence was so strong that those who 
+proposed a reform or change had to say that they were doing so in order to restore 
+the order (nizam). It is important to note that during the Ottoman times there were 
+major reform movements with similar cognates, such as the Tanzimat, the New 
+Nizam, and Nizamat-I Essasiye (Berkes 1998).
+A second difference between Islamic and Christian societies relates to their asso-
+ciation with science. With some qualification, the Enlightenment was a clash 
+between the new science and Christianity  – both Catholic and Protestant. 2 Both 
+Christianity and Islam were in harmony with science in the medieval times or what 
+1 The distinction was very blurred in the Papal States and in Calvin’s Geneva, and less blurred 
+elsewhere. In England, France and Spain, there were ‘established’, state-sanctioned and controlled 
+church structures that considerably blurred the church/state division.
+2 This is a major and contested historic thesis, but see, for instance, Gay ( 1970) and Israel (2001, 
+2006, 2011).
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 94 ---
+70
+is known as the Golden Age of Islam. Tensions came later in the seventeenth cen -
+tury when modern science began to emerge in Europe. Even though some thinkers 
+still argue that there is a harmony between Islam and modern science (Altwaijri as 
+cited in Davidson 2006), this is rather superficial, according to Edis and BouJaoude 
+(2014), because Islam has a conflict with materialism that rejects supernatural 
+forces operative in nature. The conflict between religion and science in the Ottoman 
+Turkish intellectual life did not start until the end of the nineteenth century when 
+Western ideas of positivism and biological materialism emerged (Ihsanoglu 2006).
+According to Ihsanoglu ( 2006), the Ottomans initially saw themselves superior 
+to Europe and the autarchic structure of governance did not allow for much transfer 
+of scientific and technological knowledge between governments. While the 
+Ottomans selectively adopted new developments, when the Empire lost its political 
+and military edge against Europe, such transfer of scientific and technological 
+knowledge increased, especially in the military area. Ihsanoglu indicates that the 
+Ottomans were mainly interested in the final products and applications of scientific 
+and technological achievements, rather than the processes that brought them about – 
+a situation very similar to many parts of the contemporary world. The Ottomans 
+were not interested in theory, experiment, and the research aspects of science. They 
+lacked the experimentalist tradition and thus struggled to accommodate logical 
+methods and novel empirical knowledge (Kucuk 2012). As such, pre-modern sci -
+ence remained as a collection of isolated facts, often mixed with superstitious beliefs 
+(Edis and BouJaoude 2014). It was not until in 1900 that research became a part of 
+the Ottoman scientific culture with the establishment of the first modern university 
+replacing madrasas.
+Kucuk (2012) points out that the original sceptical movement that epitomized 
+seventeenth century philosophical thinking was absent in Ottoman circles. For 
+instance, Spinoza and Bayle were not known to the Ottomans; and, ironically, 
+Ottoman scepticism toward religion came from religious thinkers themselves rather 
+than philosophers. For instance, Akkach (2007) notes that while in Christian Europe 
+the battle between reason and faith resulted in favour of reason, within the Muslim 
+Middle East, faith and reason had a dialectical relationship. Akkach further elaborates 
+his point by describing four groups of thinkers who represented rational thinking 
+in Ottoman culture during the seventeenth and eighteenth centuries. These were 
+(a) scientists, (b) science-oriented scholars and entrepreneurial officials who promoted 
+the public profile of science in Ottoman society, (c) religious scholars with puritani-
+cal views who thought that Islam should free itself from mystical and superstitious 
+beliefs, and (d) another religious group of scholars who advocated for the expansion 
+of the rational scope of Islamic faith while increasing receptiveness to new ideas 
+and a sense of tolerance.
+Thus, just like the way the church and the state are fused in Islam, it appears that 
+reason is fused with faith at least during the early enlightenment period. This alludes 
+to what Israel ( 2006) defines as moderate (or conservative) Enlightenment, as 
+opposed to radical Enlightenment. According to Israel, radical Enlightenment is 
+characterized by the purest sense of the enlightenment ideal represented by reason 
+alone. Alternatively, moderate enlightenment is represented by reason combined 
+D. Peker and Ö. Taskin
+
+--- PAGE 95 ---
+71
+with faith and tradition. Between the two, the moderate form was more dominant 
+and accepted throughout the Ottoman Empire during the early Enlightenment period 
+(Kucuk 2012).
+Before being exposed to modern western science, science during the classical 
+period within the Ottoman Empire was practiced in madrasas (religious institutions 
+where Islamic studies were conducted). Ottoman scientific activities mainly focused 
+on mathematics, astronomy, medicine and physics. One of the earliest contributions 
+came from Qadi Zadeh al-Rumi (d. 1440) who wrote Commentary on the Compendium 
+on Astronomy and Commentary on The Fundamental Theorems (in Mathematics), in 
+Arabic. His tradition continued through his students including Ali Kuscu (d. 1474), 
+who was from Turkestan. Still, some of the twelve books he wrote on astronomy 
+(mostly in Persian) were widely taught in Ottoman madrasas (Ihsanoglu 2006).
+In medicine, one of the most significant contributions was made by Serefeddin 
+Sabuncuoglu (1385–1470?) who wrote a surgery textbook entitled Imperial Surgery, 
+in Turkish. The book was the first of its kind with descriptions of specific surgical 
+procedures accompanied by colourful miniatures as well as the first known depic -
+tions of female surgeons (Bademci 2006).
+Perhaps one of the most interesting cases in the history of Ottoman science is 
+Taqii-al-Din (1520/1525–1585) and his observatory. On the one hand, this case 
+shows how Ottomans were open to new developments and scientific discovery; on 
+the other hand, it shows how fragile these efforts were in a society where theocracy 
+and superstitious beliefs were prevalent. In the Ottoman tradition, since the late 
+fifteenth and early sixteenth centuries the palace had astronomers who were gradu-
+ates of madrasas. These astronomers prepared calendars, fasting schedules, horo -
+scopes, and determined the most propitious hour for important events such as 
+imperial accessions, wars, the launching of ships, etc. (Ihsanoglu 2006). Taqii-al 
+Din, who came from Egypt, was appointed as the chief Ottoman astronomer early 
+during the reign of Sultan Murad III (1574–1595). A sophisticated, state of the art 
+observatory was built for him that operated between 1574 and 1580. Taqii-al-Din 
+invented the sextant and other astronomical tools to determine equinoxes, and 
+brought many new approaches to determining the positions of stars. Further, he 
+developed more precise methods to determine the time of the Sun’s apogee than 
+those of Copernicus and Tycho Brahe.
+While Brahe, who was a Danish contemporary of Taqii-al-Din, was able to con-
+tinue his work within his observatory until his death, Taqii-al-Din’s work was cut 
+short because his observatory was ordered to be demolished by Sultan Murad III in 
+1580. Although historians do not agree on the exact reasons for this, one explana -
+tion is that Taqii-al-Din’s prediction of favourable success for the Ottoman army 
+(based on his recorded observations of Halley’s Comet) did not materialize. 
+However, another important explanation is that the Ulema was suspicious of Taqii- 
+al- Din’s activities (believing that such activities might support infidels) and recom-
+mended the demolition to the Sultan (Sayili as cited in Akkach 2007). Thus, while 
+Brahe’s apprentice, Kepler, further developed Brahe’s ideas to propose the laws of 
+planetary motion, Taqii-al-Din did not have the opportunity to refine his ideas, most 
+of which remained vague. Later, the scientific activities in the Ottoman Empire 
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 96 ---
+72
+drastically declined, beginning from the seventeenth century, due to the disruption 
+in the economy, the loss of land, and the loss of power in the central authority to 
+support scientific activities (Ihsanoglu 2006).
+An important argument about why Islamic nations did not have enlightenment 
+comparable to that of Europe relates to the economic structure of the Islamic societ-
+ies. According to Davidson ( 2006), feudalism was the prime mode of production 
+within Europe whereas the Ottoman Empire had a tributary mode of production. 
+The difference between these two modes of production lay in how the economic 
+power over the peasants was exerted by the monarchies within their respective con-
+texts. In Europe, a more decentralized governing structure existed in which mon -
+archs passed some of their authority down to local lords who then exploited the 
+peasants who lived on the land through coercive rent and labour. Davidson argues 
+that this fragmented structured allowed for the development of a capitalist economy 
+because different forms of production relations could exist. On the other hand, in the 
+Ottoman Empire, all agricultural land belonged to the Sultan with peasants as the 
+Sultan’s direct tenants. The central state, which did not allow for private ownership 
+of land or different approaches to production, collected taxes directly from the peas-
+ants with religion as the source of the political legitimation of this tributary mode 
+(Gulalp 2005).
+As the Enlightenment movement was emerging in Europe where capitalism was 
+growing, the Ottoman Empire kept its tributary-based economic structure and it was 
+poorer than Europe (Georgeon 2006; Kucuk 2012). More importantly, the Ottoman 
+Empire, and the subsequently young Republic of Turkey, did not have the signifi -
+cant conditions that led to the Enlightenment such as the Renaissance, seventeenth 
+century scientific revolutions, or the modern wars of religion. Nevertheless the post- 
+War proclamation of the Republic of Turkey, with its modern constitution, was cer-
+tainly in the enlightenment tradition.
+In his work related to the early enlightenment of Istanbul (during the reign of 
+Sultan Ahmed III 1703–1730), Kucuk ( 2012) describes two mechanisms noted by 
+historians for the spread of the Enlightenment from its Western European origin to 
+different geographies. The first mechanism was through the actors and networks of 
+people that carried the ideals of Enlightenment. The second mechanism was the 
+dispersion of the Enlightenment ideals through the texts that were systematically 
+translated across different domains of inquiry, including literature, politics, philoso-
+phy, etc. It appears that both mechanisms were in place during the early Ottoman 
+and Turkish enlightenment period. Many Ottoman-Turkish thinkers visited Western 
+Europe, especially France (Korlaelci 2009), received education, and influenced the 
+political and intellectual life within the Ottoman Empire. Many literary and scien -
+tific works were translated to the Ottoman and Turkish languages. For instance, 
+from 1729 to 1928, the year Turkey adopted the Latin alphabet, 3534 books were 
+translated into Turkish (Berk 2007). This tradition continued in the young Turkish 
+republic. For example, Hasan Ali Yucel, a Minister of National Education and one 
+of the important political figures of the early republic, initiated a bureau of  translation 
+that translated 496 pieces of world literary classics and philosophical texts into 
+Turkish between 1940 and 1946.
+D. Peker and Ö. Taskin
+
+--- PAGE 97 ---
+73
+In what follows, we present the Enlightenment tradition by examining some of 
+the key events within distinct historical periods from the late Ottoman Empire to 
+today’s modern Turkey while providing cultural, social, and political contexts for 
+these events.
+3.3  Eighteenth Century Reforms in the Ottoman Empire
+During this period, after losing battles in both military and economical fields, the 
+Ottomans realized that they were not the better of the West in such matters. The 
+Ottoman Empire began losing its land and power beginning with the Treaty of 
+Karlowitz (1699), and subsequently the Treaty of Passarowitz (1718). These treaties 
+mark the decline of the Ottoman Empire, and later resulted in long-lasting 
+Westernization (i.e., modernization) movements which were the precursors for 
+more systematic enlightenment movements culminating in Ataturk’s comprehen -
+sive reforms that, in many respects, out-enligthened what had occurred politically 
+and culturally in Western nations.
+Berkes (1998) defines this period as the “new worldliness” where the spirit of 
+worldliness rose as the interest in secular learning increased; this was true not only 
+for the prosperous elite but also for other classes too. Ottomans were interested in 
+new developments in every area of life including science, philosophy, history, 
+music, and architecture. The period following the Treaty of Passarowitz up to 1730 
+is called the Tulip Era, where the Ottomans oriented themselves toward the West. 
+During this Tulip Era, Ottomans adopted new tools and technologies including 
+printing press machines, architectural and literary styles, and translated many for -
+eign books into the Ottoman language. Ottoman diplomats were sent to France and 
+other countries to better understand the reasons for the West’s success.
+The loss of territory took its toll on the empire’s economy because tax money 
+that came from local merchants trading with Europe was lost (Gunal 2013). To 
+recover from this economic downturn, the Empire first brought in Western scholars 
+during Selim III’s reign (1789–1807) and, later, sent students to the West during 
+Mahmut II’s reign (1808–1839). During this period, the opening of new military 
+and civilian schools in addition to the Madrasas was the first attempt to increase the 
+quality of education as well as the Ottoman Army’s power. The artillery branch of 
+the army was reorganized and headed (1729) by Claude Alexandre de Bonneval, a 
+French army officer who joined the Ottoman Army and converted to Islam. New 
+naval engineering and army engineering schools were opened in 1773 and 1796, 
+respectively, focusing on building their own artillery weapons. The first science 
+textbook translations were made during this period even though they were for mili-
+tary purposes rather than general education (Gunal 2013).
+According to Tekeli and Ilkin ( 1993), the Ottomans’ scientific developments 
+were delayed, fragmented, and selective. For instance, the earliest references to 
+Copernicus were in 1660, and until the beginning of nineteenth century Ptolemy’s 
+theories were taught in astronomy courses. However, Galileo and Newtonian laws 
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 98 ---
+74
+were adopted earlier for military purposes. It was hard to say that there is a systematic 
+effort for gaining scientific advancements and reforming schools.
+While Ottoman ruling elites were trying to understand the West and the charac -
+teristics of their institutions that made them successful, non-Muslim communities 
+within the Ottoman Empire had their own enlightenment within their respective 
+communities. The Ottoman Empire occupied a massive land spread over three con-
+tinents. Within this largely diverse geography and rich ethnic composition, it is hard 
+imagine a unified view of an enlightenment phenomenon for Ottoman societies. 
+Greeks, Armenians, and Jews had their own trajectories of enlightenment on the 
+Ottoman canvas. During 17th and 18th centuries Greek educational institutions 
+were still influenced by the Ecumenical Patriarchate of Constantinople. Beginning 
+with the reform movements within the Patriarchate in 1776, the influence of mer -
+chants increased, especially in secondary education (Tekeli and Ilkin 1993). With 
+the increased Greek nationalism, two engineering schools were opened in Bucharest 
+and Jassy. Later in 1803, Greeks established an academy in Ayvalik with a labora -
+tory and library.
+Before experimentation and laboratories first appeared in Darulfunun in 
+the1860s, at the beginning of the 1800s, a young Greek scholar Konstantine Kumas 
+was teaching about experimentation, observation, and Kantian philosophy in Greek 
+schools in Izmir. However, the Patriarchate reacted to the secularization of educa -
+tion and these schools were closed in 1819. Another school in Istanbul, Kurucesme, 
+provided education for low income Greek students from the secondary level to the 
+postsecondary, higher education level. This school was also not welcomed by the 
+Patriarchate and, in 1820, was closed during a Greek uprising. The Greek Church 
+feared that their authority over the Greek community was diminishing which was a 
+typical phenomenon among the different churches of the Ottoman society. Still, the 
+Greeks began using the printing press (1627) and there was a growing group of 
+Greek intellectuals questioning the Church’s authority.
+The Armenian community was also active in their schooling efforts. Armenians 
+used the printing press beginning in 1576. As such, Tekeli and Ilkin ( 1993) report 
+that Armenians translated works that originated in Vienna and Venice. In the Amlorti 
+Monastery in Bitlis (located in eastern Anatolia province), science courses were 
+taught by the start of the eighteenth century with many Armenian schools opening 
+in many parts of the Empire throughout the early eighteenth century. However, the 
+first known official Armenian school was opened by Midirgic Miricanyan toward 
+the end of the eighteenth century and later this school was converted to a postsec -
+ondary higher education institution. Somel ( 2005) reported that the quality of 
+Armenian schools was better in the western and central parts of Anatolia than east-
+ern Anatolia, which suffered from a scarcity of teachers. By the 1870s, in Anatolia 
+there were about 450 Armenian schools and 80,000 students, while in Istanbul there 
+were approximately 48 schools and 6000 students (Dere 2008).
+Although Jewish schools thrived during sixteenth century, they were relatively 
+more stagnant during seventeenth and eighteenth centuries in comparison to Greek 
+and Armenian schools. Tekeli and Ilkin (1993) attribute this to the fact that the Jews 
+lost ground to the Greek and Armenians in the Ottoman Court. Another purported 
+D. Peker and Ö. Taskin
+
+--- PAGE 99 ---
+75
+reason for the loss of influence from Jewish schools is the fact that Sabbatai Zevi, a 
+Jew from Izmir, declared himself the Messiah in 1648 and 1666. The resulting 
+spread of mysticism within Jewish society hampered the progression of Jewish 
+schools. Interestingly, while the Jewish people were the first to bring the printing 
+press to the Ottoman Empire in 1492, in the 60 years between 1650 and 1710 they 
+had not published any books. It was not until the second half of the nineteenth cen-
+tury that Ottoman Jews detached themselves from the Western religious communi-
+ties (Tekeli and Ilkin 1993). During this strict conservative era, the Orthodox Jewish 
+community advised that their members not send their children to Galatasaray High 
+School, one of the oldest educational institutions in Istanbul because it did not 
+observe kosher rules.
+The eighteenth century meant an exploration of Western ideas and institutions 
+for the Ottoman ruling class and elite. They realized that change was necessary but 
+also wanted to understand the reasons for the West’s continually developing advan-
+tage in military and economical areas. Many diplomats were sent to Europe and an 
+extensive flow of Western ideas, tools, knowledge, and ways of living became avail-
+able. Within this context, the Ottomans were first interested in reforming the mili -
+tary. They realized the importance of mathematics and physical sciences for military 
+success. Several books in trigonometry and natural sciences were translated and, for 
+the first time, printing press machines were used. Ibrahim Muteferikka, a Hungarian 
+war slave who converted to Islam, was the first person to use a printing press among 
+the Ottoman’s Muslim community. He had to convince Ottoman Sadrazam (Grand 
+Vizier), Seyhul Islam and the Ulema to use the printing machines. He was able to 
+secure permission for printing only non-religious books.
+In the Ottoman Empire, unlike Western Europe, it took until the nineteenth cen-
+tury to have the first constitutional political system. For such a system to be estab -
+lished, medieval estates needs to be dissolved. However, because the religion and 
+state were fused within the Ottoman tradition, there was resistance to such social 
+and political changes for a long time (Berkes 1998). Therefore, the Ulema contin -
+ued to exert its authority over the acceptability of changes. In time, the Ulema 
+accepted some changes as inevitable necessities of the times. However, when the 
+status quo was threatened by the need for change at the beginning of the seventeenth 
+century, the views among the group of lower ranking Ulema fundamentalist con -
+tested most changes as being against Sharia (Berkes 1998). Increasing interest for 
+mysticism and superstition in society, bolstered by fundamentalist views, was the 
+biggest obstacle for rationalism.
+Another reason for the growing resistance to change came from the Ottoman 
+resentment of the West due to the unfolding political events at the beginning of the 
+eighteenth century. First, there was a reaction against the West’s increased interest 
+in materialist life in a society, where spiritualism had long been the dominant ethos. 
+Second, as the Ottoman Empire was threatened by a rising Russia, it turned her face 
+more toward the West, especially France, which was the strongest power within 
+continental Europe. France and the Ottoman Empire both had conflicts with Russia, 
+and their alliance grew through strengthened diplomatic relationships. The Ottoman 
+Empire granted France several concessions that allowed legal, economical, and 
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 100 ---
+76
+other privileges. These concessions to France, along with France’s diplomatic 
+encouragement to begin a war with Russia, resulted in more resentment of the West 
+and its Ottoman reformers when the Ottoman Empire lost the war with Russia 
+(1768–1774). As the Ottomans continued to struggle in economic and military 
+areas, they saw Europeans as a threat to their sovereignty and cultural and religious 
+inheritance (Berkes 1998).
+3.4  Nineteenth Century Reforms in the Ottoman Empire
+During the nineteenth century, while Europe experienced an expansion of bourgeois 
+and proletariat classes with growing industrialization and capitalism, the Ottoman 
+Empire still maintained its mediaeval class composition. Ottomans were still focus-
+ing on regulating the relationship between the citizens and the state, especially for 
+the minority populations. Tanzimat Proclamations (1839) and The Ottoman Reform 
+Edict of 1856 are two important milestones of this era. The Tanzimat Proclamations 
+were the first constitutional document in any Islamic country. It stated that a new set 
+of laws will be implemented, although still in accordance with Sharia. These new 
+laws were meant to protect the inviolability of life, property and honour, and were 
+applicable to all citizens, Muslims and non-Muslims alike. Later, the Reform Edict 
+of 1856 further extended the rights of citizens, especially for non-Muslims.
+On the other hand, despite the economic and social struggles of the Ottoman 
+Empire, the infusion of scientific and technological knowledge continued, impor -
+tantly, with a more positive perception of science promoted at least among the rul -
+ing elite and intellectuals. By the mid-19th century a growing group of Turkish 
+intellectuals who had been to Europe, or were influenced by European ideas, 
+emerged. This group promoted a new discourse on science and emphasized the 
+familiarity with science as one of the conditions of being a good, patriotic Ottoman 
+(Yalcinkaya 2015). Yalcinkaya asserts that in nineteenth century, one of the most 
+frequently used words within Ottoman texts about the state was “ignorance”. It was 
+held that ignorance of the “new knowledge” (science) was the main reason that the 
+Ottoman State was failing; by then the Ottoman ruling class had realized that reli -
+gious sciences and modern sciences were entirely different realms. In order to pros-
+per in this world, they understood that scientific and technological advancement was 
+necessary. On the other hand, tensions emerged between the ruling class and intel -
+lectuals because official documents presented science as a gift bestowed by the 
+Sultan to his subjects rather than knowledge which was a human enterprise acces -
+sible to everyone who was interested in it.
+Yalcinkaya’s work further illustrates how new knowledge (science) was negoti-
+ated among the Ottoman elites as “useful” knowledge as they attempted to position 
+science with respect to the old knowledge (religion). Eventually, these discussions 
+brought a turning point during this century in which this new knowledge became 
+associated with Turkish while old knowledge (religion) was associated with Arabic; 
+D. Peker and Ö. Taskin
+
+--- PAGE 101 ---
+77
+meanwhile Turkish nationalism grew, especially among such groups as the Young 
+Ottomans.
+Prior to the Tanzimat Proclamations, public education was not on the agenda of 
+reform movements. As a continuation of the army engineering schools that were 
+opened in previous century, several more major schools were opened including a 
+medical school (Tibhane-i Amire) in 1827, a surgery school (Cerrahhane-i Amire) 
+in 1832, a military school (Mekteb-i Harbiye) in 1839, and a veterinarian school 
+(Baytar Mektebi) in 1841; these were later followed by agricultural, welding, and 
+forestry schools. In 1859, the first public administration school, Mekteb-i Mulkiye, 
+was opened. These schools, however, did not comprise a unit similar to a university, 
+but later conglomerated to make the first university-like establishment, Darulfunun, 
+in 1863. During the reign of Mahmut II, children of the high ranking bureaucrats in 
+the Ottoman Court and its branches were encouraged to go to these new schools. In 
+1820, the Besiktas Society of Science was established by some of the high ranking 
+bureaucrats who held their meetings at their houses. This can be viewed as the first 
+faculty organization in Turkish higher education (Gunal and Gunal 2011). Later 
+these people were exiled and accused of being Bektashi, a non-mainstream, Alevi 
+Islamic sect, in the state’s attempt to prevent the growth of this scientific organiza-
+tion (Tekeli and Ilkin 1993).
+The first elementary level schools (Sibyan Mektepleri) were opened in 1824 and 
+elementary education was mandated for Muslim children by an imperial edict; but 
+schooling rates still remained low. In 1838, public middle schools (Rustiye 
+Mektepleri) were opened, but their dispersion across the empire had been quite slow 
+(Tekeli and Ilkin 1993). In 1845, concerned by the slow progress of public educa -
+tion, Sultan Addulhamid II proposed that the focus should be on how religion and 
+reason can be reconciled (Berkes 2002). In the same year, new military schools at 
+the middle school and high school levels were opened. To provide the work force 
+needed for these newly opened schools, a Normal School for Boys (Darulmuallimin 
+1847), a middle-school level teacher-preparation school (Darul Muallimi Sibyan 
+1862) and a Normal School for Girls (Darulmuallimat 1870) were opened. Two of 
+the biggest successes of this era were the inclusion of girls in middle education, and 
+the sending of graduates of the engineering school to Europe between 1846 and 
+1855.
+In 1841, Prof. Bernard, who was invited from Vienna and served as palace physi-
+cian, secured permission from the Ulema to work with human cadavers which was 
+previously prohibited (Yildirim 2014). The Medical school, which had a 9 year pro-
+gram that heavily emphasized science content within the first 4 years, saw its first 
+graduates in 1843. Scottish author Charles MacFarlane noted interesting observa -
+tions about the Ottoman medical school. According to MacFarlane’s notes, Turkish 
+medical students read books about materialism and appreciated these views. Systeme 
+de Nature by Baron d’Holbach and writings of Diderot and Cabanis were some of 
+the work MacFarlane referred to. MacFarlane was surprised when he learned that 
+V oltaire’s Dictionary of Philosophy  and Candide were translated into Ottoman. 
+Berkes (2002) noted that these observations were shocking for MacFarlane, who 
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 102 ---
+78
+had anti-materialist views. Berkes adds that the Medical school raised important 
+intellectuals including Hayrullah Efendi, Hekim Ismail Pasha and Fuat Pasha.
+In 1851, Cevdet Pasha founded Encumen-i Danis, a type of scientific society 
+whose purpose was to provide a venue for intellectual discussions, encouraging 
+scientific research, and illuminating the public about scientific advancements. The 
+idea of Darulfunun was first seeded here (Berkes 2002). Later, some who had left 
+Encumen-i Danis founded another scientific society, Cemiyet-I Ilmiye-I Osmaniye. 
+From this latter group, Tahir Munif Efendi published the first science journal, 
+Mecmuai Funun  in 1862. Later, two public high schools (Sultani) were opened, 
+Galatasaray (1867) and Darussafaka (1873). It is interesting to note that the first 
+modern university type establishment, Darulfunun (1863), opened before these high 
+schools. Darulfunun would have initially suffered from a lack of students; these 
+feeder schools would partially offset that problem.
+The Engineering schools that were opened in the eighteenth century provided the 
+foundation for Darulfunun, which literally means science-house. It was intention -
+ally named so that they were distinct from madrasas which were educational institu-
+tions that primarily taught religious studies (Gunal 2013). In 1863, some scientific 
+demonstrations and experiments were made open to the public and garnered much 
+attention. In one of these events, Dervish Pasha demonstrated electricity. Soon 
+thereafter, the Ottoman Government opposed these science demonstrations for two 
+reasons. First, it was thought that these demonstrations and experiments were 
+against religion. Relatedly, a second reason was that some thought that it was inap-
+propriate for high ranking government officials to take part in them. Darulfunun was 
+closed two and a half years after its opening due to a fire; it reopened and closed 
+several more times thereafter. As Gunal ( 2013) emphasized in his book, it was 
+understood at that time that elementary and secondary education should also have 
+science content in order to provide students for Darulfunun.
+But, this begs the question as to why Darulfunun opened first, in the absence of 
+a supporting public education system. The answer is twofold. First, some of the 
+Ulema within the madrasas resisted modernization. The Ulema wanted to protect 
+their privileged status in the theocratic society. Second, the leaders of the Ottoman 
+Government perhaps sought a quick remedy for the economic loss and weakened 
+government authority by simply hoping that Darulfunun would improve the deterio-
+rating conditions. It was easier to provide a higher education for a small, young, 
+elite group in Istanbul than making a grassroots movement of public education 
+across the country.
+In 1864, a new unit in the Ministry of Education was established (Meclis-i Kebir) 
+which included one appointed representative from Greek, Armenian, Catholic, 
+Protestant, and Jewish communities. In 1867, France gave a diplomatic note to the 
+Ottoman Government for reforming the education system that influenced the pass-
+ing of the Ordinance of General Education in 1889.The 198-item ordinance 
+addressed teacher education, reserving the existing Christian schools and opening 
+new ones, establishing mixed-sex education, and opening new public libraries 
+(Altin 2008). In addition, it addressed the opening of elementary schools (Sibyan 
+mektepleri) in every village, middle schools (Rustiye mektepleri) in each town, high 
+D. Peker and Ö. Taskin
+
+--- PAGE 103 ---
+79
+school preparation schools (Idadi) in larger towns, and high schools (Sultaniye) in 
+each regional centre; and teacher colleges for men and women in Istanbul and a new 
+university were proposed.
+After the Ordinance of General Education came into existence, Darulfunun was 
+reopened in 1870 with a new name, Darulfunun-u Osmani. It included faculties of 
+Law, Literature, and Science. The opening ceremony was made in three languages. 
+Tahsin Efendi, the first director of Darulfunun-u Osmani, spoke in Turkish, Greek 
+instructor Jan Aristokles spoke in French, and Cemalettin Afgani spoke in Arabic. 
+Tahsin Efendi, who was educated in France, influenced many Darulfunun-u Osmani 
+students who were taught in the French language. Many resource books and jour -
+nals were ordered from Europe. Even though Tahsin Efendi went to Medrese and 
+received a religious education, he was accused of blasphemy and eventually dis -
+missed. Similarly, Cemalettin Afgani Efendi, another leading figure in the school, 
+was accused of atheism upon his remarking that prophecy is an art. He had to even-
+tually leave Istanbul (Tekeli and Ilkin 1993; Berkes 2002).
+In 1872, Darulfunun was closed for the second time. Although at the surface 
+level the reason for the closing was Cemalettin Afgani’s actions and remarks, it was 
+clear that Sheikh al-Islam, the religious authority, did not like Darulfunun. In addi-
+tion, the facts that Tahsin Efendi had endorsed the then-current French education 
+system, that he was a Bektashi, and that Darulfunun housed several other progres -
+sive educators made Darulfunun an easy target for accusations that led to its closing. 
+Perhaps the naming of Darulfunun (which literally translates to science house) 
+instead of disguising it with a different name such as darululum (house of knowl -
+edge) was a strategic mistake (Tekeli and Ilkin 1993).
+Because of the attacks from reactionaries and lack of legislation protecting 
+Darulfunun, its third opening, which occurred with little fanfare in 1874 was under 
+the name of Galatasaray Sultani. This third iteration of Darulfunun was the first to 
+produce graduates, all of whom were taught in French because of a lack of instruc-
+tors who could teach in Turkish (despite the official language of the school being 
+Turkish). The Galatasaray Sultani was closed in 1877 due to what is generally 
+believed to be economic problems and the Ottoman-Russia wars. However, Gunal 
+(2013) suggested another possibility for the closing of the Galatasaray Sultani. At 
+that time, the Ottoman Empire lost its power within the Balkan region. Because 
+most of the Galatasaray Sultani’s students had Balkanian origins, the closing of the 
+institution could have been a political move to prevent the education of Balkanian 
+youth which the government feared could betray the Empire.
+In 1896, the Grand Vizier Said Pasha submitted a report to the Sultan Abdulhamid 
+II indicating that the Ottoman Empire could only be successful in competing with 
+the West if the Ottoman people widely endorsed a scientific worldview. In 1900, 
+Darulfunun reopened for the fourth time with five faculties including an education 
+faculty. During the reign of Sultan Abdulhamid, there was a great level of censor -
+ship by the ministry of education of what was taught in Darulfunun, especially in 
+the social sciences, because of a fear that education could lead to changes society 
+and a reduction in the Sultanate’s power. Hashem Pasha, the Minister of Education, 
+accused Darulfunun of eroding the moral values of its students.
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 104 ---
+80
+With the second constitutional era beginning in 1908, Emrullah Efendi became 
+the Minister of Education who advocated for a compulsory, free elementary educa-
+tion (Gunal 2013). At the time, it was believed that the quality of primary and sec -
+ondary education would increase with a rise in the rate of higher education 
+attainment. Thus, there was an increased interest in the opening of new institutions 
+of higher education. In 1912, the name of Darulfunun was changed to Istanbul 
+Darulfunun. Later, during WW I, Allied forces occupied Istanbul and many faculty 
+members who were thought to be members of the Ittihat and Terakki (Committee of 
+Union and Progress), a Turkish nationalist group, were exiled. Some of the remain-
+ing faculty were discharged. Despite all these pressures and the devastating effects 
+of the wars, Istanbul Darulfunun remained open until 1933 (Gunal 2013).
+Darulfunun was also a milestone for co-educational education. In 1914, the first 
+female students were accepted although they were taught in separate classrooms 
+from male students. However, because of a negative societal reaction to this, Inas 
+Darulfunun with teacher education programs in literature, mathematics, and natural 
+sciences was opened exclusively for women. In 1921, Mustafa Kemal Ataturk 
+opposed single sex education during the National Education Congress, bringing 
+about some mixed-gender classrooms. Still, some women boycotted these classes.
+In the meantime, Ionia University, the first institution to carry the word “univer-
+sity” within its name, was established in 1919 by the Greeks in Izmir (Gunal 2013). 
+Its founder was Konstantionos Karatheodoris, a well-known mathematician who 
+also taught Albert Einstein. When the Greek invasion of Western Turkey was halted 
+during the Turkish Independence War, the Greeks reduced resources for this 
+university.
+The trajectory of the Enlightenment tradition within the Ottoman society had its 
+ups and downs. While efforts were made to move the society forward through edu-
+cation, these efforts periodically fell short as evidenced by Darulfunun’s history. 
+Perhaps the biggest barriers for change were the primarily agrarian society with its 
+traditional values, and the existing medieval structures, including the still influential 
+Ulema class. In addition, in response to weakening economic conditions due to land 
+lost and diminishing tax revenues, religious and nationalistic conservatism emerged 
+which further increased society’s resistance to change.
+.
+3.5  First Half of Twentieth Century: A New State
+The 1920s were marked by a post WWI economic depression, continuing wars for 
+independence, and the foundation of the new Republic of Turkey. Before the Turkish 
+Republic was founded in 1923, the Sultanate was abolished in 1922. Later, in 1924 
+the Caliphate was abolished and a special law (Tevhid-i Tedrisat) regulating the 
+unity of all instructional practices was passed. This meant the closing of institutions 
+that solely taught Islamic doctrine, such as Madrasas, and the opening of secular 
+institutions (Okcabol 2005). In the meantime, another education law regulated how 
+D. Peker and Ö. Taskin
+
+--- PAGE 105 ---
+81
+religious education was to be given. In 1924, Prayer Leaders and Preachers schools 
+(Imam Hatip Schools) were opened, followed by theological schools. Although it 
+may seem counter intuitive that a secular government would open imam schools, 
+they did so to create a new clergy class who was well-educated and practiced a non- 
+extremist form of Islam. In 1928, coeducational institutions were established and 
+the Latin alphabet was accepted. Natural sciences, physics, and chemistry became 
+mandatory courses. Further, all of the educational services were now controlled 
+under the authority of the Ministry of Education. All of these changes were quick 
+and revolutionary.
+For the first time, secularism in Turkey found its constitutional recognition and 
+legitimation when in 1928 when the article declaring Islam as the official state reli-
+gion was removed from the constitution. Later, in 1937, secularism was added to the 
+constitution as the defining feature of the state (Berkes 1998). The Turkish idea of 
+secularism was borrowed from the French laicism and appropriated in a unique way. 
+That is, secularism should not be understood as an abstract concept and legal bundle 
+of rights and policies. Rather it should be understood as a specific ideology, bound 
+to a particular religion and political context (Cinar et al. 2012).
+In the case of Turkey, secularism is not just a mechanism for the government to 
+control the religious practices, but, more importantly, it is a way to use religion as 
+means to establish state authority. Unlike some Western states such as France, the 
+church and state in Turkey has never been separated. The Department of the Affairs 
+of Piety (Diyanet) continues to be a state branch, organized directly under the office 
+of the prime minister. As such, using public funds, it manages various religious 
+affairs such as, appointing imams and muftus, maintaining mosques, distributing 
+religious publications, etc. One example of how the state controls religion in public 
+spaces was the banning of head scarfs in schools, universities, and government 
+offices for many years, until this ban was abolished under a more recent regulation. 
+Diyanet issues a Friday hutbe (sermon script) every week and this is read to the 
+Muslim followers in approximately 85,000 mosques across the county. These hut -
+bes mostly address the original and central ideas of Islam, but they are often coloured 
+with the official ideology of the state.
+Ataturk’s Turkey (1923–1938) faced toward the West, and it had a firm positivist 
+authoritarian ideology driving it to get rid of some of the old structures that seemed 
+to be obstacles for change. From the epistemological stand point this ideology 
+assumes that what we know about nature and society is the same kind of knowledge, 
+and from the political standpoint this knowledge has the function to shape and con-
+trol the society (Toker and Tekin 2007).
+The roots of positivism in the Turkish Enlightenment tradition go back to the 
+Tanzimat period. First, several Ottoman ambassadors in France were directly 
+exposed to positivism. For example, Mustafa Resit Pasha (1800–1858) read August 
+Comte, and under Resit Pasha’s auspices, Ibrahim Sinasi (an author and journalist) 
+became friends with such French philosophers as Earnest Renan and Emile Littre. 
+This trend continued over several decades and a growing number of Turkish intel -
+lectuals subscribed to positivist thought and became influential thinkers of the time 
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 106 ---
+82
+including Riza Tevfik, (1868–1949), Huseyin Cahit Yalcin (1874–1957), and Ziya 
+Gokalp (1876–1924), (See Korlaelci 2009).
+History and literature were the fields where the first gleanings of positivist 
+thought were seen in Turkish intellectual culture. Beginning from the Tanzimat 
+period to the early years of the Turkish Republic until the death of Ataturk, the his-
+tory textbooks’ descriptions of the early historical ages removed religious accounts 
+of the origin of humans, and adopted a naturalist approach supported by physical 
+anthropological evidence. In these textbooks, it is stated that “God” is an imagina-
+tion of the human mind rather than the creator of everything. The “chain of life” 
+claim that humans originated from other life forms was embraced by history text -
+books (Toprak 2011). Beginning in 1930, mandatory religious courses were gradu-
+ally removed and religious expressions were removed from general education 
+programs and textbooks (Eskicumali 2003). The curriculum was related to daily life 
+and secularized. For the first time, in 1934, the theory of evolution appeared in the 
+nation’s curriculum. Many foreign textbooks and resources were translated into 
+Turkish. In 1934 the constitution was changed so that women were given the right 
+to vote and to be elected to parliament. Thus there were a number of major radical 
+social, cultural and educational changes that all occurred within a decade.
+By 1924 news spread that the alphabet would be changed from Arabic to Latin. 
+Darulfunun faculty indicated that they would boycott this. For the new republican 
+regime to flourish, restructuring of the Darulfunun was necessary (Gunal 2013). 
+Beginning in 1928, supported by a new legislation, students were sent abroad for 
+advanced academic studies to provide the academic workforce needed to restructure 
+Turkey’s system of higher education. An amended version of this law is still in 
+effect resulting in many modern faculty members in Turkey who obtained their 
+terminal degrees from abroad. About this same time, the Ministry of Education 
+requested a report from Swiss-German educator, Albert Malche, regarding the sta -
+tus of Turkey’s higher education system. The resulting report indicated that 
+Darulfunun did not contribute to Turkey’s knowledge base; simple translations from 
+Western work were admitted as dissertations; faculty, who were often occupied with 
+outside jobs, had minimal involvement in the campus; and advisement, mentoring, 
+and scholarly work were absent. Turkish reporters made similar observations as 
+well and the government decided to take action (Oncu 2007).
+In 1933, Darulfunun was closed for one day and the name was changed to 
+Istanbul University. One hundred and fifty seven of the 240 faculty members were 
+discharged and provided the option of working for another department within the 
+state. This represents the first ideological retrenchment of university faculty within 
+Turkey and was part of a larger effort to establish a modern university. It strove to 
+fortify the single party regime’s higher education ideology of strengthening the 
+secular nation-state model while continuing to modernize. Interestingly, Oncu 
+(2007) points out that this reform was paradoxical in and of itself, as the relatively 
+self-autonomous Darulfunun was replaced with an institution representing the 
+authoritarianism of the government.
+Faculty positions at the new Istanbul University were filled with the remaining 
+Darulfunun academics, young academics who were returning from their training in 
+D. Peker and Ö. Taskin
+
+--- PAGE 107 ---
+83
+Europe and many scientists who escaped from Nazi Germany (Gunal 2013). It is 
+worth noting that the quality of faculty who left Germany and came to Istanbul 
+University were among the best in their disciplines. Alfred Kantorowicz was an 
+eminent dentist, who remarked that Istanbul University was the best German 
+University of the world. These German academics were political dissidents in Nazi 
+Germany; they were liberals who were primarily socialists and Jewish (Guleryuz 
+2008; Oncu 2007). In 1933, the Advanced Agriculture Institute was opened in 
+Ankara with Friedrich Falke serving as its first rector. Although it was classified as 
+an institute, in several respects it was thought to embody more university character-
+istics than Istanbul University itself (Gunal 2013). In fact, Turkey’s first doctoral 
+program was opened in this highly research-orientated institution. This institute 
+later became Ankara University in 1946, with strong programs in the natural 
+sciences.
+In order to re-structure schooling and establish a public education system, Turkey 
+invited several educators and academics to consult in the planning of these reforms 
+and new initiatives. The most influential of these people was John Dewey who made 
+his first visit during the summer of 1924. During a three-month visit he visited 
+schools in Turkey and spoke with teachers, school administrators, and higher level 
+officials. Upon leaving, he created an initial report followed up by a more compre-
+hensive report on the Turkish education system that addressed aspects of instruc -
+tional programs, the Ministry of Education’s organization, teacher education, the 
+schooling system, health and hygiene, and school discipline. Through these works, 
+Dewey discussed the problems of teachers and teacher education, the importance of 
+translating basic science education resources to Turkish, and the democratic admin-
+istration of schools (Dewey 1924a). Ultimately, Dewey provided several recom -
+mendations related to the decentralization of education, the re-structuring of rural 
+education based on local needs, the opening of local and mobile libraries, and estab-
+lishing educational unity while avoiding uniformity.
+The influence of Dewey on the Turkish education system was contentious for 
+several reasons. First, Dewey and Turkish leaders philosophically differed on the 
+purpose of education. For Ataturk and his officials, education was a political tool to 
+help shape society as the new state sought to develop its identity. For Dewey, how-
+ever, education was rather a social ideal that contributed to the ongoing free growth 
+of society (Santoro and Dorn 2012).
+More importantly, Dewey and Turkish officials also differed on the administra -
+tion of education; while Dewey advocated a system with strong localism, Turkish 
+officials believed in a centralized education system which imposed a national cur -
+riculum. Even though Dewey acknowledged that the central government should 
+lead the reform movements, he warned that a highly centralized education system 
+would make the social ideal of democracy impossible, due to a lack of local com -
+munity involvement. Along this vein, Dewey warned that a high level of nationalism 
+and centralism would result in anti-democratic practices (Santoro and Dorn 2012). 
+This is exactly how Kemalism (i.e., the principles of Ataturk) is criticized by many 
+modern intellectuals, who assert that it suppressed different ethnic and religious 
+identities.
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 108 ---
+84
+However, Ataturk’s prime goal was to build a nation and a secular government. 
+Over the previous two centuries, the Ottomans failed to save the state while attempt-
+ing reforms. The Empire was dissolved with most of the Balkan nations claiming 
+their own sovereignty and Arabic nations becoming colonies of the Western States. 
+Ataturk recognized that the Turks were predominantly poor, uneducated peasants 
+who did not have a strong sense of Turkish identity because the Ottoman Government 
+treated them according to their religious affiliation. Ataturk believed that for the 
+new state to survive and flourish it must be based on a strong Turkish identity. As 
+Bilgi and Ozsoy (2005) pointed out, for the new Turkish Republic’s ruling elite the 
+main causes of the predicament were traditional and religious values of the people. 
+Thus, Dewey’s recommendations on local community involvement were not con -
+sidered. A national secular education system and curriculum would ensure that the 
+state’s political goals will be better achieved.
+Santoro and Dorn (2012) discuss other accounts of Dewey’s work that represent 
+contrasting claims about whether Dewey’s recommendations were actually imple-
+mented. For instance, Joseph Szyliowicz regarded the influence of Dewey as being 
+very little to none. Yet, according to Ata (2000), Dewey’s report significantly influ-
+enced the Turkish education system. Ata suggests that some of Dewey’s influences 
+include the opening of the Department of Instruction and Education (Talim ve 
+Terbiye Dairesi), the Gazi Teacher Training Institute, and the Bureau of School 
+Architecture. In addition, the Ministry of Education’s academic journals, such as 
+Maarif Vekaleti Mecmuasi , often published articles on the education systems of 
+other countries including, among others, France, Germany, Italy, Russia, and Japan. 
+This is consistent with Dewey’s suggestion that Turkey should synthesize its own 
+education system by adopting elements from various other systems instead of com-
+pletely copying another nation’s entire system. Furthermore, library networks were 
+developed and mobile libraries were established to reach out to the people in remote 
+places so that the ideals of the new republic could be disseminated (Ata 2000).
+Dewey wrote four essays on Turkey after he returned to the USA. In “Secularizing 
+a Theocracy”, Dewey (1924b) notes that the young Turkish republic was destined to 
+be a secular state. Dewey reasoned that this was inevitable because most Western 
+nation states followed the same model. Additionally, he cited the treacherous deal-
+ings of the Sultanate with foreign powers, as well as the degeneration of the 
+Caliphate institution as important contextual elements that ultimately supported the 
+secularization process. In “Angora, The New” (1924c) Dewey shares his reflections 
+about Turkey’s new capital, Angora (Ankara), and discusses the reasons for the new 
+state’s choice of Angora over Constantinople as her capital. In “The Turkish 
+Tragedy”, Dewey (1924d) discusses the underlying events that caused the civil wars 
+that alternately pitted the Turks against the Greeks and the Armenians. Dewey attri-
+butes some of the blame for these wars and their resulting tragedies to the “Great 
+Powers” of the time, Russia and Great Britain, who provoked ethnic clashes among 
+Ottoman nations. Finally, in “Foreign Schools in Turkey,” Dewey (1925) provides a 
+glimpse into Turkey’s foreign schools and discusses the perplexity of keeping for-
+eign schools open during the beginning years of the Turkish Republic in an era of 
+elevated nationalism.
+D. Peker and Ö. Taskin
+
+--- PAGE 109 ---
+85
+One of the most significant products of the Turkish enlightenment movement 
+were Village Institutes that addressed some of Dewey’s recommendations about 
+rural development. The founders of the Village Institutes were the Minister of 
+National Education, Hasan Ali Yucel, and the Elementary Education General 
+Manager, Ismail Hakki Tonguc, both of whom were important figures in the nation’s 
+education history. The Village Institutes were coeducational institutions established 
+in rural areas with the goal of rural development and creating teachers to be placed 
+in rural elementary schools. It is also argued that these institutions were founded to 
+instil the ideology of the single party regime in the rural areas (Karaomerlioglu 
+2009). American educator Fay Kirby ( 2000) noted that the Village Institutes were 
+not a copy of the Western institutions and had been very influential in educating 
+rural people.
+The first Village Institutes were opened in 1940 and lasted until 1947. The open-
+ing of Village Institutes caused outrage among the right-wing politicians within the 
+Parliament. By 1945, it was recognized that the Village Institutes had revolutionized 
+rural education (Arayici 1999) and were producing approximately 2000 graduates 
+each year. Thus, it is worthwhile to look at the operation of these schools more 
+closely by first examining their guiding principles benefiting the rural community 
+including, a) field-based rural education, b) learning by doing, c) connecting agri -
+cultural production with science and technology knowledge, d) providing health 
+and hygiene for rural populations, and e) bringing cultural activities from the larger 
+cities and Western culture. The Village Institutes were designed to be self-sustaining 
+and rejected the standard rote learning approach. Observation, experimentation, 
+research, and discussion were some of the strategies used in these institutions 
+(Oguzkan 1990). The goal of the Village Institutes was to raise enlightened, produc-
+tive, sociable, and educated citizens.
+In some respects, the Village Institutes addressed several of the issues in Dewey’s 
+report including a pragmatic approach to education with many opportunities to 
+practice and apply skills, a consideration of local needs, and a focus on rural educa-
+tion. In one anecdote, Hasan Ali Yucel told the president of the Turkish Republic 
+that the Village Institutes were created with Dewey’s ideas in mind (Inonu 1998). 
+After WW II, Turkey transitioned to a multi-party political system and became more 
+politically aligned to the USA. During this period, Hasan Ali Yucel was not elected 
+to Parliament and Hakki Tonguc, and their working team, were eliminated. Resat 
+Semsettin Sirer, who was known to be a Hitler admirer, became the next Minister of 
+National Education (Ak 2015). Sirer believed that those who were educated in the 
+Village Institutes were communists and would 1 day rise up against those in power. 
+Additionally, the Village Institutes were under political attack from the conserva -
+tives because a coeducational boarding school concept was hard to accept and, as 
+was very typical for the period, they were accused by right-wing politicians of creat-
+ing communist propaganda (Gunal 2013).
+In 1946, similar accusations regarding communism became widespread in other 
+universities, leading to the dismissal of several leading academics, including Niyazi 
+Berkes, Pertev Naili Boratav, and Behice Boran (Oncu 2007). The founder party of 
+the republic, the Republican People’s Party (RPP), was becoming more  conservative 
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 110 ---
+86
+and eventually the right-wing Democrat Party (DP) separated from RPP.  The 
+depression years during WW II were characterized by an increase in religious con-
+servatism. In 1950, the DP won the elections as the first party to be elected in a 
+multi-party election. The conservative Minister of National Education, Tevfik Ileri, 
+first separated the co-ed Village Institutes into two single-sex institutes for boys and 
+girls. Further, he invited K.V .  Wofford, an obscure figure from Florida State 
+University, to prepare a bogus report that would provide a basis for the closing of all 
+twenty Village Institutes (Altunya 1999).
+Karaomerlioglu (2009)  provides an interesting perspective regarding the reasons 
+for the closing of the Village Institutes. First, these institutes went beyond their 
+initial mission of establishing a sustainable village life where villagers learned to 
+increase agricultural productivity. Instead, educated village men began to migrate to 
+the cities. Second, these institutes were very much associated with the single party 
+regime and were seen as an obstacle to the transition to a multi-party system. Thus, 
+contrary to the popular belief that the RPP opposed the closing of these schools, the 
+RPP leadership actually supported their closing for political purposes. The RPP’s 
+right-wing leaders wanted to weaken the opposition while gaining the favour of 
+Western allies by accusing the Village Institutes of spreading communism. Today, 
+the Village Institutes still remain an interesting enigma of Turkish political history.
+In 1946, “Universities Laws” that reformed the way universities operated passed. 
+According to new laws, universities were provided with more autonomy and legal 
+personality in response to increasing demands for higher education. Universities 
+were provided with a self-governance model, this was an improvement over the 
+1933’s authoritarian reform that abolished Darulfunun (Korkut 2003; Oncu 2007).
+In 1948, religion courses were included in the national curriculum as electives. 
+Later, the DP kept their promise to re-open imam schools and by, 1951, every stu -
+dent was required to take religious courses unless they overtly declared an unwill -
+ingness not to do so, which, because of social pressures, was not easy to do.
+Subsequent to WWII and Turkey’s admission into the United Nations and NATO, 
+Maarif Colleges (secondary level schools) were opened. In these schools the medium 
+of instruction was English for mathematics and science courses. During this period 
+Turkish Education, formerly influenced by continental Europe, was increasingly 
+influenced by American education views (Akyuz 1999). It was during this time 
+(1951), when the Cold War began, that right-wing political leaders re- opened Prayer 
+Leaders and Preacher Schools to counterbalance leftist political currents.
+While Sputnik affected science education within the U.S., the Turkish system 
+was also affected in specific ways. For example while atomic theory and the theory 
+of evolution were introduced in textbooks plate tectonic theory was not. (Tebligler 
+Dergisi 1957). The overall quality of the curriculum was improved while conserva-
+tive ideologies gained greater prominence (Durmus 2013). During this time, a 
+Turkish McCarthyism prevailed in which there was widespread right-wing political 
+discourse regarding how to defend against communism and materialist ideology 
+that ignored society’s values. Also at this time, Middle East Technical University 
+(METU), a very influential Turkish University, was established (1956) with U.S. 
+support. Ironically, even though METU was opened by a right-wing Turkish admin-
+D. Peker and Ö. Taskin
+
+--- PAGE 111 ---
+87
+istration and received U.S. support, the students of METU were mostly known to be 
+much more sympathetic to leftist ideals and were very influential during the student 
+demonstrations following 1960 (Caliskan 2015).
+3.6  Military Coups: 1960–1980
+In the two decades after 1960, Turkey experienced three military coups. The first of 
+these occurred in 1960 as a result of the Democratic Party administration’s extreme 
+authoritarianism and conflicting policies toward the secular model of governance 
+(Howard 2001). The military intervention resulted in the removal of the Democratic 
+Party from power, execution of the Prime Minister and two cabinet members, and, 
+later, the passing of a new constitution. The junta regime declared its allegiance to 
+NATO and other international organizations. As in continental Europe’s post-war 
+era, a planned economy model was adopted and the State Planning Organization 
+was established. Even though it was passed during a junta regime, the 1961 consti-
+tution was regarded as being very liberal because it allowed for the existence of 
+labour unions, provided a higher level freedom of expression, supported a more 
+autonomous structure for universities, and introduced the notions of “social govern-
+ment” and “pluralistic democracy” (Birol 2012). In the 1965 elections the Workers 
+Party of Turkey won seats in the Parliament, a first for a socialist party. In 1967, the 
+Confederation of Progressive Trade Unions (DISK) was founded.
+Following creation of the 1961 constitution, new economic planning and devel-
+opment packages were proposed that targeted a basic education for everyone as well 
+as increased vocational and technical schools to produce qualified technicians and 
+scientists (Okcabol 2005). The first science magnet high schools (Science Lycees or 
+Fen Liseleri) were established in the early 1960s and Ankara Fen Lycee received 
+support from the Ford Foundation. Taken together, these efforts were aimed at rais-
+ing a new generation who were better versed at questioning, reasoning and invent -
+ing (Yılmaz and Morgil 1992).
+During this time, the influence of positivism can be seen within many new educa-
+tion programs. For example, some of the science magnet lycees’ curricula were 
+adopted from America. In 1962, 20 science and math textbooks and curricular pro-
+grams were translated into Turkish by the Science Textbooks Translation Project. 
+The Physics Sciences Study Curriculum (PSSC), Chemical Education Materials 
+Study (CHEM Study), and Biological Science Curriculum Study (BSCS) programs 
+were adopted in physics, chemistry and biology courses. With these new curricular 
+programs, textbooks included terms such as ‘theory’, ‘observation’, and ‘hypothe-
+sis’, as well as discussions about the nature of science (i.e., methods of science, the 
+role of scientists, and the definition of science). In 1963, The Scientific and 
+Technological Research Council of Turkey (TUBITAK) was founded to support 
+research and development projects at Turkish institutions, provide scholarships for 
+researchers, and publish popular science magazines and books for that were very 
+affordable priced for the public.
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 112 ---
+88
+Reform strategies of the 1970s stressed the protection of youth from extremist 
+ideologies. However, the cold war era of street demonstrations and clashes between 
+opposing youth groups was a harbinger of future military take-overs. The 1971 coup 
+resulted in the closing of both the Workers Party of Turkey and the Confederation of 
+Progressive Trade Unions. During this period, while all vocational middle schools 
+were closed, imam schools at the middle grades were re-opened (Okcabol 2005). 
+Coeducational imam schools were opened at the high school level, even though 
+females could not serve as imams in Islam (Altunya 1999). Because of a fear of 
+communism, educational policies aligned with right-wing conservatism as well as 
+nationalist and Islamist values.
+3.7  Towards a Market Economy: 1980–2010
+This period was characterized by the 1980 military coup, a new constitution (1982), 
+a transition to a free-market economy, legislation creating a new Higher Education 
+Council (1983), the establishment of non-public foundation universities, and the 
+depoliticisation of universities. As Turkey approached the 1980s, the bourgeoisie 
+class grew and it was evident that they needed to integrate to the rest of the world 
+economy. However, Turkey did not have a true free market economy, as the govern-
+ment heavily regulated most areas of economic production.
+In May of 1979, the Turkish Industry and Business Association’s (TUSIAD) full 
+page newspaper ads called for a change in Turkish economics. These ads were so 
+influential during a time of political instability that they triggered the overthrowing 
+of the social democrat administration of the time. On January 24, 1980, new eco -
+nomic regulations were released by the government that abolished the mixed eco -
+nomic system involving heavy government regulation of private investments and 
+capitals; a free market economy model was adopted. Later, on September 12, 1980, 
+the military once again took control during a time of political and economic insta -
+bility, where political assassinations and street clashes were increasingly common.
+The junta regime was an effective apparatus for implementing this new eco -
+nomic model while easily suppressing any opposition. The mastermind of January 
+24 decisions, Turgut Ozal, was later elected as the Prime Minister in the first general 
+elections in 1983 after junta regime ostensibly relinquished power. During these 
+elections the most significant political actors were banned from politics, paving the 
+way for an easy win for Ozal, who also received international support from such 
+leaders as Reagan and Thatcher.
+It would be foolhardy to think the 1980s coup and its aftermath were indepen -
+dent from global politics. For instance, the U.S.’s support of radical political Islam 
+during the Cold War era in response to Soviet Union threats is well documented 
+(Dreyfuss 2005). Turkey’s politics was also influenced by this increasing level of 
+political Islamism. During Ozal’s term, religion classes became mandatory in all 
+middle and high school grades. Biology textbooks of the national curriculum had 
+ideas suggesting that the theory of evolution was questionable (Durmus 2013). A 
+D. Peker and Ö. Taskin
+
+--- PAGE 113 ---
+89
+book entitled Creationism and published by the Institute for Creation Research 
+(ICR) in the U.S. was translated into Turkish by the Ministry of Education Press and 
+sent out to all biology teachers (Edis 1999). The Minister of National Education of 
+at that time, Vehbi Dincerler, accused those teachers who taught the theory of evolu-
+tion of being communists (Sayın and Kence 1999).
+In a report by the State Planning Organization (Devlet Planlama Teskilati or 
+DPT), it was recommended that all curricular content should be in harmony with 
+religion (DPT 1983). Creationist ideas were also added to the biology textbooks of 
+the national curricula as an alternative hypothesis to explain the origin of life (Sayın 
+and Kence 1999). Even though the theory of evolution remained in the textbooks, it 
+was largely diluted with creationist references. At the same time, religion course 
+textbooks attacked the theory with misconstrued interpretations. For instance, one 
+reads “according to Darwin, strong ones would live, and weak ones would be elimi-
+nated. However strong organisms such as dinosaurs and mammoths have become 
+extinct, whereas some weak organisms such as earthworms could survive” (Ayas 
+and Tümer 1994, p. 13).
+The coalition administration of 1996 passed a bill to change the duration of man-
+datory education from 5 to 8 years. The key to the bill was that during this manda -
+tory 8 years of education, no vocational or Prayer Leaders and Preachers Schools 
+were offered at the middle grades level (grades 6–8). Previously, students could 
+choose to go to these sorts of schools, beginning at the sixth grade and continuing 
+to high school in the same area. Prayer Leaders and Preachers Schools were very 
+important in politics as evidenced by one of the political leaders confessing “Imam 
+schools are our backyard” thus suggesting that graduates of Prayer Leaders and 
+Preachers Schools were avid supporters of his political movement.
+The higher education situation was no different. The 1980 junta regime estab -
+lished the Higher Education Council (Yuksek Ogretim Kurumu or, YOK) in 1981 
+that oversaw all of the state’s higher education institutions - there were not any pri-
+vate higher education institution at that time. One of the first moves by the Higher 
+Education Council was to discharge hundreds of faculty members who were mostly 
+social progressivists and leftists. YOK legislation equipped the university presidents 
+(rectors) and deans with unprecedented authority so that they could control the aca-
+demia in the interest of the ruling administration (Oncu 2007).
+Although most members of the Higher Education Council are academicians, they 
+are appointed by the President, and therefore, the council is very political. As such it 
+acts as if it is a branch of the ruling administration. For instance, in 1986 during the 
+aftermath of the Chernobyl disaster, several Turkish scientists did investigations 
+about the increased radiation amounts in the black sea region of Turkey. The Higher 
+Education Council prevented these scientists from disseminating their results. Most 
+recently, the Higher Education Council communicated to the universities in a confi-
+dential note that academic research on Syrian refugees in Turkey was not allowed 
+without first receiving the permission of government authorities (Odatv 2015).
+During the subsequent 2000s, concepts such as individualism and entrepreneur-
+ism become more prevalent, and the influence of globalism and neo-liberal dis -
+courses has become more visible. Constructivism became a preferred educational 
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 114 ---
+90
+theory, along with eclecticism. On the other, this did not mean that government or 
+political authority embraced pluralism; dissidents, including college students, con -
+tinued to suffer from the laws inherited from the last junta regime. Any divergent 
+political idea can be interpreted as a threat to the “indivisible integrity of the state” 
+according to the Turkish Penal Code, resulting in jail time.
+In this period, constructivism and post-modernist discourses gained more popu-
+larity in Schools of Education, teacher education, and school curricula. In the 1980s 
+and 1990s, huge numbers of Turkish students were sponsored by the State to pursue 
+graduate studies in the UK and USA. In both countries, constructivism was in its 
+ascendency. Not surprisingly, this doctrine was brought back to Turkey. Commonly 
+Schools of Education taught that each individual learns differently, there are multi-
+ple ways to reach the truth, there is not an absolute truth, and knowledge is con -
+structed and culturally bound and grounded. With little intellectual debate, 
+constructivism was endorsed as the guiding philosophy of science curricula (MEB, 
+Ilkogretim Fen ve Teknoloji Dersi Mufredati 2006). The American National Science 
+Education Standards (NSES, NRC 1996) has been influential in shaping the science 
+curricula at grades 6–8. Similarly, the high school biology curriculum has been 
+influenced by the Campbell biology curriculum. However, interestingly, sections 
+relating to the theory of evolution were excluded from the Turkish Biology text -
+books. In the meantime, creationist propaganda peaked, partly through the support 
+of the state, as public schools allowed the distribution of free creationist 
+publications(including the notorious Atlas of Creation) and field trips to so called 
+fossil museums funded by creationists. Although a critique of the science curricu -
+lum has been made (Taskin 2005), along with several critiques of how evolution is 
+presented, (Peker et al. 2010; Taskin 2011, 2013), these have had little influence on 
+what is implemented within the schools.
+Also, during this period values education became part of the curriculum, espe -
+cially within the early grades, along with a great deal of research being conducted on 
+values education in Turkey. Although values are important elements of human devel-
+opment and identity, it appears that the values education, as practiced, promotes pri-
+marily those values associated with religion rather than more universal or secular 
+values. Unfortunately, it has been shown that prospective teachers’ religious values 
+negatively affects their attitude toward science (Mugaloglu and Bayram 2009).
+In 2012, public education at the primary and secondary level was structured with 
+a 4 + 4 + 4 model, in which students take 4 years of primary education, followed by 
+another 4 years of education at the middle grades level, and then 4 years of second -
+ary education. The key to the model is that for the second four-year term, students 
+can choose the option of going to vocational schools, one of which is the Prayer 
+Leaders and Preachers Schools (Imam Hatip Okullari). The middle grades sections 
+of these schools were closed in 1997, and it is the current Justice and Development 
+Party administration’s agenda to increase enrolment in Imam Schools, something 
+that has been very controversial since these schools’ first inception in 1951.
+One of the critiques of the 4 + 4 + 4 model is that it primarily serves the needs of 
+the market economy rather than the developmental needs of the students. In this 
+model, primary education starts at age five, with the second four-year period begin-
+D. Peker and Ö. Taskin
+
+--- PAGE 115 ---
+91
+ning at age nine, when students can enrol in vocational schools. Although current 
+laws prohibit businesses from hiring anyone younger than 15 years old, a specific 
+rule was added that allows businesses to hire children younger than 15 years old 
+who are enrolled in a vocational school (Muftuoglu 2012). Clearly these new poli-
+cies serve a neo-liberalism philosophy in which schools are evaluated based on their 
+ability to produce a workforce that is economically productive rather than their abil-
+ity to create liberally educated citizens (Inal et al. 2014).
+At almost all levels, the Turkish education system uses high stakes tests to deter-
+mine which students will be eligible to go the next level of specialized (magnet) 
+schools or college. During the last 13 years, the testing system has been changed 
+five times. Entry into secondary education (Grades 9–12) has been very confusing 
+for most parents and students with the different categories of schools’ names repeat-
+edly changing. Also, many regular high schools have been converted to Prayer 
+Leaders and Preacher schools. For instance while the number of these imam schools 
+was 450 in 2003, their number has increased to 1000 by 2015, with almost half a 
+million students enrolled (Anadolu Agency 2015). When mandatory religious 
+courses are required at the expense of science courses in public schools, and public 
+religious schools are promoted at the expense of non-religious schools, Turkey’s 
+success in the core areas of education is diminished. For instance, in the Programme 
+for International Student Assessment (PISA) study of 2012, Turkey was ranked at 
+the 44th place among 65 OECD countries in mathematics, science and reading 
+achievement (OECD 2014).
+The Turkish higher education system has grown very fast in the last decade. The 
+number of universities almost doubled from about a 100 at the beginning of the 
+2000s to 193 as of 2016. However, the number of higher education institutions in 
+Turkey is still much fewer than some of the other countries of comparable size in the 
+West. The quality of higher education has been questionable as most new institutions 
+lack the physical, academic, and personnel infrastructure to support quality educa -
+tion. Furthermore, the entire higher education system needs a major overhaul because 
+it is managed by the central Higher Education Council, a very highly political institu-
+tion with its members and president appointed by the President of the country. This 
+system threatens academic freedom and tenure as individual faculty members can be 
+easily penalized by the central authority as well as their local university administra-
+tions because of their dissident ideas (Ugur 2016; Bohannon 2016).
+3.8  Conclusion
+From the beginning reform movements of the eighteenth century Ottoman Empire 
+to today’s Turkey, all had an elitist character (Berkes 2002; Gulalp 2005; Weiker 
+1981). The ruling bureaucracy assessed the need for reforms and implemented them 
+accordingly, with mixed success. However, the Turkish reforms during the period 
+between 1923 and 1946 have been revolutionary and progressive in the sense of 
+dismantling old structures. Even though Turkey moved to a multi-party democratic 
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 116 ---
+92
+system in 1946, this was the beginning of a counter-revolutionary period as the 
+gains of republican revolution were sacrificed for the political zeal of the ruling par-
+ties. Perhaps the most significant example of this was the banning of the Turkish call 
+for prayer from the mosques and reverting back to the Arabic call, a language that 
+the overwhelming majority of the people did not speak. This was such a quintes -
+sential problem. If enlightenment is simply putting reason before anything else, how 
+could one put reason before something (i.e., a religion) that one cannot even under-
+stand because of a language barrier? Another turning point was the closing of the 
+Village Institutes which ultimately made it difficult to modernize because there was 
+no longer an organized way to reach out to the rural communities.
+The years between 1946 and 1960 were a period of growing conservatism fuelled 
+by the cold war. The period between 1960 and 1980 has been relatively more liberal, 
+with some interruptions due to military interventions and tensions between oppos -
+ing groups. This period also represents the growth of the much more positivistic 
+science education curricula. Beginning with the aftermath of the 1980 coup, author-
+itarianism and conservatism climbed. The 1980 military coup and the resulting 
+1982 constitution passed by the junta regime tremendously impacted Turkish edu -
+cation, politics, and social life.
+This 1982 constitution, with many amendments, is still in effect in modern 
+Turkey. Originally, it limited freedom of expression and social pluralism to a great 
+extent. Starting in the mid-1980s, the armed Kurdish movement arose and by the 
+1990s praetorianism became the modus operandi; increased ethnic tensions primar-
+ily fed nationalism and Islamism while leftist elements were greatly suppressed. 
+The ensuing years of the 2000s represents neo-liberalism’s pinnacle, and the gains 
+of the early republic, especially laicism, continued to be eroded under the model of 
+moderate Islamism. Post-modernism, constructivism, and individualism provided a 
+perfect apparatus for reactionaries to dilute the positivist values of Ataturk’s repub-
+lican tradition, while shaping a more neo-liberal curriculum.
+Ataturk believed that the safeguarding of the principles of the young republic, 
+social change, and economic development could only happen through education. In 
+this sense, Santoro and Dorn (2012) compare Ataturk to some of America’s revolu-
+tionary leaders such as Jefferson, Madison and Hamilton. Ataturk believed in an 
+education system that represented the values of the Enlightenment ideology such as 
+universalism, rationality, objectivity, scientism, secularism, optimism. This was evi-
+dent in his speeches and programs. For instance, one of his most famous aphorisms 
+is that “the only guide in life is science”. Ataturk was optimistic about the country’s 
+future by setting a goal for the Turkish youth to reach the highest level of 
+civilization.
+However, as many sociologists have asserted, the challenge of the Turkish mod-
+ernism and secularism project was that it was not grown out of society, it was given 
+to society (Akural 1984; Steinbach 1984). To use the cliché, it was ‘top down’ 
+reform. As such it was not so different from all comparable reform efforts in the 
+West. According to Steinbach, only the intellectuals and bureaucratic elites who 
+benefited from the system identified themselves with Kemalism, while traditional -
+ists and the masses did not connect to this idea. Similarly, Akural points out that the 
+D. Peker and Ö. Taskin
+
+--- PAGE 117 ---
+93
+Kemalist project was not organically grown concept as functionalists define, with -
+out internal stresses and conflicts a complete social change would not be possible. 
+Even though the “populism” principle of Kemalism aimed at absolute equality of 
+citizens before the law, some of the old feudal structures (agalik) were difficult to 
+change because of the land owning senators. Further, Kemalism failed to establish a 
+welfare system to facilitate the overturn of this feudal structure, especially in eastern 
+Turkey (Akural 1984).
+Despite all the initial problems associated with the devastated economy after the 
+independence war of the 1920s, an overwhelmingly uneducated peasant society, a 
+strong feudal tradition, and religious conservatism, the Turkish modernity project 
+can be seen as more of a success than a failure. The Turkish modernization project 
+resulted in a number of successes including the establishment of a secular national 
+state with a relatively stable democratic political system. This modernization saw 
+the development of a strong sense of national identity, the preservation of traditional 
+and local culture, and the growth of transportation, mass media, communication, 
+schooling rates, and a variety social, cultural, political and other interest groups 
+(Weiker 1981).
+On the other hand, the top-down approach of the Kemalist modernization project 
+caused long lasting political tensions between the secularists and traditionalists 
+(Gulalp 2005). When one considers the unique secular model of Turkey, where reli-
+gion is subjugated to (but not entirely separated from) the state (Davison 1998), one 
+sees a dialectical relationship between the two; it is a relationship in which it is 
+sometimes questionable which controls the other, as exemplified by the mandate for 
+religious education. A tension arises between the secularists, who want to protect 
+the public sphere and create a critical discourse concerning the traditional forces 
+(Outram 2013), and the Islamists, who want use the same public space to “live” 
+their religion (Turkmen 2012).
+The inseparable nature of religion from the state, the public sphere, and other 
+realms of life suggests that if any enlightenment can be assumed in this context it 
+should be the “moderate enlightenment” (Israel 2006) where reason is combined 
+with faith and tradition as opposed to where the reason is the only guiding truth. As 
+presented earlier, Kucuk (2012) and Akkach (2007) noted the existence of this phe-
+nomenon with different but similar terms for the seventeenth century Ottoman 
+Empire. This trend seems to be continuing in today’s society where there is a strong 
+conservative tradition.
+Islamists in Turkey have long blamed the secular state for its authoritarianism 
+that interfered with their tradition. Today, secularists are more concerned with the 
+increasing influence of political Islamism in public life and the resulting lack of 
+religious toleration. Somer (2007) argued that democratic consolidation – the idea 
+of strengthening democracy so that it is unthinkable for the great masses to reverse 
+the gains of democracy – can be a viable model to protect secularism. Only in a 
+democratic and secular society can the Turkish Enlightenment tradition be fur -
+thered; without such protection, the gains of free speech, gender equality, non-  
+preferential treatment of any religion, universal education, can all be rolled-back 
+and legislated away.
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 118 ---
+94
+The Enlightenment should not be seen as a closed historical period, neither in the 
+West or in in non-Western societies (Outram 2013). Conflicts between Enlightenment- 
+informed science education and conservative, reactionary forces exist today in 
+Turkey as we documented here and in many other countries around the world 
+(Matthews 2015b), particularly in the Middle East (Nielsen 2016). The antidote for 
+the counter-Enlightenment and reactionary movements is a vigorous, serious, and 
+national science education because good science education develops citizens with 
+critical and informed habits of mind who value reason, who acknowledge the impor-
+tance of gathering evidence and testing beliefs, who affirm the necessity of open 
+public discussion and debate, who deny all illegitimate claims to epistemic authority 
+concerning the natural and social worlds. But, denying illegitimate claims to scien-
+tific authority means affirming legitimate ones; and a challenge of constructivist and 
+relativist accounts of science is to see how they can identify and support the latter. If 
+all sciences and methodologies are equal, then there can be no legitimate or authori-
+tative science; surely a debilitating conclusion for science teachers and advocates.
+Acknowledgement We thank Michael Matthews, the editor, and anonymous reviewers for their 
+very helpful feedback and Greg Blalock for his careful reading of the manuscript.
+References
+Ak, G. (2015). Turk dusunce hayatinda Mediha Esenel (Berkes) ve 1948 DTCF tasfiyeleri iliskisi 
+uzerine bir inceleme. Journal of Modern Turkish History Studies, XV/30, 251–293.
+Akkach, S. (2007). Makers of the Muslim world- ‘Abd al-Ghani al-Nabulusi: Islam and the 
+enlightenment. Oxford: Oneworld Publications.
+Akural, S. M. (1984). Kemalist views on social change. In J. M. Landau (Ed.), Ataturk and the 
+modernization of Turkey (pp. 125–152). Boulder: Westview Press.
+Akyuz, Y . (1999). 17. Yüzyıldan Günümüze Türk E ğitiminde Başlıca Düzenleme ve Geli ştirme 
+Çabaları: Genel Özellikler ve Do ğrultular, Milli E ğitim Dergisi [Journal of National 
+Education], 144.
+Altin, H. (2008). 1869 Maarif-i Umumiye Nizamnamesi ve Ö ğretmen Yetiştirme Tarihimizdeki 
+Yeri. Fırat Üniversitesi İlahiyat Fakültesi Dergisi, 13(1), 271–283.
+Altunya, N. (1999). Türkiye Cumhuriyeti’nde Din Eğitimi, 75 Yılda Eğitim (Gök, F. Ed.). (s:215–
+222). İstanbul: Tarih Vakfı Publications.
+Anadolu Agency. (2015). İmam hatip lisesi say ısını 440’dan 1017’ye çıkardık. http://www.hur-
+riyet.com.tr/egitim/28069550.asp. Accessed 15 June 2015.
+Arayici, A. (1999). Kemalist Dönem Türkiye’sinde Eğitim Politikaları ve Köy Enstitüleri. İstanbul: 
+Ceylan Yayınları.
+Ata, B. (2000). The influence of an American educator (John Dewey) on the Turkish Educational 
+System. The Turkish Yearbook of International Relations, 31, 119–130.
+Ayas, R., & Tümer, G. (1994). Liseler için Din Kültürü ve Ahlak Bilgisi I [Religion and Ethics for 
+High Schools I]. Ankara: Milli Egitim Basimevi [Ministry of Education Publications].
+Bademci, G. (2006). First illustrations of female “neurosurgeons” in the fifteenth century by 
+Serafeddin Sabuncuoglu. Neurocirugia, 17, 162–165.
+Berk, O. (2007). Batilasma ve Ceviri (westernization and tranlastion). In T. Bora & M. Guntekingil 
+(Eds), Modern Turkiye’de Siyasi Dusunce, V ol 3: Modernlesme ve Baticilik, (pp. 511–520). 
+Istanbul: Iletisim.
+Berkes, N. (1998/1964). The development of secularism in Turkey. London: C. Hurst & Publishers Ltd.
+D. Peker and Ö. Taskin
+
+--- PAGE 119 ---
+95
+Berkes, N. (2002). Türkiye’de çağdaşlaşma.[Turkey’s Coming of Age] . İstanbul: Yapı Kredi 
+Publications.
+Bilgi, S., & Ozsoy, S. (2005). John Dewey’s travelings into the project of Turkish modernity. In 
+T. S. Popkewitz (Ed.), Inventing the modern self and John Dewey: Modernities and the travel-
+ing of pragmatism in education (pp. 153–177). New York: Palgrave Macmillan.
+Birol, S. (2012). 1961 Anayasasinda ifade ozgurlugu. Istanbul Universitesi Iletisim Fakultesi 
+Dergisi, 43, 39–54.
+Bohannon, J.  (2016). Update: Vacationing Turkish scholar arrested after her return. Science. 
+doi:10.1126/science.aaf9817.
+Caliskan, N. (2015). ODTU Tarihce: 1956–1980. Istanbul: Propoganda Yayinlari.
+Cinar, A., Roy, S., & Yahya, M. (2012). Religious nationalism as a consequence of secularism. In 
+A. Cinar & S. Roy (Eds.), Visualizing secularism and religion : Egypt, Lebanon, Turkey, India 
+(pp. 1–22). Ann Arbor: University of Michigan Press. Retrieved from http://www.ebrary.com.
+Davidson, N. (2006). Islam and the enlightenment. Socialist Review. http://socialistreview.org.
+uk/304/islam-and-enlightenment. Accessed 4 Mar 2015.
+Davison, A. (1998). Secularism and revivalism in Turkey: A hermeneutic interpretation . New 
+Haven: Yale University Press.
+Dere, M. (2008). Türkiye’de az ınlık okullar ı (1945–2007). [Minority Schools in Turkey].  
+Unpublished Master Thesis Sosyal Bilimler Enstitüsü, Niğde University.
+Dergisi, T. (1957). Liselerin yeni müfredat programı hakkında, Cilt: 20 Sayı: 976. Ankara: Milli Eğitim.
+Devlet Planlama Teskilati (DPT). (1983). Milli Kültür Özel İhtisas Komisyonu Raporu, Yayın no: 
+DPT: 1920-ÖİK: 300, Ankara.
+Dewey, J. (1924a). From The Collected Works of John Dewey, 1882–1953, The Middle Works of John 
+Dewey, 1899–1924, V olume 15: 1923–1924, Essays [Page mw.15.274, blank] [Page mw.15.275] 
+https://chipbruce.files.wordpress.com/2008/10/dewey_turkey.pdf. Accessed 10 Apr 2015.
+Dewey, J. (1924b). Secularizing a theocracy: Young Turkey and the Caliphate. New Republic, 40, 69–71.
+Dewey, J. (1924c). Angora, the New. New Republic, 40, 169–170.
+Dewey, J. (1924d). The Turkish Tragedy. New Republic, 40, 268–269.
+Dewey, J. (1925). Foreign schools in Turkey. New Republic, 41, 40–42.
+Dreyfuss, R. (2005). Devil’s game: How the United States helped unleash fundamentalist Islam . 
+New York: Henry Holt and Company, LLC.
+Durmus, Ö. Z. (2013). Cumhuriyet dönemi fen eğitimi dokümanlarında bilim konusunda değişim: 
+Tarihsel yorumlamacı bir içerik analizi. Unpublished Master Thesis. Marmara University.
+Edis, T. (1999). Cloning creationism in Turkey. Reports of the National Center for Science 
+Education, 19, 30–35.
+Edis, T., & BouJaoude, S. (2014). Rejecting materialism: Responses to modern science in the 
+Muslim Middle East. In M. Matthews (Ed.), International handbook of research in history, 
+philosophy and science teaching (pp. 1663–1690). Dordrecht: Springer.
+Eskicumali, A. (2003). E ğitim ve Toplumsal Değişme: Türkiye’nin Değişim Sürecinde E ğitimin 
+Rolü (1923 – 1946). [Education and Social Change: The role of education in Turkey’s change 
+process]. Boğaziçi Üniversitesi Eğitim Dergisi [Boğaziçi University Journal of Education], 19 
+(2), 15–29.
+Gay, P. (1970). The enlightenment: An interpretation. The rise of paganism . London: Weidenfeld 
+and Nicolson.
+Georgeon, F. (2006). Osmanli-Turk Modernlesmesi 1900–1930: Secilmis Makaleler  [ Ottoman- 
+Turkish modernization: selected articles]. Istanbul: Yapi Kredi Kultur Sanat Yayincilik.
+Gulalp, H. (2005). Enlightenment by fiat: Secularization and democracy in Turkey. Middle Eastern 
+Studies, 41(3), 351–372.
+Guleryuz, N. A. (2008). Turkiye’ye gelen cogu Yahudi kokenli Alman prosesorler ve Albert Einstein. 
+Şalom. http://www.salom.com.tr/haber-64078- turkiyeye_gelen_cogu_yahudi_kokenli_alman_
+profesorler_ve_albert_einst.html. Accessed 25 Apr 2016.
+Gunal, İ. (2013). 50 soruda üniversite. [University in 50 questions].  İstanbul: Bilim ve Gelecek 
+Yayınları.
+3 The Enlightenment Tradition and Science Education in Turkey
+
+--- PAGE 120 ---
+96
+Gunal, S., & Gunal, I. (2011). Üniversitelerde örgütlenme deneyimi. In F.  Ercan & S.  Kurt 
+Korkusuz (Eds.), Metalaşma ve İktidarın Bask ısındaki Üniversite  (pp.  555–564). İstanbul: 
+Sosyal Araştırmalar Vakfı Publications.
+Howard, D. A. (2001). History of Turkey. Westport: Greenwood Press. Retrieved from http://www.
+ebrary.com.
+Ihsanoglu, E. (2006). An overview of Ottoman scientific activities. http://www.muslimheritage.
+com/uploads/An_Overview_of_Ottoman_Scientific_Activities1.pdf Accessed 26 Mar 2016.
+Inal, K., Akkaymak, G., & Y ıldırım, D. (2014). The constructivist curriculum reform in Turkey 
+in 2004 – In fact what is constructed? Journal for Critical Education Policy Studies, 12 (2), 
+350–373.
+Inonu, E. (1998). Anılar ve düşünceler, 1.cilt. İstanbul: Boyut Publications.
+Israel, J. I. (2001). Radical enlightenment: Philosophy and the making of modernity 1650–1750 . 
+Oxford: Oxford University Press.
+Israel, J. I. (2006). Enlightenment contested: Philosophy, modernity, and the emancipation of man 
+1670–1752. New York: Oxford University Press.
+Israel, J. I. (2011). Democratic enlightenment: Philosophy, revolution, and human rights, 1750–
+1790. Oxford: Oxford University Press.
+Karaomerlioglu, A. (2009). Koy Enstituleri. In T. Bora & M. Gultekingil (Eds.), Modern Turkiye’de 
+Siyasi Dusunce, Kemalism (V ol. 2, pp. 283–293). Istanbul: Iletisim.
+Kirby, F. (2000). Türkiye’de Köy Enstitüleri, 2. baskı, Ankara: Güldiken Yayınları.
+Korkut, H. (2003). Turkiye’de cumhuriyet doneminde universite reformlari. Milli Egitim Dergisi, 
+Sayi 160. http://dhgm.meb.gov.tr/yayimlar/dergiler/Milli_Egitim_Dergisi/160/korkut.htm. 
+Accessed 5 May 2016.
+Korlaelci, M. (2009). Positivist dusuncenin ithali. In T. Bora & M. Guntekingil (Eds.), Modern 
+Turkiye’de Siyasi Dusunce: Cumhuriyete Devreden Dusunce Mirasi-Tanzimat ve Mesrutiyetin 
+Birikimi (pp. 214–222). Istanbul: Iletisim.
+Kucuk, B. H. (2012). Early enlightenment in Istanbul. San Diego: University of California.
+Matthews, M. R. (2015a). Science teaching: The contribution of history and philosophy of science: 
+20th anniversary revised and expanded edition (Second). New York: Routledge.
+Matthews, M. R. (2015b). Reflections on 25 years of journal editorship. Science & Education, 24, 
+749–805.
+MEB (2006). Ilkogretim Fen ve Teknoloji Dersi Mufredati. http://ttkb.meb.gov.tr/program2.aspx. 
+Accessed 25 Nov 2015.
+Muftuoglu, O. (2012). Labor markets in the process of restructuring 4+4+4 formula. Education, 
+Science Society Journal, 10(40), 25–33.
+Mugaloglu, E. Z., & Bayram, H. (2009). Do religious values of prospective teachers affect their 
+attitudes toward science teaching? Journal of Turkish Science Education, 6(3), 90–96.
+Nielsen, R. (2016). Teaching evolution in the Middle East [Blog]. Nielsen Lab Blog. http://www.
+nielsenlab.org/2016/02/teaching-evolution-in-the-middle-east/. Accessed 10 June 2016.
+NRC (National Research Council). (1996). National science education standards . Washington, 
+DC: National Academy Press.
+Odatv. (2015). YOK’ten universitelere talimat Suriyelileri arastirmak yasak.  http://odatv.com/
+suriyelileri-arastirmak-yasak-0605151200.html. Accessed 20 Nov 2015.
+OECD. (2014). PISA 2012 Results in Focus: What 15-year-olds know and what they can do 
+with what they know: Key Findings . http://www.oecd.org/pisa/keyfindings/pisa-2012-results- 
+overview.pdf. Accessed 25 Nov 2015.
+Oguzkan, A. F. (1990). Kuruluşunun 50. y ılında Köy Enstitüleri  (pg. 12–37). Ankara: E ğit-Der 
+Publications.
+Okcabol, R. (2005). Türkiye Eğitim Sistemi. [Turkish education system]. Ankara: Ütopya.
+Oncu, A. (2007). Akademisyenler: Universite reform soyleminde bati. In T. Bora & M. Gultekingil 
+(Eds.), Modern Turkiye’de siyasi dusunce, vol 3: Modernlesme ve Baticilik, (pp. 521–536). 
+Istanbul: Iletisim.
+Outram, D. (2013). The enlightenment: New approaches to European history . Cambridge: 
+Cambridge University Press.
+D. Peker and Ö. Taskin
+
+--- PAGE 121 ---
+97
+Patiniotis, M., & Gavroglu, K. (2012). The sciences in Europe: Transmitting centers and the appro-
+priating peripheries. In J. Renn (Ed.), The globalization of knowledge in history, (pp. 321–343). 
+Edition Open Access: Max Planck Research Library for the History and and Development of 
+Knowledge.
+Peker, D., Comert, G.  G., & Kence, A. (2010). Three decades of anti-evolution campaign and 
+its results: Turkish undergraduates’ acceptance and understanding of the biological evolution 
+theory. Science and Education, 19(6–8), 739–755.
+Santoro, D. A., & Dorn, C. (2012). A vital, free, independent, and lay republic. In R. Garlitz & 
+L. Jarvinen (Eds.), Teaching America to the world and the world to America: Education and 
+foreign relations since 1870. New York: Palgrave MacMillan.
+Sayın, U., & Kence, A. (1999). Islamic scientific creationism: A new challenge in Turkey. Reports 
+of the National Center for Science Education, 19, 18–29.
+Somel, S. A. (2005). Christian community schools during the Ottoman reform period. In E. Özdalga 
+(Ed.), Late Ottoman Society: Intellectual legacy (pp. 257–276). New York: RoutledgeCurzon.
+Somer, M. (2007). Moderate Islam and secularist opposition in Turkey: Implications for the world, 
+Muslims and secular democracy. Third World Quarterly, 28(7), 1271–1289.
+Steinbach, U. (1984). The impact of Ataturk on Turkey’s political culture science World War II. In J. M. 
+Landau (Ed.), Ataturk and the modernization of Turkey (pp. 77–87). Boulder: Westview Press.
+Taskın, O. (2005, October 8). New science curriculum in Turkey. Cumhuriyet Newspaper, Bilim 
+Teknik, 968, 20–22.
+Taskin, O. (2011). Can willingness and hands-on work together? Teaching biological evolution 
+and dealing with barriers. Evolution Education and Outreach, 4(3), 467–477.
+Taskin, O. (2013). Pre-service science teachers’ acceptance of biological evolution in Turkey. 
+Journal of Biological Education, 47(4), 200–207.
+Tekeli, İ., & Ilkin, S. (1993). Osmanlı İmparatorluğu’nda eğitim ve bilgi üretim sisteminin oluşumu 
+ve dönüşümü. Ankara: Türk Tarih Yüksek Kurumu Yayınları.
+Toker, N., & Tekin, S. (2007). Batici siyasi dusuncenin karakteristikleri ve evreleri: “Kamusuz 
+Cumhuriyet”ten “Kamusuz Demokrasi’ye”, In T.  Bora & M.  Gultekingil (Eds.) , Modern 
+Turkiye’de siyasi dusunce, vol 3: Modernlesme ve Baticilik (pp. 82–106). Istanbul: Iletisim.
+Toprak, Z. (2011). Darwinizmden Ateizme Türkiye‟ de Tarih Eğitiminin Evrimi. Toplumsal Tarih, 
+216, 20–33.
+Turkmen, B. (2012). Islamic visibilities, intimacies, and counter publics in the secular public sphere. 
+In A. Cinar & S. Roy (Eds.), Visualizing secularism and religion: Egypt, Lebanon, Turkey, India. 
+Ann Arbor: University of Michigan Press. Retrieved from http://www.ebrary.com.
+Ugur, M. (2016). Academic freedom under threat in Turkey. Times Higher Education.  https://
+www.timeshighereducation.com/features/academic-freedom-under-threat-in-turkey. Accessed 
+2 June 2016.
+Weiker, W. F. (1981). The modernization of Turkey: From Ataturk to the present day. New York: 
+Holmes & Meier Publishers Inc.
+Yalcinkaya, M. A. (2015). Learned patriots: Debating science, state, and society in the nineteenth 
+century Ottoman Empire. Chicago: University of Chicago Press.
+Yildirim, N. (2014). A view of the history of the Istanbul Faculty of Medicine. http://istanbultip.
+istanbul.edu.tr/en/wp-content/uploads/2014/06/historyofimf.pdf. Accessed 11 May 2016.
+Yılmaz, A., & Morgil, İ. (1992). Türkiye’de Fen Öğretiminin Genel Bir Değerlendirmesi Sonuçları 
+ve Öneriler. Hacettepe Üniversitesi Eğitim Fakültesi Dergisi, 7, 269–278.
+3 The Enlightenment Tradition and Science Education in Turkey
