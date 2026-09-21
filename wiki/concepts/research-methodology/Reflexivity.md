@@ -9,7 +9,7 @@ aliases:
 summary: "研究者与实践者审视自身角色、背景、偏见与隐性假设如何塑造研究与行动全过程的认识论机制，从现象学哲学根基延伸至行动研究、教育探究反思性（防范活动陷阱）及人机协同分析中的人在回路主体责任。"
 type: concept
 domain: "research-methodology"
-related_count: 63
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -83,13 +83,14 @@ related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Rickinson_2022_ER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 
 # Reflexivity
@@ -151,17 +152,17 @@ updated: 2026-09-18
 
 > [!logic-map] 反身性在质性探究与专业实践中的运作机制
 > ```mermaid
-> flowchart TD
->     subgraph 田野与实践
+> flowchart LR
+>     subgraph Field ["田野与实践"]
 >         A["实践者前见与个人传记"] --> B["田野互动与课堂微观观察"]
 >         B --> C["方法代码与反思备忘录"]
 >     end
->     subgraph 批判审思
+>     subgraph Critique ["批判审思"]
 >         C --> D["深层反身性：审视底层假设与行动理论"]
 >         D --> E["防范认知偏误与活动陷阱"]
 >         E --> F["多元证据比对与因果验证"]
 >     end
->     subgraph 呈现与改进
+>     subgraph Presentation ["呈现与改进"]
 >         F --> G["第一人称叙事与透明修辞"]
 >         G --> H["双重反身性审计追踪与组织文化沉淀"]
 >     end
@@ -231,6 +232,9 @@ updated: 2026-09-18
 
 > [!claim] Bogdan & Biklen
 > **方法代码与探究局限的显性化记录** 鲍格丹与比克连（Robert Bogdan & Sari Biklen, 1992）指出，借助质性软件与[[Coding in Qualitative Research|编码]]体系，研究者应当运用专门的方法代码（Method Codes）系统记录研究过程中的方法论抉择、田野偶发局限、受访者的防御戒备心理以及研究者自身的身份边缘性，使分析过程与人机交互轨迹具备完备的审计证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 560–561)]]
+
+> [!claim] [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]
+> **对算法影响的反身性规约与认识主权捍卫** 在生成式人工智能深度嵌入文献综述、数据归纳与推论写作的学习与研究环境中，反身性进一步演化为学习者对技术影响的自省调控（Reflexive Regulation of AI Influence）。学习者不仅反思自身的经验前见，更必须对人工智能作为认识中介所引入的流畅度错觉、不透明综合及潜在规范偏见保持警觉；反身性构成了在人机共生网络中行使关系性认识主体性、防范评价性判断算法置换的关键认识论防火墙。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 3–4, 7)]]
 
 ---
 
@@ -339,3 +343,4 @@ updated: 2026-09-18
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐述反身性的[[Phenomenology|现象学]]与[[Ethnomethodology|俗民方法学]]哲学根基、[[Ethnography|民族志]]与[[Action Research|行动研究]]中的主体性监控、质性写作与偏误防范机制，以及计算与AI辅助分析中的人在回路责任。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 在[[Self-Improving School System|自我改进学校系统]]中实证检验教师的反思性专业探究，揭示底层决策[[Hypothesis|假设]]反思滞后（55%）与表面尝试活跃（82%）的鲜明反差，阐明反思性赤字诱发[[Activity Traps|活动陷阱]]的组织机理。
 > - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 提出[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]，将反身性融入“探究心智”与“反思性[[Organizational Culture|组织文化]]”使能构件，阐明批判反思与心理安全环境对打破[[Technical Rationality|技术理性]]盲从的关键价值。
+> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 系统阐释在人工智能中介学习与学术探究中反身性调控对抵抗算法流畅性诱导、维系关系性认识主体性的决定性价值。

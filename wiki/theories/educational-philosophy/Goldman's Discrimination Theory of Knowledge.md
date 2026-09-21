@@ -9,24 +9,19 @@ aliases:
 summary: "由 Alvin Goldman 于 1976 年提出的外部主义认识论理论，主张知识要求主体能够区分实际真实状态与相关可能替代状态；经 Dylan Wiliam 等人引入教育研究，用于说明教育因果证据的局部性、情境性与暂定性。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 10
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 7
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags:
   - theory/epistemology
   - paradigm/analytic
   - theme/justification
   - theme/evidence-based-education
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Emergence]]"
   - "[[Tracking]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Paradigm]]"
-  - "[[Epistemology]]"
-  - "[[Causality]]"
-  - "[[Ontology]]"
-  - "[[Reliability]]"
 related_theories:
   - "[[Reliabilism]]"
 related_methods: []

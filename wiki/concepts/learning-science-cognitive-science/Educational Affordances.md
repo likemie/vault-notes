@@ -10,7 +10,7 @@ aliases:
 summary: "源自生态心理学与教育技术学的核心构念，指技术工具在特定教学情境中与学习者及任务环境交互时所展现出的、可被感知并支持特定认知与教学行动的客观使能属性。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -56,11 +56,12 @@ related_methods:
   - "[[Experimental Research]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Liu_2026_CHBR]]"
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Educational Affordances
@@ -78,7 +79,7 @@ updated: 2026-09-17
 > - **用途** 为评估教育技术的有效性提供系统的[[Analytic Framework|分析框架]]，解释为什么同一技术在不同教学设计与学生群体中会释放出截然不同的认知效果。
 > - **边界** 区分“潜在技术可供性（Potential Affordances）”与“实际实现的教学可供性（Realized Affordances）”——唯有在适切的教学法与任务支架匹配下，技术潜力才能转化为高阶心智增益。
 
-> [!citation-card]- 关键表述：可供性与限制的双重视角框架（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
+> [!citation-card] 可供性与限制的双重视角框架
 > 本综述采用双重视角框架（Dual-Perspective Framework），系统解构生成式 AI 在高等教育中对批判性与[[Creativity|创造性思维]]的赋能可供性（Affordances）与认知限制风险（Limitations），阐明技术赋能高度依赖于教学任务的结构化设计。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
 >
 > *The dual-perspective framework provides a structured taxonomy to examine both the cognitive affordances (empowering mechanisms) and the limitations (cognitive risks) of ChatGPT in higher education.*
@@ -121,7 +122,7 @@ updated: 2026-09-17
 
 > [!logic-map]- 教育可供性在学习者、任务与技术间的动态转化模型
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     T["<b>技术实体特性</b><br>(生成式 AI / LLM: 概率生成、快速响应、语言流畅)"]
 >     L["<b>学习者主体特征</b><br>(AI 素养、元认知水平、先验学科知识)"]
 >     TK["<b>教学任务结构</b><br>(任务开放度、反思规程、评估量规、教师支架)"]
@@ -171,14 +172,25 @@ updated: 2026-09-17
 
 ---
 
+### 命题四　技术可供性通过社会技术中介路径重组知识确证劳动分工并决定认识依赖性质
+
+> [!concept-lens] 社会技术中介与认识依赖机制
+> 超越微观认知负荷视角，从社会认识论视阈审视技术可供性如何通过流畅权威、无摩擦委托与不透明综合重塑主体的知识确证分工。
+
+> [!claim] [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]
+> **可供性向有害认识依赖的机制转化** 技术的教育可供性并非决定论式的因果链条，而是通过特定社会技术路径改变认识劳动力分工。当大语言模型的“即时响应”与“语言流畅”等技术可供性与追求效率的考核制度结合时，极易转化为无摩擦委托（压缩论证中间动作）与不透明综合（掩盖证据源头谱系）的中介机制，进而诱发学习者对评价性判断的放弃；唯有当可供性设计满足可质疑性、可恢复性与证据可追溯性时，技术才能兑现为维系关系性主体性的生产性认识依赖。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 4–7)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **关系性涌现命题** | 可供性是工具、学习者与任务动态匹配的产物 | 教育技术评估与学习环境设计 | Kirschner et al. (2004); Bower (2008) |
+> | **关系性涌现命题** | 可供性是工具、学习者与任务动态匹配的产物 | 教育技术评估与学习环境设计 | Kirschner et al. (2004) |
 > | **二元张力命题** | 生成式 AI 兼具认知使能与认知外包的双向可供性 | 生成式 AI 高等教育实证研究 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
-> | **教学转化命题** | 结构化教学支架决定潜在可供性向高阶心智的实际转化 | 课堂探究设计与高校教学改革 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
+> | **教学转化命题** | 结构化教学支架决定潜在可供性向高阶心智的实际转化 | 课堂探究设计与高校教学改革 | Bower (2008); [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
+> | **社会认识论中介命题** | 技术可供性通过社会技术中介重构确证分工，决定认识依赖是生产性还是有害性 | 人机协同探究、学术诚信与评价改革 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
 
 ---
 
@@ -188,7 +200,7 @@ updated: 2026-09-17
 > - **1979 年 — 生态心理学创立** J. J. Gibson 首次提出 Affordance，界定环境为动物提供的行动潜能。
 > - **1988 年 — 人机交互设计转向** Donald Norman 将其引入人机交互领域，强调用户界面的“可感知可供性（Perceived Affordances）”。
 > - **2004–2008 年 — 教育技术学系统化** Paul Kirschner 等提出“教育可供性（Educational Affordances）”，Matt Bower 构建了教育技术可供性匹配框架（Affordance Analysis Matrix）。
-> - **2026 年 — 生成式 AI 认知双重视角重塑** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 与 Liu et al. (2026) 将可供性拓展为“[[Higher-Order Thinking Skills|高阶思维]]认知使能与风险规制”的双向[[Analytic Framework|分析框架]]。
+> - **2026 年 — 生成式 AI 认知双重视角与社会认识论深化** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将可供性拓展为“[[Higher-Order Thinking Skills|高阶思维]]认知使能与风险规制”的双向[[Analytic Framework|分析框架]]；[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 进一步从社会技术中介与社会认识论切入，揭示技术可供性如何重构知识确证劳动力分工并分流生产性依凭与有害依赖。
 
 ---
 
@@ -233,3 +245,4 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统构建生成式 AI 赋能高等教育批判性与[[Creativity|创造性思维]]的 10 大核心教育可供性分类学。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — [[Meta-analysis|元分析]] 35 项[[Experimental Research|实验研究]]，量化检验 AI [[AI Agent in Education|智能体]]教育可供性在[[Procedural Skill|程序技能]]与高阶认知任务中的效应分化。
+> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 系统推演人工智能中介学习环境下技术可供性演化为认识依赖的四重社会技术路径，提出维系关系性认识主体性与评价性判断的规范治理框架。

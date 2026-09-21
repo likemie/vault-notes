@@ -11,7 +11,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、地缘权力与跨国组织自指性指标帝国的运作，在微观教育场域指向学习者在探究共同体中依托证据协调自主生成概念理解并确立认识能动性的实践。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -64,6 +64,7 @@ related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
 confidence: high
 status: active
 created: 2026-05-10
@@ -103,12 +104,12 @@ updated: 2026-09-21
 ## 概念辨析
 
 > [!contrast-table] 多层[[Champ|场域]]中的知识生产[[Paradigm|范式]]对比
-> | 维度 | 传统学术生产（Mode 1） | 产学合作应用生产（[[Mode 2 Knowledge Production\|Mode 2]]） | 跨国政策量化生产 | 课堂探究共同体生产 |
-> |---|---|---|---|---|
-> | **生产主体** | 大学学者、基础学科实验室 | 大学与工业企业联合研发团队 | 跨国机构（[[OECD]]、世界银行）智库 | 教师引导下的学生探究共同体 |
-> | **合法性来源** | 同行匿名评审与学科范式共识 | 市场交换价值与应用解决效能 | 科学理性修辞与跨国可比指标 | 经验证据协调与同伴批判协商 |
-> | **核心目的** | 探索未知真理与扩展学科认知 | 商业专利变现与经济生产力提升 | 施展[[Soft Power by Hard Facts\|硬事实软权力]]与远处调控 | 达成深层概念转变与培养[[Epistemic Agency\|认识能动性]] |
-> | **权力形态** | 学术权威与学术共同体自治 | 产业资本对研究议程的渗透垄断 | 跨国治理复合体的排他性指标霸权 | 分布式认知与师生平等的探究契约 |
+> | 维度 | 传统学术生产（Mode 1） | 产学合作应用生产（[[Mode 2 Knowledge Production\|Mode 2]]） | 跨国政策量化生产 | 课堂探究共同体生产 | 人工智能中介知识生产 |
+> |---|---|---|---|---|---|
+> | **生产主体** | 大学学者、基础学科实验室 | 大学与工业企业联合研发团队 | 跨国机构（[[OECD]]、世界银行）智库 | 教师引导下的学生探究共同体 | 人机协同耦合系统（学者/学生与 LLM/智能体） |
+> | **合法性来源** | 同行匿名评审与学科范式共识 | 市场交换价值与应用解决效能 | 科学理性修辞与跨国可比指标 | 经验证据协调与同伴批判协商 | 概率生成输出与人类评价性判断校验 |
+> | **核心目的** | 探索未知真理与扩展学科认知 | 商业专利变现与经济生产力提升 | 施展[[Soft Power by Hard Facts\|硬事实软权力]]与远处调控 | 达成深层概念转变与培养[[Epistemic Agency\|认识能动性]] | 提高构想与综合效率，重组证据确证劳动力分工 |
+> | **权力形态** | 学术权威与学术共同体自治 | 产业资本对研究议程的渗透垄断 | 跨国治理复合体的排他性指标霸权 | 分布式认知与师生平等的探究契约 | 算法平台黑箱、流畅权威与分布式责任博弈 |
 
 ---
 
@@ -117,13 +118,13 @@ updated: 2026-09-21
 > [!feature] 知识生产的核心结构维度
 > - **知识所有权与生产权的结构性分离** 科学知识由大学学者生产，但经济与法律所有权大量归属于资助企业与国家；欧洲学术专利中 60%–81% 归工业公司所有，知识生产呈现资本剥离特征。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]]
 > - **知识类型的不对称性繁荣与衰退** 可量化、可专利化的硬科学受到政策资本重点扶持，而关注意义与批判的[[Narrative Knowledge|叙事知识]]（人文社会科学）在国家资助中面临边缘化。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71, 74)]]
-> - **国际组织的自指性内部研究帝国** 跨国组织建立封闭的自制数据库与评估系统（如[[World Bank|世界银行]] [[Systems Approach for Better Education Results|SABER]]），集指标制定、内部评审与项目贷款于一体，构建自产自销闭环。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **国际组织的自指性内部研究帝国** 跨国组织建立封闭的自制数据库与评估系统（如[[World Bank|世界银行]] [[Systems Approach for Better Education Results|SABER]]），集指标制定、内部评审与项目贷款于一体，构建自产自销的自给自足体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 > - **自主生成个人新知（Generative Knowing）** 学习者在教学中不依赖先验讲授输入，而是通过调查活动与反思推理，自主生成对其认知而言全新、非微不足道的概念模型。
 > - **探究共同体中的社会化批判协商（Social Epistemic Discourse）** 知识主张必须公开发布于学习共同体中，经受同伴对[[Chain of Evidence|证据链]]条与推理逻辑的质询与推敲，在社会互动中完成客观化确证。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]
 
 > [!logic-map]- 知识生产的双轨运作机制：宏观制度资本 vs 微观课堂探究
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph Macro["宏观治理与资本场域"]
 >         Fund["国家与产业资本资助"] --> Hard["硬科学专利生产 (企业垄断产权)"]
 >         Fund -.-> Soft["人文叙事知识 (边缘化)"]
@@ -174,6 +175,16 @@ updated: 2026-09-21
 
 ---
 
+### 命题四　人工智能深度介入深刻重组知识生产与确证的劳动力分工
+
+> [!concept-lens] 认知劳动分工与评价性判断自持
+> 探讨生成式技术如何改变知识生产任务链，审视判断型协助对人类认识责任与学术质量鉴别力的系统性挑战。
+
+> [!claim] [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]
+> **认识劳动力分工重塑与评价权移交风险** 知识生产不仅关涉最终成果的呈现，更依赖生产过程中的认识劳动力分工。人工智能技术将知识生产细分为材料搜集、文字起草与质量评价等多重动作。工具型协助仅作为生产操作的物理延展；承载判断型协助则可能在无人类显性干预下直接生成论证结论与优劣裁定。若知识生产的评价性判断被算法全面置换，知识生产将异化为对不透明统计拼贴的盲从，导致学者与学生丧失在真实学术挫折中建立的学科专长；唯有维系关系性主体性，知识生产才能在人机共生中保持真理性与发展正当性。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 3–5, 7)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -182,6 +193,7 @@ updated: 2026-09-21
 > | **资本偏向与学科分化** | 揭示国家与产业资本对学术知识生产所有权与学科权重的扭曲 | 大学[[University-Industry Collaboration\|产学合作]]、科研资助政策与[[Geopolitics of Knowledge\|知识地缘政治]] | [[Argument_Partaken_2022_Springer\|Partaken (2022)]] |
 > | **自指闭环与知识垄断** | 阐明国际组织自产、自销、自资助的封闭知识生产与武器化机制 | 跨国教育治理、[[Policy Brokerage\|政策中介]]与基准评测 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 > | **共同体社会化生成** | 阐明微观课堂探究中学生通过证据协调与同伴质询建构新知的机制 | 科学探究教学、[[Inquiry-Based Learning\|探究式学习]]与概念转变 | [[Clark A. Chinn\|Chinn]] & Duncan; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
+> | **人机分工与评价置换** | 揭示生成式 AI 重塑确证劳动力分工，警惕判断型协助侵蚀主体认识鉴别力 | 高等教育人机协同探究、学术诚信与数字认识论 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
 
 ---
 
@@ -193,6 +205,7 @@ updated: 2026-09-21
 > - **2010 — 亚洲作为方法与知识去帝国化** [[Chen Kuan-Hsing]] 呼吁打破以西方为唯一样板的知识流动格局，将亚洲从分析客体转变为能动的知识生产主体。
 > - **2018–2023 — 科学教育中的认识论要素重构** [[Clark A. Chinn]] 与 Ravit Golan Duncan 规范界定真实探究的认识论内核；[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 将自主生成新知与共同体社会化建构确立为区分真实[[Inquiry-Based Learning|指导式探究]]与传统被动灌输的关键标尺。
 > - **2022–2024 — [[Governing by Numbers|数字治理]]与自指性跨国知识帝国** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 揭示学术专利商业化背景下的资本剥夺；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 剖析国际组织集生产、中介与资助为一体的量化知识垄断。
+> - **2026 — 人机中介与认识确证劳动分工重组** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 系统开启知识生产的社会认识论转向，提出知识确证劳动力分工在人机之间的层级解构，确立防范承载判断型协助置换人类评价性判断的规范治理框架。
 
 ---
 
@@ -235,3 +248,4 @@ updated: 2026-09-21
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统界定探究教学中的[[Epistemology|认识论]]要素，阐释学生在探究共同体中自主生成新知与社会化证据协调的认知建构机制。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — [[Geopolitics of Knowledge|知识地缘政治]]专著，系统辨析学术知识生产的资本化、专利所有权剥离及[[Narrative Knowledge|叙事知识]]的全球萎缩。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — [[Governing by Numbers|数字治理]] 2.0 框架下解析[[OECD|经合组织]]与[[World Bank|世界银行]]的内部自指性知识生产、工具打包与[[Policy Brokerage|政策中介]]机制。
+> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 系统揭示人工智能介入对知识确证劳动力分工的深刻重构，阐明承载判断型协助置换评价性判断对学术探究与知识生产发展的潜在风险。
