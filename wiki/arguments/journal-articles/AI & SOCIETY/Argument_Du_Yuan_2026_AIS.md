@@ -19,19 +19,18 @@ tags:
   - paradigm/social-epistemology
   - method/critical-review
 related_concepts:
-  - "[[Epistemic Dependence]]"
-  - "[[Epistemic Agency]]"
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Cognitive Offloading]]"
-  - "[[Educational Affordances]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
+  - "[[Cognitive Offloading]]"
   - "[[Growth]]"
   - "[[Ontology]]"
   - "[[Epistemic Cognition]]"
   - "[[Document]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Dialogue in Education]]"
+  - "[[Epistemic Agency]]"
+  - "[[Epistemic Dependence]]"
   - "[[Operationalization]]"
   - "[[Epistemic Stances]]"
   - "[[Reflexivity]]"
@@ -96,7 +95,7 @@ title: "Argument_Du_Yuan_2026_AIS"
 argument_key: "Argument_Du_Yuan_2026_AIS"
 argument_display_title: "Epistemic dependence in AI-mediated learning"
 argument_kind: "journal-article"
-argument_related_count: 59
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -113,15 +112,22 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 随着人工智能（Artificial Intelligence, AI）从专用辅助软件转变为常态化的求知中介，教育的核心关切应如何从技术采纳率与学术诚信防范，转向技术中介究竟是支持还是置换了发展批判性判断所必需的认识工作？
+> **核心研究问题** 随着人工智能（Artificial Intelligence, AI）从单纯的辅助软件转变为常态化的求知中介，教育的核心关切应如何从“关注技术采纳率与防范学术不端”，转向“辨析技术中介究竟是支持了求知探索，还是悄然置换了形成独立评价判断所必需的心智工作”？
+>
+> 围绕这一核心关切，研究具体展开为三个相互衔接的子问题：
+> 1. **边界与诊断** 人类学习向来离不开外部协作，在技术依赖不可避免的现实下，如何划定“生产性技术借助”与“有害认识依赖”的理论边界与可操作诊断标准？
+> 2. **机制与路径** 生成式人工智能究竟通过哪些具体的界面交互形态、表层流畅回答以及外部考核导向，逐步切除学生推导、试错与深层加工的“中间认识动作”？
+> 3. **规范与治理** 教育应当确立怎样的规范性认识理想，才能超越孤立自足神话，在教学设计、考核评价与制度治理中重塑学生的自主判断权并落实人机分布式责任？
 
 > [!claim] 核心主张
-> [[Epistemic Dependence|认识依赖]]本身并非教育的失败，人类学习历来扎根于外部相互依赖；教育的关键任务在于划定生产性依赖与有害依赖的理论边界，通过六维诊断标准与四条社会技术路径解构评价性判断被算法置换的机制，确立以关系性[[Epistemic Agency|认识主体性]]为规范基石的教学、评价与治理重构方案。（pp.1–2）
+> 外部技术依赖本身并非教育的失败，人类求知历来扎根于人际与工具的相互协作。教育的真正危机不在于学生使用了多少次技术，而在于使用过程中评价性判断的最终裁决权是否被算法接管。应对技术依赖不能仅停留在事后防作弊与抓违规，而必须确立“关系性认识主体性”的新型规范认识理想，通过在人机交互中保留必要的思维摩擦、在作业考核中前移至全流程思维追踪、在制度层面明确人机分工，切实守护学生独立负责的求知能力。（pp. 1–2, 7–8）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 人工智能全面介入下的高等教育与日常学习场景，重点考察大语言模型（Large Language Model, LLM）、[[Intelligent Tutoring Systems|智能导师系统]]与自动化评价工具对知识获取、解释生成与论点评估的中介。
-> - **张力** 传统教育话语中将人工智能单纯视作效率工具、合规难题或技能赤字的狭隘视阈，与技术作为认识中介者重塑知识确证劳动力分工之间的理论断裂；[[Extended Mind Theory|延展心智理论]]对[[Cognitive Offloading|认知卸载]]的合法性辩护与算法黑箱剥夺评价性判断之间的深层张力。
-> - **贡献** 提炼出可质疑性、可恢复性、可迁移性、可追溯性、分布式责任与认识多样性六维诊断框架；系统建构由[[Educational Affordances|技术可供性]]演进至教育后果的四条社会技术路径模型；确立了作为智能时代教育规范基石的关系性认识主体性理念。
+> - **对象** 大语言模型（Large Language Model, LLM）、[[Intelligent Tutoring Systems|智能导师系统]]与自动化评价工具全面介入的高等教育与日常学习场景，重点考察学生获取解释、综合多源文献、获取反馈与评估学业品质的求知过程。
+> - **核心张力**
+>   - *工具论偏向与认识中介现实的张力* 传统教育讨论常把人工智能单纯当成提高效率的帮手或防范作弊的合规难题，忽视了智能系统正在实质性重构知识确证中分工关系的认识论现实；
+>   - *合法认知减负与心智机能萎缩的张力* 外部技术中介确实能帮助人类卸载繁重的表层信息搜集负担，但如果算法的即时回答将原本具有探究价值的“思维摩擦”彻底抹去，学生反思监控与面对不确定性时的深入加工机能就会逐步退化。
+> - **核心贡献** 提出区分生产性借助与有害依赖的六维诊断框架；系统建构由技术界面可供性演进至认知后果的四条社会技术路径；确立了以关系性认识主体性为基石的教学、评价与治理重构方案。
 
 ---
 

@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
     },
     {
+      "basename": "Homework",
+      "path": "wiki/concepts/instruction-pedagogy/Homework.md"
+    },
+    {
+      "basename": "Hegemony",
+      "path": "wiki/theories/political-economy-geopolitics/Hegemony.md"
+    },
+    {
+      "basename": "Epistemic Friction",
+      "path": "wiki/concepts/educational-psychology/Epistemic Friction.md"
+    },
+    {
       "basename": "Blended Learning",
       "path": "wiki/concepts/instruction-pedagogy/Blended Learning.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Control of Variables Strategy",
       "path": "wiki/concepts/instruction-pedagogy/Control of Variables Strategy.md"
-    },
-    {
-      "basename": "Scientific Literacy",
-      "path": "wiki/concepts/competency-and-assessment/Scientific Literacy.md"
-    },
-    {
-      "basename": "Learning Gain",
-      "path": "wiki/concepts/higher-education/Learning Gain.md"
-    },
-    {
-      "basename": "Socratic Dialogue",
-      "path": "wiki/concepts/instruction-pedagogy/Socratic Dialogue.md"
     }
   ],
   "omittedPaths": [],
