@@ -248,7 +248,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > [!critique] 外部批评
 > - **教师与内容可能被削弱** [[Argument_Rømer_2018_EPT|Rømer (2018)]] 批评 Hattie 一方面接受激进建构主义对外部知识和教师权威的削弱，另一方面又把教师中心的直接指导加入同一框架，因而没有解决教师应代表何种内容和规范的问题。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–8)]]
 > - **课程知识可能被通用技能取代** [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] 指出，建构主义话语与[[Outcomes-based Education|结果导向课程]]和 21 世纪技能结合时，学科知识容易被描述成可随时替换的事实，课程准入的不平等问题随之被遮蔽。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 3–5)]]
-> - **反建构主义判断也需要接受证据审查** O’Connor (2020) 通过审计 Hattie 对[[Whole Language|全语言]]研究的处理，认为其对建构主义和教师促进者角色的先在立场影响了研究纳入、分类和[[Effect Size|效应量]]解释。这项批评提醒研究者分别检查[[Theoretical Standpoint|理论立场]]与证据程序。[[Argument_OConnor_2020_AJLL|(O’Connor, 2020)]]
+> - **反建构主义判断也需要接受证据审查** [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 通过审计 Hattie 对[[Whole Language|全语言]]研究的处理，认为其对建构主义和教师促进者角色的先在立场影响了研究纳入、分类和[[Effect Size|效应量]]解释。这项批评提醒研究者分别检查[[Theoretical Standpoint|理论立场]]与证据程序。
 
 > [!warning] 适用局限
 > 建构主义研究擅长说明人们怎样理解经验、概念怎样在互动中变化，以及制度怎样获得意义。要求严密控制[[Variable|变量]]、估计[[Effect Size|效应量]]或检验普遍线性[[Causality|因果关系]]的问题，需要采用能够支持这些推论的设计。方法选择应由[[Research Question|研究问题]]决定，质性解释也可以与量化证据组合。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 1)]]
@@ -276,5 +276,5 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]]　从[[Social Realism|社会实在论]]出发，批评课程改革对系统学科知识的边缘化。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]]　用国际关系建构主义解释观念、规范和知识在全球教育治理中的制度权力。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]]　分析[[Radical Constructivism|激进建构主义]]与教师权威、文化内容之间的张力。
-> - [[Argument_OConnor_2020_AJLL|O’Connor (2020)]]　审计反建构主义判断中的数据选择、研究分类和效应解释。
+> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]　审计反建构主义判断中的数据选择、研究分类和效应解释。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]]　追溯芬兰现象化学习中[[Pragmatic Constructivism|实用主义建构主义]]与[[Bildung|教化]]传统的结合。
