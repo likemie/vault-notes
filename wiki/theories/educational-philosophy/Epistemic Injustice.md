@@ -9,6 +9,10 @@ aliases:
 summary: "由 Miranda Fricker (2007) 开创的批判性社会认识论理论，指个体或群体在作为求知者（knowers）的身份上所遭受的系统性损害与特权剥夺，核心涵盖证词不正义、诠释不正义以及教育领域的成长性认识不正义。在智能求知时代，该理论揭示了大模型语料偏倚与平台垄断对边缘群体认识主体性与知识多样性的隐蔽侵害。"
 type: theory
 theory_field: "educational-philosophy"
+theory_related_count: 1
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 domain: "educational-philosophy"
 tags:
   - theory/social-epistemology

@@ -9,6 +9,11 @@ aliases:
 summary: "由 Wineburg 与 McGrew (2019) 提出的网络信息与证据核验方法，指在面对数字化信息或生成式 AI 输出时，迅速跳出当前文本或单一对话窗口，在多个外部独立信源中横向检索该主张的背景、利益立场与反驳证据，以多源三角互证破除表面流畅权威。"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dbeafe"
 tags:
   - method/digital-literacy
   - theme/critical-thinking
@@ -18,6 +23,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Epistemic Agency]]"
   - "[[AI Literacy]]"
+  - "[[Evaluative Judgement]]"
 related_theories: []
 related_methods:
   - "[[Confidence Interval]]"
