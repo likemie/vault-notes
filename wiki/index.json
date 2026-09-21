@@ -1650,6 +1650,17 @@
     ]
   },
   {
+    "title": "Evaluative Judgement",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Evaluative Judgement.md",
+    "aliases": [
+      "评价性判断",
+      "评估性判断",
+      "评价判断能力",
+      "evaluative judgment"
+    ]
+  },
+  {
     "title": "Formative Assessment",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Formative Assessment.md",
@@ -11680,6 +11691,18 @@
     ]
   },
   {
+    "title": "Epistemic Injustice",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Epistemic Injustice.md",
+    "aliases": [
+      "认识不正义",
+      "认识不公",
+      "认识论不正义",
+      "认识论不公",
+      "epistemic injustice theory"
+    ]
+  },
+  {
     "title": "Goldman's Discrimination Theory of Knowledge",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Goldman's Discrimination Theory of Knowledge.md",
@@ -14044,6 +14067,18 @@
     "aliases": [
       "阶梯法",
       "laddering technique"
+    ]
+  },
+  {
+    "title": "Lateral Reading",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Lateral Reading.md",
+    "aliases": [
+      "横向阅读",
+      "侧向阅读",
+      "横向阅读法",
+      "侧向阅读策略",
+      "lateral reading strategy"
     ]
   },
   {
