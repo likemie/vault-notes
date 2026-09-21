@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Rote Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Rote Learning.md"
+    },
+    {
+      "basename": "Inquiry-Based Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md"
+    },
+    {
+      "basename": "Epistemic Agency",
+      "path": "wiki/concepts/educational-psychology/Epistemic Agency.md"
+    },
+    {
       "basename": "Argument_Cartiff_2021_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+    },
+    {
+      "basename": "Justificatory Standards",
+      "path": "wiki/concepts/educational-psychology/Justificatory Standards.md"
     },
     {
       "basename": "Epistemic Cognition",
@@ -109,10 +129,6 @@
       "path": "raw/知识论作为元课程_2万字以内修订稿.md"
     },
     {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
       "basename": "Affective Outcomes",
       "path": "wiki/concepts/educational-psychology/Affective Outcomes.md"
     },
@@ -135,10 +151,6 @@
     {
       "basename": "Theory of Mind",
       "path": "wiki/theories/educational-psychology/Theory of Mind.md"
-    },
-    {
-      "basename": "Epistemic Agency",
-      "path": "wiki/concepts/educational-psychology/Epistemic Agency.md"
     },
     {
       "basename": "Epistemic Dependence",
@@ -187,18 +199,6 @@
     {
       "basename": "Heterogeneity",
       "path": "wiki/concepts/research-methodology/Heterogeneity.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
-    },
-    {
-      "basename": "Business as Usual",
-      "path": "wiki/concepts/research-methodology/Business as Usual.md"
-    },
-    {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
     }
   ],
   "omittedPaths": [],

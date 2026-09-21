@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md",
+                "file": "wiki/concepts/instruction-pedagogy/Rote Learning.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Cartiff_2021_JEP"
+              "title": "Rote Learning"
             }
           },
           {
@@ -262,8 +262,12 @@
   },
   "active": "41073bf3fc60164f",
   "lastOpenFiles": [
-    "wiki/concepts/educational-psychology/Epistemic Cognition.md",
+    "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md",
+    "wiki/concepts/educational-psychology/Epistemic Agency.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md",
+    "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+    "wiki/concepts/educational-psychology/Justificatory Standards.md",
+    "wiki/concepts/educational-psychology/Epistemic Cognition.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md",
     "sources/Cartiff_2021_JEP/figures/Cartiff_2021_JEP_Fig2_Funnel_Plot.jpg",
     "sources/Cartiff_2021_JEP/figures/Cartiff_2021_JEP_Fig1_PRISMA_Flowchart.jpg",
@@ -297,10 +301,6 @@
     "wiki/concepts/educational-philosophy/Scientific Uncertainty.md",
     "wiki/concepts/educational-psychology/Epistemic Ideals.md",
     "wiki/concepts/competency-and-assessment/Metacognition.md",
-    "wiki/concepts/learning-science-cognitive-science/Working Memory.md",
-    "wiki/theories/learning-science-cognitive-science/Extended Mind Theory.md",
-    "wiki/concepts/instruction-pedagogy/Brainstorming.md",
-    "wiki/concepts/research-methodology/Reflexivity.md",
     "sources/Du_Yuan_2026_AIS.pdf",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig2_Following_People_Policy_Money.jpg",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig1_SVA_Expansive_Network.jpg",
