@@ -1683,7 +1683,7 @@ Total entries: **2747**
 > - [[Research Learning Communities Baseline Survey Questionnaire]] — 研究学习共同体（RLC）项目在英格兰 79 所小学实施的基线调查问卷，围绕参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四个因素共 14 道题，采用五级李克特量表，用于在干预开始前刻画学校推进证据知情自我改进的准备状态并诊断组织制度性短板。
 > - [[Schommer's Modified Epistemological Questionnaire]] — 由 Schommer 针对中学生群体修订的认识论信念自陈问卷，用于评估个体在能力本质、学习速度、知识结构与知识确定性等维度的认识论信念特征。
 > - [[Strengthening the Impact of Education Research Policy Survey]] — OECD 教育研究与创新中心（CERI）在 SIER 项目下开发的宏观系统级政策调查问卷，涵盖政策利用、实践促成与学术生产三大板块，通过多维矩阵打分与质性开放题，全面测度 29 国 37 个教育系统的研究动员生态、行动者网络、促成机制与制度障碍。
-> - [[Views of Nature of Science Questionnaire]] — 由 Lederman 等人开发的用于评估学生对科学本质（NOS）七个核心维度理解水平的开放式问卷工具，通常结合访谈使用。
+> - [[Views of Nature of Science Questionnaire]] — 由 Lederman 等人开发的开放式问卷与半结构化访谈测量工具，评估被试在科学暂定性、经验性、创造性等七个科学本质维度的形式认识论观点，并划分为素朴观、过渡观与知情观三种认知水平。
 
 > [!index-list]- Rubrics (7)
 > - [[CALOHEE Assessment Reference Frameworks]] — 由欧盟委员会与Tuning学院研制的欧洲高等教育多维评价量规与参照框架体系，覆盖土木工程、教师教育、历史、护理和物理五大专业，将都柏林描述符解构为可测量的批判性思维与创造力学科化表现矩阵。
