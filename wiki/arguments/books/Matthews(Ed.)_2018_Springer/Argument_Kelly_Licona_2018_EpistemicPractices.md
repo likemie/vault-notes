@@ -1,5 +1,5 @@
 ---
-summary: "凯利（Gregory J. Kelly）与利科纳（Peter Licona）基于科学元勘实证研究，主张科学教育应从单纯记忆知识结论转向深度参与学科认识论实践。研究构建了提出、沟通、评估与合法化知识主张的四维行动模型，确立了交互性、情境性、互文性与后果性四大特征，并通过物理实验、工程设计与地质写作等真实课堂案例，对比了探究科学、工程教育与社会科学议题的认识论差异，为破除教条的科学方法五步法、培育面向公共生活的批判性科学素养奠定了实践基础。"
+summary: "凯利（Gregory J. Kelly）与利科纳（Peter Licona）基于跨学科科学实践实证研究，主张科学教育应从单纯记忆知识结论转向深度参与学科认识论实践。研究构建了提出、沟通、评估与合法化知识主张的四维行动模型，确立了交互性、情境性、互文性与后果性四大特征，并通过物理实验、工程设计与地质写作等真实课堂案例，对比了探究科学、工程教育与社会科学议题的认识论差异，为破除教条的科学方法五步法、培育面向公共生活的批判性科学素养奠定了实践基础。"
 type: argument
 subtype: book-chapter
 publication_type: book-chapter
@@ -7,9 +7,9 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 33
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "History, Philosophy and Science Teaching: New Perspectives"
 publication_place: "Cham"
@@ -86,14 +86,14 @@ updated: 2026-09-21
 ## 研究问题
 
 > [!question]
-> 在科学史、科学哲学与科学教学（History, Philosophy, and Sociology of Science and Science Teaching, HPS&ST）传统中，研究视野长期偏重规范性的历史与哲学理论，而来自认知科学、社会学、人类学与修辞学的科学元勘实证成果长期遭到边缘化甚至防范。传统的科学教育普遍将[[Epistemology|认识论]]窄化为抽象孤立的哲学公理，或将其等同于测量学生心智中去情境的个人信念，导致教学要么沦为静态命题知识的[[Rote Learning|死记硬背]]，要么退化为套用所谓“[[Scientific Method|科学方法]]五步法”的教条训练，忽视了真实科学活动中微观共同体的话语协商、证据评估与社会规程。面对这一理论与现实困境，科学教育应当如何走出“仅传授既定知识结论”与“将认识论视为孤立个体信念”的双重局限，汲取科学元勘对“行动中的科学”（science-in-the-making）的实证洞见，从而在课堂教学中系统确立以微观共同体为基础的“[[Epistemic Practices|认识论实践]]（epistemic practices）”[[Analytic Framework|分析框架]]？（pp. 139–141, 143–144）
+> 在科学史、科学哲学与科学教学（History, Philosophy, and Sociology of Science and Science Teaching, HPS&ST）传统中，研究视野长期偏重规范性的历史与哲学理论，而来自认知科学、社会学、人类学与修辞学的跨学科科学实践实证成果长期遭到边缘化甚至防范。传统的科学教育普遍将[[Epistemology|认识论]]窄化为抽象孤立的哲学公理，或将其等同于测量学生心智中去情境的个人信念，导致教学要么沦为静态命题知识的[[Rote Learning|死记硬背]]，要么退化为套用所谓[[Scientific Method|科学方法]]五步法的教条训练，忽视了真实科学活动中微观共同体的话语协商、证据评估与社会规程。面对这一理论与现实困境，科学教育应当如何走出仅传授既定知识结论与将认识论视为孤立个体信念的双重局限，汲取跨学科科学实践研究对行动中的科学（science-in-the-making）的实证洞见，从而在课堂教学中系统确立以微观共同体为基础的[[Epistemic Practices|认识论实践]]（epistemic practices）[[Analytic Framework|分析框架]]？（pp. 139–141, 143–144）
 
 > [!claim] 核心主张
-> 科学教育的核心目标不仅在于传授概念结论，更在于引导学生作为微观协商共同体的成员，亲身参与提出、沟通、评估与合法化知识主张的“[[Epistemic Practices|认识论实践]]”。这一实践具有交互生成、情境嵌入、历史互文与制度后果四大特征，在探究科学、工程教育与社会科学议题等不同领域中呈现出鲜明的学科差异，为破除僵化的“科学方法”教条、培育面向公共生活的批判性[[Scientific Literacy|科学素养]]确立了实践哲学基础。（pp. 140, 148, 156–158, 161）
+> 科学教育的核心目标不仅在于传授概念结论，更在于引导学生作为微观协商共同体的成员，亲身参与提出、沟通、评估与合法化知识主张的[[Epistemic Practices|认识论实践]]。这一实践具有交互生成、情境嵌入、历史互文与制度后果四大特征，在探究科学、工程教育与社会科学议题等不同领域中呈现出鲜明的学科差异，为破除僵化的科学方法教条、培育面向公共生活的批判性[[Scientific Literacy|科学素养]]确立了实践哲学基础。（pp. 140, 148, 156–158, 161）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中小学与大学科学课堂、高中物理振动实验小组、小学工程设计团队、大学地质学论文写作，以及社会科学议题辩论场景。
-> - **张力** 哲学上追求的普遍理性标准与实际科学活动中情境复杂性之间的张力；教科书普适线性的“科学方法”与各学科高度异质的实际研究规程之间的断裂。
+> - **张力** 哲学上追求的普遍理性标准与实际科学活动中情境复杂性之间的张力；教科书普适线性的科学方法与各学科高度异质的实际研究规程之间的断裂。
 > - **贡献** 提出并实证阐明了认识论实践的四维行动框架（提出、沟通、评估、合法化）与四大本体特征（交互性、情境性、互文性、后果性），系统构建了三大教育取向在学习目标与实践规程上的对比矩阵，为培育面向现实生活的公共科学素养提供了实践哲学基础。
 
 ---
@@ -106,7 +106,7 @@ updated: 2026-09-21
 > | **三维科学教育目标论** | Richard Duschl (2008) | 科学教育必须同步整合概念、[[Epistemology\|认识论]]与社会三大学习目标，三者相互支撑，不可割裂。（pp. 140–141） | 作为组织科学教学的顶层架构，反对单纯以概念记忆为中心的灌输式教学。 |
 > | **社会知识认识论与批判规范** | Helen Longino (1990, 2002) | 认识论主体是社会群体而非孤立个体；科学知识通过公共论坛、吸收批评、公认标准与平等智识权威确立。（p. 148） | 为课堂[[Epistemic Practices\|认识论实践]]提供规范准则，防止社会学实证视角滑向主观相对主义。 |
 > | **修辞学与科学流派分析** | Charles Bazerman (1988); Alan Gross (1989) | 科学证据是通过特定体裁与文本互文呈现的，知识主张通过修辞协商在社会论坛中获得说服力。（pp. 146, 158–159） | 提供分析学生实验报告、设计方案辩护与地质学论文证据层级的[[Discourse Analysis\|话语分析]]工具。 |
-> | **语言游戏与[[Practical Epistemology\|实践认识论]]** | Ludwig Wittgenstein (1958); Per-Olof Wickman (2004) | 意义在实际行动的语言游戏中生成；通过群体默认的“立足点”（stand fast）与遭遇挑战的“意义裂隙”（gaps）刻画行动中的认识论。（pp. 149–150） | 支撑对课堂日常互动的微观分析，揭示参与者如何在即时[[Dialogue in Education\|对话]]中协商何者算作有效证据与知识。 |
+> | **语言游戏与[[Practical Epistemology\|实践认识论]]** | Ludwig Wittgenstein (1958); Per-Olof Wickman (2004) | 意义在实际行动的语言游戏中生成；通过群体默认的立足点（stand fast）与遭遇挑战的意义裂隙（gaps）刻画行动中的认识论。（pp. 149–150） | 支撑对课堂日常互动的微观分析，揭示参与者如何在即时[[Dialogue in Education\|对话]]中协商何者算作有效证据与知识。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将宏观规范与微观语料有机连接：理查德·杜施尔（Richard Duschl）的三维目标论确立了认识论在课程中的核心地位；海伦·朗基诺（Helen Longino）的社会认识论准则为课堂公共协商提供了防范相对主义的规范航标；查尔斯·巴泽曼（Charles Bazerman）的修辞学工具帮助剖析学生文本中的证据组织层级；而维特根斯坦（Ludwig Wittgenstein）与佩尔-奥洛夫·威克曼（Per-Olof Wickman）的语言哲学则将分析焦点牢牢锚定在课堂实际的话语互动之中。
@@ -118,17 +118,17 @@ updated: 2026-09-21
 > [!method-panel] 研究设计
 > | 模块 | 材料与分析方式 |
 > |---|---|
-> | **方法路径**<br>Interactional Ethnography & Discourse Analysis | 结合科学元勘综述、微观交互人种志（Interactional Ethnography）与质性[[Discourse Analysis\|话语分析]]，重点考察口头与书面语言、符号系统、语调特征与具身动作（手势与操作）。（pp. 139, 144–147） |
+> | **方法路径**<br>Interactional Ethnography & Discourse Analysis | 结合跨学科科学实践研究综述、微观交互人种志（Interactional Ethnography）与质性[[Discourse Analysis\|话语分析]]，重点考察口头与书面语言、符号系统、语调特征与具身动作（手势与操作）。（pp. 139, 144–147） |
 > | **案例综合**<br>Multi-Case Comparative Synthesis | 横跨中小学与大学学段，综合对比四项具有代表性的原生态课堂实证案例，涵盖物理探究、工程设计、地质写作与教师引导话语。（pp. 144–147） |
-> | **学科矩阵分析**<br>Disciplinary Matrix Comparison | 针对“探究式科学”、“工程教育”与“社会科学议题”三大教学取向，在学习目标与[[Epistemic Practices\|认识论实践]]两个层面系统编制跨领域比较矩阵。（pp. 142–143, 156–157） |
+> | **学科矩阵分析**<br>Disciplinary Matrix Comparison | 针对探究式科学、工程教育与社会科学议题三大教学取向，在学习目标与[[Epistemic Practices\|认识论实践]]两个层面系统编制跨领域比较矩阵。（pp. 142–143, 156–157） |
 
 > [!sample-panel]- 样本与材料快照
 > | 案例来源与学段 | 核心学科与任务情境 | 材料形态与分析焦点 |
 > |---|---|---|
 > | **物理实验小组**<br>(Kelly et al., 2001) | 高中物理：弹簧振子简谐振动实验 | 微观录像[[Transcription in Qualitative Research\|转录]]、微机传感器实时位移与速度波形图、学生具身模仿手势、小组[[Dialogue in Education\|对话]]序列（pp. 144–145） |
-> | **技术工程团队**<br>(Kelly & Brown, 2003) | 小学三年级：设计可实际运作的太阳能集热与烹饪装置 | 小组讨论记录、工程草图、原型测试数据、全班展示与面向“科学小记者”的辩护话语（pp. 145–146） |
+> | **技术工程团队**<br>(Kelly & Brown, 2003) | 小学三年级：设计可实际运作的太阳能集热与烹饪装置 | 小组讨论记录、工程草图、原型测试数据、全班展示与面向科学小记者的辩护话语（pp. 145–146） |
 > | **专业地质写作**<br>(Takao & Kelly, 2003) | 大学本科地质学：撰写板块构造证据论证学术论文 | 学生学期论文文本、全球地质测量数据图表、[[Epistemology\|认识论]]层级（Epistemic Level, EL）[[Coding in Qualitative Research\|编码]]（p. 146） |
-> | **科学身份塑造**<br>(Reveles et al., 2004) | 小学三年级多元文化课堂：物质状态与自然现象探究 | 教师 Cordova 课堂录像转录、师生互动话语、对对话进行反思的“元话语（meta-discourse）”（pp. 146–147） |
+> | **科学身份塑造**<br>(Reveles et al., 2004) | 小学三年级多元文化课堂：物质状态与自然现象探究 | 教师 Cordova 课堂录像转录、师生互动话语、对对话进行反思的元话语（meta-discourse）（pp. 146–147） |
 > | **重力与地球观念**<br>(Lidar et al., 2010) | 小学阶段：地球形状与重力作用机制探究 | 小组对话录音、操作天球仪与地图的互动过程、[[Practical Epistemology\|实践认识论]]分析（PEA）编码（p. 150） |
 
 ---
@@ -166,7 +166,7 @@ updated: 2026-09-21
 > [!proc] 解构对科学社会学戒心的三重学术辩护
 > 1. **区分描述性记录与规范性目标** 记录科学活动中的实际社会互动并不等同于将所有实际行为直接当作教学标准。教育目标需要结合伦理与育人考量，实证研究旨在深化对[[Knowledge Production|知识生成]]过程的理解，而非盲目复制职业科学家的所有行为。
 > 2. **立足教育学视角吸纳研究成果** 吸纳科学社会学是为了揭示知识生产的内部运作逻辑（如文本修改、实验检验、[[Peer Debriefing|同行审议]]），这些洞见能够为课程设计提供生动滋养，无须陷入相对主义的极端争议。
-> 3. **借鉴[[Ethnography|人种志]]的微观研究方法** 科学元勘考察“行动中的科学”（science-in-the-making）的[[Qualitative Observation|田野观察]]方法，为教育研究考察课堂中“师生如何共同确立知识”提供了成熟有效的方法工具。（pp. 143–144）
+> 3. **借鉴[[Ethnography|人种志]]的微观研究方法** 跨学科科学实践研究考察行动中的科学（science-in-the-making）的[[Qualitative Observation|田野观察]]方法，为教育研究考察课堂中师生如何共同确立知识提供了成熟有效的方法工具。（pp. 143–144）
 
 > [!warrant]- 推理桥梁：从个体信念向社会规程的转变
 > 当认识论主体定位于共同体时，科学教育的重心便发生转变：学习科学不仅是记住现成的概念定义，更是学会参与特定学科的交流实践，掌握共同体用来提出、检验与确立知识的社会规程。
@@ -193,14 +193,14 @@ flowchart LR
 >   - **语料情境** 高中生利用弹簧振子与超声波传感器探究振动，计算机实时生成的波形图具有显著的解释灵活性（Kelly et al., 2001）。学生用手部动作在空中模仿振动，将身体感觉与屏幕波峰波谷对照，提出充满试错的初步猜想。
 >   - **认识论机制** 科学发现需要具身动作与仪器读数相互印证（Garfinkel et al., 1981）。这些粗粒度的初始尝试，构成了启动小组公共审议的关键认知支点。（pp. 144–145）
 > - **沟通主张：小学三年级太阳能装置设计**
->   - **语料情境** 小学三年级学生分组设计太阳能集热装置（Kelly & Brown, 2003）。学生面对多重交流场景：在小组内商讨材料折中方案，在全班汇报集热原理，并用实测升温数据回应“科学小记者”的质疑。
+>   - **语料情境** 小学三年级学生分组设计太阳能集热装置（Kelly & Brown, 2003）。学生面对多重交流场景：在小组内商讨材料折中方案，在全班汇报集热原理，并用实测升温数据回应科学小记者的质疑。
 >   - **认识论机制** 沟通是知识建构的核心中介而非事后包装。学生根据受众与任务调整论证，与专业科学家撰写报告和答辩时的修辞工作完全同构（Bazerman, 1988）。（pp. 145–146）
 > - **评估主张：大学海洋地质学论文写作**
 >   - **语料情境** 大学生利用全球地质数据集撰写板块构造论文（Takao & Kelly, 2003）。高水平论证必须从具体观测事实（震源深度、洋底地磁条带）平稳过渡到中阶概括（贝尼奥夫带、扩张速率），最终上升到理论机制（板块俯冲）。
->   - **认识论机制** 评估关乎证据组织的体裁规范。即使高年级[[Teaching Assistant|助教]]也往往难以直接说清某篇论文为何“更有说服力”，[[Discourse Analysis|话语分析]]使这种默会的证据评估层级变得显性可教。（p. 146）
+>   - **认识论机制** 评估关乎证据组织的体裁规范。即使高年级[[Teaching Assistant|助教]]也往往难以直接说清某篇论文为何更有说服力，[[Discourse Analysis|话语分析]]使这种默会的证据评估层级变得显性可教。（p. 146）
 > - **合法化主张：小学科学课堂教师元话语**
->   - **语料情境** 教师 Cordova 在小学探究课上引导学生确立科学解释的权威（Reveles et al., 2004）。教师不直接裁决对错，而是使用元话语点评：“大家注意到了吗，刚才在反驳时调用了昨天的实测温度数据，这正是科学家解决分歧的做法。”
->   - **认识论机制** 基础教育中合法化知识的核心在于培养学生的“科学身份（science identity）”，赋予边缘背景学生基于证据平等发声的自信（Latour, 1987; Myers, 1997）。（pp. 146–147）
+>   - **语料情境** 教师 Cordova 在小学探究课上引导学生确立科学解释的权威（Reveles et al., 2004）。教师不直接裁决对错，而是使用元话语点评，提请全班注意刚才发言调用了实测温度数据，这正是科学家解决分歧的专业做法。
+>   - **认识论机制** 基础教育中合法化知识的核心在于培养学生的科学身份（science identity），赋予边缘背景学生基于证据平等发声的自信（Latour, 1987; Myers, 1997）。（pp. 146–147）
 
 #### 2. 知识主张在发现、辩护与全流程沟通三重情境中推进
 
@@ -263,7 +263,7 @@ flowchart LR
 > [!tension-table] 转基因玉米在探究、工程与 SSI 取向下的认识论实践对质（pp. 154–155）
 > | 维度 | 探究式科学（Inquiry Science） | 工程教育（Engineering Education） | 社会科学议题（SSI Approach） |
 > |---|---|---|---|
-> | **核心探究问题** | “转基因玉米在控制光照下是否比常规玉米[[Growth\|生长]]得更好？” | “如何改良玉米基因以满足特定抗旱与低成本加工的工业要求？” | “是否应该允许将实验室培育的转基因玉米大规模引入自然生态系统？” |
+> | **核心探究问题** | 转基因玉米在控制光照下是否比常规玉米[[Growth\|生长]]得更好？ | 如何改良玉米基因以满足特定抗旱与低成本加工的工业要求？ | 是否应该允许将实验室培育的转基因玉米大规模引入自然生态系统？ |
 > | **证据考量范围** | 仅限于生物学受控实验测得的株高、生物量与抗虫数据。 | 关注基因转化效率、种子生产成本与农机收割兼容性。 | 综合考量生态多样性风险、跨国种业专利垄断、食品安全与伦理观念。 |
 > | **结论裁决准则** | 遵循单[[Variable\|变量]]控制原则与[[Statistical Significance\|统计显著性]]检验。 | 寻求多约束条件下的最优设计平衡与可行性。 | 综合权衡不同价值诉求，在公共审议中寻求合理的民主共识。 |
 
@@ -277,7 +277,7 @@ flowchart LR
 #### 1. 科学门类的家族相似性消解刻板的线性科学方法
 
 > [!critique-method] 科学方法的线性教条与跨学科认识论[[Heterogeneity|异质性]]
-> - **地学与空间科学的“回溯推测”（Retrodiction）** 地质学与古生物学并不侧重于预测未来，而是回溯推测远古发生的事件。地质学研究的核心在于整合多条相互印证的[[Chain of Evidence|证据链]]，并在宏大的时空尺度上进行合理外推（Ault, 1998）。
+> - **地学与空间科学的回溯推测（Retrodiction）** 地质学与古生物学并不侧重于预测未来，而是回溯推测远古发生的事件。地质学研究的核心在于整合多条相互印证的[[Chain of Evidence|证据链]]，并在宏大的时空尺度上进行合理外推（Ault, 1998）。
 > - **化学科学的模型与定性规律** 化学中的规律（如元素周期律）不像物理学引力定律那样具备严格的公理化公式，化学教学更多依赖定性模型与结构化解释（Erduran, 2007; Erduran & Duschl, 2004）。（p. 152）
 > - **生命科学的概率特征** 遗传学教学要求学生理解多基因相互作用与概率因果，这种能力有助于公民理性看待基因筛查等社会现实问题（Jiménez-Aleixandre, 2014）。（p. 151）
 
@@ -287,7 +287,7 @@ flowchart LR
 > 1. **识别立足点（Stand Fast）** 找出师生在当前对话中共同认可、无需争论的基础概念与常识。
 > 2. **遭遇意义裂隙（Encounter Gaps）** 当观察到新现象或反常数据时，原有共识出现分歧或空白。
 > 3. **搭建关系桥梁（Build Relations Across Gaps）** 学生利用实验教具与生活经验跨越理解障碍（例如 Lidar et al., 2010 在关于重力的讨论中，儿童通过转动地球仪与地图修补理解裂隙）。
-> 4. **开展显性反思（Engage Meta-Discourse）** 教师适时发起对谈话本身的讨论，引导学生思考：“我们为什么接受这个证据？”“怎样排除其他可能？”从而将具体操作提炼为稳固的科学认知能力。
+> 4. **开展显性反思（Engage Meta-Discourse）** 教师适时发起对谈话本身的讨论，引导学生思考为何接受该项证据并排查竞争性解释，从而将具体操作提炼为稳固的科学认知能力。
 
 > [!feature] 朗基诺社会知识建构规范在课堂中的转化（p. 148）
 > - **公共论坛（Venues）** 提供公开展示与辩论证据的小组讨论和海报交流平台。
@@ -310,7 +310,7 @@ flowchart LR
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Epistemology|认识论]]主体是协商共同体而非孤立个体** 科学元勘实证研究表明，何者算作知识取决于群体的社会协商规程；科学教育应引导学生参与认知文化的实践活动。（pp. 140, 147–148）
+> 1. **[[Epistemology|认识论]]主体是协商共同体而非孤立个体** 跨学科科学实践实证研究表明，何者算作知识取决于群体的社会协商规程；科学教育应引导学生参与认知文化的实践活动。（pp. 140, 147–148）
 > 2. **[[Epistemic Practices|认识论实践]]涵盖四个核心行动环节** 知识主张的提出、沟通、评估与合法化构成课堂互动的基本环节，贯穿于发现、辩护与全流程沟通之中。（pp. 144–147）
 > 3. **认识论实践具有四大本体特征** 实践是在集体互动中生成的（交互性）、嵌入特定情境与传统的（情境性）、借由过往符号传承的（互文性）以及涉及身份认同与认可的（后果性）。（pp. 156–159）
 > 4. **不同教学取向呈现出鲜明的学科差异** 探究科学（解释自然现象）、工程教育（多约束优化设计）与社会科学议题（平衡多元价值）在问题类型、证据范围与评价准则上各有侧重，不存在单一通用的[[Scientific Method|科学方法]]。（pp. 142–143, 154–157）
@@ -330,8 +330,8 @@ flowchart LR
 >
 > *Epistemic practices are the socially organized and interactionally accomplished ways that members of a group propose, communicate, evaluate, and legitimize knowledge claims. Drawing from studies of science and education, this chapter argues that epistemic practices are interactional (constructed among people through concerted activity), contextual (situated in social practices and cultural norms), intertextual (communicated through a history of coherent discourses, signs and symbols), and consequential (legitimized knowledge instantiates power and culture). Through application of these epistemic practices, communities justify knowledge claims.*
 
-> [!citation-card] 论解构刻板的“[[Scientific Method|科学方法]]”与面向证据审议的[[Scientific Literacy|科学素养]]
-> 由于认识论实践依赖于特定领域与时代变迁（因知识生产所面临的挑战而不断改变），因此根本不存在一套封闭固定的“科学实践”。这与教育实践中常常将“科学方法”机械阐释为一套线性步骤的做法形成了鲜明对比。恰恰相反，在人类理解其经验的多元方式中，存在着各具特色的学科性（以及非学科性！）知晓方式。这里的核心宗旨绝不是去教条地规定一套固定的八项实践（如 NGSS 所列），也不是去机械推行科学方法的五个步骤；而是去识别人们如何形成认识，并体会以系统化方式理解世界以使证据向公共审查与评价开放的崇高价值。（pp. 144–145）
+> [!citation-card] 论解构刻板的[[Scientific Method|科学方法]]与面向证据审议的[[Scientific Literacy|科学素养]]
+> 由于认识论实践依赖于特定领域与时代变迁（因知识生产所面临的挑战而不断改变），因此根本不存在一套封闭固定的科学实践。这与教育实践中常常将科学方法机械阐释为一套线性步骤的做法形成了鲜明对比。恰恰相反，在人类理解其经验的多元方式中，存在着各具特色的学科性（以及非学科性！）知晓方式。这里的核心宗旨绝不是去教条地规定一套固定的八项实践（如 NGSS 所列），也不是去机械推行科学方法的五个步骤；而是去识别人们如何形成认识，并体会以系统化方式理解世界以使证据向公共审查与评价开放的崇高价值。（pp. 144–145）
 >
 > *Since epistemic practices are [[Champ|field]]- and time-dependent (changing due to the challenges of knowledge production), there is not a limited set of “science practices.” This contrasts with how “the scientific method” is often interpreted in education as a set of linear steps. Rather, there are disciplinary (and other!) [[Ways of Knowing]] that vary across the multiple ways that humans make sense of their experience. The point is not to define a given set of eight practices (NGSS Lead States 2013), or the five steps of the scientific method. Rather, the idea is to identify the ways people come to know and recognize the value of making sense in systematic ways that render evidence open for public scrutiny and evaluation.*
 
@@ -346,7 +346,7 @@ flowchart LR
 
 > [!warning]
 > 原文指出的理论与实施边界包括：
-> 1. **职业科学实践不能直接生搬硬套到学校** 职业科研中存在激烈的利益竞争与人际博弈，这些行为如果直接复制到中小学课堂，可能对学生的心理健康与合作态度产生负面影响。教学设计必须以育人目标为前提，不能盲目追求表面上的“原真性”（authenticity）（pp. 148–149）；
+> 1. **职业科学实践不能直接生搬硬套到学校** 职业科研中存在激烈的利益竞争与人际博弈，这些行为如果直接复制到中小学课堂，可能对学生的心理健康与合作态度产生负面影响。教学设计必须以育人目标为前提，不能盲目追求表面上的原真性（authenticity）（pp. 148–149）；
 > 2. **概念知识与实践进阶的关系仍需深入研究** [[Epistemic Practices|认识论实践]]高度依赖具体学科的概念基础，缺乏知识支撑的实践容易变成无意义的机械操作；但两者在不同年级和主题下究竟如何相互促进，仍需更多实证证据（pp. 159–160）；
 > 3. **跨学科实践能力的迁移范围有待检验** 学生在某一领域（如流行病学数据异常分析）形成的[[Epistemology|认识论]]经验，能在多大程度上迁移到其他学科（如气象学或工程设计），目前尚缺乏充分的实证结论（p. 160）；
 > 4. **教师实践观念与教材权威惯性的冲突** 教学中教师往往习惯依赖教材给出的标准步骤，容易在言语中使用过于绝对的论断，如何在师资培训中帮[[Teaching Assistant|助教]]师建立[[Reflexivity|反思性]]话语意识仍是一大挑战（pp. 153–154）。

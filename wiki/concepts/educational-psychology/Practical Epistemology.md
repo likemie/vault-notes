@@ -4,7 +4,7 @@ aliases: [实践认识论]
 summary: "学生在探究过程中实际应用于自身科学知识建构的认识论观念。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Epistemological Beliefs]]"
   - "[[Epistemic Resources]]"
+  - "[[Operationalization]]"
   - "[[Ontology]]"
 related_theories: []
 related_methods:
@@ -58,10 +59,10 @@ updated: 2026-09-21
 > [!feature] 核心要素
 > - **隐性与实践性** 实践[[Epistemology|认识论]]通常是隐性的（tacit），不一定能被学生用语言清晰表达，而是通过他们在科学探究（如实验操作、论证构建）中的认识论决策反映出来。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
 > - **情境依赖** 实践认识论往往不是一个连贯统一的信念框架，而是一组在不同探究情境下被触发的细粒度认知资源（resources），具有碎片化和不稳定特征。
-> - **指导探究行为** 观念直接影响学生的行为表现。例如，具有“动态/建构性”观念的学生往往能更系统地寻找数据、提出并论证因果主张；而持有“知识是既定事实”观念的学生则倾向于只做表面记忆或盲目尝试。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 649)]]
+> - **指导探究行为** 观念直接影响学生的行为表现。例如，具有动态与建构性观念的学生往往能更系统地寻找数据、提出并论证因果主张；而持有知识即既定事实观念的学生则倾向于只做表面记忆或盲目尝试。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 649)]]
 
 > [!insight]- 实践认识论分析（Practical Epistemological Analysis, PEA）
-> 威克曼（Per-Olof Wickman）与厄斯特曼（Leif Östman）借鉴维特根斯坦（Ludwig Wittgenstein）的语言游戏（language games）理论，将实践认识论操作化为**实践认识论分析（Practical Epistemological Analysis, PEA）**。该方法聚焦微观课堂话语互动，考察哪些概念被群体默认视为不证自明并确立为“立足点”（stand fast），以及当学生在言语或操作中遭遇认知障碍时，如何通过引入新关系来跨越“意义裂隙”（gaps），从而在行动中原生地界定何者算作知识与有效观察。[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018, pp. 150, 153)]]
+> 威克曼（Per-Olof Wickman）与厄斯特曼（Leif Östman）借鉴维特根斯坦（Ludwig Wittgenstein）的语言游戏（language games）理论，将实践认识论[[Operationalization|操作化]]为**实践认识论分析（Practical Epistemological Analysis, PEA）**。该方法聚焦微观课堂话语互动，考察哪些概念被群体默认视为不证自明并确立为立足点（stand fast），以及当学生在言语或操作中遭遇认知障碍时，如何通过引入新关系来跨越意义裂隙（gaps），从而在行动中原生地界定何者算作知识与有效观察。[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018, pp. 150, 153)]]
 
 ---
 
@@ -78,4 +79,4 @@ updated: 2026-09-21
 > > - **Hammer & Elby (2002)** 主张认识论观念更像是一堆松散的细粒度认知资源（如“知识是实体的”或“知识是累积的”）。这些资源会在特定情境中被独立触发。这解释了为什么学生在不同任务下（例如在 BGuILE 项目中解决具体问题 vs. 填写 [[Views of Nature of Science Questionnaire|VNOS]] [[Questionnaire|问卷]]）的表现极不稳定。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
 
 > [!implication]- 对教学的启示：建立显式反思
-> 仅仅让学生“做”高水平的探究，并不能自动将其高级的“实践认识论”转化为对专业科学的“[[Formal Epistemology|形式认识论]]”。研究（如 Smith et al., 2000）表明，要弥合这二者的脱节，教师必须在日常的探究教学中持续进行**显式的认识论反思（explicit epistemological reflection）**，帮助学生将他们自己的隐性决策与专业科学家的[[Knowledge Production|知识生产]]过程等同起来。
+> 仅仅让学生进行高水平的探究，并不能自动将其高级的实践认识论转化为对专业科学的[[Formal Epistemology|形式认识论]]。研究（如 Smith et al., 2000）表明，要弥合这二者的脱节，教师必须在日常的探究教学中持续进行**显式的认识论反思（explicit epistemological reflection）**，帮助学生将他们自己的隐性决策与专业科学家的[[Knowledge Production|知识生产]]过程等同起来。
