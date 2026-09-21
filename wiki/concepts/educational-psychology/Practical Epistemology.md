@@ -4,7 +4,7 @@ aliases: [实践认识论]
 summary: "学生在探究过程中实际应用于自身科学知识建构的认识论观念。"
 type: concept
 domain: "educational-psychology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,10 +26,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Sandoval_2005_SE]]"
+  - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-09-13
+updated: 2026-09-21
 ---
 
 # Practical Epistemology
@@ -59,6 +60,9 @@ updated: 2026-09-13
 > - **情境依赖** 实践认识论往往不是一个连贯统一的信念框架，而是一组在不同探究情境下被触发的细粒度认知资源（resources），具有碎片化和不稳定特征。
 > - **指导探究行为** 观念直接影响学生的行为表现。例如，具有“动态/建构性”观念的学生往往能更系统地寻找数据、提出并论证因果主张；而持有“知识是既定事实”观念的学生则倾向于只做表面记忆或盲目尝试。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 649)]]
 
+> [!insight]- 实践认识论分析（Practical Epistemological Analysis, PEA）
+> 威克曼（Per-Olof Wickman）与厄斯特曼（Leif Östman）借鉴维特根斯坦（Ludwig Wittgenstein）的语言游戏（language games）理论，将实践认识论操作化为**实践认识论分析（Practical Epistemological Analysis, PEA）**。该方法聚焦微观课堂话语互动，考察哪些概念被群体默认视为不证自明并确立为“立足点”（stand fast），以及当学生在言语或操作中遭遇认知障碍时，如何通过引入新关系来跨越“意义裂隙”（gaps），从而在行动中原生地界定何者算作知识与有效观察。[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018, pp. 150, 153)]]
+
 ---
 
 ## 学术争议与前沿探讨
@@ -70,7 +74,7 @@ updated: 2026-09-13
 > > [!axis] 信念的本体论：连贯框架 vs. 碎片化资源
 > > 争论焦点在于：指导学生探究行为的[[Epistemology|认识论]]，到底是一种宏观的概念框架，还是碎片化的认知资源？
 > >
-> > - **Driver et al. (1996)** 认为学生的认识论表现为相对稳定的连贯框架。他们根据学生在具体探究中的推理，提出了三种递进的图景：现象驱动（认为实验只是让事情发生）、关系驱动（认为理论直接由证据推导）和模型驱动（认识到科学包含连贯理论且关系复杂）。学生需要发生概念转变才能升级。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
+> > - **Driver et al. (1996)** 认为学生的认识论表现为相对稳定的连贯框架。他们根据学生在具体探究中的推理，提出了三种递进的图景：现象驱动（认为实验只是让事情发生）、关系驱动（认为理论直接由证据推导）和模型驱动（认识到科学包含连贯理论且关系复杂）。学生需要发生概念转变才能升级。
 > > - **Hammer & Elby (2002)** 主张认识论观念更像是一堆松散的细粒度认知资源（如“知识是实体的”或“知识是累积的”）。这些资源会在特定情境中被独立触发。这解释了为什么学生在不同任务下（例如在 BGuILE 项目中解决具体问题 vs. 填写 [[Views of Nature of Science Questionnaire|VNOS]] [[Questionnaire|问卷]]）的表现极不稳定。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
 
 > [!implication]- 对教学的启示：建立显式反思

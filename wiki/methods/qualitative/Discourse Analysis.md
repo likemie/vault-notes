@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -41,12 +41,13 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Grey_2018_CE]]"
+  - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 # Discourse Analysis
 
@@ -133,3 +134,4 @@ updated: 2026-09-17
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将话语分析列为[[Structured Observation|结构化观察]]数据的分析方法之一，用于课堂[[Dialogue in Education|对话]]问答序列和互动模式分析（23.4 节）
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 运用话语分析法深入解析七年级科学课堂上围绕北极狐与三文鱼种群观察证据的口头论辩对话序列，揭示学生如何通过多轮师生与生生互动敏锐反思观察过程的[[Reliability|可靠性]]条件。
 > - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 运用话语分析与[[Narrative Analysis|叙事分析]]技术对比 [[OECD]] 官方文本、英国教育大臣议会声明与大众媒体报道，揭示政客如何利用遗漏话语与危机修辞扭曲国际评估事实以服务本土改革议程。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 结合社会语言学与科学元勘，运用话语分析（Discourse Analysis）考察科学与工程课堂中学生围绕简谐振动物理实验、太阳能装置设计与板块构造书面论证展开的互动言语行为，解析知识主张在微观共同体中被提出、沟通、评估与合法化的认识论实践机制。

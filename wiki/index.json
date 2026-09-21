@@ -6286,6 +6286,15 @@
     ]
   },
   {
+    "title": "Epistemic Practices",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Epistemic Practices.md",
+    "aliases": [
+      "认识论实践",
+      "认知实践"
+    ]
+  },
+  {
     "title": "Feedback",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Feedback.md",
@@ -26135,6 +26144,11 @@
     "title": "Argument_Wolf_2025_InternationalResearchCollab",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Wolf_2025_InternationalResearchCollab.md"
+  },
+  {
+    "title": "Argument_Kelly_Licona_2018_EpistemicPractices",
+    "type": "argument",
+    "path": "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md"
   },
   {
     "title": "Argument_Matthews(Ed.)_2018_Springer",
