@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "STEM Education",
+      "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
+    },
+    {
       "basename": "Argument_Kelly_Licona_2018_EpistemicPractices",
       "path": "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md"
+    },
+    {
+      "basename": "Chain of Evidence",
+      "path": "wiki/concepts/research-methodology/Chain of Evidence.md"
+    },
+    {
+      "basename": "Self-Efficacy",
+      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
     },
     {
       "basename": "Peer Debriefing",
@@ -187,18 +199,6 @@
     {
       "basename": "AI Literacy",
       "path": "wiki/concepts/competency-and-assessment/AI Literacy.md"
-    },
-    {
-      "basename": "Scientific Uncertainty",
-      "path": "wiki/concepts/educational-philosophy/Scientific Uncertainty.md"
-    },
-    {
-      "basename": "Metacognition",
-      "path": "wiki/concepts/competency-and-assessment/Metacognition.md"
-    },
-    {
-      "basename": "Extended Mind Theory",
-      "path": "wiki/theories/learning-science-cognitive-science/Extended Mind Theory.md"
     }
   ],
   "omittedPaths": [],
