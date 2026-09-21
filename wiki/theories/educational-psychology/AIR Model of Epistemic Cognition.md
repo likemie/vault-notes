@@ -57,12 +57,13 @@ related_persons:
 related_arguments:
   - "[[Argument_Chinn_2011_EP]]"
   - "[[Argument_Duncan_2025_CI]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 related_instruments:
   - "[[Model-Evidence-Link Matrix]]"
 confidence: high
-status: draft
+status: active
 created: 2026-09-10
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # AIR Model of Epistemic Cognition
@@ -118,6 +119,11 @@ updated: 2026-09-17
 > - **前提二** 传统课堂往往由教师或教材直接强加既定规则（如“每次实验只变动一个[[Variable|变量]]”），学生缺乏理解这些规则因果防偏价值的元认识论机会，从而极易沦为机械服从。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 222–223)]]
 > - **推导** 教学应当创设富有认识复杂性（epistemically messy）的情境，引导学习者在班级学习共同体中协同协商、修订好模型与好证据的标准，通过元认识论论辩赋予学习者认识主体性（epistemic agency），促进教育公平与深度认知参与。
 
+> [!proposition-chain] 核心命题四｜适切认识论表现与三构件协调依赖显性教学支架而非放任式自主探究
+> - **前提一** 适切认识论表现（apt epistemic performance）要求认知者在具体探究情境中，协同调动追求真理的认识目标、高标准的认识论理想与经得起检验的可靠认识过程。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025)]]
+> - **前提二** 教学干预实证表明，在面对争议性多文本或劣构问题时，缺乏支架的开放式探究与自由辩论极易导致认知负荷过载，使学生退守至经验直觉或盲目相对主义，无法自发促成 AIR 构件的规范协调。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021)]]
+> - **推导** 培育适切认识论表现必须提供显性支架与规程示范：通过直接讲授信源评估规则、设计探究支架与引导证据整合，能够因果性地打破低阶认知局限，带动认识理想与探究目标的协同演进，实现深层学业增益。
+
 ---
 
 ## 理论立场与使用方式
@@ -131,6 +137,18 @@ updated: 2026-09-17
 > - **作为分析与[[Coding in Qualitative Research|编码]]框架** 用于质性编码学生在书面科学论文、口头辩论或小组研讨中的话语，析出其对证据[[Sample Size Determination|样本量]]、[[Blinding|盲法]]条件、仪器局限、多源聚合性等认识要素的掌握程度。
 > - **作为[[Scaffolding|教学支架]]设计指引** 在探究教学中引入“模型-证据连接矩阵”（[[Model-Evidence-Link Matrix|Model-Evidence-Link]] Matrices），引导学生依据班级自主共建的“好证据”与“好模型”公共准则开展评估。
 > - **作为元认识论[[Dialogue in Education|对话]]触发器** 在课堂中组织元认识论审议（meta-epistemic discussions），促使学生跳出对具体结论的争论，转向辩护“为什么在当前情境下双盲/系统观察比个人直觉更可靠”。
+
+---
+
+## 实证数据
+
+> [!ref-table]- AIR 模型与认识论认知干预实证研究汇总
+> <span class="theory-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 4,373名大中小学生（涵盖科学探究、多文本阅读与争议辩论） | 认识论认知因果干预一阶[[Meta-analysis\|元分析]]（28项研究，59个效应量，随机效应模型） | 教学框架（指导式探究、信源评估、支架、PBL、论证）、结果类型（论证表现、概念知识、程序知识） | 1. 总体干预效应：$d = 0.509$ $[0.334, 0.684]$<br>2. 教学框架：指导式探究 $d = 0.808$，信源评估 $d = 0.800$；PBL $d = 0.340$，开放论证 $d = 0.134$<br>3. 结果类型：论证表现 $d = 1.047$，概念知识 $d = 0.557$，程序知识 $d = 0.140$ | 总体效应 $Z = 5.71, p < .001$；教学框架组间 $Q_b = 17.491, p < .01$；结果类型组间 $Q_b = 8.940, p < .05$ | 证实协同训练认识论理想与可靠过程的显性指导教学具有突出因果增益，而放任自主探究效果微弱且不显著 |
+> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 332名七年级学生（24个初中科学班级） | 质性文本分析与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 科学论证与口头话语中 AIR 三构件（目标设定、理想调用、可靠过程因果条件审视） | 质性证实：经过结构化课程干预，初中生能够自发调用多源收敛、全证据契合等高阶理想，并主动质询抽样偏误与观察条件 | — | 质性概念验证，揭示了 AIR 构件协同与学科实体知识深度纠缠的微观运行机制 |
 
 ---
 
@@ -156,3 +174,4 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将 AIR 模型系统拓展至科学论证质量的评估中，提供了书面论证与口头[[Discourse Analysis|话语分析]]的实证范例。
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — AIR 模型的理论奠基性[[Document|文献]]，提出扩展的[[Epistemic Cognition|认识论认知]]五组件[[Analytic Framework|分析框架]]。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 认识论认知干预因果元分析，为 AIR 模型关于适切认识论表现需依赖显性教学指导与可靠过程示范的理论推论提供了强有力的大样本量化实证支撑。

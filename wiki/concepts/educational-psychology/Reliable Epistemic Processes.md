@@ -51,10 +51,11 @@ related_persons:
 related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
-status: draft
+status: active
 created: 2026-09-10
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Reliable Epistemic Processes
@@ -141,6 +142,16 @@ updated: 2026-09-17
 
 ---
 
+### 命题四　可靠认识论过程的有效习得必须依赖显性规程示范而非无指导的自由探索
+
+> [!concept-lens] 过程教学的可干预性与支架必要性维度
+> 探讨学习者能否在缺乏指导的自由探索中自发掌握可靠认识论过程，揭示显性教学规程在培养高阶认知表现中的因果决定性。
+
+> [!claim] [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]
+> **显性教学规程决定过程可靠性** 可靠认识过程（如变量控制、双盲检验、多源信源甄别）属于人类漫长科学实践积累的高度反直觉文化工具，初学者极难在缺乏外部指导的开放探究中自发领会。认识论干预的一阶元分析表明，显性讲授可靠过程操作规程的教学框架（如指导式探究与信源评估）取得了突出的学业促进效应；而缺乏程序支架的无指导自由探索（如基于问题的开放学习与自由辩论）则收效甚微且在统计上不显著。这一实证因果对比表明，可靠认识论过程的内化必须依托结构化的认知支架与显性示范，才能转化为个体的稳健科学推理能力。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -149,6 +160,7 @@ updated: 2026-09-17
 > | **[[Determinism\|因果决定论]]** | 证据可信度取决于生成过程的因果可靠性 | 证据源头信度评估、[[Alternative Hypothesis\|替代假设]]排除 | Duncan & Chinn |
 > | **条件洞察论** | 审视方法约束条件构成高阶科学推理的质性标尺 | 科学论证与课堂话语质性评价 | Duncan & Chinn |
 > | **社会机理论** | 可靠过程基于共同体社会协商并依赖因果机制理解 | 科学实践教学、元认识论审议与主体性建构 | Duncan & Chinn |
+> | **显性规程论** | 可靠认识过程必须依托显性支架与规程示范方能有效习得 | 探究教学设计、多文本信源评估训练与程序支架开发 | Cartiff et al. |
 
 ---
 
@@ -158,6 +170,7 @@ updated: 2026-09-17
 > - **1979 — [[Epistemology|认识论]][[Reliabilism|可靠主义]]发端** Goldman 提出可靠主义认识论（Reliabilism），主张信念的正当性取决于产生该信念的认知过程是否具有因果[[Reliability|可靠性]]。
 > - **2011 — 纳入[[Epistemic Cognition|认识论认知]]五构件** Chinn 等学者将产生信念的可靠与不可靠[[Causal Processes|因果过程]]确立为认识论认知的微观核心构件之一。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition|AIR]] 理论模型中的连续谱界定** Chinn, Rinehart & Buckland 将可靠认识论过程确立为 AIR 模型三大支柱之一，强调过程处于可靠性连续谱之上，受制于特定环境条件。
+> - **2021 — 显性过程干预的因果元分析确立** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 在一阶元分析中量化对比了各类教学框架，实证确立了指导式探究与信源评估等显性可靠过程教学对学业成就的显著因果促进效应。
 > - **2025 — 科学实践因果条件细化与论证双轴评价** Duncan & Chinn 提炼出观察实践与证据整合的可靠过程及其因果约束条件模板，系统确立了过程可靠性审视在科学论证评价中的操作性地位。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025)]]
 
 ---
@@ -178,6 +191,13 @@ updated: 2026-09-17
 
 ## 实证数据
 
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]教学框架对可靠认识论过程的干预效应
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 异质性与检验 | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预措施分类：显性可靠过程教学（指导式探究与信源评估） vs 开放非结构化探究（PBL 与自由论证） | 28 篇（59 个效应量） / 4,373 | Cohen's $d$，随机效应模型 | 指导式探究 $d = 0.808$ $[0.518, 1.098]$；信源评估 $d = 0.800$ $[0.625, 0.974]$；PBL $d = 0.340$ $[-0.007, 0.687]$；开放论证 $d = 0.134$ $[-0.321, 0.589]$ | 框架组间差异 $Q_b = 17.491, p < .01$ | 实证证实显性示范并讲授可靠认知检验规程能产生高效应，而缺乏指导的自主探究效果微弱且未达显著性 |
+
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -192,3 +212,4 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 系统界定产生信念的[[Causal Processes|因果过程]]及其在[[Epistemic Cognition|认识论认知]]中的基础地位。
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 提出科学实践中观察与证据整合的可靠过程模板，实证展示初中生对过程因果条件的审视机制。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 认识论认知干预因果元分析，实证检验了显性讲授可靠过程规程对突破非结构化探究瓶颈的因果促进作用，为可靠认识论过程的可教性提供了大样本元分析证据。

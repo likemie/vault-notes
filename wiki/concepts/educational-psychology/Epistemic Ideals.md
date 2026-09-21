@@ -145,6 +145,9 @@ updated: 2026-09-21
 > [!claim] Duncan, R. G. & Chinn, C. A.
 > **元认识论辩护培育主体性** 优质认识论理想的内化无法依赖现成规则清单的灌输，而必须让学习者直面探究中的证据冲突与混淆噪音，开展元认识论审议（meta-epistemic discussions）。学生通过向共同体辩护为何某种理想（如多源收敛）在当下任务中优于个人孤立感知，逐步确立公共认识标准，从而成为知识与准则的共同建构者，培育平等的[[Epistemic Agency|认识主体性]]（epistemic agency）。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 208, 222–223)]]
 
+> [!claim] [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]
+> **显性支架促进理想内化与论证飞跃** 针对认识论干预的一阶元分析量化证实了认识论理想的可教导性：当教学聚焦于引导学生建立高质量证据与论证标准的显性认识论理想时，学生在高阶论证表现中展现出强烈的促进效应，大幅优于单纯强调程式操作的传统教学。同时，单纯放任学生自由辩论而不提供理想规范支架，无法促成认识论理想的有效内化。
+
 ---
 
 ### 命题四　生成式人工智能的通用合成抹平学科认识论理想，催生向关系性认识主体性的规范理想转向
@@ -205,7 +208,7 @@ updated: 2026-09-21
 >
 > | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]] | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（认识论理想可教导性） | 28 / 4,373 | Cohen's d；随机效应 | 0.509 [0.326, 0.692] | I²=92.72% | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（认识论理想可教导性） | 28 / 4,373 | Cohen's d；随机效应 | 0.509 [0.334, 0.684] | I²=92.72% | — |
 
 > [!ma-table]- 调节[[Variable\|变量]]与亚组分析
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

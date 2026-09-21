@@ -6,9 +6,9 @@ aliases:
 summary: "认识论认知中衡量知识是驻留于外部权威还是由主体内部积极建构的核心维度，在数字多文本时代进一步拓展为对信息源资质、立场与可信度的批判性评估规程。"
 type: concept
 domain: "educational-psychology"
-related_count: 14
-related_level: 2
-related_stars: "⭐⭐"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:
   - "theme/epistemological-beliefs"
