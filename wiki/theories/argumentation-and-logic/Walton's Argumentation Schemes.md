@@ -9,7 +9,7 @@ aliases:
 summary: "Douglas Walton 提出的非形式逻辑论证分析理论，将日常与专业论辩归纳为数十种基于似真推理的论证型式，并配套批判性提问清单以检验论证的辩护效力。"
 type: theory
 theory_field: "argumentation-and-logic"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Classroom Debate]]"
+  - "[[Socioscientific Issues]]"
 related_theories:
   - "[[Pragma-Dialectics]]"
   - "[[Toulmin's Argumentation Model]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Walton's Argumentation Schemes
@@ -124,7 +125,7 @@ updated: 2026-09-17
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 结构清晰的双人或小组口头辩论、法庭质证、社会性科学议题（SSI）讨论中的论据检验。
+> - **适合解释** 结构清晰的双人或小组口头辩论、法庭质证、社会性科学议题（[[Socioscientific Issues|SSI]]）讨论中的论据检验。
 > - **不适合解释** 海量实证证据的统计合成过程（如[[Meta-analysis|元分析]]、[[Systematic Review|系统综述]]）；科学探究中复杂的野外数据采集条件与前沿仪器因果测量有效性。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
 > - **常见误用** 容易被简化为脱离学科情境的提问打勾清单（Checklist），忽视了回答批判性问题本身必须依赖高深的学科实体知识。
 

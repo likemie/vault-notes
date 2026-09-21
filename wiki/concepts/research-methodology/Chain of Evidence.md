@@ -6,10 +6,10 @@ aliases:
 summary: "研究方法论与认识论论证的核心原则，指从研究问题、数据收集情境、中间推断到最终结论之间保持完整、透明且可双向追溯的逻辑证据路径；既是个案研究确立信度与效度的基石，也是历史科学回溯推测与学术论证组织认识论层级的核心规程。"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/methodology
   - theme/research-quality
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Reliability]]"
   - "[[Internal Validity]]"
+  - "[[Retrodiction]]"
   - "[[Epistemology]]"
   - "[[Problem Finding]]"
   - "[[Construct]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-11
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Chain of Evidence
@@ -81,7 +82,7 @@ updated: 2026-09-21
 
 > [!concept-lens] 概念透镜
 > - **含义** 证据链是连接研究问题、经验证据、分析推理和理论结论的透明结构通路，强调每一个结论都必须拥有明晰的经验依据与情境支撑。
-> - **用途** 在[[Qualitative Research|质性研究]]与[[Case Study|个案研究]]中增强[[Internal Validity|内部效度]]与可审查性；在历史科学与地学探究中支撑大尺度回溯推测；在学术写作中组织多层级的[[Epistemology|认识论]]论证。
+> - **用途** 在[[Qualitative Research|质性研究]]与[[Case Study|个案研究]]中增强[[Internal Validity|内部效度]]与可审查性；在历史科学与地学探究中支撑大尺度[[Retrodiction|回溯推测]]；在学术写作中组织多层级的[[Epistemology|认识论]]论证。
 > - **边界** 证据链不等于原始数据堆砌本身，而是数据与解释之间的结构性逻辑联结；具备完整证据链不能保证结论绝对正确，但确保了结论处于可被理性批判与经验检验的学术规范之内。
 
 > [!citation-card] 殷（2009）论个案研究的证据链构建
@@ -165,7 +166,7 @@ updated: 2026-09-21
 > 探讨地质学、古生物学等历史学科在无法进行可重复实时实验的情况下，如何依赖跨越时空尺度的多条证据链相互锁定历史真实。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]]
-> **回溯推测中多元证据链的协同锁定机制** 科学各门类之间遵循[[Heterogeneity|异质性]]的认识论规程。与强调预测未来和受控实验的经典物理探究不同，地质学与古生物学等历史科学侧重于对远古地质与生物事件的回溯推测（retrodiction）。历史科学的理论解释无法诉诸即时重复实验，其知识正当性依赖于整合地层序列、同位素测年、古地磁异常与化石分布等多条相互独立的证据链，在宏大时空尺度上实现相互印证与因果闭合。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 156 引用 Ault, 1998)]]
+> **[[Retrodiction|回溯推测]]中多元证据链的协同锁定机制** 科学各门类之间遵循[[Heterogeneity|异质性]]的认识论规程。与强调预测未来和受控实验的经典物理探究不同，地质学与古生物学等历史科学侧重于对远古地质与生物事件的回溯推测（retrodiction）。历史科学的理论解释无法诉诸即时重复实验，其知识正当性依赖于整合地层序列、同位素测年、古地磁异常与化石分布等多条相互独立的证据链，在宏大时空尺度上实现相互印证与因果闭合。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 156 引用 Ault, 1998)]]
 
 ---
 
@@ -195,7 +196,7 @@ updated: 2026-09-21
 
 > [!dev-timeline] 概念演变
 > - **1980s–1990s — [[Case Study|个案研究]]方法论奠基** 殷（Yin, 1984, 1989）在《个案研究方法》中正式提出“证据链”概念，将其作为与[[Triangulation|三角互证]]并列的[[Qualitative Research|质性研究]][[Construct Validity|构念效度]]与[[Reliability|可靠性]]核心保障机制。
-> - **1990s — 历史科学与地学[[Epistemology|认识论]]拓展** 奥尔特（Ault, 1998）将证据链引入地球科学与古生物学认识论研究，阐明回溯推测中多源证据链交叉印证的特异性规程。
+> - **1990s — 历史科学与地学[[Epistemology|认识论]]拓展** 奥尔特（Ault, 1998）将证据链引入地球科学与古生物学认识论研究，阐明[[Retrodiction|回溯推测]]中多源证据链交叉印证的特异性规程。
 > - **2003 — 科学写作与认识论层级[[Coding in Qualitative Research|编码]]确立** 高尾与凯利（Takao & Kelly, 2003）将证据链[[Operationalization|操作化]]为科学论述中的认识论层级（EL）模型，用以量化评价学生学术论文中从数据到主张的证据链整合水平。
 > - **2011 — 教育研究方法论体系集成** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011)]] 在《教育研究方法》中全面系统化证据链规范，确立其在[[Qualitative Reliability|质性研究信度]]、效度与时空情境记录中的标准地位。
 > - **2018 — 课堂[[Epistemic Practices|认识论实践]]综合[[Analytic Framework|分析框架]]** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 将证据链与微观课堂认识论实践、学科[[Heterogeneity|异质性]]矩阵及话语协商深度结合，确立证据链在科学与工程教育中的核心[[Epistemic Value|认识论价值]]。
@@ -228,7 +229,7 @@ updated: 2026-09-21
 > | 学科与范式 | 证据链起点 | 链条流转中介 | 终点结论形态 | [[Epistemology\|认识论]]功能与价值 | 证据来源 |
 > |---|---|---|---|---|---|
 > | **质性[[Case Study\|个案研究]]** | [[Qualitative Interview\|质性访谈]]录音、[[Qualitative Observation\|田野观察]]笔记与实物档案 | 时间地点记录、[[Coding in Qualitative Research\|编码]]节点与[[Transcription in Qualitative Research\|转录]]文本对照 | 具有[[Rich and Thick Description\|厚描述]]支撑的个案因果解释 | 保障研究具有可审计性与可复查性 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
-> | **地球科学回溯推测** | 地层剖面、断层滑动擦痕与同位素测年数据 | 板块构造运动模型与多区域地质历史对照 | 远古板块俯冲与造山运动历史回溯推论 | 在大时空尺度下实现独立证据链的交叉印证 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 156)]] |
+> | **地球科学[[Retrodiction\|回溯推测]]** | 地层剖面、断层滑动擦痕与同位素测年数据 | 板块构造运动模型与多区域地质历史对照 | 远古板块俯冲与造山运动历史回溯推论 | 在大时空尺度下实现独立证据链的交叉印证 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 156)]] |
 > | **大学学术写作论证** | 震源深度分布图与海底地形测深数据图表 | 认识论层级（EL）梯级递进分析 | 支持板块汇聚边界理论的论断 | 组织从观测事实到高阶理论主张的严密论述 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 146)]] |
 
 ---
@@ -237,4 +238,4 @@ updated: 2026-09-21
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 阐释证据链作为连接[[Case Study|个案研究]]数据收集、分析、推断和结论的可追溯机制，强调情境时空记录对研究审查与复查规划的核心价值（pp. 289, 295）。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 探讨证据链在地球科学回溯推测与学术论证写作中的[[Epistemology|认识论]]层级结构，揭示其在[[STEM Education|跨学科科学教育]]与[[Epistemic Practices|认识论实践]]中的核心功能（pp. 146, 156）。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 探讨证据链在地球科学[[Retrodiction|回溯推测]]与学术论证写作中的[[Epistemology|认识论]]层级结构，揭示其在[[STEM Education|跨学科科学教育]]与[[Epistemic Practices|认识论实践]]中的核心功能（pp. 146, 156）。

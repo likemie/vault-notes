@@ -8,10 +8,10 @@ aliases:
 summary: "当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 37
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 46
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theme/epistemic-cognition
   - theme/science-education
@@ -26,17 +26,23 @@ related_concepts:
   - "[[Epistemic Aims]]"
   - "[[Epistemic Ideals]]"
   - "[[Causality]]"
+  - "[[Epistemic Practices]]"
   - "[[Reliability]]"
   - "[[Epistemological Naturalism]]"
   - "[[Research Topic]]"
   - "[[Habitus]]"
   - "[[Epistemic Agency]]"
   - "[[Variable]]"
+  - "[[Scaffolding]]"
+  - "[[Direct Instruction]]"
+  - "[[Source Evaluation]]"
   - "[[Theoretical Standpoint]]"
   - "[[Ontology]]"
   - "[[Epistemic Stances]]"
-  - "[[Scaffolding]]"
   - "[[Dialogue in Education]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Procedural Knowledge]]"
+  - "[[Socioscientific Issues]]"
   - "[[Document]]"
 related_theories:
   - "[[Reliabilism]]"
@@ -49,8 +55,11 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
   - "[[Blinding]]"
-  - "[[Correlational Research]]"
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
   - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
   - "[[Douglas Walton]]"
@@ -63,7 +72,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # AIR Model of Epistemic Cognition
@@ -84,7 +93,7 @@ updated: 2026-09-21
 > [!citation-card] AIR模型的核心架构界定
 > 我们的理论框架扎根于认识论认知与认识实践的 AIR 模型（目标、理想与可靠过程）。简言之，AIR 模型提出了认识论推理的三个核心组成部分：（a）目标是个体和共同体设定的所要达成的目标，例如具有说服力的论证或解释性模型；（b）认识论理想是用于评估所得科学产出（如论证或模型）质量的标准，例如与高质量证据的契合度；（c）可靠认识论过程是用于达成认识目标的多元流程，例如执行观察的规程或在综述中选择纳入证据的方法。（p. 202）
 >
-> *Our theoretical framework is grounded in the Aims, Ideals, and Reliable processes of the AIR model of epistemic cognition and epistemic practices. Briefly, the AIR model posits three central components of epistemic reasoning: (a) Aims are goals that individuals and communities set to achieve, such as convincing arguments or explanatory models. (b) Epistemic Ideals are the criteria used to evaluate the quality of resulting scientific products (e.g., arguments or models), such as fit with high-quality evidence. (c) Reliable epistemic processes are the diverse processes used to achieve epistemic aims, such as protocols for carrying out observations or methods for selecting evidence to include in a review synthesis.*
+> *Our theoretical framework is grounded in the Aims, Ideals, and Reliable processes of the AIR model of epistemic cognition and [[Epistemic Practices]]. Briefly, the AIR model posits three central components of epistemic reasoning: (a) Aims are goals that individuals and communities set to achieve, such as convincing arguments or explanatory models. (b) Epistemic Ideals are the criteria used to evaluate the quality of resulting scientific products (e.g., arguments or models), such as fit with high-quality evidence. (c) Reliable epistemic processes are the diverse processes used to achieve epistemic aims, such as protocols for carrying out observations or methods for selecting evidence to include in a review synthesis.*
 
 ---
 
@@ -119,10 +128,10 @@ updated: 2026-09-21
 > - **前提二** 传统课堂往往由教师或教材直接强加既定规则（如“每次实验只变动一个[[Variable|变量]]”），学生缺乏理解这些规则因果防偏价值的元认识论机会，从而极易沦为机械服从。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 222–223)]]
 > - **推导** 教学应当创设富有认识复杂性（epistemically messy）的情境，引导学习者在班级学习共同体中协同协商、修订好模型与好证据的标准，通过元认识论论辩赋予学习者认识主体性（epistemic agency），促进教育公平与深度认知参与。
 
-> [!proposition-chain] 核心命题四｜适切认识论表现与三构件协调依赖显性教学支架而非放任式自主探究
+> [!proposition-chain] 核心命题四｜适切认识论表现与三构件协调依赖显性[[Scaffolding|教学支架]]而非放任式自主探究
 > - **前提一** 适切认识论表现（apt epistemic performance）要求认知者在具体探究情境中，协同调动追求真理的认识目标、高标准的认识论理想与经得起检验的可靠认识过程。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025)]]
 > - **前提二** 教学干预实证表明，在面对争议性多文本或劣构问题时，缺乏支架的开放式探究与自由辩论极易导致认知负荷过载，使学生退守至经验直觉或盲目相对主义，无法自发促成 AIR 构件的规范协调。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021)]]
-> - **推导** 培育适切认识论表现必须提供显性支架与规程示范：通过直接讲授信源评估规则、设计探究支架与引导证据整合，能够因果性地打破低阶认知局限，带动认识理想与探究目标的协同演进，实现深层学业增益。
+> - **推导** 培育适切认识论表现必须提供显性支架与规程示范：通过[[Direct Instruction|直接讲授]][[Source Evaluation|信源评估]]规则、设计探究支架与引导证据整合，能够[[Causality|因果性]]地打破低阶认知局限，带动认识理想与探究目标的协同演进，实现深层学业增益。
 
 ---
 
@@ -142,20 +151,20 @@ updated: 2026-09-21
 
 ## 实证数据
 
-> [!ref-table]- AIR 模型与认识论认知干预实证研究汇总
+> [!ref-table]- AIR 模型与[[Epistemic Cognition|认识论认知]]干预实证研究汇总
 > <span class="theory-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 4,373名大中小学生（涵盖科学探究、多文本阅读与争议辩论） | 认识论认知因果干预一阶[[Meta-analysis\|元分析]]（28项研究，59个效应量，随机效应模型） | 教学框架（指导式探究、信源评估、支架、PBL、论证）、结果类型（论证表现、概念知识、程序知识） | 1. 总体干预效应：$d = 0.509$ $[0.334, 0.684]$<br>2. 教学框架：指导式探究 $d = 0.808$，信源评估 $d = 0.800$；PBL $d = 0.340$，开放论证 $d = 0.134$<br>3. 结果类型：论证表现 $d = 1.047$，概念知识 $d = 0.557$，程序知识 $d = 0.140$ | 总体效应 $Z = 5.71, p < .001$；教学框架组间 $Q_b = 17.491, p < .01$；结果类型组间 $Q_b = 8.940, p < .05$ | 证实协同训练认识论理想与可靠过程的显性指导教学具有突出因果增益，而放任自主探究效果微弱且不显著 |
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 332名七年级学生（24个初中科学班级） | 质性文本分析与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 科学论证与口头话语中 AIR 三构件（目标设定、理想调用、可靠过程因果条件审视） | 质性证实：经过结构化课程干预，初中生能够自发调用多源收敛、全证据契合等高阶理想，并主动质询抽样偏误与观察条件 | — | 质性概念验证，揭示了 AIR 构件协同与学科实体知识深度纠缠的微观运行机制 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 4,373名大中小学生（涵盖科学探究、多文本阅读与争议辩论） | 认识论认知因果干预一阶[[Meta-analysis\|元分析]]（28项研究，59个效应量，随机效应模型） | 教学框架（[[Inquiry-Based Learning\|指导式探究]]、[[Source Evaluation\|信源评估]]、支架、PBL、论证）、结果类型（论证表现、概念知识、[[Procedural Knowledge\|程序知识]]） | 1. 总体干预效应：$d = 0.509$ $[0.334, 0.684]$<br>2. 教学框架：指导式探究 $d = 0.808$，信源评估 $d = 0.800$；PBL $d = 0.340$，开放论证 $d = 0.134$<br>3. 结果类型：论证表现 $d = 1.047$，概念知识 $d = 0.557$，程序知识 $d = 0.140$ | 总体效应 $Z = 5.71, p < .001$；教学框架组间 $Q_b = 17.491, p < .01$；结果类型组间 $Q_b = 8.940, p < .05$ | 证实协同训练认识论理想与可靠过程的显性指导教学具有突出因果增益，而放任自主探究效果微弱且不显著 |
+> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 332名七年级学生（24个初中科学班级） | 质性文本分析与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 科学论证与口头话语中 AIR 三构件（目标设定、理想调用、[[Reliable Epistemic Processes\|可靠过程]]因果条件审视） | 质性证实：经过结构化课程干预，初中生能够自发调用多源收敛、全证据契合等高阶理想，并主动质询抽样偏误与观察条件 | — | 质性概念验证，揭示了 AIR 构件协同与学科实体知识深度纠缠的微观运行机制 |
 
 ---
 
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 科学探究、模型建构教学、多源证据协调、争议性社会科学议题论辩及数字时代虚假信息甄别中的认知与[[Metacognition|元认知]]活动。
+> - **适合解释** 科学探究、模型建构教学、多源证据协调、争议性[[Socioscientific Issues|社会科学议题]]论辩及数字时代虚假信息甄别中的认知与[[Metacognition|元认知]]活动。
 > - **谨慎使用** 高度程式化的算术推演或纯粹逻辑演绎任务，在这类封闭形式体系中因果经验过程与采样等认识条件空间极小。
 > - **不适合解释** 纯粹文学审美、修辞修饰技巧或无[[Epistemic Aims|认识目标]]的纯情感表达性话语。
 
@@ -174,4 +183,4 @@ updated: 2026-09-21
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将 AIR 模型系统拓展至科学论证质量的评估中，提供了书面论证与口头[[Discourse Analysis|话语分析]]的实证范例。
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — AIR 模型的理论奠基性[[Document|文献]]，提出扩展的[[Epistemic Cognition|认识论认知]]五组件[[Analytic Framework|分析框架]]。
-> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 认识论认知干预因果元分析，为 AIR 模型关于适切认识论表现需依赖显性教学指导与可靠过程示范的理论推论提供了强有力的大样本量化实证支撑。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis|元分析]]，为 AIR 模型关于适切[[Epistemology|认识论]]表现需依赖显性教学指导与[[Reliable Epistemic Processes|可靠过程]]示范的理论推论提供了强有力的大[[Sample Size Determination|样本量]]化实证支撑。

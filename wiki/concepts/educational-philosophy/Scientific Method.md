@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序，传统实证主义将其预设为贯通自然与社会的普适法则，而当代科学哲学与科学教育将其重构为多元、情境化且受价值制约的社会认识论实践。"
 type: concept
 domain: "educational-philosophy"
-related_count: 63
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,8 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Value Neutrality]]"
   - "[[Chain of Evidence]]"
+  - "[[Retrodiction]]"
+  - "[[Socioscientific Issues]]"
   - "[[Epistemic Practices]]"
   - "[[Ontology]]"
   - "[[Technical Rationality]]"
@@ -58,6 +60,7 @@ related_theories:
 related_methods:
   - "[[In-depth Interview]]"
   - "[[Participant Observation]]"
+  - "[[Practical Epistemology Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Causal Modeling]]"
@@ -91,7 +94,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Scientific Method
@@ -219,7 +222,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > **方法多元性与[[Formal Epistemology|形式认识论]]对实践认识论的遮蔽** 科学探索不存在唯一且线性的标准化规程，不同领域的科学家根据对象特质综合运用实验、观察、建模与历史推演。学校科学长期将科学方法教条化为“一步步执行的实验室步骤”，这导致学生在测验中表现出极度幼稚的[[Formal Epistemology|形式认识论]]（误以为做实验纯粹是为了证明既定答案，把理论视作无证据的猜测），而严重遮蔽了他们在真实探究实践中所运用的复杂[[Practical Epistemology|实践认识论]]决策与社会性论证能力。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, pp. 634–642)]]
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]]
-> **学科家族相似性与实践认识论对机械科学方法的解构** 科学教育界常将科学方法窄化为程式化的“五步法”或孤立的技能清单（如对 NGSS 八项实践的教条化打勾），这严重脱离了真实科学研究的多元现实。各门科学展现出的是维特根斯坦式的“家族相似性”（family resemblance）而非统一的算法铁律：物理探究依赖受控实验与数学建模，地球科学依赖多源[[Chain of Evidence|证据链]]的回溯推测（retrodiction），工程设计追求多约束下的方案折中，社会科学议题则涉及伦理价值审议。借助实践认识论分析（Practical Epistemology Analysis, PEA），真实的科学方法是在微观课堂互动中，通过确立立足点（stand fast）、识别意义裂隙（gaps）并搭建关系（relations）动态实现的，必须以情境化的学科[[Epistemic Practices|认识论实践]]替代僵化的配方式实验步骤。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145, 150–157, 161)]]
+> **学科家族相似性与实践认识论对机械科学方法的解构** 科学教育界常将科学方法窄化为程式化的“五步法”或孤立的技能清单（如对 NGSS 八项实践的教条化打勾），这严重脱离了真实科学研究的多元现实。各门科学展现出的是维特根斯坦式的“家族相似性”（family resemblance）而非统一的算法铁律：物理探究依赖受控实验与数学建模，地球科学依赖多源[[Chain of Evidence|证据链]]的[[Retrodiction|回溯推测]]（retrodiction），工程设计追求多约束下的方案折中，[[Socioscientific Issues|社会科学议题]]则涉及伦理价值审议。借助[[Practical Epistemology Analysis|实践认识论分析]]（Practical Epistemology Analysis, PEA），真实的科学方法是在微观课堂互动中，通过确立立足点（stand fast）、识别意义裂隙（gaps）并搭建关系（relations）动态实现的，必须以情境化的学科[[Epistemic Practices|认识论实践]]替代僵化的配方式实验步骤。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145, 150–157, 161)]]
 
 > [!claim] Kuhn, T. S. / Cohen et al.
 > **范式制约与科学探究的历史社会嵌入性** 科学方法的运用从来不是纯粹中立客观的技术推演，而是深受科学家共同体所共享的[[Paradigm|范式]]预设、信念网络与历史危机所制约；常规科学时期的谜题解答遵循既定规则，而新假说的确立、反常证据的判定以及范式转换的发生，本质上依赖共同体内部的修辞说服、同行论证与社会认同。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 125–130)]]
@@ -264,7 +267,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification|证伪主义]]确立** 维也纳学派追求完全经验证实与学科统一，波普尔（[[Karl Popper]]）提出证伪主义标准，将“是否可经验证伪”确立为区分科学与非科学的核心标尺。
 > - **20 世纪 60–80 年代 — 库恩[[Paradigm|范式]]革命与[[Interpretive Paradigm|反实证主义]]哲学高涨** 库恩揭示常规科学与范式转换的历史社会嵌入性，科学方法纯粹客观中立的神话被打破；诠释学派与[[Critical Theory|批判理论]]崛起，高扬人类主体能动性与价值批判维度。
 > - **2000s — 科学本质与[[Practical Epistemology|实践认识论]]转向** 桑多瓦尔（[[Argument_Sandoval_2005_SE|Sandoval, 2005]]）提出区分形式与实践认识论，揭示中小学将科学方法教条化为单一实验步骤对学生认识论发展的损害。
-> - **2018 — 学科家族相似性与微观[[Epistemic Practices|认识论实践]]确立** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 运用维特根斯坦家族相似性与实践认识论分析（PEA），系统解构科学方法五步法神话，确立探究科学、工程与社会议题跨领域实践矩阵。
+> - **2018 — 学科家族相似性与微观[[Epistemic Practices|认识论实践]]确立** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 运用维特根斯坦家族相似性与[[Practical Epistemology Analysis|实践认识论分析]]（PEA），系统解构科学方法五步法神话，确立探究科学、工程与社会议题跨领域实践矩阵。
 > - **2020s — 循证技术自满批判与教育[[Ontology|本体论]]反思** 教育学界深度批判[[Evidence-Based Education|循证教育]]将科学方法简化为[[Meta-analysis|元分析]]数据霸权的技术自满（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]]; [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）。
 
 ---
@@ -279,7 +282,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > > 争论焦点在于：科学探索到底遵循一套通用的、标准化的法则，还是依赖于具体学科和情境的多元实践？
 > > 
 > > - **传统实证派（一元论倾向）** 坚持所有真正的科学都必须遵循提出[[Hypothesis|假设]]、隔离[[Variable|变量]]、受控实验与经验[[Falsification|证伪]]的统一步骤；如果不遵循该套验证程序，其研究的客观性与学术合法性就会遭受质疑。
-> > - **当代科学哲学与科学教育界（多元论建构派）** 坚决打破“唯一科学方法”的神话，指出天文学依赖宏观观察，生态学依赖模型拟合，进化生物学与地质学依赖历史回溯推测，各学科具有各自合法且多样的科学方法。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]；[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018)]]
+> > - **当代科学哲学与科学教育界（多元论建构派）** 坚决打破“唯一科学方法”的神话，指出天文学依赖宏观观察，生态学依赖模型拟合，进化生物学与地质学依赖历史[[Retrodiction|回溯推测]]，各学科具有各自合法且多样的科学方法。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]；[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018)]]
 > 
 > > [!axis] [[Value Neutrality|价值无涉]]的客观测量 vs 价值渗透的社会[[Epistemology|认识论]]
 > > 争论焦点在于：科学方法能否且是否应当追求彻底独立于研究者文化立场与政治利益的中立性？

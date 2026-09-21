@@ -8,7 +8,7 @@ aliases:
 summary: "科学哲学中关于经验证据无法唯一决定理论选择的核心论题，迪昂版本强调整体论，蒯因版本将其扩展为认识论整体论"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Falsification]]"
   - "[[Positivism]]"
+  - "[[Socioscientific Issues]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Duhem-Quine Thesis
@@ -79,4 +80,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 将该论题作为 [[Theory of Knowledge|TOK]] 课程中替代简化版[[Falsification|证伪主义]]的教学起点，通过[[Otto Neurath]] 的反基础主义[[Positivism|实证主义]]将不完全决定性与 SSI 教育连接起来。
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 将该论题作为 [[Theory of Knowledge|TOK]] 课程中替代简化版[[Falsification|证伪主义]]的教学起点，通过[[Otto Neurath]] 的反基础主义[[Positivism|实证主义]]将不完全决定性与 [[Socioscientific Issues|SSI]] 教育连接起来。

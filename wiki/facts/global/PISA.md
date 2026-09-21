@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 64
+fact_related_count: 67
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,16 +38,19 @@ related_concepts:
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
   - "[[Policy Borrowing]]"
+  - "[[Socioscientific Issues]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Normal School]]"
   - "[[Critical Thinking]]"
+  - "[[STEM Education]]"
   - "[[School Autonomy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Active Learning]]"
   - "[[Hypothesis]]"
   - "[[PISA Shock]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Student Engagement]]"
   - "[[Performance Pay]]"
   - "[[Governing by Numbers]]"
   - "[[Self-Efficacy]]"
@@ -93,7 +96,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # PISA
@@ -163,7 +166,7 @@ updated: 2026-09-21
 
 > [!finding-cards] 核心政策影响
 > - **确立全球教育软治理** PISA 通过量化排名、平均分与差距叙事，实现了超国家层面的“数据治理”，使高表现国家成为跨国[[Policy Borrowing|政策借用]]的模板。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]
-> - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加[[Nature of Science|科学本质]]、社会科学争议（SSI）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加[[Nature of Science|科学本质]]、社会科学争议（[[Socioscientific Issues|SSI]]）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **双向多层驱动** [[Argument_Li_2025_HSSC|Li et al. (2025)]][[Systematic Review|系统综述]]指出，PISA 影响在质量与公平双重路径上展开，通过超国家软治理、国家[[Transfer Translation Transformation|转译]]与国内行动者博弈三层机制深刻重塑全球教育格局。
 
 ### [[Argument_Li_2025_HSSC|Li et al. (2025)]] 综述：质量与公平双轨决策路径
@@ -174,7 +177,7 @@ updated: 2026-09-21
 > - **微观决策层面** 课程内容向情境化与[[Critical Thinking|批判性思维]]重构（德国 NES 课程标准深度引入[[Scientific Literacy|科学素养]]）；优化基础学制（瑞士 HarmoS 延长义务教育至 11 年）。
 
 > [!dimension] 公平路径：机会—过程—结果三维度
-> - **机会公平** 规范入学门槛，促进弱势家庭与移民群体在 STEM 领域的平等入学机会（法国 Loi Fillon 法案；德国普及全日制学校）。
+> - **机会公平** 规范入学门槛，促进弱势家庭与移民群体在 [[STEM Education|STEM]] 领域的平等入学机会（法国 Loi Fillon 法案；德国普及全日制学校）。
 > - **过程公平** 引入个性化辅导与补救教学机制；向基层学校下放教学与资源管理自主权（德国萨克森州实施强制性[[School Autonomy|学校自主权]]）。
 > - **结果公平** 超越单纯分数均等，以[[21st Century Skills and Competencies Discourse|核心素养]]达成度重新界定学业质量（日本新大纲以基础知能、思维判断表达与[[Active Learning|主动学习]]态度三要素重构学力观）。
 
@@ -197,7 +200,7 @@ updated: 2026-09-21
 > |---|---|---|---|---|
 > | **[[Estonian STEM Education Model\|爱沙尼亚]]** | 科学与数学常年全欧榜首，ESCS 解释率全欧最低 | 宏观宽大纲（Broad Framework）+ 教师极高专业赋权（[[Teacher Professional Agency\|professional agency]]）+ 早期虎跃数字化生态 | 实现了学术卓越与高度教育公平的统一，为欧洲基础科学教育标杆（p. 31, 36） | 教师老龄化压力与职业吸引力需持续投入保障 |
 > | **德国** | 2000 年首轮成绩远低于预期，阶层固化严重 | 爆发“[[PISA Shock\|PISA 冲击]]”；彻底终结传统输入控制，确立国家统一产出标准、全日制学校扩张与循证监测。初期被各州政客作为象征性辩护与政党联盟博弈的杠杆（如不来梅强推统一会考）；后续推动官员阅读向[[Hypothesis\|假设]]检验转型，并在部内建立专职量化分析编制与州级质保所（[[Argument_Dedering_2009_EERJ\|Dedering, 2009]]；[[Argument_Li_2025_HSSC\|Li et al., 2025]]） | 促成战后最深刻的结构性教育改革，缩小了弱势群体的学业鸿沟；推动科层日常治理走向专业化与常规化 | 宏观国际测评无法直接指导学校微观改进，密集监测引发测评过载并受制于多源数据整合瓶颈 |
-> | **东亚体系（沪、新、港、日）** | 科学、数学、阅读长期包揽全球第一梯队 | 严格的课程大纲、高素质师资、家庭对教育的极高重视与课外学习投入 | 基础知识与复杂解题能力极其扎实，高阶素养表现突出 | 学生焦虑度高、幸福感偏低，科学职业抱负与分数呈负相关悖论 |
+> | **东亚体系（沪、新、港、日）** | 科学、数学、阅读长期包揽全球第一梯队 | 严格的课程大纲、高素质师资、家庭对教育的极高重视与课外[[Student Engagement\|学习投入]] | 基础知识与复杂解题能力极其扎实，高阶素养表现突出 | 学生焦虑度高、幸福感偏低，科学职业抱负与分数呈负相关悖论 |
 > | **英国（英格兰）** | 科学总分长期高于 [[OECD]] 均线，数学阅读自 2006 年起总体持平，最低 ESCS 劣势学生仅 6%；但校际阶层落差显著 | **虚构停滞危机与闪电式私有化推销**；教育大臣等政策制定者动用媒介资本，利用“遗漏话语”剪裁报告，将评估数据闪电转化为此前遭工会强烈抵制的争议性新自由主义政策五大支柱（自由学校、文法甄别、[[Ofsted]] 惩罚督导、教师[[Performance Pay\|绩效工资]] PRP 与全国数学中心网络）（pp. 116–122） | 展现出跨国评估异化为国内政客推行激进私有化改革的合法化弹药；大众媒体集体陷入“政策规避（policy avoidance）”，消解了第四权力的民主问责与实证监督功能（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]） | 改革取向与 OECD 官方倡导的去分流、专业合作、反[[Rote Learning\|死记硬背]]完全背道而驰；动手实验课时腰斩（SET 2023），紧缺学科师资短缺（pp. 33–35），引发学界对民主授权缺失的严厉抵制 |
 
 ---

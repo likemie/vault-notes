@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 40
+fact_related_count: 45
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -32,6 +32,8 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Initial Teacher Training]]"
   - "[[School Leadership]]"
+  - "[[Paradigm]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Effective Teaching]]"
   - "[[Document]]"
   - "[[Assemblage]]"
@@ -46,6 +48,7 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[David Gonski]]"
   - "[[Sir Kevan Collins]]"
@@ -56,6 +59,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Gonski 2.0]]"
   - "[[Centre for Evidence and Implementation]]"
+  - "[[Australian Schools Plus]]"
   - "[[Centre for Educational Statistics and Evaluation]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
@@ -65,6 +69,7 @@ related_facts:
   - "[[BHP Foundation]]"
   - "[[Strong Beginnings Report]]"
   - "[[Gonski Reforms]]"
+  - "[[Australian Philanthropic Services]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Rowe_2022_IJER]]"
@@ -73,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-20
+updated: 2026-09-22
 ---
 
 # Australian Education Research Organisation
@@ -106,7 +111,7 @@ updated: 2026-09-20
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **决策机构（董事会）** 设立由政府、商界与慈善界高管主导的专家董事会；首任主席莉萨·奥布莱恩（Lisa O'Brien，曾任 [[Social Ventures Australia|SVA]] 董事），核心成员包括[[Sir Kevan Collins|柯文·科林斯爵士]]（Sir Kevan Collins，英国 [[Education Endowment Foundation|EEF]] 首任 CEO、SVA 顾问）、罗杰·马西-格林（Roger Massy-Greene，SVA 长期捐赠人、力拓集团与美洲银行前高管、Schools Plus 先驱者委员会成员）及莱斯利·洛布尔（Leslie Loble，保罗·拉姆齐基金会会士）。公司章程第 6 条与第 8 条明文规定董事选任必须具备与慈善界合作的资历。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 5, 9–10]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 529–530]])
+> - **决策机构（董事会）** 设立由政府、商界与慈善界高管主导的专家董事会；首任主席莉萨·奥布莱恩（Lisa O'Brien，曾任 [[Social Ventures Australia|SVA]] 董事），核心成员包括[[Sir Kevan Collins|柯文·科林斯爵士]]（Sir Kevan Collins，英国 [[Education Endowment Foundation|EEF]] 首任 CEO、SVA 顾问）、罗杰·马西-格林（Roger Massy-Greene，SVA 长期捐赠人、力拓集团与美洲银行前高管、[[Australian Schools Plus|Schools Plus]] 先驱者委员会成员）及莱斯利·洛布尔（Leslie Loble，保罗·拉姆齐基金会会士）。公司章程第 6 条与第 8 条明文规定董事选任必须具备与慈善界合作的资历。([[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 5, 9–10]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 529–530]])
 > - **执行机构（高管管理团队）** 首席执行官杰妮·多诺万（Jenny Donovan，曾任[[Centre for Educational Statistics and Evaluation|新南威尔士州教育统计与评估中心]] [[Comparative Education Society in Europe|CESE]] 主任）全面主持业务运作，直接参与联邦教育部委核心专家委员会（TEEP）。
 > - **底层网络与系统统筹** 与澳大利亚教学与[[School Leadership|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership|AITSL]]）及[[Australian Curriculum|澳大利亚课程]]、评估与报告局（ACARA）共享澳大利亚教育服务社（[[Educational Services Australia|ESA]]）底层数字化中介架构。
 > - **外部咨询与学术分包网络** 深度委托外部中介实体[[Centre for Evidence and Implementation|证据与实施中心]]（CEI）及各类商业咨询智库承担桌面审查与干预评估分包。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
@@ -194,7 +199,7 @@ updated: 2026-09-20
 >     DEPT -->|推广有效教学量规与指南| SCHOOLS
 > ```
 > - **政府联合所有权与法定特许网络** 联邦教育部与全澳 6 个州及 2 个领地的教育部门依据《全国学校改革协议》联合提供 5000 万澳元初始预算，由教育部长联席会议（Education Ministers Meeting）代表共同所有；联邦政府专门修订《2020年公共治理、绩效与问责规则》修正案，以行政法特许其注册为《2001年公司法》担保有限公司并与私营慈善组织开展深度合作。
-> - **风险慈善母体、EEF 输出与 E4L 试验原型** [[Social Ventures Australia|澳大利亚社会创投]]（SVA）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在 2014 年联合出资创设全资中介[[Evidence for Learning|证据学习中心]]（Evidence for Learning, E4L），作为在澳大利亚本土试验工具包与因果证据的“概念验证样板”；SVA 以 E4L 的本土成功为跳板，借道 2016 生产力委员会调查与 2018 Gonski 2.0 审查（第 23 条建议）游说联邦设立国家级机构；AERO 成立后，全面承袭了 E4L 沉淀的工具包范式与方法学网络，完成了从“私营创投试验原型”向“国家法定中介”的制度转译。
+> - **[[Venture Philanthropy|风险慈善]]母体、EEF 输出与 [[Evidence for Learning|E4L]] 试验原型** [[Social Ventures Australia|澳大利亚社会创投]]（SVA）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在 2014 年联合出资创设全资中介[[Evidence for Learning|证据学习中心]]（Evidence for Learning, E4L），作为在澳大利亚本土试验工具包与因果证据的“概念验证样板”；SVA 以 E4L 的本土成功为跳板，借道 2016 生产力委员会调查与 2018 [[Gonski 2.0]] 审查（第 23 条建议）游说联邦设立国家级机构；AERO 成立后，全面承袭了 E4L 沉淀的工具包[[Paradigm|范式]]与方法学网络，完成了从“私营创投试验原型”向“国家法定中介”的制度[[Transfer Translation Transformation|转译]]。
 > - **核心治理中枢与政商兼任闭环** 专家董事会由 SVA 前董事莉萨·奥布莱恩（Lisa O'Brien）掌舵，汇聚 EEF 创始首席执行官[[Sir Kevan Collins|柯文·科林斯爵士]]（Sir Kevan Collins）与 SVA 核心捐赠人罗杰·马西-格林（Roger Massy-Greene）等商业与慈善高管；公司章程明文规定董事选任须具备与慈善界合作资质；首席执行官杰妮·多诺万（Jenny Donovan）全面统筹三大业务部门运作。
 > - **国家兄弟中介与数字化底座** 与澳大利亚教学与[[School Leadership|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership|AITSL]]）及[[Australian Curriculum|澳大利亚课程]]、评估与报告局（ACARA）共享澳大利亚教育服务社（[[Educational Services Australia|ESA]]）底层数字化系统，实现国家证据资源的分发托管。
 > - **受托审查与私营咨询分包** 设立初期深度委托外部中介[[Centre for Evidence and Implementation|证据与实施中心]]（CEI）承担全澳学校证据采纳桌面审查，并向麦肯锡系等私营咨询智库开放合规分包通道。
@@ -285,8 +290,8 @@ updated: 2026-09-20
 > | [[Gonski Reforms]] | 事实 | 其 2.0 审查第 23 条建议被 AERO 用作公众合法性包装的道德杠杆。 |
 > | [[Australian Schools Plus]] | 事实 | 共享关键高管与资助人节点的慈善筹款中介实体。 |
 > | [[Network Governance]] | 概念 | AERO 作为国家级公私中介所体现的异层治理、特许商业分包与市场缔造形态。 |
-> | [[Relational Space]] | 概念 | AERO 与 SVA、E4L、Schools Plus 借助耐用材料（担保公司注册、税法修正案、因果量规）构筑的排他性防野狗围栏式关系拓扑。 |
-> | [[Co-affiliation]] | 概念 | AERO 董事会成员在美洲银行、力拓、SVA、APS 与 EEF 之间的高频跨界任职网络。 |
+> | [[Relational Space]] | 概念 | AERO 与 SVA、[[Evidence for Learning\|E4L]]、Schools Plus 借助耐用材料（担保公司注册、税法修正案、因果量规）构筑的排他性防野狗围栏式关系拓扑。 |
+> | [[Co-affiliation]] | 概念 | AERO 董事会成员在美洲银行、力拓、SVA、[[Australian Philanthropic Services\|APS]] 与 EEF 之间的高频跨界任职网络。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 AERO 设立作为 SVA 十年政策游说终局与担保有限公司吸纳慈善资金的制度机制。 |
 
 ---
@@ -294,7 +299,7 @@ updated: 2026-09-20
 ## 相关研究索引
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 提出无生命客体政策装配框架，运用防野狗围栏隐喻解构 AERO 担保有限公司注册底座、18 个月审计保密豁免及特许商业分包。
-> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 深入追踪 SVA 长达十年的政策网络渗透，结合 CEO 访谈原声揭露 AERO 担保有限公司架构旨在吸纳慈善资本的制度本质。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 全球比较视野下对包括 AERO 在内的国家级教育中介机构的兴起与治理结构进行系统调研。
-> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判 AERO 在初始教师教育中推行的神经科学简化论与惩罚性问责大纲对大学教师专业判断的剥夺。
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 提出无生命客体[[Assemblage|政策装配]]框架，运用防野狗围栏隐喻解构 AERO 担保有限公司注册底座、18 个月审计保密豁免及特许商业分包。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 深入追踪 [[Social Ventures Australia|SVA]] 长达十年的[[Policy Network|政策网络]]渗透，结合 CEO 访谈原声揭露 AERO 担保有限公司架构旨在吸纳慈善资本的制度本质。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 全球比较视野下对包括 AERO 在内的国家级[[Educational Brokerage Agency|教育中介机构]]的兴起与治理结构进行系统调研。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判 AERO 在[[Initial Teacher Training|初始教师教育]]中推行的神经科学简化论与惩罚性问责大纲对大学教师[[Professional Judgment|专业判断]]的剥夺。

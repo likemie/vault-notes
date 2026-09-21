@@ -9,7 +9,7 @@ aliases:
 summary: "IB 为 16–19 岁学生设计的两年制大学预科课程，由六学科组加 TOK、EE、CAS 三项核心要素组成，以显性批判性思维教学和跨学科整合为特色"
 type: concept
 domain: "curriculum"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Learner Autonomy]]"
   - "[[Creativity]]"
+  - "[[Nature of Science]]"
+  - "[[Socioscientific Issues]]"
   - "[[Variable]]"
   - "[[School Effectiveness]]"
   - "[[Academic Self-Concept]]"
@@ -51,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # IB Diploma Programme
@@ -80,7 +82,7 @@ updated: 2026-09-17
 > [!info] TOK 评估结构
 > TOK 评估由两部分组成，均不采用[[Multiple-Choice Questions|选择题]]等快速反应测试，以呼应[[Critical Thinking|批判性思维]]需要充分反思时间的理念（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007, p. 171]]）：
 > - **内部评估（1/3）** 学生完成一次与 TOK 相关的简短演讲，个人或小组形式均可。评分标准明确惩罚非个人化的套路性表达
-> - **外部评估（2/3）** 学生在家完成 1200–1600 字的论文，从每年公布的十个题目中选择一个，约半数题目与 NOS、HPS 或 SSI 直接相关
+> - **外部评估（2/3）** 学生在家完成 1200–1600 字的论文，从每年公布的十个题目中选择一个，约半数题目与 [[Nature of Science|NOS]]、HPS 或 [[Socioscientific Issues|SSI]] 直接相关
 
 ---
 

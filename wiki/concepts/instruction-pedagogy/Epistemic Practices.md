@@ -6,7 +6,7 @@ aliases:
 summary: "某一共同体成员在社会互动中提出、沟通、评估与合法化知识主张的组织化行动方式，强调认识论主体由笛卡尔孤立个体向微观社会协商群体的转向，具有交互生成、情境嵌入、历史互文与制度后果四大特征。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Document]]"
   - "[[Academic Achievement]]"
+  - "[[Socioscientific Issues]]"
   - "[[Epistemic Aims]]"
   - "[[Evidence Standards]]"
   - "[[Heterogeneity]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Lesson Study]]"
   - "[[Formal Epistemology]]"
   - "[[Learning Progression]]"
+  - "[[Retrodiction]]"
   - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
@@ -48,6 +50,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Practical Epistemology Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -59,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Epistemic Practices
@@ -133,7 +136,7 @@ updated: 2026-09-21
 认识论实践不是抽象单一的，而是随具体教学路径而呈现出分化：
 
 > [!row-contrast] 三类科学与工程教育取向中的认识论实践矩阵（[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 142–143]], 156–157）
-> | 维度 | 探究式科学（Inquiry Science） | 工程教育（Engineering Education） | 社会科学议题（Socioscientific Issues） |
+> | 维度 | 探究式科学（Inquiry Science） | 工程教育（Engineering Education） | [[Socioscientific Issues\|社会科学议题]]（Socioscientific Issues） |
 > |---|---|---|---|
 > | **概念目标** | 构建和理解表征自然世界的合理解释模型 | 面向特定应用目的设计、分析和构建工程技术原型 | 理解科学概念并融合道德、伦理、个人与社会视角 |
 > | **[[Epistemic Aims\|认识论目标]]** | 理解概念知识与理论模型的证据基础与因果理由 | 理解并优化技术功能，确立衡量成功与约束的证据基准 | 整合多重视角构建连贯推理链，为争议性立场辩护 |
@@ -190,7 +193,7 @@ updated: 2026-09-21
 ### 命题三　不同科学教育取向遵循高度异质的学科认识论规程且不存在普适单一的科学方法
 
 > [!concept-lens] 学科认识论[[Heterogeneity|异质性]]
-> 探讨探究科学、工程教育与社会科学议题在问题类型、证据范围与裁决准则上的本质分化。
+> 探讨探究科学、工程教育与[[Socioscientific Issues|社会科学议题]]在问题类型、证据范围与裁决准则上的本质分化。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]]
 > **学科异质性与家族相似性** 科学门类之间具有家族相似性而非单一固定的[[Scientific Method|科学方法]]五步法。探究式科学侧重解释自然现象，遵循受控实验与[[Statistical Significance|统计显著性]]准则；工程教育面向特定应用目的，寻求多约束条件下的最优设计平衡；社会科学议题则要求统合道德、伦理、生态与经济视角，在公共审议中寻求民主共识。科学课程必须尊重不同领域的[[Domain Specificity|学科特异性]]规程。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
@@ -224,7 +227,7 @@ updated: 2026-09-21
 > [!dev-timeline] [[Epistemology|认识论]]实践概念演进脉络
 > - **1980s–1990s — 科学实践研究兴起** 科学社会学、人类学与微观[[Ethnography|人种志]]（如 Latour, 1987; Bazerman, 1988; Knorr Cetina, 1999）开启对行动中的科学（science-in-the-making）的实证考察，揭示实验室话语协商、文本修改与仪器中介的[[Knowledge Production|知识建构]]机制。
 > - **1990s–2000s — 认识论转向进入科学教育** 科学教育学者（如 Duschl, 2008; [[Argument_Sandoval_2005_SE|Sandoval, 2005]]）批判传统教学只教概念结论的弊病，将科学实践概念引入[[Lesson Study|课堂研究]]，开始区分[[Formal Epistemology|形式认识论]]与探究行动中的[[Practical Epistemology|实践认识论]]。
-> - **2010s — 四维行动模型与学科比较矩阵确立** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 等学者系统整合微观交互人种志、[[Discourse Analysis|话语分析]]与社会认识论，确立提出、沟通、评估与合法化四维模型，编制探究科学、工程教育与社会科学议题跨领域实践矩阵。
+> - **2010s — 四维行动模型与学科比较矩阵确立** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 等学者系统整合微观交互人种志、[[Discourse Analysis|话语分析]]与社会认识论，确立提出、沟通、评估与合法化四维模型，编制探究科学、工程教育与[[Socioscientific Issues|社会科学议题]]跨领域实践矩阵。
 > - **2020s 至今 — 融入公民审议素养与多元文化认知资源** 认识论实践研究进一步拓展至[[Learning Progression|学习进阶]]、跨学科迁移、多元文化背景学生的知晓方式（funds of knowledge），以及面向公共卫生和环境决策的批判性审议素养。
 
 ---
@@ -240,7 +243,7 @@ updated: 2026-09-21
 > >
 > > [!axis] [[Domain Specificity|领域特异性]]规范 vs. 通用跨学科能力
 > > [[Epistemology|认识论]]实践是在具体学科中深度绑定的特异规程，还是可以在不同 [[STEM Education|STEM]] 领域通用的认知技能？
-> > - **领域特异论** 强调物理受控实验、地学回溯推测与工程优化设计的规程截然不同，不存在跨领域的普适实践模板。
+> > - **领域特异论** 强调物理受控实验、地学[[Retrodiction|回溯推测]]与工程优化设计的规程截然不同，不存在跨领域的普适实践模板。
 > > - **通用技能论** 强调提出主张、寻找证据与检验推理在所有科学领域具有结构共通性，主张通过通用探究框架促进能力迁移。
 
 > [!critique] 刻板化清单对实践活态性的技术异化
@@ -264,12 +267,12 @@ updated: 2026-09-21
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 145–146)]] | 小学三年级太阳能集热与烹饪装置设计团队（Kelly & Brown, 2003 案例） | 课堂人种志与[[Discourse Analysis\|话语分析]] | 小组讨论、工程草图与面向小记者的汇报辩护 | 学生根据受众调整论证，用实测升温数据回应质疑并解释设计折中 | 质性话语功能分析 | 适用于设计驱动的小学工程教育情境 |
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 146)]] | 大学本科地质学板块构造论文撰写（Takao & Kelly, 2003 案例） | 学术写作文本话语分析 | 认识论层级（Epistemic Level, EL）[[Coding in Qualitative Research\|编码]]分布 | 优秀论文展现出从观测事实到中阶概括再到理论机制的清晰证据组织层级 | 认识论层级结构编码 | 适用于数据驱动的大学地球科学学术写作 |
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 146–147)]] | 小学三年级多元文化课堂物质状态探究（Reveles et al., 2004 案例） | 微观话语分析与师生互动转录 | 教师元话语（meta-discourse）与科学身份建构 | 教师通过显性点评引导学生调用前日温度数据，赋予边缘学生科学身份 | 质性言语行为分析 | 适用于强调包容性与身份认同的小学课堂 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 150)]] | 小学阶段地球形状与重力机制探究（Lidar et al., 2010 案例） | [[Practical Epistemology\|实践认识论]]分析（PEA）话语编码 | 立足点（Stand Fast）、意义裂隙与关系搭建 | 儿童通过转动地球仪与地图修补理解裂隙，在行动中原生地界定有效观察 | PEA 话语互动编码 | 适用于具身教具支持的概念探究情境 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 150)]] | 小学阶段地球形状与重力机制探究（Lidar et al., 2010 案例） | [[Practical Epistemology\|实践认识论]]分析（PEA）话语编码 | 立足点（Stand Fast）、意义裂隙与关系搭建 | 儿童通过转动地球仪与地图修补理解裂隙，在行动中原生地界定有效观察 | [[Practical Epistemology Analysis\|PEA]] 话语互动编码 | 适用于具身教具支持的概念探究情境 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 系统阐述[[Epistemology|认识论]]实践的理论基础，提炼提出、沟通、评估与合法化四维行动模型及四大本体特征，构建探究科学、工程与社会科学议题的跨领域实践矩阵。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 系统阐述[[Epistemology|认识论]]实践的理论基础，提炼提出、沟通、评估与合法化四维行动模型及四大本体特征，构建探究科学、工程与[[Socioscientific Issues|社会科学议题]]的跨领域实践矩阵。
 > - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 考察学生在探究实践中运用的[[Practical Epistemology|实践认识论]]，揭示学生在具体探究行动中的认识论决策具有高度的情境依赖性与隐性特征。

@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 62
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
+  - "[[Socioscientific Issues]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Cooperative Learning]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # 21st Century Skills and Competencies Discourse
@@ -172,7 +173,7 @@ updated: 2026-09-17
 > [[Critical Thinking|批判性思维]]、协作与[[Data Literacy|数据素养]]无法在真空中习得；若脱离具体学科的认识论逻辑与真实实践，技能训练将沦为虚幻的形式主义。
 
 > [!claim] The Royal Society
-> **学科认识论锚定与大概念融合** 21 世纪核心素养必须扎根于具体学科的核心概念（Big Ideas）与实证探究（Practical Inquiry），通过解决空气污染、流行病、气候变化等真实社会科学争议（SSI）获得具身体验，而非架空为脱离知识的抽象技巧清单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 30–33)]]
+> **学科认识论锚定与大概念融合** 21 世纪核心素养必须扎根于具体学科的核心概念（Big Ideas）与实证探究（Practical Inquiry），通过解决空气污染、流行病、气候变化等真实社会科学争议（[[Socioscientific Issues|SSI]]）获得具身体验，而非架空为脱离知识的抽象技巧清单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 30–33)]]
 
 ---
 

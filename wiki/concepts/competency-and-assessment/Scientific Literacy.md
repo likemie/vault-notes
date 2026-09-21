@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践与抵御虚假信息的认知免疫机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Variable]]"
+  - "[[Socioscientific Issues]]"
 related_facts:
   - "[[PISA]]"
   - "[[Beyond 2000 Report]]"
@@ -81,7 +82,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Scientific Literacy
@@ -297,4 +298,4 @@ updated: 2026-09-21
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统梳理基于 [[PISA]] 2015 大规模实证数据的科学素养研究，论证了探究教学提升科学素养的关键在于教师支架与活动维度（实验操作 vs 盲目辩论），揭示了探究与[[Direct Instruction|直接教学]]协同促成科学素养生成的“最佳平衡点”。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳[[Scientific Uncertainty|科学不确定性]]为核心的[[Citizen Science|公民科学]]素养；并在第五章针对国会议员与公务员队伍提出提升 [[STEM Education|STEM]] 研究和数据分析技能的国家行动建议。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视阈论证科学素养的民主价值，批判单一线性的[[Scientific Method|科学方法]]教条，提出依托探究科学、工程教育与社会科学议题的多维规程及显性元话语反思培育公共理性审议能力。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视阈论证科学素养的民主价值，批判单一线性的[[Scientific Method|科学方法]]教条，提出依托探究科学、工程教育与[[Socioscientific Issues|社会科学议题]]的多维规程及显性元话语反思培育公共理性审议能力。

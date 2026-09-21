@@ -31,10 +31,12 @@ related_concepts:
   - "[[Homework]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
+  - "[[Nature of Science]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Value Neutrality]]"
+  - "[[Socioscientific Issues]]"
   - "[[Science and Technology Studies]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Epistemology]]"
@@ -48,6 +50,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Liberal Education]]"
   - "[[Metacognition]]"
+  - "[[STEM Education]]"
   - "[[Phronesis]]"
   - "[[Reflexivity]]"
 related_theories:
@@ -84,7 +87,7 @@ title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -194,7 +197,7 @@ issuing_organization: ""
 批判性思维问题进一步加深了困境。课程没有明确说明期待什么层次、什么类型的批判性思维。
 
 > [!evidence-grid] 批判性思维问题的认知依据
-> - **反思判断模型的警告** King & Kitchener（1994）的反思判断模型（[[Reflective Judgment Model]]）表明，高中生的推理能力通常无法达到对比不同来源证据、阐明决策标准的水平。Dotger（2005）在讨论科学本质（Nature of Science，NOS）与批判性思维时指出，NOS [[Document|文献]]隐含的理解深度期望实际上在大多数高阶研究生中才会发展（pp.173–174）。
+> - **反思判断模型的警告** King & Kitchener（1994）的反思判断模型（[[Reflective Judgment Model]]）表明，高中生的推理能力通常无法达到对比不同来源证据、阐明决策标准的水平。Dotger（2005）在讨论[[Nature of Science|科学本质]]（Nature of Science，NOS）与批判性思维时指出，NOS [[Document|文献]]隐含的理解深度期望实际上在大多数高阶研究生中才会发展（pp.173–174）。
 > - **学校运作的现实矛盾** 学校通常在扩散（或缺失）模型中运作，本质上是权威性的，旨在限制和引导批判性思维。实际政治与普遍政策背道而驰（p.173）。
 > - **评估可能在测量一般认知发展** 如果批判性思维技能的发展与一般认知成熟度高度相关，那么评估批判性思维是否公平？将其称为知识论的成绩是否合理？这类似于：如果化学计算题的解答能力直接与短时记忆广度相关，测试短时记忆广度并据此给出化学成绩是否公平（p.173，note 12）？
 
@@ -325,7 +328,7 @@ issuing_organization: ""
 >
 > > [!exegesis]- 两个逻辑在同一个课堂里打架
 > > 想象一个学生在科学课上刚学完"科学方法是[[Value Neutrality|价值无涉]]的客观探究"，下一节 TOK 课上老师问："科学知识的生产过程真的价值无涉吗？想想谁资助研究、谁从研究结果中受益。"这个学生面临两种相互矛盾的权威指令：科学老师教他尊重科学方法的客观性，TOK 老师鼓励他质疑科学的客观性宣称。没有人告诉学生如何在这两种逻辑之间做出选择，或者它们能否共存。
-> - **民主—公民逻辑** 教育应培养能够独立评估科学主张的公民。国家课程改革（从 Project 2061 到 1996 年美国国家科学教育标准）日益要求处理 NOS 和批判性思维。更多课程正在融入 NOS、社会性科学议题（Socioscientific Issues，SSI）、科学—技术—社会（Science-Technology-Society，[[Science and Technology Studies|STS]]）和 CT 内容（p.179）。
+> - **民主—公民逻辑** 教育应培养能够独立评估科学主张的公民。国家课程改革（从 Project 2061 到 1996 年美国国家科学教育标准）日益要求处理 NOS 和批判性思维。更多课程正在融入 NOS、社会性科学议题（[[Socioscientific Issues]]，SSI）、科学—技术—社会（Science-Technology-Society，[[Science and Technology Studies|STS]]）和 CT 内容（p.179）。
 > - **经济—技能逻辑** 科学课程主要被设计来为经济和科研输送具备特定技能的劳动力。传授关于物质世界的最权威知识是科学教育的首要任务，人文议程只能作为附属品存在。
 
 > [!question] 新科目引发的深层问题
@@ -504,7 +507,7 @@ issuing_organization: ""
 > [!citation-card]- 两难困境的核心表述
 > [[Theory of Knowledge|TOK]] 要么与科学科目的议程兼容但必须妥协[[Critical Thinking|批判性思维]]要素，要么批判性思维目标被充分承认但科学科目的议程无法得到充分支持。这一张力普遍存在于任何试图将批判性思维课程嫁接在传统学科结构之上的课程改革中（p.179）。
 >
-> *TOK is either "compatible" with the agendas of science-subjects, but has to compromise on the CT element, or the CT aims are fully acknowledged (and NOS and SSI questions are investigated this way), but science-subject agendas cannot be fully supported.*
+> *TOK is either "compatible" with the agendas of science-subjects, but has to compromise on the CT element, or the CT aims are fully acknowledged (and [[Nature of Science|NOS]] and [[Socioscientific Issues|SSI]] questions are investigated this way), but science-subject agendas cannot be fully supported.*
 
 > [!citation-card]- 独立课程改变游戏规则
 > 一旦独立科目被创建，批判性思维从属于[[Scientism|科学主义]]议程就不再合理。在 TOK 课程和课程描述中，负责任的公民意识和批判性思维技能是按其自身权利来呈现的，在课程描述中它没有被写成从属于科学教育（p.181）。
@@ -514,7 +517,7 @@ issuing_organization: ""
 > [!citation-card]- 三种路径的学术承诺
 > 三种方案都源于对某个框架的承诺：要么是纽拉特的反基础主义和多元[[Positivism|实证主义]]，要么是考察意见分歧如何被（或能被）解决的一般论证理论，要么是一种政治驱动的关于自我利益和社会领域协商的路径（p.189）。
 >
-> *They all stem from a commitment to a framework: either Neurath's anti-foundationalist and pluralist positivism, or a general theory of argumentation that investigates how differences of opinion are (or can be) resolved, or a politically motivated approach to self-interest and negotiation in the social realm.*
+> *They all [[STEM Education|STEM]] from a commitment to a framework: either Neurath's anti-foundationalist and pluralist positivism, or a general theory of argumentation that investigates how differences of opinion are (or can be) resolved, or a politically motivated approach to self-interest and negotiation in the social realm.*
 
 > [!citation-card]- 纽拉特的[[Phronesis|实践智慧]]
 > 不完全决定性是好事，因为它允许价值观在竞争理论之间做出选择，从而使进步的社会行动成为可能。承认科学不是[[Value Neutrality|价值无涉]]的、确实受价值驱动，反而允许一种更丰富但仍然实证主义的科学哲学路径（pp.183–184）。

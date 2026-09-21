@@ -6,7 +6,7 @@ aliases:
 summary: "一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Variable]]"
   - "[[Knowledge Production]]"
+  - "[[Socioscientific Issues]]"
   - "[[Commensuration]]"
   - "[[Incommensurability]]"
   - "[[Hypothesis]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Integrative Pluralism
@@ -126,7 +127,7 @@ updated: 2026-09-18
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 跨越微观与宏观的复杂社会-认知现象（如课堂学习、科学共同体的[[Knowledge Production|知识生产]]、公众对社会科学议题的信任危机）。
+> - **适合解释** 跨越微观与宏观的复杂社会-认知现象（如课堂学习、科学共同体的[[Knowledge Production|知识生产]]、公众对[[Socioscientific Issues|社会科学议题]]的信任危机）。
 > - **常见误用** 极易被新手误读为“折中主义（Eclecticism）”或“相对主义”。整合多元主义要求严格的因果链条论证，而不是在论文的讨论部分把所有理论堆砌在一起说“都有道理”。
 
 ---

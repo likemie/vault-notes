@@ -9,10 +9,10 @@ aliases:
 summary: "个体根据不断变化的环境情境、目标约束与反馈信息，在不同心智图式、思维范畴或解题策略之间灵活转换与重组的高阶执行功能与创造性思维底层机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/cognitive-science
   - theme/learning-science
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Executive Function]]"
   - "[[Working Memory]]"
+  - "[[Inhibitory Control]]"
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
   - "[[Metacognition]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Cognitive Flexibility
@@ -76,7 +77,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 认知灵活性（Cognitive Flexibility）是指个体根据变化的环境条件、任务约束与目标需求，在不同心智表征、概念范畴、注意规则或行动策略之间自适应切换，并抑制自动化思维定势以实现多路径[[Problem Solving|问题解决]]的高阶认知与[[Executive Function|执行功能]]。在认知神经科学与学习科学中，它与[[Working Memory|工作记忆]]（[[Working Memory]]）和抑制控制（抑制控制）共同构成核心[[Executive Function|执行功能]]的三大支柱；在[[Creativity|创造力]]研究中，它被视为[[Divergent Thinking|发散思维]]、远距离概念重组与突破功能固着的最核心底层心智能力。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2, 10)]]; [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]; Diamond (2013); Spiro et al. (1988)
+> 认知灵活性（Cognitive Flexibility）是指个体根据变化的环境条件、任务约束与目标需求，在不同心智表征、概念范畴、注意规则或行动策略之间自适应切换，并抑制自动化思维定势以实现多路径[[Problem Solving|问题解决]]的高阶认知与[[Executive Function|执行功能]]。在认知神经科学与学习科学中，它与[[Working Memory|工作记忆]]（[[Working Memory]]）和[[Inhibitory Control|抑制控制]]（抑制控制）共同构成核心[[Executive Function|执行功能]]的三大支柱；在[[Creativity|创造力]]研究中，它被视为[[Divergent Thinking|发散思维]]、远距离概念重组与突破功能固着的最核心底层心智能力。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2, 10)]]; [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]; Diamond (2013); Spiro et al. (1988)
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 从习惯性单向思维通道中抽离，根据多维反馈在不同认知图式与评价标准间敏捷调配注意力的高阶心智掌控力。
@@ -185,7 +186,7 @@ updated: 2026-09-17
 > [!dev-timeline] 认知灵活性理论演进脉络
 > - **1980 年代　认知灵活性理论（CFT）创立** 斯皮罗等（Spiro et al., 1988）针对复杂领域高级学习提出 CFT，批判传统线性教学的过度简化偏见，提倡“非线性随机超文本访问”与多重视角重访。
 > - **1990 年代　认知心理学任务转换[[Paradigm|范式]]成熟** Rogers & Monsell (1995) 与 Meiran (1996) 确立任务转换范式（[[Cognitive Shifting|task switching]] Paradigm），量化了转换损耗（Switch Cost）的认知心理学与神经机制。
-> - **2000–2010 年代　[[Executive Function|执行功能]]三元模型奠基** Miyake et al. (2000) 与 Diamond (2013) 确立执行功能三成分（[[Working Memory|工作记忆]]、抑制控制、认知灵活性），将灵活性定位为人类高级适应能力的顶峰。
+> - **2000–2010 年代　[[Executive Function|执行功能]]三元模型奠基** Miyake et al. (2000) 与 Diamond (2013) 确立执行功能三成分（[[Working Memory|工作记忆]]、[[Inhibitory Control|抑制控制]]、认知灵活性），将灵活性定位为人类高级适应能力的顶峰。
 > - **2020 年代　[[Creativity|创造力]][[Three-Level Meta-Analysis|多层元分析]]与教育干预验证** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 实证确立聚焦认知灵活性的思维训练的高效能（$g = 0.762$），并与发散测量及技术型工具形成完整的干预生态。
 
 ---
@@ -205,7 +206,7 @@ updated: 2026-09-17
 
 > [!warning] 教学实践警示
 > 1. **避免陷入“为了切换而切换”的浅层跳跃** 引导学生在不同视角间转换的同时，必须要求其在选定视角下展开合乎逻辑的论据深挖；
-> 2. **重视与抑制控制的协同培养** 提升灵活性的首要前提是让学生具备抑制“自动化直觉反应”的能力，先学会“慢下来停顿”，再展开多向度检索。
+> 2. **重视与[[Inhibitory Control|抑制控制]]的协同培养** 提升灵活性的首要前提是让学生具备抑制“自动化直觉反应”的能力，先学会“慢下来停顿”，再展开多向度检索。
 
 ---
 

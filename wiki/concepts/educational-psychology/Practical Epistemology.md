@@ -5,7 +5,7 @@ aliases:
 summary: "学生在学校科学探究过程中实际应用于自身知识建构的隐性认识论观念与话语行动规程，与关于专业科学的形式认识论相对立，可通过立足点、意义裂隙与关系搭建等实践认识论分析方法进行微观刻画。"
 type: concept
 domain: "educational-psychology"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_theories: []
 related_methods:
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
+  - "[[Practical Epistemology Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Practical Epistemology
@@ -96,7 +97,7 @@ updated: 2026-09-21
 > |---|---|---|---|---|
 > | **认知情境** | 学生自身开展的具体探究任务情境 | 针对专业科学家与学术建制的抽象评价 | 课堂与学科共同体的社会互动情境 | 去情境的心理测量与[[Questionnaire\|问卷]]作答情境 |
 > | **表现形态** | 隐性的探究决策、微观话语互动与具身操作 | 显性的命题主张与哲学观点表述 | 公开的提出、沟通、评估与合法化规程 | 内在的个人认知发展阶段或信念维度 |
-> | **测量方法** | 任务表现观察、实践认识论分析（PEA） | 开放式问卷（如 [[Views of Nature of Science Questionnaire\|VNOS]]）、结构化访谈 | 微观人种志、质性[[Discourse Analysis\|话语分析]] | 心理量表（如 Schommer 认识论问卷） |
+> | **测量方法** | 任务表现观察、[[Practical Epistemology Analysis\|实践认识论分析]]（PEA） | 开放式问卷（如 [[Views of Nature of Science Questionnaire\|VNOS]]）、结构化访谈 | 微观人种志、质性[[Discourse Analysis\|话语分析]] | 心理量表（如 Schommer 认识论问卷） |
 > | **教学干预重点** | 搭建活动支架、引导跨越意义裂隙 | 讲授科学史哲案例、显性讲授[[Nature of Science\|科学本质]] | 建立吸收批评与平等审议的课堂规范 | 促进个体认知冲突与概念转变 |
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-09-21
 
 威克曼（Per-Olof Wickman）与厄斯特曼（Leif Östman）借鉴维特根斯坦（Ludwig Wittgenstein）的语言游戏理论，将实践认识论发展为微观话语分析工具：
 
-> [!proc] 实践认识论分析（PEA）的微观运作程序（[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 149–150]]）
+> [!proc] [[Practical Epistemology Analysis|实践认识论分析]]（PEA）的微观运作程序（[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 149–150]]）
 > 1. **识别立足点（Stand Fast）** 确定师生在当前[[Dialogue in Education|对话]]中共同默认、无需争辩的基础事实与概念前提。
 > 2. **遭遇意义裂隙（Encounter Gaps）** 当遭遇反常数据、未知现象或理解冲突时，原有的立足点出现认知空白或分歧。
 > 3. **搭建关系桥梁（Build Relations Across Gaps）** 学生调动实验教具、生活经验或具身手势建立新联系，跨越理解障碍（如通过转动地球仪与地图修补对重力的理解）。
@@ -181,7 +182,7 @@ updated: 2026-09-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
 > | **形式与实践分离** | 揭示近端实践认识论与远端形式认识论的结构性脱节 | [[Inquiry-Based Learning\|探究学习]]评价、科学本质信念测评 | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 648)]]; Hogan (2000) |
-> | **PEA 意义裂隙跨越** | 运用立足点与意义裂隙刻画微观话语中的原生认识论演进 | 课堂录像分析、师生对话[[Transcription in Qualitative Research\|转录]]、概念探究活动 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 149–150)]]; Wickman & Östman (2002); Lidar et al. (2010) |
+> | **[[Practical Epistemology Analysis\|PEA]] 意义裂隙跨越** | 运用立足点与意义裂隙刻画微观话语中的原生认识论演进 | 课堂录像分析、师生对话[[Transcription in Qualitative Research\|转录]]、概念探究活动 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 149–150)]]; Wickman & Östman (2002); Lidar et al. (2010) |
 > | **显性反思与元话语** | 确立显性认识论反思与教师元话语对实践升华的必要性 | 探究教学设计、教师课堂话语引导、科学素养生成 | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 649)]]; Smith et al. (2000); [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 161)]] |
 
 ---
@@ -191,7 +192,7 @@ updated: 2026-09-21
 > [!dev-timeline] 实践[[Epistemology|认识论]]概念演变
 > - **1990s — 个人认识论与信念发展研究** Perry、King & Kitchener 等学者开创个人认识论研究，将认识论视为相对稳定的阶段性心智模型，主要通过[[Questionnaire|问卷]]和访谈测量。
 > - **2000 年 — 远端与近端认识论区分** Hogan (2000) 提出近端认识论概念；[[Argument_Sandoval_2005_SE|Sandoval (2005)]] 正式系统阐发实践认识论（Practical Epistemology），明确将其与关于专业科学的[[Formal Epistemology|形式认识论]]相对立。
-> - **2002–2004 年 — 实践认识论分析（PEA）方法学创立** Wickman & Östman (2002) 与 Wickman (2004) 引入维特根斯坦语言哲学，创立微观[[Discourse Analysis|话语分析]]工具 PEA，将实践认识论从心理信念转向课堂话语互动行为。
+> - **2002–2004 年 — [[Practical Epistemology Analysis|实践认识论分析]]（PEA）方法学创立** Wickman & Östman (2002) 与 Wickman (2004) 引入维特根斯坦语言哲学，创立微观[[Discourse Analysis|话语分析]]工具 PEA，将实践认识论从心理信念转向课堂话语互动行为。
 > - **2010s 至今 — 融入[[Epistemic Practices|认识论实践]]与课堂元话语研究** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 等学者将实践认识论与微观[[Ethnography|人种志]]、科学实践四维行动模型及教师显性元话语结合，服务于促进包容性科学学习与培育[[Citizen Science|公民科学]]素养。
 
 ---
@@ -208,7 +209,7 @@ updated: 2026-09-21
 > > [!axis] 分析[[Paradigm|范式]]：内在心智表征 vs 外在话语行动
 > > 实践认识论的本质是个体头脑中的隐性心理倾向，还是在[[Dialogue in Education|对话]]中生成的社会互动规程？
 > > - **认知心理学范式** 致力于探寻学生在[[Problem Solving|问题解决]]过程中底层的心理表征与[[Metacognition|元认知]]结构。
-> > - **社会语言学与[[Pragmatic Paradigm|实用主义范式]]（PEA）** 认为无需[[Hypothesis|假设]]黑箱心智，应直接通过口头语言、手势与教具操作分析立足点与意义裂隙的跨越。
+> > - **社会语言学与[[Pragmatic Paradigm|实用主义范式]]（[[Practical Epistemology Analysis|PEA]]）** 认为无需[[Hypothesis|假设]]黑箱心智，应直接通过口头语言、手势与教具操作分析立足点与意义裂隙的跨越。
 
 > [!warning] 适用局限
 > 1. **无法直接从实践认识论推断[[Formal Epistemology|形式认识论]]水平** 学生在探究中表现出的高级操作策略，不能作为其已掌握[[Nature of Science|科学本质]]哲学的直接证明（[[Argument_Sandoval_2005_SE|Sandoval, 2005, p. 648]]）；
@@ -224,7 +225,7 @@ updated: 2026-09-21
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] | 中小学科学探究软件（BGuILE / ExplanationConstructor）支持下的课堂 | 认知任务观察与学生探究产品[[Coding in Qualitative Research\|质性编码]] | 解释构建策略、证据调用类型、因果机制表述 | 学生在软件[[Scaffolding\|脚手架]]支持下能写出因果解释，但极少主动评估反常证据与竞争性假说 | 质性论据结构分析 | 适用于软件脚手架支持的课堂解释任务 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 150)]] | 小学儿童地球形状与重力机制概念探究（Lidar et al., 2010 案例） | PEA 话语编码与录像微观分析 | 立足点、意义裂隙、天球仪教具操作手势 | 儿童在遭遇重力方向困惑时，通过在地球仪上放置人偶搭建新关系以跨越裂隙 | 质性话语序列分析 | 适用于具身模型支持的微观概念探究情境 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 150)]] | 小学儿童地球形状与重力机制概念探究（Lidar et al., 2010 案例） | [[Practical Epistemology Analysis\|PEA]] 话语编码与录像微观分析 | 立足点、意义裂隙、天球仪教具操作手势 | 儿童在遭遇重力方向困惑时，通过在地球仪上放置人偶搭建新关系以跨越裂隙 | 质性话语序列分析 | 适用于具身模型支持的微观概念探究情境 |
 > | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 649)]] | 实施建设性科学课程的小学高年级学生（Smith et al., 2000 案例） | 准实验对照与临床访谈设计 | [[Formal Epistemology\|形式认识论]]信念[[Questionnaire\|问卷]]与探究策略表现 | 经历持续显性认识论反思的学生，在形式认识论与探究自主性上均显著优于对照组 | 准实验组间质性对比 | 证明显性反思对弥合形式与实践认识论具有决定性意义 |
 
 ---
@@ -233,4 +234,4 @@ updated: 2026-09-21
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 正式确立实践[[Epistemology|认识论]][[Construct|构念]]，深入剖析其与[[Formal Epistemology|形式认识论]]的分离特征，并论证显性认识论反思在科学探究教学中的关键转化作用。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 结合微观[[Discourse Analysis|话语分析]]，详细阐述实践认识论分析（PEA）的立足点与意义裂隙机理，并将实践认识论与教师元话语引导及[[Citizen Science|公民科学]]素养培育深度贯通。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 结合微观[[Discourse Analysis|话语分析]]，详细阐述[[Practical Epistemology Analysis|实践认识论分析]]（PEA）的立足点与意义裂隙机理，并将实践认识论与教师元话语引导及[[Citizen Science|公民科学]]素养培育深度贯通。

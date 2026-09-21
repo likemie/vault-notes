@@ -8,7 +8,7 @@ aliases:
 summary: "涵盖科学、技术、工程与数学四大学科的跨学科融合教育范式与国家战略，主张打破传统分科壁垒，依托真实情境问题解决、工程设计与探究实践培养综合创新与认识论素养；在教学论上面向指导式探究与直接讲授的时序整合，并尊重各子学科的特异性认识论规程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Scientific Method]]"
   - "[[Causality]]"
+  - "[[Socioscientific Issues]]"
   - "[[Scaffolding]]"
   - "[[Scientific Attitude]]"
   - "[[Critical Pedagogy]]"
@@ -70,7 +71,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # STEM Education
@@ -158,7 +159,7 @@ updated: 2026-09-21
 > 探讨 STEM 内部科学、工程与社会议题在[[Knowledge Production|知识建构]]标准、证据要求与评价尺度上的深层差异，防范将 STEM 简化为无差别的抽象五步法。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]]
-> **跨学科规程异质性与[[Epistemic Practices|认识论实践]]矩阵** STEM 教育不是将所有门类融为单一教条的[[Scientific Method|科学方法]]，各子学科之间展现出“家族相似性”而非绝对同一性。探究式科学（如物理探究）以解释自然为旨归，遵循严格受控实验与[[Causality|因果推断]]规范；工程教育（Engineering Education）以满足实际需求为目的，在材料、成本与安全等多重约束下寻求最优权衡与原型折中（Cunningham & Carlsen, 2014）；而社会科学议题（Socio-Scientific Issues, SSI）则进一步统合伦理、生态与公共利益，在多元价值冲突中寻求民主协商共识（Sadler, 2004）。优质 STEM 课程必须尊重各领域的[[Domain Specificity|学科特异性]]认识论规程，引导学生体验不同知识主张的合法化路径。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
+> **跨学科规程异质性与[[Epistemic Practices|认识论实践]]矩阵** STEM 教育不是将所有门类融为单一教条的[[Scientific Method|科学方法]]，各子学科之间展现出“家族相似性”而非绝对同一性。探究式科学（如物理探究）以解释自然为旨归，遵循严格受控实验与[[Causality|因果推断]]规范；工程教育（Engineering Education）以满足实际需求为目的，在材料、成本与安全等多重约束下寻求最优权衡与原型折中（Cunningham & Carlsen, 2014）；而[[Socioscientific Issues|社会科学议题]]（Socio-Scientific Issues, SSI）则进一步统合伦理、生态与公共利益，在多元价值冲突中寻求民主协商共识（Sadler, 2004）。优质 STEM 课程必须尊重各领域的[[Domain Specificity|学科特异性]]认识论规程，引导学生体验不同知识主张的合法化路径。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
 
 ---
 
@@ -213,7 +214,7 @@ updated: 2026-09-21
 > - **1990s — 术语起源与国家战略萌芽** [[National Science Foundation|美国国家科学基金会]]（NSF）正式整合科学、数学、工程与技术项目，提出“STEM”缩写，确立跨学科国家创新人才战略。
 > - **2007 — 立法确立与财政扩张** 美国国会通过《美国竞争法案》（America COMPETES Act），将 STEM 教育提升为保障国家经济安全与全球竞争力的法定核心支柱。
 > - **2012 — 实践导向与国家课程标准确立** 美国国家科学研究委员会（NRC）发布《K-12 科学教育框架》，将“科学与工程实践”（SEPs）并列确立为核心维度，推动 STEM 走向教学法深水区。
-> - **2018 — [[Epistemic Practices|认识论实践]]与学科[[Heterogeneity|异质性]]深化** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 提出 STEM 各领域的认识论实践比较矩阵，破除教条式[[Scientific Method|科学方法]]，强化工程折中与社会科学议题审议。
+> - **2018 — [[Epistemic Practices|认识论实践]]与学科[[Heterogeneity|异质性]]深化** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 提出 STEM 各领域的认识论实践比较矩阵，破除教条式[[Scientific Method|科学方法]]，强化工程折中与[[Socioscientific Issues|社会科学议题]]审议。
 > - **2023 — 学习科学视角下的教学法调和** [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 系统总结数十年实证证据，确立[[Inquiry-Based Learning|指导式探究]]与时序整合在 STEM 概念掌握与[[Epistemology|认识论]]素养培育上的共识[[Paradigm|范式]]。
 
 ---
@@ -252,4 +253,4 @@ updated: 2026-09-21
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述提出破除[[Direct Instruction|直接讲授]]与探究的二元对立，系统构建基于[[Inquiry-Based Learning|指导式探究]]、时序编排与技术增强仿真的 STEM 循证教学[[Paradigm|范式]]。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 阐释探究科学、工程教育与社会科学议题在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 阐释探究科学、工程教育与[[Socioscientific Issues|社会科学议题]]在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。

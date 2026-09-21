@@ -2396,6 +2396,17 @@
     ]
   },
   {
+    "title": "Socioscientific Issues",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum-instruction/Socioscientific Issues.md",
+    "aliases": [
+      "SSI",
+      "社会科学议题",
+      "社会科学议题教学",
+      "Socio-Scientific Issues"
+    ]
+  },
+  {
     "title": "Success Criteria",
     "type": "concept",
     "path": "wiki/concepts/curriculum-instruction/Success Criteria.md",
@@ -9101,6 +9112,17 @@
     ]
   },
   {
+    "title": "Retrodiction",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Retrodiction.md",
+    "aliases": [
+      "回溯推测",
+      "溯因推断",
+      "历史溯因",
+      "Retrodictive Reasoning"
+    ]
+  },
+  {
     "title": "Rich and Thick Description",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Rich and Thick Description.md",
@@ -11683,6 +11705,17 @@
       "stand-alone critical thinking instruction",
       "explicit instruction of critical thinking",
       "direct critical thinking instruction"
+    ]
+  },
+  {
+    "title": "Family Resemblance Approach",
+    "type": "theory",
+    "path": "wiki/theories/curriculum/Family Resemblance Approach.md",
+    "aliases": [
+      "FRA",
+      "家族相似性进路",
+      "家族相似性科学本质观",
+      "Family Resemblance Approach to Nature of Science"
     ]
   },
   {
@@ -14373,6 +14406,16 @@
       "照片诱导访谈",
       "照片启发法",
       "photo-elicitation interview"
+    ]
+  },
+  {
+    "title": "Practical Epistemology Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Practical Epistemology Analysis.md",
+    "aliases": [
+      "PEA",
+      "实践认识论分析",
+      "Practical Epistemological Analysis"
     ]
   },
   {

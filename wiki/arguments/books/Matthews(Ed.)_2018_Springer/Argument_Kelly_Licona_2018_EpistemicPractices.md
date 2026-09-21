@@ -7,7 +7,7 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -18,14 +18,13 @@ part_of: "[[Argument_Matthews(Ed.)_2018_Springer]]"
 authors:
   - "Kelly, G. J."
   - "Licona, P."
-  - "Matthews, M. R."
 source_language: en
 citation: "Kelly, G. J., & Licona, P. (2018). Epistemic practices and science education. In M. R. Matthews (Ed.), History, philosophy and science teaching: New perspectives (pp. 139–165). Cham: Springer."
 year: 2018
 doi: "10.1007/978-3-319-62616-1_5"
 citation_aliases:
-  - "Kelly et al., 2018"
-  - "Kelly et al. (2018)"
+  - "Kelly & Licona, 2018"
+  - "Kelly & Licona (2018)"
 isbn: "978-3-319-62614-7"
 tags:
   - paradigm/hps
@@ -39,7 +38,9 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Scientific Method]]"
   - "[[Epistemic Practices]]"
+  - "[[Socioscientific Issues]]"
   - "[[Practical Epistemology]]"
+  - "[[Retrodiction]]"
   - "[[Scientific Literacy]]"
   - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
@@ -62,9 +63,11 @@ related_concepts:
   - "[[Champ]]"
   - "[[Ways of Knowing]]"
   - "[[Bildung]]"
-related_theories: []
+related_theories:
+  - "[[Family Resemblance Approach]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Practical Epistemology Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
@@ -95,7 +98,7 @@ updated: 2026-09-22
 > 在科学史、科学哲学与科学教学（History, Philosophy, and Sociology of Science and Science Teaching, HPS&ST）领域中，研究视野长期偏重规范性的历史与哲学理论，而来自认知科学、社会学、人类学与修辞学的跨学科科学实践实证成果往往遭到边缘化或防范。传统的科学教育普遍将[[Epistemology|认识论]]窄化为抽象孤立的哲学命题，或将其等同于测量学生心智中去情境的个人信念，导致教学要么沦为静态知识结论的[[Rote Learning|死记硬背]]，要么退化为套用所谓[[Scientific Method|科学方法]]（Scientific Method）五步法的教条程序，忽视了真实科学活动中微观共同体的话语协商、证据评估与社会规程。面对这一理论与现实困境，科学教育应当如何走出仅传授既定知识结论与将认识论视为孤立个体信念的双重局限，汲取跨学科科学实践研究对行动中的科学（science-in-the-making）的实证洞见，从而在课堂教学中系统确立以微观共同体为基础的[[Epistemic Practices|认识论实践]]（Epistemic Practices）[[Analytic Framework|分析框架]]？（pp. 139–141, 143–144）
 
 > [!claim] 核心主张
-> 科学教育的核心目标不仅在于传授概念结论，更在于引导学生作为微观协商共同体的成员，亲身参与提出、沟通、评估与合法化知识主张的[[Epistemic Practices|认识论实践]]。这一实践内生具有交互生成、情境嵌入、历史互文与制度后果四大特征，在探究式科学、工程教育与社会科学议题（Socioscientific Issues, SSI）等不同领域中呈现出鲜明的学科认识论差异；通过引入家族相似性进路（Family Resemblance Approach, FRA）、[[Practical Epistemology|实践认识论]]分析（Practical Epistemological Analysis, PEA）与历史科学的回溯推测（Retrodiction），能够彻底打破僵化的科学方法神话，培育融合基础文本读写与公共证据审议的批判性[[Scientific Literacy|科学素养]]。（pp. 140, 148, 150–158, 161）
+> 科学教育的核心目标不仅在于传授概念结论，更在于引导学生作为微观协商共同体的成员，亲身参与提出、沟通、评估与合法化知识主张的[[Epistemic Practices|认识论实践]]。这一实践内生具有交互生成、情境嵌入、历史互文与制度后果四大特征，在探究式科学、工程教育与[[Socioscientific Issues|社会科学议题]]（Socioscientific Issues, SSI）等不同领域中呈现出鲜明的学科认识论差异；通过引入[[Family Resemblance Approach|家族相似性进路]]（Family Resemblance Approach, FRA）、[[Practical Epistemology|实践认识论]]分析（[[Practical Epistemology Analysis|Practical Epistemological Analysis]], PEA）与历史科学的[[Retrodiction|回溯推测]]（Retrodiction），能够彻底打破僵化的科学方法神话，培育融合基础文本读写与公共证据审议的批判性[[Scientific Literacy|科学素养]]。（pp. 140, 148, 150–158, 161）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中小学与大学科学课堂、高中物理振动实验小组、小学工程设计团队、大学地质学论文写作，以及社会科学议题辩论场景。
@@ -110,7 +113,7 @@ updated: 2026-09-22
 > | 理论来源 | 代表学者 | 核心命题与分析工具 | 理论功能与作用 |
 > |---|---|---|---|
 > | **社会实践认识论**<br>Social Epistemology | Helen Longino (1990, 2002); Gregory J. Kelly (2008, 2016) | [[Epistemology\|认识论]]主体是微观社会协商共同体而非孤立个体；科学知识依赖公共论坛、吸收批评、公认标准与平等智识权威四项社会规范确立。（pp. 140, 148） | 为全篇“提出、沟通、评估、合法化”四维行动模型及“交互、情境、互文、后果”四大本体特征奠定核心哲学与社会学根基。 |
-> | **三维科学教育目标论**<br>Three-Part Harmony Goals | Richard Duschl (2008) | 科学教育必须同步整合概念（Conceptual）、认识论（Epistemic）与社会（Social）三大学习目标，三者相互支撑，不可割裂。（pp. 140–141） | 作为组织全篇教学取向对比（科学探究、工程教育、社会科学议题）的顶层课程架构。 |
+> | **三维科学教育目标论**<br>Three-Part Harmony Goals | Richard Duschl (2008) | 科学教育必须同步整合概念（Conceptual）、认识论（Epistemic）与社会（Social）三大学习目标，三者相互支撑，不可割裂。（pp. 140–141） | 作为组织全篇教学取向对比（科学探究、工程教育、[[Socioscientific Issues\|社会科学议题]]）的顶层课程架构。 |
 > | **情境化实践认识论**<br>Situated Practical Epistemology | Ludwig Wittgenstein (1958); Per-Olof Wickman (2004); Leif Östman & Wickman (2014) | 认识论是在微观话语与行动中就地生成的语言游戏；通过立足点（Stand Fast）、认知裂隙（Gaps）与建立关联（Relations）刻画意义协商。（pp. 149–150） | 为原生态课堂师生互动、具身动作、符号互文与意义建构提供微观机制解释工具。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -274,7 +277,7 @@ flowchart LR
 ### 论证步骤四　探究科学、工程教育与社会科学议题遵循不同的学科认识论规程
 
 > [!claim] 步骤四核心主张
-> 探究式科学、工程教育与社会科学议题（SSI）在目标定位与四维行动规程上高度分化，科学教学必须尊重各领域的独特学科规范。（pp. 142–143, 155–157）
+> 探究式科学、工程教育与[[Socioscientific Issues|社会科学议题]]（SSI）在目标定位与四维行动规程上高度分化，科学教学必须尊重各领域的独特学科规范。（pp. 142–143, 155–157）
 
 #### 1. 探究科学、工程设计与社会科学议题在三大学习目标上呈现显著分化
 
@@ -315,7 +318,7 @@ flowchart LR
 ### 论证步骤五　破除单一科学方法神话，依托家族相似性进路、实践认识论分析与显性元话语培育公共科学素养
 
 > [!claim] 步骤五核心主张
-> 必须破除将[[Scientific Method|科学方法]]简化为五个固定步骤的机械观念，依据家族相似性进路（FRA）展现多元学科认识论特征；通过[[Practical Epistemology|实践认识论]]分析（PEA）精准刻画微观意义建构，并结合教师显性元话语反思，将探究经验转化为面向现代社会的批判性公共[[Scientific Literacy|科学素养]]。（pp. 144–145, 150–154, 161）
+> 必须破除将[[Scientific Method|科学方法]]简化为五个固定步骤的机械观念，依据[[Family Resemblance Approach|家族相似性进路]]（FRA）展现多元学科认识论特征；通过[[Practical Epistemology|实践认识论]]分析（[[Practical Epistemology Analysis|PEA]]）精准刻画微观意义建构，并结合教师显性元话语反思，将探究经验转化为面向现代社会的批判性公共[[Scientific Literacy|科学素养]]。（pp. 144–145, 150–154, 161）
 
 #### 1. 家族相似性进路与学科异质性彻底消解了普适线性的科学方法神话
 
@@ -324,7 +327,7 @@ flowchart LR
 > [!critique-method] 科学方法的线性教条与跨学科认识论[[Heterogeneity|异质性]]（pp. 144–145, 151–153）
 > - **[[Nature of Science|科学本质]]的家族相似性进路（Family Resemblance Approach, FRA）**
 >   居罗尔·伊尔齐克（Gürol Irzik）与罗伯特·诺拉（Robert Nola, 2011）将维特根斯坦的“家族相似性”引入科学本质，主张科学是由活动、价值、方法论与知识产品构成的多元网络。不同学科之间共享某些相似特征，但没有任何单一特征为所有学科所共有。
-> - **地学与空间科学的回溯推测（Retrodiction）**
+> - **地学与空间科学的[[Retrodiction|回溯推测]]（Retrodiction）**
 >   地质学、空间科学与古生物学等历史科学（historical sciences）的核心目的不是像物理或化学那样预测（predict）未来，而是回溯推测（retrodict）远古演化事件。地质学探究依靠多重独立收敛的[[Chain of Evidence|证据链]]、时空尺度外推与歧义性约束（Ault, 1998）。
 > - **化学科学的模型与定性规律**
 >   化学中的规律（如元素周期律）不像物理学万有引力定律那样具备严格的演绎公理化形式，化学教学更多依赖定性模型与结构化表征（Erduran, 2007; Erduran & Duschl, 2004）。
@@ -377,8 +380,8 @@ flowchart LR
 > 1. **[[Epistemology|认识论]]主体是协商共同体而非孤立个体** 跨学科科学实践实证研究表明，何者算作知识取决于群体的社会协商规程；科学教育应引导学生参与认知文化的实践活动。（pp. 140, 147–148）
 > 2. **[[Epistemic Practices|认识论实践]]涵盖四个核心行动环节** 知识主张的提出、沟通、评估与合法化构成课堂互动的基本环节，贯穿于探索发现、证据论证与交流表达的全过程。（pp. 144–147）
 > 3. **认识论实践具有四大本体特征** 实践是在集体互动中生成的（交互性）、嵌入特定情境与传统的（情境性）、借由过往符号传承的（互文性）以及涉及身份认同与认可的（后果性）。（pp. 156–159）
-> 4. **三大教学取向呈现出鲜明的学科认识论差异** 探究科学（解释自然现象）、工程教育（多约束优化设计）与社会科学议题（平衡多元价值与非形式推理）在问题类型、证据范围与评价准则上各有侧重，不存在单一通用的[[Scientific Method|科学方法]]。（pp. 142–143, 154–157）
-> 5. **家族相似性进路（FRA）与[[Practical Epistemology|实践认识论]]分析（PEA）解构了线性科学方法教条** 地学的回溯推测（Retrodiction）、化学的模型规律与生物的概率思维证明了学科多样性；PEA 揭示了立足点、认知裂隙与关联建构的微观机制；动手操作必须结合教师显性元话语反思，才能有效促进基础与派生[[Scientific Literacy|科学素养]]的发展。（pp. 144–145, 149–154, 161）
+> 4. **三大教学取向呈现出鲜明的学科认识论差异** 探究科学（解释自然现象）、工程教育（多约束优化设计）与[[Socioscientific Issues|社会科学议题]]（平衡多元价值与非形式推理）在问题类型、证据范围与评价准则上各有侧重，不存在单一通用的[[Scientific Method|科学方法]]。（pp. 142–143, 154–157）
+> 5. **[[Family Resemblance Approach|家族相似性进路]]（FRA）与[[Practical Epistemology|实践认识论]]分析（[[Practical Epistemology Analysis|PEA]]）解构了线性科学方法教条** 地学的[[Retrodiction|回溯推测]]（Retrodiction）、化学的模型规律与生物的概率思维证明了学科多样性；PEA 揭示了立足点、认知裂隙与关联建构的微观机制；动手操作必须结合教师显性元话语反思，才能有效促进基础与派生[[Scientific Literacy|科学素养]]的发展。（pp. 144–145, 149–154, 161）
 
 ---
 

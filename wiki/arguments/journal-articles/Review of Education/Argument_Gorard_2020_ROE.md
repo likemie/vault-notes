@@ -7,7 +7,7 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 77
+argument_related_count: 78
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -90,6 +90,7 @@ related_facts:
   - "[[Using Data Intervention]]"
   - "[[Gaokao]]"
   - "[[Feedback Action Research Trial]]"
+  - "[[Partnership Schools Kura Hourua]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Investing in Innovation Program]]"
   - "[[Strategic School Improvement Fund]]"
@@ -399,7 +400,7 @@ sources:
 针对英格兰小学的反馈行动研究因果评估，为此提供了深刻的经验教训。（pp. 595–596）
 
 > [!case] 杜伦大学教师反馈行动研究试验（See et al., 2016）
-> - **干预机制设计** 该项 2 级实证评估追踪由 9 所小学伙伴学校联盟开展的干预，围绕课堂有效反馈机制展开攻坚。
+> - **干预机制设计** 该项 2 级实证评估追踪由 9 所小学[[Partnership Schools Kura Hourua|伙伴学校]]联盟开展的干预，围绕课堂有效反馈机制展开攻坚。
 > - **文献研读与行动研究循环** 9 所学校的教师集体研读关于课堂反馈的高水平学术期刊论文，组织全员级联培训，并在一个学年内紧锣密鼓地开展了三轮校本[[Action Research|行动研究]]循环，力图将学术原理内化于教学。
 > - **统计理解障碍与实施的致命变异（Lethal Mutation）** 过程追踪显示，学术论文中的因果推论、混淆变量控制及效应量逻辑对一线教师构成严重理解障碍。由于专业素养欠缺，课堂实操中对反馈机制发生严重的演绎偏差——将及时的形成性矫正异化为耗费工时的机械批改与繁琐表格勾选，产生典型实践变异。
 > - **学业产出完全落空** 最终统考数据显示，9 所试验学校学生的学业进展与成绩表现，完全没有优于区域内 5 所完全未参与研究的对照小学，亦未优于全英公立学校的国家常模。（pp. 595–596）

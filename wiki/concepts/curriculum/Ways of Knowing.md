@@ -6,10 +6,10 @@ aliases:
 summary: "认识论与课程论中指称人类获取、建构、表达和审查知识的多维途径与经验资源；既是国际文凭知识论课程中连接个人与共享知识的元认知分析框架，也是科学教育视阈下体现学科特异性与文化多样性的认识论实践形态。"
 type: concept
 domain: "curriculum"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemology
   - theme/critical-thinking
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Knowledge Framework]]"
   - "[[Scaffolding]]"
+  - "[[Retrodiction]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Homework]]"
   - "[[Domain Specificity]]"
+  - "[[Socioscientific Issues]]"
   - "[[Chain of Evidence]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
@@ -65,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-26
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Ways of Knowing
@@ -92,7 +94,7 @@ updated: 2026-09-21
 > [!boundary]- 概念边界
 > - **不等于[[Areas of Knowledge|知识领域]]（AOK）** — 认知方式回答“知者如何获知与检验”，知识领域回答“知识主要在哪些学科体系与制度传统中得以沉淀与分类”（如数学、自然科学、人文历史）。
 > - **不等于[[Knowledge Framework|知识框架]]（Knowledge Framework）** — 知识框架是用于系统比较某一领域范围、概念、方法、历史演化与个人知识互动的综合分析[[Scaffolding|脚手架]]；认知方式是贯穿跨[[Domain Analysis|领域分析]]的可调用认识资源。
-> - **不等于单一教条的[[Scientific Method|科学方法]]** — 科学方法往往被狭隘化为受控实验的五步流程，而学科认知方式涵盖历史回溯推测、参数约束优化、模型构建与社会价值审议等多元形态。
+> - **不等于单一教条的[[Scientific Method|科学方法]]** — 科学方法往往被狭隘化为受控实验的五步流程，而学科认知方式涵盖历史[[Retrodiction|回溯推测]]、参数约束优化、模型构建与社会价值审议等多元形态。
 
 ---
 
@@ -123,8 +125,8 @@ updated: 2026-09-21
 > - **学科实践与科学教育视角（Kelly & Licona 框架）** 强调认知方式的[[Domain Specificity|学科特异性]]与历史生成性：
 >   - **探究科学认知方式** 侧重受控实验、现象解释与因果机制归纳；
 >   - **工程设计认知方式** 侧重在多重物理、成本与安全约束下寻求最优折中；
->   - **社会科学议题认知方式** 侧重整合伦理、生态与经济多维价值的民主公共审议；
->   - **历史地学认知方式** 侧重跨宏大时空尺度的多源[[Chain of Evidence|证据链]]回溯推测（retrodiction）。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
+>   - **[[Socioscientific Issues|社会科学议题]]认知方式** 侧重整合伦理、生态与经济多维价值的民主公共审议；
+>   - **历史地学认知方式** 侧重跨宏大时空尺度的多源[[Chain of Evidence|证据链]][[Retrodiction|回溯推测]]（retrodiction）。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
 
 > [!logic-map]- 认知方式在个人经验、学科共同体与公共审查之间的流转机制
 > ```mermaid
@@ -176,7 +178,7 @@ updated: 2026-09-21
 > 探讨不同学科在问题提出、[[Evidence Standards|证据标准]]与知识合法化上的深层差异，消解单一线性“[[Scientific Method|科学方法]]”的教条主义。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]]
-> **学科认知方式的多元性与公共证据审查准则** 科学与工程实践具有高度的领域依存性与历史动态性，不存在放之四海而皆准的孤立实践清单或刻板的“五步科学方法”。物理探究、工程设计、地质历史回溯与社会科学议题各自运用着截然不同的学科认知方式。科学教育的目的绝非强推机械的步骤操作，而在于引导学生理解不同知识门类赋予经验以意义的多样化规程，并深刻认同科学认知的核心伦理——以系统化方式构建论据，使知识主张始终面向公共共同体的审查与理性评估开放。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 154)]]
+> **学科认知方式的多元性与公共证据审查准则** 科学与工程实践具有高度的领域依存性与历史动态性，不存在放之四海而皆准的孤立实践清单或刻板的“五步科学方法”。物理探究、工程设计、地质历史回溯与[[Socioscientific Issues|社会科学议题]]各自运用着截然不同的学科认知方式。科学教育的目的绝非强推机械的步骤操作，而在于引导学生理解不同知识门类赋予经验以意义的多样化规程，并深刻认同科学认知的核心伦理——以系统化方式构建论据，使知识主张始终面向公共共同体的审查与理性评估开放。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 154)]]
 
 ---
 
