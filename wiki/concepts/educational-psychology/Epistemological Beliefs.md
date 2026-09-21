@@ -34,11 +34,11 @@ related_concepts:
   - "[[Reflexivity]]"
 related_theories:
   - "[[Epistemic and Ontological Cognition]]"
-  - "[[Item Response Theory]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
   - "[[Factor Mixture Modeling]]"
+  - "[[Item Response Theory]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
@@ -48,11 +48,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Trautwein_2007_CEP]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Greene_2010_JEP]]"
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Epistemological Beliefs
@@ -79,6 +80,7 @@ updated: 2026-09-17
 > - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct|构念]]升级为更具内部连贯性的“[[Epistemological Theories|认识论理论]]（epistemological theories）”。
 > - **2007 年 — 大规模纵向追踪与因果/社会化检验** [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] 基于德国 [[TOSCA]] 追踪数据，通过结构方程模型证实知识确定性信念在控制智力与家庭背景后仍能显著独立预测[[Academic Achievement|学业成就]]，并揭示了学科选择中的自我选择与大学[[Disciplinary Socialization|学科社会化]]双重机制。
 > - **2008-2010 年 — 阶段论与维度论的整合与重定** Greene 等人提出整合性的 [[Epistemic and Ontological Cognition|EOC]] 模型，将对“[[Certainty of Knowledge|知识的确定性]]与简单性”的信念重新界定为“[[Ontology|本体论]]认知”（ontological cognition），并通过[[Factor Mixture Modeling|因子混合模型]]将独立维度的测量分数成功聚类回个人的认知发展阶段中。
+> - **2021 年 — 元分析证实聚焦证据确证模型的干预优势** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 通过认识论干预元分析证实，基于多维信念模型与证据协调等聚焦知识本质与确证机制的现代模型干预能产生中等以上提分效果（$d \approx 0.63$），而基于 Schommer 宽泛认知信念模型的干预则无显著效果（$d = 0.185$），为构念边界净化提供了因果实证支持。
 
 ---
 
@@ -137,6 +139,16 @@ updated: 2026-09-17
 
 ---
 
+### 命题四　聚焦知识本质与确证机制的现代认识论干预显著优于宽泛的学习特质信念
+
+> [!concept-lens] 理论模型指导干预的因果分野
+> 探讨指导教学设计的认识论理论框架如何实质调节对学业成就的促进成效。
+
+> [!claim] Cartiff, B. M.
+> **构念纯化与理论模型干预效能分野** 在认识论认知干预的一阶元分析中，基于不同理论模型的干预方案在学业产出上存在显著分野。以 [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 多维信念模型（$d = 0.625$）以及 Kuhn / Barzilai 发展协调模型（$d = 0.633$）为指导的教学干预，能够带来中等至大程度的稳健学业增益；相反，基于 Schommer (1990) 宽泛认知信念模型（混入了固定能力、快速学习等非认识论特质）的干预方案，平均效应量仅为 $d = 0.185$（未达统计显著性）。这一因果证据从实践干预维度有力确证了 Hofer 和 Pintrich 的理论主张：只有将认识论信念严格聚焦于“知识的本质”与“辩护来源”（而非泛化的学习意志力或智力特质），教学干预才能精准激活学生的深度证据检验与论证推理能力。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 486, 492)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -145,10 +157,23 @@ updated: 2026-09-17
 > | **独立维度假说** | 认识论假设由多个可各自独立发展、测量和预测学业成就的维度构成 | 强调量表测量与在各群体间的分布差异 | Schommer (1990) |
 > | **个人理论假说** | 认识论假设的各维度在心智中连贯互构，共同形成解释知识本质的个人理论框架 | 强调维度的整合性与底层认识论机制 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
 > | **多维阶段融合模型** | 将认识论与本体论区分，通过因子混合模型将连续维度分数聚类回认知发展阶段 | 跨学科领域特殊性与阶段类型识别 | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] |
+> | **理论模型干预分野** | 聚焦知识确证机制的纯化模型提分显著，而混入学习特质的宽泛模型成效微弱 | 认识论教学方案设计、干预效果评估 | Cartiff et al. |
 
 ---
 
 ## 实证数据
+
+> [!ma-table]- 一阶元分析理论模型调节效应检验
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 理论模型亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Kuhn 与 Barzilai 发展协调模型 | 5 / 396 | $d = 0.633$ [0.293, 0.973] | — | 聚焦多重视角论证与证据协调反思 |
+> | 同上 | 干预指导理论 | Hofer 与 Pintrich 多维信念模型 | 10 / 1,736 | $d = 0.625$ [0.251, 1.000] | — | 聚焦确定性、简单性、来源与辩护四维度 |
+> | 同上 | 干预指导理论 | Greene 与 Bråten 综合模型 | 4 / 557 | $d = 0.482$ [0.013, 0.951] | — | 整合本体论认知与多文本任务认知 |
+> | 同上 | 干预指导理论 | Hammer 情境资源模型 | 3 / 530 | $d = 0.482$ [-0.883, 1.846] | — | 关注微观认知资源，但效应置信区间跨零 |
+> | 同上 | 干预指导理论 | Kitchener 反思判断模型 | 3 / 489 | $d = 0.391$ [0.093, 0.689] | — | 关注劣构问题的反思性判断层级 |
+> | 同上 | 干预指导理论 | Schommer 认知信念模型 | 3 / 665 | $d = 0.185$ [-0.124, 0.495] | $Q_b = 4.929, df = 5, p = .425$ | 混入固定能力与快速学习等特质，未达统计显著 |
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -175,3 +200,4 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 追踪德国高中毕业生进入大学后的确定性[[Epistemology|认识论]]信念，揭示[[Disciplinary Socialization|学科社会化]]与自我选择机制。
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 检验加拿大中学生在不同[[Task Structure|任务结构]]（良构与劣构）下认识论信念对任务表现和[[Reflexivity|反思性]]判断的差异化预测作用。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 认识论干预元分析，对比了不同理论模型指导下的干预效果，实证证实聚焦知识与确证维度的现代模型显著优于混入一般学习信念的传统模型。

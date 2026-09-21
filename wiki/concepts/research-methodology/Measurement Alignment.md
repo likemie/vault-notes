@@ -8,10 +8,10 @@ aliases:
 summary: "在教育心理学实证研究中，测量工具与结果变量在特异性颗粒度及学科情境维度上的严格对应匹配，是避免效应量人为衰减的核心方法论法则。"
 type: concept
 domain: "research-methodology"
-related_count: 27
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/methodology
   - educational-measurement
@@ -37,6 +37,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Justificatory Standards]]"
   - "[[Reliable Epistemic Processes]]"
+  - "[[Developer-Made Measures]]"
+  - "[[Rote Learning]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
@@ -45,12 +47,13 @@ related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 related_theories:
   - "[[Situative Perspective]]"
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Measurement Alignment
@@ -115,6 +118,16 @@ updated: 2026-09-17
 
 ---
 
+### 命题三　干预研究中存在任务特异性对齐反转现象（Alignment Paradox）
+
+> [!concept-lens] 任务敏感性与对齐效应的权衡
+> 在实验干预研究中，对齐效应可能被测量工具自身的构念敏感性反向颠覆。
+
+> [!claim] Cartiff, B. M.
+> **构念敏感性对对齐法则的反转** 在认识论认知干预的一阶元分析中，特异性层级未对齐的研究效应量（$d = 0.808$）反常地显著高于完全对齐的研究（$d = 0.426, Q_b = 7.986, p < .01$）。这一“对齐佯谬”源于测量工具构念敏感性的异质性：未对齐研究通常采用学科领域干预，但评价因变量时选用了研究者针对具体主题自编的[[Developer-Made Measures|深度论证测验]]（如 Lam & Chan, 2008; Shekoyan, 2009），敏锐捕捉到了认识论提升带来的质性飞跃；相反，完全对齐的研究往往将学科领域干预与全校期末考试或标准化常模测验相对齐，后者充斥着对孤立事实与公式的[[Rote Learning|机械考查]]，反而稀释掩盖了真实干预红利。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 488, 492)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -122,6 +135,7 @@ updated: 2026-09-17
 > |---|---|---|---|
 > | **双重对齐红利** | 颗粒度与学科情境的同构匹配能显著消除未建模方差，最大化预测效应量 | 教育心理学实证研究设计、量化测评 | Greene et al. |
 > | **学科规范调节** | 学科确证规则越明确（如科学、数学），领域对齐测量的预测效能越稳健 | 跨学科认识论研究、学科教学论 | Greene et al. |
+> | **干预对齐反转** | 干预研究中深层任务测验的高构念敏感度可打破形式对齐，出现未对齐效应反超 | 实验教学干预评价、自编深层测验开发 | Cartiff et al. |
 
 ---
 
@@ -131,6 +145,7 @@ updated: 2026-09-17
 > - **1970–1990 — 宏观通用测量时代** 早期研究（Perry、Schommer）普遍采用跨学科的通用[[Questionnaire|问卷]]，默认[[Epistemological Beliefs|认识论信念]]是跨情境稳定的个体特质，忽略了测量对齐的重要性。
 > - **2000–2006 — [[Domain Specificity|学科特异性]]转向** Hofer (2000) 与 Muis et al. (2006) 提出特定学科信念问卷，[[Epistemology|认识论]]研究开始区分通用与特定学科情境，对齐意识萌芽。
 > - **2018 — 系统对齐法则的确立** [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 在大规模[[Meta-analysis|元分析]]中形式化界定了颗粒度对齐与领域对齐的双重框架，通过量化证据确立了测量对齐在教育心理学中的基准地位。
+> - **2021 — 干预研究中的对齐佯谬** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 揭示干预研究中特异性未对齐研究效应量（$d = 0.808$）反常高于对齐研究（$d = 0.426$），揭示了工具构念敏感性（自编深层测验 vs 机械常模考卷）对形式对齐效应的反向主导机制。
 
 ---
 
@@ -161,9 +176,19 @@ updated: 2026-09-17
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 学科领域 | 亚组分析 | 科学（r=.199）和数学（r=.157）显著高于人文社科 | — | Q_between 显著 | 预设 | 规范明确的硬科学领域对齐收益最大 |
 
+> [!ma-table]- 一阶元分析干预研究特异性对齐检验
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 调节变量 | 样本量（k） | 被试量（N） | 效应量（d）与 95% CI | 显著性检验 | 理论与方法论启示 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 特异性完全对齐 | 23 | 3,978 | 0.426 [0.226, 0.627] | $Z = 4.169, p < .001$ | 多选用学校常规期末考或标准化测验，易受机械记忆题稀释 |
+> | 同上 | 特异性未对齐 | 6 | 474 | 0.808 [0.635, 0.981] | $Z = 9.159, p < .001$ | 采用针对具体主题的自编高阶论证测验，构念敏感度极高 |
+> | 同上 | 组间差异检验 | — | — | $Q_b = 7.986, df = 1, p < .01$ | — | 证实干预研究中测验敏感度可超越形式对齐主导效应量 |
+
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 系统检验了特异性颗粒度与学科领域双重对齐对[[Academic Achievement|学业成绩]]预测力的调节作用，确立了测量对齐的方法论法则。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 发现实验干预中特异性未对齐效应反常反超对齐效应，揭示了[[Developer-Made Measures|研究者自编测验]]的构念敏感度在测量对齐评估中的关键调节机制。

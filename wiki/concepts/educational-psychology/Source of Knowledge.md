@@ -15,24 +15,22 @@ tags:
   - "level/dimension"
 related_concepts:
   - "[[Epistemological Theories]]"
-  - "[[Epistemology]]"
-  - "[[Received Knowledge]]"
-  - "[[Learner Autonomy]]"
-  - "[[Critical Thinking]]"
-  - "[[Constructed Knowledge]]"
-  - "[[Independent Knowing]]"
-  - "[[Absolute Knowing]]"
+  - "[[Source Evaluation]]"
   - "[[Justificatory Standards]]"
   - "[[Certainty of Knowledge]]"
   - "[[Simplicity of Knowledge]]"
-  - "[[Inquiry-Based Learning]]"
-  - "[[Academic Achievement]]"
+  - "[[Received Knowledge]]"
+  - "[[Learner Autonomy]]"
+  - "[[Constructed Knowledge]]"
+  - "[[Absolute Knowing]]"
+  - "[[Independent Knowing]]"
+  - "[[Critical Thinking]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
   - "[[Epistemological Reflection Model]]"
-  - "[[Reflective Judgment Model]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -60,6 +58,7 @@ updated: 2026-09-21
 > - **时代拓展** 随着数字化学习与多文本阅读的普及，知识来源维度由抽象的哲学权威信念，进一步拓展为在面对网络冲突信息时，评估文本来源资质、机构背景与可信度的具体策略规程。
 
 > [!boundary]- 概念边界
+> - **与[[Source Evaluation|信源评估]]的关系** 知识来源是内在的个人认识论信念维度，界定知识驻留在外部权威还是主体建构中；而信源评估是操作化的批判性阅读技能与教学干预框架，指导学习者如何在外显任务中核查作者资质、排查商业与意识形态利益冲突。
 > - **与[[Justificatory Standards|确证标准]]的区别** 知识来源界定“知识驻留在哪里、由谁产生”，关注主体的外部依附性或内部自主性；确证标准则界定“如何确证某个知识主张的有效性与真理性”，关注依靠个人直觉、权威背书还是规则逻辑与经验证据协调。
 > - **与[[Certainty of Knowledge|知识确定性]]的区别** 知识确定性衡量知识本身是绝对不变的终极真理还是暂时概率性的演进产物，侧重于知识的稳定性；知识来源聚焦于知识生成的主体能动性与信源背景。
 

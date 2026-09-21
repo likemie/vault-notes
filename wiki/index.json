@@ -5313,8 +5313,10 @@
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Procedural Knowledge.md",
     "aliases": [
+      "程序性知识",
       "程序知识",
-      "procedural knowledge"
+      "knowing how",
+      "操作性知识"
     ]
   },
   {
@@ -6599,6 +6601,18 @@
     ]
   },
   {
+    "title": "Source Evaluation",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Source Evaluation.md",
+    "aliases": [
+      "信源评估",
+      "来源评估",
+      "来源审验",
+      "Sourcing",
+      "Sourcing Heuristic"
+    ]
+  },
+  {
     "title": "Spirals of Inquiry",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Spirals of Inquiry.md",
@@ -7001,6 +7015,16 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Simple View of Reading.md",
     "aliases": [
       "简单阅读观"
+    ]
+  },
+  {
+    "title": "Sleeper Effect",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Sleeper Effect.md",
+    "aliases": [
+      "沉睡者效应",
+      "延时发酵效应",
+      "沉睡效应"
     ]
   },
   {
