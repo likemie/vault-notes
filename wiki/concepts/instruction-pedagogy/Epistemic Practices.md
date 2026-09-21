@@ -30,7 +30,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Epistemic Aims]]"
   - "[[Evidence Standards]]"
-  - "[[Conatus]]"
   - "[[Heterogeneity]]"
   - "[[Domain Specificity]]"
   - "[[Nature of Science]]"
@@ -178,13 +177,13 @@ updated: 2026-09-21
 
 ---
 
-### 命题二　认识论实践通过话语与具身互动贯穿于假说发现、证据辩护与全流程沟通三重情境
+### 命题二　认识论实践贯穿于探索发现、证据论证与交流表达三重交织情境
 
-> [!concept-lens] 探究情境交织与中介机制
-> 探讨科学活动中直觉探索、逻辑辩护与修辞交流的动态关系，破除将发现与辩护割裂的线性观念。
+> [!concept-lens] 探究情境交织与交流中介
+> 阐释科学活动中直觉探索、逻辑论证与交流说服的动态共生关系，破除将发现与论证割裂的线性观念。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]]
-> **三重情境交织模型** 知识主张并不遵循单向线性流动，而是在发现的情境（充满尝试、困惑与具身探索）、辩护的情境（强调严密推理与[[Evidence Standards|证据标准]]）以及沟通与呈现的情境（贯穿全流程的修辞协商）中循环推进。沟通并非事后包装，而是[[Knowledge Production|知识建构]]的核心中介；具身动作、言语互动与文本修改共同构成了认识论实践的微观发[[Conatus|生机]]制。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–147)]]
+> **三重情境交织模型** 知识主张并不遵循单向线性流动，而是在探索发现的情境（充满尝试、困惑与具身探索）、证据论证的情境（强调严密推理与[[Evidence Standards|证据标准]]）以及交流表达的情境（贯穿始终的修辞与互动协商）中循环推进。交流并非事后包装，而是[[Knowledge Production|知识建构]]的核心中介；具身动作、言语互动与文本修改共同构成了认识论实践的微观活动机制。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–147)]]
 
 ---
 
@@ -242,7 +241,7 @@ updated: 2026-09-21
 > > [!axis] [[Domain Specificity|领域特异性]]规范 vs. 通用跨学科能力
 > > [[Epistemology|认识论]]实践是在具体学科中深度绑定的特异规程，还是可以在不同 [[STEM Education|STEM]] 领域通用的认知技能？
 > > - **领域特异论** 强调物理受控实验、地学回溯推测与工程优化设计的规程截然不同，不存在跨领域的普适实践模板。
-> > - **通用技能论** 强调提出主张、寻找证据与检验推理在所有科学领域具有底层逻辑共性，主张通过通用探究框架促进能力迁移。
+> > - **通用技能论** 强调提出主张、寻找证据与检验推理在所有科学领域具有结构共通性，主张通过通用探究框架促进能力迁移。
 
 > [!critique] 刻板化清单对实践活态性的技术异化
 > 部分课程政策（如对 NGSS 八项科学与工程实践的教条化套用）容易将认识论实践重新退化为孤立打勾的过程技能训练，违背了认识论实践强调微观话语协商与文化情境嵌入的原初宗旨。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145)]]

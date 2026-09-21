@@ -142,7 +142,7 @@ updated: 2026-09-21
 > - **接纳[[Scientific Uncertainty|科学不确定性]]与暂定性（Navigating Uncertainty & Provisionality）** 深刻领会[[Confidence Interval|置信区间]]、测量误差与区间预测的科学价值，认识到承认证据有限与未知并非科学无能，而是严谨探索的必然常态；避免因科学争议而滑向反智虚无主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **公共决策参与与算法数据批判（Civic Deliberation & Algorithmic Critique）** 能够将科学证据理性应用于应对气候危机、公共卫生防护、基因科技伦理以及审视生成式 AI 工具带来的模型幻觉与偏见，积极参与民主审议。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 161)]]
 
-> [!logic-map]- 现代科学素养四大支柱与公民赋能关系拓扑
+> [!logic-map]- 现代科学素养四大支柱与公民能力培育关系拓扑
 > ```mermaid
 > flowchart LR
 >     A["运作机制与科学本质<br>(Nature of Science)"] --> E["现代科学素养<br>(Scientific Literacy)"]
@@ -160,10 +160,10 @@ updated: 2026-09-21
 
 ---
 
-### 命题一　科学教育范式必须从少数专业精英预备转向面向全体公民的科学素养赋权
+### 命题一　科学教育范式必须从少数专业精英预备转向面向全体公民的科学素养培育
 
 > [!concept-lens] [[Citizen Science|公民科学]]素养[[Paradigm|范式]]与专业管网选拔冲突
-> 科学教育长期深陷为少数未来科学家奠基与为全体未来公民赋能的双重张力，当代课程哲学明确主张将全民科学素养置于首要地位。
+> 科学教育长期深陷为少数未来科学家奠基与为全体未来公民提供素养支撑的双重张力，当代课程哲学明确主张将全民科学素养置于首要地位。
 
 > [!claim] Millar & Osborne (1998)
 > **公民导向范式转型** 科学教育必须从服务于大学专业学科输送少数预备科研人员的狭隘管网（[[STEM Education|STEM]] Pipeline）思维中解脱出来，首要使命在于为所有未来的公民提供理解科技争议、评估媒体报告、参与现代社会生活所需的科学素养。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
@@ -230,7 +230,7 @@ updated: 2026-09-21
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境与实践机制 | 代表学者 / 来源 |
 > |---|---|---|---|
-> | **公民赋能与管网转型** | 确立全民科学素养优先于精英专业选拔的课程目标，强调认识论实践对民主审议理性的培育 | 基础教育课程大纲研制、学段科学必修政策、公民参与审议 | Millar & Osborne (1998); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 31)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 161)]] |
+> | **公民素养本位与管网转型** | 确立全民科学素养优先于精英专业选拔的课程目标，强调认识论实践对民主审议理性的培育 | 基础教育课程大纲研制、学段科学必修政策、公民参与审议 | Millar & Osborne (1998); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 31)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 161)]] |
 > | **不确定性与科学本质** | 掌握多源证据批判与科学知识的暂定性，破除单一科学方法教条并体会公共审查价值 | 科学探究教学法、公共风险沟通、争议科学审议 | Kerr et al. (2022); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 62)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 144–145)]] |
 > | **数字虚假信息认知免疫** | 辨识源头通稿夸大、算法偏见与生成式 AI 伪证 | 媒体素养融合课程、数字网络信息消费与事实核查 | Sumner et al. (2014); West & Bergstrom (2021) |
 > | **政策决策证据素养** | 揭示立法者信源偏误短板并推进全政策社群 STEM 与数据分析技能建设 | 议会立法审议、政府科研采购与公共政策循证评估 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society (2026, Ch. 5, pp. 82–83)]] |
@@ -261,9 +261,9 @@ updated: 2026-09-21
 > [!debates] 核心学术争议与张力
 >
 > > [!axis] 全民公民通识素养 vs 精英专业科研管网（[[STEM Education|STEM]] Pipeline）
-> > 科学课程应当优先服务于培养极少数拔尖科学家，还是赋能全体未来公民？
+> > 科学课程应当优先服务于培养极少数拔尖科学家，还是培养全体未来公民？
 > > - **精英主义选拔论** 强调高难度数理硬核推演与专业术语记忆，担忧强调通识素养会稀释学术严谨性，导致国家失去尖端科技竞争力。
-> > - **公民素养赋能论** 指出 90% 以上的学生未来不会从事科研职业；缺乏通识素养将导致大众在伪科学与极化舆论中迷失，摧毁科技创新的民意与道德执照。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> > - **公民素养本位论** 指出 90% 以上的学生未来不会从事科研职业；缺乏通识素养将导致大众在伪科学与极化舆论中迷失，摧毁科技创新的民意与道德执照。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 >
 > > [!axis] 事实性核心知识积累 vs [[Nature of Science|科学本质]]探究过程（Nature of Science）
 > > 掌握足够的学科事实概念是前提，还是探究过程能力更为核心？
