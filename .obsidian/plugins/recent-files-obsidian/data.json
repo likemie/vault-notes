@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Cartiff_2021_JEP",
+      "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md"
+    },
+    {
+      "basename": "Argument_Greene_2018_JEP",
+      "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md"
+    },
+    {
       "basename": "Argument_Du_Yuan_2026_AIS",
       "path": "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
-    },
-    {
-      "basename": "Avatar",
-      "path": "wiki/concepts/educational-technology/Avatar.md"
-    },
-    {
-      "basename": "Executive Function",
-      "path": "wiki/concepts/learning-science-cognitive-science/Executive Function.md"
     }
   ],
   "omittedPaths": [],

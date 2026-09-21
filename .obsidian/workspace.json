@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md",
+                "file": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Du_Yuan_2026_AIS"
+              "title": "Argument_Cartiff_2021_JEP"
             }
           },
           {
@@ -262,6 +262,10 @@
   },
   "active": "41073bf3fc60164f",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md",
+    "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md",
+    "sources/Cartiff_2021_JEP/figures/fig2_funnel_plot_diagnostics.png",
+    "sources/Cartiff_2021_JEP/figures/fig1_prisma_search_flowchart.png",
     "sources/Cartiff_2021_JEP/Cartiff_2021_JEP.md",
     "sources/Cartiff_2021_JEP/figures",
     "sources/Cartiff_2021_JEP/Cartiff_2021_JEP.pdf",
@@ -275,7 +279,6 @@
     "raw/EBSCO-FullText-09_21_2026.pdf",
     "raw/978-3-319-62616-1.pdf",
     "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md",
-    "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md",
     "wiki/theories/educational-philosophy/Epistemic Injustice.md",
     "wiki/persons/us/John Hardwig.md",
     "wiki/concepts/competency-and-assessment/Feedback Literacy.md",
@@ -296,7 +299,6 @@
     "wiki/concepts/instruction-pedagogy/Brainstorming.md",
     "wiki/concepts/research-methodology/Reflexivity.md",
     "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md",
-    "wiki/concepts/educational-psychology/Epistemic Stances.md",
     "sources/Du_Yuan_2026_AIS.pdf",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig2_Following_People_Policy_Money.jpg",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig1_SVA_Expansive_Network.jpg",
@@ -305,8 +307,6 @@
     "sources/Jansen_2026_EPR/figures/Jansen_2026_EPR_Fig1_Study_Procedure.jpg",
     "sources/Hartong_2018_GSE/figures/Hartong_2018_GSE_Fig1_Standardised_Performance_Assessments_Germany.jpg",
     "sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig2_Meta_Analysis_to_Kurzreview_Translation.jpg",
-    "sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig1_Clearing_House_Unterricht_Brokerage_Model.jpg",
-    "sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig4_AERO_Directors_Coaffiliations.png",
-    "sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig4_AERO_Directors_Coaffiliations.jpg"
+    "sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig1_Clearing_House_Unterricht_Brokerage_Model.jpg"
   ]
 }
