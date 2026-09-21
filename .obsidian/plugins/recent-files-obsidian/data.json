@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Cartiff_2021_JEP",
+      "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md"
+    },
+    {
+      "basename": "Effective Teaching",
+      "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
+    },
+    {
+      "basename": "Fade-out Effect",
+      "path": "wiki/concepts/educational-policy-reform/Fade-out Effect.md"
+    },
+    {
       "basename": "Inquiry-Based Learning",
       "path": "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md"
+    },
+    {
+      "basename": "Procedural Skill",
+      "path": "wiki/concepts/learning-science-cognitive-science/Procedural Skill.md"
+    },
+    {
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
+    },
+    {
+      "basename": "Direct Instruction",
+      "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
+    },
+    {
+      "basename": "Working Memory",
+      "path": "wiki/concepts/learning-science-cognitive-science/Working Memory.md"
+    },
+    {
+      "basename": "Scaffolding",
+      "path": "wiki/concepts/instruction-pedagogy/Scaffolding.md"
+    },
+    {
+      "basename": "Discovery Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Discovery Learning.md"
     },
     {
       "basename": "Rote Learning",
@@ -11,10 +47,6 @@
     {
       "basename": "Epistemic Agency",
       "path": "wiki/concepts/educational-psychology/Epistemic Agency.md"
-    },
-    {
-      "basename": "Argument_Cartiff_2021_JEP",
-      "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md"
     },
     {
       "basename": "Academic Achievement",
@@ -85,10 +117,6 @@
       "path": "wiki/concepts/competency-and-assessment/Metacognition.md"
     },
     {
-      "basename": "Working Memory",
-      "path": "wiki/concepts/learning-science-cognitive-science/Working Memory.md"
-    },
-    {
       "basename": "Extended Mind Theory",
       "path": "wiki/theories/learning-science-cognitive-science/Extended Mind Theory.md"
     },
@@ -111,10 +139,6 @@
     {
       "basename": "Clark A. Chinn",
       "path": "wiki/persons/us/Clark A. Chinn.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
     },
     {
       "basename": "Alvin Goldman",
@@ -175,30 +199,6 @@
     {
       "basename": "Inq-Blotter",
       "path": "wiki/facts/us/Inq-Blotter.md"
-    },
-    {
-      "basename": "Centre for Educational Research and Innovation",
-      "path": "wiki/facts/global/Centre for Educational Research and Innovation.md"
-    },
-    {
-      "basename": "Randomised Controlled Trials",
-      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
-    },
-    {
-      "basename": "Scaffolding",
-      "path": "wiki/concepts/instruction-pedagogy/Scaffolding.md"
-    },
-    {
-      "basename": "Interaction Effect",
-      "path": "wiki/concepts/research-methodology/Interaction Effect.md"
-    },
-    {
-      "basename": "Self-Efficacy",
-      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
-    },
-    {
-      "basename": "Heterogeneity",
-      "path": "wiki/concepts/research-methodology/Heterogeneity.md"
     }
   ],
   "omittedPaths": [],

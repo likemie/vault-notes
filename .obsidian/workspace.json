@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md",
-                "mode": "preview",
+                "file": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inquiry-Based Learning"
+              "title": "Argument_Cartiff_2021_JEP"
             }
           },
           {
@@ -262,10 +262,18 @@
   },
   "active": "41073bf3fc60164f",
   "lastOpenFiles": [
-    "wiki/concepts/instruction-pedagogy/Rote Learning.md",
-    "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md",
-    "wiki/concepts/educational-psychology/Epistemic Agency.md",
+    "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md",
+    "wiki/concepts/educational-policy-reform/Fade-out Effect.md",
+    "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md",
+    "wiki/concepts/learning-science-cognitive-science/Procedural Skill.md",
+    "wiki/concepts/university-industry-collaboration/Knowledge Production.md",
+    "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
+    "wiki/concepts/learning-science-cognitive-science/Working Memory.md",
+    "wiki/concepts/instruction-pedagogy/Scaffolding.md",
+    "wiki/concepts/instruction-pedagogy/Discovery Learning.md",
+    "wiki/concepts/instruction-pedagogy/Rote Learning.md",
+    "wiki/concepts/educational-psychology/Epistemic Agency.md",
     "wiki/concepts/competency-and-assessment/Academic Achievement.md",
     "wiki/concepts/educational-psychology/Justificatory Standards.md",
     "wiki/concepts/educational-psychology/Epistemic Cognition.md",
@@ -293,14 +301,6 @@
     "wiki/methods/qualitative/Lateral Reading.md",
     "wiki/concepts/competency-and-assessment/Evaluative Judgement.md",
     "wiki/concepts/instruction-pedagogy/Homework.md",
-    "wiki/theories/political-economy-geopolitics/Hegemony.md",
-    "wiki/concepts/educational-psychology/Epistemic Friction.md",
-    "wiki/concepts/instruction-pedagogy/Blended Learning.md",
-    "wiki/concepts/higher-education/Student Engagement.md",
-    "wiki/theories/educational-philosophy/Phenomenology.md",
-    "wiki/concepts/competency-and-assessment/AI Literacy.md",
-    "wiki/concepts/educational-philosophy/Scientific Uncertainty.md",
-    "wiki/concepts/educational-psychology/Epistemic Ideals.md",
     "sources/Du_Yuan_2026_AIS.pdf",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig2_Following_People_Policy_Money.jpg",
     "sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig1_SVA_Expansive_Network.jpg",

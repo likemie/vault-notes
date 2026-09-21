@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -56,6 +56,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
 status: active
 created: 2026-09-10
@@ -144,6 +145,9 @@ updated: 2026-09-21
 > [!claim] [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] & Chinn & Duncan
 > **认识能动性对概念重构的实质支撑** 在[[Direct Instruction|直接教学]]中，认识能动权几乎完全由教师垄断，学生仅负责接收与消化，容易导致知识仅停留在表层程序记忆，在长周期保持中严重衰减；而在包含有效支架的[[Inquiry-Based Learning|探究式教学]]中，学生行使认识能动性，通过[[Hypothesis|假设]]提出、变量协调与证据检验主动协调认知冲突，促成[[Working Memory|工作记忆]]资源向关联认知加工的高效转化，达成直接讲授无法企及的深度概念理解与长期保持。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–3)]]
 
+> [!claim] Cartiff et al.
+> **支架保障下的主体能动性与避免虚假放权** 在认识论教学干预中，赋予学习者认识能动权绝非任其自流。缺乏指导的自由探索与开放辩论表面上给予了学生充分自由，但因缺乏明确的证据确证准则与方法学脚手架，极易引发认知超载并使探究退化为低效争辩；唯有通过显性教学和结构化支架，帮助学生掌握变量控制与信源评估规程，认识主体性才能真正转化为审慎检验假设与协调因果解释的有效认知行动。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 485–486, 492)]]
+
 ---
 
 ### 命题三　赋予学习者认识能动性是消除课堂话语边缘化并实现认识正义的必要途径
@@ -172,7 +176,7 @@ updated: 2026-09-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **教学机制命题** | 认识能动性依赖元[[Epistemology\|认识论]]审议与标准协商，反对教条式规则灌输 | 基于模型的科学探究教学、论辩对话课堂 | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025, pp. 222–223)]] |
-> | **概念内化命题** | 认识能动性是指导式探究区别于直接教学的本质特征，驱动深层长效图式重组 | 理科实验设计、复杂科学概念转变教学 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 2–3)]]; Chinn & Duncan (2018) |
+> | **概念内化命题** | 认识能动性是指导式探究区别于直接教学的本质特征，驱动深层长效图式重组；需防范无支架的虚假放权 | 理科实验设计、复杂科学概念转变教学、认识论认知干预 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 2–3)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]]; Chinn & Duncan (2018) |
 > | **社会正义命题** | 认识能动性重构课堂知识生产权力格局，抵御认识边缘化与不正义 | 多元文化背景学校、弱势生源科学课堂 | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025, pp. 223–224)]] |
 > | **关系性认识命题** | 认识主体性在人机共生情境中具关系性特征，要求在技术相互依赖中保有质疑、核验与责任承担能力 | 生成式人工智能介入的探究、写作与评价情境 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026, pp. 7–8)]] |
 
@@ -184,6 +188,7 @@ updated: 2026-09-21
 > - **2000 年代初 — [[Knowledge Production|协作知识建构]]初涉** 计算机支持的协作学习（CSCL）学者探讨学习者对知识共同体认知产物的集体责任，初步提出分布式认识能动性假说。
 > - **2014 年 — 科学实践行动赋权确立** 科学教育学者系统界定课堂语境下的认识能动性，强调学生必须在科学实践中被赋予提出探究问题、[[Design-Based Research|设计实验]]调查与修正理论模型的行动裁决权。
 > - **2018–2023 年 — 探究教学六要素核心支柱定位** [[Clark A. Chinn|克拉克·钦]]（Clark A. Chinn）与拉维特·戈兰·邓肯（Ravit Golan Duncan）将认识能动性提炼为有效科学探究六要素的核心枢纽，并在 [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 中作为反击极简指导污名化的理论支点。
+> - **2021 年 — 认识论干预元分析确立支架对能动性行使的奠基作用** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 针对 26 项实验与准实验研究的元分析证实，放任自流的纯自主辩论与无指导问题解决无法带来稳定的学业增益，唯有在结构化指导与证据评估支架下行使认识主体性，才能有效推动认识论发展与深层成就提升。
 > - **2025 年 — 元[[Epistemology|认识论]]审议与认识正义深化** Duncan 与 Chinn 将认识能动性深化为学生对[[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠过程]]的元认识论反思，确立了通过认识能动赋权消除课堂话语不平等的实践新[[Paradigm|范式]]。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 222–224)]]
 > - **2026 年 — 关系性认识主体性与人机相互依赖转向** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 结合生成式人工智能在教育中的普及，反思将主体性等同于技术纯洁性的孤立观，确立关系性认识主体性（Relational Epistemic Agency）作为规范目标，提出通过可质疑性、可恢复性、可迁移性与分布式责任等标准，在人机相互依赖格局中捍卫学习者的批判审议与实质认识参与。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 7–8)]]
 
@@ -210,6 +215,13 @@ updated: 2026-09-21
 
 ## 实证数据
 
+> [!ma-table]- 一阶元分析教学模式调节结果
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 认识能动权行使条件（教学模式） | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 组间检验 | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 指导式探究（有支架行使能动权） vs. 开放论证与无指导 PBL（放任自流） | 28 篇（59 个效应量） / 4,373 | Cohen's $d$，随机效应模型 | 指导式探究 $d = 0.808$ $[0.313, 1.302]$；问题驱动学习 $d = 0.340$；开放论证教学 $d = 0.134$（不显著） | $Q_b(5) = 17.491, p < .01$ | 证实缺乏证据规程支架的所谓“自主能动”往往沦为表层盲动；结构化指导是保障认识能动性有效转化的先决条件 |
+
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -227,4 +239,5 @@ updated: 2026-09-21
 > - **[[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]]** — 揭示初中生在格陵兰食物网口头辩论中，如何在教师促学引导下展现高度的认识能动性，自主推导并协同确立生态观察的五大专业[[Reliability|可靠性]]规范。
 > - **[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]** — 提出关系性认识主体性（Relational Epistemic Agency）作为规范目标，通过六维诊断标准与四条社会技术路径划定生产性依赖与有害性依赖的边界，为智能时代维护学习者的实质认识权能提供理论与设计指引。
 > - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]** — 将认识能动性确立为有效科学探究的核心要素之一，论证其在协调证据与模型、克服单一[[Direct Instruction|直接教学]]长效保持脆弱性中的不可替代价值。
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]** — 针对认识论认知干预的元分析证实，放任自流式的开放辩论与无指导问题解决效果微弱，唯有依托结构化支架与显性证据确证规则的指导式探究，才能实质性保障学生认识能动性的落地与学业促进。
 > - **[[Argument_Chinn_2011_EP|Chinn et al. (2011)]]** — 提出扩展[[Epistemic Cognition|认识论认知]]分析维度，为后续将认识能动性落地为 [[AIR Model of Epistemic Cognition|AIR]] 模型中的[[Reliable Epistemic Processes|可靠过程]]与[[Epistemic Ideals|认识论理想]]提供理论基础。
