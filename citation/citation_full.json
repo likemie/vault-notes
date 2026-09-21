@@ -4029,33 +4029,16 @@
       "title": "Argument_Keddie_2020_IJLE",
       "year": "2020"
     },
-    "Kelly & Licona (2018)": {
+    "Kelly et al. (2018)": {
       "aliases": [
-        "Kelly & Licona, 2018",
-        "Kelly & Licona (2018)"
+        "Kelly et al., 2018",
+        "Kelly et al. (2018)"
       ],
       "argument": "Argument_Kelly_Licona_2018_EpistemicPractices",
       "authors": [
         "Kelly, G. J.",
-        "Licona, P."
-      ],
-      "citation": "Kelly, G. J., & Licona, P. (2018). Epistemic practices and science education. In M. R. Matthews (Ed.), History, philosophy and science teaching: New perspectives (pp. 139–165). Cham: Springer.",
-      "doi": "10.1007/978-3-319-62616-1_5",
-      "isbn": "978-3-319-62614-7",
-      "path": "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md",
-      "source_language": "en",
-      "title": "Argument_Kelly_Licona_2018_EpistemicPractices",
-      "year": "2018"
-    },
-    "Kelly & Licona, 2018": {
-      "aliases": [
-        "Kelly & Licona, 2018",
-        "Kelly & Licona (2018)"
-      ],
-      "argument": "Argument_Kelly_Licona_2018_EpistemicPractices",
-      "authors": [
-        "Kelly, G. J.",
-        "Licona, P."
+        "Licona, P.",
+        "Matthews, M. R."
       ],
       "citation": "Kelly, G. J., & Licona, P. (2018). Epistemic practices and science education. In M. R. Matthews (Ed.), History, philosophy and science teaching: New perspectives (pp. 139–165). Cham: Springer.",
       "doi": "10.1007/978-3-319-62616-1_5",
@@ -4083,6 +4066,25 @@
       "source_language": "en",
       "title": "Argument_Kelly_2025_ROE",
       "year": "2025"
+    },
+    "Kelly et al., 2018": {
+      "aliases": [
+        "Kelly et al., 2018",
+        "Kelly et al. (2018)"
+      ],
+      "argument": "Argument_Kelly_Licona_2018_EpistemicPractices",
+      "authors": [
+        "Kelly, G. J.",
+        "Licona, P.",
+        "Matthews, M. R."
+      ],
+      "citation": "Kelly, G. J., & Licona, P. (2018). Epistemic practices and science education. In M. R. Matthews (Ed.), History, philosophy and science teaching: New perspectives (pp. 139–165). Cham: Springer.",
+      "doi": "10.1007/978-3-319-62616-1_5",
+      "isbn": "978-3-319-62614-7",
+      "path": "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md",
+      "source_language": "en",
+      "title": "Argument_Kelly_Licona_2018_EpistemicPractices",
+      "year": "2018"
     },
     "Kelly et al., 2025": {
       "aliases": [
