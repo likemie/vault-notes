@@ -9,7 +9,6 @@ theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
 aliases:
   - "女性认知方式"
-  - "women's ways of knowing"
 tags:
   - "theme/epistemological-beliefs"
 related_concepts:
@@ -31,7 +30,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-09-15
+updated: 2026-09-21
 ---
 
 # Women's Ways of Knowing
@@ -53,7 +52,7 @@ updated: 2026-09-15
 
 > [!chain-link]
 > - **前提一** 传统男性视角忽视了关怀、联系与女性个体的自我概念发展。
-> - **机制一** 沉默（Silence）与[[Received Knowledge|接收知识]]（Received knowledge）：知识来源于外部。
+> - **机制一** 沉默（Silence）与[[Received Knowledge|接收知识]]（Received knowledge）：[[Source of Knowledge|知识来源]]于外部。
 > - **机制二** [[Subjective Knowledge|主观知识]]（Subjective knowledge）：真理的来源转向内在自我。
 > - **机制三** [[Procedural Knowledge|程序知识]]（Procedural Knowledge）：区分为分离型认知（Separate knowing）与连结型认知（Connected knowing）。
 > - **结论一** [[Constructed Knowledge|建构知识]]（Constructed knowledge）：整合了主客观策略，认知者自身成为[[Knowledge Production|知识建构]]的紧密参与者。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 95)]]
@@ -63,4 +62,4 @@ updated: 2026-09-15
 > [!theory-boundary] 
 > - **适合** 解释女性的自我概念转变及其对知识看法的深层影响。
 > - **不适合** 用于断定某些[[Ways of Knowing|认知方式]]仅为女性独有，因为缺乏男性对照组。
-> - **局限** 将知识来源（[[Source of Knowledge]]）的重心置于知识的性质（[[Epistemology|nature of knowledge]]）之上。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 96)]]
+> - **局限** 将[[Source of Knowledge|知识来源]]（[[Source of Knowledge]]）的重心置于知识的性质（[[Epistemology|nature of knowledge]]）之上。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 96)]]

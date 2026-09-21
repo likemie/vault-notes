@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "STEM Education",
-      "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
-    },
-    {
       "basename": "Argument_Kelly_Licona_2018_EpistemicPractices",
       "path": "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md"
+    },
+    {
+      "basename": "Scientific Method",
+      "path": "wiki/concepts/educational-philosophy/Scientific Method.md"
+    },
+    {
+      "basename": "Ways of Knowing",
+      "path": "wiki/concepts/curriculum/Ways of Knowing.md"
+    },
+    {
+      "basename": "Enlightenment",
+      "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
+    },
+    {
+      "basename": "STEM Education",
+      "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
     },
     {
       "basename": "Chain of Evidence",
@@ -39,10 +51,6 @@
     {
       "basename": "Epistemic Practices",
       "path": "wiki/concepts/instruction-pedagogy/Epistemic Practices.md"
-    },
-    {
-      "basename": "Scientific Method",
-      "path": "wiki/concepts/educational-philosophy/Scientific Method.md"
     },
     {
       "basename": "Problem-Based Learning",
@@ -191,14 +199,6 @@
     {
       "basename": "Student Engagement",
       "path": "wiki/concepts/higher-education/Student Engagement.md"
-    },
-    {
-      "basename": "Phenomenology",
-      "path": "wiki/theories/educational-philosophy/Phenomenology.md"
-    },
-    {
-      "basename": "AI Literacy",
-      "path": "wiki/concepts/competency-and-assessment/AI Literacy.md"
     }
   ],
   "omittedPaths": [],
