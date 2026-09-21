@@ -25,6 +25,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
+  - "[[Epistemic Cognition]]"
   - "[[Evidence Standards]]"
   - "[[Epistemological Understanding]]"
   - "[[Authentic Instruction]]"
@@ -111,6 +112,7 @@ related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Erdem_2026_SHE]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -123,7 +125,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Critical Thinking
@@ -274,6 +276,9 @@ updated: 2026-09-17
 > [!claim] [[Deanna Kuhn|Kuhn, D.]], Cheney, R., & Weinstock, M.
 > **多元论的宽容陷阱抑制批判性思维** Kuhn 指出，批判性思维不仅仅是一套可被传授的认知技能，其发生强烈依赖于个体在[[Epistemological Understanding|认识论理解]]上达成了评价论（即相信知识虽是主观建构的，但有优劣之分，可以通过证据评估）。大多数成年人停滞在中间过渡态的多元论（认为所有知识纯属主观意见，同等有效），并把现代社会倡导的对多元意见的“宽容”误认为是不可侵犯的权利，从而消解了用证据批判和比较观点的动机，导致批判性思维永久停滞。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, pp. 325–326)]]
 
+> [!claim] [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]
+> **认识论干预对批判性论证的因果确立与发展窗口破除** 在关于认识论认知对学业成就因果效应的一阶元分析中，干预在不同成就指标上展现出鲜明的层级梯次：对论证表现（Argumentation Performance）的因果促进最为强劲（$d = 1.047$），对深层概念转变同样显著（$d = 0.557$），直接印证了深层认识论思维与证据评估是驱动批判性论证的核心认知引擎。更关键的是，该元分析打破了传统发展论认为“中小学生因认知未成熟而无法开展高阶批判与认识论探究”的迷思：实证显示小学生（$d = 0.584$）与中学生（$d = 0.534$）的干预收益显著高于大学生（$d = 0.288$），确立了 K-12 基础教育阶段正是发展批判性思维与认识论素养的黄金窗口。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 487–488, 493)]]
+
 ### 命题六　生成式人工智能介入下的批判性思维发展高度依赖显性反思支架与认识论警觉的维持
 
 > [!concept-lens] 人工智能协同与[[Epistemology|认识论]]摩擦维持维度
@@ -297,7 +302,7 @@ updated: 2026-09-17
 > | **教学与实施** | 显性教学具有显著优势，效果依赖领域知识与实施条件 | 课程设计、教师发展、课堂干预 | Abrami et al.; Behar-Horenstein & Niu; Marin & Halpern; Willingham; Cole et al. |
 > | **迁移条件** | 通用认知结构通过领域知识和情境线索实现迁移 | 跨学科课程、迁移任务 | Halpern; Salomon & Perkins; Glaser; Lave; Ritchhart & Perkins |
 > | **操作化与效度** | 目标与评估须充分覆盖构念，高等教育普遍面临增益匮乏与评价断裂 | 课程审查、[[Learning Gain\|学习增益]]评估、效度研究 | Hughes; Zemplén; Bergeron & Rogers; Bok; Arum & Roksa; Huber & Kuncel; Bouckaert |
-> | **认知动力** | 评价论是触发批判性思维论辩的[[Epistemology\|认识论]]引擎 | 成人思维发展、批判动机缺失 | [[Deanna Kuhn\|Kuhn]] |
+> | **认知动力** | 评价论是触发批判性思维论辩的[[Epistemology\|认识论]]引擎，认识论干预对高阶批判论证产生最强因果促进并确立基础教育黄金窗口 | 成人思维发展、批判动机缺失、基础教育认识论课程 | [[Deanna Kuhn\|Kuhn]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |
 > | **人机[[Epistemological Vigilance\|认识论警觉]]** | 维持认识论摩擦与显性反思规程是防止 AI 诱发认知卸载的核心机制；在对抗辩论等情境中，AI 偶尔犯错反而能激发学生多方求证与深入反思 | 人机协同探究、对抗辩论与高等教育 AI 整合 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Strobl et al. (2024); Fan et al. (2025); [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 
 ---
@@ -385,6 +390,7 @@ updated: 2026-09-17
 > | 同上 | 结果变量（[[Self-Regulated Learning\|自主调节学习]]） | 高 [[Self-Regulated Learning\|SRL]] 能力组（$k = 31$） vs 低 SRL 能力组（$k = 25$） | $k = 56$ / — | 高 SRL $g = 0.863$ $[0.679, 1.048]$；低 SRL $g = 0.284$ $[0.188, 0.380]$ | $Q_b = 40.962, df = 1, p < 0.001$ | 自我调节构成最显著分流门槛，高自律学生能主动识破幻觉并进行批判抗辩，低自律易盲从 |
 > | 同上 | 结果变量（教学模式） | 讲授式（$k = 6$） vs [[Problem-Based Learning\|项目式学习]]（$k = 31$） vs 混合式（$k = 22$） | $k = 59$ / — | 讲授式 $g = 0.396$（不显著）；项目式 $g = 0.717$；混合式 $g = 0.525$ | $Q_b = 2.918, df = 2, p = 0.232$ | 探究式与人机对抗活动更能激活多源核验与[[Reflexivity\|反思性]]证据评估 |
 > | 同上 | 结果变量（高阶认知维度级差） | 问题解决（$k = 16$） vs [[Critical Thinking\|批判性思维]]（$k = 20$） vs [[Creativity\|创造力]]（$k = 23$） | $k = 59$ / — | 问题解决 $g = 0.745$；批判性 $g = 0.691$；创造力 $g = 0.444$ | $Q = 4.961, df = 2, p = 0.084$ | 批判性思维增益居中偏强，展现出在人机互动中辨别真伪、推敲观点对审思与求证意识的显著激发 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果[[Variable\|变量]]（高阶成就维度与学段） | 论证表现（$k = 5$） vs 概念性知识（$k = 18$） vs 陈述性知识（$k = 10$） vs 程序性知识（$k = 17$）；小学（$k = 7$） vs 中学（$k = 11$） vs 大学（$k = 10$） | $k = 59$ / $N = 4{,}373$ | 论证表现 $d = 1.047$；概念性 $d = 0.557$；陈述性 $d = 0.407$；程序性 $d = 0.140$；小学 $d = 0.584$；中学 $d = 0.534$；大学 $d = 0.288$ | 结果类型 $Q_b(4) = 8.169, p = .086$；学段 $Q_b(2) = 6.467, p < .05$ | 证实认识论认知干预对高阶批判性论证表现产生最大的因果促进效应，并破除发展论迷思确立基础教育黄金期（pp. 487–488） |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联[[Construct\|构念]] | 双主观组合（创造力主观 × 批判性思维主观） | — | $r = 0.509$ | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ | 相关最高；逐组合样本量与 95% CI 未在正文报告，见原文图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
 > | 同上 | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | — | $r = 0.317$ | 同上 | 高于全部混合组合，支持表现型测量间存在真实认知重叠 |
 > | 同上 | 关联构念 | 创造力客观 × 批判性思维主观组合 | — | $r = 0.260$ | 同上 | 混合组合相关居中 |
@@ -435,4 +441,5 @@ updated: 2026-09-17
 > - **与[[Creativity|创造力]]关系的元分析实证** [[Argument_Park_2026_TSC|Park et al. (2026)]] 综合 29 项学生研究 51 个[[Effect Size|效应量]]，确立批判性思维与创造力中等正相关（$r = 0.386$），并证实测量类型显著调节相关，双主观测量组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
 > - **[[Generative Artificial Intelligence|生成式人工智能]]赋能与[[Epistemic Friction|认识论摩擦]]机制** [[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项实证研究，揭示 ChatGPT 对批判性思维具有催化反思与诱发认知惰性的双重效应，确立了维持认识论摩擦与显性反思支架防范批判性论证退化的教学干预机制。
 > - **生成式 AI 促进批判性思维的元分析实证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 运用随机效应[[Meta-analysis|元分析]]综合 29 项实验与准实验（其中批判性思维子维度 $k = 20$），证实生成式 AI 对学生批判性思维具有中等偏强的显著促进效应（$g = 0.691$），并指出 AI 偶尔出现的错误反而促使学生保持怀疑，把“给 AI 挑错与核实证据”转化为锻炼批判性思维的契机。
+> - **认识论认知干预与批判性论证元分析** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 综合 26 项实验与准实验干预（$N = 4,373$），证实认识论认知干预对高阶论证表现产生大幅因果促进效应（$d = 1.047$），并打破发展论迷思，确立 K-12 基础教育阶段是批判性思维与认识论素养培育的黄金窗口期。
 > - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（VALUE/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。

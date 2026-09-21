@@ -9,9 +9,9 @@ summary: "科学教育与认识论的核心概念，指对科学作为独特知�
 type: concept
 domain: "competency-and-assessment"
 related_count: 31
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 concept_field: "competency-and-assessment"
 tags:
   - science-education

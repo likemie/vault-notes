@@ -37,6 +37,8 @@ related_concepts:
   - "[[Norm-Referenced Test]]"
   - "[[Variable]]"
   - "[[Evidence Standards]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Epistemic Cognition]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
@@ -57,10 +59,11 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Developer-Made Measures
@@ -107,6 +110,8 @@ updated: 2026-09-17
 > - **内容过度对齐（Overalignment）** 自编测验题目往往直接抽样自实验教材的特定章节或训练例题；对照组学生即便掌握了同等学科能力，也会由于未接触特定词汇或表达形式而在测验中表现劣势。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 10)]]
 > - **[[Effect Size|效应量]]虚夸（Effect Size Inflation）** 实证[[Meta-analysis|元分析]]表明，使用开发者或研究者自编测验的研究，其报告的加权效应量通常是独立标准化测验的 1.5 至 2 倍，造成了方案“高度有效”的统计学假象。
 > - **非复现性陷阱（Nonreplication Driver）** 当高效应量方案脱离原开发者团队并在真实学区接受第三方采用独立标准化测试复现时，原有的显著效应往往迅速崩溃甚至归零，成为[[Replication in Education Research|教育研究复现]]危机的主要推手。
+> - **深层构念敏感度与常规测验错配（Construct Sensitivity vs Metric Mismatch）** 在[[Higher-Order Thinking Skills|高阶思维]]、概念转变与[[Epistemic Cognition|认识论认知]]等复杂干预中，常规期末考与外部标准化测验主要考核陈述性事实与机械程序提取，对高阶认知结构的变化不敏感；研究者自编测验能够针对复杂论证与概念转变开展细颗粒度测量，因而呈现出更高的测量敏感度。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, p. 488)]]
+> - **测验类型与干预时长的结构性混淆（Structural Confounding with Duration）** 短周期干预通常全部采用研究者自编测验，而全学期长周期干预往往被迫采用学校常规期末考，造成“长期干预效果反而衰退”的表象，实质混淆了测验工具敏感度与干预时长的真实效应。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, p. 492)]]
 > - **循证清算准入门控（[[Educational Evidence Clearinghouses|Clearinghouse]] Gatekeeping）** 现代证据审查平台（如 [[Evidence for ESSA]]、[[What Works Clearinghouse|WWC]]）将“测量工具是否独立于开发者与研究者”列为前置质控红线，坚决剔除以自编测验作为唯一确证性指标的研究。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 3–4)]]
 
 ---
@@ -135,17 +140,35 @@ updated: 2026-09-17
 
 ---
 
+### 命题三　在高阶认知干预中自编测验具备常规测验所缺失的深层构念敏感度
+
+> [!concept-lens] 测量敏感度与深层思维评估
+> 探讨在复杂认知与认识论干预中，自编测验的高效应量究竟源于方法学虚夸，还是反映了常规测验对深层思维变化的测量钝化。
+
+> [!claim] [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]
+> **高阶构念对齐与测量敏感度** 在针对认识论认知干预的一阶元分析中，研究者自编测验呈现出显著的学业促进效应（$d = 0.651$），而任课教师自编常规期末测验的效应几近于零（$d = 0.012$）。这种显著落差揭示了常规测验与高阶干预之间的目标错配：认识论干预的实际增益集中于高阶论证能力与深层概念转变，学校日常期末考大多考核现成公式套用与机械死记硬背，因而无法测量出深层思维变化；研究者自编测验专为评估概念结构与论证质量而设计，其测得的高效应量主要反映了对深层构念变化的高敏感度，而非单纯的人为过度对齐偏倚。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 488, 492)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 开发者自编测验核心命题归纳
 > | 命题类型 | 核心理论指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **效应虚夸命题** | 自编测验因内容过度对齐干预教材导致加权效应量被系统性人为放大 | 教育干预评估方法审查、测量工具选择 | [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
+> | **效应虚夸命题** | 自编测验因内容过度对齐干预教材导致加权效应量被系统性人为放大 | 教育干预评估方法审查、测量工具选择 | [[Argument_Slavin_2019_EP|Slavin (2019)]] |
 > | **复现质控命题** | 强制采用第三方独立标准化测验是消除评估者偏差、化解复现危机的必要制度基石 | 循证清算中心评级准入、联邦研发资助验收标准 | 同上 |
+> | **构念敏感度命题** | 自编测验在高阶认知任务中具备常规考卷缺失的深层构念敏感度，避免了常规测验的测量钝化 | 复杂认知与认识论干预、深层概念转变与论证表现评估 | [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] |
 
 ---
 
 ## 实证数据
+
+> [!ma-table]- 一阶元分析测验工具类型调节效应
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 调节变量（学业成就测量工具类型） | 研究者自编测验 vs 任课教师自编常规期末测验 | 自编测验 $k=20, N=2,429$；教师常规测验 $k=5, N=789$ | 自编测验 $d = 0.651$ $[0.456, 0.846]$；教师常规测验 $d = 0.012$ $[-0.449, 0.473]$ | $Q_b = 6.446, df = 1, p < .05$ | 证实自编测验对深层思维变化敏感，而教师常规考卷无法体现高阶认识论收益；同时单次至中期干预 100% 采用自编测验，存在与时长的混淆（pp. 487–488） |
 
 > [!contrast-table]- 证据审查平台对测量工具独立性的[[Operationalization|操作化]]判定规程（[[Argument_Slavin_2019_EP|Slavin, 2019, pp. 3–4, 10]]）
 > | 证据审查机构 / 平台 | 测量工具准入标准 | 对开发者自编测验的处理政策 | 典型合规工具范例 | 质控效能与影响 |
@@ -160,6 +183,7 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 桑代克终身成就奖论著，深刻剖析开发者自编测验导致[[Effect Size|效应量]]虚高与[[Replication in Education Research|复现危机]]的内在机制，阐述 [[Evidence for ESSA]]、[[What Works Clearinghouse|WWC]] 及 [[Education Endowment Foundation|EEF]] 强制排除自编测验的政策质控意义。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 认识论认知干预元分析，检验测量工具类型的调节效应（研究者自编测验 $d = 0.651$ vs 教师常规测验 $d = 0.012, Q_b = 6.446$），从深层构念敏感度与常规测验钝化角度提供了超越纯偏倚论的解释视角。
 > - [[Evidence Standards]] — 法定因果证据分级标准主条目，阐述结局测量独立性在判定 [[Every Student Succeeds Act|ESSA]] 强/中证据中的红线地位。
 > - [[Replication in Education Research]] — 教育研究复现危机条目，分析自编测验、小样本与开发者自评三者如何共同驱动非复现性。
 > - [[Evaluator Independence]] — 评估者独立性主条目，剖析第三方评估与独立测量的防火墙隔离机制。
