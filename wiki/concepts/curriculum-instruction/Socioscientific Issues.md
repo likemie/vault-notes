@@ -24,7 +24,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Growth]]"
   - "[[Scientific Uncertainty]]"
-  - "[[Epistemic Agency]]"
   - "[[Dialogue in Education]]"
   - "[[Nature of Science]]"
   - "[[Critical Thinking]]"
@@ -91,15 +90,15 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!feature] 社会科学议题教学的核心构成要素
-> - **结构不良的争议情境（Ill-Structured Dilemmas）** 
+> - **结构不良的争议情境** 
 >   议题没有预设的唯一标准答案，充满[[Scientific Uncertainty|科学不确定性]]、证据冲突与价值张力。
-> - **非形式推理（Informal Reasoning）** 
+> - **非形式推理** 
 >   在面对不完全信息时，综合运用理性逻辑、情感关怀与直觉权衡进行因果推论与价值权衡。
-> - **多元视角权衡（Multi-Perspective Adjudication）** 
+> - **多元视角权衡** 
 >   系统统合理性科学视角、生态环保视角、商业经济视角与人道主义伦理视角。
-> - **反驳论据建构（Rebuttal Construction）** 
+> - **反驳论据建构** 
 >   在为自身立场辩护的同时，预先识别对方观点的合理性并构建有针对性的反驳抗辩。
-> - **[[Epistemology|认识论]]能动性与公民审议（[[Epistemic Agency]] & Civic Deliberation）** 
+> - **[[Epistemology|认识论]]能动性与公民审议** 
 >   引导学生建立作为公共知者的身份认同，依托证据与理性说服而非盲从权威参与公共[[Dialogue in Education|对话]]。
 
 ---
@@ -114,10 +113,10 @@ updated: 2026-09-22
 > 探讨 SSI 教学情境如何促使学生超越刻板的形式逻辑，在复杂现实问题中提升论证与证据评估水平。
 
 > [!claim] Sadler, T. D. (2004)
-> **非形式推理的质性跃升** [[Michael Sadler|萨德勒]]系统梳理实证研究指出，传统的科学事实教学无法自发提升学生的推理品质；而置身于 SSI 辩论情境的学生，能够显著减少主观武断推论，表现出更高水平的证据权衡能力与多角度反驳能力。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 154)]]
+> **非形式推理的品质提升** [[Michael Sadler|萨德勒]]系统梳理实证研究指出，传统的科学事实教学无法自发提升学生的推理品质；而置身于 SSI 辩论情境的学生，能够显著减少主观武断推论，表现出更高水平的证据权衡能力与多角度反驳能力。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 154)]]
 
 > [!claim] Zeidler, D. L. (2014)
-> **道德敏感性与批判思维的协同共生** 蔡德勒论证指出，SSI 教学将伦理道德发展（moral development）内嵌于[[Nature of Science|科学本质]]探讨之中，使学生在辨识科学技术双刃剑效应的同时，强化[[Critical Thinking|批判性思维]]与社会责任感。
+> **道德敏感性与批判思维的协同共生** 蔡德勒论证指出，SSI 教学将伦理道德发展内嵌于[[Nature of Science|科学本质]]探讨之中，使学生在辨识科学技术双刃剑效应的同时，强化[[Critical Thinking|批判性思维]]与社会责任感。
 
 ---
 

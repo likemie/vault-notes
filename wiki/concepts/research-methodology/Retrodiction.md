@@ -49,7 +49,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 回溯推测（Retrodiction，亦称历史溯因或反向推测）是地质学、古生物学、进化生物学、考古学及宇宙学等历史科学（historical sciences）所特有的核心[[Epistemology|认识论]]推理策略。由科学教育家 C. R. 奥尔特（C. R. Ault, 1998）等学者深入阐发，回溯推测旨在通过收集和分析当下地层、化石、同位素丰度或宇宙背景辐射中遗留的“历史痕迹”（traces），反向推导并重构过去发生的独特、不可逆且不可重复的自然演化事件。与经典物理学和化学在受控实验室中基于普遍定律向前“预测”（Prediction）未来状态截然不同，回溯推测依靠多条独立且相互收敛的[[Chain of Evidence|证据链]]（converging lines of evidence）来约束解释的歧义性。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 151, 156)]]
+> 回溯推测（Retrodiction，亦称历史溯因或反向推测）是地质学、古生物学、进化生物学、考古学及宇宙学等历史科学（historical sciences）所特有的核心[[Epistemology|认识论]]推理策略。由科学教育家 C. R. 奥尔特（C. R. Ault, 1998）等学者深入阐发，回溯推测旨在通过收集和分析当下地层、化石、同位素丰度或宇宙背景辐射中遗留的历史痕迹，反向推导并重构过去发生的独特、不可逆且不可重复的自然演化事件。与经典物理学和化学在受控实验室中基于普遍定律向前“预测”（Prediction）未来状态截然不同，回溯推测依靠多条独立且相互收敛的[[Chain of Evidence|证据链]]来约束解释的歧义性。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 151, 156)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 依据当下的遗留证据，运用已知物理与化学规律，反向重构过去发生的自然历史过程。
@@ -79,13 +79,13 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!feature] 回溯推测的核心[[Epistemology|认识论]]准则
-> - **独立收敛[[Chain of Evidence|证据链]]（Independent Converging Lines of Evidence）** 
+> - **独立收敛[[Chain of Evidence|证据链]]** 
 >   调动彼此完全不相关的多重独立证据源（如古地磁读数、深海沉积物有孔虫同位素、大陆边缘海岸线几何吻合度）共同指向同一个历史事件。
-> - **歧义性约束（Constraints on Ambiguity）** 
+> - **歧义性约束** 
 >   由于历史遗留痕迹往往不完整且存在多重解释可能，必须借助物理与化学定律对备选历史叙事施加严格的边界约束。
-> - **时空尺度整合（Spatial-Temporal Scale Integration）** 
+> - **时空尺度整合** 
 >   将微观矿物晶体结构（如锆石微区测年）与大陆板块宏观漂移等宏大时空尺度进行多层级因果嵌套。
-> - **系统时间外推（Extrapolating Systems Through Time）** 
+> - **系统时间外推** 
 >   基于均变论与灾变论的辩证统合，将当前正在发生的自然地质作用速率向数亿年地质历史进行理性外推。
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-09-22
 ### 命题一　回溯推测具有与实验预测同等坚固的认识论客观性与检验力
 
 > [!concept-lens] 历史科学哲学地位维度
-> 探讨回溯推测如何通过“吸烟枪证据”（Smoking Guns）建立对历史假说的严格检验。
+> 探讨回溯推测如何通过确凿证据建立对历史假说的严格检验。
 
 > [!claim] Ault, C. R. (1998)
 > **地学探究的卓越准则** 奥尔特论证指出，地学探究并不低劣于物理实验；地质学家通过在宏大尺度上管理歧义性与建立收敛[[Chain of Evidence|证据链]]，发展出了一套高度精密且适用于复杂开放系统的卓越[[Epistemology|认识论]]准则。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 151)]]

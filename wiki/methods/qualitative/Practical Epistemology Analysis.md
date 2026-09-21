@@ -89,7 +89,7 @@ updated: 2026-09-22
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识不是储存在大脑中的静态命题信念，而是在具体社群中通过言语、工具与行动被提出、使用与检验的实践成就。
 > - **研究者角色** 研究者采取“行动中的科学”（science-in-the-making）的[[Ethnography|人种志]]观察立场，不预设绝对的规范性标准，而是关注参与者自身在互动中如何界定何者算作有效证据。
-> - **有效性标准** 依托微观多模态[[Transcription in Qualitative Research|转录]]的[[Rich and Thick Description|厚描述]]（thick description）、语料情境的完整还原、团队交叉[[Coding in Qualitative Research|编码]]的一致性检验，以及同伴审议（[[Peer Debriefing]]）。
+> - **有效性标准** 依托微观多模态[[Transcription in Qualitative Research|转录]]的[[Rich and Thick Description|厚描述]]、语料情境的完整还原、团队交叉[[Coding in Qualitative Research|编码]]的一致性检验，以及同伴审议（[[Peer Debriefing]]）。
 > - **不声称回答的问题** 不能直接测量学生去情境化的普遍心智发展阶段，亦不用于量化统计学[[Growth|生长]]期[[Academic Achievement|学业成绩]]的净增长值。
 
 > [!method-stack] 方法层级
@@ -121,9 +121,9 @@ updated: 2026-09-22
 
 > [!proc] 质性话语编码四阶段操作程序
 > 1. **识别立足点（Stand Fast）** 寻找当前对话中被所有参与者共同默认、无需进一步解释或辩护的词汇、概念与常识性操作（例如学生讨论“物体往下掉”时，“往下”是不证自明的）。
-> 2. **定位认知裂隙（Encounter Gaps）** 标定参与者遭遇困惑、产生分歧或无法用现有词汇解释观察结果的时刻（例如“如果地球是球形的，地球背面的人为什么不会掉下去”）。
-> 3. **追踪关联建构（Build Relations Across Gaps）** 分析学生如何将立足点与新观察对象连接（例如通过旋转地球仪，指出“下”其实是指向“地心”，从而搭建新概念桥梁）。
-> 4. **评估意义建构后果（Evaluate Epistemic Consequences）** 判断所建立的关联是成功推进了探究、维持了原有误解，还是催生了更深层次的探究问题。
+> 2. **定位认知裂隙（Gaps）** 标定参与者遭遇困惑、产生分歧或无法用现有词汇解释观察结果的时刻（例如“如果地球是球形的，地球背面的人为什么不会掉下去”）。
+> 3. **追踪关联建构（Relations）** 分析学生如何将立足点与新观察对象连接（例如通过旋转地球仪，指出“下”其实是指向“地心”，从而搭建新概念桥梁）。
+> 4. **评估[[Epistemology|认识论]]后果** 判断所建立的关联是成功推进了探究、维持了原有误解，还是催生了更深层次的探究问题。
 
 ---
 
