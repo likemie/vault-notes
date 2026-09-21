@@ -80,7 +80,7 @@ updated: 2026-09-21
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育心理学家与学习科学家，罗格斯大学（Rutgers University）教育研究生院教授，国际学习科学学会（International Society of the Learning Sciences, ISLS）重要学者，《教育心理学家》（*Educational Psychologist*）前主编。
-> - **核心角色** 当代[[Epistemic Cognition|认识论认知]]理论重构与科学论证实质[[Paradigm|范式]]的领航者。他打破了将个人[[Epistemology|认识论]]局限于个体内在抽象信念阶段论的传统传统，引入当代哲学自然主义、[[Reliabilism|可靠主义]]与[[Virtue Epistemology|美德认识论]]，开创了目标、理想与[[Reliable Epistemic Processes|可靠过程]]模型（Aims, Ideals, and Reliable Processes Model, [[AIR Model of Epistemic Cognition|AIR]]）；在国际教学论战中，他是[[Inquiry-Based Learning|指导式探究]]的坚定捍卫者，系统提出了探究学习六要素框架，推动科学教育从表面程序套用走向深层[[Epistemic Agency|认识能动性]]培育。
+> - **核心角色** 当代[[Epistemic Cognition|认识论认知]]理论重构与科学论证实质[[Paradigm|范式]]的领航者。他打破了将个人[[Epistemology|认识论]]局限于个体内在抽象信念阶段论的传统框架，引入当代哲学自然主义、[[Reliabilism|可靠主义]]与[[Virtue Epistemology|美德认识论]]，开创了目标、理想与[[Reliable Epistemic Processes|可靠过程]]模型（Aims, Ideals, and Reliable Processes Model, [[AIR Model of Epistemic Cognition|AIR]]）；在国际教学论战中，他是[[Inquiry-Based Learning|指导式探究]]的坚定捍卫者，系统提出了探究学习六要素框架，推动科学教育从表面程序套用走向深层[[Epistemic Agency|认识能动性]]培育。
 > - **代表贡献** 创立 AIR 模型；提出科学探究学习六要素框架；主导研发促进科学推理与概念转变的 [[PRACCIS]] 探究课程；开创新一代基于认识论实质与元认识论审议的科学论证评价体系。
 
 > [!citation-card]- 人物定位的关键来源
@@ -110,7 +110,7 @@ updated: 2026-09-21
 >   - **代表著作** *Collaborative reasoning: Language rich approaches to reading comprehension* (2001); *Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006)* (2007, 与 C. E. Hmelo-Silver & R. G. Duncan 合著).
 >   - **关键概念／方法** 协作推理、探究脚手架、论证对话。
 >   - **阶段转向** 从微观阅读理解对话走向跨学科复杂探究与教学[[Paradigm|范式]]论争。
-> - **2010 年代 — [[Epistemic Cognition|认识论认知]] [[AIR Model of Epistemic Cognition|AIR]] 模型与实践转向阶段** 批判传统个人[[Epistemology|认识论]][[Questionnaire|问卷]]的抽象性与脱嵌性，系统引入[[Theory of Knowledge|知识论]]哲学，构建由目标（Aims）、理想（Ideals）与[[Reliable Epistemic Processes|可靠过程]]（Reliable processes）构成的三[[Metacognition|元认知]]模型。
+> - **2010 年代 — [[Epistemic Cognition|认识论认知]] [[AIR Model of Epistemic Cognition|AIR]] 模型与实践转向阶段** 批判传统个人[[Epistemology|认识论]][[Questionnaire|问卷]]的抽象性与脱嵌性，系统引入[[Theory of Knowledge|知识论]]哲学，构建由目标（Aims）、理想（Ideals）与[[Reliable Epistemic Processes|可靠过程]]（Reliable processes）构成的三元认知模型。
 >   - **代表著作** *Expanding the dimensions of epistemic cognition: Arguments from philosophy and psychology* (2011); *Epistemic cognition and evaluating information: Applying the AIR model* (2014); *[[PRACCIS]]: Promoting reasoning and conceptual change in science* (2018).
 >   - **关键概念／方法** AIR 模型、[[Epistemic Ideals|认识论理想]]、可靠过程、探究六要素。
 >   - **阶段转向** 从描述学生有什么[[Epistemological Beliefs|认识论信念]]，转向指导学生在真实科学实践中如何运用与反思认识准则。

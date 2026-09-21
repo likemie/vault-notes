@@ -54,9 +54,9 @@ updated: 2026-09-21
 >
 > *Epistemic stances encompass beliefs about whether one believes a claim, with what degree of confidence, and with what attitude—such as holding a claim as a tentative working hypothesis, accepting it provisionally, or rejecting it as unsubstantiated.*
 
-> [!boundary] 概念边界
-> - 不等于 认识论信念（Epistemological Beliefs） — 认识论信念指向对知识本质的抽象元信念（如“知识是简单还是复杂的”）；认识立场指向面对具体特定命题或信源时的具象承诺态度。
-> - 不等于 盲目信任或虚无怀疑 — 认识立场不是极端的“全盘相信”或“彻底否定”，而是包含丰富中间态（如工作假设、条件性采纳）的连续谱系。
+> [!boundary]- 概念边界
+> - **不等于认识论信念（Epistemological Beliefs）** 认识论信念指向对知识本质的抽象元信念（例如知识究竟是简单孤立的还是复杂网状的）；认识立场则指向面对具体特定命题或信源时的具象承诺态度。
+> - **不等于盲目信任或虚无怀疑** 认识立场并非非黑即白的简单二分，而是包含工作假设、条件性采纳等丰富中间态的连续认知谱系。
 
 ---
 
@@ -134,7 +134,7 @@ updated: 2026-09-21
 ## 概念演变
 
 > [!dev-timeline] 概念演变脉络
-> - **1970–1990 年代 — 确定性阶段论主导** Perry、King & Kitchener 等将个人认识论视为由绝对主义（二元确定）向相对主义、再向反思性承诺发展的单向阶梯。
+> - **1970–1990 年代 — 确定性阶段论主导** 威廉·佩里（William G. Perry）、帕特里夏·金（Patricia King）与凯伦·基奇纳（Karen Kitchener）等学者将个人认识论视为由绝对主义（二元确定）向相对主义、再向反思性承诺发展的单向阶梯。
 > - **2011 年 — 扩展认识论认知与立场重构** [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 正式提出“认识立场（Epistemic Stances）”作为五大核心构件之一，彻底打破单一确定性维度，奠定命题情境化态度研究基石。
 > - **2025–2026 年 — 人工智能中介与自适应立场转向** Wu et al. (2025) 与 [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 将其引入人机共生学习，确立“适应性认识立场”为防范有害认识依赖、维系关系性认识主体性的核心素养指标。
 
@@ -148,7 +148,7 @@ updated: 2026-09-21
 > > 争论认识立场是个体相对稳定的人格认知特征，还是随着对话情境快速波动的微观策略。
 > >
 > > - **倾向派** 强调先验知识丰富与批判素养高的个体具有更持久的审慎怀疑偏好。
-> > - **策略派** 指出同一学生在面对不同界面设计（如带引文链接 vs 无链接回答）时立场会发生戏剧性剧变。
+> > - **策略派** 指出同一学生在面对不同界面设计（如带引文链接对比无链接回答）时立场会发生显著转变。
 
 ---
 

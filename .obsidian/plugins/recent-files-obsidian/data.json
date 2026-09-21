@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
     },
     {
+      "basename": "Epistemic Ideals",
+      "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
+    },
+    {
+      "basename": "Metacognition",
+      "path": "wiki/concepts/competency-and-assessment/Metacognition.md"
+    },
+    {
+      "basename": "Working Memory",
+      "path": "wiki/concepts/learning-science-cognitive-science/Working Memory.md"
+    },
+    {
       "basename": "Extended Mind Theory",
       "path": "wiki/theories/learning-science-cognitive-science/Extended Mind Theory.md"
     },
@@ -173,10 +185,6 @@
       "path": "wiki/concepts/instruction-pedagogy/Socratic Dialogue.md"
     },
     {
-      "basename": "Working Memory",
-      "path": "wiki/concepts/learning-science-cognitive-science/Working Memory.md"
-    },
-    {
       "basename": "Cognitive Load Theory",
       "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Direct Instruction",
       "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
-    },
-    {
-      "basename": "Meta-analysis",
-      "path": "wiki/methods/quantitative/Meta-analysis.md"
-    },
-    {
-      "basename": "John Sweller",
-      "path": "wiki/persons/australia/John Sweller.md"
     }
   ],
   "omittedPaths": [],

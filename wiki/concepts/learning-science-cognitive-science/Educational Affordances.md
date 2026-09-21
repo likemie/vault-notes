@@ -80,13 +80,13 @@ updated: 2026-09-21
 > - **边界** 区分“潜在技术可供性（Potential Affordances）”与“实际实现的教学可供性（Realized Affordances）”——唯有在适切的教学法与任务支架匹配下，技术潜力才能转化为高阶心智增益。
 
 > [!citation-card] 可供性与限制的双重视角框架
-> 本综述采用双重视角框架（Dual-Perspective Framework），系统解构生成式 AI 在高等教育中对批判性与[[Creativity|创造性思维]]的赋能可供性（Affordances）与认知限制风险（Limitations），阐明技术赋能高度依赖于教学任务的结构化设计。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
+> 本综述采用双重视角框架（Dual-Perspective Framework），系统解构生成式 AI 在高等教育中对批判性与[[Creativity|创造性思维]]的发展可供性（Affordances）与认知限制风险（Limitations），阐明技术潜能的释放高度依赖于教学任务的结构化设计。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
 >
 > *The dual-perspective framework provides a structured taxonomy to examine both the cognitive affordances (empowering mechanisms) and the limitations (cognitive risks) of ChatGPT in higher education.*
 
 > [!boundary]- 概念边界辨析
 > - **不等于 软件功能特征（Software Features）** 软件特征（如“ChatGPT 能够每秒输出 50 字”）是技术的客观规范；可供性（如“作为[[Brainstorming|头脑风暴]]玩伴激发[[Divergent Thinking|发散思维]]”）则必须关联到学习者在具体任务中的认知动作与教学价值。
-> - **不等于 [[Technology Infusion|技术融入]]（Technology Infusion）** 技术融入描述技术进入课程的深度与广度过程；可供性则是解释技术融入为何能（或未能）促进认知发展的底层机制分析透镜。
+> - **不等于 [[Technology Infusion|技术融入]]（Technology Infusion）** 技术融入描述技术进入课程的深度与广度过程；可供性则是解释技术融入为何能（或未能）促进认知发展的深层机制分析透镜。
 
 ---
 
@@ -98,22 +98,22 @@ updated: 2026-09-21
 > | **生态心理学可供性** | J. J. Gibson (1979) | 物理环境中客观存在的、可支持生物体动作的可能性（脱离主观感知） | 硬件设备的物理操作接口（如键盘、屏幕） |
 > | **交互设计可供性** | Donald Norman (1988) | 用户可感知到的行动线索（Perceived Affordances） | UI 界面设计中提示用户如何交互的视觉引导与提示框 |
 > | **教育技术可供性** | Kirschner (2004); Bower (2008) | 技术支持特定协作、探究与[[Higher-Order Thinking Skills\|高阶思维]]发展的认知与教学属性 | 将工具特性与教学目标、[[Task Structure\|任务结构]]及脚手架相映射 |
-> | **[[Generative Artificial Intelligence\|生成式 AI]] 双向可供性** | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 兼具“赋能高阶思维（Affordance）”与“诱发心智惰性（Limitation）”的双向关系属性 | 既能提供视角转换与发散拓展，又可能诱发[[Cognitive Offloading\|认知外包]]与个人声音剥落 |
+> | **[[Generative Artificial Intelligence\|生成式 AI]] 双向可供性** | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 兼具“促进高阶思维发展（Affordance）”与“诱发心智惰性（Limitation）”的双向关系属性 | 既能提供视角转换与发散拓展，又可能诱发[[Cognitive Offloading\|认知外包]]与个人声音剥落 |
 
 ---
 
 ## 核心要素
 
-> [!feature] 生成式 AI 赋能[[Higher-Order Thinking Skills|高阶思维]]的 10 大核心教育可供性维度（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
+> [!feature] 生成式 AI 促进[[Higher-Order Thinking Skills|高阶思维]]发展的 10 大核心教育可供性维度（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
 > 
-> **[[Critical Thinking|批判性思维]]赋能可供性（CT Affordances, 5 大维度）**
+> **[[Critical Thinking|批判性思维]]促进可供性（CT Affordances, 5 大维度）**
 > - **[[Metacognition|元认知监控]]与反思支架（Reflection, n = 27）** 作为[[Socratic Dialogue|苏格拉底式对话]]伙伴，即时挑战学生推论并促发反思。
 > - **论证建构与多源辩护（Argumentation, n = 22）** 辅助梳理复杂论点结构，生成对立论据以强化论辩逻辑。
 > - **事实查错与去幻觉检验（Fact-checking, n = 19）** 提供含瑕疵文本作为批判性核查与红队审验的靶子。
 > - **复杂问题结构化拆解（Problem Decomposition, n = 16）** 协助将复杂大任务分解为可操作的微认知子步骤。
 > - **情境化概念释义与类比（Exemplification, n = 14）** 针对抽象概念生成多情境实例与跨学科类比解释。
 >
-> **[[Creativity|创造性思维]]赋能可供性（CrT Affordances, 5 大维度）**
+> **[[Creativity|创造性思维]]发展可供性（CrT Affordances, 5 大维度）**
 > - **[[Divergent Thinking|发散思维]]与构想广度爆发（Ideation, n = 31）** 打破思维定势，快速列出远距离非常规概念与方案。
 > - **篇章结构与跨语言表达支架（Language [[Scaffolding]], n = 24）** 克服母语词汇壁垒，辅助修辞重组与体裁转换。
 > - **[[Role-playing|角色扮演]]与认知视角转换（Perspective-taking, n = 18）** 模拟多元利益攸关方开展多角度虚拟研讨。
@@ -158,7 +158,7 @@ updated: 2026-09-21
 > 揭示大语言模型区别于传统单向教育技术的内在矛盾性。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **双向可供性二元张力** 生成式 AI 既提供了强大的发散构想与视角拓展可供性（在 31 项研究中赋能[[Creativity|创造力]]），同时也提供了极易诱发被动顺从与学术声音剥落的“代工可供性”（在 20 项研究中诱发构想惰性）。这种双向可供性的共存要求教育研究必须同时审视其赋能机制与风险边界。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2, 4–8)]]
+> **双向可供性二元张力** 生成式 AI 既提供了强大的发散构想与视角拓展可供性（在 31 项研究中促进[[Creativity|创造力]]），同时也提供了极易诱发被动顺从与学术声音剥落的“代工可供性”（在 20 项研究中诱发构想惰性）。这种双向可供性的共存要求教育研究必须同时审视其促学机制与风险边界。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2, 4–8)]]
 
 ---
 
@@ -213,7 +213,7 @@ updated: 2026-09-21
 > >
 > > - **技术实在论** 强调算法架构与界面功能规定了可供性边界。
 > > - **社会建构论** 强调行动者的素养、文化背景与社会实践塑造了可供性的实际样态。
->
+> >
 > > [!axis] 泛化滥用倾向与概念边界模糊
 > > 批评教育技术[[Document|文献]]中常将“可供性”作为普通“优点/功能（Benefits/Features）”的华丽代名词，丧失了其独特的关系性理论解释力。
 
@@ -226,7 +226,7 @@ updated: 2026-09-21
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 全球 67 项高等教育实证研究（涵盖 2022–2025 年高校多学科样本） | [[Systematic Review\|系统综述]]与定性主题综合（PRISMA 2020 框架，MMAT 质量评估） | [[Generative Artificial Intelligence\|生成式 AI]] 认知可供性与限制维度（10 大赋能主题 vs 10 大风险主题） | 提炼出 5 大[[Critical Thinking\|批判性思维]]可供性（[[Metacognition\|元认知监控]] n=27、论证建构 n=22 等）与 5 大[[Creativity\|创造性思维]]可供性（构想发散 n=31、篇章支架 n=24 等）；同时揭示构想惰性（n=20）、学术声音剥落（n=15）等核心限制 | 58 项研究（87%）MMAT 得分 $\ge 80\%$ | 确立生成式 AI 可供性的系统性分类学，证实结构化任务是实现可供性转化的关键前提 |
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 全球 67 项高等教育实证研究（涵盖 2022–2025 年高校多学科样本） | [[Systematic Review\|系统综述]]与定性主题综合（PRISMA 2020 框架，MMAT 质量评估） | [[Generative Artificial Intelligence\|生成式 AI]] 认知可供性与限制维度（10 大支持主题 vs 10 大风险主题） | 提炼出 5 大[[Critical Thinking\|批判性思维]]可供性（[[Metacognition\|元认知监控]] n=27、论证建构 n=22 等）与 5 大[[Creativity\|创造性思维]]可供性（构想发散 n=31、篇章支架 n=24 等）；同时揭示构想惰性（n=20）、学术声音剥落（n=15）等核心限制 | 58 项研究（87%）MMAT 得分 $\ge 80\%$ | 确立生成式 AI 可供性的系统性分类学，证实结构化任务是实现可供性转化的关键前提 |
 
 ---
 
@@ -243,6 +243,6 @@ updated: 2026-09-21
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统构建生成式 AI 赋能高等教育批判性与[[Creativity|创造性思维]]的 10 大核心教育可供性分类学。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统构建生成式 AI 促进高等教育批判性与[[Creativity|创造性思维]]发展的 10 大核心教育可供性分类学。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — [[Meta-analysis|元分析]] 35 项[[Experimental Research|实验研究]]，量化检验 AI [[AI Agent in Education|智能体]]教育可供性在[[Procedural Skill|程序技能]]与高阶认知任务中的效应分化。
 > - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 系统推演人工智能中介学习环境下技术可供性演化为认识依赖的四重社会技术路径，提出维系关系性认识主体性与评价性判断的规范治理框架。

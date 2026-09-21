@@ -45,8 +45,8 @@ updated: 2026-09-21
 > 心智理论（theory of mind, ToM）是发展心理学的核心概念，指个体理解他人拥有独立的心智状态（如目标、欲望、信念和知识），并且认识到他人的信念可能与客观事实存在偏差（即错误信念，false belief）。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 466)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 读懂“别人在想什么”的能力。
-> - **用途** 作为[[Epistemology|认识论]]认知（[[Epistemic Cognition]]）的底层前置发育基础（antecedent foundations），解释了为何幼儿在面对不同信息来源时能展现出早期的社会认知与评估证词（testimony）能力。
+> - **含义** 读懂他人心智状态的能力。
+> - **用途** 作为[[Epistemology|认识论]]认知（[[Epistemic Cognition]]）的关键前置发育基础（antecedent foundations），解释了为何幼儿在面对不同信息来源时能展现出早期的社会认知与评估证词（testimony）能力。
 
 > [!boundary]- 概念边界
 > - **不等于 认识论认知** 心智理论主要关注对心理状态存在的觉察与归因，而认识论认知更进一步关注对这些心理状态（即知识主张）如何被确证（justified）的深层反思。心智理论是认识论认知发育的必要非充分前置基础。
