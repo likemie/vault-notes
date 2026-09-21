@@ -9,9 +9,9 @@ summary: "正面或显著结果比零结果或负面结果更可能被发表或�
 type: concept
 domain: "research-methodology"
 related_count: 32
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - publication-bias
   - file-drawer-effect
