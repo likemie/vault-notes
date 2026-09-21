@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
     },
     {
+      "basename": "Extended Mind Theory",
+      "path": "wiki/theories/learning-science-cognitive-science/Extended Mind Theory.md"
+    },
+    {
       "basename": "Brainstorming",
       "path": "wiki/concepts/instruction-pedagogy/Brainstorming.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "John Sweller",
       "path": "wiki/persons/australia/John Sweller.md"
-    },
-    {
-      "basename": "Inquiry-Based Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md"
     }
   ],
   "omittedPaths": [],
