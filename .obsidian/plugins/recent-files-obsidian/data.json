@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Epistemic Practices",
-      "path": "wiki/concepts/instruction-pedagogy/Epistemic Practices.md"
-    },
-    {
       "basename": "Argument_Kelly_Licona_2018_EpistemicPractices",
       "path": "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md"
+    },
+    {
+      "basename": "Peer Debriefing",
+      "path": "wiki/methods/qualitative/Peer Debriefing.md"
+    },
+    {
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
+    },
+    {
+      "basename": "Views of Nature of Science Questionnaire",
+      "path": "wiki/instruments/questionnaires/Views of Nature of Science Questionnaire.md"
+    },
+    {
+      "basename": "Practical Epistemology",
+      "path": "wiki/concepts/educational-psychology/Practical Epistemology.md"
+    },
+    {
+      "basename": "Scientific Literacy",
+      "path": "wiki/concepts/competency-and-assessment/Scientific Literacy.md"
+    },
+    {
+      "basename": "Epistemic Practices",
+      "path": "wiki/concepts/instruction-pedagogy/Epistemic Practices.md"
     },
     {
       "basename": "Scientific Method",
@@ -91,10 +111,6 @@
     {
       "basename": "Procedural Skill",
       "path": "wiki/concepts/learning-science-cognitive-science/Procedural Skill.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
     },
     {
       "basename": "Direct Instruction",
@@ -183,22 +199,6 @@
     {
       "basename": "Extended Mind Theory",
       "path": "wiki/theories/learning-science-cognitive-science/Extended Mind Theory.md"
-    },
-    {
-      "basename": "Brainstorming",
-      "path": "wiki/concepts/instruction-pedagogy/Brainstorming.md"
-    },
-    {
-      "basename": "Reflexivity",
-      "path": "wiki/concepts/research-methodology/Reflexivity.md"
-    },
-    {
-      "basename": "Argument_Rowe_2023_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
-    },
-    {
-      "basename": "Epistemic Stances",
-      "path": "wiki/concepts/educational-psychology/Epistemic Stances.md"
     }
   ],
   "omittedPaths": [],
