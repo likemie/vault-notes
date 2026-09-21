@@ -174,12 +174,8 @@ journal: "Journal of Educational Psychology"
 > |----------|------|
 > | **纳入[[Document\|文献]]总览** | 最终纳入 26 篇实证研究（涵盖 28 个独立样本群、59 个独立效应量、总计 4,373 名学生），发表年代跨度为 1974 年至 2018 年。 |
 > | **学段构成分布** | 幼儿园至高中基础教育（Kindergarten through 12th Grade, K-12）阶段 15 项研究（54%，$N = 2{,}237$）；大学本科阶段 11 项研究（39%，$N = 2{,}025$）；成人教育阶段 2 项研究（7%，$N = 111$）。 |
-> | **学科与情境领域** | 超过 80% 的研究分布在科学与理科领域（物理、化学、生物、环境科学）；少数分布在历史学（如 Stoel et al., 2017）、数学（如 Mason & Scrivani, 2004）及跨学科[[Critical Thinking\|批判性思维]]中。 |
+> | **学科与情境领域** | 超过 80% 的研究分布在科学与理科领域（物理、化学、生物、环境科学）；少数分布在历史学（如 Stoel et al., 2017）、数学（如 Mason & Scrivani, 2004）及跨学科[[Critical Thinking|批判性思维]]中。 |
 > | **研究设计构成** | 严格随机对照试验（RCT）10 项（$N = 1{,}142$）；等效组准实验设计 4 项（$N = 289$）；自然班级对照准实验设计 14 项（$N = 2{,}942$）。 |
-
-### 文献检索方案与筛选规程
-
-[[Literature Search|文献检索]]严格遵循[[Systematic Review|系统综述]]与元分析优先报告条目（[[PRISMA|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], PRISMA）规范，分阶段在各大电子学术数据库中展开，并通过引文滚雪球追踪补充潜在文献。
 
 > [!example]- 图1：PRISMA 检索与文献筛选流程图（p. 482）
 > ```mermaid
@@ -202,21 +198,6 @@ journal: "Journal of Educational Psychology"
 > ```
 > 
 > ![](https://img.mylikemie.icu/sources/Cartiff_2021_JEP/figures/Cartiff_2021_JEP_Fig1_PRISMA_Flowchart.jpg)
-
-> [!ref-table]- 表 1：电子数据库文献检索规程一览（p. 483）
-> | 检索实施时段 | 检索词组合与布尔逻辑 | 检索电子数据库列表 |
-> |---|---|---|
-> | 2017 年 11–12 月 | “epistemic” AND “cognition” AND “intervention”;<br>“epistem*” AND “belie*” AND “intervention” | [[Education Resources Information Center\|ERIC]], PsycINFO, Education Full Text, Web of Science, Citation Index |
-> | 2017 年 12 月 | “epistemic” AND “beliefs” AND “intervention” | ArticlesFirst |
-> | 2017 年 12 月 | “epistem*” AND “belie*” AND “change”;<br>“personal epistemology” AND “intervention”;<br>“epistemic” AND “beliefs” AND “intervention”;<br>“epistemic” AND “cognition” AND “intervention” | Academic Search Premier, ERIC, Education Full Text, PsycINFO |
-> | 2017 年 12 月 | “epistemic” AND “beliefs” AND “change” | Google Scholar |
-> | 2018 年 1 月 | “epistem*” AND “intervention” | Academic Search Premier, ERIC, Education Full Text, PsycINFO |
-> | 2018 年 2 月 | “epistem*” AND “belie*” AND “intervention” | ERIC, Education Full Text, PsycINFO |
-> | 2018 年 3 月 | “epistem*” AND “control”;<br>“epistem*” AND “experimental” | Academic Search Premier, ERIC, Education Full Text, PsycINFO |
-> | 2018 年 3 月 | “epistemic” AND “cognition” AND “intervention”;<br>“epistemic” AND “beliefs” AND “intervention”;<br>“personal epistemology” AND “intervention” | ProQuest Dissertation & Theses Global, Web of Science, Citation Index |
-> | 2018 年 6 月 | “epistemic” AND “beliefs” AND “intervention” （限定 2017–2018 年最新发表） | Academic Search Premier, ERIC, Education Full Text, PsycINFO |
->
-> **图表解读** 检索方案涵盖了 9 大权威数据库与学位论文库，使用星号通配符广泛检索了 epistemic, [[Epistemology]], belief, beliefs 等[[Construct|构念]]词变体，确保了检索的查全率。
 
 ### 离群值处理、发表偏倚与稳健性检验
 
