@@ -5,6 +5,42 @@
       "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md"
     },
     {
+      "basename": "Constructivist Paradigm",
+      "path": "wiki/concepts/educational-philosophy/Constructivist Paradigm.md"
+    },
+    {
+      "basename": "Problem-Based Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md"
+    },
+    {
+      "basename": "Reliable Epistemic Processes",
+      "path": "wiki/concepts/educational-psychology/Reliable Epistemic Processes.md"
+    },
+    {
+      "basename": "Epistemic Ideals",
+      "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
+    },
+    {
+      "basename": "Epistemic Aims",
+      "path": "wiki/concepts/educational-psychology/Epistemic Aims.md"
+    },
+    {
+      "basename": "AIR Model of Epistemic Cognition",
+      "path": "wiki/theories/educational-psychology/AIR Model of Epistemic Cognition.md"
+    },
+    {
+      "basename": "Source of Knowledge",
+      "path": "wiki/concepts/educational-psychology/Source of Knowledge.md"
+    },
+    {
+      "basename": "Reflective Judgment Model",
+      "path": "wiki/theories/educational-psychology/Reflective Judgment Model.md"
+    },
+    {
+      "basename": "Certainty of Knowledge",
+      "path": "wiki/concepts/educational-philosophy/Certainty of Knowledge.md"
+    },
+    {
       "basename": "Effective Teaching",
       "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
     },
@@ -109,10 +145,6 @@
       "path": "wiki/concepts/educational-philosophy/Scientific Uncertainty.md"
     },
     {
-      "basename": "Epistemic Ideals",
-      "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
-    },
-    {
       "basename": "Metacognition",
       "path": "wiki/concepts/competency-and-assessment/Metacognition.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Generative AI Agent in Education",
       "path": "wiki/concepts/educational-technology/Generative AI Agent in Education.md"
-    },
-    {
-      "basename": "Education Resources Information Center",
-      "path": "wiki/facts/us/Education Resources Information Center.md"
-    },
-    {
-      "basename": "Theory of Mind",
-      "path": "wiki/theories/educational-psychology/Theory of Mind.md"
-    },
-    {
-      "basename": "Epistemic Dependence",
-      "path": "wiki/concepts/educational-psychology/Epistemic Dependence.md"
-    },
-    {
-      "basename": "Inhibitory Control",
-      "path": "wiki/concepts/learning-science-cognitive-science/Inhibitory Control.md"
-    },
-    {
-      "basename": "Web-based Inquiry Science Environment",
-      "path": "wiki/facts/us/Web-based Inquiry Science Environment.md"
-    },
-    {
-      "basename": "Process-Oriented Guided Inquiry Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Process-Oriented Guided Inquiry Learning.md"
-    },
-    {
-      "basename": "PhET Interactive Simulations",
-      "path": "wiki/facts/us/PhET Interactive Simulations.md"
-    },
-    {
-      "basename": "Inq-Blotter",
-      "path": "wiki/facts/us/Inq-Blotter.md"
     }
   ],
   "omittedPaths": [],

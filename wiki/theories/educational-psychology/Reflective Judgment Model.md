@@ -39,9 +39,10 @@ related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Lodewyk_2007_EP]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 status: active
 created: 2026-08-13
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Reflective Judgment Model
