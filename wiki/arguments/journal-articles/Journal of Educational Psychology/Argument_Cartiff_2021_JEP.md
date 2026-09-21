@@ -139,7 +139,7 @@ journal: "Journal of Educational Psychology"
 
 文献检索严格遵循系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）规范，分阶段在各大电子学术数据库中展开，并通过引文滚雪球追踪补充潜在文献。
 
-> [!figure]- 图 1：PRISMA 检索与文献筛选流程图（p. 482）
+> [!example]- 图1：PRISMA 检索与文献筛选流程图（p. 482）
 > ```mermaid
 > flowchart TD
 >     subgraph ID ["识别阶段（Identification）"]
@@ -159,7 +159,7 @@ journal: "Journal of Educational Psychology"
 >     end
 > ```
 > 
-> ![](sources/Cartiff_2021_JEP/figures/fig1_prisma_search_flowchart.png)
+> ![](https://img.mylikemie.icu/sources/Cartiff_2021_JEP/figures/Cartiff_2021_JEP_Fig1_PRISMA_Flowchart.jpg)
 
 > [!ref-table]- 表 1：电子数据库文献检索规程一览（p. 483）
 > | 检索实施时段 | 检索词组合与布尔逻辑 | 检索电子数据库列表 |
@@ -180,8 +180,8 @@ journal: "Journal of Educational Psychology"
 
 在合并效应量前，研究通过直方图检查了效应量分布的正态性。Grubbs' (1950) 离群值检验证实 Kuhn et al. (2017) 的效应量（$d = 3.2$）属于极端离群值。为避免单项极大值扭曲整体分布假设，同时防止直接删除真实研究造成信息损失，研究团队按惯例将其缩尾（Winsorization）调整为数据集中次大效应量 $d = 2.6$。（p. 484）
 
-> [!figure]- 图 2：标准误与 Fisher's Z 漏斗图发表偏倚诊断（p. 484）
-> ![](sources/Cartiff_2021_JEP/figures/fig2_funnel_plot_diagnostics.png)
+> [!example]- 图2：标准误与 Fisher's Z 漏斗图发表偏倚诊断（p. 484）
+> ![](https://img.mylikemie.icu/sources/Cartiff_2021_JEP/figures/Cartiff_2021_JEP_Fig2_Funnel_Plot.jpg)
 
 漏斗图表现出一定的不对称性，提示文献中可能存在未发表的非显著结果（抽屉效应）。进一步的统计诊断结果如下：
 1. **Egger 线性回归检验** 证实漏斗图存在显著的不对称性；
