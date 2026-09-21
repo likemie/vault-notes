@@ -9,7 +9,7 @@ aliases:
 summary: "个体理解人工智能基本运作机制、能力边界与算法偏见，能够维持认识论警觉并负责任地将智能工具作为放大人类认知与高阶思维而非替代自身思考的综合素养范式。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,8 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Reflexivity]]"
   - "[[Homework]]"
+  - "[[Evaluative Judgement]]"
+  - "[[Feedback Literacy]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Dependence]]"
 related_theories: []
@@ -180,7 +182,7 @@ updated: 2026-09-21
 > 探讨如何防止人工智能素养窄化为工具主义操作流，阐明将模型生成物置于学科认识论标准下审视的高阶素养内涵。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]
-> **从提示词技巧转向认识论探究实践** 当前教育话语常将人工智能素养窄化为孤立的操作技术、提示词技巧（Prompt Technique）或学术诚信合规难题（Ng et al., 2021）。然而，真正的关键在于培养学生将人工智能生成物作为“探究对象”（Object of Inquiry）而非“权威交付成果”的认识论实践能力。高水平的人工智能素养必然与学科证据标准、评价性判断（Evaluative Judgement, Tai et al., 2018）以及反馈素养（Feedback Literacy, Carless & Boud, 2018）深度融合：学生不仅要能获取算法反馈，更要能批判性追问“输出遵循了哪种学科标准”、“什么证据能推翻该结论”，并在人机协同中对最终成果承担不可推卸的认识论责任。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 1, 6, 8)]]
+> **从提示词技巧转向认识论探究实践** 当前教育话语常将人工智能素养窄化为孤立的操作技术、提示词技巧（Prompt Technique）或学术诚信合规难题（Ng et al., 2021）。然而，真正的关键在于培养学生将人工智能生成物作为“探究对象”（Object of Inquiry）而非“权威交付成果”的认识论实践能力。高水平的人工智能素养必然与学科证据标准、[[Evaluative Judgement|评价性判断]]（Evaluative Judgement, Tai et al., 2018）以及[[Feedback Literacy|反馈素养]]（Feedback Literacy, Carless & Boud, 2018）深度融合：学生不仅要能获取算法反馈，更要能批判性追问“输出遵循了哪种学科标准”、“什么证据能推翻该结论”，并在人机协同中对最终成果承担不可推卸的认识论责任。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 1, 6, 8)]]
 
 ---
 

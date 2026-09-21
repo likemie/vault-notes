@@ -1661,6 +1661,18 @@
     ]
   },
   {
+    "title": "Feedback Literacy",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Feedback Literacy.md",
+    "aliases": [
+      "反馈素养",
+      "学生反馈素养",
+      "Student Feedback Literacy",
+      "Teacher Feedback Literacy",
+      "教师反馈素养"
+    ]
+  },
+  {
     "title": "Formative Assessment",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Formative Assessment.md",
@@ -19713,6 +19725,16 @@
       "Dewey, J.",
       "约翰·杜威",
       "杜威"
+    ]
+  },
+  {
+    "title": "John Hardwig",
+    "type": "person",
+    "path": "wiki/persons/us/John Hardwig.md",
+    "aliases": [
+      "约翰·哈德威格",
+      "Hardwig, J.",
+      "John R. Hardwig"
     ]
   },
   {

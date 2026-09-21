@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
     },
     {
+      "basename": "Argument_DeJong_2023_ERR",
+      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
+    },
+    {
+      "basename": "Epistemic Injustice",
+      "path": "wiki/theories/educational-philosophy/Epistemic Injustice.md"
+    },
+    {
       "basename": "Homework",
       "path": "wiki/concepts/instruction-pedagogy/Homework.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Reflexivity",
       "path": "wiki/concepts/research-methodology/Reflexivity.md"
-    },
-    {
-      "basename": "Argument_DeJong_2023_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
     },
     {
       "basename": "Argument_Rowe_2023_ECNUROE",
@@ -195,10 +199,6 @@
     {
       "basename": "Executive Function",
       "path": "wiki/concepts/learning-science-cognitive-science/Executive Function.md"
-    },
-    {
-      "basename": "Control of Variables Strategy",
-      "path": "wiki/concepts/instruction-pedagogy/Control of Variables Strategy.md"
     }
   ],
   "omittedPaths": [],

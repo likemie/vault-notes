@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在知识获取、解释生成与判断辩护等任务中依赖外部系统的认识关系，在人工智能介入下被区分为保有反思质疑的生产性依赖与剥离评价性判断的有害性依赖。"
 type: concept
 domain: "educational-psychology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[John Hardwig]]"
   - "[[Alvin Goldman]]"
 related_facts: []
 related_arguments:
@@ -191,7 +192,7 @@ updated: 2026-09-21
 ## 概念演变
 
 > [!dev-timeline] 概念演变脉络
-> - **1985 年 — 社会[[Epistemology|认识论]]的现代奠基** 约翰·哈德威格（John Hardwig）发表 *Epistemic Dependence*，指出伴随现代学科专门化与大规模科学实验的推进，人类知识必然高度依赖于同行专家与社会机构的证言与合作，奠定了社会认识依赖的哲学基石。
+> - **1985 年 — 社会[[Epistemology|认识论]]的现代奠基** [[John Hardwig|约翰·哈德威格]]（John Hardwig）发表 *Epistemic Dependence*，指出伴随现代学科专门化与大规模科学实验的推进，人类知识必然高度依赖于同行专家与社会机构的证言与合作，奠定了社会认识依赖的哲学基石。
 > - **2001 年 — 专家信任与权威审订的认识论拓展** [[Alvin Goldman|阿尔文·戈德曼]]（Alvin Goldman）系统探讨非专业受众如何评估竞争性专家主张的[[Reliability|可靠性]]，将认识依赖推进至数字公域与分布式网络信任机制。
 > - **2010 年代 — [[Extended Mind Theory|延展心智理论]]与技术中介认知** 认知心理学与心灵哲学学者探讨智能手机、互联网与[[Cognitive Offloading|知识外包]]（Knowledge Outsourcing）现象，分析认知负荷卸载如何重塑人类长时记忆与信息检索行为。
 > - **2026 年 — 人工智能中介学习中的认识依赖系统界定** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 发表批判整合性综述，正式将认识依赖[[Construct|构念]]引入人工智能教育学，建立区分生产性依赖与有害性依赖的六维诊断模型，并系统提出四条社会技术路径与以关系性[[Epistemic Agency|认识主体性]]为核心的规范治理方案。

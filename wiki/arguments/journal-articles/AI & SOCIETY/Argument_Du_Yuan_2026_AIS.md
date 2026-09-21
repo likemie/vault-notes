@@ -43,6 +43,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
   - "[[Scaffolding]]"
+  - "[[Evaluative Judgement]]"
   - "[[Epistemic Friction]]"
   - "[[Working Memory]]"
   - "[[Metacognition]]"
@@ -54,12 +55,13 @@ related_concepts:
   - "[[Blended Learning]]"
   - "[[Research Question]]"
   - "[[AI Literacy]]"
+  - "[[Feedback Literacy]]"
   - "[[Student Engagement]]"
   - "[[Feedback]]"
   - "[[Determinism]]"
 related_theories:
   - "[[Extended Mind Theory]]"
-  - "[[Hegemony]]"
+  - "[[Epistemic Injustice]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Critical Review]]"
@@ -68,6 +70,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Triangulation]]"
+  - "[[Lateral Reading]]"
   - "[[Sample Size Determination]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
@@ -77,6 +80,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
+  - "[[John Hardwig]]"
   - "[[Alvin Goldman]]"
   - "[[Clark A. Chinn]]"
   - "[[Immanuel Kant]]"
@@ -95,9 +99,9 @@ title: "Argument_Du_Yuan_2026_AIS"
 argument_key: "Argument_Du_Yuan_2026_AIS"
 argument_display_title: "Epistemic dependence in AI-mediated learning"
 argument_kind: "journal-article"
-argument_related_count: 58
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 62
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "AI & SOCIETY"
 book_title: ""
@@ -136,7 +140,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **社会认识论**<br>Social Epistemology | 约翰·哈德威格（John Hardwig）与[[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman）奠定现代[[Knowledge Production\|知识生产]]依赖专家网络与证言分工的合法性，为打破孤立自足的认知主体神话提供[[Epistemology\|认识论]]前提。（pp.2–3） |
+> | **社会认识论**<br>Social Epistemology | [[John Hardwig|约翰·哈德威格]]（John Hardwig）与[[Alvin Goldman|阿尔文·戈德曼]]（Alvin Goldman）奠定现代[[Knowledge Production|知识生产]]依赖专家网络与证言分工的合法性，为打破孤立自足的认知主体神话提供[[Epistemology|认识论]]前提。（pp.2–3） |
 > | **[[Extended Mind Theory\|延展心智假说]]**<br>Extended Mind Thesis | 安迪·克拉克（Andy Clark）与戴维·查默斯（David Chalmers）论证心智成就能够分布于个体与外部人造物之间，确立[[Cognitive Offloading\|认知卸载]]本身的中性地位，并为界定良性人机耦合提供功能标准。（pp.4–5） |
 > | **认识论认知发展理论**<br>Epistemic Cognition | 芭芭拉·霍弗（Barbara Hofer）、保罗·平特里奇（Paul Pintrich）与[[Clark A. Chinn\|克拉克·钦]]（Clark A. Chinn）关于知识确定性、证据证成与反思情绪的理论，用于阐释中间认识动作对长效心智成熟的决定性功能。（p.4） |
 > | **[[Epistemic Injustice|认识不正义理论]]**<br>Epistemic Injustice | 米兰达·弗里克（Miranda Fricker）与伊丽莎白·安德森（Elizabeth Anderson）阐明知识评判中的权力不对等与制度排斥，结合[[Growth|成长]]性[[Epistemic Injustice|认识不正义]]分析算法对多元地方性知识与弱势群体发展机会的压制。（pp.7–8） |
@@ -250,17 +254,17 @@ issuing_organization: ""
 
 #### 1. 算法的虚假权威与一键交付功能剥离了学生自主推理的中间动作
 
-大语言模型极高的语言连贯性极易引发过度信任，而将复杂任务一键压缩的交互设计则从根本上剥离了深层推理所必需的心智努力。（pp.5–6）
+大语言模型高超的语言组织能力极易诱发过度盲信，而将复杂学术任务“一键压缩”的交互界面，则从根本上切断了深层推理所必需的心智投入。（pp.5–6）
 
-> [!quad-grid] 认识依赖生成的四重社会技术路径
-> - **路径一：流畅权威与个性化社会存在感**
->   系统以完美语法、从容语调与即时响应营造权威假象；拟人化特征诱使学生转移人际信任，导致评价标准被算法潜移默化地置换。（pp.5–6）
-> - **路径二：无摩擦委派与认识动作剥离**
->   将检索、比对、综合与起草压缩为单次问答；以唯成果论的评价导向诱导学生规避思考，彻底剥离了审议不确定性所需的中间认识动作。（p.6）
-> - **路径三：不透明综合与证据结构隐匿**
->   以单一客观口吻抹平不同学科关于证据有效性的异质规范；掩盖信息筛选权重与模型置信边界，使逻辑缺陷难以被师生觉察。
-> - **路径四：制度化依赖与分布式权威失调**
->   高校集中采购与平台捆绑使其成为学术工作默认通道；单向转嫁诚信审查负担，同时在算法输出中隐蔽再生产主导阶层[[Hegemony|文化霸权]]。（pp.6–7）
+> [!quad-grid] 认识依赖生成的四重社会技术路径（pp.5–7）
+> - **路径一：流畅权威与拟人化社交在场（Fluent Authority）**
+>   系统以毫无语病的语法、从容自信的语调秒级出具解答，并使用第一人称对话营造拟人化陪伴感。这极易诱发心理学上的“加工流畅性错觉”——学生误将阅读的顺畅感等同于内容的真实可靠，进而把对真人专家的信任盲目投射给算法，放下了证据核查戒备，评价标准在不知不觉中被模型置换。
+> - **路径二：无摩擦委派与中间思考动作剥离（Frictionless Delegation）**
+>   传统论文写作需要经历搜寻资料、对比异见、梳理论点与反复推敲草稿的复杂心智挣扎；生成式工具却将这一完整探究链条压缩为单次问答与一键生成。在高校“唯成品打分”的考核导向下，学生为赶进度倾向于将思考全盘外包；虽然交出了光鲜的作业成品，却彻底剥离了锻炼思维所必需的中间动作，导致脱离工具后无法自主复现推导。
+> - **路径三：黑箱式综合与学科证据结构隐匿（Opaque Synthesis）**
+>   系统直接呈现看似完美的综合结论，却将背后的信息筛选权重、证据缺口与模型不确定性深锁于黑箱之中。更严重的是，模型以统一的中立客观语调回答所有问题，抹平了历史学的一手史料考证、医学的双盲对照实验与哲学的严密逻辑推演之间的本质差异，向学生灌输脱离学科规范的“通用假答案”，掩盖了真实的学术争议。
+> - **路径四：制度化捆绑与高校学术权责倒错（Institutionalised Dependence）**
+>   认识依赖不仅是学生个体的习惯，更是高校采购政策与考核体制共同固化的结构性产物。高校集中采购商业平台并将其作为作业提交的默认通道，训练数据偏向主流语言，隐蔽压制边缘群体的本土多元表达（[[Epistemic Injustice|认识不正义]]）；同时制度权责严重失衡：技术系统深居黑箱无法审计，学校与厂商隐身免责，所有算法虚构与学术不端的惩戒后果却被单向转嫁给学生个体。
 
 在人机交互中，并非所有智力阻力都应被消除，保护生产性阻力是维持深层理解的关键。（pp.5–6）
 
@@ -367,7 +371,7 @@ issuing_organization: ""
 >   2. **第二步（多源对比矩阵建构）** 教师禁止学生直接点击一键采纳，而是要求学生将 AI 的反馈批注与同伴互评意见、教师在以往课程中提供的经典范例文档并列排列在对照表中。
 >   3. **第三步（执行对抗性反思追问）** 学生必须使用四组标准反思问题审查 AI 意见：AI 指出样本量偏小的依据是什么？它预设了哪种统计检验力标准？是否忽视了[[Qualitative Research|质性研究]]中资料饱和度而非样本量的特殊逻辑？如果采纳该修改，是否会违背本研究的[[Phenomenology|现象学]]初衷？
 >   4. **第四步（撰写修改决策辩护词）** 学生提交最终研究设计时，必须附带一份《反思决策日志》，清晰陈述其采纳了 AI 关于增加[[Covariate Adjustment|协变量控制]]的建议，因为该统计考虑切合[[Research Question|研究问题]]；但坚决拒绝了 AI 将访谈个案缩减为封闭量表的建议，理由是其严重伤害了研究的质性深度。
-> - **效果评估** 通过该规程，技术从直接给出答案的替代者转变为促发深度审视的对话靶子，学生的[[AI Literacy|人工智能素养]]（AI Literacy）与反馈素养（Feedback Literacy, Carless & Boud, 2018）显著发展，在保留技术支持的同时全面捍卫了认识主体性。
+> - **效果评估** 通过该规程，技术从直接给出答案的替代者转变为促发深度审视的对话靶子，学生的[[AI Literacy|人工智能素养]]（AI Literacy）与[[Feedback Literacy|反馈素养]]（Feedback Literacy, Carless & Boud, 2018）显著发展，在保留技术支持的同时全面捍卫了认识主体性。
 
 #### 3. 考评转向推导过程追溯与独立迁移测试，机构采购严禁使用不可审计的黑箱软件
 
