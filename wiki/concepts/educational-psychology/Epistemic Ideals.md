@@ -200,6 +200,21 @@ updated: 2026-09-21
 
 ## 实证数据
 
+> [!ma-table]- 元分析总体结果（干预因果效应）
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]] | 证据确定性 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（认识论理想可教导性） | 28 / 4,373 | Cohen's d；随机效应 | 0.509 [0.326, 0.692] | I²=92.72% | — |
+
+> [!ma-table]- 调节[[Variable\|变量]]与亚组分析
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件 | 条件效应 | 检验统计量 | 是否预设 | 解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 亚组分析 | 指导式探究（$d = 0.808$）与信源评估（$d = 0.800$）；显性讲授认识论理想的框架优于自由辩论 | PBL（$d = 0.340$）与论证教学（$d = 0.134$，不显著） | $Q_b = 17.491, p < .01$ | 预设 | 认识论理想只有经由显性指导才能内化并转化为学业提升 |
+> | 同上 | 成就类型 | 亚组分析 | 论证表现（$d = 1.047$）与概念性知识（$d = 0.557$）高度敏感 | 程序性知识（$d = 0.140$，不显著） | $Q_b = 8.940, p < .05$ | 预设 | 认识论理想的改变只在需要评估证据与推理质量的高阶任务中产生实质学业效益 |
+
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -213,6 +228,7 @@ updated: 2026-09-21
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards|确证标准]]与[[Epistemic Value|认识价值]]在内的扩展[[Epistemic Cognition|认识论认知]]构件，为[[Epistemology|认识论]]理想的界定奠定理论基石。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 首个认识论干预因果元分析，从量化层面证实聚焦认识论理想的显性教学能够带来中等偏上的学业成就因果效应（$d = 0.509$），尤其对高阶论证表现（$d = 1.047$）效果突出，提供了认识论理想可教导性的实验证据。
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将认识论理想作为论证质量评价的双轴核心之一，构建了核心科学实践的基准规范模板，并在初中课堂中实证检验其运作机制。
 > - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 分析生成式人工智能抹平各学科认识论理想的表层假答案机制，提出确立关系性认识主体性以重塑人机共生环境下的规范性认识标准。
 

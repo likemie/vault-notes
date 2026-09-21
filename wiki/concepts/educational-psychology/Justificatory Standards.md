@@ -7,7 +7,7 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Justificatory Standards
@@ -166,7 +166,7 @@ updated: 2026-09-17
 > - **1990–1997 — 宏观多维信念归并** Schommer (1990) 与 [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 将“知识的证成（Justification of knowledge）”列为[[Epistemological Beliefs|认识论信念]]的核心维度之一，但测量多停留在脱域的抽象[[Questionnaire|问卷]]题项。
 > - **2011 — 扩展[[Epistemic Cognition|认识论认知]]与细粒度转向** Chinn 等学者解构了粗放的证成信念，提出实证、非实证与证词三大类细粒度确证标准，确立了其微观黑盒地位。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
 > - **2016 — 社会情境转向与多层整合** Sandoval 等学者强调确证标准的[[Domain Specificity|学科特异性]]、情境动态切换性以及在群体互动流中的社会协商本质。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
-> - **2021 — 干预实证层面的因果验证** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 的首个认识论干预因果元分析（$k = 28, N = 4{,}373$）从实证角度为确证标准的可教导性提供了关键证据：针对知识如何确证与证据如何检验等核心环节的显性教学干预，对学业成就具有中等偏上因果效应（$d = 0.509$）；同时，元分析揭示了测验对齐对结果的强力调节——采用高度贴合干预目标的自编测验时效应量（$d = 0.808$）是常规学科期末统考（$d ≈ 0$）的数十倍，进一步印证了确证标准的作用是精准而非泛化的。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021)]]
+> - **2021 — 干预实证层面的因果验证** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 的首个认识论干预因果元分析（$k = 28, N = 4{,}373$）从实证角度为确证标准的可教导性提供了关键证据：针对知识如何确证与证据如何检验等核心环节的显性教学干预，对学业成就具有中等偏上因果效应（$d = 0.509$）；同时，元分析揭示了测验对齐对结果的强力调节——采用高度贴合干预目标的自编测验时效应量（$d = 0.808$）是常规学科期末统考（$d \approx 0$）的数十倍，进一步印证了确证标准的作用是精准而非泛化的。
 > - **2025 — 论证评价具象化与[[Epistemology|认识论]]实质确立** Duncan & Chinn 将确证标准进一步[[Operationalization|操作化]]为观察与证据整合实践中的规范[[Epistemic Ideals|认识论理想]]模板，完成了从脱域信念描述到学科探究实践质性评价的理论深化与操作化拓展。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025)]]
 
 ---
