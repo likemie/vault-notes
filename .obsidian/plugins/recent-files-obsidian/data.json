@@ -5,8 +5,84 @@
       "path": "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
     },
     {
+      "basename": "Brainstorming",
+      "path": "wiki/concepts/instruction-pedagogy/Brainstorming.md"
+    },
+    {
+      "basename": "Reflexivity",
+      "path": "wiki/concepts/research-methodology/Reflexivity.md"
+    },
+    {
       "basename": "Argument_DeJong_2023_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
+    },
+    {
+      "basename": "Argument_Rowe_2023_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
+    },
+    {
+      "basename": "Epistemic Stances",
+      "path": "wiki/concepts/educational-psychology/Epistemic Stances.md"
+    },
+    {
+      "basename": "Clark A. Chinn",
+      "path": "wiki/persons/us/Clark A. Chinn.md"
+    },
+    {
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
+    },
+    {
+      "basename": "Alvin Goldman",
+      "path": "wiki/persons/us/Alvin Goldman.md"
+    },
+    {
+      "basename": "Educational Affordances",
+      "path": "wiki/concepts/learning-science-cognitive-science/Educational Affordances.md"
+    },
+    {
+      "basename": "知识论作为元课程_2万字以内修订稿",
+      "path": "raw/知识论作为元课程_2万字以内修订稿.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+    },
+    {
+      "basename": "Affective Outcomes",
+      "path": "wiki/concepts/educational-psychology/Affective Outcomes.md"
+    },
+    {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+    },
+    {
+      "basename": "Intelligent Tutoring Systems",
+      "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md"
+    },
+    {
+      "basename": "Generative AI Agent in Education",
+      "path": "wiki/concepts/educational-technology/Generative AI Agent in Education.md"
+    },
+    {
+      "basename": "AI Literacy",
+      "path": "wiki/concepts/competency-and-assessment/AI Literacy.md"
+    },
+    {
+      "basename": "Education Resources Information Center",
+      "path": "wiki/facts/us/Education Resources Information Center.md"
+    },
+    {
+      "basename": "Theory of Mind",
+      "path": "wiki/theories/educational-psychology/Theory of Mind.md"
+    },
+    {
+      "basename": "Epistemic Agency",
+      "path": "wiki/concepts/educational-psychology/Epistemic Agency.md"
+    },
+    {
+      "basename": "Epistemic Dependence",
+      "path": "wiki/concepts/educational-psychology/Epistemic Dependence.md"
     },
     {
       "basename": "Inhibitory Control",
@@ -27,10 +103,6 @@
     {
       "basename": "Inq-Blotter",
       "path": "wiki/facts/us/Inq-Blotter.md"
-    },
-    {
-      "basename": "Intelligent Tutoring Systems",
-      "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md"
     },
     {
       "basename": "Centre for Educational Research and Innovation",
@@ -101,10 +173,6 @@
       "path": "wiki/concepts/learning-science-cognitive-science/Working Memory.md"
     },
     {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
       "basename": "Cognitive Load Theory",
       "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
     },
@@ -121,14 +189,6 @@
       "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
     },
     {
-      "basename": "Epistemic Agency",
-      "path": "wiki/concepts/educational-psychology/Epistemic Agency.md"
-    },
-    {
-      "basename": "Clark A. Chinn",
-      "path": "wiki/persons/us/Clark A. Chinn.md"
-    },
-    {
       "basename": "Meta-analysis",
       "path": "wiki/methods/quantitative/Meta-analysis.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "Inquiry-Based Learning",
       "path": "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md"
-    },
-    {
-      "basename": "Argument_Rowe_2023_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
-    },
-    {
-      "basename": "Professional Judgment",
-      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
-    },
-    {
-      "basename": "Common School Movement",
-      "path": "wiki/facts/us/Common School Movement.md"
-    },
-    {
-      "basename": "Policy Mobility",
-      "path": "wiki/concepts/educational-policy-reform/Policy Mobility.md"
-    },
-    {
-      "basename": "Sir Kevan Collins",
-      "path": "wiki/persons/uk/Sir Kevan Collins.md"
-    },
-    {
-      "basename": "Australian Philanthropic Services",
-      "path": "wiki/facts/australia/Australian Philanthropic Services.md"
-    },
-    {
-      "basename": "Educational Brokerage Agency",
-      "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
-    },
-    {
-      "basename": "Gonski 2.0",
-      "path": "wiki/facts/australia/Gonski 2.0.md"
-    },
-    {
-      "basename": "Michael Barber",
-      "path": "wiki/persons/uk/Michael Barber.md"
-    },
-    {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
-    },
-    {
-      "basename": "David Gonski",
-      "path": "wiki/persons/australia/David Gonski.md"
-    },
-    {
-      "basename": "Boundary Spanner",
-      "path": "wiki/concepts/university-industry-collaboration/Boundary Spanner.md"
-    },
-    {
-      "basename": "Bruno Latour",
-      "path": "wiki/persons/france/Bruno Latour.md"
-    },
-    {
-      "basename": "Partnership Schools Kura Hourua",
-      "path": "wiki/facts/new-zealand/Partnership Schools Kura Hourua.md"
-    },
-    {
-      "basename": "Return on Investment",
-      "path": "wiki/concepts/university-industry-collaboration/Return on Investment.md"
     }
   ],
   "omittedPaths": [],

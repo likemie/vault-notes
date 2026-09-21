@@ -6,7 +6,7 @@ aliases:
 summary: "个体理解自己和他人具有不同心理状态（如信念、欲望、意图），且这些状态可能与客观现实不符的认知能力，被视为认识论认知发展的重要前置基础。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 6
+theory_related_count: 7
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"
@@ -29,10 +29,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Sandoval_2016_RRE]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 # Theory of Mind
 
@@ -49,6 +50,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界
 > - **不等于 认识论认知** 心智理论主要关注对心理状态存在的觉察与归因，而认识论认知更进一步关注对这些心理状态（即知识主张）如何被确证（justified）的深层反思。心智理论是认识论认知发育的必要非充分前置基础。
+> - **不等于 延展心智理论（Extended Mind Theory）** 心理学中的“心智理论”（Theory of Mind, ToM，亦译心理理论）关注个体对自我与他人内在心理状态（信念、欲望、意图）的推断与错误信念理解（Premack & Woodruff, 1978; Sandoval et al., 2016）；心灵哲学与认知科学中的“延展心智理论”（Extended Mind Theory, Clark & Chalmers, 1998）则探讨认知过程如何跨越生物有机体边界，与外部工具、符号及人造物（如笔记、计算机、生成式 AI）耦合并实现认知卸载。二者属于完全不同的理论传统，不可因中文简称中的“心智”一词而混淆。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 4–5)]]
 
 ---
 

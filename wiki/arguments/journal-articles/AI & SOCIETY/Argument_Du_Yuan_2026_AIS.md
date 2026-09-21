@@ -61,7 +61,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Determinism]]"
 related_theories:
-  - "[[Theory of Mind]]"
+  - "[[Extended Mind Theory]]"
   - "[[Hegemony]]"
   - "[[Phenomenology]]"
 related_methods:
@@ -122,7 +122,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 人工智能全面介入下的高等教育与日常学习场景，重点考察大语言模型（Large Language Model, LLM）、[[Intelligent Tutoring Systems|智能导师系统]]与自动化评价工具对知识获取、解释生成与论点评估的中介。
-> - **张力** 传统教育话语中将人工智能单纯视作效率工具、合规难题或技能赤字的狭隘视阈，与技术作为认识中介者重塑知识确证劳动力分工之间的理论断裂；延展[[Theory of Mind|心智理论]]对[[Cognitive Offloading|认知卸载]]的合法性辩护与算法黑箱剥夺评价性判断之间的深层张力。
+> - **张力** 传统教育话语中将人工智能单纯视作效率工具、合规难题或技能赤字的狭隘视阈，与技术作为认识中介者重塑知识确证劳动力分工之间的理论断裂；[[Extended Mind Theory|延展心智理论]]对[[Cognitive Offloading|认知卸载]]的合法性辩护与算法黑箱剥夺评价性判断之间的深层张力。
 > - **贡献** 提炼出可质疑性、可恢复性、可迁移性、可追溯性、分布式责任与认识多样性六维诊断框架；系统建构由[[Educational Affordances|技术可供性]]演进至教育后果的四条社会技术路径模型；确立了作为智能时代教育规范基石的关系性认识主体性理念。
 
 ---
@@ -133,12 +133,12 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **社会认识论**<br>Social Epistemology | 约翰·哈德威格（John Hardwig）与[[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman）奠定现代[[Knowledge Production\|知识生产]]依赖专家网络与证言分工的合法性，为打破孤立自足的认知主体神话提供[[Epistemology\|认识论]]前提。（pp.2–3） |
-> | **延展心智假说**<br>Extended Mind Thesis | 安迪·克拉克（Andy Clark）与戴维·查默斯（David Chalmers）论证心智成就能够分布于个体与外部人造物之间，确立[[Cognitive Offloading\|认知卸载（Cognitive Offloading）]]本身的中性地位，并为界定良性人机耦合提供功能标准。（pp.4–5） |
+> | **[[Extended Mind Theory\|延展心智假说]]**<br>Extended Mind Thesis | 安迪·克拉克（Andy Clark）与戴维·查默斯（David Chalmers）论证心智成就能够分布于个体与外部人造物之间，确立[[Cognitive Offloading\|认知卸载（Cognitive Offloading）]]本身的中性地位，并为界定良性人机耦合提供功能标准。（pp.4–5） |
 > | **认识论认知发展理论**<br>Epistemic Cognition | 芭芭拉·霍弗（Barbara Hofer）、保罗·平特里奇（Paul Pintrich）与[[Clark A. Chinn\|克拉克·钦]]（Clark A. Chinn）关于知识确定性、证据证成与反思情绪的理论，用于阐释中间认识动作对长效心智成熟的决定性功能。（p.4） |
 > | **认识正义与制度正义理论**<br>Epistemic Justice | 米兰达·弗里克（Miranda Fricker）与伊丽莎白·安德森（Elizabeth Anderson）阐明知识评判中的权力不对等与制度排斥，结合[[Growth\|成长]]性认识不正义分析算法对多元地方性知识与弱势群体发展机会的压制。（pp.7–8） |
 
 > [!warrant]- 理论如何支撑论证
-> 社会认识论确立了依赖是求知过程的[[Ontology|本体论]]前提，从而驳斥了要求学生彻底脱离技术以达致技术纯洁性的教条主义设想；延展[[Theory of Mind|心智理论]]进一步为认知卸载提供了辩护空间，但同时划定了边界——唯有当学习者保留对人机耦合的有效控制、理解系统输入并能独立复现核心逻辑时，工具整合才具有发展正当性；[[Epistemic Cognition|认识论认知]]理论深入微观心智机制，揭示出若算法直接给出终局判定，学习者将因丧失认知挣扎而无法建立批判性鉴别力；认识正义理论则将视阈从微观人机互动拉升至宏观结构，证明技术中介的权威并非中立产物，必须依托制度性分布式责任与知识多样性保障，防止技术系统隐蔽再生产主流阶层的话语特权。（pp.2–8）
+> 社会认识论确立了依赖是求知过程的[[Ontology|本体论]]前提，从而驳斥了要求学生彻底脱离技术以达致技术纯洁性的教条主义设想；[[Extended Mind Theory|延展心智理论]]进一步为认知卸载提供了辩护空间，但同时划定了边界——唯有当学习者保留对人机耦合的有效控制、理解系统输入并能独立复现核心逻辑时，工具整合才具有发展正当性；[[Epistemic Cognition|认识论认知]]理论深入微观心智机制，揭示出若算法直接给出终局判定，学习者将因丧失认知挣扎而无法建立批判性鉴别力；认识正义理论则将视阈从微观人机互动拉升至宏观结构，证明技术中介的权威并非中立产物，必须依托制度性分布式责任与知识多样性保障，防止技术系统隐蔽再生产主流阶层的话语特权。（pp.2–8）
 
 ---
 
@@ -174,7 +174,7 @@ issuing_organization: ""
 
 > [!logic-map]- [[Epistemic Dependence|认识依赖]]与关系性[[Epistemic Agency|认识主体性]]重构逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["技术中介转变：人工智能成为知识筛选、压缩与确证的认识中介"] --> B["概念重塑：超越使用频率，区隔工具性协助与承载判断型协助"]
 >     B --> C["边界界定：确立六维诊断标准，划分生产性依赖与有害性依赖"]
 >     B --> C1["案例剖析：学术写作中评价性判断外包与可恢复性断裂"]
@@ -187,7 +187,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一　认识依赖的本质在于评价性判断的让渡而非工具使用的行为频次
+### 论证步骤一　认识依赖的教育风险取决于评价性判断的算法置换而非工具使用的行为频次
 
 > [!claim] 步骤一核心主张
 > 认识依赖（Epistemic Dependence）并非由行为使用频率或偶发性错误所界定，而是体现为技术介入与人类判断之间的结构性关系；区隔工具性协助与承载判断型协助构成了诊断认识控制权是否被算法篡夺的核心分析支点。（pp.3–5）
@@ -207,7 +207,7 @@ issuing_organization: ""
 > | 协助形态 | 核心操作范围 | [[Epistemology\|认识论]]要求与自主权归属 |
 > |---|---|---|
 > | **工具性／表征性协助**<br>(Instrumental / Representational Assistance) | [[Brainstorming\|头脑风暴]]方案生成、语法修正、跨语言翻译、[[Document\|文献]]初步检索与格式排版 | 属于表层心智负荷的物理延展，学术质量与正确性标准仍完全由学习者自主把控。 |
-> | **承载判断型协助**<br>(Judgement-Bearing Assistance) | 评价论据充分性、判定论证说服力、裁定伦理合规性以及鉴别学术质量高下 | 极具规范敏感性，学习者不仅外包了内容生产，更全盘让渡了界定知识优劣的标准与裁决权。 |
+> | **承载判断型协助**<br>(Judgement-Bearing Assistance) | 评价论据充分性、判定论证说服力、裁定伦理合规性以及鉴别学术质量高下 | 极具规范敏感性，学习者不仅外包了内容生产，更彻底移交了界定知识优劣的标准与裁决权。 |
 
 #### 2. 六维诊断标准对生产性依赖与有害依赖的操作化划界
 
@@ -223,7 +223,7 @@ issuing_organization: ""
 > | **分布式责任（Distributed Responsibility）** | 学习者、教师、高校机构与技术提供商根据其知情程度与实际掌控权，公平合理地分担认识责任。 | 学习者被迫对递交的成果承担全部学术诚信责任，而控制算法黑箱与评价导向的厂商和高校却免于审查。 |
 > | **认识多样性（Epistemic Plurality）** | 人机交互主动暴露学术争鸣、[[Heterogeneity\|异质性]]学科[[Paradigm\|范式]]规范以及处于边缘地位的非主导性观点。 | 系统将算法训练数据中占主导地位的答案、强势语言或知识层级包装为中立、唯一且全面的客观真理。 |
 
-延展[[Theory of Mind|心智理论]]表明，只有当外部工具的整合遵循上述标准时，技术耦合才能真正扩展心智而非掏空主体。（pp.4–5）
+[[Extended Mind Theory|延展心智理论]]表明，只有当外部工具的整合遵循上述标准时，技术耦合才能真正扩展心智而非掏空主体。（pp.4–5）
 
 > [!warrant]- 延展心智视角下的良性人机耦合机制
 > 延展心智命题（Clark & Chalmers, 1998; Clark, 2025）确立了认知成就可以分布于人类与外部环境人造物之间。然而，外包认知操作并不等同于认知能力的无条件扩展。唯有当学习者能够主动调控耦合过程、审查技术系统的输入贡献、在目标教学要求层面独立复现推演步骤，并能在全新情境下灵活迁移时，心智外包才具有正当性；反之，若系统在不透明、不可质疑且无法复现的条件下接管核心判断，技术便直接旁路了学习者的主体参与，使原本的发展性[[Scaffolding|脚手架]]退化为阻断心智成熟的有害替代品。（pp.4–5）
@@ -232,14 +232,14 @@ issuing_organization: ""
 
 在真实的大学写作情境中，这两种协助形态与诊断维度的断裂表现得尤为尖锐。（pp.4–6）
 
-> [!example] 本科社会科学论文撰写中的评价权让渡与可恢复性断裂
+> [!example] 本科社会科学论文撰写中的评价权转移与可恢复性断裂
 > - **情境描述** 一名大三社会学学生在撰写关于数字劳工权益的期末学年论文。起初，该生仅使用 ChatGPT 检索相关学界术语并调整参考文献格式（工具性协助，认识主体性未受损）。
 > - **异化转折点** 随着截止日期临近，学生将自己撰写的两段核心论证输入模型，并提问该论证是否有力、引用的马克思异化理论是否切题，以及是否符合学术期刊发表标准。随后，模型给出了极度肯定且语法优良的修改版本，并建议直接使用修正稿。
 > - **认识后果诊断** 学生未经任何核实便全盘采纳了修正稿。此举标志着学生不仅外包了语言表达，更将判定何为严密论证与理论是否切题的**评价性判断（Evaluative Judgement, Tai et al., 2018）**全盘让渡给模型。在随后的课堂口试中，导师要求其解释为何模型删去了一篇关键反对文献的理由，该生瞠目结舌，完全无法复述推导骨架（可恢复性断裂）；当换用另一道相似的阶级理论分析题进行当堂闭卷测试时，其论证能力发生断崖式下跌（可迁移性崩溃），完整印证了有害认识依赖的形成机理。
 
 ---
 
-### 论证步骤二　四条社会技术路径系统剥离了学习者的中间认识动作与批判审议
+### 论证步骤二　流畅权威与制度诱因等四条社会技术路径系统剥离中间认识动作并削弱批判审议
 
 > [!claim] 步骤二核心主张
 > 有害认识依赖并非单纯源于学习者的个人怠惰，而是由[[Educational Affordances|技术可供性]]、界面呈现与高校制度激励共同构筑的四条社会技术路径系统催生，其直接后果是中间认识动作的萎缩与评价性判断的全面丧失。（pp.5–7）
@@ -296,7 +296,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三　关系性认识主体性与分布式制度责任构成抵御认知异化的规范基石
+### 论证步骤三　关系性认识主体性与跨层次分布式责任确立抵御认知异化的规范基石
 
 > [!claim] 步骤三核心主张
 > 教育的终极目标不是培养脱离一切技术的孤独沉思者，而是在人机共生格局中培育具有提问、核验、对比与辩护能力并承担责任的关系性认识主体性（Relational Epistemic Agency），同时以分布式责任与认识正义重塑制度环境。（pp.7–9）
@@ -338,7 +338,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤四　扭转有害依赖必须将干预前移至界面溯源、探究教学与过程性评价
+### 论证步骤四　扭转有害依赖要求将干预重心从终端违规惩戒前移至界面溯源、生产性摩擦与过程性评价
 
 > [!claim] 步骤四核心主张
 > 扭转有害认识依赖必须采取协同干预战略，将应对举措从终端违规惩戒全面前移至系统架构设计、探究教学重塑、评价过程显化与机构采购规制四重维度。（pp.8–9）
@@ -363,7 +363,7 @@ issuing_organization: ""
 >   2. **第二步（多源对比矩阵建构）** 教师禁止学生直接点击一键采纳，而是要求学生将 AI 的反馈批注与同伴互评意见、教师在以往课程中提供的经典范例文档并列排列在对照表中。
 >   3. **第三步（执行对抗性反思追问）** 学生必须使用四组标准反思问题审查 AI 意见：AI 指出样本量偏小的依据是什么？它预设了哪种统计检验力标准？是否忽视了[[Qualitative Research|质性研究]]中资料饱和度而非样本量的特殊逻辑？如果采纳该修改，是否会违背本研究的[[Phenomenology|现象学]]初衷？
 >   4. **第四步（撰写修改决策辩护词）** 学生提交最终研究设计时，必须附带一份《反思决策日志》，清晰陈述其采纳了 AI 关于增加[[Covariate Adjustment|协变量控制]]的建议，因为该统计考虑切合[[Research Question|研究问题]]；但坚决拒绝了 AI 将访谈个案缩减为封闭量表的建议，理由是其严重伤害了研究的质性深度。
-> - **效果评估** 通过该规程，技术从直接给出答案的替代者转变为促发深度审视的对话靶子，学生的[[AI Literacy|人工智能素养]]（AI Literacy）与反馈素养（Feedback Literacy, Carless & Boud, 2018）同步跃升，在保留技术支持的同时全面捍卫了认识主体性。
+> - **效果评估** 通过该规程，技术从直接给出答案的替代者转变为促发深度审视的对话靶子，学生的[[AI Literacy|人工智能素养]]（AI Literacy）与反馈素养（Feedback Literacy, Carless & Boud, 2018）显著发展，在保留技术支持的同时全面捍卫了认识主体性。
 
 #### 3. 评价范式转型与机构治理责任的制度化落实
 
@@ -386,7 +386,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **[[Epistemic Dependence|认识依赖]]的本质是协助形态与判断权的再分配** 认识依赖并非不可接受的教育失败，其破坏性并不取决于使用频率，而取决于技术是否置换了不可外包的评价性判断；六维诊断标准确立了区分生产性依赖与有害依赖的[[Operationalization|操作化]]标尺。（pp.3–5）
 > 2. **四重社会技术路径造成中间认识动作的系统性剥落** 流畅权威诱发信任错位，无摩擦委派切除推导过程，不透明综合扁平化学科标准，制度化嵌入倒错权责分配，合力导致学习者不确定性耐受力萎缩与学术脆弱性。（pp.5–7）
-> 3. **关系性[[Epistemic Agency|认识主体性]]构成智能时代教育的规范内核** 应当超越极端的技术纯洁性幻想与被动的顺从主义，在人机相互依赖中培育学生提问、核验、对比、辩护与负责的权能，并以分布式制度责任与认识正义为底线构建系统防线。（pp.7–9）
+> 3. **关系性[[Epistemic Agency|认识主体性]]构成智能时代教育的规范基石** 应当超越极端的技术纯洁性幻想与被动的顺从主义，在人机相互依赖中培育学生提问、核验、对比、辩护与负责的权能，并以分布式制度责任与认识正义为底线构建系统防线。（pp.7–9）
 
 ---
 
@@ -402,7 +402,7 @@ issuing_organization: ""
 >
 > *Generative AI compresses several activities—searching, reading, comparing, synthesising and drafting—into a single request–response cycle... when intermediate epistemic actions disappear from the workflow, learners may complete tasks without practising the actions that the task was intended to develop. Assessment incentives intensify the pathway. If institutions reward polished products while leaving process and justification invisible, delegating epistemic work is rational. AI can then shift from scaffold to substitute, especially in [[Feedback]] and evaluation.*
 
-> [!citation-card] 关系性认识主体性作为规范内核
+> [!citation-card] 关系性认识主体性作为规范基石
 > 本综述将关系性认识主体性确立为人工智能中介学习的规范导向……所涉及的核心价值绝非脱离他人或工具的绝对独立；教育必然包含依赖，追求自足自立的[[Epistemic Ideals|认识理想]]既不现实也具有排他性。恰当的理念应当是关系性与支架式的：学习者借助社会、物质与制度层面的支持来行使主体性能动权，同时牢固保留实质性参与知识主张建构、评估与被接受过程的权能。这一立场拓展了关于关系性自主与人机[[Blended Learning|混合学习]]的理论脉络。（p.7）
 >
 > *This review positions relational epistemic agency as the normative orientation of AI-mediated learning... The value at stake is not independence from others or tools. Education necessarily involves dependence, and ideals of self-sufficient knowing are both unrealistic and exclusionary. The relevant conception is relational and scaffolded: learners exercise agency through social, material and institutional supports while retaining meaningful capacities to participate in how claims are formed, assessed and accepted. This position extends work on relational autonomy and hybrid human–AI learning.*

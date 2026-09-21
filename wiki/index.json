@@ -5531,7 +5531,8 @@
       "生成式人工智能",
       "Generative AI",
       "GenAI",
-      "生成式人工智能技术"
+      "生成式人工智能技术",
+      "Artificial Intelligence"
     ]
   },
   {
@@ -12443,6 +12444,19 @@
       "双重编码理论",
       "DCT",
       "Dual-Coding Theory"
+    ]
+  },
+  {
+    "title": "Extended Mind Theory",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Extended Mind Theory.md",
+    "aliases": [
+      "延展心智理论",
+      "延展心智假说",
+      "Extended Mind Thesis",
+      "延展心智论",
+      "延展认知",
+      "Extended Cognition"
     ]
   },
   {
