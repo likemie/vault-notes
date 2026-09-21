@@ -8,7 +8,7 @@ aliases:
 summary: "在认识论认知AIR模型中，用于评估科学模型、解释、论证与证据等认识产出质量的规范性标准与评价准则。"
 type: concept
 domain: "educational-psychology"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Determinism]]"
   - "[[Epistemic Agency]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Formative Assessment]]"
   - "[[Epistemic Cognition]]"
   - "[[Justificatory Standards]]"
@@ -41,11 +42,12 @@ related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Chinn_2011_EP]]"
 confidence: high
-status: draft
+status: active
 created: 2026-09-10
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Epistemic Ideals
@@ -63,14 +65,14 @@ updated: 2026-09-17
 > - **边界** 认识论理想关注对认识产出优劣的评价尺度，区别于探究追求的终极指向（[[Epistemic Aims]]），也区别于产出知识所依赖的具体生成程序（[[Reliable Epistemic Processes]]）。
 
 > [!citation-card] 认识论理想的内涵与评价功能
-> 认识论理想是用于评估所得科学产出（如论证或模型）质量的标准，例如与高质量证据的契合度。在构建论证时，人们受制于关于何种理由足以支持所提主张的认识论理想。高水平论证立足于恰当的认识论理想，而劣质论证则依赖存在缺陷的理想。（pp. 202, 209, 211）
+> 认识论理想是用于评估所得科学产出（如论证或模型）质量的标准，例如与高质量证据的契合度。在构建论证时，人们受制于关于何种理由足以支持所提主张的认识论理想。高水平论证立足于恰当的认识论理想，而劣质论证则依赖存在缺陷的理想。（pp. 202-211）
 >
 > *Epistemic Ideals are the criteria used to evaluate the quality of resulting scientific products (e.g., arguments or models), such as fit with high-quality evidence... When composing arguments, people are guided by epistemic ideals regarding what counts as adequate support for the claims being made... High-quality arguments are grounded in appropriate epistemic ideals; low-quality arguments rely on problematic ideals.*
 
 > [!boundary] 概念边界
-> - 不等于 [[Epistemic Aims]]：认识目标是指向真理、因果理解或经验解释的探究意图，回答为什么探究；认识论理想则是衡量该产出是否达成高标准的检验规则，回答怎样才算令人信服的优质成果。
-> - 不等于 [[Reliable Epistemic Processes]]：认识论过程是生成证据或模型的实践动作与操作规程，回答通过什么手段获取知识；认识论理想是对产出状态的质性标准，回答达到何种标准。
-> - 不等于 形式逻辑有效性：认识论理想具有学科情境依附性与经验性，超越形式逻辑的抽象命题结构，紧密依赖特定学科领域对数据质量、直接性与综合性的专业规范。
+> - **[[Epistemic Aims]]（认识论目标）** 认识目标是指向真理、因果理解或经验解释的探究意图，回答为什么探究；认识论理想则是衡量该产出是否达成高标准的检验规则，回答怎样才算令人信服的优质成果。
+> - **[[Reliable Epistemic Processes]]（可靠认识论过程）** 认识论过程是生成证据或模型的实践动作与操作规程，回答通过什么手段获取知识；认识论理想是对产出状态的质性标准，回答达到何种标准。
+> - **形式逻辑有效性** 认识论理想具有学科情境依附性与经验性，超越形式逻辑的抽象命题结构，紧密依赖特定学科领域对数据质量、直接性与综合性的专业规范。
 
 ---
 
@@ -96,7 +98,7 @@ updated: 2026-09-17
 
 > [!logic-map]- 论证评价中认识论理想的层级结构
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["认识论理想<br>Epistemic Ideals"] --> B["证据级理想<br>Evidence-Level Ideals"]
 >     A --> C["论证与模型级理想<br>Argument- & Model-Level Ideals"]
 >     
@@ -145,6 +147,16 @@ updated: 2026-09-17
 
 ---
 
+### 命题四　生成式人工智能的通用合成抹平学科认识论理想，催生向关系性认识主体性的规范理想转向
+
+> [!concept-lens] 算法均质化与规范重塑
+> 探讨大语言模型无差别表层流畅性如何侵蚀分化的学科证据标准，阐明人机时代规范性认识理想的重构路径。
+
+> [!claim] [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]
+> **算法抹平学科证据标准与关系性主体性重塑** 各学科对于何为有效证据、合理解释与正当推论拥有严格分化的认识论理想（Goldman et al., 2016）：历史学依赖一手档案溯源与版本考证；实证科学依赖受控随机实验、统计功效与效应量检验；哲学伦理学依赖概念严密性与命题有效性。然而，[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）的通用综合语调抹平了这些学科分化，以表面流畅的无差别假答案掩盖证据缺陷，阻碍了学生进入专业知识共同体的认识论社会化。同时，传统追求完全脱离外部支持的孤立自足认识理想在智能时代已不现实；教育应当确立“关系性认识主体性”这一新型规范性认识理想，引导学生在依托工具的同时牢固掌握对证据充分性与学科标准的最终裁决权。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 6–7)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -153,6 +165,7 @@ updated: 2026-09-17
 > | **实质决定论** | 认识论理想决定论证辩护力，超越形式句法结构 | 科学论证教学与评价、伪科学与错误信息甄别 | Duncan & Chinn |
 > | **实体纠缠论** | 认识论理想高度依附于学科实体知识与情境机制 | 学科探究实践、跨学科证据迁移与评估 | Duncan & Chinn |
 > | **主体建构论** | 依赖元认识论讨论协商公共标准，确立认识主体性 | 课堂探究文化重构、[[Formative Assessment\|形成性评价]]与教育公平 | Duncan & Chinn |
+> | **规范重塑论** | 算法通用合成抹平学科证据标准，催生关系性认识主体性理想转向 | 智能技术环境下的证据评估、人机协同探究与学科认识论社会化 | Du & Yuan |
 
 ---
 
@@ -163,6 +176,7 @@ updated: 2026-09-17
 > - **2011 — 扩展构件模型提出** Chinn 等学者提出扩展认识论认知五构件框架，将确证标准明确置于探究目标与[[Causal Processes|因果过程]]的网络之中。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition|AIR]] 理论模型确立** Chinn, Rinehart & Buckland 正式提出 AIR 理论架构，将[[Epistemology|认识论]]理想（Ideals）确立为与[[Epistemic Aims|认识目标]]（Aims）及[[Reliable Epistemic Processes|可靠过程]]（Reliable Processes）并列的三大核心构件。
 > - **2025 — 论证评价中位模板与实质转向** Duncan & Chinn 建立观察与证据整合的规范性理想模板，系统论证了认识论理想在科学论证质性评价中的不可替代性，推动论证评价由外在句法转向认识论实质。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025)]]
+> - **2026 — 算法均质化危机与关系性规范理想转向** Du & Yuan 揭示大语言模型的表层综合语调严重抹平历史学、实证科学与哲学等不同学科固有的认识论理想，提出在人工智能深度中介环境下，规范性认识理想应由“孤立自足的认知者”转向“敢于质疑、对最终论断负责的关系性[[Epistemic Agency|认识主体]]”。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026)]]
 
 ---
 
@@ -171,6 +185,10 @@ updated: 2026-09-17
 > [!tension] 核心张力：形式结构完备性还是[[Epistemology|认识论]]实质？
 > - **句法结构主义（蓝方）** 依据 Toulmin 论证模型或 CER 框架，强调论证文本中主张、数据、推理与反驳等特定功能部件的完整性与修辞组织。
 > - **认识论实质论（红方）** 强调论证质量根植于支撑主张的认识论理想与证据[[Reliability|可靠性]]；结构复杂的文本完全可能是认识论劣质的伪科学论证。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 203–204)]]
+
+> [!tension] 规范理想之争：孤立自足认识还是关系性认识相互依赖？
+> - **孤立自足论（蓝方）** 传统认识论理想倾向于将完全不依赖外部脚手架或技术中介的独立判断能力视为成熟求知者的终极标准，对工具中介持怀疑甚至贬抑态度。
+> - **关系性共生论（红方）** 认为在现代知识社会中，广泛的认知依赖不可避免且具备认识价值；规范性认识理想不应要求消除工具依赖，而应聚焦在工具网络中维持评价性判断与责任担当的关系性主体性。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 6–7)]]
 
 > [!critique] 外部批评
 > - **形式论辩型式的规范性缺陷** Walton 等学者提出的非形式论辩型式（Argument Schemes）及其批判性提问清单，未清晰说明提问标准的规范性来源，且难以处理科学探究中大规模证据收敛与[[Meta-analysis|元分析]]综合。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
@@ -196,3 +214,20 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards|确证标准]]与[[Epistemic Value|认识价值]]在内的扩展[[Epistemic Cognition|认识论认知]]构件，为[[Epistemology|认识论]]理想的界定奠定理论基石。
 > - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将认识论理想作为论证质量评价的双轴核心之一，构建了核心科学实践的基准规范模板，并在初中课堂中实证检验其运作机制。
+> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 分析生成式人工智能抹平各学科认识论理想的表层假答案机制，提出确立关系性认识主体性以重塑人机共生环境下的规范性认识标准。
+
+---
+
+## 条目关联
+
+> [!entry-map] 相关概念与理论关系总览
+> | 概念/理论 | 维度/关系类型 | 核心关联说明 |
+> |---|---|---|
+> | [[Epistemology|认识论]] | 理论根基 | 认识论理想是规范认识论与社会认识论在认知评价中的具体标准投射。 |
+> | [[AIR Model of Epistemic Cognition|AIR 认识论认知模型]] | 理论框架 | 认识论理想与认识目标（Aims）、可靠认识过程（Processes）共同构成认识论认知的核心三维结构。 |
+> | [[Epistemic Aims|认识论目标]] | 构件协同 | 认识目标决定为何探究（如理解机制），认识论理想决定探究产物达到何种质量才算合格。 |
+> | [[Reliable Epistemic Processes|可靠认识论过程]] | 过程与产出 | 可靠过程是产出知识的实践方法，认识论理想是对产出状态的规范性检验规则。 |
+> | [[Epistemic Agency|认识主体性]] | 实践主体 | 学习者通过共同体元认识论协商内化认识论理想，确立对知识评价与标准制定的自主权。 |
+> | [[Generative Artificial Intelligence|生成式人工智能]] | 技术中介挑战 | 生成式模型用通用的表层流畅性抹平学科严密理想，诱导认识依赖并削弱规范性评价标准。 |
+> | [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] | 实证支撑 | 确立论证评价的双轴模型，实证揭示认识论理想对科学论证品质的实质性决定作用。 |
+> | [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] | 智能时代重构 | 论证人工智能扁平化学科认识理想的机制，阐明关系性认识主体性作为规范理想的重构路径。 |

@@ -5,6 +5,26 @@
       "path": "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
     },
     {
+      "basename": "Blended Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Blended Learning.md"
+    },
+    {
+      "basename": "Student Engagement",
+      "path": "wiki/concepts/higher-education/Student Engagement.md"
+    },
+    {
+      "basename": "Phenomenology",
+      "path": "wiki/theories/educational-philosophy/Phenomenology.md"
+    },
+    {
+      "basename": "AI Literacy",
+      "path": "wiki/concepts/competency-and-assessment/AI Literacy.md"
+    },
+    {
+      "basename": "Scientific Uncertainty",
+      "path": "wiki/concepts/educational-philosophy/Scientific Uncertainty.md"
+    },
+    {
       "basename": "Epistemic Ideals",
       "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
     },
@@ -79,10 +99,6 @@
     {
       "basename": "Generative AI Agent in Education",
       "path": "wiki/concepts/educational-technology/Generative AI Agent in Education.md"
-    },
-    {
-      "basename": "AI Literacy",
-      "path": "wiki/concepts/competency-and-assessment/AI Literacy.md"
     },
     {
       "basename": "Education Resources Information Center",
@@ -183,22 +199,6 @@
     {
       "basename": "Socratic Dialogue",
       "path": "wiki/concepts/instruction-pedagogy/Socratic Dialogue.md"
-    },
-    {
-      "basename": "Cognitive Load Theory",
-      "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
-    },
-    {
-      "basename": "Correlational Research",
-      "path": "wiki/methods/quantitative/Correlational Research.md"
-    },
-    {
-      "basename": "Problem Solving",
-      "path": "wiki/concepts/competency-and-assessment/Problem Solving.md"
-    },
-    {
-      "basename": "Direct Instruction",
-      "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
     }
   ],
   "omittedPaths": [],

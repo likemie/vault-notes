@@ -42,8 +42,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Self-Regulated Learning]]"
   - "[[Self-Efficacy]]"
-  - "[[Reliability]]"
-  - "[[AI Hallucination]]"
   - "[[Scaffolding]]"
   - "[[Epistemology]]"
   - "[[Theory of Knowledge]]"
@@ -69,6 +67,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Formative Assessment]]"
   - "[[Problem Finding]]"
+  - "[[Epistemic Agency]]"
   - "[[Creativity Assessment]]"
 related_theories:
   - "[[Creative Problem Solving]]"
@@ -96,13 +95,14 @@ related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Runco_2026_CRJ]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-09-17
+updated: 2026-09-21
 ---
 
 # Metacognition
@@ -112,14 +112,14 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 元认知（Metacognition）指个体对自己认知过程的认知、意识与主动调节能力，最早由 Flavell（1976, 1979）界定为“关于认知的认知（cognition about cognition）”。它主要包含元认知知识（对自身认知特征、任务属性与策略有效性的理解）和元认知调节（在前瞻规划、即时监控与事后评估中对思维过程的控制）。在学习科学与[[Higher-Order Thinking Skills|高阶思维]]研究中，元认知构成了联结[[Critical Thinking|批判性思维]]与[[Creativity|创造性思维]]的枢纽机制；既在算法流畅性面前维持“[[Epistemological Vigilance|认识论警觉]]”、防止盲目[[Cognitive Offloading|认知外包]]，又在[[Creative Problem Solving|创造性问题解决]]中主导认知定势的突破与启发式策略的深层内化。[[Argument_Cole_2015_AJE|(Cole et al., 2015, p. 249)]]; [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10–13)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3, 10)]]
+> 元认知（Metacognition）指个体对自己认知过程的认知、意识与主动调节能力，最早由约翰·弗拉维尔（John Flavell, 1976, 1979）界定为“关于认知的认知（cognition about cognition）”。它主要包含元认知知识（对自身认知特征、任务属性与策略有效性的理解）和元认知调节（在前瞻规划、即时监控与事后评估中对思维过程的控制）。在学习科学与[[Higher-Order Thinking Skills|高阶思维]]研究中，元认知构成了联结[[Critical Thinking|批判性思维]]与[[Creativity|创造性思维]]的枢纽机制；既在算法流畅性面前维持[[Epistemological Vigilance|认识论警觉]]、防止盲目[[Cognitive Offloading|认知外包]]，又在[[Creative Problem Solving|创造性问题解决]]中主导认知定势的突破与启发式策略的深层内化。[[Argument_Cole_2015_AJE|(Cole et al., 2015, p. 249)]]; [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10–13)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3, 10)]]
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 个体跳出当前具体认知操作，对自身的推理逻辑、偏见盲区、解题僵局以及技术工具输出进行审视、评估与自适应校准的高阶心智调控中枢。
 > - **理论用途** 解释学生如何从被动的知识接收者转变为自主监控的学习者；在创造性解决问题中指引何时坚持、转换视角或重构表征；在生成式 AI 交互中作为防范[[Illusion of Competence|虚假能力错觉]]的关键心智防线。
 > - **解释边界** 元认知不同于具体的认知操作（如阅读、运算、列举观念等执行动作），亦不同于孤立的自我信念（如[[Creative Self-Efficacy|创造性自我效能感]]），而是贯穿思维全周期的[[Reflexivity|反思性]]意识与自适应调控过程。
 
-> [!citation-card]- 关键表述：元认知的三大理论支柱（[[Argument_Park_2026_TSC|Park et al., 2026]]; [[Argument_Li_2026_CEAI|Li et al., 2026]]; Hargrove & Nietfeld, 2015）
+> [!citation-card] 元认知与批判性思维、创造力及人机反思协同
 > 创造力与[[Critical Thinking|批判性思维]]都涉及评价、判断与自我调节等认知与元认知过程，要求灵活而目标导向的推理，元认知因此是两者正相关的共同基础，也支撑联合培养的可行性。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]
 >
 > 我们建议嵌入显性支架——如[[Reflexivity|反思性]]提示、量规引导评估和 AI 素养培训——以激活学生的元认知监控，发挥 ChatGPT 作为[[Dialogue in Education|对话]]伙伴而非便利工具的潜能，维持[[Surface and Deep Learning|深层学习]]所必需的“[[Epistemic Friction|认识论摩擦]]”。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10)]]
@@ -127,10 +127,10 @@ updated: 2026-09-17
 > 显性元认知指导使学生习得规划、监控与评价自身思维过程的策略，能显著提高学生在劣构问题中的顿悟表征重构能力与远距离概念联想表现，证明创造性[[Problem Solving|问题解决]]本质上依赖高质量的元认知调控。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10; Hargrove & Nietfeld, 2015)]]
 
 > [!boundary]- 概念边界辨析
-> - **不等于 一般认知加工（Cognition）** 认知加工直接针对任务对象（如阅读文本、计算公式、生成创意用途）；元认知则针对认知加工本身（如“我当前生成的构想是否陷入了某种思维定势？”、“这个解题路径是否有效？”）。
-> - **不等于 [[Epistemological Beliefs|认识论信念]]（Epistemic Beliefs）** 认识论信念是个体关于知识本质、结构与确定性的哲学[[Hypothesis|假设]]与态度倾向；元认知是将这些信念转化为即时监控、证据审校与策略重构的操作性调控过程。
-> - **不等于 [[Self-Regulated Learning|自我调节学习]]（SRL）** 元认知是自我调节学习的核心认知成分；自我调节学习除元认知外，还广泛涵盖动机意志调适、情绪管理与物理环境建构等维度。
-> - **不等于 [[Creative Self-Efficacy|创造性自我效能感]]（CSE）** 创造性[[Self-Efficacy|自我效能感]]是对自身完成创新任务的自信与主观预期（“我相信我能找到突破口”）；元认知则是用于评估与引导具体思维流动的策略知识与监控操作（“我知道当前路径不通，需要切换概念范畴”）。
+> - **认知加工（Cognition）** 认知加工直接针对任务对象（如阅读文本、计算公式、生成创意用途）；元认知则针对认知加工本身（如审视当前生成的构想是否陷入某种思维定势，或检验特定解题路径是否有效）。
+> - **[[Epistemological Beliefs|认识论信念]]（Epistemic Beliefs）** 认识论信念是个体关于知识本质、结构与确定性的哲学[[Hypothesis|假设]]与态度倾向；元认知是将这些信念转化为即时监控、证据审校与策略重构的操作性调控过程。
+> - **[[Self-Regulated Learning|自我调节学习]]（SRL）** 元认知是自我调节学习的核心认知成分；自我调节学习除元认知外，还广泛涵盖动机意志调适、情绪管理与物理环境建构等维度。
+> - **[[Creative Self-Efficacy|创造性自我效能感]]（CSE）** 创造性[[Self-Efficacy|自我效能感]]是对自身完成创新任务的自信与主观预期；元认知则是用于评估与引导具体思维流动的策略知识与监控操作。
 
 ---
 
@@ -139,10 +139,10 @@ updated: 2026-09-17
 > [!contrast-table] 元认知与相关高阶认知成分系统辨析
 > | 比较维度 | **元认知（Metacognition）** | **认知加工（Cognition）** | **[[Critical Thinking\|批判性思维]]（Critical Thinking）** | **[[Self-Regulated Learning\|自我调节学习]]（SRL）** | **[[Creative Self-Efficacy\|创造性自我效能感]]（CSE）** |
 > |---|---|---|---|---|---|
-> | **调控对象** | 自身正在进行的思维过程与策略选择 | 外部客体、学科事实与信息流 | 论证结构、事实证据与推理谬误 | 整体学习生态（认知、动机、环境） | 面向未来创造任务的行动能力信心 |
-> | **核心操作** | 计划、监控、查错、反思与策略校准 | 记忆、计算、分类、联想与表征 | 质疑、分析、评估、证成与逻辑辩护 | 目标设定、时间规划、意志维持与求助 | 确立效能预期、维持试错韧性与坚持性 |
-> | **在创造探究中的功能** | 识别思维定势卡顿，决策何时转换发散方向 | 检索长时记忆概念并生成初级构想 | 评估创意方案的适切性、逻辑性与可行性 | 维持长周期探究投入，抵抗拖延与挫败 | 激发敢于承担智识风险的心理动力 |
-> | **在 AI 交互中的角色** | 审视 AI 输出可[[Reliability\|信度]]并决定人机分工 | 调用提示词生成初稿与阅读响应 | 识别 AI 文本中的逻辑漏洞与[[AI Hallucination\|幻觉]] | 规避非结构化调用导致的学术依赖 | 确立人类驾驭智能工具的主体性信念 |
+> | **核心对象** | 认知过程本身（二阶心智反思） | 外部任务客体或领域知识（一阶加工） | 论证推理的真伪、效度与偏倚 | 整个学习生态系统与自我行为 | 个体应对创新挑战的自信与信念 |
+> | **主要功能** | 监控、评估、调准策略与突破定势 | 编码、存储、提取、运算与生成表达 | 评估论据、识别谬误、权衡替代解释 | 统合动机、情感、行为与物理环境 | 激发启动动机、维持抗挫折韧性 |
+> | **经典操作示例** | “我当前这套解题策略可能陷入了死胡同，需要退回重新表征问题” | “根据欧姆定律公式，计算当前电路的电流与电压数值” | “该研究样本缺乏随机分组，因而因果推论存在内部效度威胁” | “设定每天早晨专注阅读 45 分钟，并清理桌面手机干扰” | “我相信自己面对新颖劣构问题时能构想出突破性解决方案” |
+> | **在人机协同中的角色** | 维持[[Epistemological Vigilance\|认识论警觉]]，抵抗算法流畅假象 | 借助 AI 提高打字、翻译与检索效率 | 核验 AI 生成文献与证据的真实性 | 规划人机协作分工并监控交互耗时 | 维持对自身原创能力的信心防线 |
 
 ---
 
@@ -170,7 +170,7 @@ updated: 2026-09-17
 >     DUAL -->|"发散启发式调度"| CR["创造性思维 (Creative Thinking)<br>突破框架、远距概念重构、多向构想"]
 >     DUAL -->|"收敛核验式调度"| CT["批判性思维 (Critical Thinking)<br>量规核验、逻辑证成、可行性检验"]
 >     
->     CR & CT --> OUT["高质量创新成果产出与深层学习闭环"]
+>     CR & CT --> OUT["高质量创新成果产出与深层学习循环回路"]
 >     OUT -->|"经验内化反哺"| META
 > ```
 
@@ -221,15 +221,18 @@ updated: 2026-09-17
 > [!claim] Chen, S., & [[Alan C. K. Cheung|Cheung, A. C. K.]]
 > **大样本[[Meta-analysis|元分析]]确证无支架技术介入导致“[[Metacognitive Laziness|元认知惰性]]”** 基于 57 项[[Experimental Research|实验研究]]元分析（$k = 10$ 项元认知[[Effect Size|效应量]]），生成式 AI 对大学生元认知能力的总体干预效应在统计学上完全不显著（$g^+ = 0.078$ $[-0.495, 0.652], p = .789$），与[[Language Skills|语言技能]]（$2.331$）和[[Academic Achievement|学业成绩]]（$0.633$）的剧烈提升形成断层反差。这一实证结果确证了“元认知惰性假说（Metacognitive Laziness [[Hypothesis]]）”：在缺乏显性反思任务规程的常规应用中，大模型的极速解答使学生倾向于跳过深层的问题表征、监控与修正回路，直接采纳算法生成物，导致元认知自我调节机能陷入停滞乃至退化。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10, 15–16)]]
 
+> [!claim] [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]
+> **中间认识动作剥离与生产性摩擦的元认知激活功能** 批判整合性综述揭示，生成式人工智能的无摩擦委派将检索、比对、综合与起草等复杂动作一键压缩，其最深刻的认识论危害在于切除了工作流程中必不可少的中间认识动作（Intermediate Epistemic Actions）。当学生无需权衡相互冲突的解释或经历直面反常证据的认知挣扎时，负责状态评估与策略调校的元认知监控便彻底失去激活土壤，使学习者直接沦陷于算法的虚假流畅权威。唯有在人机界面与教学规程中主动注入生产性认识摩擦（Productive Epistemic Friction）——例如推行对抗性反思质询与多源反馈对照，强制要求学生撰写修改决策辩护词——才能重新唤醒元认知监控机能，守住评价性判断的主体掌控权。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–8)]]
+
 ---
 
 ### 命题五　显性元认知指导直接驱动创造性问题解决，且独立深度反思是策略内化的最优组织形式
 
 > [!concept-lens] [[Creativity Training|创造力干预]]中的元认知因果效能与组织形态
-> 探讨元认知策略教学对[[Creative Problem Solving|创造性问题解决]]的直接增益，以及个体深思与小组协作在元认知沉淀中的分化。
+> 探讨元认知策略教学对[[Creative Problem Solving|创造性问题解决]]的直接增益，以及个体深思与小组协作在元认知发展中的分化。
 
 > [!claim] Hargrove & Nietfeld; Guo et al.
-> **元认知策略因果促学与个体沉浸反思优势** 准[[Experimental Research|实验研究]]证实，接受显性元认知指导（教授规划、过程监控与自评反思策略）的学生，在创造性[[Problem Solving|问题解决]]（CPS）任务与远距离概念重组（[[Remote Associates Test|RAT]]）中表现出高度显著的增益，显著提升了元认知意识量表（MAI）得分。多层[[Meta-analysis|元分析]]进一步表明，高校创造力训练中独立个体练习的[[Learning Gain|学习增益]]（$g = 0.682$）显著高于松散的小组协作（$g = 0.567$）。其核心认知机制在于：个体独立探索能够消除同伴评价焦虑与“社会惰化”，促使学习者独自经历面对僵局、调用元认知监控调整策略并实现突破的完整闭环，从而将外部启发式规则深度内化为稳定的个人元认知图式。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–7, 10)]]; Hargrove & Nietfeld (2015)
+> **元认知策略因果促学与个体沉浸反思优势** 准[[Experimental Research|实验研究]]证实，接受显性元认知指导（教授规划、过程监控与自评反思策略）的学生，在创造性[[Problem Solving|问题解决]]（CPS）任务与远距离概念重组（[[Remote Associates Test|RAT]]）中表现出高度显著的增益，显著提升了元认知意识量表（MAI）得分。多层[[Meta-analysis|元分析]]进一步表明，高校创造力训练中独立个体练习的[[Learning Gain|学习增益]]（$g = 0.682$）显著高于松散的小组协作（$g = 0.567$）。其核心认知机制在于：个体独立探索能够消除同伴评价焦虑与“社会惰化”，促使学习者独自经历面对僵局、调用元认知监控调整策略并实现突破的完整调控过程，从而将外部启发式规则深度内化为稳定的个人元认知图式。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–7, 10)]]; Hargrove & Nietfeld (2015)
 
 ---
 
@@ -241,8 +244,8 @@ updated: 2026-09-17
 > | **批判性高阶调控** | 元认知为批判性思维提供反思推理逻辑的高阶审视与偏见校准机能 | 认识论追问、思维审校、防范教条盲从 | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]]; Flavell (1979) |
 > | **自主性核心支撑** | 意识性元认知监控使学生能够进行知情决策与精准认知资源配置 | 状态感知、知情决策、资源自适应管理 | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]]; Pintrich (2002) |
 > | **双向思维共同底座** | 创造力与批判性思维共享评价、方案筛选与自我调节等元认知调控通道 | 构念底层正相关（$r = 0.386$）、发散收敛协同 | [[Argument_Park_2026_TSC\|Park et al. (2026)]] |
-> | **人机协同警觉防线** | 显性元认知反思支架抵御 AI 表面流畅性，防止元认知惰性与心智萎缩 | 认识论摩擦、元认知惰性假说（$g^+ = 0.08$ 不显著） | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
-> | **创造干预与策略内化** | 显性元认知指导显著促进创造性问题解决，独立深思比小组协作更有利于策略内化 | 元认知指导（MAI）、解题闭环、独立练习优势（$g = 0.682$ vs $g = 0.567$） | Hargrove & Nietfeld (2015); [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
+> | **人机协同警觉防线** | 显性元认知反思支架抵御 AI 表面流畅性，防止中间认识动作剥离与元认知惰性 | 认识论摩擦、元认知惰性假说（$g^+ = 0.08$ 不显著）、对抗性质询 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
+> | **创造干预与策略内化** | 显性元认知指导显著促进创造性问题解决，独立深思比小组协作更有利于策略内化 | 元认知指导（MAI）、解题调控回路、独立练习优势（$g = 0.682$ vs $g = 0.567$） | Hargrove & Nietfeld (2015); [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
 
 ---
 
@@ -254,6 +257,7 @@ updated: 2026-09-17
 > - **2010 年代　批判反思、[[Epistemology|认识论]]课程与[[Creative Problem Solving|创造性问题解决]]** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 探讨 IB 认识论（ToK）课程的元认知训练效能；哈格罗夫与尼特菲尔德（Hargrove & Nietfeld, 2015）开展准实验，证实显性元认知指导对高校[[Creativity|创造性]][[Problem Solving|问题解决]]的因果促学作用。
 > - **2025 年　基线控制[[Meta-analysis|元分析]]确证“[[Metacognitive Laziness|元认知惰性]]”** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 通过 57 项高校实验元分析证实生成式 AI 对元认知无统计显著促进（$g^+ = 0.078, p = .789$），推翻技术自发促学假说，实证确立防范元认知惰性的紧迫性。
 > - **2025–2026 年　大规模[[Meta-analysis|元分析]]确立协同机制与 AI 警觉防线** [[Argument_Park_2026_TSC|Park et al. (2026)]] 确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享元认知底座（$r = 0.386$）；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 揭示独立练习深思（$g = 0.682$）促进元认知策略内化的组织优势；[[Argument_Li_2026_CEAI|Li et al. (2026)]] 确立显性元认知监控作为生成式 AI 时代维系[[Epistemological Vigilance|认识论警觉]]的战略防线。
+> - **2026 年　关系性认识主体性与生产性认识摩擦的元认知转向** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 揭示无摩擦委派切除中间认识动作导致元认知监控瘫痪的社会技术路径，提出通过对抗性反思质询与生产性认识摩擦捍卫评价性判断的主体掌控权。
 
 ---
 
@@ -323,16 +327,16 @@ updated: 2026-09-17
 >
 > | 实证研究 | 样本与情境 | 研究设计与变量角色 | 核心定性与定量发现 | 理论与教学意义 |
 > |---|---|---|---|---|
-> | Hargrove & Nietfeld (2015) | 高校设计与工程专业学生（$EG = 118 / CG = 88$） | 准实验前[[Pre-test and Post-test\|后测]]：**【干预变量】**显性元认知指导 vs 替代训练；**【[[Dependent Variable\|结果变量]]】**元认知意识量表（MAI）得分与[[Creative Problem Solving\|创造性问题解决]]质量 | 干预组在创造性问题解决质量、新颖性评价及 MAI 元认知意识量表得分上均显著超越对照组（$p < .01$） | 直接因果证实显性元认知策略教学不仅能提升元认知意识，更能有效迁移至劣构问题解决中 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 3,000+ 名全球 IB 毕业生与非 IB 对照学生 | 准实验与倾向得分匹配对比：ToK 认识论课程学习为[[Independent Variable\|自变量]]，**【结果变量】**大学阶段元认知监控意识与批判反思倾向 | 修读 ToK 课程的学生在大学期间展现出显著更强的批判反思与元认知监控意识，有效防范教条主义盲从（$p < .01$） | 证实长期显性认识论追问对个体高阶元认知监控习惯的深远塑造作用 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（PRISMA 2020 框架） | [[Systematic Review\|系统综述]]与主题综合：显性反思支架为干预，**【结果变量】**人机交互中的元认知监控与[[Cognitive Offloading\|认知外包]]状态 | 27 项研究证实反思支架能激活元认知监控；12 项研究报告缺乏支架时出现元认知监控外包；被动工具使用与批判反思负相关（$\beta = -0.34, p < .001$） | 确立显性元认知监控在[[Generative Artificial Intelligence\|生成式 AI]] 时代作为抵御表面流畅性与心智侵蚀的核心防御机制 |
+> | Hargrove & Nietfeld (2015) | 高校设计与工程专业学生（$EG = 118 / CG = 88$） | 准实验前[[Pre-test and Post-test|后测]]：**【干预变量】**显性元认知指导 vs 替代训练；**【[[Dependent Variable|结果变量]]】**元认知意识量表（MAI）得分与[[Creative Problem Solving|创造性问题解决]]质量 | 干预组在创造性问题解决质量、新颖性评价及 MAI 元认知意识量表得分上均显著超越对照组（$p < .01$） | 直接因果证实显性元认知策略教学不仅能提升元认知意识，更能有效迁移至劣构问题解决中 |
+> | [[Argument_Cole_2015_AJE|Cole et al. (2015)]] | 3,000+ 名全球 IB 毕业生与非 IB 对照学生 | 准实验与倾向得分匹配对比：ToK 认识论课程学习为[[Independent Variable|自变量]]，**【结果变量】**大学阶段元认知监控意识与批判反思倾向 | 修读 ToK 课程的学生在大学期间展现出显著更强的批判反思与元认知监控意识，有效防范教条主义盲从（$p < .01$） | 证实长期显性认识论追问对个体高阶元认知监控习惯的深远塑造作用 |
+> | [[Argument_Li_2026_CEAI|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（PRISMA 2020 框架） | [[Systematic Review|系统综述]]与主题综合：显性反思支架为干预，**【结果变量】**人机交互中的元认知监控与[[Cognitive Offloading|认知外包]]状态 | 27 项研究证实反思支架能激活元认知监控；12 项研究报告缺乏支架时出现元认知监控外包；被动工具使用与批判反思负相关（$\beta = -0.34, p < .001$） | 确立显性元认知监控在[[Generative Artificial Intelligence|生成式 AI]] 时代作为抵御表面流畅性与心智侵蚀的核心防御机制 |
 
 ---
 ## 教育应用与教学实践
 
 > [!implication]- 培养高阶元认知监控能力的四大教学支柱
 > 1. **实施“显性化元认知指导”（Metacognitive Instruction）** 在学科教学中不仅讲授知识内容，更公开示范专家如何在面对难题时“自我提问、规划路径、察觉走入死胡同、主动切换视角”的内隐元认知思维流；
-> 2. **保障“独立深思沉浸”优先于松散讨论** 在课堂探究中推行“先独立构想深思、再小组交流碰撞”的组织规程，确保每名学生经历完整的元认知调控闭环，避免被动依赖同伴或产生责任分散；
+> 2. **保障“独立深思沉浸”优先于松散讨论** 在课堂探究中推行“先独立构想深思、再小组交流碰撞”的组织规程，确保每名学生经历完整的元认知调控过程，避免被动依赖同伴或产生责任分散；
 > 3. **在智能工具交互中嵌入“[[Epistemic Friction|认识论摩擦]]”反思支架** 严禁无思考地直接复制 AI 生成结果；要求学生提交提示词修改链（Prompt Trail），强制回答“为什么发出此指令”、“AI 输出有何漏洞”、“依据何种标准修正”，用显性反思激活元认知防御；
 > 4. **推行以反思为导向的[[Formative Assessment|形成性评价]]** 采用档案袋评价（Portfolio）、多轮草图迭代展评与量规自评，引导学生从“关注分数结果”转向“关注自己认知策略的有效性与优化空间”。
 
@@ -345,6 +349,7 @@ updated: 2026-09-17
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — [[Three-Level Meta-Analysis|三水平元分析]]（$k = 51, N = 12,548$）确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的稳健正相关（$r = 0.386$），论证元认知监控是驱动两类[[Higher-Order Thinking Skills|高阶思维]]协同的核心纽带。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 多层[[Meta-analysis|元分析]]揭示高校[[Creativity Training|创造力干预]]总体增益（$g = 0.628$），并在纳入的 Hargrove & Nietfeld (2015) 等研究基础上，揭示独立个体练习（$g = 0.682$）胜于小组协作（$g = 0.567$）促进策略内化的元认知机制。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，揭示大语言模型表面流畅性诱发元认知监控外包的危机，提出反思支架维系[[Epistemic Friction|认识论摩擦]]的实践规程。
+> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 系统界定人工智能中介学习中的认识依赖，阐明中间认识动作剥离对元认知监控的侵蚀机制，并提出对抗性反思质询与多源对比等显性元认知防御干预方案。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 追踪实证研究证实 IB ToK [[Epistemology|认识论]]课程能够作为系统性的元认知训练，显著提升大学生的批判反思能力。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]证实过程性元认知与[[Problem Finding|问题发现]]测量指标（$r = 0.27$）的效度显著优于单纯[[Divergent Thinking|发散思维]]测验（$r = 0.14$）。
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 质性实证阐明元认知意识如何支撑学生的自主性发展与知情决策。
@@ -362,6 +367,7 @@ updated: 2026-09-17
 > | [[Creative Problem Solving]] | 理论 | 核心机制 | 结构化[[Problem Solving\|问题解决]]各个阶段均高度依赖元认知表征重构与策略监控。 |
 > | [[Epistemological Vigilance]] | 概念 | 心理特质 | [[Epistemology\|认识论]]警觉是元认知在信息甄别与批判审查中的外显姿态。 |
 > | [[Cognitive Offloading]] | 概念 | 风险对立面 | 缺乏元认知监控会导致被动盲目的认知外包与思维能力退化。 |
+> | [[Epistemic Agency]] | 概念 | 规范目标 | 高质量元认知监控确保学生在人机协同中牢牢守住评价性判断的主体掌控权。 |
 > | [[Generative Artificial Intelligence]] | 概念 | 交互场景 | 生成式 AI 高度考验学习者的元认知监控能力以维持[[Epistemic Friction\|认识论摩擦]]。 |
 > | [[Self-Regulated Learning]] | 概念 | 上位系统 | 元认知是自我调节学习体系中最核心的高阶认知监控构件。 |
 > | [[Creative Self-Efficacy]] | 概念 | 动力协同 | 元认知提供具体的思维策略指引，与提供行动勇气的创造效能感形成互补双轮。 |
@@ -373,5 +379,6 @@ updated: 2026-09-17
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 论证 | 实证基石 | 三水平元分析证实两类高阶思维共享元认知成分（$r = 0.386$）。 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证基石 | 多层元分析揭示训练总体增益（$g = 0.628$）及独立练习深度反思优势。 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 论证 | 实证基石 | [[Systematic Review\|系统综述]]确立显性元认知监控作为人机共创认识论警觉的核心防线。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 论证 | 规范模型 | 揭示中间认识动作剥离致使元认知休眠的机制，提出对抗性质询的防御策略。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证基石 | 二阶元分析确立过程性元认知测量（$r = 0.27$）优于单纯发散测验。 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 论证 | 实证基石 | 证实 IB ToK 显性元认知反思课程对长周期批判反思能力的塑造作用。 |

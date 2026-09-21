@@ -78,7 +78,7 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 核心定义
-> 知识生产（Knowledge Production）是指行动者在特定的[[Epistemology|认识论]][[Paradigm|范式]]、制度环境与交互结构中，通过实证调查、实验模拟、统计建模、理论论辩或社会化协商，对经验现象进行符号化表征并确立其真理性与合法性的实践过程。该概念在宏观高等教育与[[Geopolitics of Knowledge|知识地缘政治]]中揭示了科研资助如何将学术知识重构为产业资本与专利收益，以及跨国组织如何通过内部自指性研究帝国实施“[[Soft Power by Hard Facts|以硬事实施展软权力]]”；在微观学习科学与科学探究教学中，该概念指涉学习者摆脱被动接受现成结论的地位，作为探究主体在班级共同体中通过证据协调与同行辩驳，自主构建对物理与社会世界全新理解的认识论实践。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 72–75)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]
+> 知识生产（Knowledge Production）是指行动者在特定的[[Epistemology|认识论]][[Paradigm|范式]]、制度环境与交互结构中，通过实证调查、实验模拟、统计建模、理论论辩或社会化协商，对经验现象进行符号化表征并确立其真理性与合法性的实践过程。该概念在宏观高等教育与[[Geopolitics of Knowledge|知识地缘政治]]中揭示了科研资助如何将学术知识重构为产业资本与专利收益，以及跨国组织如何通过内部自指性研究帝国实施[[Soft Power by Hard Facts|以硬事实施展软权力]]；在微观学习科学与科学探究教学中，该概念指涉学习者摆脱被动接受现成结论的地位，作为探究主体在班级共同体中通过证据协调与同行辩驳，自主构建对物理与社会世界全新理解的认识论实践。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 72–75)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 知识并非预先存在于外界等待被动发现或灌输的实体，而是由特定主体在制度结构、资本网络或探究共同体中主动建构、检验并达成共识的产物。
@@ -95,9 +95,9 @@ updated: 2026-09-21
 > *Students do not receive knowledge by being told; rather, they perform activities that generate knowledge... socially constructing knowledge in a community of inquiry.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Knowledge Transfer|知识转移]]（Knowledge Transfer） — 知识生产关注知识在源头如何被创造、由谁主导及如何确立合法性；知识转移关注知识生产完成后的跨情境流动、翻译、商业化落地与[[Policy Borrowing|政策借用]]。
-> - 不等于 知识创新（Knowledge Innovation） — 知识创新偏向经济学与技术视角，强调新颖性与专利商业变现；知识生产是社会学与认识论视角，包容体制化常规研究、标准化量化指标乃至课堂情境下的深层概念建构。
-> - 不等于 科学前沿独创发现（Original Scientific Discovery） — 在中小学科学教育中，课堂知识生产的判断标准在于知识对学习者自身认知体系的颠覆性与新颖性，而非要求发现人类尚未知晓的客观物理规律。
+> - **[[Knowledge Transfer|知识转移]]（Knowledge Transfer）** 知识生产关注知识在源头如何被创造、由谁主导及如何确立合法性；知识转移关注知识生产完成后的跨情境流动、翻译、商业化落地与[[Policy Borrowing|政策借用]]。
+> - **知识创新（Knowledge Innovation）** 知识创新偏向经济学与技术视角，强调新颖性与专利商业变现；知识生产是社会学与认识论视角，包容体制化常规研究、标准化量化指标乃至课堂情境下的深层概念建构。
+> - **科学前沿独创发现（Original Scientific Discovery）** 在中小学科学教育中，课堂知识生产的判断标准在于知识对学习者自身认知体系的颠覆性与新颖性，而非要求发现人类尚未知晓的客观物理规律。
 
 ---
 
@@ -106,7 +106,7 @@ updated: 2026-09-21
 > [!contrast-table] 多层[[Champ|场域]]中的知识生产[[Paradigm|范式]]对比
 > | 维度 | 传统学术生产（Mode 1） | 产学合作应用生产（[[Mode 2 Knowledge Production\|Mode 2]]） | 跨国政策量化生产 | 课堂探究共同体生产 | 人工智能中介知识生产 |
 > |---|---|---|---|---|---|
-> | **生产主体** | 大学学者、基础学科实验室 | 大学与工业企业联合研发团队 | 跨国机构（[[OECD]]、世界银行）智库 | 教师引导下的学生探究共同体 | 人机协同耦合系统（学者/学生与 LLM/智能体） |
+> | **生产主体** | 大学学者、基础学科实验室 | 大学与工业企业联合研发团队 | 跨国机构（[[OECD]]、世界银行）智库 | 教师引导下的学生探究共同体 | 人机协同耦合系统（学者或学生与大语言模型（Large Language Model, LLM）及智能体） |
 > | **合法性来源** | 同行匿名评审与学科范式共识 | 市场交换价值与应用解决效能 | 科学理性修辞与跨国可比指标 | 经验证据协调与同伴批判协商 | 概率生成输出与人类评价性判断校验 |
 > | **核心目的** | 探索未知真理与扩展学科认知 | 商业专利变现与经济生产力提升 | 施展[[Soft Power by Hard Facts\|硬事实软权力]]与远处调控 | 达成深层概念转变与培养[[Epistemic Agency\|认识能动性]] | 提高构想与综合效率，重组证据确证劳动力分工 |
 > | **权力形态** | 学术权威与学术共同体自治 | 产业资本对研究议程的渗透垄断 | 跨国治理复合体的排他性指标霸权 | 分布式认知与师生平等的探究契约 | 算法平台黑箱、流畅权威与分布式责任博弈 |
@@ -118,7 +118,7 @@ updated: 2026-09-21
 > [!feature] 知识生产的核心结构维度
 > - **知识所有权与生产权的结构性分离** 科学知识由大学学者生产，但经济与法律所有权大量归属于资助企业与国家；欧洲学术专利中 60%–81% 归工业公司所有，知识生产呈现资本剥离特征。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]]
 > - **知识类型的不对称性繁荣与衰退** 可量化、可专利化的硬科学受到政策资本重点扶持，而关注意义与批判的[[Narrative Knowledge|叙事知识]]（人文社会科学）在国家资助中面临边缘化。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71, 74)]]
-> - **国际组织的自指性内部研究帝国** 跨国组织建立封闭的自制数据库与评估系统（如[[World Bank|世界银行]] [[Systems Approach for Better Education Results|SABER]]），集指标制定、内部评审与项目贷款于一体，构建自产自销的自给自足体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **国际组织的自指性内部研究帝国** 跨国组织建立封闭的自制数据库与评估系统（如[[World Bank|世界银行]]的[[Systems Approach for Better Education Results|更好的教育结果系统方法（Systems Approach for Better Education Results, SABER）]]），集指标制定、内部评审与项目贷款于一体，构建自产自销的自给自足体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 > - **自主生成个人新知（Generative Knowing）** 学习者在教学中不依赖先验讲授输入，而是通过调查活动与反思推理，自主生成对其认知而言全新、非微不足道的概念模型。
 > - **探究共同体中的社会化批判协商（Social Epistemic Discourse）** 知识主张必须公开发布于学习共同体中，经受同伴对[[Chain of Evidence|证据链]]条与推理逻辑的质询与推敲，在社会互动中完成客观化确证。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]
 
@@ -155,9 +155,9 @@ updated: 2026-09-21
 
 ---
 
-### 命题二　跨国治理组织通过自指性研究闭环构筑知识生产的排他性垄断
+### 命题二　跨国治理组织通过封闭自指的研究循环构筑知识生产的排他性垄断
 
-> [!concept-lens] 自指性闭环与组织利基
+> [!concept-lens] 封闭自指循环与组织利基
 > 剖析超国家组织如何脱离独立学术共同体，凭借自主生产与内部中介确立全球政策知识霸权。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
@@ -191,7 +191,7 @@ updated: 2026-09-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **资本偏向与学科分化** | 揭示国家与产业资本对学术知识生产所有权与学科权重的扭曲 | 大学[[University-Industry Collaboration\|产学合作]]、科研资助政策与[[Geopolitics of Knowledge\|知识地缘政治]] | [[Argument_Partaken_2022_Springer\|Partaken (2022)]] |
-> | **自指闭环与知识垄断** | 阐明国际组织自产、自销、自资助的封闭知识生产与武器化机制 | 跨国教育治理、[[Policy Brokerage\|政策中介]]与基准评测 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
+> | **自指循环与知识垄断** | 阐明国际组织自产、自销、自资助的封闭知识生产与武器化机制 | 跨国教育治理、[[Policy Brokerage\|政策中介]]与基准评测 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 > | **共同体社会化生成** | 阐明微观课堂探究中学生通过证据协调与同伴质询建构新知的机制 | 科学探究教学、[[Inquiry-Based Learning\|探究式学习]]与概念转变 | [[Clark A. Chinn\|Chinn]] & Duncan; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
 > | **人机分工与评价置换** | 揭示生成式 AI 重塑确证劳动力分工，警惕判断型协助侵蚀主体认识鉴别力 | 高等教育人机协同探究、学术诚信与数字认识论 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
 
@@ -200,10 +200,10 @@ updated: 2026-09-21
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s–1970s — 殖民知识生产批判** [[Frantz Fanon]] 揭示殖民教育如何通过语言和[[Cultural Hierarchy|文化等级]]制造附庸性知识体系；后殖民学者批判西方中心主义[[Epistemology|认识论]]。
-> - **1990s — [[Mode 2 Knowledge Production|Mode 2 知识生产]]理论确立** Michael Gibbons 等人提出 Mode 2 概念，强调知识生产从传统象牙塔向多主体、跨学科、应用导向与[[Reflexivity|反思性]]情境转移。
-> - **2010 — 亚洲作为方法与知识去帝国化** [[Chen Kuan-Hsing]] 呼吁打破以西方为唯一样板的知识流动格局，将亚洲从分析客体转变为能动的知识生产主体。
-> - **2018–2023 — 科学教育中的认识论要素重构** [[Clark A. Chinn]] 与 Ravit Golan Duncan 规范界定真实探究的认识论内核；[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 将自主生成新知与共同体社会化建构确立为区分真实[[Inquiry-Based Learning|指导式探究]]与传统被动灌输的关键标尺。
+> - **1950s–1970s — 殖民知识生产批判** [[Frantz Fanon|弗朗茨·法农（Frantz Fanon）]]揭示殖民教育如何通过语言和[[Cultural Hierarchy|文化等级]]制造附庸性知识体系；后殖民学者批判西方中心主义[[Epistemology|认识论]]。
+> - **1990s — [[Mode 2 Knowledge Production|Mode 2 知识生产]]理论确立** 迈克尔·吉本斯（Michael Gibbons）等人提出 Mode 2 概念，强调知识生产从传统象牙塔向多主体、跨学科、应用导向与[[Reflexivity|反思性]]情境转移。
+> - **2010 — 亚洲作为方法与知识去帝国化** [[Chen Kuan-Hsing|陈光兴（Chen Kuan-Hsing）]]呼吁打破以西方为唯一样板的知识流动格局，将亚洲从分析客体转变为能动的知识生产主体。
+> - **2018–2023 — 科学教育中的认识论要素重构** [[Clark A. Chinn|克拉克·A·钦（Clark A. Chinn）]]与拉维特·戈兰·邓肯（Ravit Golan Duncan）规范界定真实探究的认识论实质；[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 将自主生成新知与共同体社会化建构确立为区分真实[[Inquiry-Based Learning|指导式探究]]与传统被动灌输的关键标尺。
 > - **2022–2024 — [[Governing by Numbers|数字治理]]与自指性跨国知识帝国** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 揭示学术专利商业化背景下的资本剥夺；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 剖析国际组织集生产、中介与资助为一体的量化知识垄断。
 > - **2026 — 人机中介与认识确证劳动分工重组** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 系统开启知识生产的社会认识论转向，提出知识确证劳动力分工在人机之间的层级解构，确立防范承载判断型协助置换人类评价性判断的规范治理框架。
 
@@ -222,8 +222,8 @@ updated: 2026-09-21
 > > [!axis] 课堂探究中的知识建构是真实生产还是低效重蹈覆辙
 > > [[Direct Instruction|直接教学]]倡导者与科学教育探究派就学生自主探究生成知识的必要性展开激烈论辩。
 > >
-> > - **直接教学派（Sweller, Kirschner）** 认为学生的[[Working Memory|工作记忆]]极其脆弱，耗费大量时间自行探索已知规律纯属无谓的认知损耗，应当直接讲授现成科学图式。
-> > - **[[Inquiry-Based Learning|指导式探究]]派（De Jong, Chinn, Linn）** 认为让学生亲历证据协调与[[Hypothesis|假设]]检验的社会化知识生产过程，是促发深层心理模型重构与[[Epistemic Agency|认识能动性]]生成的唯一途径。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–4)]]
+> > - **直接教学派（约翰·斯威勒（John Sweller）、保罗·基什内尔（Paul Kirschner））** 认为学生的[[Working Memory|工作记忆]]极其脆弱，耗费大量时间自行探索已知规律纯属无谓的认知损耗，应当直接讲授现成科学图式。
+> > - **[[Inquiry-Based Learning|指导式探究]]派（汤姆·德容（Ton de Jong）、克拉克·A·钦（Clark A. Chinn）、玛西娅·林恩（Marcia Linn））** 认为让学生亲历证据协调与[[Hypothesis|假设]]检验的社会化知识生产过程，是促发深层心理模型重构与[[Epistemic Agency|认识能动性]]生成的唯一途径。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–4)]]
 
 > [!warning] 适用局限
 > 知识生产概念侧重于有组织的制度化知识工业或结构化的课堂探究共同体；对于个体无意识的默会知识积累，其制度与社会学[[Analytic Framework|分析框架]]需要适度调适。
