@@ -21,29 +21,71 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Epistemic Cognition]]"
+  - "[[Epistemology]]"
+  - "[[Justificatory Standards]]"
   - "[[Academic Achievement]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Fade-out Effect]]"
+  - "[[Effective Teaching]]"
+  - "[[Theoretical Perspective]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Source of Knowledge]]"
+  - "[[Epistemic Aims]]"
+  - "[[Epistemic Ideals]]"
+  - "[[Reliable Epistemic Processes]]"
+  - "[[Rote Learning]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Procedural Knowledge]]"
+  - "[[Independent Variable]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"
+  - "[[Problem Solving]]"
+  - "[[Document]]"
+  - "[[Heterogeneity]]"
   - "[[Nature of Science]]"
   - "[[Publication Bias]]"
+  - "[[Critical Thinking]]"
+  - "[[Literature Search]]"
+  - "[[Hypothesis]]"
+  - "[[Determinism]]"
+  - "[[Metacognition]]"
+  - "[[Scientific Method]]"
+  - "[[Knowledge Production]]"
+  - "[[Achievement and Aptitude Tests]]"
+  - "[[Developer-Made Measures]]"
+  - "[[Growth]]"
+  - "[[Ways of Knowing]]"
+  - "[[Higher-Order Thinking Skills]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
+  - "[[Intervention Research]]"
   - "[[Meta-analysis]]"
-  - "[[Effect Size]]"
-  - "[[Moderator Analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Experimental Research]]"
+  - "[[Effect Size]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Moderator Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
-related_instruments: []
+  - "[[Systematic Review]]"
+  - "[[Standard Error]]"
+  - "[[Statistical Significance]]"
+  - "[[Sample Size Determination]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
+related_instruments:
+  - "[[PRISMA]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Resources Information Center]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Kuhn_2000_CD]]"
@@ -72,48 +114,48 @@ journal: "Journal of Educational Psychology"
 
 ## 研究问题
 
-在网络信息良莠不齐、错误信息与争议言论泛滥的时代，学生面对不同观点时往往容易走向两个极端：要么盲目相信权威与课本，视所有印刷内容为绝对真理；要么走向虚无主义，认为每个人都有自己的看法、谁也无法证明谁是对的。长久以来，许多发展心理学家认为认识论认知是个体伴随年龄与心理成熟逐渐形成的稳固特质，短期的课堂教学难以对其产生因果改变；同时教育界也对专门花时间教认识论是否会挤占学科知识教学存在疑虑。
-
 > [!question]
-> 教学干预能否通过改变学生的[[Epistemic Cognition|认识论认知]]（即关于知识本质以及如何通过证据验证知识的理解），帮助其建立理性的确证标准并实质性促进[[Academic Achievement|学业成就]]？这种促进效应究竟有多大？具体通过哪些教学设计与测量方式才能取得最佳效果？
+> 在网络信息良莠不齐、错误信息与争议言论泛滥的时代，学生面对不同观点时往往容易走向两个极端：要么盲目相信权威与课本，视所有印刷内容为绝对真理；要么走向虚无主义，认为每个人都有自己的看法、谁也无法证明谁是对的。长久以来，许多发展心理学家认为[[Epistemic Cognition|认识论认知]]是个体伴随年龄与心理成熟逐渐形成的稳固特质，短期的课堂教学难以对其产生因果改变；同时教育界也对专门花时间教[[Epistemology|认识论]]是否会挤占学科知识教学存在疑虑。
+>
+> 教学干预能否通过改变学生的[[Epistemic Cognition|认识论认知]]（即关于知识本质以及如何通过证据验证知识的理解），帮助其建立理性的[[Justificatory Standards|确证标准]]并实质性促进[[Academic Achievement|学业成就]]？这种促进效应究竟有多大？具体通过哪些教学设计与测量方式才能取得最佳效果？
 
 > [!claim] 核心主张
-> 对 26 项实验与准实验干预研究（28 个独立样本、$N = 4{,}373$）的[[Meta-analysis|元分析]]表明，认识论认知教学干预对学业成就具有稳健且达中等强度的因果促进效应（随机效应模型 $d = 0.509$），超越了一般教育干预的平均基线水平；在教学方式上，明确讲授证据评估规则与提供支架的指导式探究显著优于放任型自由探索；在测量敏感度上，干预重点促进高阶论证建构与概念理解而非机械记忆；短周期集中教学（数天至 4 周）配合即时反馈比长达一学期的干预更易见效且在延时测试中表现出显著的后劲反弹；中小学学生的干预效果是大学生的两倍，证实了认识论认知在基础教育阶段可教、易学且成效突出。（pp. 477, 485–493）
+> 对 26 项实验与准实验[[Intervention Research|干预研究]]（28 个独立样本、$N = 4{,}373$）的[[Meta-analysis|元分析]]表明，认识论认知教学干预对学业成就具有稳健且达中等强度的因果促进效应（[[Fixed-Effect and Random-Effects Models|随机效应模型]] $d = 0.509$），超越了一般教育干预的平均基线水平；在教学方式上，明确讲授证据评估规则与提供支架的[[Inquiry-Based Learning|指导式探究]]显著优于放任型自由探索；在测量敏感度上，干预重点促进高阶论证建构与概念理解而非机械记忆；短周期集中教学（数天至 4 周）配合即时反馈比长达一学期的干预更易见效且在延时测试中表现出显著的后劲反弹；中小学学生的干预效果是大学生的两倍，证实了认识论认知在基础教育阶段可教、易学且成效突出。（pp. 477, 485–493）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 全球 26 项旨在提升认识论认知的实验与对照组准实验研究，涵盖 28 个样本群体、59 个效应量以及 4,373 名大中小学学生。
-> - **张力** 发展阶段论认为认知信念随年龄缓慢成熟 vs 教学干预能够在短期内诱导认识论转变；教育干预历时越长越见效的常识直觉 vs 全学期干预效应衰减与测验工具错配的实证结果；让学生自由讨论 vs 教师提供显性证据评估支架。
-> - **贡献** 首次量化确立了认识论认知干预提升学业成就的因果效应标准；提炼出以指导式探究和信源评估为核心的有效教学要素；厘清了长期干预测验错配的方法学假象，为认识论思维融入中小学学科常规教学提供了清晰的实证依据。
+> - **对象** 全球 26 项旨在提升认识论认知的实验与对照组准[[Experimental Research|实验研究]]，涵盖 28 个样本群体、59 个[[Effect Size|效应量]]以及 4,373 名大中小学学生。
+> - **张力** 发展阶段论认为认知信念随年龄缓慢成熟 vs 教学干预能够在短期内诱导认识论转变；教育干预历时越长越见效的常识直觉 vs 全学期干预[[Fade-out Effect|效应衰减]]与测验工具错配的实证结果；让学生自由讨论 vs 教师提供显性证据评估支架。
+> - **贡献** 首次量化确立了认识论认知干预提升学业成就的因果效应标准；提炼出以指导式探究和信源评估为核心的[[Effective Teaching|有效教学]]要素；厘清了长期干预测验错配的方法学假象，为认识论思维融入中小学学科常规教学提供了清晰的实证依据。
 
 ---
 
 ## 理论框架
 
-认识论认知干预的教学设计取决于研究者所依据的理论视角。不同的理论模型对学生应该如何看待知识以及教学应聚焦于哪些环节有着不同的界定。
+[[Epistemic Cognition|认识论认知]]干预的教学设计取决于研究者所依据的[[Theoretical Perspective|理论视角]]。不同的理论模型对学生应该如何看待知识以及教学应聚焦于哪些环节有着不同的界定。
 
 > [!framework-table] 认识论认知理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Reflective Judgment Model\|反思判断模型（Reflective Judgment Model）]]**<br>King & Kitchener (1994); Perry (1970) | 将学生的认知理解划分为三个阶段：前反思阶段（认为知识非黑即白，由权威说了算）、准反思阶段（发现权威也会冲突，陷入每个人都有自己看法的相对主义）以及反思判断阶段（理解知识具有不确定性，但能够通过权衡证据得出合理结论）。教学干预通过创设认知冲突促发阶段推进。 |
-> | **多维认识论信念系统模型（Multidimensional Epistemic Beliefs）**<br>[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]; Schommer (1990) | 将认识论分解为相对独立的多项信念维度：知识的确定性（固定不变 vs 动态演进）、知识的结构（孤立零碎 vs 相互关联的网络）、知识的来源（来自外在权威 vs 个人基于证据建构）以及知识的确证理由（依赖直觉权威 vs 依赖多元证据交叉验证）。教学干预通常直接靶向特定维度的改造。 |
-> | **认识论元认知与协调模型（Epistemic Metacognition & Coordination）**<br>[[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]]; Barzilai & Zohar (2014) | 关注学生如何监控并反思自己的思考过程：能否区分客观现实、个人断言与支持论据之间的关系，能否在面对冲突观点时客观评估论据强弱。教学干预重在提供评估论据质量与反思认知偏见的思维支架。 |
-> | **[[AIR Model of Epistemic Cognition\|目标、理想与可靠认知过程模型（Aims, Ideals, and Reliable Processes, AIR 模型）与适切认识论表现]]**<br>Barzilai & Chinn (2018); Chinn et al. (2014) | 将认识论解构为认识论目标（Aims，追求真实理解还是应付考试）、认识论理想（Ideals，如何定义高质量证据）以及可靠认知过程（Reliable processes，通过哪些可靠步骤检验信息）。教学旨在培养学生在真实情境中灵活运用可靠程序的能力。 |
+> | **多维认识论信念系统模型（Multidimensional Epistemic Beliefs）**<br>[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]; Schommer (1990) | 将[[Epistemology\|认识论]]分解为相对独立的多项信念维度：[[Certainty of Knowledge\|知识的确定性]]（固定不变 vs 动态演进）、知识的结构（孤立零碎 vs 相互关联的网络）、[[Source of Knowledge\|知识的来源]]（来自外在权威 vs 个人基于证据建构）以及知识的确证理由（依赖直觉权威 vs 依赖多元证据交叉验证）。教学干预通常直接靶向特定维度的改造。 |
+> | **认识论元认知与协调模型（Epistemic Metacognition & Coordination）**<br>[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]]; Barzilai & Zohar (2014) | 关注学生如何监控并反思自己的思考过程：能否区分客观现实、个人断言与支持论据之间的关系，能否在面对冲突观点时客观评估论据强弱。教学干预重在提供评估论据质量与反思认知偏见的思维支架。 |
+> | **[[AIR Model of Epistemic Cognition\|目标、理想与可靠认知过程模型（Aims, Ideals, and Reliable Processes, AIR 模型）与适切认识论表现]]**<br>Barzilai & Chinn (2018); Chinn et al. (2014) | 将认识论解构为[[Epistemic Aims\|认识论目标]]（Aims，追求真实理解还是应付考试）、[[Epistemic Ideals\|认识论理想]]（Ideals，如何定义高质量证据）以及[[Reliable Epistemic Processes\|可靠认知过程]]（Reliable processes，通过哪些可靠步骤检验信息）。教学旨在培养学生在真实情境中灵活运用可靠程序的能力。 |
 > | **情境认知与认识论资源模型（Situated Epistemic Resources）**<br>Hammer & Elby (2002) | 认为学生的认识论并不是固定铁板一块的心智特质，而是分散在不同学科情境中的细粒度认知工具箱。教学干预的功能在于通过特定学科问题情境，激活对当前学习有益的认知资源。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论模型表明，认识论干预发挥提分作用的核心机制在于引导学生打破朴素认知并建立严密的确证标准：当学生认识到知识并不是死记硬背的标准答案、而是基于证据推理的动态产物时，他们面对复杂的学术任务就会主动去寻找可靠论据、分析作者立场并反思对立观点；这种深层的认知加工策略能够直接带来高质量的概念理解与论证表现。
+> 理论模型表明，认识论干预发挥提分作用的核心机制在于引导学生打破朴素认知并建立严密的[[Justificatory Standards|确证标准]]：当学生认识到知识并不是[[Rote Learning|死记硬背]]的标准答案、而是基于证据推理的动态产物时，他们面对复杂的学术任务就会主动去寻找可靠论据、分析作者立场并反思对立观点；这种深层的认知加工策略能够直接带来高质量的概念理解与论证表现。
 
 ### 核心变量与操作化编码表
 
-> [!coding-frame] 核心变量操作化定义与编码规程
+> [!coding-frame] 核心[[Variable|变量]][[Operationalization|操作化]]定义与[[Coding in Qualitative Research|编码]]规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **因变量：学业成就（[[Academic Achievement]]）** | 衡量学生在具体学习任务中所掌握的学科知识、技能与推理水平的结果指标，具体划分为五类层级：论证表现、概念性知识、陈述性知识、[[Procedural Knowledge|程序性知识]]与一般常规知识。 | 包含研究者根据干预内容自行编制的测验（45 个效应量，如科学概念转变测验、论证写作）、外部标准化考试（4 个效应量）、科任教师期末自编常规测验（9 个效应量）及官方平均学分绩点（Grade Point Average, GPA，1 个效应量）。代表研究如 Kuhn et al. (2017) 论证表现量表、Barger et al. (2018) 化学概念理解测验。 |
-> | **自变量：干预教学框架** | 干预措施所采用的核心教学模式，划分为六类标准设计：<br>1. **指导式探究** 教师提供探究步骤指导与变量控制支架；<br>2. **信源评估** 明确讲授识别信息源资质、出版背景与可信度的具体策略；<br>3. **认知与元认知支架** 提供反思问题清单、提示卡或软件弹窗支架；<br>4. **[[Constructivist Paradigm\|建构主义教学]]** 强调学生自主建构个人理解；<br>5. **[[Problem-Based Learning\|基于问题的学习（Problem-Based Learning, PBL）]]** 围绕真实复杂问题开展合作探究；<br>6. **论证教学** 讲授论据组织、主张陈述与反驳规则。 | 干预实施跨度从 1 小时单次实验到 15 周全学期教学。代表研究如：Schiefer et al. (2017) 的指导式科学实验；Mason et al. (2014) 的网络信源评估训练；Nussbaum et al. (2008) 的科学论证评估准则教学；Sahin (2010a) 的大学物理问题解决。 |
+> | **因变量：学业成就（[[Academic Achievement]]）** | 衡量学生在具体学习任务中所掌握的学科知识、技能与推理水平的结果指标，具体划分为五类层级：论证表现、概念性知识、陈述性知识、[[Procedural Knowledge\|程序性知识]]与一般常规知识。 | 包含研究者根据干预内容自行编制的测验（45 个[[Effect Size\|效应量]]，如科学概念转变测验、论证写作）、外部标准化考试（4 个效应量）、科任教师期末自编常规测验（9 个效应量）及官方平均学分绩点（Grade Point Average, GPA，1 个效应量）。代表研究如 Kuhn et al. (2017) 论证表现量表、Barger et al. (2018) 化学概念理解测验。 |
+> | **[[Independent Variable\|自变量]]：干预教学框架** | 干预措施所采用的核心教学模式，划分为六类标准设计：<br>1. **指导式探究** 教师提供探究步骤指导与变量控制支架；<br>2. **信源评估** 明确讲授识别信息源资质、出版背景与可信度的具体策略；<br>3. **认知与元认知支架** 提供反思问题清单、提示卡或软件弹窗支架；<br>4. **[[Constructivist Paradigm\|建构主义教学]]** 强调学生自主建构个人理解；<br>5. **[[Problem-Based Learning\|基于问题的学习（Problem-Based Learning, PBL）]]** 围绕真实复杂问题开展合作探究；<br>6. **论证教学** 讲授论据组织、主张陈述与反驳规则。 | 干预实施跨度从 1 小时单次实验到 15 周全学期教学。代表研究如：Schiefer et al. (2017) 的指导式科学实验；Mason et al. (2014) 的网络信源评估训练；Nussbaum et al. (2008) 的科学论证评估准则教学；Sahin (2010a) 的大学物理[[Problem Solving\|问题解决]]。 |
 > | **调节变量：特异性水平与对齐** | 划分干预内容与测验指标的跨度层级：分为领域通用（跨学科通用思维）、领域特定（如物理学、历史学等学科门类）以及具体主题特定（如光合作用、气候变化等特定单元）。对齐是指干预层级与测验层级完全吻合。 | 编码干预层级、测验层级以及二者是否完全对齐。如 Lam & Chan (2008) 兼具领域通用与主题特定测验。 |
 > | **调节变量：干预时长** | 干预实施的时间长短与课时密度，划分为五档：单次高强度集中教学、短期干预（数天至 1 周）、中期干预（2 至 4 周）、长期干预（5 至 10 周）以及全学期及以上教学。 | 编码实际干预周数与课时量。从 1 小时即时干预（Barzilai & Ka'adan, 2017）到一学期（15 周）物理课程整合（Sahin, 2010b）。 |
 >
-> **图表解读** 本表系统界定了元分析的变量操作化标准，将原本异质的认识论干预文献归入清晰的理论与操作维度，为后续检验因果效应及其异质性来源提供了统一标尺。
+> **图表解读** 本表系统界定了[[Meta-analysis|元分析]]的变量操作化标准，将原本异质的认识论干预[[Document|文献]]归入清晰的理论与操作维度，为后续检验因果效应及其[[Heterogeneity|异质性]]来源提供了统一标尺。
 
 ---
 
@@ -122,7 +164,7 @@ journal: "Journal of Educational Psychology"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选／[[Meta-analysis]]** | 检索教育资源信息中心（Education Resources Information Center, ERIC）、PsycINFO、Web of Science 等 9 个跨学科数据库并结合引文回溯。纳入标准：① 明确针对认识论认知的教学干预；② 采用随机对照试验（Randomised Controlled Trial, RCT）或带有对照组的准实验设计（Quasi-Experimental Design, QED）；③ 报告学业成就测量结果；④ 报告足以计算[[Effect Size\|效应量]]的统计数据。严格排除非干预研究以及单纯的[[Nature of Science|科学本质（Nature of Science, NOS）]]研究以保证构念纯度。 |
+> | **文献检索与筛选／[[Meta-analysis]]** | 检索教育资源信息中心（Education Resources Information Center, ERIC）、PsycINFO、Web of Science 等 9 个跨学科数据库并结合引文回溯。纳入标准：① 明确针对认识论认知的教学干预；② 采用随机对照试验（Randomised Controlled Trial, RCT）或带有对照组的准实验设计（Quasi-Experimental Design, QED）；③ 报告学业成就测量结果；④ 报告足以计算[[Effect Size\|效应量]]的统计数据。严格排除非干预研究以及单纯的[[Nature of Science\|科学本质（Nature of Science, NOS）]]研究以保证构念纯度。 |
 > | **效应量提取与标准化／[[Effect Size]]** | 采用 Cohen's $d$ 作为标准化均数差指标。针对同一研究中因多个测验引发的统计依赖问题，采用 Cooper (2010) 提出的转移分析单位法（shifting unit of analysis）分别计算总体效应与亚组效应；对极端离群值执行两倍标准差缩尾处理（Winsorization）。 |
 > | **模型拟合与调节检验／[[Moderator Analysis]]** | 使用综合元分析软件（Comprehensive Meta-Analysis, CMA 3.3）进行建模。在随机效应模型（[[Fixed-Effect and Random-Effects Models\|Random-Effects Models]]）下合并总体效应量与 95% [[Confidence Interval\|置信区间（Confidence Interval, CI）]]。通过 Cochran's $Q$ 统计量和 $I^2$ 检验异质性，并使用混合效应模型进行分类调节变量分析（$Q_b$）。 |
 > | **偏倚与稳健性诊断／[[Publication Bias]]** | 绘制标准误与 Fisher's $Z$ 漏斗图（[[Funnel Plot]]），并结合 Duval & Tweedie 剪补法（[[Trim and Fill Method]]）、Rosenthal 经典失安全数（[[Fail-Safe N]]）及 Orwin 失安全数检验潜在的发表偏倚。 |
@@ -130,14 +172,14 @@ journal: "Journal of Educational Psychology"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **纳入文献总览** | 最终纳入 26 篇实证研究（涵盖 28 个独立样本群、59 个独立效应量、总计 4,373 名学生），发表年代跨度为 1974 年至 2018 年。 |
+> | **纳入[[Document\|文献]]总览** | 最终纳入 26 篇实证研究（涵盖 28 个独立样本群、59 个独立效应量、总计 4,373 名学生），发表年代跨度为 1974 年至 2018 年。 |
 > | **学段构成分布** | 幼儿园至高中基础教育（Kindergarten through 12th Grade, K-12）阶段 15 项研究（54%，$N = 2{,}237$）；大学本科阶段 11 项研究（39%，$N = 2{,}025$）；成人教育阶段 2 项研究（7%，$N = 111$）。 |
-> | **学科与情境领域** | 超过 80% 的研究分布在科学与理科领域（物理、化学、生物、环境科学）；少数分布在历史学（如 Stoel et al., 2017）、数学（如 Mason & Scrivani, 2004）及跨学科批判性思维中。 |
+> | **学科与情境领域** | 超过 80% 的研究分布在科学与理科领域（物理、化学、生物、环境科学）；少数分布在历史学（如 Stoel et al., 2017）、数学（如 Mason & Scrivani, 2004）及跨学科[[Critical Thinking\|批判性思维]]中。 |
 > | **研究设计构成** | 严格随机对照试验（RCT）10 项（$N = 1{,}142$）；等效组准实验设计 4 项（$N = 289$）；自然班级对照准实验设计 14 项（$N = 2{,}942$）。 |
 
 ### 文献检索方案与筛选规程
 
-文献检索严格遵循系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）规范，分阶段在各大电子学术数据库中展开，并通过引文滚雪球追踪补充潜在文献。
+[[Literature Search|文献检索]]严格遵循[[Systematic Review|系统综述]]与元分析优先报告条目（[[PRISMA|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], PRISMA）规范，分阶段在各大电子学术数据库中展开，并通过引文滚雪球追踪补充潜在文献。
 
 > [!example]- 图1：PRISMA 检索与文献筛选流程图（p. 482）
 > ```mermaid
@@ -164,7 +206,7 @@ journal: "Journal of Educational Psychology"
 > [!ref-table]- 表 1：电子数据库文献检索规程一览（p. 483）
 > | 检索实施时段 | 检索词组合与布尔逻辑 | 检索电子数据库列表 |
 > |---|---|---|
-> | 2017 年 11–12 月 | “epistemic” AND “cognition” AND “intervention”;<br>“epistem*” AND “belie*” AND “intervention” | ERIC, PsycINFO, Education Full Text, Web of Science, Citation Index |
+> | 2017 年 11–12 月 | “epistemic” AND “cognition” AND “intervention”;<br>“epistem*” AND “belie*” AND “intervention” | [[Education Resources Information Center\|ERIC]], PsycINFO, Education Full Text, Web of Science, Citation Index |
 > | 2017 年 12 月 | “epistemic” AND “beliefs” AND “intervention” | ArticlesFirst |
 > | 2017 年 12 月 | “epistem*” AND “belie*” AND “change”;<br>“personal epistemology” AND “intervention”;<br>“epistemic” AND “beliefs” AND “intervention”;<br>“epistemic” AND “cognition” AND “intervention” | Academic Search Premier, ERIC, Education Full Text, PsycINFO |
 > | 2017 年 12 月 | “epistemic” AND “beliefs” AND “change” | Google Scholar |
@@ -174,20 +216,23 @@ journal: "Journal of Educational Psychology"
 > | 2018 年 3 月 | “epistemic” AND “cognition” AND “intervention”;<br>“epistemic” AND “beliefs” AND “intervention”;<br>“personal epistemology” AND “intervention” | ProQuest Dissertation & Theses Global, Web of Science, Citation Index |
 > | 2018 年 6 月 | “epistemic” AND “beliefs” AND “intervention” （限定 2017–2018 年最新发表） | Academic Search Premier, ERIC, Education Full Text, PsycINFO |
 >
-> **图表解读** 检索方案涵盖了 9 大权威数据库与学位论文库，使用星号通配符广泛检索了 epistemic, epistemology, belief, beliefs 等构念词变体，确保了检索的查全率。
+> **图表解读** 检索方案涵盖了 9 大权威数据库与学位论文库，使用星号通配符广泛检索了 epistemic, [[Epistemology]], belief, beliefs 等[[Construct|构念]]词变体，确保了检索的查全率。
 
 ### 离群值处理、发表偏倚与稳健性检验
 
-在合并效应量前，研究通过直方图检查了效应量分布的正态性。Grubbs' (1950) 离群值检验证实 Kuhn et al. (2017) 的效应量（$d = 3.2$）属于极端离群值。为避免单项极大值扭曲整体分布假设，同时防止直接删除真实研究造成信息损失，研究团队按惯例将其缩尾（Winsorization）调整为数据集中次大效应量 $d = 2.6$。（p. 484）
-
-> [!example]- 图2：标准误与 Fisher's Z 漏斗图发表偏倚诊断（p. 484）
-> ![](https://img.mylikemie.icu/sources/Cartiff_2021_JEP/figures/Cartiff_2021_JEP_Fig2_Funnel_Plot.jpg)
-
-漏斗图表现出一定的不对称性，提示文献中可能存在未发表的非显著结果（抽屉效应）。进一步的统计诊断结果如下：
-1. **Egger 线性回归检验** 证实漏斗图存在显著的不对称性；
-2. **Duval & Tweedie 剪补法** 在虚拟填补了 6 项可能缺失的非显著研究后，总体效应量从 $d = 0.509$ 保守下调为 $d = 0.342$（$95\% \text{ CI } [0.155, 0.528], p < .001$），依然保持了高度的统计显著性与明确的实际教学价值；
-3. **Rosenthal 经典失安全数** 达到 $N_{fs} = 2{,}593$，即需要 2,593 项效应量为零的未发表研究才能将本元分析的总体效应推翻为不显著；
-4. **Orwin 失安全数** 测算表明，需要 46 项平均效应为零的缺失研究，才能将总体效应压低至 $d = 0.20$ 的微小效应水平。（pp. 484–485）
+> [!bias-audit] 偏倚识别与稳健性诊断
+> **离群值缩尾处理** Grubbs' (1950) 检验证实 Kuhn et al. (2017) 的效应量（$d = 3.2$）属于极端离群值，按惯例缩尾（Winsorization）至数据集中次大效应量 $d = 2.6$，以避免单项极大值扭曲整体分布，同时保留真实研究。（p. 484）
+>
+> **漏斗图诊断**
+>
+> >> [!example]- 图2：[[Standard Error\|标准误]]与 Fisher's Z 漏斗图发表偏倚诊断（p. 484）
+> >> ![](https://img.mylikemie.icu/sources/Cartiff_2021_JEP/figures/Cartiff_2021_JEP_Fig2_Funnel_Plot.jpg)
+>
+> 漏斗图呈现一定不对称性，提示文献中可能存在抽屉效应（未发表的非显著结果）。进一步统计诊断：
+> 1. **Egger 线性回归检验** 证实漏斗图不对称显著；
+> 2. **Duval & Tweedie 剪补法** 虚拟填补 6 项缺失研究后，效应量从 $d = 0.509$ 保守下调为 $d = 0.342$（$95\% \text{ CI } [0.155, 0.528], p < .001$），依然高度显著；
+> 3. **Rosenthal 经典失安全数** $N_{fs} = 2{,}593$，需要 2,593 项零效应的未发表研究才能推翻总体结论；
+> 4. **Orwin 失安全数** 需要 46 项零效应缺失研究，才能将效应压低至 $d = 0.20$。（pp. 484–485）
 
 ---
 
@@ -209,12 +254,12 @@ journal: "Journal of Educational Psychology"
 ### 论证步骤一　认识论认知干预能够有效改善学业成绩且因果效应达到中等强度
 
 > [!claim] 步骤一核心主张
-> 元分析合并结果证实，针对认识论认知的教学干预能够带来显著且稳健的学业成就提升，其平均效应达到中等偏上水平（随机效应模型 $d = 0.509$），确立了认识论认知的因果改善作用。（p. 485）
+> [[Meta-analysis|元分析]]合并结果证实，针对[[Epistemic Cognition|认识论认知]]的教学干预能够带来显著且稳健的[[Academic Achievement|学业成就]]提升，其平均效应达到中等偏上水平（[[Fixed-Effect and Random-Effects Models|随机效应模型]] $d = 0.509$），确立了认识论认知的因果改善作用。（p. 485）
 
 #### 1. 实验与准实验干预平均带来中等程度的学业表现提升
 
-> [!ref-table]- 表 2：纳入研究总体效应量合并结果（p. 485）
-> | 统计模型 | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df | 异质性（I²） |
+> [!ref-table]- 表 2：纳入研究总体[[Effect Size|效应量]]合并结果（p. 485）
+> | 统计模型 | [[Sample Size Determination\|样本量]]（k） | 效应量（d） | 95% [[Confidence Interval\|置信区间]]（95% CI） | Z 值 | Q 值 | df | [[Heterogeneity\|异质性]]（I²） |
 > |---|---|---|---|---|---|---|---|
 > | 固定效应模型 | 28 | .372 | [.324, .420] | 15.149*** | 370.964*** | 27 | 92.722% |
 > | 随机效应模型 | 28 | .509 | [.326, .692] | 5.452*** | — | — | — |
@@ -232,32 +277,32 @@ journal: "Journal of Educational Psychology"
 两种算法得出的结果仅相差 $0.014$，且显著性完全一致。这表明数据间的相关性并未干扰总体因果结论的有效性。（p. 484）
 
 > [!warrant]- 推理桥梁
-> 统计数据的显著性与稳健性有力回应了长期以来的发展决定论：认识论认知并非不可变动的年龄产物，通过有针对性的教学干预，学生的认知信念能够被有效激活与改善，并切实转化为学科成绩的提高。
+> 统计数据的显著性与稳健性有力回应了长期以来的发展[[Determinism|决定论]]：认识论认知并非不可变动的年龄产物，通过有针对性的教学干预，学生的认知信念能够被有效激活与改善，并切实转化为学科成绩的提高。
 
 ---
 
 ### 论证步骤二　提供结构化指导与信源评估规则显著优于无支架的开放式探究
 
 > [!claim] 步骤二核心主张
-> 干预效果高度取决于具体的教学组织形式：明确讲授证据评估策略的指导式探究（$d = 0.808$）与信源评估（$d = 0.800$）成效突出，而缺乏指导的自主问题解决（$d = 0.340$）与开放辩论（$d = 0.134$）效果微弱且不显著。（pp. 485–486, 492）
+> 干预效果高度取决于具体的教学组织形式：明确讲授证据评估策略的[[Inquiry-Based Learning|指导式探究]]（$d = 0.808$）与信源评估（$d = 0.800$）成效突出，而缺乏指导的自主[[Problem Solving|问题解决]]（$d = 0.340$）与开放辩论（$d = 0.134$）效果微弱且不显著。（pp. 485–486, 492）
 
 #### 1. 讲授具体确证策略的指导式教学相比放任型问题解决和辩论更具优势
 
-> [!ref-table]- 表 3：干预教学框架调节变量分析（p. 486）
+> [!ref-table]- 表 3：干预教学框架[[Moderator Analysis|调节变量分析]]（p. 486）
 > | 教学框架 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df |
 > |---|---|---|---|---|---|---|---|
 > | 指导式探究 | 893 | 7 | .808 | [.313, 1.302] | 3.198*** | 101.035*** | 6 |
 > | 信源评估 | 182 | 2 | .800 | [.625, .974] | 8.992*** | .232 | 1 |
-> | 认知与元认知支架 | 341 | 4 | .663 | [.228, 1.098] | 2.988** | 24.496*** | 3 |
-> | 建构主义常规教学 | 690 | 3 | .479 | [.082, .877] | 2.366* | 17.523*** | 2 |
-> | 基于问题的学习（PBL） | 1250 | 7 | .340 | [-.080, .761] | 1.586 | 115.279*** | 6 |
+> | 认知与[[Metacognition\|元认知]]支架 | 341 | 4 | .663 | [.228, 1.098] | 2.988** | 24.496*** | 3 |
+> | [[Constructivist Paradigm\|建构主义]]常规教学 | 690 | 3 | .479 | [.082, .877] | 2.366* | 17.523*** | 2 |
+> | [[Problem-Based Learning\|基于问题的学习]]（PBL） | 1250 | 7 | .340 | [-.080, .761] | 1.586 | 115.279*** | 6 |
 > | 论证教学 | 1017 | 5 | .134 | [-.157, .425] | .904 | 27.562*** | 4 |
 > | 组间差异 | — | — | — | — | — | 17.491** | 5 |
 >
 > **图表解读** 教学框架呈现鲜明的梯次差异：指导式探究与信源评估产生了大幅提升；而基于问题的学习与论证教学平均效果较弱，且置信区间跨越了零点。
 
 对各框架纳入研究的具体案例解构揭示了产生这一差异的深层原因：
-- **指导式探究案例** 在 Schiefer et al. (2017) 的小学科学课中，教师并不是让小学生在实验室漫无目的地自由探索，而是系统演示如何通过控制变量法设计对比实验，提供专门的表格指导学生记录观测证据、对比证据与原初猜想的差异，从而帮助小学生在掌握科学方法的同时大幅提高了概念测验成绩；Lin et al. (2014) 在知识建构环境中为五年级学生提供认识论提示，引导学生围绕问题主动形成解释理论；
+- **指导式探究案例** 在 Schiefer et al. (2017) 的小学科学课中，教师并不是让小学生在实验室漫无目的地自由探索，而是系统演示如何通过控制[[Variable|变量]]法设计对比实验，提供专门的表格指导学生记录观测证据、对比证据与原初猜想的差异，从而帮助小学生在掌握[[Scientific Method|科学方法]]的同时大幅提高了概念测验成绩；Lin et al. (2014) 在[[Knowledge Production|知识建构]]环境中为五年级学生提供[[Epistemology|认识论]]提示，引导学生围绕问题主动形成解释理论；
 - **信源评估案例** Mason et al. (2014) 在中学生阅读冲突性网络健康材料时，直接向学生讲授鉴别网络信息的具体操作准则——包括查看作者是否具备专业资质、出版机构是否有商业利益倾向、结论是否有数据支撑等。学生学会这套规则后，迅速摆脱了盲信盲从，跨文本理解能力显著提升；Barzilai & Ka'adan (2017) 也发现教授信息整合策略能有效提高学生权衡不同观点的能力；
 - **论证教学效果为何参差不齐** 辩论教学平均仅有 $d = 0.134$ 且不显著，看似令人费解，但细看研究细节就会发现其设计存在极大分歧：Nussbaum et al. (2008) 和 Osborne et al. (2013) 明确讲授了论据怎么构造、怎么找出对方漏洞反驳，取得了良好成效；而 Ferguson et al. (2013) 和 Stoel et al. (2017) 仅仅把观点冲突的两篇文章发给学生让他们自行阅读讨论，却未提供关于如何评估论据强弱的指导，结果学生在面对冲突信息时无所适从，产生了严重的认知负担。（pp. 492–493）
 
@@ -279,7 +324,7 @@ journal: "Journal of Educational Psychology"
 实证表明，教学干预如果精准瞄准知识如何确证和证据如何检验等核心环节（例如 Kammerer et al., 2015; Mason et al., 2014），效果最为理想；如果仅泛泛强调学习需要坚持、知识由个人自主建构等宽泛信念，却缺乏可操作的证据处理方法，学生很难在具体学科考试中获得实质提升。
 
 > [!warrant]- 推理桥梁
-> 这一发现呼应了 Barzilai & Chinn (2018) 关于适切认识论表现（apt epistemic performance）的理论命题：认识论水平的提升不能指望学生在没有引导的自由探索中自发完成；教师必须明确讲授并示范可靠的认知检验程序（reliable processes），学生才能学会如何理性判断与得出可信结论。
+> 这一发现呼应了 Barzilai & Chinn (2018) 关于适切认识论表现（apt epistemic performance）的理论命题：认识论水平的提升不能指望学生在没有引导的自由探索中自发完成；教师必须明确讲授并示范可靠的认知检验程序（[[Reliable Epistemic Processes|reliable processes]]），学生才能学会如何理性判断与得出可信结论。
 
 ---
 
@@ -318,7 +363,7 @@ journal: "Journal of Educational Psychology"
 >
 > **图表解读** 主题特定（$d = 0.722$）与领域通用干预（$d = 0.685$）成效更佳，三种特异性水平均达到显著。
 
-> [!ref-table]- 表 6：学业成就测验特异性水平调节分析（p. 487）
+> [!ref-table]- 表 6：学业[[Achievement and Aptitude Tests|成就测验]]特异性水平调节分析（p. 487）
 > | 测验特异性水平 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df |
 > |---|---|---|---|---|---|---|---|
 > | 领域通用 | 664 | 3 | .715 | [.388, 1.042] | 4.282*** | 7.653* | 2 |
@@ -341,14 +386,14 @@ journal: "Journal of Educational Psychology"
 > | 测验开发者 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df |
 > |---|---|---|---|---|---|---|---|
 > | 平均学分绩点（GPA） | 490 | 1 | .470 | [.289, .651] | 5.083*** | 0.000 | 0 |
-> | 研究者自编测验 | 2429 | 20 | .651 | [.456, .846] | 6.539*** | 189.986*** | 19 |
+> | [[Developer-Made Measures\|研究者自编测验]] | 2429 | 20 | .651 | [.456, .846] | 6.539*** | 189.986*** | 19 |
 > | 外部标准化测验 | 915 | 4 | .304 | [-.208, .816] | 1.164 | 39.123*** | 3 |
 > | 任课教师自编常规测验 | 789 | 5 | .012 | [-.449, .473] | .052 | 47.768*** | 4 |
 > | 组间差异 | — | — | — | — | — | 7.271 | 3 |
 >
 > **图表解读** 研究者自编测验效应显著（$d = 0.651$），而任课教师自编期末考效应几乎为零（$d = 0.012$）。
 
-未对齐测验表现反常偏高并非真正的教学悖论，而是由于测量工具的性质所致（以 Lam & Chan, 2008 以及 Shekoyan, 2009 为代表）：未对齐研究通常采用学科大领域的认知干预，但测验却选用了针对特定主题、设计精巧的自编概念测验；这类自编测验专为检验深度理解而设计，敏锐捕捉到了论证逻辑和概念的转变。相反，学校常规期末考和外部标准化统考大多考查现成公式与死记硬背，无法测出深层思维变化。（pp. 488, 492）
+未对齐测验表现反常偏高并非真正的教学悖论，而是由于测量工具的性质所致（以 Lam & Chan, 2008 以及 Shekoyan, 2009 为代表）：未对齐研究通常采用学科大领域的认知干预，但测验却选用了针对特定主题、设计精巧的自编概念测验；这类自编测验专为检验深度理解而设计，敏锐捕捉到了论证逻辑和概念的转变。相反，学校常规期末考和外部标准化统考大多考查现成公式与[[Rote Learning|死记硬背]]，无法测出深层思维变化。（pp. 488, 492）
 
 > [!warrant]- 推理桥梁
 > 这一结果与 [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 的元分析结论完全一致：认识论认知具有清晰的作用边界。它不是单纯提高机械计算速度的万灵药，而是帮助学生破除前概念偏见、评估证据优劣的理性引擎；如果用只考死记硬背的试卷去检验认识论干预，自然无法测出其真实效果。
@@ -358,7 +403,7 @@ journal: "Journal of Educational Psychology"
 ### 论证步骤四　短周期集中教学比长周期干预更易见效且具有延时内化红利
 
 > [!claim] 步骤四核心主张
-> 实证数据推翻了教育干预历时越长越有效的经验直觉：短期与中期集中干预（$d = 0.615 \sim 0.925$）远优于全学期长周期干预（$d = 0.234, p > .05$）；进一步的交叉列联表明长期干预成效偏低很大程度上是由于选用了不敏感的期末统一考试；延时后测展现出效应翻倍（$d = 0.966$）的内化沉淀特征。（pp. 487, 490–493）
+> 实证数据推翻了教育干预历时越长越有效的经验直觉：短期与中期集中干预（$d = 0.615 \sim 0.925$）远优于全学期长周期干预（$d = 0.234, p > .05$）；进一步的交叉列联表明长期干预成效偏低很大程度上是由于选用了不敏感的期末统一考试；延时[[Pre-test and Post-test|后测]]展现出效应翻倍（$d = 0.966$）的内化沉淀特征。（pp. 487, 490–493）
 
 #### 1. 短期干预效果显著而全学期干预面临效应衰减与对照组追赶
 
@@ -376,8 +421,8 @@ journal: "Journal of Educational Psychology"
 
 这一数据呈现出鲜明的倒挂：
 - **短周期干预的强劲表现** 持续 1 周至 4 周的短周期教学取得了最明显的学业提升；
-- **全学期干预的明显缩水** 历时一整学期的 11 项研究虽然覆盖了 2,687 名学生，但其平均效应量却降至无统计显著性的 $d = 0.234$；
-- **非线性增长与效应衰退（Fadeout）机制** 论文结合认知干预生长模型（Cameron et al., 2015; Dumas & McNeish, 2017）解释了这一现象：高强度的短期干预能促使学生快速吸收核心策略并达到平台期；若干预时间拖得过长，教学指导的浓度被稀释，对照组学生在日常学习中也在逐渐积累经验并迎头赶上，导致期末测试时两组的净差距被明显压缩。（pp. 490, 493）
+- **全学期干预的明显缩水** 历时一整学期的 11 项研究虽然覆盖了 2,687 名学生，但其平均效应量却降至无[[Statistical Significance|统计显著性]]的 $d = 0.234$；
+- **非线性增长与[[Fade-out Effect|效应衰退]]（Fadeout）机制** 论文结合认知干预[[Growth|生长]]模型（Cameron et al., 2015; Dumas & McNeish, 2017）解释了这一现象：高强度的短期干预能促使学生快速吸收核心策略并达到平台期；若干预时间拖得过长，教学指导的浓度被稀释，对照组学生在日常学习中也在逐渐积累经验并迎头赶上，导致期末测试时两组的净差距被明显压缩。（pp. 490, 493）
 
 #### 2. 长期干预表现微弱很大程度上是由于选用了无法测出深层变化的期末统考
 
@@ -430,7 +475,7 @@ journal: "Journal of Educational Psychology"
 >
 > **图表解读** 中小学生干预效应显著（$d = 0.606$），达到大学本科群体（$d = 0.309$）的两倍。
 
-中小学生获益更明显与 [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 的元分析发现高度一致：大学生经过十余年应试训练与学科专门化，往往已经形成了较为固定的思维套路和认知定势，改变起来阻力较大；而中小学生正处于认知信念剧烈塑形的萌芽期与敏感期，思维开放度高，一旦获得合理的证据确证指导，就能迅速完成认知方式的升级。（pp. 492–493）
+中小学生获益更明显与 [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 的元分析发现高度一致：大学生经过十余年应试训练与学科专门化，往往已经形成了较为固定的思维套路和认知定势，改变起来阻力较大；而中小学生正处于认知信念剧烈塑形的萌芽期与敏感期，思维开放度高，一旦获得合理的证据确证指导，就能迅速完成[[Ways of Knowing|认知方式]]的升级。（pp. 492–493）
 
 #### 2. 常规科任教师和计算机自适应系统实施干预同样能够取得良好效果
 
@@ -447,12 +492,12 @@ journal: "Journal of Educational Psychology"
 > [!ref-table]- 表 14：研究设计类型调节变量分析（p. 491）
 > | 研究设计 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df | 异质性（I²） |
 > |---|---|---|---|---|---|---|---|---|
-> | 等效组准实验设计（QED） | 289 | 4 | .767 | [.412, 1.122] | 4.232*** | 12.800** | 3 | 76.563% |
+> | 等效组[[Quasi-Experimental Designs\|准实验设计]]（QED） | 289 | 4 | .767 | [.412, 1.122] | 4.232*** | 12.800** | 3 | 76.563% |
 > | 常规准实验设计 | 2942 | 14 | .470 | [.158, .781] | 2.955** | 281.864*** | 13 | 95.388% |
-> | 严格随机对照试验（RCT） | 1142 | 10 | .465 | [.270, .660] | 4.676*** | 48.074*** | 9 | 81.279% |
+> | 严格[[Randomised Controlled Trials\|随机对照试验]]（RCT） | 1142 | 10 | .465 | [.270, .660] | 4.676*** | 48.074*** | 9 | 81.279% |
 > | 组间差异 | — | — | — | — | — | 2.260 | 2 | — |
 >
-> **图表解读** 严格的随机分配实验（$d = 0.465$）与常规自然班级准实验（$d = 0.470$）结果几乎完全一致，组间差异不显著（$Q_b = 2.260, p > .05$）。
+> **图表解读** 严格的[[Random Assignment|随机分配]]实验（$d = 0.465$）与常规自然班级准实验（$d = 0.470$）结果几乎完全一致，组间差异不显著（$Q_b = 2.260, p > .05$）。
 
 > [!ref-table]- 表 15：同行评审状态调节变量分析（p. 492）
 > | 同行评审状态 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df | 异质性（I²） |
@@ -461,29 +506,29 @@ journal: "Journal of Educational Psychology"
 > | 非同行评审报告与论文 | 1282 | 5 | .335 | [.127, .542] | 3.161** | 17.874*** | 4 | 77.621% |
 > | 组间差异 | — | — | — | — | — | 1.895 | 1 | — |
 >
-> **图表解读** 同行评审文献与非评审报告均达统计显著，且置信区间高度重叠（$Q_b = 1.895, p > .05$）。
+> **图表解读** 同行评审[[Document|文献]]与非评审报告均达统计显著，且置信区间高度重叠（$Q_b = 1.895, p > .05$）。
 
 方法学检验确立了认识论干预在中小学推广的可行性：学校不必依赖校外专家的长期驻场，一线在职科任教师经过常规培训就能独立胜任教学；而借助智能学习平台中的反思提示与自适应支架，同样能获得显著收益。同时，在自然教学班中开展的准实验与严密的随机实验取得了近乎相同的提升效果，排除了选择性偏差导致效果虚高的担忧。（pp. 489–492）
 
 > [!warrant]- 推理桥梁
-> 中小学阶段不仅不是因年幼而无法理解批判性思维的禁区，反而是重塑学生认知方式的黄金窗口期；一线科任教师的有效执行与真实课堂中的稳健表现，为将认识论思维支架纳入国家基础教育学科课程标准提供了坚实的实践依据。
+> 中小学阶段不仅不是因年幼而无法理解[[Critical Thinking|批判性思维]]的禁区，反而是重塑学生认知方式的黄金窗口期；一线科任教师的有效执行与真实课堂中的稳健表现，为将认识论思维支架纳入国家基础教育学科课程标准提供了坚实的实践依据。
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **因果改善效应确立** 认识论认知干预对学业成就具有显著且达中等强度的因果促进作用（随机效应模型 $d = 0.509$），超越常规教育干预基准并经受住了发表偏倚检验。（p. 485）
-> 2. **指导优于放任探索** 明确讲授评估规则的指导式探究（$d = 0.808$）与信源评估（$d = 0.800$）成效最佳，缺乏支架的自主问题解决（$d = 0.340$）与开放辩论（$d = 0.134$）效果微弱。（p. 486）
-> 3. **精准提升高阶思维** 干预重点提升高阶论证能力（$d = 1.047$）与深层概念转变（$d = 0.557$），对机械公式套用（$d = 0.140$）脱节；自编测验因敏锐捕捉到了深层变化而呈现出更高的有效性。（p. 488）
+> 1. **因果改善效应确立** [[Epistemic Cognition|认识论认知]]干预对[[Academic Achievement|学业成就]]具有显著且达中等强度的因果促进作用（[[Fixed-Effect and Random-Effects Models|随机效应模型]] $d = 0.509$），超越常规教育干预基准并经受住了[[Publication Bias|发表偏倚]]检验。（p. 485）
+> 2. **指导优于放任探索** 明确讲授评估规则的[[Inquiry-Based Learning|指导式探究]]（$d = 0.808$）与信源评估（$d = 0.800$）成效最佳，缺乏支架的自主[[Problem Solving|问题解决]]（$d = 0.340$）与开放辩论（$d = 0.134$）效果微弱。（p. 486）
+> 3. **精准提升[[Higher-Order Thinking Skills|高阶思维]]** 干预重点提升高阶论证能力（$d = 1.047$）与深层概念转变（$d = 0.557$），对机械公式套用（$d = 0.140$）脱节；自编测验因敏锐捕捉到了深层变化而呈现出更高的有效性。（p. 488）
 > 4. **打破时长迷思与后劲反弹** 1 至 4 周的集中教学（$d = 0.615 \sim 0.925$）显著优于一整学期的长干预（$d = 0.234$），长期干预指标偏低源于选用了不敏感的期末统考；延时测试中更表现出效应翻倍（$d = 0.966$）的内化沉淀优势。（p. 490）
 > 5. **中小学获益更为突出** 中小学生在干预中的成绩提升（$d = 0.606$）是大学生的两倍（$d = 0.309$），推翻了低龄儿童无法开展高阶思维的偏见；科任教师与计算机软件实施同样效果明显。（p. 491）
 
 > [!stat-cards]- 核心数据
-> - **$d = 0.509$** 认识论认知干预对学业成就的随机效应模型总体加权效应量（$p < .001$）。（p. 485）
-> - **$d = 0.342$** 剪补法虚拟填补 6 项缺失研究后的保守校正效应量（$p < .001$）。
+> - **$d = 0.509$** 认识论认知干预对学业成就的随机效应模型总体加权[[Effect Size|效应量]]（$p < .001$）。（p. 485）
+> - **$d = 0.342$** [[Trim and Fill Method|剪补法]]虚拟填补 6 项缺失研究后的保守校正效应量（$p < .001$）。
 > - **$d = 0.808 \text{ 与 } 0.800$** 指导式探究与信源评估教学模式录得的高效应量。（p. 486）
-> - **$d = 1.047$** 认识论干预对高阶论证表现测试带来的因果提升幅度。（p. 488）
+> - **$d = 1.047$** [[Epistemology|认识论]]干预对高阶论证表现测试带来的因果提升幅度。（p. 488）
 > - **$d = 0.966$** 延时测试所捕捉到的后劲反弹效应量（即时测试为 $d = 0.451$）。（p. 490）
 > - **$d = 0.606 \text{ vs } 0.309$** K-12 中小学生与大学本科群体之间两倍的因果效应差距。（p. 491）
 
@@ -491,18 +536,18 @@ journal: "Journal of Educational Psychology"
 
 ## 关键引用
 
-> [!citation-card] 认识论干预的因果效能与教育前景
-> 我们的分析表明，认识论认知干预平均而言对学业成就具有积极影响。此外，基于信源评估和指导式探究教学的认识论认知干预尤为具有前景。（p. 477）
+> [!citation-card] [[Epistemology|认识论]]干预的因果效能与教育前景
+> 我们的分析表明，[[Epistemic Cognition|认识论认知]]干预平均而言对[[Academic Achievement|学业成就]]具有积极影响。此外，基于信源评估和[[Inquiry-Based Learning|指导式探究]]教学的认识论认知干预尤为具有前景。（p. 477）
 >
 > *Our analyses reveal that epistemic cognition interventions, on average, have a positive influence on academic achievement. Further, epistemic cognition interventions based on source evaluation and guided inquiry instruction are particularly promising.*
 
 > [!citation-card] 指导式探究与信源评估的机制优势
-> 我们将每项干预归入六类教学框架之一，发现那些聚焦于显性指导或某种形式指导式探究的干预，优于基于问题的学习和论证干预。研究者曾指出，让学生接触对立冲突的视角对于促进认识论转变至关重要。信源评估干预使学生接触到关于某一主题具有多元相左立场的文本源，并直接向学生讲授如何评估这些信源的策略。（p. 492）
+> 我们将每项干预归入六类教学框架之一，发现那些聚焦于显性指导或某种形式指导式探究的干预，优于[[Problem-Based Learning|基于问题的学习]]和论证干预。研究者曾指出，让学生接触对立冲突的视角对于促进认识论转变至关重要。信源评估干预使学生接触到关于某一主题具有多元相左立场的文本源，并直接向学生讲授如何评估这些信源的策略。（p. 492）
 >
 > *We grouped each intervention into one of six types of instructional framework and found that those focused on explicit instruction or some form of guided inquiry outperformed problem-based learning and argumentation interventions. Researchers have suggested that engaging students with contrasting perspectives is critical for facilitating epistemic change. Source evaluation interventions expose students to sources with multiple, diverging perspectives on a topic and directly teach students strategies on how to evaluate these sources.*
 
 > [!citation-card] 干预时长悖论与测验错配的理论反思
-> 较长周期的干预（通常持续约一学期）占据了文献中相当大的比重，然而我们发现较短周期的干预反而取得了更好的结果。这可能是因为较短干预中所使用的成就测验与干预目标契合度更高，也可能是因为简短研究中认识论认知教学的浓度更高，还可能是由于长期实施中的效应衰退问题。（p. 493）
+> 较长周期的干预（通常持续约一学期）占据了[[Document|文献]]中相当大的比重，然而我们发现较短周期的干预反而取得了更好的结果。这可能是因为较短干预中所使用的[[Achievement and Aptitude Tests|成就测验]]与干预目标契合度更高，也可能是因为简短研究中认识论认知教学的浓度更高，还可能是由于长期实施中的[[Fade-out Effect|效应衰退]]问题。（p. 493）
 >
 > *Longer interventions, usually lasting approximately a semester, make up a large portion of the studies in the literature, yet we found shorter interventions yielded better results. This may be because the achievement measures used in shorter interventions better fit the target of the interventions, or it may be because the concentration of the epistemic cognition instruction is greater in brief studies. It may also be because of issues regarding fadeout.*
 
@@ -511,10 +556,10 @@ journal: "Journal of Educational Psychology"
 ## 自述局限
 
 > [!warning]
-> - **纳入文献与样本规模有限** 符合实验与准实验严格标准的干预研究总计仅 26 篇（28 个样本），导致部分亚组检验的统计功效相对有限（如程序性知识仅 1 项研究，成人样本仅 2 项研究），可能存在因样本量较小而未检测出的真实差异。（pp. 492–493）
-> - **构念主观性与科学本质排除** 为保证认识论认知构念的纯度，研究严格排除了单纯针对科学本质（NOS）的文献和泛化的数学解题信念干预，虽然提升了结论的聚焦度，但也相应限制了样本总量。
+> - **纳入[[Document|文献]]与样本规模有限** 符合实验与准实验严格标准的[[Intervention Research|干预研究]]总计仅 26 篇（28 个样本），导致部分亚组检验的统计功效相对有限（如程序性知识仅 1 项研究，成人样本仅 2 项研究），可能存在因[[Sample Size Determination|样本量]]较小而未检测出的真实差异。（pp. 492–493）
+> - **[[Construct|构念]]主观性与[[Nature of Science|科学本质]]排除** 为保证[[Epistemic Cognition|认识论认知]]构念的纯度，研究严格排除了单纯针对科学本质（NOS）的文献和泛化的数学解题信念干预，虽然提升了结论的聚焦度，但也相应限制了样本总量。
 > - **学科覆盖主要偏向理科** 纳入的干预研究中有超过 80% 集中在科学与物理学科，人文学科、历史与跨学科领域的干预研究相对匮乏，跨学科推广结论时需保持审慎。
-> - **缺乏对长期效果的多波次追踪** 绝大多数研究仅测量了干预刚结束时的即时效果，仅有 5 项研究设置了延时后测，目前尚无法完整描绘干预收益在数月乃至数年后的长期保持与衰减轨迹。
+> - **缺乏对长期效果的多波次追踪** 绝大多数研究仅测量了干预刚结束时的即时效果，仅有 5 项研究设置了延时[[Pre-test and Post-test|后测]]，目前尚无法完整描绘干预收益在数月乃至数年后的长期保持与衰减轨迹。
 > - **受控实验室试验相对稀缺** 仅有 2 项研究在受控实验室环境下开展，未来需要更多微观实验以精确剥离出干预方案中真正发挥作用的核心活性成分。
 
 ---
