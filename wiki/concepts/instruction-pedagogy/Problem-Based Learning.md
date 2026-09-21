@@ -62,9 +62,10 @@ related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Blass_2020_JESP]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 related_instruments: []
 confidence: medium
-status: draft
+status: active
 created: 2026-05-04
 updated: 2026-09-21
 ---
@@ -202,6 +203,9 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > [!claim] Blass, E.
 > **教师能力影响参与条件** PBL 教师需要追踪学生探索方向、补充自身学科知识，并促进学生对发现过程的投入。Blass 报告 Inventorium 的实施测试中，由受训团队管理教师时学生保留率为 100%，交给未接受专门培训的课堂教师时几乎所有学生都停止参与。该观察缺少[[Sample Size Determination|样本量]]和不确定性信息，但提示教师培训和实施管理不能从教学法效果中剥离。[[Argument_Blass_2020_JESP|Blass (2020, p. 95)]]
 
+> [!claim] [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]
+> **缺乏程序支架的 PBL 在复杂认识论任务中成效受限** 在针对认识论认知与高阶学业成就的一阶元分析中，基于问题的学习作为干预框架所取得的促进效应较为微弱且未达统计显著，显著落后于明确讲授探究规程的指导式探究与信源评估。元分析证实，面对多文本冲突与劣构争议情境，单纯呈现真实问题而不提供显性认知与元认知支架，容易导致学生在过载的认知负荷中无所适从，印证了 PBL 必须高度依赖结构化支架与过程示范才能发挥实效的理论判断。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 486, 492)]]
+
 ---
 
 ### 命题四　PBL 的平均效应量不能替代对情境、结果类型与证据质量的判断
@@ -227,7 +231,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > |---|---|---|---|
 > | 对齐性 | 同类专业问题贯穿目标、活动与评估 | 学生实际练习什么，评估又检查什么 | Biggs |
 > | 知识组织 | 问题序列共同决定覆盖与应用 | 内容是否充分，知识能否用于专业情境 | Biggs；Blass |
-> | 条件性 | 先备知识、问题结构和导师能力共同作用 | 何时引入、开放到什么程度、如何提供支架 | Hattie；Blass |
+> | 条件性 | 先备知识、问题结构、导师能力与程序支架共同作用 | 何时引入、开放到什么程度、如何提供支架 | Hattie；Blass；Cartiff |
 > | 证据情境性 | 平均效应受研究情境与结果类型影响 | 数值能否迁移到当前课程与学生 | Hattie；Blass；Erdem |
 
 ---
@@ -244,6 +248,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > - **2010 后 — [[Document|文献]]激增与模型演化** PBL 文献量翻倍以上，研究兴趣持续增长（Hallinger, 2021）；模型与实施方式在 2010 年代持续演化，为高阶元分析积累素材（Hallinger, 2020; Azer, 2017）。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 951, 965)]]
 > - **2015 — 先备知识与问题结构解释** Hattie 用新手逆向推理、知识获取负效应及过度结构化问题解释低平均效应，把讨论从方法排名推进到实施条件。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
 > - **2020 — 数据库情境审查** Blass 检查 Hattie 的 PBL 来源类型、教育阶段与结果目标，质疑单一排名跨越医学教育和学校课堂的合理性。[[Argument_Blass_2020_JESP|Blass (2020, pp. 92–95)]]
+> - **2021 — 认识论干预元分析检验 PBL 教学边界** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 在一阶元分析中量化对比了各类教学框架，实证揭示缺乏显性支架的 PBL（d = 0.340，未达显著性）显著落后于指导式探究（d = 0.808），为先备知识与支架调节机制提供了严格因果证据。
 > - **2024 — 与[[Phenomenon-Based Learning|现象本位学习]]划定边界** Schaffar & Wolff 将 PBL 视为芬兰现象本位学习吸收的[[Constructivist Paradigm|建构主义]]传统之一，同时指出后者还具有[[Phenomenology|现象学]]、[[Bildung|教化]]和教学论根源。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, pp. 2–8)]]
 > - **2026 — 高等教育二阶综合更新证据** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶[[Meta-analysis|元分析]]，报告 PBL 在高等教育中对学生结果的总体效应 d = 0.60，[[Clinical Skills|临床技能]]与满意度效应最高；该结果与跨学段混合的低平均效应形成对照，强化了“平均效应高度依赖教育阶段与结果分类”的解释。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
 
@@ -264,7 +269,8 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] | 干预教学框架：PBL 对学业成就与认识论认知的因果干预效应 | 7 项研究 / 1,250；7 个效应 | Cohen's d；随机效应模型 | d = 0.340 [−.080, .761] | Q(6) = 115.279, p < .001 | 作为独立干预模式效果未达统计显著（Z = 1.586, p = .113），证实劣构问题探究若缺乏显性程序支架则成效受限 |
 > | [[Argument_Hattie_2015_SOTLP\|Albanese & Mitchell (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学知识结果 | 11 项研究 / N 未报告；60 个效应 | Cohen's d；模型未报告 | d = 0.27；95% CI 未报告 | 未报告 | Blass 将其识别为[[Literature Review\|文献综述]] |
 > | [[Argument_Hattie_2015_SOTLP\|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 8 项研究 / N 未报告；26 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 医学教育情境；情境集中于专业高等教育 |
 > | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的大学知识与技能结果 | 43 项研究 / N 未报告；35 个效应 | Cohen's d；模型未报告 | d = 0.12；95% CI 未报告 | 未报告 | 大学教育；结果类型需要细分 |
@@ -354,5 +360,6 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > - [[Argument_Blass_2020_JESP|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] 将 PBL 定位为芬兰[[Phenomenon-Based Learning|现象本位学习]]的近缘[[Constructivist Paradigm|建构主义]]传统，并划定两者的哲学与课程边界。
 > - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 以[[Meta-meta-analysis|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（[[Theoretical Knowledge|理论性知识]]、[[Clinical Skills|临床技能]]、[[Critical Thinking|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 在认识论认知干预因果元分析中量化对比了基于问题的学习（PBL）与其他教学框架的效应量，实证揭示了缺乏显性认知支架时 PBL 的成效局限。
 
 ---

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md",
+                "file": "wiki/concepts/research-methodology/Publication Bias.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Cartiff_2021_JEP"
+              "title": "Publication Bias"
             }
           },
           {
@@ -262,14 +262,20 @@
   },
   "active": "41073bf3fc60164f",
   "lastOpenFiles": [
-    "wiki/concepts/educational-philosophy/Constructivist Paradigm.md",
+    "wiki/concepts/instruction-pedagogy/Constructivist Instruction.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md",
+    "wiki/concepts/competency-and-assessment/Critical Thinking.md",
+    "wiki/concepts/instruction-pedagogy/Rote Learning.md",
+    "wiki/concepts/research-methodology/Developer-Made Measures.md",
+    "wiki/methods/quantitative/Fixed-Effect and Random-Effects Models.md",
+    "wiki/concepts/educational-psychology/Source of Knowledge.md",
+    "wiki/concepts/competency-and-assessment/Nature of Science.md",
+    "wiki/concepts/educational-philosophy/Constructivist Paradigm.md",
     "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
     "wiki/concepts/educational-psychology/Reliable Epistemic Processes.md",
     "wiki/concepts/educational-psychology/Epistemic Ideals.md",
     "wiki/concepts/educational-psychology/Epistemic Aims.md",
     "wiki/theories/educational-psychology/AIR Model of Epistemic Cognition.md",
-    "wiki/concepts/educational-psychology/Source of Knowledge.md",
     "wiki/theories/educational-psychology/Reflective Judgment Model.md",
     "wiki/concepts/educational-philosophy/Certainty of Knowledge.md",
     "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
@@ -281,15 +287,9 @@
     "wiki/concepts/learning-science-cognitive-science/Working Memory.md",
     "wiki/concepts/instruction-pedagogy/Scaffolding.md",
     "wiki/concepts/instruction-pedagogy/Discovery Learning.md",
-    "wiki/concepts/instruction-pedagogy/Rote Learning.md",
     "wiki/concepts/educational-psychology/Epistemic Agency.md",
-    "wiki/concepts/competency-and-assessment/Academic Achievement.md",
-    "wiki/concepts/educational-psychology/Justificatory Standards.md",
-    "wiki/concepts/educational-psychology/Epistemic Cognition.md",
-    "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md",
     "sources/Cartiff_2021_JEP/figures/Cartiff_2021_JEP_Fig2_Funnel_Plot.jpg",
     "sources/Cartiff_2021_JEP/figures/Cartiff_2021_JEP_Fig1_PRISMA_Flowchart.jpg",
-    "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md",
     "sources/Cartiff_2021_JEP/figures/fig2_funnel_plot_diagnostics.png",
     "sources/Cartiff_2021_JEP/figures/fig1_prisma_search_flowchart.png",
     "sources/Cartiff_2021_JEP/figures",

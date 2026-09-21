@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Publication Bias",
+      "path": "wiki/concepts/research-methodology/Publication Bias.md"
+    },
+    {
       "basename": "Argument_Cartiff_2021_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md"
+    },
+    {
+      "basename": "Critical Thinking",
+      "path": "wiki/concepts/competency-and-assessment/Critical Thinking.md"
+    },
+    {
+      "basename": "Rote Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Rote Learning.md"
+    },
+    {
+      "basename": "Developer-Made Measures",
+      "path": "wiki/concepts/research-methodology/Developer-Made Measures.md"
+    },
+    {
+      "basename": "Fixed-Effect and Random-Effects Models",
+      "path": "wiki/methods/quantitative/Fixed-Effect and Random-Effects Models.md"
+    },
+    {
+      "basename": "Source of Knowledge",
+      "path": "wiki/concepts/educational-psychology/Source of Knowledge.md"
+    },
+    {
+      "basename": "Nature of Science",
+      "path": "wiki/concepts/competency-and-assessment/Nature of Science.md"
     },
     {
       "basename": "Constructivist Paradigm",
@@ -27,10 +55,6 @@
     {
       "basename": "AIR Model of Epistemic Cognition",
       "path": "wiki/theories/educational-psychology/AIR Model of Epistemic Cognition.md"
-    },
-    {
-      "basename": "Source of Knowledge",
-      "path": "wiki/concepts/educational-psychology/Source of Knowledge.md"
     },
     {
       "basename": "Reflective Judgment Model",
@@ -75,10 +99,6 @@
     {
       "basename": "Discovery Learning",
       "path": "wiki/concepts/instruction-pedagogy/Discovery Learning.md"
-    },
-    {
-      "basename": "Rote Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Rote Learning.md"
     },
     {
       "basename": "Epistemic Agency",
@@ -179,26 +199,6 @@
     {
       "basename": "Educational Affordances",
       "path": "wiki/concepts/learning-science-cognitive-science/Educational Affordances.md"
-    },
-    {
-      "basename": "知识论作为元课程_2万字以内修订稿",
-      "path": "raw/知识论作为元课程_2万字以内修订稿.md"
-    },
-    {
-      "basename": "Affective Outcomes",
-      "path": "wiki/concepts/educational-psychology/Affective Outcomes.md"
-    },
-    {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
-    },
-    {
-      "basename": "Intelligent Tutoring Systems",
-      "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md"
-    },
-    {
-      "basename": "Generative AI Agent in Education",
-      "path": "wiki/concepts/educational-technology/Generative AI Agent in Education.md"
     }
   ],
   "omittedPaths": [],
