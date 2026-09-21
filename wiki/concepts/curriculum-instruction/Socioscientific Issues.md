@@ -2,7 +2,7 @@
 summary: "社会科学议题（Socioscientific Issues, SSI）是指深植于前沿科学技术、具有内在争议性、结构不良（ill-structured）且与道德、伦理、经济和政治考量密不可分的现实社会公共问题。作为当代科学教育的重要教学取向，SSI 旨在引导学生超越纯粹概念记忆，综合运用非形式推理（Informal Reasoning）、多元视角权衡与反驳论证，培育面向复杂民主社会事务的批判性科学素养与审议能动性。"
 type: concept
 domain: "curriculum-instruction"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
