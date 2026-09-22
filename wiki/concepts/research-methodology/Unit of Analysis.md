@@ -85,22 +85,22 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **分析单位（Unit of Analysis，又称分析单元）** 是指在经验研究设计、[[Coding in Qualitative Research|质性编码]]与[[Content Analysis|内容分析]]中，被观察、测量、描述和解释的基本实体、信息载体或文本片段。在[[Qualitative Research|质性研究]]与[[Content Analysis|内容分析]]中，分析单位界定了数据拆解切片、赋予编码与范畴聚合的最小操作基准与最大语境边界（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）。分析单位的界定直接决定了研究结论的可推广范围、统计推论的聚合尺度以及理论命题的解释力度。
+> **分析单位（Unit of Analysis，又称分析单元）** 是指在经验研究设计、[[Coding in Qualitative Research\|质性编码]]与[[Content Analysis\|内容分析]]中，被观察、测量、描述和解释的基本实体、信息载体或文本片段。在[[Qualitative Research\|质性研究]]与[[Content Analysis\|内容分析]]中，分析单位界定了数据拆解切片、赋予编码与范畴聚合的最小操作基准与最大语境边界（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 565]]）。分析单位的界定直接决定了研究结论的可推广范围、统计推论的聚合尺度以及理论命题的解释力度。
 
 > [!concept-lens] 概念透镜
 > - **含义** 研究者在收集和分析数据时聚焦审视的最小独立实体，从微观的词汇、句子、意群，到中观的命题、事件、段落，直至宏观的个体、学校、学区、政策文本或国家。
 > - **用途** 为质性编码与量化比较建立稳定一致的分析基准，防止在同一范畴内混合不同抽象层级的材料，保障数据聚合与跨案比较的有效性。
-> - **边界** 不等于分析范畴（Category）或[[Variable|变量]]（Variable）。分析单位是承载变量与范畴属性的具体实体载体，而非属性特征本身；亦不同于研究对象（Object of Study）的抽象议题。
+> - **边界** 不等于分析范畴（Category）或[[Variable\|变量]]（Variable）。分析单位是承载变量与范畴属性的具体实体载体，而非属性特征本身；亦不同于研究对象（Object of Study）的抽象议题。
 
 > [!citation-card] Krippendorff 论编码单位与语境单位的界限
-> 编码单位界定了可被分析的材料的最小元素，而语境单位界定了在单一范畴中可出现的最大文本单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 565)]]
+> 编码单位界定了可被分析的材料的最小元素，而语境单位界定了在单一范畴中可出现的最大文本单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, p. 565)]]
 >
 > *The coding unit defines the smallest element of material that can be analysed, whilst the contextual unit defines the largest textual unit that may appear in a single category. (Krippendorff, 2004, pp. 99–101)*
 
 > [!boundary]- 概念边界
 > - 不等于 分析范畴（Category）— 分析范畴是研究者基于理论建构的概念类属；分析单位是被赋码并归入该类属的具体数据片段或实体。
-> - 不等于 [[Variable|变量]]（Variable）— 变量是分析单位所具备的某种可变属性（如教师的“工作压力水平”）；分析单位是拥有该属性的主体实体（如“受访教师个体”）。
-> - 不等于 抽样个体（Respondent）— 在[[Longitudinal Study|纵向研究]]或多阶段设计中，受访个体可能提供数百个相互独立的“事件单位”或“陈述单位”，此时分析单位是具体的事件或陈述而非受访者本人。
+> - 不等于 [[Variable\|变量]]（Variable）— 变量是分析单位所具备的某种可变属性（如教师的“工作压力水平”）；分析单位是拥有该属性的主体实体（如“受访教师个体”）。
+> - 不等于 抽样个体（Respondent）— 在[[Longitudinal Study\|纵向研究]]或多阶段设计中，受访个体可能提供数百个相互独立的“事件单位”或“陈述单位”，此时分析单位是具体的事件或陈述而非受访者本人。
 
 ---
 
@@ -123,21 +123,21 @@ updated: 2026-09-17
 在[[Content Analysis|内容分析]]与质性探究体系中，分析单位呈现为结构化的多层嵌套体系（Krippendorff, 2004；Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）：
 
 > [!taxonomy] Krippendorff 的三层分析单位体系
-> - **抽样单位（Sampling units）** 进入或被排除在分析视野之外的宏观独立单元，属于选择单位（units of selection）。例如特定年份的报纸期号、抽取的整份访谈[[Transcription in Qualitative Research|转录]]稿、一部完整教科书。
-> - **记录/[[Coding in Qualitative Research|编码]]单位（Recording/coding units）** 包含于抽样单位之内且小于抽样单位的具体分析片段，属于描述与赋码单位（units of description）。例如具体的字词、短语、单句、段落或核心命题。
-> - **语境单位（Context units）** 为记录单位的阐释设定信息边界的最大文本范围。编码者在判断记录单位的真实意涵、修辞色彩与潜在动机时，所需参考的上下文广度（如该记录单位所在的整个章节或完整[[Dialogue in Education|对话]]轮次）。
+> - **抽样单位（Sampling units）** 进入或被排除在分析视野之外的宏观独立单元，属于选择单位（units of selection）。例如特定年份的报纸期号、抽取的整份访谈[[Transcription in Qualitative Research\|转录]]稿、一部完整教科书。
+> - **记录/[[Coding in Qualitative Research\|编码]]单位（Recording/coding units）** 包含于抽样单位之内且小于抽样单位的具体分析片段，属于描述与赋码单位（units of description）。例如具体的字词、短语、单句、段落或核心命题。
+> - **语境单位（Context units）** 为记录单位的阐释设定信息边界的最大文本范围。编码者在判断记录单位的真实意涵、修辞色彩与潜在动机时，所需参考的上下文广度（如该记录单位所在的整个章节或完整[[Dialogue in Education\|对话]]轮次）。
 
 > [!feature] 五类抽样与记录单位形态（Krippendorff, 2004）
 > - **物理单位（Physical units）** 以时间、空间、篇幅或物理尺寸界定（如报纸版面尺寸、电视广播时长、社交媒体单条推文）。
 > - **句法单位（Syntactical units）** 依据语言学语法自然停顿界定（如独立单词、词组、完整句子、自然段落）。
-> - **范畴单位（Categorical units）** 依据具有某种共同先验特征的成员资格界定（如所有指涉“[[Teacher Professional Agency|教师专业自主权]]”的文本）。
+> - **范畴单位（Categorical units）** 依据具有某种共同先验特征的成员资格界定（如所有指涉“[[Teacher Professional Agency\|教师专业自主权]]”的文本）。
 > - **命题单位（Propositional units）** 按照特定的命题结构或完整的因果/判断性陈述界定（包含主谓宾的独立判断）。
-> - **主题单位（Thematic units）** 围绕特定核心概念或[[Empiricism|经验论]]述展开的连贯文本组合，通常跨越句法边界但保持意义完整。
+> - **主题单位（Thematic units）** 围绕特定核心概念或[[Empiricism\|经验论]]述展开的连贯文本组合，通常跨越句法边界但保持意义完整。
 
 > [!info] 意义单位与单位化（Unitizing）
-> 林肯（[[Yvonna S. Lincoln]]）与古巴（[[Egon G. Guba]]）指出，质性分析的首要任务是实施单位化（unitizing）过程：研究者将原始转录文本切分成各自具备独立完整意涵的“意义单位（meaning unit）”，要求每个单位在脱离上下文时仍可被独立理解，作为后续范畴归纳的基本构件（Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）。
+> 林肯（[[Yvonna S. Lincoln]]）与古巴（[[Egon G. Guba]]）指出，质性分析的首要任务是实施单位化（unitizing）过程：研究者将原始转录文本切分成各自具备独立完整意涵的“意义单位（meaning unit）”，要求每个单位在脱离上下文时仍可被独立理解，作为后续范畴归纳的基本构件（Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 565]]）。
 
-> [!logic-map]- 三层分析单位嵌套与[[Multi-phase Sampling|多阶段抽样]]机制
+> [!logic-map]- 三层分析单位嵌套与[[Multi-phase Sampling\|多阶段抽样]]机制
 > ```mermaid
 > flowchart TD
 >     A["抽样单位 (Sampling Unit)<br>如：整份访谈转录稿 / 政策文本"] --> B["语境单位 (Context Unit)<br>如：特定讨论议题所在的完整段落与对话轮次"]
@@ -153,11 +153,11 @@ updated: 2026-09-17
 
 ### 命题一　文本分析单位的聚合尺度与编码信度呈反向权衡关系
 
-> [!concept-lens] 聚合尺度与[[Reliability|信度]]权衡
-> 本命题探讨文本分析单位的物理与语法聚合跨度如何直接制约[[Coding in Qualitative Research|编码]]者之间的一致性水平（[[Intercoder Agreement]]）。
+> [!concept-lens] 聚合尺度与[[Reliability\|信度]]权衡
+> 本命题探讨文本分析单位的物理与语法聚合跨度如何直接制约[[Coding in Qualitative Research\|编码]]者之间的一致性水平（[[Intercoder Agreement]]）。
 
 > [!claim] Weber, R. P.
-> **聚合尺度的信度反比规律** 罗伯特·韦伯（Robert Weber, 1990）的实证研究表明，在[[Content Analysis|内容分析]]中，单词、短语、单句以及整篇完整文档通常具有最高的编码信度；而段落或中等篇幅的文本片段其分类信度最低。因为词句具有明确的语法边界，而完整文档具有全局语义；相反，中等段落往往杂糅多种矛盾观点，留给编码者的主观推论空间最大，导致编码者间不一致性急剧升高。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 574)]]
+> **聚合尺度的信度反比规律** 罗伯特·韦伯（Robert Weber, 1990）的实证研究表明，在[[Content Analysis\|内容分析]]中，单词、短语、单句以及整篇完整文档通常具有最高的编码信度；而段落或中等篇幅的文本片段其分类信度最低。因为词句具有明确的语法边界，而完整文档具有全局语义；相反，中等段落往往杂糅多种矛盾观点，留给编码者的主观推论空间最大，导致编码者间不一致性急剧升高。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, p. 574)]]
 
 ---
 
@@ -167,7 +167,7 @@ updated: 2026-09-17
 > 本命题探讨质性编码若盲目追求极小分析单位，可能对深层语义与生活世界整体感造成的破坏。
 
 > [!claim] Cohen et al.
-> **离散编码的时序剥离与多义词危机** 当分析单位被机械细分为孤立字词或碎片短语时，文本原有的时序性（temporality）、动态情境（context）与互动连续性被彻底切断。同一外显词汇在不同时空语境中承载着相反意义，脱离语境单位的微观切片会导致严重的同形多义词（homographs）误判，使分析陷入去情境化的原子化碎片中。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 562, 573)]]
+> **离散编码的时序剥离与多义词危机** 当分析单位被机械细分为孤立字词或碎片短语时，文本原有的时序性（temporality）、动态情境（context）与互动连续性被彻底切断。同一外显词汇在不同时空语境中承载着相反意义，脱离语境单位的微观切片会导致严重的同形多义词（homographs）误判，使分析陷入去情境化的原子化碎片中。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, pp. 562, 573)]]
 
 ---
 
@@ -177,20 +177,20 @@ updated: 2026-09-17
 > 本命题探讨宏观聚合数据与微观个体数据之间跨层级推导的方法论危险。
 
 > [!claim] Robinson & Bray
-> **跨层级分析单位的推论谬误** 罗宾逊（William S. Robinson, 1950）论证，在宏观聚合单位（如地区、学校）上观察到的相关关系，不能直接等同于微观分析单位（如学生个体）上的因果关联，违背此原则将导致[[Ecological Fallacy|生态谬误]]（Ecological Fallacy）；反之，将个体层面的特征机械外推至组织或国家整体则构成原子谬误（Individualistic Fallacy）。在比较教育研究中，布雷与托马斯（Mark Bray & R. Murray Thomas, 1995）提出的“比较分析立方体”要求研究者必须明确锚定地理/区域、人群/群体与教育层级三维分析单位，严防跨层错位。
+> **跨层级分析单位的推论谬误** 罗宾逊（William S. Robinson, 1950）论证，在宏观聚合单位（如地区、学校）上观察到的相关关系，不能直接等同于微观分析单位（如学生个体）上的因果关联，违背此原则将导致[[Ecological Fallacy\|生态谬误]]（Ecological Fallacy）；反之，将个体层面的特征机械外推至组织或国家整体则构成原子谬误（Individualistic Fallacy）。在比较教育研究中，布雷与托马斯（Mark Bray & R. Murray Thomas, 1995）提出的“比较分析立方体”要求研究者必须明确锚定地理/区域、人群/群体与教育层级三维分析单位，严防跨层错位。
 
 ---
 
 ### 命题四　复杂性理论重构分析单位为围绕奇异吸引子的生态共生网络
 
-> [!concept-lens] [[Complexity Theory|复杂适应系统]]对原子化分析单位的本体超越
+> [!concept-lens] [[Complexity Theory\|复杂适应系统]]对原子化分析单位的本体超越
 > 本命题探讨复杂性理论如何打破个体与系统的机械割裂，将分析单位重塑为非线性交互的动态生态网络。
 
 > [!claim] Morrison, Capra & Lemke
-> **生态网络与奇异吸引子驱动的分析单位重构** 复杂性理论指出，将现象原子化为受限数量的孤立[[Variable|变量]]必然会错失各组分之间的动态交互。教育研究的常规分析单位必须摆脱个体、机构、社区与系统之间的机械区隔；这些传统边界应当相互融合，使分析单位转变为一个围绕特定中心议题或‘奇异吸引子’（strange attractor）展开并由其[[Emergence|涌现]]出的动态生态网络（ecosystem or web）。个体、家庭、班级、学校与社会处于内在必然的共生演化之中，这为贯通宏观政策与微观教学变革提供了核心纽带。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
+> **生态网络与奇异吸引子驱动的分析单位重构** 复杂性理论指出，将现象原子化为受限数量的孤立[[Variable\|变量]]必然会错失各组分之间的动态交互。教育研究的常规分析单位必须摆脱个体、机构、社区与系统之间的机械区隔；这些传统边界应当相互融合，使分析单位转变为一个围绕特定中心议题或‘奇异吸引子’（strange attractor）展开并由其[[Emergence\|涌现]]出的动态生态网络（ecosystem or web）。个体、家庭、班级、学校与社会处于内在必然的共生演化之中，这为贯通宏观政策与微观教学变革提供了核心纽带。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 31)]]
 
 > [!citation-card] 复杂系统视域下的分析单位生态重构
-> 复杂性理论主张必须从整体论视角审视现象；若将现象原子化为有限数量的变量并仅聚焦于某些孤立因素，就会错失多个部分之间必然的动态交互。更为根本的是，复杂性理论指出教育研究中的常规分析单位应当打破个体、机构、社区与系统之间的机械区隔。这些单元应当相互融合，从而使分析单位转变为一个聚焦于特定主题或兴趣中心（即‘奇异吸引子’）并从中涌现出来的网络或生态系统。个体、家庭、学生、班级、学校、社区与社会处于共生共变之中；复杂性理论揭示它们之间的关系是内在必然的而非偶然的。这构成了连接宏观与微观研究、理解与促进教育变革的核心枢纽。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
+> 复杂性理论主张必须从整体论视角审视现象；若将现象原子化为有限数量的变量并仅聚焦于某些孤立因素，就会错失多个部分之间必然的动态交互。更为根本的是，复杂性理论指出教育研究中的常规分析单位应当打破个体、机构、社区与系统之间的机械区隔。这些单元应当相互融合，从而使分析单位转变为一个聚焦于特定主题或兴趣中心（即‘奇异吸引子’）并从中涌现出来的网络或生态系统。个体、家庭、学生、班级、学校、社区与社会处于共生共变之中；复杂性理论揭示它们之间的关系是内在必然的而非偶然的。这构成了连接宏观与微观研究、理解与促进教育变革的核心枢纽。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 31)]]
 >
 > *Complexity theory suggests that phenomena must be looked at holistically; to atomize phenomena into a restricted number of variables and then to focus only on certain factors is to miss the necessary dynamic interaction of several parts... More fundamentally, complexity theory suggests that the conventional units of analysis in educational research should move away from, for example, individuals, institutions, communities and systems. These should merge, so that the unit of analysis becomes a web or ecosystem, focused on, and arising from, a specific topic or centre of interest (a 'strange attractor').*
 
@@ -211,11 +211,11 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s — [[Positivism|实证主义]]量化单元确立** 经典传播学与社会调查确立分析单位概念，聚焦于[[Questionnaire|问卷]]个体受访者与报刊印刷行数等物理测量单元，强调统计独立性。
-> - **1980s — 传播[[Content Analysis|内容分析]]三级体系** 克里彭多夫（Krippendorff, 1980, 2004）系统提出抽样单位、记录单位与语境单位的三层划分，奠定内容分析单位化标准。
-> - **1985 — 质性自然主义单位化规程** 林肯与古巴（Lincoln & Guba, 1985）将单位化（Unitizing）引入[[Interpretive Paradigm|自然主义探究]]，确立具有独立语义完整性的“意义单位（Meaning units）”。
-> - **1990s — 聚合[[Reliability|信度]]律与多层比较模型** 罗伯特·韦伯（Weber, 1990）总结聚合尺度与信度的反比关系；布雷与托马斯（Bray & Thomas, 1995）构建比较教育多维分析单位立方体框架。
-> - **2000s–2010s — [[Complexity Theory|复杂性理论]]的生态网络转向** [[Keith Morrison|莫里森]]（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
+> - **1950s — [[Positivism\|实证主义]]量化单元确立** 经典传播学与社会调查确立分析单位概念，聚焦于[[Questionnaire\|问卷]]个体受访者与报刊印刷行数等物理测量单元，强调统计独立性。
+> - **1980s — 传播[[Content Analysis\|内容分析]]三级体系** 克里彭多夫（Krippendorff, 1980, 2004）系统提出抽样单位、记录单位与语境单位的三层划分，奠定内容分析单位化标准。
+> - **1985 — 质性自然主义单位化规程** 林肯与古巴（Lincoln & Guba, 1985）将单位化（Unitizing）引入[[Interpretive Paradigm\|自然主义探究]]，确立具有独立语义完整性的“意义单位（Meaning units）”。
+> - **1990s — 聚合[[Reliability\|信度]]律与多层比较模型** 罗伯特·韦伯（Weber, 1990）总结聚合尺度与信度的反比关系；布雷与托马斯（Bray & Thomas, 1995）构建比较教育多维分析单位立方体框架。
+> - **2000s–2010s — [[Complexity Theory\|复杂性理论]]的生态网络转向** [[Keith Morrison\|莫里森]]（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 31)]]
 > - **2020s — 计算文本分块与语境窗口重构** 随着自然语言处理与大语言模型（LLM）的兴起，文本分块（Chunking）、词元（Token）与上下文窗口（Context Window）重塑了分析单位的技术形态，人在回路（HITL）审校成为维护宏观语境与微观分块平衡的核心机制。
 
 ---
@@ -225,26 +225,26 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 原子化离散切分 vs 整体性语境保留
-> > 争论文本分析单位究竟应当尽量细切以追求[[Coding in Qualitative Research|编码]]精度，还是保持较大篇幅以维护经验叙事的完整感。
+> > 争论文本分析单位究竟应当尽量细切以追求[[Coding in Qualitative Research\|编码]]精度，还是保持较大篇幅以维护经验叙事的完整感。
 > >
 > > - **Weber (1990)** 主张微观单位（如单词、单句）能够显著降低编码者主观推论的模糊性，极大提升分类一致性与可重复性。
-> > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]** 警告过度细切会导致时序因果断裂与主观心境抹平，强调保持叙事完整性（Narrative [[Accounts]]）并提供[[Rich and Thick Description|深描]]。
+> > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]** 警告过度细切会导致时序因果断裂与主观心境抹平，强调保持叙事完整性（Narrative [[Accounts]]）并提供[[Rich and Thick Description\|深描]]。
 >
-> > [!axis] 先验客观预设 vs 解释学动态[[Emergence|涌现]]
+> > [!axis] 先验客观预设 vs 解释学动态[[Emergence\|涌现]]
 > > 争论分析单位是否是一组独立于研究者的客观边界，抑或是在人机互动与解释学循环中动态浮现的产物。
 > >
-> > - **[[Positivism|实证主义]]取向** 强调在进入分析前必须刚性界定抽样与记录单位的语法界限，保障统计检验的一致性。
-> > - **自然主义取向（Lincoln & Guba, 1985）** 认为意义单位无法先验固化，必须随着研究者对生活世界的浸润（[[Presence|immersion]]）动态重组与调整边界。
+> > - **[[Positivism\|实证主义]]取向** 强调在进入分析前必须刚性界定抽样与记录单位的语法界限，保障统计检验的一致性。
+> > - **自然主义取向（Lincoln & Guba, 1985）** 认为意义单位无法先验固化，必须随着研究者对生活世界的浸润（[[Presence\|immersion]]）动态重组与调整边界。
 >
 > > [!axis] 离散实体原子化 vs 生态系统共生网络
-> > 争论研究分析单位应聚焦于清晰界定的独立[[Variable|变量]]承载实体，还是聚焦于多层嵌套、动态共生的复杂关系网络。
+> > 争论研究分析单位应聚焦于清晰界定的独立[[Variable\|变量]]承载实体，还是聚焦于多层嵌套、动态共生的复杂关系网络。
 > >
 > > - **传统经验实证取向** 坚持将分析单位限定为个体学生、教师或学校，强调变量边界清晰与测量独立性。
-> > - **[[Complexity Theory|复杂性理论]]取向（Morrison, 2008; Capra, 1996）** 认为孤立原子化切片割裂了内在必然共生联系，主张将整个互动网络与生态[[Champ|场域]]作为统一分析单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
+> > - **[[Complexity Theory\|复杂性理论]]取向（Morrison, 2008; Capra, 1996）** 认为孤立原子化切片割裂了内在必然共生联系，主张将整个互动网络与生态[[Champ\|场域]]作为统一分析单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 31)]]
 
 > [!warning] 分析单位确定中的四大典型方法论陷阱
-> - **聚合层级错位（Level Mismatch）** 在理论[[Hypothesis|假设]]中关注个体教师心态，但在数据分析中直接以学校或教研组为单位实施合并，导致分析层级与[[Research Question|研究问题]]脱节。
-> - **语境单位人为剥离（Context Severing）** 在 [[Qualitative Computer Software|CAQDAS]] 检索或自动提取中只截取命中关键词的单句，忽略前因后果语境，导致反讽、双关与深层隐喻被严重曲解。
+> - **聚合层级错位（Level Mismatch）** 在理论[[Hypothesis\|假设]]中关注个体教师心态，但在数据分析中直接以学校或教研组为单位实施合并，导致分析层级与[[Research Question\|研究问题]]脱节。
+> - **语境单位人为剥离（Context Severing）** 在 [[Qualitative Computer Software\|CAQDAS]] 检索或自动提取中只截取命中关键词的单句，忽略前因后果语境，导致反讽、双关与深层隐喻被严重曲解。
 > - **混合不同尺度的分析单位（Unit Mixing）** 在同一张频次计票单或交叉分析表中，将“字词频次”与“段落命题”杂糅相加，破坏了数据的度量衡统一性。
 > - **漠视缺席与沉默（Withholding Comment）** 仅把显性言说的实体算作分析单位，完全忽略被刻意压制的沉默与故意遗漏在整体结构中的关键权重。
 
@@ -252,11 +252,11 @@ updated: 2026-09-17
 
 ## 操作化指南
 
-> [!proc] 质性与[[Content Analysis|内容分析]]中确定分析单位的四步规程
-> 1. **宏观阶段：界定抽样单位与[[Document|文献]]总体域** 依据[[Research Question|研究问题]]明确考察的文本边界（如特定政策公文集、全套教科书），明确[[Multi-phase Sampling|多阶段抽样]]的嵌套路径（如期号 ➔ 报道篇目）。
-> 2. **中观阶段：设定语境单位与信息回溯范围** 为后续分析确立解读记录单位所需的最大参考范围（如完整段落或该主题讨论的整个[[Dialogue in Education|对话]]周期），保障[[Coding in Qualitative Research|编码]]者能准确把握修辞基调。
-> 3. **微观阶段：明确最小记录/编码单位形态** 依据研究性质选择适切形态（句法单位如单句、命题单位如主谓逻辑陈述、或意义单位），制定明确的切分断句[[Operationalization|操作化]]规则。
-> 4. **校验阶段：实施单位化[[Pilot Testing|预测试]]与一致性核验** 抽取 10%–20% 样本由双人独立实施切分与赋码，计算单位化[[Reliability|信度]]系数（Unitizing Reliability），排除边界歧义后方可全量展开。
+> [!proc] 质性与[[Content Analysis\|内容分析]]中确定分析单位的四步规程
+> 1. **宏观阶段：界定抽样单位与[[Document\|文献]]总体域** 依据[[Research Question\|研究问题]]明确考察的文本边界（如特定政策公文集、全套教科书），明确[[Multi-phase Sampling\|多阶段抽样]]的嵌套路径（如期号 ➔ 报道篇目）。
+> 2. **中观阶段：设定语境单位与信息回溯范围** 为后续分析确立解读记录单位所需的最大参考范围（如完整段落或该主题讨论的整个[[Dialogue in Education\|对话]]周期），保障[[Coding in Qualitative Research\|编码]]者能准确把握修辞基调。
+> 3. **微观阶段：明确最小记录/编码单位形态** 依据研究性质选择适切形态（句法单位如单句、命题单位如主谓逻辑陈述、或意义单位），制定明确的切分断句[[Operationalization\|操作化]]规则。
+> 4. **校验阶段：实施单位化[[Pilot Testing\|预测试]]与一致性核验** 抽取 10%–20% 样本由双人独立实施切分与赋码，计算单位化[[Reliability\|信度]]系数（Unitizing Reliability），排除边界歧义后方可全量展开。
 
 ---
 
@@ -278,8 +278,8 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 31)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题，论述从个体/机构原子切片走向围绕奇异吸引子的生态共生网络。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 规范[[Qualitative Research|质性研究]]与[[Mixed Methods Research|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 31)]] — 提出[[Complexity Theory\|复杂性理论]]重构分析单位的理论命题，论述从个体/机构原子切片走向围绕奇异吸引子的生态共生网络。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 系统阐释[[Content Analysis\|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability\|信度]]的反比权衡规律（Ch. 30）。
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 规范[[Qualitative Research\|质性研究]]与[[Mixed Methods Research\|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。
 

@@ -45,15 +45,15 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **实践明智（Phronesis）**源自古希腊哲学[[Aristotle|亚里士多德]]的《尼各马可伦理学》（*Nicomachean Ethics*），是[[Curriculum as Process|作为过程的课程]][[Paradigm|范式]]的[[Epistemology|认识论]]根基 (Grundy, 1987; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 67 注脚80]])。实践明智是指针对具体伦理情境中什么是“人类至善”（human flourishing）而做出的真实、理智且带有道德善导向的审议判断力，它指导个体在复杂社会关系中做出适切的行动。
+> **实践明智（Phronesis）**源自古希腊哲学[[Aristotle\|亚里士多德]]的《尼各马可伦理学》（*Nicomachean Ethics*），是[[Curriculum as Process\|作为过程的课程]][[Paradigm\|范式]]的[[Epistemology\|认识论]]根基 (Grundy, 1987; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 67 注脚80]])。实践明智是指针对具体伦理情境中什么是“人类至善”（human flourishing）而做出的真实、理智且带有道德善导向的审议判断力，它指导个体在复杂社会关系中做出适切的行动。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在具体伦理情境中追求人类至善的实践审议与道德判断智慧。
-> - **用途** 帮助研究者理解过程模式课程中师生在开放[[Dialogue in Education|对话]]中的审议推演机制。
+> - **用途** 帮助研究者理解过程模式课程中师生在开放[[Dialogue in Education\|对话]]中的审议推演机制。
 > - **边界** 不等于抽象的命题知识（Episteme），也不等于技术制作的工匠技能（Techne）。
 
 > [!citation-card]- 关键表述
-> 实践明智是一种关于对人类有益或有害之事做出理智判断的真实能力。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 67)]]
+> 实践明智是一种关于对人类有益或有害之事做出理智判断的真实能力。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 67)]]
 >
 > *Phronesis is a true and reasoned state of capacity to act with regard to the things that are good or bad for man. (Aristotle, 1140b; Grundy, 1987, p. 61)*
 
@@ -76,9 +76,9 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **情境适切性（Situational Appropriateness）** 必须在具体、独一无二的伦理探究情境中展开。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 67)]]
-> - **指向人类至善（Oriented Toward Human Good）** 审议过程始终受道德善与人类繁荣的价值牵引。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 67)]]
-> - **非规则依循（Non-algorithmic Deliberation）** 无法通过机械套用现成规则公式来替代判断。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 68)]]
+> - **情境适切性（Situational Appropriateness）** 必须在具体、独一无二的伦理探究情境中展开。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 67)]]
+> - **指向人类至善（Oriented Toward Human Good）** 审议过程始终受道德善与人类繁荣的价值牵引。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 67)]]
+> - **非规则依循（Non-algorithmic Deliberation）** 无法通过机械套用现成规则公式来替代判断。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 68)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -101,7 +101,7 @@ updated: 2026-09-17
 > 探讨实践明智如何通过强调具体情境中的道德善审议，防止课程退化为技术流水线。
 
 > [!claim] [[Aristotle]]
-> **实践明智的审议本质** 亚里士多德与格伦迪论证指出，实践明智无法通过预先编写的代码或技术套路来取代；在课程探究中，师生必须依据实践明智在开放[[Dialogue in Education|对话]]中对知识与道德价值展开辩证审议。[[Argument_Darwish_2009_Queens|(Aristotle, 1140b; Grundy, 1987, p. 61; Darwish, 2009, p. 67)]]
+> **实践明智的审议本质** 亚里士多德与格伦迪论证指出，实践明智无法通过预先编写的代码或技术套路来取代；在课程探究中，师生必须依据实践明智在开放[[Dialogue in Education\|对话]]中对知识与道德价值展开辩证审议。[[Argument_Darwish_2009_Queens\|(Aristotle, 1140b; Grundy, 1987, p. 61; Darwish, 2009, p. 67)]]
 
 ---
 
@@ -117,20 +117,20 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **BC 350 — 哲学奠基** [[Aristotle|亚里士多德]]在《尼各马可伦理学》中提出 *Phronesis*，区分理论智慧、技术技能与实践明智。[[Argument_Darwish_2009_Queens|(Aristotle, 1140b)]]
-> - **1987 — 课程理论转化** 雪莉·葛兰蒂在《课程：产品、过程与实践》中将 *Phronesis* 确定为[[Curriculum as Process|作为过程的课程]]的指导理性。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 61)]]
-> - **2009 — [[Theory of Knowledge|TOK]] 评估应用** 达维什在学位论文中分析 TOK 课程[[Dialogue in Education|对话]]如何依赖师生的实践明智展开道德审议。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 67)]]
+> - **BC 350 — 哲学奠基** [[Aristotle\|亚里士多德]]在《尼各马可伦理学》中提出 *Phronesis*，区分理论智慧、技术技能与实践明智。[[Argument_Darwish_2009_Queens\|(Aristotle, 1140b)]]
+> - **1987 — 课程理论转化** 雪莉·葛兰蒂在《课程：产品、过程与实践》中将 *Phronesis* 确定为[[Curriculum as Process\|作为过程的课程]]的指导理性。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, p. 61)]]
+> - **2009 — [[Theory of Knowledge\|TOK]] 评估应用** 达维什在学位论文中分析 TOK 课程[[Dialogue in Education\|对话]]如何依赖师生的实践明智展开道德审议。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 67)]]
 
 ---
 
 ## 争议与批评
 
 > [!warning] 适用局限
-> 实践明智强调在既定伦理与社会规范内进行实践审议，若缺乏批判解放理论对压迫结构的彻底揭露，可能陷入政治中立或维持现状的局限。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 64; Darwish, 2009, p. 68)]]
+> 实践明智强调在既定伦理与社会规范内进行实践审议，若缺乏批判解放理论对压迫结构的彻底揭露，可能陷入政治中立或维持现状的局限。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, p. 64; Darwish, 2009, p. 68)]]
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 探讨实践明智在斯滕豪斯过程模式与 [[Theory of Knowledge|TOK]] 课程讨论中的作用。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 探讨实践明智在斯滕豪斯过程模式与 [[Theory of Knowledge\|TOK]] 课程讨论中的作用。

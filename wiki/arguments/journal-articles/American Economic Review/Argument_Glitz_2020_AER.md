@@ -28,11 +28,13 @@ related_concepts:
   - "[[Document]]"
   - "[[Interaction Effect]]"
   - "[[Absorptive Capacity]]"
+  - "[[Source of Knowledge]]"
   - "[[Counterfactual]]"
   - "[[Growth]]"
   - "[[Return on Investment]]"
   - "[[Reliability]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Integration]]"
 related_methods:
   - "[[Perpetual Inventory Method]]"
   - "[[Shift-Share Instrument]]"
@@ -54,7 +56,7 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -69,7 +71,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 国家支持的工业间谍（[[Economic and Industrial Espionage|industrial espionage]]）能否产生可测量的经济回报？在东德通过斯塔西（Stasi）对西德进行大规模工业间谍活动的历史背景下，情报流入是否缩小了两德之间的行业[[Total Factor Productivity|全要素生产率]]（TFP）差距？（p.1056）
+> 国家支持的工业间谍（[[Economic and Industrial Espionage\|industrial espionage]]）能否产生可测量的经济回报？在东德通过斯塔西（Stasi）对西德进行大规模工业间谍活动的历史背景下，情报流入是否缩小了两德之间的行业[[Total Factor Productivity\|全要素生产率]]（TFP）差距？（p.1056）
 
 > [!claim] 核心主张
 > 工业间谍的情报流入对东德的生产率增长产生了显著的正向影响。1 个标准差的额外情报流入使两德间 log TFP 差距缩小 7.3 个百分点；若东德未从事工业间谍活动，冷战结束时东德相对于西德的 TFP 比率将比实际水平低 13.3%。（pp.1056, 1078–1079, 1097–1098）
@@ -116,7 +118,7 @@ issuing_organization: ""
 >
 > > 报酬方面，普通线人每月 100–500 西德马克外加费用报销——对其正常工资的适度补充；高层线人每月可达数千西德马克。斯塔西的招募效率很低——估计接触的人中有 75%–90% 拒绝为斯塔西工作（p.1099 fn.48）。
 
-> [!tension] [[Technology Transfer|技术转移]]的方向性不对称
+> [!tension] [[Technology Transfer\|技术转移]]的方向性不对称
 > - **斯塔西对西方的渗透** 大量线人嵌入西德企业，系统收集半导体、计算机、化工和机械制造等领域的技术情报。1988 年 12 月，HVA 科技处三个主要部门处理的海外线人中 82.7% 位于西德（p.1061 fn.7）。
 > - **西方对东德的情报活动** 据大多数记载极为有限，经济领域的间谍尤甚——东德技术落后，并非西方情报的优先目标。技术转移几乎单向地从西向东。（p.1060）
 
@@ -131,7 +133,7 @@ issuing_organization: ""
 > | **距离技术前沿的创新与采用模型**<br>（Distance to Frontier） | 后发国家的 [[Total Factor Productivity\|TFP]] 增长同时取决于自主 R&D 和从技术前沿的独立技术转移；距离前沿越远，技术转移的边际效应越大。本文以此推导估计方程。（pp.1074–1075） |
 
 > [!warrant]- 理论如何支撑论证
-> 研究将工业间谍的情报流入嵌入标准的生产函数框架中。设行业 TFP 增长率取决于 R&D 投入、间谍情报流入和与前沿的距离。通过差分消除国家层面不随时间变化的不可观测因素后，估计方程将两德 TFP 差距的变化回归到滞后情报流入、R&D 差距和初始 TFP 差距上。关键识别[[Hypothesis|假设]]是条件于行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入的变动与未观测的 TFP 冲击不相关。（pp.1074–1076）
+> 研究将工业间谍的情报流入嵌入标准的生产函数框架中。设行业 TFP 增长率取决于 R&D 投入、间谍情报流入和与前沿的距离。通过差分消除国家层面不随时间变化的不可观测因素后，估计方程将两德 TFP 差距的变化回归到滞后情报流入、R&D 差距和初始 TFP 差距上。关键识别[[Hypothesis\|假设]]是条件于行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入的变动与未观测的 TFP 冲击不相关。（pp.1074–1076）
 
 ---
 
@@ -183,7 +185,7 @@ issuing_organization: ""
 ### 论证步骤一：识别策略——从面板固定效应到工具变量
 
 > [!claim] 步骤一主张
-> 面板[[Fixed-Effect and Random-Effects Models|固定效应模型]]的 [[Ordinary Least Squares|OLS]] 估计可能因遗漏[[Variable|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity|TFP]] 差距缩小的因果效应。
+> 面板[[Fixed-Effect and Random-Effects Models\|固定效应模型]]的 [[Ordinary Least Squares\|OLS]] 估计可能因遗漏[[Variable\|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity\|TFP]] 差距缩小的因果效应。
 
 > [!chain-link] 证据到判断
 > - **基线 OLS 结果** 在控制行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入变量的系数为 −0.052（p=0.011），即一年标准差的额外情报流入（1.40 条/百万欧元产出）使 log TFP 差距缩小 7.3 个百分点（pp.1078–1079）。
@@ -198,15 +200,15 @@ issuing_organization: ""
 ### 论证步骤二：两种工具变量的构建与效力
 
 > [!claim] 步骤二主张
-> 两种工具变量——"老线人"[[Shift-Share Instrument|shift-share IV]] 和"退出线人"IV——均满足相关性和外生性条件，IV 估计结果较 OLS 更大，表明 OLS 可能存在衰减偏误。
+> 两种工具变量——"老线人"[[Shift-Share Instrument\|shift-share IV]] 和"退出线人"IV——均满足相关性和外生性条件，IV 估计结果较 OLS 更大，表明 OLS 可能存在衰减偏误。
 
 > [!chain-link] 证据到判断
 > - **Shift-share 工具** 以 1970 年已在活动的线人（"老线人"）的信息份额和行业分布为固定权重，乘以当期老线人的总信息量构建预测流入。一阶段 F 统计量为 61.4（TFP）和 60.5（产出/工人），二阶段估计为 −0.072（p=0.150），略大于 OLS（pp.1080–1081, Table 3）。
-> - **退出工具** 利用高产线人（年均 20+ 条信息）突然停止提供信息的退出事件，以其退出前的平均行业信息量为权重构建预测[[Attrition|流失]]。一阶段 F 统计量为 50.4（TFP），二阶段估计为 −0.120（p=0.149），约为 OLS 的 2.3 倍（pp.1081–1083, Table 3）。
-> - **退出工具的外生性证据** 退出工具与同期 TFP 增长的关系不显著（−0.062，[[Standard Error|标准误]] 0.182），但与未来 TFP 增长显著正相关（0.528，[[Standard Error|标准误]] 0.144），排除了西德反间谍策略或斯塔西在落后行业系统退出线人的替代解释（pp.1083, Figure 4）。
+> - **退出工具** 利用高产线人（年均 20+ 条信息）突然停止提供信息的退出事件，以其退出前的平均行业信息量为权重构建预测[[Attrition\|流失]]。一阶段 F 统计量为 50.4（TFP），二阶段估计为 −0.120（p=0.149），约为 OLS 的 2.3 倍（pp.1081–1083, Table 3）。
+> - **退出工具的外生性证据** 退出工具与同期 TFP 增长的关系不显著（−0.062，[[Standard Error\|标准误]] 0.182），但与未来 TFP 增长显著正相关（0.528，[[Standard Error\|标准误]] 0.144），排除了西德反间谍策略或斯塔西在落后行业系统退出线人的替代解释（pp.1083, Figure 4）。
 
 > [!warrant]- 推理桥梁
-> 退出工具估计更大的原因在于退出线人群体高度集中在电子行业（78.2%），且提供的信息质量显著更高（"非常有价值"占比 2.8% vs 全样本 1.9%）。结合后文质量[[Heterogeneity|异质性]]分析——高质量信息影响远大于普通信息——更大的退出 IV 估计反映了局部平均处理效应（LATE）的异质性。（p.1084 fn.30, pp.1094–1096）
+> 退出工具估计更大的原因在于退出线人群体高度集中在电子行业（78.2%），且提供的信息质量显著更高（"非常有价值"占比 2.8% vs 全样本 1.9%）。结合后文质量[[Heterogeneity\|异质性]]分析——高质量信息影响远大于普通信息——更大的退出 IV 估计反映了局部平均处理效应（LATE）的异质性。（p.1084 fn.30, pp.1094–1096）
 
 ---
 
@@ -245,11 +247,11 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - **信息质量** 将情报按斯塔西内部质量评估分为 1–5 级（并插补缺失值）后，"非常有价值"（1 级）情报的边际效应远大于所有其他类别，对 log TFP 差距的系数为 −1.570（p=0.040），而"有价值"（2 级）为 0.136（不显著），"中等价值"（3 级）为 −0.020（不显著）。大部分情报可能是可有可无的（pp.1094–1096, Table 7）。
-> - **技术前沿距离** 按初始 TFP 差距四分位数分组的交互项显示，工业间谍在初始差距较小的行业（即更接近西德技术前沿的行业）效应最大（pp.1096, Figure 6 Panel A）。这与标准 R&D [[Document|文献]]中"距离前沿越远回报越大"的发现形成对比。
+> - **技术前沿距离** 按初始 TFP 差距四分位数分组的交互项显示，工业间谍在初始差距较小的行业（即更接近西德技术前沿的行业）效应最大（pp.1096, Figure 6 Panel A）。这与标准 R&D [[Document\|文献]]中"距离前沿越远回报越大"的发现形成对比。
 > - **进口壁垒** 按进口强度差距四分位数未发现异质性——间谍在贸易开放和贸易受限行业中效用相似（Figure 6 Panel B）。
 
 > [!warrant]- 推理桥梁
-> 高质量信息的巨大效应和前沿距离的[[Interaction Effect|交互效应]]共同指向一个关键机制——工业间谍的效果取决于接收方的[[Absorptive Capacity]]。接近前沿的行业拥有更强的吸收能力，能够将获取的技术知识转化为实际生产率增长。前沿距离效应与传统 R&D 文献相反，进一步说明间谍情报作为知识来源的特殊性。
+> 高质量信息的巨大效应和前沿距离的[[Interaction Effect\|交互效应]]共同指向一个关键机制——工业间谍的效果取决于接收方的[[Absorptive Capacity]]。接近前沿的行业拥有更强的吸收能力，能够将获取的技术知识转化为实际生产率增长。前沿距离效应与传统 R&D 文献相反，进一步说明间谍情报作为[[Source of Knowledge\|知识来源]]的特殊性。
 
 ---
 
@@ -259,7 +261,7 @@ issuing_organization: ""
 > 工业间谍对东德经济的总体影响显著但数量有限，但在某些关键行业（如电子行业）几乎是维持技术竞争力的生命线；初步成本收益分析显示其净回报极为可观。
 
 > [!chain-link] 证据到判断
-> - **总体[[Counterfactual|反事实]]** 基于表 2 第 3 列的估计，模拟无间谍情景下 1972–1989 年两德 TFP 比率。就业加权平均 TFP 比率在 1989 年实际为 21.8%，无间谍时为 18.9%，下降 13.3%（pp.1097–1098, Figure 7 Panel A）。
+> - **总体[[Counterfactual\|反事实]]** 基于表 2 第 3 列的估计，模拟无间谍情景下 1972–1989 年两德 TFP 比率。就业加权平均 TFP 比率在 1989 年实际为 21.8%，无间谍时为 18.9%，下降 13.3%（pp.1097–1098, Figure 7 Panel A）。
 > - **电子行业反事实** 电子行业（办公设备、计算机和电子）的实际 TFP 比率从 1972 年的 14.4% 持续下降至 1989 年的 12.0%；无间谍时将进一步降至 7.3%，降幅达 39.2%（p.1098, Figure 7 Panel B）。这是受间谍影响最大的行业。
 > - **成本收益** 基于模拟，间谍活动的年度收益约为 101 亿欧元（1989 年价格），而年度运营成本仅约 1,100 万欧元（来自 HVA 末任局长在议会的证词），暗示极高的净回报（pp.1098–1099）。
 
@@ -271,13 +273,13 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **工业间谍缩小 [[Total Factor Productivity|TFP]] 差距** 1 个标准差的情报流入增加使两德 log TFP 差距缩小 7.3 个百分点（4.9%）；无间谍时东德 TFP 比率将低 13.3%。（pp.1078–1079, 1097–1098）
+> 1. **工业间谍缩小 [[Total Factor Productivity\|TFP]] 差距** 1 个标准差的情报流入增加使两德 log TFP 差距缩小 7.3 个百分点（4.9%）；无间谍时东德 TFP 比率将低 13.3%。（pp.1078–1079, 1097–1098）
 > 2. **效应集中于高质量情报** 只有"非常有价值"情报有统计显著的生产率效应；大部分情报的边际贡献不显著。（pp.1094–1096）
-> 3. **[[Absorptive Capacity|吸收能力]]决定效果** 工业间谍在接近技术前沿的行业最有效，与标准 R&D [[Document|文献]]的发现相反，说明吸收能力是间谍情报转化为生产率的关键条件。（p.1096）
+> 3. **[[Absorptive Capacity\|吸收能力]]决定效果** 工业间谍在接近技术前沿的行业最有效，与标准 R&D [[Document\|文献]]的发现相反，说明吸收能力是间谍情报转化为生产率的关键条件。（p.1096）
 > 4. **极高净回报** 间谍的年度收益（约 101 亿欧元）远超运营成本（约 1,100 万欧元），且在高科技行业中发挥了几乎不可替代的技术追赶功能。（pp.1098–1099, Figure 7）
 
 > [!stat-cards]- 核心数据
-> - **−0.052** 基线 [[Ordinary Least Squares|OLS]] 估计系数（p=0.011）。（p.1078, Table 2）
+> - **−0.052** 基线 [[Ordinary Least Squares\|OLS]] 估计系数（p=0.011）。（p.1078, Table 2）
 > - **189,725** SIRA 数据库记录的情报总数。（p.1061）
 > - **2,968** 识别出的线人数量。（p.1062）
 > - **13.3%** 无间谍情景下 TFP 比率的降幅。（p.1097）
@@ -291,15 +293,15 @@ issuing_organization: ""
 > [!citation-card]- 工业间谍的经济回报
 > 我们对工业间谍经济回报的估计表明，国际知识流动对落后国家的生产率增长具有重要作用。（p.1056）
 >
-> *Our results provide evidence of significant economic returns to [[Economic and Industrial Espionage|industrial espionage]], indicating an important role of international knowledge flows for productivity [[Growth]] in laggard countries.*
+> *Our results provide evidence of significant economic returns to [[Economic and Industrial Espionage\|industrial espionage]], indicating an important role of international knowledge flows for productivity [[Growth]] in laggard countries.*
 
-> [!citation-card]- 工业间谍与技术[[Absorptive Capacity|吸收能力]]
-> 东德研究人员和工程师在技术更接近西德同行的行业中很可能更能将新获得的知识整合到自己的生产过程中，表明足够高的吸收能力是成功利用间谍科技情报的前提条件。（p.1096）
+> [!citation-card]- 工业间谍与技术[[Absorptive Capacity\|吸收能力]]
+> 东德研究人员和工程师在技术更接近西德同行的行业中很可能更能将新获得的[[Knowledge Integration\|知识整合]]到自己的生产过程中，表明足够高的吸收能力是成功利用间谍科技情报的前提条件。（p.1096）
 >
 > *In these cases, East German researchers and engineers were presumably better able to integrate the newly acquired knowledge into their own production processes, suggesting that a sufficiently high absorptive capacity is a prerequisite for the successful exploitation of espionage-based scientific-technical information.*
 
 > [!citation-card]- 工业间谍的净回报
-> 尽管这些数字应当审慎看待，但它们共同表明工业间谍的[[Return on Investment|投资回报]]非常高昂。（pp.1098–1099）
+> 尽管这些数字应当审慎看待，但它们共同表明工业间谍的[[Return on Investment\|投资回报]]非常高昂。（pp.1098–1099）
 >
 > *While these figures should naturally be viewed with caution, taken together they suggest a very high return on the investment in industrial espionage.*
 
@@ -309,8 +311,8 @@ issuing_organization: ""
 
 > [!warning]
 > - **外部有效性** 东德的中央计划经济、冷战贸易禁运以及人肉间谍（HUMINT）的技术特征与当今市场化经济、全球化贸易和网络间谍环境存在系统性差异。研究结果不能直接推广至当代情境（pp.1099–1100）。
-> - **功能形式敏感性** 在不使用产出标准化的替代设定中，估计结果虽然符号与基线一致，但在统计上往往不显著，表明结论对功能形式[[Hypothesis|假设]]有一定敏感性（pp.1088–1089）。
-> - **成本数据的[[Reliability|可靠性]]** 成本收益分析中的成本数据来自斯塔西末任局长在议会的证词（约 17.5 百万东德马克 + 13.5 百万西德马克），真实成本可能被低估（pp.1098–1099）。
+> - **功能形式敏感性** 在不使用产出标准化的替代设定中，估计结果虽然符号与基线一致，但在统计上往往不显著，表明结论对功能形式[[Hypothesis\|假设]]有一定敏感性（pp.1088–1089）。
+> - **成本数据的[[Reliability\|可靠性]]** 成本收益分析中的成本数据来自斯塔西末任局长在议会的证词（约 17.5 百万东德马克 + 13.5 百万西德马克），真实成本可能被低估（pp.1098–1099）。
 > - **企业间间谍未覆盖** 本研究只能观测国家支持的工业间谍，无法涉及企业间直接进行的商业间谍活动，后者在竞争维度和效果上可能存在本质差异（p.1100）。
 > - **原始情报原件已销毁** 1990 年斯塔西解散时销毁了所有原始情报材料（文件、照片、磁带、磁盘、蓝图等），SIRA 数据库仅保留了关键词等元数据，无法直接验证每条情报的具体内容（pp.1061）。
 

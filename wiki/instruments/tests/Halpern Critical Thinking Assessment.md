@@ -62,16 +62,16 @@ updated: 2026-08-27
 ## 工具定位
 
 > [!instrument-profile] Halpern [[Critical Thinking Assessment]]（HCTA）
-> - **工具类型** 混合型情境化[[Cognitive Ability Test KFT|认知能力测验]]（Mixed-Format Cognitive Assessment）。
+> - **工具类型** 混合型情境化[[Cognitive Ability Test KFT\|认知能力测验]]（Mixed-Format Cognitive Assessment）。
 > - **开发者与年份** Diane F. Halpern (2010)。
-> - **测量目的** 评估个体在日常、社会与工作复杂情境中综合运用[[Critical Thinking|批判性思维]]技能解决劣构问题的能力，有效克服传统[[Multiple-Choice Questions|选择题]]与纯论文测试的方法学局限。
+> - **测量目的** 评估个体在日常、社会与工作复杂情境中综合运用[[Critical Thinking\|批判性思维]]技能解决劣构问题的能力，有效克服传统[[Multiple-Choice Questions\|选择题]]与纯论文测试的方法学局限。
 > - **实施方式** 计算机在线施测（限时约 60–90 分钟），题项基于生活、医疗决策、公共政策等生动情境。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]（Critical Thinking Across Five Cognitive Domains）
+> [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Across Five Cognitive Domains）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -88,7 +88,7 @@ updated: 2026-08-27
 
 > [!instrument-items] 作答规则
 > - **双阶段作答机制（Dual-Response Format）** 包含 25 个日常真实情境。每个情境首先要求受测者进行**开放式主动生成（Constructed-Response）**（如提出可能原因或批评漏洞）；作答提交后系统显示第 2 问，要求受测者在预设选项中进行**选择再认与排序（Forced-Choice Recognition）**。
-> - **计分体系** 开放生成题依据精细化量规打分（可使用自动化自然语言处理评分或人工评分），[[Multiple-Choice Questions|选择题]]自动判分；输出生成分、再认分与总[[Critical Thinking|批判性思维]]分数。
+> - **计分体系** 开放生成题依据精细化量规打分（可使用自动化自然语言处理评分或人工评分），[[Multiple-Choice Questions\|选择题]]自动判分；输出生成分、再认分与总[[Critical Thinking\|批判性思维]]分数。
 
 ---
 

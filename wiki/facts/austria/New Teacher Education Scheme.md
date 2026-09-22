@@ -48,9 +48,9 @@ updated: 2026-08-27
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2013 年通过立法、2015/2016 学年由奥地利联邦教育、科学与研究部（BMBWF）全面实施。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]
+> - **发布时间 / 发布主体** 2013 年通过立法、2015/2016 学年由奥地利联邦教育、科学与研究部（BMBWF）全面实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
 > - **适用地区 / 对象** 奥地利全境所有综合性大学（Universities）与师范高等教育学院（University Colleges of Teacher Education, PH）。
-> - **问题背景** 奥地利传统[[Normal School|师范教育]]存在大学（培养学术中学教师）与师范学院（培养小学与初中教师）分割的二元体制，且课程缺乏统一的高阶能力标准。
+> - **问题背景** 奥地利传统[[Normal School\|师范教育]]存在大学（培养学术中学教师）与师范学院（培养小学与初中教师）分割的二元体制，且课程缺乏统一的高阶能力标准。
 > - **制度位置** 奥地利教师专业发展历史上最大规模的体制重组与资格框架改革。
 
 ---
@@ -58,12 +58,12 @@ updated: 2026-08-27
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 《新教师教育方案》（PädagogInnenbildung NEU）打破制度壁垒，建立大学与[[Normal School|师范学院]]的区域联盟联合培养机制，将[[Reflective Thinking|反思性探究]]、批判性审视与教学评价能力确立为全学段教师的通用[[21st Century Skills and Competencies Discourse|核心素养]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]
+> 《新教师教育方案》（PädagogInnenbildung NEU）打破制度壁垒，建立大学与[[Normal School\|师范学院]]的区域联盟联合培养机制，将[[Reflective Thinking\|反思性探究]]、批判性审视与教学评价能力确立为全学段教师的通用[[21st Century Skills and Competencies Discourse\|核心素养]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
 
 > [!policy-design]- 政策设计
 > - **学制统一** 统一推行“4年学士 + 1–1.5年硕士”培养架构。
-> - **核心素养模型** 重点强化 5 大能力领域：学科专业与教学法、教学互动与[[Classroom Management|课堂管理]]、诊断评价与促学反馈、学校发展与团队协作、反思与批判性探究。
-> - **评价考核改革** 引入临床实践档案袋（Practicum Portfolios）、教学反思答辩与微格教学[[Authentic Assessment|表现性评价]]。
+> - **核心素养模型** 重点强化 5 大能力领域：学科专业与教学法、教学互动与[[Classroom Management\|课堂管理]]、诊断评价与促学反馈、学校发展与团队协作、反思与批判性探究。
+> - **评价考核改革** 引入临床实践档案袋（Practicum Portfolios）、教学反思答辩与微格教学[[Authentic Assessment\|表现性评价]]。
 
 ---
 
@@ -71,5 +71,5 @@ updated: 2026-08-27
 
 > [!finding-cards] 影响与后果
 > - **政策影响** 彻底终结了奥地利长达百年的教师培养二元割裂格局，实现了全国教师专业标准的有机统一。
-> - **实践影响** 大幅提升了未来教师运用[[Formative Assessment|形成性评价]]、设计思维任务与引导学生探究批判的专业素养。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]
-> - **知识影响** 为国际高教改革提供了通过重构专业资格框架（NQF）推动跨机构[[Higher-Order Thinking Skills|高阶思维]]教学的典型范例。
+> - **实践影响** 大幅提升了未来教师运用[[Formative Assessment\|形成性评价]]、设计思维任务与引导学生探究批判的专业素养。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
+> - **知识影响** 为国际高教改革提供了通过重构专业资格框架（NQF）推动跨机构[[Higher-Order Thinking Skills\|高阶思维]]教学的典型范例。

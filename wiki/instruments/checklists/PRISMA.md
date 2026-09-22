@@ -98,11 +98,11 @@ updated: 2026-09-17
 > [!instrument-profile] PRISMA
 > - **工具类型** 方法学报告规范与透明度核查清单（Checklist）。
 > - **开发者与年份** Page et al. (2021) / PRISMA 核心工作组（PRISMA 2020 声明）。
-> - **测量目的** 规范[[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]的检索、筛选、纳入与结果报告，防范选择性报告偏倚与[[Publication Bias|发表偏倚]]，提升综合研究的透明度、可复现性与证据质量。
+> - **测量目的** 规范[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]的检索、筛选、纳入与结果报告，防范选择性报告偏倚与[[Publication Bias\|发表偏倚]]，提升综合研究的透明度、可复现性与证据质量。
 > - **实施方式** 自陈核查（Self-Report）或同行评议专家审核，由系统综述作者在撰写报告时自查填报各条目对应页码，期刊编辑与审稿人据此核验合规性。
 
 > [!citation-card] PRISMA 2020 声明与方法学使命
-> 系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）是一套旨在提升系统综述与元分析研究透明度、规范性与可复现性的国际权威方法学标准与报告指南。PRISMA 体系由核心报告检查清单（涵盖 27 项条目）和四阶段[[Document|文献]]流转图（PRISMA [[Flow]] Diagram）构成，要求研究者系统记录从文献数据库检索、去重、标题摘要初筛、全文合格性审阅到最终纳入证据合成的完整决策路径与排除缘由。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4–5)]]
+> 系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）是一套旨在提升系统综述与元分析研究透明度、规范性与可复现性的国际权威方法学标准与报告指南。PRISMA 体系由核心报告检查清单（涵盖 27 项条目）和四阶段[[Document\|文献]]流转图（PRISMA [[Flow]] Diagram）构成，要求研究者系统记录从文献数据库检索、去重、标题摘要初筛、全文合格性审阅到最终纳入证据合成的完整决策路径与排除缘由。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4–5)]]
 >
 > *"The [[Literature Search]] and screening strictly adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement... through systematic identification, screening, eligibility, and inclusion phases."*
 
@@ -110,7 +110,7 @@ updated: 2026-09-17
 
 ## 测量构念与维度
 
-> [!construct-table] [[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]报告规范
+> [!construct-table] [[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]报告规范
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

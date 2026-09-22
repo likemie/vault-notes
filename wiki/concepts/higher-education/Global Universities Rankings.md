@@ -65,17 +65,17 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 全球大学排名是对各国高等教育机构（HEIs）进行比较性评估和排序的工具系统。排名通过选定一组指标（如研究产出、引用率、声誉调查、师生比等）对各校加权评分，最终生成可比较的排名表（league tables）。排名不仅是信息工具，更已成为驱动高等教育系统转型、塑造机构战略决策和影响国家高等教育政策的核心力量([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125–126]])。
+> 全球大学排名是对各国高等教育机构（HEIs）进行比较性评估和排序的工具系统。排名通过选定一组指标（如研究产出、引用率、声誉调查、师生比等）对各校加权评分，最终生成可比较的排名表（league tables）。排名不仅是信息工具，更已成为驱动高等教育系统转型、塑造机构战略决策和影响国家高等教育政策的核心力量([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.125–126]])。
 
 > [!quote]
-> "rankings have become one of the most influential drivers behind transformations in national higher education systems, HEIs and their subunits"（Hazelkorn, 2015, pp.xix–xv, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.125]]）
+> "rankings have become one of the most influential drivers behind transformations in national higher education systems, HEIs and their subunits"（Hazelkorn, 2015, pp.xix–xv, cited in [[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.125]]）
 
 ---
 
 ## 概念辨析
 
 > [!example]
-> - vs 国家排名（national rankings）：国家排名在一国高等教育系统内部运作，侧重教学质量和[[Student Satisfaction|学生满意度]]等指标；全球排名以研究产出和学术声誉为绝对重心，跨越国界进行比较([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.136]])
+> - vs 国家排名（national rankings）：国家排名在一国高等教育系统内部运作，侧重教学质量和[[Student Satisfaction\|学生满意度]]等指标；全球排名以研究产出和学术声誉为绝对重心，跨越国界进行比较([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.136]])
 > - vs 认证评估（accreditation）：认证评估设定最低标准门槛（通过/不通过），排名则制造连续的等级次序和竞争关系
 
 ---
@@ -83,22 +83,22 @@ updated: 2026-05-20
 ## 概念演变
 
 > [!note]-
-> 大学排名首先在国家层面出现。最早的大学排名之一为 **1983 年**《美国新闻与世界报道》（US News & World Report）发布的美国大学排名；加拿大《麦克林》（Maclean's）杂志的公立大学排名也已运行约十五年；欧盟委员会自 **2003 年**起发布涵盖约二十二所欧洲大学的排名([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.5–6]])。这些早期排名反映了人们对本国教育体系相对重要性的日益关注。
+> 大学排名首先在国家层面出现。最早的大学排名之一为 **1983 年**《美国新闻与世界报道》（US News & World Report）发布的美国大学排名；加拿大《麦克林》（Maclean's）杂志的公立大学排名也已运行约十五年；欧盟委员会自 **2003 年**起发布涵盖约二十二所欧洲大学的排名([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, pp.5–6]])。这些早期排名反映了人们对本国教育体系相对重要性的日益关注。
 
-> **2003 年**上海交通大学高等教育研究所发布了首个全球大学排名（[[Academic Ranking of World Universities|ARWU]]），次年 Times Higher Education（THE）推出其排名。此后，Leiden、Scimago、QS World University Rankings and European U-Multirank 等多个全球排名系统相继建立([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.131]])。
+> **2003 年**上海交通大学高等教育研究所发布了首个全球大学排名（[[Academic Ranking of World Universities\|ARWU]]），次年 Times Higher Education（THE）推出其排名。此后，Leiden、Scimago、QS World University Rankings and European U-Multirank 等多个全球排名系统相继建立([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.131]])。
 
-> 不同排名机构的结果差异极大。以香港大学（HKU）为例，2007 年：ARWU 未将其列入前 300 名（2006 年排第 263，2008 年排 201–300 之间）；Webometrics 排第 156；THES-QS 排第 24；基于"网络流行度"的排名将其列为第 8——所有结果在同一年内得出，取决于评估机构和标准的不同([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.10–11]])。这种巨大差异表明，排名远非客观中立的测量，而是高度依赖于指标选择和价值判断的社会建构。
+> 不同排名机构的结果差异极大。以香港大学（HKU）为例，2007 年：ARWU 未将其列入前 300 名（2006 年排第 263，2008 年排 201–300 之间）；Webometrics 排第 156；THES-QS 排第 24；基于"网络流行度"的排名将其列为第 8——所有结果在同一年内得出，取决于评估机构和标准的不同([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, pp.10–11]])。这种巨大差异表明，排名远非客观中立的测量，而是高度依赖于指标选择和价值判断的社会建构。
 
-> 2014 年一项国际调查显示：84% 的受调查高校已建立内部机制审视自身排名，"绝大多数"用排名指导战略决策、设定目标和塑造优先事项（Hazelkorn, 2015, pp.xix–xv, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.125]]）。Philip Altbach（2011, p.2）指出："如果排名不存在，有人会发明它们"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.130]])。
+> 2014 年一项国际调查显示：84% 的受调查高校已建立内部机制审视自身排名，"绝大多数"用排名指导战略决策、设定目标和塑造优先事项（Hazelkorn, 2015, pp.xix–xv, cited in [[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.125]]）。Philip Altbach（2011, p.2）指出："如果排名不存在，有人会发明它们"([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.130]])。
 
-> **2019 年**，THE 推出了首个基于联合国 [[UN Sustainable Development Goals|SDGs]] 的全球大学影响力排名，标志着排名逻辑的一个显著转向：从仅衡量研究卓越和声誉，扩展到衡量大学对解决紧迫社会问题（性别平等、气候行动、可持续城市等）的贡献。该排名 2020 年覆盖 85 个国家近 800 所大学，其中 SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标([[Argument_Zapp_2022_Springer|Zapp, 2022, p.147]])。O'Malley & Mitchell（2019）将其描述为"世界上首次全球性尝试，记录高等教育影响力的证据，提供一种定义卓越的新方式，并认可大学为社会福祉所做的出色工作"。
+> **2019 年**，THE 推出了首个基于联合国 [[UN Sustainable Development Goals\|SDGs]] 的全球大学影响力排名，标志着排名逻辑的一个显著转向：从仅衡量研究卓越和声誉，扩展到衡量大学对解决紧迫社会问题（性别平等、气候行动、可持续城市等）的贡献。该排名 2020 年覆盖 85 个国家近 800 所大学，其中 SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.147]])。O'Malley & Mitchell（2019）将其描述为"世界上首次全球性尝试，记录高等教育影响力的证据，提供一种定义卓越的新方式，并认可大学为社会福祉所做的出色工作"。
 
 ---
 
 ## 兴起原因
 
 > [!abstract]
-> 全球大学排名的兴起是高等教育在 20 世纪下半叶以来一系列结构性变化的结果([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.130–131]])：
+> 全球大学排名的兴起是高等教育在 20 世纪下半叶以来一系列结构性变化的结果([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.130–131]])：
 
 - **高等教育大众化与学生多元化** 学生群体的急剧扩张和多样化，催生了对比较性信息的需求
 - **国内与国际竞争加剧** 高校在国家和国际层面争夺生源、师资和经费
@@ -114,7 +114,7 @@ updated: 2026-05-20
 ## 核心特征与系统性偏见
 
 > [!abstract]
-> 多项比较研究一致揭示了全球排名存在累积性的系统性偏见([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.131–132]])：
+> 多项比较研究一致揭示了全球排名存在累积性的系统性偏见([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.131–132]])：
 
 - **偏爱研究密集型机构** 以自然科学和论文发表为绝对重心，教学和社会服务功能被边缘化
 - **偏爱英语大学** 以英文发表为核心的数据库天然有利于英语国家
@@ -122,14 +122,14 @@ updated: 2026-05-20
 - **偏爱等级森严的高教体系中的机构** 处于层级顶端的少数精英大学持续受益
 - **偏爱低内部多样性的机构** 综合性研究大学被认为"规范"
 
-> Li et al.（2011, p.923）通过跨国数据分析指出："大学排名的跨国差异中很大一部分可以由仅四个社会经济因素解释：收入、人口规模、研发支出和国家语言"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.132]])。
+> Li et al.（2011, p.923）通过跨国数据分析指出："大学排名的跨国差异中很大一部分可以由仅四个社会经济因素解释：收入、人口规模、研发支出和国家语言"([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.132]])。
 
 ---
 
 ## 作为地缘政治机制
 
 > [!success]
-> 排名不仅反映、也再生产全球高等教育的不平等秩序。Hazelkorn（2018, p.10）指出，排名"主要测量[[Blue Skies Research|基础研究]]和传播——在有限的领域、以传统的方式——它们为精英大学和国家提供了竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]])。
+> 排名不仅反映、也再生产全球高等教育的不平等秩序。Hazelkorn（2018, p.10）指出，排名"主要测量[[Blue Skies Research\|基础研究]]和传播——在有限的领域、以传统的方式——它们为精英大学和国家提供了竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.126]])。
 
 排名通过以下机制运作于[[Geopolitics of Higher Education|高等教育地缘政治]]之中([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.137–138]])：
 
@@ -179,7 +179,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 排名是[[Matthew Effect in Academia|学术马太效应]]最可见的运作机制。排名偏爱已有资源优势的机构——英语国家的大学、历史悠久的老牌院校、研究密集型综合大学——并在每一次排名发布中进一步巩固这些机构的优势位置。这一"[[Matthew Effect in Academia|制度化的马太效应]]"（institutionalized Matthew effect）使得精英大学在全球排名体系中的领先地位不是被市场竞争所挑战，而是被排名所不断再确认([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.801–802]])。
 
 > [!example] 排名如何固化而非挑战既有等级
-> 一所新兴的、专注于卓越本科教学和社区参与的文理学院，无论其教育质量多么出色，在全球排名中几乎不可能进入前 100——因为排名指标以研究产出和学术声誉为绝对重心。这所学院被排名"告知"：你的卓越不算卓越。与此同时，一所研究密集型大学即便教学平庸、[[Student Satisfaction|学生满意度]]低下，只要其教授大量发表高引用论文，排名就会持续给予高位。排名不是在"发现"谁更好——它在根据一套特定的标准"决定"谁更好，而这套标准从一开始就偏向既有精英。
+> 一所新兴的、专注于卓越本科教学和社区参与的文理学院，无论其教育质量多么出色，在全球排名中几乎不可能进入前 100——因为排名指标以研究产出和学术声誉为绝对重心。这所学院被排名"告知"：你的卓越不算卓越。与此同时，一所研究密集型大学即便教学平庸、[[Student Satisfaction\|学生满意度]]低下，只要其教授大量发表高引用论文，排名就会持续给予高位。排名不是在"发现"谁更好——它在根据一套特定的标准"决定"谁更好，而这套标准从一开始就偏向既有精英。
 
 ### 作为多价的合法性装置
 
@@ -230,7 +230,7 @@ Amsler & Bolsmann（2012, p.286）将排名定义为"一个强大的象征性和
 ## 排名的"不可避免性"
 
 > [!note]-
-> 尽管排名持续受到批评，但其公共和制度重要性难以被削弱。新制度主义视角揭示了排名权力的深层结构根源([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.137–139]])：
+> 尽管排名持续受到批评，但其公共和制度重要性难以被削弱。新制度主义视角揭示了排名权力的深层结构根源([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.137–139]])：
 
 - **高等教育的文化[[Champ|场域]]特性** 高等教育不生产"铅笔或汽车"那样容易客观测量的商品，而是通过高度社会性、互动性和默会性的教学过程生产知识。"声望之于高等教育，如同利润之于企业"（Gonzales & Núñez, 2014, p.5, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.137]]）
 - **组织的理性化趋势** 随着高校被想象为"理性化组织"，它们越来越"有被比较的风险"——"可移植的'最佳实践'被展示在它们面前"（Ramirez, 2013, pp.143f., cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.137]]）

@@ -5,7 +5,7 @@ aliases:
 summary: "班级中的学习氛围与同伴协作文化，用于描述课堂内部的互动规范、参与方式和共同学习环境。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 - level/k12
 - region/norway
 related_concepts:
+  - "[[Student Engagement]]"
   - "[[School Norm Adaptation]]"
   - "[[Variable]]"
   - "[[Motivation and Work Effort]]"
@@ -28,7 +29,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-08-20
+updated: 2026-09-22
 ---
 
 ## 定义
@@ -40,7 +41,7 @@ updated: 2026-08-20
 
 > [!abstract] 核心要素
 > - 同伴协作：学生之间是否容易形成有效学习合作（Lekhal_2015_Paideia）。
-> - 学习投入氛围：班级整体是否把学习任务视为共同目标（Lekhal_2015_Paideia）。
+> - [[Student Engagement\|学习投入]]氛围：班级整体是否把学习任务视为共同目标（Lekhal_2015_Paideia）。
 > - 规范可见性：课堂规则是否被一致理解并在互动中稳定执行（Lekhal_2015_Paideia）。
 
 ## 实证发现
@@ -56,5 +57,5 @@ updated: 2026-08-20
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - 与 [[School Norm Adaptation]] 相比，它是班级层面的环境[[Variable|变量]]；与 [[Motivation and Work Effort]] 相比，它强调班级学习氛围，不直接描述个体努力程度。
+> - 与 [[School Norm Adaptation]] 相比，它是班级层面的环境[[Variable\|变量]]；与 [[Motivation and Work Effort]] 相比，它强调班级学习氛围，不直接描述个体努力程度。
 

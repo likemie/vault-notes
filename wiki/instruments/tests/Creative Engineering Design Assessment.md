@@ -49,7 +49,7 @@ updated: 2026-09-03
 ## 工具定位
 
 > [!instrument-profile] Creative Engineering Design Assessment (CEDA)
-> - **工具类型** 领域特定性工程[[Creativity|创造力]]表现测验（草图绘制与功能解释测验）。
+> - **工具类型** 领域特定性工程[[Creativity\|创造力]]表现测验（草图绘制与功能解释测验）。
 > - **开发者与年份** Charyton & Merrill (2009)。
 > - **测量目的** 用于工科大学生与设计专业人员的工程创造力评定、空间认知表征诊断及工程教学干预效果检验。
 > - **实施方式** 纸笔限时设计测验（团体或个别施测，总测验时间约 25–30 分钟）。
@@ -58,7 +58,7 @@ updated: 2026-09-03
 
 ## 测量构念与维度
 
-> [!construct-table] 工程设计[[Creativity|创造力]]与[[Domain Specificity|领域特异性]]发散表现
+> [!construct-table] 工程设计[[Creativity\|创造力]]与[[Domain Specificity\|领域特异性]]发散表现
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ## 经过
 
 > [!note]-
-> - Great Firewall and Big Data 监控配对运行，是"最成功的审查系统之一"，控制着对知识的获取和言论自由([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
+> - Great Firewall and Big Data 监控配对运行，是"最成功的审查系统之一"，控制着对知识的获取和言论自由([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.82]])
 > - 强制用户以真实身份注册是其主要运作方式之一
 > - 通过追踪社交媒体中的政治敏感观点和意见，甚至无预警删除内容来运作
 > - 中国大陆大学学者无法访问大量社会科学和人文学科的学术论文
@@ -55,20 +55,20 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success]
-> - 信息多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
+> - 信息多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.82]])
 > - Partaken 以德川日本锁国时期（1639–1853）为历史类比：锁国虽使日本实现内部统一，但最终导致其在科技知识上远远落后于西方，明治维新后的模仿欧洲地缘政治与军国主义最终毁灭了日本
-> - Partaken 认为，中国近年从邓小平的开放低调路线（"韬光养晦"）倒退为自我孤立，伴随着强硬外交、内外审查和激进的领土争端([[Argument_Partaken_2022_Springer|Partaken, 2022, p.83]])
+> - Partaken 认为，中国近年从邓小平的开放低调路线（"韬光养晦"）倒退为自我孤立，伴随着强硬外交、内外审查和激进的领土争端([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.83]])
 
 ## 争议与评论
 
 > [!warning]
-> - Partaken 将 Great Firewall 描述为[[Geopolitics of Knowledge|知识地缘政治]]的审查工具，其[[Analytic Framework|分析框架]]将中国定位为[[Knowledge Transfer|知识转移]]中的控制者角色([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
-> - 该分析基于非中立的西方视角，采用 Huntington 文明冲突论作为分析背景([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78–79]])
+> - Partaken 将 Great Firewall 描述为[[Geopolitics of Knowledge\|知识地缘政治]]的审查工具，其[[Analytic Framework\|分析框架]]将中国定位为[[Knowledge Transfer\|知识转移]]中的控制者角色([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.82]])
+> - 该分析基于非中立的西方视角，采用 Huntington 文明冲突论作为分析背景([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.78–79]])
 
 ## 相关概念／政策
 
 > [!example]
 > - [[China Social Credit System]] — 与 Great Firewall 配套运行的大数据行为评估系统
-> - [[Knowledge Transfer]] — Great Firewall 是 [[Geopolitics of Knowledge|GPK]] 审查模态的核心制度工具
+> - [[Knowledge Transfer]] — Great Firewall 是 [[Geopolitics of Knowledge\|GPK]] 审查模态的核心制度工具
 > - [[Sino-American Trade War]] — 中美知识转移紧张关系的贸易维度
 

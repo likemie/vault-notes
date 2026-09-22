@@ -7,9 +7,9 @@ summary: "元分析中识别和检验研究间效果变异来源的统计方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
 - moderator-analysis
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
+  - "[[Epistemic Cognition]]"
+  - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -35,16 +37,17 @@ related_persons: []
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Park_2026_TSC]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 ## 定义
 
 > [!info] 定义
-> 调节[[Variable|变量]]分析（Moderator Analysis）是[[Meta-analysis|元分析]]中用于识别和检验研究间[[Effect Size|效应量]]变异来源的统计方法。当元分析发现各研究的效果存在超出[[Sampling Error|抽样误差]]预期的变异（即[[Heterogeneity|异质性]]）时，调节变量分析通过探索哪些研究特征与更大或更小的效应量相关，来解释这种变异的原因([[Argument_Higgins_2016_ROE|Higgins, 2016, p.32]])。
+> 调节[[Variable\|变量]]分析（Moderator Analysis）是[[Meta-analysis\|元分析]]中用于识别和检验研究间[[Effect Size\|效应量]]变异来源的统计方法。当元分析发现各研究的效果存在超出[[Sampling Error\|抽样误差]]预期的变异（即[[Heterogeneity\|异质性]]）时，调节变量分析通过探索哪些研究特征与更大或更小的效应量相关，来解释这种变异的原因([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.32]])。
 >
 > 调节变量（moderator）是指可能影响干预效果大小的研究特征，如学生学习的时长、培训和支持的重要性、特定资源的使用、学生年龄、结果测量类型等。通过在纳入研究的数据中寻找这些特征与效应量之间的相关性，调节变量分析试图回答"什么条件下效果更好"这一问题。
 
@@ -53,17 +56,17 @@ updated: 2026-09-21
 ## 核心程序
 
 > [!example] 核心程序
-> **1. 检测[[Heterogeneity|异质性]]**
+> **1. 检测[[Heterogeneity\|异质性]]**
 >
-> 在进行调节[[Variable|变量]]分析之前，首先需要确认研究间存在显著的[[Heterogeneity|异质性]]。如果各研究的[[Effect Size|效应量]]差异仅在[[Sampling Error|抽样误差]]范围内，则无需进一步探索调节变量。
+> 在进行调节[[Variable\|变量]]分析之前，首先需要确认研究间存在显著的[[Heterogeneity\|异质性]]。如果各研究的[[Effect Size\|效应量]]差异仅在[[Sampling Error\|抽样误差]]范围内，则无需进一步探索调节变量。
 >
 > **2. 选择候选调节变量**
 >
-> 基于理论或先前研究，选择可能解释异质性的研究特征作为候选调节变量。[[Argument_Higgins_2016_ROE|Higgins (2016)]]举的例子包括学生学习的时长、培训和支持的重要性、以及特定资源的使用（p.32）。
+> 基于理论或先前研究，选择可能解释异质性的研究特征作为候选调节变量。[[Argument_Higgins_2016_ROE\|Higgins (2016)]]举的例子包括学生学习的时长、培训和支持的重要性、以及特定资源的使用（p.32）。
 >
 > **3. 统计检验**
 >
-> 通过亚组分析或[[Meta-regression|元回归]]等方法，检验候选调节变量与效应量之间的关系。例如，比较不同年龄段学生的效果差异，或检验结果测量类型是否与效应量大小相关。
+> 通过亚组分析或[[Meta-regression\|元回归]]等方法，检验候选调节变量与效应量之间的关系。例如，比较不同年龄段学生的效果差异，或检验结果测量类型是否与效应量大小相关。
 >
 > **4. 解释与报告**
 >
@@ -74,28 +77,28 @@ updated: 2026-09-21
 ## 适用场景
 
 > [!success] 适用场景
-> - 当[[Meta-analysis|元分析]]发现研究间存在实质性[[Heterogeneity|异质性]]，需要理解变异来源时
+> - 当[[Meta-analysis\|元分析]]发现研究间存在实质性[[Heterogeneity\|异质性]]，需要理解变异来源时
 > - 当实践者需要知道"什么条件下效果更好"而非仅知道"平均效果多大"时
-> - Hattie（2015）主张元分析的价值不在于给出平均效应当作最终答案，而在于迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果([[Argument_Higgins_2016_ROE|Higgins, 2016, p.42]])
-> - 语音教学（phonics）的三项元分析得出不同的汇总[[Effect Size|效应量]]（0.41、0.27、0.30），部分原因就在于各元分析对调节变量的不同结论（如是否应在更年轻时开始语音教学、综合语音与分析语音孰优）([[Argument_Higgins_2016_ROE|Higgins, 2016, p.32]])
+> - Hattie（2015）主张元分析的价值不在于给出平均效应当作最终答案，而在于迫使教育者追问调节[[Variable\|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.42]])
+> - 语音教学（phonics）的三项元分析得出不同的汇总[[Effect Size\|效应量]]（0.41、0.27、0.30），部分原因就在于各元分析对调节变量的不同结论（如是否应在更年轻时开始语音教学、综合语音与分析语音孰优）([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.32]])
 
 ---
 
 ## 局限性
 
 > [!warning] 局限性
-> - 调节[[Variable|变量]]分析往往统计效力不足（Valentine et al., 2010, cited in [[Argument_Higgins_2016_ROE|Higgins, 2016, p.38]]），难以可靠地识别[[Heterogeneity|异质性]]来源
-> - 当纳入研究数量有限时，调节变量分析的统计检验力较低，可能无法检测到真实的[[Interaction Effect|调节效应]]
-> - 调节变量之间的交互作用难以在[[Meta-analysis|元分析]]框架中被充分建模
-> - 在[[Meta-meta-analysis|元-元分析]]层面，每项一级元分析内部的调节变量信息在二级聚合时进一步丢失([[Argument_Higgins_2016_ROE|Higgins, 2016, p.44]])
+> - 调节[[Variable\|变量]]分析往往统计效力不足（Valentine et al., 2010, cited in [[Argument_Higgins_2016_ROE\|Higgins, 2016, p.38]]），难以可靠地识别[[Heterogeneity\|异质性]]来源
+> - 当纳入研究数量有限时，调节变量分析的统计检验力较低，可能无法检测到真实的[[Interaction Effect\|调节效应]]
+> - 调节变量之间的交互作用难以在[[Meta-analysis\|元分析]]框架中被充分建模
+> - 在[[Meta-meta-analysis\|元-元分析]]层面，每项一级元分析内部的调节变量信息在二级聚合时进一步丢失([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.44]])
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在三水平[[Meta-analysis|元分析]]中通过[[Meta-regression|元回归]]检验[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]测量类型（主观 vs 客观）、学段、年龄、地理区域与发表年份对两者相关的调节作用，并检验测量类型交互项（$Q_M(1) = 6.524, p = .011$）。
-> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 在关于[[Epistemic Cognition|认识论认知]]干预与[[Academic Achievement|学业成就]]的[[Meta-analysis|元分析]]中，通过混合效应模型 $Q$ 检验系统检验了干预教学框架（$Q_b = 17.491$）、理论模型、特异性对齐（$Q_b = 7.986$）、成就测量类型（$Q_b = 8.940$）、干预时长（$Q_b = 8.863$）与学段（$Q_b = 9.071$）等多重调节[[Variable|变量]]。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在三水平[[Meta-analysis\|元分析]]中通过[[Meta-regression\|元回归]]检验[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]测量类型（主观 vs 客观）、学段、年龄、地理区域与发表年份对两者相关的调节作用，并检验测量类型交互项（$Q_M(1) = 6.524, p = .011$）。
+> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 在关于[[Epistemic Cognition\|认识论认知]]干预与[[Academic Achievement\|学业成就]]的[[Meta-analysis\|元分析]]中，通过混合效应模型 $Q$ 检验系统检验了干预教学框架（$Q_b = 17.491$）、理论模型、特异性对齐（$Q_b = 7.986$）、成就测量类型（$Q_b = 8.940$）、干预时长（$Q_b = 8.863$）与学段（$Q_b = 9.071$）等多重调节[[Variable\|变量]]。
 
 ---
 

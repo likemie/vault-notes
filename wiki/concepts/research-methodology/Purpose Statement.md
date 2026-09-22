@@ -62,7 +62,7 @@ updated: 2026-09-14
 ## 定义
 
 > [!info]
-> 目的陈述（purpose statement）是研究计划或论文中传达研究总体意图和目标的陈述，通常在摘要或引言中以一句话或一段话的形式出现。它说明研究者为何开展研究、研究期望完成什么(Locke et al., 2014; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.123]])。在健康科学领域，更常用的术语是"研究目标"（study aim）。
+> 目的陈述（purpose statement）是研究计划或论文中传达研究总体意图和目标的陈述，通常在摘要或引言中以一句话或一段话的形式出现。它说明研究者为何开展研究、研究期望完成什么(Locke et al., 2014; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.123]])。在健康科学领域，更常用的术语是"研究目标"（study aim）。
 
 目的陈述是连接[[Research Question|研究问题]]与研究问题的核心环节。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.123)]] 将研究设计中四个环节的递进关系概括为：研究问题（problem）→ 目的陈述（purpose）→ 研究问题（research questions）→ 数据收集（data），整个过程体现了研究焦点的逐步收窄。
 
@@ -74,10 +74,10 @@ updated: 2026-09-14
 ## 概念辨析
 
 > [!example]
-> **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中[[Growth|生长]]出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.123–124]])。
+> **目的陈述 vs [[Research Question\|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中[[Growth\|生长]]出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.123–124]])。
 
 > [!example]
-> **目的陈述 vs 研究问题（Research Questions）** 研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含[[Hypothesis|假设]]([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.124]])。
+> **目的陈述 vs 研究问题（Research Questions）** 研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research\|量化研究]]中，研究问题还可能包含[[Hypothesis\|假设]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.124]])。
 
 ## 核心要素
 
@@ -87,11 +87,11 @@ updated: 2026-09-14
 
 > [!abstract] 质性目的陈述七要素
 > 1. 使用"目的""意图""研究目标"等词语引入，作为独立的句子或段落呈现。
-> 2. 聚焦单一的[[Central Phenomenon|核心现象]]（概念或想法），而非[[Variable|变量]]间的关系或组间比较。
+> 2. 聚焦单一的[[Central Phenomenon\|核心现象]]（概念或想法），而非[[Variable\|变量]]间的关系或组间比较。
 > 3. 使用探索性行动动词传达学习将如何进行，如"理解"（understand）、"探索"（explore）、"发现"（discover）、"生成"（generate）、"考察意义"（examine the meaning of）。
-> 4. 使用中立和[[Nondirectional Language|非方向性语言]]（nondirectional language），避免暗示结果倾向的词汇如"成功的""有益的""积极的"。
+> 4. 使用中立和[[Nondirectional Language\|非方向性语言]]（nondirectional language），避免暗示结果倾向的词汇如"成功的""有益的""积极的"。
 > 5. 提供核心现象的一般性工作定义，尤其是当广泛读者无法理解该现象时。此定义不是固定的，而是初步和演变性的。
-> 6. 标明研究所使用的质性路径，如[[Descriptive Analysis|描述性分析]]、[[Ethnography|民族志]]、[[Grounded Theory|扎根理论]]、[[Case Study|案例研究]]、[[Phenomenology|现象学]]或[[Narrative Research|叙事研究]]。
+> 6. 标明研究所使用的质性路径，如[[Descriptive Analysis\|描述性分析]]、[[Ethnography\|民族志]]、[[Grounded Theory\|扎根理论]]、[[Case Study\|案例研究]]、[[Phenomenology\|现象学]]或[[Narrative Research\|叙事研究]]。
 > 7. 提及研究参与者（个体、群体或组织）和研究场所。
 >
 > 此外，目的陈述可界定参与者或研究场所的范围（delimitations），如仅涉及女性、仅限于某一城市、或仅限于参与创意团队的企业组织成员。
@@ -106,10 +106,10 @@ updated: 2026-09-14
 > 以女性主义视角为透镜，聚焦于母亲们的记忆和她们的"活过"经验，探讨五位在孕晚期失去婴儿的母亲的生活经验意义 ("The phenomenal care of the caregiver: A feminist view of postnatal bereavement." p.134)。
 
 > [!example] 案例研究示例（Frelin, 2015）
-> 追溯并例示关系和专业实践，以帮[[Teaching Assistant|助教]]师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and achieve better in school." p.590)。
+> 追溯并例示关系和专业实践，以帮[[Teaching Assistant\|助教]]师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and achieve better in school." p.590)。
 
 > [!example] 叙事研究示例（Chan, 2010）
-> 考察一位中国移民学生 Ai Mei Zhang 的经验，探索她参与加拿大中学课程的过程，以及族裔认同如何被学校和家庭对其[[Academic Achievement|学业表现]]和行为的期望所塑造 ("to examine the experiences of one Chinese immigrant student, Ai Mei Zhang . . . to explore her participation in her Canadian middle school curriculum . . . to examine ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." p.113)。
+> 考察一位中国移民学生 Ai Mei Zhang 的经验，探索她参与加拿大中学课程的过程，以及族裔认同如何被学校和家庭对其[[Academic Achievement\|学业表现]]和行为的期望所塑造 ("to examine the experiences of one Chinese immigrant student, Ai Mei Zhang . . . to explore her participation in her Canadian middle school curriculum . . . to examine ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." p.113)。
 
 > [!example] 扎根理论研究示例（Harley et al., 2007）
 > 通过发展一个理论框架来解释将关键因素连接起来并最终将身体活动融入生活方式的路径，以理解活跃的非洲裔美国女性的行为过程 ("to understand the behavioral process of physically active African American women by developing a theory framework to explain the path that connects key factors and eventually leads to incorporating physical activity into a lifestyle." p.99)。
@@ -133,7 +133,7 @@ updated: 2026-09-14
 > | 非方向性语言 | 全文未使用 successful、positive 等方向性词语；聚焦于认同"如何被塑造"而非"是否成功塑造" |
 
 >
-> [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, pp.128–129)]] 指出，该陈述的第一句关注学生经验，第二句明确核心现象为族裔认同，参与者、研究场所和质性路径均可清晰识别。
+> [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, pp.128–129)]] 指出，该陈述的第一句关注学生经验，第二句明确核心现象为族裔认同，参与者、研究场所和质性路径均可清晰识别。
 
 ### 量化目的陈述
 
@@ -142,28 +142,28 @@ updated: 2026-09-14
 > [!abstract] 量化目的陈述要素
 > 1. 使用"目的""意图""目标"等信号词引入。
 > 2. 标明所使用的量化路径类型（如调查或实验）。
-> 3. 指出理论、模型或概念框架，以及它如何被用来解释或[[Independent Variable|预测变量]]之间的关系。
-> 4. 明确自变量（独立、中介、调节）和[[Dependent Variable|因变量]]。
+> 3. 指出理论、模型或概念框架，以及它如何被用来解释或[[Independent Variable\|预测变量]]之间的关系。
+> 4. 明确自变量（独立、中介、调节）和[[Dependent Variable\|因变量]]。
 > 5. 使用连接变量的词语，如"关系"（relationship）、"比较"（comparison）、"决定因素"（determinants）、"相关性"（correlation）、"预测"（prediction）或"描述"（describe）。
 > 6. 按从左到右的顺序排列变量——自变量在前，因变量在后。中介变量置于两者之间，调节变量与自变量相关。
-> 7. 提及研究参与者（或[[Unit of Analysis|分析单元]]）和研究场所。
+> 7. 提及研究参与者（或[[Unit of Analysis\|分析单元]]）和研究场所。
 > 8. 使用文献中已接受的定义定义关键变量。
 
 量化目的陈述的写作脚本：
 
 > 本____（实验/调查____研究的目的是检验____理论，该理论____（解释/预测____自变量____）与____（因变量____）____（比较/相关____）。本研究计划在____（研究场所____招募____（参与者____）。自变量____定义为____。因变量定义为____。
 
-> [!example] [[Survey Research|调查研究]]示例（DeGraw, 1984）
+> [!example] [[Survey Research\|调查研究]]示例（DeGraw, 1984）
 > 本研究的目的是考察在美国选定州立成人矫正机构中任教的认证教育者个人特征与工作动机之间的关系 ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States." pp.4–5)。
 
-> [!example] [[Experimental Research|实验研究]]示例（Esposito et al., 2017）
-> 本研究基于行为经济学[[Hypothesis|假设]]，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的[[Interaction Effect|交互作用]] ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
+> [!example] [[Experimental Research\|实验研究]]示例（Esposito et al., 2017）
+> 本研究基于行为经济学[[Hypothesis\|假设]]，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的[[Interaction Effect\|交互作用]] ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
 
 > [!example] 量化目的陈述要素拆解：DeGraw (1984) 调查研究
 >
 > **完整目的陈述**
 >
-> "本研究的目的是考察个人特征与在美国选定州立成人矫正机构中任教的认证教育者工作动机之间的关系。个人特征分为受访者背景信息（即机构信息、教育水平、先前培训等）和受访者对更换工作的想法两类……工作动机由教育工作成分研究（EWCS）[[Questionnaire|问卷]]（Miskel & Heller, 1973）中识别出的六个一般因素定义。这六个因素是：个人挑战与发展的潜力；竞争性；成功的渴望与回报；对工作压力的容忍度；保守的安全感；以及在不确定性中寻求回报的意愿 vs 回避。" ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States. Personal characteristics were divided into background information about the respondent (i.e., institutional information, education level, prior training, etc.) and information about the respondents' thoughts of changing jobs. . . . Job motivation was defined by six general factors identified in the educational work components study (EWCS) questionnaire (Miskel & Heller, 1973). These six factors are: potential for personal challenge and development; [[Competitiveness]]; desirability and reward of success; tolerance for work pressures; conservative security; and willingness to seek reward in spite of uncertainty vs. avoidance." pp.4–5)
+> "本研究的目的是考察个人特征与在美国选定州立成人矫正机构中任教的认证教育者工作动机之间的关系。个人特征分为受访者背景信息（即机构信息、教育水平、先前培训等）和受访者对更换工作的想法两类……工作动机由教育工作成分研究（EWCS）[[Questionnaire\|问卷]]（Miskel & Heller, 1973）中识别出的六个一般因素定义。这六个因素是：个人挑战与发展的潜力；竞争性；成功的渴望与回报；对工作压力的容忍度；保守的安全感；以及在不确定性中寻求回报的意愿 vs 回避。" ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States. Personal characteristics were divided into background information about the respondent (i.e., institutional information, education level, prior training, etc.) and information about the respondents' thoughts of changing jobs. . . . Job motivation was defined by six general factors identified in the educational work components study (EWCS) questionnaire (Miskel & Heller, 1973). These six factors are: potential for personal challenge and development; [[Competitiveness]]; desirability and reward of success; tolerance for work pressures; conservative security; and willingness to seek reward in spite of uncertainty vs. avoidance." pp.4–5)
 
 >
 > **要素对照**
@@ -180,7 +180,7 @@ updated: 2026-09-14
 > | 参与者与分析单元 | 在美国选定州立成人矫正机构中任教的认证教育者 |
 > | 关键变量定义 | 工作动机的六个 EWCS 因素逐一列出（个人挑战与发展潜力、竞争性、成功的期望与回报、工作压力容忍度、保守安全感、在不确定性中寻求回报的意愿 vs 回避） |
 >
-> [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.133)]] 评价该陈述包含了好的目的陈述的多个组件：独立成节、使用"relationship"一词、定义主要变量、说明样本、指出问卷工具，且变量从自变量到因变量依次排列。
+> [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p.133)]] 评价该陈述包含了好的目的陈述的多个组件：独立成节、使用"relationship"一词、定义主要变量、说明样本、指出问卷工具，且变量从自变量到因变量依次排列。
 
 ### 混合方法目的陈述
 

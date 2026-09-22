@@ -36,7 +36,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 1985–86 年新西兰议会教育与科学选择委员会（Education and Science Select Committee）对教师质量进行调查，旨在探讨如何测量和提高教学表现([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.103]])。
+> 1985–86 年新西兰议会教育与科学选择委员会（Education and Science Select Committee）对教师质量进行调查，旨在探讨如何测量和提高教学表现([[Argument_Snook_2009_NZJES\|Snook et al., 2009, p.103]])。
 >
 > > 五位委员中包括 Ruth Richardson，她后来在 1990 年后国家党政府中担任财政部长，是教育券制度的倡导者，并非"工会的附庸"或"心软的左派"。
 
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 >
 > - 迫切需要教师表现测量手段
 > - 但承认开发此类测量手段的过程将"漫长而复杂"（lengthy and complex）
-> - 建议在大学设立专门研究单位，负责开发可靠的教师表现测量工具([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.103]])
+> - 建议在大学设立专门研究单位，负责开发可靠的教师表现测量工具([[Argument_Snook_2009_NZJES\|Snook et al., 2009, p.103]])
 
 ## 时间线
 
@@ -59,13 +59,13 @@ updated: '2026-05-18'
 ## 实施情况
 
 > [!example] 实施情况
-> 未曾实施。[[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 指出，这一事实暗示在 21 世纪仓促推进[[Performance Pay|绩效工资]]方案并非明智之举（p.103）。
+> 未曾实施。[[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 指出，这一事实暗示在 21 世纪仓促推进[[Performance Pay\|绩效工资]]方案并非明智之举（p.103）。
 
 ## 效果与评价
 
 > [!success] 效果与评价
-> 该报告被 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 引用以说明两个论点：
-> 1. [[Performance Pay|绩效工资]]的制度设计极为复杂，即使在有强烈政治意愿时也难以推进
+> 该报告被 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 引用以说明两个论点：
+> 1. [[Performance Pay\|绩效工资]]的制度设计极为复杂，即使在有强烈政治意愿时也难以推进
 > 2. 缺乏可靠测量工具是绩效工资的根本性障碍，该问题自 1986 年以来未获解决（p.103）
 
 ## 相关概念／理论

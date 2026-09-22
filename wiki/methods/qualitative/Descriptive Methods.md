@@ -49,7 +49,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> 描述性方法（Descriptive Methods）是[[Qualitative Research|质性研究]]中的一种基础性分析路径：研究者贴近数据本身，使用有限的框架和解释来解释数据，并将信息归类为主题。它也被称为"主题分析"（thematic analysis）或"[[Descriptive Analysis|描述性分析]]"（descriptive analysis）（Braun & Clark, 2006; Sandelowski, 2000, 2010）。美国心理学会（[[APA Style|APA]]）的最新标准将其认定为一种独立的质性方法类型（Levitt et al., 2018）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.196）。
+> 描述性方法（Descriptive Methods）是[[Qualitative Research\|质性研究]]中的一种基础性分析路径：研究者贴近数据本身，使用有限的框架和解释来解释数据，并将信息归类为主题。它也被称为"主题分析"（thematic analysis）或"[[Descriptive Analysis\|描述性分析]]"（descriptive analysis）（Braun & Clark, 2006; Sandelowski, 2000, 2010）。美国心理学会（[[APA Style\|APA]]）的最新标准将其认定为一种独立的质性方法类型（Levitt et al., 2018）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.196）。
 
 > [!abstract] 三大维度
 > - 基于参与者的日常语言
@@ -64,11 +64,11 @@ updated: 2026-09-11
 描述性方法的核心程序是从[[Coding in Qualitative Research|编码]]到主题的分析过程，称为"code-to-theme"分析（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 > [!example] 分析流程
-> 1. 组织和准备数据以供分析（[[Transcription in Qualitative Research|转录]]访谈、整理[[Field Notes|田野笔记]]等）
+> 1. 组织和准备数据以供分析（[[Transcription in Qualitative Research\|转录]]访谈、整理[[Field Notes\|田野笔记]]等）
 > 2. 通读所有数据，获得整体感知
-> 3. 对数据进行 [[Coding in Qualitative Research|编码]]
+> 3. 对数据进行 [[Coding in Qualitative Research\|编码]]
 > 4. 将编码归并为主题（通常五到七个）
-> 5. 发展 [[Story Line|故事线]]，将主题相互连接
+> 5. 发展 [[Story Line\|故事线]]，将主题相互连接
 > 6. 呈现和解释数据
 
 ---
@@ -76,9 +76,9 @@ updated: 2026-09-11
 ## 方法变体与相近方法
 
 > [!tip]-
-> - vs [[Analytic Framework|分析框架]] — 描述性方法是基础性方法，使用参与者日常语言；分析框架在此基础上叠加特定的解释传统（analytic tradition），超越日常语言进行解释（Braun & Clark, 2006, p.78）。描述性方法不因"基础性"而在价值或可[[Reliability|信度]]上低于分析框架
-> - vs [[Grounded Theory|扎根理论]] — 扎根理论的目标是生成抽象理论，有系统的多阶段[[Coding in Qualitative Research|编码]]程序（[[Open Coding|开放编码]]→[[Axial Coding|轴心编码]]→[[Selective Coding|选择性编码]]）；描述性方法的目标是分类和呈现主题本身
-> - vs [[Phenomenology|现象学]] — 现象学聚焦于体验的本质结构；描述性方法聚焦于内容的显性主题
+> - vs [[Analytic Framework\|分析框架]] — 描述性方法是基础性方法，使用参与者日常语言；分析框架在此基础上叠加特定的解释传统（analytic tradition），超越日常语言进行解释（Braun & Clark, 2006, p.78）。描述性方法不因"基础性"而在价值或可[[Reliability\|信度]]上低于分析框架
+> - vs [[Grounded Theory\|扎根理论]] — 扎根理论的目标是生成抽象理论，有系统的多阶段[[Coding in Qualitative Research\|编码]]程序（[[Open Coding\|开放编码]]→[[Axial Coding\|轴心编码]]→[[Selective Coding\|选择性编码]]）；描述性方法的目标是分类和呈现主题本身
+> - vs [[Phenomenology\|现象学]] — 现象学聚焦于体验的本质结构；描述性方法聚焦于内容的显性主题
 
 ---
 
@@ -92,14 +92,14 @@ updated: 2026-09-11
 ## 局限性
 
 > [!warning]
-> 描述性方法可能被认为缺乏理论深度，在追求理论贡献的学术发表中可能面临挑战。但 Creswell & Creswell（2022, Ch9）明确指出，这并不意味着描述性方法比使用[[Analytic Framework|分析框架]]的方法价值更低或可[[Reliability|信度]]更弱——两种路径服务于不同的[[Research Purpose|研究目的]]。
+> 描述性方法可能被认为缺乏理论深度，在追求理论贡献的学术发表中可能面临挑战。但 Creswell & Creswell（2022, Ch9）明确指出，这并不意味着描述性方法比使用[[Analytic Framework\|分析框架]]的方法价值更低或可[[Reliability\|信度]]更弱——两种路径服务于不同的[[Research Purpose\|研究目的]]。
 
 ---
 
 ## 使用此方法的研究
 
 > [!example]
-> - Creswell & Creswell（2022, Ch9）将描述性方法作为第 9 章的核心方法框架，介绍了从[[Coding in Qualitative Research|编码]]到主题分析再到[[Story Line|故事线]]发展的完整流程
+> - Creswell & Creswell（2022, Ch9）将描述性方法作为第 9 章的核心方法框架，介绍了从[[Coding in Qualitative Research\|编码]]到主题分析再到[[Story Line\|故事线]]发展的完整流程
 
 ---
 

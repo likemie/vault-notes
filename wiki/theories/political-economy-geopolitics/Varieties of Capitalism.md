@@ -49,7 +49,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 资本主义多样性（Varieties of Capitalism, VoC）是比较政治经济学中分析发达资本主义国家制度差异的核心框架，由 Hall & Soskice（2001）系统提出。该框架将发达经济体区分为自由市场经济体（Liberal Market Economies, LMEs）和协调型市场经济体（Coordinated Market Economies, CMEs）两种理想类型——二者的核心差异不在经济规模或技术水平，而在企业协调其活动的制度方式([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.184–185, 187–188]])。
+> 资本主义多样性（Varieties of Capitalism, VoC）是比较政治经济学中分析发达资本主义国家制度差异的核心框架，由 Hall & Soskice（2001）系统提出。该框架将发达经济体区分为自由市场经济体（Liberal Market Economies, LMEs）和协调型市场经济体（Coordinated Market Economies, CMEs）两种理想类型——二者的核心差异不在经济规模或技术水平，而在企业协调其活动的制度方式([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.184–185, 187–188]])。
 
 ---
 
@@ -76,7 +76,7 @@ updated: '2026-05-18'
 ## 在 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 企业教育分析中的应用
 
 > [!tip]-
-> Hartmann 在[[Corporate Education|企业教育]]跨国化分析中，以 VoC 的 LME/CME 区分为透镜，解释了两个[[Central Phenomenon|核心现象]]：
+> Hartmann 在[[Corporate Education\|企业教育]]跨国化分析中，以 VoC 的 LME/CME 区分为透镜，解释了两个[[Central Phenomenon\|核心现象]]：
 
 ### 为何 IVET 难以国际化？
 
@@ -101,15 +101,15 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC and 
 ## 争议与批评
 
 > [!warning]
-> - **二分法的局限性** Hartmann 本人也承认，CME vs LME 的二分法无法涵盖中国、印度等不属于这两种类别的经济体中的 MNC [[Corporate Education|企业教育]]策略——这些国家可能构成 VoC 之外的第三种或更多制度类型([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.194, 263]])
-> - **[[Causal Over-determination|过度决定]]论风险** 将 MNC 的培训策略直接归因于其母国的 VoC 类型，可能忽视了行业特性、企业规模、管理层决策等其他因素的作用
+> - **二分法的局限性** Hartmann 本人也承认，CME vs LME 的二分法无法涵盖中国、印度等不属于这两种类别的经济体中的 MNC [[Corporate Education\|企业教育]]策略——这些国家可能构成 VoC 之外的第三种或更多制度类型([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.194, 263]])
+> - **[[Causal Over-determination\|过度决定]]论风险** 将 MNC 的培训策略直接归因于其母国的 VoC 类型，可能忽视了行业特性、企业规模、管理层决策等其他因素的作用
 
 ## 在高等教育学术资本主义多样性分析中的应用
 
 > [!tip]-
-> Schulze-Cleven & Olson将 VoC 框架应用于高等教育部门，展示了[[Academic Capitalism|学术资本主义]]的多样性如何映射 [[Varieties of Capitalism|资本主义多样性]] 的类型差异([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.803–804]])：
+> Schulze-Cleven & Olson将 VoC 框架应用于高等教育部门，展示了[[Academic Capitalism\|学术资本主义]]的多样性如何映射 [[Varieties of Capitalism\|资本主义多样性]] 的类型差异([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.803–804]])：
 >
-> - **自由市场经济体（LMEs，以美国为代表）** 亲市场规制传统，高等教育市场化最为深入——营利性院校大量[[Emergence|涌现]]，学费和学生贷款驱动的金融化程度最高，州政府拨款占比在 2003–2012 年间下降近半
+> - **自由市场经济体（LMEs，以美国为代表）** 亲市场规制传统，高等教育市场化最为深入——营利性院校大量[[Emergence\|涌现]]，学费和学生贷款驱动的金融化程度最高，州政府拨款占比在 2003–2012 年间下降近半
 > - **保守主义协调经济体（以德国为代表）** 允许社会群体自我规制，市场化改革的引入和撤回呈现拉锯——部分州在 2000 年代初引入学费后被学生抗议撤销，改革的结果不一
 > - **社会民主主义协调经济体（以挪威为代表）** 强国家干预和进步主义传统，高等教育市场化程度较低，公共供给仍占主导，但也经历了自由化进程
 >

@@ -70,21 +70,21 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 以硬事实施展[[Soft Power|软权力]]（[[Soft Power]] by Hard Facts）是指国际组织与超国家治理机构在缺乏主权立法权与硬性法律强制力的制度约束下，通过系统化生产、垄断与推介标准化、可比较的量化指标、跨国学业测评与计量经济学实证数据（“硬事实”），赋予自身政策建议以客观科学理性与普适真理的表象，进而通过跨国基准比照、名次排序与“命名与羞辱”机制，对主权国家教育决策施加远处规制与间接政治问责的治理技术。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 548)]]
+> 以硬事实施展[[Soft Power\|软权力]]（[[Soft Power]] by Hard Facts）是指国际组织与超国家治理机构在缺乏主权立法权与硬性法律强制力的制度约束下，通过系统化生产、垄断与推介标准化、可比较的量化指标、跨国学业测评与计量经济学实证数据（“硬事实”），赋予自身政策建议以客观科学理性与普适真理的表象，进而通过跨国基准比照、名次排序与“命名与羞辱”机制，对主权国家教育决策施加远处规制与间接政治问责的治理技术。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538, 548)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向无主权强制力的国际组织如何将科学实证知识转化为软性政治规制杠杆的权力转化机制。
-> - **用途** 揭示国际多边机构（如[[OECD|经合组织]]、[[World Bank|世界银行]]）为何能够超越传统的道德劝诫，凭借数据测验深度重塑各国国内教育体制。
+> - **用途** 揭示国际多边机构（如[[OECD\|经合组织]]、[[World Bank\|世界银行]]）为何能够超越传统的道德劝诫，凭借数据测验深度重塑各国国内教育体制。
 > - **边界** 区别于单纯依赖文化吸引力与规范认同的传统软权力（Soft Power），也区别于依托国际公约裁决与主权制裁的硬法规制（Hard Law）。
 
-> [!citation-card] [[Global Education Governing Complex|全球教育治理复合体]]的武器化硬事实
-> 目前，教育领域的五大巨头（[[Global Partnership for Education|全球教育伙伴关系]]、经合组织、[[UNESCO|联合国教科文组织]]、[[UNICEF|联合国儿童基金会]]、世界银行）都在以硬事实施展软权力（Niemann & Martens, 2018）。五大组织连同其资助者（成员国、企业、私人基金会）共同构成了全球教育治理复合体（Ydesen, 2019）；该复合体将特定类型的知识——即可量化、可比较且可标准化的知识——武器化，用以迫使各国政府为达成各项国际目标与指标承担问责责任。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
+> [!citation-card] [[Global Education Governing Complex\|全球教育治理复合体]]的武器化硬事实
+> 目前，教育领域的五大巨头（[[Global Partnership for Education\|全球教育伙伴关系]]、经合组织、[[UNESCO\|联合国教科文组织]]、[[UNICEF\|联合国儿童基金会]]、世界银行）都在以硬事实施展软权力（Niemann & Martens, 2018）。五大组织连同其资助者（成员国、企业、私人基金会）共同构成了全球教育治理复合体（Ydesen, 2019）；该复合体将特定类型的知识——即可量化、可比较且可标准化的知识——武器化，用以迫使各国政府为达成各项国际目标与指标承担问责责任。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 >
 > *By now, all Big Five in the education sector (Global Partnership for Education, OECD, UNESCO, UNICEF, World Bank) exert 'soft power by hard facts' (Niemann and Martens 2018). Combined, the Big Five and their funders (member states, businesses, private foundations) constitute a 'global education governing complex' (Ydesen 2019) that weaponises a particular kind of knowledge – quantifiable, comparable, and standardizable – in order to hold governments accountable for the achievement of international goals and targets.*
 
 > [!boundary]- 概念边界
 > - 不等于 传统软权力 — 传统软权力侧重于意识形态同化、大众文化辐射与道德魅力；以硬事实施展软权力则严格依托技术官僚的专业性、测验数据与量化指标的科学神话。
-> - 不等于 强制性硬法（Hard Law） — 并不具备国际条约的法律违约惩罚或军事制裁权，其效力完全依赖将国内教育问题[[Transfer Translation Transformation|转译]]为国际竞争危机后的政治舆论问责。
+> - 不等于 强制性硬法（Hard Law） — 并不具备国际条约的法律违约惩罚或军事制裁权，其效力完全依赖将国内教育问题[[Transfer Translation Transformation\|转译]]为国际竞争危机后的政治舆论问责。
 
 ---
 
@@ -103,10 +103,10 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **量化硬化（Data Hardening）** 借助复杂的心理测量学与计量经济学模型，将高度异质且充满价值争议的教育过程压缩还原为单一、客观、标准化的量化分值。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
+> - **量化硬化（Data Hardening）** 借助复杂的心理测量学与计量经济学模型，将高度异质且充满价值争议的教育过程压缩还原为单一、客观、标准化的量化分值。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 > - **跨国横向基准（Cross-National Benchmarking）** 建立跨越主权边界的共同参照系，使任何国家的本土实践都必须在统一的跨国尺度下接受比较与评判。（p.542）
 > - **命名与羞辱机制（Naming and Shaming）** 公开发布排行榜与危机诊断报告，在媒体舆论中激化国内教育落后恐慌，迫使政府将外部建议转变为国内改革议程。（pp.542–543）
-> - **科学[[Façade of Rationality|理性表象]]（Façade of Rationality）** 用精准的数字掩盖背后的规范预设与政治意图，使充满利益偏向的政策处方呈现出不偏不倚的客观学术外观。（Steiner-Khamsi, 2013; p.540）
+> - **科学[[Façade of Rationality\|理性表象]]（Façade of Rationality）** 用精准的数字掩盖背后的规范预设与政治意图，使充满利益偏向的政策处方呈现出不偏不倚的客观学术外观。（Steiner-Khamsi, 2013; p.540）
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -131,7 +131,7 @@ updated: 2026-09-17
 > 阐明无权力的国际机构如何通过数字技术将自身打造成超越党派争端的中立裁判者。
 
 > [!claim] Niemann & Martens (2018)
-> **技术官僚客观性** 国际组织深知在教育领域直接发布命令会触发主权国家的抵触心理；通过研发技术门槛极高的跨国测验，将复杂的学校实践还原为不可争辩的“硬数据”，国际组织成功将自身重塑为不偏不倚的科学裁判，从而获得了对主权国家政策展开合法干预的正当性授权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> **技术官僚客观性** 国际组织深知在教育领域直接发布命令会触发主权国家的抵触心理；通过研发技术门槛极高的跨国测验，将复杂的学校实践还原为不可争辩的“硬数据”，国际组织成功将自身重塑为不偏不倚的科学裁判，从而获得了对主权国家政策展开合法干预的正当性授权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 ---
 
@@ -141,17 +141,17 @@ updated: 2026-09-17
 > 揭示跨国数字如何跨越国家内外边界，撬动国内政治杠杆并倒逼政策妥协。
 
 > [!claim] Ydesen (2019); Grek (2009)
-> **危机投射与[[Governing at a Distance|远处治理]]** 跨国测验与指标库的杀伤力并非来自法律制裁，而在于其定期发布的排名所引发的公众震荡与声誉受损。决策者面对排名下滑的“硬事实”往往无法以政治口吻推诿，只能借用国际组织打包推介的政策处方来平息危机，国际组织借此实现了无需亲临现场的“远处治理”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542–543, 548)]]
+> **危机投射与[[Governing at a Distance\|远处治理]]** 跨国测验与指标库的杀伤力并非来自法律制裁，而在于其定期发布的排名所引发的公众震荡与声誉受损。决策者面对排名下滑的“硬事实”往往无法以政治口吻推诿，只能借用国际组织打包推介的政策处方来平息危机，国际组织借此实现了无需亲临现场的“远处治理”。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–543, 548)]]
 
 ---
 
 ### 命题三　硬事实并非纯粹中立科学而是在信息过载环境中被多边复合体武器化的规制工具
 
 > [!concept-lens] 知识武器化与政治经济学
-> 批判硬事实背后的利益垄断、[[Paradigm|范式]]排他以及与跨国商业资本的共生关系。
+> 批判硬事实背后的利益垄断、[[Paradigm\|范式]]排他以及与跨国商业资本的共生关系。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **知识武器化** 当代信息过载并未削弱国际组织的影响，反而促使其将特定类型的可量化、可比较知识深度武器化；各机构通过组建排他性同盟（如[[World Bank|世行]]主导的 [[Building Evidence in Education|BE2]]）并争夺私人慈善资本，在数字平台共享的掩护下维持各自的政策垄断，硬事实本质上是全球治理复合体维系制度霸权的政治利基工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
+> **知识武器化** 当代信息过载并未削弱国际组织的影响，反而促使其将特定类型的可量化、可比较知识深度武器化；各机构通过组建排他性同盟（如[[World Bank\|世行]]主导的 [[Building Evidence in Education\|BE2]]）并争夺私人慈善资本，在数字平台共享的掩护下维持各自的政策垄断，硬事实本质上是全球治理复合体维系制度霸权的政治利基工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
 
 ---
 
@@ -169,10 +169,10 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2000 年代初 — [[PISA]] 冲击与认知软治理萌芽** 伴随[[OECD|经合组织]] PISA 2000 年首轮测验引发德国等国“PISA 冲击”，比较学者开始关注无直接行政权的跨国机构如何通过数据与基准塑造国家教育政策议程（Grek, 2009）。
-> - **2018 — Niemann & Martens 正式提出“以硬事实施展[[Soft Power|软权力]]”** 明确界定国际组织通过制造可量化、可比较与标准化的“硬事实”，将[[Epistemology|认识论]]与方法论权威转化为政治规制力的[[Construct|理论构念]]。
-> - **2019 — Ydesen 提出“[[Global Education Governing Complex|全球教育治理复合体]]”** 将概念由单一国际组织扩展至涵盖多边机构、私人慈善基金会与跨国商业资本的混合治理网络。
-> - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代的知识武器化深化** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 进一步深化该构念，揭示信息过载如何反向促使国际组织将硬事实武器化，并通过排他性战略同盟维持政策垄断。
+> - **2000 年代初 — [[PISA]] 冲击与认知软治理萌芽** 伴随[[OECD\|经合组织]] PISA 2000 年首轮测验引发德国等国“PISA 冲击”，比较学者开始关注无直接行政权的跨国机构如何通过数据与基准塑造国家教育政策议程（Grek, 2009）。
+> - **2018 — Niemann & Martens 正式提出“以硬事实施展[[Soft Power\|软权力]]”** 明确界定国际组织通过制造可量化、可比较与标准化的“硬事实”，将[[Epistemology\|认识论]]与方法论权威转化为政治规制力的[[Construct\|理论构念]]。
+> - **2019 — Ydesen 提出“[[Global Education Governing Complex\|全球教育治理复合体]]”** 将概念由单一国际组织扩展至涵盖多边机构、私人慈善基金会与跨国商业资本的混合治理网络。
+> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代的知识武器化深化** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 进一步深化该构念，揭示信息过载如何反向促使国际组织将硬事实武器化，并通过排他性战略同盟维持政策垄断。
 
 ---
 
@@ -181,28 +181,28 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 客观科学工具 vs 意识形态规制霸权
-> > 国际组织将硬事实包装为提升公共教育效率与透明度的客观工具，批判社会学与政治学学者则指责其将新自由主义[[Human Capital Theory|人力资本理论]]作为唯一标准强加于主权国家。
+> > 国际组织将硬事实包装为提升公共教育效率与透明度的客观工具，批判社会学与政治学学者则指责其将新自由主义[[Human Capital Theory\|人力资本理论]]作为唯一标准强加于主权国家。
 > >
 > > - **建制派倡导者（[[OECD]] / [[World Bank]]）** 坚称量化指标为国家教育决策提供了去政治化的客观镜像与诊断依据。
-> > - **批判学者（Niemann & Martens, 2018; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 揭示硬事实剥离了教育的情境性与价值多元性，是以科学理性为幌子实施的远处政治规制。
+> > - **批判学者（Niemann & Martens, 2018; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）** 揭示硬事实剥离了教育的情境性与价值多元性，是以科学理性为幌子实施的远处政治规制。
 >
 > > [!axis] 全球趋同假象与主权国家策略性过滤
 > > 外部宏观分析常以为硬事实导致全球教育政策的机械趋同，微观政策追踪则发现国家政府在政策周期不同阶段对硬事实进行了高度策略性的利用与过滤。
 > >
-> > - **新制度主义（[[World Society Theory|World Culture Theory]]）** 强调全球硬事实促成跨国政策脚本的同构与趋同。
-> > - **比较政策学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 实证指出主权国家在议程设置阶段借用硬事实化解国内政治冲突（[[Externalization|外化]]机制），但在法定行政法令出台阶段实施高达 95% 的引文清洗，展现出主权过滤自决。
+> > - **新制度主义（[[World Society Theory\|World Culture Theory]]）** 强调全球硬事实促成跨国政策脚本的同构与趋同。
+> > - **比较政策学者（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）** 实证指出主权国家在议程设置阶段借用硬事实化解国内政治冲突（[[Externalization\|外化]]机制），但在法定行政法令出台阶段实施高达 95% 的引文清洗，展现出主权过滤自决。
 >
 > [!critique] 外部批评
-> - **全球南方知识自主性受挫** 批判发展学者指出，硬事实高度由华盛顿与巴黎总部精英垄断，全球南方借款国被迫接受统一的量化指标，本土智库与学者的自主政策[[Knowledge Production|知识生产]]遭到严重边缘化。
+> - **全球南方知识自主性受挫** 批判发展学者指出，硬事实高度由华盛顿与巴黎总部精英垄断，全球南方借款国被迫接受统一的量化指标，本土智库与学者的自主政策[[Knowledge Production\|知识生产]]遭到严重边缘化。
 >
 > [!warning] 适用局限
-> 该概念专用于解释缺乏硬性法律强制管辖权的跨国或多边治理场景；在主权国家内部具有直接命令与财政支配权的一体化行政体系中，权力运作主要依托硬法规制与官僚指令，无需借道硬事实迂回施展[[Soft Power|软权力]]。
+> 该概念专用于解释缺乏硬性法律强制管辖权的跨国或多边治理场景；在主权国家内部具有直接命令与财政支配权的一体化行政体系中，权力运作主要依托硬法规制与官僚指令，无需借道硬事实迂回施展[[Soft Power\|软权力]]。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -214,8 +214,8 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 议程，系统阐发五大国际组织如何将可量化、可比较知识武器化，以硬事实施展[[Soft Power|软权力]]以维持自身政策利基。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 议程，系统阐发五大国际组织如何将可量化、可比较知识武器化，以硬事实施展[[Soft Power\|软权力]]以维持自身政策利基。
 
 ---
 

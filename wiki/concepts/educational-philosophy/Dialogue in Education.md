@@ -69,17 +69,17 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 教育对话（Dialogue in Education）是[[Active Learning|主动学习]]与探究性教学的核心中介。[[John Dewey|杜威]]（John Dewey）将对话理解为在民主学习共同体中“共享经验的过程”；[[Paulo Freire|弗莱雷]]（Paulo Freire）与 Darwish (2009) 则进一步将对话确立为一种解放性教学实践——通过平等对话，学习者从被动的知识接受者转变为“批判性共同探究者”（critical co-investigators），通过交流揭露并破除[[Banking Model of Education|储蓄式教育]]的单向沉积，走向[[Conscientization|批判意识觉醒]]与[[Critical Thinking|批判性思维]]发展。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 9–10)]] [[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 285–286)]]
+> 教育对话（Dialogue in Education）是[[Active Learning\|主动学习]]与探究性教学的核心中介。[[John Dewey\|杜威]]（John Dewey）将对话理解为在民主学习共同体中“共享经验的过程”；[[Paulo Freire\|弗莱雷]]（Paulo Freire）与 Darwish (2009) 则进一步将对话确立为一种解放性教学实践——通过平等对话，学习者从被动的知识接受者转变为“批判性共同探究者”（critical co-investigators），通过交流揭露并破除[[Banking Model of Education\|储蓄式教育]]的单向沉积，走向[[Conscientization\|批判意识觉醒]]与[[Critical Thinking\|批判性思维]]发展。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]] [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 摆脱以讲授为主的知识传输模式，建立师生与生生之间平等的民主沟通契约与理性探究共同体。
-> - **用途** 用于打破自上而下的灌输，提供认知冲突、反思[[Scaffolding|脚手架]]与多元视角协商的互动载体。
-> - **边界** 对话并非无目的的闲聊，也不是权威者隐藏结论的诱导式“伪提问”，而是建立在尊重、爱、[[Humility in Learning|谦逊]]与严谨理由审查基础上的社会建构。
+> - **用途** 用于打破自上而下的灌输，提供认知冲突、反思[[Scaffolding\|脚手架]]与多元视角协商的互动载体。
+> - **边界** 对话并非无目的的闲聊，也不是权威者隐藏结论的诱导式“伪提问”，而是建立在尊重、爱、[[Humility in Learning\|谦逊]]与严谨理由审查基础上的社会建构。
 
 > [!citation-card]- 关键表述
 > 当对话发生时，学习者不再是驯服的听众，而是批判性共同探究者。 （Freire, 2000, p. 81; 引自 Darwish, 2009, p. 9）
 >
-> *When dialogue takes place, learners are “no longer docile listeners” but “critical co-investigators”. (Freire, 2000, p. 81; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 9]])*
+> *When dialogue takes place, learners are “no longer docile listeners” but “critical co-investigators”. (Freire, 2000, p. 81; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 9]])*
 
 ---
 
@@ -100,9 +100,9 @@ updated: 2026-09-18
 在教学实操与实证研究中，教育对话根据**主导主体**、**组织规模**与**认知交互规则**细分为不同的具体技术：
 
 > [!taxonomy] 教育对话细分子技术分类架构
-> - **教师引导类结构化对话** 教师提供即时反馈与[[Scaffolding|认知脚手架]]，包括教师全班研讨、教师小组讨论、针对性启发提问与个别化指导。
+> - **教师引导类结构化对话** 教师提供即时反馈与[[Scaffolding\|认知脚手架]]，包括教师全班研讨、教师小组讨论、针对性启发提问与个别化指导。
 > - **生生对等与规则约束对话** 依托明确规则或任务脚手架开展同伴互动，包括对等同伴提问、正式辩论、汇报后答辩研讨与自主合作小组。
-> - **独特哲学与批判对话流派** 具备系统理论根基与特定质询流程的专门对话形态，包括[[Socratic Dialogue|苏格拉底对话]]、问题化批判对话与文化养育对话。
+> - **独特哲学与批判对话流派** 具备系统理论根基与特定质询流程的专门对话形态，包括[[Socratic Dialogue\|苏格拉底对话]]、问题化批判对话与文化养育对话。
 
 > [!ref-table]- 教育对话 11 项可观察具体技术与实证索引
 > <span class="concept-dialogue-strategy-table-marker" aria-hidden="true"></span>
@@ -133,7 +133,7 @@ updated: 2026-09-18
 > 探讨师生与生生研讨如何从社会建构层面激发深层反思与理由权衡。
 
 > [!claim] Abrami, P. C., et al.
-> **对话研讨对思维技能的显著促进** [[Meta-analysis|元分析]]证据显示，教学中融入对话（Dialogue）对通用[[Critical Thinking|批判性思维]]技能具有显著正向促进效应（$g+ = 0.32, p < .001$），显著优于无对话或对照组教学（$Q_b = 4.53, p = .03$）。在具体对话形态中，教师主导的全班研讨（$g+ = 0.42$）、教师主导的小组研讨（$g+ = 0.41$）与教师针对性提问（$g+ = 0.38$）均表现出最高[[Effect Size|效应量]]，表明教师在对话中扮演的脚手架与问题推进角色至关重要。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 293–295)]]
+> **对话研讨对思维技能的显著促进** [[Meta-analysis\|元分析]]证据显示，教学中融入对话（Dialogue）对通用[[Critical Thinking\|批判性思维]]技能具有显著正向促进效应（$g+ = 0.32, p < .001$），显著优于无对话或对照组教学（$Q_b = 4.53, p = .03$）。在具体对话形态中，教师主导的全班研讨（$g+ = 0.42$）、教师主导的小组研讨（$g+ = 0.41$）与教师针对性提问（$g+ = 0.38$）均表现出最高[[Effect Size\|效应量]]，表明教师在对话中扮演的脚手架与问题推进角色至关重要。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]]
 
 ### 命题二　对话的促学效果受制于结构化规则与支架支持
 
@@ -141,13 +141,13 @@ updated: 2026-09-18
 > 探讨自由放任讨论与结构化对话之间的效果差异。
 
 > [!claim] Abrami, P. C., et al.; King, A.
-> **支架与规则决胜于放任漫谈** 实证数据表明，缺乏教师介入且无结构化支架的全班/结对漫谈效应极低（$g+ = 0.04–0.19$）；相反，当引入提问句干支架（学生提问 $g+ = 0.37$）、辩论规则约束（$g+ = 0.32$）或[[Socratic Dialogue|苏格拉底对话]]质询流程（$g+ = 0.27$）时，同伴互动的认知增益显著提升，证明对话必须依托明确的[[Scaffolding|认知脚手架]]才能避免流于表层。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 285–286)]]
+> **支架与规则决胜于放任漫谈** 实证数据表明，缺乏教师介入且无结构化支架的全班/结对漫谈效应极低（$g+ = 0.04–0.19$）；相反，当引入提问句干支架（学生提问 $g+ = 0.37$）、辩论规则约束（$g+ = 0.32$）或[[Socratic Dialogue\|苏格拉底对话]]质询流程（$g+ = 0.27$）时，同伴互动的认知增益显著提升，证明对话必须依托明确的[[Scaffolding\|认知脚手架]]才能避免流于表层。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
@@ -166,7 +166,7 @@ updated: 2026-09-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research|实验研究]]，系统定量检验 11 项对话具体子策略（教师提问、全班研讨、辩论、[[Socratic Dialogue|苏格拉底对话]]等）对[[Critical Thinking|批判性思维]]技能的促进效应（$g+ = 0.32–0.42$）。
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 从[[Critical Pedagogy|批判教育学]]与[[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]]教育哲学出发，论述对话作为克服[[Banking Model of Education|储蓄式教育]]、激发批判性共同探究的政治教学实践。
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 采用[[Discourse Analysis|话语分析]]检验家庭教育中的母子学习对话互动模式与文化[[Cognitive Source|认知来源]]。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research\|实验研究]]，系统定量检验 11 项对话具体子策略（教师提问、全班研讨、辩论、[[Socratic Dialogue\|苏格拉底对话]]等）对[[Critical Thinking\|批判性思维]]技能的促进效应（$g+ = 0.32–0.42$）。
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 从[[Critical Pedagogy\|批判教育学]]与[[John Dewey\|杜威]]、[[Paulo Freire\|弗莱雷]]教育哲学出发，论述对话作为克服[[Banking Model of Education\|储蓄式教育]]、激发批判性共同探究的政治教学实践。
+> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 采用[[Discourse Analysis\|话语分析]]检验家庭教育中的母子学习对话互动模式与文化[[Cognitive Source\|认知来源]]。

@@ -57,8 +57,8 @@ updated: 2026-09-11
 
 > [!instrument-profile] Course Experience [[Questionnaire]]（CEQ）
 > - **工具类型** 全国性大学课程体验与通用技能自陈调查问卷（Standardized Graduate Survey Instrument）。
-> - **开发者与年份** Paul Ramsden (1991) / [[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）与澳大利亚联邦政府教育部门。
-> - **测量目的** 评估大学毕业生对所学专业教学质量、考核评价方式与通用高阶技能（批判性分析、[[Problem Solving|问题解决]]、沟通）获得的感知，作为澳大利亚毕业生成果调查（[[Graduate Outcomes Survey|GOS]]）的核心模块。
+> - **开发者与年份** Paul Ramsden (1991) / [[Australian Council for Educational Research\|澳大利亚教育研究委员会]]（ACER）与澳大利亚联邦政府教育部门。
+> - **测量目的** 评估大学毕业生对所学专业教学质量、考核评价方式与通用高阶技能（批判性分析、[[Problem Solving\|问题解决]]、沟通）获得的感知，作为澳大利亚毕业生成果调查（[[Graduate Outcomes Survey\|GOS]]）的核心模块。
 > - **实施方式** 毕业生毕业 4–6 个月后在线自陈施测（5 点莱克特等级评定）。
 
 ---

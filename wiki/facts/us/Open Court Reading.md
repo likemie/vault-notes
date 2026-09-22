@@ -64,9 +64,9 @@ updated: 2026-09-16
 ## 项目定位与方案概况
 
 > [!info] 项目定位与方案概况
-> **开放式阅读（Open Court Reading, OCR）** 是由 [[Sponsored Research Agreement|SRA]]/McGraw-Hill 开发出版的美国全美知名学前至小学（Pre-K–6）基础读写与语言艺术综合课程方案，在全美成千上万所小学中广泛使用([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 22]])。
+> **开放式阅读（Open Court Reading, OCR）** 是由 [[Sponsored Research Agreement\|SRA]]/McGraw-Hill 开发出版的美国全美知名学前至小学（Pre-K–6）基础读写与语言艺术综合课程方案，在全美成千上万所小学中广泛使用([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 22]])。
 >
-> 在[[Evidence-Based Education|循证教育]]与政策元[[Evaluation Research|评估研究]]中，Open Court Reading 成为 **“表面底线评级一致掩盖底层方法学深层分歧（Surface Agreement Concealing Underlying Methodological Divergence）”** 的标志性经典案例——[[What Works Clearinghouse|WWC]]、[[Blueprints for Healthy Youth Development|Blueprints]] 与 [[Best Evidence Encyclopedia|BEE]] 三大权威清算中心均将其裁定为**“有望（Promising / Modest Evidence / Potentially Positive）”**，但其底层的证据池筛选、因果设计分类、[[Effect Size|效应量]]解释及混杂控制规则存在剧烈冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 22–23]])。
+> 在[[Evidence-Based Education\|循证教育]]与政策元[[Evaluation Research\|评估研究]]中，Open Court Reading 成为 **“表面底线评级一致掩盖底层方法学深层分歧（Surface Agreement Concealing Underlying Methodological Divergence）”** 的标志性经典案例——[[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 与 [[Best Evidence Encyclopedia\|BEE]] 三大权威清算中心均将其裁定为**“有望（Promising / Modest Evidence / Potentially Positive）”**，但其底层的证据池筛选、因果设计分类、[[Effect Size\|效应量]]解释及混杂控制规则存在剧烈冲突([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 22–23]])。
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-09-16
 
 ## 循证清算中心评级全景对比
 
-> [!contrast-table] [[What Works Clearinghouse|WWC]]、[[Blueprints for Healthy Youth Development|Blueprints]] 与 [[Best Evidence Encyclopedia|BEE]] 对 Open Court Reading 的评级与审查机制对比（基于 Wadhwa et al., 2024）
+> [!contrast-table] [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 与 [[Best Evidence Encyclopedia\|BEE]] 对 Open Court Reading 的评级与审查机制对比（基于 Wadhwa et al., 2024）
 > | 审查维度 | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development\|Blueprints]] (科罗拉多大学) | [[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin) |
 > |:---|:---|:---|:---|
 > | **最终底线评级** | **Potentially Positive（潜在积极）**<br>(With Reservations) | **Promising（有望）**<br>(二级认证) | **Moderate Evidence（中等证据）**<br>(加权 $ES = +0.13\text{ SD}$) |
@@ -95,24 +95,24 @@ updated: 2026-09-16
 ## 案例核心启示：表面一致掩盖底层分歧
 
 > [!critique] 评级一致性背后的三大方法学剪刀差
-> [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024, pp. 22–23)]] 指出，Open Court Reading 案例揭示了宏观[[Evidence-Based Education|循证教育]]评级中最容易误导政策制定者的“虚假共识”假象：
+> [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, pp. 22–23)]] 指出，Open Court Reading 案例揭示了宏观[[Evidence-Based Education\|循证教育]]评级中最容易误导政策制定者的“虚假共识”假象：
 >
-> 1. **核心 [[Randomised Controlled Trials|RCT]] 研究的因果定性与时间混杂识别剪刀差**
->    - 针对 Borman et al. (2008) 的多中心集群 RCT，[[Best Evidence Encyclopedia|BEE]] 评审团队敏锐发现了其他机构完全忽略的**共时课时混杂（Time-on-Task Confounder）**——实验组每天接受 150 分钟读写教学，而对照组仅为 90 分钟常规教学。[[Effect Size|效应量]]的提升究竟源于 Open Court 课程本身的优越性，还是单纯源于多出了 60 分钟学习时间？[[What Works Clearinghouse|WWC]] 与 [[Blueprints for Healthy Youth Development|Blueprints]] 对此完全失察。
-> 2. **准实验 [[Quasi-Experimental Designs|QED]] 门槛的宽容度与剔除分歧**
->    - 针对 Skindrud & Gersten (2006) 准[[Experimental Research|实验研究]]，Blueprints 坚守严谨主义原则予以彻底剔除，而 WWC 在自行动手校正集群误差后，因效应量大于 0.25 SD 仍破格保留入库，展现了不同机构在准实验容忍度上的制度裁量权。
-> 3. **底线标签无法传递[[Scientific Uncertainty|证据不确定性]]**
->    - 政策制定者若仅查阅“Promising”这一最终标签，将完全无法获知背后的课时偏差、小样本班级降级与准实验争议，凸显了必须穿透标签审视底层[[Chain of Evidence|证据链]]条的方法学必要性。
+> 1. **核心 [[Randomised Controlled Trials\|RCT]] 研究的因果定性与时间混杂识别剪刀差**
+>    - 针对 Borman et al. (2008) 的多中心集群 RCT，[[Best Evidence Encyclopedia\|BEE]] 评审团队敏锐发现了其他机构完全忽略的**共时课时混杂（Time-on-Task Confounder）**——实验组每天接受 150 分钟读写教学，而对照组仅为 90 分钟常规教学。[[Effect Size\|效应量]]的提升究竟源于 Open Court 课程本身的优越性，还是单纯源于多出了 60 分钟学习时间？[[What Works Clearinghouse\|WWC]] 与 [[Blueprints for Healthy Youth Development\|Blueprints]] 对此完全失察。
+> 2. **准实验 [[Quasi-Experimental Designs\|QED]] 门槛的宽容度与剔除分歧**
+>    - 针对 Skindrud & Gersten (2006) 准[[Experimental Research\|实验研究]]，Blueprints 坚守严谨主义原则予以彻底剔除，而 WWC 在自行动手校正集群误差后，因效应量大于 0.25 SD 仍破格保留入库，展现了不同机构在准实验容忍度上的制度裁量权。
+> 3. **底线标签无法传递[[Scientific Uncertainty\|证据不确定性]]**
+>    - 政策制定者若仅查阅“Promising”这一最终标签，将完全无法获知背后的课时偏差、小样本班级降级与准实验争议，凸显了必须穿透标签审视底层[[Chain of Evidence\|证据链]]条的方法学必要性。
 
 ---
 
 ## 实证数据与效应量表现
 
 > [!stat-cards]- 核心实证研究数据快照
-> - **$+0.10$ 至 $+0.19\text{ SD}$** Borman et al. (2008) 大型多中心集群 [[Randomised Controlled Trials|RCT]]（涵盖多个学区与数十所小学）各清算中心估计的净[[Effect Size|效应量]]区间，被 [[Best Evidence Encyclopedia|BEE]] 定性为“适度效应”。
+> - **$+0.10$ 至 $+0.19\text{ SD}$** Borman et al. (2008) 大型多中心集群 [[Randomised Controlled Trials\|RCT]]（涵盖多个学区与数十所小学）各清算中心估计的净[[Effect Size\|效应量]]区间，被 [[Best Evidence Encyclopedia\|BEE]] 定性为“适度效应”。
 
 Skindrud & Gersten (2006) 的准实验匹配研究（[[Quasi-Experimental Designs|QED]]）样本集中于特定加州薄弱学区，展示早期阅读成绩提升但存在集群校正与[[Attrition|差异流失]]争议。
-> - **$ES = +0.13\text{ SD}$**（$p < 0.05$） BEE [[Meta-analysis|元分析]]加权平均效应量，基于多项合格研究方差倒数加权合成，达到 BEE 中等[[Evidence Standards|证据标准]]。
+> - **$ES = +0.13\text{ SD}$**（$p < 0.05$） BEE [[Meta-analysis\|元分析]]加权平均效应量，基于多项合格研究方差倒数加权合成，达到 BEE 中等[[Evidence Standards\|证据标准]]。
 
 ---
 

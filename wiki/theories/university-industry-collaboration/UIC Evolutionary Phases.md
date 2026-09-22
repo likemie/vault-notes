@@ -46,7 +46,7 @@ updated: 2026-06-10
 ## 核心主张
 
 > [!abstract]
-> O'Dwyer、Filieri 和 O'Malley（2023）基于对[[Synthesis and Solid State Pharmaceutical Centre|爱尔兰合成与固态制药中心]]（Synthesis and Solid State Pharmaceutical Centre，SSPC）的深度[[Case Study|案例研究]]——涉及 10 家跨国制药企业和 8 所学术机构——提出了[[University-Industry Collaboration|产学合作]]网络演化的四阶段模型。核心主张是：产学合作的障碍和促进因素**并非静态存在，而是随时间演化**——在合作的不同阶段出现、转变或被克服[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(O'Dwyer et al., 2023)]]。
+> O'Dwyer、Filieri 和 O'Malley（2023）基于对[[Synthesis and Solid State Pharmaceutical Centre\|爱尔兰合成与固态制药中心]]（Synthesis and Solid State Pharmaceutical Centre，SSPC）的深度[[Case Study\|案例研究]]——涉及 10 家跨国制药企业和 8 所学术机构——提出了[[University-Industry Collaboration\|产学合作]]网络演化的四阶段模型。核心主张是：产学合作的障碍和促进因素**并非静态存在，而是随时间演化**——在合作的不同阶段出现、转变或被克服[[Argument_ODwyer_Filieri_OMalley_2023_JTT\|(O'Dwyer et al., 2023)]]。
 
 该模型直接回应的理论缺口是：已有研究虽然识别了产学合作的各种障碍和促进因素，但都是横截面分析——"对障碍和促进因素的分析局限于单一[[Theoretical Perspective|理论视角]]"，没有捕捉到合作关系发展过程中这些因素的动态演化（pp.902-903）。四阶段模型将时间维度引入障碍分析，使政策制定者和实践者能够**在正确的时间采取正确的干预措施**。
 
@@ -56,12 +56,12 @@ updated: 2026-06-10
 ### 阶段一：胚胎期（Embryonic Phase，正式合作前）
 
 > [!info] 胚胎期：高风险感知下的初步接触
-> 此阶段的核心特征是**高风险感知**和**强不信任**——潜在合作伙伴尚未建立正式关系，恐惧知识泄露和[[Opportunist Mode|机会主义]]行为是主导障碍。具体的障碍和促进因素在三组行动者之间各有侧重（pp.907-910）：
+> 此阶段的核心特征是**高风险感知**和**强不信任**——潜在合作伙伴尚未建立正式关系，恐惧知识泄露和[[Opportunist Mode\|机会主义]]行为是主导障碍。具体的障碍和促进因素在三组行动者之间各有侧重（pp.907-910）：
 
 > [!line-a] 产业-产业界面
 > **障碍** 强不信任、强知识泄露恐惧（核心能力）、不愿与竞争对手合作。
 > **促进因素** 政府资助的可能性、先前合作经验、机会识别、知识互补性。
-> **关键机制** 产业伙伴之间的先前合作经验是胚胎期最关键的促进因素——[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 案例中，多数产业伙伴在参与前已通过爱尔兰商业与雇主联合会的研发小组（IBEC R&D group）建立了熟悉度和信任基础。
+> **关键机制** 产业伙伴之间的先前合作经验是胚胎期最关键的促进因素——[[Synthesis and Solid State Pharmaceutical Centre\|SSPC]] 案例中，多数产业伙伴在参与前已通过爱尔兰商业与雇主联合会的研发小组（IBEC R&D group）建立了熟悉度和信任基础。
 
 > [!line-a] 产业-大学界面
 > **障碍** 中度不信任、强知识泄露恐惧、怀疑态度。
@@ -69,9 +69,9 @@ updated: 2026-06-10
 > **关键机制** 关键行动者（key actor）的个人声誉是吸引早期产业参与的核心——产业伙伴"信任他（关键行动者）和他的声誉，以及他对 SSPC 的愿景"。
 
 > [!line-a] 大学-大学界面
-> **障碍** 中度不信任、不愿与其他同一[[Areas of Knowledge|知识领域]]的学者合作（"知识竞争者"心态）。
+> **障碍** 中度不信任、不愿与其他同一[[Areas of Knowledge\|知识领域]]的学者合作（"知识竞争者"心态）。
 > **促进因素** 先前合作经验。
-> **关键机制** 此阶段学术合作仅进行[[Research Utilization|知识利用]]（knowledge exploitation），不涉及知识探索（knowledge exploration），以降低风险。
+> **关键机制** 此阶段学术合作仅进行[[Research Utilization\|知识利用]]（knowledge exploitation），不涉及知识探索（knowledge exploration），以降低风险。
 
 ### 阶段二：启动期（Initiation Phase，第 1-3 年）
 
@@ -105,7 +105,7 @@ updated: 2026-06-10
 
 > [!line-a] 产业-大学界面
 > **障碍** 无显著新障碍。
-> **促进因素** 知识产权协议、项目经理和[[Technology Transfer|大学技术转移]]办公室（[[Technology Transfer Office]]，TTO）的支持、诚信基础的信任。
+> **促进因素** 知识产权协议、项目经理和[[Technology Transfer\|大学技术转移]]办公室（[[Technology Transfer Office]]，TTO）的支持、诚信基础的信任。
 > **关键机制** 协作性知识产权协议是参与期最重要的制度突破——它不是自上而下的强制条款，而是由所有伙伴共同协商制定的。
 
 > [!line-a] 大学-大学界面
@@ -136,6 +136,6 @@ updated: 2026-06-10
 ## 理论基础
 
 > [!tip]-
-> - **[[Evolutionary Economics|演化经济学]]** — 四阶段模型的核心[[Theoretical Perspective|理论视角]]，将[[University-Industry Collaboration|产学合作]]视为一个随时间演化的动态过程，而非静态状态
-> - **[[Social Capital Theory|社会资本理论]]** — 信任（声誉基础 vs 诚信基础）、凝聚性和互惠性在合作演化中的角色变化
+> - **[[Evolutionary Economics\|演化经济学]]** — 四阶段模型的核心[[Theoretical Perspective\|理论视角]]，将[[University-Industry Collaboration\|产学合作]]视为一个随时间演化的动态过程，而非静态状态
+> - **[[Social Capital Theory\|社会资本理论]]** — 信任（声誉基础 vs 诚信基础）、凝聚性和互惠性在合作演化中的角色变化
 > - **交易成本经济学** — 知识产权协议作为一种降低交易成本的制度安排

@@ -51,10 +51,10 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 在[[Quantitative Research|量化研究]]——尤其是[[Survey Research|调查研究]]——中，研究总体（Study Population）和研究样本（Study Sample）是两个必须明确区分的基本概念。研究总体指研究者希望做出推论的全部人群（如全世界所有护士）；研究样本指研究中实际检验的受试者子集（如从你所在城市五家医院抽取的护士）。抽样（sampling）的目标是在可行范围内，以最小化偏差的方式从总体中选取样本，使研究者能够基于样本结果对总体做出有效推论（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 在[[Quantitative Research\|量化研究]]——尤其是[[Survey Research\|调查研究]]——中，研究总体（Study Population）和研究样本（Study Sample）是两个必须明确区分的基本概念。研究总体指研究者希望做出推论的全部人群（如全世界所有护士）；研究样本指研究中实际检验的受试者子集（如从你所在城市五家医院抽取的护士）。抽样（sampling）的目标是在可行范围内，以最小化偏差的方式从总体中选取样本，使研究者能够基于样本结果对总体做出有效推论（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote]
-> "A study population refers to all people you aim to make inferences about (e.g., all nurses across the world) whereas a study sample refers to the (sub)group of participants examined in the survey study (e.g., nurses drawn from five hospitals in your city)."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）
+> "A study population refers to all people you aim to make inferences about (e.g., all nurses across the world) whereas a study sample refers to the (sub)group of participants examined in the survey study (e.g., nurses drawn from five hospitals in your city)."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）
 
 ## 核心要素
 
@@ -63,11 +63,11 @@ updated: 2026-06-01
 研究者在决定抽样策略时必须就以下五项因素做出判断：
 
 > [!feature] 抽样决策五因素
-> - **[[Sample Size Determination|样本量]]（sample size）** 取决于[[Research Purpose|研究目的]]、总体性质、所需准确度、预期回应率、[[Variable|变量]]数量和统计方法要求。
-> - **样本的代表性与参数特征（representativeness and parameters）** 即正确清晰地设定总体的参数特征——[[Sampling Frame|抽样框]]。研究者需明确什么在被代表。
-> - **样本的准入（access to the sample）** 不仅需确保准入被允许，还需确保准入实际上可行。准入可能因参与者自身原因、实际原因、保护性原因或[[Gatekeepers|守门人]]（gatekeepers）而被拒绝。
-> - **抽样策略（sampling strategy）** 选择[[Random Sampling|概率抽样]]还是[[Non-probability Sampling|非概率抽样]]。
-> - **研究的类型** 定量、定性还是[[Mixed Methods Research|混合方法]]——不同类型对应不同的抽样逻辑和样本量要求。
+> - **[[Sample Size Determination\|样本量]]（sample size）** 取决于[[Research Purpose\|研究目的]]、总体性质、所需准确度、预期回应率、[[Variable\|变量]]数量和统计方法要求。
+> - **样本的代表性与参数特征（representativeness and parameters）** 即正确清晰地设定总体的参数特征——[[Sampling Frame\|抽样框]]。研究者需明确什么在被代表。
+> - **样本的准入（access to the sample）** 不仅需确保准入被允许，还需确保准入实际上可行。准入可能因参与者自身原因、实际原因、保护性原因或[[Gatekeepers\|守门人]]（gatekeepers）而被拒绝。
+> - **抽样策略（sampling strategy）** 选择[[Random Sampling\|概率抽样]]还是[[Non-probability Sampling\|非概率抽样]]。
+> - **研究的类型** 定量、定性还是[[Mixed Methods Research\|混合方法]]——不同类型对应不同的抽样逻辑和样本量要求。
 
 经验丰富的研究者从总体出发向下推导样本；经验不足的研究者常从底部向上工作——先确定最少受访者数量却不事先识别总体，导致几乎无法评估样本的代表性（p.143）。
 
@@ -94,24 +94,24 @@ updated: 2026-06-01
 5. **说明总体分层** 若总体在抽样前按已知特征分层，应说明分层的特征和原因。
 
 > [!info] 为什么区分总体与样本如此重要？
-> 在大多数情况下，将总体中所有人纳入研究是不切实际的（如研究全世界所有护士）。因此研究者必须在理想（从总体中完美代表性抽样）与现实（基于可得性和资源的有限样本）之间做出权衡。清晰地区分和说明总体与样本，使读者能够准确判断研究结果的推广范围——即[[External Validity|外部效度]]的边界在哪里（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 在大多数情况下，将总体中所有人纳入研究是不切实际的（如研究全世界所有护士）。因此研究者必须在理想（从总体中完美代表性抽样）与现实（基于可得性和资源的有限样本）之间做出权衡。清晰地区分和说明总体与样本，使读者能够准确判断研究结果的推广范围——即[[External Validity\|外部效度]]的边界在哪里（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ## 概念辨析
 
 > [!example]
-> - vs [[Random Sampling|随机抽样]] — 总体和样本是概念区分（"谁" vs "谁的子集"）；随机抽样是连接两者的方法（"如何从总体选取样本"）。
-> - vs [[Response Bias|回应偏差]] — 即使抽样设计良好，实际回应调查的人（回应样本）可能与原始抽样设计中选取的人（目标样本）不同——非回应者可能具有与回应者不同的特征，导致回应偏差。总体 → [[Sampling Frame|抽样框]] → 目标样本 → 回应样本，每一步都可能引入偏差。
+> - vs [[Random Sampling\|随机抽样]] — 总体和样本是概念区分（"谁" vs "谁的子集"）；随机抽样是连接两者的方法（"如何从总体选取样本"）。
+> - vs [[Response Bias\|回应偏差]] — 即使抽样设计良好，实际回应调查的人（回应样本）可能与原始抽样设计中选取的人（目标样本）不同——非回应者可能具有与回应者不同的特征，导致回应偏差。总体 → [[Sampling Frame\|抽样框]] → 目标样本 → 回应样本，每一步都可能引入偏差。
 
 ## 适用场景
 
 > [!success]
-> - 任何[[Survey Research|调查研究]]的方法部分都必须首先明确总体与样本。
-> - [[Experimental Research|实验研究]]中，参与者招募部分同样需要说明目标总体和样本特征——尽管实验研究对总体代表性的要求通常低于调查研究（优先保障[[Internal Validity|内部效度]]）。
+> - 任何[[Survey Research\|调查研究]]的方法部分都必须首先明确总体与样本。
+> - [[Experimental Research\|实验研究]]中，参与者招募部分同样需要说明目标总体和样本特征——尽管实验研究对总体代表性的要求通常低于调查研究（优先保障[[Internal Validity\|内部效度]]）。
 
 ## 局限性
 
 > [!warning]
 > - 在许多教育研究中，研究者只能接触到特定学校或班级的学生——此时样本对"所有学生"的代表性有限。应诚实地讨论这种局限而非夸大推广范围。
-> - 总体名单（[[Sampling Frame|抽样框]]）可能不完整或过时——如邮寄名单可能不包括无家可归者或近期搬迁者，导致覆盖误差（coverage error）。
-> - 即使从完整抽样框中[[Random Sampling|随机抽样]]，低回应率也可能使最终样本在关键特征上不再代表总体（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - 总体名单（[[Sampling Frame\|抽样框]]）可能不完整或过时——如邮寄名单可能不包括无家可归者或近期搬迁者，导致覆盖误差（coverage error）。
+> - 即使从完整抽样框中[[Random Sampling\|随机抽样]]，低回应率也可能使最终样本在关键特征上不再代表总体（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 

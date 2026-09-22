@@ -32,7 +32,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> Hook and Eye（钩眼）技术是 Wilkinson (1991) 提出的一种检查[[Coherence in Writing|写作连贯性]]（coherence）的实用方法。研究者审视已写好的文本，圈出每句话中的关键词（称为"eye"），然后用线将前后句子的关键词连接起来（称为"hook"）。连接顺畅表明连贯性好；连接困难则揭示该处缺乏连贯，需要添加过渡词、短语或句子来建立清晰的联系（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
+> Hook and Eye（钩眼）技术是 Wilkinson (1991) 提出的一种检查[[Coherence in Writing\|写作连贯性]]（coherence）的实用方法。研究者审视已写好的文本，圈出每句话中的关键词（称为"eye"），然后用线将前后句子的关键词连接起来（称为"hook"）。连接顺畅表明连贯性好；连接困难则揭示该处缺乏连贯，需要添加过渡词、短语或句子来建立清晰的联系（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 这一技术的逻辑前提是：连贯的写作中，每句话都应是前一句话的逻辑延续（Zinsser, 1983; 引自 Creswell & Creswell, 2022, 第4章）。钩眼技术将这种延续关系可视化，使抽象的连贯概念变为可以逐句检查的具象操作。
 
@@ -48,7 +48,7 @@ updated: 2026-09-11
 4. **跨段落检查** 技术同样适用于段落之间的连接，检查段落末尾的关键词是否自然引出下一段的主题
 
 > [!example]
-> Creswell & Creswell (2022, 第4章) 展示了一位学生[[Qualitative Research|质性研究]]计划引言段落的钩眼分析实例。该段落围绕"at-risk students"主题展开，每句话的关键词通过钩眼连线呈现清晰的链条：They → students → athletes → Those → students → They → they → students-at-risk → at-risk student → problems → early reform → the needs of the marginal student → students → at-risk student → at-risk students → topic → at-risk issue → research → Others → Still others → research and studies by → shift the → students → discover if there → researcher who，整条链始终围绕核心主题。
+> Creswell & Creswell (2022, 第4章) 展示了一位学生[[Qualitative Research\|质性研究]]计划引言段落的钩眼分析实例。该段落围绕"at-risk students"主题展开，每句话的关键词通过钩眼连线呈现清晰的链条：They → students → athletes → Those → students → They → they → students-at-risk → at-risk student → problems → early reform → the needs of the marginal student → students → at-risk student → at-risk students → topic → at-risk issue → research → Others → Still others → research and studies by → shift the → students → discover if there → researcher who，整条链始终围绕核心主题。
 
 > [!example]- 图4.1：钩眼技巧示例（An Illustration of the Hook and Eye Technique）
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_4-1_Hook_and_Eye_Technique.png)

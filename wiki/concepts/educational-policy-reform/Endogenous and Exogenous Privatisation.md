@@ -8,7 +8,7 @@ aliases:
 summary: "Ball and Youdell 区分的两种公立教育私有化趋势，分别指学校内部运作企业化和私营部门进入学校体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Social Impact Investing]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Education]]"
 related_theories: []
@@ -30,8 +31,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Education International]]"
-  - "[[Partnership Schools Kura Hourua]]"
   - "[[OECD]]"
+  - "[[Partnership Schools Kura Hourua]]"
   - "[[Teach First New Zealand]]"
   - "[[Australia in the Asian Century White Paper]]"
 related_arguments:
@@ -42,7 +43,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 ## 定义
@@ -51,7 +52,7 @@ updated: 2026-09-17
 Ball & Youdell（2008）在其提交给 [[Education International]] 的报告中识别了全球公立学校政策中的两种私有化趋势([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.4]])：
 
 1. **内生私有化（Endogenous privatisation）** 学校变得更像企业或以企业方式运营——将私营部门的管理逻辑、绩效技术和商业实践引入公立学校系统内部
-2. **外生私有化（Exogenous privatisation）** 将私营部门带入公立学校——通过合同外包、[[Public-Private Partnership in Research|PPP]]、[[Partnership Schools Kura Hourua|特许学校]]等形式将教育服务的提供从公共部门转移到私营部门
+2. **外生私有化（Exogenous privatisation）** 将私营部门带入公立学校——通过合同外包、[[Public-Private Partnership in Research|PPP]]、特许学校等形式将教育服务的提供从公共部门转移到私营部门
 
 这两种趋势在 [[OECD]] 集团的早期教育、学校和高等教育系统中已得到相当充分的记录和理解([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.4]])。
 
@@ -78,14 +79,14 @@ O'Neill 等指出，在过去十年中，私营部门参与教育政策制定的
 O'Neill 等（2016, pp.8–12）记录的九项新西兰近十余年的现代化/私有化实例同时展示了两种形式：
 
 **内生私有化**的例证：
-- 政策话语从"政府资助和提供"转向"政府补贴"和"社会投资"
+- 政策话语从"政府资助和提供"转向"政府补贴"和"[[Social Impact Investing|社会投资]]"
 - ERO 国家报告有利引用 Pearson/Hattie 思想领导力文章
 - PLD 提供商认证体系（Professional Learning Association New Zealand）的建立
 
 **外生私有化**的例证：
 - [[Assessment Tools for Teaching and Learning|asTTle]]/e-asTTle 向私营投资伙伴部分出售商业化权利
 - [[Public-Private Partnership in Research|PPP]] 学校合同（Learning Infrastructure Partners / Future Schools Partners）
-- [[Partnership Schools Kura Hourua]]（[[Partnership Schools Kura Hourua|特许学校]]）— 详见 [[Partnership Schools Kura Hourua]]
+- [[Partnership Schools Kura Hourua]]（特许学校）— 详见 [[Partnership Schools Kura Hourua]]
 - [[Teach First New Zealand]] — 私营慈善信托提供就业型教师教育 — 详见 Teach First New Zealand ([[Teach First New Zealand|TFNZ]] 2011)
 - 学校支持服务竞争性外包（Te Toi Tupu 联合体）
 - KickStart Breakfast 政府与企业共同出资

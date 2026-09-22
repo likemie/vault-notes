@@ -41,10 +41,10 @@ updated: 2026-06-12T18:30:00
 ## 定义
 
 > [!info]
-> LISA时空路径（LISA Time Path）是探索性时空数据分析（Exploratory Spatiotemporal Data Analysis, ESTDA）的核心方法之一。它将时间维度引入传统的LISA（局部空间自相关指标），追踪每个空间单元在Moran散点图上多年的移动轨迹，通过相对长度和弯曲度两个几何指标刻画局部空间关联格局的动态演化特征。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 68)]]
+> LISA时空路径（LISA Time Path）是探索性时空数据分析（Exploratory Spatiotemporal Data Analysis, ESTDA）的核心方法之一。它将时间维度引入传统的LISA（局部空间自相关指标），追踪每个空间单元在Moran散点图上多年的移动轨迹，通过相对长度和弯曲度两个几何指标刻画局部空间关联格局的动态演化特征。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
 
 > [!quote]
-> 基于ESTDA模型，LISA时空路径将时间维度纳入LISA以实现动态交互。LISA时空路径可以通过相对长度和弯曲度来计算。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 68)]]
+> 基于ESTDA模型，LISA时空路径将时间维度纳入LISA以实现动态交互。LISA时空路径可以通过相对长度和弯曲度来计算。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
 > Original: Based on the ESTDA model, the LISA time path incorporates the temporal dimension into the LISA to realize dynamic interaction. The LISA time path can be calculated by relative length and tortuosity.
 
 ---
@@ -52,14 +52,14 @@ updated: 2026-06-12T18:30:00
 ## 研究程序
 
 > [!abstract]
-> LISA 时空路径的计算建立在传统 LISA 分析之上，核[[Flow|心流]]程为：逐年 LISA 计算 → 提取 Moran 散点坐标轨迹 → 计算几何指标（RL、D、方向）。以下逐步展开。
+> LISA 时空路径的计算建立在传统 LISA 分析之上，核[[Flow\|心流]]程为：逐年 LISA 计算 → 提取 Moran 散点坐标轨迹 → 计算几何指标（RL、D、方向）。以下逐步展开。
 
 ### 第一步：空间权重矩阵的构建
 
 > [!info]
 > 空间权重矩阵 $\mathbf{W}$ 定义了 $n$ 个空间单元之间的"邻居关系"。常见构造方式：
 > - **地理距离倒数** $w_{ij} = 1/d_{ij}$（$i \neq j$），距离越近权重越大；$w_{ii} = 0$
-> - **经济-地理复合权重** $\theta_{ij} = NL_j \times 1/d_{ij}$（$i \neq j$），引入经济因子 $NL$ 修正地理距离的非对称性——经济强省对弱省的影响权重大于反向。Fan 等（2024）使用此构造，以地区 GDP 衡量 $NL$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 68)]]
+> - **经济-地理复合权重** $\theta_{ij} = NL_j \times 1/d_{ij}$（$i \neq j$），引入经济因子 $NL$ 修正地理距离的非对称性——经济强省对弱省的影响权重大于反向。Fan 等（2024）使用此构造，以地区 GDP 衡量 $NL$。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
 >
 > 权重矩阵需按行标准化（每行之和为 1），以确保空间滞后项的量纲一致。
 
@@ -68,7 +68,7 @@ updated: 2026-06-12T18:30:00
 ### 第二步：逐年 LISA 计算与 Moran 散点图坐标提取
 
 > [!line-a] LISA 统计量
-> 对每个年份 $t$，首先计算全局 Moran's I：$I_t = \dfrac{n}{\sum_i \sum_j w_{ij}} \dfrac{\sum_i \sum_j w_{ij}(x_{i,t} - \bar{x}_t)(x_{j,t} - \bar{x}_t)}{\sum_i (x_{i,t} - \bar{x}_t)^2}$。然后计算每个单元的局部 Moran's I（LISA）：$I_{i,t} = z_{i,t} \sum_j w_{ij} z_{j,t}$，其中 $z_{i,t} = (x_{i,t} - \bar{x}_t) / \sigma_t$ 为标准化值。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 68–69)]]
+> 对每个年份 $t$，首先计算全局 Moran's I：$I_t = \dfrac{n}{\sum_i \sum_j w_{ij}} \dfrac{\sum_i \sum_j w_{ij}(x_{i,t} - \bar{x}_t)(x_{j,t} - \bar{x}_t)}{\sum_i (x_{i,t} - \bar{x}_t)^2}$。然后计算每个单元的局部 Moran's I（LISA）：$I_{i,t} = z_{i,t} \sum_j w_{ij} z_{j,t}$，其中 $z_{i,t} = (x_{i,t} - \bar{x}_t) / \sigma_t$ 为标准化值。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 68–69)]]
 
 > [!line-b] Moran 散点图坐标
 > Moran 散点图以每个单元的标准化值 $z_{i,t}$ 为横轴、空间滞后 $\sum_j w_{ij} z_{j,t}$ 为纵轴。单元 $i$ 在第 $t$ 年的位置记为 $L_{i,t} = (z_{i,t}, \sum_j w_{ij} z_{j,t})$。根据 $(z, Wz)$ 的符号落入四个象限：
@@ -83,7 +83,7 @@ updated: 2026-06-12T18:30:00
 
 > [!line-a] 公式
 > $$RL_i = \dfrac{n \times \sum_{t=1}^{T-1} d(L_{i,t}, L_{i,t+1})}{\sum_{i=1}^{n} \sum_{t=1}^{T-1} d(L_{i,t}, L_{i,t+1})}$$
-> 其中 $d(L_{i,t}, L_{i,t+1}) = \sqrt{(z_{i,t+1} - z_{i,t})^2 + (Wz_{i,t+1} - Wz_{i,t})^2}$ 为单元 $i$ 在 Moran 散点图上连续两年位置之间的欧氏距离，$n$ 为空间单元数，$T$ 为年份数。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 68–69)]]
+> 其中 $d(L_{i,t}, L_{i,t+1}) = \sqrt{(z_{i,t+1} - z_{i,t})^2 + (Wz_{i,t+1} - Wz_{i,t})^2}$ 为单元 $i$ 在 Moran 散点图上连续两年位置之间的欧氏距离，$n$ 为空间单元数，$T$ 为年份数。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 68–69)]]
 
 > [!line-b] 含义
 > $RL_i$ 将每个单元的累计移动距离与全国平均水平比较。$RL_i = 1$ 表示该单元移动幅度等于全国均值；$RL_i > 1$ 表示比全国平均更"活跃"（空间关联类型变化大）；$RL_i < 1$ 表示更"稳定"（变化小）。$RL_i$ 捕捉的是"动了多少"的量级差异。
@@ -94,7 +94,7 @@ updated: 2026-06-12T18:30:00
 
 > [!line-a] 公式
 > $$D_i = \dfrac{\sum_{t=1}^{T-1} d(L_{i,t}, L_{i,t+1})}{d(L_{i,1}, L_{i,T})}$$
-> 分子为 22 年间的实际累计移动距离，分母为起点 $(z_{i,1}, Wz_{i,1})$ 到终点 $(z_{i,T}, Wz_{i,T})$ 的直线距离。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 69)]]
+> 分子为 22 年间的实际累计移动距离，分母为起点 $(z_{i,1}, Wz_{i,1})$ 到终点 $(z_{i,T}, Wz_{i,T})$ 的直线距离。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 69)]]
 
 > [!line-b] 含义
 > $D_i$ 衡量移动路径的"曲折程度"。$D_i \approx 1$ 表示路径近乎直线——方向高度一致（持续上升或持续下降）；$D_i \gg 1$ 表示路径大幅迂回——反复波动、方向不确定。结合 $RL_i$ 可区分四种典型模式：
@@ -111,7 +111,7 @@ updated: 2026-06-12T18:30:00
 ### 第五步：移动方向
 
 > [!line-a] 计算方式
-> 对每个单元计算起点到终点的向量 $\vec{v}_i = (z_{i,T} - z_{i,1}, Wz_{i,T} - Wz_{i,1})$，求其方向角 $\theta_i = \arctan2(\Delta Wz, \Delta z)$，$\theta_i \in [-180^\[[Cooperative Integrated Reading and Composition|CIRC]], 180^\circ]$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 72)]]
+> 对每个单元计算起点到终点的向量 $\vec{v}_i = (z_{i,T} - z_{i,1}, Wz_{i,T} - Wz_{i,1})$，求其方向角 $\theta_i = \arctan2(\Delta Wz, \Delta z)$，$\theta_i \in [-180^\[[Cooperative Integrated Reading and Composition\|CIRC]], 180^\circ]$。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 72)]]
 
 > [!line-b] 解读
 > - $0^\circ$–$90^\circ$：自身与邻居协同正向增长（双方均进步）
@@ -123,7 +123,7 @@ updated: 2026-06-12T18:30:00
 ## 资料与分析
 
 > [!info] 数据结构
-> 输入为面板数据，$n$ 个空间单元 $\times$ $T$ 个年份，含一个综合指标（如耦合协调度 $D$）和空间权重矩阵 $\mathbf{W}_{n \times n}$。权重矩阵的构造是决定 LISA 结果的"隐[[Variable|变量]]"——不同的距离度量和经济因子会导致不同的邻居定义和 LISA 坐标。
+> 输入为面板数据，$n$ 个空间单元 $\times$ $T$ 个年份，含一个综合指标（如耦合协调度 $D$）和空间权重矩阵 $\mathbf{W}_{n \times n}$。权重矩阵的构造是决定 LISA 结果的"隐[[Variable\|变量]]"——不同的距离度量和经济因子会导致不同的邻居定义和 LISA 坐标。
 
 > [!info] 软件实现
 

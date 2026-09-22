@@ -90,8 +90,8 @@ citation_aliases:
 
 > [!info]
 > - 类型：实践导向的框架开发报告，非学术实证研究
-> - 方法：基于 [[University Industry Demonstration Partnership|UIDP]] 项目工作组的集体经验和多次讨论（电话会议、邮件交流、面对面会议）；在 UIDP 成员社区的多次展示和反馈中迭代完善
-> - 起点：工作组成员 Wayne Johnson 此前对[[University-Industry Collaboration|产学合作]]形式的初步分类（Figure 1）提供了项目的出发点(p.4)
+> - 方法：基于 [[University Industry Demonstration Partnership\|UIDP]] 项目工作组的集体经验和多次讨论（电话会议、邮件交流、面对面会议）；在 UIDP 成员社区的多次展示和反馈中迭代完善
+> - 起点：工作组成员 Wayne Johnson 此前对[[University-Industry Collaboration\|产学合作]]形式的初步分类（Figure 1）提供了项目的出发点(p.4)
 > - 报告作者为 UIDP 项目工作组成员，代表产学双方的实践者视角
 
 > [!example]- 图1：Wayne Johnson 的产学合作形式初步分类
@@ -287,7 +287,7 @@ citation_aliases:
 经济发展领域的活动不仅涉及商学院或大学内的特定项目，还可能由一个作为大学外部实体而创建的研究基金会进行，或由一个大学与产业和其他区域利益方共同发起并以经济发展为重点的非营利区域实体进行(p.18)。
 
 > [!abstract] 核心观察
-> Partnership Continuum 在经济发展领域揭示了一个隐含逻辑：五个领域之间的**依赖性**。经济发展 Level 3（[[Innovation Park|研究园区]]、集群发展）无法在没有研究者互动领域的深度联合研究（领域二 Level 3）和学生导向参与领域的持续人才供给（领域一 Level 3）的情况下成功。它本质上不是"另一个独立的领域"，而是前面四个领域的区域层面投影(pp.18–19)。
+> Partnership Continuum 在经济发展领域揭示了一个隐含逻辑：五个领域之间的**依赖性**。经济发展 Level 3（[[Innovation Park\|研究园区]]、集群发展）无法在没有研究者互动领域的深度联合研究（领域二 Level 3）和学生导向参与领域的持续人才供给（领域一 Level 3）的情况下成功。它本质上不是"另一个独立的领域"，而是前面四个领域的区域层面投影(pp.18–19)。
 
 > [!example]- Table 5：经济发展（Economic Development, pp.18–19）
 > 

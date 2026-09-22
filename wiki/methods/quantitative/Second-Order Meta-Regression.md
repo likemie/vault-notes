@@ -66,16 +66,16 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 方法定义
-> [[Second-Order Meta-Regression|二阶元回归]]（Second-Order [[Meta-regression]]，亦称二阶调节分析或[[Meta-meta-analysis|二阶元分析]]元回归 SOMA Meta-Regression）是在[[Meta-meta-analysis|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）框架下，通过将宏观理论[[Construct|构念]]属性、研究设计类型、方法学质量及抽样精度等特征作为调节[[Variable|变量]]（Moderators），系统检验其对跨元分析汇总[[Effect Size|效应量]]变异解释力的多水平统计建模方法（Schmidt & Oh, 2013; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 5–6]]）。与一阶[[Meta-regression|元回归]]不同，二阶元回归必须在[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）与[[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE）三明治估计量之上运行，以克服跨元分析[[Document|文献]]重叠与多层集群依赖导致的自由度虚假膨胀与假阳性偏差。
+> [[Second-Order Meta-Regression\|二阶元回归]]（Second-Order [[Meta-regression]]，亦称二阶调节分析或[[Meta-meta-analysis\|二阶元分析]]元回归 SOMA Meta-Regression）是在[[Meta-meta-analysis\|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）框架下，通过将宏观理论[[Construct\|构念]]属性、研究设计类型、方法学质量及抽样精度等特征作为调节[[Variable\|变量]]（Moderators），系统检验其对跨元分析汇总[[Effect Size\|效应量]]变异解释力的多水平统计建模方法（Schmidt & Oh, 2013; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 5–6]]）。与一阶[[Meta-regression\|元回归]]不同，二阶元回归必须在[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）与[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation, RVE）三明治估计量之上运行，以克服跨元分析[[Document\|文献]]重叠与多层集群依赖导致的自由度虚假膨胀与假阳性偏差。
 
 > [!method-scope] 方法范围
-> - **研究对象** 嵌套于多个一阶元分析集群中的效应量矩阵及其关联的宏观[[Coding in Qualitative Research|编码]]协变量。
-> - **问题类型** 检验理论构念差异（如变量角色：[[Independent Variable|自变量]] vs [[Dependent Variable|结果变量]]）、研究设计特征（横断面 vs 纵向 vs 实验）、方法学质量等级（系统评价方法学质量评估工具 [[AMSTAR|A MeaSurement Tool to Assess systematic Reviews]], AMSTAR 高 vs 低）及[[Small Study Effects|小研究效应]]。
-> - **[[Unit of Analysis|分析单位]]** Level 1 [[Sampling Error|抽样误差]]、Level 2 一阶元分析内效应量构念、Level 3 一阶元分析集群。
-> - **输出形式** 经 RVE 稳健调整后的回归系数点估计 $\hat{\beta}_p$、稳健[[Standard Error|标准误]]、95% [[Confidence Interval|置信区间]]及基于 Hotelling $T^2$ 近似的宏观[[Interaction Effect|调节效应]] Wald $F$ 检验统计量与 $p$ 值。
+> - **研究对象** 嵌套于多个一阶元分析集群中的效应量矩阵及其关联的宏观[[Coding in Qualitative Research\|编码]]协变量。
+> - **问题类型** 检验理论构念差异（如变量角色：[[Independent Variable\|自变量]] vs [[Dependent Variable\|结果变量]]）、研究设计特征（横断面 vs 纵向 vs 实验）、方法学质量等级（系统评价方法学质量评估工具 [[AMSTAR\|A MeaSurement Tool to Assess systematic Reviews]], AMSTAR 高 vs 低）及[[Small Study Effects\|小研究效应]]。
+> - **[[Unit of Analysis\|分析单位]]** Level 1 [[Sampling Error\|抽样误差]]、Level 2 一阶元分析内效应量构念、Level 3 一阶元分析集群。
+> - **输出形式** 经 RVE 稳健调整后的回归系数点估计 $\hat{\beta}_p$、稳健[[Standard Error\|标准误]]、95% [[Confidence Interval\|置信区间]]及基于 Hotelling $T^2$ 近似的宏观[[Interaction Effect\|调节效应]] Wald $F$ 检验统计量与 $p$ 值。
 
 > [!citation-card]- 关键定义
-> 二阶元回归通过在多水平 CHE 与 RVE 框架下纳入多重调节变量，系统分解了全领域效应量的[[Heterogeneity|异质性]]来源，评估了构念类型、变量角色与研究设计对效应强度的调节作用。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 5–7)]]
+> 二阶元回归通过在多水平 CHE 与 RVE 框架下纳入多重调节变量，系统分解了全领域效应量的[[Heterogeneity\|异质性]]来源，评估了构念类型、变量角色与研究设计对效应强度的调节作用。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–7)]]
 >
 > *Second-order meta-regressions were conducted using correlated and hierarchical effects models combined with robust variance estimation to examine the moderating roles of theoretical constructs, study design, and methodological quality...*
 
@@ -83,10 +83,10 @@ updated: 2026-09-18
 
 ## 数学原理：一阶元回归 vs 二阶元回归
 
-> [!concept-lens] 底层数学同构：广义加权[[Ordinary Least Squares|最小二乘法]]（GLS）
-> 一阶[[Meta-regression|元回归]]与二阶元回归在底层参数点估计上具有完全相同的数学形式，均属于广义加权最小二乘线性模型：
+> [!concept-lens] 底层数学同构：广义加权[[Ordinary Least Squares\|最小二乘法]]（GLS）
+> 一阶[[Meta-regression\|元回归]]与二阶元回归在底层参数点估计上具有完全相同的数学形式，均属于广义加权最小二乘线性模型：
 > $$\hat{\boldsymbol{\beta}} = \left( \mathbf{X}^T \mathbf{W} \mathbf{X} \right)^{-1} \mathbf{X}^T \mathbf{W} \mathbf{y}$$
-> 两者的共同目标都是通过特征设计矩阵 $\mathbf{X}$ 解释[[Effect Size|效应量]]向量 $\mathbf{y}$ 的离散变异，并通过逆方差权重矩阵 $\mathbf{W}$ 赋予高精度观测点更大的统计权重。
+> 两者的共同目标都是通过特征设计矩阵 $\mathbf{X}$ 解释[[Effect Size\|效应量]]向量 $\mathbf{y}$ 的离散变异，并通过逆方差权重矩阵 $\mathbf{W}$ 赋予高精度观测点更大的统计权重。
 
 > [!contrast-table] 一阶元回归与二阶元回归的数学原理深度对比
 > | 比较维度 | 经典一阶元回归（[[Meta-regression]]） | 现代二阶元回归（[[Second-Order Meta-Regression]]） |
@@ -98,15 +98,15 @@ updated: 2026-09-18
 > | **小样本调节[[Hypothesis\|假设]]检验** | Knapp-Hartung 调整 $t$ 检验或标准 Wald $\chi^2$ 检验<br>（自由度直接基于研究总数 $k - p - 1$） | CR2 杠杆调整残差与 Hotelling $T^2$ 调整 $F$ 检验<br>$$\tilde{\mathbf{e}}_j = (\mathbf{I} - \mathbf{H}_j)^{-1/2} \mathbf{e}_j$$<br>基于 Satterthwaite 近似估计有效集群自由度 $\nu$ |
 
 > [!warning] 一阶元回归处理二阶数据时的“数学失效”机理
-> 若直接将一阶元回归套用于[[Meta-meta-analysis|二阶元分析]]数据，会触发两大致命的数学偏差：
-> 1. **独立性假设被[[Document|文献]]重叠撕裂** 真实协方差包含跨[[Meta-analysis|元分析]]重复引用引起的正协方差 $\sigma_{jk} > 0$。一阶理论方差 $(\mathbf{X}^T \mathbf{W} \mathbf{X})^{-1}$ 强行忽略正协方差交叉项，相当于把重复样本误当成全新的独立证据，导致计算出的标准误被人为大幅压缩，造成严重的假阳性偏差（把随机噪声误判为显著[[Interaction Effect|调节效应]]）；
-> 2. **多层变异维度的混淆** 一阶模型单一的 $\tau^2$ 无法解耦宏观元分析间[[Heterogeneity|异质性]]（$\tau_3^2$）与微观[[Construct|构念]]间异质性（$\tau_2^2$），导致调节[[Variable|变量]]的解释力归因不清。
+> 若直接将一阶元回归套用于[[Meta-meta-analysis\|二阶元分析]]数据，会触发两大致命的数学偏差：
+> 1. **独立性假设被[[Document\|文献]]重叠撕裂** 真实协方差包含跨[[Meta-analysis\|元分析]]重复引用引起的正协方差 $\sigma_{jk} > 0$。一阶理论方差 $(\mathbf{X}^T \mathbf{W} \mathbf{X})^{-1}$ 强行忽略正协方差交叉项，相当于把重复样本误当成全新的独立证据，导致计算出的标准误被人为大幅压缩，造成严重的假阳性偏差（把随机噪声误判为显著[[Interaction Effect\|调节效应]]）；
+> 2. **多层变异维度的混淆** 一阶模型单一的 $\tau^2$ 无法解耦宏观元分析间[[Heterogeneity\|异质性]]（$\tau_3^2$）与微观[[Construct\|构念]]间异质性（$\tau_2^2$），导致调节[[Variable\|变量]]的解释力归因不清。
 
 ---
 
 ## 核心统计模型与数学公式
 
-> [!formula-set] 二阶[[Meta-regression|元回归]]统计建模与[[Hypothesis|假设]]检验流程
+> [!formula-set] 二阶[[Meta-regression\|元回归]]统计建模与[[Hypothesis\|假设]]检验流程
 > ```mermaid
 > flowchart LR
 >   A["步骤 1：输入效应量矩阵<br/>(嵌套于一阶元分析集群)"] --> B["步骤 2：构建三水平元回归模型<br/>(纳入理论构念与设计协变量)"]
@@ -124,28 +124,28 @@ updated: 2026-09-18
 > $$z_{ij} = \beta_0 + \sum_{p=1}^P \beta_p X_{p,ij} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$
 > $$\zeta_{(3)j} \sim \mathcal{N}(0, \tau_3^2), \quad \zeta_{(2)ij} \sim \mathcal{N}(0, \tau_2^2), \quad \epsilon_{ij} \sim \mathcal{N}(0, V_{ij})$$
 >
-> **这个公式在做什么** 在三水平方差分解框架下，将第 $j$ 个一阶[[Meta-analysis|元分析]]中第 $i$ 个[[Effect Size|效应量]] $z_{ij}$ 对一组宏观特征调节[[Variable|变量]] $X_{1,ij}, \dots, X_{P,ij}$ 进行多水平加权回归分析。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 5–6)]]
+> **这个公式在做什么** 在三水平方差分解框架下，将第 $j$ 个一阶[[Meta-analysis\|元分析]]中第 $i$ 个[[Effect Size\|效应量]] $z_{ij}$ 对一组宏观特征调节[[Variable\|变量]] $X_{1,ij}, \dots, X_{P,ij}$ 进行多水平加权回归分析。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–6)]]
 >
 > **符号说明**
 > - $z_{ij}$：经过 Fisher's $z$ 变换的正态化一阶效应量；
 > - $\beta_0$：回归截距项（所有调节变量取基准值时的总体基准效应量）；
 > - $\beta_p$：第 $p$ 个调节变量的二阶元回归斜率系数；
-> - $X_{p,ij}$：第 $j$ 个元分析内第 $i$ 个效应量的第 $p$ 个[[Coding in Qualitative Research|编码]]特征（如[[Construct|构念]]分类哑变量、研究设计类型、质量达标指标）；
+> - $X_{p,ij}$：第 $j$ 个元分析内第 $i$ 个效应量的第 $p$ 个[[Coding in Qualitative Research\|编码]]特征（如[[Construct\|构念]]分类哑变量、研究设计类型、质量达标指标）；
 > - $\zeta_{(3)j}$：一阶元分析集群间随机截距残差（Level 3）；
 > - $\zeta_{(2)ij}$：元分析集群内部效应量构念间随机截距残差（Level 2）；
-> - $\epsilon_{ij}$：已知的主要研究[[Random Sampling|随机抽样]]误差（Level 1）。
+> - $\epsilon_{ij}$：已知的主要研究[[Random Sampling\|随机抽样]]误差（Level 1）。
 
 ---
 
 ### 2. 稳健方差估计与参数检验
 
-> [!formula-step] 公式步骤　GLS 估计与 [[Robust Variance Estimation|RVE]] 协方差矩阵
+> [!formula-step] 公式步骤　GLS 估计与 [[Robust Variance Estimation\|RVE]] 协方差矩阵
 > $$\hat{\boldsymbol{\beta}} = \left( \mathbf{X}^T \mathbf{W} \mathbf{X} \right)^{-1} \mathbf{X}^T \mathbf{W} \mathbf{y}$$
 > $$\mathbf{V}_{\text{RVE}} = \left( \mathbf{X}^T \mathbf{W} \mathbf{X} \right)^{-1} \left( \sum_{j=1}^J \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j \right) \left( \mathbf{X}^T \mathbf{W} \mathbf{X} \right)^{-1}$$
 >
 > **数学原理与推导**
-> 1. **GLS 点估计** 权重矩阵 $\mathbf{W}$ 为根据 [[Correlated and Hierarchical Effects Model|CHE]] 模型分解方差（$\tau_3^2, \tau_2^2$）与设定的先验相关常数（$\rho = 0.8$）构建的块对角矩阵；
-> 2. **三明治协方差校正** 通过集群经验残差外积 $\sum \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j$，RVE 自动修正了一阶元分析间因[[Document|文献]]重叠或工作模型设定误差带来的方差畸变，确保回归系数 $\hat{\beta}_p$ 的[[Standard Error|标准误]]渐近无偏。
+> 1. **GLS 点估计** 权重矩阵 $\mathbf{W}$ 为根据 [[Correlated and Hierarchical Effects Model\|CHE]] 模型分解方差（$\tau_3^2, \tau_2^2$）与设定的先验相关常数（$\rho = 0.8$）构建的块对角矩阵；
+> 2. **三明治协方差校正** 通过集群经验残差外积 $\sum \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j$，RVE 自动修正了一阶元分析间因[[Document\|文献]]重叠或工作模型设定误差带来的方差畸变，确保回归系数 $\hat{\beta}_p$ 的[[Standard Error\|标准误]]渐近无偏。
 
 ---
 
@@ -165,7 +165,7 @@ updated: 2026-09-18
 
 ## 软件实现与代码规程
 
-> [!software-impl] R 语言环境（metafor 与 clubSandwich）实现二阶[[Meta-regression|元回归]]
+> [!software-impl] R 语言环境（metafor 与 clubSandwich）实现二阶[[Meta-regression\|元回归]]
 > ```R
 > library(metafor)
 > library(clubSandwich)
@@ -198,11 +198,11 @@ updated: 2026-09-18
 ## 适用场景与局限性
 
 > [!method-fit] 适用判断
-> - **强烈推荐** [[Meta-meta-analysis|二阶元分析]]项目中存在显著[[Heterogeneity|异质性]]（$I^2 > 50\%$），需要系统比较不同[[Construct|构念]]流派、研究设计或方法学质量的[[Interaction Effect|调节效应]]时；
-> - **偏倚控制** 强烈建议将抽样[[Standard Error|标准误]] $\text{SE}$ 作为协[[Variable|变量]]纳入模型，以实现控制小研究偏倚下的条件[[Effect Size|效应量]]估计。
+> - **强烈推荐** [[Meta-meta-analysis\|二阶元分析]]项目中存在显著[[Heterogeneity\|异质性]]（$I^2 > 50\%$），需要系统比较不同[[Construct\|构念]]流派、研究设计或方法学质量的[[Interaction Effect\|调节效应]]时；
+> - **偏倚控制** 强烈建议将抽样[[Standard Error\|标准误]] $\text{SE}$ 作为协[[Variable\|变量]]纳入模型，以实现控制小研究偏倚下的条件[[Effect Size\|效应量]]估计。
 
 > [!method-limits] 方法局限
-> - **[[Ecological Fallacy|生态谬误]]风险（Ecological Fallacy）** 二阶[[Meta-regression|元回归]]分析的是一阶[[Meta-analysis|元分析]]水平的汇总特征，不能直接推断微观个体层面的心理或教学因果机制；
+> - **[[Ecological Fallacy\|生态谬误]]风险（Ecological Fallacy）** 二阶[[Meta-regression\|元回归]]分析的是一阶[[Meta-analysis\|元分析]]水平的汇总特征，不能直接推断微观个体层面的心理或教学因果机制；
 > - **多重共线性与自由度受限** 当纳入的一阶元分析数量有限（$<30$）且调节变量较多时，有效自由度较低可能削弱统计检验功效。
 
 ---

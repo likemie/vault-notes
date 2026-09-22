@@ -40,12 +40,12 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 封面信（Covering Letter）
-> 封面信是伴随[[Questionnaire|问卷]]寄送的说明信件，其目的是说明[[Research Purpose|研究目的]]、传达研究重要性、保证保密性并鼓励受访者回复。封面信是邮寄问卷调查中影响回应率的关键因素之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 170–173]]）。
+> 封面信是伴随[[Questionnaire\|问卷]]寄送的说明信件，其目的是说明[[Research Purpose\|研究目的]]、传达研究重要性、保证保密性并鼓励受访者回复。封面信是邮寄问卷调查中影响回应率的关键因素之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 170–173]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 封面信是研究者与潜在受访者之间的第一次正式接触，它设定了研究的基调、传达了专业性和伦理承诺。
 > - **用途** 封面信的主要功能是说服受访者参与——通过建立信任、说明研究价值、提供参与便利和保证伦理保护。
-> - **边界** 封面信不是问卷的一部分——它是一封独立的沟通函。封面信也不等同于[[Informed Consent|知情同意书]]——虽然它包含同意要素，但其主要目标是鼓励参与而非仅获取同意。
+> - **边界** 封面信不是问卷的一部分——它是一封独立的沟通函。封面信也不等同于[[Informed Consent\|知情同意书]]——虽然它包含同意要素，但其主要目标是鼓励参与而非仅获取同意。
 
 ---
 
@@ -54,11 +54,11 @@ updated: 2026-09-17
 > [!feature] 封面信应包含的十四项内容
 > - **研究标题**
 > - **研究者介绍** 姓名、地址、机构、联系方式，邀请随时联系获取进一步说明
-> - **[[Research Purpose|研究目的]]**
+> - **[[Research Purpose\|研究目的]]**
 > - **研究的重要性和益处**
 > - **为何该受访者被选中**
 > - **专业背书、认可或赞助** 使用Logo有帮助
-> - **如何寄回[[Questionnaire|问卷]]** 附回邮信封或指明收集方式
+> - **如何寄回[[Questionnaire\|问卷]]** 附回邮信封或指明收集方式
 > - **寄回地址**
 > - **如有疑问怎么办**
 > - **寄回截止日期**
@@ -70,7 +70,7 @@ updated: 2026-09-17
 > [!tip] 封面信写作建议
 > - 尽可能个性化——使用确切姓名而非"Dear colleague"（Verma and Mallick, 1999, p. 122）
 > - 不超过一页——短封面信最有效
-> - [[Pilot Testing|预调查]]信件（提前告知即将到达的问卷）对回应率有实质性影响
+> - [[Pilot Testing\|预调查]]信件（提前告知即将到达的问卷）对回应率有实质性影响
 > - 名人签名、利他主义呼吁和手写附言对回应水平没有影响
 > - 诉求必须针对特定受众定制——针对教师的调查应强调该研究对教师职业整体的重要性
 
@@ -91,5 +91,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 详细列出封面信的十四项必要内容和跟进信的[[Recommendations for Practice|实践建议]]。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 详细列出封面信的十四项必要内容和跟进信的[[Recommendations for Practice\|实践建议]]。

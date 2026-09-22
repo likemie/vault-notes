@@ -110,5 +110,5 @@ updated: 2026-05-27
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]] — 对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的[[University-Industry Collaboration|产学参与]]中心网页进行系统[[Content Analysis|内容分析]]，按组织模式分类并评估各办公室在八项产学活动中的权限等级，以研究大学如何组织其产学参与（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.56–63]]）。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]] — 对 65 所 [[University Industry Demonstration Partnership\|UIDP]] 成员大学的[[University-Industry Collaboration\|产学参与]]中心网页进行系统[[Content Analysis\|内容分析]]，按组织模式分类并评估各办公室在八项产学活动中的权限等级，以研究大学如何组织其产学参与（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, pp.56–63]]）。
 

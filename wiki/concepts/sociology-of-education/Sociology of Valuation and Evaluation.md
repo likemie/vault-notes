@@ -45,7 +45,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> 评估与赋值社会学（Sociology of Valuation and Evaluation）是由 Lamont（2012）在 Annual Review of Sociology 中概括的一个比较研究领域。它关注评估（evaluation）、量化绩效测量（quantitative performance measures）和序数排名（ordinal rankings）如何塑造个体和机构的社会地位——以及这些评价工具本身的建构、使用和社会效应([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.798]])。
+> 评估与赋值社会学（Sociology of Valuation and Evaluation）是由 Lamont（2012）在 Annual Review of Sociology 中概括的一个比较研究领域。它关注评估（evaluation）、量化绩效测量（quantitative performance measures）和序数排名（ordinal rankings）如何塑造个体和机构的社会地位——以及这些评价工具本身的建构、使用和社会效应([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.798]])。
 
 在 Schulze-Cleven et al.（2017）对高等教育新政治经济学的分析中，这一研究领域被定位为揭示话语竞争过程的"第二条探究线索"——与微观社会学实践理论（Latour, Foucault）互补。它帮助研究者理解：排名和评估不仅"反映"学术质量，更在"制造"它们所测量的现象（pp.798–799）。
 
@@ -54,12 +54,12 @@ updated: 2026-09-11
 > [!example]
 > - vs [[Performativity of Measurement]]：测量的履行性关注指标如何改变被测量者的行为——一个更具体的因果机制。评估与赋值社会学关注更广泛的制度和文化过程——评估工具如何建立信任、制造合法性和塑造公平标准。
 > - vs [[Cultural Political Economy]]：CPE 关注符号与物质在宏观经济政治秩序中的相互构成；评估与赋值社会学更聚焦于中观层面的评价工具和评价实践的社会效应。
-> - vs 批判[[Discourse Analysis|话语分析]]：两者都关注评价话语的建构性，但评估与赋值社会学更注重经验性的比较研究（如 Lamont 2009 对同行评审中学科特定公平标准的跨国比较），而非哲学性的解构。
+> - vs 批判[[Discourse Analysis\|话语分析]]：两者都关注评价话语的建构性，但评估与赋值社会学更注重经验性的比较研究（如 Lamont 2009 对同行评审中学科特定公平标准的跨国比较），而非哲学性的解构。
 
 ## 核心发现
 
 > [!abstract]
-> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.798–799)]]概括了该领域的几项核心发现：
+> [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp.798–799)]]概括了该领域的几项核心发现：
 
 ### 评估工具的负面效应
 
@@ -78,15 +78,15 @@ updated: 2026-09-11
 ## 在高等教育新政治经济学中的位置
 
 > [!note]-
-> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]将评估与赋值社会学置于其多维分析策略的一个关键交叉点上（pp.798–799, 801–802, 807–809）：
+> [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]]将评估与赋值社会学置于其多维分析策略的一个关键交叉点上（pp.798–799, 801–802, 807–809）：
 >
-> - **连接分配冲突与[[Discursive Stratification|话语分层]]** 评估工具（排名、[[Research Excellence Framework|REF]]、影响因子）同时运作在物质维度（决定拨款的分配）和符号维度（定义什么是"卓越"）——评估与赋值社会学提供了同时追踪这两个维度的分析工具
+> - **连接分配冲突与[[Discursive Stratification\|话语分层]]** 评估工具（排名、[[Research Excellence Framework\|REF]]、影响因子）同时运作在物质维度（决定拨款的分配）和符号维度（定义什么是"卓越"）——评估与赋值社会学提供了同时追踪这两个维度的分析工具
 > - **揭示准市场的运作逻辑** 高等教育中的 准市场 正是通过评估工具来实现的——标准化产出指标 → 指标与拨款挂钩 → 制度化马太效应。评估与赋值社会学为理解这一链条中的每一环提供了经验研究基础
-> - **为三种理论路径提供经验锚点** 制度分析可以用它来比较不同国家的评估制度差异；阶级分析可以用它来追踪评估如何将文化优势转化为学术功绩；[[Discourse Analysis|话语分析]]可以用它来揭示评估标准的建构性和争议性
+> - **为三种理论路径提供经验锚点** 制度分析可以用它来比较不同国家的评估制度差异；阶级分析可以用它来追踪评估如何将文化优势转化为学术功绩；[[Discourse Analysis\|话语分析]]可以用它来揭示评估标准的建构性和争议性
 
 ## 争议与批评
 
 > [!warning]
-> - **"评估必要论"的风险** 评估与赋值社会学在揭示评估工具的负面效应的同时，也面临一个微妙的风险——在分析评估工具如何"成功"制造合法性和信任时，可能隐性地接受评估的必要性。Reitz从功能主义角度论证学术评估对[[Knowledge Capitalism|知识资本主义]]是功能必要的——这一立场与评估社会学内部的批评性立场存在张力（pp.804–805, 809）
-> - **理论综合不足**虽然 Espeland & Sauder（2007）的"排名的履行性与反应性"分析和 Münch 的"学术卓越的社会建构"研究推动了实践理论和[[Post-structuralism|后结构主义]]在评估社会学中的运用，但"需要更多的理论综合来有效探索学术绩效测量和评估的起源与功能"（p.798）
+> - **"评估必要论"的风险** 评估与赋值社会学在揭示评估工具的负面效应的同时，也面临一个微妙的风险——在分析评估工具如何"成功"制造合法性和信任时，可能隐性地接受评估的必要性。Reitz从功能主义角度论证学术评估对[[Knowledge Capitalism\|知识资本主义]]是功能必要的——这一立场与评估社会学内部的批评性立场存在张力（pp.804–805, 809）
+> - **理论综合不足**虽然 Espeland & Sauder（2007）的"排名的履行性与反应性"分析和 Münch 的"学术卓越的社会建构"研究推动了实践理论和[[Post-structuralism\|后结构主义]]在评估社会学中的运用，但"需要更多的理论综合来有效探索学术绩效测量和评估的起源与功能"（p.798）
 

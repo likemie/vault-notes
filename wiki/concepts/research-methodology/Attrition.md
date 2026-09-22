@@ -84,38 +84,38 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 概念定义
-> **实验流失（Attrition / Experimental Mortality）**，亦称**样本流失**或**受试脱落**，是指在教育实验或纵向[[Cohort Study|追踪研究]]进行期间，部分参与者因转学、缺勤、失去动机、主动放弃或行政失联等原因中途退出，导致最终进入数据分析的样本（Analytic Sample）不再等同于初始[[Random Assignment|随机分配]]样本的现象([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 333–334]]; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 1327]])。
+> **实验流失（Attrition / Experimental Mortality）**，亦称**样本流失**或**受试脱落**，是指在教育实验或纵向[[Cohort Study\|追踪研究]]进行期间，部分参与者因转学、缺勤、失去动机、主动放弃或行政失联等原因中途退出，导致最终进入数据分析的样本（Analytic Sample）不再等同于初始[[Random Assignment\|随机分配]]样本的现象([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 333–334]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
 >
-> 流失的核心破坏力在于：**退出极少是随机发生的**。脱落者与留守者通常在学业基础、家庭支持与动机水平上存在系统性差异，从而破坏了随机分配（Random Assignment）所建立的组间同质性，使原本严密的[[Randomised Controlled Trials|随机对照试验]]（RCT）退化为带有自选择偏误的[[Quasi-Experimental Designs|准实验设计]]。在美国教育部 [[What Works Clearinghouse|WWC]] 审查体系中，流失通过**整体流失率（Overall Attrition）**与**差异流失率（Differential Attrition）**构建二维边界模型进行刚性因果门控审查([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
+> 流失的核心破坏力在于：**退出极少是随机发生的**。脱落者与留守者通常在学业基础、家庭支持与动机水平上存在系统性差异，从而破坏了随机分配（Random Assignment）所建立的组间同质性，使原本严密的[[Randomised Controlled Trials\|随机对照试验]]（RCT）退化为带有自选择偏误的[[Quasi-Experimental Designs\|准实验设计]]。在美国教育部 [[What Works Clearinghouse\|WWC]] 审查体系中，流失通过**整体流失率（Overall Attrition）**与**差异流失率（Differential Attrition）**构建二维边界模型进行刚性因果门控审查([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 
 > [!concept-lens] 效度视角与方法学定位
-> - **[[Internal Validity|内部效度]]的核心威胁** 流失不仅使[[Sample Size Determination|样本量]]缩小，更直接动摇了内部效度（Internal Validity）。两组在实验结束后的表现差异，可能完全源于“谁留下来了”而非“干预是否有效”。
-> - **与[[External Validity|外部效度]]的张力** 即使采用统计手段维持了内部效度，严重的流失也意味着干预结论只能外推至“有能力坚持完成干预的特定子群体”，从而损害了生态推广的外部效度（External Validity）。
+> - **[[Internal Validity\|内部效度]]的核心威胁** 流失不仅使[[Sample Size Determination\|样本量]]缩小，更直接动摇了内部效度（Internal Validity）。两组在实验结束后的表现差异，可能完全源于“谁留下来了”而非“干预是否有效”。
+> - **与[[External Validity\|外部效度]]的张力** 即使采用统计手段维持了内部效度，严重的流失也意味着干预结论只能外推至“有能力坚持完成干预的特定子群体”，从而损害了生态推广的外部效度（External Validity）。
 > - **真实验向准实验的滑坡点** 一旦 RCT 发生高流失，该研究即刻丧失“无保留达标（Meets Standards Without Reservations）”的顶级资格，必须强制通过基线等值性重新核查方能获得降级达标。
 
-> [!citation-card] 实验死亡率对组别成分与因果[[Effect Size|效应量]]的扭曲
-> 实验死亡率（Experimental Mortality）不仅是样本量的缩减，它从根本上重构了组别成分。如果退出者与保留者存在系统性特征差异，仅分析留守样本（Completers-Only）将产生灾难性的流失偏差，完全扭曲真实的因果[[Effect Size|效应量]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, p. 333)]]
+> [!citation-card] 实验死亡率对组别成分与因果[[Effect Size\|效应量]]的扭曲
+> 实验死亡率（Experimental Mortality）不仅是样本量的缩减，它从根本上重构了组别成分。如果退出者与保留者存在系统性特征差异，仅分析留守样本（Completers-Only）将产生灾难性的流失偏差，完全扭曲真实的因果[[Effect Size\|效应量]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, p. 333)]]
 >
 > *Attrition threatens internal validity because individuals who drop out are often systematically different from those who remain. When dropout rates differ between treatment and control groups, randomization is compromised, requiring rigorous attrition modeling or intention-to-treat adjustments.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Academic Attrition|学业流失]] / 学生流失 本概念专指实证研究与追踪调查中样本被试中途脱落导致的方法学[[Threats to Internal Validity|内部效度威胁]]；学业流失（Academic Attrition / Student Attrition）则指在校学生因学业失败、制度性惩戒排斥或经济压力脱离学校教育系统的实质性教育社会学与政策现象。
-> - 不等于 [[Sampling Error|抽样误差]] 抽样误差源自[[Random Sampling|随机抽样]]产生的偶然统计波动，而流失偏差源自被试非随机退出导致的系统性效度偏误。
+> - 不等于 [[Academic Attrition\|学业流失]] / 学生流失 本概念专指实证研究与追踪调查中样本被试中途脱落导致的方法学[[Threats to Internal Validity\|内部效度威胁]]；学业流失（Academic Attrition / Student Attrition）则指在校学生因学业失败、制度性惩戒排斥或经济压力脱离学校教育系统的实质性教育社会学与政策现象。
+> - 不等于 [[Sampling Error\|抽样误差]] 抽样误差源自[[Random Sampling\|随机抽样]]产生的偶然统计波动，而流失偏差源自被试非随机退出导致的系统性效度偏误。
 
 ---
 
 ## 核心机制与理论模型
 
-> [!mechanism] 流失破坏[[Causality|因果推断]]的三大微观机制
+> [!mechanism] 流失破坏[[Causality\|因果推断]]的三大微观机制
 > 1. **脱落者的系统性非随机特征（Non-Random Dropout）** 脱落者通常具有特定的人口学与学业特征（如低收入家庭搬迁频率更高、学业困难生更容易产生挫败感而退出）。排除这部分学生会直接人工拔高留守组的平均成绩。
-> 2. **组间非对称/差异流失（Differential Attrition）** 干预组因任务繁重、教学进度快或体验不佳导致高流失，而对照组维持常规[[Business as Usual|照常教学]]（BAU）流失率极低；两组在[[Pre-test and Post-test|后测]]时的背景失衡直接伪造了虚假[[Effect Size|效应量]]。
+> 2. **组间非对称/差异流失（Differential Attrition）** 干预组因任务繁重、教学进度快或体验不佳导致高流失，而对照组维持常规[[Business as Usual\|照常教学]]（BAU）流失率极低；两组在[[Pre-test and Post-test\|后测]]时的背景失衡直接伪造了虚假[[Effect Size\|效应量]]。
 > 3. **完工者分析（Completers-Only）的效应量扭曲** 若直接剔除脱落者仅分析坚持到底的学生（Per-Protocol 分析），当脱落者为学困生时效应量被**系统性高估**；当干预过于有效导致轻症学生提前“康复/脱落”时效应量被**系统性低估**。
 
 ---
 
 ### WWC 流失边界模型与潜在偏误度量
 
-> [!formula-step] [[What Works Clearinghouse|WWC]] 整体与差异流失二维判定模型
+> [!formula-step] [[What Works Clearinghouse\|WWC]] 整体与差异流失二维判定模型
 > WWC 建立了基于最大潜在因果偏误不超过 **$0.05\text{ SD}$** 的数学边界模型：
 >
 > 1. **整体流失率（Overall Attrition Rate, $A_{\text{overall}}$）**
@@ -128,7 +128,7 @@ ight|$$
 > 3. **宽容边界（Liberal Boundary）vs 保守边界（Conservative Boundary）**
 >    - **宽容边界（Liberal Curve）** 假定流失主要由与干预内容无关的外生因素（如学区自然家庭搬迁）引起；允许较高的临界差异流失率；
 >    - **保守边界（Conservative Curve）** 假定流失可能直接由干预本身的不良体验、繁重负担或学生抵触引起；对差异流失率设定极其严苛的上限。
->    - **裁定分流规则** 处于边界之下的研究被判定为**低流失 [[Randomised Controlled Trials|RCT]]（Low Attrition）**直接维持一级无保留达标；跨越边界的研究被判定为**高流失 RCT（High Attrition）**，必须重新核验分析样本在基线前测上的等值性（[[Baseline Standardized Mean Difference|Baseline Equivalence]]）。
+>    - **裁定分流规则** 处于边界之下的研究被判定为**低流失 [[Randomised Controlled Trials\|RCT]]（Low Attrition）**直接维持一级无保留达标；跨越边界的研究被判定为**高流失 RCT（High Attrition）**，必须重新核验分析样本在基线前测上的等值性（[[Baseline Standardized Mean Difference\|Baseline Equivalence]]）。
 
 ---
 
@@ -159,24 +159,24 @@ ight|$$
 ## 概念边界与常见误区
 
 > [!boundary] 概念辨析与适用边界
-> - **流失（Attrition） vs 排除偏差（Exclusion Bias）** 流失是指参与者已经入组并启动实验，但在中途退出或[[Pre-test and Post-test|后测]]失联；排除偏差是指研究者在[[Random Assignment|随机化]]分配前依据既定准入标准（如智商低于特定值）系统排除特定对象。
-> - **流失偏差 vs 小样本[[Sampling Error|抽样误差]]（Sampling Error）** 小样本导致的偶然不平衡可通过事后[[Covariate Adjustment|协变量控制]]缓解，且样本属性未变；流失是在时间维度上动态改变了受试者总体的概率分布结构。
-> - **[[Cross-sectional Study|横截面调查]]（Cross-sectional）不存在实验流失** 流失是纵向时间序列[[Cohort Study|追踪研究]]和干[[Pilot Testing|预实验]]特有的威胁；单次横截面[[Questionnaire|问卷]]中只存在**无[[Response Bias|应答偏差]]（Non-response Bias）**。
+> - **流失（Attrition） vs 排除偏差（Exclusion Bias）** 流失是指参与者已经入组并启动实验，但在中途退出或[[Pre-test and Post-test\|后测]]失联；排除偏差是指研究者在[[Random Assignment\|随机化]]分配前依据既定准入标准（如智商低于特定值）系统排除特定对象。
+> - **流失偏差 vs 小样本[[Sampling Error\|抽样误差]]（Sampling Error）** 小样本导致的偶然不平衡可通过事后[[Covariate Adjustment\|协变量控制]]缓解，且样本属性未变；流失是在时间维度上动态改变了受试者总体的概率分布结构。
+> - **[[Cross-sectional Study\|横截面调查]]（Cross-sectional）不存在实验流失** 流失是纵向时间序列[[Cohort Study\|追踪研究]]和干[[Pilot Testing\|预实验]]特有的威胁；单次横截面[[Questionnaire\|问卷]]中只存在**无[[Response Bias\|应答偏差]]（Non-response Bias）**。
 
 ---
 
 ## 典型应用与反思案例
 
-> [!case] 周六早间数学加强班的自选择流失（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]; Torgerson, 2003）
-> 一项针对初中数学困难生的自愿周六补习 [[Randomised Controlled Trials|RCT]] 实验中：
-> - **初始设计** 200 名学生[[Random Assignment|随机分配]]至补习组（100 人）与对照组（100 人），基线成绩完全等价。
+> [!case] 周六早间数学加强班的自选择流失（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]; Torgerson, 2003）
+> 一项针对初中数学困难生的自愿周六补习 [[Randomised Controlled Trials\|RCT]] 实验中：
+> - **初始设计** 200 名学生[[Random Assignment\|随机分配]]至补习组（100 人）与对照组（100 人），基线成绩完全等价。
 > - **流失过程** 补习组因要求周六早起上课，数周内 30 名学习动机最低、家庭支持最弱的学生相继脱落；对照组学生因无需额外付出，仅自然流失 2 人。
-> - **偏差结果** 若仅分析补习组剩余 70 名“勤奋好学”的留守学生，[[Pre-test and Post-test|后测]]平均分显著超越对照组；但这一显著优势完全是由差异流失造成的自选择伪效应，采用 [[Initial Teacher Training|ITT]] 分析后[[Effect Size|效应量]]即刻归零。
+> - **偏差结果** 若仅分析补习组剩余 70 名“勤奋好学”的留守学生，[[Pre-test and Post-test\|后测]]平均分显著超越对照组；但这一显著优势完全是由差异流失造成的自选择伪效应，采用 [[Initial Teacher Training\|ITT]] 分析后[[Effect Size\|效应量]]即刻归零。
 
 > [!case] 宏观综合学生支持中的人口流动 vs 政策倦怠脱落
 > 在全美大型防辍干预项目（如 [[Success for All]]、[[Communities in Schools]]）的多年期评估中：
-> - 贫困学区每年面临高达 20%–40% 的自然家庭搬迁流动（符合 [[What Works Clearinghouse|WWC]] 宽容边界[[Hypothesis|假设]]）；
-> - 若某一实验校因实施过严导致学生主动转学逃避（符合保守边界假设），研究者必须区分两类流失的微观机理，否则无法向清算中心合理解释[[Internal Validity|内部效度]]。
+> - 贫困学区每年面临高达 20%–40% 的自然家庭搬迁流动（符合 [[What Works Clearinghouse\|WWC]] 宽容边界[[Hypothesis\|假设]]）；
+> - 若某一实验校因实施过严导致学生主动转学逃避（符合保守边界假设），研究者必须区分两类流失的微观机理，否则无法向清算中心合理解释[[Internal Validity\|内部效度]]。
 
 ---
 

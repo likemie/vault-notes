@@ -40,7 +40,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 抽样框指向总体参数的操作性界定——不是"所有学生"，而是"某市三所中学 2024 年在籍的全部 13 岁学生"。
-> - **用途** 为抽样提供可执行的名单或范围，使[[Random Sampling|概率抽样]]成为可能；帮助读者判断研究结果的推广边界。
+> - **用途** 为抽样提供可执行的名单或范围，使[[Random Sampling\|概率抽样]]成为可能；帮助读者判断研究结果的推广边界。
 > - **边界** 抽样框不等于总体本身——它是总体的操作性近似。抽样框总是不完美的：名单可能过时、不完整，或系统性遗漏某些子群。
 
 > [!citation-card]- 关键表述
@@ -76,12 +76,12 @@ updated: 2026-09-17
 > [!claim] 抽样框错误导致代表性灾难
 > 某全国性报纸报道"每两人中就有一人患背痛"，但研究的四个参数——气候（潮湿地区）、年龄（老龄人口比例过高）、职业（重工业区）、报告发生率（仅使用两名对背痛患者过度同情的医生的记录）——均对结果产生了不成比例的影响。这个抽样框完全不能代表一般人群（pp.152–153）。
 
-> [!claim] 抽样框的完整性决定[[Random Sampling|概率抽样]]的可行性
-> [[Random Sampling|简单随机抽样]]要求完整的总体名单，而[[Systematic Sampling|系统抽样]]和[[Stratified Sampling|分层抽样]]同样依赖抽样框的质量。若抽样框不可得或不完整，概率抽样的前提就不成立——这在实际研究中极为常见。
+> [!claim] 抽样框的完整性决定[[Random Sampling\|概率抽样]]的可行性
+> [[Random Sampling\|简单随机抽样]]要求完整的总体名单，而[[Systematic Sampling\|系统抽样]]和[[Stratified Sampling\|分层抽样]]同样依赖抽样框的质量。若抽样框不可得或不完整，概率抽样的前提就不成立——这在实际研究中极为常见。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 以背痛研究为例说明抽样框错误如何导致无代表性结论。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 以背痛研究为例说明抽样框错误如何导致无代表性结论。

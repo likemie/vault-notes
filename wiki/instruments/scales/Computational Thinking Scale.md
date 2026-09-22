@@ -63,16 +63,16 @@ updated: 2026-08-25
 ## 工具定位
 
 > [!instrument-profile] [[Computational Thinking]] Scale
-> - **工具类型** 29 题 5 点李克特自陈式心理[[Scale of Measurement|测量量表]]（Self-Report Psychometric Scale）。
+> - **工具类型** 29 题 5 点李克特自陈式心理[[Scale of Measurement\|测量量表]]（Self-Report Psychometric Scale）。
 > - **开发者与年份** Korkmaz, Çakır, & Özden (2017)。
-> - **测量目的** 用于在基础教育与高等教育阶段，评估学生在程序设计、人工智能学习与跨学科探究中的[[Computational Thinking|计算思维]]倾向与[[Problem Solving|问题解决能力]]。
-> - **实施方式** 纸笔或在线[[Questionnaire|问卷]]自陈施测，作答耗时约 10–15 分钟。
+> - **测量目的** 用于在基础教育与高等教育阶段，评估学生在程序设计、人工智能学习与跨学科探究中的[[Computational Thinking\|计算思维]]倾向与[[Problem Solving\|问题解决能力]]。
+> - **实施方式** 纸笔或在线[[Questionnaire\|问卷]]自陈施测，作答耗时约 10–15 分钟。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Computational Thinking|计算思维]]（Computational Thinking）
+> [!construct-table] [[Computational Thinking\|计算思维]]（Computational Thinking）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -88,9 +88,9 @@ updated: 2026-08-25
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 5 点[[Likert Scale|李克特量表]]（1 = 完全不符合我，5 = 完全符合我）。
-> - **反向计分** [[Problem Solving|问题解决]]维度中包含 6 道反向题项（如“当我遇到复杂的编程错误时，我会感到不知所措并放弃”），计分时需进行反向转换。
-> - **测量属性** 原始开发样本总量表[[Internal Consistency|内部一致性]]系数达 Cronbach's $\alpha = .86$；探索性与[[Confirmatory Factor Analysis|验证性因子分析]]证实五因子结构具备优秀的拟合优度与[[Construct Validity|构念效度]]（Korkmaz et al., 2017）。
+> - **题项形式** 5 点[[Likert Scale\|李克特量表]]（1 = 完全不符合我，5 = 完全符合我）。
+> - **反向计分** [[Problem Solving\|问题解决]]维度中包含 6 道反向题项（如“当我遇到复杂的编程错误时，我会感到不知所措并放弃”），计分时需进行反向转换。
+> - **测量属性** 原始开发样本总量表[[Internal Consistency\|内部一致性]]系数达 Cronbach's $\alpha = .86$；探索性与[[Confirmatory Factor Analysis\|验证性因子分析]]证实五因子结构具备优秀的拟合优度与[[Construct Validity\|构念效度]]（Korkmaz et al., 2017）。
 
 ---
 

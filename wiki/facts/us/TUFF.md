@@ -45,7 +45,7 @@ updated: 2026-05-28
 ## 内容
 
 > [!info]
-> 大学融资基金会（The University Financing Foundation, TUFF）是 1982 年在佐治亚州亚特兰大成立的 501(c)(3) 运营基金会，由佐治亚理工学院（Georgia Tech）校友创立，专门为大学[[Innovation Park|研究园区]]和[[Innovation Hub|创新中心]]提供开发、融资和[[Placemaking|场所营造]]服务([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.123]])。
+> 大学融资基金会（The University Financing Foundation, TUFF）是 1982 年在佐治亚州亚特兰大成立的 501(c)(3) 运营基金会，由佐治亚理工学院（Georgia Tech）校友创立，专门为大学[[Innovation Park\|研究园区]]和[[Innovation Hub\|创新中心]]提供开发、融资和[[Placemaking\|场所营造]]服务([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, p.123]])。
 
 TUFF 的起源可追溯到 Georgia Tech 时任校长 Joseph Pettit 对研究事业的三项授权：以私营部门交付模式建设高质量研究设施；采用低于市场的租赁结构（以匹配公共融资成本）；最大化联邦资金机会。TUFF 的首个项目是 Georgia Tech 的 J. Frank Smith Centennial Research Building（p.123）。
 
@@ -64,12 +64,12 @@ TUFF 基于四十三年的[[University-Industry Collaboration|产学合作]]开�
 
 > [!abstract]
 > **六项优先领域**（操作路径，同时推进、相互交织）：
-> 1. 创业与[[Asset Mapping|资产映射]]
+> 1. 创业与[[Asset Mapping\|资产映射]]
 > 2. 学术存在
 > 3. 学术与公共对研发的承诺
 > 4. 筹资与对外关系
 > 5. 区域合作
-> 6. 激活活动与[[Placemaking|场所营造]]
+> 6. 激活活动与[[Placemaking\|场所营造]]
 
 TUFF 的核心理念是"密度就是命运"（density is destiny）——不仅指物理邻近性，更指通过强有力的活动设计推动的人际互动频率和质量。TUFF 认为商业由社区赋能，社区由人际体验的密度赋能（p.137）。
 

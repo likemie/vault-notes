@@ -41,10 +41,10 @@ updated: 2026-06-12T18:30:00
 ## 定义
 
 > [!info]
-> LISA时空转移（LISA Spatiotemporal Transition）是探索性时空数据分析（ESTDA）的核心方法之一。它通过构建空间转移矩阵（Spatiotemporal Transition Matrix），追踪各空间单元在相邻年份之间在Moran散点图四个象限（HH、LH、LL、HL）间的转移行为，将转移分为四种类型（Type0–Type3），并通过空间凝聚度（$SC$）、时空流动度（$SF$）和相对移动率（$p$）三个汇总指标量化空间格局的惯性强度和流动性。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 68–69)]]
+> LISA时空转移（LISA Spatiotemporal Transition）是探索性时空数据分析（ESTDA）的核心方法之一。它通过构建空间转移矩阵（Spatiotemporal Transition Matrix），追踪各空间单元在相邻年份之间在Moran散点图四个象限（HH、LH、LL、HL）间的转移行为，将转移分为四种类型（Type0–Type3），并通过空间凝聚度（$SC$）、时空流动度（$SF$）和相对移动率（$p$）三个汇总指标量化空间格局的惯性强度和流动性。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 68–69)]]
 
 > [!quote]
-> LISA时空转移可以更好地描述不同地理单元之间的空间关联和动态转移特征。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 72)]]
+> LISA时空转移可以更好地描述不同地理单元之间的空间关联和动态转移特征。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 72)]]
 > Original: The LISA spatiotemporal transition can better describe the spatial association and dynamic transition characteristics between different geographical units.
 
 ---
@@ -52,7 +52,7 @@ updated: 2026-06-12T18:30:00
 ## 研究程序
 
 > [!abstract]
-> LISA 时空转移分析分为四个步骤：象限[[Coding in Qualitative Research|编码]] → 构建转移频率矩阵 → 分类计数 → 计算汇总指标。
+> LISA 时空转移分析分为四个步骤：象限[[Coding in Qualitative Research\|编码]] → 构建转移频率矩阵 → 分类计数 → 计算汇总指标。
 
 ### 第一步：象限编码
 
@@ -86,7 +86,7 @@ updated: 2026-06-12T18:30:00
 > - **Type3** $z$ 和 $Wz$ 符号均变化（4 项：HL→LH, LH→HL, LL→HH, HH→LL）
 
 > [!line-b] Type3A vs Type3B 的区分
-> Type3 进一步分为两个子类。Type3A（同向）：自身和邻居的 Moran 坐标同时增大或同时减小（$z$ 和 $Wz$ 变化方向一致）——如 LL→HH（自身和邻居均转为高值）。Type3B（反向）：自身和邻居的变化方向相反——如 HH→LL 或 HL→LH。Type3A 纳入空间凝聚度（$SC$），因为同向变化意味着整体格局在移动但内部相对关系保持了一定一致性。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 69)]]
+> Type3 进一步分为两个子类。Type3A（同向）：自身和邻居的 Moran 坐标同时增大或同时减小（$z$ 和 $Wz$ 变化方向一致）——如 LL→HH（自身和邻居均转为高值）。Type3B（反向）：自身和邻居的变化方向相反——如 HH→LL 或 HL→LH。Type3A 纳入空间凝聚度（$SC$），因为同向变化意味着整体格局在移动但内部相对关系保持了一定一致性。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 69)]]
 
 ---
 
@@ -95,7 +95,7 @@ updated: 2026-06-12T18:30:00
 > [!line-a] 数学定义
 > 设总转移次数 $m = n \times (T-1)$：
 > $$SC = \frac{\text{Type0} + \text{Type3A}}{m} \qquad SF = \frac{\text{Type1} + \text{Type2}}{m} \qquad p = 1 - \frac{\sum_{i=1}^{4} p_{i,i}}{4}$$
-> 其中 $p_{i,i}$ 是转移概率矩阵 $\mathbf{P}$ 的对角元素（即 $\mathbf{M}$ 各行中 Type0 的比例）。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 69)]]
+> 其中 $p_{i,i}$ 是转移概率矩阵 $\mathbf{P}$ 的对角元素（即 $\mathbf{M}$ 各行中 Type0 的比例）。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 69)]]
 
 > [!line-b] 解读
 > - **$SC$（空间凝聚度）** $\in [0, 1]$：格局的惯性强度。$SC \to 1$ 意味着绝大多数转移属于 Type0 或 Type3A——格局高度稳定（如 Fan 等报告的 EST 整体 $SC = 0.849$）
@@ -107,14 +107,14 @@ updated: 2026-06-12T18:30:00
 ### 第五步：分子系统对比
 
 > [!info]
-> LISA 时空转移的一个关键扩展是对同一面板数据按不同发展维度（如教育、科技、人才三个子系统）分别计算转移矩阵和汇总指标。通过比较各子系统的 $SC$、$SF$、$p$ 值，可识别哪一维度的空间锁定最强、哪一维度最具流动性——这为政策干预的优先级排序提供了直接的经验依据。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 73)]]
+> LISA 时空转移的一个关键扩展是对同一面板数据按不同发展维度（如教育、科技、人才三个子系统）分别计算转移矩阵和汇总指标。通过比较各子系统的 $SC$、$SF$、$p$ 值，可识别哪一维度的空间锁定最强、哪一维度最具流动性——这为政策干预的优先级排序提供了直接的经验依据。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 73)]]
 
 ---
 
 ## 资料与分析
 
 > [!info] 数据结构
-> 输入为 $n$ 个空间单元 $\times$ $T$ 个年份的象限标签矩阵 $Q_{n \times T}$（$Q_{i,t} \in \{0,1,2,3\}$，分别对应 HH/LH/LL/HL），以及可选的子系统标签（用于分子系统分析）。标签矩阵通过对各年份 Moran 散点图坐标[[Coding in Qualitative Research|编码]]生成。
+> 输入为 $n$ 个空间单元 $\times$ $T$ 个年份的象限标签矩阵 $Q_{n \times T}$（$Q_{i,t} \in \{0,1,2,3\}$，分别对应 HH/LH/LL/HL），以及可选的子系统标签（用于分子系统分析）。标签矩阵通过对各年份 Moran 散点图坐标[[Coding in Qualitative Research\|编码]]生成。
 
 > [!info] 软件实现
 
@@ -163,7 +163,7 @@ updated: 2026-06-12T18:30:00
 > - **Type3A vs Type3B** 需根据转移方向手动判定——LL→HH（同向好）和 HH→LL（同向差）均为 Type3A，HL→LH and LH→HL 为 Type3B
 > - **分子系统对比** 对外层循环包装——对每个子系统分别运行为 Q 赋值，独立构造 M 并计算指标
 > - **零行处理** 如果某行之和为 0（某象限从未出现），需在计算 P 时跳过该行（或填充 NaN）
-> - **统计检验** 可对转移矩阵做 $\chi^2$ 独立性检验（原[[Hypothesis|假设]]：转移与起始象限无关），以判断转移是否显著偏离随机期望。同样可检验不同子系统之间的转移概率差异
+> - **统计检验** 可对转移矩阵做 $\chi^2$ 独立性检验（原[[Hypothesis\|假设]]：转移与起始象限无关），以判断转移是否显著偏离随机期望。同样可检验不同子系统之间的转移概率差异
 
 ---
 
@@ -190,7 +190,7 @@ updated: 2026-06-12T18:30:00
 ## 相关方法
 
 > [!tip]-
-> - [[LISA Time Path]] — LISA时空路径从连续几何维度追踪轨迹，LISA时空转移从离散概率维度量化状态变化，两者互补构成ESTDA的完整[[Analytic Framework|分析框架]]
+> - [[LISA Time Path]] — LISA时空路径从连续几何维度追踪轨迹，LISA时空转移从离散概率维度量化状态变化，两者互补构成ESTDA的完整[[Analytic Framework\|分析框架]]
 > - Moran's I — 全局和局部Moran's I是LISA时空转移的基础分析层
 > - Markov Chain — 空间转移矩阵本质上是一阶Markov转移矩阵在空间分析中的应用
 

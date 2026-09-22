@@ -38,7 +38,7 @@ updated: '2026-05-18'
 
 Grammar school（文法学校）是英格兰现行选择性中等教育制度中的学术选拔性公立中学，依据 11-plus 考试成绩招收学生。截至研究期间，英格兰共有 163 所文法学校，约占所有中学的 5%([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3, 17]])。
 
-> "The 163 English grammar schools"([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])
+> "The 163 English grammar schools"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])
 
 ---
 
@@ -58,7 +58,7 @@ Grammar school（文法学校）是英格兰现行选择性中等教育制度中
 - **不成比例的议会关注** 尽管仅占中学的约 5%，文法学校在 2015–2019 年议会辩论中被提及 992 次，而约 3200 所综合学校仅被提及 109 次([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–18]])
 
 > [!info] 核心数据
-> 文法学校 ≈5% 中学，议会提及率是综合学校的 9 倍；37% 的提及伴随"good"一词([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])
+> 文法学校 ≈5% 中学，议会提及率是综合学校的 9 倍；37% 的提及伴随"good"一词([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])
 
 ---
 

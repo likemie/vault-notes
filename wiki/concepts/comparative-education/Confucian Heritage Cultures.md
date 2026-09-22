@@ -47,14 +47,14 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> "儒家文化圈"（Confucian Heritage Cultures, CHC）是 [[David Watkins]] 和 [[John Biggs]] 在其 1996 年合编的《The [[Chinese Learner]]》中提出的分类术语，涵盖受[[Confucian Learning Tradition|儒家学习传统]]影响的国家和地区：中国、香港、台湾、新加坡、日本、韩国和越南([[Argument_Li_2012_Cambridge|Li, 2012, p.84]])。该术语的提出服务于 [[Paradox of the Chinese Learner|中国学习者悖论]] 研究——为解释这些地区学习者看似低效的学习方式与持续高成就之间的张力，需要一个跨越单一国家边界、以共享文化传统为纽带的概念框架。
+> "儒家文化圈"（Confucian Heritage Cultures, CHC）是 [[David Watkins]] 和 [[John Biggs]] 在其 1996 年合编的《The [[Chinese Learner]]》中提出的分类术语，涵盖受[[Confucian Learning Tradition\|儒家学习传统]]影响的国家和地区：中国、香港、台湾、新加坡、日本、韩国和越南([[Argument_Li_2012_Cambridge\|Li, 2012, p.84]])。该术语的提出服务于 [[Paradox of the Chinese Learner\|中国学习者悖论]] 研究——为解释这些地区学习者看似低效的学习方式与持续高成就之间的张力，需要一个跨越单一国家边界、以共享文化传统为纽带的概念框架。
 
 ---
 
 ## 概念演变
 
 > [!note]-
-> ### 提出背景：[[Paradox of the Chinese Learner|中国学习者悖论]]的推动
+> ### 提出背景：[[Paradox of the Chinese Learner\|中国学习者悖论]]的推动
 
 CHC 这一术语诞生于一群在香港工作的澳大利亚、英国和瑞典研究者对[[Chinese Learner|中国学习者]]现象的集体关注。他们直接观察到 CHC 学习者和西方教师之间的文化碰撞——西方教师抱怨中国学生"[[Rote Learning|死记硬背]]""被动服从"，但国际评估数据却反复显示这些学生的高成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-84]])。
 
@@ -68,7 +68,7 @@ Watkins and Biggs 有意使用 CHC 而非 "Chinese"，以避免将现象局限�
 2. **学习过程路径** 重新解释 CHC 学习者的"记忆"与"理解"关系。Marton 团队发现中国学习者的记忆是通向深度理解的**第一步**而非终点；Dahlin and Watkins 发现中英学生对"理解"本身的定义不同——英国学生视为突然顿悟，中国学生视为长期智力努力的过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.86-87]])
 
 > [!tip]- 详见
-> 两条路径的完整研究发现见 [[Paradox of the Chinese Learner#实证发现]]。Li 本人的[[Cultural Models|文化模型]]研究（[[Chinese Learner]]）为 CHC 学习特征提供了从儒家文本到实证数据的系统性论证。
+> 两条路径的完整研究发现见 [[Paradox of the Chinese Learner#实证发现]]。Li 本人的[[Cultural Models\|文化模型]]研究（[[Chinese Learner]]）为 CHC 学习特征提供了从儒家文本到实证数据的系统性论证。
 
 ---
 
@@ -76,22 +76,22 @@ Watkins and Biggs 有意使用 CHC 而非 "Chinese"，以避免将现象局限�
 
 > [!example]
 > ### CHC vs "Chinese"
-> CHC 以文化传统而非国族归属为划分依据。"[[Chinese Learner]]" 可能被误解为仅指中国大陆学生，而 CHC 明确涵盖了虽非华人占多数但深受儒家文化影响的日本、韩国、越南([[Argument_Li_2012_Cambridge|Li, 2012, p.84]])。
+> CHC 以文化传统而非国族归属为划分依据。"[[Chinese Learner]]" 可能被误解为仅指中国大陆学生，而 CHC 明确涵盖了虽非华人占多数但深受儒家文化影响的日本、韩国、越南([[Argument_Li_2012_Cambridge\|Li, 2012, p.84]])。
 
 ### CHC vs "East Asian"
 > "East Asian" 是地理标签，包含很多不受儒家传统影响的文化（如马来西亚、印度尼西亚）。CHC 以文化传统为纽带——因此越南（地理上属东南亚）被纳入，而马来西亚未被纳入。
 
 ### CHC vs "Asian"
-> "Asian" 的覆盖范围更广——南亚（印度、巴基斯坦）、东南亚（泰国、菲律宾）等国拥有完全不同的文化传统（印度教、佛教、伊斯兰教）。将 CHC 学习者与"亚洲学习者"混为一谈，会掩盖南亚与东亚之间在教育信念和实践上的根本差异([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.39]])。
+> "Asian" 的覆盖范围更广——南亚（印度、巴基斯坦）、东南亚（泰国、菲律宾）等国拥有完全不同的文化传统（印度教、佛教、伊斯兰教）。将 CHC 学习者与"亚洲学习者"混为一谈，会掩盖南亚与东亚之间在教育信念和实践上的根本差异([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.39]])。
 
 ---
 
 ## 争议与批评
 
 > [!warning]
-> - **内部同质化风险** CHC 覆盖的国家和地区在 20 世纪经历了截然不同的政治经济转型——中国大陆的社会主义革命、台湾的民主化、新加坡的威权现代化、日本的战后重建——儒家传统在这些社会中的活力和表现形式各不相同([[Argument_Li_2012_Cambridge|Li, 2012, pp.84-85]])
+> - **内部同质化风险** CHC 覆盖的国家和地区在 20 世纪经历了截然不同的政治经济转型——中国大陆的社会主义革命、台湾的民主化、新加坡的威权现代化、日本的战后重建——儒家传统在这些社会中的活力和表现形式各不相同([[Argument_Li_2012_Cambridge\|Li, 2012, pp.84-85]])
 > - **日本的特殊性** 将日本归入 CHC 可能忽视其强烈的本土文化传统——日本的学习文化同时受到 Seishin and Gambaru 等本土概念的塑造，这些概念并非直接源自儒家传统
-> - **"儒家价值"归因缺乏直接证据**Clark & Gieve（2006）指出，西方教师常通过诉诸"看似有道理的儒家传统解释"来验证对[[Chinese Learner|中国学习者]]的感知，而非通过实证。儒学在数百年间被不断重新解读以服务于政治议程——李光耀所称的"儒家社会"中的许多价值与[[Confucius|孔子]]能辨认的内容"相去甚远"（Watkins & Biggs, 2001, p.4，转引自 Ryan, 2010, pp.46-47）
+> - **"儒家价值"归因缺乏直接证据**Clark & Gieve（2006）指出，西方教师常通过诉诸"看似有道理的儒家传统解释"来验证对[[Chinese Learner\|中国学习者]]的感知，而非通过实证。儒学在数百年间被不断重新解读以服务于政治议程——李光耀所称的"儒家社会"中的许多价值与[[Confucius\|孔子]]能辨认的内容"相去甚远"（Watkins & Biggs, 2001, p.4，转引自 Ryan, 2010, pp.46-47）
 > - **研究者建构的范畴** CHC 是研究者为分析便利而建构的分类标签，不应被视为对现实文化边界的精确描述
 
 ---

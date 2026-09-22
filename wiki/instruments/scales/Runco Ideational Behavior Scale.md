@@ -60,11 +60,11 @@ updated: 2026-09-11
 > [!instrument-profile] 伦科观念行为量表（RIBS）
 > - **工具类型** 日常观念生成行为自陈量表（Self-report Scale of Ideational Behavior）。
 > - **开发者与年份** Runco, Plucker, & Lim (2001)。
-> - **测量目的** 评估个体在日常真实生活情境中自主产生、思考与玩味各种新颖构想的自发行为频次，作为反映“[[Creativity|创造潜能]]（Creative Potential）”的核心行为测量指标。
+> - **测量目的** 评估个体在日常真实生活情境中自主产生、思考与玩味各种新颖构想的自发行为频次，作为反映“[[Creativity\|创造潜能]]（Creative Potential）”的核心行为测量指标。
 > - **实施方式** 纸笔或线上自陈量表。
 
 > [!citation-card]- 关键表述
-> 伦科观念行为量表基于这样一种测量[[Hypothesis|假设]]：经常在日常生活中产生大量想法的人更有可能在特定任务中产出高水平的创造性构想；它为评估不受标准化纸笔测验时间限制的日常创造潜能提供了高效工具。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 3–4)]]
+> 伦科观念行为量表基于这样一种测量[[Hypothesis\|假设]]：经常在日常生活中产生大量想法的人更有可能在特定任务中产出高水平的创造性构想；它为评估不受标准化纸笔测验时间限制的日常创造潜能提供了高效工具。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3–4)]]
 >
 > *The Runco Ideational Behavior Scale assesses the use of, appreciation of, and skill with ideas, capturing everyday creative potential beyond artificial testing conditions.*
 
@@ -72,7 +72,7 @@ updated: 2026-09-11
 
 ## 测量构念与维度
 
-> [!construct-table] 日常观念生成与[[Creativity|创造潜能]]倾向
+> [!construct-table] 日常观念生成与[[Creativity\|创造潜能]]倾向
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -86,7 +86,7 @@ updated: 2026-09-11
 > [!instrument-items] 作答规则
 > - **题项形式** 23 个描述日常思维活动与观念产生习惯的陈述句。
 > - **作答格式** 5 点 Likert 量表（1 = 完全不符合，2 = 比较不符合，3 = 不确定，4 = 比较符合，5 = 完全符合）。
-> - **计分规则** 全部题项正向计分，总分越高代表个体的日常观念生成频次越高、[[Creativity|创造潜能]]倾向越强。
+> - **计分规则** 全部题项正向计分，总分越高代表个体的日常观念生成频次越高、[[Creativity\|创造潜能]]倾向越强。
 
 ### 核心代表性题项示例
 

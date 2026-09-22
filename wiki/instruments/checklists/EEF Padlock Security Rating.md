@@ -71,11 +71,11 @@ updated: 2026-09-17
 
 ## 工具定位
 
-> [!instrument-profile] [[Education Endowment Foundation|EEF]] Padlock Security Rating
+> [!instrument-profile] [[Education Endowment Foundation\|EEF]] Padlock Security Rating
 > - **工具类型** 方法学质评核查表与证据安全性评级规程。
 > - **开发者与年份** The Education Endowment Foundation (2019)，载于《EEF 评估发现安全级别分类指南》（*Classification of the Security of Findings from EEF Evaluations*; The EEF, 2019c）。
-> - **测量目的** 综合评估教育干预现场试验（主要是[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials，RCT）与准实验）核心成效结果的[[Causality|因果推断]]可[[Reliability|信度]]与偏倚风险，向学校决策者与政策制定者直观传达证据确定性。
-> - **实施方式** 由独立同行评议专家或评估管理团队对照试验[[Preregistration|预注册]]方案、实施报告与[[Statistical Analysis Plan|统计分析计划]]（Statistical Analysis Plan，SAP）进行外部审核评定。
+> - **测量目的** 综合评估教育干预现场试验（主要是[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT）与准实验）核心成效结果的[[Causality\|因果推断]]可[[Reliability\|信度]]与偏倚风险，向学校决策者与政策制定者直观传达证据确定性。
+> - **实施方式** 由独立同行评议专家或评估管理团队对照试验[[Preregistration\|预注册]]方案、实施报告与[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP）进行外部审核评定。
 
 ---
 
@@ -96,18 +96,18 @@ updated: 2026-09-17
 ## 扣锁规则与效度威胁核查
 
 > [!proc] 核心扣锁指标与风险排查规程
-> 1. **设计类型初评** 只有实施质量合格的 [[Randomised Controlled Trials|RCT]] 设计有资格获得最高 5 把锁起点；[[Quasi-Experimental Designs|准实验设计]]（QED）无论样本规模多大，其初始最高评级通常不得超过 3 把锁。
-> 2. **[[Sample Size Determination|样本量]]与统计功效核查** 审查试验的最小可测[[Effect Size|效应量]]（MDES）。若样本量不足导致统计功效低于 80% 或 MDES 过大，直接扣减 1 把锁。
-> 3. **总体[[Attrition|流失]]与差异流失判定** 审查[[Pre-test and Post-test|后测]]学生脱落比例。总体流失率若超过 30%，评级直接下调；若处理组与对照组之间出现统计学显著的差异流失，扣减 1–2 把锁。
-> 4. **基线失衡核查** 检验实验组与对照组在前测统考成绩或核心人口统计学[[Variable|变量]]上的标准化均值差。若基线差异较大且未能在主分析模型中充分校正，扣减 1 把锁。
-> 5. **测量工具效度风险** 若主要结局指标未采用具有广泛[[External Validity|外部效度]]的全国标准化考试（如英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database，NPD）成绩），而是采用了开发者自行定制、过度贴合干预内容的非标准化测验，扣减 1 把锁。
-> 6. **保真度与污染核查** 若[[Implementation and Process Evaluation|实施与过程评估]]（Implementation and Process Evaluation，IPE）表明对照组大面积接触了类似干预或存在实施严重妥协，视偏倚威胁严重程度扣锁。
+> 1. **设计类型初评** 只有实施质量合格的 [[Randomised Controlled Trials\|RCT]] 设计有资格获得最高 5 把锁起点；[[Quasi-Experimental Designs\|准实验设计]]（QED）无论样本规模多大，其初始最高评级通常不得超过 3 把锁。
+> 2. **[[Sample Size Determination\|样本量]]与统计功效核查** 审查试验的最小可测[[Effect Size\|效应量]]（MDES）。若样本量不足导致统计功效低于 80% 或 MDES 过大，直接扣减 1 把锁。
+> 3. **总体[[Attrition\|流失]]与差异流失判定** 审查[[Pre-test and Post-test\|后测]]学生脱落比例。总体流失率若超过 30%，评级直接下调；若处理组与对照组之间出现统计学显著的差异流失，扣减 1–2 把锁。
+> 4. **基线失衡核查** 检验实验组与对照组在前测统考成绩或核心人口统计学[[Variable\|变量]]上的标准化均值差。若基线差异较大且未能在主分析模型中充分校正，扣减 1 把锁。
+> 5. **测量工具效度风险** 若主要结局指标未采用具有广泛[[External Validity\|外部效度]]的全国标准化考试（如英格兰[[National Pupil Database\|国家学生数据库]]（National Pupil Database，NPD）成绩），而是采用了开发者自行定制、过度贴合干预内容的非标准化测验，扣减 1 把锁。
+> 6. **保真度与污染核查** 若[[Implementation and Process Evaluation\|实施与过程评估]]（Implementation and Process Evaluation，IPE）表明对照组大面积接触了类似干预或存在实施严重妥协，视偏倚威胁严重程度扣锁。
 
 ---
 
 ## 政策应用与方法学争议
 
-> [!contrast-table] [[Education Endowment Foundation|EEF]] 挂锁系统与美国 什么样的有效清算所（[[What Works Clearinghouse]]，WWC）评级系统的对比（基于 Edovald & Nevill, 2021）
+> [!contrast-table] [[Education Endowment Foundation\|EEF]] 挂锁系统与美国 什么样的有效清算所（[[What Works Clearinghouse]]，WWC）评级系统的对比（基于 Edovald & Nevill, 2021）
 > | 比较维度 | 英国 [[Education Endowment Foundation\|EEF]] 挂锁安全评级 | 美国 [[What Works Clearinghouse\|WWC]] 证据标准 |
 > |---|---|---|
 > | **评级形态** | 0 至 5 把锁的连续序数标尺 | 三分类定性判定（Meets Without Reservations / Meets With Reservations / Does Not Meet） |
@@ -117,13 +117,13 @@ updated: 2026-09-17
 > | **[[Attrition\|流失]]率门槛** | 3 锁门槛要求总流失率低于 30% | 结合总体流失与差异流失的复合边界曲线（允许总流失达 50% 以上） |
 
 > [!warning] 方法学争议与单指标局限
-> - **多维偏倚的单维压缩争议** 学术界批评挂锁评级试图用单一数值总结研究质量，可能掩盖不同类型方法学威胁的[[Heterogeneity|异质性]]。例如，两项同为 3 把锁的研究，一项可能是因为[[Sample Size Determination|样本量]]偏小，另一项则可能是因为测量工具效度较弱，其证据性质截然不同（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 57]]）。
-> - **与不确定性表达的张力** 挂锁评级主要反映主要效应的内部安全性，但难以直观展现统计估计的精确度（[[Confidence Interval|置信区间]]宽度）与情境适用性，在向实践者传递确定性与[[Scientific Uncertainty|科学不确定性]]之间存在长期沟通平衡挑战。
+> - **多维偏倚的单维压缩争议** 学术界批评挂锁评级试图用单一数值总结研究质量，可能掩盖不同类型方法学威胁的[[Heterogeneity\|异质性]]。例如，两项同为 3 把锁的研究，一项可能是因为[[Sample Size Determination\|样本量]]偏小，另一项则可能是因为测量工具效度较弱，其证据性质截然不同（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
+> - **与不确定性表达的张力** 挂锁评级主要反映主要效应的内部安全性，但难以直观展现统计估计的精确度（[[Confidence Interval\|置信区间]]宽度）与情境适用性，在向实践者传递确定性与[[Scientific Uncertainty\|科学不确定性]]之间存在长期沟通平衡挑战。
 
 ---
 
 ## 使用该工具的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详细阐述了 [[Education Endowment Foundation|EEF]] 挂锁安全评级的创设动因与标准演进，指出截至 2019 年 EEF 已发表的 95 项影响评估报告中，89% 采用 [[Randomised Controlled Trials|RCT]] 设计，85% 获得了 3 把锁及以上的安全评级（总体[[Attrition|流失]]率严格控制在 30% 以下），并系统反思了单一度量标尺在沟通不确定性与方法学严谨性之间的权衡。
-> - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 指出其早期研发的研究可[[Reliability|信度]]筛子构成了 EEF 挂锁安全评级的思想雏形与技术前身，反思了挂锁系统在向更技术化、少主观判断方向演进时，如何通过设立明确扣锁规则来规范大规模因果证据的确定性传达。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详细阐述了 [[Education Endowment Foundation\|EEF]] 挂锁安全评级的创设动因与标准演进，指出截至 2019 年 EEF 已发表的 95 项影响评估报告中，89% 采用 [[Randomised Controlled Trials\|RCT]] 设计，85% 获得了 3 把锁及以上的安全评级（总体[[Attrition\|流失]]率严格控制在 30% 以下），并系统反思了单一度量标尺在沟通不确定性与方法学严谨性之间的权衡。
+> - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 指出其早期研发的研究可[[Reliability\|信度]]筛子构成了 EEF 挂锁安全评级的思想雏形与技术前身，反思了挂锁系统在向更技术化、少主观判断方向演进时，如何通过设立明确扣锁规则来规范大规模因果证据的确定性传达。

@@ -53,12 +53,12 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 互惠同伴提问法（Reciprocal Peer Questioning, RPQ）是由 Alison King 开发的一种结构化同伴[[Dialogue in Education|对话教学]]策略。教师向学生提供通用的高阶“提问句干”（Thought-Provoking Question Stems）作为[[Scaffolding|认知脚手架]]，学生在自主阅读或讲授后，利用句干生成针对学习材料的深层问题，并在结对（Dyad）或小组中相互提问、阐明推理与辩护证据，从而实现知识的深层精细加工与[[Critical Thinking|批判性思维]]发展。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 285)]]
+> 互惠同伴提问法（Reciprocal Peer Questioning, RPQ）是由 Alison King 开发的一种结构化同伴[[Dialogue in Education\|对话教学]]策略。教师向学生提供通用的高阶“提问句干”（Thought-Provoking Question Stems）作为[[Scaffolding\|认知脚手架]]，学生在自主阅读或讲授后，利用句干生成针对学习材料的深层问题，并在结对（Dyad）或小组中相互提问、阐明推理与辩护证据，从而实现知识的深层精细加工与[[Critical Thinking\|批判性思维]]发展。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 285)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 将提问的主动权从教师移交给学生，通过通用的问题句干脚手架引导学生从简单的“事实回忆”升级为“关系比较、[[Hypothesis|假设]]审查与证据评估”。
+> - **含义** 将提问的主动权从教师移交给学生，通过通用的问题句干脚手架引导学生从简单的“事实回忆”升级为“关系比较、[[Hypothesis\|假设]]审查与证据评估”。
 > - **用途** 用于激发对等同伴互动中的深度解释（Deep Explaining），克服传统同伴小组讨论缺乏深度、流于表层的缺陷。
-> - **边界** 必须依赖有效的高阶提问句干支架；如果缺乏句干训练，学生的自发提问往往局限于[[Rote Learning|死记硬背]]的浅层事实问题。
+> - **边界** 必须依赖有效的高阶提问句干支架；如果缺乏句干训练，学生的自发提问往往局限于[[Rote Learning\|死记硬背]]的浅层事实问题。
 
 ---
 
@@ -85,8 +85,8 @@ updated: 2026-09-17
 > - **比较与辨析型句干** “……与……之间的核心相似点与关键区别是什么？”“如何用……来解释……的差异？”
 > - **因果与机制型句干** “是什么原因导致了……的发生？”“如果……发生变化，会对……产生什么连锁反应？”
 > - **证据与理由型句干** “支持……的核心论据是什么？其局限性在哪里？”“为什么作者认为……是正确的？”
-> - **应用与[[Problem Solving|问题解决]]型句干** “如何将……的原理应用到解决……这一现实问题中？”“解决……的最佳替代方案是什么？”
-> - **[[Hypothesis|假设]]与评价型句干** “……的结论建立在什么未说明的前提假设之上？”“你对……的优缺点如何评价？”[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 285)]]
+> - **应用与[[Problem Solving\|问题解决]]型句干** “如何将……的原理应用到解决……这一现实问题中？”“解决……的最佳替代方案是什么？”
+> - **[[Hypothesis\|假设]]与评价型句干** “……的结论建立在什么未说明的前提假设之上？”“你对……的优缺点如何评价？”[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 285)]]
 
 ---
 
@@ -98,13 +98,13 @@ updated: 2026-09-17
 > 探讨生成问题与深度解释对思维的促进作用。
 
 > [!claim] Abrami, P. C., et al.; King, A.
-> **同伴互问的高效能实证支持** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 在[[Meta-analysis|元分析]]中特别将 King 的对等同伴提问法列为示范案例。实证检验显示，学生自主生成提问策略获得了显著的正向效应（$k = 4, g+ = 0.37, 95\%\text{ CI} = [-0.02, 0.77]$）。认知心理学表明，为了提出高阶问题并向同伴解释答案，学生必须在[[Working Memory|工作记忆]]中重组认知结构、建立新旧知识联结，这种“生成性精细加工”（Generative Elaboration）直接驱动了[[Critical Thinking|批判性思维]]的巩固。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 285, 294)]]
+> **同伴互问的高效能实证支持** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 在[[Meta-analysis\|元分析]]中特别将 King 的对等同伴提问法列为示范案例。实证检验显示，学生自主生成提问策略获得了显著的正向效应（$k = 4, g+ = 0.37, 95\%\text{ CI} = [-0.02, 0.77]$）。认知心理学表明，为了提出高阶问题并向同伴解释答案，学生必须在[[Working Memory\|工作记忆]]中重组认知结构、建立新旧知识联结，这种“生成性精细加工”（Generative Elaboration）直接驱动了[[Critical Thinking\|批判性思维]]的巩固。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285, 294)]]
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
@@ -123,5 +123,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，以 King（1995）对等同伴提问法为典型案例，定量检验学生生成提问策略（$k=4, g+=0.37$）对[[Critical Thinking|批判性思维]]技能的干预效果。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，以 King（1995）对等同伴提问法为典型案例，定量检验学生生成提问策略（$k=4, g+=0.37$）对[[Critical Thinking\|批判性思维]]技能的干预效果。

@@ -51,20 +51,20 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 假设（Hypothesis）
-> Kerlinger（1970）将假设定义为两个或多个[[Variable|变量]]之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"（an educated guess），但不同于普通猜测，假设往往是大量研究、[[Reflexivity|反思性]]思考和观察的结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, pp.138–140]]）。
+> Kerlinger（1970）将假设定义为两个或多个[[Variable\|变量]]之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"（an educated guess），但不同于普通猜测，假设往往是大量研究、[[Reflexivity\|反思性]]思考和观察的结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Ch.7, pp.138–140]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 假设是对变量间关系的有根据预测，它既是理论的检验工具，也是经验研究的逻辑起点。在[[Quantitative Research|量化研究]]中连接理论与数据。
+> - **含义** 假设是对变量间关系的有根据预测，它既是理论的检验工具，也是经验研究的逻辑起点。在[[Quantitative Research\|量化研究]]中连接理论与数据。
 > - **用途** 假设为研究提供方向性框架，决定研究设计、数据收集和统计检验的类型。
-> - **边界** 假设不是[[Research Question|研究问题]]——研究问题提问，假设预测答案。假设不等同于理论——理论是系统的解释框架，假设是理论的一个可检验推论。
+> - **边界** 假设不是[[Research Question\|研究问题]]——研究问题提问，假设预测答案。假设不等同于理论——理论是系统的解释框架，假设是理论的一个可检验推论。
 
 > [!boundary]- 概念边界
-> - 不等于 [[Research Question|研究问题]]：研究问题就变量间关系提问，假设对变量间关系做出方向性预测并通过统计检验
-> - 不等于 [[Purpose Statement|目的陈述]]：目的陈述说明研究总体意图，假设将意图转化为可检验的具体预测
-> - 不适用于纯粹的描述性研究、探索性[[Qualitative Research|质性研究]]（这些研究可能不预设假设）
+> - 不等于 [[Research Question\|研究问题]]：研究问题就变量间关系提问，假设对变量间关系做出方向性预测并通过统计检验
+> - 不等于 [[Purpose Statement\|目的陈述]]：目的陈述说明研究总体意图，假设将意图转化为可检验的具体预测
+> - 不适用于纯粹的描述性研究、探索性[[Qualitative Research\|质性研究]]（这些研究可能不预设假设）
 
-> [!citation-card]- Medawar 论假设的[[Creativity|创造性]]本质
-> 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972, p. 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
+> [!citation-card]- Medawar 论假设的[[Creativity\|创造性]]本质
+> 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972, p. 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）
 >
 > *All advances of scientific understanding, at every level, begin with a speculative adventure, an imaginative preconception of what might be true – a preconception which always, and necessarily, goes a little way (sometimes a long way) beyond anything which we have logical or factual authority to believe in. The conjecture is then exposed to criticism to find out whether or not that imagined world is anything like the real one.* (Medawar, 1972, p. 22)
 
@@ -72,7 +72,7 @@ updated: 2026-09-17
 
 ## 概念辨析
 
-> [!contrast-table] 假设 vs [[Research Question|研究问题]]
+> [!contrast-table] 假设 vs [[Research Question\|研究问题]]
 > | 维度 | 假设（Hypothesis） | [[Research Question\|研究问题]] |
 > |---|---|---|
 > | 认知功能 | 预测[[Variable\|变量]]间关系的方向 | 就变量间关系提问 |
@@ -89,14 +89,14 @@ updated: 2026-09-17
 来自三位学者的标准相互补充。Kerlinger 从形式逻辑出发，Medawar 关注可检验性边界，Creswell 强调操作层面，Cohen et al. (Ch.7) 补充了方向性维度。
 
 > [!assumptions] Kerlinger 的好假设标准
-> （[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
-> - **关系陈述** 假设是[[Variable|变量]]之间关系的陈述。例如"社会阶级背景决定[[Academic Achievement|学业成就]]"陈述了一个变量（社会阶级）与另一个变量（学业成就）之间的关系
+> （[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）
+> - **关系陈述** 假设是[[Variable\|变量]]之间关系的陈述。例如"社会阶级背景决定[[Academic Achievement\|学业成就]]"陈述了一个变量（社会阶级）与另一个变量（学业成就）之间的关系
 > - **可检验性** 假设必须蕴含明确的检验含义来检验所述关系——上述例子中，社会阶级和学业成就都可被测量
 > - **兼容性**（辅助）假设应与现有知识兼容
 > - **经济性**（辅助）假设应被尽可能经济地表述
 
 > [!feature] Creswell 的好假设特征
-> （[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）
+> （[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）
 > - **方向性** 指明变量间关系的预期方向（正向、负向或未知）
 > - **可检验性** 变量必须可测量或可观察
 > - **理论基础** 假设应从已有理论中推导而来，而非凭空产生
@@ -108,14 +108,14 @@ updated: 2026-09-17
 > - **经得起检验** 假设应该是经得起检验的，这是假设区别于普通猜测的关键特征
 
 > [!warning] 好假设的关键：逻辑即时性（Medawar, 1981）
-> 一个假设如果松散到可以容纳任何现象，它就精确地告诉了我们零信息；它禁止的现象越多，它提供的信息就越多。好假设还必须具有逻辑即时性（logical immediacy），它必须为需要解释的现象提供解释，而不是为其他现象提供解释。Medawar 指出："可溶之艺的大部分，就是设计可通过可行实验来检验的假设之艺。"（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
+> 一个假设如果松散到可以容纳任何现象，它就精确地告诉了我们零信息；它禁止的现象越多，它提供的信息就越多。好假设还必须具有逻辑即时性（logical immediacy），它必须为需要解释的现象提供解释，而不是为其他现象提供解释。Medawar 指出："可溶之艺的大部分，就是设计可通过可行实验来检验的假设之艺。"（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）
 ---
 
 ### 方向性假设与非方向性假设
 
 Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.138–139]]）：
 
-> [!contrast-table] [[Directional and Non-directional Hypotheses|方向性假设]] vs 非方向性假设
+> [!contrast-table] [[Directional and Non-directional Hypotheses\|方向性假设]] vs 非方向性假设
 > | 维度 | 方向性假设（Directional） | 非方向性假设（Non-directional） |
 > |---|---|---|
 > | 陈述方式 | 陈述差异或关系的**种类或方向**（如"当学生受到内在激励时，表现会提高"） | 仅预测**存在**差异或关系，不陈述方向（如"学生表现因其内在激励水平不同而存在差异"） |
@@ -124,7 +124,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 > | 示例 | 人们在静音条件下测试时比在有音乐播放时测试时在数学测试中获得更高分数 | 静音条件与音乐播放条件下，数学测试分数存在差异 |
 
 > [!tip]- 方向性假设的写作要点
-> 方向性假设的常见形式是陈述两个变量之间预期关系的方向。以下为 Moore (2000) 在以色列女性性别认同研究中的范例（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
+> 方向性假设的常见形式是陈述两个变量之间预期关系的方向。以下为 Moore (2000) 在以色列女性性别认同研究中的范例（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）：
 >
 > **H1** 性别认同突出的宗教女性，其社会政治活跃度低于性别认同突出的世俗女性。
 >
@@ -142,7 +142,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 
 > [!chain-link] 假设的三个发展阶段
 > - **描述性假设（Descriptive Hypothesis）** 科学探索的初级阶段。研究者通过描述认识对象的结构，以推测事物的外部联系和数量关系。例如，通过简笔画的家庭生活图（房屋、家人、鸟、烟囱等）来研究中小学生心理健康。
-> - **解释性假设（Explanatory Hypothesis）** 比描述性假设更高一级的形式。解释事物的内在关联性，说明事物原因，从整体上揭示事物各部分互相作用的机制、[[Research Topic|研究主题]]的最初状态和最终状态的[[Causality|因果关系]]原理。
+> - **解释性假设（Explanatory Hypothesis）** 比描述性假设更高一级的形式。解释事物的内在关联性，说明事物原因，从整体上揭示事物各部分互相作用的机制、[[Research Topic\|研究主题]]的最初状态和最终状态的[[Causality\|因果关系]]原理。
 > - **预测性假设（Predictive Hypothesis）** 对事物未来发展趋势的科学推测。在对现实事物更深入了解的基础上提出，是更复杂更困难的一种假设。主要用于广大范围内的、具有战略意义的综合性课题研究。例如，对"当前我国特殊教育政策对今后五年我国社会结构和社会关系的变化"提出科学预测。教育科学研究中多数是与当前关系密切的现实课题，采用预测性假设的不是太多。
 
 ### 假设的三种类型（按形成方式）
@@ -150,7 +150,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 齐梅 (2015, Ch.2) 按研究假设的形成方式，将其分为三种：
 
 > [!feature] 按形成方式划分的假设类型
-> - **归纳性假设（Inductive Hypothesis）** 观察基础上的概括，是人们通过对一些个别事实材料的观察进行概括、推论得出的经验定律。例如，1943年肯纳（Kanner）教授通过对11个自闭症儿童的典型案例进行[[Observation Method|观察研究]]，概括总结出自闭症患者的11个特征。
+> - **归纳性假设（Inductive Hypothesis）** 观察基础上的概括，是人们通过对一些个别事实材料的观察进行概括、推论得出的经验定律。例如，1943年肯纳（Kanner）教授通过对11个自闭症儿童的典型案例进行[[Observation Method\|观察研究]]，概括总结出自闭症患者的11个特征。
 > - **演绎性假设（Deductive Hypothesis）** 从一般教育学原理或理论出发，依据这一理论推导出一些新的具体结论。例如，赵宋光教授提出的"综合构建教学新体系"，按照现代哲学、美学、心理学所揭示的儿童智力结构、意志结构、情感结构立体镶嵌、全面发展的规律，依据构建生成学习理论，提出了"语言符号镶嵌结构教学模式"。
 > - **研究性假设（Research Hypothesis）** 对研究变量间的差异性或相关性的说明。在研究性假设中，呈现出方向性假设和非方向性假设两类。方向性假设预示了结果的方向，如"二年级学生对学校的接受度比一年级低，但比三年级高"；非方向性假设对研究的结果无法做特定方向的预测，如"一、二、三年级对学校的感觉是不同的"。
 
@@ -169,7 +169,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 > | 书写形式 | `H₀: ...` | `H₁: ...` |
 
 > [!tip]- 方向性备择假设
-> 研究者应将备择假设写为方向性形式。例如：预测身高与体重之间存在正向关系，越高的人可能越重。方向性词汇包括 affect, influence, predict, impact, determine, cause, relate（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+> 研究者应将备择假设写为方向性形式。例如：预测身高与体重之间存在正向关系，越高的人可能越重。方向性词汇包括 affect, influence, predict, impact, determine, cause, relate（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。
 >
 > *It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more.*
 
@@ -223,6 +223,6 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — Ch.1 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性；Ch.7 系统阐述方向性/[[Directional and Non-directional Hypotheses|非方向性假设]]区分、假设[[Operationalization|操作化]]程序和中介[[Variable|变量]]
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 提出方向性/可检验性/理论基础/具体性四特征，以及[[Quantitative Research|量化研究]]问题与假设的区分
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — Ch.1 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性；Ch.7 系统阐述方向性/[[Directional and Non-directional Hypotheses\|非方向性假设]]区分、假设[[Operationalization\|操作化]]程序和中介[[Variable\|变量]]
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — Ch.7 提出方向性/可检验性/理论基础/具体性四特征，以及[[Quantitative Research\|量化研究]]问题与假设的区分

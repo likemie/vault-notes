@@ -48,7 +48,7 @@ updated: 2026-09-17
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **儿童发展研究学会（Society for Research in Child Development, SRCD）**是全球规模最大、历史最悠久的跨学科儿童发展专业学术学会（501(c)(3)）。学会汇聚了来自全美及全球 50 多个国家的 5,500 余名发展心理学、儿科学、教育学、精神病学、神经科学及公共政策领域的顶级学者，致力于促进跨学科儿童科学研究，并通过前沿的敏捷科学传播机制将实证发现转化为国家儿童福祉与公共教育政策。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 47)]]
+> **儿童发展研究学会（Society for Research in Child Development, SRCD）**是全球规模最大、历史最悠久的跨学科儿童发展专业学术学会（501(c)(3)）。学会汇聚了来自全美及全球 50 多个国家的 5,500 余名发展心理学、儿科学、教育学、精神病学、神经科学及公共政策领域的顶级学者，致力于促进跨学科儿童科学研究，并通过前沿的敏捷科学传播机制将实证发现转化为国家儿童福祉与公共教育政策。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 1933 年由美国国家科学院国家研究委员会（National Research Council, NRC）儿童发展委员会发起设立，旨在打破单一学科壁垒，统合医学、心理学与教育学力量应对大萧条时期的全美儿童营养与发育危机。
@@ -62,8 +62,8 @@ updated: 2026-09-17
 
 > [!dev-timeline] 组织发展历程
 > - **1933–1960 — 奠基与多学科数据系统建立** 创办旗舰期刊《儿童发展》（*Child Development*）与《儿童发展研究专著》（*Monographs of the SRCD*），奠定了人类毕生发展与早期身体认知发育的测量基准。
-> - **1961–2000 — 深度参与国家早期干预立法** 深度介入 1960 年代联邦“开端计划”（Head Start）及《残疾人教育法》（IDEA）的前期论证与持续追踪，[[Urie Bronfenbrenner|尤里·布朗芬布伦纳]]等学会杰出领袖将生态系统模型深深注入国家儿童政策。
-> - **2001–至今 — 敏捷政策响应与全球多样性转型** 面对国会山极速流转的立法时间生态，设立专门的政策与科学传播办公室；针对突发社会危机创新性地设立[[Rapid Assessment and Response Strategy|快速评估与响应战略]]（RARS），成为全美学术学会敏捷对接宏观政策的标杆组织。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 47)]]
+> - **1961–2000 — 深度参与国家早期干预立法** 深度介入 1960 年代联邦“开端计划”（Head Start）及《残疾人教育法》（IDEA）的前期论证与持续追踪，[[Urie Bronfenbrenner\|尤里·布朗芬布伦纳]]等学会杰出领袖将生态系统模型深深注入国家儿童政策。
+> - **2001–至今 — 敏捷政策响应与全球多样性转型** 面对国会山极速流转的立法时间生态，设立专门的政策与科学传播办公室；针对突发社会危机创新性地设立[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]（RARS），成为全美学术学会敏捷对接宏观政策的标杆组织。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 
 ---
 
@@ -75,7 +75,7 @@ updated: 2026-09-17
 > - **跨学科同行评议编委会** 主持严谨的盲审出版体系，确保所有对外发布的科学证据均具备无可争议的因果实证水准。
 
 > [!pathways]- 业务运行机制
-> - **快速响应机制** 依托 [[Rapid Assessment and Response Strategy|RARS]] 战略，当边境移民儿童分离危机或重大公共危机爆发时，委员会在数小时内甄选学科领军专家，极速聚合[[Meta-analysis|元分析]]与实证综述，在黄金政策窗口期出具权威反应声明。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 47)]]
+> - **快速响应机制** 依托 [[Rapid Assessment and Response Strategy\|RARS]] 战略，当边境移民儿童分离危机或重大公共危机爆发时，委员会在数小时内甄选学科领军专家，极速聚合[[Meta-analysis\|元分析]]与实证综述，在黄金政策窗口期出具权威反应声明。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 > - **政策研究员选派与驻留** 每年选拔优秀儿童发展博士后与青年学者，资助其前往美国国会两院委员会或联邦行政部委担任为期一年的全职科学政策顾问（SRCD Policy Fellows）。
 
 ---
@@ -84,16 +84,16 @@ updated: 2026-09-17
 
 > [!finding-cards] 核心业务矩阵
 > - **全球顶尖学术期刊家族** 主编出版发展科学领域最高引期刊《儿童发展》（*Child Development*）、《儿童发展洞察》（*Child Development Perspectives*）以及《社会政策报告》（*Social Policy Report*）。
-> - **[[Rapid Assessment and Response Strategy|快速评估与响应战略]]产出** 针对全国性重大事件极速编制的科学声明与媒体通稿，直接成为国会听证质询的权威实证援引源泉。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 47)]]
+> - **[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]产出** 针对全国性重大事件极速编制的科学声明与媒体通稿，直接成为国会听证质询的权威实证援引源泉。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 > - **两年一度的 SRCD 国际双年会** 全球规模最大的儿童发展科学大会，汇聚上万篇最新跨学科研究报告。
-> - **社会政策简报（Social Policy Report, SPR）** 专门将复杂的发展神经科学与心理学前沿成果[[Transfer Translation Transformation|转译]]为面向立法决策者的一页纸政策建议。
+> - **社会政策简报（Social Policy Report, SPR）** 专门将复杂的发展神经科学与心理学前沿成果[[Transfer Translation Transformation\|转译]]为面向立法决策者的一页纸政策建议。
 
 ---
 
 ## 影响与学术利用机制
 
 > [!finding-cards] 敏捷机制对宏观政策转化的重塑
-> - **破解学术迟滞与政治紧迫的时间断层** 在 [[Argument_Serpell_2020_EP|Serpell (2020)]] 的论述中，SRCD 的制度创新被高度赞誉为学术界对接国会山“立刻就是立刻”极端时间要求的典范。传统学术同行评议周期动辄耗费数月乃至数年，而 SRCD 的 [[Rapid Assessment and Response Strategy|RARS]] 机制证明：专业学会完全有能力在坚守科学严谨底线的同时，构建出数日内完成实证聚合与定向发布的敏捷快反部队。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 47)]]
+> - **破解学术迟滞与政治紧迫的时间断层** 在 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 的论述中，SRCD 的制度创新被高度赞誉为学术界对接国会山“立刻就是立刻”极端时间要求的典范。传统学术同行评议周期动辄耗费数月乃至数年，而 SRCD 的 [[Rapid Assessment and Response Strategy\|RARS]] 机制证明：专业学会完全有能力在坚守科学严谨底线的同时，构建出数日内完成实证聚合与定向发布的敏捷快反部队。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 > - **在儿童民权与心理健康立法中发挥压舱石功能** 在 2018 年美墨边境移民儿童家庭分离危机中，SRCD 发布的紧急科学声明详述了“强制骨肉分离对幼儿神经发育造成的不可逆神经内分泌创伤”，引发了全美公众与国会两院的强烈共鸣，直接促成了相关行政命令的紧急撤回与司法禁令的出台。
 
 ---

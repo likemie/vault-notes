@@ -42,6 +42,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
+  - "[[STEM Education]]"
   - "[[Experiential Learning]]"
   - "[[Advanced Placement Program]]"
   - "[[Professional Learning Community]]"
@@ -85,7 +86,7 @@ title: "Argument_Ginsberg_2024_EP"
 argument_key: "Argument_Ginsberg_2024_EP"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -102,15 +103,15 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 美国 2015 年[[Every Student Succeeds Act|每一个学生成功法]]（Every Student Succeeds Act, ESSA）立法明确要求地方教育机构（Local Educational Agency, LEA）将联邦教育资金投资于具备实证支持的循证实践。然而，在学区实际财务支出中，究竟有多大比例的联邦 [[Title I of the Elementary and Secondary Education Act|Title I]] 资金投向了符合 ESSA 法定[[Evidence Standards|证据标准]]的教育实践？若改用美国联邦教育部推荐的更为严谨的全量证据体（full body of evidence）标准审视，这一比例会出现何种变化？ESSA 证据要求的正式生效是否切实提高了学区投资循证实践的资金比重？
+> 美国 2015 年[[Every Student Succeeds Act\|每一个学生成功法]]（Every Student Succeeds Act, ESSA）立法明确要求地方教育机构（Local Educational Agency, LEA）将联邦教育资金投资于具备实证支持的循证实践。然而，在学区实际财务支出中，究竟有多大比例的联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金投向了符合 ESSA 法定[[Evidence Standards\|证据标准]]的教育实践？若改用美国联邦教育部推荐的更为严谨的全量证据体（full body of evidence）标准审视，这一比例会出现何种变化？ESSA 证据要求的正式生效是否切实提高了学区投资循证实践的资金比重？
 
 > [!claim] 核心主张
 > 针对特大型城市学区三年间 2.88 亿美元 Title I 资金的实证审计表明，超过 95% 的资金投向了符合 ESSA 法定 Tier I–III 门槛的教育实践；但当在四大权威证据库中汇总全量研究时，获稳定积极证据支持的资金比例急剧降至 60% 以下（49%–58%），且 ESSA 生效前后循证投资比重并无实质改变。这表明 ESSA 现行仅需单项合格研究即可合规的法定门槛难以实质保障联邦教育经费投向真正有效的教学实践。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国南部一所拥有逾 210,000 名学生的南部城市学区（Southern Urban District, SUD）在 2016–2017 至 2018–2019 三个学年间的全部 Title I 财务流水细项（总额达 2.88 亿美元），涵盖学区中心办公室及由其选定的 4 所典型样本学校（2 所小学、1 所初中、1 所高中，涉及约 1,300 项具体支出）。
-> - **张力** 联邦立法中单项合格研究即可合规的宽松法定门槛，与科学界及教育部指南倡导的全量证据综合评价之间的严峻[[Epistemology|认识论]]冲突与政策执行脱节。
-> - **贡献** 首创将地方学区微观财务账目与四大权威[[Evidence-Based Education|循证教育]]证据库进行逐笔细粒度跨源匹配的研究路径，首次量化揭示了联邦循证政策在基层学区产生高度形式合规但实质循证支持不足的治理裂痕。
+> - **张力** 联邦立法中单项合格研究即可合规的宽松法定门槛，与科学界及教育部指南倡导的全量证据综合评价之间的严峻[[Epistemology\|认识论]]冲突与政策执行脱节。
+> - **贡献** 首创将地方学区微观财务账目与四大权威[[Evidence-Based Education\|循证教育]]证据库进行逐笔细粒度跨源匹配的研究路径，首次量化揭示了联邦循证政策在基层学区产生高度形式合规但实质循证支持不足的治理裂痕。
 
 ---
 
@@ -124,11 +125,11 @@ issuing_organization: ""
 > | **教育财政投入与产出关联假说**<br>Compensatory Education Hypotheses | Dynarski & Kainz (2015) 提出的资金强度不足假说与无效实践挤占假说，以及 Gordon (2004) 证实的地方财政挤出效应（crowd-out effect），用于解释 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金为何长期未能一致改善处境不利学生的[[Academic Achievement\|学业成就]]。（pp. 164–165） |
 
 > [!warrant]- 理论框架对实证审计的支撑机理
-> 论文通过并置比较 [[Every Student Succeeds Act|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证[[Document|文献]]结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski & Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量证据综合视角，才能测出形式合规与实质有效之间的真实差距。（pp. 163–165）
+> 论文通过并置比较 [[Every Student Succeeds Act\|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm\|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证[[Document\|文献]]结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski & Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials\|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量证据综合视角，才能测出形式合规与实质有效之间的真实差距。（pp. 163–165）
 
 ### 核心变量与操作化编码表
 
-> [!coding-frame] 核心[[Variable|变量]][[Operationalization|操作化]]定义与[[Coding in Qualitative Research|编码]]规程
+> [!coding-frame] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **支出循证评级**<br>（Evidence Rating of Outlays） | 将每笔财务支出对应的教育实践在证据库中进行归类：分为符合 ESSA Tier I–III 门槛与全量证据七级评级。 | 全量证据七级量表：积极（Positive）、多半积极（Mostly Positive）、混合效应（Mixed）、多半消极（Mostly Negative）、消极（Negative）、无显著差异（No Significant Evidence）、无研究（No Studies）。（p. 172） |
@@ -189,7 +190,7 @@ issuing_organization: ""
 
 在以往的教育财政研究中，由于缺乏细粒度的账目穿透，学者往往难以厘清大规模联邦资金究竟采购了何种具体的课堂实践。
 
-> [!feature] 学区 [[Title I of the Elementary and Secondary Education Act|Title I]] 资金的双轨分配与宏观支出结构
+> [!feature] 学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金的双轨分配与宏观支出结构
 > - **学区中心统筹与校本分配格局** SUD 学区每年将约三分之二（4,800 万至 4,900 万美元，约占总额 50%）的 Title I 资金直接下拨至各公立学校用于全校范围项目（Schoolwide Programs），由学校自主采购人员编制（如专职干预教师）、购买服务（如教师专业发展）、课堂耗材与教学技术；其余约三分之一资金由学区中心办公室统筹，支持各校自愿参与的辅导项目、暑期学校及教师教练。（p. 167）
 > - **通用行政与法定义务支出** 中心办公室每年支出约 500 万美元（三年累计 1,490 万美元）用于会计、预算、外部资助管理及研究与问责部（负责评估 Title I 项目成效）；此外，按联邦法规必须向辖区内私立非营利学校（Private Non-Profit, PNP）划拨专项资金。（pp. 168–169）
 
@@ -202,22 +203,22 @@ issuing_organization: ""
 
 > [!case] 样本学校微观财务细项与实践归因典型案例
 > - **微观采购穿透与会计科目还原（约 1,300 笔细项流水）**
->   样本学校的财务报表通常只记录物品本身的会计代码（如物料耗材、人员工资[[Coding in Qualitative Research|编码]]），完全不标示具体的教学方案。研究对 4 所样本学校三年间总计 397 万美元的 1,300 笔流水展开逐笔审查，通过学区操作手册、内部项目档案及对 2 所小学和 1 所高中校长的[[Semi-structured Interview|半结构化访谈]]，成功将琐碎流水归并映射至 109 项具体的教育实践中。
+>   样本学校的财务报表通常只记录物品本身的会计代码（如物料耗材、人员工资[[Coding in Qualitative Research\|编码]]），完全不标示具体的教学方案。研究对 4 所样本学校三年间总计 397 万美元的 1,300 笔流水展开逐笔审查，通过学区操作手册、内部项目档案及对 2 所小学和 1 所高中校长的[[Semi-structured Interview\|半结构化访谈]]，成功将琐碎流水归并映射至 109 项具体的教育实践中。
 > - **机器人项目电池采购（620.98 美元）**
->   2016–2017 学年某小学账面支出 620.98 美元用于采购电池。此类通用工业耗材在传统教育财政统计中常被归为无法评估的“常规办公耗材”；研究通过一线校长与行政助理访谈，核实并确证该笔电池专用于课后机器人 STEM 教育项目（Robotics Program），从而将无特征的物料支出成功转化为具备明确科研评价目标的教育干预对象。
+>   2016–2017 学年某小学账面支出 620.98 美元用于采购电池。此类通用工业耗材在传统教育财政统计中常被归为无法评估的“常规办公耗材”；研究通过一线校长与行政助理访谈，核实并确证该笔电池专用于课后机器人 [[STEM Education\|STEM]] 教育项目（Robotics Program），从而将无特征的物料支出成功转化为具备明确科研评价目标的教育干预对象。
 > - **多用途彩色卡纸的等额三分法分摊（Colored Paper）**
 >   学校采购的彩色卡纸被一线教师同时用于三项截然不同的教学与管理活动：家校沟通简报（home-school communication）、体验式学习活动材料（[[Experiential Learning]]）以及日常班级通用教学耗材（general supplies）。在缺乏更细分领用记录的情形下，研究依循访谈指引，将该笔支出金额均等切分为三等份（各占三分之一），分别归入三项独立的教育实践进行循证审计。
-> - **高中专属大学预备与高阶应试项目（[[Advancement Via Individual Determination|AVID]] 与 AP 辅导）**
->   高中校长访谈揭示了中学学段高度特异的资金流向：学区将相当规模的 Title I 资金定点采购于个体决定促进计划（Advancement Via Individual Determination, AVID）选修体系，以支架式辅导提升家庭第一代大学生的学业准备度；同时，专门为低收入家庭学生采购针对[[Advanced Placement Program|大学先修课程]]（Advanced Placement, AP）科目的专项备考辅导材料与应试辅导服务（targeted test-prep），弥合高阶课程考试通关门槛。
+> - **高中专属大学预备与高阶应试项目（[[Advancement Via Individual Determination\|AVID]] 与 AP 辅导）**
+>   高中校长访谈揭示了中学学段高度特异的资金流向：学区将相当规模的 Title I 资金定点采购于个体决定促进计划（Advancement Via Individual Determination, AVID）选修体系，以支架式辅导提升家庭第一代大学生的学业准备度；同时，专门为低收入家庭学生采购针对[[Advanced Placement Program\|大学先修课程]]（Advanced Placement, AP）科目的专项备考辅导材料与应试辅导服务（targeted test-prep），弥合高阶课程考试通关门槛。
 > - **私立非营利学校（PNP）外包法定资金流向解构**
 >   依据联邦法律向辖区私立非营利学校划拨的 Title I 专款呈现出独特的五重配置格局：高达 79% 的经费被平均分配于核心学科抽离式课外辅导（pull-out tutoring）、推入式随堂辅导（push-in tutoring）、学业心理咨询（counseling）及暑期学校；8% 用于私立学校教师专业发展；不到 1% 用于外购五项特定的商业阅读与数学自适应软件（如 Imagine Learning）；剩余 11% 归入学区通用行政协调费用。（pp. 169–170）
 
 将每笔流水映射到可供科研检索的知识对象，是开展循证审计的前提。研究将复杂的打包项目进一步解构为具体活动构件。
 
 > [!proc] 财务细项向教育实践与四大证据库检索词的转化路径
-> 1. **复合实践构件拆解** 例如阅读微课系列（Reading Mini-lessons，单校支出 1,188 美元）最初被学校粗线条登记为普通教师培训，但微观实地还原揭示其实际涵盖[[Professional Learning Community|专业学习共同体]]（Professional Learning Community, PLC）、专业书籍研读（book study）、微课教学实施（mini-lesson delivery）与微课交付培训四个不同层面的教学活动，研究为其分别赋予 4 个独立检索词。（p. 171）
-> 2. **四大公共证据库系统检索** 将归纳生成的 129 个检索词逐一输入[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）、[[Evidence for ESSA]]、[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）以及[[Education Resources Information Center|教育资源信息中心]]（Education Resources Information Center, ERIC）四大公开数据库，系统采集[[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]（QED）、[[Correlational Research|相关性研究]]与[[Meta-analysis|元分析]]证据。
-> 3. **证据等级多维赋值** 对每一实践分别判定是否满足 [[Every Student Succeeds Act|ESSA]] Tier I–III 单项标准，并依据全量证据评价标准赋予综合评级。（p. 172）
+> 1. **复合实践构件拆解** 例如阅读微课系列（Reading Mini-lessons，单校支出 1,188 美元）最初被学校粗线条登记为普通教师培训，但微观实地还原揭示其实际涵盖[[Professional Learning Community\|专业学习共同体]]（Professional Learning Community, PLC）、专业书籍研读（book study）、微课教学实施（mini-lesson delivery）与微课交付培训四个不同层面的教学活动，研究为其分别赋予 4 个独立检索词。（p. 171）
+> 2. **四大公共证据库系统检索** 将归纳生成的 129 个检索词逐一输入[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）、[[Evidence for ESSA]]、[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）以及[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center, ERIC）四大公开数据库，系统采集[[Randomised Controlled Trials\|随机对照试验]]（RCT）、[[Quasi-Experimental Designs\|准实验设计]]（QED）、[[Correlational Research\|相关性研究]]与[[Meta-analysis\|元分析]]证据。
+> 3. **证据等级多维赋值** 对每一实践分别判定是否满足 [[Every Student Succeeds Act\|ESSA]] Tier I–III 单项标准，并依据全量证据评价标准赋予综合评级。（p. 172）
 
 > [!index-table] 基于全量证据评价的教育实践证据评级标准
 > | 证据评级（Evidence Rating） | 基于四大证据库所有合规研究的综合判定标准 |
@@ -230,7 +231,7 @@ issuing_organization: ""
 > | **无显著积极或消极证据（No Significant Evidence）** | 所有研究均发现实验组与对照组之间无显著差异，或[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]之间无显著相关。 |
 > | **无研究（No Studies）** | 在对应的目标学段未检索到任何关于该实践的合规实证研究。 |
 >
-> 全量证据评价体系系统整合了多源实证研究的一致性、[[Heterogeneity|异质性]]与潜在负效应，克服了法定单项正向研究门槛的片面性，为科学检验教育干预的实质有效性提供了综合判定基准。（p. 172）
+> 全量证据评价体系系统整合了多源实证研究的一致性、[[Heterogeneity\|异质性]]与潜在负效应，克服了法定单项正向研究门槛的片面性，为科学检验教育干预的实质有效性提供了综合判定基准。（p. 172）
 
 ---
 
@@ -262,21 +263,21 @@ issuing_organization: ""
 >
 > 测算结果表明，无论采用何种推断口径，全量证据评价均导致获支持资金比例产生 21 至 50 个百分点的显著下降。（p. 175）
 
-> [!case] 典型教育实践在单项 vs 全量[[Evidence Standards|证据标准]]下的分化案例
+> [!case] 典型教育实践在单项 vs 全量[[Evidence Standards\|证据标准]]下的分化案例
 > - **女童导师项目（学区中心办公室大额支出 1,606,669 美元，占中心统筹支出逾 5%）**
 >   - **项目实施情境** 该项目由学区中心办公室统筹设立，面向小学、初中与高中全学段女生开放，检索词设定为女童导师辅导（mentoring for female students）。
 >   - **单项法定门槛的合规判定** 检索仅捕获 Stoeger et al. (2019) 一项针对高能力（gifted）初高中女童在线科学、技术、工程与数学（STEM）导师辅导的相关性研究，该研究报告了部分正向关联。依据 ESSA Tier III 单项合格门槛，仅凭这单一一项非实验相关性研究，整笔 160.6 万美元支出即被认定为全额合规的循证投资。
->   - **全量证据体审视下的断层** 当切换至四大数据库（[[What Works Clearinghouse|WWC]]、[[Evidence for ESSA]]、[[Education Endowment Foundation|EEF]]、[[Education Resources Information Center|ERIC]]）进行全量证据体综合评估时，小学学段因完全检索不到任何实证文献而被客观评为“无研究（No Studies）”；初高中学段虽被赋予“积极（Positive）”，但其评级完全维系在单一一篇观察性文献上，既缺乏因果实验支持，更未在普通弱势群体中获得独立复现，暴露出依靠孤立文献为全学段公共采购背书的严重漏洞。（pp. 172–173）
+>   - **全量证据体审视下的断层** 当切换至四大数据库（[[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]、[[Education Endowment Foundation\|EEF]]、[[Education Resources Information Center\|ERIC]]）进行全量证据体综合评估时，小学学段因完全检索不到任何实证文献而被客观评为“无研究（No Studies）”；初高中学段虽被赋予“积极（Positive）”，但其评级完全维系在单一一篇观察性文献上，既缺乏因果实验支持，更未在普通弱势群体中获得独立复现，暴露出依靠孤立文献为全学段公共采购背书的严重漏洞。（pp. 172–173）
 > - **小学阅读微课系列（单校支出 1,188 美元，代表性复合微观实践）**
 >   - **复合构件拆解** 将微课系列拆解为 4 个独立检索词：专业学习共同体（PLC）、教师专业发展（PD）、专业书籍研读（book study）以及微课教学实施（mini-lesson delivery）。
->   - **多库综合评级分化** 在四大证据库综合审视下，[[Professional Learning Community|PLC]] 获得了强有力且一致的因果实证支持，被评为“积极（Positive）”；小学教师专业发展整体则呈现高度异质性，混合了正向成效与大量零效应，被评为“混合效应（Mixed）”；而针对专业书籍研读与微课教学实施，在对应学段检索不到任何合规实证研究，被评为“无研究（No Studies）”。
+>   - **多库综合评级分化** 在四大证据库综合审视下，[[Professional Learning Community\|PLC]] 获得了强有力且一致的因果实证支持，被评为“积极（Positive）”；小学教师专业发展整体则呈现高度异质性，混合了正向成效与大量零效应，被评为“混合效应（Mixed）”；而针对专业书籍研读与微课教学实施，在对应学段检索不到任何合规实证研究，被评为“无研究（No Studies）”。
 >   - **乐观与保守估算的戏剧性反差** 在基准分析中，研究遵循“乐观原则”为该笔支出赋予了构件中的最高评级（积极）；然而一旦在敏感性检验中切换至“保守原则”（优先赋予构件中的最低评级），该笔采购立即降入混合/无研究类别，丧失积极循证支持资格。（pp. 171, 173）
 > - **全校范围项目（Schoolwide Programs, 涉及学区 1.46 亿美元核心统筹）的宏观评级断层**
 >   - **单项标准下的高度虚夸** 在方法一中，依据检索词 "Title I schoolwide programs" 存在至少一项合格正向文献，学区分配给学校的全部 1.46 亿美元（每年 4,800–4,900 万美元，约占 Title I 总额一半）全额被评为积极，推动全学区合规率达 99%。
 >   - **全量证据体下的真实降级** 当汇聚四大公共数据库所有相关研究时，由于后续多项大规模评价显示全校性拨款对初中和高中的学业提升并不一致（甚至存在零效应），初中与高中的全校项目直接降级为混合效应（Mixed），瞬间导致全学区积极循证资金比例骤降至 49%。
 >   - **最保守敏感度测试（涉及 8,400 万美元）** 若在方法一中将复合全校项目统一赋予最低证据等级，小学全校项目（涉及 8,000 万美元）同样转入混合效应；在全部 35 项实践中，有 6 项从积极/多半积极跌入混合（总金额达 8,400 万美元），直接导致学区获得稳定积极实证支持的资金比例从 49% 压缩至冰点的 **20%**。（pp. 174–177）
 > - **细分教学形态与外购商业软件的证据空白**
->   学区采购的大量驻校咨询辅导（on-site consulting）与商业外购软件（如 Imagine Learning），在证据库中往往只能检索到宏观的“教师专业发展”或“计算机辅[[Teaching Assistant|助教]]学”文献；对于驻校顾问这种具体交付形态，在相关学段几乎毫无独立因果检验，使巨额经常性外包采购完全游离于有效证据监控之外。（pp. 177–178）
+>   学区采购的大量驻校咨询辅导（on-site consulting）与商业外购软件（如 Imagine Learning），在证据库中往往只能检索到宏观的“教师专业发展”或“计算机辅[[Teaching Assistant\|助教]]学”文献；对于驻校顾问这种具体交付形态，在相关学段几乎毫无独立因果检验，使巨额经常性外包采购完全游离于有效证据监控之外。（pp. 177–178）
 
 上述微观分化案例揭示了法定单项门槛为何在实践中难以保障资金的实质有效性。
 
@@ -315,7 +316,7 @@ issuing_organization: ""
 > [!challenges] 教育实证科研供给侧的三重结构性不足
 > - **目标学段实证研究全面断档** 样本学校采购的教育实践中，有多达 26 项实践在相关学段（小学、初中或高中）根本检索不到任何实证研究；学区中心办公室项目中有 7 项实践在部分学段无证据，5 项实践在全学段毫无证据。（p. 177）
 > - **微观实施形态缺乏细分证据** 虽有海量关于宏观教师专业发展的文献，但学区实际采购的驻校咨询辅导（on-site consulting）或针对特定学科微课的交付方式几乎没有独立因果检验。
-> - **有效性证据的情境迁移衰减** 即使某项小组辅导在小学三年级数学障碍儿童中被严谨证实有效（如 Jitendra et al., 2013），也无法外推保证其在学区全样本、其他学科或不同学段同样产生积极学业回报。现场考察（[[Champ|field]] trips）被广泛纳入青少年项目并获 WWC 认可，但独立检验现场考察效用的研究仅有 Whitesell (2016) 一篇初中科学相关性研究，而学区却将其大量用于小学。（pp. 177–178）
+> - **有效性证据的情境迁移衰减** 即使某项小组辅导在小学三年级数学障碍儿童中被严谨证实有效（如 Jitendra et al., 2013），也无法外推保证其在学区全样本、其他学科或不同学段同样产生积极学业回报。现场考察（[[Champ\|field]] trips）被广泛纳入青少年项目并获 WWC 认可，但独立检验现场考察效用的研究仅有 Whitesell (2016) 一篇初中科学相关性研究，而学区却将其大量用于小学。（pp. 177–178）
 
 上述多重视角共同收敛至深层因果链条，揭示了联邦循证政策面临的制度制约。
 
@@ -329,7 +330,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **单项研究标准下呈现极高名义达标率** 依据 [[Every Student Succeeds Act|ESSA]] 法定 Tier I–III 门槛，大型城市学区超过 95%（直接按全校项目划定达 99%，按四校外推达 96%）的 [[Title I of the Elementary and Secondary Education Act|Title I]] 资金投向了具备至少一项合格实证支持的实践。（p. 174）
+> 1. **单项研究标准下呈现极高名义达标率** 依据 [[Every Student Succeeds Act\|ESSA]] 法定 Tier I–III 门槛，大型城市学区超过 95%（直接按全校项目划定达 99%，按四校外推达 96%）的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金投向了具备至少一项合格实证支持的实践。（p. 174）
 > 2. **全量证据综合下获支持资金比例降至不足六成** 在四大权威数据库综合审视下，获稳定积极或多半积极证据支持的资金比例下降至 49%–58%，42%–51% 的联邦资金投向了未获稳定实证支持的实践。（pp. 174–175）
 > 3. **ESSA 实施前后未带来实质性资金重构** 2016–2017 至 2018–2019 三年追踪期间，投向循证实践的资金比例保持基本平稳，法律正式生效并未推动资金向更高证据等级干预集中。（pp. 175–176）
 > 4. **教育科研供给存在严重的学段与实践断层** 样本学校采购的实践中有多达 26 项在适用学段毫无实证研究，大量细分教学形态（如特定形式的在岗辅导与外购软件）处于实证研究空白区。（p. 177）
@@ -345,13 +346,13 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card] [[Every Student Succeeds Act|ESSA]] 证据要求与全量证据评价的分歧
+> [!citation-card] [[Every Student Succeeds Act\|ESSA]] 证据要求与全量证据评价的分歧
 > 研究展示了记录地方教育机构在多大程度上将资金投资于循证实践的策略。根据循证实践是被定义为符合 ESSA 前三个证据等级的研究支持，还是被定义为获得更广泛证据体的支持（更贴近美国教育部 2016 年指南），SUD 学区的测算结果呈现出从 95% 以上到 60% 以下的巨大落差。（p. 177）
 >
 > *Our study demonstrates strategies for documenting the extent to which LEAs invest funds in evidence-based practices. Depending on whether evidence-based practices are defined as those supported by evidence meeting the top three tiers of evidence according to ESSA, or as being supported by a wider body of evidence—more in alignment with the U.S. Department of Education’s (2016) guidance—the results vary dramatically at SUD from over 95% to under 60%.*
 
 > [!citation-card] 地方学区采购与教育科研供给的脱节
-> 总体而言，我们的发现表明 SUD 学区正在遵守 ESSA 的证据要求，但即便在 ESSA 生效后，仍有 42% 至 51% 的 [[Title I of the Elementary and Secondary Education Act|Title I]] 资金投资于未获得更广泛证据支持的实践。如果这一发现也存在于其他学区，它或许有助于解释为何长期以来很难一致证明增加教育投资必然带来更好的学业结局。（p. 177）
+> 总体而言，我们的发现表明 SUD 学区正在遵守 ESSA 的证据要求，但即便在 ESSA 生效后，仍有 42% 至 51% 的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金投资于未获得更广泛证据支持的实践。如果这一发现也存在于其他学区，它或许有助于解释为何长期以来很难一致证明增加教育投资必然带来更好的学业结局。（p. 177）
 >
 > *Overall, our findings suggest that SUD is complying with ESSA's evidence requirements but that, even after ESSA went into effect, 42–51% of Title I funds are still invested in practices that are not supported by a wider body of evidence. If this finding is typical of other school districts, it may help explain why it is difficult to show consistently that greater investment in education leads to better outcomes.*
 
@@ -362,20 +363,20 @@ issuing_organization: ""
 > [!warning]
 > - **单学区微观样本限制** 研究聚焦于一所特大型南部城市学区（SUD），其人口结构（少数族裔与贫困生比例极高）与资金统筹模式可能不同于中小型或农村学区，影响结论的普适性。（pp. 166, 179）
 > - **校级支出样本代表性局限** 校级详细实践分析基于由学区推荐的 4 所典型学校，虽覆盖小初高不同学段，但可能未能穷尽全学区 200 余所学校所有个性化采购。（pp. 167, 179）
-> - **检索范围局限于四大公开数据库** 证据检索限定于 [[What Works Clearinghouse|WWC]]、[[Evidence for ESSA]]、[[Education Endowment Foundation|EEF]] 和 [[Education Resources Information Center|ERIC]] 四大公开平台，虽贴近学区决策者的真实检索场景，但未穷尽 PsycINFO 等专业商业付费[[Document|文献]]库。（p. 171）
-> - **排除 Tier IV 理论依据层级** 因无法清晰[[Operationalization|操作化]]何为合格的基于高质量研究或积极评价的理论逻辑，研究排除了 Tier IV 证据，可能低估了早期创新实践的理论支持度。（p. 179）
+> - **检索范围局限于四大公开数据库** 证据检索限定于 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]、[[Education Endowment Foundation\|EEF]] 和 [[Education Resources Information Center\|ERIC]] 四大公开平台，虽贴近学区决策者的真实检索场景，但未穷尽 PsycINFO 等专业商业付费[[Document\|文献]]库。（p. 171）
+> - **排除 Tier IV 理论依据层级** 因无法清晰[[Operationalization\|操作化]]何为合格的基于高质量研究或积极评价的理论逻辑，研究排除了 Tier IV 证据，可能低估了早期创新实践的理论支持度。（p. 179）
 > - **缺乏直接因果影响检验** 研究旨在量化审计资金分配在证据等级上的分布与纵向变动，未直接建立学区资金转移与学生标准化测验成绩增值之间的微观因果模型。
 
 ---
 
 ## 政策与研究建议
 
-> [!pathways] 作者针对[[Evidence-Based Education|循证教育]]生态体系提出的改进路径
+> [!pathways] 作者针对[[Evidence-Based Education\|循证教育]]生态体系提出的改进路径
 > - **联邦与州教育行政部门** 应当主动调查地方学区最常实施的教育活动，定向资助开展情境迁移研究（Transferability Studies）或改良型复现研究（Modified Replications, Schneider, 2021），系统检验干预措施在不同学段、生源背景及区域环境中的适用边界。
-> - **科研证据清算与检索门户** 证据门户应当增设按具体资金流（如 [[Title I of the Elementary and Secondary Education Act|Title I]] 资格）、学生细分特征（如英语学习者、特殊教育）及目标学业产出进行多维度交叉筛选的功能，并提供实施成本、资源门槛与保真度要求的经济学评估信息。（p. 179）
+> - **科研证据清算与检索门户** 证据门户应当增设按具体资金流（如 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资格）、学生细分特征（如英语学习者、特殊教育）及目标学业产出进行多维度交叉筛选的功能，并提供实施成本、资源门槛与保真度要求的经济学评估信息。（p. 179）
 > - **实证教育科研共同体** 针对实证结论不一致的实践，研究者应深化子群体分析（Subgroup Analysis），解释情境与实施差异带来的效应波动；重点拆解打包项目的核心有效构件，开展成本效益分析。
-> - **地方学区自主循证能力建设** 学区应当充分利用 Title I 允许的留存评估经费，通过自有研究部门或与外部高校研究者合作，对缺乏外部证据的地方特色项目开展自发评估，形成区域[[Going Native|本土化]]证据库。
-> - **未来联邦立法重塑** 在未来的[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]案（Elementary and Secondary Education Act, ESEA）重新授权中，应当确立更为严格的证据法定准入标准，明确要求综合考量多项研究、实施情境与可行性，彻底终结单项研究即可为公共采购辩护的制度漏洞。（p. 180）
+> - **地方学区自主循证能力建设** 学区应当充分利用 Title I 允许的留存评估经费，通过自有研究部门或与外部高校研究者合作，对缺乏外部证据的地方特色项目开展自发评估，形成区域[[Going Native\|本土化]]证据库。
+> - **未来联邦立法重塑** 在未来的[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]案（Elementary and Secondary Education Act, ESEA）重新授权中，应当确立更为严格的证据法定准入标准，明确要求综合考量多项研究、实施情境与可行性，彻底终结单项研究即可为公共采购辩护的制度漏洞。（p. 180）
 
 ---
 

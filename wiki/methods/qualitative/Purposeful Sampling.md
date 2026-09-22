@@ -54,7 +54,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 目的性抽样（Purposeful Sampling）是[[Qualitative Research|质性研究]]中选择参与者或场所（或文件、视觉材料）的策略，其目标是有目的地选择最能帮助研究者理解[[Research Question|研究问题]]的样本（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.198）。与[[Quantitative Research|量化研究]]的[[Random Sampling|随机抽样]]或大量参与者选择有本质区别——质性研究追求信息的丰富性和深度，而非统计代表性。
+> 目的性抽样（Purposeful Sampling）是[[Qualitative Research\|质性研究]]中选择参与者或场所（或文件、视觉材料）的策略，其目标是有目的地选择最能帮助研究者理解[[Research Question\|研究问题]]的样本（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.198）。与[[Quantitative Research\|量化研究]]的[[Random Sampling\|随机抽样]]或大量参与者选择有本质区别——质性研究追求信息的丰富性和深度，而非统计代表性。
 
 Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个方面：
 
@@ -88,7 +88,7 @@ Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个
 ### 招募策略
 
 > [!example]
-> 讨论将个体（或案例）招募到研究中的策略是[[Qualitative Research|质性研究]]中最具挑战性的方面之一。需要说明：(1) 如何告知合适的参与者有关研究的信息；(2) 实际发送的招募信息内容；(3) 为参与提供的激励措施；(4) 若一种招募方法不成功，将采用的备选方法（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
+> 讨论将个体（或案例）招募到研究中的策略是[[Qualitative Research\|质性研究]]中最具挑战性的方面之一。需要说明：(1) 如何告知合适的参与者有关研究的信息；(2) 实际发送的招募信息内容；(3) 为参与提供的激励措施；(4) 若一种招募方法不成功，将采用的备选方法（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9）。
 
 ### Teddlie & Yu 目的性抽样类型学
 
@@ -132,20 +132,20 @@ Teddlie & Yu（2007）和 Teddlie & Tashakkori（2009, p. 174）系统梳理了�
 ## 适用场景
 
 > [!success]
-> 目的性抽样适用于所有[[Qualitative Research|质性研究]]设计。选择能提供最丰富信息的参与者或场所，比[[Sample Size Determination|样本量]]的大小更为关键。
+> 目的性抽样适用于所有[[Qualitative Research\|质性研究]]设计。选择能提供最丰富信息的参与者或场所，比[[Sample Size Determination\|样本量]]的大小更为关键。
 
 ---
 
 ## 局限性
 
 > [!warning]
-> - 目的性抽样的结果不能以统计方式推广到更广泛的总体；推广依赖于读者对研究发现与自身情境的相似性判断（即 [[Naturalistic Generalization|自然主义概括]]）
-> - [[Sample Size Determination|样本量]]建议只是粗略估计，实际操作中可用资源的限制和 饱和 的实际达成情况往往比预先设定的数字更为重要
+> - 目的性抽样的结果不能以统计方式推广到更广泛的总体；推广依赖于读者对研究发现与自身情境的相似性判断（即 [[Naturalistic Generalization\|自然主义概括]]）
+> - [[Sample Size Determination\|样本量]]建议只是粗略估计，实际操作中可用资源的限制和 饱和 的实际达成情况往往比预先设定的数字更为重要
 
 ---
 
 ## 使用此方法的研究
 
 > [!example]- 研究案例索引
-> - [[Argument_Cai_Gao_Liu_2025_HE|Cai 等 (2025)]]：分析教师档案、机构网站和媒体报道，识别 [[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] 四城 39 名教师中 30 名跨部门关键节点。
+> - [[Argument_Cai_Gao_Liu_2025_HE\|Cai 等 (2025)]]：分析教师档案、机构网站和媒体报道，识别 [[Guangdong-Hong Kong-Macau Greater Bay Area\|GBA]] 四城 39 名教师中 30 名跨部门关键节点。
 

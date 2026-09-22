@@ -131,7 +131,7 @@ updated: 2026-07-13
 
 > [!case] 班级教师的抽样困境
 >
-> 设想一位班级教师被免除一个月的教学任务，以研究 13 岁学生完成一组科学实验的能力。研究涉及三所中学，每校 300 名该年龄段学生，总计 900 名学生（总体 = 900）。数据收集方法为[[Semi-structured Interview|半结构化访谈]]。由于时间限制，她不可能访谈全部 900 名学生，必须有选择地访谈少于 900 人。她该如何决定选择哪些学生？
+> 设想一位班级教师被免除一个月的教学任务，以研究 13 岁学生完成一组科学实验的能力。研究涉及三所中学，每校 300 名该年龄段学生，总计 900 名学生（总体 = 900）。数据收集方法为[[Semi-structured Interview\|半结构化访谈]]。由于时间限制，她不可能访谈全部 900 名学生，必须有选择地访谈少于 900 人。她该如何决定选择哪些学生？
 >
 > - 访谈 200 名学生，是否太多
 > - 访谈 20 名学生，是否太少
@@ -156,18 +156,18 @@ updated: 2026-07-13
 >
 > 研究者在决定抽样策略时必须就以下五项因素做出判断（pp.143–144）：
 >
-> 1. **[[Sample Size Determination|样本量]]（sample size）**，即多少案例才算足够
-> 2. **样本的代表性与参数特征（representativeness and parameters）**，即[[Sampling Frame|抽样框]]（sampling frame），明确界定谁属于总体、谁不属于
+> 1. **[[Sample Size Determination\|样本量]]（sample size）**，即多少案例才算足够
+> 2. **样本的代表性与参数特征（representativeness and parameters）**，即[[Sampling Frame\|抽样框]]（sampling frame），明确界定谁属于总体、谁不属于
 > 3. **样本的准入（access to the sample）**，不仅准入是否被允许，还需确保准入实际上可行
-> 4. **抽样策略（sampling strategy）**，选择[[Random Sampling|概率抽样]]（每个成员有均等概率被选中）还是[[Non-probability Sampling|非概率抽样]]（某些成员肯定被排除、另一些肯定被纳入）
-> 5. **研究的类型**，定量、定性还是[[Mixed Methods Research|混合方法]]，不同类型对应不同的抽样逻辑
+> 4. **抽样策略（sampling strategy）**，选择[[Random Sampling\|概率抽样]]（每个成员有均等概率被选中）还是[[Non-probability Sampling\|非概率抽样]]（某些成员肯定被排除、另一些肯定被纳入）
+> 5. **研究的类型**，定量、定性还是[[Mixed Methods Research\|混合方法]]，不同类型对应不同的抽样逻辑
 
 ---
 
 ### 8.2 样本量：多少案例才算足够？
 
 > [!claim] 核心前提
-> 样本量没有统一答案，正确的样本量取决于[[Research Purpose|研究目的]]、总体性质、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量，以及研究是定量还是定性（p.144）。但[[Quantitative Research|定量研究]]中有一条基本原则：样本越大越好，这不仅提供更高的[[Reliability|可靠性]]（reliability），也使更复杂的统计方法成为可能。
+> 样本量没有统一答案，正确的样本量取决于[[Research Purpose\|研究目的]]、总体性质、所需准确度、预期回应率、研究包含的[[Variable\|变量]]数量，以及研究是定量还是定性（p.144）。但[[Quantitative Research\|定量研究]]中有一条基本原则：样本越大越好，这不仅提供更高的[[Reliability\|可靠性]]（reliability），也使更复杂的统计方法成为可能。
 
 ---
 
@@ -177,7 +177,7 @@ updated: 2026-07-13
 > - **30 规则** 若计划使用某种形式的统计分析，30 是许多研究者公认的**总样本量**最小案例数，但这非常小，作者明确建议远超此数（p.144）。
 > - **每变量 30 案例** 每个变量至少需保证 30 个案例，作为经验法则，这也是一个很低的估计。
 > - **子组使样本量迅速膨胀** 一旦需要按子组（strata）分析，样本量要求会急剧上升。
-> - **不同统计方法有不同要求**[[Chi-Squared Test|卡方检验]]、[[Multiple Regression|多元回归]]、因子分析各有其最低样本门槛。研究者在收集数据之前就必须提前思考希望探索的子组关系、计划控制的变量数量以及要使用的统计检验类型。
+> - **不同统计方法有不同要求**[[Chi-Squared Test\|卡方检验]]、[[Multiple Regression\|多元回归]]、因子分析各有其最低样本门槛。研究者在收集数据之前就必须提前思考希望探索的子组关系、计划控制的变量数量以及要使用的统计检验类型。
 
  > [!note] 30 规则 vs 每变量 30 案例
  > 两者容易混淆：30 规则设的是总样本底线，不管几个变量，样本至少 30 人；每变量 30 案例设的是分析门槛，计划分析多少个变量，每个需 30 条数据。但变量一的 30 条数据可以和变量二的来自同一批人，所以总样本量不等于 $30 \times \text{变量数}$。
@@ -186,7 +186,7 @@ updated: 2026-07-13
 
 > [!case] 卡方检验的样本量陷阱
 >
-> 设想一项研究调查一所小学的两个利益相关者子群（60 名 10 岁学生和 20 名教师），对 10 岁学生应每晚做一小时[[Homework|作业]]这一陈述在五点量表上的回应。总样本量为 80，看起来合理。
+> 设想一项研究调查一所小学的两个利益相关者子群（60 名 10 岁学生和 20 名教师），对 10 岁学生应每晚做一小时[[Homework\|作业]]这一陈述在五点量表上的回应。总样本量为 80，看起来合理。
 >
 > 实际数据分布如下：
 >
@@ -208,7 +208,7 @@ updated: 2026-07-13
 >
 > - **总体变异性越大，所需样本越大** Gorard（2003, p. 62）指出，调查 IQ（范围约 70–150）这类高变异变量，可能需要比低变异变量更大的样本。
 > - **名义数据需要更大样本** Oppenheim（1992, p. 44）指出，名义数据的样本量可能需要比等距和比率数据更大，本质上是子组数量的问题，可能类别越多，样本越大。
-> - **Borg & Gall（1979, p. 195）的五条大样本规则** 当变量多、预期差异或关系小、样本需分子组、总体在关键变量上[[Heterogeneity|异质性]]强、[[Dependent Variable|因变量]]的可靠测量不可得时，样本量应当更大。
+> - **Borg & Gall（1979, p. 195）的五条大样本规则** 当变量多、预期差异或关系小、样本需分子组、总体在关键变量上[[Heterogeneity\|异质性]]强、[[Dependent Variable\|因变量]]的可靠测量不可得时，样本量应当更大。
 
 ---
 
@@ -235,7 +235,7 @@ updated: 2026-07-13
 > $$n = \frac{N \cdot Z^2 \cdot p(1-p)}{(N-1) \cdot e^2 + Z^2 \cdot p(1-p)}$$
 >
 > - $N$：总体大小
-> - $Z$：[[Confidence Interval|置信水平]]对应的 $Z$ 值（95% 时 $Z = 1.96$）
+> - $Z$：[[Confidence Interval\|置信水平]]对应的 $Z$ 值（95% 时 $Z = 1.96$）
 > - $p$：总体比例估计（未知时取 $p = 0.5$ 使分子最大化）
 > - $e$：边际误差
 >
@@ -245,7 +245,7 @@ updated: 2026-07-13
 > - **总体增大到一定程度后，样本量趋于恒定** 当 $N$ 很大时，$(N-1) \cdot e^2$ 主导分母，$n$ 逼近 $\frac{Z^2 \cdot p(1-p)}{e^2}$。代入 $Z = 1.96$、$p = 0.5$、$e = 0.05$ 得 $n \approx 384$。这意味着一个 10 万人的城市和一个 1 亿人的国家，随机抽样约需同样多的人——样本量不随总体规模线性增长。
 > - **但实际民调通常取 1,000–1,500，而非 384** 因为 384 是 $\pm 5\%$ 误差下的值；民调追求 $\pm 3\%$，将 $e$ 从 0.05 缩到 0.03，$n$ 直接跳到约 1,067。再加上按年龄、性别、地区分子组分析（分层膨胀效应）和电话调查不到 10% 的回应率（过度抽样），实际所需样本量远超理论最小值（pp.146–148）。
 
-> [!chain-link] 置信水平与[[Confidence Interval|置信区间]]：精确度的双重控制
+> [!chain-link] 置信水平与[[Confidence Interval\|置信区间]]：精确度的双重控制
 > - **置信水平（Confidence Level）**，即"我有多确信"：通常以百分比表示（95% 或 99%），是对回应落在给定变异范围内的确信程度指标。95% 置信水平意味着 95% 的情况下结果落在指定范围内。
 > - **置信区间（Confidence Interval）**，即"我能容忍多大的波动"：希望确保的变异范围（如 $\pm 1\%$、$\pm 2\%$、$\pm 3\%$）。例如民调中 $\pm 3\%$ 意味着若某党获 52% 选票，实际可能在 49%–55% 之间。
 > - **两者之间的权衡** 置信水平越高（如 99% vs 95%），样本量越大；置信区间越小（如 $\pm 3\%$ vs $\pm 5\%$），样本量越大。
@@ -357,11 +357,11 @@ Borg & Gall（1979, p. 201）还提出了一种逆向使用相关系数显著性
 
 ---
 
-> [!info] [[Central Limit Theorem|中心极限定理]]（Central Limit Theorem）
+> [!info] [[Central Limit Theorem\|中心极限定理]]（Central Limit Theorem）
 >
 > 中心极限定理源自概率法则，解释了为什么抽样误差呈现规律性：若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布，无论原始总体的形状如何（正态或非正态）。且样本均值的均值将近似等于总体均值（Hopkins et al., 1996, p. 159, 388）。
 >
-> Hopkins 等（1996, pp. 159–62）通过[[Computer Simulation|计算机模拟]] 10,000 次抽样验证了这一规律。Rose & Sullivan（1993, p. 144）提醒，95% 的所有样本均值落在总体均值 $\pm 1.96$ 个[[Standard Error|标准误]]的范围内，即我们有 95% 的把握使单次抽样均值落在这些界限内（p.150）。
+> Hopkins 等（1996, pp. 159–62）通过[[Computer Simulation\|计算机模拟]] 10,000 次抽样验证了这一规律。Rose & Sullivan（1993, p. 144）提醒，95% 的所有样本均值落在总体均值 $\pm 1.96$ 个[[Standard Error\|标准误]]的范围内，即我们有 95% 的把握使单次抽样均值落在这些界限内（p.150）。
 
 ---
 
@@ -414,7 +414,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 > 值得强调的是，这个过程中比例本身从未改变——始终是 66% 赞成、34% 反对。同样的比例，大样本只是让我们更有把握认为它接近总体真值。反过来说，小样本下即使看到"66% 赞成"这样看似明显的多数，也完全可能是抽样随机波动造成的假象。样本量不改变点估计，但决定了我们对这个估计能有多大的信心。
 
 > [!warning] 样本量与标准误的非线性关系
-> 少于 30 的样本危险地小，允许相当程度的标准误存在。但超过约 80 例后，进一步增加样本量对标准误的影响很小（p.152）。Gorard（2003, p. 62）强调：功效（power）是对你所使用的检验将[[Effect Size|效应量]]与随机变异区分开来之能力的估计，大样本帮助研究者实现统计功效。
+> 少于 30 的样本危险地小，允许相当程度的标准误存在。但超过约 80 例后，进一步增加样本量对标准误的影响很小（p.152）。Gorard（2003, p. 62）强调：功效（power）是对你所使用的检验将[[Effect Size\|效应量]]与随机变异区分开来之能力的估计，大样本帮助研究者实现统计功效。
 
 ---
 
@@ -469,7 +469,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 > - **参与者自身原因** 逃学者因定义就不会在场；受创伤的 AIDS 咨询师无法面对研究者再次讨论痛苦工作，做这份工作已经够痛苦了，不需要和研究者再经历一遍。
 > - **实际原因** 医生或教师根本没有时间与研究者相处。
 > - **保护性原因** 刚收到差评的学校有事需要保护；有新发明或重要发现的人不想披露成功的秘密，知识产权交易使这成为一个活生生的研究者问题。
-> - **[[Gatekeepers|守门人]]（Gatekeepers）** 控制研究者接触目标人群的人。对学校员工是校长、校董、学校秘书、班主任；对学生是朋友、帮派成员、家长、社工（p.154）。
+> - **[[Gatekeepers\|守门人]]（Gatekeepers）** 控制研究者接触目标人群的人。对学校员工是校长、校董、学校秘书、班主任；对学生是朋友、帮派成员、家长、社工（p.154）。
 
 ---
 
@@ -505,7 +505,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 系统抽样
 
-> [!step] [[Systematic Sampling|系统抽样]]（Systematic Sampling）
+> [!step] [[Systematic Sampling\|系统抽样]]（Systematic Sampling）
 > 简单随机抽样的变体，以系统而非随机方式从总体名单中选取。频率间隔公式：
 >
 > $$f = \frac{N}{sn}$$
@@ -520,17 +520,17 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 随机分层抽样
 
-> [!step] [[Stratified Sampling|随机分层抽样]]（Random Stratified Sampling）
+> [!step] [[Stratified Sampling\|随机分层抽样]]（Random Stratified Sampling）
 > 两步过程：
 >
 > 1. **划分层次** 识别总体中必须在样本中出现的特征，将总体划分为同质的离散组（层，strata），如男性组和女性组。
 > 2. **层内随机抽样** 在各组内随机抽样，各组大小由研究者判断或参照随机样本量表确定。
 >
-> 分层抽样是[[Random Assignment|随机化]]与分类化的有用结合，定量研究可使用分析和推论统计，[[Qualitative Research|质性研究]]可针对性接触特定群体。特征选择应尽量简洁，因素越多，不仅抽样越复杂，样本往往也越大。若需在整群样本内进一步分层以获取有区分力的数据，也是可行的（pp.156–157）。
+> 分层抽样是[[Random Assignment\|随机化]]与分类化的有用结合，定量研究可使用分析和推论统计，[[Qualitative Research\|质性研究]]可针对性接触特定群体。特征选择应尽量简洁，因素越多，不仅抽样越复杂，样本往往也越大。若需在整群样本内进一步分层以获取有区分力的数据，也是可行的（pp.156–157）。
 
 ##### 整群抽样
 
-> [!step] [[Cluster Sampling|整群抽样]]（Cluster Sampling）
+> [!step] [[Cluster Sampling\|整群抽样]]（Cluster Sampling）
 > 当总体大且广泛分散时，简单随机抽样在行政上不可行。例如调查全国学生体能水平，随机选取学生并四处奔波测试完全不切实际。
 >
 > 整群抽样选择特定数量的学校（或地理上接近的群），测试这些学校中的所有学生。
@@ -539,7 +539,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 阶段抽样
 
-> [!step] [[Stage Sampling|阶段抽样]]（Stage Sampling）
+> [!step] [[Stage Sampling\|阶段抽样]]（Stage Sampling）
 > 整群抽样的延伸，从样本中再抽取样本。例如随机选择若干学校，从各校随机选择若干班级，从各班随机选择若干学生。
 >
 > Morrison（1993, pp. 121–2）的实例：某研究者需向 11 所中学的所有 16 岁学生（共 2,000 名）发放问卷。由于保密问题无法获取全部学生名单，即使有名单，写出 2,000 个名字来抽签也是令人麻木的活动。从随机样本量表查得需 322 人。
@@ -554,7 +554,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 多阶段抽样
 
-> [!step] [[Multi-phase Sampling|多阶段抽样]]（Multi-phase Sampling）
+> [!step] [[Multi-phase Sampling\|多阶段抽样]]（Multi-phase Sampling）
 > 与阶段抽样的关键区别是各阶段目的不同。
 >
 > - 阶段抽样全程贯穿单一的统一目的，如接触特定区域的特定学生群体。
@@ -570,12 +570,12 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 便利抽样
 
-> [!step] [[Convenience Sampling|便利抽样]]（Convenience Sampling）
+> [!step] [[Convenience Sampling\|便利抽样]]（Convenience Sampling）
 > 亦称机会抽样（opportunity sampling）或偶遇抽样（accidental sampling）。选择最近便的个体作为受访者，持续至达到所需样本量。典型场景是被俘获的受众，如学生或实习教师。不寻求对更广泛总体的推广，对便利抽样而言这是无关的。可能成为案例研究的抽样策略（p.159）。
 
 ##### 配额抽样
 
-> [!step] [[Quota Sampling|配额抽样]]（Quota Sampling）
+> [!step] [[Quota Sampling\|配额抽样]]（Quota Sampling）
 > 非概率版的分层抽样，力求按总体中的比例代表显著特征。三步程序：
 >
 > 1. 识别总体中必须在样本中出现的特征，划分为同质离散组（层）。
@@ -600,20 +600,20 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 目的性抽样
 
-> [!step] [[Purposeful Sampling|目的性抽样]]（Purposive Sampling）
+> [!step] [[Purposeful Sampling\|目的性抽样]]（Purposive Sampling）
 > 研究者根据对典型性或特定特征的判断，手工挑选案例。通常是质性研究的特征，但非绝对。Teddlie & Yu（2007）将诸多目的性抽样类型归为三大类（详见 [[Purposeful Sampling]] 条目）：
 >
 > **代表性/可比性抽样** 典型个案、极端/偏差个案、强度抽样、最大变异抽样、同质抽样、声誉个案抽样。
 >
 > **特殊/独特个案抽样** 揭示性个案（如基要主义宗教学校、难民学校）、关键个案（如 Tripp（1993）的关键教学事件研究；Morrison（2006）以澳门为关键个案的小型国家教育研究）、政治重要个案（如 Ball（1990）对高级政治人物的访谈、Bowe 等（1992）对英国内阁部长的访谈）、完整收集抽样（如某年级所有高成就音乐天赋学生）。
 >
-> **顺序抽样**[[Theoretical Sampling|理论抽样]]（[[Grounded Theory|扎根理论]]）、确认/否定个案抽样、机会抽样、[[Snowball Sampling|滚雪球抽样]]。
+> **顺序抽样**[[Theoretical Sampling\|理论抽样]]（[[Grounded Theory\|扎根理论]]）、确认/否定个案抽样、机会抽样、[[Snowball Sampling\|滚雪球抽样]]。
 >
 > 目的性抽样涉及一种权衡：比概率抽样提供更深的深度，但提供更窄的广度（Teddlie & Yu, 2007）（pp.160–162）。
 
 ##### 维度抽样
 
-> [!step] [[Dimensional Sampling|维度抽样]]（Dimensional Sampling）
+> [!step] [[Dimensional Sampling\|维度抽样]]（Dimensional Sampling）
 > 配额抽样的进一步细化，识别总体中感兴趣的各种因素，获取至少一个涵盖所有因素组合的受访者。例如族裔关系研究以族裔为行、世代（第一/二/三代移民）为列构建多维表格，确保每个交叉格至少有一名受访者（p.162）。
 
 ##### 滚雪球抽样
@@ -629,7 +629,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 >
 > **受访者驱动抽样（Respondent-Driven Sampling, Heckathorn, 1997, 2002）** 受访者不仅识别更多联系人，还主动招募他们参与研究，参与者可能对同伴的招募比对研究者的招募更合作。在研究隐藏人群（hidden populations）时特别有用，因为通常没有抽样框，人群可能守卫隐私，且即使准入获得，真实回应也未必可得。
 >
-> **声誉滚雪球（Reputational Snowball, Farquharson, 2005）** 利用人们的声誉联系识别[[Policy Network|政策网络]]中的关键人物，对研究有权势的个人和政策制定者尤为有效。
+> **声誉滚雪球（Reputational Snowball, Farquharson, 2005）** 利用人们的声誉联系识别[[Policy Network\|政策网络]]中的关键人物，对研究有权势的个人和政策制定者尤为有效。
 >
 > > [!warning] 滚雪球抽样的偏差风险
 > >
@@ -640,7 +640,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 志愿者抽样
 
-> [!step] [[Volunteer Sampling|志愿者抽样]]（Volunteer Sampling）
+> [!step] [[Volunteer Sampling\|志愿者抽样]]（Volunteer Sampling）
 > 准入困难时依赖志愿者，可能是个人朋友、朋友的朋友、回应报纸广告者、对研究感兴趣的特定学校人士、或参加课程者。有时这是唯一可能的抽样方式（Morrison, 2006），可能比完全不研究更好。
 >
 > 必须极其谨慎，志愿者的动机多样：想帮助朋友、对研究本身感兴趣、想造福社会、甚至想报复某所学校或校长。志愿者可能出于善意，但不一定代表更广泛的总体，这一点必须明确说明（p.163）。
@@ -648,14 +648,14 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 ##### 理论抽样
 
 > [!step] 理论抽样（Theoretical Sampling）
-> [[Grounded Theory|扎根理论]]的核心特征。Glaser & Strauss（1967, p. 45）指出，在数据收集过程中，研究者收集、[[Coding in Qualitative Research|编码]]和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。两个关键问题：
+> [[Grounded Theory\|扎根理论]]的核心特征。Glaser & Strauss（1967, p. 45）指出，在数据收集过程中，研究者收集、[[Coding in Qualitative Research\|编码]]和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。两个关键问题：
 >
 > 1. 下一步转向哪些群体获取数据
 > 2. 为哪些理论目的寻求进一步数据
 >
 > 决策基于理论相关性，即那些有助于生成尽可能多属性和类别的群体。样本量相对不重要，样本量可以无限大，或者作为退路，大到足以使类别和问题饱和。
 >
-> **[[Saturation|理论饱和]]（Theoretical Saturation, Glaser & Strauss, 1967, p. 61）** 当新数据不再推进、修改、限定、扩展或增加已发展的理论时，抽样结束。由于事先不知道需要多少数据或什么范围的数据，样本量难以提前确定，这是一个迭代过程而非预先规划（pp.163–164）。
+> **[[Saturation\|理论饱和]]（Theoretical Saturation, Glaser & Strauss, 1967, p. 61）** 当新数据不再推进、修改、限定、扩展或增加已发展的理论时，抽样结束。由于事先不知道需要多少数据或什么范围的数据，样本量难以提前确定，这是一个迭代过程而非预先规划（pp.163–164）。
 
 ---
 
@@ -666,7 +666,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 但这并不意味着质性研究中的样本永远不能代表总体。Onwuegbuzie & Leech（2007）做出了重要区分：
 
-> [!contrast-table] [[Internal and External Generalizability|内部推广性]] vs 外部推广性
+> [!contrast-table] [[Internal and External Generalizability\|内部推广性]] vs 外部推广性
 > | 维度 | 内部推广性（Internal [[External Validity\|generalizability]]） | 外部推广性（External Generalizability） |
 > |---|---|---|
 > | 推广范围 | 子组数据 → 整个样本 | 样本 → 更广泛的总体 |
@@ -687,7 +687,7 @@ Teddlie & Tashakkori（2009, pp. 180–91）指出，混合方法研究通常在
 
 ---
 
-> [!case] [[School Effectiveness|学校效能]]研究的[[Multilevel Mixed Methods Sampling|多层次混合方法抽样]]
+> [!case] [[School Effectiveness\|学校效能]]研究的[[Multilevel Mixed Methods Sampling\|多层次混合方法抽样]]
 >
 > Teddlie & Tashakkori（2009, p. 191）提供了一个五层次抽样实例：
 >
@@ -700,15 +700,15 @@ Teddlie & Tashakkori（2009, pp. 180–91）指出，混合方法研究通常在
 > > | 层次四 | 学区 | 概率抽样（整群）+ 分层目的性抽样 |
 > > | 层次五 | 州级学校系统 | 目的性抽样或便利抽样 |
 >
-> 每个层次根据其[[Research Question|研究问题]]和数据可得性选择最合适的抽样策略，这正是混合方法抽样的核心思想（p.166）。
+> 每个层次根据其[[Research Question\|研究问题]]和数据可得性选择最合适的抽样策略，这正是混合方法抽样的核心思想（p.166）。
 
 > [!taxonomy] 混合方法抽样的三种基本设计
 >
-> **[[Parallel Mixed Methods Sampling|平行混合方法抽样]]（Parallel Mixed Methods Sampling）** 概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集。Onwuegbuzie & Leech（2007, p. 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）（p.165）。
+> **[[Parallel Mixed Methods Sampling\|平行混合方法抽样]]（Parallel Mixed Methods Sampling）** 概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集。Onwuegbuzie & Leech（2007, p. 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）（p.165）。
 >
-> **[[Sequential Mixed Methods Sampling|顺序混合方法抽样]]（Sequential Mixed Methods Sampling）** 一种样本先于另一种并影响后续样本。例如定量数据为[[In-depth Interview|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、[[Focus Group|焦点小组]]）为量化调查识别议题（pp.165–166）。
+> **[[Sequential Mixed Methods Sampling\|顺序混合方法抽样]]（Sequential Mixed Methods Sampling）** 一种样本先于另一种并影响后续样本。例如定量数据为[[In-depth Interview\|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、[[Focus Group\|焦点小组]]）为量化调查识别议题（pp.165–166）。
 >
-> **[[Multilevel Mixed Methods Sampling|多层次混合方法抽样]]（Multilevel Mixed Methods Sampling）** 不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie & Leech（2007, p. 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
+> **[[Multilevel Mixed Methods Sampling\|多层次混合方法抽样]]（Multilevel Mixed Methods Sampling）** 不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie & Leech（2007, p. 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
 
 ---
 
@@ -720,7 +720,7 @@ Teddlie & Tashakkori（2009, pp. 186–7）还推荐了两种混合变体：
 ---
 
 > [!chain-link] 混合方法抽样策略的八项准则（Teddlie & Tashakkori, 2009, pp. 192–3）
-> - **逻辑源自研究问题** 抽样策略应从研究问题或[[Hypothesis|假设]]中逻辑推导而来。
+> - **逻辑源自研究问题** 抽样策略应从研究问题或[[Hypothesis\|假设]]中逻辑推导而来。
 > - **忠实于假定** 忠实于抽样策略所依据的假定（如随机分配、总体中特征的均匀分布等）。
 > - **生成所需数据** 生成能够回答研究问题的定性和定量数据。
 > - **支持清晰推论** 能从数值数据和定性数据中得出清晰推论。
@@ -736,7 +736,7 @@ Teddlie & Tashakkori（2009, pp. 186–7）还推荐了两种混合变体：
 > [!timeline] 抽样规划八阶段
 > - **阶段一：决定是否需要样本** — 是否可能接触到整个总体。有时研究者可以调查全部总体（如一个班级、一所小型学校的所有学生），此时无需抽样。
 > - **阶段二：识别总体** — 明确总体的重要特征（抽样框）和规模。这是所有后续决策的锚点。
-> - **阶段三：确定抽样策略类型** — 选择概率抽样、非概率抽样或混合方法抽样的具体变体，基于[[Research Purpose|研究目的]]和约束条件。
+> - **阶段三：确定抽样策略类型** — 选择概率抽样、非概率抽样或混合方法抽样的具体变体，基于[[Research Purpose\|研究目的]]和约束条件。
 > - **阶段四：确保样本准入** — 若准入无法保证，必须准备修改抽样策略，回到阶段二重新评估。
 > - **阶段五：确定置信参数** — 概率抽样需确定置信水平和置信区间；非概率抽样需确定样本中需要哪些人。
 > - **阶段六：计算所需样本量** — 考虑无回应、不完整/无效回应、流失和样本死亡，通过过度抽样建立冗余。
@@ -783,28 +783,28 @@ Teddlie & Tashakkori（2009, pp. 186–7）还推荐了两种混合变体：
 >
 > *Experienced researchers start with the total population and work down to the sample. By contrast, less experienced researchers often work from the bottom up, that is, they determine the minimum number of respondents needed to conduct the research.* (Ch. 8, p. 143)
 
-> [!citation-card]- [[Sample Size Determination|样本量]]与统计功效
-> 功效是对你所使用的检验将[[Effect Size|效应量]]与随机变异区分开来之能力的估计。大样本帮助研究者实现统计功效。（第8章，p.152）
+> [!citation-card]- [[Sample Size Determination\|样本量]]与统计功效
+> 功效是对你所使用的检验将[[Effect Size\|效应量]]与随机变异区分开来之能力的估计。大样本帮助研究者实现统计功效。（第8章，p.152）
 >
 > *Power is an estimate of the ability of the test you are using to separate the effect size from random variation.* (Ch. 8, p. 152)
 
-> [!citation-card]- [[Sampling Error|抽样误差]]的本质
+> [!citation-card]- [[Sampling Error\|抽样误差]]的本质
 > 抽样误差不一定是抽样程序错误的结果。更确切地说，变异可能源于对不同个体的随机选择。（第8章，p.149）
 >
 > *Sampling error is not necessarily the result of mistakes made in sampling procedures. Rather, variations may occur due to the chance selection of different individuals.* (Ch. 8, p. 149)
 
 > [!citation-card]- 样本量的复杂性
-> 一个经常困扰新手研究者的问题是：研究的样本应该多大？没有明确的答案，因为正确的样本量取决于[[Research Purpose|研究目的]]、所审视总体的性质、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量，以及研究是定量还是定性。（第8章，p.144）
+> 一个经常困扰新手研究者的问题是：研究的样本应该多大？没有明确的答案，因为正确的样本量取决于[[Research Purpose\|研究目的]]、所审视总体的性质、所需准确度、预期回应率、研究包含的[[Variable\|变量]]数量，以及研究是定量还是定性。（第8章，p.144）
 >
-> *A question that often plagues novice researchers is just how large their samples for the research should be. There is no clear-cut answer, for the correct sample size depends on the [[Purpose Statement|purpose of the study]], the nature of the population under scrutiny, the level of accuracy required, the anticipated response rate, the number of variables that are included in the research, and whether the research is quantitative or qualitative.* (Ch. 8, p. 144)
+> *A question that often plagues novice researchers is just how large their samples for the research should be. There is no clear-cut answer, for the correct sample size depends on the [[Purpose Statement\|purpose of the study]], the nature of the population under scrutiny, the level of accuracy required, the anticipated response rate, the number of variables that are included in the research, and whether the research is quantitative or qualitative.* (Ch. 8, p. 144)
 
-> [!citation-card]- [[Non-probability Sampling|非概率抽样]]的价值
-> 小规模研究常使用非[[Random Sampling|概率抽样]]，因为尽管存在非代表性的缺点，它们设置起来远不那么复杂，成本也低得多，并且在研究者不打算将发现推广到样本之外或仅进行[[Questionnaire|问卷]]试点时完全够用。（第8章，p.158）
+> [!citation-card]- [[Non-probability Sampling\|非概率抽样]]的价值
+> 小规模研究常使用非[[Random Sampling\|概率抽样]]，因为尽管存在非代表性的缺点，它们设置起来远不那么复杂，成本也低得多，并且在研究者不打算将发现推广到样本之外或仅进行[[Questionnaire\|问卷]]试点时完全够用。（第8章，p.158）
 >
 > *Small-scale research often uses non-probability samples because, despite the disadvantages that arise from their non-representativeness, they are far less complicated to set up, are considerably less expensive and can prove perfectly adequate where researchers do not intend to generalize their findings beyond the sample in question, or where they are simply piloting a questionnaire as a prelude to the main study.* (Ch. 8, p. 158)
 
 > [!citation-card]- 目的适切性
-> 抽样策略的选择必须受适宜性标准支配。选择哪种策略必须考虑[[Research Purpose|研究目的]]、时间尺度和约束、研究设计、数据收集方法和研究方法论。抽样选择必须对所有这些因素都恰当，效度才能得到保障。（第8章，pp.169–170）
+> 抽样策略的选择必须受适宜性标准支配。选择哪种策略必须考虑[[Research Purpose\|研究目的]]、时间尺度和约束、研究设计、数据收集方法和研究方法论。抽样选择必须对所有这些因素都恰当，效度才能得到保障。（第8章，pp.169–170）
 >
 > *The selection of a sampling strategy must be governed by the criterion of suitability. The choice of which strategy to adopt must be mindful of the purposes of the research, the timescales and constraints on the research, the research design, the methods of data collection and the methodology of the research. The sampling chosen must be appropriate for all these factors if validity is to be served.* (Ch. 8, pp. 169–170)
 

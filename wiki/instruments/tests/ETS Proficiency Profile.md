@@ -59,17 +59,17 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] [[Educational Testing Service|ETS]] Proficiency Profile（EPP / 原 MAPP）
-> - **工具类型** 标准化通识[[21st Century Skills and Competencies Discourse|核心素养]]测评（Standardized [[General Education]] Assessment）。
+> [!instrument-profile] [[Educational Testing Service\|ETS]] Proficiency Profile（EPP / 原 MAPP）
+> - **工具类型** 标准化通识[[21st Century Skills and Competencies Discourse\|核心素养]]测评（Standardized [[General Education]] Assessment）。
 > - **开发者与年份** 美国教育考试服务中心（Educational Testing Service, ETS, 2010，前身为 MAPP）。
-> - **测量目的** 评估高校通识教育课程质量与学生核心认知能力，作为[[Voluntary System of Accountability|美国自愿问责体系]]（VSA）核心推荐工具，测量大一入学到毕业的纵向[[Learning Gain|学习增益]]。
+> - **测量目的** 评估高校通识教育课程质量与学生核心认知能力，作为[[Voluntary System of Accountability\|美国自愿问责体系]]（VSA）核心推荐工具，测量大一入学到毕业的纵向[[Learning Gain\|学习增益]]。
 > - **实施方式** 计算机机考或纸笔测试（标准版 2 小时，简缩版 40 分钟）。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] 通识[[21st Century Skills and Competencies Discourse|核心素养]]与[[Critical Thinking|批判性思维]]
+> [!construct-table] 通识[[21st Century Skills and Competencies Discourse\|核心素养]]与[[Critical Thinking\|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数（标准版） | 测量内容 | 计分方式 |
@@ -84,7 +84,7 @@ updated: 2026-08-27
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 基于人文、社会科学与自然科学真实[[Document|文献]]节选的情境[[Multiple-Choice Questions|选择题]]。
+> - **题项形式** 基于人文、社会科学与自然科学真实[[Document\|文献]]节选的情境[[Multiple-Choice Questions\|选择题]]。
 > - **作答格式** 4 选 1 客观单项选择题。
 > - **计分与常模** 量表分范围为 400–500 分，提供 3 个熟练度水平等级（Proficiency Levels 1, 2, 3）与全美大学增值常模基准。
 

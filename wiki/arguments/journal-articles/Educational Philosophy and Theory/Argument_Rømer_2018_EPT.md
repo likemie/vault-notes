@@ -66,15 +66,15 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > [[John Hattie]] 的 [[Visible Learning]] 理论在教育政策和实践中获得了广泛的全球影响力，但其理论基础——支撑其实证工作的教育理论——很少被讨论。Rømer 提出对 VL 理论基础的哲学审查，追问：VL 背后的基本教育理论是什么？它是否正确？
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> - 教育[[Philosophical Analysis in Education|哲学分析]]——以 [[Bildung]] 传统（Dewey、Kant、Arendt、Biesta）为对照审视 Hattie 的理论
+> - 教育[[Philosophical Analysis in Education\|哲学分析]]——以 [[Bildung]] 传统（Dewey、Kant、Arendt、Biesta）为对照审视 Hattie 的理论
 > - [[Radical Constructivism]] — 识别为 Hattie 的学习理论根基
-> - [[Popper's Three Worlds Theory]] — 识别为 Hattie 的[[Epistemology|认识论]]声称基础，论证其被严重误读
+> - [[Popper's Three Worlds Theory]] — 识别为 Hattie 的[[Epistemology\|认识论]]声称基础，论证其被严重误读
 > - [[Technical Rationality]] — 评价理论作为技术理性的运作机制
 
 ## 研究方法
@@ -82,7 +82,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education]]
 > - 路径：概念分析和哲学论证，通过对 Hattie (2009) *[[Visible Learning]]* 第三章的深度阅读，追踪每条概念链的哲学前提和逻辑后果
-> - [[Dialogue in Education|对话]]对象：Popper 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、冯·格拉泽斯费尔德（[[Ernst von Glasersfeld]]）的[[Radical Constructivism|激进建构主义]]
+> - [[Dialogue in Education\|对话]]对象：Popper 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、冯·格拉泽斯费尔德（[[Ernst von Glasersfeld]]）的[[Radical Constructivism\|激进建构主义]]
 
 ## 核心论证
 
@@ -95,22 +95,22 @@ citation_aliases:
 > 5. 评价不是教育之后发生的事，教育直接被定义为评价本身
 > 6. 教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果/成就"(p.2-5)
 >
-> ### 论证二：因[[Variable|变量]]（学习）的定义问题
-> 1. Hattie 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但没有认真讨论它们之间的概念关系及如何对应实证分析
-> 2. 作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，[[Dependent Variable|因变量]]"[[Academic Achievement|学业成就]]"如何被[[Operationalization|操作化]]、测量的是哪个层次的学习——无人知晓
+> ### 论证二：因[[Variable\|变量]]（学习）的定义问题
+> 1. Hattie 区分了[[Surface and Deep Learning\|表层学习]]、深层学习和建构性理解三个层次，但没有认真讨论它们之间的概念关系及如何对应实证分析
+> 2. 作为 60,000 项评价发现的[[Meta-analysis\|元分析]]综合，[[Dependent Variable\|因变量]]"[[Academic Achievement\|学业成就]]"如何被[[Operationalization\|操作化]]、测量的是哪个层次的学习——无人知晓
 > 3. 评价概念缩小了学习，科学/哲学概念扩大了学习——评价在此支配，因此是狭义的评量性学习概念决定了语言游戏的顺序
-> 4. 构造了"研究笼子"（research cage）：高[[Reliability|信度]]、高[[Internal Consistency|内部一致性]]，但因变量和[[Independent Variable|自变量]]相互循环定义，与研究对象本身没有任何接触——以牺牲效度和外部环境对应为代价(p.5-6)
+> 4. 构造了"研究笼子"（research cage）：高[[Reliability\|信度]]、高[[Internal Consistency\|内部一致性]]，但因变量和[[Independent Variable\|自变量]]相互循环定义，与研究对象本身没有任何接触——以牺牲效度和外部环境对应为代价(p.5-6)
 >
-> ### 论证三：[[Radical Constructivism|激进建构主义]]消解教学概念——双重瓦解
-> 1. Hattie 以 Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]为出发点，完全接受其建构主义学习观
-> 2. Hattie 不满建构主义缺乏[[Didaktik|教学理论]]，试图在此基础上添加"教师中心的教学"
+> ### 论证三：[[Radical Constructivism\|激进建构主义]]消解教学概念——双重瓦解
+> 1. Hattie 以 Glasersfeld 的激进[[Constructivist Paradigm\|建构主义]]为出发点，完全接受其建构主义学习观
+> 2. Hattie 不满建构主义缺乏[[Didaktik\|教学理论]]，试图在此基础上添加"教师中心的教学"
 > 3. 但建构主义本身建立在攻击教师（作为文化和专业权威）的基础上
 > 4. Hattie 因此在"无教师"的前提下构建教师——结果是一个双重的"无教师"
 > 5. Hattie 的教师变成了钻进学习者大脑中的人："教师通过学生的眼睛看学习，学生将自己视为自己的教师"（SEE, capitalization in original, p.238）
 > 6. 外部世界、内容、规范——建构主义的所有问题——直接进入 Hattie 的教学概念(p.6-8)
 >
 > ### 论证四：反馈概念的集权化效应
-> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的[[Dialogue in Education|对话]]、Bakhtin 的对话、Dewey 的交易论或[[Socrates|苏格拉底]]式的辩证
+> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的[[Dialogue in Education\|对话]]、Bakhtin 的对话、Dewey 的交易论或[[Socrates\|苏格拉底]]式的辩证
 > 2. 反馈包含演绎（将学生行为导入操作性目标结构）和归纳两个方面
 > 3. 关键的归纳方面：反馈最有力的是"从学生到教师"——使学习对教师可见，让教师成为"自身效果的学徒"
 > 4. 这与 Peters 的"教育即启蒙"（education as initiation）完全相反——反馈不是让文化、艺术、科学对学生可见
@@ -122,7 +122,7 @@ citation_aliases:
 > 2. Hattie 通过 Bereiter 的中介接触 Popper
 > 3. Bereiter 已经做出关键化简：将 World 3 的"文化对象"缩减为"真理与非真理"，排除人文学科（与 Popper 反复使用贝多芬交响乐作为 World 3 例子不一致）
 > 4. Hattie 进一步化简：World 3 的客观性完全塌缩为主观学习（World 2）
-> 5. Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在[[Epistemology|认识论]]上精确对立
+> 5. Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在[[Epistemology\|认识论]]上精确对立
 > 6. 后果：以 Popper 命名的教育理论服务于 Popper 的精确认识论对立面(p.10-11)
 
 ## 主要发现
@@ -135,7 +135,7 @@ citation_aliases:
 ## 关键引用
 
 > [!quote] 关键引用
-> > “可见的学习本身并不是一种学习理论，事实上它根本不是一种[[Didaktik|教学理论]]。相反，‘可见的学习’是教育和学习被置于一种相当简化的评价理论之下时所产生的结果。”
+> > “可见的学习本身并不是一种学习理论，事实上它根本不是一种[[Didaktik\|教学理论]]。相反，‘可见的学习’是教育和学习被置于一种相当简化的评价理论之下时所产生的结果。”
 > ("[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation.")(p.2)
 >
 > > “我犯的错误是把反馈看作是教师提供给学生的东西……直到我发现当反馈是从学生传向教师时它才是最强大的，我才开始更好地理解它。”

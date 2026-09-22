@@ -46,15 +46,15 @@ updated: 2026-09-12
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国贵格会背景的教育者，20 世纪 60 年代初任日内瓦[[International Schools|国际学校]]社会研究部门负责人。
+> - **身份位置** 美国贵格会背景的教育者，20 世纪 60 年代初任日内瓦[[International Schools\|国际学校]]社会研究部门负责人。
 > - **核心角色** 把校内课程困境组织为跨校教师项目，是 IB 草根发动阶段最明确的倡议者之一。
-> - **历史定位** 可称“早期推动者”，但不宜称为唯一创始人；彼得森在记录其自称“original promoter”时，明确指出项目同时依赖许多人的贡献。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–18)]]
+> - **历史定位** 可称“早期推动者”，但不宜称为唯一创始人；彼得森在记录其自称“original promoter”时，明确指出项目同时依赖许多人的贡献。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–18)]]
 
 ## 生平与职涯
 
 > [!timeline] 与 IB 创立有关的活动
-> - **1962** 组织日内瓦小型会议，会议议程明确使用“[[International Baccalaureate]]”名称，并从[[UNESCO|联合国教科文组织]]取得 2,500 美元资助，讨论适用于国际文凭的社会研究课程。
-> - **1962 年后** 以社会研究为起点维系教师合作。UNESCO 后续四笔小额资助合计 10,000 美元，为早期会议提供有限但关键的生存条件。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–18)]]
+> - **1962** 组织日内瓦小型会议，会议议程明确使用“[[International Baccalaureate]]”名称，并从[[UNESCO\|联合国教科文组织]]取得 2,500 美元资助，讨论适用于国际文凭的社会研究课程。
+> - **1962 年后** 以社会研究为起点维系教师合作。UNESCO 后续四笔小额资助合计 10,000 美元，为早期会议提供有限但关键的生存条件。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–18)]]
 
 ---
 
@@ -68,8 +68,8 @@ updated: 2026-09-12
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **共同创制事件** [[Founding of the International Baccalaureate|国际文凭创立]]。
+> - **共同创制事件** [[Founding of the International Baccalaureate\|国际文凭创立]]。
 > - **校内组织者** 德斯蒙德·科尔-贝克 — 为教师项目提供校内领导与行动空间。
-> - **课程架构者** [[Gerard Renaud|杰拉德·雷诺]] — 把教师讨论进一步转化为六学科组与[[Theory of Knowledge|知识论]]共同核心。
-> - **制度整合者** [[Alec Peterson|亚历克·皮特森]] — 在后续阶段整合筹资、试验学校与大学承认。
+> - **课程架构者** [[Gerard Renaud\|杰拉德·雷诺]] — 把教师讨论进一步转化为六学科组与[[Theory of Knowledge\|知识论]]共同核心。
+> - **制度整合者** [[Alec Peterson\|亚历克·皮特森]] — 在后续阶段整合筹资、试验学校与大学承认。
 

@@ -65,11 +65,11 @@ updated: 2026-09-11
 > [!instrument-profile] Kmet 方法学质量评价量表
 > - **工具类型** 实证研究方法学质量与偏倚风险核查清单（Checklist / Rubric）。
 > - **开发者与年份** Kmet, Lee, & Cook (2004)（Alberta Heritage Foundation for Medical Research）。
-> - **测量目的** 在[[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]中，标准化评估初级定量与质性实证研究的[[Internal Validity|内部效度]]、研究设计严密性、测量信效度与控制充分性。
-> - **实施方式** 由两名研究者独立背对背审阅[[Document|文献]]全文并评分，计算[[Intercoder Agreement|编码者间一致性]][[Reliability|信度]]，通过协商解决分歧。
+> - **测量目的** 在[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]中，标准化评估初级定量与质性实证研究的[[Internal Validity\|内部效度]]、研究设计严密性、测量信效度与控制充分性。
+> - **实施方式** 由两名研究者独立背对背审阅[[Document\|文献]]全文并评分，计算[[Intercoder Agreement\|编码者间一致性]][[Reliability\|信度]]，通过协商解决分歧。
 
 > [!citation-card]- 关键表述
-> 两位作者运用 Kmet, Lee, and Cook's (2004) 14 项检查清单独立评估了纳入研究的方法学质量，从多个维度全面评估[[Quantitative Research|定量研究]]的内部效度；所有 66 项初级研究得分均在 50% 以上（总分 28 分，均分 23.75 分，质量达标率为 85%）。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, p. 5)]]
+> 两位作者运用 Kmet, Lee, and Cook's (2004) 14 项检查清单独立评估了纳入研究的方法学质量，从多个维度全面评估[[Quantitative Research\|定量研究]]的内部效度；所有 66 项初级研究得分均在 50% 以上（总分 28 分，均分 23.75 分，质量达标率为 85%）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 5)]]
 >
 > *Two authors independently assessed the quality of each study with Kmet, Lee, and Cook's (2004) fourteen-item checklist. These items helped assess the internal validity of quantitative research across multiple methodological dimensions...*
 
@@ -77,7 +77,7 @@ updated: 2026-09-11
 
 ## 测量构念与维度
 
-> [!construct-table] 定量实证研究[[Internal Validity|内部效度]]与方法学质量
+> [!construct-table] 定量实证研究[[Internal Validity\|内部效度]]与方法学质量
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 评估维度 | 核心核查指标 | 计分方式 |
@@ -94,14 +94,14 @@ updated: 2026-09-11
 ## 题项与作答方式
 
 > [!instrument-items] 计分规则与合成规程
-> - **题项数量** [[Quantitative Research|定量研究]]共 14 项评价准则（[[Qualitative Research|质性研究]]对应 10 项准则）。
+> - **题项数量** [[Quantitative Research\|定量研究]]共 14 项评价准则（[[Qualitative Research\|质性研究]]对应 10 项准则）。
 > - **满分与标准化得分** 定量研究满分为 28 分（若包含 $m$ 个不适用题项 NA，则有效满分为 $28 - 2m$）；最终质量得分以总得分占有效满分的百分比表示：
 >   $$\text{Quality Score} = \frac{\text{Total Score}}{28 - 2 \times N_{\text{NA}}} \times 100\%$$
-> - **纳入截断标准** [[Meta-analysis|元分析]]通常设定 50% 或 60% 为最低质量合格线，低于截断标准的研究在敏感性分析中剔除。
+> - **纳入截断标准** [[Meta-analysis\|元分析]]通常设定 50% 或 60% 为最低质量合格线，低于截断标准的研究在敏感性分析中剔除。
 
 ---
 
 ## 实证应用与案例
 
 > [!evidence-grid-a] 实证研究中的应用
-> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用 Kmet 14 项量表对 66 项[[Graphic Organizer|图形组织器]][[Experimental Research|实验研究]]进行双盲质量评分（评分范围 17 至 28 分，$M = 23.75$），证实纳入[[Document|文献]][[Ganz-Methode|整体方法]]学质量优良（图 3 与表 1）。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用 Kmet 14 项量表对 66 项[[Graphic Organizer\|图形组织器]][[Experimental Research\|实验研究]]进行双盲质量评分（评分范围 17 至 28 分，$M = 23.75$），证实纳入[[Document\|文献]][[Ganz-Methode\|整体方法]]学质量优良（图 3 与表 1）。

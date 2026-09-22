@@ -8,7 +8,7 @@ aliases:
 summary: "由 King 和 Kitchener 提出的认知发展与信念辩护模型，描述个体面对劣构问题时从前反思阶段（阶段1-3）、准反思阶段（阶段4-5）向反思阶段（阶段6-7）演进的认识论认知路径。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 18
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,12 +24,16 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemological Beliefs]]"
   - "[[Simplicity of Knowledge]]"
+  - "[[Scaffolding]]"
+  - "[[Causality]]"
+  - "[[Interaction Effect]]"
   - "[[Variable]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -42,7 +46,7 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 status: active
 created: 2026-08-13
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Reflective Judgment Model
@@ -54,18 +58,18 @@ updated: 2026-09-21
 
 > [!theory-position] 理论概貌
 > - **核心解释对象** 个体面对缺乏唯一确定答案的劣构问题（ill-structured problems）时，如何理解知识的本质、不确定性以及如何为自己的信念进行合理辩护。
-> - **理论核心问题** 人们如何理解认识过程的局限性？在没有现成算法或权威标准答案的情境下，认知者如何收集证据、权衡矛盾观点并作出合理的[[Reflexivity|反思性]]判断？
-> - **理论渊源与类型** 基于[[Jean Piaget|皮亚杰]]（Jean Piaget）认知发展论与[[John Dewey|杜威]]（John Dewey）[[Reflective Thinking|反思性思维]]理论，深化并拓展了威廉·佩里（William Perry）智力与伦理发展图式的高阶认识认知（[[Epistemic Cognition]]）阶段发展模型。
-> - **知识脉络定位** 构成了教育心理学中评估个体认知成熟度、批判性论辩水平以及[[Task Structure|劣构任务]]推理能力的核心理论框架。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 100-101)]]; [[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 309-310)]]
+> - **理论核心问题** 人们如何理解认识过程的局限性？在没有现成算法或权威标准答案的情境下，认知者如何收集证据、权衡矛盾观点并作出合理的[[Reflexivity\|反思性]]判断？
+> - **理论渊源与类型** 基于[[Jean Piaget\|皮亚杰]]（Jean Piaget）认知发展论与[[John Dewey\|杜威]]（John Dewey）[[Reflective Thinking\|反思性思维]]理论，深化并拓展了威廉·佩里（William Perry）智力与伦理发展图式的高阶认识认知（[[Epistemic Cognition]]）阶段发展模型。
+> - **知识脉络定位** 构成了教育心理学中评估个体认知成熟度、批判性论辩水平以及[[Task Structure\|劣构任务]]推理能力的核心理论框架。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 100-101)]]; [[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 309-310)]]
 
 ---
 
 ## 发展阶段体系
 
-> [!taxonomy] [[Reflexivity|反思性]]判断的三个认知发展时期与七个递进阶段
+> [!taxonomy] [[Reflexivity\|反思性]]判断的三个认知发展时期与七个递进阶段
 > King & Kitchener (1994, 2002) 将个体的反思性判断能力划分为三大认知发展时期，细分为七个具有内在逻辑一致性的递进发展阶段（见下表）：
 
-> [!ref-table]- 表 1：反思性判断模型（RJM）七个发展阶段的[[Epistemology|认识论]]特征与辩护方式（基于 King & Kitchener, 1994, 2002; [[Argument_Hofer_1997_RER|Hofer & Pintrich, 1997]]）
+> [!ref-table]- 表 1：反思性判断模型（RJM）七个发展阶段的[[Epistemology\|认识论]]特征与辩护方式（基于 King & Kitchener, 1994, 2002; [[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997]]）
 > | 发展时期 | 阶段编号 | 知识本质观（View of Knowledge） | 信念辩护概念（Concept of Justification） | 典型思维表征与代表性话语 |
 > |---|---|---|---|---|
 > | **前反思思维<br>(Pre-Reflective Thinking)<br>阶段 1–3** | **阶段 1：绝对直接主义** | 知识是绝对确凿、单一直观且客观存在的。真理通过直接观察或个人感官经验即可直接获得（眼见为实）。 | 不需要为信念辩护，因为事物就是所见到的那样；不存在主观信念与客观现实的区分，没有问题具有不确定性。 | 事物就是这样的，因为我亲眼看到了，根本不需要讨论。 |
@@ -85,39 +89,39 @@ updated: 2026-09-21
 ### 命题一　反思性判断的发展是由认知失衡驱动的结构性重组
 
 > [!proposition-chain] 认识发展的建构动力
-> [[Reflexivity|反思性]]判断能力的演进遵循从前反思阶段、准反思阶段到反思阶段的发展逻辑，知识本质从绝对确定演变为开放的概率性评估。
+> [[Reflexivity\|反思性]]判断能力的演进遵循从前反思阶段、准反思阶段到反思阶段的发展逻辑，知识本质从绝对确定演变为开放的概率性评估。
 
 > [!chain-link] 机制推演
-> - **发展动力** 发展是由认知失衡引发的同化与顺应，个体对知识与辩护的[[Hypothesis|假设]]在应对现实复杂矛盾时不断进行结构性重组。
+> - **发展动力** 发展是由认知失衡引发的同化与顺应，个体对知识与辩护的[[Hypothesis\|假设]]在应对现实复杂矛盾时不断进行结构性重组。
 > - **前反思阶段（Pre-reflective，阶段 1–3）** 将知识视为确定且绝对的，依赖直觉或外部权威，无法处理真正的劣构问题。
 > - **准反思阶段（Quasi-reflective，阶段 4–5）** 认识到知识的不确定性与主观性，但容易滑入极端相对主义，尚不能有效跨情境协调证据与论点。
-> - **反思阶段（Reflective，阶段 6–7）** 认识到知识是情境限制与主动建构的产物，个体能够整合多元视角，运用批判性质询与概率性辩护来评估结论的合理性。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 100-101)]]
+> - **反思阶段（Reflective，阶段 6–7）** 认识到知识是情境限制与主动建构的产物，个体能够整合多元视角，运用批判性质询与概率性辩护来评估结论的合理性。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 100-101)]]
 
 ---
 
 ### 命题二　劣构任务结构激活认识动机并使反思性判断成为学业瓶颈
 
-> [!concept-lens] [[Task Structure|任务结构]]对反思性判断的情境激活
+> [!concept-lens] [[Task Structure\|任务结构]]对反思性判断的情境激活
 > 反思性判断能力并非静态的抽象能力，它只有在脱离现成算法与标准答案的劣构任务环境中才会被实质激活。
 
-> [!claim] [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
-> **劣构任务中的反思性判断瓶颈** 在良构任务（个人生活方式计划）中，因外部提供了完备的大纲与打包资料，学生无需动用高阶反思性判断即可取得良好成绩（[[Epistemology|认识论]]三因子预测力 $R^2 = .04, p = .37$）。而在劣构任务（专案组癌症经费分配辩护）中，缺乏现成算法与评分量规的情境激活了认识动机，迫使学生动用反思性判断；此时，[[Epistemological Beliefs|认识论信念]]中的[[Simplicity of Knowledge|简单知识]]（SK）成为制约反思性判断得分的核心瓶颈（$\beta = -.24, R^2 = .06, p = .02$；控制确定知识后增量 $\Delta R^2 = .07, p = .02$）。坚信知识由孤立碎片构成的学生无法在头脑中容忍对立证据并进行价值权衡，导致反思性判断停滞在低阶阶段。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 320-324)]]
+> [!claim] [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
+> **劣构任务中的反思性判断瓶颈** 在良构任务（个人生活方式计划）中，因外部提供了完备的大纲与打包资料，学生无需动用高阶反思性判断即可取得良好成绩（[[Epistemology\|认识论]]三因子预测力 $R^2 = .04, p = .37$）。而在劣构任务（专案组癌症经费分配辩护）中，缺乏现成算法与评分量规的情境激活了认识动机，迫使学生动用反思性判断；此时，[[Epistemological Beliefs\|认识论信念]]中的[[Simplicity of Knowledge\|简单知识]]（SK）成为制约反思性判断得分的核心瓶颈（$\beta = -.24, R^2 = .06, p = .02$；控制确定知识后增量 $\Delta R^2 = .07, p = .02$）。坚信知识由孤立碎片构成的学生无法在头脑中容忍对立证据并进行价值权衡，导致反思性判断停滞在低阶阶段。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 320-324)]]
 
 ---
 
 ### 命题三　显性教学干预能够加速反思阶段递进且基础教育阶段干预红利显著
 
 > [!concept-lens] 发展阶段的因果可塑性与干预窗口期
-> 传统反思性判断模型通常假定个体从前反思阶段向准反思及反思阶段的递进，是一个伴随长年高等教育与人生阅历而缓慢推进的自然认知成熟过程。认识论认知干预实证表明，针对劣构议题提供显性认知支架与评估规则，能够因果性地打破阶段停滞，且基础教育阶段呈现出更高的干预收益。
+> 传统反思性判断模型通常假定个体从前反思阶段向准反思及反思阶段的递进，是一个伴随长年高等教育与人生阅历而缓慢推进的自然认知成熟过程。[[Epistemic Cognition\|认识论认知]]干预实证表明，针对劣构议题提供显性[[Scaffolding\|认知支架]]与评估规则，能够[[Causality\|因果性]]地打破阶段停滞，且基础教育阶段呈现出更高的干预收益。
 
-> [!claim] [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]
-> **反思判断的教学加速机制与学段敏感性** 认识论认知干预的一阶元分析表明，反思性判断的提升并不局限于自发性长期经验累积，系统的教学干预能够有效促进学生突破前反思与准反思阶段的思维局限。在学段调节效应上，初中阶段与高中阶段的干预效应量显著高于大学学段。这一机制红利表明，中学生正处于从前反思阶段向准反思阶段转变的关键窗口期（常模均值处于阶段 3.2），面对多元冲突证据时认知信念具有极高的重塑空间；而大学生基线思维相对稳定，常规教学干预难以轻易改变其深层认识论图式。
+> [!claim] [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]
+> **反思判断的教学加速机制与学段敏感性** 认识论认知干预的一阶[[Meta-analysis\|元分析]]表明，反思性判断的提升并不局限于自发性长期经验累积，系统的教学干预能够有效促进学生突破前反思与准反思阶段的思维局限。在学段[[Interaction Effect\|调节效应]]上，初中阶段与高中阶段的干预[[Effect Size\|效应量]]显著高于大学学段。这一机制红利表明，中学生正处于从前反思阶段向准反思阶段转变的关键窗口期（常模均值处于阶段 3.2），面对多元冲突证据时认知信念具有极高的重塑空间；而大学生基线思维相对稳定，常规教学干预难以轻易改变其深层认识论图式。
 
 ---
 
 ## 课堂教学实验中的操作化量规
 
-> [!ref-table]- 劣构学术任务[[Reflexivity|反思性]]判断评分细则（基于 King & Kitchener, 1994; [[Argument_Lodewyk_2007_EP|Lodewyk, 2007, pp. 316–317]]）
+> [!ref-table]- 劣构学术任务[[Reflexivity\|反思性]]判断评分细则（基于 King & Kitchener, 1994; [[Argument_Lodewyk_2007_EP\|Lodewyk, 2007, pp. 316–317]]）
 > | RJ 评分（1–5分制） | 对应 RJM 发展阶段 | 阶段认知特征与在癌症经费辩护任务中的具体表现 | 评分标准与指标 |
 > |---|---|---|---|
 > | **0.5–2.0 分** | **阶段 1：前反思水平** | 未能意识到公共卫生议题的复杂性；认为存在唯一绝对正解；未能提供有效论据，将个人直觉或武断主张视作绝对真理；极度简化癌症防治争议。 | 过度简化议题，无有效证据支持与论辩 |
@@ -131,28 +135,28 @@ updated: 2026-09-21
 
 > [!theory-boundary] 适用边界与方法论反思
 > - **适用情境** 适合解释青少年到成年期个体在面对伦理争议、公共政策、历史评定及科学争议等复杂劣构问题时的认知成熟度演变。
-> - **常模与发展阶段的分布现实** 大样本实证表明，中学生群体的[[Reflexivity|反思性]]判断常模均值处于阶段 3.2（King & Kitchener, 1994），普遍处于前反思向准反思的过渡阶段；高阶的反思阶段（阶段 6 与 7）极其罕见，通常仅在接受过系统学术训练的高级研究生或成熟学者群体中稳定出现。
-> - **任务情境局限性** 将[[Epistemic Cognition|认识论认知]]局限于[[Task Structure|劣构任务]]中的言语辩护，可能无法完全捕捉个体在日常良构学习情境中所抱持的隐性[[Epistemology|认识论假设]]。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 102-103)]]; [[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 324-325)]]
-> - **自然成熟假设与教学可塑性的张力** 传统模型将各阶段假定为长期生活经验自发累积的产物，容易导致教学宿命论；而现代干预元分析（[[Argument_Cartiff_2021_JEP|Cartiff et al., 2021]]）证实显性认知干预可在数周内加速阶段递进，表明理论需进一步整合外在教学支架的调节作用。
+> - **常模与发展阶段的分布现实** 大样本实证表明，中学生群体的[[Reflexivity\|反思性]]判断常模均值处于阶段 3.2（King & Kitchener, 1994），普遍处于前反思向准反思的过渡阶段；高阶的反思阶段（阶段 6 与 7）极其罕见，通常仅在接受过系统学术训练的高级研究生或成熟学者群体中稳定出现。
+> - **任务情境局限性** 将[[Epistemic Cognition\|认识论认知]]局限于[[Task Structure\|劣构任务]]中的言语辩护，可能无法完全捕捉个体在日常良构学习情境中所抱持的隐性[[Epistemology\|认识论假设]]。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 102-103)]]; [[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 324-325)]]
+> - **自然成熟[[Hypothesis\|假设]]与教学可塑性的张力** 传统模型将各阶段假定为长期生活经验自发累积的产物，容易导致教学宿命论；而现代干预[[Meta-analysis\|元分析]]（[[Argument_Cartiff_2021_JEP\|Cartiff et al., 2021]]）证实显性认知干预可在数周内加速阶段递进，表明理论需进一步整合外在[[Scaffolding\|教学支架]]的调节作用。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- [[Reflexivity|反思性]]判断模型实证研究汇总
+> [!ref-table]- [[Reflexivity\|反思性]]判断模型实证研究汇总
 > <span class="theory-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 89名加拿大十年级中学生（独立学校科学课） | 组内平衡设计[[Task Structure\|劣构任务]]实验（专案组癌症经费分配辩护） | [[Simplicity of Knowledge\|简单知识]]（SK）、固定快速学习（FQAL）、确定知识（CK）、反思性判断（RJ，1–5分量规） | 两位评定者 RJ 评分一致性信度 $r = .89$；认识论三因子整体显著预测 RJ 得分（$R^2 = .10$）；SK 是唯一显著负向预测源（$\beta = -.24, R^2 = .06$；控制 CK 后增量 $\Delta R^2 = .07$） | RJ 模型 $F(3,85) = 2.97, p = .04$；SK 独立效应 $F(1,87) = 5.56, p = .02$；控制 CK 后增量 $F(2,86) = 4.20, p = .02$ | 实证确立了简单知识信念对中学生在劣构科学辩护中反思性判断水平的核心制约机制 |
 > | King & Kitchener (1994) | 跨越高中、大学至研究生的广泛大样本追踪 | 反思性判断访谈（Reflective Judgment Interview, RJI） | 学段、年龄、RJM 七阶段得分 | 高中生平均得分为阶段 3.2；大学本科生平均得分为阶段 4.0 左右；阶段 6–7 仅在博士研究生与成熟学者中稳定显现 | 跨学段差异极显著（$p < .001$） | 确立了反思性判断随教育年限与认知挑战循序渐进发展的常模基线 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 4,373名学生（涵盖小学、初中、高中与大学） | 认识论认知因果干预一阶[[Meta-analysis\|元分析]]（28项研究，59个效应量，随机效应模型） | 学段（小学、初中、高中、大学）、教学框架、认识论干预效应 | 1. 总体干预效应 $d = 0.509$ $[0.334, 0.684]$<br>2. 学段调节：初中 $d = 0.612$ $[0.301, 0.923]$，高中 $d = 0.638$ $[0.316, 0.959]$，大学 $d = 0.312$ $[0.119, 0.505]$ | 学段组间差异 $Q_b = 6.273, p < .05$；总体异质性 $Q(58) = 459.739, p < .001$ | 证实显性认识干预能有效加速反思性认知发展，且基础教育阶段（初高中）干预成效显著优于大学阶段 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 4,373名学生（涵盖小学、初中、高中与大学） | 认识论认知因果干预一阶[[Meta-analysis\|元分析]]（28项研究，59个效应量，随机效应模型） | 学段（小学、初中、高中、大学）、教学框架、[[Epistemology\|认识论]]干预效应 | 1. 总体干预效应 $d = 0.509$ $[0.334, 0.684]$<br>2. 学段调节：初中 $d = 0.612$ $[0.301, 0.923]$，高中 $d = 0.638$ $[0.316, 0.959]$，大学 $d = 0.312$ $[0.119, 0.505]$ | 学段组间差异 $Q_b = 6.273, p < .05$；总体异质性 $Q(58) = 459.739, p < .001$ | 证实显性认识干预能有效加速反思性认知发展，且基础教育阶段（初高中）干预成效显著优于大学阶段 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 在十年级科学课劣构辩护任务中应用 King & Kitchener (1994) 模型建立 5 分制 RJ 评分量规，实证证实了[[Simplicity of Knowledge|简单知识]]（SK）信念对[[Reflexivity|反思性]]判断得分的显著负向预测效应（$\beta = -.24, p = .02$）。
-> - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 全面梳理并评述了 King & Kitchener 的反思性判断模型，剖析了其从 Perry 图式演化而来的理论脉络、三阶段七时期架构及其在[[Epistemic Cognition|认识论认知]]研究中的基石地位。
-> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 认识论认知干预元分析，检验了反思性判断相关构念在课堂教学中的可干预性，证实显性教学干预能因果打破前反思停滞，并揭示了初高中学段显著优于大学学段的干预红利（$Q_b = 6.273, p < .05$）。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 在十年级科学课劣构辩护任务中应用 King & Kitchener (1994) 模型建立 5 分制 RJ 评分量规，实证证实了[[Simplicity of Knowledge\|简单知识]]（SK）信念对[[Reflexivity\|反思性]]判断得分的显著负向预测效应（$\beta = -.24, p = .02$）。
+> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 全面梳理并评述了 King & Kitchener 的反思性判断模型，剖析了其从 Perry 图式演化而来的理论脉络、三阶段七时期架构及其在[[Epistemic Cognition\|认识论认知]]研究中的基石地位。
+> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预[[Meta-analysis\|元分析]]，检验了反思性判断相关[[Construct\|构念]]在课堂教学中的可干预性，证实显性教学干预能因果打破前反思停滞，并揭示了初高中学段显著优于大学学段的干预红利（$Q_b = 6.273, p < .05$）。

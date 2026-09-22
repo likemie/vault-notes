@@ -63,16 +63,16 @@ citation_aliases:
 
 > [!info]
 > - 方法：受委托的组织史叙述与历史回顾，而不是围绕明确研究设计展开的学术研究。(p.7-9)
-> - 样本：[[Cognition Education|Cognition Education Trust]]、Cognition Education Limited 及其相关团队与子公司。(p.7)
+> - 样本：[[Cognition Education\|Cognition Education Trust]]、Cognition Education Limited 及其相关团队与子公司。(p.7)
 > - 数据来源：组织档案、董事与同事对事实和章节的校核意见，以及作者作为前高管的长期工作经验。(p.9)
 
 ## 论证结构
 
 > [!example]
 > 1. 这本书先把 [[Cognition Education]] 的起源放回 [[Tomorrow's Schools Reforms]] 创造的准市场，以此确立一个基本前提：组织命运始终由国家设定的采购与治理边界塑形。(p.11-18)
-> 2. 接着，书中把公司从国内学校支持服务走向国际咨询、建校与培训的历程，解释为一连串由脆弱性驱动的适应，而不是稳定、线性的[[Growth|成长]]史。具体发展经过见 [[Cognition Education]] 与 [[Jerudong International School Establishment]].(p.21-63)
+> 2. 接着，书中把公司从国内学校支持服务走向国际咨询、建校与培训的历程，解释为一连串由脆弱性驱动的适应，而不是稳定、线性的[[Growth\|成长]]史。具体发展经过见 [[Cognition Education]] 与 [[Jerudong International School Establishment]].(p.21-63)
 > 3. 当叙述推进到 [[Visible Learning Branding and Global Influences]] 与 Culture Counts 等知识产品时，重点已不只是“公司做了什么”，而是作者如何把这些业务重写成更轻资产、更可复制、也更能证明组织适应性的商业模型。(p.59-63)
-> 4. 慈善信托章节承担的功能，是把公益从外围装饰提升为组织自我合法化的核心装置。治理分离、资本化基金和资助策略（grant strategy）共同证明，这个组织试图把商业成功和教育公益讲成同一条[[Story Line|故事线]]。(p.69-74)
+> 4. 慈善信托章节承担的功能，是把公益从外围装饰提升为组织自我合法化的核心装置。治理分离、资本化基金和资助策略（grant strategy）共同证明，这个组织试图把商业成功和教育公益讲成同一条[[Story Line\|故事线]]。(p.69-74)
 > 5. 尾声则把前面所有转折重新压缩成一个单一结论：Cognition 的历史证明了某种演化基因（evolutionary DNA）。换句话说，这本书真正要完成的不是外部检验，而是为组织写出一套“为何能持续存在”的自我解释。(p.75-76)
 
 ## 各章概览
@@ -110,7 +110,7 @@ citation_aliases:
 > [!success]
 > - 这本书的核心工作不是证明某个外部学术命题，而是把 [[Cognition Education]] 的多次转向组织成一套关于适应性的内部解释。(p.7-9, p.75-76)
 > - 全书最关键的分析动作，是把公司史持续放回 [[Tomorrow's Schools Reforms]] 及其后续国家采购重组中理解，从而把成败解释为制度环境与组织适应的关系，而不只是管理能力问题。(p.11-18, p.76)
-> - 国际扩张、中东高增长与编织河道（braided river）式重组，在书中都不是孤立章节，而是被串成同一条组织神话的[[Chain of Evidence|证据链]]。(p.35-63)
+> - 国际扩张、中东高增长与编织河道（braided river）式重组，在书中都不是孤立章节，而是被串成同一条组织神话的[[Chain of Evidence\|证据链]]。(p.35-63)
 > - 第五章把公益从外围慈善提升为组织合法性的核心，这使全书始终能把商业扩张和教育公益讲成互相支撑的关系。(p.69-74)
 > - 因此，这部书最有分析价值的地方，不在于提供最完整的公司发展史，而在于揭示机构如何叙述和正当化自己的历史。(p.7-9)
 

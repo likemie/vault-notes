@@ -68,32 +68,32 @@ updated: 2026-05-22
 > - 目标参照：反馈必须隐含或明确一个目标，否则学生只会知道自己被评价了，却不知道朝哪里改。
 > - 下一步行动：真正有用的反馈会告诉学生下一步如何调整，而不是只告诉他“对/错”。
 > - 可被接收：反馈是否有效，不只取决于教师是否说了，更取决于学生是否真的接收、理解并据此行动（Hattie, 2015, p.86）。
-> - 双向性：反馈不只是“教师给学生”，也包括学生通过[[Homework|作业]]、提问、错误模式和课堂反应，把信息回传给教师（Hattie, 2015, pp.11-13）。
+> - 双向性：反馈不只是“教师给学生”，也包括学生通过[[Homework\|作业]]、提问、错误模式和课堂反应，把信息回传给教师（Hattie, 2015, pp.11-13）。
 
 ## 在教学中的作用
 
 > [!tip]- 在教学中的作用
-> 在 [[Visible Learning]] 的框架里，反馈常被视为高影响力因素；但更重要的不是“反馈[[Effect Size|效应量]]高”这句口号，而是它把教学变成一个不断校准的过程。教师不是讲完就结束，而是要通过学生的反应判断“我的解释有没有真的被理解”（Hattie, 2015, pp.11-13, 86）。
+> 在 [[Visible Learning]] 的框架里，反馈常被视为高影响力因素；但更重要的不是“反馈[[Effect Size\|效应量]]高”这句口号，而是它把教学变成一个不断校准的过程。教师不是讲完就结束，而是要通过学生的反应判断“我的解释有没有真的被理解”（Hattie, 2015, pp.11-13, 86）。
 >
 > Håkansson（2015）对瑞典 [[Structured Teaching]] 的讨论也提供了一个很清楚的位置判断：反馈和理解检查不是课堂外围装饰，而是高结构教学的一部分。教师之所以需要清晰目标、活动组织和课堂领导，正是为了让反馈能够嵌进学习过程，而不是事后补一句评语（Håkansson, 2015, p.592）。
 >
 > > 例：老师在讲完一个概念后立刻让学生做一题，再根据全班错误模式换一个例子重新解释。这时反馈不是课后批注，而是直接改写了教学流程。
 
 > [!note]- 反馈文化与学生视角
-> [[Argument_Fredens_2015_Paideia|Fredens (2015)]]把反馈再往前推进了一步，不只把它当作教学技术，而是把它理解成一种学校文化。核心问题不是老师“有没有给反馈”，而是学校是否形成了一种持续追问 `"Where to next?"` 的工作方式，也就是不断帮助学生看清下一步该往哪里走([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.73-74]])。
+> [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]把反馈再往前推进了一步，不只把它当作教学技术，而是把它理解成一种学校文化。核心问题不是老师“有没有给反馈”，而是学校是否形成了一种持续追问 `"Where to next?"` 的工作方式，也就是不断帮助学生看清下一步该往哪里走([[Argument_Fredens_2015_Paideia\|Fredens, 2015, pp.73-74]])。
 >
-> 这条线索的意义在于，它把反馈和 working-memory、[[Metacognition|元认知]]以及学生主动回应内容的能力连在一起。学生若只是重复老师想听的话，反馈就会退化成控制；只有当学生真的处理、调整和回应内容时，反馈才会成为学习机制([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.71, 73-74]])。
+> 这条线索的意义在于，它把反馈和 working-memory、[[Metacognition\|元认知]]以及学生主动回应内容的能力连在一起。学生若只是重复老师想听的话，反馈就会退化成控制；只有当学生真的处理、调整和回应内容时，反馈才会成为学习机制([[Argument_Fredens_2015_Paideia\|Fredens, 2015, pp.71, 73-74]])。
 
 ## 实证发现
 
 > [!success] 实证发现
 > - Hattie 的论述把反馈放在高重要性位置，并把它理解为推动学习改进的核心信息机制（Hattie, 2015, p.86）。
-> - Håkansson（2015）的研究综合没有把反馈单独拿出来计算[[Effect Size|效应量]]，但明确把“及时正确反馈”和“强调知识内容中的关键原则”列为[[Classroom Management|课堂管理]]与高质量教学的重要组成部分（Håkansson, 2015, p.592）。
-> - [[Argument_Laursen_2015_Paideia|Laursen (2015)]]指出，丹麦 SFI 研究没有发现其问项所测的反馈行为显著提升学习，但更合理的解释是测量口径没有抓到反馈最关键的“告诉学生如何改进”这一维度，而不是反馈本身无效([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.39]])。
-> - Lekhal 等人的性别差异研究提示，反馈[[Variable|变量]]的解释力会随测量方式变化；这说明反馈不是一个“只要出现就自动有效”的单一因素，而高度依赖情境和[[Operationalization|操作化]]([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, pp.80, 83-85]])。
+> - Håkansson（2015）的研究综合没有把反馈单独拿出来计算[[Effect Size\|效应量]]，但明确把“及时正确反馈”和“强调知识内容中的关键原则”列为[[Classroom Management\|课堂管理]]与高质量教学的重要组成部分（Håkansson, 2015, p.592）。
+> - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]]指出，丹麦 SFI 研究没有发现其问项所测的反馈行为显著提升学习，但更合理的解释是测量口径没有抓到反馈最关键的“告诉学生如何改进”这一维度，而不是反馈本身无效([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.39]])。
+> - Lekhal 等人的性别差异研究提示，反馈[[Variable\|变量]]的解释力会随测量方式变化；这说明反馈不是一个“只要出现就自动有效”的单一因素，而高度依赖情境和[[Operationalization\|操作化]]([[Argument_Lekhal_2015_Paideia\|Lekhal et al., 2015, pp.80, 83-85]])。
 
 > [!info] 数据基础与测量问题
-> Nielsen & Klitmøller（2021）对 Hattie 反馈综合的底层数据做了更细的拆解。他们指出，Hattie（2009）的反馈综合基于 23 项[[Meta-analysis|元分析]]、约 67,931 名参与者，但其中贡献最大的 5 项元分析里，只有 1 项真正研究的是与 Hattie 自己定义一致的“反馈干预”（Nielsen & Klitmøller, 2021, pp.9-12）。
+> Nielsen & Klitmøller（2021）对 Hattie 反馈综合的底层数据做了更细的拆解。他们指出，Hattie（2009）的反馈综合基于 23 项[[Meta-analysis\|元分析]]、约 67,931 名参与者，但其中贡献最大的 5 项元分析里，只有 1 项真正研究的是与 Hattie 自己定义一致的“反馈干预”（Nielsen & Klitmøller, 2021, pp.9-12）。
 >
 > 更具体地说：
 > - Lysakowski & Walberg（1980）研究的是强化技术，不是信息反馈。
@@ -112,24 +112,24 @@ updated: 2026-05-22
 
 > [!warning] 争议与批评
 > - 概念混淆：Nielsen & Klitmøller（2021）指出，Hattie 在“反馈”名下混入了强化、线索、教师即时性和考官辅助等不同现象，削弱了这一概念的统计一致性（Nielsen & Klitmøller, 2021, pp.9-12）。
-> - [[Effect Size|效应量]]被说得过于确定：如果真正与 Hattie 定义一致的核心研究只有 `d=0.38`，而不是汇总后常被引用的高值，那么“反馈是最强学习因素之一”的说法就需要更谨慎地理解（Nielsen & Klitmøller, 2021, pp.9-12）。
+> - [[Effect Size\|效应量]]被说得过于确定：如果真正与 Hattie 定义一致的核心研究只有 `d=0.38`，而不是汇总后常被引用的高值，那么“反馈是最强学习因素之一”的说法就需要更谨慎地理解（Nielsen & Klitmøller, 2021, pp.9-12）。
 > - 不是所有反馈都有效：Kluger & DeNisi（1996）的结果说明，反馈可能带来负面效果。它若过于模糊、过于延迟、只强调结果，或者只让学生盯住分数，就可能把注意力从理解问题转移到表现管理（Nielsen & Klitmøller, 2021, pp.9-10）。
 > - 行为主义阴影仍然很重：即便 Hattie 试图区分信息反馈与强化，他的反馈论述仍保留了很强的行为调控色彩，这也是为什么 Nielsen & Klitmøller 会质疑其概念边界（Nielsen & Klitmøller, 2021, p.8）。
 
 ## 数字学习工具中的反馈
 
 > [!warning] 数字学习工具中的反馈
-> [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]]把争议推进到另一个层面。他们关心的不是“反馈是否提升成绩”，而是当反馈被平台化、算法化之后，它是否压缩了教育中原本重要的理解和反思空间([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240-245]])。
+> [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]]把争议推进到另一个层面。他们关心的不是“反馈是否提升成绩”，而是当反馈被平台化、算法化之后，它是否压缩了教育中原本重要的理解和反思空间([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.240-245]])。
 >
 > 这里有三条特别重要：
-> - 即时反馈可能填满反思间隙。传统课堂里，学生答完题到得到回应之间有一个等待和思考的时间；算法反馈把这个间隙压缩到几乎为零，学生更容易直接盯住结果而不是思考为什么([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240-242]])。
-> - [[Gamification]] 会把反馈转成积分、星星和徽章，学习者收到的更像平台货币，而不是帮助理解错误的教育性信息([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.242-243]])。
-> - [[Learning Analytics]] 仪表盘通过红绿颜色、进度条和风险信号，预先替代了复杂教学判断；视觉上的“差/好”往往先于教育解释到来([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.243-245]])。
+> - 即时反馈可能填满反思间隙。传统课堂里，学生答完题到得到回应之间有一个等待和思考的时间；算法反馈把这个间隙压缩到几乎为零，学生更容易直接盯住结果而不是思考为什么([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.240-242]])。
+> - [[Gamification]] 会把反馈转成积分、星星和徽章，学习者收到的更像平台货币，而不是帮助理解错误的教育性信息([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.242-243]])。
+> - [[Learning Analytics]] 仪表盘通过红绿颜色、进度条和风险信号，预先替代了复杂教学判断；视觉上的“差/好”往往先于教育解释到来([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.243-245]])。
 >
 > 这一整条批评最终连到 [[Data Behaviorism]]：当系统把学习理解成可直接读取和调节的数据模式时，反馈就容易从“帮助理解”滑向“管理行为”。
 
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Structured Teaching]] — 瑞典案例把反馈放回课堂组织之中，强调它和目标清晰、理解检查、[[Classroom Management|课堂管理]]连在一起。
+> - [[Structured Teaching]] — 瑞典案例把反馈放回课堂组织之中，强调它和目标清晰、理解检查、[[Classroom Management\|课堂管理]]连在一起。
 > - [[Visible Learning]] — 反馈在 VL 中被持续塑造成高影响力因素，但其数据基础和概念边界也因此成为批评焦点。

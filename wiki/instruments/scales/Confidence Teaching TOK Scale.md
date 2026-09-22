@@ -48,10 +48,10 @@ updated: 2026-08-17
 
 ## 工具定位
 
-> [!instrument-profile] Confidence Teaching [[Theory of Knowledge|TOK]] ([[Classical Test Theory|CTT]]) Scale
+> [!instrument-profile] Confidence Teaching [[Theory of Knowledge\|TOK]] ([[Classical Test Theory\|CTT]]) Scale
 > - **工具类型** 量表
-> - **开发者与年份** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]]。该量表是 "The TOK Survey"（教师卷 Survey A）的组成部分（题项 31-41）。
-> - **测量目的** 测量 IB 教师在教授知识论（TOK）课程时的教学信心，作为评估教师[[Self-Efficacy|自我效能感]]与专业准备的指标。
+> - **开发者与年份** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]]。该量表是 "The TOK Survey"（教师卷 Survey A）的组成部分（题项 31-41）。
+> - **测量目的** 测量 IB 教师在教授知识论（TOK）课程时的教学信心，作为评估教师[[Self-Efficacy\|自我效能感]]与专业准备的指标。
 > - **实施方式** 自陈
 
 ---
@@ -66,15 +66,15 @@ updated: 2026-08-17
 > | 教学信心 | 11 | 教师在探索[[Knowledge Questions\|知识问题]]（如伦理、本土知识系统等）时的信心 | 均值或求和（单因子结构） |
 >
 > > [!concept-lens] 理论透镜：信心与自我效能感的辨析
-> > - **理论根基** 该量表在理论上植根于 Bandura 的[[Self-Efficacy|自我效能感]]理论，即“个体对自己组织和执行产生既定成就所需行动方案的能力的信念”。
-> > - **特殊应用** 开发者特别使用了“教学信心（Confidence）”一词而非泛泛的自我效能感，以强调这种能力信念是高度**情境化**的——专门针对[[Theory of Knowledge|知识论]]课程中由于缺乏相关领域背景而带来的教学挑战。
+> > - **理论根基** 该量表在理论上植根于 Bandura 的[[Self-Efficacy\|自我效能感]]理论，即“个体对自己组织和执行产生既定成就所需行动方案的能力的信念”。
+> > - **特殊应用** 开发者特别使用了“教学信心（Confidence）”一词而非泛泛的自我效能感，以强调这种能力信念是高度**情境化**的——专门针对[[Theory of Knowledge\|知识论]]课程中由于缺乏相关领域背景而带来的教学挑战。
 
 ---
 
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** [[Knowledge Questions|知识问题]]情境题，引导语类似于 ". . . in exploring knowledge questions related to..."。
+> - **题项形式** [[Knowledge Questions\|知识问题]]情境题，引导语类似于 ". . . in exploring knowledge questions related to..."。
 > - **作答格式** 4 点 Likert 等级（1 = 不自信，4 = 非常自信）。
 > - **反向题与跳题** —
 

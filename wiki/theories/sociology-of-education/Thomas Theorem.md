@@ -68,19 +68,19 @@ updated: 2026-09-17
 > [!theory-position] 理论定位
 > - **解释对象** 社会行动者如何依据其对外部情境的主观赋意与认知界定采取行动，以及这种主观建构如何反向塑造坚固的客观社会后果。
 > - **理论问题** 回应实证行为主义忽视人类主观能动性与认知诠释中介的机械论偏见，阐明主观认知信念与客观社会现实之间的双向互动与因果转化机制。
-> - **理论类型** 微观社会学奠基性定理、[[Symbolic Interactionism|符号互动论]]核心机制、主观意义与社会行动中介理论。
-> - **知识位置** 芝加哥社会学派、符号互动论传统、教育社会学与微观课堂[[Ethnography|民族志]]。由威廉·伊萨克·托马斯与多萝西·斯温·托马斯（W. I. Thomas & D. S. Thomas, 1928）确立，经由[[Peter Woods|彼得·伍兹]]（Peter Woods）、[[Jack Douglas|杰克·道格拉斯]]（Jack Douglas）与[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）在教育探究中深度拓展。
+> - **理论类型** 微观社会学奠基性定理、[[Symbolic Interactionism\|符号互动论]]核心机制、主观意义与社会行动中介理论。
+> - **知识位置** 芝加哥社会学派、符号互动论传统、教育社会学与微观课堂[[Ethnography\|民族志]]。由威廉·伊萨克·托马斯与多萝西·斯温·托马斯（W. I. Thomas & D. S. Thomas, 1928）确立，经由[[Peter Woods\|彼得·伍兹]]（Peter Woods）、[[Jack Douglas\|杰克·道格拉斯]]（Jack Douglas）与[[Basil Bernstein\|巴兹尔·伯恩斯坦]]（Basil Bernstein）在教育探究中深度拓展。
 
 > [!claim] 核心主张
-> **托马斯定理（Thomas Theorem）** 指出：“如果人们将情境定义为真实的，那么这些情境在它们的结果上也是真实的。”在社会互动中，决定人类行为方式的并非外在物理环境或客观刺激的固有属性，而是行动者在特定社会传记背景下赋予该情境的主观意义。人类根据其对情境的主观界定实施行动，进而引发一系列可观察、可感知的客观制度事实与人际互动后果。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18, 25–26)]]
+> **托马斯定理（Thomas Theorem）** 指出：“如果人们将情境定义为真实的，那么这些情境在它们的结果上也是真实的。”在社会互动中，决定人类行为方式的并非外在物理环境或客观刺激的固有属性，而是行动者在特定社会传记背景下赋予该情境的主观意义。人类根据其对情境的主观界定实施行动，进而引发一系列可观察、可感知的客观制度事实与人际互动后果。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 18, 25–26)]]
 
 > [!citation-card] 托马斯定理与主观情境定义的真实后果
-> 人们对事件、脉络与情境进行诠释，并基于这些事件采取行动（这呼应了托马斯著名的格言：如果人们将情境定义为真实的，那么这些情境在其结果上就是真实的——如果我相信桌子底下有一只老鼠，无论那里是否真的有老鼠，我都会表现得仿佛桌子底下确实有一只老鼠一样）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 18)]]
+> 人们对事件、脉络与情境进行诠释，并基于这些事件采取行动（这呼应了托马斯著名的格言：如果人们将情境定义为真实的，那么这些情境在其结果上就是真实的——如果我相信桌子底下有一只老鼠，无论那里是否真的有老鼠，我都会表现得仿佛桌子底下确实有一只老鼠一样）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 18)]]
 >
 > *People interpret events, contexts and situations, and act on the bases of those events (echoing Thomas’s (1928) famous dictum that if people define their situations as real then they are real in their consequences – if I believe there is a mouse under the table, I will act as though there is a mouse under the table, whether there is or not (Morrison, 1998)).*
 
 > [!citation-card] 伯恩斯坦论制度性权力对情境定义的结构性强制
-> 伯恩斯坦的批评直指[[Phenomenology|现象学]]家与常人方法学者对情境意义及其协商过程的过度关注。伯恩斯坦指出，关于此类协商意义所被忽视的关键在于，个体解释和定义情境的整个过程本身就是其所处客观环境的产物。在这种环境中必须予以考量的一个重大因素，是他人向参与者强加自身情境定义的权力。医生的诊室和校长的办公室正是权力不平等被常态化强加于不平等参与者之上的典型场所。特定个体、群体、阶级与权威说服他人接受其情境定义的能力充分证明，社会结构固然源于我们感知社会关系的方式，但它显然远不止于此。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 26)]]
+> 伯恩斯坦的批评直指[[Phenomenology\|现象学]]家与常人方法学者对情境意义及其协商过程的过度关注。伯恩斯坦指出，关于此类协商意义所被忽视的关键在于，个体解释和定义情境的整个过程本身就是其所处客观环境的产物。在这种环境中必须予以考量的一个重大因素，是他人向参与者强加自身情境定义的权力。医生的诊室和校长的办公室正是权力不平等被常态化强加于不平等参与者之上的典型场所。特定个体、群体、阶级与权威说服他人接受其情境定义的能力充分证明，社会结构固然源于我们感知社会关系的方式，但它显然远不止于此。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]
 >
 > *Bernstein’s criticism is directed at the overriding concern of phenomenologists and ethnomethodologists with the meanings of situations and the ways in which these meanings are negotiated by the actors involved. What is overlooked about such negotiated meanings, observes Bernstein, is that the very process whereby one interprets and defines a situation is itself a product of the circumstances in which one is placed. One important factor in such circumstances that must be considered is the power of others to impose their own definitions of situations upon participants. Doctors’ consulting rooms and headteachers’ studies are locations in which inequalities in power are regularly imposed upon unequal participants. The ability of certain individuals, groups, classes and authorities to persuade others to accept their definitions of situations demonstrates that while – as ethnomethodologists insist – social structure is a consequence of the ways in which we perceive social relations, it is clearly more than this.*
 
@@ -129,11 +129,11 @@ updated: 2026-09-17
 ## 理论争鸣与批判反思
 
 > [!tension] 托马斯定理的方法论交锋与辩证综合
-> - **微观能动论 vs 宏观结构[[Determinism|决定论]]**
->   - *互动论立场*：凸显人类作为自身行动的发起者与情境意义的赋予者，打破了[[Positivism|实证主义]]将人视作环境受控木偶的被动模型。
->   - *结构主义批判*：[[Basil Bernstein|伯恩斯坦]]等学者批评过度依赖情境定义会导致“微观剧场封闭”，将注意力局限于当事人的心理归因与即时互动，从而掩盖了阶级、资本、种族与制度权力对微观情境的刚性结构塑造。
+> - **微观能动论 vs 宏观结构[[Determinism\|决定论]]**
+>   - *互动论立场*：凸显人类作为自身行动的发起者与情境意义的赋予者，打破了[[Positivism\|实证主义]]将人视作环境受控木偶的被动模型。
+>   - *结构主义批判*：[[Basil Bernstein\|伯恩斯坦]]等学者批评过度依赖情境定义会导致“微观剧场封闭”，将注意力局限于当事人的心理归因与即时互动，从而掩盖了阶级、资本、种族与制度权力对微观情境的刚性结构塑造。
 > - **主观有效性 vs 虚假意识陷阱**
->   - *[[John Rex|雷克斯]]的警告*：社会学研究固然必须理解行动者的主观意图与情境界定，但决不能将研究目标仅仅缩减为复述当事人的主观报告。研究者必须保有独立批判的客观距离，识别意识形态蒙蔽下的虚假意识，探寻制约个体行动的深层客观因果机制。
+>   - *[[John Rex\|雷克斯]]的警告*：社会学研究固然必须理解行动者的主观意图与情境界定，但决不能将研究目标仅仅缩减为复述当事人的主观报告。研究者必须保有独立批判的客观距离，识别意识形态蒙蔽下的虚假意识，探寻制约个体行动的深层客观因果机制。
 
 ---
 
@@ -153,6 +153,6 @@ updated: 2026-09-17
 
 ## 参考文献
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 18, 25–26)]] — 系统阐明托马斯定理的微观机制、课堂互动应用以及[[Basil Bernstein|伯恩斯坦]]与[[John Rex|雷克斯]]的结构性批判。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 贯穿全书[[Qualitative Research|质性研究]]设计与[[Ethnography|民族志]]章节，指导研究者深入理解参与者的生活世界叙事。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 18, 25–26)]] — 系统阐明托马斯定理的微观机制、课堂互动应用以及[[Basil Bernstein\|伯恩斯坦]]与[[John Rex\|雷克斯]]的结构性批判。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿全书[[Qualitative Research\|质性研究]]设计与[[Ethnography\|民族志]]章节，指导研究者深入理解参与者的生活世界叙事。

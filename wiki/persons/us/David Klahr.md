@@ -55,7 +55,7 @@ updated: 2026-09-21
 ## 学者概述
 
 > [!def] 学者生平与定位
-> 戴维·克拉尔（David Klahr，1939–至今）是美国当代著名认知心理学家、学习科学与科学教育研究巨擘，卡耐基梅隆大学（Carnegie Mellon University, CMU）心理学系荣休讲席教授，美国心理科学协会（[[Australian Philanthropic Services|APS]]）与美国教育研究协会（[[American Educational Research Association|AERA]]）会士。Klahr 的毕生研究聚焦于儿童科学推理、[[Problem Solving|问题解决]]与概念发展的认知心理机制，其与凯文·邓巴（Kevin Dunbar）共同创立了著名的**科学发现双空间搜索模型（Scientific Discovery as Dual Search, SDDS）**，并开创了中小学[[Control of Variables Strategy|变量控制策略]]（Control of [[Variable|variables]] Strategy, CVS）的教学实验[[Paradigm|范式]]。其在 2004 年发表的关于[[Direct Instruction|直接教学]]与[[Discovery Learning|发现学习]]对比的实证研究，成为[[International Education|国际教育]]界二十年来争论教学法优劣的风暴中心（Klahr & Nigam, 2004; [[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 4, 10]]）。
+> 戴维·克拉尔（David Klahr，1939–至今）是美国当代著名认知心理学家、学习科学与科学教育研究巨擘，卡耐基梅隆大学（Carnegie Mellon University, CMU）心理学系荣休讲席教授，美国心理科学协会（[[Australian Philanthropic Services\|APS]]）与美国教育研究协会（[[American Educational Research Association\|AERA]]）会士。Klahr 的毕生研究聚焦于儿童科学推理、[[Problem Solving\|问题解决]]与概念发展的认知心理机制，其与凯文·邓巴（Kevin Dunbar）共同创立了著名的**科学发现双空间搜索模型（Scientific Discovery as Dual Search, SDDS）**，并开创了中小学[[Control of Variables Strategy\|变量控制策略]]（Control of [[Variable\|variables]] Strategy, CVS）的教学实验[[Paradigm\|范式]]。其在 2004 年发表的关于[[Direct Instruction\|直接教学]]与[[Discovery Learning\|发现学习]]对比的实证研究，成为[[International Education\|国际教育]]界二十年来争论教学法优劣的风暴中心（Klahr & Nigam, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4, 10]]）。
 
 ---
 
@@ -82,7 +82,7 @@ Klahr 的实证研究构成了[[International Education|国际教育]]学界探�
 > | **实验基本发现** | 显性讲授 CVS 规则的学生在短期[[Pre-test and Post-test\|后测]]中通过率达 77%，远高于纯自主探索组（仅 23%）。 | 实验确证了显性指导能迅速传授孤立算法规则，但该实验并不构成“[[Direct Instruction\|直接讲授]]全面胜出”的证据。 |
 > | **教学程序实质** | 证明由教师掌控全局的直接显性讲授是唯一科学有效的教学路径。 | **Klahr 采用的“直接教学”本身具有高度探究属性** 并非被动听讲，而是包含让学生亲自动手规划实验、主动评估实验成败、并在遭遇混淆时由教师给予即时纠错反馈的高互动探究设计（p. 4）。 |
 > | **长效保持反转** | 忽视长期追踪，宣称直接讲授建立了稳固图式。 | **Dean & Kuhn (2007) 证实长效衰减** 在 13 周延迟后测中，直接讲授组遗忘严重（保持率仅 31%），而经历自主探究试错与反思的学生保持率高达 78%–83%（p. 4）。 |
-> | **[[Meta-analysis|元分析]]定论** | 断言探究无法有效教授科学[[Variable|变量]]控制。 | **Schwichow et al. (2016) 72 项实验元分析证实** 显性讲授组（$g = 0.58$）与结构化探究组（$g = 0.65$）效应量无统计显著差异，直接讲授无相对优势（pp. 4–5）。 |
+> | **[[Meta-analysis\|元分析]]定论** | 断言探究无法有效教授科学[[Variable\|变量]]控制。 | **Schwichow et al. (2016) 72 项实验元分析证实** 显性讲授组（$g = 0.58$）与结构化探究组（$g = 0.65$）效应量无统计显著差异，直接讲授无相对优势（pp. 4–5）。 |
 
 ### 走出二元对立：多维教学空间模型
 值得注意的是，Klahr 本人并未陷入极端的直接讲授原教旨主义。在后期研究中，Koedinger, Booth, & Klahr (2013) 提出了涵盖多种独立维度的综合教学空间矩阵。Klahr 明确指出，教学不应被窄化为“直接教学对决探究”的零和博弈，而应由教师根据具体学科概念、学生准备状态及学习目标阶段，灵活组合显性讲解、例题剖析与自主实验探究（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 10]]）。

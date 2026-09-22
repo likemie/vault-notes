@@ -35,12 +35,12 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 维度抽样（Dimensional Sampling）是[[Quota Sampling|配额抽样]]的进一步细化。它识别总体中感兴趣的各种因素（维度），构建多维表格，确保每个交叉格至少有一名受访者，从而获取涵盖所有因素组合的样本。
+> 维度抽样（Dimensional Sampling）是[[Quota Sampling\|配额抽样]]的进一步细化。它识别总体中感兴趣的各种因素（维度），构建多维表格，确保每个交叉格至少有一名受访者，从而获取涵盖所有因素组合的样本。
 
 > [!method-scope] 方法范围
 > - **研究对象** 可按多个维度交叉分类的总体
 > - **问题类型** 需要确保所有因素组合均有代表的探索性研究
-> - **[[Unit of Analysis|分析单位]]** 个体，按多维交叉分类
+> - **[[Unit of Analysis\|分析单位]]** 个体，按多维交叉分类
 > - **输出形式** 覆盖所有维度组合的非概率样本
 
 ## 研究程序
@@ -57,16 +57,16 @@ updated: 2026-09-17
 
 > [!method-fit] 适用判断
 > - **适合使用** 研究涉及多个交叉维度且需要确保所有组合均有覆盖。
-> - **谨慎使用** 维度过多时交叉格数量爆炸——维度抽样与[[Quota Sampling|配额抽样]]一样受层数膨胀约束。
-> - **不适合使用** 只需关注单一维度或少数特征时——[[Quota Sampling|配额抽样]]更简洁。
+> - **谨慎使用** 维度过多时交叉格数量爆炸——维度抽样与[[Quota Sampling\|配额抽样]]一样受层数膨胀约束。
+> - **不适合使用** 只需关注单一维度或少数特征时——[[Quota Sampling\|配额抽样]]更简洁。
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **维度膨胀** 维度数增加导致交叉格呈几何增长，所需[[Sample Size Determination|样本量]]迅速膨胀。
+> - **维度膨胀** 维度数增加导致交叉格呈几何增长，所需[[Sample Size Determination\|样本量]]迅速膨胀。
 > - **最低覆盖的局限** 每格仅一名受访者只能提供最低限度的信息，不足以进行格内比较。
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍维度抽样作为[[Quota Sampling|配额抽样]]的细化方法。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍维度抽样作为[[Quota Sampling\|配额抽样]]的细化方法。

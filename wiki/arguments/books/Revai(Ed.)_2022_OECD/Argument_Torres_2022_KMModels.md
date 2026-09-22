@@ -95,15 +95,15 @@ updated: 2026-09-13
 ## 研究问题
 
 > [!question]
-> 过去二十年间学界[[Emergence|涌现]]的各色[[Knowledge Mobilisation|知识动员]]与利用模型，究竟反映了怎样的[[Epistemology|认识论]]变迁与系统复杂性刻画？主流模型在解释知识流动、行动者功能与情境互动时存在哪些理论盲区与结构性缺陷？我们应如何综合微观决策、教师思维与宏观系统前沿，提炼建构未来[[Evidence Ecosystem|教育证据生态系统]]的指引原则？（pp.33–34, 51–52）
+> 过去二十年间学界[[Emergence\|涌现]]的各色[[Knowledge Mobilisation\|知识动员]]与利用模型，究竟反映了怎样的[[Epistemology\|认识论]]变迁与系统复杂性刻画？主流模型在解释知识流动、行动者功能与情境互动时存在哪些理论盲区与结构性缺陷？我们应如何综合微观决策、教师思维与宏观系统前沿，提炼建构未来[[Evidence Ecosystem\|教育证据生态系统]]的指引原则？（pp.33–34, 51–52）
 
 > [!claim] 核心主张
 > 知识动员模型经历由单向线性包装交付向关系互动网络与自适应复杂系统的代际演进；既有主流模型依然残留着功能割裂、窄化单一证据源及遮蔽终极教育目标的局限。唯有统合多元知识形态、明确系统战略目标并将研究与教育创新有机共生，才能构建驱动学生与专业深度学习的下一代教育证据生态系统模型。（pp.34, 51–52）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 卫生、社会政策与教育领域被高频引用的四大经典知识动员模型——Lavis et al. (2003) 的[[Knowledge Transfer|知识转移]]战略框架、Graham et al. (2006) 的知识到行动框架（Knowledge-to-Action, KTA）、Levin (2004, 2013) 的[[Research Knowledge Mobilisation Model|研究知识动员模型]]（Research Knowledge Mobilisation, RKM）、Gough et al. (2011, 2019) 的[[Research Utilization|证据使用]]生态框架，以及四组新兴微观机制模型——Langer et al. (2016) 的[[Evidence-Informed Decision-Making|证据知情决策]]行为改变框架（Evidence-Informed Decision-Making, EIDM）、Cain (2015) 的教师三种声音理论、Rickinson et al. (2020) 的[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE）、Révai (2020) 的证据-[[Innovation Ecosystem|创新生态]]知识动力学模型。
+> - **对象** 卫生、社会政策与教育领域被高频引用的四大经典知识动员模型——Lavis et al. (2003) 的[[Knowledge Transfer\|知识转移]]战略框架、Graham et al. (2006) 的知识到行动框架（Knowledge-to-Action, KTA）、Levin (2004, 2013) 的[[Research Knowledge Mobilisation Model\|研究知识动员模型]]（Research Knowledge Mobilisation, RKM）、Gough et al. (2011, 2019) 的[[Research Utilization\|证据使用]]生态框架，以及四组新兴微观机制模型——Langer et al. (2016) 的[[Evidence-Informed Decision-Making\|证据知情决策]]行为改变框架（Evidence-Informed Decision-Making, EIDM）、Cain (2015) 的教师三种声音理论、Rickinson et al. (2020) 的[[Quality Use of Research Evidence Framework\|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework\|Quality Use of Research Evidence]], QURE）、Révai (2020) 的证据-[[Innovation Ecosystem\|创新生态]]知识动力学模型。
 > - **张力** 过程-产品（Process-Product）的单向还原论 vs 复杂自适应系统的自组织与双向循环；学术研究证据的排他性崇拜 vs 教师专业经验与多元知识源泉的包容性吸纳。
-> - **贡献** [[José Manuel Torres|何塞·曼努埃尔·托雷斯]]（José Manuel Torres）运用 Best & Holmes (2010) 三代透镜构建首个跨领域知识动员模型的系统性[[Typological Analysis|类型学分析]]矩阵，揭示既有框架中功能人为割裂与终极目标隐匿的盲区，为全书实证调查与未来生态治理指明方向。
+> - **贡献** [[José Manuel Torres\|何塞·曼努埃尔·托雷斯]]（José Manuel Torres）运用 Best & Holmes (2010) 三代透镜构建首个跨领域知识动员模型的系统性[[Typological Analysis\|类型学分析]]矩阵，揭示既有框架中功能人为割裂与终极目标隐匿的盲区，为全书实证调查与未来生态治理指明方向。
 
 ---
 
@@ -118,7 +118,7 @@ updated: 2026-09-13
 > | **[[Knowledge Mobilisation\|知识动员]]** | 作为核心分析对象，剖析研究知识在生产、中介与政策/实践使用之间流转的多维机制。（pp.34–35） |
 
 > [!warrant]- 理论如何支撑论证
-> 借助 Best & Holmes (2010) 的三代分类法确立横向比照的分析基准；通过将各模型映射至三代谱系，阐明概念演进并未形成统一普适的模型，而是反映了对系统复杂性认识的不断深化。继而引入微观决策机制（Langer et al., 2016）与教师认知视角（Cain, 2015），弥补宏观系统模型在行动者微观动机与知识[[Heterogeneity|异质性]]解释上的不足，合乎逻辑地推导出面向全系统战略协同的政策建议。（pp.34–37, 51–52）
+> 借助 Best & Holmes (2010) 的三代分类法确立横向比照的分析基准；通过将各模型映射至三代谱系，阐明概念演进并未形成统一普适的模型，而是反映了对系统复杂性认识的不断深化。继而引入微观决策机制（Langer et al., 2016）与教师认知视角（Cain, 2015），弥补宏观系统模型在行动者微观动机与知识[[Heterogeneity\|异质性]]解释上的不足，合乎逻辑地推导出面向全系统战略协同的政策建议。（pp.34–37, 51–52）
 
 ---
 
@@ -155,12 +155,12 @@ updated: 2026-09-13
 ### 论证步骤一　知识动员范式经历代际演进：由单向流水线技术交付转向自适应复杂生态网络
 
 > [!claim] 步骤一核心主张
-> 对跨领域主流[[Knowledge Mobilisation|知识动员]]模型的横向考查证实，理论[[Paradigm|范式]]已从将研究视作标准化货品的线性分发，转向关注伙伴关系、流体反馈及全系统统筹的复杂自适应生态。（pp.34–37）
+> 对跨领域主流[[Knowledge Mobilisation\|知识动员]]模型的横向考查证实，理论[[Paradigm\|范式]]已从将研究视作标准化货品的线性分发，转向关注伙伴关系、流体反馈及全系统统筹的复杂自适应生态。（pp.34–37）
 
 为厘清科学研究如何有效影响政策与实践，学界在过去二十年间[[Emergence|涌现]]出多维概念界定：
 
 > [!def] 知识动员与中介概念辨析（Cooper, 2014; Gough et al., 2011）
-> - **[[Knowledge Mediation|知识中介]]（Knowledge Mediation）** Gough et al. (2011, p. 23) 将其定义为“将证据生产者与使用者汇聚在一起、旨在促进两者联结的有意识努力”，聚焦行动者之间的连接桥梁。
+> - **[[Knowledge Mediation\|知识中介]]（Knowledge Mediation）** Gough et al. (2011, p. 23) 将其定义为“将证据生产者与使用者汇聚在一起、旨在促进两者联结的有意识努力”，聚焦行动者之间的连接桥梁。
 > - **知识动员（Knowledge Mobilisation）** Cooper (2014, p. 29) 强调“在教育部门多层级有意识地提升研究证据在政策与实践中应用的系统努力”，更偏向全系统的战略推进。（p.34）
 
 > [!warrant]- 模型架构对资源配置与行动者角色的深层塑造
@@ -174,11 +174,11 @@ updated: 2026-09-13
 >
 > - **线性模型（Linear Model）**
 >
->   将知识视为现成、普适、去情境化的客体货品，假定[[Research Utilization|知识利用]]完全取决于有效包装；整个流程沿“生产 ➔ 验证 ➔ 整理 ➔ 传播 ➔ 采纳 ➔ 实施 ➔ 制度化”单向机械展开，将实践者与决策者预设为被动接收信息的容器。此类流水线模型早在 1970 年代即被证实脱离现实，导致了研究界与决策界形同陌路的深层鸿沟。（p.35）
+>   将知识视为现成、普适、去情境化的客体货品，假定[[Research Utilization\|知识利用]]完全取决于有效包装；整个流程沿“生产 ➔ 验证 ➔ 整理 ➔ 传播 ➔ 采纳 ➔ 实施 ➔ 制度化”单向机械展开，将实践者与决策者预设为被动接收信息的容器。此类流水线模型早在 1970 年代即被证实脱离现实，导致了研究界与决策界形同陌路的深层鸿沟。（p.35）
 >
 > - **关系模型（Relationship Model）**
 >
->   转向关注行动者之间的社会连接与双向互动，强调具有共同关切的同行网络、协作共同体与伙伴关系对知识流转的关键促进功能；打破单一由研究者主导知识生成的局限，承认实践者持有关键的本土智慧，教师在[[Knowledge Production|知识生产]]中被赋予更具能动性的参与角色，促进双向[[Dialogue in Education|对话]]与新知识的共同创生。
+>   转向关注行动者之间的社会连接与双向互动，强调具有共同关切的同行网络、协作共同体与伙伴关系对知识流转的关键促进功能；打破单一由研究者主导[[Knowledge Production\|知识生成]]的局限，承认实践者持有关键的本土智慧，教师在[[Knowledge Production\|知识生产]]中被赋予更具能动性的参与角色，促进双向[[Dialogue in Education\|对话]]与新知识的共同创生。
 >
 > - **系统模型（Systems Model）**
 >
@@ -196,7 +196,7 @@ updated: 2026-09-13
 > [!tension] 线性模型的流水线弊端与行动者矮化
 > 如图 2-1 所示，线性模型将知识动员窄化为单向管道传输：
 > - **单向推力偏误** 知识在生产端被单一制备，经过中介包装后直接推向应用端，假定只要传递顺畅，实践端就会自然采纳；
-> - **实践者能动性被遮蔽** 教师与决策者仅被视作末端消费者，其决策情境与[[Professional Judgment|专业判断]]被完全剥离在模型视野之外。（p.35）
+> - **实践者能动性被遮蔽** 教师与决策者仅被视作末端消费者，其决策情境与[[Professional Judgment\|专业判断]]被完全剥离在模型视野之外。（p.35）
 
 随着经验证据表明单纯依靠外部推力无法引发持续实践变革，关系模型改变了单向因果链条：（pp.35–36）
 
@@ -235,7 +235,7 @@ Lavis et al. (2003) 在应用卫生与社会经济政策领域提出了极具组
 
 > [!feature] 知识转移战略框架的五问核心构件（Lavis et al., 2003）
 > - **传达什么？（信息）**
->   研究机构必须传递源自广泛研究[[Document|文献]]、具有行动指导意义的核心信息，而非单一研究结论。并非所有研究都能或应当直接影响决策，[[Blue Skies Research|基础研究]]在识别问题与发展方法上的价值同样需被承认。
+>   研究机构必须传递源自广泛研究[[Document\|文献]]、具有行动指导意义的核心信息，而非单一研究结论。并非所有研究都能或应当直接影响决策，[[Blue Skies Research\|基础研究]]在识别问题与发展方法上的价值同样需被承认。
 > - **传给谁？（目标受众）**
 >   将受众划分为公众/服务接受者、服务提供者、管理决策者与政策制定者四类。受众的决策情境与环境特征直接决定了传播格式与后续要素的设计。
 > - **由谁传递？（传递者）**
@@ -249,14 +249,14 @@ Lavis et al. (2003) 在应用卫生与社会经济政策领域提出了极具组
 
 Graham et al. (2006) 在卫生健康领域提出了里程碑式的知识到行动框架（Knowledge-to-Action, KTA）。该框架将转化过程结构化为“知识创造漏斗”与“行动循环”两套深度耦合的构件：（pp.38–40）
 
-> [!example]- 图2-4：知识到行动框架（[[Knowledge-to-Action Models|Knowledge-to-Action Framework]]: Knowledge creation and Action cycle）
+> [!example]- 图2-4：知识到行动框架（[[Knowledge-to-Action Models\|Knowledge-to-Action Framework]]: Knowledge creation and Action cycle）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-4_Knowledge-to-Action_framework.jpg)
 >
 > *来源：Torres (2022, p. 39, Figure 2.4)，改绘自 Crockett (2017) 与 Graham et al. (2006, p. 19)。*
 
 > [!proc] 知识创造漏斗与行动循环的双向渗透机制（Graham et al., 2006）
 > 1. **知识探究（Knowledge Inquiry）** 汇集海量原始研究，此阶段研究质量、相关性与可及性参差不齐；
-> 2. **知识综合（Knowledge Synthesis）** 通过[[Systematic Review|系统综述]]、[[Meta-analysis|元分析]]与质性[[Meta-meta-analysis|元综合]]对特定问题开展系统评价与聚合；
+> 2. **知识综合（Knowledge Synthesis）** 通过[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]与质性[[Meta-meta-analysis\|元综合]]对特定问题开展系统评价与聚合；
 > 3. **知识工具与产品研发（Knowledge Tools / Products）** 将综合成果提炼为简明实用的决策指南、临床规程或教学手册；
 > 4. **行动循环推进（Action Cycle）** 经历“界定问题 ➔ 评估情境障碍 ➔ 适配本土干预 ➔ 监测使用 ➔ 评估成效 ➔ 持续维系使用”等阶段；各阶段边界高度流体可渗透，与漏斗各阶段发生高频反馈。（pp.38–40）
 
@@ -278,12 +278,12 @@ Levin (2004, 2011, 2013) 将[[Research Knowledge Mobilisation Model|研究知识
 
 Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推进至成熟的生态系统分析阶段：（pp.41–43）
 
-> [!example]- 图2-6：证据使用生态系统[[Analytic Framework|分析框架]]的演进（Evidence use ecosystem framework）
+> [!example]- 图2-6：证据使用生态系统[[Analytic Framework\|分析框架]]的演进（Evidence use ecosystem framework）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-6_Evidence_use_ecosystem_framework.jpg)
 >
 > *来源：Torres (2022, p. 42, Figure 2.6)，Panel A 采自 Gough et al. (2011)；Panel B 采自 Gough et al. (2018)；Panel C 采自 Gough et al. (2019)。*
 
-> [!phase] Gough [[Evidence Ecosystem|证据生态系统]]框架的三阶段范式演进（Gough et al., 2011, 2018, 2019）
+> [!phase] Gough [[Evidence Ecosystem\|证据生态系统]]框架的三阶段范式演进（Gough et al., 2011, 2018, 2019）
 >
 > - **Panel A：证据生产-使用系统初构（Gough et al., 2011）**
 >
@@ -291,11 +291,11 @@ Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推
 >
 > - **Panel B：左右倒置重塑推拉结构（Gough, Maidment, & Sharples, 2018）**
 >
->   在审视英国有效研究所（[[What Works Network|What Works Centres]]）运作时，图式上做出了针对性调整：将传统置于左侧的研究生产移至右侧，将政策与实践决策移至左侧。由于大多数西方语言读者习惯自左向右阅读，这一构图调整打破了学术供给先验（Research Push）的固有思路，凸显出基于实践需求拉力与中介支持的导向。（p.43）
+>   在审视英国有效研究所（[[What Works Network\|What Works Centres]]）运作时，图式上做出了针对性调整：将传统置于左侧的研究生产移至右侧，将政策与实践决策移至左侧。由于大多数西方语言读者习惯自左向右阅读，这一构图调整打破了学术供给先验（Research Push）的固有思路，凸显出基于实践需求拉力与中介支持的导向。（p.43）
 >
 > - **Panel C：确立双层嵌套生态架构（Gough, Thomas, & Oliver, 2019）**
 >
->   通过虚线将框架严格划分为双层系统：内层为狭义的证据生态系统（涵盖证据综合、初级研究、沟通[[Transfer Translation Transformation|转译]]与决策采纳）；外层为更广泛的系统与情境（涵盖行动者、多元视点、议题争议、治理问题与权力博弈）。（pp.42–43）
+>   通过虚线将框架严格划分为双层系统：内层为狭义的证据生态系统（涵盖证据综合、初级研究、沟通[[Transfer Translation Transformation\|转译]]与决策采纳）；外层为更广泛的系统与情境（涵盖行动者、多元视点、议题争议、治理问题与权力博弈）。（pp.42–43）
 
 #### 5. 四大主流知识动员模型的多维类型学横向比照
 
@@ -323,7 +323,7 @@ Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推
 ### 论证步骤三　微观机制模型填补宏观理论盲区：决策行为转化、教师主体声音与教育创新深度协同
 
 > [!claim] 步骤三核心主张
-> 针对决策行为转化、教师主体声音与教育创新的微观模型，有效填补了宏观框架在因果作用机制与知识[[Heterogeneity|异质性]]方面的理论空白。（pp.46–50）
+> 针对决策行为转化、教师主体声音与教育创新的微观模型，有效填补了宏观框架在因果作用机制与知识[[Heterogeneity\|异质性]]方面的理论空白。（pp.46–50）
 
 宏观模型虽展现了系统复杂性的全貌，但在解释微观行动者如何做出决策、教师如何消化研究文本以及证据如何转化为教学创新等机制上，依然留有理论空白。针对特定动员维度的前沿微观模型，构筑起从宏观生态到微观实践的完整桥梁。（pp.46–51）
 
@@ -336,12 +336,12 @@ Langer et al. (2016) 将[[Evidence-Informed Decision-Making|证据知情决策]]
 >
 > *来源：Torres (2022, p. 47, Figure 2.7)，改绘自 Langer et al. (2016, p. 28)。*
 
-> [!features] 证据知情决策的六大核心干预机制与中介心理[[Construct|构念]]（Langer et al., 2016）
+> [!features] 证据知情决策的六大核心干预机制与中介心理[[Construct\|构念]]（Langer et al., 2016）
 > - **意识建立（Awareness）** 提升决策者对研究证据价值与可及性的基础认知；
 > - **认同协商（Agreement）** 促成决策者对特定研究结论与改革方向的价值认同；
 > - **能力建设（Skills）** 培育搜寻、评估与解读复杂学术证据的专业技能；
 > - **沟通可及（Communication）** 通过清晰友好的转译使证据易于被决策者触达；
-> - **互动机会（Interaction）** 创造研究者与决策官员面对面研讨与持续对话的[[Champ|场域]]；
+> - **互动机会（Interaction）** 创造研究者与决策官员面对面研讨与持续对话的[[Champ\|场域]]；
 > - **结构规程（Structure）** 建立要求在决策中必须附带证据评估的行政规程与法制制度；
 >
 > **中介转化链条** 上述六大机制作用于个体、紧邻组织、广义组织乃至国际四个层级，经由影响中间心理状态——**能力（Capability）、动机（Motivation）与机会（Opportunity）**，最终促成证据使用的实质性行为改变。（pp.46–47）
@@ -350,13 +350,13 @@ Langer et al. (2016) 将[[Evidence-Informed Decision-Making|证据知情决策]]
 
 Cain (2015) 聚焦一线中小学教师面对学术研究文献时的真实认知反应。教师在审议教学时并非被动接受学术权威，而是置身于三种声音的动态碰撞之中：（pp.47–49）
 
-> [!example]- 图2-8：[[Research-Informed Teaching Practice|研究知情教学实践]]中的“三种声音”理论（Research-informed teaching theory）
+> [!example]- 图2-8：[[Research-Informed Teaching Practice\|研究知情教学实践]]中的“三种声音”理论（Research-informed teaching theory）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-8_Research-informed_teaching_theory.jpg)
 >
 > *来源：Torres (2022, p. 48, Figure 2.8)，改绘自 Cain (2015, p. 488)。*
 
 > [!tension] 教师审议中的“三种声音”碰撞（Cain, 2015）
-> - **本土与同行声音（第一与第二声音）** 教师个体内在的价值取向、过往教学经历与思维惯性（第一声音），叠加学校同事与教研同行所共享的校园文化和实践关切（第二声音）。实证研究证实，这两组声音在日常教学决断中占据绝对压倒性地位。[[Argument_Nelson_2017_ER|(Nelson & O’Beirne, 2014; Nelson et al., 2017)]]
+> - **本土与同行声音（第一与第二声音）** 教师个体内在的价值取向、过往教学经历与思维惯性（第一声音），叠加学校同事与教研同行所共享的校园文化和实践关切（第二声音）。实证研究证实，这两组声音在日常教学决断中占据绝对压倒性地位。[[Argument_Nelson_2017_ER\|(Nelson & O’Beirne, 2014; Nelson et al., 2017)]]
 > - **外来学术研究声音（第三声音）** 外部学术研究文献所提供的理论与实证视角。若脱离教师个人经验与同行对话机制，学术声音往往被一线实践者视作脱离课堂现实的抽象论断而遭到边缘化。（pp.47–49）
 
 在审议研究文本时，一线教师表现出多维的能动反应模式，唯有将学术研究与教师个人经验及同行交流深度结合，才能实质促进教学信念的转变：（pp.48–49）
@@ -366,7 +366,7 @@ Cain (2015) 聚焦一线中小学教师面对学术研究文献时的真实认�
 > - **证实既有经验（Confirmatory Use）** 选择性摄取能佐证自身过往教学习惯与直觉信念的研究观点。
 > - **策略性利用（Strategic Use）** 借用学术术语与研究权威作为争取外部资源或应对行政考核的合法化工具。
 > - **概念性启发与重构（Conceptual Use）** 吸收研究中的概念透镜，深层重塑教师自身的教学理解与专业思维。
-> - **批判性拒绝（Reject）** 基于真实的课堂情境与[[Phronesis|实践智慧]]，对研究结论提出合理反驳与专业审视。
+> - **批判性拒绝（Reject）** 基于真实的课堂情境与[[Phronesis\|实践智慧]]，对研究结论提出合理反驳与专业审视。
 
 #### 3. Rickinson 高质量研究使用框架：超越“用不用”二元论的质量定义
 
@@ -379,9 +379,9 @@ Rickinson et al. (2020) 基于澳大利亚莫纳什大学 Q 项目（The [[Monas
 
 > [!dimension] 高质量研究使用框架的三层促成体系（Rickinson et al., 2020）
 > - **核心内核（Core Components）**
->   由双向互构的恰当研究（兼顾情境匹配、实用性与可[[Reliability|信度]]）与深思熟虑参与（批判性解读与情境化审议）共同组成。
+>   由双向互构的恰当研究（兼顾情境匹配、实用性与可[[Reliability\|信度]]）与深思熟虑参与（批判性解读与情境化审议）共同组成。
 > - **个体赋能（Individual-level Enablers）**
->   涵盖教师个人的专业信念、[[Critical Thinking|批判性思维]]、[[Research Literacy|研究素养]]以及跨界协作关系网络。
+>   涵盖教师个人的专业信念、[[Critical Thinking\|批判性思维]]、[[Research Literacy\|研究素养]]以及跨界协作关系网络。
 > - **组织赋能（Organisational-level Enablers）**
 >   涵盖学校内部的支持性文化、鼓励探究的领导力、专有研讨时间以及常态化协作结构。
 > - **系统级塑造（System-level Influences）**
@@ -391,7 +391,7 @@ Rickinson et al. (2020) 基于澳大利亚莫纳什大学 Q 项目（The [[Monas
 
 Révai (2020) 在 [[OECD]] 工作论文中提出了教育生态中证据与创新协同的[[Evidence-Innovation Knowledge Dynamics|证据-创新知识动力学模型]]。该模型旨在修复教育治理中长期存在的严重割裂——政策制定者往往一方面孤立谈论推广教育创新，另一方面片面强调提高证据使用，却未意识到两者的内在共生性：（pp.49–51）
 
-> [!example]- 图2-10：证据-[[Innovation Ecosystem|创新生态系统]]中的知识动力学模型（Knowledge dynamics in the evidence-innovation ecosystem）
+> [!example]- 图2-10：证据-[[Innovation Ecosystem\|创新生态系统]]中的知识动力学模型（Knowledge dynamics in the evidence-innovation ecosystem）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-10_Knowledge_dynamics_in_evidence-innovation_ecosystem.jpg)
 >
 > *来源：Torres (2022, p. 50, Figure 2.10)，改绘自 Révai (2020, p. 18)。*
@@ -450,7 +450,7 @@ Révai (2020) 在 [[OECD]] 工作论文中提出了教育生态中证据与创�
 
 > [!pathways] 构建下一代教育证据生态系统模型的四大行动路径
 > - **确立学生与教师专业学习的终极目标基准** 突破纯技术中介指标，将改善学生学习成果与支持教育者专业学习置于不可动摇的显性价值地位，指引系统演进方向。
-> - **包容多元形态知识并推动证据与教育创新共生** 承认[[Phronesis|实践智慧]]、默会经验与学术证据的对等合法性，将知识动员过程实质定位为面向教学难题解决的知识创生与创新扩散过程。
+> - **包容多元形态知识并推动证据与教育创新共生** 承认[[Phronesis\|实践智慧]]、默会经验与学术证据的对等合法性，将知识动员过程实质定位为面向教学难题解决的知识创生与创新扩散过程。
 > - **突破组织标签转向多维重叠的功能视角** 摒弃研究者-实践者二元割裂标签，以功能为轴心建模，为系统内行动者的跨界流动与复合职能履职提供制度空间。
 > - **构建全系统宏观协调机制与共享话语体系** 搭建跨越政府、大学与中小学的常态化协商平台，在共同专业语言下消除隔阂，推动教育证据生态系统的高效自适应演化。（pp.51–52）
 
@@ -458,8 +458,8 @@ Révai (2020) 在 [[OECD]] 工作论文中提出了教育生态中证据与创�
 
 ## 局限性与研究缺口
 
-> [!warning] [[Research Scope|研究范围]]与理论抽象局限
-> - **模型采样的非穷尽性偏差** 采取的是代表性采样而非穷尽式综述，主要选取在英美及国际组织话语中占据统治地位的英文模型，可能遗漏了非西方语境下的本土动员[[Paradigm|范式]]。（p.37）
+> [!warning] [[Research Scope\|研究范围]]与理论抽象局限
+> - **模型采样的非穷尽性偏差** 采取的是代表性采样而非穷尽式综述，主要选取在英美及国际组织话语中占据统治地位的英文模型，可能遗漏了非西方语境下的本土动员[[Paradigm\|范式]]。（p.37）
 > - **抽象理论模型与真实系统运行的落差** 任何模型都是对复杂现实的高度抽象与简化；模型在图纸上的优雅架构并不自动等同于实践系统中的顺畅运行，仍亟待 [[OECD]] 后续各章实证调查数据的验证。（pp.36–37）
 
 ---

@@ -217,10 +217,10 @@ citation_aliases:
 > ("It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament.")(p.28)
 
 > “虽然坚持要求我们的政治家了解严谨的研究方法可能是要求过高，但要求他们遵守高标准的伦理准则，并在他们表现出的伦理水平不足时追究其责任，并不过分。”
-> ("Whereas it might be asking too much of our politicians to insist that they be aware of rigorous research methods, it is not too much to hold them to a high standard of ethics and to hold them to [[Accounts|account]] when their demonstrated ethics fall short.")(p.30)
+> ("Whereas it might be asking too much of our politicians to insist that they be aware of rigorous research methods, it is not too much to hold them to a high standard of ethics and to hold them to [[Accounts\|account]] when their demonstrated ethics fall short.")(p.30)
 
 > [!info] 核心数据
-> - [[Grammar School|文法学校]]"good"提及率 235%（每校），综合学校 1.7%（每校）
+> - [[Grammar School\|文法学校]]"good"提及率 235%（每校），综合学校 1.7%（每校）
 > - SSEF £50M 若按"好学校应扩张"逻辑同等应用，总预算超 £84 亿
 > - "社会流动性"论述在委员会报告后从 53 次骤降至 13 次；但"好学校"话语未被动摇
 > - 保守党"好学校"主题引用 125 次 vs 工党 30 次

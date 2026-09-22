@@ -58,16 +58,16 @@ updated: 2026-08-19
 ## 工具定位
 
 > [!instrument-profile] 全局确定性量表
-> - **工具类型** 7 题自陈式[[Likert Scale|李克特量表]]。
-> - **开发者与年份** Schiefele et al. (2002), [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]]。
-> - **测量目的** 测量个体对科学知识确定性、稳定性和绝对性的底层[[Epistemological Beliefs|认识论信念]]，评估其对科学理论[[Falsification|可证伪性]]与人类认知边界的理解水平。
-> - **实施方式** 纸笔或自陈[[Questionnaire|问卷]]。
+> - **工具类型** 7 题自陈式[[Likert Scale\|李克特量表]]。
+> - **开发者与年份** Schiefele et al. (2002), [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]]。
+> - **测量目的** 测量个体对科学知识确定性、稳定性和绝对性的底层[[Epistemological Beliefs\|认识论信念]]，评估其对科学理论[[Falsification\|可证伪性]]与人类认知边界的理解水平。
+> - **实施方式** 纸笔或自陈[[Questionnaire\|问卷]]。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Certainty of Knowledge|知识的确定性]]
+> [!construct-table] [[Certainty of Knowledge\|知识的确定性]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -80,8 +80,8 @@ updated: 2026-08-19
 
 > [!instrument-items] 作答规则
 > - **题项形式** 针对科学知识与科学研究属性的陈述句。
-> - **作答格式** 4 点[[Likert Scale|李克特量表]]（1 = 完全不同意/totally disagree，2 = 比较不同意，3 = 比较同意，4 = 完全同意/totally agree）。
-> - **反向题与跳题** 第 1、2、3 题为反向计分题（强调科学理论的[[Falsification|可证伪性]]与修正性）；建模时建议自由估计反向题之间的残差相关以控制方法效应。
+> - **作答格式** 4 点[[Likert Scale\|李克特量表]]（1 = 完全不同意/totally disagree，2 = 比较不同意，3 = 比较同意，4 = 完全同意/totally agree）。
+> - **反向题与跳题** 第 1、2、3 题为反向计分题（强调科学理论的[[Falsification\|可证伪性]]与修正性）；建模时建议自由估计反向题之间的残差相关以控制方法效应。
 
 ### 全局科学知识确定性
 

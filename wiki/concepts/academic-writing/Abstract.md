@@ -44,7 +44,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> [[Document|文献]]摘要（Abstract）是对研究文献的简要回顾（通常为一个短段落），总结文献的主要元素，使读者能够了解该文章或书籍的基本特征。在[[Literature Review|文献综述]]过程中，研究者需要对可能多达数十甚至数百篇研究撰写摘要，因此需要一套系统的提取和总结方法([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])。
+> [[Document\|文献]]摘要（Abstract）是对研究文献的简要回顾（通常为一个短段落），总结文献的主要元素，使读者能够了解该文章或书籍的基本特征。在[[Literature Review\|文献综述]]过程中，研究者需要对可能多达数十甚至数百篇研究撰写摘要，因此需要一套系统的提取和总结方法([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
 摘要不仅是文献综述的中间产物——它本身就是一种学术写作体裁。期刊文章的摘要通常是读者判断是否阅读全文的依据，其格式往往受到期刊字数限制（如 120 词）。
 
@@ -61,7 +61,7 @@ updated: 2026-09-11
 5. **方法缺陷**（如适用）：如果是批评性或方法综述，指出技术和方法上的缺陷
 
 > [!tip]- 信息定位
-> 在结构良好的期刊文章中，问题和[[Purpose Statement|目的陈述]]通常在引言中明确给出；样本信息在方法（或程序）部分的中间位置；关键结果在结果部分，按每个研究问题或[[Hypothesis|假设]]逐一呈现。
+> 在结构良好的期刊文章中，问题和[[Purpose Statement\|目的陈述]]通常在引言中明确给出；样本信息在方法（或程序）部分的中间位置；关键结果在结果部分，按每个研究问题或[[Hypothesis\|假设]]逐一呈现。
 
 ---
 
@@ -79,9 +79,9 @@ updated: 2026-09-11
 ## 示例
 
 > [!example] 方法论文章的摘要示例
-> Hirose & Creswell (2022) 一篇关于[[Mixed Methods Research|混合方法]]质量标准的文章摘要展示了方法论摘要的典型构成：
+> Hirose & Creswell (2022) 一篇关于[[Mixed Methods Research\|混合方法]]质量标准的文章摘要展示了方法论摘要的典型构成：
 >
-> "Recent published articles and comments by researchers, federal recommendations, and professional association standards have recommended core quality criteria for designing and writing mixed methods research. Unfortunately, a synthesis of recent timely recommendations has not been made...（[[Research Question|研究问题]]）This article presents six best practices in mixed methods culled from recent sources, discusses the need for each practice, and then illustrates its use in a recent empirical study from Japan（[[Research Purpose|研究目的]]与主题）. This article contributes to the [[Champ|field]] of mixed methods methodology by providing a parsimonious list of core criteria...（贡献）"
+> "Recent published articles and comments by researchers, federal recommendations, and professional association standards have recommended core quality criteria for designing and writing mixed methods research. Unfortunately, a synthesis of recent timely recommendations has not been made...（[[Research Question\|研究问题]]）This article presents six best practices in mixed methods culled from recent sources, discusses the need for each practice, and then illustrates its use in a recent empirical study from Japan（[[Research Purpose\|研究目的]]与主题）. This article contributes to the [[Champ\|field]] of mixed methods methodology by providing a parsimonious list of core criteria...（贡献）"
 >
 > 这个摘要仅 120 词（受期刊投稿指南限制），但简洁地传达了研究问题、目的、主题和贡献（引自 Creswell & Creswell, 2022）。
 
@@ -103,10 +103,10 @@ updated: 2026-09-11
 
 5. **结论与启示／应用** 以研究发现的结论、启示或应用收尾。
 
-> [!example] 包含五个要素的[[Qualitative Research|质性研究]]摘要示例
+> [!example] 包含五个要素的[[Qualitative Research\|质性研究]]摘要示例
 > "The issue that this study addresses is the lack of women in martial arts competitions. To address this problem, the purpose of this study will be exploring motivation of female athletes in Tae Kwon Do competitions. To gather data, interviews with 4 female Tae Kwon Do tournament competitors were conducted. The interviews were transcribed and analyzed. This data leads to the following 3 themes: social support, [[Self-Efficacy]], and goal orientation. These themes will be useful for understanding the optimal way to increase motivation in female martial artists."（Witte, 2011, personal communication; 引自 Creswell & Creswell, 2022, 第5章）
 >
-> 该摘要依次包含研究问题（女性在武术比赛中的缺乏）、[[Purpose Statement|目的陈述]]、方法（对 4 位女性跆拳道选手的访谈）、发现（社会支持、自我效能感和目标导向三个主题）以及结论与启示。
+> 该摘要依次包含研究问题（女性在武术比赛中的缺乏）、[[Purpose Statement\|目的陈述]]、方法（对 4 位女性跆拳道选手的访谈）、发现（社会支持、自我效能感和目标导向三个主题）以及结论与启示。
 
 > [!note]- 文献摘要与研究摘要的区别
 > - **文献摘要** 用于文献综述流程，对他人研究进行简要回顾和记录，是"读文献"到"写综述"的桥梁

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Chain-linked Model]]"
   - "[[Learning Economy]]"
   - "[[Multi-channel Interactive Learning Model]]"
+  - "[[Source of Knowledge]]"
   - "[[Linear Model of Innovation]]"
   - "[[Causality]]"
   - "[[Blue Skies Research]]"
@@ -55,7 +56,7 @@ title: "Argument_Caraca_2009_TFSC"
 argument_key: "Argument_Caraca_2009_TFSC"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -74,11 +75,11 @@ issuing_organization: ""
 >
 > 经验层面的谜题在于：当线性模型预期的科学投入与经济增长之间的自动转化在现实中反复落空时，政策制定者的反应不是反思模型本身，反而要求科学直接证明其经济价值。正向因果断言（科学→产业）被颠倒为反向规范性要求（市场→学术）。这一反应引出了标题中的隐喻：科学的角色究竟是从女王降为灰姑娘，还是同时经历了两种方向的变化？
 >
-> 两个相互关联的问题贯穿全文。第一，科学在创新过程中的角色从线性模型到[[Chain-linked Model|链式模型]]再到更完整框架，每一步突破了什么、遗漏了什么。第二，科学与大学在今天的[[Learning Economy|学习经济]]中应当如何重新定位。
+> 两个相互关联的问题贯穿全文。第一，科学在创新过程中的角色从线性模型到[[Chain-linked Model\|链式模型]]再到更完整框架，每一步突破了什么、遗漏了什么。第二，科学与大学在今天的[[Learning Economy\|学习经济]]中应当如何重新定位。
 
 > [!feature]+ 一页读懂
-> - **对象** 过去五十年对科学在创新中角色的三种定义方式——线性模型、链式模型、[[Multi-channel Interactive Learning Model|多通道互动学习模型]]。
-> - **对照** 线性模型将科学置于创新的起点和支配位置。链式模型将科学重新定位为过程的一部分而非必然起始。多通道互动学习模型进一步将科学视为多元知识来源之一，通过界面与其他知识池持续互动。科学的经济影响在泛化（供需两侧均更依赖科学），但其作为自主主导因素的地位同时在消解。
+> - **对象** 过去五十年对科学在创新中角色的三种定义方式——线性模型、链式模型、[[Multi-channel Interactive Learning Model\|多通道互动学习模型]]。
+> - **对照** 线性模型将科学置于创新的起点和支配位置。链式模型将科学重新定位为过程的一部分而非必然起始。多通道互动学习模型进一步将科学视为多元[[Source of Knowledge\|知识来源]]之一，通过界面与其他知识池持续互动。科学的经济影响在泛化（供需两侧均更依赖科学），但其作为自主主导因素的地位同时在消解。
 > - **结论** 科学仍是创新的根本来源，但置身于多元知识并存、多通道互动的学习经济之中。政策若将大学转为专利生产者而忽视其培养批判性人才的根本功能，将破坏创新的长期可持续性。
 
 ---
@@ -90,7 +91,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **[[Linear Model of Innovation\|线性模型]]**<br>Linear Model of Innovation<br>Bush (1945); Bernal (1939) | 预设基础科学 → 技术开发 → 经济增长的单向[[Causality\|因果]]链条，研究（Research，白大褂科学）天然支配开发（Development，邋遢工程）。二战后成为配置公共研究资源最有力的理论依据，在工业组织内部塑造了科学家高于工程师的层级结构 (pp.862–863)。欧盟巴塞罗那目标（2%+1%）、欧洲悖论、大学被推向专利生产者，均源于线性模型的推导惯性。 |
 > | **[[Chain-linked Model\|链式模型]]**<br>Chain-linked Model<br>Kline & Rosenberg (1986) | 创新始于潜在市场用途的想法而非研究。既有科学知识（K）可在任何阶段被调用，新知识（R）可在需要时创造；有时新科学催生激进应用（路径 D），有时科学反而从创新中受益（路径 I、S）。核心命题是开发（D）至少与研究（R）同等重要 (pp.863–864)。该模型揭示了线性模型的单向因果谬误，但因其遗漏组织维度、未区分知识类型、创新产出定义过窄，仍需要进一步扩展。 |
-> | **[[Multi-channel Interactive Learning Model]]**<br>Multi-channel Interactive Learning Model<br>|Caraça et al. (2009) | 三个核心创新构成分析网格：螺旋式学习循环不指定创新起点，产出覆盖产品、流程、新市场细分和组织常规四类；三类知识池（物理与生物科技知识、组织与治理知识、营销与顾客行为知识）取代了单一科学知识来源；界面作为解释性管道连接企业与环境，决定外部知识的识别、选择与吸收 (pp.864–866)。该模型将创新重新定位在[[Learning Economy\|学习经济]]之中。 |
+> | **[[Multi-channel Interactive Learning Model]]**<br>Multi-channel Interactive Learning Model<br>Caraça et al. (2009) | 三个核心创新构成分析网格：螺旋式学习循环不指定创新起点，产出覆盖产品、流程、新市场细分和组织常规四类；三类知识池（物理与生物科技知识、组织与治理知识、营销与顾客行为知识）取代了单一科学知识来源；界面作为解释性管道连接企业与环境，决定外部知识的识别、选择与吸收 (pp.864–866)。该模型将创新重新定位在[[Learning Economy\|学习经济]]之中。 |
 > | **[[Learning Economy\|学习经济]]**<br>Learning Economy<br>Lundvall & Johnson (1994) | 在全球化与技术加速变迁的环境中，企业和经济体的竞争力越来越取决于学习能力而非静态知识存量。经验型学习和互动式学习是创新的前提条件 (p.864)。三类知识池的并列必要性由此获得宏观语境：组织知识和营销知识不是科学知识的附庸，而是同等重要的创新投入。 |
 > | **[[Systems of Innovation]]**<br>Systems of Innovation<br>Freeman (2002); Lundvall et al. (2002); Malerba (2002); Asheim & Gertler (2004) | 部门创新系统（Malerba, 2002）和区域创新系统（Asheim & Gertler, 2004）对应企业创新过程的微观与行业环境，国家创新系统（Freeman, 2002; Lundvall et al., 2002）对应宏观制度环境。多通道互动学习模型的微观和宏观环境概念整合了上述多层分析，并进一步强调了各层次之间的共同演化和可能的制度错配 (p.865)。 |
 
@@ -145,10 +146,10 @@ issuing_organization: ""
 标题中的问号——"From Queen to Cinderella?"——不是修辞装饰，而是全文论证的起点。这个隐喻意在表达：科学在创新中的角色不是从一种身份单向转变为另一种身份，而是同时经历着两种方向相反的变化。隐喻的两个角色各自对应一种变化，二者并行不悖而非非此即彼 (p.862)。
 
 > [!evidence-grid] 女王的含义
-> 在二战之后长达数十年的时间里，科学——尤其是自然科学——在创新过程中占据着近乎自主和不容置疑的主导地位。线性模型将[[Blue Skies Research|基础研究]]置于创新链条的起点，赋予其推动一切后续环节的初始动力。政策制定者据此配置公共资源，工业组织据此构建研发层级。科学拥有独立于市场和政治的自主性、至高的符号地位和优先的资源配置权。将科学称为女王，指向的正是这种自主性、优先性和符号统治力。
+> 在二战之后长达数十年的时间里，科学——尤其是自然科学——在创新过程中占据着近乎自主和不容置疑的主导地位。线性模型将[[Blue Skies Research\|基础研究]]置于创新链条的起点，赋予其推动一切后续环节的初始动力。政策制定者据此配置公共资源，工业组织据此构建研发层级。科学拥有独立于市场和政治的自主性、至高的符号地位和优先的资源配置权。将科学称为女王，指向的正是这种自主性、优先性和符号统治力。
 
 > [!evidence-grid] 灰姑娘的含义
-> 童话中的灰姑娘有两个看似矛盾的特征：她承担了家中所有劳作，无处不在却毫无地位；直到王子出现她才被看见和承认。这个隐喻借用的是前一个特征——灰姑娘式的有用。科学的角色在最近几十年里发生了深刻的泛化。在供给端，营销研究、管理研究和组织研究对创新越来越重要，自然科学不再是唯一的知识来源。在需求端，越来越多传统意义上的低技术产业——食品加工、纺织——也需要依靠科学来保持竞争力。科学变得无处不在，渗透进创新的每一个环节，按需被调用。它比以前更有用了。
+> 童话中的灰姑娘有两个看似矛盾的特征：她承担了家中所有劳作，无处不在却毫无地位；直到王子出现她才被看见和承认。这个隐喻借用的是前一个特征——灰姑娘式的有用。科学的角色在最近几十年里发生了深刻的泛化。在供给端，营销研究、管理研究和组织研究对创新越来越重要，自然科学不再是唯一的[[Source of Knowledge\|知识来源]]。在需求端，越来越多传统意义上的低技术产业——食品加工、纺织——也需要依靠科学来保持竞争力。科学变得无处不在，渗透进创新的每一个环节，按需被调用。它比以前更有用了。
 
 > [!evidence-grid] 两种变化共存而非互斥
 > 泛化的另一面正是主导地位的消解。当科学渗透进创新的每一个环节、每一个产业时，它不再是一个可以被单独识别并排在首位的独立要素。它不是被贬黜为灰姑娘——它只是不再拥有女王曾经享有的那种先天优先权。科学之所以能变得无处不在，恰恰因为它不再需要一个被单独标识并排在首位的身份。标题以问号而非句号收束，正是因为这不是一个单向降级的故事。
@@ -162,7 +163,7 @@ issuing_organization: ""
 
 > [!timeline] 知识史
 > - **1939** J. D. Bernal 率先测量英国 R&D 占 GNP 约 0.2%，主张提高到 2.0%。
-> - **1945** Vannevar Bush 在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中为美国提出类似论证。
+> - **1945** Vannevar Bush 在《科学：[[Science, The Endless Frontier 1945\|无尽的前沿]]》中为美国提出类似论证。
 > - **1950s末** 经济学家基于公共品理论（非排他性、非竞争性）给出政府资助基础科学的系统性理由。
 >
 > 线性模型的构想最初来自科学家对资源配置的政治游说，而非经济学的系统论证。但它在二战后国家主导经济干预的氛围中获得了最大影响力。
@@ -233,16 +234,16 @@ Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模
 > > 三类知识池的区分直接挑战了只有自然科学才是创新所需知识的预设。后两类知识在传统创新政策中被系统性低估。公共创新政策如果只资助自然科学研究而忽视组织研究和营销研究，就系统性地遗漏了创新所需的三分之二的知识来源。
 
 > [!evidence-grid] 创新三：界面作为解释性管道
-> 界面是使企业从环境中识别、选择和吸收新想法的构建性解释管道 (p.865)。这一概念与 Cohen & Levinthal（1990）的[[Absorptive Capacity|吸收能力]]（Absorptive Capacity）直接相关——吸收能力是识别、消化和应用外部知识的能力，界面则是这一能力得以实际运作的通道。
+> 界面是使企业从环境中识别、选择和吸收新想法的构建性解释管道 (p.865)。这一概念与 Cohen & Levinthal（1990）的[[Absorptive Capacity\|吸收能力]]（Absorptive Capacity）直接相关——吸收能力是识别、消化和应用外部知识的能力，界面则是这一能力得以实际运作的通道。
 >
 > > [!example] 界面在不同产业中的形态
 > > - **低技术产业**（食品加工、纺织）：企业与用户紧密合作改进产品，用户界面最关键。
 > > - **金融服务业** 相对更多地使用经济学研究成果（计量经济学、风险理论），科学界面更重要。
-> > - **以上产业共性** 都相当依赖设备供应商（机械、信息技术），供应链界面同样不可或缺 (p.865, 引自 von Tunzelmann & Acha, 2004; Miles, 2004; [[Argument_Pavitt_1984_RP|Pavitt, 1984]])。
+> > - **以上产业共性** 都相当依赖设备供应商（机械、信息技术），供应链界面同样不可或缺 (p.865, 引自 von Tunzelmann & Acha, 2004; Miles, 2004; [[Argument_Pavitt_1984_RP\|Pavitt, 1984]])。
 >
 > 界面多样性意味着没有适用于所有产业的统一创新政策模板。
 
-> [!example]- 图3：[[Multi-channel Interactive Learning Model|多通道互动学习模型]]
+> [!example]- 图3：[[Multi-channel Interactive Learning Model\|多通道互动学习模型]]
 > ![](https://img.mylikemie.icu/sources/Caraca_2009_TFSC/figures/Caraca_2009_TFSC_Fig3_Multi_Channel_Interactive_Learning_Model.jpg)
 
 ---
@@ -256,7 +257,7 @@ Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模
 - **共同构成[[Innovation Ecosystem|创新生态]]** 复杂的多层次选择环境，对企业创新施加持续变化的压力。
 
 > [!tension] 制度节奏与错配
-> 内部创新速度快于制度调整时，微观或宏观制度设置可能滞后并产生阻尼效应——制度跟不上技术变化的节奏，形成创新推力与制度惯性的冲突。组织层面创新方向与既有制度框架不匹配时，可预见动荡的过渡和调整期，最终导向新的技术经济[[Paradigm|范式]]（Freeman & Louçã, 2001, 引自 p.865）。该框架整合了部门[[Systems of Innovation|创新系统]]（Malerba, 2002）、区域创新系统（Asheim & Gertler, 2004）和国家创新系统（Freeman, 2002; Lundvall et al., 2002）的多层分析。
+> 内部创新速度快于制度调整时，微观或宏观制度设置可能滞后并产生阻尼效应——制度跟不上技术变化的节奏，形成创新推力与制度惯性的冲突。组织层面创新方向与既有制度框架不匹配时，可预见动荡的过渡和调整期，最终导向新的技术经济[[Paradigm\|范式]]（Freeman & Louçã, 2001, 引自 p.865）。该框架整合了部门[[Systems of Innovation\|创新系统]]（Malerba, 2002）、区域创新系统（Asheim & Gertler, 2004）和国家创新系统（Freeman, 2002; Lundvall et al., 2002）的多层分析。
 
 ---
 
@@ -282,9 +283,9 @@ Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模
 
 > [!finding-cards] 核心发现
 > 1. **科学角色的三重转变(pp.861–866)** 经济影响泛化（供给端营销管理研究、需求端低技术产业）；主导地位消解（自然科学尤其失去自主主导因素地位）；存在方式改变（从独立起点变为贯穿全过程的遍布性要素）。
-> 2. **三种模型的递进与三类知识池(pp.862–866)** 线性模型预设单向因果并主导战后政策想象。[[Chain-linked Model|链式模型]]突破线性预设但遗漏组织维度。[[Multi-channel Interactive Learning Model|多通道互动学习模型]]加入螺旋学习循环、三类知识池和界面概念，后两类知识（组织治理、营销与顾客行为）在传统政策中被低估但在 R 即 D 转变中日益重要。
+> 2. **三种模型的递进与三类知识池(pp.862–866)** 线性模型预设单向因果并主导战后政策想象。[[Chain-linked Model\|链式模型]]突破线性预设但遗漏组织维度。[[Multi-channel Interactive Learning Model\|多通道互动学习模型]]加入螺旋学习循环、三类知识池和界面概念，后两类知识（组织治理、营销与顾客行为）在传统政策中被低估但在 R 即 D 转变中日益重要。
 > 3. **界面决定学习能力(p.865)** 企业通过界面识别、选择和吸收外部知识。组织学习能力而非单纯科学投入决定创新绩效。界面的设计和维护本身就是一种需要投资的组织能力。
-> 4. **大学角色警告(pp.862, 866–867)** 将大学转为专利生产者破坏创新的长期可持续性。大学与产业的日常[[Knowledge Exchange|知识交流]]（学者和学生在互动中与企业交换知识）比大学作为商业企业出售专利更为重要。
+> 4. **大学角色警告(pp.862, 866–867)** 将大学转为专利生产者破坏创新的长期可持续性。大学与产业的日常[[Knowledge Exchange\|知识交流]]（学者和学生在互动中与企业交换知识）比大学作为商业企业出售专利更为重要。
 
 > [!stat-cards]- 关键数据
 > - **≈ 0.2% → 2.0%** Bernal（1939）测量英国 R&D 占 GNP 并主张的提高目标 (p.862)。
@@ -304,13 +305,13 @@ Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模
 >
 > Science tends to be employed at all points of the central-chain-of-innovation, as needed.
 
-> [!citation-card]- 将大学和[[Blue Skies Research|基础研究]]从属于市场或政治指令是错误的
+> [!citation-card]- 将大学和[[Blue Skies Research\|基础研究]]从属于市场或政治指令是错误的
 > 将大学和基础研究置于市场或政治指令之下是错误的。它破坏了创新过程的长期可持续性，并且忽视了创新过程中最重要的瓶颈可能与不支持面向市场和生产的经验型学习的组织形式有关 (p.867)。
 >
 > It would be a mistake to use this as an argument to make universities and basic research subordinate to markets or to political dictates. It undermines the long-term viability of the innovation process and it neglects that the most important bottlenecks in the innovation process may have to do more with organizational forms that do not support experience-based learning in relation to markets and production.
 
 > [!citation-card]- 大学需要更宽的知识带宽
-> 如果大学要与这样一个不断演变的创新过程互动，那么它们就必须发展更宽的知识带宽。这意味着在保持卓越教学和基础科学研究的同时，获取更好的组织洞察力和营销[[Creativity|创造力]] (p.866)。
+> 如果大学要与这样一个不断演变的创新过程互动，那么它们就必须发展更宽的知识带宽。这意味着在保持卓越教学和基础科学研究的同时，获取更好的组织洞察力和营销[[Creativity\|创造力]] (p.866)。
 >
 > If universities are to interact with such an evolving innovation process then they have to develop a broader knowledge bandwidth. This means gathering better organizational insights and marketing creativity without divesting from excellence in teaching and fundamental scientific research.
 
@@ -323,9 +324,9 @@ Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模
 
 ## 自述局限
 
-> [!warning] 概念简报的篇幅与[[Research Scope|研究范围]]
-> - [[Multi-channel Interactive Learning Model|多通道互动学习模型]]是复杂的，仅能给出简要概述 (p.866)。模型各组成部分——螺旋学习循环、三类知识池、界面概念、双层创新环境——均值得进一步独立研究和实证检验。
-> - 模型定位是代表性而非穷举性的，不[[Hypothesis|假设]]所有因素必须就位才能实现创新 (p.865)。它是对创新过程主要[[Variable|变量]]及其相互关系的风格化表征，不是可供计量检验的[[Operationalization|操作化]]模型。
+> [!warning] 概念简报的篇幅与[[Research Scope\|研究范围]]
+> - [[Multi-channel Interactive Learning Model\|多通道互动学习模型]]是复杂的，仅能给出简要概述 (p.866)。模型各组成部分——螺旋学习循环、三类知识池、界面概念、双层创新环境——均值得进一步独立研究和实证检验。
+> - 模型定位是代表性而非穷举性的，不[[Hypothesis\|假设]]所有因素必须就位才能实现创新 (p.865)。它是对创新过程主要[[Variable\|变量]]及其相互关系的风格化表征，不是可供计量检验的[[Operationalization\|操作化]]模型。
 > - 希望该模型可作为大规模研究项目的框架和灵感，也可作为政策制定者克服不同类型偏见的指南——例如只关注国际组织最新流行概念，或只关注创新指标路灯下能看到的事物 (p.867)。
 > - 现有创新指标严重偏向 R&D 投入和专利产出的测量，对组织学习、用户互动和界面质量的测量远远不足。这一测量偏误反过来强化了线性模型的持续影响力（Godin, 2006, 引自 p.862, footnote 3）。
 

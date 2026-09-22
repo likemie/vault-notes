@@ -41,10 +41,10 @@ updated: 2026-09-17
 ## 概念界定
 
 > [!concept-lens] 认知发展驱动力
-> 随着受教育水平（如从中等教育进入高等教育）的提升，学生所面临的知识环境复杂度和认知挑战剧增，这在理论上构成了个人[[Epistemological Beliefs|认识论信念]]从“绝对主义”向“理性批判主义”演变的催化剂。
+> 随着受教育水平（如从中等教育进入高等教育）的提升，学生所面临的知识环境复杂度和认知挑战剧增，这在理论上构成了个人[[Epistemological Beliefs\|认识论信念]]从“绝对主义”向“理性批判主义”演变的催化剂。
 
 > [!claim] 人口学代理
-> **[[Variable|变量]]属性** 在多数[[Quantitative Research|量化研究]]中，受教育水平要么被作为连续变量（受教育年限），要么被作为分类变量（学历层级），用于控制成熟效应或直接探究学校系统对个体发展的累积效应。
+> **[[Variable\|变量]]属性** 在多数[[Quantitative Research\|量化研究]]中，受教育水平要么被作为连续变量（受教育年限），要么被作为分类变量（学历层级），用于控制成熟效应或直接探究学校系统对个体发展的累积效应。
 
 ---
 
@@ -61,5 +61,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] —  验证了受教育水平对个体[[Epistemology|认识论]]发展阶段的[[Predictive Validity|预测效度]]，确认教育年限越高，个体越倾向于表现出成熟的[[Epistemological Beliefs|认识论信念]]模式。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] —  验证了受教育水平对个体[[Epistemology\|认识论]]发展阶段的[[Predictive Validity\|预测效度]]，确认教育年限越高，个体越倾向于表现出成熟的[[Epistemological Beliefs\|认识论信念]]模式。

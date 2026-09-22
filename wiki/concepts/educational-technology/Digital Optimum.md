@@ -46,10 +46,10 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 数字最优（digital optimum）是 Thompson 等人（2022, p.226）在分析 [[Online Self-Assessment|OSA]] 的算法治理机制时提出的概念，指算法理性在持续优化和标准化评估过程中产生的"完美起点"（perfect start）理想形象。数字最优不是对某个真实学生的描述，而是一个算法生成的参照标准——它传递关于"理想学生"的具体期望，并构成个体被衡量和引导的基准。
+> 数字最优（digital optimum）是 Thompson 等人（2022, p.226）在分析 [[Online Self-Assessment\|OSA]] 的算法治理机制时提出的概念，指算法理性在持续优化和标准化评估过程中产生的"完美起点"（perfect start）理想形象。数字最优不是对某个真实学生的描述，而是一个算法生成的参照标准——它传递关于"理想学生"的具体期望，并构成个体被衡量和引导的基准。
 
 > [!quote]
-> "The algorithmic rationality continuously works on and optimizes the assessment environment of the OSA and thus further standardizes the process and produces a 'digital optimum', an image of the 'perfect start'."([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
+> "The algorithmic rationality continuously works on and optimizes the assessment environment of the OSA and thus further standardizes the process and produces a 'digital optimum', an image of the 'perfect start'."([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.226]])
 
 ## 核心要素
 
@@ -72,17 +72,17 @@ updated: 2026-05-20
 - 两者之间的差距构成一种"数据的质询"（interpellation of data）：不直接命令，而是通过展示差距呼唤自我管理
 
 > [!example]
-> 一位申请外语专业的学生完成 OSA 后，系统生成反馈："你的文化兴趣得分 92/100，但外语经历得分 78/100。理想的外语专业学生通常有海外语言项目经历。"这里 78 分是她的数字自我，100 分（或"有海外经历"这一特征）是数字最优。差距不意味着"你被拒绝"，而是暗示"你需要额外投入"。她可能自愿报名暑期语言班——这正是 [[Societies of Control|控制社会]] 的逻辑：个体"自由地"选择自我优化。
+> 一位申请外语专业的学生完成 OSA 后，系统生成反馈："你的文化兴趣得分 92/100，但外语经历得分 78/100。理想的外语专业学生通常有海外语言项目经历。"这里 78 分是她的数字自我，100 分（或"有海外经历"这一特征）是数字最优。差距不意味着"你被拒绝"，而是暗示"你需要额外投入"。她可能自愿报名暑期语言班——这正是 [[Societies of Control\|控制社会]] 的逻辑：个体"自由地"选择自我优化。
 
 ## 理论基础
 
 > [!tip]-
-> - **Beer 的算法治理**Beer（2016）提出算法在社会生活中的治理功能——数字最优正是算法治理的核心组件：它提供了使自我治理成为可能的参照点和比较基准([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
-> - **[[Societies of Control]]** Deleuze（1992）的调制概念解释了数字最优如何持续运作——不是通过一次性的[[Disciplina and Doctrina|规训]]塑造，而是通过不间断的比较和调整。数字最优不是固定目标，而是随着算法优化不断移动的参照系([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222, 226]])
+> - **Beer 的算法治理**Beer（2016）提出算法在社会生活中的治理功能——数字最优正是算法治理的核心组件：它提供了使自我治理成为可能的参照点和比较基准([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.226]])
+> - **[[Societies of Control]]** Deleuze（1992）的调制概念解释了数字最优如何持续运作——不是通过一次性的[[Disciplina and Doctrina\|规训]]塑造，而是通过不间断的比较和调整。数字最优不是固定目标，而是随着算法优化不断移动的参照系([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.221–222, 226]])
 
 ## 争议与批评
 
 > [!warning]
-> - **期望的隐蔽规范性** 数字最优表面上由"数据驱动"，实则隐含特定的规范性预设——什么样的学生是"好学生"？这些预设被算法黑箱化，失去了公共讨论和审议的空间([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
-> - **完美起点的幻象** 预设学生在入学前就应具备"完美起点"的条件，系统性地忽视学生发展潜力和[[Growth|成长]]可能性——这恰恰违背了 [[Bildung]] 的核心原则：教育指向一个开放的、不可被入场数据预测的未来([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
+> - **期望的隐蔽规范性** 数字最优表面上由"数据驱动"，实则隐含特定的规范性预设——什么样的学生是"好学生"？这些预设被算法黑箱化，失去了公共讨论和审议的空间([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.226]])
+> - **完美起点的幻象** 预设学生在入学前就应具备"完美起点"的条件，系统性地忽视学生发展潜力和[[Growth\|成长]]可能性——这恰恰违背了 [[Bildung]] 的核心原则：教育指向一个开放的、不可被入场数据预测的未来([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.227]])
 

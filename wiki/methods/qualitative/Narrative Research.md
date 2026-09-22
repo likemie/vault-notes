@@ -42,13 +42,13 @@ updated: 2026-08-16
 ## 定义
 
 > [!info]
-> 叙事研究（Narrative Research）是一种源自人文学科的[[Qualitative Research|质性研究]]设计。研究者研究个体的生活，请一个或多个参与者提供关于他们生活的故事（Riessman, 2008）。这些信息随后由研究者重新讲述或重新故事化（restoried）为叙事性编年史。最终，叙事通常将参与者生活中的观点与研究者生活中的观点合并为一个合作性叙事（Clandinin & Connelly, 2000）。
+> 叙事研究（Narrative Research）是一种源自人文学科的[[Qualitative Research\|质性研究]]设计。研究者研究个体的生活，请一个或多个参与者提供关于他们生活的故事（Riessman, 2008）。这些信息随后由研究者重新讲述或重新故事化（restoried）为叙事性编年史。最终，叙事通常将参与者生活中的观点与研究者生活中的观点合并为一个合作性叙事（Clandinin & Connelly, 2000）。
 
 ## 研究程序
 
 > [!example]
 > - 选择一个或多个个体作为研究对象。
-> - 通过[[In-depth Interview|深度访谈]]收集参与者的生活故事。
+> - 通过[[In-depth Interview\|深度访谈]]收集参与者的生活故事。
 > - 将收集到的故事按时间顺序重构成连贯的叙事编年史（restorying）。
 > - 识别叙事中的关键主题、转折点或意义节点。
 > - 在分析中结合参与者的视角和研究者的解释，形成合作性叙事。
@@ -63,14 +63,14 @@ updated: 2026-08-16
 ## 局限性
 
 > [!warning]
-> - 研究结论的[[External Validity|可推广性]]有限，叙事研究不追求统计性推广。
+> - 研究结论的[[External Validity\|可推广性]]有限，叙事研究不追求统计性推广。
 > - 研究者的重述过程可能引入叙事偏差。
 > - 对参与者叙事能力有较高依赖。
 
 ## 方法变体与相近方法
 
 > [!tip]-
-> - vs [[Case Study]] — 案例研究可以包含叙事作为数据来源之一，但案例研究的[[Analytic Framework|分析框架]]更注重情境和时间边界，而叙事研究以故事本身的时序和意义结构为核心。
-> - vs [[Phenomenology|现象学]] — 现象学聚焦于多个个体对同一现象的共同本质体验，叙事研究则聚焦于个体生活故事的独特性和时间进程。
-> - vs [[Narrative Analysis|叙事分析]] — 叙事研究关注研究设计与故事的重述（restorying）；[[Narrative Analysis|叙事分析]]关注如何以叙事形式组织与呈现分析，二者在收集数据与分析数据之间分工。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.3)]]
+> - vs [[Case Study]] — 案例研究可以包含叙事作为数据来源之一，但案例研究的[[Analytic Framework\|分析框架]]更注重情境和时间边界，而叙事研究以故事本身的时序和意义结构为核心。
+> - vs [[Phenomenology\|现象学]] — 现象学聚焦于多个个体对同一现象的共同本质体验，叙事研究则聚焦于个体生活故事的独特性和时间进程。
+> - vs [[Narrative Analysis\|叙事分析]] — 叙事研究关注研究设计与故事的重述（restorying）；[[Narrative Analysis\|叙事分析]]关注如何以叙事形式组织与呈现分析，二者在收集数据与分析数据之间分工。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, 29.3)]]
 

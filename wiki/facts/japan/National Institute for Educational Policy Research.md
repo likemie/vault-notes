@@ -61,7 +61,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 日本国立教育政策研究所（National Institute for Educational Policy Research, NIER，国立教育政策研究所）是日本文部科学省（Ministry of Education, Culture, Sports, Science and Technology, MEXT）下属的独立行政法人，以"在同一栋楼内保持独立"的罕见制度安排著称——办公地点与文部科学省同楼，但具有法定的学术研究自主地位。[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]将其列为"政府资助自治型"中介的亚太标杆，诠释了物理邻近与行政自治如何实现有效平衡。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
+> 日本国立教育政策研究所（National Institute for Educational Policy Research, NIER，国立教育政策研究所）是日本文部科学省（Ministry of Education, Culture, Sports, Science and Technology, MEXT）下属的独立行政法人，以"在同一栋楼内保持独立"的罕见制度安排著称——办公地点与文部科学省同楼，但具有法定的学术研究自主地位。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]将其列为"政府资助自治型"中介的亚太标杆，诠释了物理邻近与行政自治如何实现有效平衡。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间** 1949 年依据战后日本教育改革体制设立，前身为战前文部省调查局，战后重组为独立研究机构，持续为日本教育政策提供实证研究支撑。
@@ -75,9 +75,9 @@ updated: 2026-09-13
 
 > [!dev-timeline]- 组织发展历程
 > - **1949 — 战后重建与独立法人化** 在美国占领时期教育改革背景下，日本重组战前文部省调查机构，设立独立研究机构，确立学术研究自主性与教育行政服务职能的双轨定位。
-> - **1980–1990年代 — 国际化与比较研究拓展** 随着 [[OECD]] [[Performance Indicators|教育指标]]体系（[[International Indicators of Education Systems|INES]]）与国际学生能力评估（[[PISA]]）等大规模教育测评项目的兴起，NIER 承担起日本参与[[International Education|国际教育]]测评的技术协调与数据分析职责，成为日本教育政策国际比较研究的核心枢纽。
+> - **1980–1990年代 — 国际化与比较研究拓展** 随着 [[OECD]] [[Performance Indicators\|教育指标]]体系（[[International Indicators of Education Systems\|INES]]）与国际学生能力评估（[[PISA]]）等大规模教育测评项目的兴起，NIER 承担起日本参与[[International Education\|国际教育]]测评的技术协调与数据分析职责，成为日本教育政策国际比较研究的核心枢纽。
 > - **2001 — 独立行政法人化改革** 依据日本行政改革框架，NIER 正式转型为独立行政法人，在维持与文部科学省同楼办公的物理紧密性的同时，获得更清晰的法定自治授权与独立财务运营空间。
-> - **2010年代至今 — [[Knowledge Mediation|知识中介功能]]强化** 在日本政府推动"证据导向教育政策"（EBPM，Evidence-based Policy Making）国家战略背景下，NIER 强化[[Systematic Review|系统综述]]产出、教育统计数据库建设与政策[[Evaluation Research|评估研究]]能力，成为连接学术研究共同体与文部科学省政策决策的核心中介节点。
+> - **2010年代至今 — [[Knowledge Mediation\|知识中介功能]]强化** 在日本政府推动"证据导向教育政策"（EBPM，Evidence-based Policy Making）国家战略背景下，NIER 强化[[Systematic Review\|系统综述]]产出、教育统计数据库建设与政策[[Evaluation Research\|评估研究]]能力，成为连接学术研究共同体与文部科学省政策决策的核心中介节点。
 
 ---
 
@@ -87,25 +87,25 @@ updated: 2026-09-13
 > - **主管机构** 文部科学省（MEXT），负责战略目标设定与中期目标评估。
 > - **法人治理结构** 设理事长（所长）、理事会与监察委员会；中期目标计划（通常为六年）由文部科学省批准，NIER 在目标框架内独立制定年度计划与研究议程。
 > - **研究部门设置** 设有教育政策、初等中等教育、高等教育、生涯学习、国际研究、教育课程、学力调查等多个专业研究部门，以及全国教育政策研究所图书馆。
-> - **与国际组织的联动** 作为 [[OECD]] [[Performance Indicators|教育指标]]网络（[[International Indicators of Education Systems|INES]]）日本联络点，定期参与 [[PISA]]、[[Teaching and Learning International Survey|TALIS]] 等国际测评项目的工具开发、数据采集与结果解读，并向文部科学省提供政策建议报告。
+> - **与国际组织的联动** 作为 [[OECD]] [[Performance Indicators\|教育指标]]网络（[[International Indicators of Education Systems\|INES]]）日本联络点，定期参与 [[PISA]]、[[Teaching and Learning International Survey\|TALIS]] 等国际测评项目的工具开发、数据采集与结果解读，并向文部科学省提供政策建议报告。
 
 > [!pathways]- 核心业务运行机制
 > - **教育政策研究与综合** 针对文部科学省政策优先领域，开展教育课程改革、学校管理、教师培训、教育公平等议题的实证研究与国际比较分析，产出政策简报与研究报告。
 > - **全国学力调查实施** 承担日本全国学力与学习状况调查的设计、实施与数据分析工作，每年为全国约 200 万名小学六年级与初中三年级学生提供学力测评数据支撑。
-> - **国际大规模测评协调** 作为 OECD PISA、TALIS（[[Teaching and Learning International Survey]]）等项目的日本国家协调机构，负责日本参与国际测评的抽样设计、测试工具[[Going Native|本土化]]与数据提交工作。
-> - **数据库与知识服务** 维护教育统计数据库（e-[[Students and Teachers Accessing Tomorrow|STAT]] 教育系列）与教育政策[[Document|文献]]库，面向研究者、政策制定者与公众提供开放数据检索服务。
+> - **国际大规模测评协调** 作为 OECD PISA、TALIS（[[Teaching and Learning International Survey]]）等项目的日本国家协调机构，负责日本参与国际测评的抽样设计、测试工具[[Going Native\|本土化]]与数据提交工作。
+> - **数据库与知识服务** 维护教育统计数据库（e-[[Students and Teachers Accessing Tomorrow\|STAT]] 教育系列）与教育政策[[Document\|文献]]库，面向研究者、政策制定者与公众提供开放数据检索服务。
 
 ---
 
 ## 知识治理视阈下的学理意义
 
 > [!finding-cards] NIER 的制度创新价值
-> - **"同楼独立"的制度平衡[[Paradigm|范式]]** NIER 最独特的制度创新在于将"物理邻近"与"行政自治"并行实现：与文部科学省同楼办公，确保研究与决策之间的沟通效率与议程对齐；独立行政法人的法律地位，则赋予其在人事、预算与研究议程上一定程度的自主权，避免沦为政策部门的附属宣传机构。这种制度安排使 NIER 在政治换届中保持连续性，远比 [[Kenniskamer]] 等部委直属机制具有更强的制度韧性。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]
+> - **"同楼独立"的制度平衡[[Paradigm\|范式]]** NIER 最独特的制度创新在于将"物理邻近"与"行政自治"并行实现：与文部科学省同楼办公，确保研究与决策之间的沟通效率与议程对齐；独立行政法人的法律地位，则赋予其在人事、预算与研究议程上一定程度的自主权，避免沦为政策部门的附属宣传机构。这种制度安排使 NIER 在政治换届中保持连续性，远比 [[Kenniskamer]] 等部委直属机制具有更强的制度韧性。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **政策对齐而非政治依附** 与荷兰 Kenniskamer 不同，NIER 的研究议程虽与文部科学省政策目标高度对齐，但不依赖特定部长的个人意愿；中期目标框架提供了跨届政府的制度连续性，使机构得以超越选举周期而持续运作。
-> - **亚太地区政府自治型中介的参照** 在 [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 的国际比较谱系中，NIER 与挪威 [[Kunnskapssenter for utdanning]] 及瑞士 [[Swiss Coordination Centre for Research in Education|SKBF]]/CSRE 并列，代表了"政府资助、保持独立、非营利导向"的中介类型；在亚太地区，NIER 是迄今历史最悠久、体量最大的此类机构。
+> - **亚太地区政府自治型中介的参照** 在 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 的国际比较谱系中，NIER 与挪威 [[Kunnskapssenter for utdanning]] 及瑞士 [[Swiss Coordination Centre for Research in Education\|SKBF]]/CSRE 并列，代表了"政府资助、保持独立、非营利导向"的中介类型；在亚太地区，NIER 是迄今历史最悠久、体量最大的此类机构。
 
 > [!citation-card] Burns & Schuller 论日本 NIER 的"同楼独立"制度安排
-> 日本国立教育政策研究所虽独立，却坐落于与文部科学省同一栋楼内。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]
+> 日本国立教育政策研究所虽独立，却坐落于与文部科学省同一栋楼内。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 >
 > *"The Japanese National Institute for Educational Policy Research is independent yet located in the same building as the Ministry of Education."*
 

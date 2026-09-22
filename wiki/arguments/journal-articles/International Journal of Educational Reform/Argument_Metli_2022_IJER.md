@@ -82,21 +82,21 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 本文探讨[[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）核心课程组件：[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）、[[Creativity, Action, Service|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）以及[[Extended Essay|拓展论文]]（Extended Essay，EE）之间如何促进[[Concurrency of Learning|并发学习]]（Concurrency of Learning）的连贯性，并分析其实施策略、良好实践、面临的挑战及解决方案。
+> 本文探讨[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）核心课程组件：[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）以及[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间如何促进[[Concurrency of Learning\|并发学习]]（Concurrency of Learning）的连贯性，并分析其实施策略、良好实践、面临的挑战及解决方案。
 
 > [!claim] 核心主张
-> 促进核心课程间的并发学习对实现跨学科学习和整体教育至关重要。尽管存在时间限制、双轨制课程冲突和教师认知不足等实施障碍，但通过协同备课、主题反思以及围绕现实情境的[[Experiential Learning|经验学习]]，可以有效实现课程间的连贯性。
+> 促进核心课程间的并发学习对实现跨学科学习和整体教育至关重要。尽管存在时间限制、双轨制课程冲突和教师认知不足等实施障碍，但通过协同备课、主题反思以及围绕现实情境的[[Experiential Learning\|经验学习]]，可以有效实现课程间的连贯性。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 土耳其境内授权实施 IB 项目的连续与非连续学校体系（包含 DP 协调员、核心组件教师及管理者）。
 > - **张力** IB 官方对并发学习的明确期待与实际执行中缺乏具体链接指南、资源限制导致组件间“孤立运作”之间的脱节。
-> - **贡献** 基于学校实践者的[[Mixed Methods Research|混合方法]]数据，不仅诊断了实施层面的系统性痛点，还为跨组件（CAS与TOK、TOK与EE、CAS与EE）链接提供了具体的策略与案例建议。
+> - **贡献** 基于学校实践者的[[Mixed Methods Research\|混合方法]]数据，不仅诊断了实施层面的系统性痛点，还为跨组件（CAS与TOK、TOK与EE、CAS与EE）链接提供了具体的策略与案例建议。
 
 ---
 
 ## 研究方法
 
-> [!method-panel] [[Mixed Methods Research|混合方法]]设计（Mixed Method Research）
+> [!method-panel] [[Mixed Methods Research\|混合方法]]设计（Mixed Method Research）
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **[[Questionnaire\|问卷调查]]** | N=40，包含土耳其 15 所 [[International Baccalaureate\|IB]] 授权学校的 DP 协调员、核心组件教师及管理者。使用[[Concurrency of Learning in the Core Questionnaire\|并发学习问卷]]（Concurrency of Learning in the Core Questionnaire，CLCQ）收集人口统计数据，并通过[[Likert Scale\|李克特量表]]和开放式问题评估参与者对[[Concurrency of Learning\|并发学习]]的认知与[[Praxis\|实践]]情况。 |
@@ -121,23 +121,23 @@ issuing_organization: ""
 ### 1. 理念认同与实践鸿沟（现状）
 
 > [!tension] 理念认同 vs. 实践脱节
-> **认同[[Concurrency of Learning|并发学习]]的跨学科价值** **缺乏具体的跨组件链接实践**
+> **认同[[Concurrency of Learning\|并发学习]]的跨学科价值** **缺乏具体的跨组件链接实践**
 >
 > - 提供真实、有意义的学习，促进知识的长效保留
-> - 大多数[[Questionnaire|问卷]]受访者“认为”其学校存在跨组件链接
+> - 大多数[[Questionnaire\|问卷]]受访者“认为”其学校存在跨组件链接
 > - 支持互联性（interconnectedness of learning）
-> - 在[[Focus Group|焦点小组]]追问中，受访者难以举出超越表层的具体实践案例
-> - 有助于跨越孤立学科、实现 IB [[IB Learner Profile|学习者培养目标]]
+> - 在[[Focus Group\|焦点小组]]追问中，受访者难以举出超越表层的具体实践案例
+> - 有助于跨越孤立学科、实现 IB [[IB Learner Profile\|学习者培养目标]]
 > - 超过半数的参与者承认，核心组件在其学校内往往是“孤立运作”的
 > 
-> *注：并发学习在 IB 体系内的期待呈递进关系。在小学项目（PYP）中其存在但不严格；在中学项目（MYP）中是跨学科学习的核心；而在大学预科项目（[[IB Diploma Programme|IBDP]]）中，它必须通过强有力的“反思”机制来实现整体学习（holistic learning）。*
+> *注：并发学习在 IB 体系内的期待呈递进关系。在小学项目（PYP）中其存在但不严格；在中学项目（MYP）中是跨学科学习的核心；而在大学预科项目（[[IB Diploma Programme\|IBDP]]）中，它必须通过强有力的“反思”机制来实现整体学习（holistic learning）。*
 
 ---
 
 ### 2. 促进核心连贯性的跨组件互证与转化（以 TOK 为枢纽）
 
-> [!case] CAS 与 [[Theory of Knowledge|TOK]] 的互证：从经验走向[[Epistemology|认识论]]反思
-> **方向一：用 TOK [[Knowledge Questions|知识问题]]（Knowledge Question，KQ）引导 CAS 反思**
+> [!case] CAS 与 [[Theory of Knowledge\|TOK]] 的互证：从经验走向[[Epistemology\|认识论]]反思
+> **方向一：用 TOK [[Knowledge Questions\|知识问题]]（Knowledge Question，KQ）引导 CAS 反思**
 > 教师可以利用核心知识问题“你的个人经验如何创造了知识？”来深化 CAS 反思。Elnegar & Darwazeh (2018) 提出了四个递进的辅助知识问题：
 > 1. 这项活动中的个人经验如何为你创造了意义？
 > 2. 你的个体经验（个人知识）如何反映了你所在团队的共享知识（Shared Knowledge）？
@@ -149,14 +149,14 @@ issuing_organization: ""
 
 > [!case] TOK 与 EE 的认知迁移：从知识审查走向独立研究
 > **自然的研究方法链接**
-> TOK 探讨的“[[Knowledge Framework|知识框架]]”（Knowledge Framework）能直接帮助学生探索 EE 的[[Research Question|研究问题]]。特别是在[[Literature Review|文献回顾]]阶段，TOK 对信源[[Reliability|可靠性]]、有效性及证据评估的批判性审视，能够自然迁移至 EE 研究中。学校可通过安排图书馆员主持专题研讨，显性化这种从 TOK 到 EE 的技能转移。
+> TOK 探讨的“[[Knowledge Framework\|知识框架]]”（Knowledge Framework）能直接帮助学生探索 EE 的[[Research Question\|研究问题]]。特别是在[[Literature Review\|文献回顾]]阶段，TOK 对信源[[Reliability\|可靠性]]、有效性及证据评估的批判性审视，能够自然迁移至 EE 研究中。学校可通过安排图书馆员主持专题研讨，显性化这种从 TOK 到 EE 的技能转移。
 > 
 > **艺术视角的跨组件深究（CAS-TOK-EE 联动示例）**
 > 学生可围绕“涂鸦（Graffiti）”进行跨组件的连贯学习：
 > - **CAS 阶段** 参与与涂鸦相关的创意或社区服务项目。
 > - **TOK 阶段** 在知识展演（Presentation Task）中探究诸如“任何事物都能被称为艺术吗？”“艺术家是否享有特殊的伦理特权？”“我们是否应允许以艺术之名违反法律？”等知识问题。
 > - **EE 阶段** 在视觉艺术学科的 EE 中，进一步从艺术与破坏的双重角度探究涂鸦，提出研究问题“涂鸦如何对社会的视觉文化做出贡献？”
-> 这种联动使学生能够批判性地思考艺术表达途径，并深入探究艺术创作背后的伦理[[Hypothesis|假设]]。
+> 这种联动使学生能够批判性地思考艺术表达途径，并深入探究艺术创作背后的伦理[[Hypothesis\|假设]]。
 
 > [!case] CAS and EE 的行动转化：研究与实践的双向滋养
 > - **从实践到研究（CAS → EE）** 学生在 CAS 社区服务和志愿活动中获得的经历，可以转化为 EE 深入调查全球问题（Global Issue）的起点。
@@ -172,7 +172,7 @@ issuing_organization: ""
 >    - **发展导向（Development-oriented）** 教师自由带来议题进行自发讨论。
 >    - **结果导向（Outcome-oriented）** 针对学生学习过程中遇到的具体问题进行求解式会议。
 >
-> 2. **教学层面的统合（[[Approaches to Teaching and Learning|ATL]] & [[IB Learner Profile|Learner Profile]]）**
+> 2. **教学层面的统合（[[Approaches to Teaching and Learning\|ATL]] & [[IB Learner Profile\|Learner Profile]]）**
 >
 >    利用“如何学习”技能（Approaches to Teaching and Learning，ATL）和 IB 学习者特征（如探究者、反思者）作为跨越不同学科和组件的通用语言。例如，以“反思者”为抓手，引导学生将一个学科的知识迁移到另一学科。
 >
@@ -195,7 +195,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **普遍困境** 尽管教育者高度认同核心课程连贯性的价值，但具体的链接策略和最佳实践在学校中仍然非常有限和表面化。（p. 230）
-> 2. **促成条件** 促进[[Concurrency of Learning|并发学习]]的有效机制包括：基于真实情境的反思实践、协同备课机制以及全校层面对 IB [[IB Learner Profile|学习者培养目标]]的显性整合。（pp. 227–228）
+> 2. **促成条件** 促进[[Concurrency of Learning\|并发学习]]的有效机制包括：基于真实情境的反思实践、协同备课机制以及全校层面对 IB [[IB Learner Profile\|学习者培养目标]]的显性整合。（pp. 227–228）
 > 3. **制度呼吁** 解决并发学习的挑战需要结构性支持，建议 IB 官方与当地高等教育机构协调提升项目认可度，并在官方培训中增设关于“并发学习”的具体指导。同上
 
 ---
@@ -203,10 +203,10 @@ issuing_organization: ""
 ## 自述局限与启示
 
 > [!warning] 自述局限
-> 原文未专门设立局限性章节，但在结论中提出，目前关于[[Concurrency of Learning|并发学习]]的[[Document|文献]]有限，本研究揭示的挑战受制于土耳其独特的双轨制教育背景（国家课程与[[Gaokao|高考]]压力）。
+> 原文未专门设立局限性章节，但在结论中提出，目前关于[[Concurrency of Learning\|并发学习]]的[[Document\|文献]]有限，本研究揭示的挑战受制于土耳其独特的双轨制教育背景（国家课程与[[Gaokao\|高考]]压力）。
 
 > [!implication]- 对未来研究与实践的启示
-> - **对 IB 官方的建议** 除了将并发学习显性纳入现有培训，IB 应考虑增设关于并发学习的 **第 3 类（Category 3）专业发展工作坊**。此外，IB 需与土耳其等地区的高等教育机构合作，提高 [[IB Diploma Programme|IBDP]] 的录取认可度，以帮助学校和学生在国家考试压力下优先考虑 DP 课程。
+> - **对 IB 官方的建议** 除了将并发学习显性纳入现有培训，IB 应考虑增设关于并发学习的 **第 3 类（Category 3）专业发展工作坊**。此外，IB 需与土耳其等地区的高等教育机构合作，提高 [[IB Diploma Programme\|IBDP]] 的录取认可度，以帮助学校和学生在国家考试压力下优先考虑 DP 课程。
 > - **对师资培养的建议** 呼吁在职前教师教育（特别是参加 IB 教育证书项目的实习教师）中，加入针对跨学科学习以及课程的 **垂直与水平衔接（vertical and horizontal articulation）** 的专门培训，从源头提升教师整合课程的能力。
 > - **对未来研究的建议** 建议在不同的学校背景下开展更多实证研究，以探索不仅在核心组件之间，而且在所有学术课程中实施并发学习的有效策略。
 

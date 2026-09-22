@@ -36,7 +36,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info] 定义
-> 脑电图（Electroencephalography, EEG）是一种功能神经影像技术，通过测量相邻神经元群落的激活来记录脑活动([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])。
+> 脑电图（Electroencephalography, EEG）是一种功能神经影像技术，通过测量相邻神经元群落的激活来记录脑活动([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.2]])。
 >
 > 多通道脑电图（Multichannel EEG）可测量毫秒级增量的脑活动，因此在确定时间信息方面优于空间信息。
 
@@ -47,15 +47,15 @@ EEG 通过在头皮上放置电极，测量相邻神经元群落的同步电活�
 ## 适用场景
 
 > [!success] 适用场景
-> - 将认知功能任务和测试期间的表现与特定脑区联系起来([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
-> - 检验年幼儿童的脑发育[[Hypothesis|假设]]。便携式 EEG 的引入扩大了在年幼儿童中测试脑发育假设的机会([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9,引用 Trainor, 2012]])
-> - 研究 [[Prefrontal Cortex|PFC]] 在 EF 任务中的激活，如 A not B 任务和物体检索任务中 PFC 激活的 EEG 证据([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
-> - 连接抑制任务期间的 PFC 激活，如在 Go/No Go 任务中的 EEG 研究([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.12]])
+> - 将认知功能任务和测试期间的表现与特定脑区联系起来([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.2]])
+> - 检验年幼儿童的脑发育[[Hypothesis\|假设]]。便携式 EEG 的引入扩大了在年幼儿童中测试脑发育假设的机会([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.9,引用 Trainor, 2012]])
+> - 研究 [[Prefrontal Cortex\|PFC]] 在 EF 任务中的激活，如 A not B 任务和物体检索任务中 PFC 激活的 EEG 证据([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.9]])
+> - 连接抑制任务期间的 PFC 激活，如在 Go/No Go 任务中的 EEG 研究([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.12]])
 
 ## 局限性
 
 > [!warning] 局限性
-> - 空间分辨率弱于 [[Functional Magnetic Resonance Imaging|fMRI]] 和 PET([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
+> - 空间分辨率弱于 [[Functional Magnetic Resonance Imaging\|fMRI]] 和 PET([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.2]])
 
 ## 与其他技术的比较
 

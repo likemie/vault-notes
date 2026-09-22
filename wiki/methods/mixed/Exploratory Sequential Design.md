@@ -55,12 +55,12 @@ updated: 2026-07-13
 ## 1. 定义与核心价值
 
 > [!info] 定义
-> 探索性序列设计（exploratory sequential design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关[[Hypothesis|假设]]（第三阶段）。
+> 探索性序列设计（exploratory sequential design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关[[Hypothesis\|假设]]（第三阶段）。
 > 
-> [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.138)]] 将其目的概括为：to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample.（首先通过小样本进行质性探索，基于质性发现设计或修改量化评估，然后在大样本中检验该设计的或修改后的量化评估。）
+> [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p.138)]] 将其目的概括为：to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample.（首先通过小样本进行质性探索，基于质性发现设计或修改量化评估，然后在大样本中检验该设计的或修改后的量化评估。）
 
 > [!quote]
-> "The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.138]])
+> "The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.138]])
 > 
 > 本探索性序列设计的目的是，首先通过小样本进行质性探索，基于质性发现设计或修改量化评估，随后在大样本中检验这一设计的或修改后的量化评估。
 
@@ -81,8 +81,8 @@ updated: 2026-07-13
 
 ## 3. 认识论立场
 
-> [!abstract] 从解释主义转向[[Postpositivism|后实证主义]]
-> 该设计体现了[[Epistemology|认识论]]的转变：初始阶段采用解释主义/[[Constructivist Paradigm|建构主义]]立场（通过深入探究捕捉参与者的意义建构），随后转向后[[Positivism|实证主义]]立场（通过标准化测量在大样本中验证规律）。这种转换服务于[[Pragmatic Paradigm|实用主义]]目标：将深度的质性洞见转化为可推广的量化证据。
+> [!abstract] 从解释主义转向[[Postpositivism\|后实证主义]]
+> 该设计体现了[[Epistemology\|认识论]]的转变：初始阶段采用解释主义/[[Constructivist Paradigm\|建构主义]]立场（通过深入探究捕捉参与者的意义建构），随后转向后[[Positivism\|实证主义]]立场（通过标准化测量在大样本中验证规律）。这种转换服务于[[Pragmatic Paradigm\|实用主义]]目标：将深度的质性洞见转化为可推广的量化证据。
 
 ---
 
@@ -92,10 +92,10 @@ updated: 2026-07-13
 在研究开始前，需明确三阶段的转化逻辑([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.138]])：
 
 > **英文脚本：**
-> This study will address ________ (overall intent). The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment (e.g., instrument, website, experimental intervention activities, new [[Variable|variables]]) based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample. The first, qualitative phase of the study will involve collecting ________ data from ________ (participants) at ________ (research site) to understand ________. Based on this initial exploration, the qualitative findings will be used to design a culturally or contextually specific quantitative assessment for testing with a large sample. This testing will ________ (relate or compare) ________ quantitative data from ________ (participants) at ________ (research site). The insight gained from designing a quantitative assessment based on qualitative data will be ________.
+> This study will address ________ (overall intent). The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment (e.g., instrument, website, experimental intervention activities, new [[Variable\|variables]]) based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample. The first, qualitative phase of the study will involve collecting ________ data from ________ (participants) at ________ (research site) to understand ________. Based on this initial exploration, the qualitative findings will be used to design a culturally or contextually specific quantitative assessment for testing with a large sample. This testing will ________ (relate or compare) ________ quantitative data from ________ (participants) at ________ (research site). The insight gained from designing a quantitative assessment based on qualitative data will be ________.
 > 
 > **中文译文：**
-> 本研究解决________（总体意图）。本探索性序列设计的目的是先以小样本进行质性探索，基于质性发现设计或修改量化评估（如工具、网站、实验干预活动、新[[Variable|变量]]），然后用大样本检验这一设计或修改后的量化评估。第一阶段的质性探索将从________参与者在________研究场所收集________数据以理解________。基于这一初步探索，质性发现将用于设计可用于大样本检验的文化或情境特定的量化评估。该检验将________（关联/比较）来自________参与者在________研究场所的________量化数据。基于质性数据设计量化评估的洞见将是________。
+> 本研究解决________（总体意图）。本探索性序列设计的目的是先以小样本进行质性探索，基于质性发现设计或修改量化评估（如工具、网站、实验干预活动、新[[Variable\|变量]]），然后用大样本检验这一设计或修改后的量化评估。第一阶段的质性探索将从________参与者在________研究场所收集________数据以理解________。基于这一初步探索，质性发现将用于设计可用于大样本检验的文化或情境特定的量化评估。该检验将________（关联/比较）来自________参与者在________研究场所的________量化数据。基于质性数据设计量化评估的洞见将是________。
 
 ### 4.2 执行程序：三阶段基本流程
 操作逻辑为先探索、再开发、后检验：
@@ -146,16 +146,16 @@ updated: 2026-07-13
 ## 6. 方法变体与对比
 
 > [!tip]-
-> - [[Explanatory Sequential Design|解释性序列设计]]：顺序相反（量化在前），目的是解释结果而非开发工具。
-> - [[Convergent Design|聚敛式设计]]：同时收集，不涉及工具开发。
-> - **工具开发研究 (Instrument Development Studies)** 探索性序列设计是将此类研究正名化并嵌入[[Mixed Methods Research|混合方法]]框架的标准方案。
+> - [[Explanatory Sequential Design\|解释性序列设计]]：顺序相反（量化在前），目的是解释结果而非开发工具。
+> - [[Convergent Design\|聚敛式设计]]：同时收集，不涉及工具开发。
+> - **工具开发研究 (Instrument Development Studies)** 探索性序列设计是将此类研究正名化并嵌入[[Mixed Methods Research\|混合方法]]框架的标准方案。
 
 ---
 
 ## 7. 使用此方法的研究
 
 > [!example] 案例：Enosh et al. (2015)
-> 首先通过[[Qualitative Interview|质性访谈]]探索社会工作者遭受客户暴力的经历，基于发现开发了客户暴力[[Questionnaire|问卷]]（CVQ），随后通过两种不同的调查程序应用并检验了该工具([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.138–139]])。
+> 首先通过[[Qualitative Interview\|质性访谈]]探索社会工作者遭受客户暴力的经历，基于发现开发了客户暴力[[Questionnaire\|问卷]]（CVQ），随后通过两种不同的调查程序应用并检验了该工具([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.138–139]])。
 
 ---
 

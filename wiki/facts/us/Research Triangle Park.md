@@ -40,7 +40,7 @@ updated: 2026-05-28
 ## 内容
 
 > [!info]
-> Research Triangle Park（RTP）是位于北卡罗来纳州的美国最大[[Innovation Park|研究园区]]之一。最初是一个"不太可能实现的概念"——由一家地区银行的总裁和一位本地开发商牵头、在当时州长 Luther Hodges 的支持下发起，目的是扭转该州的经济衰退，阻止毕业生流向更繁荣的地区([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.130–131]])。
+> Research Triangle Park（RTP）是位于北卡罗来纳州的美国最大[[Innovation Park\|研究园区]]之一。最初是一个"不太可能实现的概念"——由一家地区银行的总裁和一位本地开发商牵头、在当时州长 Luther Hodges 的支持下发起，目的是扭转该州的经济衰退，阻止毕业生流向更繁荣的地区([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.130–131]])。
 
 RTP 联合了三所研究型大学：Duke University、University of North Carolina at Chapel Hill and North Carolina State University——三所大学分别位于三个不同的地理区域，RTP 将它们整合为一个统一的组织。
 
@@ -54,7 +54,7 @@ RTP 联合了三所研究型大学：Duke University、University of North Carol
 ## 运营影响
 
 > [!success]
-> RTP 现任总裁兼 CEO Scott Levitan（曾任 Georgia Tech 房地产副总裁，参与 [[Tech Square at Georgia Tech|Tech Square]] 开发）强调，RTP 在早期阶段做出的决策鼓励了持续增加的投资，而投资又进一步吸引了产业参与，形成了良性的发展循环（p.131）
+> RTP 现任总裁兼 CEO Scott Levitan（曾任 Georgia Tech 房地产副总裁，参与 [[Tech Square at Georgia Tech\|Tech Square]] 开发）强调，RTP 在早期阶段做出的决策鼓励了持续增加的投资，而投资又进一步吸引了产业参与，形成了良性的发展循环（p.131）
 >
 > 如今，RTP 不仅是建筑的集合体，更是一个充满活力的社区——一个能够适应动态区域经济和劳动力市场需求的研发中心。园区拥有多种混合用途的场所，吸引各类居民和访客，并计划开发更多鼓励创业者、学者和产业伙伴之间有意义互动的混合用途建筑和基础设施（p.131）
 

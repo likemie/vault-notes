@@ -37,12 +37,12 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 平行[[Mixed Methods Research|混合方法]]抽样（Parallel Mixed Methods Sampling）是[[Mixed Methods Research|混合方法研究]]中的一种抽样设计：概率样本和非概率样本同时并排运行，彼此独立——一种样本的数据收集和分析不影响另一种样本的数据收集和分析（Teddlie & Tashakkori, 2009, pp. 185–91）。Onwuegbuzie & Leech（2007, p. 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）。
+> 平行[[Mixed Methods Research\|混合方法]]抽样（Parallel Mixed Methods Sampling）是[[Mixed Methods Research\|混合方法研究]]中的一种抽样设计：概率样本和非概率样本同时并排运行，彼此独立——一种样本的数据收集和分析不影响另一种样本的数据收集和分析（Teddlie & Tashakkori, 2009, pp. 185–91）。Onwuegbuzie & Leech（2007, p. 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 同时需要定量和定性数据的同一[[Research Question|研究问题]]
+> - **研究对象** 同时需要定量和定性数据的同一[[Research Question\|研究问题]]
 > - **问题类型** 需要两种数据类型相互印证或互补的研究
-> - **[[Unit of Analysis|分析单位]]** 个体或群体，同时从两个独立样本中获取
+> - **[[Unit of Analysis\|分析单位]]** 个体或群体，同时从两个独立样本中获取
 > - **输出形式** 并行的定量和定性结果
 
 ## 研究程序
@@ -57,8 +57,8 @@ updated: 2026-09-17
 
 > [!method-fit] 适用判断
 > - **适合使用** 需要在同一研究阶段同时获取定量和定性数据、两种数据类型服务于不同的研究子问题。
-> - **谨慎使用**[[Sample Size Determination|样本量]]差异过大时，两组结果的可比性受限。
-> - **不适合使用** 一种数据的收集需要以另一种数据的分析结果为前提时——此时应使用[[Sequential Mixed Methods Sampling|顺序混合方法抽样]]。
+> - **谨慎使用**[[Sample Size Determination\|样本量]]差异过大时，两组结果的可比性受限。
+> - **不适合使用** 一种数据的收集需要以另一种数据的分析结果为前提时——此时应使用[[Sequential Mixed Methods Sampling\|顺序混合方法抽样]]。
 
 ## 局限性
 
@@ -68,5 +68,5 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Teddlie & Tashakkori（2009）的平行[[Mixed Methods Research|混合方法]]抽样设计。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Teddlie & Tashakkori（2009）的平行[[Mixed Methods Research\|混合方法]]抽样设计。

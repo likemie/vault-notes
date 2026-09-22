@@ -79,20 +79,20 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 研究-政策鸿沟（Research-Policy Gap），又称研究与政策的鸿沟（research-policy divide），指教育与公共政策领域中，科学学术研究的生产与政府官方政策制定之间的结构性脱节与系统性失调。它不仅表现为决策官员在政策制定中对高质量实证研究证据的低吸收与有限利用，更深层地植根于学术界与政治官僚系统在时间节律、制度激励、[[Epistemology|认识论]][[Paradigm|范式]]与核心关切上的根本差异。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 103–106)]]
+> 研究-政策鸿沟（Research-Policy Gap），又称研究与政策的鸿沟（research-policy divide），指教育与公共政策领域中，科学学术研究的生产与政府官方政策制定之间的结构性脱节与系统性失调。它不仅表现为决策官员在政策制定中对高质量实证研究证据的低吸收与有限利用，更深层地植根于学术界与政治官僚系统在时间节律、制度激励、[[Epistemology\|认识论]][[Paradigm\|范式]]与核心关切上的根本差异。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 103–106)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向学术研究系统与国家行政政策系统之间由于[[Organizational Culture|组织文化]]、工作逻辑与权力利益差异所形成的深层结构性断裂。
-> - **用途** 帮助政策分析者与[[Knowledge Mobilisation|知识动员]]研究者超越对决策官员个体偏好的指责，从政治周期错配、体制性动机匮乏与供需治理机制失衡等系统维度，诊断证据为何难以进入政策议程。
-> - **边界** 严格区别于聚焦学校课堂与教师教学的[[Research-Practice Gap|研究-实践鸿沟]]；鸿沟本身是描述性与解释性概念，不等同于旨在弥合鸿沟的过程机制[[Knowledge Mobilisation|知识动员]]。
+> - **含义** 指向学术研究系统与国家行政政策系统之间由于[[Organizational Culture\|组织文化]]、工作逻辑与权力利益差异所形成的深层结构性断裂。
+> - **用途** 帮助政策分析者与[[Knowledge Mobilisation\|知识动员]]研究者超越对决策官员个体偏好的指责，从政治周期错配、体制性动机匮乏与供需治理机制失衡等系统维度，诊断证据为何难以进入政策议程。
+> - **边界** 严格区别于聚焦学校课堂与教师教学的[[Research-Practice Gap\|研究-实践鸿沟]]；鸿沟本身是描述性与解释性概念，不等同于旨在弥合鸿沟的过程机制[[Knowledge Mobilisation\|知识动员]]。
 
 > [!citation-card] 政策端与实践端的结构性断裂
-> 政策制定者与学术研究者往往遵循着截然不同的制度规则与时间表。在政策语境中，即便有充足的高质量研究存在，政治周期的急迫性、官僚部门的条块分割、缺乏明确的政策知识需求识别，以及政治意愿的不足，都会构成深层的结构性阻碍，使得科学证据无法顺利转化为政策干预。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 104)]]
+> 政策制定者与学术研究者往往遵循着截然不同的制度规则与时间表。在政策语境中，即便有充足的高质量研究存在，政治周期的急迫性、官僚部门的条块分割、缺乏明确的政策知识需求识别，以及政治意愿的不足，都会构成深层的结构性阻碍，使得科学证据无法顺利转化为政策干预。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 104)]]
 >
 > *Policy makers and researchers operate under fundamentally different institutional logics and timelines. Even when high-quality research is available, the urgency of political cycles, bureaucratic silos, lack of systematic identification of policy knowledge needs, and conflicting political priorities create structural barriers that hinder the translation of evidence into policy.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Research-Practice Gap]] — 后者指向研究者与一线教师、校长及学校组织之间的脱节，核心阻碍是课堂教学时间有限、专业[[Document|文献]]可读性差及本土情境转化难；本概念则指向研究者与政府官员、立法者及教育部官僚之间的脱节，核心阻碍是选举任期约束、意识形态冲突与政治妥协。
+> - 不等于 [[Research-Practice Gap]] — 后者指向研究者与一线教师、校长及学校组织之间的脱节，核心阻碍是课堂教学时间有限、专业[[Document\|文献]]可读性差及本土情境转化难；本概念则指向研究者与政府官员、立法者及教育部官僚之间的脱节，核心阻碍是选举任期约束、意识形态冲突与政治妥协。
 > - 不等于 [[Knowledge Mobilisation]] — 知识动员是系统为了克服鸿沟所采取的关系性、结构性与中介化过程；研究-政策鸿沟是需要被干预和治理的对象状态。
 
 ---
@@ -112,10 +112,10 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **时间维度的非对称错配（Temporal Mismatch）** 学术研究严谨的同行评议与实证检验周期长达数月乃至数年，而政策制定受制于内阁更迭、议会选举日程与危机事件应对，往往要求在数周内提出方案，导致研究成果与政策窗口发生结构性错过。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 106)]] 在宏观立法实务中，受特定社会历史事件驱动的政策时间系统更显现出极速响应压力，政治家常在危机发生数小时内亮明立场，与长达数年乃至十年的科学发现周期产生剧烈断层。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
-> - **政治意愿与意识形态壁垒（Political Will and Ideological Barriers）** 政策制定本质上涉及价值判断与选民诉求平衡。实证证据常与执政党政治纲领、部门利益发生冲突，成为政策端特有的非理性排斥机制。[[OECD|经合组织]]跨国调查显示，32% 的教育系统明确将政治意愿缺乏或政策优先事项冲突列为政策端使用研究的主要障碍。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 113)]] 政策决策者往往将研究证据用于支持预先确立的政治信念与施政口号（political mantra），导致证据被高度策略性地挑选（cherry-picked）与工具化利用。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 42–43)]]
-> - **科研委托与需求识别的倒挂（Commissioning vs Need-Mapping Inversion）** 系统虽然设立了高比例的定向委托机制（62% 的教育系统通过资助委托政策研究），但仅有 51% 建立了常态化、系统化识别政策知识缺口的机制，导致政策委托缺乏明确的证据需求靶向，陷入政策供需的无序匹配。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 114)]]
-> - **机制部署的互动性贫乏（Interactive Mechanism Deficit）** 在促进[[Research Utilization|研究利用]]的机制部署中，政策制定端高度依赖单向的信息分发（73%）与内部能力培训（49%），而旨在促进深度[[Dialogue in Education|对话]]的互动机制（如联合攻关、政策驻场研究员）仅占 45%，显著低于实践端的部署比例（65%）。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 111)]]
+> - **时间维度的非对称错配（Temporal Mismatch）** 学术研究严谨的同行评议与实证检验周期长达数月乃至数年，而政策制定受制于内阁更迭、议会选举日程与危机事件应对，往往要求在数周内提出方案，导致研究成果与政策窗口发生结构性错过。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 106)]] 在宏观立法实务中，受特定社会历史事件驱动的政策时间系统更显现出极速响应压力，政治家常在危机发生数小时内亮明立场，与长达数年乃至十年的科学发现周期产生剧烈断层。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 41–42)]]
+> - **政治意愿与意识形态壁垒（Political Will and Ideological Barriers）** 政策制定本质上涉及价值判断与选民诉求平衡。实证证据常与执政党政治纲领、部门利益发生冲突，成为政策端特有的非理性排斥机制。[[OECD\|经合组织]]跨国调查显示，32% 的教育系统明确将政治意愿缺乏或政策优先事项冲突列为政策端使用研究的主要障碍。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 113)]] 政策决策者往往将研究证据用于支持预先确立的政治信念与施政口号（political mantra），导致证据被高度策略性地挑选（cherry-picked）与工具化利用。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 42–43)]]
+> - **科研委托与需求识别的倒挂（Commissioning vs Need-Mapping Inversion）** 系统虽然设立了高比例的定向委托机制（62% 的教育系统通过资助委托政策研究），但仅有 51% 建立了常态化、系统化识别政策知识缺口的机制，导致政策委托缺乏明确的证据需求靶向，陷入政策供需的无序匹配。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 114)]]
+> - **机制部署的互动性贫乏（Interactive Mechanism Deficit）** 在促进[[Research Utilization\|研究利用]]的机制部署中，政策制定端高度依赖单向的信息分发（73%）与内部能力培训（49%），而旨在促进深度[[Dialogue in Education\|对话]]的互动机制（如联合攻关、政策驻场研究员）仅占 45%，显著低于实践端的部署比例（65%）。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -160,34 +160,34 @@ updated: 2026-09-17
 > [!concept-lens] 时间维度的制度冲突
 > 该命题探讨学术系统的知识积累规律与政治决策的议程窗口之间的速度差，强调时间矛盾是无法通过个体努力单向弥合的系统性约束。
 
-> [!claim] [[José Manuel Torres|Torres, J. M.]]
-> **时间错配的制度性必然** 学术研究的生产受制于方法论严谨性、伦理审查、数据采集与同行评审的长周期运作；而教育政策的制定则由政治选举周期、政府预算审批流程与突发公众舆论危机所主导。当决策者需要立即制定政策干预时，前沿研究往往尚未得出定论；而当经由严格验证的研究成果发表时，政策议程窗口往往已经关闭。这种时间维度的脱节构成研究-政策鸿沟中最根本的结构性阻碍。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 106, 114)]]
+> [!claim] [[José Manuel Torres\|Torres, J. M.]]
+> **时间错配的制度性必然** 学术研究的生产受制于方法论严谨性、伦理审查、数据采集与同行评审的长周期运作；而教育政策的制定则由政治选举周期、政府预算审批流程与突发公众舆论危机所主导。当决策者需要立即制定政策干预时，前沿研究往往尚未得出定论；而当经由严格验证的研究成果发表时，政策议程窗口往往已经关闭。这种时间维度的脱节构成研究-政策鸿沟中最根本的结构性阻碍。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 106, 114)]]
 
-> [!claim] [[Argument_Serpell_2020_EP|Serpell (2020)]]
-> **[[Policymaking Chronosystem|政策制定时间系统]]驱动的极端时效压迫与学术迟滞** 塞佩尔（[[Argument_Serpell_2020_EP|Serpell, 2020]]）将生物生态学时间系统引入宏观立法分析，指出研究-政策鸿沟在危机驱动型政策制定中被急剧放大。当突发公共危机（如校园枪击惨案或飓风）爆发时，[[Policymaking Chronosystem|政策制定时间系统]]被瞬间激活，议员通常在数小时内公开表态以回应公众恐慌，形成高昂反转成本的刚性政治承诺；而科学界建立因果干预共识往往历时近十年。以教育[[Informationalization|信息化]]领域为例，联邦耗费巨资对教育软件开展的十年期大型[[Randomised Controlled Trials|随机对照试验]]（Dynarski et al., 2007）报告出炉时，该技术甚至已经在市场上彻底过时。时间系统脱节使得迟缓的实证证据难以指导实践。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
+> [!claim] [[Argument_Serpell_2020_EP\|Serpell (2020)]]
+> **[[Policymaking Chronosystem\|政策制定时间系统]]驱动的极端时效压迫与学术迟滞** 塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）将生物生态学时间系统引入宏观立法分析，指出研究-政策鸿沟在危机驱动型政策制定中被急剧放大。当突发公共危机（如校园枪击惨案或飓风）爆发时，[[Policymaking Chronosystem\|政策制定时间系统]]被瞬间激活，议员通常在数小时内公开表态以回应公众恐慌，形成高昂反转成本的刚性政治承诺；而科学界建立因果干预共识往往历时近十年。以教育[[Informationalization\|信息化]]领域为例，联邦耗费巨资对教育软件开展的十年期大型[[Randomised Controlled Trials\|随机对照试验]]（Dynarski et al., 2007）报告出炉时，该技术甚至已经在市场上彻底过时。时间系统脱节使得迟缓的实证证据难以指导实践。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 41–42)]]
 
 ---
 
 ### 命题二　政策端研究利用的深层阻碍源于意识形态竞争、行政流动与需求委托倒挂
 
 > [!concept-lens] 政治激励与官僚机制失灵
-> 该命题从政治学与公共行政学视角，剖析政策端[[Research Utilization|证据使用]]受阻的制度性动因，指出单纯的信息供给无法打破意识形态与官僚结构的壁垒。
+> 该命题从政治学与公共行政学视角，剖析政策端[[Research Utilization\|证据使用]]受阻的制度性动因，指出单纯的信息供给无法打破意识形态与官僚结构的壁垒。
 
 > [!claim] Torres, J. M.
-> **动机冲突与制度性空转** 政策端对研究的排斥不同于一线实践中的技能或时间匮乏，其核心在于政治动机与利益冲突。[[OECD|经合组织]]对 37 个教育系统的调研表明，32% 的系统受困于政治意愿缺失与意识形态对立。此外，政府部门高级官僚的高流动率导致组织研究记忆与利用能力断裂。更深层的体制扭曲在于，虽然多数系统设立了定向[[Categorical Funding|委托研究]]渠道，却未建立前置的政策知识缺口诊断机制，导致大量政策研究委托流于形式化采购，无法与真实政策需求形成精准咬合。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 106, 114–115)]]
+> **动机冲突与制度性空转** 政策端对研究的排斥不同于一线实践中的技能或时间匮乏，其核心在于政治动机与利益冲突。[[OECD\|经合组织]]对 37 个教育系统的调研表明，32% 的系统受困于政治意愿缺失与意识形态对立。此外，政府部门高级官僚的高流动率导致组织研究记忆与利用能力断裂。更深层的体制扭曲在于，虽然多数系统设立了定向[[Categorical Funding\|委托研究]]渠道，却未建立前置的政策知识缺口诊断机制，导致大量政策研究委托流于形式化采购，无法与真实政策需求形成精准咬合。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 106, 114–115)]]
 
 ---
 
 ### 命题三　弥合研究-政策鸿沟依赖于中介经纪、联合生产与系统需求诊断而非单向分发
 
 > [!concept-lens] 关系性与系统性治理路径
-> 该命题主张超越以政策简报为代表的线性传播模式，转向基于伙伴关系、跨界中介与系统需求统筹的关系型[[Knowledge Mobilisation|知识动员]]。
+> 该命题主张超越以政策简报为代表的线性传播模式，转向基于伙伴关系、跨界中介与系统需求统筹的关系型[[Knowledge Mobilisation\|知识动员]]。
 
 > [!claim] Torres, J. M.
-> **治理[[Paradigm|范式]]的关系性转向** 跨国实证数据表明，政策制定者虽然广泛使用报告、简报等信息型机制（73%），但这些单向输入极易沦为书架摆设或被选择性剪裁以迎合预设立场。真正能推动政策深度循证的，是如荷兰 [[Netherlands Initiative for Education Research|NRO]] 与威尔士 [[National Strategy for Educational Research and Enquiry|NSERE]] 等系统建立的中介组织网络与前置需求梳理机制。只有通过建立研究者与决策者的常态化互动机制与联合生产模式，将证据生产直接嵌入政策形成过程，方能有效化解研究-政策鸿沟。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 111–114, 117–119)]]
+> **治理[[Paradigm\|范式]]的关系性转向** 跨国实证数据表明，政策制定者虽然广泛使用报告、简报等信息型机制（73%），但这些单向输入极易沦为书架摆设或被选择性剪裁以迎合预设立场。真正能推动政策深度循证的，是如荷兰 [[Netherlands Initiative for Education Research\|NRO]] 与威尔士 [[National Strategy for Educational Research and Enquiry\|NSERE]] 等系统建立的中介组织网络与前置需求梳理机制。只有通过建立研究者与决策者的常态化互动机制与联合生产模式，将证据生产直接嵌入政策形成过程，方能有效化解研究-政策鸿沟。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 111–114, 117–119)]]
 
-> [!claim] [[Argument_Serpell_2020_EP|Serpell (2020)]]
-> **法条化简报重塑与国会政策研究员的沉浸式弥合** 塞佩尔（[[Argument_Serpell_2020_EP|Serpell, 2020]]）指出，单向学术传播之所以失败，是因为学者忽视了立法世界的文类规范与隐性知识。弥合鸿沟需要双重机制突破：在文本形态上，研究者必须摒弃学术免责与迟疑，遵循“少即是多”原则，依托整合专业律师起草法定示范条文（Model Statutory Language）的[[Legislative Policy Brief|立法政策简报]]直击法案起草；在制度通道上，依托 [[American Association for the Advancement of Science|AAAS]] 与 [[American Educational Research Association|AERA]] [[AERA Congressional Fellowship Program|国会政策研究员计划]]，选拔学者深入国会山全职工作一年，通过在实践中掌握政策语言与运作逻辑，形[[Growth|成长]]效跨界辐射。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 45–47)]]
+> [!claim] [[Argument_Serpell_2020_EP\|Serpell (2020)]]
+> **法条化简报重塑与国会政策研究员的沉浸式弥合** 塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）指出，单向学术传播之所以失败，是因为学者忽视了立法世界的文类规范与隐性知识。弥合鸿沟需要双重机制突破：在文本形态上，研究者必须摒弃学术免责与迟疑，遵循“少即是多”原则，依托整合专业律师起草法定示范条文（Model Statutory Language）的[[Legislative Policy Brief\|立法政策简报]]直击法案起草；在制度通道上，依托 [[American Association for the Advancement of Science\|AAAS]] 与 [[American Educational Research Association\|AERA]] [[AERA Congressional Fellowship Program\|国会政策研究员计划]]，选拔学者深入国会山全职工作一年，通过在实践中掌握政策语言与运作逻辑，形[[Growth\|成长]]效跨界辐射。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–47)]]
 
 ---
 
@@ -206,16 +206,16 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **1970s — “两个社群”理论与启蒙模型** Caplan（1979）提出“两个社群”（Two Communities）假说，指出学者与决策者属于拥有不同语言、价值与生活方式的两个隔离群体；Weiss（1979）提出启蒙模型（[[Enlightenment]] Model），指出研究主要通过长期观念渗透而非直接工具性决定影响政策。
-> - **2000s — 循证决策运动与[[Rationalism in International Relations|理性主义]]批评** 英国新工党执政时期“有效性（What Works）”运动兴起，试图通过[[Systematic Review|系统综述]]与政策工具包填补鸿沟；然而 Nutley 等人（2007）指出这种[[Technical Rationality|技术理性]]主义模型低估了政策过程的复杂性。
-> - **2010s — 政治学与系统生态转向** Oliver 等人（2014）与 Cairney（2016）将[[Multiple Streams Framework|多源流理论]]与复杂系统理论引入研究-政策鸿沟研究，论证政策制定并非理性的证据消化机器，而是充满政治妥协的竞技场。
-> - **2020 — 联邦立法实务视角的政策导航与时间系统** [[Argument_Serpell_2020_EP|Serpell (2020)]] 基于美国国会众议院立法实务经验，揭示宏观政策制定深受突发事件驱动的[[Policymaking Chronosystem|政策制定时间系统]]支配，反思了金标准[[Randomised Controlled Trials|随机对照试验]]在复杂立法中的局限，提出了四阶段[[Navigational Framework for Educational Researchers|政策导航框架]]与[[Legislative Policy Brief|立法政策简报]]机制。
-> - **2022 — [[Centre for Educational Research and Innovation|OECD CERI]] 跨国实证诊断** [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]]基于 29 国 37 个教育系统的跨国实证数据，首次系统测绘了政策端与实践端在阻碍感知与机制部署上的不对称图谱，将研究-政策鸿沟具体化为“时间错配”、“需求委托倒挂”与“互动机制贫乏”三大可测量维度。
+> - **2000s — 循证决策运动与[[Rationalism in International Relations\|理性主义]]批评** 英国新工党执政时期“有效性（What Works）”运动兴起，试图通过[[Systematic Review\|系统综述]]与政策工具包填补鸿沟；然而 Nutley 等人（2007）指出这种[[Technical Rationality\|技术理性]]主义模型低估了政策过程的复杂性。
+> - **2010s — 政治学与系统生态转向** Oliver 等人（2014）与 Cairney（2016）将[[Multiple Streams Framework\|多源流理论]]与复杂系统理论引入研究-政策鸿沟研究，论证政策制定并非理性的证据消化机器，而是充满政治妥协的竞技场。
+> - **2020 — 联邦立法实务视角的政策导航与时间系统** [[Argument_Serpell_2020_EP\|Serpell (2020)]] 基于美国国会众议院立法实务经验，揭示宏观政策制定深受突发事件驱动的[[Policymaking Chronosystem\|政策制定时间系统]]支配，反思了金标准[[Randomised Controlled Trials\|随机对照试验]]在复杂立法中的局限，提出了四阶段[[Navigational Framework for Educational Researchers\|政策导航框架]]与[[Legislative Policy Brief\|立法政策简报]]机制。
+> - **2022 — [[Centre for Educational Research and Innovation\|OECD CERI]] 跨国实证诊断** [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]]基于 29 国 37 个教育系统的跨国实证数据，首次系统测绘了政策端与实践端在阻碍感知与机制部署上的不对称图谱，将研究-政策鸿沟具体化为“时间错配”、“需求委托倒挂”与“互动机制贫乏”三大可测量维度。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -229,14 +229,14 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!warning] 适用局限
-> - **[[Rationalism in International Relations|理性主义]]偏见** 将研究与政策的分离仅仅表述为“鸿沟”，容易暗示一种[[Technical Rationality|技术理性]]主义[[Hypothesis|假设]]，即“只要证据足够充分、传递足够顺畅，政策就应当完全由研究决定”。批判学者指出，政策制定的本质是分配有限资源与平衡多方利益，民主合法性与公众民意在很多情境下具有不可替代的优先性，研究只是政策考量的输入源之一而非唯一裁决者。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 110)]]
+> - **[[Rationalism in International Relations\|理性主义]]偏见** 将研究与政策的分离仅仅表述为“鸿沟”，容易暗示一种[[Technical Rationality\|技术理性]]主义[[Hypothesis\|假设]]，即“只要证据足够充分、传递足够顺畅，政策就应当完全由研究决定”。批判学者指出，政策制定的本质是分配有限资源与平衡多方利益，民主合法性与公众民意在很多情境下具有不可替代的优先性，研究只是政策考量的输入源之一而非唯一裁决者。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 110)]]
 > - **证据的象征性利用与政治工具化** 政策部门对研究的引用可能并非出于改善政策效能，而是为了在公共舆论中为既定政见辩护（Symbolic or Political Use）。在此情境下，鸿沟并未真正消除，而是演变为研究被政治权力单向利用。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 跨国实证绘制 37 个教育系统政策端的[[Research Utilization|研究利用]]阻碍与机制部署全景，系统剖析时间错配与需求委托倒挂。
-> - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 辨析超越线性政策转移动员模式的关系统筹[[Paradigm|范式]]与治理结构。
-> - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 基于美国国会众议院立法实务，剖析证据在联邦教育政策制定中的转化困境，揭示政策时间系统与十年实验周期的脱节，提出整合法定示范条文的[[Legislative Policy Brief|立法政策简报]]与国会研究员制度化弥合路径。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 跨国实证绘制 37 个教育系统政策端的[[Research Utilization\|研究利用]]阻碍与机制部署全景，系统剖析时间错配与需求委托倒挂。
+> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 辨析超越线性政策转移动员模式的关系统筹[[Paradigm\|范式]]与治理结构。
+> - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 基于美国国会众议院立法实务，剖析证据在联邦教育政策制定中的转化困境，揭示政策时间系统与十年实验周期的脱节，提出整合法定示范条文的[[Legislative Policy Brief\|立法政策简报]]与国会研究员制度化弥合路径。

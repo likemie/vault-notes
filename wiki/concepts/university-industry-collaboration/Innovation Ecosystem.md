@@ -92,7 +92,7 @@ updated: 2026-09-17
 > [!abstract]
 学院和大学是区域创新生态系统的关键"锚点"（anchors）——斯坦福大学之于硅谷，MIT 之于波士顿。研究型大学中的[[Creativity|创造性]]互动催生新技术和新公司，后者可能进一步衍生更多企业。Fischman et al.（2014）和 Roberts & Eesley（2009）考察了 MIT 的创新战略，强调[[Academic Freedom|学术自由]]如何催化了学生、教师和校友的创造力（pp.12–13）。
 
-> 大学的学科结构会影响生态系统的自增强程度。滑铁卢大学的工程学院规模较大，其文化期待教师从事[[Evaluation Research|应用研究]]、与产业保持紧密联系，这种文化已显示出"自增强"（self-reinforcing）特征：已有的[[University-Industry Collaboration|产学合作]]成功吸引更多教师参与，教师的参与又进一步巩固了合作文化([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.246]])。相反，文学院等合作体量较低的院系则难以进入这一正反馈循环——合作越少，行政支持资源越少，教师越缺乏合作经验，形成负向锁定（pp.246–247）。这意味着生态系统内部的"锚点效应"不是均匀分布的，大学内部各学院对生态系统的参与深度可能存在显著差异。
+> 大学的学科结构会影响生态系统的自增强程度。滑铁卢大学的工程学院规模较大，其文化期待教师从事[[Evaluation Research\|应用研究]]、与产业保持紧密联系，这种文化已显示出"自增强"（self-reinforcing）特征：已有的[[University-Industry Collaboration\|产学合作]]成功吸引更多教师参与，教师的参与又进一步巩固了合作文化([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.246]])。相反，文学院等合作体量较低的院系则难以进入这一正反馈循环——合作越少，行政支持资源越少，教师越缺乏合作经验，形成负向锁定（pp.246–247）。这意味着生态系统内部的"锚点效应"不是均匀分布的，大学内部各学院对生态系统的参与深度可能存在显著差异。
 
 ### 多层次高等教育体系
 
@@ -114,7 +114,7 @@ Scott & Kirst（2017）在 Higher Education and Silicon Valley 中指出，基�
 ### 地理邻近与区位多样性
 
 > [!abstract]
-> 成熟的创新生态系统是产学合作成功的主要因素（Sjöo & Hellström, 2019）。地理邻近性使学术和产业团队能够进行定期的面对面互动，合作关系可以超越单一项目、发展为更深层的战略关系([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.248]])。短途通勤距离也意味着解决合作中的问题更加直接——不需要跨时区协调，当地伙伴可以随时会面。
+> 成熟的创新生态系统是产学合作成功的主要因素（Sjöo & Hellström, 2019）。地理邻近性使学术和产业团队能够进行定期的面对面互动，合作关系可以超越单一项目、发展为更深层的战略关系([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.248]])。短途通勤距离也意味着解决合作中的问题更加直接——不需要跨时区协调，当地伙伴可以随时会面。
 
 基于地点的创新生态系统的构成因素"天然独特"（inherently unique），但总是包含大学、政府、成熟企业、初创公司和投资者等利益相关者的组合([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.248]])。这意味着不存在可复制粘贴的生态系统建设模板——硅谷模式不能简单地"进口"到其他地区。
 
@@ -123,7 +123,7 @@ Scott & Kirst（2017）在 Higher Education and Silicon Valley 中指出，基�
 ### 本地创新生态系统的战略性建设
 
 > [!abstract]
-> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将战略性发展本地创新生态系统识别为强化产学合作的首要趋势。峰会指出，通过战略性和有针对性的方式加强和提升大学周边的本地生态系统，可以增强吸引产业伙伴的价值主张([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.8–10]])。
+> 2019 年 [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]] 将战略性发展本地创新生态系统识别为强化产学合作的首要趋势。峰会指出，通过战略性和有针对性的方式加强和提升大学周边的本地生态系统，可以增强吸引产业伙伴的价值主张([[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP, 2019, pp.8–10]])。
 
 发展本地创新生态系统的关键优势包括（pp.8–9）：
 - 加强本地企业的创新能力，使其能够吸收更多来自本地大学的新知识和技术，并在本地保留更多影响
@@ -142,14 +142,14 @@ Scott & Kirst（2017）在 Higher Education and Silicon Valley 中指出，基�
 > 发展有效的本地创新生态系统需要强大的领导力，以及建立涉及大学、产业和地方政府关键利益相关者的本地联盟——特别是要发展共同的本地创新愿景和实现这一愿景的战略。关键参与者之间的信任和认同至关重要（p.10）。
 
 > [!tip]- Lester 分类框架
-> Lester 的大学贡献分类（[[Argument_Lester_2005_MIT|Lester, 2005]]）为理解大学如何根据本地产业的类型和产业生命周期阶段提供差异化的贡献提供了分析工具。峰会讨论中将该框架与本地生态系统建设策略相结合——指出思考本地运营的行业类型及其特定技术和更广泛的创新需求，以及大学如何贡献，是建设更有效生态系统的前提（pp.8–9）。
+> Lester 的大学贡献分类（[[Argument_Lester_2005_MIT\|Lester, 2005]]）为理解大学如何根据本地产业的类型和产业生命周期阶段提供差异化的贡献提供了分析工具。峰会讨论中将该框架与本地生态系统建设策略相结合——指出思考本地运营的行业类型及其特定技术和更广泛的创新需求，以及大学如何贡献，是建设更有效生态系统的前提（pp.8–9）。
 
 ### 衍生企业与创业输出
 
 > [!abstract]
-> [[University Spin-Out|大学衍生企业]]的创建是创新生态系统的重要产出之一。然而，衍生企业在从实验室到市场的过程中面临多重结构性障碍：产业赞助研究中的知识产权约束实质上构成"毒丸"（poison pill）；[[Corporate Venture Capital|企业风投]]和传统风投偏好后期阶段和成熟团队，与衍生企业的早期风险特征不匹配；衍生企业的[[Technology Readiness Level|技术就绪度]]（TRL）通常不足以满足企业试点项目的要求([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.143-146]])。
+> [[University Spin-Out\|大学衍生企业]]的创建是创新生态系统的重要产出之一。然而，衍生企业在从实验室到市场的过程中面临多重结构性障碍：产业赞助研究中的知识产权约束实质上构成"毒丸"（poison pill）；[[Corporate Venture Capital\|企业风投]]和传统风投偏好后期阶段和成熟团队，与衍生企业的早期风险特征不匹配；衍生企业的[[Technology Readiness Level\|技术就绪度]]（TRL）通常不足以满足企业试点项目的要求([[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025, pp.143-146]])。
 
-> 生态系统对衍生企业的支持主要通过大学内部的创新基础设施来实现——[[Technology Transfer|技术转移]]办公室内的新创企业支持团队、[[Proof of Concept Programs|概念验证项目]]（PoP）、[[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）制度，以及利用产业赞助和人才合作关系撬动产业参与创业指导([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.147-148]])。值得注意的是，产业在生态系统中最有价值的贡献是提供"市场声音"（voice of the market）而非直接提供资金或创建初创企业([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, p.148]])。
+> 生态系统对衍生企业的支持主要通过大学内部的创新基础设施来实现——[[Technology Transfer\|技术转移]]办公室内的新创企业支持团队、[[Proof of Concept Programs\|概念验证项目]]（PoP）、[[Entrepreneur in Residence\|驻校企业家]]（[[Education Innovation and Research\|EIR]]）制度，以及利用产业赞助和人才合作关系撬动产业参与创业指导([[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025, pp.147-148]])。值得注意的是，产业在生态系统中最有价值的贡献是提供"市场声音"（voice of the market）而非直接提供资金或创建初创企业([[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025, p.148]])。
 
 ---
 

@@ -64,13 +64,13 @@ updated: 2026-09-22
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 科学的本质特征、多学科间的方法与[[Epistemology|认识论]]多样性，以及[[Nature of Science|科学本质]]（Nature of Science, NOS）在学校课程中的结构化表征。
-> - **理论问题** 回应传统科学本质“共识清单[[Paradigm|范式]]”（如 Lederman 的七要素清单）将科学窄化为僵化、普适且同质的命题信条的局限，解决其无法解释物理、化学、地学与生物学之间深刻认识论差异的理论困境。
-> - **理论类型** 课程与教学论[[Analytic Framework|分析框架]]、科学哲学认识论整合模型。
-> - **知识位置** 植根于[[Postpositivism|后实证主义]]科学哲学与维特根斯坦（Ludwig Wittgenstein）语言哲学，是当代科学教育界解构单一[[Scientific Method|科学方法]]神话的主导理论之一。
+> - **解释对象** 科学的本质特征、多学科间的方法与[[Epistemology\|认识论]]多样性，以及[[Nature of Science\|科学本质]]（Nature of Science, NOS）在学校课程中的结构化表征。
+> - **理论问题** 回应传统科学本质“共识清单[[Paradigm\|范式]]”（如 Lederman 的七要素清单）将科学窄化为僵化、普适且同质的命题信条的局限，解决其无法解释物理、化学、地学与生物学之间深刻认识论差异的理论困境。
+> - **理论类型** 课程与教学论[[Analytic Framework\|分析框架]]、科学哲学认识论整合模型。
+> - **知识位置** 植根于[[Postpositivism\|后实证主义]]科学哲学与维特根斯坦（Ludwig Wittgenstein）语言哲学，是当代科学教育界解构单一[[Scientific Method\|科学方法]]神话的主导理论之一。
 
 > [!claim] 核心判断
-> 科学并非由一套所有学科均严格具备的固定本质属性所界定，而是像“游戏”一样由多重交织的家族相似性特征构成的开放网络。通过将科学本质解构为认知-认识论系统（活动、价值、方法论、知识产品）与社会-建制系统两大层级，能够兼顾科学的普遍规范与各学科特有的[[Epistemic Practices|认识论实践]]规程。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 152–153)]]
+> 科学并非由一套所有学科均严格具备的固定本质属性所界定，而是像“游戏”一样由多重交织的家族相似性特征构成的开放网络。通过将科学本质解构为认知-认识论系统（活动、价值、方法论、知识产品）与社会-建制系统两大层级，能够兼顾科学的普遍规范与各学科特有的[[Epistemic Practices\|认识论实践]]规程。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 152–153)]]
 
 ---
 
@@ -85,9 +85,9 @@ updated: 2026-09-22
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
-> - **2011 — 基础框架奠定** Irzik & Nola 确立由活动、价值、方法论和知识产品组成的四大认知-[[Epistemology|认识论]][[Central Phenomenon|核心范畴]]。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 152–153)]]
-> - **2014 — 系统化课程论扩展** Erduran & Dagher 将 FRA 拓展为涵盖“认知-认识论系统”与“社会-建制系统”的“FRA 轮盘模型”（FRA Wheel），并开发出用于教材分析与课堂教学设计的[[Operationalization|操作化]]量规。
-> - **2018 — [[Epistemic Practices|认识论实践]]整合** Kelly & Licona 将 FRA 与微观课堂认识论实践（提出、沟通、评估、合法化）深度对接，进一步破除[[Scientific Method|科学方法]]五步法的机械教条。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145)]]
+> - **2011 — 基础框架奠定** Irzik & Nola 确立由活动、价值、方法论和知识产品组成的四大认知-[[Epistemology\|认识论]][[Central Phenomenon\|核心范畴]]。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 152–153)]]
+> - **2014 — 系统化课程论扩展** Erduran & Dagher 将 FRA 拓展为涵盖“认知-认识论系统”与“社会-建制系统”的“FRA 轮盘模型”（FRA Wheel），并开发出用于教材分析与课堂教学设计的[[Operationalization\|操作化]]量规。
+> - **2018 — [[Epistemic Practices\|认识论实践]]整合** Kelly & Licona 将 FRA 与微观课堂认识论实践（提出、沟通、评估、合法化）深度对接，进一步破除[[Scientific Method\|科学方法]]五步法的机械教条。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 144–145)]]
 
 ---
 
@@ -109,24 +109,24 @@ updated: 2026-09-22
 ## 核心命题
 
 > [!theory-proposition] 命题一｜科学各分支通过网状重叠的家族相似性相连而非依赖同质本质
-> **解释** 科学并不存在一个所有分支必须共同具备的充要条件集合。物理学可能强调精确数学定律与受控实验，地质学依赖[[Retrodiction|回溯推测]]与野外观测，化学依赖结构模型与定性规律，生物学强调概率机制。这些学科像一个大家族的成员一样，在面貌、体态与性格上彼此重叠相似，共同构成“科学”的家族。（Irzik & Nola, 2011; [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018]]）
+> **解释** 科学并不存在一个所有分支必须共同具备的充要条件集合。物理学可能强调精确数学定律与受控实验，地质学依赖[[Retrodiction\|回溯推测]]与野外观测，化学依赖结构模型与定性规律，生物学强调概率机制。这些学科像一个大家族的成员一样，在面貌、体态与性格上彼此重叠相似，共同构成“科学”的家族。（Irzik & Nola, 2011; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018]]）
 >
-> **应用实例** 在高中综合理科课程中，教师不再强求化学实验必须套用物理学的公式演绎，而是引导学生认识到化学中的“元素周期律”属于定性模式分类，与物理学万有引力定律具有不同的[[Epistemology|认识论]]形态。（Erduran, 2007）
+> **应用实例** 在高中综合理科课程中，教师不再强求化学实验必须套用物理学的公式演绎，而是引导学生认识到化学中的“元素周期律”属于定性模式分类，与物理学万有引力定律具有不同的[[Epistemology\|认识论]]形态。（Erduran, 2007）
 
-> [!theory-proposition] 命题二｜[[Nature of Science|科学本质]]教学必须同步统合认知认识论系统与社会建制系统
-> **解释** 科学本质不仅关乎理论与数据的认知逻辑，更关乎科学共同体的社会规程。学习科学必须同时理解实验室内的假说检验（认知系统）与学术期刊发表、同行评议及研究资助伦理（社会系统），两者共同保障了科学知识的[[Reliability|可靠性]]。（Erduran & Dagher, 2014）
+> [!theory-proposition] 命题二｜[[Nature of Science\|科学本质]]教学必须同步统合认知认识论系统与社会建制系统
+> **解释** 科学本质不仅关乎理论与数据的认知逻辑，更关乎科学共同体的社会规程。学习科学必须同时理解实验室内的假说检验（认知系统）与学术期刊发表、同行评议及研究资助伦理（社会系统），两者共同保障了科学知识的[[Reliability\|可靠性]]。（Erduran & Dagher, 2014）
 >
-> **应用实例** 在[[Socioscientific Issues|社会科学议题]]（Socioscientific Issues, SSI）探讨中，学生在评估转基因作物安全性时，不仅考察其实验室生物学检测数据，还深入审阅该研究是否经过独立同行评议并公开利益冲突声明。
+> **应用实例** 在[[Socioscientific Issues\|社会科学议题]]（Socioscientific Issues, SSI）探讨中，学生在评估转基因作物安全性时，不仅考察其实验室生物学检测数据，还深入审阅该研究是否经过独立同行评议并公开利益冲突声明。
 
 ---
 
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 用于分析科学课程标准、教材文本与课堂互动中对[[Nature of Science|科学本质]]的表征广度与深度；指导教师设计体现[[Domain Specificity|学科特异性]]的探究活动。
+> - **[[Research Question\|研究问题]]** 用于分析科学课程标准、教材文本与课堂互动中对[[Nature of Science\|科学本质]]的表征广度与深度；指导教师设计体现[[Domain Specificity\|学科特异性]]的探究活动。
 > - **分析对象与单位** 科学教科书章节、课程标准文本单元、课堂师生研讨话语片段。
-> - **需要的材料** 教学大纲文本、教材探究活动设计、课堂录像[[Transcription in Qualitative Research|转录]]文本与学生论证[[Homework|作业]]。
-> - **解释目标** 评估教学内容是否涵盖完整的认知与社会系统，是否避免了教条线性的[[Scientific Method|科学方法]]偏误。
+> - **需要的材料** 教学大纲文本、教材探究活动设计、课堂录像[[Transcription in Qualitative Research\|转录]]文本与学生论证[[Homework\|作业]]。
+> - **解释目标** 评估教学内容是否涵盖完整的认知与社会系统，是否避免了教条线性的[[Scientific Method\|科学方法]]偏误。
 
 > [!theory-framework] 命题如何转化为分析维度
 >
@@ -143,10 +143,10 @@ updated: 2026-09-22
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 中小学与大学各学科（物理、化学、生物、地学、工程）课程标准、教材[[Content Analysis|内容分析]]，以及探究教学设计的[[Epistemology|认识论]]广度评估。
+> - **适合分析** 中小学与大学各学科（物理、化学、生物、地学、工程）课程标准、教材[[Content Analysis\|内容分析]]，以及探究教学设计的[[Epistemology\|认识论]]广度评估。
 > - **成立条件** 需要教师具备对具体学科发展史与科学哲学的基本素养，能够辨识各分支的独特认识论规程。
 > - **解释不足** 理论维度较为宏大庞杂，在微观课堂实时教学中，难以在一节课内同时完整覆盖所有 11 个子维度。
-> - **不能直接推出** 不能仅凭 FRA 矩阵的完整性直接推导出学生科学[[Academic Achievement|学业成绩]]的必然提高；需要配合微观话语支架方能落地。
+> - **不能直接推出** 不能仅凭 FRA 矩阵的完整性直接推导出学生科学[[Academic Achievement\|学业成绩]]的必然提高；需要配合微观话语支架方能落地。
 
 ---
 
@@ -155,15 +155,15 @@ updated: 2026-09-22
 > [!debates] 理论争议
 >
 > > [!axis] 教学可操作性 vs. 理论完备性之争
-> > 部分学者认为 Lederman 的七要素共识清单虽有理论瑕疵，但在中小学师资培训与大样本[[Questionnaire|问卷]]测量中极其简明高效；FRA 虽理论完备，但体系庞大，增加了教师的认知负荷。
+> > 部分学者认为 Lederman 的七要素共识清单虽有理论瑕疵，但在中小学师资培训与大样本[[Questionnaire\|问卷]]测量中极其简明高效；FRA 虽理论完备，但体系庞大，增加了教师的认知负荷。
 > >
 > > - **Lederman et al. (2002)** 主张共识清单最适合 K-12 阶段的基础启蒙与跨学段标准化评价。
-> > - **Irzik & Nola (2011)** 批评共识清单牺牲了学科真实性，导致[[Scientific Method|科学方法]]教条化，FRA 提供了更具智识诚实性的蓝图。
+> > - **Irzik & Nola (2011)** 批评共识清单牺牲了学科真实性，导致[[Scientific Method\|科学方法]]教条化，FRA 提供了更具智识诚实性的蓝图。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 运用家族相似性进路论证科学[[Epistemology|认识论]]的学科[[Heterogeneity|异质性]]，并系统解构[[Scientific Method|科学方法]]五步法。
-> - [[Views of Nature of Science Questionnaire]] — 传统共识观[[Nature of Science|科学本质]]评估工具，常被 FRA 研究者作为对比与批判的基准。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 运用家族相似性进路论证科学[[Epistemology\|认识论]]的学科[[Heterogeneity\|异质性]]，并系统解构[[Scientific Method\|科学方法]]五步法。
+> - [[Views of Nature of Science Questionnaire]] — 传统共识观[[Nature of Science\|科学本质]]评估工具，常被 FRA 研究者作为对比与批判的基准。

@@ -61,14 +61,14 @@ updated: 2026-08-26
 > [!instrument-profile] Watson-Glaser [[Critical Thinking]] Appraisal（WGCTA）
 > - **工具类型** 标准化能力测试（Standardized Cognitive Ability Test）。
 > - **开发者与年份** Goodwin Watson & Edward M. Glaser (1980, 2012 修订版)。
-> - **测量目的** 测量个体的批判性思维、逻辑推理与证据辨析等认知能力，广泛应用于教育干预评估、[[Higher-Order Thinking Skills|高阶思维技能]]测评与职业选拔。
+> - **测量目的** 测量个体的批判性思维、逻辑推理与证据辨析等认知能力，广泛应用于教育干预评估、[[Higher-Order Thinking Skills\|高阶思维技能]]测评与职业选拔。
 > - **实施方式** 纸笔测试或计算机机考（限时或非限时施测），题项基于真实情境材料。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]（Critical Thinking Abilities）
+> [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Abilities）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -85,8 +85,8 @@ updated: 2026-08-26
 
 > [!instrument-items] 作答规则
 > - **题项形式** 每个分测验提供若干由段落材料支撑的情境，后附若干待评判的陈述句。
-> - **作答格式** 客观[[Multiple-Choice Questions|多项选择题]]（二选一、三选一或五选一）。
-> - **计分与常模** 各分测验得分求和生成[[Critical Thinking|批判性思维]]总分，可转换为标准百分位等级（Percentile Ranks）或标准分。
+> - **作答格式** 客观[[Multiple-Choice Questions\|多项选择题]]（二选一、三选一或五选一）。
+> - **计分与常模** 各分测验得分求和生成[[Critical Thinking\|批判性思维]]总分，可转换为标准百分位等级（Percentile Ranks）或标准分。
 
 ---
 

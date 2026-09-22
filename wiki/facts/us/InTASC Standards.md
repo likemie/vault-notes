@@ -50,9 +50,9 @@ updated: 2026-08-27
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1987 年设立、2011/2013 年修订，由美国各州首席教育官理事会（Council of Chief State School Officers, CCSSO）主持发布。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]
-> - **适用地区 / 对象** 全美各州教育厅、[[Normal School|师范教育]]机构、新入职与在职骨干教师。
-> - **问题背景** 21 世纪学生[[21st Century Skills and Competencies Discourse|核心素养]]要求学生具备高阶思辨与创新探究能力，但传统教师评价标准偏重学科知识记忆与课堂秩序管控。
+> - **发布时间 / 发布主体** 1987 年设立、2011/2013 年修订，由美国各州首席教育官理事会（Council of Chief State School Officers, CCSSO）主持发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]
+> - **适用地区 / 对象** 全美各州教育厅、[[Normal School\|师范教育]]机构、新入职与在职骨干教师。
+> - **问题背景** 21 世纪学生[[21st Century Skills and Competencies Discourse\|核心素养]]要求学生具备高阶思辨与创新探究能力，但传统教师评价标准偏重学科知识记忆与课堂秩序管控。
 > - **制度位置** 全美公立学校教师执业资格认证、师范专业认证（CAEP）与教师绩效评估的最高国家级参照基准。
 
 ---
@@ -60,18 +60,18 @@ updated: 2026-08-27
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> InTASC 标准第 5 条明确确立“应用内容促进[[Higher-Order Thinking Skills|高阶思维]]”标准，要求教师必须能够设计支持学生主动探究、批判性审视与[[Creativity|创造性]]解决真实问题的教学情境与评价支架。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]
+> InTASC 标准第 5 条明确确立“应用内容促进[[Higher-Order Thinking Skills\|高阶思维]]”标准，要求教师必须能够设计支持学生主动探究、批判性审视与[[Creativity\|创造性]]解决真实问题的教学情境与评价支架。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]
 
 > [!policy-design]- 政策设计
 > - **四大核心领域** 学习者与学习、学科内容知识、教学实践、专业责任（共 10 条核心标准）。
-> - **Standard 5（高阶思维）** 教师能将学科概念与真实跨学科问题结合，激发学习者的[[Critical Thinking|批判性思维]]、创造力与协作解决问题能力。
-> - **配套测评工具开发** 联合 15 个州与 [[Educational Testing Service|ETS]] 开发教师[[Test of Teaching Knowledge|教学知识测验]]（TTK），摒弃客观题，全面采用教学情境生成性任务（Constructed-Response Items）与教学档案袋。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]
+> - **Standard 5（高阶思维）** 教师能将学科概念与真实跨学科问题结合，激发学习者的[[Critical Thinking\|批判性思维]]、创造力与协作解决问题能力。
+> - **配套测评工具开发** 联合 15 个州与 [[Educational Testing Service\|ETS]] 开发教师[[Test of Teaching Knowledge\|教学知识测验]]（TTK），摒弃客观题，全面采用教学情境生成性任务（Constructed-Response Items）与教学档案袋。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]
 
 ---
 
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **政策影响** 彻底重塑了全美[[Normal School|师范教育]]的专业认证体系，成为 40 多个州教师资格立法的统一模板。
-> - **实践影响** 促使大学师范专业大幅削减[[Rote Learning|死记硬背]]式考试，转而采用以表现性任务与教学录像反思为核心的临床教学评价体系。
-> - **知识影响** 实证证明了教师自身的评价素养与设计[[Higher-Order Thinking Skills|高阶思维]]任务的能力是撬动课堂[[Creativity|创造力]]与思辨力培养的关键枢纽。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]
+> - **政策影响** 彻底重塑了全美[[Normal School\|师范教育]]的专业认证体系，成为 40 多个州教师资格立法的统一模板。
+> - **实践影响** 促使大学师范专业大幅削减[[Rote Learning\|死记硬背]]式考试，转而采用以表现性任务与教学录像反思为核心的临床教学评价体系。
+> - **知识影响** 实证证明了教师自身的评价素养与设计[[Higher-Order Thinking Skills\|高阶思维]]任务的能力是撬动课堂[[Creativity\|创造力]]与思辨力培养的关键枢纽。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]

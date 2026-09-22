@@ -39,16 +39,16 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Catherine Lewis，美国教育研究者，以对[[Improvement Science|改进科学]]（Improvement Science）在教育中应用的倡导著称。其 2015 年在 *Educational Researcher* 上发表的"什么是改进科学？我们在教育中需要它吗？"一文，是向教育研究界引介改进[[Scientific Method|科学方法]]论的关键[[Document|文献]]。
+> - **身份位置** Catherine Lewis，美国教育研究者，以对[[Improvement Science\|改进科学]]（Improvement Science）在教育中应用的倡导著称。其 2015 年在 *Educational Researcher* 上发表的"什么是改进科学？我们在教育中需要它吗？"一文，是向教育研究界引介改进[[Scientific Method\|科学方法]]论的关键[[Document\|文献]]。
 
 ## 核心思想
 
 > [!info] 核心思想
-> Lewis (2015) 将[[Improvement Science|改进科学]]定位为教育研究中系统性研究资助的替代[[Paradigm|范式]]，强调其与传统实验方法在核心[[Hypothesis|假设]]上的差异——特别是对情境变异性、人类行动者视角和持续反馈循环的关注。
+> Lewis (2015) 将[[Improvement Science\|改进科学]]定位为教育研究中系统性研究资助的替代[[Paradigm\|范式]]，强调其与传统实验方法在核心[[Hypothesis\|假设]]上的差异——特别是对情境变异性、人类行动者视角和持续反馈循环的关注。
 >
-> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 将 Lewis and Bryk et al. (2015) 并列为改进科学在教育中兴起的关键文本。
+> [[Argument_Peterson_2016_IJRME\|Peterson (2016, p. 300)]] 将 Lewis and Bryk et al. (2015) 并列为改进科学在教育中兴起的关键文本。
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Lewis, C. (2015). What Is [[Improvement Science]]? Do We Need It in Education? *Educational Researcher*, 44(1), 54–61. — 向教育研究界系统介绍改进[[Scientific Method|科学方法]]论的综述论文
+> - Lewis, C. (2015). What Is [[Improvement Science]]? Do We Need It in Education? *Educational Researcher*, 44(1), 54–61. — 向教育研究界系统介绍改进[[Scientific Method\|科学方法]]论的综述论文

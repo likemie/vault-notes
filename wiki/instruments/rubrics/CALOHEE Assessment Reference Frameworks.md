@@ -69,16 +69,16 @@ updated: 2026-09-11
 
 ## 工具定位
 
-> [!instrument-profile] [[CALOHEE Project|CALOHEE]] 评价参照框架
-> - **工具类型** 学科化[[Authentic Assessment|表现性评价]]量规与参照框架体系（Assessment Reference Frameworks）。
-> - **开发者与年份** Wagenaar, R. / Tuning 学院与格罗宁根大学（2018）。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 28)]]
+> [!instrument-profile] [[CALOHEE Project\|CALOHEE]] 评价参照框架
+> - **工具类型** 学科化[[Authentic Assessment\|表现性评价]]量规与参照框架体系（Assessment Reference Frameworks）。
+> - **开发者与年份** Wagenaar, R. / Tuning 学院与格罗宁根大学（2018）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 28)]]
 > - **测量目的** 为欧洲高等教育区高校提供兼具学科专业深度与国际可比性的学习成果评价标准，支撑课程设计、教学交付与专业层面质量保障。
-> - **实施方式** 嵌入日常专业课程考核，采用多级评分量规（Rubrics）对真实性表现任务、项目设计、论文与临床实习进行[[Criterion-Referenced Test|标准参照]]评定。
+> - **实施方式** 嵌入日常专业课程考核，采用多级评分量规（Rubrics）对真实性表现任务、项目设计、论文与临床实习进行[[Criterion-Referenced Test\|标准参照]]评定。
 
 > [!citation-card]- 开发者愿景界定
-> 开发一种跨国多维评价模型，在充分考虑各学位项目在文化与学术情境下的具体使命和特色的同时，能够对学习成果进行实际测量与比较。该模型提供一致的测试格式与题组，使评估深层知识理解与[[Higher-Order Thinking Skills|高阶思维技能]]成为可能。[[Argument_Bouckaert_2023_OECD|(Wagenaar, 2018, cited in Bouckaert, 2023, p. 28)]]
+> 开发一种跨国多维评价模型，在充分考虑各学位项目在文化与学术情境下的具体使命和特色的同时，能够对学习成果进行实际测量与比较。该模型提供一致的测试格式与题组，使评估深层知识理解与[[Higher-Order Thinking Skills\|高阶思维技能]]成为可能。[[Argument_Bouckaert_2023_OECD\|(Wagenaar, 2018, cited in Bouckaert, 2023, p. 28)]]
 >
-> *To develop a transnational multi-dimensional assessment model, which allows for actual measuring and comparing of learning, while taking into [[Accounts|account]] the specific mission and profile of each degree programme within its cultural and academic context.*
+> *To develop a transnational multi-dimensional assessment model, which allows for actual measuring and comparing of learning, while taking into [[Accounts\|account]] the specific mission and profile of each degree programme within its cultural and academic context.*
 
 ---
 
@@ -99,18 +99,18 @@ updated: 2026-09-11
 
 ## 题项与作答方式
 
-> [!proc] 评价框架的[[Operationalization|操作化]]评定流程
-> 1. **资格对齐（Descriptor Mapping）** 将[[European Qualifications Framework|欧洲资格框架]]（EQF 6 级学士 / 7 级硕士）抽象描述符转化为具体的专业能力指标。
-> 2. **真实任务设计（Authentic Task Design）** 依据矩阵开发嵌入课程的开放性[[Task Structure|劣构任务]]（如历史史料考证、物理探究实验），摒弃单纯[[Rote Learning|死记硬背]]。
-> 3. **量规分级评定（Rubric Scoring）** 教师依据矩阵提供的表现标准（从初学者到卓越专家四级水平），开展定性评定与形成性反馈。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 27–28)]]
+> [!proc] 评价框架的[[Operationalization\|操作化]]评定流程
+> 1. **资格对齐（Descriptor Mapping）** 将[[European Qualifications Framework\|欧洲资格框架]]（EQF 6 级学士 / 7 级硕士）抽象描述符转化为具体的专业能力指标。
+> 2. **真实任务设计（Authentic Task Design）** 依据矩阵开发嵌入课程的开放性[[Task Structure\|劣构任务]]（如历史史料考证、物理探究实验），摒弃单纯[[Rote Learning\|死记硬背]]。
+> 3. **量规分级评定（Rubric Scoring）** 教师依据矩阵提供的表现标准（从初学者到卓越专家四级水平），开展定性评定与形成性反馈。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–28)]]
 
 ---
 
 ## 测量学特性
 
 > [!finding-cards] 测量学特性与质保机制
-> - **[[Construct|构念]]有效性（[[Construct Validity]]）** 克服了通用机考[[Multiple-Choice Questions|选择题]]的脱嵌缺陷，通过将批判思维与[[Creativity|创造力]]与具体学科专业知识深度融合，显著提升了[[Ecological Validity|生态效度]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 27–28)]]
-> - **跨国同行审定（International Moderation）** 框架由全欧五大学科数百位学者、行业雇主与校友联合体反复协商迭代，具备极高的专家[[Content Validity|内容效度]]与跨国认可度。
+> - **[[Construct\|构念]]有效性（[[Construct Validity]]）** 克服了通用机考[[Multiple-Choice Questions\|选择题]]的脱嵌缺陷，通过将批判思维与[[Creativity\|创造力]]与具体学科专业知识深度融合，显著提升了[[Ecological Validity\|生态效度]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–28)]]
+> - **跨国同行审定（International Moderation）** 框架由全欧五大学科数百位学者、行业雇主与校友联合体反复协商迭代，具备极高的专家[[Content Validity\|内容效度]]与跨国认可度。
 
 ---
 
@@ -118,6 +118,6 @@ updated: 2026-09-11
 
 > [!usage-cases] 使用情境
 > - **欧洲高等教育区专业质量认证** 广泛应用于 EHEA 成员国高校的专业培养方案编制、ECTS 学分成果对齐与机构评估。
-> - **教师评价素养培训** 为解决高校教师“缺乏评价量规设计能力”的制度瓶颈提供了现成操作[[Scaffolding|脚手架]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 28)]]
+> - **教师评价素养培训** 为解决高校教师“缺乏评价量规设计能力”的制度瓶颈提供了现成操作[[Scaffolding\|脚手架]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 28)]]
 
 ---

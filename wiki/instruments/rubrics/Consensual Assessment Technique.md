@@ -64,19 +64,19 @@ updated: 2026-09-11
 ## 工具定位
 
 > [!instrument-profile] 同感评估技术（CAT）
-> - **工具类型** 专家共识主观评分技术与[[Operationalization|操作化]]评定规程（Expert Consensual Assessment Protocol）。
+> - **工具类型** 专家共识主观评分技术与[[Operationalization\|操作化]]评定规程（Expert Consensual Assessment Protocol）。
 > - **开发者与年份** Teresa M. Amabile（1982 年初次提出，1996 年完善操作规范）。
-> - **测量目的** 用于对被试在真实情境下产出的显性[[Creativity|创造性]]产品（如诗歌、故事、拼贴画、产品原型、教学设计、科学假说）进行客观、高[[Ecological Validity|生态效度]]的创造性水平评估。
+> - **测量目的** 用于对被试在真实情境下产出的显性[[Creativity\|创造性]]产品（如诗歌、故事、拼贴画、产品原型、教学设计、科学假说）进行客观、高[[Ecological Validity\|生态效度]]的创造性水平评估。
 > - **实施方式** 多名具有相关领域专业背景的独立专家评定者，依据个人内隐专业知识对样本进行匿名相对等级评定或排序。
 
 > [!citation-card]- 关键表述
-> 创造性产品评定主要依托阿马比尔的同感评估技术（Consensual Assessment Technique, CAT）或客观成果计量。CAT 具备全领域最高的生态效度，被公认为[[Creativity Assessment|创造力测评]]的操作化黄金标准。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 3, 5)]]
+> 创造性产品评定主要依托阿马比尔的同感评估技术（Consensual Assessment Technique, CAT）或客观成果计量。CAT 具备全领域最高的生态效度，被公认为[[Creativity Assessment\|创造力测评]]的操作化黄金标准。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3, 5)]]
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Creativity|创造性]]产品同感评定维度
+> [!construct-table] [[Creativity\|创造性]]产品同感评定维度
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 评定维度 | 测量核心内容 | 评定方式与指导原则 | 典型[[Inter-Rater Reliability\|评定者间信度]] |
@@ -93,15 +93,15 @@ updated: 2026-09-11
 > [!proc] Amabile 五大黄金实施准则
 > 1. **标准化开放任务** 所有参与者在相同的材料、指导语与时间约束下完成同一开放性创作任务，确保产品具有直接可比性。
 > 2. **合格的领域专家评定者** 评定者必须是具有该领域实际创作或专业教学经验的专家（如作家评定诗歌、艺术家评定绘画、资深教师评定教案），不得使用未经训练的外行。
-> 3. **独立[[Blinding|盲法]]评定** 评定者彼此隔离、独立评定，不得相互讨论协商；作品需进行匿名与随机[[Coding in Qualitative Research|编码]]呈现。
-> 4. **样本内部相对评定** 专家评定的是某作品相对于当前样本中其他作品的相对[[Creativity|创造性]]水平，而非对照某种抽象永恒的绝对常模。
+> 3. **独立[[Blinding\|盲法]]评定** 评定者彼此隔离、独立评定，不得相互讨论协商；作品需进行匿名与随机[[Coding in Qualitative Research\|编码]]呈现。
+> 4. **样本内部相对评定** 专家评定的是某作品相对于当前样本中其他作品的相对[[Creativity\|创造性]]水平，而非对照某种抽象永恒的绝对常模。
 > 5. **无细化预设量规约束** 明确禁止向专家提供详细的加减分细则，要求专家直接依靠其内隐的“领域专长直觉”进行打分，以完整保留复杂创造性的整体生态感知（Gestalt）。
 
 ---
 
 ## 心理测量学特征与实证元分析表现
 
-> [!contrast-table] CAT 产品评定 vs 经典纸笔[[Divergent Thinking|发散思维]]测验（如 [[Torrance Tests of Creative Thinking|TTCT]]）
+> [!contrast-table] CAT 产品评定 vs 经典纸笔[[Divergent Thinking\|发散思维]]测验（如 [[Torrance Tests of Creative Thinking\|TTCT]]）
 > | 比较维度 | 同感评估技术（CAT） | 托兰斯测验（TTCT） |
 > |---|---|---|
 > | **测量对象** | **真实显性[[Creativity\|创造性]]产物（Product）** | 内隐认知发散潜能（Potential） |
@@ -110,7 +110,7 @@ updated: 2026-09-11
 > | **施测成本** | 高（需招募并报酬多位资深领域专家） | 低（可大班集体施测、客观电脑评分） |
 > | **二阶[[Effect Size\|效应量]]** | **$r = 0.12$**（受领域专家主观方差稀释） | **$r = 0.14$**（标准化程度高） |
 
-> [!ma-table] CAT 与创造性产品评估相关[[Meta-analysis|元分析]]
+> [!ma-table] CAT 与创造性产品评估相关[[Meta-analysis\|元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析来源 | 测量对象与[[Construct\|构念]] | 评定者[[Reliability\|信度]]水平 | 二阶效应量与 95% [[Confidence Interval\|CI]] | 核心结论与启示 |
@@ -118,4 +118,4 @@ updated: 2026-09-11
 > | Baer & McKool (2009) | CAT 在教育与心理学研究中的跨学科应用 | 平均 $\alpha = 0.81$ | — | 证实专家共识评定具备高度稳健的[[Inter-Rater Reliability\|评定者间信度]] |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 创造性成果（包含 CAT 评定）二阶综合 | 专家评定产品汇总 | **$r = 0.12$** $[−0.02, 0.26]$ | 证实真实产品评定具备极高生态价值，但受情境变异制约 |
 >
-> 在[[Argument_Park_2026_TSC|Park et al. (2026)]]的[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]相关[[Meta-analysis|元分析]]中，产品型评定（如 CAT）被归入与思维型测量（如[[Remote Associates Test|远距离联想测验]]、发散思维任务）不同的评价标准，这解释了混合测量组合相关较低的现象。
+> 在[[Argument_Park_2026_TSC\|Park et al. (2026)]]的[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]相关[[Meta-analysis\|元分析]]中，产品型评定（如 CAT）被归入与思维型测量（如[[Remote Associates Test\|远距离联想测验]]、发散思维任务）不同的评价标准，这解释了混合测量组合相关较低的现象。

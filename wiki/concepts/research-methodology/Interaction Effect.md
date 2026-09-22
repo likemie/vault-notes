@@ -9,7 +9,7 @@ aliases:
 summary: "一个自变量对因变量的因果效应依赖于另一个自变量或调节变量水平的非可加性现象，是因子设计与条件性因果推断的核心，揭示了教学干预在不同学习者特征与情境中的异质性机制"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Problem Solving]]"
   - "[[Direct Instruction]]"
+  - "[[Inhibitory Control]]"
   - "[[Self-Efficacy]]"
   - "[[Scaffolding]]"
   - "[[Productive Failure]]"
@@ -46,9 +47,10 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: active
 created: 2026-07-12
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Interaction Effect
@@ -56,7 +58,7 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 核心定义
-> 交互效应（Interaction Effect）指在多因子实验或观测研究中，一个[[Independent Variable|自变量]]（或干预措施）对[[Dependent Variable|因变量]]（或结果指标）的效应**依赖于**另一个自[[Variable|变量]]或调节变量的水平——即两个或多个变量对结果的联合影响并非单项独立效应的线性简单相加，而是表现出条件依赖性与相互调节的非可加性关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 323–324]]）。在统计建模中，交互效应通过乘积项（Product Term）捕获；在[[Causality|因果推断]]中，交互效应表征了因果[[Heterogeneity|异质性]]（Causal [[Heterogeneity]]）。
+> 交互效应（Interaction Effect）指在多因子实验或观测研究中，一个[[Independent Variable\|自变量]]（或干预措施）对[[Dependent Variable\|因变量]]（或结果指标）的效应**依赖于**另一个自[[Variable\|变量]]或调节变量的水平——即两个或多个变量对结果的联合影响并非单项独立效应的线性简单相加，而是表现出条件依赖性与相互调节的非可加性关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 323–324]]）。在统计建模中，交互效应通过乘积项（Product Term）捕获；在[[Causality\|因果推断]]中，交互效应表征了因果[[Heterogeneity\|异质性]]（Causal [[Heterogeneity]]）。
 
 交互效应与**主效应（Main Effect）**相对：主效应指某个自变量跨越其他所有条件后的独立平均效应；而交互效应揭示了一个自变量的因果作用强度或方向随情境与对象特征而发生转移。在现代学习科学与[[Evidence-Based Education|循证教育]]研究中，探究的核心议题已从单一孤立地提问“某种教学法是否普遍有效”（寻求单一主效应），转向探究“该教学法在何种条件、经由何种序列、针对具备何种认知特征的学生最为有效”（检验高阶交互效应）（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 7–9]]）。
 
@@ -75,7 +77,7 @@ updated: 2026-09-21
 >   - *平行线*（无交互作用）：不同调节水平下的回归线保持平行，表明处理效应在各群体间保持恒定。
 >   - *相交线/交叉交互（Crossover Interaction）*：两条趋势线在观察范围内交叉，表明干预在一个群体中产生积极增益，但在另一群体中产生消极阻碍（质性反转）。
 >   - *发散/收敛线（Ordinal Interaction）*：斜率方向一致但陡峭程度不同，表明干预在某一群体中效果被显著放大或稀释（量级差异）。
-> - **统计检力瓶颈** 检验交互项（乘积项）所需的统计功效（Statistical Power）显著高于主效应检验；在小样本或测量误差较大的教育现场实验中，交互效应往往难以达到统计显著，需依托大样本[[Randomised Controlled Trials|随机对照试验]]（[[Randomised Controlled Trials|RCT]]）或[[Meta-analysis|元分析]]（[[Meta-analysis|Meta-analysis]]）中的亚组调节分析（Moderation Analysis）。
+> - **统计检力瓶颈** 检验交互项（乘积项）所需的统计功效（Statistical Power）显著高于主效应检验；在小样本或测量误差较大的教育现场实验中，交互效应往往难以达到统计显著，需依托大样本[[Randomised Controlled Trials\|随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）或[[Meta-analysis\|元分析]]（[[Meta-analysis\|Meta-analysis]]）中的亚组调节分析（Moderation Analysis）。
 
 ---
 
@@ -100,7 +102,7 @@ updated: 2026-09-21
 > [!effect-table] 学习者个体特征与教学干预交互实证表
 > | 交互维度 | 调节[[Variable\|变量]]（学生特征） | 比较条件（干预变量） | [[Dependent Variable\|结果变量]] | 交互实证发现 | 理论解释 | 证据来源 |
 > |---|---|---|---|---|---|---|
-> | **[[Executive Function\|执行功能]] × 探究结构** | 抑制控制（Inhibitory Control） | 开放式探究模拟 vs 结构化支架模拟 | 概念获得与迁移测验 | 高抑制控制学生在探究迁移题上表现更优；低抑制控制学生在无支架时受干扰信息严重拖累，在结构化支架下劣势消除 | 高执行功能个体能自主抑制无关参数干扰；低抑制控制学生必须依托外源支架补偿认知控制不足 | Kwon & Lawson (2000); Homer & Plass (2014) |
+> | **[[Executive Function\|执行功能]] × 探究结构** | [[Inhibitory Control\|抑制控制]]（Inhibitory Control） | 开放式探究模拟 vs 结构化支架模拟 | 概念获得与迁移测验 | 高抑制控制学生在探究迁移题上表现更优；低抑制控制学生在无支架时受干扰信息严重拖累，在结构化支架下劣势消除 | 高执行功能个体能自主抑制无关参数干扰；低抑制控制学生必须依托外源支架补偿认知控制不足 | Kwon & Lawson (2000); Homer & Plass (2014) |
 > | **[[Self-Efficacy\|自我效能感]] × 引导机制** | 初始科学自我效能感 | 纯自主发现 vs 教师/系统支架引导 | 探究数据搜集行为与成就 | 初始阶段高效能感学生搜集更多数据；但随着数字化支架介入，效能感对探究行为的调节作用减弱，支架抹平了低效能感学生的行为差距 | 自适应支架提供了即时[[Scaffolding\|脚手架]]支持，降低任务门槛，重构了低效能感学生的行动信念 | Ketelhut (2007); Liu & Wang (2022) |
 > | **先验知识 × 指导程度（专业逆转）** | 领域先验知识水平 | 显性直接指导 vs 开放探索 | 学习效率与认知负荷 | 低先验知识学生在直接指导下显著获益，在开放探索中负荷超载；高先验知识学生在重复显性指导下产生厌烦与负荷冗余 | 教学设计的专业逆转效应（Expertise Reversal Effect）；先验图式充当了内部支架，与外在显性指导产生冗余交互 | Sweller et al. (2003); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
 
@@ -115,10 +117,10 @@ updated: 2026-09-21
 ## 经典应用案例
 
 > [!case] 性别 × 年龄对数学学习动机的交互效应
-> 以性别和年龄为两个[[Independent Variable|自变量]]研究数学学习动机时（Cohen et al., 2011, Ch16, Figure 16.3），男女之间的动机差异并非恒定不变，而是随年龄增长发生显著分化——在低年龄段男女动机基线差异极小，进入青春期后差异急剧扩大。如果研究者仅报告性别的主效应，会得出“男生与女生在数学动机上存在系统性差异”的笼统论断；但引入交互效应后则揭示出该结论仅在特定发展年龄段成立，避免了简单化概括（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 324]]）。
+> 以性别和年龄为两个[[Independent Variable\|自变量]]研究数学学习动机时（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch16, Figure 16.3），男女之间的动机差异并非恒定不变，而是随年龄增长发生显著分化——在低年龄段男女动机基线差异极小，进入青春期后差异急剧扩大。如果研究者仅报告性别的主效应，会得出“男生与女生在数学动机上存在系统性差异”的笼统论断；但引入交互效应后则揭示出该结论仅在特定发展年龄段成立，避免了简单化概括（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 324]]）。
 
 > [!case] 数字化仿真微世界中交互探索与即时解释的交互
-> 在物理电路探究模拟中，单纯让学生操作虚拟仪表（单纯交互）或单纯阅读原理解释（单纯讲授）的效果均有限。Adams et al. 与 Wieman et al. 的实验揭示出操作性交互与即时认知反馈的强交互作用：当直接解释被精准嵌入在学生操纵仿真参数产生疑问的瞬间时，学生的定性概念掌握产生了显著飞跃（De Jong et al., 2023, pp. 8–9）。这表明交互并非外在界面的机械点击，而是学生内部认知结构与外部支架动态响应的深度耦合。
+> 在物理电路探究模拟中，单纯让学生操作虚拟仪表（单纯交互）或单纯阅读原理解释（单纯讲授）的效果均有限。Adams et al. 与 Wieman et al. 的实验揭示出操作性交互与即时认知反馈的强交互作用：当直接解释被精准嵌入在学生操纵仿真参数产生疑问的瞬间时，学生的定性概念掌握产生了显著飞跃（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 8–9]]）。这表明交互并非外在界面的机械点击，而是学生内部认知结构与外部支架动态响应的深度耦合。
 
 ---
 

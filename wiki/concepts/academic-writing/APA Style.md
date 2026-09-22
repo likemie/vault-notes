@@ -39,7 +39,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] APA 格式（APA Style）
-> APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文[[Document|文献]]引用、文后参考文献表、论文结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+> APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文[[Document\|文献]]引用、文后参考文献表、论文结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** APA 格式提供了一整套标准化的学术交流形式语言，旨在规范研究成果的呈现逻辑、证据引证路径和出版排版机制。
@@ -185,20 +185,20 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 ### 命题一　格式规范通过降低外在认知负荷使读者聚焦实质学术内容
 
 > [!concept-lens] 认知负荷与学术传播效率
-> 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术[[Dialogue in Education|对话]]的精确度。
+> 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术[[Dialogue in Education\|对话]]的精确度。
 
 > [!claim] Creswell & Creswell
-> **降低认知负荷** APA 格式的核心目的不是繁文缛节或装饰性排版，而是消除形式层面的视觉噪音与歧义，让读者的眼睛不停顿、思维不磕绊，从而将认知资源完全投入到对[[Construct|理论构念]]、方法设计和实证证据的批判性审视之中。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]
+> **降低认知负荷** APA 格式的核心目的不是繁文缛节或装饰性排版，而是消除形式层面的视觉噪音与歧义，让读者的眼睛不停顿、思维不磕绊，从而将认知资源完全投入到对[[Construct\|理论构念]]、方法设计和实证证据的批判性审视之中。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022)]]
 
 ---
 
 ### 命题二　包容性语言规范推动了学术知识生产中的伦理自觉与平等建构
 
-> [!concept-lens] [[Linguistic Turn|语言学转向]]与学术伦理
+> [!concept-lens] [[Linguistic Turn\|语言学转向]]与学术伦理
 > 探讨学术写作格式如何通过语言表述规则塑造学术共同体的包容性价值观。
 
 > [!claim] American Psychological Association
-> **伦理与语言包容性** 学术语言不仅反映现实，也在建构社会权力关系。通过在格式规范中制度化确立单数 they、人本语言及去标签化规则，APA 格式促使研究者在[[Literature Review|文献综述]]、数据采集与结果报告中保持对边缘群体的伦理敏感性，避免在[[Knowledge Production|知识生产]]中复制历史偏见与刻板印象。
+> **伦理与语言包容性** 学术语言不仅反映现实，也在建构社会权力关系。通过在格式规范中制度化确立单数 they、人本语言及去标签化规则，APA 格式促使研究者在[[Literature Review\|文献综述]]、数据采集与结果报告中保持对边缘群体的伦理敏感性，避免在[[Knowledge Production\|知识生产]]中复制历史偏见与刻板印象。
 
 ---
 
@@ -215,15 +215,15 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 ## 争议与批评
 
 > [!warning] 频繁改版的迁移成本与工具依赖
-> - **版本迭代成本** APA 格式从第 6 版到第 7 版的规则变更（如取消出版地、et al. 阈值调整为 3 人、DOI 格式变更）导致大量既有[[Document|文献]]数据库、课程大纲与学术软件需全面重新配置，增加了研究者的格式迁移负担。
+> - **版本迭代成本** APA 格式从第 6 版到第 7 版的规则变更（如取消出版地、et al. 阈值调整为 3 人、DOI 格式变更）导致大量既有[[Document\|文献]]数据库、课程大纲与学术软件需全面重新配置，增加了研究者的格式迁移负担。
 > - **软件自动化偏差** 虽然 EndNote、Zotero 等引文软件极大简化了著录，但各数据库元数据清洗不全时，自动生成的 APA 格式常出现大小写错误（如期刊论文题名错误使用了 Title Case）或作者姓名颠倒，仍高度依赖人工校对。
 
-> [!warning] [[Positivism|实证主义范式]]倾向与人文学科适配局限
-> - APA 格式诞生于心理学与行为科学，其章节划分（引言-方法-结果-讨论，IMRaD）与“著者-出版年”引用机制天生偏向量化实证主义传统。在注重历史文本细读、哲学思辨与[[Critical Theory|批判理论]]的人文学科研究中，过度强调出版年份和 IMRaD 结构常引发削足适履的争议。
+> [!warning] [[Positivism\|实证主义范式]]倾向与人文学科适配局限
+> - APA 格式诞生于心理学与行为科学，其章节划分（引言-方法-结果-讨论，IMRaD）与“著者-出版年”引用机制天生偏向量化实证主义传统。在注重历史文本细读、哲学思辨与[[Critical Theory\|批判理论]]的人文学科研究中，过度强调出版年份和 IMRaD 结构常引发削足适履的争议。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统阐述了 APA 格式在研究计划设计、[[Literature Review|文献综述]]编排、标题五级系统、动词时态与包容性语言中的具体应用。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统阐述了 APA 格式在研究计划设计、[[Literature Review\|文献综述]]编排、标题五级系统、动词时态与包容性语言中的具体应用。

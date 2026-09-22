@@ -41,11 +41,11 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 区分真实生活中的原始情感与艺术体验中的过滤情感，解释艺术如何加工情感。
-> - **用途** 为保护入戏与保护入情感策略提供理论依据，说明[[Role-playing|角色扮演]]为何应以第二级情感承载经验。
+> - **用途** 为保护入戏与保护入情感策略提供理论依据，说明[[Role-playing\|角色扮演]]为何应以第二级情感承载经验。
 > - **边界** 第一级情感不属于艺术创作与教育戏剧的直接内容；此区分针对戏剧／艺术情境，不涵盖日常情感调节的一般议题。
 
 > [!citation-card]- 关键表述
-> 在教育戏剧和角色扮演中，关注的是第一级情感与第二级情感的区分，前者描述真实生活中体验到的原始情感，后者指艺术中可能体验到的过滤情感（Witkin, 1974; Best, 1992）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|(Cohen et al., 2011, Ch. 26, p. 16)]]
+> 在教育戏剧和角色扮演中，关注的是第一级情感与第二级情感的区分，前者描述真实生活中体验到的原始情感，后者指艺术中可能体验到的过滤情感（Witkin, 1974; Best, 1992）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|(Cohen et al., 2011, Ch. 26, p. 16)]]
 >
 > *In educational drama and role-play we are broadly concerned with the notion of first and second order emotions. The former describes raw emotion as experienced in real life, and the latter refers to filtered emotion, as may be experienced in art (see Witkin, 1974; Best, 1992).*
 
@@ -82,5 +82,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen, Manion & Morrison (2011, Ch. 26)]] — 在保护入戏与保护入情感策略中运用这一区分，说明[[Role-playing|角色扮演]]应保护参与者进入第二级情感以延伸学习机会。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen, Manion & Morrison (2011, Ch. 26)]] — 在保护入戏与保护入情感策略中运用这一区分，说明[[Role-playing\|角色扮演]]应保护参与者进入第二级情感以延伸学习机会。

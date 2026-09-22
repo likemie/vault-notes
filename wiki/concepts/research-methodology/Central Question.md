@@ -51,10 +51,10 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> [[Qualitative Research|质性研究]]的核心问题（central question）是询问[[Central Phenomenon|核心现象]]的主要开放性问题，通过访谈参与者、观察环境或审阅文件来回答([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
+> [[Qualitative Research\|质性研究]]的核心问题（central question）是询问[[Central Phenomenon\|核心现象]]的主要开放性问题，通过访谈参与者、观察环境或审阅文件来回答([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
 
 > [!quote]
-> "A central question in qualitative research is the major open-ended question being asked about the central phenomenon by interviewing participants, observing settings, or reviewing documents."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])
+> "A central question in qualitative research is the major open-ended question being asked about the central phenomenon by interviewing participants, observing settings, or reviewing documents."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.146]])
 
 核心问题通常为一至两个，以"什么"（what）或"如何"（how）开头传达开放和[[Emergence|涌现]]的设计。以"为什么"（why）开头暗示因果解释思维，属于[[Quantitative Research|量化研究]]的[[Paradigm|范式]]，可能限制参与者的回答而非开放它们（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
@@ -65,7 +65,7 @@ updated: 2026-05-31
 ## 质性子问题
 
 > [!info]
-> 质性子问题（qualitative sub-questions）是将核心问题的[[Central Phenomenon|核心现象]]进一步细分收窄的问题，通常五至七个，成为数据收集（如访谈）中的具体问题([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])。
+> 质性子问题（qualitative sub-questions）是将核心问题的[[Central Phenomenon\|核心现象]]进一步细分收窄的问题，通常五至七个，成为数据收集（如访谈）中的具体问题([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.146]])。
 
 Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative Research|质性研究]]问题（核心问题 + 子问题）。子问题随后成为[[Interview Protocol|访谈协议]]或指南中的具体问题，访谈通常以破冰问题开始，以总结性问题结束（Asmussen & Creswell, 1995）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
@@ -74,16 +74,16 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 ## 核心要素
 
 > [!abstract]
-> 撰写质性核心问题的规则（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
+> 撰写质性核心问题的规则（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）：
 >
 > 1. **以一个或两个核心问题为主** 提出最宽泛的问题——"在我的研究中，我能提出的最宽泛问题是什么？"
 > 2. **辅以五至七个子问题** 将核心问题收窄为数据收集用的具体问题
-> 3. **关联特定的质性路径**[[Ethnography|民族志]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Case Study|案例研究]]的问题形式各有不同
-> 4. **以 what 或 how 开头** 传达开放和[[Emergence|涌现]]的设计
-> 5. **聚焦单一[[Central Phenomenon|核心现象]]或概念** 深入研究一个焦点
-> 6. **使用探索性动词** report/reflect（[[Narrative Research|叙事研究]]）、describe the essence（现象学）、discover/generate（扎根理论）、seek to understand（民族志）、explore（案例研究）、describe the themes（[[Descriptive Analysis|描述性分析]]）
-> 7. **预计问题会演变**[[Qualitative Research|质性研究]]中的问题处于持续审查和重写的状态
-> 8. **使用开放性问题** 除非质性路径另有要求，否则不引用[[Document|文献]]或理论
+> 3. **关联特定的质性路径**[[Ethnography\|民族志]]、[[Phenomenology\|现象学]]、[[Grounded Theory\|扎根理论]]、[[Case Study\|案例研究]]的问题形式各有不同
+> 4. **以 what 或 how 开头** 传达开放和[[Emergence\|涌现]]的设计
+> 5. **聚焦单一[[Central Phenomenon\|核心现象]]或概念** 深入研究一个焦点
+> 6. **使用探索性动词** report/reflect（[[Narrative Research\|叙事研究]]）、describe the essence（现象学）、discover/generate（扎根理论）、seek to understand（民族志）、explore（案例研究）、describe the themes（[[Descriptive Analysis\|描述性分析]]）
+> 7. **预计问题会演变**[[Qualitative Research\|质性研究]]中的问题处于持续审查和重写的状态
+> 8. **使用开放性问题** 除非质性路径另有要求，否则不引用[[Document\|文献]]或理论
 > 9. **指定参与者和研究场所** 如果信息尚未提供
 
 ---
@@ -101,25 +101,25 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 
 ## 写作脚本与范例
 
-> [!tip]- 质性核心问题[[Research Writing Script|写作脚本]]
-> Creswell & Creswell (2022, Ch7) 提供的[[Research Writing Script|写作脚本]]：
+> [!tip]- 质性核心问题[[Research Writing Script\|写作脚本]]
+> Creswell & Creswell (2022, Ch7) 提供的[[Research Writing Script\|写作脚本]]：
 >
 > "____ (How or what?) is the ____ ([[Central Phenomenon]]) for ____ (participants) at ____ (research site)."
 
-> [!example] [[Ethnography|民族志]]核心问题范例
-> Mac an Ghaill & Haywood (2015) 研究了一组英国出生的工薪阶层巴基斯坦和孟加拉裔年轻男性在三年间的文化状况变化。虽未明确构建[[Research Question|研究问题]]，Creswell & Creswell 建议的核心问题为：
+> [!example] [[Ethnography\|民族志]]核心问题范例
+> Mac an Ghaill & Haywood (2015) 研究了一组英国出生的工薪阶层巴基斯坦和孟加拉裔年轻男性在三年间的文化状况变化。虽未明确构建[[Research Question\|研究问题]]，Creswell & Creswell 建议的核心问题为：
 >
-> "What are the core beliefs related to ethnicity, religion, and cultural belonging of the group of British-born, working-class Pakistani and Bangladeshi young men over a 3-year time period, and how do the young men [[Construct]] and understand their geographically specific experiences of family, schooling, and social life as well as growing up and interacting within their local community in a rapidly changing Britain?"（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）
+> "What are the core beliefs related to ethnicity, religion, and cultural belonging of the group of British-born, working-class Pakistani and Bangladeshi young men over a 3-year time period, and how do the young men [[Construct]] and understand their geographically specific experiences of family, schooling, and social life as well as growing up and interacting within their local community in a rapidly changing Britain?"（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）
 
-> [!example] [[Case Study|案例研究]]核心问题范例
+> [!example] [[Case Study\|案例研究]]核心问题范例
 > Hernandez et al. (2020) 评估了一家养老院中的代际游戏小组（intergenerational playgroup），提出的核心问题是：
 >
-> "How do participants engage in an intergenerational playgroup (IGP) within the context of a residential aged care facility (RACF)?"（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）
+> "How do participants engage in an intergenerational playgroup (IGP) within the context of a residential aged care facility (RACF)?"（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）
 >
-> 分析中[[Emergence|涌现]]的主题包括相互学习（learning from each other）、欣赏当下体验（appreciating experience in the moment）和通过游戏建立连接（connecting through play）。
+> 分析中[[Emergence\|涌现]]的主题包括相互学习（learning from each other）、欣赏当下体验（appreciating experience in the moment）和通过游戏建立连接（connecting through play）。
 
 > [!example] 质性子问题范例
-> Creswell & Bàez (2020) 以校园多样性氛围为例展示了子问题如何细分核心问题（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
+> Creswell & Bàez (2020) 以校园多样性氛围为例展示了子问题如何细分核心问题（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）：
 >
 > 核心问题：What is the campus climate toward diversity?
 >

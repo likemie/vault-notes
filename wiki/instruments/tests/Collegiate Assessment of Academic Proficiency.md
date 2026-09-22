@@ -58,14 +58,14 @@ updated: 2026-09-18
 > [!instrument-profile] Collegiate Assessment of Academic Proficiency（CAAP）
 > - **工具类型** 标准化通识能力与增值测验（Standardized [[General Education]] Assessment）。
 > - **开发者与年份** 美国大学入学考试机构（American College Testing, ACT, 2006）。
-> - **测量目的** 测量高等教育阶段本科生的通识核心学业技能与认知发展水平，作为[[Voluntary System of Accountability|美国自愿问责体系]]（VSA）官方认可的三大通用增值测验之一，评估大一至大四的学业增益。
-> - **实施方式** 纸笔测试或计算机机考（[[Critical Thinking|批判性思维]]模块限时 40 分钟），题项基于真实情境阅读材料。
+> - **测量目的** 测量高等教育阶段本科生的通识核心学业技能与认知发展水平，作为[[Voluntary System of Accountability\|美国自愿问责体系]]（VSA）官方认可的三大通用增值测验之一，评估大一至大四的学业增益。
+> - **实施方式** 纸笔测试或计算机机考（[[Critical Thinking\|批判性思维]]模块限时 40 分钟），题项基于真实情境阅读材料。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]（Critical Thinking Skills）
+> [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Skills）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -79,7 +79,7 @@ updated: 2026-09-18
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 33 道[[Scientifically Based Research|基于科学研究]]、社会争议、哲学辩论等短文材料的情境[[Multiple-Choice Questions|选择题]]。
+> - **题项形式** 33 道[[Scientifically Based Research\|基于科学研究]]、社会争议、哲学辩论等短文材料的情境[[Multiple-Choice Questions\|选择题]]。
 > - **作答格式** 4 选 1 客观单项选择题。
 > - **计分与常模** 采用 50–70 分的量表分体系，提供基于全美数百所高校常模的百分位等级与院校增值评估报告。
 

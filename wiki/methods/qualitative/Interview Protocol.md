@@ -67,16 +67,16 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 访谈协议（Interview Protocol）是[[Qualitative Interview|质性访谈]]中用于提问和记录回答的结构化指南，通常为一到两页。它将研究目标[[Operationalization|操作化]]为对受访者友好的问题序列，在所有访谈中一致使用，确保数据收集的系统性和可比性。问题总数建议在五到十个之间，问题之间留有空间供访谈者记录简短笔记和引语（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.203）。
+> 访谈协议（Interview Protocol）是[[Qualitative Interview\|质性访谈]]中用于提问和记录回答的结构化指南，通常为一到两页。它将研究目标[[Operationalization\|操作化]]为对受访者友好的问题序列，在所有访谈中一致使用，确保数据收集的系统性和可比性。问题总数建议在五到十个之间，问题之间留有空间供访谈者记录简短笔记和引语（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.203）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 访谈问题的措辞、顺序、格式和追问策略，以及它们如何共同构成一份完整的数据收集工具。
-> - **问题类型** 适合需要跨个案系统比较的[[Qualitative Research|质性研究]]；多位访谈者参与时确保一致性；需要将抽象[[Research Question|研究问题]]转化为具体操作问题。
-> - **[[Unit of Analysis|分析单位]]** 单次访谈为基本单位；跨个案比较时以所有访谈的集合为单位。
-> - **输出形式** 一份书面协议文档，包含引言、内容问题、[[Probes|追问提示]]和结束说明；[[Pilot Testing|预测试]]后可能包含修订版本。
+> - **问题类型** 适合需要跨个案系统比较的[[Qualitative Research\|质性研究]]；多位访谈者参与时确保一致性；需要将抽象[[Research Question\|研究问题]]转化为具体操作问题。
+> - **[[Unit of Analysis\|分析单位]]** 单次访谈为基本单位；跨个案比较时以所有访谈的集合为单位。
+> - **输出形式** 一份书面协议文档，包含引言、内容问题、[[Probes\|追问提示]]和结束说明；[[Pilot Testing\|预测试]]后可能包含修订版本。
 
 > [!citation-card]- 关键定义
-> 访谈提纲的构建涉及将研究目标转化为具体问题。第一步是写下要研究的[[Variable|变量]]，变量告诉研究者从哪里开始（Tuckman, 1972）。构建时需考虑问题格式、回答模式、提示和追问（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 418–420]]）。
+> 访谈提纲的构建涉及将研究目标转化为具体问题。第一步是写下要研究的[[Variable\|变量]]，变量告诉研究者从哪里开始（Tuckman, 1972）。构建时需考虑问题格式、回答模式、提示和追问（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 418–420]]）。
 >
 > *The first step in constructing interview questions is to specify your variables by name. Your variables are what you are trying to measure. They tell you where to begin. (Tuckman, 1972)*
 
@@ -84,47 +84,47 @@ updated: 2026-09-17
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 访谈协议将研究目标[[Operationalization|操作化]]为可执行的问题序列，体现了从[[Research Question|研究问题]]到数据收集的转化逻辑。标准化应追求刺激等价，即确保每位受访者以相同方式理解问题，而非机械地复制完全相同的问题措辞（Oppenheim, 1992, p. 86）。
+> [!method-position] [[Epistemology\|认识论]]与方法定位
+> - **知识观** 访谈协议将研究目标[[Operationalization\|操作化]]为可执行的问题序列，体现了从[[Research Question\|研究问题]]到数据收集的转化逻辑。标准化应追求刺激等价，即确保每位受访者以相同方式理解问题，而非机械地复制完全相同的问题措辞（Oppenheim, 1992, p. 86）。
 > - **研究者角色** 研究者既是协议的设计者也是执行者。设计阶段需将研究问题翻译为受访者可理解的语言，考虑其教育水平、知识背景和动机水平。执行阶段需在遵循协议和灵活追问之间取得平衡——提前记住问题以避免生硬地朗读协议。
-> - **有效性标准** 协议确保所有受访者被问及相同的核心问题，增强数据可比性。多位访谈者时减少[[Interviewer Effects|访谈者效应]]。逻辑数据缺口可通过[[Pilot Testing|预测试]]识别和弥补。协议本身可被决策者查看和审查。
-> - **不声称回答的问题** 协议不保证数据质量——追问的质量、访谈者的技能和融洽关系的建立同样关键。协议不能替代访谈者培训和[[Pilot Testing|预测试]]。
+> - **有效性标准** 协议确保所有受访者被问及相同的核心问题，增强数据可比性。多位访谈者时减少[[Interviewer Effects\|访谈者效应]]。逻辑数据缺口可通过[[Pilot Testing\|预测试]]识别和弥补。协议本身可被决策者查看和审查。
+> - **不声称回答的问题** 协议不保证数据质量——追问的质量、访谈者的技能和融洽关系的建立同样关键。协议不能替代访谈者培训和[[Pilot Testing\|预测试]]。
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法研究]]中的质性部分
-> - **数据收集** 一对一访谈、[[Focus Group|焦点小组]]访谈
-> - **分析方法** [[Coding in Qualitative Research|编码]]、主题分析、[[Content Analysis|内容分析]]
-> - **辅助技术** [[Pilot Testing|预测试]]、录音与[[Transcription in Qualitative Research|转录]]、访谈者培训
+> - **研究设计** [[Qualitative Research\|质性研究]]、[[Mixed Methods Research\|混合方法研究]]中的质性部分
+> - **数据收集** 一对一访谈、[[Focus Group\|焦点小组]]访谈
+> - **分析方法** [[Coding in Qualitative Research\|编码]]、主题分析、[[Content Analysis\|内容分析]]
+> - **辅助技术** [[Pilot Testing\|预测试]]、录音与[[Transcription in Qualitative Research\|转录]]、访谈者培训
 
 ---
 
 ## 研究程序
 
 > [!proc] 访谈协议的构建流程
-> 1. **明确研究目标和[[Variable|变量]]** 写下要研究的变量，将研究目标转化为详细具体的问题。
-> 2. **选择问题格式和回答模式** 根据[[Research Purpose|研究目的]]、受访者特征和信息类型，决定使用开放式、封闭式还是量表式项目。
-> 3. **编写引言** 介绍研究目的、获取[[Informed Consent|知情同意]]、说明访谈结构。
-> 4. **编写内容问题** 将[[Central Phenomenon|核心现象]]拆分为不同侧面，每个侧面一个友好表述的问题（5–10 个）。
-> 5. **嵌入提示和追问** 为每个问题准备[[Probes|追问提示]]，最后加入收网问题。
+> 1. **明确研究目标和[[Variable\|变量]]** 写下要研究的变量，将研究目标转化为详细具体的问题。
+> 2. **选择问题格式和回答模式** 根据[[Research Purpose\|研究目的]]、受访者特征和信息类型，决定使用开放式、封闭式还是量表式项目。
+> 3. **编写引言** 介绍研究目的、获取[[Informed Consent\|知情同意]]、说明访谈结构。
+> 4. **编写内容问题** 将[[Central Phenomenon\|核心现象]]拆分为不同侧面，每个侧面一个友好表述的问题（5–10 个）。
+> 5. **嵌入提示和追问** 为每个问题准备[[Probes\|追问提示]]，最后加入收网问题。
 > 6. **编写结束说明** 感谢、保密保证、后续跟进邀请。
-> 7. **[[Pilot Testing|预测试]]和修订** 通过预测试发现困难、敏感或含糊的问题并修订。
+> 7. **[[Pilot Testing\|预测试]]和修订** 通过预测试发现困难、敏感或含糊的问题并修订。
 
 ### 协议结构
 
 访谈协议包含四个核心部分，应按顺序编排（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 > [!example] 一、引言
-> - 介绍自己和[[Research Purpose|研究目的]]（可以预先写好，直接朗读）
-> - 获取签署的[[Informed Consent|知情同意书]]
+> - 介绍自己和[[Research Purpose\|研究目的]]（可以预先写好，直接朗读）
+> - 获取签署的[[Informed Consent\|知情同意书]]
 > - 说明访谈的结构（如何开始、问题数量、大致时长）
 > - 询问受访者是否有任何问题
 > - 必要时定义访谈中使用的重要术语
 
 > [!example] 二、访谈内容问题
 > - 内容问题是研究的子问题（sub-questions），以对受访者友好的方式表述
-> - 将[[Central Phenomenon|核心现象]]拆分为不同侧面，每个侧面提出一个问题
+> - 将[[Central Phenomenon\|核心现象]]拆分为不同侧面，每个侧面提出一个问题
 > - 问题总数在五到十个之间
-> - 每个问题后附带 [[Probes|追问提示]]
+> - 每个问题后附带 [[Probes\|追问提示]]
 
 > [!tip]- 三、追问提示
 > 访谈协议中应嵌入追问提示以提醒研究者。四种标准追问语：
@@ -142,14 +142,14 @@ updated: 2026-09-17
 > - 感谢受访者的时间
 > - 保证访谈的保密性
 > - 询问是否可以后续跟进（如需澄清某些观点）
-> - 回应受访者关于研究结果的询问（如提供最终[[Abstract|研究摘要]]）
+> - 回应受访者关于研究结果的询问（如提供最终[[Abstract\|研究摘要]]）
 
 ### 操作建议
 
 > [!tip]-
 > - 提前记住问题，避免在访谈中只是朗读协议，给受访者留下生硬的印象
 > - 即使使用录音，也做笔记以防设备故障
-> - 记录访谈的时间、日期、地点以及访谈者和受访者姓名（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
+> - 记录访谈的时间、日期、地点以及访谈者和受访者姓名（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9）
 
 ---
 
@@ -188,8 +188,8 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 > - **描述性问题** 描述人、事、物
 > - **经验问题** 关于个人经历
 > - **行为问题** 关于具体行为
-> - **[[Knowledge Questions|知识问题]]** 关于事实性知识
-> - **[[Construct|构念]]形成问题** 引出概念建构
+> - **[[Knowledge Questions\|知识问题]]** 关于事实性知识
+> - **[[Construct\|构念]]形成问题** 引出概念建构
 > - **对比问题** 要求对比不同事物
 > - **感受问题** 关于情绪和感受
 > - **感官问题** 关于感官体验
@@ -240,9 +240,9 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 > 1. 所用词汇保持简单
 > 2. 避免偏见性语言
 > 3. 避免模糊和不精确
-> 4. [[Leading Questions|引导性问题]]需决定使用是否合理
+> 4. [[Leading Questions\|引导性问题]]需决定使用是否合理
 > 5. 避免双重问题，一次问一个以上要点
-> 6. 避免预设[[Hypothesis|假设]]的问题
+> 6. 避免预设[[Hypothesis\|假设]]的问题
 > 7. 假设性或推测性问题需谨慎
 > 8. 敏感或个人问题需决定是否提问或回避
 > 9. 假设受访者拥有所需知识
@@ -253,19 +253,19 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 所有采用[[Qualitative Interview|质性访谈]]作为数据收集方式的研究，包括一对一访谈和[[Focus Group|焦点小组]]访谈。涉及多个访谈者或需要跨个案比较时，统一协议尤为关键。
-> - **谨慎使用** 高度探索性研究（过于结构化的协议可能限制[[Emergence|涌现]]）；单一访谈者的小规模研究（灵活性可能优先于标准化）。
-> - **不适合使用** 完全非结构化的[[Ethnography|民族志]][[Dialogue in Education|对话]]（协议的存在本身可能破坏自然性）；量化调查中的封闭式[[Questionnaire|问卷]]（应使用标准化调查工具）。
+> - **适合使用** 所有采用[[Qualitative Interview\|质性访谈]]作为数据收集方式的研究，包括一对一访谈和[[Focus Group\|焦点小组]]访谈。涉及多个访谈者或需要跨个案比较时，统一协议尤为关键。
+> - **谨慎使用** 高度探索性研究（过于结构化的协议可能限制[[Emergence\|涌现]]）；单一访谈者的小规模研究（灵活性可能优先于标准化）。
+> - **不适合使用** 完全非结构化的[[Ethnography\|民族志]][[Dialogue in Education\|对话]]（协议的存在本身可能破坏自然性）；量化调查中的封闭式[[Questionnaire\|问卷]]（应使用标准化调查工具）。
 
 ---
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 过于紧密遵循协议可能限制访谈的自然性和相关性；提前固定的措辞可能与特定受访者的语言习惯不匹配。协议设计者的文化[[Hypothesis|假设]]可能嵌入问题措辞中。
+> - **偏误来源** 过于紧密遵循协议可能限制访谈的自然性和相关性；提前固定的措辞可能与特定受访者的语言习惯不匹配。协议设计者的文化[[Hypothesis\|假设]]可能嵌入问题措辞中。
 > - **适用边界** 协议的价值随访谈的结构化程度而变化——越结构化的访谈，协议越关键；越开放的访谈，协议越接近松散的指南而非严格的脚本。
-> - **误用风险** 初学[[Qualitative Research|质性研究]]者可能对仅有五到十个问题的访谈长度感到不安，但通过[[Probes|追问提示]]可以有效延长访谈时长并获取有深度的信息（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
-> - **补救方式** [[Pilot Testing|预测试]]是弥补协议缺陷的核心手段——通过试用发现困难、敏感、含糊或烦人的问题，并在正式使用前修订。
+> - **误用风险** 初学[[Qualitative Research\|质性研究]]者可能对仅有五到十个问题的访谈长度感到不安，但通过[[Probes\|追问提示]]可以有效延长访谈时长并获取有深度的信息（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9）。
+> - **补救方式** [[Pilot Testing\|预测试]]是弥补协议缺陷的核心手段——通过试用发现困难、敏感、含糊或烦人的问题，并在正式使用前修订。
 
 ---
 
@@ -286,6 +286,6 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统介绍访谈协议的四部分结构、追问策略和操作建议。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 全面覆盖提纲构建的三种项目类型、问题格式与回答模式、提示与追问体系，以及半结构化提纲的设计原则。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统介绍访谈协议的四部分结构、追问策略和操作建议。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 全面覆盖提纲构建的三种项目类型、问题格式与回答模式、提示与追问体系，以及半结构化提纲的设计原则。

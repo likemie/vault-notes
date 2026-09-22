@@ -67,7 +67,7 @@ updated: 2026-09-18
 ## 核心主张
 
 > [!tip]-
-> Triple Helix（三重螺旋）由 Etzkowitz & Leydesdorff（1995）提出，核心主张是：在以知识为基础的经济（[[Knowledge-Based Economy]]）中，大学、产业和政府三个制度领域不再各自独立运作，而是日益相互交织——每一方都可以承担其他方的部分传统角色，形成一个动态的[[Systems of Innovation|创新系统]]。三者之间的关系不是线性的（政府资助大学 → 大学产出知识 → 企业应用），而是一种相互支撑的反馈循环（[[Feedback]] loop），每一方既影响其他两方，也被其他两方影响。
+> Triple Helix（三重螺旋）由 Etzkowitz & Leydesdorff（1995）提出，核心主张是：在以知识为基础的经济（[[Knowledge-Based Economy]]）中，大学、产业和政府三个制度领域不再各自独立运作，而是日益相互交织——每一方都可以承担其他方的部分传统角色，形成一个动态的[[Systems of Innovation\|创新系统]]。三者之间的关系不是线性的（政府资助大学 → 大学产出知识 → 企业应用），而是一种相互支撑的反馈循环（[[Feedback]] loop），每一方既影响其他两方，也被其他两方影响。
 
 > [!quote]
 > "Etzkowitz & Leydesdorff (1995) characterize the feedback loop among government, universities, and industry as a mutually supportive 'triple Helix.'"（p.13, paraphrased）
@@ -123,7 +123,7 @@ updated: 2026-09-18
 ### 国际比较：三重螺旋的三种配置
 
 > [!example]
-> 不同国家三重螺旋的具体形态因历史路径和制度安排而异([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.39–44]])：
+> 不同国家三重螺旋的具体形态因历史路径和制度安排而异([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.39–44]])：
 
 | 国家 | 三重螺旋特征 | 关键机制 |
 |------|-------------|----------|
@@ -159,7 +159,7 @@ updated: 2026-09-18
 ### 理论链条：Triple Helix → Entrepreneurial University → UI 组织
 
 > [!note]-
-> 三重螺旋的三个理论层次及其组织对应（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.52–53]]）：
+> 三重螺旋的三个理论层次及其组织对应（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, pp.52–53]]）：
 
 | 层次 | 理论/概念 | 分析对象 | Ch3 的贡献 |
 |------|----------|---------|-----------|
@@ -181,7 +181,7 @@ updated: 2026-09-18
 ## 学术健康系统视角下的 Triple Helix
 
 > [!note]-
-> 从[[Academic Health System|学术健康系统]]（Academic Health System, AHS）的视角来看，Triple Helix 需要一项修正：在 AHS 的运作中，政府更多扮演的是制定法律和标准的**监管者**角色，而非合作伙伴——government entities function more as the operating bodies that codify and set forth regulations and standards（p.188）。例外情况包括：当研究由竞争性合同谈判下的政府机构资助时，政府更接近合作伙伴形态。
+> 从[[Academic Health System\|学术健康系统]]（Academic Health System, AHS）的视角来看，Triple Helix 需要一项修正：在 AHS 的运作中，政府更多扮演的是制定法律和标准的**监管者**角色，而非合作伙伴——government entities function more as the operating bodies that codify and set forth regulations and standards（p.188）。例外情况包括：当研究由竞争性合同谈判下的政府机构资助时，政府更接近合作伙伴形态。
 
 > AHS 本身或许可以被构想为 Triple Helix 中替代 government 的第三方——尽管需要一些修改。这反映了学术机构内部组织形式的多样性对 Triple Helix 理论框架提出的补充（p.188）。
 

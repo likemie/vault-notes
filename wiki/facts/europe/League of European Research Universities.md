@@ -40,7 +40,7 @@ updated: 2026-06-10
 ## 背景
 
 > [!info]
-> LERU 是由欧洲研究密集型大学组成的联盟，在研究和创新政策领域发布立场文件和报告，影响欧洲高等教育和科研政策。在 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 上，LERU 2018 年的研究报告《Delivering Talent: Careers of Researchers Inside and Outside Academia》被作为核心参考，讨论了博士和博士后研究者的职业发展问题。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 37-38)]]
+> LERU 是由欧洲研究密集型大学组成的联盟，在研究和创新政策领域发布立场文件和报告，影响欧洲高等教育和科研政策。在 [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]] 上，LERU 2018 年的研究报告《Delivering Talent: Careers of Researchers Inside and Outside Academia》被作为核心参考，讨论了博士和博士后研究者的职业发展问题。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 37-38)]]
 
 ---
 ## 关于博士职业发展的主要发现
@@ -51,7 +51,7 @@ updated: 2026-06-10
 > - 企业越来越多地参与协作研究，向"开放科学"趋势发展
 > - 新的知识和技术扩散方式正在开发中
 > - 企业越来越需要博士过程中培养的研究和分析技能
-> - 博士后已成为[[University-Industry Collaboration|产学合作]]研究的核心人力资源
+> - 博士后已成为[[University-Industry Collaboration\|产学合作]]研究的核心人力资源
 
 研究同时发现早期职业研究者对转向非学术工作存在抵触，导师提供的职业支持仍以学术职业为中心。总体而言，早期职业研究者常对非学术劳动力市场准备不足。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 37-38)]]
 

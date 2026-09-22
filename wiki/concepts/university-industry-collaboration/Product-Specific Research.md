@@ -39,7 +39,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!info]
-> 产品专项研究（Product-Specific Research）是产学联合体中与[[Precompetitive Research|前竞争研究]]互补的第二层研究轨道。它由单个产业成员在联合体协议之外独立出资赞助，建立在所有成员都有权使用的前竞争知识之上，但涉及赞助企业自己的专有信息（如产品规格、生产工艺、客户数据）。其核心制度特征是：[[Foreground IP|前景知识产权]]（Foreground Intellectual Property, FIP）归赞助企业所有，不与其他成员共享([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.114–115]])。
+> 产品专项研究（Product-Specific Research）是产学联合体中与[[Precompetitive Research\|前竞争研究]]互补的第二层研究轨道。它由单个产业成员在联合体协议之外独立出资赞助，建立在所有成员都有权使用的前竞争知识之上，但涉及赞助企业自己的专有信息（如产品规格、生产工艺、客户数据）。其核心制度特征是：[[Foreground IP\|前景知识产权]]（Foreground Intellectual Property, FIP）归赞助企业所有，不与其他成员共享([[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al., 2025, pp.114–115]])。
 
 产品专项研究构成了联合体的"[[Research Translation|技术转化]]工具"——成员从前竞争知识池中选择对自己最有价值的部分，注入自己的专有信息，开发出具有市场竞争力的产品或工艺。没有产品专项研究，联合体产出的前竞争知识对单个成员的业务价值仍然停留在"可用但不独特"的水平。有了产品专项研究，成员可以在共享基础上建立差异化优势（pp.115, 117–118）。
 
@@ -48,7 +48,7 @@ updated: 2026-09-18
 ## 核心要素
 
 > [!abstract]
-> 基于 [[Advanced Manufacturing Research Centre|AMRC]] 的制度实践（pp.114–115）：
+> 基于 [[Advanced Manufacturing Research Centre\|AMRC]] 的制度实践（pp.114–115）：
 
 1. **独立于联合体协议** 产品专项项目的协议单独建立和资助，不走联合体的会员年费资金池。这使得每个项目可以有自己的 IP 条款、交付物和保密要求
 2. **企业专有信息的注入** 产品专项研究的[[Necessary and Sufficient Conditions|必要条件]]是赞助企业提供自己的专有信息。[[Precompetitive Research|前竞争研究]]使用所有成员都有权使用的通用知识，产品专项研究则加入了只有赞助企业才知道的具体参数——例如特定型号涡轮发动机叶片的材料特性、工作温度和[[Assemblage|装配]]公差
@@ -60,7 +60,7 @@ updated: 2026-09-18
 ## 两层轨道的衔接逻辑
 
 > [!note]-
-> [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]通过 [[Advanced Manufacturing Research Centre|AMRC]] 的案例展示了前竞争轨道和产品专项轨道如何互补运作（pp.114–115, 117–118）：
+> [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]通过 [[Advanced Manufacturing Research Centre\|AMRC]] 的案例展示了前竞争轨道和产品专项轨道如何互补运作（pp.114–115, 117–118）：
 
 [[Precompetitive Research|前竞争研究]]用成员年费和政府拨款共同资助，所有成员平等使用研究成果。这一轨道的核心功能是消除竞争对手在同一张桌子上合作的最大障碍——没有人因为参与联合体而出让自己的竞争优势。
 
@@ -74,7 +74,7 @@ updated: 2026-09-18
 ## 概念辨析
 
 > [!example]
-> - vs [[Precompetitive Research|前竞争研究]] — 前竞争研究的 IP 归大学，所有成员平等免版税使用；产品专项研究的 IP 归赞助企业。前竞争研究解决多个成员共同面临的技术障碍（如硬金属的基础加工参数）；产品专项研究让单个成员建立差异化优势（如针对特定产品的优化加工方案）。两者不是"哪个更好"的关系，而是联合体制度设计中需要同时存在的互补层
+> - vs [[Precompetitive Research\|前竞争研究]] — 前竞争研究的 IP 归大学，所有成员平等免版税使用；产品专项研究的 IP 归赞助企业。前竞争研究解决多个成员共同面临的技术障碍（如硬金属的基础加工参数）；产品专项研究让单个成员建立差异化优势（如针对特定产品的优化加工方案）。两者不是"哪个更好"的关系，而是联合体制度设计中需要同时存在的互补层
 > - vs 企业联盟计划中的专项后续研究 — CAP 中也有类似机制：先用会费池做探索性研究，有前景的方向再由个别企业出资做专项后续研究。区别在于，CAP 的专项研究是企业从会费资助项目中"挑走"一个项目做进一步开发，联合体中的产品专项研究是企业从前竞争知识池中主动"调取"基础知识并注入自己的专有信息。前者是被动选择（从已有项目中挑），后者是主动构建（基于共享知识从头设计自己的项目）
 
 ---

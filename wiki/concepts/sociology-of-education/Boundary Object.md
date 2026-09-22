@@ -48,20 +48,20 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 边界对象（Boundary Object）是由科学社会学家 Susan Leigh Star 与 James R. Griesemer 于 1989 年提出的概念，指那些既具备足够的**情境可塑性（Plasticity）**以适应不同群体或学科共同体的局部需求与约束，又具备足够的**结构鲁棒性（Robustness）**以跨越边界维持共有身份认同的[[Artefact|人工制品]]、符号工具、规范协议或数字化界面。在教育技术与高等教育研究中，[[Generative Artificial Intelligence|生成式人工智能]]（如 ChatGPT）被概念化为一种高度灵活的数字化边界对象，既作为标准化学术规范的转化节点，又作为支持学生跨学科探索与个性化表达的连接中介（[[Argument_Li_2026_CEAI|Li et al., 2026, pp. 3, 11]]）。
+> 边界对象（Boundary Object）是由科学社会学家 Susan Leigh Star 与 James R. Griesemer 于 1989 年提出的概念，指那些既具备足够的**情境可塑性（Plasticity）**以适应不同群体或学科共同体的局部需求与约束，又具备足够的**结构鲁棒性（Robustness）**以跨越边界维持共有身份认同的[[Artefact\|人工制品]]、符号工具、规范协议或数字化界面。在教育技术与高等教育研究中，[[Generative Artificial Intelligence\|生成式人工智能]]（如 ChatGPT）被概念化为一种高度灵活的数字化边界对象，既作为标准化学术规范的转化节点，又作为支持学生跨学科探索与个性化表达的连接中介（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 3, 11]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 跨越不同实践共同体、[[Areas of Knowledge|知识领域]]或人机界面的中介媒介，在维持整体连贯性的同时允许局部差异化诠释。
+> - **含义** 跨越不同实践共同体、[[Areas of Knowledge\|知识领域]]或人机界面的中介媒介，在维持整体连贯性的同时允许局部差异化诠释。
 > - **用途** 解释同一种技术工具或评估标准如何在高度异质的学科文化与教学情境中被重新协商并产生多元学习结果。
-> - **边界** 边界对象本身不能消除不同群体间的利益冲突或[[Paradigm|范式]]分歧，它只是提供了一个持续开展[[Dialogue in Education|对话]]、协商与协作的共同平台。
+> - **边界** 边界对象本身不能消除不同群体间的利益冲突或[[Paradigm\|范式]]分歧，它只是提供了一个持续开展[[Dialogue in Education\|对话]]、协商与协作的共同平台。
 
 > [!citation-card]- 关键表述
-> 跨越学科与语言情境，ChatGPT 发挥着边界对象的作用——这是一种灵活且具适应性的人工制品，在维持连贯性的同时能够实现情境化的重新诠释。学生使用它来跨越通用学术惯例与特定学科话语之间的边界。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]
+> 跨越学科与语言情境，ChatGPT 发挥着边界对象的作用——这是一种灵活且具适应性的人工制品，在维持连贯性的同时能够实现情境化的重新诠释。学生使用它来跨越通用学术惯例与特定学科话语之间的边界。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]
 >
 > *Across disciplinary and linguistic contexts, ChatGPT operated as a boundary object — a flexible, adaptable artifact that maintained coherence while enabling contextual reinterpretation. Students used it to navigate genre boundaries...*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Boundary Spanner|边界跨越者]]（Boundary Spanner） — 边界跨越者是指在不同组织或专业群体之间承担沟通、协调与资源调配职能的人类行动者；边界对象是指承载跨界信息与协作的人工制品或符号工具。
+> - 不等于 [[Boundary Spanner\|边界跨越者]]（Boundary Spanner） — 边界跨越者是指在不同组织或专业群体之间承担沟通、协调与资源调配职能的人类行动者；边界对象是指承载跨界信息与协作的人工制品或符号工具。
 > - 不等于 认识性对象（Epistemic Object） — 认识性对象侧重于未完成、不断向未知展开的探究靶标（如未解的科学问题）；边界对象侧重于跨界协调与多方认同的中介载体。
 
 ---
@@ -79,10 +79,10 @@ updated: 2026-09-17
 
 ## 核心要素
 
-> [!feature] 核心要素（Star & Griesemer, 1989; [[Argument_Li_2026_CEAI|Li et al., 2026]]）
-> - **诠释灵活性（Interpretive Flexibility）** 能够根据具体学科规范、语言要求与任务目标进行个性化调用与情境化重构。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 3, 11)]]
-> - **结构稳定性（Structural Coherence）** 依托底层大语言模型的模式匹配与标准语法架构，维持跨情境的一致连贯性。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]
-> - **跨界中介性（Cross-Domain Mediation）** 协助学习者在通用学术写作与特定专业领域推理之间搭建沟通桥梁。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–12)]]
+> [!feature] 核心要素（Star & Griesemer, 1989; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）
+> - **诠释灵活性（Interpretive Flexibility）** 能够根据具体学科规范、语言要求与任务目标进行个性化调用与情境化重构。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 3, 11)]]
+> - **结构稳定性（Structural Coherence）** 依托底层大语言模型的模式匹配与标准语法架构，维持跨情境的一致连贯性。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]
+> - **跨界中介性（Cross-Domain Mediation）** 协助学习者在通用学术写作与特定专业领域推理之间搭建沟通桥梁。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–12)]]
 
 > [!logic-map]- 边界对象在人机协同教学中的中介结构
 > ```mermaid
@@ -112,7 +112,7 @@ updated: 2026-09-17
 > 探讨大语言模型如何帮助学习者跨越学科专业术语与文体规范的壁垒。
 
 > [!claim] Li, C., Cui, H., & Hagedorn, L. S.
-> **数字化边界对象的跨界赋能** 在多学科高等教育情境中，ChatGPT 展现了极强的边界对象特征。学生利用其跨领域的知识表征与语言转换能力，将晦涩的学科原理转化为易于理解的通俗解释，或将初步想法转化为规范的学术文体。这种诠释灵活性在促进发散性创造思维的同时，帮助学生探索跨学科[[Problem Solving|问题解决]]方案。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–12)]]
+> **数字化边界对象的跨界赋能** 在多学科高等教育情境中，ChatGPT 展现了极强的边界对象特征。学生利用其跨领域的知识表征与语言转换能力，将晦涩的学科原理转化为易于理解的通俗解释，或将初步想法转化为规范的学术文体。这种诠释灵活性在促进发散性创造思维的同时，帮助学生探索跨学科[[Problem Solving\|问题解决]]方案。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–12)]]
 
 ---
 
@@ -122,7 +122,7 @@ updated: 2026-09-17
 > 探讨边界对象引入后，人机协作中的任务分工与评估机制如何决定最终认知成果。
 
 > [!claim] Li, C., Cui, H., & Hagedorn, L. S.
-> **活动系统重组与分工规则** 边界对象不会自动带来[[Higher-Order Thinking Skills|高阶思维]]的发展。根据文化历史[[Third Generation Activity Theory|活动理论]]，ChatGPT 重新划分了人机认知劳动——即由工具承担初步生成与语法组织，由人类承担深层检验与价值判断。只有当教学系统明确建立要求引用来源、质疑生成内容和开展反思修正的评估规则时，边界对象才能真正催化[[Critical Thinking|批判性思维]]。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 3, 11–12)]]
+> **活动系统重组与分工规则** 边界对象不会自动带来[[Higher-Order Thinking Skills\|高阶思维]]的发展。根据文化历史[[Third Generation Activity Theory\|活动理论]]，ChatGPT 重新划分了人机认知劳动——即由工具承担初步生成与语法组织，由人类承担深层检验与价值判断。只有当教学系统明确建立要求引用来源、质疑生成内容和开展反思修正的评估规则时，边界对象才能真正催化[[Critical Thinking\|批判性思维]]。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 3, 11–12)]]
 
 ---
 
@@ -141,7 +141,7 @@ updated: 2026-09-17
 > [!dev-timeline] 概念演变
 > - **1980 年代 科学博物馆的社会学生态** Star & Griesemer 在加州大学脊椎动物学博物馆研究中创立该概念，分析标本图纸、地图和分类账目如何协调业余收藏家与专业生物学家的合作。
 > - **2000 年代 组织管理与跨专业协作** 概念被广泛应用于企业管理、医患沟通与跨部门项目协调，强调信息系统在跨界知识流动中的作用。
-> - **2020 年代 智能算法与人机交互中介** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将其引入大语言模型研究，揭示人工智能作为兼具结构稳定与语境灵活特性的生成式中介对学生高阶认知的双重塑造。
+> - **2020 年代 智能算法与人机交互中介** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将其引入大语言模型研究，揭示人工智能作为兼具结构稳定与语境灵活特性的生成式中介对学生高阶认知的双重塑造。
 
 ---
 
@@ -155,13 +155,13 @@ updated: 2026-09-17
 > > - **Star（2010）** 在回顾反思中强调，边界对象必须同时满足“局部可塑性”与“跨界共有鲁棒性”，且植根于具体的合作实践，不能简单等同于泛泛的媒介或通信渠道。
 >
 > > [!warning] 权力不对称与算法偏见
-> > 边界对象可能隐藏技术开发者预设的文化与意识形态偏见，弱势群体的声音在与大模型交互时可能被主流算法话语所同化或消解。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 13)]]
+> > 边界对象可能隐藏技术开发者预设的文化与意识形态偏见，弱势群体的声音在与大模型交互时可能被主流算法话语所同化或消解。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 13)]]
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -172,5 +172,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 将边界对象理论应用于[[Generative Artificial Intelligence|生成式人工智能]]研究，阐明 ChatGPT 如何作为灵活的[[Artefact|人工制品]]连接跨学科知识与个性化批判创造探索。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 将边界对象理论应用于[[Generative Artificial Intelligence\|生成式人工智能]]研究，阐明 ChatGPT 如何作为灵活的[[Artefact\|人工制品]]连接跨学科知识与个性化批判创造探索。

@@ -63,7 +63,7 @@ updated: 2026-08-27
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]论证评估与生成技能
+> [!construct-table] [[Critical Thinking\|批判性思维]]论证评估与生成技能
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

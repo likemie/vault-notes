@@ -7,7 +7,7 @@ aliases:
 summary: "由美国教育考试服务中心开发的机考情境化通识核心素养测评工具，通过分析技能与综合技能两大认知维度测度大学生在复杂材料中的论证重构与合逻辑推导能力。"
 type: instrument
 instrument_type: test
-instrument_related_count: 12
+instrument_related_count: 13
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -36,10 +36,11 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
-related_theories:
-  - "[[Item Response Theory]]"
+  - "[[STEM Education]]"
+related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
+  - "[[Item Response Theory]]"
   - "[[Measurement Invariance]]"
 related_instruments: []
 related_persons: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-22
 ---
 
 # ETS HEIghten Critical Thinking Assessment
@@ -60,17 +61,17 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] [[Educational Testing Service|ETS]] HEIghten [[Critical Thinking Assessment]]
+> [!instrument-profile] [[Educational Testing Service\|ETS]] HEIghten [[Critical Thinking Assessment]]
 > - **工具类型** 计算机化情境能力测评（Computer-Based Scenario Assessment）。
 > - **开发者与年份** 美国教育考试服务中心（Educational Testing Service, ETS, 2015）/ Ou Lydia Liu et al.
-> - **测量目的** 评估高等教育阶段本科生的通识核心[[Critical Thinking|批判性思维]]与分析推理能力，专门用于测量院校增值效应与跨国大学生[[Learning Gain|学习增益]]。
+> - **测量目的** 评估高等教育阶段本科生的通识核心[[Critical Thinking\|批判性思维]]与分析推理能力，专门用于测量院校增值效应与跨国大学生[[Learning Gain\|学习增益]]。
 > - **实施方式** 计算机在线考试（限时 45 分钟），题项由 26 道基于学术和公共文本的阅读材料与情境问题组成。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]（Critical Thinking Skills）
+> [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Skills）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -83,9 +84,9 @@ updated: 2026-08-27
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 26 道基于跨学科短文、实验数据表与论辩材料的情境[[Multiple-Choice Questions|选择题]]。
+> - **题项形式** 26 道基于跨学科短文、实验数据表与论辩材料的情境[[Multiple-Choice Questions\|选择题]]。
 > - **作答格式** 包含单项选择、多项选择以及选择最佳理由等交互式机考题型。
-> - **计分与报告** 采用[[Item Response Theory|项目反应理论]]（IRT）标定分数，满分量表范围 150–180 分，提供分析技能分量表分、综合技能分量表分与总能力等级。
+> - **计分与报告** 采用[[Item Response Theory\|项目反应理论]]（IRT）标定分数，满分量表范围 150–180 分，提供分析技能分量表分、综合技能分量表分与总能力等级。
 
 ---
 
@@ -108,4 +109,4 @@ updated: 2026-08-27
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 标准版 | 英语（美国/国际） | 本科生各年级 | 26 题 | 确立分析与综合两大核心维度的 [[Item Response Theory\|IRT]] 评分量表 | Liu et al. (2014, 2016) |
-> | 跨国比较版 | 中文、俄语、印地语 | 俄中印美四国 STEM 大学生 | 26 题 | 完成严格的跨文化[[Measurement Invariance\|测量不变性]]（Measurement Invariance）检验与翻译适配 | Loyalka et al. (2021) |
+> | 跨国比较版 | 中文、俄语、印地语 | 俄中印美四国 [[STEM Education\|STEM]] 大学生 | 26 题 | 完成严格的跨文化[[Measurement Invariance\|测量不变性]]（Measurement Invariance）检验与翻译适配 | Loyalka et al. (2021) |

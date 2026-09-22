@@ -60,10 +60,10 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 美德导向学习过程是 Li (2012) 基于中国／东亚学习者的词汇研究、课堂观察和自述反思所识别的东亚文化学习过程模型。与西方以心智发展为焦点的模型不同，该模型以[[Learning Virtues|学习美德]]的培养为中心，将学习视为一个通过美德实践来实现自我完善的道德过程([[Argument_Li_2012_Cambridge|Li, 2012, p.123]])。
+> 美德导向学习过程是 Li (2012) 基于中国／东亚学习者的词汇研究、课堂观察和自述反思所识别的东亚文化学习过程模型。与西方以心智发展为焦点的模型不同，该模型以[[Learning Virtues\|学习美德]]的培养为中心，将学习视为一个通过美德实践来实现自我完善的道德过程([[Argument_Li_2012_Cambridge\|Li, 2012, p.123]])。
 
 > [!quote]
-> "In my [[Ideal Learner]] study, for example, as many as 86 percent of the respondents mentioned one or more of these virtues. In comparison, only 38 percent of the European-American respondents wrote about virtue-oriented learning processes (but 96 percent mentioned mind-oriented learning processes)."([[Argument_Li_2012_Cambridge|Li, 2012, p.147]])
+> "In my [[Ideal Learner]] study, for example, as many as 86 percent of the respondents mentioned one or more of these virtues. In comparison, only 38 percent of the European-American respondents wrote about virtue-oriented learning processes (but 96 percent mentioned mind-oriented learning processes)."([[Argument_Li_2012_Cambridge\|Li, 2012, p.147]])
 
 这七个美德不是相互独立的品质列表，而是构成一个连续的、逐步深入的能动过程——从端正[[Student Attitude|学习态度]]开始，到投入时间精力、克服困难、坚持到底，最终指向精深的掌握([[Argument_Li_2012_Cambridge|Li, 2012, pp.123-124]])。该过程的最高目标是自我完善（[[Self-Cultivation|self-perfection]]），而非仅仅是理解外部世界。
 
@@ -216,26 +216,26 @@ Li 访谈的一位大学生分享了一个典型场景："我经常强迫自己�
 ## 实证发现
 
 > [!success]
-> - 在 Li 关于[[Ideal Learner|理想学习者]]的研究中，86%的中国受访者提到了一个或多个[[Learning Virtues|学习美德]]（描述学习过程），而仅 38%的欧洲裔美国受访者提到类似内容——反之，96%的西方受访者提到了[[Mind-Oriented Learning Process|心智导向]]过程([[Argument_Li_2012_Cambridge|Li, 2012, p.147]])
+> - 在 Li 关于[[Ideal Learner\|理想学习者]]的研究中，86%的中国受访者提到了一个或多个[[Learning Virtues\|学习美德]]（描述学习过程），而仅 38%的欧洲裔美国受访者提到类似内容——反之，96%的西方受访者提到了[[Mind-Oriented Learning Process\|心智导向]]过程([[Argument_Li_2012_Cambridge\|Li, 2012, p.147]])
 > - 另一项关于当代中国小学生到高中生学习能动性的研究发现，普通中国学生主要以上述学习美德作为日常学习过程的基础
 > - 中国儿童早在四岁就开始内化这些学习美德，年龄越大的儿童表现出越强的美德导向
-> - 在课堂中，学习者在美德的展示上所获得的来自教师和同伴的钦佩，不亚于[[Western Learner|西方学习者]]在探索、探究、[[Critical Thinking|批判性思维]]和自我表达上所获得的钦佩
+> - 在课堂中，学习者在美德的展示上所获得的来自教师和同伴的钦佩，不亚于[[Western Learner\|西方学习者]]在探索、探究、[[Critical Thinking\|批判性思维]]和自我表达上所获得的钦佩
 
 ---
 
 ## 概念辨析
 
 > [!example]
-> - vs [[Learning Virtues]] — Learning Virtues 条目从文本来源和概念定义角度逐一介绍七种美德；本条目的焦点是美德在学习过程中的动态展开和功能角色，即从"开始学习"到"达到[[Refined Mastery|精通]]"的完整过程路径
+> - vs [[Learning Virtues]] — Learning Virtues 条目从文本来源和概念定义角度逐一介绍七种美德；本条目的焦点是美德在学习过程中的动态展开和功能角色，即从"开始学习"到"达到[[Refined Mastery\|精通]]"的完整过程路径
 > - vs [[Mind-Oriented Learning Process]] — 两者是同一著作中识别出的两种文化学习过程模型。前者以心智发展为焦点、以理解外部世界为目标；后者以美德培养为焦点、以自我完善为目标。在行为层面，二者在"记忆与理解"上的差异尤为突出，详见[[Rote Learning]]
-> - vs [[Confucian Learning Tradition]] — 儒家学习传统是宏观的[[Cultural Models|文化模型]]理论；美德导向学习过程是该传统在具体学习行为层面的经验描绘
+> - vs [[Confucian Learning Tradition]] — 儒家学习传统是宏观的[[Cultural Models\|文化模型]]理论；美德导向学习过程是该传统在具体学习行为层面的经验描绘
 
 ---
 
 ## 理论基础
 
 > [!tip]-
-> - [[Confucian Learning Tradition]] — 儒家学习传统为美德导向学习过程提供了深层[[Cultural Models|文化模型]]
+> - [[Confucian Learning Tradition]] — 儒家学习传统为美德导向学习过程提供了深层[[Cultural Models\|文化模型]]
 > - [[Junzi]] — "君子"是学习者通过美德实践最终逼近的人格理想
 > - [[Heart and Mind for Wanting to Learn]] — "好学心"是美德导向学习过程的情感驱动力
 

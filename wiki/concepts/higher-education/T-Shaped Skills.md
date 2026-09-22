@@ -30,7 +30,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> T 型技能（T-shaped skills）是指同时具备两类能力的人才特质：纵向的"|"代表在某一学科领域内的深度[[Problem Solving|问题解决能力]]（deep problem-solving skills in a home discipline）；横向的"—"代表跨学科的广泛沟通能力（broad communication skills across disciplines）（Donofrio & DeMarco, 2022, 转引自 [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, p.96]]）。
+> T 型技能（T-shaped skills）是指同时具备两类能力的人才特质：纵向的"|"代表在某一学科领域内的深度[[Problem Solving\|问题解决能力]]（deep problem-solving skills in a home discipline）；横向的"—"代表跨学科的广泛沟通能力（broad communication skills across disciplines）（Donofrio & DeMarco, 2022, 转引自 [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer, 2025, p.96]]）。
 
 > [!quote]
 > "the need for individuals with so-called 'T-shaped skills, broad communication skills across disciplines and deep problem solving skills in a home discipline' continues to be both a priority and a challenge in academia and industry"（Donofrio & DeMarco, 2022, 转引自 p.96）
@@ -41,15 +41,15 @@ updated: 2026-05-28
 
 > [!example]
 > - vs 跨学科能力（interdisciplinarity） — T 型技能特别强调深度与广度的组合：仅有广度而无深度是"—"型，仅有深度而无广度是"I"型。T 型要求两者兼备。
-> - vs [[General Education|通识教育]]（general education） — 通识教育侧重于知识面的广度，T 型技能同时要求在一个学科内的深度专业训练。
+> - vs [[General Education\|通识教育]]（general education） — 通识教育侧重于知识面的广度，T 型技能同时要求在一个学科内的深度专业训练。
 
 ---
 
 ## 概念演变
 
 > [!note]-
-> T 型技能的概念在[[University-Industry Collaboration|产学合作]]语境中的兴起，与两个结构性变化有关（pp.95–96）：
-> - [[Translational Research|转化研究]]缺口：传统上学术机构负责探索性研究、企业负责商业化，但两者之间缺乏能将学术 IP 转化为产品的"翻译型"人才。这要求研究者既有学科深度，又能理解产业语言和需求。
+> T 型技能的概念在[[University-Industry Collaboration\|产学合作]]语境中的兴起，与两个结构性变化有关（pp.95–96）：
+> - [[Translational Research\|转化研究]]缺口：传统上学术机构负责探索性研究、企业负责商业化，但两者之间缺乏能将学术 IP 转化为产品的"翻译型"人才。这要求研究者既有学科深度，又能理解产业语言和需求。
 > - 学科交叉创新的加速：大学院系高度筒仓化，学位要求偏向单一系所课程，但 AI 等领域的突破越来越多发生在学科交叉地带。T 型技能被视为应对这一挑战的人才培养方向。
 
 ---
@@ -68,7 +68,7 @@ Narayan and Spohrer 指出这一需求不仅落在四年制学位项目上，也
 ## 在医用创新中的应用
 
 > [!example]
-> 在[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）中，T 型技能被应用于[[Physician-Scientist|医师科学家]]（Physician-Scientist）的角色（pp.185–186）：
+> 在[[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI）中，T 型技能被应用于[[Physician-Scientist\|医师科学家]]（Physician-Scientist）的角色（pp.185–186）：
 > - 纵向深度（"|"）使医师科学家能够在自己的专业领域中精准识别临床问题和挑战；
 > - 横向广度（"—"）使其能够与来自不同学科和机构类型的合作伙伴有效沟通——工程师、产业研发人员、基础科学家各自以不同的参照框架看待问题，T 型技能的广度维度使医师科学家能够理解并整合这些多元视角。
 

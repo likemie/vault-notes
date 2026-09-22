@@ -38,7 +38,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 保密是保护参与者隐私权的基本方式：研究者承诺不以任何可能识别个体或使个体可被追踪的方式披露参与者信息。这意味着虽然研究者知道谁提供了信息或能从所给信息中识别参与者，但他们绝不将这种关联公之于众；共享秘密的边界将受到保护（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 101–102]]）。
+> 保密是保护参与者隐私权的基本方式：研究者承诺不以任何可能识别个体或使个体可被追踪的方式披露参与者信息。这意味着虽然研究者知道谁提供了信息或能从所给信息中识别参与者，但他们绝不将这种关联公之于众；共享秘密的边界将受到保护（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 101–102]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 保密是研究者对参与者的承诺——我知道你是谁，但我不会告诉任何人。核心是研究者守信的程度和研究者维护这一承诺的技术能力。
@@ -46,7 +46,7 @@ updated: 2026-09-17
 > - **边界** 保密不等于匿名——匿名意味着研究者也无法识别参与者，保密意味着研究者知道但不公开。保密也不等于隐私——隐私是参与者有权不说、不被侵入的主动权利，保密是研究者不公开已知信息的承诺。
 
 > [!boundary]- 概念边界
-> - 不等于 匿名（[[Anonymity in Research|anonymity]]） — 匿名意味着信息无法追溯到提供者（包括研究者自己也无法追溯），保密意味着研究者可以追溯但承诺不公开。匿名是更强的保护但限制了[[Cohort Study|追踪研究]]。
+> - 不等于 匿名（[[Anonymity in Research\|anonymity]]） — 匿名意味着信息无法追溯到提供者（包括研究者自己也无法追溯），保密意味着研究者可以追溯但承诺不公开。匿名是更强的保护但限制了[[Cohort Study\|追踪研究]]。
 > - 不等于 隐私（privacy） — 隐私是参与者的权利（不参与、不回答、不被侵入），保密是研究者的义务（不披露已获得的信息）。参与者可以放弃隐私，但研究者的保密义务在承诺后具有约束力。
 > - 不适用于已进入公共领域的信息 — 保密仅保护尚未公开的个人信息。
 
@@ -87,7 +87,7 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen
 ### 保密承诺的可信度
 
 > [!warning] 保密保证与数据质量的关系
-> Kimmel (1988) 指出，一些敏感主题研究的潜在受访者在保密保证薄弱、模糊、不被理解或被认为可能被违反时会拒绝合作。保密保证在无害研究中似乎不影响合作率——因为大多数潜在受访者期待保密将被保护。但在[[Sensitive Research|敏感研究]]中，研究者提供可信保密承诺的能力可能严重影响数据的有效性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 101]]）。
+> Kimmel (1988) 指出，一些敏感主题研究的潜在受访者在保密保证薄弱、模糊、不被理解或被认为可能被违反时会拒绝合作。保密保证在无害研究中似乎不影响合作率——因为大多数潜在受访者期待保密将被保护。但在[[Sensitive Research\|敏感研究]]中，研究者提供可信保密承诺的能力可能严重影响数据的有效性（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 101]]）。
 
 ---
 
@@ -97,7 +97,7 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen
 
 #### 演绎披露
 
-> [!def] [[Deductive Disclosure|演绎披露]]（Deductive Disclosure）
+> [!def] [[Deductive Disclosure\|演绎披露]]（Deductive Disclosure）
 > Boruch & Cecil (1979) 提出的概念：即使研究者没有直接披露姓名，读者仍可以通过重新组合和拼凑数据中的细节来唯一识别个体。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即使不具名，这些特征组合足以识别他（p.212）。
 
 研究者的责任是确保即使读者试图重新组合细节以识别受访者，也无法做到。这比通常意义的保密标准更高：它要求研究者在报告发布前主动审查和修改描述性细节，消灭演绎披露的可能性，而不只是在报告中做出保密承诺。
@@ -123,7 +123,7 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen
 ## 争议与批评
 
 > [!tension] 保密是否应被打破
-> Wiles 等 (2008, p. 419) 讨论了保密是否应因公共或私人安全利益而被打破，涉及（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 102–103]]）：
+> Wiles 等 (2008, p. 419) 讨论了保密是否应因公共或私人安全利益而被打破，涉及（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 102–103]]）：
 > - 实际或预谋的刑事活动
 > - 个人面临风险（如报告被虐待的儿童）
 > - 脆弱群体（儿童、有特殊需要者、最近丧亲者、来自暴力家庭的儿童）
@@ -131,15 +131,15 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen
 > 在许多情况下，研究者在访谈开始前即明确，任何法律性质的信息如果访谈者认为受访者面临风险或存在法律事项，可被披露。但不是那么简单——因为受访者可能揭示未预见的信息。
 
 > [!warning] 第三方信息的保密困境
-> 如果参与者评论了不在研究中且未征求[[Informed Consent|知情同意]]的另一个人（Crow et al., 2006, p. 92）：研究者是否使用这些数据？排除或纳入关于第三方的数据是否公平，因为第三方尚未被接触征求知情同意？（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 103]]）
+> 如果参与者评论了不在研究中且未征求[[Informed Consent\|知情同意]]的另一个人（Crow et al., 2006, p. 92）：研究者是否使用这些数据？排除或纳入关于第三方的数据是否公平，因为第三方尚未被接触征求知情同意？（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 103]]）
 
 > [!warning] 绝对保密的悖论
-> 如果数据要用于研究，保密实际意味着什么？如果数据是保密的、不能被使用或传递，那么收集或拥有数据的意义何在？在这种情况下，也许应该处理的是匿名而非保密，或者应该澄清保密的范围（其边界）而非给出绝对保密的保证（Oliver, 2003, p. 15）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 103]]）。
+> 如果数据要用于研究，保密实际意味着什么？如果数据是保密的、不能被使用或传递，那么收集或拥有数据的意义何在？在这种情况下，也许应该处理的是匿名而非保密，或者应该澄清保密的范围（其边界）而非给出绝对保密的保证（Oliver, 2003, p. 15）（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 103]]）。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al. (2011, Ch. 5)]] — 在伦理章节中系统讨论保密作为参与者隐私保护的基本方式，包括 Frankfort-Nachmias 四项技术、Cooper & Schindler 额外措施、Kimmel 可[[Reliability|信度]]分析、以及打破保密的争议。
-> - Cohen et al. — 在[[Sensitive Research|敏感研究]]章节中深入讨论[[Deductive Disclosure|演绎披露]]（Boruch & Cecil, 1979）和[[Linked File System|链接文件系统]]（Lee, 1993）作为敏感研究中保护保密性的核心技术工具，以及匿名化边界的问题。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al. (2011, Ch. 5)]] — 在伦理章节中系统讨论保密作为参与者隐私保护的基本方式，包括 Frankfort-Nachmias 四项技术、Cooper & Schindler 额外措施、Kimmel 可[[Reliability\|信度]]分析、以及打破保密的争议。
+> - Cohen et al. — 在[[Sensitive Research\|敏感研究]]章节中深入讨论[[Deductive Disclosure\|演绎披露]]（Boruch & Cecil, 1979）和[[Linked File System\|链接文件系统]]（Lee, 1993）作为敏感研究中保护保密性的核心技术工具，以及匿名化边界的问题。

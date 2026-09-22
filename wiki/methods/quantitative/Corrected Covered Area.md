@@ -51,19 +51,19 @@ updated: 2026-09-11
 ## 定义
 
 > [!def] 核心定义
-> 校正覆盖面积（Corrected Covered Area, CCA）是由 Pieper et al. (2014) 提出、用于在[[Umbrella Review|伞状综述]]（Umbrella Review）与[[Meta-meta-analysis|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）中**定量评估多个已发表系统评价或元分析之间初级实证研究重叠程度的标准化统计指标**。该指标通过从总纳入频次中扣除[[Primary and Secondary Documents|初级文献]]的基准计数值，消除了综述数量与研究总量本身对覆盖率的被动稀释或抬升效应，以 $0\%–100\%$ 的标准化比率精确测度[[Primary and Secondary Documents|初级文献]]重复被纳入的冗余强度。[[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1373–1375)]]
+> 校正覆盖面积（Corrected Covered Area, CCA）是由 Pieper et al. (2014) 提出、用于在[[Umbrella Review\|伞状综述]]（Umbrella Review）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）中**定量评估多个已发表系统评价或元分析之间初级实证研究重叠程度的标准化统计指标**。该指标通过从总纳入频次中扣除[[Primary and Secondary Documents\|初级文献]]的基准计数值，消除了综述数量与研究总量本身对覆盖率的被动稀释或抬升效应，以 $0\%–100\%$ 的标准化比率精确测度[[Primary and Secondary Documents\|初级文献]]重复被纳入的冗余强度。[[Argument_Unal_2026_JECR\|(Ünal et al., 2026, pp. 1373–1375)]]
 
 > [!concept-lens] 概念透镜
-> - **测量对象** 跨多个一阶[[Meta-analysis|元分析]]或系统评价的初级研究引用矩阵（Citation Matrix）。
-> - **核心功能** 揭示二阶证据库中的[[Document|文献]]重复包含程度，量化因重复计算同一批受试者样本而导致的[[Standard Error|标准误]]虚假收缩与假阳性检验膨胀风险。
+> - **测量对象** 跨多个一阶[[Meta-analysis\|元分析]]或系统评价的初级研究引用矩阵（Citation Matrix）。
+> - **核心功能** 揭示二阶证据库中的[[Document\|文献]]重复包含程度，量化因重复计算同一批受试者样本而导致的[[Standard Error\|标准误]]虚假收缩与假阳性检验膨胀风险。
 > - **应用决策** 为研究者筛选、合并或剔除高重叠一阶元分析提供客观的数学门槛（通常以 $CCA > 10\%$ 作为不可接受的高重叠排除界限）。
 
 ---
 
 ## 数学原理与计算公式
 
-> [!formula-step] 公式推导与[[Variable|变量]]界定
-> 在包含 $c$ 项系统评价/[[Meta-analysis|元分析]]、共涉及 $r$ 篇不重复初级研究的伞状[[Document|文献]]集中：
+> [!formula-step] 公式推导与[[Variable\|变量]]界定
+> 在包含 $c$ 项系统评价/[[Meta-analysis\|元分析]]、共涉及 $r$ 篇不重复初级研究的伞状[[Document\|文献]]集中：
 >
 > 1. **未校正覆盖面积（Covered Area, CA）**
 >    $$CA = \frac{N}{r \cdot c}$$
@@ -76,7 +76,7 @@ updated: 2026-09-11
 > - $N$ 纳入初级研究的总频次（含重复计数，$\sum n_j$）；
 > - $r$ 独立不重复初级研究的总篇数（矩阵的行数）；
 > - $c$ 纳入的一阶元分析或系统评价总篇数（矩阵的列数）；
-> - 分子 $N - r$ 表示扣除每篇[[Primary and Secondary Documents|初级文献]]必须出现一次的“基准出现”后，实际发生的**多余重复引用总数**；
+> - 分子 $N - r$ 表示扣除每篇[[Primary and Secondary Documents\|初级文献]]必须出现一次的“基准出现”后，实际发生的**多余重复引用总数**；
 > - 分母 $r(c - 1)$ 表示在当前矩阵规模下，所有初级文献在全部剩余元分析中均被重复引用的**理论最大可能重复总数**。
 
 ---
@@ -95,7 +95,7 @@ updated: 2026-09-11
 
 ## 方法论价值与防范偏差功能
 
-> [!warrant]- 为什么[[Meta-meta-analysis|二阶元分析]]必须报告并控制 CCA
-> 1. **破除抽样独立性假定破产危机** 经典二阶固定/随机效应合并模型的数学充要条件是各一阶单元在初级样本上互不重叠（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。无视重叠会导致相同的经典[[Study Population and Sample|研究样本]]被赋予不成比例的双重甚至三重方差权重。
-> 2. **克服主观选择偏差** 过去[[Umbrella Review|伞状综述]]常依赖研究者主观经验判断综述是否相似；CCA 提供了标准化、可复现的数学标尺。
-> 3. **与可视化工具协同集成** 配合基于 Excel 与 R 语言的 [[GROOVE]]（Graphical Representation of Overlap for OVErviews）工具，CCA 不仅能计算全数据集的总体覆盖度，更能生成两两配对的 CCA 交叉热力图，精准定位重叠发生的[[Document|文献]]节点（Bracchiglione et al., 2022; [[Argument_Unal_2026_JECR|Ünal et al., 2026]]）。
+> [!warrant]- 为什么[[Meta-meta-analysis\|二阶元分析]]必须报告并控制 CCA
+> 1. **破除抽样独立性假定破产危机** 经典二阶固定/随机效应合并模型的数学充要条件是各一阶单元在初级样本上互不重叠（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）。无视重叠会导致相同的经典[[Study Population and Sample\|研究样本]]被赋予不成比例的双重甚至三重方差权重。
+> 2. **克服主观选择偏差** 过去[[Umbrella Review\|伞状综述]]常依赖研究者主观经验判断综述是否相似；CCA 提供了标准化、可复现的数学标尺。
+> 3. **与可视化工具协同集成** 配合基于 Excel 与 R 语言的 [[GROOVE]]（Graphical Representation of Overlap for OVErviews）工具，CCA 不仅能计算全数据集的总体覆盖度，更能生成两两配对的 CCA 交叉热力图，精准定位重叠发生的[[Document\|文献]]节点（Bracchiglione et al., 2022; [[Argument_Unal_2026_JECR\|Ünal et al., 2026]]）。

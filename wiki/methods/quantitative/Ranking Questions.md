@@ -9,7 +9,7 @@ summary: "要求受访者在选项之间进行比较并确定优先级的题型�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -24,22 +24,21 @@ related_concepts:
   - "[[Fitness for Purpose]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
-related_facts:
-  - "[[RAiSE Programme]]"
+related_facts: []
 related_methods:
   - "[[Rating Scale]]"
   - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # Ranking Questions
 
 ## 定义
 
 > [!def] 排序题
-> 排序题（Ranking Questions）要求受访者在选项之间进行**比较**并确定优先级。与[[Rating Scale|评定量表]]中各题项独立评分不同，排序中受访者必须考虑其他[[Variable|变量]]，因为他们被要求判断相对价值、权重或重要性。排序题操作在**零和模型**上：提高一项的排位意味着另一项下降（Ovadia, 2004, p. 406）。受访者被要求将编号放入方框中以表示优先级（1 = 最高，2 = 第二高，以此类推）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 123–127]]）。
+> 排序题（Ranking Questions）要求受访者在选项之间进行**比较**并确定优先级。与[[Rating Scale\|评定量表]]中各题项独立评分不同，排序中受访者必须考虑其他[[Variable\|变量]]，因为他们被要求判断相对价值、权重或重要性。排序题操作在**零和模型**上：提高一项的排位意味着另一项下降（Ovadia, 2004, p. 406）。受访者被要求将编号放入方框中以表示优先级（1 = 最高，2 = 第二高，以此类推）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 123–127]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 排序题是一种强制比较的题型，要求受访者在给定选项之间做出取舍——提高一项的排位必然降低另一项。这与评定量表中各题项独立评分、互不影响的逻辑根本不同。
@@ -49,7 +48,7 @@ updated: 2026-09-17
 > [!citation-card]- 零和逻辑——排序题的核心
 > 排序题操作在零和模型上：提高一项的排位意味着另一项下降。与评定量表中各题项独立评分不同，排序中受访者必须考虑其他变量，因为他们被要求判断相对价值、权重或重要性。（Ovadia, 2004, p. 406; p. 123）
 >
-> *Ranking operates on a zero-sum model: to [[RAiSE Programme|RAiSE]] the ranking of one item is to lower the ranking of another. In a rating scale, by contrast, each item is rated independently, without reference to other items or variables.*
+> *Ranking operates on a zero-sum model: to RAiSE the ranking of one item is to lower the ranking of another. In a rating scale, by contrast, each item is rated independently, without reference to other items or variables.*
 
 > [!boundary]- 与相近题型的区分
 > - 不等于评定量表（Rating Scale） — 评分中各变量独立评分、互不影响；排序中变量相互比较、排位相互依赖。评分能捕捉数值随时间的变化，排序对变化不敏感。
@@ -63,7 +62,7 @@ updated: 2026-09-17
 > [!feature] 排序题的核心设计特征
 > - **零和模型** 提高一项的排位必然降低另一项——排位总数固定，选项之间是竞争关系。这是排序题区别于评分题的根本特征（Ovadia, 2004, p. 406）。
 > - **强制使用全部标度** 如果列了十项，受访者必须给出十个排位。这避免了评分题中回答聚集在某一端的问题，但也可能导致项目间差异被夸大（pp. 123–127）。
-> - **跨[[Variable|变量]]比较** 受访者必须在每次排位决策中考虑所有剩余选项的相对权重，而非逐项独立评分。
+> - **跨[[Variable\|变量]]比较** 受访者必须在每次排位决策中考虑所有剩余选项的相对权重，而非逐项独立评分。
 > - **顺序数据输出** 排位是顺序数据，相互依赖且无共同度量。第 3 位对不同受访者含义不同，取决于他们对第 2 位和第 4 位的理解（pp. 126–127）。
 
 > [!feature] 排序题的典型格式
@@ -80,7 +79,7 @@ updated: 2026-09-17
 > - [　] 改善学生动机
 > - [　] 家长批准修订
 > - [　] 提高优等生成绩
-> - [　] 工作更加以[[Problem Solving|问题解决]]为导向
+> - [　] 工作更加以[[Problem Solving\|问题解决]]为导向
 
 ---
 
@@ -93,7 +92,7 @@ updated: 2026-09-17
 >
 > - **（2）不可比较性问题**
 >
->   不同项目可能无法真正放在同一量表上。如 Ovadia（2004, p. 407）指出，一个人重视正义的程度无法推论出他是否重视爱，将二者放入同一个重要性排序可能毫无意义。即使可以排序，"是否[[Fitness for Purpose|适合目的]]"和具体情境可能暗示更公平的答案是"一切取决于具体情境中发生的事"（pp. 126–127）。
+>   不同项目可能无法真正放在同一量表上。如 Ovadia（2004, p. 407）指出，一个人重视正义的程度无法推论出他是否重视爱，将二者放入同一个重要性排序可能毫无意义。即使可以排序，"是否[[Fitness for Purpose\|适合目的]]"和具体情境可能暗示更公平的答案是"一切取决于具体情境中发生的事"（pp. 126–127）。
 >
 > - **（3）过强区分**
 >
@@ -128,11 +127,11 @@ updated: 2026-09-17
 >
 > 排序结果完全相同（努力第一、家庭第二、享受第三），但实际分数差异巨大——受访者 A 认为这些因素远比受访者 B 认为的重要。如果 A 的分数随时间分别下降 2/1/3 分，排序依然不变。**排序对变化不敏感**。
 >
-> **选择建议** 如果研究者希望受访者在变量之间做比较并赋予相对权重，排序是合适的。如果希望受访者对各个独立变量分别赋值，则评分更合适。实践中许多[[Rating Scale|评定量表]]的结果也能让研究者将项目排出顺序，但评分可能导致多个变量得分并列——这可能是巧合，也可能是受访者对题项不敏感，只是快速逐项勾选中间框（如五点量表中的 3）（Ovadia, 2004, p. 405）。
+> **选择建议** 如果研究者希望受访者在变量之间做比较并赋予相对权重，排序是合适的。如果希望受访者对各个独立变量分别赋值，则评分更合适。实践中许多[[Rating Scale\|评定量表]]的结果也能让研究者将项目排出顺序，但评分可能导致多个变量得分并列——这可能是巧合，也可能是受访者对题项不敏感，只是快速逐项勾选中间框（如五点量表中的 3）（Ovadia, 2004, p. 405）。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 在题型体系一节中详细讨论了排序题的核心操作特征（零和模型）、五项使用局限以及排序与评分的六维度对比，并提供了 Ovadia（2004）的实证案例。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 在题型体系一节中详细讨论了排序题的核心操作特征（零和模型）、五项使用局限以及排序与评分的六维度对比，并提供了 Ovadia（2004）的实证案例。

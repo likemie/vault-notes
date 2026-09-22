@@ -47,7 +47,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Bob Jessop，英国社会学家和政治经济学家，兰卡斯特大学社会学系教授。以[[Cultural Political Economy|文化政治经济学]]（Cultural Political Economy, CPE）框架的创立和发展著称，是将[[Knowledge-Based Economy|知识经济]]理论化为资本积累体制的关键学者。[[Argument_Moisio_2022_Springer|Moisio (2022)]]在分析[[Knowledge-Based Economization|知识经济化]]的地缘政治维度时，广泛借用了 Jessop 的概念工具——特别是"想象"（imaginaries）的构成性和履行性角色、以及 KBE 作为"霸权的元治理对象"的定位([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.23, 26–27]])。
+> - **身份位置** Bob Jessop，英国社会学家和政治经济学家，兰卡斯特大学社会学系教授。以[[Cultural Political Economy\|文化政治经济学]]（Cultural Political Economy, CPE）框架的创立和发展著称，是将[[Knowledge-Based Economy\|知识经济]]理论化为资本积累体制的关键学者。[[Argument_Moisio_2022_Springer\|Moisio (2022)]]在分析[[Knowledge-Based Economization\|知识经济化]]的地缘政治维度时，广泛借用了 Jessop 的概念工具——特别是"想象"（imaginaries）的构成性和履行性角色、以及 KBE 作为"霸权的元治理对象"的定位([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.23, 26–27]])。
 
 ---
 
@@ -101,7 +101,7 @@ Jessop and Sum 共同提出 [[Cultural Political Economy|CPE]] 框架，将文�
 
 Sum & Jessop（2013, p.284）提供了 Moisio 所采纳的 KBE 经典定义：
 
-> "一种实际存在的经济，资本的首要方面是'一般智识'在知识和设计密集型商品（真实或虚构的）形式中的价值化。这涉及知识作为经济增长、财富创造和就业创造关键驱动力的生产、管理、分配和使用，横跨私营、公共和'第三'部门。在一个真正的 KBE 中，知识被[[Reflexivity|反身性]]地应用于知识的生产，大多数部门趋向于变得更加知识密集化。"（cited in Moisio, 2022, pp.23–24）
+> "一种实际存在的经济，资本的首要方面是'一般智识'在知识和设计密集型商品（真实或虚构的）形式中的价值化。这涉及知识作为经济增长、财富创造和就业创造关键驱动力的生产、管理、分配和使用，横跨私营、公共和'第三'部门。在一个真正的 KBE 中，知识被[[Reflexivity\|反身性]]地应用于知识的生产，大多数部门趋向于变得更加知识密集化。"（cited in Moisio, 2022, pp.23–24）
 
 ---
 

@@ -37,7 +37,7 @@ updated: 2026-05-23
 ## 定义
 
 > [!info]
-> 心流（flow）是 Csikszentmihalyi 提出的心理概念，指人在从事某项活动时完全投入、沉浸其中的最佳体验状态。它不是某种特定活动独有的，而是任何人在学习、工作、表演或游戏中都可能达到的状态([[Argument_Li_2012_Cambridge|Li, 2012, p.59–60]])。
+> 心流（flow）是 Csikszentmihalyi 提出的心理概念，指人在从事某项活动时完全投入、沉浸其中的最佳体验状态。它不是某种特定活动独有的，而是任何人在学习、工作、表演或游戏中都可能达到的状态([[Argument_Li_2012_Cambridge\|Li, 2012, p.59–60]])。
 
 > [!quote]
 > Flow is a state of which any human being is capable. It is a state of human personal engagement in an activity, be it work, learning, performance, or just playing.
@@ -66,7 +66,7 @@ updated: 2026-05-23
 ## 实证发现
 
 > [!success]
-> Csikszentmihalyi 及其团队自 1970 年代起通过 [[Experience Sampling Method]] 收集了大量日常体验数据，尤其是来自青少年的数据，发现了心流这一普遍心理现象([[Argument_Li_2012_Cambridge|Li, 2012, p.59–60]])。
+> Csikszentmihalyi 及其团队自 1970 年代起通过 [[Experience Sampling Method]] 收集了大量日常体验数据，尤其是来自青少年的数据，发现了心流这一普遍心理现象([[Argument_Li_2012_Cambridge\|Li, 2012, p.59–60]])。
 
 研究还发现，当学习者能够自主选择学习任务、控制学习方向和节奏（即拥有自主感）时，他们更享受任务，且实际学习效果也更好。学习者也因此倾向于寻求进一步投入此类学习([[Argument_Li_2012_Cambridge|Li, 2012, p.60]])。
 
@@ -75,7 +75,7 @@ updated: 2026-05-23
 ## 概念辨析
 
 > [!example]
-> **心流 vs 内在动机** 心流是 [[Intrinsic vs Extrinsic Motivation]] 的最佳表现形式。当个体处于心流状态时，活动的驱动力完全来自活动本身，不需要外部奖励。正如 Csikszentmihalyi 的研究所揭示的，心流是内在动机的最纯粹状态([[Argument_Li_2012_Cambridge|Li, 2012, p.60]])。
+> **心流 vs 内在动机** 心流是 [[Intrinsic vs Extrinsic Motivation]] 的最佳表现形式。当个体处于心流状态时，活动的驱动力完全来自活动本身，不需要外部奖励。正如 Csikszentmihalyi 的研究所揭示的，心流是内在动机的最纯粹状态([[Argument_Li_2012_Cambridge\|Li, 2012, p.60]])。
 
 ---
 

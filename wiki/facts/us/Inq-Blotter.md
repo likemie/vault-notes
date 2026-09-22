@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - formative-assessment
 related_concepts:
   - "[[Intelligent Tutoring Systems]]"
+  - "[[STEM Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
   - "[[Hypothesis]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Inq-Blotter
@@ -61,33 +62,33 @@ updated: 2026-09-21
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 探究警报看板（Inq-Blotter）是由罗格斯大学（Rutgers University）贾妮斯·戈伯特（Janice D. Gobert）团队基于 [[Inq-ITS]] 平台深度研发的课堂教师端人工智能实时监控与决策预警系统。该工具通过将学生在虚拟科学探究微世界中的底层操作日志实时降维并转化为直观的红黄绿风险提示与介入建议，为科学教师在动态、嘈杂的探究课堂中提供了一双“算法慧眼”，使教师能够突破物理视野限制，实现精准、适时的个别化指导。（Dickler et al., 2021；Gobert et al., 2023；[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 9]]）
+> 探究警报看板（Inq-Blotter）是由罗格斯大学（Rutgers University）贾妮斯·戈伯特（Janice D. Gobert）团队基于 [[Inq-ITS]] 平台深度研发的课堂教师端人工智能实时监控与决策预警系统。该工具通过将学生在虚拟科学探究微世界中的底层操作日志实时降维并转化为直观的红黄绿风险提示与介入建议，为科学教师在动态、嘈杂的探究课堂中提供了一双“算法慧眼”，使教师能够突破物理视野限制，实现精准、适时的个别化指导。（Dickler et al., 2021；Gobert et al., 2023；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
 
 > [!program-context] 项目背景
-> - **研发周期** 2018 年完成原型算法架构与人机交互界面设计，2020 年代全面整合进 Inq-[[Intelligent Tutoring Systems|ITS]] 云生态并在全美多州中小学规模化应用。
-> - **发起与资助方** 罗格斯大学认知与教育技术实验室联合 Apprendis 公司，获得[[National Science Foundation|美国国家科学基金会]]（NSF）与[[Institute of Education Sciences|教育科学研究院]]（IES）关于人机协同教育专项基金资助。
-> - **覆盖对象** K-12 阶段科学与 STEM 课堂任课教师，支持教师在配备平板电脑或笔记本的环境下对 30–40 名学生开展同步实时监控。
-> - **核心问题导向** [[Inquiry-Based Learning|探究学习]]倡导以学生为中心，但常态班级中每位学生探究进度差异极大；教师往往只能在教室内盲目巡视，无法及时察觉那些表面端坐但在算法底层反复盲目试错、陷入认知困境的隐性受挫学生。（Gobert, Sao Pedro, & Betts, 2023）
+> - **研发周期** 2018 年完成原型算法架构与人机交互界面设计，2020 年代全面整合进 Inq-[[Intelligent Tutoring Systems\|ITS]] 云生态并在全美多州中小学规模化应用。
+> - **发起与资助方** 罗格斯大学认知与教育技术实验室联合 Apprendis 公司，获得[[National Science Foundation\|美国国家科学基金会]]（NSF）与[[Institute of Education Sciences\|教育科学研究院]]（IES）关于人机协同教育专项基金资助。
+> - **覆盖对象** K-12 阶段科学与 [[STEM Education\|STEM]] 课堂任课教师，支持教师在配备平板电脑或笔记本的环境下对 30–40 名学生开展同步实时监控。
+> - **核心问题导向** [[Inquiry-Based Learning\|探究学习]]倡导以学生为中心，但常态班级中每位学生探究进度差异极大；教师往往只能在教室内盲目巡视，无法及时察觉那些表面端坐但在算法底层反复盲目试错、陷入认知困境的隐性受挫学生。（Gobert, Sao Pedro, & Betts, 2023）
 
 ---
 
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 算法自动诊断与人类教师现场干预相结合的“人机共育”（Teacher-AI Teaming）模式，其促学成效显著超越纯算法干预或传统无技术支持的纯教师巡视。通过在算法探测到深层认知困难时即刻向教师推送结构化警报，教师能够针对具体学生的技能瓶颈实施适时[[Direct Instruction|直接讲授]]（Just-in-Time DI），促使学生在后续探究中迅速修正策略并达成精熟。（Dickler et al., 2021）
+> 算法自动诊断与人类教师现场干预相结合的“人机共育”（Teacher-AI Teaming）模式，其促学成效显著超越纯算法干预或传统无技术支持的纯教师巡视。通过在算法探测到深层认知困难时即刻向教师推送结构化警报，教师能够针对具体学生的技能瓶颈实施适时[[Direct Instruction\|直接讲授]]（Just-in-Time DI），促使学生在后续探究中迅速修正策略并达成精熟。（Dickler et al., 2021）
 
 > [!policy-design]- 方案设计
 > - **核心功能目标** 实现秒级学生受挫检测、认知障碍分类诊断、按需介入策略推荐与师生交互记录。
 > - **预警信息架构**
->   1. **全班探究态势热力图** 实时大屏或平板界面展示全班学生在“[[Hypothesis|假设]]生成”、“[[Variable|变量]]控制（[[Control of Variables Strategy|CVS]]）”、“数据收集”、“证据解释”四大环节的推进状态；
+>   1. **全班探究态势热力图** 实时大屏或平板界面展示全班学生在“[[Hypothesis\|假设]]生成”、“[[Variable\|变量]]控制（[[Control of Variables Strategy\|CVS]]）”、“数据收集”、“证据解释”四大环节的推进状态；
 >   2. **多级警报触发机制（Alerts）** 当某位学生在特定技能上连续遭遇算法判定的认知停滞（例如未做变量控制而连续点击测试 5 次以上），系统生成高优先级黄色或红色预警；
->   3. **微观认知归因提示** 点击警报不仅显示“该生受挫”，更直接阐明具体原因（如：“该生未固定[[Independent Variable|自变量]] X，混淆了自变量与无关变量”）；
->   4. **[[Scaffolding|脚手架]]与直接教学话术建议** 系统为教师提供针对该认知迷思的口头启发问题或简短直接讲解要点建议，降低教师现场即兴组织教学语言的认知负荷（Gobert, Sao Pedro, & Betts, 2023）。
+>   3. **微观认知归因提示** 点击警报不仅显示“该生受挫”，更直接阐明具体原因（如：“该生未固定[[Independent Variable\|自变量]] X，混淆了自变量与无关变量”）；
+>   4. **[[Scaffolding\|脚手架]]与直接教学话术建议** 系统为教师提供针对该认知迷思的口头启发问题或简短直接讲解要点建议，降低教师现场即兴组织教学语言的认知负荷（Gobert, Sao Pedro, & Betts, 2023）。
 
 > [!citation-card] 戈伯特等论 Inq-Blotter 警报看板对教师精准介入的赋能机制
-> [[Inq-ITS]] 为教师配备了一个名为 Inq-Blotter 的仪表盘，它能实时提醒教师哪些学生在探究过程中正在遭遇困难、他们具体在哪一环节受挫，以及如何为他们提供精准帮助。迪克勒等（2021）的研究表明，在教师根据 Inq-Blotter 的警报提供针对性支持之后，学生在后续的下一个探究任务中，其所获支持的特定技能表现显著提升。（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 9]]）
+> [[Inq-ITS]] 为教师配备了一个名为 Inq-Blotter 的仪表盘，它能实时提醒教师哪些学生在探究过程中正在遭遇困难、他们具体在哪一环节受挫，以及如何为他们提供精准帮助。迪克勒等（2021）的研究表明，在教师根据 Inq-Blotter 的警报提供针对性支持之后，学生在后续的下一个探究任务中，其所获支持的特定技能表现显著提升。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
 >
-> *Inq-[[Intelligent Tutoring Systems|ITS]] provides teachers with a dashboard called Inq-Blotter, which alerts teachers as to which students are struggling during an inquiry, how they are struggling, and how to help them... Dickler, Gobert, and Sao Pedro (2021) showed that students' inquiry performance improved on their next inquiry task for the skill for which they got teacher support based on alerts using Inq-ITS and Inq-Blotter.*
+> *Inq-[[Intelligent Tutoring Systems\|ITS]] provides teachers with a dashboard called Inq-Blotter, which alerts teachers as to which students are struggling during an inquiry, how they are struggling, and how to help them... Dickler, Gobert, and Sao Pedro (2021) showed that students' inquiry performance improved on their next inquiry task for the skill for which they got teacher support based on alerts using Inq-ITS and Inq-Blotter.*
 
 ---
 
@@ -113,7 +114,7 @@ updated: 2026-09-21
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
-> - **后续独立探究任务技能的显著突破** Dickler, Gobert, & Sao Pedro (2021) 针对初中科学课堂开展的实验证实：在 Inq-Blotter 预警指导下接受教师面对面适时介入的学生，在进入**下一个完全由其独立完成的新探究任务时**，针对受辅导技能（如 [[Control of Variables Strategy|CVS]] [[Variable|变量]]控制设计）的得分显著优于未获警报干预的对照群体（$p < .05$）。（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 9]]）
+> - **后续独立探究任务技能的显著突破** Dickler, Gobert, & Sao Pedro (2021) 针对初中科学课堂开展的实验证实：在 Inq-Blotter 预警指导下接受教师面对面适时介入的学生，在进入**下一个完全由其独立完成的新探究任务时**，针对受辅导技能（如 [[Control of Variables Strategy\|CVS]] [[Variable\|变量]]控制设计）的得分显著优于未获警报干预的对照群体（$p < .05$）。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
 > - **消除隐性受挫学生的被遗忘死角** 课堂录像分析显示，在没有 Inq-Blotter 时，教师关注点往往被外向活跃或举手提问的学生吸引，超过 60% 陷入思维僵局但保持沉默的学生被忽略；使用 Inq-Blotter 后，隐性受挫学生的教师介入覆盖率提升至 90% 以上。
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-09-21
 > > - **分级过滤机制** 研发团队通过聚类算法将微观零散困难合并为“小组共性障碍”，并设置 30 秒防抖动过滤，大幅降低了无关干扰（Gobert et al., 2023）。
 
 > [!lessons] 经验教训与启示
-> - **提供[[Scaffolding|脚手架]]建议而非单纯警报** 仅告知“某学生落后”会让教师感到无助；Inq-Blotter 最具成效的设计在于同步提供“建议提问话术与原理解释要点”，使介入变得即开即用。
+> - **提供[[Scaffolding\|脚手架]]建议而非单纯警报** 仅告知“某学生落后”会让教师感到无助；Inq-Blotter 最具成效的设计在于同步提供“建议提问话术与原理解释要点”，使介入变得即开即用。
 > - **尊重教师的专业自主权** 警报只是辅助线索，教师有权根据当前课堂氛围判断是否推迟介入，保障了教学的自然流动。
 
 ---

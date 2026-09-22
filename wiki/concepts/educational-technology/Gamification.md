@@ -42,10 +42,10 @@ updated: 2026-07-08
 ## 定义
 
 > [!info]
-> Gamification（游戏化）指将游戏设计元素和游戏机制应用于非游戏情境——如教育、组织管理或家庭环境——以激发用户参与和调节行为的设计策略。Zichermann & Cunningham（2011）在 Gamification by Design 中将其定义为一种通过游戏机制使体验"可预测、可重复且具有经济回报"的手段（Zichermann & Cunningham, 2011, pp.ix–x, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.236]]）。
+> Gamification（游戏化）指将游戏设计元素和游戏机制应用于非游戏情境——如教育、组织管理或家庭环境——以激发用户参与和调节行为的设计策略。Zichermann & Cunningham（2011）在 Gamification by Design 中将其定义为一种通过游戏机制使体验"可预测、可重复且具有经济回报"的手段（Zichermann & Cunningham, 2011, pp.ix–x, cited in [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, p.236]]）。
 
 > [!quote]
-> "To further engage our audiences, we need to consider reward structures, positive reinforcement, and subtle [[Feedback]] loops alongside mechanisms such as scores, badges, levels, challenges, and leaderboards. When done well, gamification helps align our interests with the intrinsic motivations of our players, amplified with the mechanics and rewards that make them come in, bring friends, and keep coming back."（Zichermann & Cunningham, 2011, pp.ix–x, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.236]]）
+> "To further engage our audiences, we need to consider reward structures, positive reinforcement, and subtle [[Feedback]] loops alongside mechanisms such as scores, badges, levels, challenges, and leaderboards. When done well, gamification helps align our interests with the intrinsic motivations of our players, amplified with the mechanics and rewards that make them come in, bring friends, and keep coming back."（Zichermann & Cunningham, 2011, pp.ix–x, cited in [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, p.236]]）
 
 ## 核心要素
 
@@ -54,12 +54,12 @@ updated: 2026-07-08
 > - **徽章（Badges）** 视觉化的成就标记，标示用户达到特定里程碑
 > - **排行榜（Leaderboards）** 用户之间的公开排名，引入竞争机制
 > - **反馈循环（[[Feedback]] Loops）** 即时、正面为主的反馈，促使用户持续交互
-> - **等级与挑战（Levels and Challenges）** 递进式难度，维持用户的参与动力（Zichermann & Cunningham, 2011, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.236]]）
+> - **等级与挑战（Levels and Challenges）** 递进式难度，维持用户的参与动力（Zichermann & Cunningham, 2011, cited in [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, p.236]]）
 
 ## 理论基础
 
 > [!tip]-
-> Gamification 的设计逻辑根植于行为主义心理学，特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在其对拉斯维加斯老虎机的研究中指出，硅谷的产品开发者明确引用了操作条件反射理论来建构其产品的反馈和奖励机制([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.236–237]])。在这一逻辑下，学习被理解为通过正反馈（积分、星星、徽章）来调节和强化特定行为——而非通过理解和反思。
+> Gamification 的设计逻辑根植于行为主义心理学，特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在其对拉斯维加斯老虎机的研究中指出，硅谷的产品开发者明确引用了操作条件反射理论来建构其产品的反馈和奖励机制([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.236–237]])。在这一逻辑下，学习被理解为通过正反馈（积分、星星、徽章）来调节和强化特定行为——而非通过理解和反思。
 
 ## 在教育中的张力
 
@@ -71,7 +71,7 @@ updated: 2026-07-08
 积分、星星和徽章成为学生的核心关注点，课程内容退居次要。学生学到的是如何通过特定行为赚取更多积分，而非理解内容([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.236]])。Schrape（2014, p.43）将这一逻辑推到极致："如果只有行为被追踪和调节，洞察就不再相关。理性的时代最终走向终结。"
 
 > [!example]
-> 以 bettermarks 数学平台为例：任务概览页面右侧以金币和星星标示"成功"程度。金币和星星是黄色、大尺寸、醒目的——在视觉层级上远超百分比数字。学生被驱动去最大化金币和星星的数量，而非理解分数加减法背后的数学关系。一个学生可能通过反复做简单题"刷分"而获得 3 颗星，另一个尝试复杂题但出错的学生只得 2 颗星——系统奖励前者。详见 论证拆解 7b([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.242–243]])。
+> 以 bettermarks 数学平台为例：任务概览页面右侧以金币和星星标示"成功"程度。金币和星星是黄色、大尺寸、醒目的——在视觉层级上远超百分比数字。学生被驱动去最大化金币和星星的数量，而非理解分数加减法背后的数学关系。一个学生可能通过反复做简单题"刷分"而获得 3 颗星，另一个尝试复杂题但出错的学生只得 2 颗星——系统奖励前者。详见 论证拆解 7b([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.242–243]])。
 
 ### 主体层面：学生被建构为刺激-反应机器
 
@@ -90,5 +90,5 @@ Zichermann & Cunningham（2011, pp.ix–x）的设计目标——使体验"可�
 > [!example]
 > - vs [[Feedback]]（教学反馈）——教学反馈的目标是帮助学生理解错误、克服误解；Gamification 反馈的目标是维持用户交互和平台黏性。前者以内容为中心，后者以行为调节为中心。详见 [[Feedback#数字学习工具中的算法反馈]]
 > - vs [[Bildung]]——Bildung 要求时间、反思和容纳歧义的空间；Gamification 依赖即时性、确定性和连续的正反馈循环。两者在目标上根本对立
-> - vs [[Data Behaviorism|数据行为主义]]——数据行为主义是 Gamification 的深层[[Theory of Knowledge|知识论]]基础：Gamification 是数据行为主义在界面设计层面的具体实现，通过积分和徽章追踪和调节行为，不需要理解"为什么"
+> - vs [[Data Behaviorism\|数据行为主义]]——数据行为主义是 Gamification 的深层[[Theory of Knowledge\|知识论]]基础：Gamification 是数据行为主义在界面设计层面的具体实现，通过积分和徽章追踪和调节行为，不需要理解"为什么"
 

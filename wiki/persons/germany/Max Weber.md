@@ -65,11 +65,11 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 马克斯·韦伯（Max Weber，1864–1920），德国社会学家、国民经济学家与法学家，古典社会学三大奠基人之一（与卡尔·马克思、埃米尔·涂尔干并列），理解社会学（Verstehende Soziologie）与现代社会行动理论开创者。
-> - **核心角色** 在现代社会科学[[Epistemology|认识论]]中确立价值关联、[[Value Neutrality|价值中立]]与理想类型方法，提出理性化、官僚制与世界祛魅命题；为教育研究中的行动意涵、组织同构合法性与生涯价值信念分析提供核心理论[[Paradigm|范式]]。
-> - **代表贡献** 奠定诠释社会学认识论、创立社会行动与合法支配的理想类型、提出宗教伦理与资本主义精神的[[Selective Affinity|选择性亲和]]机制。
+> - **核心角色** 在现代社会科学[[Epistemology\|认识论]]中确立价值关联、[[Value Neutrality\|价值中立]]与理想类型方法，提出理性化、官僚制与世界祛魅命题；为教育研究中的行动意涵、组织同构合法性与生涯价值信念分析提供核心理论[[Paradigm\|范式]]。
+> - **代表贡献** 奠定诠释社会学认识论、创立社会行动与合法支配的理想类型、提出宗教伦理与资本主义精神的[[Selective Affinity\|选择性亲和]]机制。
 
 > [!citation-card]- 人物定位的关键来源
-> 社会学是一门科学，其意图在于对社会行动进行诠释性的理解，并从而对社会行动的过程和影响予以[[Causality|因果性]]的解释。（Weber, 1922/1956；引自 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023, p. 3]]）
+> 社会学是一门科学，其意图在于对社会行动进行诠释性的理解，并从而对社会行动的过程和影响予以[[Causality\|因果性]]的解释。（Weber, 1922/1956；引自 [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023, p. 3]]）
 >
 > *Sociology is a science concerning itself with the interpretive understanding of social action and thereby with a causal explanation of its course and consequences.*
 
@@ -104,14 +104,14 @@ updated: 2026-09-17
 > - **1889–1897 早期法律史与农业经济政策探索期** 此阶段聚焦商法史与农业制度史，探寻法律规范、土地秩序与经济行动之间的历史关联。
 >   - **代表著作** 《中世纪贸易公司史》（1889）、《罗马农业史》（1891）、《易北河以东农业工人状况》（1892）、《民族国家与国民经济政策》（1895）。
 >   - **关键概念／方法** 共同体与社会化、农业制度与理性法律、民族国家利益。
->   - **阶段转向** 从传统罗马法[[Document|文献]]考据转向国民经济学与社会政策经验调查，为后续支配社会学与资本主义研究奠基。
-> - **1904–1910 方法论突破与宗教社会学破题期** 此阶段重构社会科学[[Epistemology|认识论]]，探索现代西方文明理性化的文化伦理诱因。
+>   - **阶段转向** 从传统罗马法[[Document\|文献]]考据转向国民经济学与社会政策经验调查，为后续支配社会学与资本主义研究奠基。
+> - **1904–1910 方法论突破与宗教社会学破题期** 此阶段重构社会科学[[Epistemology\|认识论]]，探索现代西方文明理性化的文化伦理诱因。
 >   - **代表著作** 《社会科学和社会政策知识的“客观性”》（1904）、《新教伦理与资本主义精神》（1904–1905）。
->   - **关键概念／方法** 价值关联与[[Value Neutrality|价值中立]]、理想类型、[[Selective Affinity|选择性亲和]]、入世禁欲、天职伦理。
->   - **阶段转向** 超越历史学派与理论学派的方法论之争（Methodenstreit），确立诠释社会学[[Paradigm|范式]]，开创比较宗教社会学。
+>   - **关键概念／方法** 价值关联与[[Value Neutrality\|价值中立]]、理想类型、[[Selective Affinity\|选择性亲和]]、入世禁欲、天职伦理。
+>   - **阶段转向** 超越历史学派与理论学派的方法论之争（Methodenstreit），确立诠释社会学[[Paradigm\|范式]]，开创比较宗教社会学。
 > - **1911–1918 世界宗教经济伦理与比较文明拓展期** 此阶段突破欧洲中心主义，在宏观文明比较视野下检验西方理性化路径的独特机理。
 >   - **代表著作** 《世界宗教的经济伦理》（1915–1920，含《儒教与道教》《印度教与佛教》《古代犹太教》）、《宗教社会学论文集》（1920–1921）。
->   - **关键概念／方法** 救赎路径、生活方式（Lebensführung）、世界图像（Weltbilder）、西方[[Rationalism in International Relations|理性主义]]、世界的祛魅。
+>   - **关键概念／方法** 救赎路径、生活方式（Lebensführung）、世界图像（Weltbilder）、西方[[Rationalism in International Relations\|理性主义]]、世界的祛魅。
 >   - **阶段转向** 将个案命题扩展为全球比较历史社会学，探讨为何现代资本主义理性化仅在近代西方成熟发生。
 > - **1919–1920 政治伦理抉择与理解社会学体系集大成** 此阶段系统归纳社会学概念体系，回应现代人在官僚制铁笼与价值冲突中的生存境遇。
 >   - **代表著作** 《以学术为业》（1919）、《以政治为业》（1919）、《经济与社会》（1921–1922 遗著）、《普遍社会与经济史》（1923 遗著）。
@@ -175,12 +175,12 @@ updated: 2026-09-17
 - **责任伦理（Verantwortungsethik）** 要求行动者清醒预见自身行动可能引发的可预见后果，并为行动在现实政治世界中的真实代价承担伦理责任。
 
 > [!citation-card] 诠释社会学与社会行动的本质界定
-> 社会学是一门科学，其意图在于对社会行动进行诠释性的理解，并从而对社会行动的过程和影响予以[[Causality|因果性]]的解释。（Weber, 1922/1956；引自 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023, p. 3]]）
+> 社会学是一门科学，其意图在于对社会行动进行诠释性的理解，并从而对社会行动的过程和影响予以[[Causality\|因果性]]的解释。（Weber, 1922/1956；引自 [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023, p. 3]]）
 >
 > *Sociology is a science concerning itself with the interpretive understanding of social action and thereby with a causal explanation of its course and consequences.*
 
 > [!citation-card] 世界图像作为利益驱动的“扳道工”
-> 直接支配人的行为的，不是理念，而是物质的和精神的利益。可是，由“理念”所创造出来的“世界图像”，往往像铁路上的扳道工一样，决定了行动的轨道被利益推动的动力循着什么方向在行动。（Weber, 1920, GARS；引自 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]）
+> 直接支配人的行为的，不是理念，而是物质的和精神的利益。可是，由“理念”所创造出来的“世界图像”，往往像铁路上的扳道工一样，决定了行动的轨道被利益推动的动力循着什么方向在行动。（Weber, 1920, GARS；引自 [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）
 >
 > *Not ideas, but material and ideal interests, directly govern men's conduct. Yet very frequently the 'world images' that have been created by 'ideas' have, like switchmen, determined the tracks along which action has been pushed by the dynamic of interest.*
 
@@ -199,14 +199,14 @@ updated: 2026-09-17
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创理解社会学传统；深刻启发法兰克福学派对工具理性异化的批判；[[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）继承其支配合法性关照，建构[[Habitus|习性]]与[[Champ|场域]]实践理论；[[Ann Swidler|安·斯威德勒]]（[[Ann Swidler]]）以其价值观驱动模式为对照，建构[[Culture as Toolkit|文化工具箱]]理论。
-> - **方法路径** 确立理想类型、价值关联与[[Value Neutrality|价值中立]]的方法论规程，强调文化科学研究中主观意义阐释与客观因果验证的统一。
-> - **组织与政策路径** [[Tullock's Bureaucracy Theory|官僚制理论]]成为公共行政与组织社会学的奠基基石；权力与合法权威的区分为新制度主义的[[Institutional Isomorphism|制度同构]]机制提供核心分析透镜。
-> - **教育研究与文化社会学路径** 为教育社会学中的生涯决策、阶层[[Cultural Capital|文化资本]]与工作价值图式分析提供核心概念框架（如[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]）。
+> - **理论路径** 开创理解社会学传统；深刻启发法兰克福学派对工具理性异化的批判；[[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）继承其支配合法性关照，建构[[Habitus\|习性]]与[[Champ\|场域]]实践理论；[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）以其价值观驱动模式为对照，建构[[Culture as Toolkit\|文化工具箱]]理论。
+> - **方法路径** 确立理想类型、价值关联与[[Value Neutrality\|价值中立]]的方法论规程，强调文化科学研究中主观意义阐释与客观因果验证的统一。
+> - **组织与政策路径** [[Tullock's Bureaucracy Theory\|官僚制理论]]成为公共行政与组织社会学的奠基基石；权力与合法权威的区分为新制度主义的[[Institutional Isomorphism\|制度同构]]机制提供核心分析透镜。
+> - **教育研究与文化社会学路径** 为教育社会学中的生涯决策、阶层[[Cultural Capital\|文化资本]]与工作价值图式分析提供核心概念框架（如[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 以韦伯诠释社会学为全书[[Epistemology|认识论]]锚点，借助工具理性与价值理性区分拓展大学生毕业出路[[Analytic Framework|分析框架]]，援引“扳道工”假说解析阶层文化与工作意义图式。
-> - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 借助韦伯对权力与权威的经典区分，结合制度同构理论，剖析[[Corporate Education|企业教育]]如何通过外部学术权威获取合法性。
+> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 以韦伯诠释社会学为全书[[Epistemology\|认识论]]锚点，借助工具理性与价值理性区分拓展大学生毕业出路[[Analytic Framework\|分析框架]]，援引“扳道工”假说解析阶层文化与工作意义图式。
+> - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 借助韦伯对权力与权威的经典区分，结合制度同构理论，剖析[[Corporate Education\|企业教育]]如何通过外部学术权威获取合法性。
 
 ---
 
@@ -217,7 +217,7 @@ updated: 2026-09-17
 >
 > *Max Weber was the greatest thinker of our era, embodying a passionate will to clarity in an age of fragmented knowledge and moral confusion.*
 
-> [!citation-card] Hobsbawm 论社会史学中的韦伯[[Paradigm|范式]]
+> [!citation-card] Hobsbawm 论社会史学中的韦伯[[Paradigm\|范式]]
 > 霍布斯鲍姆指出，韦伯的历史社会学构想为 20 世纪社会史学提供了与历史唯物主义并驾齐驱的分析范式，特别是在揭示制度变迁的观念维度方面发挥了不可替代的奠基作用。（Kocka, 1986）
 >
 > *Weber's historical sociology created a powerful analytical tradition that profoundly shaped modern social history alongside historical materialism.*
@@ -232,9 +232,9 @@ updated: 2026-09-17
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **先驱与哲学[[Dialogue in Education|对话]]** [[Immanuel Kant|伊曼努尔·康德]]（[[Epistemology|认识论]]批判）、弗里德里希·尼采（价值重估与虚无主义批判）、卡尔·马克思（资本主义机理与历史唯物论对话）。
+> - **先驱与哲学[[Dialogue in Education\|对话]]** [[Immanuel Kant\|伊曼努尔·康德]]（[[Epistemology\|认识论]]批判）、弗里德里希·尼采（价值重估与虚无主义批判）、卡尔·马克思（资本主义机理与历史唯物论对话）。
 > - **同时代学人与合作者** 费迪南·滕尼斯（Ferdinand Tönnies）、格奥尔格·齐美尔（Georg Simmel）、维尔纳·桑巴特（Werner Sombart）、恩斯特·特勒尔奇（Ernst Troeltsch）。
-> - **理论继承与重构者** [[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）、[[Ann Swidler|安·斯威德勒]]（[[Ann Swidler]]）、卡尔·雅斯贝尔斯（Karl Jaspers）、[[Yajun Zheng|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]）。
+> - **理论继承与重构者** [[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）、[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）、卡尔·雅斯贝尔斯（Karl Jaspers）、[[Yajun Zheng\|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
 > - **学术阵地与学会机构** 《社会科学与社会政策文库》（*Archiv für Sozialwissenschaft und Sozialpolitik*）、德国社会学学会（DGS）、海德堡学术沙龙。
 
 ---
@@ -247,7 +247,7 @@ updated: 2026-09-17
 > > 围绕《新教伦理与资本主义精神》中宗教伦理与资本主义发生的因果有效性存在长期争论。
 > >
 > > - **Steinert（2010）** 指出韦伯将命题构建为在方法上难以经验反驳的封闭系统。
-> > - **经济史学界** 论证资本主义理性经营与复式记账法在中世纪天主教意大利城邦早已存在，质疑入世禁欲为资本主义起源[[Necessary and Sufficient Conditions|充分条件]]的假说。
+> > - **经济史学界** 论证资本主义理性经营与复式记账法在中世纪天主教意大利城邦早已存在，质疑入世禁欲为资本主义起源[[Necessary and Sufficient Conditions\|充分条件]]的假说。
 >
 > > [!axis] 民族国家政治立场与自由帝国主义批判
 > > 围绕早期韦伯的政治言论与其普世社会学体系之间的张力展开批评。

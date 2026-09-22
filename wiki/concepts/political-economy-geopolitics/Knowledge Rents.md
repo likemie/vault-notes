@@ -47,24 +47,24 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 知识租金（Knowledge Rents）是 Drahos & Braithwaite（2002）在 Information Feudalism: Who Owns the Knowledge Economy? 中提出的概念，指通过知识产权制度和学术评估体系，从本应属于公共品的知识中持续提取超额经济回报的机制。与市场经济中通过创新和效率获得的"利润"不同，租金是通过**控制知识的获得条件和价值定义**，而非通过知识的实际生产，获得的收益([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])。
+> 知识租金（Knowledge Rents）是 Drahos & Braithwaite（2002）在 Information Feudalism: Who Owns the Knowledge Economy? 中提出的概念，指通过知识产权制度和学术评估体系，从本应属于公共品的知识中持续提取超额经济回报的机制。与市场经济中通过创新和效率获得的"利润"不同，租金是通过**控制知识的获得条件和价值定义**，而非通过知识的实际生产，获得的收益([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.799]])。
 
 在 Schulze-Cleven et al.（2017）对高等教育新政治经济学的分析中，知识租金的概念被用于揭示当代学术等级的一个核心经济机制：精英机构不仅拥有更多的[[Knowledge Production|知识生产]]资源，更通过控制学术评价标准和知识产权制度，持续地从整个学术系统的知识产出中提取超额回报（pp.798–799）。
 
 > [!quote]
-> 高等教育部门更广泛的"封建"功能包括"准国家化的（企业和学术）权力中心网络（Mathies & Slaughter, 2013）、种姓式的不平等再生产（Rivera, 2015）、以及知识租金的经济（Drahos & Braithwaite, 2002）"。([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
+> 高等教育部门更广泛的"封建"功能包括"准国家化的（企业和学术）权力中心网络（Mathies & Slaughter, 2013）、种姓式的不平等再生产（Rivera, 2015）、以及知识租金的经济（Drahos & Braithwaite, 2002）"。([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.799]])
 
 ## 概念辨析
 
 > [!example]
 > - vs 市场利润：利润来自效率，在市场竞争中以更低的成本或更好的产品赢得消费者。租金来自**控制的地位**，因为控制了某种稀缺资源（土地、专利、评价标准、准入资格）而获得的收入，独立于生产的效率或质量。
 > - vs [[Academic Capitalism]]：学术资本主义描述高等教育如何被市场逻辑渗透；知识租金则解释这一渗透中的**核心经济逻辑**，不是"市场"在运作，而是**垄断**在运作。精英大学不是通过提供更便宜、更好的教育来赢得生源（市场竞争逻辑），而是通过控制入学标准、排名体系、期刊编辑权和学术网络来获取超额回报（租金逻辑）。
-> - vs [[Fictitious Commodity of Knowledge|知识的虚拟商品]]性：虚拟商品性解释了知识**为什么**不能被完全商品化（[[Ontology|本体论]]层面）；知识租金解释了在知识不能完全商品化的条件下，精英机构**如何**仍然从中提取超额价值（经济学层面）。两者互补。
+> - vs [[Fictitious Commodity of Knowledge\|知识的虚拟商品]]性：虚拟商品性解释了知识**为什么**不能被完全商品化（[[Ontology\|本体论]]层面）；知识租金解释了在知识不能完全商品化的条件下，精英机构**如何**仍然从中提取超额价值（经济学层面）。两者互补。
 
 ## 知识租金的提取机制
 
 > [!abstract]
-> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.798–799, 801–805)]]揭示了学术[[Champ|场域]]中知识租金的多重提取机制：
+> [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp.798–799, 801–805)]]揭示了学术[[Champ\|场域]]中知识租金的多重提取机制：
 
 ### 知识产权租金
 
@@ -88,10 +88,10 @@ updated: 2026-06-01
 ## 与新封建主义的关系
 
 > [!note]-
-> 知识租金的概念直接支持了 [[Neo-feudalism in Higher Education|高等教育新封建主义]] 的分析视角。封建经济中，领主通过控制土地（生存的基础资源）来获取农民的剩余劳动，而非通过市场交换。在[[Knowledge-Based Economy|知识经济]]中，精英大学通过控制知识（创新经济的基础资源）的获得条件和价值定义来获取超额回报，而非通过市场竞争。
+> 知识租金的概念直接支持了 [[Neo-feudalism in Higher Education\|高等教育新封建主义]] 的分析视角。封建经济中，领主通过控制土地（生存的基础资源）来获取农民的剩余劳动，而非通过市场交换。在[[Knowledge-Based Economy\|知识经济]]中，精英大学通过控制知识（创新经济的基础资源）的获得条件和价值定义来获取超额回报，而非通过市场竞争。
 >
 > 这一类比的核心：
 > - **封建土地 ≈ 知识产权和评价标准** 控制基础资源的所有权和使用权
 > - **封建地租 ≈ 知识租金** 从资源控制中获得的超额回报，而非从生产效率中获得的竞争性利润
-> - **封建等级 ≈ [[Academic Oligarchy|学术寡头]]** 租金提取能力集中在少数机构，形成了自我再生产的等级秩序
+> - **封建等级 ≈ [[Academic Oligarchy\|学术寡头]]** 租金提取能力集中在少数机构，形成了自我再生产的等级秩序
 

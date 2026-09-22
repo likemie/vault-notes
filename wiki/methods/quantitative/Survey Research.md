@@ -109,12 +109,12 @@ updated: 2026-09-14
 ## 定义
 
 > [!info]
-> 调查研究（Survey Research）是一种[[Quantitative Research|量化研究]]设计，通过研究一个总体中的样本，提供关于该总体的趋势、态度或意见的量化或数值描述（Fowler, 2008）。调查是[[Quantitative Research|量化研究]]中最常用的设计类型之一，包括使用[[Questionnaire|问卷]]或结构化访谈进行数据收集，目的是从样本推广到总体。
+> 调查研究（Survey Research）是一种[[Quantitative Research\|量化研究]]设计，通过研究一个总体中的样本，提供关于该总体的趋势、态度或意见的量化或数值描述（Fowler, 2008）。调查是[[Quantitative Research\|量化研究]]中最常用的设计类型之一，包括使用[[Questionnaire\|问卷]]或结构化访谈进行数据收集，目的是从样本推广到总体。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体、群体、机构的态度、意见、行为、经历、事实信息和偏好，包括过去和现在的状态。
-> - **问题类型** 描述、比较、分类、相关分析和解释；可分为探索性（exploratory，不预设模型，通过相关、回归、因子分析探索关系和模式）和验证性（confirmatory，检验模型、[[Causality|因果关系]]或[[Hypothesis|假设]]）。
-> - **[[Unit of Analysis|分析单位]]** 个体、课堂、学校、地区、国家或特定群体。
+> - **问题类型** 描述、比较、分类、相关分析和解释；可分为探索性（exploratory，不预设模型，通过相关、回归、因子分析探索关系和模式）和验证性（confirmatory，检验模型、[[Causality\|因果关系]]或[[Hypothesis\|假设]]）。
+> - **[[Unit of Analysis\|分析单位]]** 个体、课堂、学校、地区、国家或特定群体。
 > - **输出形式** 频数、比例、均值、相关、回归系数、组间差异、趋势和泛化结论。
 
 调查通常具有以下特征（Morrison, 1993, pp. 38–40）：一次性收集数据因而经济高效；代表广泛的[[Study Population and Sample|目标总体]]；产生数值数据；提供描述性、推断性和解释性信息；操纵关键因素和[[Variable|变量]]以得出频数；使用标准化工具收集信息；确定变量间的相关性；呈现不受特定情境因素干扰的材料；支持或反驳关于目标总体的假设；通过试测（piloting）和修订生成准确工具；对关注对象做出泛化并观察其回应模式；数据可进行统计处理；通常依赖从广泛总体中大规模收集数据以实现泛化。
@@ -129,36 +129,36 @@ updated: 2026-09-14
 ### 调查设计
 
 > [!info]
-> - **调查目的** 回答关于[[Variable|变量]]间关系的[[Research Question|研究问题]]，如"加班时数是否预测急诊护士的倦怠症状"。
+> - **调查目的** 回答关于[[Variable\|变量]]间关系的[[Research Question\|研究问题]]，如"加班时数是否预测急诊护士的倦怠症状"。
 > - **使用调查方法的理由** 认可调查设计的优势（经济性、数据回收迅速），并说明为何其他设计（如实验）不可行或不合理。
-> - **调查类型** [[Cross-sectional Study|横截面研究]]（cross-sectional）在单一时间点收集数据；[[Longitudinal Study|纵向研究]]（longitudinal）在多个时间点收集数据。
-> - **数据收集形式** 邮寄、电话、互联网、个人访谈或团体施测（Fowler, 2014; Fink, 2016; Krueger & Casey, 2014）。[[Internet-based Survey|互联网调查]]工具（如 Qualtrics、Survey Monkey）和在线受试者平台（如 Amazon Mechanical Turk、Prolific）近年来增长显著（Buhrmester et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **调查类型** [[Cross-sectional Study\|横截面研究]]（cross-sectional）在单一时间点收集数据；[[Longitudinal Study\|纵向研究]]（longitudinal）在多个时间点收集数据。
+> - **数据收集形式** 邮寄、电话、互联网、个人访谈或团体施测（Fowler, 2014; Fink, 2016; Krueger & Casey, 2014）。[[Internet-based Survey\|互联网调查]]工具（如 Qualtrics、Survey Monkey）和在线受试者平台（如 Amazon Mechanical Turk、Prolific）近年来增长显著（Buhrmester et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ### 总体与样本
 
 > [!abstract]
-> - **研究总体（[[Study Population and Sample|study population]]）** 研究者希望做出推论的全部人群。
+> - **研究总体（[[Study Population and Sample\|study population]]）** 研究者希望做出推论的全部人群。
 > - **研究样本（Study Sample）** 调查中实际检验的受试者子集。
-> - **抽样设计（Sampling Design）** 单[[Stage Sampling|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／[[Cluster Sampling|整群抽样]]（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
-> - **抽样类型**[[Random Sampling|随机抽样]]（每人均等概率被选中）、[[Systematic Sampling|系统抽样]]（随机起点后每隔 X 人选取）或非概率／[[Convenience Sampling|便利抽样]]（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **抽样设计（Sampling Design）** 单[[Stage Sampling\|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／[[Cluster Sampling\|整群抽样]]（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **抽样类型**[[Random Sampling\|随机抽样]]（每人均等概率被选中）、[[Systematic Sampling\|系统抽样]]（随机起点后每隔 X 人选取）或非概率／[[Convenience Sampling\|便利抽样]]（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 > - **分层（Stratification）** 在抽样前按特定特征（如性别、收入、教育）分层，确保样本反映总体在各特征上的真实比例（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
-> - **[[Sample Size Determination|样本量确定]]与功效分析** 样本量应基于分析计划和预期结果确定，而非简单取总体一定比例或基于过去研究的惯例。若分析计划涉及检测变量间显著关联，可使用功效分析（如 G*Power; Faul et al., 2007, 2009）估算目标样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **[[Sample Size Determination\|样本量确定]]与功效分析** 样本量应基于分析计划和预期结果确定，而非简单取总体一定比例或基于过去研究的惯例。若分析计划涉及检测变量间显著关联，可使用功效分析（如 G*Power; Faul et al., 2007, 2009）估算目标样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ### 工具
 
 > [!info]
-> - **工具与测量** 工具（instrument）是收集变量测量值的设备（如温度计之于体温，[[Questionnaire|问卷]]之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
-> - **工具的效度** 报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity|构念效度]]（工具是否准确测量目标[[Construct|构念]]）和效标／[[Concurrent Validity|同时效度]]（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
-> - **工具的[[Reliability|信度]]** 报告分数的[[Internal Consistency|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 [[Cronbach's Alpha|Cronbach's α]] 值量化（范围 0–1，最佳值.7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α =.84–.86。[[Test-Retest Reliability|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（, Ch8）。
-> - **[[Inter-Rater Reliability|评分者间信度]]（Inter-Rater Reliability）** 当多位评判者或专家使用同一工具评分时，需要评估独立评分者之间的一致性程度。
-> - **工具内容** 包括[[Covering Letter|封面信]]（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。
-> - **[[Pilot Testing|试点测试]]（Pilot Testing）** 评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时[[Evaluation Research|评估研究]]耗时和受试者疲劳风险。说明测试人数和修改计划（, Ch8）。
+> - **工具与测量** 工具（instrument）是收集变量测量值的设备（如温度计之于体温，[[Questionnaire\|问卷]]之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
+> - **工具的效度** 报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity\|构念效度]]（工具是否准确测量目标[[Construct\|构念]]）和效标／[[Concurrent Validity\|同时效度]]（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
+> - **工具的[[Reliability\|信度]]** 报告分数的[[Internal Consistency\|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 [[Cronbach's Alpha\|Cronbach's α]] 值量化（范围 0–1，最佳值.7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α =.84–.86。[[Test-Retest Reliability\|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（, Ch8）。
+> - **[[Inter-Rater Reliability\|评分者间信度]]（Inter-Rater Reliability）** 当多位评判者或专家使用同一工具评分时，需要评估独立评分者之间的一致性程度。
+> - **工具内容** 包括[[Covering Letter\|封面信]]（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。
+> - **[[Pilot Testing\|试点测试]]（Pilot Testing）** 评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时[[Evaluation Research\|评估研究]]耗时和受试者疲劳风险。说明测试人数和修改计划（, Ch8）。
 > - **调查施测** 邮寄调查可采用四阶段施测流程（Salant & Dillman, 1994; Dillman, 2007）：（1）提前通知信 →（2）约 1 周后邮寄实际问卷 →（3）4–8 天后邮寄明信片跟进 →（4）3 周后向未回应者邮寄个性化封面信和问卷。整个施测期约 4 周。
 
 ### 变量
 
 > [!info]
-> 在方法部分直接陈述[[Variable|变量]]名称、[[Definition of Terms|操作性定义]]和测量工具。一种有效技术是创建变量—定义—工具项目对照表，尤其适用于变量较多的调查。若变量来自先前验证过的调查工具，应引用原始来源[[Document|文献]]。
+> 在方法部分直接陈述[[Variable\|变量]]名称、[[Definition of Terms\|操作性定义]]和测量工具。一种有效技术是创建变量—定义—工具项目对照表，尤其适用于变量较多的调查。若变量来自先前验证过的调查工具，应引用原始来源[[Document\|文献]]。
 >
 > > [!example] 表8.2：变量、定义及其对应的调查题项（Variables, Definitions, and Their Corresponding Items on a Survey）
 > >
@@ -175,7 +175,7 @@ updated: 2026-09-14
 ### 数据分析
 
 > [!example]
-> 数据分析的序列步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
+> 数据分析的序列步骤（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 1. 报告样本中回应和未回应的人数与百分比。
 2. 检查[[Response Bias|回应偏差]]（response bias）——未回应者若回应是否会显著改变结果。方法包括波次分析（wave analysis，逐周比较回应变化；Leslie, 1972）或回应者／非回应者对比（电话联系少数非回应者比较差异）（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
@@ -187,10 +187,10 @@ updated: 2026-09-14
 ### 预注册与研究结果解释
 
 > [!note]-
-> 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中**[[Preregistration|预注册]]（Preregistration）**研究计划和假设，以提高[[Quantitative Research|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 NIH 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
+> 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中**[[Preregistration\|预注册]]（Preregistration）**研究计划和假设，以提高[[Quantitative Research\|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 NIH 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
 
 > [!info]
-> 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance|统计显著性]]检验、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]）；将主要发现置于先前研究的语境中讨论；承认实践和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance\|统计显著性]]检验、[[Confidence Interval\|置信区间]]和[[Effect Size\|效应量]]）；将主要发现置于先前研究的语境中讨论；承认实践和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ### 调查方法计划检查清单
 
@@ -205,20 +205,20 @@ updated: 2026-09-14
 > - 是否提及总体及其规模？
 > - 总体是否会分层？如果是，如何分层？
 > - 样本中将有多少人？选择该样本量的依据是什么？
-> - 抽样程序是什么（随机、非随机、[[Convenience Sampling|便利抽样]]）？
+> - 抽样程序是什么（随机、非随机、[[Convenience Sampling\|便利抽样]]）？
 >
 > **工具**
 > - 调查中将使用哪些工具？对每项工具描述：开发者、条目数量、分数是否具有可接受的信度和效度、量表锚点。
 >   - (a) 开发该工具的来源出版物和引用是什么？
 >   - (b) 工具包含多少条目？量表范围（如 Likert 1–5）和量表锚点（如"一点也不"到"非常多"）是什么？
->   - (c) 工具是否具有可接受的效度（构念效度和[[Criterion-related Validity|效标效度]]）和信度（内部一致性）？
+>   - (c) 工具是否具有可接受的效度（构念效度和[[Criterion-related Validity\|效标效度]]）和信度（内部一致性）？
 >   - (d) 工具如何计分并转化为变量？
 >   - (e) 变量将如何用于检验研究问题？
 > - 将使用什么程序进行试点测试或实地测试？
 > - 调查施测的时间线是什么？
 >
 > **伦理与数据分析**
-> - 保护参与者的伦理考量是什么？将采取什么步骤获得 [[Institutional Review Board|IRB]] 批准？
+> - 保护参与者的伦理考量是什么？将采取什么步骤获得 [[Institutional Review Board\|IRB]] 批准？
 > - 数据分析中将采取哪些具体步骤：(a) 分析回收率？(b) 检查回应偏差？(c) 进行描述性分析？(d) 将条目合并为量表？(e) 检查量表信度和效度？(f) 运行推断统计以回答研究问题或评估结果的实际意义？
 > - 结果将如何解释？
 >
@@ -235,8 +235,8 @@ Rosier（1997, pp. 154–162）进一步细化了规划内容，涵盖：明确�
 
 > [!proc] 调查规划 14 阶段流程
 > 1. 界定目标
-> 2. 决定所需调查类型（纵向、横截面、[[Trend Study|趋势研究]]、[[Cohort Study|队列研究]]）
-> 3. 制定研究问题或假设：[[Null Hypothesis|零假设]]与[[Alternative Hypothesis|备择假设]]
+> 2. 决定所需调查类型（纵向、横截面、[[Trend Study\|趋势研究]]、[[Cohort Study\|队列研究]]）
+> 3. 制定研究问题或假设：[[Null Hypothesis\|零假设]]与[[Alternative Hypothesis\|备择假设]]
 > 4. 确定聚焦议题
 > 5. 确定解决议题所需信息
 > 6. 确定所需抽样
@@ -276,7 +276,7 @@ Fowler（2009, p. 15）指出，受访者给出的答案是真实回答加上回
 选择哪种方法取决于分析目的、涉及的变量、数据类型、缺失数据模式以及插补方法假设的适用性（p.265）。
 
 > [!warning] 插补均值假设的风险
-> 对于[[Heterogeneity|异质性]]总体或样本，或总体变异未知的情况，假设同质性并据此推断缺失数据可能扭曲结果。在 200 名参与者的样本中，若 90% 回复了一道是否题，10% 无回应者的真实倾向可能完全改变结论方向（p.266，表 13.1）。
+> 对于[[Heterogeneity\|异质性]]总体或样本，或总体变异未知的情况，假设同质性并据此推断缺失数据可能扭曲结果。在 200 名参与者的样本中，若 90% 回复了一道是否题，10% 无回应者的真实倾向可能完全改变结论方向（p.266，表 13.1）。
 
 提高邮寄调查回应率的方法包括（Aldridge & Levine, 2001; Fowler, 2009, p. 56）：跟进与礼貌提醒（邮寄、电子邮件、电话）；提前通知调查；预付邮资的回邮信封；机构背书或高地位机构的支持；经济激励；使调查易于阅读和完成；明确说明回答和回邮方式；避免开放式问题（除非确实重要）；使调查外观有吸引力；亲自递送问卷而非邮寄；确保问题和题项非评判性；保证保密性和匿名性。
 
@@ -299,40 +299,40 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 ## 方法变体
 
 > [!tip]-
-> - **[[Cross-sectional Study|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Correlational Research|相关性研究]]问题，但难以建立[[Causality|因果关系]]。
-> - **[[Longitudinal Study|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临[[Attrition|样本流失]]（attrition）和控制效应（control effect）等问题。
-> - **[[Cohort Study|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国[[Document|文献]]中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。
-> - **[[Trend Study|趋势研究]]（Trend Study）** 关注因素而非人群，在不同时间点抽取不同样本但聚焦相同因素，避免了[[Pre-test Sensitisation|预试敏感化]]（pre-test sensitisation）问题。
-> - **[[Internet-based Survey|互联网调查]]** 通过互联网进行数据收集，成本低、速度快，可触及广泛人群，但面临抽样偏差和低回应率等挑战。
-> - vs [[Experimental Research|实验研究]] — 调查收集的是自然状态下的数据，不涉及处理操纵，因而不适用于直接的[[Causality|因果推断]]。
+> - **[[Cross-sectional Study\|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Correlational Research\|相关性研究]]问题，但难以建立[[Causality\|因果关系]]。
+> - **[[Longitudinal Study\|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临[[Attrition\|样本流失]]（attrition）和控制效应（control effect）等问题。
+> - **[[Cohort Study\|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国[[Document\|文献]]中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。
+> - **[[Trend Study\|趋势研究]]（Trend Study）** 关注因素而非人群，在不同时间点抽取不同样本但聚焦相同因素，避免了[[Pre-test Sensitisation\|预试敏感化]]（pre-test sensitisation）问题。
+> - **[[Internet-based Survey\|互联网调查]]** 通过互联网进行数据收集，成本低、速度快，可触及广泛人群，但面临抽样偏差和低回应率等挑战。
+> - vs [[Experimental Research\|实验研究]] — 调查收集的是自然状态下的数据，不涉及处理操纵，因而不适用于直接的[[Causality\|因果推断]]。
 
 ## 适用场景
 
 > [!success]
 > - 需要了解某一总体的态度、意见、行为趋势或特征分布时。
-> - 适合描述性和[[Correlational Research|相关性研究]]问题。
+> - 适合描述性和[[Correlational Research\|相关性研究]]问题。
 > - 横截面设计适合在单一时间点进行快照式描述，纵向设计适合追踪变化趋势。
-> - 探索性调查适合在没有预设模型的情况下探索关系和模式；验证性调查适合检验模型、[[Causality|因果关系]]或[[Hypothesis|假设]]（p.259）。
+> - 探索性调查适合在没有预设模型的情况下探索关系和模式；验证性调查适合检验模型、[[Causality\|因果关系]]或[[Hypothesis\|假设]]（p.259）。
 > - 调查也适用于收集事实信息、态度与偏好、信念与预测、意见、行为与经验——包括过去和现在的（Weisberg et al., 1996; Aldridge & Levine, 2001）。
 
 ## 局限性
 
 > [!warning]
-> - 调查结果受限于[[Questionnaire|问卷]]设计和抽样质量；低回复率可能导致无答复偏差。
+> - 调查结果受限于[[Questionnaire\|问卷]]设计和抽样质量；低回复率可能导致无答复偏差。
 > - 自我报告数据可能受社会期望偏差影响。
-> - 横截面设计难以建立[[Causality|因果关系]]。
-> - 如果研究者关注捕捉地方性、制度性或小规模因素和[[Variable|变量]]——描绘情境的特殊性、独特性和复杂性、人际动态，以及解释为何某种情境发生或某人为何表现出特定行为——则调查方法可能并不适合。其解释潜力和细节精细度有限，它会牺牲在不受时间、空间或地方情境影响的概括性泛化中（p.259）。
+> - 横截面设计难以建立[[Causality\|因果关系]]。
+> - 如果研究者关注捕捉地方性、制度性或小规模因素和[[Variable\|变量]]——描绘情境的特殊性、独特性和复杂性、人际动态，以及解释为何某种情境发生或某人为何表现出特定行为——则调查方法可能并不适合。其解释潜力和细节精细度有限，它会牺牲在不受时间、空间或地方情境影响的概括性泛化中（p.259）。
 > - 个体实例被牺牲在聚合回应中（这对受访者具有匿名性、不可追踪性和保密性的吸引力）（p.259）。
-> - 横截面设计难以建立[[Causality|因果关系]]。
+> - 横截面设计难以建立[[Causality\|因果关系]]。
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国代表性成年抽样 $N = 5,281$）及科研人员参与[[Questionnaire|问卷调查]]的大样本定量数据，全面评估数字智能环境下公众科学信息获取渠道、真实性信任度以及学术共同体开展公众参与面临的体制性阻碍；并在[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|第五章]]中委托 YouGov 对 108 名英国国会议员（MPs）开展专属问卷调查，定量揭示立法决策者在科学信源选择上的偏误结构（55% 依赖智库 vs 仅 22% 依赖[[Parliamentary Office of Science and Technology|议会科学技术办公室]]），并测度公众对科学政策民主咨询的强烈诉求。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 在第六章中系统利用 Technopolis 受托执行的《影响英国科研人员公众参与的因素调查 2025》（Factors Affecting Public Engagement by UK Researchers 2025），通过与 2006 年及 2015 年前序调查的重复横截面大样本比较，定量揭示科研人员参与覆盖率（85%）与道德认同（83%）的高涨趋势，以及时间压力激增（75%）与高校职称考评激励匮乏（仅 25% 认为有助于晋升）构成的核心制度瓶颈。
-> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 25–27)]] — 在[[OECD|经合组织]]（OECD）旗舰著作第一章中，介绍“[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]”实施的跨国标准化政策调查（涵盖 29 国 37 个教育系统教育部）与 6 国跟进[[In-depth Interview|深度访谈]]，系统映射各国教育行政决策中教育研究生产、中介促成与实践转化的制度全景，诊断时间匮乏、格式不便与学术考评体制激励错位等结构性壁垒。
-> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 75–102)]] — 在 OECD 编著第四章中，系统运用跨国政策调查（覆盖 29 国 37 个教育系统教育部）的标准化定量数据（5 点与 6 点[[Likert Scale|李克特量表]]测度），对 17 类组织行动者在研究生产与政策/实践促成维度的活跃度、教育部人际与组织网络规模与强度、[[Embedded Researcher|嵌入式研究者]]等专业角色分布、研究生产周期的各阶段介入、内在与外在激励机制，以及政策制定者人际互动的交易型特征展开全方位量化剖析与跨国比较。
-> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022, pp. 103–124)]] — 在 OECD 编著第五章中，基于经合组织 29 国 37 个教育系统教育部的标准化政策调查问卷与 6 国跟进访谈数据，定量测度与跨国比较促进教育[[Research Utilization|研究利用]]的 11 类机制、13 类阻碍障壁的发生率与优先级排序，揭示机制数量与障壁感知的非对称错配，以及教育研究生产协调机制的制度化短板。
-> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022, pp. 182–199)]] — 在经合组织（OECD）编著第九章中，基于[[Monash Q Project|莫纳什 Q 项目]]对澳大利亚 4 个州（新南威尔士、维多利亚、昆士兰、南澳）906 名教育工作者开展的两轮大规模问卷调查（Survey 1 探索实践中的研究认知与使用，$N = 492$；Survey 2 调查研究使用的促成与阻碍因素，$N = 414$），运用 SPSS 进行[[Descriptive Analysis|描述统计]]与 Fisher 精确检验，定量揭示教师研究质量判断信心、校内外专业学习支持、受保障的研究研讨时间与一线常规研究使用之间的显著正向关联。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 综合运用[[Public Attitudes to Science\|英国公众对科学态度调查]]（PAS 2025，全国代表性成年抽样 $N = 5,281$）及科研人员参与[[Questionnaire\|问卷调查]]的大样本定量数据，全面评估数字智能环境下公众科学信息获取渠道、真实性信任度以及学术共同体开展公众参与面临的体制性阻碍；并在[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|第五章]]中委托 YouGov 对 108 名英国国会议员（MPs）开展专属问卷调查，定量揭示立法决策者在科学信源选择上的偏误结构（55% 依赖智库 vs 仅 22% 依赖[[Parliamentary Office of Science and Technology\|议会科学技术办公室]]），并测度公众对科学政策民主咨询的强烈诉求。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 在第六章中系统利用 Technopolis 受托执行的《影响英国科研人员公众参与的因素调查 2025》（Factors Affecting Public Engagement by UK Researchers 2025），通过与 2006 年及 2015 年前序调查的重复横截面大样本比较，定量揭示科研人员参与覆盖率（85%）与道德认同（83%）的高涨趋势，以及时间压力激增（75%）与高校职称考评激励匮乏（仅 25% 认为有助于晋升）构成的核心制度瓶颈。
+> - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 25–27)]] — 在[[OECD\|经合组织]]（OECD）旗舰著作第一章中，介绍“[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]”实施的跨国标准化政策调查（涵盖 29 国 37 个教育系统教育部）与 6 国跟进[[In-depth Interview\|深度访谈]]，系统映射各国教育行政决策中教育研究生产、中介促成与实践转化的制度全景，诊断时间匮乏、格式不便与学术考评体制激励错位等结构性壁垒。
+> - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 75–102)]] — 在 OECD 编著第四章中，系统运用跨国政策调查（覆盖 29 国 37 个教育系统教育部）的标准化定量数据（5 点与 6 点[[Likert Scale\|李克特量表]]测度），对 17 类组织行动者在研究生产与政策/实践促成维度的活跃度、教育部人际与组织网络规模与强度、[[Embedded Researcher\|嵌入式研究者]]等专业角色分布、研究生产周期的各阶段介入、内在与外在激励机制，以及政策制定者人际互动的交易型特征展开全方位量化剖析与跨国比较。
+> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022, pp. 103–124)]] — 在 OECD 编著第五章中，基于经合组织 29 国 37 个教育系统教育部的标准化政策调查问卷与 6 国跟进访谈数据，定量测度与跨国比较促进教育[[Research Utilization\|研究利用]]的 11 类机制、13 类阻碍障壁的发生率与优先级排序，揭示机制数量与障壁感知的非对称错配，以及教育研究生产协调机制的制度化短板。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022, pp. 182–199)]] — 在经合组织（OECD）编著第九章中，基于[[Monash Q Project\|莫纳什 Q 项目]]对澳大利亚 4 个州（新南威尔士、维多利亚、昆士兰、南澳）906 名教育工作者开展的两轮大规模问卷调查（Survey 1 探索实践中的研究认知与使用，$N = 492$；Survey 2 调查研究使用的促成与阻碍因素，$N = 414$），运用 SPSS 进行[[Descriptive Analysis\|描述统计]]与 Fisher 精确检验，定量揭示教师研究质量判断信心、校内外专业学习支持、受保障的研究研讨时间与一线常规研究使用之间的显著正向关联。

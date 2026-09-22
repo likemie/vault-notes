@@ -35,12 +35,12 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、[[Quantitative Research|定量研究]]方法、"什么有效"议程的批判性评估。
+> - **身份位置** 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、[[Quantitative Research\|定量研究]]方法、"什么有效"议程的批判性评估。
 
 ## 核心思想
 
 > [!info] 核心思想
-> 关注教育研究中定量方法的适用性和局限性，参与"什么有效"议程的方法论批判讨论([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])。
+> 关注教育研究中定量方法的适用性和局限性，参与"什么有效"议程的方法论批判讨论([[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]])。
 
 ## 主要贡献
 
@@ -50,7 +50,7 @@ updated: 2026-09-11
 ## 主要著作
 
 > [!abstract] 主要著作
-> - [[Maria Pampaka|Pampaka, M.]], [[Julian Williams|Williams, J.]], & Homer, M. (Eds.) (2016). Is the educational 'what works' agenda working? Critical methodological developments [Special issue]. *International Journal of Research & Method in Education*, 39(3).
+> - [[Maria Pampaka\|Pampaka, M.]], [[Julian Williams\|Williams, J.]], & Homer, M. (Eds.) (2016). Is the educational 'what works' agenda working? Critical methodological developments [Special issue]. *International Journal of Research & Method in Education*, 39(3).
 
 ## 思想发展与影响
 

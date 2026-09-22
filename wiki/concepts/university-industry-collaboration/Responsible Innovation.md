@@ -35,7 +35,7 @@ updated: 2026-06-10
 ## 定义
 
 > [!info] 核心定义
-> 负责任创新是一种集体的（collective）、参与性的（participative）、包容受创新影响的不同利益相关者（stakeholders）的创新方式。它力图管理创新的风险和不确定性，在技术开发过程中就前瞻性地识别和应对伦理问题，而非等工具开发完成后再做补救。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 29-30)]]
+> 负责任创新是一种集体的（collective）、参与性的（participative）、包容受创新影响的不同利益相关者（stakeholders）的创新方式。它力图管理创新的风险和不确定性，在技术开发过程中就前瞻性地识别和应对伦理问题，而非等工具开发完成后再做补救。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 29-30)]]
 
 在 AI 和大数据语境下，负责任创新意味着：将来自不同学科的研究者（技术专家、社会科学家和伦理学家）、政府机构和监管者、公众及其他利益相关者聚集在一起，在研究和开发过程中共同预测关键伦理问题，并开发处理这些问题的系统。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 29-30)]]
 
@@ -55,7 +55,7 @@ updated: 2026-06-10
 ## 应用案例
 
 > [!info] AI 决策中的负责任创新
-> AI 驱动的决策工具在医疗保健和保险行业已开始部署，这些早期采用者提供了负责任创新的关键学习机会。峰会强调大学通过[[University-Industry Collaboration|产学合作]]应当在开发包含伦理考虑的 AI 负责任创新方法方面走在前列。所有领域的研究者都应考虑和反思其研究的目的、动机和后果。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 29-30)]]
+> AI 驱动的决策工具在医疗保健和保险行业已开始部署，这些早期采用者提供了负责任创新的关键学习机会。峰会强调大学通过[[University-Industry Collaboration\|产学合作]]应当在开发包含伦理考虑的 AI 负责任创新方法方面走在前列。所有领域的研究者都应考虑和反思其研究的目的、动机和后果。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 29-30)]]
 
 ---
 ## 相关概念／理论

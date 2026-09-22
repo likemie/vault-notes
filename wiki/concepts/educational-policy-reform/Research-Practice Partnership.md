@@ -101,25 +101,25 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 研究-实践伙伴关系（Research-Practice Partnership, RPP）指研究者与实践组织（学校、学区、教育行政部门）之间长期、互惠的制度化协作安排：双方围绕一线真实面临的持久挑战，共同界定[[Research Question|研究问题]]、协同开展[[Knowledge Production|知识生产]]并情境化推进研究成果转化运用，旨在从[[Epistemology|认识论]]与制度根源上弥合[[Research-Practice Gap|研究-实践鸿沟]]并驱动全系统[[Knowledge Mobilisation|知识动员]]。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–132)]]；[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 19–22)]]
+> 研究-实践伙伴关系（Research-Practice Partnership, RPP）指研究者与实践组织（学校、学区、教育行政部门）之间长期、互惠的制度化协作安排：双方围绕一线真实面临的持久挑战，共同界定[[Research Question\|研究问题]]、协同开展[[Knowledge Production\|知识生产]]并情境化推进研究成果转化运用，旨在从[[Epistemology\|认识论]]与制度根源上弥合[[Research-Practice Gap\|研究-实践鸿沟]]并驱动全系统[[Knowledge Mobilisation\|知识动员]]。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–132)]]；[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 19–22)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注研究生产方（大学、研究机构）与使用方（学校、学区、政策制定者）之间的制度化协作关系，强调长期性、互惠性与问题共构。
-> - **用途** 克服单向线性知识传递（Push）带来的实践脱节，揭示[[Knowledge Co-production|知识共创]]中理论严谨性与现场关涉度的张力，为测量研究影响的中间成果提供分析对象。
+> - **用途** 克服单向线性知识传递（Push）带来的实践脱节，揭示[[Knowledge Co-production\|知识共创]]中理论严谨性与现场关涉度的张力，为测量研究影响的中间成果提供分析对象。
 > - **边界** RPP 是知识动员的关系型与生态型载体，不等于知识动员整体，也不预设所有伙伴关系均能自然产生成效，其运转高度依赖外部资源注入与能力建设支持。
 
 > [!citation-card] 知识生产方式决定理论与实践的距离
-> “理论与实践的鸿沟本质上是一个知识生产问题。知识在何处、如何以及由谁生产，决定了理论与实践之间的距离。研究者与实践者共同研究复杂问题的合作探究形式（即[[Engaged Scholarship|参与式学术]]），从源头上自然缩短了这一距离。”（Van de Ven & Johnson, 2006, p. 809，引于 [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 19]]）
+> “理论与实践的鸿沟本质上是一个知识生产问题。知识在何处、如何以及由谁生产，决定了理论与实践之间的距离。研究者与实践者共同研究复杂问题的合作探究形式（即[[Engaged Scholarship\|参与式学术]]），从源头上自然缩短了这一距离。”（Van de Ven & Johnson, 2006, p. 809，引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 19]]）
 >
 > *"Where, how and by whom knowledge is produced determines the distance between theory and practice. Collaborative forms of enquiry in which researchers and practitioners work together on a complex problem (called 'engaged scholarship' by the authors) reduce this distance in a natural way."*
 
 > [!citation-card] 全系统 RPP 能力建设的三位一体法则
-> “[[Knowledge Network for Applied Education Research|安大略应用教育研究知识网络]]（KNAER）的实践表明，单靠知识供给无法驱动系统变革；唯有将优质知识产出（quality products）、长期协作伙伴关系（collaborative relationships）以及全系统能力建设与难题破解承诺（system-wide capacity building）深度融合，才能实现真正的[[Evidence-Informed Practice|证据知情实践]]。”[[Argument_Nelson_2017_ER|(Campbell et al., 2017，引于 Nelson & Campbell, 2017, p. 131)]]
+> “[[Knowledge Network for Applied Education Research\|安大略应用教育研究知识网络]]（KNAER）的实践表明，单靠知识供给无法驱动系统变革；唯有将优质知识产出（quality products）、长期协作伙伴关系（collaborative relationships）以及全系统能力建设与难题破解承诺（system-wide capacity building）深度融合，才能实现真正的[[Evidence-Informed Practice\|证据知情实践]]。”[[Argument_Nelson_2017_ER\|(Campbell et al., 2017，引于 Nelson & Campbell, 2017, p. 131)]]
 
 > [!boundary]- 概念边界
-> - 区别于 [[Research-Practice Gap|研究-实践鸿沟]]：鸿沟是被诊断的结构性阻碍与现象；RPP 则是旨在弥合鸿沟、重塑关系的组织机制。
+> - 区别于 [[Research-Practice Gap\|研究-实践鸿沟]]：鸿沟是被诊断的结构性阻碍与现象；RPP 则是旨在弥合鸿沟、重塑关系的组织机制。
 > - 区别于短期咨询或合同研究项目：短期外包课题通常由单一主体出资并指定指标，研究者独立交付报告后即告终止；RPP 强调至少跨越数年的长期互惠、共同承担治理责任与迭代反思。
-> - 区别于 [[Knowledge Mobilisation|知识动员]]（KMb）：知识动员涵盖从线性传播、中介平台到[[Policy Network|政策网络]]的系统全貌；RPP 则是知识动员四类核心策略（传播、能力、网络/伙伴、系统化）中聚焦“关系与共创”的核心制度形态。
+> - 区别于 [[Knowledge Mobilisation\|知识动员]]（KMb）：知识动员涵盖从线性传播、中介平台到[[Policy Network\|政策网络]]的系统全貌；RPP 则是知识动员四类核心策略（传播、能力、网络/伙伴、系统化）中聚焦“关系与共创”的核心制度形态。
 
 ---
 
@@ -138,15 +138,15 @@ updated: 2026-09-18
 ## 核心要素
 
 > [!feature] 核心要素
-> - **长期互惠治理承诺** RPP 建立在超越具体课题周期的长期制度化契约之上，双方共同协商优先事项，共享研究所有权与成果权益。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 131)]]
-> - **[[Research Question|研究问题]]联合建构** 摒弃学术界闭门造车的纯理论[[Hypothesis|假设]]，从学校管理、课堂教学与区域治理的真实复杂困境中共同提炼研究问题。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 21–22)]]
-> - **[[Third Space Discourse|第三空间]][[Dialogue in Education|对话]]机制（Third Space Discourse）** 拒绝消除研究者与实践者固有专业差异的同化思维，搭建平等交流的常态化小型研讨[[Champ|场域]]，赋予一线教师直接发起研究课题的制度化权利，在兼具[[Reflexivity|反思性]]与教学敏感性的第三空间中实现优势互补。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 217–219)]]
-> - **名师与研究型教师双轨分工协同** 在微观学校端确立内外部专业分工，由专职名师在校内主持教学法微观改进，由享受带薪科研时间的研究型教师负责跨校学术辐射与高校深度对接，打破依靠个别明星校长的偶发星象运气。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 215–216)]]
-> - **双向跨界中介能力** 突破证据生产者与使用者的双向能力赤字，培育兼通学术方法与现场情境的[[Boundary Spanner|跨界中介者]]（boundary spanners）（Campbell et al., 2017）。
-> - **高质量[[Research Utilization|证据使用]]的组织基建与外部联结（Infrastructure & Relationship Enabler）** 在[[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework|QURE]]）中，RPP 被明确确立为支撑学校组织使能的关键外部基础架构与专业人际网络；它打破了传统学校孤立无援的困境，使校内研究协调员能够顺畅借力外部学术专长，推动证据使用从单次项目合作深化为对适切证据的持续审慎研讨。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 134, 143–144)]]
-> - **多层级影响链条解构** 借助 [[National Center for Research in Policy and Practice|NCRPP]] 等前沿评估框架，将成效解构为心智模式与研究搜寻行为等中间成果，以及工具性、概念性与象征性等长期成果（Wentworth et al., 2017）。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+> - **长期互惠治理承诺** RPP 建立在超越具体课题周期的长期制度化契约之上，双方共同协商优先事项，共享研究所有权与成果权益。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 131)]]
+> - **[[Research Question\|研究问题]]联合建构** 摒弃学术界闭门造车的纯理论[[Hypothesis\|假设]]，从学校管理、课堂教学与区域治理的真实复杂困境中共同提炼研究问题。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 21–22)]]
+> - **[[Third Space Discourse\|第三空间]][[Dialogue in Education\|对话]]机制（Third Space Discourse）** 拒绝消除研究者与实践者固有专业差异的同化思维，搭建平等交流的常态化小型研讨[[Champ\|场域]]，赋予一线教师直接发起研究课题的制度化权利，在兼具[[Reflexivity\|反思性]]与教学敏感性的第三空间中实现优势互补。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–219)]]
+> - **名师与研究型教师双轨分工协同** 在微观学校端确立内外部专业分工，由专职名师在校内主持教学法微观改进，由享受带薪科研时间的研究型教师负责跨校学术辐射与高校深度对接，打破依靠个别明星校长的偶发星象运气。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 215–216)]]
+> - **双向跨界中介能力** 突破证据生产者与使用者的双向能力赤字，培育兼通学术方法与现场情境的[[Boundary Spanner\|跨界中介者]]（boundary spanners）（Campbell et al., 2017）。
+> - **高质量[[Research Utilization\|证据使用]]的组织基建与外部联结（Infrastructure & Relationship Enabler）** 在[[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）中，RPP 被明确确立为支撑学校组织使能的关键外部基础架构与专业人际网络；它打破了传统学校孤立无援的困境，使校内研究协调员能够顺畅借力外部学术专长，推动证据使用从单次项目合作深化为对适切证据的持续审慎研讨。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
+> - **多层级影响链条解构** 借助 [[National Center for Research in Policy and Practice\|NCRPP]] 等前沿评估框架，将成效解构为心智模式与研究搜寻行为等中间成果，以及工具性、概念性与象征性等长期成果（Wentworth et al., 2017）。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 132)]]
 
-> [!logic-map]- RPP 在[[Evidence Ecosystem|证据生态系统]]中的共创机制
+> [!logic-map]- RPP 在[[Evidence Ecosystem\|证据生态系统]]中的共创机制
 > ```mermaid
 > flowchart TD
 >     subgraph 外部支撑环境
@@ -172,27 +172,27 @@ updated: 2026-09-18
 
 ### 命题一　RPP 是克服知识生产方式与使用脱节的参与式学术制度载体
 
-> [!concept-lens] [[Knowledge Production|知识生产]][[Paradigm|范式]]转型
-> 传统线性[[Knowledge Transfer|知识转移]]假定学者生产“纯粹知识”再推向实践界，导致严重的理论与实践割裂。RPP 通过将知识生产重心转移到研究者与实践者的协作交汇点，从[[Epistemology|认识论]]与制度根源上确立了[[Engaged Scholarship|参与式学术]]的正当性。
+> [!concept-lens] [[Knowledge Production\|知识生产]][[Paradigm\|范式]]转型
+> 传统线性[[Knowledge Transfer\|知识转移]]假定学者生产“纯粹知识”再推向实践界，导致严重的理论与实践割裂。RPP 通过将知识生产重心转移到研究者与实践者的协作交汇点，从[[Epistemology\|认识论]]与制度根源上确立了[[Engaged Scholarship\|参与式学术]]的正当性。
 
 > [!claim] Van de Ven & Johnson (2006)
-> **理论实践鸿沟的知识生产根源** 理论与实践脱节的本质不是信息未能传达的转移问题，也不是认识论无法[[Commensuration|通约]]的分割问题，而是知识生产方式本身的问题。学者与实践者作为拥有不同专长的共同探究主体，通过“参与式学术”（Engaged Scholarship）在 RPP 框架下协同开展研究，能够从源头上打破象牙塔与实践现场的制度壁垒，确保知识兼具理论深度与实践关涉度。（Van de Ven & Johnson, 2006；引于 [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 19]]）
+> **理论实践鸿沟的知识生产根源** 理论与实践脱节的本质不是信息未能传达的转移问题，也不是认识论无法[[Commensuration\|通约]]的分割问题，而是知识生产方式本身的问题。学者与实践者作为拥有不同专长的共同探究主体，通过“参与式学术”（Engaged Scholarship）在 RPP 框架下协同开展研究，能够从源头上打破象牙塔与实践现场的制度壁垒，确保知识兼具理论深度与实践关涉度。（Van de Ven & Johnson, 2006；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 19]]）
 
 > [!claim] Campbell et al. (2017)
-> **全系统 RPP 对双向能力赤字的制度弥合** 安大略 [[Knowledge Network for Applied Education Research|KNAER]] 的经验表明，[[Knowledge Mobilisation|知识动员]]的核心瓶颈在于研究者缺乏对实践现场的共情与[[Transfer Translation Transformation|转译]]能力，而教育实践者缺乏筛选和应用复杂实证的专业技能。RPP 通过构建跨学区、大学与政府的制度化网络，提供持续的联合探究工具与能力培训，将孤立的课题研究转变为全系统范围内的集体专业能力建设。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
+> **全系统 RPP 对双向能力赤字的制度弥合** 安大略 [[Knowledge Network for Applied Education Research\|KNAER]] 的经验表明，[[Knowledge Mobilisation\|知识动员]]的核心瓶颈在于研究者缺乏对实践现场的共情与[[Transfer Translation Transformation\|转译]]能力，而教育实践者缺乏筛选和应用复杂实证的专业技能。RPP 通过构建跨学区、大学与政府的制度化网络，提供持续的联合探究工具与能力培训，将孤立的课题研究转变为全系统范围内的集体专业能力建设。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 ---
 
 ### 命题二　知识共创面临现场关涉度与方法学严谨性的深层治理张力
 
 > [!concept-lens] 严谨性与本土适切性的权衡
-> 协同研究虽然确保了[[Research Question|研究问题]]紧贴学校实际，但也极易引发学术界对研究方法规范、数据可[[Reliability|信度]]及外在普适性的质疑。
+> 协同研究虽然确保了[[Research Question\|研究问题]]紧贴学校实际，但也极易引发学术界对研究方法规范、数据可[[Reliability\|信度]]及外在普适性的质疑。
 
 > [!claim] Cooper et al. (2017)
-> **实践者时间与外部支持匮乏限制深化共创** 一线教师在应对繁重日常教学任务的同时参与研究，面临严重的时间贫乏与方法学支撑不足。若缺乏学区和工会的制度化松绑与资源补偿，教师往往倾向于依赖同伴口耳相传的感性经验，难以维持严谨、深度的共同探究过程。（Cooper et al., 2017；引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 130]]；[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 22]]）
+> **实践者时间与外部支持匮乏限制深化共创** 一线教师在应对繁重日常教学任务的同时参与研究，面临严重的时间贫乏与方法学支撑不足。若缺乏学区和工会的制度化松绑与资源补偿，教师往往倾向于依赖同伴口耳相传的感性经验，难以维持严谨、深度的共同探究过程。（Cooper et al., 2017；引于 [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 130]]；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
 
 > [!claim] Enthoven & de Bruijn (2010)
-> **本地共创知识的严谨性与情境泛化瓶颈** [[Knowledge Co-production|协同生产]]产出的知识高度扎根于特定学校与社区环境，天然具备情境敏感性；然而，要使这种本地隐性知识成为显性、稳健且可向其他学校扩散的公共知识，必须经过持续的情境迭代与跨校复现。但在真实的教育治理中，这类迭代与严格检验极少发生，导致许多 RPP 成果被局限于局部经验，面临学术界关于方法严谨性不足的批评。（Enthoven & de Bruijn, 2010；引于 [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 22]]）
+> **本地共创知识的严谨性与情境泛化瓶颈** [[Knowledge Co-production\|协同生产]]产出的知识高度扎根于特定学校与社区环境，天然具备情境敏感性；然而，要使这种本地隐性知识成为显性、稳健且可向其他学校扩散的公共知识，必须经过持续的情境迭代与跨校复现。但在真实的教育治理中，这类迭代与严格检验极少发生，导致许多 RPP 成果被局限于局部经验，面临学术界关于方法严谨性不足的批评。（Enthoven & de Bruijn, 2010；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
 
 ---
 
@@ -202,10 +202,10 @@ updated: 2026-09-18
 > 尽管各国政府日益要求科研体现“社会影响力”，但高等教育内部的同行评议、期刊发表与职称晋升体系仍对应用型合作研究存在显著歧视。
 
 > [!claim] Cherney et al. (2012)
-> **学术激励机制与跨界参与的制度错位** 尽管英国科研卓越框架（[[Research Excellence Framework|REF]]）与澳大利亚同类评估强化了对社会影响力的考核，大学内部的晋升与资源分配仍牢牢受制于高影响因子学术期刊发表。参与 RPP 需要耗费大量时间建立跨界人际信任、打磨通俗转译产品或提供一线培训，这些实质性付出在学术同行评价体系中几乎得不到认可，直接抑制了科研人员长期参与 RPP 的制度意愿。（Cherney et al., 2012；引于 [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 22]]）
+> **学术激励机制与跨界参与的制度错位** 尽管英国科研卓越框架（[[Research Excellence Framework\|REF]]）与澳大利亚同类评估强化了对社会影响力的考核，大学内部的晋升与资源分配仍牢牢受制于高影响因子学术期刊发表。参与 RPP 需要耗费大量时间建立跨界人际信任、打磨通俗转译产品或提供一线培训，这些实质性付出在学术同行评价体系中几乎得不到认可，直接抑制了科研人员长期参与 RPP 的制度意愿。（Cherney et al., 2012；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
 
 > [!claim] Burkhardt & Schoenfeld (2021)
-> **教育科研生产文化对累积性实践改进的阻滞** 教育科研界长期倾向于优先资助和发表能够验证理论[[Hypothesis|假设]]、产生统计显著结论的短平快实证论文，而非服务于日常教学持续改进的设计型与伙伴型研究。这种科研生产文化导致教育证据碎片化、不可累积，严重削弱了 RPP 在长期学校发展中的理论引导力。（Burkhardt & Schoenfeld, 2021；引于 [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 22]]）
+> **教育科研生产文化对累积性实践改进的阻滞** 教育科研界长期倾向于优先资助和发表能够验证理论[[Hypothesis\|假设]]、产生统计显著结论的短平快实证论文，而非服务于日常教学持续改进的设计型与伙伴型研究。这种科研生产文化导致教育证据碎片化、不可累积，严重削弱了 RPP 在长期学校发展中的理论引导力。（Burkhardt & Schoenfeld, 2021；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
 
 ---
 
@@ -223,22 +223,22 @@ updated: 2026-09-18
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2000–2011 — 英格兰 [[Teaching and Learning Research Programme|TLRP]] 的早期伙伴关系探索** 英格兰实施“教学与学习研究计划”（Teaching and Learning Research Programme, TLRP），将用户参与、伙伴关系可持续性、团队知识生成与专业能力建设确立为战略基石，开创了国家级 RPP 先河。[[Argument_Revai_2022_ChangingLandscape|(OECD, 2007; Révai, 2022, p. 20)]]
-> - **2006 — [[Engaged Scholarship|参与式学术]]奠定[[Epistemology|认识论]]基石** Van de Ven & Johnson (2006) 提出“参与式学术”，将理论-实践鸿沟界定为[[Knowledge Production|知识生产]]方式问题，确立了研究者与实践者协同共创的正当性。
-> - **2010s — 美国学区-大学伙伴关系兴起与工具开发** 美国大批城市学区（如芝加哥、巴尔的摩、纽约）与顶尖大学建立制度化 RPP；[[National Center for Research in Policy and Practice|NCRPP]] 与 Coburn 等学者开始系统解构 RPP 对教育者心智模式与三类[[Research Utilization|研究使用]]的深层影响。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
-> - **2017 — 全系统战略与多维测量框架成熟** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 整合特刊成果，通过安大略省 [[Knowledge Network for Applied Education Research|KNAER]] 案例确立了全系统 RPP 推进策略，并收录 Wentworth et al. (2017) 量化 RPP 感知影响的[[Questionnaire|问卷]]模型。
-> - **2018–2019 — [[Research Schools Network|研究学校网络]]与学习[[Dialogue in Education|对话]]演进** 英国 [[Education Endowment Foundation|EEF]] 建立“研究学校网络”（Research Schools Network），并衍生出高校与学校深度合作的“研究学习网络”（Research Learning Networks, RLNs），通过学习对话促进[[Knowledge Co-production|知识共创]]（Brown, 2018；[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]]）。
-> - **2022 — 纳入复杂系统跨国政策调查** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 依托 [[OECD]] 29 国政策调查，将 RPP 提升为复杂[[Evidence Ecosystem|证据生态系统]]建设的支柱机制，指出当前国际上政策-研究伙伴关系远落后于实践-研究伙伴关系，呼吁建立更具包容性的多方共治网络。
-> - **2022 — 跨国实证调查揭示大学-中小学伙伴关系的制度化局限** [[Argument_Hill_2022_FacilitatingActors|Hill (2022, p. 82)]] 针对 29 国 37 个教育系统调查显示，大学-中小学伙伴关系与网络在各国的活跃度呈现显著系统特异性，远未成为 OECD 国家的普遍制度化实践：尽管其在推动实践转化上被寄予厚望，但哥伦比亚、加拿大魁北克等诸多系统明确报告该类伙伴网络在促进教学实践应用端“完全不活跃”，奥地利与斯洛伐克等系统则报告其仅活跃于论文生产端，证实学术界参与的混合型伙伴关系在跨界落地上面临严重的机制脱节。
-> - **2022 — 承认差异并构建“[[Third Space Discourse|第三空间话语]]”与跨部门协作模型** [[Tine S. Prøitz|蒂内·S·普勒茨]]（Tine S. Prøitz）总结瑞典国家级 ULF 试点项目（覆盖 25 所设立教师教育的高校与 150 余个市镇），指出 RPP 不应试图抹平实践者与研究者在工作情境与话语体系上的固有差异，而应通过承认差异构建“第三空间话语”（Third Space Discourse），在研讨会与共同议程中明确角色分工以保障科学质量。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 216–220)]]
-> - **2022 — [[Democratising Evidence|证据民主化]]导向的 RPP 架构与资助生态再造** [[Vivian Tseng|薇薇安·曾]]（[[Vivian Tseng]]）将 RPP 界定为推进“[[Democratising Evidence|证据民主化]]”的核心战略，依托 Henrick et al. (2017) 的伙伴关系五大效能维度（信任培植、严谨[[Action Research|行动研究]]、支持实践目标、产出外溢知识、双向能力建设），呼吁资助机构提供长期灵活资助，将关系基础设施与能力建设列为核心交付物，打破传统的“唯论文”学术考核。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 220–224)]]
-> - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架确立其为组织基建与生态协同使能构件** 马克·里克森（[[Mark Rickinson]]）等系统梳理国际循证图景，将美国的 RPP（Coburn & Penuel, 2016）与英国的[[Research-Engaged School|研究参与学校]]（Godfrey & Brown, 2019）、澳大利亚研究型教师职业体系并列为推动研究-实践联结的国际代表机制；在 QURE 框架中，RPP 不仅被界定为学校组织的基础架构（建立外部研究伙伴联结）与个体关系使能条件，更被作为构建复杂宏观证据生态系统的中枢网络（Boaz & Nutley, 2019; Farley-Ripple et al., 2018），推动其核心关注从“建立合作机制”向“深化适切证据与审慎实施的使用质量”升级。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 134, 143–144)]]
+> - **2000–2011 — 英格兰 [[Teaching and Learning Research Programme\|TLRP]] 的早期伙伴关系探索** 英格兰实施“教学与学习研究计划”（Teaching and Learning Research Programme, TLRP），将用户参与、伙伴关系可持续性、团队[[Knowledge Production\|知识生成]]与专业能力建设确立为战略基石，开创了国家级 RPP 先河。[[Argument_Revai_2022_ChangingLandscape\|(OECD, 2007; Révai, 2022, p. 20)]]
+> - **2006 — [[Engaged Scholarship\|参与式学术]]奠定[[Epistemology\|认识论]]基石** Van de Ven & Johnson (2006) 提出“参与式学术”，将理论-实践鸿沟界定为[[Knowledge Production\|知识生产]]方式问题，确立了研究者与实践者协同共创的正当性。
+> - **2010s — 美国学区-大学伙伴关系兴起与工具开发** 美国大批城市学区（如芝加哥、巴尔的摩、纽约）与顶尖大学建立制度化 RPP；[[National Center for Research in Policy and Practice\|NCRPP]] 与 Coburn 等学者开始系统解构 RPP 对教育者心智模式与三类[[Research Utilization\|研究使用]]的深层影响。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 132)]]
+> - **2017 — 全系统战略与多维测量框架成熟** [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 整合特刊成果，通过安大略省 [[Knowledge Network for Applied Education Research\|KNAER]] 案例确立了全系统 RPP 推进策略，并收录 Wentworth et al. (2017) 量化 RPP 感知影响的[[Questionnaire\|问卷]]模型。
+> - **2018–2019 — [[Research Schools Network\|研究学校网络]]与学习[[Dialogue in Education\|对话]]演进** 英国 [[Education Endowment Foundation\|EEF]] 建立“研究学校网络”（Research Schools Network），并衍生出高校与学校深度合作的“研究学习网络”（Research Learning Networks, RLNs），通过学习对话促进[[Knowledge Co-production\|知识共创]]（Brown, 2018；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]]）。
+> - **2022 — 纳入复杂系统跨国政策调查** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 依托 [[OECD]] 29 国政策调查，将 RPP 提升为复杂[[Evidence Ecosystem\|证据生态系统]]建设的支柱机制，指出当前国际上政策-研究伙伴关系远落后于实践-研究伙伴关系，呼吁建立更具包容性的多方共治网络。
+> - **2022 — 跨国实证调查揭示大学-中小学伙伴关系的制度化局限** [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, p. 82)]] 针对 29 国 37 个教育系统调查显示，大学-中小学伙伴关系与网络在各国的活跃度呈现显著系统特异性，远未成为 OECD 国家的普遍制度化实践：尽管其在推动实践转化上被寄予厚望，但哥伦比亚、加拿大魁北克等诸多系统明确报告该类伙伴网络在促进教学实践应用端“完全不活跃”，奥地利与斯洛伐克等系统则报告其仅活跃于论文生产端，证实学术界参与的混合型伙伴关系在跨界落地上面临严重的机制脱节。
+> - **2022 — 承认差异并构建“[[Third Space Discourse\|第三空间话语]]”与跨部门协作模型** [[Tine S. Prøitz\|蒂内·S·普勒茨]]（Tine S. Prøitz）总结瑞典国家级 ULF 试点项目（覆盖 25 所设立教师教育的高校与 150 余个市镇），指出 RPP 不应试图抹平实践者与研究者在工作情境与话语体系上的固有差异，而应通过承认差异构建“第三空间话语”（Third Space Discourse），在研讨会与共同议程中明确角色分工以保障科学质量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–220)]]
+> - **2022 — [[Democratising Evidence\|证据民主化]]导向的 RPP 架构与资助生态再造** [[Vivian Tseng\|薇薇安·曾]]（[[Vivian Tseng]]）将 RPP 界定为推进“[[Democratising Evidence\|证据民主化]]”的核心战略，依托 Henrick et al. (2017) 的伙伴关系五大效能维度（信任培植、严谨[[Action Research\|行动研究]]、支持实践目标、产出外溢知识、双向能力建设），呼吁资助机构提供长期灵活资助，将关系基础设施与能力建设列为核心交付物，打破传统的“唯论文”学术考核。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
+> - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立其为组织基建与生态协同使能构件** 马克·里克森（[[Mark Rickinson]]）等系统梳理国际循证图景，将美国的 RPP（Coburn & Penuel, 2016）与英国的[[Research-Engaged School\|研究参与学校]]（Godfrey & Brown, 2019）、澳大利亚研究型教师职业体系并列为推动研究-实践联结的国际代表机制；在 QURE 框架中，RPP 不仅被界定为学校组织的基础架构（建立外部研究伙伴联结）与个体关系使能条件，更被作为构建复杂宏观证据生态系统的中枢网络（Boaz & Nutley, 2019; Farley-Ripple et al., 2018），推动其核心关注从“建立合作机制”向“深化适切证据与审慎实施的使用质量”升级。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
 
 ---
 
 ## 争议与批评
 
-> [!tension-table] 协同[[Knowledge Production|知识生产]]的核心张力对照
+> [!tension-table] 协同[[Knowledge Production\|知识生产]]的核心张力对照
 > | 比较维度 | 现场行动逻辑（实践导向） | 学术科研逻辑（理论导向） |
 > |---|---|---|
 > | **首要目标** | 解决当下课堂即时问题、提升[[Academic Achievement\|学业成绩]]与学生福祉 | 探索普遍规律、验证因果理论、产出高水平学术出版物 |
@@ -250,48 +250,48 @@ updated: 2026-09-18
 > [!debates] 学术争议
 >
 > > [!axis] 知识生产所有权与话语霸权
-> > 学界围绕 RPP 中究竟谁主导研究议程展开深刻反思。批评者指出，许多表面上的伙伴关系实际上仍是大学研究者单方面设计方案、把中小学视作廉价的“实验田”与“数据采集工场”；真正平等互惠的共创要求实践者拥有实质性的议题否决权与成果解释权。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 131)]]
+> > 学界围绕 RPP 中究竟谁主导研究议程展开深刻反思。批评者指出，许多表面上的伙伴关系实际上仍是大学研究者单方面设计方案、把中小学视作廉价的“实验田”与“数据采集工场”；真正平等互惠的共创要求实践者拥有实质性的议题否决权与成果解释权。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 131)]]
 >
 > > [!axis] 本地知识能否升级为普遍科学证据
 > > 围绕 RPP 产出的深植于单一学区的定制化知识究竟是提升了适切性，还是阻碍了向其他情境的因果概化。
 > >
-> > - **循证复现派（[[Argument_Slavin_2019_EP|Slavin, 2019]]）** 批评以 Bryk 等人倡导的单学区 RPP 模式虽然契合本地，但过度贴合特定学区的特殊政治与人事微观生态，反而可能在向外推推广时遭遇严重的[[External Validity|外部效度]]障碍；解决概化问题的唯一科学途径是在广泛多元情境中的成功复现，而非固守单一学区的定制化开发。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 8)]]
-> > - **情境建构派（Enthoven & de Bruijn, 2010; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]）** 强调教育改进本质上高度依赖微观情境，机械套用普适模型注定遭遇排异反应，RPP 的核心生命力恰在扎根具体学校的协同探究与共同所有权。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 22)]]
+> > - **循证复现派（[[Argument_Slavin_2019_EP\|Slavin, 2019]]）** 批评以 Bryk 等人倡导的单学区 RPP 模式虽然契合本地，但过度贴合特定学区的特殊政治与人事微观生态，反而可能在向外推推广时遭遇严重的[[External Validity\|外部效度]]障碍；解决概化问题的唯一科学途径是在广泛多元情境中的成功复现，而非固守单一学区的定制化开发。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 8)]]
+> > - **情境建构派（Enthoven & de Bruijn, 2010; [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]）** 强调教育改进本质上高度依赖微观情境，机械套用普适模型注定遭遇排异反应，RPP 的核心生命力恰在扎根具体学校的协同探究与共同所有权。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]
 >
 > > [!axis] 校本实用开发 vs 基础学术严谨性蜕化
-> > 争论 RPP 项目在长期运行中是否容易丧失学术[[Reflexivity|反思性]]与理论深度，滑落为纯粹事务性的学校工作开发。
+> > 争论 RPP 项目在长期运行中是否容易丧失学术[[Reflexivity\|反思性]]与理论深度，滑落为纯粹事务性的学校工作开发。
 > >
-> > - **宏观试点评估者（Prøitz, 2022）** 警告北欧与国际经验表明，校本科研极易随时间推移逐渐丧失理论严谨性，必须由资深学者严格把控[[Epistemology|认识论]]与方法规范，防止协作演变为纯粹行政事务处理。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 219)]]
-> > - **实践[[Action Research|行动研究]]者（Nagy, 2022）** 坚决强调一线学校面临紧迫的生存与学业危机，若科研不能带来具体的课堂组织变革与实际教学效用，再严谨的理论探讨也只会引发教师的极度疲劳与抵触。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 214–216)]]
+> > - **宏观试点评估者（Prøitz, 2022）** 警告北欧与国际经验表明，校本科研极易随时间推移逐渐丧失理论严谨性，必须由资深学者严格把控[[Epistemology\|认识论]]与方法规范，防止协作演变为纯粹行政事务处理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 219)]]
+> > - **实践[[Action Research\|行动研究]]者（Nagy, 2022）** 坚决强调一线学校面临紧迫的生存与学业危机，若科研不能带来具体的课堂组织变革与实际教学效用，再严谨的理论探讨也只会引发教师的极度疲劳与抵触。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 214–216)]]
 >
 > > [!axis] 形式化机制搭建 vs 适切证据的使用质量
 > > 争论聚焦于建立伙伴关系本身是否必然保障证据利用成效。
 > >
 > > - **机制建设取向（Coburn & Penuel, 2016）** 强调首要任务是打破制度壁垒，建立长效互信的组织契约与沟通渠道。
-> > - **质量使用取向（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a]]）** 指出仅有伙伴关系或建立合作项目绝不等于高质量证据利用；若缺乏对证据方法学严谨性与教育问题、情境及用途的三维适配（适切研究证据），以及教师的批判研读与集体审议（审慎参与和实施），RPP 极易流于形式合规，必须以使用质态为核心反思透镜。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–145)]]
+> > - **质量使用取向（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）** 指出仅有伙伴关系或建立合作项目绝不等于高质量证据利用；若缺乏对证据方法学严谨性与教育问题、情境及用途的三维适配（适切研究证据），以及教师的批判研读与集体审议（审慎参与和实施），RPP 极易流于形式合规，必须以使用质态为核心反思透镜。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140–145)]]
 
 > [!warning] 适用局限
-> - **对制度性时间与资金的高敏感性** RPP 具有极高的沉没成本与维护门槛；一旦外部专项拨款中止或学区领导层换届，脆弱的合作协议往往面临迅速瓦解的风险。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 131)]]
-> - **缺乏长周期系统评估** 尽管 RPP 在美、英、澳等国被大范围推广，但目前针对伙伴关系自身的深层次长期影响与因果效益评估依然十分罕见，其有效性多建立在参与者主观感知[[Questionnaire|问卷]]的基础之上。[[Argument_Revai_2022_ChangingLandscape|(Coburn & Penuel, 2016；Révai, 2022, p. 21)]]
+> - **对制度性时间与资金的高敏感性** RPP 具有极高的沉没成本与维护门槛；一旦外部专项拨款中止或学区领导层换届，脆弱的合作协议往往面临迅速瓦解的风险。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 131)]]
+> - **缺乏长周期系统评估** 尽管 RPP 在美、英、澳等国被大范围推广，但目前针对伙伴关系自身的深层次长期影响与因果效益评估依然十分罕见，其有效性多建立在参与者主观感知[[Questionnaire\|问卷]]的基础之上。[[Argument_Revai_2022_ChangingLandscape\|(Coburn & Penuel, 2016；Révai, 2022, p. 21)]]
 
 ---
 
 ## 应用案例
 
-> [!case] 案例一：[[Knowledge Network for Applied Education Research|安大略应用教育研究知识网络]]（KNAER）的全系统[[Knowledge Mobilisation|知识动员]]（加拿大）
-> KNAER 是一项由安大略省教育部资助、多伦多大学安大略教育研究院（OISE）与西安大略大学联合牵头的全系统倡议。该项目联合了全省学区教育局、教师工会、学术机构以及社区组织，通过多方利益相关者伙伴关系支持校本与区域研究活动。KNAER 的核心经验表明，单纯依靠研究发布无法弥合鸿沟，必须建立跨部门的专业支持团队与多层级合作基础设施，持续培养研究者与实践者的双向动员技能。（Campbell et al., 2017；引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp. 130–131]]）
+> [!case] 案例一：[[Knowledge Network for Applied Education Research\|安大略应用教育研究知识网络]]（KNAER）的全系统[[Knowledge Mobilisation\|知识动员]]（加拿大）
+> KNAER 是一项由安大略省教育部资助、多伦多大学安大略教育研究院（OISE）与西安大略大学联合牵头的全系统倡议。该项目联合了全省学区教育局、教师工会、学术机构以及社区组织，通过多方利益相关者伙伴关系支持校本与区域研究活动。KNAER 的核心经验表明，单纯依靠研究发布无法弥合鸿沟，必须建立跨部门的专业支持团队与多层级合作基础设施，持续培养研究者与实践者的双向动员技能。（Campbell et al., 2017；引于 [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, pp. 130–131]]）
 
 > [!case] 案例二：RPP 感知影响的调查量表研发与多维解构（Wentworth et al.）
-> 美国加州教育伙伴（California Education Partners）、西北教育（Education Northwest）与巴尔的摩教育研究联盟团队针对学区与大学合作项目展开[[Survey Research|调查研究]]。该研究开发了一套量化测度工具，有效识别了 RPP 如何促进教育者在日常工作中展现出更高的研究搜寻行为与探究心智模式（中间成果），并进一步推动了基于证据的课程修订与政策修正（工具性成果）以及深层教育观念的转变（概念性成果）。（Wentworth et al., 2017；引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 132]]）
+> 美国加州教育伙伴（California Education Partners）、西北教育（Education Northwest）与巴尔的摩教育研究联盟团队针对学区与大学合作项目展开[[Survey Research\|调查研究]]。该研究开发了一套量化测度工具，有效识别了 RPP 如何促进教育者在日常工作中展现出更高的研究搜寻行为与探究心智模式（中间成果），并进一步推动了基于证据的课程修订与政策修正（工具性成果）以及深层教育观念的转变（概念性成果）。（Wentworth et al., 2017；引于 [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 132]]）
 
-> [!case] 案例三：英格兰教学与学习研究计划（[[Teaching and Learning Research Programme|TLRP]]）的四大支柱（英国）
-> TLRP（2000–2011）是英国历时最长、规模最大的教育研究资助计划之一。该计划明确确立了四大战略支柱：用户参与（User Engagement）、伙伴关系可持续性（Partnerships for Sustainability）、联合知识生成（Knowledge Generation by Project Teams）以及专业能力建设（Capacity Building）。它系统探索了高校研究人员如何深入中小学及职业教育现场共同设计课题，成为现代[[Evidence Ecosystem|证据生态系统]]中大学-学校伙伴关系的奠基性范例。（OECD, 2007；引于 [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, p. 20]]）
+> [!case] 案例三：英格兰教学与学习研究计划（[[Teaching and Learning Research Programme\|TLRP]]）的四大支柱（英国）
+> TLRP（2000–2011）是英国历时最长、规模最大的教育研究资助计划之一。该计划明确确立了四大战略支柱：用户参与（User Engagement）、伙伴关系可持续性（Partnerships for Sustainability）、联合[[Knowledge Production\|知识生成]]（Knowledge Generation by Project Teams）以及专业能力建设（Capacity Building）。它系统探索了高校研究人员如何深入中小学及职业教育现场共同设计课题，成为现代[[Evidence Ecosystem\|证据生态系统]]中大学-学校伙伴关系的奠基性范例。（OECD, 2007；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 20]]）
 
-> [!case] 案例四：瑞典发展、学习与研究国家级科研-实践合作试点项目（[[Swedish ULF Project|Utveckling, Lärande, Forskning]], ULF）
-> 瑞典中央政府于 2017–2021 年正式委托开展 ULF 试点项目，后经政府决定延长至 2024 年作为过渡期，目标是确立为永久性国家法定制度。该项目覆盖瑞典全国拥有教师教育资格的全部 25 所大学、150 多个市镇教育局以及数以千计的中小学教师。其核心制度创新在于：打破大学单向立项垄断，赋予学校教师直接发起科研课题的法定权利；构建兼具理论反思与教学敏感性的[[Third Space Discourse|第三空间话语]]（third space discourse）；并在常态化小型工作坊中理清角色定位，让教师担任决策与议题把关专家，学者负责研究设计，各守其位以维系科学严谨性。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 216–220, 224–225)]]
+> [!case] 案例四：瑞典发展、学习与研究国家级科研-实践合作试点项目（[[Swedish ULF Project\|Utveckling, Lärande, Forskning]], ULF）
+> 瑞典中央政府于 2017–2021 年正式委托开展 ULF 试点项目，后经政府决定延长至 2024 年作为过渡期，目标是确立为永久性国家法定制度。该项目覆盖瑞典全国拥有教师教育资格的全部 25 所大学、150 多个市镇教育局以及数以千计的中小学教师。其核心制度创新在于：打破大学单向立项垄断，赋予学校教师直接发起科研课题的法定权利；构建兼具理论反思与教学敏感性的[[Third Space Discourse\|第三空间话语]]（third space discourse）；并在常态化小型工作坊中理清角色定位，让教师担任决策与议题把关专家，学者负责研究设计，各守其位以维系科学严谨性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–220, 224–225)]]
 
-> [!case] 案例五：匈牙利赫约凯赖斯图尔小学大学-学校深度组织共创（[[Complex Instruction Programme|CIP]] 推广）
-> 匈牙利一所处于经济萧条与罗姆族聚居区的薄弱小学，在经历 2008 年外来工时调研（无反馈、高负担的单向采掘）失败后，转向与综合性大学建立深度共创伙伴关系。双方围绕评估组织运转、考察教职工动机、测绘管理效能三大支柱系统诊断，成功将斯坦福大学复合教学计划（CIP）[[Going Native|本土化]]。学校依托 2013 教师生涯阶梯，由专职名师主抓校内日常教学转化，由享有带薪科研时间的研究型教师主抓大学对接与跨校辐射，最终将 CIP 模式辐射推广至全匈牙利近 200 所中小学校。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 213–216, 219–220)]]
+> [!case] 案例五：匈牙利赫约凯赖斯图尔小学大学-学校深度组织共创（[[Complex Instruction Programme\|CIP]] 推广）
+> 匈牙利一所处于经济萧条与罗姆族聚居区的薄弱小学，在经历 2008 年外来工时调研（无反馈、高负担的单向采掘）失败后，转向与综合性大学建立深度共创伙伴关系。双方围绕评估组织运转、考察教职工动机、测绘管理效能三大支柱系统诊断，成功将斯坦福大学复合教学计划（CIP）[[Going Native\|本土化]]。学校依托 2013 教师生涯阶梯，由专职名师主抓校内日常教学转化，由享有带薪科研时间的研究型教师主抓大学对接与跨校辐射，最终将 CIP 模式辐射推广至全匈牙利近 200 所中小学校。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 213–216, 219–220)]]
 
 > [!index-table] 亨里克等（Henrick et al., 2017）RPP 有效性五大维度评估操作矩阵
 > | 评估维度 | 核心衡量内涵 | [[Operationalization\|操作化]]落地指标 | 对资助与治理机构的导向功能 |
@@ -306,7 +306,7 @@ updated: 2026-09-18
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -322,10 +322,10 @@ updated: 2026-09-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 在特刊导言中将 RPP 确立为[[Knowledge Mobilisation|知识动员]]的关键伙伴关系策略，详细阐述安大略 [[Knowledge Network for Applied Education Research|KNAER]] 全系统网络与 Wentworth et al. 的成效[[Scale of Measurement|测量量表]]。
-> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 从[[Knowledge Production|知识生产]]方式演进（Van de Ven & Johnson, 2006）与复杂系统视角，梳理英格兰 [[Teaching and Learning Research Programme|TLRP]]、[[Education Endowment Foundation|EEF]] [[Research Schools Network|研究学校网络]]及高校跨界合作机制，深刻揭示学术发表激励错位与[[Knowledge Co-production|知识共创]]的深层张力。
-> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查，实证测度大学-中小学网络在研究生产、政策促成与教学实践转化三端的活跃度，揭示其在多国实践转化功能上的断层与未制度化现实。
-> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 汇集 Prøitz、Nagy 与 Tseng 的多元视角，系统解构瑞典 ULF 国家试点对[[Third Space Discourse|第三空间话语]]的建构、匈牙利 2013 教师生涯阶梯对校本[[Action Research|行动研究]]的支撑，以及 Henrick et al. (2017) RPP 有效性五大维度评估框架与资助生态再造。
-> - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 从循证改革宏观概化视角批判单学区 RPP 模式过度贴合本地生态而抑制[[External Validity|外部效度]]的局限性，主张通过大样本多元情境的成功复现破解概化难题。
-> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 将 RPP 定位为促进研究-实践联结的全球代表性制度形态，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中确立其作为组织基础架构（外部学术伙伴联结）与系统生态协同网络的核心使能功能，并提出超越二元机制搭建、聚焦适切证据与审慎实施的使用质量评价标准。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 在特刊导言中将 RPP 确立为[[Knowledge Mobilisation\|知识动员]]的关键伙伴关系策略，详细阐述安大略 [[Knowledge Network for Applied Education Research\|KNAER]] 全系统网络与 Wentworth et al. 的成效[[Scale of Measurement\|测量量表]]。
+> - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 从[[Knowledge Production\|知识生产]]方式演进（Van de Ven & Johnson, 2006）与复杂系统视角，梳理英格兰 [[Teaching and Learning Research Programme\|TLRP]]、[[Education Endowment Foundation\|EEF]] [[Research Schools Network\|研究学校网络]]及高校跨界合作机制，深刻揭示学术发表激励错位与[[Knowledge Co-production\|知识共创]]的深层张力。
+> - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查，实证测度大学-中小学网络在研究生产、政策促成与教学实践转化三端的活跃度，揭示其在多国实践转化功能上的断层与未制度化现实。
+> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 汇集 Prøitz、Nagy 与 Tseng 的多元视角，系统解构瑞典 ULF 国家试点对[[Third Space Discourse\|第三空间话语]]的建构、匈牙利 2013 教师生涯阶梯对校本[[Action Research\|行动研究]]的支撑，以及 Henrick et al. (2017) RPP 有效性五大维度评估框架与资助生态再造。
+> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 从循证改革宏观概化视角批判单学区 RPP 模式过度贴合本地生态而抑制[[External Validity\|外部效度]]的局限性，主张通过大样本多元情境的成功复现破解概化难题。
+> - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 将 RPP 定位为促进研究-实践联结的全球代表性制度形态，在 [[Quality Use of Research Evidence Framework\|QURE]] 框架中确立其作为组织基础架构（外部学术伙伴联结）与系统生态协同网络的核心使能功能，并提出超越二元机制搭建、聚焦适切证据与审慎实施的使用质量评价标准。

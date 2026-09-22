@@ -54,7 +54,7 @@ updated: 2026-06-02
 ## 核心命题
 
 > [!abstract]
-> Rotter (1954) 提出解释社会学习理论必须考虑四类[[Variable|变量]]([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.60–61]])：
+> Rotter (1954) 提出解释社会学习理论必须考虑四类[[Variable\|变量]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.60–61]])：
 
 - **行为 (behavior)** 期望发生的具体行为。
 - **期望 (expectancies)** 个体对行为与奖励之间[[Causality|因果关系]]的感知确定程度。
@@ -62,7 +62,7 @@ updated: 2026-06-02
 - **心理情境 (psychological situations)** 提供行为奖励的具体情境。
 
 > [!abstract]
-> Rotter (1975) 提出的一般行为公式([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.61]])：
+> Rotter (1975) 提出的一般行为公式([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.61]])：
 
 > [!quote]
 > "the potential for a behavior to occur in any specific psychological situation is the function of the expectancy that the behavior will lead to a particular reinforcement in that situation and the value of that reinforcement"（Rotter, 1975, p.57）
@@ -76,10 +76,10 @@ updated: 2026-06-02
 > [!note]-
 > 社会学习理论的发展涉及多位研究者的贡献：
 > - **1941** — Miller & Dollard 出版 *Social Learning and Imitation*，早期社会学习理论基础
-> - **1954** — Rotter 出版 *Social Learning and Clinical Psychology*，提出四类[[Variable|变量]]（行为、期望、强化、心理情境）和社会学习公式
-> - **1966** — Rotter 发表[[Locus of Control|控制点]]（locus of control）[[Construct|构念]]
+> - **1954** — Rotter 出版 *Social Learning and Clinical Psychology*，提出四类[[Variable\|变量]]（行为、期望、强化、心理情境）和社会学习公式
+> - **1966** — Rotter 发表[[Locus of Control\|控制点]]（locus of control）[[Construct\|构念]]
 > - **1971** — Bandura 出版 *Social Learning Theory*，强调替代性、象征性和自我调节过程
-> - **1977** — Bandura 出版 *Social Learning Theory*（更新版），提出认知、行为和环境三者交互[[Determinism|决定论]]
+> - **1977** — Bandura 出版 *Social Learning Theory*（更新版），提出认知、行为和环境三者交互[[Determinism\|决定论]]
 > - **1986** — Bandura 出版 *Social Foundations of Thought and Action: A Social Cognitive Theory*，理论从**社会学习理论**演化为**社会认知理论**
 
 ## 应用领域
@@ -87,7 +87,7 @@ updated: 2026-06-02
 社会学习理论已被应用于广泛的社会行为研究，包括竞争性、攻击性、异常行为和病理行为（Bandura & Walters, 1963; Bandura, 1977; Mischel, 1968; Miller & Dollard, 1941; Rotter, 1954; Staats, 1975）。该理论也涉及人格评估技术（Mischel, 1968）以及临床和教育情境中的行为修正（Bandura, 1977; Bower & Hilgard, 1981; Rotter, 1954）([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.60–61]])。
 
 > [!example]
-> Crutchfield (1986) 在其博士论文中应用社会学习理论作为[[Theoretical Perspective|理论视角]]，研究护理教育者的学术生产力。她将 Rotter (1954) 的四类[[Variable|变量]]适应为：学术生产力 = 期望行为；[[Locus of Control|控制点]] = 广义期望；强化 = 学术工作的奖励及其价值；教育机构 = 提供学术生产力诸多奖励的心理情境。她使用**如果—那么**逻辑将[[Independent Variable|自变量]]（控制点、人际信任、奖励价值、机构情境）与[[Dependent Variable|因变量]]（学术生产力水平）相关联([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.60–62]])。
+> Crutchfield (1986) 在其博士论文中应用社会学习理论作为[[Theoretical Perspective\|理论视角]]，研究护理教育者的学术生产力。她将 Rotter (1954) 的四类[[Variable\|变量]]适应为：学术生产力 = 期望行为；[[Locus of Control\|控制点]] = 广义期望；强化 = 学术工作的奖励及其价值；教育机构 = 提供学术生产力诸多奖励的心理情境。她使用**如果—那么**逻辑将[[Independent Variable\|自变量]]（控制点、人际信任、奖励价值、机构情境）与[[Dependent Variable\|因变量]]（学术生产力水平）相关联([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.60–62]])。
 
 ## 相关概念
 

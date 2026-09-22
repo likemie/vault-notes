@@ -52,57 +52,57 @@ updated: 2026-09-17
 ## 核心主张
 
 > [!info] 核心主张
-> Van Leeuwen（2007）的合法化理论（Legitimation Theory）提出：**证据是否被接受并行动，取决于其是否与接收方现有的社会价值结构和道德[[Hypothesis|假设]]对齐并在其中被"合法化"（legitimated）。**
+> Van Leeuwen（2007）的合法化理论（Legitimation Theory）提出：**证据是否被接受并行动，取决于其是否与接收方现有的社会价值结构和道德[[Hypothesis\|假设]]对齐并在其中被"合法化"（legitimated）。**
 >
-> > "Evidence will be interpreted as legitimate and more likely accepted and acted on if it aligns with and is beneficial towards existing social values."([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9，综述 Van Leeuwen, 2007]])
+> > "Evidence will be interpreted as legitimate and more likely accepted and acted on if it aligns with and is beneficial towards existing social values."([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9，综述 Van Leeuwen, 2007]])
 >
-> 合法化不是一个纯粹的[[Epistemology|认识论]]过程（证据本身的质量决定接受度），而是一个社会-话语过程——证据需要在接收群体/组织的结构、过程和道德假设框架内被"合法化"才会产生影响。这意味着：同等质量的证据，与现有价值结构对齐的会被接受，不对齐的会被忽略或排斥。
+> 合法化不是一个纯粹的[[Epistemology\|认识论]]过程（证据本身的质量决定接受度），而是一个社会-话语过程——证据需要在接收群体/组织的结构、过程和道德假设框架内被"合法化"才会产生影响。这意味着：同等质量的证据，与现有价值结构对齐的会被接受，不对齐的会被忽略或排斥。
 >
-> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]将合法化理论与 Dewey 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
+> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]将合法化理论与 Dewey 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
 >
 
 ## 核心命题：四个合法化层次
 
 > [!abstract] 核心命题：四个合法化层次
-> Van Leeuwen（2007）将合法化操作分为四个层次([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9]])：
+> Van Leeuwen（2007）将合法化操作分为四个层次([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])：
 >
 > **1. 权威合法化（Authority Legitimation）**
 > - 观点或行动与**过去或当前的权威结构或传统**链接时获得合法性
-> - 在教育政策中的表现：引用 [[Ofsted]] 评级（制度权威）、议会内部报告（程序权威）、传统[[Grammar School|文法学校]]模式（历史权威）
-> - 例：议员以"grammar schools have thrived and have been vindicated"（Lord Framlingham, 2016）为[[Grammar School|文法学校]]辩护时，诉诸的是传统权威而非实证证据([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.20]])
+> - 在教育政策中的表现：引用 [[Ofsted]] 评级（制度权威）、议会内部报告（程序权威）、传统[[Grammar School\|文法学校]]模式（历史权威）
+> - 例：议员以"grammar schools have thrived and have been vindicated"（Lord Framlingham, 2016）为[[Grammar School\|文法学校]]辩护时，诉诸的是传统权威而非实证证据([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.20]])
 >
 > **2. 道德价值合法化（Moral VALUE Legitimation）**
 > - 观点或行动与**组织或群体持有的道德价值**对齐时获得合法性
-> - 在教育政策中的表现：将 [[Ofsted]] 的技术评级"good"转化为道德判断——"[[Grammar School|文法学校]]是好的"
-> - 这是 Bainbridge et al. 识别的"建构型道德侧步"的核心机制——"good"（[[Ofsted]] 术语）被扭曲为道德上的"善"([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.19, 27]])
+> - 在教育政策中的表现：将 [[Ofsted]] 的技术评级"good"转化为道德判断——"[[Grammar School\|文法学校]]是好的"
+> - 这是 Bainbridge et al. 识别的"建构型道德侧步"的核心机制——"good"（[[Ofsted]] 术语）被扭曲为道德上的"善"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.19, 27]])
 >
 > **3. 理性合法化（Rational Legitimation）**
 > - 观点或行动需要与**"真理"或理性论证**建立关系
-> - 在教育政策中的表现：政府引用 Coldwell et al.（2017）对证据的定义（认可 [[Education Endowment Foundation|EEF]]、[[John Hattie]]、[[Sutton Trust]] 同时排除 [[Ofsted]]），表面上承诺"基于证据的政策"
+> - 在教育政策中的表现：政府引用 Coldwell et al.（2017）对证据的定义（认可 [[Education Endowment Foundation\|EEF]]、[[John Hattie]]、[[Sutton Trust]] 同时排除 [[Ofsted]]），表面上承诺"基于证据的政策"
 > - 但 Bainbridge et al. 发现政府在实践中违反了自身定义——[[Ofsted]] 评级被当作"证据"使用，而符合定义的学术研究证据被回避（p.27）
 >
 > **4. 奖励叙事合法化（Mythopoesis / Reward Narrative Legitimation）**
 > - 证据需要**支持现有的奖励叙事**——即"这样做会带来好结果"的故事
 > - 在教育政策中的表现："文法学校促进社会流动性"的叙事（尽管被证据反复否定），以及"好学校扩张 → 更多孩子获得好教育"的奖励逻辑
-> - [[Carnivalesque Analysis|嘉年华式分析]]通过外推这一叙事至 £84 亿暴露了其荒谬性([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])
+> - [[Carnivalesque Analysis\|嘉年华式分析]]通过外推这一叙事至 £84 亿暴露了其荒谬性([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])
 >
-> 四个层次不是互斥的——Bainbridge et al. 的[[Case Study|案例研究]]表明它们**同时运作**且相互强化：文法学校因传统而具权威（层次 1）、因"good"而具道德价值（层次 2）、表面引用证据定义（层次 3）、并嵌入社会流动性奖励叙事（层次 4）。
+> 四个层次不是互斥的——Bainbridge et al. 的[[Case Study\|案例研究]]表明它们**同时运作**且相互强化：文法学校因传统而具权威（层次 1）、因"good"而具道德价值（层次 2）、表面引用证据定义（层次 3）、并嵌入社会流动性奖励叙事（层次 4）。
 >
 
 ## 发展脉络
 
 > [!note-] 发展脉络
-> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]提供的唯一来源是 Van Leeuwen（2007）的原始框架。论文未追溯该理论的后续发展或修订。该条目的知识范围因此受限于此单一来源。
+> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]提供的唯一来源是 Van Leeuwen（2007）的原始框架。论文未追溯该理论的后续发展或修订。该条目的知识范围因此受限于此单一来源。
 >
-> 该理论被 Bainbridge et al. 引入教育政策分析，与 Stevens（2019）的 道德侧步 概念、Malone & Hogan（2020）的 正当理由 框架、以及 Archer（2000）的 corporate agency / primary agency 区分共同构成论文的理论框架([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9]])。
+> 该理论被 Bainbridge et al. 引入教育政策分析，与 Stevens（2019）的 道德侧步 概念、Malone & Hogan（2020）的 正当理由 框架、以及 Archer（2000）的 corporate agency / primary agency 区分共同构成论文的理论框架([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])。
 >
 
 ## 认识论立场
 
-> [!info] [[Epistemology|认识论]]立场
-> 合法化理论属于**批判[[Discourse Analysis|话语分析]]（Critical Discourse Analysis）**传统。其[[Epistemic Stances|认识论立场]]是[[Constructivist Paradigm|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
+> [!info] [[Epistemology\|认识论]]立场
+> 合法化理论属于**批判[[Discourse Analysis\|话语分析]]（Critical Discourse Analysis）**传统。其[[Epistemic Stances\|认识论立场]]是[[Constructivist Paradigm\|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
 >
-> 这与 [[Evidence-Based Education|证据本位教育]] 中隐含的[[Positivism|实证主义]]认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的[[Variable|变量]]([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9, 27]])。
+> 这与 [[Evidence-Based Education\|证据本位教育]] 中隐含的[[Positivism\|实证主义]]认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的[[Variable\|变量]]([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9, 27]])。
 >
 
 ## 争议与批评
@@ -114,8 +114,8 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!example] [[Correlational Research|相关研究]]
-> - [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] — 将合法化理论应用于英国议会选择性教育政策辩论分析，论证 [[Ofsted]] "good" 评级通过四个层次被合法化为"证据"，从而系统性回避了关于选择性教育负面影响的学术研究
+> [!example] [[Correlational Research\|相关研究]]
+> - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] — 将合法化理论应用于英国议会选择性教育政策辩论分析，论证 [[Ofsted]] "good" 评级通过四个层次被合法化为"证据"，从而系统性回避了关于选择性教育负面影响的学术研究
 >
 
 ## 应用领域
@@ -123,6 +123,6 @@ updated: 2026-09-17
 > [!success] 应用领域
 > - [[Grammar School]] — 文法学校的 [[Ofsted]] 评级通过权威合法化 + 道德价值合法化被转化为"好学校"话语
 > - [[Moral Sidestep]] — 合法化理论解释了道德侧步为何有效：证据如果不能在接收方的价值框架内被合法化，会被道德话语替代
-> - [[Evidence-Based Education]] — 合法化理论对 EBE 的隐含前提（证据质量 → 政策影响力）提出挑战：合法化过程可能是证据到政策转化的关键中介[[Variable|变量]]
+> - [[Evidence-Based Education]] — 合法化理论对 EBE 的隐含前提（证据质量 → 政策影响力）提出挑战：合法化过程可能是证据到政策转化的关键中介[[Variable\|变量]]
 >
 

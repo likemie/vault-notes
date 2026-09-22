@@ -76,15 +76,15 @@ updated: 2026-07-02
 ## 研究问题
 
 > [!question]
-> [[National Education Policy 2009 Pakistan|巴基斯坦 2009 年国家教育政策]]将"培养具备分析和原创思维能力的自力更生个体"列为核心目标之一（Ministry of Education, 2009, p. 11）。然而，实际运作中的课程和学校实践并未能实现这一目标。既有的课程实施方式和教学常规无法有效培养学生的独立思考和批判分析能力。政策文本与实践之间的落差引出一个问题：如果国家政策期望课程培养自主思考者，那么已经内置了[[Critical Thinking|批判性思维]]成分的课程，是否以及如何在教学中实现这一目标？
+> [[National Education Policy 2009 Pakistan\|巴基斯坦 2009 年国家教育政策]]将"培养具备分析和原创思维能力的自力更生个体"列为核心目标之一（Ministry of Education, 2009, p. 11）。然而，实际运作中的课程和学校实践并未能实现这一目标。既有的课程实施方式和教学常规无法有效培养学生的独立思考和批判分析能力。政策文本与实践之间的落差引出一个问题：如果国家政策期望课程培养自主思考者，那么已经内置了[[Critical Thinking\|批判性思维]]成分的课程，是否以及如何在教学中实现这一目标？
 
 > [!claim] 核心主张
-> [[IB Diploma Programme|IB 文凭项目]]的[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程中，认知者通过扮演**提问者（questioning mind）**、**[[Reflexivity|反思性]]思考者（reflective thinker）**和**[[Creativity|创造性]]沟通者（creative communicator）**三种角色来行使[[Knowledge Production|知识建构]]的自主性。这三种角色构成了一个完整的自主性认知循环。提问启动探究，反思进行深度加工，创造性表达完成知识输出。自主性的实现依赖两个条件的同时满足：批判性思维能力的建设，以及认知者对自身反思能力的自信。
+> [[IB Diploma Programme\|IB 文凭项目]]的[[Theory of Knowledge\|知识论]]（Theory of Knowledge, TOK）课程中，认知者通过扮演**提问者（questioning mind）**、**[[Reflexivity\|反思性]]思考者（reflective thinker）**和**[[Creativity\|创造性]]沟通者（creative communicator）**三种角色来行使[[Knowledge Production\|知识建构]]的自主性。这三种角色构成了一个完整的自主性认知循环。提问启动探究，反思进行深度加工，创造性表达完成知识输出。自主性的实现依赖两个条件的同时满足：批判性思维能力的建设，以及认知者对自身反思能力的自信。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 巴基斯坦卡拉奇一所私立学校 The Urban Academy 的 IBDP 项目中，三名第一年学生和一名 TOK 教师的[[Learner Autonomy|自主学习]]实践与感知。
-> - **张力** 国家教育政策号召培养自主思考者，但实际的课程运作未能实现；具有[[Epistemology|认识论]]训练成分的 TOK 课程在结构上为自主性预留了空间，但这一空间能否以及如何在实践中被填充，取决于认知者的能力和信心。
-> - **贡献** 将[[Learner Autonomy|学习者自主性]]研究从传统的语言学习领域扩展到 IB 认识论课程情境，识别出认知者行使自主性的三种可观察角色，证明自主性依赖能力与信心的双条件机制，并提出自主的相互依存性（autonomous interdependence）：自主性是在社会互动中实现的有支持的独立。
+> - **对象** 巴基斯坦卡拉奇一所私立学校 The Urban Academy 的 IBDP 项目中，三名第一年学生和一名 TOK 教师的[[Learner Autonomy\|自主学习]]实践与感知。
+> - **张力** 国家教育政策号召培养自主思考者，但实际的课程运作未能实现；具有[[Epistemology\|认识论]]训练成分的 TOK 课程在结构上为自主性预留了空间，但这一空间能否以及如何在实践中被填充，取决于认知者的能力和信心。
+> - **贡献** 将[[Learner Autonomy\|学习者自主性]]研究从传统的语言学习领域扩展到 IB 认识论课程情境，识别出认知者行使自主性的三种可观察角色，证明自主性依赖能力与信心的双条件机制，并提出自主的相互依存性（autonomous interdependence）：自主性是在社会互动中实现的有支持的独立。
 
 ---
 
@@ -99,15 +99,15 @@ updated: 2026-07-02
 > Dam 将自主性从单一能力概念扩展为包含**准备度（readiness）**的双维结构。准备度由两个要素构成：**能力（capacity）**，指独立和在合作中执行学习任务的能力；**意愿（willingness）**，指内在动机或意图强度，即学习者是否真正想要承担学习责任。这一区分意味着自主性不仅是技能训练的结果，还涉及学习者的动机状态和自我信念。
 
 > [!feature] 自主性的操作性特征
-> 综合[[Document|文献]]，自主性在操作层面涉及三个核心特征（pp.173–174）：
+> 综合[[Document\|文献]]，自主性在操作层面涉及三个核心特征（pp.173–174）：
 >
 > - **内部反思（Internal Reflection）** 自主性体现在个体的信念和欲望是理性和知情反思的结果（Carter, Kramer, & Steiner, 2007, p. 323）。个体经过有意识的反思后形成判断和选择。
-> - **[[Metacognition|元认知]]意识（Metacognitive Awareness）** 自主性要求对自身认知保持意识（consciousness），包括关注和自评自己知道什么、正在做什么、以及认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。
-> - **能力（Competence）** 学习者需要具备[[Critical Thinking|批判性思维]]、分析性写作和决策等具体技能。Little（2007）指出，只有当学习者通过这些学习经验获得相关技能时，自主性的潜力才能实现。
+> - **[[Metacognition\|元认知]]意识（Metacognitive Awareness）** 自主性要求对自身认知保持意识（consciousness），包括关注和自评自己知道什么、正在做什么、以及认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。
+> - **能力（Competence）** 学习者需要具备[[Critical Thinking\|批判性思维]]、分析性写作和决策等具体技能。Little（2007）指出，只有当学习者通过这些学习经验获得相关技能时，自主性的潜力才能实现。
 
 ### 自主学习者特征作为观察框架
 
-> [!feature] Chan (2001) 的[[Learner Autonomy|自主学习]]者六项特征（pp. 512–513）
+> [!feature] Chan (2001) 的[[Learner Autonomy\|自主学习]]者六项特征（pp. 512–513）
 > - **高度动机（Highly Motivated）** 对学习主题本身有内在兴趣，从学习过程中获得满足。
 > - **好奇心强（Inquisitive）** 主动追问超出课堂规定内容的问题，自发寻找额外信息和解释。
 > - **组织有序（Well-organized）** 能够规划和管理学习任务的时间、资源与进度。
@@ -116,7 +116,7 @@ updated: 2026-07-02
 > - **利用一切学习机会（Use Every Opportunity to Learn）** 将日常经验、社会互动和课外资源都视为学习的组成部分。
 
 > [!warrant]- 概念框架如何转化为实证观察
-> 自主性的[[Definition of Terms|操作性定义]]（能力、意愿、元认知意识）规定了分析的基本维度；Chan 的六项特征提供了在课堂和访谈中识别自主性表现的行为指标。学生在课堂讨论中提出的问题、在论文中采用的论证策略、在[[Homework|作业]]中尝试的表达方式，都可以被这套框架所捕获和分析。
+> 自主性的[[Definition of Terms\|操作性定义]]（能力、意愿、元认知意识）规定了分析的基本维度；Chan 的六项特征提供了在课堂和访谈中识别自主性表现的行为指标。学生在课堂讨论中提出的问题、在论文中采用的论证策略、在[[Homework\|作业]]中尝试的表达方式，都可以被这套框架所捕获和分析。
 
 ---
 
@@ -154,8 +154,8 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > | **Sabaina** | 16 | 完成传统英式 O-level 体系（中等教育）后直接转入 IBDP | 依赖型参与：参与度较低，对学习能力存在不确定性，依赖外部确认与指导 | **受阻依赖型自主（反例）** 从传统应试体系向探究体系的过渡期，虽有基本认知能力，但因缺乏自我信心（self-confidence）导致自主实践受阻，构成了解析机制的关键反例（p.148）。 |
 > | **Simak** | — | 外国大学文学与经济学 B.A.，批判性与[[Creativity\|创造性]]思维 M.Ed.，五年教学经验 | 引导与[[Dialogue in Education\|对话]]：以兼职身份加入 The Urban Academy 担任 TOK 课程教师 | **自主空间的构建者** 通过以认知者为中心的对话式教学设计，为三位异质学生提供自主实践与元认知[[Growth\|成长]]的弹性边界（p.149）。 |
 
-> [!warrant]- 参与者[[Heterogeneity|异质性]]的分析价值
-> 三位学生不同的参与模式——Ariana 的主动探索、Ayaan 的课后深度追问、Sabaina 的自信不足——是将自主性的条件机制（能力与信心）从背景[[Variable|变量]]中分离出来的关键证据。如果三位学生背景相同且表现一致，就只能描述 TOK 中发生了什么，而无法解释什么条件下自主性能够或不能发展。
+> [!warrant]- 参与者[[Heterogeneity\|异质性]]的分析价值
+> 三位学生不同的参与模式——Ariana 的主动探索、Ayaan 的课后深度追问、Sabaina 的自信不足——是将自主性的条件机制（能力与信心）从背景[[Variable\|变量]]中分离出来的关键证据。如果三位学生背景相同且表现一致，就只能描述 TOK 中发生了什么，而无法解释什么条件下自主性能够或不能发展。
 
 ---
 
@@ -184,12 +184,12 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ### 论证步骤一　TOK 作为自主性训练的课程空间
 
 > [!claim] 步骤一主张
-> [[Theory of Knowledge|TOK]] 课程以认知者处于中心位置、环绕[[Ways of Knowing|认知方式]]和[[Areas of Knowledge|知识领域]]的结构，为[[Learner Autonomy|学习者自主性]]提供了制度化的课程空间。但课程结构只设置可能性，可能性能否转化为现实取决于认知者的能力和信心。
+> [[Theory of Knowledge\|TOK]] 课程以认知者处于中心位置、环绕[[Ways of Knowing\|认知方式]]和[[Areas of Knowledge\|知识领域]]的结构，为[[Learner Autonomy\|学习者自主性]]提供了制度化的课程空间。但课程结构只设置可能性，可能性能否转化为现实取决于认知者的能力和信心。
 
 > [!chain-link] TOK 的结构特征与自主性空间
-> TOK 是[[IB Diploma Programme|IB DP]] 三项核心要素中唯一直接以[[Epistemology|认识论]]为内容的课程。其核心设计是要求学生反思自身如何知道所知，而非记忆已知什么，这使其根本区别于以内容覆盖为逻辑的传统课程（p.173）。课程围绕**认知方式（ways of knowing）**和**知识领域（areas of knowledge）**两个维度展开，认知者（knower）在结构中占据中心位置（IBO, 2011）。这一结构意味着课程的核心活动是促使每个认知者对自己已经接受的知识和信念进行系统性质疑。
+> TOK 是[[IB Diploma Programme\|IB DP]] 三项核心要素中唯一直接以[[Epistemology\|认识论]]为内容的课程。其核心设计是要求学生反思自身如何知道所知，而非记忆已知什么，这使其根本区别于以内容覆盖为逻辑的传统课程（p.173）。课程围绕**认知方式（ways of knowing）**和**知识领域（areas of knowledge）**两个维度展开，认知者（knower）在结构中占据中心位置（IBO, 2011）。这一结构意味着课程的核心活动是促使每个认知者对自己已经接受的知识和信念进行系统性质疑。
 >
-> TOK 在结构上是一个已经包含[[Critical Thinking|批判性思维]]成分的课程。案例选择的逻辑是追问在这样一个已经为自主性预留了空间的课程中，认知者实际上以什么方式行使了自主性，以及什么条件决定了自主性实践的质量。
+> TOK 在结构上是一个已经包含[[Critical Thinking\|批判性思维]]成分的课程。案例选择的逻辑是追问在这样一个已经为自主性预留了空间的课程中，认知者实际上以什么方式行使了自主性，以及什么条件决定了自主性实践的质量。
 
 > [!example]- 图1：TOK 模型图（Diagram of TOK Model）
 > ![](https://img.mylikemie.icu/sources/Lakhani_2012_AKUIED/figures/Lakhani_2012_AKUIED_Fig1_TOK_Model.jpg)
@@ -202,7 +202,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ### 论证步骤二　三种角色：自主性的实证形态
 
 > [!claim] 步骤二主张
-> 认知者在 TOK 学习中扮演了三种角色：**提问者（questioning mind）**、**[[Reflexivity|反思性]]思考者（reflective thinker）**和**[[Creativity|创造性]]沟通者（creative communicator）**。这三种角色是自主性认知循环的三个功能环节：提问启动自主探究，反思对探究所得进行深度加工，创造性表达将加工后的知识输出为可交流的形式。
+> 认知者在 TOK 学习中扮演了三种角色：**提问者（questioning mind）**、**[[Reflexivity\|反思性]]思考者（reflective thinker）**和**[[Creativity\|创造性]]沟通者（creative communicator）**。这三种角色是自主性认知循环的三个功能环节：提问启动自主探究，反思对探究所得进行深度加工，创造性表达将加工后的知识输出为可交流的形式。
 
 ---
 
@@ -210,11 +210,11 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > 学生在课堂讨论中提出问题、在独立阅读中保持探究精神、在课堂中使用电子工具查找信息。这些问题由认知者自发生成，引导了意义建构（p.175）。
 
 > [!chain-link] 从提问到自主探究
-> - **Ariana：好奇心驱动的独立探究** 在一次[[Homework|作业]]中使用了课堂未讨论的认知谬误（fallacy of knowing）。她追问还有什么其他的谬误，好奇心让她提前阅读了书和互联网上的内容。作业的主要问题很重要，但我自己的问题对我来说同样重要（p.175）。
-> - **Sabaina：讨论触发独立研究** 讨论引导提问，然后自己思考并独立研究（p.176）。提问往往始于与他人的[[Dialogue in Education|对话]]。
+> - **Ariana：好奇心驱动的独立探究** 在一次[[Homework\|作业]]中使用了课堂未讨论的认知谬误（fallacy of knowing）。她追问还有什么其他的谬误，好奇心让她提前阅读了书和互联网上的内容。作业的主要问题很重要，但我自己的问题对我来说同样重要（p.175）。
+> - **Sabaina：讨论触发独立研究** 讨论引导提问，然后自己思考并独立研究（p.176）。提问往往始于与他人的[[Dialogue in Education\|对话]]。
 
 > [!failure] 反面证据：自信缺失时提问能力的失效
-> Sabaina 对自己的[[Knowledge Production|知识建构]]能力缺乏自信：我猜我不够快，我对自己的信念不足。即使掌握了内容知识，她也无法转化为有组织的知识产品。当你知道大家都是这样做的时候，你就照着做（p.176）。自由思考若无处理自由的技能和自我信念，就会失去效用。
+> Sabaina 对自己的[[Knowledge Production\|知识建构]]能力缺乏自信：我猜我不够快，我对自己的信念不足。即使掌握了内容知识，她也无法转化为有组织的知识产品。当你知道大家都是这样做的时候，你就照着做（p.176）。自由思考若无处理自由的技能和自我信念，就会失去效用。
 
 ---
 
@@ -283,7 +283,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > 自主性是在社会互动中实现的。即使在最独立的反思中（如 Ariana 在作业中尝试主观经验路径），经验仍根植于社会互动。认知者高度需要课堂中互动、讨论和对话的空间，这是最重要的实证发现之一（p.178）。
 
 > [!interdependence] 自主的相互依存性（autonomous interdependence）
-> Atkins（2006/2009）提出，自主性是在社会互动中实现的有支持的独立。**阅读不是自主学习经验的终点（p.178）**。认知失衡（disequilibrium）对[[Constructivist Paradigm|建构主义]]学习至关重要，正是认知者在知识建构中的能动性提出了解决方案（Moon, 2008）。教师的首要任务是帮助学生安于知识必然产生悖论这一事实。
+> Atkins（2006/2009）提出，自主性是在社会互动中实现的有支持的独立。**阅读不是自主学习经验的终点（p.178）**。认知失衡（disequilibrium）对[[Constructivist Paradigm\|建构主义]]学习至关重要，正是认知者在知识建构中的能动性提出了解决方案（Moon, 2008）。教师的首要任务是帮助学生安于知识必然产生悖论这一事实。
 >
 > > [!col-l] 个体反思
 > > 认知者独立解读个人经验。即使在学习认识论课程，仍需要对自己的信念和知识主张进行独立的理性反思。如 Ariana 在作业中尝试主观经验路径，Ayaan 在论文中完成从体验到理论的整合。
@@ -293,24 +293,24 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 > [!pathways] 三项课程建议
 > - **引入视觉媒介作为意义建构和表征工具** 将图像、视频、海报等视觉媒介纳入书面评估的合法表达方式，而非仅将其视为口头演示的辅助手段。这一建议直接回应了 Sabaina 的案例（p.178）。
-> - **通过引导式方法、反思性问题和角色期望的明确沟通来提供支架（[[Scaffolding]]）** 在独立阅读和探究任务中，教师应以[[Leading Questions|引导性问题]]和明确的角色期望搭建支架。支架的目的是帮助认知者建立从跟随到独立的过渡路径。Sabaina 不知道自己该怎么推进的困惑，正提示了支架的缺失（p.179）。
-> - **采用[[Cooperative Learning|合作学习]]策略以支持自主性中的关联性** 辩论、戏剧和[[Case Study|案例研究]]等策略可以为学生提供互动空间，让他们在执行独立任务时分享自己的关切和困难。与他人的对话和协作是自主性发展的社会条件，而非其对立面。
+> - **通过引导式方法、反思性问题和角色期望的明确沟通来提供支架（[[Scaffolding]]）** 在独立阅读和探究任务中，教师应以[[Leading Questions\|引导性问题]]和明确的角色期望搭建支架。支架的目的是帮助认知者建立从跟随到独立的过渡路径。Sabaina 不知道自己该怎么推进的困惑，正提示了支架的缺失（p.179）。
+> - **采用[[Cooperative Learning\|合作学习]]策略以支持自主性中的关联性** 辩论、戏剧和[[Case Study\|案例研究]]等策略可以为学生提供互动空间，让他们在执行独立任务时分享自己的关切和困难。与他人的对话和协作是自主性发展的社会条件，而非其对立面。
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Knowledge Production|知识建构]]遵循提问、反思、表达三阶段认知循环** 认知者通过自发性提问启动自主探究，通过对搜索内容和生活经验的反思进行深度加工，通过课堂讨论和论文进行[[Creativity|创造性]]表达。三种角色分别对应循环的三个功能环节（pp.175–177）。
-> 2. **自主性依赖能力与信心的双条件机制** [[Critical Thinking|批判性思维]]的知识和技能提供能力基础，但对自身反思和意义建构能力的自信是自主性从可能到实现的[[Necessary and Sufficient Conditions|必要条件]]（pp.177–178）。Sabaina 的案例证明：有能力而无信心时，认知者会退缩到模仿和最低要求的完成。
-> 3. **自主性本质上是社会性实践** 阅读不是[[Learner Autonomy|自主学习]]经验的终点。即使在最独立的反思活动中，认知者仍依赖课堂互动、讨论和[[Dialogue in Education|对话]]来激发思维、检验观点和建立自信（p.178）。自主性是在社会支持中独立判断，而非独自学习。
+> 1. **[[Knowledge Production\|知识建构]]遵循提问、反思、表达三阶段认知循环** 认知者通过自发性提问启动自主探究，通过对搜索内容和生活经验的反思进行深度加工，通过课堂讨论和论文进行[[Creativity\|创造性]]表达。三种角色分别对应循环的三个功能环节（pp.175–177）。
+> 2. **自主性依赖能力与信心的双条件机制** [[Critical Thinking\|批判性思维]]的知识和技能提供能力基础，但对自身反思和意义建构能力的自信是自主性从可能到实现的[[Necessary and Sufficient Conditions\|必要条件]]（pp.177–178）。Sabaina 的案例证明：有能力而无信心时，认知者会退缩到模仿和最低要求的完成。
+> 3. **自主性本质上是社会性实践** 阅读不是[[Learner Autonomy\|自主学习]]经验的终点。即使在最独立的反思活动中，认知者仍依赖课堂互动、讨论和[[Dialogue in Education\|对话]]来激发思维、检验观点和建立自信（p.178）。自主性是在社会支持中独立判断，而非独自学习。
 
 ---
 
 ## 关键引用
 
 > [!citation-card]- 探究者、思考者与创造者的统一
-> [[IB Learner Profile|学习者培养目标]]中提到的探究者、思考者、风险承担者、反思者和创造者角色及其实际表现，共同凸显了学习者的主动性、[[Critical Thinking|批判性思维]]、多元视角、[[Creativity|创造性]]表达和自我反思。（pp.178–179）
+> [[IB Learner Profile\|学习者培养目标]]中提到的探究者、思考者、风险承担者、反思者和创造者角色及其实际表现，共同凸显了学习者的主动性、[[Critical Thinking\|批判性思维]]、多元视角、[[Creativity\|创造性]]表达和自我反思。（pp.178–179）
 >
 > *Briefly, it can be asserted that, the roles of being Inquirers, Thinkers, Risk-takers, Reflective and Creative mentioned in the learner profile and also their enactments highlight the learners' initiative, critical thinking, diverse perspectives, creative expression and self-reflection.*
 
@@ -325,7 +325,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > *The reasons for their behaviours, choices and actions of learning come from inside within the consciousness of self.*
 
 > [!citation-card]- 认知失衡与自主性的关系
-> 教师首先需要让学生安心：知识必然会产生悖论，因为不和谐对[[Constructivist Paradigm|建构主义]]学习至关重要，而正是认知者在[[Knowledge Production|知识建构]]中的能动性提出了解决方案。（p.178, citing Moon, 2008）
+> 教师首先需要让学生安心：知识必然会产生悖论，因为不和谐对[[Constructivist Paradigm\|建构主义]]学习至关重要，而正是认知者在[[Knowledge Production\|知识建构]]中的能动性提出了解决方案。（p.178, citing Moon, 2008）
 >
 > *Pedagogue first needs to comfort students that knowledge would certainly create paradoxes because dissonance is vital for constructivist learning and it is also the agency of knower in knowledge construction which proposes the solution.*
 
@@ -334,11 +334,11 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ## 自述局限
 
 > [!warning]
-> **单案例设计的推广边界** 研究涉及一所学校的三名学生和一名教师，[[Sample Size Determination|样本量]]极小且高度情境特定。The Urban Academy 作为一所提供 [[IB Diploma Programme|IBDP]] 的私立学校，其资源、教师质量和学生群体与巴基斯坦公立学校系统存在系统性差异，研究结论不能直接推广到更广泛的教育情境（pp.173–174）。
+> **单案例设计的推广边界** 研究涉及一所学校的三名学生和一名教师，[[Sample Size Determination\|样本量]]极小且高度情境特定。The Urban Academy 作为一所提供 [[IB Diploma Programme\|IBDP]] 的私立学校，其资源、教师质量和学生群体与巴基斯坦公立学校系统存在系统性差异，研究结论不能直接推广到更广泛的教育情境（pp.173–174）。
 >
-> **横断设计的时序局限** 数据收集限于 IBDP 第一年。学生在两年项目结束时，经过更长时间的 [[Theory of Knowledge|TOK]] 训练和更多的论文写作经验后，可能出现不同的自主性实践模式。由于没有进行纵向追踪，无法判断观察到的三种角色是稳定特征还是发展阶段的产物。
+> **横断设计的时序局限** 数据收集限于 IBDP 第一年。学生在两年项目结束时，经过更长时间的 [[Theory of Knowledge\|TOK]] 训练和更多的论文写作经验后，可能出现不同的自主性实践模式。由于没有进行纵向追踪，无法判断观察到的三种角色是稳定特征还是发展阶段的产物。
 >
-> **未讨论的[[Reflexivity|反身性]]问题** 研究未报告研究者自身在田野中的位置、与被研究学校的关系以及这些因素对数据收集和解读的潜在影响。在巴基斯坦的多语环境中，访谈语言（英语还是乌尔都语）可能影响学生表达的丰富性和准确性，但论文未对此做出说明。研究也没有报告是否对参与者进行了成员检查（[[Member Checking]]）或同伴审阅。
+> **未讨论的[[Reflexivity\|反身性]]问题** 研究未报告研究者自身在田野中的位置、与被研究学校的关系以及这些因素对数据收集和解读的潜在影响。在巴基斯坦的多语环境中，访谈语言（英语还是乌尔都语）可能影响学生表达的丰富性和准确性，但论文未对此做出说明。研究也没有报告是否对参与者进行了成员检查（[[Member Checking]]）或同伴审阅。
 
 ---
 

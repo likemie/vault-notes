@@ -38,7 +38,7 @@ updated: 2026-06-02
 ## 核心主张
 
 > [!tip]-
-> Stokes（1997）在 [[Use-Inspired Basic Research|Pasteur's Quadrant]]: Basic Science and Technological Innovation 中提出，传统的[[Blue Skies Research|基础研究]]-[[Evaluation Research|应用研究]]一维谱系不足以描述科学研究的多样性。他以两个独立维度——对基础理解的追求（quest for fundamental understanding）和对应用的考虑（considerations of use）——构建了一个二维四象限模型（p.310）。
+> Stokes（1997）在 [[Use-Inspired Basic Research\|Pasteur's Quadrant]]: Basic Science and Technological Innovation 中提出，传统的[[Blue Skies Research\|基础研究]]-[[Evaluation Research\|应用研究]]一维谱系不足以描述科学研究的多样性。他以两个独立维度——对基础理解的追求（quest for fundamental understanding）和对应用的考虑（considerations of use）——构建了一个二维四象限模型（p.310）。
 > [!quote]
 > "traditional linear models viewed basic and applied research as opposite ends of a spectrum, but Stokes argued that both could exist in the same research program. Pasteur's fundamental discoveries in microbiology both advanced fundamental understanding of fermentation and disease mechanisms and served the practical needs of food preservation and disease treatment—a type of research Stokes called 'use-inspired basic research.'" (summarized from Stokes, 1997)
 > 
@@ -59,7 +59,7 @@ updated: 2026-06-02
 ## 应用领域
 
 > [!success]
-> - **国际[[University-Industry Collaboration|产学合作]]定位** 国际产学合作被定位在[[Use-Inspired Basic Research|巴斯德象限]]，学术界的深度研究能力与产业界的现实问题驱动相结合，产生既有科学价值又有应用前景的研究（p.310）
+> - **国际[[University-Industry Collaboration\|产学合作]]定位** 国际产学合作被定位在[[Use-Inspired Basic Research\|巴斯德象限]]，学术界的深度研究能力与产业界的现实问题驱动相结合，产生既有科学价值又有应用前景的研究（p.310）
 ... Applied fuzzy match at line 41-72.
 > - **研究政策分析** 该模型为分析各国研究资助政策提供了概念工具，不同政策工具倾向于支持不同象限的研究
 > - 模型同时为理解 [[Use-Inspired Basic Research]] 提供了完整的理论框架
@@ -70,6 +70,6 @@ updated: 2026-06-02
 ## 与相关概念的关系
 
 > [!example]
-> - vs [[Use-Inspired Basic Research]]：Use-Inspired [[Blue Skies Research|Basic Research]] 是巴斯德象限的具体内容；Stokes 象限模型是容纳这一概念以及玻尔象限和爱迪生象限的完整理论框架
+> - vs [[Use-Inspired Basic Research]]：Use-Inspired [[Blue Skies Research\|Basic Research]] 是巴斯德象限的具体内容；Stokes 象限模型是容纳这一概念以及玻尔象限和爱迪生象限的完整理论框架
 > - vs 传统线性模型：传统模型认为从基础研究到应用是一条线性路径（基础→应用→开发）；Stokes 模型指出二者是独立维度，可以共存
 

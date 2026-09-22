@@ -35,12 +35,12 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 志愿者抽样（Volunteer Sampling）是[[Non-probability Sampling|非概率抽样]]的一种。当准入困难时，研究者依赖自愿参与者——可能是个人朋友、朋友的朋友、回应报纸广告者、对研究感兴趣的特定学校人士或参加课程者。有时这是唯一可能的抽样方式（Morrison, 2006），可能比完全不研究更好。
+> 志愿者抽样（Volunteer Sampling）是[[Non-probability Sampling\|非概率抽样]]的一种。当准入困难时，研究者依赖自愿参与者——可能是个人朋友、朋友的朋友、回应报纸广告者、对研究感兴趣的特定学校人士或参加课程者。有时这是唯一可能的抽样方式（Morrison, 2006），可能比完全不研究更好。
 
 > [!method-scope] 方法范围
 > - **研究对象** 自愿参与研究的个体
 > - **问题类型** 探索性研究、准入极度受限的研究
-> - **[[Unit of Analysis|分析单位]]** 个体
+> - **[[Unit of Analysis\|分析单位]]** 个体
 > - **输出形式** 由自愿者构成的非概率样本
 
 ## 研究程序
@@ -52,7 +52,7 @@ updated: 2026-09-17
 > [!method-fit] 适用判断
 > - **适合使用** 准入极度困难、其他抽样方式均不可行时。
 > - **谨慎使用** 必须极其谨慎对待推广性或代表性声称。
-> - **不适合使用** 需要统计代表性或可获取[[Sampling Frame|抽样框]]时。
+> - **不适合使用** 需要统计代表性或可获取[[Sampling Frame\|抽样框]]时。
 
 ## 局限性
 
@@ -62,5 +62,5 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍志愿者抽样作为准入困难时的最后选择。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍志愿者抽样作为准入困难时的最后选择。

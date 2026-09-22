@@ -46,31 +46,31 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 类型学分析（Typological Analysis）本质上是一种分类过程（LeCompte & Preissle, 1993, p. 257）：按某种明确标准（如行动、行为、意义、参与性质、关系、情境、活动）把数据放入组、子集或类别中。它是次级[[Coding in Qualitative Research|编码]]（secondary coding）的过程（Miles & Huberman, 1984），即把描述性编码进一步汇总、归入子集。类型（typology）是一组代表更一般集合或类别的子类型现象（Lofland, 1970）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
+> 类型学分析（Typological Analysis）本质上是一种分类过程（LeCompte & Preissle, 1993, p. 257）：按某种明确标准（如行动、行为、意义、参与性质、关系、情境、活动）把数据放入组、子集或类别中。它是次级[[Coding in Qualitative Research\|编码]]（secondary coding）的过程（Miles & Huberman, 1984），即把描述性编码进一步汇总、归入子集。类型（typology）是一组代表更一般集合或类别的子类型现象（Lofland, 1970）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011)]]（29.5）
 
 > [!citation-card]- 关键定义
-> 类型学分析本质上是一种分类过程，按某种明确标准把数据放入组、子集或类别；它是次级编码的过程，把描述性编码进一步汇总、归入子集。类型是一组代表更一般集合或类别的子类型现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
+> 类型学分析本质上是一种分类过程，按某种明确标准把数据放入组、子集或类别；它是次级编码的过程，把描述性编码进一步汇总、归入子集。类型是一组代表更一般集合或类别的子类型现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011)]]（29.5）
 >
 > *Typological analysis is essentially a classificatory process... It is the process of secondary coding where descriptive codes are then drawn together and put into subsets. Typologies are a set of phenomena that represent subtypes of a more general set or category.*
 
 > [!method-scope] 方法范围
 > - **研究对象** 已编码的质性数据（访谈、观察、文档等）。
 > - **问题类型** 适合把数据按性质、行为、意义、参与方式、关系或情境分类，建立类型体系。
-> - **[[Unit of Analysis|分析单位]]** 编码、类别、行为、行动、意义单元。
+> - **[[Unit of Analysis\|分析单位]]** 编码、类别、行为、行动、意义单元。
 > - **输出形式** 类型体系、类型子集、有序且命名编号的分类呈现。
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
+> [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 分类是基于明确标准的人为建构，类型不是自然给定的，而是研究者按判据组织数据的结果。
 > - **研究者角色** 研究者决定分类标准与类型边界，须明确标准并保持分类的一致性与忠实性。
 > - **有效性标准** 类型须以清晰判据为基础，子集间能区分、子集内具一致性；分类须忠实于数据。
-> - **不声称回答的问题** 分类本身不说明[[Causality|因果关系]]；建立类型不等于解释类型的成因。
+> - **不声称回答的问题** 分类本身不说明[[Causality\|因果关系]]；建立类型不等于解释类型的成因。
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Qualitative Research|质性研究]]的数据分析环节。
+> - **研究设计** [[Qualitative Research\|质性研究]]的数据分析环节。
 > - **数据收集** 访谈、观察、文档等。
-> - **分析方法** [[Coding in Qualitative Research|编码]]、次级编码、分类、类型建构。
+> - **分析方法** [[Coding in Qualitative Research\|编码]]、次级编码、分类、类型建构。
 > - **辅助技术** 持续比较、备忘录、分析归纳。
 
 ## 研究程序
@@ -82,7 +82,7 @@ updated: 2026-09-17
 > 4. **有序呈现** 以有序、命名、编号的方式呈现给读者。
 
 > [!info] 类型的理论基础
-> Lazarsfeld & Barton（1951）提出类型学可依据潜在维度或关键特征来发展。Lofland（1970）强调类型是一组代表更一般类别的子类型现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
+> Lazarsfeld & Barton（1951）提出类型学可依据潜在维度或关键特征来发展。Lofland（1970）强调类型是一组代表更一般类别的子类型现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011)]]（29.5）
 
 ## 适用场景
 
@@ -95,7 +95,7 @@ updated: 2026-09-17
 
 > [!method-limits] 方法局限
 > - **偏误来源** 分类标准选择带研究者预设；类型可能过度简化数据变异。
-> - **适用边界** 类型是次级[[Coding in Qualitative Research|编码]]的结果，依赖前期编码质量。
+> - **适用边界** 类型是次级[[Coding in Qualitative Research\|编码]]的结果，依赖前期编码质量。
 > - **误用风险** 把类型学分类当作因果解释；把人为分类当作自然本质。
 > - **补救方式** 明确分类标准，结合持续比较与备忘录，用反例检验类型。
 
@@ -112,6 +112,6 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]]** 介绍类型学分析作为 LeCompte & Preissle 提出的质性分析工具之一，梳理 Lofland and Lazarsfeld & Barton 的分类逻辑与建构要求。
-> - **[[Argument_Torres_2022_KMModels|Torres (2022)]]** 运用 Best & Holmes 的三代分析透镜（线性、关系、系统），对[[Knowledge Transfer|知识转移]]、KTA、研究动员与证据生态等四类主流[[Knowledge Mobilisation|知识动员]]模型展开多维类型学与横向比较分析。
+> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011, Ch. 29)]]** 介绍类型学分析作为 LeCompte & Preissle 提出的质性分析工具之一，梳理 Lofland and Lazarsfeld & Barton 的分类逻辑与建构要求。
+> - **[[Argument_Torres_2022_KMModels\|Torres (2022)]]** 运用 Best & Holmes 的三代分析透镜（线性、关系、系统），对[[Knowledge Transfer\|知识转移]]、KTA、研究动员与证据生态等四类主流[[Knowledge Mobilisation\|知识动员]]模型展开多维类型学与横向比较分析。

@@ -42,7 +42,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 整合陈述（integration Statement）是[[Mixed Methods Research|混合方法研究]]方案或报告中必须包含的陈述，明确说明整合量化与质性数据库的意图（intent）以及实施整合所依据的具体设计程序（procedures）。这一陈述是连接[[Research Question|研究问题]]、设计选择和数据分析的核心纽带，应出现在研究的方法部分或引言部分([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.251]])。
+> 整合陈述（integration Statement）是[[Mixed Methods Research\|混合方法研究]]方案或报告中必须包含的陈述，明确说明整合量化与质性数据库的意图（intent）以及实施整合所依据的具体设计程序（procedures）。这一陈述是连接[[Research Question\|研究问题]]、设计选择和数据分析的核心纽带，应出现在研究的方法部分或引言部分([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.251]])。
 
 整合陈述在撰写报告时，需要用研究实际使用的具体数据信息来替换抽象的"量化数据"和"质性数据"占位词。
 
@@ -51,7 +51,7 @@ updated: 2026-06-02
 ## 写作脚本
 
 > [!tip]-
-> 整合陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.251–252]])。
+> 整合陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.251–252]])。
 
 **[[Convergent Design|聚敛式设计]]**
 > "integration involved comparing the results from the quantitative and qualitative data by merging so that a more complete understanding emerges than provided by the quantitative or the qualitative results alone."
@@ -63,7 +63,7 @@ updated: 2026-06-02
 > "Integration involved exploring initially by gathering qualitative data, analyzing it, and using the qualitative results for building a culturally specific measure or instrument for quantitative testing with a large sample."
 
 > [!example]
-> 整合陈述中可用的各类术语（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Table 10.5）：
+> 整合陈述中可用的各类术语（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Table 10.5）：
 >
 > | 设计类型 | 意图术语 | 程序术语 |
 > |---|---|---|
@@ -77,8 +77,8 @@ updated: 2026-06-02
 ## 与相关概念的区别
 
 > [!example]
-> - vs [[Purpose Statement]]：目的陈述是对整个研究意图的总体说明，整合陈述则专门聚焦于量化与质性数据如何组合以及为何组合。在[[Mixed Methods Research|混合方法研究]]中，整合陈述通常是目的陈述的一部分或补充。
-> - vs [[Mixed Methods Question]]：混合方法[[Research Question|研究问题]]询问"整合将带来什么洞见"，整合陈述则说明"整合将如何操作"。两者共同构成混合方法研究的方法论说明。
+> - vs [[Purpose Statement]]：目的陈述是对整个研究意图的总体说明，整合陈述则专门聚焦于量化与质性数据如何组合以及为何组合。在[[Mixed Methods Research\|混合方法研究]]中，整合陈述通常是目的陈述的一部分或补充。
+> - vs [[Mixed Methods Question]]：混合方法[[Research Question\|研究问题]]询问"整合将带来什么洞见"，整合陈述则说明"整合将如何操作"。两者共同构成混合方法研究的方法论说明。
 
 ---
 

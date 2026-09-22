@@ -78,12 +78,12 @@ sources:
 
 ## 概念地图
 
-> [!knowledge-map]- 第15章 [[Concept Mapping|概念地图]]
+> [!knowledge-map]- 第15章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_15_Concept_Map.jpg)
 
 ## 章节内容
 
-> [!logic-map] [[Ex Post Facto Research|事后回溯研究]]方法的核心知识结构
+> [!logic-map] [[Ex Post Facto Research\|事后回溯研究]]方法的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["事后回溯研究<br/>Ex Post Facto Research"]
@@ -107,7 +107,7 @@ sources:
 在因果关系的框架中（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|第4章]]），事后回溯研究关注研究结果的原因（causes of effects），区别于研究原因的结果（effects of causes）。核心追问是：哪些因素似乎与特定事件、条件或行为方面有关联？这些都已发生，因此必须[[Hypothesis|假设]]可能的原因，然后对照证据逐一检验，例如通过将因素保持不变、控制样本并进行匹配（p. 304）。
 
 > [!def] 事后回溯研究的正式定义
-> 事后回溯研究是一种梳理已发生事件的先行因素的方法，这些事件已发生因此无法被控制、设计或操纵（Cooper & Schindler, 2001, p. 136）。只能报告已发生或正在发生的事情，通过谨慎关注抽样来设法将因素保持不变。自[[Variable|变量]]无法像在真正实验中那样被操纵，因为它们已经发生。因此整个推断在概率性因果关系的领域内进行：试探性地推断原因（inferring causes tentatively），无法确定性地展示因果关系（p. 304）。
+> 事后回溯研究是一种梳理已发生事件的先行因素的方法，这些事件已发生因此无法被控制、设计或操纵（Cooper & Schindler, 2001, p. 136）。只能报告已发生或正在发生的事情，通过谨慎关注抽样来设法将因素保持不变。自[[Variable\|变量]]无法像在真正实验中那样被操纵，因为它们已经发生。因此整个推断在概率性因果关系的领域内进行：试探性地推断原因（inferring causes tentatively），无法确定性地展示因果关系（p. 304）。
 
 事后回溯研究可用于研究相似但仅在一个条件上不同的群体，评估那个不同条件对[[Dependent Variable|因变量]]的效应。它因此是一种实验形式，但没有真正实验的严格控制：存在控制组和实验组（后者指某一特定条件被应用的组）。由于几乎没有或完全没有对[[Independent Variable|自变量]]或条件的严格操纵，也没有对被试的[[Random Assignment|随机分配]]，任何因果推断都是试探性的（p. 304）。
 
@@ -116,13 +116,13 @@ sources:
 >
 > 她可以做的事情包括：(1) 研究医院记录，看哪些群体遭受了最大创伤，是公交车、卡车还是摩托车冲击受害者；(2) 通过分析统计数据、勘验事故地点、收集受害者和目击者的陈述来重建事件。通过这种方式，可以识别可能的事故决定因素：超速、路况不佳、疏忽驾驶、挫折感、车辆故障、药物或酒精影响等。
 >
-> 在她的勘验基础上，她可以就可能的原因形成[[Hypothesis|假设]]，并以建议的形式提交给相关权威机构。这些建议可能包括改善路况、降低限速或加强警察巡逻。关键在于：她在回溯性识别原因的过程中，采用的正是事后回溯视角（p. 304）。
+> 在她的勘验基础上，她可以就可能的原因形成[[Hypothesis\|假设]]，并以建议的形式提交给相关权威机构。这些建议可能包括改善路况、降低限速或加强警察巡逻。关键在于：她在回溯性识别原因的过程中，采用的正是事后回溯视角（p. 304）。
 
 ---
 
 事后回溯研究也可用于替代实验，在不可能、不切实际或不道德地控制或操纵因变量（乃至自变量）的情境中，检验关于因果与效应的假设（p. 305）。
 
-> [!case] 家庭暴力与[[Academic Achievement|学业表现]]
+> [!case] 家庭暴力与[[Academic Achievement\|学业表现]]
 > 假设要检验家庭暴力导致学业表现不佳这一假设。从伦理上讲，不应让学生暴露于家庭暴力，也无法将情绪稳定的儿童置于受控的创伤环境中来研究效应（Lord, 1973, p. 2）。
 >
 > 但可以将学生分为两组，在一系列因素上仔细匹配：一组有家庭暴力经历，另一组家庭环境更可接受。如果假设可成立，在其他变量被匹配或尽可能保持不变的情况下，两组之间应能发现学业表现的差异（p. 305）。
@@ -172,7 +172,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > [!example]- 图15.1 四种事后回溯研究类型
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_15-1_Four_Types_of_Ex_Post_Facto_Research.jpg)
 >
-> 该图以前瞻性/回溯性和[[Co-relational Study|共变关系研究]]/[[Criterion Group Study|标准组研究]]两个维度，划分出四种事后回溯研究设计类型（p. 306）。
+> 该图以前瞻性/回溯性和[[Co-relational Study\|共变关系研究]]/[[Criterion Group Study\|标准组研究]]两个维度，划分出四种事后回溯研究设计类型（p. 306）。
 
 ---
 
@@ -182,9 +182,8 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > 观察到一所大规模中学的教职工在教授困难班级的日子缺勤。研究者进行事后回溯研究以尝试建立原因。首先记录教职工在教授困难班级日子里的缺勤情况（pp. 306–307）。
 
 > [!ref-table]- 表1：教授困难班级与教职工缺勤
-> | | 教授困难班级的日子 |
-> |---|---|
-> | **缺勤情况** | 是 | 否 |
+> | 缺勤情况 | 教授困难班级的日子：是 | 教授困难班级的日子：否 |
+> |---|---|---|
 > | 高缺勤 | 26 | 30 |
 > | 低缺勤 | 22 | 50 |
 > | **合计** | 48 | 80 |
@@ -206,7 +205,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 
 > 细化数据显示：年龄也是一个因素，与教授困难班级的天数共同作用。年轻教师更可能缺勤，大多数缺勤教师年龄在 30 岁以下。在各年龄组内部，也能清晰看到：年轻教师在教授困难班级时的高缺勤率远高于同年龄组不教授困难班级时的缺勤率。
 >
-> 更进一步的检验是比较同一教师教与不教困难班级时的缺勤率，并进行差异检验（[[t-test|t检验]]、[[Analysis of Variance|ANOVA]]；见第36章），以检验两组分数（教授困难班级的日子 vs 不教困难班级的日子；各年龄组在教授困难班级与不教困难班级日子上的差异）（pp. 306–307）。
+> 更进一步的检验是比较同一教师教与不教困难班级时的缺勤率，并进行差异检验（[[t-test\|t检验]]、[[Analysis of Variance\|ANOVA]]；见第36章），以检验两组分数（教授困难班级的日子 vs 不教困难班级的日子；各年龄组在教授困难班级与不教困难班级日子上的差异）（pp. 306–307）。
 
 ---
 
@@ -230,7 +229,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 共变关系（或因果）研究旨在识别当前条件的先行因素。顾名思义，它涉及收集两组数据，其中一组是回溯性的，以确定二者之间的关系。基本设计可表示为（使用 Campbell & Stanley, 1963 的符号：X = 自变量；O = 因变量）：
 
 > [!case] Borkowsky（1970）：音乐教师培训与教学效能
-> 基于这种设计尝试展示音乐教师本科培训质量（X）与后续教学效能（O）之间的关系。培训质量的测量可包括：具体课程成绩、平均绩点、自评等。教学效能可通过学生表现指标、学生知识、[[Student Attitude|学生态度]]和专家判断等评估。所有测量之间的相关被计算以确定关系。
+> 基于这种设计尝试展示音乐教师本科培训质量（X）与后续教学效能（O）之间的关系。培训质量的测量可包括：具体课程成绩、平均绩点、自评等。教学效能可通过学生表现指标、学生知识、[[Student Attitude\|学生态度]]和专家判断等评估。所有测量之间的相关被计算以确定关系。
 >
 > 这项研究最多能显示培训质量与教学效能之间存在事后关系（p. 307）。
 
@@ -260,7 +259,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > [!example]- 图15.2 两个原因与两个效果
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_15-2_Two_Causes_and_Two_Effects.jpg)
 >
-> 该图呈现 Morrison（2009, p. 181）的[[Effective Teaching|有效教学]]因果-比较研究设计（见下文）（p. 308）。
+> 该图呈现 Morrison（2009, p. 181）的[[Effective Teaching\|有效教学]]因果-比较研究设计（见下文）（p. 308）。
 
 如果选择这种设计来研究影响教师效能的因素，先通过测量两组教师对班级学生的差异效应来识别标准组 O₁（有效教师）及其对照组 O₂（不表现标准组特征的教师组）。然后检查 X，即某变量或事件，如背景、培训、技能和人格，以发现什么可能使只有部分教师有效（p. 307）。
 
@@ -310,7 +309,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 
 #### 事后归因谬误（post hoc, ergo propter hoc）
 
-> [!warning] [[Post Hoc Ergo Propter Hoc Fallacy|事后归因谬误]]（POST hoc, ergo propter hoc fallacy）
+> [!warning] [[Post Hoc Ergo Propter Hoc Fallacy\|事后归因谬误]]（POST hoc, ergo propter hoc fallacy）
 > 因果关系常常建立在脆弱的基础上：仅因某变量先于所研究的现象发生，就假定它是原因（在此之后，因此因为此，after this, therefore because of this）。仅因一个变量在时间上先于另一个，并不意味前者引发了后者（p. 309）。
 
 > [!case] 咖啡与失眠
@@ -331,7 +330,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 不能因此认为事后回溯研究价值不大，教育和心理学中许多重要研究都是事后回溯设计。通常别无选择：无法使一组人成为失败者、犯罪者、自杀者、脑损伤者或辍学者，研究必须依赖已有群体。
 
 > [!conclusion] 事后回溯研究应被理解为调查
-> 事后回溯设计无法融入基本的控制需求（通过操纵或[[Random Assignment|随机化]]），使其从科学角度易受攻击，产生误导的可能性应被明确承认。事后回溯设计更适合被更谨慎地理解为**调查（surveys）**，作为需由更常规实验方法在日后检验的假设的有用来源，而不是具有更大确定性的实验（p. 310）。
+> 事后回溯设计无法融入基本的控制需求（通过操纵或[[Random Assignment\|随机化]]），使其从科学角度易受攻击，产生误导的可能性应被明确承认。事后回溯设计更适合被更谨慎地理解为**调查（surveys）**，作为需由更常规实验方法在日后检验的假设的有用来源，而不是具有更大确定性的实验（p. 310）。
 
 ---
 
@@ -342,10 +341,10 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > [!method-fit] 六类适用情境
 > - **自变量无法被操纵时** 无法选择、控制和操纵直接研究因果-效应关系所必需的因素
 > - **控制单一自变量不切实际** 控制除一个自变量外的所有变量可能不切实际和人为化，阻碍与其他影响变量的正常交互
-> - **实验室控制不可行** 实验室控制在许多[[Research Purpose|研究目的]]上不切实际、成本过高或伦理上不可取
+> - **实验室控制不可行** 实验室控制在许多[[Research Purpose\|研究目的]]上不切实际、成本过高或伦理上不可取
 > - **社会、教育和心理情境** 自变量通常超出研究者控制：吸烟与肺癌研究、教师特征研究、政治/宗教归属与态度关系、学校成就与社会阶层/种族/性别/智力等自变量的关系
 > - **大样本研究和小样本研究均可** Stables（1990）的大规模混合/单性别学校学生差异研究；Arnold & Atkins（1991）的小样本听障学生社会与情感适应研究
-> - **大型公共数据库分析** Ayres（2008）展示了事后回溯设计中大样本和子样本数据集的概率和规律性力量，特别是分析考虑了标准差时（两倍标准差覆盖 95% 总体）。这些在[[Evidence-Based Education|循证教育]]中可能比人类直觉更可靠（Ayres, 2008, chapter 10）（p. 311）
+> - **大型公共数据库分析** Ayres（2008）展示了事后回溯设计中大样本和子样本数据集的概率和规律性力量，特别是分析考虑了标准差时（两倍标准差覆盖 95% 总体）。这些在[[Evidence-Based Education\|循证教育]]中可能比人类直觉更可靠（Ayres, 2008, chapter 10）（p. 311）
 
 ---
 
@@ -386,7 +385,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > - 某一特定结果在不同情境中可能源自**不同原因（different causes on different occasions）**
 > - 发现关系后，难以判断何为因、何为果，必须考虑**反向因果（reverse causation）**
 > - 两个因素的关系**不能确立**因果关系（does not establish cause and effect）
-> - 事后回溯假设生成于数据收集**之后**，因此无法被[[Falsification|证伪]]（Babbie, 2010, p. 462），即缺乏**可证伪性（nullifiability）**和确认性
+> - 事后回溯假设生成于数据收集**之后**，因此无法被[[Falsification\|证伪]]（Babbie, 2010, p. 462），即缺乏**可证伪性（nullifiability）**和确认性
 > - 分类为**二分组的困难（problematic dichotomous classification）**
 > - 解释困难与**事后归因谬误**的危险，即相信因为 X 先于 O，所以 X 引发 O
 > - 匹配关键变量的尝试导致**样本缩减（shrinkage of sample）** Spector（1993, p. 43）指出这一风险；Lewis-Beck（1993, p. 43）报告了从 1,194 缩减到 46 的实例
@@ -454,7 +453,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 事后回溯研究关注发现数据中变量之间的关系，可通过因果模型或因果-比较模型来实现。
 
 > [!proc] Lord（1973, p. 6）的八阶段程序
-> 1. **界定问题并回顾[[Document|文献]]** 明确研究领域。通过[[Literature Review|文献回顾]]了解前人研究的议题、问题、障碍和发现（pp. 315–316）。
+> 1. **界定问题并回顾[[Document\|文献]]** 明确研究领域。通过[[Literature Review\|文献回顾]]了解前人研究的议题、问题、障碍和发现（pp. 315–316）。
 > 2. **陈述假设与前提假设** 明确待检验的假设以及研究程序所基于的前提或假设。
 > 3. **选择被试与数据收集方法** 确定抽样策略（sampling）和数据收集工具。
 > 4. **建立数据分类标准与类别** 建立尽可能无歧义、能发现关系和相似性的分类标准，使数据适合研究目的。
@@ -473,37 +472,37 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 尽管事后回溯研究被剥夺了变量控制和随机化原则，研究者仍可采用若干程序引入一定程度的控制（pp. 316–317）：
 
 > [!feature] 四种控制手段
-> - **匹配被试（[[Matching]]）** 在因果-比较设计中，将实验组和对照组的被试在重要且相关的特征上进行匹配，这是最常用的引入控制的手段。Ary et al.（2009）指出[[Matched Pairs Design|配对设计]]（matched pair designs；见第16章）需仔细匹配可能影响研究的相关特征（示例见 Leow, 2009）。困难在于：(1) 未必知道哪些因素是相关的，即哪些因素可能与因变量有关；(2) 无法匹配的被试将被淘汰，导致样本缩减。Lewis-Beck（1993, p. 43）报告了一个从 1,194 缩减到 46 的匹配后样本缩减实例（p. 316）。
-> - **将额外自变量纳入设计并使用[[Analysis of Variance|方差分析]]** 作为匹配的替代程序，建议将外部自变量纳入设计然后使用方差分析。例如智力是相关的外部变量，但又无法通过匹配等方式控制时，可将其作为另一个自变量纳入研究，按智力水平对被试分类。通过方差分析揭示智力的主效应和[[Interaction Effect|交互效应]]，即使智力与因变量之间不能假设因果关系，也可显示组间在因变量上是否存在统计显著差异，以及智力对该差异的贡献（pp. 316–317）。
+> - **匹配被试（[[Matching]]）** 在因果-比较设计中，将实验组和对照组的被试在重要且相关的特征上进行匹配，这是最常用的引入控制的手段。Ary et al.（2009）指出[[Matched Pairs Design\|配对设计]]（matched pair designs；见第16章）需仔细匹配可能影响研究的相关特征（示例见 Leow, 2009）。困难在于：(1) 未必知道哪些因素是相关的，即哪些因素可能与因变量有关；(2) 无法匹配的被试将被淘汰，导致样本缩减。Lewis-Beck（1993, p. 43）报告了一个从 1,194 缩减到 46 的匹配后样本缩减实例（p. 316）。
+> - **将额外自变量纳入设计并使用[[Analysis of Variance\|方差分析]]** 作为匹配的替代程序，建议将外部自变量纳入设计然后使用方差分析。例如智力是相关的外部变量，但又无法通过匹配等方式控制时，可将其作为另一个自变量纳入研究，按智力水平对被试分类。通过方差分析揭示智力的主效应和[[Interaction Effect\|交互效应]]，即使智力与因变量之间不能假设因果关系，也可显示组间在因变量上是否存在统计显著差异，以及智力对该差异的贡献（pp. 316–317）。
 > - **选择同质性样本** 建议在某一给定变量上选择尽可能同质的样本。例如智力是相关外部变量时，可通过只纳入一个智力水平的被试来控制其效应。这将自变量与其他常见关联的变量分离开（disentangle），使任何发现的效应可被合理地归因于自变量（p. 317）。
-> - **陈述并检验[[Alternative Hypothesis|替代假设]]** 明确陈述并检验能合理解释研究经验结果的其他可能假设。必须警惕，不要把事后回溯研究中第一个看起来合理的解释接受为必然唯一或最终的解释。经典案例：吸烟与肺癌的关系。卫生官员迅速接受"吸烟引发肺癌"的解释，而烟草公司提出替代假设：吸烟和肺癌可能都是某个尚未指明的第三因素的结果，即自变量和因变量都可能是单一共同原因的分别结果，这一可能性不可忽视。
+> - **陈述并检验[[Alternative Hypothesis\|替代假设]]** 明确陈述并检验能合理解释研究经验结果的其他可能假设。必须警惕，不要把事后回溯研究中第一个看起来合理的解释接受为必然唯一或最终的解释。经典案例：吸烟与肺癌的关系。卫生官员迅速接受"吸烟引发肺癌"的解释，而烟草公司提出替代假设：吸烟和肺癌可能都是某个尚未指明的第三因素的结果，即自变量和因变量都可能是单一共同原因的分别结果，这一可能性不可忽视。
 
 ---
 
 ## 关键引用
 
 > [!citation-card]- 从结果逆向搜索原因
-> [[Ex Post Facto Research|事后回溯研究]]字面意为事后（after the fact）；在社会和教育研究中，指回溯性地研究可能的因果-效应关系，通过观察已存在的条件或状态，逆时间搜索可能的因果因素。（第15章，p. 304）
+> [[Ex Post Facto Research\|事后回溯研究]]字面意为事后（after the fact）；在社会和教育研究中，指回溯性地研究可能的因果-效应关系，通过观察已存在的条件或状态，逆时间搜索可能的因果因素。（第15章，p. 304）
 >
 > *Ex POST facto means 'after the fact' ... In the context of social and educational research the phrase means 'retrospectively' and refers to those studies which investigate possible cause-and-effect relationships by observing an existing condition or state of affairs and searching back in time for plausible causal factors.*
 
 > [!citation-card]- 概率性因果：试探性推断，无法确定性展示
-> 只能报告已发生或正在发生的事情，通过谨慎关注抽样来设法将因素保持不变。自[[Variable|变量]]无法像在真正实验中那样被操纵，因为它们已经发生。因此推断在概率性[[Causality|因果关系]]的领域内进行：试探性地推断原因，无法确定性地展示因果关系。（第15章，p. 304）
+> 只能报告已发生或正在发生的事情，通过谨慎关注抽样来设法将因素保持不变。自[[Variable\|变量]]无法像在真正实验中那样被操纵，因为它们已经发生。因此推断在概率性[[Causality\|因果关系]]的领域内进行：试探性地推断原因，无法确定性地展示因果关系。（第15章，p. 304）
 >
-> *Researchers can only report what has happened or what is happening, by trying to hold factors constant by careful attention to the sampling. [[Independent Variable|independent variables]] cannot be manipulated as in true experiments, as they have already happened. Hence the researcher is in the realms of [[Probabilistic Causation]], inferring causes tentatively rather than being able to demonstrate causality unequivocally.*
+> *Researchers can only report what has happened or what is happening, by trying to hold factors constant by careful attention to the sampling. [[Independent Variable\|independent variables]] cannot be manipulated as in true experiments, as they have already happened. Hence the researcher is in the realms of [[Probabilistic Causation]], inferring causes tentatively rather than being able to demonstrate causality unequivocally.*
 
 > [!citation-card]- 反向实验：事后回溯是实验的逻辑镜像
-> 事后回溯设计在某种程度上相当于反向进行的[[Experimental Research|实验研究]]：从已经在某些方面存在差异的组出发，回溯搜索导致差异的因素，而不是取等效组并施加不同处理以产生[[Dependent Variable|因变量]]差异。Spector（1993, p. 42）认为事后回溯研究是一种试图将非实验研究设计转化为伪实验形式的程序。（第15章，pp. 305–306）
+> 事后回溯设计在某种程度上相当于反向进行的[[Experimental Research\|实验研究]]：从已经在某些方面存在差异的组出发，回溯搜索导致差异的因素，而不是取等效组并施加不同处理以产生[[Dependent Variable\|因变量]]差异。Spector（1993, p. 42）认为事后回溯研究是一种试图将非实验研究设计转化为伪实验形式的程序。（第15章，pp. 305–306）
 >
 > *Some instances of ex post facto designs correspond to experimental research in reverse, for instead of taking groups that are equivalent and subjecting them to different treatments so as to bring about differences in the dependent variables to be measured, an ex post facto experiment begins with groups that are already different in some respect and searches in retrospect for the factor that brought about the difference.*
 
-> [!citation-card]- [[Post Hoc Ergo Propter Hoc Fallacy|事后归因谬误]]与反向因果
+> [!citation-card]- [[Post Hoc Ergo Propter Hoc Fallacy\|事后归因谬误]]与反向因果
 > 因果关系的建立常常仅仅基于这样的前提：任何先于所研究现象发生的相关事件都被假定为其原因，即经典的事后归因谬误（post hoc, ergo propter hoc fallacy）。仅因一个变量在时间上先于另一个，不意味着前者引发后者。即使发现两个变量之间的关系，也必须认识到二者可能都是某个共同的第三因素的结果。还有反向因果的真实可能性，如心脏状况促进肥胖，反过来也可能成立。（第15章，pp. 309–310）
 >
 > *Frequently, causal relationships seem to be established on nothing more substantial than the premise that any related event occurring prior to the phenomenon under study is assumed to be its cause – the classical post hoc, ergo propter hoc fallacy. Even when we do find a relationship between two variables, we must recognize the possibility that both are individual results of a common third factor rather than the first being necessarily the cause of the second. There is also the real possibility of reverse causation.*
 
-> [!citation-card]- 证据只能说明[[Hypothesis|假设]]，不能检验假设
-> 事后回溯假设生成于数据收集之后，因此无法被[[Falsification|证伪]]（Babbie, 2010, p. 462）。正如 Lord（1973, p. 7）所强调的，证据说明假设，不能检验假设：假设不能在与推导出假设的同一数据上进行检验。（第15章，pp. 313, 316）
+> [!citation-card]- 证据只能说明[[Hypothesis\|假设]]，不能检验假设
+> 事后回溯假设生成于数据收集之后，因此无法被[[Falsification\|证伪]]（Babbie, 2010, p. 462）。正如 Lord（1973, p. 7）所强调的，证据说明假设，不能检验假设：假设不能在与推导出假设的同一数据上进行检验。（第15章，pp. 313, 316）
 >
 > *The ex post facto hypothesis is generated after the data have been collected, so it is not possible to disconfirm it (Babbie, 2010, p. 462). The evidence illustrates rather than tests the hypothesis here .*
 

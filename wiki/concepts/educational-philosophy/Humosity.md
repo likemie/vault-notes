@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Humosity（腐殖性）是 [[Donna Haraway]] 的生活伴侣 Rusten Hogness 创造的新词，用以描述一个人类被彻底去中心化的世界观：人类的生与死不过是巨大的物质循环中的一个环节，就像森林地面上腐殖质（humus）的形成和分解。[[Argument_Amos_2022_Springer|Amos (2022, p.62)]] 引述这一概念，用以精确标示 [[Posthumanism]] 与 [[Transhumanism]] 的分界线。
+> Humosity（腐殖性）是 [[Donna Haraway]] 的生活伴侣 Rusten Hogness 创造的新词，用以描述一个人类被彻底去中心化的世界观：人类的生与死不过是巨大的物质循环中的一个环节，就像森林地面上腐殖质（humus）的形成和分解。[[Argument_Amos_2022_Springer\|Amos (2022, p.62)]] 引述这一概念，用以精确标示 [[Posthumanism]] 与 [[Transhumanism]] 的分界线。
 >
 > > 例：超人类主义说："我们可以通过技术改造身体，延长寿命，最终征服死亡。"Humosity 说："你是由死亡的植物和动物构成的，你也将变成滋养新生命的腐殖质。这不是悲剧，而是事实。"前者看到的是人类站在物质循环的顶端，后者看到的是人类在物质循环之中——这正是两种世界观的根本分歧。
 >
@@ -53,8 +53,8 @@ Humosity 的词根是 **humus**（腐殖质、泥土），与 human（人类）�
 
 ## 在后人类主义框架中的位置
 
-> [!info] 在[[Posthumanism|后人类主义]]框架中的位置
-> [[Argument_Amos_2022_Springer|Amos (2022, p.62)]] 将 humosity 定位为 [[Posthumanism]] 的核心意象之一，与 [[Sympoiesis]]（共同制造）和 [[Response-ability]]（回应能力）构成概念三角：
+> [!info] 在[[Posthumanism\|后人类主义]]框架中的位置
+> [[Argument_Amos_2022_Springer\|Amos (2022, p.62)]] 将 humosity 定位为 [[Posthumanism]] 的核心意象之一，与 [[Sympoiesis]]（共同制造）和 [[Response-ability]]（回应能力）构成概念三角：
 >
 > - **[[Sympoiesis]]** 回答"世界如何被制造"——通过共同制造
 > - **[[Response-ability]]** 回答"我们应当如何行动"——以回应彼此需求为伦理

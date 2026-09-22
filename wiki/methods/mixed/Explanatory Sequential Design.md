@@ -59,10 +59,10 @@ updated: 2026-09-17
 ## 1. 定义与核心价值
 
 > [!info] 定义
-> 解释性序列设计（explanatory sequential design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。研究者首先收集和分析量化数据（第一阶段），然后基于量化结果，通过第二阶段的质性数据收集和分析来深入解释量化发现([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.137]])。
+> 解释性序列设计（explanatory sequential design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。研究者首先收集和分析量化数据（第一阶段），然后基于量化结果，通过第二阶段的质性数据收集和分析来深入解释量化发现([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.137]])。
 
 > [!quote]
-> "An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.137]])
+> "An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.137]])
 > 
 > 将采用解释性序列混合方法设计，这涉及首先收集量化数据，然后通过后续的深入质性数据来解释量化结果。
 
@@ -86,8 +86,8 @@ updated: 2026-09-17
 
 ## 3. 认识论立场
 
-> [!abstract] [[Postpositivism|后实证主义]]与[[Pragmatic Paradigm|实用主义]] (POST-[[Positivism]] & pragmatism)
-> 该设计通常始于[[Postpositivism|后实证主义]]立场（强调通过量化测量识别客观规律），随后转向解释主义/[[Pragmatic Paradigm|实用主义]]立场（强调通过个体经验理解具体背景）。它体现了实用主义的灵活性，即根据[[Research Question|研究问题]]的不同阶段切换最有效的工具。
+> [!abstract] [[Postpositivism\|后实证主义]]与[[Pragmatic Paradigm\|实用主义]] (POST-[[Positivism]] & pragmatism)
+> 该设计通常始于[[Postpositivism\|后实证主义]]立场（强调通过量化测量识别客观规律），随后转向解释主义/[[Pragmatic Paradigm\|实用主义]]立场（强调通过个体经验理解具体背景）。它体现了实用主义的灵活性，即根据[[Research Question\|研究问题]]的不同阶段切换最有效的工具。
 
 ---
 
@@ -97,10 +97,10 @@ updated: 2026-09-17
 在研究构思阶段，需明确两阶段的递进逻辑([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])：
 
 > **英文脚本：**
-> This study will address ________ (overall intent). An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data. In the first, quantitative phase of the study, ________ (quantitative instrument) data will be collected from ________ (participants) to test ________ (theory) and to assess whether ________ (independent [[Variable|variables]]) relate to ________ ([[Dependent Variable|dependent variables]]). The second, qualitative phase will follow up on the quantitative results to help explain the quantitative results in more depth. The insight to be gained from using qualitative data to explain the quantitative results will be ________.
+> This study will address ________ (overall intent). An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data. In the first, quantitative phase of the study, ________ (quantitative instrument) data will be collected from ________ (participants) to test ________ (theory) and to assess whether ________ (independent [[Variable\|variables]]) relate to ________ ([[Dependent Variable\|dependent variables]]). The second, qualitative phase will follow up on the quantitative results to help explain the quantitative results in more depth. The insight to be gained from using qualitative data to explain the quantitative results will be ________.
 > 
 > 中文译文：
-> 本研究将解决________（总体意图）。采用解释性序列[[Mixed Methods Research|混合方法]]设计，先收集量化数据，然后用深入的质性后续数据解释量化结果。第一量化阶段将从________参与者收集________（量化工具）的数据，以检验________理论并评估________自[[Variable|变量]]是否与________因变量有关。第二质性阶段将作为量化结果的后续，以帮助深入解释量化结果。用质性数据解释量化结果的洞见将是________。
+> 本研究将解决________（总体意图）。采用解释性序列[[Mixed Methods Research\|混合方法]]设计，先收集量化数据，然后用深入的质性后续数据解释量化结果。第一量化阶段将从________参与者收集________（量化工具）的数据，以检验________理论并评估________自[[Variable\|变量]]是否与________因变量有关。第二质性阶段将作为量化结果的后续，以帮助深入解释量化结果。用质性数据解释量化结果的洞见将是________。
 
 ### 4.2 执行程序：四阶段基本流程
 操作逻辑为先量化、后质性、以质性解释量化：
@@ -113,7 +113,7 @@ updated: 2026-09-17
 整合分析通过[[Joint Display|联合展示]]将量化结果与质性后续主题并列，反映量化在先、质性在后的逻辑([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.240–241]])。
 
 > [!note]- 整合逻辑
-> 解释性序列的[[Metainferences|元推论]]代表对量化结果的**延伸与细化**，而非简单的确认。质性主题应具体说明其如何解释了某一得分水平的成因。
+> 解释性序列的[[Metainferences\|元推论]]代表对量化结果的**延伸与细化**，而非简单的确认。质性主题应具体说明其如何解释了某一得分水平的成因。
 
 **表 10.3：解释性序列设计联合展示模板**
 
@@ -146,27 +146,27 @@ updated: 2026-09-17
 ## 6. 方法变体与对比
 
 > [!tip]-
-> - [[Convergent Design|聚敛式设计]]：同时进行 vs. 序列进行；聚敛式是互证，解释性是驱动与解释。
-> - [[Exploratory Sequential Design|探索性序列设计]]：顺序相反（质性在前）；目的是开发工具而非解释结果。
+> - [[Convergent Design\|聚敛式设计]]：同时进行 vs. 序列进行；聚敛式是互证，解释性是驱动与解释。
+> - [[Exploratory Sequential Design\|探索性序列设计]]：顺序相反（质性在前）；目的是开发工具而非解释结果。
 
 ---
 
 ## 7. 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] — 采用解释性序列设计，第一阶段用大规模量化调查（N=960）检验全球[[Theory of Knowledge|知识论]]教师的信念与态度，第二阶段通过多地[[Focus Group|焦点小组]]访谈深入解释量化发现中的实操困境与溢出效应。
-> - [[Argument_Bergeron_2019_JRIE|Bergeron & Rogers (2019)]] — 使用[[Questionnaire|问卷]]获得了对 [[Theory of Knowledge|TOK]] 课程实施态度的广泛定量数据，随后利用多地[[Focus Group|焦点小组]]访谈深入了解教师面临的“时间”和“评价”等困难的具体表现。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron (2015)]] — 采用解释性序列设计，第一阶段用大规模量化调查（N=960）检验全球[[Theory of Knowledge\|知识论]]教师的信念与态度，第二阶段通过多地[[Focus Group\|焦点小组]]访谈深入解释量化发现中的实操困境与溢出效应。
+> - [[Argument_Bergeron_2019_JRIE\|Bergeron & Rogers (2019)]] — 使用[[Questionnaire\|问卷]]获得了对 [[Theory of Knowledge\|TOK]] 课程实施态度的广泛定量数据，随后利用多地[[Focus Group\|焦点小组]]访谈深入了解教师面临的“时间”和“评价”等困难的具体表现。
 
 > [!example] 案例 1：Ivankova & Stick (2007)
-> 对 278 名学生进行[[Questionnaire|问卷调查]]以识别持续就学的预测因素，随后选择四类学生各一人进行质性案例分析，深入解释统计结果中的组间差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])。
+> 对 278 名学生进行[[Questionnaire\|问卷调查]]以识别持续就学的预测因素，随后选择四类学生各一人进行质性案例分析，深入解释统计结果中的组间差异([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.137–138]])。
 
-> [!example] [[Purpose Statement|目的陈述]]要素拆解：Ivankova & Stick (2007)
+> [!example] [[Purpose Statement\|目的陈述]]要素拆解：Ivankova & Stick (2007)
 >
-> **完整[[Purpose Statement|目的陈述]] (Full Purpose Statement)**
-> "The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative [[Case Study]] analysis. In the first, quantitative phase of the study, the [[Research Question|research questions]] focused on how selected internal and external [[Variable|variables]] to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students' persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests." (p.95)
+> **完整[[Purpose Statement\|目的陈述]] (Full Purpose Statement)**
+> "The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative [[Case Study]] analysis. In the first, quantitative phase of the study, the [[Research Question\|research questions]] focused on how selected internal and external [[Variable\|variables]] to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students' persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests." (p.95)
 > 
 > **中文译文**
-> 这项[[Mixed Methods Research|混合方法]]序列解释性研究的目的是，通过对 278 名在校生和往届生进行问卷调查获取量化结果，随后对四名有目的地选择的个体进行跟进，通过质性案例研究分析深入探索这些结果，从而识别促进学生在 ELHE 项目中持续就学的因素。在研究的第一阶段（量化阶段），[[Research Question|研究问题]]聚焦于 ELHE 项目选定的内部和外部[[Variable|变量]]（项目相关、导师与教师相关、机构相关、学生相关因素及外部因素）如何作为学生在该项目持续就学的预测因子。在第二阶段（质性阶段），通过针对不同参与者群体的四个案例研究，深入探索了统计检验的结果。
+> 这项[[Mixed Methods Research\|混合方法]]序列解释性研究的目的是，通过对 278 名在校生和往届生进行问卷调查获取量化结果，随后对四名有目的地选择的个体进行跟进，通过质性案例研究分析深入探索这些结果，从而识别促进学生在 ELHE 项目中持续就学的因素。在研究的第一阶段（量化阶段），[[Research Question\|研究问题]]聚焦于 ELHE 项目选定的内部和外部[[Variable\|变量]]（项目相关、导师与教师相关、机构相关、学生相关因素及外部因素）如何作为学生在该项目持续就学的预测因子。在第二阶段（质性阶段），通过针对不同参与者群体的四个案例研究，深入探索了统计检验的结果。
 >
 > **要素对照表**
 >

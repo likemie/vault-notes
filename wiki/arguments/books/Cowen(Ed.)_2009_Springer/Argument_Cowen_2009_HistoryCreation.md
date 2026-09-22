@@ -80,15 +80,15 @@ updated: 2026-09-06
 ## 研究问题
 
 > [!question]
-> 比较教育学在经历数十年的制度化发展并确立专业合法性之后，在何种意义上作为一个历史对象而真实存在？当早期学者所依赖的经典起源叙事完成了赋予学科职业合法性的使命后，当下的比较教育学史编纂面临哪些深层结构性瓶颈？如何超越孤立、碎片且西方中心的国别学科史，走向具有批判自觉与多中心视野的[[Comparative History of Comparative Education|比较教育学的比较史]]（Comparative History of Comparative Education）？（pp.7–8）
+> 比较教育学在经历数十年的制度化发展并确立专业合法性之后，在何种意义上作为一个历史对象而真实存在？当早期学者所依赖的经典起源叙事完成了赋予学科职业合法性的使命后，当下的比较教育学史编纂面临哪些深层结构性瓶颈？如何超越孤立、碎片且西方中心的国别学科史，走向具有批判自觉与多中心视野的[[Comparative History of Comparative Education\|比较教育学的比较史]]（Comparative History of Comparative Education）？（pp.7–8）
 
 > [!claim] 核心主张
-> 早期的经典学科史本质上是赋予学者学术归属感与专业合法性的功能性起源叙事；真实的学科历史充斥着大量未被照见的隐蔽档案与边缘主体，深陷能见度不足、学术激励与制度资助匮乏、以及[[Document|文献]]档案密度极低的三重困境。真正的学科史编纂必须转向[[Comparative History of Comparative Education|比较教育学的比较史]]，将拉美等非西方经验、女性学者及国别元[[Epistemology|认识论假设]]（Meta-Epistemic Assumptions）纳入考察，解构以[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）为代表的[[Academic Iconography|学科肖像学]]（Academic Iconography）崇拜，并确立由未来关切重塑历史提问的诠释学自觉。（pp.7–10）
+> 早期的经典学科史本质上是赋予学者学术归属感与专业合法性的功能性起源叙事；真实的学科历史充斥着大量未被照见的隐蔽档案与边缘主体，深陷能见度不足、学术激励与制度资助匮乏、以及[[Document\|文献]]档案密度极低的三重困境。真正的学科史编纂必须转向[[Comparative History of Comparative Education\|比较教育学的比较史]]，将拉美等非西方经验、女性学者及国别元[[Epistemology\|认识论假设]]（Meta-Epistemic Assumptions）纳入考察，解构以[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）为代表的[[Academic Iconography\|学科肖像学]]（Academic Iconography）崇拜，并确立由未来关切重塑历史提问的诠释学自觉。（pp.7–10）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育学学科史编纂学（Historiography of Comparative Education）、经典起源叙事、跨国学术网络与肖像学建构。
 > - **张力** 学科制度化带来的合法性满足 vs 历史研究实际面临的档案隐蔽与材料密度极度匮乏；西方中心与英美垄断的学科起源神话 vs 拉美（巴西、阿根廷）与欧洲大陆多元脉络被边缘化的客观现实。
-> - **贡献** 明确提出了从单一学科史向比较教育学的比较史转型的纲领，提炼出包含女性学者显影、元认识论[[Hypothesis|假设]]解构、跨洲关键人物深层评传、学科肖像学批判在内的五大研究议程，确立了未来决定过去的历史哲学命题。
+> - **贡献** 明确提出了从单一学科史向比较教育学的比较史转型的纲领，提炼出包含女性学者显影、元认识论[[Hypothesis\|假设]]解构、跨洲关键人物深层评传、学科肖像学批判在内的五大研究议程，确立了未来决定过去的历史哲学命题。
 
 ---
 
@@ -103,7 +103,7 @@ updated: 2026-09-06
 > | **元认识论假设**<br>Meta-Epistemic Assumptions | 考察不同国家和学术体制中主导比较教育[[Knowledge Production\|知识生产]]的深层哲学与社会学预设（如美国的功能主义 vs 英国文化主义对社会学的排斥）。 |
 
 > [!warrant] 批判史学与诠释学反思的论证支撑机制
-> [[Robert Cowen|罗伯特·考恩]]（Robert Cowen）将学术史自省与批判诠释学作为推理桥梁。他首先通过审视自身学术社会化历程，指出[[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）以及[[George Bereday|乔治·贝雷迪]]（George Bereday）的经典著作（Noah & Eckstein, 1969; Bereday, 1964）如何在心理与建制上赋予年轻学者合法性，进而论证起源叙事的功能主义本质；随后，通过将比较教育学史与主流政治文化史、学科社会学的史料[[Document|文献]]密度进行横向对比，诊断出本学科史学研究的贫困；最后，借助比较史学视野与托马斯·斯特尔那斯·艾略特（T. S. Eliot）的名言，完成从对既定事实的考据向未来决定过去认识论视域的重构。（pp.7–10）
+> [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）将学术史自省与批判诠释学作为推理桥梁。他首先通过审视自身学术社会化历程，指出[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）以及[[George Bereday\|乔治·贝雷迪]]（George Bereday）的经典著作（Noah & Eckstein, 1969; Bereday, 1964）如何在心理与建制上赋予年轻学者合法性，进而论证起源叙事的功能主义本质；随后，通过将比较教育学史与主流政治文化史、学科社会学的史料[[Document\|文献]]密度进行横向对比，诊断出本学科史学研究的贫困；最后，借助比较史学视野与托马斯·斯特尔那斯·艾略特（T. S. Eliot）的名言，完成从对既定事实的考据向未来决定过去认识论视域的重构。（pp.7–10）
 
 ---
 
@@ -170,7 +170,7 @@ updated: 2026-09-06
 
 ### 论证步骤二　比较教育学史编纂的三重结构性困境
 
-> [!claim] 比较教育学史编纂面临可见性不足、制度激励匮乏与[[Document|文献]]档案密度稀薄三重严重制约
+> [!claim] 比较教育学史编纂面临可见性不足、制度激励匮乏与[[Document\|文献]]档案密度稀薄三重严重制约
 > 比较教育学未能形成成熟的学科史研究，根源在于史学劳动的隐匿性、缺乏学术体制的结构性支持，以及学科历史资料密度的严重匮乏。（pp.7–8）
 
 > [!challenges] 比较教育学史编纂面临的三重结构性困境
@@ -182,7 +182,7 @@ updated: 2026-09-06
 >   与主流历史学或成熟学科社会学相比，比较教育学史现有成果的资料厚度与经验密度极度薄弱，目前仍停留在零星论文、线索提示与轶事回忆阶段。（p.8）
 
 > [!evidence-grid] 学科史研究结构性困境的文献与案例证据
-> - **体制激励的倒错** 青年学者深知从事档案开掘难以产出高频指标，口述史虽有[[Gita Steiner-Khamsi|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi）等人开创先河，但[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）等机构迟迟未能制度化推进。（p.7）
+> - **体制激励的倒错** 青年学者深知从事档案开掘难以产出高频指标，口述史虽有[[Gita Steiner-Khamsi\|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi）等人开创先河，但[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）等机构迟迟未能制度化推进。（p.7）
 > - **个案攻坚的沉重代价** 米格尔·佩雷拉（Miguel Pereyra）对 [[Isaac Kandel]] 的深入研究需要耗费巨大心血与长途跨国差旅，中坚学者虽能勉力支撑，但缺乏任何稳定的体制资助；Masemann, Bray & Manzon (2007) 在编纂世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）通史时的鸣谢词同样直陈此类工程的极度艰辛。（pp.7–8）
 > - **资料密度的悬殊差距** 主流史学如 Dalrymple (2007) 依赖全新解密的国家档案，Herman (2006) 依赖浩繁的既有专题文献，Judt (2007) 与 Davies (1997) 的参考书目动辄需要专章篇幅罗列；即便在专门领域史中，Collins (1998)《哲学社会学》、Friedrichs (1970) 或 Bartholomew (1989) 日本科学史的实证密度，亦令比较教育学史相形见绌。（p.8）
 
@@ -192,14 +192,14 @@ updated: 2026-09-06
 > 2. **WCCES 历史编纂的艰辛** Masemann, Bray & Manzon (2007) 出版的《共同利益，不同目标》（*Common Interests, Uncommon Goals*）系统记录了世界比较教育学会联合会（WCCES）及其成员的历史。该书开篇的鸣谢词极其坦率地指出了组织严肃史学研究所面临的庞大阻力，从跨国档案协调、口述采访到史料考证，每一步都耗费了难以想象的组织心力，进一步印证了缺乏体制化支持时推进宏大学科史工程的艰难。（p.7）
 
 > [!warrant] 史学劳动投入与文献密度的决定机制
-> 优质史学研究绝非凭空构建的理论沉思，它高度依附于密集的原始材料与代际累积的劳动投入；在学术晋升激励缺失、跨国差旅资金匮乏的双重挤压下，比较教育学必然面临[[Primary and Secondary Documents|原始文献]]密度过低与实证底座不稳的客观瓶颈。（p.8）
+> 优质史学研究绝非凭空构建的理论沉思，它高度依附于密集的原始材料与代际累积的劳动投入；在学术晋升激励缺失、跨国差旅资金匮乏的双重挤压下，比较教育学必然面临[[Primary and Secondary Documents\|原始文献]]密度过低与实证底座不稳的客观瓶颈。（p.8）
 
 ---
 
 ### 论证步骤三　从单一学科史向比较教育学比较史的范式跃迁
 
-> [!claim] 比较教育学的历史必须演进为多中心、包容性的[[Comparative History of Comparative Education|比较教育学比较史]]
-> 必须彻底告别将英美经验等同于世界学科史的狭隘格局，将拉美等边缘地区的历史经验、被遗漏的女性学者以及国别元[[Epistemology|认识论假设]]置于比较透镜之下。（pp.8–9）
+> [!claim] 比较教育学的历史必须演进为多中心、包容性的[[Comparative History of Comparative Education\|比较教育学比较史]]
+> 必须彻底告别将英美经验等同于世界学科史的狭隘格局，将拉美等边缘地区的历史经验、被遗漏的女性学者以及国别元[[Epistemology\|认识论假设]]置于比较透镜之下。（pp.8–9）
 
 > [!row-contrast] 国别元认识论预设与学科盲区横向对比表
 > | 国家／区域与思想脉络 | 核心历史人物与思想载体 | 支配性的元认识论[[Hypothesis\|假设]]与学术传统 | 现存史学盲区与被遮蔽的历史 |
@@ -217,7 +217,7 @@ updated: 2026-09-06
 
 > [!exegesis] 拉美教育先驱与被遮蔽女性学者的历史考察
 > 考恩强调，一部名副其实的比较教育学比较史必须正视两类触目惊心的结构性空白：
-> 1. **拉美先锋思想的沉沦** 阿根廷的 Sarmiento 既是深刻洞察美洲文明与野蛮冲突的政治家，又是以跨国考察重构阿根廷国民教育体系的杰出比较教育实践家；巴西的 Teixeira 则是[[John Dewey|约翰·杜威]]（John Dewey）哲学的积极传播者与巴西现代公立教育的奠基人，其跨国学术联结横跨美洲与欧洲。然而，西方主导的比较教育正史对两国的历史记载几乎为零，学者们只能在专业期刊零星片段中寻觅线索。（pp.8–9）
+> 1. **拉美先锋思想的沉沦** 阿根廷的 Sarmiento 既是深刻洞察美洲文明与野蛮冲突的政治家，又是以跨国考察重构阿根廷国民教育体系的杰出比较教育实践家；巴西的 Teixeira 则是[[John Dewey\|约翰·杜威]]（John Dewey）哲学的积极传播者与巴西现代公立教育的奠基人，其跨国学术联结横跨美洲与欧洲。然而，西方主导的比较教育正史对两国的历史记载几乎为零，学者们只能在专业期刊零星片段中寻觅线索。（pp.8–9）
 > 2. **女性在学科建制中的隐形** 考恩点名指出了 Ann Dryland 与 Madame Hattinguais 等女性学者的历史遭遇。她们在大学课堂、学会建立和战后跨国教育交流中做出了不可磨灭的贡献，真实地活在历史之中；但在男性学者垄断的文献编纂中，她们却彻底消失了。比较史必须承担起让隐匿者重新显影（make visible）的道义责任。（p.9）
 
 为将宏观倡议转化为可执行的学术实践，考恩提出了依托大型基金会（如 Gulbenkian 或 Hoover Foundation）资助的跨国协同研究架构，由 Harold Noah、Max Eckstein、[[Andreas Kazamias|Andreas Kazamias]]、Wolfgang Mitter 与瓦尔·鲁斯特（Val Rust）等资深学者组成学术顾问委员会（Advisory Board），指导研究团队系统推进五大探究维度：
@@ -230,12 +230,12 @@ updated: 2026-09-06
 > - **国别元认识论假设解构（Meta-Epistemologies）**
 >   深入剖析美、英、法、德等国比较教育背后的社会学预设、语言转向、后现代转向及空间转向。
 > - **跨洲关键人物深度评传（Biographical Deepening）**
->   超越表面化的机构头衔，为 [[George Bereday]]、[[Joseph Lauwerys|Joseph Lauwerys]] 等跨国思想行动者撰写严谨的史学家评传。
-> - **[[Academic Iconography|学科肖像学]]与传统发明批判（Iconography and Invention of Tradition）**
->   批判性审视对[[Michael Sadler|Michael Sadler]] 等历史图腾的非[[Reflexivity|反思性]]崇拜，揭示学科起源神话的社会建构本质。（p.9）
+>   超越表面化的机构头衔，为 [[George Bereday]]、[[Joseph Lauwerys\|Joseph Lauwerys]] 等跨国思想行动者撰写严谨的史学家评传。
+> - **[[Academic Iconography\|学科肖像学]]与传统发明批判（Iconography and Invention of Tradition）**
+>   批判性审视对[[Michael Sadler\|Michael Sadler]] 等历史图腾的非[[Reflexivity\|反思性]]崇拜，揭示学科起源神话的社会建构本质。（p.9）
 
 > [!warrant] 学科比较本质对自身历史反思的方法论要求
-> 比较教育学自身的学科核心是比较，因此对其自身历史的考查不能退化为孤立的国别史或英美垄断史；唯有将比较原则施加于学科史自身，通过跨地域、跨群体、跨认识论的横向对照，才能构建起名副其实的[[Comparative History of Comparative Education|比较教育学比较史]]。（pp.8–9）
+> 比较教育学自身的学科核心是比较，因此对其自身历史的考查不能退化为孤立的国别史或英美垄断史；唯有将比较原则施加于学科史自身，通过跨地域、跨群体、跨认识论的横向对照，才能构建起名副其实的[[Comparative History of Comparative Education\|比较教育学比较史]]。（pp.8–9）
 
 ---
 
@@ -245,9 +245,9 @@ updated: 2026-09-06
 > 比较教育学至今未能理解自身的肖像学建构，将特定人物神圣化为起源图腾；而历史编纂的深层悖论在于：事实虽可被动归档，但赋予其生命的问题永远由未来与当下所界定。（pp.9–10）
 
 > [!evidence-grid] 肖像化建构与历史哲学诠释学命题的文本依据
-> - **对萨德勒符号化崇拜的解构** [[Michael Sadler|Michael Sadler]] 虽为杰出公职人员与教育领袖，但学科赋予其近乎神圣的崇高地位。他在 1900 年关于外国教育制度研究的著名演讲在学理上造成的困惑远多于澄清，其被永久固定在正统史学叙事之中，本身就是传统的发明与学科肖像学的典型产物。（p.9）
-> - **关键跨国行动者深层史学研究的匮乏** [[George Bereday]] 与[[Joseph Lauwerys|Joseph Lauwerys]] 跨越洲际联结了众多思想与人物（如 Lauwerys 与[[UNESCO|联合国教科文组织]] [United Nations Educational, Scientific and Cultural Organization, UNESCO]、[[Jean Piaget|让·皮亚杰]]（Jean Piaget）、[[International Education|国际教育]]局 [International Bureau of Education, IBE]、Teixeira 与平冢益德（Masunori Hiratsuka）的联结），但学界对其熟知主要停留于演讲魅力与机构声望，缺乏严肃史家视角的深层评传。
-> - **世代重写的历史哲学悖论** [[Andreas Kazamias|Andreas Kazamias]] 援引 T. S. Eliot 的名言指出，每一代人必须重写其历史。档案材料与证据可以通过学术劳动被稳固并预先准备，但提出问题的意识却无法预设，在认识论上呈现出未来决定过去的反向机制。（pp.9–10）
+> - **对萨德勒符号化崇拜的解构** [[Michael Sadler\|Michael Sadler]] 虽为杰出公职人员与教育领袖，但学科赋予其近乎神圣的崇高地位。他在 1900 年关于外国教育制度研究的著名演讲在学理上造成的困惑远多于澄清，其被永久固定在正统史学叙事之中，本身就是传统的发明与学科肖像学的典型产物。（p.9）
+> - **关键跨国行动者深层史学研究的匮乏** [[George Bereday]] 与[[Joseph Lauwerys\|Joseph Lauwerys]] 跨越洲际联结了众多思想与人物（如 Lauwerys 与[[UNESCO\|联合国教科文组织]] [United Nations Educational, Scientific and Cultural Organization, UNESCO]、[[Jean Piaget\|让·皮亚杰]]（Jean Piaget）、[[International Education\|国际教育]]局 [International Bureau of Education, IBE]、Teixeira 与平冢益德（Masunori Hiratsuka）的联结），但学界对其熟知主要停留于演讲魅力与机构声望，缺乏严肃史家视角的深层评传。
+> - **世代重写的历史哲学悖论** [[Andreas Kazamias\|Andreas Kazamias]] 援引 T. S. Eliot 的名言指出，每一代人必须重写其历史。档案材料与证据可以通过学术劳动被稳固并预先准备，但提出问题的意识却无法预设，在认识论上呈现出未来决定过去的反向机制。（pp.9–10）
 
 > [!exegesis] 萨德勒图腾解构与劳韦里斯跨洲网络
 > 考恩指出，比较教育学尚未形成对自身肖像学（Iconographies）的批判自省：
@@ -262,7 +262,7 @@ updated: 2026-09-06
 > 正因如此，任何宣称已经终结或确立的学科史都只是一种幻觉；学科历史必须也必然会在未来的关切下被不断重访、重新审视与反复改写。（pp.9–10）
 
 > [!warrant] 历史提问生成性与时代危机的反向决定机制
-> 历史研究不是对静态陈迹的客观复原，而是当代与历史文本的[[Dialogue in Education|对话]]。[[Academic Iconography|学科肖像学]]反映了过往世代出于特定政治或学科合法性需要对传统的发明；突破这一神话的唯一途径，就是依托当下的危机与未来的可能性，由每一代人不断重新审问过去。（pp.9–10）
+> 历史研究不是对静态陈迹的客观复原，而是当代与历史文本的[[Dialogue in Education\|对话]]。[[Academic Iconography\|学科肖像学]]反映了过往世代出于特定政治或学科合法性需要对传统的发明；突破这一神话的唯一途径，就是依托当下的危机与未来的可能性，由每一代人不断重新审问过去。（pp.9–10）
 
 ---
 
@@ -270,9 +270,9 @@ updated: 2026-09-06
 
 > [!finding-cards] 核心发现
 > 1. **起源叙事的功能性合法化** 经典学科史（如 Noah & Eckstein, 1969; Bereday, 1964）主要发挥了为早期学者提供学术归属感与职业合法性的心理与建制功能，但这种制度化满足在数十年后反向导致了对学科真实历史复杂性的长期遮蔽。（p.7）
-> 2. **历史编纂的三重结构性障碍** 比较教育学史长期停滞于浅层，根源于大学档案缺乏开掘、学术体制对史学研究缺乏职业激励与差旅资助、以及相比主流史学极其贫瘠的[[Document|文献]]与档案密度。（pp.7–8）
-> 3. **走向[[Comparative History of Comparative Education|比较教育学比较史]]的转向要求** 必须彻底打破英美中心垄断，将拉美（阿根廷萨米恩托、巴西特谢拉）等非西方经验纳入正史，开掘以德赖兰和哈廷盖夫人为代表的隐形女性学者，并系统剖析不同国家的元[[Epistemology|认识论假设]]。（pp.8–9）
-> 4. **肖像学解构与未来决定过去的历史诠释学** [[Michael Sadler|萨德勒]]等学术图腾是学科传统发明的社会建构产物；历史事实虽可稳定归档，但赋予其意义的提问逻辑永远源自当下危机与未来视域，学科历史必须由每一代人持续重写。（pp.9–10）
+> 2. **历史编纂的三重结构性障碍** 比较教育学史长期停滞于浅层，根源于大学档案缺乏开掘、学术体制对史学研究缺乏职业激励与差旅资助、以及相比主流史学极其贫瘠的[[Document\|文献]]与档案密度。（pp.7–8）
+> 3. **走向[[Comparative History of Comparative Education\|比较教育学比较史]]的转向要求** 必须彻底打破英美中心垄断，将拉美（阿根廷萨米恩托、巴西特谢拉）等非西方经验纳入正史，开掘以德赖兰和哈廷盖夫人为代表的隐形女性学者，并系统剖析不同国家的元[[Epistemology\|认识论假设]]。（pp.8–9）
+> 4. **肖像学解构与未来决定过去的历史诠释学** [[Michael Sadler\|萨德勒]]等学术图腾是学科传统发明的社会建构产物；历史事实虽可稳定归档，但赋予其意义的提问逻辑永远源自当下危机与未来视域，学科历史必须由每一代人持续重写。（pp.9–10）
 
 ---
 
@@ -283,12 +283,12 @@ updated: 2026-09-06
 >
 > *As someone who was thinking about specialising in comparative education I was most relieved that there was a history... Comparative education existed and it had a history as well. There were more jobs in sociology, but clearly comparative education was more fun. I could take up a career. The history legitimated me. And now – a few decades later? Now that we are all legitimate, in what senses do we exist historically?*
 
-> [!citation-card] 引用主题二：走向[[Comparative History of Comparative Education|比较教育学的比较史]]
+> [!citation-card] 引用主题二：走向[[Comparative History of Comparative Education\|比较教育学的比较史]]
 > 问题的严峻性还在于，一部比较教育学的历史迟早应当演变为一部比较教育学的比较史。我们现在距离这一目标仍有距离……读完这些卷册后会产生一种震惊的颤栗：我们至今在印刷出版物中找不到巴西或阿根廷的任何严肃比较教育史。尽管萨米恩托在阿根廷享有重要地位并展现出令人惊叹的务实比较教育实践，特谢拉在巴西教育史上具有重大意义及其深厚的国际联结，我们却只有零散的文章和线索，而没有历史。（pp.8–9）
 >
 > *The problem is also worse than that because a history of comparative education ought – sooner or later – to become a comparative history of comparative education. We are still a little bit away from that... There is also the shiver of the shock which comes later, as a reading of these volumes is complete, and it is recalled that we have no serious history of comparative education in Brazil or in Argentina in print... We have articles and hints; and we do not have histories.*
 
-> [!citation-card] 引用主题三：[[Academic Iconography|学科肖像学]]与[[Michael Sadler|萨德勒]]神话
+> [!citation-card] 引用主题三：[[Academic Iconography\|学科肖像学]]与[[Michael Sadler\|萨德勒]]神话
 > 我们并不理解我们自己的肖像学。例如，Michael Sadler 爵士显然是一位优秀的公职人员和教育领袖……固然很好，但我们在比较教育学中赋予了他令人震惊的重要性，尽管他那篇著名的演讲所造成的混乱远多于它所解答的问题。但他总是出现在正统历史之中，这本身就成了我们肖像学的社会建构这一历史问题。（p.9）
 >
 > *We do not understand our own iconographies. For example, Sir Michael Sadler was clearly a fine public servant and an educational leader and, one suspects, a rather pleasant human being. Fine – but we give him an astounding importance in comparative education even though that famous essay of his (Sadler, 1964) has caused far more confusion than it has ever solved. But he is always in 'the histories', which itself becomes a historical problem of the social construction of our iconographies.*
@@ -303,7 +303,7 @@ updated: 2026-09-06
 ## 自述局限
 
 > [!warning]
-> 全书第一板块各章节虽呈现了深度的史料梳理，但整体而言，学界现存研究材料依然严重匮乏，不足以直接支撑一部成熟的跨国比较史（p.8）；对于巴西、阿根廷及欧洲大陆各国内部的学科演进，目前仅掌握零星论文与线索，缺乏系统性专著（pp.8–9）；对跨洲关键人物的深层史学研究与[[Academic Iconography|学科肖像学]]反思仍处于起步阶段（p.9）。
+> 全书第一板块各章节虽呈现了深度的史料梳理，但整体而言，学界现存研究材料依然严重匮乏，不足以直接支撑一部成熟的跨国比较史（p.8）；对于巴西、阿根廷及欧洲大陆各国内部的学科演进，目前仅掌握零星论文与线索，缺乏系统性专著（pp.8–9）；对跨洲关键人物的深层史学研究与[[Academic Iconography\|学科肖像学]]反思仍处于起步阶段（p.9）。
 
 ---
 

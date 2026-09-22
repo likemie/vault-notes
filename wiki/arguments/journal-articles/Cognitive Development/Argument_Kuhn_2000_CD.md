@@ -73,14 +73,14 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[Epistemological Understanding|认识论理解]]（epistemological understanding）从绝对论到多元论再到评价论的发展过程中，究竟是什么在发生变化？这种发展是否在所有判断领域（如事实、价值观、品味）中同步发生？
+> [[Epistemological Understanding\|认识论理解]]（epistemological understanding）从绝对论到多元论再到评价论的发展过程中，究竟是什么在发生变化？这种发展是否在所有判断领域（如事实、价值观、品味）中同步发生？
 
 > [!claim] 核心主张
 > 成熟认识论理解的核心在于协调认知的“主观”与“客观”维度。这一协调过程在不同判断领域的发展顺序呈现系统性特征：向多元论（主观性）的转变最先发生在个人品味和审美领域，最后发生在事实领域；而向评价论（重新整合客观性）的转变则呈现完全相反的顺序，最先发生在事实领域，最难发生在价值观和审美领域。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 不同年龄段（从小学、初中、高中、本科生到成人及教育哲学专家）个体的[[Epistemology|认识论]]发展轨迹。
-> - **张力** 传统阶段论研究倾向于将认识论发展视为一种跨领域的统一心智结构，但实际上[[Epistemic Stances|认识论立场]]在很大程度上具有[[Domain Specificity|领域特异性]]（Domain specificity）。
+> - **对象** 不同年龄段（从小学、初中、高中、本科生到成人及教育哲学专家）个体的[[Epistemology\|认识论]]发展轨迹。
+> - **张力** 传统阶段论研究倾向于将认识论发展视为一种跨领域的统一心智结构，但实际上[[Epistemic Stances\|认识论立场]]在很大程度上具有[[Domain Specificity\|领域特异性]]（Domain specificity）。
 > - **贡献** 构建了跨越五个判断领域的 15 题评估工具，实证了主客观协调过程具有领域特异性与发展序列反转的特征。
 
 ---
@@ -121,7 +121,7 @@ issuing_organization: ""
 > | **访谈验证／儿童组测验**<br>One-on-one Interview | 研究一针对 5 年级以上及成人使用纸笔测试；研究二为验证向多元论过渡的最早阶段，对 21 名 2-3 年级儿童进行了详细的口头理解和追问访谈。 |
 
 > [!stat-cards]- 样本构成
-> - **129** 研究一测试群组的[[Sample Size Determination|样本量]]（N），含 5 年级（n=20，中位年龄10岁）、8 年级（n=25）、12 年级（n=21）、顶尖大学本科生（n=20）、内城区社区大学成人（n=20）、商学院高级管理人员工商管理硕士（Executive Master of Business Administration, EMBA）职场精英（n=18）、教育哲学专业博士候选人专家组（n=5）。
+> - **129** 研究一测试群组的[[Sample Size Determination\|样本量]]（N），含 5 年级（n=20，中位年龄10岁）、8 年级（n=25）、12 年级（n=21）、顶尖大学本科生（n=20）、内城区社区大学成人（n=20）、商学院高级管理人员工商管理硕士（Executive Master of Business Administration, EMBA）职场精英（n=18）、教育哲学专业博士候选人专家组（n=5）。
 > - **21** 研究二测试群组的样本量（N），私立学校课后项目中的 2-3 年级儿童（7-8岁）。
 
 根据五个领域的知识特性设计的评估题项如下：
@@ -177,13 +177,13 @@ issuing_organization: ""
 
 ### 论证步骤一：认识论理解的发端与心智理论（Theory of Mind）
 
-> [!claim] [[Epistemological Understanding|认识论理解]]的最初觉醒，植根于儿童早期在“[[Theory of Mind|心智理论]]”上的突破。个体必须首先认识到信念是人类心智的产物且可能出错，才能开启向成熟[[Epistemology|认识论]]迈进的历程。
+> [!claim] [[Epistemological Understanding\|认识论理解]]的最初觉醒，植根于儿童早期在“[[Theory of Mind\|心智理论]]”上的突破。个体必须首先认识到信念是人类心智的产物且可能出错，才能开启向成熟[[Epistemology\|认识论]]迈进的历程。
 > 协调主客观维度的能力并非凭空出现，而是儿童早期对“人的内部认知状态如何表征外部现实”的认知发展的自然延续。
 
 > [!dev-timeline] 从前绝对论到多元论的心智发育时间轴
 > - **3岁阶段 — 前绝对论（Preabsolutist）与错误信念的缺失** 儿童开始使用“思考”、“知道”等认知动词，但认为人的断言必须与外部现实完全同构（isomorphic）。在经典的“错误信念”任务中，他们无法理解别人可能会持有与事实不符的错误认知，也排斥别人可以持有“违规”的信念（p. 312）。
 > - **4岁阶段 — 绝对论（[[Absolutist]]）的达成** 儿童通过了错误信念测试，认识到“断言是某人信念的表达，而不一定等同于现实”。这是认知的主观属性（来源于人）和客观现实首次被区分。但此时冲突的观点只能被单一地解释为“其中一人没有掌握全部信息”（p. 312-313）。
-> - **学龄期以后 — [[Constructivist Paradigm|建构主义]]心智理论与向多元论（[[Multiplist]]）的滑落** 儿童逐渐理解，针对同一事件的冲突表征，是个体独特意义建构（meaning-making）过程的合法产物。因为心智解释过程不同，知识自然不同，这为“所有知识都只是意见”的多元论破土而出铺平了道路（p. 313）。
+> - **学龄期以后 — [[Constructivist Paradigm\|建构主义]]心智理论与向多元论（[[Multiplist]]）的滑落** 儿童逐渐理解，针对同一事件的冲突表征，是个体独特意义建构（meaning-making）过程的合法产物。因为心智解释过程不同，知识自然不同，这为“所有知识都只是意见”的多元论破土而出铺平了道路（p. 313）。
 
 > [!warrant]- 推理桥梁
 > 作者通过引入心智理论，揭示了认识论发展的第一道门槛：从“无法区分认知与现实”到“承认认知是由人脑生成的”。只有当儿童明白知识不是直接映射的绝对真理，而是由人的心智加工出的信念时，才有可能走向容纳多元主观观点的多元论阶段。
@@ -192,15 +192,15 @@ issuing_organization: ""
 
 ### 论证步骤二：认识论立场的领域非同步性
 
-> [!claim] 绝大多数个体并未在所有[[Areas of Knowledge|知识领域]]保持统一的[[Epistemology|认识论]]水平，而是呈现混合状态。
-> 从儿童到成人，跨全领域的纯粹阶段表现极为罕见。[[Epistemological Understanding|认识论理解]]的提升并非一种全有或全无的整体心智革命，而是被知识的局部情境深深牵制。
+> [!claim] 绝大多数个体并未在所有[[Areas of Knowledge\|知识领域]]保持统一的[[Epistemology\|认识论]]水平，而是呈现混合状态。
+> 从儿童到成人，跨全领域的纯粹阶段表现极为罕见。[[Epistemological Understanding\|认识论理解]]的提升并非一种全有或全无的整体心智革命，而是被知识的局部情境深深牵制。
 
 > [!evidence-grid] 结构内混合的普遍性
-> - **纯粹一致型样本仅占半数** 数据显示，在非专家组中，只有一半左右的个体在四个核心领域表现出统一的认识论水平（如纯粹多元论 MMMM 有 37 人，[[Pure Evaluation|纯粹评价]]论 EEEE 有 13 人，纯粹绝对论 AAAA 仅 2 人）。
+> - **纯粹一致型样本仅占半数** 数据显示，在非专家组中，只有一半左右的个体在四个核心领域表现出统一的认识论水平（如纯粹多元论 MMMM 有 37 人，[[Pure Evaluation\|纯粹评价]]论 EEEE 有 13 人，纯粹绝对论 AAAA 仅 2 人）。
 > - **跨领域混合的高度规律性** 剩下的近半数参与者呈现出看似混乱的跨阶段混合模式。但数据表明，在 129 名参与者中，有 107 人（83%）的混合模式完全符合理论预期的难度序列（如在事实领域达到了评价论，但在价值观领域仍是多元论），排除了随机作答的可能（p. 318）。
 
 > [!warrant]- 推理桥梁
-> 这种系统性的领域非同步性打破了传统认知发展理论的[[Hypothesis|假设]]。它证明了认识论的成熟度并不是一种一旦获得就会全盘应用到所有场景的通用心智结构（General cognitive structure），而是一种高度[[Domain Specificity|领域特异性]]（Domain-specific）的分布式成就。个体能否在某领域取得突破，取决于该领域特有的知识属性对其协调主客观维度的挑战难度。
+> 这种系统性的领域非同步性打破了传统认知发展理论的[[Hypothesis\|假设]]。它证明了认识论的成熟度并不是一种一旦获得就会全盘应用到所有场景的通用心智结构（General cognitive structure），而是一种高度[[Domain Specificity\|领域特异性]]（Domain-specific）的分布式成就。个体能否在某领域取得突破，取决于该领域特有的知识属性对其协调主客观维度的挑战难度。
 
 ---
 
@@ -267,18 +267,18 @@ issuing_organization: ""
 > - **专家组的鲜明对照** 只有接受过专门教育哲学与认识论训练的专家组（Expert），在各项评价论指标上达到了 80%-100% 的绝对高位。在访谈中，即便是这道菜有多辣或婚礼该在何时举行这种看似纯粹的品味问题，也被认为在理论上可以通过科学仪器（测量辣椒素）或长期实证追踪（统计婚姻存续率）来进行客观评估（p. 325 脚注）。
 
 > [!warrant]- 最终推理桥梁
-> 成年社会主流的知识气候高度推崇求同存异（Live and let live）与各有所好的社交智慧，这在本质上与追求客观评估的认识论背道而驰。当人们出于社交上的礼貌与宽容，不再把[[Critical Thinking|批判性思维]]视作判断社会或价值争议优劣的工具时，认识论发展就永久停滞在了多元论的泥潭中。这也证明了高阶的评价论理解不会随着岁月累积自然[[Growth|生长]]，它需要经过艰苦的智识训练与教育介入。
+> 成年社会主流的知识气候高度推崇求同存异（Live and let live）与各有所好的社交智慧，这在本质上与追求客观评估的认识论背道而驰。当人们出于社交上的礼貌与宽容，不再把[[Critical Thinking\|批判性思维]]视作判断社会或价值争议优劣的工具时，认识论发展就永久停滞在了多元论的泥潭中。这也证明了高阶的评价论理解不会随着岁月累积自然[[Growth\|生长]]，它需要经过艰苦的智识训练与教育介入。
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **发现一（双维协调）** [[Epistemological Understanding|认识论理解]]的成熟，其本质并不是简单地获取更多知识，而是个体在心智层面能够恰当协调主观维度与客观维度的过程。
+> 1. **发现一（双维协调）** [[Epistemological Understanding\|认识论理解]]的成熟，其本质并不是简单地获取更多知识，而是个体在心智层面能够恰当协调主观维度与客观维度的过程。
 > 2. **发现二（向多元论的前进）** 摆脱绝对论、接纳认知主观性的转变，是以**个人品味 > 审美 > 价值观 > 社会事实 > 物理事实** 的序列推进。
 > 3. **发现三（向评价论的攀登）** 摆脱彻底相对主义、重新确立客观评估标准的转变，呈现完全相反的发展序列，即在事实领域最易重建，而在价值观与审美领域遭遇瓶颈。
 > 4. **发现四（成人的停滞）** 绝大多数成年人在价值观和审美等领域停滞在了中间层的多元论，将理性的论辩误认为是对他人权利的侵犯。
-> 5. **发现五（现实影响）** 认识论理解的缺失不仅是抽象的哲学问题，它会直接限制个体的广泛智力功能和现实决策质量（例如，陪审员的[[Epistemology|认识论]]水平直接预测了他们选择的裁决结果及背后的推理深度）。（p. 326-327）
+> 5. **发现五（现实影响）** 认识论理解的缺失不仅是抽象的哲学问题，它会直接限制个体的广泛智力功能和现实决策质量（例如，陪审员的[[Epistemology\|认识论]]水平直接预测了他们选择的裁决结果及背后的推理深度）。（p. 326-327）
 
 > [!stat-cards]- 核心数据
 > - **35%** 有 37 名受测者（占非专家样本 35%）在除个人品味外的所有核心领域都表现为彻底的多元论模式（MMMM），印证了这是青春期到成年初期的典型停滞状态。（p. 319）
@@ -289,11 +289,11 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 主观性向多元论的极速渗透（投毒隐喻）
-> 正如 Chandler et al. (1990)从理论层面所提出的[[Hypothesis|假设]]，这种转变发生得极为迅速；一旦认知的主观性被承认，犹如“井水被投了毒”（the well is poisoned），向彻底主观的多元论立场的滑落就会极速发生。（p. 320）
+> 正如 Chandler et al. (1990)从理论层面所提出的[[Hypothesis\|假设]]，这种转变发生得极为迅速；一旦认知的主观性被承认，犹如“井水被投了毒”（the well is poisoned），向彻底主观的多元论立场的滑落就会极速发生。（p. 320）
 > 
 > *A second explanation is one argued on theoretical grounds by Chandler, Boyes, and Ball (1990), namely that this transition occurs very rapidly; once the “well is poisoned,” as Chandler et al. put it, by the acknowledgment of subjectivity, the movement toward the [[Multiplist]] position of total subjectivity occurs very rapidly.*
 
-> [!citation-card]- [[Epistemology|认识论]]反转序列的心理学机制
+> [!citation-card]- [[Epistemology\|认识论]]反转序列的心理学机制
 > 在从多元论向评价论的转变中，情况则形成对比，此时的发展任务是认识并重新整合认知的客观维度。这里可以预测一个完全相反的获得顺序。在面对多种观点时，在真理判断领域（物理与社会）认识到客观标准的可能性也许是最容易的。
 >
 > *In the transition from multiplist to [[Evaluativist]], in contrast, the developmental task is one of recognizing and reintegrating the objective dimension of knowing. Here an order of attainment exactly the reverse might be predicted. It may be easiest to recognize the possibility of objective criteria (in the face of [[Multiplicity]] of views) in the domain of truth judgments.* (p. 314)
@@ -301,15 +301,15 @@ issuing_organization: ""
 > [!citation-card]- 当代社会价值与多元论的共谋
 > 在西方文化中盛行的知识气候和价值观是值得指出的一个显著因素……现代社会中，“宽容”与“接纳”的价值观可能与客观评估的价值观相互竞争，体现为“求同存异（live and let live）”和“各有所好”的格言。现代社会有很多迹象表明，后者压过了前者，导致超越多元论层次的智识发展受到抑制。
 >
-> *One factor we would point to as salient is the intellectual climate and values that prevail in Western culture... Competing perhaps with this set of values in modern society are the values of social tolerance and acceptance — reflected in the “live and let live” and “to each his own” adages... resulting in an [[Cognitive Inhibition|inhibition]] of intellectual development beyond the multiplist level.* (p. 325)
+> *One factor we would point to as salient is the intellectual climate and values that prevail in Western culture... Competing perhaps with this set of values in modern society are the values of social tolerance and acceptance — reflected in the “live and let live” and “to each his own” adages... resulting in an [[Cognitive Inhibition\|inhibition]] of intellectual development beyond the multiplist level.* (p. 325)
 
 ---
 
 ## 自述局限
 
 > [!warning]
-> 相较于采用长篇[[In-depth Interview|深度访谈]]的方法，使用 15 题标准化简短评估工具可能不够敏感，难以激发出个体[[Epistemological Understanding|认识论理解]]的所有深度和复杂性，从而可能低估了某些成年个体的[[Epistemology|认识论]]成熟度。
-> **作者的辩护** 尽管如此，作者指出 King & Kitchener (1994) 使用深度临床访谈同样得出了成年群体认识论水平低下的悲观结论；且 Weinstock 证明了该简短工具与传统深度访谈（如 Livia 困境）的评级具有高度一致性。因此，该工具换取了能够跨越众多[[Areas of Knowledge|知识领域]]进行横向对比的巨大优势，且其测量效度得到了支撑。（p. 326）
+> 相较于采用长篇[[In-depth Interview\|深度访谈]]的方法，使用 15 题标准化简短评估工具可能不够敏感，难以激发出个体[[Epistemological Understanding\|认识论理解]]的所有深度和复杂性，从而可能低估了某些成年个体的[[Epistemology\|认识论]]成熟度。
+> **作者的辩护** 尽管如此，作者指出 King & Kitchener (1994) 使用深度临床访谈同样得出了成年群体认识论水平低下的悲观结论；且 Weinstock 证明了该简短工具与传统深度访谈（如 Livia 困境）的评级具有高度一致性。因此，该工具换取了能够跨越众多[[Areas of Knowledge\|知识领域]]进行横向对比的巨大优势，且其测量效度得到了支撑。（p. 326）
 
 ---
 

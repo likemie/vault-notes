@@ -54,17 +54,17 @@ updated: 2026-09-11
 
 ## 工具定位
 
-> [!instrument-profile] ToK 课堂[[Observation Protocol|观察协议]]
-> - **工具类型** 半结构化课堂观察工具，以[[Field Notes|田野笔记]]（[[Champ|field]] notes）为记录形式。
-> - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
-> - **测量目的** 记录 ToK 课堂教学实践，分析[[Critical Thinking|批判性思维]]在课堂中的呈现方式和教学有效性。
-> - **实施方式** 研究者进入课堂进行[[Non-participant Observation|非参与式观察]]，以预设重点为指引记录田野笔记，不录音录像。
+> [!instrument-profile] ToK 课堂[[Observation Protocol\|观察协议]]
+> - **工具类型** 半结构化课堂观察工具，以[[Field Notes\|田野笔记]]（[[Champ\|field]] notes）为记录形式。
+> - **开发者与年份** [[Argument_Cole_2015_AJE\|Cole et al. (2015)]]。
+> - **测量目的** 记录 ToK 课堂教学实践，分析[[Critical Thinking\|批判性思维]]在课堂中的呈现方式和教学有效性。
+> - **实施方式** 研究者进入课堂进行[[Non-participant Observation\|非参与式观察]]，以预设重点为指引记录田野笔记，不录音录像。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]教学实践
+> [!construct-table] [[Critical Thinking\|批判性思维]]教学实践
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -82,7 +82,7 @@ updated: 2026-09-11
 
 > [!instrument-items] 作答规则
 > - **题项形式** 开放式观察重点，研究者据此在课堂中定向记录。
-> - **作答格式** [[Field Notes|田野笔记]]——描述教师行为、学生行为、课堂互动、教学材料和制度语境。
+> - **作答格式** [[Field Notes\|田野笔记]]——描述教师行为、学生行为、课堂互动、教学材料和制度语境。
 > - **反向题与跳题** —
 
 > [!observation-focus] 观察重点

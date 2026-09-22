@@ -54,12 +54,12 @@ updated: 2026-09-02
 > [!instrument-profile] 远距离联想测验（RAT）
 > - **工具类型** 联想思维测验（Associative Thinking Test）。
 > - **开发者与年份** Mednick (1962)。
-> - **测量目的** 测量个体在看似无关的刺激之间建立远距离概念联想的能力，属于[[Creativity|创造力]]研究中的思维型（thinking-focused）测量。
+> - **测量目的** 测量个体在看似无关的刺激之间建立远距离概念联想的能力，属于[[Creativity\|创造力]]研究中的思维型（thinking-focused）测量。
 > - **实施方式** —。
 
 > [!concept-lens] 工具定位
 > - **含义** 通过远距离联想测量联想思维与联想流畅性，被视为创造过程中观念生成的重要指标。
-> - **用途** 作为[[Creativity Assessment|创造力测量]]，强调分析推理与联想流畅性等与[[Critical Thinking|批判性思维]]高度重合的认知过程。
+> - **用途** 作为[[Creativity Assessment\|创造力测量]]，强调分析推理与联想流畅性等与[[Critical Thinking\|批判性思维]]高度重合的认知过程。
 > - **边界** 属于思维型测量，与产品型评定（如专家评定）测量不同的评价标准。
 
 ---

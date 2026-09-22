@@ -45,15 +45,15 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **解码（Decodification）**是保罗·[[Paulo Freire|弗莱雷]][[Problem-Posing Education|提问式教育]]法中紧接[[Coding in Qualitative Research|编码]]的关键探究阶段。指受教者在文化圈（círculos de cultura）中围绕编码展开集体横向[[Dialogue in Education|对话]]，从感性观察跃升为对表象背后阶级剥削、制度压迫与权力关系的结构性认识，实现从“我思考”（I think）到“我们共同思考”（We think）的跃升。[[Argument_Darwish_2009_Queens|Darwish (2009, p. 48, p. 61)]]
+> **解码（Decodification）**是保罗·[[Paulo Freire\|弗莱雷]][[Problem-Posing Education\|提问式教育]]法中紧接[[Coding in Qualitative Research\|编码]]的关键探究阶段。指受教者在文化圈（círculos de cultura）中围绕编码展开集体横向[[Dialogue in Education\|对话]]，从感性观察跃升为对表象背后阶级剥削、制度压迫与权力关系的结构性认识，实现从“我思考”（I think）到“我们共同思考”（We think）的跃升。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 48, p. 61)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对编码中介符号进行社会学与政治学结构拆解的共同认知跃升过程。
-> - **用途** 帮助受教者揭示隐藏在日常生活现象背后的不公结构，促成[[Conscientization|批判意识觉醒]]。
+> - **用途** 帮助受教者揭示隐藏在日常生活现象背后的不公结构，促成[[Conscientization\|批判意识觉醒]]。
 > - **边界** 不等于传统的语法分析或文本解析；必须包含对现实社会权力的批判与实践指向。
 
 > [!citation-card]- 关键表述
-> 在解码过程中，学习者重新感知他们此前感知到的现实；通过对这一现实的批判性拆解，他们开始将其视为一个可被变革的人类产物。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
+> 在解码过程中，学习者重新感知他们此前感知到的现实；通过对这一现实的批判性拆解，他们开始将其视为一个可被变革的人类产物。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
 >
 > *Decodification is the analysis which takes place through dialogue, revealing the previously unperceived meanings of reality. (Freire, 2000, p. 105; Darwish, 2009, p. 61)*
 
@@ -77,9 +77,9 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **结构跃升（Structural Elevation）** 从“照片里有一块泥砖”拆解为“烧砖者为何住不起砖房”的结构分析。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 48)]]
-> - **横向合作（Horizontal Dialogue）** 师生作为平等探究主体共同解码，拒绝教师单向灌输结论。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 47)]]
-> - **实践指向（[[Praxis]] Orientation）** 解码理性觉察直接转化为改变压迫现状的实践行动。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
+> - **结构跃升（Structural Elevation）** 从“照片里有一块泥砖”拆解为“烧砖者为何住不起砖房”的结构分析。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
+> - **横向合作（Horizontal Dialogue）** 师生作为平等探究主体共同解码，拒绝教师单向灌输结论。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
+> - **实践指向（[[Praxis]] Orientation）** 解码理性觉察直接转化为改变压迫现状的实践行动。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -101,8 +101,8 @@ updated: 2026-09-17
 > [!concept-lens] 批判意识跃升维度
 > 探讨解码过程如何打破对被压迫境遇的盲从，将感性苦难转化为对社会结构的批判认识。
 
-> [!claim] [[Paulo Freire|Freire, P.]]
-> **解码的[[Epistemology|认识论]]飞跃** 弗莱雷论证指出，通过在文化圈中对[[Coding in Qualitative Research|编码]]展开解码拆解，学习者打破了孤立无助的心态，实现了从“我思考”向“我们共同思考”的飞跃，进而将受压迫现实看作可被人类行动重塑的过程。[[Argument_Darwish_2009_Queens|(Freire, 1973, p. 135; Freire, 2000, p. 105; Darwish, 2009, p. 48, p. 61)]]
+> [!claim] [[Paulo Freire\|Freire, P.]]
+> **解码的[[Epistemology\|认识论]]飞跃** 弗莱雷论证指出，通过在文化圈中对[[Coding in Qualitative Research\|编码]]展开解码拆解，学习者打破了孤立无助的心态，实现了从“我思考”向“我们共同思考”的飞跃，进而将受压迫现实看作可被人类行动重塑的过程。[[Argument_Darwish_2009_Queens\|(Freire, 1973, p. 135; Freire, 2000, p. 105; Darwish, 2009, p. 48, p. 61)]]
 
 ---
 
@@ -118,9 +118,9 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970 — 理论体系构建** [[Paulo Freire|弗莱雷]]在《被压迫者教育学》中将解码明确为[[Epistemology|认识论]]觉醒的关键环节。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 105)]]
-> - **1973 — 认识论飞跃论述** 在《批判意识教育》中提出解码实现了“我们思考”（We think）的横向飞跃。[[Argument_Darwish_2009_Queens|(Freire, 1973, p. 135)]]
-> - **2009 — 课程对比应用** 达维什在学位论文第 4 章中将解码作为评估[[Active Learning|主动学习]]深度的重要标准。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
+> - **1970 — 理论体系构建** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中将解码明确为[[Epistemology\|认识论]]觉醒的关键环节。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 105)]]
+> - **1973 — 认识论飞跃论述** 在《批判意识教育》中提出解码实现了“我们思考”（We think）的横向飞跃。[[Argument_Darwish_2009_Queens\|(Freire, 1973, p. 135)]]
+> - **2009 — 课程对比应用** 达维什在学位论文第 4 章中将解码作为评估[[Active Learning\|主动学习]]深度的重要标准。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
 
 ---
 
@@ -133,5 +133,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细记录了巴西农民如何解码“泥砖”照片并建立工会的过程。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 详细记录了巴西农民如何解码“泥砖”照片并建立工会的过程。

@@ -46,8 +46,8 @@ related_concepts:
   - "[[Hypothesis]]"
 related_theories:
   - "[[Classical Test Theory]]"
-  - "[[Item Response Theory]]"
 related_methods:
+  - "[[Item Response Theory]]"
   - "[[Measurement Invariance]]"
   - "[[Average Variance Extracted]]"
   - "[[Composite Reliability]]"
@@ -92,16 +92,16 @@ updated: '2026-09-12'
 ## 定义
 
 > [!def] 方法定义
-> **量表编制与心理计量验证（Scale Development & Psychometric Validation）** 是心理学、教育学及社会科学中，依据[[Classical Test Theory|经典测量理论]]（Classical Test Theory, CTT）或[[Item Response Theory|项目反应理论]]（Item Response Theory, IRT），将抽象、复杂且不可直接观测的[[Construct|理论构念]]（如态度、信念、素养、动机、效能感等潜[[Variable|变量]]）[[Operationalization|操作化]]为一组标准化、可量化测度的指标题项，并通过多阶段独立样本实证检验确立其构念维度、[[Content Validity|内容效度]]、[[Construct Validity|结构效度]]、[[Reliability|信度]]体系及跨群体[[Measurement Invariance|测量等值性]]的系统方法论体系。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–6)]]
+> **量表编制与心理计量验证（Scale Development & Psychometric Validation）** 是心理学、教育学及社会科学中，依据[[Classical Test Theory\|经典测量理论]]（Classical Test Theory, CTT）或[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT），将抽象、复杂且不可直接观测的[[Construct\|理论构念]]（如态度、信念、素养、动机、效能感等潜[[Variable\|变量]]）[[Operationalization\|操作化]]为一组标准化、可量化测度的指标题项，并通过多阶段独立样本实证检验确立其构念维度、[[Content Validity\|内容效度]]、[[Construct Validity\|结构效度]]、[[Reliability\|信度]]体系及跨群体[[Measurement Invariance\|测量等值性]]的系统方法论体系。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–6)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 无法直接物理测量的个体心理特质、专业素养、认知图式、情感态度、行为意向或组织环境感知。
 > - **问题类型** 理论构念的操作化测量、潜在因子维度结构探索与确证、跨群体测量不变性识别、心理测量学属性综合评定。
-> - **[[Unit of Analysis|分析单位]]** 目标群体个体的逐题标准化作答数据。
-> - **输出形式** 标准化量表手册（包含题项清单、作答等级与计分指南）、探索性因子载荷矩阵、验证性结构方程模型拟合参数、[[Average Variance Extracted|平均方差抽取量]]（AVE）与[[Composite Reliability|组合信度]]（CR）效度矩阵、跨组测量等值性阶梯报告及常模参照基准。
+> - **[[Unit of Analysis\|分析单位]]** 目标群体个体的逐题标准化作答数据。
+> - **输出形式** 标准化量表手册（包含题项清单、作答等级与计分指南）、探索性因子载荷矩阵、验证性结构方程模型拟合参数、[[Average Variance Extracted\|平均方差抽取量]]（AVE）与[[Composite Reliability\|组合信度]]（CR）效度矩阵、跨组测量等值性阶梯报告及常模参照基准。
 
 > [!citation-card]- 关键定义
-> 现代量表编制是一个多阶段、迭代演进的严格科学流程：研究者首先从理论[[Document|文献]]中界定构念边界并生成初始题池，通过专家[[Content Validity Index|内容效度指数]]（CVI）评审与目标群体认知访谈进行初筛；随后在样本 1 中执行[[Item Analysis|项目分析]]与[[Exploratory Factor Analysis|探索性因子分析]]（EFA）精简题项并探索潜在维度；最后在独立样本 2 中运用[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）确证一阶与高阶因子结构，检验[[Convergent and Discriminant Validity|收敛效度]]（AVE ≥ .50）与区分效度（Fornell-Larcker 准则），并确立跨群体的严格测量等值性。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–5)]]
+> 现代量表编制是一个多阶段、迭代演进的严格科学流程：研究者首先从理论[[Document\|文献]]中界定构念边界并生成初始题池，通过专家[[Content Validity Index\|内容效度指数]]（CVI）评审与目标群体认知访谈进行初筛；随后在样本 1 中执行[[Item Analysis\|项目分析]]与[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）精简题项并探索潜在维度；最后在独立样本 2 中运用[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）确证一阶与高阶因子结构，检验[[Convergent and Discriminant Validity\|收敛效度]]（AVE ≥ .50）与区分效度（Fornell-Larcker 准则），并确立跨群体的严格测量等值性。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–5)]]
 >
 > *Scale development is an iterative, multi-phase methodology in which researchers define construct boundaries, generate item pools, evaluate content validity via expert panels, and administer the instrument across independent samples to conduct EFA for dimension discovery and CFA for structural verification, convergent/discriminant validity, and measurement invariance.*
 
@@ -109,31 +109,31 @@ updated: '2026-09-12'
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 潜在特质（Latent Trait）虽不可直接观测，但可以通过一组具有[[Reflexivity|反思性]]（Reflective）或形成性（Formative）的外显行为指标进行概率性、线性加权推断。
-> - **研究者角色** 研究者必须在[[Construct|构念]]界定、题项编制、因子截断标准选择及模型误差协方差修正中保持高度的理论自觉与方法学反思，严禁陷入纯粹数据驱动的机械拟合。
-> - **有效性标准** 遵循严密的测量学阶梯：[[Face Validity|表面效度]] $\rightarrow$ [[Content Validity|内容效度]]（[[Content Validity Index|CVI]] / CVR） $\rightarrow$ 探索性[[Construct Validity|结构效度]]（[[Exploratory Factor Analysis|EFA]]） $\rightarrow$ 验证性结构效度（[[Confirmatory Factor Analysis|CFA]]） $\rightarrow$ 收敛与[[Convergent and Discriminant Validity|区分效度]]（[[Average Variance Extracted|AVE]] / CR / Fornell-Larcker 准则） $\rightarrow$ 跨群体[[Measurement Invariance|测量等值性]]。
-> - **不声称回答的问题** 量表本身仅提供测量构念的有效工具，量表得分之间的相关或群体差异无法直接推断[[Causality|因果关系]]，需进一步结合实验设计或纵向追踪模型。
+> [!method-position] [[Epistemology\|认识论]]与方法定位
+> - **知识观** 潜在特质（Latent Trait）虽不可直接观测，但可以通过一组具有[[Reflexivity\|反思性]]（Reflective）或形成性（Formative）的外显行为指标进行概率性、线性加权推断。
+> - **研究者角色** 研究者必须在[[Construct\|构念]]界定、题项编制、因子截断标准选择及模型误差协方差修正中保持高度的理论自觉与方法学反思，严禁陷入纯粹数据驱动的机械拟合。
+> - **有效性标准** 遵循严密的测量学阶梯：[[Face Validity\|表面效度]] $\rightarrow$ [[Content Validity\|内容效度]]（[[Content Validity Index\|CVI]] / CVR） $\rightarrow$ 探索性[[Construct Validity\|结构效度]]（[[Exploratory Factor Analysis\|EFA]]） $\rightarrow$ 验证性结构效度（[[Confirmatory Factor Analysis\|CFA]]） $\rightarrow$ 收敛与[[Convergent and Discriminant Validity\|区分效度]]（[[Average Variance Extracted\|AVE]] / CR / Fornell-Larcker 准则） $\rightarrow$ 跨群体[[Measurement Invariance\|测量等值性]]。
+> - **不声称回答的问题** 量表本身仅提供测量构念的有效工具，量表得分之间的相关或群体差异无法直接推断[[Causality\|因果关系]]，需进一步结合实验设计或纵向追踪模型。
 
 > [!method-stack] 方法层级
 > - **研究设计** 心理测量工具开发设计、两阶段双独立样本横断面调查设计。
-> - **数据收集** 专家[[Delphi Technique|德尔菲法]]、认知访谈预试、大规模纸笔或在线[[Questionnaire|问卷调查]]。
-> - **分析方法** [[Item Analysis|项目分析]]（Item Analysis）、探索性因子分析（EFA）、验证性因子分析（CFA）、多组验证性因子分析（MG-CFA）、多[[Variable|变量]][[Analysis of Variance|方差分析]]（[[Multivariate Analysis of Variance|MANOVA]]）。
-> - **辅助技术** 期望极大化（EM）算法[[Imputation Methods|缺失值插补]]、马氏距离多变量离群值筛查、Bootstrap 稳健[[Standard Error|标准误]]估计、方差最大正交旋转（Varimax）与斜交旋转（Promax）。
+> - **数据收集** 专家[[Delphi Technique\|德尔菲法]]、认知访谈预试、大规模纸笔或在线[[Questionnaire\|问卷调查]]。
+> - **分析方法** [[Item Analysis\|项目分析]]（Item Analysis）、探索性因子分析（EFA）、验证性因子分析（CFA）、多组验证性因子分析（MG-CFA）、多[[Variable\|变量]][[Analysis of Variance\|方差分析]]（[[Multivariate Analysis of Variance\|MANOVA]]）。
+> - **辅助技术** 期望极大化（EM）算法[[Imputation Methods\|缺失值插补]]、马氏距离多变量离群值筛查、Bootstrap 稳健[[Standard Error\|标准误]]估计、方差最大正交旋转（Varimax）与斜交旋转（Promax）。
 
 ---
 
 ## 量表编制八步标准操作规程
 
-> [!proc] 量表编制与验证的标准全流程（DeVellis & Boateng 现代[[Paradigm|范式]]）
-> 1. **[[Construct|理论构念]]界定与维度划分** 深入检索[[Document|文献]]，明确构念的理论内涵、子维度结构与适用边界条件。
+> [!proc] 量表编制与验证的标准全流程（DeVellis & Boateng 现代[[Paradigm\|范式]]）
+> 1. **[[Construct\|理论构念]]界定与维度划分** 深入检索[[Document\|文献]]，明确构念的理论内涵、子维度结构与适用边界条件。
 > 2. **初始题池编写与作答格式设计** 编写 3–4 倍于目标题数的陈述句题池（通常 40–80 题），设定平衡的李克特计分点（如 5 级或 7 级）。
-> 3. **专家[[Content Validity|内容效度]]评审与认知访谈** 邀请 5–10 位专家计算 [[Content Validity Index|内容效度指数]]（CVI） 与 CVR，结合 10–20 位目标被试的[[Pilot Testing|预测试]]完成题池初审。
-> 4. **样本 1 施测与[[Item Analysis|项目分析]]初筛** 在样本 1（$N \ge 300$）中施测，计算矫正题总相关（剔除 $r < .30$），执行极端分组 $t$ 检验。
-> 5. **[[Exploratory Factor Analysis|探索性因子分析]]（EFA）与维度提炼** 检验 KMO 与 Bartlett 球形检验，采用主轴因子提取法（PAF）与方差最大正交旋转，依据载荷 $> .32$ 且跨载荷差 $> .10$ 精简题项。
-> 6. **独立样本 2 施测与[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）** 收集独立样本 2（$N \ge 200\sim300$），拟合并对比单因子、一阶多因子与二阶因子模型，评估拟合指数（$\chi^2/df, \text{[[Model Fit Indices in SEM and CFA|RMSEA]]}, \text{CFI}$）。
-> 7. **[[Construct Validity|构念效度]]与[[Composite Reliability|复合信度]]电池检验** 计算各因子的[[Average Variance Extracted|平均方差抽取量]]（AVE $\ge .50$）与组合[[Reliability|信度]]（CR $\ge .70$），验证 Fornell-Larcker [[Convergent and Discriminant Validity|区分效度]]准则，报告 Cronbach's $\alpha$ 与 McDonald's $\omega$。
-> 8. **跨群体[[Measurement Invariance|多组测量等值性]]检验与实证应用** 阶梯检验形态、弱、强与严格等值性（$|\Delta\text{CFI}| \le .010$），结合[[Analysis of Variance|方差分析]]（[[Multivariate Analysis of Variance|MANOVA]]）探索背景[[Variable|变量]]的赋能效应。
+> 3. **专家[[Content Validity\|内容效度]]评审与认知访谈** 邀请 5–10 位专家计算 [[Content Validity Index\|内容效度指数]]（CVI） 与 CVR，结合 10–20 位目标被试的[[Pilot Testing\|预测试]]完成题池初审。
+> 4. **样本 1 施测与[[Item Analysis\|项目分析]]初筛** 在样本 1（$N \ge 300$）中施测，计算矫正题总相关（剔除 $r < .30$），执行极端分组 $t$ 检验。
+> 5. **[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）与维度提炼** 检验 KMO 与 Bartlett 球形检验，采用主轴因子提取法（PAF）与方差最大正交旋转，依据载荷 $> .32$ 且跨载荷差 $> .10$ 精简题项。
+> 6. **独立样本 2 施测与[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）** 收集独立样本 2（$N \ge 200\sim300$），拟合并对比单因子、一阶多因子与二阶因子模型，评估拟合指数（$\chi^2/df, \text{[[Model Fit Indices in SEM and CFA\|RMSEA]]}, \text{CFI}$）。
+> 7. **[[Construct Validity\|构念效度]]与[[Composite Reliability\|复合信度]]电池检验** 计算各因子的[[Average Variance Extracted\|平均方差抽取量]]（AVE $\ge .50$）与组合[[Reliability\|信度]]（CR $\ge .70$），验证 Fornell-Larcker [[Convergent and Discriminant Validity\|区分效度]]准则，报告 Cronbach's $\alpha$ 与 McDonald's $\omega$。
+> 8. **跨群体[[Measurement Invariance\|多组测量等值性]]检验与实证应用** 阶梯检验形态、弱、强与严格等值性（$|\Delta\text{CFI}| \le .010$），结合[[Analysis of Variance\|方差分析]]（[[Multivariate Analysis of Variance\|MANOVA]]）探索背景[[Variable\|变量]]的赋能效应。
 
 ```mermaid
 flowchart LR
@@ -148,7 +148,7 @@ flowchart LR
 ### 阶段一：构念界定与内容效度（Item Generation & Content Validity）
 
 > [!concept-lens] 阶段一适用情境
-> 适用于[[Literature Review|文献综述]]完成后，将理论概念[[Operationalization|操作化]]为初始题池，并通过学科专家评审与小样本预试剔除不切题或歧义题项的初始阶段。
+> 适用于[[Literature Review\|文献综述]]完成后，将理论概念[[Operationalization\|操作化]]为初始题池，并通过学科专家评审与小样本预试剔除不切题或歧义题项的初始阶段。
 
 > [!contrast-table] 阶段一核心方法与工具矩阵
 > | 统计方法/工具条目 | 方法定位与角色 | 解决的核心问题与痛点 | 判断标准与决策阈值 | 深度条目索引 |
@@ -199,7 +199,7 @@ flowchart LR
 ### 阶段三：结构确证与高级心理测量（CFA, Validity & Measurement Invariance）
 
 > [!concept-lens] 阶段三适用情境
-> 适用于在全新独立样本 2（$N \ge 200\sim300$）中确证一阶与高阶因子模型、检验潜变量效[[Reliability|信度]]体系并评估跨群体[[External Validity|可推广性]]的高级验证阶段。
+> 适用于在全新独立样本 2（$N \ge 200\sim300$）中确证一阶与高阶因子模型、检验潜变量效[[Reliability\|信度]]体系并评估跨群体[[External Validity\|可推广性]]的高级验证阶段。
 
 > [!contrast-table] 阶段三核心方法与工具矩阵
 > | 统计方法/工具条目 | 方法定位与角色 | 解决的核心问题与痛点 | 判断标准与决策阈值 | 深度条目索引 |
@@ -208,15 +208,15 @@ flowchart LR
 > | **[[Model Fit Indices in SEM and CFA\|结构方程拟合指数体系]]** | **多维模型适配度量化判定** | 提供绝对拟合（$\chi^2/df, \text{RMSEA}, \text{SRMR}$）与增量拟合（$\text{CFI}, \text{TLI}$）的综合决策标准。 | Hu & Bentler 准则：**$\text{CFI} \ge .95$**，**$\text{TLI} \ge .95$**，**$\text{RMSEA} \le .06$**，**$\text{SRMR} \le .08$**。 | 🔗 [[Model Fit Indices in SEM and CFA]] |
 > | **[[Cronbach's Alpha\|克隆巴赫 α 系数]]** | **经典测量[[Internal Consistency\|内部一致性]]基准** | 评估量表各题项在同质性测量中的一致性，提供基线信度参考。 | 决策阈值：**$\alpha \ge .70$**（可接受），**$\alpha \ge .80$**（良好），**$\alpha \ge .90$**（卓越）。 | 🔗 [[Cronbach's Alpha]] |
 > | **[[McDonald's Omega\|麦克唐纳 ω 系数]]** | **现代潜变量内部一致性首选** | 突破等载荷假设，精准估计异质载荷下的总信度（$\omega_t$）与分层信度（$\omega_h$）。 | 决策阈值：**$\omega_t \ge .70$**，若作为单维合成总分要求 **$\omega_h \ge .80$**。 | 🔗 [[McDonald's Omega]] |
-> | **[[Average Variance Extracted\|平均方差抽取量（AVE）]]** | **收敛与[[Convergent and Discriminant Validity\|区分效度]]判定标准** | 解决传统方法无法量化潜变量真实解释变异比例的痛点，提供 Fornell-Larcker 区分效度基准。 | 收敛标准：**$\text{AVE} \ge .50$**；区分标准：各因子 $\text{AVE}_j > r_{jk}^2$（或 $\sqrt{\text{AVE}_j} > |r_{jk}|$）。 | 🔗 [[Average Variance Extracted]] |
+> | **[[Average Variance Extracted\|平均方差抽取量（AVE）]]** | **收敛与[[Convergent and Discriminant Validity\|区分效度]]判定标准** | 解决传统方法无法量化潜变量真实解释变异比例的痛点，提供 Fornell-Larcker 区分效度基准。 | 收敛标准：**$\text{AVE} \ge .50$**；区分标准：各因子 $\text{AVE}_j > r_{jk}^2$（或 $\sqrt{\text{AVE}_j} > \lvert r_{jk}\rvert$）。 | 🔗 [[Average Variance Extracted]] |
 > | **[[Composite Reliability\|组合信度（CR）]]** | **结构方程潜变量合成信度** | 基于 CFA 标准化载荷直接计算潜变量合成信度，克服 $\alpha$ 低估缺陷。 | 决策阈值：**$\text{CR} \ge .70$**（探索性研究 $\ge .60$，高精度要求 $\ge .80$）。 | 🔗 [[Composite Reliability]] |
-> | **[[Measurement Invariance\|多组测量等值性（MI / MG-CFA）]]** | **跨组可比性与测量偏倚检验** | 解决量表在不同子群体（如性别、文化、年龄）中是否存在测量偏差、是否允许直接跨组比较均值的合法性问题。 | Cheung & Rensvold / Chen 准则：形态 $\to$ 弱 $\to$ 强 $\to$ 严格四阶递进，满足 **$|\Delta\text{CFI}| \le .010$** 且 **$\Delta\text{RMSEA} \le .015$**。 | 🔗 [[Measurement Invariance]] |
+> | **[[Measurement Invariance\|多组测量等值性（MI / MG-CFA）]]** | **跨组可比性与测量偏倚检验** | 解决量表在不同子群体（如性别、文化、年龄）中是否存在测量偏差、是否允许直接跨组比较均值的合法性问题。 | Cheung & Rensvold / Chen 准则：形态 $\to$ 弱 $\to$ 强 $\to$ 严格四阶递进，满足 **$\lvert\Delta\text{CFI}\rvert \le .010$** 且 **$\Delta\text{RMSEA} \le .015$**。 | 🔗 [[Measurement Invariance]] |
 
 > [!proc] 阶段三核心操作规程与高级验证步骤
 > 1. **独立样本 2 施测与 CFA 拟合确证** 采集全新独立样本 2（$N \ge 250$）拟合竞争模型（单因子 vs 一阶多因子 vs 二阶高阶模型），评估 $\chi^2/df < 3$、$\text{RMSEA} < 0.08$、$\text{CFI} \ge 0.90$。
 > 2. **构念收敛效度与区分效度检验** 计算各潜变量的平均方差抽取量（$\text{AVE} \ge .50$），并验证 Fornell-Larcker 准则（$\text{AVE}_j > r_{jk}^2$）。
-> 3. **现代构念组合信度检验** 基于完全标准化解计算组合信度（$\text{CR} \ge .70$），同步报告 McDonald's $\omega$ 与[[Split-Half Reliability|折半信度]]。
-> 4. **跨群体多组测量等值性阶梯检验** 依次检验形态等值 $\to$ 弱等值 $\to$ 强等值 $\to$ 严格等值（$|\Delta\text{CFI}| \le .010, \Delta\text{RMSEA} \le .015$）。
+> 3. **现代构念组合信度检验** 基于完全标准化解计算组合信度（$\text{CR} \ge .70$），同步报告 McDonald's $\omega$ 与[[Split-Half Reliability\|折半信度]]。
+> 4. **跨群体多组测量等值性阶梯检验** 依次检验形态等值 $\to$ 弱等值 $\to$ 强等值 $\to$ 严格等值（$\lvert\Delta\text{CFI}\rvert \le .010, \Delta\text{RMSEA} \le .015$）。
 
 > [!formula-step] 公式步骤　验证性因子分析基本测量方程与二阶高阶方程
 > $$\boldsymbol{X} = \boldsymbol{\Lambda}_x \boldsymbol{\xi} + \boldsymbol{\delta}, \quad \boldsymbol{\xi} = \boldsymbol{\Gamma} \boldsymbol{\Xi} + \boldsymbol{\zeta}$$
@@ -225,7 +225,7 @@ flowchart LR
 > - **一阶方程** 将观测题项向量 $\boldsymbol{X}$ 分解为由一阶潜变量 $\boldsymbol{\xi}$ 乘以因子载荷矩阵 $\boldsymbol{\Lambda}_x$ 加上测量残差 $\boldsymbol{\delta}$；
 > - **二阶方程** 将一阶因子向量 $\boldsymbol{\xi}$ 进一步回归到更高阶的统整潜变量 $\boldsymbol{\Xi}$ 上，由二阶载荷矩阵 $\boldsymbol{\Gamma}$ 统摄，残余变异为 $\boldsymbol{\zeta}$。
 >
-> **数学直觉** 二阶高阶模型检验各个一阶维度（如研究意识、态度、技能、使用）是否均隶属于一个统摄性的全局构念（如总体“[[Research Literacy|研究素养]]”）。二阶拟合良好为研究者在实践中直接计算量表总分提供了坚实的心理测量学合法性。
+> **数学直觉** 二阶高阶模型检验各个一阶维度（如研究意识、态度、技能、使用）是否均隶属于一个统摄性的全局构念（如总体“[[Research Literacy\|研究素养]]”）。二阶拟合良好为研究者在实践中直接计算量表总分提供了坚实的心理测量学合法性。
 
 > [!feature] 阶段三核心指标与判定门槛
 > - **模型拟合优良标准** $\chi^2/df < 3.0$、$\text{RMSEA} < 0.08$、$\text{SRMR} < 0.08$、$\text{CFI} \ge 0.90$、$\text{TLI} \ge 0.90$。
@@ -302,19 +302,19 @@ flowchart LR
 ## 使用此方法的经典代表研究
 
 > [!evidence-grid] 使用量表编制方法论的经典实证代表作
-> - **《[[Research Literacy Scale for Teachers|教师研究素养量表]]》（RLS）** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] 严格遵循 DeVellis 现代[[Paradigm|范式]]开发 20 题四维度量表，在样本 1（$N=310$）中通过 [[Exploratory Factor Analysis|EFA]] 提取 4 因子（解释 $62.60\%$ 方差），在独立样本 2（$N=258$）中通过 [[Confirmatory Factor Analysis|CFA]] 确立二阶因子结构，验证了各维度优良的 [[Average Variance Extracted|AVE]]（$.50\sim.56$）、CR（$.75\sim.90$）及跨性别严格[[Measurement Invariance|测量等值性]]，并运用 [[Multivariate Analysis of Variance|MANOVA]] 证实了做研究与读期刊的双轨独立赋能机制。
-> - **《[[Confidence Teaching TOK Scale|知识论教学信心量表]]》** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] 编制并验证包含 11 道题的教学信心量表，通过 EFA 确立单因子结构并解释 35.03% 方差，为评估跨学科[[Epistemology|认识论]]教学效能感提供标准化工具。
-> - **《[[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]》（EOCQ）** [[Argument_Greene_2010_JEP|Greene et al. (2010)]] 编制并检验 13 题[[Questionnaire|问卷]]，通过 CFA 在数学和历史领域检验[[Epistemological Beliefs|认识论信念]]与[[Ontology|本体论认知]]的维度结构及[[Domain Specificity|领域特异性]]拟合度。
+> - **《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》（RLS）** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] 严格遵循 DeVellis 现代[[Paradigm\|范式]]开发 20 题四维度量表，在样本 1（$N=310$）中通过 [[Exploratory Factor Analysis\|EFA]] 提取 4 因子（解释 $62.60\%$ 方差），在独立样本 2（$N=258$）中通过 [[Confirmatory Factor Analysis\|CFA]] 确立二阶因子结构，验证了各维度优良的 [[Average Variance Extracted\|AVE]]（$.50\sim.56$）、CR（$.75\sim.90$）及跨性别严格[[Measurement Invariance\|测量等值性]]，并运用 [[Multivariate Analysis of Variance\|MANOVA]] 证实了做研究与读期刊的双轨独立赋能机制。
+> - **《[[Confidence Teaching TOK Scale\|知识论教学信心量表]]》** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] 编制并验证包含 11 道题的教学信心量表，通过 EFA 确立单因子结构并解释 35.03% 方差，为评估跨学科[[Epistemology\|认识论]]教学效能感提供标准化工具。
+> - **《[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]》（EOCQ）** [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] 编制并检验 13 题[[Questionnaire\|问卷]]，通过 CFA 在数学和历史领域检验[[Epistemological Beliefs\|认识论信念]]与[[Ontology\|本体论认知]]的维度结构及[[Domain Specificity\|领域特异性]]拟合度。
 
 ---
 
 ## 方法学局限与学术争议
 
 > [!warning] 方法学局限与操作风险
-> 1. **样本割裂与过拟合风险** 严禁在同一数据集上既跑 [[Exploratory Factor Analysis|EFA]] 又跑 [[Confirmatory Factor Analysis|CFA]]；若未采集独立新样本进行跨样本确证，提炼出的因子结构极易受到特定样本随机噪声的污染（Sample Overfitting）。
+> 1. **样本割裂与过拟合风险** 严禁在同一数据集上既跑 [[Exploratory Factor Analysis\|EFA]] 又跑 [[Confirmatory Factor Analysis\|CFA]]；若未采集独立新样本进行跨样本确证，提炼出的因子结构极易受到特定样本随机噪声的污染（Sample Overfitting）。
 > 2. **修正指数（MI）滥用风险** 严禁盲目依据修正指数释放无关题项的残差协方差（Error Covariance）以机械凑出优良拟合，任何协方差释放必须具有充分的理论依据或语义重叠支持。
-> 3. **同源方法变异（[[Common Method Variance|CMV]]）** 自陈量表容易受社会赞许性、中心化趋势与共同方法偏差影响，建议在设计阶段采用匿名施测、反向题混排或多来源数据互证。
-> 4. **等值性检验过度拒绝** 在大样本下避免仅依赖 $\Delta\chi^2$ 差异检验，应全面依据 $|\Delta\text{[[Model Fit Indices in SEM and CFA|CFI]]}| \le .010$ 与 $\Delta\text{RMSEA} \le .015$ 进行稳健判据。
+> 3. **同源方法变异（[[Common Method Variance\|CMV]]）** 自陈量表容易受社会赞许性、中心化趋势与共同方法偏差影响，建议在设计阶段采用匿名施测、反向题混排或多来源数据互证。
+> 4. **等值性检验过度拒绝** 在大样本下避免仅依赖 $\Delta\chi^2$ 差异检验，应全面依据 $|\Delta\text{[[Model Fit Indices in SEM and CFA\|CFI]]}| \le .010$ 与 $\Delta\text{RMSEA} \le .015$ 进行稳健判据。
 
 ---
 

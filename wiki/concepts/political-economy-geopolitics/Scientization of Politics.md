@@ -46,7 +46,7 @@ updated: 2026-07-09
 ## 定义
 
 > [!info]
-> 政策的科学化（scientization of politics）指政策制定者接受"决策应依据科学证据"这一前提，从而使科学知识从决策的信息来源转变为治理合法性的构成性要素([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145–146]])。
+> 政策的科学化（scientization of politics）指政策制定者接受"决策应依据科学证据"这一前提，从而使科学知识从决策的信息来源转变为治理合法性的构成性要素([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.145–146]])。
 
 这一概念捕捉了全球治理中一个深层转变：当"基于证据的政策"（evidence-based policy）成为被广泛接受的规范时，谁拥有权威知识、谁能生产可靠证据，谁就进入了治理的核心舞台。大学和研究者因此不再是政治决策的外部顾问，而成为治理合法性的共同生产者([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])。
 
@@ -56,9 +56,9 @@ updated: 2026-07-09
 ## 概念辨析
 
 > [!example]
-> - **vs [[Epistemic Governance|知识治理]]（Epistemic Governance）** — 政策的科学化是知识治理兴起的一个关键维度和前提条件：知识治理描述的是以规范、认知和知识为基础的治理机制整体；政策的科学化描述的是政策制定者接受科学证据作为决策合法性基础这一具体历史趋势，该趋势为知识治理的运作提供了制度入口([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145–146]])
-> - **vs [[Evidence-Based Education|证据本位教育]]（EBE）** — EBE 是政策的科学化在教育领域的具体表现：当教育政策制定者接受"决策应依据科学证据"这一前提时，EBE 作为方法论框架和政策议程获得了合法性基础。[[Argument_Zapp_2022_Springer|Zapp (2022)]] 将 EBE 定位为政策的科学化的一个关键经验案例
-> - **vs 科学的政治化（Politicization of Science）** — 两者是一体两面的关系。政策的科学化描述了科学向政治的渗透（scientization of politics）；科学的政治化描述了政治对科学的反向渗透和控制（politicization of science）。Zapp 论证两者的同时加剧构成当代知识治理的核心张力([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.154–155]])
+> - **vs [[Epistemic Governance\|知识治理]]（Epistemic Governance）** — 政策的科学化是知识治理兴起的一个关键维度和前提条件：知识治理描述的是以规范、认知和知识为基础的治理机制整体；政策的科学化描述的是政策制定者接受科学证据作为决策合法性基础这一具体历史趋势，该趋势为知识治理的运作提供了制度入口([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.145–146]])
+> - **vs [[Evidence-Based Education\|证据本位教育]]（EBE）** — EBE 是政策的科学化在教育领域的具体表现：当教育政策制定者接受"决策应依据科学证据"这一前提时，EBE 作为方法论框架和政策议程获得了合法性基础。[[Argument_Zapp_2022_Springer\|Zapp (2022)]] 将 EBE 定位为政策的科学化的一个关键经验案例
+> - **vs 科学的政治化（Politicization of Science）** — 两者是一体两面的关系。政策的科学化描述了科学向政治的渗透（scientization of politics）；科学的政治化描述了政治对科学的反向渗透和控制（politicization of science）。Zapp 论证两者的同时加剧构成当代知识治理的核心张力([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.154–155]])
 
 ---
 ## 概念演变
@@ -92,14 +92,14 @@ Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学�
 ## 理论基础
 
 > [!tip]-
-> - [[World Society Theory]] — [[Argument_Zapp_2022_Springer|Zapp (2022)]] 将政策的科学化定位为世界社会运作的一个核心机制：世界社会没有中央权威，依赖[[Cultural Models|文化模型]]的扩散来运作；政策的科学化提供了文化模型扩散的认知基础——当科学证据成为合法性的构成要素时，拥有知识权威的行动者（特别是大学）就在去中心化的全球治理架构中获得了运作空间([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145, 148–149]])
-> - [[Constructivist Paradigm|建构主义]]国际关系学（Barnett & Finnemore, 2004; Wendt, 1999） — 为理解"为什么知识和观念在国际政治中重要"提供了理论框架：观念本身有建构性力量，它们改变了"什么是合理的"这个基准线([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
+> - [[World Society Theory]] — [[Argument_Zapp_2022_Springer\|Zapp (2022)]] 将政策的科学化定位为世界社会运作的一个核心机制：世界社会没有中央权威，依赖[[Cultural Models\|文化模型]]的扩散来运作；政策的科学化提供了文化模型扩散的认知基础——当科学证据成为合法性的构成要素时，拥有知识权威的行动者（特别是大学）就在去中心化的全球治理架构中获得了运作空间([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.145, 148–149]])
+> - [[Constructivist Paradigm\|建构主义]]国际关系学（Barnett & Finnemore, 2004; Wendt, 1999） — 为理解"为什么知识和观念在国际政治中重要"提供了理论框架：观念本身有建构性力量，它们改变了"什么是合理的"这个基准线([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.145]])
 
 ---
 ## 争议与批评
 
 > [!warning]
-> - **科学化与政治化的内在张力**[[Argument_Zapp_2022_Springer|Zapp (2022, p.155)]] 指出，政策的科学化有一个内在风险——它同时也为科学被政治操控创造了条件。科学-政治关系的恶化可从三级递增来理解：[[Epistemic Drift|认识漂移]]（研究者主动将兴趣对齐资助方偏好，Elzinga, 1997）→ 证据的选择性使用和制造（政策制定者只引用支持自己立场的证据，Steiner-Khamsi et al., 2020）→ 对科学的公开压制（如匈牙利禁止性别研究、中欧大学（Central European University, CEU）被迫迁离，Scholars at Risk, 2019）([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.154–155]])
-> - **"影响"评价的异化风险** 将研究的社会影响力纳入正式评估体系（如 [[Research Excellence Framework|REF]]）虽然推动了政策的科学化，但可能导致研究者优先选择"容易展示影响"的课题而非由学术好奇心驱动的问题——认识漂移在制度层面的系统化([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])
+> - **科学化与政治化的内在张力**[[Argument_Zapp_2022_Springer\|Zapp (2022, p.155)]] 指出，政策的科学化有一个内在风险——它同时也为科学被政治操控创造了条件。科学-政治关系的恶化可从三级递增来理解：[[Epistemic Drift\|认识漂移]]（研究者主动将兴趣对齐资助方偏好，Elzinga, 1997）→ 证据的选择性使用和制造（政策制定者只引用支持自己立场的证据，Steiner-Khamsi et al., 2020）→ 对科学的公开压制（如匈牙利禁止性别研究、中欧大学（Central European University, CEU）被迫迁离，Scholars at Risk, 2019）([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.154–155]])
+> - **"影响"评价的异化风险** 将研究的社会影响力纳入正式评估体系（如 [[Research Excellence Framework\|REF]]）虽然推动了政策的科学化，但可能导致研究者优先选择"容易展示影响"的课题而非由学术好奇心驱动的问题——认识漂移在制度层面的系统化([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.146]])
 
 ---

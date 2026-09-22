@@ -53,17 +53,17 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> [[Threshold Hypothesis|智力门槛假说]]（Threshold [[Hypothesis]]，亦称[[Creativity|创造力]]门槛假说或智力-创造力门槛假说）是由吉尔福德（Guilford, 1967）与托兰斯（Torrance, 1974）提出并经后续实证检验的经典心理学假说。该假说主张**基础智力是创造力的必要非[[Necessary and Sufficient Conditions|充分条件]]：**在智商（Intelligence Quotient, IQ）低于某一临界门槛（传统经验设定为 $\text{IQ} \approx 120$）时，智力与[[Creativity|创造力]]呈显著中高程度正相关；一旦智力跨越该门槛，智力水平对创造潜能的约束解除，两者的相关性显著减弱甚至趋近于零（Karwowski et al., 2021; Weiss & Steger, 2021; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 4, 8]]）。
+> [[Threshold Hypothesis\|智力门槛假说]]（Threshold [[Hypothesis]]，亦称[[Creativity\|创造力]]门槛假说或智力-创造力门槛假说）是由吉尔福德（Guilford, 1967）与托兰斯（Torrance, 1974）提出并经后续实证检验的经典心理学假说。该假说主张**基础智力是创造力的必要非[[Necessary and Sufficient Conditions\|充分条件]]：**在智商（Intelligence Quotient, IQ）低于某一临界门槛（传统经验设定为 $\text{IQ} \approx 120$）时，智力与[[Creativity\|创造力]]呈显著中高程度正相关；一旦智力跨越该门槛，智力水平对创造潜能的约束解除，两者的相关性显著减弱甚至趋近于零（Karwowski et al., 2021; Weiss & Steger, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 4, 8]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知能力对高阶创造潜能的非线性分段约束规律（三角散点分布）。
-> - **用途** 帮[[Teaching Assistant|助教]]育者与研究者摆脱“唯智商论”的拔尖选拔误区，解释为何高智商人群中创造力表现呈现出极大的离散度。
+> - **用途** 帮[[Teaching Assistant\|助教]]育者与研究者摆脱“唯智商论”的拔尖选拔误区，解释为何高智商人群中创造力表现呈现出极大的离散度。
 > - **边界** 门槛假说不主张智力与创造力完全无关，而是界定基础认知支持的必要边界；门槛值并非绝对固定常数，会因测验领域（言语 vs 图形）与成就类型而浮动。
 
 > [!citation-card]- 关键表述
-> 认知与外认知相关因素对创造力产生统计学上相近的效应（分别为 0.12 和 0.14），其[[Confidence Interval|置信区间]]大体重合。这极为关键，因为它强化了创造力绝不能仅仅通过认知因素来理解的核心论点；动机、情感、态度与心境同样必须得到充分承认。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
+> 认知与外认知相关因素对创造力产生统计学上相近的效应（分别为 0.12 和 0.14），其[[Confidence Interval\|置信区间]]大体重合。这极为关键，因为它强化了创造力绝不能仅仅通过认知因素来理解的核心论点；动机、情感、态度与心境同样必须得到充分承认。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]
 >
-> *Cognitive and extracognitive correlates yielded statistically similar effects of .12 and .14, with largely overlapping confidence intervals. This is important because it reinforces the idea that creativity cannot be well understood by only taking cognitive factors into [[Accounts|account]].*
+> *Cognitive and extracognitive correlates yielded statistically similar effects of .12 and .14, with largely overlapping confidence intervals. This is important because it reinforces the idea that creativity cannot be well understood by only taking cognitive factors into [[Accounts\|account]].*
 
 > [!boundary]- 概念边界
 > - 不等于线性相关模型 — 线性模型假设智力每增加一个标准差，创造力恒定增加固定量；门槛假说强调临界点前后的斜率断裂与非对称性。
@@ -73,7 +73,7 @@ updated: 2026-09-18
 
 ## 概念辨析
 
-> [!contrast-table] 门槛假说 vs 线性[[Determinism|决定论]] vs [[Necessary and Sufficient Conditions|必要条件]]分析法
+> [!contrast-table] 门槛假说 vs 线性[[Determinism\|决定论]] vs [[Necessary and Sufficient Conditions\|必要条件]]分析法
 > | 比较维度 | 智力门槛假说（Threshold [[Hypothesis]]） | 线性相关决定论（Linear Model） | 必要条件分析法（Necessary Condition Analysis, NCA） |
 > |---|---|---|---|
 > | **数学关系假设** | 分段线性回归（Segmented Regression）或斜率断裂 | 全局单调线性回归（$r = \text{常数}$） | 散点图左上角天花板边界线（Ceiling Line） |
@@ -87,9 +87,9 @@ updated: 2026-09-18
 ## 核心要素
 
 > [!feature] 门槛假说的三大核心表征
-> - **临界门槛参数（Threshold Point, $T$）** 认知资源对[[Divergent Thinking|发散思维]]形成约束与解除约束的转折点，传统研究常定位在 $1.33$ 个标准差处（即 $\text{IQ} \approx 120$）。
-> - **三角散点分布（Triangular Scatter Distribution）** 坐标图中低智力区间数据点紧密聚集在低[[Creativity|创造力]]区域，而高智力区间数据点扩散为一个宽广的三角形（既有极高创造者，也有平庸表现者）。
-> - **方差异方差性（Heteroscedasticity）** 创造力在智力低段的方差极小，在智力高段的方差极大，反映出高段创造表现主要由动机、人格与环境所决定。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 4, 8)]]
+> - **临界门槛参数（Threshold Point, $T$）** 认知资源对[[Divergent Thinking\|发散思维]]形成约束与解除约束的转折点，传统研究常定位在 $1.33$ 个标准差处（即 $\text{IQ} \approx 120$）。
+> - **三角散点分布（Triangular Scatter Distribution）** 坐标图中低智力区间数据点紧密聚集在低[[Creativity\|创造力]]区域，而高智力区间数据点扩散为一个宽广的三角形（既有极高创造者，也有平庸表现者）。
+> - **方差异方差性（Heteroscedasticity）** 创造力在智力低段的方差极小，在智力高段的方差极大，反映出高段创造表现主要由动机、人格与环境所决定。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 4, 8)]]
 
 > [!logic-map]- 门槛假说三角散点与认知约束机制
 > ```mermaid
@@ -107,20 +107,20 @@ updated: 2026-09-18
 ### 命题一　基础智力构成创造力的必要非充分条件
 
 > [!concept-lens] 认知必要性与非充分性
-> 探讨认知加工能力如何为概念搜索与远距离联想提供必要的信息检索底座，但无法单独保证[[Creativity|创造性]]构想的诞生。
+> 探讨认知加工能力如何为概念搜索与远距离联想提供必要的信息检索底座，但无法单独保证[[Creativity\|创造性]]构想的诞生。
 
 > [!claim] Guilford (1967); Karwowski et al. (2021)
-> **必要非充分认知约束** 个体在进行复杂概念组合与问题重构时，需要最低限度的[[Working Memory|工作记忆]]广度与抽象推理能力（必要性）；然而，智力并不自动提供打破常规的意愿、对模糊性的容忍度与原创性偏好（非充分性），因此高智力个体完全可能表现出刻板守旧的思维模式。
+> **必要非充分认知约束** 个体在进行复杂概念组合与问题重构时，需要最低限度的[[Working Memory\|工作记忆]]广度与抽象推理能力（必要性）；然而，智力并不自动提供打破常规的意愿、对模糊性的容忍度与原创性偏好（非充分性），因此高智力个体完全可能表现出刻板守旧的思维模式。
 
 ---
 
 ### 命题二　二阶宏观综合证实认知能力对创造力的独立贡献有限且与外认知因素相当
 
-> [!concept-lens] 宏观[[Effect Size|效应量]]聚合与跨领域裁决
-> 探讨全领域大样本[[Meta-analysis|元分析]]汇总数据对智力[[Determinism|决定论]]的实证检验。
+> [!concept-lens] 宏观[[Effect Size\|效应量]]聚合与跨领域裁决
+> 探讨全领域大样本[[Meta-analysis\|元分析]]汇总数据对智力[[Determinism\|决定论]]的实证检验。
 
-> [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]; Weiss & Steger (2021)
-> **宏观认知效应量约束** 跨 52 项一阶元分析的大规模[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）表明，认知相关因素（Cognitive Correlates，包含智力、[[Academic Achievement|学业成绩]]、工作记忆）与创造力的综合二阶[[Effect Size|效应量]]仅为 **$r = 0.12$**（95% [[Confidence Interval|置信区间]] $[0.04, 0.19]$），与非认知/外认知因素（Extracognitive Correlates，$r = 0.14$，包含动机、心境与自我信念）在统计上完全重叠。这一宏观证据强力印证了门槛假说推论：在未限制智力范围的全样本中，认知能力的全局解释力非常温和，创造力的实现高度依赖于动机、[[Self-Efficacy|自我效能]]与专门教学干预的共同协同。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
+> [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Weiss & Steger (2021)
+> **宏观认知效应量约束** 跨 52 项一阶元分析的大规模[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）表明，认知相关因素（Cognitive Correlates，包含智力、[[Academic Achievement\|学业成绩]]、工作记忆）与创造力的综合二阶[[Effect Size\|效应量]]仅为 **$r = 0.12$**（95% [[Confidence Interval\|置信区间]] $[0.04, 0.19]$），与非认知/外认知因素（Extracognitive Correlates，$r = 0.14$，包含动机、心境与自我信念）在统计上完全重叠。这一宏观证据强力印证了门槛假说推论：在未限制智力范围的全样本中，认知能力的全局解释力非常温和，创造力的实现高度依赖于动机、[[Self-Efficacy\|自我效能]]与专门教学干预的共同协同。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
@@ -137,14 +137,14 @@ updated: 2026-09-18
 ## 理论与实证争鸣
 
 > [!tension] 门槛存在性之争：分段断裂 vs 连续曲线 vs 测量伪差
-> - **支持门槛立场** Karwowski et al. (2016, 2021) 运用[[Necessary and Sufficient Conditions|必要条件]]分析（NCA）和分段回归，在大样本数据库中验证了 $IQ \approx 115 \sim 120$ 处的斜率断裂，支持非线性门槛模型。
-> - **质疑门槛立场** Weiss & Steger (2021) 与 Kim (2005) 指出，部分研究中观察到的相关性减弱源于高智商群体的**分量表范围限制（[[Floor and Ceiling Effects|range restriction]]）**或测验天花板效应，认为两者在本质上是平滑的微弱连续正相关，而非刚性断裂。
+> - **支持门槛立场** Karwowski et al. (2016, 2021) 运用[[Necessary and Sufficient Conditions\|必要条件]]分析（NCA）和分段回归，在大样本数据库中验证了 $IQ \approx 115 \sim 120$ 处的斜率断裂，支持非线性门槛模型。
+> - **质疑门槛立场** Weiss & Steger (2021) 与 Kim (2005) 指出，部分研究中观察到的相关性减弱源于高智商群体的**分量表范围限制（[[Floor and Ceiling Effects\|range restriction]]）**或测验天花板效应，认为两者在本质上是平滑的微弱连续正相关，而非刚性断裂。
 
 ---
 
 ## 元分析实证整合
 
-> [!ma-table] 智力与[[Creativity|创造力]]关系及门槛假说相关[[Meta-analysis|元分析]]
+> [!ma-table] 智力与[[Creativity\|创造力]]关系及门槛假说相关[[Meta-analysis\|元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | 考察[[Construct\|构念]]与关系 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与核心结论 | 证据确定性 |

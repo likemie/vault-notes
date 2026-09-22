@@ -37,7 +37,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> [[Academic Engagement|学术参与]]团队（Academic Engagement Team, AET）是大型企业内部以预算责任负责领导和管理大学合作的组织单位。AET 由[[University-Industry Collaboration|产学合作]]实践者（practitioner）组成——这些实践者同时对大学和公司有深入理解，利用这种双重知识来设计和推进服务于双方利益相关者的合作项目([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.217–218]])。
+> [[Academic Engagement\|学术参与]]团队（Academic Engagement Team, AET）是大型企业内部以预算责任负责领导和管理大学合作的组织单位。AET 由[[University-Industry Collaboration\|产学合作]]实践者（practitioner）组成——这些实践者同时对大学和公司有深入理解，利用这种双重知识来设计和推进服务于双方利益相关者的合作项目([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, pp.217–218]])。
 
 AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加层"（overlay）的形式嵌入公司现有的组织结构之上——AET 的成员可能在中央 CTO 办公室、人力资源部门或分散在各业务单元中，他们的大学合作职责可能是全职或兼职、正式或非正式。这意味着 AET 的实践者必须在矩阵式的、高度分权的环境中运作（pp.222–223）。
 
@@ -58,7 +58,7 @@ AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加
 ## 核心要素
 
 > [!abstract]
-> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]从企业组织设计的角度识别了 AET 的四个关键特征（pp.217–223, 228–229）：
+> [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]]从企业组织设计的角度识别了 AET 的四个关键特征（pp.217–223, 228–229）：
 
 - **预算责任** AET 拥有对大学合作的直接财务投入（资金、设备和人员时间）的决策权或建议权。资助结构——中央化运营预算、企业基金会、业务部门分布式预算、按职能分配、按技术领域分配——决定了 AET 关注什么、忽略什么（pp.228–229）
 - **叠加层嵌入** AET 以叠加层形式嵌入公司既有组织结构。中央化的 AET 通常位于 CTO 或 HR 办公室，分散化的 AET 嵌入特定业务单元。嵌入位置决定了视野——中央化离公司战略全局更近但离业务现实更远，分散化深耕特定业务但可能忽略跨业务线的战略机会（pp.222–223）
@@ -70,7 +70,7 @@ AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加
 ## 实践者角色
 
 > [!info]
-> [[University-Industry Collaboration|产学合作]]实践者需要成为"组织通才"（organizational polymath）：技术上敏锐、对公司哲学敏感、能在多种组织设计中导航、善于构建关键利益相关者的支持、并对公司成熟度和行业背景有战略意识（p.218）。
+> [[University-Industry Collaboration\|产学合作]]实践者需要成为"组织通才"（organizational polymath）：技术上敏锐、对公司哲学敏感、能在多种组织设计中导航、善于构建关键利益相关者的支持、并对公司成熟度和行业背景有战略意识（p.218）。
 
 实践者的核心工作方式因组织嵌入位置而异（pp.217–218）：
 - **自上而下** 从高管利益相关者开始构建支持，逐步向下动员
@@ -83,7 +83,7 @@ AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加
 ## 资助结构
 
 > [!abstract]
-> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.228–229)]]以 Table 12.1 系统比较了五种 AET 资助结构及其隐含的优先价值：
+> [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025, pp.228–229)]]以 Table 12.1 系统比较了五种 AET 资助结构及其隐含的优先价值：
 
 | 资助方式 | 优势 | 劣势 | 隐含的 AET 价值观 |
 |---------|------|------|-------------------|
@@ -98,7 +98,7 @@ AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加
 ## 相关案例
 
 > [!example]
-> - Intel Labs 在 [[Universal Parallel Computing Research Centers|UPCRC]] 之前的 AET 组织是典型的"按技术领域分配预算"模式：多个分散的研究理事会各自管理独立的小额大学资助预算，通过共识机制在已定义的研究领域内运作。2000 年代末为了应对并行计算的全行业危机，Intel Labs 将研究理事会的大部分预算集中化，革新了治理流程——这是一次教科书式的 AET 组织形式随公司战略需求变化而调整的案例([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.234–236]])
+> - Intel Labs 在 [[Universal Parallel Computing Research Centers\|UPCRC]] 之前的 AET 组织是典型的"按技术领域分配预算"模式：多个分散的研究理事会各自管理独立的小额大学资助预算，通过共识机制在已定义的研究领域内运作。2000 年代末为了应对并行计算的全行业危机，Intel Labs 将研究理事会的大部分预算集中化，革新了治理流程——这是一次教科书式的 AET 组织形式随公司战略需求变化而调整的案例([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, pp.234–236]])
 > - 有的大型公司同时存在多个事实上的 AET：研发 AET（CTO 办公室）、人才招聘 AET（HR）、企业社会责任 AET（基金会），以及仅有的少数"大学关系"伞形 AET 来协调多界面对接（pp.217–218）
 
 ---

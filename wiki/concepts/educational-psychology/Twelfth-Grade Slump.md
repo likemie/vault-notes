@@ -44,20 +44,20 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 十二年级滑坡（Twelfth-Grade Slump）指高中生已完成毕业所需学分、大学入学筛选又不能通过最后一年课程投入明显改善时，在等待进入大学期间出现的智识投入下降。它描述的是高中毕业要求、大学招生和高年级课程之间的制度性激励断裂，不是对个别学生懒惰的性格判断。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 135–136)]]
+> 十二年级滑坡（Twelfth-Grade Slump）指高中生已完成毕业所需学分、大学入学筛选又不能通过最后一年课程投入明显改善时，在等待进入大学期间出现的智识投入下降。它描述的是高中毕业要求、大学招生和高年级课程之间的制度性激励断裂，不是对个别学生懒惰的性格判断。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 135–136)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 十二年级仍处于学校体系内，关键毕业与招生条件却可能已经决定，继续学习的制度回报下降。
-> - **用途** 用于分析大学筛选考试能否反向改善高中课程，以及提前升学、[[Advanced Placement Program|大学先修课程]]和完整文凭课程怎样重新组织高中最后一年。
+> - **用途** 用于分析大学筛选考试能否反向改善高中课程，以及提前升学、[[Advanced Placement Program\|大学先修课程]]和完整文凭课程怎样重新组织高中最后一年。
 > - **边界** 原始材料没有提供该现象的测量工具、发生率或学生层面追踪数据，只说明制度条件与改革者的历史判断。
 
 ## 核心要素
 
 > [!feature] 滑坡形成的四个环节
 > - **毕业要求提前完成** 学生可能在十二年级开始前已经修满高中毕业所需学分。
-> - **筛选考试缺少可教内容** 学术能力测验（Scholastic [[Achievement and Aptitude Tests|aptitude test]]，SAT）声称测量长期形成的能力，不鼓励学生相信短期课程或突击复习可以明显改善表现。
+> - **筛选考试缺少可教内容** 学术能力测验（Scholastic [[Achievement and Aptitude Tests\|aptitude test]]，SAT）声称测量长期形成的能力，不鼓励学生相信短期课程或突击复习可以明显改善表现。
 > - **升学决定与课程脱节** SAT 主要筛选谁可以进入大学，不能规定十一、十二年级应学习什么，也不能单独刺激更高的已达学术水平。
-> - **等待期缺少挑战** 学生仍需留校等待大学开始，却缺少高风险、连贯并能产生大学回报的毕业阶段任务。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 135–136)]]
+> - **等待期缺少挑战** 学生仍需留校等待大学开始，却缺少高风险、连贯并能产生大学回报的毕业阶段任务。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 135–136)]]
 
 > [!logic-map]- 制度激励断裂
 > ```mermaid
@@ -79,7 +79,7 @@ updated: 2026-09-17
 > | **[[Advanced Placement Program\|大学先修课程项目]]** | 学生选择的单科 | 让学生在高中完成大学水平课程，以外部考试取得分班或学分 | 可以只选擅长科目，不形成完整高年级课程 |
 > | **[[International Baccalaureate\|国际文凭]]课程** | 两年完整课程 | 以学科组合、外部考试、[[Theory of Knowledge\|知识论]]、[[Extended Essay\|拓展论文]]和服务任务维持连续挑战 | 成本、教师劳动与低年级准备要求更高 |
 >
-> 三种回应分别尝试改变学生所在机构、增加单科回报或重组完整课程。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 133–140)]]
+> 三种回应分别尝试改变学生所在机构、增加单科回报或重组完整课程。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 133–140)]]
 
 ## 实证数据
 
@@ -94,15 +94,15 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!warning] 解释边界
-> 十二年级滑坡在该历史叙述中是一种改革问题框架。材料没有定义行为指标，也没有报告出勤、成绩、动机量表或改革前后比较；因此只能用于解释 AP、IB 和提前入学的制度理由，不能作为北美高中生普遍缺乏动机的经验结论。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 135–138)]]
+> 十二年级滑坡在该历史叙述中是一种改革问题框架。材料没有定义行为指标，也没有报告出勤、成绩、动机量表或改革前后比较；因此只能用于解释 AP、IB 和提前入学的制度理由，不能作为北美高中生普遍缺乏动机的经验结论。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 135–138)]]
 
 ## 应用案例
 
 > [!case] 洛克兰、AP 与 IB 的不同回应
-> 洛克兰社区学院尝试把优秀学生提前转出高中，直接移除等待期；[[Advanced Placement Program|大学先修课程项目]]在高中内部提供单科大学水平挑战；[[International Baccalaureate|国际文凭]]则用完整两年课程及大学分班价值重新连接高中学习和大学过渡。洛克兰路径后来因多机构协调和生源利益失败，AP 与 IB 则成为地方高中可自行组织的两种外部课程方案。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 133–140)]]
+> 洛克兰社区学院尝试把优秀学生提前转出高中，直接移除等待期；[[Advanced Placement Program\|大学先修课程项目]]在高中内部提供单科大学水平挑战；[[International Baccalaureate\|国际文凭]]则用完整两年课程及大学分班价值重新连接高中学习和大学过渡。洛克兰路径后来因多机构协调和生源利益失败，AP 与 IB 则成为地方高中可自行组织的两种外部课程方案。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 133–140)]]
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6)]] — 用十二年级滑坡解释筛选考试与高年级课程之间的断裂，并比较提前入学、AP 与 IB 三种制度回应。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] — 用十二年级滑坡解释筛选考试与高年级课程之间的断裂，并比较提前入学、AP 与 IB 三种制度回应。
 

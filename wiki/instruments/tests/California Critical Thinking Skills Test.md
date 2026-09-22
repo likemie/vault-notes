@@ -61,17 +61,17 @@ updated: 2026-09-11
 
 ## 工具定位
 
-> [!instrument-profile] California [[Critical Thinking|critical thinking skills]] Test（CCTST）
+> [!instrument-profile] California [[Critical Thinking\|critical thinking skills]] Test（CCTST）
 > - **工具类型** 标准化能力测验（Standardized Cognitive Ability Test）。
-> - **开发者与年份** [[Peter Facione|Peter A. Facione]] & Noreen C. Facione (1990, 2000 修订版)。
-> - **测量目的** 依据美国哲学学会（[[APA Style|APA]]）[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]报告界定的批判性思维核心认知技能，测量个体在日常与专业情境中的分析、推论、评价与逻辑推导能力，广泛应用于高等教育学业增益评估与课程[[Intervention Research|干预研究]]。
+> - **开发者与年份** [[Peter Facione\|Peter A. Facione]] & Noreen C. Facione (1990, 2000 修订版)。
+> - **测量目的** 依据美国哲学学会（[[APA Style\|APA]]）[[APA Delphi Consensus on Critical Thinking\|德尔菲专家共识]]报告界定的批判性思维核心认知技能，测量个体在日常与专业情境中的分析、推论、评价与逻辑推导能力，广泛应用于高等教育学业增益评估与课程[[Intervention Research\|干预研究]]。
 > - **实施方式** 纸笔测试或计算机机考（限时 45–50 分钟），题项以文本、图表或短情境呈现。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]认知能力（Critical Thinking Cognitive Skills）
+> [!construct-table] [[Critical Thinking\|批判性思维]]认知能力（Critical Thinking Cognitive Skills）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -87,7 +87,7 @@ updated: 2026-09-11
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 34 道基于短文材料、图表数据与日常争论情境的客观单项[[Multiple-Choice Questions|选择题]]。
+> - **题项形式** 34 道基于短文材料、图表数据与日常争论情境的客观单项[[Multiple-Choice Questions\|选择题]]。
 > - **作答格式** 4 选 1 或 5 选 1 单项选择题。
 > - **计分与常模** 每题 1 分，总分满分 34 分。测验提供基于全美及国际大学生群体的标准百分位常模（Percentiles）与能力等级切分点。
 

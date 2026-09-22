@@ -91,7 +91,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 本章属于历史综述（historical review），不以单一理论为[[Analytic Framework|分析框架]]，而是整合多条理论线索来组织对 UIR 演变的追溯：
+> 本章属于历史综述（historical review），不以单一理论为[[Analytic Framework\|分析框架]]，而是整合多条理论线索来组织对 UIR 演变的追溯：
 
 - **[[Systems of Innovation|创新系统理论]](Lundvall et al., 2002)**——将创新理解为多行动者在制度环境下的集体学习活动，是本章组织材料的核心视角。它帮助读者理解：UIR 不是孤立的人际互动，而是嵌套在法律框架、金融系统、文化规范等多层制度之中的系统行为
 - **[[Innovation Models Evolution|创新模型演变]]（linear → coupling → systems integration → networked → systems of innovation）**——五代创新模型为理解产学互动方式的历史变迁提供了坐标(Tidd, 2006; [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]])
@@ -103,7 +103,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 本章为[[Literature Review|文献综述]]，综合了大量历史研究(Arora et al., 2020; Martin, 2012)、政策分析(Schot & Steinmueller, 2018; Lindner et al., 2024)、实证调查(Cohen et al., 2002; Hughes & Kitson, 2012)和大型纵向数据库（美国 [[National Science Foundation|NSF]] HERD Survey、英国 HEBCI Survey）。资料来源覆盖美国、英国、欧洲和中国的政策演变。
+> 本章为[[Literature Review\|文献综述]]，综合了大量历史研究(Arora et al., 2020; Martin, 2012)、政策分析(Schot & Steinmueller, 2018; Lindner et al., 2024)、实证调查(Cohen et al., 2002; Hughes & Kitson, 2012)和大型纵向数据库（美国 [[National Science Foundation\|NSF]] HERD Survey、英国 HEBCI Survey）。资料来源覆盖美国、英国、欧洲和中国的政策演变。
 
 ---
 
@@ -144,7 +144,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 
 **范式一：科学促增长（1940s–1980s）。** 二战期间曼哈顿计划和 MIT 辐射实验室等大规模研发项目向政策制定者展示了科学的巨大回报潜力。受此影响，战后政策以[[Linear Model of Innovation|线性创新模型]]为基础，大规模投资大学[[Blue Skies Research|基础研究]]，[[Hypothesis|假设]]科学发现将自然转化为技术和产品。理论基础来自 Solow(1957)和 Arrow(1962)：知识具有公共品属性，私人市场会对其投资不足，因此政府必须弥补这一市场失灵(pp.28–29)。
 
-> 然而这一范式存在根本性缺陷：1980 年之前，美国联邦政府资助的大学研究中产生了大量发明，但真正进入市场的极少。[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 立法前言直接点出："联邦资助研究中产生的发明几乎没有被商业化。"政府建了一个巨大的知识"水库"，但缺乏将水输送到需要之处的"管道"。
+> 然而这一范式存在根本性缺陷：1980 年之前，美国联邦政府资助的大学研究中产生了大量发明，但真正进入市场的极少。[[Bayh-Dole Act of 1980\|Bayh-Dole Act]] 立法前言直接点出："联邦资助研究中产生的发明几乎没有被商业化。"政府建了一个巨大的知识"水库"，但缺乏将水输送到需要之处的"管道"。
 
 **范式二：创新系统（1980s–1990s）。** 对线性假设的幻灭催生了系统性反思。五个新认识共同挑战了"科学→技术→增长"的单向逻辑(pp.29–31)：
 
@@ -160,7 +160,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 
 **范式三：[[Transformative Change|变革转型]]（2010s 至今）。** 系统范式擅长诊断各种失灵，但批评者(Schot & Steinmueller, 2018; Mazzucato, 2018)指出其根本局限：它能识别系统在哪里卡住了，但不能指明系统应该往哪个方向走。面对气候变化、生物多样性丧失、人口老龄化等棘手问题，政策需要从"修复系统"升级为"主动导向"，不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"(pp.32–34)。
 
-> 系统范式与[[Transformative Change|变革转型范式]]的区别在于问题意识的层次：前者关注"如何优化现有系统"（系统优化思维），后者追问"现有系统本身是否指向正确的目标"（方向选择思维）。
+> 系统范式与[[Transformative Change\|变革转型范式]]的区别在于问题意识的层次：前者关注"如何优化现有系统"（系统优化思维），后者追问"现有系统本身是否指向正确的目标"（方向选择思维）。
 
 变革转型引入了新的诊断范畴：方向性失败（社会尚未就转型方向达成共识）、政策协调失败（科技部、环保部、财政部各自为政）、需求表达失败（无法准确预判未来的知识用户需求）、[[Reflexivity|反思性]]失败（长期变革充满不确定性，但现行制度不鼓励对基本假设的持续检讨）(pp.32–34)。
 
@@ -181,7 +181,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 - **小型初创企业**利用风险投资商业化高风险、高潜力的发明
 - **大型成熟企业**聚焦产品开发、系统集成和市场部署
 
-> Arora et al.(2020)指出了一个至今未解决的张力：大学（通过[[Technology Transfer|技术转移]]和产学合作）和初创企业虽然在个别案例上取得了重大创新成功（如 Google 从斯坦福的授权起步），但整体上未能完全填补大企业中央实验室衰落留下的空白。中央实验室的独特优势在于能够跨学科、跨技术领域整合大量专业人才和资源，系统性解决复杂问题，而今天更加碎片化的创新系统在这一能力上反而退步了(pp.41–42)。
+> Arora et al.(2020)指出了一个至今未解决的张力：大学（通过[[Technology Transfer\|技术转移]]和产学合作）和初创企业虽然在个别案例上取得了重大创新成功（如 Google 从斯坦福的授权起步），但整体上未能完全填补大企业中央实验室衰落留下的空白。中央实验室的独特优势在于能够跨学科、跨技术领域整合大量专业人才和资源，系统性解决复杂问题，而今天更加碎片化的创新系统在这一能力上反而退步了(pp.41–42)。
 
 在组织层面，大学系统也在同步演化(pp.36–44)，其历史跨度从 1800 年代延伸至今日：
 
@@ -245,7 +245,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 
 **转变三：大企业从遍地撒网转向战略性集中。** 2000 年代以前，典型大企业的做法是与几十所大学的数百名教授保持零散的、以项目为单位的合作。2000 年代后，企业开始精选少数几所大学作为战略伙伴，建立覆盖多个院系、多种合作形式的长期综合关系(Bercovitz & Feldman, 2007; Ulrichsen & O'Sullivan, 2015)(pp.44–45)。
 
-> 这一转变的逻辑在于：有限的关系管理资源分散在数十所大学和数百名教授之间，每次合作都是浅层的，难以建立信任；而集中在少数几所大学的深度合作使得企业能够真正了解合作大学的研究优势、[[Organizational Culture|组织文化]]和决策节奏，交易成本随时间大幅下降。越来越多大企业选择了后一种模式。
+> 这一转变的逻辑在于：有限的关系管理资源分散在数十所大学和数百名教授之间，每次合作都是浅层的，难以建立信任；而集中在少数几所大学的深度合作使得企业能够真正了解合作大学的研究优势、[[Organizational Culture\|组织文化]]和决策节奏，交易成本随时间大幅下降。越来越多大企业选择了后一种模式。
 
 ---
 
@@ -312,12 +312,12 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 ## 主要发现
 
 > [!success]
-> 1. UIR 对驱动和赋能创新的重要性日益增长，这不是短期趋势或政策修辞，而是过去五十年长期结构性变化的结果：创新性质从线性到系统、政策[[Paradigm|范式]]从补市场到管系统、[[Knowledge Production|知识生产]]组织从企业实验室一体化到大学-初创-大企业分工协作(p.50)。
-> 2. UIR 的规模持续扩大，关系型互动取代交易型互动成为主导。美国产业资助大学研发从 1990 年 22 亿增至 2022 年 57 亿美元，英国大学[[Knowledge Transfer|知识转移]]收入从 2004 年 43 亿增至 2022 年 87 亿美元（均为不变价）(p.44)。
+> 1. UIR 对驱动和赋能创新的重要性日益增长，这不是短期趋势或政策修辞，而是过去五十年长期结构性变化的结果：创新性质从线性到系统、政策[[Paradigm\|范式]]从补市场到管系统、[[Knowledge Production\|知识生产]]组织从企业实验室一体化到大学-初创-大企业分工协作(p.50)。
+> 2. UIR 的规模持续扩大，关系型互动取代交易型互动成为主导。美国产业资助大学研发从 1990 年 22 亿增至 2022 年 57 亿美元，英国大学[[Knowledge Transfer\|知识转移]]收入从 2004 年 43 亿增至 2022 年 87 亿美元（均为不变价）(p.44)。
 > 3. 大企业从大量零散学术互动转向少数战略性大学伙伴，始于 2000 年代、加速于 2010 年代，其逻辑是深度关系在隐性知识转移和长期信任建立上比广度覆盖更具优势(pp.44–45)。
-> 4. UIR 日益制度化。大学在 2000 年代后正式承担了"[[Third Mission|第三使命]]"，建立了从领导角色、支持单位到内部种子基金的体系化支撑。英国的长期公式拨款（而非项目制竞争）在此过程中被证明"极为宝贵"(pp.42–43, 50)。
-> 5. 影响 UIR 的因素分布在七个系统层面（大学领导、学术人员、互动项目、产业伙伴、制度、供给、需求），单一层面的干预（如仅要求大学设立 [[Technology Transfer Office|TTO]]）难以解决多层嵌套的系统性障碍(pp.48–49)。
-> 6. 面向未来，最关键的转变不是"做更多的[[University-Industry Collaboration|产学合作]]"，而是将研究、解决方案开发和人才培养整合起来应对重大社会挑战；拓宽 UIR 的行业和学科范围（纳入传统行业和人文社科）；实验能有效汇集多方资源和能力的新型组织形式(pp.47–51)。
+> 4. UIR 日益制度化。大学在 2000 年代后正式承担了"[[Third Mission\|第三使命]]"，建立了从领导角色、支持单位到内部种子基金的体系化支撑。英国的长期公式拨款（而非项目制竞争）在此过程中被证明"极为宝贵"(pp.42–43, 50)。
+> 5. 影响 UIR 的因素分布在七个系统层面（大学领导、学术人员、互动项目、产业伙伴、制度、供给、需求），单一层面的干预（如仅要求大学设立 [[Technology Transfer Office\|TTO]]）难以解决多层嵌套的系统性障碍(pp.48–49)。
+> 6. 面向未来，最关键的转变不是"做更多的[[University-Industry Collaboration\|产学合作]]"，而是将研究、解决方案开发和人才培养整合起来应对重大社会挑战；拓宽 UIR 的行业和学科范围（纳入传统行业和人文社科）；实验能有效汇集多方资源和能力的新型组织形式(pp.47–51)。
 
 ---
 
@@ -328,7 +328,7 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 > ("Innovation processes were 'neither smooth nor linear, nor often well behaved'.")(Kline & Rosenberg, 1986, p.285,引自 p.28)
 
 > [!quote]
-> Universities... becoming "more deeply embedded in [[Systems of Innovation|innovation systems]], seeking to actively foster interactions and spillovers to link research with application and commercialization, and taking on roles of catalyzing and animating economic and social development."(Youtie & Shapira, 2008, p.1189,引自 p.42)
+> Universities... becoming "more deeply embedded in [[Systems of Innovation\|innovation systems]], seeking to actively foster interactions and spillovers to link research with application and commercialization, and taking on roles of catalyzing and animating economic and social development."(Youtie & Shapira, 2008, p.1189,引自 p.42)
 
 ---
 
@@ -337,8 +337,8 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 > [!warning]
 > 本章作为综述性章节，未明确陈述自身方法局限。但可识别以下边界条件：
 > - 分析主要聚焦美国、英国和部分欧洲国家，对中国之外的亚洲国家、非洲和拉丁美洲的 UIR 演变涉及有限
-> - 影响 UIR 的因素框架整合自多个以不同方式测量同一因素的研究（如"信任"有时被研究为障碍、有时被研究为促进因素），使[[Document|文献]]间的可比性受限(p.49)
-> - "[[Transformative Change|变革转型]]"政策[[Paradigm|范式]]仍处早期阶段，其实施证据有限——目前更接近一种规范性愿景而非已验证的政策框架(Lindner et al., 2024)(p.34)
+> - 影响 UIR 的因素框架整合自多个以不同方式测量同一因素的研究（如"信任"有时被研究为障碍、有时被研究为促进因素），使[[Document\|文献]]间的可比性受限(p.49)
+> - "[[Transformative Change\|变革转型]]"政策[[Paradigm\|范式]]仍处早期阶段，其实施证据有限——目前更接近一种规范性愿景而非已验证的政策框架(Lindner et al., 2024)(p.34)
 
 ---
 

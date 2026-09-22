@@ -62,7 +62,7 @@ updated: 2026-09-12
 > [!note]- 时间线
 > - **1888** — 出生于俄国帝国哈尔科夫省别洛波利耶（今乌克兰苏梅州一带）。
 > - **1905** — 完成师范训练后开始任教，早期主要在铁路学校系统工作。
-> - **1912-1917** — 就读于波尔塔瓦[[Normal School|师范学院]]，1917 年以优异成绩毕业。
+> - **1912-1917** — 就读于波尔塔瓦[[Normal School\|师范学院]]，1917 年以优异成绩毕业。
 > - **1919** — 任克留科夫地方学校负责人。
 > - **1920** — 受邀接手波尔塔瓦少年违法者殖民地，后发展为高尔基工学团。
 > - **1925** — 高尔基工学团已有约 140 名学生；马卡连柯开始将其经验系统化。
@@ -127,7 +127,7 @@ updated: 2026-09-12
 ### 与 John Dewey 的比较
 
 > [!note]-
-> [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024, p.103)]]指出，英语世界至少有两篇矫正教育论文专门把马卡连柯与 [[John Dewey]] 并置：Holtz（2002）比较二者如何理解"通过教育克服生活环境"，Gehring、Bowers and Wright（2005）则将马卡连柯称为"苏联的 John Dewey"。
+> [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024, p.103)]]指出，英语世界至少有两篇矫正教育论文专门把马卡连柯与 [[John Dewey]] 并置：Holtz（2002）比较二者如何理解"通过教育克服生活环境"，Gehring、Bowers and Wright（2005）则将马卡连柯称为"苏联的 John Dewey"。
 
 这个比较主要是思想层面的，而不是实际交往史。与 [[Stanislav Shatskii]] 不同，马卡连柯并未因 Dewey 1928 年访苏而与 Dewey 建立直接联系；他与 Dewey 的相似之处在于都反对把教育化约为书本灌输，强调经验、共同生活和社会环境对儿童发展的塑造作用。差异则在于：Dewey 的关键词是民主经验与学校社会，马卡连柯的关键词是集体纪律、共同劳动与处境不利儿童的再社会化。
 
@@ -135,9 +135,9 @@ updated: 2026-09-12
 
 > [!success]
 > - **苏联教育学传统** 马卡连柯被塑造成苏联教育学的重要奠基人物之一，尤其与集体主义教育、劳动教育和少年再教育相连（Filonov, 1994）。
-> - **[[International Education|国际教育]]思想史** 1988 年，[[UNESCO]] 相关材料将他与 [[John Dewey]]、Georg Kerschensteiner and Maria Montessori 并列为影响 20 世纪教育思想的重要人物之一（Korablova, 2000）。
+> - **[[International Education\|国际教育]]思想史** 1988 年，[[UNESCO]] 相关材料将他与 [[John Dewey]]、Georg Kerschensteiner and Maria Montessori 并列为影响 20 世纪教育思想的重要人物之一（Korablova, 2000）。
 > - **矫正教育与社会教育** 英语世界对他的再讨论常发生在 correctional education、group work 和 youth work 语境中，重点不在苏联意识形态，而在"如何让处境不利青少年通过共同生活获得新的社会身份"（Holtz, 2002; Gehring et al., 2005; Halvorsen, 2014）。
-> - **苏俄[[Progressive Education|进步教育]]谱系** 与 [[Stanislav Shatskii]] 并列时，马卡连柯显示了苏俄[[Progressive Education|进步教育]]的另一条路线：Shatskii 更靠近乡村学校实验和 Dewey 式[[Experiential Learning|经验教育]]，马卡连柯更靠近矫正教育、集体组织和劳动公社([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103-104]])。
+> - **苏俄[[Progressive Education\|进步教育]]谱系** 与 [[Stanislav Shatskii]] 并列时，马卡连柯显示了苏俄[[Progressive Education\|进步教育]]的另一条路线：Shatskii 更靠近乡村学校实验和 Dewey 式[[Experiential Learning\|经验教育]]，马卡连柯更靠近矫正教育、集体组织和劳动公社([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.103-104]])。
 
 ---
 

@@ -73,12 +73,12 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 在竞争性地缘政治框架中，大学如何通过与数字化和数据化相关的治理技术来建构"[[Promising Student|有前景的学生]]"（promising student）？本章聚焦[[Online Self-Assessment|在线自评工具]]（OSAs）——一种在德国大学中广泛采用的数字化入学前咨询工具——分析它们如何作为主体化工具运作：如何在学生入学之前就对其进行"预判"和"预管理"，如何重新定义"好学生"的含义，以及这一过程如何服务于大学的竞争性地缘政治定位。
+> 在竞争性地缘政治框架中，大学如何通过与数字化和数据化相关的治理技术来建构"[[Promising Student\|有前景的学生]]"（promising student）？本章聚焦[[Online Self-Assessment\|在线自评工具]]（OSAs）——一种在德国大学中广泛采用的数字化入学前咨询工具——分析它们如何作为主体化工具运作：如何在学生入学之前就对其进行"预判"和"预管理"，如何重新定义"好学生"的含义，以及这一过程如何服务于大学的竞争性地缘政治定位。
 
 ## 理论框架
 
 > [!abstract]
-> 本章以两个相互补充的[[Theoretical Perspective|理论视角]]为[[Analytic Framework|分析框架]]：
+> 本章以两个相互补充的[[Theoretical Perspective\|理论视角]]为[[Analytic Framework\|分析框架]]：
 
 - **Foucault [[Governmentality|治理术]]（governmentality）** 借鉴 Foucault（1993, 2004）对治理术的分析——即"行为的引导"（conduct of conduct），关注权力如何通过塑造主体的自我理解而非直接强制来运作。[[Online Self-Assessment|OSA]] 被视为一种"自我技术"（technology of the self），通过让潜在学生对自身进行自我评估和自我优化，引导他们"自由地"做出符合治理目标的选择(pp.220–221)。
 
@@ -89,9 +89,9 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment|OSA]] 操作手册的[[Discourse Analysis|话语分析]]。
+> 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment\|OSA]] 操作手册的[[Discourse Analysis\|话语分析]]。
 > - 方法：话语分析（discourse analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"(p.223)）
-> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究[[Document|文献]]（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
+> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究[[Document\|文献]]（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
 > - 案例材料：荷兰 Saxion 大学的"学习选择检查"YouTube 视频(2020)
 
 ## 论证结构
@@ -114,7 +114,7 @@ citation_aliases:
 - 在科研领域，Bröckling & Peter(2017)已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——[[German Excellence Initiative|德国卓越计划]]和英国 [[Research Excellence Framework|REF]] 就是通过指标和排名构建市场环境的典型技术(p.220)
 - 在教学领域，竞争力表现为对**学生成功的预期管理**——大学竞争的是学生的"潜在未来努力"(p.220)
 
-> 例：两所大学竞争——A 大学和 B 大学。在科研方面，它们可以通过论文数量、引用率、第三方经费等指标直接比较。但在教学方面，它们如何比较？答案是：通过毕业率、[[Student Satisfaction|学生满意度]]、雇主评价等"成功"指标——但这些指标衡量的是**已经发生的**结果，而大学真正需要的是在入学前就预判哪些学生有潜力贡献这些指标。这就是为什么 OSA 作为**提前的**管理工具变得至关重要。
+> 例：两所大学竞争——A 大学和 B 大学。在科研方面，它们可以通过论文数量、引用率、第三方经费等指标直接比较。但在教学方面，它们如何比较？答案是：通过毕业率、[[Student Satisfaction\|学生满意度]]、雇主评价等"成功"指标——但这些指标衡量的是**已经发生的**结果，而大学真正需要的是在入学前就预判哪些学生有潜力贡献这些指标。这就是为什么 OSA 作为**提前的**管理工具变得至关重要。
 
 ### 第三步：OSA 的三种战略功能
 
@@ -162,11 +162,11 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 ## 关键引用
 
 > [!quote]
-> “然而，‘[[Promising Student|有前途的学生]]’的识别并非仅仅是寻找天生的才华。相反，这意味着要通过自我评价和自我优化，着眼于学生的潜在成功来对待他们。”
+> “然而，‘[[Promising Student\|有前途的学生]]’的识别并非仅仅是寻找天生的才华。相反，这意味着要通过自我评价和自我优化，着眼于学生的潜在成功来对待他们。”
 > ("The identification of the '[[Promising Student]]' is not simply a matter of finding the naturally given talents, however. Rather, it means to address students with respect to their potential success through self-evaluation and self-optimization.")(p.221)
 
 > [!quote]
-> “[[Digital Self|数字自我]]与[[Digital Optimum|数字最优]]状态形成了一种行使算法治理的级差。这种级差塑造了学生的行为（也包括与其他学生的关系），从而重构了高等教育。”
+> “[[Digital Self\|数字自我]]与[[Digital Optimum\|数字最优]]状态形成了一种行使算法治理的级差。这种级差塑造了学生的行为（也包括与其他学生的关系），从而重构了高等教育。”
 > ("[[Digital Self]] and [[Digital Optimum]] form a differential that exerts algorithmic governance (Beer, 2016). This differential shapes student behavior (also in relation to other students) and thus it restructures higher education.")(p.226)
 
 > [!quote]
@@ -180,9 +180,9 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 ## 局限性与批评
 
 > [!warning]
-> - **作者自述局限** 篇幅限制，未能提供对文本材料的完整[[Discourse Analysis|话语分析]]，仅识别了核心主题和方面(p.223)
-> - **经验覆盖的局限** 分析主要基于德国大学的政策文件和进展报告，[[Online Self-Assessment|OSA]] 类型和形式的多样性（600+ 种工具）意味着分析无法覆盖全部实践
-> - **理论框架的依赖** 该章高度依赖 Foucault [[Governmentality|治理术]]和 Deleuze [[Societies of Control|控制社会]]两个特定[[Theoretical Perspective|理论视角]]，可能低估了其他可能的解释框架——例如制度理论或组织社会学视角
+> - **作者自述局限** 篇幅限制，未能提供对文本材料的完整[[Discourse Analysis\|话语分析]]，仅识别了核心主题和方面(p.223)
+> - **经验覆盖的局限** 分析主要基于德国大学的政策文件和进展报告，[[Online Self-Assessment\|OSA]] 类型和形式的多样性（600+ 种工具）意味着分析无法覆盖全部实践
+> - **理论框架的依赖** 该章高度依赖 Foucault [[Governmentality\|治理术]]和 Deleuze [[Societies of Control\|控制社会]]两个特定[[Theoretical Perspective\|理论视角]]，可能低估了其他可能的解释框架——例如制度理论或组织社会学视角
 > - **替代性解读的缺失** OSA 的倡导者可能将其解释为一种赋权学生的民主化工具——帮助学生做出更好的选择、避免辍学和资源浪费。该章虽然提及了这一维度，但对其批评性重构占据了主导地位
 
 ## 来源

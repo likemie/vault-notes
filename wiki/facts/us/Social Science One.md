@@ -38,7 +38,7 @@ updated: 2026-06-10
 ## 背景
 
 > [!info]
-> 大数据与 AI/ML 的兴起为研究社区带来了前所未有的机遇，但大量有价值的数据由私营企业持有、高度个人化或敏感、受法律保护以维护隐私。Social Science One 是在这一背景下诞生的组织，旨在实施 [[King-Persily Model]]——一种"互惠激励兼容"的产学数据共享方法。该组织孵化于哈佛大学量化社会科学研究所（Institute of Quantitative Social Sciences at Harvard University）。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 13-14)]]
+> 大数据与 AI/ML 的兴起为研究社区带来了前所未有的机遇，但大量有价值的数据由私营企业持有、高度个人化或敏感、受法律保护以维护隐私。Social Science One 是在这一背景下诞生的组织，旨在实施 [[King-Persily Model]]——一种"互惠激励兼容"的产学数据共享方法。该组织孵化于哈佛大学量化社会科学研究所（Institute of Quantitative Social Sciences at Harvard University）。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 13-14)]]
 
 ---
 ## 运行机制

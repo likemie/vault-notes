@@ -40,10 +40,10 @@ updated: 2026-08-20
 ## 核心主张
 
 > [!tip]-
-> Andreas Gruschka（2009, 2013, 2019）将教学（teaching）理解为一个由三种行动维度交织而成的复杂系统：[[Bildung]]（人格陶成）、Erziehung（教育／教养）和 [[Didaktik]]（教学法）。三者在每一次教学行动中同时在场、不可分割。Gruschka 借用 Adorno 的"星座"（constellation）概念将这一结构称为"整合性星座案例"（an integrated case of constellation），以强调三要素之间"非同一"（non-identical）的相互缠绕关系——它们不能被还原为彼此，也不能被拆分为独立步骤（Gruschka, 2019, p.680, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.238–239]]）。
+> Andreas Gruschka（2009, 2013, 2019）将教学（teaching）理解为一个由三种行动维度交织而成的复杂系统：[[Bildung]]（人格陶成）、Erziehung（教育／教养）和 [[Didaktik]]（教学法）。三者在每一次教学行动中同时在场、不可分割。Gruschka 借用 Adorno 的"星座"（constellation）概念将这一结构称为"整合性星座案例"（an integrated case of constellation），以强调三要素之间"非同一"（non-identical）的相互缠绕关系——它们不能被还原为彼此，也不能被拆分为独立步骤（Gruschka, 2019, p.680, cited in [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.238–239]]）。
 
 > [!quote]
-> "Teaching is understood as a complex system of actions that consists of 'Bildung', education ('Erziehung') and didactics. All three aspects are interwoven in the action of teaching." ([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.238, summarizing Gruschka, 2009, 2013, 2019]])
+> "Teaching is understood as a complex system of actions that consists of 'Bildung', education ('Erziehung') and didactics. All three aspects are interwoven in the action of teaching." ([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, p.238, summarizing Gruschka, 2009, 2013, 2019]])
 > 
 > 教学被理解为一个复杂的行动系统，由人格陶成 (Bildung)、教育/教养 (Erziehung) 和教学法 (didactics) 组成。所有这三个方面在教学行动中相互交织。
 
@@ -75,7 +75,7 @@ Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要
 ## 发展脉络
 
 > [!note]-
-> Gruschka 的[[Didaktik|教学理论]]是在德语教学论（Didaktik）和 [[Bildung]] 传统的长线脉络中发展的。其主要著作包括：
+> Gruschka 的[[Didaktik\|教学理论]]是在德语教学论（Didaktik）和 [[Bildung]] 传统的长线脉络中发展的。其主要著作包括：
 > - Gruschka（2009）：*Erkenntnis in und durch Unterricht*（教学中的认识与通过教学的认识）——奠定理论基础
 > - Gruschka（2013）：*Unterrichten — eine pädagogische Theorie auf empirischer Basis*（教学——基于经验的教育理论）——将理论建立在对课堂教学的经验研究之上
 > - Gruschka（2019）：在 *Oxford Review of Education* 发表"A new way of understanding teaching: A German perspective"，将该理论引入国际学界
@@ -92,5 +92,5 @@ Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要
 ## 相关研究
 
 > [!example]
-> - [[Argument_Jornitz_2022_Bildung_algorithmic]] — Jornitz & Klinge 以 Gruschka [[Didaktik|教学理论]]为框架，分析学习软件的即时反馈、奖励系统和仪表盘如何从三维度排除 [[Bildung]]
+> - [[Argument_Jornitz_2022_Bildung_algorithmic]] — Jornitz & Klinge 以 Gruschka [[Didaktik\|教学理论]]为框架，分析学习软件的即时反馈、奖励系统和仪表盘如何从三维度排除 [[Bildung]]
 

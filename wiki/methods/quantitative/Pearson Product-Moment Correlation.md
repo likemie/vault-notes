@@ -44,15 +44,15 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> Pearson 积差相关（Pearson Product-Moment Correlation），通常简称为 Pearson 相关，是一种测量两个连续[[Variable|变量]]之间关联强度（magnitude）和方向（direction）的推断统计方法，使用 r 统计量。r 值范围在 -1 到 +1 之间：正值表示正相关（一个变量增加、另一个也增加），负值表示负相关（一个增加、另一个减少），0 表示无线性关联。报告时 r 应以斜体呈现（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> Pearson 积差相关（Pearson Product-Moment Correlation），通常简称为 Pearson 相关，是一种测量两个连续[[Variable\|变量]]之间关联强度（magnitude）和方向（direction）的推断统计方法，使用 r 统计量。r 值范围在 -1 到 +1 之间：正值表示正相关（一个变量增加、另一个也增加），负值表示负相关（一个增加、另一个减少），0 表示无线性关联。报告时 r 应以斜体呈现（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
 > [!example]
 > Creswell & Creswell (2022, Ch8, Table 8.3) 提供的选择标准：
-> - [[Research Question|研究问题]]性质：关联[[Variable|变量]]（relate variables）
-> - [[Independent Variable|自变量]]数量：1
-> - [[Dependent Variable|因变量]]数量：1
+> - [[Research Question\|研究问题]]性质：关联[[Variable\|变量]]（relate variables）
+> - [[Independent Variable\|自变量]]数量：1
+> - [[Dependent Variable\|因变量]]数量：1
 > - 协变量数量：0
 > - 变量类型：连续／连续（两个变量均为连续变量，如等距或比率量表）
 > - 分数分布：正态分布
@@ -60,21 +60,21 @@ updated: 2026-05-31
 ## 方法变体与相近方法
 
 > [!tip]-
-> - vs [[Multiple Regression|多元回归]] — Pearson 相关是双[[Variable|变量]]（bivariate）分析，一次只考察两个变量间的关系；多[[Meta-regression|元回归]]将相关分析扩展到两个或以上的[[Independent Variable|预测变量]]，同时评估多个预测变量对一个[[Dependent Variable|结果变量]]的相对预测力。
+> - vs [[Multiple Regression\|多元回归]] — Pearson 相关是双[[Variable\|变量]]（bivariate）分析，一次只考察两个变量间的关系；多[[Meta-regression\|元回归]]将相关分析扩展到两个或以上的[[Independent Variable\|预测变量]]，同时评估多个预测变量对一个[[Dependent Variable\|结果变量]]的相对预测力。
 > - vs Spearman 等级相关 — 当变量为顺序量表或分数非正态分布时，应使用 Spearman's ρ（rho）而非 Pearson's r。
 > - vs t 检验 — t 检验比较两组均值差异，Pearson 相关考察两个连续变量间的线性关联。
 
 ## 适用场景
 
 > [!success]
-> - [[Survey Research|调查研究]]中检验两个连续[[Variable|变量]]之间是否存在线性关联。
+> - [[Survey Research\|调查研究]]中检验两个连续[[Variable\|变量]]之间是否存在线性关联。
 > - 研究报告中的相关矩阵——展示多个研究变量之间的两两关联。
-> - [[Experimental Research|实验研究]]的初步分析阶段——检验关键研究变量间的关联。
+> - [[Experimental Research\|实验研究]]的初步分析阶段——检验关键研究变量间的关联。
 
 ## 局限性
 
 > [!warning]
-> - 只衡量线性关系——两个[[Variable|变量]]可能存在强的非线性关系但 r 值接近 0。
+> - 只衡量线性关系——两个[[Variable\|变量]]可能存在强的非线性关系但 r 值接近 0。
 > - 对异常值（outliers）敏感——少数极端值可以显著改变 r 值。
-> - 相关不等于因果——高相关不意味着一个变量导致了另一个变量的变化；混淆变量（第三变量 Z）可能同时驱动两个变量的变化（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - 相关不等于因果——高相关不意味着一个变量导致了另一个变量的变化；混淆变量（第三变量 Z）可能同时驱动两个变量的变化（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 

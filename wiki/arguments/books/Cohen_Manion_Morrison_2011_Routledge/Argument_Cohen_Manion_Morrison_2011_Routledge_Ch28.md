@@ -93,7 +93,7 @@ updated: '2026-09-08'
 
 #### 概念地图
 
-> [!knowledge-map]- 第28章　[[Concept Mapping|概念地图]]
+> [!knowledge-map]- 第28章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_28_Concept_Map.jpg)
 
 ## 章节内容
@@ -104,13 +104,13 @@ updated: '2026-09-08'
 > 质性数据分析的几种形式在此展开讨论，内容分析与扎根理论留待后文专门处理。不同进路的质性数据分析包括：
 > - **数据分析、厚描述与反身性** 如何组织、解释与呈现质性数据
 > - **质性数据分析中的伦理** 如何保护个体的可识别性、保密与隐私
-> - **计算机辅助质性数据分析（CAQDAS）** 软件如何辅助[[Coding in Qualitative Research|编码]]（coding）、检索与理论生成
+> - **计算机辅助质性数据分析（CAQDAS）** 软件如何辅助[[Coding in Qualitative Research\|编码]]（coding）、检索与理论生成
 
 > [!question] 核心问题
 >
-> - **什么是质性数据分析？** 组织、说明与解释数据，以参与者的[[Thomas Theorem|情境定义]]理解数据，识别其中的模式、主题、类别与规律
-> - **为何没有单一正确方法？** 分析遵循[[Fitness for Purpose|目的适配性]]，目的决定分析种类；分析融合诠释，且常与数据收集迭代融合
-> - **需要注意什么？** 数据丰富带来选择与偏误风险；[[Double Hermeneutic|双重诠释]]（double hermeneutic）使事实与诠释不可分；需以厚描述、反身性与多来源数据保障效度
+> - **什么是质性数据分析？** 组织、说明与解释数据，以参与者的[[Thomas Theorem\|情境定义]]理解数据，识别其中的模式、主题、类别与规律
+> - **为何没有单一正确方法？** 分析遵循[[Fitness for Purpose\|目的适配性]]，目的决定分析种类；分析融合诠释，且常与数据收集迭代融合
+> - **需要注意什么？** 数据丰富带来选择与偏误风险；[[Double Hermeneutic\|双重诠释]]（double hermeneutic）使事实与诠释不可分；需以厚描述、反身性与多来源数据保障效度
 > - **如何分析？** 尽早开始分析、渐进聚焦、生成厚描述；可借助 CAQDAS 编码、检索与理论建构，但软件不替代分析
 > - **证据是什么？** 内容为方法综述，引用 Geertz、Giddens、Miles & Huberman、LeCompte & Preissle、Kelle、Gibbs、Flick 等
 
@@ -132,13 +132,13 @@ updated: '2026-09-08'
 > ```
 
 > [!proc] 质性数据分析的通用流程
-> 1. **明确分析目的** 依[[Fitness for Purpose|目的适配性]]确定分析是描述、诠释、发现模式、生成主题还是寻求因果。
-> 2. **准备数据** 决定是否[[Transcription in Qualitative Research|转录]]；说明转录规范并核验准确性，或直接从录音录像分析。
-> 3. **尽早开始分析** 在数据收集中即开始书写与分析，进行渐进聚焦，把分析日期化并纳入[[Field Notes|田野笔记]]日记。
-> 4. **组织与解释数据** 编码、比较、归类，生成[[Rich and Thick Description|厚描述]]；综合[[Emic and Etic|主位与客位]]分析，记录备忘录与[[Reflexivity|反身性]]思考。
-> 5. **检验效度与[[Reliability|信度]]** 纳入多参与者视角、忠实记录实际事件、进行受访者验证与许可，并以反身性缓解主观性批评。
-> 6. **伦理把关** 保护个体可识别性、保密与隐私，遵守[[Non-maleficence and Beneficence in Research|不伤害原则]]，考虑转录者与数据分析环节的伦理条件。
-> 7. **选择分析工具** 可借助[[Qualitative Computer Software|CAQDAS]]编码、检索、比较与建构理论，但软件不替代分析。
+> 1. **明确分析目的** 依[[Fitness for Purpose\|目的适配性]]确定分析是描述、诠释、发现模式、生成主题还是寻求因果。
+> 2. **准备数据** 决定是否[[Transcription in Qualitative Research\|转录]]；说明转录规范并核验准确性，或直接从录音录像分析。
+> 3. **尽早开始分析** 在数据收集中即开始书写与分析，进行渐进聚焦，把分析日期化并纳入[[Field Notes\|田野笔记]]日记。
+> 4. **组织与解释数据** 编码、比较、归类，生成[[Rich and Thick Description\|厚描述]]；综合[[Emic and Etic\|主位与客位]]分析，记录备忘录与[[Reflexivity\|反身性]]思考。
+> 5. **检验效度与[[Reliability\|信度]]** 纳入多参与者视角、忠实记录实际事件、进行受访者验证与许可，并以反身性缓解主观性批评。
+> 6. **伦理把关** 保护个体可识别性、保密与隐私，遵守[[Non-maleficence and Beneficence in Research\|不伤害原则]]，考虑转录者与数据分析环节的伦理条件。
+> 7. **选择分析工具** 可借助[[Qualitative Computer Software\|CAQDAS]]编码、检索、比较与建构理论，但软件不替代分析。
 
 ---
 
@@ -214,7 +214,7 @@ updated: '2026-09-08'
 > | [[Ethnography\|民族志]] | 叙事或故事，不必然符合时间顺序，包含描述、分析、诠释与解释 |
 > | [[Grounded Theory\|扎根理论]]／内容分析 | 系统分析（[[Coding in Qualitative Research\|编码]]、类别化），直至理论浮现或可用于预测 |
 >
-> 所采用的[[Qualitative Research|质性研究]]类型会决定数据以何种形态被写出来。（28.2）
+> 所采用的[[Qualitative Research\|质性研究]]类型会决定数据以何种形态被写出来。（28.2）
 
 > [!case] 逐字数据的两种立场
 > 有些研究刻意聚焦个体与关键人物的反应，常在最终记述中逐字引用；另一些则满足于概括议题而不必指明具体数据来自谁。Ball（1990）与 Bowe et al.（1992）大量使用逐字数据，不仅因为直接引语往往比研究者自己的话更有启发性、更直接，更因为他们访谈的是权贵，需要公正对待他们所用的确切词语。Walford（2001, p. 92）则评论转录的拜物教（fetish of transcription），承认他很少为任何研究完整转录超过少数几份访谈，主要是因为转录耗时。Walford 给出 5 比 1 的比例，转录一小时访谈需五小时，尽管实际可能更长。（28.2）
@@ -222,13 +222,13 @@ updated: '2026-09-08'
 #### 早期分析、渐进聚焦与厚描述
 
 > [!info] 尽早开始分析
-> 理论层面，质性研究的一大特征是分析往往在数据收集早期就开始，以便生成理论（LeCompte & Preissle, 1993, p. 238）。实践层面，质性研究迅速累积海量数据，早期分析能通过选出显著特征供未来聚焦来减少数据过载问题。Miles & Huberman（1984）建议研究者在收集到第一批数据后就尽早并频繁地开始书写与分析，而非等数据收集结束，这能促成渐进聚焦（[[Progressive Focussing|progressive focusing]]）并选出关键议题供进一步研究。Gibbs（2007, p. 25）提出写作即思考。这类分析本身应注明日期时间，并可纳入[[Field Notes|田野笔记]]日记，记录研究者当时在做什么、身处何地、发生了什么事、在场者是谁、数据是什么、事件的显著特征、反思与观察（Miles & Huberman, 1994, pp. 50–4）。（28.2）
+> 理论层面，质性研究的一大特征是分析往往在数据收集早期就开始，以便生成理论（LeCompte & Preissle, 1993, p. 238）。实践层面，质性研究迅速累积海量数据，早期分析能通过选出显著特征供未来聚焦来减少数据过载问题。Miles & Huberman（1984）建议研究者在收集到第一批数据后就尽早并频繁地开始书写与分析，而非等数据收集结束，这能促成渐进聚焦（[[Progressive Focussing\|progressive focusing]]）并选出关键议题供进一步研究。Gibbs（2007, p. 25）提出写作即思考。这类分析本身应注明日期时间，并可纳入[[Field Notes\|田野笔记]]日记，记录研究者当时在做什么、身处何地、发生了什么事、在场者是谁、数据是什么、事件的显著特征、反思与观察（Miles & Huberman, 1994, pp. 50–4）。（28.2）
 
-> [!info] 渐进聚焦与[[Data Display|数据展示]]
-> 依据 Parlett & Hamilton（1976），渐进聚焦始于研究者以广角镜头收集数据，再通过筛选、归类、审视与反思，情境的显著特征浮现出来，被用作后续聚焦的议程，如同从宽到窄的漏斗。Miles & Huberman（1984）认为仔细的[[Data Display|数据展示]]是[[Data Reduction|数据缩减]]与选择的重要成分。（28.2）
+> [!info] 渐进聚焦与[[Data Display\|数据展示]]
+> 依据 Parlett & Hamilton（1976），渐进聚焦始于研究者以广角镜头收集数据，再通过筛选、归类、审视与反思，情境的显著特征浮现出来，被用作后续聚焦的议程，如同从宽到窄的漏斗。Miles & Huberman（1984）认为仔细的[[Data Display\|数据展示]]是[[Data Reduction\|数据缩减]]与选择的重要成分。（28.2）
 
 > [!claim] 厚描述增加而非减少数据
-> Gibbs（2007, p. 4）论证，质性数据分析非但未减少数据，反而增加其体积、密度与复杂性，因为它创造出更多文本，包括笔记、反思、备忘录、摘要、反身性洞见与进一步笔记，正是为了生成厚描述，不仅记述情境中的事件，还记述参与者的意图、策略与能动性。[[Clifford Geertz|克利福德·格尔茨]]（Clifford Geertz）（1973）认为厚描述包含对情境与现象被赋予的意义的反思。（28.2）
+> Gibbs（2007, p. 4）论证，质性数据分析非但未减少数据，反而增加其体积、密度与复杂性，因为它创造出更多文本，包括笔记、反思、备忘录、摘要、反身性洞见与进一步笔记，正是为了生成厚描述，不仅记述情境中的事件，还记述参与者的意图、策略与能动性。[[Clifford Geertz\|克利福德·格尔茨]]（Clifford Geertz）（1973）认为厚描述包含对情境与现象被赋予的意义的反思。（28.2）
 
 > [!quote] Geertz：铭写社会话语
 > 民族志学者铭写社会话语，他把它写下来。这样一来，他就把一件只存在于其发生瞬间的转瞬事件，转化为一种存在于其铭写之中、可以被再次查阅的记述。（Geertz, 1973, p. 19）做民族志，就像尝试阅读一部手稿，陌生、褪色、充满省略、不连贯、可疑的订正与倾向性的评论，写在转瞬即逝的行为范例中。（Geertz, 1973, p. 10）（28.2）
@@ -248,11 +248,11 @@ updated: '2026-09-08'
 > - **链节一：质性数据天然带诠释**
 >   质性数据来自访谈、观察等研究工具，数据如此丰富，分析必然涉及大量选择与排序，因此不可避免地带入研究者的判断。
 > - **链节二：数据包裹在社会事件之中**
->   由于所获数据都包裹在社会事件之中，报告涉及双重诠释过程（[[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）, 1976）。研究者诠释参与者已经诠释过的世界，再以自己的语言转述给受众。
+>   由于所获数据都包裹在社会事件之中，报告涉及双重诠释过程（[[Anthony Giddens\|安东尼·吉登斯]]（Anthony Giddens）, 1976）。研究者诠释参与者已经诠释过的世界，再以自己的语言转述给受众。
 > - **链节三：事实与诠释不可分离**
 >   事实与诠释不可分离，纳入哪些事件与数据部分处于研究者控制之下。参与者（包括研究者）依诠释而行动，诠释本身可能成为情境中的事实，一个诠释可以构成事实或数据（Geertz, 1973, p. 14）。
 > - **链节四：主观选择带来效度风险**
->   由于数据与诠释不可避免结合，研究者主观观点可能导致过度选择、不具代表性、对情境不公正；而除受访者验证外，可诉诸的[[External Validity|外部效度]]检验点往往有限。
+>   由于数据与诠释不可避免结合，研究者主观观点可能导致过度选择、不具代表性、对情境不公正；而除受访者验证外，可诉诸的[[External Validity\|外部效度]]检验点往往有限。
 > - **链节五：厚描述与反身性提供约束**
 >   厚描述要求写出事件脉络与参与者意义，反身性要求研究者自我审视；纳入其他参与者观点、对实际事件作忠实记录、受访者验证，共同为效度提供多重保障。
 > - **推论：分析是归纳而反身的建构**
@@ -261,16 +261,16 @@ updated: '2026-09-08'
 ---
 
 > [!case] Whyte《街角社会》附录A的自我反身
-> 在《街角社会》（*Street Corner Society*）1993 年再版的附录 A 中，[[William Foote Whyte|威廉·富特·怀特]]（William Foote Whyte） 反思[[Fieldwork|田野工作]]者的个人经验长期被学界沉默的共谋掩盖。他指出，学界似乎对田野工作者的个人经验强加了一种沉默的共谋，不可能找到揭示田野工作者必定经历的错误、困惑与个人卷入的现实记述，于是他决定尽己所能填补这一空白，并在这一任务中尽可能对自己诚实（Whyte, 1993, pp. 358–9）。他还主张[[Participatory Action Research|参与式行动研究]]（participatory [[Action Research]]，PAR）提供了弥合专业研究者与所研究组织成员之间鸿沟的一条重要途径（p. 364）。
+> 在《街角社会》（*Street Corner Society*）1993 年再版的附录 A 中，[[William Foote Whyte\|威廉·富特·怀特]]（William Foote Whyte） 反思[[Fieldwork\|田野工作]]者的个人经验长期被学界沉默的共谋掩盖。他指出，学界似乎对田野工作者的个人经验强加了一种沉默的共谋，不可能找到揭示田野工作者必定经历的错误、困惑与个人卷入的现实记述，于是他决定尽己所能填补这一空白，并在这一任务中尽可能对自己诚实（Whyte, 1993, pp. 358–9）。他还主张[[Participatory Action Research\|参与式行动研究]]（participatory [[Action Research]]，PAR）提供了弥合专业研究者与所研究组织成员之间鸿沟的一条重要途径（p. 364）。
 >
-> Whyte 进一步报告了对研究者的评论。研究者放弃建立科学结论的任何希望，转而谈论通过呈现你的为人来使你的记述可信。民族志今天越来越公开地采取一种内省转向，要成为习惯性的 I 见证者（I-witness），看来必须先成为一个令人信服的 I。民族学写作因而依赖于对读者的说服。他认识到客观与主观的区分并不像曾经以为的那样清晰，我们寻求观察对[[Research Purpose|研究目的]]有意义的行为，选择因此依赖于某种内隐或外显的理论，这一过程在很大程度上是主观的，但选择并非随机。如果说明理论[[Hypothesis|假设]]与研究采用的方法，他人就能运用同样的假设与方法去验证或挑战结论。（pp. 366–7）
+> Whyte 进一步报告了对研究者的评论。研究者放弃建立科学结论的任何希望，转而谈论通过呈现你的为人来使你的记述可信。民族志今天越来越公开地采取一种内省转向，要成为习惯性的 I 见证者（I-witness），看来必须先成为一个令人信服的 I。民族学写作因而依赖于对读者的说服。他认识到客观与主观的区分并不像曾经以为的那样清晰，我们寻求观察对[[Research Purpose\|研究目的]]有意义的行为，选择因此依赖于某种内隐或外显的理论，这一过程在很大程度上是主观的，但选择并非随机。如果说明理论[[Hypothesis\|假设]]与研究采用的方法，他人就能运用同样的假设与方法去验证或挑战结论。（pp. 366–7）
 >
 > 他甚至质疑受访者验证的必要性或实用性，尤其是当研究者发现可能违背或冒犯群体价值观与实践的内容时。他主张研究者有权按其自身所见发表结论与诠释（p. 362）。（28.2）
 
 ---
 
 > [!warning] 数据选择与偏误风险
-> 数据丰富使分析涉及大量选择与排序，可能带有人偏见，研究者需对此警觉。因此报告与分析应力求捕捉不同参与者对情境的不同定义，并综合[[Emic and Etic|主位与客位]]（emic/etic）分析。这自然可能招致缺乏客观性的批评，由研究者的反身性加以缓解；质性数据分析因而常以第一人称与口语化语言书写，而非许多研究报告惯用的第三人称、被动语态与过去时。（28.2）
+> 数据丰富使分析涉及大量选择与排序，可能带有人偏见，研究者需对此警觉。因此报告与分析应力求捕捉不同参与者对情境的不同定义，并综合[[Emic and Etic\|主位与客位]]（emic/etic）分析。这自然可能招致缺乏客观性的批评，由研究者的反身性加以缓解；质性数据分析因而常以第一人称与口语化语言书写，而非许多研究报告惯用的第三人称、被动语态与过去时。（28.2）
 
 > [!claim] 事实与诠释不可分离
 > 事实与诠释不可分离，纳入哪些事件与数据部分处于研究者控制之下。Geertz（1973, p. 14）写道，人类学写作本身就是诠释，而且是二手的、三手的诠释，就此而言它们是虚构，而虚构指它们是"被制作出来的东西"。（28.2）
@@ -290,7 +290,7 @@ updated: '2026-09-08'
 > 6. 对所说内容感到尴尬或紧张
 
 > [!info] 受访者的回应本身可能成为数据
-> Gibbs（2007, p. 95）指出，若请受访者验证数据与数据分析、诠释，他们的回应本身可能成为数据。若[[Informed Consent|知情同意]]（informed consent）涵盖研究的所有阶段，受访者可能有权撤回，但若同意仅涵盖参与研究而未涵盖更改报告，则研究者一旦获得数据即拥有该数据。（28.2）
+> Gibbs（2007, p. 95）指出，若请受访者验证数据与数据分析、诠释，他们的回应本身可能成为数据。若[[Informed Consent\|知情同意]]（informed consent）涵盖研究的所有阶段，受访者可能有权撤回，但若同意仅涵盖参与研究而未涵盖更改报告，则研究者一旦获得数据即拥有该数据。（28.2）
 
 > [!contrast-table] 通则式 vs 个例式分析
 > | 维度 | 通则式（nomothetic） | 个例式（idiographic） |
@@ -299,7 +299,7 @@ updated: '2026-09-08'
 > | 主题来源 | [[Emergence\|涌现]]的与预先设定的／先验的 | — |
 > | 代表取向 | Miles & Huberman（1994） | 生命史、[[Case Study\|案例研究]]、个体传记与叙事 |
 >
-> 质性数据可同时就其[[Nomothetic|通则式]]与[[Idiographic|个例式]]属性加以分析。（28.2）
+> 质性数据可同时就其[[Nomothetic\|通则式]]与[[Idiographic\|个例式]]属性加以分析。（28.2）
 
 ---
 
@@ -322,8 +322,8 @@ updated: '2026-09-08'
 > - **记录与转录** 记笔记；导入与管理已由 AI 转写或人工整理的访谈文本。
 > - **管理与存储** 有序管理与存储数据；编辑、扩展或修订田野笔记；存储并校对数据；整理与分段数据并制作副本。
 > - **搜索与检索** 文本搜索与检索；搜索词或短语并检索文本；搜索以特定（如时间）顺序出现的数据片段。
-> - **[[Coding in Qualitative Research|编码]]与分类** 编码数据并把编码排列为层级（树）与节点；进行初步编码；把编码备忘录纳入同一分类图式；给文本单元附加识别标签；按研究者决定或自然语言划分数据单元。
-> - **比较与关联** 排序、再排序、整理、分类、再分类数据片段以促进持续比较；交叉核对数据能否编入多个类别；统计多类别数据的发生率；从子集（如按性别）检索数据片段；建立编码类别联系；按优选标准过滤、[[Assemblage|装配]]与关联数据。
+> - **[[Coding in Qualitative Research\|编码]]与分类** 编码数据并把编码排列为层级（树）与节点；进行初步编码；把编码备忘录纳入同一分类图式；给文本单元附加识别标签；按研究者决定或自然语言划分数据单元。
+> - **比较与关联** 排序、再排序、整理、分类、再分类数据片段以促进持续比较；交叉核对数据能否编入多个类别；统计多类别数据的发生率；从子集（如按性别）检索数据片段；建立编码类别联系；按优选标准过滤、[[Assemblage\|装配]]与关联数据。
 > - **分析输出** 进行内容分析（频数、意义、序列、地点、人物等）；以不同方式展示数据；显示类别关系（层级、时间、关系、包含、上属）；在最终报告中引用数据。
 > - **理论与协作** 撰写备忘录并记录撰写情境；得出结论并验证结论与假设；生成与检验理论；与其他研究者或参与者沟通。
 
@@ -341,25 +341,25 @@ updated: '2026-09-08'
 > 3. **备忘录** 撰写备忘录（针对特定数据片段）。
 > 4. **一致性比较** 比较具有相同编码的文本片段以检验一致性。
 > 5. **整合与编码备忘录** 整合已生成的编码并撰写编码备忘录。
-> 6. **发展[[Central Phenomenon|核心范畴]]** 发展核心范畴，这是[[Grounded Theory|扎根理论]]的特征（见第33章）。
+> 6. **发展[[Central Phenomenon\|核心范畴]]** 发展核心范畴，这是[[Grounded Theory\|扎根理论]]的特征（见第33章）。
 
 > [!info] 常用软件与搜索功能
 > 常用软件以 NVivo、MAXQDA and ATLAS.ti 为代表（Gibbs, 2007 即着重介绍这三者）；原书列举的其他软件包多数已停更或被后继版本取代。软件能执行质性意义上的统计分析，包括布尔搜索、邻近搜索、限制／树／交叉表、树状图、按序列呈现数据、查找相似段落与负面案例、语境中的词项（词汇检索）、按联合标准选择文本、分析文本异同、注释与备忘录，并发展出语境中的关键词（Key-Words-In-Context，KWIC）功能。（28.4）
 
 > [!strength] 软件对效度与信度的增强
-> Kelle & Laurie（1995, p. 27）指出计算机辅助方法能增强效度（通过样本管理）与信度（通过检索某主题的所有数据，从而保证数据可信度），且不丢失语境因素（Gibbs, 2007, p. 106）。其优点是数据整理与检索的系统性与速度，软件能迅速处理数据；文本如今多由 AI 转写直接导入。Lonkila（1995）说明计算机如何通过编码、持续比较、联系、备忘录、图表与验证辅助[[Grounded Theory|扎根理论]]的生成。（28.4）
+> Kelle & Laurie（1995, p. 27）指出计算机辅助方法能增强效度（通过样本管理）与信度（通过检索某主题的所有数据，从而保证数据可信度），且不丢失语境因素（Gibbs, 2007, p. 106）。其优点是数据整理与检索的系统性与速度，软件能迅速处理数据；文本如今多由 AI 转写直接导入。Lonkila（1995）说明计算机如何通过编码、持续比较、联系、备忘录、图表与验证辅助[[Grounded Theory\|扎根理论]]的生成。（28.4）
 
 > [!method-limits] 软件不替代分析（传统论断）
 > 上述判断主要针对以编码与检索为核心的旧一代软件：计算机不消除人的参与，人仍需决定并生成编码与类别、验证并诠释数据。文本的算法式诠释存在严格限度（Kelle, 2004, p. 277）。CAQDAS 不执行分析，只支持研究者通过组织数据、记录编码与节点来分析；它更像文字处理器与整理器而非分析工具（Flick, 2009, p. 359）。García-Horta & Guerra-Ramos（2009, pp. 152–3）认为软件不能替代研究者赋予意义、识别异同、建立关系的能力，迄今没有软件能处理意义的生成与诠释。（28.4）
 
 > [!note] 当下的变化：LLM 辅助质性编码
-> 近年大语言模型（large language model，LLM）已能自动生成与建议编码、归类文本、抽取主题与摘要，部分承担了过去必须由研究者完成的机械分析环节。研究者仍须对 LLM 输出负责，校验[[Intercoder Agreement|编码一致性]]、保留[[Reflexivity|反身性]]并报告使用与局限（如幻觉、语境丢失、刻板偏误）。（28.4 附注）
+> 近年大语言模型（large language model，LLM）已能自动生成与建议编码、归类文本、抽取主题与摘要，部分承担了过去必须由研究者完成的机械分析环节。研究者仍须对 LLM 输出负责，校验[[Intercoder Agreement\|编码一致性]]、保留[[Reflexivity\|反身性]]并报告使用与局限（如幻觉、语境丢失、刻板偏误）。（28.4 附注）
 
 > [!critique] 软件可能驱动分析
 > - **软件驱动分析而非相反** Crowley et al.（2002）与 Fielding & Lee（1998）指出软件可能驱动分析而非相反。
 > - **过分专注编码类别** Seidel & Kelle（1995）批评软件过分专注编码类别。
 > - **编码与检索的技术倾向** Richards（2002）指出许多软件包聚焦于编码与检索，可能诱使研究者选择编码与模式化而忽视对文本更复杂的追问。
-> - **更贴近扎根理论而非其他技术** Coffey et al.（1996）认为软件更贴近[[Grounded Theory|扎根理论]]而非诠释学或[[Discourse Analysis|话语分析]]等其他技术。
+> - **更贴近扎根理论而非其他技术** Coffey et al.（1996）认为软件更贴近[[Grounded Theory\|扎根理论]]而非诠释学或[[Discourse Analysis\|话语分析]]等其他技术。
 
 > [!warning] 疏远数据与编码质量
 > 研究者可能因软件而疏远数据（Gibbs, 2007, p. 106），仅按编码装配数据会剥离重要语境（p. 122），软件使用效果只取决于编码质量（p. 140）。Flick（2009, p. 370）担心数据录入、编码与检索的实操会转移研究者对诠释学理解这一真正任务的注意力。（28.4）
@@ -368,27 +368,27 @@ updated: '2026-09-08'
 
 ## 关键引用
 
-> [!citation-card]- Geertz 论[[Ethnography|民族志]]学者的铭写
+> [!citation-card]- Geertz 论[[Ethnography\|民族志]]学者的铭写
 > 民族志学者铭写社会话语，他把它写下来。这样一来，他就把一件只存在于其发生瞬间的转瞬事件，转化为一种存在于其铭写之中、可以被再次查阅的记述。（28.2）
 >
-> *The ethnographer "inscribes" social discourse; he writes it down. In so doing, he turns it from a passing event, which exists only in its own moment of occurrence, into an [[Accounts|account]], which exists in its inscriptions and can be reconsulted. (Geertz, 1973, p. 19)*
+> *The ethnographer "inscribes" social discourse; he writes it down. In so doing, he turns it from a passing event, which exists only in its own moment of occurrence, into an [[Accounts\|account]], which exists in its inscriptions and can be reconsulted. (Geertz, 1973, p. 19)*
 
 > [!citation-card]- Geertz 论民族志写作作为解读
 > 做民族志，就像尝试阅读一部手稿，陌生、褪色、充满省略、不连贯、可疑的订正与倾向性的评论，写在转瞬即逝的行为范例中。（28.2）
 >
 > *Doing ethnography is like trying to read (in the sense of "[[Construct]] a reading of") a manuscript – foreign, faded, full of ellipses, incoherencies, suspicious emendations, and tendentious commentaries, but written not in conventionalized graphs of sound but in transient examples of shaped behavior. (Geertz, 1973, p. 10)*
 
-> [!citation-card]- Giddens 论[[Double Hermeneutic|双重诠释]]
+> [!citation-card]- Giddens 论[[Double Hermeneutic\|双重诠释]]
 > 由于获得的数据都包裹在社会事件之中，报告涉及一个双重诠释过程。研究者诠释参与者已经诠释过的世界，再以自己的语言把这种诠释转述给受众。（28.2）
 >
 > *Since the data obtained are all couched in "social events", reporting involves a double hermeneutic process (Giddens, 1976) by which the researcher interprets the data from participants who have already interpreted their world, and then relates them to the audience in his/her own words.*
 
 > [!citation-card]- Gibbs 论写作即思考
-> 写作就是思考，[[Qualitative Research|质性研究]]应尽早并频繁地开始书写与分析，而不是等数据收集结束。（28.2）
+> 写作就是思考，[[Qualitative Research\|质性研究]]应尽早并频繁地开始书写与分析，而不是等数据收集结束。（28.2）
 >
 > *"Writing is thinking" (Gibbs, 2007, p. 25).*
 
-> [!citation-card]- Walford 论[[Transcription in Qualitative Research|转录]]的拜物教
+> [!citation-card]- Walford 论[[Transcription in Qualitative Research\|转录]]的拜物教
 > 转录极其耗时，研究者须权衡转录的成本与收益；直接分析录音录像也是可取的替代方案。（28.1–28.2）
 >
 > *Walford (2001, p. 92), commenting on the "fetish of transcription", admits that he "rarely fully transcribed more than a few interviews for any of [his] research studies".*

@@ -54,14 +54,14 @@ updated: 2026-09-03
 > [!instrument-profile] Evaluation of Potential for [[Creativity]] (EPOC / EPoC)
 > - **工具类型** 多维创造潜能表现测验系统（涵盖发散与聚合双过程的认知表现测验）。
 > - **开发者与年份** Lubart, Besançon & Barbot (2011)。
-> - **测量目的** 用于诊断个体在不同认知加工模式（发散 vs 聚合）与不同表征领域（言语 vs 图形）中的创造潜能剖面图，检验[[Creativity Training|创造力教学]]干预成效。
+> - **测量目的** 用于诊断个体在不同认知加工模式（发散 vs 聚合）与不同表征领域（言语 vs 图形）中的创造潜能剖面图，检验[[Creativity Training\|创造力教学]]干预成效。
 > - **实施方式** 纸笔或计算机辅助测试（团体或个别施测，总测验时间约 30–40 分钟）。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] 双过程与跨领域[[Creativity|创造潜能]]（$2 \times 2$ 测评矩阵）
+> [!construct-table] 双过程与跨领域[[Creativity\|创造潜能]]（$2 \times 2$ 测评矩阵）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

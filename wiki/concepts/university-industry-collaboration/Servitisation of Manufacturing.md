@@ -8,7 +8,7 @@ aliases:
 summary: "制造业企业从单纯销售产品转向提供包含维护和支持在内的综合服务合同的商业模式变革，典型案例为 Rolls-Royce 的按小时出售动力模式，正在改变全球价值链上的价值分配方式"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,13 +17,14 @@ tags:
   - theme/business-model
   - level/higher-education
 related_concepts:
+  - "[[Source of Knowledge]]"
   - "[[Innovation Ecosystem]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 
 # Servitisation of Manufacturing
@@ -31,7 +32,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> 制造业服务化（Servitisation of Manufacturing）指制造业企业从单纯销售产品转向提供围绕其核心产品的综合服务合同的商业模式变革。企业不再仅出售设备本身，而是将设备与销售、使用和维护等关键服务打包成合同出售，从而改变价值在产业链上的分配方式（Neely, 2007; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, p.4)]]）。
+> 制造业服务化（Servitisation of Manufacturing）指制造业企业从单纯销售产品转向提供围绕其核心产品的综合服务合同的商业模式变革。企业不再仅出售设备本身，而是将设备与销售、使用和维护等关键服务打包成合同出售，从而改变价值在产业链上的分配方式（Neely, 2007; [[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, p.4)]]）。
 
 > [!example] Rolls-Royce 经典案例
 > Rolls-Royce 从销售飞机发动机转向与客户签订"按小时出售动力"（power-by-the-hour）合同——所有支持（包括维护）都包含在合同中。这一转变使 Rolls-Royce 从一次性产品销售商转变为持续的服务提供者，改变了其与航空客户的关系本质和收入模式（p.4）。
@@ -53,5 +54,5 @@ updated: 2026-09-10
 ## 理论语境
 
 > [!tip]-
-> - 与开放式创新的关系 — 制造业服务化是创新组织方式从封闭向开放转变的一部分；企业越来越依赖外部知识来源和合作伙伴来开发和交付服务化解决方案
-> - 与 [[Innovation Ecosystem|创新生态系统]] 的关系 — 服务化重新定义了企业在生态系统中的角色和与上下游伙伴的互动方式
+> - 与开放式创新的关系 — 制造业服务化是创新组织方式从封闭向开放转变的一部分；企业越来越依赖外部[[Source of Knowledge\|知识来源]]和合作伙伴来开发和交付服务化解决方案
+> - 与 [[Innovation Ecosystem\|创新生态系统]] 的关系 — 服务化重新定义了企业在生态系统中的角色和与上下游伙伴的互动方式

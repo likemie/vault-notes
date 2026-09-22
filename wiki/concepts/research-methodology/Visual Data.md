@@ -44,15 +44,15 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 视觉数据（visual data）指教育研究者能够看到、观看或注视，并可作为研究材料的一切图像性资料，包括照片、影片、录像、电视、广告、图片、[[Artefact|器物]]、美术品、地图、图画与漫画等。视觉数据不是中立的现实复制品，而是由图像生产、图像本身与图像受众三重维度构成的现实呈现（presentation of reality），需要被解读，且往往存在多重解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
+> 视觉数据（visual data）指教育研究者能够看到、观看或注视，并可作为研究材料的一切图像性资料，包括照片、影片、录像、电视、广告、图片、[[Artefact\|器物]]、美术品、地图、图画与漫画等。视觉数据不是中立的现实复制品，而是由图像生产、图像本身与图像受众三重维度构成的现实呈现（presentation of reality），需要被解读，且往往存在多重解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 视觉数据指向一切以图像形态存在、可供教育[[Research Utilization|研究使用]]的材料，范围从随手抓拍的快照到精心制作的油画。
+> - **含义** 视觉数据指向一切以图像形态存在、可供教育[[Research Utilization\|研究使用]]的材料，范围从随手抓拍的快照到精心制作的油画。
 > - **用途** 帮助看见文字与数字数据难以承载的层面，包括情境的即时性、情绪、氛围、物质环境与隐性信息。
 > - **边界** 视觉图像从来不是无辜的（never innocent）；它由图像制作者选择性建构，必须在社会与文化语境中被解读，不能当作单一客观现实。
 
 > [!citation-card]- Rose 论图像的非中立性
-> 视觉图像绝不是无辜的；它们包裹着层层意义与诠释，既是现实的呈现，又反过来被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1)]]
+> 视觉图像绝不是无辜的；它们包裹着层层意义与诠释，既是现实的呈现，又反过来被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 >
 > *Visual images are never innocent; they are wrapped up in many layers of meaning and interpretation. (Rose, 2007, p. 26)*
 
@@ -75,21 +75,21 @@ updated: 2026-09-17
 >   受众是图像的基本特征，受众以自身价值观、传记、文化与背景去观看和阅读图像，同一图像因此存在多重解读。
 
 > [!warning] 视觉数据的选择性
-> 图像虽然能记录镜头前的真实，但图像制作者已经决定纳入或排除什么、聚焦何处、镜头指向哪里（Becker, 1986; Denzin, 1989）。图像是时间绑定的，捕捉的是特定瞬间。因此更稳妥的做法是把视觉图像视为在讲述一个故事（a discourse），而非呈现单一客观现实；伴随图像的说明文字同样是选择性的叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1)]]
+> 图像虽然能记录镜头前的真实，但图像制作者已经决定纳入或排除什么、聚焦何处、镜头指向哪里（Becker, 1986; Denzin, 1989）。图像是时间绑定的，捕捉的是特定瞬间。因此更稳妥的做法是把视觉图像视为在讲述一个故事（a discourse），而非呈现单一客观现实；伴随图像的说明文字同样是选择性的叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 
-> [!warning] 数据过载与[[Triangulation|三角互证]]
-> 单幅图像或单个录像序列贮存大量信息，从而带来数据过载、选择性与可管理性问题。视觉数据很少独立成局，通常作为[[Triangulation|三角互证]]数据中的一种元素，与其他文字、听觉、口头与观察数据并列使用。
+> [!warning] 数据过载与[[Triangulation\|三角互证]]
+> 单幅图像或单个录像序列贮存大量信息，从而带来数据过载、选择性与可管理性问题。视觉数据很少独立成局，通常作为[[Triangulation\|三角互证]]数据中的一种元素，与其他文字、听觉、口头与观察数据并列使用。
 
 ## 围绕概念形成的命题
 
-> [!concept-lens] 视觉图像的[[Epistemology|认识论]]地位
+> [!concept-lens] 视觉图像的[[Epistemology\|认识论]]地位
 > 视觉图像能否如实反映现实，是贯穿该概念的核心张力：图像一方面具有记录真实的功能，另一方面又是被建构、被选择、被多重解读的。
 
 > [!claim] Rose (2007)
-> **视觉图像绝不是无辜的** 视觉图像包裹着层层意义与诠释，作为现实的呈现被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1)]]
+> **视觉图像绝不是无辜的** 视觉图像包裹着层层意义与诠释，作为现实的呈现被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 
 > [!claim] Cohen, Manion & Morrison（2011）
-> **把图像视为话语而非客观现实** 鉴于图像的选择性与时间绑定性质，更稳妥的做法是把视觉图像视为在讲述一个故事（一种话语），而不是单一客观现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1)]]
+> **把图像视为话语而非客观现实** 鉴于图像的选择性与时间绑定性质，更稳妥的做法是把视觉图像视为在讲述一个故事（一种话语），而不是单一客观现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 
 ## 概念辨析
 
@@ -102,5 +102,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 系统介绍视觉数据的类型（Prosser & Loxley 四类）、来源、生产—图像—受众三重维度，及其在照片、影片与[[Artefact|器物]]研究中的应用。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]] — 系统介绍视觉数据的类型（Prosser & Loxley 四类）、来源、生产—图像—受众三重维度，及其在照片、影片与[[Artefact\|器物]]研究中的应用。

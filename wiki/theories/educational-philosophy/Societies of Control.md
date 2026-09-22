@@ -44,10 +44,10 @@ updated: 2026-06-02
 ## 核心主张
 
 > [!tip]-
-> Deleuze（1992）在其短文 Postscript on the Societies of Control 中提出了从[[Disciplina and Doctrina|规训]]社会（societies of discipline）向控制社会（societies of control）转型的核心命题：Foucault 所分析的规训性社会控制——通过封闭机构（家庭、学校、工厂、军营、医院、监狱）实施的权力——正在被一种新的支配体系的渐进和分散式安装所取代，后者以超快形式的自由浮动控制为特征(Deleuze, 1992, pp.4, 7; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
+> Deleuze（1992）在其短文 Postscript on the Societies of Control 中提出了从[[Disciplina and Doctrina\|规训]]社会（societies of discipline）向控制社会（societies of control）转型的核心命题：Foucault 所分析的规训性社会控制——通过封闭机构（家庭、学校、工厂、军营、医院、监狱）实施的权力——正在被一种新的支配体系的渐进和分散式安装所取代，后者以超快形式的自由浮动控制为特征(Deleuze, 1992, pp.4, 7; [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.221–222]])。
 
 > [!quote]
-> "Disciplinary forms of social control are increasingly replaced by a 'progressive and dispersed installation of a new system of domination' (Deleuze, 1992, 7), which installs 'ultrarapid forms of free-floating control' (ibid., 4)."([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
+> "Disciplinary forms of social control are increasingly replaced by a 'progressive and dispersed installation of a new system of domination' (Deleuze, 1992, 7), which installs 'ultrarapid forms of free-floating control' (ibid., 4)."([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.221–222]])
 > 
 > 规训形式的社会控制日益被一种新的支配体系的渐进和分散式安装所取代，这种体系安装了超快形式的自由浮动控制。
 
@@ -63,7 +63,7 @@ Deleuze 用**模具（mold）**和**调制（modulation）**的隐喻来区分�
 - **控制社会 = 调制** 像一种永远在变化的铸模，参数持续调整——你从未被释放，只是从一个调制进入另一个调制
 
 > [!example]
-> 在规训社会中，考试是权力的节点——学生在考试前被规训、考试后被释放（即使只是暂时的）。在控制社会中，[[Learning Analytics|学习分析]]系统在学习全程中持续追踪学生的每一项行为，从入学前的 [[Online Self-Assessment|OSA]] 到毕业后的校友追踪，干预信号持续流动。学生可能被标记为高风险并自动触发辅导员介入——但她从未被开除。这就是 Deleuze 所说的关键差异：在控制社会中，解雇不再存在（Deleuze, 1992, p.5）。
+> 在规训社会中，考试是权力的节点——学生在考试前被规训、考试后被释放（即使只是暂时的）。在控制社会中，[[Learning Analytics\|学习分析]]系统在学习全程中持续追踪学生的每一项行为，从入学前的 [[Online Self-Assessment\|OSA]] 到毕业后的校友追踪，干预信号持续流动。学生可能被标记为高风险并自动触发辅导员介入——但她从未被开除。这就是 Deleuze 所说的关键差异：在控制社会中，解雇不再存在（Deleuze, 1992, p.5）。
 
 ### 机构向网络的转化
 
@@ -99,5 +99,5 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 ## 相关研究
 
 > [!example]
-> - [[Argument_Thompson_2022_Promising_Student]] — 以控制社会理论作为分析 [[Online Self-Assessment|OSA]] 和竞争性大学治理的核心框架
+> - [[Argument_Thompson_2022_Promising_Student]] — 以控制社会理论作为分析 [[Online Self-Assessment\|OSA]] 和竞争性大学治理的核心框架
 

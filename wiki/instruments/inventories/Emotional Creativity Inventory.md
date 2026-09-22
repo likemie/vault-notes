@@ -54,13 +54,13 @@ updated: 2026-09-11
 > - **工具类型** 心理自陈量表（情绪特质与体验测评量表）。
 > - **开发者与年份** Averill (1999)。
 > - **测量目的** 测定个体在情绪感知、情感深化、独特情绪表达与情绪调适中的非认知创造潜能。
-> - **实施方式** 纸笔或在线[[Questionnaire|问卷]]自陈（无时间限制，平均施测耗时 8–10 分钟）。
+> - **实施方式** 纸笔或在线[[Questionnaire\|问卷]]自陈（无时间限制，平均施测耗时 8–10 分钟）。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] 情绪[[Creativity|创造力]]（Emotional Creativity）
+> [!construct-table] 情绪[[Creativity\|创造力]]（Emotional Creativity）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

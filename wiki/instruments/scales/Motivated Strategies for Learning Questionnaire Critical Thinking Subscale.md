@@ -51,17 +51,17 @@ updated: 2026-08-03
 
 ## 工具定位
 
-> [!instrument-profile] MSLQ [[Critical Thinking|批判性思维]]分量表
-> - **工具类型** 学习动机策略[[Questionnaire|问卷]]中的五题自陈分量表。
+> [!instrument-profile] MSLQ [[Critical Thinking\|批判性思维]]分量表
+> - **工具类型** 学习动机策略[[Questionnaire\|问卷]]中的五题自陈分量表。
 > - **开发者与年份** Pintrich et al. (1993)。
-> - **测量目的** 测量学生自报的批判性思维策略使用，可作为 [[Critical Thinking Strategies Scale|CTSS]] 的既有量表参照。
+> - **测量目的** 测量学生自报的批判性思维策略使用，可作为 [[Critical Thinking Strategies Scale\|CTSS]] 的既有量表参照。
 > - **实施方式** 自陈。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]
+> [!construct-table] [[Critical Thinking\|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -73,7 +73,7 @@ updated: 2026-08-03
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **作答格式** 七点量表，4 表示“比较符合我”，7 表示“非常符合我”；其余锚点 — [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 252, 254)]]
+> - **作答格式** 七点量表，4 表示“比较符合我”，7 表示“非常符合我”；其余锚点 — [[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 252, 254)]]
 > - **反向题与跳题** —
 
 ---

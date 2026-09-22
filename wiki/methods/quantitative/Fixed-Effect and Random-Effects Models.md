@@ -67,14 +67,14 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 固定效应模型（Fixed-Effect Model）与随机效应模型（Random-Effects Model）是[[Meta-analysis|元分析]]中用于加权合成初级研究[[Effect Size|效应量]]的两种根本性统计建模[[Paradigm|范式]]。它们的核心分歧在于**对跨研究效应量变异来源的方法论[[Hypothesis|假设]]**
-> - **固定效应模型** 假定所有纳入研究共享同一个恒定不变的真实效应量 $\theta$，观察到的研究间差异纯粹源于初级研究内部的随机[[Sampling Error|抽样误差]]（Sampling Error）；
-> - **随机效应模型** 假定各初级研究的真实效应量本身存在实质性[[Heterogeneity|异质性]]，属于广义总体效应分布的一个[[Random Sampling|随机抽样]]样本，因而模型同时分解“研究内抽样方差”（Within-study variance）与“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
+> 固定效应模型（Fixed-Effect Model）与随机效应模型（Random-Effects Model）是[[Meta-analysis\|元分析]]中用于加权合成初级研究[[Effect Size\|效应量]]的两种根本性统计建模[[Paradigm\|范式]]。它们的核心分歧在于**对跨研究效应量变异来源的方法论[[Hypothesis\|假设]]**
+> - **固定效应模型** 假定所有纳入研究共享同一个恒定不变的真实效应量 $\theta$，观察到的研究间差异纯粹源于初级研究内部的随机[[Sampling Error\|抽样误差]]（Sampling Error）；
+> - **随机效应模型** 假定各初级研究的真实效应量本身存在实质性[[Heterogeneity\|异质性]]，属于广义总体效应分布的一个[[Random Sampling\|随机抽样]]样本，因而模型同时分解“研究内抽样方差”（Within-study variance）与“[[Between-Study Variance\|研究间真实方差]]”（Between-study variance, $\tau^2$）。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 纳入元分析的 $k$ 项独立初级研究的效应量点估计值及其抽样方差。
-> - **核心决策** 根据研究设计异质性、[[Construct|理论构念]]一致性及统计检验（$Q$ 检验与 $I^2$ 指标）决定采用何种模型加权合成。
-> - **输出指标** 合并加权平均效应量点估计值、95% [[Confidence Interval|置信区间]]（CI）及在随机效应模型下的 95% [[Prediction Interval|预测区间]]（PI）。
+> - **核心决策** 根据研究设计异质性、[[Construct\|理论构念]]一致性及统计检验（$Q$ 检验与 $I^2$ 指标）决定采用何种模型加权合成。
+> - **输出指标** 合并加权平均效应量点估计值、95% [[Confidence Interval\|置信区间]]（CI）及在随机效应模型下的 95% [[Prediction Interval\|预测区间]]（PI）。
 
 ---
 
@@ -100,7 +100,7 @@ flowchart TD
 > **最优逆方差权重**
 > $$w_i = \frac{1}{v_i}$$
 >
-> **加权合并[[Effect Size|效应量]]与方差**
+> **加权合并[[Effect Size\|效应量]]与方差**
 > $$\hat{\theta}_{\text{FE}} = \frac{\sum_{i=1}^k w_i y_i}{\sum_{i=1}^k w_i}, \quad \text{Var}(\hat{\theta}_{\text{FE}}) = \frac{1}{\sum_{i=1}^k w_i}$$
 >
 > **推断范围** 推论严格局限于所纳入的这 $k$ 项特定研究集合，不可外推至更广泛的未知总体。
@@ -110,7 +110,7 @@ flowchart TD
 > [!formula-step] 随机效应统计模型
 > $$y_i = \theta_i + \epsilon_i = \mu + u_i + \epsilon_i, \quad u_i \sim N(0, \tau^2), \quad \epsilon_i \sim N(0, v_i)$$
 >
-> 其中 $\mu$ 为总体真实效应均值，$u_i$ 为第 $i$ 项研究偏离总均值的真实离差，$\epsilon_i$ 为测量[[Sampling Error|抽样误差]]。
+> 其中 $\mu$ 为总体真实效应均值，$u_i$ 为第 $i$ 项研究偏离总均值的真实离差，$\epsilon_i$ 为测量[[Sampling Error\|抽样误差]]。
 >
 > **随机效应调整权重**
 > $$w_i^* = \frac{1}{v_i + \tau^2}$$
@@ -138,7 +138,7 @@ flowchart TD
 > [!math-principle] 权重再平衡（Weight Leveling Effect）与小研究效应敏感性
 > 当真实异质性极大（$\tau^2 \gg v_i$）时，随机效应权重 $w_i^* = \frac{1}{v_i + \tau^2} \to \frac{1}{\tau^2}$，这意味着所有研究的权重几乎变得完全相同。
 >
-> **方法学警示** 如果[[Document|文献]]库中存在严重的[[Publication Bias|发表偏倚]]（即存在若干具有夸大效应的小样本劣质研究），随机效应模型因相对提升了小研究的权重，其合并均值 $\hat{\mu}_{\text{RE}}$ 反而可能比固定效应估计值 $\hat{\theta}_{\text{FE}}$ 更容易被高估。因此，在报告随机效应模型时，必须严格配合[[Funnel Plot|漏斗图]]、Egger 检验与[[Trim and Fill Method|剪补法]]进行发表偏倚诊断。
+> **方法学警示** 如果[[Document\|文献]]库中存在严重的[[Publication Bias\|发表偏倚]]（即存在若干具有夸大效应的小样本劣质研究），随机效应模型因相对提升了小研究的权重，其合并均值 $\hat{\mu}_{\text{RE}}$ 反而可能比固定效应估计值 $\hat{\theta}_{\text{FE}}$ 更容易被高估。因此，在报告随机效应模型时，必须严格配合[[Funnel Plot\|漏斗图]]、Egger 检验与[[Trim and Fill Method\|剪补法]]进行发表偏倚诊断。
 
 ---
 
@@ -164,8 +164,8 @@ flowchart TD
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述固定与随机效应模型在教育与医学证据综合中的方法论差异与演进历史。
-> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从固定效应数学等价性推导[[Meta-meta-analysis|二阶元分析]]六项方法论前提，批判 Hattie 违背独立性假定。
-> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 在 341 项[[Critical Thinking|批判性思维]][[Intervention Research|干预研究]]中全面采用随机效应模型与混合效应[[Meta-regression|元回归]]。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍[[Meta-analysis|元分析]]加权模型与[[Heterogeneity|异质性]]控制准则。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述固定与随机效应模型在教育与医学证据综合中的方法论差异与演进历史。
+> - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — 从固定效应数学等价性推导[[Meta-meta-analysis\|二阶元分析]]六项方法论前提，批判 Hattie 违背独立性假定。
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 在 341 项[[Critical Thinking\|批判性思维]][[Intervention Research\|干预研究]]中全面采用随机效应模型与混合效应[[Meta-regression\|元回归]]。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍[[Meta-analysis\|元分析]]加权模型与[[Heterogeneity\|异质性]]控制准则。

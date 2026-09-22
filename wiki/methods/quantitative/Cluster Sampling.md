@@ -34,12 +34,12 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 整群抽样（Cluster Sampling）是当总体大且广泛分散时，选择特定数量的地理或组织上聚集的群组（如学校、社区），测试这些群中所有成员的[[Random Sampling|概率抽样]]方法。它解决了简单随机抽样在行政上的不可行性——如调查全国学生体能水平，随机选取学生并四处奔波测试完全不切实际。
+> 整群抽样（Cluster Sampling）是当总体大且广泛分散时，选择特定数量的地理或组织上聚集的群组（如学校、社区），测试这些群中所有成员的[[Random Sampling\|概率抽样]]方法。它解决了简单随机抽样在行政上的不可行性——如调查全国学生体能水平，随机选取学生并四处奔波测试完全不切实际。
 
 > [!method-scope] 方法范围
 > - **研究对象** 地理或组织上自然聚集的群体
 > - **问题类型** 需要大规模覆盖但行政资源有限的研究
-> - **[[Unit of Analysis|分析单位]]** 群（cluster），群内所有成员
+> - **[[Unit of Analysis\|分析单位]]** 群（cluster），群内所有成员
 > - **输出形式** 以群为单位的概率样本
 
 ## 研究程序
@@ -65,5 +65,5 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍整群抽样的适用条件和偏差风险。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍整群抽样的适用条件和偏差风险。

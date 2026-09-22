@@ -47,7 +47,7 @@ updated: 2026-08-25
 
 ## 工具定位
 
-> [!instrument-profile] 加州[[Critical Thinking|批判性思维]]倾向[[Questionnaire|问卷]]
+> [!instrument-profile] 加州[[Critical Thinking\|批判性思维]]倾向[[Questionnaire\|问卷]]
 > - **工具类型** 七十五题商业化自陈问卷。
 > - **开发者与年份** Insight Assessment (2000)。
 > - **测量目的** 测量个体将批判性思维作为自然思维习惯加以运用的倾向，而非直接测量任务中的批判性思维表现。
@@ -57,7 +57,7 @@ updated: 2026-08-25
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]
+> [!construct-table] [[Critical Thinking\|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

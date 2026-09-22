@@ -40,7 +40,7 @@ updated: 2026-06-10
 ## 背景
 
 > [!info]
-> ISCF 是英国 2017 年产业战略（Industrial Strategy: Building a Britain Fit for the Future）的核心资助机制。在英国科学预算于 2021/22 前的四年期间追加 47 亿英镑的大背景下，大量资金通过 ISCF 投入产业主导、产业参与的研究和创新优先领域。这些挑战通常强调加强学术界和产业界之间的伙伴关系。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 5-6)]]
+> ISCF 是英国 2017 年产业战略（Industrial Strategy: Building a Britain Fit for the Future）的核心资助机制。在英国科学预算于 2021/22 前的四年期间追加 47 亿英镑的大背景下，大量资金通过 ISCF 投入产业主导、产业参与的研究和创新优先领域。这些挑战通常强调加强学术界和产业界之间的伙伴关系。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 5-6)]]
 
 ---
 ## 政策文本摘要

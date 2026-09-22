@@ -77,10 +77,10 @@ updated: 2026-09-17
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 如何最有效地在各级教育中发展和培养学生的[[Critical Thinking|批判性思维]]技能与倾向。
+> - **解释对象** 如何最有效地在各级教育中发展和培养学生的[[Critical Thinking\|批判性思维]]技能与倾向。
 > - **理论问题** 批判性思维应当作为独立课程显性教授，还是作为各学科内容的副产品隐性培养？这一争论涉及课程设计、教师培训和学生学习迁移等核心教育问题。
-> - **理论类型** 中层[[Didaktik|教学理论]]（mid-level pedagogical theory），在认知心理学和教育实证研究的基础上，对教学路径的有效性做出可检验的预测。
-> - **知识位置** 教育心理学与课程研究的交叉领域。关键文本包括 [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 的[[Meta-analysis|元分析]]、Marin & Halpern（2011）的[[Experimental Research|实验研究]]，以及 Facione（1990）的 Delphi 报告。
+> - **理论类型** 中层[[Didaktik\|教学理论]]（mid-level pedagogical theory），在认知心理学和教育实证研究的基础上，对教学路径的有效性做出可检验的预测。
+> - **知识位置** 教育心理学与课程研究的交叉领域。关键文本包括 [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的[[Meta-analysis\|元分析]]、Marin & Halpern（2011）的[[Experimental Research\|实验研究]]，以及 Facione（1990）的 Delphi 报告。
 
 > [!claim] 核心主张
 > 批判性思维技能通过显性的、有目的的独立课程教授，比通过在各学科内部隐性融入的方式更能有效提升学生的批判性思维能力和倾向；这一效果在教师接受专门培训且教学受到评估时最为显著。
@@ -103,16 +103,16 @@ updated: 2026-09-17
 
 ## 核心命题与机制
 
-> [!proposition-chain] 核心命题一｜显性独立教学比隐性融入教学更能提升学生的[[Critical Thinking|批判性思维]]技能
+> [!proposition-chain] 核心命题一｜显性独立教学比隐性融入教学更能提升学生的[[Critical Thinking\|批判性思维]]技能
 > - **前提一** 批判性思维是一组可识别的、可教学的认知技能（澄清、分析、评估、推理、自我调节），不完全依赖于特定学科内容知识（Facione, 1990）。
-> - **前提二** 大规模[[Meta-analysis|元分析]]汇总 341 项标准化实验与准实验[[Effect Size|效应量]]证实：显性教学与学科结合的混合模式（Mixed approach）干预效果最高（$g+ = 0.38$），而将批判性思维仅作为学科学习副产品（隐性沉浸）的条件效果最弱（$g+ = 0.23$）（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）。
+> - **前提二** 大规模[[Meta-analysis\|元分析]]汇总 341 项标准化实验与准实验[[Effect Size\|效应量]]证实：显性教学与学科结合的混合模式（Mixed approach）干预效果最高（$g+ = 0.38$），而将批判性思维仅作为学科学习副产品（隐性沉浸）的条件效果最弱（$g+ = 0.23$）（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
 >   > [!evidence-grid]- 证据
->   > - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 元分析** 341 项标准化实验与准实验[[Effect Size|效应量]]。Ennis 课程模式检验显示，结合显性独立教学与学科融入的混合模式（Mixed approach）获得最高增益（$g+ = 0.38$）；同时，将[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]结合的三维复合干预产生最强效应（$g+ = 0.57$）。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 293–295)]]
->   > - **Marin & Halpern (2011)** 两项[[Experimental Research|实验研究]]：在低表现学校的课后班和课内教学中，显性教学组的高中生在批判性思维技能上均显著优于隐性教学组。
+>   > - **[[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 元分析** 341 项标准化实验与准实验[[Effect Size\|效应量]]。Ennis 课程模式检验显示，结合显性独立教学与学科融入的混合模式（Mixed approach）获得最高增益（$g+ = 0.38$）；同时，将[[Authentic Instruction\|真实性教学]]、[[Dialogue in Education\|对话]]与[[Mentorship\|导师制]]结合的三维复合干预产生最强效应（$g+ = 0.57$）。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]]
+>   > - **Marin & Halpern (2011)** 两项[[Experimental Research\|实验研究]]：在低表现学校的课后班和课内教学中，显性教学组的高中生在批判性思维技能上均显著优于隐性教学组。
 > - **推导** 如果批判性思维是一组可独立于学科内容教学的通用认知技能（前提一），且跨大量研究的元分析一致显示显性教学的效果优于隐性教学（前提二），那么可以合理推断显性独立教学路径是更有效的教学策略。这一推导不否认领域知识的重要性，但指出领域知识并不能自动产生批判性思维——需要显性的指导和练习。
 
-> [!proposition-chain] 核心命题二｜教师培训是调节显性教学效果的关键[[Variable|变量]]
-> - **前提一** 元分析与干预实证表明，当教师接受了批判性思维教学的专门培训（明确掌握提问句干、[[Scaffolding|认知脚手架]]设计）、且教学过程融入个别化指导时，学生批判性思维技能的获得最高（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）。
+> [!proposition-chain] 核心命题二｜教师培训是调节显性教学效果的关键[[Variable\|变量]]
+> - **前提一** 元分析与干预实证表明，当教师接受了批判性思维教学的专门培训（明确掌握提问句干、[[Scaffolding\|认知脚手架]]设计）、且教学过程融入个别化指导时，学生批判性思维技能的获得最高（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
 > - **前提二** 大规模调查显示，尽管 $90\%$–$97\%$ 的教师声称重视批判性思维教学，但只有 $19\%$ 能清晰解释批判性思维的定义，仅 $9\%$ 在实际课堂中教授批判性思维（Paul et al., 1997, p. 18）。
 >   > [!evidence-grid]- 证据
 >   > - **Paul et al. (1997)** 加州教师准备研究：发现教师的批判性思维教学知识和技能严重不足。
@@ -120,33 +120,33 @@ updated: 2026-09-17
 > - **推导** 教师批判性思维教学法的知识和技能不足（前提二），而培训能显著提升教学效果（前提一），因此显性教学路径能否成功在很大程度上取决于教师培训的质量。缺乏培训支持的显性课程很可能名存实亡，沦为另一种形式的"隐性教学"。
 
 > [!proposition-chain] 核心命题三｜隐性融入路径在实践中有被边缘化的风险
-> - **前提一** 在以内容为本的传统课程占主导的教育体系中（如澳大利亚），批判性思维如果在各学科中仅作为隐性期望存在，则更可能在课程需求增加时被挤出，特别是当它不被定位为可测量的学习成果时（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 249]]）。
+> - **前提一** 在以内容为本的传统课程占主导的教育体系中（如澳大利亚），批判性思维如果在各学科中仅作为隐性期望存在，则更可能在课程需求增加时被挤出，特别是当它不被定位为可测量的学习成果时（[[Argument_Cole_2015_AJE\|Cole et al., 2015, p. 249]]）。
 > - **前提二** 教师倾向于将批判性思维视为仅与高成就学生相关的能力，尽管证据表明批判性思维对所有学生都有益（Dweck, 2002; Halpern, 2003; Zohar & Dori, 2003）。
 >   > [!evidence-grid]- 证据
->   > - **新南威尔士州** 批判性思维主要通过资优班、选拔性学校和选拔性分流来提供，实际效果是将批判性思维教育保留给通过标准化测试被归类为高成就者的学生（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 251]]）。
->   > - **维多利亚州** 批判性思维被整合为跨学科"批判与[[Creativity|创造性]]思维"能力，但由于缺乏专门的课程和教师培训，其实施高度依赖个别教师和[[School Leadership|学校领导]]的意愿（p.5）。
+>   > - **新南威尔士州** 批判性思维主要通过资优班、选拔性学校和选拔性分流来提供，实际效果是将批判性思维教育保留给通过标准化测试被归类为高成就者的学生（[[Argument_Cole_2015_AJE\|Cole et al., 2015, p. 251]]）。
+>   > - **维多利亚州** 批判性思维被整合为跨学科"批判与[[Creativity\|创造性]]思维"能力，但由于缺乏专门的课程和教师培训，其实施高度依赖个别教师和[[School Leadership\|学校领导]]的意愿（p.5）。
 > - **推导** 隐性融入路径在制度层面缺乏保障机制。它依赖教师个人意愿（前提二），且在课程压力下容易被挤占（前提一）。因此，即使从理论上隐性融入可以运作，在实践中它往往导致批判性思维教育的不均衡提供，弱势学生更可能被排除在外。
 
 > [!proposition-chain]- 延伸命题
-> - **推论一（源自核心命题一）** 在拥挤的课程格局中设置一门独立的批判性思维课程（如 ToK），并配备专门培训的教师，是提高全体学生批判性思维技能的有效策略。[[IB Diploma Programme|IB DP]] 的实践为此提供了实证案例：ToK 作为独立课程为学生提供了不受学科内容复制压力影响的批判性思维实践空间（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 259]]）。
-> - **推论二（源自核心命题二和三）** 即使开设了独立课程，批判性思维教学的效果仍取决于学校的实施方式。[[Case Study|案例研究]]显示，不同学校对同一门 ToK 课程的诠释和[[Operationalization|操作化]]差异很大——有的学校将 ToK 视为全校批判性思维计划的核心，有的学校则过度依赖全班讨论而缺乏目的性教学（[[Argument_Cole_2015_AJE|Cole et al., 2015, pp. 256–257]]）。
+> - **推论一（源自核心命题一）** 在拥挤的课程格局中设置一门独立的批判性思维课程（如 ToK），并配备专门培训的教师，是提高全体学生批判性思维技能的有效策略。[[IB Diploma Programme\|IB DP]] 的实践为此提供了实证案例：ToK 作为独立课程为学生提供了不受学科内容复制压力影响的批判性思维实践空间（[[Argument_Cole_2015_AJE\|Cole et al., 2015, p. 259]]）。
+> - **推论二（源自核心命题二和三）** 即使开设了独立课程，批判性思维教学的效果仍取决于学校的实施方式。[[Case Study\|案例研究]]显示，不同学校对同一门 ToK 课程的诠释和[[Operationalization\|操作化]]差异很大——有的学校将 ToK 视为全校批判性思维计划的核心，有的学校则过度依赖全班讨论而缺乏目的性教学（[[Argument_Cole_2015_AJE\|Cole et al., 2015, pp. 256–257]]）。
 
 > [!exegesis]- 教育研究例子
-> 以核心命题一为例：[[Hypothesis|假设]]一所学校在 11–12 年级设置了一门独立的批判性思维课程（如 ToK），每周 3 课时。教师接受了专门的批判性思维教学法培训，课程设计包括分析论证结构、评估证据质量、识别逻辑谬误、撰写论证文等显性教学活动。与此同时，另一所学校将批判性思维列为所有学科的"隐性期望"，但没有专门课程或教师培训。根据本理论的预测，第一所学校的学生在标准化批判性思维测量上应表现出更高的技能水平和更强的思维倾向——这一预测在 [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 的澳大利亚研究中得到了初步支持：完成 ToK 课程的学生在 [[Critical Thinking Strategies Scale|CTSS]]、[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 批判性思维分量表和 [[California Critical Thinking Disposition Inventory|CCTDI]] 上的得分均高于对照组。
+> 以核心命题一为例：[[Hypothesis\|假设]]一所学校在 11–12 年级设置了一门独立的批判性思维课程（如 ToK），每周 3 课时。教师接受了专门的批判性思维教学法培训，课程设计包括分析论证结构、评估证据质量、识别逻辑谬误、撰写论证文等显性教学活动。与此同时，另一所学校将批判性思维列为所有学科的"隐性期望"，但没有专门课程或教师培训。根据本理论的预测，第一所学校的学生在标准化批判性思维测量上应表现出更高的技能水平和更强的思维倾向——这一预测在 [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] 的澳大利亚研究中得到了初步支持：完成 ToK 课程的学生在 [[Critical Thinking Strategies Scale\|CTSS]]、[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 批判性思维分量表和 [[California Critical Thinking Disposition Inventory\|CCTDI]] 上的得分均高于对照组。
 
 ---
 
 ## 理论立场与使用方式
 
-> [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]** [[Critical Thinking|批判性思维]]被视为一组可识别、可教学、可测量的认知技能和倾向，而非仅是个体特质或文化[[Habitus|习性]]的产物。
-> - **认识论** 本理论依赖教育心理学实证研究（实验、准实验、[[Meta-analysis|元分析]]）的证据，将教学效果的[[Operationalization|操作化]]定义为学生在标准化测量上的得分变化。
-> - **方法含义** 支持使用[[Randomised Controlled Trials|随机对照试验]]、[[Quasi-Experimental Designs|准实验设计]]和元分析来检验不同教学路径的效果；需要有效的批判性思维测量工具（如 [[California Critical Thinking Disposition Inventory|CCTDI]]、[[Critical Thinking Strategies Scale|CTSS]] 等）。
+> [!theory-stance] [[Epistemology\|认识论]]立场
+> - **[[Ontology\|本体论]]** [[Critical Thinking\|批判性思维]]被视为一组可识别、可教学、可测量的认知技能和倾向，而非仅是个体特质或文化[[Habitus\|习性]]的产物。
+> - **认识论** 本理论依赖教育心理学实证研究（实验、准实验、[[Meta-analysis\|元分析]]）的证据，将教学效果的[[Operationalization\|操作化]]定义为学生在标准化测量上的得分变化。
+> - **方法含义** 支持使用[[Randomised Controlled Trials\|随机对照试验]]、[[Quasi-Experimental Designs\|准实验设计]]和元分析来检验不同教学路径的效果；需要有效的批判性思维测量工具（如 [[California Critical Thinking Disposition Inventory\|CCTDI]]、[[Critical Thinking Strategies Scale\|CTSS]] 等）。
 > - **不能直接推出的东西** 不能从"显性教学更有效"直接推出"应在所有学校强制开设批判性思维独立课程"——这一推论需要额外的政策分析（课程空间、教师供给、资源成本和公平性考量）。也不能推出"学科教师不需要教授批判性思维"——理想状态是在独立课程和跨学科融入之间建立互补关系。
 
 > [!theory-use] 如何用于研究
-> - **作为理论框架** 用于组织关于批判性思维教学效果的[[Research Question|研究问题]]：教学路径（显性 vs 隐性）、教师[[Variable|变量]]（培训 vs 未培训）、学生变量（年级间增长、群体间差异）如何交互影响批判性思维结果。
-> - **作为分析工具** 用于[[Coding in Qualitative Research|编码]]和比较不同教育项目或政策的批判性思维教学方式，判断其属于显性还是隐性路径，并预测其可能的效果。
+> - **作为理论框架** 用于组织关于批判性思维教学效果的[[Research Question\|研究问题]]：教学路径（显性 vs 隐性）、教师[[Variable\|变量]]（培训 vs 未培训）、学生变量（年级间增长、群体间差异）如何交互影响批判性思维结果。
+> - **作为分析工具** 用于[[Coding in Qualitative Research\|编码]]和比较不同教育项目或政策的批判性思维教学方式，判断其属于显性还是隐性路径，并预测其可能的效果。
 > - **作为批判视角** 用于揭示隐性融入路径在实践中的制度性缺陷，特别是批判性思维教育在弱势学生群体中的不平等提供。
 > - **报告方式** 研究成果应说明教学路径的操作化定义、教师培训情况、测量工具的信效度，以及研究设计能否分离显性教学的效果与其他混淆变量（如选课效应）。
 
@@ -155,9 +155,9 @@ updated: 2026-09-17
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 不同教学路径（显性 vs 隐性）对[[Critical Thinking|批判性思维]]技能和倾向的相对效果；教师培训在批判性思维教学中的调节作用；批判性思维教育不平等提供的制度原因。
-> - **谨慎使用** 在课程文化差异显著的教育体系之间进行比较推广时（如西方 vs 东亚课堂文化）；在缺乏有效批判性思维测量工具的研究情境中；在无法排除选课效应和学校间[[Heterogeneity|异质性]]的观察性研究中。
-> - **不适合解释** 批判性思维技能如何具体地在个体认知层面发展（需要认知发展理论）；特定学科内部的论证标准和推理模式（需要领域[[Epistemology|认识论]]）；批判性思维的社会文化和政治维度（需要[[Critical Pedagogy|批判教育学]]视角）。
+> - **适合解释** 不同教学路径（显性 vs 隐性）对[[Critical Thinking\|批判性思维]]技能和倾向的相对效果；教师培训在批判性思维教学中的调节作用；批判性思维教育不平等提供的制度原因。
+> - **谨慎使用** 在课程文化差异显著的教育体系之间进行比较推广时（如西方 vs 东亚课堂文化）；在缺乏有效批判性思维测量工具的研究情境中；在无法排除选课效应和学校间[[Heterogeneity\|异质性]]的观察性研究中。
+> - **不适合解释** 批判性思维技能如何具体地在个体认知层面发展（需要认知发展理论）；特定学科内部的论证标准和推理模式（需要领域[[Epistemology\|认识论]]）；批判性思维的社会文化和政治维度（需要[[Critical Pedagogy\|批判教育学]]视角）。
 > - **常见误用** 将"显性教学更有效"理解为"学科教师不需要培养批判性思维"；将 ToK 的成功等同于任何独立思维课程都能成功，忽视课程设计质量、教师培训和学校实施文化的关键调节作用。
 
 ---
@@ -166,18 +166,18 @@ updated: 2026-09-17
 
 > [!debates] 理论争议
 >
-> > [!axis] 通用技能 vs [[Domain Specificity|领域特异性]]（Generality vs Domain-Specificity）
-> > 显性教学路径的前提是[[Critical Thinking|批判性思维]]可以作为通用技能教授和迁移，但领域特异性学者质疑这一前提。
+> > [!axis] 通用技能 vs [[Domain Specificity\|领域特异性]]（Generality vs Domain-Specificity）
+> > 显性教学路径的前提是[[Critical Thinking\|批判性思维]]可以作为通用技能教授和迁移，但领域特异性学者质疑这一前提。
 > >
 > > - **Willingham（2007）** 认为批判性思维不是一组可脱离内容教学的通用技能。在科学中评估证据与在历史中评估证据所需的背景知识完全不同。
 > > - **Bailin（2002）** 主张不同学科中构成有效论证、证据和标准的内容各不相同，通用批判性思维课程难以覆盖所有领域的论证标准。
-> > - **[[Argument_Abrami_2015_RER|Abrami et al.（2015）]]** 的[[Meta-analysis|元分析]]数据表明，即使考虑领域差异，显性[[Blended Learning|混合教学]]效果仍显著优于隐性教学，说明至少存在可跨学科教学的核心批判性思维技能。
+> > - **[[Argument_Abrami_2015_RER\|Abrami et al.（2015）]]** 的[[Meta-analysis\|元分析]]数据表明，即使考虑领域差异，显性[[Blended Learning\|混合教学]]效果仍显著优于隐性教学，说明至少存在可跨学科教学的核心批判性思维技能。
 
 > > [!axis] 迁移问题（Transfer Problem）
 > > 独立课程中学到的批判性思维技能能否真正迁移到具体学科和日常生活中，是该理论面临的核心挑战。
 > >
 > > - **Swartz（1992）** 指出批判性思维教学的核心难题是迁移。学生在独立课程中学到的技能往往停留在课程情境中，无法自动应用到其他领域。
-> > - **[[Argument_Cole_2015_AJE|Cole et al. (2015)]]** 的 ToK 研究发现，将 ToK 教学策略整合到全校各学科中的学校（学校 1），其批判性思维教学效果似乎更好。这暗示独立课程和跨学科融入的结合可能是解决迁移问题的方向。
+> > - **[[Argument_Cole_2015_AJE\|Cole et al. (2015)]]** 的 ToK 研究发现，将 ToK 教学策略整合到全校各学科中的学校（学校 1），其批判性思维教学效果似乎更好。这暗示独立课程和跨学科融入的结合可能是解决迁移问题的方向。
 
 ---
 
@@ -191,7 +191,7 @@ updated: 2026-09-17
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 独立显性课程学习阶段（Y12 vs Y11） | [[Critical Thinking Strategies Scale\|CTSS]] 策略总分 | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.85$ ($SD = 1.05$)；Y11 $M = 4.62$ ($SD = 1.08$) | Hedges' $g = 0.216$（派生） | $t(1240) = 3.04, p < .001$ | 显性独立探究课程；自报测量；横断设计边界 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 独立显性课程学习阶段（Y12 vs Y11） | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.69$ ($SD = 1.15$)；Y11 $M = 4.48$ ($SD = 1.22$) | Hedges' $g = 0.177$（派生） | $t(1240) = 3.04, p < .01$ | 与 CTSS 汇聚于一致方向，支持高年级显性课程增益 |
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="theory-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 理论检验角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
@@ -212,6 +212,6 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 [[IB Diploma Programme|IB DP]] 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]检验显性[[Critical Thinking|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
-> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research|实验研究]]，系统检验 Ennis 课程模式（混合模式 $g+=0.38$ 表现最高）及[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维复合策略（$g+=0.57$），为显性教学与课程整合提供了大规模[[Meta-analysis|元分析]]证据。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以 [[IB Diploma Programme\|IB DP]] 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research\|混合方法研究]]检验显性[[Critical Thinking\|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research\|实验研究]]，系统检验 Ennis 课程模式（混合模式 $g+=0.38$ 表现最高）及[[Authentic Instruction\|真实性教学]]、[[Dialogue in Education\|对话]]与[[Mentorship\|导师制]]三维复合策略（$g+=0.57$），为显性教学与课程整合提供了大规模[[Meta-analysis\|元分析]]证据。

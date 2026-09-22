@@ -210,7 +210,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 - [[Progressive Neoliberalism|进步新自由主义]]（progressive neoliberalism）作为一种主要的"硅谷世界观"——强调无国界世界——推动了过去三十年的知识经济化。但这一意识形态政治形态可能正在消退，替代性的地缘政治世界观正在浮现(pp.31–32)
 
 > [!info] 核心概念框架
-> 知识经济化中的"知识"有四种含义：(1) 思想和创新在创造价值中的作用；(2) 专家对知识密集型资本主义本身的[[Knowledge Production|知识生产]]（履行性知识）；(3) 对政治社区作为知识经济体的表现和发展数据的持续收集；(4) 社会的普遍数据化——数据成为关于人类行为、需求和欲望的有价值信息池(p.25)
+> 知识经济化中的"知识"有四种含义：(1) 思想和创新在创造价值中的作用；(2) 专家对知识密集型资本主义本身的[[Knowledge Production\|知识生产]]（履行性知识）；(3) 对政治社区作为知识经济体的表现和发展数据的持续收集；(4) 社会的普遍数据化——数据成为关于人类行为、需求和欲望的有价值信息池(p.25)
 
 
 ## 关键引用
@@ -219,7 +219,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 
 Moisio 的核心论旨：
 
-> “在本章中，我试图将据称是地缘经济的现在地缘政治化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、[[Human Capital Theory|人力资本]]、教育和技术等一系列议题汇聚在一起。”
+> “在本章中，我试图将据称是地缘经济的现在地缘政治化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、[[Human Capital Theory\|人力资本]]、教育和技术等一系列议题汇聚在一起。”
 > (“在本章中，我试图将据称是地缘经济的现在地缘政治化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、人力资本、教育和技术等一系列议题汇聚在一起。”
 > ("In this chapter, I seek to geopoliticize the purportedly geoeconomic present. In particular, I argue that the contemporary knowledge-intensive capitalism is a historically contingent geopolitical constellation that brings together a range of issues such as space, cities, states, human capital, education, and technology."))(p.21)
 
@@ -231,8 +231,8 @@ Harvey 的[[Fixity-Motion Tension|固着-流动张力]]——本章最核心的�
 
 Moisio 从中推导出的地缘政治悖论：
 
-> “基于[[Geopolitics of Knowledge|知识地缘政治]]的经济化，源于资本主义空间循环过程内部的张力：积累地理中固定性与运动之间的张力。”
-> (“基于[[Geopolitics of Knowledge|知识地缘政治]]的经济化，源于资本主义空间循环过程内部的张力：积累地理中固定性与运动之间的张力。”
+> “基于[[Geopolitics of Knowledge\|知识地缘政治]]的经济化，源于资本主义空间循环过程内部的张力：积累地理中固定性与运动之间的张力。”
+> (“基于[[Geopolitics of Knowledge\|知识地缘政治]]的经济化，源于资本主义空间循环过程内部的张力：积累地理中固定性与运动之间的张力。”
 > ("The [[Geopolitics of Knowledge]]-based economization emanates from the very tension within the capitalist circulation process in space: the tension within the geography of accumulation between fixity and motion."))(p.28)
 
 

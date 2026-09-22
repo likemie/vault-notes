@@ -42,7 +42,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> 学术医学中心（Academic Medical Center, AMC）传统上定义为"大学或医学院及其合作教学医院"（"a university or medical school and its partner teaching hospital"）([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。其核心构成包括三个要素：教学医院（teaching hospital）、联合聘任到大学的临床教师（clinical faculty jointly appointed to the university）、以及社区中的附属私人执业医师（affiliated private-practice physicians in the community）。
+> 学术医学中心（Academic Medical Center, AMC）传统上定义为"大学或医学院及其合作教学医院"（"a university or medical school and its partner teaching hospital"）([[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones, 2025, p.179]])。其核心构成包括三个要素：教学医院（teaching hospital）、联合聘任到大学的临床教师（clinical faculty jointly appointed to the university）、以及社区中的附属私人执业医师（affiliated private-practice physicians in the community）。
 
 AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基础科研与医院的临床诊疗结合在一起。这是目前最常见的学术医疗机构组织形态，但具体组织结构在不同机构之间存在广泛差异([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。
 
@@ -53,7 +53,7 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 ## 与学术健康系统的区分
 
 > [!example]
-> [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.179–180)]]明确区分了 AMC 与[[Academic Health System|学术健康系统]]（Academic Health System, AHS）：
+> [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025, pp.179–180)]]明确区分了 AMC 与[[Academic Health System\|学术健康系统]]（Academic Health System, AHS）：
 >
 > | 维度 | AMC | AHS |
 > |------|-----|-----|
@@ -63,23 +63,23 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 > | **[[University-Industry Collaboration\|产学合作]]位置** | 合作参与者 | 合作促进者（facilitator） |
 > | **典型代表** | 大多数大学附属医院 | Houston Methodist、Cleveland Clinic、Cedars-Sinai 等 |
 >
-> 关键区分在于：AMC 是学术与临床的双元组合([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])，而 AHS 在此基础上叠加了产业创新和系统内技术部署能力。
+> 关键区分在于：AMC 是学术与临床的双元组合([[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones, 2025, p.179]])，而 AHS 在此基础上叠加了产业创新和系统内技术部署能力。
 
 ---
 
 ## 与社区医学中心的区分
 
 > [!example]
-> 社区医学中心（Community Medical Center, CMC）传统上指非学术性的医疗机构，通常等同于社区医院（community hospital）([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。CMC 的核心使命是提供当前最佳标准的诊疗服务，通常不投入创新研发或医学教育。
+> 社区医学中心（Community Medical Center, CMC）传统上指非学术性的医疗机构，通常等同于社区医院（community hospital）([[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones, 2025, p.179]])。CMC 的核心使命是提供当前最佳标准的诊疗服务，通常不投入创新研发或医学教育。
 >
-> 在[[Clinical Trial|临床试验]]领域，社区基地（community-based sites）构成了 AMC 的直接竞争者：它们使用集中式单一 [[Institutional Review Board|IRB]] 审查，启动和入组速度远快于 AMC([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.205–206]])。
+> 在[[Clinical Trial\|临床试验]]领域，社区基地（community-based sites）构成了 AMC 的直接竞争者：它们使用集中式单一 [[Institutional Review Board\|IRB]] 审查，启动和入组速度远快于 AMC([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, pp.205–206]])。
 
 ---
 
 ## 在临床试验中的运营表现
 
 > [!warning] AMC 的效率劣势
-> 在产业方申办的[[Clinical Trial|临床试验]]中，AMC 面临系统性的效率挑战。从产业方视角，AMC 与非学术试验基地的关键绩效差距([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.211–212]])：
+> 在产业方申办的[[Clinical Trial\|临床试验]]中，AMC 面临系统性的效率挑战。从产业方视角，AMC 与非学术试验基地的关键绩效差距([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, pp.211–212]])：
 >
 > | 启动[[Performance Indicators\|绩效指标]] | 非学术基地 | 典型 AMC |
 > |---|---|---|
@@ -93,12 +93,12 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 AMC 启动缓慢的根源在于多重委员会审查的串行机制：方案审查、部门审查、放射审查、药房审查、癌症方案审查、机构 IRB 依赖管理费审查、中心 IRB 审查——每一步都需要数周到数月([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.206–207]])。此外，法律审查者经常在无关紧要的措辞上反复推敲，如将 "promptly" 改为 "immediately"([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.207]])。
 
 > [!warning] AMC 的成本结构
-> AMC 的间接成本率（overhead rate）为直接成本的 20% 到 35%，这与联邦谈判确定的设施与管理费率（F&A rate）不同——产业方已将管理费用作为直接成本覆盖([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.205–206]])。启动费用从两万多美元到十五万美元以上，在招募第一个患者之前的总管理和启动成本平均为 $25,000 到超过 $200,000([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.206, 208]])。
+> AMC 的间接成本率（overhead rate）为直接成本的 20% 到 35%，这与联邦谈判确定的设施与管理费率（F&A rate）不同——产业方已将管理费用作为直接成本覆盖([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, pp.205–206]])。启动费用从两万多美元到十五万美元以上，在招募第一个患者之前的总管理和启动成本平均为 $25,000 到超过 $200,000([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, pp.206, 208]])。
 >
-> 这一成本结构使 AMC 面临双重竞争压力：社区或去中心化基地以更快的启动速度和更低的管理费构成替代选项，国际基地的成本有时仅为美国 AMC 的六分之一([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.206]])。
+> 这一成本结构使 AMC 面临双重竞争压力：社区或去中心化基地以更快的启动速度和更低的管理费构成替代选项，国际基地的成本有时仅为美国 AMC 的六分之一([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, p.206]])。
 
 > [!success] 高绩效 AMC 的突破路径
-> 尽管存在上述结构性劣势，部分 AMC 通过组织优化显著缩小了效率差距。拥有高度投入的主要研究者（Principal Investigator, PI）和专门研究支持团队的机构可以在 60 天内完成试验激活——远优于典型 AMC 的 120 天以上([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])。高绩效 AMC 的关键做法包括：
+> 尽管存在上述结构性劣势，部分 AMC 通过组织优化显著缩小了效率差距。拥有高度投入的主要研究者（Principal Investigator, PI）和专门研究支持团队的机构可以在 60 天内完成试验激活——远优于典型 AMC 的 120 天以上([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, pp.210–211]])。高绩效 AMC 的关键做法包括：
 > - 专门的监管团队、预算和合同专家以及合规人员并行工作
 > - 使用中心或单一 IRB 依赖协议，在收到监管文件后高效实施机构修改
 > - 部署 Florence™ eBinders 等数字化监管管理工具
@@ -111,11 +111,11 @@ AMC 作为试验基地的竞争力和不可替代性并存：一方面，它们�
 ## 在产学合作中的角色
 
 > [!note]-
-> AMC 在[[University-Industry Collaboration|产学合作]]中承担双重角色([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.179–181]]; [[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.201–215]])：
-> - **研究伙伴与试验场所** AMC 具备基础科研和临床研究能力，可在教学医院中开展[[Clinical Trial|临床试验]]。产业方通过 AMC 接触多样化患者人群和前沿方法论([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.215]])
+> AMC 在[[University-Industry Collaboration\|产学合作]]中承担双重角色([[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones, 2025, pp.179–181]]; [[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, pp.201–215]])：
+> - **研究伙伴与试验场所** AMC 具备基础科研和临床研究能力，可在教学医院中开展[[Clinical Trial\|临床试验]]。产业方通过 AMC 接触多样化患者人群和前沿方法论([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, p.215]])
 > - **效率瓶颈** AMC 的组织结构（学术-临床二元）意味着其制度流程更靠近学术节奏而非产业节奏。多重委员会审查、高管理费率和漫长的合同谈判周期使 AMC 在效率维度上处于竞争劣势
 >
-> AMC 在部署创新时面临的主要障碍之一是技术可及性——"technology availability often limits broader real-world application"([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.181–182]])。
+> AMC 在部署创新时面临的主要障碍之一是技术可及性——"technology availability often limits broader real-world application"([[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones, 2025, pp.181–182]])。
 
 ---
 

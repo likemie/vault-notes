@@ -46,7 +46,7 @@ updated: 2026-09-18
 > [!info] 背景
 > Gonski 改革是澳大利亚旨在通过**需求本位拨款（needs-based funding）**实现更公平的教育资源配置的政策尝试，试图应对 2000 年以来联邦政府对非公立学校拨款规则改变所导致的日益加剧的系统性资源分配不公（Keddie et al., 2020, IJLE, p.2, 11）。
 >
-> 澳大利亚教育体系由三个部门组成：公立（65.7%学生）、天主教（19.5%）和独立学校（14.8%）。2000 年保守派联邦政府将非公立学校拨款改为基于邮政[[Coding in Qualitative Research|编码]]，导致富裕学校获得增加拨款；同时联邦政府从州政府撤回了本应分配给公立学校的生均拨款——这种"成本中性"政策促使许多有选择能力的家庭将子女转入非公立部门，使公立部门日益残余化（Keddie et al., 2020, IJLE, p.2）。
+> 澳大利亚教育体系由三个部门组成：公立（65.7%学生）、天主教（19.5%）和独立学校（14.8%）。2000 年保守派联邦政府将非公立学校拨款改为基于邮政[[Coding in Qualitative Research\|编码]]，导致富裕学校获得增加拨款；同时联邦政府从州政府撤回了本应分配给公立学校的生均拨款——这种"成本中性"政策促使许多有选择能力的家庭将子女转入非公立部门，使公立部门日益残余化（Keddie et al., 2020, IJLE, p.2）。
 
 ## 政策文本摘要
 
@@ -54,7 +54,7 @@ updated: 2026-09-18
 > Gonski 改革分两轮进行（Keddie et al., 2020, IJLE, p.2, 11）：
 >
 > - **Gonski et al. (2011)** *Review of Funding for Schooling: Final Report* — 首次系统审查澳大利亚学校教育拨款
-> - **Gonski et al. (2018)** *Through [[Growth]] to Achievement: Report of the [[Gonski 2.0|Review to Achieve Educational Excellence in Australian Schools]]* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
+> - **Gonski et al. (2018)** *Through [[Growth]] to Achievement: Report of the [[Gonski 2.0\|Review to Achieve Educational Excellence in Australian Schools]]* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
 >
 > 改革旨在返回 [[Karmel Report]] 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、SES、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
 >
@@ -88,7 +88,7 @@ updated: 2026-09-18
 > [!warning] 争议与评论
 > - **"不让任何学校更糟"条款**被批评为事实上维护了结构性不平等——即使有 Gonski 的额外资金，资金最充足的私立学校仍然获得最多资源（Keddie et al., 2020, IJLE, p.12-13）
 > - **透明度和行政支持的缺乏**使公平资金的预期效果无法实现，校长可能将拨款用于其他优先事项（Keddie et al., 2020, IJLE, p.11-12）
-> - **文化符号与公共信任的工具化借用** [[David Gonski|戴维·冈斯基]]（David Gonski）作为商业律师与[[Venture Philanthropy|风险慈善]]顾问，其名字因公立学校工会活动（#igiveagonski）而在公众中被塑造成公平投入的道德符号；埃玛·罗威（Emma Rowe）批评指出，[[Gonski 2.0]] 报告（特别是倡设国家独立证据机构的第 23 条建议）被[[Policy Network|政策网络]]策略性地用作认知标签（epistemic label）与公众合法性杠杆，借以推销由[[Social Ventures Australia|澳大利亚社会创投]]（Social Ventures Australia, SVA）游说推动的[[Educational Brokerage Agency|证据经纪人]]模式，实则掩蔽了底层跨国金融与咨询资本的治理渗透（[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 2–3, 10]]）。
+> - **文化符号与公共信任的工具化借用** [[David Gonski\|戴维·冈斯基]]（David Gonski）作为商业律师与[[Venture Philanthropy\|风险慈善]]顾问，其名字因公立学校工会活动（#igiveagonski）而在公众中被塑造成公平投入的道德符号；埃玛·罗威（Emma Rowe）批评指出，[[Gonski 2.0]] 报告（特别是倡设国家独立证据机构的第 23 条建议）被[[Policy Network\|政策网络]]策略性地用作认知标签（epistemic label）与公众合法性杠杆，借以推销由[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）游说推动的[[Educational Brokerage Agency\|证据经纪人]]模式，实则掩蔽了底层跨国金融与咨询资本的治理渗透（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2–3, 10]]）。
 
 ## 相关概念／理论
 

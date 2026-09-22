@@ -29,11 +29,11 @@ tags:
   - irt
 related_concepts:
   - "[[Variable]]"
-related_theories:
-  - "[[Item Response Theory]]"
+related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Rasch Measurement]]"
+  - "[[Item Response Theory]]"
   - "[[Parallel-Forms Reliability]]"
 related_instruments: []
 related_persons: []
@@ -55,8 +55,8 @@ updated: 2026-08-19
 > [!instrument-profile] Cognitive Ability Test KFT 4-13+R
 > - **工具类型** 标准化流体智力与认知推理能力测验（Intelligence & Reasoning Test）。
 > - **开发者与年份** Heller & Perleth (2000)。
-> - **测量目的** 测量 4 至 12 年级学生的综合认知推理能力与一般智力（$g$ 因子），作为学业选拔、追踪与实证控制的关键协[[Variable|变量]]。
-> - **实施方式** 纸笔标准化集体施测（限时[[Multiple-Choice Questions|多项选择题]]）。
+> - **测量目的** 测量 4 至 12 年级学生的综合认知推理能力与一般智力（$g$ 因子），作为学业选拔、追踪与实证控制的关键协[[Variable\|变量]]。
+> - **实施方式** 纸笔标准化集体施测（限时[[Multiple-Choice Questions\|多项选择题]]）。
 
 ---
 
@@ -76,8 +76,8 @@ updated: 2026-08-19
 
 > [!instrument-items] 作答规则
 > - **题项形式** 客观多项选择类比题（如 $A:B :: C:?$）。
-> - **作答格式** 5 选 1 单项[[Multiple-Choice Questions|选择题]]（Multiple Choice）。
-> - **建模方法** 在结构方程模型中，通常将 45 道题目依据[[Item Response Theory|项目反应理论]]（IRT）参数随机构建为 5 个平衡题包（Test Parcels），作为潜[[Variable|变量]] $g$ 因子的观测指标，[[Parallel-Forms Reliability|复本信度]] $R_{TT} = .91$。[[Argument_Trautwein_2007_CEP|(Trautwein & Lüdtke, 2007, p. 354)]]
+> - **作答格式** 5 选 1 单项[[Multiple-Choice Questions\|选择题]]（Multiple Choice）。
+> - **建模方法** 在结构方程模型中，通常将 45 道题目依据[[Item Response Theory\|项目反应理论]]（IRT）参数随机构建为 5 个平衡题包（Test Parcels），作为潜[[Variable\|变量]] $g$ 因子的观测指标，[[Parallel-Forms Reliability\|复本信度]] $R_{TT} = .91$。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 354)]]
 
 ---
 

@@ -58,7 +58,7 @@ updated: '2026-05-19'
 ## 定义
 
 > [!info]
-> 枢纽与流动想象（Hub and [[Flow]] Imaginaries）是 [[Sami Moisio]]（2022）在分析[[Knowledge-Based Economization|知识经济化]]的地缘政治维度时，识别出的一种核心地缘政治想象。它描绘了这样一幅世界图景：特定的城市、地区和机构充当着全球知识、资本和人才流动的"枢纽"（hub），而其他地区则处于被绕过的"边缘"位置。这种想象关心的核心问题是：哪些场所和主体在创造价值、控制全球资金和人才流动中占据关键位置([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])。
+> 枢纽与流动想象（Hub and [[Flow]] Imaginaries）是 [[Sami Moisio]]（2022）在分析[[Knowledge-Based Economization\|知识经济化]]的地缘政治维度时，识别出的一种核心地缘政治想象。它描绘了这样一幅世界图景：特定的城市、地区和机构充当着全球知识、资本和人才流动的"枢纽"（hub），而其他地区则处于被绕过的"边缘"位置。这种想象关心的核心问题是：哪些场所和主体在创造价值、控制全球资金和人才流动中占据关键位置([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.27]])。
 
 Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象不仅描述世界，更是"构成性和履行性"的，即它参与制造它所描述的现实——来论证 枢纽与流动想象自 1990 年代以来深刻地塑造了各国的空间政策、城市发展战略和高等教育改革方向([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])。
 
@@ -76,7 +76,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 ## 核心要素
 
 > [!abstract]
-> - **枢纽中心性** 大城市、[[Innovation Hub|创新中心]]、大学城等特定场所被想象为价值创造的核心节点。政策关注的焦点是"特定场所、地点和集体主体在价值创造以及控制全球资金和人才流动中的角色"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
+> - **枢纽中心性** 大城市、[[Innovation Hub\|创新中心]]、大学城等特定场所被想象为价值创造的核心节点。政策关注的焦点是"特定场所、地点和集体主体在价值创造以及控制全球资金和人才流动中的角色"([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.27]])
 - **流动优先** 资金、人才和思想的全球自由流通被预设为经济活力的前提。国家、城市和区域面临的核心政策问题被重构为："如何管理全球流动性，从而如何将这些政治社区锚定到全球价值链中"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 - **理想主体的建构** 创意创业者（creative entrepreneur）被塑造为枢纽与流动世界中的理想经济主体——"这一形象可以采取多种形式"——他们灵活、流动、富有[[Creativity|创造力]]，能够在全球枢纽城市之间自由穿梭和工作([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 - **多样化的空间表述** 集群（clusters）、创意城市、创业城市、智慧城市、学习区域、创新中心、快乐城市、[[Innovation Ecosystem|创新生态系统]]等概念，从学术话语扩散为全球城市政策的通用词汇，"已成为[[Knowledge-Based Economy|知识经济]]空间组织的具体表述"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])

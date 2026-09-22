@@ -41,16 +41,16 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 制度性不信任（institutional distrust）指制度安排（主要是问责体系）被设计为把专业人员限定在政策方向指定的狭小能动范围内，从而使公众对专业行动者保持不信任的状态（Grimen, 2008）。它的高低决定[[Research Utilization|研究使用]]是[[Professional Judgment|专业判断]]与能动性的权限，还是工具性服从。
+> 制度性不信任（institutional distrust）指制度安排（主要是问责体系）被设计为把专业人员限定在政策方向指定的狭小能动范围内，从而使公众对专业行动者保持不信任的状态（Grimen, 2008）。它的高低决定[[Research Utilization\|研究使用]]是[[Professional Judgment\|专业判断]]与能动性的权限，还是工具性服从。
 
 > [!concept-lens] 概念透镜
 > - **含义** 制度性不信任不是个人层面的不信任，而是制度结构对专业自主的系统性限制：问责只看结果、只考核达标，不给专业判断留空间。
-> - **用途** 帮助解释为什么在政策高调鼓励"用研究"的同时，学校里却普遍出现对研究的象征性、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]。
+> - **用途** 帮助解释为什么在政策高调鼓励"用研究"的同时，学校里却普遍出现对研究的象征性、[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]。
 > - **边界** 它区别于一般的社会信任（如公众对研究的信任）；它特指制度层面对专业行动者的约束性安排。
 
 > [!boundary]- 概念边界
 > - 不等于 个体对研究的信任 — 制度性不信任是结构性的，个体信任是心理性的。
-> - 与 [[Teacher Professional Agency|教师专业能动性]] 相对 — 制度性不信任压缩能动性，能动性是它试图限制的对象。
+> - 与 [[Teacher Professional Agency\|教师专业能动性]] 相对 — 制度性不信任压缩能动性，能动性是它试图限制的对象。
 
 ---
 
@@ -58,7 +58,7 @@ updated: 2026-09-17
 
 > [!feature] 制度性不信任的三个表现
 > - **问责体系的设计** 问责系统按政策方向把专业限定在狭小能动域内，公众与专业行动者的关系由此被制度性不信任维持（Grimen, 2008）。
-> - **决定[[Research Utilization|研究使用]]的性质** 制度性不信任的程度决定研究使用是[[Professional Judgment|专业判断]]的权限，还是按指令执行的工具性服从（p.16）。
+> - **决定[[Research Utilization\|研究使用]]的性质** 制度性不信任的程度决定研究使用是[[Professional Judgment\|专业判断]]的权限，还是按指令执行的工具性服从（p.16）。
 > - **与文化、领导的联动** 高不信任环境变成顺从与惰性的工具，人们"安全行事"；高信任环境才鼓励创新与专业判断（pp.16）。
 
 > [!logic-map]- 要素关系
@@ -80,10 +80,10 @@ updated: 2026-09-17
 ### 命题一　制度性不信任是系统层面压制研究使用与专业能动性的机制
 
 > [!concept-lens] 系统层压制
-> 政策一边要求"用研究"，一边用问责把专业限死，二者共同造成[[Research Utilization|研究使用]]的象征化。
+> 政策一边要求"用研究"，一边用问责把专业限死，二者共同造成[[Research Utilization\|研究使用]]的象征化。
 
 > [!claim] Hagevold, C. G., et al.
-> **结构压制** 问责系统把专业限定在政策指定的狭小能动域，构成制度性不信任；其程度决定研究使用是[[Professional Judgment|专业判断]]与能动性的权限还是工具性服从。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.16)]]
+> **结构压制** 问责系统把专业限定在政策指定的狭小能动域，构成制度性不信任；其程度决定研究使用是[[Professional Judgment\|专业判断]]与能动性的权限还是工具性服从。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p.16)]]
 
 ---
 
@@ -93,7 +93,7 @@ updated: 2026-09-17
 > 研究使用的整合化要求把制度性不信任转化为信任的可持续结构。
 
 > [!claim] Hagevold, C. G., et al.
-> **信任替代** 把研究使用从象征性推进到整合，需要经由可持续结构培育专业能动性，而不是靠工具性指令；这相当于用信任取代制度性不信任作为治理基础。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp.16, 18)]]
+> **信任替代** 把研究使用从象征性推进到整合，需要经由可持续结构培育专业能动性，而不是靠工具性指令；这相当于用信任取代制度性不信任作为治理基础。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp.16, 18)]]
 
 ---
 
@@ -111,7 +111,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **2008 — 概念提出** Grimen（2008）在挪威专业研究传统中提出制度性不信任，用来分析专业与制度的关系。
-> - **2026 — 纳入[[Research Utilization|研究使用]]机制** Hagevold 等人（2026）把制度性不信任作为"信任"治理机制的组成部分，用来解释问责如何压制学校里的研究使用与专业能动性。
+> - **2026 — 纳入[[Research Utilization\|研究使用]]机制** Hagevold 等人（2026）把制度性不信任作为"信任"治理机制的组成部分，用来解释问责如何压制学校里的研究使用与专业能动性。
 
 ---
 
@@ -124,5 +124,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 把制度性不信任作为"信任"跨层机制的核心构件，解释问责体系如何压缩专业能动性、推动[[Research Utilization|研究使用]]走向工具性服从。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 把制度性不信任作为"信任"跨层机制的核心构件，解释问责体系如何压缩专业能动性、推动[[Research Utilization\|研究使用]]走向工具性服从。

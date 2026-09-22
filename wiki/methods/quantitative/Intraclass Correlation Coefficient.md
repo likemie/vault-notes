@@ -88,16 +88,16 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 方法定义
-> **组内相关系数（Intraclass Correlation Coefficient，简称 ICC，在符号中常记为 $\rho$）**最初由统计学家罗纳德·费希尔（Ronald Fisher）于 1925 年在[[Analysis of Variance|方差分析]]框架下提出，是衡量具有嵌套（Nested）或群聚（Clustered）结构数据中**同属于同一群组的个体之间相似程度**的核心统计量。在现代分层线性[[Hierarchical Linear Model|多水平模型]]（[[Hierarchical Linear Model|HLM]]）中，ICC 被严格定义为**高层级组间方差占总方差的比例**。在教育实证研究与[[Cluster Randomized Trials|集群随机对照试验]]（[[Cluster Randomized Trials|Cluster RCT]]）中，ICC 捕捉了同校或同班学生因共享教师、校园文化、地理社区及同伴互动而产生的非独立性相关，是测算设计效应（Design Effect）、换算[[Effective Sample Size|有效样本量]]以及消除[[Standard Error|标准误]]向下偏倚的生命线参数。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 8–10)]]
+> **组内相关系数（Intraclass Correlation Coefficient，简称 ICC，在符号中常记为 $\rho$）**最初由统计学家罗纳德·费希尔（Ronald Fisher）于 1925 年在[[Analysis of Variance\|方差分析]]框架下提出，是衡量具有嵌套（Nested）或群聚（Clustered）结构数据中**同属于同一群组的个体之间相似程度**的核心统计量。在现代分层线性[[Hierarchical Linear Model\|多水平模型]]（[[Hierarchical Linear Model\|HLM]]）中，ICC 被严格定义为**高层级组间方差占总方差的比例**。在教育实证研究与[[Cluster Randomized Trials\|集群随机对照试验]]（[[Cluster Randomized Trials\|Cluster RCT]]）中，ICC 捕捉了同校或同班学生因共享教师、校园文化、地理社区及同伴互动而产生的非独立性相关，是测算设计效应（Design Effect）、换算[[Effective Sample Size\|有效样本量]]以及消除[[Standard Error\|标准误]]向下偏倚的生命线参数。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 分层嵌套于学校、班级、学区、家庭或研究机构内部的个体[[Academic Achievement|学业成绩]]、心理测量得分或行为观察数据；亦用于评估多名评分者之间的跨评价者一致性（[[Inter-Rater Reliability]]）。
-> - **问题类型** 数据群聚性诊断（回答“数据是否必须使用多层模型”）、试验[[Sample Size Determination|样本量]]与统计功效前置规划、集群随机试验聚类标准误校正。
-> - **[[Unit of Analysis|分析单位]]** 包含微观个体（Level 1）与宏观集群（Level 2）的多层级系统。
+> - **研究对象** 分层嵌套于学校、班级、学区、家庭或研究机构内部的个体[[Academic Achievement\|学业成绩]]、心理测量得分或行为观察数据；亦用于评估多名评分者之间的跨评价者一致性（[[Inter-Rater Reliability]]）。
+> - **问题类型** 数据群聚性诊断（回答“数据是否必须使用多层模型”）、试验[[Sample Size Determination\|样本量]]与统计功效前置规划、集群随机试验聚类标准误校正。
+> - **[[Unit of Analysis\|分析单位]]** 包含微观个体（Level 1）与宏观集群（Level 2）的多层级系统。
 > - **输出形式** ICC 点估计值（介于 0 到 1 之间）、基于 $F$ 分布或似然比检验的显著性 $p$ 值、设计效应（Design Effect）及修正有效样本量。
 
-> [!citation-card] 组内相关系数校正在教育试验审查中的刚性门槛（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]）
-> 在[[International Education|国际教育]][[Educational Evidence Clearinghouses|证据清算中心]]（如美国 [[What Works Clearinghouse|WWC]] 与英国 [[Education Endowment Foundation|EEF]]）的证据安全评级中，未校正组内相关系数（ICC）被确立为导致试验降级的致命缺陷。教育现场中[[Random Assignment|随机化]]往往发生在学校层面，若不校正学校间 ICC（英国中小学校际考分 ICC 通常介于 0.10 至 0.20 之间），常规统计模型会将同校学生的共有变异错误视作独立观察自由度，导致标准误被系统性低估 30%–60%，制造大量的伪阳性虚假显著性。杜伦大学对 17 项 EEF 试验的二次复算推动英国全面确立了《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），强制要求所有整群试验主效应分析必须显式建模 ICC 并校正聚类标准误。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 8–10)]]
+> [!citation-card] 组内相关系数校正在教育试验审查中的刚性门槛（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]）
+> 在[[International Education\|国际教育]][[Educational Evidence Clearinghouses\|证据清算中心]]（如美国 [[What Works Clearinghouse\|WWC]] 与英国 [[Education Endowment Foundation\|EEF]]）的证据安全评级中，未校正组内相关系数（ICC）被确立为导致试验降级的致命缺陷。教育现场中[[Random Assignment\|随机化]]往往发生在学校层面，若不校正学校间 ICC（英国中小学校际考分 ICC 通常介于 0.10 至 0.20 之间），常规统计模型会将同校学生的共有变异错误视作独立观察自由度，导致标准误被系统性低估 30%–60%，制造大量的伪阳性虚假显著性。杜伦大学对 17 项 EEF 试验的二次复算推动英国全面确立了《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），强制要求所有整群试验主效应分析必须显式建模 ICC 并校正聚类标准误。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
 >
 > *“In education trials, pupils are clustered in classes and schools. If an analysis ignores this clustering, the effective sample size is exaggerated and the standard error is underestimated. Adjusting for the intraclass correlation coefficient is mandatory to prevent spurious [[Statistical Significance]].”*
 
@@ -105,13 +105,13 @@ updated: 2026-09-18
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 承认测量单位与[[Unit of Analysis|分析单位]]错位（Unit of Analysis Misalignment）带来的推断风险。个体表现永远嵌于环境脉络之中，忽视群聚相关性在认识论上属于典型的[[Ecological Fallacy|生态学谬误]]或原子论谬误。
+> [!method-position] [[Epistemology\|认识论]]与方法定位
+> - **知识观** 承认测量单位与[[Unit of Analysis\|分析单位]]错位（Unit of Analysis Misalignment）带来的推断风险。个体表现永远嵌于环境脉络之中，忽视群聚相关性在认识论上属于典型的[[Ecological Fallacy\|生态学谬误]]或原子论谬误。
 > - **统计功能二重性**
->   1. **作为依赖性度量** 在模型构建前作为“门禁指标”（[[Gatekeepers|gatekeeper]]），判定群聚结构是否不可忽略（当 $\text{ICC} > 0.05$ 时，强行使用平面 [[Ordinary Least Squares|OLS]] 会导致严重的统计结论效度危机）；
->   2. **作为功效校正系数** 在试验规划阶段通过设计效应膨胀因子直接放大所需[[Sample Size Determination|样本量]]。
+>   1. **作为依赖性度量** 在模型构建前作为“门禁指标”（[[Gatekeepers\|gatekeeper]]），判定群聚结构是否不可忽略（当 $\text{ICC} > 0.05$ 时，强行使用平面 [[Ordinary Least Squares\|OLS]] 会导致严重的统计结论效度危机）；
+>   2. **作为功效校正系数** 在试验规划阶段通过设计效应膨胀因子直接放大所需[[Sample Size Determination\|样本量]]。
 > - **有效性标准** ICC 的精确估计依赖于空模型（Null Model）的未受干扰性；点估计的稳定性强烈依赖于二级集群数量（学校数 $J$）。
-> - **不声称回答的问题** ICC 本身不是因果[[Effect Size|效应量]]，不反映干预对个体的净增益，仅描述总变异的层级结构分布。
+> - **不声称回答的问题** ICC 本身不是因果[[Effect Size\|效应量]]，不反映干预对个体的净增益，仅描述总变异的层级结构分布。
 
 > [!contrast-table] ICC 在不同应用场景中的类型与含义对比
 > | 应用场景 | 方差分解结构 | 计算公式重点 | 核心关注目的 | 典型应用范例 |
@@ -121,29 +121,29 @@ updated: 2026-09-18
 > | **评分者一致性（Inter-rater）** | 评分客体间方差 vs 评分者偏差及误差 | Shrout & Fleiss (1979) 六种模型（如 ICC(2,1)） | 检验多位主观打分专家评价标准的一致性与绝对一致度 | 课堂教学观察量表教师评分[[Reliability\|信度]]检验 |
 
 > [!method-stack] 方法层级
-> - **研究设计** 集群[[Randomised Controlled Trials|随机对照试验]]（Cluster RCT）、多阶段分层[[Cluster Sampling|整群抽样]]、纵向[[Growth|生长]]模型。
+> - **研究设计** 集群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT）、多阶段分层[[Cluster Sampling\|整群抽样]]、纵向[[Growth\|生长]]模型。
 > - **数据收集** 行政考分普查数据（NPD）、大样本心理测验、结构化课堂观察评分。
-> - **分析方法** 单因素随机效应[[Analysis of Variance|方差分析]]（ANOVA Random Effects）、限制性极大似然法（REML）两层空模型。
-> - **辅助技术** 设计效应（Design Effect）公式换算、[[Effective Sample Size|有效样本量]]折算、小集群小样本[[Confidence Interval|置信区间]]构建。
+> - **分析方法** 单因素随机效应[[Analysis of Variance\|方差分析]]（ANOVA Random Effects）、限制性极大似然法（REML）两层空模型。
+> - **辅助技术** 设计效应（Design Effect）公式换算、[[Effective Sample Size\|有效样本量]]折算、小集群小样本[[Confidence Interval\|置信区间]]构建。
 
 ---
 
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **构建两层无条件空模型（Unconditional Null Model）** 不纳入任何[[Independent Variable|自变量]]与控制[[Variable|变量]]，仅将[[Dependent Variable|因变量]]按学校/班级层级进行自由分解。
+> 1. **构建两层无条件空模型（Unconditional Null Model）** 不纳入任何[[Independent Variable\|自变量]]与控制[[Variable\|变量]]，仅将[[Dependent Variable\|因变量]]按学校/班级层级进行自由分解。
 > 2. **提取方差分量参数** 采用限制性极大似然（REML）估计获取 Level 2 截距方差 $\tau_{00}$（组间变异）与 Level 1 残差方差 $\sigma^2$（组内变异）。
 > 3. **计算 ICC 点估计量** 计算 $\rho = \frac{\tau_{00}}{\tau_{00} + \sigma^2}$。
-> 4. **检验组间方差[[Statistical Significance|统计显著性]]** 执行似然比检验（Likelihood Ratio Test, LRT）比较单层模型与两层模型的拟合优度，确认 ICC 是否显著大于零。
-> 5. **换算设计效应与[[Effective Sample Size|有效样本量]]** 结合平均集群规模 $m$，测定设计效应 $\text{Deff} = 1 + (m - 1)\rho$，[[Evaluation Research|评估研究]]的真实有效信息量。
+> 4. **检验组间方差[[Statistical Significance\|统计显著性]]** 执行似然比检验（Likelihood Ratio Test, LRT）比较单层模型与两层模型的拟合优度，确认 ICC 是否显著大于零。
+> 5. **换算设计效应与[[Effective Sample Size\|有效样本量]]** 结合平均集群规模 $m$，测定设计效应 $\text{Deff} = 1 + (m - 1)\rho$，[[Evaluation Research\|评估研究]]的真实有效信息量。
 
 ### 量化分析模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 包含 $J$ 个独立集群（如学校），第 $j$ 所学校包含 $n_j$ 名个体，平均集群规模 $m = \frac{1}{J}\sum n_j$。
 > - **核心变量**
->   - 产出变量 $Y_{ij}$：第 $j$ 所学校第 $i$ 名学生的[[Pre-test and Post-test|后测]]标准化成绩。
->   - 集群标识符 $\text{ClusterID}_j$：学校或班级的唯一分类[[Coding in Qualitative Research|编码]]。
+>   - 产出变量 $Y_{ij}$：第 $j$ 所学校第 $i$ 名学生的[[Pre-test and Post-test\|后测]]标准化成绩。
+>   - 集群标识符 $\text{ClusterID}_j$：学校或班级的唯一分类[[Coding in Qualitative Research\|编码]]。
 > - **诊断与检验** 集群规模变异系数（CV of Cluster Size）检验、极端异常集群影响诊断。
 
 > [!formula-step] 公式步骤　空模型方差分解与 ICC 定义式
@@ -171,12 +171,12 @@ updated: 2026-09-18
 >
 > **注意事项** 计算基线 ICC 时必须严守未受协变量吸收的空模型；若提前纳入了强解释力协变量（如前测），得到的将是“条件残差 ICC”，两者不可混淆。
 
-> [!formula-step] 公式步骤　设计效应（Design Effect）与有效[[Sample Size Determination|样本量]]换算
+> [!formula-step] 公式步骤　设计效应（Design Effect）与有效[[Sample Size Determination\|样本量]]换算
 > $$\text{Deff} = 1 + (m - 1)\rho$$
 >
 > $$N_{\text{eff}} = \frac{N}{\text{Deff}} = \frac{J \cdot m}{1 + (m - 1)\rho}$$
 >
-> **这个公式在做什么** 计算由于集群内部非独立性导致的抽样方差膨胀系数（设计效应），并将名义样本量折算为等效的独立[[Random Sampling|简单随机抽样]]有效样本量。
+> **这个公式在做什么** 计算由于集群内部非独立性导致的抽样方差膨胀系数（设计效应），并将名义样本量折算为等效的独立[[Random Sampling\|简单随机抽样]]有效样本量。
 >
 > **符号说明**
 > - $\text{Deff}$：设计效应（Design Effect），方差膨胀因子。
@@ -184,9 +184,9 @@ updated: 2026-09-18
 > - $N = J \cdot m$：试验名义总样本量。
 > - $N_{\text{eff}}$：真实的有效样本量（Effective Sample Size）。
 >
-> **数学直觉** 如果每班有 31 名学生（$m = 31$），$\rho = 0.10$，则 $\text{Deff} = 1 + 30 \times 0.10 = 4.0$。这意味着[[Cluster Sampling|整群抽样]]的数据方差是简单随机抽样的 4 倍！收集了 4,000 名学生的数据，其包含的统计推断信息量仅等价于 **1,000 名独立个体**。
+> **数学直觉** 如果每班有 31 名学生（$m = 31$），$\rho = 0.10$，则 $\text{Deff} = 1 + 30 \times 0.10 = 4.0$。这意味着[[Cluster Sampling\|整群抽样]]的数据方差是简单随机抽样的 4 倍！收集了 4,000 名学生的数据，其包含的统计推断信息量仅等价于 **1,000 名独立个体**。
 >
-> **结果怎么读** $\text{Deff}$ 直接决定了[[Standard Error|标准误]]的放大比例：集群试验的真实标准误为传统独立标准误乘以 $\sqrt{\text{Deff}}$。若忽略该项，实际 $t$ 统计量会被虚假放大 $\sqrt{\text{Deff}}$ 倍。
+> **结果怎么读** $\text{Deff}$ 直接决定了[[Standard Error\|标准误]]的放大比例：集群试验的真实标准误为传统独立标准误乘以 $\sqrt{\text{Deff}}$。若忽略该项，实际 $t$ 统计量会被虚假放大 $\sqrt{\text{Deff}}$ 倍。
 >
 > **注意事项** 当集群规模不平衡时，需采用调和均值或引入变异系数校正公式（Eldridge et al., 2006）。
 
@@ -212,9 +212,9 @@ updated: 2026-09-18
 >     loneway post_score school_id
 >     ```
 > - **实现流程**
->   1. 拟合单因素[[Fixed-Effect and Random-Effects Models|随机效应模型]]；
+>   1. 拟合单因素[[Fixed-Effect and Random-Effects Models\|随机效应模型]]；
 >   2. 提取组间方差与组内残差方差；
->   3. 计算 ICC 与 95% [[Confidence Interval|置信区间]]；
+>   3. 计算 ICC 与 95% [[Confidence Interval\|置信区间]]；
 >   4. 结合每校平均被试数测算设计效应。
 > - **报告标准** 报告 ICC 点估计值、95% 置信区间、平均集群规模 $m$、集群数量 $J$ 以及最终测算的设计效应 $\text{Deff}$。
 
@@ -224,14 +224,14 @@ updated: 2026-09-18
 
 > [!method-fit] 适用判断
 > - **适合使用**
->   - 任何涉及学校、班级、诊所或社区的[[Cluster Randomized Trials|集群随机对照试验]]前期功效分析与[[Sample Size Determination|样本量]]测算；
->   - 判断多层嵌套数据是否有必要建立[[Hierarchical Linear Model|多层线性模型]]或[[Generalized Estimating Equations|广义估计方程]]（若 ICC 显著大于 0 则必须建立）；
->   - 行为科学与心理量表测试中评估多位观察者主观评分的一致性（跨[[Inter-Rater Reliability|评分者信度]]）。
+>   - 任何涉及学校、班级、诊所或社区的[[Cluster Randomized Trials\|集群随机对照试验]]前期功效分析与[[Sample Size Determination\|样本量]]测算；
+>   - 判断多层嵌套数据是否有必要建立[[Hierarchical Linear Model\|多层线性模型]]或[[Generalized Estimating Equations\|广义估计方程]]（若 ICC 显著大于 0 则必须建立）；
+>   - 行为科学与心理量表测试中评估多位观察者主观评分的一致性（跨[[Inter-Rater Reliability\|评分者信度]]）。
 > - **谨慎使用**
 >   - 集群数量过少（$J < 15$）时，极大似然法估计的组间方差容易发生向下偏倚，导致 ICC 点估计不稳定；
->   - 集群规模极度非平衡且方差存在强烈[[Heterogeneity|异质性]]的数据。
+>   - 集群规模极度非平衡且方差存在强烈[[Heterogeneity\|异质性]]的数据。
 > - **不适合使用**
->   - 严格的个体[[Random Assignment|随机分配]]且受试者完全独立互不影响的经典实验设计；
+>   - 严格的个体[[Random Assignment\|随机分配]]且受试者完全独立互不影响的经典实验设计；
 >   - 没有任何层级聚类标记的纯横截面数据。
 
 ---
@@ -239,7 +239,7 @@ updated: 2026-09-18
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **抽样不确定性大** 当集群数较小时，ICC 的[[Confidence Interval|置信区间]]往往极宽，依据历史[[Document|文献]]粗略猜测 ICC 极易导致试验先期功效设计严重失实。
+> - **抽样不确定性大** 当集群数较小时，ICC 的[[Confidence Interval\|置信区间]]往往极宽，依据历史[[Document\|文献]]粗略猜测 ICC 极易导致试验先期功效设计严重失实。
 > - **集群规模不平衡时的敏感性** 经典公式假定各集群规模完全相等；当各校学生人数差距悬殊时，标准设计效应公式会低估真实的方差膨胀程度。
 > - **补救方式** 优先从官方大规模国家普查数据（如英格兰 NPD 归档）中提取先验 ICC；规模不均时采用加权设计效应公式（Eldridge et al., 2006）。
 
@@ -249,11 +249,11 @@ updated: 2026-09-18
 
 > [!debates] 学术争议
 >
-> > [!axis] [[Educational Evidence Clearinghouses|证据清算中心]]的 ICC 审查门槛 vs 现场实证研究者的统计遗忘
-> > 评估规范对集群偏倚的严格问责与研究实践中普遍存在的[[Unit of Analysis|分析单位]]错位。
+> > [!axis] [[Educational Evidence Clearinghouses\|证据清算中心]]的 ICC 审查门槛 vs 现场实证研究者的统计遗忘
+> > 评估规范对集群偏倚的严格问责与研究实践中普遍存在的[[Unit of Analysis\|分析单位]]错位。
 > >
-> > - **证据清算规范（[[What Works Clearinghouse|WWC]] / [[Education Endowment Foundation|EEF]] 门槛）** 坚决执行 ICC 一票否决制。WWC 明确规定，任何集群试验若未校正 ICC，直接剥夺最高证据评级；《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018; Demack, 2019）强制要求所有试验方案在 [[Statistical Analysis Plan|SAP]] 中[[Preregistration|预注册]] ICC 设定值与校正模型。
-> > - **实地发表实践缺陷** [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 针对全球 12 所清算中心的元审查揭示：除 WWC 外，多数教育数据库（如 [[National Dropout Prevention Center|NDPC]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]]）对 ICC 校正视而不见，大量未做校正的假阳性试验被误评为“有效”，深刻揭示了循证界内部的标准割裂。
+> > - **证据清算规范（[[What Works Clearinghouse\|WWC]] / [[Education Endowment Foundation\|EEF]] 门槛）** 坚决执行 ICC 一票否决制。WWC 明确规定，任何集群试验若未校正 ICC，直接剥夺最高证据评级；《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018; Demack, 2019）强制要求所有试验方案在 [[Statistical Analysis Plan\|SAP]] 中[[Preregistration\|预注册]] ICC 设定值与校正模型。
+> > - **实地发表实践缺陷** [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] 针对全球 12 所清算中心的元审查揭示：除 WWC 外，多数教育数据库（如 [[National Dropout Prevention Center\|NDPC]]、[[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]]）对 ICC 校正视而不见，大量未做校正的假阳性试验被误评为“有效”，深刻揭示了循证界内部的标准割裂。
 
 ---
 
@@ -274,7 +274,7 @@ updated: 2026-09-18
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 详述了 [[Education Endowment Foundation|EEF]] 试验复算审计推动出台国家级《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），确立强制采用组内相关系数（ICC）与聚类稳健[[Standard Error|标准误]]模型（Demack, 2019）的技术准则。
-> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 详析全球 12 所[[Educational Evidence Clearinghouses|证据清算中心]]在[[Cluster Randomized Trials|集群随机试验]]审查中的分歧，批判了忽视 ICC 校正与[[Unit of Analysis|分析单位]]错位导致虚假显著性的普遍现象。
-> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 采用双向随机效应绝对一致性单评分者模型 ICC(2,1) 评估大语言模型与人类专家在 156 项教育[[Meta-analysis|元分析]]数据提取中的准确性与评分者间一致性（LLMs $\text{ICC} = 0.96–0.97$）。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述了 [[Education Endowment Foundation\|EEF]] 试验复算审计推动出台国家级《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），确立强制采用组内相关系数（ICC）与聚类稳健[[Standard Error\|标准误]]模型（Demack, 2019）的技术准则。
+> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 详析全球 12 所[[Educational Evidence Clearinghouses\|证据清算中心]]在[[Cluster Randomized Trials\|集群随机试验]]审查中的分歧，批判了忽视 ICC 校正与[[Unit of Analysis\|分析单位]]错位导致虚假显著性的普遍现象。
+> - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 采用双向随机效应绝对一致性单评分者模型 ICC(2,1) 评估大语言模型与人类专家在 156 项教育[[Meta-analysis\|元分析]]数据提取中的准确性与评分者间一致性（LLMs $\text{ICC} = 0.96–0.97$）。

@@ -43,16 +43,16 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Pepka Boyadjieva 是保加利亚科学院（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。她的研究聚焦于高等教育社会学、高等教育不平等和社会正义，以将[[Capability Approach|可行能力路径]]（capability approach）与新制度主义视角结合发展高等教育的多维使命模型而著称([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125, 140]])。
+> - **身份位置** Pepka Boyadjieva 是保加利亚科学院（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。她的研究聚焦于高等教育社会学、高等教育不平等和社会正义，以将[[Capability Approach\|可行能力路径]]（capability approach）与新制度主义视角结合发展高等教育的多维使命模型而著称([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.125, 140]])。
 
 ---
 
 ## 生平与职涯
 
 > [!note]-
-> - 任职于保加利亚科学院哲学与社会学研究所([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.125]])
-> - 参与由保加利亚国家科学基金资助的 JustEdu 项目——"高等教育和成人教育参与中的不平等动态：比较社会正义视角"（项目编号 КП-06-ДВ-2/16.12.2019）([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.140]])
-> - 2022 年在 Parreira do Amaral & Thompson 主编的 *Geopolitical Transformations in Higher Education* 论文集中发表第 8 章([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022]])
+> - 任职于保加利亚科学院哲学与社会学研究所([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.125]])
+> - 参与由保加利亚国家科学基金资助的 JustEdu 项目——"高等教育和成人教育参与中的不平等动态：比较社会正义视角"（项目编号 КП-06-ДВ-2/16.12.2019）([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.140]])
+> - 2022 年在 Parreira do Amaral & Thompson 主编的 *Geopolitical Transformations in Higher Education* 论文集中发表第 8 章([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022]])
 
 ---
 
@@ -86,7 +86,7 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!tip]-
-> Boyadjieva 的核心理论贡献是与 Ilieva-Trichkova 共同发展的高等教育多维使命模型。该模型沿两条轴线组织：（1）影响层面——个体 vs 社会；（2）影响性质——工具性（instrumental）、内在性（intrinsic）和转化/赋权性（transformative/empowering）。由此形成 2×3 的矩阵框架，系统展现高等教育作为制度的复杂多元使命([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.128–130]])。
+> Boyadjieva 的核心理论贡献是与 Ilieva-Trichkova 共同发展的高等教育多维使命模型。该模型沿两条轴线组织：（1）影响层面——个体 vs 社会；（2）影响性质——工具性（instrumental）、内在性（intrinsic）和转化/赋权性（transformative/empowering）。由此形成 2×3 的矩阵框架，系统展现高等教育作为制度的复杂多元使命([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.128–130]])。
 
 该模型揭示：全球排名仅捕获了高等教育使命矩阵中极小的一部分——主要是个体层面的工具性价值（[[Employability|就业力]]）和社会层面的工具性价值（经济增长、创新）——而系统性地忽略了高等教育的内在价值（知识本身、理性、宽容等社会价值的合法化）和转化/赋权价值（人格发展、[[Critical Thinking|批判性思维]]、社会群体流动和参与）([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132–136]])。
 

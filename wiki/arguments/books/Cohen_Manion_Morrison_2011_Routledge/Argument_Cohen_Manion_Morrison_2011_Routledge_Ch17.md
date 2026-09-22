@@ -113,7 +113,7 @@ updated: '2026-09-18'
 
 ## 概念地图
 
-> [!knowledge-map]- 第17章 [[Concept Mapping|概念地图]]
+> [!knowledge-map]- 第17章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_17_Concept_Map.jpg)
 
 ## 章节内容
@@ -165,7 +165,7 @@ updated: '2026-09-18'
 #### 从医学到教育的制度迁移
 
 > [!dev-timeline] 从 Cochrane 到 Campbell：循证实践的制度扩散
-> - **1972 — Cochrane 的奠基** Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导随机对照试验及其系统综述和[[Document|文献]]记录，推动了 Cochrane 协作网的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp. 336–337）。
+> - **1972 — Cochrane 的奠基** Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导随机对照试验及其系统综述和[[Document\|文献]]记录，推动了 Cochrane 协作网的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp. 336–337）。
 > - **1990s 后期 — 进入社会政策与教育** 循证实践进入社会政策、社会工作（MacDonald, 1997）和教育（Fitz-Gibbon, 1997）。在教育研究前沿的是伦敦大学 EPPI-Centre 和杜伦大学 CEM 中心，Fitz-Gibbon and Tymms 展示了指标系统如何与实验方法结合，为"我们如何知道什么有效？"提供因果推断证据（Fitz-Gibbon, 1999, p. 33）（pp. 337–338）。
 > - **2000 — Campbell 协作网成立** SPECTR 注册库转移至 Campbell 协作网，成为 Cochrane 在教育和社会科学领域的平行机构（p. 330）。
 
@@ -182,10 +182,10 @@ Anderson & Biddle（1991）和 Fitz-Gibbon 指出：政策制定者在制定政�
 > 2. **解决问题与避免有害程序** 识别并避免可能对学生产生负面影响的做法
 > 3. **创造改进** 引导更有效的学习
 >
-> Fitz-Gibbon 进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]。统计显著性在大样本中容易获得（Fitz-Gibbon, 1997, p. 118; Kline, 2004），而效应量受[[Sample Size Determination|样本量]]影响的方式更微妙，可以直接进入元分析的数据聚合（Glass et al., 1981; Lipsey, 1992; Coe, 2000, 2002）。Carver（1978）、Thompson（1994, 1996, 1998, 2001, 2002; Thompson & Snyder, 1997）和 Coe（2000）等人由此主张挣脱统计显著性的束缚，转向效应量这一更精细的尺度。在以上讨论的基础上，Fitz-Gibbon 提出了另一层转向：决定一个研究发现有没有用的，应该是[[Fitness for Purpose|目的适配性]]（fitness for purpose）——效应量是否满足研究需要，而不是 p 值是否小于 0.05。p < 0.05 这个门槛来自约定俗成，样本足够大时再微小的效应也能跨过去，样本太小时真正有效的干预反而跨不过去，用它来裁决一个研究的价值是武断的（pp. 339–340）。
+> Fitz-Gibbon 进一步主张证据应检验[[Effect Size\|效应量]]而非[[Statistical Significance\|统计显著性]]。统计显著性在大样本中容易获得（Fitz-Gibbon, 1997, p. 118; Kline, 2004），而效应量受[[Sample Size Determination\|样本量]]影响的方式更微妙，可以直接进入元分析的数据聚合（Glass et al., 1981; Lipsey, 1992; Coe, 2000, 2002）。Carver（1978）、Thompson（1994, 1996, 1998, 2001, 2002; Thompson & Snyder, 1997）和 Coe（2000）等人由此主张挣脱统计显著性的束缚，转向效应量这一更精细的尺度。在以上讨论的基础上，Fitz-Gibbon 提出了另一层转向：决定一个研究发现有没有用的，应该是[[Fitness for Purpose\|目的适配性]]（fitness for purpose）——效应量是否满足研究需要，而不是 p 值是否小于 0.05。p < 0.05 这个门槛来自约定俗成，样本足够大时再微小的效应也能跨过去，样本太小时真正有效的干预反而跨不过去，用它来裁决一个研究的价值是武断的（pp. 339–340）。
 
 > [!warning] 效应量转向的边界
-> 虽然效应量可能比统计显著性更精细，但小样本效应的[[External Validity|可推广性]]问题并不会因为使用效应量而消失，将小样本数据迁移到更大图景时仍面临可推广性挑战（pp. 340）。
+> 虽然效应量可能比统计显著性更精细，但小样本效应的[[External Validity\|可推广性]]问题并不会因为使用效应量而消失，将小样本数据迁移到更大图景时仍面临可推广性挑战（pp. 340）。
 
 ---
 
@@ -205,7 +205,7 @@ Fitz-Gibbon（1996）的提醒不会消失：教育界需要证据作为其判�
 Bhadwal & Panda（1991）的研究是探索课堂方法有效性的典型例子，这类研究常常被埋没，尤其是作为学位论文的那部分（p. 341）。
 
 > [!def] 元分析的核心定义
-> 元分析（Meta-analysis）是"对分析的分析"（the analysis of other analyses），即聚合和合并可比较研究的结果以发现主要效应。定量元分析的核心操作是：对多项独立研究的[[Effect Size|效应量]]进行统计综合，同时分析效应量与纳入研究特征之间的关系。统计处理用于减弱污染因素的影响，如[[Sampling Error|抽样误差]]、测量误差和范围限制。研究发现被编码为实质性类别以便概括（Glass et al., 1981），使传统叙事综述会错过的发现一致性得以揭示。质性元分析同样被倡导（p. 341–343）。
+> 元分析（Meta-analysis）是"对分析的分析"（the analysis of other analyses），即聚合和合并可比较研究的结果以发现主要效应。定量元分析的核心操作是：对多项独立研究的[[Effect Size\|效应量]]进行统计综合，同时分析效应量与纳入研究特征之间的关系。统计处理用于减弱污染因素的影响，如[[Sampling Error\|抽样误差]]、测量误差和范围限制。研究发现被编码为实质性类别以便概括（Glass et al., 1981），使传统叙事综述会错过的发现一致性得以揭示。质性元分析同样被倡导（p. 341–343）。
 >
 > 该术语由 Glass（1976）在美国教育研究协会主席演说中首次提出，Glass et al.（1978, 1981）将其发展为系统方法，此后 Hedges & Olkin（1985）、Hedges（1990）和 Rosenthal（1991）等人进一步推进了这一方法。早期元分析使用组合概率和结果落入定义类别的频率（如在给定水平上是否显著），但样本量差异混淆了严谨性：大样本可使微小效应显著，而小样本的重要数据可能因未达显著性而被遗漏（Light & Smith, 1971; Glass et al., 1981; McGaw, 1997, p. 371）（pp. 343–344）。
 
@@ -220,7 +220,7 @@ Bhadwal & Panda（1991）的研究是探索课堂方法有效性的典型例子�
 #### 元分析的优势
 
 > [!strength] Fitz-Gibbon (1985, p. 46) 提出的三项优势
-> - **让被遗忘的小规模报告重获价值** 那些[[Humility in Learning|谦逊]]的小规模报告不必继续蒙尘，可以通过元分析贡献证据
+> - **让被遗忘的小规模报告重获价值** 那些[[Humility in Learning\|谦逊]]的小规模报告不必继续蒙尘，可以通过元分析贡献证据
 > - **汇总多研究结果而不必协调研究本身** 个别学生和教师的小规模研究因此变得有用，元分析从多项独立研究中提取和合并结果，不需要研究者之间事先协商统一方案
 > - **开辟历史比较的新维度** 将不同年代的效应量串联起来，考察干预效果如何随历史条件变化，为教育史研究提供量化视角（p. 341）
 
@@ -234,7 +234,7 @@ McGaw（1997, p. 371）认为，定量元分析用透明和明确的程序替代
 > 1. **缺乏全面性** 具有选择性，只涉及部分研究
 > 2. **错误和粗略呈现** 对研究发现进行歪曲和粗糙的表述
 > 3. **过度依赖显著性检验** 忽视样本量对显著性水平的主要影响，也忽视效应量
-> 4. **忽视[[Random Sampling|随机抽样]]误差** 未能认识到随机[[Sampling Error|抽样误差]]可以导致研究间发现的变化
+> 4. **忽视[[Random Sampling\|随机抽样]]误差** 未能认识到随机[[Sampling Error\|抽样误差]]可以导致研究间发现的变化
 > 5. **忽视冲突发现** 忽略不同和相互矛盾的研究发现
 > 6. **未批判性审查先前综述** 未能审查先前综述的证据、方法和结论
 > 7. **忽视样本特征的中介作用** 忽视研究发现受样本特征中介的程度
@@ -250,10 +250,10 @@ McGaw（1997, p. 371）认为，定量元分析用透明和明确的程序替代
 ##### Glass et al. (1981) 与 Hunter et al. (1982) 的八步法
 
 > [!proc] Glass & Hunter 八步程序（pp. 344–346）
-> 1. **确定关注的变量** 识别[[Independent Variable|自变量]]和[[Dependent Variable|因变量]]
-> 2. **识别所有涉及这些变[[Quantitative Research|量的研究]]**
+> 1. **确定关注的变量** 识别[[Independent Variable\|自变量]]和[[Dependent Variable\|因变量]]
+> 2. **识别所有涉及这些变[[Quantitative Research\|量的研究]]**
 > 3. **编码研究特征** 对每项研究编码可能预测结果和效应量的特征（如参与者年龄、性别、种族、干预持续时间）
-> 4. **计算效应量** 计算每对变量（因变量和自变量）的效应量（见 Glass, 1977），按[[Sample Size Determination|样本量]]加权
+> 4. **计算效应量** 计算每对变量（因变量和自变量）的效应量（见 Glass, 1977），按[[Sample Size Determination\|样本量]]加权
 > 5. **计算均值和标准差** 计算跨研究效应量的均值和标准差，即跨研究方差
 > 6. **确定误差影响** 确定抽样误差、测量误差和范围限制的影响
 > 7. **判断准确性** 若方差的大部分归因于步骤 6 的问题，平均效应量可被视为变量间关系的准确估计
@@ -263,8 +263,8 @@ McGaw（1997, p. 371）认为，定量元分析用透明和明确的程序替代
 
 > [!proc] Cook 四阶段整合性综述（pp. 346–348）
 > 1. **问题形成（Problem formulation）** 高质量元分析必须在综述的设计、执行和分析上保持严谨
-> 2. **数据收集（Data collection）** 纳入研究的抽样必须展示[[Fitness for Purpose|目的适配性]]
-> 3. **数据检索与分析（Data retrieval and analysis）** 处理非[[Experimental Research|实验研究]]（整合性综述即属此类）中的效度威胁，效度必须展示目的适配性、编码信度，并关注原始研究的方法论严谨性
+> 2. **数据收集（Data collection）** 纳入研究的抽样必须展示[[Fitness for Purpose\|目的适配性]]
+> 3. **数据检索与分析（Data retrieval and analysis）** 处理非[[Experimental Research\|实验研究]]（整合性综述即属此类）中的效度威胁，效度必须展示目的适配性、编码信度，并关注原始研究的方法论严谨性
 > 4. **分析与解释（Analysis and interpretation）** 多项研究的累积发现应被视为复杂数据点，需要通过细致的统计分析来解释
 
 ##### Fitz-Gibbon (1984, pp. 141–142) 的四步法
@@ -297,7 +297,7 @@ McGaw（1997, p. 371）认为，定量元分析用透明和明确的程序替代
 Wood（1995, p. 393）建议效应量也可通过将显著性水平除以样本量来计算。Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不同权重的替代公式。最常用的两种效应量指标是标准化均值差和相关系数（Glass et al., 1981, p. 373），尽管非参数统计量（如中位数）也可使用。Lipsey（1992, pp. 93–100）列出了处理效应量、效应量均值和同质性的系列统计检验（pp. 349–353）。
 
 > [!warning] 适用范围限制
-> Glass 等人[[Hypothesis|假设]]元分析仅适用于实验型研究而非所有类型的研究，这可能限制其适用性（pp. 350–351）。
+> Glass 等人[[Hypothesis\|假设]]元分析仅适用于实验型研究而非所有类型的研究，这可能限制其适用性（pp. 350–351）。
 
 ---
 
@@ -307,8 +307,8 @@ Glass & Smith（1978）的[[Class Size|班级规模]]研究是元分析的经典
 
 > [!case] Glass & Smith · 班级规模与学习成就
 >
-> **[[Research Scope|研究范围]]与数据规模**
-> Glass & Smith（1978）和 Glass et al.（1981, pp. 35–44）识别了 **77 项**关于[[Class Size|班级规模]]与学生学习的实证研究。这些研究产生了 **725 项**关于较小班级和较大班级成就的比较，数据累积来自近 **900,000 名**各年龄段和能力的学生，学习各学科（p. 357）。
+> **[[Research Scope\|研究范围]]与数据规模**
+> Glass & Smith（1978）和 Glass et al.（1981, pp. 35–44）识别了 **77 项**关于[[Class Size\|班级规模]]与学生学习的实证研究。这些研究产生了 **725 项**关于较小班级和较大班级成就的比较，数据累积来自近 **900,000 名**各年龄段和能力的学生，学习各学科（p. 357）。
 >
 > **分析方法** 使用回归分析，725 项比较被整合为一条显示班级规模与成就关系的单一曲线。该曲线揭示了班级规模与学生学习之间存在明确的**负相关**。
 >
@@ -328,7 +328,7 @@ Glass & Smith（1978）的[[Class Size|班级规模]]研究是元分析的经典
 > Source: Adapted from Glass & Smith, 1978
 
 > [!finding-cards] 案例的三重方法论含义
-> - **元分析可以发现单一研究无法揭示的稳健模式** 跨 77 项研究、725 项比较和近 90 万学生的一致性，即从各年龄段、各学科和各能力水平中[[Emergence|涌现]]的负相关，说明当样本量和分析系统化程度足够时，元分析可以聚合出传统叙事综述无法发现的规律。
+> - **元分析可以发现单一研究无法揭示的稳健模式** 跨 77 项研究、725 项比较和近 90 万学生的一致性，即从各年龄段、各学科和各能力水平中[[Emergence\|涌现]]的负相关，说明当样本量和分析系统化程度足够时，元分析可以聚合出传统叙事综述无法发现的规律。
 > - **方法论质量确实会改变结论，这支持了 Slavin 的批评立场** 控制好坏产生不同回归线。Glass & Smith 自己的元分析证据表明质量差异不能忽视，这直接参与了垃圾进垃圾出之争，Slavin（1984a, 1984b）主张不能不加区分地纳入所有研究，Glass 自己在班级规模案例中的分层分析恰恰印证了这一立场。
 > - **单一平均效应量不足以说明问题，这支持了 Glass 本人的警告** Glass 作为元分析创始人，本人警告元分析的结果永远不应该是平均值，而应该是一张图。本案例正是这一原则的示范：分控制质量呈现两条曲线比报告单一 d 值揭示了远更丰富的证据结构。
 
@@ -348,12 +348,12 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 > [!claim] Morrison, K. (2001) — 公平性的根本追问
 > Morrison（2001, p. 78）将可比性问题推向逻辑极致（pp. 369–370）：
 >
-> > 如果各实验的[[Hypothesis|假设]]不同、假设不是同一[[Construct|构念]]的[[Operationalization|操作化]]、RCT 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？
+> > 如果各实验的[[Hypothesis\|假设]]不同、假设不是同一[[Construct\|构念]]的[[Operationalization\|操作化]]、RCT 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？
 >
 > 这一追问直指元分析的前提：如果连是否在测量同一个东西都无法确认，合并效应量就失去了逻辑基础。
 
 > [!success] 支持者的回应与 Glass 本人的保留
-> Smith & Glass（1977）、Glass et al.（1981, pp. 218–220）、Slavin（1995）和 Evans et al.（2000）回应了这些批评，主张研究间差异可以被[[Coding in Qualitative Research|编码]]并在分析中处理。但这将问题从"是否可合并"转移为"如何更好地合并"，并未消除根本性的不可比问题。最值得玩味的是，Glass 本人，即元分析的创始人，也发出警告：元分析的结果永远不应该是平均值，而应该是一张图（Robinson, 2004, p. 29, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 119]]）。这句话既是方法论忠告，也隐含了对平均效应量使用的深刻保留（pp. 370–372）。
+> Smith & Glass（1977）、Glass et al.（1981, pp. 218–220）、Slavin（1995）和 Evans et al.（2000）回应了这些批评，主张研究间差异可以被[[Coding in Qualitative Research\|编码]]并在分析中处理。但这将问题从"是否可合并"转移为"如何更好地合并"，并未消除根本性的不可比问题。最值得玩味的是，Glass 本人，即元分析的创始人，也发出警告：元分析的结果永远不应该是平均值，而应该是一张图（Robinson, 2004, p. 29, cited in [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 119]]）。这句话既是方法论忠告，也隐含了对平均效应量使用的深刻保留（pp. 370–372）。
 
 ##### 维度二：输入质量——垃圾进，垃圾出
 
@@ -375,7 +375,7 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 第三条批判线索涉及证据库的完整性问题（pp. 357–358, 363–365）。
 
 > [!critique] Wolf (1986) — 已发表研究优于未发表研究
-> Wolf（1986, pp. 14–17）将[[Publication Bias|发表偏倚]]列为六项核心批评之一：已发表研究在元分析中更受青睐，而未发表研究，尤其是那些结果不显著的研究，难以被纳入（pp. 357–358）。
+> Wolf（1986, pp. 14–17）将[[Publication Bias\|发表偏倚]]列为六项核心批评之一：已发表研究在元分析中更受青睐，而未发表研究，尤其是那些结果不显著的研究，难以被纳入（pp. 357–358）。
 
 > [!success] Glass et al. (1981) — 未发表研究作为刹车
 > Glass et al.（1981, pp. 226–229）的回应是：元分析恰好适合纳入未发表的学位论文，这些论文报告的相关系数往往比已发表研究更弱，可以用来对冲已发表研究中那些更引人注目的结论。但反过来看，如果元分析没能纳入足够的未发表研究，偏倚仍然无法避免（pp. 363–364）。
@@ -390,7 +390,7 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 > [!critique-method] Wolf (1986) — 非独立数据
 > 同一研究的多个结果被同时使用，使总体元分析看起来比实际更可靠，因为结果不独立。Glass et al.（1981, pp. 153–216）指出可以用复杂数据分析技术来处理非独立性问题，但代价是操作更复杂、过程更不透明（pp. 358, 375–376）。
 
-> [!critique-method] Wolf (1986) — 忽视[[Interaction Effect|交互效应]]
+> [!critique-method] Wolf (1986) — 忽视[[Interaction Effect\|交互效应]]
 > 交互效应被忽视，只关注主效应。Wood（1995, p. 296）同样指出元分析通过集中关注总体效应而忽视中介变量的交互作用来过度简化研究结果（pp. 358, 375–376）。
 
 ##### 维度五：伪精确性与程序无效性
@@ -419,25 +419,25 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 >
 > RCT 在抽样上面临一个两难困境：样本大不一定好，样本小同样不行——"big is not necessarily beautiful, but neither is small!"（p. 377）。
 
-> [!critique] [[Random Assignment|随机化]]的伦理困境
+> [!critique] [[Random Assignment\|随机化]]的伦理困境
 > 在医学和教育中，随机化引发了伦理质疑（pp. 378–380）：
 > - **拒绝治疗** 控制组可能被拒绝获得治疗（如教师的关注或资源获取）
 > - **潜在有害处理** 参与者可能被置于潜在有害的处理中
 > - **边界案例方法** Fitz-Gibbon & Morris（1987）提出仅将边界案例，即最不需要治疗的患者，随机分配到控制组。虽然伦理上可行，但限制了结果的可推广性
-> - **[[Informed Consent|知情同意]]的偏向** 知情同意可能导致抽样偏向志愿者，而志愿者可能不具代表性
+> - **[[Informed Consent\|知情同意]]的偏向** 知情同意可能导致抽样偏向志愿者，而志愿者可能不具代表性
 > - **自然正义冲突** Wilkins（1969）指出：在某些情况下随机化可能违反自然正义。例如，如果学校要试行某种惩罚措施，为了实验利益而豁免部分违规者接受惩罚，会与自然正义原则矛盾（Clarke & Dawson, 1999, p. 98）
 
-> [!critique-method] [[Attrition|实验死亡率]]与[[Attrition|样本流失]]
+> [!critique-method] [[Attrition\|实验死亡率]]与[[Attrition\|样本流失]]
 > Clarke & Dawson（1999, p. 130）指出，在医疗保健中治疗可能产生不良反应，导致患者退出实验；其他人也可能直接离开。这导致"实验死亡率"或流失率的问题（Campbell & Stanley, 1963）。教育领域对这一问题的处理方式则不那么清晰（cf. Rossi & Freeman, 1993）。这会破坏对照组和实验组之间的预设对等性，而关于参与者在组内和组间的范围和特征，这种对等性本就存疑。
 >
 > 随着组的构成发生变化，无论多轻微（混沌理论提醒微小变化可产生巨大效应），情境的动态也在变化，研究协议、条件、背景和内容的一致性和可比性被破坏。应对这一问题需要不仅识别样本分配到控制组和实验组的精确因素，还需要识别两组之间的显著差异，判断两者之间的不相似是否可能超过相似（pp. 381–382）。
 
 > [!critique] 时间之箭与不可逆性
-> Prigogine & Stengers（1985）的"时间之箭"论证指出情境不可逆地演化，在 RCT 中固定时间和情境不变是对现实的错误表征。尽管 Campbell & Stanley（1963）讨论了历史和成熟对[[Internal Validity|内部效度]]的威胁并认为随机化可以克服这些问题，但"相关人员——RCT 中涉及的人——这些因素的重要性可能被低估了"。如何在教育中应对这一问题仍是一个开放问题（pp. 382–383）。
+> Prigogine & Stengers（1985）的"时间之箭"论证指出情境不可逆地演化，在 RCT 中固定时间和情境不变是对现实的错误表征。尽管 Campbell & Stanley（1963）讨论了历史和成熟对[[Internal Validity\|内部效度]]的威胁并认为随机化可以克服这些问题，但"相关人员——RCT 中涉及的人——这些因素的重要性可能被低估了"。如何在教育中应对这一问题仍是一个开放问题（pp. 382–383）。
 
 ##### 维度八：替代解释、反驳证据与实践障碍
 
-> [!critique] [[Scientific Method|科学方法]]论的要求未满足
+> [!critique] [[Scientific Method\|科学方法]]论的要求未满足
 > 如果元分析要遵循自然科学的传统，就必须收集和评估可能推翻研究假设的替代解释和数据。这是科学方法论的标准要求，RCT 的支持者可能也会同意这一点。
 >
 > 尽管教育中元分析的倡导者（如 Fitz-Gibbon, 1984, 1985）建议同时使用已发表和未发表的研究，但存在严重的**实践问题**（pp. 383）：
@@ -456,7 +456,7 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 ##### 编码主观性与信度门槛
 
 > [!critique-method] 编码的可靠性直接决定元分析质量
-> 元分析的客观性最终取决于编码的质量。编码类别的精确度、[[Intercoder Agreement|编码者间信度]]（相当于[[Inter-Rater Reliability|评分者间信度]]，见第10章）和效度必须明示（McGaw, 1997, pp. 376–377）。Hunter et al.（1982）提出了一个实用的判断门槛：如果[[Sampling Error|抽样误差]]和测量误差等因素不能解释超过 **75%** 的观察效应量方差，则结果不可接受，因为剩余的不可解释变异过大，编码和分类可能不够可靠（pp. 362–363）。这一门槛为元分析的质量控制提供了可操作的基准。
+> 元分析的客观性最终取决于编码的质量。编码类别的精确度、[[Intercoder Agreement\|编码者间信度]]（相当于[[Inter-Rater Reliability\|评分者间信度]]，见第10章）和效度必须明示（McGaw, 1997, pp. 376–377）。Hunter et al.（1982）提出了一个实用的判断门槛：如果[[Sampling Error\|抽样误差]]和测量误差等因素不能解释超过 **75%** 的观察效应量方差，则结果不可接受，因为剩余的不可解释变异过大，编码和分类可能不够可靠（pp. 362–363）。这一门槛为元分析的质量控制提供了可操作的基准。
 
 ##### 实践障碍：时间的双重约束
 
@@ -476,7 +476,7 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 > 2. **搜索未发表研究** 主动寻找未发表的研究
 > 3. **扩大编码范围** 制定涵盖最广泛已识别研究的编码类别
 > 4. **检查交互效应** 寻找交互效应，分别检查多个自变量和因变量
-> 5. **检验[[Heterogeneity|异质性]]和异常值** 检验结果的异质性和异常值的影响，绘制结果分布图
+> 5. **检验[[Heterogeneity\|异质性]]和异常值** 检验结果的异质性和异常值的影响，绘制结果分布图
 > 6. **检查编码者间信度** 检查编码者间编码信度
 > 7. **使用效应量指标** 使用效应量指标而非统计显著性
 > 8. **计算未调整和加权结果** 同时计算未调整（原始）和加权的检验与效应量，以检查样本量对结果的影响
@@ -494,7 +494,7 @@ Thomas & Pring（2004, pp. 54–55）从研究设计层面补充了元分析应�
 [[Meta-analysis|元分析]]是研究综合的一种形式，但研究综合和[[Systematic Review|系统综述]]更广泛，包含非随机对照试验的研究（pp. 384–395）。
 
 > [!def] 研究综合与系统综述
-> **研究综合（Research Synthesis）**是一个伞式术语，涵盖将多篇研究和综述汇集为单一专家报告的一系列方法。它通常[[Evaluation Research|评估研究]]质量，并得出结论以便为政策和实践提出建议（p. 384）。
+> **研究综合（Research Synthesis）**是一个伞式术语，涵盖将多篇研究和综述汇集为单一专家报告的一系列方法。它通常[[Evaluation Research\|评估研究]]质量，并得出结论以便为政策和实践提出建议（p. 384）。
 >
 > **系统综述（Systematic Review）**是研究综合的一种更严格、更少"叙事"色彩的形式：要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003）。正是这些标准使系统综述区别于传统叙事综述，后者更宽泛且选择标准更不明确（pp. 384–385）。
 
@@ -554,7 +554,7 @@ Thomas & Pring（2004, pp. 54–55）从研究设计层面补充了元分析应�
 
 ##### 英国教育研究协会（British Educational Research Association，BERA）指南
 
-> [!info] [[British Educational Research Association|BERA]] 系统综述指南（pp. 392–393）
+> [!info] [[British Educational Research Association\|BERA]] 系统综述指南（pp. 392–393）
 > - 系统综述问题的制定
 > - 概念框架与纳入/排除标准
 > - 进一步阅读资源
@@ -563,9 +563,9 @@ Thomas & Pring（2004, pp. 54–55）从研究设计层面补充了元分析应�
 
 > [!proc] Evans & Benefield 的六项原则（pp. 393–396）
 > 1. **明确说明研究问题** 明确说明要解决的研究问题
-> 2. **系统、全面、穷尽地搜索** 系统、全面、穷尽地搜索[[Correlational Research|相关研究]]
+> 2. **系统、全面、穷尽地搜索** 系统、全面、穷尽地搜索[[Correlational Research\|相关研究]]
 > 3. **明确纳入排除标准** 包括数据提取标准（发表状态、引用细节、语言、关键词、资助来源、研究类型、干预性质、样本特征、研究规划和过程、结果评估）和研究的描述性数据（资助来源、研究类型、干预内容、人群与抽样、干预和研究的设计规划、结果评估）（Evans & Benefield, 2001, p. 537）
-> 4. **评估方法论质量** 评估每项[[Research Utilization|研究使用]]的方法论质量（如实验类型和样本、结果测量的报告）
+> 4. **评估方法论质量** 评估每项[[Research Utilization\|研究使用]]的方法论质量（如实验类型和样本、结果测量的报告）
 > 5. **明确减少偏差的策略** 明确选择和审查研究中的偏差减少策略
 > 6. **方法论透明度** 审查研究方法论的透明度
 
@@ -585,24 +585,24 @@ Thomas & Pring（2004, pp. 54–55）从研究设计层面补充了元分析应�
 #### Davies (2000) 的警示
 
 > [!warning] Davies (2000, p. 373) 的警示
-> Davies 警告研究者确保系统综述不要选择性地使用证据来制造"大多数教育干预的正面效应"的印象——即这些结论可能是综述本身方法论的产物——并确保[[Statistical Significance|统计显著性]]不凌驾于教育显著性之上。这一警示对元分析和研究综合同样适用（pp. 397–398）。
+> Davies 警告研究者确保系统综述不要选择性地使用证据来制造"大多数教育干预的正面效应"的印象——即这些结论可能是综述本身方法论的产物——并确保[[Statistical Significance\|统计显著性]]不凌驾于教育显著性之上。这一警示对元分析和研究综合同样适用（pp. 397–398）。
 
 ---
 
 ## 关键引用
 
-> [!citation-card]- McGaw 论[[Meta-analysis|元分析]]取代叙事直觉
+> [!citation-card]- McGaw 论[[Meta-analysis\|元分析]]取代叙事直觉
 > 定量元分析取代了通常以叙事方式报告的直觉，作为更透明和明确地综合不同研究的方式，尤其是当研究差异非常大时。（McGaw, 1997, p. 371）
 >
 > *Quantitative meta-analysis replaces intuition, which is frequently reported narratively, as a means of synthesizing different research studies transparently and explicitly, particularly when they differ very substantially.*
 
 > [!citation-card]- Morrison 对元分析公平性的追问
-> 如果各实验的[[Hypothesis|假设]]不同、假设不是同一[[Construct|构念]]的[[Operationalization|操作化]]、[[Randomised Controlled Trials|RCT]] 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？（Morrison, 2001, p. 78）
+> 如果各实验的[[Hypothesis\|假设]]不同、假设不是同一[[Construct\|构念]]的[[Operationalization\|操作化]]、[[Randomised Controlled Trials\|RCT]] 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？（Morrison, 2001, p. 78）
 >
 > *How can we be certain that meta-analysis is fair if the hypotheses for the separate experiments were not identical, if the hypotheses were not operationalisations of the identical constructs, if the conduct of the separate RCTs (e.g. time frames, interventions and programmes, controls, constitution of the groups, characteristics of the participants, measures used) were not identical?*
 
-> [!citation-card]- Fitz-Gibbon 论[[Effect Size|效应量]]优于显著性
-> 在元分析中，[[Variable|变量]]的效应以效应量来检验——即它们产生了多大差异——而不仅仅是效应是否在某个任意水平（如 5%）上具有[[Statistical Significance|统计显著性]]。因为使用效应量更容易关注发现的教育显著性，而不是通过统计显著性来评估其重要性，我们可能最终看到统计显著性被放在恰当的位置上——只是[[Internal Validity|内部效度]]众多可能威胁中的一个。（Fitz-Gibbon, 1985, p. 45）
+> [!citation-card]- Fitz-Gibbon 论[[Effect Size\|效应量]]优于显著性
+> 在元分析中，[[Variable\|变量]]的效应以效应量来检验——即它们产生了多大差异——而不仅仅是效应是否在某个任意水平（如 5%）上具有[[Statistical Significance\|统计显著性]]。因为使用效应量更容易关注发现的教育显著性，而不是通过统计显著性来评估其重要性，我们可能最终看到统计显著性被放在恰当的位置上——只是[[Internal Validity\|内部效度]]众多可能威胁中的一个。（Fitz-Gibbon, 1985, p. 45）
 >
 > *In meta-analysis the effects of variables are examined in terms of their effect size, that is to say, in terms of how much difference they make rather than only in terms of whether or not the effects are statistically significant at some arbitrary level such as 5 per cent. Because with effect sizes it becomes easier to concentrate on the educational significance of a finding rather than trying to assess its importance by its statistical significance, and we may finally see statistical significance kept in its place as just one of many possible [[Threats to Internal Validity]].*
 

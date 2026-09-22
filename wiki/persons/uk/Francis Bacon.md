@@ -34,14 +34,14 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 弗朗西斯·培根（Francis Bacon）是17世纪英国哲学家，被视为现代[[Scientific Method|经验科学]]方法论的奠基人之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> - **身份位置** 弗朗西斯·培根（Francis Bacon）是17世纪英国哲学家，被视为现代[[Scientific Method\|经验科学]]方法论的奠基人之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心贡献
 
 ### 归纳推理的提出
 
 > [!def] 归纳推理（Inductive Reasoning）
-> 从大量个别案例的观察出发，逐步形成[[Hypothesis|假设]]，最终达到概括。培根批评[[Aristotle|亚里士多德]]的三段论演绎模型——其大前提往往是先入之见（preconceived notions），必然使结论产生偏差（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 从大量个别案例的观察出发，逐步形成[[Hypothesis\|假设]]，最终达到概括。培根批评[[Aristotle\|亚里士多德]]的三段论演绎模型——其大前提往往是先入之见（preconceived notions），必然使结论产生偏差（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
 ### 将科学从演绎桎梏中解救
 

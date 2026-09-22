@@ -36,6 +36,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Knowledge Transfer]]"
   - "[[Reliability]]"
   - "[[Scaffolding]]"
@@ -83,7 +84,7 @@ title: "Argument_Knogler_2025_BB"
 argument_key: "Argument_Knogler_2025_BB"
 argument_display_title: "Clearing House Unterricht: Ein innovativer Ansatz zur Stärkung des Wissenschaft-Praxis-Transfers in der Lehrkräftebildung"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -96,15 +97,15 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 ## 研究问题
 
 > [!question]
-> 在实证教育科学[[Document|文献]]爆炸式激增的背景下，教师职业日益被确立为具备科学立论基础的专门职业；然而，由于教育研究侧重学术理论建构而缺乏具体行动指引、学术文本形式深奥，且一线教学实践者面临严峻的时间与资源匮乏，形成了长期困扰教育系统的[[Research-Practice Gap|转移困境]]（Transferproblem）。如何通过制度化的[[Knowledge Mediation|知识中介机制]]，将前沿教学科研成果（特别是因果效应明确的[[Meta-analysis|元分析]]）转化为教师教育与学校课堂可直接吸收应用的实践工具，进而推动[[Evidence-Informed Practice|证据知情实践]]在教育系统中的实质扎根？
+> 在实证教育科学[[Document\|文献]]爆炸式激增的背景下，教师职业日益被确立为具备科学立论基础的专门职业；然而，由于教育研究侧重学术理论建构而缺乏具体行动指引、学术文本形式深奥，且一线教学实践者面临严峻的时间与资源匮乏，形成了长期困扰教育系统的[[Research-Practice Gap\|转移困境]]（Transferproblem）。如何通过制度化的[[Knowledge Mediation\|知识中介机制]]，将前沿教学科研成果（特别是因果效应明确的[[Meta-analysis\|元分析]]）转化为教师教育与学校课堂可直接吸收应用的实践工具，进而推动[[Evidence-Informed Practice\|证据知情实践]]在教育系统中的实质扎根？
 
 > [!claim] 核心主张
-> 单纯依赖科研成果的学术发表与自发传播无法跨越转移鸿沟，必须依托专门的[[Educational Evidence Clearinghouses|教育证据清算机构]]建立专业化[[Transfer Translation Transformation|转译]]标准与服务生态；通过以数学与自然科学领域的[[Meta-analysis|元分析]]为核心证据基底进行通俗化二次加工（研制教学简评 Kurzreviews、播客与数字模块）、战略性聚焦教师教育者这一关键乘数群体，并构建制度化的持续评估与非线性反馈回路，方能有效消解[[Research-Practice Gap|研究-实践鸿沟]]，推进教师教育与职业教育的循证专业化转型。
+> 单纯依赖科研成果的学术发表与自发传播无法跨越转移鸿沟，必须依托专门的[[Educational Evidence Clearinghouses\|教育证据清算机构]]建立专业化[[Transfer Translation Transformation\|转译]]标准与服务生态；通过以数学与自然科学领域的[[Meta-analysis\|元分析]]为核心证据基底进行通俗化二次加工（研制教学简评 Kurzreviews、播客与数字模块）、战略性聚焦教师教育者这一关键乘数群体，并构建制度化的持续评估与非线性反馈回路，方能有效消解[[Research-Practice Gap\|研究-实践鸿沟]]，推进教师教育与职业教育的循证专业化转型。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 德语区教师教育与职业教育（涵盖职前师范生、见习阶段实习教师与职后在岗培训），以及慕尼黑工业大学创立的[[Clearing House Unterricht|德国教学研究清算中心]]（Clearing House Unterricht, CHU）中介转化实践。
-> - **张力** 学术[[Knowledge Production|知识生产]]的理论旨趣与微观课堂教学即时操作诉求的脱节，以及海量文献信息过载与实践者专业文献筛选、解读能力受限之间的深刻矛盾。
-> - **贡献** 首次向德语职业教育界系统解构了欧陆首个教育证据清算中心的运行[[Paradigm|范式]]；以数字化教学工具的实证元分析为例，详尽展现了从科研论文到实践简评的转译工艺；揭示其与[[Zentrum für internationale Bildungsvergleichsstudien|德国国际教育比较研究中心]]（ZIB）构建的宏观系统监测与微观课堂有效性双轨中介机制；提炼出受众适配加工、乘数群体聚焦与非线性演进三大转化机制，为理论-实践[[Dialogue in Education|对话]]提供了制度化样本。
+> - **对象** 德语区教师教育与职业教育（涵盖职前师范生、见习阶段实习教师与职后在岗培训），以及慕尼黑工业大学创立的[[Clearing House Unterricht\|德国教学研究清算中心]]（Clearing House Unterricht, CHU）中介转化实践。
+> - **张力** 学术[[Knowledge Production\|知识生产]]的理论旨趣与微观课堂教学即时操作诉求的脱节，以及海量文献信息过载与实践者专业文献筛选、解读能力受限之间的深刻矛盾。
+> - **贡献** 首次向德语职业教育界系统解构了欧陆首个教育证据清算中心的运行[[Paradigm\|范式]]；以数字化教学工具的实证元分析为例，详尽展现了从科研论文到实践简评的转译工艺；揭示其与[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）构建的宏观系统监测与微观课堂有效性双轨中介机制；提炼出受众适配加工、乘数群体聚焦与非线性演进三大转化机制，为理论-实践[[Dialogue in Education\|对话]]提供了制度化样本。
 
 ---
 
@@ -118,7 +119,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 > | **[[Educational Brokerage Agency\|教育知识中介理论（Knowledge Brokerage）]]**<br>[[Educational Brokerage Agency]] | 将中介机构界定为连接研究者与实践者的第三方桥梁（[[Richard J. Shavelson\|沙维尔森]]，Shavelson, 2020），阐明中介通过去偏筛选、通俗[[Transfer Translation Transformation\|转译]]与渠道嵌入来降低实践者认知负荷的功能。 |
 
 > [!warrant]- 理论如何支撑论证
-> 论证以现代教师专业化转型为逻辑起点：如同医学等成熟专门职业，教师专业决策必须建立在可靠科学证据基础之上以提升教学效能；然而，Gräsel (2010) 与[[Richard J. Shavelson|沙维尔森]]（Shavelson, 2020）的理论指明，科研知识与实践知识遵循完全不同的生产逻辑与激励体制，单纯依赖自发传播注定遭遇结构性阻滞。因此，必须引入第三方的[[Knowledge Mediation|知识中介机制]]，以清算中心的制度形态对实证证据进行知识筛选与加工，从而在[[Epistemology|认识论]]与实践操作之间架起稳固桥梁。
+> 论证以现代教师专业化转型为逻辑起点：如同医学等成熟专门职业，教师专业决策必须建立在可靠科学证据基础之上以提升教学效能；然而，Gräsel (2010) 与[[Richard J. Shavelson\|沙维尔森]]（Shavelson, 2020）的理论指明，科研知识与实践知识遵循完全不同的生产逻辑与激励体制，单纯依赖自发传播注定遭遇结构性阻滞。因此，必须引入第三方的[[Knowledge Mediation\|知识中介机制]]，以清算中心的制度形态对实证证据进行知识筛选与加工，从而在[[Epistemology\|认识论]]与实践操作之间架起稳固桥梁。
 
 ---
 
@@ -161,26 +162,26 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 ### 论证步骤一　单纯依赖科研自发扩散无法消解实践阻滞，必须依托专业中介机构重构转移通道
 
 > [!claim] 步骤一核心主张
-> 现代教师专业化要求教学决策建立在坚实科研证据之上，但由于学术研究侧重理论生产而实践现场面临严峻资源约束，造成了结构性[[Research-Practice Gap|转移困境]]（Transferproblem），必须由第三方专业中介机构建立系统连接。（pp. 13–14）
+> 现代教师专业化要求教学决策建立在坚实科研证据之上，但由于学术研究侧重理论生产而实践现场面临严峻资源约束，造成了结构性[[Research-Practice Gap\|转移困境]]（Transferproblem），必须由第三方专业中介机构建立系统连接。（pp. 13–14）
 
 #### 1. 教师专业化循证转向与结构性转移困境
 
 现代教师专业化发展日益借鉴医学等成熟专业领域，要求教师不仅依赖个人主观经验或直觉惯性，而应面向可靠科学证据作出理性决策（Bauer & Kollar, 2023）。科学立论的行动能够提升教学有效性并更可靠地达成培养目标（Knogler et al., 2022a, 2022b），但在学校日常教学中推进[[Evidence-Informed Practice|证据知情实践]]（Stark, 2017）面临深刻的结构性障碍。（pp. 13–14）
 
 > [!feature] 教师专业决策转向与转移困境的双重表征
-> - **科学立论的专业化诉求** 教师日常面临常规测试效用、[[Critical Thinking|批判性思维]]培养路径、数字化工具应用边界等微观抉择；实证教学研究（如探究学习与问题导向学习）虽已积累大量有效因果证据，但多散见于专业期刊，难以直接转化为微观决策支撑。
-> - **结构性转移困境的成因** 转移难题（Gräsel, 2010）并非源于证据匮乏，而是学术生产通常以理论推进与科学知识演进为目标，不直接提供行动方案（Shavelson, 2020）；同时，学术出版物质量良莠不齐，一线实践者既缺乏计量[[Document|文献]]鉴别能力，又承受着繁重课务与时间挤压，导致科研产出与实践需求长期脱节。（p. 13）
+> - **科学立论的专业化诉求** 教师日常面临常规测试效用、[[Critical Thinking\|批判性思维]]培养路径、数字化工具应用边界等微观抉择；实证教学研究（如[[Inquiry-Based Learning\|探究学习]]与问题导向学习）虽已积累大量有效因果证据，但多散见于专业期刊，难以直接转化为微观决策支撑。
+> - **结构性转移困境的成因** 转移难题（Gräsel, 2010）并非源于证据匮乏，而是学术生产通常以理论推进与科学知识演进为目标，不直接提供行动方案（Shavelson, 2020）；同时，学术出版物质量良莠不齐，一线实践者既缺乏计量[[Document\|文献]]鉴别能力，又承受着繁重课务与时间挤压，导致科研产出与实践需求长期脱节。（p. 13）
 
 面对此种系统性脱节，[[Knowledge Transfer|知识转移]]绝非学术论文发表后的自发扩散过程，必须由专业中介机构承担连接与重构职能。（pp. 13–14）
 
-> [!figure]- 图1：[[Clearing House Unterricht|德国教学研究清算中心]]（CHU）作为研究与实践的中间媒介机构
+> [!figure]- 图1：[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）作为研究与实践的中间媒介机构
 > ![](https://img.mylikemie.icu/sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig1_Clearing_House_Unterricht_Brokerage_Model.jpg)
 
 清算中心在教育生态系统中承担枢纽职能，其运行架构由三个有机衔接的功能节点构成：（p. 14）
 
-> [!proc] CHU 三阶段[[Knowledge Mediation|知识中介]]运行架构
+> [!proc] CHU 三阶段[[Knowledge Mediation\|知识中介]]运行架构
 > 1. **课堂与教学研究端（Unterrichtsforschung）** 针对中小学有效数学与自然科学等重点学科教学以及其他前沿议题，系统生产可靠的实证科学知识。
-> 2. **清算中心中介端（Clearing House Unterricht）** 专家团队依据统一标准筛选前沿研究，针对目标受众的认知与应用特征进行系统性通俗化[[Transfer Translation Transformation|转译]]加工。
+> 2. **清算中心中介端（Clearing House Unterricht）** 专家团队依据统一标准筛选前沿研究，针对目标受众的认知与应用特征进行系统性通俗化[[Transfer Translation Transformation\|转译]]加工。
 > 3. **师资培育与教学实践端（Lehrkräftebildung & Unterrichtspraxis）** 将转译后的循证知识系统嵌入职前与职后教学培养方案，落实证据知情实践原则。（p. 14）
 
 ---
@@ -188,16 +189,16 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 ### 论证步骤二　以元分析为高信度证据基底，通过分层加工显著降低实践者的认知与应用门槛
 
 > [!claim] 步骤二核心主张
-> 破除学术壁垒的关键在于以因果[[Reliability|信度]]最高的[[Meta-analysis|元分析]]为证据源头，通过制定统一学术质量规程开展通俗化二次加工，将厚重计量文献转化为分层分级的决策[[Scaffolding|脚手架]]。（pp. 14–15）
+> 破除学术壁垒的关键在于以因果[[Reliability\|信度]]最高的[[Meta-analysis\|元分析]]为证据源头，通过制定统一学术质量规程开展通俗化二次加工，将厚重计量文献转化为分层分级的决策[[Scaffolding\|脚手架]]。（pp. 14–15）
 
 #### 1. 专家规程制定与多层次中介服务矩阵
 
 美国[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）与英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的运行实践表明，高质量综合概览能够实质性降低实践者获取科研证据的门槛；慕尼黑工业大学[[Tina Seidel|蒂娜·赛德尔]]（Tina Seidel）团队于 2017 年依托[[Federal Ministry of Education and Research|BMBF]]与[[Qualitätsoffensive Lehrerbildung|QLB]]计划立项设立的[[Clearing House Unterricht|德国教学研究清算中心]]（CHU）（Seidel, Knogler et al., 2017; Seidel, Mok et al., 2017），通过专家标准与产品分层填补了德语区中介机制的空白。（p. 14）
 
 > [!proc] 教学证据中介转化的四大业务支撑
-> 1. **严苛标准与高质量证据筛选** 专家团队制定统一规范，[[FocusMath|聚焦数学]]与自然科学等学科中探讨教学有效性的当代[[Meta-analysis|元分析]]，重点吸收基于[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）的高因果信度成果。
-> 2. **轻量化科研简要评价（Kurzreviews）** 将厚重复杂的元分析原著二次加工为结构明晰的简评（Kurzreviews），直观呈现教学策略的效能大小、实施条件与[[Recommendations for Practice|实践建议]]。
-> 3. **多媒体与概念普及资源** 配套推出专题学术播客，并针对[[Effect Size|效应量]]（Effektstärke）等核心概念开发教学指南与在线术语表（Online-Glossar），扫清理解障碍。
+> 1. **严苛标准与高质量证据筛选** 专家团队制定统一规范，[[FocusMath\|聚焦数学]]与自然科学等学科中探讨教学有效性的当代[[Meta-analysis\|元分析]]，重点吸收基于[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）的高因果信度成果。
+> 2. **轻量化科研简要评价（Kurzreviews）** 将厚重复杂的元分析原著二次加工为结构明晰的简评（Kurzreviews），直观呈现教学策略的效能大小、实施条件与[[Recommendations for Practice\|实践建议]]。
+> 3. **多媒体与概念普及资源** 配套推出专题学术播客，并针对[[Effect Size\|效应量]]（Effektstärke）等核心概念开发教学指南与在线术语表（Online-Glossar），扫清理解障碍。
 > 4. **体系化数字学院课程（CHU-Academy）** 设立在线自学培训模块，涵盖科学证据通识课以及针对探究学习等具体循证教学策略的深化课程。（pp. 14–15）
 
 #### 2. 循证转化案例剖析：数字化教学工具元分析的实践转译
@@ -210,10 +211,10 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 转译过程将高密度英文计量文献解构重塑为面向德语中小学教师的实践指南《课堂中的数字化工具：有哪些类型以及如何有效应用？》，消除了语言与统计学认知壁垒。（p. 15）
 
 > [!case] 典范转化案例：从数字工具元分析到 Kurzreview
-> - **[[Primary and Secondary Documents|原始文献]]基底** Hillmayr et al. (2020) 检索了 2000 年以来全球针对中学数学与自然科学教学的 92 项实验与准[[Experimental Research|实验研究]]（$k = 92$），检验数字化工具对学生[[Academic Achievement|学业成就]]与学科态度的影响。
+> - **[[Primary and Secondary Documents\|原始文献]]基底** Hillmayr et al. (2020) 检索了 2000 年以来全球针对中学数学与自然科学教学的 92 项实验与准[[Experimental Research\|实验研究]]（$k = 92$），检验数字化工具对学生[[Academic Achievement\|学业成就]]与学科态度的影响。
 > - **转译标题主张化** 原始标题为学术性描述，CHU 简评将其改写为行动导向的实践发问：“课堂中的数字化工具：有哪些类型以及如何有效应用？”（*Digitale Tools im Unterricht: Welche Typen gibt es und wie kommen sie effektiv zum Einsatz?*）。
 > - **核心概念超级链接** 简评正文中所有专业统计术语均带有下划线，直接超链接至平台在线术语表（Online-Glossar），实现即时概念脚手架。
-> - **配套多媒体扩展** 简评右上角直接内嵌播客图标，受众可一键收听专访学者对该研究微观教学机制的深度[[Dialogue in Education|对话]]。（p. 15）
+> - **配套多媒体扩展** 简评右上角直接内嵌播客图标，受众可一键收听专访学者对该研究微观教学机制的深度[[Dialogue in Education\|对话]]。（p. 15）
 
 在简要评价首页，清算中心将复杂的[[Meta-regression|元回归]]与[[Heterogeneity|异质性]]检验提炼为结构化决策参数：（p. 15）
 
@@ -221,7 +222,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 > - **研究焦点（Fokus der Studie）** 检验数字化工具对学业成绩以及对数学与自然科学学科态度的综合因果影响。
 > - **调查目标群体（Untersuchte Zielgruppe）** 中学阶段学生。
 > - **平均效应量（Durchschnittliche Effektstärke）** 对学业成绩产生中等程度且统计显著的正向效应（Hedges' $g = 0.65, p < .001$）；对学科态度产生较小但统计显著的正向效应（Hedges' $g = 0.45$）。
-> - **其他重要发现（Weitere Befunde）** 教师专业培训对数字化工具的教学效果具有极显著的[[Interaction Effect|调节效应]]；[[Intelligent Tutoring Systems|智能辅导系统]]（Intelligent Tutoring Systems, ITS）与动态模拟软件的效果显著优于传统超媒体系统。（p. 15）
+> - **其他重要发现（Weitere Befunde）** 教师专业培训对数字化工具的教学效果具有极显著的[[Interaction Effect\|调节效应]]；[[Intelligent Tutoring Systems\|智能辅导系统]]（Intelligent Tutoring Systems, ITS）与动态模拟软件的效果显著优于传统超媒体系统。（p. 15）
 
 同时，简要评价借鉴 Hillmayr et al. (2017) 与 Nattland & Kerres (2009) 的理论分类，将繁杂的技术软件划分为六大具名功能类型，并明确标定其认知效能机制与适用边界：（p. 15）
 
@@ -276,28 +277,28 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **科学立论职业诉求与[[Research-Practice Gap|转移困境]]共存** 教师专业决策向科学证据立论的转型趋势明确，但学术研究的理论导向性与实践现场的资源匮乏导致[[Knowledge Transfer|知识转移]]长期受阻。（pp. 13–14）
-> 2. **专业化中介二次加工不可替代** 依托严谨标准筛选[[Effective Teaching|有效教学]][[Meta-analysis|元分析]]，并将其二次加工为德语 Kurzreviews、播客与数字化学院模块，是消除认知壁垒的关键路径。（pp. 14–15）
+> 1. **科学立论职业诉求与[[Research-Practice Gap\|转移困境]]共存** 教师专业决策向科学证据立论的转型趋势明确，但学术研究的理论导向性与实践现场的资源匮乏导致[[Knowledge Transfer\|知识转移]]长期受阻。（pp. 13–14）
+> 2. **专业化中介二次加工不可替代** 依托严谨标准筛选[[Effective Teaching\|有效教学]][[Meta-analysis\|元分析]]，并将其二次加工为德语 Kurzreviews、播客与数字化学院模块，是消除认知壁垒的关键路径。（pp. 14–15）
 > 3. **骨干中介群体的战略辐射功能** 聚焦高校师资培训者与师范生，不仅能从源头培育教师的循证思维习惯，更能依托大学研讨课与职后研修平台实现学术成果的规模化传递。（pp. 15–16）
 > 4. **循证知识转移的双向反馈与动态迭代** 知识转移并非简单的数据单向分发，必须建立常态化用户反馈回路、需求评估机制与跨机构平台协同网络。（p. 16）
 
 > [!stat-cards]- 核心数据
-> - **4–5 分（满分 6 分）** 教师教育者在个体效用、教学适用性、知识深化与时间减负等维度对 [[Clearing House Unterricht|CHU]] 平台的平均打分。（p. 16）
-> - **2017 年** 德语区首个教育科学[[Educational Evidence Clearinghouses|证据清算中心]] Clearing House Unterricht 正式上线运营。（p. 14）
-> - **0.65 / 0.45** 数字化工具对中学生理科[[Academic Achievement|学业成就]]（Hedges' g）与学科态度的综合因果[[Effect Size|效应量]]。
+> - **4–5 分（满分 6 分）** 教师教育者在个体效用、教学适用性、知识深化与时间减负等维度对 [[Clearing House Unterricht\|CHU]] 平台的平均打分。（p. 16）
+> - **2017 年** 德语区首个教育科学[[Educational Evidence Clearinghouses\|证据清算中心]] Clearing House Unterricht 正式上线运营。（p. 14）
+> - **0.65 / 0.45** 数字化工具对中学生理科[[Academic Achievement\|学业成就]]（Hedges' g）与学科态度的综合因果[[Effect Size\|效应量]]。
 > - **92** 数字化工具元分析所纳入的国际实验与准实验实证研究总数（k）。（p. 15）
 
 ---
 
 ## 关键引用
 
-> [!citation-card] 教师职业的科学立论转向与循证行动[[Hypothesis|假设]]
+> [!citation-card] 教师职业的科学立论转向与循证行动[[Hypothesis\|假设]]
 > 类似于医学中成熟的专业，教学职业也越来越被理解为一个具有科学立论基础的专门职业。伴随这一理解的是一种期待：教师不应仅凭个人经验或信念作出决策，而应尽可能面向可靠的科学知识。其潜在假设是：具有科学立论基础的行动有助于提高教学有效性，并更可靠地达成学习目标。（p. 13）
 >
 > *Ähnlich wie in etablierten Professionen in der Medizin wird auch der Lehrberuf zunehmend als wissenschaftlich fundierte Profession verstanden (Bauer & Kollar 2023). Damit geht die Erwartung einher, dass Lehrkräfte ihre Entscheidungen nicht allein auf persönliche Erfahrungen oder Überzeugungen stützen, sondern sich möglichst an gesicherten wissenschaftlichen Erkenntnissen orientieren. Die zugrunde liegende Annahme: Wissenschaftlich fundiertes Handeln kann dazu beitragen, Unterricht effektiver zu gestalten und Lernziele zuverlässiger zu erreichen (Knogler, Hetmanek & Seidel 2022a, 2022b).*
 
 > [!citation-card] 知识可用性与实践情境化的转化壁垒
-> 首先，事实表明，关键不仅在于科学结论本身的可用性，更在于对其进行契合受众、通俗易懂且切合实际的加工整理。尤其是在承受高度应用与时间压力的职业培训与[[Further Education|继续教育]]领域，像简评、概览或数字学习模块这样精炼且结构良好的形式愈发重要。（p. 16）
+> 首先，事实表明，关键不仅在于科学结论本身的可用性，更在于对其进行契合受众、通俗易懂且切合实际的加工整理。尤其是在承受高度应用与时间压力的职业培训与[[Further Education\|继续教育]]领域，像简评、概览或数字学习模块这样精炼且结构良好的形式愈发重要。（p. 16）
 >
 > *Erstens zeigt sich, dass nicht allein die Verfügbarkeit wissenschaftlicher Befunde entscheidend ist, sondern vor allem deren adressatengerechte, verständliche und praxistaugliche Aufbereitung. Gerade in der beruflichen Aus- und Weiterbildung, in der unter hohem Anwendungs- und Zeitdruck gearbeitet wird, gewinnen prägnante und gut strukturierte Formate wie Kurzreviews, Übersichten oder digitale Lernmodule an Bedeutung.*
 

@@ -42,15 +42,15 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **言语主义（Verbalism）**由保罗·[[Paulo Freire|弗莱雷]]在《被压迫者教育学》（2000）中确立。它指在教育与政治讨论中，[[Dialogue in Education|对话]]被剥离了改变现实的行动（Action）而退化为纯粹的空谈或无意义的口头文字游戏。弗莱雷指出，真正的实践是“反思与行动的统一”，若只有反思而缺乏行动，对话就会异化为言语主义。[[Argument_Darwish_2009_Queens|Darwish (2009, p. 48, p. 81)]]
+> **言语主义（Verbalism）**由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（2000）中确立。它指在教育与政治讨论中，[[Dialogue in Education\|对话]]被剥离了改变现实的行动（Action）而退化为纯粹的空谈或无意义的口头文字游戏。弗莱雷指出，真正的实践是“反思与行动的统一”，若只有反思而缺乏行动，对话就会异化为言语主义。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 48, p. 81)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向只有理性觉察与嘴上批评、却拒绝或缺乏改变压迫结构实际行动的异化病态。
-> - **用途** 帮助研究者解构“只在课堂里口头辩论社会不公、却对真实变革零承诺”的假对话（如 [[Theory of Knowledge|TOK]] 课程的言语主义陷阱）。
+> - **用途** 帮助研究者解构“只在课堂里口头辩论社会不公、却对真实变革零承诺”的假对话（如 [[Theory of Knowledge\|TOK]] 课程的言语主义陷阱）。
 > - **边界** 不等于对反思的否定；它反对的是将对话切割为无行动的纯文字体操。
 
 > [!citation-card]- 关键表述
-> 当一个词语被剥夺了它的行动维度，它立刻变成了空洞的言语主义；对话就退化成了空谈。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 48)]]
+> 当一个词语被剥夺了它的行动维度，它立刻变成了空洞的言语主义；对话就退化成了空谈。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
 >
 > *When a word is deprived of its dimension of action, it immediately becomes empty verbalism... Dialogue degenerates into idle chatter. (Freire, 2000, p. 87)*
 
@@ -73,8 +73,8 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **行动维度剥离（Deprivation of Action）** 讨论仅停留在理智觉察与口头批评。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 48)]]
-> - **假[[Dialogue in Education|对话]]异化（Degeneration into Chatter）** 平等对话退化为象牙塔内的功利辩论或消遣聊天。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 81)]]
+> - **行动维度剥离（Deprivation of Action）** 讨论仅停留在理智觉察与口头批评。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
+> - **假[[Dialogue in Education\|对话]]异化（Degeneration into Chatter）** 平等对话退化为象牙塔内的功利辩论或消遣聊天。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
 > - **维持压迫现状（Preservation of Status Quo）** 因无实质行动，客观上保留了被压迫者受剥削的现实。同上
 
 > [!logic-map]- 要素关系
@@ -94,11 +94,11 @@ updated: 2026-09-17
 
 ### 命题一　言语主义通过切断行动维度将对话异化为维持不公现状的假对话
 
-> [!concept-lens] [[Dialogue in Education|对话]]与行动断层维度
+> [!concept-lens] [[Dialogue in Education\|对话]]与行动断层维度
 > 探讨言语主义如何通过剥离社会实践，将教育反思退化为象牙塔内的空谈。
 
-> [!claim] [[Paulo Freire|Freire, P.]]
-> **言语主义的假对话本质** 弗莱雷与达维什论证指出，缺乏实践行动的批判思考必将退化为言语主义；如果不把课堂讨论转化为改变不公的社区行动，[[Active Learning|主动学习]]就会陷入假对话的迷局。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 87; Darwish, 2009, p. 48, p. 81)]]
+> [!claim] [[Paulo Freire\|Freire, P.]]
+> **言语主义的假对话本质** 弗莱雷与达维什论证指出，缺乏实践行动的批判思考必将退化为言语主义；如果不把课堂讨论转化为改变不公的社区行动，[[Active Learning\|主动学习]]就会陷入假对话的迷局。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 87; Darwish, 2009, p. 48, p. 81)]]
 
 ---
 
@@ -114,8 +114,8 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970 — 概念确立** [[Paulo Freire|弗莱雷]]在《被压迫者教育学》第 3 章提出“言语主义 vs 盲动主义”双重异化判定。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 87)]]
-> - **2009 — [[Theory of Knowledge|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用言语主义诊断 IB TOK 课程“只讨论不行动”的致命瓶颈。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 81)]]
+> - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》第 3 章提出“言语主义 vs 盲动主义”双重异化判定。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 87)]]
+> - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用言语主义诊断 IB TOK 课程“只讨论不行动”的致命瓶颈。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
 
 ---
 
@@ -128,5 +128,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合言语主义概念批评 IB [[Theory of Knowledge|TOK]] 课程“只引导讨论种族与贫困、却不要求变革行动”的内在矛盾。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合言语主义概念批评 IB [[Theory of Knowledge\|TOK]] 课程“只引导讨论种族与贫困、却不要求变革行动”的内在矛盾。

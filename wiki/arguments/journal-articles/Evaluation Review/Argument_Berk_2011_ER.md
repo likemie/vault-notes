@@ -68,22 +68,22 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
-> 基于 35 年担任 *Evaluation Review* 创始编辑的经验，Berk 反思[[Evaluation Research|评估研究]]中证据与"垃圾科学"（junk science）的区别问题：为什么政策制定者往往无法区分两者？在因果效应估计的方法论前沿，证据与垃圾之间的关键战场在哪里？如何对抗垃圾科学？
+> [!info] [[Research Question\|研究问题]]
+> 基于 35 年担任 *Evaluation Review* 创始编辑的经验，Berk 反思[[Evaluation Research\|评估研究]]中证据与"垃圾科学"（junk science）的区别问题：为什么政策制定者往往无法区分两者？在因果效应估计的方法论前沿，证据与垃圾之间的关键战场在哪里？如何对抗垃圾科学？
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> Berk 不依赖单一理论框架，而是基于[[Evaluation Research|评估研究]]方法论的演进历史进行[[Reflexivity|反思性]]分析。他的论证锚定在：
-> - **[[Potential Outcomes Framework|潜在结果框架]]（Neyman-Rubin-Holland-Pearl）**作为因果效应定义的概念基础
+> Berk 不依赖单一理论框架，而是基于[[Evaluation Research\|评估研究]]方法论的演进历史进行[[Reflexivity\|反思性]]分析。他的论证锚定在：
+> - **[[Potential Outcomes Framework\|潜在结果框架]]（Neyman-Rubin-Holland-Pearl）**作为因果效应定义的概念基础
 > - **Campbell & Stanley (1963)** 的四种效度框架作为实验设计评估的参照
 > - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（[[Daubert v Merrell Dow Pharmaceuticals 1993]]）
 
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**[[Reflexivity|反思性]]论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review|文献综述]]
-> - **数据来源** 作为创始编辑经手的数百篇[[Evaluation Research|评估研究]]论文、[[Causality|因果推断]]方法论[[Document|文献]]（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
+> - **方法**[[Reflexivity\|反思性]]论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review\|文献综述]]
+> - **数据来源** 作为创始编辑经手的数百篇[[Evaluation Research\|评估研究]]论文、[[Causality\|因果推断]]方法论[[Document\|文献]]（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
 
 ## 核心论证
 
@@ -92,29 +92,29 @@ citation_aliases:
 >
 > ### 1. 因果效应的定义
 >
-> [[Potential Outcomes Framework|潜在结果框架]]的核心进步在于区分因果效应的**定义**与**估计**。但实践中不同的平均处理效应定义（总体 vs. 样本、处理组 vs. 全体）常被忽视，导致估计目标不明——"可信的证据不太可能产生"(p.194)。
+> [[Potential Outcomes Framework\|潜在结果框架]]的核心进步在于区分因果效应的**定义**与**估计**。但实践中不同的平均处理效应定义（总体 vs. 样本、处理组 vs. 全体）常被忽视，导致估计目标不明——"可信的证据不太可能产生"(p.194)。
 >
 > ### 2. 随机实验的优势与局限
 >
-> 随机实验的[[Internal Validity|内部效度]]优势被认可(Campbell, 1969; Campbell & Stanley, 1963)，但广泛使用导致两个不良后果：
-> - **集群[[Random Assignment|随机化]]问题** 随机化单位（教室）与政策兴趣单位（学生）不一致，导致[[Sample Size Determination|样本量]]不足、[[Stable Unit Treatment Value Assumption|SUTVA]] 违反——"单一的因果效应不再存在"(p.195)
-> - **非随机研究被断然否定** "这是一个严重错误"，因为内部效度只是多种效度之一——没有[[External Validity|外部效度]]，[[Randomised Controlled Trials|RCT]] 结果对政策毫无用处
+> 随机实验的[[Internal Validity\|内部效度]]优势被认可(Campbell, 1969; Campbell & Stanley, 1963)，但广泛使用导致两个不良后果：
+> - **集群[[Random Assignment\|随机化]]问题** 随机化单位（教室）与政策兴趣单位（学生）不一致，导致[[Sample Size Determination\|样本量]]不足、[[Stable Unit Treatment Value Assumption\|SUTVA]] 违反——"单一的因果效应不再存在"(p.195)
+> - **非随机研究被断然否定** "这是一个严重错误"，因为内部效度只是多种效度之一——没有[[External Validity\|外部效度]]，[[Randomised Controlled Trials\|RCT]] 结果对政策毫无用处
 >
-> Berk 的平衡立场：RCT 的最强理由并非其方法论优越性，而是"比其它设计更能防止研究者犯严重的[[Type I and Type II Errors|统计错误]]"(p.196)——同时承认设计不如 RCT 但具有更好外部效度的观察性研究"有时可以提供有启发性的结果"。
+> Berk 的平衡立场：RCT 的最强理由并非其方法论优越性，而是"比其它设计更能防止研究者犯严重的[[Type I and Type II Errors\|统计错误]]"(p.196)——同时承认设计不如 RCT 但具有更好外部效度的观察性研究"有时可以提供有启发性的结果"。
 >
-> ### 3. [[Causal Modeling|因果建模]]（SEM）的过度使用
+> ### 3. [[Causal Modeling\|因果建模]]（SEM）的过度使用
 >
 > 因果建模承诺整合理论与统计，但其过度承诺在 1980-1990 年代才逐渐显现。Berk 将问题归因于：模型选择使统计推断无效、缺乏明确的经验边界、点按软件使复杂方法"看似容易"(p.197)。引用了 Freedman (2005, p.195) 的修辞性回应清单作为因果建模支持者回避批评的证据。
 >
 > ### 4. 匹配作为替代方法
 >
-> 匹配回避了因果建模的模型选择问题（匹配[[Variable|变量]]在不参考[[Dependent Variable|结果变量]]的情况下确定），但需要满足与随机实验相同的[[Hypothesis|假设]]（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反(pp.197–199)。
+> 匹配回避了因果建模的模型选择问题（匹配[[Variable\|变量]]在不参考[[Dependent Variable\|结果变量]]的情况下确定），但需要满足与随机实验相同的[[Hypothesis\|假设]]（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反(pp.197–199)。
 >
-> ### 5. [[Meta-analysis|元分析]]的过度评价
+> ### 5. [[Meta-analysis\|元分析]]的过度评价
 >
 > 元分析"从一个好主意开始"——当有可比的随机实验时，合并结果可以获得统计功效(p.198)。但当研究不可比较（不同处理、不同结果、不同主体）、非随机实验被合并（有偏估计不会相互抵消）、以及统计推断不成立（研究不独立——研究者互相阅读、交流、合作）时，元分析"开始脱轨"。
 >
-> > “简而言之，元分析对于估计因果效应的重要性被严重高估了。传统的[[Literature Review|文献综述]]通常会做得更好。”
+> > “简而言之，元分析对于估计因果效应的重要性被严重高估了。传统的[[Literature Review\|文献综述]]通常会做得更好。”
 > ("In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better.") (p.199)
 
 ## 主要发现
@@ -122,10 +122,10 @@ citation_aliases:
 > [!success] 主要发现
 > 1. **"证据"的定义真空** 政策制定过程往往不明确说明什么算作证据——"into this vacuum has been drawn a mix of evaluations ranging from excellent to terrible"(p.199)
 > 2. **垃圾科学的两类制造者** 一类不知道自己在做什么但使用表面特征；另一类明知故犯并使用表面特征掩盖(p.192)
-> 3. **不存在简单的[[Decodification|解码]]装置** 任何易于实施的规则集都可能扼杀创新(pp.192–193)
-> 4. **随机实验的社会保护功能**[[Randomised Controlled Trials|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"(p.196)
-> 5. **[[Causal Modeling|因果建模]]的韧性** 尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"(p.197)
-> 6. **[[Meta-analysis|元分析]]被严重过度评价** 常规[[Literature Review|文献综述]]"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响
+> 3. **不存在简单的[[Decodification\|解码]]装置** 任何易于实施的规则集都可能扼杀创新(pp.192–193)
+> 4. **随机实验的社会保护功能**[[Randomised Controlled Trials\|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"(p.196)
+> 5. **[[Causal Modeling\|因果建模]]的韧性** 尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"(p.197)
+> 6. **[[Meta-analysis\|元分析]]被严重过度评价** 常规[[Literature Review\|文献综述]]"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响
 
 ## 关键引用
 
@@ -137,12 +137,12 @@ citation_aliases:
 > ("It is sometimes difficult to determine which is which. Some purveyors of junk do not know what they are doing but proceed with all of the superficial trappings of high-quality work. Other purveyors of junk know well what they are doing and use those same trappings to cover their tracks.")
 >
 > > “对于研究单位的每一种可能重组，都可以产生一个因果效应，于是单一的因果效应也就不复存在了。”
-> ("There can be one causal effect for each possible shuffling of the study units, and a single causal effect no longer exists.") (p.195, on [[Stable Unit Treatment Value Assumption|SUTVA]] violation)
+> ("There can be one causal effect for each possible shuffling of the study units, and a single causal effect no longer exists.") (p.195, on [[Stable Unit Treatment Value Assumption\|SUTVA]] violation)
 >
-> > “任何评估的基准都是现有的知识，而不是完美。因此，[[Internal Validity|内部效度]]低于随机实验的设计有时也具有证明力。”
+> > “任何评估的基准都是现有的知识，而不是完美。因此，[[Internal Validity\|内部效度]]低于随机实验的设计有时也具有证明力。”
 > ("The benchmark for any evaluation is current knowledge, not perfection. Hence, designs with less internal validity than randomized experiments can sometimes be probative.") (p.195)
 >
-> > “[[Meta-analysis|元分析]]对于估计因果效应的重要性被严重高估了。传统的[[Literature Review|文献综述]]通常会做得更好。”
+> > “[[Meta-analysis\|元分析]]对于估计因果效应的重要性被严重高估了。传统的[[Literature Review\|文献综述]]通常会做得更好。”
 > ("The importance of [[Meta-analysis]] for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better.") (p.199)
 
 ## 建议与对策
@@ -152,17 +152,17 @@ citation_aliases:
 >
 > 1. **中立专家委员会审查** 在有重要政策问题和矛盾证据时，由知识渊博的中立委员会（如美国国家科学院国家研究理事会）进行审查。Pew Charitable Trust 等基金会有时也支持独立小组或员工审查。
 >
-> 2. **团队[[Evaluation Research|评估研究]]** 评估研究最好由包含**真正具备统计程序专业知识**的个人的团队进行。Rand、MDRC and Mathematica 等大型研究公司通常尝试这样做——"当然不能保证在任一环境中所需的专业知识都会被恰当地代表，但至少存在一种可以让其发生的结构"(p.200)。
+> 2. **团队[[Evaluation Research\|评估研究]]** 评估研究最好由包含**真正具备统计程序专业知识**的个人的团队进行。Rand、MDRC and Mathematica 等大型研究公司通常尝试这样做——"当然不能保证在任一环境中所需的专业知识都会被恰当地代表，但至少存在一种可以让其发生的结构"(p.200)。
 >
-> 3. **保持与"数据科学"同步** 评估研究者需要跟上统计学、计量经济学和计算机科学的发展。Berk 预测计算机科学将在未来十年对评估研究产生影响，正如统计学在 1970 年代所做的那样——"因为数据科学如此受到计算能力和大型数据集日益可用性的推动，变化将非常迅速地到来"。在社会科学的评估研究[[Correlational Research|相关研究]]生培养中，至少需要硕士水平的数据科学训练。
+> 3. **保持与"数据科学"同步** 评估研究者需要跟上统计学、计量经济学和计算机科学的发展。Berk 预测计算机科学将在未来十年对评估研究产生影响，正如统计学在 1970 年代所做的那样——"因为数据科学如此受到计算能力和大型数据集日益可用性的推动，变化将非常迅速地到来"。在社会科学的评估研究[[Correlational Research\|相关研究]]生培养中，至少需要硕士水平的数据科学训练。
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 作为编辑反思而非[[Systematic Review|系统综述]]，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人观察而非实证研究
-> - Berk 对 [[Randomised Controlled Trials|RCT]] 的辩护（"防止[[Type I and Type II Errors|统计错误]]"）与批判（"集群[[Random Assignment|随机化]]中的 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
-> - 提出的对策（中立专家审查、团队评估）偏重精英专家模式，未回应 Cowen (2019) 后来提出的官僚[[Knowledge Questions|知识问题]]和制度激励问题
-> - 论文发表于 2011 年，此后[[Causality|因果推断]]方法（如[[Difference-in-Differences|双重差分]]、合成控制、[[Regression Discontinuity Design|断点回归设计]]）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评
+> - 作为编辑反思而非[[Systematic Review\|系统综述]]，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人观察而非实证研究
+> - Berk 对 [[Randomised Controlled Trials\|RCT]] 的辩护（"防止[[Type I and Type II Errors\|统计错误]]"）与批判（"集群[[Random Assignment\|随机化]]中的 [[Stable Unit Treatment Value Assumption\|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
+> - 提出的对策（中立专家审查、团队评估）偏重精英专家模式，未回应 Cowen (2019) 后来提出的官僚[[Knowledge Questions\|知识问题]]和制度激励问题
+> - 论文发表于 2011 年，此后[[Causality\|因果推断]]方法（如[[Difference-in-Differences\|双重差分]]、合成控制、[[Regression Discontinuity Design\|断点回归设计]]）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling\|因果建模]]的批评
 
 ## 来源
 

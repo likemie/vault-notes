@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 55
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -15,6 +15,10 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Document]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Epistemic Stances]]"
+  - "[[Epistemic Agency]]"
+  - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Source of Knowledge]]"
   - "[[Construct]]"
@@ -22,9 +26,9 @@ related_concepts:
   - "[[Epistemic Ideals]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Epistemological Understanding]]"
-  - "[[Epistemic Agency]]"
   - "[[Epistemic Resources]]"
   - "[[Domain Specificity]]"
+  - "[[Cognitive Offloading]]"
   - "[[Determinism]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Causal Processes]]"
@@ -32,16 +36,22 @@ related_concepts:
   - "[[Epistemic Climate]]"
   - "[[Academic Achievement]]"
   - "[[Measurement Alignment]]"
+  - "[[Procedural Knowledge]]"
   - "[[Reliability]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Knowledge Production]]"
+  - "[[Source Evaluation]]"
   - "[[Operationalization]]"
   - "[[Construct Validity]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Procedural Skill]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Ontology]]"
   - "[[Publication Bias]]"
   - "[[Interaction Effect]]"
+  - "[[Evaluativist]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
   - "[[AIR Model of Epistemic Cognition]]"
@@ -52,30 +62,36 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Effect Size]]"
   - "[[Meta-regression]]"
+  - "[[Chain-of-Thought Prompting]]"
   - "[[Ethnography]]"
   - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
   - "[[Confidence Interval]]"
   - "[[Fail-Safe N]]"
+  - "[[Trim and Fill Method]]"
   - "[[Egger Regression Test]]"
   - "[[Funnel Plot]]"
   - "[[Correlational Research]]"
+  - "[[Intervention Research]]"
   - "[[Three-Level Meta-Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Clark A. Chinn]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Chinn_2011_EP]]"
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Sandoval_2016_RRE]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
 confidence: high
-status: draft
+status: active
 created: 2026-08-17
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 # Epistemic Cognition
 （[[Epistemology|认识论]]认知）
@@ -85,73 +101,90 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemic Cognition|认识论认知]]是指个体在获取、理解、证成和运用知识时，对“知识本质”（知识是什么）和“认知过程”（如何获得知识）的潜在信念、标准与思维过程。它回答了学习者内心深处的终极问题：“我如何知道我所知道的是真的？”
+> [[Epistemic Cognition\|认识论认知]]是指个体在获取、理解、证成和运用知识时，对“知识本质”（知识是什么）和“认知过程”（如何获得知识）的潜在信念、标准与思维过程。它回答了学习者内心深处的终极问题：“我如何知道我所知道的是真的？”
 
 > [!concept-lens] 概念透镜
-> - **含义** 这个概念指向学生在面对复杂信息时，调用的知识[[Justificatory Standards|确证标准]]与心智过程。相比于早期[[Document|文献]]中常用的“[[Epistemological Beliefs|认识论信念]]（Epistemological Beliefs）”，它是一个更为宽泛且具包容性的伞形术语，强调认知的动态性、情境性和社会互动性。
+> - **含义** 这个概念指向学生在面对复杂信息时，调用的知识[[Justificatory Standards\|确证标准]]与心智过程。相比于早期[[Document\|文献]]中常用的“[[Epistemological Beliefs\|认识论信念]]（Epistemological Beliefs）”，它是一个更为宽泛且具包容性的伞形术语，强调认知的动态性、情境性和社会互动性。
 > - **用途** 它帮助研究者看见为什么学生在面临学术任务时会采取不同的探究深度，以及为何他们对同一论据会有完全不同的采信标准。
+> - **人机共生视界** 在[[Generative Artificial Intelligence\|生成式人工智能]]介入的复杂技术环境中，[[Epistemology\|认识论]]认知拓展为学习者在人机交互中校准算法信任、调适[[Epistemic Stances\|认识立场]]与维持[[Epistemic Agency\|认识主体性]]的高级调控机制。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 > - **边界** 它不适合解释缺乏“追求真实（truth）”动机的纯智力游戏或单纯的话术辩论。
 
+> [!citation-card] 人机共生环境中的认识论认知拓展
+> 在生成式人工智能介入的学习环境中，认识论认知不再局限于评价人类撰写的静态文本，更延伸至对机器生成内容的审问、证据多源交叉核验以及在人机协同建构中自适应调适认识立场。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 360)]]
+>
+> *In the context of generative AI, epistemic cognition extends beyond evaluating human texts to critically calibrating trust, coordinating multi-source evidence, and actively negotiating epistemic stances in human-AI co-construction.*
+
 > [!boundary]- 概念边界
-> - 不等于 **非[[Epistemology|认识论]]倾向（Nonepistemic Dispositions）** — 如果个体的目标仅仅是指向展示口才、打发时间或单纯的思考乐趣，则缺乏追求真理的纯粹偏好，不属于认识论认知。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
+> - 不等于 **非[[Epistemology\|认识论]]倾向（Nonepistemic Dispositions）** — 如果个体的目标仅仅是指向展示口才、打发时间或单纯的思考乐趣，则缺乏追求真理的纯粹偏好，不属于认识论认知。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
 > - 不等于 **无差别的怀疑主义** — 认识论认知构成了**建构性批判（Constructive Critique）**的核心支撑，它引导学习者进行合理信任（Calibrated Trust），而非盲目抬杠或陷入认识论虚无主义。
 
 ---
 
 ## 核心要素
 
-> [!taxonomy] [[Epistemology|认识论]]认知的四大理论流派
-> [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 通过全面梳理，将半个多世纪以来的理论演进归纳为四种截然不同的架构：
-> - **发展模型（Developmental Models）** 发端于 Perry (1970)。该流派认为认识论认知遵循严格的宏观阶段性演进：从早期的绝对主义（Absolutism，知识由权威赋予且简单确定），经历多元主义（Multiplism，知识皆为主观意见），最终走向成熟的评价主义（Evaluatism，知识是情境建构的，需基于证据进行客观评估）。其代表模型还包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model|反思性判断模型]]。
-> - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的[[Hypothesis|假设]]，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge|知识的来源]]、知识的证成）两大核心[[Construct|构念]]簇。
-> - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 及 Chinn, Rinehart & Buckland (2014) 提出的 [[AIR Model of Epistemic Cognition|AIR]] 框架为代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims|认识论目标]]（Epistemic aims）、评估证据与模型的[[Epistemic Ideals|认识论理想]]（Epistemic ideals）以及实现这些目标的[[Reliable Epistemic Processes|可靠认识论过程]]（Reliable processes）。[[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] 进一步将其拓展至科学论证与实践评估，指出认识论认知并非脱域的逻辑运算，而是与学科实体知识、元[[Epistemological Understanding|认识论理解]]及共同体[[Epistemic Agency|认识主体性]]深度纠缠。
-> - **学科/领域驱动模型（Discipline-Driven Models）** 受[[Situative Perspective|情境认知]]（Situated cognition）理论深度启发，强调认识论并不是跨领域的稳定特质，而是高度依赖特定任务情境的。例如，Elby & Hammer (2001) 提出的[[Epistemic Resources|认识论资源]]模型明确指出，学生在分析历史史料与解决物理方程时，会瞬间动态激活完全不同的认识论预设；而 Muis et al. (2006) 则进一步系统化了这种[[Domain Specificity|领域特异性]]的理论框架。
+> [!taxonomy] [[Epistemology\|认识论]]认知的五大理论流派
+> 综合 [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的历史梳理与当代最新进展，认识论认知的理论演进可划分为五种代表性[[Paradigm\|范式]]：
+> - **发展模型（Developmental Models）** 发端于 Perry (1970)。该流派认为认识论认知遵循严格的宏观阶段性演进：从早期的绝对主义（Absolutism，知识由权威赋予且简单确定），经历多元主义（Multiplism，知识皆为主观意见），最终走向成熟的评价主义（Evaluatism，知识是情境建构的，需基于证据进行客观评估）。其代表模型还包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]。
+> - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的[[Hypothesis\|假设]]，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge\|知识的来源]]、知识的证成）两大核心[[Construct\|构念]]簇。
+> - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 及 Chinn, Rinehart & Buckland (2014) 提出的 [[AIR Model of Epistemic Cognition\|AIR]] 框架为代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims\|认识论目标]]（Epistemic aims）、评估证据与模型的[[Epistemic Ideals\|认识论理想]]（Epistemic ideals）以及实现这些目标的[[Reliable Epistemic Processes\|可靠认识论过程]]（Reliable processes）。[[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 进一步将其拓展至科学论证与实践评估，指出认识论认知并非脱域的逻辑运算，而是与学科实体知识、元[[Epistemological Understanding\|认识论理解]]及共同体[[Epistemic Agency\|认识主体性]]深度纠缠。
+> - **学科/领域驱动模型（Discipline-Driven Models）** 受[[Situative Perspective\|情境认知]]（Situated cognition）理论深度启发，强调认识论并不是跨领域的稳定特质，而是高度依赖特定任务情境的。例如，Elby & Hammer (2001) 提出的[[Epistemic Resources\|认识论资源]]模型明确指出，学生在分析历史史料与解决物理方程时，会瞬间动态激活完全不同的认识论预设；而 Muis et al. (2006) 则进一步系统化了这种[[Domain Specificity\|领域特异性]]的理论框架。
+> - **人机共生适应性模型（Symbiotic & AI-Mediated Models）** 以 [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出的共生[[Epistemic Stances\|适应性认识立场]]框架为代表。面对[[Generative Artificial Intelligence\|生成式人工智能]]环境中的海量生成与不确定性，该流派揭示认识论认知表现为学习者在人机交互中的[[Epistemic Stances\|适应性认识立场]]调适，阐明认识立场如何决定[[Cognitive Offloading\|认知卸载]]的性质分化，并论证通过技术提示词支架与教学法支架的双轨干预促进认识立场向评价主义演进。
 
 > [!feature] 认识论认知的微观构成
-> 根据 [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 的整合框架，真正的认识论认知必须包含五个排他性微观组件：
+> 根据 [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 的整合框架，真正的认识论认知必须包含五个排他性微观组件：
 > - **认识目标与价值** 探究中追求真理或确证等目标。
-> - **知识结构** 包括普遍性与特殊性、[[Determinism|决定论]]与随机性。
-> - **来源与确证** 涵盖感知、推理、证词及不同情境下的[[Justificatory Standards|确证标准]]。
-> - **[[Epistemic Virtues and Vices|认识论美德与恶习]]** 思想开放、理智勇气等性格倾向。
-> - **可靠与不可靠的过程** 涵盖产生信念的[[Causal Processes|因果过程]]及其有效性判定。
+> - **知识结构** 包括普遍性与特殊性、[[Determinism\|决定论]]与随机性。
+> - **来源与确证** 涵盖感知、推理、证词及不同情境下的[[Justificatory Standards\|确证标准]]。
+> - **[[Epistemic Virtues and Vices\|认识论美德与恶习]]** 思想开放、理智勇气等性格倾向。
+> - **可靠与不可靠的过程** 涵盖产生信念的[[Causal Processes\|因果过程]]及其有效性判定。
+
+> [!logic-map]- 认识论认知理论演进脉络与人机共生拓展
+> ```mermaid
+> flowchart TD
+>     M1["发展模型<br>(Perry / Kuhn)"] --> M2["多维系统模型<br>(Schommer / Hofer & Pintrich)"]
+>     M2 --> M3["情境资源模型<br>(Elby & Hammer / Muis)"]
+>     M2 --> M4["哲学AIR微观模型<br>(Chinn et al. / Duncan)"]
+>     M3 --> M5["人机共生适应性模型 (Wu et al., 2025)<br>(适应性认识立场 + 双轨支架矩阵)"]
+>     M4 --> M5
+> ```
 
 ---
 
 ## 理论主张与核心命题
 
 ### 命题一　认识论认知不再是脱域的稳定特质，而是高度依赖情境的动态微观资源库
-> [!concept-lens] 理论模型的微观构成与结构[[Hypothesis|假设]]
-> 早期研究视[[Epistemology|认识论]]为宏大的阶段性发展产物或跨领域的稳定信念，但当代学者倾向于将其拆解为微观的知识结构与[[Justificatory Standards|确证标准]]，并强调情境的绝对主导地位。
+> [!concept-lens] 理论模型的微观构成与结构[[Hypothesis\|假设]]
+> 早期研究视[[Epistemology\|认识论]]为宏大的阶段性发展产物或跨领域的稳定信念，但当代学者倾向于将其拆解为微观的知识结构与[[Justificatory Standards\|确证标准]]，并强调情境的绝对主导地位。
 
 > [!claim] Chinn, C.
 > **扩展五组件框架** 认识论认知是由五个高度情境化的组件构成的微观网络：
-> - **[[Epistemic Aims|认识目标]]与价值** 探究中追求真理或最低限度确证等目标及其价值评估。
-> - **知识结构** 包括普遍性与特殊性、[[Determinism|决定论]]与随机性及具体形式。
+> - **[[Epistemic Aims\|认识目标]]与价值** 探究中追求真理或最低限度确证等目标及其价值评估。
+> - **知识结构** 包括普遍性与特殊性、[[Determinism\|决定论]]与随机性及具体形式。
 > - **来源与确证** 交互涵盖感知、推理、证词及不同情境下的确证标准。
-> - **[[Epistemic Virtues and Vices|认识论美德与恶习]]** 思想开放、理智勇气等促进认识目标的性格倾向。
-> - **可靠与不可靠的过程** 涵盖产生信念的[[Causality|因果推断]]与同行评审机制。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
+> - **[[Epistemic Virtues and Vices\|认识论美德与恶习]]** 思想开放、理智勇气等促进认识目标的性格倾向。
+> - **可靠与不可靠的过程** 涵盖产生信念的[[Causality\|因果推断]]与同行评审机制。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
 
 > [!claim] Sandoval, W.
-> **[[Integrative Pluralism|整合多元主义]]层级框架** 认识论认知的本体形态不能局限于个体头脑，必须通过多层聚合来分析：
-> - **个体层级** 调配细粒度[[Epistemic Resources|认识论资源]]与心智模型。
+> **[[Integrative Pluralism\|整合多元主义]]层级框架** 认识论认知的本体形态不能局限于个体头脑，必须通过多层聚合来分析：
+> - **个体层级** 调配细粒度[[Epistemic Resources\|认识论资源]]与心智模型。
 > - **人际交互层级** 微观社会群体内协商共同的认识目标与标准。
-> - **活动系统层级** 科学共同体或整体课堂文化所形塑的[[Epistemic Climate|认识论氛围]]。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> - **活动系统层级** 科学共同体或整体课堂文化所形塑的[[Epistemic Climate\|认识论氛围]]。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 ---
 
 ### 命题二　认识论认知的实证预测效力绝对依赖于测量颗粒度的对齐与工具信度
 > [!concept-lens] 认识论认知的实证方法论法则
-> 长期以来关于认识论是否真正影响[[Academic Achievement|学业成绩]]的实证分歧，实则源于测量方法上的粗糙和颗粒度错配。
+> 长期以来关于认识论是否真正影响[[Academic Achievement\|学业成绩]]的实证分歧，实则源于测量方法上的粗糙和颗粒度错配。
 
 > [!claim] Greene, J.
-> **[[Measurement Alignment|对齐法则]]与高阶认知强关联** 实证预测效力依赖于以下法则：
-> - **对齐法则（Alignment）** 只有当测量工具的特异性与成绩任务在颗粒度上严格匹配时（如用学科[[Questionnaire|问卷]]预测特定学科成绩，而非用通用问卷），预测效力才会大幅提升。
-> - **高阶认知强关联** [[Epistemological Beliefs|认识论信念]]与高阶能力（如概念性知识与论证）的关联远超底层的陈述性或程序性知识。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
+> **[[Measurement Alignment\|对齐法则]]与高阶认知强关联** 实证预测效力依赖于以下法则：
+> - **对齐法则（Alignment）** 只有当测量工具的特异性与成绩任务在颗粒度上严格匹配时（如用学科[[Questionnaire\|问卷]]预测特定学科成绩，而非用通用问卷），预测效力才会大幅提升。
+> - **高阶认知强关联** [[Epistemological Beliefs\|认识论信念]]与高阶能力（如概念性知识与论证）的关联远超底层的陈述性或[[Procedural Knowledge\|程序性知识]]。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
 
 > [!claim] Greene, J.
-> **[[Reliability|信度]]决定论与学段倒挂** 测量严谨度会暴露出不同于传统的实证规律：
-> - **信度决定论** 问卷的[[Internal Consistency|内部一致性]]信度直接决定了[[Effect Size|效应量]]上限（[[Meta-regression|元回归]] $b = .300$）。
-> - **学段倒挂** 在严谨测量下，初中和小学生（$r = .246, .212$）的整体相关性显著强于大学生（$r = .131$），彻底打破了传统发展模型关于低龄儿童缺乏高级认识论认知的偏见。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
+> **[[Reliability\|信度]]决定论与学段倒挂** 测量严谨度会暴露出不同于传统的实证规律：
+> - **信度决定论** 问卷的[[Internal Consistency\|内部一致性]]信度直接决定了[[Effect Size\|效应量]]上限（[[Meta-regression\|元回归]] $b = .300$）。
+> - **学段倒挂** 在严谨测量下，初中和小学生（$r = .246, .212$）的整体相关性显著强于大学生（$r = .131$），彻底打破了传统发展模型关于低龄儿童缺乏高级认识论认知的偏见。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
 
 ---
 
@@ -160,8 +193,20 @@ updated: 2026-09-21
 > [!concept-lens] 论证评价中认识论认知的实践具身与学科实质维度
 > 探究认识论认知在真实科学探究任务中如何外显化，论证科学论证评估何以必须超越外在句法结构而转向认识论实质。
 
-> [!claim] Duncan, R. G. & [[Clark A. Chinn|Chinn, C. A.]]
-> **[[AIR Model of Epistemic Cognition|AIR]]三元协调决定论证实质** 认识论认知在科学论证实践中具体具身为探究目标（[[Epistemic Aims]]）、评价准则（[[Epistemic Ideals]]）与生成程序（[[Reliable Epistemic Processes]]）三者的协同运作。传统基于 Toulmin 或 CER 的结构分析仅能评价主张、数据与推理等表面句法部件，无法甄别结构完备但缺乏认识论确证力的伪科学论证；唯有深入考察论证者在证据选择、模型裁决与方法质询中调动的认识论理想（如全证据契合、多源收敛）及对过程因果条件的审视，才能揭示认识论认知的真实运作水准，并以此作为培育学生[[Epistemic Agency|认识主体性]]的核心杠杆。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 202–204, 209–211, 222–223)]]
+> [!claim] Duncan, R. G. & [[Clark A. Chinn\|Chinn, C. A.]]
+> **[[AIR Model of Epistemic Cognition\|AIR]]三元协调决定论证实质** 认识论认知在科学论证实践中具体具身为探究目标（[[Epistemic Aims]]）、评价准则（[[Epistemic Ideals]]）与生成程序（[[Reliable Epistemic Processes]]）三者的协同运作。传统基于 Toulmin 或 CER 的结构分析仅能评价主张、数据与推理等表面句法部件，无法甄别结构完备但缺乏认识论确证力的伪科学论证；唯有深入考察论证者在证据选择、模型裁决与方法质询中调动的认识论理想（如全证据契合、多源收敛）及对过程因果条件的审视，才能揭示认识论认知的真实运作水准，并以此作为培育学生[[Epistemic Agency\|认识主体性]]的核心杠杆。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204, 209–211, 222–223)]]
+
+---
+
+### 命题四　人工智能中介环境中认识论认知表现为适应性认识立场的动态调适与双轨支架干预响应
+
+> [!concept-lens] 人机共生认识论与干预机制
+> 探讨[[Generative Artificial Intelligence\|生成式人工智能]]嵌入学习情境后，认识论认知如何从个体内隐的静态信念系统拓展为在人机交互回路中动态调适[[Epistemic Stances\|认识立场]]与应对[[Cognitive Offloading\|认知卸载]]的高阶调控机制。
+
+> [!claim] Wu et al.
+> **适应性认识立场的动态调适与双轨支架矩阵** 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）深度介入的学习环境中，认识论认知不再仅仅是个体内隐的静态特质，而是表现为学习者在人机交互中动态调适三种[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）的高级调控能力：
+> - **认识立场的动态中介效应** 学习者的认识立场直接决定其与大模型交互时的认知加工深度：绝对主义导致对机器输出的表面顺从与盲目[[Cognitive Offloading\|认知卸载]]，相对主义滑向主观臆测与交互抗拒，而评价主义则驱动对模型输出的批判性审问与跨信源证据协调。
+> - **双轨干预支架矩阵的赋能效能** 通过技术提示词支架（如[[Chain-of-Thought Prompting\|思维链]]引导、反思提示）与教学法支架（如交互式同行评议）的双轨协同干预，能够有效打破绝对主义认知的路径依赖，培育评价主义立场并最大化人机共生学习效益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 
 ---
 
@@ -173,40 +218,46 @@ updated: 2026-09-21
 > | **微观资源与多层系统** | 认识论认知的内在结构是高度情境化的资源池，需从微观个体至宏观共同体多层分析 | 认知访谈、课堂[[Ethnography\|民族志]]、[[Discourse Analysis\|话语分析]] | Chinn; Sandoval |
 > | **对齐法则与信度决定论** | 只有确保测量颗粒度严格对齐并提高工具信度，才能捕捉到其对高阶[[Academic Achievement\|学业成就]]的真实影响 | 心理测量工具设计、量化回归、[[Meta-analysis\|元分析]] | Greene |
 > | **论证具身与认识论实质** | 认识论认知具身为AIR三元实质协调，超越单纯句法结构并深植于学科实体推理 | 科学论证教学与评价、元认识论审议与认识主体性培育 | Duncan & Chinn |
+> | **人机共生与自适应调适** | 认识论认知在AI环境中表现为适应性认识立场的动态调适，依赖双轨支架干预维系认识主体性 | 生成式人工智能介入的[[Inquiry-Based Learning\|探究学习]]、跨信源阅读、[[Knowledge Production\|知识建构]]与人机协作 | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–368)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970–1994 — 起源阶段：发展模型** Perry (1970) 和 Kuhn (1991) 确立了个体[[Epistemology|认识论]]从绝对主义到评价主义的宏大线性发展阶段。
-> - **1990–1997 — 扩展阶段：多维模型** Schommer (1990) 以及 [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 打破了单维发展观，提出知识确定性、来源等多维独立的信念系统。
-> - **2001–2006 — 转向阶段：学科/领域驱动模型** Elby & Hammer (2001) 提出微观的[[Epistemic Resources|认识论资源]]，Muis et al. (2006) 确立了情境依赖性，摒弃了跨领域稳定特质的[[Hypothesis|假设]]。
-> - **2011–2018 — 教育研究应用：哲学驱动与整合框架** [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 与 [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] 提出了基于规范哲学与多层系统的整合框架；[[Argument_Greene_2018_JEP|Greene et al. (2018)]] 的[[Meta-analysis|元分析]]确立了该领域的实证基准。
-> - **2021 — 因果干预证据：教学框架与干预时长的元分析检验** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 针对 26 项实验与准实验研究开展首个干预元分析，证实认识论认知教学干预对学业成就有中等因果促进效应（$d = 0.509$）；揭示指导式探究与信源评估优于非指导式设计，并发现短周期高强度干预显著优于学期长周期干预。
-> - **2025 — 实践与论证转向：认识论实质与主体性** [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] 将 [[AIR Model of Epistemic Cognition|AIR]] 框架[[Operationalization|操作化]]为科学论证评价的中位规范模板，推动认识论认知从静态信念测量全面走向探究实践中的学科认识论实质与共同体[[Epistemic Agency|认识主体性]]建构。
+> - **1970–1994 — 起源阶段：发展模型** Perry (1970) 和 Kuhn (1991) 确立了个体[[Epistemology\|认识论]]从绝对主义到评价主义的宏大线性发展阶段。
+> - **1990–1997 — 扩展阶段：多维模型** Schommer (1990) 以及 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 打破了单维发展观，提出知识确定性、来源等多维独立的信念系统。
+> - **2001–2006 — 转向阶段：学科/领域驱动模型** Elby & Hammer (2001) 提出微观的[[Epistemic Resources\|认识论资源]]，Muis et al. (2006) 确立了情境依赖性，摒弃了跨领域稳定特质的[[Hypothesis\|假设]]。
+> - **2011–2018 — 教育研究应用：哲学驱动与整合框架** [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 与 [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] 提出了基于规范哲学与多层系统的整合框架；[[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的[[Meta-analysis\|元分析]]确立了该领域的实证基准。
+> - **2021 — 因果干预证据：教学框架与干预时长的元分析检验** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对 26 项实验与准[[Experimental Research\|实验研究]]开展首个干预元分析，证实认识论认知教学干预对[[Academic Achievement\|学业成就]]有中等因果促进效应（$d = 0.509$）；揭示[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]优于非指导式设计，并发现短周期高强度干预显著优于学期长周期干预。
+> - **2025 — 实践与论证转向：认识论实质与主体性** [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 将 [[AIR Model of Epistemic Cognition\|AIR]] 框架[[Operationalization\|操作化]]为科学论证评价的中位规范模板，推动认识论认知从静态信念测量全面走向探究实践中的学科认识论实质与共同体[[Epistemic Agency\|认识主体性]]建构。
+> - **2025 — 人机共生认识论转向：自适应[[Epistemic Stances\|认识立场]]与双轨干预框架** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将认识论认知拓展至[[Generative Artificial Intelligence\|生成式人工智能]]时代，提出人机共生自适应认识立场理论，系统揭示认识立场对[[Cognitive Offloading\|认知卸载]]性质的分化机制，并建立技术提示词与教学法双轨干预矩阵。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 
 ---
 
 ## 争议与批评
 
 > [!tension] 核心张力：知识与认知是如何存在的？
-> - **认知建构学说（蓝方）** 以 Piaget 发生[[Epistemology|认识论]]为基础，视知识为个体为适应经验而建构的内部概念结构，认识论认知是头脑中的相对稳定的信念或特质。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
-> - **[[Situative Perspective|情境主义]]立场（红方）** 受 Vygotsky 影响，视知识为分布式的文化产物，认识论认知不再是脱域命题，而是特定共同体解决问题的“社会实践活动（social practices）”。
+> - **认知建构学说（蓝方）** 以 Piaget 发生[[Epistemology\|认识论]]为基础，视知识为个体为适应经验而建构的内部概念结构，认识论认知是头脑中的相对稳定的信念或特质。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
+> - **[[Situative Perspective\|情境主义]]立场（红方）** 受 Vygotsky 影响，视知识为分布式的文化产物，认识论认知不再是脱域命题，而是特定共同体解决问题的“社会实践活动（social practices）”。
 
 > [!tension] 核心张力：普遍性还是高度情境性？
-> - **宏大领域特质论（蓝方）** 认为认识论具有宏大跨学科间的特异性，但在学科内部保持稳定状态，主张通过标准化[[Questionnaire|问卷]]测量总体特征。
-> - **微观资源库理论（红方）** 摒弃大颗粒度维度，认为面对同一学科文本，个体的[[Justificatory Standards|确证标准]]也会随当下任务发生剧烈切换，传统通用量表根本无法捕捉动态。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> - **宏大领域特质论（蓝方）** 认为认识论具有宏大跨学科间的特异性，但在学科内部保持稳定状态，主张通过标准化[[Questionnaire\|问卷]]测量总体特征。
+> - **微观资源库理论（红方）** 摒弃大颗粒度维度，认为面对同一学科文本，个体的[[Justificatory Standards\|确证标准]]也会随当下任务发生剧烈切换，传统通用量表根本无法捕捉动态。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
+
+> [!tension] 核心张力：静态心智表征 vs 动态人机交互[[Epistemic Stances\|认识立场]]调适
+> - **静态表征论（蓝方）** 倾向于将认识论认知视为个体在特定发展阶段或学科领域中相对恒定的信念特质，主要通过问卷或访谈在任务前后静态捕获。
+> - **人机共生动态调适论（红方）** [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–368)]] 认为在智能技术实时介入的情境中，个体的认识论认知是随提示词支架、模型反馈不确定性与同行评议动态流转的认识立场（绝对/相对/评价主义），强调在交互过程中实时捕捉与支架引导。
 
 > [!critique] 外部批评
-> - **脱域困境** 建构派广泛使用的标准化自陈量表将缄默的知识强行脱离语境显性化，犯了认识论错误；且部分通用问卷仅靠庞杂题海推高[[Reliability|信度]]，掩盖了[[Construct Validity|构念效度]]。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
-> - **内部推论黑箱** 情境派崇尚的纯外部[[Discourse Analysis|话语分析]]虽保留了真实情境，却陷入了仅靠表面行为难以准确推断内部隐蔽机制的“推论危机（inference problem）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> - **脱域困境** 建构派广泛使用的标准化自陈量表将缄默的知识强行脱离语境显性化，犯了认识论错误；且部分通用问卷仅靠庞杂题海推高[[Reliability\|信度]]，掩盖了[[Construct Validity\|构念效度]]。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
+> - **内部推论黑箱** 情境派崇尚的纯外部[[Discourse Analysis\|话语分析]]虽保留了真实情境，却陷入了仅靠表面行为难以准确推断内部隐蔽机制的“推论危机（inference problem）”。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- [[Meta-analysis|元分析]]总体结果
+> [!ma-table]- [[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
@@ -215,7 +266,7 @@ updated: 2026-09-21
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（干预因果效应） | 28 / 4,373 | Cohen's d；随机效应 | 0.509 [0.326, 0.692] | I²=92.72%，Q=370.964***；离群值缩尾至 2 SD | — |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 学习成果（认知、动机、自我调节） | 512 / 6,312 | r；三层多层随机效应（REML） | 0.191 [0.119, 0.261] | I²=92.46%（L2: 35.82%, τ²=0.015; L3: 56.64%, τ²=0.024）, Q=6004.06*** | — |
 
-> [!ma-table]- 调节[[Variable|变量]]与亚组分析
+> [!ma-table]- 调节[[Variable\|变量]]与亚组分析
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
@@ -223,11 +274,11 @@ updated: 2026-09-21
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 亚组分析 | 初中（r=.246）和混合阶段（r=.233）较大，大学（r=.131）较小 | — | Q_between = 15.111 (p<.05) | 预设 | — |
 > | 同上 | 成就类型 | 亚组分析 | 概念性知识（r=.190）和论证（r=.154）较高，[[Procedural Skill\|程序性知识]]（r=.077，不显著）较低 | — | Q_between = 1.766 (p>.05) | 预设 | — |
 > | 同上 | [[Epistemology\|认识论]][[Construct\|构念]] | 亚组分析 | 知识发展（r=.274）、一般认识论认知（r=.266）、多种证成（r=.225）较高 | — | Q_between = 57.955 (p<.001) | 预设 | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 亚组分析 | 指导式探究（d=.808）与信源评估（d=.800）最高，支架（d=.663）与建构主义（d=.479）居中，PBL（d=.340）与论证（d=.134）较低 | — | Q_between = 17.491 (p<.01) | 预设 | 显性指导与证据评估策略能防范劣构探究中的认知超载 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 亚组分析 | [[Inquiry-Based Learning\|指导式探究]]（d=.808）与[[Source Evaluation\|信源评估]]（d=.800）最高，支架（d=.663）与[[Constructivist Paradigm\|建构主义]]（d=.479）居中，PBL（d=.340）与论证（d=.134）较低 | — | Q_between = 17.491 (p<.01) | 预设 | 显性指导与证据评估策略能防范劣构探究中的认知超载 |
 > | 同上 | 干预时长 | 亚组分析 | 中期（d=.925）、单次（d=.734）与短期（d=.615）显著优于全学期及以上（d=.234，不显著） | — | Q_between = 8.863 (p<.05) | 预设 | 短期干预教学浓度高且测验更贴合；长周期干预存在效应衰退与常规教学稀释 |
 > | 同上 | 教育阶段 | 亚组分析 | K-12 中小学生（d=.606）显著高于大学本科生（d=.309） | — | Q_between = 9.071 (p<.05) | 预设 | 中小学生处于认识论可塑关键期；大学生已有信念相对固化 |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 学段（School level） | 亚组分析与多元[[Meta-regression\|元回归]] | 小学（r=0.375）显著高于初中（r=0.142）与高中（r=0.157） | — | F(2, 485) = 5.683, p = 0.003 | 预设 | 高学段应试升学与课外补习强化了机械记诵，弱化了高级认识论认知的作用 |
-> | 同上 | 认识论认知构念（EC constructs） | 亚组分析与多元元回归 | 总体认识论认知（r=0.288）、学习速度（r=0.207）、知识确证（r=0.187）、学习能力与知识来源（r=0.174）较高，确定性（r=0.122）较低 | — | F(7, 498) = 3.193, p = 0.002 | 预设 | 学习本质（外围）与认识本质（核心）效应明显，[[Ontology\|本体论]]维度的知识本质与学习成果关联较弱 |
+> | 同上 | 认识论认知构念（EC constructs） | 亚组分析与多元元回归 | 总体认识论认知（r=0.288）、学习速度（r=0.207）、知识确证（r=0.187）、学习能力与[[Source of Knowledge\|知识来源]]（r=0.174）较高，确定性（r=0.122）较低 | — | F(7, 498) = 3.193, p = 0.002 | 预设 | 学习本质（外围）与认识本质（核心）效应明显，[[Ontology\|本体论]]维度的知识本质与学习成果关联较弱 |
 > | 同上 | [[Domain Specificity\|领域特异性]]、[[Measurement Alignment\|测量对齐]]、量表极性、成果类型 | 多元元回归 | 均不显著（p > 0.05） | — | 领域特异性 p=0.126；对齐 p=0.277；量表极性 p=0.159；成果类型 p=0.828 | 预设 | 成果类型不显著反映东亚文化将学习视为自我修养与持续努力，高级认识论认知产生全域性促进 |
 
 > [!ma-table]- 稳健性与偏倚
@@ -236,17 +287,19 @@ updated: 2026-09-21
 > | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
 > |---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | — | 漏斗图，Trim-and-fill，[[Fail-Safe N]] | 0.162 | 稳定 | Fail-safe N=9265，未发现发表偏倚 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 离群值缩尾至 2 SD | 漏斗图、剪补法（Trim-and-fill）、[[Fail-Safe N]] | 0.342 [0.155, 0.528] | 稳定 | 剪补法填补 6 项缺失研究后效应量仍达中等偏小（d=0.342）；Classic Fail-safe N=2,752，Orwin's Fail-safe N=115 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 离群值缩尾至 2 SD | 漏斗图、剪补法（Trim-and-fill）、[[Fail-Safe N]] | 0.342 [0.155, 0.528] | 稳定 | [[Trim and Fill Method\|剪补法]]填补 6 项缺失研究后[[Effect Size\|效应量]]仍达中等偏小（d=0.342）；Classic Fail-safe N=2,752，Orwin's Fail-safe N=115 |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 逐一排除敏感性分析（r 稳定在 0.177–0.203）；无绝对残差 \|z\| > 3.29 的离群值 | 三层 [[Egger Regression Test\|Egger 回归检验]]（斜率 = -1.007, p = 0.429；截距 = 0.257, p = 0.004）与漏斗图 | 0.191 | 稳定 | [[Funnel Plot\|漏斗图]]对称，未发现发表偏倚或小样本效应 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 包含五个组件的扩展[[Epistemology|认识论]]认知框架推动了研究向细粒度和情境化方向发展。
-> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism|整合多元主义]]”主张。
-> - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 提供了一项大规模的[[Meta-analysis|元分析]]，评估了认识论认知对[[Academic Achievement|学业成就]]的预测效应，澄清了[[Reliability|信度]]与对齐规则的核心地位。
-> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 针对 26 项实验与准实验干预研究开展首个元分析，证实认识论认知教学干预对学业成就具有中等因果促进效应（$d = 0.509$），并确立指导式探究、信源评估及短周期聚焦干预的相对优势。
-> - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用[[Three-Level Meta-Analysis|三层元分析]]模型综合韩国中小学生 512 个[[Effect Size|效应量]]，证实认识论认知与学习成果呈小到中等正相关（r = 0.191），并揭示学段与[[Construct|构念]]维度的关键[[Interaction Effect|调节效应]]。
-> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将 [[AIR Model of Epistemic Cognition|AIR]] 认识论认知模型[[Operationalization|操作化]]为科学论证评价体系，构建观察与证据整合的规范模板，实证揭示[[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠过程]]对论证实质的决定机制。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 包含五个组件的扩展[[Epistemology\|认识论]]认知框架推动了研究向细粒度和情境化方向发展。
+> - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology\|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism\|整合多元主义]]”主张。
+> - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 提供了一项大规模的[[Meta-analysis\|元分析]]，评估了认识论认知对[[Academic Achievement\|学业成就]]的预测效应，澄清了[[Reliability\|信度]]与对齐规则的核心地位。
+> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展首个元分析，证实认识论认知教学干预对学业成就具有中等因果促进效应（$d = 0.509$），并确立[[Inquiry-Based Learning\|指导式探究]]、[[Source Evaluation\|信源评估]]及短周期聚焦干预的相对优势。
+> - [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] — 采用[[Three-Level Meta-Analysis\|三层元分析]]模型综合韩国中小学生 512 个[[Effect Size\|效应量]]，证实认识论认知与学习成果呈小到中等正相关（r = 0.191），并揭示学段与[[Construct\|构念]]维度的关键[[Interaction Effect\|调节效应]]。
+> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 将 [[AIR Model of Epistemic Cognition\|AIR]] 认识论认知模型[[Operationalization\|操作化]]为科学论证评价体系，构建观察与证据整合的规范模板，实证揭示[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]对论证实质的决定机制。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，揭示认识论认知在人机交互中的动态调节效应，论证[[Evaluativist\|评价主义认识立场]]对克服消极[[Cognitive Offloading\|认知卸载]]的关键价值，并提出技术与教学法双轨支架干预机制。
+

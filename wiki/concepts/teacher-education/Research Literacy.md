@@ -6,7 +6,7 @@ aliases:
 summary: "指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石"
 type: concept
 domain: "teacher-education"
-related_count: 60
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Scaffolding]]"
   - "[[Deficit Framing]]"
+  - "[[Scientific Explanation]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
   - "[[School Enquiry Cycle]]"
@@ -75,6 +76,7 @@ related_instruments:
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Organizational Culture]]"
+  - "[[Knowledge Integration]]"
   - "[[Theory of Planned Behavior]]"
   - "[[Inquiry Cycle]]"
 related_facts:
@@ -85,7 +87,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Research Literacy
@@ -95,32 +97,32 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 核心定义
-> **研究素养（Research Literacy）** 指专业人员（涵盖一线教师、学校管理者及公职政策制定者）以维护专业实践完整性与批判审议的方式，理解、评估、鉴别与整合多元方法论科研成果的能力与德性。研究素养不仅要求专业主体读懂学术[[Document|文献]]与统计指标，更是一种在干预措施的“有效性”（what works）与具体情境的“适切性”（what is appropriate）之间进行自主权衡把关的专业实践德性（Eriksen, 2022；[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p. 4]]；[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025, p. 8]]）。在宏观[[Epistemic Governance|知识治理]]视域下，研究素养更构成了抵御后真相算法操纵、辨识商业公关虚假包装，以及将[[Scientific Literacy|科学素养]]捍卫为公民基本民主权利的制度基石（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 69]]）。
+> **研究素养（Research Literacy）** 指专业人员（涵盖一线教师、学校管理者及公职政策制定者）以维护专业实践完整性与批判审议的方式，理解、评估、鉴别与整合多元方法论科研成果的能力与德性。研究素养不仅要求专业主体读懂学术[[Document\|文献]]与统计指标，更是一种在干预措施的“有效性”（what works）与具体情境的“适切性”（what is appropriate）之间进行自主权衡把关的专业实践德性（Eriksen, 2022；[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p. 4]]；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 8]]）。在宏观[[Epistemic Governance\|知识治理]]视域下，研究素养更构成了抵御后真相算法操纵、辨识商业公关虚假包装，以及将[[Scientific Literacy\|科学素养]]捍卫为公民基本民主权利的制度基石（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心含义** 研究素养既是专业认知能力，更是育人德性与民主权利：它不仅要求能读懂并评估科研论文，更要求在微观课堂中明智判断干预是否切合具体学情，在宏观政策中辨识商业利益裹挟下的伪科学偏见。
 > - **理论用途** 帮助理解为何阅读研究不等于有效采纳研究，阐明专业人员为何既不盲从教条处方也不全盘排斥科研，并为公职人员与教师教育建立批判性证据免疫防线。
-> - **适用边界** 坚决反对将研究素养降格为机械做题、检索技巧或[[Questionnaire|问卷]]打分的个体赤字测度；强调科研证据必须与本土情境经验进行平权[[Dialogue in Education|对话]]，且必须涵盖多元方法论而非仅迷信单一实验指标。
+> - **适用边界** 坚决反对将研究素养降格为机械做题、检索技巧或[[Questionnaire\|问卷]]打分的个体赤字测度；强调科研证据必须与本土情境经验进行平权[[Dialogue in Education\|对话]]，且必须涵盖多元方法论而非仅迷信单一实验指标。
 
-> [!citation-card] Eriksen 论[[Areas of Knowledge|知识领域]]完整性德性
-> 研究素养是一种守护专业[[Areas of Knowledge|知识领域]]完整性的德性。它还发挥中介功能，连接有效性的领域与适切性的领域。（Eriksen, 2022，转引自 [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p. 4]]）
+> [!citation-card] Eriksen 论[[Areas of Knowledge\|知识领域]]完整性德性
+> 研究素养是一种守护专业[[Areas of Knowledge\|知识领域]]完整性的德性。它还发挥中介功能，连接有效性的领域与适切性的领域。（Eriksen, 2022，转引自 [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p. 4]]）
 >
 > *Research literacy is a virtue that preserves the integrity of the domain of expertise. It also serves a mediating function between the domain of "what works" and the domain of "what is appropriate".*
 
 > [!citation-card] Burns & Schuller 论研究素养与捍卫民主权利
-> 最后，我们必须设计教师教育与公职人员培训，以磨砺其批判性审视与使用多元方法论各类研究的能力。这是捍卫作为一项基本民主权利的科学素养的必要步骤，也是在教育内外重申科学重要性并重建对科学过程信任的核心关键。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 69)]]
+> 最后，我们必须设计教师教育与公职人员培训，以磨砺其批判性审视与使用多元方法论各类研究的能力。这是捍卫作为一项基本民主权利的科学素养的必要步骤，也是在教育内外重申科学重要性并重建对科学过程信任的核心关键。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 69)]]
 >
 > *And lastly, we must design teacher education and public servant training to hone the capacity to critically engage with and use research of various kinds and from multiple methodologies. This is an essential step in defending scientific literacy as a basic democratic right (Chalmers et al., 2018), key to asserting the importance of and trust in science and the scientific process in education and beyond.*
 
 > [!citation-card] Rickinson et al. 论研究素养与深思熟虑参与的个体使能
-> [[British Educational Research Association|英国教育研究协会]]（BERA, 2014）与埃文斯等（Evans et al., 2017）指出，建立教师的研究素养是促进实践与研究融合的基石。在 [[Quality Use of Research Evidence Framework|QURE]] 框架中，研究素养被明确界定为支撑“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），它要求教师教育与专业发展打破孤立的技能操练，促使专业人员在特定情境中对适切证据展开审慎权衡与批判吸纳。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 142–143)]]
+> [[British Educational Research Association\|英国教育研究协会]]（BERA, 2014）与埃文斯等（Evans et al., 2017）指出，建立教师的研究素养是促进实践与研究融合的基石。在 [[Quality Use of Research Evidence Framework\|QURE]] 框架中，研究素养被明确界定为支撑“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），它要求教师教育与专业发展打破孤立的技能操练，促使专业人员在特定情境中对适切证据展开审慎权衡与批判吸纳。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 142–143)]]
 >
-> *Building teachers' research literacy involves integrating practice and research... In developing thoughtful engagement with and implementation of appropriate research evidence, research literacy forms a core individual enabler that connects practitioner skillsets and mindsets with [[Organizational Culture|organisational culture]].*
+> *Building teachers' research literacy involves integrating practice and research... In developing thoughtful engagement with and implementation of appropriate research evidence, research literacy forms a core individual enabler that connects practitioner skillsets and mindsets with [[Organizational Culture\|organisational culture]].*
 
 > [!boundary] 概念边界
-> - **不等同于 [[Professional Judgment|专业判断]]** 专业判断是指从业者在微观现场临场决断的综合[[Phronesis|实践智慧]]；研究素养则是指如何恰如其分地把外部科研证据纳入这一判断过程中的审议德性与鉴别力。
+> - **不等同于 [[Professional Judgment\|专业判断]]** 专业判断是指从业者在微观现场临场决断的综合[[Phronesis\|实践智慧]]；研究素养则是指如何恰如其分地把外部科研证据纳入这一判断过程中的审议德性与鉴别力。
 > - **不等同于 盲目崇拜科学结论** 研究素养恰恰要求从业者有能力对论文结论与大尺度数据库进行批判性审视，清醒甄别大样本弱效应的真实教学价值与商业包装背后的利益冲突。
-> - **不等同于 窄化的个体统计做题技能** 反对将研究素养贬低为仅供考核打分的[[Literature Search|文献检索]]或看懂 $p$ 值的技能操作，主张将其理解为扎根于复杂教育生态中的多源知识整合与价值权衡能力。
+> - **不等同于 窄化的个体统计做题技能** 反对将研究素养贬低为仅供考核打分的[[Literature Search\|文献检索]]或看懂 $p$ 值的技能操作，主张将其理解为扎根于复杂教育生态中的多源[[Knowledge Integration\|知识整合]]与价值权衡能力。
 
 ---
 
@@ -143,26 +145,26 @@ updated: 2026-09-21
 > - **专业讲理能力（Reason-Giving）** 能够清晰说明教学选择的合理性，依托对课堂实践的深入洞察（实践敏感度），向同行与家长阐明缘由。
 > - **因地制宜的灵活性（Flexibility）** 在特定的时间、地点与情境中判断何种做法最合适，依托对具体学情与师生互动的敏锐捕捉（情境敏感度）。
 
-> [!feature] 宏观[[Epistemic Governance|知识治理]]视阈下的双轨培训主体与多元方法批判架构（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 69]]）
+> [!feature] 宏观[[Epistemic Governance\|知识治理]]视阈下的双轨培训主体与多元方法批判架构（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）
 > - **教师教育与公职人员培训双轨并重（Dual Training Tracks）** 研究素养不应窄化为一线教师的单向义务；公共决策部门掌握着问责框架、认证许可标准与科研经费配置大权，公职人员同样必须具备扎实的研究素养，以防在政策制定中陷入“拍脑袋”决断或被商业利益集团俘获。
-> - **批判性审视多元方法论研究（Engaging with Multiple Methodologies）** 摆脱对单一量化实证指标（如简单平均[[Effect Size|效应量]]）的教条化盲信，具备对定量实验、质性[[Rich and Thick Description|深描]]、[[Case Study|个案研究]]与[[Action Research|行动研究]]等多元方法论的审议鉴别力，清醒识别大样本弱效应的局限。
-> - **捍卫[[Scientific Literacy|科学素养]]作为公民民主权利（Democratic Right & Epistemic Defense）** 在社交媒体算法茧房与反智反专家情绪泛滥的后真相语境下，批判性研究素养是公民理性参与公共教育审议、抵御自利操纵者（Spinners）“证据洗白”的核心认知武器。
+> - **批判性审视多元方法论研究（Engaging with Multiple Methodologies）** 摆脱对单一量化实证指标（如简单平均[[Effect Size\|效应量]]）的教条化盲信，具备对定量实验、质性[[Rich and Thick Description\|深描]]、[[Case Study\|个案研究]]与[[Action Research\|行动研究]]等多元方法论的审议鉴别力，清醒识别大样本弱效应的局限。
+> - **捍卫[[Scientific Literacy\|科学素养]]作为公民民主权利（Democratic Right & Epistemic Defense）** 在社交媒体算法茧房与反智反专家情绪泛滥的后真相语境下，批判性研究素养是公民理性参与公共教育审议、抵御自利操纵者（Spinners）“证据洗白”的核心认知武器。
 
-> [!feature] 行为科学与心理测量视阈下的四维度[[Operationalization|操作化]][对标]（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin, 2023]]）
-> - **研究意识（Research Awareness）** 教师对科研主题构成、发表渠道及阅读的先前知识与信息敏锐度（前置背景[[Variable|变量]]）。
+> [!feature] 行为科学与心理测量视阈下的四维度[[Operationalization\|操作化]][对标]（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023]]）
+> - **研究意识（Research Awareness）** 教师对科研主题构成、发表渠道及阅读的先前知识与信息敏锐度（前置背景[[Variable\|变量]]）。
 > - **研究态度（Attitude toward Research）** 教师对科研对教学专业价值、专业发展促进作用的积极信念与情感认同（意向驱动变量）。
-> - **研究技能（Research Skills）** 教师在[[Literature Search|文献检索]]、学术探讨、图表与统计分析结果解读等方面的操作能力（知觉行为控制核心变量，解释 46.9% 方差）。
-> - **[[Research Utilization|研究使用]]（Research Use）** 教师在备课、教学法改进、反思与教研[[Dialogue in Education|对话]]中主动应用科研成果的实际行为（外显行为转化变量）。
+> - **研究技能（Research Skills）** 教师在[[Literature Search\|文献检索]]、学术探讨、图表与统计分析结果解读等方面的操作能力（知觉行为控制核心变量，解释 46.9% 方差）。
+> - **[[Research Utilization\|研究使用]]（Research Use）** 教师在备课、教学法改进、反思与教研[[Dialogue in Education\|对话]]中主动应用科研成果的实际行为（外显行为转化变量）。
 
-> [!feature] 中介转化模型下的研究素养支架（[[Argument_Brown_2017_ER|Brown et al., 2017, pp. 161–162]]）
-> - **克服学术话语壁垒（Bridging Academic Language Barriers）** 原始学术期刊通常充斥抽象统计模型与复杂概念，对教师构成严苛的研究素养门槛；推进研究利用必须依靠中介者将学术论文[[Transfer Translation Transformation|转译]]为实践者可吸收的语言。
-> - **结构化研习协议与工具包（Structured Mediation Protocols）** 依托[[Research Learning Communities|研究学习共同体]]（RLC）等载体，由大学研究者提供转译后的实证总结与研习协议，帮助学校从依赖浮躁的快餐式小妙招，转向深入探究有效机制的学习文化。
-> - **双素养协同培育（Dual Literacy Integration）** 研究素养必须与[[Data Literacy|数据素养]]协同互补，防止缺乏校本数据诊断而盲目追逐时髦热点。
+> [!feature] 中介转化模型下的研究素养支架（[[Argument_Brown_2017_ER\|Brown et al., 2017, pp. 161–162]]）
+> - **克服学术话语壁垒（Bridging Academic Language Barriers）** 原始学术期刊通常充斥抽象统计模型与复杂概念，对教师构成严苛的研究素养门槛；推进研究利用必须依靠中介者将学术论文[[Transfer Translation Transformation\|转译]]为实践者可吸收的语言。
+> - **结构化研习协议与工具包（Structured Mediation Protocols）** 依托[[Research Learning Communities\|研究学习共同体]]（RLC）等载体，由大学研究者提供转译后的实证总结与研习协议，帮助学校从依赖浮躁的快餐式小妙招，转向深入探究有效机制的学习文化。
+> - **双素养协同培育（Dual Literacy Integration）** 研究素养必须与[[Data Literacy\|数据素养]]协同互补，防止缺乏校本数据诊断而盲目追逐时髦热点。
 
-> [!feature] [[Quality Use of Research Evidence Framework|QURE]] 框架视阈下的个体使能构件（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a, pp. 142–143]]）
-> - **双核驱动之技能网络（Skillsets for Thoughtful Engagement）** 涵盖批判性[[Evaluation Research|评估研究]]设计与情境适切性的能力、在同行研讨中审慎论证（Reason-Giving）的能力，以及将适切证据融入校本教改方案的微观转译技能。
-> - **双核驱动之态度与[[Epistemic Stances|认识论立场]]（Mindsets & Epistemic Stances）** 包括对科学探究的开放心智、对复杂教育现实的探究[[Humility in Learning|谦逊]]，以及抵御教条化盲信与虚无主义怀疑的[[Epistemology|认识论]]成熟度。
-> - **个体使能与组织氛围的深度互构（Individual-Organisational Interplay）** 个体研究素养并非孤立存续，必须依托由[[School Leadership|学校领导力]]支持、学术反思文化与制度化资源保障构成的肥沃土壤，方能转化为常态化的深思熟虑参与。
+> [!feature] [[Quality Use of Research Evidence Framework\|QURE]] 框架视阈下的个体使能构件（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, pp. 142–143]]）
+> - **双核驱动之技能网络（Skillsets for Thoughtful Engagement）** 涵盖批判性[[Evaluation Research\|评估研究]]设计与情境适切性的能力、在同行研讨中审慎论证（Reason-Giving）的能力，以及将适切证据融入校本教改方案的微观转译技能。
+> - **双核驱动之态度与[[Epistemic Stances\|认识论立场]]（Mindsets & Epistemic Stances）** 包括对科学探究的开放心智、对复杂教育现实的探究[[Humility in Learning\|谦逊]]，以及抵御教条化盲信与虚无主义怀疑的[[Epistemology\|认识论]]成熟度。
+> - **个体使能与组织氛围的深度互构（Individual-Organisational Interplay）** 个体研究素养并非孤立存续，必须依托由[[School Leadership\|学校领导力]]支持、学术反思文化与制度化资源保障构成的肥沃土壤，方能转化为常态化的深思熟虑参与。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -187,10 +189,10 @@ updated: 2026-09-21
 ### 命题一　研究素养让专业实践摆脱艺术与科学的二元对立，把研究使用转化为再情境化过程
 
 > [!concept-lens] 教学作为专业技艺模型
-> 主张把教学理解为充满智慧的专业技艺，[[Research Utilization|研究使用]]不是照搬论文处方，而是带有专业反思的再情境化创造。
+> 主张把教学理解为充满智慧的专业技艺，[[Research Utilization\|研究使用]]不是照搬论文处方，而是带有专业反思的再情境化创造。
 
 > [!claim] Eriksen (2022); Mausethagen & Hermansen (2023)
-> **技艺模型与再情境化裁决** 反对把教学简单划分为纯个人经验手艺或标准化科学处方，主张通过专业技艺模型看待教学：研究素养作为一种德性，在有效性与适切性之间发挥着关键的调和把关作用。实证案例表明，优秀的教师和管理者在面对外部研究时，其选择、改编与整合过程始终兼具探索性与[[Creativity|创造性]]。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]
+> **技艺模型与再情境化裁决** 反对把教学简单划分为纯个人经验手艺或标准化科学处方，主张通过专业技艺模型看待教学：研究素养作为一种德性，在有效性与适切性之间发挥着关键的调和把关作用。实证案例表明，优秀的教师和管理者在面对外部研究时，其选择、改编与整合过程始终兼具探索性与[[Creativity\|创造性]]。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 4)]]
 
 ---
 
@@ -199,37 +201,37 @@ updated: 2026-09-21
 > [!concept-lens] 培养途径与系统支持责任
 > 研究素养不只是教师个人的天赋或私事，其养成高度依赖职前教师教育与职后教研体系的系统支持。
 
-> [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]
-> **跨层技能发展机制支撑** 研究素养是把科研知识与教师实践经验融会贯通的综合德性，因此培养研究素养是超出教师个体的系统责任，需要从职前[[Normal School|师范教育]]和职后专业发展体系入手，支持教师深思熟虑地参与教研与整合研究。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 18)]]
+> [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]
+> **跨层技能发展机制支撑** 研究素养是把科研知识与教师实践经验融会贯通的综合德性，因此培养研究素养是超出教师个体的系统责任，需要从职前[[Normal School\|师范教育]]和职后专业发展体系入手，支持教师深思熟虑地参与教研与整合研究。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 18)]]
 
-> [!claim] [[Argument_Brown_2017_ER|Brown et al. (2017)]]
-> **双素养协同培育与校本学情锚定** 研究素养不能孤立发展；脱离[[Data Literacy|数据素养]]的研究素养极易使教师根据政策风向或个人偏好追逐学术“热门话题”，导致干预方案看似科学却脱离校本真实学情痛点。推进证据知情学校改进要求职前师资培育与职后专业发展打破学科藩篱，将研究素养（[[Literature Search|文献检索]]与方案[[Transfer Translation Transformation|转译]]）与数据素养（校本数据质检与成因诊断）一体化协同培养，使外部实证方案精准扎根于校本情境。[[Argument_Brown_2017_ER|(Brown et al., 2017, pp. 165, 167)]]
+> [!claim] [[Argument_Brown_2017_ER\|Brown et al. (2017)]]
+> **双素养协同培育与校本学情锚定** 研究素养不能孤立发展；脱离[[Data Literacy\|数据素养]]的研究素养极易使教师根据政策风向或个人偏好追逐学术“热门话题”，导致干预方案看似科学却脱离校本真实学情痛点。推进证据知情学校改进要求职前师资培育与职后专业发展打破学科藩篱，将研究素养（[[Literature Search\|文献检索]]与方案[[Transfer Translation Transformation\|转译]]）与数据素养（校本数据质检与成因诊断）一体化协同培养，使外部实证方案精准扎根于校本情境。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 165, 167)]]
 
-> [!claim] [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]]
-> **中介过载环境下的素养赤字与[[Practitioner Enquiry|实践者探究]]赋能** 跨国比较揭示，在商业中介极度繁荣与高利害问责的治理环境中（如英格兰），[[School Leadership|学校领导]]者面临严重的认知过载与时间贫乏；多数校长因缺乏[[Evaluation Research|评估研究]]方法缺陷与局限性的批判性研究素养，被迫听信二手摘要或盲目采购号称“基于研究”的商业方案（Leader A）。相较之下，将实践者探究（Practitioner Enquiry）制度化嵌入教师专业标准（如苏格兰 [[General Teaching Council for Scotland|GTCS]]）与开展同侪案例研讨（如德国汉堡），能够为一线专业人员提供批判性审视流行研究的[[Scaffolding|脚手架]]，从而将研究素养从被动接受升级为主动校准。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 11–12, 19–21)]]
+> [!claim] [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]
+> **中介过载环境下的素养赤字与[[Practitioner Enquiry\|实践者探究]]赋能** 跨国比较揭示，在商业中介极度繁荣与高利害问责的治理环境中（如英格兰），[[School Leadership\|学校领导]]者面临严重的认知过载与时间贫乏；多数校长因缺乏[[Evaluation Research\|评估研究]]方法缺陷与局限性的批判性研究素养，被迫听信二手摘要或盲目采购号称“基于研究”的商业方案（Leader A）。相较之下，将实践者探究（Practitioner Enquiry）制度化嵌入教师专业标准（如苏格兰 [[General Teaching Council for Scotland\|GTCS]]）与开展同侪案例研讨（如德国汉堡），能够为一线专业人员提供批判性审视流行研究的[[Scaffolding\|脚手架]]，从而将研究素养从被动接受升级为主动校准。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–12, 19–21)]]
 
-> [!claim] [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]]
-> **[[Quality Use of Research Evidence Framework|QURE]] 视阈下个体使能与系统联动的生态培育** 里克森等学者在跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review|系统综述]]中指出，个体研究素养构成了实现证据高质量使用不可或缺的微观使能条件。然而，单纯寄望于一线教师自主提升素养是对系统责任的转嫁；[[British Educational Research Association|英国教育研究协会]]（BERA, 2014）与沙普尔斯（Sharples, 2013）强调，必须在全系统层面将研究素养培训内置于职前教师教育与准入标准中，并辅以校本领导力支持与跨专业学习网络，使研究素养成为串联适切证据与深思熟虑参与的系统催化剂。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 142–144)]]
+> [!claim] [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]
+> **[[Quality Use of Research Evidence Framework\|QURE]] 视阈下个体使能与系统联动的生态培育** 里克森等学者在跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review\|系统综述]]中指出，个体研究素养构成了实现证据高质量使用不可或缺的微观使能条件。然而，单纯寄望于一线教师自主提升素养是对系统责任的转嫁；[[British Educational Research Association\|英国教育研究协会]]（BERA, 2014）与沙普尔斯（Sharples, 2013）强调，必须在全系统层面将研究素养培训内置于职前教师教育与准入标准中，并辅以校本领导力支持与跨专业学习网络，使研究素养成为串联适切证据与深思熟虑参与的系统催化剂。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 142–144)]]
 
 ---
 
 ### 命题三　研究素养超越个体技能赤字测度，是指向多源知识整合与价值调和的专业实践德性
 
-> [!concept-lens] 知识整合德性与赤字思维破除
-> 批判把研究素养窄化为[[Questionnaire|问卷]]打分与技能短板测度的倾向，将其重构为专业敏感型的多源知识整合能力。
+> [!concept-lens] [[Knowledge Integration\|知识整合]]德性与赤字思维破除
+> 批判把研究素养窄化为[[Questionnaire\|问卷]]打分与技能短板测度的倾向，将其重构为专业敏感型的多源知识整合能力。
 
-> [!claim] [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]
-> **超越[[Deficit Framing|赤字框架]]的知识整合实践** 传统[[Document|文献]]倾向于把研究素养缩减为[[Literature Search|文献检索]]和看懂统计图表的技术技能，陷入指责教师能力不足的[[Deficit Framing|赤字框架]]；第四代专业敏感型框架表明，真正的研究素养体现在教师把外部科研与学科知识、具体学情进行主动权衡的综合能力，以及在育人伦理冲突中作出明智裁决的专业德性。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 6–8)]]
+> [!claim] [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
+> **超越[[Deficit Framing\|赤字框架]]的知识整合实践** 传统[[Document\|文献]]倾向于把研究素养缩减为[[Literature Search\|文献检索]]和看懂统计图表的技术技能，陷入指责教师能力不足的[[Deficit Framing\|赤字框架]]；第四代专业敏感型框架表明，真正的研究素养体现在教师把外部科研与学科知识、具体学情进行主动权衡的综合能力，以及在育人伦理冲突中作出明智裁决的专业德性。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 6–8)]]
 
 ---
 
 ### 命题四　计划行为理论视阈下研究技能构成行为转化的核心控制枢纽，与态度共同驱动研究使用
 
 > [!concept-lens] 行为转化机制与知觉控制枢纽
-> 将研究素养置于行为科学解释链中，探讨研究意识、态度与技能如何协同促成实际的研究使用行为。
+> 将研究素养置于行为[[Scientific Explanation\|科学解释]]链中，探讨研究意识、态度与技能如何协同促成实际的研究使用行为。
 
-> [!claim] [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]]
-> **知觉行为控制与多维能力建构** 基于[[Theory of Planned Behavior|计划行为理论]]（Theory of Planned Behavior, TPB）与量表实证检验，研究素养中方差贡献最大的是研究技能（解释 46.90% 方差），表明知觉行为控制（Perceived Behavioral Control, PBC）是推动教师将积极科研态度（均值高达 4.37）转化为实际教学使用（均值 3.78）的关键中介。亲身做研究对技能提升具有最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动研究使用行为（$\eta^2 = .046$）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–15)]]
+> [!claim] [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]
+> **知觉行为控制与多维能力建构** 基于[[Theory of Planned Behavior\|计划行为理论]]（Theory of Planned Behavior, TPB）与量表实证检验，研究素养中方差贡献最大的是研究技能（解释 46.90% 方差），表明知觉行为控制（Perceived Behavioral Control, PBC）是推动教师将积极科研态度（均值高达 4.37）转化为实际教学使用（均值 3.78）的关键中介。亲身做研究对技能提升具有最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动研究使用行为（$\eta^2 = .046$）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–15)]]
 
 ---
 
@@ -238,8 +240,8 @@ updated: 2026-09-21
 > [!concept-lens] 宏观治理反思与民主权利护卫
 > 将研究素养从微观课堂技能拓展为公共治理核心能力，探讨公职人员培训与批判性研究素养对守护科学公信力的决定性意义。
 
-> [!claim] Chalmers et al. (2018); [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]
-> **公职培训、多元方法批判与民主权利护卫** 在社交媒体算法茧房、反专家情绪滋长与商业自利操纵者（Spinners）将“证据知情”标签异化为营销噱头的后真相时代，研究素养不仅属于一线教师，更构成了公务员与政策决策者的法定核心能力（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60, 69]]）。单纯提供更多数据或培训机械检索技能无法克服认知反弹；唯有在教师教育与公职人员培训中同步强化批判性审视与使用多元方法论各类研究（涵盖质性[[Rich and Thick Description|深描]]、定量实验、[[Case Study|案例研究]]与[[Action Research|行动研究]]）的能力，打破对单一算法提示和平均[[Effect Size|效应量]]的盲信，才能筑牢抵御自利操纵的认知免疫防线，将[[Scientific Literacy|科学素养]]捍卫为公民有效参与公共治理的基本民主权利（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 69]]）。
+> [!claim] Chalmers et al. (2018); [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]
+> **公职培训、多元方法批判与民主权利护卫** 在社交媒体算法茧房、反专家情绪滋长与商业自利操纵者（Spinners）将“证据知情”标签异化为营销噱头的后真相时代，研究素养不仅属于一线教师，更构成了公务员与政策决策者的法定核心能力（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60, 69]]）。单纯提供更多数据或培训机械检索技能无法克服认知反弹；唯有在教师教育与公职人员培训中同步强化批判性审视与使用多元方法论各类研究（涵盖质性[[Rich and Thick Description\|深描]]、定量实验、[[Case Study\|案例研究]]与[[Action Research\|行动研究]]）的能力，打破对单一算法提示和平均[[Effect Size\|效应量]]的盲信，才能筑牢抵御自利操纵的认知免疫防线，将[[Scientific Literacy\|科学素养]]捍卫为公民有效参与公共治理的基本民主权利（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）。
 
 ---
 
@@ -259,23 +261,23 @@ updated: 2026-09-21
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2000s–2010s — 信息素养与实证技能测度** [[Document|文献]]多将研究素养[[Operationalization|操作化]]为信息检索、科研文献阅读与数据分析技能（Williams & Coles, 2007; Brown & Zhang, 2016）。
-> - **2017 — [[Inquiry Cycle|探究循环]]视阈下的双素养协同（[[School Enquiry Cycle|ESTI]]）** [[Argument_Brown_2017_ER|Brown et al. (2017)]] 揭示教师在检索与[[Transfer Translation Transformation|转译]]期刊学术论文时面临的研究素养壁垒，提出依托 [[Research Learning Communities|RLC]] 结构化协议提供中介支架，并倡导职前与在职培训中将研究素养与[[Data Literacy|数据素养]]一体化协同培育。
-> - **2018 — [[Scientific Literacy|科学素养]]确立为公民民主权利** Chalmers 等人（2018）提出公众对研究证据的批判性理解与使用是现代民主社会中公民不可剥夺的基本权利。
+> - **2000s–2010s — 信息素养与实证技能测度** [[Document\|文献]]多将研究素养[[Operationalization\|操作化]]为信息检索、科研文献阅读与数据分析技能（Williams & Coles, 2007; Brown & Zhang, 2016）。
+> - **2017 — [[Inquiry Cycle\|探究循环]]视阈下的双素养协同（[[School Enquiry Cycle\|ESTI]]）** [[Argument_Brown_2017_ER\|Brown et al. (2017)]] 揭示教师在检索与[[Transfer Translation Transformation\|转译]]期刊学术论文时面临的研究素养壁垒，提出依托 [[Research Learning Communities\|RLC]] 结构化协议提供中介支架，并倡导职前与在职培训中将研究素养与[[Data Literacy\|数据素养]]一体化协同培育。
+> - **2018 — [[Scientific Literacy\|科学素养]]确立为公民民主权利** Chalmers 等人（2018）提出公众对研究证据的批判性理解与使用是现代民主社会中公民不可剥夺的基本权利。
 > - **2022 — 技艺模型与专业德性转向** Eriksen（2022）把研究素养界定为专业德性，在技艺模型框架下提出完整性、讲理与灵活性三德性及三种敏感度。
-> - **2022 — 双轨培训拓展与后真相批判免疫** [[OECD|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022]]）将研究素养从教师单轨拓展至“教师教育与公职人员培训”双轨，强调对多元方法论的批判性审议，确立其作为抵御商业营销操纵与后真相偏见的核心防线。
-> - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架确立研究素养为深思熟虑参与的个体使能构件** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策领域的 [[PRISMA]] [[Systematic Review|系统综述]]，将研究素养确立为驱动“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），打破单纯技能[[Deficit Framing|赤字框架]]，强调知识整合与情境化批判审议。
-> - **2023 — 四维操作化与行为模型构建** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] 基于[[Theory of Planned Behavior|计划行为理论]]与[[Research Utilization|研究利用]]模型，提出涵盖意识、态度、技能与使用的四维度量表，实证确立二阶因子结构与科研经验的促进机制。
+> - **2022 — 双轨培训拓展与后真相批判免疫** [[OECD\|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022]]）将研究素养从教师单轨拓展至“教师教育与公职人员培训”双轨，强调对多元方法论的批判性审议，确立其作为抵御商业营销操纵与后真相偏见的核心防线。
+> - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立研究素养为深思熟虑参与的个体使能构件** [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策领域的 [[PRISMA]] [[Systematic Review\|系统综述]]，将研究素养确立为驱动“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），打破单纯技能[[Deficit Framing\|赤字框架]]，强调[[Knowledge Integration\|知识整合]]与情境化批判审议。
+> - **2023 — 四维操作化与行为模型构建** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] 基于[[Theory of Planned Behavior\|计划行为理论]]与[[Research Utilization\|研究利用]]模型，提出涵盖意识、态度、技能与使用的四维度量表，实证确立二阶因子结构与科研经验的促进机制。
 > - **2023 — 案例应用与再情境化** Mausethagen & Hermansen (2023) 在挪威学校案例中展示研究素养在实践中的再情境化过程。
-> - **2025 — 赤字批判与专业敏感重构** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判既有文献将研究素养矮化为个体技能赤字的偏见，确立第四代专业敏感型多源知识整合[[Paradigm|范式]]。
-> - **2025 — 治理负荷与批判素养缺失下的二手依赖** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 揭示市场化中介轰炸下校长批判性研究素养的缺失现状（多数校长不了解研究方法与局限而重度依赖二手摘要），论证制度化[[Practitioner Enquiry|实践者探究]]（Practitioner Enquiry）对培育真实批判素养的必要性。
+> - **2025 — 赤字批判与专业敏感重构** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 批判既有文献将研究素养矮化为个体技能赤字的偏见，确立第四代专业敏感型多源知识整合[[Paradigm\|范式]]。
+> - **2025 — 治理负荷与批判素养缺失下的二手依赖** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 揭示市场化中介轰炸下校长批判性研究素养的缺失现状（多数校长不了解研究方法与局限而重度依赖二手摘要），论证制度化[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）对培育真实批判素养的必要性。
 > - **2026 — 纳入跨层治理机制** Hagevold 等人（2026）把研究素养与技能发展机制联系起来，主张技能发展是超出个体层面的系统责任。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -294,28 +296,28 @@ updated: 2026-09-21
 
 > [!debates] 学术争议
 >
-> > [!axis] 个体技能测度 vs 专业德性与知识整合
-> > 传统实证研究往往将研究素养简化为可通过标准化测试或培训提升的个体技能，并将其作为诊断教师能力缺陷的指标；批判学者与 [[Quality Use of Research Evidence Framework|QURE]] 框架则主张研究素养是一种实践德性与个体使能，必须置于学校生态与知识整合中考量。
+> > [!axis] 个体技能测度 vs 专业德性与[[Knowledge Integration\|知识整合]]
+> > 传统实证研究往往将研究素养简化为可通过标准化测试或培训提升的个体技能，并将其作为诊断教师能力缺陷的指标；批判学者与 [[Quality Use of Research Evidence Framework\|QURE]] 框架则主张研究素养是一种实践德性与个体使能，必须置于学校生态与知识整合中考量。
 > >
 > > - **Williams & Coles (2007); Brown & Zhang (2016)** 侧重测量个体教师的信息素养与研究态度。
-> > - **[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]]** 主张将意识、态度、知觉技能与外显使用统整建模，通过[[Theory of Planned Behavior|计划行为理论]]解释态度向行为转化的知觉控制中介机制。
-> > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判个体测量助长了赤字话语，掩盖了教师在价值冲突与情境权衡中的专业理性。
-> > - **[[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]]** 强调研究素养必须从孤立技能转向支撑适切证据与深思熟虑参与双核融合的个体使能构件，并与组织领导力和反思文化深度互构。
-> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 强调若脱离组织与系统的可持续结构与信任机制，单靠提升个体研究素养无法促成深度[[Research Utilization|研究使用]]。
-> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]** 指出若将研究素养的培养局限于一线教师，而忽视掌握顶层资源的公职政策制定者，极易造成政策层面的“系统性脱责”；公职人员若缺乏批判素养，易使国家问责与科研拨款沦为商业利益俘获的工具。
+> > - **[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]** 主张将意识、态度、知觉技能与外显使用统整建模，通过[[Theory of Planned Behavior\|计划行为理论]]解释态度向行为转化的知觉控制中介机制。
+> > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 批判个体测量助长了赤字话语，掩盖了教师在价值冲突与情境权衡中的专业理性。
+> > - **[[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]** 强调研究素养必须从孤立技能转向支撑适切证据与深思熟虑参与双核融合的个体使能构件，并与组织领导力和反思文化深度互构。
+> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 强调若脱离组织与系统的可持续结构与信任机制，单靠提升个体研究素养无法促成深度[[Research Utilization\|研究使用]]。
+> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]** 指出若将研究素养的培养局限于一线教师，而忽视掌握顶层资源的公职政策制定者，极易造成政策层面的“系统性脱责”；公职人员若缺乏批判素养，易使国家问责与科研拨款沦为商业利益俘获的工具。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，将研究素养确立为驱动“深思熟虑参与”的个体使能构件（技能网络与态度价值观），强调个体使能与组织氛围的深度互构。
-> - [[Argument_Brown_2017_ER|Brown et al. (2017)]] — 揭示一线教师在研读专业学术论文时的研究素养壁垒，提出依托 [[Research Learning Communities|RLC]] 结构化协议提供[[Transfer Translation Transformation|转译]]支架，并倡导职前与在职教育中将研究素养与[[Data Literacy|数据素养]]一体化协同培育。
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 基于[[Theory of Planned Behavior|计划行为理论]]开发 20 题四维度[[Research Literacy Scale for Teachers|教师研究素养量表]]（RLS），并实证检验科研参与和学术期刊阅读对素养维度的促进机制。
-> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 把研究素养作为先验框架中适切研究的判断敏感度来源，并在讨论中将其纳入跨层技能发展机制。
-> - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 系统审视了 30 年来将研究素养作为个体赤字指标的[[Document|文献]]倾向，主张转向以多源知识整合与专业规范为支撑的专业敏感型概念化。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 提出在公职人员培训与教师教育中双轨推进批判性研究素养，批判单一量化指标迷信，将[[Scientific Literacy|科学素养]]捍卫为公民基本民主权利。
-> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 跨国比较[[Qualitative Research|质性研究]]揭示商业中介轰炸与高利害问责导致校长批判性研究素养被压抑并产生二手摘要依赖，论证制度化[[Practitioner Enquiry|实践者探究]]（Practitioner Enquiry）是培育批判素养的关键支撑。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，将研究素养确立为驱动“深思熟虑参与”的个体使能构件（技能网络与态度价值观），强调个体使能与组织氛围的深度互构。
+> - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 揭示一线教师在研读专业学术论文时的研究素养壁垒，提出依托 [[Research Learning Communities\|RLC]] 结构化协议提供[[Transfer Translation Transformation\|转译]]支架，并倡导职前与在职教育中将研究素养与[[Data Literacy\|数据素养]]一体化协同培育。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 基于[[Theory of Planned Behavior\|计划行为理论]]开发 20 题四维度[[Research Literacy Scale for Teachers\|教师研究素养量表]]（RLS），并实证检验科研参与和学术期刊阅读对素养维度的促进机制。
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 把研究素养作为先验框架中适切研究的判断敏感度来源，并在讨论中将其纳入跨层技能发展机制。
+> - [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] — 系统审视了 30 年来将研究素养作为个体赤字指标的[[Document\|文献]]倾向，主张转向以多源[[Knowledge Integration\|知识整合]]与专业规范为支撑的专业敏感型概念化。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 提出在公职人员培训与教师教育中双轨推进批判性研究素养，批判单一量化指标迷信，将[[Scientific Literacy\|科学素养]]捍卫为公民基本民主权利。
+> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 跨国比较[[Qualitative Research\|质性研究]]揭示商业中介轰炸与高利害问责导致校长批判性研究素养被压抑并产生二手摘要依赖，论证制度化[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）是培育批判素养的关键支撑。
 
 ---
 

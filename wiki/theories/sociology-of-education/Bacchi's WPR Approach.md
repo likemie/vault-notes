@@ -55,7 +55,7 @@ updated: 2026-09-18
 > [!theory-position] 理论定位
 > WPR方法的核心前提是，政策并非对既定问题的中性回应，而是主动参与了问题的建构。政策文本中的“问题”并非客观存在，而是通过特定的表征方式被生产出来的。分析者应当追问的不是“如何解决这个问题”，而是“这个问题被表征为什么”（Bacchi, 2009）。
 > 
-> 该方法在理论上与批判政策社会学（Critical Policy Sociology）紧密关联，专注于质疑权力分配、[[Knowledge Production|知识生产]]以及[[Policy Mobility|政策流动]]（policy mobilities）背后的意图与机制（Ozga, 2021）。
+> 该方法在理论上与批判政策社会学（Critical Policy Sociology）紧密关联，专注于质疑权力分配、[[Knowledge Production\|知识生产]]以及[[Policy Mobility\|政策流动]]（policy mobilities）背后的意图与机制（Ozga, 2021）。
 
 > [!claim] 核心主张
 > 政策是通过将某些状况界定为“问题”来行使治理权力的。一旦某种“问题表征”获得官方话语的权威地位，它就会主动建构社会成员的认知，并合理化特定的制度化干预手段（Bacchi, 2009）。
@@ -67,7 +67,7 @@ updated: 2026-09-18
 > [!proposition-chain] WPR 六步分析机制
 > WPR方法通过六个逐层递进的问题来审视和解构政策文本，从而揭示隐藏的治理逻辑（Bacchi, 2009, p. 2）：
 > 1. **问题表征的识别** 政策将“问题”表征为什么？（识别政策试图纠正的核心状况）
-> 2. **预设与[[Hypothesis|假设]]分析** 这种“问题表征”基于什么深层预设或假设？（挖掘其底层概念、[[Epistemology|认识论]]基础和二元对立）
+> 2. **预设与[[Hypothesis\|假设]]分析** 这种“问题表征”基于什么深层预设或假设？（挖掘其底层概念、[[Epistemology\|认识论]]基础和二元对立）
 > 3. **历史建构过程** 这种“问题表征”是如何形成的？（追溯其演变轨迹、关键转折点和权力博弈）
 > 4. **沉默与排除的追问** 哪些议题被沉默了？（寻找被政策话语有意或无意排除的社会因素与解释路径）
 > 5. **物质与话语效果** 这种“问题表征”产生了什么效果？（分析对政策主体造成的行为限制、身份建构与物质后果）
@@ -88,19 +88,19 @@ updated: 2026-09-18
 
 ## 认识论与方法含义
 
-> [!theory-stance] [[Theoretical Standpoint|理论立场]]
-> - **[[Ontology|本体论]]（[[Constructivist Paradigm|社会建构主义]]）** 认为社会问题不是独立于人的客观事实，而是由语言、权力和制度互动建构出来的产物（Bacchi, 2009）。
-> - **[[Epistemology|认识论]]（[[Postpositivism|后实证主义]]）** 拒绝将[[Policy Science in Comparative Education|政策科学]]视为中立的技术方案，强调任何[[Knowledge Production|知识生产]]都嵌入在特定的权力关系中（Ozga, 2021）。
-> - **[[Analytical Stance|分析立场]]** 关注被政策“沉默”的侧面（如教师工作量、制度性资金不足等），认为沉默的侧面往往比被明文纳入的条款更能暴露治理权力的真实走向（Bacchi, 2009）。
+> [!theory-stance] [[Theoretical Standpoint\|理论立场]]
+> - **[[Ontology\|本体论]]（[[Constructivist Paradigm\|社会建构主义]]）** 认为社会问题不是独立于人的客观事实，而是由语言、权力和制度互动建构出来的产物（Bacchi, 2009）。
+> - **[[Epistemology\|认识论]]（[[Postpositivism\|后实证主义]]）** 拒绝将[[Policy Science in Comparative Education\|政策科学]]视为中立的技术方案，强调任何[[Knowledge Production\|知识生产]]都嵌入在特定的权力关系中（Ozga, 2021）。
+> - **[[Analytical Stance\|分析立场]]** 关注被政策“沉默”的侧面（如教师工作量、制度性资金不足等），认为沉默的侧面往往比被明文纳入的条款更能暴露治理权力的真实走向（Bacchi, 2009）。
 
 ---
 
 ## 分析框架与使用方式
 
 > [!theory-use] 政策解构工具
-> WPR方法作为一种强大的[[Analytic Framework|分析框架]]，帮助研究者跳出政策制定者设定的“问题-解决”闭环。在教育政策研究中，它被广泛用于揭示教育改革背后的“[[Policy Network|理念编排]]”（idea orchestration）和新自由主义问责网络的形成（Ozga, 2021）。
+> WPR方法作为一种强大的[[Analytic Framework\|分析框架]]，帮助研究者跳出政策制定者设定的“问题-解决”闭环。在教育政策研究中，它被广泛用于揭示教育改革背后的“[[Policy Network\|理念编排]]”（idea orchestration）和新自由主义问责网络的形成（Ozga, 2021）。
 > 
-> 例如，在分析标准化教师教育改革时，研究者使用 WPR 方法不仅能够识别政策如何将教师短缺危机窄化表征为“培训质量缺陷”，还能进一步分析这种表征如何为引进外部商业化测试和强力国家审计开路（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]])）。
+> 例如，在分析标准化教师教育改革时，研究者使用 WPR 方法不仅能够识别政策如何将教师短缺危机窄化表征为“培训质量缺陷”，还能进一步分析这种表征如何为引进外部商业化测试和强力国家审计开路（([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]])）。
 
 ---
 
@@ -108,7 +108,7 @@ updated: 2026-09-18
 
 > [!theory-boundary] 分析局限
 > - **话语偏重** 该方法极度倚重对文本和话语的解构，在分析具体政策在复杂学校环境中的微观实施（enactment）与物质妥协时需要辅以其他社会学方法。
-> - **分析者主观性** 确定哪些议题属于“沉默”或“排除”，高度依赖研究者自身的[[Theoretical Standpoint|理论立场]]，容易引入研究者的主观价值偏见。
+> - **分析者主观性** 确定哪些议题属于“沉默”或“排除”，高度依赖研究者自身的[[Theoretical Standpoint\|理论立场]]，容易引入研究者的主观价值偏见。
 
 ---
 
@@ -116,13 +116,13 @@ updated: 2026-09-18
 
 > [!tension] 争议焦点
 > - **线性结构的张力** 虽然六个问题在逻辑上是递进的，但在实际分析中，问题表征的形成（Q3）、沉默（Q4）与效果（Q5）通常是高度共生且互为因果的，难以在文本分析中做绝对的线性割裂。
-> - **[[Value Neutrality|价值中立]]性的挑战** WPR方法本身自带强烈的解构色彩和[[Analytical Stance|批判立场]]，使得它难以用于以“政策优化”或“工具理性改进”为直接目标的研究项目。
+> - **[[Value Neutrality\|价值中立]]性的挑战** WPR方法本身自带强烈的解构色彩和[[Analytical Stance\|批判立场]]，使得它难以用于以“政策优化”或“工具理性改进”为直接目标的研究项目。
 
 ---
 
 ## 相关研究
 
-> [!ref-table] [[Correlational Research|相关研究]]索引
+> [!ref-table] [[Correlational Research\|相关研究]]索引
 > | 研究 | 应用方式说明 | 来源 |
 > |---|---|---|
 > | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]] | 运用 WPR 框架分析《强劲开端》报告，揭示政策如何将教师短缺危机表征为"[[Initial Teacher Training\|ITE]] 培训质量缺陷"，并系统性地对"教师过度工作量"这一事实保持沉默。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]] |

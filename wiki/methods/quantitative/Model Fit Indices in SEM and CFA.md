@@ -15,7 +15,7 @@ summary: "验证性因子分析与结构方程模型中评估理论假设模型�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Causal Modeling]]"
+  - "[[Chi-Squared Test]]"
   - "[[Measurement Invariance]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Model Fit Indices in SEM and CFA
@@ -57,12 +58,12 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> **结构方程模型与[[Confirmatory Factor Analysis|验证性因子分析]]拟合指数（Model Fit Indices in [[Causal Modeling|SEM]] and CFA）** 是一套用于检验理论[[Hypothesis|假设]]模型所蕴含的协方差矩阵 $\boldsymbol{\Sigma}(\boldsymbol{\theta})$ 与样本实际观测协方差矩阵 $\mathbf{S}$ 之间吻合程度（Goodness of Fit）的多维度量化评价体系。它弥补了传统卡方拟合优度检验（$\chi^2$）对大样本过度敏感而必然拒绝正确模型的缺陷，为评估测量模型（CFA）与结构路径模型（SEM）的经验合法性提供客观决策标准。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
+> **结构方程模型与[[Confirmatory Factor Analysis\|验证性因子分析]]拟合指数（Model Fit Indices in [[Causal Modeling\|SEM]] and CFA）** 是一套用于检验理论[[Hypothesis\|假设]]模型所蕴含的协方差矩阵 $\boldsymbol{\Sigma}(\boldsymbol{\theta})$ 与样本实际观测协方差矩阵 $\mathbf{S}$ 之间吻合程度（Goodness of Fit）的多维度量化评价体系。它弥补了传统[[Chi-Squared Test\|卡方拟合优度检验]]（$\chi^2$）对大样本过度敏感而必然拒绝正确模型的缺陷，为评估测量模型（CFA）与结构路径模型（SEM）的经验合法性提供客观决策标准。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 验证性因子分析模型（一阶、高阶或双因子结构）、路径分析模型及完全潜[[Variable|变量]]结构方程模型。
-> - **问题类型** 测量模型[[Construct Validity|构念效度]]确证、备择竞争模型优选、[[Measurement Invariance|多组测量等值性]]阶梯检验。
-> - **[[Unit of Analysis|分析单位]]** 协方差矩阵残差与模型自由度。
+> - **研究对象** 验证性因子分析模型（一阶、高阶或双因子结构）、路径分析模型及完全潜[[Variable\|变量]]结构方程模型。
+> - **问题类型** 测量模型[[Construct Validity\|构念效度]]确证、备择竞争模型优选、[[Measurement Invariance\|多组测量等值性]]阶梯检验。
+> - **[[Unit of Analysis\|分析单位]]** 协方差矩阵残差与模型自由度。
 > - **输出指标族群**
 >   1. **绝对拟合指数（Absolute Fit）** 卡方自由度比（$\chi^2/df$）、渐进残差均方和平方根（$\text{RMSEA}$）、标准化残差均方根（$\text{SRMR}$）、拟合优度指数（$\text{GFI}$）；
 >   2. **增量/相对拟合指数（Incremental / Relative Fit）** 比较拟合指数（$\text{CFI}$）、Tucker-Lewis 指数（$\text{TLI}$，亦称非规范拟合指数 $\text{NNFI}$）、规范拟合指数（$\text{NFI}$）；
@@ -94,16 +95,16 @@ updated: 2026-09-17
 > **符号说明**
 > - $\chi^2$：极大似然估计下的模型拟合卡方值。
 > - $df$：模型自由度（$df = \frac{p(p+1)}{2} - q$，$q$ 为估计参数个数）。
-> - $N$：[[Sample Size Determination|样本量]]。
+> - $N$：[[Sample Size Determination\|样本量]]。
 >
 > **数学直觉** 当自由度 $df$ 很大而卡方接近 $df$ 时（$\chi^2 - df \le 0$），$\text{RMSEA} = 0$，表示完美拟合；当模型引入大量无用自由参数时，自由度 $df$ 下降，分母变小，导致 RMSEA 惩罚性上升。
 
 > [!formula-step] 公式步骤二　CFI 比较拟合指数
 > $$\text{CFI} = 1 - \frac{\max(\chi_{\text{target}}^2 - df_{\text{target}}, 0)}{\max(\chi_{\text{null}}^2 - df_{\text{null}}, \chi_{\text{target}}^2 - df_{\text{target}}, 0)}$$
 >
-> **这个公式在做什么** 度量目标[[Hypothesis|假设]]模型相比于“所有[[Variable|变量]]完全独立”的虚无基线模型（Null Model），改善了多少比例的不拟合度。
+> **这个公式在做什么** 度量目标[[Hypothesis\|假设]]模型相比于“所有[[Variable\|变量]]完全独立”的虚无基线模型（Null Model），改善了多少比例的不拟合度。
 >
-> **结果怎么读** $\text{CFI} \in [0, 1]$。$\text{CFI} \ge 0.95$ 表明模型解释了基线模型中 $95\%$ 以上的非独立协方差变异，拟合优异。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
+> **结果怎么读** $\text{CFI} \in [0, 1]$。$\text{CFI} \ge 0.95$ 表明模型解释了基线模型中 $95\%$ 以上的非独立协方差变异，拟合优异。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
 
 ---
 
@@ -122,7 +123,7 @@ updated: 2026-09-17
 >   fitMeasures(fit, c("chisq", "df", "pvalue", "cfi", "tli", "rmsea", "rmsea.ci.lower", "rmsea.ci.upper", "srmr"))
 >   ```
 > - **规范报告范例**
->   *“[[Confirmatory Factor Analysis|验证性因子分析]]表明修正后的一阶四因子模型拟合优异：$\chi^2(163) = 316.25, \chi^2/df = 1.94, \text{RMSEA} = 0.060 \ [90\%\text{ CI: } .050, .070], \text{SRMR} = 0.068, \text{CFI} = 0.94, \text{TLI} = 0.93$。”*
+>   *“[[Confirmatory Factor Analysis\|验证性因子分析]]表明修正后的一阶四因子模型拟合优异：$\chi^2(163) = 316.25, \chi^2/df = 1.94, \text{RMSEA} = 0.060 \ [90\%\text{ CI: } .050, .070], \text{SRMR} = 0.068, \text{CFI} = 0.94, \text{TLI} = 0.93$。”*
 
 ---
 
@@ -133,12 +134,12 @@ updated: 2026-09-17
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Confirmatory Factor Analysis]] | 核心应用方法 | 运用拟合指数评估测量模型与竞争[[Hypothesis\|假设]]结构的最核心方法载体。 |
-> | [[Measurement Invariance]] | 扩展应用 | 依据 $|\Delta\text{CFI}| \le .010$ 与 $\Delta\text{RMSEA} \le .015$ 判定形态、弱、强与严格等值阶梯。 |
+> | [[Measurement Invariance]] | 扩展应用 | 依据 $\lvert\Delta\text{CFI}\rvert \le .010$ 与 $\Delta\text{RMSEA} \le .015$ 判定形态、弱、强与严格等值阶梯。 |
 > | [[Scale Development]] | 宏观流程 | 在量表编制阶段三中作为确证因子模型与评价题项质量的把关指标。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在独立样本 2（$N=258$）中对比单因子、一阶四因子与二阶因子模型的拟合指数（$\chi^2/df = 1.94, \text{RMSEA} = 0.060, \text{CFI} = 0.94$），确立教师[[Research Literacy|研究素养]]的二阶高阶因子结构。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在独立样本 2（$N=258$）中对比单因子、一阶四因子与二阶因子模型的拟合指数（$\chi^2/df = 1.94, \text{RMSEA} = 0.060, \text{CFI} = 0.94$），确立教师[[Research Literacy\|研究素养]]的二阶高阶因子结构。

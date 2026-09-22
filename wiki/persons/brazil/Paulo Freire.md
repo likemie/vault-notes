@@ -56,7 +56,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Paulo Freire（1921–1997），巴西教育家、哲学家，[[Critical Pedagogy|批判教育学]]（critical pedagogy）的奠基人，以《被压迫者教育学》（*Pedagogy of the Oppressed*, 1968/1972）闻名全球。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引 Freire 的银行概念（banking concept）作为[[Forced Knowledge Transfer|强制知识转移]]的理论锚点——揭示教学关系中不可化约的权力梯度([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76]])。
+> - **身份位置** Paulo Freire（1921–1997），巴西教育家、哲学家，[[Critical Pedagogy\|批判教育学]]（critical pedagogy）的奠基人，以《被压迫者教育学》（*Pedagogy of the Oppressed*, 1968/1972）闻名全球。[[Argument_Partaken_2022_Springer\|Partaken (2022)]] 在[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）语境中援引 Freire 的银行概念（banking concept）作为[[Forced Knowledge Transfer\|强制知识转移]]的理论锚点——揭示教学关系中不可化约的权力梯度([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.75–76]])。
 
 ---
 
@@ -73,10 +73,10 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!tip]-
-> [[Argument_Partaken_2022_Springer|Partaken (2022)]] 与 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 提炼了 Freire 的核心思想：
-> - **[[Banking Model of Education|储蓄概念]]/储蓄式教育（Banking Concept / Banking Model）与被动受教** 教学被还原为存款行为——教师是储户，学生是空容器（empty vessels）。知识从自认为有知识的人单向流向被认为一无所知的人。教育因此不是解放而是驯化 [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]；必须拒绝将学生视为客体（objects），而将其视为改造经验的行动主体（Subjects） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–6)]]。
-> - **权力梯度与[[Problem-Posing Education|提问式教育]]（Problem-Posing Education）** 储蓄式教育揭示了[[Knowledge Transfer|知识转移]]中不可化约的权力不对等。弗莱雷倡导提问式教育与[[Problem Solving|问题解决]]，促使学生从被动听讲者转变为批判性共同探究者（critical co-investigators） [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 9)]]。
-> - **[[Conscientization|批判意识觉醒]]（Conscientização）与实践（[[Praxis]]）** 弗莱雷认为，[[Growth|成长]]（Growth）不是抽象概念，而是打破“[[Culture of Silence|沉默文化]]”（culture of silence）的行动。只有将意识觉醒与旨在改造现实压迫的实践行动结合，[[Active Learning|主动学习]]才能真正实现 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–10)]]。
+> [[Argument_Partaken_2022_Springer\|Partaken (2022)]] 与 [[Argument_Darwish_2009_Queens\|Darwish (2009)]] 提炼了 Freire 的核心思想：
+> - **[[Banking Model of Education\|储蓄概念]]/储蓄式教育（Banking Concept / Banking Model）与被动受教** 教学被还原为存款行为——教师是储户，学生是空容器（empty vessels）。知识从自认为有知识的人单向流向被认为一无所知的人。教育因此不是解放而是驯化 [[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 75–76)]]；必须拒绝将学生视为客体（objects），而将其视为改造经验的行动主体（Subjects） [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 5–6)]]。
+> - **权力梯度与[[Problem-Posing Education\|提问式教育]]（Problem-Posing Education）** 储蓄式教育揭示了[[Knowledge Transfer\|知识转移]]中不可化约的权力不对等。弗莱雷倡导提问式教育与[[Problem Solving\|问题解决]]，促使学生从被动听讲者转变为批判性共同探究者（critical co-investigators） [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 9)]]。
+> - **[[Conscientization\|批判意识觉醒]]（Conscientização）与实践（[[Praxis]]）** 弗莱雷认为，[[Growth\|成长]]（Growth）不是抽象概念，而是打破“[[Culture of Silence\|沉默文化]]”（culture of silence）的行动。只有将意识觉醒与旨在改造现实压迫的实践行动结合，[[Active Learning\|主动学习]]才能真正实现 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 7–10)]]。
 
 
 > [!quote]
@@ -90,7 +90,7 @@ updated: 2026-09-11
 ## 影响
 
 > [!success]
-> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] 将 Freire 的银行概念应用于[[Forced Knowledge Transfer|强制知识转移]]分析，论证 Herbart 五段教学法和日本《[[Kokutai no Hongi|国体之本义]]》殖民教育均可被识别为银行概念的制度化形式——[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])。
+> - [[Argument_Partaken_2022_Springer\|Partaken (2022)]] 将 Freire 的银行概念应用于[[Forced Knowledge Transfer\|强制知识转移]]分析，论证 Herbart 五段教学法和日本《[[Kokutai no Hongi\|国体之本义]]》殖民教育均可被识别为银行概念的制度化形式——[[Knowledge Production\|知识生产]]和通过教学的再生产是殖民化的工具([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.76]])。
 ...
 
 ---

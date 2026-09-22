@@ -48,7 +48,7 @@ updated: 2026-09-14
 
 > [!quote]
 > "To have [like-minded] friends come from distant quarters [to study with oneself] – is this not a source of enjoyment?"
-> — [[Confucius]], Analects 1:1([[Argument_Li_2012_Cambridge|Li, 2012, p.100]])
+> — [[Confucius]], Analects 1:1([[Argument_Li_2012_Cambridge\|Li, 2012, p.100]])
 
 ---
 
@@ -84,7 +84,7 @@ updated: 2026-09-14
 
 > [!quote]
 > "如切如磋，如琢如磨"（Like bone carved and polished, Like jade cut and ground）
-> —《诗经》，转引自《论语》([[Argument_Li_2012_Cambridge|Li, 2012, p.101]])
+> —《诗经》，转引自《论语》([[Argument_Li_2012_Cambridge\|Li, 2012, p.101]])
 
 这段来自《诗经》的诗句，经过孔子对子贡的教导，成为了东亚文化中同学关系的经典概括：一起研习、一起追问、一起讨论，互相帮助、互相纠正、互相学习、互相提升。一个人的同学构成了其家庭之外终身的社交圈核心——共同的学习也是共同的生活和共同的[[Growth|成长]]([[Argument_Li_2012_Cambridge|Li, 2012, p.101]])。
 
@@ -95,7 +95,7 @@ updated: 2026-09-14
 ## 在同伴学习中的功能
 
 > [!example]
-> 同学概念为东亚学校中的同伴支持学习（[[Peer-Supported Learning]]）提供了文化基础。具体表现包括([[Argument_Li_2012_Cambridge|Li, 2012, pp.103–108]])：
+> 同学概念为东亚学校中的同伴支持学习（[[Peer-Supported Learning]]）提供了文化基础。具体表现包括([[Argument_Li_2012_Cambridge\|Li, 2012, pp.103–108]])：
 
 - **学科代表制度** 每个学科有一名学生担任科代表，教师鼓励学生向科代表和其他高成就学生寻求帮助；低成就学生被鼓励向同伴求助。帮助者和受助者之间有一种默契：学生可以进步，求助不丢脸，提供帮助也没有不恰当之处
 - **小组学习** 中国学校虽然[[Class Size|班级规模]]大（小学 40 人，中学 60 人以上），但每个班按座位被组织成若干小组。小组长帮[[Teaching Assistant|助教]]师组织教学，确保组员完成[[Homework|作业]]——放学后小组成员轮流组织集体做作业，互相讲解当天学到的内容

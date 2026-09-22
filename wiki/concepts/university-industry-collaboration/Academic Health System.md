@@ -36,7 +36,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> 学术健康系统（Academic Health System, AHS）是一种以患者诊疗为首要优先、同时深度投入学术研究与产业创新的医疗组织形态。与传统[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）不同，AHS 并非附属于大学的医学院加教学医院，而是一个兼具科研基础设施、临床网络和[[University-Industry Collaboration|产学合作]]能力的独立组织实体（pp.179–180）。
+> 学术健康系统（Academic Health System, AHS）是一种以患者诊疗为首要优先、同时深度投入学术研究与产业创新的医疗组织形态。与传统[[Academic Medical Center\|学术医学中心]]（Academic Medical Center, AMC）不同，AHS 并非附属于大学的医学院加教学医院，而是一个兼具科研基础设施、临床网络和[[University-Industry Collaboration\|产学合作]]能力的独立组织实体（pp.179–180）。
 
 AMC 的传统定义是"大学或医学院及其合作教学医院"，核心是学术与临床的双元组合（p.179）。AHS 在患者诊疗之外，同时追求学术研究和产业创新的多重目标，组织结构和优先事项混合了学术、临床和产业三种逻辑（pp.179–180）。
 
@@ -52,22 +52,22 @@ AMC 的传统定义是"大学或医学院及其合作教学医院"，核心是�
 ## 概念辨析
 
 > [!example]
-> - vs **[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）** — AMC 的核心构成为大学医学院 + 教学医院，以教学和基础科研为重心。学术健康系统在 AMC 的基础上叠加了产业创新和系统内技术部署能力，优先事项混合了学术、临床和产业三种逻辑（pp.179–180）。
-> - vs **社区医学中心（Community Medical Center, CMC）** — CMC 是非学术性的医疗机构，以提供当前最佳标准的诊疗为核心使命，通常不投入创新研发。学术健康系统区别于 CMC 的关键在于其系统性地投资于创新、科研和[[University-Industry Collaboration|产学合作]]（p.179）。
-> - vs **行业伙伴（Industry Partner）** — AHS 既不是纯粹的学术机构（如大学），也不是纯粹的产业伙伴。其首要优先始终是患者，但在患者诊疗之外，兼具学术研究和产业创新的双重兴趣，并因此成为产学合作中[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）的独特促进者（pp.179–181）。
+> - vs **[[Academic Medical Center\|学术医学中心]]（Academic Medical Center, AMC）** — AMC 的核心构成为大学医学院 + 教学医院，以教学和基础科研为重心。学术健康系统在 AMC 的基础上叠加了产业创新和系统内技术部署能力，优先事项混合了学术、临床和产业三种逻辑（pp.179–180）。
+> - vs **社区医学中心（Community Medical Center, CMC）** — CMC 是非学术性的医疗机构，以提供当前最佳标准的诊疗为核心使命，通常不投入创新研发。学术健康系统区别于 CMC 的关键在于其系统性地投资于创新、科研和[[University-Industry Collaboration\|产学合作]]（p.179）。
+> - vs **行业伙伴（Industry Partner）** — AHS 既不是纯粹的学术机构（如大学），也不是纯粹的产业伙伴。其首要优先始终是患者，但在患者诊疗之外，兼具学术研究和产业创新的双重兴趣，并因此成为产学合作中[[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI）的独特促进者（pp.179–181）。
 
 ## 产学合作中的独特角色
 
 > [!success]
-> AHS 在[[University-Industry Collaboration|产学合作]]中扮演**促进者（facilitator）**的角色（pp.181, 190–191）：
+> AHS 在[[University-Industry Collaboration\|产学合作]]中扮演**促进者（facilitator）**的角色（pp.181, 190–191）：
 > - **将各方汇聚到患者中心** 以患者需求和患者安全为核心，可以将大学的研究兴趣、产业的商业回报和医院的患者保护重新对齐到共同目标上（pp.190–191）。
-> - **弥合"[[Valley of Death|死亡之谷]]"** 可以建立专门的基础设施（如项目管理、内部转化基金、临床前验证设施），帮助创新从概念阶段跨越到人体验证和规模化阶段（p.182）。
+> - **弥合"[[Valley of Death\|死亡之谷]]"** 可以建立专门的基础设施（如项目管理、内部转化基金、临床前验证设施），帮助创新从概念阶段跨越到人体验证和规模化阶段（p.182）。
 > - **承担风险与部署能力** 可以在真实临床环境中测试和验证创新，并利用区域性网络将已验证的解决方案部署到不同诊疗环境和患者群体中（pp.180–181）。
 
 ## 挑战
 
 > [!warning]
-> - **监管负担** 学术健康系统与任何医院一样，受制于 Medicare 的报销规则、《反回扣法》（Anti-Kickback Statute）和《医师自我转诊法》（Stark Law），这些法规在保护患者安全的同时，也可能限制[[University-Industry Collaboration|产学合作]]协议的灵活性（p.182）。
+> - **监管负担** 学术健康系统与任何医院一样，受制于 Medicare 的报销规则、《反回扣法》（Anti-Kickback Statute）和《医师自我转诊法》（Stark Law），这些法规在保护患者安全的同时，也可能限制[[University-Industry Collaboration\|产学合作]]协议的灵活性（p.182）。
 > - **创新的高成本** 医院利润率普遍偏低（2023 年数据显示利润率从 −6.8% 到 12.2%），投资于创新往往难以在短期内实现财务回报，非营利性的学术健康系统通过使命驱动而非利润驱动来维持创新投入（pp.183–184）。
 > - **数据使用的伦理困境** 患者数据是学术健康系统在产学合作中的核心价值之一，但数据不能简单出售给合作伙伴——即使去标识化后也可能被误读，且学术健康系统对患者负有保护其健康信息的信托责任（pp.188–189）。
 

@@ -64,8 +64,8 @@ updated: 2026-09-18
 
 ## 定义
 
-> [!def] [[Document|文献]]检索（Literature Search）
-> 文献检索是[[Literature Review|文献综述]]的操作性环节，指运用系统策略从多种来源定位、筛选和获取与[[Research Topic|研究主题]]相关的已有文献的过程。它服务于文献综述的论证构建，但本身是技术性操作而非论证性写作（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7]]）。
+> [!def] [[Document\|文献]]检索（Literature Search）
+> 文献检索是[[Literature Review\|文献综述]]的操作性环节，指运用系统策略从多种来源定位、筛选和获取与[[Research Topic\|研究主题]]相关的已有文献的过程。它服务于文献综述的论证构建，但本身是技术性操作而非论证性写作（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 文献检索关注"如何找到"文献。它涉及检索策略、数据库操作、关键词优化和来源优先级判断。
@@ -73,15 +73,15 @@ updated: 2026-09-18
 > - **边界** 文献检索不等同于文献综述——检索是收集材料的过程，综述是对材料进行论证组织的结果。
 
 > [!boundary]- 概念边界
-> - 不等于 [[Literature Review|文献综述]] — 检索产出文献列表、摘要或[[Literature Map|文献地图]]；综述产出有论证结构的文本。
-> - 不等于 [[Inverted Triangle Literature Search|倒三角文献检索]] — 后者是一种特定的检索策略模型，适用于从宽泛到聚焦的渐进式搜索。
-> - 不适用于 — 直接回答[[Research Question|研究问题]]（检索定位已有知识，回答研究问题需要原始数据收集和分析）。
+> - 不等于 [[Literature Review\|文献综述]] — 检索产出文献列表、摘要或[[Literature Map\|文献地图]]；综述产出有论证结构的文本。
+> - 不等于 [[Inverted Triangle Literature Search\|倒三角文献检索]] — 后者是一种特定的检索策略模型，适用于从宽泛到聚焦的渐进式搜索。
+> - 不适用于 — 直接回答[[Research Question\|研究问题]]（检索定位已有知识，回答研究问题需要原始数据收集和分析）。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] [[Document|文献]]检索 vs [[Literature Review|文献综述]]
+> [!contrast-table] [[Document\|文献]]检索 vs [[Literature Review\|文献综述]]
 > | 维度 | 文献检索 | [[Literature Review\|文献综述]] |
 > |---|---|---|
 > | 本质 | 技术性操作 | 论证性写作 |
@@ -99,23 +99,23 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 
 > [!proc] 文献检索七步法
 > 1. **确定关键词** 从宽泛术语开始，逐步缩小和精确化（如从 mental health 缩小到 autism [[SPECTRUM]] disorder，再指定为 family factors, support, autism spectrum disorder）
-> 2. **检索计算机数据库** 搜索 [[Education Resources Information Center|ERIC]]、Google Scholar、Web of Science、EBSCO、ProQuest、JSTOR 等
+> 2. **检索计算机数据库** 搜索 [[Education Resources Information Center\|ERIC]]、Google Scholar、Web of Science、EBSCO、ProQuest、JSTOR 等
 > 3. **初步定位约 50 篇文献** 优先搜索期刊文章和书籍，因为它们易于定位和获取
 > 4. **浏览并筛选** 快速浏览已收集的文章或章节，收集最核心的文献
-> 5. **设计[[Literature Map|文献地图]]** 制作文献的视觉化图示，展示文献的分组方式
-> 6. **撰写[[Abstract|文献摘要]]** 为最相关的文章撰写摘要，组合成最终的[[Literature Review|文献综述]]
+> 5. **设计[[Literature Map\|文献地图]]** 制作文献的视觉化图示，展示文献的分组方式
+> 6. **撰写[[Abstract\|文献摘要]]** 为最相关的文章撰写摘要，组合成最终的[[Literature Review\|文献综述]]
 > 7. **组织文献综述** 按主题或核心概念结构化组织，以主要主题的总结结尾
 
 > [!tip]- 迭代搜索策略
-> 先使用在线词表中的描述词进行初步搜索，找到一篇与[[Research Topic|研究主题]]相关的期刊文章，然后仔细查看这篇文章使用的描述词，再用这些词进行第二轮搜索。索引者使用的描述词往往比研究者自己想到的关键词更精确（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+> 先使用在线词表中的描述词进行初步搜索，找到一篇与[[Research Topic\|研究主题]]相关的期刊文章，然后仔细查看这篇文章使用的描述词，再用这些词进行第二轮搜索。索引者使用的描述词往往比研究者自己想到的关键词更精确（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 齐梅 (2015, Ch.1) 归纳了五种文献检索的操作方法：
 
 > [!feature] 文献检索五种操作方法
 > - **互助法（Mutual Help Method）** 同领域的研究伙伴彼此相互帮助，或不同领域的研究伙伴相互支持。同领域伙伴搜集的资料同质性较高，不同领域伙伴可提供互补资料。
 > - **追溯法（Tracing Method）** 从最新的文献开始搜集，由这些文献所附的参考文献去查找相关文献，再从此文献的参考文献继续追溯，层层向前。
-> - **绵延法（Citation [[Tracking]]）** 从[[Research Question|研究问题]]所属领域的重要文献着手，尽量搜集引用此篇文献的所有文献。如通过社会科学引注索引（SSCI）或其他索引搜集。
-> - **人工检索（Manual Search）** 以人工方式从图书、期刊、摘要、杂志、学报等方面去检查。例如从学位论文或期刊论文的参考书目寻找[[Primary and Secondary Documents|初级文献]]。
+> - **绵延法（Citation [[Tracking]]）** 从[[Research Question\|研究问题]]所属领域的重要文献着手，尽量搜集引用此篇文献的所有文献。如通过社会科学引注索引（SSCI）或其他索引搜集。
+> - **人工检索（Manual Search）** 以人工方式从图书、期刊、摘要、杂志、学报等方面去检查。例如从学位论文或期刊论文的参考书目寻找[[Primary and Secondary Documents\|初级文献]]。
 > - **网上检索（Online Search）** 利用图书馆所购买的光碟或数据库进行网上检索，可以迅速找到相关的文献。
 
 ---
@@ -146,15 +146,15 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > [!taxonomy] 维度二：按加工程度划分
 > - **一般性参考资料**
 >   索引（indexes）和摘要（abstracts），列出论文的作者、题目、出版地点等。
-> - **[[Primary and Secondary Documents|初级文献]]（第一手资料）**
+> - **[[Primary and Secondary Documents\|初级文献]]（第一手资料）**
 >   将研究结果直接提出发表的出版物，大部分来自期刊或集刊。文献检索时最好直接参考第一手资料。
 > - **次级文献（第二手资料）**
 >   对初级资料加以分析、比较和整理后提出的综合资料，如教材、教育大辞典、研究述评和教育年鉴。
 
 > [!feature] 三类文献资料载体
-> - **书籍** 包括专著（作者对自己在某领域多年研究结果的系统梳理）、论文集（众多专家关于同一主题的学术论文汇编，往往观点各异、信息量大）、教科书（系统阐述某一学科研究对象、基本理论和基本问题的入门读本）、工具书（如《中国教育统计年鉴》《[[International Education|国际教育]]大辞典》《教育大辞典》）。
+> - **书籍** 包括专著（作者对自己在某领域多年研究结果的系统梳理）、论文集（众多专家关于同一主题的学术论文汇编，往往观点各异、信息量大）、教科书（系统阐述某一学科研究对象、基本理论和基本问题的入门读本）、工具书（如《中国教育统计年鉴》《[[International Education\|国际教育]]大辞典》《教育大辞典》）。
 > - **期刊** 定期或不定期的连续出版物。学术性期刊反映教育研究的研究动态和成果，如《教育研究》《高等教育研究》《北京大学教育评论》等。情报性期刊包括《新华文摘》《人大复印报刊资料》等；普及性期刊如《中国高等教育》。
-> - **未正式出版的文献** 包括学术会议论文集（反映学科领域前沿水平）、学位论文（具有一定的创新性，文献综述较为全面）、研究报告（以[[Evaluation Research|应用研究]]为主，为政府或企业决策提供建议）。
+> - **未正式出版的文献** 包括学术会议论文集（反映学科领域前沿水平）、学位论文（具有一定的创新性，文献综述较为全面）、研究报告（以[[Evaluation Research\|应用研究]]为主，为政府或企业决策提供建议）。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011)]] 对文献综述中涉及的信息类型进行了系统梳理：
 
@@ -362,7 +362,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > 2. **科学期刊中的研究文章** 尤其是报告实证研究的文章，从最新一期向前追溯
 > 3. **书籍** 从总结学术文献的研究专著开始，再到单一主题的专著或编著
 > 4. **近期会议论文** 通常报告最新的研究进展
-> 5. **联系[[Correlational Research|相关研究]]的作者** 询问是否知道相关领域的研究
+> 5. **联系[[Correlational Research\|相关研究]]的作者** 询问是否知道相关领域的研究
 
 这个优先级顺序的设计意图是（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：从概括到具体（百科全书 → 期刊文章 → 专著）、从易获取到难获取（已发表文献 → 会议论文 → 直接联系作者）、从已沉淀到最新。
 
@@ -375,16 +375,16 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 ### 命题一　文献检索是奠定研究信效度与构建理论框架的逻辑起点
 
 > [!concept-lens] 论证推进逻辑
-> 探讨[[Document|文献]]检索如何从技术性资料收集上升为确立研究[[Reliability|信度]]、效度与学术合法性的论证基石。
+> 探讨[[Document\|文献]]检索如何从技术性资料收集上升为确立研究[[Reliability\|信度]]、效度与学术合法性的论证基石。
 
-> [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
-> **论证目的链条** 文献检索不是孤立的技术操作，而是一连串论证目的的逻辑起点。通过彻底的文献检索与综述为项目奠定[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]基础，指明理论与经验领域现状以建立理论框架，识别需要填补的空白与关键议题，从而确立研究的可信度、效度、主题性与重要性，并作为进入实证研究的跳板。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch.7, pp.126–127)]]
+> [!claim] [[Louis Cohen\|Cohen, L.]], [[Lawrence Manion\|Manion, L.]], & [[Keith Morrison\|Morrison, K.]]
+> **论证目的链条** 文献检索不是孤立的技术操作，而是一连串论证目的的逻辑起点。通过彻底的文献检索与综述为项目奠定[[Construct Validity\|构念效度]]和[[Content Validity\|内容效度]]基础，指明理论与经验领域现状以建立理论框架，识别需要填补的空白与关键议题，从而确立研究的可信度、效度、主题性与重要性，并作为进入实证研究的跳板。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch.7, pp.126–127)]]
 
 > [!chain-link]- 文献检索→论证的推进逻辑
-> - **奠基[[Reliability|信度]]与效度**
->   通过彻底的[[Literature Review|文献综述]]为项目奠定[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
+> - **奠基[[Reliability\|信度]]与效度**
+>   通过彻底的[[Literature Review\|文献综述]]为项目奠定[[Construct Validity\|构念效度]]和[[Content Validity\|内容效度]]基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
 > - **建立理论框架**
->   检索到的文献应能指明理论和经验领域的现状、已进行的重要研究和已发布的政策，定义关键术语、[[Construct|构念]]和概念。
+>   检索到的文献应能指明理论和经验领域的现状、已进行的重要研究和已发布的政策，定义关键术语、[[Construct\|构念]]和概念。
 > - **识别关键议题与空白**
 >   文献检索设定领域中需要探索的关键议题及为什么它们是关键议题，识别需要填补的空白。
 > - **贡献主题性与重要性**
@@ -395,15 +395,15 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 ### 命题二　系统文献检索是识别知识空白与生成研究课题的关键机制
 
 > [!concept-lens] 课题发现功能
-> 探讨研究者如何通过批判性文献检索定位学术前沿并提炼具有理论价值与实践意义的[[Research Question|研究问题]]。
+> 探讨研究者如何通过批判性文献检索定位学术前沿并提炼具有理论价值与实践意义的[[Research Question\|研究问题]]。
 
 > [!claim] 齐梅
-> **选题生成机制** 通过文献检索与批判性阅读，研究者能够从四个维度发现和提出研究课题：关注已有文献中被忽略的问题以填补知识链条空白；注意已有文献之间相互矛盾的研究结果以展开深层探究；审视已有研究在方法运用与[[Variable|变量]]控制方面的不足以寻求方法修正；把握研究问题的本质与相互联系以构建理论解释框架。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.1)]]
+> **选题生成机制** 通过文献检索与批判性阅读，研究者能够从四个维度发现和提出研究课题：关注已有文献中被忽略的问题以填补知识链条空白；注意已有文献之间相互矛盾的研究结果以展开深层探究；审视已有研究在方法运用与[[Variable\|变量]]控制方面的不足以寻求方法修正；把握研究问题的本质与相互联系以构建理论解释框架。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.1)]]
 
 > [!feature]- 文献检索在选题中的四项作用
 > - **关注已有研究文献中忽略的问题** 很多重要问题因种种原因未被研究者认识到，查阅和评价已有文献时，宜善于发现知识链条中的空白点。
 > - **注意已有研究文献之间相互矛盾之处** 两个或更多研究者在研究同一问题时，尽管方法类似但结果不一致甚至相互矛盾，说明该领域值得做进一步研究。
-> - **关注已有研究在方法运用方面的不足** 例如研究过程中某些[[Variable|变量]]是否得到适当控制，若文献中的研究方法需要修正，则为研究者提供了值得进一步探讨的问题。
+> - **关注已有研究在方法运用方面的不足** 例如研究过程中某些[[Variable\|变量]]是否得到适当控制，若文献中的研究方法需要修正，则为研究者提供了值得进一步探讨的问题。
 > - **关注研究问题的本质与联系** 阅读研究文献有助于研究者从多方面获取信息，形成对研究问题本质的理解和把握，围绕研究问题形成理论解释框架。
 
 ---
@@ -421,20 +421,20 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 ## 争议与批评
 
 > [!warning] 网络检索与未审查信息的局限
-> 互联网是大量无序且大多未经审查的材料库，需要通过试错和偶然发现来寻找信息。网络中存在大量低质或无帮助的信息，且连接速度和信息稳定性参差不齐，研究者必须建立系统的书签与[[Document|文献]]管理机制，并严格甄别网络材料的学术价值（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.131]]）。
+> 互联网是大量无序且大多未经审查的材料库，需要通过试错和偶然发现来寻找信息。网络中存在大量低质或无帮助的信息，且连接速度和信息稳定性参差不齐，研究者必须建立系统的书签与[[Document\|文献]]管理机制，并严格甄别网络材料的学术价值（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.131]]）。
 
 > [!warning] 期刊影响因子的评价边界
-> 影响因子（impact factor）指某刊物近两年刊出的论文被 SSCI 或 CSSCI 论文引用的总次数与刊出论文总数之比（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。影响因子仅衡量期刊层面的整体引用影响力，不代表单篇论文的具体质量。在文献检索中，影响因子可作为筛选期刊的参考指标之一，但不应替代对单篇文献内容的实质性评估。
+> 影响因子（impact factor）指某刊物近两年刊出的论文被 SSCI 或 CSSCI 论文引用的总次数与刊出论文总数之比（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch.1]]）。影响因子仅衡量期刊层面的整体引用影响力，不代表单篇论文的具体质量。在文献检索中，影响因子可作为筛选期刊的参考指标之一，但不应替代对单篇文献内容的实质性评估。
 
 > [!feature] 质量评估标准
-> - **文献质量评估标准** 期刊文章应优先选择有严格同行评审委员会的国家级评审期刊；在线期刊应核实是否有已发布的同行评审标准与编辑委员会；书籍应选择学术声誉良好且运营成熟的专业出版社；优先参考近 10 年内的最新研究；网络文献需审慎评估其是否代表严谨和系统的学术研究（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
-> - **网站评估标准** 针对网络来源，研究者需从六大维度评估其适用性：**目的**（是否明确且适切）、**权威性与真实性**（作者资质与机构声誉）、**内容**（时效性与覆盖范围）、**可[[Reliability|信度]]与合法性**（受尊重机构背书）、**准确性与完整性**（是否有可靠参考文献）、**客观性与严谨性**（有无商业或立场偏见）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.131–133]]）。
+> - **文献质量评估标准** 期刊文章应优先选择有严格同行评审委员会的国家级评审期刊；在线期刊应核实是否有已发布的同行评审标准与编辑委员会；书籍应选择学术声誉良好且运营成熟的专业出版社；优先参考近 10 年内的最新研究；网络文献需审慎评估其是否代表严谨和系统的学术研究（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
+> - **网站评估标准** 针对网络来源，研究者需从六大维度评估其适用性：**目的**（是否明确且适切）、**权威性与真实性**（作者资质与机构声誉）、**内容**（时效性与覆盖范围）、**可[[Reliability\|信度]]与合法性**（受尊重机构背书）、**准确性与完整性**（是否有可靠参考文献）、**客观性与严谨性**（有无商业或立场偏见）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, pp.131–133]]）。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统阐述了[[Document|文献]]检索七步法、主要学术数据库、搜索优先级与迭代搜索策略。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 提出了文献检索服务于论证与信效度的推进逻辑、网络检索操作符、信息类型分类（Box 7.2）及网站评估标准。
-> - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.1)]] — 提出了文献分类的双维度（公开性与加工程度）、文献资料的三类载体、文献检索的五种操作方法以及在课题选题中的四项发现机制。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统阐述了[[Document\|文献]]检索七步法、主要学术数据库、搜索优先级与迭代搜索策略。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 提出了文献检索服务于论证与信效度的推进逻辑、网络检索操作符、信息类型分类（Box 7.2）及网站评估标准。
+> - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.1)]] — 提出了文献分类的双维度（公开性与加工程度）、文献资料的三类载体、文献检索的五种操作方法以及在课题选题中的四项发现机制。

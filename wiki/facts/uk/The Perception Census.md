@@ -41,7 +41,7 @@ updated: 2026-08-23
 ## 背景
 
 > [!policy-context] 政策背景
-> - **学术主导与跨界合作方** 由苏塞克斯大学萨克勒意识科学中心主任、英国皇家学会会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 43)]]
+> - **学术主导与跨界合作方** 由苏塞克斯大学萨克勒意识科学中心主任、英国皇家学会会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 43)]]
 > - **隶属国家重大工程** 作为英国 2022 年非约束（Unboxed: [[Creativity]] in the UK）全国重大科技艺术节的核心科研工程。
 > - **核心使命** 探索人类知觉与意识的知觉多样性（Perceptual Diversity），通过大规模科学实证数据揭示每个人看到的世界如何因大脑主动预测机制差异而截然不同。
 
@@ -49,13 +49,13 @@ updated: 2026-08-23
 
 ## 核心运作模式与科研创新
 
-> [!claim] 艺术科技融合的双向公众参与[[Paradigm|范式]]
+> [!claim] 艺术科技融合的双向公众参与[[Paradigm\|范式]]
 > 该工程通过线下沉浸式造梦机器（Dreamachine）光频刺激体验与线上 10 大认知交互测试模块，将高度晦涩的计算神经科学转化为趣味互动，使公众在自我探索中直接贡献前沿科研数据。
 
 > [!policy-design]- 普查核心模块与实证突破
 > - **多维知觉实验矩阵** 涵盖颜色知觉差异、视错觉与几何扭曲敏感度、主观时间流速感知、声音视觉联觉机制以及对他人心智状态的推断能力。
-> - **逾 20,000 名全球公众参与** 吸引来自全球 100 多个国家逾两万名受访者完成深度测评，建立了人类认知科学史上规模最大、维度最全的知觉多样性开放数据库。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 43)]]
-> - **双向反馈与[[Epistemology|认识论]]重塑** 参与者在测评结束后可获得专属生成的知觉指纹（Perceptual Fingerprint）多维画像，深刻理解感知并非外部物理世界的被动照相，而是大脑的主动预测构建与受控幻觉，显著增强了个体对神经多样性（Neurodiversity）的社会共情与包容。
+> - **逾 20,000 名全球公众参与** 吸引来自全球 100 多个国家逾两万名受访者完成深度测评，建立了人类认知科学史上规模最大、维度最全的知觉多样性开放数据库。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 43)]]
+> - **双向反馈与[[Epistemology\|认识论]]重塑** 参与者在测评结束后可获得专属生成的知觉指纹（Perceptual Fingerprint）多维画像，深刻理解感知并非外部物理世界的被动照相，而是大脑的主动预测构建与受控幻觉，显著增强了个体对神经多样性（Neurodiversity）的社会共情与包容。
 
 ---
 

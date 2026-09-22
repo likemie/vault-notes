@@ -55,17 +55,17 @@ updated: 2026-09-11
 
 ## 工具定位
 
-> [!instrument-profile] ToK 访谈与[[Focus Group|焦点小组]]协议
-> - **工具类型** [[Semi-structured Interview|半结构化访谈]]与焦点小组工具，适用于教师、学生和行政人员三类受访群体。
-> - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
-> - **测量目的** 收集受访者对 ToK 课程价值、[[Critical Thinking|批判性思维]]教学实践、学校实施方式和自身经验的主观看法。
-> - **实施方式** 研究者进入学校进行面对面访谈（教师 40 分钟/人）和焦点小组（学生 30 分钟/组，4–7 人），以预设问题为指引进行半结构化[[Dialogue in Education|对话]]。
+> [!instrument-profile] ToK 访谈与[[Focus Group\|焦点小组]]协议
+> - **工具类型** [[Semi-structured Interview\|半结构化访谈]]与焦点小组工具，适用于教师、学生和行政人员三类受访群体。
+> - **开发者与年份** [[Argument_Cole_2015_AJE\|Cole et al. (2015)]]。
+> - **测量目的** 收集受访者对 ToK 课程价值、[[Critical Thinking\|批判性思维]]教学实践、学校实施方式和自身经验的主观看法。
+> - **实施方式** 研究者进入学校进行面对面访谈（教师 40 分钟/人）和焦点小组（学生 30 分钟/组，4–7 人），以预设问题为指引进行半结构化[[Dialogue in Education\|对话]]。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] ToK 课程体验与[[Critical Thinking|批判性思维]]教学
+> [!construct-table] ToK 课程体验与[[Critical Thinking\|批判性思维]]教学
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -81,8 +81,8 @@ updated: 2026-09-11
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 开放式问题，研究者以此为指引进行[[Semi-structured Interview|半结构化访谈]]。
-> - **作答格式** 口头回答，研究者记录或[[Transcription in Qualitative Research|转录]]。
+> - **题项形式** 开放式问题，研究者以此为指引进行[[Semi-structured Interview\|半结构化访谈]]。
+> - **作答格式** 口头回答，研究者记录或[[Transcription in Qualitative Research\|转录]]。
 > - **反向题与跳题** —
 
 > [!interview-guide] 半结构化访谈问题
@@ -111,7 +111,7 @@ updated: 2026-09-11
 > | 19 | 身份与哲学 | ToK 或批判性思维与你的身份有何关联？<br><small>How does ToK or critical thinking relate to your identity?</small> | — | 同上 |
 > | 20 | 身份与哲学 | 你理解哲学吗？<br><small>Do you understand philosophy?</small> | 哲学与 ToK 或批判性思维有何关系？ | 同上 |
 
-> [!interview-guide] [[Focus Group|焦点小组]]讨论主题
+> [!interview-guide] [[Focus Group\|焦点小组]]讨论主题
 > <span class="instrument-interview-table-marker" aria-hidden="true"></span>
 >
 > | 编号 | 主题或维度 | 核心问题 | 可选追问 | 来源 |

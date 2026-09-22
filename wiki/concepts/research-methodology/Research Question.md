@@ -61,7 +61,7 @@ updated: 2026-06-25
 ## 定义
 
 > [!def] 核心定义
-> 研究问题（research questions）是研究设计中将[[Purpose Statement|目的陈述]]收窄为具体可回答问题的核心工具。它们紧接在目的陈述之后，将[[Research Purpose|研究目的]]细化为研究者计划回答的具体问题或预测的具体结果（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。研究问题的功能是将一般目的转化为具体问题，从而提供具体的、数据驱动的、可回答的答案。
+> 研究问题（research questions）是研究设计中将[[Purpose Statement\|目的陈述]]收窄为具体可回答问题的核心工具。它们紧接在目的陈述之后，将[[Research Purpose\|研究目的]]细化为研究者计划回答的具体问题或预测的具体结果（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。研究问题的功能是将一般目的转化为具体问题，从而提供具体的、数据驱动的、可回答的答案。
 
 在三种研究路径中，研究问题的形式和功能有显著差异：[[Quantitative Research|量化研究]]同时使用研究问题和[[Hypothesis|假设]]；[[Qualitative Research|质性研究]]只使用研究问题，不使用假设；[[Mixed Methods Research|混合方法研究]]则需要包含量化问题或假设、质性研究问题和[[Integration in Mixed Methods|混合方法整合]]问题三部分（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
@@ -69,7 +69,7 @@ updated: 2026-06-25
 
 ## 概念辨析
 
-> [!contrast-table] 研究问题 vs [[Purpose Statement|目的陈述]] vs [[Research Problem|研究议题]]
+> [!contrast-table] 研究问题 vs [[Purpose Statement\|目的陈述]] vs [[Research Problem\|研究议题]]
 > | 概念 | 内容 | 示例 |
 > |---|---|---|
 > | 研究议题（[[Research Problem]]） | 引发研究需求的议题 | 人们拒绝接种新冠疫苗 |
@@ -78,7 +78,7 @@ updated: 2026-06-25
 
 三者体现研究焦点的逐步收窄：研究议题建立需求 → 目的陈述明确意图 → 研究问题细化为可操作问题（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
-> [!contrast-table] 研究问题 vs [[Hypothesis|假设]]
+> [!contrast-table] 研究问题 vs [[Hypothesis\|假设]]
 > | | 研究问题 | 假设 |
 > |---|---|---|
 > | **[[Quantitative Research\|量化研究]]** | 就[[Variable\|变量]]间关系提出疑问 | 对变量间预期关系做出预测 |
@@ -102,12 +102,12 @@ updated: 2026-06-25
 好的问题陈述具有两个特征：所陈述的问题必须在研究者的能力范围之内；既不能太宽泛，又不能太微不足道。陈述时应考虑以下要点（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）：
 
 > [!feature] 问题陈述的要点
-> - **陈述清楚明白** 最好能运用[[Variable|变量]]的语言，且采用提问的形式。例如："教师培训班是否明显地改善了教师的专业教学能力？"常用的提问形式是："现象A与现象B之间存在什么关系？"
+> - **陈述清楚明白** 最好能运用[[Variable\|变量]]的语言，且采用提问的形式。例如："教师培训班是否明显地改善了教师的专业教学能力？"常用的提问形式是："现象A与现象B之间存在什么关系？"
 > - **至少包括两个变量** 除了单纯的描述研究外，问题陈述必须至少包括两个变量。只包含一个变量的问题陈述通常为描述性的研究。
 > - **必须是可检验的** 所研究的问题必须能够产生不止一种回答。那种只有一种答案的问题陈述是不合格的问题。
 
 > [!warning] 先明确问题再收集资料
-> 在明确研究问题之前匆忙收集资料，虽然可行但并不有效——常常导致收集的资料中许多是无用的或错误的。研究者应养成首先将问题内涵明确化的习惯（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。
+> 在明确研究问题之前匆忙收集资料，虽然可行但并不有效——常常导致收集的资料中许多是无用的或错误的。研究者应养成首先将问题内涵明确化的习惯（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch.1]]）。
 
 ## 研究问题的类型谱系
 
@@ -126,7 +126,7 @@ updated: 2026-06-25
 完整30种类型详见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]。
 
 > [!decisions] 研究问题与决策
-> 在决定是否追求某项研究时，审视研究问题本身的清晰性、易答性、全面性、可理解性、具体性、复杂性、难度、焦点、目的、所需数据类型和答案效用。但这不是说研究必须在研究问题上一帆风顺——许多最有用的研究恰恰源于复杂问题和难以回答的研究问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> 在决定是否追求某项研究时，审视研究问题本身的清晰性、易答性、全面性、可理解性、具体性、复杂性、难度、焦点、目的、所需数据类型和答案效用。但这不是说研究必须在研究问题上一帆风顺——许多最有用的研究恰恰源于复杂问题和难以回答的研究问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
 
 ---
 
@@ -144,10 +144,10 @@ updated: 2026-06-25
 4. **创建[[Alternative Hypothesis|方向性备择假设]]** [[Null Hypothesis|零假设]]预测总体中无关系或无显著差异；备择假设预测存在显著关系，且最好写为方向性形式。
 5. **使用方向性量化词汇** affect, influence, predict, impact, determine, cause, relate。
 
-> [!tip]- [[Research Writing Script|写作脚本]]
+> [!tip]- [[Research Writing Script\|写作脚本]]
 > 描述性量化研究问题：What is the frequency and variation of scores on [变量] for [参与者] in the study?
 >
-> 关系型量化研究问题与[[Directional and Non-directional Hypotheses|方向性假设]]：[理论] posits that [解释变量间关系]。It is thus predicted that there will be a relationship between [预测变量] and [结果变量], such that [解释效应的方向]。
+> 关系型量化研究问题与[[Directional and Non-directional Hypotheses\|方向性假设]]：[理论] posits that [解释变量间关系]。It is thus predicted that there will be a relationship between [预测变量] and [结果变量], such that [解释效应的方向]。
 
 ---
 
@@ -156,7 +156,7 @@ updated: 2026-06-25
 [[Qualitative Research|质性研究]]只使用研究问题，不使用[[Hypothesis|假设]]，因为研究者不想为研究结果预设方向。质性研究问题分为[[Central Question|核心研究问题]]（一至两个宽泛开放问题）和子问题（五至七个收窄问题，用于数据收集如访谈）。撰写规则及质性路径差异详见 [[Central Question]] 条目（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 > [!warning] 质性研究不使用研究问题的情况
-> 并非所有研究都需要研究问题。一些研究，通常是质性研究（Bryman, 2007b），可能没有研究问题。研究方法并不总是由研究问题驱动（Bryman, 2007b: 18），应避免研究问题的独裁（dictatorship of the research questions）（Bryman, 2007b: 14）。[[Ethnography|人种志]]等研究类型可能不以研究问题开始，而是在后期阶段使用开放式研究提出研究问题供后续[[Research Utilization|研究使用]]。选择无研究问题的路径需要有[[Epistemology|认识论]]层面的理由，通常与归纳式研究设计、[[Emergence|涌现]]性发现和自然主义方法论立场有关（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> 并非所有研究都需要研究问题。一些研究，通常是质性研究（Bryman, 2007b），可能没有研究问题。研究方法并不总是由研究问题驱动（Bryman, 2007b: 18），应避免研究问题的独裁（dictatorship of the research questions）（Bryman, 2007b: 14）。[[Ethnography\|人种志]]等研究类型可能不以研究问题开始，而是在后期阶段使用开放式研究提出研究问题供后续[[Research Utilization\|研究使用]]。选择无研究问题的路径需要有[[Epistemology\|认识论]]层面的理由，通常与归纳式研究设计、[[Emergence\|涌现]]性发现和自然主义方法论立场有关（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
 
 ---
 

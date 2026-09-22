@@ -55,12 +55,12 @@ updated: '2026-07-21'
 ## 定义
 
 > [!def] 方法定义
-> 女性主义研究是一种以[[Critical Theory|批判理论]]为根基的研究方法论，其核心主张是：传统[[Positivism|实证主义]]研究服务于既有的权力关系——赋权白人男性主导的研究共同体，而压制其他群体的声音。女性主义研究旨在用赋权（empowerment）、发声（voice）、解放（emancipation）、平等（equality）和代表（representation）的议程取而代之。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 205–224)]]
+> 女性主义研究是一种以[[Critical Theory\|批判理论]]为根基的研究方法论，其核心主张是：传统[[Positivism\|实证主义]]研究服务于既有的权力关系——赋权白人男性主导的研究共同体，而压制其他群体的声音。女性主义研究旨在用赋权（empowerment）、发声（voice）、解放（emancipation）、平等（equality）和代表（representation）的议程取而代之。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 205–224)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 女性的生活经验、性别压迫机制、父权制[[Knowledge Production|知识生产]]、教育中的性别不平等。
+> - **研究对象** 女性的生活经验、性别压迫机制、父权制[[Knowledge Production\|知识生产]]、教育中的性别不平等。
 > - **问题类型** 回答"谁的""为谁""在谁的利益中"等权力问题，揭示被沉默的声音和被压制的经验。
-> - **[[Unit of Analysis|分析单位]]** 性别作为经验类别、制度过程、话语实践。
+> - **[[Unit of Analysis\|分析单位]]** 性别作为经验类别、制度过程、话语实践。
 > - **输出形式** 赋权行动、女性声音呈现、性别权力分析、变革实践。
 
 > [!citation-card]- 关键定义
@@ -72,17 +72,17 @@ updated: '2026-07-21'
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 所谓客观、[[Value Neutrality|价值中立]]的研究只是维护现有压迫现状的烟幕。研究者的个人经验是研究过程不可分割的组成部分，客观性声称是虚假的（Ezzy, 2002, p. 153）。
+> [!method-position] [[Epistemology\|认识论]]与方法定位
+> - **知识观** 所谓客观、[[Value Neutrality\|价值中立]]的研究只是维护现有压迫现状的烟幕。研究者的个人经验是研究过程不可分割的组成部分，客观性声称是虚假的（Ezzy, 2002, p. 153）。
 > - **研究者角色** 研究者与参与者建立平等、互惠的关系——"与她们在一起并支持她们，而非观察她们"（De Laine, 2000, p. 16）。打破传统的研究者/参与者等级。
-> - **有效性标准** 是否赋权了女性参与者、是否挑战了压迫性知识结构、是否推动了实际变革（Lather 的"[[Consequential Validity|结果效度]]" consequential validity）。
+> - **有效性标准** 是否赋权了女性参与者、是否挑战了压迫性知识结构、是否推动了实际变革（Lather 的"[[Consequential Validity\|结果效度]]" consequential validity）。
 > - **不声称回答的问题** 不声称任何单一研究方法可以代表所有女性的经验；不声称研究者可以"为"她不属于的群体代言。
 
 > [!method-stack] 方法层级
-> - **研究设计** 女性主义[[Action Research|行动研究]]、[[Participatory Research|参与式研究]]、[[Ethnography|民族志]]。
-> - **数据收集** 引导式[[Dialogue in Education|对话]]（而非标准化访谈）、个人证词、口头叙事、长访谈、自传性材料。
-> - **分析方法**[[Ideology Critique|意识形态批判]]、解构、意识提升、文本分析。
-> - **辅助技术**[[Triangulation|三角互证]]、多方法、视觉技术（录像、照片、电影）、[[Meta-analysis|元分析]]、会话分析。
+> - **研究设计** 女性主义[[Action Research\|行动研究]]、[[Participatory Research\|参与式研究]]、[[Ethnography\|民族志]]。
+> - **数据收集** 引导式[[Dialogue in Education\|对话]]（而非标准化访谈）、个人证词、口头叙事、长访谈、自传性材料。
+> - **分析方法**[[Ideology Critique\|意识形态批判]]、解构、意识提升、文本分析。
+> - **辅助技术**[[Triangulation\|三角互证]]、多方法、视觉技术（录像、照片、电影）、[[Meta-analysis\|元分析]]、会话分析。
 
 ---
 
@@ -102,16 +102,16 @@ updated: '2026-07-21'
 ### 女性主义研究方法论原则
 
 > [!proc] 女性主义研究方法论原则（Denzin, 1989; Mies, 1993; Haig, 1999; De Laine, 2000）
-> - 用量化[[Positivism|实证主义]]客观研究替换为质性诠释[[Reflexivity|反思性]][[Ethnography|民族志研究]]——[[Quantitative Research|量化研究]]中的客观性是服务于男性利益和议程的烟幕。
+> - 用量化[[Positivism\|实证主义]]客观研究替换为质性诠释[[Reflexivity\|反思性]][[Ethnography\|民族志研究]]——[[Quantitative Research\|量化研究]]中的客观性是服务于男性利益和议程的烟幕。
 > - 协作式、集体主义的研究——由集体（通常是女性集体）承担，整合研究者和被研究者，打破主体/客体和等级化的非互惠关系。
-> - 所谓[[Value Neutrality|价值无涉]]、中立、冷漠和公正的研究被有意识的、蓄意的偏袒所取代——研究者认同参与者。
-> - 采用[[Ideology Critique|意识形态批判]]的取向和[[Paradigm|范式]]。
-> - 象牙塔中的旁观者知识理论被参与式方法取代——可能通过[[Action Research|行动研究]]——所有参与者（包括研究者）参与争取女性解放的斗争。
+> - 所谓[[Value Neutrality\|价值无涉]]、中立、冷漠和公正的研究被有意识的、蓄意的偏袒所取代——研究者认同参与者。
+> - 采用[[Ideology Critique\|意识形态批判]]的取向和[[Paradigm\|范式]]。
+> - 象牙塔中的旁观者知识理论被参与式方法取代——可能通过[[Action Research\|行动研究]]——所有参与者（包括研究者）参与争取女性解放的斗争。
 > - 改变现状的需要是社会研究的起点——"如果我们想了解梨子，就必须咀嚼它"（Mies, 1993，引用中国谚语）。
-> - 广泛使用[[Triangulation|三角互证]]和多种方法（包括视觉技术）。
+> - 广泛使用[[Triangulation\|三角互证]]和多种方法（包括视觉技术）。
 > - 使用语言技术如会话分析。
 > - 使用文本分析如解构关于女性的文件和文本。
-> - 使用[[Meta-analysis|元分析]]综合个别研究的发现。
+> - 使用[[Meta-analysis\|元分析]]综合个别研究的发现。
 > - 离开数字化调查并对其进行批判性评估，包括对问题措辞的批判。
 
 ### Webb 等的女性主义教学法六项原则
@@ -129,18 +129,18 @@ updated: '2026-07-21'
 ## 资料与分析
 
 > [!method-stack] 资料与分析摘要
-> - **资料类型** 个人证词、口述叙事、长访谈、引导式[[Dialogue in Education|对话]]、自传体材料、敏感议题的[[In-depth Interview|深度访谈]]。
-> - **资料质量** 女性主义研究质疑传统"rapport"（融洽关系）的概念——标准化的非互惠访谈关系利用了被访者（Oakley, 1981）。[[Informed Consent|知情同意]]需在探索性访谈中持续重新协商（Duncombe and Jessop, 2002）。
-> - **分析策略**[[Ideology Critique|意识形态批判]]——揭示性别权力关系；文本解构——分析关于女性的文本中的权力运作；意识提升——将个人经验政治化。
-> - **质量控制** 关注研究对参与者的政治后果（[[Consequential Validity|结果效度]]）；警惕"假装友谊"以获取数据的不诚实做法（Duncombe and Jessop, 2002, p. 108）。
-> - **输出形式** 女性经验的[[Rich and Thick Description|厚描述]]、性别权力分析、赋权行动方案、女性主义批判性政策分析。
+> - **资料类型** 个人证词、口述叙事、长访谈、引导式[[Dialogue in Education\|对话]]、自传体材料、敏感议题的[[In-depth Interview\|深度访谈]]。
+> - **资料质量** 女性主义研究质疑传统"rapport"（融洽关系）的概念——标准化的非互惠访谈关系利用了被访者（Oakley, 1981）。[[Informed Consent\|知情同意]]需在探索性访谈中持续重新协商（Duncombe and Jessop, 2002）。
+> - **分析策略**[[Ideology Critique\|意识形态批判]]——揭示性别权力关系；文本解构——分析关于女性的文本中的权力运作；意识提升——将个人经验政治化。
+> - **质量控制** 关注研究对参与者的政治后果（[[Consequential Validity\|结果效度]]）；警惕"假装友谊"以获取数据的不诚实做法（Duncombe and Jessop, 2002, p. 108）。
+> - **输出形式** 女性经验的[[Rich and Thick Description\|厚描述]]、性别权力分析、赋权行动方案、女性主义批判性政策分析。
 
 ---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 性别不平等研究、女性经验研究、教育中的性别差异与歧视分析、女性赋权项目评估。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 205–408)]]
+> - **适合使用** 性别不平等研究、女性经验研究、教育中的性别差异与歧视分析、女性赋权项目评估。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 205–408)]]
 > - **谨慎使用** 研究者需反思自身与参与者之间的权力和身份差异——白人女性研究非白人女性时，亲近可能带来殖民风险（Gillies and Alldred, 2002, pp. 39–40）。亲密的友谊式研究关系可能同样具有剥削性（Stacey, 1988）。
 > - **不适合使用** 纯统计性的性别差异描述（但女性主义量化研究同样合法——Jayaratne, 1993; Oakley, 1998）。
 
@@ -151,7 +151,7 @@ updated: '2026-07-21'
 > [!method-limits] 方法局限
 > - **偏误来源** 研究者与被研究者之间的"拟态团结"（purported solidarity）可能是善意的女性主义者进行的欺诈（Thapar-Björkert and Henry, 2004）。将参与者政治化可能使她们更脆弱而非赋权——意识到约束但无法改变条件的处境可能实际上削弱力量（Gillies and Alldred, 2002, p. 45）。
 > - **适用边界** 任何单一主体未必能真正代表其并不归属的群体体验——"为他人代言"可能会构成另一种形式的殖民与压迫（Gillies and Alldred, 2002, pp. 39–40）。
-> - **误用风险** 将[[Qualitative Research|质性研究]]特权化为"非剥削性"是有问题的——量化方法可能延续权力差异和剥削，但不能保证质性研究不会以更隐蔽的方式重复同样的问题（De Laine, 2000, p. 115）。
+> - **误用风险** 将[[Qualitative Research\|质性研究]]特权化为"非剥削性"是有问题的——量化方法可能延续权力差异和剥削，但不能保证质性研究不会以更隐蔽的方式重复同样的问题（De Laine, 2000, p. 115）。
 > - **补救方式** 多元方法——量化与质性方法在女性主义研究中都有合法地位（Kelly, 1978; Jayaratne, 1993; Oakley, 1998）；持续反思研究者立场和身份差异。
 
 ---
@@ -173,4 +173,4 @@ updated: '2026-07-21'
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 205–408)]] — 第2.5节系统介绍了女性主义研究的理论原则、方法论原则、教学法应用和 [[Girls Into Science and Technology Project|GIST]] 项目案例。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, pp. 205–408)]] — 第2.5节系统介绍了女性主义研究的理论原则、方法论原则、教学法应用和 [[Girls Into Science and Technology Project\|GIST]] 项目案例。

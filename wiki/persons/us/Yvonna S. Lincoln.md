@@ -46,7 +46,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Yvonna S. Lincoln（1944–），美国教育研究方法论学者，德州农工大学荣休教授。Lincoln 与 [[Egon G. Guba]] 合著的 *[[Interpretive Paradigm|naturalistic inquiry]]*（1985）是[[Qualitative Research|质性研究]][[Paradigm|范式]]发展史上的里程碑作品，系统阐述了自然主义探究的[[Epistemology|认识论]]基础和操作程序。她还与 Norman K. Denzin 共同主编了多版 *Handbook of Qualitative Research*（[[Sage]]），该手册已成为质性研究方法领域的标准参考书。在 Creswell & Creswell (2022) 的教材中，二人提出的模式理论被引为质性研究中理论作为研究终点的重要形式。
+> - **身份位置** Yvonna S. Lincoln（1944–），美国教育研究方法论学者，德州农工大学荣休教授。Lincoln 与 [[Egon G. Guba]] 合著的 *[[Interpretive Paradigm\|naturalistic inquiry]]*（1985）是[[Qualitative Research\|质性研究]][[Paradigm\|范式]]发展史上的里程碑作品，系统阐述了自然主义探究的[[Epistemology\|认识论]]基础和操作程序。她还与 Norman K. Denzin 共同主编了多版 *Handbook of Qualitative Research*（[[Sage]]），该手册已成为质性研究方法领域的标准参考书。在 Creswell & Creswell (2022) 的教材中，二人提出的模式理论被引为质性研究中理论作为研究终点的重要形式。
 
 ## 主要著作
 
@@ -56,7 +56,7 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!tip]-
-> Lincoln and Guba 的核心贡献在于为[[Qualitative Research|质性研究]]建立独立于量化传统的可[[Reliability|信度]]标准体系。在理论运用方面，他们提出模式理论（pattern theories）——自然主义研究中发展的解释不同于[[Quantitative Research|量化研究]]的演绎形式，表现为相互关联的思想或部分连接为整体的模式([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.67]])。
+> Lincoln and Guba 的核心贡献在于为[[Qualitative Research\|质性研究]]建立独立于量化传统的可[[Reliability\|信度]]标准体系。在理论运用方面，他们提出模式理论（pattern theories）——自然主义研究中发展的解释不同于[[Quantitative Research\|量化研究]]的演绎形式，表现为相互关联的思想或部分连接为整体的模式([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.67]])。
 
 > [!quote]
 > "Lincoln & Guba (1985) referred to 'pattern theories' as explanations developing during naturalistic or qualitative research."（引自 Creswell & Creswell, 2022, p.67）
@@ -66,6 +66,6 @@ updated: 2026-09-11
 ## 影响
 
 > [!success]
-> - *[[Interpretive Paradigm|naturalistic inquiry]]*（1985）确立了[[Qualitative Research|质性研究]]作为独立合法[[Paradigm|范式]]的方法论地位
+> - *[[Interpretive Paradigm\|naturalistic inquiry]]*（1985）确立了[[Qualitative Research\|质性研究]]作为独立合法[[Paradigm\|范式]]的方法论地位
 > - 与 Norman K. Denzin 共同主编的 *Handbook of Qualitative Research*（[[Sage]], 多版次）已成为质性研究方法领域的标准参考书，汇集各范式代表性学者的方法论论述
-> - 与 Guba 提出的模式理论（pattern theories）为质性研究提供了一种区别于量化演绎[[Hypothesis|假设]]检验的理论生成逻辑
+> - 与 Guba 提出的模式理论（pattern theories）为质性研究提供了一种区别于量化演绎[[Hypothesis\|假设]]检验的理论生成逻辑

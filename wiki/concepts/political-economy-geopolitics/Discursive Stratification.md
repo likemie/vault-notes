@@ -46,12 +46,12 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 话语分层（Discursive Stratification）是 Schulze-Cleven et al.（2017）作为高等教育新政治经济学的两大分析路径之一提出的概念。它主张话语——包括文本、符号、数字和图像——积极参与建构社会不平等和等级秩序，而非简单地反映或再现社会实践、政治决策和经济机制([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.805]])。
+> 话语分层（Discursive Stratification）是 Schulze-Cleven et al.（2017）作为高等教育新政治经济学的两大分析路径之一提出的概念。它主张话语——包括文本、符号、数字和图像——积极参与建构社会不平等和等级秩序，而非简单地反映或再现社会实践、政治决策和经济机制([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.805]])。
 
 在这一视角下，高等教育中的社会变迁具有内在的符号性（inherently symbolic）。排名的激增、[[Performance Indicators|绩效指标]]的使用、以及学术地位和声望的测量，都为社会等级如何通过话语被生产、协商和固化提供了丰富的研究材料。政治和经济决策依赖于符号结构和意义体系——而这些结构和体系本身正是话语实践的产物([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.805–807]])。
 
 > [!quote]
-> "话语不完全反映或再现社会实践、政治决策、经济机制和权力利益。相反，使用'语言'——即文本、符号、数字或图像——的社会实践也参与建构社会不平等和等级。"([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.805]])
+> "话语不完全反映或再现社会实践、政治决策、经济机制和权力利益。相反，使用'语言'——即文本、符号、数字或图像——的社会实践也参与建构社会不平等和等级。"([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.805]])
 
 ## 概念辨析
 
@@ -62,7 +62,7 @@ updated: 2026-06-01
 ## 核心分析维度
 
 > [!abstract]
-> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.805–807)]]通过收录的五篇文章展示了话语分层的多维分析角度：
+> [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp.805–807)]]通过收录的五篇文章展示了话语分层的多维分析角度：
 
 ### 经济学的精英部署
 
@@ -88,7 +88,7 @@ Kim 通过对全球流动学者的分析展示了市场化如何改变符号位�
 
 > [!tip]-
 > - **Foucault 的权力-知识分析** 将高等教育理解为权力知识的部署（dispositif），强调历史偶然性和权力-知识配置的变迁特征（Ball, 1990; Rose, 1996; Maesse & Hamann, 2016）
-> - **[[Constructivist Paradigm|建构主义]]社会学** 关注意义建构和主导解释的斗争作为高等教育内部的社会活动——排名、评估和指标不仅衡量现实、更在制造它们所描述的现实([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.805–806]])
+> - **[[Constructivist Paradigm\|建构主义]]社会学** 关注意义建构和主导解释的斗争作为高等教育内部的社会活动——排名、评估和指标不仅衡量现实、更在制造它们所描述的现实([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.805–806]])
 > - **Bourdieu 的符号资本**[[Pierre Bourdieu]] 的符号商品和区分逻辑为理解学术竞争中的非货币维度提供了基础（Bourdieu, 1984）
 
 ## 与分配冲突路径的关系
@@ -101,5 +101,5 @@ Kim 通过对全球流动学者的分析展示了市场化如何改变符号位�
 > 2. 解释符号秩序建构与变迁的机制是什么？
 > 3. 高等教育内部的新等级应如何被概念化？
 >
-> 但多篇文章展示了两种取向可以富有成效地结合——马克思主义分析承认[[Academic Capitalism|学术资本主义]]的符号维度（Jessop, Reitz），[[Discourse Analysis|话语分析]]反思经济资源的分配如何塑造社会共享或争议的意义（Maesse, Bloch & Mitterle, Angermuller），比较政策分析质疑政治意向性的限度（Schulze-Cleven & Olson）([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.807–809]])。
+> 但多篇文章展示了两种取向可以富有成效地结合——马克思主义分析承认[[Academic Capitalism\|学术资本主义]]的符号维度（Jessop, Reitz），[[Discourse Analysis\|话语分析]]反思经济资源的分配如何塑造社会共享或争议的意义（Maesse, Bloch & Mitterle, Angermuller），比较政策分析质疑政治意向性的限度（Schulze-Cleven & Olson）([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.807–809]])。
 

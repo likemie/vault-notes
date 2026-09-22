@@ -50,27 +50,27 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 设计研究
-> 设计研究（Design-Based Research, DBR）是一种以迭代循环为核心的研究方法论：设计并实施创新的教育环境，在真实情境中测试这些创新，根据数据和反馈不断精炼干预，同时生成情境化的教与学理论（Brown, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）。
+> 设计研究（Design-Based Research, DBR）是一种以迭代循环为核心的研究方法论：设计并实施创新的教育环境，在真实情境中测试这些创新，根据数据和反馈不断精炼干预，同时生成情境化的教与学理论（Brown, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
 
 该术语实为误称，它通常不满足真正实验的条件（如随机对照），更准确的命名是设计研究（design study）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 真实教育情境中的教学干预、学习环境或课程创新。
 > - **问题类型** 正在发生什么？是否存在系统性效应？为什么或如何发生？（Shavelson et al., 2003, p. 28）
-> - **[[Unit of Analysis|分析单位]]** 干预本身——作为不断演化的设计产物，而非静态的输入-输出模块。
+> - **[[Unit of Analysis\|分析单位]]** 干预本身——作为不断演化的设计产物，而非静态的输入-输出模块。
 > - **输出形式** 可操作的教育产品（课程、工具、环境）+ 情境化的教与学理论。
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]定位
-> - **[[Paradigm|研究范式]]** 介于[[Experimental Research|实验研究]]与[[Mixed Methods Research|混合方法研究]]之间，共享工程设计的迭代逻辑而非实验室实验的控制逻辑。
-> - **有效性标准** 产品在真实世界中的可用性与效用，而非[[Statistical Significance|统计显著性]]；理论的情境扎根性，而非普遍推广性。
-> - **不能回答的问题** 无法提供单一[[Hypothesis|假设]]的确定性检验；不适用于需要严格对照组和[[Random Assignment|随机化]]的[[Causality|因果推断]]。
+> [!method-position] [[Epistemology\|认识论]]定位
+> - **[[Paradigm\|研究范式]]** 介于[[Experimental Research\|实验研究]]与[[Mixed Methods Research\|混合方法研究]]之间，共享工程设计的迭代逻辑而非实验室实验的控制逻辑。
+> - **有效性标准** 产品在真实世界中的可用性与效用，而非[[Statistical Significance\|统计显著性]]；理论的情境扎根性，而非普遍推广性。
+> - **不能回答的问题** 无法提供单一[[Hypothesis\|假设]]的确定性检验；不适用于需要严格对照组和[[Random Assignment\|随机化]]的[[Causality\|因果推断]]。
 
 > [!method-stack] 方法层级
 > - **研究设计** 迭代循环：设计→实境测试→问题识别→重新设计→重新测试（Design-Based Research Collective, 2003, p. 5）。
 > - **数据收集** 观察记录、测量数据、参与者反馈、视频记录、纵向叙事数据。
-> - **分析方法** 多[[Variable|变量]]剖面分析而非单一假设检验（Lobato, 2003, p. 19）；[[Narrative Analysis|叙事分析]]追踪因果演化。
+> - **分析方法** 多[[Variable\|变量]]剖面分析而非单一假设检验（Lobato, 2003, p. 19）；[[Narrative Analysis\|叙事分析]]追踪因果演化。
 > - **辅助技术** 视频记录（McCandliss et al., 2003, p. 15）；纵向叙事追踪跨时间的发展与因果（Shavelson et al., 2003）。
 
 ## 研究程序
@@ -87,7 +87,7 @@ Design-Based Research Collective (2003, p. 5) 和 Shavelson et al. (2003, p. 26)
 > - **理论驱动（Theory Driven）** 干预基于理论主张，研究同时生成和检验理论（Cobb et al., 2003, p. 9）。
 
 > [!proc] 设计研究的迭代循环
-> 设计研究的典型循环与工程设计类比（Gorard et al., 2004, p. 576; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）：
+> 设计研究的典型循环与工程设计类比（Gorard et al., 2004, p. 576; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）：
 >
 > 1. **初始设计** 基于理论主张设计干预或学习环境。
 > 2. **实境测试** 在真实教室或教育情境中测试干预，收集数据（观察、测量、记录）。
@@ -101,7 +101,7 @@ Design-Based Research Collective (2003, p. 5) 和 Shavelson et al. (2003, p. 26)
 ## 资料与分析
 
 > [!info]
-> 设计研究开发的是**多[[Variable|变量]]剖面（profile of multiple variables）**，而非检验单一[[Hypothesis|假设]]（Lobato, 2003, p. 19）。数据收集贯穿整个迭代过程，包括参与者的观察记录、测量数据、反馈意见，以及设计者自身的设计日志。McCandliss et al. (2003, p. 15) 建议使用视频记录跨越时间捕获有效数据；Shavelson et al. (2003) 建议使用纵向叙事数据追踪跨时间的发展和因果演化，捕捉内在于设计研究原则中的复杂性和情境化特征。但叙事记述存在循环论证的风险，需要外部核查和制衡来验证知识宣称（Shavelson et al., 2003, p. 27）。
+> 设计研究开发的是**多[[Variable\|变量]]剖面（profile of multiple variables）**，而非检验单一[[Hypothesis\|假设]]（Lobato, 2003, p. 19）。数据收集贯穿整个迭代过程，包括参与者的观察记录、测量数据、反馈意见，以及设计者自身的设计日志。McCandliss et al. (2003, p. 15) 建议使用视频记录跨越时间捕获有效数据；Shavelson et al. (2003) 建议使用纵向叙事数据追踪跨时间的发展和因果演化，捕捉内在于设计研究原则中的复杂性和情境化特征。但叙事记述存在循环论证的风险，需要外部核查和制衡来验证知识宣称（Shavelson et al., 2003, p. 27）。
 
 Design-Based Research Collective (2003, p. 8) 将其生成的知识概括为四类（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）：
 
@@ -114,19 +114,19 @@ Design-Based Research Collective (2003, p. 8) 将其生成的知识概括为四�
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要开发和精炼真实教育干预时；希望在干预过程中同时生成理论时；问题涉及多[[Variable|变量]]交互且无法在实验室中模拟时。
-> - **谨慎使用** 需要明确的[[Causality|因果推断]]时（缺乏对照组和[[Random Assignment|随机化]]）；需要快速产出时（迭代循环耗时较长）。
-> - **不适合使用** 需要检验单一[[Hypothesis|假设]]或建立确定性因果关系时；[[Research Question|研究问题]]只需描述性回答而不涉及干预设计时。
+> - **适合使用** 需要开发和精炼真实教育干预时；希望在干预过程中同时生成理论时；问题涉及多[[Variable\|变量]]交互且无法在实验室中模拟时。
+> - **谨慎使用** 需要明确的[[Causality\|因果推断]]时（缺乏对照组和[[Random Assignment\|随机化]]）；需要快速产出时（迭代循环耗时较长）。
+> - **不适合使用** 需要检验单一[[Hypothesis\|假设]]或建立确定性因果关系时；[[Research Question\|研究问题]]只需描述性回答而不涉及干预设计时。
 
 ## 局限性
 
 > [!method-limits]
-> - **知识宣称的根基** 在存在如此多混淆[[Variable|变量]]的情况下，如何为知识宣称提供保证（Shavelson et al., 2003, p. 25）？
+> - **知识宣称的根基** 在存在如此多混淆[[Variable\|变量]]的情况下，如何为知识宣称提供保证（Shavelson et al., 2003, p. 25）？
 > - **推广性受限** 高度情境化的结果难以推广到其他情境（p. 27）。
 > - **替代解释的排除** 如何系统考虑对结果的替代解释（p. 27）？
 > - **叙事循环风险** 叙事性记述可能存在循环论证，需要外部核查和制衡（p. 27）。
 > - **缺乏失败标准** 工程设计中包含失败标准作为研究开发的必要组成部分，设计研究往往缺乏这一点（Sloane & Gorard, 2003）。
-> - **[[Causality|因果推断]]力弱** 因缺乏对照组和实验控制，结果的因果解释力受限。
+> - **[[Causality\|因果推断]]力弱** 因缺乏对照组和实验控制，结果的因果解释力受限。
 
 ## 相关理论与方法
 
@@ -139,5 +139,5 @@ Design-Based Research Collective (2003, p. 8) 将其生成的知识概括为四�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍设计研究的起源（Brown, 1992）、核心特征、迭代循环、与传统实验的差异和局限性。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 系统介绍设计研究的起源（Brown, 1992）、核心特征、迭代循环、与传统实验的差异和局限性。

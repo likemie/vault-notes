@@ -28,10 +28,10 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Norm-Referenced Test]]"
   - "[[Professional Judgment]]"
-related_theories:
-  - "[[Item Response Theory]]"
+related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
+  - "[[Item Response Theory]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Correlational Research]]"
 related_arguments:
@@ -49,12 +49,12 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 题目分析（item analysis）是在测验编制和[[Pilot Testing|预测试]]阶段对每个测验题目进行的统计分析，目的是确保：（1）题目如预期般运作（[[Criterion-Referenced Test|标准参照]]题目合理覆盖领域和标准，常模参照题目展示区分度）；（2）题目难度适当；（3）测验可靠（排除不必要的干扰信息和无关线索）（Gronlund & Linn, 1990; Millman & Greene, 1993）。题目分析的理论基础是[[Item Response Theory|项目反应理论]]（IRT）。
+> 题目分析（item analysis）是在测验编制和[[Pilot Testing\|预测试]]阶段对每个测验题目进行的统计分析，目的是确保：（1）题目如预期般运作（[[Criterion-Referenced Test\|标准参照]]题目合理覆盖领域和标准，常模参照题目展示区分度）；（2）题目难度适当；（3）测验可靠（排除不必要的干扰信息和无关线索）（Gronlund & Linn, 1990; Millman & Greene, 1993）。题目分析的理论基础是[[Item Response Theory\|项目反应理论]]（IRT）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 题目分析不是单一指标，而是对每道题目从区分度、难度和干扰项三个维度进行的多角度质量审查。
 > - **用途** 在预测试后帮助研究者淘汰区分度不足、难度不当或干扰项失效的题目，保留质量最好的题目进入正式测验。
-> - **边界** 区分度和难度在[[Norm-Referenced Test|常模参照测验]]和[[Criterion-Referenced Test|标准参照测验]]中的意义不同——常模参照追求高区分度和中等难度，标准参照不以区分度为核心关注。
+> - **边界** 区分度和难度在[[Norm-Referenced Test\|常模参照测验]]和[[Criterion-Referenced Test\|标准参照测验]]中的意义不同——常模参照追求高区分度和中等难度，标准参照不以区分度为核心关注。
 
 ---
 
@@ -72,7 +72,7 @@ updated: 2026-09-17
 >
 > $A$ = 高分组答对人数，$B$ = 低分组答对人数，$N$ = 两组总人数（通常为 20）。
 >
-> **判断标准** 最大值 1.00；小于 0.67 的题目应首先检查是否存在措辞歧义或暗示线索；是否使用低于 0.67 的题目取决于研究者的[[Professional Judgment|专业判断]]。在[[Norm-Referenced Test|常模参照测验]]中，区分度至关重要；在[[Criterion-Referenced Test|标准参照测验]]中，低区分度不一定意味着题目质量差（可能所有学生都学会了）。
+> **判断标准** 最大值 1.00；小于 0.67 的题目应首先检查是否存在措辞歧义或暗示线索；是否使用低于 0.67 的题目取决于研究者的[[Professional Judgment\|专业判断]]。在[[Norm-Referenced Test\|常模参照测验]]中，区分度至关重要；在[[Criterion-Referenced Test\|标准参照测验]]中，低区分度不一定意味着题目质量差（可能所有学生都学会了）。
 
 > [!example] 区分度计算示例
 > 高分组 10 人全部答对（A = 10），低分组 2 人答对（B = 2），N = 20：
@@ -100,7 +100,7 @@ updated: 2026-09-17
 ### 干扰项分析
 
 > [!def] 干扰项分析
-> 干扰项（distractor）是[[Multiple-Choice Questions|多项选择题]]中的错误选项。有效干扰项应吸引更多低分组学生而非高分组学生。如果一个选项没有人选择（高低分组均为 0），则该干扰项完全失效。
+> 干扰项（distractor）是[[Multiple-Choice Questions\|多项选择题]]中的错误选项。有效干扰项应吸引更多低分组学生而非高分组学生。如果一个选项没有人选择（高低分组均为 0），则该干扰项完全失效。
 
 > [!example] 干扰项效果判断
 > | 选项 | 高分组 10 人 | 低分组 10 人 | 结论 |
@@ -114,11 +114,11 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!warning] 小样本的限制
-> 在小样本上计算区分度和难度指数时，应谨慎对待这些指数，不宜过分信任。题目分析只有在足够大的[[Pilot Testing|预测试]]样本中才能稳定反映题目的真实质量。
+> 在小样本上计算区分度和难度指数时，应谨慎对待这些指数，不宜过分信任。题目分析只有在足够大的[[Pilot Testing\|预测试]]样本中才能稳定反映题目的真实质量。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节详细介绍了题目分析的三个核心维度（区分度、难度和干扰项分析），给出计算公式、判断标准，并说明这些指标在[[Norm-Referenced Test|常模参照测验]]和[[Criterion-Referenced Test|标准参照测验]]中的不同应用原则。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节详细介绍了题目分析的三个核心维度（区分度、难度和干扰项分析），给出计算公式、判断标准，并说明这些指标在[[Norm-Referenced Test\|常模参照测验]]和[[Criterion-Referenced Test\|标准参照测验]]中的不同应用原则。

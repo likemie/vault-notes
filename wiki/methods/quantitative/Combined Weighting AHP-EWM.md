@@ -39,10 +39,10 @@ updated: 2026-06-12
 ## 定义
 
 > [!info]
-> AHP-熵权法组合赋权（Combined Weighting AHP-EWM）是一种将主观赋权和客观赋权相结合的多指标权重确定方法。它分别采用层次分析法（Analytic Hierarchy Process, AHP）获取基于专家判断的主观权重，采用熵权法（Entropy Weight Method, EWM）获取基于数据变异程度的客观权重，再通过最小二乘决策（Least Square Decision, LSD）模型求解综合权重，使综合权重与两种来源权重的总偏差最小。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 66–67)]]
+> AHP-熵权法组合赋权（Combined Weighting AHP-EWM）是一种将主观赋权和客观赋权相结合的多指标权重确定方法。它分别采用层次分析法（Analytic Hierarchy Process, AHP）获取基于专家判断的主观权重，采用熵权法（Entropy Weight Method, EWM）获取基于数据变异程度的客观权重，再通过最小二乘决策（Least Square Decision, LSD）模型求解综合权重，使综合权重与两种来源权重的总偏差最小。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 66–67)]]
 
 > [!quote]
-> 综合权重向量 $f = (f_1, f_2, \dots, f_n)^T$，通过最小化与主观权重向量 $v$ 和客观权重向量 $g$ 的偏差平方和求解，约束条件为 $\sum f_i = 1, f_i \geq 0$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 67)]]
+> 综合权重向量 $f = (f_1, f_2, \dots, f_n)^T$，通过最小化与主观权重向量 $v$ 和客观权重向量 $g$ 的偏差平方和求解，约束条件为 $\sum f_i = 1, f_i \geq 0$。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 67)]]
 > Original: The least square decision (LSD) model is established to control the deviation of the judgment index decision results in a small range.
 
 ---
@@ -59,7 +59,7 @@ updated: 2026-06-12
 > EWM基于信息熵原理：指标变异越大→信息量越大→权重越高。操作流程：计算每个指标的熵值 $e_j = -k \sum p_{ij} \ln p_{ij}$ → 计算信息效用值 $1 - e_j$ → 归一化得到客观权重向量 $g$。EWM的优势在于忠实于数据分布，但可能赋予实际不重要但变异大的指标过高权重。
 
 > [!line-b] 模块三：LSD模型——偏差最小化
-> LSD模型求解综合权重 $f$，使 $f$ 与主观权重 $v$ 和客观权重 $g$ 的偏差平方和最小：$\min H(f) = \sum_{i=1}^{m} \sum_{j=1}^{n} \{[(g_j - f_j)X_{ij}]^2 + [(v_j - f_j)X_{ij}]^2\}$。LSD的数学本质是在"专家认为重要"和"数据表现重要"之间寻找最优折中。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 67)]]
+> LSD模型求解综合权重 $f$，使 $f$ 与主观权重 $v$ 和客观权重 $g$ 的偏差平方和最小：$\min H(f) = \sum_{i=1}^{m} \sum_{j=1}^{n} \{[(g_j - f_j)X_{ij}]^2 + [(v_j - f_j)X_{ij}]^2\}$。LSD的数学本质是在"专家认为重要"和"数据表现重要"之间寻找最优折中。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 67)]]
 
 ---
 
@@ -79,9 +79,9 @@ updated: 2026-06-12
 ## 局限性
 
 > [!warning]
-> - **AHP过程不透明** 若未报告专家数量、背景及评判过程，AHP方法论的严谨性无法评估。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 71)]]
-> - **时间不变性[[Hypothesis|假设]]** 组合权重基于全时段数据计算，未考虑指标重要性随时间推移的变化
-> - **LSD模型的对称性假设** LSD对主观和客观权重偏差施以同等惩罚，但两者的[[Reliability|可靠性]]在实际中可能不等
+> - **AHP过程不透明** 若未报告专家数量、背景及评判过程，AHP方法论的严谨性无法评估。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 71)]]
+> - **时间不变性[[Hypothesis\|假设]]** 组合权重基于全时段数据计算，未考虑指标重要性随时间推移的变化
+> - **LSD模型的对称性假设** LSD对主观和客观权重偏差施以同等惩罚，但两者的[[Reliability\|可靠性]]在实际中可能不等
 
 ---
 
@@ -97,4 +97,4 @@ updated: 2026-06-12
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用AHP-EWM-LSD组合赋权确定15项EST评价指标的权重，为[[Coupling Coordination Model|耦合协调模型]]提供综合权重输入
+> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用AHP-EWM-LSD组合赋权确定15项EST评价指标的权重，为[[Coupling Coordination Model\|耦合协调模型]]提供综合权重输入

@@ -52,12 +52,12 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 在线自评工具（Online Self-Assessments，简称 OSA，德语中也称 Online Study Choice Checks）是德国大学在过去二十年间广泛采用的一类数字化咨询工具，用于在潜在学生选择专业时提供自我评估和匹配建议。OSA 通常包含关于兴趣领域、先前经验和学习期望的[[Questionnaire|问卷]]，以及认知技能测试([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.218]])。
+> 在线自评工具（Online Self-Assessments，简称 OSA，德语中也称 Online Study Choice Checks）是德国大学在过去二十年间广泛采用的一类数字化咨询工具，用于在潜在学生选择专业时提供自我评估和匹配建议。OSA 通常包含关于兴趣领域、先前经验和学习期望的[[Questionnaire\|问卷]]，以及认知技能测试([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.218]])。
 
 OSA 的设计目的不是筛选淘汰，而是通过促进"有根据的自我选择"（well-founded self-selection）来改善学生与专业之间的匹配(Thiele & Kauffeld, 2019a, p.275; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.223]])。在部分大学，完成 OSA 是可选步骤；在另一些大学，它是入学的先决条件([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.218]])。
 
 > [!quote]
-> "OSAs are mostly implemented as digital tools that contain questionnaires relating to areas of interest, previous experience and, most notably, expectations that the prospective student might have. They also include tests of cognitive skills."([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.218]])
+> "OSAs are mostly implemented as digital tools that contain questionnaires relating to areas of interest, previous experience and, most notably, expectations that the prospective student might have. They also include tests of cognitive skills."([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.218]])
 
 ## 设计与运作
 
@@ -66,7 +66,7 @@ OSA 的设计目的不是筛选淘汰，而是通过促进"有根据的自我选
 OSA 的理论基础是"人-环境匹配"（person-environment fit）——找到学生与学习项目之间的"完美匹配"（perfect fit），以提升[[Student Satisfaction|学生满意度]]和学业成功率（Thiele & Kauffeld, 2019a, p.275）。在实践中表现为三种结果：完全匹配、有条件的匹配（需要在某些领域额外努力）、以及不匹配——此时学生会被建议选择其他项目。
 
 > [!example]
-> 荷兰 Saxion 大学的"学习选择检查"是一个典型示例：该校在 YouTube 视频中用一个木制形状分类玩具（shape sorter）来说明匹配逻辑——三种结果分别为完全匹配、基本匹配（建议在某些领域投入额外努力）和不匹配（明确建议选择其他学位项目）。整个过程中，该检查被反复强调"不是入学考试，不影响录取"——它纯粹是一个咨询工具，通过自我反思来引导选择([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.222–223]])。
+> 荷兰 Saxion 大学的"学习选择检查"是一个典型示例：该校在 YouTube 视频中用一个木制形状分类玩具（shape sorter）来说明匹配逻辑——三种结果分别为完全匹配、基本匹配（建议在某些领域投入额外努力）和不匹配（明确建议选择其他学位项目）。整个过程中，该检查被反复强调"不是入学考试，不影响录取"——它纯粹是一个咨询工具，通过自我反思来引导选择([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.222–223]])。
 
 ### 自我选择机制
 
@@ -103,7 +103,7 @@ Thompson 等人（2022, pp.223–224）从大学政策文件和进展报告中�
 ## 政策背景
 
 > [!info]
-> 2004 年，德国学术评议会（Wissenschaftsrat）发布《关于改革大学入学制度的建议》，推荐实施"以咨询为目的的性向评估程序"（aptitude assessment procedures for the purpose of counselling），在入学前改善学生入学资格与学习项目要求之间的匹配，降低大学辍学率(Wissenschaftsrat, 2004, p.6; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.223]])。
+> 2004 年，德国学术评议会（Wissenschaftsrat）发布《关于改革大学入学制度的建议》，推荐实施"以咨询为目的的性向评估程序"（aptitude assessment procedures for the purpose of counselling），在入学前改善学生入学资格与学习项目要求之间的匹配，降低大学辍学率(Wissenschaftsrat, 2004, p.6; [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.223]])。
 
 > [!quote]
 > "Empfehlungen zur Reform des Hochschulzugangs" — 建议设立一种期望：潜在学生应对自身适合度进行反思，以降低辍学率（Wissenschaftsrat, 2004, p.4）
@@ -121,9 +121,9 @@ Thompson 等人（2022, pp.223–224）从大学政策文件和进展报告中�
 ### 实施现状
 
 > [!note]-
-> - **工具类型** 形式多样——有的侧重兴趣和期望[[Questionnaire|问卷]]，有的包含认知能力测试；近年出现整合平台如 [OSA-Portal](https://www.osa-portal.de)
+> - **工具类型** 形式多样——有的侧重兴趣和期望[[Questionnaire\|问卷]]，有的包含认知能力测试；近年出现整合平台如 [OSA-Portal](https://www.osa-portal.de)
 > - **核心开发者** 大学自行开发和维护（如 TU Braunschweig 的 Fit4TU、TU Berlin 的 T2-SCA），部分与商业公司合作（如 CYQUEST）
-> - **质量参差** 仅 61% 的分析测试得到了充分评估(Thiele & Kauffeld, 2019b, p.127; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.223]])
+> - **质量参差** 仅 61% 的分析测试得到了充分评估(Thiele & Kauffeld, 2019b, p.127; [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.223]])
 
 ## 争议与批评
 

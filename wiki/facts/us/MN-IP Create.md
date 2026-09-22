@@ -42,7 +42,7 @@ updated: 2026-06-03
 ## 内容
 
 > [!info]
-> MN-IP Create（全称 MN-IP: Sponsoring Research & Innovation Partnerships）是明尼苏达大学推出的[[University-Industry Collaboration|产学合作]]知识产权预先定价项目。该项目的核心创新在于为产业赞助方提供菜单式的[[Foreground IP|FIP]]权利选项，以固定预付费和延迟版税的组合替代传统的事后协商定价模式([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, p.283]])。
+> MN-IP Create（全称 MN-IP: Sponsoring Research & Innovation Partnerships）是明尼苏达大学推出的[[University-Industry Collaboration\|产学合作]]知识产权预先定价项目。该项目的核心创新在于为产业赞助方提供菜单式的[[Foreground IP\|FIP]]权利选项，以固定预付费和延迟版税的组合替代传统的事后协商定价模式([[Argument_Susalka_Carbone_2025_IP_Web\|Susalka & Carbone, 2025, p.283]])。
 
 > [!note]-
 > 项目将 FIP 定义为"研究项目中产生的所有发明"，并提供以下三种选项（p.283）：
@@ -56,7 +56,7 @@ updated: 2026-06-03
 ## 制度设计逻辑
 
 > [!abstract]
-> MN-IP Create 的制度设计回应了[[University-Industry Collaboration|产学合作]]中长期存在的一个核心困境：企业担心"我们付钱做了研究，大学会在技术价值明朗后向我们索取天价许可费"；大学则担心"我们可能在事前以过低价格放弃了对未知价值的创新的权利"（p.282–283）。
+> MN-IP Create 的制度设计回应了[[University-Industry Collaboration\|产学合作]]中长期存在的一个核心困境：企业担心"我们付钱做了研究，大学会在技术价值明朗后向我们索取天价许可费"；大学则担心"我们可能在事前以过低价格放弃了对未知价值的创新的权利"（p.282–283）。
 
 三种选项覆盖了不同企业的风险偏好：
 - **选项 A** 适合愿意为确定性支付溢价的企业，预付较高但版税门槛高（$2000 万年销售额以下零版税）

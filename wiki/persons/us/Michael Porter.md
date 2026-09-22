@@ -41,7 +41,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Michael E. Porter，美国经济学家和竞争战略理论家，哈佛商学院教授。以竞争战略、[[National Competitive Advantage|国家竞争优势]]和产业集群理论著称。[[Argument_Moisio_2022_Springer|Moisio (2022)]]在分析[[Knowledge-Based Economization|知识经济化]]的地缘政治维度时，将其 *The Competitive Advantage of Nations*（1990）定位为塑造 Hub and [[Flow]] 想象的关键地缘政治想象来源([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])。
+> - **身份位置** Michael E. Porter，美国经济学家和竞争战略理论家，哈佛商学院教授。以竞争战略、[[National Competitive Advantage\|国家竞争优势]]和产业集群理论著称。[[Argument_Moisio_2022_Springer\|Moisio (2022)]]在分析[[Knowledge-Based Economization\|知识经济化]]的地缘政治维度时，将其 *The Competitive Advantage of Nations*（1990）定位为塑造 Hub and [[Flow]] 想象的关键地缘政治想象来源([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.26–27]])。
 
 ---
 
@@ -70,7 +70,7 @@ Porter 的核心理论主张是：国家在全球市场中的竞争优势并非�
 
 其最具地缘政治影响力的论点是一个悖论：
 
-> "虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要。"（Porter, 1990, p.19, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]]）
+> "虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要。"（Porter, 1990, p.19, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, p.27]]）
 
 这一悖论为 1990 年代以来[[Knowledge-Based Economization|知识经济化]]的空间政策——包括国家冠军城市、创业生态系统和产业集群——提供了关键的理论合法性。
 

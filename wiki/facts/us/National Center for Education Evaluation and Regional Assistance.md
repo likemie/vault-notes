@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -64,7 +64,6 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
-  - "[[Partnership Schools Kura Hourua]]"
   - "[[OECD]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Education Innovation and Research]]"
@@ -77,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # National Center for Education Evaluation and Regional Assistance
@@ -87,52 +86,52 @@ updated: 2026-09-17
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 美国联邦最高法定教育评价与证据[[Transfer Translation Transformation|转译]]中枢，隶属于[[Institute of Education Sciences|美国教育部教育科学研究院]]（IES），统辖[[What Works Clearinghouse|有效干预清算中心]]（WWC）、全美十大区域教育实验室（RELs）及[[Education Resources Information Center|教育资源信息中心]]（ERIC），旨在通过独立、严谨、基于[[Causality|因果推断]]的实证评价，向全美政策制定者、学区管理者与一线教育者提供客观科学的有效性证据。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 50–51)]]
+> 美国联邦最高法定教育评价与证据[[Transfer Translation Transformation\|转译]]中枢，隶属于[[Institute of Education Sciences\|美国教育部教育科学研究院]]（IES），统辖[[What Works Clearinghouse\|有效干预清算中心]]（WWC）、全美十大区域教育实验室（RELs）及[[Education Resources Information Center\|教育资源信息中心]]（ERIC），旨在通过独立、严谨、基于[[Causality\|因果推断]]的实证评价，向全美政策制定者、学区管理者与一线教育者提供客观科学的有效性证据。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2002 年依据美国国会颁布的《2002年教育科学改革法案》（Education Sciences Reform Act of 2002, ESRA）正式设立，旨在彻底改变以往联邦教育研究碎片化、缺乏科学因果严谨性与充斥利益冲突的弊病。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
+> - **成立时间 / 创设背景** 2002 年依据美国国会颁布的《2002年教育科学改革法案》（Education Sciences Reform Act of 2002, ESRA）正式设立，旨在彻底改变以往联邦教育研究碎片化、缺乏科学因果严谨性与充斥利益冲突的弊病。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 > - **总部地点 / 业务辐射** 设于美国华盛顿特区联邦教育部总部；业务统筹全美 50 个州及受托领地跨区域公立学区的证据生产、评价合同监管与知识普及。
 > - **法人属性与经费基础** 联邦常设行政科研职能机构；由美国国会专项常年财政预算全额保障，年均拨付数亿美元评价与研究援助合同经费。
-> - **核心宗旨与法定职责** 实施大规模联邦教育项目因果影响评价；统筹制定并持续迭代全美因果[[Evidence Standards|证据标准]]（WWC Standards）；管理区域[[Knowledge Mobilisation|知识动员]]网络；保障国家教育评估的学术中立与评估独立性。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 48)]]
+> - **核心宗旨与法定职责** 实施大规模联邦教育项目因果影响评价；统筹制定并持续迭代全美因果[[Evidence Standards\|证据标准]]（WWC Standards）；管理区域[[Knowledge Mobilisation\|知识动员]]网络；保障国家教育评估的学术中立与评估独立性。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 48)]]
 
 ---
 
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **2002–2008 — 奠基与金标准确立期** ESRA 法案通过后设立 NCEE，启动[[What Works Clearinghouse|有效干预清算中心]]（WWC），明确将高质量[[Randomised Controlled Trials|随机对照试验]]（RCT）确立为识别因果有效性的黄金标准。2007 年资助并发布全美大规模教育软件现场实验（Dynarski et al., 2007），系统测试 16 款主流阅读与数学软件，首次在国家级评估中揭示了因果效应的高度情境[[Heterogeneity|异质性]]。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]
-> - **2009–2015 — 规模化扩张与分层证据驱动** 配合奥巴马政府《美国复苏与再投资法案》（ARRA）和争向顶峰（Race to the Top）计划，受托承担总规模达 14 亿美元的投资创新项目（i3）独立评价监督，全面确立分层因果证据审查体系。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
-> - **2016–至今 — 证据法典深化与英美跨国互鉴** 对接《每个学生都成功法案》（[[Every Student Succeeds Act|ESSA]]）四大证据层级要求，持续升级 WWC 评价手册至第 5 版；与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）共同构成全球教育现场因果评估的最大双引擎，其资助的试验构成了国际[[Evidence-Based Education|循证教育]][[Meta-analysis|元分析]]的基石。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
+> - **2002–2008 — 奠基与金标准确立期** ESRA 法案通过后设立 NCEE，启动[[What Works Clearinghouse\|有效干预清算中心]]（WWC），明确将高质量[[Randomised Controlled Trials\|随机对照试验]]（RCT）确立为识别因果有效性的黄金标准。2007 年资助并发布全美大规模教育软件现场实验（Dynarski et al., 2007），系统测试 16 款主流阅读与数学软件，首次在国家级评估中揭示了因果效应的高度情境[[Heterogeneity\|异质性]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
+> - **2009–2015 — 规模化扩张与分层证据驱动** 配合奥巴马政府《美国复苏与再投资法案》（ARRA）和争向顶峰（Race to the Top）计划，受托承担总规模达 14 亿美元的投资创新项目（i3）独立评价监督，全面确立分层因果证据审查体系。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
+> - **2016–至今 — 证据法典深化与英美跨国互鉴** 对接《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）四大证据层级要求，持续升级 WWC 评价手册至第 5 版；与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）共同构成全球教育现场因果评估的最大双引擎，其资助的试验构成了国际[[Evidence-Based Education\|循证教育]][[Meta-analysis\|元分析]]的基石。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
 
 ---
 
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **机构领导层** 由美国总统任命并经参议院确认的 [[Institute of Education Sciences|IES]] 院长领导，设 NCEE 专任专员（Commissioner）主管日常全部业务与评估合同审批。
+> - **机构领导层** 由美国总统任命并经参议院确认的 [[Institute of Education Sciences\|IES]] 院长领导，设 NCEE 专任专员（Commissioner）主管日常全部业务与评估合同审批。
 > - **常设四大业务分支**
 >   1. **评估处（Evaluation Division）** — 直接监管联邦重大法定项目的独立外部第三方评价合同；
->   2. **[[What Works Clearinghouse|有效干预清算中心]]（WWC Branch）** — 负责[[Evidence Standards|证据标准]]手册研发、认证系统评价员资格与干预指南编写；
+>   2. **[[What Works Clearinghouse\|有效干预清算中心]]（WWC Branch）** — 负责[[Evidence Standards\|证据标准]]手册研发、认证系统评价员资格与干预指南编写；
 >   3. **区域教育实验室处（RELs Branch）** — 统管全美 10 个跨州区域实验室，开展地方性合作研究与技术援助；
->   4. **国家教育图书馆与 [[Education Resources Information Center|ERIC]] 处** — 维护全球最大的开放获取教育[[Document|文献]]数据库。
+>   4. **国家教育图书馆与 [[Education Resources Information Center\|ERIC]] 处** — 维护全球最大的开放获取教育[[Document\|文献]]数据库。
 > - **外部科学咨询理事会** 由国家教育科学委员会（National Board for Education Sciences, NBES）提供同行评议监督与战略指导。
 
 > [!pathways]- 业务运行机制与独立性制度特征
-> - **法定独立评估采购** 依据 ESRA 规定，NCEE 必须通过公开竞争性招标，将评估合同授予无利益冲突的外部独立研究机构（如 Mathematica、MDRC、SRI International、[[AIR Model of Epistemic Cognition|AIR]]）。
-> - **受资助者自选评估模式的实践偏离** 区别于英国 [[Education Endowment Foundation|EEF]] 由基金会直接统一竞聘评估团队并签署三方独立协议的模式，NCEE 在支持 i3 等竞争性拨款时，允许项目申请者（方案研发者或学区）自行物色[[Evaluator Independence|独立评估者]]并由其管理资助款项。这一模式虽然达成了 97% 的名义独立性，但由于缺乏实质利益冲突审查机制，导致评估者受制于开发者偏好，显著偏向选择[[Quasi-Experimental Designs|准实验设计]]（QED）并导致高[[Attrition|流失]]率（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 50–51]]）。
+> - **法定独立评估采购** 依据 ESRA 规定，NCEE 必须通过公开竞争性招标，将评估合同授予无利益冲突的外部独立研究机构（如 Mathematica、MDRC、SRI International、[[AIR Model of Epistemic Cognition\|AIR]]）。
+> - **受资助者自选评估模式的实践偏离** 区别于英国 [[Education Endowment Foundation\|EEF]] 由基金会直接统一竞聘评估团队并签署三方独立协议的模式，NCEE 在支持 i3 等竞争性拨款时，允许项目申请者（方案研发者或学区）自行物色[[Evaluator Independence\|独立评估者]]并由其管理资助款项。这一模式虽然达成了 97% 的名义独立性，但由于缺乏实质利益冲突审查机制，导致评估者受制于开发者偏好，显著偏向选择[[Quasi-Experimental Designs\|准实验设计]]（QED）并导致高[[Attrition\|流失]]率（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。
 
 ---
 
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **[[What Works Clearinghouse|WWC]] [[Evidence Standards|证据标准]]体系** 研制并发布全球教育界采纳最广泛的因果实证审查手册（Handbook v1.0–v5.0），确立包括无保留达到标准（Meets without Reservations）、有保留达到标准（Meets with Reservations）及未达到标准的判定体系。
-> - **全美重大教育法案与项目独立评估** 组织完成对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）、[[Title I of the Elementary and Secondary Education Act|Title I]] 补偿性资助、全美教育软件效能评估（Dynarski et al., 2007）、[[Partnership Schools Kura Hourua|特许学校]]扩张、阅读优先（Reading First）、干预响应模型（[[Response to Intervention|RTI]]）以及 i3 创新基金的数十项全国性因果影响评估报告。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 42)]]; [[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
-> - **WWC [[Recommendations for Practice|实践建议]]指南（Practice Guides）** 汇集顶尖专家小组，结合[[Systematic Review|系统综述]]评级，为学校一线校长和教师提炼关于阅读、数学教学、行为干预及高中防辍学的实证操作指南。
+> - **[[What Works Clearinghouse\|WWC]] [[Evidence Standards\|证据标准]]体系** 研制并发布全球教育界采纳最广泛的因果实证审查手册（Handbook v1.0–v5.0），确立包括无保留达到标准（Meets without Reservations）、有保留达到标准（Meets with Reservations）及未达到标准的判定体系。
+> - **全美重大教育法案与项目独立评估** 组织完成对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）、[[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿性资助、全美教育软件效能评估（Dynarski et al., 2007）、特许学校扩张、阅读优先（Reading First）、干预响应模型（[[Response to Intervention\|RTI]]）以及 i3 创新基金的数十项全国性因果影响评估报告。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 23)]]
+> - **WWC [[Recommendations for Practice\|实践建议]]指南（Practice Guides）** 汇集顶尖专家小组，结合[[Systematic Review\|系统综述]]评级，为学校一线校长和教师提炼关于阅读、数学教学、行为干预及高中防辍学的实证操作指南。
 > - **区域教育实验室网络（REL Network）** 维系全美 10 大区域伙伴联盟，解决各州教育厅与公立学区提出的紧迫地方实证研究需求。
 
 > [!citation-card] 法定独立性授权与科学证据生成
-> ESRA 法案明确规定，国家教育评估与区域援助中心（NCEE）必须通过向独立于部门之外且没有利益冲突的外部专家以竞争性方式授予评估合同，以此开展客观独立的教育评估。NCEE 的法定使命在于系统评估由联邦资助的重大教育项目的成效，确保国家教育改革决策建立在坚实的科学因果证据之上。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
+> ESRA 法案明确规定，国家教育评估与区域援助中心（NCEE）必须通过向独立于部门之外且没有利益冲突的外部专家以竞争性方式授予评估合同，以此开展客观独立的教育评估。NCEE 的法定使命在于系统评估由联邦资助的重大教育项目的成效，确保国家教育改革决策建立在坚实的科学因果证据之上。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 >
 > *"ESRA requires that the NCEE conduct independent evaluations by 'awarding evaluation contracts competitively to experts external to the Department who are free from conflicts of interest'. The primary mission of NCEE is to conduct large-scale, rigorous evaluations of federal education programs and provide actionable evidence to improve education policy and practice."*
 
@@ -142,13 +141,13 @@ updated: 2026-09-17
 
 > [!indicators]- 影响力维度与指标
 > - **评估项目规模** 成立二十年来主持及资助了数百项跨州、跨学区的大规模现场因果试验，覆盖数百万受试学童。
-> - **[[Evidence Standards|证据标准]]全球外溢** [[What Works Clearinghouse|WWC]] 证据审查框架被[[OECD|经合组织]]（OECD）、澳大利亚 [[Australian Education Research Organisation|AERO]] 及全球数十个国家循证中介机构深度参考或采纳。
-> - **政策问责重塑** 使得联邦教育财政资助（从 i3 到 [[Education Innovation and Research|EIR]]、从 [[Title I of the Elementary and Secondary Education Act|Title I]] 到 Comprehensive Support）全量与因果证据层级深度挂钩。
+> - **[[Evidence Standards\|证据标准]]全球外溢** [[What Works Clearinghouse\|WWC]] 证据审查框架被[[OECD\|经合组织]]（OECD）、澳大利亚 [[Australian Education Research Organisation\|AERO]] 及全球数十个国家循证中介机构深度参考或采纳。
+> - **政策问责重塑** 使得联邦教育财政资助（从 i3 到 [[Education Innovation and Research\|EIR]]、从 [[Title I of the Elementary and Secondary Education Act\|Title I]] 到 Comprehensive Support）全量与因果证据层级深度挂钩。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **塑造现代教育[[Experimental Research|实验研究]]规范** NCEE 推动了统计功效计算、[[Intraclass Correlation Coefficient|群内相关系数]]（ICC）校正、基线平衡检验以及[[Attrition|差异流失]]边界模型的全面普及。
-> - **与英国 [[Education Endowment Foundation|EEF]] 共同构成全球现场 [[Randomised Controlled Trials|RCT]] 试验主源泉** Lortie-Forgues & Inglis (2019) 审视的 141 项大规模现场教育 RCT（受试学生达 1,222,024 人）全部来自于 NCEE 与英国 EEF 资助的公开成果，是世界范围内最大规模的现场教育因果数据库。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
-> - **揭示传统架构干预的成效瓶颈** NCEE 针对全美 [[Response to Intervention|RTI]] 实施的里程碑式评估（Balu et al., 2015）证实，缺乏经验证教学方案的组织性分层往往难以改善后进生成绩，从而强力推动了全美[[Evidence-Based Education|循证教育]]从“空泛框架”向“成熟实证方案”的[[Paradigm|范式]]转型。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 23)]]
+> - **塑造现代教育[[Experimental Research\|实验研究]]规范** NCEE 推动了统计功效计算、[[Intraclass Correlation Coefficient\|群内相关系数]]（ICC）校正、基线平衡检验以及[[Attrition\|差异流失]]边界模型的全面普及。
+> - **与英国 [[Education Endowment Foundation\|EEF]] 共同构成全球现场 [[Randomised Controlled Trials\|RCT]] 试验主源泉** Lortie-Forgues & Inglis (2019) 审视的 141 项大规模现场教育 RCT（受试学生达 1,222,024 人）全部来自于 NCEE 与英国 EEF 资助的公开成果，是世界范围内最大规模的现场教育因果数据库。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
+> - **揭示传统架构干预的成效瓶颈** NCEE 针对全美 [[Response to Intervention\|RTI]] 实施的里程碑式评估（Balu et al., 2015）证实，缺乏经验证教学方案的组织性分层往往难以改善后进生成绩，从而强力推动了全美[[Evidence-Based Education\|循证教育]]从“空泛框架”向“成熟实证方案”的[[Paradigm\|范式]]转型。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 23)]]
 
 > [!stat-cards]- 核心规模数据
 > - **141 项现场 RCT 联合源头** 与英国 EEF 共同构成了全球 141 项超大规模教育因果现场试验的资助与产出母体（覆盖 122 万学童）。
@@ -161,19 +160,19 @@ updated: 2026-09-17
 > [!debates] 核心争议交锋
 >
 > > [!axis] 独立性形式化与利益冲突妥协
-> > [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] 剖析指出，NCEE 在支持 i3 项目时采取由开发者自聘评估机构的松散模式，带来了严重的制度漏洞：虽然 97% 的项目表面上符合独立性要求，但由于评估者的资金由被评项目方拨付，极易屈服于开发者的设计偏好，导致大量试验降级为准实验（[[Quasi-Experimental Designs|QED]]）；最终仅 68%（13/19 项）达到 [[What Works Clearinghouse|WWC]] 最高因果标准，且 WWC 允许的总体[[Attrition|流失]]率门槛高达 55%，远逊于英国 [[Education Endowment Foundation|EEF]] 的刚性三方独立防火墙。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 50–51)]]
+> > [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] 剖析指出，NCEE 在支持 i3 项目时采取由开发者自聘评估机构的松散模式，带来了严重的制度漏洞：虽然 97% 的项目表面上符合独立性要求，但由于评估者的资金由被评项目方拨付，极易屈服于开发者的设计偏好，导致大量试验降级为准实验（[[Quasi-Experimental Designs\|QED]]）；最终仅 68%（13/19 项）达到 [[What Works Clearinghouse\|WWC]] 最高因果标准，且 WWC 允许的总体[[Attrition\|流失]]率门槛高达 55%，远逊于英国 [[Education Endowment Foundation\|EEF]] 的刚性三方独立防火墙。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
 > >
 > > - **英国 EEF 评估团队** 批评自选自聘模式存在根本性的结构性偏倚隐患，主张建立集中化专家库竞聘机制。
 > > - **美国联邦管理团队** 辩护称自聘模式能提高申请灵活性，适应学区复杂多元的本地实施诉求。
 >
 > > [!axis] “无信息量”指责与微弱效应解释之争
-> > Lortie-Forgues & Inglis (2019) 重新分析 NCEE 与 EEF 资助的 141 项 [[Randomised Controlled Trials|RCT]] 后，发现平均[[Effect Size|效应量]]仅为 0.06 个标准差，且平均[[Confidence Interval|置信区间]]宽达 0.30 个标准差，断言多数试验在统计推断上极其不精确并“缺乏实质信息量”。
+> > Lortie-Forgues & Inglis (2019) 重新分析 NCEE 与 EEF 资助的 141 项 [[Randomised Controlled Trials\|RCT]] 后，发现平均[[Effect Size\|效应量]]仅为 0.06 个标准差，且平均[[Confidence Interval\|置信区间]]宽达 0.30 个标准差，断言多数试验在统计推断上极其不精确并“缺乏实质信息量”。
 > >
 > > - **批评学者** 认为耗资数亿美元的大规模现场试验无法区分干预进展与测量噪音，性价比存疑。
-> > - **NCEE 与 EEF 研究阵营** 指出不能孤立依据置信区间宽度抹杀试验价值；排除无效做法本身具有极高财政价值，且随着机构样本动员能力演进，[[Effective Sample Size|有效样本量]]翻番已使试验精度稳步提升。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 56–57)]]
+> > - **NCEE 与 EEF 研究阵营** 指出不能孤立依据置信区间宽度抹杀试验价值；排除无效做法本身具有极高财政价值，且随着机构样本动员能力演进，[[Effective Sample Size\|有效样本量]]翻番已使试验精度稳步提升。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
 
 > [!citation-card] 英美评估独立性制度设计比较
-> 与 EEF 具有可比性的机构是[[Institute of Education Sciences|美国教育部教育科学研究院]]旗下的国家教育评估与区域援助中心（NCEE）。ESRA 法律要求 NCEE 必须通过公开竞争向无利益冲突的外部专家授予合同以开展独立评估。然而在实践中，受资助者被允许自行物色评估团队并管理经费。对 NCEE 支持的 65 项 i3 [[Evaluation Research|评估研究]]显示，虽然 97% 表面上属于独立评估，但缺乏针对评估者利益冲突的实质性审查；其后果之一是试验往往更倾向于采用准实验（QED）而非严格的 RCT 设计，仅约三分之二的项目达到了 WWC 无保留标准。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
+> 与 EEF 具有可比性的机构是[[Institute of Education Sciences\|美国教育部教育科学研究院]]旗下的国家教育评估与区域援助中心（NCEE）。ESRA 法律要求 NCEE 必须通过公开竞争向无利益冲突的外部专家授予合同以开展独立评估。然而在实践中，受资助者被允许自行物色评估团队并管理经费。对 NCEE 支持的 65 项 i3 [[Evaluation Research\|评估研究]]显示，虽然 97% 表面上属于独立评估，但缺乏针对评估者利益冲突的实质性审查；其后果之一是试验往往更倾向于采用准实验（QED）而非严格的 RCT 设计，仅约三分之二的项目达到了 WWC 无保留标准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 >
 > *"A comparable organization to the EEF is the U.S. Department of Education’s Institute for Education Sciences (IES) and its evaluation arm; the National Centre for Education Evaluation and Regional Assistance (NCEE)... Yet, to meet this requirement, grantees are expected to select the evaluator themselves, name them in their grant application, and are responsible for administering the grant funds. ... One consequence of this approach may be that there are fewer RCTs and more quasi-experimental designs (QEDs) commissioned."*
 

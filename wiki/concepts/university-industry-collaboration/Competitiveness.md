@@ -50,7 +50,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!info]
-> 高等教育中的竞争力（competitiveness）是指一种重新组织大学行为的地缘政治装置（geopolitical apparatus）：通过排名、指标化、审计文化和证据导向等实践，将大学转化为彼此竞争的市场参与者，从而改变大学的制度惯例、使命定位和治理逻辑([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.219–220]])。
+> 高等教育中的竞争力（competitiveness）是指一种重新组织大学行为的地缘政治装置（geopolitical apparatus）：通过排名、指标化、审计文化和证据导向等实践，将大学转化为彼此竞争的市场参与者，从而改变大学的制度惯例、使命定位和治理逻辑([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.219–220]])。
 
 竞争力的运作不依赖传统的强制手段，也不仅仅关乎"谁更好"的比较——它更根本的意义在于通过 [[Performativity of Measurement|测量的生产性]] 重新定义"什么是好的大学"以及"什么是好的学生"，从而重塑高等教育的目标和优先事项。
 

@@ -64,13 +64,13 @@ updated: 2026-09-15
 ## 工具定位
 
 > [!instrument-profile] AAC&U VALUE Rubrics（Valid Assessment of Learning in Undergraduate Education）
-> - **工具类型** [[Authentic Assessment|表现性评价]]标准与质性评分量规套件（Performance Assessment Scoring Rubrics）。
+> - **工具类型** [[Authentic Assessment\|表现性评价]]标准与质性评分量规套件（Performance Assessment Scoring Rubrics）。
 > - **开发者与年份** 美国大学与学院协会（Association of American Colleges and Universities, AAC&U; Rhodes, 2009）。
-> - **测量目的** 评估本科生在[[General Education|通识教育]]与专业学习中达到的 16 项核心学习成果（涵盖[[Critical Thinking|批判性思维]]、[[Creativity|创造性思维]]、[[Problem Solving|问题解决]]、公民参与等），作为标准化纸笔测验的校本[[Authentic Assessment|真实性评价]]替代方案。
+> - **测量目的** 评估本科生在[[General Education\|通识教育]]与专业学习中达到的 16 项核心学习成果（涵盖[[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、[[Problem Solving\|问题解决]]、公民参与等），作为标准化纸笔测验的校本[[Authentic Assessment\|真实性评价]]替代方案。
 > - **实施方式** 基于课程嵌入式真实学业作品（Authentic Student Work，如学术论文、设计项目、研究报告、反思档案袋）开展质性评审与表现分级。
 
 > [!citation-card]- 核心设计理念
-> VALUE 量规由全美上百所高校的教师团队共同研制，旨在将广泛认同的高等教育[[21st Century Skills and Competencies Discourse|核心素养]]转化为具体的表现描述符。它不依赖外部统一考试，而是直接嵌入日常教学作品，通过校内校准评分实现学习质量的形成性诊断与跨校基准比对。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–27)]]
+> VALUE 量规由全美上百所高校的教师团队共同研制，旨在将广泛认同的高等教育[[21st Century Skills and Competencies Discourse\|核心素养]]转化为具体的表现描述符。它不依赖外部统一考试，而是直接嵌入日常教学作品，通过校内校准评分实现学习质量的形成性诊断与跨校基准比对。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–27)]]
 >
 > *The VALUE rubrics were developed by teams of faculty to assess student work across 16 essential learning outcomes... They provide a national framework to measure authentic student achievement without relying on standardized testing.*
 
@@ -78,7 +78,7 @@ updated: 2026-09-15
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]与[[Creativity|创造性思维]]量规维度
+> [!construct-table] [[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]量规维度
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 量规模块 | 核心维度 | 评定重点 | 表现阶梯 |

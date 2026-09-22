@@ -39,7 +39,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 阿纳托利·瓦西里耶维奇·卢那察尔斯基（Anatoly Vasilyevich Lunacharsky, 1875–1933），苏俄首任教育人民委员（People's Commissar for Education），任职期为 1917 年 10 月至 1929 年 9 月。主持了早期苏联教育体系的建立，Dewey 认为 Lunacharsky 创办的学校将学生与工业生产连接起来，同时避免给予学生"单一技术"训练，而是教授可跨行业应用的技能与理念([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.105]])。Dewey 1928 年访苏的亲邀者。
+> - **身份位置** 阿纳托利·瓦西里耶维奇·卢那察尔斯基（Anatoly Vasilyevich Lunacharsky, 1875–1933），苏俄首任教育人民委员（People's Commissar for Education），任职期为 1917 年 10 月至 1929 年 9 月。主持了早期苏联教育体系的建立，Dewey 认为 Lunacharsky 创办的学校将学生与工业生产连接起来，同时避免给予学生"单一技术"训练，而是教授可跨行业应用的技能与理念([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.105]])。Dewey 1928 年访苏的亲邀者。
 
 ---
 
@@ -56,7 +56,7 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!abstract]
-> Lunacharsky 的教育政策将学校教育与工业生产连接，但区别于狭隘的职业训练——他的学校不给学生"单一技术"训练，而是传授可在多种行业和领域中迁移应用的技能与理念([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.105]])。这一做法引起了 Dewey 的兴趣，因为它在某种程度上回应了 Dewey 对"教育即生活"和"学校即社会"的构想。
+> Lunacharsky 的教育政策将学校教育与工业生产连接，但区别于狭隘的职业训练——他的学校不给学生"单一技术"训练，而是传授可在多种行业和领域中迁移应用的技能与理念([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.105]])。这一做法引起了 Dewey 的兴趣，因为它在某种程度上回应了 Dewey 对"教育即生活"和"学校即社会"的构想。
 
 ---
 
@@ -64,7 +64,7 @@ updated: 2026-09-11
 
 > [!success]
 > - 作为首任教育人民委员，主持建立了早期苏联教育体系的基本框架，其政策影响了苏联此后数十年的教育方向。
-> - 通过邀请 Dewey 和美国教育者代表团访问苏联，推动了美苏在教育领域的直接交流——尽管两国当时尚未建立正式外交关系（美国迟至 1933 年才承认苏联）([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.105, 109]])。
-> - Dewey 在 Impressions of the Revolutionary World 中对 Lunacharsky 的教育政策给予了关注和记录([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.105]])。
+> - 通过邀请 Dewey 和美国教育者代表团访问苏联，推动了美苏在教育领域的直接交流——尽管两国当时尚未建立正式外交关系（美国迟至 1933 年才承认苏联）([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.105, 109]])。
+> - Dewey 在 Impressions of the Revolutionary World 中对 Lunacharsky 的教育政策给予了关注和记录([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.105]])。
 
 ---

@@ -72,7 +72,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **[[Knowledge Mobilisation|知识动员]]的推拉模型（Push and Pull Models of Knowledge Mobilisation）** 是知识动员与[[Research Utilization|研究利用]]领域的双机制分析模型。该模型将知识在系统中的流动划分为两大互补形态：**供给推送（Push）** 是指由研究生产者、中介机构或政策行政部门主导，侧重于系统性研究产出、证据综合、数据库建设及政策简报的单向发布与分发；**需求牵引（Pull）** 是指以一线[[School Leadership|学校领导]]者与教师等终端实践者为中心，立足具体教学现场问题与改进愿景，主动检索、审慎批判、吸收并调适适切外部证据的探究过程（Lavis et al., 2003; Nutley et al., 2007; [[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al., 2022, pp. 183–185, 193–195]]）。随着知识动员理论的深化，该模型进一步拓展出**双向互动与知识协同（Linkage and Exchange / [[Knowledge Co-production|co-production]]）**机制，倡导超越传统单向供给推送的路径依赖，将系统资源向培育实践端的[[Absorptive Capacity|吸收能力]]（Absorptive Capacity）与组织使能条件深度倾斜。
+> **[[Knowledge Mobilisation\|知识动员]]的推拉模型（Push and Pull Models of Knowledge Mobilisation）** 是知识动员与[[Research Utilization\|研究利用]]领域的双机制分析模型。该模型将知识在系统中的流动划分为两大互补形态：**供给推送（Push）** 是指由研究生产者、中介机构或政策行政部门主导，侧重于系统性研究产出、证据综合、数据库建设及政策简报的单向发布与分发；**需求牵引（Pull）** 是指以一线[[School Leadership\|学校领导]]者与教师等终端实践者为中心，立足具体教学现场问题与改进愿景，主动检索、审慎批判、吸收并调适适切外部证据的探究过程（Lavis et al., 2003; Nutley et al., 2007; [[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022, pp. 183–185, 193–195]]）。随着知识动员理论的深化，该模型进一步拓展出**双向互动与知识协同（Linkage and Exchange / [[Knowledge Co-production\|co-production]]）**机制，倡导超越传统单向供给推送的路径依赖，将系统资源向培育实践端的[[Absorptive Capacity\|吸收能力]]（Absorptive Capacity）与组织使能条件深度倾斜。
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 研究证据生产端与实践应用端之间的知识流动机制、动力来源与权力关系结构。
@@ -80,12 +80,12 @@ updated: 2026-09-17
 > - **适用边界** 用于分析知识动员系统的动力学结构；并非非此即彼的绝对二元对立，而是一个需要保持动态平衡的系统光谱。
 
 > [!citation-card] Rickinson et al. 论从供给驱动转向需求牵引
-> 教育研究利用的重心必须从单纯关注研究证据的生产与供给（Push），转向深耕实践端对适切证据的审慎参与和实施（Pull）；[[Quality Use of Research Evidence Framework|高质量研究使用]]不仅取决于恰当的研究证据与深思熟虑的行动整合，更有赖于个体素养心智、学校领导力与互信文化，以及破除时间匮乏困境的系统性制度保障。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 183–185)]]
+> 教育研究利用的重心必须从单纯关注研究证据的生产与供给（Push），转向深耕实践端对适切证据的审慎参与和实施（Pull）；[[Quality Use of Research Evidence Framework\|高质量研究使用]]不仅取决于恰当的研究证据与深思熟虑的行动整合，更有赖于个体素养心智、学校领导力与互信文化，以及破除时间匮乏困境的系统性制度保障。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 183–185)]]
 >
 > *Efforts need to shift from a primary focus on the production and pushing of research towards supporting the thoughtful engagement with and implementation of appropriate research evidence by practitioners.*
 
 > [!boundary]- 概念边界
-> - **不等于 纯粹技术性的信息检索与分发技术** 推拉模型关注的是涉及专业认知、[[Organizational Culture|组织文化]]与治理结构的社会交互机制，而非单纯的数字网络传输技术。
+> - **不等于 纯粹技术性的信息检索与分发技术** 推拉模型关注的是涉及专业认知、[[Organizational Culture\|组织文化]]与治理结构的社会交互机制，而非单纯的数字网络传输技术。
 > - **不等于 割裂对立的零和博弈** 强调供给推送与需求牵引相辅相成；没有优质规范的学术证据产出（Push），实践端的需求牵引将缺乏源头活水；没有深思熟虑的吸收与调适（Pull），供给侧的推送成果便沦为数字信息冗余。
 
 ---
@@ -107,11 +107,11 @@ updated: 2026-09-17
 
 推拉模型将宏观证据流动与微观学校吸收有机连接，涵盖四个核心机制构件。
 
-> [!feature] [[Knowledge Mobilisation|知识动员]]推拉框架的四大系统构件
-> - **供给端推送基础设施（Push Infrastructure）** 学术界与中介机构开展的[[Systematic Review|系统综述]]、证据清除所、标准化工具箱与政策简报制作。
-> - **需求端组织[[Absorptive Capacity|吸收能力]]（Pull Absorptive Capacity）** 学校与教师识别教学问题、评估证据质量、情境化改造以及在课堂开展微观试验的专业素养。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 186–187)]]
-> - **校级使能支持生态（Enabling Organisational Ecology）** 领导者亲身示范、[[Professional Learning Community|专业学习共同体]]（PLCs）研讨与日常工作排程中刚性划拨的专有研读工时。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 188, 191–193)]]
-> - **双向中介与伙伴网络（Brokerage and Partnership Networks）** 跨界中介机构、[[Embedded Researcher|嵌入式研究者]]与学区教研联盟，促成供需双方的长期[[Dialogue in Education|对话]]与协同设计。
+> [!feature] [[Knowledge Mobilisation\|知识动员]]推拉框架的四大系统构件
+> - **供给端推送基础设施（Push Infrastructure）** 学术界与中介机构开展的[[Systematic Review\|系统综述]]、证据清除所、标准化工具箱与政策简报制作。
+> - **需求端组织[[Absorptive Capacity\|吸收能力]]（Pull Absorptive Capacity）** 学校与教师识别教学问题、评估证据质量、情境化改造以及在课堂开展微观试验的专业素养。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 186–187)]]
+> - **校级使能支持生态（Enabling Organisational Ecology）** 领导者亲身示范、[[Professional Learning Community\|专业学习共同体]]（PLCs）研讨与日常工作排程中刚性划拨的专有研读工时。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 188, 191–193)]]
+> - **双向中介与伙伴网络（Brokerage and Partnership Networks）** 跨界中介机构、[[Embedded Researcher\|嵌入式研究者]]与学区教研联盟，促成供需双方的长期[[Dialogue in Education\|对话]]与协同设计。
 
 > [!logic-map]- 推拉模型在教育生态系统中的动态运转机制
 > ```mermaid
@@ -150,7 +150,7 @@ updated: 2026-09-17
 > 探讨为何学术界大量生产的严密证据无法自然在学校现场落地，剖析线性传播模型的结构性盲区。
 
 > [!claim] Rickinson et al.; Lavis et al.
-> **线性传递[[Hypothesis|假设]]失效** [[Knowledge Mobilisation|知识动员]]的线性供给推送模型假定，只要研究者生产出方法学严谨的高等级证据并将其转化为通俗简报，实践端就会自然而然地采纳并应用。[[Mark Rickinson|马克·里金森]]（Mark Rickinson）与约翰·拉维斯（John Lavis）等学者尖锐指出，这种供给偏误完全脱离了真实的教学现场。研究证据不能自行发声，任何抽象结论都必须经过教育者结合具体学情、资源限制与学校文化的二次审议与情境化重构；缺乏需求端[[Absorptive Capacity|吸收能力]]与落地支持的单向推送，不仅无法改善教学，反而会导致学校陷入机械采购外来方案或应付行政问责的浅层形式主义。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 183–184)]]
+> **线性传递[[Hypothesis\|假设]]失效** [[Knowledge Mobilisation\|知识动员]]的线性供给推送模型假定，只要研究者生产出方法学严谨的高等级证据并将其转化为通俗简报，实践端就会自然而然地采纳并应用。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）与约翰·拉维斯（John Lavis）等学者尖锐指出，这种供给偏误完全脱离了真实的教学现场。研究证据不能自行发声，任何抽象结论都必须经过教育者结合具体学情、资源限制与学校文化的二次审议与情境化重构；缺乏需求端[[Absorptive Capacity\|吸收能力]]与落地支持的单向推送，不仅无法改善教学，反而会导致学校陷入机械采购外来方案或应付行政问责的浅层形式主义。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 183–184)]]
 
 ---
 
@@ -160,7 +160,7 @@ updated: 2026-09-17
 > 探讨如何从根本上激活实践者的主动求索动力，论证组织使能构件与制度化减负的先决地位。
 
 > [!claim] Rickinson et al.; Torres
-> **使能投资与需求激活** 需求牵引并非教师个体的自发本能，而是高度依赖微观学校组织生态培育与宏观制度减负的使能过程。里金森与米格尔·[[Carlos Alberto Torres|托雷斯]]（Miguel Torres）等学者证实，一线教师在缺乏判断信心与遭遇严重时间赤字的情境下，根本无法启动有效的需求牵引；唯有[[School Leadership|学校领导]]者躬身示范[[Research Translation|研究转化]]、依托[[Professional Learning Community|专业学习共同体]]（PLCs）开展集体研讨，并在日常排课中刚性划拨专有研读工时，实践者才能真正形成批判探究心智，完成从被动接收到主动拉动证据的根本转型。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 191–195)]]; [[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 49–51)]]
+> **使能投资与需求激活** 需求牵引并非教师个体的自发本能，而是高度依赖微观学校组织生态培育与宏观制度减负的使能过程。里金森与米格尔·[[Carlos Alberto Torres\|托雷斯]]（Miguel Torres）等学者证实，一线教师在缺乏判断信心与遭遇严重时间赤字的情境下，根本无法启动有效的需求牵引；唯有[[School Leadership\|学校领导]]者躬身示范[[Research Translation\|研究转化]]、依托[[Professional Learning Community\|专业学习共同体]]（PLCs）开展集体研讨，并在日常排课中刚性划拨专有研读工时，实践者才能真正形成批判探究心智，完成从被动接收到主动拉动证据的根本转型。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 191–195)]]; [[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 49–51)]]
 
 ---
 
@@ -177,9 +177,9 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2003 — 卫生政策领域的推拉理论奠基** 约翰·拉维斯（John Lavis）等学者在[[Systematic Review|系统综述]][[Knowledge Transfer|知识转移]]模型时，明确提出以研究者为中心的推送（Push）、以使用者为中心的拉动（Pull）与互动知识交换（Exchange）的三维分类框架。
+> - **2003 — 卫生政策领域的推拉理论奠基** 约翰·拉维斯（John Lavis）等学者在[[Systematic Review\|系统综述]][[Knowledge Transfer\|知识转移]]模型时，明确提出以研究者为中心的推送（Push）、以使用者为中心的拉动（Pull）与互动知识交换（Exchange）的三维分类框架。
 > - **2007 — 公共政策与公共服务领域拓展** 桑德拉·纳特利（Sandra Nutley）等人在著作中将推拉模型引入循证政策与社会公共服务评估，分析知识流动各环节的动力机制与阻滞瓶颈。
-> - **2020–2022 — 教育证据生态中的重构与落地** [[OECD|经合组织]]（OECD）研究项目与[[Monash Q Project|莫纳什 Q 项目]]将推拉模型全面引入教育政策与基础教育实践治理。[[Carlos Alberto Torres|托雷斯]]与里金森等学者系统批判了长期垄断教育政策的单向学术供给推送偏误，提出将战略重心转向微观学校的需求牵引、[[Absorptive Capacity|吸收能力]]与[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE）。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 183–185)]]
+> - **2020–2022 — 教育证据生态中的重构与落地** [[OECD\|经合组织]]（OECD）研究项目与[[Monash Q Project\|莫纳什 Q 项目]]将推拉模型全面引入教育政策与基础教育实践治理。[[Carlos Alberto Torres\|托雷斯]]与里金森等学者系统批判了长期垄断教育政策的单向学术供给推送偏误，提出将战略重心转向微观学校的需求牵引、[[Absorptive Capacity\|吸收能力]]与[[Quality Use of Research Evidence Framework\|高质量研究使用框架]]（QURE）。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 183–185)]]
 
 ---
 
@@ -190,17 +190,17 @@ updated: 2026-09-17
 > > [!axis] 资源配置优先序争端
 > > 学界在证据动员战略上存在供给侧优先与需求端优先的分歧。
 > >
-> > - **学术供给阵营** 坚持优先保障严谨因果[[Experimental Research|实验研究]]与大型[[Meta-analysis|元分析]]的资助，认为没有高质量规范证据库，任何需求牵引都将沦为盲目摸索。
-> > - **实践使能阵营** 强调数十年的证据库建设已导致“学术生产过剩与实践吸收乏力”并存，系统必须将增量资金转向学校教师工时保障与教研组织建设。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson et al., 2022, pp. 193–195)]]
+> > - **学术供给阵营** 坚持优先保障严谨因果[[Experimental Research\|实验研究]]与大型[[Meta-analysis\|元分析]]的资助，认为没有高质量规范证据库，任何需求牵引都将沦为盲目摸索。
+> > - **实践使能阵营** 强调数十年的证据库建设已导致“学术生产过剩与实践吸收乏力”并存，系统必须将增量资金转向学校教师工时保障与教研组织建设。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 193–195)]]
 
 > [!warning] 适用局限
-> - **需求窄化与消费主义陷阱** 若过度迎合实践端的短期需求牵引（Pull），可能诱发教学中的功利[[Pragmatic Paradigm|实用主义]]倾向，使学校仅搜寻能立竿见影提高标准化测验分数的应急处方，忽视具有深层育人价值但见效较慢的基础理论。
+> - **需求窄化与消费主义陷阱** 若过度迎合实践端的短期需求牵引（Pull），可能诱发教学中的功利[[Pragmatic Paradigm\|实用主义]]倾向，使学校仅搜寻能立竿见影提高标准化测验分数的应急处方，忽视具有深层育人价值但见效较慢的基础理论。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -212,7 +212,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022)]] — 结合澳大利亚中小学调查，论证教育[[Research Utilization|研究利用]]议程从供给驱动（Push）向需求牵引（Pull）转型的必要性，提出 [[Quality Use of Research Evidence Framework|QURE]] 框架及使能支持路径。
-> - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统梳理[[Knowledge Mobilisation|知识动员三代演进模型]]，剖析 Push、Pull 与 Exchange 机制在 [[OECD]] 成员国教育政策中的演进与配置形态。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 探讨[[Educational Brokerage Agency|知识中介机构]]在连接供给推送与需求牵引中的关键跨界功能，反思商业化异化风险。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] — 结合澳大利亚中小学调查，论证教育[[Research Utilization\|研究利用]]议程从供给驱动（Push）向需求牵引（Pull）转型的必要性，提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架及使能支持路径。
+> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统梳理[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 Push、Pull 与 Exchange 机制在 [[OECD]] 成员国教育政策中的演进与配置形态。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 探讨[[Educational Brokerage Agency\|知识中介机构]]在连接供给推送与需求牵引中的关键跨界功能，反思商业化异化风险。

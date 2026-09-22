@@ -66,9 +66,9 @@ updated: '2026-09-12'
 
 ## 工具定位
 
-> [!instrument-profile] [[OECD]] [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]量规
-> - **工具类型** 跨学科[[Authentic Assessment|表现性评价]]量规（Cross-Disciplinary Assessment Rubrics）。
-> - **开发者与年份** Vincent-Lancrin et al. / OECD 教育研究与[[Innovation Hub|创新中心]]（[[Centre for Educational Research and Innovation|CERI]]）（2019）。[[Argument_Bouckaert_2023_OECD|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]
+> [!instrument-profile] [[OECD]] [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]量规
+> - **工具类型** 跨学科[[Authentic Assessment\|表现性评价]]量规（Cross-Disciplinary Assessment Rubrics）。
+> - **开发者与年份** Vincent-Lancrin et al. / OECD 教育研究与[[Innovation Hub\|创新中心]]（[[Centre for Educational Research and Innovation\|CERI]]）（2019）。[[Argument_Bouckaert_2023_OECD\|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]
 > - **测量目的** 帮助大中小学教师将宏观抽象的批判性思维与创造力解构为可观察、可教学、可评价的课堂行为指标，支持形成性学习设计与表现性学业评价。
 > - **实施方式** 嵌入日常学科课程教学与任务考核，教师与学生依据量规阶梯描述符进行自我评估、同伴互评与教师定性评价。
 
@@ -95,14 +95,14 @@ updated: '2026-09-12'
 > 1. **萌芽水平（Emerging / Level 1）** 在教师引导下进行基础识别或尝试提出观点。
 > 2. **发展水平（Developing / Level 2）** 能独立展开常规推理与初步创意生成。
 > 3. **熟练水平（Proficient / Level 3）** 能在复杂未知情境中系统辨析论据并产出适应性创新成果。
-> 4. **卓越水平（Advanced / Level 4）** 展现高度[[Reflexivity|反身性]]与突破性思维，能引领[[Paradigm|范式]]革新与跨学科整合。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 28)]]
+> 4. **卓越水平（Advanced / Level 4）** 展现高度[[Reflexivity\|反身性]]与突破性思维，能引领[[Paradigm\|范式]]革新与跨学科整合。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 28)]]
 
 ---
 
 ## 测量学特性
 
 > [!finding-cards] 测量学特性与教学法价值
-> - **[[Ecological Validity|生态效度]]（Ecological Validity）** 深度嵌入真实学科任务与探究过程，彻底克服了封闭[[Multiple-Choice Questions|选择题]]把[[Higher-Order Thinking Skills|高阶思维]]退化为再认技巧的[[Construct|构念]]缺陷。
+> - **[[Ecological Validity\|生态效度]]（Ecological Validity）** 深度嵌入真实学科任务与探究过程，彻底克服了封闭[[Multiple-Choice Questions\|选择题]]把[[Higher-Order Thinking Skills\|高阶思维]]退化为再认技巧的[[Construct\|构念]]缺陷。
 > - **教评一体化（Formative Integration）** 不仅作为评分工具，更作为教师设计具有高阶认知挑战任务（Challenge Tasks）的教学法指南。
 
 ---
@@ -110,4 +110,4 @@ updated: '2026-09-12'
 ## 使用情况
 
 > [!usage-cases] 使用情境
-> - **[[OECD]] 国际教改实验网络** 在全球 11 个国家的数十所高校与中小学开展跨国实证干预，成为 OECD 推动高教评价改革的旗舰工具。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 28, 30)]]
+> - **[[OECD]] 国际教改实验网络** 在全球 11 个国家的数十所高校与中小学开展跨国实证干预，成为 OECD 推动高教评价改革的旗舰工具。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 28, 30)]]

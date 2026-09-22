@@ -77,39 +77,39 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 核心定义
-> 结构化教学（Structured Teaching）指在教学设计与组织过程中，通过教师或教学系统建立清晰的目标导向、逻辑严密的[[Scaffolding|认知支架]]（Scaffolding）、有序的课堂活动管理、即时的过程性反馈与理解监控，为学生提供清晰稳定的系统支持，同时维持高度能动的师生与人机交互的教学[[Paradigm|范式]]。它既不是僵化单向的教师机械讲授，也不是把所有责任全盘推给学生的放任式自学，而是在结构化支持（Structure）与能动性互动（Interaction）之间形成动态平衡，并依据学生的自我调节水平与任务复杂度弹性调整支架强度。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584–585, 592–595)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10–13)]]
+> 结构化教学（Structured Teaching）指在教学设计与组织过程中，通过教师或教学系统建立清晰的目标导向、逻辑严密的[[Scaffolding\|认知支架]]（Scaffolding）、有序的课堂活动管理、即时的过程性反馈与理解监控，为学生提供清晰稳定的系统支持，同时维持高度能动的师生与人机交互的教学[[Paradigm\|范式]]。它既不是僵化单向的教师机械讲授，也不是把所有责任全盘推给学生的放任式自学，而是在结构化支持（Structure）与能动性互动（Interaction）之间形成动态平衡，并依据学生的自我调节水平与任务复杂度弹性调整支架强度。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584–585, 592–595)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10–13)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 教学结构不仅是维持课堂秩序的外部纪律手段，更是剥离机械外在认知负荷、维持[[Epistemology|认识论]]摩擦（[[Epistemic Friction]]）、引导深层[[Higher-Order Thinking Skills|高阶思维]]推理的脚手架体系。
-> - **用途** 在基础教育改革中用于超越“教师讲坛灌输 vs 极端学生中心”的二元对立；在生成式 AI 与教育[[Technology Infusion|技术整合]]中，作为决定技术介入分化为“高阶思维协同增益”还是“[[Cognitive Offloading|认知卸载]]与侵蚀”的核心调节中介。
-> - **边界** 结构化教学绝不等于刻板的“[[Direct Instruction|直接教学]]脚本”或单一讲授模式；亦不能蜕化为缺乏反思挑战的算法黑盒式自动刷题。
+> - **含义** 教学结构不仅是维持课堂秩序的外部纪律手段，更是剥离机械外在认知负荷、维持[[Epistemology\|认识论]]摩擦（[[Epistemic Friction]]）、引导深层[[Higher-Order Thinking Skills\|高阶思维]]推理的脚手架体系。
+> - **用途** 在基础教育改革中用于超越“教师讲坛灌输 vs 极端学生中心”的二元对立；在生成式 AI 与教育[[Technology Infusion\|技术整合]]中，作为决定技术介入分化为“高阶思维协同增益”还是“[[Cognitive Offloading\|认知卸载]]与侵蚀”的核心调节中介。
+> - **边界** 结构化教学绝不等于刻板的“[[Direct Instruction\|直接教学]]脚本”或单一讲授模式；亦不能蜕化为缺乏反思挑战的算法黑盒式自动刷题。
 
-> [!citation-card] 结构与互动的共生维度（[[Argument_Håkansson_2015_TT|Håkansson, 2015a]]）
-> 一个卓越的教学维度是由结构和互动共同构成的……研究证据支持教师结构与指导的重要性，但并不支持将教学收窄为单向的讲坛式灌输。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584, 594)]]
+> [!citation-card] 结构与互动的共生维度（[[Argument_Håkansson_2015_TT\|Håkansson, 2015a]]）
+> 一个卓越的教学维度是由结构和互动共同构成的……研究证据支持教师结构与指导的重要性，但并不支持将教学收窄为单向的讲坛式灌输。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584, 594)]]
 >
 > *One superior teaching dimension consists of structure and interaction... A too far-reaching individualisation has no research support, but, on the other hand, neither does a one-sided pulpit teaching.*
 
-> [!citation-card] 智能技术整合中的结构化认知增益（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
-> ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与脚手架设计。当嵌入探究导向、反思提示与[[Dialogue in Education|对话]]式互动的结构化教学设计中时，ChatGPT 能够驱动[[Critical Thinking|批判性思维]]与[[Creativity|创造性思维]]的双向协同增益。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10)]]
+> [!citation-card] 智能技术整合中的结构化认知增益（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
+> ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与脚手架设计。当嵌入探究导向、反思提示与[[Dialogue in Education\|对话]]式互动的结构化教学设计中时，ChatGPT 能够驱动[[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]的双向协同增益。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
 >
 > *The influence of ChatGPT on student cognition is not intrinsic to the tool itself but contingent upon pedagogical framing, task design, and instructional scaffolding... structured implementations fostered synergistic CT–CrT enhancement.*
 
-> [!citation-card] 手册化结构教学与教师日常决策的现实张力（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）
-> 传统的现场试验往往聚焦于需要学校额外投入经费购买资源、手册与培训的手册化项目（Manualised Interventions）；然而，涉及深层教师微习惯的日常教学决策（如[[Homework|作业]]批改模式、课堂朗读规程）往往难以被机械的手册所完全规定，且若与外在经济激励生硬绑定，极易诱发严重的招募流产与伦理抵触。这促使循证资助机构必须将结构化指导与日常决策支持有机结合。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 55)]]
+> [!citation-card] 手册化结构教学与教师日常决策的现实张力（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
+> 传统的现场试验往往聚焦于需要学校额外投入经费购买资源、手册与培训的手册化项目（Manualised Interventions）；然而，涉及深层教师微习惯的日常教学决策（如[[Homework\|作业]]批改模式、课堂朗读规程）往往难以被机械的手册所完全规定，且若与外在经济激励生硬绑定，极易诱发严重的招募流产与伦理抵触。这促使循证资助机构必须将结构化指导与日常决策支持有机结合。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 >
-> *“Common [[Randomised Controlled Trials|RCT]] designs are not always suited to answering some kinds of questions of importance to schools and teachers... sometimes an RCT design is not acceptable to participants (e.g., Sutherland et al., 2017). [[Teacher Choices]] investigates the everyday classroom decisions that teachers make, rather than manualised interventions.”*
+> *“Common [[Randomised Controlled Trials\|RCT]] designs are not always suited to answering some kinds of questions of importance to schools and teachers... sometimes an RCT design is not acceptable to participants (e.g., Sutherland et al., 2017). [[Teacher Choices]] investigates the everyday classroom decisions that teachers make, rather than manualised interventions.”*
 
 > [!boundary]- 概念边界辨析
 > - **不等于讲坛式教学（Pulpit / Recitation Teaching）** 讲坛式教学以教师站在前方单向灌输和碎片化问答为主，学生处于被动听讲状态；结构化教学强调教师清晰组织为小组研讨、探究辩论和人机协同提供支架，倡导高质量的双向互动。
-> - **不等于机械套用直接教学（Direct Instruction）** 直接教学特指包含标准步骤、示范与即时纠错的特定教学法；结构化教学是更宽泛的教学组织原则，可灵活嵌入[[Inquiry-Based Learning|探究式学习]]、基于设计的学习（DBL）或翻转课堂中。
-> - **不等于缺乏支持的激进个别化（Unguided Individualisation）** 极端的[[Learner Autonomy|自主学习]]让学生独自承担复杂的理解与进度规划，容易导致弱势学生“表面自由、实际掉队”；结构化教学强调自主必须伴随目标、支架与多源反馈。
-> - **不等于忽视教师职业伦理的手册化干预硬性嫁接** 在现场因果试验中，成套手册化结构性干预（Manualised Programmes）若与粗暴的外在金钱奖惩（如[[Performance Pay|绩效工资]]）机械捆绑，极易破坏教师同行信任与内在专业利他认同，诱发伦理抵制乃至招募流产（Sutherland et al., 2017；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）。结构化教学指导（Instructional Coaching）的成效高度依赖于尊重新生教研生态的专业支持模式。
+> - **不等于机械套用直接教学（Direct Instruction）** 直接教学特指包含标准步骤、示范与即时纠错的特定教学法；结构化教学是更宽泛的教学组织原则，可灵活嵌入[[Inquiry-Based Learning\|探究式学习]]、基于设计的学习（DBL）或翻转课堂中。
+> - **不等于缺乏支持的激进个别化（Unguided Individualisation）** 极端的[[Learner Autonomy\|自主学习]]让学生独自承担复杂的理解与进度规划，容易导致弱势学生“表面自由、实际掉队”；结构化教学强调自主必须伴随目标、支架与多源反馈。
+> - **不等于忽视教师职业伦理的手册化干预硬性嫁接** 在现场因果试验中，成套手册化结构性干预（Manualised Programmes）若与粗暴的外在金钱奖惩（如[[Performance Pay\|绩效工资]]）机械捆绑，极易破坏教师同行信任与内在专业利他认同，诱发伦理抵制乃至招募流产（Sutherland et al., 2017；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。结构化教学指导（Instructional Coaching）的成效高度依赖于尊重新生教研生态的专业支持模式。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 教学组织与支架[[Paradigm|范式]]对比
+> [!contrast-table] 教学组织与支架[[Paradigm\|范式]]对比
 > | 比较维度 | **结构化教学（Structured Teaching）** | **[[Direct Instruction\|直接教学]]（Direct Instruction）** | **去结构化/放任个别化（Unguided Individualisation）** | **传统讲坛式教学（Pulpit Teaching）** |
 > |---|---|---|---|---|
 > | **分析定位** | 结构支撑与能动交互的动态平衡系统 | 高度程序化、目标分解的显性传授模型 | 强调学生完全自主选择与自我排期的模式 | 以教师权威与单向信息传递为中心的模式 |
@@ -123,11 +123,11 @@ updated: 2026-09-21
 ## 核心要素
 
 > [!feature] 结构化教学的核心构件
-> - **清晰目标导向与对齐[[Scaffolding|认知支架]]（Aligned Cognitive Scaffolds）** 明确短期与长期的认知进阶目标，为分析或生成任务提供分步支架与评价量规，使学生清晰把握学习方向与评价标准。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, p. 592)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]
-> - **教师清晰领导与反思引导（Teacher Leadership & Reflexive Guidance）** 教师承担课堂流程组织、关键概念解构与高阶推理示范的领导职责，确保学习活动始终聚焦核心学科思想与[[Epistemology|认识论]]标准。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 590–592)]]
-> - **递归探究任务循环（Recursive Inquiry Cycles）** 设计“人脑构想 $	o$ 工具/AI 发散扩展 $	o$ 批判性事实核查 $	o$ 迭代重构 $	o$ 综合辩护”的结构化任务流程，避免单向交差。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 12)]]
+> - **清晰目标导向与对齐[[Scaffolding\|认知支架]]（Aligned Cognitive Scaffolds）** 明确短期与长期的认知进阶目标，为分析或生成任务提供分步支架与评价量规，使学生清晰把握学习方向与评价标准。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, p. 592)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]
+> - **教师清晰领导与反思引导（Teacher Leadership & Reflexive Guidance）** 教师承担课堂流程组织、关键概念解构与高阶推理示范的领导职责，确保学习活动始终聚焦核心学科思想与[[Epistemology\|认识论]]标准。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 590–592)]]
+> - **递归探究任务循环（Recursive Inquiry Cycles）** 设计“人脑构想 $	o$ 工具/AI 发散扩展 $	o$ 批判性事实核查 $	o$ 迭代重构 $	o$ 综合辩护”的结构化任务流程，避免单向交差。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 12)]]
 > - **多源反馈与理解监控（Multi-Source [[Feedback]] & Comprehension Monitoring）** 整合智能系统的形成性评语、教师专业点拨、同伴深度质询与自我认知校准，构建四维一体的反馈生态网络。
-> - **动态支架渐退与自我调节赋权（Dynamic Fading & [[Self-Regulated Learning|SRL]] Empowerment）** 结构的强弱与介入深度随学生的先验知识储备、[[Metacognition|元认知]]成熟度及技术素养动态调整，由强支架逐步过渡到学生独立自我调节学习。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, p. 595)]]
+> - **动态支架渐退与自我调节赋权（Dynamic Fading & [[Self-Regulated Learning\|SRL]] Empowerment）** 结构的强弱与介入深度随学生的先验知识储备、[[Metacognition\|元认知]]成熟度及技术素养动态调整，由强支架逐步过渡到学生独立自我调节学习。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, p. 595)]]
 
 > [!logic-map]- 结构化教学要素及其在人机协同中的调节机制
 > ```mermaid
@@ -161,13 +161,13 @@ updated: 2026-09-21
 ### 命题一　结构化教学是高阶认知发展的决定性调节中介而非单纯的形式约束
 
 > [!concept-lens] 教学结构对高阶心智的支持机制
-> 探讨教学设计中外在结构的设立如何为内部高级心理机能的运转与师生深度互动提供不可或缺的[[Scaffolding|认知支架]]。
+> 探讨教学设计中外在结构的设立如何为内部高级心理机能的运转与师生深度互动提供不可或缺的[[Scaffolding\|认知支架]]。
 
-> [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]
-> **结构与互动的共生性** 比较[[Meta-meta-analysis|元综合]]表明，教学质量的高级维度是由“结构”与“互动”共同定义的。教师对教学目标、内容序列、时间管理与反馈机制的清晰结构化组织，绝非对学生思维的禁锢，反而为高质量的师生深度[[Dialogue in Education|对话]]、生生合作与学生探究提供了必要的安全边界与认知基础。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584, 595–596)]]
+> [!claim] [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]]
+> **结构与互动的共生性** 比较[[Meta-meta-analysis\|元综合]]表明，教学质量的高级维度是由“结构”与“互动”共同定义的。教师对教学目标、内容序列、时间管理与反馈机制的清晰结构化组织，绝非对学生思维的禁锢，反而为高质量的师生深度[[Dialogue in Education\|对话]]、生生合作与学生探究提供了必要的安全边界与认知基础。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584, 595–596)]]
 
-> [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **[[Technology Infusion|技术整合]]中的结构化调节法则** 针对高等教育 67 项实证研究的[[Systematic Review|系统综述]]证实，生成式 AI（ChatGPT）对学生认知发展的影响并非技术固有属性，而是高度依存于任务的教学情境与支架设计。当教学采用结构化探究框架（如[[Reflexivity|反思性]]提示、量规引导、ADDIE 教学模型）时，AI 能够有效中介论据分析与发散构想，在 53% 的双目标研究（n = 18）中促成[[Critical Thinking|批判性思维]]与[[Creativity|创造性思维]]的“双向协同增益”。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]
+> [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
+> **[[Technology Infusion\|技术整合]]中的结构化调节法则** 针对高等教育 67 项实证研究的[[Systematic Review\|系统综述]]证实，生成式 AI（ChatGPT）对学生认知发展的影响并非技术固有属性，而是高度依存于任务的教学情境与支架设计。当教学采用结构化探究框架（如[[Reflexivity\|反思性]]提示、量规引导、ADDIE 教学模型）时，AI 能够有效中介论据分析与发散构想，在 53% 的双目标研究（n = 18）中促成[[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]的“双向协同增益”。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 9–11)]]
 
 ---
 
@@ -176,24 +176,24 @@ updated: 2026-09-21
 > [!concept-lens] 结构缺失导致的心智外包与不平等扩大
 > 探讨在缺乏教师结构支持或规则约束的开放/个别化情境中，学习者因认知节能本能而陷入心智退化与学业受挫的机制。
 
-> [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]
-> **过度个别化引发的学业掉队** 瑞典 1990 年代以来的课堂演变表明，缺乏教师支持与结构化引导的极端个人化工作（让学生自行排期与自学），严重削弱了教师的课堂领导。对于基础薄弱、学习准备不足的学生而言，去结构化环境直接转化为“表面自由、实际掉队”，加剧了成绩危机。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 586–587, 594–595)]]
+> [!claim] [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]]
+> **过度个别化引发的学业掉队** 瑞典 1990 年代以来的课堂演变表明，缺乏教师支持与结构化引导的极端个人化工作（让学生自行排期与自学），严重削弱了教师的课堂领导。对于基础薄弱、学习准备不足的学生而言，去结构化环境直接转化为“表面自由、实际掉队”，加剧了成绩危机。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 586–587, 594–595)]]
 
-> [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **非结构化使用诱发认知侵蚀** 在非结构化、便利交差导向的无支架教学环境中，学生出于认知节能本能倾向于将思考全盘外包给大模型。算法生成的表面语义流畅性轻易绕过反思挣扎，导致“创造性表面繁荣伴随批判性萎缩”（非对称模式，n = 8）乃至批判与创造能力的“双重认知侵蚀”（n = 4）。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 9–10)]]
+> [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
+> **非结构化使用诱发认知侵蚀** 在非结构化、便利交差导向的无支架教学环境中，学生出于认知节能本能倾向于将思考全盘外包给大模型。算法生成的表面语义流畅性轻易绕过反思挣扎，导致“创造性表面繁荣伴随批判性萎缩”（非对称模式，n = 8）乃至批判与创造能力的“双重认知侵蚀”（n = 4）。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 9–10)]]
 
 ---
 
 ### 命题三　教学结构的有效性依存于与学生自我调节水平和任务复杂度的动态适配
 
 > [!concept-lens] 支架强度的情境动态调节法则
-> 探讨教学结构并非一成不变的固定配方，而是依据学习者的[[Metacognition|元认知]]能力、先验经验与任务挑战性进行动态渐退的自适应系统。
+> 探讨教学结构并非一成不变的固定配方，而是依据学习者的[[Metacognition\|元认知]]能力、先验经验与任务挑战性进行动态渐退的自适应系统。
 
-> [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]
-> **动态平衡与支架渐退机制** 教学研究不支持“固定不变的教师控制”，最佳教学实践表现为动态调整：学生越缺乏自我调节能力、任务越复杂，教师越需要提供高度结构化的目标拆解与步骤指引；随着学生独立管理能力的增强，外部结构应逐步减退，转化为内在的[[Learner Autonomy|自主学习]]。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 594–595)]]
+> [!claim] [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]]
+> **动态平衡与支架渐退机制** 教学研究不支持“固定不变的教师控制”，最佳教学实践表现为动态调整：学生越缺乏自我调节能力、任务越复杂，教师越需要提供高度结构化的目标拆解与步骤指引；随着学生独立管理能力的增强，外部结构应逐步减退，转化为内在的[[Learner Autonomy\|自主学习]]。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 594–595)]]
 
-> [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **显性素养赋权与[[Epistemological Vigilance|认识论警觉]]建构** 在人机协同学习中，结构化教学必须包含显性的[[AI Literacy|人工智能素养]]培训（AI Literacy）与反思规程，使学生在前瞻规划、过程监控与结果审定中维持“认识论警觉”，从而在技术支架逐渐隐入后台时依然具备独立的自适应专业特长（Adaptive Expertise）。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–12)]]
+> [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
+> **显性素养赋权与[[Epistemological Vigilance\|认识论警觉]]建构** 在人机协同学习中，结构化教学必须包含显性的[[AI Literacy\|人工智能素养]]培训（AI Literacy）与反思规程，使学生在前瞻规划、过程监控与结果审定中维持“认识论警觉”，从而在技术支架逐渐隐入后台时依然具备独立的自适应专业特长（Adaptive Expertise）。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–12)]]
 
 ---
 
@@ -211,9 +211,9 @@ updated: 2026-09-21
 ## 概念演变
 
 > [!dev-timeline] 概念演变脉络
-> - **2011 — 政策口号引入与教师领导重提** 瑞典 2011 年课程改革（Lgr 11）与教育条例正式引入“结构化教学（structured teaching）”，作为扭转国际测评（[[PISA]]）成绩下滑、重塑教师课堂组织与领导职责的政策要求。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584–585)]]
-> - **2015 — 比较[[Meta-meta-analysis|元综合]]与“结构—互动”教学论重构** Håkansson 基于 43 项国际与本土教学研究综述，将结构化教学从模糊的政策口号提炼为“教师结构与能动互动的动态平衡”，澄清了其与[[Direct Instruction|直接教学]]及讲坛式灌输的本质区别。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a)]]
-> - **2026 — 智能[[Technology Infusion|技术整合]]与高等教育[[Scaffolding|认知支架]][[Paradigm|范式]]演进** Li et al. 在生成式 AI 与[[Higher-Order Thinking Skills|高阶思维]][[Systematic Review|系统综述]]中深化了结构化教学的内涵，将其发展为涵盖提示词链追踪、递归探究任务循环、多源反馈生态的人机协同教学规制，确立了其防范算法心智侵蚀的关键防御价值。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]
+> - **2011 — 政策口号引入与教师领导重提** 瑞典 2011 年课程改革（Lgr 11）与教育条例正式引入“结构化教学（structured teaching）”，作为扭转国际测评（[[PISA]]）成绩下滑、重塑教师课堂组织与领导职责的政策要求。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584–585)]]
+> - **2015 — 比较[[Meta-meta-analysis\|元综合]]与“结构—互动”教学论重构** Håkansson 基于 43 项国际与本土教学研究综述，将结构化教学从模糊的政策口号提炼为“教师结构与能动互动的动态平衡”，澄清了其与[[Direct Instruction\|直接教学]]及讲坛式灌输的本质区别。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a)]]
+> - **2026 — 智能[[Technology Infusion\|技术整合]]与高等教育[[Scaffolding\|认知支架]][[Paradigm\|范式]]演进** Li et al. 在生成式 AI 与[[Higher-Order Thinking Skills\|高阶思维]][[Systematic Review\|系统综述]]中深化了结构化教学的内涵，将其发展为涵盖提示词链追踪、递归探究任务循环、多源反馈生态的人机协同教学规制，确立了其防范算法心智侵蚀的关键防御价值。[[Argument_Li_2026_CEAI\|(Li et al., 2026)]]
 
 ---
 
@@ -224,23 +224,23 @@ updated: 2026-09-21
 > > [!axis] 政策口号的同义反复 vs 实质性教学组织创新
 > > 批评者指出瑞典教育法本身已将“教学”界定为教师领导的目标导向过程，“结构化教学”在立法语义上存在同义反复之嫌。
 > >
-> > - **[[Argument_Håkansson_2015_TT|Håkansson (2015a, pp. 584–585, 596)]]** 认为该词是政策层面对过度放任自学的针对性校正，其实质意义在于唤醒对课堂组织质量与互动平衡的重视。
+> > - **[[Argument_Håkansson_2015_TT\|Håkansson (2015a, pp. 584–585, 596)]]** 认为该词是政策层面对过度放任自学的针对性校正，其实质意义在于唤醒对课堂组织质量与互动平衡的重视。
 >
 > > [!axis] 结构化支架的过度控制 vs 学生自主探索空间的挤压
-> > [[Radical Constructivism|激进建构主义]]者担忧过强的教学结构会抑制学生的开放发散探索与个性化[[Creativity|创造力]]。
+> > [[Radical Constructivism\|激进建构主义]]者担忧过强的教学结构会抑制学生的开放发散探索与个性化[[Creativity\|创造力]]。
 > >
-> > - **[[Argument_Li_2026_CEAI|Li et al. (2026, pp. 7–9)]]** 实证反驳指出：在生成式技术环境下，缺乏结构的开放探索往往迅速退化为依赖算法的均质化输出；唯有在结构化反思框架中，原创性声音与发散构想才能真正生根。
+> > - **[[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 7–9)]]** 实证反驳指出：在生成式技术环境下，缺乏结构的开放探索往往迅速退化为依赖算法的均质化输出；唯有在结构化反思框架中，原创性声音与发散构想才能真正生根。
 >
 > > [!axis] 工具中心论 vs 结构化活动系统重构论
-> > 技术[[Determinism|决定论]]主张教育技术的优劣取决于算法工具本身；教学论学者则坚持技术效应完全依存于结构化教学系统的重塑。
+> > 技术[[Determinism\|决定论]]主张教育技术的优劣取决于算法工具本身；教学论学者则坚持技术效应完全依存于结构化教学系统的重塑。
 > >
-> > - **[[Argument_Li_2026_CEAI|Li et al. (2026, pp. 10–12)]]** 证实相同技术在结构化教学下产生协同增益，在非结构化教学下产生认知侵蚀，彻底[[Falsification|证伪]]了单纯的工具决定论。
+> > - **[[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 10–12)]]** 证实相同技术在结构化教学下产生协同增益，在非结构化教学下产生认知侵蚀，彻底[[Falsification\|证伪]]了单纯的工具决定论。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -254,19 +254,19 @@ updated: 2026-09-21
 ## 应用案例
 
 > [!example] 典型教学与干预案例
-> - **基础教育中平衡结构与自主的课堂组织（[[Argument_Håkansson_2015_TT|Håkansson, 2015a]]）**
+> - **基础教育中平衡结构与自主的课堂组织（[[Argument_Håkansson_2015_TT\|Håkansson, 2015a]]）**
 >   - **全班目标导入与示范** 教师用 10 分钟清晰阐明本课核心探究目标、评价量规与解题示范；
->   - **小组合作与结对探究** 学生在明确的任务[[Scaffolding|脚手架]]下展开自主讨论与任务实践，教师巡视并实施针对性理解检查；
+>   - **小组合作与结对探究** 学生在明确的任务[[Scaffolding\|脚手架]]下展开自主讨论与任务实践，教师巡视并实施针对性理解检查；
 >   - **反馈收束与反思总结** 教师引导全班汇总关键概念网络，提供纠正性反馈，确保知识系统化。
-> - **高等教育生成式 AI 结构化递归探究教学（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
+> - **高等教育生成式 AI 结构化递归探究教学（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
 >   - **基于 ADDIE 与创意写作框架的教学干预（Cake, 2025; Abdelmagid et al., 2025）** 要求学生先独立拟定初始构想，再利用大模型发散视角，随后依据评分量规开展自我批判与去幻觉事实核查；
->   - **提示词迭代链（Prompt Trail）与反思日志** 强制要求考核提交提示词修改历史与人机[[Dialogue in Education|对话]]辩护记录，将评价重心锚定在反思过程本身。
+>   - **提示词迭代链（Prompt Trail）与反思日志** 强制要求考核提交提示词修改历史与人机[[Dialogue in Education\|对话]]辩护记录，将评价重心锚定在反思过程本身。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 运用[[Comparative Meta-synthesis|比较性元综合]]解构瑞典“结构化教学”政策口号，确立了教师清晰组织与师生能动互动相结合的教学论[[Paradigm|范式]]，澄清了其与[[Direct Instruction|直接教学]]及讲坛式灌输的边界。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，确立了结构化教学设计作为生成式 AI 介入下激活批判性与[[Creativity|创造性思维]]双向协同增益、抵御[[Cognitive Offloading|认知卸载]]与心智侵蚀的决定性调节机制。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 总结 [[Education Endowment Foundation|EEF]] 大规模现场试验经验，系统剖析手册化结构性教学项目（Manualised Interventions）与教师日常选择（[[Teacher Choices]]）的方法学边界，并反思将结构化教学指导与外在绩效激励挂钩所导致的伦理排异与招募流产（Sutherland et al., 2017）。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] — 运用[[Comparative Meta-synthesis\|比较性元综合]]解构瑞典“结构化教学”政策口号，确立了教师清晰组织与师生能动互动相结合的教学论[[Paradigm\|范式]]，澄清了其与[[Direct Instruction\|直接教学]]及讲坛式灌输的边界。
+> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，确立了结构化教学设计作为生成式 AI 介入下激活批判性与[[Creativity\|创造性思维]]双向协同增益、抵御[[Cognitive Offloading\|认知卸载]]与心智侵蚀的决定性调节机制。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 总结 [[Education Endowment Foundation\|EEF]] 大规模现场试验经验，系统剖析手册化结构性教学项目（Manualised Interventions）与教师日常选择（[[Teacher Choices]]）的方法学边界，并反思将结构化教学指导与外在绩效激励挂钩所导致的伦理排异与招募流产（Sutherland et al., 2017）。

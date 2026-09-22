@@ -78,13 +78,13 @@ related_concepts:
   - "[[Computerized Adaptive Testing]]"
 related_theories:
   - "[[Classical Test Theory]]"
-  - "[[Item Response Theory]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
   - "[[Pilot Testing]]"
   - "[[Item Analysis]]"
+  - "[[Item Response Theory]]"
   - "[[Test-Retest Reliability]]"
   - "[[Parallel-Forms Reliability]]"
   - "[[Split-Half Reliability]]"
@@ -107,7 +107,7 @@ updated: '2026-09-12'
 
 #### 概念地图
 
-> [!knowledge-map]- 第24章　[[Concept Mapping|概念地图]]
+> [!knowledge-map]- 第24章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24_Concept_Map.jpg)
 
 ## 章节内容
@@ -117,10 +117,10 @@ updated: '2026-09-12'
 > [!question] 核心问题
 >
 > - **测试什么？** 成就、能力倾向、态度、人格、智力、社会适应等
-> - **采用参数还是非参数测验？** 是否对总体分布做出[[Hypothesis|假设]]
-> - **常模参照还是[[Criterion-Referenced Test|标准参照]]？** 比较他人还是满足标准
+> - **采用参数还是非参数测验？** 是否对总体分布做出[[Hypothesis\|假设]]
+> - **常模参照还是[[Criterion-Referenced Test\|标准参照]]？** 比较他人还是满足标准
 > - **商业测验还是自编测验？** 购买成熟工具还是自行开发
-> - **是否属于[[Experimental Research|实验法]]的前[[Pre-test and Post-test|后测]]设计？** 控制组与实验组的前后比较
+> - **是否属于[[Experimental Research\|实验法]]的前[[Pre-test and Post-test\|后测]]设计？** 控制组与实验组的前后比较
 > - **个体施测还是团体施测？** 一对一还是批量进行
 > - **自陈式还是他测式？** 受试者自己报告还是由研究者施测
 
@@ -173,13 +173,13 @@ updated: '2026-09-12'
 > - 记忆测验
 > - 儿童评估的神经心理学与生物学视角
 > - 学业技能评估
-> - [[Criterion-Referenced Test|标准参照测验]]
+> - [[Criterion-Referenced Test\|标准参照测验]]
 > - 诊断性评估
 > - 写作能力与教学需求
 > - 学习障碍评估
 > - 能力倾向评估中的偏差
 > - 文化与语言多样化儿童的评估
-> - [[Creativity Assessment|创造力评估]]
+> - [[Creativity Assessment\|创造力评估]]
 > - 语言障碍评估
 > - 重度智力迟缓与脑损伤儿童的心理与教育需求评估
 > - 计算机化评估
@@ -205,14 +205,14 @@ updated: '2026-09-12'
 #### 参数测验
 
 > [!def] 参数测验
-> 参数测验旨在代表更广泛总体（如全国或某一年龄组）。它们对更广泛总体的特征做出[[Hypothesis|假设]]，即能力的**参数**是已知的（Morrison, 1993）。
+> 参数测验旨在代表更广泛总体（如全国或某一年龄组）。它们对更广泛总体的特征做出[[Hypothesis\|假设]]，即能力的**参数**是已知的（Morrison, 1993）。
 
 参数测验依赖三项核心假设（Morrison, 1993）：
 
 > [!assumptions] 参数测验的三项假设
 > - **正态分布** 分数在总体中呈正态分布曲线，即高斯曲线的钟形对称性。典型例子包括智商（Intelligence Quotient, IQ）标准化分数、身高的全国分布测量，或阅读测验成绩在全体人口中的分布
 > - **连续等距** 测验分数之间为连续且等距的间隔
-> - **真正零点与比率数据** 具有真正零点的测验允许比率比较，例如 80% 的分数可以是 40% 的两倍。这与[[Questionnaire|问卷]]设计中的顺序量表不同，后者不能假设每两个分数之间的等间隔
+> - **真正零点与比率数据** 具有真正零点的测验允许比率比较，例如 80% 的分数可以是 40% 的两倍。这与[[Questionnaire\|问卷]]设计中的顺序量表不同，后者不能假设每两个分数之间的等间隔
 
 参数测验通常是商业出版的已标准化测验，在具有代表性的大样本上经过[[Pilot Testing|预测试]]和标准化，并附有[[Reliability|信度]]和效度的统计数据。使用这些测验使研究者能够应用适用于等距和比率数据的统计方法。
 
@@ -250,18 +250,18 @@ updated: '2026-09-12'
 ### 24.3 常模参照、标准参照与领域参照测验
 
 > [!info] 三种参照系的区分逻辑
-> 测验的另一种核心分类依据是**参照系** 与谁比较？常模参照看别人，标准参照看标准，领域参照看全域。这一分类直接决定了[[Item Analysis|题目分析]]中区分度和难度的不同意义：常模参照要求高区分度和适中难度以拉开差距，标准参照不以区分度为核心关注而强调达标判断。三种参照系可以组合使用，同一测验可以同时报告常模位置和标准达成情况。
+> 测验的另一种核心分类依据是**参照系** 与谁比较？常模参照看别人，标准参照看标准，领域参照看全域。这一分类直接决定了[[Item Analysis\|题目分析]]中区分度和难度的不同意义：常模参照要求高区分度和适中难度以拉开差距，标准参照不以区分度为核心关注而强调达标判断。三种参照系可以组合使用，同一测验可以同时报告常模位置和标准达成情况。
 
 #### 三种参照系的定义
 
-> [!def] [[Norm-Referenced Test|常模参照测验]]
+> [!def] [[Norm-Referenced Test\|常模参照测验]]
 > 将学生的成绩与其他学生的成绩进行比较。例如，全国数学表现测验或已在 6–16 岁学生的大规模代表性样本上标准化了的智力测验。
 
 常模参照测验提供学生相对于他人的排名信息。其核心特征是**区分**学生之间的差异——设计良好的常模参照测验能敏锐地测量成绩差异，提供较大的分数变异性（variability）或分数范围。**变异性至关重要。**
 
 ---
 
-> [!def] [[Criterion-Referenced Test|标准参照测验]]
+> [!def] [[Criterion-Referenced Test\|标准参照测验]]
 > 不将学生与学生比较，而是要求学生满足一组预设标准——一个预定义的、绝对的标准或结果（Cunningham, 1998）。
 
 > [!case] 标准参照测验的典型案例
@@ -272,7 +272,7 @@ updated: '2026-09-12'
 
 ---
 
-> [!def] [[Domain-Referenced Test|领域参照测验]]
+> [!def] [[Domain-Referenced Test\|领域参照测验]]
 > 标准参照测验的一个延伸发展（Gipps, 1994, p. 81）。对评估内容或**领域**的详细且周全的规范被赋予相当大的重要性。
 
 #### 领域参照测验的推断逻辑
@@ -319,9 +319,9 @@ updated: '2026-09-12'
 
 > [!strength] 商业测验的优势
 > - **客观性** 经过客观开发和标准化
-> - **已优化** 已经过[[Pilot Testing|预测试]]和优化
+> - **已优化** 已经过[[Pilot Testing\|预测试]]和优化
 > - **标准化** 在指定总体（地区、全国、特定年龄组或多个年龄组）上进行了标准化，代表更广泛总体
-> - **信效度明确** 在施测说明手册中声明了[[Reliability|信度]]和效度的统计数据
+> - **信效度明确** 在施测说明手册中声明了[[Reliability\|信度]]和效度的统计数据
 > - **参数测验** 通常为参数测验，支持复杂统计
 > - **说明完备** 附有施测说明，通常直截了当且快速施测和计分
 > - **解释指南** 手册中通常包含数据解释指南
@@ -336,11 +336,11 @@ Howitt & Cramer（2005）指出商业测验的购买和施测成本高昂、通�
 
 > [!warning] 三种关键风险
 > - **文化偏差** 许多测验对不同群体存在文化偏差。使用英文媒介的 Wechsler 智力量表对非英语母语或对英国文化某些方面不了解的学生施测，该测验就从**智力测验**转变为**英语语言能力和英国文化知识的测验**。
-> - **翻译与文化等价性** 商业测验即使有其他语言版本，也需要检查翻译的正确性，以及测验项目在目标语言中是否承载与原语言**相同的含义和内涵**。将一种语言和一种文化中开发的测验引进另一种语言和文化通常是**危险的**，存在效度、偏差和[[Reliability|信度]]问题。
+> - **翻译与文化等价性** 商业测验即使有其他语言版本，也需要检查翻译的正确性，以及测验项目在目标语言中是否承载与原语言**相同的含义和内涵**。将一种语言和一种文化中开发的测验引进另一种语言和文化通常是**危险的**，存在效度、偏差和[[Reliability\|信度]]问题。
 > - **目的-内容匹配** 商业诊断测验可能不适用于成就评估的需要；成就测验可能缺乏研究者寻求的预测品质；阅读测验可能未覆盖研究者想评估的阅读领域。商业测验按定义不针对特定机构或当地情境，声称客观性的理由正是**刻意超越机构**。
 
 > [!note]- 选择商业测验的黄金法则
-> 使用商业出版测验必须证明**目的适切性（[[Fitness for Purpose]]）**。Cronbach（1949）和 Gronlund & Linn（1990）制定了一套评估商业测验是否适合特定[[Research Purpose|研究目的]]的准则。
+> 使用商业出版测验必须证明**目的适切性（[[Fitness for Purpose]]）**。Cronbach（1949）和 Gronlund & Linn（1990）制定了一套评估商业测验是否适合特定[[Research Purpose\|研究目的]]的准则。
 >
 > 若未能证明目的适切性，研究者就必须自编测验。自编测验的优势在于紧密贴合当地和机构情境——目的、目标和内容将刻意匹配研究者在特定给定情境中的具体需求。
 
@@ -365,7 +365,7 @@ Howitt & Cramer（2005）指出商业测验的购买和施测成本高昂、通�
 #### 成就测验与能力倾向测验的模糊边界
 
 > [!info] 深入辨析
-> [[Achievement and Aptitude Tests|成就测验]]（多为总结性）测量在特定内容领域**已实现**的表现。[[Achievement and Aptitude Tests|能力倾向测验]]旨在**预测**能力、成就潜力、学习潜力和未来成就。Cunningham（1998）质疑这两个[[Construct|构念]]是否真的可以分开，在实践中，测量某一年龄的地理能力倾向通常使用该年龄的地理成就测验，即同样的测验工具，只是目的标签不同。
+> [[Achievement and Aptitude Tests\|成就测验]]（多为总结性）测量在特定内容领域**已实现**的表现。[[Achievement and Aptitude Tests\|能力倾向测验]]旨在**预测**能力、成就潜力、学习潜力和未来成就。Cunningham（1998）质疑这两个[[Construct\|构念]]是否真的可以分开，在实践中，测量某一年龄的地理能力倾向通常使用该年龄的地理成就测验，即同样的测验工具，只是目的标签不同。
 
 > [!contrast-table] 成就测验与能力倾向测验对比
 > | 维度 | 成就测验 | 能力倾向测验 |
@@ -383,7 +383,7 @@ Cunningham（1998）暗示，成就与能力倾向之间的差异在很大程度
 ### 24.5 编制测验
 
 > [!info] 两大理论基础与十步编制流程
-> 编制测验是本章最长的一节，首先介绍两大测验理论基础——[[Classical Test Theory|经典测验理论]]（CTT）和 [[Item Response Theory|项目反应理论]]（IRT）——然后展开一个从目的到预测试的**十步编制流程**。每一步都包含可操作的具体准则、计算公式和判断标准。核心主张是：好的测验是在理论框架指导下，经过系统的项目分析和实证预测试反复迭代出来的，不能凭直觉写成。
+> 编制测验是本章最长的一节，首先介绍两大测验理论基础——[[Classical Test Theory\|经典测验理论]]（CTT）和 [[Item Response Theory\|项目反应理论]]（IRT）——然后展开一个从目的到预测试的**十步编制流程**。每一步都包含可操作的具体准则、计算公式和判断标准。核心主张是：好的测验是在理论框架指导下，经过系统的项目分析和实证预测试反复迭代出来的，不能凭直觉写成。
 
 #### 理论基础一：经典测验理论（CTT）
 
@@ -393,7 +393,7 @@ Cunningham（1998）暗示，成就与能力倾向之间的差异在很大程度
 然而，CTT 认识到现实世界中误差确实存在：
 
 > [!factors] 测量误差的来源
-> - **文化与社经背景** 受试者的[[Cultural Capital|文化资本]]和社会经济条件可能系统性地影响测验表现
+> - **文化与社经背景** 受试者的[[Cultural Capital\|文化资本]]和社会经济条件可能系统性地影响测验表现
 > - **测验偏差** 测验项目本身可能存在语言、内容或形式上的偏差
 > - **施测与计分过程** 测验的施测条件、计分方式和评分者差异引入额外变异
 > - **受试者态度** 受试者对测验的动机、焦虑或抵触情绪影响真实能力的展现
@@ -456,7 +456,7 @@ IRT 建立在以下关键假设之上：
 
 测验目的有多种，发生在课程的不同时间节点：
 
-> [!contrast-table] 按施测时机的四种测验类型（[[Placement, Formative, Diagnostic, and Summative Testing|安置性、形成性、诊断性与总结性测验]]）
+> [!contrast-table] 按施测时机的四种测验类型（[[Placement, Formative, Diagnostic, and Summative Testing\|安置性、形成性、诊断性与总结性测验]]）
 > | 维度 | 安置性测验 | 形成性测验 | 诊断性测验 | 总结性测验 |
 > |------|----------|----------|----------|----------|
 > | **施测时机** | 课程开始前 | 课程进行期间 | 深度探查特定问题时 | 课程结束时 |
@@ -470,7 +470,7 @@ IRT 建立在以下关键假设之上：
 
 ##### 第二步：确定测验规格
 
-> [!feature] [[Test Specifications and Test Blueprint|测验规格]]的六项要素
+> [!feature] [[Test Specifications and Test Blueprint\|测验规格]]的六项要素
 > - **课程目标与学习结果** 明确哪些课程目标和学生学习结果将被测验覆盖
 > - **内容领域** 确定哪些内容领域将被纳入测验
 > - **相对权重** 各项目的相对权重、平衡和覆盖率
@@ -478,7 +478,7 @@ IRT 建立在以下关键假设之上：
 > - **要素-项目对应** 处理课程某一特定要素或学习结果所需的问题数量
 > - **具体项目** 测验中的具体项目
 
-> [!case] 通过矩阵框架确保[[Content Validity|内容效度]]
+> [!case] 通过矩阵框架确保[[Content Validity\|内容效度]]
 > 确保目标在测验项目中得到公平覆盖的一种方式是通过**矩阵框架（matrix frame）**，呈现内容领域的覆盖、课程目标的覆盖以及各项目的相对权重。
 >
 > **表 24.1** 以一个中学历史课程为例，说明了这种矩阵的构建方式。矩阵的行是内容领域（如战前局势、法国入侵等），列是课程目标（用编号 1a–3c 表示具体规格）。
@@ -517,20 +517,20 @@ IRT 建立在以下关键假设之上：
 
 测验必须测量它声称要测量的东西。它应展示多种形式的效度：
 
-> [!dimension] [[Test Validity|测验效度]]的七种类型
-> - **[[Construct Validity|构念效度]]（Construct Validity）** 测验在多大程度上测量一个特定的[[Construct|构念]]、特质或行为。通过聚合效度和[[Convergent and Discriminant Validity|区分效度]]（divergent validity）验证，并与具有相同目的和类似内容的其他已出版测验进行相关分析
-> - **[[Content Validity|内容效度]]（Content Validity）** 通过充分且具有代表性地覆盖领域、领域、任务、行为、知识等来保证，不受无关[[Variable|变量]]的干扰
-> - **[[Concurrent Validity|共时效度]]（Concurrent Validity）** 测验与类似领域的其他测验之间的相关程度
-> - **[[Predictive Validity|预测效度]]（Predictive Validity）** 测验准确预测最终分数的程度——适用于所考虑的情境
-> - **[[Criterion-related Validity|效标关联效度]]（Criterion-related Validity）** 测验表现使研究者能够推断个体在特定效标上的表现的程度——通常计算为测验分数与该测验意图测量项目在真实情境中的另一表征之间的相关系数（如工作特定事项的测验分数与个体在该工作特定事项上的实际表现之间的相关）
-> - **[[Cultural Validity|文化效度]]（Cultural Validity）** 对个体受试者语言和文化的公平性，避免文化偏差。**这是所有研究工具的特征，不仅限于测验**
-> - **[[Consequential Validity|后果效度]]（Consequential Validity）** 测验结果被公平且合乎伦理地使用，仅用于测验编制的目的和方式（在 24.8 节进一步讨论）
+> [!dimension] [[Test Validity\|测验效度]]的七种类型
+> - **[[Construct Validity\|构念效度]]（Construct Validity）** 测验在多大程度上测量一个特定的[[Construct\|构念]]、特质或行为。通过聚合效度和[[Convergent and Discriminant Validity\|区分效度]]（divergent validity）验证，并与具有相同目的和类似内容的其他已出版测验进行相关分析
+> - **[[Content Validity\|内容效度]]（Content Validity）** 通过充分且具有代表性地覆盖领域、领域、任务、行为、知识等来保证，不受无关[[Variable\|变量]]的干扰
+> - **[[Concurrent Validity\|共时效度]]（Concurrent Validity）** 测验与类似领域的其他测验之间的相关程度
+> - **[[Predictive Validity\|预测效度]]（Predictive Validity）** 测验准确预测最终分数的程度——适用于所考虑的情境
+> - **[[Criterion-related Validity\|效标关联效度]]（Criterion-related Validity）** 测验表现使研究者能够推断个体在特定效标上的表现的程度——通常计算为测验分数与该测验意图测量项目在真实情境中的另一表征之间的相关系数（如工作特定事项的测验分数与个体在该工作特定事项上的实际表现之间的相关）
+> - **[[Cultural Validity\|文化效度]]（Cultural Validity）** 对个体受试者语言和文化的公平性，避免文化偏差。**这是所有研究工具的特征，不仅限于测验**
+> - **[[Consequential Validity\|后果效度]]（Consequential Validity）** 测验结果被公平且合乎伦理地使用，仅用于测验编制的目的和方式（在 24.8 节进一步讨论）
 
 > [!feature] 测验信度的四种形式
-> - **[[Test-Retest Reliability|重测信度]]** 同一测验在不同时间对同一组人施测，两次分数的相关
-> - **[[Parallel-Forms Reliability|复本信度]]** 同一测验的两个等价版本施测后分数的相关
-> - **[[Split-Half Reliability|分半信度]]** 将测验项目分成两半后两部分得分的相关
-> - **[[Internal Consistency|内部一致性]]** 各项目之间的一致性程度，常用 [[Cronbach's Alpha]] 衡量
+> - **[[Test-Retest Reliability\|重测信度]]** 同一测验在不同时间对同一组人施测，两次分数的相关
+> - **[[Parallel-Forms Reliability\|复本信度]]** 同一测验的两个等价版本施测后分数的相关
+> - **[[Split-Half Reliability\|分半信度]]** 将测验项目分成两半后两部分得分的相关
+> - **[[Internal Consistency\|内部一致性]]** 各项目之间的一致性程度，常用 [[Cronbach's Alpha]] 衡量
 
 ---
 
@@ -556,7 +556,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > 3. 选择将出现在测验中的成分——尽可能代表更大的领域（如需要领域参照）
 > 4. 将成分重新表述为具体、可实践、可观察的行为、活动和实践，它们合理代表和覆盖该成分
 > 5. 指定提供达标信息所需的数据种类
-> 6. 在实操层面指定[[Success Criteria|成功标准]]（表现指标）——确定分数和等级以及权重处理方法
+> 6. 在实操层面指定[[Success Criteria\|成功标准]]（表现指标）——确定分数和等级以及权重处理方法
 > 7. 编写测验的每个项目
 
 题目分析旨在确保（Gronlund & Linn, 1990, p. 255; Millman & Greene, 1993）：
@@ -576,7 +576,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 
 ###### 题目区分度分析
 
-> [!def] [[Item Analysis|题目区分度]]（Item Discriminability）
+> [!def] [[Item Analysis\|题目区分度]]（Item Discriminability）
 > 项目区分度指该项目被高分组学生答对、同时被低分组学生答错的潜力，即项目在多大程度上能有效显示一组学生之间的差异。区分度高的项目使研究者看到该项目上潜在的广泛分数变异；区分度低的项目在该项目上的分数区分度差。**高区分度是可取的，低区分度的项目应被淘汰。**
 
 **计算程序** 假设研究者为某学校 30 名学生编制数学测验（A 班）。在另一学校（B 班）对 30 名同龄学生进行[[Pilot Testing|预测试]]。将 30 名预测试学生的分数分为三组（高、中、低各 10 人）。取高分组和低分组计算：
@@ -589,7 +589,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 >
 > $A$ = 高分组答对人数，$B$ = 低分组答对人数，$N$ = 两组总人数。
 >
-> **判断标准** 最大值 1.00；小于 0.67 的题目应首先审查是否存在措辞歧义或暗示线索；是否使用低于 0.67 的题目取决于研究者的[[Professional Judgment|专业判断]]。常模参照中区分度至关重要，标准参照中区分度不是中央关注。
+> **判断标准** 最大值 1.00；小于 0.67 的题目应首先审查是否存在措辞歧义或暗示线索；是否使用低于 0.67 的题目取决于研究者的[[Professional Judgment\|专业判断]]。常模参照中区分度至关重要，标准参照中区分度不是中央关注。
 
 > [!case]- 区分度计算示例
 > 高分组 10 人全部答对（$A = 10$），低分组 2 人答对（$B = 2$），$N = 20$：
@@ -605,7 +605,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 ###### 干扰项分析
 
 > [!def] 干扰项分析（Distractor Analysis）
-> 干扰项是[[Multiple-Choice Questions|多项选择题]]中的错误选项。有效干扰项应吸引**更多低分组学生而非高分组学生**。区分度指数可以用于检验干扰项的有效性。
+> 干扰项是[[Multiple-Choice Questions\|多项选择题]]中的错误选项。有效干扰项应吸引**更多低分组学生而非高分组学生**。区分度指数可以用于检验干扰项的有效性。
 
 > [!case] 干扰项效果的三种情形
 >
@@ -623,7 +623,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 
 ###### 题目难度分析
 
-> [!def] [[Item Analysis|题目难度]]（Item Difficulty）
+> [!def] [[Item Analysis\|题目难度]]（Item Difficulty）
 
 > [!formula] 难度指数
 > $$\text{难度指数} = \frac{A}{N} \times 100\%$$
@@ -709,7 +709,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > 2. 对项目 9 和 10 进行**反向计分**（这些项目测量的是积极面而非消极面）
 > 3. 考虑**排除**项目 6 和 8（它们似乎在测量其他构念，不愿做家务和喝咖啡可能反映的是一般生活习惯而非考试压力）
 >
-> 这种项目分析的目的是包含测量同一[[Construct|构念]]的项目，排除不测量该构念的项目。
+> 这种项目分析的目的是包含测量同一[[Construct\|构念]]的项目，排除不测量该构念的项目。
 
 > [!info] 因子分析的补充作用
 > 因子分析的基本原理是：如果多个题目测量同一个潜在维度，它们之间的相关应高于与其他题目之间的相关。算法从所有题目之间的相关矩阵出发，找出能解释最多共同变异的**潜在因子（latent factors）**——每个因子代表一组高度相关的题目背后共享的潜在构念。第一个因子解释最多变异，后续因子依次解释剩余变异中最多的一部分。题目在每个因子上的**负荷量（factor loading）**表示该题目与因子的关联强度。
@@ -735,15 +735,15 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > - **书面** 传统纸笔测验
 > - **口头** 阅读和写作会妨碍测验真正目的时（如数学测验变成读写测验），口头测验是必要的替代方案
 > - **实操** 动手操作
-> - **互动式** [[Dialogue in Education|对话]]和互动中的评估
+> - **互动式** [[Dialogue in Education\|对话]]和互动中的评估
 > - **计算机化** 屏幕上的测验
 > - **戏剧化、图示化、图片化、摄影化**
 > - **音频视频材料**
-> - **展示和[[Role-playing|角色扮演]]**
+> - **展示和[[Role-playing\|角色扮演]]**
 > - **模拟**
 
 > [!warning] 非书面形式的信效度挑战
-> - **一次性事件** 评判现场音乐表演或体操动作时，[[Reliability|信度]]是一个重要问题——表演只有一次，无法重复验证
+> - **一次性事件** 评判现场音乐表演或体操动作时，[[Reliability\|信度]]是一个重要问题——表演只有一次，无法重复验证
 > - **团队动力干扰** 在小组表现或小组练习中，团队动力可能阻碍受试者真实能力的展示
 > - 研究者仍需考虑测验是个体施测还是团体施测，以及测验将采取什么形式
 
@@ -893,7 +893,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 两个维度：
 
 > [!dimension] 时间安排的两个维度
-> - **施测时间点** 测验在何时进行（星期几、月份、一天中的哪个时段）——部分涉及[[Reliability|信度]]问题，因为时段可能影响学生的警觉性、动机和能力
+> - **施测时间点** 测验在何时进行（星期几、月份、一天中的哪个时段）——部分涉及[[Reliability\|信度]]问题，因为时段可能影响学生的警觉性、动机和能力
 > - **时间分配** 测验及其各组成部分的时间限制——时间压力是否可取（展示学生在压力下的表现，即"速度测验"（speed test））还是施加了不必要的时间边界？Kohn（2000）的比喻是：Van Gogh 画向日葵是否受时间限制？
 
 给出整体时间限制和分项目的大致时间分配（与测验的相对权重对应）有助于学生决定把精力集中在何处，并确保标准化。
@@ -972,7 +972,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 > - 项目、说明和布局的清晰度
 > - 措辞的歧义或困难
 > - 目标受众的可读性水平和语言问题
-> - 问题类型及其格式（如[[Rating Scale|评定量表]]、多选、开放、封闭等）
+> - 问题类型及其格式（如[[Rating Scale\|评定量表]]、多选、开放、封闭等）
 > - 封闭式问题和多项选择题的回答类别，以及特定问题或问题题干的合适性
 > - 遗漏项和多余无关项
 > - 测验布局的清晰度
@@ -995,14 +995,14 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 ### 24.6 测验编制的软件
 
 > [!info]
-> 测验编制软件（如在线测验平台和光学标记扫描工具）可以将编制好的测验转化为纸质或在线施测格式，并自动完成封闭式题目的计分、数据录入和分析。但这些工具不替代测验编制者的核心思考工作，也不处理[[Reliability|信度]]和效度验证——研究者仍需在使用前[[Pilot Testing|预测试]]和优化测验。
+> 测验编制软件（如在线测验平台和光学标记扫描工具）可以将编制好的测验转化为纸质或在线施测格式，并自动完成封闭式题目的计分、数据录入和分析。但这些工具不替代测验编制者的核心思考工作，也不处理[[Reliability\|信度]]和效度验证——研究者仍需在使用前[[Pilot Testing\|预测试]]和优化测验。
 
 ---
 
 ### 24.7 设计前后测
 
 > [!info]
-> 测验的编制和施测是[[Experimental Research|实验研究]]模型的必要组成部分——需要为控制组和实验组设计前测和后测。
+> 测验的编制和施测是[[Experimental Research\|实验研究]]模型的必要组成部分——需要为控制组和实验组设计前测和后测。
 
 > [!feature] 前后测设计五项准则
 > - **内容相同** 前测和后测的形式或措辞可以不同，但必须测试相同的内容，即它们是同一群体的替代形式（alternate forms）
@@ -1060,16 +1060,16 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 > - **规程清晰** 应有清晰的计分和评级规程
 > - **报告准确** 测验结果只能以无法被误解的方式报告
 > - **隐私尊严** 应尊重个体的隐私和尊严，保密、匿名、不可追踪
-> - **避免伤害** 个体不应因测验或其结果而受到伤害（[[Non-maleficence and Beneficence in Research|non-maleficence]]）
-> - **[[Informed Consent|知情同意]]** 应寻求参与测验的[[Informed Consent|知情同意]]
-> - **目的限定** 测验数据只能用于测验编制的目的（[[Consequential Validity|后果效度]]），用于其他目的在伦理上高度可疑
+> - **避免伤害** 个体不应因测验或其结果而受到伤害（[[Non-maleficence and Beneficence in Research\|non-maleficence]]）
+> - **[[Informed Consent\|知情同意]]** 应寻求参与测验的[[Informed Consent\|知情同意]]
+> - **目的限定** 测验数据只能用于测验编制的目的（[[Consequential Validity\|后果效度]]），用于其他目的在伦理上高度可疑
 
 ---
 
 ### 24.9 计算机自适应测验
 
 > [!info] IRT 的技术实现与信效度代价
-> [[Computerized Adaptive Testing|计算机自适应测验]]（[[Consensual Assessment Technique|CAT]]）代表了测验技术的前沿，它利用 [[Item Response Theory|IRT]] 的数学基础，根据受试者的实时表现动态调整项目难度。CAT 的核心承诺是在不牺牲测量精度的前提下大幅缩短测验长度，但这依赖于大型经校准的项目库和严格的单维性假设。同时，CAT 引入了传统纸笔测验所没有的信效度问题——认知过程差异、动机影响和信度含义的转换。
+> [[Computerized Adaptive Testing\|计算机自适应测验]]（[[Consensual Assessment Technique\|CAT]]）代表了测验技术的前沿，它利用 [[Item Response Theory\|IRT]] 的数学基础，根据受试者的实时表现动态调整项目难度。CAT 的核心承诺是在不牺牲测量精度的前提下大幅缩短测验长度，但这依赖于大型经校准的项目库和严格的单维性假设。同时，CAT 引入了传统纸笔测验所没有的信效度问题——认知过程差异、动机影响和信度含义的转换。
 
 > [!def] 计算机自适应测验（CAT）
 > 根据受试者对先前项目的回答决定施测哪些测验项目（Wainer, 1990; Aiken, 2003, pp. 50–52）。首题置于假设能力范围的中位；答对 → 下一题更难，答错 → 下一题更易。
@@ -1097,10 +1097,10 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 #### CAT 的信效度挑战
 
 > [!warning] CAT 的五项挑战
-> - **认知过程差异** 使用计算机屏幕和程序所需的心理过程与纸笔测验不同，这可能改变测验的[[Construct Validity|构念效度]]
+> - **认知过程差异** 使用计算机屏幕和程序所需的心理过程与纸笔测验不同，这可能改变测验的[[Construct Validity\|构念效度]]
 > - **动机与焦虑** 使用计算机时动机和焦虑水平可能升高或降低
 > - **物理环境** 光照条件、屏幕眩光、机器噪音、软件加载和运行过程可能产生显著影响
-> - **信度含义的转换** [[Reliability|信度]]从测验变异性的指标转变为受试者表现[[Standard Error|标准误]]的指标。传统标准误公式假设所有分数的误差方差相同，而 IRT 假设误差方差取决于每位受试者的能力，传统的单一平均误差方差在此框架下可能非常粗糙甚至误导（Thissen, 1990）
+> - **信度含义的转换** [[Reliability\|信度]]从测验变异性的指标转变为受试者表现[[Standard Error\|标准误]]的指标。传统标准误公式假设所有分数的误差方差相同，而 IRT 假设误差方差取决于每位受试者的能力，传统的单一平均误差方差在此框架下可能非常粗糙甚至误导（Thissen, 1990）
 > - **项目池质量风险** 项目数量大增也增加了纳入质量较差项目的风险
 
 #### CAT 的技术要求
@@ -1128,27 +1128,27 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 >
 > *In tests, researchers have at their disposal a powerful method of data collection, an impressive array of tests for gathering data of a numerical rather than verbal kind.*
 
-> [!citation-card]- 参数测验的三项[[Hypothesis|假设]]
-> 参数测验假设：分数在总体中呈正态曲线分布；测验分数之间为连续且等距的间隔；如果测验具有真正零点，则可能使用比率数据。这与[[Questionnaire|问卷]]设计中的顺序量表不同，后者不能假设每两个分数之间的等间隔。（第 24 章，24.2 节；Morrison, 1993）
+> [!citation-card]- 参数测验的三项[[Hypothesis\|假设]]
+> 参数测验假设：分数在总体中呈正态曲线分布；测验分数之间为连续且等距的间隔；如果测验具有真正零点，则可能使用比率数据。这与[[Questionnaire\|问卷]]设计中的顺序量表不同，后者不能假设每两个分数之间的等间隔。（第 24 章，24.2 节；Morrison, 1993）
 >
-> *[[Parametric and Non-parametric Tests|parametric tests]] assume a normal curve of distribution of scores in the population, continuous and equal intervals between the test scores, and with tests that have a true zero, the opportunity for ratio data.*
+> *[[Parametric and Non-parametric Tests\|parametric tests]] assume a normal curve of distribution of scores in the population, continuous and equal intervals between the test scores, and with tests that have a true zero, the opportunity for ratio data.*
 
-> [!citation-card]- [[Criterion-Referenced Test|标准参照测验]]的目的
+> [!citation-card]- [[Criterion-Referenced Test\|标准参照测验]]的目的
 > 标准参照测验不将学生与学生比较，而是要求学生满足一组预设标准——一个预定义的、绝对的标准或结果。（第 24 章，24.3 节；Cunningham, 1998）
 >
 > *A criterion-referenced test does not compare student with student but, rather, requires the student to fulfil a given set of criteria, a predefined and absolute standard or outcome.*
 
-> [!citation-card]- [[Classical Test Theory|CTT]] 的基本公式
+> [!citation-card]- [[Classical Test Theory\|CTT]] 的基本公式
 > 观测分数（$X$）等于真实分数（$T$）加上误差（$E$）：$X = T + E$。（第 24 章，24.5 节）
 >
 > *The observed score (X) is the true score (T) plus the error (E) (X = T + E).*
 
-> [!citation-card]- [[Item Response Theory|IRT]] 的核心突破
-> IRT 使研究者能够以独立于特定受试者样本的方式描述项目（即[[Item Analysis|题目难度]]和区分度不依赖样本），以及以独立于任何特定项目样本的方式描述受试者（即受试者的能力不取决于特定的项目样本）。可以在施测前指定和预测测验属性，并计算每位受试者测量精度的统计量。（第 24 章，24.5 节）
+> [!citation-card]- [[Item Response Theory\|IRT]] 的核心突破
+> IRT 使研究者能够以独立于特定受试者样本的方式描述项目（即[[Item Analysis\|题目难度]]和区分度不依赖样本），以及以独立于任何特定项目样本的方式描述受试者（即受试者的能力不取决于特定的项目样本）。可以在施测前指定和预测测验属性，并计算每位受试者测量精度的统计量。（第 24 章，24.5 节）
 >
 > *IRT is based on the view that it is possible to describe an item independently of any particular sample of people who might be responding to it, i.e. is not group-dependent, and to describe a person independently of any sample of items that has been administered to that person.*
 
-> [!citation-card]- [[Pilot Testing|预测试]]的不可替代性
+> [!citation-card]- [[Pilot Testing\|预测试]]的不可替代性
 > 项目区分度和难度只有在测验完成后才能知道，因此对自编测验的预测试是不可避免的。区分度和难度有限的项目必须剔除并替换，区分度最佳和难度最适当的项目可以保留，但这只能在预测试数据分析之后进行。（第 24 章，24.5 节）
 >
 > *Given that the researcher can only know the degree of item discriminability and difficulty once the test has been undertaken, there is an unavoidable need to pilot home-grown tests.*
@@ -1158,8 +1158,8 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 >
 > *The test data should only be used for the purpose for which the test was constructed; too often test data become used for purposes other than these, and this is ethically highly questionable.*
 
-> [!citation-card]- [[Consensual Assessment Technique|CAT]] 的效率
-> [[Computerized Adaptive Testing|计算机自适应测验]]可以将测验项目数减少至传统测验的约 50%。（第 24 章，24.9 节；Aiken, 2003, p. 51）
+> [!citation-card]- [[Consensual Assessment Technique\|CAT]] 的效率
+> [[Computerized Adaptive Testing\|计算机自适应测验]]可以将测验项目数减少至传统测验的约 50%。（第 24 章，24.9 节；Aiken, 2003, p. 51）
 >
 > *Computer adaptive testing can reduce the number of test items present to around 50 per cent of those used in conventional tests.*
 

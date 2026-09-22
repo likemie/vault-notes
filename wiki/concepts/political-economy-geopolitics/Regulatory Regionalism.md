@@ -55,7 +55,7 @@ updated: 2026-09-18
 > [!info]
 > 监管型区域主义（Regulatory Regionalism）指超国家或国际组织通过监管机制（指标、标准、排名、评估框架）对区域内高等教育进行间接治理的模式。不同于传统的政府间主义（intergovernmentalism）——后者强调成员国对政策的主导控制——监管区域主义强调超国家机构通过规范性权力（normative power）而非直接指令来塑造成员国的教育政策和实践（Jayasuriya, 2010; Robertson, 2010; Thompson & Parreira do Amaral, 2022, p.11）。
 >
-> [[Argument_Rambla_2022_Springer|Rambla (2022)]]对欧盟创新与教育政策的分析为监管区域主义提供了具体的操作机制说明：[[Performance Indicators]] 是监管区域主义的核心操作工具——超国家组织通过指标和排名将复杂的政策现实转化为可比较、可排名的量化数据，从而在不具备直接立法权的情况下对成员国的政策选择施加规范压力([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166, 174–175]])。
+> [[Argument_Rambla_2022_Springer\|Rambla (2022)]]对欧盟创新与教育政策的分析为监管区域主义提供了具体的操作机制说明：[[Performance Indicators]] 是监管区域主义的核心操作工具——超国家组织通过指标和排名将复杂的政策现实转化为可比较、可排名的量化数据，从而在不具备直接立法权的情况下对成员国的政策选择施加规范压力([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165–166, 174–175]])。
 
 ## 概念辨析
 
@@ -68,9 +68,9 @@ updated: 2026-09-18
 
 > [!note]-
 > - **Jayasuriya（2010）** 提出监管区域主义概念框架，分析超国家组织如何通过监管机制而非传统政府间谈判来行使治理权力
-> - **Robertson（2010）** 在欧盟语境中发展了"监管型国家区域主义"（regulatory state regionalism）概念，揭示欧盟如何通过[[Bologna Process|博洛尼亚进程]]等机制构建新的高等教育治理模式
+> - **Robertson（2010）** 在欧盟语境中发展了"监管型国家区域主义"（regulatory state regionalism）概念，揭示欧盟如何通过[[Bologna Process\|博洛尼亚进程]]等机制构建新的高等教育治理模式
 > - **Robertson et al.（2016）** 在 [[Global Regionalisms]] 中进一步将高等教育定位为区域地缘政治想象的核心支柱，监管区域主义成为理解区域高等教育整合的关键分析工具（Thompson & Parreira do Amaral, 2022, p.11）
-> - **[[Argument_Rambla_2022_Springer|Rambla (2022)]]** 通过对 [[Innovation Union]] 和 [[EU Skills Agenda]] 的分析，为监管区域主义提供了具体的经验案例——EUROSTAT 的区域创新记分牌和 NUTS2 [[Performance Indicators|教育指标]]如何通过"治理的间接性"塑造成员国和地方层面的政策选择与认知框架（p.165–175）
+> - **[[Argument_Rambla_2022_Springer\|Rambla (2022)]]** 通过对 [[Innovation Union]] 和 [[EU Skills Agenda]] 的分析，为监管区域主义提供了具体的经验案例——EUROSTAT 的区域创新记分牌和 NUTS2 [[Performance Indicators\|教育指标]]如何通过"治理的间接性"塑造成员国和地方层面的政策选择与认知框架（p.165–175）
 
 ## 核心要素
 
@@ -97,7 +97,7 @@ updated: 2026-09-18
 
 > [!tip]-
 > - [[Global Regionalisms]] — Robertson et al.（2016）的框架为理解监管区域主义提供了宏观语境：高等教育被整合进大规模政治经济区域整合项目
-> - [[Geopolitics of Knowledge]] — 将监管实践置于知识地缘政治的竞争逻辑中加以理解：[[Knowledge Production|知识生产]]（指标、排名）本身即是一种塑造地理空间中权力关系的操作
+> - [[Geopolitics of Knowledge]] — 将监管实践置于知识地缘政治的竞争逻辑中加以理解：[[Knowledge Production\|知识生产]]（指标、排名）本身即是一种塑造地理空间中权力关系的操作
 > - [[Performance Indicators]] — 绩效指标是监管区域主义的核心操作机制，Le Galès（2016）的技术—权力双重性框架解释了其如何运作
 > - [[Selectivity]] — Jessop（2007）的策略选择概念解释了监管区域主义中政策替代方案被结构性筛选的机制
 
@@ -120,14 +120,14 @@ updated: 2026-09-18
 ## 争议与批评
 
 > [!warning]
-> - **去政治化风险** 监管机制通过看似技术性的手段（如排名和指标）运作，但其政治意涵往往被自然化——即"去政治化的政治"。当价值判断（如"研发密集型创新优于其他创新""就业优先于赋权"）被嵌入指标体系，本应属于民主审议的政治选择被技术化为"客观标准"。这与 [[Scientization of Politics]] 的诊断相通([[Argument_Rambla_2022_Springer|Rambla, 2022, p.175–176]])
-> - **区域不平等的固化** 监管区域主义通过将高度异质的区域纳入统一的排名框架，可能固化而非缩小区域不平等。"创新领导者"更易吸引投资和人才，"一般创新者"则陷入资源劣势的累积循环——分类本身从描述性标签演变为自我实现的预言([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
-> - **高等教育[[Epistemology|认识论]]多样性** 对区域主义监管的研究需进一步关注其对高等教育认识论多样性和学科自主性的影响——当研究资助的优先级由服务于技术和政策议程的程度决定时，不以直接应用为导向的[[Blue Skies Research|基础研究]]和批判性学术可能被系统性边缘化（Thompson & Parreira do Amaral, 2022, pp.11–12）
+> - **去政治化风险** 监管机制通过看似技术性的手段（如排名和指标）运作，但其政治意涵往往被自然化——即"去政治化的政治"。当价值判断（如"研发密集型创新优于其他创新""就业优先于赋权"）被嵌入指标体系，本应属于民主审议的政治选择被技术化为"客观标准"。这与 [[Scientization of Politics]] 的诊断相通([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.175–176]])
+> - **区域不平等的固化** 监管区域主义通过将高度异质的区域纳入统一的排名框架，可能固化而非缩小区域不平等。"创新领导者"更易吸引投资和人才，"一般创新者"则陷入资源劣势的累积循环——分类本身从描述性标签演变为自我实现的预言([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
+> - **高等教育[[Epistemology\|认识论]]多样性** 对区域主义监管的研究需进一步关注其对高等教育认识论多样性和学科自主性的影响——当研究资助的优先级由服务于技术和政策议程的程度决定时，不以直接应用为导向的[[Blue Skies Research\|基础研究]]和批判性学术可能被系统性边缘化（Thompson & Parreira do Amaral, 2022, pp.11–12）
 
 ## 相关案例／政策
 
 > [!example]
-> - [[Europe 2020 Strategy]] — 以[[Performance Indicators|绩效指标]]驱动的基准管理为监管区域主义的十年实践案例
+> - [[Europe 2020 Strategy]] — 以[[Performance Indicators\|绩效指标]]驱动的基准管理为监管区域主义的十年实践案例
 > - [[Innovation Union]] — 以区域创新记分牌为核心监管工具的 EU 旗舰政策
 > - [[EU Skills Agenda]] — 以 NUTS2 教育指标为监管机制的 EU 技能政策
 > - [[Horizon 2020 SSH Integration]] — 以研究资助为间接监管杠杆的 EU 科研框架

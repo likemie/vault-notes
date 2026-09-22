@@ -41,23 +41,23 @@ updated: 2026-09-17
 
 ## 定义
 
-> [!def] 方向性[[Hypothesis|假设]]与非方向性假设
-> 方向性假设（directional [[Hypothesis]]）陈述两个条件或两组参与者之间差异或关系的种类或方向。非方向性假设（non-directional hypothesis）仅预测存在差异或关系，不陈述方向。统计上，方向性假设要求单尾检验，非方向性假设使用双尾检验（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.138–139]]）。
+> [!def] 方向性[[Hypothesis\|假设]]与非方向性假设
+> 方向性假设（directional [[Hypothesis]]）陈述两个条件或两组参与者之间差异或关系的种类或方向。非方向性假设（non-directional hypothesis）仅预测存在差异或关系，不陈述方向。统计上，方向性假设要求单尾检验，非方向性假设使用双尾检验（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, pp.138–139]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 该区分关注假设对[[Variable|变量]]间关系的预测精确度：方向性假设不仅预测"有关系"，还预测"什么方向"；非方向性假设只预测"有关系"。
+> - **含义** 该区分关注假设对[[Variable\|变量]]间关系的预测精确度：方向性假设不仅预测"有关系"，还预测"什么方向"；非方向性假设只预测"有关系"。
 > - **用途** 帮助研究者根据已有理论和证据的清晰程度选择更严格（方向性）或更开放（非方向性）的假设形式。
 > - **边界** 方向性假设并非总优于非方向性假设——当已有研究矛盾或无法预测方向时，强行使用方向性假设是不恰当的。
 
 > [!boundary]- 概念边界
-> - 不等于 [[Null Hypothesis|零假设]]/[[Alternative Hypothesis|备择假设]]——方向性/非方向性是备择假设内部的进一步细分
+> - 不等于 [[Null Hypothesis\|零假设]]/[[Alternative Hypothesis\|备择假设]]——方向性/非方向性是备择假设内部的进一步细分
 > - 方向上不可逆——一旦选定了方向性假设并据此设计了单尾检验，就不能在看到数据后再改为双尾检验
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 方向性[[Hypothesis|假设]] vs 非方向性假设
+> [!contrast-table] 方向性[[Hypothesis\|假设]] vs 非方向性假设
 > | 维度 | 方向性假设（Directional） | 非方向性假设（Non-directional） |
 > |---|---|---|
 > | 陈述方式 | 陈述差异或关系的**种类或方向** | 仅预测**存在**差异或关系，不陈述方向 |
@@ -86,6 +86,6 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 系统阐述方向性/非方向性[[Hypothesis|假设]]的定义、与单尾/双尾检验的对应关系及各自适用情境
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 将方向性作为好假设的关键特征之一，并提供方向性词汇列表
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 系统阐述方向性/非方向性[[Hypothesis\|假设]]的定义、与单尾/双尾检验的对应关系及各自适用情境
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — Ch.7 将方向性作为好假设的关键特征之一，并提供方向性词汇列表

@@ -48,7 +48,7 @@ updated: '2026-05-18'
 
 Selective Schools Expansion Fund（SSEF）由教育部于 2018 年 5 月宣布，总额 £50M，旨在使英格兰现有的 163 所[[Grammar School|文法学校]]能够申请额外资金以扩大招生规模。首批资金于 2019 年 1 月到位([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3, 13]])。
 
-> "The Selective Schools Expansion Fund (SSEF) (Department for Education [DfE], 2018), a policy designed to enable the existing 163 English grammar schools to apply for additional funds to expand their intake"([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])
+> "The Selective Schools Expansion Fund (SSEF) (Department for Education [DfE], 2018), a policy designed to enable the existing 163 English grammar schools to apply for additional funds to expand their intake"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])
 
 政策的核心逻辑由时任教育部政务次官 Lord Agnew of Oulton（2018）表述为："在现有的好学校中创造好学位要高效得多"([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.16]])。
 
@@ -69,7 +69,7 @@ SSEF 仅面向英格兰 163 所现存[[Grammar School|文法学校]]——这些
 [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]通过"[[Carnivalesque Analysis|嘉年华式分析]]"对该政策进行了批判性检验。若将 SSEF £50M 均分给 159 所"良好"[[Grammar School|文法学校]]，每校获约 £314,465：
 
 > [!info] 核心数据
-> 按相同逻辑，2850 所良好综合学校应获 £896M，19,041 所良好小学应获 £65.8 亿，2915 所良好幼儿园应获 £9.17 亿——总计超过 £84 亿([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])
+> 按相同逻辑，2850 所良好综合学校应获 £896M，19,041 所良好小学应获 £65.8 亿，2915 所良好幼儿园应获 £9.17 亿——总计超过 £84 亿([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])
 
 ## 争议与评论
 

@@ -47,7 +47,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 定居殖民主义（Settler Colonialism）是一种特殊的殖民主义形式。其核心特征在于，定居者并非旨在剥削土著居民的劳动力，而是遵循“消除的逻辑”（logic of elimination），通过系统性侵占土地并以定居者人口替代土著居民，实现对土著政治、文化与肉体存在的结构性消除。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 99]]) 这一概念最早由帕特里克·沃尔夫（Patrick Wolfe, 2006）系统化提出。
+> 定居殖民主义（Settler Colonialism）是一种特殊的殖民主义形式。其核心特征在于，定居者并非旨在剥削土著居民的劳动力，而是遵循“消除的逻辑”（logic of elimination），通过系统性侵占土地并以定居者人口替代土著居民，实现对土著政治、文化与肉体存在的结构性消除。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 99]]) 这一概念最早由帕特里克·沃尔夫（Patrick Wolfe, 2006）系统化提出。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向以消除或替换土著人口为核心逻辑的持续主权占领，而非暂时的资源开发。
@@ -55,12 +55,12 @@ updated: 2026-09-17
 > - **边界** 不适用于仅以经济掠夺为目的、不涉及大规模人口定居与土著文化替代的短期或间接殖民（传统殖民主义）。
 
 > [!citation-card]- 关键表述
-> “灭绝种族是定居殖民主义固有的意图和后果，是定居者与土著人民之间遵循‘消除的逻辑’的冲突所导致的。”([[Argument_Bulag_2024_CE|Bulag, 2024, p. 99]])
+> “灭绝种族是定居殖民主义固有的意图和后果，是定居者与土著人民之间遵循‘消除的逻辑’的冲突所导致的。”([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 99]])
 > 
 > *“Genocide is intrinsic to settler colonialism as both the intention and consequence of a settler colonial encounter with indigenous peoples that follows a ‘logic of elimination’”* (Wolfe 2006, p. 387)
 
 > [!boundary]- 概念边界
-> - 不等于 [[Necropolitics|死亡政治]] — 死亡政治侧重于主权对生死的支配；定居殖民主义侧重于对土地的永久占有与人口结构的彻底替换。
+> - 不等于 [[Necropolitics\|死亡政治]] — 死亡政治侧重于主权对生死的支配；定居殖民主义侧重于对土地的永久占有与人口结构的彻底替换。
 
 ---
 
@@ -78,7 +78,7 @@ updated: 2026-09-17
 ## 在中国语境中的应用
 
 > [!concept-lens] 新疆族群关系分析
-> 近年来，多位西方学者将定居殖民主义[[Paradigm|范式]]用于分析中国新疆的族群关系。例如，迈克尔·克拉克（Michael Clarke, 2022）主编的《新疆紧急状态》（The Xinjiang Emergency）、詹姆斯·米尔沃德（James Millward）（2021）的《欧亚十字路口》（Eurasian Crossroads）修订版以及《新疆元年》（Xinjiang Year Zero, Byler et al., 2022）都采用了这一框架。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 99]])
+> 近年来，多位西方学者将定居殖民主义[[Paradigm\|范式]]用于分析中国新疆的族群关系。例如，迈克尔·克拉克（Michael Clarke, 2022）主编的《新疆紧急状态》（The Xinjiang Emergency）、詹姆斯·米尔沃德（James Millward）（2021）的《欧亚十字路口》（Eurasian Crossroads）修订版以及《新疆元年》（Xinjiang Year Zero, Byler et al., 2022）都采用了这一框架。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 99]])
 > 
 > 该框架在分析中国时的核心论点包括：
 > - **殖民遗产的证据** “新疆”（意为“新边疆”）这一名称被视为清代以来帝国扩张与殖民统治的遗产证据。
@@ -89,10 +89,10 @@ updated: 2026-09-17
 
 ## 争议与批评
 
-> [!debates] [[Paradigm|范式]]局限与去政治化效果
+> [!debates] [[Paradigm\|范式]]局限与去政治化效果
 > 
 > > [!axis] 西方学术与国家控制的“合谋”
-> > - **布拉格（[[Argument_Bulag_2024_CE|Bulag, 2024]]）的批判** 将新疆框定为殖民地虽然道德立场鲜明，却在政治效果上面临深刻悖论。定居殖民主义以“土著人”话语为武器，而根据国际法，土著人地位并不支持要求将定居者遣返原籍（因为现状已被国际社会默认），反而是将反殖民自决权降格为国家主权框架内的内部人权与自治请求，客观上锁死了少数民族的行动边界。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 100]])
+> > - **布拉格（[[Argument_Bulag_2024_CE\|Bulag, 2024]]）的批判** 将新疆框定为殖民地虽然道德立场鲜明，却在政治效果上面临深刻悖论。定居殖民主义以“土著人”话语为武器，而根据国际法，土著人地位并不支持要求将定居者遣返原籍（因为现状已被国际社会默认），反而是将反殖民自决权降格为国家主权框架内的内部人权与自治请求，客观上锁死了少数民族的行动边界。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 100]])
 > > - **消解宪法自治权** 该框架将地方与中央的关系赤裸裸地界定为殖民关系，实际上抹杀并否定了该地区作为“维吾尔自治区”的官方宪法地位，使少数民族的宪法自治权利变得多余。这在客观上与国家掏空、削弱自治区自治权力的努力达成了非意图的话语合谋。
 > 
 > > [!axis] 土著话语与政治双重标准
@@ -103,6 +103,6 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 对定居殖民主义[[Paradigm|范式]]在新疆应用时的去政治化悖论与合谋效应进行了系统性学术批判。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 对定居殖民主义[[Paradigm\|范式]]在新疆应用时的去政治化悖论与合谋效应进行了系统性学术批判。
 > - [[Xinjiang Vocational Education and Training Centers]] — 被西方定居殖民主义学者视为执行“消除的逻辑”、实施文化灭绝的核心实证案例。

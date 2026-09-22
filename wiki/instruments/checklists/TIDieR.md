@@ -72,10 +72,10 @@ updated: 2026-09-15
 > - **工具类型** 干预方案描述与可复现性方法学核查清单（Checklist）。
 > - **开发者与年份** Hoffmann et al. (2014)。
 > - **测量目的** 彻底解决医疗卫生、行为科学及教育学试验中干预方案普遍存在的“描述严重残缺”与“不可复现黑箱”弊端，通过 12 个结构化核心维度详尽规范干预为何开展、包含哪些材料与程序、由谁递送、如何施测及现场实际遵从程度。
-> - **实施方式** 由干预研发者在编制试验方案与协议时对照填写，或由评估者、同行评议专家及[[Systematic Review|系统综述]]员用于审核方案描述透明度与[[Implementation Fidelity|实施保真度]]。
+> - **实施方式** 由干预研发者在编制试验方案与协议时对照填写，或由评估者、同行评议专家及[[Systematic Review\|系统综述]]员用于审核方案描述透明度与[[Implementation Fidelity\|实施保真度]]。
 
 > [!citation-card] 破解干预黑箱与实施保真度报告规程
-> 早期教育试验往往由于缺乏高质量的[[Implementation and Process Evaluation|实施与过程评估]]（IPE），导致无法解释结果背后的因果机制或描述现场实施情况。为此，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）委托曼彻斯特大学开展系统[[Literature Review|文献综述]]（Humphrey et al., 2016），并制定指导方针，明确将 TIDieR 核查指南（Hoffmann et al., 2014）引入教育试验，强调详尽记录干预各组分、对照组常规活动、因果机制与遵从度的极端重要性。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 53)]]
+> 早期教育试验往往由于缺乏高质量的[[Implementation and Process Evaluation\|实施与过程评估]]（IPE），导致无法解释结果背后的因果机制或描述现场实施情况。为此，英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托曼彻斯特大学开展系统[[Literature Review\|文献综述]]（Humphrey et al., 2016），并制定指导方针，明确将 TIDieR 核查指南（Hoffmann et al., 2014）引入教育试验，强调详尽记录干预各组分、对照组常规活动、因果机制与遵从度的极端重要性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 53)]]
 >
 > *"For this reason, in 2014, the EEF commissioned a literature review by Manchester University of IPE for education interventions (Humphrey et al., 2016) which informed guidance highlighting the importance of a detailed intervention description (Hoffman et al., 2014) and high-quality data on implementation, compliance, control group activity, causal mechanisms, and cost."*
 

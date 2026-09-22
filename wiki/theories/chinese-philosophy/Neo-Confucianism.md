@@ -51,17 +51,17 @@ updated: 2026-07-08
 ## 核心主张
 
 > [!tip]-
-> 宋明理学（Neo-Confucianism）是宋明时期（960-1279; 1368-1644）[[Confucian Revival in China|儒学复兴]]的思想运动，其核心主张是：[[Confucius|孔子]]所倡导的道代表了宇宙万物背后的**天理（heavenly principle）**，遵循此道即达到最高原理。理学重新开启并深化了儒家的学习传统，将成为[[Sage|圣人]]设定为每个学习者的终极目标，并主张这一目标人人可达([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
+> 宋明理学（Neo-Confucianism）是宋明时期（960-1279; 1368-1644）[[Confucian Revival in China\|儒学复兴]]的思想运动，其核心主张是：[[Confucius\|孔子]]所倡导的道代表了宇宙万物背后的**天理（heavenly principle）**，遵循此道即达到最高原理。理学重新开启并深化了儒家的学习传统，将成为[[Sage\|圣人]]设定为每个学习者的终极目标，并主张这一目标人人可达([[Argument_Li_2012_Cambridge\|Li, 2012, p.43]])。
 
 > [!quote]
-> "Unlike earlier Confucians, Neo-Confucians elaborated on individual inquiry into the universe. Cheng Yi and Cheng Hao argued that following the heavenly principle requires gewu in order to zhizhi, thus qiongli – investigating things to extend one's knowledge and master the principle." ([[Argument_Li_2012_Cambridge|Li, 2012, p. 43]])
+> "Unlike earlier Confucians, Neo-Confucians elaborated on individual inquiry into the universe. Cheng Yi and Cheng Hao argued that following the heavenly principle requires gewu in order to zhizhi, thus qiongli – investigating things to extend one's knowledge and master the principle." ([[Argument_Li_2012_Cambridge\|Li, 2012, p. 43]])
 > 
 > 与早期儒家不同，宋明理学家阐述了个体对宇宙的探究精神。程颐与程颢认为，遵循天理需要格物以致知，从而穷理——即探究事物以扩展知识、掌握原理。
 
 ## 发展脉络
 
 > [!note]-
-> [[Confucian Learning Tradition|儒家学习传统]]在东汉以后经历了近千年的边缘化，直到北宋初期的儒家学者重新开启了这一传统([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
+> [[Confucian Learning Tradition\|儒家学习传统]]在东汉以后经历了近千年的边缘化，直到北宋初期的儒家学者重新开启了这一传统([[Argument_Li_2012_Cambridge\|Li, 2012, p.43]])。
 
 ### 北宋：程朱理学的奠基
 
@@ -89,7 +89,7 @@ updated: 2026-07-08
 ## 争议与批评
 
 > [!warning]
-> 新儒学运动的兴起部分是对当时盛行的佛教与道教的回应。佛教主张彻底消除人欲以求觉悟，道教提倡顺应自然、避免人为奋斗——这两种取向都不为儒家所接受，因为儒家鼓励个体齐家、服务社群、承担更大的社会与道德责任([[Argument_Li_2012_Cambridge|Li, 2012, p.61]])。
+> 新儒学运动的兴起部分是对当时盛行的佛教与道教的回应。佛教主张彻底消除人欲以求觉悟，道教提倡顺应自然、避免人为奋斗——这两种取向都不为儒家所接受，因为儒家鼓励个体齐家、服务社群、承担更大的社会与道德责任([[Argument_Li_2012_Cambridge\|Li, 2012, p.61]])。
 
 ## 相关研究
 

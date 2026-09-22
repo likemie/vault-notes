@@ -72,24 +72,24 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **测量尺度（Scale of Measurement，亦称测量量表）**是[[Quantitative Research|量化研究]]与心理测量学中将抽象[[Construct|理论构念]]转化为实证可分析数据的数学规则与赋值层级。它规定了向受试者提供的反应选项属性，或研究者在观察测量参与者时所采集度量单位的数学逻辑（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 56]]）。测量尺度不仅决定了研究者可运用的统计分析模型边界，更在宏观教育政策与因果评估中决定了终结性结局指标的区分度、量程完整性与公信力。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
+> **测量尺度（Scale of Measurement，亦称测量量表）**是[[Quantitative Research\|量化研究]]与心理测量学中将抽象[[Construct\|理论构念]]转化为实证可分析数据的数学规则与赋值层级。它规定了向受试者提供的反应选项属性，或研究者在观察测量参与者时所采集度量单位的数学逻辑（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 56]]）。测量尺度不仅决定了研究者可运用的统计分析模型边界，更在宏观教育政策与因果评估中决定了终结性结局指标的区分度、量程完整性与公信力。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向经验现实与数字符号系统之间的映射规则，界定数字是否具备标识、排序、等距或绝对零点属性。
-> - **用途** 约束统计[[Hypothesis|假设]]检验（参数 vs 非参数）的选择，并诊断因测验量程不当引发的测量截断与因果效应失真。
+> - **用途** 约束统计[[Hypothesis\|假设]]检验（参数 vs 非参数）的选择，并诊断因测验量程不当引发的测量截断与因果效应失真。
 > - **边界** 测量尺度不等于具体的物理测量仪器或单张试卷，而是指该工具所生成分数的底层数学尺度与心理计量结构。
 
-> [!citation-card] 测量尺度的反应选项与数据转化本质（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）
-> 测量尺度规定了受试者在测验工具上的反应选项或观察采集单位，是[[Variable|变量]][[Operationalization|操作化]]的核心载体：
+> [!citation-card] 测量尺度的反应选项与数据转化本质（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）
+> 测量尺度规定了受试者在测验工具上的反应选项或观察采集单位，是[[Variable\|变量]][[Operationalization\|操作化]]的核心载体：
 >
-> *“A scale of measurement in quantitative research would be the response options available to participants on instruments or collected by the researcher observing participants.”* [[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 56)]]
+> *“A scale of measurement in quantitative research would be the response options available to participants on instruments or collected by the researcher observing participants.”* [[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 56)]]
 
-> [!citation-card] 测量工具心理计量特质对[[Causality|因果推断]]效度的制约（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）
-> [[Implementation and Process Evaluation|过程评估]]揭示了课堂内部的运行机制，但因果推断的最终效度仍高度受制于终结性测量工具的心理计量特质。测量工具的[[Construct Validity|构念效度]]、量程灵敏度与独立性直接决定了试验结论的外部推广潜能，确立客观独立的评价标尺成为保障试验公信力的生命线。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
+> [!citation-card] 测量工具心理计量特质对[[Causality\|因果推断]]效度的制约（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
+> [[Implementation and Process Evaluation\|过程评估]]揭示了课堂内部的运行机制，但因果推断的最终效度仍高度受制于终结性测量工具的心理计量特质。测量工具的[[Construct Validity\|构念效度]]、量程灵敏度与独立性直接决定了试验结论的外部推广潜能，确立客观独立的评价标尺成为保障试验公信力的生命线。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!boundary] 概念边界
 > - 不等于单一题项（Item） — 测量尺度是题项总分或合成指标所依附的度量系统。
-> - 不等于单纯的数字[[Coding in Qualitative Research|编码]] — 名义尺度的数字（如 1=男，2=女）仅具有代号意义，不具备算术运算合法性。
+> - 不等于单纯的数字[[Coding in Qualitative Research\|编码]] — 名义尺度的数字（如 1=男，2=女）仅具有代号意义，不具备算术运算合法性。
 
 ---
 
@@ -125,16 +125,16 @@ updated: 2026-09-17
 在真实教育试验与大规模政策评估中，测量尺度的构建面临严重的心理计量失真威胁（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 54]]）：
 
 > [!critique-method] 传统教育试验终结性测量的两大心理计量陷阱
-> - **[[Developer-Made Measures|开发者自编测验]]的题项同构溢价（Inherent Measures）** 若研究采用项目开发者自行设计的测验，题项极易与实验组专属的教学要点高度重合，使得该尺度度量的不再是普遍的“学科能力”，而是“对特定测验题目的熟悉度”，导致统计[[Effect Size|效应量]]被人为夸大 50% 至 100%（Cheung & Slavin, 2016; WWC, 2017）。
-> - **商业标准化测验的量程受限与效度黑箱** 市售商业测验开发商通常仅在手册中提供克隆巴赫 $\alpha$（[[Internal Consistency|内部一致性]]），极少向学界公开[[Predictive Validity|预测效度]]数据；伦敦大学学院丽贝卡·艾伦等（Allen et al., 2018）复算显示其对官方统考的预测效度偏低。更严重的是，商业测验难度阶梯狭窄，高频遭遇[[Floor and Ceiling Effects|天花板与地板效应]]（如 Catch Up Numeracy 数学干预试验，Hodgen et al., 2019），高水平学生轻易满分、低水平学生大量零分，尺度在两端被硬性截断，严重抹平真实因果差距。
+> - **[[Developer-Made Measures\|开发者自编测验]]的题项同构溢价（Inherent Measures）** 若研究采用项目开发者自行设计的测验，题项极易与实验组专属的教学要点高度重合，使得该尺度度量的不再是普遍的“学科能力”，而是“对特定测验题目的熟悉度”，导致统计[[Effect Size\|效应量]]被人为夸大 50% 至 100%（Cheung & Slavin, 2016; WWC, 2017）。
+> - **商业标准化测验的量程受限与效度黑箱** 市售商业测验开发商通常仅在手册中提供克隆巴赫 $\alpha$（[[Internal Consistency\|内部一致性]]），极少向学界公开[[Predictive Validity\|预测效度]]数据；伦敦大学学院丽贝卡·艾伦等（Allen et al., 2018）复算显示其对官方统考的预测效度偏低。更严重的是，商业测验难度阶梯狭窄，高频遭遇[[Floor and Ceiling Effects\|天花板与地板效应]]（如 Catch Up Numeracy 数学干预试验，Hodgen et al., 2019），高水平学生轻易满分、低水平学生大量零分，尺度在两端被硬性截断，严重抹平真实因果差距。
 
 ### 3. 权威测量工具库与尺度准入标准
 
 为根治测量尺度质量参差不齐的痼疾，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）前置建立了国家级测量工具审查基础设施：
 
 > [!feature] 现代循证评估的测量尺度基础设施
-> - **[[SPECTRUM]] 数据库（非认知与社会情感测量工具库）** 针对市场上非认知与心理韧性量表良莠不齐的现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth et al., 2017）开展超大规模系统[[Document|文献]]审查，严格审核数百种量表的心理计量属性（[[Reliability|信度]]、[[Construct Validity|结构效度]]、预测效度、[[Cross-cultural Validity|跨文化效度]]及学校可行性），建立起权威的非认知测量工具准入目录（[EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)）。
-> - **[[Academic Achievement|学业成就]]测量数据库（Attainment Measures Database）** 系统收录并审查面向 6–18 岁学生的标准化[[Norm-Referenced Test|常模参照测验]]，针对阅读、数学与科学等学科提供详细的心理计量评级与量程诊断（[Attainment Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database)）。
+> - **[[SPECTRUM]] 数据库（非认知与社会情感测量工具库）** 针对市场上非认知与心理韧性量表良莠不齐的现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth et al., 2017）开展超大规模系统[[Document\|文献]]审查，严格审核数百种量表的心理计量属性（[[Reliability\|信度]]、[[Construct Validity\|结构效度]]、预测效度、[[Cross-cultural Validity\|跨文化效度]]及学校可行性），建立起权威的非认知测量工具准入目录（[EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)）。
+> - **[[Academic Achievement\|学业成就]]测量数据库（Attainment Measures Database）** 系统收录并审查面向 6–18 岁学生的标准化[[Norm-Referenced Test\|常模参照测验]]，针对阅读、数学与科学等学科提供详细的心理计量评级与量程诊断（[Attainment Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database)）。
 > - **学前早期测量数据库（Early Years Measures Database）** 专门评估面向 0–6 岁儿童早期语言、读写、数学与社会情感发展的测量工具，确保学前教育试验采用高敏感度、宽量程的测量尺度（[Early Years Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）。
 
 ---
@@ -146,28 +146,28 @@ updated: 2026-09-17
 > [!concept-lens] 尺度层级与参数/非参数检验的对应法则
 > 测量尺度在数学上拥有的信息量决定了数据分析的统计合法性边界。
 
-> [!claim] [[John W. Creswell|Creswell, J. W.]] & [[J. David Creswell|Creswell, J. D.]]
-> **统计模型与尺度匹配的刚性原则** [[Quantitative Research|量化研究]]者在选择[[Hypothesis|假设]]检验方法时必须严格受制于[[Dependent Variable|因变量]]与[[Independent Variable|自变量]]的测量尺度属性。名义尺度与顺序尺度数据由于缺乏相等的测量间距，不能计算具有数学意义的算术均值与方差，原则上必须采用非参数统计方法（如[[Chi-Squared Test|卡方检验]]、Mann-Whitney U 检验、Kruskal-Wallis 检验）；而等距尺度与比率尺度数据具有相等的度量间距，在满足分布假定下支持均值、标准差计算及参数检验（如 $t$ 检验、[[Analysis of Variance|方差分析]] ANOVA、多元线性回归）。量表类型的混淆与误判将直接破坏统计推论的有效性。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 56)]]
+> [!claim] [[John W. Creswell\|Creswell, J. W.]] & [[J. David Creswell\|Creswell, J. D.]]
+> **统计模型与尺度匹配的刚性原则** [[Quantitative Research\|量化研究]]者在选择[[Hypothesis\|假设]]检验方法时必须严格受制于[[Dependent Variable\|因变量]]与[[Independent Variable\|自变量]]的测量尺度属性。名义尺度与顺序尺度数据由于缺乏相等的测量间距，不能计算具有数学意义的算术均值与方差，原则上必须采用非参数统计方法（如[[Chi-Squared Test\|卡方检验]]、Mann-Whitney U 检验、Kruskal-Wallis 检验）；而等距尺度与比率尺度数据具有相等的度量间距，在满足分布假定下支持均值、标准差计算及参数检验（如 $t$ 检验、[[Analysis of Variance\|方差分析]] ANOVA、多元线性回归）。量表类型的混淆与误判将直接破坏统计推论的有效性。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 56)]]
 
 ---
 
 ### 命题二　终结性测量尺度的独立性与常模代表性决定了实验因果推断的外部推广效度
 
 > [!concept-lens] 开发者自编特异性与国家普查常模标尺的张力
-> 测量尺度是干预开发者量身定制还是依托国家常模，直接决定了[[Effect Size|效应量]]的真实含金量。
+> 测量尺度是干预开发者量身定制还是依托国家常模，直接决定了[[Effect Size\|效应量]]的真实含金量。
 
 > [!claim] Edovald, T. & Nevill, C.
-> **自编测验效应虚高与国家行政统考锚定准则** 采用由干预开发者自编的非标准化测验（[[Developer-Made Measures|Inherent Measures]]）作为结局尺度，会因为题目与干预内容的深度重叠而诱发严重的测量偏差，使效应量被人为夸大高达 100%。为了保障证据的科学客观性，现代循证评估机构（如 [[Education Endowment Foundation|EEF]]）确立了刚性准则：主要结局指标严禁采用任何自编测验，必须强制优先锚定[[National Pupil Database|国家学生数据库]]（NPD）官方标准化统考客观尺度，以确保测量结果能够无缝对接全社会公认的高利害学业基准。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
+> **自编测验效应虚高与国家行政统考锚定准则** 采用由干预开发者自编的非标准化测验（[[Developer-Made Measures\|Inherent Measures]]）作为结局尺度，会因为题目与干预内容的深度重叠而诱发严重的测量偏差，使效应量被人为夸大高达 100%。为了保障证据的科学客观性，现代循证评估机构（如 [[Education Endowment Foundation\|EEF]]）确立了刚性准则：主要结局指标严禁采用任何自编测验，必须强制优先锚定[[National Pupil Database\|国家学生数据库]]（NPD）官方标准化统考客观尺度，以确保测量结果能够无缝对接全社会公认的高利害学业基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
 
 ### 命题三　测量尺度的有效量程截断会系统性扭曲干预的真实因果效应量
 
-> [!concept-lens] 难度分布失衡引发[[Floor and Ceiling Effects|天花板与地板效应]]的因果遮蔽
+> [!concept-lens] 难度分布失衡引发[[Floor and Ceiling Effects\|天花板与地板效应]]的因果遮蔽
 > 测量尺度的两端量程是否充分，决定了干预对不同能力受试者的真实边际改善能否被观测。
 
 > [!claim] Hodgen, J.
-> **测验量程截断与因果效应人为低估** 商业标准化测验在常态学生群体中极易遭遇有效量程受限的心理计量缺陷。当试卷题项难度分布不当、缺乏足够的区分梯度时，高学力学生会轻易触及满分顶格（天花板效应），基础薄弱学生会大面积得零分（地板效应）。这种测量尺度的非线性截断抹平了干预组与对照组在分布两端的真实微观差距，导致模型估计出的效应量出现系统性向下偏倚，造成对有效干预的严重误杀。[[Argument_Edovald_Nevill_2021_ECNUROE|(Hodgen et al., 2019; Edovald & Nevill, 2021, p. 54)]]
+> **测验量程截断与因果效应人为低估** 商业标准化测验在常态学生群体中极易遭遇有效量程受限的心理计量缺陷。当试卷题项难度分布不当、缺乏足够的区分梯度时，高学力学生会轻易触及满分顶格（天花板效应），基础薄弱学生会大面积得零分（地板效应）。这种测量尺度的非线性截断抹平了干预组与对照组在分布两端的真实微观差距，导致模型估计出的效应量出现系统性向下偏倚，造成对有效干预的严重误杀。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Hodgen et al., 2019; Edovald & Nevill, 2021, p. 54)]]
 
 ---
 
@@ -204,6 +204,6 @@ updated: 2026-09-17
 
 ## 使用此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p. 56)]] — 系统阐述名义、顺序、等距与比率四类测量尺度的定义、反应选项设计及其对统计分析模型选择的约束。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021, p. 54)]] — 详述终结性测量尺度的心理计量属性对 [[Randomised Controlled Trials|RCT]] 因果效度的决定性影响，系统批判自编测验虚高与商业测验量程截断，并介绍 [[SPECTRUM]] 等测量工具库准入实践。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p. 56)]] — 系统阐述名义、顺序、等距与比率四类测量尺度的定义、反应选项设计及其对统计分析模型选择的约束。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]] — 详述终结性测量尺度的心理计量属性对 [[Randomised Controlled Trials\|RCT]] 因果效度的决定性影响，系统批判自编测验虚高与商业测验量程截断，并介绍 [[SPECTRUM]] 等测量工具库准入实践。

@@ -127,14 +127,14 @@ sources:
 ## 研究问题
 
 > [!question]
-> 为什么旨在向政策制定者与教育实践者推广循证理念的[[Educational Brokerage Agency|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs），自身在制定工作目标、选择干预方法、确立证据评价准则以及评估服务成效时，却频繁陷入缺乏实证依据支持的循证赤字？中介机构应如何建立自省性的元研究[[Analytic Framework|分析框架]]，使自身的设计、运作与制度协同真正建立在研究应用之科学（The Science of Using Science）的基础之上？（pp. 146–147, 157–158）
+> 为什么旨在向政策制定者与教育实践者推广循证理念的[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs），自身在制定工作目标、选择干预方法、确立证据评价准则以及评估服务成效时，却频繁陷入缺乏实证依据支持的循证赤字？中介机构应如何建立自省性的元研究[[Analytic Framework\|分析框架]]，使自身的设计、运作与制度协同真正建立在研究应用之科学（The Science of Using Science）的基础之上？（pp. 146–147, 157–158）
 
 > [!claim] 核心主张
-> 知识中介机构的公信力与有效性取决于其自身是否践行所倡导的循证原则。中介机构必须超越单向信息推介与朴素常识[[Hypothesis|假设]]，将其实践系统构筑在五大循证支柱之上：对既有[[Evidence Ecosystem|证据生态系统]]的严密需求分析、与外层社会政治及问责制度的深度对齐、扎根于行为改变科学的显性[[Theory of Change|变革理论]]、透明且高度分化的[[Evidence Standards|证据标准]]以支撑合法的功效主张，以及对最终受益者成效的因果评估与元知识库积累。（pp. 147–148, 158–159）
+> 知识中介机构的公信力与有效性取决于其自身是否践行所倡导的循证原则。中介机构必须超越单向信息推介与朴素常识[[Hypothesis\|假设]]，将其实践系统构筑在五大循证支柱之上：对既有[[Evidence Ecosystem\|证据生态系统]]的严密需求分析、与外层社会政治及问责制度的深度对齐、扎根于行为改变科学的显性[[Theory of Change\|变革理论]]、透明且高度分化的[[Evidence Standards\|证据标准]]以支撑合法的功效主张，以及对最终受益者成效的因果评估与元知识库积累。（pp. 147–148, 158–159）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 英国及跨国知识中介机构（KBIs），重点聚焦有效性中心（[[What Works Network|What Works Centres]], WWCs）、网络化证据门户（Evidence Portals）以及政府科学顾问委员会。
-> - **张力** [[Knowledge Mediation|知识中介]]行动导向的即时产出考核压力，与其活动本身亟待严格科学论证之间的制度张力；单向信息传递的直觉诱惑与实证研究证实单纯传播无效之间的[[Epistemology|认识论]]冲突。
+> - **对象** 英国及跨国知识中介机构（KBIs），重点聚焦有效性中心（[[What Works Network\|What Works Centres]], WWCs）、网络化证据门户（Evidence Portals）以及政府科学顾问委员会。
+> - **张力** [[Knowledge Mediation\|知识中介]]行动导向的即时产出考核压力，与其活动本身亟待严格科学论证之间的制度张力；单向信息传递的直觉诱惑与实证研究证实单纯传播无效之间的[[Epistemology\|认识论]]冲突。
 > - **贡献** 确立中介机构自我循证的元治理理论框架，厘清证据生态双层嵌套模型与国际门户六维证据标准，构建涵盖需求诊断、系统整合、行为变革、标准规范、成效检验及多方协同的实践规程。
 
 ---
@@ -151,7 +151,7 @@ sources:
 > | **[[Educational Brokerage Agency\|知识中介机构分类框架]]**<br>[[Educational Brokerage Agency]] | 将中介主体细分为网络门户、专门中介机构（如 [[What Works Network\|WWCs]]）、大学科研传播办公室及政府科学顾问系统四类形态。（p. 147） |
 
 > [!warrant]- 理论如何支撑论证
-> 证据[[Ecological Systems Theory|生态系统理论]]与行为改变科学、项目评价学的结合，揭示了中介机构常年成效受限的理论根源：传统实践将中介预设为单向线性输出管道。双层嵌套生态[[Analytic Framework|分析框架]]打破了这一[[Hypothesis|假设]]，要求在审视中介使命时，不仅向上考察研究供给与决策拉力的实质匹配，更向外审视高利害问责等外层体制对实践者施加的行为约束，从而使中介干预的因果推论获得严密的实证检验。（pp. 148–153）
+> 证据[[Ecological Systems Theory\|生态系统理论]]与行为改变科学、项目评价学的结合，揭示了中介机构常年成效受限的理论根源：传统实践将中介预设为单向线性输出管道。双层嵌套生态[[Analytic Framework\|分析框架]]打破了这一[[Hypothesis\|假设]]，要求在审视中介使命时，不仅向上考察研究供给与决策拉力的实质匹配，更向外审视高利害问责等外层体制对实践者施加的行为约束，从而使中介干预的因果推论获得严密的实证检验。（pp. 148–153）
 
 ---
 
@@ -222,7 +222,7 @@ sources:
 ### 论证步骤一　知识中介机构深陷行动导向压倒自省审视的循证赤字
 
 > [!claim] 步骤一核心主张
-> [[Educational Brokerage Agency|知识中介机构]]倡导决策者与一线从业者依据实证证据开展决策，但其自身在设计介入策略与组织运作时却普遍缺乏实证研究支撑，面临成效削弱与公信力受损的双重治理危机。（pp. 146–147, 157）
+> [[Educational Brokerage Agency\|知识中介机构]]倡导决策者与一线从业者依据实证证据开展决策，但其自身在设计介入策略与组织运作时却普遍缺乏实证研究支撑，面临成效削弱与公信力受损的双重治理危机。（pp. 146–147, 157）
 
 #### 1. 即时产出考核挤压了中介机构对自身实践的科学论证
 
@@ -230,8 +230,8 @@ sources:
 
 > [!feature] 知识中介机构的组织形态与介入策略全貌（Box 7.1, p. 147）
 > - **知识中介机构的主要组织形态**
->     - **网络证据门户** 旨在向潜在[[Research Utilization|证据使用]]者交流、展示与检索研究发现的数字化知识库平台；
->     - **专门知识中介组织** 包括英国有效性中心（[[What Works Network|What Works Centres]], WWCs）以及面向重大公共挑战的研究观察站（如国际公共政策观察站（International Public Policy Observatory, IPPO））；
+>     - **网络证据门户** 旨在向潜在[[Research Utilization\|证据使用]]者交流、展示与检索研究发现的数字化知识库平台；
+>     - **专门知识中介组织** 包括英国有效性中心（[[What Works Network\|What Works Centres]], WWCs）以及面向重大公共挑战的研究观察站（如国际公共政策观察站（International Public Policy Observatory, IPPO））；
 >     - **大学科研传播办公室** 设于高等院校内部，专职负责对外推介、转化本校科研成果的专门部门；
 >     - **政府证据咨询系统** 正式嵌入议会与行政部委内部的常设或特设科学顾问网络与专家委员会。
 > - **促进研究融入决策的核心介入策略**
@@ -246,7 +246,7 @@ sources:
 
 > [!challenges] 行动导向与即时交付考核对科学论证的挤压
 > 1. **急迫的可见产出考核** 外部资助机制高度聚焦于短期活动数量与产品交付，无暇顾及长效机制研究；
-> 2. **经验直觉驱动的介入** 实践严重依赖常识直觉与非[[Reflexivity|反思性]]经验，未能系统检验介入模式本身的实证依据。
+> 2. **经验直觉驱动的介入** 实践严重依赖常识直觉与非[[Reflexivity\|反思性]]经验，未能系统检验介入模式本身的实证依据。
 
 #### 2. 自我循证五大核心支柱是保障中介公信力的制度基石
 
@@ -267,8 +267,8 @@ sources:
 > [!dimension] 知识中介机构自我循证的五大核心支柱（pp. 147–148）
 > - **既有生态需求摸排** 系统评估目标领域既有研究生产、使用与供求关系，明智确定介入的薄弱环节与切入点。（p. 147）
 > - **外层宏观体制整合** 深入研判政治问责与拨款等外部支配体系，寻求机制咬合与接纳性环境建设。
-> - **扎根行为科学的[[Theory of Change|变革理论]]** 彻底摒弃单纯信息推送[[Hypothesis|假设]]，扎根于行为科学与 [[COM-B Model|COM-B]] 机制厘清知识转化的因果链条。
-> - **透明严谨的[[Evidence Standards|证据标准]]** 建立涵盖方法学准则与成熟度评定的标准体系，审慎提出经得起检验的功效主张。（p. 148）
+> - **扎根行为科学的[[Theory of Change\|变革理论]]** 彻底摒弃单纯信息推送[[Hypothesis\|假设]]，扎根于行为科学与 [[COM-B Model\|COM-B]] 机制厘清知识转化的因果链条。
+> - **透明严谨的[[Evidence Standards\|证据标准]]** 建立涵盖方法学准则与成熟度评定的标准体系，审慎提出经得起检验的功效主张。（p. 148）
 > - **针对终极受益人的因果评估** 摆脱简单的过程记录，开展针对最终受益人学业与福祉的独立因果评估并反哺元研究。
 
 ---
@@ -282,7 +282,7 @@ sources:
 
 证据知情政策与实践要求将切合实际的研究证据适切地融入决策。平均意义上有效的措施在特定情境下可能是无效甚至有害的；决策者的具体问题与研究生产之间必须形成动态匹配。传统模型与需求拉动生态模型在认知假设上存在根本分野：（p. 148）
 
-> [!contrast-table] 证据传递的两类认知[[Paradigm|范式]]：供给推送模型 vs 需求拉动生态模型
+> [!contrast-table] 证据传递的两类认知[[Paradigm\|范式]]：供给推送模型 vs 需求拉动生态模型
 > | 比较维度 | 传统供给推送模型（Research Push） | 需求拉动证据生态模型（Demand-led Ecosystem） |
 > |---|---|---|
 > | **构图与心理隐喻** | 研究在左侧源头，实践在右侧末梢，强化自左向右单向流动 | 决策与实施置于左侧，研究置于右侧，强化实践需求拉力 |
@@ -291,18 +291,18 @@ sources:
 
 为彻底破除自左向右推挤知识的单向心理惯性，证据生态模型通过构图反转确立了需求牵引的分析拓扑：（p. 148）
 
-> [!figure]- Figure 7.1 [[Evidence Ecosystem|证据生态系统]]双层嵌套模型（Figure 7.1, p. 148）
+> [!figure]- Figure 7.1 [[Evidence Ecosystem\|证据生态系统]]双层嵌套模型（Figure 7.1, p. 148）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_7-1_Evidence_ecosystem.jpg)
 >
 > **证据生态系统双层结构要素（Adapted from Gough et al., 2011, 2018, 2022, p. 148）**
 > - **外层大系统** 顶层虚线方框包容着复杂的政治体制、拨款问责、意识形态与权力博弈，内部汇聚着多元行动者、不同视角、焦点议题、待解问题与权力结构。
 > - **决策与实施（置于左侧，凸显需求牵引）**
->   - **政策、实践与决策制定** 涵盖证据的启蒙性使用与[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]；
+>   - **政策、实践与决策制定** 涵盖证据的启蒙性使用与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]；
 >   - **决策实施** 承接决策判断，向基层教学或治理实践纵深落地。
 > - **研究生产与综合（置于右侧，破除推送惯性）**
 >   - **初级研究生产** 构成底层实证土壤；
 >   - **研究综合所得** 提炼出概念性证据与工具性证据。
-> - **中介机制** 处于左右两侧核心构件之间，承担双向[[Dialogue in Education|对话]]、协同参与与证据转译的枢纽职能。
+> - **中介机制** 处于左右两侧核心构件之间，承担双向[[Dialogue in Education\|对话]]、协同参与与证据转译的枢纽职能。
 > - **构图注记** 模型特意将研究生产置于右侧，坚决防范将证据使用视作自左向右单向推送（Push）知识的机械过程。
 
 #### 2. 有效性中心历史轨迹展现由单纯信息传播向实施落地的战略转向
@@ -322,15 +322,15 @@ sources:
 
 > [!case] 实证案例：有效性中心由信息传播向深度实施护航的战略转向（pp. 149–150）
 > 英国有效性中心在创设初期多将资源集中于证据综合与信息发布，但实践表明单纯提供证据摘要难以驱动系统性变革，促使各中心探索扎根区域生态的深度实施与行为动员机制：
-> - **[[Education Endowment Foundation|EEF]] [[Research Schools Network|研究学校网络]]（Research Schools Network, RSN；Gu et al., 2020）**
->   - **背景与痛点** 英国教育捐赠基金会（EEF）尽管通过《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》（Teaching and Learning Toolkit）在中小学管理层建立了极高知名度，但纸面证据无法跨越中央发布与课堂实践之间的鸿沟，偏远与薄弱学校难以自主消化抽象的实证结论。
+> - **[[Education Endowment Foundation\|EEF]] [[Research Schools Network\|研究学校网络]]（Research Schools Network, RSN；Gu et al., 2020）**
+>   - **背景与痛点** 英国教育捐赠基金会（EEF）尽管通过《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit）在中小学管理层建立了极高知名度，但纸面证据无法跨越中央发布与课堂实践之间的鸿沟，偏远与薄弱学校难以自主消化抽象的实证结论。
 >   - **干预机制** EEF 联合“有效性教育研究所”（[[Institute for Effective Education]], IEE）在全英格兰分批遴选数十所高绩效学校设立区域研究学校网络。网络并非由外部科研人员直接干预，而是由经受严格循证培训的本地一线骨干教师兼任“实证大使（Evidence Champions）”；通过建立校际合作共同体，面向周边数百所薄弱校提供基于证据的阶梯式专业发展（CPD）、同侪进校诊断与长效实施陪伴，打通了循证方案从中央平台向地方学校渗透的实施链路。
-> - **EEF [[Teaching Assistant|助教]]（Teaching Assistants, TAs）循证配置指南的区域规模化推广（Maxwell et al., 2019; Sibieta & Sianesi, 2019）**
+> - **EEF [[Teaching Assistant\|助教]]（Teaching Assistants, TAs）循证配置指南的区域规模化推广（Maxwell et al., 2019; Sibieta & Sianesi, 2019）**
 >   - **背景与痛点** 英格兰中小学每年投入巨额公共经费雇佣逾 38 万名助教，但实证研究证实常规配置下助教往往被消极用作学困生的“低成本隔离看护者”，导致接受助教辅导越多的学生学业进步反而越慢。
->   - **干预机制** EEF 提炼出 7 项核心[[Recommendations for Practice|实践建议]]，不再局限于被动发布指南报告，而是在南约克郡、西约克郡等地区启动大规模区域动员活动。中介团队联合地方教育局与示范学校，深入重塑学校排课机制、保障主辅教师课前协同备课时间、推行阶梯支架式提问教学（[[Scaffolding]]）及经过验证的结构化小班干预方案，并配套开展跨区域因果评估，推动助教资源实现结构性优化。
-> - **[[Early Intervention Foundation|早期干预基金会]]（Early Intervention Foundation, EIF）行为科学[[Knowledge Mobilisation|知识动员]]项目（Waddell & Sharples, 2020; Wadell, 2021）**
+>   - **干预机制** EEF 提炼出 7 项核心[[Recommendations for Practice\|实践建议]]，不再局限于被动发布指南报告，而是在南约克郡、西约克郡等地区启动大规模区域动员活动。中介团队联合地方教育局与示范学校，深入重塑学校排课机制、保障主辅教师课前协同备课时间、推行阶梯支架式提问教学（[[Scaffolding]]）及经过验证的结构化小班干预方案，并配套开展跨区域因果评估，推动助教资源实现结构性优化。
+> - **[[Early Intervention Foundation\|早期干预基金会]]（Early Intervention Foundation, EIF）行为科学[[Knowledge Mobilisation\|知识动员]]项目（Waddell & Sharples, 2020; Wadell, 2021）**
 >   - **背景与痛点** 地方当局在儿童发展与家庭服务决策中长期依赖人际熟络与商业供应商宣传，极少审查干预方案的因果实证依据。
->   - **干预机制** EIF 设立专项行为动员项目，打破传统[[Document|文献]]汇总模式，深入地方政府开展实地调研。通过系统诊断公职人员面临的信息超载、财政预算周期约束与行政问责风险等心理特征，量身设计决策架构（Choice Architecture）与互动式干预工具，以微观行为心理疏导保障宏观循证决策落地。
+>   - **干预机制** EIF 设立专项行为动员项目，打破传统[[Document\|文献]]汇总模式，深入地方政府开展实地调研。通过系统诊断公职人员面临的信息超载、财政预算周期约束与行政问责风险等心理特征，量身设计决策架构（Choice Architecture）与互动式干预工具，以微观行为心理疏导保障宏观循证决策落地。
 
 > [!tension-table] 目标确立与需求分析的自省评估框架（Box 7.2, p. 150）
 > | 核心维度 | 关键追问 | 现实偏误与治理隐患 |
@@ -353,9 +353,9 @@ sources:
 证据活动深嵌于科研外部的复杂制度之中，政策、拨款、督导问责等系统拥有自身的主导目标与时间节奏（Best & Holmes, 2010）。若中介活动未能与外部大系统深度咬合，即使构建出流程优雅的证据生态，其成效也将微乎其微。英国有效性中心的运行现实揭示了三大结构性阻抗：（pp. 150–151）
 
 > [!challenges] 证据生态深度嵌入外层大系统的三大结构性阻抗（pp. 150–151）
-> 1. **外层主导体系的压倒性制约** 在英格兰教育系统中，英国教育标准局（[[Ofsted|Office for Standards in Education, Children's Services and Skills]], Ofsted）的高利害[[School Inspection|学校督导]]问责对校长办学决策拥有绝对支配权。中介活动若无法使循证改进成为学校应对督导评级的有效支撑，必将被学校管理层视为额外负担而遭到边缘化。（p. 150）
+> 1. **外层主导体系的压倒性制约** 在英格兰教育系统中，英国教育标准局（[[Ofsted\|Office for Standards in Education, Children's Services and Skills]], Ofsted）的高利害[[School Inspection\|学校督导]]问责对校长办学决策拥有绝对支配权。中介活动若无法使循证改进成为学校应对督导评级的有效支撑，必将被学校管理层视为额外负担而遭到边缘化。（p. 150）
 > 2. **时间周期的结构性错位** 宏观政治决策受选举议程与媒体热点驱动，往往要求在数天至数周的狭窄窗口内出台应对举措；而严谨研究从方案设计、数据采集到系统综合动辄历时数月乃至数年，两者存在根本的时间错位与节奏脱节。（p. 151）
-> 3. **行业历史文化滞后与[[Construct|构念]]重构** 部分公共部门长期缺乏利用证据的专业文化传统，中介机构不仅要提供证据，还需推动全行业[[Epistemology|认识论]]文化转型，甚至重塑议题本身的内涵——例如幸福感有效性中心必须首先在全社会厘清幸福感（Wellbeing）概念的定义与测量标准。（Bache, 2020, p. 151）
+> 3. **行业历史文化滞后与[[Construct\|构念]]重构** 部分公共部门长期缺乏利用证据的专业文化传统，中介机构不仅要提供证据，还需推动全行业[[Epistemology\|认识论]]文化转型，甚至重塑议题本身的内涵——例如幸福感有效性中心必须首先在全社会厘清幸福感（Wellbeing）概念的定义与测量标准。（Bache, 2020, p. 151）
 
 #### 2. 中介组织在制度协调上面临职能扩张与高位统筹的战略抉择
 
@@ -393,8 +393,8 @@ sources:
 
 向潜在使用者发布研究成果摘要是支持用户参与和决策的传统默认进路（Davies, Powell, & Nutley, 2015）。然而来自关于研究应用的研究的大量经验证据表明，单纯传播研究发现与实际利用之间没有任何必然联系（Langer, Tripney, & Gough, 2016）：
 
-> [!case] 实证案例：EEF [[Literacy Octopus|识字八爪鱼试验]]多臂 [[Randomised Controlled Trials|RCT]] 裁决单向传播的无效性（Lord et al., 2017, p. 152）
-> 英国教育捐赠基金会（EEF）针对向小学教师传播实证识字教学成果，资助开展了大规模[[Multi-Arm Trial|多臂随机对照试验]]（Multi-armed RCT，代号“识字八爪鱼” Literacy Octopus Trial），该试验由英国全国教育研究基金会（National Foundation for Educational Research, NFER；Lord, Rabiasz, & Styles, 2017）独立实施，构成全球知识传播领域最具代表性的因果检验标杆：
+> [!case] 实证案例：EEF [[Literacy Octopus\|识字八爪鱼试验]]多臂 [[Randomised Controlled Trials\|RCT]] 裁决单向传播的无效性（Lord et al., 2017, p. 152）
+> 英国教育捐赠基金会（EEF）针对向小学教师传播实证识字教学成果，资助开展了大规模[[Multi-Arm Trial\|多臂随机对照试验]]（Multi-armed RCT，代号“识字八爪鱼” Literacy Octopus Trial），该试验由英国全国教育研究基金会（National Foundation for Educational Research, NFER；Lord, Rabiasz, & Styles, 2017）独立实施，构成全球知识传播领域最具代表性的因果检验标杆：
 > - **试验规模与样本覆盖**
 >   试验覆盖全英格兰 800 余所公立小学，直接涉及数千名五年级与六年级语文教师及数万名学童，旨在严格检验各种被动与轻量级知识传播手段对课堂教学与学生学业的真实因果影响。
 > - **多臂干预设计与多元传播样态测试**
@@ -404,9 +404,9 @@ sources:
 >   3. **专业期刊媒介专栏** 在主流专业教育期刊与教学杂志上开设专栏深度解读实证识字教法；
 >   4. **低交互网络资源支持** 提供在线资源库与配套网络研讨会（Webinar）链接供教师按需浏览。
 > - **独立因果评估与统计学零效应发现**
->   评估以英格兰全国统一考试（Key Stage 2, KS2）的小学毕业阅读与写作标准化成绩作为终极因果产出指标，并同步开展大样本教师[[Questionnaire|问卷调查]]与课堂教学观察。经过严格的[[Intent-to-Treat Analysis|意向性分析]]（Intention-to-Treat, [[Initial Teacher Training|ITT]]），**评估证实：没有任何证据表明上述任何一种单一信息传播策略在改善学生 KS2 识字成绩上产生了统计学显著的正向效果（[[Effect Size|效应量]]均接近于 0）；即使教师阅读了推送材料，其实际课堂教学策略与提问互动也未发生可识别的系统性转变**。
+>   评估以英格兰全国统一考试（Key Stage 2, KS2）的小学毕业阅读与写作标准化成绩作为终极因果产出指标，并同步开展大样本教师[[Questionnaire\|问卷调查]]与课堂教学观察。经过严格的[[Intent-to-Treat Analysis\|意向性分析]]（Intention-to-Treat, [[Initial Teacher Training\|ITT]]），**评估证实：没有任何证据表明上述任何一种单一信息传播策略在改善学生 KS2 识字成绩上产生了统计学显著的正向效果（[[Effect Size\|效应量]]均接近于 0）；即使教师阅读了推送材料，其实际课堂教学策略与提问互动也未发生可识别的系统性转变**。
 > - **方法论判定结论**
->   该试验以无可辩驳的高质量因果证据推翻了单向学术推介（Research Push）模式，彻底击碎了假定“只要将研究成果以通俗生动的形式推送给实践者就能驱动实践改进”的信息赤字假设（Information [[Deficit Model of Science Communication|deficit model]]）。单纯的信息传播与实际利用之间不存在必然因果联系，孤立的单向推送在跨越实践转化鸿沟时注定失效。
+>   该试验以无可辩驳的高质量因果证据推翻了单向学术推介（Research Push）模式，彻底击碎了假定“只要将研究成果以通俗生动的形式推送给实践者就能驱动实践改进”的信息赤字假设（Information [[Deficit Model of Science Communication\|deficit model]]）。单纯的信息传播与实际利用之间不存在必然因果联系，孤立的单向推送在跨越实践转化鸿沟时注定失效。
 
 #### 2. 行为改变轮与因果推演构成了知识转化的核心机制架构
 
@@ -418,16 +418,16 @@ sources:
 > - **制度机会（Opportunity）**
 >   涵盖外部环境赋予的客观条件，包括充裕的教学研讨工时、校领导层的明确授权与物质支持、同侪协同机制以及包容试错的评价文化。
 > - **内在动机（Motivation）**
->   涵盖使用者的内在专业认同感、对循证反思价值的深层信念、对[[Self-Efficacy|自我效能感]]的期待，以及通过改进教学切实提升学生学业的内在驱动力。
+>   涵盖使用者的内在专业认同感、对循证反思价值的深层信念、对[[Self-Efficacy\|自我效能感]]的期待，以及通过改进教学切实提升学生学业的内在驱动力。
 > - **行为转化（Behaviour）**
->   三者共同构成行为改变的必要与[[Necessary and Sufficient Conditions|充分条件]]网，任何单个维度的缺失都会导致变革链条中断，促使中介干预必须采取综合施策。
+>   三者共同构成行为改变的必要与[[Necessary and Sufficient Conditions\|充分条件]]网，任何单个维度的缺失都会导致变革链条中断，促使中介干预必须采取综合施策。
 
 行为改变科学在不同中介机构中的应用实践，展现出微观诊断与宏观流程两类经典转化路径：（pp. 152–153）
 
 > [!case] 实证案例：早期干预基金会（EIF）基于 COM-B 模型的行为心理动员实践（Waddell & Sharples, 2020; Wadell, 2021, p. 152）
 > 早期干预基金会在协助地方当局应对“减少父母冲突”（Reducing Parental Conflict）公共服务采购与个案干预时，发现地方决策普遍受制于商业供应商游说、人脉依赖与行政审批惯性，极少审查干预方案的因果效能证据。EIF 打破传统单纯发布指南的做法，联合行为科学家对地方公职人员与一线社工展开系统的行为心理学解构：
 > - **能力维度障碍（Capability）**
->   地方决策专员大多具备行政管理或一线社工背景，普遍缺乏解读效应量、偏倚风险及[[Meta-analysis|元分析]]等实证方法学素养，面对海量商业宣传材料难以独立甄别研究质量与证据效力。
+>   地方决策专员大多具备行政管理或一线社工背景，普遍缺乏解读效应量、偏倚风险及[[Meta-analysis\|元分析]]等实证方法学素养，面对海量商业宣传材料难以独立甄别研究质量与证据效力。
 > - **机会维度匮乏（Opportunity）**
 >   受制于地方财政年度预算拨付的紧迫时限与超负荷的日常行政考核，公职人员在常规工作流中根本缺乏制度化保障的时间去研读评估报告；同时教育、社会福利与医疗部门之间条块分割，缺乏开展联合循证审议的组织机制。
 > - **动机维度阻滞（Motivation）**
@@ -437,7 +437,7 @@ sources:
 
 > [!proc] 英国国家卫生与临床优化研究所（NICE）利益相关者驱动型循证规程（NICE, 2020; Gough, 2021, pp. 152–153）
 > 1. **临床实践真问题筛选** 从一线临床诊疗与患者实际需求出发，界定待解的真实医疗护理决策困境；
-> 2. **委托[[Systematic Review|系统综述]]与成本效益建模** 资助独立科研团队开展严格的有效性综合，并同步建立卫生经济学成本效益模型；
+> 2. **委托[[Systematic Review\|系统综述]]与成本效益建模** 资助独立科研团队开展严格的有效性综合，并同步建立卫生经济学成本效益模型；
 > 3. **多元利益相关方审议** 组织临床医学专家、卫生经济学家、一线医护代表与公众代表共同开展证据审议与权衡；
 > 4. **制定发布推荐指南并护航实施** 形成具备法定约束力的临床推荐指南，并直接嵌入国民医疗服务体系（NHS）准入与支付规程。
 
@@ -455,7 +455,7 @@ sources:
 ### 论证步骤五　宽松与不一致的评级门槛导致干预项目证据标准系统性失守
 
 > [!claim] 步骤五核心主张
-> 知识中介对外发布的实践建议构成了严肃的功效主张；跨案例调查显示干预项目类门户普遍依据单项孤立研究定性有效，亟待确立多维透明的[[Operationalization|操作化]]证据标准。（pp. 153–156）
+> 知识中介对外发布的实践建议构成了严肃的功效主张；跨案例调查显示干预项目类门户普遍依据单项孤立研究定性有效，亟待确立多维透明的[[Operationalization\|操作化]]证据标准。（pp. 153–156）
 
 #### 1. 国际网络证据门户调查暴露了干预评级标准的底线失守
 
@@ -463,9 +463,9 @@ sources:
 
 > [!critique-fatal] 导致知识中介功效主张丧失正当性的四大病理根源（p. 154）
 > 1. **证据库缺乏代表性** 仅凭零散、选择性研究下结论，完全忽视领域内相反实证证据的存在；
-> 2. **研究质量与切合度欠缺** [[Blue Skies Research|基础研究]]方法学严谨性不足、存在严重偏倚风险，或评价指标与现实政策决策问题严重脱节；
+> 2. **研究质量与切合度欠缺** [[Blue Skies Research\|基础研究]]方法学严谨性不足、存在严重偏倚风险，或评价指标与现实政策决策问题严重脱节；
 > 3. **证据体量与粒度不充分** 仅证明样本总体在平均意义上有效，缺乏足够的亚群数据支撑对处境不利学生的差异化推断；
-> 4. **解释与应用边界偏差** 脱离情境边界与实施条件，盲目将特定实验情境下的平均效应值推断至[[Heterogeneity|异质性]]真实教学场景。
+> 4. **解释与应用边界偏差** 脱离情境边界与实施条件，盲目将特定实验情境下的平均效应值推断至[[Heterogeneity\|异质性]]真实教学场景。
 
 对全球 15 个主流网络证据门户的跨案例调查（Gough & White, 2018）证实，中介行业在评级标准上存在显著分化与结构性底线失守（Table 7.1, pp. 154–155）：
 
@@ -503,7 +503,7 @@ sources:
 > - **报告透明度标准**
 >   规范研究流程、原始数据、分析代码与评价裁决依据的全面公开规程，确保外部可核查性。(Gough, 2021, p. 155)
 > - **方法严谨性评价**
->   系统核查纳入单项研究与综合成果的可靠性、[[Internal Validity|内部效度]]及偏倚风险的结构化评价工具；[[EPPI-Centre]] 等机构长期采用[[Weight of Evidence Framework]]（证据权重评价框架）对纳入系统综述的各项研究分别从方法学质量与问题适切性两个维度进行独立评级，再综合裁决其整体证据贡献。(Gough, 2021, p. 155)
+>   系统核查纳入单项研究与综合成果的可靠性、[[Internal Validity\|内部效度]]及偏倚风险的结构化评价工具；[[EPPI-Centre]] 等机构长期采用[[Weight of Evidence Framework]]（证据权重评价框架）对纳入系统综述的各项研究分别从方法学质量与问题适切性两个维度进行独立评级，再综合裁决其整体证据贡献。(Gough, 2021, p. 155)
 > - **干预成熟度与成效评定**
 >   系统裁决干预方案在因果效力、规模化可行性及外部情境适应性上所达到的成熟度层级。(Gough, 2021, p. 156)
 
@@ -540,23 +540,23 @@ sources:
 > - **历史悖论与循证痛点**
 >   2000 年代英格兰教育系统投入数十亿英镑大规模扩招助教（全国雇佣助教逾 38 万人，占学校教职工总数四分之一以上）。然而具有划时代意义的“支持人员配置与影响研究”（Deployment and Impact of Support Staff, DISS 项目；Webster et al., 2010）跟踪数千名学生后发现：在控制初始学业水平后，接受助教支持越多的特殊教育需求与学业落后学生，其实际学业进步反而显著低于未接受支持的同伴。其根源在于助教被普遍误用为主讲教师的低成本替代品，导致薄弱学童被系统性隔离在专业主讲教学之外。
 > - **循证指南与区域规模化推广活动（Regional Scale-up Campaign）**
->   EEF 提炼发布了《在课堂中最大化助教效能》行动指南，明确了助教角色定位的 7 项核心实践建议（如严禁助教替代主讲教师开展基础学科教学、训练助教提供支架式辅导而非直接给出答案、学校必须在排课中制度化保障主辅教师协同备课时间、将助教配置于经过严谨因果检验的小班干预方案中）。随后，EEF 在南约克郡与西约克郡联合数十所“研究学校”展开区域规模化推广（Maxwell et al., 2019），推动数百所学校系统再造[[Classroom Management|课堂管理]]规程。
+>   EEF 提炼发布了《在课堂中最大化助教效能》行动指南，明确了助教角色定位的 7 项核心实践建议（如严禁助教替代主讲教师开展基础学科教学、训练助教提供支架式辅导而非直接给出答案、学校必须在排课中制度化保障主辅教师协同备课时间、将助教配置于经过严谨因果检验的小班干预方案中）。随后，EEF 在南约克郡与西约克郡联合数十所“研究学校”展开区域规模化推广（Maxwell et al., 2019），推动数百所学校系统再造[[Classroom Management\|课堂管理]]规程。
 > - **准实验因果评估设计与终极学业产出测量**
->   为验证中介指南推广活动能否真正改善最终受益人福祉，EEF 委托英国财政研究所（Institute for Fiscal Studies, IFS；Sibieta & Sianesi, 2019）开展独立因果评估。研究依托英格兰[[National Pupil Database|国家学生数据库]]（National Pupil Database, NPD），结合[[Propensity Score Matching|倾向得分匹配]]与[[Difference-in-Differences|双重差分]]模型（Difference-in-Differences），以其他未参与战役地区的相似学校作为对照组。
+>   为验证中介指南推广活动能否真正改善最终受益人福祉，EEF 委托英国财政研究所（Institute for Fiscal Studies, IFS；Sibieta & Sianesi, 2019）开展独立因果评估。研究依托英格兰[[National Pupil Database\|国家学生数据库]]（National Pupil Database, NPD），结合[[Propensity Score Matching\|倾向得分匹配]]与[[Difference-in-Differences\|双重差分]]模型（Difference-in-Differences），以其他未参与战役地区的相似学校作为对照组。
 > - **全链条因果验证发现**
->   评估不仅追踪到了参与学校在排课制度、助教课堂协同模式上的深层制度调整（阶段性机制达成），更在终极产出上证实：**参与该推广活动的学校中，11 岁学生在全国统考（Key Stage 2, KS2）中阅读与数学标准化成绩均展现出统计学显著的正向学业增益（相当于额外获得数个月的学业[[Growth|成长]]进展）**。该案例成功实现了从“中介指南发布—学校组织制度重塑—终极学生学业改善”的全链条严密因果检验。
+>   评估不仅追踪到了参与学校在排课制度、助教课堂协同模式上的深层制度调整（阶段性机制达成），更在终极产出上证实：**参与该推广活动的学校中，11 岁学生在全国统考（Key Stage 2, KS2）中阅读与数学标准化成绩均展现出统计学显著的正向学业增益（相当于额外获得数个月的学业[[Growth\|成长]]进展）**。该案例成功实现了从“中介指南发布—学校组织制度重塑—终极学生学业改善”的全链条严密因果检验。
 
 > [!case] 质询反思案例：政府科学顾问机制因果评估缺位与狂牛病（BSE）/ 新冠危机反思（Hinchliffe, 2001; Gough, 2020, p. 157）
 > 与教育领域积极探索因果评估形成鲜明对照的是，嵌入国家核心决策的政府科学顾问机制在自我成效评估上长期处于缺位状态：
 > - **狂牛病（BSE）危机的科学咨询与政治黑箱（Hinchliffe, 2001）**
 >   在 1990 年代英国暴发的牛脑海绵状病（BSE，即疯牛病）与新型克雅氏病公共卫生危机中，官方科学顾问委员会运作暴露出深层制度失范：专家遴选缺乏显性标准、潜在利益冲突未予披露、委员会审议过程高度保密，且顾问委员会将科学上高度不确定的早期推断包装为“食用英国牛肉绝对安全”的确定性政治断言。随后的调查揭示，政府官员对科学建议进行高度投机性的选择性采纳（Cherry-picking），将科学咨询作为掩盖行政迟缓与转嫁政治责任的工具，而全过程中没有任何制度化机制评估顾问建议对公共卫生治理产生的真实因果影响。
 > - **新冠疫情应对与议会科技委员会对 [[Sage]] 机制的深度质询（Gough, 2020; UK Parliament, 2021）**
->   在英国应对新冠疫情危机的过程中，[[Scientific Advisory Group for Emergencies|紧急情况科学咨询小组]]（Scientific Advisory Group for Emergencies, SAGE）成为国家最高决策的核心证据依托。然而英国下议院科学与技术特别委员会（House of Commons Science and Technology Committee）针对其运作机制启动的调查质询指出了深刻的治理盲区：
+>   在英国应对新冠疫情危机的过程中，[[Scientific Advisory Group for Emergencies\|紧急情况科学咨询小组]]（Scientific Advisory Group for Emergencies, SAGE）成为国家最高决策的核心证据依托。然而英国下议院科学与技术特别委员会（House of Commons Science and Technology Committee）针对其运作机制启动的调查质询指出了深刻的治理盲区：
 >   1. **顾问遴选与学科代表性失衡** SAGE 在初期缺乏公开透明的遴选规程，学科背景过度偏向传统流行病学建模与临床医学，严重忽视了实施科学、行为心理学与社会学学者，导致早期防控建议严重脱离基层执行现实；
 >   2. **决策转化黑箱与政治推诿** 政府内阁对外宣称决策“始终遵循科学（Follow the science）”，实则在幕后黑箱中对顾问意见进行政治取舍；公众与学界无从获知究竟哪些具体建议被内阁采纳、哪些建议被行政裁决否决或篡改；
 >   3. **终极因果影响后验追踪缺位** 国家投入巨额资源维系庞大的科学咨询网络，但对于被采纳或被驳回的顾问决策究竟在多大程度上减缓了病毒传播、挽救了生命，或造成了何种次生社会经济代价，始终缺乏制度化的因果成效评估。
 > - **元学科警示**
->   无论是常设型有效性中心还是最高层级的国家科学顾问系统，只要其运作机制停留在黑箱状态，且对自身的政策渗透度与终端社会福祉缺乏长效因果后验，[[Output-Oriented Governance|循证治理]]便极易蜕变为“科学修辞化”与“政治推诿化”。对中介咨询活动本身的因果评估，绝非边缘性的学术装饰，而是维系公共决策科学性与公信力的生命线。
+>   无论是常设型有效性中心还是最高层级的国家科学顾问系统，只要其运作机制停留在黑箱状态，且对自身的政策渗透度与终端社会福祉缺乏长效因果后验，[[Output-Oriented Governance\|循证治理]]便极易蜕变为“科学修辞化”与“政治推诿化”。对中介咨询活动本身的因果评估，绝非边缘性的学术装饰，而是维系公共决策科学性与公信力的生命线。
 
 > [!warning] 资助体制结构性扭曲对中介自我评估的掣肘（ESRC, 2016, p. 157）
 > 中介机构自我循证意识薄弱的深层根源，在于外部资助体制的结构性扭曲：资助方往往只愿意资助具体的干预活动与成果产出，极少设立专项经费支持中介机构开展严肃的自我监测与长效因果评估，导致中介实践长期深陷重交付、轻反思的恶性循环。
@@ -578,11 +578,11 @@ sources:
 > 1. **对知识中介机构的行动路径**
 >    - **审视既有生态功能** 严密诊断目标领域既有生态的供求断裂点，明智权衡战略着力点与机会成本；
 >    - **主动塑造外层大系统** 显性分析所处的宏观政治问责环境，积极寻找制度杠杆，主动营造良好的外部接纳环境；
->    - **公开显性变革理论** 严密论证干预举措达成阶段与长远目标的因果机制，以行为改变科学（[[COM-B Model|COM-B]]）为理论支撑；
+>    - **公开显性变革理论** 严密论证干预举措达成阶段与长远目标的因果机制，以行为改变科学（[[COM-B Model\|COM-B]]）为理论支撑；
 >    - **恪守可信证据标准** 在透明度、一致性与切合性三个维度上确立严谨证据标准，审慎提出功效主张；
 >    - **坚持内外部成效评估** 运用客观评估检验自身使命达成度，为全球研究应用之科学贡献元研究证据。
 > 2. **对政策制定者的行动路径**
->    - **将证据利用确立为全系统优先事项** 通过政策顶层设计在各层级（中央部委、地方学区、[[School Leadership|学校领导]]层）树立一致的循证期待；
+>    - **将证据利用确立为全系统优先事项** 通过政策顶层设计在各层级（中央部委、地方学区、[[School Leadership\|学校领导]]层）树立一致的循证期待；
 >    - **统筹外层制度与证据生态的良性咬合** 深刻审视督导问责、学校改进与师训体制如何与证据活动相向而行，破除机制阻抗；
 >    - **承担全系统协同主导责任** 明确界定统筹整个证据生态系统的制度责任主体，提供长效的制度化协同网络。
 > 3. **对研究资助方的行动路径**
@@ -596,9 +596,9 @@ sources:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **中介蓬勃发展与自我循证赤字的体制性断裂** 全球[[Educational Brokerage Agency|知识中介机构]]竞相[[Emergence|涌现]]，但受制于资助方短平快的产出交付考核，中介活动本身普遍缺乏实证依据支持，陷入知行不一的信誉危机。（pp. 147, 157）
-> 2. **单向成果传播神话在实证检验下的破产** 严谨的多臂[[Randomised Controlled Trials|随机对照试验]]（[[Education Endowment Foundation|EEF]] [[Literacy Octopus|识字八爪鱼试验]]）证实，单纯传播科研成果对教师课堂行为改变毫无[[Statistical Significance|统计显著性]]；知识采纳必须以能力（C）、机会（O）与动机（M）三位一体的行为改变科学为依托。（pp. 152–153）
-> 3. **网络证据门户评级标准的系统性塌陷** 国际 15 个代表性门户调查证实，仅 40% 遵循[[Systematic Review|系统综述]]标准，全部面向打包干预项目的门户竟然全部仅凭 1–2 项研究即定性有效，存在误导系统决策的巨大风险。（pp. 154–155）
+> 1. **中介蓬勃发展与自我循证赤字的体制性断裂** 全球[[Educational Brokerage Agency\|知识中介机构]]竞相[[Emergence\|涌现]]，但受制于资助方短平快的产出交付考核，中介活动本身普遍缺乏实证依据支持，陷入知行不一的信誉危机。（pp. 147, 157）
+> 2. **单向成果传播神话在实证检验下的破产** 严谨的多臂[[Randomised Controlled Trials\|随机对照试验]]（[[Education Endowment Foundation\|EEF]] [[Literacy Octopus\|识字八爪鱼试验]]）证实，单纯传播科研成果对教师课堂行为改变毫无[[Statistical Significance\|统计显著性]]；知识采纳必须以能力（C）、机会（O）与动机（M）三位一体的行为改变科学为依托。（pp. 152–153）
+> 3. **网络证据门户评级标准的系统性塌陷** 国际 15 个代表性门户调查证实，仅 40% 遵循[[Systematic Review\|系统综述]]标准，全部面向打包干预项目的门户竟然全部仅凭 1–2 项研究即定性有效，存在误导系统决策的巨大风险。（pp. 154–155）
 > 4. **外层制度整合与最终成效因果检验的严重缺位** 多数中介机构受制于高利害问责（如 [[Ofsted]]）与政治短期周期的阻抗，且评估长期局限于会议数与网页点击量等浅层指标，极少深入检验对最终受益人（学生）的实质影响。（pp. 150–151, 156–157）
 
 > [!stat-cards]- 核心数据
@@ -612,20 +612,20 @@ sources:
 
 ## 关键引用
 
-> [!citation-card] [[Knowledge Mediation|知识中介]]自我循证的信誉危机
-> [[Educational Brokerage Agency|知识中介机构]]旨在促进决策者对研究证据的利用；如果在自身运作中不采取循证进路，它们不仅可能削弱实际成效，更会因未能遵循自己倡导的循证原则而丧失公信力与信任。必须将明确的循证视角贯穿于需求分析、系统情境整合、[[Theory of Change|变革理论]]、[[Evidence Standards|证据标准]]与自我评估五大核心领域。（p. 147）
+> [!citation-card] [[Knowledge Mediation\|知识中介]]自我循证的信誉危机
+> [[Educational Brokerage Agency\|知识中介机构]]旨在促进决策者对研究证据的利用；如果在自身运作中不采取循证进路，它们不仅可能削弱实际成效，更会因未能遵循自己倡导的循证原则而丧失公信力与信任。必须将明确的循证视角贯穿于需求分析、系统情境整合、[[Theory of Change\|变革理论]]、[[Evidence Standards\|证据标准]]与自我评估五大核心领域。（p. 147）
 >
 > *If KBIs do not take an evidence-informed approach to their own work, they may be less effective than they could be. They may also lose credibility and trust by not following their own advice on using research evidence in decision making. A more overt focus on being evidence-informed can help KBIs reflect on and develop the theory, practice, and study of their work in at least five areas: 1. Needs analysis... 2. Integrating evidence use in wider systems and contexts; 3. Methods and theories of change; 4. Evidence standards; and 5. Evaluation and monitoring.*
 
-> [!citation-card] [[Evidence Ecosystem|证据生态系统]]的双层嵌套与外层大系统主导性
+> [!citation-card] [[Evidence Ecosystem\|证据生态系统]]的双层嵌套与外层大系统主导性
 > 证据活动绝非孤立存在。它们深嵌于科研之外极其复杂的系统之中，其中交织着多元行动者与主导力量，各方均拥有自身的优先事项、工作节奏、制度流程与内在动机——例如政策体系、改进体系、资助体系以及问责体系。在这一系统模型下，知识中介机构唯有同外部组织及其运转系统深度融合时，方能真正发挥效力。简言之，即便你在理论上打造了一个流程极其严谨、构件紧密相连的优雅证据生态系统，但如果这些活动未能在外层大系统中获得实质性的制度牵引力，其最终产生的影响也将微乎其微。（p. 150）
 >
 > *Evidence activities do not work in isolation. They sit within complex systems outside of research, with multiple actors and influences, each with their own priorities, processes, timescales and motivations e.g. policy, improvement, funding, accountability systems. In this type of "systems" model, KBIs are effective when they integrate well with external organisations and the systems in which they operate. Put another way, you could, in theory, create an elegant evidence ecosystem with excellent, well-connected processes yet have little impact if those activities fail to achieve traction in the wider systems.*
 
-> [!citation-card] 单纯信息传播[[Hypothesis|假设]]的实证破产
-> 传播研究发现往往被视作支持用户参与和决策的默认捷径。然而，来自关于研究应用的研究的大量实证表明，单纯传播研究发现本身，与这些研究发现被实际利用之间没有任何必然联系。英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）针对向教师传播识字研究成果所开展的多臂[[Randomised Controlled Trials|随机对照试验]]证明了这一点：没有任何证据表明单一传播策略在孤立状态下能够产生任何显著效果。传递证据绝不等于保证它会被付诸使用。（p. 152）
+> [!citation-card] 单纯信息传播[[Hypothesis\|假设]]的实证破产
+> 传播研究发现往往被视作支持用户参与和决策的默认捷径。然而，来自关于研究应用的研究的大量实证表明，单纯传播研究发现本身，与这些研究发现被实际利用之间没有任何必然联系。英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）针对向教师传播识字研究成果所开展的多臂[[Randomised Controlled Trials\|随机对照试验]]证明了这一点：没有任何证据表明单一传播策略在孤立状态下能够产生任何显著效果。传递证据绝不等于保证它会被付诸使用。（p. 152）
 >
-> *This is well illustrated by the communication of research findings, a default approach to supporting user engagement and decision making. But evidence from "research on [[Research Utilization|Research Use]]" shows that the communication of research findings on its own is not associated with increased use of those findings. EEF has shown this through its multi-armed randomised controlled trial of different ways to communicate research on literacy to teachers, where no evidence was found that any of these strategies were effective on their own. Communicating evidence does not guarantee it will be used.*
+> *This is well illustrated by the communication of research findings, a default approach to supporting user engagement and decision making. But evidence from "research on [[Research Utilization\|Research Use]]" shows that the communication of research findings on its own is not associated with increased use of those findings. EEF has shown this through its multi-armed randomised controlled trial of different ways to communicate research on literacy to teachers, where no evidence was found that any of these strategies were effective on their own. Communicating evidence does not guarantee it will be used.*
 
 > [!citation-card] 国际证据门户宽松标准的系统性风险
 > 调查表明，在针对具体干预项目提供证据的 5 个网络门户中，仅仅一到两项优良研究就足以让这些门户公然向使用者宣称这些项目是有效的。尽管自该调查以来部分门户的证据标准有所提升，但不可否认的是，某些知识中介机构用于提出有效性主张的证据标准仍然处于极低的水平。不充分或不一致的证据标准，必然诱使广大受众对所呈现的发现和实践指南产生严重误解或盲目信任。（pp. 154–156）
@@ -642,7 +642,7 @@ sources:
 ## 自述局限
 
 > [!warning]
-> - **地域聚焦英国经验的推论限制** 经验考察主要依托英国[[What Works Network|有效性网络]]（What Works Network）与[[Education Endowment Foundation|教育捐赠基金会]]（EEF），虽然提炼的五大支柱具备通用[[Epistemology|认识论]]意义，但在高度集权、地方分权或行政官僚主导的其他国家教育系统中，中介机构的制度空间与政学互动模式存在显著情境[[Heterogeneity|异质性]]。（p. 148）
+> - **地域聚焦英国经验的推论限制** 经验考察主要依托英国[[What Works Network\|有效性网络]]（What Works Network）与[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），虽然提炼的五大支柱具备通用[[Epistemology\|认识论]]意义，但在高度集权、地方分权或行政官僚主导的其他国家教育系统中，中介机构的制度空间与政学互动模式存在显著情境[[Heterogeneity\|异质性]]。（p. 148）
 > - **网络门户样本容量有限** 国际网络证据门户调查基于 15 个代表性门户的横截面数据，随着数字化中介的演进，部分门户的标准已在动态修订，需要更广泛、长周期的追踪调查。（pp. 154–155）
 > - **政治权力的非理性掣肘** 五大支柱预设了理性审议与循证改进的决策情境；然而在宏观政治大系统中，政党竞选周期、意识形态争议与突发政治危机对决策的驱动力往往凌驾于理性证据之上，中介机制在非理性政治环境中的效能边界仍有待进一步实证检验。（p. 158）
 

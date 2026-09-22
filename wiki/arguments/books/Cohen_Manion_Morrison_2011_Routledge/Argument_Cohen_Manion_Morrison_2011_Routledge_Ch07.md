@@ -133,7 +133,7 @@ updated: 2026-09-07
 >   I --> J["7.14 质量保证<br>35条清单<br>Furlong & Oancea四维度"]
 > ```
 
-> [!knowledge-map]- 第7章[[Concept Mapping|概念地图]]
+> [!knowledge-map]- 第7章[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_7_Concept_Map.jpg)
 
 ---
@@ -146,7 +146,7 @@ updated: 2026-09-07
 
 > [!chain-link] 目的适切性的三重推理
 > - **情境与设计的直接对应**
->   如果[[Research Purpose|研究目的]]是绘制领域全貌或做出可推广的论断，则调查方法配合[[Stratified Sampling|分层抽样]]可能是合适的选择；如果要评估特定干预的效果，则实验或[[Action Research|行动研究]]模型可能合适；如果需要对特定情境或群体进行深入理解，则[[Ethnography|民族志]]模型可能合适（p.118）。
+>   如果[[Research Purpose\|研究目的]]是绘制领域全貌或做出可推广的论断，则调查方法配合[[Stratified Sampling\|分层抽样]]可能是合适的选择；如果要评估特定干预的效果，则实验或[[Action Research\|行动研究]]模型可能合适；如果需要对特定情境或群体进行深入理解，则[[Ethnography\|民族志]]模型可能合适（p.118）。
 > - **识别跨情境的共同议题**
 > 尽管具体设计因目的不同而异，仍可以识别出一套所有研究者都需要面对的共同议题。本章正是处理这组议题，指示如何在实践中将一般的研究兴趣转化为可操作、可行的研究课题。
 > - **规划即前瞻性约束**
@@ -211,8 +211,8 @@ updated: 2026-09-07
 
 #### 三种研究设计的线性流程
 
-> [!proc] [[Quantitative Research|量化研究]]（假设检验型）
-> 1. **准备** [[Literature Review|文献综述]] → 生成和表述假设/待检验理论/[[Research Question|研究问题]]
+> [!proc] [[Quantitative Research\|量化研究]]（假设检验型）
+> 1. **准备** [[Literature Review\|文献综述]] → 生成和表述假设/待检验理论/[[Research Question\|研究问题]]
 > 2. **设计** 设计检验假设/理论的研究（如实验或调查）
 > 3. **执行** 实施研究 → 分析结果 → 考虑替代解释
 > 4. **收束** 报告假设/理论是否得到支持，和/或回答研究问题 → 考虑发现的推广性
@@ -221,10 +221,10 @@ updated: 2026-09-07
 
 > [!proc] 质性或民族志研究
 > 1. **准备** 确定感兴趣的主题/群体/现象 → 文献综述
-> 2. **设计** [[Design-Based Research|设计研究]]问题和研究及数据收集 → 定位研究[[Champ|场域]]和研究者的角色
-> 3. **进入田野** 定位信息提供者、[[Gatekeepers|守门人]]、信息来源 → 与参与者建立工作关系
+> 2. **设计** [[Design-Based Research\|设计研究]]问题和研究及数据收集 → 定位研究[[Champ\|场域]]和研究者的角色
+> 3. **进入田野** 定位信息提供者、[[Gatekeepers\|守门人]]、信息来源 → 与参与者建立工作关系
 > 4. **执行** 同时实施研究和数据收集 → 数据分析（与研究同时，或在研究结束后进行）
-> 5. **收束** 报告结果和[[Emergence|涌现]]的扎根理论或对研究问题的回答 → 生成供进一步研究或检验的假设
+> 5. **收束** 报告结果和[[Emergence\|涌现]]的扎根理论或对研究问题的回答 → 生成供进一步研究或检验的假设
 >
 > 质性研究中，假设（如果有的话）从研究**末尾**涌现，部分质性研究甚至不到达提出假设的阶段（pp.121–122）。
 
@@ -316,7 +316,7 @@ updated: 2026-09-07
 这25个要素可归入四个主要领域（Morrison, 1993）：
 
 > [!feature] 研究规划四领域
-> 1. **定向决策（Orienting decisions）**，设定[[Research Scope|研究边界]]或约束的策略性决策
+> 1. **定向决策（Orienting decisions）**，设定[[Research Scope\|研究边界]]或约束的策略性决策
 > 2. **研究设计与方法论（Research design and methodology）** 研究的战术性实施
 > 3. **数据分析（Data analysis）**
 > 4. **呈现与报告结果（Presenting and reporting the results）**
@@ -334,14 +334,14 @@ updated: 2026-09-07
 > - **连锁三（信息来源）** 可能只有时间采访少数人
 > - **连锁四（焦点数量）** 有些焦点需要长时间收集相关数据
 > - **连锁五（报告）** 可能只有时间产出一份中期报告
-> - **效果** 通过澄清时间尺度，向研究注入宝贵的[[Realism in International Relations|现实主义]]，使可行性问题得以回答（pp.123–124）
+> - **效果** 通过澄清时间尺度，向研究注入宝贵的[[Realism in International Relations\|现实主义]]，使可行性问题得以回答（pp.123–124）
 
 ---
 
 > [!chain-link] 范例二：成本约束的连锁效应
 > - **约束前提** 压倒性特征是研究在时间、人员和材料方面的成本几乎为零
-> - **连锁一（研究问题）** 采访在管理和[[Transcription in Qualitative Research|转录]]方面时间成本高；商业数据收集工具（如测试）和计算机服务成本高昂
-> - **连锁二（工具数量）** 邮寄[[Questionnaire|问卷]]在复印和邮资方面成本高昂
+> - **连锁一（研究问题）** 采访在管理和[[Transcription in Qualitative Research\|转录]]方面时间成本高；商业数据收集工具（如测试）和计算机服务成本高昂
+> - **连锁二（工具数量）** 邮寄[[Questionnaire\|问卷]]在复印和邮资方面成本高昂
 > - **连锁三（接触人员）** 如果教师需要脱产接受采访，可能需要找人代课
 > - **连锁四（焦点数量）** 有些焦点在研究者的时间方面成本高昂
 > - **连锁五（报告）** 书面报告数量、召集会议的成本
@@ -351,7 +351,7 @@ updated: 2026-09-07
 
 #### 前载型与后载型研究
 
-> [!contrast-table] 前载型 vs [[Front-loaded and End-loaded Research|后载型研究]]
+> [!contrast-table] 前载型 vs [[Front-loaded and End-loaded Research\|后载型研究]]
 > | 维度 | 前载型（Front-loaded） | 后载型（End-loaded） |
 > |---|---|---|
 > | 设置阶段 | 耗时较长（开发、试点和测试工具） | 可能不太耗时 |
@@ -359,7 +359,7 @@ updated: 2026-09-07
 > | 典型研究类型 | 量化研究（如调查方法）——需要确定问卷项目、撰写和试点问卷、做最终调整 | 质性研究（如民族志）——研究者可能没有特定研究问题，希望进入情境后随时间发现关键动态 |
 
 > [!case] 后载型案例一：Turnbull (1972) *The Mountain People*
-> 对乌干达东北部 Ik 部落的长期[[Fieldwork|田野调查]]。Ik 原为游猎-采集族群，因政府将其传统领地划为国家公园并强制迁移，被迫在贫瘠山区转为农耕，陷入极端生存危机。Turnbull 进入田野前并无具体[[Hypothesis|研究假设]]——他本意是记录一个"濒危文化"，却在长期[[Participant Observation|参与观察]]中目睹了饥饿如何系统性地瓦解社会纽带：父母抛弃无力自理的子女、年轻人抢夺老人的食物、邻里互不援助。他将这一过程描述为"令人不齿的人性堕落"，并提出了一个至今引发人类学争议的判断——极端匮乏可以摧毁道德本身。这项研究的核心发现，Ik 社会崩溃的动力机制——完全是在田野过程中**涌现**的，而非从预设问题出发。这正是后载型研究的标志性特征（p.125）。
+> 对乌干达东北部 Ik 部落的长期[[Fieldwork\|田野调查]]。Ik 原为游猎-采集族群，因政府将其传统领地划为国家公园并强制迁移，被迫在贫瘠山区转为农耕，陷入极端生存危机。Turnbull 进入田野前并无具体[[Hypothesis\|研究假设]]——他本意是记录一个"濒危文化"，却在长期[[Participant Observation\|参与观察]]中目睹了饥饿如何系统性地瓦解社会纽带：父母抛弃无力自理的子女、年轻人抢夺老人的食物、邻里互不援助。他将这一过程描述为"令人不齿的人性堕落"，并提出了一个至今引发人类学争议的判断——极端匮乏可以摧毁道德本身。这项研究的核心发现，Ik 社会崩溃的动力机制——完全是在田野过程中**涌现**的，而非从预设问题出发。这正是后载型研究的标志性特征（p.125）。
 
 > [!case] 后载型案例二：Willis (1977) *Learning to Labour*
 > 对英国一所工人阶级社区中学里12名男生的长期民族志研究，核心关切是"工人阶级孩子如何得到工人阶级工作"，以及为什么是他们自己"让"这一切发生。Willis 通过深入课堂、走廊、操场和校外空间，追踪这群自称为"lads"的男孩如何发展出一套反学校文化：抵制教师权威、蔑视脑力劳动、推崇阳刚气概和"来真的"（real work）的工人阶级认同。然而他的关键发现是：这种文化反抗的**意外后果**恰恰是将他们锁定在工人阶级位置，拒斥学历使他们失去向上流动的可能，而反权威的姿态又使他们"自愿地"接受工厂车间里的底层体力劳动。Willis 进入田野前仅有方向性关切（class reproduction），具体的研究问题和解释机制是在田野过程中逐渐澄清的，同样体现了后载型的涌现特征（p.125）。
@@ -527,13 +527,13 @@ updated: 2026-09-07
 > - **资源** 有什么资源支持过渡点的连续性？这些资源有多充分？
 
 > [!conclusion] 操作化的产出
-> 这些问题已将研究从兴趣表达转化为可在具体层面调查的议题。现已能识别不仅具体问题，还能识别所需工具，[[Semi-structured Interview|半结构化访谈]]、问卷评分量表或[[Documentary Analysis|文献分析]]。通过操作化，一般目的变得可经调查转化（Rose and Sullivan, 1993, p. 6）。操作化后的问题数量可能很大，需缩减到最多**四到五个**以使研究可控（p.138）。
+> 这些问题已将研究从兴趣表达转化为可在具体层面调查的议题。现已能识别不仅具体问题，还能识别所需工具，[[Semi-structured Interview\|半结构化访谈]]、问卷评分量表或[[Documentary Analysis\|文献分析]]。通过操作化，一般目的变得可经调查转化（Rose and Sullivan, 1993, p. 6）。操作化后的问题数量可能很大，需缩减到最多**四到五个**以使研究可控（p.138）。
 
 ---
 
 #### 假设的操作化
 
-> [!contrast-table] [[Directional and Non-directional Hypotheses|方向性假设]] vs 非方向性假设
+> [!contrast-table] [[Directional and Non-directional Hypotheses\|方向性假设]] vs 非方向性假设
 > | 维度 | 方向性假设（Directional） | 非方向性假设（Non-directional） |
 > |---|---|---|
 > | 陈述方式 | 陈述差异或关系的**种类或方向**（如"当学生受到内在激励时，表现会提高"） | 仅预测**存在**差异或关系，不陈述方向（如"学生表现因其内在激励水平不同而存在差异"） |
@@ -553,12 +553,12 @@ updated: 2026-09-07
 >
 > 完全操作化的假设：**人们在静音条件下测试时比在有音乐播放时测试时在数学测试中获得更高分数（p.139）**。
 
-> [!warning] 多重假设与中介[[Variable|变量]]
-> 需要准备使用**多个假设**以抓住复杂性（Muijs, 2004, p. 16），尤其因为必须纳入中介变量。例如，员工"自愿合作程度"（[[Dependent Variable|因变量]]）受"专业领导力"（[[Independent Variable|自变量]]）和"领导者个人领导品质"（中介变量）的影响（p.140）。
+> [!warning] 多重假设与中介[[Variable\|变量]]
+> 需要准备使用**多个假设**以抓住复杂性（Muijs, 2004, p. 16），尤其因为必须纳入中介变量。例如，员工"自愿合作程度"（[[Dependent Variable\|因变量]]）受"专业领导力"（[[Independent Variable\|自变量]]）和"领导者个人领导品质"（中介变量）的影响（p.140）。
 
 ##### H₀ 与 H₁ 的正式陈述
 
-> [!contrast-table] [[Null Hypothesis|零假设]] vs [[Alternative Hypothesis|备择假设]]
+> [!contrast-table] [[Null Hypothesis\|零假设]] vs [[Alternative Hypothesis\|备择假设]]
 > | 维度 | [[Null Hypothesis\|零假设]]（H₀） | [[Alternative Hypothesis\|备择假设]]（H₁） |
 > |---|---|---|
 > | 核心陈述 | 变量间**没有**关系，或组间**没有**显著差异 | 变量间**存在**关系，或组间**存在**显著差异 |
@@ -737,7 +737,7 @@ updated: 2026-09-07
 > - 量化测量可能只产生**比较表面**的信息
 > - 为探测文化**表层之下**，需结合量化和质性方法论
 > - 将使用**混合方法论**，同时使用数字和语言数据，以收集全面、可靠的数据
-> - **调查方法**用于获取整体画面；**个体和[[Group Interview|小组访谈]]及[[Focus Group|焦点小组]]**实现更细粒度的分析
+> - **调查方法**用于获取整体画面；**个体和[[Group Interview\|小组访谈]]及[[Focus Group\|焦点小组]]**实现更细粒度的分析
 
 #### 5. 工具
 
@@ -782,7 +782,7 @@ updated: 2026-09-07
 >
 > > [!step] 阶段二：工具与试点
 > > - 问卷开发和试点
-> > - 半结构化[[Interview Protocol|访谈提纲]]和试点
+> > - 半结构化[[Interview Protocol\|访谈提纲]]和试点
 > > - 观察数据收集
 > > - 文献数据分析
 > > - ⚠ 由于高级职员数量有限，**无法对他们进行试点访谈**，将使他们被排除在最终数据收集之外
@@ -792,7 +792,7 @@ updated: 2026-09-07
 >
 > > [!step] 阶段四：数据分析与解释
 > > - 量化数据使用 **SPSS** 分析，也按学校子群体分开分析回应
-> > - 质性数据使用**[[Content Analysis|内容分析]]协议**分析
+> > - 质性数据使用**[[Content Analysis\|内容分析]]协议**分析
 >
 > > [!step] 阶段五：报告
 > > - 完整报告包括结论、启示和建议
@@ -864,7 +864,7 @@ updated: 2026-09-07
 > | 你是否已规划如何验证你的数据和你对数据的解释？ |
 > | 你是否已规划何时和如何报告和呈现研究发现，以及向谁？ |
 > | 你是否已规划如何传播你的研究发现？ |
-> | 你是否已确定将对研究发现的发布施加什么控制，向谁、为何、多长时间，以及谁拥有研究和数据？ | |
+> | 你是否已确定将对研究发现的发布施加什么控制，向谁、为何、多长时间，以及谁拥有研究和数据？ |
 
 ---
 
@@ -893,7 +893,7 @@ Furlong & Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（pp
 >   - 合理性（从实践者视角）
 >   - 反思与批评，发展反思性和自我反思的研究
 >   - 接受性
->   - 激励个人[[Growth|成长]]
+>   - 激励个人[[Growth\|成长]]
 > - **经济维度（Economic dimension）**
 >   - 成本效益
 >   - 可市场化和竞争力
@@ -917,17 +917,17 @@ Furlong & Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（pp
 > *There is no single blueprint for planning research. Research design is governed by the notion of "[[Fitness for Purpose]]". The purposes of the research determine the methodology and design of the research.* (p.118)
 
 > [!citation-card]- 从机械操作到知识反思
-> 研究者不仅需要考虑所研究现象的本质，还需要考虑支撑它的[[Ontology|本体论]]前提，以及研究它的[[Epistemology|认识论]]基础。这些是需要反思和决策的关键点，正是它们将研究规划从单纯的机械或实践操作，转变为对知识本质和存在本质的反思。（第7章, p.120）
+> 研究者不仅需要考虑所研究现象的本质，还需要考虑支撑它的[[Ontology\|本体论]]前提，以及研究它的[[Epistemology\|认识论]]基础。这些是需要反思和决策的关键点，正是它们将研究规划从单纯的机械或实践操作，转变为对知识本质和存在本质的反思。（第7章, p.120）
 >
 > *At issue here is the need for researchers not only to consider the nature of the phenomenon under study, but what are or are not the ontological premises that underpin it, the epistemological bases for investigating it and conducting the research into it. These are points of reflection and decision, turning the planning of research from being solely a mechanistic or practical exercise into a reflection on the nature of knowledge and the nature of being.* (p.120)
 
-> [!citation-card]- [[Operationalization|操作化]]的本质
-> 操作化意味着指定一套可以被测量、处理或操纵的操作或行为。需要的是将一个非常一般的[[Research Purpose|研究目的]]或意图转化为具体的、实在的问题，对这些问题的具体、实在的答案可以被给出。这个过程从一般走向特殊，从抽象到具体。（第7章, p.135）
+> [!citation-card]- [[Operationalization\|操作化]]的本质
+> 操作化意味着指定一套可以被测量、处理或操纵的操作或行为。需要的是将一个非常一般的[[Research Purpose\|研究目的]]或意图转化为具体的、实在的问题，对这些问题的具体、实在的答案可以被给出。这个过程从一般走向特殊，从抽象到具体。（第7章, p.135）
 >
 > *Operationalization means specifying a set of operations or behaviours that can be measured, addressed or manipulated. What is required here is translating a very general research aim or purpose into specific, concrete questions to which specific, concrete answers can be given. The process moves from the general to the particular, from the [[Abstract]] to the concrete.* (p.135)
 
 > [!citation-card]- 线性研究的欺骗性
-> 线性顺序具有欺骗性，因为实际中很少如此清晰。真实情况是：研究设计的不同领域相互影响；研究设计随时间变化、演化和[[Emergence|涌现]]，而非一开始就一次性决定和最终确定。（第7章, p.122）
+> 线性顺序具有欺骗性，因为实际中很少如此清晰。真实情况是：研究设计的不同领域相互影响；研究设计随时间变化、演化和[[Emergence\|涌现]]，而非一开始就一次性决定和最终确定。（第7章, p.122）
 >
 > *These three examples proceed in a linear sequence; this is beguilingly deceptive, for rarely is such linearity so clear. The reality is that: different areas of the research design influence each other; research designs change, evolve and emerge over time rather than being a "once-and-for-all" plan.* (p.122)
 

@@ -52,10 +52,10 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 心智导向学习过程是 Li (2012) 基于欧洲裔美国学习者词汇研究、学习者自述与课堂观察所识别的西方文化学习过程模型。该模型以心智（mind）发展为焦点，包含四个核心支柱：主动参与（active engagement）、探索与探究（exploration and inquiry）、思考与[[Critical Thinking|批判性思维]]（thinking and critical thinking）、自我表达与沟通（self-expression and communication）([[Argument_Li_2012_Cambridge|Li, 2012, p.108]])。
+> 心智导向学习过程是 Li (2012) 基于欧洲裔美国学习者词汇研究、学习者自述与课堂观察所识别的西方文化学习过程模型。该模型以心智（mind）发展为焦点，包含四个核心支柱：主动参与（active engagement）、探索与探究（exploration and inquiry）、思考与[[Critical Thinking\|批判性思维]]（thinking and critical thinking）、自我表达与沟通（self-expression and communication）([[Argument_Li_2012_Cambridge\|Li, 2012, p.108]])。
 
 > [!quote]
-> "Taking these elements together, European-American respondents almost unanimously (96 percent) made references to such mind-oriented learning processes. In comparison, only 68 percent of their Chinese peers did so."([[Argument_Li_2012_Cambridge|Li, 2012, p.122]])
+> "Taking these elements together, European-American respondents almost unanimously (96 percent) made references to such mind-oriented learning processes. In comparison, only 68 percent of their Chinese peers did so."([[Argument_Li_2012_Cambridge\|Li, 2012, p.122]])
 
 这四项过程不是彼此独立的步骤，而是同时发生或循环交织的学习活动，其终极目的指向对外部世界的心智理解（understand the world）([[Argument_Li_2012_Cambridge|Li, 2012, p.108]])。
 
@@ -162,14 +162,14 @@ updated: 2026-08-20
 ## 实证发现
 
 > [!success]
-> 在 Li 关于[[Ideal Learner|理想学习者]]的研究中，96%的欧洲裔美国受访者在其理想学习者描述中提及上述心智导向学习过程，而仅 68%的中国同龄受访者提及类似过程。该数据来自对东西方大学生对理想学习者形象的开放式描述的原型分析([[Argument_Li_2012_Cambridge|Li, 2012, p.122]])。
+> 在 Li 关于[[Ideal Learner\|理想学习者]]的研究中，96%的欧洲裔美国受访者在其理想学习者描述中提及上述心智导向学习过程，而仅 68%的中国同龄受访者提及类似过程。该数据来自对东西方大学生对理想学习者形象的开放式描述的原型分析([[Argument_Li_2012_Cambridge\|Li, 2012, p.122]])。
 
 ---
 
 ## 理论基础
 
 > [!tip]-
-> - [[Socratic Tutoring Style]] — [[Socrates|苏格拉底]]式追问传统为[[Critical Thinking|批判性思维]]的提问和挑战权威提供了文化原型
+> - [[Socratic Tutoring Style]] — [[Socrates\|苏格拉底]]式追问传统为[[Critical Thinking\|批判性思维]]的提问和挑战权威提供了文化原型
 > - [[Examined Life]] — 未经省察的生活不值得过，为探究和反思提供了哲学根基
 > - [[Mind and Its Wonders]] — 西方智力传统中对心灵力量的核心信仰
 > - [[Western Learner]] — 西方学习者模型，心智导向学习过程是该模型在过程层面的展开

@@ -5,7 +5,7 @@ aliases:
 summary: "学生在课堂中表现出的干扰同伴、分心、疲惫或其他妨碍学习过程的行为，用于描述不利于学习参与和课堂秩序的行为模式。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 - level/k12
 - region/norway
 related_concepts:
+  - "[[Student Engagement]]"
   - "[[Classroom Management]]"
   - "[[Causality]]"
   - "[[School Norm Adaptation]]"
@@ -29,7 +30,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: 2026-09-22
 ---
 
 ## 定义
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 在学习阻碍行为评分上，女生显著低于男生（d=-0.29, p=.000），即女生报告的学习阻碍行为更少。
-> - 学习阻碍行为常与规范适应、学习投入共同构成在校行为解释路径（Lekhal_2015_Paideia）。
+> - 学习阻碍行为常与规范适应、[[Student Engagement\|学习投入]]共同构成在校行为解释路径（Lekhal_2015_Paideia）。
 
 ## 待补充研究
 

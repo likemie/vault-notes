@@ -50,21 +50,21 @@ updated: 2026-09-18
 > [!note]-
 > - 现任卡内基梅隆大学心理学系 William S. Dietrich II 讲座教授。
 > - 担任健康与人类表现实验室主任。
-> - 2011 年获心理科学协会（[[Australian Philanthropic Services|APS]]）早期职业奖。
-> - 2014 年获美国心理学会（[[APA Style|APA]]）早期职业奖。
+> - 2011 年获心理科学协会（[[Australian Philanthropic Services\|APS]]）早期职业奖。
+> - 2014 年获美国心理学会（[[APA Style\|APA]]）早期职业奖。
 > - 2017 年获美国心身医学学会早期职业奖。
 > - 有 16 年研究方法课程教学经验。
 
 ## 主要著作
 
 > [!abstract]
-> - [[John W. Creswell|Creswell, J. W.]], & Creswell, J. D. (2022). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (6th ed.). [[Sage]] Publications. — 与 [[John W. Creswell]] 合著，系统比较三种研究路径的研究设计教材。
+> - [[John W. Creswell\|Creswell, J. W.]], & Creswell, J. D. (2022). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (6th ed.). [[Sage]] Publications. — 与 [[John W. Creswell]] 合著，系统比较三种研究路径的研究设计教材。
 > - Creswell, J. D. (Ed.). (2015). *Handbook of Mindfulness*. Guilford Press. — 联合主编，正念研究的学术手册。
 
 ## 核心思想
 
 > [!tip]-
-> J. David Creswell 的研究以量化方法为主，核心关注压力情境下人类心理韧性的心理和生物机制。他的实验室研究结合行为实验、生理测量和干预设计，试图回答"什么使人能够在压力下保持健康"这一核心问题。在研究设计教材中，他主要负责[[Quantitative Research|量化研究]]方法和[[Mixed Methods Research|混合方法]]中量化部分的内容贡献。
+> J. David Creswell 的研究以量化方法为主，核心关注压力情境下人类心理韧性的心理和生物机制。他的实验室研究结合行为实验、生理测量和干预设计，试图回答"什么使人能够在压力下保持健康"这一核心问题。在研究设计教材中，他主要负责[[Quantitative Research\|量化研究]]方法和[[Mixed Methods Research\|混合方法]]中量化部分的内容贡献。
 
 ## 影响
 

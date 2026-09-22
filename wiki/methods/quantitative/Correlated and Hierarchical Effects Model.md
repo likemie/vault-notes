@@ -53,24 +53,24 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 方法定义
-> [[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）是一种专门用于在[[Meta-analysis|元分析]]（Meta-Analysis）与[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）中同时处理**相关效应（Correlated Effects，同一项研究或同一被试报告的多个相关测量）**与**层级效应（Hierarchical Effects，[[Effect Size|效应量]]嵌套于不同原始研究或一阶元分析集群中）**的三水平统计工作模型（Working Model）（Pustejovsky & Tipton, 2022; [[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 5]]）。CHE 通过构建块对角协方差工作矩阵并分解三层方差分量，为加权估计提供最优化统计效率。
+> [[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）是一种专门用于在[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）中同时处理**相关效应（Correlated Effects，同一项研究或同一被试报告的多个相关测量）**与**层级效应（Hierarchical Effects，[[Effect Size\|效应量]]嵌套于不同原始研究或一阶元分析集群中）**的三水平统计工作模型（Working Model）（Pustejovsky & Tipton, 2022; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 5]]）。CHE 通过构建块对角协方差工作矩阵并分解三层方差分量，为加权估计提供最优化统计效率。
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含多重测量指标、多亚组比较、纵向追踪或跨元分析嵌套依赖的一阶与二阶元分析数据矩阵。
-> - **问题类型** 同时存在元分析内效应量相关与元分析间效应[[Heterogeneity|异质性]]时的多水平方差分解与加权最小二乘拟合。
-> - **[[Unit of Analysis|分析单位]]** Level 1 [[Sampling Error|抽样误差]]、Level 2 研究内变异、Level 3 集群/元分析间真实效应变异。
+> - **问题类型** 同时存在元分析内效应量相关与元分析间效应[[Heterogeneity\|异质性]]时的多水平方差分解与加权最小二乘拟合。
+> - **[[Unit of Analysis\|分析单位]]** Level 1 [[Sampling Error\|抽样误差]]、Level 2 研究内变异、Level 3 集群/元分析间真实效应变异。
 > - **输出形式** 层级方差分量估计值（$\tau_3^2, \tau_2^2$）、异质性比率（$I_{(3)}^2, I_{(2)}^2$）及加权逆方差协方差工作矩阵 $\mathbf{V}$。
 
 > [!citation-card]- 关键定义
-> CHE 模型结合了相关效应与层级效应的优点，通过指定近似的相关结构构建工作协方差矩阵，使得效应量多水平加权更为精准。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 5)]]
+> CHE 模型结合了相关效应与层级效应的优点，通过指定近似的相关结构构建工作协方差矩阵，使得效应量多水平加权更为精准。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
 >
-> *We employed a correlated and hierarchical effects (CHE) working model to [[Accounts|account]] for the simultaneous [[Presence]] of correlated outcomes within studies and hierarchical nesting across meta-analyses...*
+> *We employed a correlated and hierarchical effects (CHE) working model to [[Accounts\|account]] for the simultaneous [[Presence]] of correlated outcomes within studies and hierarchical nesting across meta-analyses...*
 
 ---
 
 ## 方法定位：解决的核心问题
 
-> [!contrast-table] 传统模型 vs 独立[[Hierarchical Linear Model|多水平模型]] vs CHE 工作模型
+> [!contrast-table] 传统模型 vs 独立[[Hierarchical Linear Model\|多水平模型]] vs CHE 工作模型
 > | 维度 | 传统两水平[[Meta-analysis\|元分析]]模型 | 纯层级效应模型（Hierarchical） | 相关与层级效应工作模型（CHE） |
 > |---|---|---|---|
 > | **依赖性[[Hypothesis\|假设]]** | 假设所有[[Effect Size\|效应量]]完全独立 | 仅假设效应量嵌套于研究中，假设研究内无额外相关 | **同时建模研究内测量相关（$\rho$）与多层嵌套（$\tau_3^2, \tau_2^2$）** |
@@ -79,8 +79,8 @@ updated: 2026-09-18
 > | **与 [[Robust Variance Estimation\|RVE]] 的配合** | 加权效率低下 | 权重可能欠佳 | **提供最优 GLS 权重，极大提升 RVE 统计估计效率** |
 
 > [!concept-lens] CHE 模型解决的核心痛点
-> 1. **现实数据的双重依赖** 实证研究往往既包含“同一被试测了多种[[Creativity|创造力]]指标”（相关效应），又包含“多篇论文来自同一个实验室或同一个一阶元分析”（层级效应）。单纯使用层级模型会低估研究内相关，单纯使用相关模型则无法区分跨研究异质性。
-> 2. **优化广义最小二乘（Generalized Least Squares, GLS）加权效率** 尽管[[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE）能对错误的工作模型提供保护，但越接近真实依赖结构的工作模型，GLS 点估计的统计功效（Power）与估计精度越高。CHE 提供了最贴近真实数据生成过程的工作矩阵。
+> 1. **现实数据的双重依赖** 实证研究往往既包含“同一被试测了多种[[Creativity\|创造力]]指标”（相关效应），又包含“多篇论文来自同一个实验室或同一个一阶元分析”（层级效应）。单纯使用层级模型会低估研究内相关，单纯使用相关模型则无法区分跨研究异质性。
+> 2. **优化广义最小二乘（Generalized Least Squares, GLS）加权效率** 尽管[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation, RVE）能对错误的工作模型提供保护，但越接近真实依赖结构的工作模型，GLS 点估计的统计功效（Power）与估计精度越高。CHE 提供了最贴近真实数据生成过程的工作矩阵。
 
 ---
 
@@ -103,13 +103,13 @@ updated: 2026-09-18
 > $$z_{ij} = \beta_0 + \sum_{p=1}^P \beta_p X_{p,ij} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$
 > $$\operatorname{Var}(\zeta_{(3)j}) = \tau_3^2, \quad \operatorname{Var}(\zeta_{(2)ij}) = \tau_2^2, \quad \operatorname{Var}(\epsilon_{ij}) = V_{ij}$$
 >
-> **这个公式在做什么** 将第 $j$ 个一阶[[Meta-analysis|元分析]]内第 $i$ 个[[Effect Size|效应量]] $z_{ij}$ 的总方差分解为三层变异：
+> **这个公式在做什么** 将第 $j$ 个一阶[[Meta-analysis\|元分析]]内第 $i$ 个[[Effect Size\|效应量]] $z_{ij}$ 的总方差分解为三层变异：
 > 1. **Level 3（集群/元分析间变异 $\tau_3^2$）** 反映不同一阶元分析之间真实总体效应的离散程度；
-> 2. **Level 2（集群/元分析内变异 $\tau_2^2$）** 反映同一元分析内部不同效应量[[Construct|构念]]间的真实变异；
-> 3. **Level 1（[[Sampling Error|抽样误差]]变异 $V_{ij}$）** 反映主要研究因有限[[Sample Size Determination|样本量]]带来的[[Random Sampling|随机抽样]]噪声（如 Fisher's $z$ 下 $V_{ij} = \frac{1}{n_{ij}-3}$）。
+> 2. **Level 2（集群/元分析内变异 $\tau_2^2$）** 反映同一元分析内部不同效应量[[Construct\|构念]]间的真实变异；
+> 3. **Level 1（[[Sampling Error\|抽样误差]]变异 $V_{ij}$）** 反映主要研究因有限[[Sample Size Determination\|样本量]]带来的[[Random Sampling\|随机抽样]]噪声（如 Fisher's $z$ 下 $V_{ij} = \frac{1}{n_{ij}-3}$）。
 >
 > **结果怎么读** 
-> - 集群间[[Heterogeneity|异质性]]比例：$I_{(3)}^2 = \frac{\tau_3^2}{\tau_3^2 + \tau_2^2 + \bar{V}}$
+> - 集群间[[Heterogeneity\|异质性]]比例：$I_{(3)}^2 = \frac{\tau_3^2}{\tau_3^2 + \tau_2^2 + \bar{V}}$
 > - 集群内异质性比例：$I_{(2)}^2 = \frac{\tau_2^2}{\tau_3^2 + \tau_2^2 + \bar{V}}$
 > 两者之和即为全领域总真实异质性比例 $I_{\text{total}}^2$。
 
@@ -127,7 +127,7 @@ updated: 2026-09-18
 > \end{pmatrix}
 > $$
 >
-> **这个公式在做什么** 在[[Primary and Secondary Documents|原始文献]]未完整报告测量间相关系数时，设定合理的先验集群内相关常数 $\rho$（在敏感性分析中通常设定 $\rho = 0.8$，并检验 $\rho \in [0.0, 0.9]$ 范围内的稳定性），插补构造块对角抽样协方差矩阵。
+> **这个公式在做什么** 在[[Primary and Secondary Documents\|原始文献]]未完整报告测量间相关系数时，设定合理的先验集群内相关常数 $\rho$（在敏感性分析中通常设定 $\rho = 0.8$，并检验 $\rho \in [0.0, 0.9]$ 范围内的稳定性），插补构造块对角抽样协方差矩阵。
 
 ---
 
@@ -158,8 +158,8 @@ updated: 2026-09-18
 ## 适用场景与局限性
 
 > [!method-fit] 适用判断
-> - **强烈推荐** [[Meta-analysis|元分析]]中存在多重结果测量、亚组对比，或[[Meta-meta-analysis|二阶元分析]]中[[Effect Size|效应量]]嵌套于多个一阶元分析中。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 5)]]
-> - **配合使用** 强烈建议将 CHE 模型作为加权工作模型，配合 [[Robust Variance Estimation|稳健方差估计]]（RVE） 进行[[Hypothesis|假设]]检验与[[Standard Error|标准误]]校正。
+> - **强烈推荐** [[Meta-analysis\|元分析]]中存在多重结果测量、亚组对比，或[[Meta-meta-analysis\|二阶元分析]]中[[Effect Size\|效应量]]嵌套于多个一阶元分析中。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
+> - **配合使用** 强烈建议将 CHE 模型作为加权工作模型，配合 [[Robust Variance Estimation\|稳健方差估计]]（RVE） 进行[[Hypothesis\|假设]]检验与[[Standard Error\|标准误]]校正。
 
 > [!method-limits] 方法局限
 > - **工作模型假定依赖** 先验相关系数 $\rho$ 是人为指定的固定常数，必须进行敏感性检验（如在 0.0 到 0.9 间变动）以确认估计结论对 $\rho$ 的取值不敏感。

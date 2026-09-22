@@ -39,7 +39,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> 引言缺陷模型（Deficiencies Model for an Introduction）是 Creswell 提出的一种学术[[Research Introduction|研究引言]]写作模板，其核心思路是在已有[[Document|文献]]的缺口（deficiencies）之上构建研究的必要性。该模型包含四个部分：陈述[[Research Question|研究问题]]、综述文献中关于该问题的已有证据、指出已有证据中的缺陷、说明该问题对特定受众的重要性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
+> 引言缺陷模型（Deficiencies Model for an Introduction）是 Creswell 提出的一种学术[[Research Introduction\|研究引言]]写作模板，其核心思路是在已有[[Document\|文献]]的缺口（deficiencies）之上构建研究的必要性。该模型包含四个部分：陈述[[Research Question\|研究问题]]、综述文献中关于该问题的已有证据、指出已有证据中的缺陷、说明该问题对特定受众的重要性（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
 
 之所以称为"缺陷模型"，是因为该模型的一个主要组成部分是确立既往研究中的缺陷（deficiencies）。Creswell 对已发表研究文献的回顾表明，这个结构在社会科学领域尤其流行，反复出现在许多已发表的研究中（尽管不一定按照这里呈现的顺序）。
 
@@ -76,7 +76,7 @@ updated: 2026-09-11
 > - 理论发展不充分
 > - 测量工具未经验证或不可靠
 > - 文献未同时包含量化和质性数据
-> - 文献未涉及中介[[Variable|变量]]
+> - 文献未涉及中介[[Variable\|变量]]
 
 ### 4. 说明该问题对特定受众的重要性
 
@@ -99,17 +99,17 @@ updated: 2026-09-11
 
 ## 完整示例
 
-> [!example] 表5.1：带标注的[[Research Introduction|研究引言]]示例（Illustration of an Introduction to a Study With Annotated Markers of Components）
+> [!example] 表5.1：带标注的[[Research Introduction\|研究引言]]示例（Illustration of an Introduction to a Study With Annotated Markers of Components）
 >
-> 以下为 Plano Clark et al. (2002) 关于高中青少年吸烟与抑郁的[[Qualitative Research|质性研究]]引言（改编自 Creswell & Bàez, 2020），完整展示了缺陷模型的四个组成部分在实际写作中的运用。
+> 以下为 Plano Clark et al. (2002) 关于高中青少年吸烟与抑郁的[[Qualitative Research\|质性研究]]引言（改编自 Creswell & Bàez, 2020），完整展示了缺陷模型的四个组成部分在实际写作中的运用。
 >
-> **论文标题** *Exploring the Conceptions and Misconceptions of Teen Smoking in High Schools: A Multiple Case Analysis*（探索高中青少年对吸烟的认知与误解：一项多[[Case Study|案例研究]]）
+> **论文标题** *Exploring the Conceptions and Misconceptions of Teen Smoking in High Schools: A Multiple Case Analysis*（探索高中青少年对吸烟的认知与误解：一项多[[Case Study\|案例研究]]）
 >
-> > **一、[[Research Question|研究问题]]（The [[Research Problem]]）**
+> > **一、[[Research Question\|研究问题]]（The [[Research Problem]]）**
 > >
 > > 烟草使用是美国社会中癌症的主要成因（McGinnis & Foefe, 1993）。虽然成年人吸烟率近年来有所下降，但青少年吸烟率实际上在上升。美国疾病控制与预防中心报告称，高中生吸烟率从 1991 年的 27.5% 上升至 1995 年的 34.8%（USDHHS, 1996）。除非这一趋势得到显著逆转，否则我们国家预计将有 500 万儿童最终过早死亡（Centers for Disease Control and Prevention, 1996）。
 >
-> > **二、证明问题重要性的[[Document|文献]]证据（Evidence from Literature Justifying Problem）**
+> > **二、证明问题重要性的[[Document\|文献]]证据（Evidence from Literature Justifying Problem）**
 > >
 > > 以往关于青少年烟草使用的研究集中在四个主要主题。若干研究考察了年轻人开始吸烟的问题，指出烟草使用早在初中阶段即已开始（如 Heishman et al., 1997）。其他研究关注了学校中的吸烟预防和烟草使用，这类研究催生了大量校本预防项目和干预措施（如 Sussman, Dent, Burton, Stacy, & Flay, 1995）。较少研究考察了青少年的"戒烟尝试"或戒烟行为，这与针对成年人戒烟尝试的广泛研究形成鲜明对比（Heishman et al., 1997）。研究者同样关注了青少年吸烟的社会情境和社会影响（Fearnow, Chassin, & Presson, 1998）。例如，青少年吸烟可能发生在工作相关情境中、在家中（父母或照护者有一人或多人吸烟时）、在青少年社交活动中，或在高中附近被指定为"安全"吸烟区的场所（McVea et al., in press）。
 > >
@@ -119,7 +119,7 @@ updated: 2026-09-11
 > >
 > > **四、该问题对受众的重要性（Importance of Problem for Audiences）**
 > >
-> > 通过考察这些多元学校情境、使用质性路径并让学生作为协同研究者参与，我们可以更好地理解青少年对高中烟草使用的认知与误解。有了这一理解，研究者可以更好地隔离[[Variable|变量]]并发展关于吸烟行为的模型。行政人员和教师可以规划干预措施以预防或改变对吸烟的态度，学校官员可以协助戒烟或干预项目。
+> > 通过考察这些多元学校情境、使用质性路径并让学生作为协同研究者参与，我们可以更好地理解青少年对高中烟草使用的认知与误解。有了这一理解，研究者可以更好地隔离[[Variable\|变量]]并发展关于吸烟行为的模型。行政人员和教师可以规划干预措施以预防或改变对吸烟的态度，学校官员可以协助戒烟或干预项目。
 >
 > 来源：改编自 Creswell & Bàez (2020); Plano Clark et al.。
 
@@ -136,7 +136,7 @@ updated: 2026-09-11
 - **混合方法引言** 可以根据量化或质性路径（或两者结合）来撰写引言，取决于设计中哪一方的权重更大
 
 > [!note]- 缺陷模型的特点
-> 该模型可以灵活调整。各部分在实际研究中不一定按照上述顺序出现，但其四个基本组成部分——问题、[[Document|文献]]、缺陷、重要性——始终是引言的核心要素。
+> 该模型可以灵活调整。各部分在实际研究中不一定按照上述顺序出现，但其四个基本组成部分——问题、[[Document\|文献]]、缺陷、重要性——始终是引言的核心要素。
 
 ---
 

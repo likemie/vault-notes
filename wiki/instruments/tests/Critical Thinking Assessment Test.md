@@ -60,17 +60,17 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] [[Critical Thinking Assessment]] Test（[[Consensual Assessment Technique|CAT]]）
+> [!instrument-profile] [[Critical Thinking Assessment]] Test（[[Consensual Assessment Technique\|CAT]]）
 > - **工具类型** 基于教师校准的真实情境表现性测验（Faculty-Scored Real-World Performance Assessment）。
 > - **开发者与年份** Barry Stein, Ada Haynes, et al.（Tennessee Tech University / 美国国家科学基金会 NSF 资助, 2007）。
-> - **测量目的** 测量大学生在跨学科真实情境中的批判性分析、[[Creative Problem Solving|创造性问题解决]]与有效沟通能力，促进高校教师通过参与评分校准（Calibration）提升教学评价素养。
+> - **测量目的** 测量大学生在跨学科真实情境中的批判性分析、[[Creative Problem Solving\|创造性问题解决]]与有效沟通能力，促进高校教师通过参与评分校准（Calibration）提升教学评价素养。
 > - **实施方式** 纸笔测试（限时 60 分钟），试卷由经过培训认证的高校跨学科任课教师团队依据精细评分量规进行集体盲评。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]与[[Creative Problem Solving|创造性问题解决]]
+> [!construct-table] [[Critical Thinking\|批判性思维]]与[[Creative Problem Solving\|创造性问题解决]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -86,7 +86,7 @@ updated: 2026-08-27
 
 > [!instrument-items] 作答规则
 > - **题项形式** 15 道基于现实生活案例（如公共卫生争议、广告宣传真实性、技术方案权衡）的开放简答题。
-> - **作答格式** 纯主观文本简答，严禁任何[[Multiple-Choice Questions|选择题]]选项。
+> - **作答格式** 纯主观文本简答，严禁任何[[Multiple-Choice Questions\|选择题]]选项。
 > - **教师校准评分（Faculty Scoring Model）** 必须由院校 6–12 名跨学科教师参加标准化评分培训与一致性校准研讨（Calibration Workshop），双人独立盲审，分歧由第三人仲裁；总分 38 分。
 
 ---

@@ -55,7 +55,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!info]
-> 机构审查委员会（Institutional Review Board, IRB）是设立在大学和研究机构内部的委员会，其法律基础是美国联邦法规中对人权的保护条款。IRB 的基本职能是在研究开始之前审查研究方案，评估参与者面临的风险类别，确保研究在伦理上可接受。任何涉及人类受试者的研究都必须在数据收集前获得 IRB 批准（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
+> 机构审查委员会（Institutional Review Board, IRB）是设立在大学和研究机构内部的委员会，其法律基础是美国联邦法规中对人权的保护条款。IRB 的基本职能是在研究开始之前审查研究方案，评估参与者面临的风险类别，确保研究在伦理上可接受。任何涉及人类受试者的研究都必须在数据收集前获得 IRB 批准（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 在产学[[Clinical Trial|临床试验]]中，IRB 同时承担双重角色：既是保护人类受试者的伦理[[Gatekeepers|守门人]]，也是影响试验启动速度和运营成本的制度节点([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.206–211]])。
 
@@ -132,7 +132,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 ### 对伦理委员会的批评
 
 > [!warning] Hammersley 对伦理委员会的批评
-> Hammersley (2009, pp. 212–219) 论证[[Research Ethics|研究伦理]]委员会存在三个根本性问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 126–127]]）：
+> Hammersley (2009, pp. 212–219) 论证[[Research Ethics\|研究伦理]]委员会存在三个根本性问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 126–127]]）：
 >
 > **a. 不能做出合理或"优越"的伦理决策**，因为：(i) 社会科学家之间在伦理事项上缺乏共识；(ii) 伦理问题和实践研究是复杂的；(iii) 伦理答案不能机械地或按算法产出，而是框定在特定情境中（伦理委员会可能不了解）；(iv) 伦理委员会的职责范围不明确；(v) 伦理委员会混淆了伦理审计与伦理决策
 >
@@ -140,10 +140,10 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 >
 > **c. 导致研究中的不良后果(i)** 研究的官僚化；(ii) 时间和精力成本将阻止许多研究者继续；(iii) 研究者将回避敏感、困难或有争议但重要的领域；(iv) 研究者将回避重要研究领域，因为他们认为获得伦理委员会同意困难
 >
-> Hammersley 建议伦理委员会的角色应被削减为提供建议和伦理讨论的论坛。Howe & Moses (1999, pp. 46–55) 也认为伦理委员会没有特殊专长来判断许多教育[[Research Question|研究问题]]，应提供建议和指导，而非对特定研究项目做出前瞻性判断。
+> Hammersley 建议伦理委员会的角色应被削减为提供建议和伦理讨论的论坛。Howe & Moses (1999, pp. 46–55) 也认为伦理委员会没有特殊专长来判断许多教育[[Research Question\|研究问题]]，应提供建议和指导，而非对特定研究项目做出前瞻性判断。
 
 > [!tip]- 伦理守则的困难与优势
-> 伦理守则不能也不提供在特定情境中做什么的具体建议。最终，是研究者自己——其诚信、良心，在对伦理问题的敏锐意识、指导性守则和规范实践的支撑下——应该决定在特定情境中做什么，而这应该是经过证成、可证成、经过深思熟虑和可辩护的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 128]]）。
+> 伦理守则不能也不提供在特定情境中做什么的具体建议。最终，是研究者自己——其诚信、良心，在对伦理问题的敏锐意识、指导性守则和规范实践的支撑下——应该决定在特定情境中做什么，而这应该是经过证成、可证成、经过深思熟虑和可辩护的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 128]]）。
 
 ---
 
@@ -152,7 +152,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 在[[Sensitive Research|敏感研究]]中，正式伦理审查框架的局限被暴露得尤为明显（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 209–215]], 229–230）。
 
 > [!claim] 情境化伦理对规则化审查的挑战
-> Simons & Usher (2000) 主张伦理是情境化的（situated）——取决于具体的地方环境和情境。普适的伦理守则和审查指南可能有帮助，但通常不解决实际问题；它们必须在具体情境的特殊性中被解释和协商。这在敏感研究中尤为关键：研究者面临的伦理困境——如[[Guilty Knowledge|有罪知识]]、[[Covert Research|隐蔽研究]]的正当性、隐私与公共利益的权衡——很少能通过事前提交 IRB 申请来预见或解决（p.230）。
+> Simons & Usher (2000) 主张伦理是情境化的（situated）——取决于具体的地方环境和情境。普适的伦理守则和审查指南可能有帮助，但通常不解决实际问题；它们必须在具体情境的特殊性中被解释和协商。这在敏感研究中尤为关键：研究者面临的伦理困境——如[[Guilty Knowledge\|有罪知识]]、[[Covert Research\|隐蔽研究]]的正当性、隐私与公共利益的权衡——很少能通过事前提交 IRB 申请来预见或解决（p.230）。
 
 > [!case] 极权体制中的正式许可作为敏感性的来源
 > 在极权体制中，开展教育研究需要从高级政府官员和部门获得许可——这一正式审批流程本身就是敏感性的来源。封闭社会只允许经过批准的、通常非敏感和相对非政治性的话题被研究。Lee (1993, p. 6) 指出对某些群体而言，研究简直是一种诅咒（anathema）。在这种情况下，研究能否开展取决于人际关系、地方政治和微观政治，而非正式伦理审查（Morrison, 2006）（pp.200–201）。
@@ -169,10 +169,10 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 ## 在临床试验中的运营角色
 
 > [!warning] IRB 作为启动瓶颈
-> 在产业方申办的[[Clinical Trial|临床试验]]中，IRB 审查是多重串行委员会审查链中的关键环节，直接影响试验启动速度([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.206–207]])。[[Academic Medical Center|AMC]] 的试验启动流程中，IRB 审查与方案审查、部门审查、放射审查、药房审查等并行或串行交织，构成了制度性的效率瓶颈。
+> 在产业方申办的[[Clinical Trial\|临床试验]]中，IRB 审查是多重串行委员会审查链中的关键环节，直接影响试验启动速度([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, pp.206–207]])。[[Academic Medical Center\|AMC]] 的试验启动流程中，IRB 审查与方案审查、部门审查、放射审查、药房审查等并行或串行交织，构成了制度性的效率瓶颈。
 
 > [!info] 中心 IRB 与本地 IRB 的效率差异
-> IRB 的组织形式对临床试验启动效率有显著影响([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.211–212]])：
+> IRB 的组织形式对临床试验启动效率有显著影响([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, pp.211–212]])：
 >
 > | 维度 | 中心 IRB（Central IRB） | 本地 IRB（Local IRB） |
 > |---|---|---|
@@ -184,10 +184,10 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 中心或单一 IRB 依赖协议（central or single IRB reliance agreements）被 [[Clinical Trials Transformation Initiative|CTTI]] 倡导为加速启动的关键措施之一——允许机构的修改在收到监管文件后高效实施，而不需要从头走完本地 IRB 的完整审查周期([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])。
 
 > [!note]- IRB 的运营成本维度
-> 在临床试验启动的总成本中，IRB 相关费用是不可忽视的组成部分。AMC 的启动费用中包含"机构 IRB 依赖管理费"（institutional IRB reliance administration fee）和"中心 IRB 费"（central IRB fees）等专项收费([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.206]])。这些费用与医保覆盖分析（Medicare Coverage Analysis）和计费合规审查费等共同构成 AMC 启动成本从两万多美元到十五万美元以上的区间跨度。
+> 在临床试验启动的总成本中，IRB 相关费用是不可忽视的组成部分。AMC 的启动费用中包含"机构 IRB 依赖管理费"（institutional IRB reliance administration fee）和"中心 IRB 费"（central IRB fees）等专项收费([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, p.206]])。这些费用与医保覆盖分析（Medicare Coverage Analysis）和计费合规审查费等共同构成 AMC 启动成本从两万多美元到十五万美元以上的区间跨度。
 
 > [!abstract] FDA 1572 表格中的 IRB 义务
-> 在受 FDA 监管的临床试验中，IRB 的义务通过"1572 表格——研究者声明"（Form FDA 1572 – Statement of the Investigator）得到进一步界定。该表格要求识别主要研究者（Principal Investigator, PI）、副研究者以及研究活动和临床数据将在其中生成的设施，IRB 的审查和持续监督是其中的核心义务之一([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.209]])。
+> 在受 FDA 监管的临床试验中，IRB 的义务通过"1572 表格——研究者声明"（Form FDA 1572 – Statement of the Investigator）得到进一步界定。该表格要求识别主要研究者（Principal Investigator, PI）、副研究者以及研究活动和临床数据将在其中生成的设施，IRB 的审查和持续监督是其中的核心义务之一([[Argument_Bang_2025_ClinicalTrials\|Bang, 2025, p.209]])。
 
 ---
 

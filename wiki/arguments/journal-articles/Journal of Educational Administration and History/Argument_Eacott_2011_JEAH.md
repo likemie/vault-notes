@@ -82,7 +82,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 > [!info]
 > - **方法** 理论性／批判性政策分析（polemical intervention），以 Bourdieuian 社会理论为分析透镜
 > - **案例** NSW 公立学校系统（澳大利亚最大的学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校）
-> - **数据来源** 政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *[[Melbourne Declaration]]*）、联邦/州教育政策、学术[[Document|文献]]
+> - **数据来源** 政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *[[Melbourne Declaration]]*）、联邦/州教育政策、学术[[Document\|文献]]
 > - **立场声明** 论文明确承认其"对大学本位、理论丰富的项目的潜在特权化"(p.44)，以及其从"对澳大利亚教育领导力培养现状的不满"出发的立场
 
 
@@ -141,15 +141,15 @@ Eacott 提出(p.56-58)：
 ## 关键引用
 
 > [!quote]
-> “新南威尔士州公立学校系统对校长的培训，证明了学校教育[[Champ|场域]]折射来自其他场域（特别是经济和政治场域）干预的力量正在减弱。”
-> ("The preparation of principals in the New South Wales public school system is evidence of the diminished strength of the [[Champ|field]] of schooling to refract interference from other fields, particularly the economic and political fields.")(p.45)
+> “新南威尔士州公立学校系统对校长的培训，证明了学校教育[[Champ\|场域]]折射来自其他场域（特别是经济和政治场域）干预的力量正在减弱。”
+> ("The preparation of principals in the New South Wales public school system is evidence of the diminished strength of the [[Champ\|field]] of schooling to refract interference from other fields, particularly the economic and political fields.")(p.45)
 
 > [!quote]
-> “本文的核心论点是，如果[[School Leadership|学校领导]]者要重拾其激进的过去并参与公共知识分子活动，就需要一种替代性的领导惯习，这种惯习是建立在提出教育问题和争论（而非解决组织问题）的基础之上的。”
+> “本文的核心论点是，如果[[School Leadership\|学校领导]]者要重拾其激进的过去并参与公共知识分子活动，就需要一种替代性的领导惯习，这种惯习是建立在提出教育问题和争论（而非解决组织问题）的基础之上的。”
 > ("The central thesis of this article is that if school leaders are to reclaim their radical past and engage in public intellectualism, an alternate leadership [[Habitus]], one built on educational problem posing and contestation as opposed to organisational problem solving, is required.")(p.45)
 
 > [!quote]
-> “要成为[[School Leadership|学校领导力]]游戏中的玩家，一个人必须学习或习惯于游戏规则。这是一场用经济语言表达的游戏，伴随着来自教育领域之外的人的频繁干预或干扰。”
+> “要成为[[School Leadership\|学校领导力]]游戏中的玩家，一个人必须学习或习惯于游戏规则。这是一场用经济语言表达的游戏，伴随着来自教育领域之外的人的频繁干预或干扰。”
 > ("To be a player in the game of [[School Leadership]], one must learn or be habituated to the rules of the game. A game couched in economic language with frequent intervention, or interference, from those beyond education.")(p.50)
 
 > [!quote]
@@ -168,7 +168,7 @@ Eacott 提出(p.56-58)：
 > - **大学本位偏见** 作者承认对"大学本位、理论丰富的项目"存在"潜在特权化"，尽管声明试图同时问题化两种立场以避免现代主义二元对立
 > - **NSW 案例的推广性** 论文聚焦单一系统（NSW 公立学校），其结论向其他情境（私立学校、其他州/国家）的推广需要谨慎
 > - **缺乏实证数据** 作为理论／政策分析而非实证研究，论文未提供校长或项目参与者的直接经验数据
-> - **替代方案的具体性不足** 虽然提出了"加入世界[[Dialogue in Education|对话]]"的哲学方向，但未提供具体的课程设计或实施方案
+> - **替代方案的具体性不足** 虽然提出了"加入世界[[Dialogue in Education\|对话]]"的哲学方向，但未提供具体的课程设计或实施方案
 
 
 ## 来源

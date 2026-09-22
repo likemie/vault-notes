@@ -123,7 +123,7 @@ updated: '2026-08-27'
 >   G --> H["6.8 Box 6.1<br>36条选择清单"]
 > ```
 
-> [!knowledge-map]- 第6章[[Concept Mapping|概念地图]]
+> [!knowledge-map]- 第6章[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_6_Concept_Map.jpg)
 
 ---
@@ -138,9 +138,9 @@ updated: '2026-08-27'
 > - **新手从过于宏大的课题出发**
 >   许多新手学生和研究者从一个过于宏大的课题出发。导师的任务是帮助新手将研究领域收窄和打磨，使其变得可行、有用、可操作。研究的纪律在于将其缩小到可管理／可研究的比例（cf. Hopkins, 1985, p. 47）。由此推出：课题必须被框紧，严谨性才能嵌入。
 > - **研究不是个人观点的佐证**
->   新手往往让教育研究成为自己的人生故事，或为个人观点寻找[[Document|文献]]和经验支撑。这不是研究的任务。研究的任务是发现（find out）、调查（investigate）、发展（develop）、检验（test out）和回答（what if、how、why、how well、what、where）。由此推出：研究必须指向外部世界的问题，而非研究者自身。
+>   新手往往让教育研究成为自己的人生故事，或为个人观点寻找[[Document\|文献]]和经验支撑。这不是研究的任务。研究的任务是发现（find out）、调查（investigate）、发展（develop）、检验（test out）和回答（what if、how、why、how well、what、where）。由此推出：研究必须指向外部世界的问题，而非研究者自身。
 > - **框紧边界才能严谨**
->   研究课题只是学科领域中的一小块，必须画出谨慎的边界。严谨性不在于宏大，而在于框得紧（tightly framed）。未经收窄的课题如同没有边界的田野，在其中漫游，最终哪里也到不了。课题宏大则无法管理，无法管理则无法嵌入严谨性（[[Fitness for Purpose|目的适配性]]和方法[[Reliability|可靠性]]），缺乏严谨性则失败。由此推出：规划阶段的第一个纪律就是将课题收窄到可研究的比例。
+>   研究课题只是学科领域中的一小块，必须画出谨慎的边界。严谨性不在于宏大，而在于框得紧（tightly framed）。未经收窄的课题如同没有边界的田野，在其中漫游，最终哪里也到不了。课题宏大则无法管理，无法管理则无法嵌入严谨性（[[Fitness for Purpose\|目的适配性]]和方法[[Reliability\|可靠性]]），缺乏严谨性则失败。由此推出：规划阶段的第一个纪律就是将课题收窄到可研究的比例。
 
 ---
 
@@ -182,7 +182,7 @@ updated: '2026-08-27'
 > > - 调查原因或效果的愿望（causes of a phenomenon / effects of an intervention）
 
 > [!exegesis] 四类驱动力的非互斥关系
-> 这四个类别并非互斥，一个[[Research Topic|研究选题]]可以同时来自多种驱动力。例如，一位教师可能因日常教学中遇到的问题（实践驱动）而注意到文献中的空白（文献驱动），同时该议题也是学科会议广泛讨论的热点（外部驱动）。选题来源框架的功能不是将研究归类，而是帮助研究者识别选题背后的驱动力构成。
+> 这四个类别并非互斥，一个[[Research Topic\|研究选题]]可以同时来自多种驱动力。例如，一位教师可能因日常教学中遇到的问题（实践驱动）而注意到文献中的空白（文献驱动），同时该议题也是学科会议广泛讨论的热点（外部驱动）。选题来源框架的功能不是将研究归类，而是帮助研究者识别选题背后的驱动力构成。
 
 ---
 
@@ -249,13 +249,13 @@ updated: '2026-08-27'
 > [!pathways] 新手研究者的应对策略
 > 新手研究者往往不清楚自己的研究是否原创、重要、复杂、困难或适时。五条行动路径如下：
 >
-> 1. **阅读** 围绕该课题广泛阅读，进行[[Literature Search|文献搜索]]和在线搜索
+> 1. **阅读** 围绕该课题广泛阅读，进行[[Literature Search\|文献搜索]]和在线搜索
 > 2. **参与** 参加相关会议，了解领域前沿
 > 3. **关注** 阅读相关报纸报道，了解公众讨论
 > 4. **审视** 在做出是否追问该领域的坚定决定之前，先审视该领域的现状
 > 5. **讨论** 与可能的导师讨论拟议课题，获得专家反馈
 >
-> UC Santa Cruz (2010, p. 1) 提供了一个虽不完全但有用的起点：选择感兴趣的课题、阅读背景材料并编制关键词列表、澄清核心概念、将课题写成陈述句或[[Hypothesis|假设]]。
+> UC Santa Cruz (2010, p. 1) 提供了一个虽不完全但有用的起点：选择感兴趣的课题、阅读背景材料并编制关键词列表、澄清核心概念、将课题写成陈述句或[[Hypothesis\|假设]]。
 
 ---
 
@@ -269,9 +269,9 @@ updated: '2026-08-27'
 
 > [!goal] 研究的目的
 > - **明确研究的交付物**
->   [[Research Purpose|研究目的]]是研究预期交付什么（what the research will deliver），即研究完成后哪些在研究开始前不知道的知识将被获得。
+>   [[Research Purpose\|研究目的]]是研究预期交付什么（what the research will deliver），即研究完成后哪些在研究开始前不知道的知识将被获得。
 > - **区分目的与预测**
->   研究目的不同于[[Trend Study|预测研究]]结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
+>   研究目的不同于[[Trend Study\|预测研究]]结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
 > - **目的决定方法**
 >   不同的目的暗示不同的研究取向，因此目的适配性（fitness for purpose）决定随后的研究类型、方法、工具和设计。
 
@@ -365,7 +365,7 @@ updated: '2026-08-27'
 > 在详细规划之前，先带着初步的研究大纲接触一些组织（学校、学院、大学、政府部门），了解准入的可能性。如果答案是否定的，研究计划要么停止，要么必须修改。
 
 > [!info] 准入什么的关键追问
-> 获得校长许可进入学校，但如果教师没有被咨询或完全不合作，这种准入几乎毫无用处。这涉及[[Informed Consent|知情同意]]问题：准入是机构层面的协商，知情同意是个体参与者层面的程序，二者缺一不可。
+> 获得校长许可进入学校，但如果教师没有被咨询或完全不合作，这种准入几乎毫无用处。这涉及[[Informed Consent\|知情同意]]问题：准入是机构层面的协商，知情同意是个体参与者层面的程序，二者缺一不可。
 
 ---
 
@@ -386,7 +386,7 @@ updated: '2026-08-27'
 > - **毅力适配**
 >   是否有足够的毅力完成这项研究
 > - **专长适配**
->   在该领域是否有足够专长。专长不足时，[[Literature Review|文献综述]]是建立专长的第一步
+>   在该领域是否有足够专长。专长不足时，[[Literature Review\|文献综述]]是建立专长的第一步
 > - **投入适配**
 >   这项研究是否有助于专业兴趣发展、声誉建立、职业晋升或专业发展
 > - **时间承诺适配**
@@ -402,16 +402,16 @@ updated: '2026-08-27'
 > [!assumptions] 三个层面的时间约束
 > 1. **研究的整体时间段** 可用时间是否允许所选研究类型？六到九个月的时间框架无法容纳纵向研究。
 > 2. **研究者自身的时间可用性** 许多研究者在职学习，研究往往是孤立的一人之事，而非有全职研究者的团队。
-> 3. **参与者的时间可用性** 他们是否愿意且能够投入时间参与访谈、记日记、跟进汇报和[[Focus Group|焦点小组]]？
+> 3. **参与者的时间可用性** 他们是否愿意且能够投入时间参与访谈、记日记、跟进汇报和[[Focus Group\|焦点小组]]？
 
 ---
 
 #### 6.5.4 资源
 
 > [!feature] 资源的三个类别
-> - **物质资源** 邮寄调查有印刷、分发、回邮和跟进提醒的成本。[[Internet-based Survey|在线调查]]需考虑：所有教师是否都有便捷的网络访问？连接质量差、速度慢或系统不稳定是否会导致他们中途放弃？
+> - **物质资源** 邮寄调查有印刷、分发、回邮和跟进提醒的成本。[[Internet-based Survey\|在线调查]]需考虑：所有教师是否都有便捷的网络访问？连接质量差、速度慢或系统不稳定是否会导致他们中途放弃？
 > - **人力资源** 大规模校园问卷需要学术和行政人员的配合来安排分发、收集和回收
-> - **档案资源** 历史[[Archival Research|档案研究]]（如20世纪初苏格兰公共教育趋势分析）可能需要支付检索费、访问分散各地的档案馆、花时间坐在公共记录办公室的微缩胶片阅读器前
+> - **档案资源** 历史[[Archival Research\|档案研究]]（如20世纪初苏格兰公共教育趋势分析）可能需要支付检索费、访问分散各地的档案馆、花时间坐在公共记录办公室的微缩胶片阅读器前
 
 ---
 
@@ -428,7 +428,7 @@ updated: '2026-08-27'
 
 #### 6.5.6 专业指导
 
-> [!info] 指导是[[Research Practicability|研究可行性]]的前置条件
+> [!info] 指导是[[Research Practicability\|研究可行性]]的前置条件
 > 攻读学位的研究需要确保能够获得**专业、有见识的指导**。许多大学会在无法提供充分指导的情况下拒绝研究提案。明智的做法是在注册之前就确认课题是否能得到具有合适专长的教师的指导。
 
 ---
@@ -439,15 +439,15 @@ updated: '2026-08-27'
 > **一项研究应保持狭窄和有限的范围，以实现可管理性和严谨性。** 俗话说**吃大象的最佳方式是一次一口（the best way to eat an elephant is one bite at a time）**。研究必须设定清晰、可感知、现实、公平和可管理的边界。
 
 > [!case] 案例四：学生生物学学习动机——当课题失控
-> 如果要研究学生生物学学习动机，不仅涉及识别**大量自[[Variable|变量]]**，还需处理可能的数据过载，并确保**所有动机理论**都被纳入。这迅速失控，成为不可能完成的任务。
+> 如果要研究学生生物学学习动机，不仅涉及识别**大量自[[Variable\|变量]]**，还需处理可能的数据过载，并确保**所有动机理论**都被纳入。这迅速失控，成为不可能完成的任务。
 >
-> 正确的做法是：处理**一到两种**动机理论，限定**明确的[[Independent Variable|自变量]]范围**，针对**特定年龄段**或**特定经验类型**的学生。没有边界的课题会在任何地方漫游，实际上哪里也去不了。
+> 正确的做法是：处理**一到两种**动机理论，限定**明确的[[Independent Variable\|自变量]]范围**，针对**特定年龄段**或**特定经验类型**的学生。没有边界的课题会在任何地方漫游，实际上哪里也去不了。
 
 > [!case] 案例五：Axline (1964) — 一个孩子的革命性研究
 > Axline 在 *Dibs in Search of Self* 中研究了**游戏治疗（play therapy）**对一名儿童 Dibs 的修复和治疗效果，样本仅为**一个孩子**。通过深度个案追踪，Axline 详细展示了游戏治疗如何帮助这名情感受创的儿童重建自我意识和人际关系能力。这本著作后来成为心理治疗和教育领域的经典。一个孩子的研究——当被仔细、深度、有限边界地执行时——可以产生对整个领域的巨大贡献。窄聚焦不意味着浅薄，恰恰相反，窄聚焦使深层理解成为可能。
 
 > [!case] 案例六：Piaget (1932) — 少数几个孩子的理论革命
-> Piaget 在 *The Moral Judgement of the Child* 中研究了儿童道德判断的发展，样本仅为**少数几个孩子（a handful of children）**。他没有使用大样本或标准化测验，而是通过对少数儿童进行[[In-depth Interview|深度访谈]]和对游戏规则的细致观察，提出了从他律道德（heteronomous morality，规则来自外部权威）到自律道德（autonomous morality，规则来自相互尊重和合作）的发展阶段模型。这一理论深刻影响了整个20世纪的发展心理学和教育学。
+> Piaget 在 *The Moral Judgement of the Child* 中研究了儿童道德判断的发展，样本仅为**少数几个孩子（a handful of children）**。他没有使用大样本或标准化测验，而是通过对少数儿童进行[[In-depth Interview\|深度访谈]]和对游戏规则的细致观察，提出了从他律道德（heteronomous morality，规则来自外部权威）到自律道德（autonomous morality，规则来自相互尊重和合作）的发展阶段模型。这一理论深刻影响了整个20世纪的发展心理学和教育学。
 
 > [!lessons]- Axline和Piaget的共同方法论启示
 > 两个经典案例共同说明：**小样本、窄聚焦的研究可以产生卓越的成果。** 研究对象被仔细限定（Axline聚焦一个孩子的一种治疗形式，Piaget聚焦少数儿童的道德推理），研究执行深度而非广度，边界清晰使严谨性成为可能。对新手研究者的核心启示是：不要害怕做得小。小不是缺点，只要足够深、足够严谨、有清晰边界。
@@ -458,7 +458,7 @@ updated: '2026-08-27'
 
 
 > [!chapter-question] 研究问题的作用与边界
-> [[Research Question|研究问题]]对调查的指导作用在决策时是有用的参考。但也需要认识到：一些研究，通常是[[Qualitative Research|质性研究]]（Bryman, 2007b），可能**没有**研究问题；研究方法并不总是由研究问题驱动（Bryman, 2007b, p. 18）；应避免"**研究问题的独裁**"（dictatorship of the research questions）（Bryman, 2007b, p. 14）。
+> [[Research Question\|研究问题]]对调查的指导作用在决策时是有用的参考。但也需要认识到：一些研究，通常是[[Qualitative Research\|质性研究]]（Bryman, 2007b），可能**没有**研究问题；研究方法并不总是由研究问题驱动（Bryman, 2007b, p. 18）；应避免"**研究问题的独裁**"（dictatorship of the research questions）（Bryman, 2007b, p. 14）。
 
 ---
 
@@ -534,8 +534,8 @@ updated: '2026-08-27'
 
 #### 混合方法研究问题
 
-> [!info] [[Mixed Methods Research|混合方法]]的特殊性
-> 第1章区分了数值型、非数值型和[[Mixed Methods Question|混合方法研究问题]]。在混合方法研究中，研究问题在设计指导中更加突出，但框定混合方法研究问题往往比单一[[Paradigm|范式]]研究更困难（Onwuegbuzie & Leech, 2006a, p. 477），因为它需要在**同一研究问题**中同时处理量化与质性策略。
+> [!info] [[Mixed Methods Research\|混合方法]]的特殊性
+> 第1章区分了数值型、非数值型和[[Mixed Methods Question\|混合方法研究问题]]。在混合方法研究中，研究问题在设计指导中更加突出，但框定混合方法研究问题往往比单一[[Paradigm\|范式]]研究更困难（Onwuegbuzie & Leech, 2006a, p. 477），因为它需要在**同一研究问题**中同时处理量化与质性策略。
 
 > [!case] 混合方法研究问题示例一
 > "研究生阅读理解水平与他们对阅读实证研究文章的障碍感知之间存在什么关系？"（Onwuegbuzie & Leech, 2006a, p. 484）该问题需要**数值数据**（阅读理解水平得分）和**质性数据**（对阅读障碍的感知）来提供完整答案，将"What"（量化相关）和"Why/What barriers"（质性探索）整合在同一问题中。
@@ -548,9 +548,9 @@ updated: '2026-08-27'
 #### 质性研究不使用研究问题的情况
 
 > [!warning] 研究问题的缺席
-> 并非所有研究都需要研究问题。[[Ethnography|人种志]]等研究类型可能不以研究问题开始。自然主义研究（见第11章）的特征之一是**尽量不打乱参与者的日常自然情境**。开放性研究（如人种志、调查或焦点小组）可能在其结束阶段使用开放式研究来**提出研究问题**供后续[[Research Utilization|研究使用]]。
+> 并非所有研究都需要研究问题。[[Ethnography\|人种志]]等研究类型可能不以研究问题开始。自然主义研究（见第11章）的特征之一是**尽量不打乱参与者的日常自然情境**。开放性研究（如人种志、调查或焦点小组）可能在其结束阶段使用开放式研究来**提出研究问题**供后续[[Research Utilization\|研究使用]]。
 >
-> 因此，着手一项**故意不设清晰研究问题甚至完全没有研究问题的调查**也是一种合理选择。这类研究一般是探索性的，不希望将调查引导得太紧。但选择这种路径需要有[[Epistemology|认识论]]层面的理由，通常与归纳式研究设计、[[Emergence|涌现]]性发现和自然主义方法论立场有关。
+> 因此，着手一项**故意不设清晰研究问题甚至完全没有研究问题的调查**也是一种合理选择。这类研究一般是探索性的，不希望将调查引导得太紧。但选择这种路径需要有[[Epistemology\|认识论]]层面的理由，通常与归纳式研究设计、[[Emergence\|涌现]]性发现和自然主义方法论立场有关。
 
 ---
 
@@ -558,7 +558,7 @@ updated: '2026-08-27'
 
 
 > [!info] 文献综述的多重角色
-> [[Literature Review|文献综述]]是大多数研究的重要组成部分，尤其是学位论文。它的存在理由不是"展示研究者读过一些相关材料"，这是一个琐碎且自恋的理由。**文献综述必须有用，必须为研究提供形成性的（formative）信息。**
+> [[Literature Review\|文献综述]]是大多数研究的重要组成部分，尤其是学位论文。它的存在理由不是"展示研究者读过一些相关材料"，这是一个琐碎且自恋的理由。**文献综述必须有用，必须为研究提供形成性的（formative）信息。**
 
 ---
 
@@ -572,7 +572,7 @@ updated: '2026-08-27'
 > - **作为进入研究者自身研究的跳板**
 >   提出问题、展示研究领域中的空白（gaps），为研究提供部分理由或必要性。好的文献综述不只是总结，而是揭示为什么还需要多做一项研究。
 > - **展示研究者的批判性判断**
->   对先前研究的评价，并实际上为研究提供新的理论、概念、方法论和实质性洞见。这是研究者主动参与学术[[Dialogue in Education|对话]]的场所。
+>   对先前研究的评价，并实际上为研究提供新的理论、概念、方法论和实质性洞见。这是研究者主动参与学术[[Dialogue in Education\|对话]]的场所。
 > - **设置研究语境**
 >   确立需解决的关键议题，将研究置于更广泛的学术景观中。
 > - **明确新领域需要在哪里突破**
@@ -581,7 +581,7 @@ updated: '2026-08-27'
 ---
 
 > [!warning] 文献综述必须是形成性的
-> 一份合格的文献综述必须通向或衍生出（lead into, or give [[Research in Schools Evaluation|RISE]] to）研究的**所有方面** 领域、课题、方法论、数据分析和未来研究启示。它不应是研究的附属品或独立章节，而是研究的有机组成部分。
+> 一份合格的文献综述必须通向或衍生出（lead into, or give [[Research in Schools Evaluation\|RISE]] to）研究的**所有方面** 领域、课题、方法论、数据分析和未来研究启示。它不应是研究的附属品或独立章节，而是研究的有机组成部分。
 >
 > 文献综述应包含来自以下材料的及时信息：书籍、文章、报告、研究论文、报纸文章、会议论文、学位论文、综述、政府文件、数据库和互联网来源、一手和二手来源等。
 
@@ -692,14 +692,14 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > The task of research is to find out, to investigate, to develop, to test out (e.g. a theory), to address questions that ask, for example: 'what if', 'how', 'why', 'how well', 'what' and 'where'.
 
 > [!citation-card]- 窄化即严谨
-> 选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985, p. 47），以便将严谨性（如[[Fitness for Purpose|目的适配性]]和方法论[[Reliability|可靠性]]）嵌入研究之中。规划研究的严谨性在于选择一个被紧密框定的课题。（第6章, p.78）
+> 选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985, p. 47），以便将严谨性（如[[Fitness for Purpose\|目的适配性]]和方法论[[Reliability\|可靠性]]）嵌入研究之中。规划研究的严谨性在于选择一个被紧密框定的课题。（第6章, p.78）
 >
 > Part of the discipline of choosing and conducting a piece of research is fining it down to manageable/researchable proportions (cf. Hopkins, 1985, p. 47), to enable rigour (e.g. fitness for purposes and methodological soundness) to be inserted into the research. Rigour in planning and doing research lies in choosing a project that is tightly framed.
 
 > [!citation-card]- 原创性不够
 > 研究需要超越原创数据，选择一个重要的课题，真正为我们的理解和实践做出重要贡献。仅凭原创性是不够的。研究应该能够推动领域前进——也许只是小规模、零散、渐进的方式——但没有这项研究，领域将更加贫乏。（第6章, p.81）
 >
-> Research needs to go beyond this, to choose a significant topic that will actually make an important contribution to our understanding and to practice. Originality alone is not enough. Rather, the research should be able to move forward the [[Champ|field]], perhaps in only a small-scale, piecemeal, incremental way, but nevertheless to advance it such that, without the research, the field would be poorer.
+> Research needs to go beyond this, to choose a significant topic that will actually make an important contribution to our understanding and to practice. Originality alone is not enough. Rather, the research should be able to move forward the [[Champ\|field]], perhaps in only a small-scale, piecemeal, incremental way, but nevertheless to advance it such that, without the research, the field would be poorer.
 
 > [!citation-card]- 研究的根本问题：值得做吗？
 > 这项研究的用途是什么？做这项研究的意义是什么？这项研究值得做吗？如果最后一个问题的答案是"不"，那么研究者也许应该放弃——否则它将从有用研究沦为一个业余爱好者的放纵。（第6章, pp.81–82）
@@ -707,11 +707,11 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > 'What is the use of this research?' 'What is the point of doing this research?' 'Is this research worth doing?' If the answers to the last question is 'no', then maybe the researcher should abandon it, otherwise it ceases to be useful research and becomes an indulgence of the dilettante.
 
 > [!citation-card]- 目的适配性：让尾巴摇狗
-> 研究者不能简单地说他或她喜欢[[Questionnaire|问卷]]、害怕数字或偏好访谈，或觉得做[[Covert Research|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Research Purpose|研究目的]]决定随后的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]等。（第6章, p.91）
+> 研究者不能简单地说他或她喜欢[[Questionnaire\|问卷]]、害怕数字或偏好访谈，或觉得做[[Covert Research\|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Research Purpose\|研究目的]]决定随后的研究类型、[[Research Question\|研究问题]]、资料收集工具、抽样策略、[[Research Ethics\|研究伦理]]和[[Research Scope\|研究范围]]等。（第6章, p.91）
 >
-> The researcher cannot simply say that he or she likes questionnaires, or is afraid of numbers, or prefers to conduct interviews, or feels that it is wrong to undertake covert research so no covert research will be done. That is to have the tail wagging the dog. Rather, the [[Research Purpose|research purposes]] determine what follow in respect of the kind of research, the research questions, the instruments for data collection, the sampling, whether the research is overt or covert, the scope of the research and so on.
+> The researcher cannot simply say that he or she likes questionnaires, or is afraid of numbers, or prefers to conduct interviews, or feels that it is wrong to undertake covert research so no covert research will be done. That is to have the tail wagging the dog. Rather, the [[Research Purpose\|research purposes]] determine what follow in respect of the kind of research, the research questions, the instruments for data collection, the sampling, whether the research is overt or covert, the scope of the research and so on.
 
-> [!citation-card]- [[Access and Acceptance in Research|研究准入]]：最困难的任务
+> [!citation-card]- [[Access and Acceptance in Research\|研究准入]]：最困难的任务
 > 获得人员和机构的准入是任何实证研究者最困难的任务之一，尤其当研究具有任何敏感性时。准入问题可能阻止研究启动，也可能扭曲或改变研究的原始计划。（第6章, p.91）
 >
 > Gaining access to people and institutions is one of the most difficult tasks for any empirical researcher, particularly if the research is in any way sensitive. Access problems can prevent the research from starting at all, or they can distort or change the original plans for the research.

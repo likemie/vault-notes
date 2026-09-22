@@ -59,20 +59,20 @@ citation_aliases:
 ## 研究问题
 
 > [!question] 核心关切
-> 知识产权（IP）是[[University-Industry Collaboration|产学合作]]中潜在最有价值的产出，同时也往往是合作协议谈判中最复杂、最激烈的障碍(p.272)。深层原因在于两个部门的组织使命差异：大学是非营利机构，以知识传播和公开发表为核心使命；企业是营利实体，以创造市场竞争优势和股东回报为目标。两种使命作用于同一套 IP 安排时，各自衍生出不可妥协的核心利益，形成了系统性的期望错位。
+> 知识产权（IP）是[[University-Industry Collaboration\|产学合作]]中潜在最有价值的产出，同时也往往是合作协议谈判中最复杂、最激烈的障碍(p.272)。深层原因在于两个部门的组织使命差异：大学是非营利机构，以知识传播和公开发表为核心使命；企业是营利实体，以创造市场竞争优势和股东回报为目标。两种使命作用于同一套 IP 安排时，各自衍生出不可妥协的核心利益，形成了系统性的期望错位。
 >
-> 由此产生一个实践层面的根本问题：如何在保护大学发表自由和避免 IP 负担的同时，满足企业对[[Freedom to Operate|自由实施权]]和商业排他性的需求？化解这一矛盾的关键不在于某一方让步，而在于合同条款的精细化设计：通过明确界定前景 IP 与背景 IP、合理设计权利转让的层级结构，使 IP 从合作的绊脚石变为助推器。
+> 由此产生一个实践层面的根本问题：如何在保护大学发表自由和避免 IP 负担的同时，满足企业对[[Freedom to Operate\|自由实施权]]和商业排他性的需求？化解这一矛盾的关键不在于某一方让步，而在于合同条款的精细化设计：通过明确界定前景 IP 与背景 IP、合理设计权利转让的层级结构，使 IP 从合作的绊脚石变为助推器。
 
 ---
 
 ## 理论框架
 
 > [!note]- 分析视角
-> 不采用严格的学术理论，而是基于[[University-Industry Collaboration|产学合作]]实务中的制度分析视角。核心逻辑链为：**组织使命差异 → IP 利益的结构性冲突 → 合同条款的精细化设计来弥合冲突**。论证围绕三组概念展开：
+> 不采用严格的学术理论，而是基于[[University-Industry Collaboration\|产学合作]]实务中的制度分析视角。核心逻辑链为：**组织使命差异 → IP 利益的结构性冲突 → 合同条款的精细化设计来弥合冲突**。论证围绕三组概念展开：
 >
-> - **[[Foreground IP|前景知识产权]]（Foreground IP, FIP）** 合作期间产生的知识产权，定义通常争议较小
-> - **[[Background IP|背景知识产权]]（Background IP, BIP）** 合作前各方独立拥有的知识产权，是谈判的焦点战场
-> - **[[Freedom to Operate|自由实施权]]（Freedom to Operate, FTO）** 企业商业化所需的知识产权自由实施空间，是产业方评估 BIP 需求时的核心关切
+> - **[[Foreground IP\|前景知识产权]]（Foreground IP, FIP）** 合作期间产生的知识产权，定义通常争议较小
+> - **[[Background IP\|背景知识产权]]（Background IP, BIP）** 合作前各方独立拥有的知识产权，是谈判的焦点战场
+> - **[[Freedom to Operate\|自由实施权]]（Freedom to Operate, FTO）** 企业商业化所需的知识产权自由实施空间，是产业方评估 BIP 需求时的核心关切
 >
 > 此外，论证还覆盖了 IP 类型的法律基础（专利、版权、商标、商业秘密）和权利转让的谱系（从赠款的"零权利回授"到技术服务协议的"企业拥有全部权利"）。
 
@@ -81,7 +81,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 实践指南类章节，基于作者在美国[[Technology Transfer|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识文件系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 [[MN-IP Create]] 项目实例。非实证研究，无系统数据收集。
+> 实践指南类章节，基于作者在美国[[Technology Transfer\|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership\|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识文件系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 [[MN-IP Create]] 项目实例。非实证研究，无系统数据收集。
 
 ---
 
@@ -134,7 +134,7 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 > "搭便车"安排需要大学谨慎处理，特别是在涉及联邦研究资助、州政府支持或地方税收豁免的情况下，必须避免产生"公共资源被不当用于支持私人利益"的印象(p.274)。
 
 > [!success] 理想状态的产学合作
-> 一个理想的[[University-Industry Collaboration|产学合作]]产出双方共赢的局面：大学研究人员得以开展原本无法进行的、可发表的研究工作；产业方获得其无法独立开发的技术的排他性使用权。这种合作最终促成基于所开发技术的产品成功商业化，使产业方、大学和社会整体都从中受益(p.274)。
+> 一个理想的[[University-Industry Collaboration\|产学合作]]产出双方共赢的局面：大学研究人员得以开展原本无法进行的、可发表的研究工作；产业方获得其无法独立开发的技术的排他性使用权。这种合作最终促成基于所开发技术的产品成功商业化，使产业方、大学和社会整体都从中受益(p.274)。
 
 ---
 
@@ -154,7 +154,7 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 
 > [!abstract] 产业的核心 IP 利益
 >
-> **[[Freedom to Operate|自由实施权]]（FTO）**。如果产学合作产生了有价值的前景 IP（[[Foreground IP|FIP]]），产业方需要确保大学的既有 IP 权利不会阻碍其商业化该技术的能力。因此，产业方通常会寻求某种形式的免费或低成本访问大学控制的背景 IP（[[Background IP|BIP]]）的保证(p.276)。
+> **[[Freedom to Operate\|自由实施权]]（FTO）**。如果产学合作产生了有价值的前景 IP（[[Foreground IP\|FIP]]），产业方需要确保大学的既有 IP 权利不会阻碍其商业化该技术的能力。因此，产业方通常会寻求某种形式的免费或低成本访问大学控制的背景 IP（[[Background IP\|BIP]]）的保证(p.276)。
 >
 > **排他性**。产业方普遍寻求一定程度的市场排他性作为竞争优势的来源。自由发表或不受保护的技术可被竞争对手轻易使用，大幅降低潜在商业价值(pp.276–277)。
 >
@@ -216,7 +216,7 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 > [!quote]
 > "Intellectual Property (IP)" means Inventions and Copyrightable Material, where "Invention" means any invention or discovery that is or may be patentable or otherwise protectable under Title 35 of the United States Code, and "Copyrightable Material" means any material or other property, including computer software, that is or may be copyrightable or otherwise protectable under Title 17 of the United States Code.
 
-> [!abstract] [[Foreground IP|FIP]] 的定义与所有权
+> [!abstract] [[Foreground IP\|FIP]] 的定义与所有权
 > FIP 的定义通常争议较小。它涵盖在协议工作范围（Scope of Work）的执行过程中、在协议期限内产生的 IP，通常限于大学方指定 PI 实验室的人员。对于一次性协议，工作范围和期限有明确定义；更广泛的合作可能包含多个子协议，各自有独立的工作范围(p.279)。
 >
 > 在美国，FIP 的所有权通常遵循"**所有权跟随发明人**"原则：每位发明人或作者将其权利转让给雇主。完全由大学人员创造的 FIP 归大学单独所有，完全由企业人员创造的归企业单独所有，混合创造的由双方共同所有(pp.279–280)。
@@ -324,7 +324,7 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 ### 第十步：内部沟通
 
 > [!warning] 谈判者与执行者的信息断裂
-> 产学合作的 IP 条款通常由大学的[[Technology Transfer Office|技术转移办公室]]（[[Technology Transfer]] Office, TTO）、赞助项目办公室（Sponsored Programs Office, SPO）或法务办公室（Office of General Counsel, OGC）谈判。首席研究员（Principal Investigator, PI）通常深度参与工作范围和预算的制定，并可能与产业方的科学同行就技术细节保持密切沟通。但 IP 条款的谈判反而常常在 PI 的视野之外进行。当 PI 最终看到一份已签署的协议时，可能对其中的 IP 义务一无所知(pp.284–285)。
+> 产学合作的 IP 条款通常由大学的[[Technology Transfer Office\|技术转移办公室]]（[[Technology Transfer]] Office, TTO）、赞助项目办公室（Sponsored Programs Office, SPO）或法务办公室（Office of General Counsel, OGC）谈判。首席研究员（Principal Investigator, PI）通常深度参与工作范围和预算的制定，并可能与产业方的科学同行就技术细节保持密切沟通。但 IP 条款的谈判反而常常在 PI 的视野之外进行。当 PI 最终看到一份已签署的协议时，可能对其中的 IP 义务一无所知(pp.284–285)。
 >
 > 这一信息断裂带来了系统性的实施风险。
 
@@ -348,13 +348,13 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 >
 > - **结构性冲突的根源在于组织使命差异** 大学以知识传播和发表为核心使命，产业以市场竞争优势和股东回报为核心目标。这一根本差异不可消除，只能通过制度设计来管理(pp.272–273)。
 >
-> - **[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 的制度遗产是双重的** 该法案释放了巨大的创新能量，使大学能够将联邦资助产生的发明以专利许可的方式推向市场；同时，联邦研究资助占比的持续下降（从 1991 年的约 70% 到 2021 年的不足 60%）使得[[University-Industry Collaboration|产学合作]]从"锦上添花"变为"结构性必需"(p.273)。
+> - **[[Bayh-Dole Act of 1980\|Bayh-Dole Act]] 的制度遗产是双重的** 该法案释放了巨大的创新能量，使大学能够将联邦资助产生的发明以专利许可的方式推向市场；同时，联邦研究资助占比的持续下降（从 1991 年的约 70% 到 2021 年的不足 60%）使得[[University-Industry Collaboration\|产学合作]]从"锦上添花"变为"结构性必需"(p.273)。
 >
-> - **[[Foreground IP|FIP]] 的定义通常争议较小、"所有权跟随发明人"是美国主流原则**；[[Background IP|BIP]] 条款才是谈判的焦点战场。BIP 通过时间限制、空间限制（合作 PI 实验室）、必要性限制和排除已被束缚 IP 的组合策略，可以在大学和产业的矛盾利益之间找到可操作的中间地带(pp.279–281)。
+> - **[[Foreground IP\|FIP]] 的定义通常争议较小、"所有权跟随发明人"是美国主流原则**；[[Background IP\|BIP]] 条款才是谈判的焦点战场。BIP 通过时间限制、空间限制（合作 PI 实验室）、必要性限制和排除已被束缚 IP 的组合策略，可以在大学和产业的矛盾利益之间找到可操作的中间地带(pp.279–281)。
 >
 > - **IP 权利转让构成一个从赠款到技术服务的连续谱**。大多数产学合作位于中段：产业方获得 NERF 内部使用许可加有时间限制的商业许可选择权。替代定价方案（如明尼苏达大学 [[MN-IP Create]] 的菜单式选项和"意外收获条款"）有效缓解了企业对许可定价不确定性的核心担忧，同时保护了大学不因特别有价值的 IP 而损失合理回报(pp.281–283)。
 >
-> - **内部沟通是 IP 条款成功落地的关键环节**。PI 及其研究团队必须了解协议中的 IP 义务范围、产业方的发表审查权和权利主张范围，以及对未来创业活动的潜在制约。谈判者（[[Technology Transfer Office|TTO]]/SPO/OGC）与执行者（PI 和实验室成员）之间的信息断裂是协议实施中最常见也最可避免的风险(pp.284–285)。
+> - **内部沟通是 IP 条款成功落地的关键环节**。PI 及其研究团队必须了解协议中的 IP 义务范围、产业方的发表审查权和权利主张范围，以及对未来创业活动的潜在制约。谈判者（[[Technology Transfer Office\|TTO]]/SPO/OGC）与执行者（PI 和实验室成员）之间的信息断裂是协议实施中最常见也最可避免的风险(pp.284–285)。
 
 ---
 
@@ -374,7 +374,7 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 ## 自述局限
 
 > [!warning]
-> 分析聚焦于仅涉及美国合作方的[[University-Industry Collaboration|产学合作]]中的 IP 条款(p.275)。国际合作的 IP 规则和法律因司法管辖区而异。例如，美国以外的某些国家，大学研究人员可能保留其开发 IP 的个人所有权，大学在向产业方提供 IP 权利时必须将这一因素纳入考量。文化层面对产学关系和 IP 的期望也因国家而异（参见第 17 章）。此外，数据相关问题（特别是在机器学习和人工智能的背景下）在第 16 章单独讨论(p.279)。
+> 分析聚焦于仅涉及美国合作方的[[University-Industry Collaboration\|产学合作]]中的 IP 条款(p.275)。国际合作的 IP 规则和法律因司法管辖区而异。例如，美国以外的某些国家，大学研究人员可能保留其开发 IP 的个人所有权，大学在向产业方提供 IP 权利时必须将这一因素纳入考量。文化层面对产学关系和 IP 的期望也因国家而异（参见第 17 章）。此外，数据相关问题（特别是在机器学习和人工智能的背景下）在第 16 章单独讨论(p.279)。
 
 ---
 

@@ -47,21 +47,21 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **作为过程的课程（Curriculum as Process）**由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）确立，是反对技术控制产物模式的人文主义课程[[Paradigm|范式]] (Stenhouse, 1975; [[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 65–67]])。该范式主张课程不应预设固定的行为结果，而应提供探究与[[Dialogue in Education|对话]]的“过程原则”（procedural principles）。课程的本质是师生在具体探究中运用[[Phronesis|实践明智]]（*Phronesis*）共同理解知识与价值的动态交互过程。
+> **作为过程的课程（Curriculum as Process）**由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）确立，是反对技术控制产物模式的人文主义课程[[Paradigm\|范式]] (Stenhouse, 1975; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 65–67]])。该范式主张课程不应预设固定的行为结果，而应提供探究与[[Dialogue in Education\|对话]]的“过程原则”（procedural principles）。课程的本质是师生在具体探究中运用[[Phronesis\|实践明智]]（*Phronesis*）共同理解知识与价值的动态交互过程。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以探究过程、开放对话与实践明智为核心的非控制性课程模式。
-> - **用途** 帮助研究者评估强调批判思考、反思审议与学生主体参与的课程（如 IB [[Theory of Knowledge|TOK]] 课程）。
+> - **用途** 帮助研究者评估强调批判思考、反思审议与学生主体参与的课程（如 IB [[Theory of Knowledge\|TOK]] 课程）。
 > - **边界** 不等于无目标的混乱探究；它依靠严格的探究程序原则与理性批判标准。
 
 > [!citation-card]- 关键表述
-> 过程模式将课程视为在课堂中交流知识本质原则的尝试，而非预先指定行为结果的说明书。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 66)]]
+> 过程模式将课程视为在课堂中交流知识本质原则的尝试，而非预先指定行为结果的说明书。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 66)]]
 >
 > *Curriculum as process is an attempt to communicate the essential principles and features of an educational proposal... not in terms of pre-specified behavioral outcomes. (Stenhouse, 1975; Darwish, 2009, p. 66)*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Curriculum as Product|作为产物的课程]] — 产物模式强调预设行为目标与标准化测量。
-> - 不等于 [[Curriculum as Praxis|作为实践的课程]] — 过程模式关注课堂内的理解与审议，但未明确承诺指向解构社会压迫的政治实践（[[Praxis]]）。
+> - 不等于 [[Curriculum as Product\|作为产物的课程]] — 产物模式强调预设行为目标与标准化测量。
+> - 不等于 [[Curriculum as Praxis\|作为实践的课程]] — 过程模式关注课堂内的理解与审议，但未明确承诺指向解构社会压迫的政治实践（[[Praxis]]）。
 
 ---
 
@@ -79,9 +79,9 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **过程原则（Procedural Principles）** 以如何探究与[[Dialogue in Education|对话]]的标准取代预设行为目标。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 66)]]
-> - **[[Phronesis|实践明智]]（Phronesis）** 依靠教师与学生在具体情境中的理智判断与审议能力。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 67)]]
-> - **教师研究者化（Teacher as Researcher）** 教师作为研究者在课堂探究中与学生共同[[Growth|成长]]。同上
+> - **过程原则（Procedural Principles）** 以如何探究与[[Dialogue in Education\|对话]]的标准取代预设行为目标。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 66)]]
+> - **[[Phronesis\|实践明智]]（Phronesis）** 依靠教师与学生在具体情境中的理智判断与审议能力。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 67)]]
+> - **教师研究者化（Teacher as Researcher）** 教师作为研究者在课堂探究中与学生共同[[Growth\|成长]]。同上
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -104,7 +104,7 @@ updated: 2026-09-17
 > 探讨过程模式如何消除预设控制，恢复教育作为人文学艺与理智审议的本质。
 
 > [!claim] Stenhouse, L.
-> **过程[[Paradigm|范式]]的探究本质** 斯滕豪斯与达维什论证指出，过程模式将知识视为可被持续检视与质询的开放提议，保护了师生的思想自由与理性判断能力。[[Argument_Darwish_2009_Queens|(Stenhouse, 1975, p. 84; Darwish, 2009, pp. 65–67)]]
+> **过程[[Paradigm\|范式]]的探究本质** 斯滕豪斯与达维什论证指出，过程模式将知识视为可被持续检视与质询的开放提议，保护了师生的思想自由与理性判断能力。[[Argument_Darwish_2009_Queens\|(Stenhouse, 1975, p. 84; Darwish, 2009, pp. 65–67)]]
 
 ---
 
@@ -120,20 +120,20 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1975 — 过程模式提出** 斯滕豪斯在《课程研究与开发引论》中创立过程模式。[[Argument_Darwish_2009_Queens|(Stenhouse, 1975)]]
-> - **1987 — 理论归类** 格伦迪将过程模式归结为基于[[Aristotle|亚里士多德]] *[[Phronesis]]* 的实践利益[[Paradigm|范式]]。[[Argument_Darwish_2009_Queens|(Grundy, 1987)]]
-> - **2009 — [[Theory of Knowledge|TOK]] 定位评价** 达维什将 IB TOK 课程成功定位为卓越的“作为过程的课程”。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 72–78)]]
+> - **1975 — 过程模式提出** 斯滕豪斯在《课程研究与开发引论》中创立过程模式。[[Argument_Darwish_2009_Queens\|(Stenhouse, 1975)]]
+> - **1987 — 理论归类** 格伦迪将过程模式归结为基于[[Aristotle\|亚里士多德]] *[[Phronesis]]* 的实践利益[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987)]]
+> - **2009 — [[Theory of Knowledge\|TOK]] 定位评价** 达维什将 IB TOK 课程成功定位为卓越的“作为过程的课程”。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 72–78)]]
 
 ---
 
 ## 争议与批评
 
 > [!warning] 适用局限
-> 过程模式若缺乏社会政治维度的反思，容易停留在象牙塔内的“纯粹智力辩论”，无法转化为改变现实不公的行动。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 78–81)]]
+> 过程模式若缺乏社会政治维度的反思，容易停留在象牙塔内的“纯粹智力辩论”，无法转化为改变现实不公的行动。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 78–81)]]
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 评估 IB [[Theory of Knowledge|TOK]] 课程指南如何符合作为过程的课程[[Paradigm|范式]]。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 评估 IB [[Theory of Knowledge\|TOK]] 课程指南如何符合作为过程的课程[[Paradigm\|范式]]。

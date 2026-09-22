@@ -34,7 +34,7 @@ updated: '2026-05-18'
 
 Moral sidestep（道德侧步）指政策制定者以道德关切为理由回避实证研究证据、从而维持既有权力结构和利益格局的话语策略。该概念由 Alex Stevens（2019）在毒品政策研究中首次提出并命名。
 
-> "Stevens (2019), who observed politicians using moral concerns to avoid making evidence-based policy decisions and described this as a 'moral sidestep'"([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])
+> "Stevens (2019), who observed politicians using moral concerns to avoid making evidence-based policy decisions and described this as a 'moral sidestep'"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])
 
 ---
 
@@ -58,7 +58,7 @@ Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来
 
 建构型侧步的关键操作是**对"good"含义的持续扭曲** Ofsted 的技术评级（good/outstanding/requires improvement/inadequate）被剥离其技术语境，注入道德内涵。"Good"被选择使用（而非文法学校更准确的 Ofsted 评级"outstanding"），正是因为"good"承载了"outstanding"所不具备的道德暗示——它滑出技术评级范畴，成为道德判断([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.27–28]])。
 
-> "What has emerged... is a discourse that is constructive as it actively and persistently distorts the meaning of 'good' — it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'"([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.19]])
+> "What has emerged... is a discourse that is constructive as it actively and persistently distorts the meaning of 'good' — it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.19]])
 
 ### 两种类型对比
 
@@ -98,7 +98,7 @@ Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来
 - 文法学校被提及时，37% 的情况下同时出现"good"一词（374 次）；159 所 [[Ofsted]] 评级为 good/outstanding 的文法学校获得了相当于每校 235% 的"好"提及率，而 2850 所评级良好的综合学校仅获得 1.7% 的提及率([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])
 
 > [!info] 核心数据
-> 163 所文法学校 ≈ 5% 的中学，获得议会提及次数是 3200 所综合学校的 9 倍；若按文法学校的"好"提及率等比推算，2850 所好综合学校应在 5 年内被提及 6698 次，实际仅 49 次([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])
+> 163 所文法学校 ≈ 5% 的中学，获得议会提及次数是 3200 所综合学校的 9 倍；若按文法学校的"好"提及率等比推算，2850 所好综合学校应在 5 年内被提及 6698 次，实际仅 49 次([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])
 
 ---
 

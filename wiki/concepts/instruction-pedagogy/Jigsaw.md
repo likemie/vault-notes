@@ -58,16 +58,16 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> Jigsaw（拼图法 / 切块拼接法）是由社会心理学家 Elliot Aronson 于 1978 年开创、后经 Robert Slavin（1986）系统改进（演进为 Jigsaw II/III/IV）的经典角色互补型[[Cooperative Learning|合作学习]]教学模式。该方法的核心机制在于通过**结构化的任务信息不对称**建立强制性积极互赖：教师将整体学习内容切割为若干独立模块，原属组（Home Group）内的组员分别负责不同模块；负责相同模块的学生先汇聚至“专家组（Expert Group）”深入研讨并掌握内容，随后返回原属组轮流向组员传授讲解，最终通过个体独立测评检验全员对整体知识的掌握。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, p. 3)]]
+> Jigsaw（拼图法 / 切块拼接法）是由社会心理学家 Elliot Aronson 于 1978 年开创、后经 Robert Slavin（1986）系统改进（演进为 Jigsaw II/III/IV）的经典角色互补型[[Cooperative Learning\|合作学习]]教学模式。该方法的核心机制在于通过**结构化的任务信息不对称**建立强制性积极互赖：教师将整体学习内容切割为若干独立模块，原属组（Home Group）内的组员分别负责不同模块；负责相同模块的学生先汇聚至“专家组（Expert Group）”深入研讨并掌握内容，随后返回原属组轮流向组员传授讲解，最终通过个体独立测评检验全员对整体知识的掌握。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 通过“信息分割—专家研讨—交互传授—全息拼合”的教学流程，使每位组员都拥有同伴不可替代的信息资源，强制消除课堂搭便车与边缘化现象。
-> - **用途** 广泛用于文本阅读、概念分析、跨学科项目与临床案例研讨，同时有效促进[[Academic Achievement|学业成绩]]、高阶批判思维与跨群体社会情感融合。
+> - **用途** 广泛用于文本阅读、概念分析、跨学科项目与临床案例研讨，同时有效促进[[Academic Achievement\|学业成绩]]、高阶批判思维与跨群体社会情感融合。
 > - **边界** 适用于内容可模块化切分的课题；若知识内部逻辑高度前后线性串联而不可拆分，则难以实施。
 
 > [!boundary]- 概念边界
 > - 不等于**自由轮流发言（Round Robin）**——自由轮流发言无预先的信息不对称与专家组研讨机制，而拼图法必须依赖“专家深加工”作为传授质量的保障。
-> - 不等于**STAD / [[Teams-Games-Tournament|TGT]]**——STAD/TGT 中全组成员面对相同材料共同复习，而拼图法中材料在初始阶段是碎片化分配的，通过同伴互教实现全景拼接。
+> - 不等于**STAD / [[Teams-Games-Tournament\|TGT]]**——STAD/TGT 中全组成员面对相同材料共同复习，而拼图法中材料在初始阶段是碎片化分配的，通过同伴互教实现全景拼接。
 
 ---
 
@@ -119,10 +119,10 @@ updated: 2026-09-17
 ### 命题一　信息不对称与角色互换为深度认知加工与高阶反思提供了制度化动力
 
 > [!concept-lens] 教学即最佳学习（Learning by Teaching）机制
-> “作为专家向他人传授”的责任感迫使学生在专家组阶段进行更深层的语义建构与[[Metacognition|元认知]]监控，显著强化[[Critical Thinking|批判性思维]]与概念整合。
+> “作为专家向他人传授”的责任感迫使学生在专家组阶段进行更深层的语义建构与[[Metacognition\|元认知]]监控，显著强化[[Critical Thinking\|批判性思维]]与概念整合。
 
 > [!claim] Aronson; Slavin; Güngör et al.
-> **角色互换对高阶素养与态度的双重驱动** 实证[[Meta-analysis|元分析]]显示，拼图法不仅对常规学业掌握有效（$ES = 0.58\sim0.72$），更在护理临床批判性思维（$ES = 0.70$）、专业态度认同（$ES = 1.18$）及 21 世纪[[21st Century Skills and Competencies Discourse|核心素养]]（$ES = 0.84$）中展现出突出成效，证实[[Epistemic Responsibility|认知责任]]的制度化下沉能有效激活[[Higher-Order Thinking Skills|高阶思维]]。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–9)]]
+> **角色互换对高阶素养与态度的双重驱动** 实证[[Meta-analysis\|元分析]]显示，拼图法不仅对常规学业掌握有效（$ES = 0.58\sim0.72$），更在护理临床批判性思维（$ES = 0.70$）、专业态度认同（$ES = 1.18$）及 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（$ES = 0.84$）中展现出突出成效，证实[[Epistemic Responsibility\|认知责任]]的制度化下沉能有效激活[[Higher-Order Thinking Skills\|高阶思维]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–9)]]
 
 ---
 
@@ -132,7 +132,7 @@ updated: 2026-09-17
 > 拼图法依赖师生之间建立的同伴互信、倾听规范与长周期默契，短周期孤立实验极易低估其实际效能。
 
 > [!claim] Güngör et al.
-> **常态课堂与严格实验室控制的效应分化** 在[[Meta-meta-analysis|二阶元分析]]中，基于常态准实验的拼图法干预表现出强劲成效；而瑞士严格个体[[Randomised Controlled Trials|随机对照试验]]（Stanczak et al., 2022）报告六年级单次拼图法效应为零（$ES = 0.00$），揭示出抽离班级常态社交生态的人工实验难以激活拼图法的微观互动动力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–11)]]
+> **常态课堂与严格实验室控制的效应分化** 在[[Meta-meta-analysis\|二阶元分析]]中，基于常态准实验的拼图法干预表现出强劲成效；而瑞士严格个体[[Randomised Controlled Trials\|随机对照试验]]（Stanczak et al., 2022）报告六年级单次拼图法效应为零（$ES = 0.00$），揭示出抽离班级常态社交生态的人工实验难以激活拼图法的微观互动动力。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
 
 ---
 
@@ -149,10 +149,10 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 拼图法的发展演进
-> - **1971–1978 — 经典 Jigsaw 诞生** Elliot Aronson 在得克萨斯州奥斯汀为缓解废除种族隔离后的学校种族冲突而开发，证实该方法能显著消解种族偏见并提升[[Academic Achievement|学业成绩]]。
+> - **1971–1978 — 经典 Jigsaw 诞生** Elliot Aronson 在得克萨斯州奥斯汀为缓解废除种族隔离后的学校种族冲突而开发，证实该方法能显著消解种族偏见并提升[[Academic Achievement\|学业成绩]]。
 > - **1986 — Slavin 推出 Jigsaw II** 引入全员阅读背景材料与基于个人进步分的团队竞赛奖励，使拼图法更易适配常规学科大纲与考试。
-> - **1990s–2000s — Jigsaw III 与 IV 拓展** Stahl 与 Holliday 等人增加双语过渡[[Scaffolding|脚手架]]、教师预检（Review Process）与反思重教环节。
-> - **2020s 至今 — 高等专业教育与跨国[[Meta-analysis|元分析]]综合** 拼图法被广泛引入医学、护理、工程等高等专业教育中，[[Meta-meta-analysis|二阶元分析]]确立了其在 21 世纪[[21st Century Skills and Competencies Discourse|核心素养]]与临床决策反思中的重要地位。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
+> - **1990s–2000s — Jigsaw III 与 IV 拓展** Stahl 与 Holliday 等人增加双语过渡[[Scaffolding\|脚手架]]、教师预检（Review Process）与反思重教环节。
+> - **2020s 至今 — 高等专业教育与跨国[[Meta-analysis\|元分析]]综合** 拼图法被广泛引入医学、护理、工程等高等专业教育中，[[Meta-meta-analysis\|二阶元分析]]确立了其在 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]与临床决策反思中的重要地位。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026)]]
 
 ---
 
@@ -160,13 +160,13 @@ updated: 2026-09-17
 
 > [!warning] 实施挑战与风险
 > - **专家组理解偏差的“级联放大”** 若某位专家在专家组阶段出现概念理解错误，返回原属组后将导致整组受到错误信息误导。教师必须在专家阶段进行严格巡视与概念核验。
-> - **表达能力差异造成的不公** 表达能力较弱的学生在原属组讲解不清可能引发组员抱怨，需要提供充足的结构化表达[[Scaffolding|脚手架]]。
+> - **表达能力差异造成的不公** 表达能力较弱的学生在原属组讲解不清可能引发组员抱怨，需要提供充足的结构化表达[[Scaffolding\|脚手架]]。
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
@@ -178,7 +178,7 @@ updated: 2026-09-17
 > | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]的干预效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，涵盖批判性、[[Creativity\|创造性]]与问题解决技能 |
 > | Stanczak et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对六年级学业成就的干预效应 | $k = 5$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.00$ $[-0.10, 0.09]$ | — | 瑞士严格个体[[Randomised Controlled Trials\|随机对照试验]]（RCT），全实验控制下效应为零 |
 
-> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
@@ -189,5 +189,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，将拼图法作为四大独立合作技术亚组之一进行综合评估，报告二阶合成[[Effect Size|效应量]] $ES = 0.72$，并纳入 Özkan (2024)、Solissa (2023)、Shakerian (2020) 与 Stanczak (2022) 等 6 个独立效应量。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将拼图法作为四大独立合作技术亚组之一进行综合评估，报告二阶合成[[Effect Size\|效应量]] $ES = 0.72$，并纳入 Özkan (2024)、Solissa (2023)、Shakerian (2020) 与 Stanczak (2022) 等 6 个独立效应量。

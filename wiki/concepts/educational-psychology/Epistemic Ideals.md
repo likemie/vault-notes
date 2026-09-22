@@ -8,10 +8,10 @@ aliases:
 summary: "在认识论认知AIR模型中，用于评估科学模型、解释、论证与证据等认识产出质量的规范性标准与评价准则。"
 type: concept
 domain: "educational-psychology"
-related_count: 23
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 33
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -23,18 +23,27 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Determinism]]"
   - "[[Epistemic Agency]]"
+  - "[[Evidence Standards]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Formative Assessment]]"
   - "[[Epistemic Cognition]]"
+  - "[[Source of Knowledge]]"
   - "[[Justificatory Standards]]"
   - "[[Causal Processes]]"
-  - "[[Variable]]"
+  - "[[Scaffolding]]"
   - "[[Epistemic Value]]"
+  - "[[Evaluative Judgement]]"
+  - "[[Dependent Variable]]"
+  - "[[Heterogeneity]]"
+  - "[[Academic Achievement]]"
+  - "[[Variable]]"
+  - "[[Epistemic Dependence]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Correlational Research]]"
@@ -42,12 +51,13 @@ related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
+  - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Chinn_2011_EP]]"
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Epistemic Ideals
@@ -57,7 +67,7 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]理想（Epistemic Ideals）是个体或共同体在评价科学模型、理论解释、论证方案以及证据本身等认识产出（epistemic products）时所秉持的规范性标准与质量评价准则。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, p. 202)]]
+> [[Epistemology\|认识论]]理想（Epistemic Ideals）是个体或共同体在评价科学模型、理论解释、论证方案以及证据本身等认识产出（epistemic products）时所秉持的规范性标准与质量评价准则。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 202)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 判定何为优质认识产出的评价量规，例如理论模型是否契合高质量经验证据、论证推导是否具有直接性与决定性、证据整合是否具备多源聚合性与无重大反例。
@@ -78,7 +88,7 @@ updated: 2026-09-21
 
 ## 概念辨析
 
-> [!contrast-table] [[AIR Model of Epistemic Cognition|AIR]]模型三构件与传统论证结构对比
+> [!contrast-table] [[AIR Model of Epistemic Cognition\|AIR]]模型三构件与传统论证结构对比
 > | 维度 | [[Epistemic Ideals]]（认识论理想） | [[Epistemic Aims]]（认识论目标） | [[Reliable Epistemic Processes]]（可靠认识论过程） | 结构性论证要素（Claims-Evidence-Reasoning） |
 > |---|---|---|---|---|
 > | 核心关注 | 产出质量与辩护力的评价准则 | 探究指向的认知成就与终极追求 | 生成有效产出的因果操作流程 | 文本或话语中特定功能句法部件的有无 |
@@ -89,12 +99,12 @@ updated: 2026-09-21
 
 ## 核心要素
 
-> [!feature] 核心[[Epistemology|认识论]]理想维度
-> - **证据契合度（Fit with Evidence）** 优质模型或解释必须能够统摄并解释当前可获得的全部相关经验证据，且不存在未解决的高质量冲突证据。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, p. 208)]]
-> - **证据充分性与综合性（Sufficiency and Synthesis）** 依据大规模证据集成而非孤立个案，要求汇聚来自独立研究脉络的多源收敛证据（multiple lines of convergent evidence）。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 209–210)]]
-> - **推论直接性（Directedness）** 测量或观察链条直击核心论证主题本体，减少跨物种或间接类比造成的推导损耗与不确定性。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 213–214)]]
-> - **设计决定性（Conclusiveness）** 研究设计与样本框架能够彻底锁闭备择解释，排除偶然误差与系统混淆。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, p. 214)]]
-> - **观察表征的精准度（Accuracy, Discrimination, and Classification）** 在野外观察与经验测量中，能精准区分易混淆类别并进行真实定量刻画。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, p. 219)]]
+> [!feature] 核心[[Epistemology\|认识论]]理想维度
+> - **证据契合度（Fit with Evidence）** 优质模型或解释必须能够统摄并解释当前可获得的全部相关经验证据，且不存在未解决的高质量冲突证据。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 208)]]
+> - **证据充分性与综合性（Sufficiency and Synthesis）** 依据大规模证据集成而非孤立个案，要求汇聚来自独立研究脉络的多源收敛证据（multiple lines of convergent evidence）。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–210)]]
+> - **推论直接性（Directedness）** 测量或观察链条直击核心论证主题本体，减少跨物种或间接类比造成的推导损耗与不确定性。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 213–214)]]
+> - **设计决定性（Conclusiveness）** 研究设计与样本框架能够彻底锁闭备择解释，排除偶然误差与系统混淆。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 214)]]
+> - **观察表征的精准度（Accuracy, Discrimination, and Classification）** 在野外观察与经验测量中，能精准区分易混淆类别并进行真实定量刻画。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 219)]]
 
 > [!logic-map]- 论证评价中认识论理想的层级结构
 > ```mermaid
@@ -119,11 +129,11 @@ updated: 2026-09-21
 
 ### 命题一　认识论理想决定了科学证据评价与论证建构的实质品质
 
-> [!concept-lens] 论证评价的[[Epistemology|认识论]]实质维度
+> [!concept-lens] 论证评价的[[Epistemology\|认识论]]实质维度
 > 聚焦论证质量究竟是由外在句法结构还是内在评价准则所决定，揭示结构完备与认识论劣质共存的根源。
 
-> [!claim] Duncan, R. G. & [[Clark A. Chinn|Chinn, C. A.]]
-> **评价准则[[Determinism|决定论]]证实质** 论证质量的高低不仅取决于是否具备主张、证据与推理等外在形式部件，更取决于论证者在证据选择与模型辩护时激活了何种认识论理想。仅按外在结构评分，气候变暖否定论或反疫苗言论同样能展现出复杂句法与反驳要素；唯有审视论证是否贯彻了全域证据契合、多源收敛印证、直接性与设计决定性等优质认识论理想，才能甄别科学论证的真实确证力。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 203–204, 209–211)]]
+> [!claim] Duncan, R. G. & [[Clark A. Chinn\|Chinn, C. A.]]
+> **评价准则[[Determinism\|决定论]]证实质** 论证质量的高低不仅取决于是否具备主张、证据与推理等外在形式部件，更取决于论证者在证据选择与模型辩护时激活了何种认识论理想。仅按外在结构评分，气候变暖否定论或反疫苗言论同样能展现出复杂句法与反驳要素；唯有审视论证是否贯彻了全域证据契合、多源收敛印证、直接性与设计决定性等优质认识论理想，才能甄别科学论证的真实确证力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 203–204, 209–211)]]
 
 ---
 
@@ -133,7 +143,7 @@ updated: 2026-09-21
 > 探讨认识论准则是否为抽象中立的通用法则，分析学科实体机制对理想合理激活的决定性约束。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
-> **理想与领域知识深度纠缠** 认识论理想并非脱离具体内容的抽象通用公式，而是与特定学科领域的实体知识紧密交织。在生物学中评估动物实验证据对人类模型的支持力度，取决于对不同物种免疫生理机制与演化同源性的实体理解；若缺乏相应学科知识，论证者容易机械套用推论直接性理想，将极具机制启发价值的跨物种收敛证据草率排斥。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 214, 221–222)]]
+> **理想与领域知识深度纠缠** 认识论理想并非脱离具体内容的抽象通用公式，而是与特定学科领域的实体知识紧密交织。在生物学中评估动物实验证据对人类模型的支持力度，取决于对不同物种免疫生理机制与演化同源性的实体理解；若缺乏相应学科知识，论证者容易机械套用推论直接性理想，将极具机制启发价值的跨物种收敛证据草率排斥。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 214, 221–222)]]
 
 ---
 
@@ -143,20 +153,20 @@ updated: 2026-09-21
 > 考察学习者如何从被动接受外在评价规则走向主动理解并践行高阶认识论标准。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
-> **元认识论辩护培育主体性** 优质认识论理想的内化无法依赖现成规则清单的灌输，而必须让学习者直面探究中的证据冲突与混淆噪音，开展元认识论审议（meta-epistemic discussions）。学生通过向共同体辩护为何某种理想（如多源收敛）在当下任务中优于个人孤立感知，逐步确立公共认识标准，从而成为知识与准则的共同建构者，培育平等的[[Epistemic Agency|认识主体性]]（epistemic agency）。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 208, 222–223)]]
+> **元认识论辩护培育主体性** 优质认识论理想的内化无法依赖现成规则清单的灌输，而必须让学习者直面探究中的证据冲突与混淆噪音，开展元认识论审议（meta-epistemic discussions）。学生通过向共同体辩护为何某种理想（如多源收敛）在当下任务中优于个人孤立感知，逐步确立公共认识标准，从而成为知识与准则的共同建构者，培育平等的[[Epistemic Agency\|认识主体性]]（epistemic agency）。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 208, 222–223)]]
 
-> [!claim] [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]
-> **显性支架促进理想内化与论证飞跃** 针对认识论干预的一阶元分析量化证实了认识论理想的可教导性：当教学聚焦于引导学生建立高质量证据与论证标准的显性认识论理想时，学生在高阶论证表现中展现出强烈的促进效应，大幅优于单纯强调程式操作的传统教学。同时，单纯放任学生自由辩论而不提供理想规范支架，无法促成认识论理想的有效内化。
+> [!claim] [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]
+> **显性支架促进理想内化与论证飞跃** 针对认识论干预的一阶[[Meta-analysis\|元分析]]量化证实了认识论理想的可教导性：当教学聚焦于引导学生建立高质量证据与论证标准的显性认识论理想时，学生在高阶论证表现中展现出强烈的促进效应，大幅优于单纯强调程式操作的传统教学。同时，单纯放任学生自由辩论而不提供理想规范支架，无法促成认识论理想的有效内化。
 
 ---
 
 ### 命题四　生成式人工智能的通用合成抹平学科认识论理想，催生向关系性认识主体性的规范理想转向
 
 > [!concept-lens] 算法均质化与规范重塑
-> 探讨大语言模型无差别表层流畅性如何侵蚀分化的学科证据标准，阐明人机时代规范性认识理想的重构路径。
+> 探讨大语言模型无差别表层流畅性如何侵蚀分化的学科[[Evidence Standards\|证据标准]]，阐明人机时代规范性认识理想的重构路径。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]
-> **算法抹平学科证据标准与关系性主体性重塑** 各学科对于何为有效证据、合理解释与正当推论拥有严格分化的认识论理想（Goldman et al., 2016）：历史学依赖一手档案溯源与版本考证；实证科学依赖受控随机实验、统计功效与效应量检验；哲学伦理学依赖概念严密性与命题有效性。然而，[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）的通用综合语调抹平了这些学科分化，以表面流畅的无差别假答案掩盖证据缺陷，阻碍了学生进入专业知识共同体的认识论社会化。同时，传统追求完全脱离外部支持的孤立自足认识理想在智能时代已不现实；教育应当确立“关系性认识主体性”这一新型规范性认识理想，引导学生在依托工具的同时牢固掌握对证据充分性与学科标准的最终裁决权。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 6–7)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> **算法抹平学科证据标准与关系性主体性重塑** 各学科对于何为有效证据、合理解释与正当推论拥有严格分化的认识论理想（Goldman et al., 2016）：历史学依赖一手档案溯源与版本考证；实证科学依赖受控随机实验、统计功效与[[Effect Size\|效应量]]检验；哲学伦理学依赖概念严密性与命题有效性。然而，[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）的通用综合语调抹平了这些学科分化，以表面流畅的无差别假答案掩盖证据缺陷，阻碍了学生进入专业知识共同体的认识论社会化。同时，传统追求完全脱离外部支持的孤立自足认识理想在智能时代已不现实；教育应当确立“关系性认识主体性”这一新型规范性认识理想，引导学生在依托工具的同时牢固掌握对证据充分性与学科标准的最终裁决权。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 6–7)]]
 
 ---
 
@@ -175,38 +185,38 @@ updated: 2026-09-21
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990–1997 — 信念维度阶段** [[Epistemic Cognition|认识论认知]]被分解为知识确定性、知识来源与[[Justificatory Standards|确证标准]]等维度，确证准则多被视为个体内部持有的静态信念。
-> - **2011 — 扩展构件模型提出** Chinn 等学者提出扩展认识论认知五构件框架，将确证标准明确置于探究目标与[[Causal Processes|因果过程]]的网络之中。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
-> - **2014 — [[AIR Model of Epistemic Cognition|AIR]] 理论模型确立** Chinn, Rinehart & Buckland 正式提出 AIR 理论架构，将[[Epistemology|认识论]]理想（Ideals）确立为与[[Epistemic Aims|认识目标]]（Aims）及[[Reliable Epistemic Processes|可靠过程]]（Reliable Processes）并列的三大核心构件。
-> - **2025 — 论证评价中位模板与实质转向** Duncan & Chinn 建立观察与证据整合的规范性理想模板，系统论证了认识论理想在科学论证质性评价中的不可替代性，推动论证评价由外在句法转向认识论实质。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025)]]
-> - **2026 — 算法均质化危机与关系性规范理想转向** Du & Yuan 揭示大语言模型的表层综合语调严重抹平历史学、实证科学与哲学等不同学科固有的认识论理想，提出在人工智能深度中介环境下，规范性认识理想应由“孤立自足的认知者”转向“敢于质疑、对最终论断负责的关系性[[Epistemic Agency|认识主体]]”。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026)]]
+> - **1990–1997 — 信念维度阶段** [[Epistemic Cognition\|认识论认知]]被分解为知识确定性、[[Source of Knowledge\|知识来源]]与[[Justificatory Standards\|确证标准]]等维度，确证准则多被视为个体内部持有的静态信念。
+> - **2011 — 扩展构件模型提出** Chinn 等学者提出扩展认识论认知五构件框架，将确证标准明确置于探究目标与[[Causal Processes\|因果过程]]的网络之中。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
+> - **2014 — [[AIR Model of Epistemic Cognition\|AIR]] 理论模型确立** Chinn, Rinehart & Buckland 正式提出 AIR 理论架构，将[[Epistemology\|认识论]]理想（Ideals）确立为与[[Epistemic Aims\|认识目标]]（Aims）及[[Reliable Epistemic Processes\|可靠过程]]（Reliable Processes）并列的三大核心构件。
+> - **2025 — 论证评价中位模板与实质转向** Duncan & Chinn 建立观察与证据整合的规范性理想模板，系统论证了认识论理想在科学论证质性评价中的不可替代性，推动论证评价由外在句法转向认识论实质。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
+> - **2026 — 算法均质化危机与关系性规范理想转向** Du & Yuan 揭示大语言模型的表层综合语调严重抹平历史学、实证科学与哲学等不同学科固有的认识论理想，提出在人工智能深度中介环境下，规范性认识理想应由“孤立自足的认知者”转向“敢于质疑、对最终论断负责的关系性认识主体”。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026)]]
 
 ---
 
 ## 争议与批评
 
-> [!tension] 核心张力：形式结构完备性还是[[Epistemology|认识论]]实质？
+> [!tension] 核心张力：形式结构完备性还是[[Epistemology\|认识论]]实质？
 > - **句法结构主义（蓝方）** 依据 Toulmin 论证模型或 CER 框架，强调论证文本中主张、数据、推理与反驳等特定功能部件的完整性与修辞组织。
-> - **认识论实质论（红方）** 强调论证质量根植于支撑主张的认识论理想与证据[[Reliability|可靠性]]；结构复杂的文本完全可能是认识论劣质的伪科学论证。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 203–204)]]
+> - **认识论实质论（红方）** 强调论证质量根植于支撑主张的认识论理想与证据[[Reliability\|可靠性]]；结构复杂的文本完全可能是认识论劣质的伪科学论证。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 203–204)]]
 
 > [!tension] 规范理想之争：孤立自足认识还是关系性认识相互依赖？
-> - **孤立自足论（蓝方）** 传统认识论理想倾向于将完全不依赖外部脚手架或技术中介的独立判断能力视为成熟求知者的终极标准，对工具中介持怀疑甚至贬抑态度。
-> - **关系性共生论（红方）** 认为在现代知识社会中，广泛的认知依赖不可避免且具备认识价值；规范性认识理想不应要求消除工具依赖，而应聚焦在工具网络中维持评价性判断与责任担当的关系性主体性。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 6–7)]]
+> - **孤立自足论（蓝方）** 传统认识论理想倾向于将完全不依赖外部[[Scaffolding\|脚手架]]或技术中介的独立判断能力视为成熟求知者的终极标准，对工具中介持怀疑甚至贬抑态度。
+> - **关系性共生论（红方）** 认为在现代知识社会中，广泛的认知依赖不可避免且具备[[Epistemic Value\|认识价值]]；规范性认识理想不应要求消除工具依赖，而应聚焦在工具网络中维持[[Evaluative Judgement\|评价性判断]]与责任担当的关系性主体性。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 6–7)]]
 
 > [!critique] 外部批评
-> - **形式论辩型式的规范性缺陷** Walton 等学者提出的非形式论辩型式（Argument Schemes）及其批判性提问清单，未清晰说明提问标准的规范性来源，且难以处理科学探究中大规模证据收敛与[[Meta-analysis|元分析]]综合。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
+> - **形式论辩型式的规范性缺陷** Walton 等学者提出的非形式论辩型式（Argument Schemes）及其批判性提问清单，未清晰说明提问标准的规范性来源，且难以处理科学探究中大规模证据收敛与[[Meta-analysis\|元分析]]综合。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 > [!warning] 适用局限
-> - **实体知识匮乏导致的理想机械套用** 认识论理想极难与学科实体概念知识完全剥离。当学习者缺乏对特定科学机制（如免疫生理同源性）的充分理解时，容易产生对推论直接性等理想的僵化机械套用，进而错误排斥高度相关的科学证据。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 221–222)]]
+> - **实体知识匮乏导致的理想机械套用** 认识论理想极难与学科实体概念知识完全剥离。当学习者缺乏对特定科学机制（如免疫生理同源性）的充分理解时，容易产生对推论直接性等理想的僵化机械套用，进而错误排斥高度相关的科学证据。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 221–222)]]
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- 元分析总体结果（干预因果效应）
+> [!ma-table]- [[Meta-analysis\|元分析]]总体结果（干预因果效应）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]] | 证据确定性 |
+> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]] | 证据确定性 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（认识论理想可教导性） | 28 / 4,373 | Cohen's d；随机效应 | 0.509 [0.334, 0.684] | I²=92.72% | — |
 
@@ -218,7 +228,7 @@ updated: 2026-09-21
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 亚组分析 | 指导式探究（$d = 0.808$）与信源评估（$d = 0.800$）；显性讲授认识论理想的框架优于自由辩论 | PBL（$d = 0.340$）与论证教学（$d = 0.134$，不显著） | $Q_b = 17.491, p < .01$ | 预设 | 认识论理想只有经由显性指导才能内化并转化为学业提升 |
 > | 同上 | 成就类型 | 亚组分析 | 论证表现（$d = 1.047$）与概念性知识（$d = 0.557$）高度敏感 | 程序性知识（$d = 0.140$，不显著） | $Q_b = 8.940, p < .05$ | 预设 | 认识论理想的改变只在需要评估证据与推理质量的高阶任务中产生实质学业效益 |
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -229,11 +239,11 @@ updated: 2026-09-21
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards|确证标准]]与[[Epistemic Value|认识价值]]在内的扩展[[Epistemic Cognition|认识论认知]]构件，为[[Epistemology|认识论]]理想的界定奠定理论基石。
-> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 首个认识论干预因果元分析，从量化层面证实聚焦认识论理想的显性教学能够带来中等偏上的学业成就因果效应（$d = 0.509$），尤其对高阶论证表现（$d = 1.047$）效果突出，提供了认识论理想可教导性的实验证据。
-> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将认识论理想作为论证质量评价的双轴核心之一，构建了核心科学实践的基准规范模板，并在初中课堂中实证检验其运作机制。
-> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 分析生成式人工智能抹平各学科认识论理想的表层假答案机制，提出确立关系性认识主体性以重塑人机共生环境下的规范性认识标准。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards\|确证标准]]与[[Epistemic Value\|认识价值]]在内的扩展[[Epistemic Cognition\|认识论认知]]构件，为[[Epistemology\|认识论]]理想的界定奠定理论基石。
+> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个认识论干预因果[[Meta-analysis\|元分析]]，从量化层面证实聚焦认识论理想的显性教学能够带来中等偏上的[[Academic Achievement\|学业成就]]因果效应（$d = 0.509$），尤其对高阶论证表现（$d = 1.047$）效果突出，提供了认识论理想可教导性的实验证据。
+> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 将认识论理想作为论证质量评价的双轴核心之一，构建了核心科学实践的基准规范模板，并在初中课堂中实证检验其运作机制。
+> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 分析[[Generative Artificial Intelligence\|生成式人工智能]]抹平各学科认识论理想的表层假答案机制，提出确立关系性[[Epistemic Agency\|认识主体性]]以重塑人机共生环境下的规范性认识标准。
 
 ---
 
@@ -242,11 +252,11 @@ updated: 2026-09-21
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |
 > |---|---|---|
-> | [[Epistemology|认识论]] | 理论根基 | 认识论理想是规范认识论与社会认识论在认知评价中的具体标准投射。 |
-> | [[AIR Model of Epistemic Cognition|AIR 认识论认知模型]] | 理论框架 | 认识论理想与认识目标（Aims）、可靠认识过程（Processes）共同构成认识论认知的核心三维结构。 |
-> | [[Epistemic Aims|认识论目标]] | 构件协同 | 认识目标决定为何探究（如理解机制），认识论理想决定探究产物达到何种质量才算合格。 |
-> | [[Reliable Epistemic Processes|可靠认识论过程]] | 过程与产出 | 可靠过程是产出知识的实践方法，认识论理想是对产出状态的规范性检验规则。 |
-> | [[Epistemic Agency|认识主体性]] | 实践主体 | 学习者通过共同体元认识论协商内化认识论理想，确立对知识评价与标准制定的自主权。 |
-> | [[Generative Artificial Intelligence|生成式人工智能]] | 技术中介挑战 | 生成式模型用通用的表层流畅性抹平学科严密理想，诱导认识依赖并削弱规范性评价标准。 |
-> | [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] | 实证支撑 | 确立论证评价的双轴模型，实证揭示认识论理想对科学论证品质的实质性决定作用。 |
-> | [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] | 智能时代重构 | 论证人工智能扁平化学科认识理想的机制，阐明关系性认识主体性作为规范理想的重构路径。 |
+> | [[Epistemology\|认识论]] | 理论根基 | 认识论理想是规范认识论与社会认识论在认知评价中的具体标准投射。 |
+> | [[AIR Model of Epistemic Cognition\|AIR 认识论认知模型]] | 理论框架 | 认识论理想与[[Epistemic Aims\|认识目标]]（Aims）、可靠认识过程（Processes）共同构成[[Epistemic Cognition\|认识论认知]]的核心三维结构。 |
+> | [[Epistemic Aims\|认识论目标]] | 构件协同 | 认识目标决定为何探究（如理解机制），认识论理想决定探究产物达到何种质量才算合格。 |
+> | [[Reliable Epistemic Processes\|可靠认识论过程]] | 过程与产出 | 可靠过程是产出知识的实践方法，认识论理想是对产出状态的规范性检验规则。 |
+> | [[Epistemic Agency\|认识主体性]] | 实践主体 | 学习者通过共同体元认识论协商内化认识论理想，确立对知识评价与标准制定的自主权。 |
+> | [[Generative Artificial Intelligence\|生成式人工智能]] | 技术中介挑战 | 生成式模型用通用的表层流畅性抹平学科严密理想，诱导[[Epistemic Dependence\|认识依赖]]并削弱规范性评价标准。 |
+> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 实证支撑 | 确立论证评价的双轴模型，实证揭示认识论理想对科学论证品质的实质性决定作用。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 智能时代重构 | 论证人工智能扁平化学科认识理想的机制，阐明关系性认识主体性作为规范理想的重构路径。 |

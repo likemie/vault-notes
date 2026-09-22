@@ -53,17 +53,17 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] Law National [[Achievement and Aptitude Tests|aptitude test]]（LNAT）
+> [!instrument-profile] Law National [[Achievement and Aptitude Tests\|aptitude test]]（LNAT）
 > - **工具类型** 高利害法学专业入学能力测验（High-Stakes Law Admissions Aptitude Test）。
 > - **开发者与年份** 英国 LNAT 财团（LNAT Consortium，包含牛津、剑桥、UCL、KCL、LSE、布里斯托等顶尖法学院）与培生集团（Pearson VUE, 2004）。
-> - **测量目的** 评估申请法学本科专业学生的综合[[Critical Thinking|批判性思维]]、深度文本解释、逻辑推理与书面论据建构能力，不依赖先验法律专业知识。
+> - **测量目的** 评估申请法学本科专业学生的综合[[Critical Thinking\|批判性思维]]、深度文本解释、逻辑推理与书面论据建构能力，不依赖先验法律专业知识。
 > - **实施方式** 计算机在线机考（共 135 分钟：客观题 95 分钟 + 写作 40 分钟）。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]与法学潜能
+> [!construct-table] [[Critical Thinking\|批判性思维]]与法学潜能
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 / 任务 | 测量内容 | 计分方式 |

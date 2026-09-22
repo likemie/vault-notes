@@ -81,14 +81,14 @@ updated: 2026-09-18
 ## 工具定位
 
 > [!instrument-profile] Strengthening the Impact of Education Research Policy Survey
-> - **工具类型** 跨国系统级政策与证据生态综合调查[[Questionnaire|问卷]]（System-level Policy Survey Questionnaire）。
-> - **开发者与年份** [[OECD]] / [[Centre for Educational Research and Innovation|CERI]]（2021）。
-> - **测量目的** 针对国家和区域教育系统宏观[[Output-Oriented Governance|循证治理]]生态，系统性逐项映射[[Research Utilization|研究利用]]在政策制定与一线教学中的促成机制、关键行动者活跃度网络、政策利用形态、资源投入、能力短板与制度化阻力障壁。
+> - **工具类型** 跨国系统级政策与证据生态综合调查[[Questionnaire\|问卷]]（System-level Policy Survey Questionnaire）。
+> - **开发者与年份** [[OECD]] / [[Centre for Educational Research and Innovation\|CERI]]（2021）。
+> - **测量目的** 针对国家和区域教育系统宏观[[Output-Oriented Governance\|循证治理]]生态，系统性逐项映射[[Research Utilization\|研究利用]]在政策制定与一线教学中的促成机制、关键行动者活跃度网络、政策利用形态、资源投入、能力短板与制度化阻力障壁。
 > - **实施方式** 由参调国家或地方教育系统（共 29 国 37 个系统）的中央教育部委/主管行政部门（Ministries/Departments of Education）统筹协调内部各业务处室完成在线自陈填报，并配套针对关键代表性系统的半结构化追踪访谈。
 
 > [!warning] 测量属性与调查效度局限
-> - **调查属性定性** 本工具是针对国家与区域宏观教育生态的系统级探索性制度映射工具（Systemic Mapping Tool），而非针对个体心理特质的[[Norm-Referenced Test|常模参照测验]]。其价值在于全景式呈现各国政策体系的制度安排、感知网络与阻力分布。
-> - **行政[[Self-report Bias|自陈偏差]]（[[Self-report Bias]]）** 问卷数据全部来自中央教育部委官员的自我评价，受试者受制度性自利偏差（Institutional Self-serving Bias）驱动，普遍在宏观价值认同和自身活跃度上给出膨胀评价，形成知行脱节的测量伪象。
+> - **调查属性定性** 本工具是针对国家与区域宏观教育生态的系统级探索性制度映射工具（Systemic Mapping Tool），而非针对个体心理特质的[[Norm-Referenced Test\|常模参照测验]]。其价值在于全景式呈现各国政策体系的制度安排、感知网络与阻力分布。
+> - **行政[[Self-report Bias\|自陈偏差]]（[[Self-report Bias]]）** 问卷数据全部来自中央教育部委官员的自我评价，受试者受制度性自利偏差（Institutional Self-serving Bias）驱动，普遍在宏观价值认同和自身活跃度上给出膨胀评价，形成知行脱节的测量伪象。
 > - **单一层级遮蔽** 仅采集了行政顶层的自陈视角，缺乏一线教师、基层校长及独立科研人员的双向他评互证，导致对微观实践转化阻力（如执行赤字与工负过重）的系统性低估与遮蔽。
 > - **跨文化语义基线异质** 尽管要求跨处室协调填报，但不同政治体制（中央集权制 vs 联邦地方分权制）对“决策者（Policy Maker）”及“活跃（Activeness）”的理解存在显著文化基线差异，跨国均值直接横向对比需保持审慎。
 
@@ -96,7 +96,7 @@ updated: 2026-09-18
 
 ## 测量构念与维度
 
-> [!construct-table] [[Evidence-Based Education|循证教育]]系统研究动员与政策利用生态
+> [!construct-table] [[Evidence-Based Education\|循证教育]]系统研究动员与政策利用生态
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数与题型 | 测量内容 | 计分方式 |
@@ -114,9 +114,9 @@ updated: 2026-09-18
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 涵盖矩阵式组织活跃度评定、部委日常征询频度标尺、政策制定利用频次、中介角色与机制存在性核查、[[Organizational Culture|组织文化]][[Rating Scale|态度量表]]、转化阻力位次排序及官方中介治理开放描述。
+> - **题项形式** 涵盖矩阵式组织活跃度评定、部委日常征询频度标尺、政策制定利用频次、中介角色与机制存在性核查、[[Organizational Culture\|组织文化]][[Rating Scale\|态度量表]]、转化阻力位次排序及官方中介治理开放描述。
 > - **作答格式** 涵盖 5 点 Likert 等级、6 点频度量表、二分类选择（是 / 否）、多主体类别勾选与位次等级排序。
-> - **计分规则** 连续量表题按原始等级正向计分（计算系统均值）；二分类题按 0/1 标记计算配备率；阻力位次题按排位分级赋分（Rank 1 赋 3 分，Rank 2–3 赋 2 分，Rank 4–6 赋 1 分）；开放题采用[[Qualitative Content Analysis|质性内容分析]]与类型学[[Coding in Qualitative Research|编码]]。
+> - **计分规则** 连续量表题按原始等级正向计分（计算系统均值）；二分类题按 0/1 标记计算配备率；阻力位次题按排位分级赋分（Rank 1 赋 3 分，Rank 2–3 赋 2 分，Rank 4–6 赋 1 分）；开放题采用[[Qualitative Content Analysis\|质性内容分析]]与类型学[[Coding in Qualitative Research\|编码]]。
 
 ### 维度一：17 类组织行动者在三大维度的活跃度评估
 
@@ -171,7 +171,7 @@ updated: 2026-09-18
 
 ### 维度三：政策制定各阶段的研究利用与获取渠道
 
-> [!seq-table]- 政策制定各阶段的[[Research Utilization|研究利用]]程度
+> [!seq-table]- 政策制定各阶段的[[Research Utilization\|研究利用]]程度
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 5 点使用频率标尺（1 = 从不，5 = 系统性使用） · **计分规则** 正向连续计分
 >
@@ -293,7 +293,7 @@ updated: 2026-09-18
 > | Activities to monitor/evaluate research impact<br>**开展全系统常态化活动以监测与评估研究的实际影响（[[Research Impact]]）** |
 > | Activities to develop capacity/skills to use research<br>**开展全系统常态化专业培训以提升研究利用技能** |
 
-> [!seq-table]- [[Research Translation|研究转化]]与利用核心障壁
+> [!seq-table]- [[Research Translation\|研究转化]]与利用核心障壁
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 位次等级排序（Rank 1–6+） · **计分规则** 分级赋分（Rank 1 赋 3 分，Rank 2–3 赋 2 分，Rank 4–6 赋 1 分）
 >
@@ -350,7 +350,7 @@ updated: 2026-09-18
 
 ### 代表性实证测量基准（OECD SIER 调查关键基准数据）
 
-> [!ref-table]- OECD SIER 调查实证测量基准表（[[Argument_Revai(Ed.)_2022_OECD|Révai (Ed.), 2022]]）
+> [!ref-table]- OECD SIER 调查实证测量基准表（[[Argument_Revai(Ed.)_2022_OECD\|Révai (Ed.), 2022]]）
 >
 > | 测量维度 | 核心指标项 | 跨国调查实证基准（OECD 37 系统综合数据） | 理论含义与政策诊断 |
 > |---|---|:---:|---|

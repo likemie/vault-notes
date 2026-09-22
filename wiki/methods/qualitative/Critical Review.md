@@ -8,9 +8,9 @@ summary: "超越描述性文献汇总的定性研究综述方法，通过批判�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 27
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -27,6 +27,12 @@ related_concepts:
   - "[[Deficit Framing]]"
   - "[[Methodological Individualism]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
+  - "[[Epistemic Cognition]]"
+  - "[[Epistemic Dependence]]"
+  - "[[Construct]]"
+  - "[[Epistemic Agency]]"
+  - "[[Direct Instruction]]"
+  - "[[Inquiry-Based Learning]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Fieldwork]]"
@@ -36,15 +42,17 @@ related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_DeJong_2023_ERR]]"
 related_instruments:
   - "[[PRISMA]]"
 related_facts:
   - "[[Education Resources Information Center]]"
+  - "[[PISA]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Critical Review
@@ -54,16 +62,16 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 方法定义
-> 批判性综述（Critical Review）是一种建立在广泛[[Document|文献]]梳理基础上、但超越单纯事实罗列与描述性汇总的质性/概念性研究综合方法。该方法不仅阐明某领域存在何种实证发现，更重在深入剖析既有文献在概念界定、底层[[Hypothesis|假设]]和推论逻辑上的局限，反思甚至挑战既有的主流理论模型，从而为提出新概念、新理论或新研究议程提供坚实的概念创新发射平台（launch pad）（Grant & Booth, 2009; Gough et al., 2012；[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025, pp. 2–3]]）。
+> 批判性综述（Critical Review）是一种建立在广泛[[Document\|文献]]梳理基础上、但超越单纯事实罗列与描述性汇总的质性/概念性研究综合方法。该方法不仅阐明某领域存在何种实证发现，更重在深入剖析既有文献在概念界定、底层[[Hypothesis\|假设]]和推论逻辑上的局限，反思甚至挑战既有的主流理论模型，从而为提出新概念、新理论或新研究议程提供坚实的概念创新发射平台（launch pad）（Grant & Booth, 2009; Gough et al., 2012；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 2–3]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 既有学术文献的核心概念界定、底层理论假设、问题提出方式、实证研究设计与政策推论逻辑。
-> - **核心目标** 概念解构、理论反思、[[Paradigm|范式]]批判与提出新的概念框架。
+> - **核心目标** 概念解构、理论反思、[[Paradigm\|范式]]批判与提出新的概念框架。
 > - **分析材料** 经过系统检索与严格筛选的同行评议期刊论文、学术专著或权威研究报告全文。
 > - **最终产出** 概念分析矩阵、理论张力辨析、思维定势诊断，以及面向未来研究的新概念/新理论框架。
 
 > [!citation-card]- 关键定义
-> 批判性综述通常建立在对研究文献的广泛审查之上，但超越对已识别文章的单纯描述，往往以概念创新为目标。批判性综述通常分析和综合既有研究的特定方面，经常挑战既有模型或思想流派，同时对既有研究提供新的阐释。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 2–3)]]
+> 批判性综述通常建立在对研究文献的广泛审查之上，但超越对已识别文章的单纯描述，往往以概念创新为目标。批判性综述通常分析和综合既有研究的特定方面，经常挑战既有模型或思想流派，同时对既有研究提供新的阐释。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 2–3)]]
 >
 > *A critical review typically builds on an extensive review of the research but goes beyond mere descriptions of the identified articles, often with the aim of conceptual innovation. A critical review typically presents analyses and synthesises selected aspects of existing research, often challenging existing models or schools of thought while offering a new interpretation of existing research.*
 
@@ -71,16 +79,16 @@ updated: 2026-09-21
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 批判解释主义：认为学术[[Document|文献]]不仅记录了经验数据，更反映了特定时期的理论[[Hypothesis|假设]]与思维方式；综述的核心在于看清这些知识是如何被建构出来的。
+> [!method-position] [[Epistemology\|认识论]]与方法定位
+> - **知识观** 批判解释主义：认为学术[[Document\|文献]]不仅记录了经验数据，更反映了特定时期的理论[[Hypothesis\|假设]]与思维方式；综述的核心在于看清这些知识是如何被建构出来的。
 > - **研究者角色** 概念侦测者与理论重构者：不追求对统计数据的机械汇总求平均，而是通过深度文本细读，找出既有研究共同忽视的盲点、未言明的预设或循环论证。
 > - **质量评判标准** 概念分析是否透彻深刻、对文献内在矛盾的揭示是否有力、分类维度是否清晰自洽，以及提出的新概念是否具有解释力。
-> - **不适用的问题** 无法计算干预措施的平均[[Effect Size|效应量]]，也不能替代直接深入一线的田野[[Fieldwork|实地调查]]。
+> - **不适用的问题** 无法计算干预措施的平均[[Effect Size\|效应量]]，也不能替代直接深入一线的田野[[Fieldwork\|实地调查]]。
 
 > [!method-stack] 方法层级
-> - **研究设计** 批判性文献综合设计（Critical Synthesis Design）与系统检索流程（如[[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]优先报告条目，[[PRISMA|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], [[PRISMA]]）。
+> - **研究设计** 批判性文献综合设计（Critical Synthesis Design）与系统检索流程（如[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]优先报告条目，[[PRISMA\|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], [[PRISMA]]）。
 > - **数据收集** 数据库结构化检索、多阶段双人独立筛选与排除原因记录。
-> - **分析方法** 多维概念[[Coding in Qualitative Research|编码]]（Multidimensional Conceptual Analysis）、论证逻辑解构、推论还原分析。
+> - **分析方法** 多维概念[[Coding in Qualitative Research\|编码]]（Multidimensional Conceptual Analysis）、论证逻辑解构、推论还原分析。
 > - **辅助工具** 文献特征编码表、概念二维交叉矩阵表、论证逻辑流程图。
 
 ---
@@ -88,10 +96,10 @@ updated: 2026-09-21
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. 明确综述要聚焦的核心概念、理论争议与打算反思的主流[[Paradigm|范式]]。
-> 2. 制定明确的检索策略与[[Document|文献]]筛选标准（可借鉴[[Systematic Review|系统综述]]流程与 [[PRISMA]] 流程图）。
-> 3. 提取纳入文献的基本特征（发表年份、国别、学段、调查对象、研究方法等）并系统[[Coding in Qualitative Research|编码]]。
-> 4. 深入剖析文献在提问方式、核心[[Hypothesis|假设]]、方法取向以及建议推论上的逻辑机制。
+> 1. 明确综述要聚焦的核心概念、理论争议与打算反思的主流[[Paradigm\|范式]]。
+> 2. 制定明确的检索策略与[[Document\|文献]]筛选标准（可借鉴[[Systematic Review\|系统综述]]流程与 [[PRISMA]] 流程图）。
+> 3. 提取纳入文献的基本特征（发表年份、国别、学段、调查对象、研究方法等）并系统[[Coding in Qualitative Research\|编码]]。
+> 4. 深入剖析文献在提问方式、核心[[Hypothesis\|假设]]、方法取向以及建议推论上的逻辑机制。
 > 5. 归纳既有文献的思维定势与理论困境（如赤字预设、结论雷同、循环论证），提出新的概念框架或未来研究方向。
 
 ### 质性方法模块
@@ -117,16 +125,16 @@ updated: 2026-09-21
 
 > [!method-fit] 适用判断
 > - **最适合** 某领域积累了大量实证论文但调查结论千篇一律、面临理论停滞或概念模糊时；需要反思政策口号对学术研究带来的思维束缚时。（pp. 2–3）
-> - **谨慎使用** 某新兴领域[[Document|文献]]极少、尚未形成可供深入批判的主流理论时。
-> - **不适合** 需要精确计算某项教学方法平均成效（[[Effect Size|效应量]]）的量化[[Meta-analysis|元分析]]任务；仅需了解基础概念的快速入门概述。
+> - **谨慎使用** 某新兴领域[[Document\|文献]]极少、尚未形成可供深入批判的主流理论时。
+> - **不适合** 需要精确计算某项教学方法平均成效（[[Effect Size\|效应量]]）的量化[[Meta-analysis\|元分析]]任务；仅需了解基础概念的快速入门概述。
 
 ---
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **主观偏误风险** 研究者自身的理论偏好可能导致选择性解读；[[Coding in Qualitative Research|质性编码]]与概念提炼具有较强的主观诠释性。
-> - **依赖[[Document|文献]]质量** 综述结论高度受限于检索数据库的覆盖面和所纳入文献本身的代表性。
+> - **主观偏误风险** 研究者自身的理论偏好可能导致选择性解读；[[Coding in Qualitative Research\|质性编码]]与概念提炼具有较强的主观诠释性。
+> - **依赖[[Document\|文献]]质量** 综述结论高度受限于检索数据库的覆盖面和所纳入文献本身的代表性。
 > - **误用风险** 脱离文献实证细节进行抽象思辨，或仅停留在解构批判而未能提出建设性的替代框架。
 > - **应对策略** 采用透明严格的检索与双人独立评估流程；公布完整的文献清单；紧扣文献原文细节提供扎实的引证。
 
@@ -146,7 +154,7 @@ updated: 2026-09-21
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 运用系统性批判综述方法，结合 [[PRISMA]] 检索与多维概念分析，对 34 篇关于教育中[[Research Utilization|研究使用]]的[[Document|文献]]进行全文本解构，揭示 30 年来该领域[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]的局限，并提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]概念框架。
-> - **[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]** 运用批判整合性综述（Critical-Integrative Review）方法，跨越教育人工智能、人机交互、认识论认知与社会认识论等多学科视阈，解构将人工智能工具单纯视为效率辅助或诚信风险的局限，系统界定认识依赖（Epistemic Dependence）构念，提炼六维诊断标准与四条社会技术路径，确立关系性认识主体性的规范内核。
-> - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]** 运用批判性综述方法，系统反思并解构了 Zhang et al. (2022) 宣称“直接教学全面优于探究教学”的论据与基本假设，通过对受控实验、PISA 跨国相关研究与宏观课程实验三类实证证据的批判性综合，揭示其选择性引证与误读偏误，确立了指导式探究的循证效能，并构建了基于学习目标、先验知识与认知特质的探究与直接教学协同模型。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 运用系统性批判综述方法，结合 [[PRISMA]] 检索与多维概念分析，对 34 篇关于教育中[[Research Utilization\|研究使用]]的[[Document\|文献]]进行全文本解构，揭示 30 年来该领域[[Deficit Framing\|赤字框架]]与[[Methodological Individualism\|方法论个体主义]]的局限，并提出第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]概念框架。
+> - **[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]** 运用批判整合性综述（Critical-Integrative Review）方法，跨越教育人工智能、人机交互、[[Epistemic Cognition\|认识论认知]]与社会[[Epistemology\|认识论]]等多学科视阈，解构将人工智能工具单纯视为效率辅助或诚信风险的局限，系统界定[[Epistemic Dependence\|认识依赖]]（Epistemic Dependence）[[Construct\|构念]]，提炼六维诊断标准与四条社会技术路径，确立关系性[[Epistemic Agency\|认识主体性]]的规范内核。
+> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 运用批判性综述方法，系统反思并解构了 Zhang et al. (2022) 宣称“[[Direct Instruction\|直接教学]]全面优于探究教学”的论据与基本[[Hypothesis\|假设]]，通过对受控实验、[[PISA]] 跨国相关研究与宏观课程实验三类实证证据的批判性综合，揭示其选择性引证与误读偏误，确立了[[Inquiry-Based Learning\|指导式探究]]的循证效能，并构建了基于学习目标、先验知识与认知特质的探究与直接教学协同模型。

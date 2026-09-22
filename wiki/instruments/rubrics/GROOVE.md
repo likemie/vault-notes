@@ -66,10 +66,10 @@ updated: 2026-09-11
 ## 工具定位
 
 > [!instrument-profile] GROOVE
-> - **工具类型** [[Umbrella Review|伞状综述]]与[[Meta-meta-analysis|二阶元分析]]初级研究重叠定量审计与可视化分析工具（Overlap Quantification & Graphical Representation Tool）。
+> - **工具类型** [[Umbrella Review\|伞状综述]]与[[Meta-meta-analysis\|二阶元分析]]初级研究重叠定量审计与可视化分析工具（Overlap Quantification & Graphical Representation Tool）。
 > - **开发者与年份** Bracchiglione et al. (2022)。
-> - **测量目的** 用于在[[Umbrella Review|伞状综述]]（Overview of Reviews）与二阶[[Meta-analysis|元分析]]中，系统量化、探索并可视化不同系统评价与一阶[[Meta-analysis|元分析]]之间初级实证研究（Primary Studies）的重复包含程度，避免由于重复计数相同受试者而导致的[[Standard Error|标准误]]假性收缩与假阳性推断。
-> - **实施方式** 基于 Excel 宏算法及结构化脚本，通过导入[[Primary and Secondary Documents|初级文献]]交叉引用矩阵自动计算节点重叠并生成分级色彩热力图。
+> - **测量目的** 用于在[[Umbrella Review\|伞状综述]]（Overview of Reviews）与二阶[[Meta-analysis\|元分析]]中，系统量化、探索并可视化不同系统评价与一阶[[Meta-analysis\|元分析]]之间初级实证研究（Primary Studies）的重复包含程度，避免由于重复计数相同受试者而导致的[[Standard Error\|标准误]]假性收缩与假阳性推断。
+> - **实施方式** 基于 Excel 宏算法及结构化脚本，通过导入[[Primary and Secondary Documents\|初级文献]]交叉引用矩阵自动计算节点重叠并生成分级色彩热力图。
 
 ---
 
@@ -90,16 +90,16 @@ updated: 2026-09-11
 ## 操作规程与实施步骤
 
 > [!proc] GROOVE 工具四步操作规程
-> 1. **提取与清洗[[Primary and Secondary Documents|初级文献]]清单** 逐篇提取所有初筛纳入的一阶[[Meta-analysis|元分析]]所引用的全部初级研究参考[[Document|文献]]，标准化作者姓名与发表年份，消除格式异构。
+> 1. **提取与清洗[[Primary and Secondary Documents\|初级文献]]清单** 逐篇提取所有初筛纳入的一阶[[Meta-analysis\|元分析]]所引用的全部初级研究参考[[Document\|文献]]，标准化作者姓名与发表年份，消除格式异构。
 > 2. **构建二元交叉引用矩阵（Citation Matrix）** 建立 $r$ 行（不重复初级研究）$\times$ $c$ 列（一阶元分析）的电子表格，填入 0 与 1（或打勾标记），统计总勾选数 $N$。
-> 3. **运行 GROOVE 自动化宏程序** 启动 GROOVE 工具，自动计算整体 $[[Corrected Covered Area|CCA]]$ 与所有成对组合的 $CCA_{ij}$ 指数，并生成四色重叠热力图。
-> 4. **执行重叠剔除与[[Chain of Evidence|证据链]]合规化** 对成对或总体 $CCA > 10\%$ 的高重叠元分析实施逐一剔除，直至剩余数据集满足抽样独立性标准（[[Argument_Unal_2026_JECR|Ünal et al., 2026]]）。
+> 3. **运行 GROOVE 自动化宏程序** 启动 GROOVE 工具，自动计算整体 $[[Corrected Covered Area\|CCA]]$ 与所有成对组合的 $CCA_{ij}$ 指数，并生成四色重叠热力图。
+> 4. **执行重叠剔除与[[Chain of Evidence\|证据链]]合规化** 对成对或总体 $CCA > 10\%$ 的高重叠元分析实施逐一剔除，直至剩余数据集满足抽样独立性标准（[[Argument_Unal_2026_JECR\|Ünal et al., 2026]]）。
 
 ---
 
 ## 方法学贡献与应用典范
 
 > [!warrant]- 方法学定位
-> 在第一代粗放[[Meta-meta-analysis|元综合]]（如 Hattie, 2009）中，[[Document|文献]]重叠常被完全忽视，导致高达 80%–90% 的底层数据被重复加权。GROOVE 工具为第二代与第三代[[Umbrella Review|伞状综述]]提供了标准化、可复现的去重操作方案：
+> 在第一代粗放[[Meta-meta-analysis\|元综合]]（如 Hattie, 2009）中，[[Document\|文献]]重叠常被完全忽视，导致高达 80%–90% 的底层数据被重复加权。GROOVE 工具为第二代与第三代[[Umbrella Review\|伞状综述]]提供了标准化、可复现的去重操作方案：
 > - **透明度与可追溯性** 替代了传统综述凭借主观印象判定“文献相似”的模糊做法，输出标准矩阵；
-> - **典型实证案例** [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] 在对 35 项 AI 教育效果[[Meta-analysis|元分析]]实施二阶综合时，运用 GROOVE 工具计算各 FOM 之间的 [[Corrected Covered Area|CCA]] 矩阵，果断排除了 6 项 $CCA > 10\%$ 的重叠元分析，确保了最终 19 项元分析合成[[Effect Size|效应量]]（$ES = .67$）的高[[Internal Validity|内部效度]]与数学稳健性。
+> - **典型实证案例** [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 在对 35 项 AI 教育效果[[Meta-analysis\|元分析]]实施二阶综合时，运用 GROOVE 工具计算各 FOM 之间的 [[Corrected Covered Area\|CCA]] 矩阵，果断排除了 6 项 $CCA > 10\%$ 的重叠元分析，确保了最终 19 项元分析合成[[Effect Size\|效应量]]（$ES = .67$）的高[[Internal Validity\|内部效度]]与数学稳健性。

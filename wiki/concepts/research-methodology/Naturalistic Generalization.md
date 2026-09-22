@@ -43,7 +43,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 自然主义概括（naturalistic generalization）是 Stake（1995）在[[Case Study|案例研究]]方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。在更广泛的[[Qualitative Research|质性研究]]方法论中，自然主义概括指一种不由研究者通过统计抽样完成、而由**读者**通过将案例的[[Rich and Thick Description|厚描述]]与自身情境进行对照来完成的认知推广过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 444–446)]]
+> 自然主义概括（naturalistic generalization）是 Stake（1995）在[[Case Study\|案例研究]]方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。在更广泛的[[Qualitative Research\|质性研究]]方法论中，自然主义概括指一种不由研究者通过统计抽样完成、而由**读者**通过将案例的[[Rich and Thick Description\|厚描述]]与自身情境进行对照来完成的认知推广过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 444–446)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种读者驱动的概括形式：研究者提供充分的厚描述，读者自行判断研究发现与自身情境的相似性和可迁移性。
@@ -67,9 +67,9 @@ Larsson（2009）进一步系统化了[[Qualitative Research|质性研究]]的�
 
 > [!dimension] Larsson（2009）的三种质性概括性推理
 > - **最大化变异以增强概括潜力**
->   通过[[Theoretical Sampling|理论抽样]]确保尽可能多不同案例被纳入研究，不常见案例与典型案例同等权重。[[Hypothesis|假设]]研究中存在的变异也存在于更广泛的目标情境中。局限在于可能需较大[[Sample Size Determination|样本量]]，且假设研究者事先知道最大变异是什么样。
+>   通过[[Theoretical Sampling\|理论抽样]]确保尽可能多不同案例被纳入研究，不常见案例与典型案例同等权重。[[Hypothesis\|假设]]研究中存在的变异也存在于更广泛的目标情境中。局限在于可能需较大[[Sample Size Determination\|样本量]]，且假设研究者事先知道最大变异是什么样。
 > - **通过情境相似性进行概括**
->   确保研究情境与目标情境足够相似——即 Lincoln & Guba 的可转移性（transferability）标准。研究者提供充分[[Rich and Thick Description|厚描述]]让受众自行判断。困难在于决定何时、在何标准上情境足够相似。
+>   确保研究情境与目标情境足够相似——即 Lincoln & Guba 的可转移性（transferability）标准。研究者提供充分[[Rich and Thick Description\|厚描述]]让受众自行判断。困难在于决定何时、在何标准上情境足够相似。
 > - **通过模式识别进行概括**
 >   识别研究与其他情境在理论建构、主题、概念、行为和过程方面的相似模式。核心困难在于：不是情境本身而是对情境的解释需要相似，而谁的解释应起决定性作用本身是开放问题。
 
@@ -88,7 +88,7 @@ LeCompte & Preissle（1993, p. 47）将[[Ethnography|民族志]]的概括性重�
 
 ## 概念辨析
 
-> [!contrast-table] 自然主义概括 vs 统计概括 vs [[Theoretical End Point|理论终点]]
+> [!contrast-table] 自然主义概括 vs 统计概括 vs [[Theoretical End Point\|理论终点]]
 > | 维度 | 统计概括 | 自然主义概括 | [[Theoretical End Point\|理论终点]] |
 > |------|----------|-------------|---------|
 > | 基础 | [[Random Sampling\|随机抽样]]和概率理论。 | 读者对案例情境与自身情境相似性的判断。 | [[Qualitative Research\|质性研究]]归纳逻辑的最终产物。 |
@@ -100,5 +100,5 @@ LeCompte & Preissle（1993, p. 47）将[[Ethnography|民族志]]的概括性重�
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 系统阐述[[Qualitative Research|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体描述性研究需要概括性价值的论述。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 系统阐述[[Qualitative Research\|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体描述性研究需要概括性价值的论述。

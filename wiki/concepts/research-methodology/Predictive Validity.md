@@ -75,21 +75,21 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> [[Predictive Validity|预测效度]]（Predictive Validity）是[[Criterion-related Validity|效标关联效度]]的一种核心形式，指某一测量工具在当前时间点获取的得分在多大程度上能够准确预测受试者在**未来某一时间点**所展现的外部效标行为、[[Academic Achievement|学业表现]]或实际成果（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, p. 179]]; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 2–3]]）。其核心判定标准在于**时间间隔（Time Interval）**的存在，即预测源测量（Predictor）在时间上显著先于效标测量（Criterion）。
+> [[Predictive Validity\|预测效度]]（Predictive Validity）是[[Criterion-related Validity\|效标关联效度]]的一种核心形式，指某一测量工具在当前时间点获取的得分在多大程度上能够准确预测受试者在**未来某一时间点**所展现的外部效标行为、[[Academic Achievement\|学业表现]]或实际成果（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 179]]; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 2–3]]）。其核心判定标准在于**时间间隔（Time Interval）**的存在，即预测源测量（Predictor）在时间上显著先于效标测量（Criterion）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 预测效度回答的是：“当前工具的测量分数，能在多大程度上揭示个体在未来的发展轨迹与最终成就？”
-> - **用途** 在选拔性考试（如[[Gaokao|高考]]、大学入学考试）、人才甄拔、早期预警系统及心理潜能评估中，预测效度是衡量工具实用价值的底层基石。
+> - **用途** 在选拔性考试（如[[Gaokao\|高考]]、大学入学考试）、人才甄拔、早期预警系统及心理潜能评估中，预测效度是衡量工具实用价值的底层基石。
 > - **边界** 预测效度不评估测验工具的内在理论结构，而是通过与未来真实结果的统计关联提供外部实证支持。
 
 > [!citation-card]- 关键表述
-> 这一区分反映了这样一个事实：有时特质被定义为一种结果或产物并在分析中作为效标；而在其他时候，研究将其作为[[Independent Variable|预测变量]]去预测后续健康、[[Problem Solving|问题解决]]或学业成功等其他结果，展现出更高的实证关联系数。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]
+> 这一区分反映了这样一个事实：有时特质被定义为一种结果或产物并在分析中作为效标；而在其他时候，研究将其作为[[Independent Variable\|预测变量]]去预测后续健康、[[Problem Solving\|问题解决]]或学业成功等其他结果，展现出更高的实证关联系数。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–3)]]
 >
 > *The distinction reflects the fact that sometimes [[Creativity]] is defined as an outcome or result and used in analyses as the criterion... Other times the research has used creativity as a predictor and there are other outcomes (e.g., health or problem solving or academic success)...*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Concurrent Validity|共时效度]]（Concurrent Validity）：共时效度要求新旧工具在**同一时间点**施测，不具备时间滞后性；预测效度必须包含时间差，用于跨期外推。
-> - 不等于 [[Construct Validity|构念效度]]（[[Construct]] Validity）：构念效度聚焦测验是否精确测到了理论预设的心理特质，预测效度聚焦测验分数对未来实务结果的预测准确性。
+> - 不等于 [[Concurrent Validity\|共时效度]]（Concurrent Validity）：共时效度要求新旧工具在**同一时间点**施测，不具备时间滞后性；预测效度必须包含时间差，用于跨期外推。
+> - 不等于 [[Construct Validity\|构念效度]]（[[Construct]] Validity）：构念效度聚焦测验是否精确测到了理论预设的心理特质，预测效度聚焦测验分数对未来实务结果的预测准确性。
 
 ---
 
@@ -108,9 +108,9 @@ updated: 2026-09-17
 ## 核心要素与验证逻辑
 
 > [!feature] 预测效度成立的三大核心支柱
-> - **预测源工具的高测量[[Reliability|信度]]（Predictor Reliability）** 预测工具必须具备高度的[[Internal Consistency|内部一致性]]与评分稳定性，避免抽样噪声削弱预测关联。
-> - **效标指标的无偏性与客观性（Criterion Quality）** 外部效标必须与预测目标实质相关、测量精确且排除评分者主观偏差（Wolf, 1994; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）。
-> - **合理的追踪时滞跨度（Temporal Gap）** 时间间隔需足以使预测机制充分展开，但不过长以致混杂过多的外部不可控环境[[Variable|变量]]。
+> - **预测源工具的高测量[[Reliability\|信度]]（Predictor Reliability）** 预测工具必须具备高度的[[Internal Consistency\|内部一致性]]与评分稳定性，避免抽样噪声削弱预测关联。
+> - **效标指标的无偏性与客观性（Criterion Quality）** 外部效标必须与预测目标实质相关、测量精确且排除评分者主观偏差（Wolf, 1994; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]）。
+> - **合理的追踪时滞跨度（Temporal Gap）** 时间间隔需足以使预测机制充分展开，但不过长以致混杂过多的外部不可控环境[[Variable\|变量]]。
 
 > [!logic-map]- 预测效度验证流程图
 > ```mermaid
@@ -132,18 +132,18 @@ updated: 2026-09-17
 > [!concept-lens] 效标质量对预测效度的决定性制约
 > 探讨预测效度低究竟是由于预测工具本身失效，还是由于外部效标受到系统性偏差污染（Criterion Contamination）。
 
-> [!claim] Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
-> **效标质量是预测效度的前提约束** 预测效度要求效标必须满足相关性、无偏性、[[Reliability|可靠性]]与可测量性四大准则。若效标本身存在测量偏倚（如大学 [[Academic Achievement|GPA]] 受不同院系打分松紧度差异污染），即便预测工具具备极高的心理测量学质量，统计输出的预测效度也会被严重低估，导致“以弯曲的尺子校验精确工具”的效度困境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 225)]]
+> [!claim] Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]
+> **效标质量是预测效度的前提约束** 预测效度要求效标必须满足相关性、无偏性、[[Reliability\|可靠性]]与可测量性四大准则。若效标本身存在测量偏倚（如大学 [[Academic Achievement\|GPA]] 受不同院系打分松紧度差异污染），即便预测工具具备极高的心理测量学质量，统计输出的预测效度也会被严重低估，导致“以弯曲的尺子校验精确工具”的效度困境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 225)]]
 
 ---
 
 ### 命题二　高阶认知潜能作为预测变量时展现出强劲的预测效度且存在变量角色不对称性
 
-> [!concept-lens] [[Variable|变量]]角色定位与预测效度不对称性
-> 探讨认知与[[Creativity|创造潜能]]作为预测源去预测未来发展，还是作为效标结果被外部环境所预测时的实证效能差异。
+> [!concept-lens] [[Variable\|变量]]角色定位与预测效度不对称性
+> 探讨认知与[[Creativity\|创造潜能]]作为预测源去预测未来发展，还是作为效标结果被外部环境所预测时的实证效能差异。
 
-> [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]; Paek & Runco (2018)
-> **[[Independent Variable|预测变量]]与[[Dependent Variable|效标变量]]的效应不对称性** 跨 52 项一阶[[Meta-analysis|元分析]]的大规模[[Meta-meta-analysis|二阶元分析]]证实，创造力在作为预测变量时与个体学业、职业与身心适应展现出中等偏大的稳定预测效度（$r = 0.29$, 95% [[Confidence Interval|置信区间]] $[0.18, 0.41]$）；而当其作为效标结果变量时关联系数显著降低（$r = 0.12$）。多水平[[Second-Order Meta-Regression|二阶元回归]]证实变量角色构成了全领域唯一的显著调节来源（$F(1, 16.3) = 9.43, p = .007$），确立了高阶潜能对长期发展的高水平预测价值。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
+> [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Paek & Runco (2018)
+> **[[Independent Variable\|预测变量]]与[[Dependent Variable\|效标变量]]的效应不对称性** 跨 52 项一阶[[Meta-analysis\|元分析]]的大规模[[Meta-meta-analysis\|二阶元分析]]证实，创造力在作为预测变量时与个体学业、职业与身心适应展现出中等偏大的稳定预测效度（$r = 0.29$, 95% [[Confidence Interval\|置信区间]] $[0.18, 0.41]$）；而当其作为效标结果变量时关联系数显著降低（$r = 0.12$）。多水平[[Second-Order Meta-Regression\|二阶元回归]]证实变量角色构成了全领域唯一的显著调节来源（$F(1, 16.3) = 9.43, p = .007$），确立了高阶潜能对长期发展的高水平预测价值。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
@@ -160,10 +160,10 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s — [[Classical Test Theory|经典测验理论]]奠基** [[APA Style|APA]] 测验标准确立[[Criterion-related Validity|效标关联效度]]，将预测效度作为评估选拔工具与[[Achievement and Aptitude Tests|能力倾向测验]]的黄金准则。
-> - **1970s–1980s — [[Criterion Problem|效标问题]]与效标污染反思** Shapiro (1970) 与 Wolf (1994) 系统批判效标缺失与效标污染对预测效度推断的扭曲。
-> - **1990s–2000s — Messick 统一效度框架** Messick 将预测效度整合进以[[Construct Validity|构念效度]]为核心的整体[[Chain of Evidence|证据链]]，强调预测结果的社会[[Consequential Validity|后果效度]]。
-> - **2020s — [[Meta-meta-analysis|二阶元分析]]量化预测效度谱系** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 124 万人样本，确立认知与[[Creativity|创造潜能]]全领域预测效度的量化基准（$r = 0.29$），并证明其预测效度在各类设计中的跨模型稳健性。
+> - **1950s — [[Classical Test Theory\|经典测验理论]]奠基** [[APA Style\|APA]] 测验标准确立[[Criterion-related Validity\|效标关联效度]]，将预测效度作为评估选拔工具与[[Achievement and Aptitude Tests\|能力倾向测验]]的黄金准则。
+> - **1970s–1980s — [[Criterion Problem\|效标问题]]与效标污染反思** Shapiro (1970) 与 Wolf (1994) 系统批判效标缺失与效标污染对预测效度推断的扭曲。
+> - **1990s–2000s — Messick 统一效度框架** Messick 将预测效度整合进以[[Construct Validity\|构念效度]]为核心的整体[[Chain of Evidence\|证据链]]，强调预测结果的社会[[Consequential Validity\|后果效度]]。
+> - **2020s — [[Meta-meta-analysis\|二阶元分析]]量化预测效度谱系** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 综合 124 万人样本，确立认知与[[Creativity\|创造潜能]]全领域预测效度的量化基准（$r = 0.29$），并证明其预测效度在各类设计中的跨模型稳健性。
 
 ---
 
@@ -174,10 +174,10 @@ updated: 2026-09-17
 > > [!axis] 效标污染（Criterion Contamination）
 > > 争论外部效标是否受到评分者期望、环境特权或测验分数的反向影响。
 > >
-> > - **Wolf (1994)** 指出教育中的 [[Academic Achievement|GPA]] 与工作绩效往往包含大量与个体真实能力无关的混杂因素，导致预测效度系数虚假波动。
-> > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]** 强调必须通过双盲评分与多元效标组合消除效标污染。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 179)]]
+> > - **Wolf (1994)** 指出教育中的 [[Academic Achievement\|GPA]] 与工作绩效往往包含大量与个体真实能力无关的混杂因素，导致预测效度系数虚假波动。
+> > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]** 强调必须通过双盲评分与多元效标组合消除效标污染。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 179)]]
 >
-> > [!axis] 范围限制（[[Floor and Ceiling Effects|range restriction]]）导致的效度低估
+> > [!axis] 范围限制（[[Floor and Ceiling Effects\|range restriction]]）导致的效度低估
 > > 争论在选拔性情境中仅能对被录取的优秀子群体进行追踪，是否人为压低了预测效度相关系数。
 > >
 > > - **心理测量学修正派** 主张采用统计校正公式（Thorndike 方程）修正由于选拔截断导致的方差缩水。
@@ -191,7 +191,7 @@ updated: 2026-09-17
 
 ## 实证数据
 
-> [!ma-table]- [[Meta-analysis|元分析]]总体结果
+> [!ma-table]- [[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
@@ -213,16 +213,16 @@ updated: 2026-09-17
 > [!implication]- 提升预测效度的四大实践原则
 > 1. **严格筛选无偏效标** 优先采用客观、多元且标准化的效标指标（如标准化成就测试、长期真实发明产出），避免依赖易受主观偏见污染的单一等级评定；
 > 2. **实施纵向追踪设计** 建立跨周期的长期追踪数据库，动态校准预测模型在不同发展阶段的权重参数；
-> 3. **多重预测源组合策略** 结合认知潜能测验、过程问题重构任务与行为自陈，通过[[Multiple Regression|多元回归]]模型提升复合预测效度；
+> 3. **多重预测源组合策略** 结合认知潜能测验、过程问题重构任务与行为自陈，通过[[Multiple Regression\|多元回归]]模型提升复合预测效度；
 > 4. **控制范围限制偏差** 在选拔性测验分析中，合理解释选拔截断对相关系数的衰减效应，审慎评估临界分数线。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 开展[[Meta-meta-analysis|二阶元分析]]，系统证实潜能测验在作为[[Independent Variable|预测变量]]时具备中等偏强的预测效度（$r = 0.29$），并确立了[[Variable|变量]]角色的调节显著性。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详尽论述预测效度在教育考试、[[Gaokao|高考]]与选拔性评估中的测量学准则与效标约束条件。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 开展[[Meta-meta-analysis\|二阶元分析]]，系统证实潜能测验在作为[[Independent Variable\|预测变量]]时具备中等偏强的预测效度（$r = 0.29$），并确立了[[Variable\|变量]]角色的调节显著性。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] — 详尽论述预测效度在教育考试、[[Gaokao\|高考]]与选拔性评估中的测量学准则与效标约束条件。
 
 ---
 

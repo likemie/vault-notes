@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校；多层实证数据显示学校间方差仅占 5–10%，择校难以替代微观教师教学质量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,7 +38,6 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
-  - "[[Partnership Schools Kura Hourua]]"
   - "[[Rural School Consolidation]]"
   - "[[Australian Council for Educational Research]]"
 related_arguments:
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # School Choice
@@ -60,20 +59,20 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 择校（School Choice），指学龄儿童的家长依据自身教育偏好与资本存量，主动为其选择特定的就读学校，而非被动接受政府刚性就近划片分配的教育实践与制度逻辑。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 302)]]
+> 择校（School Choice），指学龄儿童的家长依据自身教育偏好与资本存量，主动为其选择特定的就读学校，而非被动接受政府刚性就近划片分配的教育实践与制度逻辑。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 302)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向家庭阶级[[Habitus|习性]]、资源存量同公私立学校资源空间分配之间的博弈与变现机制。
+> - **含义** 指向家庭阶级[[Habitus\|习性]]、资源存量同公私立学校资源空间分配之间的博弈与变现机制。
 > - **用途** 帮助研究者透视国家新自由主义市场政策或人口城镇化导流战略如何与家庭能动性发生互动，以及资源分配的马太效应。
 > - **边界** 解释义务教育和高中阶段的选择性入学行为，不涉及不具备选择权利的强制性分配和纯粹学术选拔。
 
 > [!citation-card] 关键表述
-> 在多数国家的政策话语中，择校被设计为一种通过市场竞争打破公立教育垄断、提高教育质量的自上而下改革策略。然而，它也可以表现为底层家庭在教育机会空间分配不均时，自下而上主动发起的地理随迁与家庭重组行为。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 302)]]
+> 在多数国家的政策话语中，择校被设计为一种通过市场竞争打破公立教育垄断、提高教育质量的自上而下改革策略。然而，它也可以表现为底层家庭在教育机会空间分配不均时，自下而上主动发起的地理随迁与家庭重组行为。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 302)]]
 > 
 > *In the policy discourses of most countries, school choice is designed as a top-down reform strategy to dismantle the state monopoly of public schooling and to improve educational quality... However, it can also manifest as an organic family practice.*
 
 > [!boundary]- 概念边界
-> - 不等于 **就近入学（Home-School Proximity）** — 就近入学基于户籍所在地或法定居住地址进行强制划片限制；择校则力图通过资本跨越这些地理边界。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 303)]]
+> - 不等于 **就近入学（Home-School Proximity）** — 就近入学基于户籍所在地或法定居住地址进行强制划片限制；择校则力图通过资本跨越这些地理边界。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 303)]]
 > - 不等于 **随迁子女入学（Migrant Children Admission）** — 随迁侧重于流动人口随迁后争取合法的基准受教育权；择校则是由家庭主动发起，目标锁定在获取优势教育层级的资源分配上。
 
 ---
@@ -92,10 +91,10 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **经济资本** 决定择校的可行性门槛，在城市表现为购买高价学区房，在县域表现为支付随迁[[Peidu|陪读]]的生活租房费用及脱产损失。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 308)]]
-> - **社会资本** 在非正式机制下作为拦截学位的核心工具，家庭通过强弱关系网络和裙带转介干预学校招生结果。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 309)]]
-> - **[[Cultural Capital|文化资本]]** 指导家庭的教育品味并提供择校甄别力，但在注重人情和关系的县域[[Champ|场域]]中面临局部折旧。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 310)]]
-> - **校际与校内变异比率** 实证研究中衡量择校政策有效性的关键结构参数，即学校间方差（5–10%）与校内教师间方差（30%）的相对比值。[[Argument_Hattie_2005_ACER|Hattie (2005, pp. 13–14)]]
+> - **经济资本** 决定择校的可行性门槛，在城市表现为购买高价学区房，在县域表现为支付随迁[[Peidu\|陪读]]的生活租房费用及脱产损失。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 308)]]
+> - **社会资本** 在非正式机制下作为拦截学位的核心工具，家庭通过强弱关系网络和裙带转介干预学校招生结果。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 309)]]
+> - **[[Cultural Capital\|文化资本]]** 指导家庭的教育品味并提供择校甄别力，但在注重人情和关系的县域[[Champ\|场域]]中面临局部折旧。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 310)]]
+> - **校际与校内变异比率** 实证研究中衡量择校政策有效性的关键结构参数，即学校间方差（5–10%）与校内教师间方差（30%）的相对比值。[[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 13–14)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -118,11 +117,11 @@ updated: 2026-09-17
 > [!concept-lens] 阶层化资本筛选与再生产机制
 > 探讨各阶层拥有的差异化资本如何决定择校竞争的成败，指出选择自由最终演化为阶级再生产的制度化管道。
 
-> [!claim] [[Argument_Teng_2025_CE|Teng & Wang (2025)]]
-> **县域择校中的资本折算** 在行政与关系合谋的小城镇教育市场中，经济资本构成准入门槛，社会资本（强关系网络）作为裙带拦截的主导机制，其作用远超[[Cultural Capital|文化资本]]，成为决定择校成功的关键力量。[[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 308–310)]]
+> [!claim] [[Argument_Teng_2025_CE\|Teng & Wang (2025)]]
+> **县域择校中的资本折算** 在行政与关系合谋的小城镇教育市场中，经济资本构成准入门槛，社会资本（强关系网络）作为裙带拦截的主导机制，其作用远超[[Cultural Capital\|文化资本]]，成为决定择校成功的关键力量。[[Argument_Teng_2025_CE\|Teng & Wang (2025, pp. 308–310)]]
 
 > [!claim] Reay (1998)
-> **家庭[[Habitus|习性]]与学校[[Champ|场域]]的同构性** 中产阶级家长的文化背景、教育抱负与学校教育场域的评价机制高度同构，使其能借助文化资本与习性无缝操纵择校游戏，而工人阶级家长则在信息获取与制度沟通中被系统性边缘化。
+> **家庭[[Habitus\|习性]]与学校[[Champ\|场域]]的同构性** 中产阶级家长的文化背景、教育抱负与学校教育场域的评价机制高度同构，使其能借助文化资本与习性无缝操纵择校游戏，而工人阶级家长则在信息获取与制度沟通中被系统性边缘化。
 
 ---
 
@@ -131,8 +130,8 @@ updated: 2026-09-17
 > [!concept-lens] 制度情境与政策驱动逻辑
 > 探讨择校如何受国家制度环境的塑造，区分西方新自由主义市场竞争逻辑与转型国家的行政导流逻辑。
 
-> [!claim] [[Argument_Teng_2025_CE|Teng & Wang (2025)]]
-> **教育城镇化导流变体** 中国乡村家庭的择校实践并非由[[Partnership Schools Kura Hourua|特许学校]]或教育券等新自由主义市场工具驱动，而是由地方政府通过[[Rural School Consolidation|农村学校撤并]]和县城资源超常集聚所引导的教育城镇化过程，呈现出自下而上家庭能动性与自上而下城镇化政策的合流。[[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 313–314)]]
+> [!claim] [[Argument_Teng_2025_CE\|Teng & Wang (2025)]]
+> **教育城镇化导流变体** 中国乡村家庭的择校实践并非由特许学校或教育券等新自由主义市场工具驱动，而是由地方政府通过[[Rural School Consolidation\|农村学校撤并]]和县城资源超常集聚所引导的教育城镇化过程，呈现出自下而上家庭能动性与自上而下城镇化政策的合流。[[Argument_Teng_2025_CE\|Teng & Wang (2025, pp. 313–314)]]
 
 ---
 
@@ -141,8 +140,8 @@ updated: 2026-09-17
 > [!concept-lens] 抽水机效应与学校生态极化
 > 探讨学生和优势家庭的选择性流出对底层剩余学校造成的生源与资源双重剥夺后果。
 
-> [!claim] [[Argument_Teng_2025_CE|Teng & Wang (2025)]]
-> **乡村学校的荒漠化恶性螺旋** 择校促成的县域分流抽干了村小的生源资金和优质骨干师资，使留守最弱势家庭的乡村学校陷入功能性瘫痪和不可逆的撤并倒闭。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 312)]]
+> [!claim] [[Argument_Teng_2025_CE\|Teng & Wang (2025)]]
+> **乡村学校的荒漠化恶性螺旋** 择校促成的县域分流抽干了村小的生源资金和优质骨干师资，使留守最弱势家庭的乡村学校陷入功能性瘫痪和不可逆的撤并倒闭。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 312)]]
 
 > [!claim] Ball (2003)
 > **反向筛选与阶级隔离** 市场化择校赋予了优势学校“反向选择”学生的隐性权力，使优势学校通过生源筛选巩固声誉，而底层薄弱学校沦为贫困和行为问题生源的“剩余容器”，加剧了教育系统的阶级极化。
@@ -152,10 +151,10 @@ updated: 2026-09-17
 ### 命题四　学校间方差极小而校内教师方差巨大，基于择校的结构性改革难以撬动系统性学业增益
 
 > [!concept-lens] 效能变异分解与择校政策的因果限度
-> 探讨择校政策背后的核心[[Hypothesis|假设]]（“学校选择是提升学业质量的核心杠杆”）是否成立，通过多层方差分解揭示校际差异与校内教师差异的悬殊对比。
+> 探讨择校政策背后的核心[[Hypothesis\|假设]]（“学校选择是提升学业质量的核心杠杆”）是否成立，通过多层方差分解揭示校际差异与校内教师差异的悬殊对比。
 
-> [!claim] [[Argument_Hattie_2005_ACER|Hattie (2005, pp. 13–14)]]
-> **校际变异微弱与校内教师主导规律** 基于大规模[[Meta-analysis|元分析]]的多层方差分解，学校层面差异仅解释学生[[Academic Achievement|学业成就]]总变异的 **5%–10%**，而教师教学效能解释了 **30%**。同一所学校内部不同教师之间的效能变异，远远大于不同学校之间的平均效能变异。家长与政策制定者过度焦虑于“去哪所学校（Which school you go to）”，实际上脱离了“遇到哪位教师（Which teacher you get）”这一核心因果震源；寄望于通过学区重划、特许学校或教育券等择校改革来全面提升学业成就，本质上是把政策重心放错了层级。
+> [!claim] [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 13–14)]]
+> **校际变异微弱与校内教师主导规律** 基于大规模[[Meta-analysis\|元分析]]的多层方差分解，学校层面差异仅解释学生[[Academic Achievement\|学业成就]]总变异的 **5%–10%**，而教师教学效能解释了 **30%**。同一所学校内部不同教师之间的效能变异，远远大于不同学校之间的平均效能变异。家长与政策制定者过度焦虑于“去哪所学校（Which school you go to）”，实际上脱离了“遇到哪位教师（Which teacher you get）”这一核心因果震源；寄望于通过学区重划、特许学校或教育券等择校改革来全面提升学业成就，本质上是把政策重心放错了层级。
 
 ---
 
@@ -175,9 +174,9 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **1962 — 市场选择思想的提出** 米尔顿·弗里德曼（Milton Friedman）提出教育券计划，主张以市场竞争和家长选择打破公立教育垄断。
-> - **2000s — 新自由主义政策大扩张** 英美等国大力推广[[Partnership Schools Kura Hourua|特许学校]]（charter schools）和学院学校（academies），择校成为主流教育政策。
-> - **2005 — 学校间与校内方差实证分解** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research|ACER]] 会议报告中基于[[Meta-analysis|元分析]]指出学校间方差仅占 5–10% 而校内教师方差达 30%，实证证明校内变异远大于校际变异，揭示了单纯依赖择校政策提升[[Academic Achievement|学业成就]]的结构性限度（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 13–14]]）。
-> - **2010s — 转型国家的教育城镇化变体** 中国推进[[Rural School Consolidation|农村学校撤并]]与县城学校扩张，择校实践与地理迁移、农民市民化合流，演化为“以教促城”的政策实践（[[Argument_Teng_2025_CE|Teng & Wang, 2025, pp. 303–304]]）。
+> - **2000s — 新自由主义政策大扩张** 英美等国大力推广特许学校（charter schools）和学院学校（academies），择校成为主流教育政策。
+> - **2005 — 学校间与校内方差实证分解** [[John Hattie\|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research\|ACER]] 会议报告中基于[[Meta-analysis\|元分析]]指出学校间方差仅占 5–10% 而校内教师方差达 30%，实证证明校内变异远大于校际变异，揭示了单纯依赖择校政策提升[[Academic Achievement\|学业成就]]的结构性限度（[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 13–14]]）。
+> - **2010s — 转型国家的教育城镇化变体** 中国推进[[Rural School Consolidation\|农村学校撤并]]与县城学校扩张，择校实践与地理迁移、农民市民化合流，演化为“以教促城”的政策实践（[[Argument_Teng_2025_CE\|Teng & Wang, 2025, pp. 303–304]]）。
 
 ---
 
@@ -185,10 +184,10 @@ updated: 2026-09-17
 
 > [!tension] 核心张力（仅两方正面对立时使用）
 > - **效率与自决权（蓝方）** 择校提供了竞争压力促使公立学校改进，并保障了家长的基本教育权和个性化选择自由。
-> - **阶级隔离与不平等再生产（红方）** 择校导致公立资源的阶级极化，中产家庭垄断优势资源，底层家庭面临事实上的教育剥夺。[[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 313–314)]]
+> - **阶级隔离与不平等再生产（红方）** 择校导致公立资源的阶级极化，中产家庭垄断优势资源，底层家庭面临事实上的教育剥夺。[[Argument_Teng_2025_CE\|Teng & Wang (2025, pp. 313–314)]]
 
 > [!critique] 效能盲区批评
-> - **校际与校内方差错置** 择校话语假定学校是同质且效能差异巨大的实体，但实证数据显示学校间方差仅 5–10%，校内教师间方差高达 30%。择校政策诱导家长将大量资源与焦虑投入到校际竞争中，遮蔽了课堂内部教学法与教师专业发展的决定性作用。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 13–14)]]
+> - **校际与校内方差错置** 择校话语假定学校是同质且效能差异巨大的实体，但实证数据显示学校间方差仅 5–10%，校内教师间方差高达 30%。择校政策诱导家长将大量资源与焦虑投入到校际竞争中，遮蔽了课堂内部教学法与教师专业发展的决定性作用。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 13–14)]]
 
 ---
 
@@ -207,8 +206,8 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 运用多层方差分解揭示学校间方差仅占 5–10% 而教师方差占 30%，从实证上论证了择校政策对[[Academic Achievement|学业成就]]提升的有限性。
-> - [[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu|陪读]]择校实践，解构了其中家庭资本的分层博弈与乡村学校抽干效应。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 探讨了家长规避行政划片、通过非正式网络建立联系以进入心仪学校的手段。
-> - [[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 154–156)]] — 以 Rufus King 的磁石学校案例说明，特色课程可成为跨学区吸引学生的制度载体；同时提醒将课程、选择性入学和种族融合政策的效果分开解释。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 运用多层方差分解揭示学校间方差仅占 5–10% 而教师方差占 30%，从实证上论证了择校政策对[[Academic Achievement\|学业成就]]提升的有限性。
+> - [[Argument_Teng_2025_CE\|Teng & Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu\|陪读]]择校实践，解构了其中家庭资本的分层博弈与乡村学校抽干效应。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]] — 探讨了家长规避行政划片、通过非正式网络建立联系以进入心仪学校的手段。
+> - [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 154–156)]] — 以 Rufus King 的磁石学校案例说明，特色课程可成为跨学区吸引学生的制度载体；同时提醒将课程、选择性入学和种族融合政策的效果分开解释。

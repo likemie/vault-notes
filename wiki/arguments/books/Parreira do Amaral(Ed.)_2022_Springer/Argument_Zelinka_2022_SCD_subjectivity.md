@@ -60,7 +60,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 新[[Geopolitics of Knowledge|知识地缘政治]]（(new) Geopolitics of Knowledge）通过全球教育治理话语生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design|SCD]]）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么(pp.251-252)。
+> 新[[Geopolitics of Knowledge\|知识地缘政治]]（(new) Geopolitics of Knowledge）通过全球教育治理话语生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design\|SCD]]）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么(pp.251-252)。
 
 ## 理论框架
 
@@ -76,9 +76,9 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 该章采用批判性[[Discourse Analysis|话语分析]]（critical discourse analysis）方法，具体做法为：
+> 该章采用批判性[[Discourse Analysis\|话语分析]]（critical discourse analysis）方法，具体做法为：
 > - **文本汇编** 收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, [[OECD]], EC），时间跨度超过 15 年。
-> - **[[Critical Companion|批判性伴随]]（critical companion）** 不提供传统的系统性[[Literature Review|文献综述]]，而是对这些框架进行批判性检视，识别其核心特征、共同模式和盲点(p.254)。
+> - **[[Critical Companion\|批判性伴随]]（critical companion）** 不提供传统的系统性[[Literature Review\|文献综述]]，而是对这些框架进行批判性检视，识别其核心特征、共同模式和盲点(p.254)。
 > - **精细化分析（fine-grained analysis）** 在总体检视后，聚焦三组"张力对"（tension-pairs）来更细致地揭示主体性的生产过程(p.260)。
 
 ## 论证结构
@@ -144,8 +144,8 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 ## 主要发现
 
 > [!success]
-> - 21 世纪 [[Single-Case Design|SCD]] 生产的（新）[[Geopolitics of Knowledge|知识地缘政治]]主体性具有三个核心特征：对关键技能的**意愿**和竞争准备；以**结果导向技能**为首要焦点以增强[[Employability|就业力]]和[[Self-Entrepreneur|自我企业家]]精神；推广一套适用于全球议题但忽视区域需求的**同质化技能**集合(p.263)。
-> - 新自由主义对教育的工具化和对社会的深层原子化共同构成了正在发生的更大范围的[[Paradigm|范式]]转型(p.265)。
+> - 21 世纪 [[Single-Case Design\|SCD]] 生产的（新）[[Geopolitics of Knowledge\|知识地缘政治]]主体性具有三个核心特征：对关键技能的**意愿**和竞争准备；以**结果导向技能**为首要焦点以增强[[Employability\|就业力]]和[[Self-Entrepreneur\|自我企业家]]精神；推广一套适用于全球议题但忽视区域需求的**同质化技能**集合(p.263)。
+> - 新自由主义对教育的工具化和对社会的深层原子化共同构成了正在发生的更大范围的[[Paradigm\|范式]]转型(p.265)。
 > - 对（新）知识地缘政治的抵抗起点在于质疑其根本前提——即将主体定义为"知识承载者"（knowledge-bearers）。
 
 ## 局限性与批评

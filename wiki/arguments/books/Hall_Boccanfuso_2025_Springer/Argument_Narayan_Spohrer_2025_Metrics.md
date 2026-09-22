@@ -21,6 +21,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Normal School]]"
   - "[[Data Infrastructure]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Industry Co-location]]"
   - "[[Paradigm]]"
@@ -57,7 +58,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -71,9 +72,9 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 产学关系中的度量指标（metrics）、激励（incentives）、奖励（rewards）和文化（culture）是需要随企业商业环境和战略重点不断调适的动态系统。IBM 在过去百年间多次重新设计其全球大学项目（Global University Program, GUP），每一次调整都面临同一个问题：商业条件变化时，如何重新校准这四个要素，使[[University-Industry Collaboration|产学合作]]对双方持续产生实际影响力（impact），而不只是走形式？(p.85)
+> 产学关系中的度量指标（metrics）、激励（incentives）、奖励（rewards）和文化（culture）是需要随企业商业环境和战略重点不断调适的动态系统。IBM 在过去百年间多次重新设计其全球大学项目（Global University Program, GUP），每一次调整都面临同一个问题：商业条件变化时，如何重新校准这四个要素，使[[University-Industry Collaboration\|产学合作]]对双方持续产生实际影响力（impact），而不只是走形式？(p.85)
 >
-> 四个要素之间存在相互制约的关系。度量指标若不能区分短期产出与长期影响，合作就会偏向容易计数的表面成果，比如论文数量和会议次数，忽略[[Knowledge Co-production|知识共创]]的深层价值。激励若不能在组织和个人两个层面同时对齐，合作就会在某一方失去动力：企业给了资金和设备，但教师个人的学术声誉和职称晋升与这些合作无关，他凭什么投入精力？奖励若不能与双方各自的职业晋升和战略目标挂钩，就难以持续。文化若不能以信任和互敬为根基，合作就经不起摩擦和失败。
+> 四个要素之间存在相互制约的关系。度量指标若不能区分短期产出与长期影响，合作就会偏向容易计数的表面成果，比如论文数量和会议次数，忽略[[Knowledge Co-production\|知识共创]]的深层价值。激励若不能在组织和个人两个层面同时对齐，合作就会在某一方失去动力：企业给了资金和设备，但教师个人的学术声誉和职称晋升与这些合作无关，他凭什么投入精力？奖励若不能与双方各自的职业晋升和战略目标挂钩，就难以持续。文化若不能以信任和互敬为根基，合作就经不起摩擦和失败。
 >
 > 这一章的核心论证可以概括为：度量、激励、奖励与文化随商业环境演进，通过六 R 框架校准，按投资规模分层运行的动态系统。
 
@@ -82,11 +83,11 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 基于 IBM 百年产学实践的归纳提炼，同时整合系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
+> 基于 IBM 百年产学实践的归纳提炼，同时整合系统[[Literature Review\|文献综述]]对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
 > - [[University-Industry Collaboration]] 作为分析的组织领域，度量、激励、奖励与文化是维持产学关系质量的四个相互关联的维度
 > - [[Six Rs of University-Industry Relations]] 由 [[Jim Spohrer]](2010)提出，将 IBM 的产学投资按功能分为七个领域(pp.88–89, 97)：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展），外加 Refresh（更新）作为动态调适维度
 >
-> 六 R 框架为每个领域提供了可量化的度量指标，使"动态校准"从模糊的管理直觉变成可操作的系统行为。Research 看联合出版物和合作协议数量；Readiness 看参加培训认证的学生和教师数；Recruiting 看年度实习和全职招聘的长期趋势；Revenue 看对大学的硬件、软件和服务销售；Responsibility 看员工担任客座教师、顾问委员会和行业导师的人数；Regions 看[[Public-Private Partnership in Research|公私合作伙伴关系]]数量。Refresh，作为第七个 R，看新项目启动数、现有项目成功排名和旧项目终止数，以此反映组织对市场变化的响应速度和决断力(pp.96–97)。
+> 六 R 框架为每个领域提供了可量化的度量指标，使"动态校准"从模糊的管理直觉变成可操作的系统行为。Research 看联合出版物和合作协议数量；Readiness 看参加培训认证的学生和教师数；Recruiting 看年度实习和全职招聘的长期趋势；Revenue 看对大学的硬件、软件和服务销售；Responsibility 看员工担任客座教师、顾问委员会和行业导师的人数；Regions 看[[Public-Private Partnership in Research\|公私合作伙伴关系]]数量。Refresh，作为第七个 R，看新项目启动数、现有项目成功排名和旧项目终止数，以此反映组织对市场变化的响应速度和决断力(pp.96–97)。
 >
 > 六 R 框架的具体活动形式取决于企业可投入的资源规模和合作的时间尺度。Table 5.1(p.88)将产学合作的可选项目按资源大小和时间长短两个维度做了矩阵式排列：
 >
@@ -112,14 +113,14 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 实践者反思，基于 IBM 全球大学项目团队（遍布 45 个国家、百余名专职人员）数十年的运营经验，辅以系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究梳理(pp.86–88)。案例部分按投资规模分类呈现：小型（<$250K/年）、中型（$250K–$1M/年）、大型（>$1M/年），每个案例说明其目标、度量方式和创新元素(pp.91–95)。本章属于实践者反思文章，不涉及实证数据收集或分析方法。
+> 实践者反思，基于 IBM 全球大学项目团队（遍布 45 个国家、百余名专职人员）数十年的运营经验，辅以系统[[Literature Review\|文献综述]]对度量、激励、奖励和文化四个主题的研究梳理(pp.86–88)。案例部分按投资规模分类呈现：小型（<$250K/年）、中型（$250K–$1M/年）、大型（>$1M/年），每个案例说明其目标、度量方式和创新元素(pp.91–95)。本章属于实践者反思文章，不涉及实证数据收集或分析方法。
 
 ---
 
 ## 论证结构
 
 > [!example] 核心论证
-> 论证可以拆解为"一个起点 → 两个前提 → 核心机制 → 一个延伸 → 前瞻判断"的逻辑链。起点是[[University-Industry Collaboration|产学合作]]双方天然的目标差异，两个前提分别来自 IBM 自身经验和系统[[Literature Review|文献综述]]，核心机制是六 R 框架如何实现动态校准，延伸则揭示[[Translational Research|转化研究]]缺口和 T 型技能需求这两个新出现的结构性挑战，最后以前瞻判断收束。
+> 论证可以拆解为"一个起点 → 两个前提 → 核心机制 → 一个延伸 → 前瞻判断"的逻辑链。起点是[[University-Industry Collaboration\|产学合作]]双方天然的目标差异，两个前提分别来自 IBM 自身经验和系统[[Literature Review\|文献综述]]，核心机制是六 R 框架如何实现动态校准，延伸则揭示[[Translational Research\|转化研究]]缺口和 T 型技能需求这两个新出现的结构性挑战，最后以前瞻判断收束。
 
 ### 起点：产学双方目标有交集但不对齐，因此必须持续调适
 
@@ -151,7 +152,7 @@ citation_aliases:
 
 7. 信任与互敬是成功的基础，合同保障是必要的补充(Hemmert et al., 2014, 转引自 pp.87–88)。信任本身也在演化。当一些企业的市场力量堪比国家时，"感知到的公平性"（perceived fairness）成为信任建设中日益重要的因素(Clauss et al., 2024, 转引自 p.88)。当合作一方明显比另一方强大得多，弱势方会格外关注收益分配是否公平，而不只是收益的绝对大小。
 
-> 一所地方[[Normal School|师范学院]]与一家全球科技巨头合作开发教师培训 AI 工具。如果合作协议中所有知识产权归属企业、大学仅获得"参与荣誉"，这种安排即使短期内大学接受了，长期看也很难维持教师和研究者的投入热情，因为"公平感"已经被侵蚀了。
+> 一所地方[[Normal School\|师范学院]]与一家全球科技巨头合作开发教师培训 AI 工具。如果合作协议中所有知识产权归属企业、大学仅获得"参与荣誉"，这种安排即使短期内大学接受了，长期看也很难维持教师和研究者的投入热情，因为"公平感"已经被侵蚀了。
 
 ---
 
@@ -196,7 +197,7 @@ citation_aliases:
 
 > 在教育领域也存在类似的度量错配。一所大学的教育学院与一所小学合作开展阅读教学实验，每年经费可能只有几万元，属于典型的小型项目。如果大学的科研处要求这份合作也走横向项目的完整合同流程（知识产权归属、间接成本核算、法律审查），审批周期可能比项目本身还长。最终教师干脆放弃签协议、私下帮忙。教师是有合作意愿的，但度量和审批制度没有按规模分层。小型项目需要的不是更松的标准，而是不同的标准：更轻的流程、更快的审批、更匹配的度量。
 
-15. 中型项目（$250K–$1M/年）的特征是涉及一个科系的多位教授和研究生，目标是帮助企业实验室启动一个新研究领域并建立能力中心。Rensselaer-IBM 人工智能研究合作（Artificial Intelligence Research Collaboration, AIRC）暨计算未来研究所（Future of Computing Institute, FOCI）是这一规模的代表性案例。
+15. 中型项目（$250K–$1M/年）的特征是涉及一个科系的多位教授和研究生，目标是帮助企业实验室启动一个新研究领域并建立能力中心。Rensselaer-IBM 人工智能研究合作（[[Generative Artificial Intelligence|Artificial Intelligence]] Research Collaboration, AIRC）暨计算未来研究所（Future of Computing Institute, FOCI）是这一规模的代表性案例。
 
 > [!example] Rensselaer-IBM AIRC/FOCI（中型 · 能力中心建设）
 > 致力于推进 AI 科学并促进 AI 和机器学习在双方共同感兴趣的研究调查、创新和应用中的使用(p.92)。这类广泛合作的成功依赖于双方高层的承诺。AIRC 项目由一位 IBM 高管和伦斯勒理工学院（Rensselaer Polytechnic Institute, RPI）的研究副校长共同推动；技术议程由一位 IBM Fellow and RPI 的首席信息官联合监督；另设项目管理者负责推进日常运行和度量产出。这种三层治理结构（高管驱动 → 技术专家监督 → 项目经理执行）是中型项目区别于小型项目的关键特征：小型项目靠研究者个人关系运转，中型项目需要制度化的治理才能协调多位教授和研究生的产出。
@@ -210,13 +211,13 @@ citation_aliases:
 > [!example] IIDAI（大型 · 平台驱动型）
 > 伊利诺伊-IBM 发现加速器研究所（IBM-Illinois Discovery Accelerator Institute, IIDAI）于 2021 年秋季成立，最初设有四个研究推进方向：混合云与 AI、量子计算、材料发现、可持续性，每个方向旨在加速对复杂全球挑战的解决方案发现(p.93)。2023 年，研究所进入新阶段，将活动重新聚焦于开发一个开放式高性能计算平台以支持 AI 注入的应用。该平台将在基础设施层连接经典计算和量子计算，同时提供优化的 AI 模型训练和推理能力。这一平台战略有一个重要的组织后果：它为项目选择提供了筛选标准。每个与 AI 相关的项目都可以申请资助，但只有能够利用或贡献于这个开放计算平台的项目才被优先考虑。平台既是技术基础设施，也是项目组合的管理工具。IIDAI 的度量体系跨越了六 R 框架中的多个领域：联合出版物和研究生论文属于 Research and Readiness，外部实习和博士后派驻 IBM 属于 Recruiting，IBM 研究人员在大学授课和影响课程设置属于 Responsibility，联合申请外部资金则涉及 Revenue and Regions(pp.93–94)。
 
-> [!example] MIT-IBM Watson AI Lab（大型 · [[Industry Affiliate Program|产业联盟]]型）
-> 该实验室成立于 2017 年，目前管理超过 80 个项目，重点是基于数据驱动的深度学习方法理解语言和视觉世界，以及使大规模 AI 系统更高效和鲁棒的技术(p.93)。实验室还开发面向医疗保健和各种决策应用的 AI 系统。2021 年，IBM 研究团队搬入 MIT 校园内 [[Kendall Square]] 的新办公室，与 MIT 师生同址办公(p.94)。这种物理共址（[[University-Industry Co-location|co-location]]）旨在降低日常沟通的摩擦成本。该案例最显著的创新是其产业成员模式：Shell、Evonik、Wells Fargo、Boston Scientific、Nexplore、Woodside 等大企业作为成员加入，在顾问委员会中拥有席位，通过领域知识影响研究组合(pp.94–95)。成员企业的收益分三个层次：第一，可商用 IP 条款——与通常只能非商业使用的开源代码不同，该合作中开发的 IP 可用于构建专有技术以产生商业影响；第二，IBM 科学家为成员企业提供战略咨询和规模化路径建议；第三，成员企业可参加研讨会、教程和网络研讨会以发展内部 AI 技能。度量的核心是成员企业数量、成员企业对价值的反馈、以及 IP 被产业采纳的案例数，这些都是论文数之外的新维度。
+> [!example] MIT-IBM Watson AI Lab（大型 · [[Industry Affiliate Program\|产业联盟]]型）
+> 该实验室成立于 2017 年，目前管理超过 80 个项目，重点是基于数据驱动的深度学习方法理解语言和视觉世界，以及使大规模 AI 系统更高效和鲁棒的技术(p.93)。实验室还开发面向医疗保健和各种决策应用的 AI 系统。2021 年，IBM 研究团队搬入 MIT 校园内 [[Kendall Square]] 的新办公室，与 MIT 师生同址办公(p.94)。这种物理共址（[[University-Industry Co-location\|co-location]]）旨在降低日常沟通的摩擦成本。该案例最显著的创新是其产业成员模式：Shell、Evonik、Wells Fargo、Boston Scientific、Nexplore、Woodside 等大企业作为成员加入，在顾问委员会中拥有席位，通过领域知识影响研究组合(pp.94–95)。成员企业的收益分三个层次：第一，可商用 IP 条款——与通常只能非商业使用的开源代码不同，该合作中开发的 IP 可用于构建专有技术以产生商业影响；第二，IBM 科学家为成员企业提供战略咨询和规模化路径建议；第三，成员企业可参加研讨会、教程和网络研讨会以发展内部 AI 技能。度量的核心是成员企业数量、成员企业对价值的反馈、以及 IP 被产业采纳的案例数，这些都是论文数之外的新维度。
 
-> [!example] Albany NanoTech / NY [[CREATES Project|CREATES]]（大型 · 国家战略型）
+> [!example] Albany NanoTech / NY [[CREATES Project\|CREATES]]（大型 · 国家战略型）
 > 这是 IBM、纽约州政府与多所学术机构之间持续超过 20 年的半导体研发合作伙伴关系(pp.94–95)。该设施由纽约研究、经济促进、技术、工程与科学中心（Center for Research, Economic Advancement, Technology, Engineering and Science, NY CREATES）拥有和运营，是美国最大和最先进的非营利半导体研发设施之一。自成立以来，Albany NanoTech 园区的资本投资已超过 $150 亿，NY CREATES 的年度运营预算约 $3 亿且仍在增长(p.95)。园区企业合作伙伴包括 GlobalFoundries、Samsung、Applied Materials、Tokyo Electron、ASML and Lam Research，形成了完整的半导体制造生态。最新的技术突破是纳米片（nanosheet），铺平了通向 2 纳米节点的道路。该合作还包含大量的劳动力培训维度，纽约州政府的重大投资正是出于这一考量。州政府关心的不仅是一篇论文或一项专利，而是半导体产业在纽约州创造的就业机会和技术人才储备。度量的重点因利益相关方而异：对企业，看先进制程的研发进展；对州政府，看就业和经济带动效应；对大学，看研究机会和学生就业。这种多利益相关方、多度量维度的复杂性，正是大型项目区别于中型项目的根本特征。
 
-> 三个大型案例放在教育语境下，对应着不同的合作[[Paradigm|范式]]。IIDAI 的平台驱动模式，类似一所师范大学与全省若干县市教育局共建教育数据平台——平台是共享基础设施，各县市在此之上开发自己的应用。MIT-IBM 的产业联盟模式，类似教育学院联合多家教育科技企业、出版商和公益基金会共建教育创新实验室，每家成员带来不同的领域知识和资源，共享研究成果和 IP。Albany 的国家战略模式，类似国家层面推动的区域教师发展中心——长期、大资本投入、政府深度参与、关键是产业生态的培育而不仅是短期项目成果。
+> 三个大型案例放在教育语境下，对应着不同的合作[[Paradigm\|范式]]。IIDAI 的平台驱动模式，类似一所师范大学与全省若干县市教育局共建教育数据平台——平台是共享基础设施，各县市在此之上开发自己的应用。MIT-IBM 的产业联盟模式，类似教育学院联合多家教育科技企业、出版商和公益基金会共建教育创新实验室，每家成员带来不同的领域知识和资源，共享研究成果和 IP。Albany 的国家战略模式，类似国家层面推动的区域教师发展中心——长期、大资本投入、政府深度参与、关键是产业生态的培育而不仅是短期项目成果。
 
 17. 将三个规模层次放在一起，可以得出一个推论：没有一套普适的产学合作度量指标。小型项目需要轻量化度量，核心看人才和论文，IP 条款的过度谈判反而阻碍合作启动。中型项目的度量需要增加治理维度，包括建立能力中心的速度和研究生管道的制度保障。大型项目的度量是多维的，需要同时[[Cohort Study|追踪研究]]产出、产业生态建设、经济利益相关方参与和外部资金撬动。度量的原则是匹配投资规模和合作性质，按场景选择合适的度量组合(p.91)。
 
@@ -230,7 +231,7 @@ citation_aliases:
 
 20. IBM 自身的经历为这一缺口提供了强有力的证据。IBM 在 1990–2020 年间连续近三十年位居美国专利数量榜首，但专利领导力并未匹配同等的产品创新成功：专利很多，变成畅销产品的很少(p.95)。一个关键的结构性因素是研究部门的人员构成：博士与学士/硕士的比例传统上约为 70/30。博士擅长提出新想法和发表论文，但将想法转化为可制造、可测试的原型，更多需要的是工程师技能，而这恰是学士和硕士训练的重心。IBM 近年刻意将这一比例调整为接近 50/50，希望加强转化研究能力。
 
-> 在教育领域，这个缺口同样存在。教育研究者发表大量关于"[[Effective Teaching|有效教学]]策略"的论文，但这些研究发现与教师可直接使用的课堂实践之间，缺少关键环节。研究论文的语言（[[Effect Size|效应量]]、p 值、调节[[Variable|变量]]）与教师的日常决策语言（"这个班纪律差怎么办""这篇课文学生读不懂怎么办"）之间存在巨大的翻译鸿沟。教育领域同样需要转化研究的能力，将研究发现翻译为教师和校长可操作的实践指南。
+> 在教育领域，这个缺口同样存在。教育研究者发表大量关于"[[Effective Teaching\|有效教学]]策略"的论文，但这些研究发现与教师可直接使用的课堂实践之间，缺少关键环节。研究论文的语言（[[Effect Size\|效应量]]、p 值、调节[[Variable\|变量]]）与教师的日常决策语言（"这个班纪律差怎么办""这篇课文学生读不懂怎么办"）之间存在巨大的翻译鸿沟。教育领域同样需要转化研究的能力，将研究发现翻译为教师和校长可操作的实践指南。
 
 21. 第二个挑战：学科交叉创新正在加速，但人才培养体制严重滞后。大学院系高度筒仓化（siloed），学位要求偏向单一系所的课程。一个物理学博士生很难选修社会学课程并计入毕业要求，尽管他的研究方向是"科学教育"这样天然跨学科的领域(p.96)。与此同时，AI 等领域的突破越来越多发生在学科交叉地带：AI+医疗、AI+教育、AI+材料科学，每个方向都需要既懂技术又懂领域的人才。
 
@@ -257,8 +258,8 @@ citation_aliases:
 > [!success]
 > 1. 产学关系的度量、激励、奖励与文化是需要随企业商业环境和战略重点持续调适的动态系统。IBM 从 2000 年代的全球整合企业到 2010 年代的认知计算与混合云，每一次战略转型都要求重新校准六 R 投资组合中各领域的权重(pp.88, 96–97)。
 > 2. 度量指标随投资规模发生质变。小型项目（<$250K）以出版物和人才招聘为核心度量，IP 条款的过度谈判反而阻碍合作启动；中型项目（$250K–$1M）以建立能力中心的时间和研究生管道为核心；大型项目（>$1M）以合作密度、产业成员数量和外部资金撬动为核心(pp.91–95)。
-> 3. 信任是[[University-Industry Collaboration|产学合作]]的根基，IBM 通过中央数据库为 2000 余所高校维护投资历史和成果全景，使每位 PEP 主管在访问大学前都能获取量化的关系数据。信任的可[[Operationalization|操作化]]正是六 R 框架背后的[[Data Infrastructure|数据基础设施]](p.89)。
-> 4. [[Translational Research|转化研究]]存在系统性技能缺口：学术机构缺乏将 IP 连接到产业需求的动机和路径，企业研究部门缺乏将研究创新推向硬化产品的工程师。IBM 通过将博士与学士/硕士的比例从 70/30 调整至接近 50/50 来应对这一缺口，但更根本的解决方案需要改革大学的人才培养结构，包括推动 T 型技能的发展(pp.95–96)。
+> 3. 信任是[[University-Industry Collaboration\|产学合作]]的根基，IBM 通过中央数据库为 2000 余所高校维护投资历史和成果全景，使每位 PEP 主管在访问大学前都能获取量化的关系数据。信任的可[[Operationalization\|操作化]]正是六 R 框架背后的[[Data Infrastructure\|数据基础设施]](p.89)。
+> 4. [[Translational Research\|转化研究]]存在系统性技能缺口：学术机构缺乏将 IP 连接到产业需求的动机和路径，企业研究部门缺乏将研究创新推向硬化产品的工程师。IBM 通过将博士与学士/硕士的比例从 70/30 调整至接近 50/50 来应对这一缺口，但更根本的解决方案需要改革大学的人才培养结构，包括推动 T 型技能的发展(pp.95–96)。
 > 5. AI 可能通过数字孪生改变产学合作的形式和效率。核心逻辑不变：信任加上有效使用 AI 的服务提供者将取代仅有信任或仅依赖 AI 的任何一方(p.97)。
 
 ---
@@ -275,8 +276,8 @@ citation_aliases:
 > > “人工智能（AI）不会取代服务提供商（如产业研究人员、大学教员等），但是有效且符合伦理地使用 AI 的值得信赖的服务提供商，将取代那些不这么做的人。”
 > ("AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't.")(Rouse & Spohrer, 2018, 转引自 p.97)
 >
-> > “成功孕育成功。与人才流动、宣传、出版物和商业产品的增加相关的指标突出了共同创造的新知识，这些是代代相传地重塑[[University-Industry Collaboration|产学合作]]文化中最关键的成果。”
-> ("Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation.")
+> > “成功孕育成功。与人才流动、宣传、出版物和商业产品的增加相关的指标突出了共同创造的新知识，这些是代代相传地重塑[[University-Industry Collaboration\|产学合作]]文化中最关键的成果。”
+> ("Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration\|UI collaboration]] generation after generation.")
 >
 > > “商业条件和重点的每一次变化，都需要调整6 R投资选项，并重新校准指标、激励、奖励和文化以适应时代。”
 > ("Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times.")
@@ -292,7 +293,7 @@ citation_aliases:
 >
 > ### 单一企业视角的归纳局限
 >
-> 全文基于 IBM 一家的经验归纳。作者声称六 R 框架"可应用于其他企业"(p.85)，但未提供跨行业比较的证据支撑。不同行业（制造、制药、金融）的[[University-Industry Collaboration|产学合作]]可能面临不同的约束条件，作者未讨论框架迁移时可能需要哪些调适。
+> 全文基于 IBM 一家的经验归纳。作者声称六 R 框架"可应用于其他企业"(p.85)，但未提供跨行业比较的证据支撑。不同行业（制造、制药、金融）的[[University-Industry Collaboration\|产学合作]]可能面临不同的约束条件，作者未讨论框架迁移时可能需要哪些调适。
 >
 > ### AI 前瞻的推测性质
 >

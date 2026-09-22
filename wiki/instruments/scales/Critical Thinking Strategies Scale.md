@@ -47,17 +47,17 @@ updated: 2026-08-03
 
 ## 工具定位
 
-> [!instrument-profile] [[Critical Thinking|批判性思维]]策略量表
+> [!instrument-profile] [[Critical Thinking\|批判性思维]]策略量表
 > - **工具类型** 十四题自陈量表，依据 Delphi Report 的批判性思维技能框架开发。
-> - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
-> - **测量目的** 测量学生自报在[[Problem Solving|问题解决]]和论证过程中使用批判性思维策略的可能性。
+> - **开发者与年份** [[Argument_Cole_2015_AJE\|Cole et al. (2015)]]。
+> - **测量目的** 测量学生自报在[[Problem Solving\|问题解决]]和论证过程中使用批判性思维策略的可能性。
 > - **实施方式** 自陈。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]
+> [!construct-table] [[Critical Thinking\|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -71,8 +71,8 @@ updated: 2026-08-03
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 每题描述一种可能采取的[[Critical Thinking|批判性思维]]行动。
-> - **作答格式** 七点 Likert 量表，1 表示不太可能，7 表示极有可能。[[Argument_Cole_2015_AJE|(Cole et al., 2015, p. 252)]]
+> - **题项形式** 每题描述一种可能采取的[[Critical Thinking\|批判性思维]]行动。
+> - **作答格式** 七点 Likert 量表，1 表示不太可能，7 表示极有可能。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 252)]]
 > - **反向题与跳题** —
 
 ### 批判性思维策略使用

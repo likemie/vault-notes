@@ -52,11 +52,11 @@ updated: 2026-08-29
 
 ## 工具定位
 
-> [!instrument-profile] 教师[[Research Literacy|研究素养]]量表（Research Literacy Scale for Teachers, RLS）
+> [!instrument-profile] 教师[[Research Literacy\|研究素养]]量表（Research Literacy Scale for Teachers, RLS）
 > - **工具类型** 自陈量表（5 级李克特等级量表）。
-> - **开发者与年份** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]]。
-> - **测量目的** 评估中小学在职教师在理解、评价、开展科研并将其应用于专业教学实践中的综合[[Research Literacy|研究素养]]水平。
-> - **实施方式** 纸笔或在线自陈[[Questionnaire|问卷]]施测。
+> - **开发者与年份** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]。
+> - **测量目的** 评估中小学在职教师在理解、评价、开展科研并将其应用于专业教学实践中的综合[[Research Literacy\|研究素养]]水平。
+> - **实施方式** 纸笔或在线自陈[[Questionnaire\|问卷]]施测。
 
 ---
 
@@ -78,7 +78,7 @@ updated: 2026-08-29
 
 > [!instrument-items] 作答规则
 > - **题项形式** 行为与信念自陈陈述句。
-> - **作答格式** 5 级[[Likert Scale|李克特量表]]（1 = 完全不同意，2 = 不同意，3 = 中立/不确定，4 = 同意，5 = 完全同意）。
+> - **作答格式** 5 级[[Likert Scale\|李克特量表]]（1 = 完全不同意，2 = 不同意，3 = 中立/不确定，4 = 同意，5 = 完全同意）。
 > - **反向题与跳题** 最终 20 题均为正向计分题，无跳题逻辑；支持各维度均分计算与二阶总分计算。
 
 ---

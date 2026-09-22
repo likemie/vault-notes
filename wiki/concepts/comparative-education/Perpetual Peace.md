@@ -72,21 +72,21 @@ updated: 2026-09-17
 永久和平（Perpetual Peace，德语：*Zum ewigen Frieden*），是指发端于 18 世纪欧洲[[Enlightenment|启蒙哲学]]、并在 19 世纪初现代比较教育学与国际政治理论发轫期确立的超国家治理与国际道德秩序构想。
 
 > [!def] 核心定义
-> 永久和平是人类历史超越霍布斯式无政府野蛮战争状态的终极规范愿景。它主张持久的世界和平绝不能寄托于[[Realism in International Relations|现实主义]]短期的均势停火或霸权威慑，而必须建立在公民个体理性自主性的觉醒（启蒙）、主权国家内部共和立宪制度的确立、自由国家间的和平联盟（*foedus pacificum*），以及跨国教育交流与文明互鉴的基础之上，使教育成为预防流血暴力革命与消除国际武装冲突的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 20–24)]]；[[Argument_Klerides_2023_CE|Klerides (2023, pp. 418–419)]]
+> 永久和平是人类历史超越霍布斯式无政府野蛮战争状态的终极规范愿景。它主张持久的世界和平绝不能寄托于[[Realism in International Relations\|现实主义]]短期的均势停火或霸权威慑，而必须建立在公民个体理性自主性的觉醒（启蒙）、主权国家内部共和立宪制度的确立、自由国家间的和平联盟（*foedus pacificum*），以及跨国教育交流与文明互鉴的基础之上，使教育成为预防流血暴力革命与消除国际武装冲突的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20–24)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称超越单一民族国家利益局限、将消除有组织战争暴力与实现人类大同确立为历史终极目标的伦理承诺与超国家制度设计。
-> - **用途** 揭示现代比较教育学始祖[[Marc-Antoine Jullien|马克-安托万·朱利安]]为何将跨国事实调查表、常设特别教育委员会与多语种通报网络构想为防范政治动荡的实践工具，确立比较教育学在发端期深嵌于世界和平治理的崇高人道主义问题域。
+> - **用途** 揭示现代比较教育学始祖[[Marc-Antoine Jullien\|马克-安托万·朱利安]]为何将跨国事实调查表、常设特别教育委员会与多语种通报网络构想为防范政治动荡的实践工具，确立比较教育学在发端期深嵌于世界和平治理的崇高人道主义问题域。
 > - **边界** 严格区别于国际现实主义通过武力威慑达成的暂时休战（Armistice / Negative Peace）；永久和平追求的是消弭战争根源、建立在制度性法权互信与世界公民认同之上的积极结构性和平（Positive Peace）。
 
 > [!citation-card]- 关键表述：跨国比较探究作为消除野蛮战争的基础设施
-> 马克-安托万·朱利安在 1833 年《致英格兰民族书》中将比较解剖学类比升华为崇高的世界和平事业：正如居维叶通过比较解剖学推动了自然科学的巨大飞跃，唯有“比较文明学”与跨国教育探究才能加速推进当下的文明，荡涤其依旧保留的深重而令人痛心的旧时代野蛮战争残余。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 23–24)]]；引自 Palmer (1993:205)
+> 马克-安托万·朱利安在 1833 年《致英格兰民族书》中将比较解剖学类比升华为崇高的世界和平事业：正如居维叶通过比较解剖学推动了自然科学的巨大飞跃，唯有“比较文明学”与跨国教育探究才能加速推进当下的文明，荡涤其依旧保留的深重而令人痛心的旧时代野蛮战争残余。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 23–24)]]；引自 Palmer (1993:205)
 >
 > *Our illustrious and learned CUVIER ... had rightly judged ... that only comparative anatomy and comparative geology could advance the sciences ... Similarly, only comparative civilization can speedily advance our present civilization, which still preserves, despite its brilliant and imposing wonders, the deep and afflicting traces of the old barbarism.*
 
 > [!boundary]- 概念边界
 > - 不等于均势制衡（Balance of Power） — 均势制衡将战争视为主权国家博弈的常态延续手段，属于不稳定的停火间隙；永久和平在法哲学上彻底剥夺非正义战争的合法性地位。
-> - 不等于消灭国家主权的世界专制帝国（Cosmopolitan Super-State） — [[Immanuel Kant|康德]]与朱利安坚决反对建立抹杀文化多样性的大一统世界国家，明确主张永久和平依托于保持自治的自由共和国联邦与跨国协作治理网络。
+> - 不等于消灭国家主权的世界专制帝国（Cosmopolitan Super-State） — [[Immanuel Kant\|康德]]与朱利安坚决反对建立抹杀文化多样性的大一统世界国家，明确主张永久和平依托于保持自治的自由共和国联邦与跨国协作治理网络。
 
 ---
 
@@ -109,10 +109,10 @@ updated: 2026-09-17
 永久和平思想在 19 世纪比较教育发轫期展现为四大相互支撑的操作支柱：
 
 > [!feature] 核心要素
-> - **普遍启蒙与理性的公共运用（Universal [[Enlightenment]] and Public Reason）** [[Immanuel Kant|康德]]确立“Sapere aude! 敢于求知”的启蒙命题，主张人唯有摆脱教条盲从、享有在一切事务中公开运用理性的自由，公众才能达成自觉启蒙，从而铲除煽动沙文狂热与非理性战争的心智温床。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]
-> - **教育作为暴力革命与战争的理性替代品（Education as a Substitute for Revolution）** [[Marc-Antoine Jullien|朱利安]]经历法国大革命恐怖统治与拿破仑帝国战争的幻灭后提出教育预防论，主张政治暴动不能带来真正自由，唯有依托初等与[[Normal School|师范教育]]普及道德感化与自然人道法则，方能构筑起抵御社会动荡与流血侵略的心灵防线。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 20–22)]]
-> - **跨国比较观察与超国家治理网络（Transnational Comparative Infrastructure）** 朱利安在 1817 年《计划》中系统构想包含跨国比较观察表、常设特别教育委员会（Special Commission on Education）、示范师训学院与多语种通报期刊（*[[Revue encyclopédique]]*）的超国家制度架构，开创了通过跨国教育信息流通消除民族偏狭的早期组织模型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 21–23)]]
-> - **世界公民认同与人类博爱共同体（Cosmopolitan Citizenship and Human Fraternity）** 倡导受教育者超越狭隘民族国家边界，以“世界公民（cosmopolites）”身份投身全球科学统一与道德进步事业，使跨国教育协作直接服务于全人类文明进化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 21–22)]]；[[Argument_Klerides_2023_CE|Klerides (2023, p. 418)]]
+> - **普遍启蒙与理性的公共运用（Universal [[Enlightenment]] and Public Reason）** [[Immanuel Kant\|康德]]确立“Sapere aude! 敢于求知”的启蒙命题，主张人唯有摆脱教条盲从、享有在一切事务中公开运用理性的自由，公众才能达成自觉启蒙，从而铲除煽动沙文狂热与非理性战争的心智温床。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 20)]]
+> - **教育作为暴力革命与战争的理性替代品（Education as a Substitute for Revolution）** [[Marc-Antoine Jullien\|朱利安]]经历法国大革命恐怖统治与拿破仑帝国战争的幻灭后提出教育预防论，主张政治暴动不能带来真正自由，唯有依托初等与[[Normal School\|师范教育]]普及道德感化与自然人道法则，方能构筑起抵御社会动荡与流血侵略的心灵防线。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20–22)]]
+> - **跨国比较观察与超国家治理网络（Transnational Comparative Infrastructure）** 朱利安在 1817 年《计划》中系统构想包含跨国比较观察表、常设特别教育委员会（Special Commission on Education）、示范师训学院与多语种通报期刊（*[[Revue encyclopédique]]*）的超国家制度架构，开创了通过跨国教育信息流通消除民族偏狭的早期组织模型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 21–23)]]
+> - **世界公民认同与人类博爱共同体（Cosmopolitan Citizenship and Human Fraternity）** 倡导受教育者超越狭隘民族国家边界，以“世界公民（cosmopolites）”身份投身全球科学统一与道德进步事业，使跨国教育协作直接服务于全人类文明进化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 21–22)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 
 > [!logic-map]- 永久和平的教育哲学与跨国治理机制图
 > ```mermaid
@@ -147,24 +147,24 @@ updated: 2026-09-17
 > [!concept-lens] 教育预防论与和平基础设施
 > 阐明启蒙思想家与比较教育始祖如何将抽象的永久和平哲学转化为具体的跨国教育制度网络与反战预防机制。
 
-> [!claim] [[Marc-Antoine Jullien|Jullien, M.]]-A.
-> **教育是预防流血革命与武装冲突的理性替代方案** 朱利安在目睹大革命雅各宾恐怖专政与拿破仑对外征伐的血腥浩劫后断言，孤立的政治强制与军事对抗无法带来真正的和平；唯有通过建立跨国比较教育网络、统一优秀教学法规程并推行全人体智德[[Bildung|教化]]，才能构筑起消除国际武装冲突与预防社会暴乱的心灵防线，使教育成为达致欧洲永久和平的决定性工具。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 20–24)]]；引自 Palmer (1993:205)
+> [!claim] [[Marc-Antoine Jullien\|Jullien, M.]]-A.
+> **教育是预防流血革命与武装冲突的理性替代方案** 朱利安在目睹大革命雅各宾恐怖专政与拿破仑对外征伐的血腥浩劫后断言，孤立的政治强制与军事对抗无法带来真正的和平；唯有通过建立跨国比较教育网络、统一优秀教学法规程并推行全人体智德[[Bildung\|教化]]，才能构筑起消除国际武装冲突与预防社会暴乱的心灵防线，使教育成为达致欧洲永久和平的决定性工具。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20–24)]]；引自 Palmer (1993:205)
 
-> [!claim] [[Immanuel Kant|Kant, I.]]
-> **普遍启蒙与世界主义法权的历史目的** 康德确立政治哲学命题：人类大自然的隐秘计划在于推动人类克服野蛮冲突的自然状态；而这一历史目的必须依托公众在一切事务中公开运用理性的启蒙自由，通过建立共和宪政联盟与世界公民款待权，逐步走向不可逆转的永久和平秩序。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE|Klerides (2023, p. 418)]]
+> [!claim] [[Immanuel Kant\|Kant, I.]]
+> **普遍启蒙与世界主义法权的历史目的** 康德确立政治哲学命题：人类大自然的隐秘计划在于推动人类克服野蛮冲突的自然状态；而这一历史目的必须依托公众在一切事务中公开运用理性的启蒙自由，通过建立共和宪政联盟与世界公民款待权，逐步走向不可逆转的永久和平秩序。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 
 ---
 
 ### 命题二　永久和平的世界主义伦理构成了比较教育学摆脱技术功利主义的不可让渡之认识论灵魂
 
 > [!concept-lens] 学科起源的伦理问题域
-> 批驳现代行为主义实证派将比较教育矮化为去价值化[[Artefact|器物]]借用与国家经济竞争的技术测量工具。
+> 批驳现代行为主义实证派将比较教育矮化为去价值化[[Artefact\|器物]]借用与国家经济竞争的技术测量工具。
 
-> [!claim] Wight, M. and [[Eleftherios Klerides|Klerides, E.]]
-> **[[Revolutionism|革命主义]]世界主义传统的道德激情** 怀特与克勒里德斯论证，康德所开创的革命主义传统赋予了比较教育一种强烈的道德使命感：比较教育绝非国家间争夺霸权的技术工具（[[Realism in International Relations|现实主义]]），亦非单纯维持现状的制度移植（[[Rationalism in International Relations|理性主义]]），而是一项旨在揭露不平等、促进全人类博爱与消除苦难的世界主义道德事业。[[Argument_Klerides_2023_CE|Klerides (2023, pp. 418–419, 426–429)]]
+> [!claim] Wight, M. and [[Eleftherios Klerides\|Klerides, E.]]
+> **[[Revolutionism\|革命主义]]世界主义传统的道德激情** 怀特与克勒里德斯论证，康德所开创的革命主义传统赋予了比较教育一种强烈的道德使命感：比较教育绝非国家间争夺霸权的技术工具（[[Realism in International Relations\|现实主义]]），亦非单纯维持现状的制度移植（[[Rationalism in International Relations\|理性主义]]），而是一项旨在揭露不平等、促进全人类博爱与消除苦难的世界主义道德事业。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419, 426–429)]]
 
-> [!claim] [[Robert Cowen|Cowen, R.]] and [[Andreas Kazamias|Kazamias, A.]] M.
-> **[[Educational Meliorism|教育改良主义]]对比较[[Epistemology|认识论]]问题域的本体奠基** 卡洛扬纳基与卡扎米亚斯指出，20 世纪逻辑实证派片面标榜“[[Value Neutrality|价值无涉]]”，抹杀了比较教育奠基先驱的崇高伦理灵魂；朱利安对跨国教育观察表的编制，其本体动因深嵌于消除大革命创伤、维系欧洲永久和平与促进人类福祉的“教育改良主义”之中，奠定了学科不可让渡的比较认识论问题域。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 24, 33–34)]]
+> [!claim] [[Robert Cowen\|Cowen, R.]] and [[Andreas Kazamias\|Kazamias, A.]] M.
+> **[[Educational Meliorism\|教育改良主义]]对比较[[Epistemology\|认识论]]问题域的本体奠基** 卡洛扬纳基与卡扎米亚斯指出，20 世纪逻辑实证派片面标榜“[[Value Neutrality\|价值无涉]]”，抹杀了比较教育奠基先驱的崇高伦理灵魂；朱利安对跨国教育观察表的编制，其本体动因深嵌于消除大革命创伤、维系欧洲永久和平与促进人类福祉的“教育改良主义”之中，奠定了学科不可让渡的比较认识论问题域。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 24, 33–34)]]
 
 ---
 
@@ -183,10 +183,10 @@ updated: 2026-09-17
 永久和平经历了从[[Enlightenment|启蒙哲学]]构想、比较教育发端实践到现代全球治理制度化的百年历程：
 
 > [!dev-timeline] 概念演变
-> - **1795 — [[Immanuel Kant|康德]]确立先验哲学法权框架** 发表《论永久和平》，系统确立以共和宪政为预设、以自由国家联盟为组织、以世界公民普遍款待权为纽带的三大先决条件。
-> - **1817–1833 — [[Marc-Antoine Jullien|朱利安]]开创比较教育实践化进路** 朱利安将康德启蒙理性与世界和平追求转化为具体的教育操作工程：提出常设特别教育委员会与比较观察表，创办《[[Revue encyclopédique|百科评论]]》，加入伦敦和平之友协会，呼吁以“比较文明学”推进世界永久和平。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 22–24)]]
-> - **1925–1945 — 两次世界大战创伤与国际组织实体化** 国际联盟日内瓦[[International Education|国际教育]]局（IBE, 1925）与[[UNESCO|联合国教科文组织]]（UNESCO, 1945）相继诞生；《联合国教科文组织宪章》庄严宣告“战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障”，使朱利安与康德的永久和平蓝图正式转化为战后国际教育治理的实体架构。
-> - **20世纪后期至今 — 批判比较教育与正义和平学拓展** 学术界深化了对消极和平与积极和平的区分；批判比较教育学者（如[[Dependency Theory|依附论]]与去殖民学派）承继康德[[Revolutionism|革命主义]]传统，致力于揭露全球资本与地缘不平等结构，开辟通往实质正义和平的多元教育实践。[[Argument_Klerides_2023_CE|Klerides (2023, pp. 426–429)]]
+> - **1795 — [[Immanuel Kant\|康德]]确立先验哲学法权框架** 发表《论永久和平》，系统确立以共和宪政为预设、以自由国家联盟为组织、以世界公民普遍款待权为纽带的三大先决条件。
+> - **1817–1833 — [[Marc-Antoine Jullien\|朱利安]]开创比较教育实践化进路** 朱利安将康德启蒙理性与世界和平追求转化为具体的教育操作工程：提出常设特别教育委员会与比较观察表，创办《[[Revue encyclopédique\|百科评论]]》，加入伦敦和平之友协会，呼吁以“比较文明学”推进世界永久和平。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 22–24)]]
+> - **1925–1945 — 两次世界大战创伤与国际组织实体化** 国际联盟日内瓦[[International Education\|国际教育]]局（IBE, 1925）与[[UNESCO\|联合国教科文组织]]（UNESCO, 1945）相继诞生；《联合国教科文组织宪章》庄严宣告“战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障”，使朱利安与康德的永久和平蓝图正式转化为战后国际教育治理的实体架构。
+> - **20世纪后期至今 — 批判比较教育与正义和平学拓展** 学术界深化了对消极和平与积极和平的区分；批判比较教育学者（如[[Dependency Theory\|依附论]]与去殖民学派）承继康德[[Revolutionism\|革命主义]]传统，致力于揭露全球资本与地缘不平等结构，开辟通往实质正义和平的多元教育实践。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 426–429)]]
 
 ---
 
@@ -200,9 +200,9 @@ updated: 2026-09-17
 > > - **世界主义人道派（Kant; Jullien）** 坚信人类理性的普遍觉醒与跨国教育协作能够逐步消除战争，将野蛮冲突转化为基于法权的持久善治。
 > > - **国际现实主义派（Morgenthau; Waltz）** 批评永久和平是脱离国家利益冲突与权力政治规律的启蒙自由主义天真乌托邦；指出只要国际体系处于无政府状态，国家安全自保与武装威慑便是不可逾越的冷酷现实。
 >
-> > [!axis] 普世道德激情 vs 传教干涉主义与[[Hegemony|文化霸权]]风险
-> > 怀特（Wight, 1992）敏锐指出[[Immanuel Kant|康德]][[Revolutionism|革命主义]]传统带有强烈的“传教性质（missionary character）”。
-> > - 批评学者指出，若将某种特定文明的“和平与启蒙标准”自封为普世真理，并将世界二分为“文明与野蛮”、“忠于者与阻碍者”，极易在历史上异化为殖民扩张、武力干涉与西方文化霸权的道义掩护。[[Argument_Klerides_2023_CE|Klerides (2023, pp. 418–419)]]
+> > [!axis] 普世道德激情 vs 传教干涉主义与[[Hegemony\|文化霸权]]风险
+> > 怀特（Wight, 1992）敏锐指出[[Immanuel Kant\|康德]][[Revolutionism\|革命主义]]传统带有强烈的“传教性质（missionary character）”。
+> > - 批评学者指出，若将某种特定文明的“和平与启蒙标准”自封为普世真理，并将世界二分为“文明与野蛮”、“忠于者与阻碍者”，极易在历史上异化为殖民扩张、武力干涉与西方文化霸权的道义掩护。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
 
 > [!warning] 适用边界与制度限度
 > 永久和平属于宏观规范性伦理哲学与超国家治理远景；在分析具体的民族国家主权博弈、地缘政治摩擦与微观政策冲突时，不能以抽象的道德和平抒情替代对国家权力结构、经济利益与社会阶层矛盾的具象实证剖析。
@@ -228,6 +228,6 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统考证[[Marc-Antoine Jullien|朱利安]]如何深受[[Immanuel Kant|康德]]启蒙自主性与[[Jean-Jacques Rousseau|卢梭]]自然主义触动，将比较教育建构为预防政治暴力、推动欧洲永久和平的准科学人道主义工程。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释马丁·[[Wight's Three Traditions of International Theory|怀特国际理论三大传统]]，揭示康德式[[Revolutionism|革命主义]]传统的世界主义道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统考证[[Marc-Antoine Jullien\|朱利安]]如何深受[[Immanuel Kant\|康德]]启蒙自主性与[[Jean-Jacques Rousseau\|卢梭]]自然主义触动，将比较教育建构为预防政治暴力、推动欧洲永久和平的准科学人道主义工程。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释马丁·[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]]，揭示康德式[[Revolutionism\|革命主义]]传统的世界主义道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。

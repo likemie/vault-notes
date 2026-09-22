@@ -68,14 +68,14 @@ updated: 2026-09-21
 
 ## 工具定位
 
-> [!instrument-profile] [[Nature of Science|科学本质观]][[Questionnaire|问卷]]（Views of Nature of Science Questionnaire, VNOS）
-> - **工具类型** 开放式[[Questionnaire|问卷]]结合[[Semi-structured Interview|半结构化访谈]]的质性测量工具（Open-ended Questionnaire supplemented with Semi-structured Interviews）。
+> [!instrument-profile] [[Nature of Science\|科学本质观]][[Questionnaire\|问卷]]（Views of Nature of Science Questionnaire, VNOS）
+> - **工具类型** 开放式[[Questionnaire\|问卷]]结合[[Semi-structured Interview\|半结构化访谈]]的质性测量工具（Open-ended Questionnaire supplemented with Semi-structured Interviews）。
 > - **开发者与年份** Lederman et al. (2002)。
-> - **测量目的** 评估学生与教师对[[Nature of Science|科学本质]]（Nature of Science, NOS）核心维度的理解水平，将被试的[[Formal Epistemology|形式认识论]]观点划分为素朴观（Naïve）、过渡观（In Transition）与知情观（Informed）。
-> - **实施方式** 纸笔或在线开放式文本自陈作答，配合针对部分被试的面对面半结构化追问访谈，以澄清文字表述背后的真实[[Epistemic Stances|认识论立场]]。
+> - **测量目的** 评估学生与教师对[[Nature of Science\|科学本质]]（Nature of Science, NOS）核心维度的理解水平，将被试的[[Formal Epistemology\|形式认识论]]观点划分为素朴观（Naïve）、过渡观（In Transition）与知情观（Informed）。
+> - **实施方式** 纸笔或在线开放式文本自陈作答，配合针对部分被试的面对面半结构化追问访谈，以澄清文字表述背后的真实[[Epistemic Stances\|认识论立场]]。
 
 > [!citation-card]- Lederman et al. 对 VNOS 开发逻辑与认识论立场的界定
-> 开放式问卷与访谈相结合的设计旨在避免强制选择式量表强加给被试特定哲学立场的弊端，使被试能够用自己的语言阐述科学是什么、科学知识如何产生以及科学主张如何被检验。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 638)]]
+> 开放式问卷与访谈相结合的设计旨在避免强制选择式量表强加给被试特定哲学立场的弊端，使被试能够用自己的语言阐述科学是什么、科学知识如何产生以及科学主张如何被检验。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 638)]]
 >
 > *The open-ended nature of the VNOS items, coupled with follow-up interviews, avoids the imposition of a particular philosophical stance on respondents and allows individuals to elucidate their views on the nature of science and the epistemological underpinnings of scientific knowledge in their own words (Lederman et al., 2002).*
 
@@ -104,8 +104,8 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 
 > [!instrument-items] 作答规则
 > - **题项形式** 开放式论述题（Open-ended Questions），采用情境诱导与启发性质询。
-> - **作答格式** 质性文字长文本阐述；施测后研究者随机抽取 15%–25% 的被试进行 15–30 分钟[[Semi-structured Interview|半结构化访谈]]，要求被试重述作答并解释关键词义。
-> - **反向题与跳题** 无跳题逻辑；题项设计常包含反直觉对比情境（如恐龙灭绝的不同理论解释、恐龙外观复原图的依据）以触发[[Epistemology|认识论]]深层思考。
+> - **作答格式** 质性文字长文本阐述；施测后研究者随机抽取 15%–25% 的被试进行 15–30 分钟[[Semi-structured Interview\|半结构化访谈]]，要求被试重述作答并解释关键词义。
+> - **反向题与跳题** 无跳题逻辑；题项设计常包含反直觉对比情境（如恐龙灭绝的不同理论解释、恐龙外观复原图的依据）以触发[[Epistemology\|认识论]]深层思考。
 
 ### 核心访谈与质性评估提纲
 

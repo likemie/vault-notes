@@ -86,17 +86,17 @@ updated: 2026-09-18
 ## 生平与职涯
 
 > [!note]-
-> - 中国[[Growth|成长]]，大学阶段学习德语文学([[Argument_Li_2012_Cambridge|Li, 2012, p.xiii]])
-> - 1977 年通过文革后首届[[Gaokao|高考]]，录取率约 4.7%（5,700,000 人报考, 27,000 人录取），被第二志愿——一所以外语著称的高校——录取([[Argument_Li_2012_Cambridge|Li, 2012, pp.2–3]])
-> - 大学四年主要由西德外教授课，课程设置贴近德国[[Didaktik|教学理论]]，实质接受了具有德国色彩的[[Liberal Education|博雅教育]]([[Argument_Li_2012_Cambridge|Li, 2012, p.3]])
-> - 大学期间学习德语语言、文学与西方艺术史，阅读歌德、席勒、海涅、卡夫卡、布莱希特等大量德语作家，同时接触莫扎特、贝多芬等西方音乐([[Argument_Li_2012_Cambridge|Li, 2012, p.4]])
-> - 大学毕业后留校教授德语数年，随后因婚姻移民美国([[Argument_Li_2012_Cambridge|Li, 2012, pp.5–6]])
-> - 初到美国时英语很差，在佛蒙特州高中担任代课教师（本应教德语却被安排了英语课），对美国学生对学习的冷漠态度感到震惊——这段经历后来成为研究议程的重要触发点([[Argument_Li_2012_Cambridge|Li, 2012, pp.6–7]])
-> - 在匹兹堡大学学习儿童[[Creativity Training|创造力培养]]([[Argument_Li_2012_Cambridge|Li, 2012, p.xiii, p.8]])
-> - 阅读 Howard Gardner 的《Frames of Mind》后决定申请哈佛大学教育学院，随后被录取，师从 Howard Gardner 与 [[Kurt Fischer]] 攻读人类发展与心理学博士([[Argument_Li_2012_Cambridge|Li, 2012, p.8]])
-> - 1990 年代末完成博士论文，以[[Heart and Mind for Wanting to Learn|好學心]]为核心研究概念([[Argument_Li_2012_Cambridge|Li, 2012, p.ix]])
-> - 现任布朗大学教授（[[Argument_Li_2012_Cambridge|Li, 2012]], 封面）
-> - 研究先后获 [[William T. Grant Foundation]]、Foundation for Child Development (FCD)、Chiang-ching Kuo Foundation、Spencer Foundation 资助([[Argument_Li_2012_Cambridge|Li, 2012, p.xii]])
+> - 中国[[Growth\|成长]]，大学阶段学习德语文学([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii]])
+> - 1977 年通过文革后首届[[Gaokao\|高考]]，录取率约 4.7%（5,700,000 人报考, 27,000 人录取），被第二志愿——一所以外语著称的高校——录取([[Argument_Li_2012_Cambridge\|Li, 2012, pp.2–3]])
+> - 大学四年主要由西德外教授课，课程设置贴近德国[[Didaktik\|教学理论]]，实质接受了具有德国色彩的[[Liberal Education\|博雅教育]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.3]])
+> - 大学期间学习德语语言、文学与西方艺术史，阅读歌德、席勒、海涅、卡夫卡、布莱希特等大量德语作家，同时接触莫扎特、贝多芬等西方音乐([[Argument_Li_2012_Cambridge\|Li, 2012, p.4]])
+> - 大学毕业后留校教授德语数年，随后因婚姻移民美国([[Argument_Li_2012_Cambridge\|Li, 2012, pp.5–6]])
+> - 初到美国时英语很差，在佛蒙特州高中担任代课教师（本应教德语却被安排了英语课），对美国学生对学习的冷漠态度感到震惊——这段经历后来成为研究议程的重要触发点([[Argument_Li_2012_Cambridge\|Li, 2012, pp.6–7]])
+> - 在匹兹堡大学学习儿童[[Creativity Training\|创造力培养]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii, p.8]])
+> - 阅读 Howard Gardner 的《Frames of Mind》后决定申请哈佛大学教育学院，随后被录取，师从 Howard Gardner 与 [[Kurt Fischer]] 攻读人类发展与心理学博士([[Argument_Li_2012_Cambridge\|Li, 2012, p.8]])
+> - 1990 年代末完成博士论文，以[[Heart and Mind for Wanting to Learn\|好學心]]为核心研究概念([[Argument_Li_2012_Cambridge\|Li, 2012, p.ix]])
+> - 现任布朗大学教授（[[Argument_Li_2012_Cambridge\|Li, 2012]], 封面）
+> - 研究先后获 [[William T. Grant Foundation]]、Foundation for Child Development (FCD)、Chiang-ching Kuo Foundation、Spencer Foundation 资助([[Argument_Li_2012_Cambridge\|Li, 2012, p.xii]])
 - Li 的儿子在美国公立初中就读期间经历了典型的 [[Nerd]] 骚扰：因为性格有些内向、运动能力低于平均水平，但擅长并热爱数学、成绩优秀，他的姓名上了学校的荣誉榜并张贴于走廊。同伴每天对他进行言语嘲笑和社交排斥——一个大男孩曾试图将他扔进垃圾桶。Li 和家人收集了他受到的约十二种侮辱性称呼。这种骚扰严重到使她的儿子一度拒绝上学，要求要么在家教育、要么转学。Li 和丈夫向校长和辅导员提议开展"尊重你的同伴"项目，但校方以"孩子就是这样——这是人性"为由拒绝了。最终他们别无选择，将儿子转入一所私立学校——在那里，"孩子突然就不再'是这样'了"，知性与社交终于整合在了一起([[Argument_Li_2012_Cambridge|Li, 2012, pp.92–94]])。
 - 这段经历成为 Li 研究nerd 同伴文化的直接动力之一，也促使她在第 6 章中论证 nerd 骚扰并非"人性使然"，而是特定文化[[Hypothesis|假设]]的产物([[Argument_Li_2012_Cambridge|Li, 2012, pp.93–94]])
 
@@ -112,14 +112,14 @@ updated: 2026-09-18
 ## 核心思想
 
 > [!tip]-
-> Li 的核心理论主张是：东亚与西方各自拥有系统而完整的学习[[Cultural Models|文化模型]]（cultural learning models），两种模型分别植根于不同的知识传统与价值取向，并在儿童的学习信念、情感与行为层面产生深远而系统性的差异。
+> Li 的核心理论主张是：东亚与西方各自拥有系统而完整的学习[[Cultural Models\|文化模型]]（cultural learning models），两种模型分别植根于不同的知识传统与价值取向，并在儿童的学习信念、情感与行为层面产生深远而系统性的差异。
 
 具体而言，Li 的研究以[[Heart and Mind for Wanting to Learn|好學心]]（[[Heart and Mind for Wanting to Learn]]）这一中国本土概念为切入点，对比欧裔美国精英学生对学习的理解，发现两种文化在学习的意义、目标、过程与情感维度上几乎没有重叠——尽管两种文化都重视学习、拥有悠久的智识传统和相似的教育制度([[Argument_Li_2012_Cambridge|Li, 2012, p.x]])。
 
 Li 的研究取向是描述性和解释性的（descriptive and interpretive），而非规范性（prescriptive），其目标是通过追溯各自的知识传统来"照亮"[[Cultural Models|文化模型]]对学习的塑造力量([[Argument_Li_2012_Cambridge|Li, 2012, p.x–xi]])。
 
 > [!quote]
-> "我的努力在于描述和解释，而非规定。……不同文化有不同的光照和回应方式。研究的任务就是让这些光照亮并记录它们的影响。"([[Argument_Li_2012_Cambridge|Li, 2012, p.xi]])
+> "我的努力在于描述和解释，而非规定。……不同文化有不同的光照和回应方式。研究的任务就是让这些光照亮并记录它们的影响。"([[Argument_Li_2012_Cambridge\|Li, 2012, p.xi]])
 
 ### 第 2 章：两种文化学习模型
 
@@ -167,7 +167,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 ## 思想发展
 
 > [!note]-
-> Li 的研究议程诞生于一段曲折的跨文化思想历程，她称之为"锯齿般的智识之旅"（jagged intellectual journey）([[Argument_Li_2012_Cambridge|Li, 2012, p.11]])。
+> Li 的研究议程诞生于一段曲折的跨文化思想历程，她称之为"锯齿般的智识之旅"（jagged intellectual journey）([[Argument_Li_2012_Cambridge\|Li, 2012, p.11]])。
 
 ### 浮士德困惑：中西学习观的初次碰撞
 
@@ -196,23 +196,23 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 这一认识使她最终从全盘否定中国文化的立场转向了重新发现其力量的立场——从"不停批评自己文化的人变成了发现了其优点的人"([[Argument_Li_2012_Cambridge|Li, 2012, p.xii]])。
 
 > [!quote]
-> "这种转变的智识立场帮助我既向西方大师学习，也重新学习我从自己文化中学到的东西。这种跨文化学习及其益处在于：先将陌生的变熟悉（西方），再将熟悉的变陌生（中国），然后将两者都吸收进自身，同时又将两者都作为持续思考的对象。"([[Argument_Li_2012_Cambridge|Li, 2012, p.xii]])
+> "这种转变的智识立场帮助我既向西方大师学习，也重新学习我从自己文化中学到的东西。这种跨文化学习及其益处在于：先将陌生的变熟悉（西方），再将熟悉的变陌生（中国），然后将两者都吸收进自身，同时又将两者都作为持续思考的对象。"([[Argument_Li_2012_Cambridge\|Li, 2012, p.xii]])
 
 ---
 
 ## 影响
 
 > [!success]
-> - 对跨文化学习研究领域的贡献：以中国本土概念而非西方心理学框架为出发点研究[[Chinese Learner|中国学习者]]，推动了从"[[Deficiencies Model for an Introduction|缺陷模型]]"向"文化差异模型"的[[Paradigm|范式]]转变
-> - 师从 Howard Gardner 与 [[Kurt Fischer]]，深受其理论影响；Gardner 对 Li 的指导被 Li 描述为"西方学习的典范"([[Argument_Li_2012_Cambridge|Li, 2012, p.xiii]])
+> - 对跨文化学习研究领域的贡献：以中国本土概念而非西方心理学框架为出发点研究[[Chinese Learner\|中国学习者]]，推动了从"[[Deficiencies Model for an Introduction\|缺陷模型]]"向"文化差异模型"的[[Paradigm\|范式]]转变
+> - 师从 Howard Gardner 与 [[Kurt Fischer]]，深受其理论影响；Gardner 对 Li 的指导被 Li 描述为"西方学习的典范"([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii]])
 
 ---
 
 ## 争议与批评
 
 > [!warning]
-> - Li 的研究以自传体[[Ethnography|民族志]]（[[Autoethnography]]）为重要方法来源，第 1 章的个人经历构成了全书论证的经验基础。这种方法的优势在于深度与亲历性，但将个人体验直接上升为[[Cultural Models|文化模型]]，存在从"我"到"我们"的归纳跳跃（Li 本人在前言中承认研究聚焦"一般文化取向"的局限，见 Li, 2012, p.xi）
+> - Li 的研究以自传体[[Ethnography\|民族志]]（[[Autoethnography]]）为重要方法来源，第 1 章的个人经历构成了全书论证的经验基础。这种方法的优势在于深度与亲历性，但将个人体验直接上升为[[Cultural Models\|文化模型]]，存在从"我"到"我们"的归纳跳跃（Li 本人在前言中承认研究聚焦"一般文化取向"的局限，见 Li, 2012, p.xi）
 > - 六主题框架的提炼过程未在第 1 章中被方法论化——Li 没有说明她是如何从几百条童年回忆中筛选出恰好六个主题的，筛选标准不够透明
-> - "学习偏惠高能力者"作为西方学习传统第五主题，可能过于简化了西方教育内部对平等主义的长期追求——从[[John Dewey|杜威]]的[[Democratic Education|民主教育]]到当代多元文化教育运动，西方传统内部也存在大量反例
+> - "学习偏惠高能力者"作为西方学习传统第五主题，可能过于简化了西方教育内部对平等主义的长期追求——从[[John Dewey\|杜威]]的[[Democratic Education\|民主教育]]到当代多元文化教育运动，西方传统内部也存在大量反例
 
 ---

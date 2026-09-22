@@ -68,46 +68,46 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
-> 开发者委托或实施的教育项目评估是否比独立第三方评估产生系统性更大的[[Effect Size|效应量]]？如果存在差异，这些差异可否由可观测的研究设计特征（研究设计、测量类型、[[Sample Size Determination|样本量]]、年级段、项目类型等）解释——还是开发者的干预本身更有效？(p. 429)
+> [!info] [[Research Question\|研究问题]]
+> 开发者委托或实施的教育项目评估是否比独立第三方评估产生系统性更大的[[Effect Size\|效应量]]？如果存在差异，这些差异可否由可观测的研究设计特征（研究设计、测量类型、[[Sample Size Determination\|样本量]]、年级段、项目类型等）解释——还是开发者的干预本身更有效？(p. 429)
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> 研究以 [[Every Student Succeeds Act|ESSA]] 2015 通过后开发者经济激励增强为背景，将 Simmons et al. (2011) 的"[[Researcher Degrees of Freedom|研究者自由度]]"和[[Publication Bias|发表偏倚]](Polanin et al., 2016)作为解释[[Developer Effect|开发者效应]]的理论机制，并参考医学领域关于药企资助偏倚(Lundh et al., 2017; Lexchin, 2012)的[[Document|文献]]作为类比框架。(pp. 429–431)
+> 研究以 [[Every Student Succeeds Act\|ESSA]] 2015 通过后开发者经济激励增强为背景，将 Simmons et al. (2011) 的"[[Researcher Degrees of Freedom\|研究者自由度]]"和[[Publication Bias\|发表偏倚]](Polanin et al., 2016)作为解释[[Developer Effect\|开发者效应]]的理论机制，并参考医学领域关于药企资助偏倚(Lundh et al., 2017; Lexchin, 2012)的[[Document\|文献]]作为类比框架。(pp. 429–431)
 
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**[[Meta-analysis]]（多元[[Meta-regression|元回归]]，multivariate meta-regression），使用 [[Robust Variance Estimation]] (RVE) 处理[[Effect Size|效应量]]依赖性，small-sample correction (Tipton, 2015) 防止 I 类错误膨胀
-> - **样本**[[What Works Clearinghouse|WWC]] 数据库中 K-12 数学和阅读/读写领域的 755 个效应量，来自 169 项研究（均达到 WWC 标准）(p. 433)
-> - **数据来源** What Works [[Educational Evidence Clearinghouses|Clearinghouse]] (WWC) 数据库（2018 年 1 月提取），辅以对原始研究的个别审查以填充缺失数据、作者邮件询问资金来源(pp. 433–434)
-> - **关键[[Coding in Qualitative Research|编码]]** 每个研究编码为开发者委托（作者为开发者雇员 或 开发者资助）vs. 独立研究；结果测量编码为研究者/开发者自编 vs. 独立测量(pp. 434–435)
-> - **[[Publication Bias|发表偏倚]]检验** Vevea & Hedges (1995) 权重函数模型(p. 438)
+> - **方法**[[Meta-analysis]]（多元[[Meta-regression\|元回归]]，multivariate meta-regression），使用 [[Robust Variance Estimation]] (RVE) 处理[[Effect Size\|效应量]]依赖性，small-sample correction (Tipton, 2015) 防止 I 类错误膨胀
+> - **样本**[[What Works Clearinghouse\|WWC]] 数据库中 K-12 数学和阅读/读写领域的 755 个效应量，来自 169 项研究（均达到 WWC 标准）(p. 433)
+> - **数据来源** What Works [[Educational Evidence Clearinghouses\|Clearinghouse]] (WWC) 数据库（2018 年 1 月提取），辅以对原始研究的个别审查以填充缺失数据、作者邮件询问资金来源(pp. 433–434)
+> - **关键[[Coding in Qualitative Research\|编码]]** 每个研究编码为开发者委托（作者为开发者雇员 或 开发者资助）vs. 独立研究；结果测量编码为研究者/开发者自编 vs. 独立测量(pp. 434–435)
+> - **[[Publication Bias\|发表偏倚]]检验** Vevea & Hedges (1995) 权重函数模型(p. 438)
 > - **软件** R packages metafor, clubSandwich, weightr(p. 437)
 
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提/观察** [[Every Student Succeeds Act|ESSA]] 2015 将联邦拨款与项目有效性证据绑定，开发者面临前所未有的经济激励去证明其产品有效(p. 428)
-> 2. **[[Hypothesis|假设]]** 开发者可能通过研究设计特征（更小样本、自编测量）、文件抽屉效应、[[Researcher Degrees of Freedom|研究者自由度]]三重机制抬高[[Effect Size|效应量]](p. 429)
-> 3. **方法步骤** 使用 [[What Works Clearinghouse|WWC]] 全数据库，先估计零模型，再加入开发者和协[[Variable|变量]]的[[Meta-regression|元回归]]模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释(pp. 437–438)
-> 4. **结论** 在控制可观测研究设计特征和项目特征后，[[Developer Effect|开发者效应]]仍然存在（全样本差异 0.141 SD，同一干预差异 0.130 SD），[[Publication Bias|发表偏倚]]估计可解释约 66%，但剩余部分不能由现有数据明确解释(pp. 441–443)
+> 1. **前提/观察** [[Every Student Succeeds Act\|ESSA]] 2015 将联邦拨款与项目有效性证据绑定，开发者面临前所未有的经济激励去证明其产品有效(p. 428)
+> 2. **[[Hypothesis\|假设]]** 开发者可能通过研究设计特征（更小样本、自编测量）、[[Publication Bias\|文件抽屉效应]]、[[Researcher Degrees of Freedom\|研究者自由度]]三重机制抬高[[Effect Size\|效应量]](p. 429)
+> 3. **方法步骤** 使用 [[What Works Clearinghouse\|WWC]] 全数据库，先估计零模型，再加入开发者和协[[Variable\|变量]]的[[Meta-regression\|元回归]]模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释(pp. 437–438)
+> 4. **结论** 在控制可观测研究设计特征和项目特征后，[[Developer Effect\|开发者效应]]仍然存在（全样本差异 0.141 SD，同一干预差异 0.130 SD），[[Publication Bias\|发表偏倚]]估计可解释约 66%，但剩余部分不能由现有数据明确解释(pp. 441–443)
 
 ## 主要发现
 
 > [!success] 主要发现
-> - **全样本** 控制协[[Variable|变量]]后，独立研究 ES = +0.168，开发者研究 ES = +0.309，差异 = 0.141 SD(p. 441)
+> - **全样本** 控制协[[Variable\|变量]]后，独立研究 ES = +0.168，开发者研究 ES = +0.309，差异 = 0.141 SD(p. 441)
 > - **同一干预子样本** 控制协变量和干预固定效应后，独立研究 ES = +0.194，开发者研究 ES = +0.324，差异 = 0.130 SD(p. 439)
-> - **[[Effect Size|效应量]]分布[[Heterogeneity|异质性]]** 独立研究 95% [[Prediction Interval|预测区间]] (−0.452, +0.788)；开发者研究 (−0.311, +0.929)
-> - **[[Publication Bias|发表偏倚]]** Vevea-Hedges 校正后开发者-独立研究差异从 0.115 降至 0.076，约 66% 的差异可归因于发表偏倚(p. 442)
-> - **描述性差异** 开发者研究更倾向[[Quasi-Experimental Designs|准实验设计]]（51% vs. 15%）、自编测量（29% vs. 8%）、更小[[Sample Size Determination|样本量]]（均值 392 vs. 659），控制后效应仍在(pp. 434–436)
-> - **敏感性分析** 移除研究生研究、仅实验设计、仅准实验设计——[[Developer Effect|开发者效应]]均持续存在且大小相似
+> - **[[Effect Size\|效应量]]分布[[Heterogeneity\|异质性]]** 独立研究 95% [[Prediction Interval\|预测区间]] (−0.452, +0.788)；开发者研究 (−0.311, +0.929)
+> - **[[Publication Bias\|发表偏倚]]** Vevea-Hedges 校正后开发者-独立研究差异从 0.115 降至 0.076，约 66% 的差异可归因于发表偏倚(p. 442)
+> - **描述性差异** 开发者研究更倾向[[Quasi-Experimental Designs\|准实验设计]]（51% vs. 15%）、自编测量（29% vs. 8%）、更小[[Sample Size Determination\|样本量]]（均值 392 vs. 659），控制后效应仍在(pp. 434–436)
+> - **敏感性分析** 移除研究生研究、仅实验设计、仅准实验设计——[[Developer Effect\|开发者效应]]均持续存在且大小相似
 
 ## 关键引用
 
 > [!quote] 关键引用
-> > “我们发现了‘开发商效应’的证据，即由开发商执行或委托的项目评估所产生的平均[[Effect Size|效应量]]，显著大于由独立第三方进行的评估。”
+> > “我们发现了‘开发商效应’的证据，即由开发商执行或委托的项目评估所产生的平均[[Effect Size\|效应量]]，显著大于由独立第三方进行的评估。”
 > ("We find evidence of a '[[Developer Effect]],' where program evaluations carried out or commissioned by developers produced average effect sizes that were substantially larger than those identified in evaluations conducted by independent parties.") (p. 428)
 >
 > > “在针对同一个项目时，由开发商委托的研究产生的平均效应量是独立研究的 1.7 倍。”
@@ -119,11 +119,11 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **因果不确定性** 研究本质是描述性而非[[Causality|因果性]]——可以量化[[Developer Effect|开发者效应]]的存在和大小，但不能确定其来源(p. 442)
-> - **[[Implementation Fidelity|实施忠实度]]数据缺失** [[What Works Clearinghouse|WWC]] 数据中无实施忠实度信息，无法检验开发者是否通过更高实施质量达成更大[[Effect Size|效应量]](p. 443)
+> - **因果不确定性** 研究本质是描述性而非[[Causality\|因果性]]——可以量化[[Developer Effect\|开发者效应]]的存在和大小，但不能确定其来源(p. 442)
+> - **[[Implementation Fidelity\|实施忠实度]]数据缺失** [[What Works Clearinghouse\|WWC]] 数据中无实施忠实度信息，无法检验开发者是否通过更高实施质量达成更大[[Effect Size\|效应量]](p. 443)
 > - **控制组细节有限** WWC 仅提供控制组的简要描述，控制组之间的微妙差异可能未充分捕捉
 > - **Vevea-Hedges 校正局限** 使用研究级平均效应量，且对开发者研究的校正差异不显著
-> - **[[Publication Bias|发表偏倚]]的双向性** 独立研究的校正效应量反而高于原始值（+0.200 vs. +0.177, p<.05），说明发表偏倚的校正方向不一定总是向下
+> - **[[Publication Bias\|发表偏倚]]的双向性** 独立研究的校正效应量反而高于原始值（+0.200 vs. +0.177, p<.05），说明发表偏倚的校正方向不一定总是向下
 
 ## 来源
 

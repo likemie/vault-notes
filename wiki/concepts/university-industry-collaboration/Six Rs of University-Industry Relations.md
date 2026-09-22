@@ -29,7 +29,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> 六 R 框架（Six Rs of University-Industry Relations）是 IBM 全球大学项目（GUP）用于组织和衡量产学投资的分类框架，由 [[Jim Spohrer]]（2010）提出。该框架将[[University-Industry Collaboration|产学合作]]活动按功能分为六个领域：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展）（pp.88–89）。[[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]]在此基础上增加了第七个维度 Refresh（更新），用于衡量对市场变化的动态响应（p.97）。
+> 六 R 框架（Six Rs of University-Industry Relations）是 IBM 全球大学项目（GUP）用于组织和衡量产学投资的分类框架，由 [[Jim Spohrer]]（2010）提出。该框架将[[University-Industry Collaboration\|产学合作]]活动按功能分为六个领域：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展）（pp.88–89）。[[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer (2025)]]在此基础上增加了第七个维度 Refresh（更新），用于衡量对市场变化的动态响应（p.97）。
 
 ---
 
@@ -53,7 +53,7 @@ updated: 2026-09-10
 ## 概念辨析
 
 > [!example]
-> - vs [[Partnership Continuum]]（[[University Industry Demonstration Partnership|UIDP]] 伙伴关系连续体） — UIDP 的连续体侧重于[[University-Industry Collaboration|产学合作]]关系的深度演进（从交易型到战略型），六 R 框架侧重于按功能领域分类管理产学投资组合。两者互补：连续体描述关系的纵向深度，六 R 描述投资的功能广度。
+> - vs [[Partnership Continuum]]（[[University Industry Demonstration Partnership\|UIDP]] 伙伴关系连续体） — UIDP 的连续体侧重于[[University-Industry Collaboration\|产学合作]]关系的深度演进（从交易型到战略型），六 R 框架侧重于按功能领域分类管理产学投资组合。两者互补：连续体描述关系的纵向深度，六 R 描述投资的功能广度。
 
 ---
 

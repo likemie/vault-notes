@@ -41,20 +41,20 @@ updated: '2026-05-28'
 ## 定义
 
 > [!info] 定义
-> 前转移能动性（Pre-Transfer Agency）指在[[Cross-National Attraction|跨国吸引力]]（[[Cross-National Attraction]]）阶段、尚未作出任何实际借用决策之前，外国教育范例进入国内教育话语时即开始运作的能动性——谁在引入外国范例？出于什么目的？以什么修辞策略包装？([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 227]])
+> 前转移能动性（Pre-Transfer Agency）指在[[Cross-National Attraction\|跨国吸引力]]（[[Cross-National Attraction]]）阶段、尚未作出任何实际借用决策之前，外国教育范例进入国内教育话语时即开始运作的能动性——谁在引入外国范例？出于什么目的？以什么修辞策略包装？([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 227]])
 >
-> 这一概念在 Rappleye (2006) 对 Phillips & Ochs [[Policy Borrowing|政策借用]]框架的批判性扩展中被明确提出。Phillips & Ochs 的四阶段模型为政策实施后的抵制和[[Going Native|本土化]]（后转移能动性，POST-transfer agency）留出了空间，但忽略了外国范例刚进入国内话语那一刻的能动性——即在"借用还是不借用"的辩论正式展开之前，就已经有人在选择性地引入、翻译和包装外国范例了。
+> 这一概念在 Rappleye (2006) 对 Phillips & Ochs [[Policy Borrowing\|政策借用]]框架的批判性扩展中被明确提出。Phillips & Ochs 的四阶段模型为政策实施后的抵制和[[Going Native\|本土化]]（后转移能动性，POST-transfer agency）留出了空间，但忽略了外国范例刚进入国内话语那一刻的能动性——即在"借用还是不借用"的辩论正式展开之前，就已经有人在选择性地引入、翻译和包装外国范例了。
 >
-> > "Education reform is not science, but a highly normative endeavour – perhaps the premier arena for social discourse on values." ([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 228]])
+> > "Education reform is not science, but a highly normative endeavour – perhaps the premier arena for social discourse on values." ([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 228]])
 
 ---
 
 ## 概念辨析
 
 > [!example] 与相关概念的区别
-> - **vs 后转移能动性（POST-Transfer Agency）** — 后转移能动性发生在政策实施之后（抵制、适应、[[Going Native|本土化]]），Phillips & Ochs 的四阶段模型已涵盖（阶段三"实施"和阶段四"内化/本土化"）。前转移能动性发生在[[Policy Borrowing|政策借用]]循环的起点——外国范例刚进入国内话语的"[[Cross-National Attraction|跨国吸引力]]"阶段。两者的行动者可能重叠，但能动性的形式和目标不同：前转移能动性聚焦"引入和包装外国范例"，后转移能动性聚焦"抵制和改造已采纳的政策"([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 225, 227]])。
-> - **vs [[Externalization|外化]]** — 外化是前转移能动性的核心机制——行动者通过将国内问题（或解决方案）投射到国际参照系中来包装其改革（或抵制）主张。前转移能动性是外化机制的施动者侧：谁在做外化、以什么策略做。两者是施动者与机制的关系([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230]])。
-> - **vs [[Policy Entrepreneur|政策企业家]]** — 政策企业家是前转移能动性的一种重要行动者类型（在 Dolowitz & Marsh 2000 的分类中与专家并列），但前转移能动性的行动者范围更广，包括民选官员、政党、媒体、智库、超国家组织等所有在跨国吸引力阶段引入和包装外国范例的能动者([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 229–230]])。
+> - **vs 后转移能动性（POST-Transfer Agency）** — 后转移能动性发生在政策实施之后（抵制、适应、[[Going Native\|本土化]]），Phillips & Ochs 的四阶段模型已涵盖（阶段三"实施"和阶段四"内化/本土化"）。前转移能动性发生在[[Policy Borrowing\|政策借用]]循环的起点——外国范例刚进入国内话语的"[[Cross-National Attraction\|跨国吸引力]]"阶段。两者的行动者可能重叠，但能动性的形式和目标不同：前转移能动性聚焦"引入和包装外国范例"，后转移能动性聚焦"抵制和改造已采纳的政策"([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, pp. 225, 227]])。
+> - **vs [[Externalization\|外化]]** — 外化是前转移能动性的核心机制——行动者通过将国内问题（或解决方案）投射到国际参照系中来包装其改革（或抵制）主张。前转移能动性是外化机制的施动者侧：谁在做外化、以什么策略做。两者是施动者与机制的关系([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 230]])。
+> - **vs [[Policy Entrepreneur\|政策企业家]]** — 政策企业家是前转移能动性的一种重要行动者类型（在 Dolowitz & Marsh 2000 的分类中与专家并列），但前转移能动性的行动者范围更广，包括民选官员、政党、媒体、智库、超国家组织等所有在跨国吸引力阶段引入和包装外国范例的能动者([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, pp. 229–230]])。
 
 ---
 
@@ -62,15 +62,15 @@ updated: '2026-05-28'
 
 > [!note]- 概念演变
 > - **Steiner-Khamsi (2000)** — 虽然未使用"前转移能动性"这一术语，但明确提出了这一研究方向："转移为什么发生？转移是如何实施的？谁是转移的行动者？"（p. 164，引自 Rappleye, 2006, p. 227）。她还警告："除非我们认识到教育转移可以涉及话语而非实践，否则我们不太可能察觉这些国际流动"（p. 181，引自 p. 227）。
-> - **Phillips & Ochs (2003, 2004a)** — 四阶段模型在"实施"和"内化/[[Going Native|本土化]]"阶段涵盖了后转移能动性（抵制、适应），但未对[[Cross-National Attraction|跨国吸引力]]阶段的能动性进行单独理论化。Phillips & Ochs 自己也承认仍在"寻找一个充分描述情境因素的框架"（2004a, p. 782，引自 p. 226）。
-> - **[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]** — 在全球化三项新要求的第一项中明确提出"前转移能动性"这一分析类别，并将其纳入跨国吸引力情境[[Concept Mapping|概念地图]]——改革行动者和抵制行动者的双层分类，加上四种"火花"（危机化、合法化、审慎、美化）的动机分类，共同构成了前转移能动性的[[Analytic Framework|分析框架]]（pp. 227–233）。
+> - **Phillips & Ochs (2003, 2004a)** — 四阶段模型在"实施"和"内化/[[Going Native\|本土化]]"阶段涵盖了后转移能动性（抵制、适应），但未对[[Cross-National Attraction\|跨国吸引力]]阶段的能动性进行单独理论化。Phillips & Ochs 自己也承认仍在"寻找一个充分描述情境因素的框架"（2004a, p. 782，引自 p. 226）。
+> - **[[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]]** — 在全球化三项新要求的第一项中明确提出"前转移能动性"这一分析类别，并将其纳入跨国吸引力情境[[Concept Mapping\|概念地图]]——改革行动者和抵制行动者的双层分类，加上四种"火花"（危机化、合法化、审慎、美化）的动机分类，共同构成了前转移能动性的[[Analytic Framework\|分析框架]]（pp. 227–233）。
 
 ---
 
 ## 核心要素
 
 > [!abstract] 核心要素
-> 前转移能动性在 Rappleye (2006) 的情境[[Concept Mapping|概念地图]]中具体化为以下分析组件：
+> 前转移能动性在 Rappleye (2006) 的情境[[Concept Mapping\|概念地图]]中具体化为以下分析组件：
 
 ### 引入者——改革行动者与抵制行动者
 
@@ -104,8 +104,8 @@ updated: '2026-05-28'
 ## 实证发现
 
 > [!success] 实证发现
-> - **美国 1980 年代对日本教育的吸引力** — 前转移能动性高度集中在改革侧：里根白宫通过《[[A Nation at Risk 1983|国家在危机中]]》（1983）以极高的影响力和激烈的危机化修辞引入日本范例；美国教育部通过《Japanese Education Today》（1987）跟进；学者（Lynn, 1988）和智库（Heritage Foundation, 1991）持续推波助澜。抵制侧的前转移能动性极为薄弱——Berliner & Biddle 的《The Manufactured Crisis》（1995）出版于吸引力高峰的十余年之后，属于对改革方狂热的延迟回应。这一失衡是理解"为何吸引力如此强烈却未转化为大规模实质性借用"的关键——前转移能动性高度集中在话语层面，阻力主要来自结构层面（联邦制下教育权分散）而非人的层面的有效反向能动性([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 234–235]])
-> - **晚清中国借用日本教育** — 前转移能动性呈现出"双向联盟"结构：改革派（康有为、梁启超等）以日本为危机化工具——日本在 1895 年击败中国、1905 年击败俄国，证明明治维新后的教育体系是国力提升的关键；保守派（张之洞等"中体西用"论者）以日本为美化工具——1890 年《教育敕语》将"忠君爱国"与儒家伦理融合，证明学习日本不必然导致文化断层。双方在其他议题上几乎无法一致，但在"日本教育是中国的好模型"上达到了前转移能动性的罕见重叠([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 233–234]])
+> - **美国 1980 年代对日本教育的吸引力** — 前转移能动性高度集中在改革侧：里根白宫通过《[[A Nation at Risk 1983\|国家在危机中]]》（1983）以极高的影响力和激烈的危机化修辞引入日本范例；美国教育部通过《Japanese Education Today》（1987）跟进；学者（Lynn, 1988）和智库（Heritage Foundation, 1991）持续推波助澜。抵制侧的前转移能动性极为薄弱——Berliner & Biddle 的《The Manufactured Crisis》（1995）出版于吸引力高峰的十余年之后，属于对改革方狂热的延迟回应。这一失衡是理解"为何吸引力如此强烈却未转化为大规模实质性借用"的关键——前转移能动性高度集中在话语层面，阻力主要来自结构层面（联邦制下教育权分散）而非人的层面的有效反向能动性([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, pp. 234–235]])
+> - **晚清中国借用日本教育** — 前转移能动性呈现出"双向联盟"结构：改革派（康有为、梁启超等）以日本为危机化工具——日本在 1895 年击败中国、1905 年击败俄国，证明明治维新后的教育体系是国力提升的关键；保守派（张之洞等"中体西用"论者）以日本为美化工具——1890 年《教育敕语》将"忠君爱国"与儒家伦理融合，证明学习日本不必然导致文化断层。双方在其他议题上几乎无法一致，但在"日本教育是中国的好模型"上达到了前转移能动性的罕见重叠([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, pp. 233–234]])
 
 ---
 

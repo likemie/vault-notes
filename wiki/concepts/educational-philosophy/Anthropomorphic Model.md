@@ -69,15 +69,15 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **拟人化模型（Anthropomorphic Model）** 是[[Rom Harré|罗姆·哈雷]]与保罗·塞科德（Rom Harré & Paul Secord, 1972）在批判传统实证心理学与行为主义“机械木偶模型”时提出的方法论模型。该模型主张在社会探究中必须“把人当作真正的人类来对待”（treat people as if they were human beings），将行动者视为具备[[Reflexivity|反思性]]自我监控、意向性赋意、能动选择与自我安排行动能力的自治主体，倡导通过分析特定情境中的社会事件（[[Social Episodes]]）与当事人的理由说明（[[Accounts]]）来[[Decodification|解码]]人类行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 18)]]
+> **拟人化模型（Anthropomorphic Model）** 是[[Rom Harré\|罗姆·哈雷]]与保罗·塞科德（Rom Harré & Paul Secord, 1972）在批判传统实证心理学与行为主义“机械木偶模型”时提出的方法论模型。该模型主张在社会探究中必须“把人当作真正的人类来对待”（treat people as if they were human beings），将行动者视为具备[[Reflexivity\|反思性]]自我监控、意向性赋意、能动选择与自我安排行动能力的自治主体，倡导通过分析特定情境中的社会事件（[[Social Episodes]]）与当事人的理由说明（[[Accounts]]）来[[Decodification\|解码]]人类行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 18)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向社会科学研究中将行动者还原为拥有完整人格、反思理智与能动意志的真实人类，而非外界刺激的被动反应器。
-> - **用途** 帮[[Teaching Assistant|助教]]育研究者跳出量化实验与机械行为[[Coding in Qualitative Research|编码]]的狭隘视域，在复杂的师生互动与课堂生态中捕捉潜藏在语言背后的共享默会理解。
+> - **用途** 帮[[Teaching Assistant\|助教]]育研究者跳出量化实验与机械行为[[Coding in Qualitative Research\|编码]]的狭隘视域，在复杂的师生互动与课堂生态中捕捉潜藏在语言背后的共享默会理解。
 > - **边界** 拟人化模型不否认生理本能与外部环境的约束，但坚决拒绝将人类社会行动简单降维为无意义的生理驱力或物理机械轨迹。
 
 > [!citation-card] 哈雷与塞科德论拟人化模型与真正人类的科学对待
-> 社会心理学内部可察觉到‘人的科学’运动的相应发展。该运动主张，我们必须将自身用作理解他人的钥匙；反之，将对别人的理解作为发现自我的一种方式——这即是人的拟人化模型。既然‘拟人化’从字面上意味着赋予人类形式与人格，那么其中隐含的批判便是，迄今为止传统构想的社会心理学惊人地未能将人描摹为他们真正的样子。正如一些富有洞见的评论家所呼吁的：‘为了科学的目的，请把人当作真正的人类来对待！’这要求将他们视为有能力监控和安排自身行动、行使自身能动性的人。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 18)]]
+> 社会心理学内部可察觉到‘人的科学’运动的相应发展。该运动主张，我们必须将自身用作理解他人的钥匙；反之，将对别人的理解作为发现自我的一种方式——这即是人的拟人化模型。既然‘拟人化’从字面上意味着赋予人类形式与人格，那么其中隐含的批判便是，迄今为止传统构想的社会心理学惊人地未能将人描摹为他们真正的样子。正如一些富有洞见的评论家所呼吁的：‘为了科学的目的，请把人当作真正的人类来对待！’这要求将他们视为有能力监控和安排自身行动、行使自身能动性的人。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 18)]]
 >
 > *Comparable developments within social psychology may be perceived in the ‘science of persons’ movement. It is argued here that we must use ourselves as a key to our understanding of others and, conversely, our understanding of others as a way of finding out about ourselves, an anthropomorphic model of people. Since anthropomorphism means, literally, the attribution of human form and personality, the implied criticism is that social psychology as traditionally conceived has singularly failed, so far, to model people as they really are. As some wry commentators have pleaded, ‘For scientific purposes, treat people as if they were human beings’ (Harré and Secord, 1972), which entails treating them as capable of monitoring and arranging their own actions, exercising their agency.*
 
@@ -90,7 +90,7 @@ updated: 2026-09-17
 
 ## 概念辨析
 
-> [!contrast-table] 拟人化模型与行为主义刺激—反应模型的[[Paradigm|范式]]对立
+> [!contrast-table] 拟人化模型与行为主义刺激—反应模型的[[Paradigm\|范式]]对立
 > | 比较维度 | 拟人化模型（Anthropomorphic Model） | 行为主义模型（Behaviouristic Model） |
 > |---|---|---|
 > | **基本人性观** | 能动的自身行动发起者，具自由意志与反思[[Creativity\|创造力]] | 受外部环境[[Variable\|变量]]或生理驱力支配的被动响应器 |
@@ -106,7 +106,7 @@ updated: 2026-09-17
 > [!feature] 拟人化模型的四大理论支柱
 > 1. **主体双向镜鉴性（Mutual Mirroring of Self and Other）**
 >    研究者与被研究者同处于人类主体地位，理解他人必须以理解自身的心智体验为媒介，反之亦然。
-> 2. **[[Reflexivity|反思性]]自我监控（Reflexive Monitoring of Action）**
+> 2. **[[Reflexivity\|反思性]]自我监控（Reflexive Monitoring of Action）**
 >    行动者不仅在行动，而且在持续监控并反思自己的行动，依据情境线索即时调整自身的行动策略。
 > 3. **情境中的社会事件（[[Social Episodes]] in Context）**
 >    人类行为的意义完全深嵌于特定的历时性交往事件之中，脱离脉络的孤立行为数据毫无解释效力。
@@ -160,6 +160,6 @@ updated: 2026-09-17
 
 ## 参考文献
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 18)]] — 系统介绍拟人化模型、人的科学运动以及对传统实证心理学行为主义模型的批判。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 贯穿课堂观察与事件分析章节，深入剖析师生微观互动的意义阐释机制。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 18)]] — 系统介绍拟人化模型、人的科学运动以及对传统实证心理学行为主义模型的批判。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿课堂观察与事件分析章节，深入剖析师生微观互动的意义阐释机制。

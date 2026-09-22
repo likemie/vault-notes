@@ -48,6 +48,7 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
+  - "[[Refutational Evidence]]"
   - "[[Falsification]]"
   - "[[Self-Efficacy]]"
   - "[[Evidence-Based Education]]"
@@ -56,11 +57,10 @@ related_concepts:
   - "[[Citizen Science]]"
   - "[[Ecological Validity]]"
   - "[[Champ]]"
-  - "[[Empiricism]]"
-  - "[[Praxis]]"
   - "[[Ratgeberliteratur]]"
-  - "[[Refutational Evidence]]"
   - "[[Virtual Teacher Staffroom]]"
+  - "[[Source of Knowledge]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Situative Perspective]]"
 related_methods:
@@ -80,15 +80,15 @@ updated: 2026-09-18
 ## 研究问题
 
 > [!question]
-> 针对德语区职前师范生与在岗教师普遍依附于缺乏经验检验的直觉性经验知识（如坚信[[Learning Style Myth|学习风格神话]]）、且实证教育研究成果难以有效融入常态课堂教学的顽固困境，教育科学研究界应如何反思传统单向线性的[[Knowledge Transfer|知识转移]]模式局限，并通过重塑科学传播形态促进教师教育与教学实践的证据知情行动？（pp. 251–252）
+> 针对德语区职前师范生与在岗教师普遍依附于缺乏经验检验的直觉性经验知识（如坚信[[Learning Style Myth\|学习风格神话]]）、且实证教育研究成果难以有效融入常态课堂教学的顽固困境，教育科学研究界应如何反思传统单向线性的[[Knowledge Transfer\|知识转移]]模式局限，并通过重塑科学传播形态促进教师教育与教学实践的证据知情行动？（pp. 251–252）
 
 > [!claim] 核心主张
-> 实证教育研究向课堂实践的转化绝非单纯取决于证据的科研质量，而必须摆脱将教师视为被动受体的单向自上而下知识转移，转向非线性、双向乃至多向互惠的[[Educational Science Communication|教育科学传播]]；教育研究者应破除参与大众科普会影响学术声誉的顾虑，积极拓展播客、信息中介平台及社交网络等多样化媒介形态，采用契合一线教师话语习惯的通俗语言开展针对性概念转变，并推动学术界在制度上确立研究合成与通俗[[Transfer Translation Transformation|转译]]的独立科学价值。（pp. 252–254, 258）
+> 实证教育研究向课堂实践的转化绝非单纯取决于证据的科研质量，而必须摆脱将教师视为被动受体的单向自上而下知识转移，转向非线性、双向乃至多向互惠的[[Educational Science Communication\|教育科学传播]]；教育研究者应破除参与大众科普会影响学术声誉的顾虑，积极拓展播客、信息中介平台及社交网络等多样化媒介形态，采用契合一线教师话语习惯的通俗语言开展针对性概念转变，并推动学术界在制度上确立研究合成与通俗[[Transfer Translation Transformation\|转译]]的独立科学价值。（pp. 252–254, 258）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 德语区职前师范生、在岗教师、大学与进修机构教师教育者（Lehrkräftebildende）、教育行政管理者与教育科学研究共同体。
 > - **张力** 严谨实证研究的高度专业性、付费封闭性与方法学晦涩性，与一线教师对易用、直观备课指导的强烈需求以及低质经验指南、教育神经神话广泛流传之间的结构性矛盾。
-> - **贡献** 系统解构了五种主要科学传播媒介的实践效能、受众边界与质量风险，确立了以受众适配语言、非线性[[Dialogue in Education|对话]]与制度激励为核心的教育科学传播行动框架。
+> - **贡献** 系统解构了五种主要科学传播媒介的实践效能、受众边界与质量风险，确立了以受众适配语言、非线性[[Dialogue in Education\|对话]]与制度激励为核心的教育科学传播行动框架。
 
 ---
 
@@ -103,7 +103,7 @@ updated: 2026-09-18
 > | **[[Educational Brokerage Agency\|教育知识中介理论]]** | 分析清算中心与[[Boundary Spanner\|知识经纪人]]在提炼[[Meta-analysis\|元分析]]、连接学术界与实践界乘数群体中的枢纽功能与受众穿透边界。（pp. 256–257） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具箱将分析焦点从单纯指责一线教师缺乏[[Research Literacy|研究素养]]与科研意愿，转移至反思科研供给端的传播模式失灵：通过引入赤字模型批判与非线性[[Knowledge Transfer|知识转移]]理论，论证了传统学术期刊单向灌输在复杂课堂生态中的必然受阻；继而以学习风格神话为典型靶点，阐明了受众适配语言、数字媒介与概念转变设计在打破教师认知防御中的不可替代性。（pp. 252–254）
+> 理论工具箱将分析焦点从单纯指责一线教师缺乏[[Research Literacy\|研究素养]]与科研意愿，转移至反思科研供给端的传播模式失灵：通过引入赤字模型批判与非线性[[Knowledge Transfer\|知识转移]]理论，论证了传统学术期刊单向灌输在复杂课堂生态中的必然受阻；继而以学习风格神话为典型靶点，阐明了受众适配语言、数字媒介与概念转变设计在打破教师认知防御中的不可替代性。（pp. 252–254）
 
 ---
 
@@ -116,7 +116,7 @@ updated: 2026-09-18
 > | **传播媒介分类学分析** | 建立涵盖五大核心传播载体（学术期刊、实践指南、音视频播客、信息中介、社交网络）的横向对比[[Analytic Framework\|分析框架]]，系统评估各形态的受众覆盖面、互动深度与质量风险。（pp. 254–258） |
 > | **实证案例与干预证据整合** | 综合提取有关[[Learning Style Myth\|学习风格神话]]流行度调查、实验性播客干预、指南图书出版普查及清算平台运营数据的多源实证发现。（pp. 252–257） |
 
-> [!sample-panel]- [[Document|文献]]与分析范围
+> [!sample-panel]- [[Document\|文献]]与分析范围
 > | 样本层面 | 构成 |
 > |---|---|
 > | **文献样本** | 德语区与国际关于教师研究使用、科学传播、教育神经神话及媒介分析的核心实证文献（2001–2024 年）。 |
@@ -140,7 +140,7 @@ updated: 2026-09-18
 ### 论证步骤一　职前知识供给的时效局限与高感知负荷共同驱使教师依赖未经检验的经验直觉并滋生神经神话
 
 > [!claim] 核心判断：知识时效局限与神经神话弥散
-> 大学[[Normal School|师范教育]]所能提供的实证知识具有时效性与局限性，而在职教师普遍表现出较低的研究接触意愿与较高的感知负荷，导致缺乏科学依据的经验直觉与伪科学教育神话在学校实践中根深蒂固。（pp. 251–252）
+> 大学[[Normal School\|师范教育]]所能提供的实证知识具有时效性与局限性，而在职教师普遍表现出较低的研究接触意愿与较高的感知负荷，导致缺乏科学依据的经验直觉与伪科学教育神话在学校实践中根深蒂固。（pp. 251–252）
 
 #### 1. 职前教育的知识时效局限与在岗教师的研究负荷感知
 
@@ -153,9 +153,9 @@ updated: 2026-09-18
 这一普遍的研究疏离并非源于教师个体态度，而是由多重结构性制约机制共同造成的。（p. 254）
 
 > [!factors] 阻碍教师吸纳实证研究的三重制约机制
-> - **感知投入成本过高** 在繁重的[[Business as Usual|常态教学]]与行政重负下，在岗教师普遍认为研读方法学密集、统计繁复的实证[[Document|文献]]需要耗费过多的时间与精力，形成了难以逾越的认知门槛（Demski, 2018）。
-> - **直接实践指导性缺失** 大多数一级实证研究聚焦于狭窄[[Variable|变量]]关系的因果检验，缺乏面向课堂情境的[[Operationalization|操作化]]转化方案，难以直接解答课堂教学的具体方案疑问。
-> - **[[Refutational Evidence|反驳性证据]]引发的心理防御** 学术文献频繁将焦点置于对教师传统做法与经验直觉的否定与[[Falsification|证伪]]（widerlegende Evidenz），容易激发教师的专业自尊防御，促使其对科研出版物产生整体抵触心理（Bauer & Kollar, 2023）。（p. 254）
+> - **感知投入成本过高** 在繁重的[[Business as Usual\|常态教学]]与行政重负下，在岗教师普遍认为研读方法学密集、统计繁复的实证[[Document\|文献]]需要耗费过多的时间与精力，形成了难以逾越的认知门槛（Demski, 2018）。
+> - **直接实践指导性缺失** 大多数一级实证研究聚焦于狭窄[[Variable\|变量]]关系的因果检验，缺乏面向课堂情境的[[Operationalization\|操作化]]转化方案，难以直接解答课堂教学的具体方案疑问。
+> - **[[Refutational Evidence\|反驳性证据]]引发的心理防御** 学术文献频繁将焦点置于对教师传统做法与经验直觉的否定与[[Falsification\|证伪]]（widerlegende Evidenz），容易激发教师的专业自尊防御，促使其对科研出版物产生整体抵触心理（Bauer & Kollar, 2023）。（p. 254）
 
 #### 2. 学习风格假说在经验和逻辑上均无法成立且持续扭曲教学资源分配并抑制学生认知发展
 
@@ -163,7 +163,7 @@ updated: 2026-09-18
 
 > [!evidence-grid] 学习风格神话的认知信念与传播扩散证据
 > - **信念先验性与认知顽固** 职前师范生在入学初期便高度信奉根据偏好感官通道划分的个体学习类型，且该信念完全独立于其对大脑神经生理学客观知识的掌握程度（Krammer et al., 2019）。
-> - **概念混淆与内在逻辑冲突** 通道匹配[[Hypothesis|假设]]缺乏经验支持，在概念上混淆了主观感官偏好与客观认知加工能力，且与多感官协同教学原则存在内在冲突（Bauer & Asberger, 2022; Looß, 2001, p. 255）。
+> - **概念混淆与内在逻辑冲突** 通道匹配[[Hypothesis\|假设]]缺乏经验支持，在概念上混淆了主观感官偏好与客观认知加工能力，且与多感官协同教学原则存在内在冲突（Bauer & Asberger, 2022; Looß, 2001, p. 255）。
 > - **通俗科普与少儿媒体背书** Quarks（2022）等通俗科普节目与 GeoLino 等少儿读物持续将学习风格作为既定事实进行宣传，进一步固化了公众与教师的直觉信念。（p. 252）
 
 该神话在学校实践中的弥散，对课堂教学资源配置与学生发展构成了多维度的实质危害。（p. 252）
@@ -171,7 +171,7 @@ updated: 2026-09-18
 > [!quad-grid] 学习风格神话对教育实践的多维危害
 > - **实证支持的彻底匮乏** 严格的对照试验一再否定感官匹配假说，证实按所谓视觉型或听觉型教学并不能带来额外的学业增益。
 > - **教学资源与精力的严重错配** 教师在教案设计中耗费大量心力为不同类型学生准备差异化感官材料，导致备课精力从核心教学法设计中严重耗散。
-> - **学生[[Self-Efficacy|自我效能感]]的习得性削弱** 学生和家长将自身定型为特定感官类型后，容易产生认知设限，回避调动其他思维模式的深度学习任务（Nancekivell et al., 2020）。
+> - **学生[[Self-Efficacy\|自我效能感]]的习得性削弱** 学生和家长将自身定型为特定感官类型后，容易产生认知设限，回避调动其他思维模式的深度学习任务（Nancekivell et al., 2020）。
 > - **教师对学业潜力的系统性误判** 导致教师根据虚假风格标签对学生的学科潜能形成定型偏见，损害教育评价的客观性与公平性（Sun et al., 2023）。（p. 252）
 
 ---
@@ -179,7 +179,7 @@ updated: 2026-09-18
 ### 论证步骤二　单向线性知识转移在复杂课堂情境中必然受阻，必须转向双向递归的情境化教育科学传播
 
 > [!claim] 核心判断：单向传输失效与非线性传播转向
-> [[Knowledge Transfer|知识转移]]并非科研成果向实践的单向机械投放，唯有将[[Educational Science Communication|教育科学传播]]理解为尊重实践情境逻辑的非线性、双向乃至多向递归[[Dialogue in Education|对话]]，才能为[[Evidence-Based Education|循证教育]]实践奠定坚实基础。（pp. 252–254）
+> [[Knowledge Transfer\|知识转移]]并非科研成果向实践的单向机械投放，唯有将[[Educational Science Communication\|教育科学传播]]理解为尊重实践情境逻辑的非线性、双向乃至多向递归[[Dialogue in Education\|对话]]，才能为[[Evidence-Based Education\|循证教育]]实践奠定坚实基础。（pp. 252–254）
 
 #### 1. 延续赤字模型的单向传输模式因忽视一线教学情境与实践行动逻辑而遭遇制度性阻滞
 
@@ -190,7 +190,7 @@ updated: 2026-09-18
 
 两种传播取向在底层逻辑、实践者角色与媒介生态上存在系统性分歧。（pp. 252–253）
 
-> [!contrast-table] 线性传输[[Paradigm|范式]]与非线性科学传播范式的系统对质
+> [!contrast-table] 线性传输[[Paradigm\|范式]]与非线性科学传播范式的系统对质
 > | 比较维度 | 传统线性知识转移（Linear Transfer） | 现代非线性[[Educational Science Communication\|教育科学传播]]（Non-linear Communication） |
 > |---|---|---|
 > | **传播方向** | 单向自上而下输送（科研界 ➔ 实践界） | 双向、多向且递归互动（科研 ⇄ 实践 ⇄ 政策 ⇄ 公众） |
@@ -203,12 +203,12 @@ updated: 2026-09-18
 
 科学传播不仅是科研成果向学校的单向输出，更对教育研究共同体自身的理论反思与科研设计产生深层促进作用。（pp. 253–254）
 
-> [!tension] [[Citizen Science|大众科学]]传播的学术声誉顾虑 vs 实践对质的科研反哺效益
+> [!tension] [[Citizen Science\|大众科学]]传播的学术声誉顾虑 vs 实践对质的科研反哺效益
 > - **同行偏见与失真担忧（蓝方）** 将研究呈现在大众媒体中常被同行学者批评为过度戏剧化或学术失真，引发研究者对同行评价与学术声誉受损的顾虑（Horst et al., 2017）。
-> - **视角转换与生态反哺（红方）** 投身科学传播促使研究者进行视角转换（Perspektivwechsel），跳出纯学术发表框架审视理论局限，反哺科研设计的[[Ecological Validity|生态效度]]并日益被纳入实质学术考核（Spannagel, 2022, p. 253）。
+> - **视角转换与生态反哺（红方）** 投身科学传播促使研究者进行视角转换（Perspektivwechsel），跳出纯学术发表框架审视理论局限，反哺科研设计的[[Ecological Validity\|生态效度]]并日益被纳入实质学术考核（Spannagel, 2022, p. 253）。
 
 > [!warrant]- 科学传播对学术研究的双向增益机制
-> 科学传播并非降低学术标准的妥协，而是研究者检验理论实践解释力的重要途径：通过与一线教师和研训者的直接对质，研究者能够敏锐捕捉真实教育[[Champ|场域]]中的新兴问题与复杂变量，从而优化后续实证研究设计的[[Ecological Validity|生态效度]]。（pp. 253–254）
+> 科学传播并非降低学术标准的妥协，而是研究者检验理论实践解释力的重要途径：通过与一线教师和研训者的直接对质，研究者能够敏锐捕捉真实教育[[Champ\|场域]]中的新兴问题与复杂变量，从而优化后续实证研究设计的[[Ecological Validity\|生态效度]]。（pp. 253–254）
 
 ---
 
@@ -238,7 +238,7 @@ updated: 2026-09-18
 > - **前提：教师阅读意愿与低质读物泛滥构成供给真空** 一线教师具有借助外部读物反思教学的主动需求，但市场充斥缺乏实证检验的经验指南，形成伪科学观点的传播空间（Asberger et al., 2022）。
 > - **推论：学术期刊的传播壁垒要求研究者主动拓展渠道** 专业论文的高门槛导致科学知识无法直接抵消迷思，科研共同体必须主动提供通俗易懂的高质量替代品。
 > - **机制：受众适配语言与概念转变设计能够有效破除认知防御** 采用贴近教学情境的日常语言重构复杂证据，能打破教师心理防卫并实现概念纠偏（Götzfried et al., 2022, p. 256）。
-> - **制度保障：确立研究合成与科普[[Transfer Translation Transformation|转译]]的独立学术价值** 唯有消除科研评价中对通俗转译的声誉偏见并认可元分析综述的创新地位，才能提供长效制度激励（Kerres et al., 2022）。
+> - **制度保障：确立研究合成与科普[[Transfer Translation Transformation\|转译]]的独立学术价值** 唯有消除科研评价中对通俗转译的声誉偏见并认可元分析综述的创新地位，才能提供长效制度激励（Kerres et al., 2022）。
 > - **结论：构建经受检验的高质量宽口径证据生态** 坚持以至少达到可信赖（belastbar）标准的宽口径证据为底线，推进循证教育走向多媒介协同的专业对话新生态。（p. 258）
 
 ---
@@ -246,14 +246,14 @@ updated: 2026-09-18
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **单向线性转移的系统性失效** 传统依托专业学术期刊向实践单向灌输实证知识的模式，因认知负荷过大、实践关联度低及[[Falsification|证伪]]心理防御，无法有效穿透一线学校课堂。（pp. 251–254）
+> 1. **单向线性转移的系统性失效** 传统依托专业学术期刊向实践单向灌输实证知识的模式，因认知负荷过大、实践关联度低及[[Falsification\|证伪]]心理防御，无法有效穿透一线学校课堂。（pp. 251–254）
 > 2. **实践指南与通俗媒体中实证证据的缺失** 410 部流通教师指南中实证成果极度匮乏，未经检验的经验信念成为学习风格等神经神话持续流传的主要载体。（pp. 252, 255）
 > 3. **通俗播客与概念转变设计的有效纠偏** 实验试验证实，采用日常通俗语言并结合概念转变策略的播客能够显著促进师范生修正对教育神话的错误信念。（p. 256）
 > 4. **教育研究共同体的角色与制度重构** 研究者应打破同行声誉顾虑，拓展非线性全媒体传播，并在制度层面确立研究合成与科学中介的独立学术价值。（p. 258）
 
 > [!stat-cards]- 核心数据
 > - **410 部** 2019–2020 年德国图书市场流通在售的教师实践指南总数，绝大部分由一线教师单方撰写且缺乏实证把关（Krüger & Konrad, 2022）。（p. 255）
-> - **16,000 次 / 6,500 次** 2017 年 7 月至 2021 年 7 月间，[[Clearing House Unterricht|CHU]] 平台简评下载总量与学术播客收听总量（Hetmanek et al., 2023）。（pp. 256–257）
+> - **16,000 次 / 6,500 次** 2017 年 7 月至 2021 年 7 月间，[[Clearing House Unterricht\|CHU]] 平台简评下载总量与学术播客收听总量（Hetmanek et al., 2023）。（pp. 256–257）
 > - **> 10,000 次** 独立播客《课堂心理学》（Psychologie fürs Klassenzimmer）上线一年内的累计播放量（Wisniewski, o.J.）。
 > - **> 100,000 订阅** Christian Spannagel 教学法与高等教育 YouTube 频道订阅人数（Spannagel, o.J.）。
 > - **> 1,400,000 订阅** Mai Thi Nguyen-Kim 科学传播频道 maiLab 订阅总人数（Nguyen-Kim, o.J.）。（p. 256）
@@ -263,9 +263,9 @@ updated: 2026-09-18
 ## 关键引用
 
 > [!citation-card] 教师意愿与科研人员的供给责任
-> 当教师表现出借助外部知识来源（如指南读物）反思其专业行动的基本意愿，但这些来源部分存在质量存疑的问题时，教育科学研究的代表者便有责任提供比学术期刊论文更易获取且更贴合目标受众的供给。针对成功开展的科学传播，教育领域同样至关重要的是选择适合目标受众的语言。为此，教育研究人员应放下顾虑，不再担忧以受众适配格式传播成果会在其专业共同体内部受到轻视。（p. 258）
+> 当教师表现出借助外部[[Source of Knowledge\|知识来源]]（如指南读物）反思其专业行动的基本意愿，但这些来源部分存在质量存疑的问题时，教育科学研究的代表者便有责任提供比学术期刊论文更易获取且更贴合目标受众的供给。针对成功开展的科学传播，教育领域同样至关重要的是选择适合目标受众的语言。为此，教育研究人员应放下顾虑，不再担忧以受众适配格式传播成果会在其专业共同体内部受到轻视。（p. 258）
 >
-> *Wenn Lehrkräfte grundlegende Bereitschaft zeigen, sich mit externen Wissensquellen (wie z. B. Ratgeberliteratur) zu ihrem professionellen Handeln auseinander zu setzen, diese jedoch in Teilen von fragwürdiger Qualität sind, dann ist es an Vertreter*innen der Bildungsforschung, Angebote bereitzustellen, die leichter zugänglich und zielgruppenangepasster sind als Artikel aus Fachzeitschriften. Für eine erfolgreiche Wissenschaftskommunikation ist es dabei auch im Bildungsbereich maßgeblich, dass eine der Zielgruppe angepasste Sprache gewählt wird. Dazu sollten Bildungsforscher*innen die Sorge ablegen, in ihrer fachlichen Community weniger ernst genommen zu werden, wenn entsprechend Formate adressatengerecht bespielt werden.*
+> *Wenn Lehrkräfte grundlegende Bereitschaft zeigen, sich mit externen Wissensquellen (wie z. B. [[Ratgeberliteratur]]) zu ihrem professionellen Handeln auseinander zu setzen, diese jedoch in Teilen von fragwürdiger Qualität sind, dann ist es an Vertreter*innen der Bildungsforschung, Angebote bereitzustellen, die leichter zugänglich und zielgruppenangepasster sind als Artikel aus Fachzeitschriften. Für eine erfolgreiche Wissenschaftskommunikation ist es dabei auch im Bildungsbereich maßgeblich, dass eine der Zielgruppe angepasste Sprache gewählt wird. Dazu sollten Bildungsforscher*innen die Sorge ablegen, in ihrer fachlichen Community weniger ernst genommen zu werden, wenn entsprechend Formate adressatengerecht bespielt werden.*
 
 > [!citation-card] 研究合成的独立科学价值
 > 必须强化对研究合成的学术认可，将其确立为具有独立价值的科学成就，而不仅仅视作对既有研究的简单汇总。（p. 258）
@@ -273,7 +273,7 @@ updated: 2026-09-18
 > *Auch die Anerkennung von Forschungssynthesen „als eigenständiger wissenschaftlicher Wert [...] und nicht lediglich als ‚Zusammenfassung‘ vorliegender Forschung“ (Kerres et al. 2022, S. 5) sollte gestärkt werden.*
 
 > [!citation-card] 证据知情行动的前提条件
-> 成功的转移高度依赖于理论与实践之间的中介转化，其前提条件在于：科学研究成果必须经过系统加工与适度[[Transfer Translation Transformation|转译]]，以便能够被一线实践者感知和注意到，进而才可能构成证据知情行动的真正基石。（p. 258）
+> 成功的转移高度依赖于理论与实践之间的中介转化，其前提条件在于：科学研究成果必须经过系统加工与适度[[Transfer Translation Transformation\|转译]]，以便能够被一线实践者感知和注意到，进而才可能构成证据知情行动的真正基石。（p. 258）
 >
 > *Dennoch ist für erfolgreichen Transfer die Vermittlung zwischen Theorie und [[Praxis]] von hoher Bedeutung, wie auch Gräsel (2019) betont und darauf hinweist, dass eine Voraussetzung darin besteht, dass „wissenschaftliche Ergebnisse so aufbereitet werden, dass sie wahrgenommen werden und damit überhaupt eine Grundlage für evidenzorientiertes Handeln“ (Gräsel 2019, S. 9) besteht.*
 
@@ -284,7 +284,7 @@ updated: 2026-09-18
 > [!warning]
 > - 本文作为讨论性评述（Diskussionsbeitrag），旨在梳理科学传播的可能机遇与媒介利弊，所引用的各类传播平台访问、下载与播放量数据仅能反映表面覆盖度，其能否实质性促进教师深层认知重构并转入常态课堂行动，仍缺乏系统性因果评估（pp. 252, 256）。
 > - 社交媒体平台内部同样存在非对称的权力结构与意见领袖主导现象，去中心化交流能否真正实现无偏见、高质量的证据互动仍存疑（pp. 257–258）。
-> - 不同证据形态（如[[Meta-analysis|元分析]]、质性评估、理论模型）究竟需要何种最适配的传播载体，以及多元行动者在宽口径证据生态中的精确分工，仍有待学界进一步深化探究（p. 258）。
+> - 不同证据形态（如[[Meta-analysis\|元分析]]、质性评估、理论模型）究竟需要何种最适配的传播载体，以及多元行动者在宽口径证据生态中的精确分工，仍有待学界进一步深化探究（p. 258）。
 
 ---
 

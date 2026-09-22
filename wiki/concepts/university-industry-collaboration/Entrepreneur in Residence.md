@@ -38,17 +38,17 @@ updated: 2026-09-17
 ## 定义
 
 > [!info]
-> 驻校企业家（Entrepreneur in Residence, [[Education Innovation and Research|EIR]]）是大学聘请的具有成功创业和退出经验的产业高管，其职责是同时支持多个[[University Spin-Out|大学衍生企业]]的商业化进程，帮助他们"跨越从实验室到市场的鸿沟"([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.147-148]])。
+> 驻校企业家（Entrepreneur in Residence, [[Education Innovation and Research\|EIR]]）是大学聘请的具有成功创业和退出经验的产业高管，其职责是同时支持多个[[University Spin-Out\|大学衍生企业]]的商业化进程，帮助他们"跨越从实验室到市场的鸿沟"([[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025, pp.147-148]])。
 
 > [!abstract]
-> EIR 提供的是一种教授自身几乎不可能拥有的[[Professional Judgment|专业判断]]——来自多年合同谈判、市场进入策略和融资经验，而非学术训练。例如在学区试点合同谈判中识别不利于衍生企业的"数据所有权"条款、建议修改为"联合所有权"来保留研发用途——这种判断力直接来自产业经验（pp.147-148）。
+> EIR 提供的是一种教授自身几乎不可能拥有的[[Professional Judgment\|专业判断]]——来自多年合同谈判、市场进入策略和融资经验，而非学术训练。例如在学区试点合同谈判中识别不利于衍生企业的"数据所有权"条款、建议修改为"联合所有权"来保留研发用途——这种判断力直接来自产业经验（pp.147-148）。
 
 ---
 
 ## 两种模式
 
 > [!abstract]
-> [[Education Innovation and Research|EIR]] 制度有两种典型模式（pp.147-148）：
+> [[Education Innovation and Research\|EIR]] 制度有两种典型模式（pp.147-148）：
 
 > **全职 EIR** 一名高管同时服务 5-10 家衍生企业，全职投入。适合衍生企业数量多、需要持续深度支持的大学。
 
@@ -59,7 +59,7 @@ updated: 2026-09-17
 ## 核心价值
 
 > [!success]
-> [[Education Innovation and Research|EIR]] 制度的价值在于补充了学术创始团队系统性缺乏的商业能力（pp.147-148）：
+> [[Education Innovation and Research\|EIR]] 制度的价值在于补充了学术创始团队系统性缺乏的商业能力（pp.147-148）：
 
 - **合同与谈判** EIR 能识别试点合同中对衍生企业不利的条款，并利用其行业经验进行协商
 - **市场验证** EIR 帮[[Teaching Assistant|助教]]授判断"这个技术适合走创业路线还是许可路线"，避免在错误的方向上投入

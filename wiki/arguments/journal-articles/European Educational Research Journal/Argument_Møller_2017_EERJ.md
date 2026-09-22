@@ -53,7 +53,7 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 论文试图回答两个核心问题(p.375-376)：
 >
 > 1. 政治家和行政人员在做出教育改进决策时，**使用和优先考虑什么类型的知识**？
@@ -67,14 +67,14 @@ citation_aliases:
 > Møller 综合了三个理论资源(p.381)：
 >
 > - [[Transformative Leadership]](Shields, 2010, 2011)— 以权力为调查起点，将专业工作定位于权力结构之中
-> - 批判性教育政策视角(Gunter, 2016)— 将教育领导力视为多元人群和利益的[[Champ|场域]]
+> - 批判性教育政策视角(Gunter, 2016)— 将教育领导力视为多元人群和利益的[[Champ\|场域]]
 > - Berliner (2002) 的"硬科学"概念 — 教育研究是"难以完成的科学"（hard-to-do-science），因为学校中的人嵌套在复杂且不断变化的社会互动网络中
 
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法** 基于作者参与 ISSPP（自 2002 年）和 [[OECD]] ISL 项目的**亲历者反思（participant-observer reflection）**，结合[[Literature Review|文献综述]]和批判性分析
-> - **数据来源** ISSPP 在 20+ 个国家的[[Case Study|案例研究]]、OECD ISL 项目报告、LE@DS 研究网络发现
+> - **方法** 基于作者参与 ISSPP（自 2002 年）和 [[OECD]] ISL 项目的**亲历者反思（participant-observer reflection）**，结合[[Literature Review\|文献综述]]和批判性分析
+> - **数据来源** ISSPP 在 20+ 个国家的[[Case Study\|案例研究]]、OECD ISL 项目报告、LE@DS 研究网络发现
 > - **性质** 定位为 ECER Keynote 论文（在 2016 年欧洲教育研究会议上发表），兼具综述、方法论反思和研究议程提案功能
 
 ## 核心论证
@@ -84,14 +84,14 @@ citation_aliases:
 >
 > **1. 诊断：[[OECD]] 主导的研究议程存在去政治化问题**
 >
-> OECD 的 ISL 项目将[[School Leadership|学校领导力]]呈现为去政治化的"最佳实践"，但：
+> OECD 的 ISL 项目将[[School Leadership\|学校领导力]]呈现为去政治化的"最佳实践"，但：
 > - 表面上政治中立的模型仍然是政治化的(p.377)
 > - 对绩效问责氛围没有实质性批评
-> - 两个矛盾话语并行运作：专业化共同体 vs [[New Public Management|新公共管理]]的外部控制
+> - 两个矛盾话语并行运作：专业化共同体 vs [[New Public Management\|新公共管理]]的外部控制
 > - [[PISA]] 嵌入 OECD 的政府间结构，塑造国家教育系统内部的绩效和风险管理
 > - 为了建立跨国可比性，教育系统之间的差异被淡化——这是从非常不同的系统引进"最佳实践"的前提
 >
-> **2. [[Reflexivity|反思性]]批判：ISSPP 类型研究的方法论局限**
+> **2. [[Reflexivity\|反思性]]批判：ISSPP 类型研究的方法论局限**
 >
 > 尽管 ISSPP 提供了最全面的跨国学校领导力知识基础，但(p.380-381)：
 > - 叙事容易沦为英雄故事（"I did it my way"），回到"伟人"领导力理论
@@ -108,7 +108,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **[[OECD]] 的两面性** OECD 同时推广分布式领导的"专业共同体"话语和[[New Public Management|新公共管理]]的"外部控制"话语，二者并行运作构成悖论(p.377)
+> 1. **[[OECD]] 的两面性** OECD 同时推广分布式领导的"专业共同体"话语和[[New Public Management\|新公共管理]]的"外部控制"话语，二者并行运作构成悖论(p.377)
 >
 > 2. **ISSPP 的共同主题** 跨 20+ 国的成功校长叙事呈现共同主题——伦理关怀、道德使命感、关系信任、对社会正义的承诺(p.380)。但 Møller 提醒这些发现基于自我报告，校长可能知道"正确答案"
 >
@@ -121,14 +121,14 @@ citation_aliases:
 ## 关键引用
 
 > [!quote] 关键引用
-> > “为了引领教育超越‘什么有效’的议程，我们需要不同的研究途径，包括[[Reflexivity|反思性]]途径以及探讨权力结构的批判性研究。”
+> > “为了引领教育超越‘什么有效’的议程，我们需要不同的研究途径，包括[[Reflexivity\|反思性]]途径以及探讨权力结构的批判性研究。”
 > ("To lead education beyond the agenda of what works, we need different approaches to research, including reflective approaches and critical studies addressing the power structures.")(p.382)
 >
 > > “急于将问责制纳入立法和官僚实践的冲动，已经跑在了支持它的证据前面；尽管问责制的架构师们也是基于科学决策的大声疾呼者，但这一事实依然存在。”
 > ("The rush to get accountability systems enshrined in legislation and bureaucratic practice is running ahead of the evidence on its behalf, and this is true despite the fact that the architects of the accountability systems are also vocal proponents of scientifically based decision making.")(Henig, 2013: xi, p.383)
 >
-> > “教育现在是、而且永远将是一个充满争议的[[Champ|场域]]。”
-> ("Education is and always will be a contested [[Champ|field]].")(p.383)
+> > “教育现在是、而且永远将是一个充满争议的[[Champ\|场域]]。”
+> ("Education is and always will be a contested [[Champ\|field]].")(p.383)
 >
 > > “成功要求我们追问：在什么方面或为了什么的成功，为谁而成功，谁获益，以及在什么条件下成功？”
 > ("Success requires that we ask: success in or for what, success for whom, who benefits, and success under what conditions?")
@@ -141,9 +141,9 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 论文主要基于作者个人参与 ISSPP 和 [[OECD]] ISL 项目的反思，依赖单一研究者视角
 > - 对 ISSPP 方法论的批判虽然有力，但未提出具体的替代性研究设计方案
-> - "[[Transformative Leadership|变革型领导力]]"框架本身的[[Operationalization|操作化]]仍不清晰
+> - "[[Transformative Leadership\|变革型领导力]]"框架本身的[[Operationalization\|操作化]]仍不清晰
 > - 论文定位为 Keynote 演讲性质，论证的展开深度有限（全文约 10 页）
-> - 论证依赖于对 OECD 报告的选择性阅读——OECD 在 [[Education at a Glance|EAG]] 中也提到了历史和文化差异的适应性需求
+> - 论证依赖于对 OECD 报告的选择性阅读——OECD 在 [[Education at a Glance\|EAG]] 中也提到了历史和文化差异的适应性需求
 
 ## 来源
 

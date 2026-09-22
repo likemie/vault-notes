@@ -153,7 +153,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 ## 关键引用
 
 > [!quote]
-> “本章认为，在这种背景下，高等教育是新[[Geopolitics of Knowledge|知识地缘政治]]的一部分，指的是将高等教育纳入不同行动者的想象和计算中，旨在主张和/或改善他们在全球[[Knowledge-Based Economy|知识经济]]中的地位。”
+> “本章认为，在这种背景下，高等教育是新[[Geopolitics of Knowledge\|知识地缘政治]]的一部分，指的是将高等教育纳入不同行动者的想象和计算中，旨在主张和/或改善他们在全球[[Knowledge-Based Economy\|知识经济]]中的地位。”
 > ("The chapter argues that higher education, in this setting, is part of a New [[Geopolitics of Knowledge]] that refers to the integration of higher education in the imaginations and calculations of different actors aiming at asserting and/or improving their positions in the global [[Knowledge-Based Economy]].") (pp.36–37)
 
 ## 局限性与批评

@@ -97,15 +97,15 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 2010 年英国保守党与自由民主党联合政府上台后，英格兰教师教育政策制定中的[[Research Utilization|证据使用]]模式发生了何种根本性转变？不同形式的研究证据在政策过程中如何被各方行动者调动、[[Transfer Translation Transformation|转译]]与重塑？新媒体与权力网络如何影响了政策的合法化机制？（pp. 88–89）
+> 2010 年英国保守党与自由民主党联合政府上台后，英格兰教师教育政策制定中的[[Research Utilization\|证据使用]]模式发生了何种根本性转变？不同形式的研究证据在政策过程中如何被各方行动者调动、[[Transfer Translation Transformation\|转译]]与重塑？新媒体与权力网络如何影响了政策的合法化机制？（pp. 88–89）
 
 > [!claim] 核心主张
-> 英格兰教师教育政策话语已从以审计与量化指标为中心的测量时代，演进为以证据作为主导性[[Rationalized Myth|合理化神话]]的[[Evidence Era|证据时代]]；然而，白皮书中激增的学术化引文与国际借用并未促成纯粹理性的科学决策，反而深嵌于[[New Public Management|新公共管理]]（New Public Management, NPM）的适宜性逻辑中，演化为受政府把关支配的[[Policy-Based Evidence-Making|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。（pp. 88, 90–94）
+> 英格兰教师教育政策话语已从以审计与量化指标为中心的测量时代，演进为以证据作为主导性[[Rationalized Myth\|合理化神话]]的[[Evidence Era\|证据时代]]；然而，白皮书中激增的学术化引文与国际借用并未促成纯粹理性的科学决策，反而深嵌于[[New Public Management\|新公共管理]]（New Public Management, NPM）的适宜性逻辑中，演化为受政府把关支配的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。（pp. 88, 90–94）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1983 至 2019 年间英格兰教师教育领域的 46 份核心政策文本、白皮书及 20 位政策高层知情人的[[Elite Interview|精英访谈]]。
+> - **对象** 1983 至 2019 年间英格兰教师教育领域的 46 份核心政策文本、白皮书及 20 位政策高层知情人的[[Elite Interview\|精英访谈]]。
 > - **张力** 政策表层对科学严谨性与透明引证的推崇，与实际决策中受政治偏好把关、政策如何落地的考量及口口相传中介支配之间的深刻断裂。
-> - **贡献** [[Ian Menter|伊恩·门特]]（Ian Menter）与约·赫尔盖通（Jo B. Helgetun）提出超越单一指标考核的[[Evidence Era|证据时代]]概念框架，揭示教育研究在进入政治[[Champ|场域]]时因脱离[[Epistemology|认识论]]语境而造成的工具化扭曲机制。
+> - **贡献** [[Ian Menter\|伊恩·门特]]（Ian Menter）与约·赫尔盖通（Jo B. Helgetun）提出超越单一指标考核的[[Evidence Era\|证据时代]]概念框架，揭示教育研究在进入政治[[Champ\|场域]]时因脱离[[Epistemology\|认识论]]语境而造成的工具化扭曲机制。
 
 ---
 
@@ -139,7 +139,7 @@ issuing_organization: ""
 > | **访谈样本** | 20 位高层精英受访者（涵盖 A1 至 A20 编号的关键政策知情人、外部顾问及执行官员）。 |
 > | **材料情境** | 历时性追踪跨度达 36 年，深入捕捉新工党时期到保守党执政联盟时期的制度变迁脉络。（pp. 89–91） |
 
-> [!index-table]- 精英访谈受访者[[Coding in Qualitative Research|编码]]与机构背景全貌
+> [!index-table]- 精英访谈受访者[[Coding in Qualitative Research\|编码]]与机构背景全貌
 > | 受访者编号 | 职务与所属机构类别 | [[Policy Network\|政策网络]]位置与角色特征 |
 > |---|---|---|
 > | **A1** | [[Bertrand Russell\|罗素]]大学集团资深学者 | 批判性学者，曾就政策违规向官方提出严正抵制（p. 93） |
@@ -195,15 +195,15 @@ issuing_organization: ""
 ### 论证步骤一　英格兰教师教育政策将实证文献与国际借用建构为主导性的制度合理化神话
 
 > [!claim] 步骤一核心主张
-> 2010 年联合政府执政后，英格兰教师教育政策文本通过密集学术引文、国际借用与因果实验，将证据建构为主导性的制度[[Rationalized Myth|合理化神话]]，完成了从以大规模测验和科层审计为特征的测量时代向[[Evidence Era|证据时代]]的修辞转型。（pp. 90–92）
+> 2010 年联合政府执政后，英格兰教师教育政策文本通过密集学术引文、国际借用与因果实验，将证据建构为主导性的制度[[Rationalized Myth\|合理化神话]]，完成了从以大规模测验和科层审计为特征的测量时代向[[Evidence Era\|证据时代]]的修辞转型。（pp. 90–92）
 
 #### 1. 政策白皮书引文实践的爆发式增长标志着合法化修辞向实证学术规范转型
 
-> [!phase] 政策引文[[Paradigm|范式]]的历史演化（1983–2010）
+> [!phase] 政策引文[[Paradigm\|范式]]的历史演化（1983–2010）
 > - **1983–2009 内部科层封闭期**
->   政策论据高度封闭，正当性依赖政府内部科层权威与视导体系。1983 年白皮书《教学质量》（DES 1983）全篇仅包含 7 条参考[[Document|文献]]（全为内部督学报告与委员会文件）；1989 年第 24/89 号通令仅列 5 条引文，其余 40 余份核心政策文件均未附带明确参考文献。（p. 91）
+>   政策论据高度封闭，正当性依赖政府内部科层权威与视导体系。1983 年白皮书《教学质量》（DES 1983）全篇仅包含 7 条参考[[Document\|文献]]（全为内部督学报告与委员会文件）；1989 年第 24/89 号通令仅列 5 条引文，其余 40 余份核心政策文件均未附带明确参考文献。（p. 91）
 > - **2010 年后 实证合法化爆发期**
->   2010 年白皮书[[The Importance of Teaching|《教学的重要性》]]发生根本性转向，仅教师教育专属章节即密集引证 34 条文献，广泛吸纳学术期刊、商业咨询调研及国际组织报告，全面模仿实证科学论文规范。（pp. 91–92）
+>   2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]发生根本性转向，仅教师教育专属章节即密集引证 34 条文献，广泛吸纳学术期刊、商业咨询调研及国际组织报告，全面模仿实证科学论文规范。（pp. 91–92）
 
 > [!row-contrast] 政策文本引文演化对比（1983 vs 2010）
 > | 比较维度 | 1983 年白皮书《教学质量》（*Teaching Quality*） | 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]（*The Importance of Teaching*） |
@@ -221,27 +221,27 @@ issuing_organization: ""
 > [!evidence-grid] 国际标杆借用与多元实证动员
 > - **芬兰模式的修辞动员** 在 2010 年白皮书中芬兰被提及 9 次，作为推进研究导向教学与设立高选拔门槛的典范；然而在后续政策推进中，由于财政成本高昂且不符合市场化分权诉求，芬兰模式被迅速搁置。（p. 92）
 > - **新加坡案例的密集援引** 在 2012 年下议院教育委员会报告《优秀教师：吸引、培训与留任最优秀人才》中，新加坡被密集提及达 79 次，成为论证强化集中选拔与职后发展的关键证据。
-> - **证据范畴的多样化扩张** 证据范畴超越了单一的量化测验，广泛吸纳了同行评议论文、医学临床实践类比、[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）倡导的[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）以及[[Action Research|行动研究]]，构筑起主导性的[[Rationalized Myth|合理化神话]]。（pp. 90–91）
+> - **证据范畴的多样化扩张** 证据范畴超越了单一的量化测验，广泛吸纳了同行评议论文、医学临床实践类比、[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）倡导的[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）以及[[Action Research\|行动研究]]，构筑起主导性的[[Rationalized Myth\|合理化神话]]。（pp. 90–91）
 
 > [!warrant]- 跨国声誉背书的修辞逻辑
-> 政策论证策略打破了局限于本土历史经验的传统。通过对芬兰、新加坡等[[Heterogeneity|异质性]]教育体制的去情境化摘引，以及对医学临床 RCT 工具的跨领域类比，政策文本确立了实证证据不证自明的崇高地位，为重构英格兰教师教育体系提供了跨国声誉背书。（pp. 91–92）
+> 政策论证策略打破了局限于本土历史经验的传统。通过对芬兰、新加坡等[[Heterogeneity\|异质性]]教育体制的去情境化摘引，以及对医学临床 RCT 工具的跨领域类比，政策文本确立了实证证据不证自明的崇高地位，为重构英格兰教师教育体系提供了跨国声誉背书。（pp. 91–92）
 
 ---
 
 ### 论证步骤二　教育部政治把关与适宜性逻辑将证据生产异化为预设政策的逆向背书
 
 > [!claim] 步骤二核心主张
-> 证据进入政策[[Champ|场域]]的过程深度受制于英国教育部的政治把关与政治适宜性逻辑（logic of appropriateness）；决策考量优先服从于方案能否在政治上顺利“落地”，从而诱发以迎合官方意图为导向的[[Policy-Based Evidence-Making|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM），消解了纯粹的[[Technical Rationality|技术理性]]因果推导。（pp. 93–95）
+> 证据进入政策[[Champ\|场域]]的过程深度受制于英国教育部的政治把关与政治适宜性逻辑（logic of appropriateness）；决策考量优先服从于方案能否在政治上顺利“落地”，从而诱发以迎合官方意图为导向的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM），消解了纯粹的[[Technical Rationality\|技术理性]]因果推导。（pp. 93–95）
 
 #### 1. 英国教育部通过排他性授权与机构创设垄断政策咨询的准入壁垒
 
-> [!feature] [[Policy Network|政策网络]]中被赋权的代言机构与审查机制
-> - **官方扶持的专业团体** 政府积极支持创设[[Chartered College of Teaching|特许教学学院]]（Chartered College of Teaching, CCT）与[[Teaching Schools|教学学校]]理事会（Teaching Schools Council, TSC），赋予其核心政策咨询地位，以此重塑符合官方意图的行业代言声音。（p. 93）
-> - **定向委托的政策审查** 通过委任具备特定政治倾向的专家主导审查（如 2014 年[[Carter Review of Initial Teacher Training|卡特审查]]），为推进校本化[[Initial Teacher Training|初始教师培训]]（SCITT 与 School Direct）提供定制化证据支撑。（p. 90）
+> [!feature] [[Policy Network\|政策网络]]中被赋权的代言机构与审查机制
+> - **官方扶持的专业团体** 政府积极支持创设[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, CCT）与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council, TSC），赋予其核心政策咨询地位，以此重塑符合官方意图的行业代言声音。（p. 93）
+> - **定向委托的政策审查** 通过委任具备特定政治倾向的专家主导审查（如 2014 年[[Carter Review of Initial Teacher Training\|卡特审查]]），为推进校本化[[Initial Teacher Training\|初始教师培训]]（SCITT 与 School Direct）提供定制化证据支撑。（p. 90）
 > - **合作与抵制的权力非对称** 外部专家普遍抱持必须成为团队一员以施加影响的合作妥协心态；而极少数选择正面对抗荒谬政策的学者则面临退出机制与舆论边缘化的惩罚。
 
 > [!warrant]- 行政依附与证据前置顺从机制
-> 英格兰教师教育[[Policy Network|政策网络]]中，英国教育部扮演着排他性的[[Gatekeepers|守门人]]角色。这种非对称的制度权力结构，确立了外部专家对政治权威的高度依附，促使咨询报告的生产过程预先内嵌了对行政偏好的顺从。（pp. 93–94）
+> 英格兰教师教育[[Policy Network\|政策网络]]中，英国教育部扮演着排他性的[[Gatekeepers\|守门人]]角色。这种非对称的制度权力结构，确立了外部专家对政治权威的高度依附，促使咨询报告的生产过程预先内嵌了对行政偏好的顺从。（pp. 93–94）
 
 #### 2. 政治适宜性考量压倒科学因果逻辑并诱发“基于政策的证据制造”
 
@@ -253,20 +253,20 @@ issuing_organization: ""
 > | **与官方偏好相悖的结果** | 坚持独立证据并要求政客修正政策方向 | 面临感谢提交但永不出版的冰冻搁置命运 |
 
 > [!warrant]- 逆向证据生产的推理机制
-> [[In-depth Interview|深度访谈]]经验资料揭示，在撰写咨询报告与评估意见时，行动者的首要考量并非干预措施的客观因果机制或方法学严谨性，而是文本能否顺利契合部长的政治预期。适宜性逻辑的支配地位使证据的功能发生了根本异化：研究证据不再作为探索政策方案的经验前提，而是沦为给既定政治决断提供合法性注脚的工具。决策体系通过定向剪裁数据、隐匿相悖结论与定制评估指标，完成了从“循证政策制定”向[[Policy-Based Evidence-Making|基于政策的证据制造]]的逆向演变，印证了[[Critique of Evidence-Based Education|循证教育批判]]对治理技术工具化的核心判断。（pp. 92–94）
+> [[In-depth Interview\|深度访谈]]经验资料揭示，在撰写咨询报告与评估意见时，行动者的首要考量并非干预措施的客观因果机制或方法学严谨性，而是文本能否顺利契合部长的政治预期。适宜性逻辑的支配地位使证据的功能发生了根本异化：研究证据不再作为探索政策方案的经验前提，而是沦为给既定政治决断提供合法性注脚的工具。决策体系通过定向剪裁数据、隐匿相悖结论与定制评估指标，完成了从“循证政策制定”向[[Policy-Based Evidence-Making\|基于政策的证据制造]]的逆向演变，印证了[[Critique of Evidence-Based Education\|循证教育批判]]对治理技术工具化的核心判断。（pp. 92–94）
 
 ---
 
 ### 论证步骤三　非正式中介流通与官僚高流动率割裂了证据转化中的全流程认识论连贯性
 
 > [!claim] 步骤三核心主张
-> 公务员高流动率、政策网络分化以及社交媒体意见领袖的崛起，使证据流通高度依赖非正式人际网络与口口相传，导致学术研究在去语境化的[[Transfer Translation Transformation|转译]]与引用中割裂了从构思到应用的[[Epistemological Coherence|认识论连贯性]]，加剧了政策实践中的伪科学风险。（pp. 94–96）
+> 公务员高流动率、政策网络分化以及社交媒体意见领袖的崛起，使证据流通高度依赖非正式人际网络与口口相传，导致学术研究在去语境化的[[Transfer Translation Transformation\|转译]]与引用中割裂了从构思到应用的[[Epistemological Coherence\|认识论连贯性]]，加剧了政策实践中的伪科学风险。（pp. 94–96）
 
 #### 1. 官僚频繁轮岗与新媒体意见领袖的口口相传加剧证据脱语境化与碎片化
 
 > [!chain-link] 证据流通过程中的认识论链条断裂
-> - **环节一：学术研究生产** 学者在严格的方法学限制、特定样本情境与认识论[[Hypothesis|假设]]下生产局部有效的实证知识。
-> - **环节二：中介[[Transfer Translation Transformation|转译]]与新媒体扩散** 活跃于社交网络与博客圈的极少数意见领袖及[[Policy Brokerage|政策中介]]对研究进行脱语境化提炼，剔除关键前置条件。（pp. 94–95）
+> - **环节一：学术研究生产** 学者在严格的方法学限制、特定样本情境与认识论[[Hypothesis\|假设]]下生产局部有效的实证知识。
+> - **环节二：中介[[Transfer Translation Transformation\|转译]]与新媒体扩散** 活跃于社交网络与博客圈的极少数意见领袖及[[Policy Brokerage\|政策中介]]对研究进行脱语境化提炼，剔除关键前置条件。（pp. 94–95）
 > - **环节三：官僚口口相传与工具化引用** 教育部官员在公务员频繁轮岗的背景下，未直接研读原著，仅凭中介口头推荐将结论写入政策。
 > - **环节四：实践指令异化** 复杂的教育科研最终被固化为缺乏因果严谨性与跨情境效度的机械操作清单。（p. 96）
 
@@ -276,22 +276,22 @@ issuing_organization: ""
 #### 2. 抵御政策伪科学要求以全流程认识论连贯性重构公共对话与专业边界
 
 > [!implication] 学术共同体维护认识论连贯性的规范路径
-> - **[[Epistemological Coherence|全流程认识论连贯性]]** 严密的科学逻辑必须完整贯穿于研究构思、实地观察、数据分析直至政策转化的全链条，明确单项 RCT 等定量工具的外推边界与适用条件。（p. 96）
+> - **[[Epistemological Coherence\|全流程认识论连贯性]]** 严密的科学逻辑必须完整贯穿于研究构思、实地观察、数据分析直至政策转化的全链条，明确单项 RCT 等定量工具的外推边界与适用条件。（p. 96）
 > - **厘清真知与常识教条的界限** 在制度层面严格区分经过审慎同行评议检验的科学真知（episteme）与流于表面的流行常识或政治教条（[[Doxa]]），防止非科学主张借助证据外衣侵蚀教育实践。
-> - **构建主动介入的公共[[Dialogue in Education|对话]]机制** 学者与大学机构应打破封闭的学院壁垒，主动进入博客、社交媒体与智库网络，以透明的方法论标准与政府及公众开展专业对话，在抵制伪科学的同时引导政策循证实践走向严谨与自省。
+> - **构建主动介入的公共[[Dialogue in Education\|对话]]机制** 学者与大学机构应打破封闭的学院壁垒，主动进入博客、社交媒体与智库网络，以透明的方法论标准与政府及公众开展专业对话，在抵制伪科学的同时引导政策循证实践走向严谨与自省。
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **从测量时代向[[Evidence Era|证据时代]]的[[Paradigm|范式]]演进** 2010 年后英格兰教师教育政策文本中的学术引文与国际参照爆发式增长，证据已演进为主导性的[[Rationalized Myth|合理化神话]]。（pp. 90–92）
-> 2. **政府把关与[[Policy-Based Evidence-Making|逆向证据生产]]机制** 英国教育部通过专家遴选与扶持官方代言机构牢牢掌控证据准入，使政策过程服从于如何落地的适宜性逻辑与[[Policy-Based Evidence-Making|基于政策的证据制造]]。（pp. 93–94）
-> 3. **中介网络与[[Epistemology|认识论]]连贯性断裂** 证据流通过程高度依赖社交媒体与非正式人际网络，剥离了学术研究的方法学前提与适用边界，加剧了政策实践中的认识论风险。（pp. 95–96）
+> 1. **从测量时代向[[Evidence Era\|证据时代]]的[[Paradigm\|范式]]演进** 2010 年后英格兰教师教育政策文本中的学术引文与国际参照爆发式增长，证据已演进为主导性的[[Rationalized Myth\|合理化神话]]。（pp. 90–92）
+> 2. **政府把关与[[Policy-Based Evidence-Making\|逆向证据生产]]机制** 英国教育部通过专家遴选与扶持官方代言机构牢牢掌控证据准入，使政策过程服从于如何落地的适宜性逻辑与[[Policy-Based Evidence-Making\|基于政策的证据制造]]。（pp. 93–94）
+> 3. **中介网络与[[Epistemology\|认识论]]连贯性断裂** 证据流通过程高度依赖社交媒体与非正式人际网络，剥离了学术研究的方法学前提与适用边界，加剧了政策实践中的认识论风险。（pp. 95–96）
 
 > [!stat-cards]- 关键实证数据
-> - **46 份** 研究所分析的 1983 至 2019 年间英格兰教师教育核心政策[[Document|文献]]总量。（p. 91）
-> - **20 位** [[In-depth Interview|深度访谈]]的高级公务员、部长顾问、智库负责人及学术领袖样本数。
+> - **46 份** 研究所分析的 1983 至 2019 年间英格兰教师教育核心政策[[Document\|文献]]总量。（p. 91）
+> - **20 位** [[In-depth Interview\|深度访谈]]的高级公务员、部长顾问、智库负责人及学术领袖样本数。
 > - **7 vs 34** 1983 年白皮书与 2010 年白皮书教师教育章节可溯源参考文献数量对比。（p. 92）
 > - **79 次** 2012 年下议院教育委员会报告中提及新加坡作为证据案例的频次。
 
@@ -299,18 +299,18 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card] 证据作为制度[[Rationalized Myth|合理化神话]]的崛起
-> 这引导我们提出当前正处于一个[[Evidence Era|证据时代]]，其中主导性的合理化神话聚焦于运用证据来为实践赋予正当性。与此同时，证据在研究开展时如何被构建、在进入政治环境时如何被重塑，这些重要问题却常被忽视。（p. 88）
+> [!citation-card] 证据作为制度[[Rationalized Myth\|合理化神话]]的崛起
+> 这引导我们提出当前正处于一个[[Evidence Era\|证据时代]]，其中主导性的合理化神话聚焦于运用证据来为实践赋予正当性。与此同时，证据在研究开展时如何被构建、在进入政治环境时如何被重塑，这些重要问题却常被忽视。（p. 88）
 >
 > *This leads us to suggest that we are in an 'evidence era' where a dominant rationalized myth centres on the use of 'evidence' to justify practice. Meanwhile, how 'evidence' is constructed as research is undertaken, and how it is transformed as it enters a political environment, are important questions that are often overlooked.*
 
 > [!citation-card] 政策落地考量与逆向证据制造
-> 在政府扮演[[Gatekeepers|把关人]]的情况下，行动者似乎更焦虑一项政策将如何在部长和教育部那里落地，而不是这是否是最应当采取的做法。正如一位政府顾问在访谈中所言：我们必须看它如何落地。如果我写出不同的报告，政府大可说一句谢谢，而报告将永远无法出版。（p. 94）
+> 在政府扮演[[Gatekeepers\|把关人]]的情况下，行动者似乎更焦虑一项政策将如何在部长和教育部那里落地，而不是这是否是最应当采取的做法。正如一位政府顾问在访谈中所言：我们必须看它如何落地。如果我写出不同的报告，政府大可说一句谢谢，而报告将永远无法出版。（p. 94）
 >
 > *With government as a gatekeeper, actors seem more worried about how a policy will 'land' with ministers and the DfE than with whether or not it is the best thing to do... ‘So, if I had written a report that was different, the government could just say: Thank you very much for your report. It would never get published.’*
 
-> [!citation-card] 全流程[[Epistemological Coherence|认识论连贯性]]与识别伪科学
-> 从证据生产（从构思、观察到分析的连贯研究逻辑）到实际应用（循证政策延续同一逻辑），连贯的逻辑必须贯穿始终；否则无论单个环节效度如何，整个流程都无法被视为稳健。如果要将真知与意见区分开来，学者必须以严谨的[[Epistemology|认识论]]清晰度与政府合作，不仅要抵制荒谬言论，更要指明荒谬何在并加以避免。（p. 96）
+> [!citation-card] 全流程[[Epistemological Coherence\|认识论连贯性]]与识别伪科学
+> 从证据生产（从构思、观察到分析的连贯研究逻辑）到实际应用（循证政策延续同一逻辑），连贯的逻辑必须贯穿始终；否则无论单个环节效度如何，整个流程都无法被视为稳健。如果要将真知与意见区分开来，学者必须以严谨的[[Epistemology\|认识论]]清晰度与政府合作，不仅要抵制荒谬言论，更要指明荒谬何在并加以避免。（p. 96）
 >
 > *Important in this regard, we believe coherent logic should extend from the start of evidence production to application... if the goal is to separate episteme from [[Doxa]] and to [[Construct]] valid evidence for informing any practice... not just to stand up to nonsense, but to identify what is nonsense, how is it nonsense, and how can we avoid it.*
 
@@ -320,7 +320,7 @@ issuing_organization: ""
 
 > [!warning]
 > - **领域制度序列的特殊性** 研究结论主要植根于英格兰教师教育政策的特定历史发展脉络（其早在 1984 年即通过 CATE 和视导要求开启了显性证据准入，早于普通中小学的 1988 年集中化改革）；向其他公共政策领域外推时必须审慎评估具体制度情境。（p. 96）
-> - **新媒体与中介效应的探索性** 对社交媒体和非正式中介在[[Policy Network|政策网络]]中影响机制的考察主要依托[[Qualitative Interview|质性访谈]]知情人的主观叙述，关于新媒体具体网络拓扑结构与传播效能的全面刻画仍有待后续研究拓展。（pp. 91, 95）
+> - **新媒体与中介效应的探索性** 对社交媒体和非正式中介在[[Policy Network\|政策网络]]中影响机制的考察主要依托[[Qualitative Interview\|质性访谈]]知情人的主观叙述，关于新媒体具体网络拓扑结构与传播效能的全面刻画仍有待后续研究拓展。（pp. 91, 95）
 
 ---
 

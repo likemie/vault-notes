@@ -45,12 +45,12 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 前实验设计（Pre-Experimental Designs）是[[Experimental Research|实验研究]]中[[Internal Validity|内部效度]]最低的一类设计。这类[[Design-Based Research|设计研究]]单一组并实施干预，不设对照组与实验组进行比较，或使用的比较组不等价（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 前实验设计（Pre-Experimental Designs）是[[Experimental Research\|实验研究]]中[[Internal Validity\|内部效度]]最低的一类设计。这类[[Design-Based Research\|设计研究]]单一组并实施干预，不设对照组与实验组进行比较，或使用的比较组不等价（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ## 方法变体
 
 > [!example]
-> 前实验设计包含以下四种主要变体（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8, Example 8.1），使用 Campbell & Stanley (1963) 的经典符号系统（X = 处理暴露，O = 观察或测量）：
+> 前实验设计包含以下四种主要变体（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8, Example 8.1），使用 Campbell & Stanley (1963) 的经典符号系统（X = 处理暴露，O = 观察或测量）：
 
 ### 一次性个案研究（One-Shot Case Study）
 
@@ -99,23 +99,23 @@ Group B  X2 ———————————————— O
 > [!success]
 > - 初步探索性研究中，当资源和条件不足以实施真实验时。
 > - 教学情境中用于初步评估教学干预的效果。
-> - 作为更严格实验设计的预备阶段（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - 作为更严格实验设计的预备阶段（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ## 局限性
 
 > [!warning]
-> - [[Internal Validity|内部效度]]极低：缺乏[[Random Assignment|随机分配]]、对照组和／或[[Pre-test and Post-test|前测]]，几乎无法排除替代性因果解释。
+> - [[Internal Validity\|内部效度]]极低：缺乏[[Random Assignment\|随机分配]]、对照组和／或[[Pre-test and Post-test\|前测]]，几乎无法排除替代性因果解释。
 > - 单组设计无法区分处理效果与自然成熟、历史事件、回归均值等威胁。
-> - 不适合做出[[Causality|因果推断]]（Campbell & Stanley, 1963; 引自 Creswell & Creswell, 2022, Ch8）。
+> - 不适合做出[[Causality\|因果推断]]（Campbell & Stanley, 1963; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ## 方法变体与相近方法
 
 > [!tip]-
-> - [[Quasi-Experimental Designs]] — 准实验设计增加了对照组和时间序列观测，[[Internal Validity|内部效度]]高于前实验设计。
-> - [[Experimental Research]] — 真实验通过[[Random Assignment|随机分配]]获得最高的内部效度。
+> - [[Quasi-Experimental Designs]] — 准实验设计增加了对照组和时间序列观测，[[Internal Validity\|内部效度]]高于前实验设计。
+> - [[Experimental Research]] — 真实验通过[[Random Assignment\|随机分配]]获得最高的内部效度。
 
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — Adeyemi (1992) 在博茨瓦纳使用单组前[[Pre-test and Post-test|后测]]设计（O₁ X O₂），以 BSSPS 量表测量 48 名研究生文凭学生对社会科教学哲学取向的变化；Campbell & Stanley (1963) 将单组前后测设计描述为展示混淆[[Variable|变量]]危及[[Internal Validity|内部效度]]的"坏例子"。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Adeyemi (1992) 在博茨瓦纳使用单组前[[Pre-test and Post-test\|后测]]设计（O₁ X O₂），以 BSSPS 量表测量 48 名研究生文凭学生对社会科教学哲学取向的变化；Campbell & Stanley (1963) 将单组前后测设计描述为展示混淆[[Variable\|变量]]危及[[Internal Validity\|内部效度]]的"坏例子"。
 

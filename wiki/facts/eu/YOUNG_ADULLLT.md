@@ -50,28 +50,28 @@ updated: 2026-09-18
 ## 背景
 
 > [!info]
-> YOUNG_ADULLLT 是欧盟 Horizon 2020 框架资助的研究项目（Grant No 693167），旨在系统考察欧盟各成员国和区域的[[Lifelong Learning|终身学习]]（lifelong learning）政策治理实践。该项目特别关注：终身学习政策在区域层面如何被治理、地方专业人员如何理解和实施这些政策、以及他们运作中依赖何种 [[Theories of Policy Change]]([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])。
+> YOUNG_ADULLLT 是欧盟 Horizon 2020 框架资助的研究项目（Grant No 693167），旨在系统考察欧盟各成员国和区域的[[Lifelong Learning\|终身学习]]（lifelong learning）政策治理实践。该项目特别关注：终身学习政策在区域层面如何被治理、地方专业人员如何理解和实施这些政策、以及他们运作中依赖何种 [[Theories of Policy Change]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])。
 >
 > 项目的政策背景是 [[Europe 2020 Strategy]] 及其旗舰倡议 [[EU Skills Agenda]] 和 [[Youth Guarantee Scheme]] 的实施期——这一时期欧盟通过 [[Performance Indicators]] 和区域排名体系推动成员国和区域的教育培训改革，而 YOUNG_ADULLLT 正为理解这些政策在地方层面的实际接受与转化提供了系统的经验证据（p.172–174）。
 
 ## 项目概况
 
 > [!abstract]
-> YOUNG_ADULLLT 项目的核心设计如下([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])：
+> YOUNG_ADULLLT 项目的核心设计如下([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])：
 >
 > - **资助框架** Horizon 2020（Grant No 693167）
-> - **研究方法** 半结构式访谈（[[Semi-structured Interview|semi-structured interviews]]）
-> - **样本规模** 168 名[[Lifelong Learning|终身学习]]政策专家
+> - **研究方法** 半结构式访谈（[[Semi-structured Interview\|semi-structured interviews]]）
+> - **样本规模** 168 名[[Lifelong Learning\|终身学习]]政策专家
 > - **覆盖范围** 9 个欧盟成员国的 16 个 NUTS2 区域
 >   - 奥地利（2 区）、保加利亚（2 区）、德国（2 区）、西班牙（2 区）
 >   - 芬兰（2 区）、克罗地亚（2 区）、意大利（2 区）、葡萄牙（2 区）、英国（2 区）
 > - **受访者类型** 终身学习政策专家——包括各级政府官员、培训机构管理者、社会伙伴代表、非营利组织负责人等
-> - **核心议题** 区域层面的终身学习政策治理模式、专业人员对政策话语的接受与转化、地方层面的[[Theory of Change|变革理论]]建构
+> - **核心议题** 区域层面的终身学习政策治理模式、专业人员对政策话语的接受与转化、地方层面的[[Theory of Change\|变革理论]]建构
 
 ## 主要发现
 
 > [!success]
-> [[Argument_Rambla_2022_Springer|Rambla (2022, p.172–174)]]基于 YOUNG_ADULLLT 数据报告了以下核心发现：
+> [[Argument_Rambla_2022_Springer\|Rambla (2022, p.172–174)]]基于 YOUNG_ADULLLT 数据报告了以下核心发现：
 
 ### 治理模式的差异化格局
 
@@ -97,15 +97,15 @@ updated: 2026-09-18
 
 > [!info]- 核心数据
 > - 项目资助：Horizon 2020, Grant No 693167
-> - 样本：9 国 16 区，168 名终身学习政策[[Expert Interview|专家访谈]]([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])
+> - 样本：9 国 16 区，168 名终身学习政策[[Expert Interview\|专家访谈]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])
 > - 覆盖区域类型：北欧（芬兰）、德语区（德国、奥地利）、西欧（英国）、南欧（西班牙、意大利、葡萄牙、克罗地亚）、东欧（保加利亚）
 
 ## 相关概念／理论
 
 > [!tip]-
-> - [[Network Governance]] — YOUNG_ADULLLT 的核心发现之一是[[Lifelong Learning|终身学习]]政策的官僚—网络混合治理模式
-> - [[Theories of Policy Change]] — 项目考察了地方专业人员如何内化、转化或自主建构[[Theory of Change|变革理论]]
-> - [[Selectivity]] — 项目数据为[[Performance Indicators|绩效指标]]体系的选择性效应提供了直接的经验证据
+> - [[Network Governance]] — YOUNG_ADULLLT 的核心发现之一是[[Lifelong Learning\|终身学习]]政策的官僚—网络混合治理模式
+> - [[Theories of Policy Change]] — 项目考察了地方专业人员如何内化、转化或自主建构[[Theory of Change\|变革理论]]
+> - [[Selectivity]] — 项目数据为[[Performance Indicators\|绩效指标]]体系的选择性效应提供了直接的经验证据
 > - [[Neocorporatism]] — 德国及邻国的新社团主义传统构成了网络治理的重要制度基础
 > - [[Performance Indicators]] — 项目揭示了地方专业人员对 EU 绩效指标体系的差异化回应
 

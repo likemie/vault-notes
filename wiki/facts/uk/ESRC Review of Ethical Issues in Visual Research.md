@@ -44,26 +44,26 @@ updated: 2026-08-11
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 英国经济与社会研究理事会（Economic and Social Research Council，ESRC）于 2008 年发布，为其研究方法评论系列（NCRM-011）的一部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
-> - **适用地区 / 对象** 英国接受 ESRC 资助或遵循其伦理框架的[[Visual Research Methods|视觉研究]]者。
-> - **问题背景** 视觉研究在[[Informed Consent|知情同意]]、匿名与保密、图像所有权与传播上的伦理实践不如文字与数字研究成熟，需要系统性梳理与指引。
+> - **发布时间 / 发布主体** 英国经济与社会研究理事会（Economic and Social Research Council，ESRC）于 2008 年发布，为其研究方法评论系列（NCRM-011）的一部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
+> - **适用地区 / 对象** 英国接受 ESRC 资助或遵循其伦理框架的[[Visual Research Methods\|视觉研究]]者。
+> - **问题背景** 视觉研究在[[Informed Consent\|知情同意]]、匿名与保密、图像所有权与传播上的伦理实践不如文字与数字研究成熟，需要系统性梳理与指引。
 > - **制度位置** 属研究理事会层面的方法评论，与专业协会伦理守则（如英国社会学协会 2006 年声明）互补，并纳入法律权利与义务的框架。
 
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 该综述系统梳理[[Visual Research Methods|视觉研究]]的伦理问题，涵盖框架、专业指导、法规与法律权利和义务，并给出实践指南，标示出[[Visual Data|视觉数据]]研究者必须遵循的审慎边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
+> 该综述系统梳理[[Visual Research Methods\|视觉研究]]的伦理问题，涵盖框架、专业指导、法规与法律权利和义务，并给出实践指南，标示出[[Visual Data\|视觉数据]]研究者必须遵循的审慎边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
 > [!policy-design]- 综述覆盖的议题
 > - **框架与法规** 伦理框架、专业指导、法规与法律权利和义务。
-> - **同意问题** 伦理与同意；研究者生成与受访者生成的图像；照片引谈与[[Informed Consent|知情同意]]。
+> - **同意问题** 伦理与同意；研究者生成与受访者生成的图像；照片引谈与[[Informed Consent\|知情同意]]。
 > - **匿名与保密** 匿名化与遮蔽视觉数据；匿名与保密；识别个人的照片与影片；场所图像的匿名化。
 > - **图像的建构与消费** 图像的建构与消费，以及实践指南。
 
 ## 时间线
 
 > [!timeline] 综述时间线
-> - 2008 英国经济与社会研究理事会发布[[Visual Research Methods|视觉研究]]伦理问题综合分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
+> - 2008 英国经济与社会研究理事会发布[[Visual Research Methods\|视觉研究]]伦理问题综合分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
 ## 相关概念／理论
 

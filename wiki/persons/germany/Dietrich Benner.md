@@ -55,12 +55,12 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!info] 修正版教学三角（Modified Didactic Triangle）
-> Benner 提出修正版教学三角模型，区别于传统版本([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.122–123]])：
+> Benner 提出修正版教学三角模型，区别于传统版本([[Argument_Sarbiewska_2019_JSR\|Sarbiewska, 2019, p.122–123]])：
 >
 > **传统模型（经典版教学三角）：**
 > - "课程"（Curriculum）扮演关键角色，是"教师"和"学习者"之间的交换对象
 > - 教育被理解为知识与技能在拥有者与需掌握者之间的传递
-> - "教学"等同于"学习"——[[Hypothesis|假设]]教师教了什么学生就学到了什么
+> - "教学"等同于"学习"——[[Hypothesis\|假设]]教师教了什么学生就学到了什么
 > - "教育"（educating）被局限于道德领域或礼仪培养，与教学分离
 >
 > **修正模型：**
@@ -75,5 +75,5 @@ updated: 2026-09-11
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Bildung]] — Benner 继承并发展了德国 Bildung 传统，将其与 Dewey 的[[Democratic Education|民主教育]]思想进行[[Dialogue in Education|对话]]
-> - 修正版教学三角 — 为理解[[Evidence-Based Education|证据本位教育]]改革提供了理论框架，[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] 以此解释新西兰和澳大利亚从传统教育模型向证据本位模型的转变（详见 [[Argument_Sarbiewska_2019_JSR]]）
+> - [[Bildung]] — Benner 继承并发展了德国 Bildung 传统，将其与 Dewey 的[[Democratic Education\|民主教育]]思想进行[[Dialogue in Education\|对话]]
+> - 修正版教学三角 — 为理解[[Evidence-Based Education\|证据本位教育]]改革提供了理论框架，[[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] 以此解释新西兰和澳大利亚从传统教育模型向证据本位模型的转变（详见 [[Argument_Sarbiewska_2019_JSR]]）

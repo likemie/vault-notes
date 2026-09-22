@@ -45,12 +45,12 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> 赞助研究协议（Sponsored Research Agreement, SRA）是[[University-Industry Collaboration|产学合作]]中最常见的合同形式。企业从内部资金中向大学提供资助，支持特定研究项目的开展。大学通常有一套适用于 SRA 的默认 IP 条款，但这些条款可能需要根据产业赞助方的需求进行调整([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, p.275]])。
+> 赞助研究协议（Sponsored Research Agreement, SRA）是[[University-Industry Collaboration\|产学合作]]中最常见的合同形式。企业从内部资金中向大学提供资助，支持特定研究项目的开展。大学通常有一套适用于 SRA 的默认 IP 条款，但这些条款可能需要根据产业赞助方的需求进行调整([[Argument_Susalka_Carbone_2025_IP_Web\|Susalka & Carbone, 2025, p.275]])。
 
 ## 在产学合作谱系中的位置
 
 > [!abstract]
-> SRA 位于[[University-Industry Collaboration|产学合作]]权利转让谱系的中间位置，两端分别是赠款和技术服务协议（p.281）：
+> SRA 位于[[University-Industry Collaboration\|产学合作]]权利转让谱系的中间位置，两端分别是赠款和技术服务协议（p.281）：
 
 | 合作类型 | 产业方权利 | SRA 的相对位置 |
 |---------|-----------|--------------|
@@ -79,16 +79,16 @@ updated: 2026-09-10
 ## 概念辨析
 
 > [!example]
-> - vs 赠款：赠款不附带任何 IP 权利回授，SRA 则包含标准的 [[Foreground IP|FIP]] 权利转让
+> - vs 赠款：赠款不附带任何 IP 权利回授，SRA 则包含标准的 [[Foreground IP\|FIP]] 权利转让
 > - vs 技术服务协议：技术服务协议的范围应非常狭窄且不包括研究（如使用大学的专业设备分析企业提供的组件），企业通常拥有或获得免版税独家许可的全部结果和 IP
-> - vs [[Master Agreement|主协议]]：主协议是规范长期战略合作的框架性协议，SRA 可以是主协议下的单个项目执行协议
+> - vs [[Master Agreement\|主协议]]：主协议是规范长期战略合作的框架性协议，SRA 可以是主协议下的单个项目执行协议
 
 ---
 
 ## 在企业组织中的时间尺度定位
 
 > [!note]-
-> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.229–231)]]将 SRA 置于[[University-Industry Collaboration|产学合作]]协议工具的时间尺度谱系中。SRA 位于谱系的最长端——3 年以上、开放式[[Research Question|研究问题]]、产出以学术发表和人才培养为主——与咨询协议（最短端、具体产品工程问题）形成对比。
+> [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025, pp.229–231)]]将 SRA 置于[[University-Industry Collaboration\|产学合作]]协议工具的时间尺度谱系中。SRA 位于谱系的最长端——3 年以上、开放式[[Research Question\|研究问题]]、产出以学术发表和人才培养为主——与咨询协议（最短端、具体产品工程问题）形成对比。
 
 从企业 [[Academic Engagement Team|AET]] 的组织角度看，SRA 的长周期特征决定了它不适合由分散化的业务部门直接管理。业务部门的季度规划周期和利润考核压力天然倾向于短期、目标明确的合作形式。SRA 需要中央化 AET 在早期阶段"孵育"——管理合作关系、[[Cohort Study|追踪研究]]进展、维护学术联系——直到研究概念成熟到可以向业务部门利益相关者展示商业价值。此时 SRA 的"监护权"可以从中央 AET 转移到业务部门进行后续开发([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.230–231]])。
 

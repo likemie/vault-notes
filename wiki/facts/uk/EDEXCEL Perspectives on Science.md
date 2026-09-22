@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
   - theme/critical-thinking
   - level/k12
 related_concepts:
+  - "[[Nature of Science]]"
   - "[[Critical Thinking]]"
   - "[[Theory of Knowledge]]"
   - "[[Scientism]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-22
 ---
 
 # EDEXCEL Perspectives on Science
@@ -49,13 +50,13 @@ updated: 2026-07-05
 > - **时间地点** 英国，2004 年 11 月草案（EDEXCEL Level 3 AS GCE in History and Philosophy and Ethics）
 > - **关键主体** EDEXCEL 考试局（Pearson 旗下英国考试认证机构）
 > - **制度背景** 英国 AS 级（Advanced Subsidiary）课程体系，相当于 A-Level 第一年，高中阶段大学预科课程
-> - **触发条件** 英国国家课程改革要求在科学教育中融入科学本质（NOS）和[[Critical Thinking|批判性思维]]元素的背景下推出
+> - **触发条件** 英国国家课程改革要求在科学教育中融入[[Nature of Science\|科学本质]]（NOS）和[[Critical Thinking\|批判性思维]]元素的背景下推出
 
 ---
 
 ## 课程设计
 
-> [!contrast-table] 与 IB [[Theory of Knowledge|TOK]] 的对比
+> [!contrast-table] 与 IB [[Theory of Knowledge\|TOK]] 的对比
 > | 维度 | EDEXCEL Perspectives on Science | [[Theory of Knowledge\|IB TOK]] |
 > |---|---|---|
 > | **框架选择** | 留在学术学科内部（[[Scientism\|科学主义]]框架） | 创建超学科框架（学生中心） |

@@ -54,10 +54,10 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 毕业生特质（graduate attributes）在本科层次被广泛理解为"大学社群认同其学生在学期间应当发展的品质、技能和理解，这些特质将塑造他们对其专业和作为公民所能做出的贡献"（Bowden et al., 2000, p.3; 引自 Spronken-Smith et al., 2024, p.86）。它与[[Employability|就业能力]]紧密相关，但涵盖更广——就业能力只是其中一个维度([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1341]])。
+> 毕业生特质（graduate attributes）在本科层次被广泛理解为"大学社群认同其学生在学期间应当发展的品质、技能和理解，这些特质将塑造他们对其专业和作为公民所能做出的贡献"（Bowden et al., 2000, p.3; 引自 Spronken-Smith et al., 2024, p.86）。它与[[Employability\|就业能力]]紧密相关，但涵盖更广——就业能力只是其中一个维度([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1341]])。
 
 > [!info]
-> 在博士层次，Senekal, Munnik, and Frantz（2022）的[[Systematic Review|系统综述]]将博士毕业生特质定义为"毕业生完成博士学位后所拥有的品质、技能和能力"（引自 Spronken-Smith et al., 2024, p.87）。这一定义强调博士毕业生特质的**整体性**——不仅是研究技能，还包括人际、组织、公民和职业发展等多维能力。
+> 在博士层次，Senekal, Munnik, and Frantz（2022）的[[Systematic Review\|系统综述]]将博士毕业生特质定义为"毕业生完成博士学位后所拥有的品质、技能和能力"（引自 Spronken-Smith et al., 2024, p.87）。这一定义强调博士毕业生特质的**整体性**——不仅是研究技能，还包括人际、组织、公民和职业发展等多维能力。
 
 [[Document|文献]]中亦使用 graduate outcomes、graduate skills、graduate qualities、graduate capabilities 等术语，与 graduate attributes 基本同义（Barrie et al., 2009; 引自 Wong et al., 2022, p.1341）。
 
@@ -69,19 +69,19 @@ updated: 2026-08-20
 ## 概念辨析
 
 > [!example]
-> - vs [[Employability]] — 毕业生特质涵盖更广泛的人文素养（如[[Global Citizenship|全球公民]]、[[Lifelong Learning|终身学习]]），就业能力是其中一个维度([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1341]])。就业能力话语更偏向雇主要求和短期职场准备，毕业生特质则包含公民责任和终身发展
-> - **本科 vs 博士层次** — 本科毕业生特质强调通用性和基础性，博士层次则要求"更高水平的能力"([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.86]])。博士特质还包括学术声誉（scholarship）和职业管理（career management）等本科不常见的维度([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.98–99]])
+> - vs [[Employability]] — 毕业生特质涵盖更广泛的人文素养（如[[Global Citizenship\|全球公民]]、[[Lifelong Learning\|终身学习]]），就业能力是其中一个维度([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1341]])。就业能力话语更偏向雇主要求和短期职场准备，毕业生特质则包含公民责任和终身发展
+> - **本科 vs 博士层次** — 本科毕业生特质强调通用性和基础性，博士层次则要求"更高水平的能力"([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p.86]])。博士特质还包括学术声誉（scholarship）和职业管理（career management）等本科不常见的维度([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp.98–99]])
 
 ---
 
 ## 概念演变
 
 > [!note]-
-> 毕业生特质的兴起与高等教育市场化（marketisation）直接相关：政府与政策要求大学培养高技能劳动力以满足[[Knowledge-Based Economy|知识经济]]需求，大学则将其用作学习质量、教学质量和[[Organizational Culture|组织文化]]的标志（Hill et al., 2016; Bridgstock, 2009; Wald & Harland, 2019; 引自 Wong et al., 2022, pp.1340–1341）。
+> 毕业生特质的兴起与高等教育市场化（marketisation）直接相关：政府与政策要求大学培养高技能劳动力以满足[[Knowledge-Based Economy\|知识经济]]需求，大学则将其用作学习质量、教学质量和[[Organizational Culture\|组织文化]]的标志（Hill et al., 2016; Bridgstock, 2009; Wald & Harland, 2019; 引自 Wong et al., 2022, pp.1340–1341）。
 >
 > 在澳大利亚、新西兰和英国，大学日益普遍地向潜在学生宣传其毕业生特质愿景，但早期研究集中在本科层次（Barrie et al., 2009; Normand & Anderson, 2017; 引自 Wong et al., 2022, p.1340）。
 >
-> 博士层次的毕业生特质讨论起步较晚，但近年来因博士就业多元化和问责压力而快速增长。截至 2018 年，跨学科、跨国的博士毕业生特质研究仍然稀疏([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.87–88]])。Senekal et al.（2022）对 2016–2021 年间 35 篇论文的综述是这一领域首次系统性整合，识别出十个博士特质领域，并指出 Vitae 研究员发展框架（RDF）是最接近的参照框架，但在学术声誉和个人资源fulness 方面仍有缺口([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。
+> 博士层次的毕业生特质讨论起步较晚，但近年来因博士就业多元化和问责压力而快速增长。截至 2018 年，跨学科、跨国的博士毕业生特质研究仍然稀疏([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp.87–88]])。Senekal et al.（2022）对 2016–2021 年间 35 篇论文的综述是这一领域首次系统性整合，识别出十个博士特质领域，并指出 Vitae 研究员发展框架（RDF）是最接近的参照框架，但在学术声誉和个人资源fulness 方面仍有缺口([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p.87]])。
 
 ---
 
@@ -160,7 +160,7 @@ updated: 2026-08-20
 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的跨国调查揭示了一个跨制度一致的模式：博士培养在研究者身份建构上高度成功，但在可转移技能和全球公民属性上存在可测量的缺口。
 
 > [!success] 关键数据（pp.89–93）
-> - **最强的特质**（发展均值 ≥ 4.0）：研究技能 4.4、分析技能 4.4、学术严谨性 4.3、学习意愿 4.2、书面沟通 4.2、[[Problem Solving|问题解决]] 4.2、独立判断 4.0
+> - **最强的特质**（发展均值 ≥ 4.0）：研究技能 4.4、分析技能 4.4、学术严谨性 4.3、学习意愿 4.2、书面沟通 4.2、[[Problem Solving\|问题解决]] 4.2、独立判断 4.0
 > - **最弱的特质**（发展均值 ≤ 3.4）：环境素养 2.8、团队合作 2.9、实施变革 3.1、文化理解 3.2、全球视野 3.4、伦理意识 3.4、自信心 3.4
 > - **最大的发展-应用差值** 团队合作 1.3、自信心 0.9、口头沟通 0.8、实施变革 0.8
 > - **唯一"过度发展"的特质** 学术严谨性（发展 4.3 > 应用 4.0）和研究技能（4.4 > 4.2）
@@ -172,8 +172,8 @@ updated: 2026-08-20
 ## 理论基础
 
 > [!tip]-
-> - **高等教育市场化理论** 大学需要向学生证明其价值和[[Return on Investment|投资回报]]，推动了毕业生特质在本科层次的产生与发展([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1340]])。博士层次同样受此驱动——就业多元化使大学面临培养"不只做学术"的博士毕业生的问责压力([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.86]])
-> - **[[Disciplinary Socialization|学科社会化]]理论（disciplinary socialization）** 博士培养不仅传递知识技能，更传递"什么是有价值的职业路径"的隐性规范。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的访谈揭示了这一机制：导师和院系文化主动暗示非学术路径是"次等选择"，从而系统性地压制了对可转移技能和职业发展的需求表达（p.96）
+> - **高等教育市场化理论** 大学需要向学生证明其价值和[[Return on Investment\|投资回报]]，推动了毕业生特质在本科层次的产生与发展([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1340]])。博士层次同样受此驱动——就业多元化使大学面临培养"不只做学术"的博士毕业生的问责压力([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p.86]])
+> - **[[Disciplinary Socialization\|学科社会化]]理论（disciplinary socialization）** 博士培养不仅传递知识技能，更传递"什么是有价值的职业路径"的隐性规范。[[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]]的访谈揭示了这一机制：导师和院系文化主动暗示非学术路径是"次等选择"，从而系统性地压制了对可转移技能和职业发展的需求表达（p.96）
 
 ---
 
@@ -217,8 +217,8 @@ updated: 2026-08-20
 > [!example]
 > - 澳大利亚毕业生特质国家项目（Barrie et al., 2009）— 全国性系统映射
 > - 澳大利亚大学毕业生特质映射（Oliver & Jorre de St Jorre, 2018）— 除学科知识外识别出八类核心特质
-> - NZU 博士毕业生 profile — 在研究技能和专业知识之外，明确列出 13 项可转移技能和情感属性，包括全球视野、文化理解和环境素养三项[[Global Citizenship|全球公民]]属性([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.88]])
-> - Vitae 研究员发展框架（RDF, UK）— 覆盖知识、个人效能、研究治理与组织、参与影响四个领域，是目前博士特质最全面的参照框架，但缺少学术声誉（scholarship）的完整覆盖([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])
+> - NZU 博士毕业生 profile — 在研究技能和专业知识之外，明确列出 13 项可转移技能和情感属性，包括全球视野、文化理解和环境素养三项[[Global Citizenship\|全球公民]]属性([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p.88]])
+> - Vitae 研究员发展框架（RDF, UK）— 覆盖知识、个人效能、研究治理与组织、参与影响四个领域，是目前博士特质最全面的参照框架，但缺少学术声誉（scholarship）的完整覆盖([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p.87]])
 
 ---
 

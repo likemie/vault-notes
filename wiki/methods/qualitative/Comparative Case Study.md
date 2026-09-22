@@ -49,7 +49,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!info]
-> 比较[[Case Study|案例研究]]（Comparative [[Case Study]], CCS）是 Bartlett & Vavrus (2017) 在 *Rethinking Case Study Research: A Comparative Approach* 中提出的比较研究方法。与传统案例研究不同，CCS 不将案例视为封闭的、有边界的单元，而是采用**过程性的"做案例"（casing）**理解——案例不是预先给定的，而是在研究过程中被持续建构和界定的([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])。
+> 比较[[Case Study\|案例研究]]（Comparative [[Case Study]], CCS）是 Bartlett & Vavrus (2017) 在 *Rethinking Case Study Research: A Comparative Approach* 中提出的比较研究方法。与传统案例研究不同，CCS 不将案例视为封闭的、有边界的单元，而是采用**过程性的"做案例"（casing）**理解——案例不是预先给定的，而是在研究过程中被持续建构和界定的([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p.202]])。
 
 CCS 的核心操作是通过三个分析轴同时对现象进行比较：
 
@@ -58,7 +58,7 @@ CCS 的核心操作是通过三个分析轴同时对现象进行比较：
 - **横贯轴（transversal axis）** 历时性地追溯所考察的过程或关系的历史变迁
 
 > [!quote]
-> "The horizontal axis compares how similar policies unfold in distinct locations that are socially produced […] and 'complexly connected' […] The vertical axis insists on simultaneous attention to and across scales […] The transversal comparison historically situates the processes or relations under consideration." (Bartlett & Vavrus, 2017a, p.3, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])
+> "The horizontal axis compares how similar policies unfold in distinct locations that are socially produced […] and 'complexly connected' […] The vertical axis insists on simultaneous attention to and across scales […] The transversal comparison historically situates the processes or relations under consideration." (Bartlett & Vavrus, 2017a, p.3, cited in [[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p.202]])
 >
 > 水平轴比较相似政策如何在不同的、社会性生产的且复杂连接的地点展开……垂直轴坚持同时关注不同尺度并跨越尺度……横贯比较将所考察的过程或关系置于历史语境中。
 
@@ -67,7 +67,7 @@ CCS 的核心操作是通过三个分析轴同时对现象进行比较：
 ## 认识论立场
 
 > [!abstract]
-> CCS 反对将案例视为"自然存在"的孤立单元。其过程性[[Epistemology|认识论]]主张：案例是研究者通过[[Theoretical Perspective|理论视角]]和方法选择**制造**出来的——"casing"是一个主动的分析行为，而非简单的对象选择。这一立场与[[Cultural Political Economy|文化政治经济学]]等强调建构性的理论框架兼容，适合分析那些边界模糊、跨越多重尺度的复杂现象（如教育枢纽同时涉及地方教育政策、国家发展战略和全球地缘政治）([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 205]])。
+> CCS 反对将案例视为"自然存在"的孤立单元。其过程性[[Epistemology\|认识论]]主张：案例是研究者通过[[Theoretical Perspective\|理论视角]]和方法选择**制造**出来的——"casing"是一个主动的分析行为，而非简单的对象选择。这一立场与[[Cultural Political Economy\|文化政治经济学]]等强调建构性的理论框架兼容，适合分析那些边界模糊、跨越多重尺度的复杂现象（如教育枢纽同时涉及地方教育政策、国家发展战略和全球地缘政治）([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.202, 205]])。
 
 ---
 
@@ -107,8 +107,8 @@ CCS 的研究操作不遵循固定的线性步骤，而是通过三个轴的**�
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 以 CCS 比较新加坡和阿联酋的教育枢纽项目，聚焦横贯维度追溯 1990–2018 年间的现象变迁
-> - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较[[Case Study|案例研究]]加[[Mixed Methods Research|混合方法]]，比较两所美国大学和一所新西兰大学的 PhD [[Graduate Attributes|毕业生特质]]发展与职场应用，以制度不同的三校一致性模式推论博士培养的系统性偏向
-> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与多维做数据张力
+> - [[Argument_Erfurth_2022_education-hubs\|Erfurth (2022)]] — 以 CCS 比较新加坡和阿联酋的教育枢纽项目，聚焦横贯维度追溯 1990–2018 年间的现象变迁
+> - [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] — 采用比较[[Case Study\|案例研究]]加[[Mixed Methods Research\|混合方法]]，比较两所美国大学和一所新西兰大学的 PhD [[Graduate Attributes\|毕业生特质]]发展与职场应用，以制度不同的三校一致性模式推论博士培养的系统性偏向
+> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure\|数据基础设施]]的社会-技术实践与多维做数据张力
 
 ---

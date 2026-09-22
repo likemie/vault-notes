@@ -53,6 +53,7 @@ related_theories:
   - "[[CER Framework]]"
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Walton's Argumentation Schemes]]"
+  - "[[Epistemic Injustice]]"
   - "[[Reliabilism]]"
 related_methods:
   - "[[Discourse Analysis]]"
@@ -86,7 +87,7 @@ title: "Argument_Duncan_2025_CI"
 argument_key: "Argument_Duncan_2025_CI"
 argument_display_title: "Evaluating the Quality of Argumentation: The Role of Epistemic Ideals and Reliable Processes"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -103,15 +104,15 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 过去二十年间，科学教育研究者与政策制定者普遍将论证能力确立为[[21st Century Skills and Competencies Discourse|核心素养]]目标。然而，学界长期占主导地位的评价方案高度依赖图尔敏论证型式（Toulmin's Argument Pattern, [[Toulmin's Argumentation Model|TAP]]）及其衍生的结构主义进路（如主张-证据-推理，[[CER Framework|Claim-Evidence-Reasoning]], CER，框架），仅根据是否具备特定句法部件评判论证优劣。在当下错误信息与虚假信息泛滥的社会语境中，气候变暖否定论与反疫苗言论等充斥伪科学逻辑的文本，往往在结构复杂性上表现优异，而结构分析对此类[[Epistemology|认识论]]缺陷彻底失明。科学教育亟需建立一套怎样的理论评价框架，方能超越单纯的外部句法结构，系统捕捉科学论证背后的认识论实质与证据因果[[Reliability|信度]]？（pp. 201–204）
+> 过去二十年间，科学教育研究者与政策制定者普遍将论证能力确立为[[21st Century Skills and Competencies Discourse\|核心素养]]目标。然而，学界长期占主导地位的评价方案高度依赖图尔敏论证型式（Toulmin's Argument Pattern, [[Toulmin's Argumentation Model\|TAP]]）及其衍生的结构主义进路（如主张-证据-推理，[[CER Framework\|Claim-Evidence-Reasoning]], CER，框架），仅根据是否具备特定句法部件评判论证优劣。在当下错误信息与虚假信息泛滥的社会语境中，气候变暖否定论与反疫苗言论等充斥伪科学逻辑的文本，往往在结构复杂性上表现优异，而结构分析对此类[[Epistemology\|认识论]]缺陷彻底失明。科学教育亟需建立一套怎样的理论评价框架，方能超越单纯的外部句法结构，系统捕捉科学论证背后的认识论实质与证据因果[[Reliability\|信度]]？（pp. 201–204）
 
 > [!claim] 科学论证评价应从句法形式转向认识论实质
-> 科学论证质量的评估必须实现从句法结构分析向认识论实质评估的[[Paradigm|范式]]转向。基于目标、理想与[[Reliable Epistemic Processes|可靠过程]]模型（Aims, Ideals, and Reliable Processes, [[AIR Model of Epistemic Cognition|AIR]]），优质科学论证不仅需要合理的结构形态，更本质地取决于论证者所调动的[[Epistemic Ideals|认识论理想]]（如全域证据契合、多源证据收敛、推论直接性与决定性），以及对证据生成中[[Reliable Epistemic Processes|可靠认识论过程]]及其因果约束条件的敏锐审查。（pp. 201–202, 210–211）
+> 科学论证质量的评估必须实现从句法结构分析向认识论实质评估的[[Paradigm\|范式]]转向。基于目标、理想与[[Reliable Epistemic Processes\|可靠过程]]模型（Aims, Ideals, and Reliable Processes, [[AIR Model of Epistemic Cognition\|AIR]]），优质科学论证不仅需要合理的结构形态，更本质地取决于论证者所调动的[[Epistemic Ideals\|认识论理想]]（如全域证据契合、多源证据收敛、推论直接性与决定性），以及对证据生成中[[Reliable Epistemic Processes\|可靠认识论过程]]及其因果约束条件的敏锐审查。（pp. 201–202, 210–211）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 科学教育中的口头与书面论证、初中生在基于模型的探究（Model-Based Inquiry, MBI）中的论证表现、伪科学舆论话语（气候变化否定论与反疫苗宣传文本）。
 > - **张力** 句法结构的完整性与认识论实质的合理性之间的严重脱节：结构分析给予高分的文本可能充斥劣质认识论判断；而结构看似简短的学生日常话语却可能蕴含深刻的过程可靠性洞察。
-> - **贡献** 将[[Epistemic Cognition|认识论认知]]领域权威的 AIR 模型系统拓展至科学论证评价体系，提出了结构分析与认识论分析互补的双重视角，开发了涵盖观察实践与证据整合的认识论质性分析模板，确立了培育学生元认识论辩护能力与[[Epistemic Agency|认识主体性]]的教学进路。
+> - **贡献** 将[[Epistemic Cognition\|认识论认知]]领域权威的 AIR 模型系统拓展至科学论证评价体系，提出了结构分析与认识论分析互补的双重视角，开发了涵盖观察实践与证据整合的认识论质性分析模板，确立了培育学生元认识论辩护能力与[[Epistemic Agency\|认识主体性]]的教学进路。
 
 ---
 
@@ -127,7 +128,7 @@ issuing_organization: ""
 > | **确证标准**<br>[[Justificatory Standards]] | 评估知识主张合法性所依赖的细粒度量尺。在本文中被进一步具体化为多源收敛、样本代表性、对照消除偏差等微观认识准则。（pp. 205–206） |
 
 > [!warrant]- 理论如何支撑论证
-> [[Epistemic Cognition|认识论认知]]不是个体头脑中脱离情境的抽象信念，而是深植于具体学科知识与探究情境中的因果实践网络。拉维特·格兰·邓肯（Ravit Golan Duncan）与[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）指出，科学论证的本质是通过协调经验证据与理论模型来确证知识主张的认识实践。因此，评估论证不能停留于图尔敏式的外部部件清点，而必须深入考察论证者在挑选、权衡证据时诉诸了何种规范性评价标准（认识论理想），以及是否理解证据生成背后的因果方法论条件（可靠[[Epistemology|认识论]]过程）。（pp. 206–208）
+> [[Epistemic Cognition\|认识论认知]]不是个体头脑中脱离情境的抽象信念，而是深植于具体学科知识与探究情境中的因果实践网络。拉维特·格兰·邓肯（Ravit Golan Duncan）与[[Clark A. Chinn\|克拉克·钦]]（[[Clark A. Chinn]]）指出，科学论证的本质是通过协调经验证据与理论模型来确证知识主张的认识实践。因此，评估论证不能停留于图尔敏式的外部部件清点，而必须深入考察论证者在挑选、权衡证据时诉诸了何种规范性评价标准（认识论理想），以及是否理解证据生成背后的因果方法论条件（可靠[[Epistemology\|认识论]]过程）。（pp. 206–208）
 
 ---
 
@@ -169,8 +170,8 @@ issuing_organization: ""
 
 ### 论证步骤一　传统结构主义评价范式无法甄别论证的实质认识论缺陷
 
-> [!claim] 结构主义评价仅能捕捉外部句法形式而对伪科学[[Epistemology|认识论]]缺陷彻底失明
-> 流行于科学教育中的结构主义论证评价方案（如基于[[Toulmin's Argumentation Model|图尔敏模型]]的部件清点、CER框架与反驳评分）只能捕捉论证的外在形式，无法区分科学严谨的论证与披着规范外衣的伪科学诡辩。（pp. 202–204）
+> [!claim] 结构主义评价仅能捕捉外部句法形式而对伪科学[[Epistemology\|认识论]]缺陷彻底失明
+> 流行于科学教育中的结构主义论证评价方案（如基于[[Toulmin's Argumentation Model\|图尔敏模型]]的部件清点、CER框架与反驳评分）只能捕捉论证的外在形式，无法区分科学严谨的论证与披着规范外衣的伪科学诡辩。（pp. 202–204）
 
 #### 1. 结构分析在初阶辨析中的有效性及其局限
 
@@ -216,8 +217,8 @@ issuing_organization: ""
 
 ### 论证步骤二　论证质量实质上取决于认识论理想的规范性与对证据生成过程的审视
 
-> [!claim] [[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠认识论过程]]构成超越结构分析的双重实质支柱
-> [[AIR Model of Epistemic Cognition|AIR]] [[Epistemic Cognition|认识论认知]]模型为超越结构分析提供了坚实的理论基础。评估论证必须立足于评估其背后的[[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠认识论过程]]，这二者在认知与[[Metacognition|元认知]]层面上与学科实体知识深度交织。（pp. 206–208, 209–211）
+> [!claim] [[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠认识论过程]]构成超越结构分析的双重实质支柱
+> [[AIR Model of Epistemic Cognition\|AIR]] [[Epistemic Cognition\|认识论认知]]模型为超越结构分析提供了坚实的理论基础。评估论证必须立足于评估其背后的[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠认识论过程]]，这二者在认知与[[Metacognition\|元认知]]层面上与学科实体知识深度交织。（pp. 206–208, 209–211）
 
 #### 1. AIR模型在论证评价中的四大理论支柱
 
@@ -228,10 +229,10 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 >   将认识论认知从获得被证明的真信念大幅拓展至建构因果预测模型、评估经验证据与产出高可信论证等广阔实践，确立了目标、理想与可靠过程三大核心构件。（pp. 206–207）
 > - **学科实体知识与认识推理深度纠缠**
 >   认识论推理绝非脱离内容的纯逻辑运算。何为可靠的方法或可接受的模型，完全依附于学科规范。例如生物学机制模型必须包含具体的实体活动与因果链接，而物理学可能追求数学简洁性。（p. 207）
-> - **认知与元[[Epistemological Understanding|认识论理解]]的双重交织**
+> - **认知与元[[Epistemological Understanding\|认识论理解]]的双重交织**
 >   不仅要在认知层面知晓某种方法（如双盲试验），更要在元认识论层面理解其为何可靠（通过阻断安慰剂与观察者偏见）、何时可靠以及在何种边界条件下失效（如心理动力学治疗无法设置双盲安慰剂）。（pp. 207–208）
-> - **彻底的社会性、协商性与[[Epistemic Agency|认识主体性]]**
->   认识标准是科学共同体经过长期辩驳协商达成的社会规范。在教学中引导学生协商共建准则，能够培育其[[Epistemic Agency|认识主体性]]，抵御认识边缘化与认识不正义（epistemic injustice）。（p. 208）
+> - **彻底的社会性、协商性与[[Epistemic Agency\|认识主体性]]**
+>   认识标准是科学共同体经过长期辩驳协商达成的社会规范。在教学中引导学生协商共建准则，能够培育其[[Epistemic Agency\|认识主体性]]，抵御认识边缘化与[[Epistemic Injustice\|认识不正义]]（epistemic injustice）。（p. 208）
 
 #### 2. 论证质量评估的双轴模型：理想与过程
 
@@ -239,9 +240,9 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 
 > [!dimension] 论证质量评估的双轴分析维度
 > - **认识论理想轴**
->   检查论证者用于评估结论与证据契合度的内在规范准则。高水平论证追求全域证据统摄、多源收敛印证、直接推论与排除[[Alternative Hypothesis|备择假设]]；低水平论证则满足于孤立样本、断章取义或直觉共鸣。（pp. 209–210）
+>   检查论证者用于评估结论与证据契合度的内在规范准则。高水平论证追求全域证据统摄、多源收敛印证、直接推论与排除[[Alternative Hypothesis\|备择假设]]；低水平论证则满足于孤立样本、断章取义或直觉共鸣。（pp. 209–210）
 > - **可靠认识过程轴**
->   检查论证者对知识主张生成程序的因果[[Reliability|可靠性]]审查。高水平论证深入考察数据采集条件（仪器精度、抽样无偏、[[Blinding|盲法]]控制）与证据合成程序（[[Systematic Review|系统综述]]）；低水平论证则误将非系统闲逛记录、个案突破与主观感知视为可靠证据。（pp. 210–211）
+>   检查论证者对知识主张生成程序的因果[[Reliability\|可靠性]]审查。高水平论证深入考察数据采集条件（仪器精度、抽样无偏、[[Blinding\|盲法]]控制）与证据合成程序（[[Systematic Review\|系统综述]]）；低水平论证则误将非系统闲逛记录、个案突破与主观感知视为可靠证据。（pp. 210–211）
 
 ---
 
@@ -296,16 +297,16 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 > [!citation-card] 学生文本中对证据4（Paxton 实验研究）方法学严密性的因果肯定（p. 215）
 > “然而，在我看来最具说服力的证据是证据4，即 Paxton 的研究。这是因为它不仅涉及 HIV 的某种变体，而且直接关涉 HIV 本身。他们选取了25名多次暴露于 HIV 的人群并检测病毒痕迹，然而 100% 的受试者 HIV 检测均呈阴性；在我看来，如果不存在某种抗性因子，经历如此多次暴露的人群 100% 完全不受感染在概率上是极不可能的。”
 >
-> “此外，研究中包含25人。鉴于他们所有人都表现出某种程度的抗性，这是一个相当充实的[[Sample Size Determination|样本量]]。”
+> “此外，研究中包含25人。鉴于他们所有人都表现出某种程度的抗性，这是一个相当充实的[[Sample Size Determination\|样本量]]。”
 >
 > “在包含25人的测试组中，当他们的血液被检测时清晰表明所有人均具备遗传抗性，部分人甚至在暴露于极高水平 HIV 时依然具有抗性。”
 >
 > *“However, the most convincing piece of evidence in my opinion is evidence four, the Paxton study. This is because it pertains not merely to a variant of HIV, but to HIV itself. 25 people were taken and tested for traces of HIV, ones who had had much exposure to HIV, and yet, 100% of people tested HIV negative, and it seems improbable to me that 100% of the people, who had been exposed so many times to the disease would be completely devoid of it unless there was some sort of a resistant factor... Also, there were 25 people in the study. This is a good amount of people considering all of them showed some resistance... even if they were exposed to high levels of HIV.”*
 
-> [!factors] 学生对 Paxton 研究可靠过程的具体审视维度（Duncan & Chinn, 2025, p. 215）
-> - **[[Independent Variable|自变量]][[Operationalization|操作化]]的靶向性与直接性** 肯定研究直接针对人类免疫缺陷病毒（HIV）本体进行因果测试，而非依赖猫科（FIV）或灵长类（SIV）等动物近缘变体，排除了跨物种机制类比带来的[[Construct Validity|构念效度]]折损与推论损耗。
-> - **观测结果的[[Statistical Significance|统计显著性]]与反常度** 敏锐结合受试者“多次高危暴露”的前置背景条件，指出“100% 血液检测呈阴性”在概率上具有极高的反常度（在多次暴露下全员免于感染的随机概率趋近于零），从而强力确立了内在生理抗性因子的必然存在。
-> - **样本量与现象效应强度的适配性** 深刻洞察到[[Sample Size Determination|样本量]]规模诉求与底层现象效应强度的权衡关系：意识到在 25 例样本全员展现抗性表型的高均一性规律下，25 人的样本规模已具备充分的统计检验力与因果解释力，无需盲目迷信大样本。
+> [!factors] 学生对 Paxton 研究可靠过程的具体审视维度（|Duncan & Chinn, 2025, p. 215）
+> - **[[Independent Variable\|自变量]][[Operationalization\|操作化]]的靶向性与直接性** 肯定研究直接针对人类免疫缺陷病毒（HIV）本体进行因果测试，而非依赖猫科（FIV）或灵长类（SIV）等动物近缘变体，排除了跨物种机制类比带来的[[Construct Validity\|构念效度]]折损与推论损耗。
+> - **观测结果的[[Statistical Significance\|统计显著性]]与反常度** 敏锐结合受试者“多次高危暴露”的前置背景条件，指出“100% 血液检测呈阴性”在概率上具有极高的反常度（在多次暴露下全员免于感染的随机概率趋近于零），从而强力确立了内在生理抗性因子的必然存在。
+> - **样本量与现象效应强度的适配性** 深刻洞察到[[Sample Size Determination\|样本量]]规模诉求与底层现象效应强度的权衡关系：意识到在 25 例样本全员展现抗性表型的高均一性规律下，25 人的样本规模已具备充分的统计检验力与因果解释力，无需盲目迷信大样本。
 > - **应激实验程序的严谨性与耐受梯度** 关注到实验并非仅做单一低剂量接触，而是设计了递增的病毒载量梯度测试；受试细胞在面临极高浓度病毒载量的强应激攻击下依然表现出抗性，验证了因果机制在极端条件下的稳健性。
 
 与此同时，学生在反驳证据 2（门诊化验助理访谈）时，自发给出了多维度的方法学因果解构（p. 215）：
@@ -322,14 +323,14 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 > [!factors] 学生解构弱证据可靠性的三大方法学洞察
 > - **空间与地域选择性偏差** 识别出单一门诊就诊人群在地理与生态分布上的狭隘性，推论不可外推。
 > - **时间窗口与事件罕见性的交互制约** 洞悉统计检出概率原理：对于低发生率的罕见基因变异，5 年的偶发观察窗口严重不足以捕捉到罕见突变个体。
-> - **[[Study Population and Sample|目标总体]]错位与情境选择机制** 直击最核心的方法学因果逻辑：具备抗性者因天然免于发病而根本不会前往诊所就医；以门诊患者为抽样池犯下了根本性的抽样偏差。
+> - **[[Study Population and Sample\|目标总体]]错位与情境选择机制** 直击最核心的方法学因果逻辑：具备抗性者因天然免于发病而根本不会前往诊所就医；以门诊患者为抽样池犯下了根本性的抽样偏差。
 
 ---
 
 ### 论证步骤四　教师引导的课堂对话能够促使学生协同析出野外观察的专业可靠性条件
 
 > [!claim] 学生在口头辩论中能自发审视观察物理环境与规程以辨析并推翻弱证据
-> 在生态系统食物网的口头论辩中，学生通过多轮师生与生生[[Dialogue in Education|对话]]，自发析出生态学家在野外观察中遵循的专业可靠性条件。句法极为简短的话语在认识论实质上蕴含着深刻的科学洞察。（pp. 216–218）
+> 在生态系统食物网的口头论辩中，学生通过多轮师生与生生[[Dialogue in Education\|对话]]，自发析出生态学家在野外观察中遵循的专业可靠性条件。句法极为简短的话语在认识论实质上蕴含着深刻的科学洞察。（pp. 216–218）
 
 #### 1. 格陵兰食物网任务的情境创设与弱证据设置
 
@@ -347,7 +348,7 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 > 1. **初阶表面数据引述（Blair 与 James）**
 >    Blair 与 James 首先发言，直接将登记簿记录的目击数字减少等同于野外真实种群衰退。
 >    *James*：“因为去年3月只有11只狐狸被看到，但前年总共有16只被看到。”
-> 2. **教师的[[Reflexivity|反思性]]促学提问**
+> 2. **教师的[[Reflexivity\|反思性]]促学提问**
 >    教师并未直接裁决正误，而是向全班抛出评价性问题，搭建认识论审议支架：
 >    *教师*：“大家对 Blair 刚才所说的有什么想法吗？”（*Did anyone have some thoughts about what she was saying?*）
 > 3. **物理环境可观测性与测量合理性质疑（Candace 与 Andy）**
@@ -358,7 +359,7 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 >    学生尖锐指出休闲散步与专业搜寻的本质差别：
 >    *Erica*：“那根本说明不了任何问题，因为全靠猜。住客只是在旅馆周围到处闲逛，又不是有专业人员专门出去搜寻这些野生动物。而且他们看到的甚至可能根本不是北极狐，只是他们自以为是北极狐而已！”
 >    *Natalie*：“我也想说这个，人们可能根本没在认真搜寻，或者错把其他动物当成了北极狐，因为他们根本不懂专业识别。”
-> 5. **生物生活[[Habitus|习性]]、隐蔽性与观察时长分析（Regina 与 Brianna）**
+> 5. **生物生活[[Habitus\|习性]]、隐蔽性与观察时长分析（Regina 与 Brianna）**
 >    学生结合动物行为学机制深化反驳：
 >    *Regina*：“我不认为北极狐会故意跑到人类面前展示自己。所以就算人们只看到11只，野外实际存在的可能多得多。他们只是偶然瞥见了，并不代表只有11只……人们没看到绝不等于动物不存在，你必须坐在那里长时间蹲守观察。”
 >    *Brianna*：“而且北极狐可能隐蔽迁移到了森林的其他区域，根本不在旅馆周围活动。”
@@ -370,7 +371,7 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 
 #### 3. 课堂对话中协同析出的野外生态观察五大黄金条件
 
-这一对话过程雄辩地证明：初中生尽管在发言中使用着极其日常、简短的话语（单看句法仅有简单主张和一两句理由，在图尔敏评分中表现平平），但通过协同审议，全班自发推导出了与专业生态学家野外调查完全同构的五大可靠性规范条件（Eberbach & Crowley, 2009; Duncan & Chinn, 2025, p. 218）：
+这一对话过程雄辩地证明：初中生尽管在发言中使用着极其日常、简短的话语（单看句法仅有简单主张和一两句理由，在图尔敏评分中表现平平），但通过协同审议，全班自发推导出了与专业生态学家野外调查完全同构的五大可靠性规范条件（Eberbach & Crowley, 2009; |Duncan & Chinn, 2025, p. 218）：
 
 > [!tension-table] 初中生对话析出的可靠性条件与生态学专业观察规范对齐（p. 218）
 > | 规范观察条件 | 学生对话中的表征 | 生态学专业方法论原理 |
@@ -421,7 +422,7 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 科学探究教学必须超越教师告知正确规则的被动模式，引导学生直面真实探究中的认识混乱（epistemic messiness），在元认识论层面反思评判准则的合理性（pp. 222–223）：
 
 > [!chain-link] 从规则遵循走向认识主体性的机制链条
-> - **前提：直面探究真实困境** 学生在探究中亲身遭遇混淆[[Variable|变量]]、样本偏差或相互冲突的证据。（pp. 222–223）
+> - **前提：直面探究真实困境** 学生在探究中亲身遭遇混淆[[Variable\|变量]]、样本偏差或相互冲突的证据。（pp. 222–223）
 > - **机制：开展元认识论辩护** 组织课堂讨论，要求学生不仅回答选择何种结论，而且辩护为何在此情境下双盲法或多源证据比个人经验更可信。（p. 222）
 > - **结论：确立认识主体性与教育公平** 学生成为科学知识与标准的共同构建者，特别是边缘群体学生的经验视角获得充分赋权，消除认识边缘化与认识不正义。（p. 223）
 
@@ -431,32 +432,32 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 
 > [!finding-cards] 核心发现
 > 1. **结构主义局限** 纯粹基于主张、数据、推理及反驳的句法分析，无法识别披着完备外衣的伪科学诡辩，气候变暖否定论与反疫苗言论在结构评分中均能斩获高分。（pp. 203–204）
-> 2. **[[Epistemic Ideals|认识论理想]]的实际运作** 初中生在面对生物学复杂证据时，能够自发调动全域证据契合、多源收敛、推论直接性与决定性等认识论理想，对备选科学模型做出高水平裁决。（pp. 213–216）
-> 3. **过程[[Reliability|可靠性]]条件的深度审视** 在看似零散的课堂口头互动中，初中生能够敏锐指认物理遮挡、无序抽样、缺乏专业资质及动物生态[[Habitus|习性]]等严重削弱观察可靠性的环境约束条件。（pp. 217–218）
-> 4. **学科知识与[[Epistemology|认识论]]推理的纠缠性** 学生对认识论理想与过程条件的恰当运用，高度依附于具体的领域实体知识；缺乏实体知识可能导致理想的机械套用与误判。（pp. 221–222）
-> 5. **元认识论教学旨趣** 科学教学应从灌输现成规则转向引导学生参与元认识论审议，通过协商建构公共认识标准，赋予学生平等的[[Epistemic Agency|认识主体性]]与批判抗辩力。（pp. 222–223）
+> 2. **[[Epistemic Ideals\|认识论理想]]的实际运作** 初中生在面对生物学复杂证据时，能够自发调动全域证据契合、多源收敛、推论直接性与决定性等认识论理想，对备选科学模型做出高水平裁决。（pp. 213–216）
+> 3. **过程[[Reliability\|可靠性]]条件的深度审视** 在看似零散的课堂口头互动中，初中生能够敏锐指认物理遮挡、无序抽样、缺乏专业资质及动物生态[[Habitus\|习性]]等严重削弱观察可靠性的环境约束条件。（pp. 217–218）
+> 4. **学科知识与[[Epistemology\|认识论]]推理的纠缠性** 学生对认识论理想与过程条件的恰当运用，高度依附于具体的领域实体知识；缺乏实体知识可能导致理想的机械套用与误判。（pp. 221–222）
+> 5. **元认识论教学旨趣** 科学教学应从灌输现成规则转向引导学生参与元认识论审议，通过协商建构公共认识标准，赋予学生平等的[[Epistemic Agency\|认识主体性]]与批判抗辩力。（pp. 222–223）
 
 ---
 
 ## 关键引用
 
 > [!citation-card] 结构主义论证分析的核心困境
-> 结构分析存在一个问题：尽管它们能够区分某些好论证与某些坏论证，但许多质量极差的论证在使用结构分析时却能被评为高水平。在当前充斥着错误信息与虚假信息的时代，结构复杂但[[Epistemology|认识论]]上高度成问题的论证随处可见。帮助学生将对什么是好论证的理解从单纯的结构健全性拓展出去，具有重要的教育价值。（pp. 203, 204）
+> 结构分析存在一个问题：尽管它们能够区分某些好论证与某些坏论证，但许多质量极差的论证在使用结构分析时却能被评为高水平。在当前充斥着错误信息与虚假信息的时代，结构复杂但[[Epistemology\|认识论]]上高度成问题的论证随处可见。帮助学生将对什么是好论证的理解从单纯的结构健全性拓展出去，具有重要的教育价值。（pp. 203, 204）
 >
 > *A problem with structural analyses, however, is that, although they can distinguish some good arguments from some bad arguments, there are many bad arguments that can be rated as having high quality using structural analyses... In the current era of mis- and disinformation, structurally complex but highly problematic arguments are common. It seems educationally worthwhile to help students expand their understanding of what counts as good argument beyond structural soundness.*
 
-> [!citation-card] [[Epistemic Ideals|认识论理想]]在论证评价中的实质作用
+> [!citation-card] [[Epistemic Ideals\|认识论理想]]在论证评价中的实质作用
 > 在构建论证时，人们受制于关于何种理由足以支持所提主张的认识论理想。因此，可以从口头或书面论证中检查这些认识论理想的内隐或外显表征。高水平论证立足于恰当的认识论理想；低水平论证则依赖存在问题的理想。（pp. 209, 211）
 >
 > *When composing arguments, people are guided by epistemic ideals regarding what counts as adequate support for the claims being made. It follows that oral or written arguments can be examined for implicit or explicit indicators of these epistemic ideals... High-quality arguments are grounded in appropriate epistemic ideals; low-quality arguments rely on problematic ideals.*
 
-> [!citation-card] 审查证据生成过程的因果[[Reliability|可靠性]]
+> [!citation-card] 审查证据生成过程的因果[[Reliability\|可靠性]]
 > 证据在产生可信结论的意义上不可接受，是因为它由被判定为在方法论上不可靠的过程所产生；或者当证据被视为可接受时，也是因为它由被视为可靠的过程所产生。不仅如此，论证还揭示了论证者究竟将哪些特定过程视为可靠或不可靠。（p. 216）
 >
 > *Students viewed the evidence as unacceptable in the sense of not yielding credible conclusions. But we can go beyond simply saying that they viewed the evidence as unacceptable: They viewed it as unacceptable because it was produced by processes that they deemed to be methodologically unreliable. Or in the case of evidence that they viewed as acceptable, they viewed it as such because it was produced by processes they viewed as reliable. Moreover, their arguments reveal specifically which processes they view as reliable or not.*
 
-> [!citation-card] 认识论实体转向与[[Epistemic Agency|认识主体性]]构建
-> 正如 Coffey 等学者（2011）呼吁在[[Formative Assessment|形成性评价]]中从关注规范内容转向学生推理的学科实质一样，我们在此呼吁在论证教学与评估中实现类似转向——从关注论证的外在结构转向学生推理的认识论实质……让学生参与元认识论讨论，讨论其共同体所珍视的认识论理想与[[Reliable Epistemic Processes|可靠过程]]，能够为培育更加认识平等的学习环境提供坚实途径。（pp. 222, 223）
+> [!citation-card] 认识论实体转向与[[Epistemic Agency\|认识主体性]]构建
+> 正如 Coffey 等学者（2011）呼吁在[[Formative Assessment\|形成性评价]]中从关注规范内容转向学生推理的学科实质一样，我们在此呼吁在论证教学与评估中实现类似转向——从关注论证的外在结构转向学生推理的认识论实质……让学生参与元认识论讨论，讨论其共同体所珍视的认识论理想与[[Reliable Epistemic Processes\|可靠过程]]，能够为培育更加认识平等的学习环境提供坚实途径。（pp. 222, 223）
 >
 > *We are making a somewhat similar argument in calling for a shift in instruction and assessment from a focus on structure of arguments to the epistemic substance of students’ reasoning (i.e., their understandings and negotiations of epistemic ideals and reliable processes)... engaging students in meta-epistemic discussions about which epistemic ideals and reliable processes are valued by their communities (both inside and outside the classroom) can provide a means to foster a more epistemically equitable learning environment.*
 
@@ -465,10 +466,10 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 ## 自述局限
 
 > [!warning] 原文自述局限与边界条件
-> - **实证证据的探索性与概念验证性质** 本文呈现的书面与口头[[Discourse Analysis|话语分析]]旨在提供理论[[Analytic Framework|分析框架]]的概念验证，样本来自特定教学干预项目（[[PRACCIS]]）的初中课堂，尚未在更广泛的学科学段或[[Business as Usual|常态教学]]中建立大规模的[[Statistical Normalisation|统计标准化]]评分常模。（pp. 211–212）
-> - **未纳入[[Epistemic Aims|认识目标]]的独立[[Coding in Qualitative Research|编码]]** 鉴于本研究依托的课程任务由教材预设了明确的认识目标（即在备选模型间作出判别并撰写说服性论证），因此未对 [[AIR Model of Epistemic Cognition|AIR]] 模型中的认识目标构件展开系统实证编码，未来研究需在目标开放的探究情境中考察三者的完整互动。（p. 208）
-> - **学科知识与[[Epistemology|认识论]]推理的分离难题** 在论证分析中，极难将学生的学科实体知识缺陷与不良认识论推理完全剥离，二者往往深度交织，这给标准化测评工具的开发带来了复杂的测量挑战。（pp. 221–222）
-> - **[[Reliable Epistemic Processes|可靠过程]]数量庞大带来的教学粒度挑战** 科学实践中具体的可靠认识过程极其繁复、领域依赖且随技术发展动态变化，如何在有限的课堂教学时间内确定最为核心的教学目标粒度与进阶序列，仍需长期的实证探索。（pp. 222, 224）
+> - **实证证据的探索性与概念验证性质** 本文呈现的书面与口头[[Discourse Analysis\|话语分析]]旨在提供理论[[Analytic Framework\|分析框架]]的概念验证，样本来自特定教学干预项目（[[PRACCIS]]）的初中课堂，尚未在更广泛的学科学段或[[Business as Usual\|常态教学]]中建立大规模的[[Statistical Normalisation\|统计标准化]]评分常模。（pp. 211–212）
+> - **未纳入[[Epistemic Aims\|认识目标]]的独立[[Coding in Qualitative Research\|编码]]** 鉴于本研究依托的课程任务由教材预设了明确的认识目标（即在备选模型间作出判别并撰写说服性论证），因此未对 [[AIR Model of Epistemic Cognition\|AIR]] 模型中的认识目标构件展开系统实证编码，未来研究需在目标开放的探究情境中考察三者的完整互动。（p. 208）
+> - **学科知识与[[Epistemology\|认识论]]推理的分离难题** 在论证分析中，极难将学生的学科实体知识缺陷与不良认识论推理完全剥离，二者往往深度交织，这给标准化测评工具的开发带来了复杂的测量挑战。（pp. 221–222）
+> - **[[Reliable Epistemic Processes\|可靠过程]]数量庞大带来的教学粒度挑战** 科学实践中具体的可靠认识过程极其繁复、领域依赖且随技术发展动态变化，如何在有限的课堂教学时间内确定最为核心的教学目标粒度与进阶序列，仍需长期的实证探索。（pp. 222, 224）
 
 ---
 

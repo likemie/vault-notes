@@ -47,12 +47,12 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 便利抽样（Convenience Sampling），亦称机会抽样（opportunity sampling）或偶遇抽样（accidental sampling），是选择最近便或最容易接触的个体作为受访者的[[Non-probability Sampling|非概率抽样]]方法，持续至达到所需[[Sample Size Determination|样本量]]。典型场景包括使用被俘获的受众（如学生或实习教师）。它不寻求对更广泛总体的推广，只代表自身。
+> 便利抽样（Convenience Sampling），亦称机会抽样（opportunity sampling）或偶遇抽样（accidental sampling），是选择最近便或最容易接触的个体作为受访者的[[Non-probability Sampling\|非概率抽样]]方法，持续至达到所需[[Sample Size Determination\|样本量]]。典型场景包括使用被俘获的受众（如学生或实习教师）。它不寻求对更广泛总体的推广，只代表自身。
 
 > [!method-scope] 方法范围
 > - **研究对象** 最容易接触的个体或群体
-> - **问题类型** 探索性研究、试点研究、[[Case Study|案例研究]]
-> - **[[Unit of Analysis|分析单位]]** 个体
+> - **问题类型** 探索性研究、试点研究、[[Case Study\|案例研究]]
+> - **[[Unit of Analysis\|分析单位]]** 个体
 > - **输出形式** 局部描述，无法推广
 
 ## 研究程序
@@ -62,19 +62,19 @@ updated: 2026-09-17
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用**[[Case Study|案例研究]]、[[Questionnaire|问卷]]试点、资源极度有限的小规模研究。
-> - **谨慎使用** 需要对研究发现的[[External Validity|可推广性]]做出清晰说明。
+> - **适合使用**[[Case Study\|案例研究]]、[[Questionnaire\|问卷]]试点、资源极度有限的小规模研究。
+> - **谨慎使用** 需要对研究发现的[[External Validity\|可推广性]]做出清晰说明。
 > - **不适合使用** 需要统计推广到更广泛总体、需要计算误差范围的研究。
 
 ## 局限性
 
 > [!method-limits] 方法局限
 > - **选择偏差** 样本完全由可得性和便利性驱动，可能与总体存在系统性差异。
-> - **不可推广** 参数推广性（[[External Validity|generalizability]]）可忽略不计，必须在报告中明确说明。
-> - **本质缺陷** Patton（1980, p. 88）和 Miles & Huberman（1994, pp. 27–29）明确指出便利抽样"既不目的性也不战略性"，无法证明代表性——哪怕对被研究的更广泛群体本身也做不到，更不用说更广泛的人口总体了。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 421–422)]]
+> - **不可推广** 参数推广性（[[External Validity\|generalizability]]）可忽略不计，必须在报告中明确说明。
+> - **本质缺陷** Patton（1980, p. 88）和 Miles & Huberman（1994, pp. 27–29）明确指出便利抽样"既不目的性也不战略性"，无法证明代表性——哪怕对被研究的更广泛群体本身也做不到，更不用说更广泛的人口总体了。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 421–422)]]
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍便利抽样作为非[[Random Sampling|概率抽样]]中最简单便捷的类型。
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 阶段二以便利抽样选取四所 NSW 提供 [[IB Diploma Programme|IB DP]] 的学校作为深度[[Case Study|案例研究]]地点；阶段三通过 IB 校友名单和大学课程管理系统便利招募 DP 和非 DP 大学新生
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍便利抽样作为非[[Random Sampling\|概率抽样]]中最简单便捷的类型。
+> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 阶段二以便利抽样选取四所 NSW 提供 [[IB Diploma Programme\|IB DP]] 的学校作为深度[[Case Study\|案例研究]]地点；阶段三通过 IB 校友名单和大学课程管理系统便利招募 DP 和非 DP 大学新生

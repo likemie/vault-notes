@@ -2323,6 +2323,16 @@
     ]
   },
   {
+    "title": "Scientific Explanation",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Scientific Explanation.md",
+    "aliases": [
+      "科学解释",
+      "科学解释建构",
+      "Scientific Explanations"
+    ]
+  },
+  {
     "title": "Self-spectator",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Self-spectator.md",
@@ -2382,6 +2392,18 @@
     "aliases": [
       "认知方式",
       "WOK"
+    ]
+  },
+  {
+    "title": "Funds of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum-instruction/Funds of Knowledge.md",
+    "aliases": [
+      "FoK",
+      "知识资金",
+      "生活知识资金",
+      "家庭文化知识库",
+      "知晓资金"
     ]
   },
   {
@@ -2896,7 +2918,9 @@
     "path": "wiki/concepts/educational-philosophy/Epistemic Responsibility.md",
     "aliases": [
       "认识论责任",
-      "认知责任"
+      "认知责任",
+      "Epistemic Accountability",
+      "认识问责"
     ]
   },
   {
@@ -3042,8 +3066,6 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Growth.md",
     "aliases": [
-      "生长",
-      "成长",
       "growth",
       "教育即生长",
       "deweyan growth",
@@ -4926,7 +4948,19 @@
     "path": "wiki/concepts/educational-psychology/Absolutist.md",
     "aliases": [
       "绝对论者",
-      "absolutists"
+      "absolutists",
+      "绝对主义立场"
+    ]
+  },
+  {
+    "title": "Academic Help-Seeking",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Academic Help-Seeking.md",
+    "aliases": [
+      "学业求助",
+      "学业求助行为",
+      "academic help seeking",
+      "寻求学术帮助"
     ]
   },
   {
@@ -5195,7 +5229,10 @@
     "path": "wiki/concepts/educational-psychology/Evaluativist.md",
     "aliases": [
       "评价论者",
-      "evaluativists"
+      "evaluativists",
+      "评价主义者",
+      "评价主义认识立场",
+      "Evaluativist Stance"
     ]
   },
   {
@@ -5298,7 +5335,9 @@
     "path": "wiki/concepts/educational-psychology/Multiplist.md",
     "aliases": [
       "多元论者",
-      "multiplists"
+      "multiplists",
+      "多元主义立场",
+      "相对主义立场"
     ]
   },
   {
@@ -6305,6 +6344,15 @@
     ]
   },
   {
+    "title": "Epistemic Scaffolding",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Epistemic Scaffolding.md",
+    "aliases": [
+      "认识论支架",
+      "认识性支架"
+    ]
+  },
+  {
     "title": "Feedback",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Feedback.md",
@@ -6858,6 +6906,16 @@
       "ideal learner image",
       "ideal-learner image",
       "理想学习者形象"
+    ]
+  },
+  {
+    "title": "Informal Reasoning",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Informal Reasoning.md",
+    "aliases": [
+      "非形式推理",
+      "非形式化推理",
+      "非形式逻辑推理"
     ]
   },
   {
@@ -12370,6 +12428,17 @@
     ]
   },
   {
+    "title": "Symbiotic Framework of Adaptive Epistemic Stances",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Symbiotic Framework of Adaptive Epistemic Stances.md",
+    "aliases": [
+      "自适应认识立场与共生学习框架",
+      "人机共生学习框架",
+      "Symbiotic Learning Framework",
+      "Symbiotic Framework of Adaptive Epistemic Stances and Learning With GenAI"
+    ]
+  },
+  {
     "title": "Theory of Mind",
     "type": "theory",
     "path": "wiki/theories/educational-psychology/Theory of Mind.md",
@@ -14248,6 +14317,16 @@
     ]
   },
   {
+    "title": "Multimodal Discourse Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Multimodal Discourse Analysis.md",
+    "aliases": [
+      "多模态话语分析",
+      "MDA",
+      "Multimodal Analysis"
+    ]
+  },
+  {
     "title": "Narrative Analysis",
     "type": "method",
     "path": "wiki/methods/qualitative/Narrative Analysis.md",
@@ -14575,7 +14654,9 @@
       "角色扮演教学法",
       "角色扮演法",
       "role-play",
-      "role play"
+      "role play",
+      "AI Role-playing Prompting",
+      "角色扮演提示"
     ]
   },
   {
@@ -14697,7 +14778,9 @@
     "aliases": [
       "转录",
       "质性研究转录",
-      "interview transcription"
+      "interview transcription",
+      "Verbatim Transcription",
+      "逐字转录"
     ]
   },
   {
@@ -14833,10 +14916,12 @@
     "path": "wiki/methods/quantitative/Analysis of Variance.md",
     "aliases": [
       "方差分析",
+      "单因素方差分析",
+      "One-Way ANOVA",
       "ANOVA",
       "Analysis of Variance (ANOVA)",
       "F-test",
-      "one-way ANOVA"
+      "F检验"
     ]
   },
   {
@@ -14961,6 +15046,18 @@
     ]
   },
   {
+    "title": "Chain-of-Thought Prompting",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Chain-of-Thought Prompting.md",
+    "aliases": [
+      "思维链提示",
+      "思维链",
+      "CoT",
+      "Chain of Thought",
+      "Chain-of-Thought"
+    ]
+  },
+  {
     "title": "Chi-Squared Test",
     "type": "method",
     "path": "wiki/methods/quantitative/Chi-Squared Test.md",
@@ -14969,7 +15066,9 @@
       "卡方检定",
       "chi-square test",
       "χ2 test",
-      "chi-squared test of independence"
+      "chi-squared test of independence",
+      "卡方独立性检验",
+      "卡方拟合优度检验"
     ]
   },
   {
@@ -17624,6 +17723,16 @@
     ]
   },
   {
+    "title": "Marlene Scardamalia",
+    "type": "person",
+    "path": "wiki/persons/canada/Marlene Scardamalia.md",
+    "aliases": [
+      "玛琳·斯卡达玛利亚",
+      "M. Scardamalia",
+      "Scardamalia, M."
+    ]
+  },
+  {
     "title": "Robbie Case",
     "type": "person",
     "path": "wiki/persons/canada/Robbie Case.md",
@@ -18542,6 +18651,17 @@
     "aliases": [
       "Chen, K.-H.",
       "陈光兴"
+    ]
+  },
+  {
+    "title": "Chin-Chung Tsai",
+    "type": "person",
+    "path": "wiki/persons/taiwan/Chin-Chung Tsai.md",
+    "aliases": [
+      "蔡今中",
+      "Tsai, C.-C.",
+      "C. C. Tsai",
+      "C.-C. Tsai"
     ]
   },
   {
@@ -25606,6 +25726,16 @@
     ]
   },
   {
+    "title": "Khanmigo",
+    "type": "fact",
+    "path": "wiki/facts/us/Khanmigo.md",
+    "aliases": [
+      "可汗学院智能导师",
+      "Khanmigo AI",
+      "Khan Academy Khanmigo"
+    ]
+  },
+  {
     "title": "Lightning Squad",
     "type": "fact",
     "path": "wiki/facts/us/Lightning Squad.md",
@@ -26727,6 +26857,11 @@
     "path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md"
   },
   {
+    "title": "Argument_Wu_2025_ER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Wu_2025_ER.md"
+  },
+  {
     "title": "Argument_Schulte_2009_EncuentrosEducacion",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md"
@@ -26815,6 +26950,11 @@
     "title": "Argument_Peterson_2016_IJRME",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/International Journal of Research & Method in Education/Argument_Peterson_2016_IJRME.md"
+  },
+  {
+    "title": "Argument_Han_Gutierez_2026_IJSE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/International Journal of Science Education/Argument_Han_Gutierez_2026_IJSE.md"
   },
   {
     "title": "Argument_Nielsen_2021_IRTP",

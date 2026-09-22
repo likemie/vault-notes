@@ -110,21 +110,21 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 21世纪经济秩序要求雇员具备克服新障碍与参与复杂沟通的能力，[[Problem Solving|问题解决]]被提升为各领域的关键技能，高等教育机构因此被要求调整课程，以培养面向真实问题、具备高阶认知能力的学生。作为以真实问题为出发点的[[Constructivist Paradigm|建构主义]]教学模式，[[Problem-Based Learning|问题本位学习]]（Problem-Based Learning，PBL）自 1960 年代从医学教育起源，随后在医学、护理、药学、牙科与工程等高等教育专业普及，并被认为符合能力本位教育、可雇佣性与[[Lifelong Learning|终身学习]]的政策趋势。（pp. 950–951）
+> 21世纪经济秩序要求雇员具备克服新障碍与参与复杂沟通的能力，[[Problem Solving\|问题解决]]被提升为各领域的关键技能，高等教育机构因此被要求调整课程，以培养面向真实问题、具备高阶认知能力的学生。作为以真实问题为出发点的[[Constructivist Paradigm\|建构主义]]教学模式，[[Problem-Based Learning\|问题本位学习]]（Problem-Based Learning，PBL）自 1960 年代从医学教育起源，随后在医学、护理、药学、牙科与工程等高等教育专业普及，并被认为符合能力本位教育、可雇佣性与[[Lifelong Learning\|终身学习]]的政策趋势。（pp. 950–951）
 >
-> 然而，既有一阶[[Meta-analysis|元分析]]（First-Order Meta-Analysis，FOM）普遍存在三类局限，使 PBL 相对传统讲授式教学的效果仍无定论：
-> - **结果单一** 许多元分析只针对单一结果，如[[Critical Thinking|批判性思维]]（Kong et al., 2014; Liu & Pásztor, 2022）或[[Academic Achievement|学业成就]]（Jensen, 2015; Sugano & Nabua, 2020; Wilder, 2015）；
+> 然而，既有一阶[[Meta-analysis\|元分析]]（First-Order Meta-Analysis，FOM）普遍存在三类局限，使 PBL 相对传统讲授式教学的效果仍无定论：
+> - **结果单一** 许多元分析只针对单一结果，如[[Critical Thinking\|批判性思维]]（Kong et al., 2014; Liu & Pásztor, 2022）或[[Academic Achievement\|学业成就]]（Jensen, 2015; Sugano & Nabua, 2020; Wilder, 2015）；
 > - **情境单一** 元分析覆盖不同国家、学科、年龄组与实施方式，关于 PBL 与讲授式教学孰优孰劣的争论持续未决（Moallem, 2019）；
 > - **缺量化综合** 唯一在 2009 年由 Strobel & Van Barneveld 完成的综合针对质性数据，尚无研究对 PBL 高等教育元分析的量化结果进行二阶综合。
 >
-> 因此需要以[[Meta-meta-analysis|二阶元分析]]整合多个结果类型上的元分析证据，回答两个问题：（1）PBL 对高等教育学生结果的影响水平如何？（2）该影响是否随调节[[Variable|变量]]变化？（pp. 950–952）
+> 因此需要以[[Meta-meta-analysis\|二阶元分析]]整合多个结果类型上的元分析证据，回答两个问题：（1）PBL 对高等教育学生结果的影响水平如何？（2）该影响是否随调节[[Variable\|变量]]变化？（pp. 950–952）
 
 > [!claim] 核心主张
-> 基于 20 项一阶元分析（涵盖 469 项独立原始研究、47 个独立[[Effect Size|效应量]]（Effect Size，ES））的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis）表明，PBL 对高等教育学生结果具有显著且高的总体影响（调整后效应量 $d = 0.60$，95% [[Confidence Interval|置信区间]]（Confidence Interval，CI）为 $[0.49, 0.71]$）。其中[[Clinical Skills|临床技能]]（$d = 1.06$）与[[Student Satisfaction|学生满意度]]（$d = 1.10$）效应很高，[[Theoretical Knowledge|理论性知识]]（$d = 0.59$）、[[Critical Thinking|批判性思维]]（$d = 0.56$）与态度（$d = 0.57$）效应较高。效应变异受结果类型、地域、一阶研究抽样方法、元分析质量、报告类型与发表年份显著调节，而高等教育专业类型无显著调节。（pp. 950, 961–962）
+> 基于 20 项一阶元分析（涵盖 469 项独立原始研究、47 个独立[[Effect Size\|效应量]]（Effect Size，ES））的[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis）表明，PBL 对高等教育学生结果具有显著且高的总体影响（调整后效应量 $d = 0.60$，95% [[Confidence Interval\|置信区间]]（Confidence Interval，CI）为 $[0.49, 0.71]$）。其中[[Clinical Skills\|临床技能]]（$d = 1.06$）与[[Student Satisfaction\|学生满意度]]（$d = 1.10$）效应很高，[[Theoretical Knowledge\|理论性知识]]（$d = 0.59$）、[[Critical Thinking\|批判性思维]]（$d = 0.56$）与态度（$d = 0.57$）效应较高。效应变异受结果类型、地域、一阶研究抽样方法、元分析质量、报告类型与发表年份显著调节，而高等教育专业类型无显著调节。（pp. 950, 961–962）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 截至 2024 年、以英文发表、覆盖高等教育、以传统教学为对照的 20 项 PBL 元分析及其包含的 469 项独立原始研究。
-> - **张力**一阶元分析碎片化与二阶宏观证据整合之间的张力；PBL 总体高效应与其高[[Heterogeneity|异质性]]、轻微[[Publication Bias|发表偏倚]]之间的张力；中国情境效应明显偏高所提示的地点偏倚。
+> - **张力**一阶元分析碎片化与二阶宏观证据整合之间的张力；PBL 总体高效应与其高[[Heterogeneity\|异质性]]、轻微[[Publication Bias\|发表偏倚]]之间的张力；中国情境效应明显偏高所提示的地点偏倚。
 > - **贡献** 首次在二阶统计层级定量综合 PBL 高等教育元分析，按结果类型分列效应，并系统分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
 
 ---
@@ -138,18 +138,18 @@ issuing_organization: ""
 > | **[[Self-Directed Learning\|自我导向学习]]与[[Metacognition\|元认知]]（Self-Directed Learning, SDL）** | PBL 依赖目标设定、策略选择与目标评价等元认知过程，学生监控自身学习进程。这解释 PBL 为何能培养[[Lifelong Learning\|终身学习]]技能与反思能力。（pp. 952–953） |
 > | **学习结果分类框架** | 将学生结果[[Operationalization\|操作化]]为理论性知识、临床技能、[[Critical Thinking\|批判性思维]]、学生态度与学生满意度五类，并依据一阶[[Meta-analysis\|元分析]]报告方式补充综合与其他编码，为调节分析提供分类学基础。（pp. 954–956, 959） |
 
-> [!proc] PBL 的学习过程（[[Literature Review|文献综述]]中的操作流程）
+> [!proc] PBL 的学习过程（[[Literature Review\|文献综述]]中的操作流程）
 > 1. **呈现真实问题情景** 学生以真实或拟真的专业问题启动学习，问题成为学习的出发点。（pp. 952–953）
 > 2. **讨论先备知识** 小组调用既有知识解释问题，识别知识缺口（Loyens et al., 2015）。
-> 3. **[[Self-Directed Learning|自我导向学习]]** 学生通过自导学习填补缺口，收集与分析资料。
-> 4. **检验[[Hypothesis|假设]]与评价** 学生检验假设、评估学习结果，在[[Problem Solving|问题解决]]中整合理解（Begay et al., 2006; Hmelo-Silver, 2004）。
+> 3. **[[Self-Directed Learning\|自我导向学习]]** 学生通过自导学习填补缺口，收集与分析资料。
+> 4. **检验[[Hypothesis\|假设]]与评价** 学生检验假设、评估学习结果，在[[Problem Solving\|问题解决]]中整合理解（Begay et al., 2006; Hmelo-Silver, 2004）。
 > 5. **巩固与反思** 问题解决后巩固理解，发展批判性思维与反思学习能力，并为终身学习做准备。
 
 > [!feature] PBL 关联的学习与认知理论
 > - **成人教育学与转化学习** 学习应独立、自导、目标导向、内部驱动且适用于实践（Gewurtz et al., 2016）。
-> - **体验学习与社会学习** 在真实问题中[[Experiential Learning|经验学习]]，通过小组互动与替代观察获取知识。
+> - **体验学习与社会学习** 在真实问题中[[Experiential Learning\|经验学习]]，通过小组互动与替代观察获取知识。
 > - **信息加工与认知负荷** 学习涉及认知过程与认知负荷管理，问题结构调节加工深度。
-> - **协作与[[Cooperative Learning|合作学习]]** 强调学习者之间的互动、激活先备知识、主动参与。（pp. 952–953）
+> - **协作与[[Cooperative Learning\|合作学习]]** 强调学习者之间的互动、激活先备知识、主动参与。（pp. 952–953）
 
 > [!contrast-table] PBL 与传统讲授式教学在理论框架上的对照
 > | 维度 | 传统讲授式教学 | 问题本位学习 |
@@ -161,11 +161,11 @@ issuing_organization: ""
 > | 预期结果 | 短时知识覆盖 | 深层理解、长期保持与迁移应用 |
 
 > [!warrant]- 理论如何支撑论证
-> PBL 的建构主义机制（以问题为出发点、小组协作、自我导向学习）既解释了其对深层理解、临床推理与批判性思维的正向作用，也提示效应可能因实施情境、学科与结果类型而异。学习结果分类框架则为跨元分析合并[[Heterogeneity|异质性]][[Effect Size|效应量]]提供操作化基础，使按结果类型分列效应成为核心分析策略。（pp. 952–956）
+> PBL 的建构主义机制（以问题为出发点、小组协作、自我导向学习）既解释了其对深层理解、临床推理与批判性思维的正向作用，也提示效应可能因实施情境、学科与结果类型而异。学习结果分类框架则为跨元分析合并[[Heterogeneity\|异质性]][[Effect Size\|效应量]]提供操作化基础，使按结果类型分列效应成为核心分析策略。（pp. 952–956）
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 学生[[Dependent Variable|结果变量]]操作化定义、核心教学规程、典型测量工具与纳入案例
+> [!index-table] 学生[[Dependent Variable\|结果变量]]操作化定义、核心教学规程、典型测量工具与纳入案例
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **[[Theoretical Knowledge\|理论性知识]]**<br>（Theoretical Knowledge） | 对支撑学科的基本概念、原理与理论的理解，通过分析真实问题更深入有效地掌握理论概念。 | **核心教学规程** 学生以真实问题为起点，在小组中激活先备知识、分析问题、检索资料并通过问题解决整合理解（pp. 952–953）；<br>**典型测量工具** 学科知识测试或成绩测验；<br>**纳入案例** Ma & Lu (2019, d = 1.16)、Wang et al. (2016, d = 0.76)、Galvao et al. (2014, d = 0.21)、Huang et al. (2013, d = 0.88) 等 15 个效应量，加权平均 d = 0.59。（pp. 954–955, 962） |
@@ -180,7 +180,7 @@ issuing_organization: ""
 
 ## 研究方法
 
-> [!method-panel] 研究设计与[[Meta-meta-analysis|二阶元分析]]流程
+> [!method-panel] 研究设计与[[Meta-meta-analysis\|二阶元分析]]流程
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **方法定位**<br>Second-Order Meta-Analysis | 以整合元分析统计结果为目标，将一阶[[Meta-analysis\|元分析]]报告的分析单位（独立[[Effect Size\|效应量]]）作为二阶综合的分析单位，在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下进行整合（Oh, 2020; Schmidt & Oh, 2013）。（p. 956） |
@@ -264,9 +264,9 @@ issuing_organization: ""
 > | Smith (2003) | [[Self-Directed Learning\|自我导向学习]] | .47 [.39, .55] | 19 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
 > | Smith (2003) | 态度 | .45 [.39, .52] | 30 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
 >
-> RCT 表示随机对照试验；非 RCT 表示非随机对照试验；* 表示离群值；** 表示以 OR 报告；*** 表示以 Hedges' g 报告。表内部分数值按原刊表格[[Transcription in Qualitative Research|转录]]，个别单元格存在排版不清。表中 1977–2002 年医学博士论文经比对确认为 Smith (2003)（Problem-based versus lecture-based medical teaching and learning: a meta-analysis of cognitive and noncognitive outcomes），原刊 Table 1 未显示作者名。（pp. 958–959）
+> RCT 表示随机对照试验；非 RCT 表示非随机对照试验；* 表示离群值；** 表示以 OR 报告；*** 表示以 Hedges' g 报告。表内部分数值按原刊表格[[Transcription in Qualitative Research\|转录]]，个别单元格存在排版不清。表中 1977–2002 年医学博士论文经比对确认为 Smith (2003)（Problem-based versus lecture-based medical teaching and learning: a meta-analysis of cognitive and noncognitive outcomes），原刊 Table 1 未显示作者名。（pp. 958–959）
 
-> [!ref-table]- [[Variable|变量]][[Coding in Qualitative Research|编码]]程序规范（Table 2）
+> [!ref-table]- [[Variable\|变量]][[Coding in Qualitative Research\|编码]]程序规范（Table 2）
 > | 编码分组 | 编码类别与[[Operationalization\|操作化]]定义 |
 > |---|---|
 > | **研究** | 编码为研究者（发表年份）。 |
@@ -304,16 +304,16 @@ issuing_organization: ""
 
 ### 论证步骤一：21世纪技能需求与 PBL 引入高等教育构成问题起点
 
-> [!claim] 21世纪经济对[[Problem Solving|问题解决]]与高阶认知的要求，使 PBL 成为高等教育课程调整的重要方向
-> 新的经济秩序与科技发展速度使问题解决成为各领域关键技能，高等教育被要求培养能处理新颖障碍与复杂沟通的学生。PBL 因以真实问题为出发点、强调主动建构与高阶认知，被视为培养批判性、分析性与[[Creative Problem Solving|创造性问题解决]]能力的有效途径，并与能力本位教育、可雇佣性与[[Lifelong Learning|终身学习]]的政策趋势一致。（pp. 950–951）
+> [!claim] 21世纪经济对[[Problem Solving\|问题解决]]与高阶认知的要求，使 PBL 成为高等教育课程调整的重要方向
+> 新的经济秩序与科技发展速度使问题解决成为各领域关键技能，高等教育被要求培养能处理新颖障碍与复杂沟通的学生。PBL 因以真实问题为出发点、强调主动建构与高阶认知，被视为培养批判性、分析性与[[Creative Problem Solving\|创造性问题解决]]能力的有效途径，并与能力本位教育、可雇佣性与[[Lifelong Learning\|终身学习]]的政策趋势一致。（pp. 950–951）
 
 > [!chain-link] 证据到判断
 > - 雇员需要克服新颖障碍并参与复杂沟通（Koenig, 2011）；科学技术的加速发展使问题解决成为生活各层面的关键技能（Hidayat, Susilaningsih, & Kurniawan, 2018）。（p. 950）
 > - PBL 被日益视为高等教育中培养批判性、分析性与创造性问题解决技能的有效途径（Hallinger, 2020），并与能力本位教育、可雇佣性与终身学习等政策趋势一致。（pp. 950–951）
-> - 教育学领域在 20 世纪后半叶从行为主义与认知主义的知识传递转向探索超越知识获取的教学模型，PBL 作为[[Constructivist Paradigm|建构主义]]教学模式被视为这一需求的解决方案（Hung, Jonassen, & Liu, 2008; Erdem, 2024）。（p. 951）
+> - 教育学领域在 20 世纪后半叶从行为主义与认知主义的知识传递转向探索超越知识获取的教学模型，PBL 作为[[Constructivist Paradigm\|建构主义]]教学模式被视为这一需求的解决方案（Hung, Jonassen, & Liu, 2008; Erdem, 2024）。（p. 951）
 
 > [!case] 起源与扩散案例
-> PBL 于 1960 年代中期为医学教育开发（Barrows, 2000; Schmidt, Vermeulen, & van der Molen, 2006），实践起源于加拿大，随后被美国、欧洲与亚洲高等教育机构采纳；1960 年代以来，医学、护理、药学、牙科与工程等专业将 PBL 纳入课程。2010 年后 PBL [[Document|文献]]量翻倍以上，显示其兴趣持续增长。（pp. 950–951）
+> PBL 于 1960 年代中期为医学教育开发（Barrows, 2000; Schmidt, Vermeulen, & van der Molen, 2006），实践起源于加拿大，随后被美国、欧洲与亚洲高等教育机构采纳；1960 年代以来，医学、护理、药学、牙科与工程等专业将 PBL 纳入课程。2010 年后 PBL [[Document\|文献]]量翻倍以上，显示其兴趣持续增长。（pp. 950–951）
 
 > [!warrant]- 推理桥梁
 > 既然问题解决与高阶认知已成为高等教育的核心目标，而 PBL 被广泛采用为达成这些目标的模式，那么系统评估 PBL 究竟在多大程度上、在哪些结果上改变了学生表现，就成为课程决策必需的知识。这正是二阶综合要回答的问题。（pp. 950–951）
@@ -322,8 +322,8 @@ issuing_organization: ""
 
 ### 论证步骤二：一阶元分析碎片化与 PBL 相对效果的持续争议
 
-> [!claim] 一阶[[Meta-analysis|元分析]]聚焦单一结果或单一情境，PBL 与传统教学孰优孰劣的争论因此持续未决
-> 既有元分析多限于单一结果（[[Critical Thinking|批判性思维]]或[[Academic Achievement|学业成就]]），且覆盖不同国家、学科、年龄组与实施方式；PBL 实施方式的多样、学习概念与结果定义的不清晰、问题类型的多样性共同造成研究间的[[Heterogeneity|异质性]]。碎片化的局部证据无法裁决 PBL 的整体价值。（pp. 951–952）
+> [!claim] 一阶[[Meta-analysis\|元分析]]聚焦单一结果或单一情境，PBL 与传统教学孰优孰劣的争论因此持续未决
+> 既有元分析多限于单一结果（[[Critical Thinking\|批判性思维]]或[[Academic Achievement\|学业成就]]），且覆盖不同国家、学科、年龄组与实施方式；PBL 实施方式的多样、学习概念与结果定义的不清晰、问题类型的多样性共同造成研究间的[[Heterogeneity\|异质性]]。碎片化的局部证据无法裁决 PBL 的整体价值。（pp. 951–952）
 
 > [!chain-link] 证据到判断
 > - 部分元分析只针对批判性思维（Kong et al., 2014; Liu & Pásztor, 2022），部分只针对学业成就（Jensen, 2015; Sugano & Nabua, 2020; Wilder, 2015）。（p. 951）
@@ -331,23 +331,23 @@ issuing_organization: ""
 > - PBL 跨学科应用、年龄组与内容领域差异、学习概念与结果定义不清、实施方法不同及问题多样性，共同构成效果的不确定性（Moallem, 2019）。（p. 951）
 
 > [!tension] PBL 相对传统讲授式教学的效果争论
-> - **支持方** 实证与质性综合显示 PBL 有利于长期知识保持、技能发展与[[Student Satisfaction|学习满意度]]（Strobel & Van Barneveld, 2009; Dochy et al., 2003）。
+> - **支持方** 实证与质性综合显示 PBL 有利于长期知识保持、技能发展与[[Student Satisfaction\|学习满意度]]（Strobel & Van Barneveld, 2009; Dochy et al., 2003）。
 > - **质疑方** 关于 PBL 相对传统教学的优劣持续存在争论，因为实施方式与情境差异使结果难以一概而论。（p. 951）
 
 > [!warrant]- 推理桥梁
-> 每个元分析只是单一结果或单一情境上的局部估计，其相互冲突的结论不能靠逐篇阅读裁决；把元分析作为[[Unit of Analysis|分析单位]]进行量化综合，才能把多个结果与情境整合为总体估计，并检验哪些研究特征系统性地改变效应。争论存在本身即为开展二阶综合的理由。（pp. 951–952）
+> 每个元分析只是单一结果或单一情境上的局部估计，其相互冲突的结论不能靠逐篇阅读裁决；把元分析作为[[Unit of Analysis\|分析单位]]进行量化综合，才能把多个结果与情境整合为总体估计，并检验哪些研究特征系统性地改变效应。争论存在本身即为开展二阶综合的理由。（pp. 951–952）
 
 ---
 
 ### 论证步骤三：既有综合仅覆盖质性数据，量化二阶综合空缺
 
 > [!claim] 2009 年的 Strobel & Van Barneveld 只综合了质性数据，量化二阶综合仍属空白
-> 已有研究以质性系统评价或元分析方式综述 PBL，但唯一跨层级的 Strobel & Van Barneveld (2009) 综合针对[[Qualitative Research|质性研究]]结果；尚无研究把 PBL 高等教育元分析的定量汇总[[Effect Size|效应量]]作为分析单位进行二阶综合。（pp. 951–952）
+> 已有研究以质性系统评价或元分析方式综述 PBL，但唯一跨层级的 Strobel & Van Barneveld (2009) 综合针对[[Qualitative Research\|质性研究]]结果；尚无研究把 PBL 高等教育元分析的定量汇总[[Effect Size\|效应量]]作为分析单位进行二阶综合。（pp. 951–952）
 
 > [!chain-link] 证据到判断
 > - PBL 文献在 2010 年后翻倍以上，系统评价随之积累（Hallinger, 2021）。（p. 951）
 > - 质性综合研究覆盖 PBL 的定性发现（Anggraeni et al., 2023; Li et al., 2019; Wosinski et al., 2018）。（p. 951）
-> - 基于一阶元分析的量化[[Meta-meta-analysis|二阶元分析]]尚未出现；以二阶元分析整合其结果，可使不同情境的数据获得整体视角。（pp. 951–952）
+> - 基于一阶元分析的量化[[Meta-meta-analysis\|二阶元分析]]尚未出现；以二阶元分析整合其结果，可使不同情境的数据获得整体视角。（pp. 951–952）
 
 > [!warrant]- 推理桥梁
 > 量化元分析数据代表不同情境下的实证效应，将其综合能提供文献的整体图景并加深理解；质性综合无法回答总体效应量有多大的问题，因此二阶元分析是填补该空缺的合适方法。（pp. 951–952）
@@ -356,8 +356,8 @@ issuing_organization: ""
 
 ### 论证步骤四：严格筛选、质量评估与统一效应量尺度为二阶综合奠基
 
-> [!claim] [[PRISMA]] 检索、六项纳入标准、R-[[AMSTAR]] 质量评估与[[Effect Size Conversion|效应量转换]]，保证了二阶数据集的可比性
-> 从 495 项检索结果经去重与筛选得到 43 项候选，再按纳入标准最终保留 20 项元分析（469 项独立研究）。R-AMSTAR 质量得分作为调节[[Variable|变量]]，双人[[Coding in Qualitative Research|编码]]一致率 κ = 0.89，OR 与 Hedges' g 统一转换为 SMD，为[[Fixed-Effect and Random-Effects Models|随机效应模型]]合成奠定数据基础。（pp. 956–960）
+> [!claim] [[PRISMA]] 检索、六项纳入标准、R-[[AMSTAR]] 质量评估与[[Effect Size Conversion\|效应量转换]]，保证了二阶数据集的可比性
+> 从 495 项检索结果经去重与筛选得到 43 项候选，再按纳入标准最终保留 20 项元分析（469 项独立研究）。R-AMSTAR 质量得分作为调节[[Variable\|变量]]，双人[[Coding in Qualitative Research\|编码]]一致率 κ = 0.89，OR 与 Hedges' g 统一转换为 SMD，为[[Fixed-Effect and Random-Effects Models\|随机效应模型]]合成奠定数据基础。（pp. 956–960）
 
 > [!chain-link] 证据到判断
 > - 六项纳入标准排除了富化 PBL、混合其他教学模式、覆盖 K-12、缺乏传统对照组或统计信息不足的元分析，并采用 Cooper & Koenka 低于 25% 重叠率门槛控制文献重叠。（pp. 956–957）
@@ -366,7 +366,7 @@ issuing_organization: ""
 > - 数据集以 SMD 为主（k = 47），另含 OR（k = 2）与 Hedges' g（k = 1），OR 均转换为 SMD；随机效应模型下分析含 47 个效应量。（pp. 957–960）
 
 > [!exegesis]- 为什么重叠率与效应量尺度重要
-> 二阶元分析的最大风险是元分析之间原始研究重叠导致同一研究被重复计入，人为压缩联合[[Standard Error|标准误]]、使[[Confidence Interval|置信区间]]虚假变窄；另一风险是 OR、Cohen's d 与 Hedges' g 尺度不一导致合并无意义。低于 25% 重叠率门槛与 OR 向 SMD 的转换分别处理这两个问题。（pp. 956–960）
+> 二阶元分析的最大风险是元分析之间原始研究重叠导致同一研究被重复计入，人为压缩联合[[Standard Error\|标准误]]、使[[Confidence Interval\|置信区间]]虚假变窄；另一风险是 OR、Cohen's d 与 Hedges' g 尺度不一导致合并无意义。低于 25% 重叠率门槛与 OR 向 SMD 的转换分别处理这两个问题。（pp. 956–960）
 
 > [!warrant]- 推理桥梁
 > 只有保证纳入的元分析彼此独立、效应量处于同一尺度，47 个效应量在随机效应模型下才可能被有意义地合成；否则任何总体估计都可能被文献重叠或测度混乱扭曲。（pp. 956–960）
@@ -375,15 +375,15 @@ issuing_organization: ""
 
 ### 论证步骤五：总体效应为高效应，但高异质性与轻微发表偏倚并存
 
-> [!claim] PBL 对高等教育学生结果具有显著高总体效应，且该结论在[[Publication Bias|发表偏倚]]校正后保持稳健
+> [!claim] PBL 对高等教育学生结果具有显著高总体效应，且该结论在[[Publication Bias\|发表偏倚]]校正后保持稳健
 > 观测平均效应量为 $d = 0.68$（$CI = [0.57, 0.79], p < .001$），但数据集异质性极高（$Q(46) = 730.67, p < .001, I^2 = 93.70\%$）。发表偏倚检验结果相互补充：Begg 秩相关未提示偏倚，Egger 回归与剪补法提示轻微偏倚；剪补法建议补入 6 个负效应量后，调整效应量为 $d = 0.60$（$CI = [0.49, 0.71]$），与观测值差约 0.08。（pp. 960–961）
 
 > [!chain-link] 证据到判断
 > - 数据集 47 个效应量从 $d = 1.15$ 到 $d = −.39$，观测平均 $d = 0.68$，总异质性 $Q(46) = 730.67, p < .001$，$I^2 = 93.70\%$。（p. 960）
 > - Begg & Mazumdar 秩相关 tau = −.01，z = .12，p = .89，未提示发表偏倚；Egger 回归 t(45) = 5.53，p < .001，提示小效应研究未充分代表。（pp. 960–961）
-> - Duval & Tweedie [[Trim and Fill Method|剪补法]]建议在均值左侧补入 k = 6 个负或小效应量，调整后 $d = 0.60$（$CI = [0.49, 0.71]$），与观测值差约 0.08。（p. 961）
+> - Duval & Tweedie [[Trim and Fill Method\|剪补法]]建议在均值左侧补入 k = 6 个负或小效应量，调整后 $d = 0.60$（$CI = [0.49, 0.71]$），与观测值差约 0.08。（p. 961）
 
-> [!example]- 图2：效应量[[Funnel Plot|漏斗图]]（Funnel Plot Graph）
+> [!example]- 图2：效应量[[Funnel Plot\|漏斗图]]（Funnel Plot Graph）
 > ![](https://img.mylikemie.icu/sources/Erdem_2026_SHE/figures/Erdem_2026_SHE_Fig2_Funnel_Plot_Graph.jpg)
 
 > [!stat-cards]- 核心综合数据
@@ -455,14 +455,14 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - **临床技能** $d = 1.06$ 与护理临床推理证据一致，源于 PBL 对真实问题的聚焦（Wosinski et al., 2018）。（p. 963）
 > - **满意度与态度** $d = 1.10$ 与 $d = 0.57$ 来自主动参与机制：PBL 鼓励学生积极参与问题解决，培养积极态度与热情（Ferreira & Trudel, 2012; Shin & Kim, 2013），进而增强内在动机与学习能力（Li et al., 2024）；Song (2008) 比较发现 PBL 在满意度、态度与动机上优于传统教学。（pp. 963–964）
-> - **理论性知识** $d = 0.59$ 需结合短期获取较低而长期保持更好的既有发现解读：Dochy et al. (2003) 报告 PBL 学生知识获取较低但长期保持更优，Strobel & Van Barneveld (2009) 报告短期保持欠佳而长期保持与表现提升更优；PBL 促进[[Surface and Deep Learning|深层学习]]而非表层学习（Dolmans et al., 2016）。（p. 963）
+> - **理论性知识** $d = 0.59$ 需结合短期获取较低而长期保持更好的既有发现解读：Dochy et al. (2003) 报告 PBL 学生知识获取较低但长期保持更优，Strobel & Van Barneveld (2009) 报告短期保持欠佳而长期保持与表现提升更优；PBL 促进[[Surface and Deep Learning\|深层学习]]而非表层学习（Dolmans et al., 2016）。（p. 963）
 > - **批判性思维** $d = 0.56$ 得到问题解决与批判性思维关系的支持：批判性思维可被定义为问题解决过程（Paul & Elder, 2003），PBL 的问题解决环境促使学生深入思考、评价多样视角并综合信息（Ellerton, 2022; Saunders-Stewart, Gyles, & Shore, 2012）。（pp. 963–964）
 
 > [!note] 关键限定
-> 批判性思维的培养可能需要长期暴露（Masek & Yamin, 2011），短期[[Intervention Research|干预研究]]可能低估其效应；学界对批判性思维的定义不一致也造成混合结果（Thorndahl & Stentoft, 2020）。（p. 964）
+> 批判性思维的培养可能需要长期暴露（Masek & Yamin, 2011），短期[[Intervention Research\|干预研究]]可能低估其效应；学界对批判性思维的定义不一致也造成混合结果（Thorndahl & Stentoft, 2020）。（p. 964）
 
 > [!warrant]- 推理桥梁
-> 各结果效应都能由 PBL 的机制（真实问题、主动参与、[[Self-Directed Learning|自我导向学习]]）加以解释；即便理论性知识存在获取与保持的权衡，该高效应仍与 PBL 促进深层理解的目标一致。（pp. 963–964）
+> 各结果效应都能由 PBL 的机制（真实问题、主动参与、[[Self-Directed Learning\|自我导向学习]]）加以解释；即便理论性知识存在获取与保持的权衡，该高效应仍与 PBL 促进深层理解的目标一致。（pp. 963–964）
 
 ---
 
@@ -475,7 +475,7 @@ issuing_organization: ""
 > - **地点偏倚** 治疗效应可能因国家而异（Vickers et al., 1998）；中国效应最高可归因于 PBL 自 1970 年代起在华实施、经验较长（Chan et al., 2022; Xu, Ye, & Wang, 2021），以及中国文化中的成就动机、自导向学习、工作伦理、集体主义与韧性（Gwee, 2008）。（pp. 964–965）
 > - **报告类型** 未发表博士论文效应更低，可能与期刊编辑不愿发表统计不显著或低效应研究有关（Page et al., 2021; Pigott et al., 2013）；既有研究对该结果的支持不一致（Hew et al., 2021 反对；Tan, Gao, & Shi, 2022 支持）。（p. 964）
 > - **年份区间** 2010 年前效应较低，可能源于实施者实验经验不足；2011–2020 与 2021 后效应相当，且 PBL 模型在 2010 年代持续演化（Hallinger, 2020; Azer, 2017）。（pp. 964–965）
-> - **抽样与质量** 仅含随机对照组的元分析效应更高，因为[[Random Assignment|随机化]]对实施过程变量控制更充分（Bonell et al., 2018）；高质量元分析效应更高与二阶元分析研究一致（Young, 2017; Martin et al., 2022）。（p. 965）
+> - **抽样与质量** 仅含随机对照组的元分析效应更高，因为[[Random Assignment\|随机化]]对实施过程变量控制更充分（Bonell et al., 2018）；高质量元分析效应更高与二阶元分析研究一致（Young, 2017; Martin et al., 2022）。（p. 965）
 
 > [!warrant]- 推理桥梁
 > 调节模式并非偶然波动，而各有机制解释：地点差异对应实施经验与文化，报告类型差异对应发表选择，抽样与质量差异对应研究控制与方法学严谨度。这些机制共同表明，平均效应应在研究特征的情境中解读。（pp. 964–965）
@@ -490,7 +490,7 @@ issuing_organization: ""
 > [!debates] 关于 PBL 认知基础与实用性的学术争论
 >
 > > [!axis] PBL 是否过于耗时且实施困难
-> > 批评者认为 PBL 要求高且耗时，常由未充分理解其复杂性的人实施；有限的临床能力提升证据也引发对其实用性的质疑（Kilroy, 2004）。实施中的挑战包括班级拥挤、[[Problem Finding|问题发现]]的地域恶性循环、并非适合所有学生以及教师能力不足（Ramadhani, Huda, & Umam, 2019）。（p. 966）
+> > 批评者认为 PBL 要求高且耗时，常由未充分理解其复杂性的人实施；有限的临床能力提升证据也引发对其实用性的质疑（Kilroy, 2004）。实施中的挑战包括班级拥挤、[[Problem Finding\|问题发现]]的地域恶性循环、并非适合所有学生以及教师能力不足（Ramadhani, Huda, & Umam, 2019）。（p. 966）
 > >
 > > - **Kilroy (2004)** PBL 是要求高且时间密集的方法，常由未充分掌握其复杂性者实施，临床能力提升证据有限。（p. 966）
 > > - **Ramadhani et al. (2019)** 拥挤课堂、问题发现因地域局限而陷入恶性循环（问题源自本地环境，欠发达地区学生难以触及前沿科技、只能反复面对低挑战问题）、非普适性与教师能力不足是主要实施障碍。（p. 966）
@@ -517,10 +517,10 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **PBL 在高等教育中对学生结果具有高总体效应** [[Meta-meta-analysis|二阶元分析]]汇总 20 项一阶[[Meta-analysis|元分析]]（469 项独立研究、47 个[[Effect Size|效应量]]），调整后总体效应量为 $d = 0.60$（$CI = [0.49, 0.71]$），观测值为 $d = 0.68$，[[Publication Bias|发表偏倚]]校正不改变结论方向。（pp. 960–961）
-> 2. **[[Clinical Skills|临床技能]]与[[Student Satisfaction|学生满意度]]效应最高，其余结果效应较高** 临床技能（$d = 1.06$）与学生满意度（$d = 1.10$）属很高，[[Theoretical Knowledge|理论性知识]]（$d = 0.59$）、[[Critical Thinking|批判性思维]]（$d = 0.56$）与态度（$d = 0.57$）属高。（pp. 961–962）
+> 1. **PBL 在高等教育中对学生结果具有高总体效应** [[Meta-meta-analysis\|二阶元分析]]汇总 20 项一阶[[Meta-analysis\|元分析]]（469 项独立研究、47 个[[Effect Size\|效应量]]），调整后总体效应量为 $d = 0.60$（$CI = [0.49, 0.71]$），观测值为 $d = 0.68$，[[Publication Bias\|发表偏倚]]校正不改变结论方向。（pp. 960–961）
+> 2. **[[Clinical Skills\|临床技能]]与[[Student Satisfaction\|学生满意度]]效应最高，其余结果效应较高** 临床技能（$d = 1.06$）与学生满意度（$d = 1.10$）属很高，[[Theoretical Knowledge\|理论性知识]]（$d = 0.59$）、[[Critical Thinking\|批判性思维]]（$d = 0.56$）与态度（$d = 0.57$）属高。（pp. 961–962）
 > 3. **效应变异受结果类型、地域、抽样、质量、报告类型与年份显著调节** 中国情境（$d = 1.10$）、仅含随机对照组的元分析（$d = 0.84$）、高质量元分析（$d = 0.82$）、文章形式（$d = 0.77$）与 2011 年后发表（$ES \approx 0.70–0.77$）均伴随更高效应；专业类型无显著调节。（pp. 961–962）
-> 4. **推广需结合高[[Heterogeneity|异质性]]与轻微发表偏倚谨慎解释** 数据集 $I^2 = 93.70\%$，Egger 回归与[[Trim and Fill Method|剪补法]]提示轻微发表偏倚，医学与护理专业被过度代表；平均效应不能机械推广到所有专业与情境。（pp. 960–961, 965–966）
+> 4. **推广需结合高[[Heterogeneity\|异质性]]与轻微发表偏倚谨慎解释** 数据集 $I^2 = 93.70\%$，Egger 回归与[[Trim and Fill Method\|剪补法]]提示轻微发表偏倚，医学与护理专业被过度代表；平均效应不能机械推广到所有专业与情境。（pp. 960–961, 965–966）
 
 > [!stat-cards]- 核心统计指标
 > - **$d = 0.60$** 调整后总体效应量（$CI = [0.49, 0.71]$）。（pp. 950, 961）
@@ -532,8 +532,8 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 总体效应与调节[[Variable|变量]]结论
-> 结论是，PBL 对学生结果具有显著且高的影响。平均[[Effect Size|效应量]]为 d = .60 [CI = 0.49; 0.71; Q(t) = 757.75]。此外，分析显示，影响 PBL 效应变异的调节变量包括学生结果类型、地理位置、[[Blue Skies Research|基础研究]]所采用的抽样方法、研究质量、发表年份与发表类型。（p. 950）
+> [!citation-card]- 总体效应与调节[[Variable\|变量]]结论
+> 结论是，PBL 对学生结果具有显著且高的影响。平均[[Effect Size\|效应量]]为 d = .60 [CI = 0.49; 0.71; Q(t) = 757.75]。此外，分析显示，影响 PBL 效应变异的调节变量包括学生结果类型、地理位置、[[Blue Skies Research\|基础研究]]所采用的抽样方法、研究质量、发表年份与发表类型。（p. 950）
 >
 > *The study concluded that PBL has a significant and high impact on student outcomes. The mean effect size is ES = .60 [CI = 0.49; 0.71; Q(t) = 757.75]. Furthermore, the analysis revealed that the moderators influencing the variability of the effects of PBL encompass the type of student outcome, geographical location, sampling methodology employed in the primary studies, research quality, publication year, and publication type.*
 
@@ -543,7 +543,7 @@ issuing_organization: ""
 > *The effect sizes observed in China were significantly higher than those observed in other locations. This may be attributed to the fact that the PBL model has been implemented in higher education institutions in China since the 1970s... the role of Chinese culture in this finding should not be overlooked.*
 
 > [!citation-card]- PBL 之争与推广结论
-> PBL 课程毕业生具备与传统课程毕业生相当或更强的专业能力。此外，PBL 对学生结果的影响超越了[[Academic Achievement|学业表现]]。……可以得出结论，PBL 应在高等教育环境中使用，以促进[[Theoretical Knowledge|理论性知识]]获取、增强临床与[[Critical Thinking|批判性思维]]技能，以及形成积极的[[Student Attitude|学生态度]]与[[Student Satisfaction|学生满意度]]。（p. 966）
+> PBL 课程毕业生具备与传统课程毕业生相当或更强的专业能力。此外，PBL 对学生结果的影响超越了[[Academic Achievement\|学业表现]]。……可以得出结论，PBL 应在高等教育环境中使用，以促进[[Theoretical Knowledge\|理论性知识]]获取、增强临床与[[Critical Thinking\|批判性思维]]技能，以及形成积极的[[Student Attitude\|学生态度]]与[[Student Satisfaction\|学生满意度]]。（p. 966）
 >
 > *Evidence indicates that graduates of PBL curricula exhibit comparable or enhanced professional competencies relative to graduates from more conventional curricula... It can be concluded that PBL should be employed in higher education settings to facilitate enhanced theoretical knowledge acquisition, augmented clinical and critical thinking skills, and positive student attitudes and increased satisfaction.*
 
@@ -551,14 +551,14 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning] 原文自述局限与[[Research Scope|研究边界]]（pp. 965–966）
-> - **仅比较 PBL 与传统教学模型** 未覆盖以网络工具、计算机、团队工作等富化的 PBL，也未与[[Project-Based Learning|项目本位学习]]、案例本位学习等其他模式比较。
+> [!warning] 原文自述局限与[[Research Scope\|研究边界]]（pp. 965–966）
+> - **仅比较 PBL 与传统教学模型** 未覆盖以网络工具、计算机、团队工作等富化的 PBL，也未与[[Project-Based Learning\|项目本位学习]]、案例本位学习等其他模式比较。
 > - **仅限于高等教育** 未覆盖 K-12 层面，无法进行高等教育与 K-12 的比较。
-> - **仅限于英文发表的一阶[[Meta-analysis|元分析]]** 未纳入其他语言研究。
+> - **仅限于英文发表的一阶[[Meta-analysis\|元分析]]** 未纳入其他语言研究。
 > - **非健康科学专业元分析数量有限** 工程、教师教育、法学、社会科学与人文学科的元分析覆盖不足。
 > - **仅基于量化数据** 未综合质性系统评价的发现。
-> - **存在轻微[[Publication Bias|发表偏倚]]** 纳入元分析普遍报告正且大的效应，可能是偏倚来源，解读需结合偏倚报告。
-> - **医学与护理专业被过度代表** 其他专业[[Effect Size|效应量]]较少，泛化到所有高等教育专业时需谨慎。
+> - **存在轻微[[Publication Bias\|发表偏倚]]** 纳入元分析普遍报告正且大的效应，可能是偏倚来源，解读需结合偏倚报告。
+> - **医学与护理专业被过度代表** 其他专业[[Effect Size\|效应量]]较少，泛化到所有高等教育专业时需谨慎。
 
 ---
 

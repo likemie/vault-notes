@@ -55,16 +55,16 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> **组合[[Reliability|信度]]（Composite Reliability, CR）（在结构方程模型中亦称[[Construct|构念]]信度）**是由 Werts, Linn & Jöreskog（1974）以及 Raykov（1997）系统发展的现代心理测量学指标。它基于[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）中各题项的标准化因子载荷与误差方差，精确计算由一组观测指标线性组合而成的潜[[Variable|变量]]的[[Internal Consistency|内部一致性]]信度。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–7)]]
+> **组合[[Reliability\|信度]]（Composite Reliability, CR）（在结构方程模型中亦称[[Construct\|构念]]信度）**是由 Werts, Linn & Jöreskog（1974）以及 Raykov（1997）系统发展的现代心理测量学指标。它基于[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）中各题项的标准化因子载荷与误差方差，精确计算由一组观测指标线性组合而成的潜[[Variable\|变量]]的[[Internal Consistency\|内部一致性]]信度。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–7)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 潜变量与其测量题项之间的因子载荷（$\lambda_i$）与题项误差方差（$\theta_i$）。
 > - **问题类型** 评估不可直接观测潜变量的测量信度、检验多题项合成测度的内在稳定性。
-> - **[[Unit of Analysis|分析单位]]** 潜变量（Latent Factor）构念层级。
+> - **[[Unit of Analysis\|分析单位]]** 潜变量（Latent Factor）构念层级。
 > - **输出形式** 介于 0 到 1 之间的信度系数值（通常保留两位或三位小数，如 $\text{CR} = .87$）。
 
 > [!citation-card]- 关键定义
-> 组合信度衡量了潜变量内部所有测度指标的一致性水平。与传统的 Cronbach's $\alpha$ 相比，组合信度不强求各题项具有相等的因子负荷，因而能更准确地反映构念的真实测量信度；通常以 0.70 作为判定信度优良的临界值。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6)]]
+> 组合信度衡量了潜变量内部所有测度指标的一致性水平。与传统的 Cronbach's $\alpha$ 相比，组合信度不强求各题项具有相等的因子负荷，因而能更准确地反映构念的真实测量信度；通常以 0.70 作为判定信度优良的临界值。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 6)]]
 >
 > *Composite reliability reflects the shared variance among the observed indicators of a latent construct. Unlike [[Cronbach's Alpha]], it does not assume tau-equivalence, providing a more precise and unbiased estimate of internal consistency.*
 
@@ -72,15 +72,15 @@ updated: 2026-09-17
 
 ## 方法定位与理论优势
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 承认不同测量题项对潜在[[Construct|构念]]的贡献权重是**异质且不均等**的，高载荷题项对[[Reliability|信度]]的贡献显著大于低载荷题项。
+> [!method-position] [[Epistemology\|认识论]]与方法定位
+> - **知识观** 承认不同测量题项对潜在[[Construct\|构念]]的贡献权重是**异质且不均等**的，高载荷题项对[[Reliability\|信度]]的贡献显著大于低载荷题项。
 > - **有效性标准** 
->   1. **基本门槛** $\text{CR} \ge .70$（Hair et al., 2010; Bagozzi & Yi, 1988），表明具备优良的[[Internal Consistency|内部一致性]]；
+>   1. **基本门槛** $\text{CR} \ge .70$（Hair et al., 2010; Bagozzi & Yi, 1988），表明具备优良的[[Internal Consistency\|内部一致性]]；
 >   2. **探索性研究可接受线** $\text{CR} \ge .60$（Nunnally & Bernstein, 1994）；
 >   3. **高精度标准** $\text{CR} \ge .80$，适合用于个体选拔与关键实践决策。
 > - **不声称回答的问题** CR 仅评估同维指标内部的一致性，不能代替跨时点重测稳定性（[[Test-Retest Reliability]]）或评分者一致性（[[Inter-Rater Reliability]]）。
 
-> [!contrast-table] 组合信度（CR）vs 传统[[Cronbach's Alpha|克隆巴赫系数]]（Cronbach's $\alpha$）
+> [!contrast-table] 组合信度（CR）vs 传统[[Cronbach's Alpha\|克隆巴赫系数]]（Cronbach's $\alpha$）
 > | 比较维度 | 传统克隆巴赫系数（Cronbach's $\alpha$） | 现代组合信度（Composite Reliability, CR） |
 > |---|---|---|
 > | **核心统计[[Hypothesis\|假设]]** | 假定**本质 $\tau$ 等值（Essential Tau-Equivalence）**，即所有题项在潜变量上的真实载荷完全相同（$\lambda_1 = \lambda_2 = \dots = \lambda_k$）。 | 采用**同质性非等权模型（Congeneric Model）**，允许各题项拥有差异化的自由估计载荷（$\lambda_i$）。 |
@@ -92,10 +92,10 @@ updated: 2026-09-17
 
 ## 数学原理与计算公式
 
-> [!formula-step] 公式步骤　组合[[Reliability|信度]]（CR）标准计算公式
+> [!formula-step] 公式步骤　组合[[Reliability\|信度]]（CR）标准计算公式
 > $$\text{CR} = \frac{\left(\sum_{i=1}^{k} \lambda_i\right)^2}{\left(\sum_{i=1}^{k} \lambda_i\right)^2 + \sum_{i=1}^{k} \theta_i}$$
 >
-> **这个公式在做什么** 输入潜[[Variable|变量]]下各题项的标准化因子载荷 $\lambda_i$ 与误差方差 $\theta_i = 1 - \lambda_i^2$，先将所有载荷求和后取平方（代表合成真分数方差），再除以该平方和与各题项误差方差之和的总和（代表总方差）。
+> **这个公式在做什么** 输入潜[[Variable\|变量]]下各题项的标准化因子载荷 $\lambda_i$ 与误差方差 $\theta_i = 1 - \lambda_i^2$，先将所有载荷求和后取平方（代表合成真分数方差），再除以该平方和与各题项误差方差之和的总和（代表总方差）。
 >
 > **符号说明**
 > - $\lambda_i$：第 $i$ 个测度题项的标准化因子载荷（Standardized Factor Loading）。
@@ -114,7 +114,7 @@ updated: 2026-09-17
 
 ## 软件实现与代码规程
 
-> [!software-impl] R 语言计算组合[[Reliability|信度]]（CR）代码
+> [!software-impl] R 语言计算组合[[Reliability\|信度]]（CR）代码
 > ```R
 > library(lavaan)
 > library(semTools)
@@ -134,8 +134,8 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers|教师研究素养量表]]》的 [[Confirmatory Factor Analysis|CFA]] 心理计量检验中，计算各分维度的组合[[Reliability|信度]]分别为：研究意识（$\text{CR} = .83$）、研究态度（$\text{CR} = .75$）、研究技能（$\text{CR} = .87$）、[[Research Utilization|研究使用]]（$\text{CR} = .90$），全部显著超过 $.70$ 门槛，证实了量表各维度卓越的[[Internal Consistency|内部一致性]]。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》的 [[Confirmatory Factor Analysis\|CFA]] 心理计量检验中，计算各分维度的组合[[Reliability\|信度]]分别为：研究意识（$\text{CR} = .83$）、研究态度（$\text{CR} = .75$）、研究技能（$\text{CR} = .87$）、[[Research Utilization\|研究使用]]（$\text{CR} = .90$），全部显著超过 $.70$ 门槛，证实了量表各维度卓越的[[Internal Consistency\|内部一致性]]。
 
 ---
 

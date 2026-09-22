@@ -62,26 +62,26 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **唯名论（Nominalism）** 是伯勒尔与摩根（Burrell & Morgan, 1979）分析社会科学性质的四组哲学[[Hypothesis|假设]]中，[[Ontology|本体论]]维度的核心一极，与实在论（Realism）相对立。唯名论主张外部世界不存在独立于认知者的客观实体与先验范畴；所谓的“概念”、“组织”或“社会结构”仅仅是人类用以指称事物的语言标签（convenient labels）与词汇符号，社会实在在本质上是人类主体主观心智与社会建构的发明物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 5–7)]]
+> **唯名论（Nominalism）** 是伯勒尔与摩根（Burrell & Morgan, 1979）分析社会科学性质的四组哲学[[Hypothesis\|假设]]中，[[Ontology\|本体论]]维度的核心一极，与实在论（Realism）相对立。唯名论主张外部世界不存在独立于认知者的客观实体与先验范畴；所谓的“概念”、“组织”或“社会结构”仅仅是人类用以指称事物的语言标签（convenient labels）与词汇符号，社会实在在本质上是人类主体主观心智与社会建构的发明物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 5–7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 否定概念与集体实体（如“国家”、“学校”、“官僚制”）拥有独立于人类思维之外的实体性存在，主张一切社会范畴都是主观约定的名称。
-> - **用途** 帮[[Teaching Assistant|助教]]育研究者破除对教育制度、学校组织与测验指标的“实体化崇拜”（reification），看见隐藏在制度标签背后的微观互动协商与权力运作。
+> - **用途** 帮[[Teaching Assistant\|助教]]育研究者破除对教育制度、学校组织与测验指标的“实体化崇拜”（reification），看见隐藏在制度标签背后的微观互动协商与权力运作。
 > - **边界** 唯名论不等于否定物理自然界的存在，而是特指在社会与文化领域，社会实在无法脱离人类意义赋予而独立存续。
 
 > [!citation-card] 伯勒尔与摩根论唯名论与实在论的本体论对峙
-> 首先是本体论维度的假设——关乎被探究社会现象之本质的假设。因此，作者追问：社会实在是外在于个体的——从外部强加于他们的意识之上——还是个体意识的产物？实在具有客观性质，抑或仅仅是个体认知的结果？实在是一个在外部世界中既定现存的‘就在那里’，还是由一个人自身的心智所创造的？这些追问直接源于哲学上所谓的‘唯名论—实在论之辩’。前一种观点（唯名论）认为思维对象仅仅是词汇标签，并不存在构成词汇意义的独立可通达的事物。而实在论立场则坚决主张客体具有独立的实存，其存在并不依赖于认知者。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 5)]]
+> 首先是本体论维度的假设——关乎被探究社会现象之本质的假设。因此，作者追问：社会实在是外在于个体的——从外部强加于他们的意识之上——还是个体意识的产物？实在具有客观性质，抑或仅仅是个体认知的结果？实在是一个在外部世界中既定现存的‘就在那里’，还是由一个人自身的心智所创造的？这些追问直接源于哲学上所谓的‘唯名论—实在论之辩’。前一种观点（唯名论）认为思维对象仅仅是词汇标签，并不存在构成词汇意义的独立可通达的事物。而实在论立场则坚决主张客体具有独立的实存，其存在并不依赖于认知者。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 5)]]
 >
 > *First, there are assumptions of an ontological kind – assumptions which concern the very nature or essence of the social phenomena being investigated. Thus, the authors ask, is social reality external to individuals – imposing itself on their consciousness from without – or is it the product of individual consciousness? Is reality of an objective nature, or the result of individual cognition? Is it a given ‘out there’ in the world, or is it created by one’s own mind? These questions spring directly from what philosophy terms the nominalist-realist debate. The former view holds that objects of thought are merely words and that there is no independently accessible thing constituting the meaning of a word. The realist position, however, contends that objects have an independent existence and are not dependent for it on the knower.*
 
 > [!citation-card] 格林菲尔德论组织作为人类意义发明的唯名论实在
-> 比较维度：哲学基础——实在论（[[Objectivism|客观主义]]）：世界是实存的，并且作为其本来面目是可知晓的；组织是拥有自身独立生命的真实实体。唯心论/唯名论（[[Subjectivism|主观主义]]）：世界是实存的，但不同的人以极其不同的方式去诠释它；组织是由人类所发明的社会现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 7)]]
+> 比较维度：哲学基础——实在论（[[Objectivism\|客观主义]]）：世界是实存的，并且作为其本来面目是可知晓的；组织是拥有自身独立生命的真实实体。唯心论/唯名论（[[Subjectivism\|主观主义]]）：世界是实存的，但不同的人以极其不同的方式去诠释它；组织是由人类所发明的社会现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 7)]]
 >
 > *Philosophical basis: Realism (Objectivist): the world exists and is knowable as it really is. Organizations are real entities with a life of their own. Idealism (Subjectivist): the world exists but different people construe it in very different ways. Organizations are invented social reality.*
 
 > [!boundary] 概念边界
 > - 不等于 唯我论（Solipsism） — 唯我论断言唯有自我及其意识才是唯一的存在；唯名论则承认主体间性交往与客观现实的多样性，仅主张概念是心智发明的符号而非先验实体。
-> - 不等于 [[Interpretive Paradigm|反实证主义]]（Anti-[[Positivism]]） — 唯名论是关于现实本质的本体论（Ontology）主张；反实证主义则是关于知识获取与验证规程的[[Epistemology|认识论]]（Epistemology）主张，尽管二者在主观主义进路中高度协同。
+> - 不等于 [[Interpretive Paradigm\|反实证主义]]（Anti-[[Positivism]]） — 唯名论是关于现实本质的本体论（Ontology）主张；反实证主义则是关于知识获取与验证规程的[[Epistemology\|认识论]]（Epistemology）主张，尽管二者在主观主义进路中高度协同。
 > - 不等于 相对主义（Relativism） — 唯名论强调范畴建构的约定俗成性，并不必然主张所有关于社会现象的真理陈述在认识论上完全等价。
 
 ---
@@ -160,6 +160,6 @@ updated: 2026-09-17
 
 ## 参考文献
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 5–7)]] — 系统阐释 Burrell & Morgan 四组哲学[[Hypothesis|假设]]中的唯名论立场，以及 Greenfield 的组织唯名论对照表。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 贯穿全书[[Ontology|本体论]]与[[Qualitative Research|质性研究]]哲学基础探讨。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 5–7)]] — 系统阐释 Burrell & Morgan 四组哲学[[Hypothesis\|假设]]中的唯名论立场，以及 Greenfield 的组织唯名论对照表。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿全书[[Ontology\|本体论]]与[[Qualitative Research\|质性研究]]哲学基础探讨。

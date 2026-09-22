@@ -94,15 +94,15 @@ sources:
 ## 研究问题
 
 > [!question]
-> 全球各级教育行政部门与学校充斥着海量数据系统，为何学生[[Academic Achievement|学业成就]]却未能获得实质性改善？在问责压力不断推高测验频次的背景下，究竟何种性质的证据才能真正对课堂教学与学生学习产生积极影响，以及如何构建一个以促进教学改进为旨归的系统级证据与问责模型？（p. 11）
+> 全球各级教育行政部门与学校充斥着海量数据系统，为何学生[[Academic Achievement\|学业成就]]却未能获得实质性改善？在问责压力不断推高测验频次的背景下，究竟何种性质的证据才能真正对课堂教学与学生学习产生积极影响，以及如何构建一个以促进教学改进为旨归的系统级证据与问责模型？（p. 11）
 
 > [!claim] 核心主张
-> 促进学习改变的证据本质不在于外部数据的机械堆砌，而在于教师对数据的实质性专业诠释。教育改革必须摒弃自上而下的惩罚性问责与单纯资源堆砌[[Hypothesis|假设]]，将证据周期的核心锚定于课堂教学与教师群体，依托标准化[[Formative Assessment|形成性评价]]工具构建全校乃至全国共享的[[Learning Progression|学业进阶]]语言，将评价结果重塑为教师反思自身教学效能并指导后续行动的即时线索。（pp. 11–15, p. 19）
+> 促进学习改变的证据本质不在于外部数据的机械堆砌，而在于教师对数据的实质性专业诠释。教育改革必须摒弃自上而下的惩罚性问责与单纯资源堆砌[[Hypothesis\|假设]]，将证据周期的核心锚定于课堂教学与教师群体，依托标准化[[Formative Assessment\|形成性评价]]工具构建全校乃至全国共享的[[Learning Progression\|学业进阶]]语言，将评价结果重塑为教师反思自身教学效能并指导后续行动的即时线索。（pp. 11–15, p. 19）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中小学各级管理部门的数据回流机制、基于标准化考试的系统问责实践，以及教师在课堂中对评价数据的收集、解释与教学转化。（p. 11）
 > - **张力** 教育官僚体制“技术至上、数据过剩”与一线教学“信息匮乏、凭经验盲飞”之间的断裂；高利害惩罚性测验对课程的窄化与真正诊断性形成性反馈之间的冲突。（pp. 11–13）
-> - **贡献** 奠定了《[[Visible Learning|可见的学习]]》前夕的关键理论与统计架构：首次系统公开教育干预平均[[Effect Size|效应量]] $d=0.40$ 的“关节点”相对有效性判准，确立教师在成就变异中的核心因果地位（30%），并以新西兰 [[Assessment Tools for Teaching and Learning|教学与学习评估工具]]（Assessment Tools for Teaching and Learning, asTTle） 为原型，完整建构了贯通目标设定、差距诊断与时间序列追踪的形成性问责理论体系。（pp. 13–19）
+> - **贡献** 奠定了《[[Visible Learning\|可见的学习]]》前夕的关键理论与统计架构：首次系统公开教育干预平均[[Effect Size\|效应量]] $d=0.40$ 的“关节点”相对有效性判准，确立教师在成就变异中的核心因果地位（30%），并以新西兰 [[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning, asTTle） 为原型，完整建构了贯通目标设定、差距诊断与时间序列追踪的形成性问责理论体系。（pp. 13–19）
 
 ---
 
@@ -118,13 +118,13 @@ sources:
 > | **[[Professional Learning Community\|专业学习共同体五要素]]**<br>PLC Five-Element Model | 强调以学生实际学习成效为成功条件的专业发展，倡导去私密化教学、[[Reflexivity\|反思性]][[Dialogue in Education\|对话]]与深度协作。（pp. 18–19） |
 
 > [!warrant]- 理论如何支撑论证
-> 论证将社会组织理论、心理测量学与课堂教学论紧密咬合：首先以方差分解从统计学层面确立教师是教育系统可控的最大杠杆，进而指出唯有将评价数据转化为教师能够理解且认同的形成性进阶坐标，数据才能穿透教室大门；最后以专业学习共同体作为微观组织载体，确保证据能够挑战教师既有[[Mind Mapping|心智图]]式并带来持续的教学重构。（pp. 13–19）
+> 论证将社会组织理论、心理测量学与课堂教学论紧密咬合：首先以方差分解从统计学层面确立教师是教育系统可控的最大杠杆，进而指出唯有将评价数据转化为教师能够理解且认同的形成性进阶坐标，数据才能穿透教室大门；最后以专业学习共同体作为微观组织载体，确保证据能够挑战教师既有[[Mind Mapping\|心智图]]式并带来持续的教学重构。（pp. 13–19）
 
 ---
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与分析规程
+> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与分析规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **干预相对有效性**<br>（Relative Effectiveness, $d$） | 衡量某项教学或制度创新相较于常规教学的标准化效应强度，界定是否超越自然成熟与常规教学的平均门槛。 | 标准化均值差效应量公式：两组或两时点均值差除以合并标准差；门槛设为 $d = 0.40$（关节点）；涵盖 100 余项重大干预创新，基于 30 万项研究元分析数据综合。（p. 16） |
@@ -183,7 +183,7 @@ sources:
 
 教育各级行政部门耗费巨资采购大型数据库系统与数据门户，却在如何向学校“回传数据”上束手无策，一线教师面对海量表格与图表感到时间与工作量不堪重负（p. 11）。
 
-> [!policy-context] 官僚技术至上与教学一线的[[Epistemology|认识论]]脱节
+> [!policy-context] 官僚技术至上与教学一线的[[Epistemology\|认识论]]脱节
 > - **回传数据的错误提问** 行政部门争论如何将数据“加工与粉饰”得更易消化，这属于试图解决眼前虚假问题而非根本问题；询问“是否以及如何把数据送回学校”从一开始就是错误的提问方向。
 > - **数据与诠释的本质差异** 任何收集到的数据本身都不具备内在教学价值，真正关键的是人们希望从数据中做出的“专业诠释（Interpretations）”；若无高质量的诠释指引，海量数据只会沦为阻碍常规教学的官僚负担。（p. 11）
 
@@ -193,9 +193,9 @@ sources:
 
 当公众对学校教育质量产生疑虑时，政策制定者倾向于炮制以“点名、羞辱与惩罚”（Name, Shame, and Blame）为核心的高利害问责体系，其底层依赖于荒谬的“体温计牵引理论（Thermometer Theory of Traction）”——误以为反复拿体温计测量发热便能使病人康复（pp. 11–12）。
 
-> [!critique-method] 美国《不让一个孩子掉队》（No Child Left Behind, [[No Child Left Behind Act 2001|NCLB]]）法案的负面效应解剖
+> [!critique-method] 美国《不让一个孩子掉队》（No Child Left Behind, [[No Child Left Behind Act 2001\|NCLB]]）法案的负面效应解剖
 > - **机械应试与课程割裂** 迫使教师完全“为考而教（Teaching to the Test）”，将未受统考测试的非核心科目（体育、音乐、艺术、自尊教育）彻底清除出日常课程表，严重削减脆弱学生急需的高中职业教育项目。
-> - **分数操纵与制度投机** 为达成年度渐进目标（Adequate Yearly Progress, AYP），学校系统性调低课程标准，并通过拒绝招生、[[Grade Retention|留级]]、停课或将特殊教育学生迁出考场等手段，人为拔高平均达标率。
+> - **分数操纵与制度投机** 为达成年度渐进目标（Adequate Yearly Progress, AYP），学校系统性调低课程标准，并通过拒绝招生、[[Grade Retention\|留级]]、停课或将特殊教育学生迁出考场等手段，人为拔高平均达标率。
 > - **宏观目标的不可达成性** 罗伯特·林恩（Robert Linn, 2003）的精算表明，依照以往十年的实际改进速率，NCLB 设定的 2012 年目标在数学领域需要漫长岁月才能达成，这种脱离现实的政策要求从根本上摧毁了问责的合理性。（p. 12）
 
 针对 NCLB 法案设定的百分之百达标指标，林恩的量化建模给出了极具震撼力的测算数据。
@@ -227,9 +227,9 @@ sources:
 除了宏观财政投入与学业产出的割裂，微观层面学校与家长之间的信息沟通失真进一步加剧了这场危机。
 
 > [!case] 新西兰 156 所学校期末学业报告的内容审查（Hattie & Peddie, 2003）
-> - **调查样本** [[John Hattie|约翰·哈蒂]]与罗宾·佩迪（Robin Peddie, 2003）[[Systematic Sampling|系统抽样]]分析了新西兰 156 所中小学出具给家长的正式学生期末学业报告。
+> - **调查样本** [[John Hattie\|约翰·哈蒂]]与罗宾·佩迪（Robin Peddie, 2003）[[Systematic Sampling\|系统抽样]]分析了新西兰 156 所中小学出具给家长的正式学生期末学业报告。
 > - **标准缺失** 156 所学校中，仅有 12 所（不足 8%）提及了国家官方课程等级（National Curriculum Levels）。超过 50% 的报告完全没有设定任何客观表现标准或成就基准。
-> - **修辞模糊** 超过 50% 的报告采用模糊的农耕式比喻，充斥“正在显露（emerging）”、“正在发展（developing）”、“正在[[Growth|成长]]（growing）”等语词；半数以上特意增设“主观努力（Effort）”栏目以冲淡对客观掌握程度的评价。
+> - **修辞模糊** 超过 50% 的报告采用模糊的农耕式比喻，充斥“正在显露（emerging）”、“正在发展（developing）”、“正在[[Growth\|成长]]（growing）”等语词；半数以上特意增设“主观努力（Effort）”栏目以冲淡对客观掌握程度的评价。
 > - **虚假乐观与信任破产** 98% 的教师评语呈现压倒性的正面赞许（如“教他很愉快”、“好孩子”、“总是尽力”），导致几乎所有家长都产生自家孩子处于“中等偏上”的严重错觉。当家长最终发现孩子无法适应真实社会竞争时，学校专业信誉荡然无存，反向迫使家长强烈要求引入冷酷但透明的外部标准化考试。（p. 12）
 
 ---
@@ -237,7 +237,7 @@ sources:
 ### 论证步骤二　将因果枢纽定位于教师层面并以学业进阶重塑证据内核
 
 > [!claim] 步骤二核心主张
-> 影响学业成就的根本因果震源在于课堂教师；唯有依托全校共享的[[Learning Progression|学业进阶]]语言与多时点形成性测评系统（[[Assessment Tools for Teaching and Learning|asTTle]]），才能使数据真正服务于课程改革与目标缩小。（pp. 13–16）
+> 影响学业成就的根本因果震源在于课堂教师；唯有依托全校共享的[[Learning Progression\|学业进阶]]语言与多时点形成性测评系统（[[Assessment Tools for Teaching and Learning\|asTTle]]），才能使数据真正服务于课程改革与目标缩小。（pp. 13–16）
 
 #### 1. 学业成就变异分解与教师的核心因果枢纽地位
 
@@ -251,9 +251,9 @@ sources:
 > [!stat-cards] 学业成就变异方差分解（p. 13）
 > - **50%** 学生个人先前经验与资质差异（最大自然背景方差）
 > - **30%** 教师课堂教学效能（学校内部最大可控因果杠杆）
-> - **5–10%** 家庭环境与社会[[Cultural Capital|文化资本]]支持
+> - **5–10%** 家庭环境与社会[[Cultural Capital\|文化资本]]支持
 > - **5–10%** 学校组织结构与硬件设施条件
-> - **5–10%** 班级[[Peer-Supported Learning|同伴互助]]与微观互动效应
+> - **5–10%** 班级[[Peer-Supported Learning\|同伴互助]]与微观互动效应
 
 在该方差模型中，校长领导力并不表现为直接的独立方差份额，而是作为间接中介[[Variable|变量]]，通过为教师创设支持性教学环境与专业学习文化发挥作用（p. 13）。
 
@@ -277,7 +277,7 @@ sources:
 > 1. **目标通往何处（Where are we going）** 教师录入学生初始测验结果，对照国家及同类背景学校（Schools like mine）的常模数据，共同确立具有适度挑战性的学期成长目标。
 > 2. **当前行进至何处（How are we going）** 系统即时输出覆盖个体、班级与年级群组的深度认知诊断剖面图，直观展现学生已掌握技能、正在发展技能以及与目标之间的缺口。
 > 3. **下一步走向何方（Where to next）** 诊断结果直接链接到国家课程数据库中具有不同挑战梯度的具体教学活动与学习资源，指导教师因材施教。
-> 4. **间断时间序列分析（[[Time Series Design|interrupted time series]] Analysis）** 彻底摒弃传统[[Learning Gain|增值评价]]中仅依赖前[[Pre-test and Post-test|后测]]两点差分的脆弱算法（两点差分极易被测量误差与[[Floor and Ceiling Effects|天花板效应]]扭曲），采用覆盖多次等间距测量的间断时间序列分析，精准剔除自然成熟趋势并外推干预斜率，提炼出真实的教学净增值。（p. 15）
+> 4. **间断时间序列分析（[[Time Series Design\|interrupted time series]] Analysis）** 彻底摒弃传统[[Learning Gain\|增值评价]]中仅依赖前[[Pre-test and Post-test\|后测]]两点差分的脆弱算法（两点差分极易被测量误差与[[Floor and Ceiling Effects\|天花板效应]]扭曲），采用覆盖多次等间距测量的间断时间序列分析，精准剔除自然成熟趋势并外推干预斜率，提炼出真实的教学净增值。（p. 15）
 
 #### 4. 突破专家闭门造车：基于 25,000 名学生大样本数据的课程实证重构
 
@@ -296,13 +296,13 @@ sources:
 ### 论证步骤三　校本证据实践的六大基本准则与专业学习文化重构
 
 > [!claim] 步骤三核心主张
-> 在学校内部，证据效能取决于教师是否将评价重塑为关于自身教学的反思、建立 $d=0.40$ 的相对有效性标尺，并以学生实质学业进步为前置条件构建[[Professional Learning Community|专业学习共同体]]。（pp. 16–19）
+> 在学校内部，证据效能取决于教师是否将评价重塑为关于自身教学的反思、建立 $d=0.40$ 的相对有效性标尺，并以学生实质学业进步为前置条件构建[[Professional Learning Community\|专业学习共同体]]。（pp. 16–19）
 
 #### 1. 确立以平均效应量 $d=0.40$ 为关节点的“相对有效性”判准
 
 在日常教学中，教师宣称某项教学法“有效”几乎没有任何信息量，因为教育领域绝大多数举措都能带来一定程度的增益（p. 16）。
 
-> [!example]- 图3：教学与学校创新[[Effect Size|效应量]]分布与平均效应量（d=0.40）关节点
+> [!example]- 图3：教学与学校创新[[Effect Size\|效应量]]分布与平均效应量（d=0.40）关节点
 > ![](https://img.mylikemie.icu/sources/Hattie_2005_ACER/figures/Hattie_2005_ACER_Fig3_Effect_Size_Distribution_Hinge_Point.jpg)
 
 通过对实证研究的宏观[[Meta-analysis|元分析]]整合，教育干预的有效性标准被重新赋予了基准参考系。
@@ -333,11 +333,11 @@ sources:
 
 提高教学效能的关键在于消除师生之间关于学习目标的认知盲区，使评价从黑箱走向完全透明（p. 17）。
 
-> [!example] 毛利历史单元的[[Learning Intentions|学习意图]]、阶段标准与评估任务复刻（Clarke, Timperley, & Hattie, 2003）
+> [!example] 毛利历史单元的[[Learning Intentions\|学习意图]]、阶段标准与评估任务复刻（Clarke, Timperley, & Hattie, 2003）
 > - **普遍存在的学生认知盲区** 观察表明绝大多数学生并不清楚课堂任务的学习目的，普遍将“写得长、字迹工整、拼写没有错误”误当作达成优秀的标志，完全混淆了活动任务与认知目标。
-> - **[[Learning Intentions|学习意图]]（Learning Intention）**
+> - **[[Learning Intentions\|学习意图]]（Learning Intention）**
 >   “理解形塑特定人群生存历史的关键事件的原因与后果。”（具体情境为英国殖民者抵达后引发的毛利人群疾病蔓延）。
-> - **阶段性[[Success Criteria|成功标准]]（Success Criteria）**
+> - **阶段性[[Success Criteria\|成功标准]]（Success Criteria）**
 >   - **第 3 周阶段标准（Week 3 Criteria）** 学生能够清晰描述 1820 年至 1920 年间毛利人口数量的纵向变迁趋势。
 >   - **单元终期标准（End of Unit Criteria）** 学生能够解释 20 世纪初英国殖民对毛利人健康状况的具体冲击，阐明其如何左右毛利人口走向，并能推导预测外来殖民对其他原住民群体健康的影响。
 > - **具体评估达成方式（Assessment Task）**
@@ -359,14 +359,14 @@ sources:
 实证研究进一步表明，倾听学生声音并运用学生的课堂评价具有极高的专业[[Reliability|信度]]。
 
 > [!evidence-grid] 学生作为教学评价者的实证信度与文化赋能
-> - **[[Te Kotahitanga]] 毛利学生课堂体验研究** 拉塞尔·比肖普等人（Bishop et al., 2003）对 9–10 年级毛利学生的研究表明，课堂最大的障碍在于教师根深蒂固的“[[Deficit Framing|赤字理论]]（Deficit Theorising）”与对学生本土文化的否定；基于该发现对 4 所学校 11 名教师实施关系性互动培训后，毛利学生的学业、行为与出勤率全面提升。（pp. 17–18）
+> - **[[Te Kotahitanga]] 毛利学生课堂体验研究** 拉塞尔·比肖普等人（Bishop et al., 2003）对 9–10 年级毛利学生的研究表明，课堂最大的障碍在于教师根深蒂固的“[[Deficit Framing\|赤字理论]]（Deficit Theorising）”与对学生本土文化的否定；基于该发现对 4 所学校 11 名教师实施关系性互动培训后，毛利学生的学业、行为与出勤率全面提升。（pp. 17–18）
 > - **NBPTS 高中数学教师评价信度研究** 埃尔登·欧文（Eldon Irving, 2005）依据美国国家专业教学标准委员会（National Board for Professional Teaching Standards, NBPTS）的高阶卓越教学标准编制学生评价量表，由高中生评价数学教师。实证表明高中生能够以极高的信度和效度，高度一致地区分出具有国家委员会认证（NBC）资质的优秀教师与非认证教师。（p. 18）
 
 #### 5. 克服专业发展形式主义：专业学习共同体的五大实证支柱
 
 传统的教师在职培训大多陷入孤立的技能讲座或表面条件的改善，极少与学生实际学业增进建立硬性关联（pp. 18–19）。
 
-> [!stat-cards]- 全球教师专业发展[[Document|文献]]实证有效性筛选
+> [!stat-cards]- 全球教师专业发展[[Document\|文献]]实证有效性筛选
 > - **17 篇** 国际文献中直接证实促进了学生学业增进的专业发展研究篇数。（Timperley, 2005; p. 18）
 
 绝大多数教师培训之所以成效匮乏，症结在于活动仅围绕教师满意度、工作舒适度或表面相关物打转，完全未将“促进学生实质学业增进”作为评判培训成功的硬性约束条件（Timperley, 2005; p. 18）。
@@ -378,7 +378,7 @@ sources:
 > 2. **集体聚焦于学生实际学习（Collective Focus on Student Learning）** 将学生在学业进阶阶梯上的真实进步，确立为评判共同体成败的最终硬性标准。
 > 3. **促进专长互惠的深度协作（Collaboration with Shared Expertise）** 破除教师个体隔绝，协同调动彼此专长，研讨技能瓶颈并提炼高质量教学常规。
 > 4. **坚决推进去私密化教学实践（Deprivatised Practice）** 打破传统教室门的封闭隔绝，建立常态化同行随堂听课、录像分析与现场评课机制，将教学细节向同事全面敞开。
-> 5. **开展基于证据的[[Reflexivity|反思性]]对话（Reflective Dialogue）** 培育严肃的反省意识，抛弃客套赞美，以具体学生的学情数据为标尺，持续推敲教学决策的成败得失。（pp. 18–19）
+> 5. **开展基于证据的[[Reflexivity\|反思性]]对话（Reflective Dialogue）** 培育严肃的反省意识，抛弃客套赞美，以具体学生的学情数据为标尺，持续推敲教学决策的成败得失。（pp. 18–19）
 
 ---
 
@@ -386,22 +386,22 @@ sources:
 
 > [!finding-cards] 核心发现
 > 1. **数据诠释优于数据占有** 解决学校数据困局的核心绝非搭建技术门户或回传海量原始表格，而在于培育教师对证据的专业诠释能力；唯有能够直接提示教师采取后续教学行动的证据，才能对学习产生真实影响。（p. 11, p. 19）
-> 2. **教师是系统可控的核心因果震源** [[Academic Achievement|学业成就]]方差的 30% 由教师效能决定，远高于家庭（5–10%）与学校环境（5–10%）；自上而下的惩罚性问责与单纯的财政注资均无法触及核心，唯有将评价体系锚定于赋能教师，才能实现实质性增值。（pp. 12–14）
-> 3. **关节点判准与[[Learning Progression|学业进阶]]共享语言构成了系统重构的基石** 教育干预必须以 $d = 0.40$ 作为相对有效性基准，依托如 [[Assessment Tools for Teaching and Learning|asTTle]] 等贯通“目标通往何处、当前行进至何处、下一步走向何方”三提问的形成性工具，将教师孤立内隐的评价标准转化为全校共享的学业进阶语言，并在去私密化、重反思[[Dialogue in Education|对话]]的[[Professional Learning Community|专业学习共同体]]中落实教学改进。（pp. 14–19）
+> 2. **教师是系统可控的核心因果震源** [[Academic Achievement\|学业成就]]方差的 30% 由教师效能决定，远高于家庭（5–10%）与学校环境（5–10%）；自上而下的惩罚性问责与单纯的财政注资均无法触及核心，唯有将评价体系锚定于赋能教师，才能实现实质性增值。（pp. 12–14）
+> 3. **关节点判准与[[Learning Progression\|学业进阶]]共享语言构成了系统重构的基石** 教育干预必须以 $d = 0.40$ 作为相对有效性基准，依托如 [[Assessment Tools for Teaching and Learning\|asTTle]] 等贯通“目标通往何处、当前行进至何处、下一步走向何方”三提问的形成性工具，将教师孤立内隐的评价标准转化为全校共享的学业进阶语言，并在去私密化、重反思[[Dialogue in Education\|对话]]的[[Professional Learning Community\|专业学习共同体]]中落实教学改进。（pp. 14–19）
 
 > [!stat-cards]- 核心数据
-> - **$d = 0.40$** 教育创新的平均[[Effect Size|效应量]]关节点，低于此门槛的干预实质上未能达到常规教学的相对增值标准。（p. 16）
+> - **$d = 0.40$** 教育创新的平均[[Effect Size\|效应量]]关节点，低于此门槛的干预实质上未能达到常规教学的相对增值标准。（p. 16）
 > - **30%** 教师在学生学业成就总变异中所占的解释比例，是学校教育系统内部最大的可控因果影响源。（p. 13）
-> - **150 年** 罗伯特·林恩估算的美国公立学校按照以往年均进度达成 [[No Child Left Behind Act 2001|NCLB]] 既定指标所需的时间跨度。（Linn, 2003）
-> - **98%** 新西兰 156 所学校期末报告中对学生成就给出纯正面评价的比例，导致严重缺乏与国家课程等级对应的[[Criterion-Referenced Test|标准参照]]信息。（p. 12）
-> - **17 篇** 廷珀利在庞大国际[[Document|文献]]中筛选出仅有的直接证实促进了学生学业增进的教师专业发展研究篇数。（Timperley, 2005）
+> - **150 年** 罗伯特·林恩估算的美国公立学校按照以往年均进度达成 [[No Child Left Behind Act 2001\|NCLB]] 既定指标所需的时间跨度。（Linn, 2003）
+> - **98%** 新西兰 156 所学校期末报告中对学生成就给出纯正面评价的比例，导致严重缺乏与国家课程等级对应的[[Criterion-Referenced Test\|标准参照]]信息。（p. 12）
+> - **17 篇** 廷珀利在庞大国际[[Document\|文献]]中筛选出仅有的直接证实促进了学生学业增进的教师专业发展研究篇数。（Timperley, 2005）
 
 ---
 
 ## 关键引用
 
 > [!citation-card] 教师在证据周期中的核心位置
-> 学校充斥着数据，问责运动要求他们收集更多数据。本报告将教师定位为‘证据’周期中的关键枢纽。它展示了一个协[[Teaching Assistant|助教]]师确定证据本质并利用证据促成学习改变的模型。该模型使校长、教育部、家长和学生等其他关键利益相关者能够共享这些证据。（p. 11）
+> 学校充斥着数据，问责运动要求他们收集更多数据。本报告将教师定位为‘证据’周期中的关键枢纽。它展示了一个协[[Teaching Assistant\|助教]]师确定证据本质并利用证据促成学习改变的模型。该模型使校长、教育部、家长和学生等其他关键利益相关者能够共享这些证据。（p. 11）
 >
 > *Schools are awash with data, and the accountability movement is requesting that they collect even more. This presentation locates the teachers as critical in the ‘evidence’ cycle. It demonstrates a model for assisting teachers to ascertain the nature and use evidence to make a difference to learning. Such a model allows these evidence to be shared by other critical stakeholders, such as principals, Ministries, parents, and students.*
 
@@ -410,8 +410,8 @@ sources:
 >
 > *Asking whether and how to send data back to schools is the wrong question. A major theme of this presentation is that we must be more mindful of the ‘interpretations’ we wish to make from any data collected as it is the ‘interpretations’ that are critical, rather than data itself.*
 
-> [!citation-card] 相对有效性与 0.40 [[Effect Size|效应量]]基准
-> 几乎我们所做的一切都能提高[[Academic Achievement|学业成绩]]。关键问题在于我们能否实施那些能使成绩提升幅度超越平均水平（0.40 效应量）的干预措施。任何低于此标准的举措实质上都是在拖累学生，因为至少有一半的教育影响能够获得大于 0.40 的增长。（p. 16）
+> [!citation-card] 相对有效性与 0.40 [[Effect Size\|效应量]]基准
+> 几乎我们所做的一切都能提高[[Academic Achievement\|学业成绩]]。关键问题在于我们能否实施那些能使成绩提升幅度超越平均水平（0.40 效应量）的干预措施。任何低于此标准的举措实质上都是在拖累学生，因为至少有一半的教育影响能够获得大于 0.40 的增长。（p. 16）
 >
 > *Virtually everything we do enhances achievement (note how few are below the zero effect-size). The critical question is whether we can implement those effects that enhance achievement by more than the average (.40 effect-sizes). Anything less is holding back a student, as at least half the effects can attain [[Growth]] greater than .40.*
 
@@ -426,9 +426,9 @@ sources:
 
 > [!warning]
 > 原文自述明确指出了本论证所依托模型的边界条件与现实挑战：
-> 1. **学生背景与社区生源的不可控性** 尽管教师是系统可控的核心因果源（30%），但学生个体背景仍然占据成就变异的 50%，公立学校必须接纳社区所输送的全部生源，无法如部分“[[School Choice|学校选择]]（School Choice）”论调所设想的那样通过筛选生源解决问题。（pp. 13–14）
+> 1. **学生背景与社区生源的不可控性** 尽管教师是系统可控的核心因果源（30%），但学生个体背景仍然占据成就变异的 50%，公立学校必须接纳社区所输送的全部生源，无法如部分“[[School Choice\|学校选择]]（School Choice）”论调所设想的那样通过筛选生源解决问题。（pp. 13–14）
 > 2. **教师既有评价观的认知刚性** 若教师群体根深蒂固地持有“评价与教学无关”或纯粹官僚负担的负面信念，则强行推广循证测评工具只会遭遇普遍抵触与数据搁置，必须在工具实施前进行观念干预。（p. 17）
-> 3. **学校[[Organizational Culture|组织文化]]的深层阻抗** 从高度私密化、封闭隔绝的传统教学惯性，转向去私密化、公开反思与全员共享[[Learning Progression|学业进阶]]证据的[[Professional Learning Community|专业学习共同体]]，需要撼动学校运作根本基石的深度文化转型（Mind Shift），在落地实践中面临显著的组织惯性与专业挑战。（pp. 18–19）
+> 3. **学校[[Organizational Culture\|组织文化]]的深层阻抗** 从高度私密化、封闭隔绝的传统教学惯性，转向去私密化、公开反思与全员共享[[Learning Progression\|学业进阶]]证据的[[Professional Learning Community\|专业学习共同体]]，需要撼动学校运作根本基石的深度文化转型（Mind Shift），在落地实践中面临显著的组织惯性与专业挑战。（pp. 18–19）
 
 ---
 

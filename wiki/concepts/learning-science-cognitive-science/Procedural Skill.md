@@ -55,15 +55,15 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 程序性技能（Procedural Skill / [[Procedural Knowledge]]）是指个体关于“如何做”（How-to）的知识与操作能力系统，表现为在特定问题情境中准确应用产生式规则（Production Rules）、执行标准化计算与操作序列，以及熟练、自动化地解决良构问题的心理动作能力。在认知心理学与[[Bloom's Taxonomy|布鲁姆教育目标分类学]]中，它涵盖解题技巧、计算机编程代码撰写、口语朗读流利度与四则运算操作等。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 5–7)]]
+> 程序性技能（Procedural Skill / [[Procedural Knowledge]]）是指个体关于“如何做”（How-to）的知识与操作能力系统，表现为在特定问题情境中准确应用产生式规则（Production Rules）、执行标准化计算与操作序列，以及熟练、自动化地解决良构问题的心理动作能力。在认知心理学与[[Bloom's Taxonomy\|布鲁姆教育目标分类学]]中，它涵盖解题技巧、计算机编程代码撰写、口语朗读流利度与四则运算操作等。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 5–7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于关于事实与概念定义的“陈述性知识”（Declarative Knowledge），程序性技能表现为动态的动作图式序列，其成熟标志是摆脱意识的繁琐监控达到认知自动化（Automaticity）。
-> - **用途** 作为评估教学干预与智能技术成效的核心[[Dependent Variable|因变量]]；也是从低阶事实记忆向复杂高阶[[Problem Solving|问题解决]]与批判性反思跨越的关键基石。
-> - **边界** 程序性技能专注于良构规则应用；若脱离上位概念理解与深层批判性审视，可能退化为机械[[Rote Learning|死记硬背]]的操作主义。
+> - **用途** 作为评估教学干预与智能技术成效的核心[[Dependent Variable\|因变量]]；也是从低阶事实记忆向复杂高阶[[Problem Solving\|问题解决]]与批判性反思跨越的关键基石。
+> - **边界** 程序性技能专注于良构规则应用；若脱离上位概念理解与深层批判性审视，可能退化为机械[[Rote Learning\|死记硬背]]的操作主义。
 
 > [!citation-card]- 关键表述
-> 技能类认知结果反映了学习者执行标准化规则与程序性操作的熟练度。在 AI [[AI Agent in Education|智能体]]自适应干预下，程序技能获得了高度稳定且显著的促进效应（$g = 0.391, p < .001$），证实了结构化分步反馈在降低外在负荷并促进图式自动化方面的强大效能。（[[Argument_Liu_2026_CHBR|Liu et al., 2026, pp. 2]], 6, 10）
+> 技能类认知结果反映了学习者执行标准化规则与程序性操作的熟练度。在 AI [[AI Agent in Education\|智能体]]自适应干预下，程序技能获得了高度稳定且显著的促进效应（$g = 0.391, p < .001$），证实了结构化分步反馈在降低外在负荷并促进图式自动化方面的强大效能。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 6, 10）
 >
 > *Skill-based outcomes capture learners' proficiency in applying procedural knowledge and operational rules, demonstrating consistent, robust gains under adaptive AI [[Scaffolding]] through extraneous cognitive load reduction and schema automation.*
 
@@ -83,7 +83,7 @@ updated: 2026-09-17
 ## 核心机制与图式自动化
 
 > [!feature] ACT-R 理论下的程序技能三阶段演进
-> 1. **认知阶段（Cognitive Stage）** 学习者依靠陈述性规则指导动作，步骤繁琐且高度消耗[[Working Memory|工作记忆]]容量。
+> 1. **认知阶段（Cognitive Stage）** 学习者依靠陈述性规则指导动作，步骤繁琐且高度消耗[[Working Memory\|工作记忆]]容量。
 > 2. **联结阶段（Associative Stage）** 通过刻意练习，零散的陈述性规则被“编译”（Compilation）为连贯的产生式规则。
 > 3. **自主阶段（Autonomous Stage）** 技能达到高度自动化，提取执行时仅占用极少的心智资源，释放工作记忆以赋能高阶推理。
 
@@ -101,7 +101,7 @@ updated: 2026-09-17
 > | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 自适应分步微提示 [[Intelligent Tutoring Systems\|ITS]] vs. 常规解题练习 | 小学数学长除法步骤解题表现 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步提示加速算术程序自动化 |
 > | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 编程[[AI Agent in Education\|智能体]]语法纠错 vs. 传统教学 | 代码编写正确率与程序性调试表现 | $N = 78$ | — | Hedges' $g = 0.16$ | $p < .05$ | 实验设计；即时微提示辅助良构代码规则内化 |
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
@@ -112,5 +112,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在[[Meta-analysis|元分析]]中将程序性技能作为证据量最大的[[Dependent Variable|结果变量]]亚组（$k = 42, g = 0.391$），论证了自适应即时反馈在分担外在认知负荷、加速产生式规则编译与技能自动化方面的稳固成效。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在[[Meta-analysis\|元分析]]中将程序性技能作为证据量最大的[[Dependent Variable\|结果变量]]亚组（$k = 42, g = 0.391$），论证了自适应即时反馈在分担外在认知负荷、加速产生式规则编译与技能自动化方面的稳固成效。

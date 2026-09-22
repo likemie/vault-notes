@@ -64,21 +64,21 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **科学新闻（Science Journalism）** 指专业新闻从业者及专业媒体机构面向大众公共领域，运用新闻学规范与批判性调查方法，对自然科学、工程技术与医学健康领域的科研进展、证据争议、方法局限及其政策与伦理影响所开展的独立采写、事实核查与情境化诠释实践。其根本功能在于穿透学术黑箱与术语壁垒，向公众提供兼具可读性与可[[Reliability|信度]]的科学事实，维系民主社会理性协商的证据基石。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 56–58)]]
+> **科学新闻（Science Journalism）** 指专业新闻从业者及专业媒体机构面向大众公共领域，运用新闻学规范与批判性调查方法，对自然科学、工程技术与医学健康领域的科研进展、证据争议、方法局限及其政策与伦理影响所开展的独立采写、事实核查与情境化诠释实践。其根本功能在于穿透学术黑箱与术语壁垒，向公众提供兼具可读性与可[[Reliability\|信度]]的科学事实，维系民主社会理性协商的证据基石。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 56–58)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向连接高度专业化科学共同体与多元大众公共领域的制度性[[Knowledge Mediation|知识中介]]与监督机制。
+> - **含义** 指向连接高度专业化科学共同体与多元大众公共领域的制度性[[Knowledge Mediation\|知识中介]]与监督机制。
 > - **用途** 帮助研究者分析科学证据在大众媒介中的转化损耗、算法传播生态对公共理解的重构，以及媒体经济危机对科学公信力的系统性侵蚀。
 > - **边界** 不等于单向宣传科研成果的高校公关通稿，亦不同于追求商业变现与流量裂变的自媒体科普网红。
 
 > [!citation-card]- 关键表述
-> 科学新闻必须坚持以向公众提供准确信息而非单向说服为宗旨，保持平衡，坦诚承认证据的不确定性与局限性，并前置化解可能的公众误解；唯有坚持高质量专业采编标准，才能在数字化竞争中重建公共信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 61–63)]]
+> 科学新闻必须坚持以向公众提供准确信息而非单向说服为宗旨，保持平衡，坦诚承认证据的不确定性与局限性，并前置化解可能的公众误解；唯有坚持高质量专业采编标准，才能在数字化竞争中重建公共信任。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–63)]]
 >
 > *Characteristics of trustworthy communication include seeking to inform rather than persuade, being balanced, acknowledging uncertainty and limitations of the evidence, and pre-empting misunderstandings... delivering the high-quality news that the public repeatedly say they want.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Public Engagement with Science|公众科学参与]] — 前者是专业媒体单向或双向的新闻采编与调查中介，后者涵盖[[Citizen Science|公民科学]]、科学节、社区[[Dialogue in Education|对话]]等全体科研生命周期的多元互动形态。
-> - 不等于 [[Deficit Model of Science Communication|赤字模型]] — 现代专业科学新闻摒弃将受众视为无知容器的布道[[Paradigm|范式]]，强调多元视角的平衡呈现与[[Scientific Uncertainty|科学不确定性]]的透明坦陈。
+> - 不等于 [[Public Engagement with Science\|公众科学参与]] — 前者是专业媒体单向或双向的新闻采编与调查中介，后者涵盖[[Citizen Science\|公民科学]]、科学节、社区[[Dialogue in Education\|对话]]等全体科研生命周期的多元互动形态。
+> - 不等于 [[Deficit Model of Science Communication\|赤字模型]] — 现代专业科学新闻摒弃将受众视为无知容器的布道[[Paradigm\|范式]]，强调多元视角的平衡呈现与[[Scientific Uncertainty\|科学不确定性]]的透明坦陈。
 > - 不适用于纯学术共同体内部的学术出版与同行评议机制。
 
 ---
@@ -99,13 +99,13 @@ updated: 2026-09-17
 
 > [!feature] 专业科学新闻四大支柱
 > - **编辑独立性（Editorial Independence）**
->   抵御资助机构、高校公关与商业资本的议程操控，坚持对科研方法与结论进行不受干涉的独立调查与审查。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 61)]]
+>   抵御资助机构、高校公关与商业资本的议程操控，坚持对科研方法与结论进行不受干涉的独立调查与审查。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 61)]]
 > - **证据多源求证（Multi-source Verification）**
->   穿透新闻通稿与单一论文摘要，主动采访独立第三方同行专家，评估样本规模、设计类型与因果推论严谨性。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 62)]]
-> - **不确定性[[Transfer Translation Transformation|转译]]（Translating Uncertainty）**
->   拒绝将暂定假说绝对化为终极真理，向公众准确阐释统计[[Confidence Interval|置信区间]]、[[Effect Size|效应量]]边界与科学共识的演进过程。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 61–62)]]
+>   穿透新闻通稿与单一论文摘要，主动采访独立第三方同行专家，评估样本规模、设计类型与因果推论严谨性。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
+> - **不确定性[[Transfer Translation Transformation\|转译]]（Translating Uncertainty）**
+>   拒绝将暂定假说绝对化为终极真理，向公众准确阐释统计[[Confidence Interval\|置信区间]]、[[Effect Size\|效应量]]边界与科学共识的演进过程。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
 > - **利益冲突披露（Transparency & Bias Disclosure）**
->   主动核查并披露科研项目背后的产业资助背景、专利关联与潜在商业偏倚，保障公众知情权。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 64)]]
+>   主动核查并披露科研项目背后的产业资助背景、专利关联与潜在商业偏倚，保障公众知情权。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 64)]]
 
 > [!logic-map]- 专业科学新闻生产系统与信任流转机制
 > ```mermaid
@@ -139,8 +139,8 @@ updated: 2026-09-17
 > [!concept-lens] 民主治理与媒介中介机制
 > 科学绝非少数专业精英的封闭特权；在高度技术化的现代社会中，公共政策（如防疫、气候适应、人工智能立法规制）深度依赖科学证据，而专业科学新闻正是公众理解科技决策、参与民主质询的关键桥梁。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]
-> **民主协商的知识基石** 科学新闻不仅传播知识，更在公共领域中扮演着客观审视者与议程设置者的双重角色；尽管传统纸媒与电视受众面临[[Attrition|流失]]，但主流新闻机构开展的高质量科学调查依然主导着全社会的公共讨论议题；若专业科学新闻持续衰退，公共理性将被算法驱动的极化信息与伪科学所吞噬。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 56–58)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
+> **民主协商的知识基石** 科学新闻不仅传播知识，更在公共领域中扮演着客观审视者与议程设置者的双重角色；尽管传统纸媒与电视受众面临[[Attrition\|流失]]，但主流新闻机构开展的高质量科学调查依然主导着全社会的公共讨论议题；若专业科学新闻持续衰退，公共理性将被算法驱动的极化信息与伪科学所吞噬。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 56–58)]]
 
 ---
 
@@ -150,23 +150,23 @@ updated: 2026-09-17
 > 传统大众传媒商业模式瓦解导致专业科学记者岗位大幅削减，留存记者面临高频发稿压力，从而被迫依赖机构新闻通稿，导致源头过度夸大在传播链条中层层放大。
 
 > [!claim] Sumner et al. (2014)
-> **源头通稿过度营销对大众媒体的污染效应** 对 20 所顶尖大学新闻通稿的大规模实证追踪证明，主流媒体科学新闻中的夸大其词绝非仅仅由于记者“理解偏差”，高达三分之一以上的误导性断言（如将相关性篡改为因果建议、将动物实验夸大为人体疗效）直接发端于大学自身的官方通稿；当通稿夸大时，媒体报道失真的发生比（OR）激增 6.5 至 56 倍。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 62)]]
+> **源头通稿过度营销对大众媒体的污染效应** 对 20 所顶尖大学新闻通稿的大规模实证追踪证明，主流媒体科学新闻中的夸大其词绝非仅仅由于记者“理解偏差”，高达三分之一以上的误导性断言（如将相关性篡改为因果建议、将动物实验夸大为人体疗效）直接发端于大学自身的官方通稿；当通稿夸大时，媒体报道失真的发生比（OR）激增 6.5 至 56 倍。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]
-> **公关职能异化与新闻流水线危机** 高校公关人员（Press Officers）在财务紧缩背景下承担了过多的危机公关、招生推广与机构声誉营销指标（Jamison 2022），导致科学传播沦为锦标赛式的注意力争夺；科学界必须与专业记者共同抵御“竞相逐底（Race to the bottom）”的流量恶性循环，将科学传播全面纳入科研诚信（[[Responsible Conduct of Research|RCR]]）审查。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 62–64)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
+> **公关职能异化与新闻流水线危机** 高校公关人员（Press Officers）在财务紧缩背景下承担了过多的危机公关、招生推广与机构声誉营销指标（Jamison 2022），导致科学传播沦为锦标赛式的注意力争夺；科学界必须与专业记者共同抵御“竞相逐底（Race to the bottom）”的流量恶性循环，将科学传播全面纳入科研诚信（[[Responsible Conduct of Research\|RCR]]）审查。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 62–64)]]
 
 ---
 
 ### 命题三　坦诚披露证据不确定性与局限是专业科学新闻重筑公众信任的核心抓手
 
-> [!concept-lens] [[Epistemology|认识论]][[Humility in Learning|谦逊]]与受众信任建构机制
-> 传统新闻编辑普遍担忧披露研究局限或[[Confidence Interval|置信区间]]会导致公众困惑、削弱科学权威，这种假定在实证上已被现代传播学研究所推翻。
+> [!concept-lens] [[Epistemology\|认识论]][[Humility in Learning\|谦逊]]与受众信任建构机制
+> 传统新闻编辑普遍担忧披露研究局限或[[Confidence Interval\|置信区间]]会导致公众困惑、削弱科学权威，这种假定在实证上已被现代传播学研究所推翻。
 
 > [!claim] Kerr et al. (2022)
-> **证据透明度对公众信任的正向增益** 大规模代表性在线[[Randomised Controlled Trials|随机对照实验]]证实，无论采用数值置信区间还是定性限定词，在科学报道中公开披露证据局限与未解决的不确定性，不仅未削弱公众对科学事实的认可度，反而显著提升了受众对科学家及新闻报道本身的诚实度与可[[Reliability|信度]]评价。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 61–62)]]
+> **证据透明度对公众信任的正向增益** 大规模代表性在线[[Randomised Controlled Trials\|随机对照实验]]证实，无论采用数值置信区间还是定性限定词，在科学报道中公开披露证据局限与未解决的不确定性，不仅未削弱公众对科学事实的认可度，反而显著提升了受众对科学家及新闻报道本身的诚实度与可[[Reliability\|信度]]评价。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]
-> **暂定性理解对抗反智怀疑** 科学新闻的首要任务是帮助公众认识到科学知识是“暂定性与动态自我修正”的，而非绝对不变的神谕；当新闻界坦诚展现科学探索的试错本质时，公众才不会在科学共识因新证据修正时产生被背叛感，从而形成免疫极端怀疑论的心理韧性。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 62)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
+> **暂定性理解对抗反智怀疑** 科学新闻的首要任务是帮助公众认识到科学知识是“暂定性与动态自我修正”的，而非绝对不变的神谕；当新闻界坦诚展现科学探索的试错本质时，公众才不会在科学共识因新证据修正时产生被背叛感，从而形成免疫极端怀疑论的心理韧性。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
 
 ---
 
@@ -183,11 +183,11 @@ updated: 2026-09-17
 
 ## 概念演变
 
-> [!dev-timeline] 专业科学新闻百年[[Paradigm|范式]]演变
-> - **20 世纪初–中叶 — 传统普及与单向[[Transfer Translation Transformation|转译]]时代** 科学新闻以纸媒专栏为主，记者主要充当科学家的“通俗翻译官”与科技成就的无保留传颂者，遵循典型的启蒙主义与[[Positivism|实证主义]]立场。
-> - **1985 年 — 《公众理解科学》（Bodmer 报告）与体制化推进** 皇家学会发布标志性报告，推动英国主要新闻机构设置专职科技记者席位，研究理事会要求科学家主动对接媒体，但传播逻辑仍受[[Deficit Model of Science Communication|赤字模型]]主导。
-> - **2000 年代初 — 科技争议爆发与独立中介确立** 疯牛病（BSE）、转基因食品（GM）及 [[Mixed Methods Research|MMR]] 疫苗引发公众信任海啸，显露传统新闻简单对立报道的弊端；2002 年英国创立[[Science Media Centre|科学媒体中心]]（SMC），确立多源证据快速核查与专业同行把关机制。
-> - **2020 年代中至今 — 数字化解构、虚假信息泛滥与诚信合流** 面对社交算法分发、生成式 AI 幻觉与新闻回避危机，皇家学会《面向社会的科学》提出将科学新闻提升为全生命周期国家战略基础设施，制定《科学传播实践守则》，并转向以“[[Solutions Journalism|解决方案新闻]]”为引领的高质量传播范式。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 56–64)]]
+> [!dev-timeline] 专业科学新闻百年[[Paradigm\|范式]]演变
+> - **20 世纪初–中叶 — 传统普及与单向[[Transfer Translation Transformation\|转译]]时代** 科学新闻以纸媒专栏为主，记者主要充当科学家的“通俗翻译官”与科技成就的无保留传颂者，遵循典型的启蒙主义与[[Positivism\|实证主义]]立场。
+> - **1985 年 — 《公众理解科学》（Bodmer 报告）与体制化推进** 皇家学会发布标志性报告，推动英国主要新闻机构设置专职科技记者席位，研究理事会要求科学家主动对接媒体，但传播逻辑仍受[[Deficit Model of Science Communication\|赤字模型]]主导。
+> - **2000 年代初 — 科技争议爆发与独立中介确立** 疯牛病（BSE）、转基因食品（GM）及 [[Mixed Methods Research\|MMR]] 疫苗引发公众信任海啸，显露传统新闻简单对立报道的弊端；2002 年英国创立[[Science Media Centre\|科学媒体中心]]（SMC），确立多源证据快速核查与专业同行把关机制。
+> - **2020 年代中至今 — 数字化解构、虚假信息泛滥与诚信合流** 面对社交算法分发、生成式 AI 幻觉与新闻回避危机，皇家学会《面向社会的科学》提出将科学新闻提升为全生命周期国家战略基础设施，制定《科学传播实践守则》，并转向以“[[Solutions Journalism\|解决方案新闻]]”为引领的高质量传播范式。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 56–64)]]
 
 ---
 
@@ -199,16 +199,16 @@ updated: 2026-09-17
 > > 传统新闻学奉行的“正反双方面平衡报道”原则，在涉及气候变化、疫苗安全性等议题时，是否会错误放大边缘伪科学群体的声音，造成共识伪分裂？
 > >
 > > - **传统新闻规范（Balanced Reporting）** 主张即使面对压倒性共识，记者仍应给予异议群体充分表达空间，防范科学霸权对潜在异端创新的压制。
-> > - **现代科学传播界（Weighted Coverage）** 坚持科学报道的平衡应当基于“证据权重（[[Weight of Evidence Framework|Weight of Evidence]]）”而非“版面空间均分”，坚决抵制赋予阴谋论者虚假平衡。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 58)]]
+> > - **现代科学传播界（Weighted Coverage）** 坚持科学报道的平衡应当基于“证据权重（[[Weight of Evidence Framework\|Weight of Evidence]]）”而非“版面空间均分”，坚决抵制赋予阴谋论者虚假平衡。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 58)]]
 >
 > > [!axis] 商业注意力竞争 vs 证据严谨性坚守
 > > 在数字广告与平台算法主导的媒体环境下，科学新闻能否既保持不夸大、不迎合点击率的严肃性，又赢得年轻受众？
 > >
 > > - **悲观主义视角** 认为面对 TikTok 等碎片化流量冲刷，严谨求证与不确定性叙事注定被算法降权淘汰。
-> > - **建设性视角（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026]]）** 坚信英国公众对高质量、经核实的真实科学新闻存在长期深层渴求，拒绝参与恶性竞争是赢得受众长远信任的唯一出路。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 63)]]
+> > - **建设性视角（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026]]）** 坚信英国公众对高质量、经核实的真实科学新闻存在长期深层渴求，拒绝参与恶性竞争是赢得受众长远信任的唯一出路。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 63)]]
 
 > [!critique] 外部批评
-> - **科学界内部批评** 许多科研人员批评[[Citizen Science|大众科学]]新闻过度追求“二元戏剧冲突”与“颠覆性突破”，经常误报早期实验阶段数据，误导公众对实际科研进展周期的预期。
+> - **科学界内部批评** 许多科研人员批评[[Citizen Science\|大众科学]]新闻过度追求“二元戏剧冲突”与“颠覆性突破”，经常误报早期实验阶段数据，误导公众对实际科研进展周期的预期。
 > - **社会学视角批评** 批判学者指出科学新闻经常回避科研背后的巨大利益集团赞助与军工复合体纠缠，将科学美化为脱离政治经济利益的纯洁乌托邦。
 
 ---
@@ -229,5 +229,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 系统剖析数字化与人工智能时代大众媒体转型、专业科学记者生存挑战、通稿夸大机制与公众信任落差，提出跨越科学界与媒体界的高质量新闻合作倡议与实践守则治理框架。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统剖析数字化与人工智能时代大众媒体转型、专业科学记者生存挑战、通稿夸大机制与公众信任落差，提出跨越科学界与媒体界的高质量新闻合作倡议与实践守则治理框架。

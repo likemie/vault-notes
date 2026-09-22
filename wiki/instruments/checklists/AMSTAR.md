@@ -78,10 +78,10 @@ updated: 2026-09-11
 ## 工具定位
 
 > [!instrument-profile] AMSTAR
-> - **工具类型** 系统评价与[[Meta-analysis|元分析]]方法学质量评估规程（Methodological Quality Appraisal Rubric）。
+> - **工具类型** 系统评价与[[Meta-analysis\|元分析]]方法学质量评估规程（Methodological Quality Appraisal Rubric）。
 > - **开发者与年份** Shea et al. (2007, 2017)。
-> - **测量目的** 用于对纳入[[Systematic Review|系统综述]]与元分析（[[Meta-analysis]]）的[[Literature Search|文献检索]]、数据提取、统计合并模型及[[Publication Bias|发表偏倚]]控制等程序进行方法学严格度评价与分级。
-> - **实施方式** 他评与双人独立[[Coding in Qualitative Research|编码]]，遇分歧通过协商达成一致。
+> - **测量目的** 用于对纳入[[Systematic Review\|系统综述]]与元分析（[[Meta-analysis]]）的[[Literature Search\|文献检索]]、数据提取、统计合并模型及[[Publication Bias\|发表偏倚]]控制等程序进行方法学严格度评价与分级。
+> - **实施方式** 他评与双人独立[[Coding in Qualitative Research\|编码]]，遇分歧通过协商达成一致。
 
 ---
 
@@ -104,7 +104,7 @@ updated: 2026-09-11
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 针对系统评价或[[Meta-analysis|元分析]]报告规范的核查评价题。
+> - **题项形式** 针对系统评价或[[Meta-analysis\|元分析]]报告规范的核查评价题。
 > - **作答格式** 二分类判定（满足得 1 分，未满足得 0 分）。
 > - **反向题与跳题** 无反向题；12 项得分取算术平均值作为总体质量得分（0 到 1 之间），阈值设定为达到 0.75（即至少满足 9 项标准）判定为高质量元分析。
 

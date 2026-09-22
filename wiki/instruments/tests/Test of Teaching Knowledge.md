@@ -68,8 +68,8 @@ updated: 2026-08-28
 
 > [!instrument-profile] 教学知识测验 (TTK)
 > - **工具类型** 教师专业胜任力标准化表现性测验（Performance-Based Standardized Assessment）。
-> - **开发者与年份** 美国州立学校首席官员理事会（CCSSO / [[InTASC Standards|InTASC]]）联合[[Educational Testing Service|美国教育考试服务中心]]（ETS）（2016）。[[Argument_Bouckaert_2023_OECD|(CCSSO, 2016; Bouckaert, 2023, pp. 21, 28)]]
-> - **测量目的** 评估职前师范生与在职教师满足《InTASC 核心教学标准》的能力，特别是在课堂教学中培养学生[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]的专业实践素养。
+> - **开发者与年份** 美国州立学校首席官员理事会（CCSSO / [[InTASC Standards\|InTASC]]）联合[[Educational Testing Service\|美国教育考试服务中心]]（ETS）（2016）。[[Argument_Bouckaert_2023_OECD\|(CCSSO, 2016; Bouckaert, 2023, pp. 21, 28)]]
+> - **测量目的** 评估职前师范生与在职教师满足《InTASC 核心教学标准》的能力，特别是在课堂教学中培养学生[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]的专业实践素养。
 > - **实施方式** 标准化机考或纸笔测试，由一系列基于真实教育情境的建构反应题（Constructed-Response Items）组成。
 
 ---
@@ -91,22 +91,22 @@ updated: 2026-08-28
 ## 题项与作答方式
 
 > [!proc] 题型结构与作答机制
-> - **拒绝封闭选择，采用建构反应** 区别于传统只考事实记忆的[[Multiple-Choice Questions|选择题]]，TTK 全面采用**建构反应题（Constructed-Response Items）**，要求考生阅读真实课堂教学实录、学生[[Homework|作业]]样本或教学困境案例，亲自撰写教学设计、解释干预逻辑并论证理论依据。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 21)]]
-> - **双重角色考核** 既测查教师自身的批判分析与[[Problem Solving|问题解决能力]]，更重点测查教师“通过教学培育学生高阶能力”的教学胜任力。
+> - **拒绝封闭选择，采用建构反应** 区别于传统只考事实记忆的[[Multiple-Choice Questions\|选择题]]，TTK 全面采用**建构反应题（Constructed-Response Items）**，要求考生阅读真实课堂教学实录、学生[[Homework\|作业]]样本或教学困境案例，亲自撰写教学设计、解释干预逻辑并论证理论依据。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 21)]]
+> - **双重角色考核** 既测查教师自身的批判分析与[[Problem Solving\|问题解决能力]]，更重点测查教师“通过教学培育学生高阶能力”的教学胜任力。
 
 ---
 
 ## 测量学特性
 
 > [!finding-cards] 测量学特性
-> - **[[Construct|构念]]代表性（Construct Representation）** 通过建构反应题直接测量“主动生成”与“情境化决策”，彻底克服了[[Multiple-Choice Questions|选择题]]把高阶教学能力退化为文字再认的弊端。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 21, 24–25)]]
-> - **评分员校准（Rater Calibration）** 由 [[Educational Testing Service|ETS]] 提供严格的评分员培训与校准研讨机制，确保开放式答卷在跨考区评阅时保持高[[Reliability|信度]]与跨考官一致性。
+> - **[[Construct\|构念]]代表性（Construct Representation）** 通过建构反应题直接测量“主动生成”与“情境化决策”，彻底克服了[[Multiple-Choice Questions\|选择题]]把高阶教学能力退化为文字再认的弊端。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 21, 24–25)]]
+> - **评分员校准（Rater Calibration）** 由 [[Educational Testing Service\|ETS]] 提供严格的评分员培训与校准研讨机制，确保开放式答卷在跨考区评阅时保持高[[Reliability\|信度]]与跨考官一致性。
 
 ---
 
 ## 使用情况
 
 > [!usage-cases] 使用情境
-> - **美国 15 州联盟试点** 由 15 个 [[InTASC Standards|InTASC]] 成员州联合采纳，作为教师职前教育质量退出评估与教师资格准入创新的示范性工具。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 21)]]
+> - **美国 15 州联盟试点** 由 15 个 [[InTASC Standards\|InTASC]] 成员州联合采纳，作为教师职前教育质量退出评估与教师资格准入创新的示范性工具。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 21)]]
 
 ---

@@ -86,7 +86,7 @@ Creswell & Creswell（2022, 第5章）指出了研究者在引言中陈述[[Rese
 | 变革性取向 | 较少 | 可能使用变革性透镜（如性别、种族） | 可能纳入社会正义框架 |
 
 > [!note]- 连续谱而非二分
-> 虽然存在这些差异，但三种路径的引言差异是微妙的，它们主要涉及引言中呈现的不同类型的[[Research Question|研究问题]]。[[Deficiencies Model for an Introduction|引言缺陷模型]]作为一个通用模板，适用于所有三种路径。
+> 虽然存在这些差异，但三种路径的引言差异是微妙的，它们主要涉及引言中呈现的不同类型的[[Research Question\|研究问题]]。[[Deficiencies Model for an Introduction\|引言缺陷模型]]作为一个通用模板，适用于所有三种路径。
 
 ---
 

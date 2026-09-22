@@ -63,16 +63,16 @@ updated: 2026-09-04
 >   3. **人员（People）** 科研人员发展（Staff）、学生赋权（Students）与公众伙伴关系（Public）。
 >   该工具将大学机构状态划分为胚芽期（Embryonic）、形成期（Developing）、抓手期（Gripping）与内嵌期（Embedded）四个阶梯，成为高校诊断制度短板的自评标准。
 > - **Watermark 卓越水印认证计划（Engage Watermark Awards）**
->   建立国家级高校公众参与能力资质评级体系（授予青铜、白银、黄金与白金水印），依据严格的独立专家[[External Auditor|外部审计]]与全校师生及外部社区同行评议，为高校争取优质社会声誉、吸引慈善资助及证明其[[Social License to Operate|社会运营许可]]（Licence to Operate）提供权威背书。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society, 2026, p. 98]]）
+>   建立国家级高校公众参与能力资质评级体系（授予青铜、白银、黄金与白金水印），依据严格的独立专家[[External Auditor\|外部审计]]与全校师生及外部社区同行评议，为高校争取优质社会声誉、吸引慈善资助及证明其[[Social License to Operate\|社会运营许可]]（Licence to Operate）提供权威背书。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 98]]）
 
 ---
 
 ## 评估与学术生态赋能
 
 > [!dimension] NCCPE 在国家科研评价与政策中的关键角色
-> - **科研卓越框架（[[Research Excellence Framework|REF]]）影响力案例深度分析**
->   系统梳理 REF 2014 与 REF 2021 中近 50% 涉及[[Public Engagement with Science|公众科学参与]]的影响力案例（Impact Case Studies），揭示公众参与在医疗健康改善、公共政策启发、文化繁荣及产业协同中的关键路径，并向政府与大学领导力证公众参与绝非科研副产品，而是催生实质社会影响的核心引擎。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society, 2026, p. 101]]）
+> - **科研卓越框架（[[Research Excellence Framework\|REF]]）影响力案例深度分析**
+>   系统梳理 REF 2014 与 REF 2021 中近 50% 涉及[[Public Engagement with Science\|公众科学参与]]的影响力案例（Impact Case Studies），揭示公众参与在医疗健康改善、公共政策启发、文化繁荣及产业协同中的关键路径，并向政府与大学领导力证公众参与绝非科研副产品，而是催生实质社会影响的核心引擎。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 101]]）
 > - **赋能专业支持队伍（Engagement Professionals）**
->   推动英国高校设立全职的公众参与专业支持团队，提供媒体公关、社区联络、伦理合规及伦理反思支持；这一努力直接促成 REF 2029 改革将专业支持人员编制规模正式纳入科研环境核算指标。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society, 2026, pp. 98, 101]]）
+>   推动英国高校设立全职的公众参与专业支持团队，提供媒体公关、社区联络、伦理合规及伦理反思支持；这一努力直接促成 REF 2029 改革将专业支持人员编制规模正式纳入科研环境核算指标。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, pp. 98, 101]]）
 > - **推动资助政策改革与多年期战略投入倡导**
->   向资助机构与大学校长提供咨询，呼吁打破仅依赖个别研究项目短期课题经费的碎片化模式，设立长效、专门的公众参与基础设施基金。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society, 2026, p. 104]]）
+>   向资助机构与大学校长提供咨询，呼吁打破仅依赖个别研究项目短期课题经费的碎片化模式，设立长效、专门的公众参与基础设施基金。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 104]]）

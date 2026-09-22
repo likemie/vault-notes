@@ -50,17 +50,17 @@ updated: 2026-09-15
 ## 工具定位
 
 > [!instrument-profile] SMEQ
-> - **工具类型** [[Questionnaire|问卷]]
+> - **工具类型** [[Questionnaire\|问卷]]
 > - **开发者与年份** Schommer (1993)。
-> - **测量目的** 用于测量中学生在知识本质与学习本质上的[[Epistemological Beliefs|认识论信念]]多维特征，评估其在固定与快速学习能力、[[Simplicity of Knowledge|简单知识]]与确定知识等维度上的成熟度或朴素度，以预测学生的[[Academic Achievement|学业成就]]、学习策略及学术任务表现。
+> - **测量目的** 用于测量中学生在知识本质与学习本质上的[[Epistemological Beliefs\|认识论信念]]多维特征，评估其在固定与快速学习能力、[[Simplicity of Knowledge\|简单知识]]与确定知识等维度上的成熟度或朴素度，以预测学生的[[Academic Achievement\|学业成就]]、学习策略及学术任务表现。
 > - **实施方式** 自陈问卷（纸笔或课堂计算机施测）
-> - **题量说明** 课堂施测总题量为 52 题；经[[Exploratory Factor Analysis|探索性因子分析]]后，最终提取并保留用于计算三因子核心得分的代表性题项共 11 题。
+> - **题量说明** 课堂施测总题量为 52 题；经[[Exploratory Factor Analysis\|探索性因子分析]]后，最终提取并保留用于计算三因子核心得分的代表性题项共 11 题。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Epistemological Beliefs|认识论信念]]
+> [!construct-table] [[Epistemological Beliefs\|认识论信念]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 因子保留题项数 | 测量内容 | 计分方式 |
@@ -76,8 +76,8 @@ updated: 2026-09-15
 > [!instrument-items] 作答规则
 > - **题项形式** 第一人称或泛指陈述句。
 > - **作答格式** 5点 Likert 量表（1 = 完全不同意，5 = 完全同意）。
-> - **反向题与跳题** 部分反向表述题项在计分时予以反向转换；分数越高通常代表[[Epistemological Beliefs|认识论信念]]越朴素（naïve），分数越低代表认识论信念越成熟（sophisticated）。
-> - **题项呈现说明** 学生实际施测填写 52 题[[Questionnaire|问卷]]；经[[Exploratory Factor Analysis|探索性因子分析]]（EFA）筛选后，仅将因子载荷达标（$\ge .33$）且构成 3 个核心因子的 **11 个核心题项** 纳入统计模型并在[[Document|文献]]中公开发布（见下表）。其余 41 题因载荷过低或跨载荷未进入核心模型。
+> - **反向题与跳题** 部分反向表述题项在计分时予以反向转换；分数越高通常代表[[Epistemological Beliefs\|认识论信念]]越朴素（naïve），分数越低代表认识论信念越成熟（sophisticated）。
+> - **题项呈现说明** 学生实际施测填写 52 题[[Questionnaire\|问卷]]；经[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）筛选后，仅将因子载荷达标（$\ge .33$）且构成 3 个核心因子的 **11 个核心题项** 纳入统计模型并在[[Document\|文献]]中公开发布（见下表）。其余 41 题因载荷过低或跨载荷未进入核心模型。
 
 ### 固定与快速学习能力
 
@@ -127,7 +127,7 @@ updated: 2026-09-15
 
 ### [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] 各群体测量均值与标准差
 
-> [!ref-table]- [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] 样本[[Descriptive Analysis|描述统计]]表（Table 2, p. 319）
+> [!ref-table]- [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] 样本[[Descriptive Analysis\|描述统计]]表（Table 2, p. 319）
 > | 样本组别 | 样本量 $n$ | 固定与快速学习能力（FQAL） | [[Simplicity of Knowledge\|简单知识]]（SK） | 确定知识（CK） |
 > |---|:---:|:---:|:---:|:---:|
 > | **全样本（Combined Sample）** | 447 | .000 (.84) | .000 (.79) | .000 (.86) |

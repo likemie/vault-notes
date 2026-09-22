@@ -82,8 +82,8 @@ citation_aliases:
 
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
-> 欧洲教育政策中，[[Research Utilization|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 [[Every Student Succeeds Act|ESSA]] 式[[Evidence Standards|证据标准]] 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？(pp.25-28)
+> [!info] [[Research Question\|研究问题]]
+> 欧洲教育政策中，[[Research Utilization\|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives\|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 [[Every Student Succeeds Act\|ESSA]] 式[[Evidence Standards\|证据标准]] 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform\|证据本位改革]]？(pp.25-28)
 
 这篇文章要解释的核心张力是：欧盟政策倡议 已经把证据知情政策和实践列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案(pp.35-37)。
 
@@ -91,15 +91,15 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Evidence-Based Education]] — 教育项目和实践应更多依靠高质量研究证据，尤其是能够评价可复制项目效果的研究(p.26)。
-> - [[Evidence-Informed Practice]] — 欧洲文件和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Experimental Research|实验研究]]，政策文件也多是指导而非强制规定。
+> - [[Evidence-Informed Practice]] — 欧洲文件和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Experimental Research\|实验研究]]，政策文件也多是指导而非强制规定。
 > - [[Evidence-Based Reform]] — Slavin 的定义把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则。
 
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：政策文件分析与[[Literature Review|文献综述]]。
-> - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education|证据本位教育]]领域关于政策、实践和证据文化的[[Document|文献]](p.25)。
-> - 分析对象：欧盟和 Eurydice 网络成员国中促进[[Research Utilization|证据使用]]的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战(p.28)。
+> - 方法：政策文件分析与[[Literature Review\|文献综述]]。
+> - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education\|证据本位教育]]领域关于政策、实践和证据文化的[[Document\|文献]](p.25)。
+> - 分析对象：欧盟和 Eurydice 网络成员国中促进[[Research Utilization\|证据使用]]的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战(p.28)。
 
 ## 论证结构
 
@@ -146,16 +146,16 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. 欧盟从 2006 年起逐步把[[Research Utilization|证据使用]]纳入教育和培训政策话语，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
+> 1. 欧盟从 2006 年起逐步把[[Research Utilization\|证据使用]]纳入教育和培训政策话语，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
 > 2. 欧洲的政策语言更偏向 evidence-informed 而非 evidence-based，这意味着证据来源更宽，政策文件更倾向指导成员国而非规定统一行动线(p.26)。
-> 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、[[Strategic School Improvement Fund|SSIF]] and TLIF 等机制体现了研究生成、[[Knowledge Mediation|知识中介]]和政策资助之间的连接(pp.31-33)。
-> 4. 欧洲证据使用面临[[External Validity|外部效度]]和可迁移性难题，尤其受 43 个教育系统、24 种官方语言和各国课程标准差异影响(p.36)。
+> 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation\|EEF]]、[[Strategic School Improvement Fund\|SSIF]] and TLIF 等机制体现了研究生成、[[Knowledge Mediation\|知识中介]]和政策资助之间的连接(pp.31-33)。
+> 4. 欧洲证据使用面临[[External Validity\|外部效度]]和可迁移性难题，尤其受 43 个教育系统、24 种官方语言和各国课程标准差异影响(p.36)。
 > 5. 欧洲教育支出总体接近 [[OECD]] 和美国平均水平，关键不是单纯提高总支出，而是面向成员国差异再平衡资源，并把投资导向研究、专业发展和支持工具(pp.37-39)。
-> 6. [[21st Century Skills and Competencies Discourse|关键能力]]课程改革使证据本位政策更复杂，因为多维能力的干预设计和效果评估比基础知识技能更难实现(pp.39-41)。
+> 6. [[21st Century Skills and Competencies Discourse\|关键能力]]课程改革使证据本位政策更复杂，因为多维能力的干预设计和效果评估比基础知识技能更难实现(pp.39-41)。
 
 > [!info]- 核心数据
-> - 意大利 2008 年 “[[Azione LIM|Azione LIM]]” 提供 35,114 块互动白板，总成本 EUR 93,354,571；2016 年互动白板覆盖 42% 班级(p.27)。
-> - 法国 2017 年将 disadvantaged areas 一、二年级[[Class Size|班额]]从 24 人降至 12 人，但相关证据显示班额缩小的阅读效应较小，数学效应可为负且不显著(pp.27-28)。
+> - 意大利 2008 年 “[[Azione LIM\|Azione LIM]]” 提供 35,114 块互动白板，总成本 EUR 93,354,571；2016 年互动白板覆盖 42% 班级(p.27)。
+> - 法国 2017 年将 disadvantaged areas 一、二年级[[Class Size\|班额]]从 24 人降至 12 人，但相关证据显示班额缩小的阅读效应较小，数学效应可为负且不显著(pp.27-28)。
 > - EU-22 从小学到高等教育平均每生年支出 USD 10,555；成员国范围从希腊 USD 5,470 到卢森堡 USD 22,430(p.37)。
 > - 欧盟成员国教育支出平均约占 GDP 5.0%，瑞典 7.1%、芬兰 6.8%；占公共支出 10.6%。
 
@@ -175,7 +175,7 @@ citation_aliases:
 >
 > 另一个张力在于：文章批评欧洲倡议缺少系统路线图，但同时也承认欧洲教育治理由成员国负责，欧盟文件多为指导而非强制规定(pp.28, 41-42)。因此，“更清晰路线图”与“成员国教育主权”之间的制度矛盾仍需要进一步展开。
 >
-> 对[[21st Century Skills and Competencies Discourse|关键能力]]评估的讨论提出了真实难题，但论证主要停留在概念层面。文章说明了为什么多维能力难以评估，却没有提供具体国家中可行或失败的评估案例；后续条目若处理关键能力政策，需要补充更直接的政策文本和实证研究。
+> 对[[21st Century Skills and Competencies Discourse\|关键能力]]评估的讨论提出了真实难题，但论证主要停留在概念层面。文章说明了为什么多维能力难以评估，却没有提供具体国家中可行或失败的评估案例；后续条目若处理关键能力政策，需要补充更直接的政策文本和实证研究。
 
 ## 来源
 

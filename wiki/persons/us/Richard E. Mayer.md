@@ -9,7 +9,7 @@ summary: "美国加州大学圣巴巴拉分校心理学杰出教授，当代教�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Rote Learning]]"
   - "[[STEM Education]]"
 related_theories:
   - "[[Dual Coding Theory]]"
@@ -50,7 +51,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Richard E. Mayer
@@ -58,7 +59,7 @@ updated: 2026-09-21
 ## 学者概述
 
 > [!def] 学者生平与定位
-> 理查德·E·梅耶（Richard E. Mayer，1947–至今）是美国当代著名认知心理学家、学习科学与教育心理学学者，加州大学圣巴巴拉分校（University of California, Santa Barbara, UCSB）心理学杰出教授，美国心理学会（[[APA Style|APA]]）前教育心理学分会主席。Mayer 是当代[[International Education|国际教育]]心理学界被引用次数最高的学者之一，其最卓越的学术贡献在于创立了**多媒体学习认知理论（Cognitive Theory of Multimedia Learning, CTML）**并实证提炼了十二项多媒体教学设计原则；同时，其在 2004 年发表的关于[[Discovery Learning|纯发现学习]]的“三振出局”经典[[Document|文献]]，深刻重塑了国际科学探究与[[Direct Instruction|直接教学]]大论战的理论格局（Mayer, 2004; [[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 5]]）。
+> 理查德·E·梅耶（Richard E. Mayer，1947–至今）是美国当代著名认知心理学家、学习科学与教育心理学学者，加州大学圣巴巴拉分校（University of California, Santa Barbara, UCSB）心理学杰出教授，美国心理学会（[[APA Style\|APA]]）前教育心理学分会主席。Mayer 是当代[[International Education\|国际教育]]心理学界被引用次数最高的学者之一，其最卓越的学术贡献在于创立了**多媒体学习认知理论（Cognitive Theory of Multimedia Learning, CTML）**并实证提炼了十二项多媒体教学设计原则；同时，其在 2004 年发表的关于[[Discovery Learning\|纯发现学习]]的“三振出局”经典[[Document\|文献]]，深刻重塑了国际科学探究与[[Direct Instruction\|直接教学]]大论战的理论格局（Mayer, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]）。
 
 ---
 
@@ -83,18 +84,18 @@ Mayer 将认知心理学三大经典假定（双通道加工[[Hypothesis|假设]
 
 Mayer 在[[International Education|国际教育]]学界关于探究教学的辩论中扮演了至关重要的“学术仲裁者”角色：
 
-> [!claim] “[[Discovery Learning|纯发现学习]]的三振出局规则”（Mayer, 2004）
+> [!claim] “[[Discovery Learning\|纯发现学习]]的三振出局规则”（Mayer, 2004）
 > 2004 年，Mayer 在《美国心理学家》（*American Psychologist*）发表了题为《针对纯发现学习是否应当确立三振出局规则？》（*Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*）的重磅评述。他系统复盘了教育史上三次盲目推崇“纯自主发现学习”（Pure Discovery Learning）的浪潮：
-> 1. **第一击（1960 年代）** 发现学习倡导者主张让学生在无教师指导下探索早期的科学与数学原理，结果实证测试全面劣于[[Direct Instruction|直接教学]]；
-> 2. **第二击（1970–1980 年代）** 期待学生在缺乏显性思维指导下通过自主编写 Logo 计算机程序领悟普遍[[Problem Solving|问题解决]]逻辑，结果未发现可迁移的认知增益；
-> 3. **第三击（1990 年代）** 试图让学生在无结构化支架的[[Computer Simulation|计算机模拟]]微世界中自主发现物理学因果定律，学生大多陷入盲目尝试与挫败。
+> 1. **第一击（1960 年代）** 发现学习倡导者主张让学生在无教师指导下探索早期的科学与数学原理，结果实证测试全面劣于[[Direct Instruction\|直接教学]]；
+> 2. **第二击（1970–1980 年代）** 期待学生在缺乏显性思维指导下通过自主编写 Logo 计算机程序领悟普遍[[Problem Solving\|问题解决]]逻辑，结果未发现可迁移的认知增益；
+> 3. **第三击（1990 年代）** 试图让学生在无结构化支架的[[Computer Simulation\|计算机模拟]]微世界中自主发现物理学因果定律，学生大多陷入盲目尝试与挫败。
 
 > [!tension-table] Mayer 的论断与现代循证科学探究辩护
 > | 维度 | 纯发现学习（Pure Discovery） | [[Inquiry-Based Learning\|指导式探究]]（Guided Inquiry） | 直接教学（Direct Instruction） |
 > |---|---|---|---|
-> | **认知支持** | 无外在支架，任由学生漫无目的地盲试。 | 配备[[Scaffolding|脚手架]]与即时启发线索（梅耶极力推崇的核心形态）。 | 教师直接给出完整步骤与答案，学生单向模仿。 |
-> | **[[Working Memory|工作记忆]]负荷** | 极端过载，学习者被海量无关试错信息消耗殆尽。 | 负荷处于受控状态，支架帮助隔离干扰[[Variable|变量]]，聚焦深层[[Causality|因果推断]]。 | 负荷最低，但容易诱发机械记忆与缺乏深层迁移。 |
-> | **当代共识定位** | 已被科学教育界彻底抛弃，三振出局（Mayer, 2004）。 | 现代科学课堂的主流形态，融合了即时讲授与探究循环（[[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。 | 事实性知识与操作算法的高效传授工具。 |
+> | **认知支持** | 无外在支架，任由学生漫无目的地盲试。 | 配备[[Scaffolding\|脚手架]]与即时启发线索（梅耶极力推崇的核心形态）。 | 教师直接给出完整步骤与答案，学生单向模仿。 |
+> | **[[Working Memory\|工作记忆]]负荷** | 极端过载，学习者被海量无关试错信息消耗殆尽。 | 负荷处于受控状态，支架帮助隔离干扰[[Variable\|变量]]，聚焦深层[[Causality\|因果推断]]。 | 负荷最低，但容易诱发[[Rote Learning\|机械记忆]]与缺乏深层迁移。 |
+> | **当代共识定位** | 已被科学教育界彻底抛弃，三振出局（Mayer, 2004）。 | 现代科学课堂的主流形态，融合了即时讲授与探究循环（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]）。 | 事实性知识与操作算法的高效传授工具。 |
 
 Mayer 的核心洞见在于：**学习者的“主动性”必须是“内部认知加工的主动”（Cognitive Activity），而非单纯身体或界面的“行为多动”（Behavioral Activity）**。这一论断被 [[Ton de Jong]] 等人反复引用，有力反驳了认知负荷学派将当代“指导式探究”恶意等同于“无指导纯发现”的错误批评（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 5]]）。
 

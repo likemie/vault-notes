@@ -56,7 +56,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 政策规避（Policy Avoidance）指大众新闻媒体在深度介入教育政策传播与危机建构过程中，将绝大部分版面与受众注意力狂热倾注于炒作抽象的质量危机、排列表落后与政治替罪羊，却对执政精英趁机推出的具体激进改革方案、操作机制及其背后的实证[[Chain of Evidence|证据链]]条表现出系统性脱敏、冷漠与避而不谈的话语异化现象（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）。在政策规避机制下，争议性政策并非因获得社会广泛认同而落地，而是因未受到任何实质性追问与专业核查而在舆论真空中被“默认强化”（Reinforced by default）。
+> 政策规避（Policy Avoidance）指大众新闻媒体在深度介入教育政策传播与危机建构过程中，将绝大部分版面与受众注意力狂热倾注于炒作抽象的质量危机、排列表落后与政治替罪羊，却对执政精英趁机推出的具体激进改革方案、操作机制及其背后的实证[[Chain of Evidence\|证据链]]条表现出系统性脱敏、冷漠与避而不谈的话语异化现象（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。在政策规避机制下，争议性政策并非因获得社会广泛认同而落地，而是因未受到任何实质性追问与专业核查而在舆论真空中被“默认强化”（Reinforced by default）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向新闻媒体在面对复杂公共政策时出现的审议断裂：聚焦危机、逃避方案；聚焦口水战、逃避因果实证。
@@ -66,13 +66,13 @@ updated: 2026-09-18
 > [!citation-card] 政策规避与第四权力的失职
 > Grey & Morris 深刻剖析了媒体在 [[PISA]] 狂欢中陷入政策规避的实质：
 > 
-> [[Michael Gove|迈克尔·戈夫]]的政策议程通过‘默认’得到了强化，因为他的方案既未遭到质疑与反驳，但也未受到积极支持。‘政策规避’最贴切地描述了媒体对其拟议改革细节的极度匮乏的审视；在这个意义上，媒体通过监督当权者行为以向公众负责的民主‘第四权力’角色实际上完全缺席，因为他们将全部精力聚焦于建构与本质化一场教育危机。（[[Argument_Grey_2018_CE|Grey & Morris, 2018, p. 125]]）
+> [[Michael Gove\|迈克尔·戈夫]]的政策议程通过‘默认’得到了强化，因为他的方案既未遭到质疑与反驳，但也未受到积极支持。‘政策规避’最贴切地描述了媒体对其拟议改革细节的极度匮乏的审视；在这个意义上，媒体通过监督当权者行为以向公众负责的民主‘第四权力’角色实际上完全缺席，因为他们将全部精力聚焦于建构与本质化一场教育危机。（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 125]]）
 > 
 > *Michael Gove's policy agenda was reinforced by default in the sense that it was neither contested nor challenged; but it was not actively supported either. 'Policy avoidance' might best describe the lack of engagement over the details of his proposed reforms; and in this sense the media's democratic role in scrutinising the actions of the powerful was effectively absent as they focused on constructing and essentialising an educational crisis.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Moral Sidestep]] — 后者侧重议会与政治精英在辩论中主动运用道德化辞藻（如“好学校”）规避学术实证；政策规避则侧重大众传媒在面对政府方案时丧失专业鉴别力与监督能动性的集体失语。
-> - 不等于 [[Policy Borrowing]] — 后者是关于跨国政策转移与[[Transfer Translation Transformation|转译]]的总体理论；政策规避是解释本土政客借用外来口号时为何能轻易逃脱国内审查的具体中介机制。
+> - 不等于 [[Policy Borrowing]] — 后者是关于跨国政策转移与[[Transfer Translation Transformation\|转译]]的总体理论；政策规避是解释本土政客借用外来口号时为何能轻易逃脱国内审查的具体中介机制。
 
 ---
 
@@ -90,10 +90,10 @@ updated: 2026-09-18
 ## 核心要素
 
 > [!feature] 核心要素
-> - **狂热炒作与深度冷漠的悖论（Hype vs Detachment）** 媒体可以为一份国际测验报告刊发数十篇耸动头条、绘制巨幅危机信息图，却在面对政府借机宣读的数万字改革白皮书时连一个段落的技术细节都不愿展开分析（[[Argument_Grey_2018_CE|Grey & Morris, 2018, p. 122]]）。
+> - **狂热炒作与深度冷漠的悖论（Hype vs Detachment）** 媒体可以为一份国际测验报告刊发数十篇耸动头条、绘制巨幅危机信息图，却在面对政府借机宣读的数万字改革白皮书时连一个段落的技术细节都不愿展开分析（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 122]]）。
 > - **默认强化效应（Reinforced by Default）** 争议政策既未经历严肃的同行辩论，亦未获得立法机构的深入审议，仅仅依靠媒体对危机的全天候洗脑，使公众默认“必须采取紧急措施”，从而使本应受到严厉质疑的政策在免检状态下合法化。
-> - **第四权力宪制监督职能的退化（Fourth Estate Failure）** 传统新闻学赋予媒体揭露执政者谎言、核实政策依据以保护公民知情权的核心天职，在政策规避机制下被追求流量与短平快通稿的功利逻辑彻底取代（[[Argument_Grey_2018_CE|Grey & Morris, 2018, p. 125]]）。
-> - **[[Chain of Evidence|证据链]]条的系统性断裂（Evasion of the Evidence Chain）** 媒体对“危机的诊断证据”与“政府提出的解药”之间是否存在因果关联完全不予追问，即使官方提出的改革举措（如分轨分流）与权威报告（如 [[OECD]] 报告）的建议完全背道而驰，媒体依然视若无睹。
+> - **第四权力宪制监督职能的退化（Fourth Estate Failure）** 传统新闻学赋予媒体揭露执政者谎言、核实政策依据以保护公民知情权的核心天职，在政策规避机制下被追求流量与短平快通稿的功利逻辑彻底取代（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 125]]）。
+> - **[[Chain of Evidence\|证据链]]条的系统性断裂（Evasion of the Evidence Chain）** 媒体对“危机的诊断证据”与“政府提出的解药”之间是否存在因果关联完全不予追问，即使官方提出的改革举措（如分轨分流）与权威报告（如 [[OECD]] 报告）的建议完全背道而驰，媒体依然视若无睹。
 
 ---
 
@@ -107,17 +107,17 @@ updated: 2026-09-18
 > 探讨大众传媒在面对权力话语时，如何通过对方案细节的集体回避，反向赋权执政精英强推争议性法案。
 
 > [!claim] Grey & Morris
-> **默认许可与争议政策通关** 在英国 2013 年应对 [[PISA]] 的过程中，教育大臣[[Michael Gove|戈夫]]借危机宣布了包括强制学院化、[[Performance Pay|绩效工资]]制在内的五大改革支柱；主流媒体在接下来的报道周期中，几乎没有任何一家对这些支柱是否具有实证支持展开追查，也没有揭露其政策取向与 [[OECD]] 倡导建议之间的南辕北辙；媒体的政策规避使得这一套原本在教育界饱受争议的新自由主义重组方案，在公众舆论中如同未经审议的既成事实一般顺利确立。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 124–125)]]
+> **默认许可与争议政策通关** 在英国 2013 年应对 [[PISA]] 的过程中，教育大臣[[Michael Gove\|戈夫]]借危机宣布了包括强制学院化、[[Performance Pay\|绩效工资]]制在内的五大改革支柱；主流媒体在接下来的报道周期中，几乎没有任何一家对这些支柱是否具有实证支持展开追查，也没有揭露其政策取向与 [[OECD]] 倡导建议之间的南辕北辙；媒体的政策规避使得这一套原本在教育界饱受争议的新自由主义重组方案，在公众舆论中如同未经审议的既成事实一般顺利确立。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 124–125)]]
 
 ---
 
 ### 命题二　媒介逻辑的技术门槛与发稿时效诱发媒体对复杂政策因果链的结构性逃避
 
 > [!concept-lens] 新闻生产约束对公共审议深度的制度性侵蚀
-> 探讨教育政策本身的跨学科复杂性如何与快节奏新闻业产生结构性错配，迫使记者放弃对政策[[Chain of Evidence|证据链]]的深度核查。
+> 探讨教育政策本身的跨学科复杂性如何与快节奏新闻业产生结构性错配，迫使记者放弃对政策[[Chain of Evidence\|证据链]]的深度核查。
 
 > [!claim] Grey & Morris
-> **生产约束与通稿依赖** 审查复杂教育政策（如绩效工资的微观[[Effect Size|效应量]]、学院化对弱势生的长期排斥）需要扎实的政策社会学素养与耗时费力的数据核查；而在现代快节奏的新闻室中，记者面临即时发稿的巨大压力，天然偏向于直接照搬政客提供的新闻通稿与富有煽动性的现成引语，从而使“政策规避”成为新闻业应对认知超载与时间赤字的制度性本能。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 124–126)]]
+> **生产约束与通稿依赖** 审查复杂教育政策（如绩效工资的微观[[Effect Size\|效应量]]、学院化对弱势生的长期排斥）需要扎实的政策社会学素养与耗时费力的数据核查；而在现代快节奏的新闻室中，记者面临即时发稿的巨大压力，天然偏向于直接照搬政客提供的新闻通稿与富有煽动性的现成引语，从而使“政策规避”成为新闻业应对认知超载与时间赤字的制度性本能。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 124–126)]]
 
 ---
 
@@ -134,7 +134,7 @@ updated: 2026-09-18
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2018 — 概念提出与界定** [[Paul Morris]] 与 Sue Grey 在《Comparative Education》发表论文，首次以“政策规避”（Policy Avoidance）为[[Central Phenomenon|核心范畴]]，精准刻画大众媒体在 [[PISA]] 报道中放弃政策审视的系统性失职。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
+> - **2018 — 概念提出与界定** [[Paul Morris]] 与 Sue Grey 在《Comparative Education》发表论文，首次以“政策规避”（Policy Avoidance）为[[Central Phenomenon\|核心范畴]]，精准刻画大众媒体在 [[PISA]] 报道中放弃政策审视的系统性失职。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 > - **2020–至今 — 循证决策与政策审议研究扩展** 该概念被广泛引申至教育政治学中，用于分析执政精英如何与媒体合谋规避真实的研究证据（[[Evidence-Based Education]]），促成一种“无证据审议的危机治理”。
 
 ---

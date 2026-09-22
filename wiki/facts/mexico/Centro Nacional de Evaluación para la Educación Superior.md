@@ -24,9 +24,9 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Problem Solving]]"
   - "[[Critical Thinking]]"
-related_theories:
+related_theories: []
+related_methods:
   - "[[Item Response Theory]]"
-related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -45,7 +45,7 @@ updated: 2026-08-27
 ## 背景
 
 > [!event-context] 机构创立与定位
-> - **成立时间 / 发起主体** 1994 年由墨西哥全国大学与高等教育机构协会（ANUIES）及墨西哥联邦公共教育部（SEP）倡议联合成立。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 23)]]
+> - **成立时间 / 发起主体** 1994 年由墨西哥全国大学与高等教育机构协会（ANUIES）及墨西哥联邦公共教育部（SEP）倡议联合成立。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 23)]]
 > - **机构性质** 墨西哥非营利性民办非企业性质的国家专业考试与教育评估机构（Civil Association）。
 > - **总部地点** 墨西哥城（Mexico City, Mexico）。
 > - **核心使命** 为全国各类学校、大学、企业与政府部门提供可靠、公正与科学的学业评价与职业资格考试服务。
@@ -56,8 +56,8 @@ updated: 2026-08-27
 
 > [!feature] 全国考试体系与通用思辨模块
 > - **全国入学选拔考试系列（EXANI）** 组织实施高中升大学（EXANI-II）与研究生准入（EXANI-III）全国统考；其中 EXANI-III 专设通用认知技能模块，深入测查逻辑数学推理、分析性阅读、批判性论据辨析与书面沟通表达。
-> - **本科[[Academic Achievement|学业成就]]与毕业统考系列（EGEL）** 覆盖医学、法学、工程、商学等数十个专业领域，评估应届本科毕业生对核心专业知识与高阶临床/工程[[Problem Solving|问题解决能力]]的掌握程度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 23)]]
-> - **心理测量学研发与标准化题库** 拥有覆盖拉美地区最庞大的试题库与多维度[[Item Response Theory|项目反应理论]]（IRT）计算机标定平台。
+> - **本科[[Academic Achievement\|学业成就]]与毕业统考系列（EGEL）** 覆盖医学、法学、工程、商学等数十个专业领域，评估应届本科毕业生对核心专业知识与高阶临床/工程[[Problem Solving\|问题解决能力]]的掌握程度。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 23)]]
+> - **心理测量学研发与标准化题库** 拥有覆盖拉美地区最庞大的试题库与多维度[[Item Response Theory\|项目反应理论]]（IRT）计算机标定平台。
 
 ---
 
@@ -65,5 +65,5 @@ updated: 2026-08-27
 
 > [!finding-cards] 影响与后果
 > - **政策影响** 成为拉丁美洲规模最大、制度化程度最高的高等教育国家级准入与毕业统考中枢。
-> - **实践影响** 为墨西哥数百所大学提供了客观统一的生源选拔依据与学科教学质量外部诊断数据。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 23)]]
-> - **知识影响** 展现了发展中国家在大规模高利害统考中系统整合[[Critical Thinking|批判性思维]]与高阶推理测查的实践路径。
+> - **实践影响** 为墨西哥数百所大学提供了客观统一的生源选拔依据与学科教学质量外部诊断数据。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 23)]]
+> - **知识影响** 展现了发展中国家在大规模高利害统考中系统整合[[Critical Thinking\|批判性思维]]与高阶推理测查的实践路径。

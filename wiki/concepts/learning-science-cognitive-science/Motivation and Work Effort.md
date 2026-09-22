@@ -49,12 +49,12 @@ updated: 2026-08-20
 > [!abstract] 核心要素
 > - 成功动机：学生追求学业达成与进步的目标取向（Lekhal_2015_Paideia）。
 > - 课堂投入：课堂任务中的注意力、参与度与坚持度（Lekhal_2015_Paideia）。
-> - [[Homework|作业]]努力：课后学习中的持续性投入与任务完成质量（Lekhal_2015_Paideia）。
+> - [[Homework\|作业]]努力：课后学习中的持续性投入与任务完成质量（Lekhal_2015_Paideia）。
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - 与 [[Feedback]] 相比，它是学生状态[[Variable|变量]]；与 [[School Norm Adaptation]] 相比，它强调投入强度而非规范匹配。
+> - 与 [[Feedback]] 相比，它是学生状态[[Variable\|变量]]；与 [[School Norm Adaptation]] 相比，它强调投入强度而非规范匹配。
 
 ## 理论基础
 

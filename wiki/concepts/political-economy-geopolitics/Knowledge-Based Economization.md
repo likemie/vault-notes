@@ -73,9 +73,9 @@ updated: 2026-09-13
 ## 定义
 
 > [!info] 定义
-> [[Knowledge-Based Economy|知识经济]]化（Knowledge-Based Economization）是 [[Sami Moisio]]（2018, 2022）提出的核心分析概念。其主张可以概括为一句话：**知识经济不是自然存在的经济形态，而是被持续制造出来的——通过政策话语、空间规划、制度实践和主体形塑，一个社会不断将自身经济化为知识经济。**
+> [[Knowledge-Based Economy\|知识经济]]化（Knowledge-Based Economization）是 [[Sami Moisio]]（2018, 2022）提出的核心分析概念。其主张可以概括为一句话：**知识经济不是自然存在的经济形态，而是被持续制造出来的——通过政策话语、空间规划、制度实践和主体形塑，一个社会不断将自身经济化为知识经济。**
 >
-> > "the knowledge economy as an actually existing economy as a continuous process of social and political production in all kinds of economic imaginaries as well as economic and non-economic practices."([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])
+> > "the knowledge economy as an actually existing economy as a continuous process of social and political production in all kinds of economic imaginaries as well as economic and non-economic practices."([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.25]])
 > > 
 > > 知识经济作为实际存在的经济，是在各种经济想象以及经济和非经济实践中持续进行的社会和政治生产过程。
 >
@@ -174,9 +174,9 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Cultural Political Economy|文化政治经济学]]（CPE, Jessop & Sum）——为该概念提供了核心分析语言：特别是想象在资本积累体制中的构成性和履行性角色。
-> - [[Critical Geopolitics|批判地缘政治学]]——空间和空间性的关系性重新理论化（空间性不限于领土性）（Kuus, 2017）为其提供了[[Epistemology|认识论]]基础。
-> - [[Fixity-Motion Tension]]（Harvey, 1985/2001）——为[[Knowledge-Based Economy|知识经济]]化的空间再领土化动态提供了结构性解释：资本积累既需要地方锚定（固着）又不断破坏既有空间配置（流动）。
+> - [[Cultural Political Economy\|文化政治经济学]]（CPE, Jessop & Sum）——为该概念提供了核心分析语言：特别是想象在资本积累体制中的构成性和履行性角色。
+> - [[Critical Geopolitics\|批判地缘政治学]]——空间和空间性的关系性重新理论化（空间性不限于领土性）（Kuus, 2017）为其提供了[[Epistemology\|认识论]]基础。
+> - [[Fixity-Motion Tension]]（Harvey, 1985/2001）——为[[Knowledge-Based Economy\|知识经济]]化的空间再领土化动态提供了结构性解释：资本积累既需要地方锚定（固着）又不断破坏既有空间配置（流动）。
 > - Polanyi（1982）的经济作为制度化过程——论证经济依赖于被标记为非经济的制度。
 > - Ҫalişkan & Callon（2009）的 economization 概念——提供从经济到经济化过程的方法论转向。
 >
@@ -184,7 +184,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 ## 应用领域
 
 > [!success] 应用领域
-> - 高等教育研究：分析大学如何被重构为全球[[Knowledge-Based Economy|知识经济]]的关键基础设施——不仅是课程和治理的转变，还包括物理空间（如图书馆改造为 makerspace）的物质性转变。
+> - 高等教育研究：分析大学如何被重构为全球[[Knowledge-Based Economy\|知识经济]]的关键基础设施——不仅是课程和治理的转变，还包括物理空间（如图书馆改造为 makerspace）的物质性转变。
 > - 比较教育：探讨不同国家和地区如何回应知识经济化的压力，以及这种回应如何差异化地重塑各国的教育系统。
 > - 教育政策分析：揭示政策想象（如 [[Hub and Flow Imaginaries]]）如何塑造教育系统的优先事项和资源分配。
 >
@@ -225,21 +225,21 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 **第三层：大学角色的制度重构。** 大学是知识经济化最集中的运作[[Champ|场域]]。过去五十年间，大学经历了从脱钩到重新嵌入创新系统的结构性转变([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.36–44]])：二战后政府研究资金大幅扩张一度使大学与产业需求脱钩；但 1980 年代后，在 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、英国知识产权政策改革、中国《科学技术进步法》（1993）等立法的推动下，大学被系统性重构为创新引擎。2000 年代后[[Third Mission|第三使命]]的正式制度化——设立[[Knowledge Exchange|知识交流]]领导角色、支持单位、内部转化基金和[[Innovation Park|科技园区]]——标志着经济化从话语层面进入大学组织结构的深层。
 
 > [!info]- 核心数据
-> - 美国大学来自产业的研发资金：1990 年 22 亿美元 → 2022 年 57 亿美元（按 2022 年不变价）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。
-> - 英国大学[[Knowledge Transfer|知识转移]]活动收入：2004 年 43 亿美元 → 2022 年 87 亿美元。
+> - 美国大学来自产业的研发资金：1990 年 22 亿美元 → 2022 年 57 亿美元（按 2022 年不变价）([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, p.44]])。
+> - 英国大学[[Knowledge Transfer\|知识转移]]活动收入：2004 年 43 亿美元 → 2022 年 87 亿美元。
 
 ---
 
-> - **欧盟的制度化** 自 2000 年[[Lisbon Strategy|里斯本战略]]以来，教育和研究被系统性地嵌入欧洲经济想象（[[Europe 2020 Strategy|Europe 2020]]、[[Innovation Union]]、Horizon 2020），社会科学与人文学科被整合为服务于政策制定的证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）。
-> - **[[Global Education Industry|全球教育产业]]的兴起** 经济化、商品化、私有化、数字化、市场化和标准化构成了 [[Global Education Industry]] 的运作逻辑，为不同参与者的地缘政治抱负提供了肥沃的土壤和生产性的推力（Thompson & Parreira do Amaral, 2022, p.12）。
+> - **欧盟的制度化** 自 2000 年[[Lisbon Strategy\|里斯本战略]]以来，教育和研究被系统性地嵌入欧洲经济想象（[[Europe 2020 Strategy\|Europe 2020]]、[[Innovation Union]]、Horizon 2020），社会科学与人文学科被整合为服务于政策制定的证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）。
+> - **[[Global Education Industry\|全球教育产业]]的兴起** 经济化、商品化、私有化、数字化、市场化和标准化构成了 [[Global Education Industry]] 的运作逻辑，为不同参与者的地缘政治抱负提供了肥沃的土壤和生产性的推力（Thompson & Parreira do Amaral, 2022, p.12）。
 > - **[[Minerva University]] 案例** 将高等教育彻底重塑为可扩展、可转让的商业和运营模型——无校园、全球城市沉浸、在线教学——体现了知识经济化在制度层面的极致运作（Thompson & Parreira do Amaral, 2022, pp.2–3）。
-> - **[[Spatial Sortings]]** 政策对创业生态系统和创新综合体的支持——被视为知识经济化的核心空间策略——实际上生产了民族国家的战略性城市化。公共和私人投资是这一结构过程的核心驱动因素。从[[Progressive Neoliberalism|进步新自由主义]]的视角看，枢纽地区（大型城市创新综合体）拥有增长潜力，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–31]])。
+> - **[[Spatial Sortings]]** 政策对创业生态系统和创新综合体的支持——被视为知识经济化的核心空间策略——实际上生产了民族国家的战略性城市化。公共和私人投资是这一结构过程的核心驱动因素。从[[Progressive Neoliberalism\|进步新自由主义]]的视角看，枢纽地区（大型城市创新综合体）拥有增长潜力，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.30–31]])。
 >
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 该概念的分析焦点主要在西方高等教育语境，对非西方[[Knowledge-Based Economy|知识经济]]化经验的分析尚不充分。
-> - 对知识经济化的批判性分析需要进一步关注其排斥性效应——批判社会科学的一个中心任务是审视这一极化政治经济过程的排斥效应([[Argument_Moisio_2022_Springer|Moisio, 2022, p.31, cited in Thompson & Parreira do Amaral, 2022, p.13]])。
+> - 该概念的分析焦点主要在西方高等教育语境，对非西方[[Knowledge-Based Economy\|知识经济]]化经验的分析尚不充分。
+> - 对知识经济化的批判性分析需要进一步关注其排斥性效应——批判社会科学的一个中心任务是审视这一极化政治经济过程的排斥效应([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.31, cited in Thompson & Parreira do Amaral, 2022, p.13]])。
 >
 

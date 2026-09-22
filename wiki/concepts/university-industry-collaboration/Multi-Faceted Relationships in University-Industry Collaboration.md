@@ -39,7 +39,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> 多面关系（Multi-Faceted Relationships）是 [[University Industry Demonstration Partnership|UIDP]] 在 [[Partnership Continuum|伙伴关系连续体]]（2012）中描述的[[University-Industry Collaboration|产学合作]]最高形态：当大学与企业在学生导向参与、研究者互动、资源获取、专业中心与学院参与和经济发展**全部五个领域**同时建立了深度合作关系时，双方的合作就超越了任何单一维度的交易或项目，成为一种制度化的、全方位的战略联盟([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, p.20]])。
+> 多面关系（Multi-Faceted Relationships）是 [[University Industry Demonstration Partnership\|UIDP]] 在 [[Partnership Continuum\|伙伴关系连续体]]（2012）中描述的[[University-Industry Collaboration\|产学合作]]最高形态：当大学与企业在学生导向参与、研究者互动、资源获取、专业中心与学院参与和经济发展**全部五个领域**同时建立了深度合作关系时，双方的合作就超越了任何单一维度的交易或项目，成为一种制度化的、全方位的战略联盟([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012, p.20]])。
 
 多面关系不是五个领域的简单加总——它的本质是**跨领域的协同效应** 学生招聘关系为联合研究提供了人才管道；联合研究产生的[[Research Translation|技术转化]]为经济发展领域的衍生企业；衍生企业的成功又反过来增强了大学在专业中心与学院领域对企业的吸引力。五个领域之间的正反馈循环使得多面关系的总价值大于各部分之和。
 
@@ -51,7 +51,7 @@ updated: 2026-09-10
 ## 核心原则
 
 > [!abstract]
-> [[Argument_UIDP_2012_PartnershipContinuum|Southerton et al. (2012, p.20)]]指出了维持多面关系的三个关键条件：
+> [[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al. (2012, p.20)]]指出了维持多面关系的三个关键条件：
 
 - **清晰定义的优先事项（clearly defined priorities）** 每个合作方必须明确自己在不同时间点的战略重心——一个机构可能在某一阶段聚焦资源获取，在另一阶段转向经济发展。目标的变化不应被视为合作的不稳定信号，但必须被明确表达
 - **透明及时的沟通（transparent and timely communication）** 由于多面关系涉及多个部门和多个合作层级，信息不对称的风险远高于单一维度合作。一方在某一领域的期望变化如果未被及时传达，可能在另一领域产生意外摩擦
@@ -80,7 +80,7 @@ updated: 2026-09-10
 ## 层级特征：发生在哪个层面
 
 > [!note]-
-> 多面关系可以在两个地理层面发生([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, p.20]])：
+> 多面关系可以在两个地理层面发生([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012, p.20]])：
 > - **全国层面** 企业总部与大学之间的全面战略合作
 > - **区域层面** 企业的本地分部或子公司与大学之间的合作。当双方聚焦区域经济发展时，地理位置邻近的区域伙伴可能比全国层面的伙伴优先级更高
 
@@ -91,7 +91,7 @@ updated: 2026-09-10
 ## 概念辨析
 
 > [!example]
-> - vs [[Partnership Continuum|伙伴关系连续体]] — 连续体是描述[[University-Industry Collaboration|产学合作]]全部光谱的**分类框架**，多面关系是这个框架中最高级的一种**关系形态**。连续体帮你看到"有哪些合作形式"，多面关系帮你理解"当所有形式同时激活时会发生什么"
+> - vs [[Partnership Continuum\|伙伴关系连续体]] — 连续体是描述[[University-Industry Collaboration\|产学合作]]全部光谱的**分类框架**，多面关系是这个框架中最高级的一种**关系形态**。连续体帮你看到"有哪些合作形式"，多面关系帮你理解"当所有形式同时激活时会发生什么"
 > - vs 战略伙伴关系 — 战略伙伴关系强调合作对双方战略目标的重要性，多面关系进一步要求合作在**五个不同维度上**同时存在深度互动。一个战略伙伴关系可能只集中在单一维度（如长期赞助研究），不一定是多面的
 > - vs 三螺旋 — 三螺旋是大学-产业-政府三方关系的宏观理论，多面关系则聚焦于大学-产业双边关系在五个操作维度上的广度。三螺旋中的"政府"维度在 Partnership Continuum 中主要体现在"经济发展"领域
 

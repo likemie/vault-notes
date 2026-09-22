@@ -62,7 +62,7 @@ updated: 2026-08-27
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]与跨学科思辨能力（CARS 模块）
+> [!construct-table] [[Critical Thinking\|批判性思维]]与跨学科思辨能力（CARS 模块）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项占比 | 测量内容 | 计分方式 |
@@ -76,7 +76,7 @@ updated: 2026-08-27
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 9 篇涵盖哲学、伦理学、人类学、社会学与艺术批评的长篇复杂文章，每篇附带 5–7 道 4 选 1 单项[[Multiple-Choice Questions|选择题]]（完全不依赖医学先验知识）。
+> - **题项形式** 9 篇涵盖哲学、伦理学、人类学、社会学与艺术批评的长篇复杂文章，每篇附带 5–7 道 4 选 1 单项[[Multiple-Choice Questions\|选择题]]（完全不依赖医学先验知识）。
 > - **计分规则** CARS 分数区间为 118（最低）至 132（最高），总分中位数设为 125。
 
 ---

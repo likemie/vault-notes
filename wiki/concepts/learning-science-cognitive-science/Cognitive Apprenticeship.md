@@ -49,18 +49,18 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 认知学徒制（Cognitive Apprenticeship）是由 Collins, Brown, & Newman (1989) 提出的学习科学经典教学模式。它将传统手工业中的“师傅带徒弟”机制迁移至抽象认知与[[Higher-Order Thinking Skills|高阶思维]]领域（如阅读理解、数学解题、科学探究与批判性论证），通过**使思维外显化（Making Thinking Visible）**，让导师（专家）在真实情境中示范并辅导复杂的认知与[[Metacognition|元认知]]策略，引导新手在[[Scaffolding|脚手架]]支持下逐步掌握独立解决劣构问题的专家能力。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 287–288)]]
+> 认知学徒制（Cognitive Apprenticeship）是由 Collins, Brown, & Newman (1989) 提出的学习科学经典教学模式。它将传统手工业中的“师傅带徒弟”机制迁移至抽象认知与[[Higher-Order Thinking Skills\|高阶思维]]领域（如阅读理解、数学解题、科学探究与批判性论证），通过**使思维外显化（Making Thinking Visible）**，让导师（专家）在真实情境中示范并辅导复杂的认知与[[Metacognition\|元认知]]策略，引导新手在[[Scaffolding\|脚手架]]支持下逐步掌握独立解决劣构问题的专家能力。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 专家不仅示范显性的操作动作，更关键是通过出声思考（Think-aloud）展示隐蔽的元认知监控、[[Hypothesis|假设]]权衡与错误修正策略。
-> - **用途** 用于解决抽象知识脱离实际应用情境的“惰性知识”（Inert Knowledge）难题，为高级[[Critical Thinking|批判性思维]]教学提供操作性流程。
+> - **含义** 专家不仅示范显性的操作动作，更关键是通过出声思考（Think-aloud）展示隐蔽的元认知监控、[[Hypothesis\|假设]]权衡与错误修正策略。
+> - **用途** 用于解决抽象知识脱离实际应用情境的“惰性知识”（Inert Knowledge）难题，为高级[[Critical Thinking\|批判性思维]]教学提供操作性流程。
 > - **边界** 必须植根于真实、复杂的应用情境；脱离真实任务的机械示范与重复练习不属于认知学徒制。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 认知学徒制与传统学徒制及[[Direct Instruction|直接讲授]]辨析
+> [!contrast-table] 认知学徒制与传统学徒制及[[Direct Instruction\|直接讲授]]辨析
 > | 维度 | 认知学徒制（Cognitive Apprenticeship） | 传统手工艺学徒制（Traditional Craft） | 传统直接讲授（[[Direct Instruction]]） |
 > |---|---|---|---|
 > | **学习对象** | 抽象认知策略、批判审证与[[Metacognition\|元认知]]监控 | 物理性操作技能与工艺流程 | 事实性知识、抽象概念与标准化公式 |
@@ -73,9 +73,9 @@ updated: 2026-09-17
 ## 核心要素：六大教学方法（Six Instructional Methods）
 
 > [!feature] 认知学徒制的六大教学策略体系
-> - **示范（Modeling）** 导师在真实任务中执行解题过程，通过出声思考显性化其思维路径、[[Hypothesis|假设]]审查与策略选择。
-> - **辅导（Coaching）** 在学生尝试执行任务时，导师进行实时观察，提供精准点拨、反馈、线索提醒与[[Task Structure|任务结构]]重组。
-> - **支架与渐退（[[Scaffolding]] & Fading）** 导师提供认知支架（如提问句干、流程向导、[[Concept Mapping|概念图]]），随着学生能力增长逐步撤除支持，将控制权移交学生。
+> - **示范（Modeling）** 导师在真实任务中执行解题过程，通过出声思考显性化其思维路径、[[Hypothesis\|假设]]审查与策略选择。
+> - **辅导（Coaching）** 在学生尝试执行任务时，导师进行实时观察，提供精准点拨、反馈、线索提醒与[[Task Structure\|任务结构]]重组。
+> - **支架与渐退（[[Scaffolding]] & Fading）** 导师提供认知支架（如提问句干、流程向导、[[Concept Mapping\|概念图]]），随着学生能力增长逐步撤除支持，将控制权移交学生。
 > - **阐明（Articulation）** 要求学生清晰表达并辩护自己的推理过程、概念模型与解题依据，实现知识的显性化。
 > - **反思（Reflection）** 引导学生将自己的解题策略与专家或同伴进行横向对比，诊断自身认知偏见与盲区。
 > - **探索（Exploration）** 推动学生自主进入独立探究模式，自主定义问题、设立检验标准并尝试创新解法。
@@ -87,16 +87,16 @@ updated: 2026-09-17
 ### 命题一　认知学徒机制是导师制在真实探究情境中发挥催化作用的微观支柱
 
 > [!concept-lens] 策略协同与认知整合机制
-> 探讨[[Mentorship|导师制]]如何与真实任务及[[Dialogue in Education|对话]]研讨发生协同共振。
+> 探讨[[Mentorship\|导师制]]如何与真实任务及[[Dialogue in Education\|对话]]研讨发生协同共振。
 
 > [!claim] Abrami, P. C., et al.; Collins, A., et al.
-> **三维复合策略的认知学徒解释** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 发现，将[[Authentic Instruction|真实性教学]]（A）、对话研讨（D）与[[Mentorship|导师制]]（M）结合时，[[Critical Thinking|批判性思维]]增益达到最高水平（$g+ = 0.57$），且导师指导发挥了关键的催化功能（$z = 1.98, p = .024$）。从认知学徒制视角看，真实性任务提供了探究情境，对话研讨提供了“阐明与反思”的社交载体，而导师的“示范与辅导”则精准填补了新手面对复杂劣构问题时的认知鸿沟，三者共同构成了完整的认知学徒闭环。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 287–288, 298)]]
+> **三维复合策略的认知学徒解释** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 发现，将[[Authentic Instruction\|真实性教学]]（A）、对话研讨（D）与[[Mentorship\|导师制]]（M）结合时，[[Critical Thinking\|批判性思维]]增益达到最高水平（$g+ = 0.57$），且导师指导发挥了关键的催化功能（$z = 1.98, p = .024$）。从认知学徒制视角看，真实性任务提供了探究情境，对话研讨提供了“阐明与反思”的社交载体，而导师的“示范与辅导”则精准填补了新手面对复杂劣构问题时的认知鸿沟，三者共同构成了完整的认知学徒闭环。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288, 298)]]
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 关键解释边界 |
@@ -108,12 +108,12 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!critique-method] 教学设计与规模化挑战
-> - **专家盲点（Expert Blind Spot）** 资深导师的许多[[Higher-Order Thinking Skills|高阶思维]]已高度自动化，难以完全意识到自身隐性推理步骤，导致示范不够详尽。
+> - **专家盲点（Expert Blind Spot）** 资深导师的许多[[Higher-Order Thinking Skills\|高阶思维]]已高度自动化，难以完全意识到自身隐性推理步骤，导致示范不够详尽。
 > - **高师生比与资源成本** 认知学徒制依赖精准的实时观察与个性化支架撤退，在大班化常规教学中面临规模化落地难度。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，证实真实任务、[[Dialogue in Education|对话]]研讨与导师示范三维协同对[[Critical Thinking|批判性思维]]技能的最强促进效应（$g+ = 0.57$）。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，证实真实任务、[[Dialogue in Education\|对话]]研讨与导师示范三维协同对[[Critical Thinking\|批判性思维]]技能的最强促进效应（$g+ = 0.57$）。

@@ -12,7 +12,7 @@ summary: "教育测量与心理测验中最经典的客观量化题型，由题�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - level/k12
   - level/higher-education
 related_concepts:
+  - "[[STEM Education]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
@@ -42,10 +43,10 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
-related_theories:
-  - "[[Item Response Theory]]"
+related_theories: []
 related_methods:
   - "[[Item Analysis]]"
+  - "[[Item Response Theory]]"
   - "[[Inter-Rater Reliability]]"
 related_instruments: []
 related_persons: []
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-09-22
 ---
 
 # Multiple-Choice Questions
@@ -65,22 +66,22 @@ updated: 2026-08-28
 ## 定义
 
 > [!def] 方法定义
-> 多项选择题（Multiple-Choice Questions, MCQ），亦称选择反应型试题（Selected-Response Items），是教育测量与心理学评估中最广泛应用的客观化量化题型。试题由呈现问题情境的“题干（Stem）”和包含一个正确答案（Key）与若干干扰项（Distractors）的“选项集（Options）”构成；被试只需在预设选项中识别并选出正确答案。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 23–25)]]
+> 多项选择题（Multiple-Choice Questions, MCQ），亦称选择反应型试题（Selected-Response Items），是教育测量与心理学评估中最广泛应用的客观化量化题型。试题由呈现问题情境的“题干（[[STEM Education\|STEM]]）”和包含一个正确答案（Key）与若干干扰项（Distractors）的“选项集（Options）”构成；被试只需在预设选项中识别并选出正确答案。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 23–25)]]
 
 > [!method-scope] 方法范围
 > - **研究与测量对象** 学习者对学科事实、概念原理、程序规则以及特定封闭情境下推理结论的掌握程度。
-> - **问题类型** 适合大规模标准化常模参照或[[Criterion-Referenced Test|标准参照]]测评，回答“被试是否知晓某知识点”或“能否在封闭选项中识别正确推理”。
-> - **[[Unit of Analysis|分析单位]]** 单个题项反应（Item Response）、试卷总分、[[Item Analysis|项目难度]]（$p$ 值）、区分度（$D$ 值）及[[Item Response Theory|项目反应理论]]（IRT）参数。
-> - **输出形式** 客观正误二分[[Variable|变量]]（0/1 计分）、连续总分、标准化量表分与能力参数估计值（$	heta$）。
+> - **问题类型** 适合大规模标准化常模参照或[[Criterion-Referenced Test\|标准参照]]测评，回答“被试是否知晓某知识点”或“能否在封闭选项中识别正确推理”。
+> - **[[Unit of Analysis\|分析单位]]** 单个题项反应（Item Response）、试卷总分、[[Item Analysis\|项目难度]]（$p$ 值）、区分度（$D$ 值）及[[Item Response Theory\|项目反应理论]]（IRT）参数。
+> - **输出形式** 客观正误二分[[Variable\|变量]]（0/1 计分）、连续总分、标准化量表分与能力参数估计值（$	heta$）。
 
 ---
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
+> [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 假定目标知识或逻辑推理存在唯一确定、无歧义的标准答案；知识可被原子化拆解为离散的测试要点。
-> - **测量学优势** 具备绝对客观的机器评分[[Reliability|信度]]（[[Inter-Rater Reliability]] = 1.0）、高抽样内容覆盖度（[[Content Validity|content coverage]]）以及极高的大规模施测成本效益。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 24)]]
-> - **测量学局限与核心危机** 仅能测量“再认（Recognition）”而非“主动生成（Generation）”；测量高阶复杂[[Construct|构念]]时极易引发严重的**构念代表性不足（Construct Underrepresentation）**。[[Argument_Bouckaert_2023_OECD|(Frederiksen, 1984; Shepard, 2000; Bouckaert, 2023, pp. 24–25)]]
+> - **测量学优势** 具备绝对客观的机器评分[[Reliability\|信度]]（[[Inter-Rater Reliability]] = 1.0）、高抽样内容覆盖度（[[Content Validity\|content coverage]]）以及极高的大规模施测成本效益。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]
+> - **测量学局限与核心危机** 仅能测量“再认（Recognition）”而非“主动生成（Generation）”；测量高阶复杂[[Construct\|构念]]时极易引发严重的**构念代表性不足（Construct Underrepresentation）**。[[Argument_Bouckaert_2023_OECD\|(Frederiksen, 1984; Shepard, 2000; Bouckaert, 2023, pp. 24–25)]]
 
 ---
 
@@ -101,16 +102,16 @@ updated: 2026-08-28
 
 > [!debates] 测量学争议焦点
 >
-> > [!axis] 选择题测查[[Higher-Order Thinking Skills|高阶思维]]的三重理论危机
-> > - **“再认”与“生成”的认知鸿沟（The Recognition-Generation Gap）** Frederiksen (1984)、Lane (2004) 与 Shepard (2000) 等大量认知测量学实证表明，能够从四个选项中认出正确答案，并不代表被试在面对现实世界真实劣构问题时具备独立分析、提出[[Hypothesis|假设]]并生成解决方案的能力。[[Argument_Bouckaert_2023_OECD|(Frederiksen, 1984; Lane, 2004; Shepard, 2000; Liu et al., 2014; Bouckaert, 2023, pp. 24–25)]]
-> > - **[[Construct|构念]]代表性不足（Construct Underrepresentation）** 心理测量学将选择题测查[[Creativity|创造力]]或批判思维视为重大效度威胁：由于无法容纳开放性创新观念，选择题测验系统性排除了创造力的核心维度，导致测验分数严重偏离真实能力构念。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 24)]]
-> > - **应试技巧（Test-Wiseness）与负向反拨** 选项线索排除、关键词猜测等应试技巧可能虚假推高分数；高利害选择题统考强力驱动课堂转向机械刷题，从根本上摧毁了[[Constructive Alignment|建构性对齐]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24, 26–27)]]
+> > [!axis] 选择题测查[[Higher-Order Thinking Skills\|高阶思维]]的三重理论危机
+> > - **“再认”与“生成”的认知鸿沟（The Recognition-Generation Gap）** Frederiksen (1984)、Lane (2004) 与 Shepard (2000) 等大量认知测量学实证表明，能够从四个选项中认出正确答案，并不代表被试在面对现实世界真实劣构问题时具备独立分析、提出[[Hypothesis\|假设]]并生成解决方案的能力。[[Argument_Bouckaert_2023_OECD\|(Frederiksen, 1984; Lane, 2004; Shepard, 2000; Liu et al., 2014; Bouckaert, 2023, pp. 24–25)]]
+> > - **[[Construct\|构念]]代表性不足（Construct Underrepresentation）** 心理测量学将选择题测查[[Creativity\|创造力]]或批判思维视为重大效度威胁：由于无法容纳开放性创新观念，选择题测验系统性排除了创造力的核心维度，导致测验分数严重偏离真实能力构念。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]
+> > - **应试技巧（Test-Wiseness）与负向反拨** 选项线索排除、关键词猜测等应试技巧可能虚假推高分数；高利害选择题统考强力驱动课堂转向机械刷题，从根本上摧毁了[[Constructive Alignment\|建构性对齐]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24, 26–27)]]
 
 ---
 
 ## 实证数据与测量学边界
 
-> [!ref-table]- 选择题与其他题型效度与[[Reliability|信度]]实证研究
+> [!ref-table]- 选择题与其他题型效度与[[Reliability\|信度]]实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究[[Document\|文献]] | 考察对象与样本 | 研究设计 | 核心发现与统计结论 | 测量学解释边界 |

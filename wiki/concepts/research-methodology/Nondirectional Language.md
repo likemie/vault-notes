@@ -46,10 +46,10 @@ updated: 2026-09-21
 ## 定义
 
 > [!info]
-> 非方向性语言（nondirectional language）是[[Qualitative Research|质性研究]]中在表述[[Purpose Statement|目的陈述]]和进行访谈时所使用的中立、不暗示结果方向的语言。它与 McCracken (1988) 提出的"非方向性法则"（law of nondirection）紧密相关——[[Qualitative Interview|质性访谈]]者或目的陈述写作者必须让受访者自主描述自己的经验，应使用中立的词语，避免通过措辞暗示研究者期望的结果方向([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.126]])。
+> 非方向性语言（nondirectional language）是[[Qualitative Research\|质性研究]]中在表述[[Purpose Statement\|目的陈述]]和进行访谈时所使用的中立、不暗示结果方向的语言。它与 McCracken (1988) 提出的"非方向性法则"（law of nondirection）紧密相关——[[Qualitative Interview\|质性访谈]]者或目的陈述写作者必须让受访者自主描述自己的经验，应使用中立的词语，避免通过措辞暗示研究者期望的结果方向([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.126]])。
 
 > [!quote]
-> "McCracken (1988) referred to the need in qualitative interviews to let the respondents describe their experiences. Interviewers (or purpose statement writers) can violate easily the 'law of nondirection' (McCracken, 1988, p. 21) in qualitative research by using words that suggest a directional orientation."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.126]])
+> "McCracken (1988) referred to the need in qualitative interviews to let the respondents describe their experiences. Interviewers (or purpose statement writers) can violate easily the 'law of nondirection' (McCracken, 1988, p. 21) in qualitative research by using words that suggest a directional orientation."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.126]])
 
 非方向性语言的核心原则是：研究者在表述研究意图和提出问题时，不预设"好"或"成功"的结果，而是让参与者的经验本身来定义意义。
 
@@ -59,7 +59,7 @@ updated: 2026-09-21
 > **方向性语言 vs 非方向性语言** 方向性语言暗示某种结果优于另一种（如"成功的自我表达""有益的干预效果"）；非方向性语言保持中立（如"自我表达经验""干预的效果"）。两者的区别不在于语法而在于预设——方向性语言已经为研究结果预先划定了"理想方向"。
 
 > [!example]
-> **非方向性语言 vs 中性语言（neutral language）** 两个术语在[[Qualitative Research|质性研究]]方法论[[Document|文献]]中常互换使用，但略有侧重。"非方向性"更强调避免引导受访者走向特定答案；"中性"更强调不加价值判断。在[[Purpose Statement|目的陈述]]写作的语境中，两者指向同一实践原则。
+> **非方向性语言 vs 中性语言（neutral language）** 两个术语在[[Qualitative Research\|质性研究]]方法论[[Document\|文献]]中常互换使用，但略有侧重。"非方向性"更强调避免引导受访者走向特定答案；"中性"更强调不加价值判断。在[[Purpose Statement\|目的陈述]]写作的语境中，两者指向同一实践原则。
 
 ## 核心要素
 
@@ -88,12 +88,12 @@ updated: 2026-09-21
 ## 理论基础
 
 > [!tip]-
-> 非方向性语言的深层理据植根于[[Qualitative Research|质性研究]]的[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]。建构主义认为意义是个体通过与世界的互动建构的，研究者不能将先验的"好/坏"框架强加于参与者的经验之上。非方向性法则正是这一[[Epistemic Stances|认识论立场]]在方法实践层面的[[Operationalization|操作化]]：它要求研究者[[Epoché|悬置]]（bracket）自己的价值预设，让参与者的经验和表述成为意义的直接来源。
+> 非方向性语言的深层理据植根于[[Qualitative Research\|质性研究]]的[[Constructivist Paradigm\|建构主义]][[Epistemology\|认识论]]。建构主义认为意义是个体通过与世界的互动建构的，研究者不能将先验的"好/坏"框架强加于参与者的经验之上。非方向性法则正是这一[[Epistemic Stances\|认识论立场]]在方法实践层面的[[Operationalization\|操作化]]：它要求研究者[[Epoché\|悬置]]（bracket）自己的价值预设，让参与者的经验和表述成为意义的直接来源。
 >
-> 这一原则也与质性研究的**[[Emergent Design|涌现式设计]]（emerging design）**一脉相承——如果研究设计可以在过程中改变和调整，那么在表述[[Research Purpose|研究目的]]时就不应该预设一个固定不变的方向。
+> 这一原则也与质性研究的**[[Emergent Design\|涌现式设计]]（emerging design）**一脉相承——如果研究设计可以在过程中改变和调整，那么在表述[[Research Purpose\|研究目的]]时就不应该预设一个固定不变的方向。
 
 ## 争议与批评
 
 > [!warning]
-> 对非方向性语言的批评主要来自两个方向。一种观点认为，完全中立的语言在现实中不可能实现——研究者选择研究某个现象本身就包含了对该现象"值得研究"的价值判断。另一种观点来自[[Transformative Paradigm|变革主义]]方法论者，他们认为变革性研究应该明确表达倡导方向（如赋权、社会正义），而非假装中立。对此，[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 的立场是：非方向性语言主要适用于[[Purpose Statement|目的陈述]]层面的措辞选择，而非否定研究者的价值立场。
+> 对非方向性语言的批评主要来自两个方向。一种观点认为，完全中立的语言在现实中不可能实现——研究者选择研究某个现象本身就包含了对该现象"值得研究"的价值判断。另一种观点来自[[Transformative Paradigm\|变革主义]]方法论者，他们认为变革性研究应该明确表达倡导方向（如赋权、社会正义），而非假装中立。对此，[[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] 的立场是：非方向性语言主要适用于[[Purpose Statement\|目的陈述]]层面的措辞选择，而非否定研究者的价值立场。
 

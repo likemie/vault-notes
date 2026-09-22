@@ -60,8 +60,8 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
-> 本文并非传统研究论文，而是 Hattie 以第一人称反思教育学者在公共辩论中的角色。核心问题：学者如何以"[[Critic and Conscience of Society|社会的批评者与良知]]"（critic and conscience of society）的身份参与公共政策讨论，同时应对媒体的简化倾向、人身攻击和误读？
+> [!info] [[Research Question\|研究问题]]
+> 本文并非传统研究论文，而是 Hattie 以第一人称反思教育学者在公共辩论中的角色。核心问题：学者如何以"[[Critic and Conscience of Society\|社会的批评者与良知]]"（critic and conscience of society）的身份参与公共政策讨论，同时应对媒体的简化倾向、人身攻击和误读？
 
 ## 理论框架
 
@@ -71,25 +71,25 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：个人经验[[Reflexivity|反思性]]叙述（reflective personal narrative），非实证研究
+> - 方法：个人经验[[Reflexivity\|反思性]]叙述（reflective personal narrative），非实证研究
 > - 案例：以 *[[Visible Learning]]* (2009) 出版后的媒体反应、与政策制定者的互动、以及遭受的各类批评为经验材料
-> - [[Analytic Framework|分析框架]]：以 Alexander (2010) 的四种腐蚀性话语（dichotomy, derision, myth, meaninglessness）分析当代公共批评的特征
+> - [[Analytic Framework\|分析框架]]：以 Alexander (2010) 的四种腐蚀性话语（dichotomy, derision, myth, meaninglessness）分析当代公共批评的特征
 
 ## 核心论证
 
 > [!example] 核心论证
 > 1. **学者参与公共辩论的必要性** 学术期刊固然重要，但其时效性和可及性不足；学者应当利用媒体将学术声音传达给更广泛的公众，但须承受媒体简化复杂性和人身攻击的风险(pp.85–86)
-> 2. **学术批评的原则** 批评应当针对观点而非个人、仔细考量前提与[[Hypothesis|假设]]、旨在拓展而非终结辩论；批评不应提出虚假前提或纠缠细节而忽略主旨(p.87)
-> 3. **VL 遭受的批评多为误读** Hattie 逐一回应了关于研究方法、偏差、研究排除、结果狭隘性、[[Class Size|班级规模]]、[[Performance Pay|绩效工资]]、顾问角色、非黑即白思维、人身攻击和利益冲突的十类批评(pp.88–94)
+> 2. **学术批评的原则** 批评应当针对观点而非个人、仔细考量前提与[[Hypothesis\|假设]]、旨在拓展而非终结辩论；批评不应提出虚假前提或纠缠细节而忽略主旨(p.87)
+> 3. **VL 遭受的批评多为误读** Hattie 逐一回应了关于研究方法、偏差、研究排除、结果狭隘性、[[Class Size\|班级规模]]、[[Performance Pay\|绩效工资]]、顾问角色、非黑即白思维、人身攻击和利益冲突的十类批评(pp.88–94)
 
 ## 主要发现
 
 > [!success] 主要发现
 > ### 对 VL 方法论批评的回应
 >
-> **关于研究质量** Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量[[Meta-analysis|元分析]]明确批评（如学习风格研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题(p.88)。
+> **关于研究质量** Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量[[Meta-analysis\|元分析]]明确批评（如学习风格研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题(p.88)。
 >
-> **关于偏差与[[External Validity|可推广性]]** [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等[[Document|文献]]表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"(p.89)。
+> **关于偏差与[[External Validity\|可推广性]]** [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等[[Document\|文献]]表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"(p.89)。
 >
 > **关于 d=0.40 关节点** Hattie 承认该截断值"perhaps it was arbitrary, but it was certainly not capricious"——这是基于 800+ 元分析的经验平均值，用作理解"高于和低于此效应的共同特征"的叙事工具，而非不可逾越的绝对阈值。书中多处强调不应做非此即彼的截断结论。
 >
@@ -97,15 +97,15 @@ citation_aliases:
 >
 > ### 对特定议题的澄清
 >
-> **[[Class Size|班级规模]]** Hattie 重申 VL 的核心观点——班级缩减确实提高成绩（d≈0.20），但相对于所有可能效应的平均值（d≈0.40），花费数十亿可能不值得。关键发现是教师很少因班级规模变化而改变教学方法，因此"如果政策是缩减班级规模，应该伴随不同的教学"(pp.90–91)。
+> **[[Class Size\|班级规模]]** Hattie 重申 VL 的核心观点——班级缩减确实提高成绩（d≈0.20），但相对于所有可能效应的平均值（d≈0.40），花费数十亿可能不值得。关键发现是教师很少因班级规模变化而改变教学方法，因此"如果政策是缩减班级规模，应该伴随不同的教学"(pp.90–91)。
 >
-> **[[Performance Pay|绩效工资]]** Hattie 澄清其立场并非简单支持绩效工资，而是认为"质疑如何根据专业水平差异付酬是适当和值得的"。教师目前已经按经验差异付酬。虽然完美方案尚未出现，但这应鼓励持续质疑和研究(p.91)。
+> **[[Performance Pay\|绩效工资]]** Hattie 澄清其立场并非简单支持绩效工资，而是认为"质疑如何根据专业水平差异付酬是适当和值得的"。教师目前已经按经验差异付酬。虽然完美方案尚未出现，但这应鼓励持续质疑和研究(p.91)。
 >
-> **非学校因素** Hattie 承认社会经济因素"可能比书中讨论的许多问题更重要"，但他将[[Research Scope|研究范围]]限定在"教育者能控制的因素"，而非否认非学校因素的重要性(pp.89–90)。
+> **非学校因素** Hattie 承认社会经济因素"可能比书中讨论的许多问题更重要"，但他将[[Research Scope\|研究范围]]限定在"教育者能控制的因素"，而非否认非学校因素的重要性(pp.89–90)。
 >
 > ### 政策顾问角色的复杂性
 >
-> Hattie 详细说明了他在[[New Zealand National Standards|新西兰国家标准]]的参与程度：被邀加入技术顾问组但两次会议均未出席（因出国六个月）；新西兰评估学会（NZ Assessment Academy）受教育部邀请对标准的技术层面提供评论——这是众多专家意见之一，部分但非全部建议被采纳。他强调"提供黑与白的答案不是学术批评的性质"(pp.91–93)。同时主张[[Academic Engagement|学术参与]]政策制定是合理的——"作为解决方案的一部分比从旁边批评更难，在我看来两种视角对有价值的社会都至关重要"(p.93)。
+> Hattie 详细说明了他在[[New Zealand National Standards\|新西兰国家标准]]的参与程度：被邀加入技术顾问组但两次会议均未出席（因出国六个月）；新西兰评估学会（NZ Assessment Academy）受教育部邀请对标准的技术层面提供评论——这是众多专家意见之一，部分但非全部建议被采纳。他强调"提供黑与白的答案不是学术批评的性质"(pp.91–93)。同时主张[[Academic Engagement\|学术参与]]政策制定是合理的——"作为解决方案的一部分比从旁边批评更难，在我看来两种视角对有价值的社会都至关重要"(p.93)。
 
 ## 关键引用
 
@@ -125,12 +125,12 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文为第一人称叙事，无法声称[[Value Neutrality|价值中立]]或系统性
-> - 未回应 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 提出的若干技术性方法论批评（如 d=0.40 的统计逻辑、[[Effect Size|效应量]]计算中对研究质量的处理等）
+> - 论文为第一人称叙事，无法声称[[Value Neutrality\|价值中立]]或系统性
+> - 未回应 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 提出的若干技术性方法论批评（如 d=0.40 的统计逻辑、[[Effect Size\|效应量]]计算中对研究质量的处理等）
 > - 对"学术批评应当针对观点而非个人"的强调可能被批评者视为回避实质性方法论问题的修辞策略
-> - Alexander (2010) 在墨尔本课程研讨会上发表，当时尚未正式出版——Hattie 使用尚未正式出版的会议报告作为[[Analytic Framework|分析框架]]
-> - [[Argument_Snook_2010_NZJES|Snook et al. (2010)]] 在同期 NZJES 发表了对此文的再回应（详见 [[Argument_Snook_2010_NZJES]]）
-> - [[Gerald Grace]](2010)在同一卷 NZJES（Vol. 45, No. 2）发表评论文章，以该概念原创者的身份批评 Hattie 混淆了"学术领域的批评者"与"[[Critic and Conscience of Society|社会的批评者与良知]]"两种不同角色（详见 [[Argument_Grace_2010_NZJES]]）
+> - Alexander (2010) 在墨尔本课程研讨会上发表，当时尚未正式出版——Hattie 使用尚未正式出版的会议报告作为[[Analytic Framework\|分析框架]]
+> - [[Argument_Snook_2010_NZJES\|Snook et al. (2010)]] 在同期 NZJES 发表了对此文的再回应（详见 [[Argument_Snook_2010_NZJES]]）
+> - [[Gerald Grace]](2010)在同一卷 NZJES（Vol. 45, No. 2）发表评论文章，以该概念原创者的身份批评 Hattie 混淆了"学术领域的批评者"与"[[Critic and Conscience of Society\|社会的批评者与良知]]"两种不同角色（详见 [[Argument_Grace_2010_NZJES]]）
 
 ## 来源
 

@@ -103,12 +103,12 @@ sources:
 
 ## 概念地图
 
-> [!knowledge-map]- 第13章 [[Concept Mapping|概念地图]]
+> [!knowledge-map]- 第13章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_13_Concept_Map.jpg)
 
 ## 章节内容
 
-> [!logic-map] [[Survey Research|调查研究]]方法的核心知识结构
+> [!logic-map] [[Survey Research\|调查研究]]方法的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["调查研究<br/>Survey Research<br/>14项特征 · 四种分析类型"] --> B["调查规划<br/>3项前提 · 14阶段<br/>4项考虑(Rosier)<br/>预试测 vs 试测"]
@@ -155,15 +155,15 @@ sources:
 
 > [!feature] 14 项特征(Morrison, 1993, p. 38–40)
 > - **一次性收集数据** 因而经济高效
-> - **代表广泛[[Study Population and Sample|目标总体]]** 因此需要谨慎抽样（见[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|第8章]]）
+> - **代表广泛[[Study Population and Sample\|目标总体]]** 因此需要谨慎抽样（见[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|第8章]]）
 > - **产生数值数据**
 > - **提供描述性、推断性和解释性信息**
-> - **操纵关键因素和[[Variable|变量]]** 以得出频数，如登记特定意见或测试分数的人数
+> - **操纵关键因素和[[Variable\|变量]]** 以得出频数，如登记特定意见或测试分数的人数
 > - **收集标准化信息** 对所有参与者使用相同的工具和问题
 > - **确定相关性** 如查明性别与分数之间是否存在任何关系
 > - **呈现不受特定情境因素干扰的材料**
 > - **从多选题、封闭式问题、测试分数或观察表中捕获数据**
-> - **支持或反驳关于目标总体的[[Hypothesis|假设]]**
+> - **支持或反驳关于目标总体的[[Hypothesis\|假设]]**
 > - **通过试测（piloting）和修订生成准确工具**
 > - **对关注对象做出概括并观察回应模式**
 > - **收集可进行统计处理的数据**
@@ -186,10 +186,10 @@ sources:
 ---
 
 > [!claim] 吸引力
-> 调查的吸引力在于在给定参数内的[[External Validity|可推广性]]或普遍性；由大型数据库支持做出陈述的能力；建立对一组发现可信程度的信心（p.259）。
+> 调查的吸引力在于在给定参数内的[[External Validity\|可推广性]]或普遍性；由大型数据库支持做出陈述的能力；建立对一组发现可信程度的信心（p.259）。
 
 > [!boundary] 不适用场景
-> 调查不适合以下情形：关注捕捉地方性、制度性或小规模因素和变量；描绘情境的特殊性、独特性和复杂性、人际动态；解释为何某种情境发生或为何某人表现出特定行为；追踪项目如何随时间变化和发展。调查的解释潜力和细节精细度有限，会被脱离时间、空间和具体情境的宽泛概括所淹没。个体实例被牺牲在聚合回应中，这对受访者具有匿名性、不可追踪性和保密性的吸引力。其吸引力主要建立在[[Positivism|实证主义]]基础之上（pp.259–260）。
+> 调查不适合以下情形：关注捕捉地方性、制度性或小规模因素和变量；描绘情境的特殊性、独特性和复杂性、人际动态；解释为何某种情境发生或为何某人表现出特定行为；追踪项目如何随时间变化和发展。调查的解释潜力和细节精细度有限，会被脱离时间、空间和具体情境的宽泛概括所淹没。个体实例被牺牲在聚合回应中，这对受访者具有匿名性、不可追踪性和保密性的吸引力。其吸引力主要建立在[[Positivism\|实证主义]]基础之上（pp.259–260）。
 
 调查通常依赖大规模数据（问卷、测试分数、出勤率、公共考试结果等），使跨时间或跨群体比较成为可能。小规模调查也可行，但可推广性很弱。调查中研究者通常是明确的外部者（outsider）；在自己受试者上进行调查研究（如参与者是自己正在开设的课程学员，Bimrose & Bayne, 1995; Morrison, 1997）必须附加信度问题。严格关注抽样至关重要，否则调查对更广泛情境的适用性基础将受到严重破坏。追求可推广性时应避免非概率样本；[[Random Sampling|概率抽样]]更容易产生可推广的结论（p.260）。
 
@@ -209,8 +209,8 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 
 第二项前提直接影响抽样和资源的决策。例如，在职需求调查可能将总体界定为"在 拉夫堡大学（Loughborough University） 30 英里半径范围内学校工作的中小学教师"。在这种情况下，总体是可识别的，如果有足够资源接触每个成员，抽样决策就不会出现。但事情很少这么简单（p.261）。
 
-> [!note]- 总体界定的[[Operationalization|操作化]]困难
-> 总体界定的标准通常难以[[Operationalization|操作化]]，如"严重受挑战""成绩不佳""意愿成为教师""高度焦虑"。总体的可及性差异很大：学生和实习教师相对容易调查，吉普赛儿童和校长则更难以捉摸。在大型调查中，研究者通常从总体中抽取样本，很少尝试接触每个成员。
+> [!note]- 总体界定的[[Operationalization\|操作化]]困难
+> 总体界定的标准通常难以[[Operationalization\|操作化]]，如"严重受挑战""成绩不佳""意愿成为教师""高度焦虑"。总体的可及性差异很大：学生和实习教师相对容易调查，吉普赛儿童和校长则更难以捉摸。在大型调查中，研究者通常从总体中抽取样本，很少尝试接触每个成员。
 
 ---
 
@@ -225,7 +225,7 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 两个核心问题：数据由研究者录入还是参与者自填？调查通过何种方式施测（邮寄、电话、互联网、面对面访谈、电子邮件）？
 
 > [!warning] 自报（self-reporting）的三重偏差风险
-> 自报与面对面调查访谈或[[Telephone Interview|电话访谈]]获得的回答可能存在显著差异(Dale, 2006, p. 145)。偏差来源有三：
+> 自报与面对面调查访谈或[[Telephone Interview\|电话访谈]]获得的回答可能存在显著差异(Dale, 2006, p. 145)。偏差来源有三：
 >
 > 1. **低报（under-report）** 回避社会不期望的回答，如青少年低报饮酒、吸烟或药物使用量
 > 2. **高报（over-report）** 给出社会期望的回答，如高报对教师或课程的满意度
@@ -244,11 +244,11 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 Sapsford (1999, p. 34–40)将调查规划归纳为四个主题维度，每个维度对应若干操作阶段。Rosier (1997, p. 154–162)在每步补充了具体操作细目：
 
 > [!dev-timeline] 调查规划的四个维度与 14 阶段(Sapsford, 1999; Rosier, 1997)
-> - **[[Problem Finding|问题界定]]（problem definition）** 决定所需答案的类型和内容、待检验假设与待探索变量。Rosier 在此维度补充了概念框架和操作化的要求。
+> - **[[Problem Finding\|问题界定]]（problem definition）** 决定所需答案的类型和内容、待检验假设与待探索变量。Rosier 在此维度补充了概念框架和操作化的要求。
 >
 >   - 1. 界定目标（define the objectives）
 >   - 2. 决定所需调查类型（纵向、横截面、趋势、队列）
->   - 3. 制定[[Research Question|研究问题]]或假设（[[Null Hypothesis|零假设]]与[[Alternative Hypothesis|备择假设]]）
+>   - 3. 制定[[Research Question\|研究问题]]或假设（[[Null Hypothesis\|零假设]]与[[Alternative Hypothesis\|备择假设]]）
 >   - 4. 确定聚焦议题
 >   - 5. 确定解决议题所需信息
 >
@@ -256,7 +256,7 @@ Sapsford (1999, p. 34–40)将调查规划归纳为四个主题维度，每个�
 >
 >   - 6. 确定所需抽样
 >
-> - **测量设计（design of measurements）** 确定测量内容和方式，明确所需[[Variable|变量]]，确保[[Reliability|信度]]和效度。Rosier 在此维度补充了工具选择与数据类型的详细规格。
+> - **测量设计（design of measurements）** 确定测量内容和方式，明确所需[[Variable\|变量]]，确保[[Reliability\|信度]]和效度。Rosier 在此维度补充了工具选择与数据类型的详细规格。
 >
 >   - 7. 确定所需工具和测量指标（使用什么测量指标，见第20章）
 >   - 8. 生成数据收集工具
@@ -264,7 +264,7 @@ Sapsford (1999, p. 34–40)将调查规划归纳为四个主题维度，每个�
 >   - 10. 试测工具并改进
 >   - 11. 培训访谈员（如适用）
 >
-> - **参与者关怀（concern for participants）** 保护保密性和匿名性，避免对受访者造成痛苦或伤害，避免过度侵入，避免强制，确保[[Informed Consent|知情同意]]。Rosier 在此维度补充了数据实施、分析到报告的完整链条。
+> - **参与者关怀（concern for participants）** 保护保密性和匿名性，避免对受访者造成痛苦或伤害，避免过度侵入，避免强制，确保[[Informed Consent\|知情同意]]。Rosier 在此维度补充了数据实施、分析到报告的完整链条。
 >
 >   - 12. 收集数据
 >   - 13. 分析数据
@@ -293,7 +293,7 @@ Fowler (2009, p. 15)指出受访者给出的答案是**真实回答 + 回答误�
 >   - 未能使用正确的抽样策略
 >   - 系统性偏斜样本（如使用电话目录条目，但贫困者没有电话；或年轻人用手机而中老年人只有固话；或使用互联网调查但许多受访者没有接入）
 > - **问题设计和措辞不当（poor question design and wording）**
->   未能公平地操作化变量（效度问题），或未能准确捕捉受访者观点/意义，即人们可能不理解问题、误解问题或以不同方式解读问题（信度问题）。在[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|第10章]]和第20章进一步讨论。
+>   未能公平地操作化变量（效度问题），或未能准确捕捉受访者观点/意义，即人们可能不理解问题、误解问题或以不同方式解读问题（信度问题）。在[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|第10章]]和第20章进一步讨论。
 > - **不正确或有偏的回应（incorrect or biased responses）**
 >   三种机制导致回应偏离真实值：
 >   - 系统性低报（如青少年饮酒、吸烟或药物使用、未成年性关系、欺凌、家庭暴力、轻微犯罪）
@@ -331,7 +331,7 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 >   *原理：在多个变量上最接近的个案是最佳"捐赠者"。*
 > - **多重插补（multiple imputation）**
 >   生成多个完整数据集（每个缺失值用不同合理值填充），分别分析后综合结果，从而反映插补的不确定性。
->   *原理：单次插补低估了[[Standard Error|标准误]]，多次插补通过结果间的变异来校正。*
+>   *原理：单次插补低估了[[Standard Error\|标准误]]，多次插补通过结果间的变异来校正。*
 > - **分数插补（fractional imputation）**
 >   为每个缺失值生成多个候选值并赋予分数权重，在后续分析中加权使用，避免丢弃任何可能值。
 > - **倾向得分赋权（propensity score weighting）**
@@ -341,7 +341,7 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 > 方法选择取决于分析目的、涉及的变量、数据类型、缺失模式以及插补方法假设的特征和适合性。方法选择进一步取决于无回应是否有可识别的模式：如果无回应在多个变量之间随机分布且无明显模式，问题可能较小；如果是对一个或多个变量的系统性无回应，则更严重(Durrant, 2009, p. 295) (p.265）。
 
 > [!warning] 平均分插补的风险：同质性假设
-> 一些研究者建议对特定题项的无回应者插入该题项的平均分。如果能够证明样本或总体是相当同质性的，这可能是可接受的。但对于[[Heterogeneity|异质性]]总体或样本，或总体变异未知的情况，假设同质性并据此推断缺失数据可能扭曲结果。
+> 一些研究者建议对特定题项的无回应者插入该题项的平均分。如果能够证明样本或总体是相当同质性的，这可能是可接受的。但对于[[Heterogeneity\|异质性]]总体或样本，或总体变异未知的情况，假设同质性并据此推断缺失数据可能扭曲结果。
 
 ---
 
@@ -359,7 +359,7 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 在有些邮寄研究中，回应率可低至 20%–30%，计划样本与实现样本之间存在差距(Fogelman, 2002, p. 105)。Punch (2003, p. 43)建议**为低回应率做计划（如增加[[Sample Size Determination|样本量]]）**而非事后调整。
 
 > [!tip] 提高回应率
-> - **有效策略(Aldridge & Levine, 2001; Fowler, 2009, p. 56)** 跟进与礼貌提醒、提前通知、预付回邮信封、机构背书、经济激励、使调查易读易完成、避免开放式问题、[[Covering Letter|封面信]]说明[[Research Purpose|研究目的]]、亲自递送、确保非评判性和保密性
+> - **有效策略(Aldridge & Levine, 2001; Fowler, 2009, p. 56)** 跟进与礼貌提醒、提前通知、预付回邮信封、机构背书、经济激励、使调查易读易完成、避免开放式问题、[[Covering Letter\|封面信]]说明[[Research Purpose\|研究目的]]、亲自递送、确保非评判性和保密性
 > - **三段跟进(Dillman, 2007)** 10 天后友好提醒 → 再 10 天后二次提醒 → 电话联系；可使 ¼–⅓ 的初始无回应者最终参与(Fowler, 2009, p. 57)
 > - **无效因素(Cooper & Schindler, 2001; Fowler, 2009, p. 58)** 个性化介绍信、匿名承诺、问卷长度/尺寸/颜色
 > - 调查时机需避开学校考试期或特殊时期(Fogelman, 2002, p. 106)
@@ -375,9 +375,9 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 >
 > 1. **概率样本还是非概率样本** 概率样本中每个成员有均等被选概率，支持推广；非概率样本成本低、设置简单，但可推广性受限。Fowler 倡导概率样本，除非有充分理由使用非概率样本（p.45）
 > 2. **推广的意愿以及向谁推广** 是否打算将发现推广到样本之外？目标总体是谁？这决定了抽样策略的严格程度
-> 3. **[[Sampling Frame|抽样框]]（sampling frame）** 有资格被纳入的人员名单或范围。抽样框的质量直接影响样本代表性——如果抽样框遗漏了总体中的某些群体，即使随机抽样也会产生偏倚
-> 4. **样本量（sample size）** Fowler (2009, p. 44)指出 150 人样本描述 15,000 人或 2,500 万人的总体在准确性上大致相同；超过 150–200 人仅带来适度增益。[[Sampling Error|抽样误差]]更多取决于样本量而非样本占总体比例
-> 5. **样本的代表性** 样本是否在关键特征上反映总体？[[Stratified Sampling|分层抽样]]可确保特定子群体按真实比例纳入
+> 3. **[[Sampling Frame\|抽样框]]（sampling frame）** 有资格被纳入的人员名单或范围。抽样框的质量直接影响样本代表性——如果抽样框遗漏了总体中的某些群体，即使随机抽样也会产生偏倚
+> 4. **样本量（sample size）** Fowler (2009, p. 44)指出 150 人样本描述 15,000 人或 2,500 万人的总体在准确性上大致相同；超过 150–200 人仅带来适度增益。[[Sampling Error\|抽样误差]]更多取决于样本量而非样本占总体比例
+> 5. **样本的代表性** 样本是否在关键特征上反映总体？[[Stratified Sampling\|分层抽样]]可确保特定子群体按真实比例纳入
 > 6. **对样本的可及性** 即使抽样设计完美，如果目标受访者无法接触（如吉普赛儿童、校长），样本也无法实现。Punch (2003, p. 43)建议在调查开始前研究可及性
 > 7. **回应率** 低回应率可能导致无回应偏倚，即使初始样本具有代表性。应提前规划提高回应率的措施并预估样本损耗
 
@@ -390,11 +390,11 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 >
 > 替代方案：**过采样少数群体**——为每个男生识别两个女生（200 名男生 + 400 名女生 = 600 人），然后在分析时对女生回应赋予**四分之一（¼）权重**，使有效比例从样本中的 1:2 校正为约 2:1，虽未精确还原总体 4:1，但比未加权更接近真实分布。原文以此例说明**过采样 + 加权**的技术思路（Fowler, 2009, p. 27）（p.266）。
 >
-> 过采样的核心优势：按比例抽样时，小群体的绝对数量往往不足以支撑独立的统计分析；过采样使小群体获得足够的分析样本量，通过事后加权恢复总体代表性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|第8章]]进一步指出，对于极小总体子群，加权抽样是标准做法（p.148），加权与否甚至可以逆转研究结论（pp.152–153）。
+> 过采样的核心优势：按比例抽样时，小群体的绝对数量往往不足以支撑独立的统计分析；过采样使小群体获得足够的分析样本量，通过事后加权恢复总体代表性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|第8章]]进一步指出，对于极小总体子群，加权抽样是标准做法（p.148），加权与否甚至可以逆转研究结论（pp.152–153）。
 
 ---
 
-> [!case] [[Multi-phase Sampling|多阶段抽样]]中的成本-信度权衡：1,000 名生物学生
+> [!case] [[Multi-phase Sampling\|多阶段抽样]]中的成本-信度权衡：1,000 名生物学生
 > 考虑从城市 10,000 名生物学生总体中调查 1,000 名学生的实例。第一阶段识别 10 所学校(A)→ 识别年龄组(B)→ 识别该组中学习生物的个体(C)→ 从该组中抽取样本(D)。目的是达到(D)，但需要一系列步骤才能到达。
 >
 > 研究者有三种抽样方案（p.267）：
@@ -410,7 +410,7 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 ---
 
 > [!claim] 样本量与精度：Fowler 的反直觉发现
-> Fowler (2009, p. 44)指出：**150 人的样本结果将以大致相同的准确度描述 15,000 人或 2,500 万人的总体**。超过 150 或 200 人的样本仅对数据精度产生适度增益（p.45）。原因在于[[Sampling Error|抽样误差]]取决于样本量 $N$ 而非样本占总体的比例——[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08#概率样本量的公式法与表格法|第8章 §8.2]]中的 Krejcie & Morgan 公式揭示了原因：
+> Fowler (2009, p. 44)指出：**150 人的样本结果将以大致相同的准确度描述 15,000 人或 2,500 万人的总体**。超过 150 或 200 人的样本仅对数据精度产生适度增益（p.45）。原因在于[[Sampling Error\|抽样误差]]取决于样本量 $N$ 而非样本占总体的比例——[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08#概率样本量的公式法与表格法\|第8章 §8.2]]中的 Krejcie & Morgan 公式揭示了原因：
 
 > [!formula] Krejcie & Morgan（1970）：有限总体比例样本量
 > $$n = \frac{N \cdot Z^2 \cdot p(1-p)}{(N-1) \cdot e^2 + Z^2 \cdot p(1-p)}$$
@@ -441,7 +441,7 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 
 纵向研究使研究者能够：分析社会现象的持续时间(Ruspini, 2002, p. 24)；突出一个或多个变量或参与者在时间上的相似性、差异和变化（个体内和个体间）；识别长期（"潜伏"，sleeper）效应；通过稳定特征（如性别）或可变特征（如收入）解释变化（p.268）。
 
-> [!claim] 纵向研究的核心[[Epistemology|认识论]]优势
+> [!claim] 纵向研究的核心[[Epistemology\|认识论]]优势
 > 纵向研究的吸引力在于其能够**建立因果关系和进行推断**。Ruspini (2002, p. 26)补充：纵向研究能够"构建比纯粹的横截面或时间序列数据更复杂的行为模型"，它们捕捉了人类行为的复杂性。纵向研究可以结合数值数据和质性数据。
 
 纵向研究按数据收集方向分为前瞻性与回溯性两大类，其中前瞻性又包含[[Cohort Study|队列研究]]和[[Trend Study|趋势研究]]两种子类型：
@@ -485,7 +485,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > - **建立因果关系和进行推断**
 > - **个体层面分析** 能够提供关于个体行为动态和决定因素的满意答案(Ruspini, 2002, p. 71)；横截面设计（即使是重复横截面设计）则不适合研究队列内的发展模式和因果关系
 > - **构建更复杂的行为模型** 比纯粹的横截面或时间序列数据更为精细(Ruspini, 2002, p. 26)
-> - **时间序列观察[[Emergence|涌现]]模式** 允许检查个体和群体概貌在时间上的相似性和差异
+> - **时间序列观察[[Emergence\|涌现]]模式** 允许检查个体和群体概貌在时间上的相似性和差异
 > - **结合数值和质性数据** 不限于单一数据类型
 
 > [!weakness] 纵向研究的七项局限
@@ -508,7 +508,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > 1. **信息的时效性** 态度或潜在能力评估等信息只有在当时收集才有意义。其他类型，如学校教育年限、工作经历、地理迁移，在纵向调查过程中收集更完整或更准确（尽管回溯性收集也有一定价值）。
 > 2. **无信息重复** 队列研究中不会出现信息重复，而横截面研究每次都需要收集相同类型的背景信息，增加访谈成本。
 > 3. **变量遗漏的可补救性** 横截面研究中遗漏哪怕一个后来发现重要的变量都是灾难，而队列研究中通常可以在后续访谈中填补这一缺口，即使只是部分填补。
-> 4. **更大规模的变量积累** 比横截面研究可能积累数量多得多的变量，跨越更广泛的[[Areas of Knowledge|知识领域]]，因为收集可以分散在多次访谈中。信息可在最适当的时间获取，如工作进入信息可在发生时获取，即使这因样本成员而异。
+> 4. **更大规模的变量积累** 比横截面研究可能积累数量多得多的变量，跨越更广泛的[[Areas of Knowledge\|知识领域]]，因为收集可以分散在多次访谈中。信息可在最适当的时间获取，如工作进入信息可在发生时获取，即使这因样本成员而异。
 > 5. **抽样优势** 从出生队列开始消除后期抽样问题，允许广泛使用子样本，简化偏倚和信度的估计问题。
 > 6. **因果分析优势** 纵向研究没有因果分析的一个主要障碍，即对记忆信息的重新解释以使其符合关于因果关系的传统观点。也为评估效应的方向提供了手段。
 >
@@ -539,7 +539,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 横截面研究产生总体在特定时间点的"快照"。典型代表是全国人口普查：不同年龄、职业、教育和收入水平、居住在全国不同地区的代表性样本在同一天接受访谈。在教育中更典型的是，横截面研究涉及间接测量从代表性年龄层次抽取的儿童样本在身体和智力发展方面的变化性质和速率（p.268）。
 
 > [!case] 横截面研究的纵向特征：平行年龄组
-> 在单一时间点抽取 5、7、9 和 11 岁的学生，在可以看到各年龄组发展的意义上具有纵向研究的某些特征。但它不如对同一组年龄群体随时间进行纵向研究具有同样的权重。这适用于[[International Education|国际教育]]成就研究（如 [[PISA]]、[[TIMSS|国际数学与科学趋势研究]]（TIMSS））：需要从同一总体中抽取样本(Lietz & Keeves, 1997, p. 122)，并需要可能影响因变量变化的因素在各年龄组之间保持恒定。
+> 在单一时间点抽取 5、7、9 和 11 岁的学生，在可以看到各年龄组发展的意义上具有纵向研究的某些特征。但它不如对同一组年龄群体随时间进行纵向研究具有同样的权重。这适用于[[International Education\|国际教育]]成就研究（如 [[PISA]]、[[TIMSS\|国际数学与科学趋势研究]]（TIMSS））：需要从同一总体中抽取样本(Lietz & Keeves, 1997, p. 122)，并需要可能影响因变量变化的因素在各年龄组之间保持恒定。
 >
 > 然而，横截面研究捕捉**冻结时刻的快照**，可能对研究变化无效。如果要通过横截面调查处理变化，则需要**重复应用调查**或使用**趋势分析（p.269）**。
 
@@ -563,7 +563,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 #### 趋势研究
 
 > [!def] 趋势研究的运作机制
-> 趋势研究关注**因素而非人群**，持续研究这些因素随时间的变化。在数据收集的每个阶段抽取**新样本**，但聚焦**相同因素**。每次抽取不同样本可以避免**反应性（reactivity）**问题：在追踪同一批人的纵向研究中，首次调查本身可能改变参与者的认知或行为——例如健康调查提醒了吸烟的危害，使受访者在第二轮前主动戒烟，此时记录的变化是调查"制造"的而非自然发生的（即[[Pre-test Sensitisation|预试敏感化]]，pre-test sensitisation）。趋势研究通过每轮更换样本切断了这种"自我污染"的链条，每一轮的数据都来自对调查主题完全新鲜的受访者（p.269）。
+> 趋势研究关注**因素而非人群**，持续研究这些因素随时间的变化。在数据收集的每个阶段抽取**新样本**，但聚焦**相同因素**。每次抽取不同样本可以避免**反应性（reactivity）**问题：在追踪同一批人的纵向研究中，首次调查本身可能改变参与者的认知或行为——例如健康调查提醒了吸烟的危害，使受访者在第二轮前主动戒烟，此时记录的变化是调查"制造"的而非自然发生的（即[[Pre-test Sensitisation\|预试敏感化]]，pre-test sensitisation）。趋势研究通过每轮更换样本切断了这种"自我污染"的链条，每一轮的数据都来自对调查主题完全新鲜的受访者（p.269）。
 
 趋势或预测研究对教育管理者或规划者具有明显的重要性。趋势研究检查已记录的数据以建立已发生的变化模式，从而预测未来可能发生的情况。在趋势研究中，两项或更多横截面研究在多个时间点对相同年龄组进行，以便进行跨时间比较，如美国学术能力与成就测试（Scholastic Aptitude and Achievement tests）(Keeves, 1997a, p. 141)和美国国家教育进展评估（National Assessment of Educational Progress，NAEP）结果(Lietz & Keeves, 1997, p. 122)。
 
@@ -583,7 +583,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > [!example]- 表 13.2：纵向、横截面、趋势分析和回溯性纵向研究的特征、优势与弱点
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_13-2_Characteristics_Strengths_and_Weaknesses.jpg)
 >
-> 该表汇总了四种研究设计在特征、优势和弱点维度的系统比较（pp.272–273，另见 Rose & Sullivan, 1993, p. 184–188）。回溯性纵向研究的若干优势与弱点与第15章讨论的[[Ex Post Facto Research|事后回溯研究]]（ex POST facto research）共享相同特征。
+> 该表汇总了四种研究设计在特征、优势和弱点维度的系统比较（pp.272–273，另见 Rose & Sullivan, 1993, p. 184–188）。回溯性纵向研究的若干优势与弱点与第15章讨论的[[Ex Post Facto Research\|事后回溯研究]]（ex POST facto research）共享相同特征。
 
 ---
 
@@ -614,7 +614,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > [!strength] 互联网调查的核心优势
 > - **成本低、速度快**，数据可在受访者输入时自动处理
 > - **可触及广泛和多样化的人群**，不受地理限制
-> - **减少研究者效应**，匿名性可能提高[[Sensitive Questions|敏感问题]]的真实性
+> - **减少研究者效应**，匿名性可能提高[[Sensitive Questions\|敏感问题]]的真实性
 > - **软件可自动检查遗漏和不一致**，缺失条目少于纸笔调查
 
 > [!weakness] 互联网调查的持续挑战
@@ -669,28 +669,28 @@ Aldridge & Levine (2001, p. 51–54)和 Fowler (2009, p. 80–83)提供了多种
 
 ## 关键引用
 
-> [!citation-card]- 调查的[[External Validity|可推广性]]与根本边界
-> 调查的吸引力在于其在给定参数内的可推广性或普遍性、由大型数据库支持做出陈述的能力，以及建立对一组发现可信程度的信心。另一方面，如果研究者关注捕捉地方性、制度性或小规模因素和[[Variable|变量]]，即描绘情境的特殊性、独特性和复杂性、人际动态，则调查方法可能并不适合。其解释潜力和细节精细度有限；它会牺牲在不受时间、空间或地方情境影响的概括性推广中。个体实例被牺牲在聚合回应中。（第13章，p.259）
+> [!citation-card]- 调查的[[External Validity\|可推广性]]与根本边界
+> 调查的吸引力在于其在给定参数内的可推广性或普遍性、由大型数据库支持做出陈述的能力，以及建立对一组发现可信程度的信心。另一方面，如果研究者关注捕捉地方性、制度性或小规模因素和[[Variable\|变量]]，即描绘情境的特殊性、独特性和复杂性、人际动态，则调查方法可能并不适合。其解释潜力和细节精细度有限；它会牺牲在不受时间、空间或地方情境影响的概括性推广中。个体实例被牺牲在聚合回应中。（第13章，p.259）
 >
-> *The attractions of a survey lie in its appeal to [[External Validity|generalizability]] or universality within given parameters, its ability to make statements which are supported by large data banks and its ability to establish the degree of confidence which can be placed in a set of findings. On the other hand, if a researcher is concerned to catch local, institutional or small-scale factors and variables... then a survey approach is probably unsuitable. Its degree of explanatory potential or fine detail is limited; it is lost to broad brush generalizations which are free of temporal, spatial or local contexts. The individual instance is sacrificed to the aggregated response.*
+> *The attractions of a survey lie in its appeal to [[External Validity\|generalizability]] or universality within given parameters, its ability to make statements which are supported by large data banks and its ability to establish the degree of confidence which can be placed in a set of findings. On the other hand, if a researcher is concerned to catch local, institutional or small-scale factors and variables... then a survey approach is probably unsuitable. Its degree of explanatory potential or fine detail is limited; it is lost to broad brush generalizations which are free of temporal, spatial or local contexts. The individual instance is sacrificed to the aggregated response.*
 
 > [!citation-card]- 无回应者的系统性差异
-> 无回应者几乎总是与回应者不同。这影响了所获回应及其分析的效度和[[Reliability|信度]]。（第13章，p.265）
+> 无回应者几乎总是与回应者不同。这影响了所获回应及其分析的效度和[[Reliability\|信度]]。（第13章，p.265）
 >
 > *Non-respondents almost invariably differ from respondents, and this affects the validity and reliability of the responses obtained, and their analysis.* (Dale, 2006, p. 148)
 
-> [!citation-card]- [[Sample Size Determination|样本量]]与精度的反直觉关系
-> 150 人的样本结果将以大致相同的准确度描述 15,000 人或 2,500 万人的总体。超过 150 或 200 人的样本可能仅对数据精度产生适度增益。[[Sampling Error|抽样误差]]更多是样本量的函数，而非样本占总体比例的函数。（第13章，p.267）
+> [!citation-card]- [[Sample Size Determination\|样本量]]与精度的反直觉关系
+> 150 人的样本结果将以大致相同的准确度描述 15,000 人或 2,500 万人的总体。超过 150 或 200 人的样本可能仅对数据精度产生适度增益。[[Sampling Error\|抽样误差]]更多是样本量的函数，而非样本占总体比例的函数。（第13章，p.267）
 >
 > *The results of a sample of 150 people will describe a population of 15,000 or 25 million with more or less the same degree of accuracy. Samples of more than 150 or 200 may not yield more than modest gains to the precision of the data. Sampling errors are more a function of sample size than of the proportions of the sample to the population.* (Fowler, 2009, p. 44–45)
 
 > [!citation-card]- Box 13.1：Douglas (1976)的六项辩护
-> [[Cohort Study|队列研究]]相对横截面设计有六项核心优势：信息时效性、无信息重复、变量遗漏的可补救性、更大规模的变量积累、从出生队列开始的抽样优势，以及克服因果分析的主要障碍（对记忆信息的重新解释以使其符合传统因果观点）。（第13章，Box 13.1, p.273）
+> [[Cohort Study\|队列研究]]相对横截面设计有六项核心优势：信息时效性、无信息重复、变量遗漏的可补救性、更大规模的变量积累、从出生队列开始的抽样优势，以及克服因果分析的主要障碍（对记忆信息的重新解释以使其符合传统因果观点）。（第13章，Box 13.1, p.273）
 >
-> *Some types of information are only meaningful if collected contemporaneously. The omission of even a single variable, later found to be important, from a [[Cross-sectional Study]] is a disaster, whereas it is usually possible in a cohort study to fill the gap. Longitudinal studies are free of one of the major obstacles to causal analysis, namely the reinterpretation of remembered information so that it conforms with conventional views on [[Causality|causation]].*
+> *Some types of information are only meaningful if collected contemporaneously. The omission of even a single variable, later found to be important, from a [[Cross-sectional Study]] is a disaster, whereas it is usually possible in a cohort study to fill the gap. Longitudinal studies are free of one of the major obstacles to causal analysis, namely the reinterpretation of remembered information so that it conforms with conventional views on [[Causality\|causation]].*
 
 > [!citation-card]- 调查规划的精确性标准
-> 一项严格的调查制定清晰、具体的目标和[[Research Question|研究问题]]，确保工具、抽样和数据类型适合为研究问题提供答案，并确保数据分析的复杂性达到数据能够支撑的最高水平（但不要更高）。（第13章，p.264）
+> 一项严格的调查制定清晰、具体的目标和[[Research Question\|研究问题]]，确保工具、抽样和数据类型适合为研究问题提供答案，并确保数据分析的复杂性达到数据能够支撑的最高水平（但不要更高）。（第13章，p.264）
 >
 > *A rigorous survey formulates clear, specific objectives and research questions, ensures that the instrumentation, sampling and data types are appropriate to yield answers to the research questions, ensures that as high a level of sophistication of data analysis is undertaken as the data will sustain (but no more!).*
 

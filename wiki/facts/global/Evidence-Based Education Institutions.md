@@ -74,11 +74,11 @@ updated: 2026-09-13
 
 ## 背景
 
-> [!event-context] [[Evidence-Based Education|循证教育]]的制度化
+> [!event-context] [[Evidence-Based Education\|循证教育]]的制度化
 > - **时间地点** 1990 年代从医学领域发端，2000 年代在英美两国率先制度化，2010 年代后扩散至全球
 > - **关键主体** Cochrane 协作网、[[Campbell Collaboration]]、[[EPPI-Centre]]、[[What Works Clearinghouse]]、[[Education Endowment Foundation]]、各国政府研究与资助机构
 > - **制度背景** 对"什么有效"（what works）议程的制度化回应，循证实践从临床医学向教育和社会政策领域扩散
-> - **触发条件** 教育研究与政策实践之间的系统性脱节；政策制定者对可操作证据的需求；[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial，RCT）与[[Systematic Review|系统综述]]方法论的成熟
+> - **触发条件** 教育研究与政策实践之间的系统性脱节；政策制定者对可操作证据的需求；[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial，RCT）与[[Systematic Review\|系统综述]]方法论的成熟
 
 以下汇总[[Evidence-Based Education|循证教育]]运动在全球范围内建立的制度基础设施，按功能类型分组。这些机构在[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]中首次被系统列举，在此后二十余年中经历了扩展、重组或关闭。
 
@@ -86,11 +86,11 @@ updated: 2026-09-13
 
 ## 发展历程
 
-> [!phase] [[Evidence-Based Education|循证教育]]机构的代际演进
+> [!phase] [[Evidence-Based Education\|循证教育]]机构的代际演进
 >
 > - **第一代（1990 年代）：从医学到教育的制度迁移**
 >
->   Cochrane 协作网（1993 年）将[[Systematic Review|系统综述]]制度化为医学证据综合的标准方法。其后循证实践扩散至社会政策与教育，[[EPPI-Centre]]（1995 年）和 [[Campbell Collaboration]]（2000 年）先后成立，成为教育和社会科学领域的对应机构。这一阶段以系统综述方法论为驱动、以大学为依托的学术中心模式为核心特征（pp.336–338）。
+>   Cochrane 协作网（1993 年）将[[Systematic Review\|系统综述]]制度化为医学证据综合的标准方法。其后循证实践扩散至社会政策与教育，[[EPPI-Centre]]（1995 年）和 [[Campbell Collaboration]]（2000 年）先后成立，成为教育和社会科学领域的对应机构。这一阶段以系统综述方法论为驱动、以大学为依托的学术中心模式为核心特征（pp.336–338）。
 >
 > - **第二代（2000 年代）：政府主导的清算中心与政策工具**
 >
@@ -102,14 +102,14 @@ updated: 2026-09-13
 >
 > - **第四代（2020 年代）：国际扩散与制度重组**
 >
->   澳大利亚、瑞典、荷兰等国建立[[Going Native|本土化]]清算中心。英国的 ESRC 并入国家科研与创新署（UK Research and Innovation，UKRI），DCSF 改组为教育部（Department for Education，DfE），部分早期机构（[[Evidence Network]]、[[Research Informed Practice Site]]）随行政改革消失。美国 [[What Works Clearinghouse]] 于 2025 年 2 月因联邦合同取消停止新审阅。这一阶段的特征是国际扩散与早期机构的新陈代谢并存。
+>   澳大利亚、瑞典、荷兰等国建立[[Going Native\|本土化]]清算中心。英国的 ESRC 并入国家科研与创新署（UK Research and Innovation，UKRI），DCSF 改组为教育部（Department for Education，DfE），部分早期机构（[[Evidence Network]]、[[Research Informed Practice Site]]）随行政改革消失。美国 [[What Works Clearinghouse]] 于 2025 年 2 月因联邦合同取消停止新审阅。这一阶段的特征是国际扩散与早期机构的新陈代谢并存。
 
 
 ## 证据清算中心
 
 对教育[[Intervention Research|干预研究]]进行系统性审查、评级和推荐的机构：
 
-> [!ref-table] 国际[[Educational Evidence Clearinghouses|证据清算中心]]
+> [!ref-table] 国际[[Educational Evidence Clearinghouses\|证据清算中心]]
 > | 机构 | 简介 |
 > |---|---|
 > | [有效教学策略网](https://ies.ed.gov/ncee/wwc/) [[What Works Clearinghouse]] | 美国教育部教育科学研究所旗下的[[Educational Evidence Clearinghouses\|教育证据清算中心]]，对教育干预研究进行系统审查与评级；2025 年 2 月因联邦合同取消停止新审阅 |
@@ -171,9 +171,9 @@ updated: 2026-09-13
 
 ## 影响与评价
 
-> [!finding-cards] [[Evidence-Based Education|循证教育]]机构格局的三条主线
-> 1. **重心转移：从方法论驱动到实践驱动** 早期以 [[EPPI-Centre]] 的[[Systematic Review|系统综述]]方法论为引擎，中期以 [[What Works Clearinghouse|WWC]] 和 [[Education Endowment Foundation|EEF]] 的政策工具为推手，后期以 [[ResearchED]] 为代表的教师草根运动将证据拉回课堂。驱动力从学术方法论逐步转向政策需求、再转向一线实践者。
-> 2. **地理扩散：从英美中心到全球多中心** 2010 年代后澳大利亚、瑞典、荷兰、中国等国纷纷建立[[Going Native|本土化]][[Educational Evidence Clearinghouses|证据清算中心]]与研究机构，循证教育不再仅限于英语发达国家。但美国与英国仍然是机构密度和影响力最高的两个中心。
+> [!finding-cards] [[Evidence-Based Education\|循证教育]]机构格局的三条主线
+> 1. **重心转移：从方法论驱动到实践驱动** 早期以 [[EPPI-Centre]] 的[[Systematic Review\|系统综述]]方法论为引擎，中期以 [[What Works Clearinghouse\|WWC]] 和 [[Education Endowment Foundation\|EEF]] 的政策工具为推手，后期以 [[ResearchED]] 为代表的教师草根运动将证据拉回课堂。驱动力从学术方法论逐步转向政策需求、再转向一线实践者。
+> 2. **地理扩散：从英美中心到全球多中心** 2010 年代后澳大利亚、瑞典、荷兰、中国等国纷纷建立[[Going Native\|本土化]][[Educational Evidence Clearinghouses\|证据清算中心]]与研究机构，循证教育不再仅限于英语发达国家。但美国与英国仍然是机构密度和影响力最高的两个中心。
 > 3. **制度脆弱性：拨款依赖与行政连续性** 近半数英国早期机构（UK CBEP、[[Evidence Network]]、[[Research Informed Practice Site]]）已关闭或整合，美国 WWC 在 2025 年突然停摆。循证教育制度基础设施高度依赖政府拨款和行政连续性，其长期可持续性仍是一个开放问题。
 
 

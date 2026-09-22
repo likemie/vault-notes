@@ -39,17 +39,17 @@ updated: 2026-09-08
 ## 核心主张
 
 > [!tip]-
-> 可行能力路径（capability approach）由 Amartya Sen 在 1980–1990 年代发展，最初作为对功利主义福利经济学的替代框架。其核心主张是：发展的目标不应仅以资源占有或效用满足来衡量，而应以扩展人们"实际享有的自由"（real freedoms that people enjoy）为根本评价标准——即一个人"能够做什么、成为什么"（functionings and capabilities），而非仅仅"拥有什么"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.128]])。
+> 可行能力路径（capability approach）由 Amartya Sen 在 1980–1990 年代发展，最初作为对功利主义福利经济学的替代框架。其核心主张是：发展的目标不应仅以资源占有或效用满足来衡量，而应以扩展人们"实际享有的自由"（real freedoms that people enjoy）为根本评价标准——即一个人"能够做什么、成为什么"（functionings and capabilities），而非仅仅"拥有什么"([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.128]])。
 
 > [!example]
-> 在教育语境中，这意味着问的不是"教育让毕业生赚了多少钱"，而是"教育以哪些不同的方式扩展了一个人的自由"——包括但不限于：能否独立思考、能否参与公共事务、能否在社会中获得尊重和公平对待。[[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] 正是以此为概念基础，构建了批判全球排名的多维使命模型（pp.128–130）。
+> 在教育语境中，这意味着问的不是"教育让毕业生赚了多少钱"，而是"教育以哪些不同的方式扩展了一个人的自由"——包括但不限于：能否独立思考、能否参与公共事务、能否在社会中获得尊重和公平对待。[[Argument_Boyadjieva_2022_Springer\|Boyadjieva (2022)]] 正是以此为概念基础，构建了批判全球排名的多维使命模型（pp.128–130）。
 
 ---
 
 ## 核心命题
 
 > [!abstract]
-> Drèze & Sen（2002, pp.38–40）在讨论印度的发展与参与问题时，区分了教育对个人自由的五种价值类型([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.128]])：
+> Drèze & Sen（2002, pp.38–40）在讨论印度的发展与参与问题时，区分了教育对个人自由的五种价值类型([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.128]])：
 
 - **内在重要性（intrinsic importance）** 受教育本身就是一种自由和能力的扩展——读书、思考、获得知识这件事本身就是有意义的，不需要"有什么用"来证明。例如，一个学生在修哲学通识课时发现，思考"什么是公正"本身就让他感到充实——这与能不能写在简历上无关。
 - **工具性个人角色（instrumental personal roles）** 教育帮助个人获得更好的就业机会和收入——这是最常被讨论的"用处"。例如，一个学生上大学是为了拿到计算机学位，毕业后进大厂拿高薪。
@@ -78,7 +78,7 @@ updated: 2026-09-08
 ## 相关研究
 
 > [!example]
-> - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] — 以五种教育价值为基础构建 2×3 多维使命模型，系统批判[[Global Universities Rankings|全球大学排名]]对高等教育使命多样性的忽视。
+> - [[Argument_Boyadjieva_2022_Springer\|Boyadjieva (2022)]] — 以五种教育价值为基础构建 2×3 多维使命模型，系统批判[[Global Universities Rankings\|全球大学排名]]对高等教育使命多样性的忽视。
 
 ---
 

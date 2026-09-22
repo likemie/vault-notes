@@ -45,16 +45,16 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 个例式（idiographic）是以理解和解释独特个体案例为目标的方法论取向。研究聚焦于个体如何创造、修改和解释他们所置身的世界，兼顾量化和质性；核心关注是解释和理解独特的、个别的情况，而非一般的、普遍的情况（Burrell & Morgan, 1979; Kirk & Miller, 1986, p. 14）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+> 个例式（idiographic）是以理解和解释独特个体案例为目标的方法论取向。研究聚焦于个体如何创造、修改和解释他们所置身的世界，兼顾量化和质性；核心关注是解释和理解独特的、个别的情况，而非一般的、普遍的情况（Burrell & Morgan, 1979; Kirk & Miller, 1986, p. 14）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 把独特个体与其情境作为分析核心，重视意义、语言与主观诠释。
-> - **用途** 支撑[[Qualitative Research|质性研究]]、[[Case Study|案例研究]]、生命史与[[Narrative Analysis|叙事分析]]。
+> - **用途** 支撑[[Qualitative Research\|质性研究]]、[[Case Study\|案例研究]]、生命史与[[Narrative Analysis\|叙事分析]]。
 > - **边界** 不以发现可推广的普遍法则为目的，结论的普适性有限。
 
 ## 概念辨析
 
-> [!contrast-table] 个例式 vs [[Nomothetic|通则式]]
+> [!contrast-table] 个例式 vs [[Nomothetic\|通则式]]
 > | 维度 | 个例式（idiographic） | [[Nomothetic\|通则式]]（nomothetic） |
 > |---|---|---|
 > | 目标 | 理解独特个体案例 | 发现普遍法则 |
@@ -72,16 +72,16 @@ updated: 2026-09-17
 > - **理解独特案例** 以理解和解释独特的、个别的情况为核心关注。
 > - **意义与语言** 通过语言和意义的分析呈现现实以便比较（Burrell & Morgan, 1979）。
 > - **兼顾量质** 既可用量化也可用质性手段。
-> - **个例式数据分析** 质性数据可分析其个例式属性，即个体、独特的事件、人、行为、情境、行动与意图；以生命史、[[Case Study|案例研究]]、个体传记与叙事为代表。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> - **个例式数据分析** 质性数据可分析其个例式属性，即个体、独特的事件、人、行为、情境、行动与意图；以生命史、[[Case Study\|案例研究]]、个体传记与叙事为代表。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1979 — 方法论维度区分** Burrell & Morgan 将个例式与[[Nomothetic|通则式]]列为社会研究方法论的两极之一，作为其四组[[Hypothesis|假设]]推导链的方法论终点：[[Nominalism|唯名论]][[Ontology|本体论]]、[[Interpretive Paradigm|反实证主义]][[Epistemology|认识论]]、意志论人性假设通向个例式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+> - **1979 — 方法论维度区分** Burrell & Morgan 将个例式与[[Nomothetic\|通则式]]列为社会研究方法论的两极之一，作为其四组[[Hypothesis\|假设]]推导链的方法论终点：[[Nominalism\|唯名论]][[Ontology\|本体论]]、[[Interpretive Paradigm\|反实证主义]][[Epistemology\|认识论]]、意志论人性假设通向个例式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
 > - **1986 — 方法论定位** Kirk & Miller（1986, p. 14）延续这一区分，强调个例式关注对独特情况的理解与解释。
-> - **2011 — 质性数据分析中的应用** 个例式数据分析以生命史、[[Case Study|案例研究]]、个体传记与叙事为代表。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> - **2011 — 质性数据分析中的应用** 个例式数据分析以生命史、[[Case Study\|案例研究]]、个体传记与叙事为代表。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐释个例式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan [[Hypothesis|假设]]推导链的方法论终点（Ch. 1），并在质性分析中阐明针对个体意图、独特性情境与叙事生命的分析路径（Ch. 28）。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统阐释个例式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan [[Hypothesis\|假设]]推导链的方法论终点（Ch. 1），并在质性分析中阐明针对个体意图、独特性情境与叙事生命的分析路径（Ch. 28）。

@@ -33,7 +33,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> 叙事钩子（Narrative Hook）是学术引言中用于吸引、抓住或"钩住"读者的开篇语句。它借用了英语写作（English composition）中的概念，指那些让读者产生阅读兴趣、进而继续阅读全文的最初几句话（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
+> 叙事钩子（Narrative Hook）是学术引言中用于吸引、抓住或"钩住"读者的开篇语句。它借用了英语写作（English composition）中的概念，指那些让读者产生阅读兴趣、进而继续阅读全文的最初几句话（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
 
 叙事钩子的核心功能是双重的：(a) 激发读者对研究的兴趣，(b) 传达一个明确的[[Research Question|研究问题]]或议题。好的叙事钩子能让广泛受众理解[[Research Topic|研究主题]]，同时避免将读者直接抛入陌生的细节之中。
 
@@ -75,10 +75,10 @@ Creswell & Creswell（2022, 第5章）提供了两个来自社会科学期刊的
 >
 > 这个示例通过提出一个问题来创造读者兴趣，信息容易被广泛读者理解。
 
-> [!example] 以[[Document|文献]]视角开篇
-> "There is a large body of literature that studies the cartographic line (a recent summary article is Butte in [[Champ|field]], 1985), and generalization of cartographic lines (McMaster, 1987)."（Carstensen, 1989, p.181）
+> [!example] 以[[Document\|文献]]视角开篇
+> "There is a large body of literature that studies the cartographic line (a recent summary article is Butte in [[Champ\|field]], 1985), and generalization of cartographic lines (McMaster, 1987)."（Carstensen, 1989, p.181）
 >
-> 这个来自量化—[[Experimental Research|实验研究]]的示例，以文献视角开始讨论[[Research Question|研究问题]]。
+> 这个来自量化—[[Experimental Research\|实验研究]]的示例，以文献视角开始讨论[[Research Question\|研究问题]]。
 
 ---
 

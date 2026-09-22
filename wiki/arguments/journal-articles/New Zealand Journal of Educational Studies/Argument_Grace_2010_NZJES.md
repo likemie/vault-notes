@@ -46,7 +46,7 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 本文是 Grace 对 Hattie (2010) 在 *NZJES* 45(1) 发表的"On being a '[[Critic and Conscience of Society]]'"一文的直接回应。核心问题：Hattie 是否正确理解了学术人作为"critic and conscience of society"的角色？
 
 ## 理论框架
@@ -59,7 +59,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> 个人经验[[Reflexivity|反思性]]述评（personal reflective commentary），以 Grace 本人作为该概念的原创者所掌握的第一手历史背景为依据。
+> 个人经验[[Reflexivity\|反思性]]述评（personal reflective commentary），以 Grace 本人作为该概念的原创者所掌握的第一手历史背景为依据。
 
 ## 核心论证
 
@@ -68,7 +68,7 @@ citation_aliases:
 >
 > Grace(p.90)区分了两种学术角色：
 > - **学术领域的批评者** 在学科内部对研究质量和方法进行技术性批评——这是正常学术工作
-> - **[[Critic and Conscience of Society|社会的批评者与良知]]** 必须将非学校因素（社会阶级、贫困、家庭资源等）纳入所有分析
+> - **[[Critic and Conscience of Society\|社会的批评者与良知]]** 必须将非学校因素（社会阶级、贫困、家庭资源等）纳入所有分析
 >
 > Hattie 的 *[[Visible Learning]]* 及其 2010 年文章所扮演的是前者，而非后者——Hattie 批评了评估、教学和学习领域的研究质量，但这属于"教育教授们正常的学术工作"。
 >
@@ -109,7 +109,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 作为个人述评而非系统研究，论证限于概念区分层面
-> - 未深入讨论 Hattie 排除非学校因素的方法论理由——即[[Research Scope|研究范围]]限定在"教育者能控制的因素"
+> - 未深入讨论 Hattie 排除非学校因素的方法论理由——即[[Research Scope\|研究范围]]限定在"教育者能控制的因素"
 > - Grace 本人是该概念的原创者和新西兰大学立法的推动者，其立场具有特定的制度和规范承诺
 
 ## 来源

@@ -38,7 +38,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> 前景知识产权（Foreground IP, FIP）指在[[University-Industry Collaboration|产学合作]]协议执行期间，由指定研究人员在履行协议工作范围（Scope of Work）的过程中发明或创作的知识产权。FIP 区别于[[Background IP|背景知识产权]]（Background IP, BIP），后者是合作前各方独立开发的知识产权。FIP 的定义通常争议较小，因为其边界由工作范围、协议期限和参与人员明确界定（p.279）。
+> 前景知识产权（Foreground IP, FIP）指在[[University-Industry Collaboration\|产学合作]]协议执行期间，由指定研究人员在履行协议工作范围（Scope of Work）的过程中发明或创作的知识产权。FIP 区别于[[Background IP\|背景知识产权]]（Background IP, BIP），后者是合作前各方独立开发的知识产权。FIP 的定义通常争议较小，因为其边界由工作范围、协议期限和参与人员明确界定（p.279）。
 
 > [!quote]
 > "Foreground IP (FIP) means IP that is invented or authored in the performance of the project described in the Statement of Work, under this Agreement, (a) by University personnel solely in the laboratory of the Principal Investigator(s) named in this Agreement; (b) by Company personnel; or (c) jointly by such University and Company personnel."（p.279）
@@ -56,7 +56,7 @@ updated: 2026-09-10
 ## 所有权规则
 
 > [!info]
-> 在美国[[University-Industry Collaboration|产学合作]]实践中，FIP 的所有权通常遵循"发明人归属"原则：每位发明人或作者将其权利转让给雇主。因此（pp.279–280）：
+> 在美国[[University-Industry Collaboration\|产学合作]]实践中，FIP 的所有权通常遵循"发明人归属"原则：每位发明人或作者将其权利转让给雇主。因此（pp.279–280）：
 
 - 完全由大学人员创造的 FIP → 大学单独所有
 - 完全由企业人员创造的 FIP → 企业单独所有

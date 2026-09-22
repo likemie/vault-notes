@@ -56,16 +56,16 @@ updated: 2026-09-03
 ## 工具定位
 
 > [!instrument-profile] Abbreviated Torrance Test for Adults (ATTA)
-> - **工具类型** 标准化[[Divergent Thinking|发散思维]]表现测验（精简版纸笔测验）。
+> - **工具类型** 标准化[[Divergent Thinking\|发散思维]]表现测验（精简版纸笔测验）。
 > - **开发者与年份** Goff & Torrance (2002)。
-> - **测量目的** 用于高等教育阶段大学生与职场成人[[Creativity|创造潜能]]的快速测评、基线诊断与教学干预效果评估。
+> - **测量目的** 用于高等教育阶段大学生与职场成人[[Creativity\|创造潜能]]的快速测评、基线诊断与教学干预效果评估。
 > - **实施方式** 限时纸笔团体或个别施测（总测验用时约 15 分钟，每项活动限时 3 分钟）。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Creativity|创造潜能]]与[[Divergent Thinking|发散思维]]
+> [!construct-table] [[Creativity\|创造潜能]]与[[Divergent Thinking\|发散思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -81,7 +81,7 @@ updated: 2026-09-03
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 1 项言语问题[[Hypothesis|假设]]活动与 2 项不完整图形线索发散补全活动。
+> - **题项形式** 1 项言语问题[[Hypothesis\|假设]]活动与 2 项不完整图形线索发散补全活动。
 > - **作答格式** 纸笔手写文本列举与画笔构图。
 > - **反向题与跳题** 无反向题与跳题；每项活动严格计时 3 分钟，要求在限定时间内尽可能产生多且独特的想法。
 

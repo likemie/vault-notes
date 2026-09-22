@@ -54,7 +54,7 @@ updated: 2026-09-15
 ## 定义
 
 > [!def] 核心定义
-> **后常规科学（POST-Normal Science, PNS）** 是由科学哲学家西尔维奥·丰托维奇（Silvio Funtowicz）与杰罗姆·拉维茨（Jerome Ravetz）于 1993 年系统确立的科学治理与[[Epistemology|认识论]]分析概念。该[[Paradigm|范式]]专门指代这样一类极端的政策与科技决策情境：**系统事实高度不确定、社会价值充满争议、决策涉及的利益赌注极其高昂、且采取行动的紧迫性不容拖延（Facts uncertain, values in dispute, stakes high, and decisions urgent）**。在此类情境中，传统的实验室实证求真（常规科学）或封闭专家技术鉴定（专业咨询）不再足以单独解决问题，必须引入多元证据源与广泛公众审议。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]
+> **后常规科学（POST-Normal Science, PNS）** 是由科学哲学家西尔维奥·丰托维奇（Silvio Funtowicz）与杰罗姆·拉维茨（Jerome Ravetz）于 1993 年系统确立的科学治理与[[Epistemology\|认识论]]分析概念。该[[Paradigm\|范式]]专门指代这样一类极端的政策与科技决策情境：**系统事实高度不确定、社会价值充满争议、决策涉及的利益赌注极其高昂、且采取行动的紧迫性不容拖延（Facts uncertain, values in dispute, stakes high, and decisions urgent）**。在此类情境中，传统的实验室实证求真（常规科学）或封闭专家技术鉴定（专业咨询）不再足以单独解决问题，必须引入多元证据源与广泛公众审议。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]
 
 > [!concept-lens] 概念透镜
 > - **核心含义** 揭示了当科学前沿深涉复杂生态、生命伦理、公共卫生或颠覆性人工智能时，科学证据不再能提供唯一的“标准答案”，政策制定不可避免地交织着道德偏好、风险分配与政治权衡。
@@ -62,7 +62,7 @@ updated: 2026-09-15
 > - **概念边界** 并不否定传统基础科学研究的严谨性与有效性；当系统不确定性与决策赌注均处于低水平时，常规科学与标准专家咨询依然是最高效的研究与决策工具。
 
 > [!citation-card]- 关键表述
-> 在许多当代最重大的社会挑战中，我们面对的是典型的“后常规问题”：赌注极其高昂，[[Scientific Uncertainty|科学不确定性]]极高，而社会对确凿科学信息的需求又极度迫切。要防止这类问题陷入难以化解的治理死结，决策者必须坦诚披露科学不确定性，并明确解释为何特定科学信息未被采纳，绝不能为了迎合既定政策而挑选证据。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]
+> 在许多当代最重大的社会挑战中，我们面对的是典型的“后常规问题”：赌注极其高昂，[[Scientific Uncertainty\|科学不确定性]]极高，而社会对确凿科学信息的需求又极度迫切。要防止这类问题陷入难以化解的治理死结，决策者必须坦诚披露科学不确定性，并明确解释为何特定科学信息未被采纳，绝不能为了迎合既定政策而挑选证据。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]
 >
 > *Greater effort is needed to explicitly link policies to scientific evidence and its uncertainties to reduce the chances of ‘post-normal problems’ (when the stakes are high, there is high scientific uncertainty and high demand for scientific information) becoming increasingly intractable. For example, it is important not only to be honest about scientific uncertainty, but to explain when relevant scientific information is not used, to avoid selecting only the scientific evidence to suit the policy.*
 
@@ -90,7 +90,7 @@ updated: 2026-09-15
 ## 核心要素
 
 > [!feature] 后常规问题的四大系统要素
-> - **系统性事实不确定性（High [[Scientific Uncertainty]]）** 科学模型受制于非线性复杂动态、[[Emergence|涌现]]效应与测量极限，前沿顶尖学者之间亦存在不同[[Hypothesis|假设]]前提与结论分歧，无法给出百分之百的绝对预测。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]
+> - **系统性事实不确定性（High [[Scientific Uncertainty]]）** 科学模型受制于非线性复杂动态、[[Emergence\|涌现]]效应与测量极限，前沿顶尖学者之间亦存在不同[[Hypothesis\|假设]]前提与结论分歧，无法给出百分之百的绝对预测。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]
 > - **多元价值与利益争议（Values in Dispute）** 决策涉及深刻的伦理考量与代际利益冲突（例如发展经济 vs 碳达峰减排；个体隐私 vs 公共安全监测），不同利益群体持有互不相容的价值优先序。
 > - **生死攸关的高昂赌注（High Decision Stakes）** 政策失误可能导致灾难性不可逆后果（如气候临界点崩塌、疫情大规模致死或技术失控），使全社会无法承担试错成本。
 > - **行动的时间紧迫性（Urgent Decisions）** 决策者无法等到所有科学细节均达成彻底共识后再采取行动，必须在证据尚未完备时做出关键抉择。
@@ -119,26 +119,26 @@ updated: 2026-09-15
 > [!concept-lens] 信任侵蚀机制
 > 围绕决策者在重大风险决策中滥用权威科学话语所产生的反噬后果展开探讨。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]
-> **政客滥用“遵循科学”口号是对科学公信力的制度性侵蚀** 当政府部长宣称自己只是在“遵循科学”（Following the science）时，往往掩盖了实际拍板是基于政治妥协、经济考量或党派利益的真相；这种虚假的科学客观性外衣一旦被戳破，不仅无法推卸决策失误的政治责任，反而让公众将对政策的不满直接转化为对科学本身的不信任，导致科学顾问机制丧失社会中立性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
+> **政客滥用“遵循科学”口号是对科学公信力的制度性侵蚀** 当政府部长宣称自己只是在“遵循科学”（Following the science）时，往往掩盖了实际拍板是基于政治妥协、经济考量或党派利益的真相；这种虚假的科学客观性外衣一旦被戳破，不仅无法推卸决策失误的政治责任，反而让公众将对政策的不满直接转化为对科学本身的不信任，导致科学顾问机制丧失社会中立性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]
 
 ---
 
 ### 命题二　透明披露科学不确定性并构建扩展同行对话是化解后常规死结的核心抓手
 
 > [!concept-lens] 民主审议与不确定性治理
-> 探讨如何通过制度化的透明度工具与公众[[Dialogue in Education|对话]]重建高风险决策的社会合法性。
+> 探讨如何通过制度化的透明度工具与公众[[Dialogue in Education\|对话]]重建高风险决策的社会合法性。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]
-> **坦诚呈现证据局限与解释未采纳理由是维系信任的根本** 要化解后常规科学难题陷入难以调和的僵局，国家科研与政策系统必须实现两项制度突破：其一，在发布立法与战略时强制附带通俗易懂的《科学证据陈述》（Scientific Evidence Statements），详尽标明[[Scientific Uncertainty|科学不确定性]]的具体区间与[[Hypothesis|假设]]边界；其二，科学界必须主动走出象牙塔，在技术萌芽阶段即组织包含广泛公众、受影响群体与政策决策者的前瞻公共对话（Public Dialogue），让公众在理解科学不确定性的前提下参与政策共同塑造。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
+> **坦诚呈现证据局限与解释未采纳理由是维系信任的根本** 要化解后常规科学难题陷入难以调和的僵局，国家科研与政策系统必须实现两项制度突破：其一，在发布立法与战略时强制附带通俗易懂的《科学证据陈述》（Scientific Evidence Statements），详尽标明[[Scientific Uncertainty\|科学不确定性]]的具体区间与[[Hypothesis\|假设]]边界；其二，科学界必须主动走出象牙塔，在技术萌芽阶段即组织包含广泛公众、受影响群体与政策决策者的前瞻公共对话（Public Dialogue），让公众在理解科学不确定性的前提下参与政策共同塑造。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]
 
 ---
 
 ## 政策与教育启示
 
 > [!policy-design] 对科学教育与政策评估的深远影响
-> - **重塑公众[[Scientific Literacy|科学素养]]内涵** 科学教育不能停留在[[Rote Learning|死记硬背]]既定公式与定理的“常态科学”思维，必须培养学生理解科学探究过程、数据不完备性以及应对后常规争论的[[Critical Thinking|批判性思维]]与[[Data Literacy|数据素养]]。
-> - **推动法定政策评估指南深化** 促使英国财政部《[[The Green Book|绿皮书]]》等国家顶层政策评估规程，将对后常规问题中系统不确定性的评估从内部闭门技术核算升级为面向全社会的公开证据陈述。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 86–87)]]
+> - **重塑公众[[Scientific Literacy\|科学素养]]内涵** 科学教育不能停留在[[Rote Learning\|死记硬背]]既定公式与定理的“常态科学”思维，必须培养学生理解科学探究过程、数据不完备性以及应对后常规争论的[[Critical Thinking\|批判性思维]]与[[Data Literacy\|数据素养]]。
+> - **推动法定政策评估指南深化** 促使英国财政部《[[The Green Book\|绿皮书]]》等国家顶层政策评估规程，将对后常规问题中系统不确定性的评估从内部闭门技术核算升级为面向全社会的公开证据陈述。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–87)]]
 
 ---
 

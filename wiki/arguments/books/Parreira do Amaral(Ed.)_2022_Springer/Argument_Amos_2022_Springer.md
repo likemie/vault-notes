@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[International Education]]"
   - "[[School Autonomy]]"
+  - "[[STEM Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
@@ -90,12 +91,12 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
-> Amos 的出发点是两个互相牵连的"未知[[Variable|变量]]"：我们既不知道教育——包括其制度和组织形式——将变成什么样，也不确定生活在晚期现代性（late modernity）中到底意味着什么(p.53)。
+> [!info] [[Research Question\|研究问题]]
+> Amos 的出发点是两个互相牵连的"未知[[Variable\|变量]]"：我们既不知道教育——包括其制度和组织形式——将变成什么样，也不确定生活在晚期现代性（late modernity）中到底意味着什么(p.53)。
 >
 > > 用一个比喻来理解：如果把现代教育比作一栋国家建造的大楼——楼层分明、课程按年级排好、毕业证书盖着国家印章——那么晚期现代性就像一场持续的地震。大楼的框架仍在，但地基在摇晃，新的建筑商（市场、科技公司、国际组织）正在大楼旁边搭建各种临时和永久的结构。我们不知道最终会变成什么样子——是一栋翻新的大楼，还是一片没有中心建筑的分散聚落。
 >
-> 在这个前提下，Amos 设置了两种对立的教育愿景作为[[Analytic Framework|分析框架]]：一种是**技术优化的 [[Transhumanism]]**（以效率、最大化和增强为核心逻辑），另一种是**关系性的 [[Posthumanism]]（以 connectivity 和 [[Response-ability]] 为核心伦理）**。她并不声称哪一方"正确"，而是邀请读者参与讨论——尤其在全书关注高等教育的背景下。
+> 在这个前提下，Amos 设置了两种对立的教育愿景作为[[Analytic Framework\|分析框架]]：一种是**技术优化的 [[Transhumanism]]**（以效率、最大化和增强为核心逻辑），另一种是**关系性的 [[Posthumanism]]（以 connectivity 和 [[Response-ability]] 为核心伦理）**。她并不声称哪一方"正确"，而是邀请读者参与讨论——尤其在全书关注高等教育的背景下。
 >
 > 整章的论证结构可理解为三次对比：**过去 vs 现在**（从国家中心到市场中心）、**技术路径 A vs B（超人类主义 vs 后人类主义）**、**描述 vs 规范（正在发生什么 vs 我们希望教育走向哪里）**。
 >
@@ -111,7 +112,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> 这是一篇规范性概念分析（normative conceptual analysis），不是经验研究。Amos 的方法是：选取一个[[Analytic Framework|分析框架]]（[[Robert Cowen]] 的 [[Transitology]] 和双轴模型），用它来诊断两种对立的教育愿景，然后在论证的后半段从描述转向规范——为[[Posthumanism|后人类主义]]方向提供论证。文中引用的 Escobar [[Transition Design|转型设计]]十条原则等材料，用来支撑"关系性路径已有具体主张"这一论点。
+> 这是一篇规范性概念分析（normative conceptual analysis），不是经验研究。Amos 的方法是：选取一个[[Analytic Framework\|分析框架]]（[[Robert Cowen]] 的 [[Transitology]] 和双轴模型），用它来诊断两种对立的教育愿景，然后在论证的后半段从描述转向规范——为[[Posthumanism\|后人类主义]]方向提供论证。文中引用的 Escobar [[Transition Design\|转型设计]]十条原则等材料，用来支撑"关系性路径已有具体主张"这一论点。
 >
 
 ## 论证结构
@@ -123,11 +124,11 @@ citation_aliases:
 >
 > 她借用斯坦福学派 Ramirez & Boli (1987) 的历史分析：18 世纪的欧洲，新兴民族国家面临一个根本问题——如何让领土范围内的居民认同自己是"法国人"或"德国人"，而不是某个村庄或教区的成员？答案是建立大众教育系统。
 >
-> > 例：[[Hypothesis|假设]]你是 18 世纪末的普鲁士官员。你的领土上住着说不同方言、信不同宗教的人。你需要他们把自己首先看作"普鲁士人"，愿意缴税、参军。你怎么做？你建立公立学校，让所有孩子学同一套课程、同一段历史、同一种"我们是谁"的叙事。这就是 Ramirez & Boli 所说的"大众教育的政治建构"。
+> > 例：[[Hypothesis\|假设]]你是 18 世纪末的普鲁士官员。你的领土上住着说不同方言、信不同宗教的人。你需要他们把自己首先看作"普鲁士人"，愿意缴税、参军。你怎么做？你建立公立学校，让所有孩子学同一套课程、同一段历史、同一种"我们是谁"的叙事。这就是 Ramirez & Boli 所说的"大众教育的政治建构"。
 >
 > 这个系统的核心机制是**创造成员身份（membership-creating）** 教育让你"成为"某个国家的公民。但 Amos 提醒我们注意这个机制的黑暗面——它是通过**划定边界**来运作的(p.55)。公立教育的"普遍性"（universality）只延伸到国界之内。
 >
-> > 例：今天欧洲关于难民儿童入学权的争论，就是这一历史逻辑的当代回响。如果你的父母没有合法居留身份，你是否"属于"这个国家的公立教育系统？这个问题之所以如此棘手，正是因为现代教育的 DNA 里就[[Coding in Qualitative Research|编码]]了"内外之分"。
+> > 例：今天欧洲关于难民儿童入学权的争论，就是这一历史逻辑的当代回响。如果你的父母没有合法居留身份，你是否"属于"这个国家的公立教育系统？这个问题之所以如此棘手，正是因为现代教育的 DNA 里就[[Coding in Qualitative Research\|编码]]了"内外之分"。
 >
 > ### 第二步：画出转型地图——Cowen 的双轴模型（§4.2 续）
 >
@@ -136,10 +137,10 @@ citation_aliases:
 > **现代教育模型：**
 > - 纵轴上端：polis-driven（城邦驱动）→ 教育机会平等
 > - 纵轴下端：国家文化认同
-> - 横轴左端：[[International Education|国际教育]]关系
+> - 横轴左端：[[International Education\|国际教育]]关系
 > - 横轴右端：经济增长
 >
-> > 例：想象 1960 年代的英国综合学校改革——纵轴上的动力清晰可见：政府推动综合学校（comprehensive schools）取代[[Grammar School|文法学校]]，核心理由是"教育机会平等"，即 polis-driven 逻辑。国家文化认同（学什么历史、读什么文学）和经济增长（培养产业工人）在水平轴上形成张力，但教育的基本组织者仍然是国家。
+> > 例：想象 1960 年代的英国综合学校改革——纵轴上的动力清晰可见：政府推动综合学校（comprehensive schools）取代[[Grammar School\|文法学校]]，核心理由是"教育机会平等"，即 polis-driven 逻辑。国家文化认同（学什么历史、读什么文学）和经济增长（培养产业工人）在水平轴上形成张力，但教育的基本组织者仍然是国家。
 >
 > **晚期现代教育模型：**
 > - 纵轴上端：market-driven（市场驱动）→ 内部效率与外部效能
@@ -147,9 +148,9 @@ citation_aliases:
 > - 横轴左端：国际经济
 > - 横轴右端：国际知识竞争
 >
-> > 例：想象今天一所英国大学——纵轴上端不再是"如何让更多人上大学"，而是"我们的排名多少、毕业生就业率多高、每个学生的培养成本多少"。纵轴下端"劳动力分化"意味着教育不再追求统一的公民身份，而是根据市场需求将学生分流到不同层级和类型的岗位。[[School Autonomy|学校自主权]]改革（学校为自己的"竞争力"负责）和跨国排名系统正是这个新模型的操作工具。(Cowen, 1996, pp.160–162, p.55]])
+> > 例：想象今天一所英国大学——纵轴上端不再是"如何让更多人上大学"，而是"我们的排名多少、毕业生就业率多高、每个学生的培养成本多少"。纵轴下端"劳动力分化"意味着教育不再追求统一的公民身份，而是根据市场需求将学生分流到不同层级和类型的岗位。[[School Autonomy\|学校自主权]]改革（学校为自己的"竞争力"负责）和跨国排名系统正是这个新模型的操作工具。(Cowen, 1996, pp.160–162, p.55]])
 >
-> Amos 特别强调一个容易忽略的时间节点：**知识的市场化并非近期现象**。早在 1950 年代末，经济学理论已开始将"知识"作为生产要素讨论；[[Sputnik Shock 1957]]（1957 年苏联发射人造卫星）之后，[[OECD]] 立即将注意力转向 STEM 教育——这时距"[[Knowledge-Based Economy]]"成为流行话语还有几十年(p.56)。
+> Amos 特别强调一个容易忽略的时间节点：**知识的市场化并非近期现象**。早在 1950 年代末，经济学理论已开始将"知识"作为生产要素讨论；[[Sputnik Shock 1957]]（1957 年苏联发射人造卫星）之后，[[OECD]] 立即将注意力转向 [[STEM Education\|STEM]] 教育——这时距"[[Knowledge-Based Economy]]"成为流行话语还有几十年(p.56)。
 >
 > > 例：Sputnik Shock 是理解"教育和地缘政治如何始终纠缠"的经典案例。1957 年苏联先于美国把卫星送上太空，美国举国震惊。反应是什么？不是增加军费（那是后来的事），而是大规模改革科学教育和数学课程——因为决策者相信，苏联的"知识优势"来自更好的教育。这就是 Amos 所说的"早在市场话语流行之前，经济与知识的关联已被锻造"。
 >
@@ -161,7 +162,7 @@ citation_aliases:
 >
 > Amos 拆解了数字化被推动的三重动机，只有理解了这三重动机的同时运作，才能理解为什么数字化是"不可逆"的(pp.56–57)：
 >
-> **(1) 利润（Profit）** EdTech 是门大生意，股票市场份额持续增长。Google、Apple、Microsoft 都设有庞大的教育部门。K-12 领域有 Sylvan Learning Systems et al.提供商；高等教育领域有 Udacity et al.虚拟大学，通常绑定[[Lifelong Learning|终身学习]]（lifelong learning）叙事。
+> **(1) 利润（Profit）** EdTech 是门大生意，股票市场份额持续增长。Google、Apple、Microsoft 都设有庞大的教育部门。K-12 领域有 Sylvan Learning Systems et al.提供商；高等教育领域有 Udacity et al.虚拟大学，通常绑定[[Lifelong Learning\|终身学习]]（lifelong learning）叙事。
 >
 > > 例：Google 的 Jaime Casap 被称为"教育布道者"（education evangelist），在全球平台上推广 Google 教育工具。他不仅仅是"卖产品"——他是在塑造一种信念：技术是教育问题的解决之道。当 Google Classroom 被免费提供给学校，谷歌获得的不是直接收入，而是下一代用户的数据和习惯——这就是"利润"逻辑的深层运作方式。(p.57)
 >
@@ -171,11 +172,11 @@ citation_aliases:
 >
 > **(3) 教师专业发展与新工作机会**[[Learning Analytics]]（learning analytics）和个性化学习（personalized learning）被宣称为改善学习质量的技术手段。这同时创造了一个新的劳动力市场——数据科学家、学习设计师、教育技术开发者。
 >
-> 数字化也在重新绘制大学的组织地图：[[Regional University Alliances]]——[[League of European Research Universities|欧洲研究型大学联盟]]（LERU）、The GUILD、以及欧盟委员会框架下的欧洲大学联盟（European University Alliances）——跨越国界甚至大洲边界，合作研究、推动学生和教职流动、开发联合学位项目。[[Bologna Process]] 在欧洲高等教育区内的多样化实施证明，即便在标准化压力下，大学仍然有强大的力量维持各自的运作方式。
+> 数字化也在重新绘制大学的组织地图：[[Regional University Alliances]]——[[League of European Research Universities\|欧洲研究型大学联盟]]（LERU）、The GUILD、以及欧盟委员会框架下的欧洲大学联盟（European University Alliances）——跨越国界甚至大洲边界，合作研究、推动学生和教职流动、开发联合学位项目。[[Bologna Process]] 在欧洲高等教育区内的多样化实施证明，即便在标准化压力下，大学仍然有强大的力量维持各自的运作方式。
 >
 > > 例：想象一所德国中型大学。它既要在 Bologna 框架下确保学位被欧洲各国承认（标准化压力），又坚持自己的考试制度和课程传统（制度惯性）。同时它加入了两个跨国联盟——一个是研究导向的 LERU，另一个是欧盟资助的欧洲大学联盟——在不同联盟中扮演不同角色。这就是 Amos 所说的"多层级地缘政治教育空间"：不是单一逻辑在运作，而是多种力量在同时拉扯。(pp.57–58)
 >
-> ### 第四步：展示第一种教育愿景——[[Transhumanism|超人类主义]]（§4.4）
+> ### 第四步：展示第一种教育愿景——[[Transhumanism\|超人类主义]]（§4.4）
 >
 > 在描述了数字化的三重驱动之后，Amos 追问：如果数字化的逻辑被推到极致，教育会变成什么样？答案是**超人类主义**。
 >
@@ -200,26 +201,26 @@ citation_aliases:
 > - **硬件和网络接入** 不是所有学生都有合适的设备和可靠的网络连接
 > - **机构投资能力** 资金充裕的大学更有能力投资于高质量的数字教学法
 > - **教师的数字素养** 专业技能的分布极不均衡
-> - **学生的[[Learner Autonomy|自主学习]]准备度** 低收入家庭的学生更依赖学校提供的结构和指导，数字化的"[[Self-Directed Learning|自导学习]]"模式对他们更不友好
+> - **学生的[[Learner Autonomy\|自主学习]]准备度** 低收入家庭的学生更依赖学校提供的结构和指导，数字化的"[[Self-Directed Learning\|自导学习]]"模式对他们更不友好
 >
 > > 例：两所同一城市的大学——一所富裕的研究型大学和一所资源紧张的社区学院——同时转向在线教学。前者投资了虚拟现实实验室、专业视频制作团队和教学设计师。后者用 Zoom 的免费版本，教师独自对着屏幕讲课。两所学校的学生的"在线学习体验"完全不同。数字化没有消除差距，它在数字化层面重新创造了差距。(p.58, 60–61)
 >
 > 更根本的是，**教育的"成员身份创造"功能在弱化**。大型公立学校承担着最重要的社会化任务——把年轻人培养成公民、培养他们对"共同善"的担当。但如果未来教育变成了高度个性化的微证书和自导学习路径的拼贴，那么"共同经验"在哪里？民主社会需要公民共享的基础知识和公共叙事，而超个性化的教育对这一基础构成威胁。
 >
-> ### 第六步：提出替代方案——关系性[[Posthumanism|后人类主义]]（§4.5）
+> ### 第六步：提出替代方案——关系性[[Posthumanism\|后人类主义]]（§4.5）
 >
 > 在展示了超人类主义的问题之后，Amos 引入两个替代性思想资源：[[Donna Haraway]] 的 *Staying with the Trouble* (2016) 和 [[Arturo Escobar]] 的 *Designs for the Pluriverse* (2018)。
 >
 > 两人都关注"世界制造"（world making），但路径不同：
 >
 > **Escobar：[[Transition Design]]**
-> 核心工具是"设计"——不是在"设计一把更好看的椅子"的意义上，而是在"如何应对 wicked problems"的意义上。所谓 wicked problems（棘手问题）指气候变化、不平等、殖民遗产等无法被单一学科或单一行动领域解决的问题。转型设计的核心洞见是：**转型不是被设计出来的，而是[[Emergence|涌现]]的**——它依赖大量地方行动的交互，没有中央计划者来"指挥"这个过程(Escobar, 2018, p.152, p.61]])。
+> 核心工具是"设计"——不是在"设计一把更好看的椅子"的意义上，而是在"如何应对 wicked problems"的意义上。所谓 wicked problems（棘手问题）指气候变化、不平等、殖民遗产等无法被单一学科或单一行动领域解决的问题。转型设计的核心洞见是：**转型不是被设计出来的，而是[[Emergence\|涌现]]的**——它依赖大量地方行动的交互，没有中央计划者来"指挥"这个过程(Escobar, 2018, p.152, p.61]])。
 >
 > > 例：想象一个城市面临交通拥堵和空气污染。传统的"计划"思维会建更多公路（结果是吸引更多车辆，拥堵照旧）。转型设计的思维则关注多样化的地方行动：社区自行车共享计划、学校"步行校车"倡议、本地商户的错峰配送协议、居民的"无车日"实验——这些行动互不隶属，没有中央指挥，但通过交互可能涌现出一种全新的城市出行模式。这就是"涌现"。
 >
 > Escobar 援引 Irwin (2015) 的转型设计十条原则来具体化这个思路。Amos 在正文中全文引用了这十条(pp.61–62)。其核心逻辑可概括为：
 >
-> 1. **以生命系统理论理解和应对 wicked problems**——不是将问题简化为单个[[Variable|变量]]
+> 1. **以生命系统理论理解和应对 wicked problems**——不是将问题简化为单个[[Variable\|变量]]
 > 2. **设计保护与修复社会和自然生态系统的解决方案**——不可偏废一方
 > 3. **以日常生活和生活方式为设计的最根本情境**——不从抽象模型开始，从人们实际如何生活开始
 > 4. **基于地方、全球联网**——解决方案必须在特定地方扎根，但通过连接扩散
@@ -232,7 +233,7 @@ citation_aliases:
 >
 > 所有这些原则有一个共同特征：**拒绝宏大蓝图，拥抱地方实验**。这与 Cowen 市场驱动模型中的"标准化"和"效率最大化"形成鲜明对比。
 >
-> **Haraway：[[Haraway's SF|SF (Haraway)]] 叙事与 [[Sympoiesis]]**
+> **Haraway：[[Haraway's SF\|SF (Haraway)]] 叙事与 [[Sympoiesis]]**
 >
 > 如果说 Escobar 偏向"设计"，Haraway 则偏向"讲故事"。她的核心方法论是 **SF**——这个缩写同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今）。核心是：通过讲故事的实践，创造涉及人类与非人类多重行动者的关系模式(p.62)。
 >
@@ -256,9 +257,9 @@ citation_aliases:
 >
 > Amos 指出，如果一定要为 Haraway 的愿景找一位教育理论家，那应该是 **[[John Dewey]]** 而非 Wilhelm von Humboldt 或 Maria Montessori。Dewey 强调教育与经验、与民主生活、与共同体的连续性——与 Haraway 的"在稠密的当下好好生、好好死"（live and die well together in a thick present）的伦理有相通之处。
 >
-> Escobar 依赖 Varela 的 *Ethical Know-How* (1999)——具体而言是"**自我的非固化**"（non-solidity of the self）概念：自我不是固态的、固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这种非固化，会产生一种根本性的**关爱心态（caring disposition）**。如何培育这种心态？不是通过理性干预、自我优化或规范灌输——而是通过**[[Epoché|悬置]]自我（suspension of the ego）**，通过那些有助于发展"非自我中心"习惯的训练。
+> Escobar 依赖 Varela 的 *Ethical Know-How* (1999)——具体而言是"**自我的非固化**"（non-solidity of the self）概念：自我不是固态的、固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这种非固化，会产生一种根本性的**关爱心态（caring disposition）**。如何培育这种心态？不是通过理性干预、自我优化或规范灌输——而是通过**[[Epoché\|悬置]]自我（suspension of the ego）**，通过那些有助于发展"非自我中心"习惯的训练。
 >
-> > 例：这里有一个直接的对比。超人类主义的教育技术：用 app 追踪你的学习进度、优化你的专注时间、评测你的认知水平——一切都是关于"你"的增强。Escobar-Varela 路径则建议：花时间在社区菜园里、学习与老人的跨代[[Dialogue in Education|对话]]、练习关注他人的需要而非自己的成就——通过这些非自我中心的实践，发展出一种"我不需要站在宇宙中心"的习惯和感知方式。这两种路径的分歧不是技术问题，是关于"做一个人意味着什么"的根本立场分歧。
+> > 例：这里有一个直接的对比。超人类主义的教育技术：用 app 追踪你的学习进度、优化你的专注时间、评测你的认知水平——一切都是关于"你"的增强。Escobar-Varela 路径则建议：花时间在社区菜园里、学习与老人的跨代[[Dialogue in Education\|对话]]、练习关注他人的需要而非自己的成就——通过这些非自我中心的实践，发展出一种"我不需要站在宇宙中心"的习惯和感知方式。这两种路径的分歧不是技术问题，是关于"做一个人意味着什么"的根本立场分歧。
 >
 > Amos 观察到一个有意味的"家族相似性"：Escobar and Haraway 的思想与非洲的 **[[Ubuntu]]**（"我存在，因为我们存在"）和拉丁美洲的 **[[Buen Vivir]]**（"好好生活"——不是更多消费，而是与自然和共同体的和谐共处）有亲和力，可能跟 Buen Vivir 的共鸣略多一些。这些非西方传统为后人类主义教育愿景提供了额外的文化和伦理资源(p.64)。
 >
@@ -282,25 +283,25 @@ citation_aliases:
 >
 > ### 知识市场化的时间深度
 >
-> 知识被建构为生产要素并非 1990s"[[Knowledge-Based Economy|知识经济]]"话语的产物。1950s 末经济理论已将知识作为 productive factor 讨论；[[Sputnik Shock 1957|Sputnik Shock]](1957)后 [[OECD]] 对 STEM 教育的关注标志着"经济-知识"关联的制度化起点——远早于[[New Public Management|新公共管理]]成为主流话语(p.56)。
+> 知识被建构为生产要素并非 1990s"[[Knowledge-Based Economy\|知识经济]]"话语的产物。1950s 末经济理论已将知识作为 productive factor 讨论；[[Sputnik Shock 1957\|Sputnik Shock]](1957)后 [[OECD]] 对 [[STEM Education\|STEM]] 教育的关注标志着"经济-知识"关联的制度化起点——远早于[[New Public Management\|新公共管理]]成为主流话语(p.56)。
 >
 > ### 数字化的三重不可逆驱动力
 >
-> 利润（Google/Apple/Microsoft 的教育部门、EdTech 股票市场、Coursera/Udacity）、正义平等叙事（[[UNESCO]] 的 anytime/anywhere 逻辑）、专业发展（[[Learning Analytics|学习分析]]、个性化学习）同时推动数字化。这三重逻辑相互强化，使"去数字化"日益不可能——即便认识到数字化的不平等效应(pp.56–58)。
+> 利润（Google/Apple/Microsoft 的教育部门、EdTech 股票市场、Coursera/Udacity）、正义平等叙事（[[UNESCO]] 的 anytime/anywhere 逻辑）、专业发展（[[Learning Analytics\|学习分析]]、个性化学习）同时推动数字化。这三重逻辑相互强化，使"去数字化"日益不可能——即便认识到数字化的不平等效应(pp.56–58)。
 >
-> ### [[Transhumanism|超人类主义]]的根本困境
+> ### [[Transhumanism\|超人类主义]]的根本困境
 >
 > Huxley (1957) 的超人类主义声称普世（"全人类一起超越"），但其实践逻辑——hyper-individualist、cost-intensive、依赖选择性增强——不可避免地制造排他性。谁是"完整的人"因而可以被优化？这不仅是分配问题，更是分类的政治。超人类主义与 Cowen 的市场驱动模型高度兼容：两者共享 individualism、劳动力分化和效率最大化逻辑(pp.58–59)。
 >
-> ### [[Transition Design|转型设计]]的[[Ontology|本体论]]主张
+> ### [[Transition Design\|转型设计]]的[[Ontology\|本体论]]主张
 >
-> Escobar (2018) 的核心主张是本体论层面的：转型不是被设计的，而是[[Emergence|涌现]]的。具体手段是 Irwin (2015) 的十条转型设计原则——以日常生活为设计的最根本情境、基于地方的全球化联网、放大草根方案、最大化最广泛需求的满足(pp.61–62)。
+> Escobar (2018) 的核心主张是本体论层面的：转型不是被设计的，而是[[Emergence\|涌现]]的。具体手段是 Irwin (2015) 的十条转型设计原则——以日常生活为设计的最根本情境、基于地方的全球化联网、放大草根方案、最大化最广泛需求的满足(pp.61–62)。
 >
 > ### [[Sympoiesis]] vs [[Autopoiesis]] 的世界观分歧
 >
 > Haraway 的 sympoiesis（共同制造）以"回应彼此需求"的伦理替代 autopoiesis 的"自我指涉"逻辑。[[Humosity]] 概念将人类彻底去中心化——不是"保护自然"的环保主义，而是承认人类只是物质循环的一个环节(p.62)。
 >
-> ### 大众教育与[[Posthumanism|后人类主义]]难以调和
+> ### 大众教育与[[Posthumanism\|后人类主义]]难以调和
 >
 > Escobar and Haraway 没有将教育作为论述重点，因为在他们看来，大众教育的 DNA（竞争、增长、rugged individualism、西方理性作为唯一有效知识）本身就是问题的一部分。Amos 的诊断是：需要保留大众教育的公共问责性，但用 connectivity 和 [[Response-ability]] 作为组织原则重建其理论基础(pp.63–64)。
 >
@@ -312,17 +313,17 @@ citation_aliases:
 > (“像 Escobar et al.学者的诊断已经足够清晰：如果不发生重大改变，或者说如果不转变我们的思维方式，晚期现代性很可能不仅是人类的最后阶段，也是这个星球的最后阶段。”
 > ("The diagnosis of scholars like Escobar and Haraway is clear enough: Without a significant change, not to say transformation of our mind-set, late modernity may as well be the last stage not only for humanity, but for the planet."))(p.63)
 >
-> > “那么，我们需要的是一种能够将这一切结合起来的教育理论。这种理论用一种非碎片化的知识组织方式重新构想公共教育，将联结性和[[Response-ability|回应能力]]（关怀的另一个词）作为其组织原则，鼓励合作，批判将人类置于宇宙中心的意识形态，鼓励非二元思维和自我的非固定性，并关注物质和非物质的多重纠缠。”
-> (“那么，我们需要的是一种能够将这一切结合起来的教育理论。这种理论用一种非碎片化的知识组织方式重新构想公共教育，将联结性和[[Response-ability|回应能力]]（关怀的另一个词）作为其组织原则，鼓励合作，批判将人类置于宇宙中心的意识形态，鼓励非二元思维和自我的非固定性，并关注物质和非物质的多重纠缠。”
+> > “那么，我们需要的是一种能够将这一切结合起来的教育理论。这种理论用一种非碎片化的知识组织方式重新构想公共教育，将联结性和[[Response-ability\|回应能力]]（关怀的另一个词）作为其组织原则，鼓励合作，批判将人类置于宇宙中心的意识形态，鼓励非二元思维和自我的非固定性，并关注物质和非物质的多重纠缠。”
+> (“那么，我们需要的是一种能够将这一切结合起来的教育理论。这种理论用一种非碎片化的知识组织方式重新构想公共教育，将联结性和[[Response-ability\|回应能力]]（关怀的另一个词）作为其组织原则，鼓励合作，批判将人类置于宇宙中心的意识形态，鼓励非二元思维和自我的非固定性，并关注物质和非物质的多重纠缠。”
 > ("What is needed then, is an educational theory that draws it all together. One that re-envisions public education with a non-compartmentalized organization of knowledge, that takes connectivity and [[Response-ability]], another term for caring as its organizing principle, one that encourages collaboration, is critical of ideologies that place the human being at the center of the universe, one that encourages non-dualistic thinking and the non-fixity of the self, pays attention to the multiple entanglements both material and non-material."))(p.64)
 >
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - Amos 自认 §4.5 [[Posthumanism|后人类主义]]部分属于"高度推测"（highly speculative），Haraway and Escobar 均未将教育作为论述重点，教育与后人类主义的对接仍是开放问题(p.61)
+> - Amos 自认 §4.5 [[Posthumanism\|后人类主义]]部分属于"高度推测"（highly speculative），Haraway and Escobar 均未将教育作为论述重点，教育与后人类主义的对接仍是开放问题(p.61)
 > - 章末的"新教育理论"呼吁是纲领性的而非实质性的——Amos 没有给出这种理论的具体轮廓，更接近一个研究议程的宣告
-> - 对[[Transhumanism|超人类主义]]的批评集中于其排他性，但未深入讨论"哪些增强技术可能是有益且公平可及的"——批评有余，建设性替代方案的可行性论证不足
+> - 对[[Transhumanism\|超人类主义]]的批评集中于其排他性，但未深入讨论"哪些增强技术可能是有益且公平可及的"——批评有余，建设性替代方案的可行性论证不足
 > - 在大众教育"DNA"问题的诊断上存在张力：既承认大众教育的公共问责性是现代性成就，又认为其 DNA 就是问题本身。如何在变革组织原则的同时保留问责性，文中没有提供操作路径
 >
 

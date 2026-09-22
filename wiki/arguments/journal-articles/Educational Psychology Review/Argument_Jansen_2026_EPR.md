@@ -84,14 +84,14 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在教育心理学与实证教育研究中，[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analyses, SOMAs）通过定量汇总大量一阶[[Meta-analysis|元分析]]结果，能够系统评估宏观干预效能、比较跨领域影响要素并确立[[Effect Size|效应量]]基准（如[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》项目）。然而，二阶元分析面临沉重的时间与人力成本壁垒：系统性从学术[[Document|文献]]全文中提取统计结果单篇耗时达 125–172 分钟（中等综述需 44–66 小时，大型综述超 300 小时）。前沿大语言模型（Large Language Models, LLMs）能否胜任二阶元分析中复杂的统计数据提取并达到人类专家水平？以往[[Evaluation Research|评估研究]]简单将单一人类提取预设为无误差真值的做法存在何种方法论缺陷？如何建立专家仲裁校准的金标准基准以解构机器与人类的真实误差形态？
+> 在教育心理学与实证教育研究中，[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analyses, SOMAs）通过定量汇总大量一阶[[Meta-analysis\|元分析]]结果，能够系统评估宏观干预效能、比较跨领域影响要素并确立[[Effect Size\|效应量]]基准（如[[John Hattie\|约翰·哈蒂]]（John Hattie）的《[[Visible Learning\|可见的学习]]》项目）。然而，二阶元分析面临沉重的时间与人力成本壁垒：系统性从学术[[Document\|文献]]全文中提取统计结果单篇耗时达 125–172 分钟（中等综述需 44–66 小时，大型综述超 300 小时）。前沿大语言模型（Large Language Models, LLMs）能否胜任二阶元分析中复杂的统计数据提取并达到人类专家水平？以往[[Evaluation Research\|评估研究]]简单将单一人类提取预设为无误差真值的做法存在何种方法论缺陷？如何建立专家仲裁校准的金标准基准以解构机器与人类的真实误差形态？
 
 > [!claim] 核心主张
-> 前沿大语言模型在规范提示词引导下，对复杂教育元分析文献进行[[Automated Data Extraction|自动化数据提取]]的统计准确性全面达到甚至部分超越人类专家水平（与仲裁金标准的[[Intraclass Correlation Coefficient|组内相关系数]] $\text{ICC} = 0.96–0.97$ vs 专家 $\text{ICC} = 0.81–0.95$；一致率达 77%–81% vs 专家 80%–86%）；模型之间表现出高达 87%–90% 的高度收敛一致性。事实性AI 幻觉在规范抽取中发生率极低（3–4 例，与专家持平），主要误差源于跨表格加总学生总数与原文报告模糊性。研究据此构建了双模型独立初筛结合专家分歧仲裁的人机混合验证[[Paradigm|范式]]，在恪守[[Meaningful Human Control|有意义的人类控制]]（Meaningful Human Control, MHC）的前提下消减 80% 人工劳动，实现证据综合效率与精度的帕累托最优。
+> 前沿大语言模型在规范提示词引导下，对复杂教育元分析文献进行[[Automated Data Extraction\|自动化数据提取]]的统计准确性全面达到甚至部分超越人类专家水平（与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]] $\text{ICC} = 0.96–0.97$ vs 专家 $\text{ICC} = 0.81–0.95$；一致率达 77%–81% vs 专家 80%–86%）；模型之间表现出高达 87%–90% 的高度收敛一致性。事实性AI 幻觉在规范抽取中发生率极低（3–4 例，与专家持平），主要误差源于跨表格加总学生总数与原文报告模糊性。研究据此构建了双模型独立初筛结合专家分歧仲裁的人机混合验证[[Paradigm\|范式]]，在恪守[[Meaningful Human Control\|有意义的人类控制]]（Meaningful Human Control, MHC）的前提下消减 80% 人工劳动，实现证据综合效率与精度的帕累托最优。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 从《[[Visible Learning|可见的学习]]》数据库（[[Visible Learning Meta-X]]）中随机抽取的 156 项调查学生[[Academic Achievement|学业成就]]的一阶元分析全文文献（涵盖综合效应量 $d$、纳入研究数 $k$ 与学生样本总量 $N$ 共 468 个目标数据点）。
-> - **张力** 传统证据综合对繁重双人人工[[Homework|作业]]的高昂成本依赖 vs 大模型全自动提取的不[[Reliability|可靠性]]与幻觉担忧；单一人类提取被预设为无偏真值 vs 真实科研中人类单方[[Coding in Qualitative Research|编码]]普遍存在的疲劳漂移与疏漏偏差。
+> - **对象** 从《[[Visible Learning\|可见的学习]]》数据库（[[Visible Learning Meta-X]]）中随机抽取的 156 项调查学生[[Academic Achievement\|学业成就]]的一阶元分析全文文献（涵盖综合效应量 $d$、纳入研究数 $k$ 与学生样本总量 $N$ 共 468 个目标数据点）。
+> - **张力** 传统证据综合对繁重双人人工[[Homework\|作业]]的高昂成本依赖 vs 大模型全自动提取的不[[Reliability\|可靠性]]与幻觉担忧；单一人类提取被预设为无偏真值 vs 真实科研中人类单方[[Coding in Qualitative Research\|编码]]普遍存在的疲劳漂移与疏漏偏差。
 > - **贡献** 首次在二阶元分析情境下建立多专家两阶段仲裁校准的金标准基准；系统评测三大前沿大语言模型（Gemini 2.5 Pro、GPT-4.1、GPT-o3）与人类专家的准确性矩阵；提出兼顾伦理规范与生产力跃升的有意义人类控制证据综合实操框架。
 
 ---
@@ -106,18 +106,18 @@ issuing_organization: ""
 > | **[[AI Hallucination\|AI 幻觉]]与误差分类学**<br>[[AI Hallucination]] | 建立涵盖事实虚构、信息遗漏、跨表计算偏差与报告模糊性选择偏误的四维诊断体系。 |
 
 > [!warrant]- 理论如何支撑论证
-> 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis）指南为本研究确立了评价基线：任何人工智能系统的引入都不能直接假定其可[[Reliability|信度]]，而必须通过严密的实证评测确定其在特定任务情境下的准确性基准；同时，人类专家必须保持对系统的因果追踪能力。通过解构模型与人类在不同误差类型上的认知表现，研究得以将统计一致性指标转化为人机协同分工的理论依据。（pp. 3, 6, 20, 24）
+> 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis）指南为本研究确立了评价基线：任何人工智能系统的引入都不能直接假定其可[[Reliability\|信度]]，而必须通过严密的实证评测确定其在特定任务情境下的准确性基准；同时，人类专家必须保持对系统的因果追踪能力。通过解构模型与人类在不同误差类型上的认知表现，研究得以将统计一致性指标转化为人机协同分工的理论依据。（pp. 3, 6, 20, 24）
 
 ### 核心变量与操作化编码表（仅量化研究填写）
 
-> [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与[[Coding in Qualitative Research|编码]]规程
+> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
 > | [[Automated Data Extraction\|变量维度与分类]] | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **综合效应量**<br>（Effect Size, $d$） | 一阶元分析报告的主要总体综合效应量（Cohen's $d$ 或 Hedges' $g$）。 | 优先提取与学生[[Academic Achievement\|学业成就]]最相关的全域总体加权汇总值；若[[Document\|文献]]同时汇报固定与随机效应，优先提取主分析模型数值；若只报告亚组效应则依据代码簿优先级提取。 |
 > | **纳入研究篇数**<br>（Number of Studies, $k$） | 贡献于上述综合[[Effect Size\|效应量]]的一阶原始实证研究总篇数或独立样本数。 | 严格区分[[Literature Search\|文献检索]]获取的总篇数与最终纳入定量合成的研究篇数；若文献仅报告效应量个数而明确缺失独立研究数，则严格编码为缺失值（Not Applicable, NA）。 |
 > | **参与者样本总量**<br>（Number of Participants, $N$） | 包含在定量合并分析中的学生/被试总人数。 | 提取文献明确汇报的总[[Sample Size Determination\|样本量]]；若总被试数未直接汇总而是分散在各分表或各亚组中，需执行跨表精确累加；若全文均未报告被试规模则编码为缺失值（NA）。 |
 >
-> **图表解读** 本表严格定义了从一阶[[Meta-analysis|元分析]]中提取的三大核心连续变量及其边界规则，构成了大语言模型提示词构建、独立作者编码与专家金标准仲裁的统一操作化基准。（pp. 7–8）
+> **图表解读** 本表严格定义了从一阶[[Meta-analysis\|元分析]]中提取的三大核心连续变量及其边界规则，构成了大语言模型提示词构建、独立作者编码与专家金标准仲裁的统一操作化基准。（pp. 7–8）
 
 ---
 
@@ -163,12 +163,12 @@ issuing_organization: ""
 ### 论证步骤一　传统单一人类提取基准存在系统性偏误，需通过专家双轮仲裁确立无偏金标准
 
 > [!claim] 步骤一核心主张
-> 以往人工智能[[Evaluation Research|评估研究]]简单将单一人类提取作为无误差的基准真值，掩盖了人类单方[[Coding in Qualitative Research|编码]]中的固有失误；必须通过专家交叉复核与两阶段仲裁建立客观金标准。（pp. 3, 9–10）
+> 以往人工智能[[Evaluation Research\|评估研究]]简单将单一人类提取作为无误差的基准真值，掩盖了人类单方[[Coding in Qualitative Research\|编码]]中的固有失误；必须通过专家交叉复核与两阶段仲裁建立客观金标准。（pp. 3, 9–10）
 
 #### 1. 研究全流程设计与三阶段实施路径
 
 > [!goal] 研究设计目标
-> - **核心动机** 在开展[[Meta-meta-analysis|二阶元分析]]时，数据提取是决定证据质量的生命线环节。以往研究直接将单一人工录入作为无偏基准，掩盖了人类编码的固有疏漏；本研究设计严密的三阶段程序，建立客观金标准以解构机器与人类的真实误差形态。
+> - **核心动机** 在开展[[Meta-meta-analysis\|二阶元分析]]时，数据提取是决定证据质量的生命线环节。以往研究直接将单一人工录入作为无偏基准，掩盖了人类编码的固有疏漏；本研究设计严密的三阶段程序，建立客观金标准以解构机器与人类的真实误差形态。
 
 > [!example]- 图1：研究程序示意图
 > ![](https://img.mylikemie.icu/sources/Jansen_2026_EPR/figures/Jansen_2026_EPR_Fig1_Study_Procedure.jpg)
@@ -191,7 +191,7 @@ issuing_organization: ""
 ### 论证步骤二　大语言模型在统计量提取上达到人类专家水平且各模型间高度收敛
 
 > [!claim] 步骤二核心主张
-> 大语言模型在[[Effect Size|效应量]]、研究数与[[Sample Size Determination|样本量]]提取上的统计分布与仲裁金标准高度重合，[[Intraclass Correlation Coefficient|组内相关系数]]与一致率全面达到甚至部分超越人类专家水平。（pp. 16–19）
+> 大语言模型在[[Effect Size\|效应量]]、研究数与[[Sample Size Determination\|样本量]]提取上的统计分布与仲裁金标准高度重合，[[Intraclass Correlation Coefficient\|组内相关系数]]与一致率全面达到甚至部分超越人类专家水平。（pp. 16–19）
 
 #### 1. 总体统计分布对齐性检验
 
@@ -241,7 +241,7 @@ issuing_organization: ""
 #### 1. 错误形态解构：幻觉罕见而遗漏与多表计算居多
 
 > [!concept-lens] 误差画像的三重透镜
-> - **[[Research Question|研究问题]]** 细粒度的错误分类分析区分人类专家与大语言模型截然不同的误差画像：错误来自何种认知机制？频率如何分布？
+> - **[[Research Question\|研究问题]]** 细粒度的错误分类分析区分人类专家与大语言模型截然不同的误差画像：错误来自何种认知机制？频率如何分布？
 > - **关键区分** 事实性幻觉（凭空虚构）vs 信息遗漏（有据可查却标记为缺失）vs 计算偏差（数值存在但累加错误）
 > - **实践边界** 识别误差结构是精准设计提示词与人工介入策略的前提
 
@@ -249,17 +249,17 @@ issuing_organization: ""
 > - **事实性幻觉** 指原文明确缺失某项数据但编码主体凭空虚构数值。在 55 项缺失特定统计量的元分析中，三大模型仅出现 3–4 例幻觉，与人类专家的 3–4 例完全持平，表明模型在提示词约束下极少无中生有。（p. 18）
 > - **信息遗漏** 指原文包含数据但被误标为缺失值（NA）。独立人类作者遗漏最少（12 例），Gemini 2.5 Pro（21 例）与 GPT-4.1（22 例）表现良好，优于原数据库的 31 例遗漏；GPT-o3 遗漏较多（36 例）；所有遗漏均集中于需要深度跨表定位的被试总数 $N$。
 > - **跨表格加总计算偏差** 当被试规模分散在多个亚组或分表中时，大模型在长上下文中执行多步心算累加容易产生微小差错。（p. 16）
-> - **报告模糊性选择偏误** 当原文摘要与正文表格数值冲突，或同时呈现固定效应与[[Fixed-Effect and Random-Effects Models|随机效应模型]]时，模型偶尔捕获了局部亚组值而非全局汇总值。（p. 17）
+> - **报告模糊性选择偏误** 当原文摘要与正文表格数值冲突，或同时呈现固定效应与[[Fixed-Effect and Random-Effects Models\|随机效应模型]]时，模型偶尔捕获了局部亚组值而非全局汇总值。（p. 17）
 
 #### 2. 基于有意义人类控制的四步混合验证范式
 
 > [!goal] 混合验证规程的设计目标
-> - **核心目标** 将大模型的提取潜能转化为严谨的学术生产力，结合RAiSE 负责任证据综合指南，在恪守[[Meaningful Human Control|有意义的人类控制]]原则的前提下，最大化节约专家劳动。
+> - **核心目标** 将大模型的提取潜能转化为严谨的学术生产力，结合RAiSE 负责任证据综合指南，在恪守[[Meaningful Human Control\|有意义的人类控制]]原则的前提下，最大化节约专家劳动。
 
 > [!proc] 证据综合中有意义人类控制的四步混合验证规程
 > 1. **提示词开发与预试校准** 编制涵盖变量代码簿、提取优先级与少样本示例的标准化提示词，在独立先导文献集上完成参数调优。（p. 8）
 > 2. **异构双模型背对背独立推断** 部署两个不同技术路线的前沿模型（如 Gemini 2.5 Pro 与 GPT-4.1）分别独立提取全文数据。（p. 24）
-> 3. **自动化交集比对与分流** 脚本自动比对双模型输出：完全一致的数据点（约占 80%–84%）直接归入高置[[Reliability|信度]]数据库，无需人工逐字审验。
+> 3. **自动化交集比对与分流** 脚本自动比对双模型输出：完全一致的数据点（约占 80%–84%）直接归入高置[[Reliability\|信度]]数据库，无需人工逐字审验。
 > 4. **专家介入分歧争议仲裁** 针对双模型输出不一致或标记为高复杂度跨表加总的数据点（约占 16%–20%），触发领域专家深度查阅原文并作出最终裁决。（p. 25）
 
 > [!warrant]- 混合工作流如何实现帕累托最优
@@ -270,15 +270,15 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **前沿大语言模型提取准确性达到人类专家水准** Gemini 2.5 Pro、GPT-4.1 与 GPT-o3 在 156 项教育[[Meta-analysis|元分析]]中的提取表现（[[Intraclass Correlation Coefficient|组内相关系数]] ICC = 0.96–0.97，一致率 77%–81%）全面匹敌单一人类专家（ICC = 0.81–0.95，一致率 80%–86%）。（pp. 18–19）
-> 2. **事实性幻觉在规范抽取中极为罕见** 在缺失数据的[[Document|文献]]中，大模型虚构数值的幻觉率仅为 5%–7%（3–4 例），与人类专家的幻觉率完全持平。（p. 18）
-> 3. **提取瓶颈聚焦于多表加总与报告模糊性** 机器与人类的分歧主要源于跨分表被试总数 $N$ 的累加疏漏，以及[[Primary and Secondary Documents|原始文献]]在摘要与正文中汇报冲突数据时的选择偏好。（pp. 16–18）
-> 4. **确立人机混合验证的帕累托最优[[Paradigm|范式]]** 双模型初筛结合专家分歧仲裁，在节约 80% 人工劳动的同时，能够有效消除单人提取疏漏并保障[[Meaningful Human Control|有意义的人类控制]]。（pp. 24–25）
+> 1. **前沿大语言模型提取准确性达到人类专家水准** Gemini 2.5 Pro、GPT-4.1 与 GPT-o3 在 156 项教育[[Meta-analysis\|元分析]]中的提取表现（[[Intraclass Correlation Coefficient\|组内相关系数]] ICC = 0.96–0.97，一致率 77%–81%）全面匹敌单一人类专家（ICC = 0.81–0.95，一致率 80%–86%）。（pp. 18–19）
+> 2. **事实性幻觉在规范抽取中极为罕见** 在缺失数据的[[Document\|文献]]中，大模型虚构数值的幻觉率仅为 5%–7%（3–4 例），与人类专家的幻觉率完全持平。（p. 18）
+> 3. **提取瓶颈聚焦于多表加总与报告模糊性** 机器与人类的分歧主要源于跨分表被试总数 $N$ 的累加疏漏，以及[[Primary and Secondary Documents\|原始文献]]在摘要与正文中汇报冲突数据时的选择偏好。（pp. 16–18）
+> 4. **确立人机混合验证的帕累托最优[[Paradigm\|范式]]** 双模型初筛结合专家分歧仲裁，在节约 80% 人工劳动的同时，能够有效消除单人提取疏漏并保障[[Meaningful Human Control\|有意义的人类控制]]。（pp. 24–25）
 
 > [!stat-cards]- 核心数据
 > - **0.96–0.97** 三大前沿大语言模型与金标准的组内相关系数 ICC(2,1)。
 > - **87%–90%** 大语言模型之间的两两一致率（ICC = 0.95–0.97）。
-> - **≈ 80%** 采用双模型初筛后可直接免除人工逐字复核的高置[[Reliability|信度]]数据比例。（p. 24）
+> - **≈ 80%** 采用双模型初筛后可直接免除人工逐字复核的高置[[Reliability\|信度]]数据比例。（p. 24）
 > - **≈ 390** 传统单人提取 156 篇文献所需的专家工时（小时，混合范式仅需约 60–80 小时）。（pp. 2, 24）
 >
 > 以上 ICC 与一致率数据均来自 p. 18 主要结果表格。
@@ -288,12 +288,12 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] 大模型提取精度逼近人类专家基准
-> 研究结果表明，大语言模型在数据提取准确性上达到了与人类专家相当的水平。我们在 156 项调查学生[[Academic Achievement|学业成就]]的教育[[Meta-analysis|元分析]]中比较了三种大语言模型与人类专家的准确性。大模型与金标准的[[Intraclass Correlation Coefficient|组内相关系数]]达到 0.96–0.97，一致率达到 77%–81%。（p. 1）
+> 研究结果表明，大语言模型在数据提取准确性上达到了与人类专家相当的水平。我们在 156 项调查学生[[Academic Achievement\|学业成就]]的教育[[Meta-analysis\|元分析]]中比较了三种大语言模型与人类专家的准确性。大模型与金标准的[[Intraclass Correlation Coefficient\|组内相关系数]]达到 0.96–0.97，一致率达到 77%–81%。（p. 1）
 >
 > *The results demonstrate that LLMs achieve data extraction accuracy comparable to that of human experts. We compare the accuracy of three LLMs with that of human experts extracting data from 156 educational meta-analyses investigating students' achievement... Accuracy reached ICCs of 0.95/0.81 for the two human experts, and 0.96/0.97/0.96 for LLMs, with percentage agreement of 86%/80% (humans) and 81%/78%/77% (LLMs).*
 
 > [!citation-card] 证据综合中有意义人类控制与验证条件
-> 证据综合中负责任使用人工智能指南明确要求，必须通过[[Evaluation Research|评估研究]]确定 AI 在特定语境下是否表现充分。我们的研究为大语言模型负责任地用于数据提取提供了实证基础，并阐明了在何种条件下人类、模型或人机混合提取的数据可被视为经过有效验证。（pp. 3, 24）
+> 证据综合中负责任使用人工智能指南明确要求，必须通过[[Evaluation Research\|评估研究]]确定 AI 在特定语境下是否表现充分。我们的研究为大语言模型负责任地用于数据提取提供了实证基础，并阐明了在何种条件下人类、模型或人机混合提取的数据可被视为经过有效验证。（pp. 3, 24）
 >
 > *The RAiSE guidance states that evaluation studies should determine whether an AI performs adequately in a given context. Our study provides an empirical foundation for responsible use of LLMs for data extraction. We discuss the conditions under which data extracted by LLMs, humans, or a hybrid of both can be considered validated for use in educational SOMAs.*
 
@@ -303,9 +303,9 @@ issuing_organization: ""
 
 > [!warning]
 > 1. **专有闭源黑盒模型依赖** 研究选用了处于技术前沿的专有商业模型（GPT-4.1、Gemini 2.5 Pro 等），模型更新不透明且成本可能变动，研究结论无法直接无缝推广至参数较小的开源本地模型。（pp. 25–26）
-> 2. **训练集数据污染潜在风险** 《[[Visible Learning|可见的学习]]》部分公开[[Meta-analysis|元分析]]数据可能存在于大模型的预训练语料中；尽管模型在金标准与原数据库背离时仍能准确提取原文数值证明其具备真实阅读理解能力，但未来仍需在全新的非公开人类共识数据集上进行前瞻性验证。（p. 26）
-> 3. **计算能耗与环境成本考量** 运行 156 篇[[Document|文献]]的大模型推断约消耗 1.3–2.0 kWh 电力与 5.3 L 淡水蒸发；但相比人工完成相同任务所需的 390 小时工作站能耗与个人用水需求，机器提取的综合环境足迹仍显著更低。
-> 4. **提示词工程对领域专长的依存性** 提示词架构经过教育元分析专家的深度优化与校准，迁移至其他学科（如临床医学）或截然不同的[[Coding in Qualitative Research|编码]]任务时需要重新标定。（pp. 24–25）
+> 2. **训练集数据污染潜在风险** 《[[Visible Learning\|可见的学习]]》部分公开[[Meta-analysis\|元分析]]数据可能存在于大模型的预训练语料中；尽管模型在金标准与原数据库背离时仍能准确提取原文数值证明其具备真实阅读理解能力，但未来仍需在全新的非公开人类共识数据集上进行前瞻性验证。（p. 26）
+> 3. **计算能耗与环境成本考量** 运行 156 篇[[Document\|文献]]的大模型推断约消耗 1.3–2.0 kWh 电力与 5.3 L 淡水蒸发；但相比人工完成相同任务所需的 390 小时工作站能耗与个人用水需求，机器提取的综合环境足迹仍显著更低。
+> 4. **提示词工程对领域专长的依存性** 提示词架构经过教育元分析专家的深度优化与校准，迁移至其他学科（如临床医学）或截然不同的[[Coding in Qualitative Research\|编码]]任务时需要重新标定。（pp. 24–25）
 
 ---
 

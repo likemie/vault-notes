@@ -83,7 +83,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> [[Innovation Hub|创新中心]]（Innovation Center）与[[Innovation Park|研究园区]]（Research Park）在本章中交替使用，是[[University-Industry Collaboration|产学合作]]的重要基础设施。建一栋楼、挂上"创新中心"的牌子，并不会自动催生一个充满活力的社区。
+> [[Innovation Hub\|创新中心]]（Innovation Center）与[[Innovation Park\|研究园区]]（Research Park）在本章中交替使用，是[[University-Industry Collaboration\|产学合作]]的重要基础设施。建一栋楼、挂上"创新中心"的牌子，并不会自动催生一个充满活力的社区。
 >
 > 核心问题是，大学和产业伙伴如何系统性地创建、开发和维持一个能够持续推动区域经济发展的创新中心。
 >
@@ -94,7 +94,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 基于[[TUFF|大学融资基金会]]（The University Financing Foundation, TUFF）自 1982 年以来在[[University-Industry Collaboration|产学合作]]开发领域的实践经验。
+> 基于[[TUFF\|大学融资基金会]]（The University Financing Foundation, TUFF）自 1982 年以来在[[University-Industry Collaboration\|产学合作]]开发领域的实践经验。
 >
 > TUFF 起源于佐治亚理工学院（Georgia Tech）。1982 年，时任校长 Joseph Pettit 提出以私营部门的交付模式为大学建设高质量研究设施，用低于市场的租赁成本吸引产业伙伴，同时最大化联邦资金机会。这一愿景催生了 TUFF——一个由佐治亚理工学院校友创立的 501(c)(3) 基金会。其第一笔合作成果是佐治亚理工学院的 J. Frank Smith Centennial Research Building，此后四十三年来持续扩张(p.123)。
 >
@@ -107,29 +107,29 @@ citation_aliases:
 > 4. 知识产权（Intellectual Property, IP）保护
 >
 > **六项优先领域**
-> 1. 创业与[[Asset Mapping|资产映射]]
+> 1. 创业与[[Asset Mapping\|资产映射]]
 > 2. 学术存在
 > 3. 学术与公共对研发的承诺
 > 4. 筹资与对外关系
 > 5. 区域合作
-> 6. 激活活动与[[Placemaking|场所营造]]
+> 6. 激活活动与[[Placemaking\|场所营造]]
 >
-> 四个信条是边界条件，缺任何一个，[[Innovation Hub|创新中心]]都无法运转。六项优先领域是操作路径，它们同时推进、相互交织，并非线性步骤。
+> 四个信条是边界条件，缺任何一个，[[Innovation Hub\|创新中心]]都无法运转。六项优先领域是操作路径，它们同时推进、相互交织，并非线性步骤。
 >
-> 本章引用了利益相关者理论(Stakeholder Theory, Freeman, 1984)，借以说明创新中心采取整体性网络建设方式的合理性，但未将其作为正式[[Analytic Framework|分析框架]](pp.125–126)。
+> 本章引用了利益相关者理论(Stakeholder Theory, Freeman, 1984)，借以说明创新中心采取整体性网络建设方式的合理性，但未将其作为正式[[Analytic Framework\|分析框架]](pp.125–126)。
 >
-> TUFF 的实践框架有相当规模的[[Document|文献]]支持。Battelle 技术合作实践（Battelle Technology Partnership Practice）2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(p.125)。在学术产出方面，Dooley & Kirk(2007)证明了创新中心对大学研发和[[Technology Transfer|技术转移]]的净正面影响；Chai & Shih(2016)发现产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量。Katz & Ordover(1990)指出，创新园区能够打破大学内部各院系之间的孤岛，或创造出原本不存在的跨学科研发合作激励。区域经济政策层面，Cullum Clark(2022)的研究表明，支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环。不过，关于较新的产学合作的研究尚不充分，指向利益相关者[[Theoretical Validity|理论有效性]]的证据目前"更加定性和轶事性"（more qualitative and anecdotal, p.126）。
+> TUFF 的实践框架有相当规模的[[Document\|文献]]支持。Battelle 技术合作实践（Battelle Technology Partnership Practice）2013 年对北美大学[[Innovation Park\|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(p.125)。在学术产出方面，Dooley & Kirk(2007)证明了创新中心对大学研发和[[Technology Transfer\|技术转移]]的净正面影响；Chai & Shih(2016)发现产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量。Katz & Ordover(1990)指出，创新园区能够打破大学内部各院系之间的孤岛，或创造出原本不存在的跨学科研发合作激励。区域经济政策层面，Cullum Clark(2022)的研究表明，支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环。不过，关于较新的产学合作的研究尚不充分，指向利益相关者[[Theoretical Validity\|理论有效性]]的证据目前"更加定性和轶事性"（more qualitative and anecdotal, p.126）。
 
 ---
 
 ## 研究方法
 
 > [!info]
-> 实践者指南（practitioner guide），基于 [[TUFF]] 四十余年的直接开发经验与多案例分析。案例覆盖十一个[[Innovation Hub|创新中心]]：
-> - [[Tech Square at Georgia Tech|Tech Square]]（佐治亚理工学院）
-> - [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）/ 剑桥创新中心（Cambridge Innovation Center），麻省理工学院（MIT）周边
+> 实践者指南（practitioner guide），基于 [[TUFF]] 四十余年的直接开发经验与多案例分析。案例覆盖十一个[[Innovation Hub\|创新中心]]：
+> - [[Tech Square at Georgia Tech\|Tech Square]]（佐治亚理工学院）
+> - [[Kendall Square\|肯德尔广场]]（[[Kendall Square]]）/ 剑桥创新中心（Cambridge Innovation Center），麻省理工学院（MIT）周边
 > - [[Research Triangle Park]]（RTP，北卡罗来纳州）
-> - [[Purdue Discovery Park|普渡发现园]]（Purdue Discovery Park / Discovery District）
+> - [[Purdue Discovery Park\|普渡发现园]]（Purdue Discovery Park / Discovery District）
 > - [[University City Science Center]]（费城）
 > - [[Central Florida Research Park]]
 > - Sandia Science and Technology Park（新墨西哥州）
@@ -137,14 +137,14 @@ citation_aliases:
 > - [[University of Illinois Research Park]]
 > - STAR Park（特拉华大学）
 >
-> 信息来自 TUFF 的直接参与和与各园区管理者的[[Dialogue in Education|对话]]，属于从大量案例中归纳的实践原则，而非系统性实证研究中的[[Hypothesis|假设]]检验。
+> 信息来自 TUFF 的直接参与和与各园区管理者的[[Dialogue in Education\|对话]]，属于从大量案例中归纳的实践原则，而非系统性实证研究中的[[Hypothesis\|假设]]检验。
 
 ---
 
 ## 论证结构
 
 > [!abstract]
-> **整体逻辑链** 否定"物理设施[[Determinism|决定论]]" → 四个信条划定[[Necessary and Sufficient Conditions|必要条件]] → 六项优先领域逐一展开操作逻辑 → 收束为五步行动框架。
+> **整体逻辑链** 否定"物理设施[[Determinism\|决定论]]" → 四个信条划定[[Necessary and Sufficient Conditions\|必要条件]] → 六项优先领域逐一展开操作逻辑 → 收束为五步行动框架。
 
 ---
 
@@ -201,7 +201,7 @@ citation_aliases:
 10. 资产映射系统地把这些分散的资产梳理出来，建立一张"谁有什么、谁需要什么"的地图。其实质是真实的关系建立（authentic relationship building），通过与每个利益相关者坐下来[[Dialogue in Education|对话]]，了解他们的优势、需求和优先事项。这区别于填表格或做[[Questionnaire|问卷调查]]，因为后者能收集数据却无法建立信任(p.126)。
 
 > [!example]
-> 一所综合性大学要建教育科技创新中心。资产映射的第一步是派一名资深职员逐个拜访以下各方。教育学院的研究团队正在做什么方向的教育研究？计算机系的 AI 实验室有哪些技术可以转化到教育场景？附属中学有哪些真实的课堂痛点需要技术解决？本地教育局在推什么教育[[Informationalization|信息化]]政策？校友中的教育科技创业者当年为什么离开本地去别的城市创业？只有跑完这些对话，才能画出一张准确的"资产地图"，知道谁是真正的技术供给方、谁是需求方、谁是可能的出资方、还缺什么。
+> 一所综合性大学要建教育科技创新中心。资产映射的第一步是派一名资深职员逐个拜访以下各方。教育学院的研究团队正在做什么方向的教育研究？计算机系的 AI 实验室有哪些技术可以转化到教育场景？附属中学有哪些真实的课堂痛点需要技术解决？本地教育局在推什么教育[[Informationalization\|信息化]]政策？校友中的教育科技创业者当年为什么离开本地去别的城市创业？只有跑完这些对话，才能画出一张准确的"资产地图"，知道谁是真正的技术供给方、谁是需求方、谁是可能的出资方、还缺什么。
 
 11. 资产映射和创业活动相互强化(p.126)。理解现有资产和缺口本身就是创业者的核心能力——创业即用有限资源解决真实问题；系统化的资产映射则为更多创业者提供了清晰的资源视图，降低了进入门槛。
 
@@ -223,7 +223,7 @@ citation_aliases:
 16. [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）位于麻省理工学院（MIT）周边，是意向性网络建设（intentional networking）的典型案例。其核心组织剑桥创新中心（Cambridge Innovation Center, CIC）于 1999 年作为独立机构成立，推动联合办公和跨校跨机构的协同研发。CIC 同时是一个协调化的创业生态系统，通过创建社交和专业活动中心来推动早期开发与投资(p.128)。
 
 > [!success]
-> 据 CIC 网站数据，经过近三十年发展，CIC 已拥有超过 10,000 家客户组织，在全球举办超过 4,000 场活动，其客户累计吸引投资超过 170 亿美元。这些成果同时惠及大波士顿社区和各成员高校，催生了一个产业与创业伙伴之间自我强化的投资与共驻（[[University-Industry Co-location|co-location]]）循环(p.128)。
+> 据 CIC 网站数据，经过近三十年发展，CIC 已拥有超过 10,000 家客户组织，在全球举办超过 4,000 场活动，其客户累计吸引投资超过 170 亿美元。这些成果同时惠及大波士顿社区和各成员高校，催生了一个产业与创业伙伴之间自我强化的投资与共驻（[[University-Industry Co-location\|co-location]]）循环(p.128)。
 
 ---
 ### 案例：大学城科学中心
@@ -252,12 +252,12 @@ citation_aliases:
 14. 高层领导力是最关键的一环。研究园区如果没有内部倡导者（internal champion），即使有新的物理资产也很难成功(p.129)。
 
 > [!example]
-> [[Tech Square at Georgia Tech|Tech Square]] 的成功离不开佐治亚理工学院时任校长 Wayne Clough。Clough 被誉为"Tech Square 之父"，他不仅争取到了公共和私人资金，更做了一个关键决定，将管理学院迁入 Tech Square。当时 Tech Square 位于校园传统边界之外、一片不受欢迎且物理上隔离的地块上。Georgia Tech Foundation 同意投入新资金，条件是大学须将部分学术项目迁入新开发的 Tech Square。管理学院迁入后，由于每个佐治亚理工学院本科生必须修至少一门管理课，Tech Square 自然成为全体学生每周必去的热点区域。在 Tech Square 的走廊、咖啡馆和公共空间中，工科学生和商科学生自然相遇，产业人士和教授自然擦肩而过，创业者在这里摆摊招人，企业在这里"撞见"未来员工(pp.129–130)。
+> [[Tech Square at Georgia Tech\|Tech Square]] 的成功离不开佐治亚理工学院时任校长 Wayne Clough。Clough 被誉为"Tech Square 之父"，他不仅争取到了公共和私人资金，更做了一个关键决定，将管理学院迁入 Tech Square。当时 Tech Square 位于校园传统边界之外、一片不受欢迎且物理上隔离的地块上。Georgia Tech Foundation 同意投入新资金，条件是大学须将部分学术项目迁入新开发的 Tech Square。管理学院迁入后，由于每个佐治亚理工学院本科生必须修至少一门管理课，Tech Square 自然成为全体学生每周必去的热点区域。在 Tech Square 的走廊、咖啡馆和公共空间中，工科学生和商科学生自然相遇，产业人士和教授自然擦肩而过，创业者在这里摆摊招人，企业在这里"撞见"未来员工(pp.129–130)。
 
 15. 大学如果缺乏统一愿景或面临物理空间限制，容易出现两种失误(pp.130–131)：一是以为建一个园区就能从外部"抓住"某个趋势，比如看到人工智能热门就建 AI 创新中心，但本地实际没有 AI 研究积累和人才基础；二是试图凭空创造一个尚不存在的实践社区，而非增量式地利用现有优势。
 
 > [!example]
-> 暂时不具备条件建大型园区的大学，可以从卫星式[[Further Education|继续教育]]中心开始，在市区或产业区开设培训点，提供证书课程和短期培训，先服务已有的学术和产业社区，再逐步积累扩展(p.131)。一所地方[[Normal School|师范学院]]不一定一开始就建"[[International Education|国际教育]]研究中心"，可以先为本地中小学教师开设课后研修班，从服务已有的需求开始建立信任和网络。
+> 暂时不具备条件建大型园区的大学，可以从卫星式[[Further Education\|继续教育]]中心开始，在市区或产业区开设培训点，提供证书课程和短期培训，先服务已有的学术和产业社区，再逐步积累扩展(p.131)。一所地方[[Normal School\|师范学院]]不一定一开始就建"[[International Education\|国际教育]]研究中心"，可以先为本地中小学教师开设课后研修班，从服务已有的需求开始建立信任和网络。
 
 ---
 ### 案例：研究三角园的学术联合
@@ -289,15 +289,15 @@ citation_aliases:
 17. 大学可以通过政策激励加速这一循环。一项重要的制度变革是将产学合作和创业纳入教师晋升与终身教职的评价体系(p.132)。
 
 > [!example]
-> 一位教育学院的副教授，研究专注于[[Learning Analytics|学习分析]]。过去，她与一家教育科技公司联合开发学习仪表盘，对她的晋升几乎没有任何正面影响，甚至可能被视为"不务正业"，毕竟做学术发表才是正途。如果晋升标准明确承认产学合作成果（联合专利、技术转化、企业资助的研究项目），她的激励结构就会改变，她会更愿意花时间与产业伙伴对接，而不只是埋头写下一篇期刊论文。
+> 一位教育学院的副教授，研究专注于[[Learning Analytics\|学习分析]]。过去，她与一家教育科技公司联合开发学习仪表盘，对她的晋升几乎没有任何正面影响，甚至可能被视为"不务正业"，毕竟做学术发表才是正途。如果晋升标准明确承认产学合作成果（联合专利、技术转化、企业资助的研究项目），她的激励结构就会改变，她会更愿意花时间与产业伙伴对接，而不只是埋头写下一篇期刊论文。
 
 ---
 
 > [!success]
-> [[Purdue Discovery Park|普渡发现园]]（Purdue Discovery Park）是良性循环的实例。Lilly Endowment 和印第安纳州政府的初始投资各约 1500 万美元，Bayer、Rolls-Royce and Saab 等企业入驻，如今发展为 Discovery District，一个超过 10 亿美元的自持研发企业，也是美国最大的大学附属研究园区之一。Discovery District 目前涵盖纳米技术、先进计算等更广泛的研究领域，其官网在突出研发成功的同时也强调对潜在居民的综合价值，包括区域的可步行性、顶级公立学校和快速扩张的混合用途房地产(pp.131–132)。初始 3000 万美元撬动了超过 10 亿美元的研发活动，这一杠杆效应是初始投资通过良性循环放大的直观证据。
+> [[Purdue Discovery Park\|普渡发现园]]（Purdue Discovery Park）是良性循环的实例。Lilly Endowment 和印第安纳州政府的初始投资各约 1500 万美元，Bayer、Rolls-Royce and Saab 等企业入驻，如今发展为 Discovery District，一个超过 10 亿美元的自持研发企业，也是美国最大的大学附属研究园区之一。Discovery District 目前涵盖纳米技术、先进计算等更广泛的研究领域，其官网在突出研发成功的同时也强调对潜在居民的综合价值，包括区域的可步行性、顶级公立学校和快速扩张的混合用途房地产(pp.131–132)。初始 3000 万美元撬动了超过 10 亿美元的研发活动，这一杠杆效应是初始投资通过良性循环放大的直观证据。
 
 > [!success]
-> [[Central Florida Research Park|中佛罗里达研究园]]（Central Florida Research Park）同样体现了良性循环。该园于 1978 年通过与中佛罗里达大学（University of Central Florida, UCF）合作建立。1993 年，美国海军空战中心训练系统部（Naval Air Warfare Center Training Systems Division）迁入园区。此后大学和州政府持续投资以吸引更多国防部租户入驻。如今园区拥有超过 9,500 名雇员，租户包括 Northrop Grumman、Boeing、Leidos、ManTech、General Dynamics、Parsons and Booz Allen Hamilton 等主要国防承包商。UCF 的研发支出在过去十年间翻了一番多，从 2011 年的 1.09 亿美元增长到 2020 年的 2.39 亿美元(p.132)。
+> [[Central Florida Research Park\|中佛罗里达研究园]]（Central Florida Research Park）同样体现了良性循环。该园于 1978 年通过与中佛罗里达大学（University of Central Florida, UCF）合作建立。1993 年，美国海军空战中心训练系统部（Naval Air Warfare Center Training Systems Division）迁入园区。此后大学和州政府持续投资以吸引更多国防部租户入驻。如今园区拥有超过 9,500 名雇员，租户包括 Northrop Grumman、Boeing、Leidos、ManTech、General Dynamics、Parsons and Booz Allen Hamilton 等主要国防承包商。UCF 的研发支出在过去十年间翻了一番多，从 2011 年的 1.09 亿美元增长到 2020 年的 2.39 亿美元(p.132)。
 
 ---
 
@@ -338,7 +338,7 @@ citation_aliases:
 > [!example]
 > 一个以旅游经济为主的小城市，看到深圳建了科技创新中心很成功，就照搬了一个"AI 产业园"。但本地没有 AI 研究基础，没有风投生态，最优秀的学生高中毕业就去了省会城市读大学且不再回来。这个"AI 产业园"大概率会变成空置的写字楼。
 >
-> 如果这个城市从本地优势出发，[[Hypothesis|假设]]本地有丰富的中小学自然教育基地资源和一批有经验的户外教育从业者，围绕"自然教育"和"研学旅行"来设计创新中心，整合本地大学的生态学系、教育学院课程设计专家以及旅游行业的营销和运营能力，成功的可能性就大得多。
+> 如果这个城市从本地优势出发，[[Hypothesis\|假设]]本地有丰富的中小学自然教育基地资源和一批有经验的户外教育从业者，围绕"自然教育"和"研学旅行"来设计创新中心，整合本地大学的生态学系、教育学院课程设计专家以及旅游行业的营销和运营能力，成功的可能性就大得多。
 
 21. 区域合作初期需要一位多面手式执行主管，能在房地产、政府关系、金融、市场营销、学术、项目激活和资产管理之间做翻译和协调，不一定每个领域都是专家(p.134)。
 
@@ -367,7 +367,7 @@ citation_aliases:
 26. 场所营造还面临数据收集的挑战，即如何衡量活动的效果，如何建立持续反馈和改进机制。TUFF 的经验是，投入精力在活动中收集数据、不断提问，可以赋权创新中心持续改进活动设计，避免陷入停滞。场所营造要求建筑管理方从传统的"被动物业管理"（passive property management）转向更主动的、以社区为导向的方式，由此创造出一种"公民意识和参与的文化"，这种文化天然关注整个社区的福祉(pp.136–137)。
 
 > [!example]
-> 类似的逻辑也适用于教育学院和本地学校之间。如果教育学院想和周边中小学建立深度合作，仅签一份协议然后发邮件说"欢迎参加教研活动"是远远不够的。更有效的做法是，在教育学院一楼开一间开放式咖啡馆，对中小学教师免费开放，每周有一位本地教师来分享"这周课堂上最让我头疼的一件事"。教师觉得有共鸣，教授听到了真实的[[Research Question|研究问题]]，博士生找到了论文选题。这种弱连接，恰恰是合作从形式走向实质的关键。
+> 类似的逻辑也适用于教育学院和本地学校之间。如果教育学院想和周边中小学建立深度合作，仅签一份协议然后发邮件说"欢迎参加教研活动"是远远不够的。更有效的做法是，在教育学院一楼开一间开放式咖啡馆，对中小学教师免费开放，每周有一位本地教师来分享"这周课堂上最让我头疼的一件事"。教师觉得有共鸣，教授听到了真实的[[Research Question\|研究问题]]，博士生找到了论文选题。这种弱连接，恰恰是合作从形式走向实质的关键。
 
 ---
 
@@ -387,21 +387,21 @@ citation_aliases:
 ## 主要发现
 
 > [!success]
-> **联邦资金与[[Innovation Hub|创新中心]]增长的关联**
-> - 《通胀削减法案》（Inflation Reduction Act）、《重建更好法案》（Build Back Better Act）和 [[CHIPS and Science Act|CHIPS 法案]]共同授权了数千亿美元，其中相当比例指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区(pp.137–138)。根据布鲁金斯学会的分析，新一批创新中心将面临与硅谷或波士顿截然不同的挑战
-> - 联邦政策与围绕大学的日益成熟的风险投资（venture capital）存在协同效应，共同推动了人们对商业化与[[Technology Transfer|技术转移]]潜力的认知提升(p.137)
+> **联邦资金与[[Innovation Hub\|创新中心]]增长的关联**
+> - 《通胀削减法案》（Inflation Reduction Act）、《重建更好法案》（Build Back Better Act）和 [[CHIPS and Science Act\|CHIPS 法案]]共同授权了数千亿美元，其中相当比例指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区(pp.137–138)。根据布鲁金斯学会的分析，新一批创新中心将面临与硅谷或波士顿截然不同的挑战
+> - 联邦政策与围绕大学的日益成熟的风险投资（venture capital）存在协同效应，共同推动了人们对商业化与[[Technology Transfer\|技术转移]]潜力的认知提升(p.137)
 > - 新兴技术领域（人工智能、人机界面、先进制造、量子信息技术）是联邦新资金最优先支持的方向，但围绕这些领域建立的创新中心相对较少，既有合作体和新兴合作体都面临机会窗口(p.138)
 
 > [!warning]
 > **疫情后的商业地产困境反证了核心论点**
-> - [[Tech Square at Georgia Tech|Tech Square]] 经历了两次全国最严重的衰退和一场全球疫情，后者既扰乱了商业地产市场，又似乎永久性地改变了美国工作者的心理。以强大学术-产业合作为基础的[[Innovation Park|创新园区]]，比纯商业地产在面对远程办公趋势和市场波动时更具韧性，因为园区提供的核心价值是"社区"而非仅仅是"空间"(p.139)
+> - [[Tech Square at Georgia Tech\|Tech Square]] 经历了两次全国最严重的衰退和一场全球疫情，后者既扰乱了商业地产市场，又似乎永久性地改变了美国工作者的心理。以强大学术-产业合作为基础的[[Innovation Park\|创新园区]]，比纯商业地产在面对远程办公趋势和市场波动时更具韧性，因为园区提供的核心价值是"社区"而非仅仅是"空间"(p.139)
 > - 减少官僚障碍和繁文缛节，可能比增加资金对创新中心成功的贡献更大
 
 > [!abstract]
 > **[[TUFF]] 总结的四个成功主题**(pp.139–140)：
-> 1. **Tech Square 作为韧性透镜** Tech Square 经历了两次全国最严重衰退和全球疫情，仍然充满活力。创新中心通过成功的文化建设、长期投资和真正响应性的[[Placemaking|场所营造]]来获得韧性。
-> 2. **商业地产不等于产学开发** 疫情带来的商业地产困境恰恰强调了[[University-Industry Collaboration|产学合作]]基本原则的重要性。以强大学术-产业合作为基础的创新园区，其物理和无形资产相互强化，因此能够抵御不断变化的市场条件。
-> 3. **[[Creativity|创造性]]场所营造与关系建设比以往更重要** 产学合作没有保证的成功公式，但当合作方寻求与社区的现有基础设施和资产对齐时，合作会更加成功。在较不发达地区设计一个新的职业培训中心时，应仔细关注本州的历史和专长，并尽可能围绕这些进行设计。
+> 1. **Tech Square 作为韧性透镜** Tech Square 经历了两次全国最严重衰退和全球疫情，仍然充满活力。创新中心通过成功的文化建设、长期投资和真正响应性的[[Placemaking\|场所营造]]来获得韧性。
+> 2. **商业地产不等于产学开发** 疫情带来的商业地产困境恰恰强调了[[University-Industry Collaboration\|产学合作]]基本原则的重要性。以强大学术-产业合作为基础的创新园区，其物理和无形资产相互强化，因此能够抵御不断变化的市场条件。
+> 3. **[[Creativity\|创造性]]场所营造与关系建设比以往更重要** 产学合作没有保证的成功公式，但当合作方寻求与社区的现有基础设施和资产对齐时，合作会更加成功。在较不发达地区设计一个新的职业培训中心时，应仔细关注本州的历史和专长，并尽可能围绕这些进行设计。
 > 4. **建立对区域差异化的具体认知** 合作方应明确知道自己的区域差异因素（regional differentiators），然后利用这些资产从强大的核心向外构建。当合作方忠于一个地方独特的人才和特征时，从筹款、市场营销到复杂的跨公私利益相关者协调，各个方面的合作都会变得更容易。
 
 ---
@@ -426,9 +426,9 @@ citation_aliases:
 
 > [!warning]
 > - 框架来自实践经验的归纳，未经过系统实证检验（贯穿全章）
-> - 利益相关者理论对[[Innovation Park|研究园区]]网络建设有效性的证据"更加定性和轶事性"（more qualitative and anecdotal），研究并不充分(p.126)
+> - 利益相关者理论对[[Innovation Park\|研究园区]]网络建设有效性的证据"更加定性和轶事性"（more qualitative and anecdotal），研究并不充分(p.126)
 > - 六项优先领域"不是一个详尽的清单"(p.124)
-> - 某些[[Innovation Hub|创新中心]]（如 [[Kendall Square]] / CIC）的数据来自运营方网站，非独立第三方评估(p.128)
+> - 某些[[Innovation Hub\|创新中心]]（如 [[Kendall Square]] / CIC）的数据来自运营方网站，非独立第三方评估(p.128)
 
 ---
 

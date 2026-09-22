@@ -52,10 +52,10 @@ updated: 2026-09-18
 ## 定义
 
 > [!info]
-> "[[Chinese Learner|中国学习者]]悖论"（paradox of the Chinese learner）由 [[David Watkins]] 和 [[John Biggs]] 在《The Chinese Learner》（1996）中系统提出。悖论的基本形态是：从西方教育视角看，中国／东亚教育体系充斥着"不良教学实践"——教师中心、威权主义、学生被动服从、[[Rote Learning|死记硬背]]、缺乏内在动机、只求应试；但这些学习者在国际评估中持续表现优异，形成了"低劣学习方式"与"持续高成就"之间的尖锐矛盾([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-83]])。
+> "[[Chinese Learner\|中国学习者]]悖论"（paradox of the Chinese learner）由 [[David Watkins]] 和 [[John Biggs]] 在《The Chinese Learner》（1996）中系统提出。悖论的基本形态是：从西方教育视角看，中国／东亚教育体系充斥着"不良教学实践"——教师中心、威权主义、学生被动服从、[[Rote Learning\|死记硬背]]、缺乏内在动机、只求应试；但这些学习者在国际评估中持续表现优异，形成了"低劣学习方式"与"持续高成就"之间的尖锐矛盾([[Argument_Li_2012_Cambridge\|Li, 2012, pp.82-83]])。
 
 > [!quote]
-> "如果不是被彻底激怒并谴责中国学习的话，每当西方人教中国学生或参观中国学校时，他们都会感到失望。如前所述，中国教育体系主要由过时的教与学组成。"([[Argument_Li_2012_Cambridge|Li, 2012, p.82]])
+> "如果不是被彻底激怒并谴责中国学习的话，每当西方人教中国学生或参观中国学校时，他们都会感到失望。如前所述，中国教育体系主要由过时的教与学组成。"([[Argument_Li_2012_Cambridge\|Li, 2012, p.82]])
 
 ---
 
@@ -70,7 +70,7 @@ updated: 2026-09-18
 - **Watkins & Biggs (2001)** 出版续作《Teaching the Chinese Learner》，将研究扩展至教学层面
 
 > [!example] Li 的个人经历
-> Li 回忆了在哈佛教育学院修课时的一次经历——当她试图分享练习写汉字或书法有助于孩子学会集中注意力时，授课教师不屑地回应："中国学生做的一切就是[[Rote Learning|死记硬背]]！这不是我们这门课要处理的问题。"这番话让她在剩下的课程中保持沉默——而当时她甚至不知道该怎样回应([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-83]])。这一经历折射出悖论的核心张力：西方观察者看到的行为（重复朗读、抄写）与学习者内在过程（深度投入、逐层理解）之间的认知鸿沟。
+> Li 回忆了在哈佛教育学院修课时的一次经历——当她试图分享练习写汉字或书法有助于孩子学会集中注意力时，授课教师不屑地回应："中国学生做的一切就是[[Rote Learning\|死记硬背]]！这不是我们这门课要处理的问题。"这番话让她在剩下的课程中保持沉默——而当时她甚至不知道该怎样回应([[Argument_Li_2012_Cambridge\|Li, 2012, pp.82-83]])。这一经历折射出悖论的核心张力：西方观察者看到的行为（重复朗读、抄写）与学习者内在过程（深度投入、逐层理解）之间的认知鸿沟。
 
 ---
 
@@ -93,14 +93,14 @@ updated: 2026-09-18
 - 2009 年上海首次参与 PISA 即获第一([[Argument_Li_2012_Cambridge|Li, 2012, pp.81-82]])
 
 > [!tip]- 悖论的两种解读路径
-> 悖论可以从两个方向解读。**缺陷解读（deficit reading）** 高成就来自考试压力和家庭强制，以心理健康为代价——这种解读长期主导了大众媒体叙事。**重新理解解读（reinterpretation reading）** 看似低效的学习方式在不同文化框架下具有不同的意义和功能——这是 Watkins、Biggs and Li 等研究者推动的方向。[[Argument_Li_2012_Cambridge|Li (2012, pp.74-78)]]对两种解读均提供了实证审查，详见 [[Examination Hell#争议与批评]]。
+> 悖论可以从两个方向解读。**缺陷解读（deficit reading）** 高成就来自考试压力和家庭强制，以心理健康为代价——这种解读长期主导了大众媒体叙事。**重新理解解读（reinterpretation reading）** 看似低效的学习方式在不同文化框架下具有不同的意义和功能——这是 Watkins、Biggs and Li 等研究者推动的方向。[[Argument_Li_2012_Cambridge\|Li (2012, pp.74-78)]]对两种解读均提供了实证审查，详见 [[Examination Hell#争议与批评]]。
 
 ---
 
 ## 研究回应：悖论的拆解
 
 > [!success]
-> [[Argument_Li_2012_Cambridge|Li (2012, pp.84-89)]]综述了 [[Confucian Heritage Cultures|CHC]] 研究界从两个层面回应悖论的系统性发现：
+> [[Argument_Li_2012_Cambridge\|Li (2012, pp.84-89)]]综述了 [[Confucian Heritage Cultures\|CHC]] 研究界从两个层面回应悖论的系统性发现：
 
 ### 学习信念层面
 
@@ -124,8 +124,8 @@ updated: 2026-09-18
 ## 理论基础
 
 > [!tip]-
-> - [[Confucian Learning Tradition]] — 悖论的"高成就"一面的文化解释来源：儒家传统将学习视为 [[Self-Cultivation|修身]] 的道德项目，由此衍生出 [[Learning Virtues|学习美德]] 的个人能动性系统
-> - [[Surface and Deep Learning]] — 悖论的"低效学习方法"一面涉及对该二分法的跨文化挑战：[[Confucian Heritage Cultures|CHC]] 研究显示"记忆"可以是通往深层理解的路径而非其替代品
+> - [[Confucian Learning Tradition]] — 悖论的"高成就"一面的文化解释来源：儒家传统将学习视为 [[Self-Cultivation\|修身]] 的道德项目，由此衍生出 [[Learning Virtues\|学习美德]] 的个人能动性系统
+> - [[Surface and Deep Learning]] — 悖论的"低效学习方法"一面涉及对该二分法的跨文化挑战：[[Confucian Heritage Cultures\|CHC]] 研究显示"记忆"可以是通往深层理解的路径而非其替代品
 > - [[Cultural Models]] — Li 的研究框架：文化模型影响和引导（但不决定）成员行为，因此 CHC 学习者的行为需要在 CHC 文化模型内而非西方模型内被理解
 > - [[Chinese Learner]] — Li 从儒家文本和实证研究中提炼的系统性学习者画像，为悖论提供了解释框架
 > - [[Learning Gap]] — [[Stevenson and Stigler]] 的归因研究发现（努力 vs 能力）为悖论提供了认知层面的解释
@@ -136,8 +136,8 @@ updated: 2026-09-18
 
 > [!warning]
 > - **悖论框架本身的西方中心预设** 将中国学习方式定性为"看似低效的"，实际上预设了西方教育方法的优越性——悖论之所以是"悖论"，恰恰因为它以西方标准为默认参照系
-> - **过度同质化 [[Confucian Heritage Cultures|CHC]] 内部差异** 将中国、日本、韩国、越南学习者的高成就归因于同一套"儒家价值"，可能掩盖了各国不同的教育制度、政治经济条件和本土文化传统
-> - **悖论可能已被解决** 经过 Marton、Dahlin、Watkins、Li 等三十余年的研究，"悖论"可能已不再是悖论——它只是揭示了两种文化学习模型在目的、过程和成就标准上的系统性差异。在此意义上，"[[Chinese Learner|中国学习者]]悖论"的持久生命力更多反映了**西方教育话语对替代性学习模型持续的不理解**，而非研究证据的缺乏
+> - **过度同质化 [[Confucian Heritage Cultures\|CHC]] 内部差异** 将中国、日本、韩国、越南学习者的高成就归因于同一套"儒家价值"，可能掩盖了各国不同的教育制度、政治经济条件和本土文化传统
+> - **悖论可能已被解决** 经过 Marton、Dahlin、Watkins、Li 等三十余年的研究，"悖论"可能已不再是悖论——它只是揭示了两种文化学习模型在目的、过程和成就标准上的系统性差异。在此意义上，"[[Chinese Learner\|中国学习者]]悖论"的持久生命力更多反映了**西方教育话语对替代性学习模型持续的不理解**，而非研究证据的缺乏
 
 ---
 

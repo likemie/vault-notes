@@ -9,7 +9,7 @@ aliases:
 summary: "涵盖问题分解、模式识别、抽象表征与算法设计等心智操作的问题解决能力体系，是从程序性技能向高阶认知进阶的基础枢纽。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - higher-order-thinking
 related_concepts:
   - "[[Reflexivity]]"
+  - "[[STEM Education]]"
   - "[[Dependent Variable]]"
   - "[[Procedural Skill]]"
   - "[[Logic Model]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Computational Thinking
@@ -66,15 +67,15 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 计算思维（Computational Thinking, CT）由周以真（Jeannette M. Wing, 2006）界定为运用计算机科学的基础概念进行问题求解、系统设计以及人类行为理解等一系列心智活动与认知过程。它不仅是计算机从业者的专业技能，更是一种面向全体学习者的通用素养与认知工具箱，核心涵盖**问题分解（Decomposition）**、**模式识别（Pattern Recognition）**、**抽象表征（Abstraction）**与**算法设计（Algorithm Design）**四大心智操作。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2–3)]]
+> 计算思维（Computational Thinking, CT）由周以真（Jeannette M. Wing, 2006）界定为运用计算机科学的基础概念进行问题求解、系统设计以及人类行为理解等一系列心智活动与认知过程。它不仅是计算机从业者的专业技能，更是一种面向全体学习者的通用素养与认知工具箱，核心涵盖**问题分解（Decomposition）**、**模式识别（Pattern Recognition）**、**抽象表征（Abstraction）**与**算法设计（Algorithm Design）**四大心智操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 强调利用可计算的逻辑、规则序列与[[Reflexivity|反思性]]迭代去形式化和解决复杂良构及劣构问题，沟通了低阶规则操作与高阶批判创造。
-> - **用途** 在基础教育与高等教育中作为评价 STEM/STEAM 教育、编程教学及 AI 自适应学习成效的核心[[Dependent Variable|因变量]]。
-> - **边界** 计算思维不等同于单纯的代码语法记忆（Coding），脱离了问题分解与算法反思的机械[[Coding in Qualitative Research|编码]]只属于低水平的[[Procedural Skill|程序性技能]]。
+> - **含义** 强调利用可计算的逻辑、规则序列与[[Reflexivity\|反思性]]迭代去形式化和解决复杂良构及劣构问题，沟通了低阶规则操作与高阶批判创造。
+> - **用途** 在基础教育与高等教育中作为评价 [[STEM Education\|STEM]]/STEAM 教育、编程教学及 AI 自适应学习成效的核心[[Dependent Variable\|因变量]]。
+> - **边界** 计算思维不等同于单纯的代码语法记忆（Coding），脱离了问题分解与算法反思的机械[[Coding in Qualitative Research\|编码]]只属于低水平的[[Procedural Skill\|程序性技能]]。
 
 > [!citation-card]- 关键表述
-> 计算思维表征了学习者将复杂现实挑战转化为可算法化求解形式的高阶认知能力。在智能教学技术干预中，通过自适应步骤提示与反思量规引导，学生的算法设计与调试推理能力获得显著提升。（[[Argument_Liu_2026_CHBR|Liu et al., 2026, pp. 2]], 6–7）
+> 计算思维表征了学习者将复杂现实挑战转化为可算法化求解形式的高阶认知能力。在智能教学技术干预中，通过自适应步骤提示与反思量规引导，学生的算法设计与调试推理能力获得显著提升。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 6–7）
 >
 > *Computational thinking encompasses the cognitive processes involved in formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by an information-processing agent.*
 
@@ -119,14 +120,14 @@ flowchart LR
 > [!feature] 计算思维四大核心心智维度
 > 1. **问题分解（Decomposition）** 将庞大、繁复的综合问题拆解为若干细小、独立且易于管理与解决的子模块。
 > 2. **模式识别（Pattern Recognition）** 在不同子问题或历史情境中观察相似性、共性趋势与规则重复，加速认知图式的检索。
-> 3. **抽象表征（Abstraction）** 识别并聚焦解决问题所必需的关键信息，剥离无关的具象细节，建立通用的数学或[[Logic Model|逻辑模型]]。
+> 3. **抽象表征（Abstraction）** 识别并聚焦解决问题所必需的关键信息，剥离无关的具象细节，建立通用的数学或[[Logic Model\|逻辑模型]]。
 > 4. **算法设计（Algorithm Design）** 制定一套清晰、有序、可重复执行的分步操作指南或产生式规则序列（IF-THEN），以求得问题的确定性解答。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 计算思维与相关认知[[Construct|构念]]辨析
+> [!contrast-table] 计算思维与相关认知[[Construct\|构念]]辨析
 > | 维度 | **计算思维（Computational Thinking）** | [[Procedural Skill\|程序性技能（Procedural Skill）]] | [[Critical Thinking\|批判性思维（Critical Thinking）]] | [[Higher-Order Thinking Skills\|通用高阶思维（HOTS）]] |
 > |---|---|---|---|---|
 > | **核心关切** | **问题形式化与算法化求解** | 熟练执行特定良构操作序列 | 审视论据真伪与逻辑偏误 | 跨情境深度分析、综合与创造 |
@@ -158,6 +159,6 @@ flowchart LR
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]][[Meta-analysis|元分析]]中将计算思维与代码调试作为关键认知[[Dependent Variable|因变量]]，证实结合反思量规的自适应[[Scaffolding|教学支架]]能有效提升中小学生的算法设计表现。
-> - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 在 AI 教育[[Meta-meta-analysis|二阶元分析]]中探讨计算机科学与算法思维教学的独特干预效应，证实计算机科学学科获得显著的促学收益（$ES = 0.72$）。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中将计算思维与代码调试作为关键认知[[Dependent Variable\|因变量]]，证实结合反思量规的自适应[[Scaffolding\|教学支架]]能有效提升中小学生的算法设计表现。
+> - [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] — 在 AI 教育[[Meta-meta-analysis\|二阶元分析]]中探讨计算机科学与算法思维教学的独特干预效应，证实计算机科学学科获得显著的促学收益（$ES = 0.72$）。

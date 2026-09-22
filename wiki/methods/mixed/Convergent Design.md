@@ -71,10 +71,10 @@ updated: 2026-06-30
 ## 1. 定义与核心价值
 
 > [!info] 定义
-> 聚敛式设计（convergent design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。在聚敛式设计中，研究者同时收集量化数据和质性数据，对两类数据分别进行分析，然后将两组分析结果合并（merge）进行比较，以综合解释[[Research Question|研究问题]]([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.136]])。
+> 聚敛式设计（convergent design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。在聚敛式设计中，研究者同时收集量化数据和质性数据，对两类数据分别进行分析，然后将两组分析结果合并（merge）进行比较，以综合解释[[Research Question\|研究问题]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.136]])。
 
 > [!quote]
-> "A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.136]])
+> "A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.136]])
 > 
 > 将采用聚敛式混合方法设计，这是一种通过收集质性数据和量化数据，以对某项研究问题提供多重透视的设计类型。
 
@@ -100,8 +100,8 @@ updated: 2026-06-30
 
 ## 3. 认识论立场
 
-> [!abstract] [[Pragmatic Paradigm|实用主义]] (pragmatism)
-> 聚敛式设计通常扎根于[[Pragmatic Paradigm|实用主义范式]]，强调什么有效（what works）来解决[[Research Question|研究问题]]。它不追求量化或质性[[Paradigm|范式]]的排他性，而是认为通过并行的数据收集可以从多维度捕捉现实，不同性质的证据可以互补以服务于对复杂教育现象的解释。
+> [!abstract] [[Pragmatic Paradigm\|实用主义]] (pragmatism)
+> 聚敛式设计通常扎根于[[Pragmatic Paradigm\|实用主义范式]]，强调什么有效（what works）来解决[[Research Question\|研究问题]]。它不追求量化或质性[[Paradigm\|范式]]的排他性，而是认为通过并行的数据收集可以从多维度捕捉现实，不同性质的证据可以互补以服务于对复杂教育现象的解释。
 
 ---
 
@@ -111,10 +111,10 @@ updated: 2026-06-30
 在研究开始前，研究者需明确阐述设计意图([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.136–137]])：
 
 > **英文脚本：**
-> This convergent mixed methods study will address ________ (overall intent). A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question. In the study, ________ (quantitative data) will be used to test the theory of ________ that predicts that ________ (independent [[Variable|variables]]) will influence ________ ([[Dependent Variable|dependent variables]]) for ________ (participants) at ________ (research site). The ________ (qualitative data) will explore the ________ ([[Central Phenomenon]]) for ________ (participants) at ________ (research site). The reason for collecting both quantitative and qualitative data is to ________ (merging the results).
+> This convergent mixed methods study will address ________ (overall intent). A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question. In the study, ________ (quantitative data) will be used to test the theory of ________ that predicts that ________ (independent [[Variable\|variables]]) will influence ________ ([[Dependent Variable\|dependent variables]]) for ________ (participants) at ________ (research site). The ________ (qualitative data) will explore the ________ ([[Central Phenomenon]]) for ________ (participants) at ________ (research site). The reason for collecting both quantitative and qualitative data is to ________ (merging the results).
 >
 > **中文译文：**
-> 本[[Mixed Methods Research|混合方法研究]]将解决________（总体意图）。采用聚敛式混合方法设计，在该设计中，质性数据和量化数据分别收集以提供对问题或[[Research Question|研究问题]]的多重视角。本研究中，________（量化数据）将用于检验________理论，该理论预测________自[[Variable|变量]]对________因变量在________研究场所________参与者的影响。________（质性数据）将探索________的________[[Central Phenomenon|核心现象]]。合并两类数据库的洞见将是________。
+> 本[[Mixed Methods Research\|混合方法研究]]将解决________（总体意图）。采用聚敛式混合方法设计，在该设计中，质性数据和量化数据分别收集以提供对问题或[[Research Question\|研究问题]]的多重视角。本研究中，________（量化数据）将用于检验________理论，该理论预测________自[[Variable\|变量]]对________因变量在________研究场所________参与者的影响。________（质性数据）将探索________的________[[Central Phenomenon\|核心现象]]。合并两类数据库的洞见将是________。
 
 ### 4.2 执行程序：五阶段基本流程
 操作逻辑遵循分别收集、独立分析、合并比较的原则：
@@ -142,7 +142,7 @@ updated: 2026-06-30
 ### 4.4 关键工具：联合展示模板
 
 > [!note]- 联合展示的操作逻辑
-> 联合展示可以将主题作为列、分类变量（如高/中/低分）作为行，单元格中放置引用或得分，并添加[[Metainferences|元推论]]行和列。
+> 联合展示可以将主题作为列、分类变量（如高/中/低分）作为行，单元格中放置引用或得分，并添加[[Metainferences\|元推论]]行和列。
 
 **表 10.2：聚敛式设计联合展示模板（Template for a Convergent Design Joint Display）**
 纵轴为分类变量（高/中/低分组），横轴为主题，单元格中填入质性引用和/或量化得分。
@@ -169,25 +169,25 @@ updated: 2026-06-30
 ## 6. 方法变体与对比
 
 > [!tip]-
-> - [[Explanatory Sequential Design|解释性序列设计]] — 顺序不同：聚敛式是同时收集、合并比较；解释性序列是量化在前、质性在后，质性用于解释量化结果。
-> - [[Exploratory Sequential Design|探索性序列设计]] — 顺序相反（质性→量化），且质性发现直接用于开发或修改量化工具。
-> - **复杂嵌入设计 (Complex Embedded Design)** — 将聚敛式设计嵌入更大的框架（如实验、[[Case Study|案例研究]]）中使用。
+> - [[Explanatory Sequential Design\|解释性序列设计]] — 顺序不同：聚敛式是同时收集、合并比较；解释性序列是量化在前、质性在后，质性用于解释量化结果。
+> - [[Exploratory Sequential Design\|探索性序列设计]] — 顺序相反（质性→量化），且质性发现直接用于开发或修改量化工具。
+> - **复杂嵌入设计 (Complex Embedded Design)** — 将聚敛式设计嵌入更大的框架（如实验、[[Case Study\|案例研究]]）中使用。
 
 ---
 
 ## 7. 使用此方法的研究
 
 > [!example]
-> - Argument_Classen_2007_CreswellExample — 对全国车祸数据集（量化）进行二次分析，同时对六项[[Qualitative Research|质性研究]]进行[[Meta-meta-analysis|元综合]]，将两组结果合并比较以制定老年驾驶员安全促进模型([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.137]])。
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 通过三个阶段同时收集量化和质性数据：阶段一全国 ToK 学生[[Internet-based Survey|在线调查]]（[[Critical Thinking Strategies Scale|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]], n=1,338）、阶段二四校[[Case Study|案例研究]]（访谈、[[Focus Group|焦点小组]]、课堂观察）、阶段三 DP 与非 DP 大学新生比较（[[California Critical Thinking Disposition Inventory|CCTDI]]+[[Academic Self-Concept|ASC]]+ATAR, n=389），三组结果合并比较以检验 IB ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系。
+> - Argument_Classen_2007_CreswellExample — 对全国车祸数据集（量化）进行二次分析，同时对六项[[Qualitative Research\|质性研究]]进行[[Meta-meta-analysis\|元综合]]，将两组结果合并比较以制定老年驾驶员安全促进模型([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.137]])。
+> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 通过三个阶段同时收集量化和质性数据：阶段一全国 ToK 学生[[Internet-based Survey\|在线调查]]（[[Critical Thinking Strategies Scale\|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]], n=1,338）、阶段二四校[[Case Study\|案例研究]]（访谈、[[Focus Group\|焦点小组]]、课堂观察）、阶段三 DP 与非 DP 大学新生比较（[[California Critical Thinking Disposition Inventory\|CCTDI]]+[[Academic Self-Concept\|ASC]]+ATAR, n=389），三组结果合并比较以检验 IB ToK 课程与[[Critical Thinking\|批判性思维]]技能发展的关系。
 
 ---
 
 ## 8. 相关概念与理论
 
 > [!tip]-
-> - pragmatism — 作为其哲学基础的[[Pragmatic Paradigm|实用主义]]。
-> - [[Integration in Mixed Methods]] — [[Mixed Methods Research|混合方法研究]]的整合核心过程。
+> - pragmatism — 作为其哲学基础的[[Pragmatic Paradigm\|实用主义]]。
+> - [[Integration in Mixed Methods]] — [[Mixed Methods Research\|混合方法研究]]的整合核心过程。
 > - [[Joint Display]] — 核心可视化整合工具。
 
 ---

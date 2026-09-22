@@ -42,7 +42,7 @@ updated: 2026-06-10
 ## 核心主张
 
 > [!tip]-
-> Richard Lester（MIT）在 2005 年对大学如何贡献于本地经济的研究中提出了一项核心主张：大学对本地[[Systems of Innovation|创新系统]]的贡献方式并非千篇一律，而是**取决于本地产业的类型以及这些产业所处的产业生命周期阶段**。这一框架挑战了"大学在任何地方都可以通过相同方式推动经济发展"的[[Hypothesis|假设]]（[[Argument_Lester_2005_MIT|Lester, 2005]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp.8–9)]]）。
+> Richard Lester（MIT）在 2005 年对大学如何贡献于本地经济的研究中提出了一项核心主张：大学对本地[[Systems of Innovation\|创新系统]]的贡献方式并非千篇一律，而是**取决于本地产业的类型以及这些产业所处的产业生命周期阶段**。这一框架挑战了"大学在任何地方都可以通过相同方式推动经济发展"的[[Hypothesis\|假设]]（[[Argument_Lester_2005_MIT\|Lester, 2005]]; [[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp.8–9)]]）。
 
 ## 核心命题
 
@@ -87,10 +87,10 @@ updated: 2026-06-10
 > [!note]-
 > - 2005 年 Richard Lester 在 MIT 工业绩效中心发表 *Universities, Innovation, and the [[Competitiveness]] of Local Economies: summary report from the local innovation project — phase I*
 > - 该研究对本地创新项目进行了系统总结，提出了大学对本地产业的四种贡献类型
-> - 该框架在 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 上被引用，作为理解大学如何战略性参与本地[[Innovation Ecosystem|创新生态系统]]建设的理论基础（pp.8–9）
+> - 该框架在 2019 年 [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]] 上被引用，作为理解大学如何战略性参与本地[[Innovation Ecosystem\|创新生态系统]]建设的理论基础（pp.8–9）
 
 ## 理论语境
 
 > [!tip]-
-> - 与 [[Innovation Ecosystem|创新生态系统]] 的关系 — Lester 的分类框架为"大学如何战略性地发展本地创新生态系统"这一峰会关键趋势提供了分析工具；它解释了为什么大学参与本地生态系统需要根据产业类型和生命周期阶段进行差异化设计
-> - 与 [[Triple Helix|三重螺旋]] 的关系 — 两者共享大学-产业-政府互动的基本前提，但 Lester 的框架更关注大学参与的具体形式如何随产业情境变化，而非三个领域之间的总体关系形态
+> - 与 [[Innovation Ecosystem\|创新生态系统]] 的关系 — Lester 的分类框架为"大学如何战略性地发展本地创新生态系统"这一峰会关键趋势提供了分析工具；它解释了为什么大学参与本地生态系统需要根据产业类型和生命周期阶段进行差异化设计
+> - 与 [[Triple Helix\|三重螺旋]] 的关系 — 两者共享大学-产业-政府互动的基本前提，但 Lester 的框架更关注大学参与的具体形式如何随产业情境变化，而非三个领域之间的总体关系形态

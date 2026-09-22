@@ -97,22 +97,22 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> **“什么有效”运动（What Works Movement）**，亦称**循证改革运动（[[Evidence-Based Reform]] Movement）**，发轫于 1990 年代末英美公共管理改革浪潮，是指主张将循证医学的[[Causality|因果推断]]原则与实验[[Paradigm|范式]]引入社会和教育政策领域，以[[Randomised Controlled Trials|随机对照试验]]（RCT）和高质量[[Quasi-Experimental Designs|准实验设计]]为黄金评估准则，系统识别并推广“已被科学实证证明真正有效”的干预方案，同时依托法定设立的[[Educational Brokerage Agency|知识中介机构]]推动研究证据向政策问责、财政采购与教学实践转化的跨国治理运动（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 47–48]]；[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 1–4]]）。
+> **“什么有效”运动（What Works Movement）**，亦称**循证改革运动（[[Evidence-Based Reform]] Movement）**，发轫于 1990 年代末英美公共管理改革浪潮，是指主张将循证医学的[[Causality\|因果推断]]原则与实验[[Paradigm\|范式]]引入社会和教育政策领域，以[[Randomised Controlled Trials\|随机对照试验]]（RCT）和高质量[[Quasi-Experimental Designs\|准实验设计]]为黄金评估准则，系统识别并推广“已被科学实证证明真正有效”的干预方案，同时依托法定设立的[[Educational Brokerage Agency\|知识中介机构]]推动研究证据向政策问责、财政采购与教学实践转化的跨国治理运动（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–48]]；[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–4]]）。
 
-> [!concept-lens] 治理与[[Epistemology|认识论]]透镜
-> - **制度含义** 重塑公共教育财政的拨款与采购逻辑，要求干预方案必须具备[[Counterfactual|反事实]]因果证据支持，消除盲目跟风与意识形态游说。
-> - **认识论定位** 以[[Technical Rationality|技术理性]]与[[Positivism|实证主义]]为底色，强调通过量化标准化测量与二阶证据合成确立干预因果效度，力图超越传统经验判断的主观随意性。
-> - **第二代演进** 运动从早期单纯追求单维度“因果黑箱”[[Effect Size|效应量]]，深化演进为结合[[Implementation and Process Evaluation|实施与过程评估]]（IPE）、锚定独立客观统考（如英国 NPD）、防范[[Evaluator Independence|研发者偏倚]]（[[Evaluator Independence|评估者独立性]]）以及确立“证明何者无效”同等决策价值的新型循证生态（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 50–54]]）。
+> [!concept-lens] 治理与[[Epistemology\|认识论]]透镜
+> - **制度含义** 重塑公共教育财政的拨款与采购逻辑，要求干预方案必须具备[[Counterfactual\|反事实]]因果证据支持，消除盲目跟风与意识形态游说。
+> - **认识论定位** 以[[Technical Rationality\|技术理性]]与[[Positivism\|实证主义]]为底色，强调通过量化标准化测量与二阶证据合成确立干预因果效度，力图超越传统经验判断的主观随意性。
+> - **第二代演进** 运动从早期单纯追求单维度“因果黑箱”[[Effect Size\|效应量]]，深化演进为结合[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）、锚定独立客观统考（如英国 NPD）、防范[[Evaluator Independence\|研发者偏倚]]（[[Evaluator Independence\|评估者独立性]]）以及确立“证明何者无效”同等决策价值的新型循证生态（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–54]]）。
 
 > [!citation-card] 循证运动的根本主张与治理意图
-> 循证运动的核心承诺在于终结教育系统长期以来基于意识形态偏好与商业潮流的盲目试验。通过建立严格、独立的因果证据生产与审查体系，促使学校将稀缺资源聚焦于已被证明最富成本效益的教学策略上；更重要的是，通过严密量化试验确立“何者在常态学校中实际上无效”，从而坚决遏制公共财政的巨大浪费。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 47–48, 56)]]
+> 循证运动的核心承诺在于终结教育系统长期以来基于意识形态偏好与商业潮流的盲目试验。通过建立严格、独立的因果证据生产与审查体系，促使学校将稀缺资源聚焦于已被证明最富成本效益的教学策略上；更重要的是，通过严密量化试验确立“何者在常态学校中实际上无效”，从而坚决遏制公共财政的巨大浪费。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 47–48, 56)]]
 >
-> *The What Works movement seeks to identify what does and does not work in schools, using rigorous independent evaluations to inform [[Evidence Ecosystem|evidence ecosystems]] and steer policy and practice away from ineffective or wasteful educational fads.*
+> *The What Works movement seeks to identify what does and does not work in schools, using rigorous independent evaluations to inform [[Evidence Ecosystem\|evidence ecosystems]] and steer policy and practice away from ineffective or wasteful educational fads.*
 
 > [!boundary]- 概念边界
-> - **不等于泛化的[[Evidence-Based Education|循证教育]]（EBE）** 循证教育是指一种广泛的学术思想与专业理念；What Works Movement 特指 1990 年代至今由英美澳等国中央政府主导、依托法定中介机构与特定政策规约推动的自上而下制度化治理运动。
-> - **不等于大学传统学术研究** 传统高校研究侧重理论构建与学术发表；该运动的核心在于打造双向撬动证据供需的[[Knowledge Mediation|知识中介]]网络，面向时间紧迫的一线校长与决策者产出通俗决策工具。
-> - **不等于单纯的技术工具开发** 它深刻重构了教育政策问责、第三方独立评估契约与学校[[Business as Usual|常态教学]]基线的重估。
+> - **不等于泛化的[[Evidence-Based Education\|循证教育]]（EBE）** 循证教育是指一种广泛的学术思想与专业理念；What Works Movement 特指 1990 年代至今由英美澳等国中央政府主导、依托法定中介机构与特定政策规约推动的自上而下制度化治理运动。
+> - **不等于大学传统学术研究** 传统高校研究侧重理论构建与学术发表；该运动的核心在于打造双向撬动证据供需的[[Knowledge Mediation\|知识中介]]网络，面向时间紧迫的一线校长与决策者产出通俗决策工具。
+> - **不等于单纯的技术工具开发** 它深刻重构了教育政策问责、第三方独立评估契约与学校[[Business as Usual\|常态教学]]基线的重估。
 
 ---
 
@@ -132,10 +132,10 @@ updated: 2026-09-18
 ## 核心要素
 
 > [!feature] 循证改革运动的四大运行支柱
-> 1. **严格因果证据等级制（Evidence Hierarchies）** 确立[[Counterfactual|反事实]][[Causality|因果推断]]为核心判准，将大样本现场 [[Randomised Controlled Trials|RCT]] 与控制组基线等值的严格准实验置于证据层级顶端，贬抑缺乏因果对照的经验叙事（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 48]]）。
-> 2. **独立[[Educational Brokerage Agency|知识中介机构]]网络（Educational Brokerage Agencies）** 在政府部门、学术研发者与基层学校之间建立缓冲型专门中介（如英国 [[What Works Network]]、[[Education Endowment Foundation|EEF]]、美国 [[What Works Clearinghouse|WWC]]），打破学术象牙塔与行政割裂（White, 2019）。
-> 3. **活态证据合成与通俗转化体系（Living Evidence Synthesis）** 改变一次性静态综述传统，建立随实证试验动态更新的[[Meta-meta-analysis|二阶元分析]]数据库，并将抽象的统计算法转化为直观的决策参数（如额外学习月数、投资成本星级与[[EEF Padlock Security Rating|挂锁安全评级]]）。
-> 4. **过程保真度监控与情境解构（Implementation & Realist Turn）** 从单纯关注黑箱结局指标转向定量试验与定性[[Implementation and Process Evaluation|过程评估]]（IPE）并重，探索[[Multi-Arm Trial|多臂试验]]与[[Realist Evaluation|现实主义试验]]（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）。
+> 1. **严格因果证据等级制（Evidence Hierarchies）** 确立[[Counterfactual\|反事实]][[Causality\|因果推断]]为核心判准，将大样本现场 [[Randomised Controlled Trials\|RCT]] 与控制组基线等值的严格准实验置于证据层级顶端，贬抑缺乏因果对照的经验叙事（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 48]]）。
+> 2. **独立[[Educational Brokerage Agency\|知识中介机构]]网络（Educational Brokerage Agencies）** 在政府部门、学术研发者与基层学校之间建立缓冲型专门中介（如英国 [[What Works Network]]、[[Education Endowment Foundation\|EEF]]、美国 [[What Works Clearinghouse\|WWC]]），打破学术象牙塔与行政割裂（White, 2019）。
+> 3. **活态证据合成与通俗转化体系（Living Evidence Synthesis）** 改变一次性静态综述传统，建立随实证试验动态更新的[[Meta-meta-analysis\|二阶元分析]]数据库，并将抽象的统计算法转化为直观的决策参数（如额外学习月数、投资成本星级与[[EEF Padlock Security Rating\|挂锁安全评级]]）。
+> 4. **过程保真度监控与情境解构（Implementation & Realist Turn）** 从单纯关注黑箱结局指标转向定量试验与定性[[Implementation and Process Evaluation\|过程评估]]（IPE）并重，探索[[Multi-Arm Trial\|多臂试验]]与[[Realist Evaluation\|现实主义试验]]（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）。
 
 > [!logic-map]- 循证改革运动的治理与转化循环体系
 > ```mermaid
@@ -163,21 +163,21 @@ updated: 2026-09-18
 
 ### 命题一　公共教育政策与财政投资必须建立在严谨可复制的因果干预证据之上
 
-> [!concept-lens] 政策正当性与[[Causality|因果推断]]
-> 循证运动主张，公共教育开支不应依附于政治偏好或未经检验的商业炒作，[[Counterfactual|反事实]]因果设计是评估干预成效与保障[[Return on Investment|投资回报]]的伦理基石。
+> [!concept-lens] 政策正当性与[[Causality\|因果推断]]
+> 循证运动主张，公共教育开支不应依附于政治偏好或未经检验的商业炒作，[[Counterfactual\|反事实]]因果设计是评估干预成效与保障[[Return on Investment\|投资回报]]的伦理基石。
 
-> [!claim] [[Argument_Slavin_2019_EP|Slavin (2019)]]
-> **循证标准的法定化与投资重塑** 将严密科学研究证据写入教育法案（如美国《不让一个孩子掉队法》[[No Child Left Behind Act 2001|NCLB]] 及《每一个学生成功法》ESSA），打破了教育界长期存在的“经验自负”。只有具备高安全等级因果证据的项目才能获得最高阶联邦资金支持，从而驱动教育研发从虚构理论转向扎实的实证迭代（[[Argument_Slavin_2019_EP|Slavin, 2019, pp. 175–178]]）。
+> [!claim] [[Argument_Slavin_2019_EP\|Slavin (2019)]]
+> **循证标准的法定化与投资重塑** 将严密科学研究证据写入教育法案（如美国《不让一个孩子掉队法》[[No Child Left Behind Act 2001\|NCLB]] 及《每一个学生成功法》ESSA），打破了教育界长期存在的“经验自负”。只有具备高安全等级因果证据的项目才能获得最高阶联邦资金支持，从而驱动教育研发从虚构理论转向扎实的实证迭代（[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 175–178]]）。
 
 ---
 
 ### 命题二　知识中介机构的制度公信力依赖于结构性独立性与双向转化机制
 
 > [!concept-lens] 制度治理与中介功能
-> 中介机构并非单纯的信息邮局，其存在价值在于通过切断利益关联确立证据公信力，并通过通俗转化填补[[Research-Practice Gap|研究与实践的鸿沟]]。
+> 中介机构并非单纯的信息邮局，其存在价值在于通过切断利益关联确立证据公信力，并通过通俗转化填补[[Research-Practice Gap\|研究与实践的鸿沟]]。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]]
-> **中介机构的制度独立性与二阶合成** 传统高校发表体制容易造成[[Publication Bias|发表偏倚]]与研发者自利，[[Educational Brokerage Agency|知识中介机构]]通过推行独立的评估者专家库竞标、三方资助协议与 NPD 国家客观统考测量，有效根除了自评夸大。同时，中介机构将复杂的[[Meta-analysis|元分析]]统计模型提炼为通俗的“额外学习月数”决策指标，实现了科学严谨性与基层实用性的制度平衡（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 47–51]]）。
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]
+> **中介机构的制度独立性与二阶合成** 传统高校发表体制容易造成[[Publication Bias\|发表偏倚]]与研发者自利，[[Educational Brokerage Agency\|知识中介机构]]通过推行独立的评估者专家库竞标、三方资助协议与 NPD 国家客观统考测量，有效根除了自评夸大。同时，中介机构将复杂的[[Meta-analysis\|元分析]]统计模型提炼为通俗的“额外学习月数”决策指标，实现了科学严谨性与基层实用性的制度平衡（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–51]]）。
 
 ---
 
@@ -186,8 +186,8 @@ updated: 2026-09-18
 > [!concept-lens] 证据价值的重估与常态基线
 > 传统循证研究热衷于追逐“灵丹妙药”式的高正向效应，而大规模实践检验表明，揭示流行干预的无效性是循证科学最大的公共收益。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]]
-> **去魅价值与[[Business as Usual|常态教学]]高基线** 英国十年 200 余项大规模试验表明，大部分昂贵商业项目的净效应极其微弱（中位[[Effect Size|效应量]]仅 $d=0.06$），这反映出常态教学（Business as Usual）本身具备极高基线水平。循证运动证明了众多流行方案（如[[Growth Mindset|成长型思维]]大班干预、某些单向资料推送）对统考净成绩并无促进，从而使学校免于耗费数以亿计的公共资金与教师精力在无效干预上（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 55–56]]）。
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]
+> **去魅价值与[[Business as Usual\|常态教学]]高基线** 英国十年 200 余项大规模试验表明，大部分昂贵商业项目的净效应极其微弱（中位[[Effect Size\|效应量]]仅 $d=0.06$），这反映出常态教学（Business as Usual）本身具备极高基线水平。循证运动证明了众多流行方案（如[[Growth Mindset\|成长型思维]]大班干预、某些单向资料推送）对统考净成绩并无促进，从而使学校免于耗费数以亿计的公共资金与教师精力在无效干预上（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]）。
 
 ---
 
@@ -196,8 +196,8 @@ updated: 2026-09-18
 > [!concept-lens] 批判视角与专业生态
 > 批评者指出，将循证运动推向极致可能导致医学隐喻的过度简化，并为大型私人慈善资本与咨询公司提供控制学校的合法性遮羞布。
 
-> [!claim] [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]]
-> **权力重构与专业自主权削弱** 循证中介机构（如澳大利亚 [[Australian Education Research Organisation|AERO]]、美国商业清算所）往往与特定慈善资本或智库深度绑定，以客观科学为幌子推行高度[[Disciplina and Doctrina|规训]]的教学法配方（如窄化的显性教学）。这种自上而下的证据治理忽视了学校的复杂社会阶级情境，将教学窄化为可标准化的流水线行为，系统剥夺了一线教师依据具体学生动态行使[[Professional Judgment|专业判断]]的合法性（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 1–6]]）。
+> [!claim] [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]]
+> **权力重构与专业自主权削弱** 循证中介机构（如澳大利亚 [[Australian Education Research Organisation\|AERO]]、美国商业清算所）往往与特定慈善资本或智库深度绑定，以客观科学为幌子推行高度[[Disciplina and Doctrina\|规训]]的教学法配方（如窄化的显性教学）。这种自上而下的证据治理忽视了学校的复杂社会阶级情境，将教学窄化为可标准化的流水线行为，系统剥夺了一线教师依据具体学生动态行使[[Professional Judgment\|专业判断]]的合法性（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–6]]）。
 
 ---
 
@@ -214,12 +214,12 @@ updated: 2026-09-18
 
 ## 典型案例
 
-> [!case] 英国 [[What Works Network]] 的制度化扩展与 [[Education Endowment Foundation|EEF]] 十年治理演进（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]；White, 2019）
-> - **制度化网络的全面建立** 2013 年，英国政府内阁办公厅正式设立涵盖 9 个独立有效中心的国家网络——什么样的有效网络（What Works Network，WWN），总计覆盖超过 **2,500 亿英镑**的公共支出，标志着英国成为全球首个将因果证据制度化嵌入国家公共治理中枢的国家。其中，教育捐赠基金会（EEF）被公认为该网络中最成熟、规模最大的旗舰实体（White, 2019；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 47]]）。
-> - **从技术黑箱向[[Realism in International Relations|现实主义]][[Paradigm|范式]]的方法学演进** 经过十年运行，EEF 深刻反思了早期单纯追求单维度两组 [[Randomised Controlled Trials|RCT]] 的局限性。教育项目不同于药物临床，学校具备极其复杂的开放生态。为此，EEF 开启了系统方法学革新：
->   1. **[[Implementation and Process Evaluation|过程评估]]与[[Causality|因果推断]]深度绑定** 确立 IPE 规范指南，将定量结局数据与定性课堂访谈、合规度量融合，精准分离实施走样与方案理论无效；
->   2. **现实主义多臂与析因试验** 探索多臂与[[Factorial Design|析因设计]]，系统解构技术与师资要素的[[Interaction Effect|交互效应]]；
->   3. **树立客观独立的测量金标准** 强制以全州通用的 NPD 国家高利害统考作为首要结局，严禁采用人为夸大[[Effect Size|效应量]]的自编测验；
+> [!case] 英国 [[What Works Network]] 的制度化扩展与 [[Education Endowment Foundation\|EEF]] 十年治理演进（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]；White, 2019）
+> - **制度化网络的全面建立** 2013 年，英国政府内阁办公厅正式设立涵盖 9 个独立有效中心的国家网络——什么样的有效网络（What Works Network，WWN），总计覆盖超过 **2,500 亿英镑**的公共支出，标志着英国成为全球首个将因果证据制度化嵌入国家公共治理中枢的国家。其中，教育捐赠基金会（EEF）被公认为该网络中最成熟、规模最大的旗舰实体（White, 2019；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]）。
+> - **从技术黑箱向[[Realism in International Relations\|现实主义]][[Paradigm\|范式]]的方法学演进** 经过十年运行，EEF 深刻反思了早期单纯追求单维度两组 [[Randomised Controlled Trials\|RCT]] 的局限性。教育项目不同于药物临床，学校具备极其复杂的开放生态。为此，EEF 开启了系统方法学革新：
+>   1. **[[Implementation and Process Evaluation\|过程评估]]与[[Causality\|因果推断]]深度绑定** 确立 IPE 规范指南，将定量结局数据与定性课堂访谈、合规度量融合，精准分离实施走样与方案理论无效；
+>   2. **现实主义多臂与析因试验** 探索多臂与[[Factorial Design\|析因设计]]，系统解构技术与师资要素的[[Interaction Effect\|交互效应]]；
+>   3. **树立客观独立的测量金标准** 强制以全州通用的 NPD 国家高利害统考作为首要结局，严禁采用人为夸大[[Effect Size\|效应量]]的自编测验；
 >   4. **重估无效证据的公共价值** 直面 $d=0.06$ 的微弱效应常态，公开所有零效应与负效应报告，为国家公共财政节约了数十亿盲目采购资金。
 
 ---
@@ -227,23 +227,23 @@ updated: 2026-09-18
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1990 年代末 — [[New Public Management|新公共管理]]与布莱尔政权倡议** 英美兴起新公共管理思潮，英国工党政府提出“重要在于何者有效”（What matters is what works），倡导基于实证的现代化决策。
-> - **2001–2002 年 — 美国联邦法律制度化突破** 美国通过《不让一个孩子掉队法》（NCLB 2001）与《教育科学改革法案》（ESRA 2002），正式创设[[Institute of Education Sciences|教育科学研究院]]（IES）与什么样的有效清算所（[[What Works Clearinghouse|WWC]]）。
-> - **2011 年 — 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）创立** 英国教育部拨款 1.25 亿英镑注资设立 EEF，开启国家尺度的大规模学校[[Randomised Controlled Trials|随机对照试验]]资助时代。
+> - **1990 年代末 — [[New Public Management\|新公共管理]]与布莱尔政权倡议** 英美兴起新公共管理思潮，英国工党政府提出“重要在于何者有效”（What matters is what works），倡导基于实证的现代化决策。
+> - **2001–2002 年 — 美国联邦法律制度化突破** 美国通过《不让一个孩子掉队法》（NCLB 2001）与《教育科学改革法案》（ESRA 2002），正式创设[[Institute of Education Sciences\|教育科学研究院]]（IES）与什么样的有效清算所（[[What Works Clearinghouse\|WWC]]）。
+> - **2011 年 — 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）创立** 英国教育部拨款 1.25 亿英镑注资设立 EEF，开启国家尺度的大规模学校[[Randomised Controlled Trials\|随机对照试验]]资助时代。
 > - **2013 年 — 英国 [[What Works Network]] 国家网络成立** 英国将循证中介扩展至医疗、警务、老龄化及地方经济等领域，建立覆盖 2,500 亿英镑公共支出的国家中介网络（White, 2019）。
-> - **2015 年 — 美国 [[Every Student Succeeds Act|ESSA]] 法案确立四级证据层级** 《每一个学生成功法》（ESSA）以法律条文明确了由强到弱的四级[[Evidence Standards|证据标准]]，将联邦基金划拨与循证等级刚性挂钩。
-> - **2016–2021 年 — 第二代循证反思与[[Realist Evaluation|现实主义试验]]探索** EEF 规程化[[Implementation and Process Evaluation|过程评估]]（IPE）、[[Multi-Arm Trial|多臂试验]]与现实主义试验，系统总结大规模现场试验的十年治理经验（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）。
-> - **2020 年代 — 澳大利亚 [[Australian Education Research Organisation|AERO]] 成立与全球扩散** 澳大利亚设立 AERO，发布《坚实起点报告》（Strong Beginnings Report 2023），循证改革运动加速向英联邦国家扩展。
+> - **2015 年 — 美国 [[Every Student Succeeds Act\|ESSA]] 法案确立四级证据层级** 《每一个学生成功法》（ESSA）以法律条文明确了由强到弱的四级[[Evidence Standards\|证据标准]]，将联邦基金划拨与循证等级刚性挂钩。
+> - **2016–2021 年 — 第二代循证反思与[[Realist Evaluation\|现实主义试验]]探索** EEF 规程化[[Implementation and Process Evaluation\|过程评估]]（IPE）、[[Multi-Arm Trial\|多臂试验]]与现实主义试验，系统总结大规模现场试验的十年治理经验（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
+> - **2020 年代 — 澳大利亚 [[Australian Education Research Organisation\|AERO]] 成立与全球扩散** 澳大利亚设立 AERO，发布《坚实起点报告》（Strong Beginnings Report 2023），循证改革运动加速向英联邦国家扩展。
 
 ---
 
 ## 争议与批评
 
-> [!tension] 理论争议与[[Epistemology|认识论]]批判
-> - **医学隐喻破产与简化主义倾向** 哲学家[[Gert Biesta|格特·比斯塔]]（Gert Biesta）等学者批判将教育等同于临床医学的浅层类比。教育本质上是关于价值判断、文化建构与主体间互动的复杂实践，简单的“输入-输出”[[Causality|因果推断]]抹杀了教育目的的多样性（Biesta, 2007, 2015）。
-> - **私人慈善资本与商业机构的利益合谋** 批评者揭示，循证运动表面上崇尚客观中立，实际上常由大型跨国基金会、私人智库与教材出版商主导，演变为一种以“循证认证”为垄断工具的商业化寻租网络（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 4–6]]）。
-> - **教师专业裁量权的剥夺与技术官僚化** 预先标准化的循证干预套餐容易演化为机械[[Disciplina and Doctrina|规训]]，削弱教师根据班级动态与学生[[Heterogeneity|异质性]]行使[[Professional Judgment|专业判断]]的能动空间，造成教学实践的去技能化（Deskilling）。
-> - **[[Business as Usual|常态教学]]高基线下的微弱收益悖论** 当学校常态教学（BAU）本身已高度成熟且高效时，斥巨资研发的大规模商业干预往往只能取得微乎其微的附加效应（$d \approx 0.06$），引发关于大规模试验边际效用的成本效益拷问（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 55–56]]）。
+> [!tension] 理论争议与[[Epistemology\|认识论]]批判
+> - **医学隐喻破产与简化主义倾向** 哲学家[[Gert Biesta\|格特·比斯塔]]（Gert Biesta）等学者批判将教育等同于临床医学的浅层类比。教育本质上是关于价值判断、文化建构与主体间互动的复杂实践，简单的“输入-输出”[[Causality\|因果推断]]抹杀了教育目的的多样性（Biesta, 2007, 2015）。
+> - **私人慈善资本与商业机构的利益合谋** 批评者揭示，循证运动表面上崇尚客观中立，实际上常由大型跨国基金会、私人智库与教材出版商主导，演变为一种以“循证认证”为垄断工具的商业化寻租网络（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 4–6]]）。
+> - **教师专业裁量权的剥夺与技术官僚化** 预先标准化的循证干预套餐容易演化为机械[[Disciplina and Doctrina\|规训]]，削弱教师根据班级动态与学生[[Heterogeneity\|异质性]]行使[[Professional Judgment\|专业判断]]的能动空间，造成教学实践的去技能化（Deskilling）。
+> - **[[Business as Usual\|常态教学]]高基线下的微弱收益悖论** 当学校常态教学（BAU）本身已高度成熟且高效时，斥巨资研发的大规模商业干预往往只能取得微乎其微的附加效应（$d \approx 0.06$），引发关于大规模试验边际效用的成本效益拷问（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]）。
 
 ---
 
@@ -264,10 +264,10 @@ updated: 2026-09-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 英国 [[Education Endowment Foundation|EEF]] 评估决策者回顾十年循证试验治理历程，总结三方协议、[[Implementation and Process Evaluation|IPE]] 绑定、客观统考及“证明无效”的重大价值。
-> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]] — 深度审思澳大利亚 [[Australian Education Research Organisation|AERO]] 与英美循证运动的技术治理逻辑，揭示私人资本合谋与[[Teacher Professional Agency|教师专业自主权]]受抑的困境。
-> - [[Argument_Slavin_2019_EP|Slavin, 2019]] — 梳理美国 [[Every Student Succeeds Act|ESSA]] 时代[[Evidence Standards|证据标准]]的建立过程，辩护循证改革对提升全校改进项目实证水平的驱动作用。
-> - [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]] — 元评估跨国循证清算中心在[[Evaluator Independence|评估者独立性]]上的规约差异，揭示自评偏倚对循证推荐的扭曲。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] — 英国 [[Education Endowment Foundation\|EEF]] 评估决策者回顾十年循证试验治理历程，总结三方协议、[[Implementation and Process Evaluation\|IPE]] 绑定、客观统考及“证明无效”的重大价值。
+> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]] — 深度审思澳大利亚 [[Australian Education Research Organisation\|AERO]] 与英美循证运动的技术治理逻辑，揭示私人资本合谋与[[Teacher Professional Agency\|教师专业自主权]]受抑的困境。
+> - [[Argument_Slavin_2019_EP\|Slavin, 2019]] — 梳理美国 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence Standards\|证据标准]]的建立过程，辩护循证改革对提升全校改进项目实证水平的驱动作用。
+> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]] — 元评估跨国循证清算中心在[[Evaluator Independence\|评估者独立性]]上的规约差异，揭示自评偏倚对循证推荐的扭曲。
 
 

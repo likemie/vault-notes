@@ -39,17 +39,17 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> 多方法研究（Multimethod Research）指在一项研究中收集多种数据来源的研究方法——但这些数据来源要么全部是量化的、要么全部是质性的，不同时包含量化和质性两类数据。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.232)]] 明确将其与[[Mixed Methods Research|混合方法研究]]区分开来：多方法研究不涉及量化与质性数据的整合，因此不是混合方法研究。
+> 多方法研究（Multimethod Research）指在一项研究中收集多种数据来源的研究方法——但这些数据来源要么全部是量化的、要么全部是质性的，不同时包含量化和质性两类数据。[[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p.232)]] 明确将其与[[Mixed Methods Research\|混合方法研究]]区分开来：多方法研究不涉及量化与质性数据的整合，因此不是混合方法研究。
 
 > [!quote]
-> "Multimethod research refers to the collection of multiple quantitative or qualitative sources of data and is not mixed methods research. In contrast, mixed methods research collects both quantitative and qualitative data."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.232]])
+> "Multimethod research refers to the collection of multiple quantitative or qualitative sources of data and is not mixed methods research. In contrast, mixed methods research collects both quantitative and qualitative data."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.232]])
 
 ---
 
 ## 概念辨析
 
 > [!example]
-> **多方法研究 vs [[Mixed Methods Research|混合方法研究]]**
+> **多方法研究 vs [[Mixed Methods Research\|混合方法研究]]**
 >
 > | 维度 | 多方法研究 | [[Mixed Methods Research\|混合方法研究]] |
 > |---|---|---|
@@ -58,14 +58,14 @@ updated: 2026-09-11
 > | **核心操作** | 在同类方法内收集多种来源 | 收集两类数据并合并/连接/嵌入 |
 >
 > **多方法研究的典型实例**
-> - 量化多方法：一项研究同时使用[[Questionnaire|问卷调查]]和官方统计数据（两种都是量化来源）
-> - 质性多方法：一项研究同时使用[[In-depth Interview|深度访谈]]和参与式观察（两种都是质性来源）
+> - 量化多方法：一项研究同时使用[[Questionnaire\|问卷调查]]和官方统计数据（两种都是量化来源）
+> - 质性多方法：一项研究同时使用[[In-depth Interview\|深度访谈]]和参与式观察（两种都是质性来源）
 >
 > **混合方法研究的典型实例**
 > - 一项研究同时使用问卷调查（量化）和深度访谈（质性），并在分析阶段将两组数据整合
 
 > [!warning] 术语混淆
-> 在混合方法研究发展的早期[[Document|文献]]中，multimethod 和 mixed methods 曾被混用。Creswell (2022) 指出，虽然 integrating、synthesis、quantitative and qualitative methods、multimethod、mixed research 或 mixed methodology 等术语都曾在文献中出现，但"mixed methods"一词已在领域内通过大量著作获得了最广泛的认可，而"multimethod"则被明确定义为不跨数据类型的研究。
+> 在混合方法研究发展的早期[[Document\|文献]]中，multimethod 和 mixed methods 曾被混用。Creswell (2022) 指出，虽然 integrating、synthesis、quantitative and qualitative methods、multimethod、mixed research 或 mixed methodology 等术语都曾在文献中出现，但"mixed methods"一词已在领域内通过大量著作获得了最广泛的认可，而"multimethod"则被明确定义为不跨数据类型的研究。
 
 ## 与混合方法的边界
 

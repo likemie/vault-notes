@@ -62,7 +62,7 @@ updated: 2026-09-15
 
 ## 测量构念与维度
 
-> [!construct-table] 思维技能与[[Critical Thinking|批判性思维]]（Section 1 Thinking Skills）
+> [!construct-table] 思维技能与[[Critical Thinking\|批判性思维]]（Section 1 Thinking Skills）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -77,7 +77,7 @@ updated: 2026-09-15
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **Section 1 [[Critical Thinking|批判性思维]]题型设计** 采用日常、公共政策与科学争论材料，要求考生在 5 个选项中精确识别支持或削弱结论的前提条件。
+> - **Section 1 [[Critical Thinking\|批判性思维]]题型设计** 采用日常、公共政策与科学争论材料，要求考生在 5 个选项中精确识别支持或削弱结论的前提条件。
 > - **计分体系** Section 1 与 Section 2 采用 Rasch 模型标定为 1.0（最低）至 9.0（最高）的标准分；Section 3 输出双重等级（如 4A）。
 
 ---

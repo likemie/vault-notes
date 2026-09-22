@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Sage]]"
   - "[[Knowledge Sabotage]]"
+  - "[[STEM Education]]"
   - "[[Epistemic Stances]]"
   - "[[Positivism]]"
   - "[[Analytical Stance]]"
@@ -89,17 +90,17 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> [[Geopolitics of Knowledge|知识地缘政治]]（GPK）的核心问题域是什么？Partaken 质疑后殖民研究将[[Knowledge Production|知识生产]]（knowledge production）作为 GPK 主要分析视角的做法，提出 GPK 的真正核心是[[Knowledge Transfer|知识转移]]（knowledge transfer）而非知识生产，并以当代中美紧张关系作为经验案例加以验证。
+> [[Geopolitics of Knowledge\|知识地缘政治]]（GPK）的核心问题域是什么？Partaken 质疑后殖民研究将[[Knowledge Production\|知识生产]]（knowledge production）作为 GPK 主要分析视角的做法，提出 GPK 的真正核心是[[Knowledge Transfer\|知识转移]]（knowledge transfer）而非知识生产，并以当代中美紧张关系作为经验案例加以验证。
 
 
 ## 理论框架
 
 > [!abstract]
-> 论文以两个分析步骤组织论证：[[Knowledge Production|知识生产]]与[[Knowledge Transfer|知识转移]]。第一部分依托后殖民研究[[Document|文献]]（Fanon、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美地缘政治紧张为核心案例。理论资源包括：
-> - [[Decolonial Geopolitics of Knowledge]] — 后殖民研究的 [[Geopolitics of Knowledge|GPK]] 分析传统，Partaken 批评其过度关注知识生产而忽视知识转移
-> - Lyotard [[Narrative Knowledge|叙事知识]]／科学知识区分 — 作为分析叙事知识衰退的理论工具
+> 论文以两个分析步骤组织论证：[[Knowledge Production\|知识生产]]与[[Knowledge Transfer\|知识转移]]。第一部分依托后殖民研究[[Document\|文献]]（Fanon、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美地缘政治紧张为核心案例。理论资源包括：
+> - [[Decolonial Geopolitics of Knowledge]] — 后殖民研究的 [[Geopolitics of Knowledge\|GPK]] 分析传统，Partaken 批评其过度关注知识生产而忽视知识转移
+> - Lyotard [[Narrative Knowledge\|叙事知识]]／科学知识区分 — 作为分析叙事知识衰退的理论工具
 > - Foucault 的全景敞视主义 — 分析监视如何通过"永久可见性"自动运行权力
-> - Freire 的被压迫者教育学 — 分析[[Forced Knowledge Transfer|强制知识转移]]中的权力梯度
+> - Freire 的被压迫者教育学 — 分析[[Forced Knowledge Transfer\|强制知识转移]]中的权力梯度
 > - Nagel 的 concealment/exposure 概念 — 分析破坏知识中的双重操控
 
 
@@ -108,14 +109,14 @@ citation_aliases:
 > [!info]
 > 属于理论讨论与概念分析文章。方法包括：
 > - 方法：Google Books Ngram Viewer 词频分析，追踪"geopolitics""[[Geopolitics of Knowledge]]"等术语的历史使用频率
-> - 数据来源：后殖民研究[[Document|文献]]、美国国会报告（[[US-China Economic and Security Review Commission|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
-> - 分析逻辑：概念区分（[[Knowledge Production|知识生产]] vs [[Knowledge Transfer|知识转移]]）+ 类型学建构（六种知识转移模态）+ 案例说明（中美紧张关系）
+> - 数据来源：后殖民研究[[Document\|文献]]、美国国会报告（[[US-China Economic and Security Review Commission\|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
+> - 分析逻辑：概念区分（[[Knowledge Production\|知识生产]] vs [[Knowledge Transfer\|知识转移]]）+ 类型学建构（六种知识转移模态）+ 案例说明（中美紧张关系）
 
 
 ## 论证结构
 
 > [!example]
-> Partaken 的论证采用"诊断—替代—[[Typification|类型化]]—验证—理论化"五步结构。以下逐步还原每一步的推理链。
+> Partaken 的论证采用"诊断—替代—[[Typification\|类型化]]—验证—理论化"五步结构。以下逐步还原每一步的推理链。
 
 ### 第一步：确立 GPK 的重要性和历史深度（§5.1, pp.67–69）
 
@@ -231,7 +232,7 @@ Great Firewall 作为"最成功的审查系统之一"被置于这一规范性标
 
 **综合一：两种知识类型的不对称命运**
 
-Partaken 回归 Lyotard 的框架解释为什么[[Narrative Knowledge|叙事知识]]在衰退而科学知识在崛起——这不是认识论本身的结果，而是"国家和产业赞助"的政治经济结果。其因果机制是具体的：政府研究基金优先投向能产生专利和量化证据的 STEM 学科；企业 R&D 税收优惠对象是可商业化的技术创新而非基础人文研究；大学排名体系中"研究收入""产学研合作收入"等指标直接奖励了科学知识的生产。例如，欧盟Horizon 2020将社会科学与人文学科从独立资助渠道改为横向嵌入所有优先领域，SSH 研究被要求"直接为政策制定的证据基础做贡献"——结果是批判性、阐释性研究被制度性边缘化，而能用回归分析证明某政策有效的应用经济学研究获得优先资助。这就是"国家和产业赞助"的具体运作：它不公开宣布[[Epistemic Stances|认识论立场]]，而是通过资助分配机制让特定的认识论范式（[[Positivism|实证主义]]、经验主义）成为唯一合理的选择。Lyotard 的"发展"话语(Lyotard, 1988/1991)在此获得了新的含义——它已成为一种"不需要终极目的的准形而上学"，"不依附于类似理性和人类自由解放的理念"(p.7, 引自 p.84)，因此是"非人的"。科学和技术知识以及哲学知识——所有这些——都只是充实了"发展"话语，而后者又被权力持有者用来合法化其效率(p.84)。
+Partaken 回归 Lyotard 的框架解释为什么[[Narrative Knowledge|叙事知识]]在衰退而科学知识在崛起——这不是认识论本身的结果，而是"国家和产业赞助"的政治经济结果。其因果机制是具体的：政府研究基金优先投向能产生专利和量化证据的 [[STEM Education|STEM]] 学科；企业 R&D 税收优惠对象是可商业化的技术创新而非基础人文研究；大学排名体系中"研究收入""产学研合作收入"等指标直接奖励了科学知识的生产。例如，欧盟Horizon 2020将社会科学与人文学科从独立资助渠道改为横向嵌入所有优先领域，SSH 研究被要求"直接为政策制定的证据基础做贡献"——结果是批判性、阐释性研究被制度性边缘化，而能用回归分析证明某政策有效的应用经济学研究获得优先资助。这就是"国家和产业赞助"的具体运作：它不公开宣布[[Epistemic Stances|认识论立场]]，而是通过资助分配机制让特定的认识论范式（[[Positivism|实证主义]]、经验主义）成为唯一合理的选择。Lyotard 的"发展"话语(Lyotard, 1988/1991)在此获得了新的含义——它已成为一种"不需要终极目的的准形而上学"，"不依附于类似理性和人类自由解放的理念"(p.7, 引自 p.84)，因此是"非人的"。科学和技术知识以及哲学知识——所有这些——都只是充实了"发展"话语，而后者又被权力持有者用来合法化其效率(p.84)。
 
 **综合二：Big Data 的双刃剑**
 
@@ -242,16 +243,16 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 开篇的 Bacon 引文在结论中获得了新的含义：“主权隐藏在知识之中”
 > ("The sovereignty lieth hid in knowledge")——主权隐藏于知识之中。Partaken 将这句话从 17 世纪的神学语境中移出，重新投射到当代：今天，正如 Bacon 的时代一样，"个体、群体和民族国家的主权在于生产和治理知识的能力和容量"。知识不仅是权力——它已经是"文明和时代的主要货币"，既是地缘政治中"持有和维持权力的目标，也是手段"。最终定义："知识地缘政治因此是在不同地理空间和话语空间中的人们之间，为知识并通过知识而进行的政治动态"(p.85)。
 
-> **全章的逻辑闭环** Partaken 从"knowledge is power"（Bacon, 17 世纪）起笔，以"the sovereignty lieth hid in knowledge"（同一句 Bacon）收束。中间的论证完成了从"知识的静态生产"到"知识的动态转移"的范式转换，以中美 GPK 紧张为经验试金石，以Lyotard 的[[Van Leeuwen's Legitimation Theory|合法化理论]]和 Foucault 的全景敞视主义为理论锚点，以六模态类型学为分析工具。最终结论不是简单地断言"知识转移比知识生产更重要"，而是论证了一个方法论立场：要理解当代地缘政治，必须将注意力从"知识是什么"转向"知识在被做什么"。
+> **全章的逻辑闭环** Partaken 从"knowledge is power"（Bacon, 17 世纪）起笔，以"the sovereignty lieth hid in knowledge"（同一句 Bacon）收束。中间的论证完成了从"知识的静态生产"到"知识的动态转移"的范式转换，以中美 GPK 紧张为经验试金石，以Lyotard 的[[Van Leeuwen's Legitimation Theory\|合法化理论]]和 Foucault 的全景敞视主义为理论锚点，以六模态类型学为分析工具。最终结论不是简单地断言"知识转移比知识生产更重要"，而是论证了一个方法论立场：要理解当代地缘政治，必须将注意力从"知识是什么"转向"知识在被做什么"。
 
 
 ## 主要发现
 
 > [!success]
-> - "[[Geopolitics of Knowledge|知识地缘政治]]"（geopolitics of knowledge）一词的使用频率在 2010 年后急剧上升，超过了围绕能源、石油等自然资源的 GPK 话语(p.68)
-> - [[Narrative Knowledge|叙事知识]](Lyotard, 1979/1984)处于急剧衰退中，原因不是后现代对[[Grand Theory|元叙事]]的不信任，而是全球化中商业价值的"科学知识"得到国家和产业赞助(p.74–75, 83–84)
-> - 经济间谍活动确实能有效缩小技术差距：[[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] 对东德国家支持的经济间谍的大规模研究证明，东德通过间谍活动显著缩小了与西德的工业技术差距(p.77)
-> - 美国 FBI 截至 2019 年 7 月约有 1000 项对中国[[Economic and Industrial Espionage|知识产权盗窃]]的调查(p.79)
+> - "[[Geopolitics of Knowledge\|知识地缘政治]]"（geopolitics of knowledge）一词的使用频率在 2010 年后急剧上升，超过了围绕能源、石油等自然资源的 GPK 话语(p.68)
+> - [[Narrative Knowledge\|叙事知识]](Lyotard, 1979/1984)处于急剧衰退中，原因不是后现代对[[Grand Theory\|元叙事]]的不信任，而是全球化中商业价值的"科学知识"得到国家和产业赞助(p.74–75, 83–84)
+> - 经济间谍活动确实能有效缩小技术差距：[[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] 对东德国家支持的经济间谍的大规模研究证明，东德通过间谍活动显著缩小了与西德的工业技术差距(p.77)
+> - 美国 FBI 截至 2019 年 7 月约有 1000 项对中国[[Economic and Industrial Espionage\|知识产权盗窃]]的调查(p.79)
 > - 中国是目前最大的网络攻击来源国，约 27% 的网络攻击直接来自中国，计入重定向攻击后可达 41%(p.83)
 
 > [!info]- 核心数据
@@ -264,7 +265,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 
 > [!quote]
 > “与其关注知识的这种静态，对地缘政治的探究应该更多地关注‘运动中的知识’现象，如转移、传播、教学法、灌输、窃取、间谍活动、监视和审查。”
-> ("Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of '[[Knowledge Transfer|knowledge in motion]]' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship.")(p.84)
+> ("Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of '[[Knowledge Transfer\|knowledge in motion]]' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship.")(p.84)
 
 > [!quote]
 > “主权隐藏在知识之中”
@@ -275,7 +276,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 
 > [!warning]
 > - **作者自述局限** 未明确陈述。
-> - **读者批评空间** 论文以中美对立为核心案例，对中国[[Knowledge Transfer|知识转移]]行为采用强烈[[Analytical Stance|批判立场]]（如"self-centered business practices""knowledge appropriation and elimination of the partner"），对美方行为（全球大规模监视、Snowden 揭露的违宪监控）仅简短提及，存在不对称审查；将 Huntington 文明冲突论作为[[Analytic Framework|分析框架]]之一但未充分讨论该理论本身的争议性；Google Ngram 词频分析仅提供相关性描述，不能作为因果论证。
+> - **读者批评空间** 论文以中美对立为核心案例，对中国[[Knowledge Transfer\|知识转移]]行为采用强烈[[Analytical Stance\|批判立场]]（如"self-centered business practices""knowledge appropriation and elimination of the partner"），对美方行为（全球大规模监视、Snowden 揭露的违宪监控）仅简短提及，存在不对称审查；将 Huntington 文明冲突论作为[[Analytic Framework\|分析框架]]之一但未充分讨论该理论本身的争议性；Google Ngram 词频分析仅提供相关性描述，不能作为因果论证。
 
 
 ## 来源

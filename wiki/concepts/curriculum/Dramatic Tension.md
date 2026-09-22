@@ -36,7 +36,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 戏剧张力（dramatic tension）是所有戏剧按定义赖以推动行动前进的张力机制，成功的[[Role-playing|角色扮演]]必须有戏剧张力来维持角色信念和对情境的投入，使参与者相信情境"仿佛是真的"（26.7，p. 15）。
+> 戏剧张力（dramatic tension）是所有戏剧按定义赖以推动行动前进的张力机制，成功的[[Role-playing\|角色扮演]]必须有戏剧张力来维持角色信念和对情境的投入，使参与者相信情境"仿佛是真的"（26.7，p. 15）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指在虚构情境中促使参与者保持信念与投入、推动行动展开的力量，而非物理意义上的紧张情绪。
@@ -44,7 +44,7 @@ updated: 2026-09-17
 > - **边界** Heathcote（1991）强调关注的不是地震、叛乱、军队等巨大恐怖事件，而是人类情境中在微妙层面运作的局部事件。
 
 > [!citation-card]- 关键表述
-> 通过向角色扮演中插入低级或温和的戏剧张力，可以激励参与者，建立对虚构情境的投入，而且它具有让最陈腐的情境重新聚焦、创造新认识的效果（Heathcote, 1991, p. 34）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|(Cohen et al., 2011, Ch. 26, p. 15)]]
+> 通过向角色扮演中插入低级或温和的戏剧张力，可以激励参与者，建立对虚构情境的投入，而且它具有让最陈腐的情境重新聚焦、创造新认识的效果（Heathcote, 1991, p. 34）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|(Cohen et al., 2011, Ch. 26, p. 15)]]
 >
 > *By inserting low-level or insipid dramatic tension into a role-play, it can motivate participants, build investment in the fictional situation, and it "has the effect of making the most hackneyed situations spring into new focus and create new awareness" (Heathcote, 1991, p. 34).*
 
@@ -84,5 +84,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen, Manion & Morrison (2011, Ch. 26)]] — 将戏剧张力列为[[Role-playing|角色扮演]]成功的核心机制，并纳入八项设计原则之一，用于维持参与者的角色信念与情境投入。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen, Manion & Morrison (2011, Ch. 26)]] — 将戏剧张力列为[[Role-playing\|角色扮演]]成功的核心机制，并纳入八项设计原则之一，用于维持参与者的角色信念与情境投入。

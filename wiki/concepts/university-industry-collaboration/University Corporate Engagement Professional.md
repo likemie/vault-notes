@@ -41,10 +41,10 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> 大学企业参与专员（University Corporate Engagement Professional, UCEP）是在大学与企业合作的界面中充当中介和关系管理者的专业人员。他们深入了解学术格局、院系研究特点和大学的战略目标，负责连接双方利益相关者、识别一致利益，并引导和构建战略伙伴关系([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.77–79]])。
+> 大学企业参与专员（University Corporate Engagement Professional, UCEP）是在大学与企业合作的界面中充当中介和关系管理者的专业人员。他们深入了解学术格局、院系研究特点和大学的战略目标，负责连接双方利益相关者、识别一致利益，并引导和构建战略伙伴关系([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, pp.77–79]])。
 
 > [!quote]
-> "the role of University Corporate Engagement Professionals (UCEP) is indispensable in the [[University-Industry Collaboration|UI collaboration]] process."([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.77–78]])
+> "the role of University Corporate Engagement Professionals (UCEP) is indispensable in the [[University-Industry Collaboration\|UI collaboration]] process."([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, pp.77–78]])
 
 ---
 
@@ -63,13 +63,13 @@ updated: 2026-09-10
 ## 概念辨析
 
 > [!example]
-> **vs [[Boundary Spanner|边界跨越者]]** 边界跨越者是更广泛的概念，指任何跨越组织边界、促进知识流动和关系建立的角色；UCEP 则是边界跨越者在[[University-Industry Collaboration|产学合作]]领域的一种具体制度化形式，通常隶属于大学的企业关系办公室或科研副校长办公室。
+> **vs [[Boundary Spanner\|边界跨越者]]** 边界跨越者是更广泛的概念，指任何跨越组织边界、促进知识流动和关系建立的角色；UCEP 则是边界跨越者在[[University-Industry Collaboration\|产学合作]]领域的一种具体制度化形式，通常隶属于大学的企业关系办公室或科研副校长办公室。
 
 > [!example]
-> **vs [[Concierge Service|礼宾服务]]** 礼宾服务是 UCEP 提供的一项具体功能——作为单一入口帮助企业导航大学内部复杂的组织结构。UCEP 的角色更全面，不仅提供导航，还包括主动识别合作机会、构建战略路线图和持续管理伙伴关系。
+> **vs [[Concierge Service\|礼宾服务]]** 礼宾服务是 UCEP 提供的一项具体功能——作为单一入口帮助企业导航大学内部复杂的组织结构。UCEP 的角色更全面，不仅提供导航，还包括主动识别合作机会、构建战略路线图和持续管理伙伴关系。
 
 > [!example]
-> **vs 技术许可官** 技术许可官专注于知识产权管理和商业化；UCEP 的职责范围更广，涵盖研究合作、人才发展、[[Executive Education|高管教育]]和战略联盟等多种产学互动形式。
+> **vs 技术许可官** 技术许可官专注于知识产权管理和商业化；UCEP 的职责范围更广，涵盖研究合作、人才发展、[[Executive Education\|高管教育]]和战略联盟等多种产学互动形式。
 
 ---
 

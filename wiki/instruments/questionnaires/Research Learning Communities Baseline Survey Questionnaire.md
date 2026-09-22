@@ -74,16 +74,16 @@ updated: 2026-09-17
 
 ## 工具定位
 
-> [!instrument-profile] [[Research Learning Communities]] Baseline [[Questionnaire|survey questionnaire]]
-> - **工具类型** 自陈式调查问卷，用于系统描述与诊断学校层面的[[Research Utilization|证据使用]]准备状态与组织生态。
-> - **开发者与年份** Brown, C.、[[Toby Greany|Greany, T.]] 与 Daly, A.（2014）。问卷由研究团队基于[[Literature Review|文献综述]]自主编制，并特邀加州大学圣迭戈分校（UCSD）教授 [[Alan Daly|Alan J. Daly]] 共同设计；Daly 在考察教育证据如何在学区校际社会网络与非正式人际信任网络中流动方面积累了深厚实证经验（Daly, 2010; Finnegan & Daly, 2012）。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 127)]]
-> - **测量目的** 用于研究测量与组织诊断，在英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）资助的“研究学习共同体”（RLC）为期两年的干[[Pilot Testing|预实验]]启动前，刻画英格兰小学在四类关键使能因素上的基线准备状态，诊断[[School Enquiry Cycle|学校探究循环]]的制度性断点。
-> - **实施方式** 通过 Survey Monkey 在线自陈填报，经各校校长以电子方式分发至所有 RLC 项目学校与对照学校的全员教师及[[School Leadership|学校领导]]者。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 128)]]
+> [!instrument-profile] [[Research Learning Communities]] Baseline [[Questionnaire\|survey questionnaire]]
+> - **工具类型** 自陈式调查问卷，用于系统描述与诊断学校层面的[[Research Utilization\|证据使用]]准备状态与组织生态。
+> - **开发者与年份** Brown, C.、[[Toby Greany\|Greany, T.]] 与 Daly, A.（2014）。问卷由研究团队基于[[Literature Review\|文献综述]]自主编制，并特邀加州大学圣迭戈分校（UCSD）教授 [[Alan Daly\|Alan J. Daly]] 共同设计；Daly 在考察教育证据如何在学区校际社会网络与非正式人际信任网络中流动方面积累了深厚实证经验（Daly, 2010; Finnegan & Daly, 2012）。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 127)]]
+> - **测量目的** 用于研究测量与组织诊断，在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）资助的“研究学习共同体”（RLC）为期两年的干[[Pilot Testing\|预实验]]启动前，刻画英格兰小学在四类关键使能因素上的基线准备状态，诊断[[School Enquiry Cycle\|学校探究循环]]的制度性断点。
+> - **实施方式** 通过 Survey Monkey 在线自陈填报，经各校校长以电子方式分发至所有 RLC 项目学校与对照学校的全员教师及[[School Leadership\|学校领导]]者。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 128)]]
 
 > [!citation-card]- 开发者的设计说明
 > 问卷依据广泛文献综述提炼的四类关键因素编制，用于测量学校在能力、文化常规、学习环境与支持性结构上的准备状态；四因素框架本身即为问卷的维度结构与分析逻辑基础。
 >
-> *“The survey was developed... based on the four key factors identified from the literature.”*（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 127]]）
+> *“The survey was developed... based on the four key factors identified from the literature.”*（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 127]]）
 
 ---
 
@@ -107,7 +107,7 @@ updated: 2026-09-17
 > | 把研究使用作为有效学习环境一部分的学校 | 第 8 至 11 题 |
 > | 促进研究使用与最佳实践共享的有效结构、系统与资源 | 第 12 至 14 题 |
 >
-> [[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 127)]]
+> [[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 127)]]
 
 ---
 
@@ -116,10 +116,10 @@ updated: 2026-09-17
 > [!instrument-items] 作答规则
 > - **题项形式** 第一人称的陈述句，就自身实践或所在学校的做法表明同意程度。
 > - **作答格式** 5 点李克特标尺，从强烈同意（Strongly Agree）到强烈不同意（Strongly Disagree）。
-> - **反向题与跳题** 第 4 题“我不支持在缺乏研究支撑的情况下实施全校性变革”在语义方向上与其他题项相反，构成反向表述题；跳题逻辑未报告。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 127–129)]]
+> - **反向题与跳题** 第 4 题“我不支持在缺乏研究支撑的情况下实施全校性变革”在语义方向上与其他题项相反，构成反向表述题；跳题逻辑未报告。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 127–129)]]
 
 > [!warning] 预试与效度检验
-> [[Questionnaire|问卷]]在未参与该项目的同区域小学教师中预先试测，以检验[[Face Validity|表面效度]]与[[Construct Validity|结构效度]]，一线教师的反馈意见被吸收进定稿；由于该问卷定位为基线组织生态描述与诊断工具而非潜[[Variable|变量]]心理[[Scale of Measurement|测量量表]]，论文中未报告[[Internal Consistency|内部一致性]][[Reliability|信度]]系数（Cronbach’s $\alpha$）、[[Confirmatory Factor Analysis|验证性因子分析]]结果及[[Measurement Invariance|测量不变性]]。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 127)]]
+> [[Questionnaire\|问卷]]在未参与该项目的同区域小学教师中预先试测，以检验[[Face Validity\|表面效度]]与[[Construct Validity\|结构效度]]，一线教师的反馈意见被吸收进定稿；由于该问卷定位为基线组织生态描述与诊断工具而非潜[[Variable\|变量]]心理[[Scale of Measurement\|测量量表]]，论文中未报告[[Internal Consistency\|内部一致性]][[Reliability\|信度]]系数（Cronbach’s $\alpha$）、[[Confirmatory Factor Analysis\|验证性因子分析]]结果及[[Measurement Invariance\|测量不变性]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 127)]]
 
 ### 维度一：参与研究并运用研究证据的能力
 
@@ -135,7 +135,7 @@ updated: 2026-09-17
 
 ### 维度二：让研究使用成为文化常规的学校文化
 
-> [!seq-table]- 让[[Research Utilization|研究使用]]成为文化常规的学校文化
+> [!seq-table]- 让[[Research Utilization\|研究使用]]成为文化常规的学校文化
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > **作答选项** 5 点李克特标尺（强烈同意、同意、既不同意也不反对、不同意、强烈不同意） · **计分规则** 逐题报告应答比例；第 1 题为反向表述题
 >
@@ -206,7 +206,7 @@ updated: 2026-09-17
 > | **结构系统资源** | 学校设有为教职工分享信息的论坛（Q13，n = 694） | **61%** | 21% | **17%** | **结构悖论** 非正式热络（82%）与正式制度载体（如 [[Lesson Study\|课例研究]]、论坛）匮乏脱节 |
 > | **结构系统资源** | 学校为教职工的教育培训活动留出时间（Q14，n = 694） | 81% | 9% | 10% | 培训时间基本具备 |
 >
-> 比例由五级原始分布合并而来；因四舍五入，各行合计可能不等于 100%。数据在对照学校与干预学校之间合并呈现，基线阶段没有特别理由将两组分开分析。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 129–130)]]
+> 比例由五级原始分布合并而来；因四舍五入，各行合计可能不等于 100%。数据在对照学校与干预学校之间合并呈现，基线阶段没有特别理由将两组分开分析。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 129–130)]]
 
 ---
 

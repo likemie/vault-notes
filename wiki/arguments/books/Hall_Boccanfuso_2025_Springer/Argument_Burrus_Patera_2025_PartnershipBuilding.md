@@ -64,8 +64,8 @@ citation_aliases:
 
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
-> 大学和企业之间存在根本性差异，涵盖非营利与营利的使命对立、自下而上与自上而下的决策冲突、开放分享与知识产权控制的文化张力。在此背景下，如何有意识地构建[[Strategic Partnership|战略性产学伙伴关系]]，而不是停留在零散的一次性合作？(pp.73–74)
+> [!info] [[Research Question\|研究问题]]
+> 大学和企业之间存在根本性差异，涵盖非营利与营利的使命对立、自下而上与自上而下的决策冲突、开放分享与知识产权控制的文化张力。在此背景下，如何有意识地构建[[Strategic Partnership\|战略性产学伙伴关系]]，而不是停留在零散的一次性合作？(pp.73–74)
 >
 > 经验难题在于：即便双方都有合作意愿，实际操作中仍然频频受阻：企业提出的项目与教师研究兴趣错位，技术平台匹配结果失准，合作关系迟迟无法从单一项目升级为战略联盟。问题出在哪里？又该如何解决？
 
@@ -74,7 +74,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期实践经验，同时整合 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Demonstration Partnership|UIDP]] 和 [[University Industry Innovation Network|UIIN]] 等行业组织积累的最佳实践。
+> 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期实践经验，同时整合 [[Network of Academic Corporate Relations Officers\|NACRO]]、[[University Industry Demonstration Partnership\|UIDP]] 和 [[University Industry Innovation Network\|UIIN]] 等行业组织积累的最佳实践。
 > - [[University-Industry Collaboration]] — 作为分析的组织框架，将伙伴关系建设分解为三个相互关联的阶段：连接 → 探索发现 → 建设
 
 ---
@@ -82,14 +82,14 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> 实践者指南，基于专业经验与行业最佳实践的归纳总结，并非实证研究。包含两个[[Case Study|案例研究]]：一是生命科学公司与大学的伙伴关系演化过程，二是通过[[Trade Mission|政府贸易代表团]]推动的与日本企业的国际合作。
+> 实践者指南，基于专业经验与行业最佳实践的归纳总结，并非实证研究。包含两个[[Case Study\|案例研究]]：一是生命科学公司与大学的伙伴关系演化过程，二是通过[[Trade Mission\|政府贸易代表团]]推动的与日本企业的国际合作。
 
 ---
 
 ## 核心论证
 
 > [!example] 核心论证
-> 论证可以拆解为"一个起点 → 三个阶段 → 两个验证"的逻辑链。起点是[[University-Industry Collaboration|产学合作]]的结构性难题；三个阶段分别是连接、探索发现和建设；最后用两个案例验证框架的可行性。
+> 论证可以拆解为"一个起点 → 三个阶段 → 两个验证"的逻辑链。起点是[[University-Industry Collaboration\|产学合作]]的结构性难题；三个阶段分别是连接、探索发现和建设；最后用两个案例验证框架的可行性。
 
 ### 起点：产学合作为何天然困难
 
@@ -145,7 +145,7 @@ citation_aliases:
 
 9. 技术平台可以缩小，但无法完全弥合，这一粒度差距。Pivot、Elsevier Pure、Academic Analytics 等数据库型工具可以通过关键词检索快速生成教师研究档案；FirstIgnite、PreScouter、Pillar Science、HaloScience 等匹配型工具则更进一步：有的允许教师提交预审项目方案，有的提供更精细的匹配算法。但这些工具都有一个共同局限：严重依赖用户的操作经验和对工具的熟悉程度。新手使用可能关键词过宽，返回几十个不相关的结果；或过窄，遗漏了研究方向相关但术语不同的研究者(pp.76–77)。
 
-> 一个真实场景：企业在 Pivot 中搜索"machine learning for drug discovery"，返回了 15 位相关教师。但一位研究"computational protein-ligand docking" 的教授没有出现在结果中，因为她的研究描述中没有使用"machine learning"这个术语，尽管她的方法本质上就是一种机器学习应用。一个有经验的 [[University Corporate Engagement Professional|UCEP]] 会知道这位教授的存在，并在结果之外手动推荐。
+> 一个真实场景：企业在 Pivot 中搜索"machine learning for drug discovery"，返回了 15 位相关教师。但一位研究"computational protein-ligand docking" 的教授没有出现在结果中，因为她的研究描述中没有使用"machine learning"这个术语，尽管她的方法本质上就是一种机器学习应用。一个有经验的 [[University Corporate Engagement Professional\|UCEP]] 会知道这位教授的存在，并在结果之外手动推荐。
 
 10. 这正是 大学企业参与专员（UCEP） 不可替代的原因。技术平台提供数据，UCEP 提供判断。后者深入了解学术格局、各院系研究的细微差别以及大学的战略目标。这一判断力体现在三个层面(pp.77–78)：
     - **解读** 将技术平台返回的匹配结果放入学科语境，知道哪些"匹配"是表面关键词重合、哪些是真正的学术方向相关。
@@ -191,10 +191,10 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. [[University-Industry Collaboration|产学合作]]的困难根植于大学与企业在使命、治理结构和[[Organizational Culture|组织文化]]上的系统性差异（非营利 vs 营利、自下而上 vs 自上而下、开放渗透 vs 知识产权控制）。不存在可以复制粘贴的通用合作模板(pp.73–74)。
-> 2. 连接阶段：产学关系的拥护者集中在特定的交汇空间，包括学术研讨会、[[Industry Advisory Board|行业咨询委员会]]、产学专业活动、[[Professors of Practice|实践教授]]岗位、[[Trade Mission|政府贸易代表团]]和校友活动。其中，校友网络的"双重信任"优势使其成为最高效的连接渠道之一(pp.74–76)。
-> 3. 探索发现阶段：技术匹配平台（Pivot、Pure、Academic Analytics 等）是必要的起点，但存在"粒度错配"和操作依赖性问题。最有效的方法是将技术工具与 [[University Corporate Engagement Professional|UCEP]] 的[[Professional Judgment|专业判断]]相结合：前者提供数据，后者提供解读、情境化和引荐(pp.76–78)。
-> 4. 建设阶段：将一次性项目[[Growth|生长]]为战略伙伴关系，需要四个不可省略的基本要素：双方联络人、共同认可的愿景与目标、包含定期审查的路线图、双方的问责制。大多数战略关系不是设计出来的，而是从一个教师项目开始，逐步生长并在 UCEP 介入后结构化(pp.78–79)。
+> 1. [[University-Industry Collaboration\|产学合作]]的困难根植于大学与企业在使命、治理结构和[[Organizational Culture\|组织文化]]上的系统性差异（非营利 vs 营利、自下而上 vs 自上而下、开放渗透 vs 知识产权控制）。不存在可以复制粘贴的通用合作模板(pp.73–74)。
+> 2. 连接阶段：产学关系的拥护者集中在特定的交汇空间，包括学术研讨会、[[Industry Advisory Board\|行业咨询委员会]]、产学专业活动、[[Professors of Practice\|实践教授]]岗位、[[Trade Mission\|政府贸易代表团]]和校友活动。其中，校友网络的"双重信任"优势使其成为最高效的连接渠道之一(pp.74–76)。
+> 3. 探索发现阶段：技术匹配平台（Pivot、Pure、Academic Analytics 等）是必要的起点，但存在"粒度错配"和操作依赖性问题。最有效的方法是将技术工具与 [[University Corporate Engagement Professional\|UCEP]] 的[[Professional Judgment\|专业判断]]相结合：前者提供数据，后者提供解读、情境化和引荐(pp.76–78)。
+> 4. 建设阶段：将一次性项目[[Growth\|生长]]为战略伙伴关系，需要四个不可省略的基本要素：双方联络人、共同认可的愿景与目标、包含定期审查的路线图、双方的问责制。大多数战略关系不是设计出来的，而是从一个教师项目开始，逐步生长并在 UCEP 介入后结构化(pp.78–79)。
 > 5. 政府贸易代表团是一个被低估的产学连接工具，可以在短时间内催化关系升级或启动全新合作，但前提是出访前做好匹配准备工作(pp.76, 80–81)。
 
 ---

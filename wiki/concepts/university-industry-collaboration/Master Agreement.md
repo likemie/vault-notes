@@ -42,7 +42,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!info]
-> [[University-Industry Collaboration|产学合作]]主协议（Master Agreement）是大学与企业之间签署的框架性法律协议，一次性覆盖[[University-Industry Collaboration|产学合作]]中的知识产权归属与使用、赔偿责任、治理结构、出版审批、保密义务、出口管制等基础条款。在此之后启动的每个具体研究项目，双方只需签署简短的工作说明书（Statement of Work），无需重新谈判主协议已覆盖的条款([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.107–108]])。
+> [[University-Industry Collaboration\|产学合作]]主协议（Master Agreement）是大学与企业之间签署的框架性法律协议，一次性覆盖[[University-Industry Collaboration\|产学合作]]中的知识产权归属与使用、赔偿责任、治理结构、出版审批、保密义务、出口管制等基础条款。在此之后启动的每个具体研究项目，双方只需签署简短的工作说明书（Statement of Work），无需重新谈判主协议已覆盖的条款([[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al., 2025, pp.107–108]])。
 
 > [!quote]
 > 主协议是产学合作的"宪法"——它建立了双方长期合作的规则框架，单个项目是这个框架下的具体执行动作（p.107）。
@@ -76,7 +76,7 @@ updated: 2026-09-10
 ## 功能逻辑
 
 > [!note]-
-> 主协议之所以被 Hoffman et al.列为[[University-Industry Collaboration|产学合作]]的三种基础设施性要素之一（与价值主张和[[Boundary Spanner|关系经理]]并列），在于三个连锁效应：
+> 主协议之所以被 Hoffman et al.列为[[University-Industry Collaboration\|产学合作]]的三种基础设施性要素之一（与价值主张和[[Boundary Spanner\|关系经理]]并列），在于三个连锁效应：
 
 **降低重复合作的交易成本**。在没有主协议的情况下，每个新项目的法务审查都从零开始——大学的赞助项目办公室、技术许可办公室、法律总顾问和企业的法务部门需要就相同的 IP 条款进行反复谈判。主协议将这些谈判一次性完成，后续项目直接调用已有条款。这一机制对联合体尤其关键：联合体涉及多家企业和多个研究项目，如果没有主协议，每个项目单独谈判的累积交易成本将高到使联合体不可行（pp.107–108）。
 
@@ -92,14 +92,14 @@ updated: 2026-09-10
 > - vs 单项目合同（Project-Specific Contract）— 单项目合同为特定研究项目定制，包含该项目的所有条款；主协议是框架性的，覆盖所有合作共用的基础条款。两者的关系是"宪法 vs 法律"
 > - vs 捐赠协议（Gift Agreement）— 捐赠协议用于无直接交付物、无 IP 回报的企业资助，法律复杂度低；主协议用于预期产生研究成果和 IP 的合作，条款全面得多
 > - vs 保密协议（Non-Disclosure Agreement, NDA）— NDA 只覆盖信息保密这一维度，主协议覆盖合作关系的全部法律维度。在实际操作中，NDA 往往在主协议谈判之前单独签署，为主协议谈判期间的敏感信息提供保护
-> - vs 联合体协议（Consortium Agreement）— 联合体协议是主协议在多边情境下的特殊形式，区别在于需要处理多家企业成员的权利平等性、投票机制和新成员加入程序。本章讨论的 [[Advanced Manufacturing Research Centre|AMRC]] 的联合体协议就是一个多边主协议的实例
+> - vs 联合体协议（Consortium Agreement）— 联合体协议是主协议在多边情境下的特殊形式，区别在于需要处理多家企业成员的权利平等性、投票机制和新成员加入程序。本章讨论的 [[Advanced Manufacturing Research Centre\|AMRC]] 的联合体协议就是一个多边主协议的实例
 
 ---
 
 ## 实证发现
 
 > [!success]
-> 企业在评估大学合作效率时，签约速度往往是首要关注点之一。Hoffman et al.指出，"在产业调查中，一项针对各种研究合同的漫长谈判和大学审批过程"持续被列为[[University-Industry Collaboration|产学合作]]的最大摩擦点（p.107）。
+> 企业在评估大学合作效率时，签约速度往往是首要关注点之一。Hoffman et al.指出，"在产业调查中，一项针对各种研究合同的漫长谈判和大学审批过程"持续被列为[[University-Industry Collaboration\|产学合作]]的最大摩擦点（p.107）。
 
 [[Advanced Manufacturing Research Centre|AMRC]] 的经验验证了主协议的价值。联合体在 2001 年启动时就建立了完整的联合体协议，涵盖了两层会员制、双委员会治理和两层 IP 模型。在此之后二十余年中，新成员加入和新项目启动都直接调用现有框架，无需重新谈判基础条款。这一制度设计是 AMRC 能从 1 家创始成员扩展到 120+ 家产业成员的法律基础——每增加一个成员或项目，增加的是边际执行成本而非边际谈判成本（pp.114–117）。
 

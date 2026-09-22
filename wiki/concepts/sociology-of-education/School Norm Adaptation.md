@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - 在近期研究中，学校规范适应被视为连接在校行为与学业结果的可干预过程[[Variable|变量]]。
+> - 在近期研究中，学校规范适应被视为连接在校行为与学业结果的可干预过程[[Variable\|变量]]。
 
 ## 核心要素
 
@@ -54,18 +54,18 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - 与 [[Gender Differences in Academic Achievement]] 相比，它是过程[[Variable|变量]]；与 [[Professional Judgment]] 相比，它是学生行为匹配变量。
+> - 与 [[Gender Differences in Academic Achievement]] 相比，它是过程[[Variable\|变量]]；与 [[Professional Judgment]] 相比，它是学生行为匹配变量。
 
 ## 理论基础
 
 > [!info] 理论基础
-> - 在社会认知框架下，学校规范适应可被理解为个体行为与情境互动生成的过程[[Variable|变量]]（Lekhal_2015_Paideia）。
+> - 在社会认知框架下，学校规范适应可被理解为个体行为与情境互动生成的过程[[Variable\|变量]]（Lekhal_2015_Paideia）。
 
 ## 实证发现
 
 > [!success] 实证发现
 > - 在学校规范适应评分上，女生显著高于男生（d=-0.70, p=.000）。
-> - 在 Lekhal_2015_Paideia 的[[Operationalization|操作化]]中，学校规范适应与 [[Motivation and Work Effort]] 构成高权重预测组。
+> - 在 Lekhal_2015_Paideia 的[[Operationalization\|操作化]]中，学校规范适应与 [[Motivation and Work Effort]] 构成高权重预测组。
 
 ## 待补充研究
 

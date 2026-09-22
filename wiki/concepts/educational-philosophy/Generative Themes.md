@@ -45,7 +45,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **生成性主题（Generative Themes / *Temas Geradores*）**由保罗·[[Paulo Freire|弗莱雷]]在《被压迫者教育学》（*Pedagogy of the Oppressed*, 2000）中确立。它是[[Problem-Posing Education|提问式教育]]的课程构建基石。指文化调查小组深入受教者社区提取的日常生存矛盾（如工资、房租、水资源、工作工具），这些主题能够引发探究好奇，并不断“生成”对社会压迫结构的深层批判意识。[[Argument_Darwish_2009_Queens|Darwish (2009, p. 47, p. 61)]]
+> **生成性主题（Generative Themes / *Temas Geradores*）**由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（*Pedagogy of the Oppressed*, 2000）中确立。它是[[Problem-Posing Education\|提问式教育]]的课程构建基石。指文化调查小组深入受教者社区提取的日常生存矛盾（如工资、房租、水资源、工作工具），这些主题能够引发探究好奇，并不断“生成”对社会压迫结构的深层批判意识。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 47, p. 61)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向蕴含在受压迫者切身生存境遇与时代矛盾焦点中的动态课程核心起点。
@@ -53,7 +53,7 @@ updated: 2026-09-17
 > - **边界** 不等于任何零散的学生即兴兴趣；必须包含能够向社会权力结构延伸的辩证矛盾。
 
 > [!citation-card]- 关键表述
-> 解放教育的内容——卓越的教育内容——是由学生对世界的看法构成的，他们的生成性主题正蕴含其中。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 47)]]
+> 解放教育的内容——卓越的教育内容——是由学生对世界的看法构成的，他们的生成性主题正蕴含其中。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
 >
 > *The content of an education for freedom... is constituted and organized by the students' view of the world, where their own generative themes are found. (Freire, 2000, p. 109)*
 
@@ -77,9 +77,9 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **生存根植性（Lived Groundedness）** 主题源自受教者切身社会与经济现实。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 47)]]
-> - **情感理智共鸣（Resonance）** 包含引发切身关切的矛盾（如“为什么烧砖者住不起砖房”）。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 48)]]
-> - **结构生成力（Generative Capacity）** 从单一词汇向社会学与政治学分析动态扩展。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
+> - **生存根植性（Lived Groundedness）** 主题源自受教者切身社会与经济现实。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
+> - **情感理智共鸣（Resonance）** 包含引发切身关切的矛盾（如“为什么烧砖者住不起砖房”）。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
+> - **结构生成力（Generative Capacity）** 从单一词汇向社会学与政治学分析动态扩展。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -99,10 +99,10 @@ updated: 2026-09-17
 ### 命题一　生成性主题是实现主动学习与批判意识觉醒的必要认识论起点
 
 > [!concept-lens] 批判性课程构建维度
-> 探讨如何通过将课程建立在学习者的切身生成性主题之上，打破[[Culture of Silence|沉默文化]]并促成批判觉察。
+> 探讨如何通过将课程建立在学习者的切身生成性主题之上，打破[[Culture of Silence\|沉默文化]]并促成批判觉察。
 
-> [!claim] [[Paulo Freire|Freire, P.]]
-> **生成性主题的解放力量** 弗莱雷论证指出，唯有当课程内容来自于学习者自身的生成性主题时，学习者才能理解自身生活的辩证性，将切身苦难转化为理智探究对象，进而通过实践改变压迫现实。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 109; Darwish, 2009, p. 47)]]
+> [!claim] [[Paulo Freire\|Freire, P.]]
+> **生成性主题的解放力量** 弗莱雷论证指出，唯有当课程内容来自于学习者自身的生成性主题时，学习者才能理解自身生活的辩证性，将切身苦难转化为理智探究对象，进而通过实践改变压迫现实。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 109; Darwish, 2009, p. 47)]]
 
 ---
 
@@ -118,9 +118,9 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1963 — 昂吉科斯识字实验** [[Paulo Freire|弗莱雷]]在巴西东北部识字运动中提取 17 个生成性词汇（如 Tijolo/泥砖, Salário/工资）。[[Argument_Darwish_2009_Queens|(Freire, 1973; Darwish, 2009, p. 48)]]
-> - **1970 — 理论体系化** 在《被压迫者教育学》中将生成性主题升华为[[Critical Pedagogy|批判教育学]]的核心课程理论。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 96)]]
-> - **2009 — 课程批判应用** 达维什在学位论文中将其作为评估 IB 课程[[Active Learning|主动学习]]真实性的分析工具。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 47)]]
+> - **1963 — 昂吉科斯识字实验** [[Paulo Freire\|弗莱雷]]在巴西东北部识字运动中提取 17 个生成性词汇（如 Tijolo/泥砖, Salário/工资）。[[Argument_Darwish_2009_Queens\|(Freire, 1973; Darwish, 2009, p. 48)]]
+> - **1970 — 理论体系化** 在《被压迫者教育学》中将生成性主题升华为[[Critical Pedagogy\|批判教育学]]的核心课程理论。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 96)]]
+> - **2009 — 课程批判应用** 达维什在学位论文中将其作为评估 IB 课程[[Active Learning\|主动学习]]真实性的分析工具。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
 
 ---
 
@@ -133,5 +133,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合巴西昂吉科斯识字课例，详细拆解生成性主题的提取与[[Decodification|解码]]过程。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合巴西昂吉科斯识字课例，详细拆解生成性主题的提取与[[Decodification\|解码]]过程。

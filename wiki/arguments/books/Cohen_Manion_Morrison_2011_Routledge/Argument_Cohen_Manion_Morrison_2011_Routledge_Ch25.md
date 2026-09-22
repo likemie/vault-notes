@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_display_title: "Research Methods in Education · Ch25"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Problem Solving]]"
   - "[[Self-Efficacy]]"
+  - "[[Nature of Science]]"
   - "[[Epistemology]]"
   - "[[Research Purpose]]"
   - "[[Scale in Higher Education]]"
@@ -78,7 +79,7 @@ updated: 2026-09-18
 
 #### 概念地图
 
-> [!knowledge-map]- 第25章　[[Concept Mapping|概念地图]]
+> [!knowledge-map]- 第25章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25_Concept_Map.jpg)
 
 ## 章节内容
@@ -87,10 +88,10 @@ updated: 2026-09-18
 
 > [!question] 核心问题
 >
-> - **什么是个人建构？** 个人建构理论的基本[[Unit of Analysis|分析单位]]，个体用于概念化日常世界、预测事件的双极维度
+> - **什么是个人建构？** 个人建构理论的基本[[Unit of Analysis\|分析单位]]，个体用于概念化日常世界、预测事件的双极维度
 > - **repertory grid 如何收集数据？** 通过元素（被评价对象）与构念（评价维度）的交叉评分矩阵，实现双向分析
 > - **构念应当引发还是提供？** 个体性推论与共同性推论之间的根本方法论张力贯穿全部操作决策
-> - **如何分析网格数据？** 从[[Cognitive Complexity Index|认知复杂性指数]]、主成分分析、[[Cluster Analysis|聚类分析]]到聚焦法和自认同图的多层次分析工具箱
+> - **如何分析网格数据？** 从[[Cognitive Complexity Index\|认知复杂性指数]]、主成分分析、[[Cluster Analysis\|聚类分析]]到聚焦法和自认同图的多层次分析工具箱
 > - **repertory grid 在教育研究中如何应用？** 从校长角色认知到学生概念转变，从考试评分特征到医学生身份发展
 
 
@@ -109,7 +110,7 @@ updated: 2026-09-18
 > 1. **选元素** 确定一组同质对象。本例为六位教学相关人物：好教师、我想成为的教师、我学到很多的教师、现在的我作为教师、无效教师、我没学到什么的教师。元素必须同质，否则从部分元素引发的构念不适用于其余元素（pp. 6–7）
 > 2. **引发构念** 用三元比较法：每次取三个元素，请受访者说明其中两个在哪个重要方面相似、而不同于第三个，由此得到一个双极构念。反复进行，本例引出八个构念：安静—吵闹、善交际—冷漠、开放—保守、有创意—按既定计划、独立—依赖、倾听—不倾听、拒绝想法—接受、严格—宽松（p. 7）
 > 3. **逐格评分** 把六个元素放列、八个构念放行，在 1–5 量尺上打分：1 靠近左极品质、5 靠近右极品质。示意：觉得"好教师"很善交际，就在"善交际—冷漠"一行给 1；觉得"无效教师"很冷漠，就给 5。由此得到 6×8 共 48 个量化数据，外加构念标签这一质性数据（p. 6）
-> 4. **对齐后分析** 分析前先统一构念朝向（反转未对齐的构念，否则相关矩阵会出错）；随后按[[Research Question|研究问题]]选择分析方式：比较元素或构念的关系用构念间相关（[[Cognitive Complexity Index|认知复杂性指数]]）；看整体结构用主成分分析（元素与构念同绘一图）；找相似分组用聚类或聚焦法；看自我关系用"现在的我"—"理想自我"的自认同图（pp. 10–11）
+> 4. **对齐后分析** 分析前先统一构念朝向（反转未对齐的构念，否则相关矩阵会出错）；随后按[[Research Question\|研究问题]]选择分析方式：比较元素或构念的关系用构念间相关（[[Cognitive Complexity Index\|认知复杂性指数]]）；看整体结构用主成分分析（元素与构念同绘一图）；找相似分组用聚类或聚焦法；看自我关系用"现在的我"—"理想自我"的自认同图（pp. 10–11）
 > 5. **回到标签解读** 量化结果必须回到构念标签才能说明"意味着什么"。本例主成分显示除"冷漠—善交际"外所有构念同向，意味着在这位教师眼中，冷漠而非善交际反而是更正面的教师品质（p. 10）
 
 > [!example] 网格骨架：元素为列、构念为行，每格填 1–5
@@ -131,7 +132,7 @@ updated: 2026-09-18
 ### 25.1 个人建构理论简介
 
 > [!info] 从临床经验到形式化理论
-> [[George Kelly]] 在两卷本著作《个人建构心理学》（*The Psychology of Personal Constructs*, 1955）中提出了一个完整且形式化的人格理论。其出发点来自临床经验：个体并非被动接收刺激，而是主动理解世界并扩展体验。Kelly 的核心关注点是三重递进的：个体如何感知环境，如何以既有的心智结构诠释所感知的内容，并因此如何对其做出行为。这一观察导向理论的基石判断，即不存在客观、绝对的真实，事件只有相对于个体的建构方式才有意义。[[Personal Constructs|个人建构]]正是个体用于概念化日常世界各个方面的维度（pp. 4–5）。
+> [[George Kelly]] 在两卷本著作《个人建构心理学》（*The Psychology of Personal Constructs*, 1955）中提出了一个完整且形式化的人格理论。其出发点来自临床经验：个体并非被动接收刺激，而是主动理解世界并扩展体验。Kelly 的核心关注点是三重递进的：个体如何感知环境，如何以既有的心智结构诠释所感知的内容，并因此如何对其做出行为。这一观察导向理论的基石判断，即不存在客观、绝对的真实，事件只有相对于个体的建构方式才有意义。[[Personal Constructs\|个人建构]]正是个体用于概念化日常世界各个方面的维度（pp. 4–5）。
 >
 > 该理论将人视为主动寻求预测和控制事件的科学家。个人建构用于预测事件和预演情境，有时组织为包含从属和上属关系的群体。对人类行为的终极解释在于审视人的事业、提出的问题、发起的探究路线以及采用的策略（Kelly, 1969）。教育在这一框架中是必然实验性的，终极目标是个人实现和潜能最大化，利用每个人质疑和探索的需求。
 >
@@ -151,7 +152,7 @@ updated: 2026-09-18
 > - **事件（events）** 被建构或理解的对象。用法极为宽泛：既指参加派对、教学这类真正事件，也指理想自我、我崇拜的教师等心理对象。在 repertory grid 技术中，这些对象统称为元素
 
 > [!def] Repertory Grid 的本质定义
-> Repertory grid 本质上是元素与构念之间关系的表征。它提供的信息可用于理解一个人的心理过程如何被其预期事件的方式所引导。理论提供了理解网格中发生了什么的概念工具，但这并非使用网格的[[Necessary and Sufficient Conditions|必要条件]]（pp. 5, 18）。
+> Repertory grid 本质上是元素与构念之间关系的表征。它提供的信息可用于理解一个人的心理过程如何被其预期事件的方式所引导。理论提供了理解网格中发生了什么的概念工具，但这并非使用网格的[[Necessary and Sufficient Conditions\|必要条件]]（pp. 5, 18）。
 
 > [!example]- 图25.1　简易网格布局
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25-1_Simple_Grid_Layout.jpg)
@@ -170,7 +171,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > - **双极性推论（Dichotomy Corollary）**
 >   个人建构系统由有限数量的双极构念组成。构念本质上可用两极形容词（好与坏）或两极短语（让我感到快乐与让我感到悲伤）定义。这是 repertory grid 评分形式的技术基础，每个构念必须有明确的两极
 > - **组织推论（Organization Corollary）**
->   每个人为了方便预期事件，会演化出一个包含构念之间序数关系的建构系统。构念之间存在从属和上属的层级关系。这一推论支持了[[Laddering|阶梯法]]（向上追溯上属构念）和网格层级分析的逻辑
+>   每个人为了方便预期事件，会演化出一个包含构念之间序数关系的建构系统。构念之间存在从属和上属的层级关系。这一推论支持了[[Laddering\|阶梯法]]（向上追溯上属构念）和网格层级分析的逻辑
 > - **个体性推论（Individuality Corollary）**
 >   人对事件的建构各不相同。这是引发构念而非提供构念做法的核心理论依据，只有从受访者自身引发的构念才是其建构系统的有效表征
 > - **共同性推论（Commonality Corollary）**
@@ -188,7 +189,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 ### 25.2 Repertory Grid 技术的优势
 
 > [!strength] 两大核心优势
-> - **个体化框架：受访者同时提供框架和回答** repertory grid 不同于标准化[[Questionnaire|问卷]]，受访者不仅提供评分（回答），还提供自身的评价维度（框架）。例如，Suto & Nádas（2009）让两位首席考官识别导致评分难度差异的试题特征，构念来自考官自身经验而非研究者预设
+> - **个体化框架：受访者同时提供框架和回答** repertory grid 不同于标准化[[Questionnaire\|问卷]]，受访者不仅提供评分（回答），还提供自身的评价维度（框架）。例如，Suto & Nádas（2009）让两位首席考官识别导致评分难度差异的试题特征，构念来自考官自身经验而非研究者预设
 > - **双向数据结构：元素与构念的交叉矩阵** 元素之间的关系可以通过构念集合加以评估（每个元素在整组构念上有信息），构念之间的关系也可以通过元素集合提供的信息加以考察（每个构念在全组元素上有信息）。即使限制了网格的个体性，使用提供构念或提供元素，双向数据仍允许进行受访者内部分析（p. 6）
 
 ---
@@ -234,7 +235,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 
 > [!info] 调和路径与实证检验
 > 这一争论并非非此即彼，而且答案至今仍不完全清楚，又被新近发现的价值负载角色头衔对引发构念的影响进一步遮蔽：
-> - Bannister & Mair（1968）支持在已有明确[[Hypothesis|假设]]和涉及组比较的实验中使用提供构念
+> - Bannister & Mair（1968）支持在已有明确[[Hypothesis\|假设]]和涉及组比较的实验中使用提供构念
 > - 将引发构念与提供构念并用于同一研究，可以作为检验提供构念有意义性的手段，引发构念与提供构念之间的低相关性暗示研究者提供的构念可能缺乏相关性
 > - Bell（2000）展示了通过逐一检查每个提供构念的元素评分单维性来检验共同性推论是否成立：如果所有受访者对某一提供构念的元素评分都形成单一维度，则该构念确实被共享（p. 7）
 
@@ -257,7 +258,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 #### 阶梯法：蕴含与层级追溯
 
 > [!def] 阶梯法的理论根源
-> [[Laddering|阶梯法]]（laddering）源于 Hinkle（1965）将蕴含（implication）概念与组织推论相链接。其创新在于用蕴含替代预期，使得不同构念的极点之间可以建立逻辑关系，一个构念蕴含另一个构念（pp. 8–9）。
+> [[Laddering\|阶梯法]]（laddering）源于 Hinkle（1965）将蕴含（implication）概念与组织推论相链接。其创新在于用蕴含替代预期，使得不同构念的极点之间可以建立逻辑关系，一个构念蕴含另一个构念（pp. 8–9）。
 
 > [!proc] 阶梯法的操作流程
 > 1. **确定偏好极点** 请参与者指出给定构念中哪个极点是其偏好的。这一步与选择推论直接关联：人选择那些使建构系统获得更大扩展和定义的替代方案
@@ -266,7 +267,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > 4. **完成上级构念** 请参与者给出新构念的对比极点
 > 5. **迭代向上** 再次确定新构念的偏好极点，追问为什么，产生下一个更高层次构念
 
-> [!example]- 表25.1　一次阶梯法[[Dialogue in Education|对话]]（据原著表格[[Transcription in Qualitative Research|转录]]）
+> [!example]- 表25.1　一次阶梯法[[Dialogue in Education\|对话]]（据原著表格[[Transcription in Qualitative Research\|转录]]）
 >
 > | 对话（访谈者 / 受访者） | 方法说明 |
 > |:--|:--|
@@ -287,7 +288,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > [!info] 阶梯法的应用与延伸
 > 该技术虽未由其开发者正式发表，但已在多个领域广泛使用，尤其是消费者认知研究。Reynolds & Gutman（1988）提供了从产品属性阶梯到消费者价值的实用操作建议（p. 9）。
 >
-> Hinkle（1965）还进一步开发了蕴含网格（Implication Grid，简称 Impgrid），要求受试者将所有构念两两比较，逐一判断一个构念是否蕴含另一个。蕴含网格将阶梯法从访谈技术扩展为可量化的[[Network Analysis|网络分析]]工具。
+> Hinkle（1965）还进一步开发了蕴含网格（Implication Grid，简称 Impgrid），要求受试者将所有构念两两比较，逐一判断一个构念是否蕴含另一个。蕴含网格将阶梯法从访谈技术扩展为可量化的[[Network Analysis\|网络分析]]工具。
 
 ---
 #### 金字塔法：横向展开的描述工具
@@ -477,18 +478,18 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 #### 教师与教学专业认知
 
 > [!case] Jones（1999）：变革时期校长角色认知与核心价值观
-> **研究设计** 在变革时期（changing times），使用 repertory grids 与访谈和[[Participant Observation|参与观察]]相结合，引发校长对其角色和议程的建构。
+> **研究设计** 在变革时期（changing times），使用 repertory grids 与访谈和[[Participant Observation\|参与观察]]相结合，引发校长对其角色和议程的建构。
 >
 > **核心发现**
 > - **两个关键构念** 管理活动（一个构念）确实增加了，但这并未导致校长的去专业化；校长的核心价值观植根于其教育价值观和对教育的看法（第二个构念）
 > - **构念层级** 小学主要校长的上属构念依次为以儿童为中心和管理，且以儿童为中心在上、管理在下。管理系统服务于以儿童为中心的价值观和愿景，而非取代之
-> - **引发的构念示例** 以儿童为中心的[[Problem Solving|问题解决]]、政策实施、评估、其他机构参与、问题解决、文书工作（p. 12）
+> - **引发的构念示例** 以儿童为中心的[[Problem Solving\|问题解决]]、政策实施、评估、其他机构参与、问题解决、文书工作（p. 12）
 >
 > **方法论意义** 这一发现只有在使用引发构念的方法下才有可能，因为它揭示了校长自身建构系统中的层级组织关系，这种关系无法通过预设维度来获取。
 
 > [!case] Yeung & Watkins（2000）：香港实习教师的个人教学效能感
 > **研究设计**
-> - **先导研究** 生成元素，确定了[[Self-Efficacy|自我效能]]、教学实习、实习督导、学生、课堂等关键元素
+> - **先导研究** 生成元素，确定了[[Self-Efficacy\|自我效能]]、教学实习、实习督导、学生、课堂等关键元素
 > - **正式研究** 对27名实习教师使用三元比较法（卡片形式）个别引发构念
 > - **分析方法** 使用 Shaw & Gaines 的 REPGRID 软件（REPGRID 2, 1993）匹配学生教师之间的构念，识别核心构念并创建学生教师之间的相似性网络
 >
@@ -512,7 +513,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > [!case] Bezzi（1999）：地球科学学科形象的认知变化
 > **研究设计**
 > - **参与者** 一位大学地质学讲师和五名本科生
-> - **时间设计** 学年开始和结束时各施测一次，构成[[Pre-test and Post-test|前测]]—后测比较
+> - **时间设计** 学年开始和结束时各施测一次，构成[[Pre-test and Post-test\|前测]]—后测比较
 > - **元素** 提供六个科学学科名称（如物理、地理、地质学）作为元素
 > - **构念** 使用三元比较法在学年首末分别个别引发15个构念
 > - **分析策略** 构念标签作为质性数据，由研究者分类为五类；同时使用主成分表征同时呈现元素和构念
@@ -521,7 +522,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > >
 > > | 类别 | 内容 | 示例构念 |
 > > |------|------|---------|
-> > | （i）科学本质 | 科学的[[Epistemology\|认识论]]特征 | 客观/主观 |
+> > | （i）[[Nature of Science\|科学本质]] | 科学的[[Epistemology\|认识论]]特征 | 客观/主观 |
 > > | （ii）探究面向 | 研究方法与工具 | 使用地图或图表/不这样使用 |
 > > | （iii）应用与专业面向 | 就业和环境影响 | 更多就业机会/更少；改变环境/保护环境 |
 > > | （iv）情感面向 | 个人偏好与难度感知 | 喜欢/不喜欢；困难/容易 |
@@ -555,7 +556,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > - 在一些语言学问题上出现了潜在问题，特别是质量（quality）与数量（quantity）两概念之间在使用中的区分不够清晰（p. 14）
 
 > [!case] Suto & Nádas（2009）：GCSE 考试评分难度特征
-> **研究设计** [[Research Purpose|研究目的]]是解释为什么一些数学和物理的中等教育普通证书（GCSE）试题比其他试题更难准确评分。两位高度资深的英国首席考官对数学和物理试题的三元组（元素）产生试题特征的构念，并对每道试题（元素）在构念上评分。
+> **研究设计** [[Research Purpose\|研究目的]]是解释为什么一些数学和物理的中等教育普通证书（GCSE）试题比其他试题更难准确评分。两位高度资深的英国首席考官对数学和物理试题的三元组（元素）产生试题特征的构念，并对每道试题（元素）在构念上评分。
 >
 > **核心发现** 产生的构念被详细考察后与评分准确性数据相关联，某些试题特征（构念）系统地预测了更高的评分误差（p. 14）。
 >
@@ -590,7 +591,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > **数据分析流程**
 > - 1531个属性经消除冗余后缩减为100个属性池
 > - 49个属性由学生子集进行自由分类
-> - 使用多维[[Scale in Higher Education|尺度分析]]从自由分类的共现数据中识别聚类
+> - 使用多维[[Scale in Higher Education\|尺度分析]]从自由分类的共现数据中识别聚类
 > - 七个聚类被识别，原始1531个术语归入这些类别
 >
 > > [!taxonomy] 七个聚类（按频率排列，原文列举前三个）
@@ -650,7 +651,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > [!challenges] 困难三：Yorke（1978）识别的四项实践问题
 > - **低个人相关性元素的可变感知** 对受访者而言不重要的元素，其感知在施测过程中不稳定，受访者可能在不同时间点对同一元素产生不同理解
 > - **施测过程中元素感知情境的变化** 随着网格的进行，受访者对所评价元素的参照情境可能发生变化，前几个构念在一个情境下引发，后几个在另一个情境下
-> - **[[Halo Effect|光环效应]]** 受试者看到网格矩阵逐渐建立，可能影响后续评分，尤其在评分形式中，已填写的评分可能成为后续评分的锚定
+> - **[[Halo Effect\|光环效应]]** 受试者看到网格矩阵逐渐建立，可能影响后续评分，尤其在评分形式中，已填写的评分可能成为后续评分的锚定
 > - **评分量表的意外反转** 心理上从5=高切换到1=高，这可能因为"5分"与"第一"都是描述高质量的两种方式。反转可在构念内部和构念之间发生，尤其在三元引发中给元素对赋予隐性负面属性时（p. 17）
 
 > [!warning] 困难四：网格规模的数据负担
@@ -659,7 +660,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > [!warning] 困难五：理论与方法的持续张力
 > Repertory grid 的权威著作（Bannister & Mair, 1968; Fransella & Bannister, 1977; Jankowicz, 2003; Fransella et al., 2004）都从 [[Personal Construct Theory]] 的视角撰写，强调理论对技术使用的重要性。然而大多数 repertory grid 研究以纯粹方法论和无理论的方式使用网格，仅顺带提及 Kelly 作为起源者。理论可以用于理解网格中正在发生的事情，但并非使用网格的必要条件（p. 18）。
 >
-> 真正的弊端是术语过多。例如，Bannister 将构念间平均相关命名为强度（intensity），这一术语常使外部研究者困惑，同样的统计量在其他领域有普遍理解的名称，但在个人建构[[Document|文献]]中被赋予了一个专属术语。
+> 真正的弊端是术语过多。例如，Bannister 将构念间平均相关命名为强度（intensity），这一术语常使外部研究者困惑，同样的统计量在其他领域有普遍理解的名称，但在个人建构[[Document\|文献]]中被赋予了一个专属术语。
 
 > [!warning] 困难六：阶梯法的特殊问题
 > - Butt（1995）指出了阶梯法在过程层面的问题
@@ -691,10 +692,10 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 
 ## 关键引用
 
-> [!citation-card]- [[Personal Constructs|个人建构]]的定义与个体性
+> [!citation-card]- [[Personal Constructs\|个人建构]]的定义与个体性
 > 个人建构是我们用于概念化日常生活中各个方面的维度，人对事件的建构各不相同。（第25章，25.1节；Kelly, 1955）
 >
-> *Personal [[Construct|constructs]] are the dimensions that we use to conceptualize aspects of our day-to-day world, and, as Kelly writes, people differ from each other in their construction of events.*
+> *Personal [[Construct\|constructs]] are the dimensions that we use to conceptualize aspects of our day-to-day world, and, as Kelly writes, people differ from each other in their construction of events.*
 
 > [!citation-card]- 基本公设，整个理论体系的基石
 > 一个人的心理过程由他或她预期事件的方式所引导。（第25章，25.1节；Kelly, 1955）
@@ -706,7 +707,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 >
 > *The ultimate explanation of human behaviour lies in scanning man's undertakings, the questions he asks, the lines of inquiry he initiates and the strategies he employs.*
 
-> [!citation-card]- [[Repertory Grid Technique|repertory grid]] 的双向数据优势
+> [!citation-card]- [[Repertory Grid Technique\|repertory grid]] 的双向数据优势
 > 元素之间的关系可以通过构念集合加以评估，因为每个元素在整组构念上都有信息。反过来，构念之间的关系也可以通过元素集合提供的信息加以考察。（第25章，25.2节）
 >
 > *Relationships between elements can be assessed, since there is information about each element provided by the set of constructs. Conversely the relationships between constructs can be examined through the information provided for each construct by the set of elements.*
@@ -727,7 +728,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > *A grid which is elicited wholly from the respondent is the most valid representation of that person's construing. However research often demands replications across subjects.*
 
 > [!citation-card]- 理论与方法的张力，术语过多是真正的弊端
-> 理论可用于理解网格中正在发生的事情，但并非使用网格的[[Necessary and Sufficient Conditions|必要条件]]。该领域作者的真正弊端往往在于术语过多，例如 Bannister 将构念间平均相关命名为强度（intensity）。（第25章，25.6节）
+> 理论可用于理解网格中正在发生的事情，但并非使用网格的[[Necessary and Sufficient Conditions\|必要条件]]。该领域作者的真正弊端往往在于术语过多，例如 Bannister 将构念间平均相关命名为强度（intensity）。（第25章，25.6节）
 >
 > *The theory can be used to understand what is happening in the grid, but of course it is not essential to its use. The real drawback to the [[Personal Construct Theory]] background of writers in this area is often with the jargon employed.*
 

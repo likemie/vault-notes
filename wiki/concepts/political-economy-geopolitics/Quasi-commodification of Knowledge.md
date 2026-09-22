@@ -42,12 +42,12 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 知识的准商品化（Quasi-commodification of Knowledge）是 Jessop（2007）在 Polanyi 视角下提出的概念，后由 Schulze-Cleven et al.（2017）置于高等教育新政治经济学的[[Analytic Framework|分析框架]]中。它描述知识在当代资本主义中被当作可交易商品（commodity）来处理，但由于知识固有的公共品特性——非竞争性使用（一个人的使用不减少另一个人的使用）和非排他性（排除他人使用的成本很高）——它无法被完整地转化为商品。因此，知识处于一种"准商品"（quasi-commodity）的状态：被定价、被交换、被赋予市场价值，但其商品化始终是不完全的，需要持续的制度努力来维持([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])。
+> 知识的准商品化（Quasi-commodification of Knowledge）是 Jessop（2007）在 Polanyi 视角下提出的概念，后由 Schulze-Cleven et al.（2017）置于高等教育新政治经济学的[[Analytic Framework\|分析框架]]中。它描述知识在当代资本主义中被当作可交易商品（commodity）来处理，但由于知识固有的公共品特性——非竞争性使用（一个人的使用不减少另一个人的使用）和非排他性（排除他人使用的成本很高）——它无法被完整地转化为商品。因此，知识处于一种"准商品"（quasi-commodity）的状态：被定价、被交换、被赋予市场价值，但其商品化始终是不完全的，需要持续的制度努力来维持([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.804–805]])。
 
 这一概念的分析功能在于：揭示"[[Academic Capitalism|学术资本主义]]"概念的一个核心模糊性——大学被说成在"市场化"，但大学的"产品"（知识、教育、研究）从根本上抗拒完全的市场化。准商品化的概念精确地捕捉了知识在这个过程中的"半市场"状态。
 
 > [!quote]
-> Jessop（2007）将知识分析为 Polanyi 意义上的"虚拟商品"（[[Fictitious Commodity of Knowledge|fictitious commodity]]）——它被当作商品来对待，但其固有的社会性质使其无法被完全商品化([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])。
+> Jessop（2007）将知识分析为 Polanyi 意义上的"虚拟商品"（[[Fictitious Commodity of Knowledge\|fictitious commodity]]）——它被当作商品来对待，但其固有的社会性质使其无法被完全商品化([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.804–805]])。
 
 ## 概念辨析
 
@@ -59,7 +59,7 @@ updated: 2026-08-20
 ## 核心张力
 
 > [!abstract]
-> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.804–805)]]通过 Jessop and Reitz 在该期期刊中的分析，揭示了知识准商品化中的三组核心张力：
+> [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp.804–805)]]通过 Jessop and Reitz 在该期期刊中的分析，揭示了知识准商品化中的三组核心张力：
 
 ### 公共品与私有资产的张力
 
@@ -83,9 +83,9 @@ Reitz提出了一个激进的论证：资本主义知识经济需要一个非资
 ## 在高等教育新政治经济学分析中的位置
 
 > [!note]-
-> Jessop的三重思想实验将准商品化置于一个更广泛的谱系中([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])：
+> Jessop的三重思想实验将准商品化置于一个更广泛的谱系中([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.804–805]])：
 > - **成本效率（cost-efficiency）** 大学追求更有效的资源利用——这不是资本主义，只是好的管理
-> - **准商品化（quasi-commodification）** 知识劳动被当作可交易商品处理——进入"[[Academic Capitalism|学术资本主义]]"的门槛
+> - **准商品化（quasi-commodification）** 知识劳动被当作可交易商品处理——进入"[[Academic Capitalism\|学术资本主义]]"的门槛
 > - **金融化（financialization）** 金融资本直接进入并主导高等教育的收入流和治理——商品化逻辑从知识产品扩展到高等教育的整体财务结构
 >
 > 准商品化位于"类市场行为"和"完全资本主义"之间的灰色地带——它解释了为什么大学可以表现得"像企业"而不必"成为企业"。

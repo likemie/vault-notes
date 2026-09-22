@@ -41,16 +41,16 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 田野笔记是研究者在观察现场或观察后尽快记录的文字材料，涵盖观察到的行为、[[Dialogue in Education|对话]]、非语言线索、环境特征以及研究者自身的反应和初步分析。它是参与式观察和[[Non-participant Observation|非参与式观察]]的核心数据载体，也是[[Case Study|个案研究]]和[[Ethnography|民族志研究]]的基础材料。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, pp. 295–296)]]
+> 田野笔记是研究者在观察现场或观察后尽快记录的文字材料，涵盖观察到的行为、[[Dialogue in Education\|对话]]、非语言线索、环境特征以及研究者自身的反应和初步分析。它是参与式观察和[[Non-participant Observation\|非参与式观察]]的核心数据载体，也是[[Case Study\|个案研究]]和[[Ethnography\|民族志研究]]的基础材料。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, pp. 295–296)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 观察到的行为、互动、对话、环境细节、非语言线索、研究者当场反应
 > - **问题类型** 记录发生了什么、如何发生、在什么情境中发生
-> - **[[Unit of Analysis|分析单位]]** 事件、互动回合、时间片段、场景
-> - **输出形式** 文字笔记（手写或打字）、口述录音[[Transcription in Qualitative Research|转录]]、[[Coding in Qualitative Research|编码]]和分析用的原始材料
+> - **[[Unit of Analysis\|分析单位]]** 事件、互动回合、时间片段、场景
+> - **输出形式** 文字笔记（手写或打字）、口述录音[[Transcription in Qualitative Research\|转录]]、[[Coding in Qualitative Research\|编码]]和分析用的原始材料
 
 > [!citation-card]- King（1979）的田野笔记规模
-> 我填满了三十二本笔记本，包含在近六百小时观察中做的约五十万字笔记。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, p. 295)]]
+> 我填满了三十二本笔记本，包含在近六百小时观察中做的约五十万字笔记。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 295)]]
 >
 > *I filled thirty-two notebooks with about half a million words of notes made during nearly six hundred hours [of observation].* (King, 1979)
 
@@ -71,17 +71,17 @@ updated: 2026-09-17
 > - **知识观** 田野笔记不是对现实的透明记录，而是研究者在特定时刻的选择性建构——记录什么、忽略什么、如何表述都涉及研究者的判断
 > - **研究者角色** 研究者在记录时已在进行初步分析。Wolcott 承认记笔记帮助他对抗观察校长每天无尽的会议时的极度无聊，但偶尔事件发生得太快只能做粗略笔记后补充
 > - **有效性标准** 记录的及时性（越快越完整）、细节的充分性（能否数月后唤起画面）、多源交叉验证
-> - **不声称回答的问题** 田野笔记本身不是分析，需要后续[[Coding in Qualitative Research|编码]]和解释
+> - **不声称回答的问题** 田野笔记本身不是分析，需要后续[[Coding in Qualitative Research\|编码]]和解释
 
 > [!warning] Wolcott 的核心提示
-> 在先前观察的笔记完成之前，绝不要恢复观察。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, p. 296)]]
+> 在先前观察的笔记完成之前，绝不要恢复观察。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 296)]]
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 所有涉及参与式观察或[[Non-participant Observation|非参与式观察]]的研究；[[Case Study|个案研究]]；[[Ethnography|民族志研究]]
-> - **谨慎使用** 研究者无法当场记录的情境（如[[Covert Research|隐蔽研究]]，Patrick 在格拉斯哥帮派中需秘密记录）
-> - **不适合使用** 仅依赖[[Questionnaire|问卷]]或实验数据、不涉及现场观察的研究
+> - **适合使用** 所有涉及参与式观察或[[Non-participant Observation\|非参与式观察]]的研究；[[Case Study\|个案研究]]；[[Ethnography\|民族志研究]]
+> - **谨慎使用** 研究者无法当场记录的情境（如[[Covert Research\|隐蔽研究]]，Patrick 在格拉斯哥帮派中需秘密记录）
+> - **不适合使用** 仅依赖[[Questionnaire\|问卷]]或实验数据、不涉及现场观察的研究
 
 ## 局限性
 
@@ -93,6 +93,6 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材在[[Case Study|个案研究]]章节中专设 14.9 节讨论观察记录，引述 Lofland（1971）七条指南、King（1979）五百页笔记实践、Wolcott（1973）的实用提示，以及 Walker（1980）关于记录时机和方式的十二项选择问题（pp. 295–296）
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍田野笔记的多层记录框架：描述层面（Spradley, 1980; Bogdan & Biklen, 1992; LeCompte & Preissle, 1993）、反思层面（Bogdan & Biklen, 1992）、Lincoln & Guba（1985）的三种日志类型、Spradley（1980）的九项内容清单、LeCompte & Preissle（1993）的观察指南、Lofland（1971）的六类信息分类和 Wilkinson（2000）的分子与摩尔[[Unit of Analysis|分析单位]]（23.6–23.7 节）
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] — 教材在[[Case Study\|个案研究]]章节中专设 14.9 节讨论观察记录，引述 Lofland（1971）七条指南、King（1979）五百页笔记实践、Wolcott（1973）的实用提示，以及 Walker（1980）关于记录时机和方式的十二项选择问题（pp. 295–296）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍田野笔记的多层记录框架：描述层面（Spradley, 1980; Bogdan & Biklen, 1992; LeCompte & Preissle, 1993）、反思层面（Bogdan & Biklen, 1992）、Lincoln & Guba（1985）的三种日志类型、Spradley（1980）的九项内容清单、LeCompte & Preissle（1993）的观察指南、Lofland（1971）的六类信息分类和 Wilkinson（2000）的分子与摩尔[[Unit of Analysis\|分析单位]]（23.6–23.7 节）

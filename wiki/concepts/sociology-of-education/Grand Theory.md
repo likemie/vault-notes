@@ -68,20 +68,20 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **宏大理论（Grand Theory）** 是一种旨在统摄并定义整个探究领域的思辨性元叙述（metanarrative）。它依托最根本的[[Ontology|本体论]]与[[Epistemology|认识论]]先验公设构建宏大的理性大厦，致力于阐明人类行为与社会组织的总体运转秩序。在宏大理论中，经验事实往往仅作为论证观点的“插图式佐证”，而非检验[[Falsification|证伪]]理论假说的决定性依据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 10–11)]]
+> **宏大理论（Grand Theory）** 是一种旨在统摄并定义整个探究领域的思辨性元叙述（metanarrative）。它依托最根本的[[Ontology\|本体论]]与[[Epistemology\|认识论]]先验公设构建宏大的理性大厦，致力于阐明人类行为与社会组织的总体运转秩序。在宏大理论中，经验事实往往仅作为论证观点的“插图式佐证”，而非检验[[Falsification\|证伪]]理论假说的决定性依据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 10–11)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向社会学与哲学中那些包罗万象、先验自洽、试图提供终极解释框架的宏大知识系统（如马克思主义历史唯物论、帕森斯结构功能主义）。
-> - **用途** 帮助研究者识别理论建构中的先验推演偏执，警惕以宏[[Big Ideas|大概念]]强行裁剪鲜活生活经验的过度抽象倾向。
-> - **边界** 宏大理论不提供可精确[[Operationalization|操作化]]与严格证伪的微观经验假说，不能直接充当课堂或学校层面的具体因果解释工具。
+> - **用途** 帮助研究者识别理论建构中的先验推演偏执，警惕以宏[[Big Ideas\|大概念]]强行裁剪鲜活生活经验的过度抽象倾向。
+> - **边界** 宏大理论不提供可精确[[Operationalization\|操作化]]与严格证伪的微观经验假说，不能直接充当课堂或学校层面的具体因果解释工具。
 
-> [!citation-card] [[Keith Morrison|莫里森]]与莱德论宏大理论的思辨本质与拜占庭式建筑辉煌
-> 宏大理论是一种元叙述，它界定了一个研究领域，具有思辨性，旨在澄清概念结构与框架，并在[[Creativity|创造性]]维度上拓展我们对人类行为与组织的思考方式。它运用根本性的本体论和认识论公设来界定探究领域。在这里，经验材料往往仅被用作说明展示的方式，而非作为严格的‘证明’。这构成了某些社会学理论（例如马克思主义、共识论与功能主义）的实质内核。尽管社会学家可能为其全包容和统揽一切的特质所振奋，但它们遭遇了大量解构。正如默顿、科瑟与罗森伯格、多尔以及莱德所主张的，尽管宏大理论可能具备大型哲学体系的吸引力——展现出相当可观的、拜占庭式的建筑辉煌与逻辑自洽——然而在科学探究中，它们却是贫瘠、无关痛痒的，并且脱离了一个以开放性、流动性、变革、[[Heterogeneity|异质性]]与碎片化为特征的真实世界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 10–11)]]
+> [!citation-card] [[Keith Morrison\|莫里森]]与莱德论宏大理论的思辨本质与拜占庭式建筑辉煌
+> 宏大理论是一种元叙述，它界定了一个研究领域，具有思辨性，旨在澄清概念结构与框架，并在[[Creativity\|创造性]]维度上拓展我们对人类行为与组织的思考方式。它运用根本性的本体论和认识论公设来界定探究领域。在这里，经验材料往往仅被用作说明展示的方式，而非作为严格的‘证明’。这构成了某些社会学理论（例如马克思主义、共识论与功能主义）的实质内核。尽管社会学家可能为其全包容和统揽一切的特质所振奋，但它们遭遇了大量解构。正如默顿、科瑟与罗森伯格、多尔以及莱德所主张的，尽管宏大理论可能具备大型哲学体系的吸引力——展现出相当可观的、拜占庭式的建筑辉煌与逻辑自洽——然而在科学探究中，它们却是贫瘠、无关痛痒的，并且脱离了一个以开放性、流动性、变革、[[Heterogeneity\|异质性]]与碎片化为特征的真实世界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 10–11)]]
 >
-> *‘Grand theory’ is a metanarrative, defining an area of study, being speculative, clarifying conceptual structures and frameworks, and creatively enlarging the way we consider behaviour and organizations (Layder). It uses fundamental ontological and epistemological postulates which serve to define a [[Champ|field]] of enquiry (Hughes, 1976). Here empirical material tends to be used by way of illustration rather than ‘proof’. This is the stuff of some sociological theories, for example Marxism, consensus theory and functionalism. Whilst sociologists may be excited by the totalizing and all-encompassing nature of such theories, they have been subject to considerable undermining. For example, Merton (1949), Coser & Rosenberg (1969), Doll (1993) and Layder (1994) contend that whilst they might possess the attraction of large philosophical systems of considerable – Byzantine – architectonic splendour and logical consistency, nevertheless they are scientifically sterile, irrelevant and out of touch with a world that is characterized by openness, fluidity, change, heterogeneity and fragmentation.*
+> *‘Grand theory’ is a metanarrative, defining an area of study, being speculative, clarifying conceptual structures and frameworks, and creatively enlarging the way we consider behaviour and organizations (Layder). It uses fundamental ontological and epistemological postulates which serve to define a [[Champ\|field]] of enquiry (Hughes, 1976). Here empirical material tends to be used by way of illustration rather than ‘proof’. This is the stuff of some sociological theories, for example Marxism, consensus theory and functionalism. Whilst sociologists may be excited by the totalizing and all-encompassing nature of such theories, they have been subject to considerable undermining. For example, Merton (1949), Coser & Rosenberg (1969), Doll (1993) and Layder (1994) contend that whilst they might possess the attraction of large philosophical systems of considerable – Byzantine – architectonic splendour and logical consistency, nevertheless they are scientifically sterile, irrelevant and out of touch with a world that is characterized by openness, fluidity, change, heterogeneity and fragmentation.*
 
 > [!boundary] 概念边界
-> - 不等于 [[Grounded Theory|扎根理论]] — 扎根理论拒绝先验宏大构想，主张概念与命题必须从具体实地情境与第一手质性数据中动态[[Emergence|涌现]]；宏大理论则是自上而下的先验演绎体系。
+> - 不等于 [[Grounded Theory\|扎根理论]] — 扎根理论拒绝先验宏大构想，主张概念与命题必须从具体实地情境与第一手质性数据中动态[[Emergence\|涌现]]；宏大理论则是自上而下的先验演绎体系。
 > - 不等于 中层理论（Middle-range Theory） — 中层理论介于日常微观工作假说与包罗万象的宏大思辨体系之间，致力于指导具体的经验研究并可经受经验检验；宏大理论则凌驾于具体经验情境之上。
 > - 不等于 经验理论（Empirical Theory） — 经验理论严格遵循可操作化、可检验性与可证伪性准则；宏大理论依赖概念自洽与体系完备，缺乏严格可反驳的经验操作接口。
 
@@ -89,7 +89,7 @@ updated: 2026-09-17
 
 ## 概念辨析
 
-> [!contrast-table] 宏大理论、中层理论与[[Grounded Theory|扎根理论]]的方法论多维对照
+> [!contrast-table] 宏大理论、中层理论与[[Grounded Theory\|扎根理论]]的方法论多维对照
 > | 比较维度 | 宏大理论（Grand Theory） | 中层理论（Middle-range Theory） | 扎根理论（Grounded Theory） |
 > |---|---|---|---|
 > | **理论源泉** | 哲学思辨、先验公理与历史元叙述 | 特定社会范围内的经验概括与问题抽象 | 深度嵌入实地情境的第一手经验数据与[[Coding in Qualitative Research\|编码]] |
@@ -106,9 +106,9 @@ updated: 2026-09-17
 > 1. **元叙述统摄性（Metanarrative Dominance）**
 >    宏大理论自命为跨越时空疆界的总揽式叙述，试图用单一概念逻辑统摄整个社会系统的历史变迁与组织运作。
 > 2. **先验公设推演性（A Priori Axiomatic Derivation）**
->    其核心概念并非来自具体经验测量，而是从高度抽象的[[Ontology|本体论]]与[[Epistemology|认识论]]公设出发，通过自上而下的严密形式逻辑推导而成。
+>    其核心概念并非来自具体经验测量，而是从高度抽象的[[Ontology\|本体论]]与[[Epistemology\|认识论]]公设出发，通过自上而下的严密形式逻辑推导而成。
 > 3. **经验材料插图化（Illustrative Subordination of Data）**
->    在宏大理论的建构与辩护中，研究者倾向于选择性汲取符合理论推演的历史或现实片段作为修辞佐证，拒绝接受可操作性的经验严酷检验（[[Falsification|severe test]]）。
+>    在宏大理论的建构与辩护中，研究者倾向于选择性汲取符合理论推演的历史或现实片段作为修辞佐证，拒绝接受可操作性的经验严酷检验（[[Falsification\|severe test]]）。
 > 4. **体系全封闭性（Systemic Closure）**
 >    追求体系的无懈可击与逻辑完备性，面对外部现实的剧烈演化往往显现出认知刚性与解释钝化。
 
@@ -161,6 +161,6 @@ updated: 2026-09-17
 
 ## 参考文献
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 10–11)]] — 系统界定宏大理论的元叙述性质、思辨内核及其遭遇的经验贫瘠批判。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 贯穿全书剖析质性[[Grounded Theory|扎根理论]]与量化[[Hypothesis|假设]]检验如何超越传统先验宏大思辨。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 10–11)]] — 系统界定宏大理论的元叙述性质、思辨内核及其遭遇的经验贫瘠批判。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿全书剖析质性[[Grounded Theory\|扎根理论]]与量化[[Hypothesis\|假设]]检验如何超越传统先验宏大思辨。

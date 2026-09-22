@@ -57,17 +57,17 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] [[Graduate Attributes|graduate skills]] Assessment（GSA）
+> [!instrument-profile] [[Graduate Attributes\|graduate skills]] Assessment（GSA）
 > - **工具类型** 国家级大学毕业生通用素养能力测验（National Generic Graduate Skills Assessment）。
-> - **开发者与年份** [[Australian Council for Educational Research|澳大利亚教育研究委员会]]（Australian Council for Educational Research, ACER, 2002）/ Sam Hambur et al.
-> - **测量目的** 评估澳大利亚高校本科毕业生在通识[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]与书面表达方面的通用可迁移技能，为大学增值与雇主选拔提供客观基准。
-> - **实施方式** 纸笔测试或计算机机考（[[Multiple-Choice Questions|多项选择题]] 2 小时 + 写作 1 小时）。
+> - **开发者与年份** [[Australian Council for Educational Research\|澳大利亚教育研究委员会]]（Australian Council for Educational Research, ACER, 2002）/ Sam Hambur et al.
+> - **测量目的** 评估澳大利亚高校本科毕业生在通识[[Critical Thinking\|批判性思维]]、[[Problem Solving\|问题解决]]与书面表达方面的通用可迁移技能，为大学增值与雇主选拔提供客观基准。
+> - **实施方式** 纸笔测试或计算机机考（[[Multiple-Choice Questions\|多项选择题]] 2 小时 + 写作 1 小时）。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]与通用毕业素养
+> [!construct-table] [[Critical Thinking\|批判性思维]]与通用毕业素养
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 / 任务 | 测量内容 | 计分方式 |

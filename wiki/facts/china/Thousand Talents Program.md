@@ -47,25 +47,25 @@ updated: '2026-05-18'
 ## 经过
 
 > [!note]-
-> - 该计划以"Brain Gain"模式运作，为中国海外专业人士提供巨大的财务和职业激励以返回中国([[Argument_Partaken_2022_Springer|Partaken, 2022, p.79]])
-> - FBI 截至 2019 年 7 月约有 1000 项对中国[[Economic and Industrial Espionage|知识产权盗窃]]的调查，其中包括对千人计划的调查（AFP, 2019; 引自 Partaken, 2022, p.79）
+> - 该计划以"Brain Gain"模式运作，为中国海外专业人士提供巨大的财务和职业激励以返回中国([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.79]])
+> - FBI 截至 2019 年 7 月约有 1000 项对中国[[Economic and Industrial Espionage\|知识产权盗窃]]的调查，其中包括对千人计划的调查（AFP, 2019; 引自 Partaken, 2022, p.79）
 > - 美国司法部（FBI）对 165 家公司的调查显示，50% 承认商业机密或知识产权被盗，95% 怀疑中国是幕后黑手
 
 ## 影响与后果
 
 > [!success]
-> - 在美国政府视角中，千人计划"可能只是又一台中国国家机器，将知识盗窃正式化和加剧化"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.79]])
+> - 在美国政府视角中，千人计划"可能只是又一台中国国家机器，将知识盗窃正式化和加剧化"([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.79]])
 > - 该计划成为中美技术紧张关系的焦点之一，FBI 局长 Christopher Wray 称中国为"最严重的反情报威胁"
 
 ## 争议与评论
 
 > [!warning]
-> - Partaken 主要引述美方立场（[[US-China Economic and Security Review Commission|USCC]]、FBI），对中方关于千人计划的官方表述（作为正常的国际人才流动机制）未给予对等呈现
-> - 该章将[[Knowledge Transfer|知识转移]]中的地缘政治冲突归因于三种不可互相化约的冲突源：权力（中共与国家科技领导小组）、资源（"Made in China 2025"战略）和意识形态（"中国梦"）([[Argument_Partaken_2022_Springer|Partaken, 2022, p.79]])
+> - Partaken 主要引述美方立场（[[US-China Economic and Security Review Commission\|USCC]]、FBI），对中方关于千人计划的官方表述（作为正常的国际人才流动机制）未给予对等呈现
+> - 该章将[[Knowledge Transfer\|知识转移]]中的地缘政治冲突归因于三种不可互相化约的冲突源：权力（中共与国家科技领导小组）、资源（"Made in China 2025"战略）和意识形态（"中国梦"）([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.79]])
 
 ## 相关概念／政策
 
 > [!example]
-> - [[Sino-American Trade War]] — 千人计划是中美[[Technology Transfer|技术转移]]争端的关键议题之一
-> - [[Economic and Industrial Espionage]] — 千人计划在 [[Geopolitics of Knowledge|GPK]] [[Analytic Framework|分析框架]]中被定位为跨越合法与非法边界的知识获取机制
+> - [[Sino-American Trade War]] — 千人计划是中美[[Technology Transfer\|技术转移]]争端的关键议题之一
+> - [[Economic and Industrial Espionage]] — 千人计划在 [[Geopolitics of Knowledge\|GPK]] [[Analytic Framework\|分析框架]]中被定位为跨越合法与非法边界的知识获取机制
 

@@ -44,7 +44,7 @@ updated: 2026-09-15
 ## 定义
 
 > [!info]
-> 负责任的研究行为（Responsible Conduct of Research, RCR）指研究者在研究的各个环节中应达到的质量标准和伦理义务，涵盖[[Research Ethics|研究伦理]]（包括人类和动物受试者保护及安全）、数据管理、实验设计和成果报告等内容([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.266]])。大学通常要求学生和教师完成 RCR 培训作为从事研究的条件。
+> 负责任的研究行为（Responsible Conduct of Research, RCR）指研究者在研究的各个环节中应达到的质量标准和伦理义务，涵盖[[Research Ethics\|研究伦理]]（包括人类和动物受试者保护及安全）、数据管理、实验设计和成果报告等内容([[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.266]])。大学通常要求学生和教师完成 RCR 培训作为从事研究的条件。
 
 > [!quote]
 > 研究不端行为包括抄袭（plagiarism）、伪造（fabrication）和篡改（falsification），由美国研究诚信办公室（Office of Research Integrity）和大学政策共同定义（p.265）。
@@ -54,7 +54,7 @@ updated: 2026-09-15
 ## 核心构成
 
 > [!abstract]
-> RCR 涵盖以下四个维度([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.265–266]])：
+> RCR 涵盖以下四个维度([[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, pp.265–266]])：
 
 1. **[[Research Ethics|研究伦理]]** 包括人类受试者保护（[[Institutional Review Board|IRB]] 审查与[[Informed Consent|知情同意]]）、动物受试者保护和研究场所安全
 2. **数据管理** 数据的收集、存储、安全保护和共享规范，确保数据的真实性、保密性和连续性
@@ -69,14 +69,14 @@ updated: 2026-09-15
 > **RCR vs 研究不端（Research Misconduct）** 研究不端特指抄袭、伪造和篡改三种严重违规行为，属于 RCR 的底线要求；RCR 的范围更广，涵盖研究全过程的质量标准，不仅限于避免违规，还包括积极履行研究者的专业责任（p.265）。
 
 > [!example]
-> **大学 vs 企业的质量控制差异** 大学的 RCR 实践在系统性上通常弱于企业的质量控制体系。大学文化重视[[Creativity|创造性]]独立性，但制度性控制和研究基础设施支持相对不足；此外，研究的实际执行者往往是经验有限的学生，这使得研究过程难以达到行业标准。因此，大学合同办公室通常非常谨慎，不愿在合作协议中"确保"或"担保"研究质量（p.266）。
+> **大学 vs 企业的质量控制差异** 大学的 RCR 实践在系统性上通常弱于企业的质量控制体系。大学文化重视[[Creativity\|创造性]]独立性，但制度性控制和研究基础设施支持相对不足；此外，研究的实际执行者往往是经验有限的学生，这使得研究过程难以达到行业标准。因此，大学合同办公室通常非常谨慎，不愿在合作协议中"确保"或"担保"研究质量（p.266）。
 
 ---
 
 ## 在产学合作中的角色
 
 > [!note]-
-> 在[[University-Industry Collaboration|产学合作]]中，RCR 的差异构成一个重要的文化和制度摩擦点。企业习惯于内部研发的标准化质量流程，而大学的研究过程以个体教师的[[Academic Freedom|学术自由]]和[[Creativity|创造性]]独立性为核心，不设统一的质量控制体系。这意味着合作协议需要在企业方的质量期望和大学方的学术文化之间寻找平衡，而 RCR 培训可以被视为大学方向企业展示其质量承诺的一种制度安排（pp.265–266）。
+> 在[[University-Industry Collaboration\|产学合作]]中，RCR 的差异构成一个重要的文化和制度摩擦点。企业习惯于内部研发的标准化质量流程，而大学的研究过程以个体教师的[[Academic Freedom\|学术自由]]和[[Creativity\|创造性]]独立性为核心，不设统一的质量控制体系。这意味着合作协议需要在企业方的质量期望和大学方的学术文化之间寻找平衡，而 RCR 培训可以被视为大学方向企业展示其质量承诺的一种制度安排（pp.265–266）。
 
 ---
 
@@ -98,13 +98,13 @@ updated: 2026-09-15
 ## 科学传播与科研诚信的制度融合
 
 > [!claim] 科学传播与科研诚信的合流
-> 负责任的研究行为（RCR）不仅适用于同行评议学术期刊中的成果报告，更应全面延伸至面向大众传媒与公众的科学传播环节。大众媒体报道中科学结论的夸大往往并非源于记者的曲解，而是直接始于大学新闻办公室新闻通稿（Press Releases）中的过度包装（Sumner et al., 2014）；科学界必须遏制过度营销（Overselling）学术影响力的竞争冲动，将对外新闻发布与媒体沟通正式纳入科研诚信与可重复性治理大框架。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 61–62)]]
+> 负责任的研究行为（RCR）不仅适用于同行评议学术期刊中的成果报告，更应全面延伸至面向大众传媒与公众的科学传播环节。大众媒体报道中科学结论的夸大往往并非源于记者的曲解，而是直接始于大学新闻办公室新闻通稿（Press Releases）中的过度包装（Sumner et al., 2014）；科学界必须遏制过度营销（Overselling）学术影响力的竞争冲动，将对外新闻发布与媒体沟通正式纳入科研诚信与可重复性治理大框架。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 61–62)]]
 
 > [!policy-design]- 科学传播守则（Code of Practice）的三大支柱
 > 英国皇家学会建言参照英国统计局《统计实践守则》（Code of Practice for Statistics），为科学家与机构新闻官制定科学传播行为规范，确立三大核心支柱：
-> - **[[Trustworthiness|可信赖性]]（Trustworthiness）** 确立科学传播的独立性与透明度，主动披露资金支持、商业利益冲突与潜在偏见，严禁为追求眼球效应而片面发布未定论成果。
-> - **质量（Quality）** 恪守实证严谨性，确保新闻稿与公共阐述忠实于原始论文的证据力度；明确界定相关关系与[[Causality|因果关系]]，如实向公众说明动物模型与人体临床的本质差异。
-> - **价值（VALUE）** 秉持服务公众理性决策的价值导向，坦诚沟通研究的局限性与[[Scientific Uncertainty|证据不确定性]]（Uncertainty）；以平实、平衡的语言促进理性审议，杜绝煽动性恐慌或虚妄承诺。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 61–64)]]
+> - **[[Trustworthiness\|可信赖性]]（Trustworthiness）** 确立科学传播的独立性与透明度，主动披露资金支持、商业利益冲突与潜在偏见，严禁为追求眼球效应而片面发布未定论成果。
+> - **质量（Quality）** 恪守实证严谨性，确保新闻稿与公共阐述忠实于原始论文的证据力度；明确界定相关关系与[[Causality\|因果关系]]，如实向公众说明动物模型与人体临床的本质差异。
+> - **价值（VALUE）** 秉持服务公众理性决策的价值导向，坦诚沟通研究的局限性与[[Scientific Uncertainty\|证据不确定性]]（Uncertainty）；以平实、平衡的语言促进理性审议，杜绝煽动性恐慌或虚妄承诺。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 61–64)]]
 
 ---
 

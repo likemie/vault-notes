@@ -71,7 +71,7 @@ updated: 2026-09-17
 ## 概述
 
 > [!info] 机构定位与运营概况
-> **健康[[Youth Development Blueprint|青年发展蓝图]]（Blueprints for Healthy Youth Development, Blueprints）** 是由科罗拉多大学博尔德分校行为科学研究所（IBS）于 1996 年发起设立的多领域非营利[[Educational Evidence Clearinghouses|证据清算中心]]，专注于促进青少年行为发展、身心健康、犯罪预防及学业成功([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
+> **健康[[Youth Development Blueprint\|青年发展蓝图]]（Blueprints for Healthy Youth Development, Blueprints）** 是由科罗拉多大学博尔德分校行为科学研究所（IBS）于 1996 年发起设立的多领域非营利[[Educational Evidence Clearinghouses\|证据清算中心]]，专注于促进青少年行为发展、身心健康、犯罪预防及学业成功([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
 > Blueprints 评估对象涵盖具名项目（Programs）与单项研究，在循证学界以极其严苛的证据准入门槛著称。当前处于**活跃运营（Active）**状态，官方平台为 [blueprintsprograms.org](https://www.blueprintsprograms.org)，持续获得联邦白宫国家毒品控制政策办公室（ONDCP）及各基金会资助。
 
@@ -80,9 +80,9 @@ updated: 2026-09-17
 ## 机构背景与资助体系
 
 > [!note]- 发展背景与资助演进
-> Blueprints 起源于 1990 年代美国针对青少年暴力与越轨行为的预防性[[Intervention Research|干预研究]]，旨在为政策制定者筛选真正具备因果实证的“示范项目（Model Programs）”。
+> Blueprints 起源于 1990 年代美国针对青少年暴力与越轨行为的预防性[[Intervention Research\|干预研究]]，旨在为政策制定者筛选真正具备因果实证的“示范项目（Model Programs）”。
 >
-> - **临床医学级审查传统** Blueprints 脱胎于犯罪学、流行病学与公共卫生传统，天然继承了[[Clinical Trial|临床试验]]对安慰剂对照、[[Iatrogenic Effects in Education|医源性伤害]]排除与长期随访的极高要求([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
+> - **临床医学级审查传统** Blueprints 脱胎于犯罪学、流行病学与公共卫生传统，天然继承了[[Clinical Trial\|临床试验]]对安慰剂对照、[[Iatrogenic Effects in Education\|医源性伤害]]排除与长期随访的极高要求([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 6–8]])。
 > - **非营利独立运作** 由大学学术机构独立运作，不受商业开发者利益牵连，形成了以专家顾问委员会（Advisory Board）为核心的同行评审机制。
 
 ---
@@ -90,19 +90,19 @@ updated: 2026-09-17
 ## 评级对象与项目纳入范围
 
 > [!feature] 评价范围与项目入库
-> - **样本贡献** 在 Wadhwa et al. 的 1,359 个去重教育项目池中，Blueprints 贡献了 **310 个项目**（其中 42 个为认证教育项目，268 个为聚焦教育但未获认证项目）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
-> - **教育与青年发展标签** 涵盖[[Academic Achievement|学业表现]]（Academic Achievement）、认知发展、辍学预防/高中毕业、青年就业、高等教育过渡、学前语言沟通、就学准备及课堂出勤等主题。
+> - **样本贡献** 在 Wadhwa et al. 的 1,359 个去重教育项目池中，Blueprints 贡献了 **310 个项目**（其中 42 个为认证教育项目，268 个为聚焦教育但未获认证项目）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
+> - **教育与青年发展标签** 涵盖[[Academic Achievement\|学业表现]]（Academic Achievement）、认知发展、辍学预防/高中毕业、青年就业、高等教育过渡、学前语言沟通、就学准备及课堂出勤等主题。
 
 ---
 
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> Blueprints 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Intelligent Tutoring Systems|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> Blueprints 因果设计描述程度[[Coding in Qualitative Research\|编码]]为 **[[Randomised Controlled Trials\|RCT]]=2, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
 >
-> 1. **单项[[Access and Acceptance in Research|研究准入]]认证** 实施严格的“Certified / Not Certified”初筛，仅有通过方法学质量审核的研究才能进入项目综合评级池([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 13]])。
-> 2. **强制[[Intent-to-Treat Analysis|意向治疗分析]]（[[Initial Teacher Training|ITT]]）** 强制要求采用 ITT 分析模型，避免因参与者依从性脱落（Compliance Bias）导致处理效应高估([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
-> 3. **[[Attrition|样本流失]]双重检验** 要求对实验组与对照组脱落者实施卡方与 t 检验，全面排除差异流失造成的基线失衡。
+> 1. **单项[[Access and Acceptance in Research\|研究准入]]认证** 实施严格的“Certified / Not Certified”初筛，仅有通过方法学质量审核的研究才能进入项目综合评级池([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 13]])。
+> 2. **强制[[Intent-to-Treat Analysis\|意向治疗分析]]（[[Initial Teacher Training\|ITT]]）** 强制要求采用 ITT 分析模型，避免因参与者依从性脱落（Compliance Bias）导致处理效应高估([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 9]])。
+> 3. **[[Attrition\|样本流失]]双重检验** 要求对实验组与对照组脱落者实施卡方与 t 检验，全面排除差异流失造成的基线失衡。
 
 ---
 
@@ -130,14 +130,14 @@ updated: 2026-09-17
 ## 生态定位与评级分歧案例
 
 > [!warning] 跨中心分歧与典型案例
-> - [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）— 经审查，CIS 因缺乏无经济利益关联的独立第三方复制研究，未能获得 Blueprints 的 Model Plus 顶级认证；同时因部分随访期效果衰退，与 [[National Dropout Prevention Center|NDPC]] 的最高推荐形成鲜明对比([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
-> - [[Success for All]]（SFA）— SFA 依靠全美范围内大量的独立学者复制研究与长期追踪数据，成功跨越了 Blueprints 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 的严苛门槛，成为极少数获得跨机构多重高度认可的典范项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 23]])。
+> - [[Communities in Schools]]（[[Community Innovation Survey\|CIS]]）— 经审查，CIS 因缺乏无经济利益关联的独立第三方复制研究，未能获得 Blueprints 的 Model Plus 顶级认证；同时因部分随访期效果衰退，与 [[National Dropout Prevention Center\|NDPC]] 的最高推荐形成鲜明对比([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
+> - [[Success for All]]（SFA）— SFA 依靠全美范围内大量的独立学者复制研究与长期追踪数据，成功跨越了 Blueprints 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] 的严苛门槛，成为极少数获得跨机构多重高度认可的典范项目([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 23]])。
 
 ---
 
 ## 相关概念／政策
 
 > [!example] 关联概念与制度脉络
-> - [[Educational Evidence Clearinghouses]] — Blueprints 在 12 个清算中心中代表了“严出导向（[[Selectivity]]）”与临床级最高标准模式([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。
-> - [[Internal Validity]] 与 [[Construct Validity]] — [[Evaluator Independence|独立评估者]]复制有效规避了[[Publication Bias|发表偏倚]]与利益冲突导致的[[Effect Size|效应量]]虚高。
-> - [[Intent-to-Treat Analysis]] — Blueprints 将 [[Initial Teacher Training|ITT]] 作为核心分析规范，防范依从性偏倚。
+> - [[Educational Evidence Clearinghouses]] — Blueprints 在 12 个清算中心中代表了“严出导向（[[Selectivity]]）”与临床级最高标准模式([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 14–15]])。
+> - [[Internal Validity]] 与 [[Construct Validity]] — [[Evaluator Independence\|独立评估者]]复制有效规避了[[Publication Bias\|发表偏倚]]与利益冲突导致的[[Effect Size\|效应量]]虚高。
+> - [[Intent-to-Treat Analysis]] — Blueprints 将 [[Initial Teacher Training\|ITT]] 作为核心分析规范，防范依从性偏倚。

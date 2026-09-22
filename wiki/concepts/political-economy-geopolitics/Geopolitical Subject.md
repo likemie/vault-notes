@@ -55,7 +55,7 @@ updated: 2026-05-20
 ## 定义
 
 > [!info] 定义
-> [[Sami Moisio]]（2022）提出地缘政治主体（geopolitical subject）概念，指被国家通过制度（尤其是高等教育）系统性形塑的一类理想化的人的类型——他们被装备上特定技能、行为取向和空间心态，能够在全球竞争中被调动起来服务于财富和竞争领土的生产([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]])。
+> [[Sami Moisio]]（2022）提出地缘政治主体（geopolitical subject）概念，指被国家通过制度（尤其是高等教育）系统性形塑的一类理想化的人的类型——他们被装备上特定技能、行为取向和空间心态，能够在全球竞争中被调动起来服务于财富和竞争领土的生产([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.29–30]])。
 >
 > > "The concept of the geopolitical subject therefore refers to an organized set of human figures, who are, from the perspective of political power, equipped with particular ideal skills, behaviors, orientations and 'spatial mindsets' which can be harnessed in the production of territories of wealth and competition at the age of global competition."
 >
@@ -79,7 +79,7 @@ Moisio 刻意使用 **human figures**（人形）而非 people（人）、indivi
 ## 核心要素：三个装备
 
 > [!abstract] 核心要素：三个装备
-> [[Argument_Moisio_2022_Springer|Moisio (2022, pp.29–30)]]识别了地缘政治主体被"装备"（equipped）的三个层面：
+> [[Argument_Moisio_2022_Springer\|Moisio (2022, pp.29–30)]]识别了地缘政治主体被"装备"（equipped）的三个层面：
 
 
 > [!abstract] 1. 技能装备（Skills）
@@ -87,9 +87,9 @@ Moisio 刻意使用 **human figures**（人形）而非 people（人）、indivi
 
 
 > [!abstract] 2. 行为与取向（Behaviors and Orientations）
-> 但仅技能不够。Moisio 援引 Hardt & Negri（2000, p.xiii）论证，知识密集型资本主义需要的不只是"具有某些技能的人"，还需要"交际性、合作性和情感性劳动"（communicative, cooperative, and affective labor）——即不仅知道*做什么*和*怎么做*，还要具备特定的情感和自我管理能力([[Argument_Moisio_2022_Springer|Moisio, 2022, p.29]])。
+> 但仅技能不够。Moisio 援引 Hardt & Negri（2000, p.xiii）论证，知识密集型资本主义需要的不只是"具有某些技能的人"，还需要"交际性、合作性和情感性劳动"（communicative, cooperative, and affective labor）——即不仅知道*做什么*和*怎么做*，还要具备特定的情感和自我管理能力([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.29]])。
 >
-> 具体而言，这意味着理想的[[Knowledge-Based Economy|知识经济]]主体需要：
+> 具体而言，这意味着理想的[[Knowledge-Based Economy\|知识经济]]主体需要：
 > - **交际能力** 在跨国、多文化团队中高效沟通
 > - **合作取向** 将自身视为网络中的节点，主动寻找"协同效应"
 > - **情感劳动** 管理自身情绪以服务客户和组织的需求——微笑、共情、"积极的能量"
@@ -98,15 +98,15 @@ Moisio 刻意使用 **human figures**（人形）而非 people（人）、indivi
 
 
 > [!abstract] 3. 空间心态（Spatial Mindsets）
-> 这是 Moisio 概念中最具原创性的维度。空间心态指主体被塑造成具有特定的空间性自我理解——能够（也愿意）在全球流动和领土固着之间运作([[Argument_Moisio_2022_Springer|Moisio, 2022, p.29]])。
+> 这是 Moisio 概念中最具原创性的维度。空间心态指主体被塑造成具有特定的空间性自我理解——能够（也愿意）在全球流动和领土固着之间运作([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.29]])。
 >
 > 具体来说，具有"正确"空间心态的地缘政治主体：
 > - 将**全球移动性**视为理所当然——"去硅谷工作两年"是职业规划中的正常选项，而非异常中断
 > - 对特定地方的**情感依附**被弱化——你的"家"是创业生态系统，而不是某个具体的城镇或社区
 > - 将**枢纽城市**（如伦敦、旧金山、上海、新加坡）想象为"属于你的"空间——你是全球枢纽的潜在居民，即使你从未在那里生活过
-> - 能够同时运作**两条空间逻辑** 在全球人才市场上自由流动（流动逻辑），同时在进入一个枢纽后积极贡献于该枢纽的"[[Innovation Ecosystem|创新生态系统]]"建设（固着逻辑）
+> - 能够同时运作**两条空间逻辑** 在全球人才市场上自由流动（流动逻辑），同时在进入一个枢纽后积极贡献于该枢纽的"[[Innovation Ecosystem\|创新生态系统]]"建设（固着逻辑）
 >
-> 这种空间心态不是天生的，而是被生产出来的——这正是高等教育介入的关键点。交换项目、海外实习、全球校友网络、英语授课的学位项目、"[[Global Citizenship|全球公民]]"的大学使命陈述——这些都不是中性的教育选择，而是塑造特定空间主体性的制度实践。
+> 这种空间心态不是天生的，而是被生产出来的——这正是高等教育介入的关键点。交换项目、海外实习、全球校友网络、英语授课的学位项目、"[[Global Citizenship\|全球公民]]"的大学使命陈述——这些都不是中性的教育选择，而是塑造特定空间主体性的制度实践。
 >
 
 ## 大学作为地缘政治主体的生产场所
@@ -129,11 +129,11 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs [[Human Capital Theory|人力资本]]（Human Capital）：这是最关键的区分。人力资本概念的核心逻辑是"投资-回报"——个体通过教育获取技能，技能在市场上兑现为更高的工资。人力资本将教育问题框定为*效率*问题（如何最大化教育投资的经济回报）。地缘政治主体概念将教育问题重新框定为*权力*问题：国家通过教育系统在做什么？不是在分配投资机会，而是在*制造适应其竞争需求的人口类型*。前者问"教育值不值得花钱"，后者问"教育在把学生变成什么样的人，这种转变服务于谁的议程"
+> - vs [[Human Capital Theory\|人力资本]]（Human Capital）：这是最关键的区分。人力资本概念的核心逻辑是"投资-回报"——个体通过教育获取技能，技能在市场上兑现为更高的工资。人力资本将教育问题框定为*效率*问题（如何最大化教育投资的经济回报）。地缘政治主体概念将教育问题重新框定为*权力*问题：国家通过教育系统在做什么？不是在分配投资机会，而是在*制造适应其竞争需求的人口类型*。前者问"教育值不值得花钱"，后者问"教育在把学生变成什么样的人，这种转变服务于谁的议程"
 >
-> - vs 创意阶层（Creative Class, Florida, 2002）：创意阶层是[[Knowledge-Based Economy|知识经济]]中的一种特定理想主体类型——强调[[Creativity|创造力]]、生活方式偏好和文化消费；地缘政治主体是更广义的分析范畴，涵盖国家通过教育和制度实践系统性地塑造的各类适应全球竞争的主体性形态。创意阶层可以是地缘政治主体的一种具体变体（参见下文关于"创意创业者"的讨论），但地缘政治主体不一定都是"创意阶层"——一个被训练为全球金融服务业员工的毕业生同样是地缘政治主体
+> - vs 创意阶层（Creative Class, Florida, 2002）：创意阶层是[[Knowledge-Based Economy\|知识经济]]中的一种特定理想主体类型——强调[[Creativity\|创造力]]、生活方式偏好和文化消费；地缘政治主体是更广义的分析范畴，涵盖国家通过教育和制度实践系统性地塑造的各类适应全球竞争的主体性形态。创意阶层可以是地缘政治主体的一种具体变体（参见下文关于"创意创业者"的讨论），但地缘政治主体不一定都是"创意阶层"——一个被训练为全球金融服务业员工的毕业生同样是地缘政治主体
 >
-> - vs [[Geopolitics of Knowledge]]：知识地缘政治是广义的[[Analytic Framework|分析框架]]，关涉政治想象、空间重构、治理技术和全球-地方张力等多个维度；地缘政治主体是该框架中"主体生产"维度的核心概念——它回答的是：在知识地缘政治的空间重构中，需要什么样的人来填充这些新的空间？
+> - vs [[Geopolitics of Knowledge]]：知识地缘政治是广义的[[Analytic Framework\|分析框架]]，关涉政治想象、空间重构、治理技术和全球-地方张力等多个维度；地缘政治主体是该框架中"主体生产"维度的核心概念——它回答的是：在知识地缘政治的空间重构中，需要什么样的人来填充这些新的空间？
 >
 
 ## 实证表现
@@ -150,16 +150,16 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Knowledge-Based Economization]] — 为地缘政治主体概念提供了总体[[Analytic Framework|分析框架]]：经济化过程不仅涉及市场逻辑的扩展，还涉及"将人们——包括经济和政治行动者——的行为带入某种将保持积累体制运转的配置"（Harvey, 1978, p.121, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.29]]）
+> - [[Knowledge-Based Economization]] — 为地缘政治主体概念提供了总体[[Analytic Framework\|分析框架]]：经济化过程不仅涉及市场逻辑的扩展，还涉及"将人们——包括经济和政治行动者——的行为带入某种将保持积累体制运转的配置"（Harvey, 1978, p.121, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, p.29]]）
 > - Hardt & Negri（2000）的 Empire 理论 — 提供对知识密集型资本主义所需劳动类型的分析（交际性、合作性、情感性劳动），解释了为什么地缘政治主体不能仅被还原为技能
-> - Foucault 的[[Governmentality|治理术]]（governmentality）传统 — 隐性地支撑了对主体如何在制度性实践中被形塑的分析；Moisio 的主体"装备"概念与 Foucault 的"主体化"（subjectivation）过程虽未直接引用但存在分析上的亲和性
+> - Foucault 的[[Governmentality\|治理术]]（governmentality）传统 — 隐性地支撑了对主体如何在制度性实践中被形塑的分析；Moisio 的主体"装备"概念与 Foucault 的"主体化"（subjectivation）过程虽未直接引用但存在分析上的亲和性
 >
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 该概念目前仅在 Moisio（2022）章节中提出，其经验适用性和[[Operationalization|操作化]]路径尚待后续研究验证
-> - 高等教育空间中对地缘政治主体的具体形塑过程究竟是*如何运作的*——"how this crafting of political subjectivity actually re-works the capacities and orientations of these new geopolitical subjects"——仍然是研究不足的领域([[Argument_Moisio_2022_Springer|Moisio, 2022, p.29]])
+> - 该概念目前仅在 Moisio（2022）章节中提出，其经验适用性和[[Operationalization\|操作化]]路径尚待后续研究验证
+> - 高等教育空间中对地缘政治主体的具体形塑过程究竟是*如何运作的*——"how this crafting of political subjectivity actually re-works the capacities and orientations of these new geopolitical subjects"——仍然是研究不足的领域([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.29]])
 > - 该概念的分析存在不对称性：国家如何"装备"主体被描述得很强，但主体是否以及如何*抵抗*这种装备、如何在被塑造的过程中发展出非预期的主体性，讨论尚不充分
 >
 

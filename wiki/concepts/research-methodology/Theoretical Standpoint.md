@@ -46,10 +46,10 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 理论立场（theoretical standpoint）是[[Qualitative Research|质性研究]]中运用理论的一种方式：研究者以某一[[Theoretical Perspective|理论视角]]作为整体导向透镜（orienting lens），围绕性别、阶级、种族或其他边缘群体议题来塑造研究。这一视角成为变革性视角（transformative perspective），旨在带来改变、提升未被充分代表群体的声音、揭示个体隐藏的[[Hypothesis|假设]]。它塑造所提出的问题，指导数据如何被收集和分析，并提供行动或变革的呼吁([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.65]])。
+> 理论立场（theoretical standpoint）是[[Qualitative Research\|质性研究]]中运用理论的一种方式：研究者以某一[[Theoretical Perspective\|理论视角]]作为整体导向透镜（orienting lens），围绕性别、阶级、种族或其他边缘群体议题来塑造研究。这一视角成为变革性视角（transformative perspective），旨在带来改变、提升未被充分代表群体的声音、揭示个体隐藏的[[Hypothesis\|假设]]。它塑造所提出的问题，指导数据如何被收集和分析，并提供行动或变革的呼吁([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.65]])。
 
 > [!quote]
-> "Researchers increasingly use a theoretical standpoint in qualitative research to provide an overall orienting lens for the study questions about gender, class, and race (or other issues of marginalized groups). This lens becomes a transformative perspective to bring about change, lift the voices of underrepresented groups, and uncover largely hidden assumptions of individuals."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.65]])
+> "Researchers increasingly use a theoretical standpoint in qualitative research to provide an overall orienting lens for the study questions about gender, class, and race (or other issues of marginalized groups). This lens becomes a transformative perspective to bring about change, lift the voices of underrepresented groups, and uncover largely hidden assumptions of individuals."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.65]])
 
 ## 概念演变
 
@@ -60,10 +60,10 @@ updated: 2026-05-31
 [[Qualitative Research|质性研究]]中可用的几种主要理论立场视角包括([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.65–66]])：
 
 > [!abstract]
-> - **女性主义视角（Feminist perspectives）** 视女性的压迫性处境及其制度框架为问题所在，[[Research Problem|研究议题]]包括改变政策以实现社会正义或消除女性的压迫性状况（Olesen, 2000）。
-> - **种族化话语（Racialized discourses）** 提出关于谁控制[[Knowledge Production|知识生产]]的重要问题，尤其关注有色人种群体和社区（Ladson-Billings, 2000）。
-> - **批判[[Theoretical Perspective|理论视角]]（[[Critical Theory]] perspectives）** 关注赋权人类超越种族、阶级和性别所施加的约束（Fay, 1987）。
-> - **[[Queer Theory|酷儿理论]]（Queer theory）** 聚焦女同性恋、男同性恋、双性恋、跨性别者等（LGBTQ2A+）的个体身份，反对将这些个体客体化，寻求改善其文化与政治处境，突出个体的声音和经验（Gamson, 2000）。
+> - **女性主义视角（Feminist perspectives）** 视女性的压迫性处境及其制度框架为问题所在，[[Research Problem\|研究议题]]包括改变政策以实现社会正义或消除女性的压迫性状况（Olesen, 2000）。
+> - **种族化话语（Racialized discourses）** 提出关于谁控制[[Knowledge Production\|知识生产]]的重要问题，尤其关注有色人种群体和社区（Ladson-Billings, 2000）。
+> - **批判[[Theoretical Perspective\|理论视角]]（[[Critical Theory]] perspectives）** 关注赋权人类超越种族、阶级和性别所施加的约束（Fay, 1987）。
+> - **[[Queer Theory\|酷儿理论]]（Queer theory）** 聚焦女同性恋、男同性恋、双性恋、跨性别者等（LGBTQ2A+）的个体身份，反对将这些个体客体化，寻求改善其文化与政治处境，突出个体的声音和经验（Gamson, 2000）。
 > - **残障探究（Disability inquiry）** 关注从社会文化视角理解残障人群，让他们掌控自己的生活，而非从生物学角度理解残障（Mertens, 2009）。
 
 ## 理论基础
@@ -74,10 +74,10 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **理论立场 vs [[Theoretical End Point|理论终点]]** 理论立场在研究开始时引入，作为观察和解释的框架；理论终点在研究结束时生成，是从数据中归纳产生的理论或概括。前者是"用理论来看"，后者是"从数据中生成理论"。
+> **理论立场 vs [[Theoretical End Point\|理论终点]]** 理论立场在研究开始时引入，作为观察和解释的框架；理论终点在研究结束时生成，是从数据中归纳产生的理论或概括。前者是"用理论来看"，后者是"从数据中生成理论"。
 
 > [!example]
-> **理论立场 vs 世界观的演绎使用**[[Quantitative Research|量化研究]]中的理论从研究开始就作为演绎框架（deductive framework）指导[[Hypothesis|假设]]和数据收集，而理论立场不仅是[[Analytic Framework|分析框架]]，还包含价值立场——研究者对特定群体和权力关系的明确承诺。
+> **理论立场 vs 世界观的演绎使用**[[Quantitative Research\|量化研究]]中的理论从研究开始就作为演绎框架（deductive framework）指导[[Hypothesis\|假设]]和数据收集，而理论立场不仅是[[Analytic Framework\|分析框架]]，还包含价值立场——研究者对特定群体和权力关系的明确承诺。
 
 ## 相关概念
 

@@ -67,7 +67,7 @@ citation_aliases: []
 
 ## 概念辨析
 
-> [!contrast-table] 语言经验法与[[Whole Language|全语言]]的对比
+> [!contrast-table] 语言经验法与[[Whole Language\|全语言]]的对比
 > | 对比维度 | 语言经验法 (LEA) | 全语言 (Whole Language) |
 > | :--- | :--- | :--- |
 > | **诞生时间** | 1960年代早期（以 1964 年 R. V. Allen 的著作为标志）(p.144)。 | 1970年代中后期（以 1976 年为正式运动起点）(p.145)。 |
@@ -79,16 +79,16 @@ citation_aliases: []
 
 ## 实证争议
 
-> [!critique-method] [[Meta-analysis|元分析]]中的分类错误与时代错误（Anachronism）
-> 语言经验法在后期实证研究汇总中，多次被错误等同于[[Whole Language|全语言]]，导致了证据库污染：
+> [!critique-method] [[Meta-analysis\|元分析]]中的分类错误与时代错误（Anachronism）
+> 语言经验法在后期实证研究汇总中，多次被错误等同于[[Whole Language\|全语言]]，导致了证据库污染：
 > 
-> - **[[Steven Stahl|斯塔尔]]与米勒的混淆 (Stahl & Miller, 1989)** 在其关于全语言的元分析中，他们承认两者存在“重要的差异”，但仍将它们强行合并为“全语言/语言经验法”进行[[Effect Size|效应量]]统计。这直接导致 1960 年代（全语言诞生前）的研究被算作全语言的证据 (p.144)。
-> - **Stahl et al. (1994) 的更正** 史蒂芬·斯塔尔（[[Steven Stahl]]）在 1994 年的后续元分析中明确承认，将两者等同是**时代错误的 (anachronistic)**，并在新研究中剔除了纯语言经验法的[[Document|文献]] (p.145)。然而，[[John Hattie|约翰·哈蒂]] (John Hattie) 在《[[Visible Learning|可见的学习]]》（Visible Learning，VL）中合成数据时，却依然在不加纠正的情况下全盘引入了 1989 年包含混淆数据的效应量 (p.145)。
+> - **[[Steven Stahl\|斯塔尔]]与米勒的混淆 (Stahl & Miller, 1989)** 在其关于全语言的元分析中，他们承认两者存在“重要的差异”，但仍将它们强行合并为“全语言/语言经验法”进行[[Effect Size\|效应量]]统计。这直接导致 1960 年代（全语言诞生前）的研究被算作全语言的证据 (p.144)。
+> - **Stahl et al. (1994) 的更正** 史蒂芬·斯塔尔（[[Steven Stahl]]）在 1994 年的后续元分析中明确承认，将两者等同是**时代错误的 (anachronistic)**，并在新研究中剔除了纯语言经验法的[[Document\|文献]] (p.145)。然而，[[John Hattie\|约翰·哈蒂]] (John Hattie) 在《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）中合成数据时，却依然在不加纠正的情况下全盘引入了 1989 年包含混淆数据的效应量 (p.145)。
 > - **麦基与洛马斯的批判 (McGee & Lomax, 1990)** 他们明确指出：“语言经验法是全语言的重要前身，但检验语言经验法的研究结果绝不能用于对全语言进行推断” (p.144)。
  
 > [!case] 证据污染案例：Brazziel & Terrell (1962) 行为主义研究
-> 该[[Experimental Research|实验研究]]仅涉及田纳西州 26 名低收入非裔一年级学童的“家长-教师合作”和阅读准备教材操练，是一项纯粹传统的行为主义技能准备计划 (p.144)。
-> 仅仅因为实验中让教师制作了反映儿童分享的“经验图表” (experience charts)，就被归为语言经验法，进而被 [[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller）算作“全语言”的效应量，最终混入哈蒂的《VL》中 (p.144)。帕特里克·奥康纳 (Patrick O'Connor, 2020) 尖锐指出，该研究与全语言的本质理念毫无关系 (p.144)。
+> 该[[Experimental Research\|实验研究]]仅涉及田纳西州 26 名低收入非裔一年级学童的“家长-教师合作”和阅读准备教材操练，是一项纯粹传统的行为主义技能准备计划 (p.144)。
+> 仅仅因为实验中让教师制作了反映儿童分享的“经验图表” (experience charts)，就被归为语言经验法，进而被 [[Steven Stahl\|斯塔尔]]与米勒（Stahl & Miller）算作“全语言”的效应量，最终混入哈蒂的《VL》中 (p.144)。帕特里克·奥康纳 (Patrick O'Connor, 2020) 尖锐指出，该研究与全语言的本质理念毫无关系 (p.144)。
 
 ---
 

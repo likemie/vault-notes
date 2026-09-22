@@ -38,12 +38,12 @@ updated: 2026-09-11
 ## 定义与目的
 
 > [!info]
-> 术语定义（Definition of Terms）是研究计划中对关键术语的精确界定。其目的是确保读者（尤其是领域外人士）能够准确理解研究者使用的概念，避免读者带着一套定义阅读，后来才发现作者使用的是另一套定义([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])。
+> 术语定义（Definition of Terms）是研究计划中对关键术语的精确界定。其目的是确保读者（尤其是领域外人士）能够准确理解研究者使用的概念，避免读者带着一套定义阅读，后来才发现作者使用的是另一套定义([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
 Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scientists have sharply defined terms with which to think clearly about their research and to communicate their findings and ideas accurately"（p.22）。Firestone (1987) 则从语言哲学的角度解释了为何需要定义：
 
 > [!quote]
-> "The words of an everyday language are rich in multiple meanings. Like other symbols, their power comes from the combination of meaning in a specific setting. . . . Scientific language ostensibly strips this [[Multiplicity]] of meaning from words in the interest of precision. This is the reason common terms are given 'technical meanings' for scientific purposes."（Firestone, 1987, p.17，引自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）
+> "The words of an everyday language are rich in multiple meanings. Like other symbols, their power comes from the combination of meaning in a specific setting. . . . Scientific language ostensibly strips this [[Multiplicity]] of meaning from words in the interest of precision. This is the reason common terms are given 'technical meanings' for scientific purposes."（Firestone, 1987, p.17，引自 [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）
 
 ---
 
@@ -74,7 +74,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 ## 三种研究路径中的术语策略
 
 > [!abstract] 策略差异
-> 术语定义的策略因研究路径而异，这与[[Literature Review|文献综述]]在三种路径中的不对称性是平行的([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])。
+> 术语定义的策略因研究路径而异，这与[[Literature Review\|文献综述]]在三种路径中的不对称性是平行的([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
 ### 量化研究
 
@@ -93,7 +93,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 ## 定义示例
 
 > [!example] VanHorn-Grassmeyer (1998) 的术语定义
-> 在一项关于高校学生事务新专业人员反思实践的[[Mixed Methods Research|混合方法研究]]中，VanHorn-Grassmeyer 在第一章的独立"Definition of Terms"节中详细定义了"Individual Reflection"和"Student Affairs Professional"两个关键术语。每个定义引用 Schon (1983)、Argyris & Schon (1978)、Baskett & Marsick (1992) 等[[Document|文献]]中的约定含义，展示了将术语定义建立在已有学术文献基础之上的做法（引自 Creswell & Creswell, 2022）。
+> 在一项关于高校学生事务新专业人员反思实践的[[Mixed Methods Research\|混合方法研究]]中，VanHorn-Grassmeyer 在第一章的独立"Definition of Terms"节中详细定义了"Individual Reflection"和"Student Affairs Professional"两个关键术语。每个定义引用 Schon (1983)、Argyris & Schon (1978)、Baskett & Marsick (1992) 等[[Document\|文献]]中的约定含义，展示了将术语定义建立在已有学术文献基础之上的做法（引自 Creswell & Creswell, 2022）。
 
 ---
 

@@ -61,15 +61,15 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 合作整合阅读与写作（Cooperative Integrated Reading and Composition, CIRC）是由 [[Robert Slavin]]、Robert Stevens 与 [[Nancy Madden]] 于 1987 年在约翰霍普金斯大学系统开发的一种针对中小学语言与读写教育的综合性[[Cooperative Learning|合作学习]]教学模式。该模式将教师主导的显性阅读理解策略精讲与[[Heterogeneity|异质性]]同伴协作深度融合，通过配对朗读、生字词汇协商、故事语法图解、同伴审阅修改及读写一体化迁移，构建语言输入与输出高频互动的教学流程。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, p. 3)]]; [[Argument_Slavin_2019_EP|(Slavin, 2019, p. 24)]]
+> 合作整合阅读与写作（Cooperative Integrated Reading and Composition, CIRC）是由 [[Robert Slavin]]、Robert Stevens 与 [[Nancy Madden]] 于 1987 年在约翰霍普金斯大学系统开发的一种针对中小学语言与读写教育的综合性[[Cooperative Learning\|合作学习]]教学模式。该模式将教师主导的显性阅读理解策略精讲与[[Heterogeneity\|异质性]]同伴协作深度融合，通过配对朗读、生字词汇协商、故事语法图解、同伴审阅修改及读写一体化迁移，构建语言输入与输出高频互动的教学流程。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 24)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 通过高度结构化的读写任务链，将个体的语言[[Decodification|解码]]、语义建构与书面表达嵌入[[Peer-Supported Learning|同伴互助]]与个体责任考核之中。
+> - **含义** 通过高度结构化的读写任务链，将个体的语言[[Decodification\|解码]]、语义建构与书面表达嵌入[[Peer-Supported Learning\|同伴互助]]与个体责任考核之中。
 > - **用途** 针对小学与初中阶段的阅读理解、词汇掌握、语法应用、批判性写作与故事创作提供标准化教学架构，并作为全校改革项目的核心读写课程。
 > - **边界** 专为语言与文学读写教学设计，依赖成套的阅读材料与结构化写作支架，不直接适用于非语言类符号学科。
 
 > [!citation-card] CIRC 的核心机制与读写一体化
-> 合作整合阅读与写作（CIRC）将教师直接指导阅读策略与学生团队内的异质结对操练紧密结合，通过故事结构分析、配对轮流朗读、词汇意义协商以及同伴编辑清单，使阅读理解与写作表达形成闭环。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, p. 3)]]
+> 合作整合阅读与写作（CIRC）将教师直接指导阅读策略与学生团队内的异质结对操练紧密结合，通过故事结构分析、配对轮流朗读、词汇意义协商以及同伴编辑清单，使阅读理解与写作表达形成闭环。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 >
 > *Cooperative Integrated Reading and Composition (CIRC) is a comprehensive program for teaching reading and writing in upper elementary grades, combining teacher instruction with peer-supported team activities.*
 
@@ -118,11 +118,11 @@ updated: 2026-09-17
 
 ### 命题一　CIRC 通过即时语言输出排练与同伴支架展现出极高的学业与读写赋能效应
 
-> [!concept-lens] 语言互动与[[Scaffolding|认知支架]]协同机制
+> [!concept-lens] 语言互动与[[Scaffolding\|认知支架]]协同机制
 > 结对朗读与同伴互评将学生的语言加工从被动接收转化为高频主动输出，为弱势阅读者提供了极高密度的低焦虑练习机会。
 
 > [!claim] Stevens & Slavin; Fuad et al.; Güngör et al.
-> **CIRC 在[[Cooperative Learning|合作学习]]技术中[[Effect Size|效应量]]居首** [[Meta-meta-analysis|二阶元分析]]表明，在所有合作学习具体技术模式中，CIRC 展现出最为强劲的综合干预成效（$ES = 2.04, 95\%\text{ CI} = [1.05, 3.03]$）；在一阶[[Meta-analysis|元分析]]中，Fuad et al. (2023) 针对语言阅读教学的准实验综合同样报告了 $ES = 2.04$ 的极大效应量，实证确立了读写一体化同伴教学对打破阅读障碍、大幅提升阅读理解与写作质量的决定性价值。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–9)]]
+> **CIRC 在[[Cooperative Learning\|合作学习]]技术中[[Effect Size\|效应量]]居首** [[Meta-meta-analysis\|二阶元分析]]表明，在所有合作学习具体技术模式中，CIRC 展现出最为强劲的综合干预成效（$ES = 2.04, 95\%\text{ CI} = [1.05, 3.03]$）；在一阶[[Meta-analysis\|元分析]]中，Fuad et al. (2023) 针对语言阅读教学的准实验综合同样报告了 $ES = 2.04$ 的极大效应量，实证确立了读写一体化同伴教学对打破阅读障碍、大幅提升阅读理解与写作质量的决定性价值。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–9)]]
 
 ---
 
@@ -131,8 +131,8 @@ updated: 2026-09-17
 > [!concept-lens] 循证课程规模化与全校改革架构
 > CIRC 不仅是单项课堂教学法，更作为全美标志性全校改革方案的核心读写引擎，经受住了长期大规模实验的严苛检验。
 
-> [!claim] [[Robert Slavin|Slavin, R.]] E.
-> **作为全校性改革项目的全班核心课程** 在全员成功（[[Success for All]], SFA）方案中，CIRC 被深度整合为小学中高年级（2–6 年级）的全班核心阅读与写作教学体系（TIER 1）。通过全校每天固定 90 分钟的结构化读写操练，配合 80% 教师匿名投票准入与全员专业发展培训，CIRC 支撑了 SFA 在全美 1,000 余所学校的规模化成功落地，并在联邦全面学校改革计划（Comprehensive School Reform, CSR）和《让每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中获得最高等级的强有力实证评价（Strong Evidence, $ES = +0.41$）。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 24–25, 27)]]
+> [!claim] [[Robert Slavin\|Slavin, R.]] E.
+> **作为全校性改革项目的全班核心课程** 在全员成功（[[Success for All]], SFA）方案中，CIRC 被深度整合为小学中高年级（2–6 年级）的全班核心阅读与写作教学体系（TIER 1）。通过全校每天固定 90 分钟的结构化读写操练，配合 80% 教师匿名投票准入与全员专业发展培训，CIRC 支撑了 SFA 在全美 1,000 余所学校的规模化成功落地，并在联邦全面学校改革计划（Comprehensive School Reform, CSR）和《让每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中获得最高等级的强有力实证评价（Strong Evidence, $ES = +0.41$）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25, 27)]]
 
 ---
 
@@ -151,8 +151,8 @@ updated: 2026-09-17
 > [!dev-timeline] 概念演变
 > - **1987 年 — 原型创立与实证验证** Robert Stevens、[[Robert Slavin]] 与 [[Nancy Madden]] 在约翰霍普金斯大学完成 CIRC 的原型开发与首批对照实验，发表里程碑研究。
 > - **1990 年代 — 全校性综合改革整合** CIRC 被深度整合进全员成功（[[Success for All]]，SFA）全校性教育改革项目中，成为全美数百所小学 2–6 年级阅读写作教学的标准化架构。
-> - **2000–2010 年代 — 联邦 CSR 计划与大规模 [[Randomised Controlled Trials|RCT]] 检验** 随着美国全面学校改革计划（CSR）的推行与 Borman et al. (2007) 等全国多学区整群随机对照试验的实施，CIRC 随 SFA 项目确立了在循证改革中的标杆地位。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 24)]]
-> - **2020 年代至今 — 全球跨语言推广与[[Meta-meta-analysis|二阶元分析]]确证** CIRC 进一步推广至印尼语、土耳其语等多语种教学；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 二阶[[Meta-analysis|元分析]]确证其干预效应在[[Cooperative Learning|合作学习]]技术中位居首位（$ES = 2.04$）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–5)]]
+> - **2000–2010 年代 — 联邦 CSR 计划与大规模 [[Randomised Controlled Trials\|RCT]] 检验** 随着美国全面学校改革计划（CSR）的推行与 Borman et al. (2007) 等全国多学区整群随机对照试验的实施，CIRC 随 SFA 项目确立了在循证改革中的标杆地位。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 24)]]
+> - **2020 年代至今 — 全球跨语言推广与[[Meta-meta-analysis\|二阶元分析]]确证** CIRC 进一步推广至印尼语、土耳其语等多语种教学；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 二阶[[Meta-analysis\|元分析]]确证其干预效应在[[Cooperative Learning\|合作学习]]技术中位居首位（$ES = 2.04$）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–5)]]
 
 ---
 
@@ -160,10 +160,10 @@ updated: 2026-09-17
 
 > [!debates] 学术争议
 >
-> > [!axis] 高结构化脚本规程 vs [[Teacher Professional Agency|教师专业自主权]]
+> > [!axis] 高结构化脚本规程 vs [[Teacher Professional Agency\|教师专业自主权]]
 > > 探讨高度标准化的教学步骤与清单是否会限制教师的个性化创造空间。
 > >
-> > - **标准化支持派（Slavin, Stevens）** 认为严格的规程是保障教学保真度（[[Implementation Fidelity|fidelity of implementation]]）与弱势学生托底的关键，确保每位学生都能获得高质量的读写支架。[[Argument_Slavin_2019_EP|(Slavin, 2019, p. 25)]]
+> > - **标准化支持派（Slavin, Stevens）** 认为严格的规程是保障教学保真度（[[Implementation Fidelity\|fidelity of implementation]]）与弱势学生托底的关键，确保每位学生都能获得高质量的读写支架。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 25)]]
 > > - **自主权批评派** 认为机械执行故事语法表格与打勾清单容易导致课堂形式主义，可能压制教师根据突发学情灵活调整的专业直觉。
 >
 > > [!axis] 读写一体化系统负担 vs 模块化分离教学
@@ -173,21 +173,21 @@ updated: 2026-09-17
 > > - **渐进模块取向** 认为对于薄弱学校教师，同时管理结对朗读、词汇协商与写作互评多套系统难度过大，主张先单项突破再综合整合。
 
 > [!warning] 适用局限
-> - **实施规程高度繁琐** 包含配对朗读、词汇造句、故事语法表、写作清单等诸多环节，对一线教师的[[Classroom Management|课堂管理]]与流程把控能力提出极高要求。
+> - **实施规程高度繁琐** 包含配对朗读、词汇造句、故事语法表、写作清单等诸多环节，对一线教师的[[Classroom Management\|课堂管理]]与流程把控能力提出极高要求。
 > - **配套材料依赖度高** 高度依赖针对特定文学读物开发的成套练习单与评估手册，若缺乏系统资源支持，教师自行备课成本极其高昂。
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Fuad et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：CIRC 整合读写对语言阅读理解成就的干预效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 2.04$ $[1.35, 2.74]$ | — | 印尼 K-12 阶段语言阅读准实验，[[Effect Size\|效应量]]极其突出显著 |
 
-> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
@@ -206,7 +206,7 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，将 CIRC 作为独立[[Cooperative Learning|合作学习]]技术亚组进行二阶综合，确认其总体[[Effect Size|效应量]]达到 $ES = 2.04$（显著高于[[Jigsaw|拼图法]] $0.72$ 与一般合作模式 $0.61$），确立了读写一体化同伴合作教学在教育干预中的标杆地位。
-> - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 梳理 CIRC 作为全员成功（[[Success for All|SFA]]）旗舰课程基座在全美全校改革与 [[Every Student Succeeds Act|ESSA]] 循证改革中的实证轨迹与规模化成效。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将 CIRC 作为独立[[Cooperative Learning\|合作学习]]技术亚组进行二阶综合，确认其总体[[Effect Size\|效应量]]达到 $ES = 2.04$（显著高于[[Jigsaw\|拼图法]] $0.72$ 与一般合作模式 $0.61$），确立了读写一体化同伴合作教学在教育干预中的标杆地位。
+> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 梳理 CIRC 作为全员成功（[[Success for All\|SFA]]）旗舰课程基座在全美全校改革与 [[Every Student Succeeds Act\|ESSA]] 循证改革中的实证轨迹与规模化成效。
 

@@ -69,62 +69,62 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 对 [[John Hattie]]《[[Visible Learning]]》(2008) 的方法论、论证和政策含义进行系统性批判审查。核心问题：VL 的综合方法是否可靠？其结论能否直接用于教育政策制定？
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的[[Problem Solving|问题解决]]提供[[Hypothesis|假设]](Dewey, quoted in Hattie, 2008, p.147)。
+> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的[[Pragmatic Paradigm\|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的[[Problem Solving\|问题解决]]提供[[Hypothesis\|假设]](Dewey, quoted in Hattie, 2008, p.147)。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：批判性评论（critical commentary），非实证研究
 > - 审查对象：Hattie (2008) 的方法论、论证逻辑和政策含义
-> - 分析维度：综合方法的质量控制、[[Effect Size|效应量]]解读、[[Variable|变量]]界定、政策外推
+> - 分析维度：综合方法的质量控制、[[Effect Size\|效应量]]解读、[[Variable\|变量]]界定、政策外推
 
 ## 核心论证
 
 > [!example] 核心论证
 > 1. **方法论缺陷** Hattie 的"综合"（synthesis）未评估纳入研究的质量，未排除低质量研究——"垃圾进垃圾出"（Eysenk）(p.94–96)
-> 2. **[[Effect Size|效应量]]任意性** 0.4 的截断值武断；小型效应量在高质量大规模研究中可具有重大意义(p.94, 99)
-> 3. **相关性≠[[Causality|因果性]]** Hattie 本人承认效应量"暗示因果性"但该主张常不可辩护(p.96)
-> 4. **平均化掩盖复杂性** 以[[Homework|家庭作业]]为例——总体 d=0.29，但小学 d=0.15、中学 d=0.64，数学和低能力学生更高(p.97)
-> 5. **社会背景被排除** Hattie 选择性地排除阶级、贫困、家庭资源等[[Variable|变量]]，但这些因素解释 70–80% 的校间差异(p.98–99)
-> 6. **政策误用风险**[[Class Size|班级规模]]（d=0.2 被解读为"无效果"）和[[Performance Pay|绩效工资]]（与 Hattie 强调的安全信任环境矛盾）是典型误用案例(p.100–103)
-> 7. **[[External Validity|可推广性]]有限** 大多数研究来自美国等英语发达国家，不可直接推广至非英语或发展中国家(p.97–98)
+> 2. **[[Effect Size\|效应量]]任意性** 0.4 的截断值武断；小型效应量在高质量大规模研究中可具有重大意义(p.94, 99)
+> 3. **相关性≠[[Causality\|因果性]]** Hattie 本人承认效应量"暗示因果性"但该主张常不可辩护(p.96)
+> 4. **平均化掩盖复杂性** 以[[Homework\|家庭作业]]为例——总体 d=0.29，但小学 d=0.15、中学 d=0.64，数学和低能力学生更高(p.97)
+> 5. **社会背景被排除** Hattie 选择性地排除阶级、贫困、家庭资源等[[Variable\|变量]]，但这些因素解释 70–80% 的校间差异(p.98–99)
+> 6. **政策误用风险**[[Class Size\|班级规模]]（d=0.2 被解读为"无效果"）和[[Performance Pay\|绩效工资]]（与 Hattie 强调的安全信任环境矛盾）是典型误用案例(p.100–103)
+> 7. **[[External Validity\|可推广性]]有限** 大多数研究来自美国等英语发达国家，不可直接推广至非英语或发展中国家(p.97–98)
 
 ## 主要发现（批判点）
 
 > [!success] 主要发现
 > - Hattie 承认但搁置社会背景效应，声称"不是不重要，只是不在研究轨道内"(p.94–95)；但 Gray, Jesson & Jones (1986) 发现英国 80% 校间差异由 intake 解释，Harker (1995) 发现新西兰 70–80% 由学生构成解释(p.98)
 > - 纳入研究的质量未被评估：Hattie 承认"不是一本关于研究批评的书"，但当涉及 charter schools 和 learning styles 时又选择性排除低质量研究，存在不一致(p.95)
-> - [[Meta-analysis|元分析]]中的偏差通常不受控制：设计不良研究的元分析必然导致不可靠结论(p.96–97)
-> - [[Publication Bias|发表偏差]]：支持有利结论的研究更可能被发表和纳入元分析(p.97)
-> - [[Variable|变量]]界定困难：如[[Whole Language|全语言]]教学的不同分类导致同一批研究的元分析结论矛盾
-> - [[Class Size|班级规模]]效应复杂：STAR 研究（随机实验）发现[[Effect Size|效应量]]达 0.62–0.66(p.100–101)；Blatchford (2003) 伦敦研究发现 Reception 年有明显效果，尤其对低能力儿童(p.101)；Murnane & Levy (1996) 证明仅减班不加教学变革无效果，但班级缩减与教学变革结合产生巨大效果(p.101–102)
-> - [[Performance Pay|绩效工资]]与 Hattie 自身的教师文化论述矛盾：Hattie 强调"关爱、支持的教师休息室、容忍错误、互信、共享热情"，绩效工资制度恰恰摧毁这种氛围(p.103)
+> - [[Meta-analysis\|元分析]]中的偏差通常不受控制：设计不良研究的元分析必然导致不可靠结论(p.96–97)
+> - [[Publication Bias\|发表偏差]]：支持有利结论的研究更可能被发表和纳入元分析(p.97)
+> - [[Variable\|变量]]界定困难：如[[Whole Language\|全语言]]教学的不同分类导致同一批研究的元分析结论矛盾
+> - [[Class Size\|班级规模]]效应复杂：STAR 研究（随机实验）发现[[Effect Size\|效应量]]达 0.62–0.66(p.100–101)；Blatchford (2003) 伦敦研究发现 Reception 年有明显效果，尤其对低能力儿童(p.101)；Murnane & Levy (1996) 证明仅减班不加教学变革无效果，但班级缩减与教学变革结合产生巨大效果(p.101–102)
+> - [[Performance Pay\|绩效工资]]与 Hattie 自身的教师文化论述矛盾：Hattie 强调"关爱、支持的教师休息室、容忍错误、互信、共享热情"，绩效工资制度恰恰摧毁这种氛围(p.103)
 
 ## 关键引用
 
 > [!quote] 关键引用
 > > “证据并不为我们提供行动规则，而仅仅为我们提供了用于智能解决问题的假设，以及用于质询我们教育目的的假设。”
-> ("Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.")(Dewey, quoted in Hattie, 2008, p.147)
+> ("Evidence does not supply us with rules for action but only with [[Hypothesis\|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.")(Dewey, quoted in Hattie, 2008, p.147)
 >
-> > “将[[Quantitative Research|量化研究]]用于宣传目的有着极大的危险性。”
+> > “将[[Quantitative Research\|量化研究]]用于宣传目的有着极大的危险性。”
 > ("There is something quite dangerous about the use of [[Quantitative Research]] for propaganda purposes.")(Nash, 2004, p.49, quoted p.104)
 >
-> > “[[School Leadership|学校领导]]和教师需要创造出在学校、教职员室和课堂中都将错误视为学习机会而受欢迎的环境。”
+> > “[[School Leadership\|学校领导]]和教师需要创造出在学校、教职员室和课堂中都将错误视为学习机会而受欢迎的环境。”
 > ("School leaders and teachers need to create school, staffroom, and classroom environments where error is welcome as a learning opportunity.")(Hattie, 2008, p.239, quoted p.103)
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文自身定位为评论而非[[Systematic Review|系统综述]]，未声称穷尽所有批判角度
+> - 论文自身定位为评论而非[[Systematic Review\|系统综述]]，未声称穷尽所有批判角度
 > - 未提出替代性方法论框架，侧重解构而非建构
-> - 发表于 Hattie 2008 著作出版后仅一年，属于最早一批学术批判，后续[[Document|文献]]（Terhart 2011, Bergeron 2017, Wrigley 2018, Wecker 2016 等）提供了更深入的方法论解构
-> - **[[Argument_Hattie_2010_NZJES|Hattie (2010)]] 的回应** Hattie 在同期 NZJES 发表"On Being a '[[Critic and Conscience of Society]]'"（详见 [[Argument_Hattie_2010_NZJES]]），从以下方面回应 Snook et al.：（1）研究质量——澄清"不是一本关于研究批评的书"被误读为"不关注研究质量"，指出凡已知研究质量有影响之处均已标注，且[[Meta-analysis|元分析]]方法本身即处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明偏差控制是元分析方法的核心关切，批评者未提及；（3）d=0.40 关节点——承认"或许武断但绝非任意"，基于 800+ 元分析经验平均值，用作叙事工具而非固定截断；（4）[[External Validity|可推广性]]——反问"如果没有足够新西兰研究来确定差异，翻译现有研究可能比根本不依赖任何研究更有价值"；（5）[[Class Size|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size|效应量]]的做法，指出既然平均 0.20 必然存在大负面效应才能达到均值([[Argument_Hattie_2010_NZJES|Hattie, 2010, pp.88–91]])。[[Argument_Snook_2010_NZJES|Snook et al. (2010)]] 随后在同刊发表再回应（详见 [[Argument_Snook_2010_NZJES]]）
+> - 发表于 Hattie 2008 著作出版后仅一年，属于最早一批学术批判，后续[[Document\|文献]]（Terhart 2011, Bergeron 2017, Wrigley 2018, Wecker 2016 等）提供了更深入的方法论解构
+> - **[[Argument_Hattie_2010_NZJES\|Hattie (2010)]] 的回应** Hattie 在同期 NZJES 发表"On Being a '[[Critic and Conscience of Society]]'"（详见 [[Argument_Hattie_2010_NZJES]]），从以下方面回应 Snook et al.：（1）研究质量——澄清"不是一本关于研究批评的书"被误读为"不关注研究质量"，指出凡已知研究质量有影响之处均已标注，且[[Meta-analysis\|元分析]]方法本身即处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明偏差控制是元分析方法的核心关切，批评者未提及；（3）d=0.40 关节点——承认"或许武断但绝非任意"，基于 800+ 元分析经验平均值，用作叙事工具而非固定截断；（4）[[External Validity\|可推广性]]——反问"如果没有足够新西兰研究来确定差异，翻译现有研究可能比根本不依赖任何研究更有价值"；（5）[[Class Size\|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size\|效应量]]的做法，指出既然平均 0.20 必然存在大负面效应才能达到均值([[Argument_Hattie_2010_NZJES\|Hattie, 2010, pp.88–91]])。[[Argument_Snook_2010_NZJES\|Snook et al. (2010)]] 随后在同刊发表再回应（详见 [[Argument_Snook_2010_NZJES]]）
 
 ## 来源
 

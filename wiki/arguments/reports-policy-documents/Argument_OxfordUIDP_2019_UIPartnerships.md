@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
   - "[[Dialogue in Education]]"
+  - "[[STEM Education]]"
   - "[[Servitisation of Manufacturing]]"
   - "[[Corporate R&D Labs]]"
   - "[[Blue Skies Research]]"
@@ -97,7 +98,7 @@ updated: 2026-09-16
 ## 研究问题
 
 > [!question]
-> 政府、大学和企业之间的合作关系正受到前所未有的关注。各国面临如何将大学产生的知识通过[[Technology Transfer|技术转移]]和产业合作转化为经济与社会价值的共同挑战。与此同时，全球、技术和社会经济格局的持续变化要求[[University-Industry Collaboration|产学合作]]社区不断理解最新趋势、新兴问题以及建立有效伙伴关系的经验。2019 年，牛津大学与大学-产业示范伙伴关系（University-Industry Demonstration Partnership，[[University Industry Demonstration Partnership|UIDP]]）联合举办了首届 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]]，汇集了来自英国、美国、欧洲及其他地区的 149 名大学、企业和政府高层，旨在识别新的、更好的合作方式并明确需要解决的关键议题。
+> 政府、大学和企业之间的合作关系正受到前所未有的关注。各国面临如何将大学产生的知识通过[[Technology Transfer\|技术转移]]和产业合作转化为经济与社会价值的共同挑战。与此同时，全球、技术和社会经济格局的持续变化要求[[University-Industry Collaboration\|产学合作]]社区不断理解最新趋势、新兴问题以及建立有效伙伴关系的经验。2019 年，牛津大学与大学-产业示范伙伴关系（University-Industry Demonstration Partnership，[[University Industry Demonstration Partnership\|UIDP]]）联合举办了首届 [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]]，汇集了来自英国、美国、欧洲及其他地区的 149 名大学、企业和政府高层，旨在识别新的、更好的合作方式并明确需要解决的关键议题。
 
 > [!feature]+ 一页读懂
 > - **对象** 149 名来自大学（76 人）、产业（41 人）、政府（16 人）和界面组织（16 人）的高层代表，英国 74 人、美国 45 人、欧洲其他 24 人、世界其他 6 人。
@@ -163,21 +164,21 @@ updated: 2026-09-16
 > 数字技术同时在两个层面重塑产学合作的基础：
 >
 > > [!col-l] 产业融合
-> > 数字、物理和生物世界之间的界限大幅缩小，科学、技术、工程和数学（Science, Technology, Engineering and Mathematics，STEM）与社会科学、艺术和人文学科的融合日益加深。大数据、人工智能和机器学习的兴起正在改变许多产业的可能性边界——这既创造了巨大的创新机遇，也对既有大型组织维持竞争地位构成挑战（pp.4–5）。
+> > 数字、物理和生物世界之间的界限大幅缩小，科学、技术、工程和数学（Science, Technology, Engineering and Mathematics，[[STEM Education\|STEM]]）与社会科学、艺术和人文学科的融合日益加深。大数据、人工智能和机器学习的兴起正在改变许多产业的可能性边界——这既创造了巨大的创新机遇，也对既有大型组织维持竞争地位构成挑战（pp.4–5）。
 >
 > > [!col-r] 研究变革
 > > 正如对产业创新的影响一样，数字技术的发展同样深刻改变了研究的进行方式（p.5）。
 > > 跨学科研究的重要性日益增长，不仅跨越不同 STEM 学科，还有效整合社会科学、艺术和人文学科。数字工具——人工智能和机器学习（AI/ML）、数据和视觉分析、机器人技术、区块链——强化科学研究，使得"失败"更容易、学习更快——通过快速执行数百万次迭代的能力。
 
-> [!info] 商业模式颠覆：[[Servitisation of Manufacturing|制造业服务化]]
-> 技术平台公司（如 Uber、Airbnb）通过控制生产者与消费者之间的界面，颠覆了传统产业的价值获取方式。制造业与服务业之间的界限模糊化——[[Servitisation of Manufacturing|制造业服务化]]成为显著趋势：
+> [!info] 商业模式颠覆：[[Servitisation of Manufacturing\|制造业服务化]]
+> 技术平台公司（如 Uber、Airbnb）通过控制生产者与消费者之间的界面，颠覆了传统产业的价值获取方式。制造业与服务业之间的界限模糊化——[[Servitisation of Manufacturing\|制造业服务化]]成为显著趋势：
 >
 > Rolls-Royce 从销售飞机发动机转向按小时出售动力的合同模式，所有支持（包括维护）都包含在合同中。这种转变正在重塑价值链上的价值分配方式（p.4）。
 
 > [!info] 创新组织方式演变
 > > [!timeline] 企业创新组织方式经历了三个阶段的根本转型，每一阶段都改变了企业如何获取和利用外部知识的方式：
 > > - **19 世纪** 个人发明家模式，创新由独立个体驱动。
-> > - **20 世纪中期** 大型[[Corporate R&D Labs|企业研发实验室]]兴起，创新集中于内部研发。
+> > - **20 世纪中期** 大型[[Corporate R&D Labs\|企业研发实验室]]兴起，创新集中于内部研发。
 > > - **21 世纪初** 更开放和分布式的创新模式，企业面临如何识别外部创新、获取和利用外部创新、筛选技术选项以及在分布式网络世界中获取价值的关键问题（p.4）。
 
 ---
@@ -185,15 +186,15 @@ updated: 2026-09-16
 ### 论证步骤二：政策环境正在转向"有影响的知识"
 
 > [!abstract] 政策重心转向"有影响的知识"
-> 美国、英国和欧盟的科学与创新政策已从 20 世纪中期对基础科学资助的核心关注，转向强调投资组合——涵盖[[Blue Skies Research|基础研究]]、应用与[[Translational Research|转化研究]]以及使命和挑战驱动的研究。政策越来越强调"有影响的知识"（knowledge with impact）以及培育从知识到[[Research Impact|社会经济影响]]的路径。
+> 美国、英国和欧盟的科学与创新政策已从 20 世纪中期对基础科学资助的核心关注，转向强调投资组合——涵盖[[Blue Skies Research\|基础研究]]、应用与[[Translational Research\|转化研究]]以及使命和挑战驱动的研究。政策越来越强调"有影响的知识"（knowledge with impact）以及培育从知识到[[Research Impact\|社会经济影响]]的路径。
 >
-> 在英国，[[Research Excellence Framework|研究卓越框架]]（[[Research Excellence Framework]], REF）现在同时评估学术产出的学术标准和研究组合的影响，学者在资助申请中被要求阐明影响路径。英国科学预算在 2021/22 前的四年期间追加 47 亿英镑，其中大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund|Industrial Strategy Challenge Fund]], ISCF）投入产业主导、产业参与的研究和创新优先领域。这些政策发展反映出资助者越来越认识到需要向纳税人证明：投资不仅产生了发现，而且正在转化为积极的社会成果（pp.5–6）。
+> 在英国，[[Research Excellence Framework\|研究卓越框架]]（[[Research Excellence Framework]], REF）现在同时评估学术产出的学术标准和研究组合的影响，学者在资助申请中被要求阐明影响路径。英国科学预算在 2021/22 前的四年期间追加 47 亿英镑，其中大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund\|Industrial Strategy Challenge Fund]], ISCF）投入产业主导、产业参与的研究和创新优先领域。这些政策发展反映出资助者越来越认识到需要向纳税人证明：投资不仅产生了发现，而且正在转化为积极的社会成果（pp.5–6）。
 
 > [!case] 英国：[[Strength in Places Fund]]
-> 2.35 亿英镑的 Strength in Places Fund 旨在解决英国各地区经济表现上的显著差距。该基金鼓励大学、企业、地方政府和其他机构组成的区域联盟申请资源进行本地研究和[[Investing in Innovation Program|创新投资]]——这标志着从传统的基于全国"卓越"标准分配研发资金，向考虑地域因素的重大转变。峰会强调长期战略规划对研发和[[Knowledge Exchange|知识交流]]的重要性——它们提供了识别实现特定长期目标所需的各种互补活动和投资的框架（pp.5–6）。
+> 2.35 亿英镑的 Strength in Places Fund 旨在解决英国各地区经济表现上的显著差距。该基金鼓励大学、企业、地方政府和其他机构组成的区域联盟申请资源进行本地研究和[[Investing in Innovation Program\|创新投资]]——这标志着从传统的基于全国"卓越"标准分配研发资金，向考虑地域因素的重大转变。峰会强调长期战略规划对研发和[[Knowledge Exchange\|知识交流]]的重要性——它们提供了识别实现特定长期目标所需的各种互补活动和投资的框架（pp.5–6）。
 
-> [!case] 美国：[[ROI Initiative for Unleashing American Innovation|ROI Initiative]] 与[[Technology Transfer|技术转移]]障碍
-> 联邦政府每年约 1,500 亿美元的研发投资需要更有效地转化和扩散。由商务部主导的 [[ROI Initiative for Unleashing American Innovation|ROI Initiative for Unleashing American Innovation]] 致力于最大化联邦科技投资的价值转化，其核心工作领域包括：
+> [!case] 美国：[[ROI Initiative for Unleashing American Innovation\|ROI Initiative]] 与[[Technology Transfer\|技术转移]]障碍
+> 联邦政府每年约 1,500 亿美元的研发投资需要更有效地转化和扩散。由商务部主导的 [[ROI Initiative for Unleashing American Innovation\|ROI Initiative for Unleashing American Innovation]] 致力于最大化联邦科技投资的价值转化，其核心工作领域包括：
 > - 识别监管障碍和行政改进
 > - 增加与私营部门专家的互动
 > - 建立更具创业精神的研发劳动力
@@ -206,8 +207,8 @@ updated: 2026-09-16
 
 峰会在强化合作模式方面突出了六项关键趋势，每一项都代表了促进产学合作的具体路径（pp.8–17）：
 
-> [!line-a] 趋势一：战略性地发展本地[[Innovation Ecosystem|创新生态系统]]
-> [[Innovation Ecosystem|创新生态系统]]可理解为相互依赖的行动者和过程，通过互动共同推动创新。加强大学周边的本地创新生态系统来增强吸引产业伙伴的价值主张。
+> [!line-a] 趋势一：战略性地发展本地[[Innovation Ecosystem\|创新生态系统]]
+> [[Innovation Ecosystem\|创新生态系统]]可理解为相互依赖的行动者和过程，通过互动共同推动创新。加强大学周边的本地创新生态系统来增强吸引产业伙伴的价值主张。
 > - **关键优势** 加强本地企业的创新能力以吸收大学知识、加速科学向应用的转化、发展专业设施、提升区域形象和创新文化、改善吸引人才的能力。
 > - **密度效应** 增加知识创造和创新组织的密度有助于增加互动频率、降低搜索成本、增加偶然发现和联系的机会、促进人员流动。
 > - **大学角色** 定向开发创新"区"以增加邻近性、主动吸引特定类型的企业和人才、促进企业与大学间的创新链接、发展绿色空间和文化吸引力、向地方政府通报关键基础设施约束并共同寻求解决方案。
@@ -218,18 +219,18 @@ updated: 2026-09-16
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig1_Lester_Typology.jpg)
 
 > [!line-a] 趋势二：发展新的组织载体
-> 大学、企业和政府机构正在实验新的组织"载体"来促进不同类型合作。这些结构帮助产学合作跨越[[Valley of Death|死亡之谷]]，加速实验室成果向应用的转化。
+> 大学、企业和政府机构正在实验新的组织"载体"来促进不同类型合作。这些结构帮助产学合作跨越[[Valley of Death\|死亡之谷]]，加速实验室成果向应用的转化。
 > - **新载体的能力** 转化性研发活动；灵活雇佣不同类型的科学家和工程师（各种合同和激励措施）；部署不同类型的设施、设备和数据安全措施；管理不同类型的知识产权。
 > - **覆盖范围** 不仅针对供应链顶端的大企业，也瞄准供应链内部企业的技术需求（pp.10–11）。
 
 > [!line-a] 趋势三：大学作为创新连接器
-> 大学在[[Systems of Innovation|创新系统]]中发挥重要的"公共空间"（public space）角色——作为通常稳定的、基本没有政治和产业议程的组织，大学可以充当中性空间，催化创新系统内的互动。
+> 大学在[[Systems of Innovation\|创新系统]]中发挥重要的"公共空间"（public space）角色——作为通常稳定的、基本没有政治和产业议程的组织，大学可以充当中性空间，催化创新系统内的互动。
 > - **实例** 一所大学创建新项目将本校初创企业与众多产业伙伴连接起来，解决新兴技术商业化中的"信息不对称"问题——技术发明者对其能力和潜力的了解远超潜在伙伴。大学同时了解初创企业的能力和产业伙伴的兴趣，充当中介促成连接。
 > - **系统功能** 桥接创新系统中原本断开或弱连接的参与者（p.11）。
 
 > [!line-a] 趋势四：建立更有效的产学联合体
 > 产学联合体在应对重大技术和社会经济挑战方面具有显著潜力，但现有模式需要改进。
-> - **愿景与认同** 需要共同愿景并获得各方认同；清晰阐明和理解伙伴的[[Return on Investment|投资回报]]并管理期望。
+> - **愿景与认同** 需要共同愿景并获得各方认同；清晰阐明和理解伙伴的[[Return on Investment\|投资回报]]并管理期望。
 > - **影响路径** 明确区分产出与创造和获取的价值；允许随着技术发展调整焦点和方向。
 > - **领导灵活性** 大学不必总是联合体的中心，政府应愿意资助产业主导的联合体。英国 Strength in Places Fund 允许地理邻近伙伴联盟出现但不规定大学必须牵头。
 > - **运营障碍** 展示大学承诺和改进尽职调查；将社会科学和人文学科纳入技术联合体；鼓励大学间合作而非竞争（在商业应用不清晰的前沿领域尤其重要）；在前端投入更多思考如何实施和运营；承认投资联合体周边基础设施的负担。
@@ -238,14 +239,14 @@ updated: 2026-09-16
 > [!line-a] 趋势五：企业开放资源以解锁研究价值
 > 企业正在思考除资金和技术需求外，还能为产学合作带来什么以增强价值主张。大型企业在许多领域拥有大量设施、数据和材料，开放这些资源可以解锁对产业和社会需求相关的新研究领域。
 > - **生物医学案例** 一家企业实验将其高通量筛选技术和化合物库开放给学术团体以加速药物靶点研究——数据和结果归学术方所有。企业希望通过在早期阶段建立生产性和基于信任的关系，促使学术界在商业化阶段回到该企业而非竞争对手（p.13）。
-> - **大数据共享的 [[King-Persily Model]]** 大量数据由私营企业持有、高度个人化或敏感、受法律保护以维护隐私。Gary King（哈佛大学）和 Nathaniel Persily（斯坦福大学）开发的 [[King-Persily Model]] 提供"互惠激励兼容"方案：企业与资深学者组成的独立委员会签署保密协议 → 委员会与企业共同商定[[Research Scope|研究范围]]并发布提案征集 → 学术委员会根据学术与社会价值遴选提案，排除违反隐私、法律义务、竞争劣势等提案 → 获选研究者在保护数据隐私条件下访问数据，无需企业预先批准即可发表研究成果（pp.13–14）。该模型正在 [[Social Science One]] 中实施，由哈佛大学量化社会科学研究所孵化。
+> - **大数据共享的 [[King-Persily Model]]** 大量数据由私营企业持有、高度个人化或敏感、受法律保护以维护隐私。Gary King（哈佛大学）和 Nathaniel Persily（斯坦福大学）开发的 [[King-Persily Model]] 提供"互惠激励兼容"方案：企业与资深学者组成的独立委员会签署保密协议 → 委员会与企业共同商定[[Research Scope\|研究范围]]并发布提案征集 → 学术委员会根据学术与社会价值遴选提案，排除违反隐私、法律义务、竞争劣势等提案 → 获选研究者在保护数据隐私条件下访问数据，无需企业预先批准即可发表研究成果（pp.13–14）。该模型正在 [[Social Science One]] 中实施，由哈佛大学量化社会科学研究所孵化。
 
 > [!example]- 图2：King-Persily 产学合作数据共享模型
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig2_King_Persily_Model.jpg)
 
 > [!line-a] 趋势六：将社会科学和人文学科整合进产学合作
-> 社会科学和人文学科（Social Sciences and Humanities，SSH）研究被视为未被充分利用和经常未被开发的资源。[[National Science Foundation|美国国家科学基金会]]（National Science Foundation，NSF）的 Future of Work at the Human Technology Frontier 项目是 STEM and SSH 学科[[Convergence Research|融合研究]]的典型案例。
-> - **双向价值** SSH 研究者获取企业数据集、更大产业研发资金池、学生实习机会和教育项目合作；企业获得对[[Fourth Industrial Revolution|第四次工业革命]]机遇的更好理解、新商业模式的开发、商业实践的深入洞察（pp.14–15）。
+> 社会科学和人文学科（Social Sciences and Humanities，SSH）研究被视为未被充分利用和经常未被开发的资源。[[National Science Foundation\|美国国家科学基金会]]（National Science Foundation，NSF）的 Future of Work at the Human Technology Frontier 项目是 STEM and SSH 学科[[Convergence Research\|融合研究]]的典型案例。
+> - **双向价值** SSH 研究者获取企业数据集、更大产业研发资金池、学生实习机会和教育项目合作；企业获得对[[Fourth Industrial Revolution\|第四次工业革命]]机遇的更好理解、新商业模式的开发、商业实践的深入洞察（pp.14–15）。
 > - **加速整合的行动** 大学推动终身教职和晋升中的文化变革、投资安全数据设施；企业增强对 SSH 研究潜在价值的理解、适应新兴社会经济和技术创新挑战；政府更多推动融合研究；专业组织开发和分享 SSH 研究对产业伙伴的价值洞见和有效实践（pp.15–16）。
 > - **权力差异** 必须认识到物理科学和社会科学之间的权力差异——物理科学在学术界和资助者中影响力更大。不应走向"后学科"，而应更好地理解和认识不同学科各自能带来的价值，同时在必要时融合思想和知识。
 
@@ -321,8 +322,8 @@ updated: 2026-09-16
 > [!example]- 图3：影响企业选择大学作为战略伙伴的因素
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig3_Partner_Choice_Factors.jpg)
 
-> [!success] 绩效评估框架：[[Logic Model|逻辑模型]]与 [[University Industry Demonstration Partnership|UIDP]] 指标指南
-> [[Logic Model|逻辑模型]]（Kellogg 基金会）提供了有用的结构来指导数据收集：将投资理由、目标与投入资源、活动、产出、中间结果和最终影响区分开来。评估还必须考虑"[[Counterfactual|反事实]]"——在没有这些投资的情况下会实现什么结果和影响（即影响的"额外性"）（p.23）。
+> [!success] 绩效评估框架：[[Logic Model\|逻辑模型]]与 [[University Industry Demonstration Partnership\|UIDP]] 指标指南
+> [[Logic Model\|逻辑模型]]（Kellogg 基金会）提供了有用的结构来指导数据收集：将投资理由、目标与投入资源、活动、产出、中间结果和最终影响区分开来。评估还必须考虑"[[Counterfactual\|反事实]]"——在没有这些投资的情况下会实现什么结果和影响（即影响的"额外性"）（p.23）。
 >
 > UIDP 于 2017 年发布的 Collaboration Metrics Guide 提供了可供选择的指标菜单，其核心原则：
 > - 指标需要根据利益相关者定制并成为叙事的一部分
@@ -331,7 +332,7 @@ updated: 2026-09-16
 > - 指标需要关注评估结果和影响，而非仅关注投入——过多的会议、报告、专利可能并未为伙伴组织创造实际价值
 > - 指标应被纳入整体叙事中，使伙伴关系"活起来"（pp.23–24）
 
-> [!example]- 图5：UIDP 产学[[Partnership Continuum|合作连续体]]——多面伙伴关系的特征
+> [!example]- 图5：UIDP 产学[[Partnership Continuum\|合作连续体]]——多面伙伴关系的特征
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig5_Partnership_Continuum.jpg)
 
 ---
@@ -342,7 +343,7 @@ updated: 2026-09-16
 > 多个国家正在加强大学-产业互动的系统层面数据：
 > - **英国** 高等教育商业与社区互动调查（Higher Education Business and Community Interaction，HEBCI）
 > - **美国** 大学技术管理者协会 STATT 数据库
-> - **爱尔兰**[[Knowledge Transfer|知识转移]]调查（KTI AKTS）
+> - **爱尔兰**[[Knowledge Transfer\|知识转移]]调查（KTI AKTS）
 > - **欧洲** ASTP 知识转移活动调查
 > - **澳大利亚** 国家研究商业化调查
 
@@ -367,7 +368,7 @@ updated: 2026-09-16
 > 大数据和数据科学工具可以通过以下方式为产学合作做出贡献：
 > - 识别伙伴和指导决策
 > - 改善伙伴关系活动的监测和评估
-> - 提出针对新型创新挑战的[[Research Question|研究问题]]
+> - 提出针对新型创新挑战的[[Research Question\|研究问题]]
 > - 解锁新的工作和学习方式
 
 然而，大学作为通常庞大且复杂的组织，可能对尝试新方式持风险规避态度——往往缺乏充分理解这些工具可能带来的多样性收益和风险的领导层人员。任何系统性变革都可能缓慢而繁琐（p.28）。
@@ -381,7 +382,7 @@ updated: 2026-09-16
 > [!warning] AI 伦理挑战：信任是部署的前提
 > 峰会强调的关键伦理问题包括：隐私、算法问责制、决策的透明度和可解释性、质疑决策的能力，以及强化社会偏见的潜力。解决这些伦理影响至关重要——AI 工具的有效部署不仅取决于其准确性，还取决于受影响利益相关者群体是否信任和接受其为合法。
 >
-> 一个根本性问题是：我们想要让 AI 驱动算法成为领域专家并有效替代人类决策，还是发展 AI 来增强人类做出更有效决策的能力？峰会呼吁将伦理问题置于技术开发的核心而非事后思考，这引出了更广泛的 [[Responsible Innovation|负责任创新]]（responsible innovation）问题——一种集体的、参与性的、包容受影响不同利益相关者的创新方式。
+> 一个根本性问题是：我们想要让 AI 驱动算法成为领域专家并有效替代人类决策，还是发展 AI 来增强人类做出更有效决策的能力？峰会呼吁将伦理问题置于技术开发的核心而非事后思考，这引出了更广泛的 [[Responsible Innovation\|负责任创新]]（responsible innovation）问题——一种集体的、参与性的、包容受影响不同利益相关者的创新方式。
 >
 > 对于是否监管以及何时监管新兴技术，峰会呈现了两面立场：有人认为监管会扼杀创新，有人则认为监管将改善实践、创造公平竞争环境、帮助建立公众信任。关键原则是：监管应有效而非繁重，应允许不同行业和应用情境采用不同实践方式，必须允许实验。同时，监管应强调从失败和错误中学习和改进的过程，而非仅仅采取惩罚措施。需要仔细和谨慎地从早期采用者（如医疗保健和保险行业）那里学习（pp.28–30）。
 
@@ -390,12 +391,12 @@ updated: 2026-09-16
 ### 论证步骤八：国家研发目标不能替代全面的创新框架
 
 > [!warning] 研发强度指标的局限性
-> 研发强度（R&D intensity）——以国家层面研发支出占 GDP 的比例衡量——是科学、技术和创新政策中常用的指标。英国 2017 年研发强度仅为 1.7%，低于欧盟平均 2%、[[OECD|经合组织]]（Organisation for Economic Co-operation and Development，OECD）平均 2.4%、美国 2.8%、德国 3% 和韩国 4.6%。英国设定了到 2027 年达到 2.4% 的目标，欧盟设定了 3% 的目标（p.31）。
+> 研发强度（R&D intensity）——以国家层面研发支出占 GDP 的比例衡量——是科学、技术和创新政策中常用的指标。英国 2017 年研发强度仅为 1.7%，低于欧盟平均 2%、[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）平均 2.4%、美国 2.8%、德国 3% 和韩国 4.6%。英国设定了到 2027 年达到 2.4% 的目标，欧盟设定了 3% 的目标（p.31）。
 >
 > 但峰会的关键信息是：这类目标关注的是研发是关键投入的特定类型创新。大量有价值的创新活动——特别是传统制造产品部门之外的创新——并非基于研发（按通常定义），而是基于其他类型的知识活动和投入。增量创新可以为公司带来显著价值，且通常研发密集度低得多。离开全面的创新框架，仅依赖研发目标可能导致将政府投资转向高研发密集度领域，却未必是产生广泛经济繁荣改善的最有效方向。
 
 > [!case] 荷兰案例：研发强度停滞但竞争力跃升
-> 荷兰试图实现 2011 年设定的 2.5% 研发强度目标，其产业政策经历了长达七十年的演变，最终选择了顶级行业和使命驱动路径——选择九个基于高生产力、高知识强度、出口导向和解决社会挑战能力的顶级行业，旨在让[[Triple Helix|三重螺旋]]运转起来。
+> 荷兰试图实现 2011 年设定的 2.5% 研发强度目标，其产业政策经历了长达七十年的演变，最终选择了顶级行业和使命驱动路径——选择九个基于高生产力、高知识强度、出口导向和解决社会挑战能力的顶级行业，旨在让[[Triple Helix\|三重螺旋]]运转起来。
 >
 > > [!timeline] 荷兰产业政策演变
 > > - **1945–1970** 积极产业政策（active industrial policy）
@@ -416,13 +417,13 @@ updated: 2026-09-16
 
 ### 论证步骤九：研究与技术中介组织发挥多重功能
 
-> [!info] [[Research and Technology Organisation|RTO]] 的定位与典型案例
+> [!info] [[Research and Technology Organisation\|RTO]] 的定位与典型案例
 > 世界各国政府在过去几十年中投资建立研究与技术组织（[[Research and Technology Organisation]], RTOs）作为"中介"——桥接大学与私营创新组织之间的组织和能力差距。典型案例包括英国的 Catapult 中心、德国的 Fraunhofer 研究所和美国的 [[Manufacturing USA]] 研究所。这些 RTO 的一个关键成功因素是能够与企业和大学同时建立有效联系（p.33）。
 
 > [!abstract] 创新挑战不止于技术——RTO 的多重功能
 > 应对产业和社会创新挑战往往不仅涉及解决技术难题和推动技术向实际应用发展，还需要解决一系列其他瓶颈：
-> - 开展必要的[[Evaluation Research|应用研究]]以桥接学术研究与产业应用
-> - 为企业提供技术[[Problem Solving|问题解决]]服务
+> - 开展必要的[[Evaluation Research\|应用研究]]以桥接学术研究与产业应用
+> - 为企业提供技术[[Problem Solving\|问题解决]]服务
 > - 发展企业和供应链的劳动力以吸收和部署新兴技术
 > - 开发新的生产工具和技术
 > - 发展新的示范和测试设施
@@ -450,14 +451,14 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 > 当需求远超供给时，不在 AI/数据科学技术前沿的组织（即"科技巨头"之外的大多数企业）面临获取这些技能的重大障碍——这限制了他们从技术进步中受益的能力，阻碍了关键使能技术在整个经济中的扩散。大学在多数国家是向劳动力市场输送高技能劳动力的关键机构，峰会呼吁本科课程应更加灵活、更能响应经济和社会的长期技能需求（p.37）。
 
 > [!info] 产学合作中被忽视的人才管道：博士与博士后
-> [[League of European Research Universities|欧洲研究型大学联盟]]（League of European Research Universities，LERU）关于博士和博士后研究人员职业发展的研究揭示了产学合作中的一个核心矛盾：随着博士生数量增加、博士后数量远超学术界可用教职，大多数博士最终不会在学术界工作。然而在职训练仍然围绕着学术职业路径，导师和主要研究者提供的职业支持主要集中在学术界内部。
+> [[League of European Research Universities\|欧洲研究型大学联盟]]（League of European Research Universities，LERU）关于博士和博士后研究人员职业发展的研究揭示了产学合作中的一个核心矛盾：随着博士生数量增加、博士后数量远超学术界可用教职，大多数博士最终不会在学术界工作。然而在职训练仍然围绕着学术职业路径，导师和主要研究者提供的职业支持主要集中在学术界内部。
 >
 > LERU 研究识别了推动非学术职业路径增长的关键经济变化：
 > - 许多行业越来越由知识资产和创新驱动，创新对企业生存至关重要
 > - 企业越来越多地参与协作研究和创新，向"开放科学"的趋势发展
-> - 新的知识和[[Technology Transfer|技术转移]]扩散方式正在开发中
+> - 新的知识和[[Technology Transfer\|技术转移]]扩散方式正在开发中
 > - 企业越来越需要通过博士过程和博士后研究经验所培养的研究和分析技能
-> - 博士后是产学合作研究活动的核心资源，他们正在获得跨组织边界合作的经验——这是开放创新世界中的[[21st Century Skills and Competencies Discourse|关键能力]]（pp.37–38）
+> - 博士后是产学合作研究活动的核心资源，他们正在获得跨组织边界合作的经验——这是开放创新世界中的[[21st Century Skills and Competencies Discourse\|关键能力]]（pp.37–38）
 >
 > 然而研究发现早期职业研究者对转向私营或公共部门工作存在抵触，且典型的在职训练已不再足够。LERU 提出了六项变革愿景：大学和研究机构最高层承诺改善研究者职业吸引力；确保追求多样性深植于招聘、晋升和职业发展程序；外部雇主参与技能培训项目开发并讨论消除流动障碍；导师和主要研究者采用更广泛的职业路径视角；博士和博士后主动利用专业发展机会获取可迁移技能、专业技能和软技能；利益相关者共同消除对"离开实验室"参加培训的文化矛盾心理——大学和研究机构承诺每年提供合理时间（如十天）用于个人和职业发展活动（pp.37–39）。
 
@@ -470,22 +471,22 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 > - 帮助其他企业和创新组织更好地理解大学研究的潜在价值
 > - 为大学和企业之间的知识交流与扩散提供重要管道
 >
-> 联合任命和[[Professors of Practice|产业教授]]（如实践教授）在医学、工程、法律和建筑等学科已较常见，但在其他学科仍少见。Princeton and Google 联合推出的 AI 实验室是一个新近案例——两位教授将其时间分配在大学和 Google 之间，以"加深对机器学习的理解并产生令人兴奋的创新"（p.39）。
+> 联合任命和[[Professors of Practice\|产业教授]]（如实践教授）在医学、工程、法律和建筑等学科已较常见，但在其他学科仍少见。Princeton and Google 联合推出的 AI 实验室是一个新近案例——两位教授将其时间分配在大学和 Google 之间，以"加深对机器学习的理解并产生令人兴奋的创新"（p.39）。
 
 > [!abstract] 公共沟通：重建大学研究的公众价值认知
 > 峰会上表达了担忧——作为社区，没有做出足够努力来展示大学及其与产业建立的伙伴关系如何帮助改善人类条件并贡献于社会福祉。一个显著挑战是研究的影响——特别是更基础性研究的影响——可能需要多年甚至数十年才能实现。在此漫长时期内，积累的知识可能一直留在学术界内部，之后才进入更广泛的经济和社会。
 >
-> 在美国，公立与赠地大学协会（Association of Public and Land-grant Universities，APLU）创建了[[Public Impact-Focused Research|公共影响导向研究]]（Public Impact-Focused Research，PIR）倡议，旨在为各种社会响应型研究倡议创建统一的概念框架。PIR 认识到"基础"和"应用"研究的区分已经过时——问题常常不是研究是否会产生影响，而是何时产生影响。其核心目标包括：发展共同术语和框架来描述和展示关键倡议及其社会影响；鼓励大学扩展公共影响研究组合；识别和传播最佳实践；识别和缓解此类活动的障碍。这些目标需要在加强和整合基础研究支持的背景下实现（pp.40–41）。
+> 在美国，公立与赠地大学协会（Association of Public and Land-grant Universities，APLU）创建了[[Public Impact-Focused Research\|公共影响导向研究]]（Public Impact-Focused Research，PIR）倡议，旨在为各种社会响应型研究倡议创建统一的概念框架。PIR 认识到"基础"和"应用"研究的区分已经过时——问题常常不是研究是否会产生影响，而是何时产生影响。其核心目标包括：发展共同术语和框架来描述和展示关键倡议及其社会影响；鼓励大学扩展公共影响研究组合；识别和传播最佳实践；识别和缓解此类活动的障碍。这些目标需要在加强和整合基础研究支持的背景下实现（pp.40–41）。
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[University-Industry Collaboration|产学合作]]格局正经历根本性转型** 全球社会挑战、技术融合（STEM and SSH）、商业模式颠覆（如[[Servitisation of Manufacturing|制造业服务化]]）和创新组织方式向开放分布式模式的转变，共同重塑了产学合作的环境（pp.4–5）。
+> 1. **[[University-Industry Collaboration\|产学合作]]格局正经历根本性转型** 全球社会挑战、技术融合（[[STEM Education\|STEM]] and SSH）、商业模式颠覆（如[[Servitisation of Manufacturing\|制造业服务化]]）和创新组织方式向开放分布式模式的转变，共同重塑了产学合作的环境（pp.4–5）。
 > 2. **政策重心从"资助科学"转向"催化影响"** 美英和欧盟的科学政策日益强调"有影响的知识"和知识转化的路径，基于地点的资助（如英国 [[Strength in Places Fund]]）和长期战略规划正在兴起（pp.5–7）。
-> 3. **合作模式需要创新，但面临系统性实施障碍** 六项关键趋势包括战略性发展本地[[Innovation Ecosystem|创新生态系统]]、新组织载体、大学作为创新连接器、更有效的联合体、企业开放资源和 SSH 整合。实验新模式需要克服既有利益相关者阻力、伙伴匹配困难和风险规避文化（pp.8–17）。
-> 4. **度量指标需要指标体系而非单一指标、关注结果而非投入、结合定量与定性** 缺乏"万能钥匙"指标；[[University Industry Demonstration Partnership|UIDP]] Collaboration Metrics and Kellogg [[Logic Model]] 提供实用框架；国家层面系统数据虽有价值但缺乏对特定伙伴关系绩效的洞察（pp.20–27）。
+> 3. **合作模式需要创新，但面临系统性实施障碍** 六项关键趋势包括战略性发展本地[[Innovation Ecosystem\|创新生态系统]]、新组织载体、大学作为创新连接器、更有效的联合体、企业开放资源和 SSH 整合。实验新模式需要克服既有利益相关者阻力、伙伴匹配困难和风险规避文化（pp.8–17）。
+> 4. **度量指标需要指标体系而非单一指标、关注结果而非投入、结合定量与定性** 缺乏"万能钥匙"指标；[[University Industry Demonstration Partnership\|UIDP]] Collaboration Metrics and Kellogg [[Logic Model]] 提供实用框架；国家层面系统数据虽有价值但缺乏对特定伙伴关系绩效的洞察（pp.20–27）。
 
 ---
 
@@ -494,10 +495,10 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 > [!citation-card]- 峰会核心目标
 > 峰会汇集了来自领先大学、企业和政府的 149 名高层领导和管理者，来自英国、美国、欧洲及更远地区，以识别新的、更好的合作方式以推进人类福祉，以及需要解决的关键问题。（pp.2）
 >
-> Original: The University of Oxford in the UK, and the University-Industry Demonstration Partnership ([[University Industry Demonstration Partnership|UIDP]]) in the US, joined forces in 2019 to develop and host the inaugural [[Oxford UIDP Summit 2019|Oxford UIDP Summit]]. This brought together 149 senior leaders and managers from leading universities, companies and governments from the UK, US, Europe and further afield, to identify new and better ways to partner to advance the human condition and key issues that need to be addressed.
+> Original: The University of Oxford in the UK, and the University-Industry Demonstration Partnership ([[University Industry Demonstration Partnership\|UIDP]]) in the US, joined forces in 2019 to develop and host the inaugural [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]]. This brought together 149 senior leaders and managers from leading universities, companies and governments from the UK, US, Europe and further afield, to identify new and better ways to partner to advance the human condition and key issues that need to be addressed.
 
 > [!citation-card]- 研发目标的核心教训
-> 荷兰经验表明，研发量不是改善创新和经济结果的重要驱动力，而是[[Systems of Innovation|创新系统]]的质量和强度——不仅生成新知识，而且扩散和利用它。
+> 荷兰经验表明，研发量不是改善创新和经济结果的重要驱动力，而是[[Systems of Innovation\|创新系统]]的质量和强度——不仅生成新知识，而且扩散和利用它。
 >
 > Original: There was a suggestion that the volume of R&D was not the important driver of improving innovation and economic outcomes, but the quality and strength of the innovation system in not just generating new knowledge, but also in diffusing and exploiting it.
 
@@ -506,7 +507,7 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 ## 自述局限
 
 > [!warning]
-> 本报告记录的是 2019 年为期三天的峰会讨论和辩论中的关键见解和问题，并非系统性研究或[[Literature Review|文献综述]]。峰会只探索了有限数量的合作模式和关键趋势——报告中明确指出的有待进一步讨论的领域包括："生态系统"驱动的伙伴关系模式、"全球"伙伴关系模式、敏感数据和资源的有效共享模式，以及在非常敏感话题上为伙伴之间创造"安全"[[Dialogue in Education|对话]]空间的模式（p.17）。
+> 本报告记录的是 2019 年为期三天的峰会讨论和辩论中的关键见解和问题，并非系统性研究或[[Literature Review\|文献综述]]。峰会只探索了有限数量的合作模式和关键趋势——报告中明确指出的有待进一步讨论的领域包括："生态系统"驱动的伙伴关系模式、"全球"伙伴关系模式、敏感数据和资源的有效共享模式，以及在非常敏感话题上为伙伴之间创造"安全"[[Dialogue in Education\|对话]]空间的模式（p.17）。
 
 ---
 

@@ -40,7 +40,7 @@ updated: '2026-06-02'
 ## 背景
 
 > [!info]
-> 1644 年，英国诗人、学者 John Milton 向英国议会发表了《论出版自由》（*Areopagitica*）——一篇反对出版许可令 (Licensing Order of 1643) 的著名演说。该演说成为西方言论自由和反审查传统的奠基性文本。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]] (GPK) 的审查模态分析中援引 *Areopagitica* 作为规范性批判标准——以 Milton 提出的三重权利对照当代审查制度([[Argument_Partaken_2022_Springer|Partaken, 2022, p.81–82]])。
+> 1644 年，英国诗人、学者 John Milton 向英国议会发表了《论出版自由》（*Areopagitica*）——一篇反对出版许可令 (Licensing Order of 1643) 的著名演说。该演说成为西方言论自由和反审查传统的奠基性文本。[[Argument_Partaken_2022_Springer\|Partaken (2022)]] 在[[Geopolitics of Knowledge\|知识地缘政治]] (GPK) 的审查模态分析中援引 *Areopagitica* 作为规范性批判标准——以 Milton 提出的三重权利对照当代审查制度([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.81–82]])。
 
 ---
 
@@ -65,21 +65,21 @@ updated: '2026-06-02'
 
 > [!success]
 > - *Areopagitica* 成为西方自由主义言论自由传统的奠基性文本，其三重权利框架持续影响后世关于审查制度的讨论。
-> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] 将 *Areopagitica* 的三重权利标准直接置于[[Great Firewall of China|中国防火长城]]的对立面——后者系统性地阻断中国大学学者获取大量社科人文学术论文，信息和知识多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])。
+> - [[Argument_Partaken_2022_Springer\|Partaken (2022)]] 将 *Areopagitica* 的三重权利标准直接置于[[Great Firewall of China\|中国防火长城]]的对立面——后者系统性地阻断中国大学学者获取大量社科人文学术论文，信息和知识多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.82]])。
 
 ---
 
 ## 争议与评论
 
 > [!warning]
-> - Partaken 使用 *Areopagitica* 作为审查批判的规范性基准时，未讨论这一 17 世纪英国文本在多大程度上可适用于 21 世纪数字时代的审查形式——Milton 面对的是出版前许可制，而当代审查更多通过算法过滤、社交媒体内容管理和信息基础设施控制运作([[Argument_Partaken_2022_Springer|Partaken, 2022, p.81–82]])。
+> - Partaken 使用 *Areopagitica* 作为审查批判的规范性基准时，未讨论这一 17 世纪英国文本在多大程度上可适用于 21 世纪数字时代的审查形式——Milton 面对的是出版前许可制，而当代审查更多通过算法过滤、社交媒体内容管理和信息基础设施控制运作([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.81–82]])。
 
 ---
 
 ## 相关概念／政策
 
 > [!example]
-> - [[Knowledge Transfer]] — *Areopagitica* 是 Partaken 在 [[Geopolitics of Knowledge|GPK]] 审查模态分析中引出的规范性基准。
+> - [[Knowledge Transfer]] — *Areopagitica* 是 Partaken 在 [[Geopolitics of Knowledge\|GPK]] 审查模态分析中引出的规范性基准。
 > - [[Great Firewall of China]] — Partaken 将 GFW 置于 *Areopagitica* 标准的对立面，作为审查阻断知识转移的制度典范。
 
 ---

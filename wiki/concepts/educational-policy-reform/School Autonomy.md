@@ -45,11 +45,11 @@ updated: 2026-07-09
 >
 > 然而，Keddie et al.（2020）的研究揭示了这一改革的关键悖论：大多数利益相关者原则上支持学校自主权——因其潜在的"政治正义"（地方化决策）和"经济正义"（在充足资金支持下），但**当自主权由市场逻辑驱动时**——经济效率、竞争和公共问责——则产生系统性的不公正（Keddie et al., 2020, p.436-437）。
 >
-> 在同年发表的另一篇基于同一项目数据的论文中，Keddie et al.（2020, IJLE）以 Dolan（2020）的**悖论[[Analytic Framework|分析框架]]（paradox analysis）**系统识别了澳大利亚学校自主权改革的四大悖论：
+> 在同年发表的另一篇基于同一项目数据的论文中，Keddie et al.（2020, IJLE）以 Dolan（2020）的**悖论[[Analytic Framework\|分析框架]]（paradox analysis）**系统识别了澳大利亚学校自主权改革的四大悖论：
 >
 > 1. **经济效率与差异化拨款** 经济效率话语和公私部门间的差异化拨款构成学校"自主权"，制造经济不公
 > 2. **竞争与个人主义** 竞争和个人主义话语构成学校自主权，削弱系统层面的公平
-> 3. **权力下放与经济[[Rationalism in International Relations|理性主义]]** 权力下放和经济理性主义构成学校自主权，使本已弱势的学校更加不利
+> 3. **权力下放与经济[[Rationalism in International Relations\|理性主义]]** 权力下放和经济理性主义构成学校自主权，使本已弱势的学校更加不利
 > 4. **需求本位拨款** 需求本位拨款在缺乏透明度、精细度和行政支持时构成学校自主权，制造经济不公
 >
 > Dolan 的悖论框架将悖论理解为"由话语的构成性实践所形成，而非作为冲突或复杂性的表征"——目的是"问题化并使主导当代学校教育的话语变得脆弱"（Keddie et al., 2020, IJLE, p.5-6）。
@@ -70,9 +70,9 @@ updated: 2026-07-09
 >
 > 然而，当自主权在市场化的背景下运作时，市场逻辑将自主权扭曲为（Keddie et al., 2020, p.437-441）：
 >
-> 1. **经济效率压力** 伴随学校自主权改革的经济[[Rationalism in International Relations|理性主义]]"倾向于破坏传统上与支持公立学校相关的中共教育官僚机构的结构、资源和项目"（p.433）。在 WA，如 1990s 的 Victoria，这种逻辑导致区域层面学校支持结构的拆除，对小规模、农村和偏远学校产生灾难性后果。
+> 1. **经济效率压力** 伴随学校自主权改革的经济[[Rationalism in International Relations\|理性主义]]"倾向于破坏传统上与支持公立学校相关的中共教育官僚机构的结构、资源和项目"（p.433）。在 WA，如 1990s 的 Victoria，这种逻辑导致区域层面学校支持结构的拆除，对小规模、农村和偏远学校产生灾难性后果。
 >
-> 2. **竞争与等级化**[[My School Website|My School]] 网站的市场问责模型——"[[Hypothesis|假设]]失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"——增加了公立系统内的分层和残余化（residualisation），即"通过基于学术测试成绩来评估（公开奖励）和贬低（公开羞辱）学校"（p.434）。
+> 2. **竞争与等级化**[[My School Website\|My School]] 网站的市场问责模型——"[[Hypothesis\|假设]]失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"——增加了公立系统内的分层和残余化（residualisation），即"通过基于学术测试成绩来评估（公开奖励）和贬低（公开羞辱）学校"（p.434）。
 >
 > 3. **选择与隔离** 利益相关者认为"选择"的概念是公立学校教育的"死亡丧钟"——因为它迫使"学校之间为学生人数而相互竞争，校长们为薪水而竞争"，制造了一个"吸取系统生命的等级秩序"（Miriam & Kyle, bureaucrats, NSW，引自 p.437）。
 >
@@ -87,7 +87,7 @@ updated: 2026-07-09
 >
 > - **Karmel Report (1973)** 澳大利亚学校委员会临时报告（[[Karmel Report]]），将学校自主权定位为"草根、自下而上的改革，借鉴参与式民主概念"（Keddie et al., 2020, IJLE, p.2）。这一民主起源与今天的新自由主义版本形成尖锐对比
 > - **Victoria** 1990s 的"自我管理学校"（Self-Managing Schools），Kennett 保守党政府时期引入"按学生人数拨款"模式
-> - **New South Wales** 2011–2018 年推行的"[[Local Schools Local Decisions|地方学校地方决策]]"（[[Local Schools Local Decisions]]），被批评为实质是成本效率工具——"与家长选择或解放学校毫无关系……是他们在几乎所有学校运作领域削减成本的工具"（Edward, union, NSW，引自 Keddie et al., 2020, IJLE, p.6-7）
+> - **New South Wales** 2011–2018 年推行的"[[Local Schools Local Decisions\|地方学校地方决策]]"（[[Local Schools Local Decisions]]），被批评为实质是成本效率工具——"与家长选择或解放学校毫无关系……是他们在几乎所有学校运作领域削减成本的工具"（Edward, union, NSW，引自 Keddie et al., 2020, IJLE, p.6-7）
 > - **Western Australia** 2010 年起引入"独立公立学校"（[[Independent Public Schools Western Australia]]），是"该州公立教育系统近期最激进的改组——将 575 所学校转为 IPS 地位"（Department of Education, 2019，引自 Keddie et al., 2020, IJLE, p.2）
 > - **Queensland** 2013 年起引入 IPS
 > - **联邦层面** 2015 年保守派联邦政府承诺 7000 万澳元"帮助学校变得更加自主和独立"（Australian Government, 2016，引自 Keddie et al., 2020, IJLE, p.2）
@@ -96,7 +96,7 @@ updated: 2026-07-09
 
 > [!example] 与相关概念的区别
 > - vs [[New Public Management]] — NPM 是驱动学校自主权改革走向市场化的**制度逻辑**，学校自主权是这一逻辑在**学校治理结构**层面的具体体现
-> - vs [[School Leadership]] — 学校领导力是自主权改革效果的**中介[[Variable|变量]]** 学校领导力被认为是"决定学校自主权如何发挥作用的最强大的中介力量"（Caldwell, 2015; MGSE, 2013，引自 Keddie et al., 2020, p.434）
+> - vs [[School Leadership]] — 学校领导力是自主权改革效果的**中介[[Variable\|变量]]** 学校领导力被认为是"决定学校自主权如何发挥作用的最强大的中介力量"（Caldwell, 2015; MGSE, 2013，引自 Keddie et al., 2020, p.434）
 
 ## 实证发现
 

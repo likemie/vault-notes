@@ -53,12 +53,12 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 土耳其教育改革倡议（土耳其语：Eğitim Reformu Girişimi, ERG；英文：Education Reform Initiative）是设于萨班哲大学（Sabancı University）的独立政策研究与[[Educational Brokerage Agency|知识中介机构]]。其最大体制特色在于**完全由土耳其领先的民间慈善基金会联合出资维系**，在政府既不设立官方中介亦不提供直接经常性资助的政治环境下，依托大学自治地位与民间社会资本，独立向政策制定者、教育实践者与公众提供基于实证证据的教育监测与改革方案。[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]将其列为“独立慈善基金型”中介中少有的非西方、非英美代表案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
+> 土耳其教育改革倡议（土耳其语：Eğitim Reformu Girişimi, ERG；英文：Education Reform Initiative）是设于萨班哲大学（Sabancı University）的独立政策研究与[[Educational Brokerage Agency\|知识中介机构]]。其最大体制特色在于**完全由土耳其领先的民间慈善基金会联合出资维系**，在政府既不设立官方中介亦不提供直接经常性资助的政治环境下，依托大学自治地位与民间社会资本，独立向政策制定者、教育实践者与公众提供基于实证证据的教育监测与改革方案。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]将其列为“独立慈善基金型”中介中少有的非西方、非英美代表案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间 / 依托单位** 成立于 2003 年，常设于伊斯坦布尔萨班哲大学政策研究中心体系内。
 > - **创设背景** 21 世纪初土耳其基础教育面临严重的质量差距与区域不平等，同时官方教育决策过程高度集权且缺乏系统实证依据。在此背景下，以萨班哲基金会（Sabancı Foundation）为代表的多家主流慈善基金会联手设立 ERG，意在构建一个基于科学证据、致力于推动“全民优质教育”（[[Quality Education]] for All）的独立公民社会中介平台。
-> - **法人属性与经费基础** 依托大学的独立非营利智库，资金完全来源于企业与家族慈善基金会的联合资助网络，形式上与财务上均独立于国家教育部，但教育部及其地方机构始终是其开展政策[[Dialogue in Education|对话]]的关键伙伴。
+> - **法人属性与经费基础** 依托大学的独立非营利智库，资金完全来源于企业与家族慈善基金会的联合资助网络，形式上与财务上均独立于国家教育部，但教育部及其地方机构始终是其开展政策[[Dialogue in Education\|对话]]的关键伙伴。
 > - **核心使命** 提升土耳其教育政策决策的循证水平，保障儿童受教育权利与教育公平，并促进公众对关键教育议题的批判性讨论与理性审议。
 
 ---
@@ -68,7 +68,7 @@ updated: 2026-09-13
 > [!dev-timeline]- 组织发展历程
 > - **2003 — 创设与倡议发起** 由萨班哲基金会联合 Mother Child Education Foundation (AÇEV) 等机构正式发起设立，开创土耳其民间慈善资本联合推动教育循证政策研究的先河。
 > - **2008–2015 — 旗舰产品年度《教育监测报告》确立** 自 2008 年起，ERG 每年出版一次系统的国家级《教育监测报告》（Education Monitoring Report），全面追踪学前、义务教育、高中教育及教师队伍的统计数据与政策走向，成为土耳其最权威的非官方教育事实基准。
-> - **2016至今 — 教师网络与基层实践拓展** 发起成立“教师网络”（Öğretmen Ağı），推动中介职能从单纯面向安卡拉高层政策建言，向下延伸至连接全国一线教师的同伴研修与实践证据利用；同时积极融入 [[OECD]] 与欧洲[[Knowledge Mediation|知识中介]]交流网络。
+> - **2016至今 — 教师网络与基层实践拓展** 发起成立“教师网络”（Öğretmen Ağı），推动中介职能从单纯面向安卡拉高层政策建言，向下延伸至连接全国一线教师的同伴研修与实践证据利用；同时积极融入 [[OECD]] 与欧洲[[Knowledge Mediation\|知识中介]]交流网络。
 
 ---
 
@@ -89,12 +89,12 @@ updated: 2026-09-13
 ## 知识治理视阈下的学理意义
 
 > [!finding-cards] ERG 的制度创新价值
-> - **民间社会资本支撑的中介自主性** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]指出，英格兰的 [[Education Endowment Foundation|EEF]] 依托留本基金，而土耳其 ERG 则展示了另一种独立形态：在国家政权更迭频繁、政治极化且公共研发资助匮乏的社会环境中，由多家具有公信力的民间基金会联合出资，成功建立起具备高度独立性与跨越选举周期韧性的[[Knowledge Mediation|知识中介]]实体。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
+> - **民间社会资本支撑的中介自主性** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]指出，英格兰的 [[Education Endowment Foundation\|EEF]] 依托留本基金，而土耳其 ERG 则展示了另一种独立形态：在国家政权更迭频繁、政治极化且公共研发资助匮乏的社会环境中，由多家具有公信力的民间基金会联合出资，成功建立起具备高度独立性与跨越选举周期韧性的[[Knowledge Mediation\|知识中介]]实体。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 > - **对冲威权科层决策的技术工具** 在中央集权的官僚体制下，ERG 扮演了不可替代的“外部客观审议者”角色，通过公开严谨的实证数据迫使政府回应教育公平与质量差距等深层矛盾。
-> - **大学空间作为保护性制度温床** 将机构设于顶尖研究型私立大学（萨班哲大学），既提供了[[Academic Freedom|学术自由]]与研究设施保障，又使机构在面对外部政治压力时享有一层体制保护盾。
+> - **大学空间作为保护性制度温床** 将机构设于顶尖研究型私立大学（萨班哲大学），既提供了[[Academic Freedom\|学术自由]]与研究设施保障，又使机构在面对外部政治压力时享有一层体制保护盾。
 
 > [!citation-card] Burns & Schuller 论土耳其教育改革倡议的资助机制
-> 土耳其教育改革倡议（ERG）是一个由主流基金会支持的独立机构，设于萨班哲大学。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, p. 62)]]
+> 土耳其教育改革倡议（ERG）是一个由主流基金会支持的独立机构，设于萨班哲大学。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 >
 > *"The Education Reform Initiative in Turkey, for example, is an independent organisation supported by leading foundations, located in Sabancı University."*
 

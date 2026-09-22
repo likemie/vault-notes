@@ -49,10 +49,10 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 课堂辩论（Classroom Debate）是一种具有高度结构化规则的[[Dialogue in Education|对话教学]]策略。教师围绕具有争议性的真实议题分配正反双方立场，要求学生在明确的立论、交叉质询、反驳与总结陈词规则约束下，搜集实证证据、重构逻辑论证并接受对手质询，从而促进对复杂议题的多元理解与[[Critical Thinking|批判性思维]]发展。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 285–286)]]
+> 课堂辩论（Classroom Debate）是一种具有高度结构化规则的[[Dialogue in Education\|对话教学]]策略。教师围绕具有争议性的真实议题分配正反双方立场，要求学生在明确的立论、交叉质询、反驳与总结陈词规则约束下，搜集实证证据、重构逻辑论证并接受对手质询，从而促进对复杂议题的多元理解与[[Critical Thinking\|批判性思维]]发展。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 将课堂[[Revoicing|话语重构]]为制度化的论辩交锋，通过规则约束确保正反双方在平等的举证责任与时间限制下进行理性对话。
+> - **含义** 将课堂[[Revoicing\|话语重构]]为制度化的论辩交锋，通过规则约束确保正反双方在平等的举证责任与时间限制下进行理性对话。
 > - **用途** 用于打破学生的确认偏差（Confirmation Bias），强迫学习者从对立立场审视证据并推演反论点。
 > - **边界** 课堂辩论侧重教育性与探究性，旨在深化理解与证据权衡，而非纯粹以击败对手、辞令表演为目的的竞技辩论。
 
@@ -64,7 +64,7 @@ updated: 2026-09-17
 
 ## 概念辨析
 
-> [!contrast-table] 课堂辩论与相近[[Dialogue in Education|对话教学]]形式辨析
+> [!contrast-table] 课堂辩论与相近[[Dialogue in Education\|对话教学]]形式辨析
 > | 维度 | 课堂辩论（Classroom Debate） | [[Socratic Dialogue\|苏格拉底对话]] | 自由全班研讨 |
 > |---|---|---|---|
 > | **互动轴心** | 生生正反立场结构化交锋 | 教师针对学生概念的连续追问 | 师生与生生间发散性研讨 |
@@ -84,7 +84,7 @@ updated: 2026-09-17
 
 > [!taxonomy] 课堂辩论的核心认知动作
 > - **举证责任（Burden of Proof）** 提出主张时必须提供相关且可信的事实或逻辑支持。
-> - **反驳（Rebuttal）** 准确识别对手论证中的逻辑漏洞、证据不足或不当[[Hypothesis|假设]]并予以回应。
+> - **反驳（Rebuttal）** 准确识别对手论证中的逻辑漏洞、证据不足或不当[[Hypothesis\|假设]]并予以回应。
 > - **换位思考（Perspective Taking）** 设身处地理解对立立场的合理性依据与价值预设。
 
 ---
@@ -94,10 +94,10 @@ updated: 2026-09-17
 ### 命题一　规则约束下的论辩交锋显著提升批判性思维与论证质量
 
 > [!concept-lens] 认知冲突与反思机制
-> 探讨对抗性质询如何驱动[[Higher-Order Thinking Skills|高阶思维]]。
+> 探讨对抗性质询如何驱动[[Higher-Order Thinking Skills\|高阶思维]]。
 
 > [!claim] Abrami, P. C., et al.
-> **[[Meta-analysis|元分析]]实证支持** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 的元分析显示，课堂辩论（Debate）作为独立[[Dialogue in Education|对话]]策略干预产生显著的正向效应（$k = 8, g+ = 0.32, 95\%\text{ CI} = [0.03, 0.61]$）。严格的对抗规则迫使学生不断评估主张[[Reliability|可靠性]]并搜集对立信息，有效克服了思维懒惰与片面论证。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 286, 294)]]
+> **[[Meta-analysis\|元分析]]实证支持** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的元分析显示，课堂辩论（Debate）作为独立[[Dialogue in Education\|对话]]策略干预产生显著的正向效应（$k = 8, g+ = 0.32, 95\%\text{ CI} = [0.03, 0.61]$）。严格的对抗规则迫使学生不断评估主张[[Reliability\|可靠性]]并搜集对立信息，有效克服了思维懒惰与片面论证。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286, 294)]]
 
 ### 命题二　去角色化的辩后反思是实现认知综合的关键保障
 
@@ -111,7 +111,7 @@ updated: 2026-09-17
 
 ## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
@@ -123,12 +123,12 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!critique-method] 教学实施风险
-> - **胜负心遮蔽求真动机** 学生可能为了赢得辩论而采取诡辩、断章取义或情感操纵，偏离[[Critical Thinking|批判性思维]]的求真倾向。
+> - **胜负心遮蔽求真动机** 学生可能为了赢得辩论而采取诡辩、断章取义或情感操纵，偏离[[Critical Thinking\|批判性思维]]的求真倾向。
 > - **边缘化弱势学生** 语言表达较弱或性格内向的学生在激烈辩论中容易边缘化，需设计平等的发言机制保障全员参与。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，定量评估课堂辩论作为[[Dialogue in Education|对话]]子策略（$k=8, g+=0.32$）对[[Critical Thinking|批判性思维]]的显著干预效果。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，定量评估课堂辩论作为[[Dialogue in Education\|对话]]子策略（$k=8, g+=0.32$）对[[Critical Thinking\|批判性思维]]的显著干预效果。

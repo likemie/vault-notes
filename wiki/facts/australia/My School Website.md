@@ -40,14 +40,14 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> My School 网站于 **2008 年**在澳大利亚建立，是澳大利亚公立教育系统中市场问责机制的核心基础设施。其建立与更广泛的"教育革命"议程——包括 NAPLAN 标准化测试的引入和国家课程的推行——同期发生。[[Argument_Eacott_2011_JEAH|Eacott (2011)]]将 My School 的建立视为"国家对教育的管理主义项目几乎完成"的标志之一。
+> My School 网站于 **2008 年**在澳大利亚建立，是澳大利亚公立教育系统中市场问责机制的核心基础设施。其建立与更广泛的"教育革命"议程——包括 NAPLAN 标准化测试的引入和国家课程的推行——同期发生。[[Argument_Eacott_2011_JEAH\|Eacott (2011)]]将 My School 的建立视为"国家对教育的管理主义项目几乎完成"的标志之一。
 
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
 > My School 网站提供所有澳大利亚学校的**人口统计信息**，特别侧重于**基于 NAPLAN 标准化考试成绩比较学校（Keddie et al., 2020, p.434）**。
 >
-> > 网站的一个关键理由是为家长提供关于学校质量的透明度，以支持其为子女做出知情的[[School Choice|学校选择]]（Keddie et al., 2020, p.434, citing Doolan & Blackmore, 2018; Lingard, Sellar, & Savage, 2014）。
+> > 网站的一个关键理由是为家长提供关于学校质量的透明度，以支持其为子女做出知情的[[School Choice\|学校选择]]（Keddie et al., 2020, p.434, citing Doolan & Blackmore, 2018; Lingard, Sellar, & Savage, 2014）。
 >
 > 该比较功能已被修改：从允许与"**邻近学校**"比较，改为将个别学校与"**澳大利亚全国数据**"进行比较（Keddie et al., 2020, p.434）。
 
@@ -75,7 +75,7 @@ updated: '2026-05-18'
 > [!success] 效果与评价
 > **市场问责模型驱动的分层效应（Keddie et al., 2020, p.434）**
 >
-> My School 体现了"该市场问责模型[[Hypothesis|假设]]：失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"。
+> My School 体现了"该市场问责模型[[Hypothesis\|假设]]：失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"。
 >
 > 该模型已被证实增加了公立系统内的**分层（stratification）**和**残余化（residualisation）**——"即通过基于学术测试成绩来评估（公开奖励）和贬低（公开羞辱）学校"（Doolan & Blackmore, 2018; Lamb et al., 2015，引自 Keddie et al., 2020, p.434）。
 >

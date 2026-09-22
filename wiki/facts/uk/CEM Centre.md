@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
   - theme/assessment
   - theme/school-monitoring
 related_concepts:
+  - "[[Learning Gain]]"
   - "[[Performance Indicators]]"
   - "[[Causality]]"
   - "[[Evidence-Based Education]]"
@@ -31,7 +32,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-09-07
+updated: 2026-09-22
 ---
 
 # CEM Centre
@@ -46,7 +47,7 @@ updated: 2026-09-07
 > - **创始人** Carol Fitz-Gibbon and Peter Tymms
 > - **定位** 大学内部最大的教育研究单位，专注于为学校提供基于数据的监测与评估工具
 
-CEM 中心（Curriculum, Evaluation and Management Centre，课程、评估与管理中心）是英国最早系统性地将增值评估（VALUE-added assessment）引入学校实践的研究机构之一（pp.330–335）。
+CEM 中心（Curriculum, Evaluation and Management Centre，课程、评估与管理中心）是英国最早系统性地将增值评估（[[Learning Gain|value-added assessment]]）引入学校实践的研究机构之一（pp.330–335）。
 
 ---
 

@@ -60,8 +60,8 @@ updated: 2026-09-11
 > [!instrument-profile] National Survey of [[Student Engagement]]（NSSE）
 > - **工具类型** 全国性大学生有效学习投入与学业挑战自陈调查系统（National Student Engagement Survey Instrument）。
 > - **开发者与年份** George Kuh 团队 / 印第安纳大学高等教育研究中心（Center for Postsecondary Research, CPR, 2000）。
-> - **测量目的** 测量大一新生与大四毕业生在促进[[Surface and Deep Learning|深层学习]]、高阶思辨与全面发展的有效教育活动中的投入时间与精力。
-> - **实施方式** 年度在线标准化[[Questionnaire|问卷]]施测，覆盖全美与加拿大逾 1,600 所四年制高等院校数百万本科生。
+> - **测量目的** 测量大一新生与大四毕业生在促进[[Surface and Deep Learning\|深层学习]]、高阶思辨与全面发展的有效教育活动中的投入时间与精力。
+> - **实施方式** 年度在线标准化[[Questionnaire\|问卷]]施测，覆盖全美与加拿大逾 1,600 所四年制高等院校数百万本科生。
 
 ---
 

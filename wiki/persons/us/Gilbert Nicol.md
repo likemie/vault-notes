@@ -43,42 +43,42 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 北美高等教育规划、大学行政与非营利教育组织管理者；1977 年 8 月起担任[[International Baccalaureate North America|国际文凭北美公司]]（[[International Baccalaureate]] North America，IBNA）执行主任。
+> - **身份位置** 北美高等教育规划、大学行政与非营利教育组织管理者；1977 年 8 月起担任[[International Baccalaureate North America\|国际文凭北美公司]]（[[International Baccalaureate]] North America，IBNA）执行主任。
 > - **核心角色** 把区域法人从筹资框架转化为能够持续接触学校、培训教师和协调大学关系的执行组织。
-> - **代表贡献** 建立介绍会和教师培训工作坊两类扩张机制，使[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）从少数[[International Schools|国际学校]]进入美国和加拿大公立高中。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 143–152)]]
+> - **代表贡献** 建立介绍会和教师培训工作坊两类扩张机制，使[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）从少数[[International Schools\|国际学校]]进入美国和加拿大公立高中。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 143–152)]]
 
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1947 年** 在阿默斯特学院取得学士学位，此前曾在军事情报部门服役。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, p. 143)]]
+> - **1947 年** 在阿默斯特学院取得学士学位，此前曾在军事情报部门服役。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, p. 143)]]
 > - **1950 年** 在哥伦比亚大学取得法学学士学位，随后从事学院与大学行政工作。
 > - **1971–1976 年** 担任大学与学院规划协会（Society for College and University Planning）执行主任，并曾任普林斯顿大学发展副主任，积累教育规划与募款经验（p. 143）。
-> - **1977 年 8 月起** 接任 [[International Baccalaureate North America|IBNA]] 执行主任，在极小的纽约办公室建立专职区域业务；学校扩张在 1983 年迁入更大办公室前已经开始（pp. 143–144）。
+> - **1977 年 8 月起** 接任 [[International Baccalaureate North America\|IBNA]] 执行主任，在极小的纽约办公室建立专职区域业务；学校扩张在 1983 年迁入更大办公室前已经开始（pp. 143–144）。
 > - **1978–1984 年** 组织介绍会与教师培训工作坊，逐步把推广从单次宣传转向学校申请、教师准备和考官参与相互连接的支持体系（pp. 149–152）。
 
 ## 核心贡献
 
 > [!claim] 把课程传播组织成实施能力建设
-> 新课程的采用取决于教师是否认同目标、能否承担额外劳动，以及是否能从更有经验的学校和考官获得支持。介绍会让学校形成初步判断，培训工作坊再把课程知识、校际联系和国际运动身份提供给教师。两类活动形成从了解、申请到实施的连续路径，而不是把扩张停留在行政推广。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 149–152)]]
+> 新课程的采用取决于教师是否认同目标、能否承担额外劳动，以及是否能从更有经验的学校和考官获得支持。介绍会让学校形成初步判断，培训工作坊再把课程知识、校际联系和国际运动身份提供给教师。两类活动形成从了解、申请到实施的连续路径，而不是把扩张停留在行政推广。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 149–152)]]
 
 > [!dev-timeline]- 从小办公室到跨校专业网络
 > - **1977 年** 尼科尔选择约 200 平方英尺的独立办公室，以全职区域负责人身份直接处理学校查询、筹资与日内瓦协调；空间很小，但避免业务附属于某所大学或学校的优先事项。
 > - **1978 年** 首轮教师工作坊吸引 26 所学校的 97 名教师，师资来自先行学校和 IB 考试体系。
-> - **1979 年** [[International Baccalaureate North America|IBNA]] 因资金不足取消教师旅行和食宿补贴，出席人数随即大幅下降；这显示支持网络尚不能只靠学校自费维持。
+> - **1979 年** [[International Baccalaureate North America\|IBNA]] 因资金不足取消教师旅行和食宿补贴，出席人数随即大幅下降；这显示支持网络尚不能只靠学校自费维持。
 > - **1982 年** 54 所学校的 283 名教师参加；培训对象从少量先锋教师扩大为多校学科团队。
-> - **1983 年** 培训开始把区域经验教师与正式考试权威结合；各学科小组至少有一名考官参与，阵容包括 3 名欧洲主考官、1 名美国主考官和 1 名英语学校 [[Theory of Knowledge|TOK]] 协调者。
-> - **1984 年** 106 所已加入学校的 579 名教师参加工作坊，另有 7 所候选学校的 19 名教师提前参与；介绍、考察与实施培训由此连接成连续入口。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 143–144, 149–152)]]
+> - **1983 年** 培训开始把区域经验教师与正式考试权威结合；各学科小组至少有一名考官参与，阵容包括 3 名欧洲主考官、1 名美国主考官和 1 名英语学校 [[Theory of Knowledge\|TOK]] 协调者。
+> - **1984 年** 106 所已加入学校的 579 名教师参加工作坊，另有 7 所候选学校的 19 名教师提前参与；介绍、考察与实施培训由此连接成连续入口。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 143–144, 149–152)]]
 
 > [!citation-card]- 北美学校的共同点
-> 北美 IB 学校在地域、规模、社区财富和既有高级课程上差异很大，最稳定的共同点是教师与管理者对项目目标具有共识性兴趣。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 152–153)]]
+> 北美 IB 学校在地域、规模、社区财富和既有高级课程上差异很大，最稳定的共同点是教师与管理者对项目目标具有共识性兴趣。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 152–153)]]
 >
 > *IB Schools in North America seem to have little in common except a consensual interest among teachers and administrators in the aims of the IB program.*
 
 > [!finding-cards] 尼科尔从学校差异中提炼的扩张判断
 > - **没有单一人口模板** 采用学校既有乡村和小城学校，也有大都会学校；社区财富、学生构成、学校规模与既有高级课程差异显著。
 > - **共同点是组织承诺** 可复制条件不是某种固定校型，而是教师和管理者共同认可 IB 目标，并愿意承担课程协调和额外准备。
-> - **推广必须转为实施支持** 学校[[Heterogeneity|异质性]]越高，越不能依赖统一销售话术；工作坊需要让新校直接接触已实施教师、考官和主考官。
-> - **证据边界** 这些观察来自区域负责人的学校报告，适合说明组织策略，不足以证明参与学校具有统计代表性。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 151–153)]]
+> - **推广必须转为实施支持** 学校[[Heterogeneity\|异质性]]越高，越不能依赖统一销售话术；工作坊需要让新校直接接触已实施教师、考官和主考官。
+> - **证据边界** 这些观察来自区域负责人的学校报告，适合说明组织策略，不足以证明参与学校具有统计代表性。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 151–153)]]
 
 ## 影响路径
 
@@ -86,7 +86,7 @@ updated: 2026-09-11
 > - **组织路径** 以独立办公室和专职执行职位维持学校联络、募款与区域治理，不依附单所学校或大学。
 > - **专业路径** 动员先行学校教师、IB 考官和主考官进入培训，使实践知识可以跨学校传递。
 > - **财务路径** 把基金会启动资金用于扩大授权学校群体，再以学校订阅和考试活动支持区域与全球组织。
-> - **跨国路径** 在北美地方自主环境中发展区域推广模式，同时维持日内瓦对课程与考试的国际控制。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 140–152)]]
+> - **跨国路径** 在北美地方自主环境中发展区域推广模式，同时维持日内瓦对课程与考试的国际控制。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 140–152)]]
 
 ## 关系网络
 
@@ -94,7 +94,7 @@ updated: 2026-09-11
 > - **机构** [[International Baccalaureate North America]] — 长期担任执行主任，负责推广、筹资、学校关系和教师支持。
 > - **课程组织** [[International Baccalaureate]] — 把国际课程转化为北美学校可理解、申请和实施的项目。
 > - **组织发起者** 布洛克·卡鲁斯（Blouke Carus） — 推动 IBNA 法人化并担任主席，尼科尔负责把治理设计转化为日常执行。
-> - **先行学校教师** 联合国[[International Schools|国际学校]]、弗朗西斯·刘易斯高中和皮尔逊书院教师承担早期工作坊教学，形成校际实施网络。
+> - **先行学校教师** 联合国[[International Schools\|国际学校]]、弗朗西斯·刘易斯高中和皮尔逊书院教师承担早期工作坊教学，形成校际实施网络。
 
 ## 条目关联
 

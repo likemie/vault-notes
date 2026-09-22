@@ -19,6 +19,7 @@ tags:
   - theme/ai-ethics
   - theme/evidence-synthesis
 related_concepts:
+  - "[[Generative Artificial Intelligence]]"
   - "[[Tracking]]"
   - "[[Construct]]"
   - "[[Illusion of Competence]]"
@@ -35,8 +36,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[RAiSE Programme]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Jansen_2026_EPR]]"
 confidence: high
@@ -53,15 +53,15 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 有意义的人类控制（Meaningful Human Control, MHC）源自人工智能（Artificial Intelligence, AI）伦理学与自主系统设计理论（Santoni de Sio & van den Hoven, 2018），指在人工智能与自动化系统参与关键决策或复杂学术任务（如系统评价与[[Meta-meta-analysis|二阶元分析]]证据综合）时，**人类专家并非充当形式化的被动橡皮图章，而是具备充分的认知理解、实时监督与干预能力，能够对系统的推理路径进行因果追踪，并在出现分歧、模糊性或异常时行使最终裁决权与伦理问责权**。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 6, 20, 24)]]
+> 有意义的人类控制（Meaningful Human Control, MHC）源自人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）伦理学与自主系统设计理论（Santoni de Sio & van den Hoven, 2018），指在人工智能与自动化系统参与关键决策或复杂学术任务（如系统评价与[[Meta-meta-analysis\|二阶元分析]]证据综合）时，**人类专家并非充当形式化的被动橡皮图章，而是具备充分的认知理解、实时监督与干预能力，能够对系统的推理路径进行因果追踪，并在出现分歧、模糊性或异常时行使最终裁决权与伦理问责权**。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 6, 20, 24)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调人类在人机协同系统中的实质性控制权，要求满足追踪条件（[[Tracking]] Condition）与响应条件（Responsiveness Condition）。
-> - **用途** 在证据综合与二阶[[Meta-analysis|元分析]]（Second-Order Meta-Analysis, SOMA）中，指导设计合理的人机混合验证架构，防止对大模型输出的盲目采纳或低效的全量重复人工劳动。
+> - **用途** 在证据综合与二阶[[Meta-analysis\|元分析]]（Second-Order Meta-Analysis, SOMA）中，指导设计合理的人机混合验证架构，防止对大模型输出的盲目采纳或低效的全量重复人工劳动。
 > - **边界** 不等于拒绝自动化技术，亦不等于要求人类对算法的每一个微观参数进行逐行审查；其核心在于对系统关键输出节点与争议数据点维持结构化监督机制。
 
 > [!citation-card] 证据综合中负责任人工智能与有意义人类控制的准则（RAISE 指南；Jansen et al., 2026）
-> 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis, [[RAiSE Programme|RAiSE]]）工作组与相关伦理框架明确规定，人工智能工具必须在有意义的人类控制下运行。研究者不仅需要全面评估模型在特定任务语境中的准确性基准，还必须设计透明的人机协作流，确保人类对争议数据和关键因果解释保持最终裁决权。[[Argument_Jansen_2026_EPR|(Thomas et al., 2025a; Jansen et al., 2026, pp. 6, 24)]]
+> 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis, RAiSE）工作组与相关伦理框架明确规定，人工智能工具必须在有意义的人类控制下运行。研究者不仅需要全面评估模型在特定任务语境中的准确性基准，还必须设计透明的人机协作流，确保人类对争议数据和关键因果解释保持最终裁决权。[[Argument_Jansen_2026_EPR\|(Thomas et al., 2025a; Jansen et al., 2026, pp. 6, 24)]]
 >
 > *Meaningful Human Control is a widely discussed [[Construct]] in AI ethics and states that systems should remain under meaningful control by humans... The RAISE guidance states that evaluation studies should determine whether an AI performs adequately in a given context, ensuring expert oversight rather than passive rubber-stamping.*
 
@@ -86,9 +86,9 @@ updated: 2026-09-18
 ## 核心要素与运作机制
 
 > [!feature] 有意义人类控制的两大哲学支柱与操作维度
-> - **追踪条件（[[Tracking]] Condition）** 自动化系统的决策与输出必须能够准确追踪人类专家的规范意图、任务目标以及真实世界的事实证据。[[Argument_Jansen_2026_EPR|(Santoni de Sio & van den Hoven, 2018; Jansen et al., 2026, p. 6)]]
-> - **响应条件（Responsiveness Condition）** 当环境事实或专家判断发生改变时，人机系统能够敏锐响应并修正输出，人类随时具备重写或中断系统的介入能力。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 6, 24)]]
-> - **多[[AI Agent in Education|智能体]]交叉比对与异常触发** 部署多个异构大模型独立执行任务，当模型间出现不一致时自动触发人类专家深度介入仲裁。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 17, 24)]]
+> - **追踪条件（[[Tracking]] Condition）** 自动化系统的决策与输出必须能够准确追踪人类专家的规范意图、任务目标以及真实世界的事实证据。[[Argument_Jansen_2026_EPR\|(Santoni de Sio & van den Hoven, 2018; Jansen et al., 2026, p. 6)]]
+> - **响应条件（Responsiveness Condition）** 当环境事实或专家判断发生改变时，人机系统能够敏锐响应并修正输出，人类随时具备重写或中断系统的介入能力。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 6, 24)]]
+> - **多[[AI Agent in Education\|智能体]]交叉比对与异常触发** 部署多个异构大模型独立执行任务，当模型间出现不一致时自动触发人类专家深度介入仲裁。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 17, 24)]]
 
 > [!logic-map]- 证据综合中有意义人类控制的四级验证架构
 > ```mermaid
@@ -119,7 +119,7 @@ updated: 2026-09-18
 > 探索在保证证据综合绝对准确性的前提下，如何利用人类控制机制最大化节约专家劳动时间。
 
 > [!claim] Jansen et al.
-> **分歧触发机制大幅降低人工负荷同时守住真值底线** [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 提出，通过两个或多个独立大模型进行背对背提取，仅在模型出现分歧（约占总数据量的 16%–22%）或涉及复杂多表累加时触发人类专家介入仲裁，能够消除约 80% 的机械式人工劳动，同时确保最终数据集准确度超越任何单一人类专家的单次独立提取，契合了有意义人类控制在证据综合中的[[Operationalization|操作化]]要求。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 20–25)]]
+> **分歧触发机制大幅降低人工负荷同时守住真值底线** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 提出，通过两个或多个独立大模型进行背对背提取，仅在模型出现分歧（约占总数据量的 16%–22%）或涉及复杂多表累加时触发人类专家介入仲裁，能够消除约 80% 的机械式人工劳动，同时确保最终数据集准确度超越任何单一人类专家的单次独立提取，契合了有意义人类控制在证据综合中的[[Operationalization\|操作化]]要求。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 20–25)]]
 
 ---
 
@@ -129,7 +129,7 @@ updated: 2026-09-18
 > 反思传统方法学将单人提取与粗略抽查视作真值的弊端，阐明人类控制必须建立在专家多方校准之上。
 
 > [!claim] Jansen et al.
-> **单一人类专家同样存在计算疏漏与选择偏离** [[Argument_Jansen_2026_EPR|Jansen et al. (2026, pp. 16–18, 23–24)]] 揭示，即使是资深人类专家独立[[Coding in Qualitative Research|编码]]，与最终仲裁金标准的[[Intraclass Correlation Coefficient|组内相关系数]]亦为 $\text{ICC} = 0.95$（遗漏 12 例），而既有数据库录入更存在 57 处单人偏离（$\text{ICC} = 0.81$）。这表明有意义的人类控制不仅是对 AI 系统的纠偏，更是通过人机多源交叉互证实现对人类自身认知疏漏的双向校准。
+> **单一人类专家同样存在计算疏漏与选择偏离** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18, 23–24)]] 揭示，即使是资深人类专家独立[[Coding in Qualitative Research\|编码]]，与最终仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]]亦为 $\text{ICC} = 0.95$（遗漏 12 例），而既有数据库录入更存在 57 处单人偏离（$\text{ICC} = 0.81$）。这表明有意义的人类控制不仅是对 AI 系统的纠偏，更是通过人机多源交叉互证实现对人类自身认知疏漏的双向校准。
 
 ---
 
@@ -148,16 +148,16 @@ updated: 2026-09-18
 > [!debates] 学术争议
 >
 > > [!axis] 人类仲裁认知过载 vs 审查疲劳风险
-> > 争论当大模型处理数万篇[[Document|文献]]时，即使只触发 20% 分歧，人类专家是否仍面临难以承受的认知负荷。
+> > 争论当大模型处理数万篇[[Document\|文献]]时，即使只触发 20% 分歧，人类专家是否仍面临难以承受的认知负荷。
 > >
 > > - **怀疑论调** 专家在连续处理数百个复杂分歧时，可能发生注意力退化，导致仲裁质量下滑。
-> > - **系统设计应对（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]）** 建议将任务分批，并在提示词中要求模型输出具体的原文引用定位，辅助专家快速溯源。
+> > - **系统设计应对（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）** 建议将任务分批，并在提示词中要求模型输出具体的原文引用定位，辅助专家快速溯源。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 人机混合验证与单方验证表现对比（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]）
+> [!ref-table]- 人机混合验证与单方验证表现对比（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 验证模式 | 构成形式 | 准确性表现（[[Intraclass Correlation Coefficient\|ICC]] / 一致率） | 人工劳动投入占比 | 优势与瓶颈 |
@@ -170,5 +170,5 @@ updated: 2026-09-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 将有意义的人类控制理论引入教育[[Meta-meta-analysis|二阶元分析]]数据提取流程，构建了基于多模型共识与专家仲裁的人机混合验证[[Paradigm|范式]]。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 将有意义的人类控制理论引入教育[[Meta-meta-analysis\|二阶元分析]]数据提取流程，构建了基于多模型共识与专家仲裁的人机混合验证[[Paradigm\|范式]]。

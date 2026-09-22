@@ -57,15 +57,15 @@ updated: 2026-08-27
 
 > [!instrument-profile] Cornell [[Critical Thinking]] Test（CCTT）
 > - **工具类型** 标准化能力测验（Standardized Multiple-Choice Cognitive Test）。
-> - **开发者与年份** [[Robert Ennis|Robert H. Ennis]], Jason Millman, & Thomas N. Tomko (1985, 2005 修订版)。
-> - **测量目的** 评估受测者在探险情境与学术情境中的归纳、演绎、证据可[[Reliability|信度]]辨析与[[Hypothesis|假设]]识别能力，区分初阶与高阶两种认知发展水平。
+> - **开发者与年份** [[Robert Ennis\|Robert H. Ennis]], Jason Millman, & Thomas N. Tomko (1985, 2005 修订版)。
+> - **测量目的** 评估受测者在探险情境与学术情境中的归纳、演绎、证据可[[Reliability\|信度]]辨析与[[Hypothesis\|假设]]识别能力，区分初阶与高阶两种认知发展水平。
 > - **实施方式** 纸笔测试或机考（限时 50 分钟），题项编排为连续连贯的故事或情境探究线索。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]（Critical Thinking Skills）
+> [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Skills）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数（Level Z） | 测量内容 | 计分方式 |

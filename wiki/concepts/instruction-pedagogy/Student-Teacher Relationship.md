@@ -5,7 +5,7 @@ aliases:
 summary: "学生对师生互动支持性、信任感和被理解程度的主观感知，用于描述课堂关系质量及其对学习参与的影响。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 - level/k12
 - region/norway
 related_concepts:
+  - "[[Student Engagement]]"
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[School Norm Adaptation]]"
@@ -27,7 +28,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: 2026-09-22
 ---
 
 ## 定义
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 在师生关系评分上，女生与男生差异不显著（d=-0.05, p=.166）。
-> - 在同一模型中，其解释力通常弱于规范适应与学习投入等教师评定行为[[Variable|变量]]（Lekhal_2015_Paideia）。
+> - 在同一模型中，其解释力通常弱于规范适应与[[Student Engagement\|学习投入]]等教师评定行为[[Variable\|变量]]（Lekhal_2015_Paideia）。
 
 ## 待补充研究
 

@@ -48,17 +48,17 @@ updated: 2026-09-18
 
 ## 工具定位
 
-> [!instrument-profile] Test for [[Creativity|creative thinking]]-Drawing Production (TCT-DP)
+> [!instrument-profile] Test for [[Creativity\|creative thinking]]-Drawing Production (TCT-DP)
 > - **工具类型** 非言语图形创造力表现测验（整体性产品创作测验）。
 > - **开发者与年份** Urban & Jellen (1986, 1996)。
-> - **测量目的** 评估个体的图形创造力潜能、空间[[Topological Spatialisation|拓扑重组]]与打破框架定势的能力；有效避免语言流畅性与文化背景偏倚。
+> - **测量目的** 评估个体的图形创造力潜能、空间[[Topological Spatialisation\|拓扑重组]]与打破框架定势的能力；有效避免语言流畅性与文化背景偏倚。
 > - **实施方式** 纸笔个别或团体施测（单张画纸，建议用时约 15 分钟）。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] 图形[[Creativity|创造力]]与整体创造潜能
+> [!construct-table] 图形[[Creativity\|创造力]]与整体创造潜能
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

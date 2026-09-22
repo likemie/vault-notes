@@ -50,7 +50,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> "学习差距"（learning gap）是 [[Stevenson and Stigler|Harold Stevenson]] 和 James Stigler 在 1992 年同名著作中提出的概念，指美国（以欧裔美国人为主）与东亚（日本、台湾、中国）在解释儿童[[Academic Achievement|学业成就]]时的根本归因差异：美国儿童、家长和教师以**能力（ability）**解释成就，而东亚对应群体以**努力（effort）**解释成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
+> "学习差距"（learning gap）是 [[Stevenson and Stigler\|Harold Stevenson]] 和 James Stigler 在 1992 年同名著作中提出的概念，指美国（以欧裔美国人为主）与东亚（日本、台湾、中国）在解释儿童[[Academic Achievement\|学业成就]]时的根本归因差异：美国儿童、家长和教师以**能力（ability）**解释成就，而东亚对应群体以**努力（effort）**解释成就([[Argument_Li_2012_Cambridge\|Li, 2012, pp.78-79]])。
 
 ---
 
@@ -68,7 +68,7 @@ updated: 2026-08-20
 ## 核心要素
 
 > [!abstract]
-> [[Stevenson and Stigler]] 的核心发现([[Argument_Li_2012_Cambridge|Li, 2012, p.79]])：
+> [[Stevenson and Stigler]] 的核心发现([[Argument_Li_2012_Cambridge\|Li, 2012, p.79]])：
 
 ### 归因差异
 - 美国学生、家长和教师以**能力观念**解释儿童的[[Academic Achievement|学业成就]]——与 [[Western Learner|西方学习者]]模型 中"区分最有能力者与普通者"的核心倾向一致([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
@@ -111,9 +111,9 @@ Hess and Azuma 发现美国教师偏好高效、快节奏的教学风格，而�
 ## 理论基础
 
 > [!tip]-
-> - [[Chinese Learner]] — [[Argument_Li_2012_Cambridge|Li (2012)]] 将学习差距研究作为中国学习者[[Cultural Models|文化模型]]的重要实证基础之一，特别是努力归因与 [[Learning Virtues|学习美德]]（勤奋、刻苦、恒心）之间的文化连续性
-> - [[Western Learner]] — 能力归因与西方模型中"区分最有能力者与普通者"的倾向([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])一脉相承
-> - [[Confucian Learning Tradition]] — 东亚的努力归因可追溯至儒家传统中"人人皆可为尧舜"的平等主义——天赋差异存在，但不决定学习结果([[Argument_Li_2012_Cambridge|Li, 2012, pp.49-52]])
+> - [[Chinese Learner]] — [[Argument_Li_2012_Cambridge\|Li (2012)]] 将学习差距研究作为中国学习者[[Cultural Models\|文化模型]]的重要实证基础之一，特别是努力归因与 [[Learning Virtues\|学习美德]]（勤奋、刻苦、恒心）之间的文化连续性
+> - [[Western Learner]] — 能力归因与西方模型中"区分最有能力者与普通者"的倾向([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-35]])一脉相承
+> - [[Confucian Learning Tradition]] — 东亚的努力归因可追溯至儒家传统中"人人皆可为尧舜"的平等主义——天赋差异存在，但不决定学习结果([[Argument_Li_2012_Cambridge\|Li, 2012, pp.49-52]])
 
 ---
 

@@ -80,15 +80,15 @@ updated: 2026-09-17
 
 > [!theory-position] 理论定位
 > - **解释对象** 科学研究证据与公共政策决策之间的沟通阻滞、误解、低转化率以及中介机构的必要性。
-> - **理论问题** 解释为何海量高质量科研产出无法自动或直接转化为政府政策行动，破除“科学发现直推政策”的线性理性[[Hypothesis|假设]]。
+> - **理论问题** 解释为何海量高质量科研产出无法自动或直接转化为政府政策行动，破除“科学发现直推政策”的线性理性[[Hypothesis\|假设]]。
 > - **理论类型** 中层解释模型、科学-政治关系元理论。
-> - **知识位置** 公共政策学、科技社会学（[[Science and Technology Studies|STS]]）与[[Evidence-Based Education|循证教育]]政策研究。由美国社会心理学家内森·卡普兰（Nathan Caplan, 1979）奠定基石，后经 Mackillop 等学者（2019）系统梳理与批判性重构。
+> - **知识位置** 公共政策学、科技社会学（[[Science and Technology Studies\|STS]]）与[[Evidence-Based Education\|循证教育]]政策研究。由美国社会心理学家内森·卡普兰（Nathan Caplan, 1979）奠定基石，后经 Mackillop 等学者（2019）系统梳理与批判性重构。
 
 > [!claim] 核心主张
-> 科学界与政治界是两个在文化、奖酬制度、[[Epistemology|认识论]]取向与行动时间表上遵循截然不同逻辑的“异质社区”；学者追求真理与方法严密性，决策者追求政治共识、行政可行性与当下行动合法性，两大社群之间的天然鸿沟决定了知识无法自然流动，必须依靠专门的[[Policy Brokerage|政策中介]]机构与[[Boundary Spanner|边界跨越者]]进行[[Transfer Translation Transformation|转译]]与调适。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
+> 科学界与政治界是两个在文化、奖酬制度、[[Epistemology\|认识论]]取向与行动时间表上遵循截然不同逻辑的“异质社区”；学者追求真理与方法严密性，决策者追求政治共识、行政可行性与当下行动合法性，两大社群之间的天然鸿沟决定了知识无法自然流动，必须依靠专门的[[Policy Brokerage\|政策中介]]机构与[[Boundary Spanner\|边界跨越者]]进行[[Transfer Translation Transformation\|转译]]与调适。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 
 > [!citation-card] 科学与政治两社区的分野与边界跨越
-> 知识中介研究的历史可以追溯到 Caplan（1979）的两社区理论。正如相关学术综述所指出的，科学与政治两个社区之间的两极分化，有时会不加批判地暗示出一种分野：真理（由科学生产）与行动（由政治采纳）。致力于将研究、真理或事实转移、翻译或“推送”给政治决策者——即跨越这两个社区——的个人或组织，被称为中介、经纪人或边界跨越者。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
+> 知识中介研究的历史可以追溯到 Caplan（1979）的两社区理论。正如相关学术综述所指出的，科学与政治两个社区之间的两极分化，有时会不加批判地暗示出一种分野：真理（由科学生产）与行动（由政治采纳）。致力于将研究、真理或事实转移、翻译或“推送”给政治决策者——即跨越这两个社区——的个人或组织，被称为中介、经纪人或边界跨越者。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 >
 > *The study of knowledge brokerage dates back to Caplan's (1979) two-communities theory. As Mackillop, Downe, and Quarmby (2019) pointed out, the polarisation between the two communities – science and politics – sometimes uncritically suggests a differentiation between truth (produced by science) and action (taken by politics). The individuals or organisations dedicated to transferring, translating, or 'pushing' research, truth, or facts onto political decision-makers – that is, bridging the two communities – are called brokers, intermediaries, or boundary spanners.*
 
@@ -110,27 +110,27 @@ updated: 2026-09-17
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜科学社群与政治社群在制度奖酬与时间周期上的深刻分歧导致知识流动遭遇结构性阻滞
-> - **前提一** 科学社群的声誉评价机制完全建立在严谨方法、不确定性保留与学术发表基础之上，鼓励对复杂[[Variable|变量]]的审慎存疑与长周期纵向检验。
+> - **前提一** 科学社群的声誉评价机制完全建立在严谨方法、不确定性保留与学术发表基础之上，鼓励对复杂[[Variable\|变量]]的审慎存疑与长周期纵向检验。
 > - **前提二** 政治社群面临紧迫的选举周期、民意波动与治理危机，迫切需要能在极短时间内提供确定性答案与即时操作方案的行动指南。（Caplan, 1979）
 > - **推导** 科学界引以为傲的“严谨不确定性”在决策者眼中被视为拖沓与无能，而决策者所要求的“快刀斩乱麻”在学者眼中则被斥为粗暴与伪科学；两类社群内部合理的专业规范，在面对彼方时转化为制度性误解与排斥。
 
-> [!proposition-chain] 核心命题二｜两社区之间的[[Epistemology|认识论]][[Heterogeneity|异质性]]决定了外部证据必须经过二次认知重塑与政治[[Transfer Translation Transformation|转译]]才能进入决策流程
+> [!proposition-chain] 核心命题二｜两社区之间的[[Epistemology\|认识论]][[Heterogeneity\|异质性]]决定了外部证据必须经过二次认知重塑与政治[[Transfer Translation Transformation\|转译]]才能进入决策流程
 > - **前提一** 决策本质上发生在充满歧义、价值冲突与利益博弈的环境中，决策者面临的主要挑战不是信息匮乏，而是如何在相互冲突的思考方式中做出选择。（Feldman, 1989; Zahariadis, 2017）
-> - **前提二** 原始科学[[Research Utilization|证据使用]]高度技术化的学术代码（如统计模型、反实事[[Hypothesis|假设]]、[[Effect Size|效应量]]误差边界），无法直接与官僚行政程序和公众通俗话语对接。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
-> - **推导** [[Policy Brokerage|政策中介]]机构通过提炼三大要点、设计图表化指标、将学术叙事转译为政策口号，使科学证据具备了“确定性表象”与政治合法化效能，从而搭建起沟通两社区的桥梁。
+> - **前提二** 原始科学[[Research Utilization\|证据使用]]高度技术化的学术代码（如统计模型、反实事[[Hypothesis\|假设]]、[[Effect Size\|效应量]]误差边界），无法直接与官僚行政程序和公众通俗话语对接。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> - **推导** [[Policy Brokerage\|政策中介]]机构通过提炼三大要点、设计图表化指标、将学术叙事转译为政策口号，使科学证据具备了“确定性表象”与政治合法化效能，从而搭建起沟通两社区的桥梁。
 
-> [!proposition-chain] 核心命题三｜单纯将科学与政治二元对立的隐喻掩盖了[[Knowledge Production|知识生产]]与权力利益的互构共谋
+> [!proposition-chain] 核心命题三｜单纯将科学与政治二元对立的隐喻掩盖了[[Knowledge Production\|知识生产]]与权力利益的互构共谋
 > - **前提一** 传统两社区模型隐含了一种规范性预设，即将科学社区设定为中立、纯粹的“真理生产者”，将政策社区设定为务实但短视的“行动执行者”。（Mackillop et al., 2019）
-> - **前提二** 现代全球治理实践表明，诸如[[OECD|经合组织]]、[[World Bank|世界银行]]等政策中介机构，本身兼具研究资助者、知识生产者、方案推介者与项目放贷者的多重角色。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
-> - **推导** 科学与政治并非彼此隔绝的“孤岛”，而是处于高度融合的共谋网络中；政策中介并非仅仅在两个中立社区之间摆渡信息，而是主动按照统治权力的需求生产量化证据，使“政策中介”超越了中立的“[[Knowledge Mediation|知识中介]]”。
+> - **前提二** 现代全球治理实践表明，诸如[[OECD\|经合组织]]、[[World Bank\|世界银行]]等政策中介机构，本身兼具研究资助者、知识生产者、方案推介者与项目放贷者的多重角色。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
+> - **推导** 科学与政治并非彼此隔绝的“孤岛”，而是处于高度融合的共谋网络中；政策中介并非仅仅在两个中立社区之间摆渡信息，而是主动按照统治权力的需求生产量化证据，使“政策中介”超越了中立的“[[Knowledge Mediation\|知识中介]]”。
 
 > [!proposition-chain]- 延伸命题
-> - **推论一（源自核心命题一与命题二）** 政策决策者在面临选举问责与施政合法性危机时，倾向于对两社区之间的外部证据进行象征性与选择性利用，优先吸纳能够背书既定方针的确定性结论，而主动清洗或过滤具有方法论审慎性与存疑特质的学术[[Document|文献]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
-> - **推论二（源自核心命题三）** 当[[Boundary Spanner|边界跨越者]]制度化为庞大的超国家中介机构时，它不再仅仅消极调适两界鸿沟，而是通过设定跨国测评指标反向[[Disciplina and Doctrina|规训]]国家政策议程，迫使主权国家按照中介机构的话语框架重组其国内教育系统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
-> - **应用命题** 延伸至全球教育[[Policy Borrowing|政策借用]]与转译研究中，该理论精准预测了在国家课程改革中，国际组织（如经合组织、世界银行）打包推介的“即插即用”式[[21st Century Skills and Competencies Discourse|核心素养]]框架，比本土大学研究者基于复杂情境的审慎实证更容易在法定行政法令层面获得政策采纳。
-> - **推论三（两社区引证行为的对称性反思）** 学者常批评决策者断章取义、策略性挑选证据；然而塞佩尔（[[Argument_Serpell_2020_EP|Serpell, 2020]]）反思指出，学者在学术研讨会上呈现论文时，同样习惯于重点强调支持自身理论的文献，而轻描淡写不相符的研究。两社区并非“纯洁客观 vs 卑劣算计”的绝对对立，而是各自深嵌在自身的正当性维系体系之中；研究者若要让证据进入政策视野，必须主动识别立法者的价值系统并寻找契合点。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 42–43)]]
-> - **推论四（沉浸式跨界与法条化技术）** 突破两社区壁垒不能停留在单向的信息简报或外包中介，而需通过两项高阶跨界机制：其一为全职沉浸的国会政策研究员机制（[[American Association for the Advancement of Science|AAAS]]/[[American Educational Research Association|AERA]] Congressional Fellowships），使学者掌握立法隐性知识与语言密码；其二为[[Legislative Policy Brief|立法政策简报]]，将实证结论转化为由专业律师起草的法定示范条文（Model Statutory Language），直接为法案起草提供可用文本。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
-> - **应用命题二（四维跨界证据吸纳审视）** 结合纳特利等（Nutley et al., 2002）框架，跨越两社区的边界跨越者必须从决策者个人维度、研究契合度维度、制度情境维度与政策执行可逆性维度进行综合研判。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 46)]]
+> - **推论一（源自核心命题一与命题二）** 政策决策者在面临选举问责与施政合法性危机时，倾向于对两社区之间的外部证据进行象征性与选择性利用，优先吸纳能够背书既定方针的确定性结论，而主动清洗或过滤具有方法论审慎性与存疑特质的学术[[Document\|文献]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> - **推论二（源自核心命题三）** 当[[Boundary Spanner\|边界跨越者]]制度化为庞大的超国家中介机构时，它不再仅仅消极调适两界鸿沟，而是通过设定跨国测评指标反向[[Disciplina and Doctrina\|规训]]国家政策议程，迫使主权国家按照中介机构的话语框架重组其国内教育系统。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **应用命题** 延伸至全球教育[[Policy Borrowing\|政策借用]]与转译研究中，该理论精准预测了在国家课程改革中，国际组织（如经合组织、世界银行）打包推介的“即插即用”式[[21st Century Skills and Competencies Discourse\|核心素养]]框架，比本土大学研究者基于复杂情境的审慎实证更容易在法定行政法令层面获得政策采纳。
+> - **推论三（两社区引证行为的对称性反思）** 学者常批评决策者断章取义、策略性挑选证据；然而塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）反思指出，学者在学术研讨会上呈现论文时，同样习惯于重点强调支持自身理论的文献，而轻描淡写不相符的研究。两社区并非“纯洁客观 vs 卑劣算计”的绝对对立，而是各自深嵌在自身的正当性维系体系之中；研究者若要让证据进入政策视野，必须主动识别立法者的价值系统并寻找契合点。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 42–43)]]
+> - **推论四（沉浸式跨界与法条化技术）** 突破两社区壁垒不能停留在单向的信息简报或外包中介，而需通过两项高阶跨界机制：其一为全职沉浸的国会政策研究员机制（[[American Association for the Advancement of Science\|AAAS]]/[[American Educational Research Association\|AERA]] Congressional Fellowships），使学者掌握立法隐性知识与语言密码；其二为[[Legislative Policy Brief\|立法政策简报]]，将实证结论转化为由专业律师起草的法定示范条文（Model Statutory Language），直接为法案起草提供可用文本。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
+> - **应用命题二（四维跨界证据吸纳审视）** 结合纳特利等（Nutley et al., 2002）框架，跨越两社区的边界跨越者必须从决策者个人维度、研究契合度维度、制度情境维度与政策执行可逆性维度进行综合研判。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!mechanism-map]- 机制图
 > ```mermaid
@@ -169,24 +169,24 @@ updated: 2026-09-17
 > ```
 
 > [!exegesis]- 教育政策研究例子
-> 在大规模课程改革议题中，大学教育学院的研究学者通过严密的[[Quasi-Experimental Designs|准实验设计]]指出：基于能力的课程实施受制于学校文化、教师专业信念与社区社会经济地位，效应量存在显著的异质性，不可草率全盘铺开。然而教育部行政官员受制于年度财政拨款与施政业绩问责，急需一套立即可行、全国统一的指导方案。此时，经合组织（OECD）作为跨国政策中介介入，将其研制的 [[Definition and Selection of Competencies|DeSeCo]] 素养框架与 [[PISA]] 测评指标打包，将复杂的因果争议提炼为清晰易懂的核心素养图谱。教育部越过本土学者的审慎存疑，直接采纳 OECD 的标准化中介方案，印证了两社区鸿沟下中介机构的替代性运作。
+> 在大规模课程改革议题中，大学教育学院的研究学者通过严密的[[Quasi-Experimental Designs\|准实验设计]]指出：基于能力的课程实施受制于学校文化、教师专业信念与社区社会经济地位，效应量存在显著的异质性，不可草率全盘铺开。然而教育部行政官员受制于年度财政拨款与施政业绩问责，急需一套立即可行、全国统一的指导方案。此时，经合组织（OECD）作为跨国政策中介介入，将其研制的 [[Definition and Selection of Competencies\|DeSeCo]] 素养框架与 [[PISA]] 测评指标打包，将复杂的因果争议提炼为清晰易懂的核心素养图谱。教育部越过本土学者的审慎存疑，直接采纳 OECD 的标准化中介方案，印证了两社区鸿沟下中介机构的替代性运作。
 >
-> - **国会山两社区跨界例子（[[Russell J. Skiba|斯基巴]]听证与上学时间经纪）** 罗素·斯基巴（Russell Skiba）出席众议院常设委员会听证会，将复杂的违纪停课不平等统计数据转化为直击零容忍政策弊端的法案拨款条款；弗吉尼亚学者将青少年睡眠节律证据编制成通俗工具包赋权选区家长游说州议员推迟上学时间，展现出研究者以专家证人或知识经纪人跨越两社区壁垒的实战效能。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 43–45)]]
+> - **国会山两社区跨界例子（[[Russell J. Skiba\|斯基巴]]听证与上学时间经纪）** 罗素·斯基巴（Russell Skiba）出席众议院常设委员会听证会，将复杂的违纪停课不平等统计数据转化为直击零容忍政策弊端的法案拨款条款；弗吉尼亚学者将青少年睡眠节律证据编制成通俗工具包赋权选区家长游说州议员推迟上学时间，展现出研究者以专家证人或知识经纪人跨越两社区壁垒的实战效能。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43–45)]]
 
 ---
 
 ## 理论立场与使用方式
 
-> [!theory-stance] [[Epistemic Stances|认识论立场]]
-> - **[[Ontology|本体论]]** 认为[[Knowledge Production|知识生产]]者与政策使用者分属于不同的制度[[Champ|场域]]，各自拥有独立的习惯、规范、语言和价值体系。
-> - **[[Epistemology|认识论]]** 质疑科学发现向政策应用的自然流动性；强调知识在跨界传递中必然发生意义转换、选择性吸纳甚至政治工具化重构。
-> - **方法含义** 倡导采用跨场域的[[Network Analysis|网络分析]]、[[Document|文献]]追踪、[[Discourse Analysis|话语分析]]与政策[[Ethnography|民族志]]，观察知识跨越社区边界时的摩擦与[[Transfer Translation Transformation|转译]]。
+> [!theory-stance] [[Epistemic Stances\|认识论立场]]
+> - **[[Ontology\|本体论]]** 认为[[Knowledge Production\|知识生产]]者与政策使用者分属于不同的制度[[Champ\|场域]]，各自拥有独立的习惯、规范、语言和价值体系。
+> - **[[Epistemology\|认识论]]** 质疑科学发现向政策应用的自然流动性；强调知识在跨界传递中必然发生意义转换、选择性吸纳甚至政治工具化重构。
+> - **方法含义** 倡导采用跨场域的[[Network Analysis\|网络分析]]、[[Document\|文献]]追踪、[[Discourse Analysis\|话语分析]]与政策[[Ethnography\|民族志]]，观察知识跨越社区边界时的摩擦与[[Transfer Translation Transformation\|转译]]。
 > - **不能直接推出的东西** 该理论不能直接证明科学知识本身是绝对客观或毫无偏见的，也不能证明政治决策者完全缺乏理性理解力。
 
 > [!theory-use] 如何用于研究
-> - **作为理论框架** 用于解释[[Evidence-Based Education|循证教育]]改革中大学研究成果为何常被冷落，而智库与国际组织的通俗报告为何深受欢迎。
+> - **作为理论框架** 用于解释[[Evidence-Based Education\|循证教育]]改革中大学研究成果为何常被冷落，而智库与国际组织的通俗报告为何深受欢迎。
 > - **作为分析工具** 分解学者与官员在访谈或文本中表达的认知冲突，分析中介机构（如教育科学院、非营利组织）扮演的边界跨越策略。
-> - **作为批判视角** 揭示将循证决策简化为“科学发现—行政推行”线性链条的幼稚性，审视[[Policy Brokerage|政策中介]]如何利用两界信息差谋取话语垄断权。
+> - **作为批判视角** 揭示将循证决策简化为“科学发现—行政推行”线性链条的幼稚性，审视[[Policy Brokerage\|政策中介]]如何利用两界信息差谋取话语垄断权。
 
 > [!logic-map]- 分析流程图
 > ```mermaid
@@ -202,9 +202,9 @@ updated: 2026-09-17
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 专家顾问与政府官员之间的沟通失败、政府对学术[[Document|文献]]的大规模过滤现象、专门性政策智库与中介平台的兴起。
+> - **适合解释** 专家顾问与政府官员之间的沟通失败、政府对学术[[Document\|文献]]的大规模过滤现象、专门性政策智库与中介平台的兴起。
 > - **谨慎使用** 在学术与政治高度一体化的体制（如学者直接兼任内阁部长或政务官）中需修正使用。
-> - **不适合解释** 纯粹学术界内部的[[Paradigm|范式]]争论，或纯粹官僚体系内部的派系权力斗争。
+> - **不适合解释** 纯粹学术界内部的[[Paradigm\|范式]]争论，或纯粹官僚体系内部的派系权力斗争。
 > - **常见误用** 容易滑入朴素的技术官僚主义幻觉，误以为只要提高中介技巧或改进沟通形式，科学真理就能完美统领公共决策。
 
 ---
@@ -212,11 +212,11 @@ updated: 2026-09-17
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1979 — 内森·卡普兰发表奠基论文** Caplan（1979）在《美国行为科学家》发表论文，正式提出“两社区理论”（Two-Communities Theory），诊断美国联邦决策层中社会科学[[Research Utilization|知识利用]]低迷的制度文化根源。
-> - **1980–1990年代 — 智库兴起与三代知识模型分化** 随着公共管理改革展开，学者将目光从单纯指责两界鸿沟转向探讨桥梁机构；Weiss（1979）与 Caplan（1991）深化研究利用形态划分，催生出边界跨越与[[Knowledge Co-production|协同生产]]模型。
-> - **2019 — 对二元极化隐喻的系统性批判与解构** Mackillop、Downe 与 Quarmby（2019）系统检视[[Knowledge Mediation|知识中介]][[Document|文献]]，指出两社区模型过度夸大了真理与行动的二元断裂，忽视了两者内部的多元性以及知识与权力的深层共谋。
-> - **2020 — 国会山实践视角下两社区壁垒的制度性跨越** [[Argument_Serpell_2020_EP|Serpell (2020)]] 从国会研究员的由外而内的局内人视角指出，两社区隔阂不能通过要求政策过程模仿科学发现过程来解决，而需研究者深入立法世界理解其价值生态与时间系统，借助国会委员会与智库中介进行针对性转化。
-> - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代[[Policy Brokerage|政策中介]]理论的综合应用** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 指出，在信息过载时代，国际组织将[[Knowledge Production|知识生产]]、推介与资助融为一体，跨越两社区的中介行为已演化为高度政治化的全球治理工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
+> - **1979 — 内森·卡普兰发表奠基论文** Caplan（1979）在《美国行为科学家》发表论文，正式提出“两社区理论”（Two-Communities Theory），诊断美国联邦决策层中社会科学[[Research Utilization\|知识利用]]低迷的制度文化根源。
+> - **1980–1990年代 — 智库兴起与三代知识模型分化** 随着公共管理改革展开，学者将目光从单纯指责两界鸿沟转向探讨桥梁机构；Weiss（1979）与 Caplan（1991）深化研究利用形态划分，催生出边界跨越与[[Knowledge Co-production\|协同生产]]模型。
+> - **2019 — 对二元极化隐喻的系统性批判与解构** Mackillop、Downe 与 Quarmby（2019）系统检视[[Knowledge Mediation\|知识中介]][[Document\|文献]]，指出两社区模型过度夸大了真理与行动的二元断裂，忽视了两者内部的多元性以及知识与权力的深层共谋。
+> - **2020 — 国会山实践视角下两社区壁垒的制度性跨越** [[Argument_Serpell_2020_EP\|Serpell (2020)]] 从国会研究员的由外而内的局内人视角指出，两社区隔阂不能通过要求政策过程模仿科学发现过程来解决，而需研究者深入立法世界理解其价值生态与时间系统，借助国会委员会与智库中介进行针对性转化。
+> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代[[Policy Brokerage\|政策中介]]理论的综合应用** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 指出，在信息过载时代，国际组织将[[Knowledge Production\|知识生产]]、推介与资助融为一体，跨越两社区的中介行为已演化为高度政治化的全球治理工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 
 ---
 
@@ -231,21 +231,21 @@ updated: 2026-09-17
 > > - **Mackillop et al.（2019）** 认为过于强调二元对立会遮蔽跨界行动者在实践中形成的流动网络与杂糅身份。
 >
 > > [!axis] 中立桥梁隐喻与权力操控实质的张力
-> > 两社区理论往往预设中介者是中立的信使与翻译官，而[[Critical Theory|批判理论]]揭示中介者自身具有强烈的自利诉求与规制野心。
+> > 两社区理论往往预设中介者是中立的信使与翻译官，而[[Critical Theory\|批判理论]]揭示中介者自身具有强烈的自利诉求与规制野心。
 > >
-> > - **Best & Holmes（2010）** 聚焦于改进跨界关系与[[Knowledge Co-production|协同生产]]机制以提高知识吸收效率。
-> > - **[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]** 揭示当同一个组织兼具[[Knowledge Production|知识生产]]、推销与资助功能时，所谓跨越两界的中介本质上已演化为施展[[Soft Power by Hard Facts|硬事实软权力]]的政治行为。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
+> > - **Best & Holmes（2010）** 聚焦于改进跨界关系与[[Knowledge Co-production\|协同生产]]机制以提高知识吸收效率。
+> > - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]** 揭示当同一个组织兼具[[Knowledge Production\|知识生产]]、推销与资助功能时，所谓跨越两界的中介本质上已演化为施展[[Soft Power by Hard Facts\|硬事实软权力]]的政治行为。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 批评传统两社区模型将科学与政治预设为彼此割裂、各自纯粹的孤岛，忽视了现代国际组织集知识生产、推介与资助为一体的权力共谋实质。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 批评传统两社区模型将科学与政治预设为彼此割裂、各自纯粹的孤岛，忽视了现代国际组织集知识生产、推介与资助为一体的权力共谋实质。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 溯源[[Knowledge Mediation|知识中介]]与[[Policy Brokerage|政策中介]]的理论谱系，运用两社区理论阐释国际组织在科学真理与政治行动之间充当[[Boundary Spanner|边界跨越者]]的机制。
-> - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 基于国会山参与实务，反思两社区在证据定义、引证偏好与时间节律上的微观行为对照，阐释通过国会研究员、法定示范条文与中介智库跨越两界壁垒的深度实践路径。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 溯源[[Knowledge Mediation\|知识中介]]与[[Policy Brokerage\|政策中介]]的理论谱系，运用两社区理论阐释国际组织在科学真理与政治行动之间充当[[Boundary Spanner\|边界跨越者]]的机制。
+> - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 基于国会山参与实务，反思两社区在证据定义、引证偏好与时间节律上的微观行为对照，阐释通过国会研究员、法定示范条文与中介智库跨越两界壁垒的深度实践路径。
 
 ---
 

@@ -58,7 +58,7 @@ updated: 2026-09-12
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理系（Department of Geosciences and Geography）教授。以对知识密集型资本主义的地缘政治分析著称，提出[[Knowledge-Based Economization|知识经济化]]（Knowledge-Based Economization）和[[Geopolitics of Knowledge|知识地缘政治]]等概念，将[[Critical Geopolitics|批判地缘政治学]]传统延伸至教育、创新和城市治理领域([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
+> - **身份位置** Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理系（Department of Geosciences and Geography）教授。以对知识密集型资本主义的地缘政治分析著称，提出[[Knowledge-Based Economization\|知识经济化]]（Knowledge-Based Economization）和[[Geopolitics of Knowledge\|知识地缘政治]]等概念，将[[Critical Geopolitics\|批判地缘政治学]]传统延伸至教育、创新和城市治理领域([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.21]])。
 
 ---
 
@@ -86,11 +86,11 @@ updated: 2026-09-12
 ## 核心思想
 
 > [!tip]-
-> Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、[[Human Capital Theory|人力资本]]、教育和技术统合在一起([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
+> Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、[[Human Capital Theory\|人力资本]]、教育和技术统合在一起([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.21]])。
 
 Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、人力资本、教育和技术统合在一起([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
 
-> "In this chapter, I seek to geopoliticize the purportedly geoeconomic present. In particular, I argue that the contemporary knowledge-intensive capitalism is a historically contingent geopolitical constellation that brings together a range of issues such as space, cities, states, human capital, education, and technology."([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])
+> "In this chapter, I seek to geopoliticize the purportedly geoeconomic present. In particular, I argue that the contemporary knowledge-intensive capitalism is a historically contingent geopolitical constellation that brings together a range of issues such as space, cities, states, human capital, education, and technology."([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.21]])
 
 其分析路径强调[[Knowledge-Based Economization|知识经济化]]涉及三层次：物质过程（知识密集型资本主义的实际运作）、话语建构（通过经济化想象和客观化社会实践将其合法化）和主体生产（塑造适应全球竞争的[[Geopolitical Subject|地缘政治主体]]）([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.24–30]])。
 
@@ -101,7 +101,7 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 ## 主要贡献
 
 > [!success]
-> Moisio 的主要贡献在于将[[Critical Geopolitics|批判地缘政治学]]传统延伸至知识密集型资本主义的分析，提出了一系列具有分析力的概念工具，揭示了[[Knowledge-Based Economization|知识经济化]]中空间、权力与知识的交织关系。
+> Moisio 的主要贡献在于将[[Critical Geopolitics\|批判地缘政治学]]传统延伸至知识密集型资本主义的分析，提出了一系列具有分析力的概念工具，揭示了[[Knowledge-Based Economization\|知识经济化]]中空间、权力与知识的交织关系。
 
 ### 知识经济与地缘政治分析
 
@@ -125,7 +125,7 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 ## 影响
 
 > [!success]
-> Moisio 的研究对[[Critical Geopolitics|批判地缘政治学]]、[[Cultural Political Economy|文化政治经济学]]和高等教育研究产生了跨学科影响，其概念工具被多领域学者援引和扩展。
+> Moisio 的研究对[[Critical Geopolitics\|批判地缘政治学]]、[[Cultural Political Economy\|文化政治经济学]]和高等教育研究产生了跨学科影响，其概念工具被多领域学者援引和扩展。
 
 - 延续并发展了 Jessop（2005）的[[Cultural Political Economy|文化政治经济学]]（CPE）框架和[[Knowledge-Based Economy|知识经济]]作为"想象"的分析([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
 - 将 Harvey（1985）的资本主义地缘政治理论应用于知识经济分析([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]])

@@ -49,10 +49,10 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 先发制人治理（preemptive governance）指高等教育中一种在问题实际发生之前就通过数据分析和预测算法对潜在学生进行预判、标记和干预的治理逻辑。与传统的反应性治理——学生在学业中遇到困难→辅导员介入——不同，先发制人治理将治理窗口**提前至入学之前**[[Online Self-Assessment|OSA]] 和 [[Learning Analytics|学习分析]] 系统通过构建 [[Digital Self|数字自我]] 和 [[Digital Optimum|数字最优]]，在学生还未经受任何大学教育时就识别"高风险"个体并引导其进行自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–226]])。
+> 先发制人治理（preemptive governance）指高等教育中一种在问题实际发生之前就通过数据分析和预测算法对潜在学生进行预判、标记和干预的治理逻辑。与传统的反应性治理——学生在学业中遇到困难→辅导员介入——不同，先发制人治理将治理窗口**提前至入学之前**[[Online Self-Assessment\|OSA]] 和 [[Learning Analytics\|学习分析]] 系统通过构建 [[Digital Self\|数字自我]] 和 [[Digital Optimum\|数字最优]]，在学生还未经受任何大学教育时就识别"高风险"个体并引导其进行自我优化([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.224–226]])。
 
 > [!quote]
-> "The problematic student is identified before they even become a student in the full sense of the word. In this respect, the OSA is a powerful tool of preemption."([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224,释义]])
+> "The problematic student is identified before they even become a student in the full sense of the word. In this respect, the OSA is a powerful tool of preemption."([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.224,释义]])
 
 ## 核心要素
 
@@ -83,9 +83,9 @@ updated: 2026-05-20
 ## 理论基础
 
 > [!tip]-
-> - **[[Governmentality|治理术]]** 先发制人治理是治理术在算法时代的运作形态——"行为的引导"通过数据预测和差异展示来实现，个体"自由地"选择符合治理目标的路径([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–221, 226]])
-> - **[[Societies of Control|控制社会]]** Deleuze（1992）的调制概念解释了先发制人治理的持续性——在控制社会中"解雇不再存在"，权力通过永不终止的调制运作。[[Online Self-Assessment|OSA]] 在入学前启动调制，[[Learning Analytics|学习分析]]在学习全程中持续追踪，校友网络在毕业后继续维护连接——治理窗口永不完全关闭([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
-> - **Beer 的算法治理**Beer（2016）的算法治理概念解释了[[Digital Optimum|数字最优]]如何使"通过数据的质询"（interpellation of data）成为可能——算法不发出命令，但通过不断呈现差距来塑造行为([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
+> - **[[Governmentality\|治理术]]** 先发制人治理是治理术在算法时代的运作形态——"行为的引导"通过数据预测和差异展示来实现，个体"自由地"选择符合治理目标的路径([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.220–221, 226]])
+> - **[[Societies of Control\|控制社会]]** Deleuze（1992）的调制概念解释了先发制人治理的持续性——在控制社会中"解雇不再存在"，权力通过永不终止的调制运作。[[Online Self-Assessment\|OSA]] 在入学前启动调制，[[Learning Analytics\|学习分析]]在学习全程中持续追踪，校友网络在毕业后继续维护连接——治理窗口永不完全关闭([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.221–222]])
+> - **Beer 的算法治理**Beer（2016）的算法治理概念解释了[[Digital Optimum\|数字最优]]如何使"通过数据的质询"（interpellation of data）成为可能——算法不发出命令，但通过不断呈现差距来塑造行为([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.226]])
 
 ## 在整个治理体系中的位置
 
@@ -100,7 +100,7 @@ updated: 2026-05-20
 ## 争议与批评
 
 > [!warning]
-> - **预判性身份的伦理问题** 个体在被给予机会证明自己之前就被算法标记为"高风险"——"即将失败的学生"（soon-to-be-failing-student）标签构成了 Bächle（2016, p.188）所说的"先发制人的分类"（preemptive sorting），可能演变为自我实现的预言([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
-> - **结构性不平等的遮蔽** 先发制人治理将学业失败的风险归因于个体特征的缺失（"外语经历不足"、"数学基础薄弱"），而非教育资源分配的结构性不平等。入学前的"起点差异"在自我评估框架中被转化为"个人需要弥补的不足"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
-> - **教育开放性的丧失** 当治理逻辑预设"学生的未来可以被入场数据预测"，教育的根本开放性——[[Growth|成长]]、转变、不可预测的发展——被系统性地排除在治理视野之外
+> - **预判性身份的伦理问题** 个体在被给予机会证明自己之前就被算法标记为"高风险"——"即将失败的学生"（soon-to-be-failing-student）标签构成了 Bächle（2016, p.188）所说的"先发制人的分类"（preemptive sorting），可能演变为自我实现的预言([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.225]])
+> - **结构性不平等的遮蔽** 先发制人治理将学业失败的风险归因于个体特征的缺失（"外语经历不足"、"数学基础薄弱"），而非教育资源分配的结构性不平等。入学前的"起点差异"在自我评估框架中被转化为"个人需要弥补的不足"([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.227]])
+> - **教育开放性的丧失** 当治理逻辑预设"学生的未来可以被入场数据预测"，教育的根本开放性——[[Growth\|成长]]、转变、不可预测的发展——被系统性地排除在治理视野之外
 

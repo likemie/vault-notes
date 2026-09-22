@@ -53,7 +53,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 立法政策简报（Legislative Policy Brief）指由[[National Education Policy Center|国家教育政策中心]]（[[National Education]] Policy Center, NEPC）等专业智库与[[Educational Brokerage Agency|知识中介机构]]倡导并采用的一种专业化科学传播文类。它将精炼的实证研究综合与明确的操作性政策诉求，与由执业律师依据实证结论量身起草的**法定示范条文（Model Statutory Language）**深度结合，直接向立法机构、国会常设委员会专业幕僚及法案起草员展示如何将科学研究结论转化为具备法律效力与可操作性的法案法定语言。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 46)]]
+> 立法政策简报（Legislative Policy Brief）指由[[National Education Policy Center\|国家教育政策中心]]（[[National Education]] Policy Center, NEPC）等专业智库与[[Educational Brokerage Agency\|知识中介机构]]倡导并采用的一种专业化科学传播文类。它将精炼的实证研究综合与明确的操作性政策诉求，与由执业律师依据实证结论量身起草的**法定示范条文（Model Statutory Language）**深度结合，直接向立法机构、国会常设委员会专业幕僚及法案起草员展示如何将科学研究结论转化为具备法律效力与可操作性的法案法定语言。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 专为立法起草、委员会审议与法案修正量身定制的高阶政策转化工具，核心特征在于法条化与可直接剪贴吸纳性。
@@ -61,13 +61,13 @@ updated: 2026-09-18
 > - **边界** 严格区别于面向社会大众的媒体评论或通俗科普文章，也区别于仅供学术同行评议的实证期刊论文与宽泛宏观的传统政策简报；其目标受众高度聚焦于立法决策中枢的行动者网络。
 
 > [!citation-card] 立法政策简报的独特结构与法条转化功能
-> 若希望研究成果真正被当作证据纳入政策考量，比一般政策简报写作指南更具实用价值的是立法政策简报。这类简报将传统政策简报中的研究综述和政策建议，与由执业律师起草的法定示范条文部分有机结合。法定示范条文详细说明了立法机关在法律层面上如何将实证政策建议付诸具体行动。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 46)]]
+> 若希望研究成果真正被当作证据纳入政策考量，比一般政策简报写作指南更具实用价值的是立法政策简报。这类简报将传统政策简报中的研究综述和政策建议，与由执业律师起草的法定示范条文部分有机结合。法定示范条文详细说明了立法机关在法律层面上如何将实证政策建议付诸具体行动。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 >
 > *Guides exist about how to write policy briefs... but more helpful than those, if you want your research to be appropriately considered as evidence, is the "legislative policy brief." These "combine the research syntheses and policy recommendations found in policy briefs with a section drafted by an attorney containing model statutory language. The model statutory language details how legislative bodies can act on the policy recommendations" (National Education Policy Center, 2019).*
 
 > [!boundary]- 概念边界
 > - 不等于 传统政策简报（Standard Policy Brief） 传统政策简报通常止步于宽泛的宏观政策呼吁（如“建议政府加大对某项教学干预的经费投入”），缺乏立法操作抓手；立法政策简报则必须配备具有严格法律约束力与财政合规性的正式法条草案文本（明确授权主体、资金流向、准入资质门槛与违规责任）。
-> - 不等于 学术研究综述（[[Systematic Review]] / Journal Article） 学术论文以追求[[Internal Validity|内部效度]]、方法细节与审慎探讨测量局限为核心，充斥大量免责与存疑修饰词；立法政策简报则贯彻极简定调原则，剔除使决策者陷入困惑的冗余学术免责，直接亮明实证断言。
+> - 不等于 学术研究综述（[[Systematic Review]] / Journal Article） 学术论文以追求[[Internal Validity\|内部效度]]、方法细节与审慎探讨测量局限为核心，充斥大量免责与存疑修饰词；立法政策简报则贯彻极简定调原则，剔除使决策者陷入困惑的冗余学术免责，直接亮明实证断言。
 
 ---
 
@@ -90,7 +90,7 @@ updated: 2026-09-18
 > [!feature] 立法政策简报的核心三要素
 > - **精炼的研究综合（Targeted Research Synthesis）** 剔除枝节与繁复统计细节，直击与当前立法议程直接相关的核心因果事实，重点回答“该干预对目标群体是否有效、在何种情境下有效”。
 > - **操作性政策诉求（Actionable Policy Ask）** 明确提出立法机构应采取的具体行动路线，清晰界定财政拨付形式、受益对象门槛与配套监管权责。
-> - **法定示范条文（Model Statutory Language）** 聘请专业法学顾问介入，依据实证发现起草标准的立法法条，包含定义条款、专项授权条款、合规性审计要求及日落条款，实现学术证据向国家法典的无缝对接。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 46)]]
+> - **法定示范条文（Model Statutory Language）** 聘请专业法学顾问介入，依据实证发现起草标准的立法法条，包含定义条款、专项授权条款、合规性审计要求及日落条款，实现学术证据向国家法典的无缝对接。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!tension-table] 政策传播中的“学术审慎”与“立法定调”张力
 > | 维度 | 学术界同行评议规范 | 立法机关决策生态现实 |
@@ -102,7 +102,7 @@ updated: 2026-09-18
 > [!rule] 国会山极简传播纪律与“诉求的艺术”
 > - **克服信息过度供给（Information Overload）** 索里安与鲍格（Sorian & Baugh, 2002）针对全美近 300 名州政府高级政策制定者开展的大规模实证调研显示，学术界向政策界传递信息时普遍存在严重的“过度供给”倾向，决策者被海量繁复的技术细节淹没。
 > - **“少即是多”与一页纸纪律（One-Page Handout）** 决策者极度渴求直击要害、高度浓缩的信息输入。简报必须在 1 页纸篇幅内以清晰图表和精炼要点交代背景、证据与法条诉求。
-> - **诉求的艺术（The Art of the Ask）** 研究者必须掌握在与幕僚[[Dialogue in Education|对话]]的 3 分钟窗口内，精准亮明身份、简述证据、出示示范法条文本并清晰提出立法请求的沟通技巧。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 46)]]
+> - **诉求的艺术（The Art of the Ask）** 研究者必须掌握在与幕僚[[Dialogue in Education\|对话]]的 3 分钟窗口内，精准亮明身份、简述证据、出示示范法条文本并清晰提出立法请求的沟通技巧。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 ---
 

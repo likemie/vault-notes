@@ -54,12 +54,12 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 知情同意
-> 知情同意（informed consent）是[[Research Ethics|研究伦理]]的基本程序：研究者在收集数据之前，须向潜在参与者提供书面文件，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。Diener & Crandall (1978, p. 57) 将其定义为"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 77–79]]）。
+> 知情同意（informed consent）是[[Research Ethics\|研究伦理]]的基本程序：研究者在收集数据之前，须向潜在参与者提供书面文件，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。Diener & Crandall (1978, p. 57) 将其定义为"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 77–79]]）。
 >
-> 参与是自愿的，研究者不得强迫参与者签署同意书。知情同意既是法律要求（美国 共同规则（[[Common Rule 2018|Common Rule]]） 对 [[Institutional Review Board|IRB]] 审批的规定），也是研究伦理的基石。它的边界在于：不等于一次性签字即告完成——在质性、[[Emergence|涌现]]性研究中必须持续协商；也不等于 [[Institutional Review Board|IRB]] 审批，后者是机构层面的审查机制。在 [[University-Industry Collaboration|产学合作]]中，因共同规则的大学-企业适用不对称，知情同意成为协议谈判中的不可协商前提。
+> 参与是自愿的，研究者不得强迫参与者签署同意书。知情同意既是法律要求（美国 共同规则（[[Common Rule 2018\|Common Rule]]） 对 [[Institutional Review Board\|IRB]] 审批的规定），也是研究伦理的基石。它的边界在于：不等于一次性签字即告完成——在质性、[[Emergence\|涌现]]性研究中必须持续协商；也不等于 [[Institutional Review Board\|IRB]] 审批，后者是机构层面的审查机制。在 [[University-Industry Collaboration\|产学合作]]中，因共同规则的大学-企业适用不对称，知情同意成为协议谈判中的不可协商前提。
 
 > [!quote]
-> "Participation in a study is voluntary, and this needs explanation in the informed consent form instructions."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）
+> "Participation in a study is voluntary, and this needs explanation in the informed consent form instructions."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）
 
 ---
 
@@ -108,11 +108,11 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 ### 知情同意书的标准构成要素
 
-> [!info] 九项标准构成要素（Sarantakos, 2005; 引自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+> [!info] 九项标准构成要素（Sarantakos, 2005; 引自 [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）：
 >
 > 1. **研究者身份** 明确说明谁在开展这项研究
 > 2. **资助机构身份** 说明研究的资助方或隶属机构
-> 3. **[[Research Purpose|研究目的]]** 用通俗语言说明研究的总体目标
+> 3. **[[Research Purpose\|研究目的]]** 用通俗语言说明研究的总体目标
 > 4. **参与收益** 说明参与者可以从研究中获得什么
 > 5. **参与程度和类型** 说明参与者需要做什么、花多少时间
 > 6. **潜在风险声明** 如实告知可能的风险
@@ -125,11 +125,11 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 ## 儿童与弱势群体
 
 > [!warning] 与儿童的权力不对称
-> 许多教育研究涉及无法与研究者处于平等地位的儿童。Fine & Sandstrom (1988) 建议：尽管缩小儿童与成人研究者之间的权力差距是可取的，但这种差异仍然存在，其消除可能在伦理上是不可取的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 79–82]]）。
+> 许多教育研究涉及无法与研究者处于平等地位的儿童。Fine & Sandstrom (1988) 建议：尽管缩小儿童与成人研究者之间的权力差距是可取的，但这种差异仍然存在，其消除可能在伦理上是不可取的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 79–82]]）。
 
 > [!timeline] 未成年人的知情同意两阶段
 > - **第一阶段：征询负责成年人的许可**
->   联系家长、教师、导师、心理医生、青年领袖或团队教练。[[Research Purpose|研究目的]]被解释，问题被邀请，异议被尊重。
+>   联系家长、教师、导师、心理医生、青年领袖或团队教练。[[Research Purpose\|研究目的]]被解释，问题被邀请，异议被尊重。
 > - **第二阶段：征询儿童本人的许可**
 >   儿童必须被给予真实和合法的机会说他们不想参加。
 
@@ -140,18 +140,18 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > - **无论研究性质如何** 如果儿童表现出不适或压力的迹象，研究应立即终止
 
 > [!def] 弱势群体
-> Oliver (2003, pp. 35–36) 将弱势群体定义为"那些可能没有所需的理解程度（无论什么原因）以对参与研究给予知情同意的个人或人群类别"。这包括成人、残障人士、不能说话／看见／听见者、住院者、受照护者、自闭症患者等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 79–82]]）。
+> Oliver (2003, pp. 35–36) 将弱势群体定义为"那些可能没有所需的理解程度（无论什么原因）以对参与研究给予知情同意的个人或人群类别"。这包括成人、残障人士、不能说话／看见／听见者、住院者、受照护者、自闭症患者等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 79–82]]）。
 
 ---
 
 
 ## 操作注意事项
 
-> [!pathways] 知情同意书的实操要点（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+> [!pathways] 知情同意书的实操要点（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）：
 >
 > 1. 在邀请函中附上资助方名称，以充分披露研究背景
 > 2. 不强求参与者签署，告知参与者有权拒绝签署
-> 3. 在数据收集开始时再次提醒参与者[[Research Purpose|研究目的]]，防止参与者产生被欺骗感
+> 3. 在数据收集开始时再次提醒参与者[[Research Purpose\|研究目的]]，防止参与者产生被欺骗感
 > 4. 对于弱势群体（如儿童），需同时获得监护人的同意和儿童本人的同意（assent）
 > 5. 对原住民群体，须联系部落首领，让他们参与研究的各个阶段，并尊重部落文化和章程
 
@@ -161,7 +161,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 ### 产学合作中的不对称性
 
-> [!contrast-table] 制度不对称：共同规则的大学-企业适用差异（[[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.265]]）
+> [!contrast-table] 制度不对称：共同规则的大学-企业适用差异（[[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.265]]）
 > | 维度 | 企业侧 | 大学侧 |
 > |---|---|---|
 > | **适用共同规则？** | **不需要**遵守，也不需要通过 [[Institutional Review Board\|IRB]] 审查和获取知情同意 | **必须**使用自己的 IRB 进行审查，按共同规则标准获取知情同意 |
@@ -170,36 +170,36 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 
 > [!implication]- 实践后果
-> 1. [[University-Industry Collaboration|产学合作]]可能将企业不习惯遵守的法规引入其研究活动。对于习惯了内部研发灵活性的企业，IRB 的审查周期和知情同意流程可能构成意外的延迟和额外约束
+> 1. [[University-Industry Collaboration\|产学合作]]可能将企业不习惯遵守的法规引入其研究活动。对于习惯了内部研发灵活性的企业，IRB 的审查周期和知情同意流程可能构成意外的延迟和额外约束
 > 2. 在协议谈判中，大学应将 IRB 审查的时间线和知情同意的要求作为不可协商的前提条件，因为遵守共同规则是大学在联邦法律层面的义务
 > 3. 企业在进入涉及人类受试者的产学合作之前，需要提前了解 IRB 审查和知情同意程序的时间成本，将其纳入项目时间表的预期之中
 
 > [!case] 典型情境
-> 一家科技公司希望赞助大学的用户体验研究，涉及人类受试者使用新软件的行为观察。公司内部研发团队做类似研究时无需 IRB 审批，直接招募测试者即可。但如果以[[Sponsored Research Agreement|赞助研究协议]]形式通过大学开展，大学 IRB 将介入——审查研究方案、要求提交知情同意书、可能要求修改数据收集程序或参与者招募方式。这一过程可能额外增加数周到数月的时间。公司如果在项目规划时未预见这一环节，可能在执行阶段遭遇严重的进度延迟（[[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025]]）。
+> 一家科技公司希望赞助大学的用户体验研究，涉及人类受试者使用新软件的行为观察。公司内部研发团队做类似研究时无需 IRB 审批，直接招募测试者即可。但如果以[[Sponsored Research Agreement\|赞助研究协议]]形式通过大学开展，大学 IRB 将介入——审查研究方案、要求提交知情同意书、可能要求修改数据收集程序或参与者招募方式。这一过程可能额外增加数周到数月的时间。公司如果在项目规划时未预见这一环节，可能在执行阶段遭遇严重的进度延迟（[[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025]]）。
 
 ---
 ## 争议与批评
 
-> [!debates] 反对知情同意的学术争议（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 82–84]]）
+> [!debates] 反对知情同意的学术争议（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 82–84]]）
 >
 > > [!abstract] 方法兼容性争议
 > > 核心问题是：某些研究方法的内在逻辑是否与知情同意的要求根本冲突？支持者认为知情同意是所有研究的底线程序，反对者则认为特定方法若不突破此程序将无法执行。
 > >
-> > - **Patrick（格拉斯哥帮派研究）** 隐蔽观察本质上无法事先告知参与者，否则研究对象将不复存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 82)]]
+> > - **Patrick（格拉斯哥帮派研究）** 隐蔽观察本质上无法事先告知参与者，否则研究对象将不复存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|(Cohen et al., 2011, p. 82)]]
 > > - **Milgram（1963）** 服从权威实验中的欺骗技术若提前告知参与者，实验情境将无法成立。
-> > - **Oliver（2003, p. 53）** 知情同意可能带来[[Hawthorne Effect|霍桑效应]]——告知参与者研究可能干扰其自然行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
+> > - **Oliver（2003, p. 53）** 知情同意可能带来[[Hawthorne Effect\|霍桑效应]]——告知参与者研究可能干扰其自然行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|(Cohen et al., 2011, p. 83)]]
 >
-> > [!abstract] [[Qualitative Research|质性研究]]适用性争议
-> > 核心问题是：知情同意是否适配质性研究的[[Emergence|涌现]]性和开放性特征？反对者认为同意应是持续的协商过程，而非一次性签署。
+> > [!abstract] [[Qualitative Research\|质性研究]]适用性争议
+> > 核心问题是：知情同意是否适配质性研究的[[Emergence\|涌现]]性和开放性特征？反对者认为同意应是持续的协商过程，而非一次性签署。
 > >
-> > - **Wax（1982, p. 44）** 知情同意对质性研究既太多又太少：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中过度谨慎且具有破坏性，同时[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西——信任、参与者的积极协助和同事关系。
+> > - **Wax（1982, p. 44）** 知情同意对质性研究既太多又太少：在[[Qualitative Research\|质性研究]]的[[Emergence\|涌现]]性情境中过度谨慎且具有破坏性，同时[[Fieldwork\|田野研究]]者往往需要比知情同意多得多的东西——信任、参与者的积极协助和同事关系。
 > > - **持续协商派** 知情同意不是一次性程序，在质性的、涌现性的研究中必须持续协商，而非一次性签署。
-> > - **数据丰富性派** 寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据——参与者可能更加警惕他们披露的内容。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 83–84)]]
+> > - **数据丰富性派** 寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据——参与者可能更加警惕他们披露的内容。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|(Cohen et al., 2011, pp. 83–84)]]
 >
 > > [!abstract] 排斥与覆盖范围争议
 > 核心问题是：正式知情同意是否会导致研究回避脆弱群体和社区层面的伦理问题？
 > >
-> > - **Humphreys（1975, p. 169）** 正式知情同意可能导致研究只关注容易研究的主题，忽视脆弱和排斥群体。一个社会科学家对这个人能做的最大的伤害就是忽视他。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 84)]]
+> > - **Humphreys（1975, p. 169）** 正式知情同意可能导致研究只关注容易研究的主题，忽视脆弱和排斥群体。一个社会科学家对这个人能做的最大的伤害就是忽视他。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|(Cohen et al., 2011, p. 84)]]
 > > - **Howe & Moses（1999, pp. 33–34）** 知情同意不仅意味着个体的同意，还包括社区的同意——由个体社区成员来给予知情同意让社会研究者窥视社区的社会生活，并非总是他们能给予的。
 
 ---
@@ -209,11 +209,11 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 在[[Sensitive Research|敏感研究]]中，知情同意的伦理张力被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 210–212]]）。
 
-> [!tension] 知情同意 vs [[Research Practicability|研究可行性]]
+> [!tension] 知情同意 vs [[Research Practicability\|研究可行性]]
 > - **知情同意作为不可协商的底线** 不获得知情同意可能导致参与者感到被欺骗、被剥削和被利用。当研究结果最终发表、参与者意识到自己未经同意就被研究时，研究者被视为捕食者（Lee, 1993, p. 157），利用研究作为地位和职业晋升的工具。
 > - **放弃知情同意以获取否则无法获得的数据** 如果研究者向暴力教师寻求研究其暴力行为的知情同意，研究几乎不可能开展。但如果研究者请求研究学生课堂行为而隐瞒真实目的（研究教师暴力），准入更可能获得批准。从学生、学校乃至暴力教师自身的利益出发，暴露问题是重要的，且需要证据基础（p.210）。
 
-> [!claim] [[Covert Research|隐蔽研究]]的知情同意悖论
+> [!claim] [[Covert Research\|隐蔽研究]]的知情同意悖论
 > 在有权者控制准入和参与者生活其他方面的情境中（Munro et al., 2004, p. 302; Morrison, 2006），隐蔽研究或欺骗可能是获取真实数据的唯一途径。伦理守则虽然质疑欺骗，但并不完全禁止。底线是：违反知情同意必须基于对公共利益的严格论证，而非研究者的便利（pp.210–211）。
 
 Lee (1993, p. 139) 进一步指出，一些参与者可能故意制造让研究者获得[[Guilty Knowledge|有罪知识]]的情境以测试研究者的忠诚——信任测试（trust tests）。在这种情境下，知情同意的标准程序可能无法覆盖田野中实际发生的伦理动态。
@@ -228,7 +228,7 @@ Lee (1993, p. 139) 进一步指出，一些参与者可能故意制造让研究�
 [[Visual Research Methods|视觉研究方法]]及其产生的数据对以文字与数字为基础的[[Research Ethics|研究伦理]]实践提出挑战，尤其在知情同意、匿名与保密以及传播策略方面；视觉研究的伦理发展比数字与文本研究更不成熟（Prosser et al., 2008, p. 2）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.5)]]
 
 > [!challenges] 视觉研究者获取知情同意的七个挑战（Prosser et al., 2008, pp. 12–14）
-> 1. 获取知情同意并非总是恰当的（如[[Covert Research|隐蔽研究]]或监控工作）。
+> 1. 获取知情同意并非总是恰当的（如[[Covert Research\|隐蔽研究]]或监控工作）。
 > 2. 在不同文化或不同群体（如儿童）中，知情与同意的含义可能不同。
 > 3. 并不总是清楚谁实际上有权给予所寻求的同意（如儿童或教师的案例）。
 > 4. 可能无法在实践上获得图像中人物的同意（如公共场所、摄影新闻）。
@@ -245,5 +245,5 @@ Lee (1993, p. 139) 进一步指出，一些参与者可能故意制造让研究�
 ## 相关案例／政策
 
 > [!info] 法规与守则
-> - 美国联邦法规（共同规则, 45 CFR 46）规定了 [[Institutional Review Board|IRB]] 审批和知情同意的法律框架
-> - 各专业协会（[[APA Style|APA]]、[[American Educational Research Association|AERA]]、ASA 等）的伦理守则均将知情同意列为强制性程序
+> - 美国联邦法规（共同规则, 45 CFR 46）规定了 [[Institutional Review Board\|IRB]] 审批和知情同意的法律框架
+> - 各专业协会（[[APA Style\|APA]]、[[American Educational Research Association\|AERA]]、ASA 等）的伦理守则均将知情同意列为强制性程序

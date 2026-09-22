@@ -44,7 +44,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 通约（Commensuration）指将不同性质、不同质态的异质事物转化为基于共同公分母或标准化尺度的可比较、通常是量化指标的社会建构过程（Espeland & Stevens, 1998）。在教育治理与学校监测中，通约机制通过脱域化[[Coding in Qualitative Research|编码]]与算法建模，将复杂的学校生态、生源背景、教学质量及财政支出统一折算为可横向排序与统计对照的数值指标，为政策干预、资源再分配与外部问责提供依据[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3, 6–7)]]。
+> 通约（Commensuration）指将不同性质、不同质态的异质事物转化为基于共同公分母或标准化尺度的可比较、通常是量化指标的社会建构过程（Espeland & Stevens, 1998）。在教育治理与学校监测中，通约机制通过脱域化[[Coding in Qualitative Research\|编码]]与算法建模，将复杂的学校生态、生源背景、教学质量及财政支出统一折算为可横向排序与统计对照的数值指标，为政策干预、资源再分配与外部问责提供依据[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 3, 6–7)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向异质质态向单一量化尺度的折算机制及其背后涉及的社会、政治与价值权重裁决。
@@ -52,12 +52,12 @@ updated: 2026-09-18
 > - **边界** 区别于纯数学单位换算，通约本质上是一种充满政治协商与制度权衡的社会实践，并非客观中立的纯技术测量。
 
 > [!citation-card] 通约的社会本质与治理制造
-> 州级学校监测实践中的关键机制在于制造通约，即把不同的质态转化为可比较的量化指标。然而，通约需要大量的组织协调、决断与权重赋予，这些在很大程度上意味着将数字同规范、价值及政治相互连接。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, p. 3)]]
+> 州级学校监测实践中的关键机制在于制造通约，即把不同的质态转化为可比较的量化指标。然而，通约需要大量的组织协调、决断与权重赋予，这些在很大程度上意味着将数字同规范、价值及政治相互连接。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 3)]]
 >
 > *As our empirical observations will show, a key mechanism within the doing of state school monitoring is the fabrication of commensuration, which is the transformation of different qualities into comparable, usually quantified metrics (Espeland & Stevens, 1998). At the same time, however, commensuration requires enormous organisation, decision-making and weighting which, as many of our interviewees reported, can pose significant challenges (which are mostly externally invisible).*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Incommensurability|不可通约性]]（Incommensurability）：不可通约性强调不同[[Paradigm|范式]]或价值之间由于缺乏共享评价标准而无法折算比较；通约则是制度行动者克服不可通约性、强制建立共有基准的社会工程。
+> - 不等于 [[Incommensurability\|不可通约性]]（Incommensurability）：不可通约性强调不同[[Paradigm\|范式]]或价值之间由于缺乏共享评价标准而无法折算比较；通约则是制度行动者克服不可通约性、强制建立共有基准的社会工程。
 > - 不等于 一般性数据统计：一般统计仅呈现数值分布；通约特指将质性差异消除并建立等价交换或排序关系的权力化过程。
 
 ---
@@ -77,18 +77,18 @@ updated: 2026-09-18
 
 > [!feature] 通约机制在教育监测中的运作维度
 > - **脱域化公分母建构**
->   将具有丰富历史、空间与文化特性的学校社区特征，简化为标准化[[Variable|变量]]（如社会经济地位指数、出勤率、统考切分点分数），切断数据与具体微观教育情境的联系[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 4, 6)]]。
+>   将具有丰富历史、空间与文化特性的学校社区特征，简化为标准化[[Variable\|变量]]（如社会经济地位指数、出勤率、统考切分点分数），切断数据与具体微观教育情境的联系[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4, 6)]]。
 > - **统计“公平比较”替代地域直观比较**
->   利用全域集中数据库与算法模型，跨越地理邻近性，将学校与全州范围内统计特征最相似的“统计双胞胎”进行对标比较（如汉堡社会指数分级匹配、马萨诸塞州 RADAR/DART 统计同伴组），重构学校的参照群体认知[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 6–7)]]。
+>   利用全域集中数据库与算法模型，跨越地理邻近性，将学校与全州范围内统计特征最相似的“统计双胞胎”进行对标比较（如汉堡社会指数分级匹配、马萨诸塞州 RADAR/DART 统计同伴组），重构学校的参照群体认知[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 6–7)]]。
 > - **微小决策放大为宏观治理后果**
->   在构建通约指标时，算法过滤规则、指标纳入与权重分配等表面上的技术微调（如决定是否纳入学校氛围调查、如何设定年度改善期望值），实质上是权威性裁定哪些学校合格、哪些学校需要国家行政接管的政治决策[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3, 9)]]。
+>   在构建通约指标时，算法过滤规则、指标纳入与权重分配等表面上的技术微调（如决定是否纳入学校氛围调查、如何设定年度改善期望值），实质上是权威性裁定哪些学校合格、哪些学校需要国家行政接管的政治决策[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 3, 9)]]。
 
 ---
 
 ## 围绕概念形成的命题
 
-> [!claim] 通约是兼具能力赋权与控制延伸的社会-技术[[Assemblage|装配]]
-> 通约机制赋予了中央行政机关全景透视教育系统的能力，但这种治理能力依赖于对教育质态的高度剪裁与还原；一旦度量标准固化，将不可避免地导致现实与度量之间的脱节，引发学校主体的系统性博弈行为[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 7, 9–10)]]。
+> [!claim] 通约是兼具能力赋权与控制延伸的社会-技术[[Assemblage\|装配]]
+> 通约机制赋予了中央行政机关全景透视教育系统的能力，但这种治理能力依赖于对教育质态的高度剪裁与还原；一旦度量标准固化，将不可避免地导致现实与度量之间的脱节，引发学校主体的系统性博弈行为[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 7, 9–10)]]。
 
 ---
 

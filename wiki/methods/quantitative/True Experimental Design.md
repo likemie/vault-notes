@@ -58,39 +58,39 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 真实验设计
-> 真实验设计（True [[Experimental Research|experimental design]]）是[[Internal Validity|内部效度]]最高的实验设计类别，必须具备以下**全部八个特征**，缺少任何一个即降级为准实验：一个或多个控制组；一个或多个实验组；[[Random Assignment|随机分配]]至各组；[[Pre-test and Post-test|前测]]以保证等价；后测以观察[[Dependent Variable|因变量]]效应；对实验组施加干预；隔离、控制和操纵[[Independent Variable|自变量]]；控制组与实验组不相互污染（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 317]]）。
+> 真实验设计（True [[Experimental Research\|experimental design]]）是[[Internal Validity\|内部效度]]最高的实验设计类别，必须具备以下**全部八个特征**，缺少任何一个即降级为准实验：一个或多个控制组；一个或多个实验组；[[Random Assignment\|随机分配]]至各组；[[Pre-test and Post-test\|前测]]以保证等价；后测以观察[[Dependent Variable\|因变量]]效应；对实验组施加干预；隔离、控制和操纵[[Independent Variable\|自变量]]；控制组与实验组不相互污染（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 317]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至控制组和实验组的参与者。
 > - **问题类型** X 是否导致了 Y？干预的因果效应大小和方向如何？
-> - **[[Unit of Analysis|分析单位]]** 个体参与者，随机分配至实验条件。
-> - **输出形式** 因果效应估计量、[[Effect Size|效应量]]、[[Statistical Significance|统计显著性]]检验。
+> - **[[Unit of Analysis\|分析单位]]** 个体参与者，随机分配至实验条件。
+> - **输出形式** 因果效应估计量、[[Effect Size\|效应量]]、[[Statistical Significance\|统计显著性]]检验。
 
 ## 方法定位
 
 > [!method-position] 在实验设计谱系中的位置
-> - **与准实验的区分** 唯一的、决定性的区分标准是[[Random Assignment|随机分配]]——真实验具备完整的随机化，准实验缺失或部分缺失随机化。Smith (1991, p. 215) 指出：随机化在全部[[Variable|变量]]范围内产生等价性，而匹配只覆盖少数命名变量。
-> - **有效性标准** [[Internal Validity|内部效度]]最高——Campbell & Stanley (1963) 认为[[Pretest-Posttest Control Group Design|前后测控制组设计]]能控制所有[[Threats to Internal Validity|内部效度威胁]]。
-> - **不能回答的问题** 高度受控的实验发现能否推广到真实教室和社区（[[Ecological Validity|生态效度]]）？
+> - **与准实验的区分** 唯一的、决定性的区分标准是[[Random Assignment\|随机分配]]——真实验具备完整的随机化，准实验缺失或部分缺失随机化。Smith (1991, p. 215) 指出：随机化在全部[[Variable\|变量]]范围内产生等价性，而匹配只覆盖少数命名变量。
+> - **有效性标准** [[Internal Validity\|内部效度]]最高——Campbell & Stanley (1963) 认为[[Pretest-Posttest Control Group Design\|前后测控制组设计]]能控制所有[[Threats to Internal Validity\|内部效度威胁]]。
+> - **不能回答的问题** 高度受控的实验发现能否推广到真实教室和社区（[[Ecological Validity\|生态效度]]）？
 
 > [!method-stack] 方法层级
-> - **研究设计** 随机分配 + 控制组 + [[Pre-test and Post-test|前测]] + 干预 + 后测（及其变体）。
+> - **研究设计** 随机分配 + 控制组 + [[Pre-test and Post-test\|前测]] + 干预 + 后测（及其变体）。
 > - **数据收集** 前测和后测的定量数据。
-> - **分析方法** t 检验、[[Analysis of Variance|ANOVA]]、[[Analysis of Covariance|ANCOVA]]、[[Effect Size|效应量]]计算。
-> - **辅助技术** 随机数生成器、[[Blinding|盲法]]、安慰剂。
+> - **分析方法** t 检验、[[Analysis of Variance\|ANOVA]]、[[Analysis of Covariance\|ANCOVA]]、[[Effect Size\|效应量]]计算。
+> - **辅助技术** 随机数生成器、[[Blinding\|盲法]]、安慰剂。
 
 ## 研究程序
 
-> [!feature] 真实验的八个[[Necessary and Sufficient Conditions|必要条件]]
+> [!feature] 真实验的八个[[Necessary and Sufficient Conditions\|必要条件]]
 > 缺少任何一个即降级为准实验（p. 317）：
 >
 > 1. 一个或多个控制组
 > 2. 一个或多个实验组
-> 3. [[Random Assignment|随机分配]]至控制组和实验组
-> 4. [[Pre-test and Post-test|前测]]（pre-test）以保证各组等价
-> 5. 后测（POST-test）以观察对[[Dependent Variable|因变量]]的效应
+> 3. [[Random Assignment\|随机分配]]至控制组和实验组
+> 4. [[Pre-test and Post-test\|前测]]（pre-test）以保证各组等价
+> 5. 后测（POST-test）以观察对[[Dependent Variable\|因变量]]的效应
 > 6. 对实验组施加一个或多个干预
-> 7. 隔离、控制和操纵[[Independent Variable|自变量]]
+> 7. 隔离、控制和操纵[[Independent Variable\|自变量]]
 > 8. 控制组与实验组不相互污染（non-contamination）
 
 > [!contrast-table] 真实验的主要设计变体
@@ -106,16 +106,16 @@ updated: 2026-09-17
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 可以[[Random Assignment|随机分配]]参与者时；需要最高[[Internal Validity|内部效度]]的[[Causality|因果推断]]时；[[Research Question|研究问题]]适合在受控环境中检验时。
+> - **适合使用** 可以[[Random Assignment\|随机分配]]参与者时；需要最高[[Internal Validity\|内部效度]]的[[Causality\|因果推断]]时；[[Research Question\|研究问题]]适合在受控环境中检验时。
 > - **谨慎使用** 当随机分配在伦理或实践上不可行时——降级至准实验。
-> - **不适合使用** 研究问题需要高度自然情境时（[[Ecological Validity|生态效度]]优先于内部效度）；无法满足伦理要求时。
+> - **不适合使用** 研究问题需要高度自然情境时（[[Ecological Validity\|生态效度]]优先于内部效度）；无法满足伦理要求时。
 
 ## 局限性
 
 > [!method-limits]
-> - **[[Ecological Validity|生态效度]]受限** 实验室或高度受控情境的发现可能不适用于真实教育情境（Hammersley, 2008, p. 4）。
+> - **[[Ecological Validity\|生态效度]]受限** 实验室或高度受控情境的发现可能不适用于真实教育情境（Hammersley, 2008, p. 4）。
 > - **伦理约束** 拒绝控制组获得可能有益的干预存在伦理争议（Gorard, 2001b, p. 146）。
-> - **复杂理论的挑战** Morrison (2001) 指出在动态、演化的开放系统中保持[[Variable|变量]]恒定是误导性的。
+> - **复杂理论的挑战** Morrison (2001) 指出在动态、演化的开放系统中保持[[Variable\|变量]]恒定是误导性的。
 
 ## 相关理论与方法
 
@@ -129,5 +129,5 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍真实验设计的八个[[Necessary and Sufficient Conditions|必要条件]]、七种主要变体、与准实验的区分标准，以及 Bhadwal & Panda (1991) 印度农村阅读研究的真实验案例。
+> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 系统介绍真实验设计的八个[[Necessary and Sufficient Conditions\|必要条件]]、七种主要变体、与准实验的区分标准，以及 Bhadwal & Panda (1991) 印度农村阅读研究的真实验案例。

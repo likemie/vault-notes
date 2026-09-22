@@ -77,11 +77,11 @@ updated: 2026-09-16
 > [!instrument-profile] CONSORT-SPI
 > - **工具类型** 方法学报告规范与偏倚核查清单（Checklist）。
 > - **开发者与年份** Montgomery et al. (2018)。
-> - **测量目的** 规范社会科学、行为科学、心理学及教育学领域[[Randomised Controlled Trials|随机对照试验]]（RCT）的方案设计、[[Statistical Analysis Plan|统计分析计划]]（SAP）及最终评估报告，防范[[Publication Bias|发表偏倚]]与选择性结果报告，提升因果证据的透明度、可复现性与实践迁移效度。
+> - **测量目的** 规范社会科学、行为科学、心理学及教育学领域[[Randomised Controlled Trials\|随机对照试验]]（RCT）的方案设计、[[Statistical Analysis Plan\|统计分析计划]]（SAP）及最终评估报告，防范[[Publication Bias\|发表偏倚]]与选择性结果报告，提升因果证据的透明度、可复现性与实践迁移效度。
 > - **实施方式** 由试验研究团队自查填写、同行评议专家审核，或由资助机构与系统评价员用于核查试验报告要素完整性。
 
 > [!citation-card] 试验报告标准演进与透明度规程
-> 为最大程度降低选择性报告（即排除负面或不利结果所产生的偏倚），[[Education Endowment Foundation|EEF]] 要求每项试验的[[Preregistration|预注册]]方案与统计分析计划（SAP）均须在官方网站发布，并在 [[ISRCTN]] 等一级[[Clinical Trial|临床试验]]注册库完成注册。EEF 于 2013 年发布的初代方案与报告模板基于 CONSORT 标准（Shulz et al., 2010），随后持续更新以反映最新的社会与心理干预报告标准（Montgomery et al., 2018）。无论成效如何，EEF 的所有试验结果均无条件公开。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 52)]]
+> 为最大程度降低选择性报告（即排除负面或不利结果所产生的偏倚），[[Education Endowment Foundation\|EEF]] 要求每项试验的[[Preregistration\|预注册]]方案与统计分析计划（SAP）均须在官方网站发布，并在 [[ISRCTN]] 等一级[[Clinical Trial\|临床试验]]注册库完成注册。EEF 于 2013 年发布的初代方案与报告模板基于 CONSORT 标准（Shulz et al., 2010），随后持续更新以反映最新的社会与心理干预报告标准（Montgomery et al., 2018）。无论成效如何，EEF 的所有试验结果均无条件公开。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 >
 > *"For this reason and to minimize selective reporting (i.e., the bias that derives from the exclusion of negative or undesirable results), the EEF requires a prespecified protocol and statistical analysis plan for every trial to be published on its website and the trial registered on ISRCTN registry, a primary clinical trial registry. The first EEF protocol and reporting templates were published in 2013, based on CONSORT standards (Shulz et al., 2010), and have been updated since to reflect changing standards (Montgomery et al., 2018). All EEF’s findings are published, whatever the result (Nevill, 2016)."*
 

@@ -42,7 +42,7 @@ updated: 2026-09-18
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
+> - **身份位置** Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism\|激进建构主义]]（Radical Constructivism）创始人。他将[[Constructivist Paradigm\|建构主义]][[Epistemology\|认识论]]从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
 
 ## 生平与职涯
 
@@ -56,12 +56,12 @@ updated: 2026-09-18
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Glasersfeld, E. von (1995). *[[Radical Constructivism]]: A way of knowing and learning*. New York, NY: The Falmer Press. — [[Radical Constructivism|激进建构主义]]的系统哲学陈述
+> - Glasersfeld, E. von (1995). *[[Radical Constructivism]]: A way of knowing and learning*. New York, NY: The Falmer Press. — [[Radical Constructivism\|激进建构主义]]的系统哲学陈述
 
 ## 核心思想
 
 > [!info] 核心思想
-> [[Radical Constructivism|激进建构主义]]的核心立场：所有学习和知识都是主观建构，外部世界、文化、政治和规范在[[Epistemology|认识论]]上被排除([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7]])。
+> [[Radical Constructivism\|激进建构主义]]的核心立场：所有学习和知识都是主观建构，外部世界、文化、政治和规范在[[Epistemology\|认识论]]上被排除([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.7]])。
 >
 > > "Learning must in the last instance be done by the individual himself—solipsistic!"（Bjørgen, 2000, p.236，转引自 Rømer, 2018, p.7）
 >
@@ -71,13 +71,13 @@ updated: 2026-09-18
 
 > [!success] 主要贡献
 > - [[Radical Constructivism]] — 创始人，将知识定义为个体主观建构，排除外部世界
-> - 影响了 1990 年代学习理论的重要[[Paradigm|范式]]转向
-> - 其[[Epistemology|认识论]]立场被 [[John Hattie]] 的 [[Visible Learning]] 全面接受并作为理论基础([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7-8]])
-> - 也被 [[Niklas Luhmann]] 的系统理论引用和赞赏（Luhmann, 1998，转引自 [[Argument_Rømer_2018_EPT|Rømer, 2018, p.11, note 6]]）
+> - 影响了 1990 年代学习理论的重要[[Paradigm\|范式]]转向
+> - 其[[Epistemology\|认识论]]立场被 [[John Hattie]] 的 [[Visible Learning]] 全面接受并作为理论基础([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.7-8]])
+> - 也被 [[Niklas Luhmann]] 的系统理论引用和赞赏（Luhmann, 1998，转引自 [[Argument_Rømer_2018_EPT\|Rømer, 2018, p.11, note 6]]）
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **规范性缺失**[[Radical Constructivism|激进建构主义]]无法区分好知识与坏知识、知识与谬误，使教育判断失去基础([[Argument_Rømer_2018_EPT|Rømer, 2018, p.6-7]])
+> - **规范性缺失**[[Radical Constructivism\|激进建构主义]]无法区分好知识与坏知识、知识与谬误，使教育判断失去基础([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.6-7]])
 > - **外部世界的消解** Rømer 论证 Glasersfeld 的唯我论前提使教育中的社会、政治、文化和科学维度全部退场
-> - **与科学实在论的对立**Popper 的哲学代表了 Glasersfeld 立场的精确对立面，Hattie 试图桥接两者的努力因此注定失败([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])
+> - **与科学实在论的对立**Popper 的哲学代表了 Glasersfeld 立场的精确对立面，Hattie 试图桥接两者的努力因此注定失败([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.10-11]])

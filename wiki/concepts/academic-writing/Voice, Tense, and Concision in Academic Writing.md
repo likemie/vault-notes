@@ -34,7 +34,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> Franklin (1986) 三阶段写作模型的第三阶段是"打磨"（polish），聚焦句子和词语层面的语言选择。在这一层面，三项规范共同决定学术文本的可读性：主动语态的使用、动词时态的选择，以及多余词语（fat）的修剪。Wolcott (2009) 将这一层面的编辑技能概括为：删除被动语态改用主动语态、消除不必要词语（只保留核心词）、缩减修饰语（最多保留一个）、删除过度使用的短语、减少过量引用、斜体和括号注释（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
+> Franklin (1986) 三阶段写作模型的第三阶段是"打磨"（polish），聚焦句子和词语层面的语言选择。在这一层面，三项规范共同决定学术文本的可读性：主动语态的使用、动词时态的选择，以及多余词语（fat）的修剪。Wolcott (2009) 将这一层面的编辑技能概括为：删除被动语态改用主动语态、消除不必要词语（只保留核心词）、缩减修饰语（最多保留一个）、删除过度使用的短语、减少过量引用、斜体和括号注释（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 ## 主动语态
 
@@ -64,14 +64,14 @@ APA Publication Manual (2020) 对不同文本位置使用不同时态的指导�
 研究计划中使用将来时表示研究将在未来进行。[[Mixed Methods Research|混合方法研究]]中的时态通常反映其主要取向，量化为主则偏过去时，质性为主则偏现在时。这些指南是建议而非硬性规定。
 
 > [!note]- 时态与路径的关联
-> 过去时是[[Quantitative Research|量化研究]]中最常用的形式，因为量化研究通常报告已完成的检验结果。现在时常出现在[[Qualitative Research|质性研究]]的引言中，因为质性研究强调对现象的当下理解。这一时态差异反映了量化与质性研究对"时间"和"确定性"的不同预设。
+> 过去时是[[Quantitative Research\|量化研究]]中最常用的形式，因为量化研究通常报告已完成的检验结果。现在时常出现在[[Qualitative Research\|质性研究]]的引言中，因为质性研究强调对现象的当下理解。这一时态差异反映了量化与质性研究对"时间"和"确定性"的不同预设。
 
 ---
 
 ## 修剪多余词语（Fat）
 
 > [!info]
-> "Fat"指不必要传达意义的多余词语，需要通过多轮编辑和修改来修剪（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
+> "Fat"指不必要传达意义的多余词语，需要通过多轮编辑和修改来修剪（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 常见多余词语的三种形式（Ross-Larson, 1982）：
 
@@ -113,10 +113,10 @@ Creswell & Creswell (2022, 第4章) 建议通过阅读高水平期刊来培养�
 | Annals of Family Medicine | 混合方法 | [AFM](https://www.annfammed.org/) |
 | Journal of Nursing Scholarship | 混合方法 | [JNS](https://sigmapubs.onlinelibrary.wiley.com/journal/15475069) |
 
-> [!note]- [[Qualitative Research|质性研究]]中的文学阅读
-> [[Qualitative Research|质性研究]]方法教师有时会布置经典文学作品作为阅读任务，如 Moby Dick、The Scarlet Letter、The Bonfire of the Vanities，因为这些作品的清晰散文和细致描写是质性写作的良好范本（Webb & Glesne, 1992）。
+> [!note]- [[Qualitative Research\|质性研究]]中的文学阅读
+> [[Qualitative Research\|质性研究]]方法教师有时会布置经典文学作品作为阅读任务，如 Moby Dick、The Scarlet Letter、The Bonfire of the Vanities，因为这些作品的清晰散文和细致描写是质性写作的良好范本（Webb & Glesne, 1992）。
 
-> [!note]- [[Mixed Methods Research|混合方法]]核心参考书
+> [!note]- [[Mixed Methods Research\|混合方法]]核心参考书
 > - [[Sage]] Handbook of Mixed Methods in Social and Behavioral Research (Tashakkori & Teddlie, 2010)
 > - The Mixed Methods Reader (Plano Clark & Creswell, 2008)
 
