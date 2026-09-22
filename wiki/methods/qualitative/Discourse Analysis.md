@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Ideal Speech Situation]]"
   - "[[Reliability]]"
-  - "[[Growth]]"
   - "[[Scientific Explanation]]"
   - "[[Epistemological Vigilance]]"
   - "[[Epistemic Practices]]"
@@ -68,8 +67,8 @@ updated: 2026-09-22
 > - **[[Unit of Analysis\|分析单位]]** 话语序列、对话回合、言语行为、文本段落。
 > - **输出形式** 对话语功能、意图和后果的分析性解释，附语言证据支持。
 
-> [!citation-card]- 关键定义
-> 话语分析研究者不将儿童的语言视为一个需要通过控制大量干扰[[Variable\|变量]]来实验探索的内部认知世界的代表，而是将语言视为行动——视为**情境化的话语实践（situated discursive practice）**。（第22章, p.455）
+> [!citation-card] Edwards 论作为情境化实践的话语分析
+> 话语分析研究者不将儿童的语言视为一个需要通过控制大量干扰[[Variable\|变量]]来实验探索的内部认知世界的代表，而是将语言视为行动——视为情境化的话语实践（situated discursive practice）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(Edwards, 1991, 引自 Cohen et al., 2011, p. 455)]]
 >
 > *Rather than treating children's language as representative of an inner cognitive world to be explored experimentally by controlling for a host of intruding variables, discourse analysts treat that language as action, as "situated discursive practice". (Edwards, 1991)*
 
@@ -140,5 +139,5 @@ updated: 2026-09-22
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23, pp. 403–420)]] — 将话语分析列为[[Structured Observation\|结构化观察]]数据的分析方法之一，用于课堂[[Dialogue in Education\|对话]]问答序列和互动模式分析（23.4 节）
 > - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 运用话语分析法深入解析七年级科学课堂上围绕北极狐与三文鱼种群观察证据的口头论辩对话序列，揭示学生如何通过多轮师生与生生互动敏锐反思观察过程的[[Reliability\|可靠性]]条件。
 > - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 运用话语分析与[[Narrative Analysis\|叙事分析]]技术对比 [[OECD]] 官方文本、英国教育大臣议会声明与大众媒体报道，揭示政客如何利用遗漏话语与危机修辞扭曲国际评估事实以服务本土改革议程。
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合四层[[Multimodal Discourse Analysis\|多模态话语分析]]（Multimodal Discourse Analysis）框架，逐回合剖析初中生在利用 Canva 和 ChatGPT 协同建构植物[[Growth\|生长]]与真菌分类[[Scientific Explanation\|科学解释]]时的言语对话、提示词迭代与多模态交互，揭示学生如何践行内容、信源与接收者三维[[Epistemological Vigilance\|认识论警觉]]。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合四层[[Multimodal Discourse Analysis\|多模态话语分析]]（Multimodal Discourse Analysis）框架，逐回合剖析初中生在利用 Canva 和 ChatGPT 协同建构植物生长与真菌分类[[Scientific Explanation\|科学解释]]时的言语对话、提示词迭代与多模态交互，揭示学生如何践行内容、信源与接收者三维[[Epistemological Vigilance\|认识论警觉]]。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 结合社会语言学与跨学科科学实践研究，运用话语分析（Discourse Analysis）考察科学与工程课堂中学生围绕简谐振动物理实验、太阳能装置设计与板块构造书面论证展开的互动言语行为，解析知识主张在微观共同体中被提出、沟通、评估与合法化的[[Epistemic Practices\|认识论实践]]机制。

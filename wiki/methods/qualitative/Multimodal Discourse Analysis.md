@@ -72,7 +72,7 @@ updated: 2026-09-22
 > - **[[Unit of Analysis\|分析单位]]** 认识论事件（Epistemic Events）、多模态话语回合（Multimodal Turns）、界面交互片段、视觉图像符号单元。
 > - **输出形式** 多模态转录表、分层[[Coding in Qualitative Research\|编码]]架构、微观话语互动序列解析、跨数据源[[Triangulation\|三角互证]]主题。
 
-> [!citation-card]- 多模态话语分析在人机协同研究中的定位
+> [!citation-card] 多模态话语分析在人机协同研究中的定位
 > 在质性归纳研究中，多模态分析不仅关注口头语言，更将数字生成物与界面操作视为同等重要的意义载体。通过宏观认识论事件切分、中观评估动作编码、微观多模态话语分析与跨数据三角互证，研究者能够完整还原学习者在人机交互中的[[Epistemological Vigilance\|认识论警觉]]轨迹。[[Argument_Han_Gutierez_2026_IJSE\|(Yin & Zeng, 2025; Han & Gutierez, 2026, pp. 8–10)]]
 >
 > *The multi-layered analytical framework merges transcribed classroom conversations, student-generated digital [[Artefact\|artifacts]], and interviews across macro, meso, and micro levels to capture nuanced multimodal [[Epistemic Practices]].*
@@ -105,13 +105,13 @@ updated: 2026-09-22
 > | 材料来源 | 学生与 AI 交互的录屏与录音、学生生成的数字化图文制品、课后半结构化反思访谈 |
 > | 抽样或选案 | [[Purposeful Sampling\|目的性抽样]]（如具备基础 AI 工具经验与学科探究基础的典型合作小组） |
 > | 研究者位置 | 教师兼研究者（需保持[[Reflexivity\|反身性]]记录并实施非评分、自愿参与的伦理保障） |
-> | 资料边界 | 完整的任务课时、全部原始韩语/母语交互[[Transcription in Qualitative Research\|转录]]、选定典型交互片段英译核验 |
+> | 资料边界 | 完整的任务课时、全部原始母语交互[[Transcription in Qualitative Research\|转录]]、选定典型交互片段英译核验 |
 
 > [!proc] 四层多模态质性分析程序（Yin & Zeng, 2025; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）
-> 1. **宏观层面：[[Epistemology\|认识论]]事件切分与识别（Macro-level Segmentation）** 遍历全部课堂交互语料，以学生提出问题、质疑 AI 输出、修改提示词或请求详细图解为标志，切分出独立的“认识论事件”单元。
-> 2. **中观层面：评价动作[[Coding in Qualitative Research\|编码]]（Meso-level Coding）** 依据[[Epistemological Vigilance\|认识论警觉]]维度（内容、信源、接收者）与学科解释标准，对事件内部的互动回合进行评价动作分类编码。
+> 1. **宏观层面：[[Epistemology|认识论]]事件切分与识别（Macro-level Segmentation）** 遍历全部课堂交互语料，以学生提出问题、质疑 AI 输出、修改提示词或请求详细图解为标志，切分出独立的“认识论事件”单元。
+> 2. **中观层面：评价动作[[Coding in Qualitative Research|编码]]（Meso-level Coding）** 依据[[Epistemological Vigilance\|认识论警觉]]维度（内容、信源、接收者）与学科解释标准，对事件内部的互动回合进行评价动作分类编码。
 > 3. **微观层面：多模态话语互动解析（Micro-level Multimodal [[Discourse Analysis]]）** 逐回合结合口头言语、屏幕提示词输入、AI 文本输出、图像生成与手工修图操作，深度剖析意义建构与批判审问的微观发生过程。
-> 4. **综合层面：跨数据源解释与[[Triangulation\|三角互证]]（Cross-data Triangulation）** 将课堂多模态互动转录、数字生成物演变序列与课后学生反思访谈进行三角互证，提炼并确立核心主题。
+> 4. **综合层面：跨数据源解释与[[Triangulation|三角互证]]（Cross-data Triangulation）** 将课堂多模态互动转录、数字生成物演变序列与课后学生反思访谈进行三角互证，提炼并确立核心主题。
 
 ---
 
@@ -149,4 +149,4 @@ updated: 2026-09-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 依托四层多模态[[Discourse Analysis\|话语分析]]框架（宏观事件切分、中观评价[[Coding in Qualitative Research\|编码]]、微观多模态互动解析、跨数据[[Triangulation\|三角互证]]），深度剖析初中生在利用 Canva 和 ChatGPT 协同建构[[Scientific Explanation\|科学解释]]时的口头言语、提示词迭代与图像修改实践，揭示[[Epistemological Vigilance\|认识论警觉]]的微观发[[Conatus\|生机]]制。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 依托四层多模态[[Discourse Analysis\|话语分析]]框架（宏观事件切分、中观评价[[Coding in Qualitative Research\|编码]]、微观多模态互动解析、跨数据[[Triangulation\|三角互证]]），深度剖析初中生在利用 Canva 和 ChatGPT 协同建构[[Scientific Explanation\|科学解释]]时的口头言语、提示词迭代与图像修改实践，揭示[[Epistemological Vigilance\|认识论警觉]]的微观发[[Conatus|生机]]制。

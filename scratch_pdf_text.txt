@@ -1,0 +1,1097 @@
+[PAGE 1]
+International Journal of Science Education
+ISSN: 0950-0693 (Print) 1464-5289 (Online) Journal homepage: www.tandfonline.com/journals/tsed20
+‘How can we check the evidence presented by
+GenAI’s response?’: students’ epistemic vigilance
+of their co-constructed scientiﬁc explanations
+with GenAI
+Moonhyun Han & Sally B. Gutierez
+To cite this article: Moonhyun Han & Sally B. Gutierez (01 Sep 2026): ‘How can we check
+the evidence presented by GenAI’s response?’: students’ epistemic vigilance of their co-
+constructed scientiﬁc explanations with GenAI, International Journal of Science Education, DOI:
+10.1080/09500693.2026.2717405
+To link to this article:  https://doi.org/10.1080/09500693.2026.2717405
+View supplementary material 
+Published online: 01 Sep 2026.
+Submit your article to this journal 
+Article views: 144
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tsed20
+--- PAGE BREAK ---
+[PAGE 2]
+‘How can we check the evidence presented by GenAI’s 
+response?’: students’ epistemic vigilance of their 
+co-constructed scientific explanations with GenAI
+Moonhyun Han 
+ a,b and Sally B. Gutierez 
+c,d
+aGyeonggi Provincial Office of Education, Suwon-si, Gyeonggi-do, Republic of Korea; bCheong-Am 
+Elementary School, Paju-si, Gyeonggi-do, Republic of Korea; cDepartment of Science Education, Bro. Andrew 
+Gonzalez FSC College of Education, De La Salle University Manila, Philippines; dNational Higher Education 
+Research Institute (IPPTN), Universiti Sains Malaysia, Penang, Malaysia
+ABSTRACT  
+This study describes how middle school science students enacted 
+epistemic vigilance while co-constructing scientific explanations 
+with generative artificial intelligence (GenAI). Using a qualitative 
+research design, the study investigated the interactions of eight 
+middle school students with Canva and ChatGPT during two 
+science lessons on plant growth and the classification of fungi. To 
+support their epistemic vigilance, two explicit epistemic scaffolds 
+were implemented: the criteria for good scientific explanations as 
+epistemic criteria and epistemic question prompts as reflective 
+guides. Data including transcribed and translated video 
+recordings of student-GenAI interactions, student-generated 
+digital artifacts, and semi-structured interviews were analyzed 
+using a multi-layered analytical framework. Findings indicate that 
+students enacted epistemic vigilance through three 
+complementary evaluative practices: evaluating the scientific 
+quality of GenAI-generated explanations, verifying the credibility 
+of information sources, and reflecting on their own 
+understanding and assumptions while interpreting AI outputs. 
+The epistemic criteria primarily scaffolded students’ content 
+evaluation while indirectly supporting source and receiver 
+evaluation. Conversely, the epistemic question prompts explicitly 
+scaffolded source and receiver evaluation while remaining 
+grounded in evaluating their co-constructed scientific explanation 
+quality. These findings suggest that within their cognitive levels, 
+middle school students may engage in epistemic vigilance with 
+explicit epistemic scaffolding. Limitations are further discussed.
+ARTICLE HISTORY
+Received 15 March 2026 
+Accepted 7 August 2026  
+KEYWORDS  
+Explicit epistemic 
+scaffolding; epistemic 
+vigilance; scientific 
+explanations; student-GenAI 
+collaboration
+Introduction
+The Next Generation Science Standards (NGSS Lead States, 2013) emphasise students’ 
+participation in epistemic practices of science, including constructing explanations, eval-
+uating evidence, and engaging in scientific reasoning. Concurrently, generative artificial 
+© 2026 Informa UK Limited, trading as Taylor & Francis Group 
+CONTACT  Sally B. Gutierez 
+sbgutierezupd@snu.ac.kr
+National Higher Education Research Institute (IPPTN), 
+Universiti Sains Malaysia, Penang, 11900, Malaysia
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/09500693.2026.2717405.
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+https://doi.org/10.1080/09500693.2026.2717405
+
+--- PAGE BREAK ---
+[PAGE 3]
+intelligence (GenAI) has increasingly influenced science and science education (AAAS, 
+2021; Alasadi & Baiz, 2023; Cooper, 2023). Erduran and Levrini (2024) argued that 
+meaningful engagement with GenAI is necessary to prevent students’ alienation and 
+support their informed participation in AI-mediated knowledge construction. 
+However, effective participation requires students not only to generate scientific expla-
+nations with GenAI but also to critically evaluate the knowledge it produces.
+Recent studies have shown that GenAI can support students’ reflection, explanation 
+revision, scientific reasoning, and epistemic understanding (Chang et al., 2026; Sirnoor-
+kar et al., 2024; Tang et al., 2024; Tang & Putra, 2026). Nevertheless, these studies have 
+primarily examined how GenAI enhances learning outcomes, with limited attention to 
+how students evaluate AI-generated explanations during the co-construction process. 
+This issue is important because GenAI can produce scientifically plausible yet inaccurate 
+or incomplete explanations (Anderson et al., 2024; Doshi & Hauser, 2024; Mishra et al., 
+2023).
+Addressing this challenge requires epistemic vigilance, defined as learners’ capacity to 
+critically evaluate communicated information before accepting it (Sperber et al., 2010). 
+Although epistemic vigilance has been conceptualised in science education (Bielik & 
+Krell, 2025; Tseng et al., 2021), little empirical research has examined how students 
+enact it while co-constructing scientific explanations with GenAI, particularly when 
+supported by explicit epistemic scaffolds. This study addresses this gap by investigating 
+how middle school students enact epistemic vigilance during GenAI-supported co- 
+construction of scientific explanations using epistemic criteria and epistemic question 
+prompts.
+Literature review
+Because GenAI has the potential to enhance learning, creativity, and knowledge pro-
+duction, interest in using it to teach science has grown significantly (Mishra et al., 
+2023). According to O’Toole and Horvý’s (2024) study, conversational GenAI chatbots 
+can aid metacognitive processes by making information retrieval and problem solving 
+easier. Additionally, GenAI has potential for mechanical reasoning in physics discourse 
+(Sirnoorkar et al., 2024), inquiry-based learning (Erduran & Levrini, 2024
+; Penn & Ram-
+narain, 2025), and evaluation of epistemic understanding (Chang et al., 2026). By offering 
+immediate feedback and tailored guidance via student prompts, GenAI chatbots promote 
+self-regulated learning (Ng et al., 2024).
+Despite these potentials, researchers raised the issue of hallucination, which brings an 
+emphasis on how humans, including students, must remain central agents in AI- 
+mediated learning environments. Students’ agency involves their participation, owner
+-
+ship of outcomes, and mental effort while engaged with GenAI (Draxler et al., 2024; 
+Guo et al., 2025). This framing revolves around the idea that although GenAI can accom-
+plish tasks efficiently, they still need humans to demonstrate exploratory thinking pat-
+terns (Boussioux et al., 2024). Accoridngly, GenAI cannot replace human judgment 
+because the responsibility for validating knowledge remains with humans (Hemmer 
+et al., 2021; Oh & Lee, 2025). Thus, in this time when AI has shaped science learning, 
+students should be exposed to human-AI collaboration while being trained to be vigilant 
+when to trust, question, or build upon AI-generated outputs (Hoßbach & Isaksen, 2025).
+2 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 4]
+However, with increasingly studies focused on human-AI collaboration, creativity, 
+reasoning, adaptive learning, or knowledge co-production (Cheah et al., 2025; Lubbe 
+et al., 2025), no studies have explored epistemic vigilance within science learning con-
+texts. More specifically, little attention has been given to how students enact epistemic 
+vigilance when co-constructing scientific explanations with GenAI. Thus, epistemic vig-
+ilance during students’ construction of scientific explanation with GenAI remains under-
+explored today.
+Theoretical framework
+Epistemic vigilance
+Epistemic vigilance, as earlier defined, is composed of three aspects: content evaluation, 
+source evaluation, and receiver evaluation (Bielik & Krell, 2025; Pimentel, 2025; Sperber 
+et al., 2010), each with some principles to be considered during evaluation (Figure 1). 
+Content evaluation may be assessed through three complementary principles: plausi-
+bility, one-sidedness, and context (Duncan et al., 2018; Tseng et al., 2021). In relation 
+to learning, it requires students to determine whether explanations are evidence-based, 
+credible, or logically coherent (Allchin, 2023; Osborne & Pimentel, 2023). It also involves 
+identifying one-sided arguments, missing information, and alternative explanations that 
+may challenge scientific claims (Barzilai & Chinn, 2018). Within science learning, this 
+aspect is connected to constructing scientific explanations because students are expected 
+Figure 1. Conceptual framework of the study. Note: This diagram design was enhanced by GenAI.
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 3
+--- PAGE BREAK ---
+[PAGE 5]
+to evaluate evidence, scrutinise reasoning, and distinguish scientific explanations from 
+unsupported rhetoric.
+The second aspect is source evaluation, which focuses on assessing the trustworthiness 
+and credibility of the information source, commonly described as ‘second-hand evalu-
+ation’ or evaluating ‘who said it’ (Bromme & Goldman, 2014, p. 65; Sharon & Baram- 
+Tsabari, 2020, p. 879). It can be assessed using the two complementary principles of 
+expertise and reliability especially with the widespread presence of misinformation and 
+unreliable information sources (Allchin, 2023). It is judging the credibility and trust-
+worthiness of an information source by considering who produced the information, 
+where and when it was published, and whether it reflects reliable scientific standards 
+and evidence (Bromme & Goldman, 2014). It also involves evaluating communicators’ 
+expertise through their credentials, publication records, experiences, and alignment 
+with scientific consensus (Duncan et al., 2018; Sperber et al., 2010).
+The third aspect, receiver evaluation, emphasises how individuals reflect on the ways 
+information is interpreted. Bielik and Krell (2025, p. 877) described this as ‘third-hand 
+evaluation’, wherein individuals critically examine how prior knowledge, beliefs, experi-
+ences, emotions, and sociocultural influences shape judgments of scientific information. 
+Receiver evaluation acknowledges that people are influenced by cognitive biases, political 
+affiliations, and emotional responses when evaluating knowledge claims (Allchin, 2023). 
+Complementing this, the principle of cognitive biases and socioemotional influences 
+recognises that confirmation bias, intuitive reasoning, emotions, social identity, and 
+other sociocultural influences may unconsciously shape the acceptance or rejection of 
+scientific information (Allchin, 2023; Barzilai & Chinn, 2018; Feinstein & Baram- 
+Tsabari, 2024; Tseng et al., 2021). In science education, this aspect encourages students 
+to become aware of factors influencing reasoning and decision-making. In this study, 
+while we acknowledge the broad components that may influence receiver evaluation 
+from literature, we narrow down to students’ personal and anticipated peer understand
+-
+ing and how they information will be accepted. These three aspects and their correspond-
+ing principles provide a comprehensive framework for examining how students critically 
+evaluate GenAI-generated scientific explanations (
+Figure 1).
+Epistemic scaffolding for epistemic vigilance
+Epistemic scaffolding refers to instructional support that explicitly guides learners’ epis-
+temic thinking and practices by making the underlying epistemology of scientific inquiry 
+visible (Lin & Puntambekar, 2019). Distinct from procedural, conceptual, and metacog-
+nitive scaffolding, epistemic scaffolding focuses on how learners evaluate knowledge, 
+justify claims, and engage in disciplinary practices that are aligned with those of scien-
+tists. Although conceptually distinct, epistemic scaffolding is rarely implemented in iso-
+lation. Instead, it is distributed across instructional materials, classroom discourse, 
+technological tools, and learning activities, where complementary forms of support 
+work synergistically to promote epistemic engagement (Puntambekar, 
+2021). Within 
+science learning, explicit epistemic scaffolding has been shown to strengthen students’ 
+participation in authentic epistemic practices by making epistemic structures, criteria, 
+and goals accessible to learners (Barzilai et al., 2020; Lin & Puntambekar, 2019).
+4 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 6]
+In this study, epistemic scaffolding is operationalised through the complementary use 
+of epistemic criteria and epistemic question prompts provided by the teacher. The cri-
+teria for good scientific explanations, also treated as an epistemic criteria in the study 
+(Figure 1) primarily scaffolded content evaluation by making explicit the disciplinary 
+standards that scientists use to judge the quality of explanations. Instead of relying on 
+intuitive judgments about whether an explanation ‘sounds scientific’, students are pro-
+vided with explicit standards for evaluating the adequacy of GenAI-generated expla-
+nations. As students apply these criteria, they may also begin to question whether the 
+explanation is supported by credible knowledge sources and whether their own under
+-
+standing influences their interpretation. Thus, while the epistemic criteria are principally 
+directed toward evaluating content, they may simultaneously stimulate source evaluation 
+and receiver evaluation during the evaluation process.
+Complementing the epistemic criteria, epistemic question prompts explicitly directed 
+students to examine the credibility of information and to monitor their own epistemic 
+reasoning while interacting with GenAI. Prompts that encourage students to verify expla
+-
+nations with other sources, consider the expertise behind the information, or reflect on 
+whether they understood the explanation explicitly scaffold source evaluation and recei-
+ver evaluation. However, these prompts remain grounded in the evaluation of scientific 
+explanations because they are implicitly informed by one or more epistemic criteria. For 
+example, evaluating whether another source confirms an explanation presupposes eval-
+uating the scientific adequacy of the explanation itself, while reflecting on one’s under-
+standing requires consideration of whether the explanation is conceptually coherent 
+and scientifically meaningful. Therefore, the epistemic criteria and epistemic question 
+prompts function as complementary explicit epistemic scaffolds that collectively sup
+-
+ported students’ enactment of epistemic vigilance by guiding coordinated evaluation 
+of scientific content, information sources, and their own epistemic reasoning during 
+interactions with GenAI.
+Problem statement and research question
+This study addresses the gap concerning students’ enactment of epistemic vigilance while 
+co-constructing scientific explanations with GenAI. Specifically, the study examines how 
+two explicit epistemic scaffolds (Barzilai et al., 2020) namely the criteria for good scien-
+tific explanations, serving as epistemic criteria (de Andrade et al., 2019), and epistemic 
+question prompts, serving as reflective guides supported students’ enactment of episte-
+mic vigilance (Figure 1). The epistemic criteria directly guided content evaluation 
+while indirectly prompting source and receiver evaluation during interactions with 
+GenAI through specific evaluative criteria. Meanwhile, the teacher-provided epistemic 
+question prompts guided students to reflect on source and receiver evaluation principles 
+while being indirectly informed by at least one epistemic criterion throughout the co- 
+construction process.
+In this study, co-construction refers to the complementary roles of students and 
+GenAI in an iterative process of generating, evaluating, revising, and refining scientific 
+explanations. This process included generating images and text, iterative prompting, 
+manual editing of GenAI outputs, and students’ interpretation of these representations 
+to improve their explanations. Within their cognitive levels, students were particularly 
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 5
+--- PAGE BREAK ---
+[PAGE 7]
+focused on iterative prompting, which is one of our classroom norms, known to refine 
+initial results (Oh, 2023; Shin et al., 2024) and the accuracy of GenAI outputs (Chang 
+et al., 2026). Most importantly, students remain the primary epistemic agents, who eval-
+uated the GenAI responses based on the three aspects of epistemic vigilance (Bielik & 
+Krell, 2025; Sperber et al., 2010).
+On the other hand, the GenAI complemented the students’ epistemic work as an 
+information source and conversational partner that generated scientific explanations, 
+examples, and evidence for students to examine. Most crucial however, was its role as 
+an epistemic provocateur by producing responses that encourage students epistemic vig
+-
+ilance to question, verify, critique. Guided by these framings, the study aims to answer 
+the research question, ‘
+How do middle school science students enact epistemic vigilance 
+when co-constructing and evaluating scientific explanations with GenAI using epistemic 
+scaffolds?’
+Significance of the study
+This study advances science education by describing how middle school students enact 
+epistemic vigilance while co-constructing scientific explanations with GenAI through 
+explicit epistemic scaffolds. It extends current discussions beyond GenAI integration 
+to examine students’ epistemic vigilance in terms of content, source, and receiver evalu
+-
+ation (Bielik & Krell, 2025; Sperber et al., 2010; Tseng et al., 2021). The study also pro-
+vides empirical evidence that students’ epistemic vigilance may be fostered through 
+explicit scaffolding in the form of an epistemic criteria and epistemic question 
+prompts. It further demonstrates how these scaffolds position students as primary epis
+-
+temic agents while GenAI functions as an information source, conversational partner, 
+and epistemic provocateur. The findings may also offer practical guidance for educators 
+and curriculum developers seeking to cultivate scientifically grounded reasoning, evalua-
+tive judgment, responsible GenAI use, and critical engagement with AI-generated knowl-
+edge in contemporary science classrooms through explicit epistemic scaffolding.
+Methodology
+Context and participants of the study
+We used a qualitative research design to describe eight (8) middle school science stu-
+dents’ enactment of epistemic vigilance of GenAI-generated knowledge of scientific 
+explanations. The study was conducted in Middle School C in Gyeonggi City, South 
+Korea as a special after-school session rather than a regular graded classroom activity. 
+Prior to participation, it was explained that their participation was not graded, voluntary, 
+and they can withdraw from participation anytime. The students were purposively 
+selected based on three factors. First, they had previously taken the first author’s sixth- 
+grade science class at Elementary School S in 2023, which established a strong 
+teacher–student relationship that supported open dialogue and reflective evaluation. 
+Second, they already had experience using GenAI tools, specifically Canva and 
+ChatGPT in earlier science lessons with the first author. This familiarity allowed class
+-
+room interactions to focus on epistemic judgment alongside basic tool operation. 
+6 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 8]
+Third, they had prior experience constructing scientific explanations using the criteria for 
+good scientific explanations in sixth-grade science. Lastly, they were the only former stu-
+dents attending Middle C which is close to Elementary School S where the first author 
+was currently affiliated during the time of the study, making their participation in the 
+after-school sessions feasible. The purposive sample of four pairs was also appropriate 
+for the close, turn-by-turn analysis required in our qualitative design.
+Lesson context
+We conducted the study with the two lessons, ‘Why do plants grow well’ and ‘Why is 
+fungus not a plant’ with their agreed classroom norms (Table 1) that positioned 
+GenAI as an information source, a conversational partner, and an epistemic provocateur 
+rather than a substitute for their thinking (Park, 2025).
+At the beginning of the lessons, the teacher introduced the criteria for good scientific 
+explanations as explicit disciplinary standards for evaluating scientific explanations as 
+well as provided epistemic question prompts to encourage students to critically evaluate 
+GenAI-generated information by examining its content, source, and how they receive it 
+based on their personal and anticipated peer understanding. Throughout the co-con
+-
+struction process, the teacher consistently reminded the students to use both the episte-
+mic criteria and the epistemic question prompts while interacting with GenAI. Guided by 
+these scaffolds, students were encouraged to critically scrutinise AI-generated expla
+-
+nations, verify information, reflect on their own understanding, formulated increasingly 
+purposeful prompts, and iteratively revise both textual and visual explanations. Through 
+these scaffolding, the students enacted epistemic vigilance by using explicit disciplinary 
+Table 1. Lessons and classroom norms where students practiced epistemic vigilance while co- 
+constructing scientific explanations with GenAI.
+Lesson Topic 
+(Hour) Target scientific explanation with Gen AI Classroom norms and description
+Lesson 1 (2 h) 
+Why do plants 
+grow well?
+Construct a scientific explanation on how 
+plants thrive based on the structure and 
+function of their roots, stems, leaves, flowers, 
+and fruits with Canva
+. Joint peer deliberation throughout co- 
+construction 
+Each pair jointly deliberated on every prompt and 
+on each GenAI output; only those ideas that both 
+partners agreed on were carried forward into 
+subsequent prompts.
+. Evaluation against the four epistemic 
+criteria 
+Students evaluated each GenAI response against 
+the four criteria of a good scientific explanation.
+. Iterative reprompting and revision 
+Students treated GenAI outputs as tentative; 
+when an output fell short of the criteria, they 
+reframed their prompts and deleted, revised, or 
+reorganized the outputs accordingly.
+. Anticipation of peers and reflection on prior 
+knowledge 
+Each pair drew on their own prior knowledge and 
+anticipated how their peers might interpret or 
+counter the co-constructed explanation and 
+adjusted prompts, wording, and representations 
+accordingly.
+Lesson 2 (1 h) 
+Why is a 
+fungus not a 
+plant?
+Construct a scientific explanation on why 
+mushrooms are not plants with ChatGPT
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 7
+--- PAGE BREAK ---
+[PAGE 9]
+standards and reflective questioning to evaluate, refine, and justify GenAI-generated 
+scientific explanations.
+The teacher asked the students to work in pairs using the provided laptops, which 
+were equipped with Canva and ChatGPT applications, both widely used tools in 
+EdTech-integrated science instruction across Korea (GPOE, 2024). Before the actual 
+conduct of the study, the teacher who is also the primary author facilitated several pre-
+paratory lessons focused on the epistemic practice of constructing scientific expla-
+nations as a review from their elementary school science classes. These sessions 
+ensured that students were still familiar with the four criteria and could apply them 
+consistently in their epistemic vigilance of their co-constructed scientific explanations 
+with the GenAI.
+Data sources
+Three forms of qualitative data were collected: video recordings of students’ interactions 
+with GenAI, student-generated artifacts, and semi-structured interviews (Figure 2). All 
+classroom conversations and interviews were transcribed verbatim in Korean. while an 
+analysis was conducted on all the original Korean transcripts of the entire dataset, 
+selected excerpts were translated into English for sample data presentation of our 
+findings.
+Data analysis procedure
+We focused on describing students’ practice of epistemic vigilance of GenAI-constructed 
+scientific explanations. The entire dataset, were analyzed following the multi-layered 
+framework (Yin & Zeng, 2025) for qualitative inductive studies (Figure 2). The analytical 
+framework consisted of four interconnected levels: (1) identification and segmentation of 
+epistemic events (macro-level), (2) meso-level coding of evaluative moves, (3) micro- 
+level multimodal discourse analysis, and (4) cross-data interpretation and triangulation. 
+Following this framework, our sample coded data (Appendix 1) show how we merged the 
+transcripts, artifacts, and students’ interviews to develop the themes based on the context 
+of our study.
+Segmentation and identification of epistemic events (macro-level)
+We first applied segmentation to all datasets to capture units of meaningful discourse 
+(Erickson & Shultz, 1992). We identified these segments across the two lessons and com-
+piled them into a running list. We treated each segment to correspond to an episode 
+where students discussed with each other, interacted with, or reflected on their co-con-
+structed scientific explanations with GenAI. We paid particular attention to those seg-
+ments that captured students’ epistemic practices (i.e. prompt constructions and 
+refinement, asking for more detailed illustrations), and evaluation strategies of AI-gen
+-
+erated explanations, verify information, reflect on their own understanding. At this 
+level, the video recordings were used to identify episodes in which students explicitly 
+questioned, evaluated, revised, accepted, rejected, or supplemented GenAI outputs 
+while referring to the criteria for good scientific explanations or the teacher-provided 
+8 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 10]
+Figure 2. Analytical framework of the study. Note: This diagram design was enhanced by GenAI.
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 9
+--- PAGE BREAK ---
+[PAGE 11]
+epistemic question prompts. These segmented epistemic events served as the units of 
+analysis for the subsequent coding and discourse analyses.
+Meso-level coding of evaluative moves
+Using content analysis (Bazerman, 2006), we performed a meso-level analysis on the 
+interaction segments in which students evaluated the GenAI results. We iteratively 
+coded these portions with two objectives. First, we determined the students’ evaluative 
+position, determining whether they used content evaluation, source evaluation, receiver 
+evaluation, or all three. Second, we coded how the students used the explicit epistemic 
+scaffolds (Figure 1) when they evaluated the GenAI-constructed scientific explanations. 
+Each segment was categorised using one or more categories, depending on the nature of 
+the students’ evaluative assessment. The epistemic criteria served as the primary coding 
+framework for content evaluation, whereas the epistemic question prompts mostly 
+guided the identification of source evaluation and receiver evaluation episodes. Coding 
+was carried out in a constant comparative manner across datasets. Verbal utterances 
+were cross-referenced with their final prompts. Interviews were also compared to their 
+utterances, prompts, and artifacts. Student-generated artefacts were likewise compared 
+across datasets to determine how evaluative decisions were reflected their final co-con-
+structed scientific explanations.
+Micro-level multimodal discourse analysis
+We conducted a fine-grained, line-by-line discourse analysis (Feng, 2021
+) on the segmen-
+ted dataset. This was to unpack how the verbal utterances, written prompts, and artifacts 
+provided meanings on the students’ practice of epistemic vigilance as they assessed the 
+accuracy, coherence, and strength of their co-constructed scientific explanations. 
+Using the meso-level codes as analytical anchors, we examined how students enacted 
+content evaluation, source evaluation, and receiver evaluation through their spoken dia
+-
+logue, prompt revisions, interactions with GenAI, visual representations, and written 
+explanations. The micro-level analysis examined how students enacted content, 
+source, and receiver evaluation during their interactions with GenAI by analyzing the 
+interplay of speech, prompt revisions, GenAI outputs, images and diagrams, and 
+written explanations. Finally, we created a codebook (Appendix 1) detailing how the stu
+-
+dents practiced epistemic vigilance while being guided by the two explicit epistemic 
+scaffolds. This served as a guide for coding the full dataset, providing us with insights 
+into the principles of epistemic vigilance that the students demonstrated.
+Cross-data interpretation and triangulation
+We ensured triangulated analysis by iteratively coding all transcripts of students’ dialo-
+gues, artifacts, and interview transcripts. The three datasets were integrated to explain 
+how the explicit epistemic scaffolds supported students’ enactment of epistemic vigilance 
+across the co-construction process. Video recordings captured students’ real-time eva
+-
+luative interactions, student artefacts documented revisions to their scientific expla-
+nations, and interviews provided reflective accounts of why particular GenAI outputs 
+were accepted, revised, or rejected. To minimise bias, the second author and an external 
+expert independently coded the data before meeting with the primary author to resolve 
+10 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 12]
+discrepancies and reach a consensus; thus establishing the credibility of our study 
+(Lincoln et al., 1985).
+Ethicality
+Our study was conducted in compliance with ethical guidelines for research, including 
+obtaining informed consent from all participants and their legal guardians and ensuring 
+their confidentiality and anonymity (school is also anonymized). Moreover, we sought 
+the approval of the Gyeonggi Provincial Office of Education, Office of Future Education 
+with Approval No. 981 dated January 18, 2024.
+Findings
+In the following subsections, we present the themes generated from the analysis. For each 
+theme, we present one representative transcript of the student dialogues containing some 
+artifacts and the corresponding interview responses from each pair of students as illustra
+-
+tive examples of how they enacted epistemic vigilance while co-constructing scientific 
+explanations with GenAI. These examples are intended to illustrate the findings within 
+the context of this study rather than to represent all instances of students’ interactions.
+Theme 1. Content evaluation of the scientific quality of GenAI explanations 
+through epistemic criteria
+Based on the results, the students enacted content evaluation by examining whether 
+GenAI-generated explanations were scientifically plausible, complete, logically coherent, 
+and represented appropriately. Their evaluation was mostly focused on the principles of 
+plausibility, one-sidedness. Rather than accepting GenAI responses as authoritative, they 
+questioned whether explanations were scientifically reasonable, whether important ideas 
+had been omitted, and whether the responses were within the bounds of scientifically 
+accepted ideas. These evaluative practices were primarily guided by the explicit epistemic 
+criteria and supplemented by the epistemic question prompts.
+Sample Dialogue 1 illustrates how Students A and B evaluated Canva’s explanation of 
+plant growth. After receiving the initial response, they questioned whether it genuinely 
+explained the phenomenon, asking, ‘
+Does this explanation make scientific sense? It 
+gives lots of ideas, but does it explain why plants grow?’ (Line 14). This reflected the cri-
+terion of relevance, as students evaluated whether the explanation directly addressed the 
+scientific question. They then shifted their attention to the causal story, with Student A 
+explaining, ‘
+Photosynthesis is important because that’s how plants make food. That 
+explains why they can grow’ (Line 15). As they further discussed and recognised that 
+Canva described plant structures separately, Student B suggested revising the prompt 
+to explain ‘how they work together’ (Lines 17a–18), applying the criterion of conceptual 
+framework. Their questioning also demonstrated the principle one-sidedness, as they 
+recognised that important causal relationships were missing. So, instead of accepting 
+the initial response, they evaluated it first. Their vigilance was further reinforced by 
+ChatGPT’s cautionary statement, ‘ChatGPT can make mistakes. Check important info’, 
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 11
+--- PAGE BREAK ---
+[PAGE 13]
+which served as an epistemic trigger, positioning GenAI not only as an information 
+source but also as an epistemic provocateur that encouraged critical evaluation of its 
+own explanations.
+Students also demonstrated plausibility evaluation by questioning whether Canva’s 
+explanation aligned with established scientific knowledge. Student B asked, ‘Does this 
+match what we learned in science class?’ (Line 21), prompting Student A to compare 
+the explanation with their science textbook to determine whether it was scientifically 
+consistent with accepted concepts (Line 22). During the interview, Student B explained 
+that they consulted the textbook because ‘AI can sound correct even when it leaves out 
+important ideas’, indicating that plausibility was judged through its consistency with 
+established scientific knowledge rather than fluency. Student A later reflected, ‘It’s 
+better not to believe it completely just because AI wrote it’ (Line 28), demonstrating 
+awareness that AI-generated explanations should be interpreted within established scien-
+tific facts before acceptance. Students also enacted context evaluation by comparing 
+Canva’s explanation with their science textbook (Lines 21–23), and whether the AI-gen-
+erated explanation reflected accepted scientific knowledge rather than relying solely on 
+its persuasive presentation.
+Sample dialogue 1
+12 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 14]
+Students C and D enacted similar evaluative practices while examining ChatGPT’s 
+explanation distinguishing fungi from plants. In Sample Dialogue 2, instead of verifying 
+isolated biological facts, they evaluated whether the explanation sufficiently accounted for 
+fungal classification as a scientific knowledge. Student D recognised that the explanation 
+appropriately connected fungal nutrition with the absence of photosynthesis, demon-
+strating evaluation of the causal story. However, Student C subsequently observed that 
+the explanation failed to explain that fungi belong to an independent biological 
+kingdom (Line 10). Student D agreed that this information should be added because it 
+made the explanation ‘more complete’ (Line 11). These interactions demonstrate students 
+evaluating explanatory completeness through the epistemic criteria of relevance and con-
+ceptual framework. They then, recognised that scientific explanations should account for 
+the broader conceptual connections of underlying biological classification rather than 
+presenting isolated characteristics. Here, students again evaluated plausibility by deter-
+mining whether the explanation accurately reflected accepted biological knowledge. 
+Their observation that ChatGPT omitted fungal classification illustrates attention to 
+one-sidedness, since an important scientific perspective was absent.
+Simultaneously, they evaluated the context of the explanation by considering whether 
+it was consistent with established biological classification taught in class, using accepted 
+scientific consensus (Osborne & Pimentel, 2023) which they also reiterated during the 
+interview as a benchmark while judging the plausibility and completeness of the expla-
+nation through the criteria for good scientific explanations.
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 13
+--- PAGE BREAK ---
+[PAGE 15]
+Sample dialogue 2
+14 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 16]
+Sample Dialogue 3 illustrates that students applied the same epistemic criteria even when 
+GenAI presented scientific ideas through a story format. After Canva generated a fairy- 
+tale explanation describing how a kidney bean grows, Students E and F questioned 
+whether the story adequately explained the scientific process. Student E asked, ‘Does 
+this explanation make scientific sense? It tells the story, but does it really explain why 
+the plant grows well?’ (Line 30), demonstrating evaluation through the conceptual frame-
+work criterion. The students subsequently identified a weakness in the explanation’s 
+causal story. Student F noted that the explanation omitted how water moved from the 
+roots through the stem to the leaves (Line 33), while Student E argued that without 
+this process, readers would not understand how photosynthesis could occur (Line 34).
+Guided by the epistemic criteria and epistemic question prompts, they evaluated the 
+explanation based on plausibility and one-sidedness by identifying omitted scientific 
+mechanisms and judging whether the explanation was scientifically coherent and com
+-
+plete rather than merely attractive. During the interview, Student E stated, ‘I remembered 
+our science lesson about stems carrying not only water, so I knew something was 
+missing’, while Student F reflected that ‘just because it’s easy to understand doesn’t 
+mean it’s always complete’ (Lines 42–43). These statements show that students were eval-
+uating the plausibility and completeness of the GenAI-generated explanation.
+Sample dialogue 3
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 15
+--- PAGE BREAK ---
+[PAGE 17]
+In Sample dialogue 4, students’ content evaluation extended beyond textual explanations 
+to multimodal scientific representations. While examining Canva-generated illustrations, 
+Students G and H recognised that the diagram accurately depicted plant structures but inade-
+quately represented the scientific processes occurring within the plant. Student G observed 
+that, ‘The roots are touching the soil, but it doesn’t really look like water is being absorbed’ 
+(Line 30), while Student H similarly commented that, ‘You can’t really see water going in’ 
+(Line 31). These observations illustrate evaluation using the appropriate level of represen-
+tation criterion, judging whether the visual representation effectively communicated scien-
+tific ideas. The subsequent request for revisions to include labelled root hairs and 
+directional arrows illustrating water transport, further demonstrated students’ commitment 
+to constructing explanations that accurately represented causal mechanisms in visual form. 
+The labelled arrows and root hairs therefore addressed not only representational clarity but 
+also strengthened the completeness of the illustrated explanation.
+Guided by the epistemic criteria and epistemic question prompts, these students pri-
+marily focused their content evaluation of the illustrated explanation based on one-sided-
+ness before accepting it. Student H questioned whether an important scientific process 
+was missing by asking if the roots should also absorb minerals together with water 
+(Line 41), while Student G explained that omitting this information could lead to an 
+incomplete understanding of plant nutrition (Line 42). They subsequently compared 
+the revised illustration with their science textbook (Lines 43–44) to determine whether 
+it was scientifically consistent with accepted classroom knowledge. During the interview, 
+Student G reflected, ‘I remembered our science lesson about water and nutrients moving 
+from the roots to the leaves, so I knew something was missing’ (Line 51), indicating that 
+they judged the illustration’s plausibility by evaluating whether it accurately and comple-
+tely represented accepted scientific processes rather than relying on its visual appeal.
+16 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 18]
+Sample dialogue 4
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 17
+--- PAGE BREAK ---
+[PAGE 19]
+From the four dialogues, students appeared to draw upon the same set of explanatory 
+criteria as they consistently evaluated plausibility, one-sidedness, while assessing the 
+GenAI-generated explanations. They also mentioned in our interview that their 
+evaluative moves were further reinforced by GenAI’s own warning, ‘ChatGPT can 
+make mistakes. Check important info’. Together, these complementary scaffolds 
+encouraged students to suspend immediate acceptance and engage in sustained 
+content evaluation.
+Theme 2. Source evaluation by verifying the credibility of GenAI explanations
+In this theme, students enacted source evaluation with attention to the reliability and 
+expertise principles (Bromme & Goldman, 2014; Sperber et al., 2010). During their 
+peer discussions and iterative prompting, they sought corroborating evidence, ques-
+tioned the absence of explicit citations, and compared GenAI outputs with authoritative 
+scientific resources. Within their cognitive levels, their evaluative practices were triggered 
+by the epistemic question prompts while remaining grounded in the epistemic criteria 
+used to judge explanatory quality. Alongside content evaluation, students also appeared 
+to treat ChatGPT’s reminder, ‘
+ChatGPT can make mistakes. Check important info’ as an 
+epistemic cue that encouraged them to suspend immediate trust, thus treating this as 
+GenAI’s epistemic provocateur function as it constantly prompted them to verify the 
+credibility of its own responses.
+For instance, following their evaluation of Canva’s explanation of plant growth, Stu-
+dents A and B shifted their attention from the explanation itself to the credibility of the 
+information. Student B asked, ‘
+Does this match what we learned in science class?’ (Line 21) 
+followed by Student A then proposing, ‘Let’s compare it with our science textbook to make 
+sure it’s correct’ (Line 22). After consulting the textbook, Student B concluded that ‘The 
+textbook explains the same process, so Canva’s answer seems reliable’ (Line 23). They 
+further questioned the transparency of the explanation when Student A observed, 
+‘Canva didn’t tell us where the information came from. That’s why we should check 
+another source’ (Line 24). These interactions illustrated how they evaluated reliability 
+through corroboration while recognising that trustworthy scientific explanations 
+should be supported by identifiable sources.
+Students C and D demonstrated similar source evaluation while examining 
+ChatGPT’s explanation distinguishing fungi from plants. After evaluating the scientific 
+completeness of the explanation, Student C suggested, ‘
+Let’s also check whether this 
+matches what scientists currently say about fungi’ (Line 12), which was confirmed by 
+Student D in Line 13. Furthermore, they questioned ChatGPT’s epistemic authority 
+when Student C remarked, ‘ChatGPT didn’t tell us where it got the information. Let’s 
+ask it to provide its sources’ (Line 14). Student D stated further that ‘If it gives information 
+from a biology textbook or a scientific organization, we can trust it more after verifying’ 
+(Line 15), explicitly connecting credibility with disciplinary expertise. Although 
+ChatGPT later stated that its explanation was based on biology textbooks and scientific 
+references (Line 16), students independently verified the information before accepting it 
+(Lines 17–18).
+A comparable pattern emerged when Students E and F evaluated Canva’s story of 
+plant growth. After determining that the explanation generally aligned with scientific 
+18 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 20]
+ideas, Student F asked, ‘Does this match what we learned in science class?’ (Line 35). 
+Student E verified the explanation, noting that it similarly described the transport of 
+water and nutrients (Line 36). They also questioned the transparency of the explanation 
+by asking, ‘Who supports this explanation?’ (Line 37). Although Canva responded that the 
+explanation was based on commonly accepted plant biology concepts (Line 38), Student 
+E remained cautious, suggesting, ‘Let’s still compare it with our science textbook because 
+Canva didn’t give a specific source’ (Line 39). These interactions indicated that in their 
+source evaluation, they mostly paid attention to the scientific verifiable sources that 
+GenAI provided them.
+Students likewise extended source evaluation to multimodal scientific representations. 
+After revising Canva’s illustration of water transport in plants, Student H proposed ver-
+ifying whether the visual explanation agreed with classroom science by asking, ‘
+Does this 
+match what we learned in science class?’ (Line 43). Students also questioned the origin of 
+the illustration itself. Using the same question prompt used by the other students, 
+Student H also asked, ‘Who supports this explanation? Can Canva tell us where it got 
+this information?’ (Line 45). Although Canva indicated that the illustration was based 
+on common educational materials (Line 46), Student H accepted the illustration only 
+after confirming that it communicated the same scientific process as their reference text
+-
+book (Line 48), demonstrating consistent evaluation of reliability and expertise across 
+both textual and visual outputs.
+Viewed across the four dialogues, students consistently enacted source evaluation by 
+corroborating GenAI-generated explanations with authoritative classroom resources, 
+questioning missing citations, and considering the expertise underlying scientific 
+claims. Their evaluation was prompted by explicit epistemic question prompts and 
+reinforced by ChatGPT’s own reminder that AI can make mistakes. These complemen
+-
+tary scaffolds encouraged students to verify information independently before accepting 
+GenAI-generated explanations, positioning GenAI not only a provider of information 
+but also as a catalyst for critical evaluation of scientific sources.
+Theme 3. Receiver evaluation by reflecting on personal understanding
+Alongside content and source evaluation, students’ reflection on their own understand-
+ing was the primary practice during receiver evaluation. The epistemic question prompts 
+scaffolded them to consider whether they genuinely understood GenAI-generated expla-
+nations and whether they accepted them because they supported meaningful understand-
+ing rather than simply appearing scientifically convincing.
+For Students A and B, receiver evaluation was evident when reflected on whether 
+GenAI-generated explanations made sense to them and that they could later communi-
+cate that understanding to others. For instance, after receiving Canva’s initial expla-
+nation, Student B questioned whether it matched what they had learned in science 
+class (Line 21), prompting Student A to compare the response with their textbook 
+(Lines 22–24). Student B further remarked that although the explanation ‘sounds 
+good’, it was difficult to understand (Line 25), leading Student A to suggest asking 
+Canva to simplify the explanation because ‘we don’t understand all the words yet’ 
+(Line 26). Student A then emphasised that they needed a simpler explanation of how 
+plant parts interact for plants to grow (Line 29), before Student B concluded that the 
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 19
+--- PAGE BREAK ---
+[PAGE 21]
+revised response was clearer because it explained both what happens and why it happens 
+(Line 30). These interactions demonstrate receiver evaluation with a focus on their per-
+sonal understanding while being grounded on whether it sufficiently explained the causal 
+process.
+Similar practices emerged with Students C and D. During the interview, they 
+explained that the epistemic criteria and question prompts prompted them to compare 
+ChatGPT’s explanation with their previous science lessons and textbook. Although 
+they found the explanation scientifically correct, they recognised that it omitted the 
+kingdom classification of fungi, which they considered an important concept. They 
+also noted that GenAI sometimes ‘provides complicated ideas but fail to say the basic 
+ones’. Thus, they reflected that if they could not restate the explanation in their own 
+words, they had not fully understood it.
+Comparable reflections were observed with Students E and F. While evaluating 
+Canva’s explanation presented as a story, Student E questioned whether they truly under-
+stood it despite its convincing presentation (Line 41). Guided by the reflective prompts 
+and the appropriate level of representation criterion, they evaluated whether they could 
+explain the same scientific phenomenon independently. During the interview, they 
+emphasised that they should always ensure ‘being able to relay a good scientific expla
+-
+nation of the same phenomenon when asked to do so’.
+Receiver evaluation likewise extended to multimodal representations. After compar-
+ing two GenAI-generated illustrations, Student G observed that the revised image 
+more clearly represented water absorption by the roots (Line 34), while Student H 
+suggested adding arrows to illustrate water movement for better understanding (Line 
+35). Student H further reflected that the revised illustration explained how water 
+enters the plant rather than merely showing root structures (Lines 37–40). Drawing on 
+prior classroom learning, they compared the illustration with their science textbook 
+and questioned whether it also represented mineral absorption (Lines 41–49). During 
+the interview, both students explained that they deliberately checked whether the illus
+-
+tration represented both observable and microscopic processes because this supported 
+their understanding and this would enable them to explain water transport more 
+clearly to their classmates.
+Overall, receiver evaluation was characterised by students’ continual reflection on 
+whether GenAI-generated explanations and representations made sense in relation to 
+their prior knowledge and whether their understanding was sufficient to communicate 
+scientific concepts accurately to their peers, with the epistemic scaffolds supporting 
+this reflective process.
+Discussion
+This study examined how middle school science students enacted epistemic vigilance 
+while co-constructing scientific explanations with GenAI using two explicit epistemic 
+scaffolds: criteria for good scientific explanations and epistemic question prompts. 
+Across the three themes, students’ interactions extended beyond retrieving information 
+to evaluating explanatory quality, scrutinising information sources, and reflecting on 
+their own understanding before accepting AI-generated contributions. These findings 
+demonstrate that epistemic vigilance can be deliberately cultivated in GenAI-supported 
+20 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 22]
+science learning when instructional scaffolds make disciplinary standards and epistemic 
+practices explicit.
+The first contribution concerns the role of explicit epistemic criteria in mediating stu-
+dents’ evaluation of scientific explanations. Previous research has shown that learners fre-
+quently accept AI-generated responses because they are fluent and always appear 
+plausible (Kasneci et al., 
+2023; Mollick & Mollick, 2023). In contrast, students in this 
+study evaluated explanations against disciplinary expectations by questioning causal ade-
+quacy, identifying conceptual omissions, reorganising to show interrelationships of plant 
+structures, and revising textual and visual representations. These findings suggest that 
+epistemic criteria functioned not merely as assessment tools but as mediational resources 
+that externalised the norms of scientific explanation, enabling students to participate 
+more authentically in disciplinary evaluation. Therefore, epistemic vigilance on their 
+co-constructed explanation with the GenAI through content evaluation became an 
+observable practice that may be explicitly framed as one of the classroom goals in devel
+-
+oping students’ epistemic agency.
+The complementary use of epistemic question prompts extended this evaluation 
+beyond scientific content to include the credibility of information sources and students’ 
+own understanding. Students enacted the three dimensions of epistemic vigilance pro
+-
+posed by Sperber et al. (2010) and Bielik and Krell (2025) in an interconnected epistemic 
+processes rather than discrete stages. Also, students frequently moved between evaluating 
+explanatory adequacy, corroborating claims with authoritative sources, and reflecting on 
+how prior knowledge, assumptions, and anticipated peer understanding shaped their 
+evaluations. This dynamic interplay suggests that epistemic vigilance in GenAI-sup
+-
+ported learning is best understood as a coordinated process of epistemic regulation sup-
+ported by explicit instructional scaffolds (Barzilai et al., 2020).
+A central theoretical contribution of this study is the positioning of students as the 
+primary epistemic agents within human–AI co-construction. Although discussions of 
+GenAI in education often emphasise its capacity to enhance epistemic understanding 
+(Chang et al., 2026), the present findings shift attention to learners’ epistemic work. Stu-
+dents continuously questioned, challenged, verified, revised, and refined GenAI-gener-
+ated explanations, with the responsibility for determining scientific acceptability 
+remaining with them rather than the technology. This finding reinforces conceptualiz
+-
+ations of epistemic vigilance as an active human capacity for evaluating communicated 
+information (Sperber et al., 2010) and extends this perspective by demonstrating how 
+explicit classroom scaffolds enable students to exercise epistemic agency when interact-
+ing with GenAI.
+The findings also advance current understandings of co-construction between stu-
+dents and GenAI. Based on the results, GenAI functioned as an information source, a 
+conversational partner, and an epistemic provocateur that stimulated further inquiry. 
+Together with the explicit epistemic scaffolds, students in this study became aware of 
+incomplete, overly general, or insufficiently represented responses. This, therefore 
+prompted them to identify explanatory gaps, formulate increasingly precise questions, 
+and iteratively refine both prompts and explanations. Co-construction therefore 
+emerged as a reciprocal epistemic process in which students’ evaluations shaped sub-
+sequent GenAI responses, while those responses generated new opportunities for disci-
+plinary reasoning. This perspective reframes the educational value of GenAI in the 
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 21
+--- PAGE BREAK ---
+[PAGE 23]
+learning process from producing responses to prompts to provoking productive episte-
+mic engagement.
+The findings likewise suggest that prompting should be conceptualised as an epistemic 
+practice rather than a technical skill. Students refined prompts because they first ident-
+ified conceptual gaps, questioned explanatory adequacy, or recognised representational 
+limitations. Prompt construction was therefore inseparable from scientific reasoning 
+and epistemic evaluation. This implies that prompt engineering in science education 
+should be embedded within disciplinary inquiry Siegle (2025), where increasingly soph-
+isticated prompts emerge from students’ application of explicit epistemic criteria instead 
+of technological trial and error.
+Finally, this study highlights the importance of explicit epistemic scaffolding for 
+science education in the age of GenAI. Because AI-generated responses are shaped by 
+users’ prompts, students require support to formulate purposeful questions, evaluate evi
+-
+dence systematically, and refine explanations iteratively. These scaffolds functioned as 
+mediational resources that supported participation in authentic scientific practices 
+while preserving students’ responsibility for epistemic judgment. Therefore, as GenAI 
+becomes increasingly integrated into classrooms, science education should therefore 
+prioritise developing students’ epistemic vigilance alongside scientific reasoning and 
+digital literacy. The findings demonstrate that epistemic vigilance is not an automatic 
+consequence of GenAI use but a learnable disciplinary practice that can be intentionally 
+fostered through carefully designed instructional supports.
+Conclusion
+This study described how middle school students enacted epistemic vigilance during 
+their co-construction of scientific explanations with GenAI through three interconnected 
+practices: evaluating the scientific adequacy of explanations, scrutinising the credibility of 
+information sources, and reflecting on their own understanding before accepting AI-gen
+-
+erated knowledge. These practices were supported by explicit epistemic scaffolds that 
+guided students to question, verify, and refine scientific explanations throughout iterative 
+interactions with GenAI. Thus, the findings demonstrate that epistemic vigilance is not 
+an automatic consequence of using AI but a disciplinary practice that can be intentionally 
+fostered through instructional support.
+This study also advances current literature by extending epistemic vigilance from a 
+theoretical construct describing how people evaluate communicated information to an 
+instructional framework for GenAI-supported science learning. It further contributes by 
+showing how explicit epistemic scaffolds operationalise content, source, and receiver evalu
+-
+ation during authentic classroom interactions, while positioning students as the primary 
+epistemic agents and GenAI as an information source, conversational partner, and episte-
+mic provocateur. These findings broaden existing discussions of human-GenAI collabor-
+ation by emphasising students’ epistemic work instead of the capabilities of AI systems.
+The findings also suggest that science education should prioritise the development of 
+epistemic vigilance alongside scientific reasoning and digital literacy. Explicit epistemic 
+scaffolds can help students formulate purposeful prompts, critically evaluate AI-gener-
+ated explanations, and iteratively improve scientific understanding, thereby supporting 
+more meaningful engagement with GenAI.
+22 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 24]
+Limitations
+Several limitations should be acknowledged in this study. First, it involved a relatively 
+small sample of participants, which limits the transferability of the findings to broader 
+educational settings. Additionally, participant selection involved students taught by the 
+first author, creating a preexisting teacher-student relationship that may have influenced 
+participants’ interactions and interview responses. Further, due to the students’ famili-
+arity with the teacher, they have felt inclined to provide socially desirable responses or 
+demonstrate behaviours perceived as academically appropriate. However, to minimise 
+the bias related to power dynamics between the teacher and the students, the classes 
+were non-graded. This is in addition to the several ethical procedures we implemented 
+including voluntary participation, parental consent, and data anonymization. Future 
+studies should therefore involve larger and more diverse participant groups, include 
+researchers independent of classroom assessment processes, and examine epistemic vig
+-
+ilance practices across varied science learning contexts and educational levels. In light of 
+the limitations, the credibility of this study can be attributed to robust qualitative data 
+corpus, which ensured triangulation and a rich understanding of how epistemic vigilance 
+was enacted during co-construction of scientific explanations with GenAI. Further, the 
+fine-grained line-by-line interaction analysis captured students’ epistemic vigilance in 
+real time.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+ORCID
+Moonhyun Han 
+ http://orcid.org/0000-0001-5975-1077
+Sally B. Gutierez 
+http://orcid.org/0000-0002-4791-7516
+References
+Alasadi, E. A., & Baiz, C. R. (2023). Generative AI in education and research: Opportunities, con-
+cerns, and solutions. Journal of Chemical Education
+, 100(8), 2965–2971. https://doi.org/10. 
+1021/acs.jchemed.3c00323
+Allchin, D. (2023). Ten competencies for the science misinformation crisis. Science Education
+, 
+107(2), 261–274. https://doi.org/10.1002/sce.21746
+American Association for the Advancement of Science. (2021). Artificial intelligence and COVID- 
+19: Applications and impact assessment.
+Anderson, B. R., Shah, J. H., & Kreminski, M. (2024). Homogenization effects of large language 
+models on human creative ideation. In Proceedings of the 16th Conference on Creativity and 
+Cognition (pp. 413–425). https://doi.org/10.1145/3635636.3656204
+Barzilai, S., & Chinn, C. A. (2018). On the goals of epistemic education: Promoting apt epistemic 
+performance. Journal of the Learning Sciences, 27(3), 353–389. https://doi.org/10.1080/ 
+10508406.2017.1392968
+Barzilai, S., Mor-Hagani, S., Zohar, A. R., Shlomi-Elooz, T., & Ben-Yishai, R. (2020). Making 
+sources visible: Promoting multiple document literacy with digital epistemic scaffolds. 
+Computers & Education, 157, Article 103980. https://doi.org/10.1016/j.compedu.2020.103980
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 23
+--- PAGE BREAK ---
+[PAGE 25]
+Bazerman, C. (2006). Analyzing the multidimensionality of texts. In J. L. Green, G. Camilli, & P. B. 
+Elmore (Eds.), Handbook of complementary methods in education research (pp. 77–94). 
+American Educational Research Association.
+Bielik, T., & Krell, M. (2025). Developing and evaluating the extended epistemic vigilance frame-
+work. Journal of Research in Science Teaching
+, 62(3), 869–895. https://doi.org/10.1002/tea.21983
+Boussioux, L., Lane, J. N., Zhang, M., Jacimovic, V., & Lakhani, K. R. (2024). The crowdless future? 
+Generative AI and creative problem-solving. Organization Science
+, 35(5), 1589–1607. https:// 
+doi.org/10.1287/orsc.2023.18430
+Bromme, R., & Goldman, S. R. (2014). The public’s bounded understanding of science. 
+Educational Psychologist, 49(2), 59–69. https://doi.org/10.1080/00461520.2014.921572
+Chang, J., Park, J., & Sim, J. Y. (2026). Harnessing generative AI to facilitate epistemic understand-
+ing of students in scientific inquiry. Journal of Science Education and Technology
+. Advance 
+online publication. https://doi.org/10.1007/s10956-026-10298-5
+Cheah, Y. H., Lu, J., & Kim, J. (2025). Integrating generative artificial intelligence in K–12 edu-
+cation: Examining teachers’ preparedness, practices, and barriers. Computers and Education: 
+Artificial Intelligence
+, 8, 100363. https://doi.org/10.1016/j.caeai.2025.100363
+Cooper, G. (2023). Examining science education in ChatGPT: An exploratory study of generative 
+artificial intelligence. Journal of Science Education and Technology
+, 32(3), 444–452. https://doi. 
+org/10.1007/s10956-023-10039-y
+de Andrade, V., Freire, S., & Baptista, M. (2019). Constructing scientific explanations: A system of 
+analysis for students’ explanations. Research in Science Education, 49(3), 787–807. https://doi. 
+org/10.1007/s11165-017-9648-9
+Doshi, A., & Hauser, O. (2024). Generative artificial intelligence enhances creativity but reduces 
+the diversity of novel content. Science Advances, 10(28), Article adn5290. https://doi.org/10. 
+1126/sciadv.adn5290
+Draxler, F., Werner, A., Lehmann, F., Hoppe, M., Schmidt, A., Buschek, D., & Welsch, R. (2024). 
+The AI ghostwriter effect: When users do not perceive ownership of AI-generated text but self- 
+declare as authors. ACM Transactions on Computer-Human Interaction, 31(2), 1–40. https:// 
+doi.org/10.1145/3637875
+Duncan, R. G., Chinn, C. A., & Barzilai, S. (2018). Grasp of evidence: Problematizing and expand-
+ing the next generation science standards’ conceptualization of evidence. Journal of Research in 
+Science Teaching
+, 55(7), 907–937. https://doi.org/10.1002/tea.21468
+Erduran, S., & Levrini, O. (2024). The impact of artificial intelligence on scientific practices: An 
+emergent area of research for science education. International Journal of Science Education
+, 
+46(18), 1982–1989. https://doi.org/10.1080/09500693.2024.2306604
+Erickson, F., & Shultz, J. (1992). Students’ experience of the curriculum. In P. W. Jackson (Ed.), 
+Handbook of research on curriculum: A project of the American educational research association 
+(pp. 465–485). Macmillan.
+Feinstein, N. W., & Baram-Tsabari, A. (2024). Epistemic networks and the social nature of public 
+engagement with science. Journal of Research in Science Teaching, 61(9), 2049–2068. https://doi. 
+org/10.1002/tea.21941
+Feng, H. (2021). A systemic functional multimodal discourse analysis of English micro-lectures. 
+Journal of Higher Education Research, 2(5), 293–307. https://doi.org/10.32629/jher.v2i5.508
+Guo, W., Liang, Z., Wang, C., Li, X., Hu, H., Chen, S., Yu, Q., & Zhao, Q. (2025
+). Student-AI col-
+laborative creative problem-solving: The role of human agency. Computers & Education
+, 239, 
+Article 105433. https://doi.org/10.1016/j.compedu.2025.105433
+Gyeonggi Provincial Office of Education (GPOE). (2024). 2023 Gyeonggi futuristic science lab class 
+casebook - Science classes using cutting-edge science technology that anyone can try. Suwon, 
+Korea: Convergence Education Policy Division, Gyeonggi Provincial Office of Education.
+Hemmer, P., Schemmer, M., Vössing, M., & Kühl, N. (2021). Human-AI complementarity in 
+hybrid intelligence systems: A structured literature review. In Proceedings of the Twenty-Fifth 
+Pacific Asia Conference on Information Systems
+, 78–91.
+24 
+ M. HAN AND S. B. GUTIEREZ
+--- PAGE BREAK ---
+[PAGE 26]
+Hoßbach, C., & Isaksen, S. G. (2025). AI-augmented approaches to creative problem-solving: A 
+metacognitive perspective. Creativity and Innovation Management, Advance online publication. 
+https://doi.org/10.1111/caim.70003.
+Kasneci, E., Sessler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., Gasser, U., Groh, 
+G., Günnemann, S., Hüllermeier, E., Krusche, S., Kutyniok, G., Michaeli, T., Nerdel, C., Pfeffer, 
+J., Poquet, O,, S., Sailer, M., Schmidt, A., Seidel, T., … Kasneci, G. (2023). ChatGPT for good? 
+On opportunities and challenges of large language models for education. Learning and 
+Individual Differences, 103, 102274. https://doi.org/10.1016/j.lindif.2023.102274
+Lin, F., & Puntambekar, S. (2019). Design epistemic scaffolding in CSCL. International conference 
+on computer supported collaborative learning.
+Lincoln, Y. S., Guba, E. G., & Pilotta, J. J. (1985). Naturalistic inquiry. International Journal of 
+Intercultural Relations, 9(4), 438–439. https://doi.org/10.1016/0147-1767(85)90062-8
+Lubbe, A., Marais, E., & Kruger, D. (2025). Cultivating independent thinkers: The triad of artificial 
+intelligence, Bloom’s taxonomy and critical thinking in assessment pedagogy. Education and 
+Information Technologies, Advance online publication. https://doi.org/10.1007/s10639-025- 
+13476-x
+Mishra, P., Warr, M., & Islam, R. (2023). Tpack in the age of ChatGPT and generative AI. Journal 
+of Digital Learning in Teacher Education, 39(4), 235–251. https://doi.org/10.1080/21532974. 
+2023.2247480
+Mollick, E. R., & Mollick, L. (2023). Using AI to implement effective teaching strategies in class-
+rooms: Five strategies, including prompts. The Wharton School Research Paper
+. https://doi.org/ 
+10.2139/ssrn.4391243
+Ng, D. T. K., Wu, W., Leung, J. K. L., Chiu, T. K. F., & Chu, S. K. W. (2024). Design and validation 
+of the AI literacy questionnaire: The affective, behavioural, cognitive and ethical approach. 
+British Journal of Educational Technology
+, 55(3), 1082–1104. https://doi.org/10.1111/bjet.13411
+NGSS Lead States. (2013). Next generation science standards: For states, by states. The National 
+Academies Press.
+Oh, P. S., & Lee, G.-G. (2025). Confronting imminent challenges in humane epistemic agency in 
+science education: An interview with ChatGPT. Science & Education, 34, 779–805. https://doi. 
+org/10.1007/s11191-024-00515-1
+Oh, S. J. (2023). Effective ChatGPT prompts in mathematical problem solving: Focusing on quad-
+ratic equations and quadratic functions. Communications of Mathematical Education
+, 37(3), 
+945–967. https://doi.org/10.7468/jks-mee.2023.37.3.545
+Osborne, J., & Pimentel, D. (2023). Science education in an age of misinformation. Science 
+Education
+, 107(3), 553–571. https://doi.org/10.1002/sce.21790
+O’Toole, K., & Horvát, E-Á. (2024). Extending human creativity with AI. Journal of Creativity, 
+34(2), Article 100080. https://doi.org/10.1016/j.yjoc.2024.100080
+Park, J. (2025). A systematic literature review of generative artificial intelligence (GenAI) literacy 
+in schools. Computers and Education: Artificial Intelligence, 9, 100487. https://doi.org/10.1016/j. 
+caeai.2025.100487
+Penn, M., & Ramnarain, U. (2025). Creating adaptive learning pathways for inquiry-based learn-
+ing in school science using generative AI large language models. International Journal of Science 
+Education
+, 1–25. https://doi.org/10.1080/09500693.2025.2574519
+Pimentel, D. R. (2025). Learning to evaluate sources of science (mis)information on the internet: 
+Assessing students’ scientific online reasoning. Journal of Research in Science Teaching
+, 62(3), 
+684–720. https://doi.org/10.1002/tea.21974
+Puntambekar, S. (2021). Distributed scaffolding: Scaffolding students in classroom environments. 
+Educational Psychology Review, 34(3), 1–22. https://doi.org/10.1007/s10648-021-09636-3
+Sharon, A. J., & Baram-Tsabari, A. (2020). Can science literacy help individuals identify 
+misinformation in everyday life? Science Education, 104(5), 873–894. https://doi.org/10.1002/ 
+sce.21581
+Shin, B., Lee, J., & Yoo, Y. (2024). Exploring automatic scoring of mathematical descriptive assess-
+ment using prompt engineering with the GPT-4 model: Focused on permutations and 
+INTERNATIONAL JOURNAL OF SCIENCE EDUCATION 
+ 25
+--- PAGE BREAK ---
+[PAGE 27]
+combinations. The Mathematical Education, 63(2), 187–207. https://doi.org/10.63311/mathedu. 
+2024.63.2.187
+Siegle, D. (2025). Using AI prompt engineering to improve gifted students’ questioning. Gifted 
+Child Today, 48(1), 68–72. https://doi.org/10.1177/107621752412898
+Sirnoorkar, A., Zollman, D., Laverty, J. T., Magana, A. J., Rebello, N. S., & Bryan, L. A. (2024). 
+Student and AI responses to physics problems examined through the lenses of sensemaking 
+and mechanistic reasoning. Computers and Education: Artificial Intelligence, 7, Article 
+100318. https://doi.org/10.1016/j.caeai.2024.100318
+Sperber, D., Clément, F., Heintz, C., Mascaro, O., Mercier, H., Origgi, G., & Wilson, D. (2010). 
+Epistemic vigilance. Mind & Language, 25(4), 359–393. https://doi.org/10.1111/j.1468-0017. 
+2010.01394.x
+Tang, K. S., Cooper, G., Rappa, N., Cooper, M., Sims, C., & Nonis, K. (2024). A dialogic approach 
+to transform teaching, learning & assessment with generative AI in secondary education: A 
+proof of concept. Pedagogies: An International Journal, 19(3), 493–503. https://doi.org/10. 
+1080/1554480X.2024.2379774
+Tang, K. S., & Putra, G. B. S. (2026). Generative AI as a dialogic partner: Enhancing multiple per-
+spectives, reasoning, and argumentation in science education with customized chatbots. Journal 
+of Science Education and Technology
+, 35, 128–140. https://doi.org/10.1007/s10956-025-10240-1
+Tseng, A. S., Bonilla, S., & MacPherson, A. (2021). Fighting “bad science” in the information age: 
+The effects of an intervention to stimulate evaluation and critique of false scientific claims. 
+Journal of Research in Science Teaching
+, 58(8), 1152–1178. https://doi.org/10.1002/tea.21696
+Yin, S. Y., & Zeng, S. A. (2025). Developing an analytical framework for multi-level data analysis in 
+qualitative inductive studies. International Journal of Qualitative Methods, 24, 1–10. https://doi. 
+org/10.1177/16094069251401328
+26 
+ M. HAN AND S. B. GUTIEREZ

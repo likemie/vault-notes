@@ -9,7 +9,7 @@ aliases:
 summary: "研究者与实践者审视自身角色、背景、偏见与隐性假设如何塑造研究与行动全过程的认识论机制，从现象学哲学根基延伸至行动研究、教育探究反思性（防范活动陷阱）及人机协同分析中的人在回路主体责任。"
 type: concept
 domain: "research-methodology"
-related_count: 67
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Epistemic Agency]]"
   - "[[Evaluative Judgement]]"
+  - "[[Scientific Explanation]]"
   - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Reflective Thinking]]"
@@ -47,10 +48,13 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
   - "[[Heterogeneity]]"
+  - "[[Variable]]"
   - "[[Research Topic]]"
   - "[[Backyard Research]]"
   - "[[School Enquiry Cycle]]"
   - "[[Professional Learning Community]]"
+  - "[[Epistemic Scaffolding]]"
+  - "[[Epistemological Vigilance]]"
   - "[[Self-Improving School System]]"
   - "[[Technical Rationality]]"
 related_theories:
@@ -73,6 +77,9 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Audit Trail]]"
   - "[[Questionnaire]]"
+  - "[[Effect Size]]"
+  - "[[Multimodal Discourse Analysis]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Visual Research Methods]]"
   - "[[Correlational Research]]"
@@ -86,6 +93,7 @@ related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Rickinson_2022_ER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
+  - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -149,6 +157,7 @@ updated: 2026-09-22
 > - **多模态与话语双重反身性** 意识到学术报告与视听数据本身是被建构的话语文本，研究者自身的修辞与技术选择同样须受反思解构。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, pp. 250, 457–458)]]
 > - **实践者深层[[Hypothesis\|假设]]审思（Challenging Underlying Assumptions）** 在教育校本探究中，反身性要求行动者不仅对微观教学法做表面微调，更要持续质疑左右关键决策的潜在假设与因果行动理论，避免因反思缺失滑入“忙碌尝试却无实质成效”的[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124, 131)]]
 > - **组织级反思文化与集体审议[[Champ\|场域]]（Reflective [[Organizational Culture\|organisational culture]]）** 在[[Evidence-Based Education\|循证教育]]改进中，反思性超越了个体[[Epistemology\|认识论]]自省，依赖于组织层面的心理安全感、包容创新试错风气以及制度化研讨平台，使实践者能够公开审视惯常做法与潜在偏见，实现从个体孤立反思向集体专业审议的深化。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 143–144)]]
+> - **学习者接收者自我反思与认知调控（Receiver Epistemic Reflexivity）** 在人机协同探究中，反身性延伸至学习者对自身认知状态的元反思——通过“这与既有知识一致吗”、“我们真正理解这一因果机制了吗”等反思提示，持续审视先验假设与理解盲区，防范算法表层顺从。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5–6)]]
 
 > [!warning] 个人经验叙述的篇幅控制
 > 在正文中阐释个人背景与前见时，必须严格控制篇幅，避免个人经验讨论反客为主，压倒研究问题、实证证据与方法论核心内容（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9]]）。
@@ -225,10 +234,10 @@ updated: 2026-09-22
 
 ---
 
-### 命题四　计算分析与人机协同重构了反身性责任，技术自动化凸显了人类研究者在意义赋予与偏误防范中的人在回路主体地位
+### 命题四　计算分析与人机协同重构了反身性责任，技术自动化凸显了人类研究者与学习者在意义赋予与偏误防范中的人在回路主体地位
 
 > [!concept-lens] 智能算法时代的人在回路方法论审慎
-> 本命题探讨计算机辅助软件与大语言模型普及背景下，反身性如何演进为防范算法黑箱、保留意义解释权的核心防线。
+> 本命题探讨计算机辅助软件与大语言模型普及背景下，反身性如何演进为防范算法黑箱、保留意义解释权以及在学习中维持认知监控的核心防线。
 
 > [!claim] Cohen et al.
 > **反身性主导与人类最终解释权** 质性分析不是流水线上的机械数据清洗，而是研究者调动主观反身性与理论敏感度同经验世界展开的持续[[Dialogue in Education\|对话]]。尽管计算工具与生成式模型能高效提炼候选主题，但模型不能代替研究者感受受访者的生命体验；研究者必须保留反身性主导权，将模型输出仅视作待检验的分析[[Hypothesis\|假设]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, 30.6)]]
@@ -238,6 +247,9 @@ updated: 2026-09-22
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
 > **对算法影响的反身性规约与认识主权捍卫** 在[[Generative Artificial Intelligence\|生成式人工智能]]深度嵌入[[Literature Review\|文献综述]]、数据归纳与推论写作的学习与研究环境中，反身性进一步演化为学习者对技术影响的自省调控（Reflexive Regulation of AI Influence）。学习者不仅反思自身的经验前见，更必须对人工智能作为认识中介所引入的流畅度错觉、不透明综合及潜在规范偏见保持警觉；反身性构成了在人机共生网络中行使关系性[[Epistemic Agency\|认识主体性]]、防范[[Evaluative Judgement\|评价性判断]]算法置换的关键认识论防火墙。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–4, 7)]]
+
+> [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]
+> **反思性提问提示语驱动的接收者自我认知审视与探究调控** 初中生在与生成式 AI 协同建构[[Scientific Explanation|科学解释]]时，反身性具体表现为依托教师设计的显性反思提问提示语（Reflective Questioning Prompts）对自身认知状态与探究决策展开的接收者评估（Receiver Evaluation）。学生持续监控“我们是否真正理解了 AI 提出的概念网络”、“AI 的推论与课本已有知识是否存在冲突”，并在多模态表征选择中反思因果机制的科学适切性，从而在人机对话中牢固维系主导探究方向的认识主体地位。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5–6, 18–22)]]
 
 ---
 
@@ -250,7 +262,7 @@ updated: 2026-09-22
 > | **文本话语命题** | 写作与分析本身构成被建构的话语文本，须经受双重反身性解构 | 第一人称叙事自省、反思性修辞、解构客观主义外衣 | Ashmore (1989); Hammersley & Atkinson |
 > | **解放与防陷命题** | 反身性既是解放性探究基石，又是实践者抵御[[Activity Traps\|活动陷阱]]与盲动空转的关键防线 | 审视利益反移情、质疑关键决策深层假设、因果行动理论确立 | Hall (1996); Newby (2010); [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] |
 > | **组织文化使能命题** | 反思性超越个体孤立省察，依赖学校制度化心理安全与反思性组织文化 | 探究心智培育、包容创新试错风险、构建集体专业审议土壤 | Stoll et al. (2018); [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] |
-> | **人机协同命题** | 计算工具无法替代生命体验，反身性确立人在回路与方法代码留痕 | 人在回路（HITL）、防范算法幻觉、方法代码显性记录 | Bogdan & Biklen (1992); Cohen et al. (2011, Ch. 30) |
+> | **人机协同命题** | 计算工具无法替代生命体验，反身性确立人在回路、算法规约与自我认知监控 | 人在回路（HITL）、防范算法幻觉、方法代码留痕、接收者自我监控 | Bogdan & Biklen (1992); [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
 
 ---
 
@@ -264,6 +276,7 @@ updated: 2026-09-22
 > - **2018 — 教育[[Practitioner Enquiry\|实践者探究]]中的反身性与[[Activity Traps\|活动陷阱]]实证诊断** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 将[[Reflective Thinking\|反思性探究]]（Reflective Professional Inquiry）确立为有效学习环境的判定特征；实证揭示了教师高频表层尝试（82%）与深层[[Hypothesis\|假设]]反身性审视严重脱节（55%）的现实落差，论证了反身性缺失诱发[[Activity Traps\|活动陷阱]]的组织病理机制。
 > - **2020s — 计算质性分析与人在回路主体责任** 面对计算机辅助软件（[[Qualitative Computer Software\|CAQDAS]]）与[[Generative Artificial Intelligence\|生成式人工智能]]辅助[[Coding in Qualitative Research\|编码]]的普及，学界确立人在回路（HITL）反身性准则，反身性成为抵御算法黑箱与去情境化的核心防线（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 560–561]]）。
 > - **2022 — [[Evidence-Based Education\|循证教育]]生态与反思性[[Organizational Culture\|组织文化]]确立** 莫纳什 Q 计划（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）在[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]中，将反身性从个体研究者认识论自省扩展为涵盖“探究心智”与“反思性[[Organizational Culture\|组织文化]]”的多层次使能构件，确立了制度化批判反思与心理安全环境在防范循证形式主义中的关键地位。
+> - **2026 — 人机协同学习中的算法自省与接收者自我反思** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 确立人机共生中的算法影响反身性规约；[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 实证揭示反思性提问提示语如何驱动中学生在[[Scientific Explanation|科学解释]]人机协同中开展多模态因果反思与接收者认知监控。
 
 ---
 
@@ -308,6 +321,13 @@ updated: 2026-09-22
 > 
 > 实证表明，一线教师往往乐于在表层行动上频繁试错（82%），但在触及教育哲学和决策根因的“深层假设反身性审视”上存在明显的认知滞后（55%），印证了实践者反思性缺乏将导致学校陷入“只顾开会尝试、不顾因果根因”的组织病理。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130–131)]]
 
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 6–22)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课 | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 显性反思提问提示语驱动的接收者自我认知反思 | 学生在反思提示语引导下主动审视先验假设、对比教科书因果机制并完成 4 轮提示词迭代 | 质性微观互动分析 | 证实反思性提问支架是中学生在 AI 交互中维持认知主体性与深层理解的核心机制 |
+
 ---
 
 ## 操作化指南
@@ -336,6 +356,8 @@ updated: 2026-09-22
 > | [[Critical Ethnography\|批判民族志]] | 方法 | 在批判民族志中，反身性从自我审视升级为积极的政治行动主义。研究者不仅反思自身，更反思研究如何揭示隐蔽支配并推动社会解放。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 447–448)]] |
 > | [[Audit Trail\|审计追踪]] | 概念 | 审计追踪为反身性提供了可查验的物理载体。反思备忘录、方法编码与心智倾向手记作为审计档案的关键支柱，确保了主观诠释的可追溯性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, pp. 162–163)]] |
 > | [[Memos\|备忘录]] | 概念 | 反身性依赖于备忘录的持续记录。备忘录保存了研究者在编码和概念提炼过程中的灵感、理论反思与心路历程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, 29.5)]] |
+> | [[Epistemic Scaffolding\|认识论支架]] | 概念 | 认识论支架通过提供显性反思提问提示语，直接赋能学习者在人机协同中开展接收者层面的认识论反身性自省与理解监控。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5–6)]] |
+> | [[Epistemological Vigilance\|认识论警觉]] | 概念 | 反思性构成了认识论警觉中“接收者自我评估”维度的心理基石，促使主体持续审视自身先验偏见与真实理解。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, p. 5)]] |
 
 ---
 
@@ -347,3 +369,4 @@ updated: 2026-09-22
 > - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 在[[Self-Improving School System\|自我改进学校系统]]中实证检验教师的反思性专业探究，揭示深层决策[[Hypothesis\|假设]]反思滞后（55%）与表面尝试活跃（82%）的鲜明反差，阐明反思性赤字诱发[[Activity Traps\|活动陷阱]]的组织机理。
 > - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 提出[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]，将反身性融入“探究心智”与“反思性[[Organizational Culture\|组织文化]]”使能构件，阐明批判反思与心理安全环境对打破[[Technical Rationality\|技术理性]]盲从的关键价值。
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 系统阐释在人工智能中介学习与学术探究中反身性调控对抵抗算法流畅性诱导、维系关系性[[Epistemic Agency\|认识主体性]]的决定性价值。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 实证揭示反思性提问提示语如何驱动中学生在[[Scientific Explanation|科学解释]]人机协同建构中开展接收者自我监控与[[Epistemology|认识论]]反身性审视，维系核心认识主体地位。

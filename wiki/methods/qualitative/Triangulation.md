@@ -10,9 +10,9 @@ summary: "在研究人类行为的某一方面时使用两种或更多资料收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 41
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Academic Self-Concept]]"
   - "[[Critical Thinking]]"
   - "[[Virtual World]]"
+  - "[[Dialogue in Education]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -51,18 +52,21 @@ related_methods:
   - "[[Case Study]]"
   - "[[Questionnaire]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Multimodal Discourse Analysis]]"
+  - "[[Qualitative Observation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
+  - "[[Argument_Han_Gutierez_2026_IJSE]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
 status: draft
 created: 2026-06-01
-updated: 2026-07-08
+updated: 2026-09-22
 ---
 # Triangulation
 
@@ -83,7 +87,7 @@ updated: 2026-07-08
 > - **[[Unit of Analysis\|分析单位]]** 数据来源（人、文件、观察记录）、方法（量化/质性）、研究者、理论
 > - **输出形式** 汇聚的证据基础——跨来源、跨方法或跨研究者的一致性（或不一致性）判断
 
-> [!citation-card]- Campbell & Fiske 对三角验证的奠基性贡献
+> [!citation-card] Campbell & Fiske 对三角验证的奠基性贡献
 > 三角验证是展示[[Concurrent Validity\|共时效度]]的一种有力方式，特别是在质性研究中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 188)]]
 >
 > *Triangulation is a powerful way of demonstrating concurrent validity, particularly in qualitative research (Campbell & Fiske, 1959).*
@@ -200,7 +204,8 @@ updated: 2026-07-08
 ## 使用此方法的研究
 
 > [!evidence-grid] 研究索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]] — 在[[Qualitative Research\|质性研究]]设计中介绍三角验证作为八种效度策略之一，描述通过多数据来源汇聚构建主题的操作程序。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10]] — 在 Denzin (1970) 六种三角验证类型框架中详细展开，记录对三角验证的四重批评与 Denzin (1997) 的回应，以及 Lincoln & Guba (1985) 对三角验证功能的重定义。
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 在[[Qualitative Research\|质性研究]]设计中介绍三角验证作为八种效度策略之一，描述通过多数据来源汇聚构建主题的操作程序。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, pp. 188–195)]] — 在 Denzin (1970) 六种三角验证类型框架中详细展开，记录对三角验证的四重批评与 Denzin (1997) 的回应，以及 Lincoln & Guba (1985) 对三角验证功能的重定义。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以三阶段收敛式设计实现方法三角验证：量化调查（[[Critical Thinking Strategies Scale\|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]]）、质性[[Case Study\|案例研究]]（访谈+观察+文件）、组间比较（[[California Critical Thinking Disposition Inventory\|CCTDI]]+[[Academic Self-Concept\|ASC]]+ATAR）三组证据合并比较，检验 ToK 与[[Critical Thinking\|批判性思维]]的关系
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 在[[Virtual World\|虚拟世界]]研究中，文字、聊天、语音和手势等不同沟通渠道的数据均可被记录和[[Transcription in Qualitative Research\|转录]]，通过时间戳（time-stamp）比较不同渠道的分析结果，实现数据三角验证（Martin & Vallance, 2008; Vallance & Wiz, 2008）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, pp. 453–454)]] — 在[[Virtual World\|虚拟世界]]研究中，文字、聊天、语音和手势等不同沟通渠道的数据均可被记录和[[Transcription in Qualitative Research\|转录]]，通过时间戳（time-stamp）比较不同渠道的分析结果，实现数据三角验证（Martin & Vallance, 2008; Vallance & Wiz, 2008）。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 在科学教育人机协同探究质性研究中，采用[[Multimodal Discourse Analysis|多模态话语分析]]实现系统的数据三角互证（课堂视频录像与同伴[[Dialogue in Education|对话]]、4 轮人机交互提示词日志与数字生成物、课后半结构化反思访谈以及[[Qualitative Observation|田野观察]]手记）；同时在教学层面揭示中学生如何通过对照教科书与一手权威资料对生成式 AI 输出展开多源证据三角互证。

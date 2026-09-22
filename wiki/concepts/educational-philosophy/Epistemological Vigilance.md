@@ -26,6 +26,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Reliability]]"
   - "[[Critical Thinking]]"
+  - "[[Source Evaluation]]"
   - "[[Creativity]]"
   - "[[Surface and Deep Learning]]"
   - "[[Reflexivity]]"
@@ -36,8 +37,9 @@ related_concepts:
   - "[[AI Hallucination]]"
   - "[[Metacognition]]"
   - "[[Effective Teaching]]"
-  - "[[Working Memory]]"
   - "[[Document]]"
+  - "[[Hypothesis]]"
+  - "[[Working Memory]]"
   - "[[Self-Regulated Learning]]"
   - "[[Positivism]]"
   - "[[Dialogue in Education]]"
@@ -45,8 +47,6 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Epistemic Scaffolding]]"
   - "[[Scientific Explanation]]"
-  - "[[Source Evaluation]]"
-  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Growth]]"
   - "[[Champ]]"
@@ -92,19 +92,24 @@ updated: 2026-09-22
 > - **用途** 帮助社会科学研究者破除对“领导力”、“教学质量”等日常规范性概念的未经审查的接受；帮助高等教育学习者在人机协同中识别模型幻觉、解构顺滑表象并维持深层[[Critical Thinking\|批判性思维]]。
 > - **边界** 区别于对一切知识持怀疑态度的虚无主义，它旨在通过严格的标准校准与[[Triangulation\|三角互证]]确立可靠认识；同时超越事后静态的质检操作，是一种内嵌于认知监控与探究活动全过程的能动性状态。
 
-> [!citation-card]- 关键表述：社会学方法论视角
+> [!citation-card] Bourdieu et al. 论社会学反思中的认识论警觉
 > 认识论警觉在社会科学中尤为必要，因为自发社会学家的日常语言与意见，与研究者的科学话语之间的界限比任何其他地方都更为模糊。[[Argument_Eacott_2015_EPT\|(Bourdieu et al., 1968/1991, 引自 Eacott, 2015, p. 322)]]
 >
 > *Epistemological vigilance is particularly necessary in the social sciences, where the separation between the everyday language and opinion of the spontaneous sociologist and the scientific discourse of the researcher is more blurred than elsewhere.*
 
-> [!citation-card]- 关键表述：认知科学与人机协同视角
+> [!citation-card] Sperber et al. 论演化认知与人际沟通中的认识性警觉
+> 人类演化出了一套专门的认知机制——认识性警觉（Epistemic Vigilance），使个体能够对沟通过程中接收到的信息展开定向评估。这种警觉主要针对两个维度：一是针对沟通者本身的[[Source Evaluation|信源评估]]（评估其专业能力与可信度），二是针对所传递命题的内容评估（评估其逻辑自洽性与先验信念的吻合度），从而在防范欺骗与获取有益知识之间取得生态平衡。(Sperber et al., 2010, pp. 359–389)
+>
+> *Epistemic vigilance is not the opposite of trust; it is the opposite of blind trust. It is a suite of cognitive mechanisms that assess the quality of incoming information and the reliability of its source.*
+
+> [!citation-card] Medina 及 Li et al. 论人机协同中的认识论摩擦与警觉
 > 这种不平衡凸显了批判性思维与[[Creativity\|创造性思维]]协同发展的脆弱性，并强调了“认识论摩擦”（Medina, 2013）的重要性——即维持高阶认知所必需的生产性张力。一旦缺乏这种摩擦与警觉，AI 生成的流畅性就会轻易绕过[[Surface and Deep Learning\|深层学习]]所不可或缺的[[Reflexivity\|反思性]]挣扎。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 10)]]
 >
 > *This imbalance underscores the fragility of CT–CrT co-development and highlights the importance of "epistemic friction" (Medina, 2013) — the productive tension that sustains higher-order cognition. Absent such friction, AI-generated fluency can bypass the reflective struggle central to deep learning.*
 
 > [!boundary]- 概念边界
 > - **不等于 [[Epistemological Break\|认识论断裂]]** 断裂是研究初始阶段与日常常识的“决裂动作”（转身离去），而警觉是贯穿始终的“维护机制”（防止不知不觉往回走）。
-> - **不等于 [[Reflexivity\|反思性]]** 反思性更广泛地指行动者对自身社会位置、学术轨迹与权力关系的审视；认识论警觉特异性聚焦于**日常语言前科学概念的渗透**以及**外部信息与算法流畅性的真伪核验**。
+> - **不等于 [[Reflexivity\|反思性]]** 反思性更广泛地指行动者对自身社会位置、学术轨迹与权力关系的审视；认识论警觉特异性聚焦于日常语言前科学概念的渗透以及外部信息与算法流畅性的真伪核验。
 > - **不等于 认识论虚无主义** 警觉并非为了消解客观真理的可能性，而是为了通过主动克服认知偏见与技术幻觉，达到具有认识论辩护力的科学理解。
 
 ---
@@ -114,11 +119,11 @@ updated: 2026-09-22
 > [!contrast-table] [[Epistemology\|认识论]]警觉在跨学科语境中的[[Construct\|构念]]辨析
 > | 比较维度 | 社会学反思方法论语境 | 认知与演化科学语境 | [[Generative Artificial Intelligence\|生成式 AI]] 与人机学习科学语境 |
 > |---|---|---|---|
-> | **核心分析主体** | 社会科学研究者、教育行政学者 | 人类个体、信息接收者与沟通者 | 人机协同中的大学生、专业探究者 |
+> | **核心分析主体** | 社会科学研究者、教育行政学者 | 人类个体、信息接收者与沟通者 | 人机协同中的探究者、学生 |
 > | **警觉针对的核心客体** | 日常惯用词、常识概念（[[Doxa]]）、制度化神圣标签 | 欺骗性言论、不可靠信息源、虚假陈述 | 模型[[AI Hallucination\|幻觉]]（Hallucination）、算法偏见、表面语义流畅性 |
 > | **内在认知与社会机制** | 参与性对象化、对对象建构过程的持续批判 | 认知信任校准、信念修正与反省性推理 | [[Metacognition\|元认知]]监控、认识论摩擦维持、提示词迭代核查 |
 > | **防御失败的典型后果** | 沦为既有权力结构与管理主义的合法化工具 | 陷入认知盲从与错误信念传播 | 触发有害的[[Cognitive Offloading\|认知卸载]]、批判思维退化与心智外包 |
-> | **代表性理论与学者** | Bourdieu et al. (1968/1991); [[Argument_Eacott_2015_EPT\|Eacott (2015)]] | Sperber et al. (2010); Medina (2013) | Ng et al. (2021); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
+> | **代表性理论与学者** | Bourdieu et al. (1968/1991); [[Argument_Eacott_2015_EPT\|Eacott (2015)]] | Sperber et al. (2010); Medina (2013) | Ng et al. (2021); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
 
 ---
 
@@ -126,7 +131,9 @@ updated: 2026-09-22
 
 > [!feature] 核心要素
 > - **日常语言与常识前建构的持续解构** 警惕科学术语对生活日常词汇（如“领导力”、“改进”、“[[Effective Teaching\|有效教学]]”）的无反思套用，揭示这些概念在掩盖权力关系的同时制造的“科学感假象”。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, pp. 322–324)]]
-> - **对表面语义流畅性的[[Epistemology\|认识论]]怀疑** 抵抗大语言模型因统计概率生成所展现出的“顺滑且极度自信”的表象，清醒认识到语法正确不等于事实真实与逻辑严密。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]
+> - **内容评估维度（Content Evaluation）** 针对算法生成内容的似真性、因果机制完整性、片面性与语境适切性进行严谨检验，排查模型遗漏关键机制或虚构论据的缺陷。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 4–5)]]
+> - **二手[[Source Evaluation|信源评估]]维度（Source Evaluation）** 追问外部输出与算法推论背后的[[Document|文献]]依据、权威共识与专业资质，辨识信息中介的利益动机与[[Reliability|可靠性]]。[[Argument_Han_Gutierez_2026_IJSE\|(Sperber et al., 2010; Han & Gutierez, 2026, p. 5)]]
+> - **接收者自我评估维度（Receiver Evaluation）** 审视认知主体自身的先验[[Hypothesis\|假设]]、偏见盲区以及对生成内容的真实理解程度，防范表面语义顺从。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5–6)]]
 > - **生产性“[[Epistemic Friction\|认识论摩擦]]”的主动维持** 在人机互动中主动设置认知阻力与验证关卡，拒绝将判断权全盘让渡，确保[[Working Memory\|工作记忆]]在概念权衡中持续活跃。[[Argument_Li_2026_CEAI\|(Medina, 2013; Li et al., 2026, p. 10)]]
 > - **红队测试与多源证据[[Triangulation\|三角互证]]** 采取对抗性测试思维（如主动寻找模型输出漏洞、对比一手学术[[Document\|文献]]与同行评议数据），形成事实核查的闭环机制。[[Argument_Li_2026_CEAI\|(Archila et al., 2024; Li et al., 2026, pp. 6, 11)]]
 > - **[[Metacognition\|元认知]]与[[Self-Regulated Learning\|自我调节学习]]的内驱支撑** 依托前瞻规划、策略监控与反思日记，根据探究挑战度动态调节技术调用边界，保持认知主体性。[[Argument_Li_2026_CEAI\|(Zimmerman, 2002; Li et al., 2026, p. 11)]]
@@ -138,9 +145,9 @@ updated: 2026-09-22
 >     
 >     B -->|"<b>警觉缺失 / 认知天真</b><br>(顺应表面流畅性 / 追求认知节能)"| C["<b>心智盲从与认知侵蚀</b><br>• 社会学: 套用日常前科学概念<br>• 学习科学: 触发有害认知卸载<br>• 结果: 论证破碎 / 主体性丧失"]
 >     
->     B -->|"<b>警觉维持 / 主体激活</b><br>(施加反思提示 / 显性素养培训)"| D["<b>认知摩擦与深度审视</b><br>• 概念解构: 追问谁定义/为何定义<br>• 事实核查: 识别模型幻觉与偏见<br>• 策略监控: 自我调节学习与量规对齐"]
+>     B -->|"<b>警觉维持 / 主体激活</b><br>(显性学科标准 / 反思提问提示语)"| D["<b>三维认识论审视与认知摩擦</b><br>• 内容评估: 检验机制完整性与表征适切性<br>• 信源评估: 追问 AI 背后证据与文献出处<br>• 接收者评估: 审视自身真实理解与先验假设"]
 >     
->     D --> E["<b>稳固的高阶认知建构</b><br>• 科学对象自主建构 (Bourdieu / Eacott)<br>• 批判性与创造性协同增益 (Li et al., 2026)"]
+>     D --> E["<b>稳固的高阶认知建构</b><br>• 科学对象自主建构 (Bourdieu / Eacott)<br>• 批判性与创造性协同增益 (Li et al., 2026)<br>• 高质量多模态科学解释建构 (Han & Gutierez, 2026)"]
 > ```
 
 ---

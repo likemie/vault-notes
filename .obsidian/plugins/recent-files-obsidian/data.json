@@ -5,12 +5,28 @@
       "path": "wiki/arguments/journal-articles/International Journal of Science Education/Argument_Han_Gutierez_2026_IJSE.md"
     },
     {
-      "basename": "Multimodal Discourse Analysis",
-      "path": "wiki/methods/qualitative/Multimodal Discourse Analysis.md"
+      "basename": "Scientific Explanation",
+      "path": "wiki/concepts/curriculum/Scientific Explanation.md"
+    },
+    {
+      "basename": "Critical Thinking",
+      "path": "wiki/concepts/competency-and-assessment/Critical Thinking.md"
     },
     {
       "basename": "Transcription in Qualitative Research",
       "path": "wiki/methods/qualitative/Transcription in Qualitative Research.md"
+    },
+    {
+      "basename": "Discourse Analysis",
+      "path": "wiki/methods/qualitative/Discourse Analysis.md"
+    },
+    {
+      "basename": "Cooperative Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Cooperative Learning.md"
+    },
+    {
+      "basename": "Multimodal Discourse Analysis",
+      "path": "wiki/methods/qualitative/Multimodal Discourse Analysis.md"
     },
     {
       "basename": "Epistemic Agency",
@@ -39,10 +55,6 @@
     {
       "basename": "Epistemic Scaffolding",
       "path": "wiki/concepts/instruction-pedagogy/Epistemic Scaffolding.md"
-    },
-    {
-      "basename": "Scientific Explanation",
-      "path": "wiki/concepts/curriculum/Scientific Explanation.md"
     },
     {
       "basename": "AI Hallucination",
@@ -187,18 +199,6 @@
     {
       "basename": "STEM Education",
       "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
-    },
-    {
-      "basename": "Chain of Evidence",
-      "path": "wiki/concepts/research-methodology/Chain of Evidence.md"
-    },
-    {
-      "basename": "Self-Efficacy",
-      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
-    },
-    {
-      "basename": "Peer Debriefing",
-      "path": "wiki/methods/qualitative/Peer Debriefing.md"
     }
   ],
   "omittedPaths": [],
