@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序，传统实证主义将其预设为贯通自然与社会的普适法则，而当代科学哲学与科学教育将其重构为多元、情境化且受价值制约的社会认识论实践。"
 type: concept
 domain: "educational-philosophy"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_methods:
   - "[[Random Assignment]]"
 related_instruments: []
 related_persons:
+  - "[[William A. Sandoval]]"
   - "[[Anthony Giddens]]"
   - "[[Andreas Kazamias]]"
   - "[[Marc-Antoine Jullien]]"
@@ -124,7 +125,7 @@ updated: 2026-09-22
 
 当代科学教育与科学本质研究则达成了强调方法多元性的共识。
 
-> [!citation-card] 桑多瓦尔论科学本质视域下的方法多元共识
+> [!citation-card] [[William A. Sandoval|桑多瓦尔]]论科学本质视域下的方法多元共识
 > 科学方法是多样的：科学共同体已经打破了“存在唯一且线性的科学方法（'The' Scientific Method）”的神话，明确承认科学知识是借助观察、建模、实验与历史推演等多种合法途径建构而成的。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 638)]]
 >
 > *Scientific methods are diverse... scientific knowledge is constructed using a variety of methods, including observation, modeling, experiment, and historical reconstruction.*
@@ -218,7 +219,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > [!concept-lens] 方法多元主义与[[Practical Epistemology\|实践认识论]]
 > 该维度消解“单一机械方法”的神话，将科学探究视作社会共同体内的动态建构、模型拟合与修辞论证过程。
 
-> [!claim] Sandoval, W. A.
+> [!claim] [[William A. Sandoval|Sandoval, W. A.]]
 > **方法多元性与[[Formal Epistemology\|形式认识论]]对实践认识论的遮蔽** 科学探索不存在唯一且线性的标准化规程，不同领域的科学家根据对象特质综合运用实验、观察、建模与历史推演。学校科学长期将科学方法教条化为“一步步执行的实验室步骤”，这导致学生在测验中表现出极度幼稚的[[Formal Epistemology\|形式认识论]]（误以为做实验纯粹是为了证明既定答案，把理论视作无证据的猜测），而严重遮蔽了他们在真实探究实践中所运用的复杂[[Practical Epistemology\|实践认识论]]决策与社会性论证能力。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 634–642)]]
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
@@ -266,7 +267,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > - **19 世纪中后期 — 实证主义法典化与社会学独立学科确立** 孔德与密尔系统确立实证[[Epistemology\|认识论]]阶梯与经验因果归纳法则，推动社会研究摆脱神学与形而上学思辨，奠定了现代统计与[[Survey Research\|调查研究]]的实证根基。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011)]]
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification\|证伪主义]]确立** 维也纳学派追求完全经验证实与学科统一，波普尔（[[Karl Popper]]）提出证伪主义标准，将“是否可经验证伪”确立为区分科学与非科学的核心标尺。
 > - **20 世纪 60–80 年代 — 库恩[[Paradigm\|范式]]革命与[[Interpretive Paradigm\|反实证主义]]哲学高涨** 库恩揭示常规科学与范式转换的历史社会嵌入性，科学方法纯粹客观中立的神话被打破；诠释学派与[[Critical Theory\|批判理论]]崛起，高扬人类主体能动性与价值批判维度。
-> - **2000s — 科学本质与[[Practical Epistemology\|实践认识论]]转向** 桑多瓦尔（[[Argument_Sandoval_2005_SE\|Sandoval, 2005]]）提出区分形式与实践认识论，揭示中小学将科学方法教条化为单一实验步骤对学生认识论发展的损害。
+> - **2000s — 科学本质与[[Practical Epistemology\|实践认识论]]转向** [[William A. Sandoval|桑多瓦尔]]（[[Argument_Sandoval_2005_SE\|Sandoval, 2005]]）提出区分形式与实践认识论，揭示中小学将科学方法教条化为单一实验步骤对学生认识论发展的损害。
 > - **2018 — 学科家族相似性与微观[[Epistemic Practices\|认识论实践]]确立** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 运用维特根斯坦家族相似性与[[Practical Epistemology Analysis\|实践认识论分析]]（PEA），系统解构科学方法五步法神话，确立探究科学、工程与社会议题跨领域实践矩阵。
 > - **2020s — 循证技术自满批判与教育[[Ontology\|本体论]]反思** 教育学界深度批判[[Evidence-Based Education\|循证教育]]将科学方法简化为[[Meta-analysis\|元分析]]数据霸权的技术自满（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]; [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]]）。
 

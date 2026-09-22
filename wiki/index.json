@@ -5579,6 +5579,15 @@
     ]
   },
   {
+    "title": "Epistemic Provocateur",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Epistemic Provocateur.md",
+    "aliases": [
+      "认识论挑衅者",
+      "epistemic provocateurs"
+    ]
+  },
+  {
     "title": "Gamification",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Gamification.md",
@@ -18096,6 +18105,16 @@
     ]
   },
   {
+    "title": "Dan Sperber",
+    "type": "person",
+    "path": "wiki/persons/france/Dan Sperber.md",
+    "aliases": [
+      "Sperber, D.",
+      "丹·斯珀伯",
+      "斯珀伯"
+    ]
+  },
+  {
     "title": "Didier Eribon",
     "type": "person",
     "path": "wiki/persons/france/Didier Eribon.md",
@@ -20313,6 +20332,17 @@
       "温迪·埃斯佩兰德",
       "温迪·N·埃斯佩兰德",
       "Wendy Nelson Espeland"
+    ]
+  },
+  {
+    "title": "William A. Sandoval",
+    "type": "person",
+    "path": "wiki/persons/us/William A. Sandoval.md",
+    "aliases": [
+      "Sandoval, W. A.",
+      "Sandoval, W.",
+      "威廉·桑多瓦尔",
+      "桑多瓦尔"
     ]
   },
   {

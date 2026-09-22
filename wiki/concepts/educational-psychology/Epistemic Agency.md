@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemic Scaffolding]]"
   - "[[Scientific Explanation]]"
+  - "[[Epistemic Provocateur]]"
   - "[[Epistemic Cognition]]"
   - "[[Problem Solving]]"
   - "[[Epistemic Ideals]]"
@@ -213,7 +214,7 @@ updated: 2026-09-22
 > **双轨支架赋能关系性认识能动性落地** 针对认识主体性在技术中介中易退化的问题，必须通过技术提示词支架（如[[Chain-of-Thought Prompting\|思维链]]引导、批判性质疑提示）与教学法支架（如交互式同行评审）的双轨协同干预，驱动学习者认识立场向评价主义演进，从而在人机相互依赖格局中确立可质疑、可恢复与负责任的关系性认识主体性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–366)]]; [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 7–8)]]
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]
-> **显性[[Epistemic Scaffolding\|认识论支架]]保障基础教育学习者在人机协同中维系核心认识主体性** 初中生在人机协同[[Scientific Explanation\|科学解释]]探究中，并非被动接受大模型生成的顺滑内容。通过同伴联合审议、四项科学解释标准评估、迭代提示词重构以及先验知识调取的课堂规范，中学生将 GenAI 锚定为信息源、对话伙伴与“认识论挑衅者”，在文本解释与多模态图像生成的持续审问、比对与修改中行使实质性的因果机制裁决权，有效抵御了盲目认知卸载。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 6–8, 22–24)]]
+> **显性[[Epistemic Scaffolding\|认识论支架]]保障基础教育学习者在人机协同中维系核心认识主体性** 初中生在人机协同[[Scientific Explanation\|科学解释]]探究中，并非被动接受大模型生成的顺滑内容。通过同伴联合审议、四项科学解释标准评估、迭代提示词重构以及先验知识调取的课堂规范，中学生将 GenAI 锚定为信息源、对话伙伴与“[[Epistemic Provocateur|认识论挑衅者]]”，在文本解释与多模态图像生成的持续审问、比对与修改中行使实质性的因果机制裁决权，有效抵御了盲目认知卸载。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 6–8, 22–24)]]
 
 ---
 

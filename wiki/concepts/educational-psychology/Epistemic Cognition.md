@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 71
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_methods:
   - "[[Three-Level Meta-Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[William A. Sandoval]]"
   - "[[Clark A. Chinn]]"
 related_facts: []
 related_arguments:
@@ -164,7 +165,7 @@ updated: 2026-09-22
 > - **[[Epistemic Virtues and Vices\|认识论美德与恶习]]** 思想开放、理智勇气等促进认识目标的性格倾向。
 > - **可靠与不可靠的过程** 涵盖产生信念的[[Causality\|因果推断]]与同行评审机制。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
 
-> [!claim] Sandoval, W.
+> [!claim] [[William A. Sandoval|Sandoval, W.]]
 > **[[Integrative Pluralism\|整合多元主义]]层级框架** 认识论认知的本体形态不能局限于个体头脑，必须通过多层聚合来分析：
 > - **个体层级** 调配细粒度[[Epistemic Resources\|认识论资源]]与心智模型。
 > - **人际交互层级** 微观社会群体内协商共同的认识目标与标准。

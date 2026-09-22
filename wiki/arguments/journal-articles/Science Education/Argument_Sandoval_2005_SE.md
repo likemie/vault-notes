@@ -2,7 +2,7 @@
 summary: "关于学生科学本质信念和探究实践的研究存在脱节，必须研究指导学生自身探究的实践认识论，以弥合这一差距并促进科学认识论的发展。"
 type: argument
 authors:
-  - Sandoval, W. A.
+  - "[[William A. Sandoval|Sandoval, W. A.]]"
 source_language: en
 citation: "Sandoval, W. A. (2005). Understanding students' practical epistemologies and their influence on learning through inquiry. Science Education, 89(4), 634-656."
 year: 2005

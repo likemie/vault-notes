@@ -7,7 +7,7 @@ aliases:
 summary: "批判性认识论与认知科学概念，指研究者与学习者持续审视日常语言、前科学常识预设及算法表面流畅性以维持认知主体性与深层推理的心智机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Epistemic Scaffolding]]"
   - "[[Scientific Explanation]]"
+  - "[[Epistemic Provocateur]]"
   - "[[Operationalization]]"
   - "[[Growth]]"
   - "[[Champ]]"
@@ -181,7 +182,7 @@ updated: 2026-09-22
 > **[[Epistemic Friction\|认识论摩擦]]作为[[Surface and Deep Learning\|深层学习]]所必需的生产性张力** 高阶心智的发展高度依赖于主体在面对异质观点与复杂事实时所经历的“认识论摩擦”（Epistemic Friction）。生成式 AI 的平滑输出天然具有抹平认知阻力的危险；唯有当学习者维持高水平的认识论警觉、主动设置论证质疑与事实核查关卡时，这种生产性张力才能得以维系，从而迫使长时记忆图式深度参与高阶推理。[[Argument_Li_2026_CEAI\|(Medina, 2013; Li et al., 2026, p. 10)]]
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]
-> **双重显性[[Epistemic Scaffolding\|认识论支架]]协同激活人机协同[[Scientific Explanation\|科学解释]]中的三维认识论警觉** 初中生在与生成式人工智能（GenAI）协同建构科学解释时，能够通过显性认识论支架激活并维系高水平的认识论警觉。认识论警觉具体展开为三类互补的评估实践：基于似真性、片面性与语境的内容评估（Content Evaluation）、基于专业性与[[Reliability\|可靠性]]的[[Source Evaluation\|信源评估]]（Source Evaluation），以及审视自身先验[[Hypothesis\|假设]]与理解状态的接收者评估（Receiver Evaluation）。其中，科学解释评价标准（相关性、因果叙事、概念框架、表征水平）直接赋能内容评估并间接辐射信源与自我反思；教师提供的[[Reflexivity\|反思性]]认识论提问提示语则显性驱动信源与接收者评估，两类支架协同确保学生始终占据核心认识主体地位，使 AI 成为提供认知线索与激发批判反思的“认识论挑衅者”（Epistemic Provocateur）。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 2–6, 18–22)]]
+> **双重显性[[Epistemic Scaffolding\|认识论支架]]协同激活人机协同[[Scientific Explanation\|科学解释]]中的三维认识论警觉** 初中生在与生成式人工智能（GenAI）协同建构科学解释时，能够通过显性认识论支架激活并维系高水平的认识论警觉。认识论警觉具体展开为三类互补的评估实践：基于似真性、片面性与语境的内容评估（Content Evaluation）、基于专业性与[[Reliability\|可靠性]]的[[Source Evaluation\|信源评估]]（Source Evaluation），以及审视自身先验[[Hypothesis\|假设]]与理解状态的接收者评估（Receiver Evaluation）。其中，科学解释评价标准（相关性、因果叙事、概念框架、表征水平）直接赋能内容评估并间接辐射信源与自我反思；教师提供的[[Reflexivity\|反思性]]认识论提问提示语则显性驱动信源与接收者评估，两类支架协同确保学生始终占据核心认识主体地位，使 AI 成为提供认知线索与激发批判反思的“[[Epistemic Provocateur|认识论挑衅者]]”（Epistemic Provocateur）。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 2–6, 18–22)]]
 
 ---
 

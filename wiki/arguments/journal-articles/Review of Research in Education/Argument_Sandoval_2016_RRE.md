@@ -2,7 +2,7 @@
 summary: "对认识论认知研究的历史溯源、四大核心断层线（知识概念化、情境性、发展轨迹、测量方法）的系统梳理，并呼吁迈向整合的多元主义范式。"
 type: argument
 authors:
-  - "Sandoval, W. A."
+  - "[[William A. Sandoval|Sandoval, W. A.]]"
   - "Greene, J. A."
   - "Bråten, I."
 source_language: en

@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念并非跨情境通用的，而是深度内嵌于特定学科知识结构与社会情境中；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"
   - "[[Deanna Kuhn]]"
+  - "[[William A. Sandoval]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Greene_2010_JEP]]"
@@ -190,7 +191,7 @@ flowchart TD
 > [!concept-lens] 颗粒度解构
 > 探讨即便将“领域”细分到学科层面，是否依然过于粗放，不足以捕捉动态的课堂认知交互。
 
-> [!claim] Sandoval, W. A.
+> [!claim] [[William A. Sandoval|Sandoval, W. A.]]
 > **颗粒度（Grain Size）危机与动态[[Epistemic Resources\|认识论资源]]** 将“科学”或“历史”视为铁板一块的领域依然过于粗放。质性[[Discourse Analysis\|话语分析]]显示，在面对同一篇历史[[Document\|文献]]或科学文本时，学习者的认知标准会随任务目标发生即时漂移（如专业历史学家在严谨学术考据与宗教情感认同间的无缝切换）。因此，宏观领域特异性应向微观“情境特异性（Context Specificity）”深化：心智并非携带固化的学科特异信念，而是在具体社会情境中按需激活的细粒度“[[Epistemic Resources\|认识论资源]]”。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, pp. 473–474)]]
 
 ---

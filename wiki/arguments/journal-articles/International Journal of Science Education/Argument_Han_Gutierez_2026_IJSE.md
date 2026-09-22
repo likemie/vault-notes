@@ -29,13 +29,14 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
+  - "[[Epistemic Provocateur]]"
   - "[[Epistemic Agency]]"
   - "[[Cognitive Offloading]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Source Evaluation]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
+  - "[[Growth]]"
   - "[[Cooperative Learning]]"
   - "[[STEM Education]]"
   - "[[Document]]"
@@ -51,11 +52,12 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dan Sperber]]"
+  - "[[William A. Sandoval]]"
 related_facts:
   - "[[ROOTS]]"
 related_arguments:
-  - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
 sources:
@@ -70,7 +72,7 @@ title: "Argument_Han_Gutierez_2026_IJSE"
 argument_key: "Argument_Han_Gutierez_2026_IJSE"
 argument_display_title: "‘How can we check the evidence presented by GenAI’s response?’: students’ epistemic vigilance of their co-constructed scientific explanations with GenAI"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -90,10 +92,10 @@ issuing_organization: ""
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]（generative artificial intelligence, GenAI）深度融入科学教育的背景下，大语言模型展现出的表面语义流畅性与潜在的生成虚构（[[AI Hallucination]]）对学生的认知判断构成了严峻挑战。既有探索多聚焦于人工智能对探究产出与推理结果的辅助效能，却极少考察学生在人机协同建构[[Scientific Explanation\|科学解释]]过程中如何对算法生成的知识展开批判性评估与核验。初中科学学习者在显性[[Epistemic Scaffolding\|认识论支架]]（explicit epistemic [[Scaffolding]]）的支持下，如何践行[[Epistemological Vigilance\|认识论警觉]]（epistemic vigilance）？学科解释标准与[[Reflexivity\|反思性]]提问提示语如何协同引导学生对人机生成的文本与多模态图像开展内容、信源及自我认知层面的审问、核对与迭代重构？
 
 > [!claim] 核心主张
-> 初中生在人机协同建构科学解释时具备践行多维认识论警觉的认知潜能；通过显性学科解释标准（直接主导内容评估并间接辐射信源与自身监控）与反思性提问提示语（显性驱动信源核验与接收者自我监控并锚定于内容质量）构成的双轨协同支架，学生能够将生成式人工智能定位为信息源、[[Dialogue in Education\|对话]]伙伴与“[[Epistemology\|认识论]]挑衅者”（epistemic provocateur），在多轮提示词重构、多模态图文修正与权威教科书[[Triangulation\|三角互证]]中牢固维系核心[[Epistemic Agency\|认识主体性]]，有效阻断心智盲从与消极[[Cognitive Offloading\|认知卸载]]。（pp.2–7, 22–24）
+> 初中生在人机协同建构科学解释时具备践行多维认识论警觉的认知潜能；通过显性学科解释标准（直接主导内容评估并间接辐射信源与自身监控）与反思性提问提示语（显性驱动信源核验与接收者自我监控并锚定于内容质量）构成的双轨协同支架，学生能够将生成式人工智能定位为信息源、[[Dialogue in Education\|对话]]伙伴与“[[Epistemology|认识论]]挑衅者”（[[Epistemic Provocateur]]），在多轮提示词重构、多模态图文修正与权威教科书[[Triangulation\|三角互证]]中牢固维系核心[[Epistemic Agency\|认识主体性]]，有效阻断心智盲从与消极[[Cognitive Offloading\|认知卸载]]。（pp.2–7, 22–24）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 韩国京畿道 8 名初中二年级学生在两节课后科学探究课（利用 Canva 协同建构植物[[Growth\|生长]]解释、利用 ChatGPT 协同建构真菌分类解释）中的微观互动对话、数字图文制品与回溯访谈。
+> - **对象** 韩国京畿道 8 名初中二年级学生在两节课后科学探究课（利用 Canva 协同建构植物生长解释、利用 ChatGPT 协同建构真菌分类解释）中的微观互动对话、数字图文制品与回溯访谈。
 > - **张力** 生成式人工智能表层顺畅性所引发的被动认知卸载与盲目信任，与科学教育所要求的严谨因果机制解释、证据核查及学习者认识主体性之间的深层冲突。
 > - **贡献** 将演化认知科学的认识论警觉理论与学习科学的认识论支架理论深度融合，构建并实证检验了“内容—信源—接收者”三维评估模型与“学科标准 + 反思提问”双轨支架机制，为人工智能时代的科学探究教学提供了具操作性的微观[[Analytic Framework\|分析框架]]与教学干预[[Paradigm\|范式]]。
 
@@ -104,9 +106,9 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **认识论警觉理论**<br>[[Epistemological Vigilance]] | 源自认知科学与科学教育（Sperber et al., 2010; Bielik & Krell, 2025; Tseng et al., 2021），指学习者在接收外界传递的信息时保持的主动核验与批判审查机制，涵盖三个维度：内容评估（判断内容是否合理、片面或脱离语境）、[[Source Evaluation\|信源评估]]（考察信息提供者的专业性与[[Reliability\|可靠性]]）以及接收者评估（反思自身的理解程度与先验[[Hypothesis\|假设]]）。（pp.4–5） |
+> | **认识论警觉理论**<br>[[Epistemological Vigilance]] | 源自认知科学与科学教育（[[Dan Sperber\|Sperber et al., 2010]]; Bielik & Krell, 2025; Tseng et al., 2021），指学习者在接收外界传递的信息时保持的主动核验与批判审查机制，涵盖三个维度：内容评估（判断内容是否合理、片面或脱离语境）、[[Source Evaluation\|信源评估]]（考察信息提供者的专业性与[[Reliability\|可靠性]]）以及接收者评估（反思自身的理解程度与先验[[Hypothesis\|假设]]）。（pp.4–5） |
 > | **显性认识论支架理论**<br>[[Epistemic Scaffolding]] | 源自计算机支持的协作学习与分布式支架理论（Lin & Puntambekar, 2019; Puntambekar, 2021; Barzilai et al., 2020），主张通过清晰展示学科评价标准与反思提示，帮助学生掌握如何评价知识主张与论证质量的规则。（pp.4–6） |
-> | **科学解释评价标准**<br>[[Scientific Explanation]] | 源自科学教育研究（[[Argument_Sandoval_2005_SE\|Sandoval, 2005]]; de Andrade et al., 2019），确立了优质科学解释的四项核心准则：相关性（回答核心问题）、因果叙事（揭示因果链条）、概念框架（依托系统科学概念）与适切表征水平（微观与宏观机制匹配），以此作为学生评估生成内容质量的操作基准。（pp.5–6） |
+> | **科学解释评价标准**<br>[[Scientific Explanation]] | 源自科学教育研究（[[William A. Sandoval\|Sandoval, 2005]]; de Andrade et al., 2019），确立了优质科学解释的四项核心准则：相关性（回答核心问题）、因果叙事（揭示因果链条）、概念框架（依托系统科学概念）与适切表征水平（微观与宏观机制匹配），以此作为学生评估生成内容质量的操作基准。（pp.5–6） |
 > | **人机协同中的认识主体性**<br>[[Epistemic Agency]] | 强调在人工智能辅助学习中，学生必须始终保有对知识有效性的判断权、证据的核验权与解释方案的决定权，防止将思考过程完全外包给算法（[[Argument_Wu_2025_ER\|Wu et al., 2025]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）。（pp.3–4, 6–7） |
 
 > [!warrant]- 理论如何支撑论证
@@ -177,7 +179,7 @@ issuing_organization: ""
 
 > [!line-a] 案例一：学生 A 与 B 重构植物器官协同因果故事（[[Dialogue in Education\|对话]] 1）
 > - **初始提示词与算法输出** 学生在 Canva 中输入了一个宽泛的问题：“你能解释植物为什么能长得这么好吗？”（行 12）。Canva 生成了一大段文字，并列列举了光合作用、根、茎、叶、繁殖策略以及共生关系（行 13）。
-> - **对照标准进行批判性审查** 学生 A 和 B 读完后立刻讨论：“光合作用、根、茎、叶、繁殖、共生……这些内容符合科学道理吗？它列举了很多观点，但真正解释了植物为什么能[[Growth\|生长]]吗？”（行 14）。学生 B 指出：“这个回答把每个器官分开来讲。我们应该问它们是如何协同工作的。”（行 17a）。
+> - **对照标准进行批判性审查** 学生 A 和 B 读完后立刻讨论：“光合作用、根、茎、叶、繁殖、共生……这些内容符合科学道理吗？它列举了很多观点，但真正解释了植物为什么能生长吗？”（行 14）。学生 B 指出：“这个回答把每个器官分开来讲。我们应该问它们是如何协同工作的。”（行 17a）。
 > - **重构提示词以补全因果链条** 学生 B 随后输入了更具针对性的提示词：“解释根、茎、叶的相互作用如何帮助植物良好生长”（行 20）。随后 Canva 生成了包含“根部吸水吸肥—茎部输送—叶片光合作用造糖并回传根部”的完整因果循环。学生 B 评价道：“现在的解释说明了发生了什么以及为什么发生，这清楚多了。”（行 30）。（pp.11–13）
 
 > [!table] 对话 1 核心交互片段（Sample Dialogue 1, pp. 12–14）
@@ -311,7 +313,7 @@ issuing_organization: ""
 
 > [!stat-cards]- 核心数据
 > - **8** 韩国初中二年级参与学生总数（人，分为 4 个合作小组）。（p.6）
-> - **2** 开展的人机协同科学探究课时主题（植物[[Growth\|生长]]机制与真菌分类学界定）。（p.7）
+> - **2** 开展的人机协同科学探究课时主题（植物生长机制与真菌分类学界定）。（p.7）
 > - **4** 课堂确立的人机协同核心规范与科学解释评价标准维度。（pp.7–8）
 > - **3** 质性[[Discourse Analysis\|话语分析]]提炼的核心认识论警觉实践维度（内容、信源、接收者评估）。（pp.11–22）
 
@@ -325,7 +327,7 @@ issuing_organization: ""
 > *The criteria for good scientific explanations primarily scaffolded content evaluation by making explicit the disciplinary standards that scientists use to judge the quality of explanations... Complementing the [[Epistemic Ideals\|epistemic criteria]], epistemic question prompts explicitly directed students to examine the credibility of information and to monitor their own epistemic reasoning.*
 
 > [!citation-card]- 生成式人工智能激发主动审思的协作角色
-> 最关键的是，GenAI 承担了“认识论挑衅者”的角色——通过生成需要辨析的回复，激发学生的[[Epistemological Vigilance\|认识论警觉]]去质疑、核验与批判，而非直接替代其思维。（pp.6–7）
+> 最关键的是，GenAI 承担了“[[Epistemic Provocateur|认识论挑衅者]]”的角色——通过生成需要辨析的回复，激发学生的[[Epistemological Vigilance\|认识论警觉]]去质疑、核验与批判，而非直接替代其思维。（pp.6–7）
 >
 > *Most crucial however, was its role as an epistemic provocateur by producing responses that encourage students' epistemic vigilance to question, verify, critique.*
 
