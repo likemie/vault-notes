@@ -12282,6 +12282,15 @@
     ]
   },
   {
+    "title": "Critical Pluralism",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Critical Pluralism.md",
+    "aliases": [
+      "批判性多元主义",
+      "批判多元主义"
+    ]
+  },
+  {
     "title": "Dynamic Sustainability Framework",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Dynamic Sustainability Framework.md",
@@ -12448,6 +12457,18 @@
       "Stages Heuristic",
       "Policy Cycle Model",
       "Six-Stage Policy Process Model"
+    ]
+  },
+  {
+    "title": "Subgovernment Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Subgovernment Theory.md",
+    "aliases": [
+      "次政府理论",
+      "铁三角理论",
+      "亚政府理论",
+      "Iron Triangle Theory",
+      "Subgovernments"
     ]
   },
   {
@@ -25740,6 +25761,16 @@
     ]
   },
   {
+    "title": "Reading Excellence Act",
+    "type": "fact",
+    "path": "wiki/facts/us/Reading Excellence Act.md",
+    "aliases": [
+      "卓越阅读法案",
+      "卓越阅读法",
+      "REA"
+    ]
+  },
+  {
     "title": "Report on Elementary Public Instruction in Europe",
     "type": "fact",
     "path": "wiki/facts/us/Report on Elementary Public Instruction in Europe.md",
@@ -27048,6 +27079,11 @@
     "title": "Argument_Golovchin_2019_ESC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md"
+  },
+  {
+    "title": "Argument_Edmondson_2005_EPAA",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
   },
   {
     "title": "Argument_Larsen_2019_EducSci",

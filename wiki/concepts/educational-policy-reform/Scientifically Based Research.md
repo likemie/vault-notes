@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Scientifically Based Research
@@ -79,7 +79,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 科学本位研究（Scientifically Based Research, SBR）是 2001 年美国《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）与 2002 年《教育科学改革法》（Education Sciences Reform Act, ESRA）首次确立的联邦法定证据准入标准，指“采用严谨、系统和客观的程序以获取与教育活动和项目相关的可靠与有效知识的研究”；该标准明确将实验设计（特别是带有[[Random Assignment\|随机分配]]的实验）和严格的[[Quasi-Experimental Designs\|准实验设计]]奉为优先青睐的实证方法，作为联邦教育专项拨款申请、教学干预方案采购与学校绩效问责的强制前置条件。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]; [[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]]
+> 科学本位研究（Scientifically Based Research, SBR）是 1998 年美国《[[Reading Excellence Act|卓越阅读法案]]》（Reading Excellence Act, REA）首次在联邦立法中界定、并由 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）与 2002 年《教育科学改革法》（Education Sciences Reform Act, ESRA）全面确立的联邦法定证据准入标准，指“采用严谨、系统和客观的程序以获取与教育活动和项目相关的可靠与有效知识的研究”；该标准明确将实验设计（特别是带有[[Random Assignment|随机分配]]的实验）和严格的[[Quasi-Experimental Designs|准实验设计]]奉为优先青睐的实证方法，作为联邦教育专项拨款申请、教学干预方案采购与学校绩效问责的强制前置条件。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]; [[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 109)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 国家通过法定立法手段将以实验[[Causality\|因果推断]]为核心的[[Positivism\|实证主义]]科学规范转化为教育行政准入与财政资助的规制门槛。
@@ -103,7 +103,7 @@ updated: 2026-09-18
 > [!contrast-table] 联邦证据准入概念演进与辨析
 > | 维度 | 科学本位研究（SBR） | 循证标准（Evidence-Based Standards） | [[Evidence-Based Reform\|证据本位改革]]（Evidence-Based Reform） |
 > |---|---|---|---|
-> | **法定渊源** | 2001 年 [[No Child Left Behind Act 2001\|NCLB]] 法案、2002 年 ESRA 法案 | 2015 年 [[Every Student Succeeds Act\|ESSA]] 法案 | [[Robert Slavin\|Slavin]] 等学者倡导的政策改革理论 |
+> | **法定渊源** | 1998 年 [[Reading Excellence Act\|REA]] 法案（首次法定界定）、2001 年 [[No Child Left Behind Act 2001\|NCLB]] 法案、2002 年 ESRA 法案 | 2015 年 [[Every Student Succeeds Act\|ESSA]] 法案 | [[Robert Slavin\|Slavin]] 等学者倡导的政策改革理论 |
 > | **方法学门槛** | 严苛偏好[[Randomised Controlled Trials\|随机对照试验]]（RCT）与准实验（[[Quasi-Experimental Designs\|QED]]） | 建立多梯级门槛（涵盖实验、准实验、相关性及理论逻辑） | 强调经过真实课堂多地点重复检验的实验证据 |
 > | **[[Operationalization\|操作化]]粒度** | 二元笼统（要么符合要么不符合），缺乏分级细化 | 四级清晰[[Operationalization\|操作化]]（Tier 1–4 分级标准） | 聚焦结构化、可复制的完整教学方案 |
 > | **审查指向** | 指向干预项目所宣称的底层科学原理 | 指向干预项目本身产出的实证干预数据 | 指向具体项目在独立审查平台中的因果成效 |
@@ -114,6 +114,7 @@ updated: 2026-09-18
 ## 核心要素
 
 > [!feature] 核心要素
+> - **法定立法源流与术语演变（Statutory Lineage & Term Evolution）** 该标准的成文法表述源自 1998 年《[[Reading Excellence Act|卓越阅读法案]]》在国会参众两院的立法博弈：众议院初版曾试图推行更为狭隘的“可靠且可复制的研究”（Reliable, replicable research），后在参议院经专业组织游说与多方妥协，正式确立为“科学本位阅读研究”（Scientifically based reading research, SBRR），并为后续 NCLB 的通盘移植提供了标准法律文本模板。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 > - **程序系统性与客观性（Rigorous & Objective Procedures）** 要求研究采用严密的经验证据收集与量化分析技术，确保研究结论具备可重复性与跨情境统计效度。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
 > - **实验[[Causality\|因果推断]]偏好（Preference for Experimental Designs）** 在法典中明确确立了因果推断方法学等级，优先资助和采纳采用[[Random Assignment\|随机分配]]实验与[[Pre-test and Post-test\|前测]]对照准实验的方案。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]]
 > - **联邦财政资助准入杠杆（Statutory Funding Leverage）** 将符合 SBR 标准作为学区获取 [[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿教育资助、阅读优先计划（Reading First）等数百亿美元联邦专项拨款的法定义务。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–24)]]
