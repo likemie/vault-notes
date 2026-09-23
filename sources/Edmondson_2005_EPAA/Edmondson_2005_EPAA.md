@@ -11,7 +11,7 @@ processed_date: 2026-09-24
 
 
 <iframe
-  src="https://img.mylikemie.icu/sources/Edmondson_2005_EPAA.pdf"
+  src="https://img.mylikemie.icu/sources/Edmondson_2005_EPAA/Edmondson_2005_EPAA.pdf"
   width="100%"
   height="820"
   style="border: 1px solid #ddd; border-radius: 8px;"

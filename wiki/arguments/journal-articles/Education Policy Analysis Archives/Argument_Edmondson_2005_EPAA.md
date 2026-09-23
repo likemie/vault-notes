@@ -27,7 +27,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[sources/Edmondson_2005_EPAA|Edmondson_2005_EPAA]]"
+  - "[[sources/Edmondson_2005_EPAA/Edmondson_2005_EPAA|Edmondson_2005_EPAA]]"
 part_of:
 status: draft
 created: 2026-09-24
@@ -265,4 +265,4 @@ issuing_organization: ""
 
 ## 来源
 
-- [[sources/Edmondson_2005_EPAA|Edmondson_2005_EPAA]]
+- [[sources/Edmondson_2005_EPAA/Edmondson_2005_EPAA|Edmondson_2005_EPAA]]
