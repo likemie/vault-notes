@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Socrates",
+      "path": "wiki/persons/greece/Socrates.md"
+    },
+    {
       "basename": "Argument_Naeem_2026_Episteme",
       "path": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
     },
@@ -9,12 +13,12 @@
       "path": "wiki/persons/greece/Plato.md"
     },
     {
-      "basename": "Lev Vygotsky",
-      "path": "wiki/persons/russia/Lev Vygotsky.md"
+      "basename": "Meno",
+      "path": "wiki/concepts/educational-philosophy/Meno.md"
     },
     {
-      "basename": "Socrates",
-      "path": "wiki/persons/greece/Socrates.md"
+      "basename": "Lev Vygotsky",
+      "path": "wiki/persons/russia/Lev Vygotsky.md"
     },
     {
       "basename": "Argument_Smith_2026_SPE",
@@ -195,10 +199,6 @@
     {
       "basename": "Anthony Giddens",
       "path": "wiki/persons/uk/Anthony Giddens.md"
-    },
-    {
-      "basename": "Interactional Ethnography",
-      "path": "wiki/methods/qualitative/Interactional Ethnography.md"
     }
   ],
   "omittedPaths": [],

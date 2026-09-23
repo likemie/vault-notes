@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Argument_Darwish_2009_Queens"
 argument_kind: "books"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Banking Model of Education]]"
   - "[[Socratic Elenchus]]"
+  - "[[Meno]]"
   - "[[Determinism]]"
   - "[[Learning by Doing]]"
   - "[[Conscientization]]"
@@ -140,7 +141,7 @@ related_persons:
 ##### 主题一：古典教育哲学的继承与局限：从理智反诘到阶层固化
 
 > [!tension] 理智能动性与社会阶层固化的张力
-> - **柏拉图[[Socrates\|苏格拉底]]对话录（Socratic Dialogue）** 强调通过理智反诘（[[Socratic Elenchus\|苏格拉底驳诘法]]）与概念澄清唤醒学习者内在的理性与回忆（Anamnesis），承认个体具备认识真理的潜在能动性 (pp. 1–2)。
+> - **柏拉图[[Socrates\|苏格拉底]]对话录（Socratic Dialogue）** 强调通过理智反诘（[[Socratic Elenchus\|苏格拉底驳诘法]]）与概念澄清唤醒学习者内在的理性与回忆（[[Meno|Anamnesis]]），承认个体具备认识真理的潜在能动性 (pp. 1–2)。
 > - **古典阶层[[Determinism\|决定论]]局限** 柏拉图的《理想国》将人划分为金银铜铁不同等级，亚里士多德将闲暇与哲学思考限定于自由民男性，否定了劳动阶级与奴隶的教育能动性。古典哲学虽然开启了理智探究，却在社会结构上维护了封建与奴隶制阶层固化 (pp. 2–3)。
 
 ---

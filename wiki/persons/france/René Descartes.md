@@ -7,7 +7,7 @@ summary: "法国哲学家、数学家与科学家，近代哲学之父，以我�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Epistemology]]"
+  - "[[Meno]]"
   - "[[Ontology]]"
   - "[[Critical Thinking]]"
   - "[[Metacognition]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-09-24
 ---
 
 # René Descartes
@@ -65,7 +66,7 @@ updated: 2026-09-11
 > - **代表贡献** [[Epistemology\|认识论]]的重新奠基（cogito）、心物二元论、解析几何、先天观念论在[[Socrates\|苏格拉底]]—[[Plato\|柏拉图]]传统中的顶峰式复兴
 
 > [!citation-card]- Li 对笛卡尔历史位置的定位
-> 苏格拉底的知识即回忆说、柏拉图的理型论，在西方智识史上一再复苏，在笛卡尔的 cogito 中达到顶峰。[[Argument_Li_2012_Cambridge\|(Li, 2012, p.28)]]
+> 苏格拉底的[[Meno|知识即回忆]]说、柏拉图的理型论，在西方智识史上一再复苏，在笛卡尔的 cogito 中达到顶峰。[[Argument_Li_2012_Cambridge\|(Li, 2012, p.28)]]
 >
 > *The Socratic-Platonic tradition of innatism resurfaces repeatedly in Western intellectual history, reaching its apex in Descartes' cogito.*
 
@@ -117,7 +118,7 @@ updated: 2026-09-11
 > 从 cogito 出发，笛卡尔论证了两个根本不同的实体：思维实体（*res cogitans*）——心智，其本质是思维，不可分割、不占空间；广延实体（*res extensa*）——物质世界，其本质是广延，可分割、占空间。这一心物二元论深刻塑造了 17 世纪以来西方对心智与身体关系的讨论，并为现代科学将自然机械化的世界观提供了哲学支撑（待核）。
 
 > [!claim] 先天观念
-> 笛卡尔论证：某些观念（如上帝、数学真理、完美）不能来自感官经验，因为它们不可能由有限不完美的感官产生。这些先天观念（innate ideas）是心智自带的——像家族印记一样印在我们的灵魂中。Li 将此视为[[Socrates\|苏格拉底]]—[[Plato\|柏拉图]]知识即回忆传统的顶峰：笛卡尔证明了不是人类拥有具体先天知识，而是人有对自身思维的元认知意识——这正是西方心智优先于感官传统的集中体现。[[Argument_Li_2012_Cambridge\|(Li, 2012, p.28)]]
+> 笛卡尔论证：某些观念（如上帝、数学真理、完美）不能来自感官经验，因为它们不可能由有限不完美的感官产生。这些先天观念（innate ideas）是心智自带的——像家族印记一样印在我们的灵魂中。Li 将此视为[[Socrates\|苏格拉底]]—[[Plato\|柏拉图]][[Meno|知识即回忆]]传统的顶峰：笛卡尔证明了不是人类拥有具体先天知识，而是人有对自身思维的元认知意识——这正是西方心智优先于感官传统的集中体现。[[Argument_Li_2012_Cambridge\|(Li, 2012, p.28)]]
 
 ---
 

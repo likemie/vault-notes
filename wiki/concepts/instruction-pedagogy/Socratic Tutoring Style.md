@@ -7,7 +7,7 @@ aliases:
 summary: "欧裔美国家庭中一种以心智能力与积极情感为中心的家长辅导方式，家长像苏格拉底一样引导儿童发现自身心智的伟大"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Cognitive Source]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
+  - "[[Meno]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Learning Virtues]]"
 related_theories: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Socratic Tutoring Style
@@ -104,7 +105,7 @@ updated: 2026-09-22
 ## 与苏格拉底教学法的类比
 
 > [!note]-
-> Li 将其命名为"[[Socrates\|苏格拉底]]式"并非随意。苏格拉底在《美诺篇》中引导一名奴隶男孩学会几何——他没有告诉男孩答案，而是通过提问让男孩自己"发现"几何原理。欧裔美国母亲的做法在结构上类似：她们不直接给出答案，而是通过提问和引导，让儿童自己去理解、去感受、去发现自己的心智能力。
+> Li 将其命名为"[[Socrates\|苏格拉底]]式"并非随意。苏格拉底在[[Meno|《美诺篇》]]中引导一名奴隶男孩学会几何——他没有告诉男孩答案，而是通过提问让男孩自己"发现"几何原理。欧裔美国母亲的做法在结构上类似：她们不直接给出答案，而是通过提问和引导，让儿童自己去理解、去感受、去发现自己的心智能力。
 
 ---
 ## 概念辨析

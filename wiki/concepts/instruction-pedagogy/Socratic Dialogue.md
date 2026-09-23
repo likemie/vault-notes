@@ -10,7 +10,7 @@ aliases:
 summary: "以连续提问、澄清假设、呈现反例与暴露认知矛盾为核心的启发式教学对话策略，在哲学思辨与理科探究中作为关键言语支架促进概念重构与批判性思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemic Deference]]"
   - "[[Heterogeneity]]"
+  - "[[Creativity]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -63,10 +64,11 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Jovchevski_2026_PT]]"
   - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Naeem_2026_Episteme]]"
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Socratic Dialogue
@@ -246,3 +248,4 @@ updated: 2026-09-22
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 阐述对话在克服储蓄式灌输、建立批判性共同探究中的哲学与教学机制。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析苏格拉底式提问引导在文化母子学习对话与心智启蒙中的体现。
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于大语言模型的反思机器（Reflection Machines），将苏格拉底对话[[Operationalization|操作化]]为人机协同决策中的对抗性质询[[AI Agent in Education|智能体]]，通过注入生产性[[Epistemic Friction|认识论摩擦]]抵御[[Automation Bias|自动化偏差]]并维系有意义人类控制。
+> - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 在教育人工智能（Q-Tutor）交互设计中反思苏格拉底式提问的收敛性预设局限，提出由苏格拉底几何诱导向心理治疗式开放探究对话跃迁，以捍卫学习者的思想作者权与[[Creativity|创造力]]美德。

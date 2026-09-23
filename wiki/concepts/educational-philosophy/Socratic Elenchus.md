@@ -11,7 +11,7 @@ aliases:
 summary: "由苏格拉底与柏拉图提出的哲学交锋与交叉反诘方法，通过连续提问揭示既有信念中的内在矛盾，为真理探求与辩证法清理土壤。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Banking Model of Education]]"
   - "[[Socratic Dialogue]]"
+  - "[[Meno]]"
   - "[[Problem Solving]]"
   - "[[Active Learning]]"
   - "[[Critical Pedagogy]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Socratic Elenchus
@@ -87,7 +88,7 @@ updated: 2026-09-22
 >   拒绝[[Banking Model of Education\|储蓄式教育]]自上而下的知识存入，通过反诘暴露出“自以为知道”背后的无知，为真正的探究准备土壤 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 2)]]。
 > - **立场的否定与辩证修正（Refutation & Dialectic）**
 >   利用严密的逻辑推理引出对话者前提与结论之间的内在矛盾，促使对话者主动修改原立场，向更高的真理与“形式本身”（Form itself）靠拢 [[Argument_Li_2012_Cambridge\|(Li, 2012, p. 32)]]。
-> - **[[Socratic Dialogue\|助产术]]与回忆说（Maieutics & Anamnesis）**
+> - **[[Socratic Dialogue\|助产术]]与[[Meno|回忆说]]（Maieutics & Anamnesis）**
 >   将教师定位为精神上的“助产士”，相信理性与知识早已潜藏于人的灵魂深处，教学的使命是通过针对性提问引导学习者自身“产出”真理 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 3)]]。
 
 ---
@@ -176,5 +177,5 @@ updated: 2026-09-22
 > | [[Socratic Tutoring Style]] | 概念 | 驳诘法在现代教学论中的应用形态。 |
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 拆解《申辩篇》《美诺篇》《理想国》中的驳诘法及其阶级局限。
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 拆解《申辩篇》[[Meno|《美诺篇》]]《理想国》中的驳诘法及其阶级局限。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析《优绪弗洛》对话中的 7 轮反诘及其跨文化比较。
