@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md",
+                "file": "wiki/persons/russia/Lev Vygotsky.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Naeem_2026_Episteme"
+              "title": "Lev Vygotsky"
             }
           },
           {
@@ -262,6 +262,9 @@
   },
   "active": "41073bf3fc60164f",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md",
+    "wiki/persons/greece/Socrates.md",
+    "wiki/persons/greece/Plato.md",
     "wiki/arguments/journal-articles/Studies in Philosophy and Education/Argument_Smith_2026_SPE.md",
     "wiki/concepts/educational-technology/AI Hallucination.md",
     "wiki/concepts/educational-policy-reform/Examination-Oriented Education.md",
@@ -269,7 +272,6 @@
     "wiki/concepts/research-methodology/Reflexivity.md",
     "wiki/concepts/educational-psychology/Learned Helplessness.md",
     "wiki/concepts/educational-policy-reform/High-Stakes Testing.md",
-    "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md",
     "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md",
     "wiki/persons/uk/Miranda Fricker.md",
     "wiki/concepts/educational-technology/Alien Intelligence.md",
@@ -287,8 +289,6 @@
     "wiki/persons/brazil/Paulo Freire.md",
     "wiki/theories/educational-philosophy/Epistemic Injustice.md",
     "wiki/concepts/educational-psychology/Epistemic Agency.md",
-    "wiki/concepts/educational-technology/Generative Artificial Intelligence.md",
-    "sources/Smith_2026_SPE.md",
     "sources/Smith_2026_SPE.pdf",
     "scratch_smith_text.txt",
     "scratch_naeem_text.txt",
