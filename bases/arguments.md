@@ -31,6 +31,8 @@ properties:
     displayName: 色带
   updated:
     displayName: 更新
+  created:
+    displayName: 创建
 
 views:
   - type: cards
@@ -80,6 +82,20 @@ views:
       - property: argument_related_count
         direction: DESC
       - property: updated
+        direction: DESC
+
+  - type: table
+    name: 按创建时间
+    order:
+      - argument_display_title
+      - summary
+      - authors
+      - created
+      - year
+      - argument_kind
+      - journal
+    sort:
+      - property: created
         direction: DESC
 
   - type: table
